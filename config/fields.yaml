@@ -1,0 +1,42 @@
+# US FDA NDC (National Drug Code) 欄位映射設定
+
+# 基本設定
+country_code: "US"
+language: "en"
+regulatory_agency: "FDA"
+
+# 資料來源
+# NDC Directory: https://www.accessdata.fda.gov/cder/ndctext.zip
+# 包含所有在美國上市的藥品（處方藥、OTC、生物製劑等）
+
+# 欄位映射 (對應處理後的標準欄位名稱)
+field_mapping:
+  license_id: "ApplNo"              # 申請編號 (NDA/ANDA/BLA)
+  brand_name_local: "DrugName"      # 品牌名稱
+  brand_name_en: "GenericName"      # 通用名稱
+  ingredients: "ActiveIngredient"   # 有效成分
+  indication: ""                    # 適應症 (NDC 不含此資訊)
+  dosage_form: "Form"               # 劑型
+  manufacturer: "Manufacturer"      # 製造商/標籤商
+  approval_date: "ApprovalDate"     # 上市日期
+  status: "MarketingCategory"       # 上市類別
+
+# 已撤銷/停止上市狀態值
+# (NDC 資料中已透過 ENDMARKETINGDATE 過濾，此處僅供參考)
+withdrawn_statuses:
+  - "Discontinued"
+
+# 成分分隔符 (NDC 使用分號分隔多個成分)
+ingredient_separator: ";"
+
+# 日期格式 (NDC 使用 YYYYMMDD 格式)
+date_format: "%Y%m%d"
+
+# 編碼
+encoding: "utf-8"
+
+# 上市類別說明
+# NDA = New Drug Application (新藥)
+# ANDA = Abbreviated NDA (學名藥)
+# BLA = Biologics License Application (生物製劑)
+# OTC = Over-the-Counter (非處方藥)

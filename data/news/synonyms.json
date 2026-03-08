@@ -1,0 +1,338 @@
+{
+  "description": "Disease and drug synonyms for US health news monitoring",
+  "generated": "2026-03-01",
+  "indication_synonyms": {
+    "diabetes mellitus": [
+      "diabetes",
+      "type 2 diabetes",
+      "type 1 diabetes",
+      "T2DM",
+      "T1DM",
+      "diabetic",
+      "blood sugar disease"
+    ],
+    "hypertension": [
+      "high blood pressure",
+      "HTN",
+      "elevated blood pressure",
+      "hypertensive"
+    ],
+    "cancer": [
+      "malignancy",
+      "tumor",
+      "oncology",
+      "carcinoma",
+      "neoplasm"
+    ],
+    "heart disease": [
+      "cardiovascular disease",
+      "cardiac disease",
+      "heart condition",
+      "CVD",
+      "coronary artery disease",
+      "CAD"
+    ],
+    "heart failure": [
+      "CHF",
+      "congestive heart failure",
+      "cardiac failure"
+    ],
+    "myocardial infarction": [
+      "heart attack",
+      "MI",
+      "AMI",
+      "acute coronary syndrome"
+    ],
+    "stroke": [
+      "CVA",
+      "cerebrovascular accident",
+      "brain attack",
+      "cerebral infarction"
+    ],
+    "asthma": [
+      "bronchial asthma",
+      "reactive airway disease",
+      "wheezing"
+    ],
+    "chronic obstructive pulmonary disease": [
+      "COPD",
+      "emphysema",
+      "chronic bronchitis"
+    ],
+    "depression": [
+      "major depressive disorder",
+      "MDD",
+      "clinical depression",
+      "depressive disorder"
+    ],
+    "anxiety disorder": [
+      "anxiety",
+      "GAD",
+      "generalized anxiety",
+      "panic disorder"
+    ],
+    "arthritis": [
+      "joint inflammation",
+      "rheumatoid arthritis",
+      "RA",
+      "osteoarthritis",
+      "OA"
+    ],
+    "obesity": [
+      "overweight",
+      "morbid obesity",
+      "weight management",
+      "BMI"
+    ],
+    "alzheimer disease": [
+      "Alzheimer's",
+      "dementia",
+      "memory loss",
+      "cognitive decline"
+    ],
+    "parkinson disease": [
+      "Parkinson's",
+      "PD",
+      "parkinsonian"
+    ],
+    "multiple sclerosis": [
+      "MS",
+      "demyelinating disease"
+    ],
+    "epilepsy": [
+      "seizure disorder",
+      "convulsions",
+      "epileptic"
+    ],
+    "migraine": [
+      "migraine headache",
+      "chronic migraine"
+    ],
+    "chronic kidney disease": [
+      "CKD",
+      "kidney failure",
+      "renal disease",
+      "ESRD"
+    ],
+    "hepatitis": [
+      "liver inflammation",
+      "hepatitis C",
+      "hepatitis B",
+      "HCV",
+      "HBV"
+    ],
+    "HIV infection": [
+      "HIV",
+      "AIDS",
+      "human immunodeficiency virus"
+    ],
+    "COVID-19": [
+      "coronavirus",
+      "SARS-CoV-2",
+      "COVID",
+      "long COVID"
+    ],
+    "influenza": [
+      "flu",
+      "seasonal flu",
+      "influenza virus"
+    ],
+    "pneumonia": [
+      "lung infection",
+      "respiratory infection"
+    ],
+    "atopic dermatitis": [
+      "eczema",
+      "skin inflammation",
+      "dermatitis"
+    ],
+    "psoriasis": [
+      "psoriatic disease",
+      "skin condition"
+    ],
+    "rheumatoid arthritis": [
+      "RA",
+      "autoimmune arthritis"
+    ],
+    "lupus": [
+      "SLE",
+      "systemic lupus erythematosus",
+      "autoimmune disease"
+    ],
+    "inflammatory bowel disease": [
+      "IBD",
+      "Crohn's disease",
+      "ulcerative colitis",
+      "UC"
+    ],
+    "breast cancer": [
+      "breast carcinoma",
+      "mammary cancer"
+    ],
+    "lung cancer": [
+      "lung carcinoma",
+      "NSCLC",
+      "small cell lung cancer"
+    ],
+    "colorectal cancer": [
+      "colon cancer",
+      "rectal cancer",
+      "CRC",
+      "bowel cancer"
+    ],
+    "prostate cancer": [
+      "prostate carcinoma",
+      "PCa"
+    ],
+    "leukemia": [
+      "blood cancer",
+      "AML",
+      "ALL",
+      "CML",
+      "CLL"
+    ],
+    "lymphoma": [
+      "Hodgkin lymphoma",
+      "non-Hodgkin lymphoma",
+      "NHL"
+    ]
+  },
+  "drug_synonyms": {
+    "metformin": [
+      "Glucophage",
+      "Fortamet",
+      "Glumetza",
+      "Riomet"
+    ],
+    "aspirin": [
+      "acetylsalicylic acid",
+      "ASA",
+      "Bayer",
+      "Ecotrin"
+    ],
+    "ibuprofen": [
+      "Advil",
+      "Motrin",
+      "Nuprin"
+    ],
+    "acetaminophen": [
+      "Tylenol",
+      "paracetamol",
+      "APAP"
+    ],
+    "lisinopril": [
+      "Prinivil",
+      "Zestril",
+      "ACE inhibitor"
+    ],
+    "atorvastatin": [
+      "Lipitor",
+      "statin"
+    ],
+    "omeprazole": [
+      "Prilosec",
+      "proton pump inhibitor",
+      "PPI"
+    ],
+    "levothyroxine": [
+      "Synthroid",
+      "Levoxyl",
+      "thyroid hormone"
+    ],
+    "amlodipine": [
+      "Norvasc",
+      "calcium channel blocker"
+    ],
+    "metoprolol": [
+      "Lopressor",
+      "Toprol",
+      "beta blocker"
+    ],
+    "albuterol": [
+      "Ventolin",
+      "ProAir",
+      "salbutamol",
+      "rescue inhaler"
+    ],
+    "gabapentin": [
+      "Neurontin",
+      "Gralise"
+    ],
+    "losartan": [
+      "Cozaar",
+      "ARB"
+    ],
+    "hydrochlorothiazide": [
+      "HCTZ",
+      "Microzide",
+      "water pill"
+    ],
+    "sertraline": [
+      "Zoloft",
+      "SSRI"
+    ],
+    "fluoxetine": [
+      "Prozac",
+      "SSRI"
+    ],
+    "duloxetine": [
+      "Cymbalta",
+      "SNRI"
+    ],
+    "prednisone": [
+      "Deltasone",
+      "corticosteroid",
+      "steroid"
+    ],
+    "montelukast": [
+      "Singulair",
+      "leukotriene inhibitor"
+    ],
+    "pantoprazole": [
+      "Protonix",
+      "PPI"
+    ],
+    "escitalopram": [
+      "Lexapro",
+      "SSRI"
+    ],
+    "rosuvastatin": [
+      "Crestor",
+      "statin"
+    ],
+    "tamsulosin": [
+      "Flomax",
+      "alpha blocker"
+    ],
+    "sildenafil": [
+      "Viagra",
+      "PDE5 inhibitor"
+    ],
+    "tadalafil": [
+      "Cialis",
+      "PDE5 inhibitor"
+    ],
+    "ozempic": [
+      "semaglutide",
+      "GLP-1",
+      "Wegovy"
+    ],
+    "mounjaro": [
+      "tirzepatide",
+      "GLP-1/GIP"
+    ],
+    "humira": [
+      "adalimumab",
+      "TNF inhibitor"
+    ],
+    "keytruda": [
+      "pembrolizumab",
+      "PD-1 inhibitor",
+      "immunotherapy"
+    ],
+    "jardiance": [
+      "empagliflozin",
+      "SGLT2 inhibitor"
+    ]
+  }
+}

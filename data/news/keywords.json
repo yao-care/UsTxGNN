@@ -1,0 +1,229 @@
+{
+  "generated": "2026-03-11",
+  "drug_count": 13,
+  "indication_count": 7,
+  "drugs": [
+    {
+      "slug": "rutin",
+      "name": "Rutin",
+      "keywords": [
+        "rutin"
+      ],
+      "url": "/drugs/rutin/"
+    },
+    {
+      "slug": "lasmiditan",
+      "name": "Lasmiditan",
+      "keywords": [
+        "lasmiditan"
+      ],
+      "url": "/drugs/lasmiditan/"
+    },
+    {
+      "slug": "insulin_lispro",
+      "name": "Insulin lispro",
+      "keywords": [
+        "insulin lispro"
+      ],
+      "url": "/drugs/insulin_lispro/"
+    },
+    {
+      "slug": "baricitinib",
+      "name": "Baricitinib",
+      "keywords": [
+        "baricitinib"
+      ],
+      "url": "/drugs/baricitinib/"
+    },
+    {
+      "slug": "raloxifene",
+      "name": "Raloxifene",
+      "keywords": [
+        "raloxifene"
+      ],
+      "url": "/drugs/raloxifene/"
+    },
+    {
+      "slug": "teriparatide",
+      "name": "Teriparatide",
+      "keywords": [
+        "teriparatide"
+      ],
+      "url": "/drugs/teriparatide/"
+    },
+    {
+      "slug": "ramucirumab",
+      "name": "Ramucirumab",
+      "keywords": [
+        "ramucirumab"
+      ],
+      "url": "/drugs/ramucirumab/"
+    },
+    {
+      "slug": "selpercatinib",
+      "name": "Selpercatinib",
+      "keywords": [
+        "selpercatinib"
+      ],
+      "url": "/drugs/selpercatinib/"
+    },
+    {
+      "slug": "sodium_acetate",
+      "name": "Sodium acetate",
+      "keywords": [
+        "sodium acetate"
+      ],
+      "url": "/drugs/sodium_acetate/"
+    },
+    {
+      "slug": "galcanezumab",
+      "name": "Galcanezumab",
+      "keywords": [
+        "galcanezumab"
+      ],
+      "url": "/drugs/galcanezumab/"
+    },
+    {
+      "slug": "tadalafil",
+      "name": "Tadalafil",
+      "keywords": [
+        "tadalafil",
+        "cialis",
+        "pde5 inhibitor"
+      ],
+      "url": "/drugs/tadalafil/"
+    },
+    {
+      "slug": "insulin_glargine",
+      "name": "Insulin glargine",
+      "keywords": [
+        "insulin glargine"
+      ],
+      "url": "/drugs/insulin_glargine/"
+    },
+    {
+      "slug": "insulin_human",
+      "name": "Insulin human",
+      "keywords": [
+        "insulin human"
+      ],
+      "url": "/drugs/insulin_human/"
+    }
+  ],
+  "indications": [
+    {
+      "name": "hypertension",
+      "keywords": [
+        "hypertension",
+        "high blood pressure",
+        "HTN",
+        "elevated blood pressure",
+        "hypertensive"
+      ],
+      "related_drugs": [
+        "selpercatinib"
+      ]
+    },
+    {
+      "name": "cancer",
+      "keywords": [
+        "cancer",
+        "malignancy",
+        "tumor",
+        "oncology",
+        "carcinoma",
+        "neoplasm"
+      ],
+      "related_drugs": [
+        "ramucirumab"
+      ]
+    },
+    {
+      "name": "heart disease",
+      "keywords": [
+        "heart disease",
+        "cardiovascular disease",
+        "cardiac disease",
+        "heart condition",
+        "CVD",
+        "coronary artery disease",
+        "CAD"
+      ],
+      "related_drugs": [
+        "tadalafil"
+      ]
+    },
+    {
+      "name": "myocardial infarction",
+      "keywords": [
+        "myocardial infarction",
+        "heart attack",
+        "MI",
+        "AMI",
+        "acute coronary syndrome"
+      ],
+      "related_drugs": [
+        "lasmiditan",
+        "insulin_lispro",
+        "baricitinib",
+        "raloxifene",
+        "teriparatide",
+        "selpercatinib",
+        "tadalafil",
+        "insulin_glargine",
+        "insulin_human"
+      ]
+    },
+    {
+      "name": "arthritis",
+      "keywords": [
+        "arthritis",
+        "joint inflammation",
+        "rheumatoid arthritis",
+        "RA",
+        "osteoarthritis",
+        "OA"
+      ],
+      "related_drugs": [
+        "insulin_lispro",
+        "baricitinib",
+        "teriparatide",
+        "sodium_acetate",
+        "tadalafil",
+        "insulin_glargine",
+        "insulin_human"
+      ]
+    },
+    {
+      "name": "influenza",
+      "keywords": [
+        "influenza",
+        "flu",
+        "seasonal flu",
+        "influenza virus"
+      ],
+      "related_drugs": [
+        "raloxifene",
+        "teriparatide"
+      ]
+    },
+    {
+      "name": "inflammatory bowel disease",
+      "keywords": [
+        "inflammatory bowel disease",
+        "IBD",
+        "Crohn's disease",
+        "ulcerative colitis",
+        "UC"
+      ],
+      "related_drugs": [
+        "rutin",
+        "insulin_lispro",
+        "raloxifene",
+        "teriparatide",
+        "insulin_glargine",
+        "insulin_human"
+      ]
+    }
+  ]
+}

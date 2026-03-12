@@ -244,7 +244,7 @@ def load_predictions_for_drug(
     results = []
 
     for _, row in drug_df.iterrows():
-        disease = row["潛在新適應症"]
+        disease = row["disease_name"]
 
         # Skip known indications/contraindications
         if not checker.is_novel(drug_name, disease):
@@ -309,11 +309,12 @@ class DrugBundleAggregator:
         """Lazy-load collectors as needed."""
         if name not in self._collectors:
             if name == "tfda":
-                from .tfda import TFDACollector
-                self._collectors[name] = TFDACollector()
+                # Use OpenFDA collector for US instead of TFDA
+                from .openfda import OpenFDACollector
+                self._collectors[name] = OpenFDACollector()
             elif name == "tfda_package_insert":
-                from .tfda_package_insert import TFDAPackageInsertCollector
-                self._collectors[name] = TFDAPackageInsertCollector()
+                # Skip package insert collector (use OpenFDA for US drug labels)
+                return None
             elif name == "drugbank":
                 from .drugbank import DrugBankCollector
                 self._collectors[name] = DrugBankCollector()

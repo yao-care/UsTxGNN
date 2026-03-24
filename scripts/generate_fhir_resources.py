@@ -164,7 +164,7 @@ def main():
     # 2. Load prediction results
     print()
     print("2. Loading prediction results...")
-    candidates_path = base_dir / "data" / "processed" / "repurposing_candidates.csv"
+    candidates_path = base_dir / "data" / "processed" / "repurposing_candidates.csv.gz"
 
     if not candidates_path.exists():
         print(f"   Error: {candidates_path} not found")

@@ -160,11 +160,14 @@ def main():
         drugbank_id = map_ingredient_to_drugbank(ingredient, drugbank_index)
 
         mapping_results.append({
-            "ProductNDC": row.get("ProductNDC", ""),
-            "DrugName": row.get("DrugName", ""),
-            "ActiveIngredient": ingredient,
-            "NormalizedIngredient": normalize_ingredient(ingredient),
+            "license_id": row.get("ProductNDC", ""),
+            "brand_name": row.get("DrugName", ""),
+            "original_ingredient": ingredient,
+            "normalized_ingredient": normalize_ingredient(ingredient),
+            "synonyms": "",
             "drugbank_id": drugbank_id,
+            "mapping_success": drugbank_id is not None,
+            "mapping_source": "drugbank" if drugbank_id else "failed",
         })
 
     mapping_df = pd.DataFrame(mapping_results)
@@ -184,19 +187,19 @@ def main():
 
     candidates = []
     valid_drugs = mapping_df[mapping_df["drugbank_id"].notna()].drop_duplicates(
-        subset=["NormalizedIngredient"]
+        subset=["normalized_ingredient"]
     )
 
     for _, row in valid_drugs.iterrows():
-        drug_name = row["NormalizedIngredient"]
+        drug_name = row["normalized_ingredient"]
 
         # 查找 TxGNN 中的適應症
         kg_diseases = drug_indication_map.get(drug_name, set())
 
         for disease in kg_diseases:
             candidates.append({
-                "DrugName": row["DrugName"],
-                "ActiveIngredient": row["ActiveIngredient"],
+                "DrugName": row["brand_name"],
+                "ActiveIngredient": row["original_ingredient"],
                 "NormalizedIngredient": drug_name,
                 "drugbank_id": row["drugbank_id"],
                 "PotentialIndication": disease,
@@ -223,8 +226,8 @@ def main():
     print(f"   映射結果: {output_dir / 'drug_mapping.csv'}")
 
     # 儲存候選結果
-    candidates_df.to_csv(output_dir / "repurposing_candidates.csv", index=False)
-    print(f"   候選結果: {output_dir / 'repurposing_candidates.csv'}")
+    candidates_df.to_csv(output_dir / "repurposing_candidates.csv.gz", index=False)
+    print(f"   候選結果: {output_dir / 'repurposing_candidates.csv.gz'}")
 
     # 7. 統計報告
     print()

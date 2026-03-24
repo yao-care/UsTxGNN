@@ -277,7 +277,7 @@ def main():
 
     # Paths
     drug_mapping_path = base_dir / "data" / "processed" / "drug_mapping.csv"
-    output_path = base_dir / "data" / "processed" / "txgnn_dl_predictions.csv"
+    output_path = base_dir / "data" / "processed" / "txgnn_dl_predictions.csv.gz"
     model_dir = base_dir / "model_ckpt"
     data_dir = base_dir / "data"
 

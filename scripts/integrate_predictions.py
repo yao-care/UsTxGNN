@@ -38,9 +38,9 @@ DL_COLS = {
 }
 
 MAPPING_COLS = {
-    "license_id": "ProductNDC",
-    "brand_name": "DrugName",
-    "ingredient": "NormalizedIngredient",
+    "license_id": "license_id",
+    "brand_name": "brand_name",
+    "ingredient": "normalized_ingredient",
     "drugbank_id": "drugbank_id",
 }
 

@@ -57,7 +57,7 @@ def check_dependencies() -> Tuple[bool, List[str]]:
         missing.append("dgl")
 
     try:
-        import ustxgnn
+        import txgnn
     except ImportError:
         missing.append("TxGNN")
 
@@ -394,7 +394,7 @@ class TxGNNPredictor:
         df = self.tx_data.df
 
         # 確保 ID 是字串格式
-        from ustxgnn.utils import convert2str
+        from txgnn.utils import convert2str
         df = df.copy()
         df["x_id"] = df.x_id.apply(lambda x: convert2str(x))
         df["y_id"] = df.y_id.apply(lambda x: convert2str(x))

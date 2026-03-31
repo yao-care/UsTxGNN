@@ -1,33 +1,31 @@
-# UsTxGNN
+# UsTxGNN - United States Drug Repurposing Predictions
 
-US drug repurposing predictions using TxGNN knowledge graph.
+[![Website](https://img.shields.io/badge/Website-ustxgnn.yao.care-blue)](https://ustxgnn.yao.care)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Overview
-
-This project uses TxGNN (Therapeutic Knowledge Graph Neural Network) to predict drug repurposing candidates for US FDA-approved drugs.
-
-## Installation
-
-```bash
-uv sync
-```
-
-## Usage
-
-```bash
-# Process FDA data
-uv run python scripts/process_fda_data.py
-
-# Prepare external data
-uv run python scripts/prepare_external_data.py
-
-# Run KG prediction
-uv run python scripts/run_kg_prediction.py
-
-# Generate FHIR resources
-uv run python scripts/generate_fhir_resources.py
-```
+Drug repurposing predictions for the United States using the TxGNN model.
 
 ## Disclaimer
 
-This project is for research purposes only and does not constitute medical advice. All drug repurposing candidates require clinical validation before application.
+- The results of this project are for research purposes only and do not constitute medical advice.
+- Drug repurposing candidates require clinical validation before application.
+
+## Project Overview
+
+| Item | Count |
+|------|-------|
+| **Drug Reports** | 944 |
+| **Total Predictions** | 168,043,848 |
+
+## Prediction Methods
+
+### Knowledge Graph Method
+Direct querying of drug-disease relationships in the TxGNN knowledge graph, identifying potential repurposing candidates based on existing connections in the biomedical network.
+
+### Deep Learning Method
+Uses the TxGNN pre-trained neural network model to compute prediction scores, evaluating the likelihood of new therapeutic indications for approved drugs.
+
+## Links
+
+- Website: https://ustxgnn.yao.care
+- TxGNN Paper: https://doi.org/10.1038/s41591-023-02233-x

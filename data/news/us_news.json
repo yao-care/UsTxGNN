@@ -1,19 +1,55 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-04-13T02:58:01.522877+00:00",
-  "total_fetched": 104,
-  "unique_count": 104,
-  "health_related_count": 53,
+  "fetched_at": "2026-04-13T08:10:02.093696+00:00",
+  "total_fetched": 122,
+  "unique_count": 122,
+  "health_related_count": 63,
   "news": [
     {
       "id": "a04a2a8eaccb",
       "title": "Dermatologists Reveal the Number-1 Sign of Skin Cancer—and It’s Sneaky - AOL.com",
-      "published": "2026-04-13T00:20:21+00:00",
+      "published": "2026-04-13T06:03:47+00:00",
       "summary": "Dermatologists Reveal the Number-1 Sign of Skin Cancer—and It’s Sneaky&nbsp;&nbsp;AOL.comView Full Coverage on Google News",
       "sources": [
         {
           "name": "AOL.com",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iNzlQcFJ1WGRQWWs3Q1gtUmNPajY2THJ5X1M0QmhBX09RQ0RDWDlUdU12ZkkxNTVILXFSZ3RJSEpNTGhyNGtoUUhWNlAzcGYzam5rclRDc1RYWXZ1V1dwVUpKWjl0MFBjR2tLVHpxVlJXU09QV1ZXSl93?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "86a77311a982",
+      "title": "Here's what psychedelics actually do to the brain - AOL.com",
+      "published": "2026-04-13T05:19:33+00:00",
+      "summary": "Here's what psychedelics actually do to the brain&nbsp;&nbsp;AOL.comAn international mega-analysis of psychedelic drug effects on brain circuit function&nbsp;&nbsp;NatureHow Psychedelics Affect the Brain&nbsp;&nbsp;The New York TimesScientists identify ‘neural fingerprint’ of psychedelic drugs in the brain&nbsp;&nbsp;The GuardianWhat 500 Brain Scans Reveal About How Psychedelics Work&nbsp;&nbsp;Medscape",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hMmxveGdsRzB2Z3R1R3RTdXo0eVlFQVEzbVVCNzN2eW9QVGtXZDRpVmc0clgybHVkeXMxVFRSYkRyOElSeUp5TnRuUmgwaTE5YndBcDdxRVhDRWpJUFgtcVBLaVVFZ1RvbnJBb2txaE5YRFhweEdF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dc77fbd2ff6e",
+      "title": "The truth about the 40-cent supplement that promises to slash heart disease risk and naturally lower cholesterol - Daily Mail",
+      "published": "2026-04-13T03:33:51+00:00",
+      "summary": "The truth about the 40-cent supplement that promises to slash heart disease risk and naturally lower cholesterol&nbsp;&nbsp;Daily MailWhat Eating Garlic Every Day Does to Your Body, According to Nutrition Experts&nbsp;&nbsp;marthastewart.com",
+      "sources": [
+        {
+          "name": "Daily Mail",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMjB3VWFTRFZ0WmRLZWtMOXRXU2pZM2xlbVZoMXo1UEdvTTVVZWdBeWlDUEdEYVIyMmtJX1FNV1JiaThNcENOQThaV0t6a2lkeUJESWR2MDdWc2V1LVpSaXNiQm9JaTNzLVVuRVNXNDBYa2Q5Y0Y0QnZSS2I2Sm9qVWstWHV4QXBnaTZjMWhKV2YtZmN4d0FXVFlPRC1Ia1hzb3RmRVZWRkxDa0FWdlI0dzZ30gG3AUFVX3lxTE5GT3QxX3FfUDZDSVBlVVN3TVBRUXJEbzBNeVR4OWdfZVFPcW00LUd4UEJydjNfOWJZTm5ueW5LS3MtU054MmQ2bHdJenN1R2tiNVMyN1U4T1d5MTFsVTU1N2RNVmlsOUZvZGNXenlOUkRYSGpxTkFPZmNfc25XeDF0YW5jUm1LcGNpM2kwMUlCMHdBV2hQVnpzNVRlOWFRYmx1dmRyUHp6amF0eUZIem5iQlJmMlJfSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "36af3d93b6ed",
+      "title": "Taking Too Much Vitamin D Can Backfire, Scientists Warn - ScienceAlert",
+      "published": "2026-04-13T02:31:16+00:00",
+      "summary": "Taking Too Much Vitamin D Can Backfire, Scientists Warn&nbsp;&nbsp;ScienceAlertTaking too much vitamin D can cloud its benefits and create health risks&nbsp;&nbsp;Harvard HealthAre you taking too much vitamin D? Warning signs to watch for&nbsp;&nbsp;MSNWarning to some vitamin D users as NHS doctor says 'this is bad'&nbsp;&nbsp;The MirrorThe Most Common Signs of Vitamin D Deficiency, According to Doctors&nbsp;&nbsp;Prevention",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR000Z3NHSzRpd3l3d3RTaFg4TUlnQ2lWRnBraTF4QlV6V3M4VVY1UVRKWXFpbG5YOVZIN25wa0dFLWdmZVNITTR6Z2Y5Q2VzazNjd0dYOHRRS3hncGxGak1PZUdIR0xfc2JJUjQtSW94RzZiNWVHMFNZUHJlWW1iU0NtOU0zX3k4NFNR?oc=5"
         }
       ]
     },
@@ -30,14 +66,38 @@
       ]
     },
     {
-      "id": "86a77311a982",
-      "title": "Here's what psychedelics actually do to the brain - AOL.com",
-      "published": "2026-04-12T21:02:07+00:00",
-      "summary": "Here's what psychedelics actually do to the brain&nbsp;&nbsp;AOL.comAn international mega-analysis of psychedelic drug effects on brain circuit function&nbsp;&nbsp;NatureHow Psychedelics Affect the Brain&nbsp;&nbsp;The New York TimesScientists identify ‘neural fingerprint’ of psychedelic drugs in the brain&nbsp;&nbsp;The GuardianWhat 500 Brain Scans Reveal About How Psychedelics Work&nbsp;&nbsp;Medscape",
+      "id": "bad68fa757a2",
+      "title": "CDC Caught Burying Report on Real Effects of COVID Vaccine - Futurism",
+      "published": "2026-04-12T22:00:00+00:00",
+      "summary": "CDC Caught Burying Report on Real Effects of COVID Vaccine&nbsp;&nbsp;FuturismCDC delays publishing report showing covid vaccine benefits&nbsp;&nbsp;The Washington PostActing CDC director delayed release of study showing benefit of Covid vaccines&nbsp;&nbsp;NBC NewsAlarm as acting CDC director delays report showing Covid vaccine benefits&nbsp;&nbsp;The GuardianTop C.D.C. Official Delays Report on Covid Shot’s Effectiveness&nbsp;&nbsp;The New York Times",
       "sources": [
         {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hMmxveGdsRzB2Z3R1R3RTdXo0eVlFQVEzbVVCNzN2eW9QVGtXZDRpVmc0clgybHVkeXMxVFRSYkRyOElSeUp5TnRuUmgwaTE5YndBcDdxRVhDRWpJUFgtcVBLaVVFZ1RvbnJBb2txaE5YRFhweEdF?oc=5"
+          "name": "Futurism",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9paXgtZzA1dHFCNEJEZFRHRU5QWjhUWUFkUzhNWFdqLXFkSmhtUGNFeTlUSDlBWHpacVRNQUhpRW8zUTNFU0FiN1dMR19mTEVOaHFUN2Z0X3QxMUNvYzJqdXc1MmgySUtxcC1reERB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0ccbf5d5b61d",
+      "title": "Unique Honeybees Found Only in Southern California Can Fend Off Deadly Varroa Mites - Good News Network",
+      "published": "2026-04-12T21:18:09+00:00",
+      "summary": "Unique Honeybees Found Only in Southern California Can Fend Off Deadly Varroa Mites&nbsp;&nbsp;Good News NetworkSouthern California bees are keeping deadly mites in check&nbsp;&nbsp;The Brighter Side of NewsResearchers in beekeeping suits (IMAGE)&nbsp;&nbsp;EurekAlert!SoCal Honeybees Show Resilience Against Deadly Mite Threat&nbsp;&nbsp;Bioengineer.orgSoCal's hybrid bees outsmart Varroa mites before they even hatch&nbsp;&nbsp;Phys.org",
+      "sources": [
+        {
+          "name": "Good News Network",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGExUDlBSXFwOEFQcUtiQWNtQlNuU1g4X3QzZXpDcDlNSDN2Z2l4clNrV0gzYmpOTGRlWWFsc0V4dnlMQlZUTGt0QlpvQUdMVVdmNmZZUldIeERfY0dmdDR2RF9NekoxTWZQLWE0cHQ1dFI5S0FqRkRsZjJNQnJQSmdWSnEwTU44ZEdjLW1YZ2EyS1prRk5QUlVyNWFIbEUyLWRvTmk2MGFXYnNTWGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5b19a4611465",
+      "title": "Artificial Sweeteners May Harm Future Generations, Study Suggests - SciTechDaily",
+      "published": "2026-04-12T20:33:06+00:00",
+      "summary": "Artificial Sweeteners May Harm Future Generations, Study Suggests&nbsp;&nbsp;SciTechDailyPopular sweeteners may impact metabolism across generations&nbsp;&nbsp;News-MedicalAre sugar substitutes healthier than the real thing?&nbsp;&nbsp;The EconomistConsuming artificial sweeteners may raise diabetes risk for your children and grandchildren&nbsp;&nbsp;The IndependentArtificial sweeteners may pass metabolic risks to offspring through gut microbes&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcTk2Z3JJenVtdW9WRTljdnFkTHY4bTRqLXhDaUpfRDd4STAtLUhvMG1BRzJqVmtoci01endZUW1Kc0JMOXJHN3dHbFVJRk16TGxVZ3FKYUV2MjJEQnRCYnlNYm1BTTdJYXQ3ek0tZDM5QWR4T1BNQmNOTFhnOUFwbklRNzFMU2djdDNRWENiczY0dXJr?oc=5"
         }
       ]
     },
@@ -54,6 +114,18 @@
       ]
     },
     {
+      "id": "be335c12322f",
+      "title": "Advanced mirror technology now powers a breakthrough X-ray telescope - Phys.org",
+      "published": "2026-04-12T19:00:01+00:00",
+      "summary": "Advanced mirror technology now powers a breakthrough X-ray telescope&nbsp;&nbsp;Phys.org",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRTdBZmNaOUhoTEwzZzJCSDNlcHhVZVFBSW9rbDZVMHIwMkpTa3dMb2tRNTNhbW9GZWstZkpKOVRfQ2NaLURKX0xkRlJKSjFPejdTa0hOUGIyVENEaFZzaVhwWHk4WXBvYnhNdWFHTndaZjN1MjVvYmhPblRPcWVPc2RRUFZmS1lT?oc=5"
+        }
+      ]
+    },
+    {
       "id": "54fb9dff6094",
       "title": "Prehistoric children’s remains show syphilis-like disease spread through ancient Vietnam - Yahoo",
       "published": "2026-04-12T18:22:02+00:00",
@@ -66,9 +138,57 @@
       ]
     },
     {
+      "id": "233fa2f77f48",
+      "title": "Space Twitter’s Ad Hoc Heat Shield Analysis - NASA Watch",
+      "published": "2026-04-12T18:07:07+00:00",
+      "summary": "Space Twitter’s Ad Hoc Heat Shield Analysis&nbsp;&nbsp;NASA WatchThere are 'reasons to be confident' about faulty Artemis II heat shield ahead of 25,000 mph reentry, space expert Ed Macaulay says&nbsp;&nbsp;YahooOwensboro native Rhoads helps shape Artemis II heat shield research&nbsp;&nbsp;The Owensboro TimesNASA tested Artemis Orion heat shield design at CUBRC center in Cheektowaga&nbsp;&nbsp;WGRZHeat shield data from Artemis II could define timeline of future lunar missions&nbsp;&nbsp;Scripps ",
+      "sources": [
+        {
+          "name": "NASA Watch",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UU2NsYmdSMUpNUFBlQnNGTnI1VDF3dkpIc2M3STVUc3I5NXdvd2txTkF5YXdlck9nUEJJT1FveUxkU250aE1sVHlQaHVmNWZsMlRnLURNLV9WQURoSTVsR0N3Q0MxaElYVThSdFJOQjlDOGI4RlBBMHRBaVM1QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bb4913b647f8",
+      "title": "Narcissistic traits are linked to a brain area governing emotional control - PsyPost",
+      "published": "2026-04-12T18:05:16+00:00",
+      "summary": "Narcissistic traits are linked to a brain area governing emotional control&nbsp;&nbsp;PsyPost",
+      "sources": [
+        {
+          "name": "PsyPost",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQlpxSWpScFQ3U1cyQk1qdnNPUFdCeWp6NFJsQ3JyM0VLUzhWeTNYUGEtRDZnQThXVENsWUFWSUxRTlBtRmZkQ2tqYURxQzVxUnhZTVBXNGhBTUcxY3ZhU01KRV9wT1B2emlpMUUwU2dWR0VfM1JKSU9sNTltMUF3c1FWSGJGWUp6R0F1VU5XSXE1ZXN5cEptRw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ec9c5279565f",
+      "title": "Artemis II pilot Victor Glover praises God after return, says mission was 'too big to be in one body' - Yahoo",
+      "published": "2026-04-12T16:53:07+00:00",
+      "summary": "Artemis II pilot Victor Glover praises God after return, says mission was 'too big to be in one body'&nbsp;&nbsp;YahooThe 6 Words an Artemis II Astronaut Told His Wife From Space Is Warming Hearts&nbsp;&nbsp;TODAY.comThe Heavens Are Still Declaring—and Not Just to Astronauts&nbsp;&nbsp;The Gospel CoalitionCircling the moon, a Black astronaut inspires millions&nbsp;&nbsp;ReutersThe Artemis II mission reveals glory of God — not science-based atheism&nbsp;&nbsp;Fox News",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMzdORzJiQTVYU3NqUDRXZzlEVUFmV19xcTdNOVJpXzNfQy14OTZtUFY1QTJpSmhNeS13ZTZOZ3lWeDJQZTdUVUpDc09nanh4bUJCMmM4eGhBZ2hJYVFJSkczMF9kbmt4Z3NvWExyVm5TMXR2T0syMGdsbWU5Z2hlV1R4RE5lcmNE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c85eddfc09b8",
+      "title": "Why You’re Not Losing Weight Eating 'Healthy,' According to Dietitians - AOL.com",
+      "published": "2026-04-12T16:26:21+00:00",
+      "summary": "Why You’re Not Losing Weight Eating 'Healthy,' According to Dietitians&nbsp;&nbsp;AOL.comExperts name 12 common mistakes that can stop you from losing weight... how many are you guilty of?&nbsp;&nbsp;MSNNot losing weight despite diet and exercise? Longevity doctor shares 7 reasons you are not seeing results&nbsp;&nbsp;India TV NewsWhy diet and exercise may not lead to weight loss&nbsp;&nbsp;newskarnataka.comFitness trainer warns these ‘healthy foods are keeping you fat', shares simple swaps with",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IcU1wWEJOMUhZOGV6aE4tZHBEbk5LNThqTVpYdVlSeDR6UURscmRMdTBnODktNGEwMGtybUdUeF9pcXVlUlBpNWVDdkJXS2ZrSWIwZEo3RVBmei10c3hGLTVVRXdnZmRMcG1CcVctRDI?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a43847f1ca64",
       "title": "Edna Foa, Who Pioneered Exposure Therapy to Treat PTSD, Dies at 88 - The New York Times",
-      "published": "2026-04-12T17:16:06+00:00",
+      "published": "2026-04-12T16:05:37+00:00",
       "summary": "Edna Foa, Who Pioneered Exposure Therapy to Treat PTSD, Dies at 88&nbsp;&nbsp;The New York Times",
       "sources": [
         {
@@ -78,14 +198,14 @@
       ]
     },
     {
-      "id": "c85eddfc09b8",
-      "title": "Why You’re Not Losing Weight Eating 'Healthy,' According to Dietitians - AOL.com",
-      "published": "2026-04-12T16:26:21+00:00",
-      "summary": "Why You’re Not Losing Weight Eating 'Healthy,' According to Dietitians&nbsp;&nbsp;AOL.comWhy You’re Not Losing Weight Eating ‘Healthy,’ According to Dietitians&nbsp;&nbsp;Men's JournalNot losing weight despite diet and exercise? Longevity doctor shares 7 reasons you are not seeing results&nbsp;&nbsp;India TV NewsFitness trainer warns these ‘healthy foods are keeping you fat', shares simple swaps with less calories for weight loss&nbsp;&nbsp;Hindustan TimesExperts name 12 common mistakes that can",
+      "id": "428dc934db28",
+      "title": "Toddler Habits Predict Teenage Fitness - Neuroscience News",
+      "published": "2026-04-12T16:05:11+00:00",
+      "summary": "Toddler Habits Predict Teenage Fitness&nbsp;&nbsp;Neuroscience NewsHow active play at age 2 can set a decade of activity into motion&nbsp;&nbsp;Medical XpressPlaying with your child may shape how active they stay later in life&nbsp;&nbsp;Earth.com",
       "sources": [
         {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IcU1wWEJOMUhZOGV6aE4tZHBEbk5LNThqTVpYdVlSeDR6UURscmRMdTBnODktNGEwMGtybUdUeF9pcXVlUlBpNWVDdkJXS2ZrSWIwZEo3RVBmei10c3hGLTVVRXdnZmRMcG1CcVctRDI?oc=5"
+          "name": "Neuroscience News",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xM0JxQUF2MVUzR2tYb2NqTzg4ZTRGSzRRY1JkVy1xYl9uS2FtQ3dIVjhCNDBSVnByRjRHUUs4UkZNT25yX3FLdjhYTDQyWVlGNmFwZk5HYzdpbzgwWkQ3RnE4elhHOFVnZXF0ZTZZeWc?oc=5"
         }
       ]
     },
@@ -126,6 +246,42 @@
       ]
     },
     {
+      "id": "7ee904ee4838",
+      "title": "Study Finds Three Distinct Types of Black Hole Mergers - Ground News",
+      "published": "2026-04-12T13:49:02+00:00",
+      "summary": "Study Finds Three Distinct Types of Black Hole Mergers&nbsp;&nbsp;Ground NewsAstronomers find evidence for three subpopulations of merging black holes&nbsp;&nbsp;Phys.orgOver 150 mergers reveal three distinct black hole origins, challenging unified model&nbsp;&nbsp;Interesting Engineering",
+      "sources": [
+        {
+          "name": "Ground News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSTZZSTFCdTU1dDB0cm81Zmh5end5SFNDbk1rekx6em1ZY1A4c3ZlZllxbUR0Ri1YRzZWWGJvZXVqaHdleHdmeHVOTTZsT0pjc2p4Q0hOcE52WG42NGtBRTNVWUJJOWVhWFhneXZqdS1WYUhuNFhwaFVwa2Z3OTZENDVBYXBSa19mUWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "af4b9e65c83a",
+      "title": "SpaceX Launches Historic Cygnus XL, Delivering 5 Tons of Supplies to ISS - The Daily Galaxy",
+      "published": "2026-04-12T13:45:00+00:00",
+      "summary": "SpaceX Launches Historic Cygnus XL, Delivering 5 Tons of Supplies to ISS&nbsp;&nbsp;The Daily GalaxySpaceX launches huge 'Cygnus XL' cargo ship carrying over 5 tons of supplies to ISS astronauts (video)&nbsp;&nbsp;SpaceCrew Preps for Cygnus XL Cargo Mission Targeted for Saturday Launch&nbsp;&nbsp;NASA (.gov)Falcon 9 launches Cygnus cargo spacecraft to the ISS&nbsp;&nbsp;SpaceNewsSonic boom advisory in place for Space Coast on Saturday&nbsp;&nbsp;WESH",
+      "sources": [
+        {
+          "name": "The Daily Galaxy",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55UUdzUWNaOXUxQnZDdEtBcS1UbHYtTnNUejVfT0huOWllQ0JfVFVJYkJkTWJOOXJoM2h0am9fWUxBckZudkhtX2ZEOTdyQWMwbUtIcUNqd3ctN3pZbVJianNpajllMEk5VV8xaE83N3JUNENsaE82WA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f2fd031a5048",
+      "title": "4 High-Calcium Drinks to Support Your Bone Health That Aren’t Milk - EatingWell",
+      "published": "2026-04-12T13:30:00+00:00",
+      "summary": "4 High-Calcium Drinks to Support Your Bone Health That Aren’t Milk&nbsp;&nbsp;EatingWellView Full Coverage on Google News",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUU1kSEdDaXdCOUpDNWJpUjVKTGt6OFFCVFdIRWVFdEh0REd4ZHN6a0lPRmk2ZXlVR0o4Q3prd3pnWHUtcFZzLXRPTVI1aExKY25GZy1KVkYyZ1p0aTBJUnJxazdjRW9UTnZHdlRMYmctRFlsV1BZQXc0OWdReVl5U0lmT2tGVGtiNENIcg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d8e56d67a871",
       "title": "Neurologist says 'cut cholesterol, blood pressure and dementia risk in 20 mins' - The Mirror",
       "published": "2026-04-12T13:19:00+00:00",
@@ -150,14 +306,50 @@
       ]
     },
     {
+      "id": "7e7d95154e7e",
+      "title": "Why Ozempic doesn’t work for everyone: Scientists just found a hidden reason - ScienceDaily",
+      "published": "2026-04-12T13:03:28+00:00",
+      "summary": "Why Ozempic doesn’t work for everyone: Scientists just found a hidden reason&nbsp;&nbsp;ScienceDailyGenetic predictors of GLP1 receptor agonist weight loss and side effects&nbsp;&nbsp;NatureGenes May Predict How Much You’ll Lose on a Weight-Loss Drug&nbsp;&nbsp;WSJGLP-1 weight loss, side effects linked to genetic variations&nbsp;&nbsp;ReutersGenetic variants may reduce effectiveness of popular diabetes drugs&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ISWsyTDVZR1JhVWJMVDl2N3hfalZzZC1NUkVYUkk2YkZ3SDd6azdyN0htVDR6RG5ubXNIdjVJMjRwWEk3TS1mLW90UHNwWDNLX2dXVUpyN2duODFmQXhDMGl1Tk95Q0ozMTFSNWNDaw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9db35945a45a",
       "title": "Is creatine safe? Athletes love it, but here's what to know. - USA Today",
       "published": "2026-04-12T12:01:00+00:00",
-      "summary": "Is creatine safe? Athletes love it, but here's what to know.&nbsp;&nbsp;USA TodayCreatine Has Always Been the Ultimate Muscle Builder, but New Research Says It Can Supercharge Your Brain&nbsp;&nbsp;Outside MagazineYes, Creatine Can Counteract Stress and Lost Sleep&nbsp;&nbsp;GQShould You Take Creatine? | Health Matters | NYP&nbsp;&nbsp;NewYork-PresbyterianWant muscle from creatine? Resistance training is the missing link&nbsp;&nbsp;News-Medical",
+      "summary": "Is creatine safe? Athletes love it, but here's what to know.&nbsp;&nbsp;USA TodayWant muscle from creatine? Resistance training is the missing link&nbsp;&nbsp;News-MedicalCreatine Has Always Been the Ultimate Muscle Builder, but New Research Says It Can Supercharge Your Brain&nbsp;&nbsp;Outside MagazineYes, Creatine Can Counteract Stress and Lost Sleep&nbsp;&nbsp;GQShould You Take Creatine? | Health Matters | NYP&nbsp;&nbsp;NewYork-Presbyterian",
       "sources": [
         {
           "name": "USA Today",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc3QxbGc3WnFhb01YSFJvenp2R0k3Rmkxc3JlWXNKY19aMl82OW1jN0tkY3VjUl9vSEp6Ml83cFQxaUtKdlhFMDFqdGlveGJjcGk1UmJKVjV0bWFuMTJ2R2FYVC1rbDd2UF9XcHlTeExWRFl1WnYtTFgzMUlPR1ZWX2l6RTFmLWl6eFlSazh0ejFldHpNb0c5SkFwQUpiek1TZTRlWEpYVnZWaDA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d8d1bacd350c",
+      "title": "What causes heart attack? Cardiologist explains the silent, ‘lengthy’ process that happens inside your arteries | Health - Hindustan Times",
+      "published": "2026-04-12T11:57:45+00:00",
+      "summary": "What causes heart attack? Cardiologist explains the silent, ‘lengthy’ process that happens inside your arteries | Health&nbsp;&nbsp;Hindustan Times",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNWXhPMlJTckxUWllMaW5rc1JIWEpBQmx2LUdKMGtBSWN1QVpSWmlaR3M2bXd6STlCS2RfbFNXYWYxazFSOU0td3BOZnBGbUkxTnhQWndVbUp0U2U5aFRVbm4tVUpIRGRPLU5ETEdCTHM1cFpsWnYxN1NXYTgtUDVmT0Z1d01wLUFRdTQtb3RMMG5jUlNyZm1VSHBCYU8yLXBFa1A0MEVUNjZGckxycVRDc0hBUXI0alJUM2hYZWUycENJTDlOX0lsZ3FGU205REJ1VjdXNklheWV4Mzl6b25sWENScFZ6c05PVkIydEdXS1dxY1N0QlhxMDZwa1VvM0ZjdzhNTnI3c9IBjAJBVV95cUxNdjhRbVBaZVNYeWRnTVQ5RV9SUjhkUnZlWjZVZGl2TVpCenp4ZnpTLWVUcldJckNONGt4U1J0SVVOTk56aExTdkFuWXhOYmJvVEswVUpmY3V6cHlPeHZyX2FsYXJ4bWhIX2FlZlp6TGliNlZsR0FqM0xSOEhaMFBHME9obEdVUHFJd3FaUmpFaFZDX0VCbnZhZ2xrdl9LZDZGZzFLNHhtLUcyVVdLdE9wcnA1Vm5ON29UNC1SUFZrdXAtaThxaEhDbG9YWlg3RHc4MGh2eFBGUnFKek0welctQ1J1bENKV3IwQlhQQkJvYjRQb3JXWUpDUHZlTUNKU0lGNjNITTZGcFRWMVNq?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "389988c65c60",
+      "title": "Scientists Unveil Microscopy Breakthrough That Reveals “Invisible” Molecular States - SciTechDaily",
+      "published": "2026-04-12T11:53:06+00:00",
+      "summary": "Scientists Unveil Microscopy Breakthrough That Reveals “Invisible” Molecular States&nbsp;&nbsp;SciTechDailyNew Microscopy Detects Hidden Biomolecular Reactions At Sub-Cellular Scale&nbsp;&nbsp;Quantum ZeitgeistNew Microscopy Technique Reveals Hidden Magnetic Chemistry In Living Systems&nbsp;&nbsp;Eurasia Review",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZVp3dXdZeUE5OHVfdXgxc3BhajFDVFRGUVpTM2labDVFS1FQU1Mxbk1rQkhrdjNZNWNreVBJdkJvU3VScGw5TkZ2cks0S0dJTFJNS0RJQ2tkd1RIbV8tdmdEYXQ1Z1N1ejJSRHZDVWM4TENKbDhCRWNhenNHbnFVelBoQ1VncE13dDUyTTZHRTFWUF96YWw5RTZobTBQWWoyZWkwTzVfWENfNnc?oc=5"
         }
       ]
     },
@@ -189,7 +381,7 @@
       "id": "fbe77340edc2",
       "title": "A flu vaccine recommended for older adults could lower Alzheimer’s risk, research finds - San Francisco Chronicle",
       "published": "2026-04-12T11:02:06+00:00",
-      "summary": "A flu vaccine recommended for older adults could lower Alzheimer’s risk, research finds&nbsp;&nbsp;San Francisco ChronicleAlzheimer's Risk May Be Influenced by Flu Shots&nbsp;&nbsp;MedPage TodayInfluenza Vaccine Dose and Dementia Outcomes&nbsp;&nbsp;ConexiantWorld Health Day, new heart guidelines, a flu shot's surprising brain benefit and how to tame stress&nbsp;&nbsp;WKYCAlzheimer's: High-dose flu vaccine may cut risk by 55%&nbsp;&nbsp;Medical News Today",
+      "summary": "A flu vaccine recommended for older adults could lower Alzheimer’s risk, research finds&nbsp;&nbsp;San Francisco ChronicleAlzheimer's Risk May Be Influenced by Flu Shots&nbsp;&nbsp;MedPage TodayRisk for Dementia Lower for Older Adults With High-Dose Inactivated Influenza Vaccine&nbsp;&nbsp;Infectious Disease AdvisorAlzheimer's: High-dose flu vaccine may cut risk by 55%&nbsp;&nbsp;Medical News TodayCommon vaccine slashes Alzheimer's disease risk when dose is increased&nbsp;&nbsp;Fox News",
       "sources": [
         {
           "name": "San Francisco Chronicle",
@@ -206,6 +398,18 @@
         {
           "name": "SciTechDaily",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQdHUyczJSejlQU3AxcnZGYjFTX1pQdUZUbG14MVNUTjRpeGxxUGt1RG9QZjVsSFRUTmQ0d0w5NmlZQW5laDFmai1sd2lZSE1HRGc5RnRUU0djV3k2VEJNaEdUZkdUS3ZzUHVRbFZITkxETVRmV2V5VjFqenA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fc0c99446f0e",
+      "title": "Not a single US dollar for condoms: Inside Kenya's rising HIV and STI risks - Daily Nation",
+      "published": "2026-04-12T10:00:00+00:00",
+      "summary": "Not a single US dollar for condoms: Inside Kenya's rising HIV and STI risks&nbsp;&nbsp;Daily Nation",
+      "sources": [
+        {
+          "name": "Daily Nation",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNDJDYjJtWVNFM1ZnQTN1ZnJyeENnX1UyRHhIT2NFOWswcVluX1l3QWViNUdQeHNvRHd2TWlvbUNMZUxiZnExdnloX1locTVJbXN6WFdaQWlWWGZ2aFpxamxfeXlWc2FCNHNJUEVBLWNIUmRTRTZOSHNlVUpSQXUyS2M1OTNvcXN0elo4V3E5X3FJamZnQUVzVTQyOGtSRm1HYTNNQVpHdWR2RjFjaEFzeDlKN3RMTGFkdnc?oc=5"
         }
       ]
     },
@@ -246,14 +450,14 @@
       ]
     },
     {
-      "id": "ff8cb7c310f8",
-      "title": "Victor Glover's First Words After Returning From the Moon Will Tug At Your Heart - Yahoo",
-      "published": "2026-04-12T05:51:00+00:00",
-      "summary": "Victor Glover's First Words After Returning From the Moon Will Tug At Your Heart&nbsp;&nbsp;YahooThe 6 Words an Artemis II Astronaut Told His Wife From Space Is Warming Hearts&nbsp;&nbsp;TODAY.comCircling the moon, a Black astronaut inspires millions&nbsp;&nbsp;ReutersThe Heavens Are Still Declaring—and Not Just to Astronauts&nbsp;&nbsp;The Gospel CoalitionArtemis II pilot Victor Glover praises God after return, says mission was 'too big to be in one body'&nbsp;&nbsp;Yahoo",
+      "id": "549a74d90e9b",
+      "title": "Eat This Food Every Day to Slow How Fast You’re Aging - VICE",
+      "published": "2026-04-12T05:30:00+00:00",
+      "summary": "Eat This Food Every Day to Slow How Fast You’re Aging&nbsp;&nbsp;VICELongevity after 45: 5 diets that can add up to 3 years to your life&nbsp;&nbsp;Paris Select BookDiets for ageing and longevity&nbsp;&nbsp;Jamaica ObserverA scientist's list: 6 research-backed eating strategies to slow down aging&nbsp;&nbsp;FoodService Director3 Essential Foods To Add to Your Diet for a Longer, Healthier Life&nbsp;&nbsp;AOL.com",
       "sources": [
         {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZHZQMkFKYkdzQlR0YS1WOXVsTHlpUmExYURwUFV6b0RzZWctWEdqZGE2dlJZeFVWSHZ5ODJ6dDRNTk5FSURDV3JIeFEweEVyaERxQ0wwbnhMVHBmbWlIVVpnZEMwVDVyZF9aZV9wSG5iYlpqbXZqSlJrUFJlSkVicWYtTHNZLTk2d3hWSndBcGg?oc=5"
+          "name": "VICE",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObjJUczRtWEhhVG5feXFKdXNxU21scWpMbzhzSElzYkJUTUQxQm9PUlB2TDhJS0hmTjdUeEtzRGVVY2pDb3BlTm9pVDhoRzEwTHB0NFdFRlhoQXZYdWN4bHAwTlMyZFBxU1hlQ2R1cGtLRDFJdjBBWlFIQ1lzdm9pSmVnNVRhSkg4b0JyMnhn?oc=5"
         }
       ]
     },
@@ -261,7 +465,7 @@
       "id": "72d0a713e9b3",
       "title": "Muscle loss could be your liver’s first distress signal: Hidden signs people ignore and how to protect liver health early - The Times of India",
       "published": "2026-04-12T00:30:00+00:00",
-      "summary": "Muscle loss could be your liver’s first distress signal: Hidden signs people ignore and how to protect liver health early&nbsp;&nbsp;The Times of IndiaLiver Disease Symptoms Are Easy To Miss—Watch for These Red Flags&nbsp;&nbsp;Woman's World\"I thought I was healthy,” until a routine test revealed early liver damage: Warning signs people miss and simple changes that helped reverse it&nbsp;&nbsp;The Times of India",
+      "summary": "Muscle loss could be your liver’s first distress signal: Hidden signs people ignore and how to protect liver health early&nbsp;&nbsp;The Times of IndiaView Full Coverage on Google News",
       "sources": [
         {
           "name": "The Times of India",
@@ -306,18 +510,6 @@
       ]
     },
     {
-      "id": "c5bde78ad6ca",
-      "title": "Apes may have originated in north Afrida, study finds - The Jerusalem Post",
-      "published": "2026-04-11T19:45:26+00:00",
-      "summary": "Apes may have originated in north Afrida, study finds&nbsp;&nbsp;The Jerusalem PostEgyptian Researchers Discover A New Species of Great Ape&nbsp;&nbsp;Al-Fanar MediaThis Egyptian discovery could rewrite humans origin history; scientists say we have been looking in the wrong place&nbsp;&nbsp;The Times of IndiaEgypt’s Desert Breakthrough Puts Its Scientists in the Global Spotlight&nbsp;&nbsp;Egypt TodayScientists May Have Discovered the Last Common Ancestor of Humans and Apes&nbsp;&nbsp;Popular Me",
-      "sources": [
-        {
-          "name": "The Jerusalem Post",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wT0FqUFFRMHFmZVZkZlQ3U3ZrWldEMTZ4S0EwSGFwejE3QzJMMmxaZ2RSMVhFMFFDSkoxWDFVQnZYWHJDMmhyTlk1RVJrblJBUjdRTS1XVQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3747a4fc24b1",
       "title": "Two simple eating habits linked to lower weight, study finds - ScienceDaily",
       "published": "2026-04-11T19:31:18+00:00",
@@ -333,7 +525,7 @@
       "id": "9ba4ce876643",
       "title": "Brain’s Endurance Program: Hypothalamus Remembers Exercise - Neuroscience News",
       "published": "2026-04-11T19:25:32+00:00",
-      "summary": "Brain’s Endurance Program: Hypothalamus Remembers Exercise&nbsp;&nbsp;Neuroscience NewsWant to improve your memory? The right type of exercise can give it a boost&nbsp;&nbsp;BBC🧠 Sports Lastingly Change Your Brain&nbsp;&nbsp;Techno-Science.netWhy movement and engagement are key to cognitive fitness&nbsp;&nbsp;KFDA | NewsChannel 10A no-brainer? Exercise may rewire your brain for better endurance&nbsp;&nbsp;Dallas News",
+      "summary": "Brain’s Endurance Program: Hypothalamus Remembers Exercise&nbsp;&nbsp;Neuroscience NewsWant to improve your memory? The right type of exercise can give it a boost&nbsp;&nbsp;BBCWhy movement and engagement are key to cognitive fitness&nbsp;&nbsp;KFDA | NewsChannel 10Boost your memory in 20 minutes with ‘brain ripple’ workouts – here’s how&nbsp;&nbsp;womenshealthmag.comA no-brainer? Exercise may rewire your brain for better endurance&nbsp;&nbsp;Dallas News",
       "sources": [
         {
           "name": "Neuroscience News",
@@ -342,10 +534,22 @@
       ]
     },
     {
+      "id": "954d76e5a5c8",
+      "title": "Newly discovered fossil challenges idea of ape origins in east Africa - Yahoo",
+      "published": "2026-04-11T19:01:07+00:00",
+      "summary": "Newly discovered fossil challenges idea of ape origins in east Africa&nbsp;&nbsp;YahooApes may have originated in north Afrida, study finds&nbsp;&nbsp;The Jerusalem PostThis Egyptian discovery could rewrite humans origin history; scientists say we have been looking in the wrong place&nbsp;&nbsp;The Times of IndiaEgypt fossil suggests larger North African role in human origins&nbsp;&nbsp;NewsBytesEgyptian Researchers Discover A New Species of Great Ape&nbsp;&nbsp;Al-Fanar Media",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd0I4dHZoOEJUdUVKajFUaDRLWC01anBGZEdzY1hyUzQ2RUVmOTc4c1FMSlNPbzBBbTltaE1YUGtiYm43QVdhRGI0bDB0aEllaWIwaFQ3Unh6WXlDSFpRdHl6UkNYUFc0QnhOdk9HQm1lSGYtblhrQm93dFZaZlJNWHFQaGZSWmpxb2tKT0xHWG9XTGto?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8e75f6a3aff3",
       "title": "Missing nuclear official becomes TENTH person tied to dark pattern surrounding US secrets - Daily Mail",
       "published": "2026-04-11T18:37:51+00:00",
-      "summary": "Missing nuclear official becomes TENTH person tied to dark pattern surrounding US secrets&nbsp;&nbsp;Daily MailUFO mystery: List of deceased, missing scientists grows&nbsp;&nbsp;NewsNationWho are the US scientists linked to NASA and military research vanished or died under unexplained circumst&nbsp;&nbsp;The Economic TimesMysterious Deaths and Disappearances Raise Concerns Over US Scientific Research&nbsp;&nbsp;National TodayMarc Andreessen says AI layoffs are a farce&nbsp;&nbsp;KMIT 105.9 FM",
+      "summary": "Missing nuclear official becomes TENTH person tied to dark pattern surrounding US secrets&nbsp;&nbsp;Daily MailUFO mystery: List of deceased, missing scientists grows&nbsp;&nbsp;NewsNationAnother mysterious NASA death as ninth scientist linked to secret programs dies&nbsp;&nbsp;New York PostMysterious Deaths and Disappearances Raise Concerns Over US Scientific Research&nbsp;&nbsp;National TodayMissing scientists’ mystery: Avi Loeb, who floated ‘alien probe’ theory of comet 3I/ATLAS, sees no ‘coo",
       "sources": [
         {
           "name": "Daily Mail",
@@ -378,22 +582,10 @@
       ]
     },
     {
-      "id": "9319fea53f81",
-      "title": "Tiny hearts, big cardiac concern in India - The Economic Times",
-      "published": "2026-04-11T17:56:36+00:00",
-      "summary": "Tiny hearts, big cardiac concern in India&nbsp;&nbsp;The Economic Times",
-      "sources": [
-        {
-          "name": "The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeUpSSFlvVUZUdjk0aXNDUHpGNmk2T05UMk1EMTdJUG10MlJBM0IzRWQxVmo4RmtOSVhFajFhSEY1cFZ5Ym9SLUJKc0M5a1hpblFsQTd1TTNQYWJPUHFrYUpNZnJ2Sy1QbU5oaEZfcG5YemNmcHQ3RnlGcTV4V0Z0ajBZVHVFbk9nVmcxd2IxQzRtY1VER2E4YTN6NklkRFZyYmxyT0gtS3UzWGF1eXpTWGZzNElad09nMS1oWkVrU29vc1Rsc3R1eXdPZU5xQdIB0wFBVV95cUxPMWtGU1pzN0lMMUY0aTZCUGF6VkZPUHhHdm9pbzZadUpscjJtMVNuNFI3SnVPYk9SZnZ1Q2tYOW5XeF9uOXhjZ3plTWNEelRKMUt6TXNDeUlvSHRENFQ3d0VOUDBfX09OZ3ZkSncySnNNZURENExDNU5xLVZRM19LenNRMEx3SlRUYjRjQTNFWnh0QnZfdEd0YUF1MXZINGQ0RjdlQzRxY0E5S0lWbW9kX2NZdERsX2lQZFdraFhldHhQVGhhX2RvYmdXdHNzcEp5cGtj?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a575527ea049",
       "title": "Babies too young for MMR vaccine become ‘sitting ducks’ in measles outbreaks - PBS",
       "published": "2026-04-11T17:29:40+00:00",
-      "summary": "Babies too young for MMR vaccine become ‘sitting ducks’ in measles outbreaks&nbsp;&nbsp;PBSMeasles Outbreak Leaves Unvaccinated Babies Vulnerable in South Carolina&nbsp;&nbsp;National TodayWhat's Behind the Global Resurgence of Measles?&nbsp;&nbsp;Council on Foreign RelationsWe need to be serious about the risk of a measles outbreak | Opinion&nbsp;&nbsp;Kitsap SunUS measles total surpasses 1,700 cases&nbsp;&nbsp;CIDRAP",
+      "summary": "Babies too young for MMR vaccine become ‘sitting ducks’ in measles outbreaks&nbsp;&nbsp;PBSThe US might lose its measles elimination status. Here's what a researcher on vaccine hesitancy says&nbsp;&nbsp;Colorado Public RadioHealth officials sound alarm as U.S measles cases rise&nbsp;&nbsp;Scientific AmericanWhat's Behind the Global Resurgence of Measles?&nbsp;&nbsp;Council on Foreign RelationsMeasles Outbreak Exposes Vulnerability of Unvaccinated Babies&nbsp;&nbsp;National Today",
       "sources": [
         {
           "name": "PBS",
@@ -405,7 +597,7 @@
       "id": "a7506c6252e0",
       "title": "Irish bog plant revives ancient remedy as a new weapon vs superbugs - Phys.org",
       "published": "2026-04-11T16:30:04+00:00",
-      "summary": "Irish bog plant revives ancient remedy as a new weapon vs superbugs&nbsp;&nbsp;Phys.orgGroundbreaking study finds surprise item could hold answer to beating hospital superbugs&nbsp;&nbsp;Daily Express",
+      "summary": "Irish bog plant revives ancient remedy as a new weapon vs superbugs&nbsp;&nbsp;Phys.orgThis Tiny Wildflower Could Be a Secret Weapon Against Superbugs&nbsp;&nbsp;ScienceAlertGroundbreaking study finds surprise item could hold answer to beating hospital superbugs&nbsp;&nbsp;Daily ExpressScientists find tormentil may help fight antibiotic resistant bacteria&nbsp;&nbsp;NewsBytes",
       "sources": [
         {
           "name": "Phys.org",
@@ -441,7 +633,7 @@
       "id": "e33bc15d99f7",
       "title": "Coffee's sweet spot may help mental health in the long run - Medical Xpress",
       "published": "2026-04-11T15:00:01+00:00",
-      "summary": "Coffee's sweet spot may help mental health in the long run&nbsp;&nbsp;Medical XpressView Full Coverage on Google News",
+      "summary": "Coffee's sweet spot may help mental health in the long run&nbsp;&nbsp;Medical XpressResearch Shows There Is an Ideal Amount of Coffee to Lower Stress&nbsp;&nbsp;Verywell HealthModerate Coffee Intake Linked to Better Mental Well-Being&nbsp;&nbsp;The Indian PractitionerScientists Identify Coffee 'Sweet Spot'–Here's How Much to Drink Each Day for Lower Risk of Stress and Anxiety&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness InformationScientists Find Drinking This Much Coffee May Lo",
       "sources": [
         {
           "name": "Medical Xpress",
@@ -465,7 +657,7 @@
       "id": "47f4ca7e6434",
       "title": "If Venus Has Life It May Have Come From Earth, Scientists Say - ScienceAlert",
       "published": "2026-04-11T14:05:53+00:00",
-      "summary": "If Venus Has Life It May Have Come From Earth, Scientists Say&nbsp;&nbsp;ScienceAlertVenus, hottest planet in Solar system, could host life: Scientists | Temperatures on Venus’ surface can reach 464°C | Inshorts&nbsp;&nbsp;InshortsCould Earth Have Sent Life To Venus? New Study Explores 'Panspermia' As A Possible Explanation&nbsp;&nbsp;NDTVSigns of life on Venus will be searched for in the mid-2030s&nbsp;&nbsp;Radar ArmeniaIf Life Is Ever Found On Venus, Chances Are High It Might Have Been Sent F",
+      "summary": "If Venus Has Life It May Have Come From Earth, Scientists Say&nbsp;&nbsp;ScienceAlertVenus, hottest planet in Solar system, could host life: Scientists | Temperatures on Venus’ surface can reach 464°C | Inshorts&nbsp;&nbsp;InshortsCould Earth Have Sent Life To Venus? New Study Explores 'Panspermia' As A Possible Explanation&nbsp;&nbsp;NDTVSigns of life on Venus will be searched for in the mid-2030s&nbsp;&nbsp;Radar.amIf Life Is Ever Found On Venus, Chances Are High It Might Have Been Sent From E",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -477,7 +669,7 @@
       "id": "70716e3e91d9",
       "title": "People’s Pharmacy: New study shows possible connection between statins and cognitive difficulties - OregonLive.com",
       "published": "2026-04-11T13:00:00+00:00",
-      "summary": "People’s Pharmacy: New study shows possible connection between statins and cognitive difficulties&nbsp;&nbsp;OregonLive.comScientists Finally Crack Decades-Old Mystery Behind Statins’ Painful Side Effects&nbsp;&nbsp;SciTechDailyOxford Study: Only 4 Statin Side Effects Valid&nbsp;&nbsp;조선일보",
+      "summary": "People’s Pharmacy: New study shows possible connection between statins and cognitive difficulties&nbsp;&nbsp;OregonLive.comOxford Study: Only 4 Statin Side Effects Valid&nbsp;&nbsp;조선일보",
       "sources": [
         {
           "name": "OregonLive.com",
@@ -546,18 +738,6 @@
       ]
     },
     {
-      "id": "51a5b7da405d",
-      "title": "Construction Worker, 40, Diagnosed with Terminal Prostate Cancer After Minor 'Aches and Pains': ‘Why Me?’ - AOL.com",
-      "published": "2026-04-11T10:43:47+00:00",
-      "summary": "Construction Worker, 40, Diagnosed with Terminal Prostate Cancer After Minor 'Aches and Pains': ‘Why Me?’&nbsp;&nbsp;AOL.comView Full Coverage on Google News",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeXhST3NtTElBcnpYcVNLSTVrUktnVEo4N1hGRnJ4UkQ2R2djQVhTMTJVWnZHRlBpYm1xVlJYSWVfaGRxLTJkeVk0MWlESkE4aUFxYnYzRGplUGVCam0tOU1qaXhwaVVWalFEWm56VktzR1BSSlVkdkgyb3E1Q2dHZjB3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "447908916819",
       "title": "Parkinson’s can begin silently in your 40s: Early warning signs, hidden risks, and habits that may slow its progression - The Times of India",
       "published": "2026-04-11T10:30:00+00:00",
@@ -570,74 +750,14 @@
       ]
     },
     {
-      "id": "90b97e8c8e99",
-      "title": "Woman Diagnosed with Vulvar, Cervical and Anal Cancer After Learning Her Husband of 30 Years Had Cheated on Her - Yahoo Lifestyle Singapore",
-      "published": "2026-04-11T10:00:00+00:00",
-      "summary": "Woman Diagnosed with Vulvar, Cervical and Anal Cancer After Learning Her Husband of 30 Years Had Cheated on Her&nbsp;&nbsp;Yahoo Lifestyle Singapore",
+      "id": "1eb0e2633ce0",
+      "title": "Woman Diagnosed with Vulvar, Cervical and Anal Cancer After Learning Her Husband of 30 Years Had Cheated on Her - AOL.com",
+      "published": "2026-04-11T10:13:11+00:00",
+      "summary": "Woman Diagnosed with Vulvar, Cervical and Anal Cancer After Learning Her Husband of 30 Years Had Cheated on Her&nbsp;&nbsp;AOL.com",
       "sources": [
         {
-          "name": "Yahoo Lifestyle Singapore",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSUFnQ0ZZVVZxRGk5RXV1bXpIYjNUZy1KRl9RQW12Ym04ZkVQVzBGSFR1YTdwR3FGZGk2RkhOLVQ4RkVRR3dCWE9SOF9jY0tvXzltSFJGMHA2aDJqbUs4MmFDWTF6QndNRW5XS1l5Q1JQUEFHV3R0U2R6SlRJdnZNcDNmR0I?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5d75810c9fcb",
-      "title": "13 years ago, a young Rostraver mom prepared to die; the ‘super responder’ now shows no signs of cancer - Pittsburgh Post-Gazette",
-      "published": "2026-04-11T08:00:00+00:00",
-      "summary": "13 years ago, a young Rostraver mom prepared to die; the ‘super responder’ now shows no signs of cancer&nbsp;&nbsp;Pittsburgh Post-Gazette",
-      "sources": [
-        {
-          "name": "Pittsburgh Post-Gazette",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWExJT2drZ0w5bE1pRXRDVEFaanF2NXJKQnpRaXR3UDYzY2Z5OFd0aWppTkxaWlFDM2ZlcEU5dEQtTWk0djNqa0xQejU3Y1pQQlFkTjhXYnZIUmNodHFNNnByWjB0X0xSOVoxbmYtMjZ5SU9oSXNnQXlUVWNZSk4zNkd2aWJRRVZMRXd5VkJKNEFYbmxqMy1VUk1rU1dPVWQ4dm9fQWFwaUN6dk5q?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8125815bef20",
-      "title": "This high-fiber breakfast will keep you full until lunchtime Recipes - Fit&Well",
-      "published": "2026-04-11T05:00:00+00:00",
-      "summary": "This high-fiber breakfast will keep you full until lunchtime Recipes&nbsp;&nbsp;Fit&amp;WellWe Asked a Doctor If Eating More Fiber Helps You Live Longer&nbsp;&nbsp;Verywell HealthFiber has its moment, but experts say it’s been the real MVP all along&nbsp;&nbsp;cw34.comIn the online 'maxxing' era, what's the deal with fiber and protein?&nbsp;&nbsp;EdexLiveFibre over protein? Danone on changing consumer demands in functional foods&nbsp;&nbsp;DairyReporter.com",
-      "sources": [
-        {
-          "name": "Fit&Well",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdTRVWTBweGdqWkxOMEZseDBuY2lROWRoQmE2U0ZJS2hUUlhiRkZ6OWxNRzlLMUc1c0p4Z253UUJWY3dFSm81UnpTM0dLajFySEI2M2t3YjUxdFFKLTg0dzE4N3dzUHFHLVhRei1PSnlXXzViWGNPVW9faXY5ck5vYUNUdlJxa2x5NTFqeFlXT1BmLV9iTlctbWg3Yi1vdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "25ccb329a597",
-      "title": "Measles-infected infant was in Bellevue, Seattle - The Seattle Times",
-      "published": "2026-04-11T03:51:47+00:00",
-      "summary": "Measles-infected infant was in Bellevue, Seattle&nbsp;&nbsp;The Seattle TimesBaby with measles possibly exposed others on Seattle public transit&nbsp;&nbsp;FOX 13 SeattleKing County confirms measles case in infant; exposure risk in Bellevue and Seattle low&nbsp;&nbsp;KOMOMeasles case reported in infant; possible exposure locations in Bellevue, Seattle and public transit&nbsp;&nbsp;KIRO 7 News SeattleMeasles case identified in a King County infant&nbsp;&nbsp;thefactsnewspaper.com",
-      "sources": [
-        {
-          "name": "The Seattle Times",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVVJzZ19GdWFrLXFhOUN3MFBpcGpBQmoyTnVDaHdvd2xwUUlFVF9WVC0wdFNNZTNzNWx5bWFBdWJWblpSUGVxQlR6T1dUVVFUMFZJTXFka19mMnpKeENXdkd3TTdHaFZOdF95WjB3THhxWkJucDZlR2FXWG9vajhtT0tRdDJmOWlUN254STUweW5wam5JbUx0TUI3RG52dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a2653486ca74",
-      "title": "Scientists Uncover Strange New State of Matter Inside Uranus and Neptune - SciTechDaily",
-      "published": "2026-04-11T02:42:22+00:00",
-      "summary": "Scientists Uncover Strange New State of Matter Inside Uranus and Neptune&nbsp;&nbsp;SciTechDailyBoffins baffled as they find 'unusual state of matter' deep inside Uranus&nbsp;&nbsp;Daily StarHidden Deep Inside Uranus (and Also Neptune), Researchers Predict New Superionic State: Directional Atomic Motion Explains Non-Dipolar Magnetic Fields&nbsp;&nbsp;Intelligent LivingDeep Inside Uranus and Neptune, Hydrogen Moves in Spiral Paths Unlike Anything Seen Before&nbsp;&nbsp;The Daily GalaxyScientists ",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMG4weFNtTkNITkpiVmJFTTk2dnAtcjdlcUtISkQtb2RMVzRRX2t3UDhFNmhNaTdHY0l5OHBReFV2bFdJYmtWWmMwU0d4QjIzZ09rODFLdDgtRjVPNzRVQk84NVFCVlFLQVpieFlxSXBWUnM3ZnlZM3pHMGZncTFoeWEwbHhrRXh1MTBRbElvMGRjdDBFQWFOTUsxdGtDSFk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3212ff73eb3f",
-      "title": "Scientists finally crack mystery of rare COVID vaccine blood clots - ScienceDaily",
-      "published": "2026-04-11T02:33:12+00:00",
-      "summary": "Scientists finally crack mystery of rare COVID vaccine blood clots&nbsp;&nbsp;ScienceDaily",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHa3VwMURfMXNUMDB3b284bnBibFBwTTNCeThtN1MwLTZkemxpTUxudFlpNTNLM1hrWnF2TWw1REdnZkQwZEFUaUQ2QzVBVU1McUxTVE5SVUpUNi1jelZoSVR5akNZeTU2OWxfOFFCaw?oc=5"
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZTml3RlUxXzhOcGJvTXRMMWJpeWdTbUFGVUFIaW10Qm1uODliZ2FyMUlqd0l4NWN1NTg0WFlxYmgxTUVfWWdkenVfS25PSTVUb2FRMGtmN1dycmVhcENxRmlWNTZZS2VJSzQ1N29ua29sbnc0TmRIUHJYTQ?oc=5"
         }
       ]
     }

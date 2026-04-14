@@ -1,9 +1,9 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-04-14T02:51:11.437193+00:00",
-  "total_fetched": 132,
-  "unique_count": 132,
-  "health_related_count": 64,
+  "fetched_at": "2026-04-14T07:52:16.896085+00:00",
+  "total_fetched": 140,
+  "unique_count": 140,
+  "health_related_count": 68,
   "news": [
     {
       "id": "a6f008268892",
@@ -21,7 +21,7 @@
       "id": "2a0fa2836976",
       "title": "Measles takes a plane to Idaho, which has worst vaccination rate in US - Ars Technica",
       "published": "2026-04-13T21:32:48+00:00",
-      "summary": "Measles takes a plane to Idaho, which has worst vaccination rate in US&nbsp;&nbsp;Ars TechnicaIdaho state health officials alert public to possible measles exposure at Boise Airport&nbsp;&nbsp;Idaho Capital SunPossible measles exposure reported at the Boise Airport&nbsp;&nbsp;Idaho News 6IDHW warns of possible measles exposure at Boise Airport on March 29&nbsp;&nbsp;KBOIMeasles exposure at Boise Airport? Idaho health officials issue warning&nbsp;&nbsp;Idaho Statesman",
+      "summary": "Measles takes a plane to Idaho, which has worst vaccination rate in US&nbsp;&nbsp;Ars TechnicaIdaho state health officials alert public to possible measles exposure at Boise Airport&nbsp;&nbsp;Idaho Capital SunPossible measles exposure reported at the Boise Airport&nbsp;&nbsp;Idaho News 6Measles Exposure Reported at Boise Airport&nbsp;&nbsp;National TodayMeasles exposure at Boise Airport? Idaho health officials issue warning&nbsp;&nbsp;Idaho Statesman",
       "sources": [
         {
           "name": "Ars Technica",
@@ -30,10 +30,34 @@
       ]
     },
     {
+      "id": "a8c5eb35c109",
+      "title": "Here's What Spending 20 Minutes Outside Every Morning Does to Your Brain - Real Simple",
+      "published": "2026-04-13T21:30:00+00:00",
+      "summary": "Here's What Spending 20 Minutes Outside Every Morning Does to Your Brain&nbsp;&nbsp;Real SimpleA connection to nature fuels well‑being worldwide, according to a study of 38,000 people&nbsp;&nbsp;YahooThis Bay Area park is where a quiet phenomenon took root in the US&nbsp;&nbsp;SFGATEThis Could Be The Antidote To Low Mood & Negative Feelings, Study Finds&nbsp;&nbsp;MindBodyGreen307 — Eco Medicine Doctor: How to Use Nature to Reduce Depression, Kill Anxiety, and Extend Your Life&nbsp;&nbsp;Amy Mor",
+      "sources": [
+        {
+          "name": "Real Simple",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfNWNtZnkxYTNHbUlNM3Q4YlV1bi1UbV9MbGI1dXRQdUtuOHBkdG1KZEUwS3JqZUNsTTNRamxMRTdqd2hteV9QVkdBM3I0dmtWblgwNGF0S25WSU9YeVd4dzBiQ2lOMlBvN3Y0OWptbzlicXdid0JDSFRBaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "22e886f9dcb3",
+      "title": "'Oslo patient' likely cured of HIV after getting stem cell transplant from his brother, who is genetically resistant to the virus - Live Science",
+      "published": "2026-04-13T21:08:33+00:00",
+      "summary": "'Oslo patient' likely cured of HIV after getting stem cell transplant from his brother, who is genetically resistant to the virus&nbsp;&nbsp;Live ScienceSibling Stem Cell Transplant Leads to Rare HIV Remission in 'Oslo Patient'&nbsp;&nbsp;ScienceAlertMan ‘cured’ of HIV after brother found to carry rare genetic mutation: ‘Like winning lottery twice’&nbsp;&nbsp;The IndependentPerson functionally cured of HIV after bone marrow transplant from sibling&nbsp;&nbsp;Scientific AmericanFrom the Oslo to t",
+      "sources": [
+        {
+          "name": "Live Science",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNYWNDNXR2NDUzeUNRbktuY1RlSGVnWE9RQnlzYi01MjZJS1FlbVlCcEdhRHNVWXdUaUxFaERkMjRyUWhZd0FEYUExc3ZqWC1BZDFCVm1pRFEtZXo4SW1YUlJ2TDZvRnhLR3dHTVNSemVmRnhzd3JRN2JycE1ndUgwVTBpRGdQZldfc2s3Mnl3STYyTUtsN25BN0JnT0ZqRXFwWDBSd29yc2NfNUJZQXhwY3F1QWVSV1JqeHBNd3JXaFF1THJSRnoxdzhNaXVoQUhNdlowQ2x2NlJxZ0o0ZmI3cVE1VXhWN1lXSkRYRXNhT3lzQ3BtNHlyZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d4ed307a78a2",
       "title": "Heartwarming video shows Artemis II astronaut Christina Koch reuniting with her dog - NBC News",
       "published": "2026-04-13T21:05:40+00:00",
-      "summary": "Heartwarming video shows Artemis II astronaut Christina Koch reuniting with her dog&nbsp;&nbsp;NBC NewsVictor Glover and Christina Koch post-flight&nbsp;&nbsp;The Planetary SocietyArtemis II astronaut Christina Koch shares touching reunion with dog&nbsp;&nbsp;abcnews.comArtemis II Astronaut Christina Koch Shares an Inspiring Message for Earth After Her Historic Flight&nbsp;&nbsp;People.comHouston, We Have a Climber: Astronaut Christina Koch on Her Earthbound Hobby&nbsp;&nbsp;Climbing Magazine",
+      "summary": "Heartwarming video shows Artemis II astronaut Christina Koch reuniting with her dog&nbsp;&nbsp;NBC NewsVictor Glover and Christina Koch post-flight&nbsp;&nbsp;The Planetary SocietyHouston, We Have a Climber: Astronaut Christina Koch on Her Earthbound Hobby&nbsp;&nbsp;Climbing MagazineArtemis II Astronaut Christina Koch Shares an Inspiring Message for Earth After Her Historic Flight&nbsp;&nbsp;People.comOver the moon: Watch Astronaut Christina Koch reunite with dog after lunar mission&nbsp;&nbsp;",
       "sources": [
         {
           "name": "NBC News",
@@ -42,13 +66,13 @@
       ]
     },
     {
-      "id": "9c1dd30f549a",
-      "title": "Juab School District reports confirmed measles case as statewide outbreak grows - KSL News",
+      "id": "0685ff9d760a",
+      "title": "Juab School District reports confirmed measles case as statewide outbreak grows - KSL.com",
       "published": "2026-04-13T21:00:35+00:00",
-      "summary": "Juab School District reports confirmed measles case as statewide outbreak grows&nbsp;&nbsp;KSL NewsMeasles outbreak spreads in Utah, hitting people without the vaccine&nbsp;&nbsp;KUERUniversity of Utah measles exposure is another warning signal to check immunizations&nbsp;&nbsp;FOX 13 News UtahSouth Carolina sees no new measles activity as Utah becomes epicenter of US outbreaks&nbsp;&nbsp;CIDRAPNo new measles cases in South Carolina for a week, but CDC outbreak models warn about underreporting&n",
+      "summary": "Juab School District reports confirmed measles case as statewide outbreak grows&nbsp;&nbsp;KSL.comMeasles outbreak spreads in Utah, hitting people without the vaccine&nbsp;&nbsp;KUERUniversity of Utah measles exposure is another warning signal to check immunizations&nbsp;&nbsp;FOX 13 News UtahSouth Carolina sees no new measles activity as Utah becomes epicenter of US outbreaks&nbsp;&nbsp;CIDRAPNo new measles cases in South Carolina for a week, but CDC outbreak models warn about underreporting&nb",
       "sources": [
         {
-          "name": "KSL News",
+          "name": "KSL.com",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaXZVYWg3MXBpWDJxa3FJZXZhRzQ4SVh0YW1hai1XY2hxVG5ZR0VKUlBNYWdqSGpROWxKYzlOUFlVSmVRei1kUnU4c0VOMDh6MWlMeWQ5RmtwSzRHUnpKNXlCWUR5NFg5R2hlUlZhVUVud3VBUWYxdGZ1RG9PdWNfLXp1UExqX2ZraHFRbGxBZXd2c3dRbmdGLWV2ZWpLSWp5MGM2VHZxekkyZ2lJRFdiWmZPNVZuNG8?oc=5"
         }
       ]
@@ -66,6 +90,18 @@
       ]
     },
     {
+      "id": "15d0e4265da8",
+      "title": "Toxic airborne chemical detected in US for first time sparking health concerns - The Mirror US",
+      "published": "2026-04-13T19:31:00+00:00",
+      "summary": "Toxic airborne chemical detected in US for first time sparking health concerns&nbsp;&nbsp;The Mirror US",
+      "sources": [
+        {
+          "name": "The Mirror US",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeGdqODdHd1hEeFctWDBzSlBmUjNmSk1Kd1hCR3pKLTllaTk0VDVfeUhNY1N1akpiMi0wNFpwSGF1enpfQTRVTW01N0ljQkNvYlNtVEV1Y2ZZbGtaN3YtbUw1MmZ6ZnplTWdiMERsV1lFc19mM2NDTEIyLWtaXzlWUlRBal9vaGV0QmswVG930gGTAUFVX3lxTE5OSjlFdnlGREUtZkdvbkZVTGQ3ekY2bHNSYi1EdTN4VXYzb1FNQURHb0p3am1pZFR3Y3JLRkhoSDFFSEo0dFhwMHQyYkV5cWZ3Sm9rREZyY3dMdkQwdFM5Nk1rOWZ0OUJmSkhtUmlQSldDLVY2bDVyamVIQ1FOUWlQc2RuRFFGcm9SYkFYQzFCd1FxVQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "073ca63f0a25",
       "title": "Viruses allegedly stolen from high-security lab cause stir in Brazil - Nature",
       "published": "2026-04-13T19:28:57+00:00",
@@ -74,18 +110,6 @@
         {
           "name": "Nature",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUX2dIeGlyWkpLYWVEM2JSYWJKZmlmX1R1WEFwLUxNcE5ucnN3aGU5amZvRVRhdnIxTzJEaDN4Rjd0WUtvVTZnWkptdDQ4Q0VGMksydXRvVENhTzBUWGRz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "86a77311a982",
-      "title": "Here's what psychedelics actually do to the brain - AOL.com",
-      "published": "2026-04-13T19:19:30+00:00",
-      "summary": "Here's what psychedelics actually do to the brain&nbsp;&nbsp;AOL.comView Full Coverage on Google News",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hMmxveGdsRzB2Z3R1R3RTdXo0eVlFQVEzbVVCNzN2eW9QVGtXZDRpVmc0clgybHVkeXMxVFRSYkRyOElSeUp5TnRuUmgwaTE5YndBcDdxRVhDRWpJUFgtcVBLaVVFZ1RvbnJBb2txaE5YRFhweEdF?oc=5"
         }
       ]
     },
@@ -105,11 +129,35 @@
       "id": "03c7c2508bac",
       "title": "‘Thrilling’ embryo fossil discovery upends everything we knew about how early mammals gave birth: ‘Breaks entirely new ground’ - New York Post",
       "published": "2026-04-13T18:18:00+00:00",
-      "summary": "‘Thrilling’ embryo fossil discovery upends everything we knew about how early mammals gave birth: ‘Breaks entirely new ground’&nbsp;&nbsp;New York PostAncient survivor reveals its secret: First-ever egg of a mammal ancestor discovered&nbsp;&nbsp;EurekAlert!Embryo fossil found in South Africa is world's oldest proof that mammal ancestors laid eggs&nbsp;&nbsp;Phys.org250-Million-Year-Old Embryonated Dicynodont Egg Found in South Africa&nbsp;&nbsp;Sci.NewsSolid Proof That Our Mammal Ancestors Laid ",
+      "summary": "‘Thrilling’ embryo fossil discovery upends everything we knew about how early mammals gave birth: ‘Breaks entirely new ground’&nbsp;&nbsp;New York PostEmbryo fossil found in South Africa is world’s oldest proof that mammal ancestors laid eggs&nbsp;&nbsp;The Conversation250-Million-Year-Old Embryonated Dicynodont Egg Found in South Africa&nbsp;&nbsp;Sci.NewsAncient survivor reveals its secret: First-ever egg of a mammal ancestor discovered&nbsp;&nbsp;EurekAlert!Solid Proof That Our Mammal Ancesto",
       "sources": [
         {
           "name": "New York Post",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaG53NWtaUTd4S0MzaUNWaVhyU1NKdFhFLUZ5ZkhXZ19uTmItR25Gb2Z4WjJQZUVuRTdjMm05LTZnUzFBYmlGOVE3WF9jelI4blNkNVl1aEthNV9hVVFyUmlVeTFPS3pRbFZBZGVEajRSWC1vSFJtME5QQktjcGxZNXVTLXZ5OEVnd19Sb0Zya1lHek1fdkt4aGV2RGE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e18575e2253f",
+      "title": "Top GOP lawmaker pushes back on NASA’s budget cuts - Politico",
+      "published": "2026-04-13T18:09:48+00:00",
+      "summary": "Top GOP lawmaker pushes back on NASA’s budget cuts&nbsp;&nbsp;PoliticoKey Senate appropriator rejects proposed NASA budget cuts&nbsp;&nbsp;SpaceNewsOpinion | NASA Flew by the Moon, but Behind the Scenes, Its Science Is a Chaotic Mess&nbsp;&nbsp;The New York Times82 NASA missions at risk under new proposal&nbsp;&nbsp;The Planetary SocietyNASA science faces 'very serious threat' from new White House budget, experts say&nbsp;&nbsp;Space",
+      "sources": [
+        {
+          "name": "Politico",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUklRNlhpUlRYRGEwM19ZamtRMTZQWmVFXzVXSWROUGdJTHJVSkx3LV9YRGl1MTZfeVdxVXRUbDV5Mnp5Y0tDOVEtRlNLU2RNX3l5V2ViMnhVMndWTWhlcTllZXktZVJyTFNHUG5kcUc4UC1FeEJiZXRjZEphUTFFODZfLW9ETDJTV2pJM1k0TVpxNjhiUWdqZ2d5U1pYdFF4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0d5434e06ff6",
+      "title": "Ultrasound creates light inside the body, opening a new path to targeted treatments - Phys.org",
+      "published": "2026-04-13T17:00:01+00:00",
+      "summary": "Ultrasound creates light inside the body, opening a new path to targeted treatments&nbsp;&nbsp;Phys.orgAn ultrasound-scanning in vivo light source&nbsp;&nbsp;NatureUltrasound-Generated Light Enables Noninvasive Targeted Treatments&nbsp;&nbsp;National TodayResearchers use ultrasound to create light inside the body&nbsp;&nbsp;Stanford ReportStanford researchers create light inside the body using ultrasound&nbsp;&nbsp;Interesting Engineering",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hTnZYSzBoODFUWl9qaGU1ZFFVd2dBYXlIMWVZbkQwcjhVU1M3YjhwSTZveG5DOGFUaDZabEhNSFZVNjJUU0tFUlpueGtZNU40WlY3ZFVIOGlvYWotdElodlNkYWlYWXlHVGZnSkgxUWxaOEtf?oc=5"
         }
       ]
     },
@@ -150,18 +198,6 @@
       ]
     },
     {
-      "id": "3c6088a59894",
-      "title": "Sibling Stem Cell Transplant Leads to Rare HIV Remission in 'Oslo Patient' - ScienceAlert",
-      "published": "2026-04-13T15:01:16+00:00",
-      "summary": "Sibling Stem Cell Transplant Leads to Rare HIV Remission in 'Oslo Patient'&nbsp;&nbsp;ScienceAlertPerson functionally cured of HIV after bone marrow transplant from sibling&nbsp;&nbsp;Scientific AmericanFrom the Oslo to the Berlin patient: Lessons learned from 10 people ‘cured’ of HIV&nbsp;&nbsp;EL PAÍS EnglishNorwegian effectively cured of HIV after transplant from brother&nbsp;&nbsp;Barron News-ShieldHIV Undetected 5 Years After Sibling Stem Cell Transplant&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWGRGS2s5Rm1ZM293bkFYUkNNMVpsbnc3LTJ1TkhPakxiRm1OM3FxX3pHenJIWnBoMlJqeFB2c19XVE9nRmhKNWJWSjdOWTVHa0d3dGFZMHo0MzhWUkQtMThXbjMyMkRhVDNkSHFsT3JrU3RVU05iZFZ3U1czUDV6bkpwelVPZlVBN1otcDRtbFZzWVpIdzY5dWRJZGJtenlEdUFV?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9e905796462d",
       "title": "800 Years Ago, Japanese Astronomers Saw Strange 'Red Lights in the Northern Sky,' Now Scientists Have Just Revealed What They Were! - The Daily Galaxy",
       "published": "2026-04-13T14:45:00+00:00",
@@ -170,6 +206,18 @@
         {
           "name": "The Daily Galaxy",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ3NZM3JzUjVSc1NKOVV0czBwLVlkcGtmWjR6LWtlaFNzRXBRbDA3b3BXRUx5cGRaWUlGRXdxREd0aVlNMmlUbDZ4dXNzYXZsdTQ1ZmVpdERfb0tpNjBQUVpOOXJRQlgzZXVUb3lxZHdIeEM1WXpWOGhoTFF2Rzhrag?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f6597da0db60",
+      "title": "Predictive Brain: Why Categorization is an Action, Not an Idea - Neuroscience News",
+      "published": "2026-04-13T14:27:14+00:00",
+      "summary": "Predictive Brain: Why Categorization is an Action, Not an Idea&nbsp;&nbsp;Neuroscience NewsCategorization is ‘baked’ into the brain&nbsp;&nbsp;NatureA complete rethinking of how our brains use categories to make sense of the world&nbsp;&nbsp;Medical Xpress",
+      "sources": [
+        {
+          "name": "Neuroscience News",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwYmt0Sy11T2N0d181dkVPVE15Q3JLbHk4QUY1WlhMTjNqVEZTaDVyMGFJNXdRWVU5dlNFSmFxZktaZjhrcjdINGxWd3E2MXpILUdzMV9LRFVQdjR0cFA5YlFVWUNhTk1DZUZadV9rVWJzY0ZUQS1PVzhiTlpwS1U?oc=5"
         }
       ]
     },
@@ -210,18 +258,6 @@
       ]
     },
     {
-      "id": "7b40bf637f2d",
-      "title": "The Best Time to Take Vitamin D for Supplementation and Optimal Sleep - Verywell Health",
-      "published": "2026-04-13T13:23:47+00:00",
-      "summary": "The Best Time to Take Vitamin D for Supplementation and Optimal Sleep&nbsp;&nbsp;Verywell HealthMillions of Americans Taking Vitamin D Supplements Don't Actually Need Them, New Guidelines Confirm&nbsp;&nbsp;Undiscovered America TVMillions of Americans Are Vitamin D Deficient. These Brands Think Skincare Products Are The Answer.&nbsp;&nbsp;Women's Health4 silent signs you need more vitamin D — are you ignoring them?&nbsp;&nbsp;Futura, le média qui explore le mondeVitamin D deficiency despite sun ",
-      "sources": [
-        {
-          "name": "Verywell Health",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BU0hUT0llQ3R5NDRaSE12dUczWnJ1SnhXXy1POUh0MWlTYkExU21QOXdrRnpTZE5RM0tqVnlOeXBwODllYVVmRmhnMGE4QnBwVzJFZHhKQkphUzZPdUxWOFVibmFWSHZMdzkzRk5La05pMHAzMEVTUHg5eGI5anM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f5b3d4d08853",
       "title": "For Ants, a ‘Cleaning Station’ in the Desert - The New York Times",
       "published": "2026-04-13T13:06:29+00:00",
@@ -242,6 +278,18 @@
         {
           "name": "Prevention",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ2NiWDFMWUowWFpON016emthcjNsV3YzSlZ1dUJWZ2l3bHlmamI4SWIzNEZjdDhDTklKYVJTaVVuVGhTd0FqaFR4bExwcDBJUklMTHAzR0lUMlRaTHZjbDFoTjluUEc4QlRWVGU2V080ZVN4ZXcwajBFM2VlY29mVV9qTlNVUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "17d17366bfe2",
+      "title": "Fitness coach with 18 years of experience shares 3 reasons why you are not losing weight despite putting in the effort | Health - Hindustan Times",
+      "published": "2026-04-13T11:40:50+00:00",
+      "summary": "Fitness coach with 18 years of experience shares 3 reasons why you are not losing weight despite putting in the effort | Health&nbsp;&nbsp;Hindustan TimesWhy You’re Not Losing Weight Eating 'Healthy,' According to Dietitians&nbsp;&nbsp;AOL.comA doctor lists 5 common diet mistakes sabotaging your weight loss goals&nbsp;&nbsp;HELLO! MagazineNot losing weight despite diet and exercise? Longevity doctor shares 7 reasons you are not seeing results&nbsp;&nbsp;India TV NewsWhy diet and exercise may not",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOMmpPVkZ1U3RPODdBNW9PUlNkNnQ2bEZ3TlJHOUgzMmF0c2F4cFhvbnBCX2JrUU5sZ25HbkdjdTZFNldZaUxqLW0zRllOWVBMNXQxY3ZLNEljaTNETFVtM091QnJ6bnZKUF9pNDZEeWQwMWQ2eDdiZHB5cXFwRE5WTlpKSUlEY0RHVFQ1ZjBRb3YtSFRuVXl4Q3RQX2RVbUtrNDFldXAwajg5YkF2U2VkeEtSTkllbjc0QVh3N01ZRVVHQW9aSU9mQVVwM2VTa0VzV05aUTRyMTdwcTlWV3pNLTZWTXRRVUVJV3Q1ZEtvcW00VzN2X0ViZFJVVHh6dnRaTDRjby1DMnBkbFljLWE1RFVsV3h0Z9IBmwJBVV95cUxQczRkRXVuSmVhbVBYcXhYakNzWVgtb3k1U21KVHZoUzlGRXZjTnJUTEVVNHdsNWx0NUJsNTZNMk5QV0Y2V2tYUmE5T0VxYjRPUTM4LVI3bEp3eVR3Y2oxMjdFaEwxU1llclBPd1RzWFFBaGFTRnVLRkdPc1RyRGFDM2c5YmFQU1haZkUwbERTUEZ1TE9pQTUxT01tMVRqeEhUQV9Mdk5fTTFzcXdSRmJnRnpwQkFFR0hWekxQN285ZHQ5Zk9mOVEwS1BNd2hQSzJiWS1EcWlNemM5bEtzaGZhdy1rbmZrWlhsaTVjZG5IVGpjcjBvNHBfUnpmV25fYldjcVR3MDBRc0FxTmxQemQ0dmFmbnBUVUFkOExr?oc=5"
         }
       ]
     },
@@ -270,6 +318,30 @@
       ]
     },
     {
+      "id": "9b5f38f702d1",
+      "title": "I Thought I’d Be on a GLP-1 by Now - The Cut",
+      "published": "2026-04-13T11:00:48+00:00",
+      "summary": "I Thought I’d Be on a GLP-1 by Now&nbsp;&nbsp;The CutOpinion: Not so positive — How the body positivity movement has changed for the worst&nbsp;&nbsp;The BattalionThe Ozempic Effect: Moving the dial on diets&nbsp;&nbsp;The PostWhen a Diabetes Drug Becomes a Weight-Loss Question&nbsp;&nbsp;Iredell Free NewsThe Ozempic Economy: How GLP-1 Drugs Are Rewriting American Health, Business, and Culture&nbsp;&nbsp;Undiscovered America TV",
+      "sources": [
+        {
+          "name": "The Cut",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LdC1udDVjeHJTLVVnQWpMbWlNcmJXZnJzSDdIaVlnRmp4eVhNQXBvT2VteFgwQ1IxWTByendmbndlaVMwandCZVo4OVBNNU5qWE1tQTVvUmJzTUgzMU8tNmR1eEdBZERtYWxnZkFDN3ZoWjlGRnVTZE9KZS1BQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d1762c9212fd",
+      "title": "Eye Doctors Share 6 Health Concerns They Can Spot In Your Eye Before You Realize Anything Is Wrong - HuffPost",
+      "published": "2026-04-13T11:00:18+00:00",
+      "summary": "Eye Doctors Share 6 Health Concerns They Can Spot In Your Eye Before You Realize Anything Is Wrong&nbsp;&nbsp;HuffPostView Full Coverage on Google News",
+      "sources": [
+        {
+          "name": "HuffPost",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOXRobkJBWXBlQUI1VlA1VUxaZ0xWWWltY0VDcV9UM1VEOXBBa0ZtamhvekhMS0hCSVczU2lLUU1IWmRzbTg0aS0zd25GTS1zMUtEUVR0Q1FfcUxhN1RIdDVBbzdCTk82cEpXcm1mMDZSZmFrT1pST0xvemdaQ1hRVHdxdGp3QzVYMHfSAY8BQVVfeXFMTk9nUWlXNy1sb1dOZmRObml3RGplN1c3cWJWZVNBb3FFWWpfZjNMc1NRYWVnajlOeVdvSmZ0RVd0dEJoTXlMLWdDdExFTjBZSDZxeWVDTFBhdlFRekdrbk1OaXBPRU9EV2ZWVGVneDVaNThQZV93Y1p6dnB1RWtCdXZYRy1ueTJUSlgweUpUWGs?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ab4f9959d238",
       "title": "Saunas May Do More Than Raise Body Temperature – They Activate Your Immune System - SciTechDaily",
       "published": "2026-04-13T10:58:36+00:00",
@@ -285,7 +357,7 @@
       "id": "e889f54cfab7",
       "title": "Scientists Thought This Was the Oldest Octopus Until They Found Something Hidden Inside - A-Z Animals",
       "published": "2026-04-13T10:32:00+00:00",
-      "summary": "Scientists Thought This Was the Oldest Octopus Until They Found Something Hidden Inside&nbsp;&nbsp;A-Z AnimalsAncient ocean mystery deepens as long-misidentified fossil is finally revealed by researchers&nbsp;&nbsp;Fox News\"Weird blob\" creature thought to be the world's oldest octopus isn't an octopus after all. Here's what scientists found.&nbsp;&nbsp;CBS NewsOldest octopus fossil found to not be an octopus&nbsp;&nbsp;Ars TechnicaThe world’s oldest octopus fossil isn’t an octopus after all, sci",
+      "summary": "Scientists Thought This Was the Oldest Octopus Until They Found Something Hidden Inside&nbsp;&nbsp;A-Z AnimalsAncient ocean mystery deepens as long-misidentified fossil is finally revealed by researchers&nbsp;&nbsp;Fox NewsThe ‘oldest octopus’ in the world isn’t an octopus after all, scientists find&nbsp;&nbsp;CNN\"Weird blob\" creature thought to be the world's oldest octopus isn't an octopus after all. Here's what scientists found.&nbsp;&nbsp;CBS NewsOldest octopus fossil found to not be an octo",
       "sources": [
         {
           "name": "A-Z Animals",
@@ -390,6 +462,18 @@
       ]
     },
     {
+      "id": "36af3d93b6ed",
+      "title": "Taking Too Much Vitamin D Can Backfire, Scientists Warn - ScienceAlert",
+      "published": "2026-04-13T02:31:16+00:00",
+      "summary": "Taking Too Much Vitamin D Can Backfire, Scientists Warn&nbsp;&nbsp;ScienceAlertWhat Happens to Your Body When You Take Vitamin D Supplements Every Day Long Term&nbsp;&nbsp;Verywell HealthMillions of Americans Are Vitamin D Deficient. These Brands Think Skincare Products Are The Answer.&nbsp;&nbsp;AOL.comWarning to some vitamin D users as NHS doctor says 'this is bad'&nbsp;&nbsp;The MirrorAre you taking too much vitamin D? Warning signs to watch for&nbsp;&nbsp;MSN",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR000Z3NHSzRpd3l3d3RTaFg4TUlnQ2lWRnBraTF4QlV6V3M4VVY1UVRKWXFpbG5YOVZIN25wa0dFLWdmZVNITTR6Z2Y5Q2VzazNjd0dYOHRRS3hncGxGak1PZUdIR0xfc2JJUjQtSW94RzZiNWVHMFNZUHJlWW1iU0NtOU0zX3k4NFNR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "323f4936688e",
       "title": "Your brain uses the same cells to see and imagine - Earth.com",
       "published": "2026-04-12T23:30:19+00:00",
@@ -398,6 +482,18 @@
         {
           "name": "Earth.com",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdDRJSGttWjZVV2Y3SW52ajZUMGxZWnhmbWtJdWhLVkRGblZFc3hBQkxkdnpSRWNXZGtKdzFHdXhOUWFXeDlhbDRybnVPUzlnOW1PTWtPdU14TjJOQVJLZEtRU051WVI3WTVxUG9tSHBQa2szRHhQc19kQ0Z5VTNtZ0o3SQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "af17ee5beabc",
+      "title": "'Stress speeds aging but it may be reversible', Israeli researcher says - ynetnews",
+      "published": "2026-04-12T22:40:21+00:00",
+      "summary": "'Stress speeds aging but it may be reversible', Israeli researcher says&nbsp;&nbsp;ynetnews",
+      "sources": [
+        {
+          "name": "ynetnews",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZbmQzVkhYN3pkVWV0N245ckhVdENqQkF3V2xiSTRnQXFsV2RfYU14cDdib0V4amVrNktkZDlOVFhmOEVoVmNHMDdNcWVKTTZEcG9FQkg4SlZ5X1VvaXlVX1R4SGRaQmxQdXc?oc=5"
         }
       ]
     },
@@ -441,11 +537,23 @@
       "id": "166fbee0d267",
       "title": "Scientists Discover Way To Treat Lung Cancer and Its Deadly Side Effect Together - SciTechDaily",
       "published": "2026-04-12T21:08:37+00:00",
-      "summary": "Scientists Discover Way To Treat Lung Cancer and Its Deadly Side Effect Together&nbsp;&nbsp;SciTechDailyLipid nanoparticles deliver dual therapy for lung cancer&nbsp;&nbsp;Drug Target ReviewResearchers find way to treat lung cancer and associated muscle wasting at the same time&nbsp;&nbsp;EurekAlert!Researchers Develop Dual Treatment for Lung Cancer and Muscle Loss&nbsp;&nbsp;National TodayScientists Discover Dual Treatment for Lung Cancer and Muscle Wasting&nbsp;&nbsp;Bioengineer.org",
+      "summary": "Scientists Discover Way To Treat Lung Cancer and Its Deadly Side Effect Together&nbsp;&nbsp;SciTechDailyLipid nanoparticles deliver dual therapy for lung cancer&nbsp;&nbsp;Drug Target ReviewResearchers find way to treat lung cancer and associated muscle wasting at the same time&nbsp;&nbsp;EurekAlert!Researchers Develop Dual Treatment for Lung Cancer and Muscle Loss&nbsp;&nbsp;National Today",
       "sources": [
         {
           "name": "SciTechDaily",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbWNJR2hweElHU1NhMk4wYnhRaldxZUVtUFpmNm9DYmtONmVPUFk4b2tqZl9EYlJYSGZrVUNLS0ptRjI2NzBGa1NaM3VqUHBlSVctOFVpTjREbGQ0WHp3Mk9rN05SMW1TMkNDdzR3UGVzNjZ4dkZJTlRlVUdSelpJZzlxMmJLRWxzcnlYYWQ4T1BQbkdNa2tfTy1fbEdVdzcxNjFPX1FGUjEtdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "28db39aa5f78",
+      "title": "Scientists discover the universe will end a lot sooner than originally calculated - Dexerto",
+      "published": "2026-04-12T20:26:57+00:00",
+      "summary": "Scientists discover the universe will end a lot sooner than originally calculated&nbsp;&nbsp;DexertoScientists Revise Timeline For End Of The Universe, And It's Earlier Than Previously Estimated&nbsp;&nbsp;NDTVRadboud University study says universe may end in 10^78 years&nbsp;&nbsp;NewsBytesScientists slash estimated lifespan of the universe in shocking new study&nbsp;&nbsp;MARCAWill the universe end sooner than expected? Scientists share prediction&nbsp;&nbsp;Moneycontrol.com",
+      "sources": [
+        {
+          "name": "Dexerto",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVE5LMmYyZWVpYldnMENLaGU2dEk1cDVvd3U4TTQyLXJWR0ZYd3pGdmIteUxmcnl2cVkxTVNkWDRacVNfck9hTUotRjc0Y2p0clNBOW45TzRzN1A2aFJ0UWJrejdnb3FLNU8waHhGLUtZZjUzeXJaVnkwNXEwUHQ5Y3loUC1iUzc5b1Y4MzJrNzN0UGluZTJSQ2NlOHcwLVFCNzFVdmxLZ0RzOFJEcUstTE1JLXFYRWNKZTFDTlM0Yl9SdGw5YWM0?oc=5"
         }
       ]
     },
@@ -501,7 +609,7 @@
       "id": "c3b712c12b72",
       "title": "Extinct ice age giants in Bender's Cave challenge existing climate records for the Edwards Plateau - Phys.org",
       "published": "2026-04-12T18:00:03+00:00",
-      "summary": "Extinct ice age giants in Bender's Cave challenge existing climate records for the Edwards Plateau&nbsp;&nbsp;Phys.orgLion-sized Armadillo and Giant Tortoise Found in Texas Cave Surprise Paleontologists&nbsp;&nbsp;ZME Science'Bones all over': UT paleontologist finds 100,000-year-old fossils in Central Texas cave&nbsp;&nbsp;Austin American-StatesmanTexas Standard for April 13, 2026: Ice Age fossil discovery in Texas reshapes understanding of prehistoric wildlife&nbsp;&nbsp;Texas StandardWord Wran",
+      "summary": "Extinct ice age giants in Bender's Cave challenge existing climate records for the Edwards Plateau&nbsp;&nbsp;Phys.org'Bones all over': UT paleontologist finds 100,000-year-old fossils in Central Texas cave&nbsp;&nbsp;Austin American-StatesmanTexas Standard for April 13, 2026: Ice Age fossil discovery in Texas reshapes understanding of prehistoric wildlife&nbsp;&nbsp;Texas StandardLion-sized Armadillo and Giant Tortoise Found in Texas Cave Surprise Paleontologists&nbsp;&nbsp;ZME ScienceWord Wran",
       "sources": [
         {
           "name": "Phys.org",
@@ -518,18 +626,6 @@
         {
           "name": "The Times",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR0F6bWdscWphYURTcW1pT1V2UFJ3RGJZRXNXYm01czhGUU9CbjlwUmJoSkVVM1lXME91ODdQSjRlYXdnUjFKU1JJa3BkX3hvOUliSUUxSnNCUEdKTGtWQU5IS1NZXy1zQ1dhMXc1c0JqVXY2dHg1aVJWUktSS1V4OThNX0xJSmkybjFYZnA4NUlNRGY3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ec9c5279565f",
-      "title": "Artemis II pilot Victor Glover praises God after return, says mission was 'too big to be in one body' - Yahoo",
-      "published": "2026-04-12T16:53:07+00:00",
-      "summary": "Artemis II pilot Victor Glover praises God after return, says mission was 'too big to be in one body'&nbsp;&nbsp;YahooThe 6 Words an Artemis II Astronaut Told His Wife From Space Is Warming Hearts&nbsp;&nbsp;TODAY.comThe Heavens Are Still Declaring—and Not Just to Astronauts&nbsp;&nbsp;The Gospel CoalitionVictor Glover, The First Black Man to Travel To The Moon, Has a Family You Will Love&nbsp;&nbsp;The RootCircling the moon, a Black astronaut inspires millions&nbsp;&nbsp;Reuters",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMzdORzJiQTVYU3NqUDRXZzlEVUFmV19xcTdNOVJpXzNfQy14OTZtUFY1QTJpSmhNeS13ZTZOZ3lWeDJQZTdUVUpDc09nanh4bUJCMmM4eGhBZ2hJYVFJSkczMF9kbmt4Z3NvWExyVm5TMXR2T0syMGdsbWU5Z2hlV1R4RE5lcmNE?oc=5"
         }
       ]
     },
@@ -597,23 +693,11 @@
       "id": "f72f729b6c97",
       "title": "This Tiny Wildflower Could Be a Secret Weapon Against Superbugs - ScienceAlert",
       "published": "2026-04-12T14:01:02+00:00",
-      "summary": "This Tiny Wildflower Could Be a Secret Weapon Against Superbugs&nbsp;&nbsp;ScienceAlertGroundbreaking study finds surprise item could hold answer to beating hospital superbugs&nbsp;&nbsp;Daily ExpressScientists find tormentil may help fight antibiotic resistant bacteria&nbsp;&nbsp;NewsBytes",
+      "summary": "This Tiny Wildflower Could Be a Secret Weapon Against Superbugs&nbsp;&nbsp;ScienceAlertWild Plant Offers Hope in Fighting Antibiotic-Resistant Bacteria&nbsp;&nbsp;وكالة صدى نيوزTormentil: Yellow wildflower that could be a breakthrough against drug-resistant infections&nbsp;&nbsp;The Eastleigh VoiceScientists find tormentil may help fight antibiotic resistant bacteria&nbsp;&nbsp;NewsBytesGroundbreaking study finds surprise item could hold answer to beating hospital superbugs&nbsp;&nbsp;Daily Expr",
       "sources": [
         {
           "name": "ScienceAlert",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZlB1MjFXaFpSQVdZY2ROUndFXzF2bEJDenhDWnlSazNjdG1UOGdyaW4wbUE5T25HRDNRcGE4bF9uVDZWcFdQWERFcWRWMlVmRmxFYTg1SWcxcktnT2JPWnZ5WFFTVktkdFFmMFBGcDV0c0gyWlNmanJnaGtPRjZfQWRLQkxva19vVFJER1dVN2h3N0ZENnJ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7ee904ee4838",
-      "title": "Study Finds Three Distinct Types of Black Hole Mergers - Ground News",
-      "published": "2026-04-12T13:49:02+00:00",
-      "summary": "Study Finds Three Distinct Types of Black Hole Mergers&nbsp;&nbsp;Ground NewsAstronomers find evidence for three subpopulations of merging black holes&nbsp;&nbsp;Phys.orgOver 150 mergers reveal three distinct black hole origins, challenging unified model&nbsp;&nbsp;Interesting EngineeringBlack Hole Mergers: Astronomers Have Identified Three Subtypes of These Objects&nbsp;&nbsp;Universe Space TechScientists discover three types of binary black hole mergers in the universe—here's what they are&nbs",
-      "sources": [
-        {
-          "name": "Ground News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSTZZSTFCdTU1dDB0cm81Zmh5end5SFNDbk1rekx6em1ZY1A4c3ZlZllxbUR0Ri1YRzZWWGJvZXVqaHdleHdmeHVOTTZsT0pjc2p4Q0hOcE52WG42NGtBRTNVWUJJOWVhWFhneXZqdS1WYUhuNFhwaFVwa2Z3OTZENDVBYXBSa19mUWc?oc=5"
         }
       ]
     },
@@ -642,22 +726,10 @@
       ]
     },
     {
-      "id": "7e7d95154e7e",
-      "title": "Why Ozempic doesn’t work for everyone: Scientists just found a hidden reason - ScienceDaily",
-      "published": "2026-04-12T13:03:28+00:00",
-      "summary": "Why Ozempic doesn’t work for everyone: Scientists just found a hidden reason&nbsp;&nbsp;ScienceDailyGenetic predictors of GLP1 receptor agonist weight loss and side effects&nbsp;&nbsp;NatureOne in 10 people may have resistance to GLP-1 diabetes drugs&nbsp;&nbsp;Stanford MedicineGenes May Predict How Much You’ll Lose on a Weight-Loss Drug&nbsp;&nbsp;WSJGLP-1 weight loss, side effects linked to genetic variations&nbsp;&nbsp;Reuters",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ISWsyTDVZR1JhVWJMVDl2N3hfalZzZC1NUkVYUkk2YkZ3SDd6azdyN0htVDR6RG5ubXNIdjVJMjRwWEk3TS1mLW90UHNwWDNLX2dXVUpyN2duODFmQXhDMGl1Tk95Q0ozMTFSNWNDaw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "772eb73c81d6",
       "title": "Your roommate can influence your gut bacteria for good, study finds - Interesting Engineering",
       "published": "2026-04-12T12:22:00+00:00",
-      "summary": "Your roommate can influence your gut bacteria for good, study finds&nbsp;&nbsp;Interesting EngineeringWhy sharing a living space with other people could be making your gut healthier&nbsp;&nbsp;The Irish IndependentClose, Social Contact Can Shape a Gut Microbiome, Sometimes Making it More Alike&nbsp;&nbsp;Discover MagazineCould your housemates be changing your gut bacteria? An island bird study suggests so&nbsp;&nbsp;Phys.orgLiving with friends or a partner may subtly alter your gut bacteria&nbsp",
+      "summary": "Your roommate can influence your gut bacteria for good, study finds&nbsp;&nbsp;Interesting EngineeringCould your housemates be changing your gut bacteria?&nbsp;&nbsp;EurekAlert!How close friends may be changing your gut bacteria&nbsp;&nbsp;Earth.comClose, Social Contact Can Shape a Gut Microbiome, Sometimes Making it More Alike&nbsp;&nbsp;Discover MagazineThe People You Live With Have a Strange Effect on Your Body&nbsp;&nbsp;VICE",
       "sources": [
         {
           "name": "Interesting Engineering",
@@ -702,22 +774,10 @@
       ]
     },
     {
-      "id": "865ae8547961",
-      "title": "We Asked 3 Dietitians to Pick the Healthiest Sandwich Bread—and They All Chose the Same One - Real Simple",
-      "published": "2026-04-12T11:30:00+00:00",
-      "summary": "We Asked 3 Dietitians to Pick the Healthiest Sandwich Bread—and They All Chose the Same One&nbsp;&nbsp;Real Simple",
-      "sources": [
-        {
-          "name": "Real Simple",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMGtaeFJ6WUVNX2NHM3c5VHZndXkyc3RkeGhtaDFLUlVEOTlCeExiUUVCZDdxZU5zblAxYm5MY1diV1BqZHFDV0VsOG1QbTNMM1R4a1Z6eGI1M0FzSFVqdFpoRGJmUHpCczAwZGpORkVidzJUZnVrcEFWY01ldEg4TWtLdlJ5M0RuaGpTVGJn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fbe77340edc2",
       "title": "A flu vaccine recommended for older adults could lower Alzheimer’s risk, research finds - San Francisco Chronicle",
       "published": "2026-04-12T11:02:06+00:00",
-      "summary": "A flu vaccine recommended for older adults could lower Alzheimer’s risk, research finds&nbsp;&nbsp;San Francisco ChronicleAlzheimer's Risk May Be Influenced by Flu Shots&nbsp;&nbsp;MedPage TodayRisk for Dementia Lower for Older Adults With High-Dose Inactivated Influenza Vaccine&nbsp;&nbsp;Vaccine AdvisorWorld Health Day, new heart guidelines, a flu shot's surprising brain benefit and how to tame stress&nbsp;&nbsp;WKYCInfluenza Vaccine Dose and Dementia Outcomes&nbsp;&nbsp;Conexiant",
+      "summary": "A flu vaccine recommended for older adults could lower Alzheimer’s risk, research finds&nbsp;&nbsp;San Francisco ChronicleFlu vaccine may slash Alzheimer's risk: Here's what dose to get&nbsp;&nbsp;Medical News TodayAlzheimer's Risk May Be Influenced by Flu Shots&nbsp;&nbsp;MedPage TodayRisk for Dementia Lower for Older Adults With High-Dose Inactivated Influenza Vaccine&nbsp;&nbsp;Vaccine AdvisorWorld Health Day, new heart guidelines, a flu shot's surprising brain benefit and how to tame stress&",
       "sources": [
         {
           "name": "San Francisco Chronicle",
@@ -750,26 +810,14 @@
       ]
     },
     {
-      "id": "6059e73f0c74",
-      "title": "​Type 2 diabetes doesn’t start with high sugar: Early metabolic shifts that begin years earlier and how lifestyle changes can help reverse them - The Times of India",
-      "published": "2026-04-12T06:30:00+00:00",
-      "summary": "​Type 2 diabetes doesn’t start with high sugar: Early metabolic shifts that begin years earlier and how lifestyle changes can help reverse them&nbsp;&nbsp;The Times of IndiaMinutes matter most when exercising to control blood sugar&nbsp;&nbsp;Medical XpressTiny tweaks that can lower blood sugar without much effort&nbsp;&nbsp;Tribune IndiaIs Cardio Exercise Better Than Resistance When You Have Diabetes? Here's What Dietitians Say&nbsp;&nbsp;AOL.comHeart of the Valley: How exercising can help comb",
+      "id": "865ae8547961",
+      "title": "We Asked 3 Dietitians to Pick the Healthiest Sandwich Bread—and They All Chose the Same One - Real Simple",
+      "published": "2026-04-12T07:00:00+00:00",
+      "summary": "We Asked 3 Dietitians to Pick the Healthiest Sandwich Bread—and They All Chose the Same One&nbsp;&nbsp;Real Simple",
       "sources": [
         {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNazkyV1c4Unk5TTRJLTY3bUgxVF91MkJ6bWo3U2dKVGZabUMxYlo3QThDSm8zeEdiMFB4X0EzNUdNUzlPSHM1WFV6MWtQbmUwSWtVT1V2aVIzWUVneFoxOXRibE1pYXNibGs3Qlk4MDdKbVJpOFpEMVRNN3lhSHQ4SUdtUHRidjJGN29JVnJoM0VQdUw3QlNlY2hpdzh6Zmdrc0x3dFlFbGNMOGp4YmpfMFVLaTNSaTNGeHFYUE9selphTmhYSUJKSjdJSnJhcHVLeEk3cmdRQWhUTU0wOE5LLVZjRlFrRkhQLUFMRDd3eEpHb1kxZVMyZVJQNnRkRDNZUmZUTlhkNjdJZWJZWVBFNVhtdTJiM3pQbmZlZFlFNUFjQTBFQ0tOeGtEYmZ5ODU1NnfSAboCQVVfeXFMT09od18tX0dwTG5xQVJkMnZWWU1oOHQzX3VHU0d1dU1yam02SjhwRjZubnJna0RxdmZMRlA5T1NIVWJEaGh2YTBRbHB6U2JnUlVJWkQ5cVFLMFhwV3Vla1prRmphMUFGUkhjUHQ5MktybkZCd0NjaFFDUlo2WERvWnUzMjc4eGtGQ2dxa3pvWFdaX0F0ampJbHVSbTNTeUh2VnpjbjdheUJnMVB6TW1PZldDdWEzX1BsNEZwSFdpWDljN2ZpQVlCOC1rMTlBcXU2SjN4TDRFYXVjcHJUVlQ0SkRuMjluVlg1cXFUdFRLbVJNSXZqRWtudlg1MzQ5SWVGcklORGVBNHV1UFh1cVNZemZJLWZieDlHdDBYYTdiczZWdmhkSGhGYk1FWFJ0Ynk0aGdST3pPQzF6WHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "549a74d90e9b",
-      "title": "Eat This Food Every Day to Slow How Fast You’re Aging - VICE",
-      "published": "2026-04-12T05:30:00+00:00",
-      "summary": "Eat This Food Every Day to Slow How Fast You’re Aging&nbsp;&nbsp;VICELongevity after 45: 5 diets that can add up to 3 years to your life&nbsp;&nbsp;Paris Select BookDiets for ageing and longevity&nbsp;&nbsp;Jamaica ObserverA scientist's list: 6 research-backed eating strategies to slow down aging&nbsp;&nbsp;FoodService Director‘I’m a Longevity Expert—Add These 3 (Delicious) Foods to Your Diet if You Want To Live Longer&nbsp;&nbsp;Parade",
-      "sources": [
-        {
-          "name": "VICE",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObjJUczRtWEhhVG5feXFKdXNxU21scWpMbzhzSElzYkJUTUQxQm9PUlB2TDhJS0hmTjdUeEtzRGVVY2pDb3BlTm9pVDhoRzEwTHB0NFdFRlhoQXZYdWN4bHAwTlMyZFBxU1hlQ2R1cGtLRDFJdjBBWlFIQ1lzdm9pSmVnNVRhSkg4b0JyMnhn?oc=5"
+          "name": "Real Simple",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMGtaeFJ6WUVNX2NHM3c5VHZndXkyc3RkeGhtaDFLUlVEOTlCeExiUUVCZDdxZU5zblAxYm5MY1diV1BqZHFDV0VsOG1QbTNMM1R4a1Z6eGI1M0FzSFVqdFpoRGJmUHpCczAwZGpORkVidzJUZnVrcEFWY01ldEg4TWtLdlJ5M0RuaGpTVGJn?oc=5"
         }
       ]
     }

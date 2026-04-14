@@ -1,10 +1,106 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-04-14T07:52:16.896085+00:00",
-  "total_fetched": 140,
-  "unique_count": 140,
-  "health_related_count": 68,
+  "fetched_at": "2026-04-14T13:51:23.793562+00:00",
+  "total_fetched": 137,
+  "unique_count": 137,
+  "health_related_count": 70,
   "news": [
+    {
+      "id": "9ee0531c0e03",
+      "title": "The surprising ways cannabis may affect the aging brain - The Washington Post",
+      "published": "2026-04-14T13:31:49+00:00",
+      "summary": "The surprising ways cannabis may affect the aging brain&nbsp;&nbsp;The Washington PostCannabis and Tobacco Associated with Reductions in Brain Volume&nbsp;&nbsp;European Medical JournalSmoking shrinks key brain regions while cannabis shows weaker effects&nbsp;&nbsp;News-MedicalMassive study finds cannabis and tobacco use linked to shrinking brain size&nbsp;&nbsp;Latest news from Azerbaijan",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43M0lwcGUwOVNHaDN6eGNYdGstVXFiY3NEd29fSXhLRjJrVk9kcy1iUVBnVVJLMGVTSWlQVHhGYjRIM2tXblRMQWpPeUFPR3U4UW5DV2kzTlZWQm1sbXo2UlZIemNNOEh6c2JRdGFIZ3dxYTFKcXdjMTFjWTlqQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "240db4ff03dc",
+      "title": "US states drop Medicaid coverage of GLP-1 weight-loss drugs as demand rises - The Guardian",
+      "published": "2026-04-14T11:46:00+00:00",
+      "summary": "US states drop Medicaid coverage of GLP-1 weight-loss drugs as demand rises&nbsp;&nbsp;The GuardianPatients worry about access and cost after state cuts Medi-Cal coverage for some obesity medications&nbsp;&nbsp;23ABC News BakersfieldPennsylvania Medicaid stopped covering GLP-1s for obesity this year, but it's not all savings&nbsp;&nbsp;Inquirer.comUS States Restrict Medicaid Coverage for Weight Loss Drugs&nbsp;&nbsp;AsatuNews.co.idObesity affects 1 in 4 Californians; advocates urge better access",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTGEtOUNKNGdNU1Z0MkltRzZ3VXdHQTVRNlBMMWJONm5JS1BVYmYzUHA2ZmhYNlM3VWJ4NmxpNW1xLVJERm81SVBvNkVNMVg5VjUtbHZXRnZpUUh4OEo0ckJaWkhxTzNINGE1S1gwVkVTNjJQZEhDR1JRa3BWUGpxZWdXYTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cf8499d506f4",
+      "title": "How Alabama is faring as outbreak of highly infectious disease sweeps the nation - AL.com",
+      "published": "2026-04-14T11:21:00+00:00",
+      "summary": "How Alabama is faring as outbreak of highly infectious disease sweeps the nation&nbsp;&nbsp;AL.com",
+      "sources": [
+        {
+          "name": "AL.com",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaVhhS0VwVm5aRjV6amVseUVCdlJpUC1MeUsxUERrbUFUWXN4aWNSWHhPMW5iNm9aazcwcWZuOEthZEpnTU1xc0FWZkFTMnRtNEZCT0Z0MHVFTVpreFZqb2V6Q0NVdEozNW1obi1iWFVPR3ZyRWJSc3ZuWnhNZ2VEaW04QXdFMUptMF9CQXJpRG9GV2Y4UGgza295RXVIYjZuT3NJZ3RGRTEwQll6MzAtR1ZyUUNYUU8z0gHMAUFVX3lxTE1DcEpScVlWLTU4YmRkRmpmMVJiczBSTTlxSmtwMW5rcmtGalM5WXJ1ZGkzN3pCdVNaUnFhSmVBMnZrb1dTY21xLWlocmpmMktGNEZtNzNFUVpVbWNOSmRiRTFQZUxMU2t6STNmeDI5eEt5Y29ac3FhNXJRWU1UZF9SQXJfMkJEZG5zVzF6MHhWMTNhX3B5SzBxc3RiOVVVdS1zbWdqX2hwNW5QNVhzN1FvY0U4RGVTU3VHeXBlS09TQ2RnbWM3TDVqMkJJUA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6a198c730120",
+      "title": "Study Links Eating More Meat to Lower Dementia Risk, But Only in One Group - ScienceAlert",
+      "published": "2026-04-14T11:01:19+00:00",
+      "summary": "Study Links Eating More Meat to Lower Dementia Risk, But Only in One Group&nbsp;&nbsp;ScienceAlertOpinion | Studies Suggest Red Meat May Help Prevent Alzheimer’s&nbsp;&nbsp;WSJHigher meat consumption may delay Alzheimer’s risk in some – Karolinska study&nbsp;&nbsp;Juta MedicalBriefResearch suggests eating meat might be linked to a lower risk of dementia – but there’s a catch&nbsp;&nbsp;Yahoo Life UKHigher Meat Intake Benefits cognitive health in Genetically Defined Subgroup: JAMA&nbsp;&nbsp;Medi",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNDM2eUpfVXNYVTFwRlhINkpOMUlJQlQ5WDR6VGNvNXU3RGFweFpqNmVITEVEbUdlNHpGYmZ3XzY2cVUxdE51RkFFVG5CY3ZNYzFvRE5LM0kwdWlxNUFual9fcndGS3E1OWpJSkpSSk54OFo3X185UnVlUGMyVWw4VzBmQklNWHpzVElqODhsSmpIaUZNUU1vNlIwcVhOMWZIVUpIVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8fc731b51cc6",
+      "title": "In the brain, objects seen and imagined follow the same neural path - NPR",
+      "published": "2026-04-14T10:00:00+00:00",
+      "summary": "In the brain, objects seen and imagined follow the same neural path&nbsp;&nbsp;NPRSeeing and imagining activate some of the same brain cells&nbsp;&nbsp;Science NewsThe Biological Basis of Imagination&nbsp;&nbsp;Nautilus | ScienceHow the Brain Replays Sight to Create Mental Images&nbsp;&nbsp;Neuroscience NewsImagine That: Brain Uses Neurons from Vision System When Forming Mental Imagery&nbsp;&nbsp;Caltech",
+      "sources": [
+        {
+          "name": "NPR",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdTN5LXRnT3M0QnB0cEFySk51TjdVaUd4ekdFclVWbHAyNmdqYmQtWEJuR0UtYThkNGZ3WWFjNVRaYXJtcTRZa3RZT3FiUkFXc2ZlT3BkZlhMaTRCUnJzdW1RNHlfSnBEU3Z0LVV0T3dlc1JoLXVJSldYbUlMZDJUR1VISXFrUlhFazJ1eA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "383aba90a443",
+      "title": "Global Wildlife Trade Fuels Spread of Disease From Animals to People - The New York Times",
+      "published": "2026-04-14T09:02:30+00:00",
+      "summary": "Global Wildlife Trade Fuels Spread of Disease From Animals to People&nbsp;&nbsp;The New York TimesThe longer a species stays in the wildlife trade, the more dangerous it becomes. A new study explains why&nbsp;&nbsp;Los Angeles TimesHow bad for humans is wildlife trade? A new study has answers&nbsp;&nbsp;NPRHere’s how the wildlife trade is fueling disease outbreaks across the globe&nbsp;&nbsp;The Washington PostWildlife trade increases pathogen transmission&nbsp;&nbsp;Vet Candy",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT1ZscExVQTRPSk9ldFFVUDRBYkJhRVdrbVdPamlnQXN2czBHQl9VSnBWU1BOZlkzVGJUenpzVE1Ed3R3NXB3ZFhIQmViYlJGNDRnYTk0ZVlTenBvYTZDNEdrVXJhSzdpcDduMDhLTnlsbENYU0NkdmtEQV9Ed2VuSGRpSEJQQmM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5a17f534db8a",
+      "title": "Wine vs. Beer vs. Spirits: A 340,000-Person Study Reveals Key Differences in Health Risk - Food & Wine",
+      "published": "2026-04-14T09:01:00+00:00",
+      "summary": "Wine vs. Beer vs. Spirits: A 340,000-Person Study Reveals Key Differences in Health Risk&nbsp;&nbsp;Food & WineWhat Happens When You Drink Wine Every Day? Health Experts Weigh In&nbsp;&nbsp;DelishDoes Your Drink Choice Matter? A New Study Finds Moderate Wine Drinkers Live Longer&nbsp;&nbsp;Wine SpectatorHow Alcohol Affects Your Heart: 6 Risks You Should Know&nbsp;&nbsp;Health News HubThe final word&nbsp;&nbsp;Sur in English",
+      "sources": [
+        {
+          "name": "Food & Wine",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOclFjODZhS3pEbkp3N1lCNXNTNGlXX3FvejJwR1VCSVJha3VRNVp2ajZJYWw1STJQRnBrTGN1a0Rqb3UzN3l2T092T3U1SlZreVRyQmNpekRGNW01R2FLZlJNcWI1TENnbHhybzI1S0x0U2l5bHctSEJHbUY1bnVzMlU0RUM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3c6088a59894",
+      "title": "Sibling Stem Cell Transplant Leads to Rare HIV Remission in 'Oslo Patient' - ScienceAlert",
+      "published": "2026-04-14T08:46:54+00:00",
+      "summary": "Sibling Stem Cell Transplant Leads to Rare HIV Remission in 'Oslo Patient'&nbsp;&nbsp;ScienceAlertLong-term HIV-1 remission achieved through allogeneic haematopoietic stem cell transplant from a CCR5Δ32/Δ32 sibling donor&nbsp;&nbsp;NatureMan ‘cured’ of HIV after brother found to carry rare genetic mutation: ‘Like winning lottery twice’&nbsp;&nbsp;The IndependentFrom the Oslo to the Berlin patient: Lessons learned from 10 people ‘cured’ of HIV&nbsp;&nbsp;EL PAÍS English'Oslo patient' likely cured",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWGRGS2s5Rm1ZM293bkFYUkNNMVpsbnc3LTJ1TkhPakxiRm1OM3FxX3pHenJIWnBoMlJqeFB2c19XVE9nRmhKNWJWSjdOWTVHa0d3dGFZMHo0MzhWUkQtMThXbjMyMkRhVDNkSHFsT3JrU3RVU05iZFZ3U1czUDV6bkpwelVPZlVBN1otcDRtbFZzWVpIdzY5dWRJZGJtenlEdUFV?oc=5"
+        }
+      ]
+    },
     {
       "id": "a6f008268892",
       "title": "Clinical trials offer hope for multiple sclerosis treatment breakthrough - TribLIVE.com",
@@ -14,6 +110,18 @@
         {
           "name": "TribLIVE.com",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSnl4b3drTnZ6Um9HYnl2NGFKd2VQTGxZWU1VcmY4MGVwcXV3d3BFRTdzdHEweDhYaVlfTmo3ejhPd3RwMy1OWkJnYkxZYWprQXZBSW5LSHlOX2pUUTJ2bkJVcGt6U3lRWlBNQ2hwNUVTNjc5WWMwOEdiSnBLUWNlLTFDU3Z2VUlncjJvRTkzdm9YYWlsdG02blplWno2RURRZ2JuTEtyRmhzcGtBaTZ2VU9hbDZsbmxIZV90ZlN3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7eda30a4620f",
+      "title": "Physicists discover how to reverse 'quantum scrambling' - Phys.org",
+      "published": "2026-04-13T21:50:01+00:00",
+      "summary": "Physicists discover how to reverse 'quantum scrambling'&nbsp;&nbsp;Phys.orgA 100x Faster Breakthrough Could Fix Quantum Computers’ Biggest Problem&nbsp;&nbsp;SciTechDailyScientists find method to track Quantum computers data 100x faster | Quantum computers transmit info using qubits | Inshorts&nbsp;&nbsp;InshortsNorwegian researchers cut quantum computer error detection to 10 milliseconds&nbsp;&nbsp;NewsBytesQuantum computers keep losing data. This breakthrough finally tracks it&nbsp;&nbsp;Scien",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05bGVVaHBkNFFydVpkZVl2UlF4Y1N0WWpnU0pXOGxEb3UydDQ5aEUwbkZhaGFzTFJ2QkNtMmVETHVxWlNxTWhpNld5cFcyc2dvOVVrOHpldXlBeEFabWcxTzdLWUd3UTg1SHhyS0ZrV2RPeDd6QUM3TkJCaVU?oc=5"
         }
       ]
     },
@@ -42,18 +150,6 @@
       ]
     },
     {
-      "id": "22e886f9dcb3",
-      "title": "'Oslo patient' likely cured of HIV after getting stem cell transplant from his brother, who is genetically resistant to the virus - Live Science",
-      "published": "2026-04-13T21:08:33+00:00",
-      "summary": "'Oslo patient' likely cured of HIV after getting stem cell transplant from his brother, who is genetically resistant to the virus&nbsp;&nbsp;Live ScienceSibling Stem Cell Transplant Leads to Rare HIV Remission in 'Oslo Patient'&nbsp;&nbsp;ScienceAlertMan ‘cured’ of HIV after brother found to carry rare genetic mutation: ‘Like winning lottery twice’&nbsp;&nbsp;The IndependentPerson functionally cured of HIV after bone marrow transplant from sibling&nbsp;&nbsp;Scientific AmericanFrom the Oslo to t",
-      "sources": [
-        {
-          "name": "Live Science",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNYWNDNXR2NDUzeUNRbktuY1RlSGVnWE9RQnlzYi01MjZJS1FlbVlCcEdhRHNVWXdUaUxFaERkMjRyUWhZd0FEYUExc3ZqWC1BZDFCVm1pRFEtZXo4SW1YUlJ2TDZvRnhLR3dHTVNSemVmRnhzd3JRN2JycE1ndUgwVTBpRGdQZldfc2s3Mnl3STYyTUtsN25BN0JnT0ZqRXFwWDBSd29yc2NfNUJZQXhwY3F1QWVSV1JqeHBNd3JXaFF1THJSRnoxdzhNaXVoQUhNdlowQ2x2NlJxZ0o0ZmI3cVE1VXhWN1lXSkRYRXNhT3lzQ3BtNHlyZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d4ed307a78a2",
       "title": "Heartwarming video shows Artemis II astronaut Christina Koch reuniting with her dog - NBC News",
       "published": "2026-04-13T21:05:40+00:00",
@@ -69,11 +165,23 @@
       "id": "0685ff9d760a",
       "title": "Juab School District reports confirmed measles case as statewide outbreak grows - KSL.com",
       "published": "2026-04-13T21:00:35+00:00",
-      "summary": "Juab School District reports confirmed measles case as statewide outbreak grows&nbsp;&nbsp;KSL.comMeasles outbreak spreads in Utah, hitting people without the vaccine&nbsp;&nbsp;KUERUniversity of Utah measles exposure is another warning signal to check immunizations&nbsp;&nbsp;FOX 13 News UtahSouth Carolina sees no new measles activity as Utah becomes epicenter of US outbreaks&nbsp;&nbsp;CIDRAPNo new measles cases in South Carolina for a week, but CDC outbreak models warn about underreporting&nb",
+      "summary": "Juab School District reports confirmed measles case as statewide outbreak grows&nbsp;&nbsp;KSL.comJuab School District confirms measles case amid Utah's growing outbreak&nbsp;&nbsp;KUTVMeasles outbreak spreads in Utah, hitting people without the vaccine&nbsp;&nbsp;KUERSouth Carolina sees no new measles activity as Utah becomes epicenter of US outbreaks&nbsp;&nbsp;CIDRAPDaily news: Utah is now the epicenter of U.S. measles outbreaks&nbsp;&nbsp;Utah Public Radio",
       "sources": [
         {
           "name": "KSL.com",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaXZVYWg3MXBpWDJxa3FJZXZhRzQ4SVh0YW1hai1XY2hxVG5ZR0VKUlBNYWdqSGpROWxKYzlOUFlVSmVRei1kUnU4c0VOMDh6MWlMeWQ5RmtwSzRHUnpKNXlCWUR5NFg5R2hlUlZhVUVud3VBUWYxdGZ1RG9PdWNfLXp1UExqX2ZraHFRbGxBZXd2c3dRbmdGLWV2ZWpLSWp5MGM2VHZxekkyZ2lJRFdiWmZPNVZuNG8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ebec88a8d3d9",
+      "title": "Beneath this cemetery, 5.5 million wild bees form a giant underground city vital to spring pollination - Phys.org",
+      "published": "2026-04-13T20:20:03+00:00",
+      "summary": "Beneath this cemetery, 5.5 million wild bees form a giant underground city vital to spring pollination&nbsp;&nbsp;Phys.orgCornell Researchers Record One of the Largest Ground-Nesting Bee Populations Ever Documented&nbsp;&nbsp;Bioengineer.orgGround-Nesting Bee Populations Don't Get Publicity But They're Everywhere&nbsp;&nbsp;Science 2.0Massive Ground-Nesting Bee Colony Discovered in Ithaca Cemetery&nbsp;&nbsp;National Today",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNSGV1Y1I4Ry1aOEtJeU9Ea29hQ1JxV3dqbEZpUmFYUTg4Y0ppWGVqZTRJNWdwWWxyRFpqVjgwVG9ET0ZWWVhOVDczU1BBaVlGOUIxZ3BDbTNZVDI5MWhOQ1E0MkJKZnRPaFpyZ2ZleUdfeTRSU2tVRg?oc=5"
         }
       ]
     },
@@ -90,26 +198,26 @@
       ]
     },
     {
-      "id": "15d0e4265da8",
+      "id": "02cc3e9d6998",
       "title": "Toxic airborne chemical detected in US for first time sparking health concerns - The Mirror US",
       "published": "2026-04-13T19:31:00+00:00",
       "summary": "Toxic airborne chemical detected in US for first time sparking health concerns&nbsp;&nbsp;The Mirror US",
       "sources": [
         {
           "name": "The Mirror US",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeGdqODdHd1hEeFctWDBzSlBmUjNmSk1Kd1hCR3pKLTllaTk0VDVfeUhNY1N1akpiMi0wNFpwSGF1enpfQTRVTW01N0ljQkNvYlNtVEV1Y2ZZbGtaN3YtbUw1MmZ6ZnplTWdiMERsV1lFc19mM2NDTEIyLWtaXzlWUlRBal9vaGV0QmswVG930gGTAUFVX3lxTE5OSjlFdnlGREUtZkdvbkZVTGQ3ekY2bHNSYi1EdTN4VXYzb1FNQURHb0p3am1pZFR3Y3JLRkhoSDFFSEo0dFhwMHQyYkV5cWZ3Sm9rREZyY3dMdkQwdFM5Nk1rOWZ0OUJmSkhtUmlQSldDLVY2bDVyamVIQ1FOUWlQc2RuRFFGcm9SYkFYQzFCd1FxVQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeGdqODdHd1hEeFctWDBzSlBmUjNmSk1Kd1hCR3pKLTllaTk0VDVfeUhNY1N1akpiMi0wNFpwSGF1enpfQTRVTW01N0ljQkNvYlNtVEV1Y2ZZbGtaN3YtbUw1MmZ6ZnplTWdiMERsV1lFc19mM2NDTEIyLWtaXzlWUlRBal9vaGV0QmswVG93?oc=5"
         }
       ]
     },
     {
-      "id": "073ca63f0a25",
-      "title": "Viruses allegedly stolen from high-security lab cause stir in Brazil - Nature",
-      "published": "2026-04-13T19:28:57+00:00",
-      "summary": "Viruses allegedly stolen from high-security lab cause stir in Brazil&nbsp;&nbsp;Nature",
+      "id": "9a3f6e91ef30",
+      "title": "Treating Hearing Loss Could Halt Dementia - Neuroscience News",
+      "published": "2026-04-13T19:30:15+00:00",
+      "summary": "Treating Hearing Loss Could Halt Dementia&nbsp;&nbsp;Neuroscience NewsCommon, treatable ear conditions are linked to higher odds of dementia; treatment may help&nbsp;&nbsp;Medical XpressListen Up: Hearing is more than listening&nbsp;&nbsp;The Observer NewsStudy Links Common, Treatable Ear Conditions to Higher Odds of Dementia and Finds Treatment May Help | Newswise&nbsp;&nbsp;Newswise",
       "sources": [
         {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUX2dIeGlyWkpLYWVEM2JSYWJKZmlmX1R1WEFwLUxNcE5ucnN3aGU5amZvRVRhdnIxTzJEaDN4Rjd0WUtvVTZnWkptdDQ4Q0VGMksydXRvVENhTzBUWGRz?oc=5"
+          "name": "Neuroscience News",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpdkI4RG1OWlM2ZDVhNnUzajlITGdscjluQmhvYVZsVC04eHV3ZTN6TVlQVk45MnkxX3BRR1pqNXgySW04eGpydER1WGxOaUhkNFhFemFVbnNDR3dmcjhVb3R6S1RrWHB0eWQxYWNOd3NXQjA?oc=5"
         }
       ]
     },
@@ -129,7 +237,7 @@
       "id": "03c7c2508bac",
       "title": "‘Thrilling’ embryo fossil discovery upends everything we knew about how early mammals gave birth: ‘Breaks entirely new ground’ - New York Post",
       "published": "2026-04-13T18:18:00+00:00",
-      "summary": "‘Thrilling’ embryo fossil discovery upends everything we knew about how early mammals gave birth: ‘Breaks entirely new ground’&nbsp;&nbsp;New York PostEmbryo fossil found in South Africa is world’s oldest proof that mammal ancestors laid eggs&nbsp;&nbsp;The Conversation250-Million-Year-Old Embryonated Dicynodont Egg Found in South Africa&nbsp;&nbsp;Sci.NewsAncient survivor reveals its secret: First-ever egg of a mammal ancestor discovered&nbsp;&nbsp;EurekAlert!Solid Proof That Our Mammal Ancesto",
+      "summary": "‘Thrilling’ embryo fossil discovery upends everything we knew about how early mammals gave birth: ‘Breaks entirely new ground’&nbsp;&nbsp;New York PostEmbryo fossil found in South Africa is world’s oldest proof that mammal ancestors laid eggs&nbsp;&nbsp;The Conversation250-Million-Year-Old Embryonated Dicynodont Egg Found in South Africa&nbsp;&nbsp;Sci.NewsAncient survivor reveals its secret: First-ever egg of a mammal ancestor discovered&nbsp;&nbsp;EurekAlert!Ancestors of mammals laid eggs, say",
       "sources": [
         {
           "name": "New York Post",
@@ -141,7 +249,7 @@
       "id": "e18575e2253f",
       "title": "Top GOP lawmaker pushes back on NASA’s budget cuts - Politico",
       "published": "2026-04-13T18:09:48+00:00",
-      "summary": "Top GOP lawmaker pushes back on NASA’s budget cuts&nbsp;&nbsp;PoliticoKey Senate appropriator rejects proposed NASA budget cuts&nbsp;&nbsp;SpaceNewsOpinion | NASA Flew by the Moon, but Behind the Scenes, Its Science Is a Chaotic Mess&nbsp;&nbsp;The New York Times82 NASA missions at risk under new proposal&nbsp;&nbsp;The Planetary SocietyNASA science faces 'very serious threat' from new White House budget, experts say&nbsp;&nbsp;Space",
+      "summary": "Top GOP lawmaker pushes back on NASA’s budget cuts&nbsp;&nbsp;PoliticoOpinion | NASA Flew by the Moon, but Behind the Scenes, Its Science Is a Chaotic Mess&nbsp;&nbsp;The New York TimesOpinion | As Artemis II splashes down, the Trump admin is trying to slash NASA’s budget&nbsp;&nbsp;MS NOW82 NASA missions at risk under new proposal&nbsp;&nbsp;The Planetary SocietyJubilant return of Artemis II shadowed by ‘extinction-level’ cuts to Nasa: ‘It’s discordant’&nbsp;&nbsp;The Guardian",
       "sources": [
         {
           "name": "Politico",
@@ -153,7 +261,7 @@
       "id": "0d5434e06ff6",
       "title": "Ultrasound creates light inside the body, opening a new path to targeted treatments - Phys.org",
       "published": "2026-04-13T17:00:01+00:00",
-      "summary": "Ultrasound creates light inside the body, opening a new path to targeted treatments&nbsp;&nbsp;Phys.orgAn ultrasound-scanning in vivo light source&nbsp;&nbsp;NatureUltrasound-Generated Light Enables Noninvasive Targeted Treatments&nbsp;&nbsp;National TodayResearchers use ultrasound to create light inside the body&nbsp;&nbsp;Stanford ReportStanford researchers create light inside the body using ultrasound&nbsp;&nbsp;Interesting Engineering",
+      "summary": "Ultrasound creates light inside the body, opening a new path to targeted treatments&nbsp;&nbsp;Phys.orgAn ultrasound-scanning in vivo light source&nbsp;&nbsp;NatureUltrasound-Generated Light Enables Noninvasive Targeted Treatments&nbsp;&nbsp;National TodayResearchers use ultrasound to create light inside the body&nbsp;&nbsp;Stanford ReportUltrasound turns nanoparticles into light inside body&nbsp;&nbsp;The Engineer",
       "sources": [
         {
           "name": "Phys.org",
@@ -182,6 +290,30 @@
         {
           "name": "AOL.com",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVk1UUzhwZHQzazNkeWZFZU9XZXhvOTYyRGlvOUw0R3FHdmJkWldqWjA5YUhDRTY2MEk3bC0wTnlzMHgxTWxUZHpSdUZWWk1aM2J1akw0aU9vRGRvTFRhWjhFTkdzb3M0TnRia1VDUG5FUHdIWjNpdFE4TTNUdzJ6a05oZ2s?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c1acf2a7967a",
+      "title": "In Arizona's desert, tiny ants turn into living hygienists, climbing inside bigger ants' mandibles and cleaning them - Phys.org",
+      "published": "2026-04-13T16:20:04+00:00",
+      "summary": "In Arizona's desert, tiny ants turn into living hygienists, climbing inside bigger ants' mandibles and cleaning them&nbsp;&nbsp;Phys.orgFor Ants, a ‘Cleaning Station’ in the Desert&nbsp;&nbsp;The New York TimesCleaner ants tending to harvester ant (IMAGE)&nbsp;&nbsp;EurekAlert!Smithsonian Research Associate Discovers Ants Assemble To Be Picked Clean by ‘Cleaner’ Ants, a Novel Insect Behavior&nbsp;&nbsp;Smithsonian Institution",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyWkZkeUVRdkwxTWJ4Z2dXZkZOQTJGT3ZELWhtVWtabDB2My0yNVdJRVRpQzhEaEFmd3RCTm5MUk15WWwwVXJRSFdTSWUzU3Q4a3Y5Qzd4dHByaWtRNy1nWEpTNy1CbllUTHI5UGxISVdScm55bmRFdUI2YXA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1893321a5217",
+      "title": "Californian Hybrid Honeybee Population Has Evolved Natural Defense against Varroa Mites: Study - Sci.News",
+      "published": "2026-04-13T16:14:58+00:00",
+      "summary": "Californian Hybrid Honeybee Population Has Evolved Natural Defense against Varroa Mites: Study&nbsp;&nbsp;Sci.NewsSoCal's hybrid bees outsmart Varroa mites before they even hatch&nbsp;&nbsp;Phys.orgUnique Honeybees Found Only in Southern California Can Fend Off Deadly Varroa Mites&nbsp;&nbsp;Good News NetworkResearchers in beekeeping suits (IMAGE)&nbsp;&nbsp;EurekAlert!Southern California bees are keeping deadly mites in check&nbsp;&nbsp;The Brighter Side of News",
+      "sources": [
+        {
+          "name": "Sci.News",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYjlsV2ZUd3JWZjBTYWhuN2RVZC10UDRUVGhTOU5zS1dwWlRmQU1QVGcxa21VTWJhb19PV3piY1RPdmRuYTFnbHF1SUdfeVE2T3ZhN3BVcHpJWldybmFMdGdMemFLMGxqOW84UFBVUjNSNmZJWUlZb3FLaG5vdy10Y2tKNkpQajNBTVJBSGs4dUhIZ1U1Q0E?oc=5"
         }
       ]
     },
@@ -258,14 +390,26 @@
       ]
     },
     {
-      "id": "f5b3d4d08853",
-      "title": "For Ants, a ‘Cleaning Station’ in the Desert - The New York Times",
-      "published": "2026-04-13T13:06:29+00:00",
-      "summary": "For Ants, a ‘Cleaning Station’ in the Desert&nbsp;&nbsp;The New York TimesIn Arizona's desert, tiny ants turn into living hygienists, climbing inside bigger ants' mandibles and cleaning them&nbsp;&nbsp;Phys.orgCleaner ants tending to harvester ant (IMAGE)&nbsp;&nbsp;EurekAlert!Smithsonian Research Associate Discovers Ants Assemble To Be Picked Clean by ‘Cleaner’ Ants, a Novel Insect Behavior&nbsp;&nbsp;Smithsonian Institution",
+      "id": "79d480eef46e",
+      "title": "Huge analysis of 320,000 careers suggests that productive researchers stay that way - Nature",
+      "published": "2026-04-13T13:53:08+00:00",
+      "summary": "Huge analysis of 320,000 careers suggests that productive researchers stay that way&nbsp;&nbsp;Nature",
       "sources": [
         {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQclhJTV9VNnA4SThtblpSaVowd0lRWm56bVN2RDRFczQyc3FiTW1kWG0tZTB1SVI0Y29iZFA2c0xNdXRuOUxTQnA3OTBPSmFXaklrZmEtRmc2dWdqcGZzUy1LV2ZBU1lIV3dja3I1TTlXWElpNi1IekZJYS1IdUkzQnRR?oc=5"
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5ZjQ1OGRUZVR3aHRYUzhFSm5Hck91eFBNQ2pkdWdITl9DSkRudTR3Uk5qVWpZYXA5MFdMSDV2ZFFvTzdKdkt4dXBhcl9ycEs3WWN6UVBEdmRXaDZYUnlZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "22fd88fce13d",
+      "title": "Epigenetic and Microbiome Changes Linked to Autism and ADHD - Technology Networks",
+      "published": "2026-04-13T12:40:55+00:00",
+      "summary": "Epigenetic and Microbiome Changes Linked to Autism and ADHD&nbsp;&nbsp;Technology NetworksEpigenetic changes at birth are associated with an infant's microbiome and neurodevelopment&nbsp;&nbsp;Medical XpressEarly Microbes Can Rewrite Neurodevelopmental Risk&nbsp;&nbsp;Neuroscience NewsYour Baby’s Gut Bacteria Could Counteract Genetic Risk Factors for Autism and ADHD&nbsp;&nbsp;ScienceBlog.comEpigenetics at Birth Links Microbiome to Neurodevelopment, Potentially ASD and ADHD&nbsp;&nbsp;Genetic En",
+      "sources": [
+        {
+          "name": "Technology Networks",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZW1WYXZ1SVg0LUNxZDV4WDE4NzI2OC1tOHEycFJvZXBCdkw2VDl5b0ltYVJKV0xBZDZOY0Q2OVVZdF9GMXZYRzJwWkg2QTk1ekt2OWZ3V21WOXEwbkl1Rl90UmpsemVoTGhvcnFhY05tVXBWWmdadFJtRU5NaDB0Y1p0Q1UxM2hkbjhHMHluV3hRWE5lRHN4ZGlwZDItd2NHVF85Q2VGQ2JlaFB4RFNQYVNBaFBLdw?oc=5"
         }
       ]
     },
@@ -297,7 +441,7 @@
       "id": "e68505a58ea1",
       "title": "These New Molecules Could Change How We Treat Lupus and Arthritis - SciTechDaily",
       "published": "2026-04-13T11:33:44+00:00",
-      "summary": "These New Molecules Could Change How We Treat Lupus and Arthritis&nbsp;&nbsp;SciTechDailyStudy shows new drug compounds dial down inflammation without compromising immunity&nbsp;&nbsp;Scripps ResearchTargeted Inflammation Without Immunosuppression? “ENDOtollins” Show Early Promise&nbsp;&nbsp;trialsitenews.comNew Drug Compounds Reduce Inflammation, Immunity Safe&nbsp;&nbsp;National Today",
+      "summary": "These New Molecules Could Change How We Treat Lupus and Arthritis&nbsp;&nbsp;SciTechDailyStudy shows new drug compounds dial down inflammation without compromising immunity&nbsp;&nbsp;Scripps ResearchNew Drug Compounds Reduce Inflammation, Immunity Safe&nbsp;&nbsp;National Today",
       "sources": [
         {
           "name": "SciTechDaily",
@@ -330,14 +474,26 @@
       ]
     },
     {
-      "id": "d1762c9212fd",
-      "title": "Eye Doctors Share 6 Health Concerns They Can Spot In Your Eye Before You Realize Anything Is Wrong - HuffPost",
+      "id": "62f58b6dded2",
+      "title": "What People With Small Penises Bring Up Most In Therapy - HuffPost",
       "published": "2026-04-13T11:00:18+00:00",
-      "summary": "Eye Doctors Share 6 Health Concerns They Can Spot In Your Eye Before You Realize Anything Is Wrong&nbsp;&nbsp;HuffPostView Full Coverage on Google News",
+      "summary": "What People With Small Penises Bring Up Most In Therapy&nbsp;&nbsp;HuffPostWhen your penis is bigger than my arm: what’s really going on and what you can actually do about it&nbsp;&nbsp;NTNUDoes Penis and Testicles Size Increase with Age Over 40? What the Evidence Really Shows&nbsp;&nbsp;NTNUMy Friend Has a Way Bigger Penis Than I Do: Addressing the Comparison and Realistic Options&nbsp;&nbsp;NTNUWho Has a Bigger Penis? Examining Global Averages, Myths, and What the Data Actually Shows&nbsp;&nbs",
       "sources": [
         {
           "name": "HuffPost",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOXRobkJBWXBlQUI1VlA1VUxaZ0xWWWltY0VDcV9UM1VEOXBBa0ZtamhvekhMS0hCSVczU2lLUU1IWmRzbTg0aS0zd25GTS1zMUtEUVR0Q1FfcUxhN1RIdDVBbzdCTk82cEpXcm1mMDZSZmFrT1pST0xvemdaQ1hRVHdxdGp3QzVYMHfSAY8BQVVfeXFMTk9nUWlXNy1sb1dOZmRObml3RGplN1c3cWJWZVNBb3FFWWpfZjNMc1NRYWVnajlOeVdvSmZ0RVd0dEJoTXlMLWdDdExFTjBZSDZxeWVDTFBhdlFRekdrbk1OaXBPRU9EV2ZWVGVneDVaNThQZV93Y1p6dnB1RWtCdXZYRy1ueTJUSlgweUpUWGs?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX0NpUFd4VFBLdzdqVmJ4M3o0Ykttcnl0WlMzcHVPVnc5eW4wMHdYZHBHX2JPSUVXdFNyVk42QVBtR3FTMkVSSWpScFZJS3ptQmY3SWZrMVB2Y2lOTE5TRU54V2JHZnZ0T1hyVEdvU1RoZzZrc00zNmt4eUM0QU9sb3hjUdIBiAFBVV95cUxOQllnYm5MUnRJRHJaNDJYY1hNd3JNOE5sQUZuMk5tU2FPRHZSYkwxVUxnVUYzN0hMX3hXaGhncTlxb3ZxaFFyNGxtU2RVNGxZVU5YbmlmT19salpITllRR1JJOWdFbGtnb3Q5MjhpZHlRb2NreEpIOU9JY1BhcktDV0VzUVJpdWFh?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a95f6362e072",
+      "title": "Scientists are trying to build a vaccine that works against almost any respiratory pathogen — here's how close they are. - Live Science",
+      "published": "2026-04-13T11:00:00+00:00",
+      "summary": "Scientists are trying to build a vaccine that works against almost any respiratory pathogen — here's how close they are.&nbsp;&nbsp;Live ScienceA group 1 hemagglutinin stem vaccine elicits broad humoral responses against influenza in phase 1/2a study&nbsp;&nbsp;Nature🦠 A single nasal vaccine effective against: COVID-19, flu, pneumonia, allergies, etc.&nbsp;&nbsp;Techno-Science.netMosaic HA Vaccine Confers Cross-Strain Immunity in Influenza&nbsp;&nbsp;Inside Precision MedicineNew nasal flu vaccin",
+      "sources": [
+        {
+          "name": "Live Science",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUjc3VUR1N3JoWTQ3ZHNKUDFIWEZMa0x4ZDRCM3ZJQ04weGVnMElsc3l3TGRFVWZscWtidC1lT21kTWhnMGlSVlk1Sk5CWHZTNEtPM0E4cklpMGVOcjRsWjBLeWRrWW9xMGtFSmZZTEswTTBMRHRlUlc1SnlIR3lVcXl0SUxFbm5mQ2NKN0hHTG5RWTZTelpMa2c1Y08td2dFY2d3WXJVSUlyM2N1dFhZMnhuUWJ0WGxoMm14STlzM2JpbEFsY3I3bUY2N3gzSTBNLWRrTUlyTjRsY2puSnAxdFVWa2hGSC1qQS05bXRvTWlHbk5haE1sZWln?oc=5"
         }
       ]
     },
@@ -357,7 +513,7 @@
       "id": "e889f54cfab7",
       "title": "Scientists Thought This Was the Oldest Octopus Until They Found Something Hidden Inside - A-Z Animals",
       "published": "2026-04-13T10:32:00+00:00",
-      "summary": "Scientists Thought This Was the Oldest Octopus Until They Found Something Hidden Inside&nbsp;&nbsp;A-Z AnimalsAncient ocean mystery deepens as long-misidentified fossil is finally revealed by researchers&nbsp;&nbsp;Fox NewsThe ‘oldest octopus’ in the world isn’t an octopus after all, scientists find&nbsp;&nbsp;CNN\"Weird blob\" creature thought to be the world's oldest octopus isn't an octopus after all. Here's what scientists found.&nbsp;&nbsp;CBS NewsOldest octopus fossil found to not be an octo",
+      "summary": "Scientists Thought This Was the Oldest Octopus Until They Found Something Hidden Inside&nbsp;&nbsp;A-Z AnimalsAncient ocean mystery deepens as long-misidentified fossil is finally revealed by researchers&nbsp;&nbsp;Fox News\"Weird blob\" creature thought to be the world's oldest octopus isn't an octopus after all. Here's what scientists found.&nbsp;&nbsp;CBS News🧊 A really cool business idea&nbsp;&nbsp;thehustle.coOldest octopus fossil found to not be an octopus&nbsp;&nbsp;Ars Technica",
       "sources": [
         {
           "name": "A-Z Animals",
@@ -369,7 +525,7 @@
       "id": "6522b6050dc0",
       "title": "Exercise in a Pill? Metformin Shows Surprising Effects in Cancer Patients - SciTechDaily",
       "published": "2026-04-13T10:23:57+00:00",
-      "summary": "Exercise in a Pill? Metformin Shows Surprising Effects in Cancer Patients&nbsp;&nbsp;SciTechDailyMetformin mimics exercise-related metabolic effects in prostate cancer patients&nbsp;&nbsp;News-MedicalMetformin may offer exercise-like benefits in prostate cancer: New study&nbsp;&nbsp;Business StandardMetformin: Unlocking Exercise Benefits Without the Workout&nbsp;&nbsp;National TodayMetformin does more than control blood sugar: New research reveals the diabetes drug's negative brain impacts&nbsp;",
+      "summary": "Exercise in a Pill? Metformin Shows Surprising Effects in Cancer Patients&nbsp;&nbsp;SciTechDailyMetformin mimics exercise-related metabolic effects in prostate cancer patients&nbsp;&nbsp;News-MedicalCommon medicine taken by millions of Brits 'mirrors benefits of intense exercise' without doing it in 'striking' study&nbsp;&nbsp;The SunDiabetes Drug Mimics Benefits of Exercise in Prostate Cancer Patients&nbsp;&nbsp;Inside Precision MedicineMetformin May Unlock Exercise Benefits Without Workout&nb",
       "sources": [
         {
           "name": "SciTechDaily",
@@ -405,7 +561,7 @@
       "id": "f43f29473fc7",
       "title": "Adolescent and young adult cancers increase risk of developing future cancers - abcnews.com",
       "published": "2026-04-13T09:12:10+00:00",
-      "summary": "Adolescent and young adult cancers increase risk of developing future cancers&nbsp;&nbsp;abcnews.comPeople treated for cancer as youths twice as likely to develop new tumours years later, study finds&nbsp;&nbsp;The Globe and MailYoung people who survive cancer have increased risk of developing another type of cancer&nbsp;&nbsp;AOL.comYoung cancer survivors face double the risk of later cancers&nbsp;&nbsp;News-MedicalYoung adult cancer survivors at double the risk of getting another cancer later,",
+      "summary": "Adolescent and young adult cancers increase risk of developing future cancers&nbsp;&nbsp;abcnews.comPeople treated for cancer as youths twice as likely to develop new tumours years later, study finds&nbsp;&nbsp;The Globe and MailYoung Cancer Survivors Face Doubled Risk Of Subsequent New Cancer&nbsp;&nbsp;U.S. News & World ReportYoung cancer survivors face double the risk of later cancers&nbsp;&nbsp;News-MedicalYoung adult cancer survivors at double the risk of getting another cancer later, study",
       "sources": [
         {
           "name": "abcnews.com",
@@ -422,6 +578,18 @@
         {
           "name": "Yahoo Life UK",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVGNSUGRmTnMyMGEyOGVCRFgyQ0lFR0g5ejljLWYtQ3hZZzlOOHp4VG1QdG5ZX0d2a3laVkhaUm9RS2NJblgzcWVJMG9SVDVWNWgyTnNGZDJianE3Mkt6aTVwVzZodXZvSE9uU2pXc2RZSTV5ZnVZQzB2Qjd1SWhwVFkyUHA3ZF81ZmVN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c59e21bef00e",
+      "title": "Is it true that … having a diverse microbiome stops you from getting sick? - The Guardian",
+      "published": "2026-04-13T07:00:00+00:00",
+      "summary": "Is it true that … having a diverse microbiome stops you from getting sick?&nbsp;&nbsp;The GuardianScientists discover hidden gut trigger behind ALS and dementia&nbsp;&nbsp;ScienceDailyYour Gut Is a Brain&nbsp;&nbsp;Harvard Medicine MagazineAutoimmune diseases may start in the gut: Early signs your immune system is turning against you and what you can do to restore balance&nbsp;&nbsp;The Times of IndiaEarly Laboratory-Based Study Explores the Biological Link Between Inflammatory Gut Bacteria and ",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRkVLRVMtN3RSUnpWeGREc0o1TXVtMHNoYVpGUTI5QnYyak9pcGFXdGtkTjhIWTVGNUVqN1hIZlZIbnhJazRBRXk1Zl9POXJpdm12c01HZEpWS0EtaVFyTll6Y2RZeVdkV3JiQVQ3QjMtMGx3cVIwYWhfYzRUNzhuVHNfY2dJUWxpYVlmUDFjMGVHLURiWHZ5eXNMUGdxVzUtLW16ZmpLVjllclNsYnp5OXFwTnRxbkJtS2ZoNHRjZkI0UQ?oc=5"
         }
       ]
     },
@@ -465,7 +633,7 @@
       "id": "36af3d93b6ed",
       "title": "Taking Too Much Vitamin D Can Backfire, Scientists Warn - ScienceAlert",
       "published": "2026-04-13T02:31:16+00:00",
-      "summary": "Taking Too Much Vitamin D Can Backfire, Scientists Warn&nbsp;&nbsp;ScienceAlertWhat Happens to Your Body When You Take Vitamin D Supplements Every Day Long Term&nbsp;&nbsp;Verywell HealthMillions of Americans Are Vitamin D Deficient. These Brands Think Skincare Products Are The Answer.&nbsp;&nbsp;AOL.comWarning to some vitamin D users as NHS doctor says 'this is bad'&nbsp;&nbsp;The MirrorAre you taking too much vitamin D? Warning signs to watch for&nbsp;&nbsp;MSN",
+      "summary": "Taking Too Much Vitamin D Can Backfire, Scientists Warn&nbsp;&nbsp;ScienceAlertWhat Happens to Your Body When You Take Vitamin D Supplements Every Day Long Term&nbsp;&nbsp;Verywell HealthAre you making these mistakes with your vitamin D supplements? Nutritionist suggests tips to improve absorption&nbsp;&nbsp;Hindustan TimesAre you taking too much vitamin D? Warning signs to watch for&nbsp;&nbsp;MSNExperts share 3 rules you should follow when taking Vitamin D supplements&nbsp;&nbsp;FOODbible",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -474,34 +642,10 @@
       ]
     },
     {
-      "id": "323f4936688e",
-      "title": "Your brain uses the same cells to see and imagine - Earth.com",
-      "published": "2026-04-12T23:30:19+00:00",
-      "summary": "Your brain uses the same cells to see and imagine&nbsp;&nbsp;Earth.comSeeing and imagining activate some of the same brain cells&nbsp;&nbsp;Science NewsPeople use the same neurons to see and imagine objects, study shows&nbsp;&nbsp;Medical XpressThe Biological Basis of Imagination&nbsp;&nbsp;Nautilus | ScienceImagine That: Brain Uses Neurons from Vision System When Forming Mental Imagery&nbsp;&nbsp;Caltech",
-      "sources": [
-        {
-          "name": "Earth.com",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdDRJSGttWjZVV2Y3SW52ajZUMGxZWnhmbWtJdWhLVkRGblZFc3hBQkxkdnpSRWNXZGtKdzFHdXhOUWFXeDlhbDRybnVPUzlnOW1PTWtPdU14TjJOQVJLZEtRU051WVI3WTVxUG9tSHBQa2szRHhQc19kQ0Z5VTNtZ0o3SQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "af17ee5beabc",
-      "title": "'Stress speeds aging but it may be reversible', Israeli researcher says - ynetnews",
-      "published": "2026-04-12T22:40:21+00:00",
-      "summary": "'Stress speeds aging but it may be reversible', Israeli researcher says&nbsp;&nbsp;ynetnews",
-      "sources": [
-        {
-          "name": "ynetnews",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZbmQzVkhYN3pkVWV0N245ckhVdENqQkF3V2xiSTRnQXFsV2RfYU14cDdib0V4amVrNktkZDlOVFhmOEVoVmNHMDdNcWVKTTZEcG9FQkg4SlZ5X1VvaXlVX1R4SGRaQmxQdXc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "bad68fa757a2",
       "title": "CDC Caught Burying Report on Real Effects of COVID Vaccine - Futurism",
       "published": "2026-04-12T22:00:00+00:00",
-      "summary": "CDC Caught Burying Report on Real Effects of COVID Vaccine&nbsp;&nbsp;FuturismCDC delays publishing report showing covid vaccine benefits&nbsp;&nbsp;The Washington PostActing CDC director delayed release of study showing benefit of Covid vaccines&nbsp;&nbsp;NBC NewsAlarm as acting CDC director delays report showing Covid vaccine benefits&nbsp;&nbsp;The GuardianTop C.D.C. Official Delays Report on Covid Shot’s Effectiveness&nbsp;&nbsp;The New York Times",
+      "summary": "CDC Caught Burying Report on Real Effects of COVID Vaccine&nbsp;&nbsp;FuturismActing CDC director delayed release of study showing benefit of Covid vaccines&nbsp;&nbsp;NBC NewsCDC delays publishing report showing covid vaccine benefits&nbsp;&nbsp;The Washington PostAlarm as acting CDC director delays report showing Covid vaccine benefits&nbsp;&nbsp;The GuardianRelease of CDC study concluding Covid vaccines dramatically cut hospitalizations blocked by RFK. Jr.&nbsp;&nbsp;Genetic Literacy Project",
       "sources": [
         {
           "name": "Futurism",
@@ -522,18 +666,6 @@
       ]
     },
     {
-      "id": "0ccbf5d5b61d",
-      "title": "Unique Honeybees Found Only in Southern California Can Fend Off Deadly Varroa Mites - Good News Network",
-      "published": "2026-04-12T21:18:09+00:00",
-      "summary": "Unique Honeybees Found Only in Southern California Can Fend Off Deadly Varroa Mites&nbsp;&nbsp;Good News NetworkSoCal's hybrid bees outsmart Varroa mites before they even hatch&nbsp;&nbsp;Phys.orgResearchers in beekeeping suits (IMAGE)&nbsp;&nbsp;EurekAlert!Californian Hybrid Honeybee Population Has Evolved Natural Defense against Varroa Mites: Study&nbsp;&nbsp;Sci.NewsSouthern California bees are keeping deadly mites in check&nbsp;&nbsp;The Brighter Side of News",
-      "sources": [
-        {
-          "name": "Good News Network",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGExUDlBSXFwOEFQcUtiQWNtQlNuU1g4X3QzZXpDcDlNSDN2Z2l4clNrV0gzYmpOTGRlWWFsc0V4dnlMQlZUTGt0QlpvQUdMVVdmNmZZUldIeERfY0dmdDR2RF9NekoxTWZQLWE0cHQ1dFI5S0FqRkRsZjJNQnJQSmdWSnEwTU44ZEdjLW1YZ2EyS1prRk5QUlVyNWFIbEUyLWRvTmk2MGFXYnNTWGc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "166fbee0d267",
       "title": "Scientists Discover Way To Treat Lung Cancer and Its Deadly Side Effect Together - SciTechDaily",
       "published": "2026-04-12T21:08:37+00:00",
@@ -546,10 +678,22 @@
       ]
     },
     {
+      "id": "5b19a4611465",
+      "title": "Artificial Sweeteners May Harm Future Generations, Study Suggests - SciTechDaily",
+      "published": "2026-04-12T20:33:06+00:00",
+      "summary": "Artificial Sweeteners May Harm Future Generations, Study Suggests&nbsp;&nbsp;SciTechDailyAre sugar substitutes healthier than the real thing?&nbsp;&nbsp;The EconomistPopular sweeteners may impact metabolism across generations&nbsp;&nbsp;News-MedicalArtificial Sweeteners May Harm Not Just You, But Also Your Future Children, Study Warns&nbsp;&nbsp;NDTVArtificial sweeteners: Why the science war is raging on&nbsp;&nbsp;FoodNavigator.com",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcTk2Z3JJenVtdW9WRTljdnFkTHY4bTRqLXhDaUpfRDd4STAtLUhvMG1BRzJqVmtoci01endZUW1Kc0JMOXJHN3dHbFVJRk16TGxVZ3FKYUV2MjJEQnRCYnlNYm1BTTdJYXQ3ek0tZDM5QWR4T1BNQmNOTFhnOUFwbklRNzFMU2djdDNRWENiczY0dXJr?oc=5"
+        }
+      ]
+    },
+    {
       "id": "28db39aa5f78",
       "title": "Scientists discover the universe will end a lot sooner than originally calculated - Dexerto",
       "published": "2026-04-12T20:26:57+00:00",
-      "summary": "Scientists discover the universe will end a lot sooner than originally calculated&nbsp;&nbsp;DexertoScientists Revise Timeline For End Of The Universe, And It's Earlier Than Previously Estimated&nbsp;&nbsp;NDTVRadboud University study says universe may end in 10^78 years&nbsp;&nbsp;NewsBytesScientists slash estimated lifespan of the universe in shocking new study&nbsp;&nbsp;MARCAWill the universe end sooner than expected? Scientists share prediction&nbsp;&nbsp;Moneycontrol.com",
+      "summary": "Scientists discover the universe will end a lot sooner than originally calculated&nbsp;&nbsp;DexertoScientists Revise Timeline For End Of The Universe, And It's Earlier Than Previously Estimated&nbsp;&nbsp;NDTVScientists slash estimated lifespan of the universe in shocking new study&nbsp;&nbsp;MARCARadboud University study says universe may end in 10^78 years&nbsp;&nbsp;NewsBytesWill the universe end sooner than expected? Scientists share prediction&nbsp;&nbsp;Moneycontrol.com",
       "sources": [
         {
           "name": "Dexerto",
@@ -573,7 +717,7 @@
       "id": "a931722cfb7c",
       "title": "Healthy Plant-Based Eating Lowers Dementia Risk - Neuroscience News",
       "published": "2026-04-12T18:27:13+00:00",
-      "summary": "Healthy Plant-Based Eating Lowers Dementia Risk&nbsp;&nbsp;Neuroscience NewsEating more plants linked to lower risk of dementia, even in older age&nbsp;&nbsp;CNNNot All Plant-Based Foods Are Equal—This Diet May Be The Best For Brain Health, According To Experts&nbsp;&nbsp;ForbesHigh-quality plant diets protect against Alzheimer’s, even when started late at life&nbsp;&nbsp;Medical News TodayHealthier Plant-Based Diet May Lower Dementia Risk&nbsp;&nbsp;Brain & Life",
+      "summary": "Healthy Plant-Based Eating Lowers Dementia Risk&nbsp;&nbsp;Neuroscience NewsEating more plants linked to lower risk of dementia, even in older age&nbsp;&nbsp;CNNHigh-quality plant diets protect against Alzheimer’s, even when started late at life&nbsp;&nbsp;Medical News TodayHealthy Diet Changes Later In Life May Lower Dementia Risk Study Finds&nbsp;&nbsp;News12 | Long IslandNot All Plant-Based Foods Are Equal—This Diet May Be The Best For Brain Health, According To Experts&nbsp;&nbsp;Forbes",
       "sources": [
         {
           "name": "Neuroscience News",
@@ -590,18 +734,6 @@
         {
           "name": "Yahoo",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd1NCeWxSb0tGdnZrN29LWThfQ2NQcWFzdjBSZ01EeC1DbHRucmhuVFBsaktyZVVmbkEzVGdpeHJmU2d5YTBaSXNrR2hJaGpWVXlJakRxUWJfVFB1ZlYxbENFWUxLVnN2a2RFS242dURLSXVTYkNHQzBtc05SODlGSXVrNFZQQnAtWDRobnFWeFpCN0dlOG5MZg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bb4913b647f8",
-      "title": "Narcissistic traits are linked to a brain area governing emotional control - PsyPost",
-      "published": "2026-04-12T18:05:16+00:00",
-      "summary": "Narcissistic traits are linked to a brain area governing emotional control&nbsp;&nbsp;PsyPost",
-      "sources": [
-        {
-          "name": "PsyPost",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQlpxSWpScFQ3U1cyQk1qdnNPUFdCeWp6NFJsQ3JyM0VLUzhWeTNYUGEtRDZnQThXVENsWUFWSUxRTlBtRmZkQ2tqYURxQzVxUnhZTVBXNGhBTUcxY3ZhU01KRV9wT1B2emlpMUUwU2dWR0VfM1JKSU9sNTltMUF3c1FWSGJGWUp6R0F1VU5XSXE1ZXN5cEptRw?oc=5"
         }
       ]
     },
@@ -626,6 +758,18 @@
         {
           "name": "The Times",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR0F6bWdscWphYURTcW1pT1V2UFJ3RGJZRXNXYm01czhGUU9CbjlwUmJoSkVVM1lXME91ODdQSjRlYXdnUjFKU1JJa3BkX3hvOUliSUUxSnNCUEdKTGtWQU5IS1NZXy1zQ1dhMXc1c0JqVXY2dHg1aVJWUktSS1V4OThNX0xJSmkybjFYZnA4NUlNRGY3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ec9c5279565f",
+      "title": "Artemis II pilot Victor Glover praises God after return, says mission was 'too big to be in one body' - Yahoo",
+      "published": "2026-04-12T16:53:07+00:00",
+      "summary": "Artemis II pilot Victor Glover praises God after return, says mission was 'too big to be in one body'&nbsp;&nbsp;YahooCircling the moon, a Black astronaut inspires millions&nbsp;&nbsp;ReutersThe Heavens Are Still Declaring—and Not Just to Astronauts&nbsp;&nbsp;The Gospel CoalitionThe 6 Words an Artemis II Astronaut Told His Wife From Space Is Warming Hearts&nbsp;&nbsp;TODAY.comWho Is Victor Glover, Jr.? 7 Things To Know About The First Black Man To Go Into Deep Space&nbsp;&nbsp;essence.com",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMzdORzJiQTVYU3NqUDRXZzlEVUFmV19xcTdNOVJpXzNfQy14OTZtUFY1QTJpSmhNeS13ZTZOZ3lWeDJQZTdUVUpDc09nanh4bUJCMmM4eGhBZ2hJYVFJSkczMF9kbmt4Z3NvWExyVm5TMXR2T0syMGdsbWU5Z2hlV1R4RE5lcmNE?oc=5"
         }
       ]
     },
@@ -668,7 +812,7 @@
     {
       "id": "5efc71b05502",
       "title": "Scientists Grew a Brain in a Lab and Now They’re Asking If It Can Feel Pain - Indian Defence Review",
-      "published": "2026-04-12T14:54:54+00:00",
+      "published": "2026-04-12T14:30:00+00:00",
       "summary": "Scientists Grew a Brain in a Lab and Now They’re Asking If It Can Feel Pain&nbsp;&nbsp;Indian Defence ReviewScientists Successfully Made Advanced, Lab-Grown Brains—Could They Become Conscious?&nbsp;&nbsp;Popular MechanicsScientists Grow Sophisticated 'Mini Brains' Raising Ethical Concerns&nbsp;&nbsp;National TodayTherapy for rare brain disorder, developed with organoids, enters first trial&nbsp;&nbsp;동아사이언스",
       "sources": [
         {
@@ -690,134 +834,14 @@
       ]
     },
     {
-      "id": "f72f729b6c97",
-      "title": "This Tiny Wildflower Could Be a Secret Weapon Against Superbugs - ScienceAlert",
-      "published": "2026-04-12T14:01:02+00:00",
-      "summary": "This Tiny Wildflower Could Be a Secret Weapon Against Superbugs&nbsp;&nbsp;ScienceAlertWild Plant Offers Hope in Fighting Antibiotic-Resistant Bacteria&nbsp;&nbsp;وكالة صدى نيوزTormentil: Yellow wildflower that could be a breakthrough against drug-resistant infections&nbsp;&nbsp;The Eastleigh VoiceScientists find tormentil may help fight antibiotic resistant bacteria&nbsp;&nbsp;NewsBytesGroundbreaking study finds surprise item could hold answer to beating hospital superbugs&nbsp;&nbsp;Daily Expr",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZlB1MjFXaFpSQVdZY2ROUndFXzF2bEJDenhDWnlSazNjdG1UOGdyaW4wbUE5T25HRDNRcGE4bF9uVDZWcFdQWERFcWRWMlVmRmxFYTg1SWcxcktnT2JPWnZ5WFFTVktkdFFmMFBGcDV0c0gyWlNmanJnaGtPRjZfQWRLQkxva19vVFJER1dVN2h3N0ZENnJ3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f2fd031a5048",
       "title": "4 High-Calcium Drinks to Support Your Bone Health That Aren’t Milk - EatingWell",
       "published": "2026-04-12T13:30:00+00:00",
-      "summary": "4 High-Calcium Drinks to Support Your Bone Health That Aren’t Milk&nbsp;&nbsp;EatingWellView Full Coverage on Google News",
+      "summary": "4 High-Calcium Drinks to Support Your Bone Health That Aren’t Milk&nbsp;&nbsp;EatingWell",
       "sources": [
         {
           "name": "EatingWell",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUU1kSEdDaXdCOUpDNWJpUjVKTGt6OFFCVFdIRWVFdEh0REd4ZHN6a0lPRmk2ZXlVR0o4Q3prd3pnWHUtcFZzLXRPTVI1aExKY25GZy1KVkYyZ1p0aTBJUnJxazdjRW9UTnZHdlRMYmctRFlsV1BZQXc0OWdReVl5U0lmT2tGVGtiNENIcg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "91127c8dad57",
-      "title": "Judith Rapoport, psychiatrist and author who raised public awareness of obsessive-compulsive disorder - The Telegraph",
-      "published": "2026-04-12T13:15:00+00:00",
-      "summary": "Judith Rapoport, psychiatrist and author who raised public awareness of obsessive-compulsive disorder&nbsp;&nbsp;The Telegraph",
-      "sources": [
-        {
-          "name": "The Telegraph",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWTFNeFhpWEwxb21ZaXBZRWMwSjF2b3k3d3JfUHI5TGtJV19HNnJ2UFl3MHJ1Wl96VUtwRG9kSmtqdUt6NE1ISDBqdmo5dG1JWVplYVlJLXdYUUpobXYxQWlGUk9GXzVxRXlyd1VDbFQ3LW82Z01pVjRmTjQ4QS04NC1wZjNoVWtycEYzMHFOWkNydmRVTmczVnFmd0FQalc2b19F?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "772eb73c81d6",
-      "title": "Your roommate can influence your gut bacteria for good, study finds - Interesting Engineering",
-      "published": "2026-04-12T12:22:00+00:00",
-      "summary": "Your roommate can influence your gut bacteria for good, study finds&nbsp;&nbsp;Interesting EngineeringCould your housemates be changing your gut bacteria?&nbsp;&nbsp;EurekAlert!How close friends may be changing your gut bacteria&nbsp;&nbsp;Earth.comClose, Social Contact Can Shape a Gut Microbiome, Sometimes Making it More Alike&nbsp;&nbsp;Discover MagazineThe People You Live With Have a Strange Effect on Your Body&nbsp;&nbsp;VICE",
-      "sources": [
-        {
-          "name": "Interesting Engineering",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb1lEQ25yVVY1RkVKYzdSNDdGeG5KVGNKc1l1SGNUTU5jS09GLTVCM2NHVUhMcHFNeVVfbTQ5cUhSZTlBRXZvRlh1c3VJU2J0Z2Y4T0hFekl2bENoa2VIQU9zWF9fR1REd185QWRqRy0xZk4weTV6eDNweTJ5X3NtVA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "de28b1e282a7",
-      "title": "Research Shows There Is an Ideal Amount of Coffee to Lower Stress - Verywell Health",
-      "published": "2026-04-12T12:18:40+00:00",
-      "summary": "Research Shows There Is an Ideal Amount of Coffee to Lower Stress&nbsp;&nbsp;Verywell HealthCoffee's sweet spot may help mental health in the long run&nbsp;&nbsp;Medical XpressModerate Coffee Intake Linked to Better Mental Well-Being&nbsp;&nbsp;The Indian PractitionerScientists Identify Coffee 'Sweet Spot'–Here's How Much to Drink Each Day for Lower Risk of Stress and Anxiety&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness InformationScientists Find Drinking This Much Coffee May Lo",
-      "sources": [
-        {
-          "name": "Verywell Health",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSU05Q3RTeFhHblAxSEtFaExKNXBYRU5PUmxsREN0S2NMRTBOZXdJekNWUUdPS3BaS3RBcnRmNjJ6TmpFZUtZQU0tODZVVFdPM3AxQWc5SFg1S0VzUHRzc08xU1lObVNkS3R1ZS0ycngzWXZMY3BtOG1JUnYtbHVTczRxc0dkUjV6?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9db35945a45a",
-      "title": "Is creatine safe? Athletes love it, but here's what to know. - USA Today",
-      "published": "2026-04-12T12:01:00+00:00",
-      "summary": "Is creatine safe? Athletes love it, but here's what to know.&nbsp;&nbsp;USA TodayWant muscle from creatine? Resistance training is the missing link&nbsp;&nbsp;News-MedicalCreatine Has Always Been the Ultimate Muscle Builder, but New Research Says It Can Supercharge Your Brain&nbsp;&nbsp;Outside MagazineYes, Creatine Can Counteract Stress and Lost Sleep&nbsp;&nbsp;GQShould You Take Creatine? | Health Matters | NYP&nbsp;&nbsp;NewYork-Presbyterian",
-      "sources": [
-        {
-          "name": "USA Today",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc3QxbGc3WnFhb01YSFJvenp2R0k3Rmkxc3JlWXNKY19aMl82OW1jN0tkY3VjUl9vSEp6Ml83cFQxaUtKdlhFMDFqdGlveGJjcGk1UmJKVjV0bWFuMTJ2R2FYVC1rbDd2UF9XcHlTeExWRFl1WnYtTFgzMUlPR1ZWX2l6RTFmLWl6eFlSazh0ejFldHpNb0c5SkFwQUpiek1TZTRlWEpYVnZWaDA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "389988c65c60",
-      "title": "Scientists Unveil Microscopy Breakthrough That Reveals “Invisible” Molecular States - SciTechDaily",
-      "published": "2026-04-12T11:53:06+00:00",
-      "summary": "Scientists Unveil Microscopy Breakthrough That Reveals “Invisible” Molecular States&nbsp;&nbsp;SciTechDailyNew Microscopy Detects Hidden Biomolecular Reactions At Sub-Cellular Scale&nbsp;&nbsp;Quantum ZeitgeistNew Microscopy Technique Reveals Hidden Magnetic Chemistry In Living Systems&nbsp;&nbsp;Eurasia Review",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZVp3dXdZeUE5OHVfdXgxc3BhajFDVFRGUVpTM2labDVFS1FQU1Mxbk1rQkhrdjNZNWNreVBJdkJvU3VScGw5TkZ2cks0S0dJTFJNS0RJQ2tkd1RIbV8tdmdEYXQ1Z1N1ejJSRHZDVWM4TENKbDhCRWNhenNHbnFVelBoQ1VncE13dDUyTTZHRTFWUF96YWw5RTZobTBQWWoyZWkwTzVfWENfNnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fbe77340edc2",
-      "title": "A flu vaccine recommended for older adults could lower Alzheimer’s risk, research finds - San Francisco Chronicle",
-      "published": "2026-04-12T11:02:06+00:00",
-      "summary": "A flu vaccine recommended for older adults could lower Alzheimer’s risk, research finds&nbsp;&nbsp;San Francisco ChronicleFlu vaccine may slash Alzheimer's risk: Here's what dose to get&nbsp;&nbsp;Medical News TodayAlzheimer's Risk May Be Influenced by Flu Shots&nbsp;&nbsp;MedPage TodayRisk for Dementia Lower for Older Adults With High-Dose Inactivated Influenza Vaccine&nbsp;&nbsp;Vaccine AdvisorWorld Health Day, new heart guidelines, a flu shot's surprising brain benefit and how to tame stress&",
-      "sources": [
-        {
-          "name": "San Francisco Chronicle",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaXprUjRsampNZ2gzY3NuOHBqazNtWG5UV3o3RlFTRm5JSXZsYklOcFM0SWRrbXlSOGQ4OU5zZ09qaDZhNlYwRjhQTjJpdUZiSXBnU1VScjJNbUoxcmlRcHFRY0Z5SEhma2poN3JDNHVucGgxZFJOTGF3cExaQURKVDZwcGZtTXFCa2p0enFGNDdMcFA5TGlZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4f3bbd09ffd0",
-      "title": "What If Consciousness Exists Beyond Your Brain - SciTechDaily",
-      "published": "2026-04-12T10:43:57+00:00",
-      "summary": "What If Consciousness Exists Beyond Your Brain&nbsp;&nbsp;SciTechDaily",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQdHUyczJSejlQU3AxcnZGYjFTX1pQdUZUbG14MVNUTjRpeGxxUGt1RG9QZjVsSFRUTmQ0d0w5NmlZQW5laDFmai1sd2lZSE1HRGc5RnRUU0djV3k2VEJNaEdUZkdUS3ZzUHVRbFZITkxETVRmV2V5VjFqenA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "af514c62e1f4",
-      "title": "A heart health nutrition scientist shares 3 diet tweaks to prevent chronic disease - Business Insider",
-      "published": "2026-04-12T09:09:00+00:00",
-      "summary": "A heart health nutrition scientist shares 3 diet tweaks to prevent chronic disease&nbsp;&nbsp;Business Insider",
-      "sources": [
-        {
-          "name": "Business Insider",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOektOT2NpWnJoT0lxMGhEeldLZDlhdl9xajFUU3pyMXZYTDN5MUNGOEw5Q3VtVWlPZmR2TVdDclZaZ1FKWlRMQnotTW1rbmtQZXk4ZFVjN2NUbmxtc3pXajFRUVk2NlRmREVyMDl2c2EyUkN6ODgyWl9wdkliQ19YZHpvQmV4UV9ESktZVmVGNXNzdmlSZ0ZnY1ZqaXFhcXpNU2tmekJWSnB1b1U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "865ae8547961",
-      "title": "We Asked 3 Dietitians to Pick the Healthiest Sandwich Bread—and They All Chose the Same One - Real Simple",
-      "published": "2026-04-12T07:00:00+00:00",
-      "summary": "We Asked 3 Dietitians to Pick the Healthiest Sandwich Bread—and They All Chose the Same One&nbsp;&nbsp;Real Simple",
-      "sources": [
-        {
-          "name": "Real Simple",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMGtaeFJ6WUVNX2NHM3c5VHZndXkyc3RkeGhtaDFLUlVEOTlCeExiUUVCZDdxZU5zblAxYm5MY1diV1BqZHFDV0VsOG1QbTNMM1R4a1Z6eGI1M0FzSFVqdFpoRGJmUHpCczAwZGpORkVidzJUZnVrcEFWY01ldEg4TWtLdlJ5M0RuaGpTVGJn?oc=5"
         }
       ]
     }

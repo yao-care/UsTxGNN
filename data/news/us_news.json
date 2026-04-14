@@ -1,19 +1,115 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-04-13T19:18:09.575411+00:00",
-  "total_fetched": 113,
-  "unique_count": 113,
+  "fetched_at": "2026-04-14T02:51:11.437193+00:00",
+  "total_fetched": 132,
+  "unique_count": 132,
   "health_related_count": 64,
   "news": [
     {
-      "id": "f43f29473fc7",
-      "title": "Adolescent and young adult cancers increase risk of developing future cancers - abcnews.com",
-      "published": "2026-04-13T18:02:16+00:00",
-      "summary": "Adolescent and young adult cancers increase risk of developing future cancers&nbsp;&nbsp;abcnews.comView Full Coverage on Google News",
+      "id": "a6f008268892",
+      "title": "Clinical trials offer hope for multiple sclerosis treatment breakthrough - TribLIVE.com",
+      "published": "2026-04-14T00:16:53+00:00",
+      "summary": "Clinical trials offer hope for multiple sclerosis treatment breakthrough&nbsp;&nbsp;TribLIVE.com",
       "sources": [
         {
-          "name": "abcnews.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRk1zbFc3cVRxcWlrLVFUajNnQXFmM18wYi1TZERJWHlHa3dnQUNSSVV2YU5FdHNPSjUtWHVUMFV6Wm9NVnBZMUJDN2RMQUZJQWJvbE1jUldlNC12N003SUdkbVZEeV91bTI3VWc1ZklhZDlQbjVPQlVQWUFsZU1Jd1cya1p3SFhlNEtuaVdQUGptZVk4dDVYUGtLVTl2a2EyRjlteVlUZlBWS1YwQkxZRjc0U03SAboBQVVfeXFMUGowM2M5Y3lJYnFDZUhUd19RVEhmMHREZVdIN010ZFhHWmRIOWJmR1hIdUxKdnJLZjJBazNsUUVYVVdJS1VUYkRkT0FaY2QxcnFBMk9jZ18yMnFvQ3BhbnhjVzl3TldvWm5JU3V4Q19xdFV6Q0pqNXdrMlNYekxXakt1Tklwai1FdDdOV3FlYUZFZG9tb3VxOFFrV2t0RHc0eFpidFdoMDc3eDFXQlNWYWlnLUlvc1RPTFZ3?oc=5"
+          "name": "TribLIVE.com",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSnl4b3drTnZ6Um9HYnl2NGFKd2VQTGxZWU1VcmY4MGVwcXV3d3BFRTdzdHEweDhYaVlfTmo3ejhPd3RwMy1OWkJnYkxZYWprQXZBSW5LSHlOX2pUUTJ2bkJVcGt6U3lRWlBNQ2hwNUVTNjc5WWMwOEdiSnBLUWNlLTFDU3Z2VUlncjJvRTkzdm9YYWlsdG02blplWno2RURRZ2JuTEtyRmhzcGtBaTZ2VU9hbDZsbmxIZV90ZlN3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2a0fa2836976",
+      "title": "Measles takes a plane to Idaho, which has worst vaccination rate in US - Ars Technica",
+      "published": "2026-04-13T21:32:48+00:00",
+      "summary": "Measles takes a plane to Idaho, which has worst vaccination rate in US&nbsp;&nbsp;Ars TechnicaIdaho state health officials alert public to possible measles exposure at Boise Airport&nbsp;&nbsp;Idaho Capital SunPossible measles exposure reported at the Boise Airport&nbsp;&nbsp;Idaho News 6IDHW warns of possible measles exposure at Boise Airport on March 29&nbsp;&nbsp;KBOIMeasles exposure at Boise Airport? Idaho health officials issue warning&nbsp;&nbsp;Idaho Statesman",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOXpIcVJaRXpyODhRWEJ4bGY4LS1GNFZFVmRKWWJ1TlYtVmctc0otdmxUWU9sMmJ5UnFJeDh6VzZrQXJIcEVnNXdQZmdRUXBUdHZ1SEdMaGgtZzREelFUYTdnZEozVS1RUGROczI0NndHc3dZMVE2NUJRRDZSaEtUeDhhbzNxdGdzdkhzSWcweUtPM0FFQk9fRDNpaW5mUWNQd3N6dGZPeFFRS0k2NVBjTkI4cw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d4ed307a78a2",
+      "title": "Heartwarming video shows Artemis II astronaut Christina Koch reuniting with her dog - NBC News",
+      "published": "2026-04-13T21:05:40+00:00",
+      "summary": "Heartwarming video shows Artemis II astronaut Christina Koch reuniting with her dog&nbsp;&nbsp;NBC NewsVictor Glover and Christina Koch post-flight&nbsp;&nbsp;The Planetary SocietyArtemis II astronaut Christina Koch shares touching reunion with dog&nbsp;&nbsp;abcnews.comArtemis II Astronaut Christina Koch Shares an Inspiring Message for Earth After Her Historic Flight&nbsp;&nbsp;People.comHouston, We Have a Climber: Astronaut Christina Koch on Her Earthbound Hobby&nbsp;&nbsp;Climbing Magazine",
+      "sources": [
+        {
+          "name": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeFhFT2p0OWcwZDFPVGl0VkJhS0tmYUs5a1IxQ1hyLXpEYzZVZkk0QmJlYjRZMzZaUGhMV0EwazYzY2s0ZzRRNTUxcl9TQ1hnTWJuOGdxMFpDNHBmX3JwOGZkX3k0dkFOeXV2LVh0V0w3SnZsc2Zqak4xem9idjZXckMyb3VtWG10Z2JiN3hFRkpEeVdXWUdUaWNxRWVXdk91Zl82MjZjM2lUZXd6eHl1VkdGalppMWhQdUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9c1dd30f549a",
+      "title": "Juab School District reports confirmed measles case as statewide outbreak grows - KSL News",
+      "published": "2026-04-13T21:00:35+00:00",
+      "summary": "Juab School District reports confirmed measles case as statewide outbreak grows&nbsp;&nbsp;KSL NewsMeasles outbreak spreads in Utah, hitting people without the vaccine&nbsp;&nbsp;KUERUniversity of Utah measles exposure is another warning signal to check immunizations&nbsp;&nbsp;FOX 13 News UtahSouth Carolina sees no new measles activity as Utah becomes epicenter of US outbreaks&nbsp;&nbsp;CIDRAPNo new measles cases in South Carolina for a week, but CDC outbreak models warn about underreporting&n",
+      "sources": [
+        {
+          "name": "KSL News",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaXZVYWg3MXBpWDJxa3FJZXZhRzQ4SVh0YW1hai1XY2hxVG5ZR0VKUlBNYWdqSGpROWxKYzlOUFlVSmVRei1kUnU4c0VOMDh6MWlMeWQ5RmtwSzRHUnpKNXlCWUR5NFg5R2hlUlZhVUVud3VBUWYxdGZ1RG9PdWNfLXp1UExqX2ZraHFRbGxBZXd2c3dRbmdGLWV2ZWpLSWp5MGM2VHZxekkyZ2lJRFdiWmZPNVZuNG8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ec842286fe02",
+      "title": "Antiseptic-tolerant germs spread through the air in hospitals, early study hints - Live Science",
+      "published": "2026-04-13T20:00:00+00:00",
+      "summary": "Antiseptic-tolerant germs spread through the air in hospitals, early study hints&nbsp;&nbsp;Live ScienceView Full Coverage on Google News",
+      "sources": [
+        {
+          "name": "Live Science",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdUlKeDNaVjF3S0l6OS1PeTVzYjQyZjRURHgtU1dTclVqd2xrS1VaNGJiQUFzWjFYYzJMOGNtUWpnUHU4WUw1VXYzUWpSTEswSm4wV252UmVkOWdNYUlic1RkUkV1OGdIYVEybEpYbTkwTmt3REVVVVdnTTkyS1ZVb3YtX1hZdWtvTUFTU1NRWjFqbWFpczBjdUQyLTJTdm1OVEFpdEQwSEF3N2VhdUYwZllZQnpaWUFiT3FYVUhZcXhzaDdCYVJNYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "073ca63f0a25",
+      "title": "Viruses allegedly stolen from high-security lab cause stir in Brazil - Nature",
+      "published": "2026-04-13T19:28:57+00:00",
+      "summary": "Viruses allegedly stolen from high-security lab cause stir in Brazil&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUX2dIeGlyWkpLYWVEM2JSYWJKZmlmX1R1WEFwLUxNcE5ucnN3aGU5amZvRVRhdnIxTzJEaDN4Rjd0WUtvVTZnWkptdDQ4Q0VGMksydXRvVENhTzBUWGRz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "86a77311a982",
+      "title": "Here's what psychedelics actually do to the brain - AOL.com",
+      "published": "2026-04-13T19:19:30+00:00",
+      "summary": "Here's what psychedelics actually do to the brain&nbsp;&nbsp;AOL.comView Full Coverage on Google News",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hMmxveGdsRzB2Z3R1R3RTdXo0eVlFQVEzbVVCNzN2eW9QVGtXZDRpVmc0clgybHVkeXMxVFRSYkRyOElSeUp5TnRuUmgwaTE5YndBcDdxRVhDRWpJUFgtcVBLaVVFZ1RvbnJBb2txaE5YRFhweEdF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c4905bc744d6",
+      "title": "A Diarrhea-Causing Superbug Is on the Rise, Health Officials Warn - Gizmodo",
+      "published": "2026-04-13T18:30:29+00:00",
+      "summary": "A Diarrhea-Causing Superbug Is on the Rise, Health Officials Warn&nbsp;&nbsp;GizmodoCDC Reports Emergence of Extensively Drug-Resistant Shigella&nbsp;&nbsp;Food Safety MagazineDrug-resistant Shigella infections on the rise&nbsp;&nbsp;Food Safety NewsDrug-resistant Shigella threatens young children globally&nbsp;&nbsp;UW Medicine | Newsroom",
+      "sources": [
+        {
+          "name": "Gizmodo",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcldSdHhReGlBT3FTUnVOMkxMTWRwbW1QTldkWTdNZXhZa3BKTXRFWGMzcUNnT0dFT20wSElqT2NUWGZ1dUgxOUVodVhCaDFiZkVDWTZkb3JkQnc5S2p0NkxydjMyMlRTcGRiak04bEhIRFV6YXlZSGw1Ym1WOU11czdyOERDMmpxMVZaQmtPTDQxLWVaeTFxQl9lSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "03c7c2508bac",
+      "title": "‘Thrilling’ embryo fossil discovery upends everything we knew about how early mammals gave birth: ‘Breaks entirely new ground’ - New York Post",
+      "published": "2026-04-13T18:18:00+00:00",
+      "summary": "‘Thrilling’ embryo fossil discovery upends everything we knew about how early mammals gave birth: ‘Breaks entirely new ground’&nbsp;&nbsp;New York PostAncient survivor reveals its secret: First-ever egg of a mammal ancestor discovered&nbsp;&nbsp;EurekAlert!Embryo fossil found in South Africa is world's oldest proof that mammal ancestors laid eggs&nbsp;&nbsp;Phys.org250-Million-Year-Old Embryonated Dicynodont Egg Found in South Africa&nbsp;&nbsp;Sci.NewsSolid Proof That Our Mammal Ancestors Laid ",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaG53NWtaUTd4S0MzaUNWaVhyU1NKdFhFLUZ5ZkhXZ19uTmItR25Gb2Z4WjJQZUVuRTdjMm05LTZnUzFBYmlGOVE3WF9jelI4blNkNVl1aEthNV9hVVFyUmlVeTFPS3pRbFZBZGVEajRSWC1vSFJtME5QQktjcGxZNXVTLXZ5OEVnd19Sb0Zya1lHek1fdkt4aGV2RGE?oc=5"
         }
       ]
     },
@@ -21,7 +117,7 @@
       "id": "6d14edccc347",
       "title": "Column | I’m an oncologist. Here’s why I recommend exercise to lower cancer risk. - The Washington Post",
       "published": "2026-04-13T17:00:00+00:00",
-      "summary": "Column | I’m an oncologist. Here’s why I recommend exercise to lower cancer risk.&nbsp;&nbsp;The Washington PostSouth Florida program uses exercise to help cancer patients recover, reduce recurrence risk&nbsp;&nbsp;WPLG Local 10How Walking Can Help Reduce Cancer-Related Fatigue&nbsp;&nbsp;American Cancer Society",
+      "summary": "Column | I’m an oncologist. Here’s why I recommend exercise to lower cancer risk.&nbsp;&nbsp;The Washington PostPost-diagnostic physical activity linked to lower mortality across multiple cancer types, study shows&nbsp;&nbsp;Hospital Healthcare EuropeSouth Florida program uses exercise to help cancer patients recover, reduce recurrence risk&nbsp;&nbsp;WPLG Local 10How Walking Can Help Reduce Cancer-Related Fatigue&nbsp;&nbsp;American Cancer Society",
       "sources": [
         {
           "name": "The Washington Post",
@@ -30,14 +126,14 @@
       ]
     },
     {
-      "id": "86a77311a982",
-      "title": "Here's what psychedelics actually do to the brain - AOL.com",
-      "published": "2026-04-13T16:03:14+00:00",
-      "summary": "Here's what psychedelics actually do to the brain&nbsp;&nbsp;AOL.comView Full Coverage on Google News",
+      "id": "f40c585ff88d",
+      "title": "Heart Disease Is Preventable. So Why Does It Kill So Many of Us? - AOL.com",
+      "published": "2026-04-13T16:43:06+00:00",
+      "summary": "Heart Disease Is Preventable. So Why Does It Kill So Many of Us?&nbsp;&nbsp;AOL.comView Full Coverage on Google News",
       "sources": [
         {
           "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hMmxveGdsRzB2Z3R1R3RTdXo0eVlFQVEzbVVCNzN2eW9QVGtXZDRpVmc0clgybHVkeXMxVFRSYkRyOElSeUp5TnRuUmgwaTE5YndBcDdxRVhDRWpJUFgtcVBLaVVFZ1RvbnJBb2txaE5YRFhweEdF?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVk1UUzhwZHQzazNkeWZFZU9XZXhvOTYyRGlvOUw0R3FHdmJkWldqWjA5YUhDRTY2MEk3bC0wTnlzMHgxTWxUZHpSdUZWWk1aM2J1akw0aU9vRGRvTFRhWjhFTkdzb3M0TnRia1VDUG5FUHdIWjNpdFE4TTNUdzJ6a05oZ2s?oc=5"
         }
       ]
     },
@@ -54,6 +150,30 @@
       ]
     },
     {
+      "id": "3c6088a59894",
+      "title": "Sibling Stem Cell Transplant Leads to Rare HIV Remission in 'Oslo Patient' - ScienceAlert",
+      "published": "2026-04-13T15:01:16+00:00",
+      "summary": "Sibling Stem Cell Transplant Leads to Rare HIV Remission in 'Oslo Patient'&nbsp;&nbsp;ScienceAlertPerson functionally cured of HIV after bone marrow transplant from sibling&nbsp;&nbsp;Scientific AmericanFrom the Oslo to the Berlin patient: Lessons learned from 10 people ‘cured’ of HIV&nbsp;&nbsp;EL PAÍS EnglishNorwegian effectively cured of HIV after transplant from brother&nbsp;&nbsp;Barron News-ShieldHIV Undetected 5 Years After Sibling Stem Cell Transplant&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWGRGS2s5Rm1ZM293bkFYUkNNMVpsbnc3LTJ1TkhPakxiRm1OM3FxX3pHenJIWnBoMlJqeFB2c19XVE9nRmhKNWJWSjdOWTVHa0d3dGFZMHo0MzhWUkQtMThXbjMyMkRhVDNkSHFsT3JrU3RVU05iZFZ3U1czUDV6bkpwelVPZlVBN1otcDRtbFZzWVpIdzY5dWRJZGJtenlEdUFV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9e905796462d",
+      "title": "800 Years Ago, Japanese Astronomers Saw Strange 'Red Lights in the Northern Sky,' Now Scientists Have Just Revealed What They Were! - The Daily Galaxy",
+      "published": "2026-04-13T14:45:00+00:00",
+      "summary": "800 Years Ago, Japanese Astronomers Saw Strange 'Red Lights in the Northern Sky,' Now Scientists Have Just Revealed What They Were!&nbsp;&nbsp;The Daily GalaxyJapanese researchers look at 800-year-old books and trees for signs of extreme solar events&nbsp;&nbsp;The Japan TimesMedieval Solar Storm Detected Through Tree Rings and Historical Records&nbsp;&nbsp;Medievalists.netScientists Used Medieval Poems and Trees to Uncover a 13th-Century Solar Surge&nbsp;&nbsp;GizmodoRed aurora over Engaru (IMA",
+      "sources": [
+        {
+          "name": "The Daily Galaxy",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ3NZM3JzUjVSc1NKOVV0czBwLVlkcGtmWjR6LWtlaFNzRXBRbDA3b3BXRUx5cGRaWUlGRXdxREd0aVlNMmlUbDZ4dXNzYXZsdTQ1ZmVpdERfb0tpNjBQUVpOOXJRQlgzZXVUb3lxZHdIeEM1WXpWOGhoTFF2Rzhrag?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7987bb12fbc2",
       "title": "Laser Technology Could Soon Replace Fuel in Space, Launching Humanity into a New Era of Light-Speed Exploration - The Daily Galaxy",
       "published": "2026-04-13T14:15:00+00:00",
@@ -66,10 +186,22 @@
       ]
     },
     {
+      "id": "c87481672176",
+      "title": "New toothpaste stops gum disease without killing good bacteria - ScienceDaily",
+      "published": "2026-04-13T14:05:45+00:00",
+      "summary": "New toothpaste stops gum disease without killing good bacteria&nbsp;&nbsp;ScienceDaily",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3N1YxRk5CYjI1alNwbGVWNUd3aFVWd05XczhOSUh2SngxdDRhbUNlVExoRkVWZWlERU82X0JPT1M1TFNzMS1UWkI2NE9SWTZib09wTmhnYjNNLWx6RTEzQk1NMHZ6TTIxbFVWLWluOA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b309ef9d63b5",
       "title": "You Should Be More Freaked Out by Shingles - WIRED",
       "published": "2026-04-13T14:00:00+00:00",
-      "summary": "You Should Be More Freaked Out by Shingles&nbsp;&nbsp;WIREDShingles can hit younger than you think. The vaccine can prevent the painful illness&nbsp;&nbsp;NPRShingles Vaccine Lowers Cardiovascular Risk&nbsp;&nbsp;MedscapeThe strongest protective factor against Alzheimer’s to date&nbsp;&nbsp;Luxembourg TimesAntiviral drugs and shingles vaccines tied to lower dementia risk&nbsp;&nbsp;News-Medical",
+      "summary": "You Should Be More Freaked Out by Shingles&nbsp;&nbsp;WIREDShingles Vaccine Lowers Cardiovascular Risk&nbsp;&nbsp;MedscapeShingles can hit younger than you think. The vaccine can prevent the painful illness&nbsp;&nbsp;NPRThe strongest protective factor against Alzheimer’s to date&nbsp;&nbsp;Luxembourg TimesAntiviral drugs and shingles vaccines tied to lower dementia risk&nbsp;&nbsp;News-Medical",
       "sources": [
         {
           "name": "WIRED",
@@ -81,7 +213,7 @@
       "id": "7b40bf637f2d",
       "title": "The Best Time to Take Vitamin D for Supplementation and Optimal Sleep - Verywell Health",
       "published": "2026-04-13T13:23:47+00:00",
-      "summary": "The Best Time to Take Vitamin D for Supplementation and Optimal Sleep&nbsp;&nbsp;Verywell HealthMillions of Americans Taking Vitamin D Supplements Don't Actually Need Them, New Guidelines Confirm&nbsp;&nbsp;Undiscovered America TVMillions of Americans Are Vitamin D Deficient. These Brands Think Skincare Products Are The Answer.&nbsp;&nbsp;womenshealthmag.com4 silent signs you need more vitamin D — are you ignoring them?&nbsp;&nbsp;Futura, le média qui explore le mondeVitamin D deficiency despite",
+      "summary": "The Best Time to Take Vitamin D for Supplementation and Optimal Sleep&nbsp;&nbsp;Verywell HealthMillions of Americans Taking Vitamin D Supplements Don't Actually Need Them, New Guidelines Confirm&nbsp;&nbsp;Undiscovered America TVMillions of Americans Are Vitamin D Deficient. These Brands Think Skincare Products Are The Answer.&nbsp;&nbsp;Women's Health4 silent signs you need more vitamin D — are you ignoring them?&nbsp;&nbsp;Futura, le média qui explore le mondeVitamin D deficiency despite sun ",
       "sources": [
         {
           "name": "Verywell Health",
@@ -102,10 +234,22 @@
       ]
     },
     {
+      "id": "ea14e0ed6d95",
+      "title": "Doctors Say This Is How to Tell If Your Cholesterol Is Too High - Prevention",
+      "published": "2026-04-13T12:34:01+00:00",
+      "summary": "Doctors Say This Is How to Tell If Your Cholesterol Is Too High&nbsp;&nbsp;PreventionNHS says 'do this' as people over 50 at risk of 'silent killer'&nbsp;&nbsp;Cambridge NewsYou have heard of ‘good’ and ‘bad’ cholesterol: But what if that’s not the full story and you’re reading it wrong?&nbsp;&nbsp;The Times of IndiaNHS explains what really works to lower high cholesterol as two in three affected&nbsp;&nbsp;The MirrorCardiologists Reveal How to Tell Your Cholesterol Is Too High&nbsp;&nbsp;Nation",
+      "sources": [
+        {
+          "name": "Prevention",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ2NiWDFMWUowWFpON016emthcjNsV3YzSlZ1dUJWZ2l3bHlmamI4SWIzNEZjdDhDTklKYVJTaVVuVGhTd0FqaFR4bExwcDBJUklMTHAzR0lUMlRaTHZjbDFoTjluUEc4QlRWVGU2V080ZVN4ZXcwajBFM2VlY29mVV9qTlNVUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e68505a58ea1",
       "title": "These New Molecules Could Change How We Treat Lupus and Arthritis - SciTechDaily",
       "published": "2026-04-13T11:33:44+00:00",
-      "summary": "These New Molecules Could Change How We Treat Lupus and Arthritis&nbsp;&nbsp;SciTechDailyStudy shows new drug compounds dial down inflammation without compromising immunity&nbsp;&nbsp;Scripps ResearchAutoimmune Disease-Related Inflammation Reduced with ENDOtollins Drug&nbsp;&nbsp;Genetic Engineering and Biotechnology NewsTargeted Inflammation Without Immunosuppression? “ENDOtollins” Show Early Promise&nbsp;&nbsp;trialsitenews.comNew Drug Compounds Reduce Inflammation, Immunity Safe&nbsp;&nbsp;Na",
+      "summary": "These New Molecules Could Change How We Treat Lupus and Arthritis&nbsp;&nbsp;SciTechDailyStudy shows new drug compounds dial down inflammation without compromising immunity&nbsp;&nbsp;Scripps ResearchTargeted Inflammation Without Immunosuppression? “ENDOtollins” Show Early Promise&nbsp;&nbsp;trialsitenews.comNew Drug Compounds Reduce Inflammation, Immunity Safe&nbsp;&nbsp;National Today",
       "sources": [
         {
           "name": "SciTechDaily",
@@ -126,18 +270,6 @@
       ]
     },
     {
-      "id": "d1762c9212fd",
-      "title": "Eye Doctors Share 6 Health Concerns They Can Spot In Your Eye Before You Realize Anything Is Wrong - HuffPost",
-      "published": "2026-04-13T11:00:18+00:00",
-      "summary": "Eye Doctors Share 6 Health Concerns They Can Spot In Your Eye Before You Realize Anything Is Wrong&nbsp;&nbsp;HuffPostYour eyes are warning you, 5 silent signs you should never ignore&nbsp;&nbsp;MSNNotes when taking care of eye health that should not be ignored&nbsp;&nbsp;Laodong.vn8 daily habits that are quietly damaging your eyes&nbsp;&nbsp;MSN",
-      "sources": [
-        {
-          "name": "HuffPost",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOXRobkJBWXBlQUI1VlA1VUxaZ0xWWWltY0VDcV9UM1VEOXBBa0ZtamhvekhMS0hCSVczU2lLUU1IWmRzbTg0aS0zd25GTS1zMUtEUVR0Q1FfcUxhN1RIdDVBbzdCTk82cEpXcm1mMDZSZmFrT1pST0xvemdaQ1hRVHdxdGp3QzVYMHfSAY8BQVVfeXFMTk9nUWlXNy1sb1dOZmRObml3RGplN1c3cWJWZVNBb3FFWWpfZjNMc1NRYWVnajlOeVdvSmZ0RVd0dEJoTXlMLWdDdExFTjBZSDZxeWVDTFBhdlFRekdrbk1OaXBPRU9EV2ZWVGVneDVaNThQZV93Y1p6dnB1RWtCdXZYRy1ueTJUSlgweUpUWGs?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ab4f9959d238",
       "title": "Saunas May Do More Than Raise Body Temperature – They Activate Your Immune System - SciTechDaily",
       "published": "2026-04-13T10:58:36+00:00",
@@ -153,7 +285,7 @@
       "id": "e889f54cfab7",
       "title": "Scientists Thought This Was the Oldest Octopus Until They Found Something Hidden Inside - A-Z Animals",
       "published": "2026-04-13T10:32:00+00:00",
-      "summary": "Scientists Thought This Was the Oldest Octopus Until They Found Something Hidden Inside&nbsp;&nbsp;A-Z AnimalsAncient ocean mystery deepens as long-misidentified fossil is finally revealed by researchers&nbsp;&nbsp;Fox News\"Weird blob\" creature thought to be the world's oldest octopus isn't an octopus after all. Here's what scientists found.&nbsp;&nbsp;CBS NewsThe world’s oldest octopus fossil isn’t an octopus after all, scientists say&nbsp;&nbsp;AP News🧊 A really cool business idea&nbsp;&nbsp;t",
+      "summary": "Scientists Thought This Was the Oldest Octopus Until They Found Something Hidden Inside&nbsp;&nbsp;A-Z AnimalsAncient ocean mystery deepens as long-misidentified fossil is finally revealed by researchers&nbsp;&nbsp;Fox News\"Weird blob\" creature thought to be the world's oldest octopus isn't an octopus after all. Here's what scientists found.&nbsp;&nbsp;CBS NewsOldest octopus fossil found to not be an octopus&nbsp;&nbsp;Ars TechnicaThe world’s oldest octopus fossil isn’t an octopus after all, sci",
       "sources": [
         {
           "name": "A-Z Animals",
@@ -189,11 +321,23 @@
       "id": "69bba0340c30",
       "title": "Erectile dysfunction is more than a sexual issue - statnews.com",
       "published": "2026-04-13T09:46:44+00:00",
-      "summary": "Erectile dysfunction is more than a sexual issue&nbsp;&nbsp;statnews.comErectile dysfunction and diabetes connection is a link many men are unaware of&nbsp;&nbsp;6abc Philadelphia",
+      "summary": "Erectile dysfunction is more than a sexual issue&nbsp;&nbsp;statnews.comErectile dysfunction and diabetes connection is a link many men are unaware of&nbsp;&nbsp;6abc PhiladelphiaWhy are more men experiencing erectile dysfunction at a younger age?&nbsp;&nbsp;bodyandsoul.com.au",
       "sources": [
         {
           "name": "statnews.com",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS0RhOGFKQUpGSDF4d1ptVFBza3g4TnFJZUlwUjlZemtZOE9FNEtWYnc4YWtuWFQ5MkVRZHYta1N4bUFaN1h1c0h6bFc5QUZVd1ozMlpnZUVjM0NGajBPNnNwNmRuYUdtbEVXVGZ2WmlZZkhmd3A1b0F1OGp6MUoxNURaREJpWHJDSXltamlJaDJvMWxIb1BIM3hB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f43f29473fc7",
+      "title": "Adolescent and young adult cancers increase risk of developing future cancers - abcnews.com",
+      "published": "2026-04-13T09:12:10+00:00",
+      "summary": "Adolescent and young adult cancers increase risk of developing future cancers&nbsp;&nbsp;abcnews.comPeople treated for cancer as youths twice as likely to develop new tumours years later, study finds&nbsp;&nbsp;The Globe and MailYoung people who survive cancer have increased risk of developing another type of cancer&nbsp;&nbsp;AOL.comYoung cancer survivors face double the risk of later cancers&nbsp;&nbsp;News-MedicalYoung adult cancer survivors at double the risk of getting another cancer later,",
+      "sources": [
+        {
+          "name": "abcnews.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRk1zbFc3cVRxcWlrLVFUajNnQXFmM18wYi1TZERJWHlHa3dnQUNSSVV2YU5FdHNPSjUtWHVUMFV6Wm9NVnBZMUJDN2RMQUZJQWJvbE1jUldlNC12N003SUdkbVZEeV91bTI3VWc1ZklhZDlQbjVPQlVQWUFsZU1Jd1cya1p3SFhlNEtuaVdQUGptZVk4dDVYUGtLVTl2a2EyRjlteVlUZlBWS1YwQkxZRjc0U03SAboBQVVfeXFMUGowM2M5Y3lJYnFDZUhUd19RVEhmMHREZVdIN010ZFhHWmRIOWJmR1hIdUxKdnJLZjJBazNsUUVYVVdJS1VUYkRkT0FaY2QxcnFBMk9jZ18yMnFvQ3BhbnhjVzl3TldvWm5JU3V4Q19xdFV6Q0pqNXdrMlNYekxXakt1Tklwai1FdDdOV3FlYUZFZG9tb3VxOFFrV2t0RHc0eFpidFdoMDc3eDFXQlNWYWlnLUlvc1RPTFZ3?oc=5"
         }
       ]
     },
@@ -210,14 +354,14 @@
       ]
     },
     {
-      "id": "5a4f4bd5dfdd",
-      "title": "As Artemis II is celebrated, the world faces hard questions about US leadership in space - The Conversation",
-      "published": "2026-04-13T04:55:53+00:00",
-      "summary": "As Artemis II is celebrated, the world faces hard questions about US leadership in space&nbsp;&nbsp;The ConversationWhat Do You Think About the U.S. Sending Astronauts to the Moon Again?&nbsp;&nbsp;The New York TimesArtemis II made a safe return from the moon. So what did we really gain?&nbsp;&nbsp;Scientific AmericanThis week saw humanity at its worst. Artemis II told the opposite story | Flynn Coleman&nbsp;&nbsp;The GuardianNASA’s Artemis II is delivering a jackpot of scientific data, Brown re",
+      "id": "2325bc06d6ff",
+      "title": "Covid Virus May Spread More Widely by Turning Lung Cells Into Targets, Study Finds - Bloomberg.com",
+      "published": "2026-04-13T03:57:00+00:00",
+      "summary": "Covid Virus May Spread More Widely by Turning Lung Cells Into Targets, Study Finds&nbsp;&nbsp;Bloomberg.comView Full Coverage on Google News",
       "sources": [
         {
-          "name": "The Conversation",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcFh2eUZnd0RsTEs2UXFuQTRqSXNRbUxyZ1Z2N2dMaFpHYjFCQllBOVdESGdtdWFmSUJDY0RxdHRtSlpkM3JEb0JIbnRZZHRJQXM1NXJiZ2pRNHRxdkROcThONzRIb3BYbnAzSExRcGtqSXNVQTVqQVhibGVBVXVRQS11ZmVjb3lfcWJBVW5vcUI1NGcwQmJSSF92Y1ByaU5SUEpIbndsdGxlTEp0REw1Rk51d29rcF9XRFY3dng4Yw?oc=5"
+          "name": "Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYk5NeF9lQVJkMUo4NWlJMlpVcVhmT2hCWDc5WldCVUJOS1ZsUVRoeDgwT3Q5V0IyLTVQczZkQlN5Q2RRd0YzY1F6N2llZVdxamVBWFNoYkpVOW5BOGtIdGVtOE96MGhXVm9ya2hsQVNaVFROMkNBeW85NGwtaG9Fd3R6R1FuSU5iTU9xNlNOOGFHUE81a0xOU2ppejAxNm9UVlB1WVBubXYtR3hDYmhjUWdrNExpc0t2TS1uLUdKNE1aVWFhbFE?oc=5"
         }
       ]
     },
@@ -225,7 +369,7 @@
       "id": "dc77fbd2ff6e",
       "title": "The truth about the 40-cent supplement that promises to slash heart disease risk and naturally lower cholesterol - Daily Mail",
       "published": "2026-04-13T03:33:51+00:00",
-      "summary": "The truth about the 40-cent supplement that promises to slash heart disease risk and naturally lower cholesterol&nbsp;&nbsp;Daily MailWhat Happens to Your Body When You Eat Garlic Every Day, According to Nutrition Experts&nbsp;&nbsp;marthastewart.comFrom Boosting Immunity To Digestion Aid: DYK Garlic Has Many Health Benefits&nbsp;&nbsp;Republic World",
+      "summary": "The truth about the 40-cent supplement that promises to slash heart disease risk and naturally lower cholesterol&nbsp;&nbsp;Daily MailWhat Eating Garlic Every Day Does to Your Body, According to Nutrition Experts&nbsp;&nbsp;marthastewart.comFrom Boosting Immunity To Digestion Aid: DYK Garlic Has Many Health Benefits&nbsp;&nbsp;Republic World",
       "sources": [
         {
           "name": "Daily Mail",
@@ -254,18 +398,6 @@
         {
           "name": "Earth.com",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdDRJSGttWjZVV2Y3SW52ajZUMGxZWnhmbWtJdWhLVkRGblZFc3hBQkxkdnpSRWNXZGtKdzFHdXhOUWFXeDlhbDRybnVPUzlnOW1PTWtPdU14TjJOQVJLZEtRU051WVI3WTVxUG9tSHBQa2szRHhQc19kQ0Z5VTNtZ0o3SQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "af17ee5beabc",
-      "title": "'Stress speeds aging but it may be reversible', Israeli researcher says - ynetnews",
-      "published": "2026-04-12T22:40:21+00:00",
-      "summary": "'Stress speeds aging but it may be reversible', Israeli researcher says&nbsp;&nbsp;ynetnews",
-      "sources": [
-        {
-          "name": "ynetnews",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZbmQzVkhYN3pkVWV0N245ckhVdENqQkF3V2xiSTRnQXFsV2RfYU14cDdib0V4amVrNktkZDlOVFhmOEVoVmNHMDdNcWVKTTZEcG9FQkg4SlZ5X1VvaXlVX1R4SGRaQmxQdXc?oc=5"
         }
       ]
     },
@@ -309,35 +441,11 @@
       "id": "166fbee0d267",
       "title": "Scientists Discover Way To Treat Lung Cancer and Its Deadly Side Effect Together - SciTechDaily",
       "published": "2026-04-12T21:08:37+00:00",
-      "summary": "Scientists Discover Way To Treat Lung Cancer and Its Deadly Side Effect Together&nbsp;&nbsp;SciTechDailyView Full Coverage on Google News",
+      "summary": "Scientists Discover Way To Treat Lung Cancer and Its Deadly Side Effect Together&nbsp;&nbsp;SciTechDailyLipid nanoparticles deliver dual therapy for lung cancer&nbsp;&nbsp;Drug Target ReviewResearchers find way to treat lung cancer and associated muscle wasting at the same time&nbsp;&nbsp;EurekAlert!Researchers Develop Dual Treatment for Lung Cancer and Muscle Loss&nbsp;&nbsp;National TodayScientists Discover Dual Treatment for Lung Cancer and Muscle Wasting&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
           "name": "SciTechDaily",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbWNJR2hweElHU1NhMk4wYnhRaldxZUVtUFpmNm9DYmtONmVPUFk4b2tqZl9EYlJYSGZrVUNLS0ptRjI2NzBGa1NaM3VqUHBlSVctOFVpTjREbGQ0WHp3Mk9rN05SMW1TMkNDdzR3UGVzNjZ4dkZJTlRlVUdSelpJZzlxMmJLRWxzcnlYYWQ4T1BQbkdNa2tfTy1fbEdVdzcxNjFPX1FGUjEtdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ab4a0880e501",
-      "title": "Cold sore virus left mum with brain damage - Yahoo",
-      "published": "2026-04-12T20:45:25+00:00",
-      "summary": "Cold sore virus left mum with brain damage&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa2Y5YkhCeUI5dEs5Tm5TN1Fid082SjNZWHl5OHpEVnVXc1FqZGI5SUpJd2ZBNm9vdFQ2YkwzaFpjRFdwbW9FN3NnbkRxcUdfLTk2cXlTeTVwWWFxZVlxeHloWmhVdm9QLVRPS2ZvXzYzcERkUlNQcXhoZlU4RzNURQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5b19a4611465",
-      "title": "Artificial Sweeteners May Harm Future Generations, Study Suggests - SciTechDaily",
-      "published": "2026-04-12T20:33:06+00:00",
-      "summary": "Artificial Sweeteners May Harm Future Generations, Study Suggests&nbsp;&nbsp;SciTechDailyPopular sweeteners may impact metabolism across generations&nbsp;&nbsp;News-MedicalAre sugar substitutes healthier than the real thing?&nbsp;&nbsp;The EconomistConsuming artificial sweeteners may raise diabetes risk for your children and grandchildren&nbsp;&nbsp;The IndependentArtificial sweeteners: Why the science war is raging on&nbsp;&nbsp;FoodNavigator.com",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcTk2Z3JJenVtdW9WRTljdnFkTHY4bTRqLXhDaUpfRDd4STAtLUhvMG1BRzJqVmtoci01endZUW1Kc0JMOXJHN3dHbFVJRk16TGxVZ3FKYUV2MjJEQnRCYnlNYm1BTTdJYXQ3ek0tZDM5QWR4T1BNQmNOTFhnOUFwbklRNzFMU2djdDNRWENiczY0dXJr?oc=5"
         }
       ]
     },
@@ -393,7 +501,7 @@
       "id": "c3b712c12b72",
       "title": "Extinct ice age giants in Bender's Cave challenge existing climate records for the Edwards Plateau - Phys.org",
       "published": "2026-04-12T18:00:03+00:00",
-      "summary": "Extinct ice age giants in Bender's Cave challenge existing climate records for the Edwards Plateau&nbsp;&nbsp;Phys.orgLion-sized Armadillo and Giant Tortoise Found in Texas Cave Surprise Paleontologists&nbsp;&nbsp;ZME Science'Bones all over': UT paleontologist finds 100,000-year-old fossils in Central Texas cave&nbsp;&nbsp;Austin American-StatesmanToday on Texas Standard: Ice Age fossil discovery in Texas reshapes understanding of prehistoric wildlife&nbsp;&nbsp;Texas StandardWord Wrangler: Apri",
+      "summary": "Extinct ice age giants in Bender's Cave challenge existing climate records for the Edwards Plateau&nbsp;&nbsp;Phys.orgLion-sized Armadillo and Giant Tortoise Found in Texas Cave Surprise Paleontologists&nbsp;&nbsp;ZME Science'Bones all over': UT paleontologist finds 100,000-year-old fossils in Central Texas cave&nbsp;&nbsp;Austin American-StatesmanTexas Standard for April 13, 2026: Ice Age fossil discovery in Texas reshapes understanding of prehistoric wildlife&nbsp;&nbsp;Texas StandardWord Wran",
       "sources": [
         {
           "name": "Phys.org",
@@ -402,10 +510,22 @@
       ]
     },
     {
+      "id": "ade8cd73f85f",
+      "title": "Brain drain risks costing Britain ‘science superpower’ status - The Times",
+      "published": "2026-04-12T17:00:00+00:00",
+      "summary": "Brain drain risks costing Britain ‘science superpower’ status&nbsp;&nbsp;The Times",
+      "sources": [
+        {
+          "name": "The Times",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR0F6bWdscWphYURTcW1pT1V2UFJ3RGJZRXNXYm01czhGUU9CbjlwUmJoSkVVM1lXME91ODdQSjRlYXdnUjFKU1JJa3BkX3hvOUliSUUxSnNCUEdKTGtWQU5IS1NZXy1zQ1dhMXc1c0JqVXY2dHg1aVJWUktSS1V4OThNX0xJSmkybjFYZnA4NUlNRGY3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ec9c5279565f",
       "title": "Artemis II pilot Victor Glover praises God after return, says mission was 'too big to be in one body' - Yahoo",
       "published": "2026-04-12T16:53:07+00:00",
-      "summary": "Artemis II pilot Victor Glover praises God after return, says mission was 'too big to be in one body'&nbsp;&nbsp;YahooThe 6 Words an Artemis II Astronaut Told His Wife From Space Is Warming Hearts&nbsp;&nbsp;TODAY.comVictor Glover's First Words After Returning From the Moon Will Tug At Your Heart&nbsp;&nbsp;YahooThe Heavens Are Still Declaring—and Not Just to Astronauts&nbsp;&nbsp;The Gospel CoalitionCircling the moon, a Black astronaut inspires millions&nbsp;&nbsp;Reuters",
+      "summary": "Artemis II pilot Victor Glover praises God after return, says mission was 'too big to be in one body'&nbsp;&nbsp;YahooThe 6 Words an Artemis II Astronaut Told His Wife From Space Is Warming Hearts&nbsp;&nbsp;TODAY.comThe Heavens Are Still Declaring—and Not Just to Astronauts&nbsp;&nbsp;The Gospel CoalitionVictor Glover, The First Black Man to Travel To The Moon, Has a Family You Will Love&nbsp;&nbsp;The RootCircling the moon, a Black astronaut inspires millions&nbsp;&nbsp;Reuters",
       "sources": [
         {
           "name": "Yahoo",
@@ -438,6 +558,18 @@
       ]
     },
     {
+      "id": "79b9753728a7",
+      "title": "These 5 Fruits Can Help Lower Your Colorectal Cancer Risk, According to Gastroenterologists - AOL.com",
+      "published": "2026-04-12T15:38:03+00:00",
+      "summary": "These 5 Fruits Can Help Lower Your Colorectal Cancer Risk, According to Gastroenterologists&nbsp;&nbsp;AOL.com",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14aHppM2o0V1ZZYzg3clF2aV9xOXllSjJlbGJoRWI2NkUzcXBTYjdiNkJxQzRYekl2ZHp2aU1HVXJLUVdOYVROTmMxa3l4S1hyRGdLZThiUVB0MUdOQTg1RWdjX25WaTRwd2pVTi1wcWZ4Ync?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5efc71b05502",
       "title": "Scientists Grew a Brain in a Lab and Now They’re Asking If It Can Feel Pain - Indian Defence Review",
       "published": "2026-04-12T14:54:54+00:00",
@@ -453,7 +585,7 @@
       "id": "215faf1063a5",
       "title": "Reduced gray matter and altered brain connectivity are linked to problematic smartphone use - PsyPost",
       "published": "2026-04-12T14:15:16+00:00",
-      "summary": "Reduced gray matter and altered brain connectivity are linked to problematic smartphone use&nbsp;&nbsp;PsyPostResearch Warns Of Odd Affliction Affecting People Who Scroll On Their Phone For More Than 2 Hours A Day&nbsp;&nbsp;YourTango10 Studies Reveal What Phones Are Doing To Our Minds (P)&nbsp;&nbsp;PsyBlogDoomscrolling at night could be ageing you faster, warns neurologist&nbsp;&nbsp;Moneycontrol.comMaybe it is that damn phone&nbsp;&nbsp;The California Aggie",
+      "summary": "Reduced gray matter and altered brain connectivity are linked to problematic smartphone use&nbsp;&nbsp;PsyPostResearch Warns Of Odd Affliction Affecting People Who Scroll On Their Phone For More Than 2 Hours A Day&nbsp;&nbsp;YourTangoScreen Time Linked to Sleep Disorders: Ranchi Experts Warn of Digital Age Insomnia&nbsp;&nbsp;The Times of India10 Studies Reveal What Phones Are Doing To Our Minds (P)&nbsp;&nbsp;PsyBlogMaybe it is that damn phone&nbsp;&nbsp;The California Aggie",
       "sources": [
         {
           "name": "PsyPost",
@@ -477,23 +609,11 @@
       "id": "7ee904ee4838",
       "title": "Study Finds Three Distinct Types of Black Hole Mergers - Ground News",
       "published": "2026-04-12T13:49:02+00:00",
-      "summary": "Study Finds Three Distinct Types of Black Hole Mergers&nbsp;&nbsp;Ground NewsAstronomers find evidence for three subpopulations of merging black holes&nbsp;&nbsp;Phys.orgOver 150 mergers reveal three distinct black hole origins, challenging unified model&nbsp;&nbsp;Interesting Engineering",
+      "summary": "Study Finds Three Distinct Types of Black Hole Mergers&nbsp;&nbsp;Ground NewsAstronomers find evidence for three subpopulations of merging black holes&nbsp;&nbsp;Phys.orgOver 150 mergers reveal three distinct black hole origins, challenging unified model&nbsp;&nbsp;Interesting EngineeringBlack Hole Mergers: Astronomers Have Identified Three Subtypes of These Objects&nbsp;&nbsp;Universe Space TechScientists discover three types of binary black hole mergers in the universe—here's what they are&nbs",
       "sources": [
         {
           "name": "Ground News",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSTZZSTFCdTU1dDB0cm81Zmh5end5SFNDbk1rekx6em1ZY1A4c3ZlZllxbUR0Ri1YRzZWWGJvZXVqaHdleHdmeHVOTTZsT0pjc2p4Q0hOcE52WG42NGtBRTNVWUJJOWVhWFhneXZqdS1WYUhuNFhwaFVwa2Z3OTZENDVBYXBSa19mUWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "af4b9e65c83a",
-      "title": "SpaceX Launches Historic Cygnus XL, Delivering 5 Tons of Supplies to ISS - The Daily Galaxy",
-      "published": "2026-04-12T13:45:00+00:00",
-      "summary": "SpaceX Launches Historic Cygnus XL, Delivering 5 Tons of Supplies to ISS&nbsp;&nbsp;The Daily GalaxyLive coverage: Space Station to capture, berth Cygnus XL ’S.S. Steven R. Nagel’ cargo spacecraft&nbsp;&nbsp;Spaceflight NowCanadarm2 Reaches Out and Captures Cygnus XL Cargo Craft&nbsp;&nbsp;NASA (.gov)SpaceX launches huge 'Cygnus XL' cargo ship carrying over 5 tons of supplies to ISS astronauts (video)&nbsp;&nbsp;SpaceSpaceX Falcon 9 rocket transits the sun during Florida launch&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "The Daily Galaxy",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55UUdzUWNaOXUxQnZDdEtBcS1UbHYtTnNUejVfT0huOWllQ0JfVFVJYkJkTWJOOXJoM2h0am9fWUxBckZudkhtX2ZEOTdyQWMwbUtIcUNqd3ctN3pZbVJianNpajllMEk5VV8xaE83N3JUNENsaE82WA?oc=5"
         }
       ]
     },
@@ -506,18 +626,6 @@
         {
           "name": "EatingWell",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUU1kSEdDaXdCOUpDNWJpUjVKTGt6OFFCVFdIRWVFdEh0REd4ZHN6a0lPRmk2ZXlVR0o4Q3prd3pnWHUtcFZzLXRPTVI1aExKY25GZy1KVkYyZ1p0aTBJUnJxazdjRW9UTnZHdlRMYmctRFlsV1BZQXc0OWdReVl5U0lmT2tGVGtiNENIcg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d8e56d67a871",
-      "title": "Neurologist says 'cut cholesterol, blood pressure and dementia risk in 20 mins' - The Mirror",
-      "published": "2026-04-12T13:19:00+00:00",
-      "summary": "Neurologist says 'cut cholesterol, blood pressure and dementia risk in 20 mins'&nbsp;&nbsp;The Mirror",
-      "sources": [
-        {
-          "name": "The Mirror",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVXZ0UEM4U1RqUlMza1hVbUpTTk5uRDlldXFhLUY2UjRlRU9vVFhOS0ROd3lLdzVCRHJJYUgzNEtPMktLV3dhaG9FY01FYjVFTzZzQmQyUVRLTUhadllmWmcxMGt3UjJUa1lTTVhpVkVXUHZxRGlBdVBwYzM4eEF0cGV0Z2dUcWtVbVNEcNIBkgFBVV95cUxPYU1QNHlXcGZYWlNkNUVORVYyWldiQWtrckRaYUpQVzdvU3dYN2NWTWpNNEhqd2JfbDk0ZDMyeXpOc2JKWkF5SjVUdkFWVzRQOWhxYzdOOFFKcVBWVW14dnVVZlMzNEVNWlo5c1FQU3pCZE8zbURyZER0VF9iN2ZjNVQxTEl2Z01xVEk5LThQc3VKdw?oc=5"
         }
       ]
     },
@@ -537,7 +645,7 @@
       "id": "7e7d95154e7e",
       "title": "Why Ozempic doesn’t work for everyone: Scientists just found a hidden reason - ScienceDaily",
       "published": "2026-04-12T13:03:28+00:00",
-      "summary": "Why Ozempic doesn’t work for everyone: Scientists just found a hidden reason&nbsp;&nbsp;ScienceDailyGenetic predictors of GLP1 receptor agonist weight loss and side effects&nbsp;&nbsp;NatureGenes May Predict How Much You’ll Lose on a Weight-Loss Drug&nbsp;&nbsp;WSJGLP-1 weight loss, side effects linked to genetic variations&nbsp;&nbsp;ReutersWeight-loss drugs: Who benefits most and why?&nbsp;&nbsp;BBC",
+      "summary": "Why Ozempic doesn’t work for everyone: Scientists just found a hidden reason&nbsp;&nbsp;ScienceDailyGenetic predictors of GLP1 receptor agonist weight loss and side effects&nbsp;&nbsp;NatureOne in 10 people may have resistance to GLP-1 diabetes drugs&nbsp;&nbsp;Stanford MedicineGenes May Predict How Much You’ll Lose on a Weight-Loss Drug&nbsp;&nbsp;WSJGLP-1 weight loss, side effects linked to genetic variations&nbsp;&nbsp;Reuters",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -582,18 +690,6 @@
       ]
     },
     {
-      "id": "d8d1bacd350c",
-      "title": "What causes heart attack? Cardiologist explains the silent, ‘lengthy’ process that happens inside your arteries | Health - Hindustan Times",
-      "published": "2026-04-12T11:57:45+00:00",
-      "summary": "What causes heart attack? Cardiologist explains the silent, ‘lengthy’ process that happens inside your arteries | Health&nbsp;&nbsp;Hindustan TimesCardiologist explains why silent heart attack is dangerous, shares 5 signs: Shortness of breath to increased anxiety&nbsp;&nbsp;MSN'Silent heart attack' warning many brush off as 'anxiety' or 'acid reflux'&nbsp;&nbsp;Lancs Live",
-      "sources": [
-        {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNWXhPMlJTckxUWllMaW5rc1JIWEpBQmx2LUdKMGtBSWN1QVpSWmlaR3M2bXd6STlCS2RfbFNXYWYxazFSOU0td3BOZnBGbUkxTnhQWndVbUp0U2U5aFRVbm4tVUpIRGRPLU5ETEdCTHM1cFpsWnYxN1NXYTgtUDVmT0Z1d01wLUFRdTQtb3RMMG5jUlNyZm1VSHBCYU8yLXBFa1A0MEVUNjZGckxycVRDc0hBUXI0alJUM2hYZWUycENJTDlOX0lsZ3FGU205REJ1VjdXNklheWV4Mzl6b25sWENScFZ6c05PVkIydEdXS1dxY1N0QlhxMDZwa1VvM0ZjdzhNTnI3c9IBjAJBVV95cUxNdjhRbVBaZVNYeWRnTVQ5RV9SUjhkUnZlWjZVZGl2TVpCenp4ZnpTLWVUcldJckNONGt4U1J0SVVOTk56aExTdkFuWXhOYmJvVEswVUpmY3V6cHlPeHZyX2FsYXJ4bWhIX2FlZlp6TGliNlZsR0FqM0xSOEhaMFBHME9obEdVUHFJd3FaUmpFaFZDX0VCbnZhZ2xrdl9LZDZGZzFLNHhtLUcyVVdLdE9wcnA1Vm5ON29UNC1SUFZrdXAtaThxaEhDbG9YWlg3RHc4MGh2eFBGUnFKek0welctQ1J1bENKV3IwQlhQQkJvYjRQb3JXWUpDUHZlTUNKU0lGNjNITTZGcFRWMVNq?oc=5"
-        }
-      ]
-    },
-    {
       "id": "389988c65c60",
       "title": "Scientists Unveil Microscopy Breakthrough That Reveals “Invisible” Molecular States - SciTechDaily",
       "published": "2026-04-12T11:53:06+00:00",
@@ -621,7 +717,7 @@
       "id": "fbe77340edc2",
       "title": "A flu vaccine recommended for older adults could lower Alzheimer’s risk, research finds - San Francisco Chronicle",
       "published": "2026-04-12T11:02:06+00:00",
-      "summary": "A flu vaccine recommended for older adults could lower Alzheimer’s risk, research finds&nbsp;&nbsp;San Francisco ChronicleAlzheimer's Risk May Be Influenced by Flu Shots&nbsp;&nbsp;MedPage TodayRisk for Dementia Lower for Older Adults With High-Dose Inactivated Influenza Vaccine&nbsp;&nbsp;Infectious Disease AdvisorAlzheimer's: High-dose flu vaccine may cut risk by 55%&nbsp;&nbsp;Medical News TodayCommon vaccine slashes Alzheimer's disease risk when dose is increased&nbsp;&nbsp;Fox News",
+      "summary": "A flu vaccine recommended for older adults could lower Alzheimer’s risk, research finds&nbsp;&nbsp;San Francisco ChronicleAlzheimer's Risk May Be Influenced by Flu Shots&nbsp;&nbsp;MedPage TodayRisk for Dementia Lower for Older Adults With High-Dose Inactivated Influenza Vaccine&nbsp;&nbsp;Vaccine AdvisorWorld Health Day, new heart guidelines, a flu shot's surprising brain benefit and how to tame stress&nbsp;&nbsp;WKYCInfluenza Vaccine Dose and Dementia Outcomes&nbsp;&nbsp;Conexiant",
       "sources": [
         {
           "name": "San Francisco Chronicle",
@@ -654,34 +750,10 @@
       ]
     },
     {
-      "id": "f3571f422c7f",
-      "title": "Lower dementia risk by cutting down on common habit - The Mirror",
-      "published": "2026-04-12T08:42:00+00:00",
-      "summary": "Lower dementia risk by cutting down on common habit&nbsp;&nbsp;The MirrorCutting down on common habit linked to reduced dementia risk&nbsp;&nbsp;Glasgow LiveCoffee May Reverse The Effects Of Sleep Deprivation, But There’s A Catch&nbsp;&nbsp;SprudgeEarly Signs of Cognitive Decline Can Be Detected in Middle-aged and Older Adults with Problem Alcohol Use | Newswise&nbsp;&nbsp;NewswiseWhat to Know About Caffeine and Brain Health | Health Matters | NYP&nbsp;&nbsp;NewYork-Presbyterian",
-      "sources": [
-        {
-          "name": "The Mirror",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEZtLUFsMFlpTzRwR19OVElVTGRNMEhEODlCX3FaUENyNHd6S2pVOWFXbGlneEtTUnowRENodzNMZVF4ZWJPSWlOSUdqQkI2MEtUb25ZN09ueVBWM1ZTQXhkQW0zTnBoS1FiTFFDVTVxaE1mdWRCNTI0NUwxUjhXUWVhSzXSAYoBQVVfeXFMUERhRXlycVlzSG0yV1hvR09DaHFUbk53akJfWUxtTnhhQW11QTllMWZXSjBma3dyN0xsWlR1SWVqYU1LX05pc055dmhHYWNtOFMyTFFxUVhzMUlyWVdwU0ZFT1ljRUVWNmswS1FpZnNGRTNJQkgwUTFRVExnOVhIcF9WSDJlZ2lFb3Z3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a4f0b3aab943",
-      "title": "Omeprazole patients with acid reflux told 'red flag issue' by NHS GP and BBC star - The Mirror",
-      "published": "2026-04-12T07:41:55+00:00",
-      "summary": "Omeprazole patients with acid reflux told 'red flag issue' by NHS GP and BBC star&nbsp;&nbsp;The MirrorOmeprazole 'don't overlook' update over two health risks if used incorrectly&nbsp;&nbsp;Cambridge NewsSurvey finds new Omeprazole side effect as NHS doctor issues warning to takers&nbsp;&nbsp;LADbibleNHS doctor issues warning to Omeprazole takers&nbsp;&nbsp;LADbibleOmeprazole update as ‘inappropriate’ use linked to two major health issues&nbsp;&nbsp;The Mirror",
-      "sources": [
-        {
-          "name": "The Mirror",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMGRYczY2Qm5wQzd6ZEdQcEpkWlFRaGR4amg0Q0k0UGRsV3hRTjFVTlN4aE9Ld2JzdVc4azVoWHVvdGZoSUgxbUhBN1RWdHFFNVN1OFFQY01SMGpSUmRrdmd5TXE2SzZ5Y3ZFU0F3MWJ3bkI0b2lyX3plcERsaDBUeGZYUVg3TGdMN1HSAY8BQVVfeXFMTzVGX01yUktWek9iNlR5UGRpTXZqckNaeFpiWlY0QjZWNGFKZ3hrR3lsVlpfUDRESXM3WThMTzQyVFlWVEZXbGJaaFFqSnctRUs0VVRlZVpfMVl3R19hSURVQUhWbV9SeFRZZWhWM0d0MTBIZ2F4WndiR2EtZVdoZ19aSml5NjFUZVdTNk0xc2M?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6059e73f0c74",
       "title": "​Type 2 diabetes doesn’t start with high sugar: Early metabolic shifts that begin years earlier and how lifestyle changes can help reverse them - The Times of India",
       "published": "2026-04-12T06:30:00+00:00",
-      "summary": "​Type 2 diabetes doesn’t start with high sugar: Early metabolic shifts that begin years earlier and how lifestyle changes can help reverse them&nbsp;&nbsp;The Times of IndiaMinutes matter most when exercising to control blood sugar&nbsp;&nbsp;Medical XpressTiny tweaks that can lower blood sugar without much effort&nbsp;&nbsp;Tribune IndiaIs Cardio Exercise Better Than Resistance When You Have Diabetes? Here's What Dietitians Say&nbsp;&nbsp;AOL.comDiet, exercise can reverse Type 2 diabetes, Montr",
+      "summary": "​Type 2 diabetes doesn’t start with high sugar: Early metabolic shifts that begin years earlier and how lifestyle changes can help reverse them&nbsp;&nbsp;The Times of IndiaMinutes matter most when exercising to control blood sugar&nbsp;&nbsp;Medical XpressTiny tweaks that can lower blood sugar without much effort&nbsp;&nbsp;Tribune IndiaIs Cardio Exercise Better Than Resistance When You Have Diabetes? Here's What Dietitians Say&nbsp;&nbsp;AOL.comHeart of the Valley: How exercising can help comb",
       "sources": [
         {
           "name": "The Times of India",
@@ -690,86 +762,14 @@
       ]
     },
     {
-      "id": "c85eddfc09b8",
-      "title": "Why You’re Not Losing Weight Eating 'Healthy,' According to Dietitians - AOL.com",
-      "published": "2026-04-12T01:43:41+00:00",
-      "summary": "Why You’re Not Losing Weight Eating 'Healthy,' According to Dietitians&nbsp;&nbsp;AOL.comFitness coach with 18 years of experience shares 3 reasons why you are not losing weight despite putting in the effort&nbsp;&nbsp;Hindustan TimesNot losing weight despite diet and exercise? Longevity doctor shares 7 reasons you are not seeing results&nbsp;&nbsp;India TV NewsWhy diet and exercise may not lead to weight loss&nbsp;&nbsp;newskarnataka.comFitness trainer warns these ‘healthy foods are keeping you",
+      "id": "549a74d90e9b",
+      "title": "Eat This Food Every Day to Slow How Fast You’re Aging - VICE",
+      "published": "2026-04-12T05:30:00+00:00",
+      "summary": "Eat This Food Every Day to Slow How Fast You’re Aging&nbsp;&nbsp;VICELongevity after 45: 5 diets that can add up to 3 years to your life&nbsp;&nbsp;Paris Select BookDiets for ageing and longevity&nbsp;&nbsp;Jamaica ObserverA scientist's list: 6 research-backed eating strategies to slow down aging&nbsp;&nbsp;FoodService Director‘I’m a Longevity Expert—Add These 3 (Delicious) Foods to Your Diet if You Want To Live Longer&nbsp;&nbsp;Parade",
       "sources": [
         {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IcU1wWEJOMUhZOGV6aE4tZHBEbk5LNThqTVpYdVlSeDR6UURscmRMdTBnODktNGEwMGtybUdUeF9pcXVlUlBpNWVDdkJXS2ZrSWIwZEo3RVBmei10c3hGLTVVRXdnZmRMcG1CcVctRDI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "72d0a713e9b3",
-      "title": "Muscle loss could be your liver’s first distress signal: Hidden signs people ignore and how to protect liver health early - The Times of India",
-      "published": "2026-04-12T00:30:00+00:00",
-      "summary": "Muscle loss could be your liver’s first distress signal: Hidden signs people ignore and how to protect liver health early&nbsp;&nbsp;The Times of IndiaView Full Coverage on Google News",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPdXhid3JERTk1VU1kc3M2NndERUkxNXhtYnA1OTVsVWlGcTVnYlg2T3o4dk5SS2Zsb3RuWUNtczdpQ0ZvQVdsR3FKNTN0akNQcFczbTB5SlNpNkZ1UjkwWGNfNHBXZnBKY0x3QXhMeFFVZTdmQk41WGZhcmJCRFJMcVNCVWdnX3FiQjZQbmZiSmRkbTFhSmFYLVIzVFg5VlZUU1FwZ1RIUVE4QmN3SVFBS0NMWWpxQUxvMWMwVWpieGVTUlhfOFFuS05uTW9FZGZGZG9LVGFKajIwZEs2cXZZQUo2M2hkeFRIU0FJa2M1a1dRWWJOS3Q1UlFnczhEbU5zbnBPbzEyMWJCTU80LWJTMG82OGwzZ9IBngJBVV95cUxQQ0NrNnNBTlZKX0hMZ3loUWI3RHNOeGo0Q2tqVHdBWkVOWUhsZWMxcl9PVWNhSkNZS1ZGS3JrbFhIZmlXQndiNFhLM2tkSEpZUThaRW5lZjkyanhNQkkzc3J1dXhueUliSmFvRmJQQ0dIcWJWeDVQdm9ReFdrd0FzVERjanVGbktFSDZlLUdQd2dNcUx1azBpQmZEN2l6SWdKVkdiZ1BCRUFIYW15R0FZc0hGbFpDSklSRVNVSmNwYk53WnV2TW1WcVFiZy16anAtaDRoSDhSX2hPT1ZMMDdkRks3amIzTzZtQm5JSjZOdll5MXU2MjdTSXJaMTVmVmM2b2N4LVNUZEV6Smg5U1lpYnVxWXZBVi1qRERRaTl3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0eb1ded3fbc2",
-      "title": "Researchers Have Found a Dietary Compound That Increases Longevity - SciTechDaily",
-      "published": "2026-04-11T22:19:32+00:00",
-      "summary": "Researchers Have Found a Dietary Compound That Increases Longevity&nbsp;&nbsp;SciTechDaily",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM3dIWUNYajZzSUFuRmJWdTdzaFBSQ1ZRUHNhQm53bnQ3MXVaMG1WdHFtMDBlRUtiNFJCT1d3VVRMUlR1VGpQbWFxTWo4bHdPNUJueUN3N3hxWFhrLVh1ek9fYXE3akRCTVU3NUsyMXpCVTl0Mjd5WVZWbWN3dmhaNHFlZTFGOEtUTktBb3ZmWXdWY1F6eGtF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3747a4fc24b1",
-      "title": "Two simple eating habits linked to lower weight, study finds - ScienceDaily",
-      "published": "2026-04-11T19:31:18+00:00",
-      "summary": "Two simple eating habits linked to lower weight, study finds&nbsp;&nbsp;ScienceDailyLong-term weight loss: Scientists link two meal timing habits to 'better calorie burn' and lower BMI&nbsp;&nbsp;GB NewsTwo simple habits are the key to healthy weight&nbsp;&nbsp;newsreel.com.auThe 10-Hour ‘Non-Diet’ That Improves Sleep, Energy, and Metabolism&nbsp;&nbsp;Elite Traveler",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54UmdWbldWelJfaFpqNHV3VFdfSkFvUTdNeHp5RVlGTmhaUjBZYzB1WjdydGVuYWktOXBiWVNLS1NzMHpKR3ZLd1F6dVRHY2dNQ0hEbnROTnhQRHdKYVE3d1dPNXA2V19mQVZhQUpsbw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9ba4ce876643",
-      "title": "Brain’s Endurance Program: Hypothalamus Remembers Exercise - Neuroscience News",
-      "published": "2026-04-11T19:25:32+00:00",
-      "summary": "Brain’s Endurance Program: Hypothalamus Remembers Exercise&nbsp;&nbsp;Neuroscience News🧠 Sports Lastingly Change Your Brain&nbsp;&nbsp;Techno-Science.netBoost your memory in 20 minutes with ‘brain ripple’ workouts – here’s how&nbsp;&nbsp;womenshealthmag.comStudy shows brain cells boost endurance benefits of exercise: Newsroom&nbsp;&nbsp;UT Southwestern Medical CenterA no-brainer? Exercise may rewire your brain for better endurance&nbsp;&nbsp;Dallas News",
-      "sources": [
-        {
-          "name": "Neuroscience News",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUTENNc2ZSVzExaW94SWNUZmIwMmJaZUJIYmtWdU1yUUdVMzFFWWkySGlRazFtdGdjNlVvNEptcTI3ZzNsSjgtNXBDZXUyVWQ0aGQzS3FoRjNqemNKVmFDVF9UUlU1TlJreHZJeG0yZDRvSVdaZXRubElrZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "669379a9f456",
-      "title": "Parkinson’s Meds Accidentally Trigger Bacteria to \"Eat\" Levodopa - Neuroscience News",
-      "published": "2026-04-11T18:37:50+00:00",
-      "summary": "Parkinson’s Meds Accidentally Trigger Bacteria to \"Eat\" Levodopa&nbsp;&nbsp;Neuroscience NewsA drug–microbiome–drug interaction impacts co-prescribed medications for Parkinson’s disease&nbsp;&nbsp;NatureParkinson’s drug may backfire, study finds&nbsp;&nbsp;Longevity.TechnologyCOMT Inhibitors May Fuel Gut Bacteria That Degrade Levodopa in Parkinson’s Patients&nbsp;&nbsp;drugscontrol.orgParkinson's add-on drugs may spur gut bacteria that break down levodopa, study finds&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "Neuroscience News",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSlJYWUNobGRtNGwtZEN4M0hhTUg3bXRsUTZJV0VKVnRIYW1uV3RBSVFMMGNnQ3p3UDhsdlRqd1ZkVmVwYWpOTGhiaXhGb0RNRWc4Vnp2dlN3TExVaHBtcjBiZDRfR0ppczRlaXN0c1l6dkwxcU96d1EtOVE4T0RUNw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fcd5bb03b3d3",
-      "title": "These 3 Vitamins Could Help Reduce Your Stroke Risk, According to a New Study - EatingWell",
-      "published": "2026-04-11T18:00:00+00:00",
-      "summary": "These 3 Vitamins Could Help Reduce Your Stroke Risk, According to a New Study&nbsp;&nbsp;EatingWell",
-      "sources": [
-        {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcWlHY0o3Z1RMbjRZdnJVWUJXdjBYTWtvbjVmeHFLenlfQzJZcWJTZXRVd0xQZFFuYmZqdWtYTW5jcTJibmJYR2FiTENNWllKZkZwNm9ENWVva284OUctN3FVa0hYbWNJRzQ0MFF6UHpnTmtJelFUS3FQdlV5NFVpMDFDbFFid2hBMWZhYkNB?oc=5"
+          "name": "VICE",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObjJUczRtWEhhVG5feXFKdXNxU21scWpMbzhzSElzYkJUTUQxQm9PUlB2TDhJS0hmTjdUeEtzRGVVY2pDb3BlTm9pVDhoRzEwTHB0NFdFRlhoQXZYdWN4bHAwTlMyZFBxU1hlQ2R1cGtLRDFJdjBBWlFIQ1lzdm9pSmVnNVRhSkg4b0JyMnhn?oc=5"
         }
       ]
     }

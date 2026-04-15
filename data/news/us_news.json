@@ -1,19 +1,151 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-04-15T13:45:01.986265+00:00",
-  "total_fetched": 136,
-  "unique_count": 136,
-  "health_related_count": 69,
+  "fetched_at": "2026-04-15T19:22:34.682837+00:00",
+  "total_fetched": 139,
+  "unique_count": 139,
+  "health_related_count": 71,
   "news": [
     {
-      "id": "02b32d7e9b8f",
-      "title": "I'm an allergy sufferer in the spring — here's how I still manage to open my windows - AOL.com",
-      "published": "2026-04-15T12:27:07+00:00",
-      "summary": "I'm an allergy sufferer in the spring — here's how I still manage to open my windows&nbsp;&nbsp;AOL.comAllergy Season Has Never Been Worse. Glamour Wants to Make It a Little Better&nbsp;&nbsp;glamour.comSneezing through the semester: How Houston’s allergy season hits students&nbsp;&nbsp;The Rice ThresherTop tips for managing allergy symptoms&nbsp;&nbsp;UnionLeader.comWarm, wet weather sparks strong start to Erie's spring allergy season&nbsp;&nbsp;Erie Times-News",
+      "id": "1eb0e2633ce0",
+      "title": "Woman Diagnosed with Vulvar, Cervical and Anal Cancer After Learning Her Husband of 30 Years Had Cheated on Her - AOL.com",
+      "published": "2026-04-15T18:31:16+00:00",
+      "summary": "Woman Diagnosed with Vulvar, Cervical and Anal Cancer After Learning Her Husband of 30 Years Had Cheated on Her&nbsp;&nbsp;AOL.comWoman Diagnosed with Vulvar, Cervical and Anal Cancer After HPV Diagnosis&nbsp;&nbsp;People.comHPV vaccine can prevent cancers; Alabama leads elimination effort&nbsp;&nbsp;WSFAWoman develops 3 cancers after husband cheated — and learning she had a cancer-causing STI&nbsp;&nbsp;New York PostFlorida Woman Says Husband’s Affair Led to HPV and Three Cancer Diagnoses&nbsp;",
       "sources": [
         {
           "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ0Y0b1dYcEd3YkthMm5LSDVDX29JUzdHdTVYZnhSdDE5R21VeFdNSVpIOVd2Qks3czUwNDRKNUh3bTlzZkh4dm5yVGttSUE4OUx1MXYtSzJXWTI3Nlpmb1dVQk1pTDYwOWdTVFl5UU5HaEJfeUtORXNXbXZzRENIX0hVSmdjb3V0bXNYTUV0Z3lTRnlzRGt3dG56aWl2QlVFUVJvX0FaSUF6YkRsNmFOYXJYdUVONkNzdDN3THZQVTVvUVYyWGVPbXFnNEpHRUs3TGJIOQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZTml3RlUxXzhOcGJvTXRMMWJpeWdTbUFGVUFIaW10Qm1uODliZ2FyMUlqd0l4NWN1NTg0WFlxYmgxTUVfWWdkenVfS25PSTVUb2FRMGtmN1dycmVhcENxRmlWNTZZS2VJSzQ1N29ua29sbnc0TmRIUHJYTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5e3e4d5a9867",
+      "title": "Sperm whales’ communication closely parallels human language, study finds - The Guardian",
+      "published": "2026-04-15T18:16:00+00:00",
+      "summary": "Sperm whales’ communication closely parallels human language, study finds&nbsp;&nbsp;The GuardianWe’re one step closer to understanding the sperm whale ‘alphabet’&nbsp;&nbsp;National GeographicScientists Found Human Speech-Like Patterns in Sperm Whale Clicks&nbsp;&nbsp;ScienceAlertSperm whales may make their own vowel sounds, similar to human language&nbsp;&nbsp;Scientific AmericanCETI / SETI: The Phonology Of Sperm Whale Coda Vowels&nbsp;&nbsp;astrobiology.com",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOamtYRFY4cFlGWVkwLXZnVXlvM3QwSFpwU1V1bUxQckpmN0w3VDdfR3NtY2JqejVzbHI4aUFzZGlzdzJoLS1NdkpsUHJ5aGp1OEhnelFTaTE0YzJJb0xad3M3QzJlUzMtdHJPa0dmMVFkSDdBbXRnVnlGX0tWNmgtaVNvNDFkT0Y0ZTFoVENqUkM1amlxaVROLWFwb2pHeVZhYkJGaA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8b2c6655cdd0",
+      "title": "CDC warns new drug-resistant virus is rising in the US and posing major 'public health threat' - Daily Mail",
+      "published": "2026-04-15T16:29:19+00:00",
+      "summary": "CDC warns new drug-resistant virus is rising in the US and posing major 'public health threat'&nbsp;&nbsp;Daily MailCDC Warns Drug-Resistant Shigella Infections Are Rising in the U.S.&nbsp;&nbsp;People.comCases of drug-resistant infection that causes diarrhea are rising: What to know&nbsp;&nbsp;The HillShigella, diarrhea-causing infection, increasing in US, CDC says&nbsp;&nbsp;USA TodayDrug-resistant Shigella threatens young children globally&nbsp;&nbsp;UW Medicine | Newsroom",
+      "sources": [
+        {
+          "name": "Daily Mail",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTXlPWjhReVNPVWVLQlFSZ0M5SzgxNDBYbFc2NkE0aW9rNXNTMWRvMnNJRkdOWW9CU09hVEVNa2dDZENHU092cV9CVDBiZGJuS2dOSERIR2p4aFlBZXV5Y3A3OVd3RXRUWE9HbFdBUFdxX09xRnoydlEwSlZZOHdLOEZOZHFnbVJjU2JhbW5HREtzR1RFcHNWek1EZzBmSng3Vnpvb1VhZE15REHSAbABQVVfeXFMTlZya0tHLTlUcXVBaENHXzNEVWIxbG13VGFhMkRWX3pzNjJRLUpEc1dhYTBpbkRWS2FBU3VUdjc3dFVtZTVob21UNTE4ekxaZGdQU1NhcmdUYTZ2ZzJVSFNwSDVDeGRXNEN2eFdzUTNrQUY2dXBLZjcybWJvSzVkOXpycEtLbWpZVGl5T1YtbFJjQV9Kdk9RZ1VCUFFyQVc1a1dGRk9WXzl5b1JVbm0yUXQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "12c993bc736a",
+      "title": "Want to control your blood sugar? Here’s the best time of day for exercise. - The Washington Post",
+      "published": "2026-04-15T16:00:00+00:00",
+      "summary": "Want to control your blood sugar? Here’s the best time of day for exercise.&nbsp;&nbsp;The Washington PostDon't feel like exercising? Maybe it's the wrong time of day for you&nbsp;&nbsp;BBCHow matching workouts to body clock can cut risk of heart disease&nbsp;&nbsp;The TimesTiming exercise to match body clock chronotype may lower cardiovascular disease risk&nbsp;&nbsp;Medical XpressMorning Versus Evening Exercise for Blood Pressure Control in Hypertension: A Systematic Review of Randomized Contr",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc2FteWRsZG5TUk9IRGxaTjJ5dDRpZXUzblFqSUctbGxuS2J6OXoyNnlXRU1MbUZ3dEI0ZFJDeS1FZ2VldDM3blN2VURIbWU2RkJlcXA2SXhoUmo5TWdTa0w4dUItS3BUWGdPMW1rQk1ORzQ2eWxNMGs4aE96US1SVlhCaGNVZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6791865a7eeb",
+      "title": "Doctors expose ‘buffalo hump’ as potential sign of hidden health conditions - AOL.com",
+      "published": "2026-04-15T15:42:39+00:00",
+      "summary": "Doctors expose ‘buffalo hump’ as potential sign of hidden health conditions&nbsp;&nbsp;AOL.com",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tcXF6VW5qX0hFdjVJM1hfVlJSOENuckY5NHFkU1RyangxWGUtT1BCaGVIRlVPNW9zVUxjMFVsNHVHaFlmbUdrSUd4ejRMQTNYODNNdVJoczMySS1KWWVCWkFSVzNST09naDlab3JkeGZJMnV2Z3ZpdjN0X2Y?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "72c9fde1a052",
+      "title": "Tetanus Surveillance — United States, 2009–2023 - Centers for Disease Control and Prevention | CDC (.gov)",
+      "published": "2026-04-15T15:04:02+00:00",
+      "summary": "Tetanus Surveillance — United States, 2009–2023&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)",
+      "sources": [
+        {
+          "name": "Centers for Disease Control and Prevention | CDC (.gov)",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PRVZSSVJQNFo2NWR1V1BURjdsdnRzd3VSVnpQUGNnRGpkdDgtNkJ4ZXNrM0ZSa2dldUU3c1o0dnliSnN5Q20zRzhyUjdNM3BSWlllblBGd3Z4TnpaX0I3SA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3bb47000a5be",
+      "title": "Nature Is Still Molding Human Genes, Study Finds - The New York Times",
+      "published": "2026-04-15T15:00:09+00:00",
+      "summary": "Nature Is Still Molding Human Genes, Study Finds&nbsp;&nbsp;The New York TimesHow farming changed us: Ancient DNA reveals natural selection sped up in recent human evolution&nbsp;&nbsp;Phys.orgEvolution thinks red hair is desirable — but we don’t know why&nbsp;&nbsp;The Times'Human evolution didn't slow down; we were just missing the signal': Large DNA study reveals natural selection led to more redheads and less male-pattern baldness&nbsp;&nbsp;Live ScienceRyan Bridge: Congratulations to the re",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTXdZaTZ6enZPTGVrbDNZY3R6bm51NzVMVHhmQmR4a3d4MmYyVlJUZXhJdzI2bl9tVk5teDdwQ096MUFycnZ0STh2QXZ3N0NqN1JENnNPMUZZTDhIbE52alJqZzNLZ1lDTHN2TVp1MmtZTHhYUFhJclFaZ2RkdXJ2aFBqZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b8c8fa2f415f",
+      "title": "Want to Lose Weight Faster? New Research Says Just Start Eating the Same Things More Often - inc.com",
+      "published": "2026-04-15T14:25:11+00:00",
+      "summary": "Want to Lose Weight Faster? New Research Says Just Start Eating the Same Things More Often&nbsp;&nbsp;inc.comView Full Coverage on Google News",
+      "sources": [
+        {
+          "name": "inc.com",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVDJGVS1fbGtYSHZMaU1PZ0t1UHZ6YUtKTlRzOW9IZUZYZDJzd2J4WWxOaXVCRktGaFdNOUtOUEhodkdBbEJWQWxqc3hmY2FMTkpoUlVGb3NXTVZ2Mm94MUxtZU9hdjliU1JjMEptVy1OOWhvMnlKMWJQekdERUdxR3lIbnltODVWcklYa3ZYaDJMVXBIdUJFNlBQeGYzZlVkd0Rfbk5oYUNSeUVTZUR5QmZTYWdhT3l4OEI0OUlHak1MdnJwN0Rzdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "57e1492856da",
+      "title": "What’s the deal with Alzheimer’s disease and amyloid? - Ars Technica",
+      "published": "2026-04-15T14:11:02+00:00",
+      "summary": "What’s the deal with Alzheimer’s disease and amyloid?&nbsp;&nbsp;Ars TechnicaScientists say we’ve been treating Alzheimer’s all wrong&nbsp;&nbsp;ScienceDaily",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNFJkNDRsUS1meWRnd3lydFIxYTFCcmxsRUpzNnlmemhqZmg0Rk5FUVhMMlItYjhjS1F4MFZKOWR5OUxqWGZQUmFJNDJxR3BVcnBnaG1wOG9INFQ1WllYZEFESW00ZnFwbUNINnl2NnU5eUh5cERPVnF1NWRGdEUzLURGRXoxNXNSY21VaTQyUGFfN0l1SlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3497b7e33a4c",
+      "title": "What Happens to Your Blood Pressure When You Eat Sourdough Bread? - Verywell Health",
+      "published": "2026-04-15T13:40:00+00:00",
+      "summary": "What Happens to Your Blood Pressure When You Eat Sourdough Bread?&nbsp;&nbsp;Verywell Health",
+      "sources": [
+        {
+          "name": "Verywell Health",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcGNmUnp1UXRDN19nVVZuNXZwcUVpRmppN19tNUt1WGJodHdUaFFCdklybWNobnRUNjZKSzFjUTJaWUx4VWtJVkkzdUZMUXpfSXBkcTB0NDZjck5MdzI1aV9xT0g4dURjUkszV003ZnJJZEp1QldlTmhTWmE4SHltTE9XQjVsY3VzNWIyWm5ORDY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "337bdd267641",
+      "title": "Scientists Are Using Lightning in a Bottle to Turn Methane Into Methanol - Gizmodo",
+      "published": "2026-04-15T12:00:58+00:00",
+      "summary": "Scientists Are Using Lightning in a Bottle to Turn Methane Into Methanol&nbsp;&nbsp;GizmodoBottled lightning makes a cleaner fuel&nbsp;&nbsp;Phys.orgCaptured Lightning Powers Cleaner Fuel&nbsp;&nbsp;Bioengineer.orgClean Energy Breakthrough: Bottled Lightning Produces Methanol in New “Bubble Reactor”&nbsp;&nbsp;The Debrief",
+      "sources": [
+        {
+          "name": "Gizmodo",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUklmUEEwYUJYZGJRblE4ck9qaVNCekhPZGs5Y1doRXh3d1FHSTVqX2NoMExKLXk2LVEtbl83ZUVhRGpFNVVjU3c5ZHZiRkVOSUU0a0gtaVJvQ2hfWGw1eHJMemUzV1ItS2pTb09pYnR3WFhfMmI5ZEN3Y2FRWnpFUFprSUgwcFFWbEtlRDlHVzJVUTZ0enNua2tfNDVnQjhFMUJrTUdR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "67654aa5f682",
+      "title": "After 'unprecedented' results, SF researchers get closer to HIV cure - SFGATE",
+      "published": "2026-04-15T11:12:59+00:00",
+      "summary": "After 'unprecedented' results, SF researchers get closer to HIV cure&nbsp;&nbsp;SFGATE",
+      "sources": [
+        {
+          "name": "SFGATE",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ab19DMTgyTVNOY1poTlpzZXNsQ1ZOX1k2Vl9Lc1pWRHZfc1RlOThFMUxpZlVYb2RiZXVNV1RYa3h3cVVnekhKY1N1OFZVTTRiNWV0S2tUTjViN3lfRkdSdV9mZmJVX3RjSjJ1eDVuSDVsVW02U2lYUXNnNW16ajQ?oc=5"
         }
       ]
     },
@@ -21,23 +153,11 @@
       "id": "b268a78d7b78",
       "title": "You walk every day. You quit sugar. So why is your blood sugar still rising? Doctor explains what people do wrong - The Times of India",
       "published": "2026-04-15T10:03:00+00:00",
-      "summary": "You walk every day. You quit sugar. So why is your blood sugar still rising? Doctor explains what people do wrong&nbsp;&nbsp;The Times of IndiaSwollen feet, breathlessness, failing kidneys: Patient thought walking and avoiding sweets had cured his ‘&nbsp;&nbsp;The Economic TimesWhy your 10,000 steps and no sugar in tea might not be saving you&nbsp;&nbsp;Telangana TodayWhy Just Walking, Skipping Sugar May Not Help Lower Diabetes and BP: Doctors Explain&nbsp;&nbsp;Health and MeThink 10,000 Steps A",
+      "summary": "You walk every day. You quit sugar. So why is your blood sugar still rising? Doctor explains what people do wrong&nbsp;&nbsp;The Times of India10,000 steps may not prevent diabetes, high BP: Doctor | Tap to know more | Inshorts&nbsp;&nbsp;Inshorts",
       "sources": [
         {
           "name": "The Times of India",
           "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQdEkwUk9GQTZFcUs4bnpyYlZualdyMzg3VmJpRWZSQThzaE1YZUFHemR0akJxbkZMN1E3SzZMSXAtQTlRaDBqUFNSR2R6UXBQNDhqN3JjcFkydUIwYXNNY0JNdlA4WWxjV3F4MXFYR2x0WWpwWEdfem0zaGt0Y3dQcTd4TWhUeGJrTHV3N25HeXFFRE5JeU1YelRPWFdadl9TcHBESjlIR0htMUVaWnRLU2RoemZvNWxDVDFRaDJzeXBDUXh0N1RiR1BXeDBHNGdUcFQtTmh4c2VXUnpxYjN2NVhJc09ZNFR0ZFpHWjVQOVNoY1Zxc3RMVkp1anpTT0MzSTVIdkNxMnhaLXV2N0FRVm52RExXUdIBngJBVV95cUxQMkdWYzUzLUFkNHprZnZyS3FscE1iWVRtX0hpNldqZ0ZRRkJZaERxdWZ3a2JUc2pYQXF0NmZaTGg4anpoLTVIdnhvWlgtaVZ4MlMtTUIyX0dpZzB4ekQ0YlRkdDF3U0dRTFdWSVRXVktvaXNDRGdIMHM0b1VkVDI3d0N5US1zckpVZzlTYVUxZkRuSkhDNEhNNVlVTTlRRnNrRVRqVU13ek1rU3d1Q0U2eFd6THB1dDRQcGFlbHc5SkdtSlRVcGtpV2FmN3pVNVM0TVI2eENuYjlXRHA3bG1sdzdLblpvUUMxVmhyV2JsY0R6aW1CekNtMG1wZVJ2bkpyN0RhT01BOGsxQ2Qzb2hwOEVRQUdFZl9lX2Rtcm9n?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f4e3d20622a9",
-      "title": "This 250-million-year-old fossil proves mammal ancestors laid eggs - CNN",
-      "published": "2026-04-15T09:46:00+00:00",
-      "summary": "This 250-million-year-old fossil proves mammal ancestors laid eggs&nbsp;&nbsp;CNN250-Million-Year-Old Embryonated Dicynodont Egg Found in South Africa&nbsp;&nbsp;Sci.NewsEmbryo fossil found in South Africa is world’s oldest proof that mammal ancestors laid eggs&nbsp;&nbsp;The Conversation‘Thrilling’ embryo fossil discovery upends everything we knew about how early mammals gave birth: ‘Breaks entirely new ground’&nbsp;&nbsp;New York PostMammal ancestors laid eggs, and this 250-million-year-old fo",
-      "sources": [
-        {
-          "name": "CNN",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUVd1M0NYTXBFTllTSjRjU0RXUk8wM0FPWUdkbjZ1U2NyMzUxelRKSWs0a1o3OTNTNWJCZ2wtckV0bmExVWJObXlfSGxBbTFQSWhkb1RBUzV0blpnaWxsTVFhcTJXX01NazZRMTNfRTRVbmhDM1VRbTY4QUVfY1FDWVNn?oc=5"
         }
       ]
     },
@@ -54,6 +174,30 @@
       ]
     },
     {
+      "id": "dd34b479228f",
+      "title": "Scientists Found a Dragonfly Eye Superpower That Humans Never Knew Existed - A-Z Animals",
+      "published": "2026-04-15T08:02:00+00:00",
+      "summary": "Scientists Found a Dragonfly Eye Superpower That Humans Never Knew Existed&nbsp;&nbsp;A-Z AnimalsDragonflies can see a color humans can’t and it could change medicine&nbsp;&nbsp;ScienceDailyThe Shared Secret of Mammal and Dragonfly Color Vision&nbsp;&nbsp;Neuroscience NewsDragonflies can see a colour humans cannot: This could change medicine&nbsp;&nbsp;Digital JournalThe reflective yellow parts of dragonflies that enable others to identify their sex (IMAGE)&nbsp;&nbsp;EurekAlert!",
+      "sources": [
+        {
+          "name": "A-Z Animals",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNEhVbDU1R0JDWkRLS2N2azZ5eHNVUlFreEhGdVdsWXpjU0MxaU1FTjBkcmxscWprdW95NldqM3lmWHFQWjd1YWw4STZxOWFQbnplaWhBYlRoYmUzbTJKcW5KYTZ4NnA3YnN1MHAxRFgyaTRvMk9wdXlRXzRYOGJSTmVwLV9yWG5ndE9LSTNsOVJ3QUFUbkgwa3NEV0V1dm5JaXROQ1g0X1BiWXNV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c15775934799",
+      "title": "95% of people carry this virus and scientists may have just found how to stop it - ScienceDaily",
+      "published": "2026-04-15T07:28:37+00:00",
+      "summary": "95% of people carry this virus and scientists may have just found how to stop it&nbsp;&nbsp;ScienceDaily",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xT1U1VlJ0UnpTcC1KQm5oMFBCS1lseVgtUXBXRW1SRlVzcTJ2T3R3LTd5NUZ5QXBZSl82VERjazhCXzhlRzEyQkp4Tk5XdVlSNjQtWU1MSUMza3J2NkNOdUdsUVZtdTgxNmhlOWlUaw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "408063ba0acc",
       "title": "Dozens of AI disease-prediction models were trained on dubious data - Nature",
       "published": "2026-04-15T05:28:07+00:00",
@@ -66,10 +210,34 @@
       ]
     },
     {
+      "id": "522e53763632",
+      "title": "Women in their 40s and 50s should be doing this one underrated type of exercise to improve balance and bone health, according to an expert - Fit&Well",
+      "published": "2026-04-15T04:00:00+00:00",
+      "summary": "Women in their 40s and 50s should be doing this one underrated type of exercise to improve balance and bone health, according to an expert&nbsp;&nbsp;Fit&amp;Well",
+      "sources": [
+        {
+          "name": "Fit&Well",
+          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOSVVMa2RQUXp6c3NuRmZzS2RWQUlRdEpPRFlOWUVtcFFIWUdGa0dWZmJkd0pOVlljcy1IUll1RC1nX3pPVWlhandWMGxSVEltQ0J5bS1FbDh3MFVnY190bWdNRzZvbGVVUG1kUDZoRlVRbXI1dWI3Und4bFJHZ1NHNXg2UjJUYnNEbWJqR2NQRXFKalk1RlRqTEpFZTBDZmY0NUpYaU1SdDRDU3YzNnVYQ3ktMGRZbEpsWEdCbm5OZG16RGk2N1dzWkd0TDZpcnh5RkIwTEN2eEttcTFGTlQzbS1fT0N4R2hmWi1rT0xQSVQ4b2RLVjhLcVQxX3pEVnk2N2xsdGt1WVhVV1hOQU1fNlA5TDE4Wk83WHRJRXdNcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ed37dfd5aed4",
+      "title": "Is coffee healthy? The benefits of a cup of joe and when to draw the line - CBS News",
+      "published": "2026-04-15T03:28:52+00:00",
+      "summary": "Is coffee healthy? The benefits of a cup of joe and when to draw the line&nbsp;&nbsp;CBS NewsHow much caffeine is in your drink? Dietitians recommend monitoring caffeine intake&nbsp;&nbsp;ValleyCentral.comFour symptoms warning as people unknowingly have too much caffeine&nbsp;&nbsp;Cambridge NewsCan’t function without coffee and love for it is blinding you? Here’s how to tell if you are overconsuming it&nbsp;&nbsp;Hindustan TimesExact number of cups of coffee it would take to kill you&nbsp;&nbsp",
+      "sources": [
+        {
+          "name": "CBS News",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tOG0zTy1MR1hJVmx0Z3ZNWnM5eFcxSmFzM1hVd3VlbGdFdFBKZndHVlk0OGtNRFd5R2FWeUN1cmgxaWpmeEZKeHA2S2R4T0NKWVVZUldrNUV6QzhSdkhleGthc2RuTzZ3UldTcEJXRzYycWVJcS1LZklOX0Y?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0c4773ec2a01",
       "title": "Scientists May Now Know Why GLP-1s Don't Work For 10% of People - ScienceAlert",
       "published": "2026-04-15T02:46:34+00:00",
-      "summary": "Scientists May Now Know Why GLP-1s Don't Work For 10% of People&nbsp;&nbsp;ScienceAlertGenetic predictors of GLP1 receptor agonist weight loss and side effects&nbsp;&nbsp;NatureIf you aren’t losing weight with GLP-1 drugs, this may be one reason why&nbsp;&nbsp;The Washington PostOne in 10 people may have resistance to GLP-1 diabetes drugs&nbsp;&nbsp;Stanford MedicineOzempic, Wegovy: Why GLP-1 Drugs Don't Work for Everyone&nbsp;&nbsp;Healthline",
+      "summary": "Scientists May Now Know Why GLP-1s Don't Work For 10% of People&nbsp;&nbsp;ScienceAlertGenetic predictors of GLP1 receptor agonist weight loss and side effects&nbsp;&nbsp;NatureOne in 10 people may have resistance to GLP-1 diabetes drugs&nbsp;&nbsp;Stanford MedicineOzempic, Wegovy: Why GLP-1 Drugs Don't Work for Everyone&nbsp;&nbsp;HealthlineIf you aren’t losing weight with GLP-1 drugs, this may be one reason why&nbsp;&nbsp;The Washington Post",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -78,14 +246,14 @@
       ]
     },
     {
-      "id": "72c9fde1a052",
-      "title": "Tetanus Surveillance — United States, 2009–2023 - Centers for Disease Control and Prevention | CDC (.gov)",
-      "published": "2026-04-15T02:39:44+00:00",
-      "summary": "Tetanus Surveillance — United States, 2009–2023&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)",
+      "id": "02b32d7e9b8f",
+      "title": "I'm an allergy sufferer in the spring — here's how I still manage to open my windows - AOL.com",
+      "published": "2026-04-15T00:13:25+00:00",
+      "summary": "I'm an allergy sufferer in the spring — here's how I still manage to open my windows&nbsp;&nbsp;AOL.comNorthwest Arkansas hit by severe allergy season, high pollen&nbsp;&nbsp;KNWA FOX24Allergy physicians report aggressive season due to warm spring&nbsp;&nbsp;yourerie.comAllergies can cause more than just sniffles&nbsp;&nbsp;13newsnow.comYes, This is the Worst Pollen Season Ever — Until Next Year&nbsp;&nbsp;U.S. News & World Report",
       "sources": [
         {
-          "name": "Centers for Disease Control and Prevention | CDC (.gov)",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PRVZSSVJQNFo2NWR1V1BURjdsdnRzd3VSVnpQUGNnRGpkdDgtNkJ4ZXNrM0ZSa2dldUU3c1o0dnliSnN5Q20zRzhyUjdNM3BSWlllblBGd3Z4TnpaX0I3SA?oc=5"
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ0Y0b1dYcEd3YkthMm5LSDVDX29JUzdHdTVYZnhSdDE5R21VeFdNSVpIOVd2Qks3czUwNDRKNUh3bTlzZkh4dm5yVGttSUE4OUx1MXYtSzJXWTI3Nlpmb1dVQk1pTDYwOWdTVFl5UU5HaEJfeUtORXNXbXZzRENIX0hVSmdjb3V0bXNYTUV0Z3lTRnlzRGt3dG56aWl2QlVFUVJvX0FaSUF6YkRsNmFOYXJYdUVONkNzdDN3THZQVTVvUVYyWGVPbXFnNEpHRUs3TGJIOQ?oc=5"
         }
       ]
     },
@@ -102,30 +270,6 @@
       ]
     },
     {
-      "id": "762ce2f755e7",
-      "title": "Don't feel like exercising? Maybe it's the wrong time of day for you - BBC",
-      "published": "2026-04-14T23:54:08+00:00",
-      "summary": "Don't feel like exercising? Maybe it's the wrong time of day for you&nbsp;&nbsp;BBCWant to control your blood sugar? Here’s the best time of day for exercise.&nbsp;&nbsp;The Washington PostHow matching workouts to body clock can cut risk of heart disease&nbsp;&nbsp;The TimesEarly bird or night owl: Should you sync your exercise with your chronotype?&nbsp;&nbsp;The IndependentMorning Versus Evening Exercise for Blood Pressure Control in Hypertension: A Systematic Review of Randomized Controlled T",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUQU1KelQyMjl6Y2t4ZXRmMjM3NjZMNnZaaTFQWEJVTi12WC1Xa2ZuQ0hKXzFGWEYzQXM5NzdnS3dVM2tEMzNXbTUteTlsWmNGOVMyelRFRElfZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "91775f3ca310",
-      "title": "Birds that put more energy into parenthood age faster and die younger, research shows - Phys.org",
-      "published": "2026-04-14T23:10:01+00:00",
-      "summary": "Birds that put more energy into parenthood age faster and die younger, research shows&nbsp;&nbsp;Phys.orgDevoted parenting ages you faster . . . just ask a quail&nbsp;&nbsp;The TimesThe cost of parenting: Putting energy into offspring shortens birds’ lifespans&nbsp;&nbsp;The TelegraphBird Species That Invest More Energy in Parenting Experience Faster Aging&nbsp;&nbsp;Bioengineer.org",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UUW5UTXkzbnlpWUd2dXZNbjloYjhNUENqQjc2N1ZkOEpEaG14Z09vLUVyaWtZVU1ENUEyLUNfV0plWGQxOEt0dURGT1J2cWJPbFlyeUxzdy10c2hueFhfcWhLM1lDNTN4dS1LLWh0V1V5NkdUNnhRSg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "700a111128b5",
       "title": "Polyclonal selection of immune checkpoint mutations in thyroid autoimmunity - Nature",
       "published": "2026-04-14T21:53:05+00:00",
@@ -138,10 +282,46 @@
       ]
     },
     {
+      "id": "12c77f60f4a1",
+      "title": "Discovery Overturns Longstanding Biology of Human Development - Neuroscience News",
+      "published": "2026-04-14T21:23:33+00:00",
+      "summary": "Discovery Overturns Longstanding Biology of Human Development&nbsp;&nbsp;Neuroscience NewsEarly Nerve Cell Choices Shape Human Development&nbsp;&nbsp;National TodayDecoding Human Development: How Early Nerve Cell Decisions Sculpt the Peripheral Nervous System&nbsp;&nbsp;Bioengineer.org",
+      "sources": [
+        {
+          "name": "Neuroscience News",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYmNjRm56Nm5RVDNkMUVmY0daeHU4cWJRS2RKTWJPV3JqUGpEWmJfcmFvUF9LblNiTmFSMXBiQUVHeXRPbzBBbUx3Q1hJT3I2dEVQTGtEdXVEdC1zVXBkUlJfXy04VFJUUm0teElsdlhiS19jTzJhVHpXeU5RNUFxS0kydw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2c2e427c8d67",
+      "title": "Causes of sarcopenia and frailty in people taking GLP1RAs - Nature",
+      "published": "2026-04-14T21:01:26+00:00",
+      "summary": "Causes of sarcopenia and frailty in people taking GLP1RAs&nbsp;&nbsp;NatureThe hidden tradeoff behind today’s most popular weight loss drugs&nbsp;&nbsp;ScienceDailyNew Maidstone programme helps protect muscle on weight-loss jabs&nbsp;&nbsp;Sustain Health MagazineGLP‑1 Weight Loss in Practice: Exercise, Injury Risk, and Aging&nbsp;&nbsp;Docwire NewsTuesday Health Report: Weight loss drugs increase fracture risk for women due to muscle loss, researchers say&nbsp;&nbsp;WBRZ",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNWVFyWWZlYXgwMEI3VE04V25uQmN2SHkzbDlYVHZ2dmM4Rnl3MEFXRnk5akg5SmpqNk5oWEVKT3gwOWVycUd6MlVLajB4b0F5UzNiUV9sUzUyOWNkSzhr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c614bc415b41",
+      "title": "Scientists reverse brain aging, with a nasal spray - Texas A&M Stories",
+      "published": "2026-04-14T20:58:07+00:00",
+      "summary": "Scientists reverse brain aging, with a nasal spray&nbsp;&nbsp;Texas A&amp;M StoriesA New Nasal Spray Appeared To Reverse Brain Ageing In 'Weeks'&nbsp;&nbsp;HuffPost UKNew nasal spray reverses brain aging in breakthrough study&nbsp;&nbsp;Earth.comNasal Spray Reverses Brain Aging in Stunning Study, Restores Memory and Slashes Inflammation&nbsp;&nbsp;USA HeraldThis nasal spray rewinds the aging brain, restoring memory and reversing inflammation in preclinical models&nbsp;&nbsp;Phys.org",
+      "sources": [
+        {
+          "name": "Texas A&M Stories",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNjF3UGNWSktISWZCbUtWUnJ0V3RPN2FFeExzSURQcXVsdFRaRnVrWG5nMHVwdW1uTkZqWDYxYXlkUmlqRkFJXy1VcUZhZUVkR3dJeUR0bTFHaHcyeDdnU3R1MlVmUEVESUhSYkt0NkQ1VUh0OEQ2UXhNM2RJNS14YkJUMkVleTVyTUdTVTZFT1ZXNnlFNnc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2c9392bdf473",
       "title": "Norway Man Cured of HIV With Brother’s Stem Cells - Gizmodo",
       "published": "2026-04-14T20:25:51+00:00",
-      "summary": "Norway Man Cured of HIV With Brother’s Stem Cells&nbsp;&nbsp;GizmodoSibling Stem Cell Transplant Leads to Rare HIV Remission in 'Oslo Patient'&nbsp;&nbsp;ScienceAlertNorwegian man is 10th person ever to be cured of HIV — thanks to his brother&nbsp;&nbsp;New York PostMan ‘cured’ of HIV after brother found to carry rare genetic mutation: ‘Like winning lottery twice’&nbsp;&nbsp;The Independent'Oslo patient' likely cured of HIV after getting stem cell transplant from his brother, who is genetically ",
+      "summary": "Norway Man Cured of HIV With Brother’s Stem Cells&nbsp;&nbsp;GizmodoMan ‘cured’ of HIV after brother found to carry rare genetic mutation: ‘Like winning lottery twice’&nbsp;&nbsp;The IndependentSibling Stem Cell Transplant Leads to Rare HIV Remission in 'Oslo Patient'&nbsp;&nbsp;ScienceAlertNorwegian man is 10th person ever to be cured of HIV — thanks to his brother&nbsp;&nbsp;New York PostMan 'Likely Cured' of HIV After Stem Cell Donation from Brother Who Has Rare Blood Mutation&nbsp;&nbsp;Peop",
       "sources": [
         {
           "name": "Gizmodo",
@@ -174,6 +354,18 @@
       ]
     },
     {
+      "id": "0fb7182f9fe3",
+      "title": "HPV vaccination cuts cancer risk in men by about half, study suggests - CIDRAP",
+      "published": "2026-04-14T19:12:06+00:00",
+      "summary": "HPV vaccination cuts cancer risk in men by about half, study suggests&nbsp;&nbsp;CIDRAPNew research highlights strong benefits of HPV vaccines beyond cervical cancer&nbsp;&nbsp;CIDRAPVaccination Protects Young Men From HPV-Related Cancers&nbsp;&nbsp;medscape.comNew Data Reinforce Decades-Long Protection of Recombinant HPV Vaccines Against HPV-Related Cancers&nbsp;&nbsp;Pharmacy TimesHPV Vaccine Tied to Lower Cancer Risk in Men, Too&nbsp;&nbsp;MedPage Today",
+      "sources": [
+        {
+          "name": "CIDRAP",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSWtkLXByVW8zMDYtbTJOM3M0Rm41QS1ZTWU4SXcxOThReDJZNnd6RXpSSnlBSE9WRDlGMUtrLTd0UEVweHpYd1BTSzJsWVl0QmRUNFc4WXVRNmFvSkw4TXVpME5pWFdpZ1dGUjhuWFE4MEs5bWFoM3RnWnMtVFNhMXJNQ3Y2cmFZTzZMR1ktdGh6dW5BaEE3LXhqM1JSU3JxR0Z5UVRlMW9iUWJjR3NQLTFnQ1g?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e1883457ea07",
       "title": "Scientists Just Identified the Brain’s Natural “Superweapon” — and It Could Change Everything - Iowa Park Leader",
       "published": "2026-04-14T19:04:51+00:00",
@@ -198,6 +390,30 @@
       ]
     },
     {
+      "id": "0b222f3c1d6e",
+      "title": "Scientists Uncover Hidden Force Powering Yellowstone’s Supervolcano - SciTechDaily",
+      "published": "2026-04-14T18:37:05+00:00",
+      "summary": "Scientists Uncover Hidden Force Powering Yellowstone’s Supervolcano&nbsp;&nbsp;SciTechDailyYellowstone nearing eruption as new study finds magma brimming below the surface: scientists&nbsp;&nbsp;New York PostNew study reveals shallow mantle source for supervolcanic magma&nbsp;&nbsp;EurekAlert!New paper argues history, not mantle plume, powers Yellowstone&nbsp;&nbsp;Ars TechnicaWhat is Yellowstone Volcano? Is it Near Eruption?&nbsp;&nbsp;Jagran Josh",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORV9UalZDc05SN2hYcF9iSkN4Z3lsZzVJdFlGWHQ5UzdkMVVReGhNUFdWSmJjYUlsOUttdGdoQ1FuSU10SWVNYmVUSFhESmVDS0VTekVTWHg0TmdnLUp1ZGtueGZCVHp3LXpWSUIzY1Fvclktb253SEtkRzIxcGNkZHF5cEtJR1M1MjM2aW9CMFBmTXNONUZr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4bbd26ced6c3",
+      "title": "Dark matter doesn't exist and the universe is 27 billion years old, according to study - Earth.com",
+      "published": "2026-04-14T18:35:58+00:00",
+      "summary": "Dark matter doesn't exist and the universe is 27 billion years old, according to study&nbsp;&nbsp;Earth.com",
+      "sources": [
+        {
+          "name": "Earth.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUENnakxpdjlRTGR1alFYbnhsS2VIbTc4V0E2NV9JMHFJTlFGYXlmeFdpUjVnRVo1VHZxWFVFaU9CODhhTldna3NXLWZpNE9lUXo3elMzZ1ItUGFZd2hyZG1OVnk2dEhwaVVXS3BuNXEwLURWN0dtZWFJVV9lb2hJSVJkUm5PTUl5bEcxMnJNZmpjQUxtSjJRMFdfVk11Nnh3WXY4MVNCbWVRWlF5bERhTU16MA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "539f6d3e6976",
       "title": "Here’s What Scientists Found When They Cooked Up Their Own ‘Mercury Rocks’ - Gizmodo",
       "published": "2026-04-14T18:05:20+00:00",
@@ -210,22 +426,10 @@
       ]
     },
     {
-      "id": "76da91f1a225",
-      "title": "There were 'audible screams of delight': Why Artemis II sightings of meteor flashes on the moon have scientists giddy - Live Science",
-      "published": "2026-04-14T17:53:43+00:00",
-      "summary": "There were 'audible screams of delight': Why Artemis II sightings of meteor flashes on the moon have scientists giddy&nbsp;&nbsp;Live ScienceThe Artemis 2 astronauts saw a rare solar eclipse from beyond the moon. Here's what it looked like&nbsp;&nbsp;SpaceArtemis II Astronauts Witnessed 6 Meteorites Colliding With the Moon&nbsp;&nbsp;WIREDFrom meteoroids to lava: Artemis mission’s unexpected findings&nbsp;&nbsp;The Boston GlobeJohns Hopkins student helps NASA study lunar impact flashes&nbsp;&nbs",
-      "sources": [
-        {
-          "name": "Live Science",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMmFsWmowSDAzWjJHS3AweWdQUlpPZ2h3dVFRNGpRSEZnbmh0cWh2Y1FWRWN0YVlBLWdvWGtTcDhuRllId2FZTVdfYWZPNDFTeFo5TmRYSmFhOC00SGRJcmxxTFJNM2xxeWVmTFJIY1dCQS1WVEJQaXhjeVlWR3dfckZHNUxVUUlURkViek0tai1CalJucHZ1MWFKTkFyMVdrZDdsMjBzZHFwRXZrS1dkTk5NLXItSXp0OTVwRlgxV1BNQlA4cnZZeFJwamcwQzhqM2I0WVZ6UTQxb1JOME4yVWhNcU5xeC1ocUhSWnZB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fad74b507b04",
       "title": "Measles exposure reported at Southeast Portland middle school - OregonLive.com",
       "published": "2026-04-14T17:49:00+00:00",
-      "summary": "Measles exposure reported at Southeast Portland middle school&nbsp;&nbsp;OregonLive.comMiddle school in SE Portland identified as measles exposure site&nbsp;&nbsp;KPTVOregon City health care facility sees measles exposure, Oregon Heath Authority warns&nbsp;&nbsp;KOIN.comOHA confirms another measles exposure site at Oregon City health care facility&nbsp;&nbsp;KATUMeasles has reached a Portland school. Here’s why health officials think they can stop it&nbsp;&nbsp;Oregon Public Broadcasting - OPB",
+      "summary": "Measles exposure reported at Southeast Portland middle school&nbsp;&nbsp;OregonLive.comOHA confirms another measles exposure site at Oregon City health care facility&nbsp;&nbsp;KATUSoutheast Portland middle school exposed to measles for several days&nbsp;&nbsp;KOIN.comMeasles exposure reported at Oregon City urgent care clinic&nbsp;&nbsp;OregonLive.comMeasles has reached a Portland school. Here’s why health officials think they can stop it&nbsp;&nbsp;Oregon Public Broadcasting - OPB",
       "sources": [
         {
           "name": "OregonLive.com",
@@ -237,7 +441,7 @@
       "id": "a4f146498085",
       "title": "CRISPR takes a bold leap toward silencing Down syndrome's extra chromosome - Medical Xpress",
       "published": "2026-04-14T17:40:07+00:00",
-      "summary": "CRISPR takes a bold leap toward silencing Down syndrome's extra chromosome&nbsp;&nbsp;Medical Xpress",
+      "summary": "CRISPR takes a bold leap toward silencing Down syndrome's extra chromosome&nbsp;&nbsp;Medical XpressDown Syndrome: Researchers Delete the “3rd Chromosome” in Vitro&nbsp;&nbsp;FSSPX ActualitésScientists Discover Potential Path to Treating Down Syndrome&nbsp;&nbsp;GizmodoHarvard, Beth Israel researchers partially silence chromosome 21 with CRISPR&nbsp;&nbsp;NewsBytesBest of 2026-04-15&nbsp;&nbsp;Medical Xpress",
       "sources": [
         {
           "name": "Medical Xpress",
@@ -249,23 +453,11 @@
       "id": "33a6fbc37b74",
       "title": "Multi-ancestry genome-wide association study of severe pregnancy nausea and vomiting - Nature",
       "published": "2026-04-14T16:56:33+00:00",
-      "summary": "Multi-ancestry genome-wide association study of severe pregnancy nausea and vomiting&nbsp;&nbsp;NatureStudy identifies new genes linked to severe pregnancy sickness&nbsp;&nbsp;News-MedicalThe Real Cause of Extreme Pregnancy Nausea Is Genetic&nbsp;&nbsp;Technology NetworksThe Hormone Behind Pregnancy Sickness Is Now Only Part of the Story&nbsp;&nbsp;ScienceBlog.comBreakthrough Pregnancy Sickness Study Reveals Six New Genetic Connections&nbsp;&nbsp;Bioengineer.org",
+      "summary": "Multi-ancestry genome-wide association study of severe pregnancy nausea and vomiting&nbsp;&nbsp;NatureLargest study of pregnancy sickness uncovers six new genetic links&nbsp;&nbsp;Medical XpressThe Real Cause of Extreme Pregnancy Nausea Is Genetic&nbsp;&nbsp;Technology NetworksThe Hormone Behind Pregnancy Sickness Is Now Only Part of the Story&nbsp;&nbsp;ScienceBlog.comBreakthrough Pregnancy Sickness Study Reveals Six New Genetic Connections&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
           "name": "Nature",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TSnpSdHdVcGJRVEJsSlk0WGNZQm5YalVoMC1VdWdGZWN5X0lkWnRRTGdOUi1Scnh1alhUV0dGOTJvVjlYaVN0cFlUOUVRNThUVWJINWhldlBaa1huT3B3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d190c3c9e985",
-      "title": "New research highlights strong benefits of HPV vaccines beyond cervical cancer - CIDRAP",
-      "published": "2026-04-14T16:42:25+00:00",
-      "summary": "New research highlights strong benefits of HPV vaccines beyond cervical cancer&nbsp;&nbsp;CIDRAPVaccination Protects Young Men From HPV-Related Cancers&nbsp;&nbsp;MedscapeNew Data Reinforce Decades-Long Protection of Recombinant HPV Vaccines Against HPV-Related Cancers&nbsp;&nbsp;Pharmacy TimesHpv and the Hidden Cancer Burden in Men After the Shift&nbsp;&nbsp;El-Balad.comHPV Vaccine Tied to Lower Cancer Risk in Men, Too&nbsp;&nbsp;MedPage Today",
-      "sources": [
-        {
-          "name": "CIDRAP",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPckRLUGdURzJXaVZ6bElNMGhObjZfVWJxQmVCSUJJQ1JxM1BUMUlpSDlhYmZpNENITDJfWGc5bzlJOVhXMmFTWUJFZzRCdXpXclhfLWpuck9ua0V2TjFDZ2VVQlp2VnZTTnRmM25xSWRCTGJzbGlYMG1VRmZieEdvTFNTc1ltSEV3eGhSZ01fOGltY0w0U2U1SEFqUEdvUUpWbmZZczBjS25MYlZ3eTYyeDhZaUdRX2hheWIxUg?oc=5"
         }
       ]
     },
@@ -282,22 +474,10 @@
       ]
     },
     {
-      "id": "9ee0531c0e03",
-      "title": "The surprising ways cannabis may affect the aging brain - The Washington Post",
-      "published": "2026-04-14T16:00:00+00:00",
-      "summary": "The surprising ways cannabis may affect the aging brain&nbsp;&nbsp;The Washington PostTHC Linked to Creation of False Memories and Difficulty With Memory Tasks&nbsp;&nbsp;Cannabis Health NewsWhy cannabis users may recall events that never happened&nbsp;&nbsp;FirstpostNeuroscience Reveals Complexity of Cannabis and Psychosis Link&nbsp;&nbsp;National TodayAlarming new side effects of smoking cannabis revealed&nbsp;&nbsp;tyla.com",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43M0lwcGUwOVNHaDN6eGNYdGstVXFiY3NEd29fSXhLRjJrVk9kcy1iUVBnVVJLMGVTSWlQVHhGYjRIM2tXblRMQWpPeUFPR3U4UW5DV2kzTlZWQm1sbXo2UlZIemNNOEh6c2JRdGFIZ3dxYTFKcXdjMTFjWTlqQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0fc697c22bd5",
       "title": "Some people don’t lose weight with GLP-1s. Evidence is building that the drugs are helping anyway - CNN",
       "published": "2026-04-14T15:00:55+00:00",
-      "summary": "Some people don’t lose weight with GLP-1s. Evidence is building that the drugs are helping anyway&nbsp;&nbsp;CNNGLP-1 medicine improves liver health independent of weight loss, study finds&nbsp;&nbsp;Medical XpressCanadian lab explains puzzling link between semaglutide, better liver health&nbsp;&nbsp;The Globe and MailNovo Nordisk weight-loss drug shows liver benefits in mouse study&nbsp;&nbsp;ReutersTornado touches down in rural Midwest&nbsp;&nbsp;CNN",
+      "summary": "Some people don’t lose weight with GLP-1s. Evidence is building that the drugs are helping anyway&nbsp;&nbsp;CNNGLP-1 medicine improves liver health independent of weight loss, study finds&nbsp;&nbsp;Medical XpressNovo Nordisk weight-loss drug shows liver benefits in mouse study&nbsp;&nbsp;ReutersTornado touches down in rural Midwest&nbsp;&nbsp;CNNWhy weight-loss jabs could improve liver health&nbsp;&nbsp;AOL.com",
       "sources": [
         {
           "name": "CNN",
@@ -306,14 +486,14 @@
       ]
     },
     {
-      "id": "ac5d4570d69e",
-      "title": "Nasal Spray Reverses Brain Aging and Inflammation - Neuroscience News",
-      "published": "2026-04-14T14:45:59+00:00",
-      "summary": "Nasal Spray Reverses Brain Aging and Inflammation&nbsp;&nbsp;Neuroscience NewsView Full Coverage on Google News",
+      "id": "5f4a6abf5448",
+      "title": "Worrying new side effect from smoking cannabis discovered in groundbreaking study - LADbible",
+      "published": "2026-04-14T14:31:13+00:00",
+      "summary": "Worrying new side effect from smoking cannabis discovered in groundbreaking study&nbsp;&nbsp;LADbibleThe surprising ways cannabis may affect the aging brain&nbsp;&nbsp;The Washington PostTHC Linked to Creation of False Memories and Difficulty With Memory Tasks&nbsp;&nbsp;Cannabis Health NewsWhy cannabis users may recall events that never happened&nbsp;&nbsp;FirstpostNeuroscience Reveals Complexity of Cannabis and Psychosis Link&nbsp;&nbsp;National Today",
       "sources": [
         {
-          "name": "Neuroscience News",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zY2Z4MUllUk43QVZMUDFmOHNZT0djSUhrYnM4ZjdhV3pEaUhKVUQ4OUZZMFdDZ1dVY1pnQWh2NzB1dGVPVzJqb084Y1hSVVJiUHBzV3k0azRxTHl4aDJKUGR0dFdMa1hkWXpjU3BaUUlTT21XY2c?oc=5"
+          "name": "LADbible",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObl9wSXlGVDItblBRNkFsd2VxSFJ6MEtEajFnS1NFd293dk9OTWhtU180OHhzaGlrZnRGbmdrNWtYN0NVeUl3c2l4ZEQ4UUVreGhtT2xXZkx5TEtyNmswMnV6LWtPMld5SV9yUHdjcF8zUm5ucUs5WXJsZUdnVEhOTjBzWnVsNUJEeERGTlg2VVlKN1RyTWhmNXpUMlhtc0FhVzBBTDdpcVh1ejBQNVE?oc=5"
         }
       ]
     },
@@ -321,7 +501,7 @@
       "id": "e85120095fde",
       "title": "A Fresh Scar on the Moon: Newly Discovered Crater Reveals Recent Impact - Gizmodo",
       "published": "2026-04-14T14:30:56+00:00",
-      "summary": "A Fresh Scar on the Moon: Newly Discovered Crater Reveals Recent Impact&nbsp;&nbsp;GizmodoNew research maps the Moon’s subsurface at the south pole&nbsp;&nbsp;primetimer.comNASA just spotted a fresh crater on the Moon no one saw coming&nbsp;&nbsp;YahooSomething just hit the Moon and left a bright new scar&nbsp;&nbsp;ScienceDailyReading the Moon’s Buried Past.&nbsp;&nbsp;Universe Today",
+      "summary": "A Fresh Scar on the Moon: Newly Discovered Crater Reveals Recent Impact&nbsp;&nbsp;GizmodoReading the moon's buried past&nbsp;&nbsp;Phys.orgNASA just spotted a fresh crater on the Moon no one saw coming&nbsp;&nbsp;YahooNew research maps the Moon’s subsurface at the south pole&nbsp;&nbsp;primetimer.comArtemis II lunar geological reconnaissance: key ground data for geotechnical engineers&nbsp;&nbsp;Geomechanics.io",
       "sources": [
         {
           "name": "Gizmodo",
@@ -333,7 +513,7 @@
       "id": "912078f93850",
       "title": "Neuronal lipid droplets play a conserved and sex-biased role in maintaining whole-body energy homeostasis - Nature",
       "published": "2026-04-14T14:21:58+00:00",
-      "summary": "Neuronal lipid droplets play a conserved and sex-biased role in maintaining whole-body energy homeostasis&nbsp;&nbsp;NatureNeurons don't run on sugar alone: Hidden fat droplets help drive brain signaling, appetite and weight control&nbsp;&nbsp;Medical Xpress",
+      "summary": "Neuronal lipid droplets play a conserved and sex-biased role in maintaining whole-body energy homeostasis&nbsp;&nbsp;NatureNeurons don't run on sugar alone: Hidden fat droplets help drive brain signaling, appetite and weight control&nbsp;&nbsp;Medical XpressNeuronal Lipid Droplets Govern Energy Balance Differently by Sex&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
           "name": "Nature",
@@ -354,26 +534,26 @@
       ]
     },
     {
-      "id": "aadbbf488110",
-      "title": "People who consume ultra-processed foods have worse muscle health, study suggests - Medical Xpress",
-      "published": "2026-04-14T14:00:01+00:00",
-      "summary": "People who consume ultra-processed foods have worse muscle health, study suggests&nbsp;&nbsp;Medical XpressUltraprocessed foods are turning human thighs into well-marbled steaks&nbsp;&nbsp;CNNHow does eating ultra-processed foods affect your muscles?&nbsp;&nbsp;Medical News TodayUltraprocessed foods may hurt muscle health, study finds&nbsp;&nbsp;NBC NewsPeople who consume ultra-processed foods have worse muscle health&nbsp;&nbsp;EurekAlert!",
+      "id": "7989e902204e",
+      "title": "Scientists just discovered 5.6 million bees under a New York State cemetery - Yahoo",
+      "published": "2026-04-14T14:08:00+00:00",
+      "summary": "Scientists just discovered 5.6 million bees under a New York State cemetery&nbsp;&nbsp;YahooMillions of bees found under cemetery: ‘Completely floored’&nbsp;&nbsp;PennLive.comBeneath this cemetery, 5.5 million wild bees form a giant underground city vital to spring pollination&nbsp;&nbsp;Phys.orgLargest-known underground colony contains millions of ground-nesting bees&nbsp;&nbsp;Earth.comStudy finds millions of ground-nesting bees thriving in Ithaca cemetery&nbsp;&nbsp;Fingerlakes1.com",
       "sources": [
         {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON3ZNSUJwVXcwakFhZkxsdDBkNmd0T09Tb0NFSm9ybENlUXUxVXctNS1hMjZ2VHBWaDU1aFNsWjBrU1dScHd1SUJWOXJ0TnZ3X09oQU5xcUMxRnVQbFZUdXMyakJQM1U4azZFQU1JVHA3QlFRVHRhQW0zOS16QmppT2pR?oc=5"
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYWwxc0Q1dHRFaExodzNSZ2dZOTNkbkpoLURDWUQwTFM0QnFpWFJxYUpmeG5CTFhtbVFfZHBIX0RJVG5TU1hhRmtJQ0lUeDh3SjhlZTJxZnFRWHFCTHdERExiTlAzakNZNjZGcDRXbVdSa05mYXV2TFJucFFDMjF1ZE10ZENvdmx2?oc=5"
         }
       ]
     },
     {
-      "id": "f5181ec0de62",
-      "title": "The Healthiest Way to Cook Broccoli for Maximum Antioxidants - Verywell Health",
-      "published": "2026-04-14T13:45:48+00:00",
-      "summary": "The Healthiest Way to Cook Broccoli for Maximum Antioxidants&nbsp;&nbsp;Verywell Health",
+      "id": "aadbbf488110",
+      "title": "People who consume ultra-processed foods have worse muscle health, study suggests - Medical Xpress",
+      "published": "2026-04-14T14:00:01+00:00",
+      "summary": "People who consume ultra-processed foods have worse muscle health, study suggests&nbsp;&nbsp;Medical XpressUltraprocessed foods are turning human thighs into well-marbled steaks&nbsp;&nbsp;CNNA negative side effect of ultra-processed foods you haven't thought about&nbsp;&nbsp;USA TodayHow does eating ultra-processed foods affect your muscles?&nbsp;&nbsp;Medical News TodayUltraprocessed foods may hurt muscle health, study finds&nbsp;&nbsp;NBC News",
       "sources": [
         {
-          "name": "Verywell Health",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aRTBxS1hWSDVhcmVuZS1IUVpCRkJfWWZlVlZ6a1FaWEVZd1o5V256bXA2b1Zta1QwUEExTUk1ckxZQ1M0LTlTcm5OamxUNzRJbzlnOWpGdWdqcGZfdjF0VGl1Q3hCYVZQbVlVbnNFTmwwMzJlbGhHTHln?oc=5"
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON3ZNSUJwVXcwakFhZkxsdDBkNmd0T09Tb0NFSm9ybENlUXUxVXctNS1hMjZ2VHBWaDU1aFNsWjBrU1dScHd1SUJWOXJ0TnZ3X09oQU5xcUMxRnVQbFZUdXMyakJQM1U4azZFQU1JVHA3QlFRVHRhQW0zOS16QmppT2pR?oc=5"
         }
       ]
     },
@@ -390,14 +570,14 @@
       ]
     },
     {
-      "id": "04770ee519fc",
-      "title": "Artemis 2 calling ISS! Watch the farthest-ever astronaut call from the moon to Earth (video) - Space",
-      "published": "2026-04-14T12:00:00+00:00",
-      "summary": "Artemis 2 calling ISS! Watch the farthest-ever astronaut call from the moon to Earth (video)&nbsp;&nbsp;SpaceArtemis II Lunar Flyby&nbsp;&nbsp;NASA (.gov)Did the Artemis II spacecraft protect the crew well enough? NASA races to find out&nbsp;&nbsp;NBC NewsNASA's Artemis II crew helped by Navy exiting the capsule in new closeup video&nbsp;&nbsp;MashableNavy Dive Medical Recovery Team Provides Initial Care to Artemis II Crew&nbsp;&nbsp;U.S. Department of War (.gov)",
+      "id": "4d5c880e97d8",
+      "title": "Dear Doctor: Husband’s doctor said there’s no real cure for tinnitus. Is that true? - OregonLive.com",
+      "published": "2026-04-14T13:00:00+00:00",
+      "summary": "Dear Doctor: Husband’s doctor said there’s no real cure for tinnitus. Is that true?&nbsp;&nbsp;OregonLive.comTinnitus — merely annoying or a sign of something more serious?&nbsp;&nbsp;GMToday.comTO YOUR GOOD HEALTH: Man suffers from tinnitus that greatly impacts his quality of life&nbsp;&nbsp;Clinton Herald",
       "sources": [
         {
-          "name": "Space",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNlRIRTNpbTVSZ2tkZWI0R05Ed2RURlZlcVR2bW9LSGhxbU5fc2NValFaOUZIU1VvNlJWOWxBS3FzYjR2RDNYREk4Z2ZqMk8tM3ZGbzFFVEhnS0FJYU10TVRtS0RJdlkxNzhSLUY3enRoZFFkNHBYT25nVmdpV3V3MzVJYjhGU18zczZQb2lHYVZLdW9NaC02Wlh6dU1GNkUxTkFzY0lFV0FZYUpJUXpIOFdIU0VfTllOUkFsUw?oc=5"
+          "name": "OregonLive.com",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTUs3M3U5VlV0ZHFCd1BGOUUxUU81ZllIRFZSc2tOYVJKWFpwclk4N1VPQmVrOTN4VFVuR2praXpBU2tCcXFqVGdrdXBTN05UbzRJdlgtV0x4endGanlFY3B2ZzRDTHJuZ1VaQUZjZ01PTEY2MFBKVUJHUzdsRVJMVjdoMlB0ZGVXRkxfd3VLd2VIR0FZZ3QtZVhkWEtQc1F5MENZWlBjV1FtcHVZb2szX2ZjOTRQWV9SekptejZzeUh0anPSAdcBQVVfeXFMTXYxdEhmV3NZX0owOVA3U2VtZ1FfT0tRRXA2VUN0QmRmQl8zbVdBeTcxNEFSblluZWlfRmJFZHRPNmRiN2FSTl92X0tseHJ5YTRsanZiU1c4eUtYZHpoTE9iTW1TRTMyMENSUkgxNEQ0b09lTi1DOVEyWl92OF9HSExDVEU2ZWw4c29QVHM0Tkh4cnd1MmpKemdlNW5YNzh1NzV2UmJCNm9ERXJQYXVGbVJrbzYyUzJScVk1aWNpNXlKdVg0WmNDUENuM1dfV3JVbDlTT0ZfSFU?oc=5"
         }
       ]
     },
@@ -405,7 +585,7 @@
       "id": "70d4326624b8",
       "title": "Confused about the new cholesterol guidelines? Here’s what to know - The Seattle Times",
       "published": "2026-04-14T11:59:02+00:00",
-      "summary": "Confused about the new cholesterol guidelines? Here’s what to know&nbsp;&nbsp;The Seattle TimesConfused About the New Cholesterol Guidelines? Here’s What to Know.&nbsp;&nbsp;The New York TimesExpanding the fight against heart disease&nbsp;&nbsp;Harvard GazetteWashington should know, history’s repeating itself in Tehran&nbsp;&nbsp;The Times of IndiaNew Lipid Guidelines: A User’s Guide&nbsp;&nbsp;Medscape",
+      "summary": "Confused about the new cholesterol guidelines? Here’s what to know&nbsp;&nbsp;The Seattle TimesConfused About the New Cholesterol Guidelines? Here’s What to Know.&nbsp;&nbsp;The New York TimesExpanding the fight against heart disease&nbsp;&nbsp;Harvard GazetteWashington should know, history’s repeating itself in Tehran&nbsp;&nbsp;The Times of IndiaNew Lipid Guidelines: A User’s Guide&nbsp;&nbsp;medscape.com",
       "sources": [
         {
           "name": "The Seattle Times",
@@ -453,7 +633,7 @@
       "id": "f63d6827359a",
       "title": "Study Reveals Loss Of Smell May Be An Early Warning Sign Of Alzheimer's - HuffPost",
       "published": "2026-04-14T11:00:18+00:00",
-      "summary": "Study Reveals Loss Of Smell May Be An Early Warning Sign Of Alzheimer's&nbsp;&nbsp;HuffPostNew biological marker of early-stage Alzheimer's disease uncovered&nbsp;&nbsp;Medical XpressNose-Picking May Have a Surprise Link With Alzheimer's, Study in Mice Suggests&nbsp;&nbsp;ScienceAlertYour nose could detect Alzheimer’s years before symptoms begin&nbsp;&nbsp;ScienceDailyEarly warning sign of alzheimer’s&nbsp;&nbsp;Minute Mirror",
+      "summary": "Study Reveals Loss Of Smell May Be An Early Warning Sign Of Alzheimer's&nbsp;&nbsp;HuffPostNew biological marker of early-stage Alzheimer's disease uncovered&nbsp;&nbsp;Medical XpressYour nose could detect Alzheimer’s years before symptoms begin&nbsp;&nbsp;ScienceDailyCould a Nasal Swab Detect Early Signs of Alzheimer’s?&nbsp;&nbsp;BlackDoctorEarly warning sign of alzheimer’s&nbsp;&nbsp;Minute Mirror",
       "sources": [
         {
           "name": "HuffPost",
@@ -462,22 +642,10 @@
       ]
     },
     {
-      "id": "e889f54cfab7",
-      "title": "Scientists Thought This Was the Oldest Octopus Until They Found Something Hidden Inside - A-Z Animals",
-      "published": "2026-04-14T10:46:08+00:00",
-      "summary": "Scientists Thought This Was the Oldest Octopus Until They Found Something Hidden Inside&nbsp;&nbsp;A-Z Animals\"Weird blob\" creature thought to be the world's oldest octopus isn't an octopus after all. Here's what scientists found.&nbsp;&nbsp;CBS NewsThe ‘oldest octopus’ in the world isn’t an octopus after all, scientists find&nbsp;&nbsp;CNNAncient ocean mystery deepens as long-misidentified fossil is finally revealed by researchers&nbsp;&nbsp;Fox News🧊 A really cool business idea&nbsp;&nbsp;theh",
-      "sources": [
-        {
-          "name": "A-Z Animals",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdEZ0OGszc0FBbDNESERRMkVOTV9uOVFKLWhWTVVCZktyaE9YTG9NMm4xaC12RUV6VUg5cDZmX051LXZ0ZXZsQ1pVdVJFZ0Z4bjVpQmVJdW1YenV6ZzJ6QnkxLTZraGFDU0l4ZjFhN0VHaXZGaTNmcVRieEZMSmxOdzVrRVh0WHVMOUs3T3l0ZXZkQ3dWSUZhSVBEdExqamluQ2Zoa1hNbjIyeW9sekVUVzdkS3JXNHlYTjZDbmd3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fb2f30bd7096",
       "title": "Syringe reuse at Pakistan hospital infects 331 children with HIV, probe reveals - Gulf News",
       "published": "2026-04-14T10:36:54+00:00",
-      "summary": "Syringe reuse at Pakistan hospital infects 331 children with HIV, probe reveals&nbsp;&nbsp;Gulf NewsHospital at centre of child HIV outbreak caught reusing syringes in undercover filming&nbsp;&nbsp;BBCSyringe reuse, over 300 children test HIV-positive at Pakistan hospital: Undercover filming exposes big lapses&nbsp;&nbsp;Hindustan TimesHIV cases surge in Sindh; 329 kids among nearly 900 infected&nbsp;&nbsp;samaa tvChildren, needles, a deadly lapse: Inside Pakistan hospital linked to HIV outbreak",
+      "summary": "Syringe reuse at Pakistan hospital infects 331 children with HIV, probe reveals&nbsp;&nbsp;Gulf NewsHospital at centre of child HIV outbreak caught reusing syringes in undercover filming&nbsp;&nbsp;BBCSyringe reuse, over 300 children test HIV-positive at Pakistan hospital: Undercover filming exposes big lapses&nbsp;&nbsp;Hindustan TimesChildren, needles, a deadly lapse: Inside Pakistan hospital linked to HIV outbreak&nbsp;&nbsp;India TodayBBC reports ‘serious malpractices’ continued at Taunsa ho",
       "sources": [
         {
           "name": "Gulf News",
@@ -501,7 +669,7 @@
       "id": "8fc731b51cc6",
       "title": "In the brain, objects seen and imagined follow the same neural path - NPR",
       "published": "2026-04-14T10:00:00+00:00",
-      "summary": "In the brain, objects seen and imagined follow the same neural path&nbsp;&nbsp;NPRSeeing and imagining activate some of the same brain cells&nbsp;&nbsp;Science NewsImagine That: Brain Uses Neurons from Vision System When Forming Mental Imagery&nbsp;&nbsp;CaltechThe Biological Basis of Imagination&nbsp;&nbsp;Nautilus | SciencePeople use the same neurons to see and imagine objects, study shows&nbsp;&nbsp;Medical Xpress",
+      "summary": "In the brain, objects seen and imagined follow the same neural path&nbsp;&nbsp;NPRSeeing and imagining activate some of the same brain cells&nbsp;&nbsp;Science NewsThe Biological Basis of Imagination&nbsp;&nbsp;Nautilus | ScienceImagine That: Brain Uses Neurons from Vision System When Forming Mental Imagery&nbsp;&nbsp;CaltechPeople use the same neurons to see and imagine objects, study shows&nbsp;&nbsp;Medical Xpress",
       "sources": [
         {
           "name": "NPR",
@@ -510,14 +678,38 @@
       ]
     },
     {
-      "id": "383aba90a443",
-      "title": "Global Wildlife Trade Fuels Spread of Disease From Animals to People - The New York Times",
-      "published": "2026-04-14T09:02:30+00:00",
-      "summary": "Global Wildlife Trade Fuels Spread of Disease From Animals to People&nbsp;&nbsp;The New York Times“The Longer We Trade Animals, The More Pathogens Make The Jump”: 40 Years Of Data Shows Wildlife Trade Boosts Chances Of Disease Spillover&nbsp;&nbsp;IFLScienceHere’s how the wildlife trade is fueling disease outbreaks across the globe&nbsp;&nbsp;The Washington PostThe longer a species stays in the wildlife trade, the more likely it can spread disease to humans. Study explains why&nbsp;&nbsp;Los Ang",
+      "id": "e785b05cf17e",
+      "title": "More Americans doubt vaccine safety than trust it, POLITICO Poll finds - Politico",
+      "published": "2026-04-14T09:00:00+00:00",
+      "summary": "More Americans doubt vaccine safety than trust it, POLITICO Poll finds&nbsp;&nbsp;PoliticoView Full Coverage on Google News",
       "sources": [
         {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT1ZscExVQTRPSk9ldFFVUDRBYkJhRVdrbVdPamlnQXN2czBHQl9VSnBWU1BOZlkzVGJUenpzVE1Ed3R3NXB3ZFhIQmViYlJGNDRnYTk0ZVlTenBvYTZDNEdrVXJhSzdpcDduMDhLTnlsbENYU0NkdmtEQV9Ed2VuSGRpSEJQQmM?oc=5"
+          "name": "Politico",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM01WTXRNMjBOV19zM2JCTzNHcmpzMTNXSHlWVGcxRUF6ZXF3QkF0MTVlVU9NUTM1THZsRUJaYV9oRlpCZ0tWdkZzYndxRHJXUXBLQldscWZ0WFc3X1BLUzRSM1FPTEpRdmNnckM2Z2J5OTZjLTI2c1lEZG9BQTRTYW42RUxWVUNVdUJ4eWdxY1Z1QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "405da294e512",
+      "title": "Contaminants, including ink, detected in meteorites suggest sample preparation needs improving - Phys.org",
+      "published": "2026-04-14T08:13:21+00:00",
+      "summary": "Contaminants, including ink, detected in meteorites suggest sample preparation needs improving&nbsp;&nbsp;Phys.orgAnalysing The Sample Preparation Process In Meteorites And Its Impact On The Pretreatment Of Returned Samples To Earth&nbsp;&nbsp;astrobiology.com",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aN0tsbkRYZzVyZy1oLVJXOWpyN003b05wcGEtbDlDbGVLWWZaTXRtLUFlVkZMbGFYcmhMekhKLWVBODliNHRqcE1DRVZJRDE1azBLcTBKWmpjT2FXbzFid0FoZHpTRXgwWV9yNnhuRzRTaE9ub0xqSg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b33ad0fec6f9",
+      "title": "Experts Reveal the Early Symptoms of a Zinc Deficiency - Prevention",
+      "published": "2026-04-14T07:00:00+00:00",
+      "summary": "Experts Reveal the Early Symptoms of a Zinc Deficiency&nbsp;&nbsp;Prevention",
+      "sources": [
+        {
+          "name": "Prevention",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRTEJrUWczd0xrUnlGdVlkd3JHZ0FwZjRBaGF2YUZpWWZaYVNmZzFGcE4xVXFWbnNIenBfalB5Y1IwWWdCQkVjRnFNVExVTlNpR1h2OWV3UmF2cS05aXZJdmJKY1M5X3lyM0NLNzUtR0h0UDk0ZWhTb3N4SVdqWTA?oc=5"
         }
       ]
     },
@@ -561,7 +753,7 @@
       "id": "d7586eae330a",
       "title": "Marriage Linked to Lower Cancer Risk In Study of 4 Million Cases - ScienceAlert",
       "published": "2026-04-13T23:31:22+00:00",
-      "summary": "Marriage Linked to Lower Cancer Risk In Study of 4 Million Cases&nbsp;&nbsp;ScienceAlertAdults Who Never Married Have Higher Rates of Some Cancers&nbsp;&nbsp;University of MiamiYour Marital Status May Raise Your Cancer Risk—Experts Explain Why&nbsp;&nbsp;SELF MagazineMarriage Linked to Lower Cancer Risk, Study Finds&nbsp;&nbsp;National TodayShould’ve put a ring on it? Maybe! Marriage is linked to lower risk of cancer&nbsp;&nbsp;CNN",
+      "summary": "Marriage Linked to Lower Cancer Risk In Study of 4 Million Cases&nbsp;&nbsp;ScienceAlertAdults Who Never Married Have Higher Rates of Some Cancers&nbsp;&nbsp;University of MiamiCancer risk is significantly higher for adults who have never married, finds large study&nbsp;&nbsp;Medical XpressMarried People Get A Major Biological Advantage That Single People Don’t Usually Get, According To Research&nbsp;&nbsp;YourTangoMarriage Linked to Lower Cancer Risk, Study Finds&nbsp;&nbsp;National Today",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -597,7 +789,7 @@
       "id": "d4ed307a78a2",
       "title": "Heartwarming video shows Artemis II astronaut Christina Koch reuniting with her dog - NBC News",
       "published": "2026-04-13T21:05:40+00:00",
-      "summary": "Heartwarming video shows Artemis II astronaut Christina Koch reuniting with her dog&nbsp;&nbsp;NBC NewsArtemis II Astronaut Christina Koch Shares an Inspiring Message for Earth After Her Historic Flight&nbsp;&nbsp;People.comHouston, We Have a Climber: Astronaut Christina Koch on Her Earthbound Hobby&nbsp;&nbsp;Climbing MagazineVictor Glover and Christina Koch post-flight&nbsp;&nbsp;The Planetary SocietyNASA astronaut’s dog ‘over the moon’ for her return. Watch the heartwarming video&nbsp;&nbsp;W",
+      "summary": "Heartwarming video shows Artemis II astronaut Christina Koch reuniting with her dog&nbsp;&nbsp;NBC NewsHouston, We Have a Climber: Astronaut Christina Koch on Her Earthbound Hobby&nbsp;&nbsp;Climbing MagazineWatch: NASA astronaut’s dog ‘over the moon’ for her return from lunar mission&nbsp;&nbsp;WESHNASA astronaut’s dog ‘over the moon’ for her return. Watch the heartwarming video&nbsp;&nbsp;WLWTWATCH: Artemis II astronaut Christina Koch reunites with dog after 10 days in space&nbsp;&nbsp;Yahoo",
       "sources": [
         {
           "name": "NBC News",
@@ -609,11 +801,23 @@
       "id": "0685ff9d760a",
       "title": "Juab School District reports confirmed measles case as statewide outbreak grows - KSL.com",
       "published": "2026-04-13T21:00:35+00:00",
-      "summary": "Juab School District reports confirmed measles case as statewide outbreak grows&nbsp;&nbsp;KSL.comSouth Carolina sees no new measles activity as Utah becomes epicenter of US outbreaks&nbsp;&nbsp;CIDRAPUtah measles cases declining over past 2 weeks, state health updates show&nbsp;&nbsp;KLAS 8 News NowUtah becomes epicenter of U.S. measles outbreaks as cases in South Carolina stall&nbsp;&nbsp;AOL.comDPH reports no new measles cases ahead of potential April end to state outbreak&nbsp;&nbsp;South Ca",
+      "summary": "Juab School District reports confirmed measles case as statewide outbreak grows&nbsp;&nbsp;KSL.comSeveral preschools exposed to measles as Utah reaches over 600 cases&nbsp;&nbsp;ABC4 UtahJuab School District confirms measles case amid Utah's growing outbreak&nbsp;&nbsp;KUTVMeasles outbreak spreads in Utah, hitting people without the vaccine&nbsp;&nbsp;KUERSouth Carolina sees no new measles activity as Utah becomes epicenter of US outbreaks&nbsp;&nbsp;CIDRAP",
       "sources": [
         {
           "name": "KSL.com",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaXZVYWg3MXBpWDJxa3FJZXZhRzQ4SVh0YW1hai1XY2hxVG5ZR0VKUlBNYWdqSGpROWxKYzlOUFlVSmVRei1kUnU4c0VOMDh6MWlMeWQ5RmtwSzRHUnpKNXlCWUR5NFg5R2hlUlZhVUVud3VBUWYxdGZ1RG9PdWNfLXp1UExqX2ZraHFRbGxBZXd2c3dRbmdGLWV2ZWpLSWp5MGM2VHZxekkyZ2lJRFdiWmZPNVZuNG8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d60b9e59f666",
+      "title": "Astronomers Just Nailed Down the Universe’s Expansion Rate... and Now They Have More Questions - Gizmodo",
+      "published": "2026-04-13T20:45:59+00:00",
+      "summary": "Astronomers Just Nailed Down the Universe’s Expansion Rate... and Now They Have More Questions&nbsp;&nbsp;GizmodoThe Local Universe’s Expansion Rate Is Clearer Than Ever, but Still Doesn’t Add Up&nbsp;&nbsp;NOIRLab'Something's missing': Most thorough-ever study of the cosmos proves we still can't explain how the universe is expanding&nbsp;&nbsp;Live ScienceScientists Figured Out How Fast the Universe Is Expanding, But the Answer Is Troubling&nbsp;&nbsp;VICEMost Precise Measurements Yet Of Nearby",
+      "sources": [
+        {
+          "name": "Gizmodo",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeXdiRTBRRDllYjVyQkpzVTNKSFh4WnM4Z3daQ2tQc3BFLWhWcFpIUTRsMzVzY3RBbVluUlhMWWRaUGNfWUI3emdmb2FaeC1JakNTd1JtNE91RFRJYXNKVXNYNmgyUUJkTlktbU1BcTIzTjM1OUhBcTFZUUQ4RVpfV3lwbVVxT1VoUHBJV05lWFJSWEJWX25fVWlFRWRlOC1BUjRPeXRRc0tvMG1aQVlQRDFBSm9OR3c1QU9qRDVB?oc=5"
         }
       ]
     },
@@ -650,186 +854,6 @@
         {
           "name": "Neuroscience News",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpdkI4RG1OWlM2ZDVhNnUzajlITGdscjluQmhvYVZsVC04eHV3ZTN6TVlQVk45MnkxX3BRR1pqNXgySW04eGpydER1WGxOaUhkNFhFemFVbnNDR3dmcjhVb3R6S1RrWHB0eWQxYWNOd3NXQjA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7975a5633010",
-      "title": "The exact heart rate to hit to burn fat and boost heart health better than high-intensity exercise - Daily Mail",
-      "published": "2026-04-13T19:11:07+00:00",
-      "summary": "The exact heart rate to hit to burn fat and boost heart health better than high-intensity exercise&nbsp;&nbsp;Daily MailWhy ‘zone two’ exercise is key to a healthy heart&nbsp;&nbsp;The Times",
-      "sources": [
-        {
-          "name": "Daily Mail",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNGU1NjdiSUI1aTJwQmJ2TGdyci1vbklYUEpEMTdCb1hmWDFobERsX2M4aU1xUTlDV2hrdXFFYmUzN0o5M2RZNGJZa05jY1V6RTdaWVZzekJTbGFHMG9vUXMtLWNmUTJzbksxZDNrQ0xnZl9fM3N4aUZ2eDNHaEhlTVhaUk1TMVYwZW1NX1Q0elltOUFvY1ctM9IBngFBVV95cUxONkZzbTY1TTl4UlduQW1sS0VmdUJzWlhqZy1sa0J4QVRlOFJjdUk1UGlUaWE5YzhzZHVEUHJFQ2tTcVVrVHB6MXB3cFdhSEZkd2RlM055UGF1YnB5NUU3VUFvakRuMUl4MlFPMWllZmQyeU1FaXJybGNDQ2NhaWJLWE41QWFKaE45UldVVU00STFqeWxMMU9BV1M5U25pUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "21a25a96dbfc",
-      "title": "Scientists Uncover Brain Changes That Link Pain to Depression - SciTechDaily",
-      "published": "2026-04-13T18:33:34+00:00",
-      "summary": "Scientists Uncover Brain Changes That Link Pain to Depression&nbsp;&nbsp;SciTechDaily",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaHFiUGtVaTdUaE5EdFNsRUx2bDktcmxSMzdYblFMMUkwNDF6SUVNeXdHM204RHdVenVhSHE1TUljSnJUaVkyUGozbllFUFhycGpaZVl0ZlB2a2RSUkVIRFBPcG55aFpLQjBCVVMwTkNFSFRfSy1ldGFDLWN4UWNfd1pxUGFuS1h1ekhZaUh0SzQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c4905bc744d6",
-      "title": "A Diarrhea-Causing Superbug Is on the Rise, Health Officials Warn - Gizmodo",
-      "published": "2026-04-13T18:30:29+00:00",
-      "summary": "A Diarrhea-Causing Superbug Is on the Rise, Health Officials Warn&nbsp;&nbsp;GizmodoShigella, diarrhea-causing infection, increasing in US, CDC says&nbsp;&nbsp;USA TodayAntibiotic-resistant bacteria linked to severe stomach illness across US&nbsp;&nbsp;Fox NewsCases of drug-resistant infection that causes diarrhea are rising: What to know&nbsp;&nbsp;FOX 8 NewsDrug-resistant Shigella threatens young children globally&nbsp;&nbsp;UW Medicine | Newsroom",
-      "sources": [
-        {
-          "name": "Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcldSdHhReGlBT3FTUnVOMkxMTWRwbW1QTldkWTdNZXhZa3BKTXRFWGMzcUNnT0dFT20wSElqT2NUWGZ1dUgxOUVodVhCaDFiZkVDWTZkb3JkQnc5S2p0NkxydjMyMlRTcGRiak04bEhIRFV6YXlZSGw1Ym1WOU11czdyOERDMmpxMVZaQmtPTDQxLWVaeTFxQl9lSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e18575e2253f",
-      "title": "Top GOP lawmaker pushes back on NASA’s budget cuts - Politico",
-      "published": "2026-04-13T18:09:48+00:00",
-      "summary": "Top GOP lawmaker pushes back on NASA’s budget cuts&nbsp;&nbsp;Politico82 NASA missions at risk under new proposal&nbsp;&nbsp;The Planetary SocietyOpinion | NASA Flew by the Moon, but Behind the Scenes, Its Science Is a Chaotic Mess&nbsp;&nbsp;The New York TimesOpinion | As Artemis II splashes down, the Trump admin is trying to slash NASA’s budget&nbsp;&nbsp;MS NOWJubilant return of Artemis II shadowed by ‘extinction-level’ cuts to Nasa: ‘It’s discordant’&nbsp;&nbsp;The Guardian",
-      "sources": [
-        {
-          "name": "Politico",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUklRNlhpUlRYRGEwM19ZamtRMTZQWmVFXzVXSWROUGdJTHJVSkx3LV9YRGl1MTZfeVdxVXRUbDV5Mnp5Y0tDOVEtRlNLU2RNX3l5V2ViMnhVMndWTWhlcTllZXktZVJyTFNHUG5kcUc4UC1FeEJiZXRjZEphUTFFODZfLW9ETDJTV2pJM1k0TVpxNjhiUWdqZ2d5U1pYdFF4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "446f5a53ccdc",
-      "title": "Katie Couric said she follows 3 tips to prevent colon cancer after her husband died of the disease - Business Insider",
-      "published": "2026-04-13T18:08:00+00:00",
-      "summary": "Katie Couric said she follows 3 tips to prevent colon cancer after her husband died of the disease&nbsp;&nbsp;Business Insider",
-      "sources": [
-        {
-          "name": "Business Insider",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWUFPZFhuY2dQRzRBS1ZyQWtKWTdvNHVBaTFhQTROMG9qUUEwLTNtV2NrQXQxOUphZjRiUXllcWZFaWt1OFFpNV9aTGpDaUlmTHROY2pDd1d2U1Z1Nnk2MDkzd3kzMV92X2hyektoMFRKMy1UTk03VlNYeW9BV2l5a2NwZ0RISXRveG5IdEdn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0d5434e06ff6",
-      "title": "Ultrasound creates light inside the body, opening a new path to targeted treatments - Phys.org",
-      "published": "2026-04-13T17:00:01+00:00",
-      "summary": "Ultrasound creates light inside the body, opening a new path to targeted treatments&nbsp;&nbsp;Phys.orgAn ultrasound-scanning in vivo light source&nbsp;&nbsp;NatureScientists Create Light Inside the Human Body Using Waves of Ultrasound&nbsp;&nbsp;The DebriefUltrasound-Generated Light Enables Noninvasive Targeted Treatments&nbsp;&nbsp;National TodayShining a light *inside* the body with ultrasound-activated nanoparticles&nbsp;&nbsp;BioTechniques",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hTnZYSzBoODFUWl9qaGU1ZFFVd2dBYXlIMWVZbkQwcjhVU1M3YjhwSTZveG5DOGFUaDZabEhNSFZVNjJUU0tFUlpueGtZNU40WlY3ZFVIOGlvYWotdElodlNkYWlYWXlHVGZnSkgxUWxaOEtf?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6d14edccc347",
-      "title": "Column | I’m an oncologist. Here’s why I recommend exercise to lower cancer risk. - The Washington Post",
-      "published": "2026-04-13T17:00:00+00:00",
-      "summary": "Column | I’m an oncologist. Here’s why I recommend exercise to lower cancer risk.&nbsp;&nbsp;The Washington PostPost-diagnostic physical activity linked to lower mortality across multiple cancer types, study shows&nbsp;&nbsp;Hospital Healthcare EuropeSouth Florida program uses exercise to help cancer patients recover, reduce recurrence risk&nbsp;&nbsp;WPLG Local 10How Walking Can Help Reduce Cancer-Related Fatigue&nbsp;&nbsp;American Cancer Society",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ0tEbUhjR2tpeVNCTnhMaHJsYXM1NmFFZkN5NGc1WkxMUHN3NktzcWNOTlp4bFAtZWNkajRfNEI1S1dyaHNlaVNKcG54eV90WkREN0ZBVEtMVkoyd2ZJMk1GU19KZ1ZUQkRGaTEzNkNOclJyVkVqMy1qOXJfenBDUDkxSVRLUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f40c585ff88d",
-      "title": "Heart Disease Is Preventable. So Why Does It Kill So Many of Us? - AOL.com",
-      "published": "2026-04-13T16:43:29+00:00",
-      "summary": "Heart Disease Is Preventable. So Why Does It Kill So Many of Us?&nbsp;&nbsp;AOL.comView Full Coverage on Google News",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVk1UUzhwZHQzazNkeWZFZU9XZXhvOTYyRGlvOUw0R3FHdmJkWldqWjA5YUhDRTY2MEk3bC0wTnlzMHgxTWxUZHpSdUZWWk1aM2J1akw0aU9vRGRvTFRhWjhFTkdzb3M0TnRia1VDUG5FUHdIWjNpdFE4TTNUdzJ6a05oZ2s?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c1acf2a7967a",
-      "title": "In Arizona's desert, tiny ants turn into living hygienists, climbing inside bigger ants' mandibles and cleaning them - Phys.org",
-      "published": "2026-04-13T16:20:04+00:00",
-      "summary": "In Arizona's desert, tiny ants turn into living hygienists, climbing inside bigger ants' mandibles and cleaning them&nbsp;&nbsp;Phys.orgFor Ants, a ‘Cleaning Station’ in the Desert&nbsp;&nbsp;The New York TimesScientists discover “cleaner ants” that groom giant ants in Arizona desert&nbsp;&nbsp;ScienceDailyCleaner ants tending to harvester ant (IMAGE)&nbsp;&nbsp;EurekAlert!Smithsonian Research Associate Discovers Ants Assemble To Be Picked Clean by ‘Cleaner’ Ants, a Novel Insect Behavior&nbsp;&n",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyWkZkeUVRdkwxTWJ4Z2dXZkZOQTJGT3ZELWhtVWtabDB2My0yNVdJRVRpQzhEaEFmd3RCTm5MUk15WWwwVXJRSFdTSWUzU3Q4a3Y5Qzd4dHByaWtRNy1nWEpTNy1CbllUTHI5UGxISVdScm55bmRFdUI2YXA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1893321a5217",
-      "title": "Californian Hybrid Honeybee Population Has Evolved Natural Defense against Varroa Mites: Study - Sci.News",
-      "published": "2026-04-13T16:14:58+00:00",
-      "summary": "Californian Hybrid Honeybee Population Has Evolved Natural Defense against Varroa Mites: Study&nbsp;&nbsp;Sci.NewsSoCal's hybrid bees outsmart Varroa mites before they even hatch&nbsp;&nbsp;Phys.orgUnique Honeybees Found Only in Southern California Can Fend Off Deadly Varroa Mites&nbsp;&nbsp;Good News NetworkResearchers in beekeeping suits (IMAGE)&nbsp;&nbsp;EurekAlert!Southern California bees are keeping deadly mites in check&nbsp;&nbsp;The Brighter Side of News",
-      "sources": [
-        {
-          "name": "Sci.News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYjlsV2ZUd3JWZjBTYWhuN2RVZC10UDRUVGhTOU5zS1dwWlRmQU1QVGcxa21VTWJhb19PV3piY1RPdmRuYTFnbHF1SUdfeVE2T3ZhN3BVcHpJWldybmFMdGdMemFLMGxqOW84UFBVUjNSNmZJWUlZb3FLaG5vdy10Y2tKNkpQajNBTVJBSGs4dUhIZ1U1Q0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3da5d7303cf8",
-      "title": "Can Exercise Offset the Risks of Drinking Alcohol? - Verywell Health",
-      "published": "2026-04-13T15:45:17+00:00",
-      "summary": "Can Exercise Offset the Risks of Drinking Alcohol?&nbsp;&nbsp;Verywell Health",
-      "sources": [
-        {
-          "name": "Verywell Health",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMGRmWEtDV0VlUXhIcjRER24tQnlrX1diaWpGdVZFY042QTBCZ3h5ZEhqMFNPVFlEOHRpQloxa2IwV3pySFRrWjRFcDZ5b1Y2cU9VZWZXc1Y0NnlPYlZqdmxwVGhTamVUdlhrSHp6NEw4WEtmd050SThFVjR1SW1OZWNkRXVGUkRqck9vR2RUend3Rm8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ddac73225401",
-      "title": "NIH-funded breakthrough shrinks CRISPR for precision delivery in the body - National Institutes of Health (.gov)",
-      "published": "2026-04-13T15:10:08+00:00",
-      "summary": "NIH-funded breakthrough shrinks CRISPR for precision delivery in the body&nbsp;&nbsp;National Institutes of Health (.gov)Comparative characterization of Cas12f orthologs reveals mechanistic features underlying enhanced genome editing efficiency&nbsp;&nbsp;NatureNew bite-sized CRISPR molecule may open doors for therapeutic genome editing&nbsp;&nbsp;EurekAlert!‘Mini Molecular Scissors’ Could Enable Targeted Gene Editing&nbsp;&nbsp;LabcompareEngineered Miniature CRISPR Boosts Gene‑Editing Efficienc",
-      "sources": [
-        {
-          "name": "National Institutes of Health (.gov)",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWFQyRXVpZ2tpZlhONlljb24yWGhiSS1rQnZsZHVqZHdXbWVEWnd5dHA1ckhiRDZ2SWlNOHpLX3NXQkh6QU12ZkR0Z00zVUxRdV9oUkkzNEtPc2tJSUZTWWVGd2trYXhYaUlGR0s0azA1Z1FMSTYyZmY4V29pNkhHeVVqdWdzS2ZMc19uSF9CZFhVWFV4SzVLY25JZ1RKUWg3ZmtMWG9JSDhHeWp1?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7987bb12fbc2",
-      "title": "Laser Technology Could Soon Replace Fuel in Space, Launching Humanity into a New Era of Light-Speed Exploration - The Daily Galaxy",
-      "published": "2026-04-13T14:15:00+00:00",
-      "summary": "Laser Technology Could Soon Replace Fuel in Space, Launching Humanity into a New Era of Light-Speed Exploration&nbsp;&nbsp;The Daily GalaxyGraphene and lasers for space propulsion&nbsp;&nbsp;European Space AgencyAvatar was right: scientists from the European Space Agency have proven that a laser beam can move objects in space without using a drop of fuel, and the discovery paves the way for ships that never need to refuel, satellites that never become junk, and inter&nbsp;&nbsp;CPG Click Petróle",
-      "sources": [
-        {
-          "name": "The Daily Galaxy",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoRVFid2ZvT3BCUzNQa3kyYm5ITlU1b3M0ZDAyY0lnWVNmQ1J6Q2FzMjFfenoyUmhBY0l4WDI2N3dXT1RrSzhwVE8wM2pLeG03RE9abm9WUzFyVG5heFNYWnZYN2JlbERMWC1OcXNMWDRTbGdmUzZkZjBlSVdKVnM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b309ef9d63b5",
-      "title": "You Should Be More Freaked Out by Shingles - WIRED",
-      "published": "2026-04-13T14:00:00+00:00",
-      "summary": "You Should Be More Freaked Out by Shingles&nbsp;&nbsp;WIREDShingles Vaccine Lowers Cardiovascular Risk&nbsp;&nbsp;MedscapeShingles can hit younger than you think. The vaccine can prevent the painful illness&nbsp;&nbsp;NPRThe strongest protective factor against Alzheimer’s to date&nbsp;&nbsp;Luxembourg TimesAntiviral drugs and shingles vaccines tied to lower dementia risk&nbsp;&nbsp;News-Medical",
-      "sources": [
-        {
-          "name": "WIRED",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1EUXFkZTJsMGQ4d0JhaGR3RlJ3MTc3dl9WNmJIWW9SVHJoZXVQbEwxR2RuNVRfeWc2eW9ILVJ6REJPX2NORjZtZmRKckYzTHBTTHdNM2RVLVVGY21TTFBnUWVNZkpPbnJMVV9UWVFtQVRadzZpZVVmcA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e1873b30c367",
-      "title": "Medical herbalist details three major risk factors for erectile dysfunction - GhanaWeb",
-      "published": "2026-04-13T13:02:56+00:00",
-      "summary": "Medical herbalist details three major risk factors for erectile dysfunction&nbsp;&nbsp;GhanaWebErectile dysfunction is more than a sexual issue&nbsp;&nbsp;statnews.comErectile dysfunction and diabetes connection is a link many men are unaware of&nbsp;&nbsp;6abc PhiladelphiaDiagnosing and Managing Erectile Dysfunction in Primary Care&nbsp;&nbsp;MedscapeWhy are more men experiencing erectile dysfunction at a younger age?&nbsp;&nbsp;bodyandsoul.com.au",
-      "sources": [
-        {
-          "name": "GhanaWeb",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLUVoVEFBZ05tUjZlaldJS3F2TGp5ZWlSdmwtajBlWGw3eEwyRUprckhsZ01KRWR3Y2E4RS1DZi1XMGRlakQwWVE2bGRtX3V3NHBqVi0xaTF5cUkyMjJsb1FtcWdxTWJhVU52UVdZQldRZW1MRFBhSUJadi1mYm9xQV9XZXJJalVyV2E2Qm9JclVFRlFGLTRldkJrS3JVTkFSSFE5WEJEOU5EUU9xczQ4c2VoWVhRQ2RXbkZ1UlJXMF9jdmJ3Y0JKNXlnVy1OaGs?oc=5"
         }
       ]
     }

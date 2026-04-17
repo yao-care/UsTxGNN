@@ -1,10 +1,58 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-04-17T07:53:10.493616+00:00",
+  "fetched_at": "2026-04-17T13:25:56.059329+00:00",
   "total_fetched": 140,
-  "unique_count": 140,
-  "health_related_count": 70,
+  "unique_count": 139,
+  "health_related_count": 65,
   "news": [
+    {
+      "id": "279ea5720a5d",
+      "title": "How Female Anglerfish Evolved to Have It All - The New York Times",
+      "published": "2026-04-17T12:54:58+00:00",
+      "summary": "How Female Anglerfish Evolved to Have It All&nbsp;&nbsp;The New York TimesPeculiar-Looking Anglerfishes Developed Their Fishing-Rod Lure 72 Million Years Ago&nbsp;&nbsp;Discover MagazineThis curious creature has a fishing rod dangling out of its head. It doesn't just use it for hunting…&nbsp;&nbsp;BBC Wildlife MagazineAnglerfish lures evolved over millions of years into glowing survival tools&nbsp;&nbsp;Earth.comResearch traces evolution of anglerfishes’ famed fishing-rod lures&nbsp;&nbsp;EurekA",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oWktWYzYzYUdOaXpUSnBmRm11cXo2QXY4MGRJQ2pfYmNGV2dHSE9JLTI3NWEzNFJadnY2YkdPWmw5bEUwN0h3RXRSYjRaanhXQ2RHdjQwNFZwVUV6a0s5Mk9XVkgwVHRMSnVuOWNjcEtNNERVRUJuYU1FbUdXdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fa8c01d2da04",
+      "title": "Want a Stronger, Younger Brain? Texas Researchers Say They Made a Fascinating Breakthrough - inc.com",
+      "published": "2026-04-17T09:07:46+00:00",
+      "summary": "Want a Stronger, Younger Brain? Texas Researchers Say They Made a Fascinating Breakthrough&nbsp;&nbsp;inc.comScientists reverse brain aging, with a nasal spray&nbsp;&nbsp;Texas A&amp;M StoriesResearchers Use Nasal Spray To Suppress Brain Inflammation, Reverse ageing&nbsp;&nbsp;NDTVNew nasal spray shows promise fighting memory loss and brain inflammation&nbsp;&nbsp;The Indian ExpressWhen aging progresses, chronic microinflammation accumulates deep in our brain. It is a so-called \"n..&nbsp;&nbsp;매",
+      "sources": [
+        {
+          "name": "inc.com",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbUNtZlhrRWl4eXlSYmtOX1RBbjhuMXQ4MDdETjZPU0dBU3docVNRUkt3MXA4eWpEZ19pV1lKT2VlSkJ0Nm1kMWt4b1dWRnlRdkwwdkdfUXRfSjMtNEVMcjMtV0JvOEIyT0dXdW9mT3BUUjg5akpCZlJsV3R4Sk8zWGRTS21fcmlCbDZFVGZZY05xRkJZcFNGTHNuenVZQnVoX3FFRVZzZ252WVJuSjVyUHRRRnMyUms5eEVnUklLaUVELTVrbGxTWnc5Z3ZqajVTMHBF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "20d0591e0d98",
+      "title": "6 Common Medications That May Lower Your Dementia Risk - The New York Times",
+      "published": "2026-04-17T09:00:10+00:00",
+      "summary": "6 Common Medications That May Lower Your Dementia Risk&nbsp;&nbsp;The New York TimesFlu vaccine may slash Alzheimer's risk: Here's what dose to get&nbsp;&nbsp;Medical News TodayA flu vaccine recommended for older adults could lower Alzheimer’s risk, research finds&nbsp;&nbsp;San Francisco ChronicleA Simple Flu Shot May Cut the Risk of Alzheimer’s, Study Finds&nbsp;&nbsp;inc.comHigh-dose flu shot linked to lower Alzheimer's risk, new study shows&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYVFza2NaZWxzeUNQU0JHYnl2YTB6NlRleVdhQ2VCS1hJaGZoN21QRWJHSkluSGFQLWlpYk1xdENjN3V1Mk1scGthRnR2N29ja1FGNnFCZ3otSmE0RjlQTXlDUF9SVUhNYU5YVHFTUDZWeWZaR3dnMjV5ZTlGTzJobmVCbFpRaWhOWU1KeQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d333dc0c0358",
+      "title": "Popular weight loss medications linked to hidden side effects, study finds - Ground News",
+      "published": "2026-04-17T08:24:00+00:00",
+      "summary": "Popular weight loss medications linked to hidden side effects, study finds&nbsp;&nbsp;Ground NewsView Full Coverage on Google News",
+      "sources": [
+        {
+          "name": "Ground News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR21QeTMtWi1NSFVQc09NNDNFOFlYWWx0VC11NTdRSEtpM2g3eEVsVmtwQzBYVm1Va2l0T09VUl85cmlvYXZSV1JtOWNvNm0wbzdlZHVSeHdydE5xcHUtaU5XYS1NRVBJQnRRUHp6NGRRNkRzZjA4VVhBd0pNRFpWdUkwX2poTzBNa2x4S19qN3hLVVhLZ2NtNHVENkYxVF80bkRaRVVnQk43UXJJ?oc=5"
+        }
+      ]
+    },
     {
       "id": "0a4fdadf8134",
       "title": "Century-Old Cleaning Chemical Linked to 500% Increased Risk of Parkinson’s Disease - SciTechDaily",
@@ -21,7 +69,7 @@
       "id": "6b03f71bf1e9",
       "title": "Red hair gene favoured by natural selection over last 10,000 years, study finds - The Guardian",
       "published": "2026-04-17T00:45:00+00:00",
-      "summary": "Red hair gene favoured by natural selection over last 10,000 years, study finds&nbsp;&nbsp;The GuardianMassive Ancient-DNA Study Reveals Natural Selection Has Accelerated in Recent Human Evolution&nbsp;&nbsp;Harvard Medical SchoolNature Is Still Molding Human Genes, Study Finds&nbsp;&nbsp;The New York Times'Human evolution didn't slow down; we were just missing the signal': Large DNA study reveals natural selection led to more redheads and less male-pattern baldness&nbsp;&nbsp;Live ScienceRedhea",
+      "summary": "Red hair gene favoured by natural selection over last 10,000 years, study finds&nbsp;&nbsp;The GuardianMassive Ancient-DNA Study Reveals Natural Selection Has Accelerated in Recent Human Evolution&nbsp;&nbsp;Harvard Medical SchoolNature Is Still Molding Human Genes, Study Finds&nbsp;&nbsp;The New York TimesNatural selection ‘favours gingers’&nbsp;&nbsp;YahooRedheads are genetic winners? Ha, I knew it&nbsp;&nbsp;The Times",
       "sources": [
         {
           "name": "The Guardian",
@@ -33,7 +81,7 @@
       "id": "787efcb264ec",
       "title": "'Silent killer' explosion: lifestyle habit doctors fear is to blame - Daily Mail",
       "published": "2026-04-17T00:41:54+00:00",
-      "summary": "'Silent killer' explosion: lifestyle habit doctors fear is to blame&nbsp;&nbsp;Daily MailWhy Are More Young Adults Having Strokes? And How to Lower Your Risk&nbsp;&nbsp;University of Utah HealthMore young people are having strokes: What to know&nbsp;&nbsp;multicare.org#HEALTH: Burnout and chronic stress increases stroke risk&nbsp;&nbsp;nst.com.myEMTs Said ‘Panic Attack.’ She Said ‘Stroke.’ She Saved Her Own Life&nbsp;&nbsp;Women's Health",
+      "summary": "'Silent killer' explosion: lifestyle habit doctors fear is to blame&nbsp;&nbsp;Daily MailWhy Are More Young Adults Having Strokes? And How to Lower Your Risk&nbsp;&nbsp;University of Utah HealthMore young people are having strokes: What to know&nbsp;&nbsp;multicare.org#HEALTH: Burnout and chronic stress increases stroke risk&nbsp;&nbsp;NST OnlineEMTs Said ‘Panic Attack.’ She Said ‘Stroke.’ She Saved Her Own Life&nbsp;&nbsp;Women's Health",
       "sources": [
         {
           "name": "Daily Mail",
@@ -42,10 +90,22 @@
       ]
     },
     {
+      "id": "92cfdf074130",
+      "title": "Will retatrutide help me lose weight or look ‘shredded’? - The Conversation",
+      "published": "2026-04-17T00:30:00+00:00",
+      "summary": "Will retatrutide help me lose weight or look ‘shredded’?&nbsp;&nbsp;The ConversationWhat experts say about claims of new weight-loss drug making people fall out of love&nbsp;&nbsp;CTV NewsThe experimental drug being marketed as the next big thing in weight loss&nbsp;&nbsp;The IndependentExtreme Side Effects Followed Overdose of Unapproved Weight-Loss Drug&nbsp;&nbsp;MedPage TodayTirzepatide vs. Retatrutide: Key Differences Explained&nbsp;&nbsp;businessfocusmagazine.com",
+      "sources": [
+        {
+          "name": "The Conversation",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWU5RRXFFRWpGb1otWmk2aGx1c18xNUJTVHRLOHk4RXVBSFZXcElXNS1fQW52RU4tZWZ5TlhlUlg1a2JfWTNobjRlNk40U2JWTWFGMllKWU9taTJLdHB4dkFzTGwtZ3dWVEZCWlVzeDlLdHdONl9rbi1zUmZaRFcxcTktOWF3VklmWHZfYlh5aW5iZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "628f4b3ed9e1",
       "title": "Scientists Reveal Why Bread Can Cause Weight Gain Without Overeating - ScienceAlert",
       "published": "2026-04-16T23:31:56+00:00",
-      "summary": "Scientists Reveal Why Bread Can Cause Weight Gain Without Overeating&nbsp;&nbsp;ScienceAlertScientists discover why bread can cause weight gain without extra calories&nbsp;&nbsp;ScienceDailyEating only carbohydrate-rich foods like wheat and rice can lead to weight and fat gain, even if calorie intake remains the same.&nbsp;&nbsp;GIGAZINECarb-heavy foods drove weight gain without more calories by lowering energy burn&nbsp;&nbsp;Medical XpressScientifically, it has been found that carbohydrate-ori",
+      "summary": "Scientists Reveal Why Bread Can Cause Weight Gain Without Overeating&nbsp;&nbsp;ScienceAlertCarb-heavy foods drove weight gain without more calories by lowering energy burn&nbsp;&nbsp;Medical XpressEating only carbohydrate-rich foods like wheat and rice can lead to weight and fat gain, even if calorie intake remains the same.&nbsp;&nbsp;GIGAZINEScientists discover why bread can cause weight gain without extra calories&nbsp;&nbsp;ScienceDailyScientifically, it has been found that carbohydrate-ori",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -54,14 +114,14 @@
       ]
     },
     {
-      "id": "f611495af2ad",
-      "title": "Utah Becomes the New Center of U.S. Measles Cases - The New York Times",
-      "published": "2026-04-16T22:42:01+00:00",
-      "summary": "Utah Becomes the New Center of U.S. Measles Cases&nbsp;&nbsp;The New York TimesUtah reports more than 600 measles cases as outbreak spreads across US&nbsp;&nbsp;The GuardianSeveral preschools exposed to measles as Utah reaches over 600 cases&nbsp;&nbsp;ABC4 UtahMeasles and Moab? Pitkin County Public Health raises awareness in off-season&nbsp;&nbsp;AspenTimes.comUtah measles outbreak tops 600 cases, now most active in the US&nbsp;&nbsp;CIDRAP",
+      "id": "c5dc4d243424",
+      "title": "Soaking in a Hot Tub Bestows Surprising Health Benefits, Even More Than Saunas, New Study Says - Good News Network",
+      "published": "2026-04-16T22:10:00+00:00",
+      "summary": "Soaking in a Hot Tub Bestows Surprising Health Benefits, Even More Than Saunas, New Study Says&nbsp;&nbsp;Good News Network",
       "sources": [
         {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hQ2dXa3N6TG9ZVTdISUxDRlpYWjVvQ2R1WUN3QTc1c2NIdkc3bGQ5MTFqMGNqTXhUdXhwNVFKQVBQYTBKRENOeGlObm9zZ3g3LXpmTDJEYVJIM24xTEI1bmNZWXQxVTVhdjRlMDFtSTg?oc=5"
+          "name": "Good News Network",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWW1sLTJQUXhqcmRmT1hZVTh6bWFUTlVnVjlBSVYyekdtVUM4ei1ZSWZuRFB4bkhOLUY1SzNqSEZETVB6S3lldVp6SVJYRHc1UHNWenluYlZ4dzB6MlFmVDJIZ0RZUFdSRWNaTVd2TG1lYXJXUUtqOHJzYWtqa3hIeFdpZWljQjRhbFhIbTI0QnhWcjdCUXZF?oc=5"
         }
       ]
     },
@@ -102,10 +162,22 @@
       ]
     },
     {
+      "id": "a33080738f11",
+      "title": "Revealed: how male and female brain cells differ in gene activity - Nature",
+      "published": "2026-04-16T19:25:49+00:00",
+      "summary": "Revealed: how male and female brain cells differ in gene activity&nbsp;&nbsp;NatureWhy Men and Women Process Mental Risk Differently&nbsp;&nbsp;Neuroscience NewsStudy Offers a “Treasure Trove” of Clues to Sex Differences in the Brain&nbsp;&nbsp;the-scientist.comSex-specific gene expression in the brain linked to disease risk&nbsp;&nbsp;동아사이언스High-resolution study maps molecular differences across six human cortical regions&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85X2VIbkQyamhudEhtRXEwWW9LMUVCcTA1T0E3c1dWazRrbXBDc2VqbkFEcGtUZzV0MllhS0FTX2hra2I5TG0zMkRSN2xkZTZXZkJ1SGEzc2U5OU9OT25r?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9270e0ed6b7a",
       "title": "San Francisco reports first case of more severe mpox strain - San Francisco Chronicle",
       "published": "2026-04-16T18:37:26+00:00",
-      "summary": "San Francisco reports first case of more severe mpox strain&nbsp;&nbsp;San Francisco ChronicleSan Francisco Reports Its First Clade I Mpox Case — What to Know and How to Find a Vaccine&nbsp;&nbsp;KQEDSF health officials urge vaccinations after new case of monkeypox reported&nbsp;&nbsp;Local News MattersUnvaccinated SF Patient Hospitalized in City's First Potent Mpox Case&nbsp;&nbsp;Hoodline",
+      "summary": "San Francisco reports first case of more severe mpox strain&nbsp;&nbsp;San Francisco ChronicleSan Francisco Reports Its First Clade I Mpox Case — What to Know and How to Find a Vaccine&nbsp;&nbsp;KQEDSF health officials urge vaccinations after new case of monkeypox reported&nbsp;&nbsp;Local News MattersSF: Health Officials Urge Vaccinations After New Case Of Monkeypox Reported&nbsp;&nbsp;SFGATEUnvaccinated SF Patient Hospitalized in City's First Potent Mpox Case&nbsp;&nbsp;Hoodline",
       "sources": [
         {
           "name": "San Francisco Chronicle",
@@ -114,14 +186,26 @@
       ]
     },
     {
-      "id": "9ec898963012",
-      "title": "'We all screamed when it happened': Bright-green fireball meteor caught exploding over famous Viking raid site in UK - Live Science",
-      "published": "2026-04-16T17:24:57+00:00",
-      "summary": "'We all screamed when it happened': Bright-green fireball meteor caught exploding over famous Viking raid site in UK&nbsp;&nbsp;Live ScienceUk Green Fireball: Mysterious green fireball lights up UK skies, experts reveal what it was&nbsp;&nbsp;The Times of IndiaA Kent Fireball Lit Up the Night Sky and Plunged Into the North Sea&nbsp;&nbsp;Orbital TodayMeteor spotted lighting up night sky across eastern England&nbsp;&nbsp;BBCWatch: Green meteor blazes a fiery path across the UK sky&nbsp;&nbsp;Yaho",
+      "id": "975a2483ed5b",
+      "title": "This Is the Most Common Time of Day To Have a Heart Attack, According to Cardiologists - AOL.com",
+      "published": "2026-04-16T18:19:36+00:00",
+      "summary": "This Is the Most Common Time of Day To Have a Heart Attack, According to Cardiologists&nbsp;&nbsp;AOL.comHere's What Spending 20 Minutes Outside Every Morning Does to Your Brain&nbsp;&nbsp;Real SimpleHeart surgeon with 25 years of experience explains why getting early morning sunlight is important for overall health&nbsp;&nbsp;Hindustan Times",
       "sources": [
         {
-          "name": "Live Science",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNDR1Nnd3VG5QemFLWlQyaXNXTEVnV2gtTFl3Ynk5cWNIQ19UQnNqR29kWHRRemRhSW1fdEpxNnBMb3Yzb25QNkdCY3ZhaVRWcDJmanB6SXM4cVF0N3p2aXFjN2FFSHA4V0JPZzZSVXpSSFgyTmhRYWVHRUJsTHYxN2d5OG13VXpkdWphSnlocUlRYXlmWmZPR2tBLVhva1JPakN3c2hGSHJORThfVm9DRGJ6d1EzX3lHeFJ2TmEySXdnOEhDb0JmZEo4UU1kRjgxclhhd29KcENYcWhPSkZkUEdQSmVMdzctYzB0Z21kRQ?oc=5"
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44M2swYXpPYnN3dWsweDNsaDVpWnpBY3FQYjFLS0RPakZ0Y2podDJqNHBRT0lmZjBaMHlkVWdtZVdSNXVwT3A3ZGFUaTVqOHczSEllZW5CckdBdVJyRU1tWm1ZR0F3SERubE5pOGJXQ0xFMmNrWGxSVUxn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eda6da8aa433",
+      "title": "Utah reports more than 600 measles cases as outbreak spreads across US - The Guardian",
+      "published": "2026-04-16T17:58:00+00:00",
+      "summary": "Utah reports more than 600 measles cases as outbreak spreads across US&nbsp;&nbsp;The GuardianUtah Becomes the New Center of U.S. Measles Cases&nbsp;&nbsp;The New York TimesSeveral preschools exposed to measles as Utah reaches over 600 cases&nbsp;&nbsp;ABC4 UtahMeasles and Moab? Pitkin County Public Health raises awareness in off-season&nbsp;&nbsp;AspenTimes.comUtah measles outbreak tops 600 cases, now most active in the US&nbsp;&nbsp;CIDRAP",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcmFiMFpYUnA1M25aNEg1am1icFQ2dlpaSHJpQXJLOUNoYldNTGdYTWt4TThVVllyVWZKLWxCOElmYlZ4RE1JWlBMdEIzOHE5X214ZDZRWWg3aDM1Zm5GZ0kyYTJQLVdRZkNwNFZ5ZWxMbV9VZGdyYTltZUNzc0NLTg?oc=5"
         }
       ]
     },
@@ -129,7 +213,7 @@
       "id": "a81266f40f2a",
       "title": "It Feels Like Everyone Is Using a GLP-1 to Lose 10 or 15 Pounds—Should I? - glamour.com",
       "published": "2026-04-16T16:36:35+00:00",
-      "summary": "It Feels Like Everyone Is Using a GLP-1 to Lose 10 or 15 Pounds—Should I?&nbsp;&nbsp;glamour.comQuit a GLP-1? Plan to start again? It's not recommended, but plenty of people do it&nbsp;&nbsp;NPRGLP-1s and the future of weight loss: 4 takeaways from Spotlight Tampa Bay&nbsp;&nbsp;Tampa Bay TimesWhat Happens When You Go on Ozempic But You’re Already Thin?&nbsp;&nbsp;The Daily BeastGLP-1 drugs to drive growth in obesity and diabetes treatment | AMCP Annual 2026&nbsp;&nbsp;Managed Healthcare Executi",
+      "summary": "It Feels Like Everyone Is Using a GLP-1 to Lose 10 or 15 Pounds—Should I?&nbsp;&nbsp;glamour.comQuit a GLP-1? Plan to start again? It's not recommended, but plenty of people do it&nbsp;&nbsp;NPRGLP-1s and the future of weight loss: 4 takeaways from Spotlight Tampa Bay&nbsp;&nbsp;Tampa Bay TimesWhat Happens When You Go on Ozempic But You’re Already Thin?&nbsp;&nbsp;The Daily BeastObesity, GLP-1s, and metabolic care&nbsp;&nbsp;News-Medical",
       "sources": [
         {
           "name": "glamour.com",
@@ -138,22 +222,10 @@
       ]
     },
     {
-      "id": "28421a68670e",
-      "title": "What Happens to Your Body When You Take Vitamin D and Omega-3 Together - Health: Trusted and Empathetic Health and Wellness Information",
-      "published": "2026-04-16T16:34:37+00:00",
-      "summary": "What Happens to Your Body When You Take Vitamin D and Omega-3 Together&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness Information",
-      "sources": [
-        {
-          "name": "Health: Trusted and Empathetic Health and Wellness Information",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JYkNsTWU5VWozTVJ1WlRzcFVQeEEzS0RSa2ZDTU9MeUlaOElHSUEyVi1PbHBOd3R0RldfenZjMjl0dlVyYTIwY090VVE3V1k3SUEtV1lnN2h2ai1DYXBlN3BnOA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5e627332f265",
       "title": "Novo weight-loss drug may preserve lean body mass better than Lilly's, study finds - Reuters",
       "published": "2026-04-16T16:29:38+00:00",
-      "summary": "Novo weight-loss drug may preserve lean body mass better than Lilly's, study finds&nbsp;&nbsp;ReutersOzempic Might Preserve Lean Body Mass Better Than Mounjaro: Study&nbsp;&nbsp;NDTVYounger Indians without diabetes lose weight faster on GLP-1 shots&nbsp;&nbsp;India TodayReal-World Evidence Confirms Oral Semaglutide's Metabolic Potency&nbsp;&nbsp;Medical DialoguesTirzepatide Best for Weight Loss in Adults Without T2D&nbsp;&nbsp;Medscape",
+      "summary": "Novo weight-loss drug may preserve lean body mass better than Lilly's, study finds&nbsp;&nbsp;ReutersOzempic Might Preserve Lean Body Mass Better Than Mounjaro: Study&nbsp;&nbsp;NDTVReal-World Evidence Confirms Oral Semaglutide's Metabolic Potency&nbsp;&nbsp;Medical DialoguesTirzepatide linked to more lean mass loss than semaglutide&nbsp;&nbsp;European Medical JournalTirzepatide Best for Weight Loss in Adults Without T2D&nbsp;&nbsp;Medscape",
       "sources": [
         {
           "name": "Reuters",
@@ -165,7 +237,7 @@
       "id": "48f13d511e50",
       "title": "Brainerd native over the moon after making history with Artemis II mission - Star Tribune",
       "published": "2026-04-16T16:21:50+00:00",
-      "summary": "Brainerd native over the moon after making history with Artemis II mission&nbsp;&nbsp;Star TribuneIowa State graduate contributes to NASA's Artemis mission&nbsp;&nbsp;KCCIBoone County graduate contributes to NASA Artemis II lunar mission&nbsp;&nbsp;WCPO 9 CincinnatiHotty Toddy to the Moon and Back&nbsp;&nbsp;University of Mississippi | Ole MissRural Valley siblings participate in program tied to historic space mission&nbsp;&nbsp;Indiana Gazette Online",
+      "summary": "Brainerd native over the moon after making history with Artemis II mission&nbsp;&nbsp;Star TribuneIowa State graduate contributes to NASA's Artemis mission&nbsp;&nbsp;KCCIBoone County graduate contributes to NASA Artemis II lunar mission&nbsp;&nbsp;WCPO 9 CincinnatiHotty Toddy to the Moon and Back&nbsp;&nbsp;University of Mississippi | Ole Miss16 questions for Greenwich native who worked on NASA's Artemis II moon mission&nbsp;&nbsp;Greenwich Time",
       "sources": [
         {
           "name": "Star Tribune",
@@ -186,18 +258,6 @@
       ]
     },
     {
-      "id": "b2936b9d3ac1",
-      "title": "Could This AI-Simulated Brain Lead to Human Mind-Uploading? - Gizmodo",
-      "published": "2026-04-16T15:55:40+00:00",
-      "summary": "Could This AI-Simulated Brain Lead to Human Mind-Uploading?&nbsp;&nbsp;Gizmodo",
-      "sources": [
-        {
-          "name": "Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWXd3WDJDUDJrcEVoOFFRMjhFQU9IZmJzT2RUREJwdDFjcS1EMUNPZEs1MkFxRDZNU2tGZlI5MUQ5WHh4bkN6U1hPS2c1NndGM0dvaWZIdlZObXlFeFlhbHd3UUVodHEtdjk3czd4QXBGZUlZQmd4X19qdjRiZ3Awd2NJOEhqWWk1SDhDWi1Pc3FjQ1k?oc=5"
-        }
-      ]
-    },
-    {
       "id": "56cc66c18f9f",
       "title": "Heartbroken Texas dog owner reveals that deadly ‘kissing bug’ killed her dog - as experts say cases are on the rise - Yahoo News Canada",
       "published": "2026-04-16T15:46:49+00:00",
@@ -213,7 +273,7 @@
       "id": "f5ddd88ef836",
       "title": "'Absent or trivial' effects: Anti-amyloid Alzheimer's drugs called into question once again - Fierce Pharma",
       "published": "2026-04-16T15:36:22+00:00",
-      "summary": "'Absent or trivial' effects: Anti-amyloid Alzheimer's drugs called into question once again&nbsp;&nbsp;Fierce Pharma'Breakthrough' Alzheimer's drugs unlikely to benefit patients, report suggests&nbsp;&nbsp;BBCCochrane review reignites Alzheimer’s amyloid wars&nbsp;&nbsp;statnews.comEffect of ‘gamechanger’ Alzheimer’s drugs ‘trivial’, review concludes | Dementia&nbsp;&nbsp;The GuardianAnti-amyloid Alzheimer’s drugs show no clinically meaningful effect&nbsp;&nbsp;Cochrane Collaboration",
+      "summary": "'Absent or trivial' effects: Anti-amyloid Alzheimer's drugs called into question once again&nbsp;&nbsp;Fierce PharmaCochrane review reignites Alzheimer’s amyloid wars&nbsp;&nbsp;statnews.com'Breakthrough' Alzheimer's drugs unlikely to benefit patients, report suggests&nbsp;&nbsp;BBCEffect of ‘gamechanger’ Alzheimer’s drugs ‘trivial’, review concludes | Dementia&nbsp;&nbsp;The GuardianAnalysis of Alzheimer’s Drugs Stirs Debate About Their Effectiveness&nbsp;&nbsp;The New York Times",
       "sources": [
         {
           "name": "Fierce Pharma",
@@ -222,38 +282,26 @@
       ]
     },
     {
-      "id": "3556b026c17c",
-      "title": "This speech pattern is an indicator of a brain in cognitive decline - Earth.com",
-      "published": "2026-04-16T15:25:18+00:00",
-      "summary": "This speech pattern is an indicator of a brain in cognitive decline&nbsp;&nbsp;Earth.comThe Language Changes That Separate Normal Ageing From Dementia&nbsp;&nbsp;HuffPost UK",
-      "sources": [
-        {
-          "name": "Earth.com",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSFZVZkxPYXN6ZEI1Q0ZTQ2VVQWl3UXpLcVZhc19OcjRHYVRPZjFRLW5Hc1VkQ3NXbUNvZkZFZHY4dXBhdFI2X3BqaXBYSkxqclJGWkltTjliNHUwaDVDVjFzOE04SmpqZjRNWXZxX2tmMXdVUUR6Ym8zLXF2SVhvMXpWMzF1Z19icGRicW02RUpZTlQ4WVZXR3ZxZ01IVWFtM1czRk51dDBnNUdTNFI2dg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bd011d169259",
-      "title": "\"Synthetic Organic Molecule\" Found Inside Martian Meteorite. But Don't Worry, It Is Of Human Origin - IFLScience",
-      "published": "2026-04-16T15:10:23+00:00",
-      "summary": "\"Synthetic Organic Molecule\" Found Inside Martian Meteorite. But Don't Worry, It Is Of Human Origin&nbsp;&nbsp;IFLScienceScientists Found Literal Ink From Ballpoint Pens in Martian Meteorites&nbsp;&nbsp;GizmodoAnalysing The Sample Preparation Process In Meteorites And Its Impact On The Pretreatment Of Returned Samples To Earth&nbsp;&nbsp;astrobiology.comScientists Analyzed Martian Meteorites and Uncovered Materials No One Ever Expected&nbsp;&nbsp;The Daily GalaxyContaminants Detected in Meteorit",
-      "sources": [
-        {
-          "name": "IFLScience",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaEpOS2ZXaWxqMEhTVHVPMlkxZ0pRMGRKRXJPbmF2RWJ3TjhmS0ppM3dSd2p0YndvTjUzRURFZnBkbXlWdU1FTWFQQjdTSXBSV1N4N1lQZ3NBZ0YzRVl3WHVYUjFNT1Rvb1lMYmR6aW54eFktalhNMlNodjdDV3p3V2U5LURyUGFLNDY0M2V3WHpRRXpGNXZHNEhTWWx1dUV1bFRiTFZjNlhEMDVrRGF1N0xFYW5ydmo2VmZuZkxERnhiWkRwTGc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "101a93294f1c",
       "title": "Tumour cells use a genetic trick to become drug-resistant - The Economist",
       "published": "2026-04-16T15:01:00+00:00",
-      "summary": "Tumour cells use a genetic trick to become drug-resistant&nbsp;&nbsp;The EconomistHow Do Cancer Cells ‘Learn’ to Resist Treatment?&nbsp;&nbsp;NYU Langone HealthEpigenetic changes allow cancer cells to shift identity and survive drugs&nbsp;&nbsp;News-MedicalThe protein that helps cancer cells survive treatment&nbsp;&nbsp;Umeå universitetLeveraging drug-specific genes to identify sensitizers for resistant cancer cell lines&nbsp;&nbsp;Nature",
+      "summary": "Tumour cells use a genetic trick to become drug-resistant&nbsp;&nbsp;The EconomistA mechanism for adaptive genome regulation in cancer&nbsp;&nbsp;NatureEpigenetic changes allow cancer cells to shift identity and survive drugs&nbsp;&nbsp;News-MedicalHow Do Cancer Cells ‘Learn’ to Resist Treatment?&nbsp;&nbsp;NYU Langone HealthThe protein that helps cancer cells survive treatment&nbsp;&nbsp;Umeå universitet",
       "sources": [
         {
           "name": "The Economist",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFN1Z2pJSnVuZnVBOHBjcGlNWEtYakE0RFhVLUlScnl3NUlxbmZraWRnblhoYkhzbUNkM3pJWjhXMVk5YWtmclc3RUR3M2hVTkJKTHRGdjVRdzVLWTFMcTNXZ2h4bFcxdzFNOU5pTHBldXdWaVJVVk1RWS1NRDIzRkJlWjdtZ1RVdUJWa3dFcmRMWFhfOXBlR2VYbHdqTXdQVm0yYndoMmhPQmlmdG4zWER0X0VKOXE3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0faa07084683",
+      "title": "A bacterial CARD–NLR-like immune system controls the release of gene transfer agents - Nature",
+      "published": "2026-04-16T14:24:18+00:00",
+      "summary": "A bacterial CARD–NLR-like immune system controls the release of gene transfer agents&nbsp;&nbsp;NatureAncient viruses serve as gene delivery couriers to help bacteria resist antibiotics&nbsp;&nbsp;Phys.orgBacterial Immune System Regulates Gene Transfer Agents&nbsp;&nbsp;Bioengineer.org",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IWGFTQ05zUEViQkVJQ0p2ZlB4QXBHSDRYV05wdTJ0RGpLN29TeGZPR2R4TnMyZzNTNllhVE5BVTZZUUtxcTV4LUJnZWc5V3pwSThyUjdTbzFSRWxmU3Fj?oc=5"
         }
       ]
     },
@@ -342,26 +390,14 @@
       ]
     },
     {
-      "id": "1a056e12373a",
-      "title": "Sperm Whales Speak With a Complex Alphabet and Even Have ‘Vowels,’ Study Finds - Gizmodo",
-      "published": "2026-04-16T11:00:34+00:00",
-      "summary": "Sperm Whales Speak With a Complex Alphabet and Even Have ‘Vowels,’ Study Finds&nbsp;&nbsp;GizmodoSperm whales may make their own vowel sounds, similar to human language&nbsp;&nbsp;Scientific AmericanSperm whales’ communication closely parallels human language, study finds&nbsp;&nbsp;The GuardianWe’re one step closer to understanding the sperm whale ‘alphabet’&nbsp;&nbsp;National GeographicScientists Found Human Speech-Like Patterns in Sperm Whale Clicks&nbsp;&nbsp;ScienceAlert",
-      "sources": [
-        {
-          "name": "Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMjNWTzBhaTZObnhkMXF2SnZGdnFscUJmbms4ZEd6aUI4M09yZWF3OHpkd2U0Y0FFdGxjaWlRQ1N5MXdKcXMxNmdEcjNMeDVwUS03WWRFQlN4a2tnc1NjQmNWeEVKV051UVhCNUdEX08xd2V3T0wtWFFOSHZpUmhKYlNfdjdLcUdnUl8zaXJSdGZZYWJxZDZwOHZsTWJ1UFFfdTFVTnlCNzhzbTMtM0U2V0RpYl9WYm85ZVdz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f7ea1dfa73e1",
-      "title": "Alcohol and Sleep: What Experts Want You to Know - Yahoo News Singapore",
+      "id": "1557c600b00c",
+      "title": "What Happens to Your Blood Pressure When You Drink Beetroot Juice Regularly - Health: Trusted and Empathetic Health and Wellness Information",
       "published": "2026-04-16T11:00:00+00:00",
-      "summary": "Alcohol and Sleep: What Experts Want You to Know&nbsp;&nbsp;Yahoo News SingaporeThe Truth About Drinking Alcohol Before Bed, According to Sleep Experts&nbsp;&nbsp;Food & WineWhy does alcohol make us both happy and miserable – and what else does it do to our minds and bodies?&nbsp;&nbsp;The GuardianDrinking alcohol on flights to sleep may harm your health&nbsp;&nbsp;newskarnataka.comDo you drink alcohol on long flights to help you sleep? Doctor warns why it is dangerous&nbsp;&nbsp;Hindustan Times",
+      "summary": "What Happens to Your Blood Pressure When You Drink Beetroot Juice Regularly&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness Information",
       "sources": [
         {
-          "name": "Yahoo News Singapore",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11UFlZa1dTNnF4SldwdWxuUk1rLURyZmJZYmVTWWcwM0VVOHlUYkV1T3pFWDg4VnNuQldITlFZMU0xRUxwSFJ1Sm5DbHRTb2I0cWxtVnV1S0dGMFNjcFRzNFd0dmdrU2wtVGFyTWFGaWRhRHFFVGVneXhjd3k?oc=5"
+          "name": "Health: Trusted and Empathetic Health and Wellness Information",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRnhmNk1hYUM0NlF0R3Z5MjdCb1VDMEhSNFV1MnpUU3RLQmd1R3NlMGcwbHJBTGoxM2pMY0ZSQUxyV2JUOGNoZXl2V2ZDSlVmWFIzNUJ3WjBTTkZaM2QtWHJUb3ZrWUVqYnlhb0d5QXNSZzJQZG9GbnBFOTlXT1ktazlpNGVaV3c0b1kyZTM3MFVfOG5oeWtUdDFXZ01wX2tN?oc=5"
         }
       ]
     },
@@ -390,38 +426,14 @@
       ]
     },
     {
-      "id": "fa8c01d2da04",
-      "title": "Want a Stronger, Younger Brain? Texas Researchers Say They Made a Fascinating Breakthrough - inc.com",
-      "published": "2026-04-16T09:17:44+00:00",
-      "summary": "Want a Stronger, Younger Brain? Texas Researchers Say They Made a Fascinating Breakthrough&nbsp;&nbsp;inc.comScientists reverse brain aging, with a nasal spray&nbsp;&nbsp;Texas A&amp;M StoriesNew nasal spray shows promise fighting memory loss and brain inflammation&nbsp;&nbsp;The Indian ExpressA Future Nasal Spray Could Help Reverse Brain Aging and Restore Memory — At Least in Early Tests&nbsp;&nbsp;Discover MagazineNasal spray reverses age-related brain inflammation in preclinical study&nbsp;&n",
-      "sources": [
-        {
-          "name": "inc.com",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbUNtZlhrRWl4eXlSYmtOX1RBbjhuMXQ4MDdETjZPU0dBU3docVNRUkt3MXA4eWpEZ19pV1lKT2VlSkJ0Nm1kMWt4b1dWRnlRdkwwdkdfUXRfSjMtNEVMcjMtV0JvOEIyT0dXdW9mT3BUUjg5akpCZlJsV3R4Sk8zWGRTS21fcmlCbDZFVGZZY05xRkJZcFNGTHNuenVZQnVoX3FFRVZzZ252WVJuSjVyUHRRRnMyUms5eEVnUklLaUVELTVrbGxTWnc5Z3ZqajVTMHBF?oc=5"
-        }
-      ]
-    },
-    {
       "id": "dcee6471a0da",
       "title": "Researchers warn of severe long-term damage to the brain after Covid following new study - UNILAD Tech",
       "published": "2026-04-16T07:58:58+00:00",
-      "summary": "Researchers warn of severe long-term damage to the brain after Covid following new study&nbsp;&nbsp;UNILAD TechOnly 6 symptoms, conditions appear unique to long COVID, suggesting overlap with other post-viral infections&nbsp;&nbsp;CIDRAPUnderstanding the long-term neurological effects of SARS-CoV-2 infection&nbsp;&nbsp;NatureStudy finds long COVID leaves a distinct immune signature in the blood&nbsp;&nbsp;News-MedicalLong COVID is significantly underreported across the globe&nbsp;&nbsp;The Sick ",
+      "summary": "Researchers warn of severe long-term damage to the brain after Covid following new study&nbsp;&nbsp;UNILAD TechStudy finds long COVID leaves a distinct immune signature in the blood&nbsp;&nbsp;News-MedicalUnderstanding the long-term neurological effects of SARS-CoV-2 infection&nbsp;&nbsp;NatureOnly 6 symptoms, conditions appear unique to long COVID, suggesting overlap with other post-viral infections&nbsp;&nbsp;CIDRAPLong COVID is significantly underreported across the globe&nbsp;&nbsp;The Sick ",
       "sources": [
         {
           "name": "UNILAD Tech",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT200dkdQMEhGQWV0QVdvNG1wYUd3SVlZaTNySHItZHk5bUJGSU9lSlNHZnlDRGxHNnpyT0Rxc0tBWDlBTEFSQlRNbEsyWThfQk84UTA4dFZLSjV2V3l0M1ZRUDFNYWNPZU1fZzdxX1FWRjh2cjNrR1dvYWNRWkVuYk94eDFudndreUswWVhiM3ZMbUNZb1ZJMEtB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3b56d3fabc16",
-      "title": "Nature Is Still Molding Human Genes, Study Finds - Slashdot",
-      "published": "2026-04-16T05:28:58+00:00",
-      "summary": "Nature Is Still Molding Human Genes, Study Finds&nbsp;&nbsp;SlashdotView Full Coverage on Google News",
-      "sources": [
-        {
-          "name": "Slashdot",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUDBpaHR6Nnk1d3Bja3FQLWJQUVpJNzFwWWN4WFl2MW1fWHd0enVyWHBQcXBCUFNUcmRMNlFvQlBZZlIyRHFsOGNKcGtwbkxobVA5Yld0SzJkSklsaXZtTkI1clhvblJzOHY4SmVld0x2cjlsY2FNM3FaOE9mSXFKTDRiM3ZETElxMWhNTlQxR3dBQ2NsSi1NaHluZw?oc=5"
         }
       ]
     },
@@ -441,23 +453,11 @@
       "id": "6604c9c9ab0d",
       "title": "Unexpected Source of Salt May Be Raising Blood Pressure For Millions - ScienceAlert",
       "published": "2026-04-16T02:46:58+00:00",
-      "summary": "Unexpected Source of Salt May Be Raising Blood Pressure For Millions&nbsp;&nbsp;ScienceAlertAn unexpected source of salt could be causing high blood pressure in millions&nbsp;&nbsp;The IndependentHigh pressure may be related to water quality: what to look for&nbsp;&nbsp;life.liga.netSalt In Tap Water Might Be Raising Blood Pressure, Study Finds&nbsp;&nbsp;HuffPost UKPublic health researcher reveals that drinking water consumed by billions may contain hidden salt, raising blood pressure in millio",
+      "summary": "Unexpected Source of Salt May Be Raising Blood Pressure For Millions&nbsp;&nbsp;ScienceAlertHigh pressure may be related to water quality: what to look for&nbsp;&nbsp;life.liga.netSeawater raising people’s blood pressure to levels as risky as being sedentary, scientists say&nbsp;&nbsp;Yahoo News New ZealandSalt In Tap Water Might Be Raising Blood Pressure, Study Finds&nbsp;&nbsp;HuffPost UKPublic health researcher reveals that drinking water consumed by billions may contain hidden salt, raising ",
       "sources": [
         {
           "name": "ScienceAlert",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNl9xV2VmU3ZRbUdoX2p3UEZMMFY2aWxVckp1MG5SeHZ3UkZWalNXYXFWMnVBM1BrRTAtdWVVNGg2dUV6UVJfU2JKNG5paXVubTVMRGdVMjhCNTQwT0JNQklqSnVITkdEZjEzUGVKclo5MEQ2QVYtX1Q4LWtJWjQzbW01MUlHMGpTZHBfQVJKT0FCblY3eU9RMlZ2ZDNjdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "debc7971a135",
-      "title": "Chef Jon Bonnell beat cancer. Now, he wants you to hear this HPV message - Fort Worth Star-Telegram",
-      "published": "2026-04-16T01:37:00+00:00",
-      "summary": "Chef Jon Bonnell beat cancer. Now, he wants you to hear this HPV message&nbsp;&nbsp;Fort Worth Star-Telegram",
-      "sources": [
-        {
-          "name": "Fort Worth Star-Telegram",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMzlKVkxKb2JaejcxYmZqUjA4Q2VudndKd0VIbXFMYzJBNjVwYlgxOU9IaUFLMm5icTBfdXYwcWJEU3c3alNNQ2pRWEQzWnFwcXVpU0p4OTYzaEJwQXFPTXh2YXRKTjU1TWNITlN5bTZGN0dleThpb1JCbEJXcW82RlVLXzh6ZklCOGgxa3U3UDXSAZABQVVfeXFMTnoxeFdzeE9Ea3A5NFNkcmxnT1YzN1VqSzZuMGVjb01YbGhZMXA2VFJwSjRYX2xjc3BHS20zNE85LW9nS3U2b29Kbnp3YnppS2g1NEhHOVVqMVRsR2ppdFhWZGZkS21KQ1FXelJqaDZRMlpSV2E5czgyeXNENnBpYWhXMWlvejhWdDcyQkkxc0R3?oc=5"
         }
       ]
     },
@@ -470,18 +470,6 @@
         {
           "name": "BuzzFeed",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWmpvUWJTbjJNSmdsdFNHQlUzOTUyYTdGdTlud2NwNkhVS1BuNWlhMXRWWGlHVWNZTENjVVBpYTA5cE9ucU9DNlJOc1pOS1ZjV1hLcGFEcENiQnlzTTBGQmMtRlYzRF9jY2QwUDRDZnBYQkxsdXFBOW5ZRkl0bzdEcllBWkNmQVVMaUY4M0x3VzB5clVMRXZ5ejRn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "16196a28f855",
-      "title": "A Quiet Region of Italy Is Hiding a Vast Reservoir of Magma - ScienceAlert",
-      "published": "2026-04-16T01:16:56+00:00",
-      "summary": "A Quiet Region of Italy Is Hiding a Vast Reservoir of Magma&nbsp;&nbsp;ScienceAlertHigh-enthalpy Larderello geothermal system, Italy, powered by thousands of cubic kilometres of mid-crustal magma&nbsp;&nbsp;NatureSuper magma reservoirs discovered beneath Tuscany&nbsp;&nbsp;Phys.orgMassive Magma Reservoir Comparable in Volume to Yellowstone Discovered Beneath Tuscany&nbsp;&nbsp;Discover MagazineTuscany volcano discovery: Surprised scientists find vast reservoir of magma lurking beneath popular to",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX0RZbVp4a0FCcEtzWFlfd09fZ2pTRGczT3JRbWVxRFJTcGoyd1VxM2R3NlZFV01DallFVUsyVGR3eS16SWxoekNUaDFCVWY4YWZVdmpFNi1UdVBhLUs1bnduVlBwMXNjdFFfM3Z5QXRZc3F1R1AyZTlsVkU3Y2E1WVBpOTdCcHYxVzhXZmhvckx0UQ?oc=5"
         }
       ]
     },
@@ -582,6 +570,30 @@
       ]
     },
     {
+      "id": "bf22cab302bf",
+      "title": "Cell-type-targeted mitochondrial transplantation rescues cell degeneration - Nature",
+      "published": "2026-04-15T21:51:12+00:00",
+      "summary": "Cell-type-targeted mitochondrial transplantation rescues cell degeneration&nbsp;&nbsp;Nature'MitoCatch' delivers healthy mitochondria to diseased cells&nbsp;&nbsp;Medical XpressTargeted mitochondrial delivery (IMAGE)&nbsp;&nbsp;EurekAlert!What if you could reboot sick cells?&nbsp;&nbsp;Yahoo Finance UKTargeted Mitochondrial Transplants Reverse Cell Degeneration&nbsp;&nbsp;Bioengineer.org",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oZi1HZW9XVmM2dUZobGdBc0lCT1hUczJsa3VHZE9EeGpKeVpkT2tvOWdNbEl5LTB4RDNxdHBiUnFtcEhlWnVEZlJadTdwalNnVFlDNTlrR2RiazJOSW53?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "34fab85316da",
+      "title": "Prospective evaluation of genomics-guided off-label treatment - Nature",
+      "published": "2026-04-15T21:51:12+00:00",
+      "summary": "Prospective evaluation of genomics-guided off-label treatment&nbsp;&nbsp;NatureOff-label cancer drugs deliver durable benefit for some patients in large trial&nbsp;&nbsp;Medical XpressGenomics-Guided Off-Label Treatment Evaluated Prospectively&nbsp;&nbsp;Bioengineer.orgMajor DRUP Trial Reveals Untapped Potential of Established Cancer Therapies&nbsp;&nbsp;Bioengineer.org",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jekl2RHg4eDlmZEJvckNNV1c0a1NnTEhCYXJOWWFDYlFBdXV0dTk0T3Ffb1pqdkhGZXVLLVItRy1QamJzcjJTTmQwLWduLTBONFlaVFdhZlpHZ1l6ZVRj?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2a14d1aff424",
       "title": "Molecular basis for methylation-sensitive editing by Cas9 - Nature",
       "published": "2026-04-15T21:51:12+00:00",
@@ -597,7 +609,7 @@
       "id": "8968f7a80f84",
       "title": "New anti-clotting medication lowers risk of stroke without added bleeding - Medical Xpress",
       "published": "2026-04-15T21:00:09+00:00",
-      "summary": "New anti-clotting medication lowers risk of stroke without added bleeding&nbsp;&nbsp;Medical XpressParadigm Change Coming in Secondary Stroke Prevention: OCEANIC-STROKE&nbsp;&nbsp;MedscapeBayer's Phase III asundexian stroke study published in NEJM&nbsp;&nbsp;The Pharma LetterNow Published - OCEANIC-STROKE: Asundexian Prevents Recurrent Strokes, With No Added Bleeding&nbsp;&nbsp;TCTMD.comNewly Published Phase 3 OCEANIC-STROKE Trial Data Show Asundexian Reduces Recurrent Ischemic Stroke Risk&nbsp;",
+      "summary": "New anti-clotting medication lowers risk of stroke without added bleeding&nbsp;&nbsp;Medical XpressNow Published - OCEANIC-STROKE: Asundexian Prevents Recurrent Strokes, With No Added Bleeding&nbsp;&nbsp;TCTMD.comBayer pushes beyond limits of treatment in stroke, heart failure, and prostate cancer&nbsp;&nbsp;koreabiomed.comBayer's Phase III asundexian stroke study published in NEJM&nbsp;&nbsp;The Pharma LetterParadigm Change Coming in Secondary Stroke Prevention: OCEANIC-STROKE&nbsp;&nbsp;Medsca",
       "sources": [
         {
           "name": "Medical Xpress",
@@ -609,7 +621,7 @@
       "id": "748d6c09202e",
       "title": "Tylenol during pregnancy has no link to autism, large study finds - abcnews.com",
       "published": "2026-04-15T20:37:08+00:00",
-      "summary": "Tylenol during pregnancy has no link to autism, large study finds&nbsp;&nbsp;abcnews.comDoes Tylenol Increase Autism Risk? A New Study Has Answers&nbsp;&nbsp;MedPage TodayA major pregnancy scare collapses: Tylenol shows no autism risk in more than 1.5 million children&nbsp;&nbsp;Medical XpressTylenol in pregnancy not linked with autism, Danish study finds&nbsp;&nbsp;CNNDanish study finds acetaminophen exposure not associated with increased autism risk&nbsp;&nbsp;Contemporary OB/GYN",
+      "summary": "Tylenol during pregnancy has no link to autism, large study finds&nbsp;&nbsp;abcnews.comA major pregnancy scare collapses: Tylenol shows no autism risk in more than 1.5 million children&nbsp;&nbsp;Medical XpressKira Philipsen Prahm, MD, PhD, highlights no link between acetaminophen exposure and autism risk&nbsp;&nbsp;Contemporary PediatricsDoes Tylenol Increase Autism Risk? A New Study Has Answers&nbsp;&nbsp;MedPage TodayRFK Jr. a ‘freaking charlatan’ for pushing Tylenol-autism theory: Batya | E",
       "sources": [
         {
           "name": "abcnews.com",
@@ -633,11 +645,23 @@
       "id": "9e6dd7b9d9f1",
       "title": "Life-threatening virus that causes vomiting and diarrhea at high levels in the U.S., CDC says - NBC News",
       "published": "2026-04-15T20:15:53+00:00",
-      "summary": "Life-threatening virus that causes vomiting and diarrhea at high levels in the U.S., CDC says&nbsp;&nbsp;NBC NewsMedical Experts Warn of Potentially Deadly Virus Surging in Children That Can Cause Fatal Diarrhea and Vomiting&nbsp;&nbsp;People.comRotavirus levels rise in Jackson area, health officials warn&nbsp;&nbsp;WILXCDC Warns Of Highly Contagious Virus Spreading In US: What To Know&nbsp;&nbsp;dailyvoice.comA violent stomach virus is tearing through the US, and health officials say your stand",
+      "summary": "Life-threatening virus that causes vomiting and diarrhea at high levels in the U.S., CDC says&nbsp;&nbsp;NBC NewsDeadly virus that causes vomiting, diarrhea on the rise in the U.S.: Here’s what to know&nbsp;&nbsp;PennLive.comMedical Experts Warn of Potentially Deadly Virus Surging in Children That Can Cause Fatal Diarrhea and Vomiting&nbsp;&nbsp;People.comSurge In Rotavirus Cases Across The US; Symptoms, Causes And Complications Of The Virus&nbsp;&nbsp;NDTVRotavirus levels rise in Jackson area, ",
       "sources": [
         {
           "name": "NBC News",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONEd4REV4V1RKS21XV3UzUWFQc2JleVFtNUY1U0FrOGhKNzhnUnhfRGp3RGVCTFpTMm5rakQzT3VXV2UtOW1HNVY5WjhQSVpFNEJXLV9Jc29Kc255UzM0VHRXb2E0WTd4SDVtQ1JISnZVTnVuMWdzdHJ0akwwcHU0cV94NlJmbnBkVUxsZEd3RFE2eXhna2dtVllBWlVZZUx4YlNSdmN1VkV4a1RUcXRDTXpn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6437d202bab9",
+      "title": "Landmark ancient-genome study shows surprise acceleration of human evolution - Nature",
+      "published": "2026-04-15T19:51:53+00:00",
+      "summary": "Landmark ancient-genome study shows surprise acceleration of human evolution&nbsp;&nbsp;NatureMassive Ancient-DNA Study Reveals Natural Selection Has Accelerated in Recent Human Evolution&nbsp;&nbsp;Harvard Medical SchoolNature Is Still Molding Human Genes, Study Finds&nbsp;&nbsp;The New York TimesRed hair gene favoured by natural selection over last 10,000 years, study finds&nbsp;&nbsp;The GuardianNatural selection ‘favours gingers’&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5panVIT2ZYUGN6VGQ1Slp6NjZDQnBGNVlIcDVIYi1LVDVEMEFYejIycllkNFQ2UzJEaUszZGI3aWxva0I3WGNoaW40VGNlTjZXbUFacVUxbHYzc2lzd19Z?oc=5"
         }
       ]
     },
@@ -650,30 +674,6 @@
         {
           "name": "extremetech.com",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNEVoWUt5UEpROFZJQnRCTDU1LUpEU3ktX2JFUXM0Nmx4Z2VFUmFjcVlxbkNOaXhCejZNZUtacy1Hc3lsYWhGSy1sLVMxZ1lndHJYVWFReFFheTRKQkRyNFc3LWY4aEd2NEFZUFB2cWIweEN0MnRkRXhVVjFJZExrZmZ5aUxZaWJLeEF2QlpLdno3ckZTY3pIMkxxOURmZDF4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cf1f0aaf4f4f",
-      "title": "This Amazon Outdoor Chaise Set Transforms Any Space into Pure Resort Bliss - Apartment Therapy",
-      "published": "2026-04-15T19:15:00+00:00",
-      "summary": "This Amazon Outdoor Chaise Set Transforms Any Space into Pure Resort Bliss&nbsp;&nbsp;Apartment Therapy",
-      "sources": [
-        {
-          "name": "Apartment Therapy",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWkNMT1RlNEpPbEQzM2Z6Z1JZWHhJZzFobjhsWjUxZGMzMXBJR3NKZ0ZxWGpxeWs3dm1GVk1IejZmbU1IQWlndm1rSU1YZEF1NkhXV25RWTdGM1lmU0JXTlF5ajRxbkFjdDJYMXQ0cUQ4MnY4dEYxV2o3MHBLanlFNHJxcXcyT1dIMDhvMWk1NUF0UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "90753325a4b3",
-      "title": "This Small Change to Your Exercise Routine Could Be the Secret to Living Longer - SciTechDaily",
-      "published": "2026-04-15T19:03:46+00:00",
-      "summary": "This Small Change to Your Exercise Routine Could Be the Secret to Living Longer&nbsp;&nbsp;SciTechDailyGastroenterologist says rule of 'three' can add years to your life&nbsp;&nbsp;The Mirror3 small lifestyle changes can help you live longer, studies show&nbsp;&nbsp;Safety+Health MagazineSimple Steps to Living a Healthier Lifestyle&nbsp;&nbsp;Relevant RadioThe small change to your exercise routine that could lead to a longer life&nbsp;&nbsp;The Independent",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcjduLW1zbWtfZ0I0MS1kdXBpSFdNM1o4bTdNQVJoNTkybk5PWkRtN1g0OTBDUXlEb1l3cWRZMVoyT1VzUXhOck5oeUUzVTFKNExIN2VVWEUzQThIMjk2MndJb3AwdVdzUnMtbGI0bG4xOHlNUjBheDJSdmxEWGlDWnVsdi1MbWFuR09KNEk0QTZocGhDaGI2VzIwSmJ6NHJMUlN2Sm5OcGY?oc=5"
         }
       ]
     },
@@ -705,7 +705,7 @@
       "id": "41f0e90766e9",
       "title": "Weight loss: What to do if GLP-1s like Wegovy alone aren't working - Medical News Today",
       "published": "2026-04-15T18:12:25+00:00",
-      "summary": "Weight loss: What to do if GLP-1s like Wegovy alone aren't working&nbsp;&nbsp;Medical News TodayGenetic predictors of GLP1 receptor agonist weight loss and side effects&nbsp;&nbsp;NatureScientists May Now Know Why GLP-1s Don't Work For 10% of People&nbsp;&nbsp;ScienceAlertOzempic, Wegovy: Why GLP-1 Drugs Don't Work for Everyone&nbsp;&nbsp;HealthlineSome GLP-1 drugs are more effective for those with specific gene variants&nbsp;&nbsp;Science News",
+      "summary": "Weight loss: What to do if GLP-1s like Wegovy alone aren't working&nbsp;&nbsp;Medical News TodayGenetic predictors of GLP1 receptor agonist weight loss and side effects&nbsp;&nbsp;NatureSome GLP-1 drugs are more effective for those with specific gene variants&nbsp;&nbsp;Science NewsScientists May Now Know Why GLP-1s Don't Work For 10% of People&nbsp;&nbsp;ScienceAlertOzempic, Wegovy: Why GLP-1 Drugs Don't Work for Everyone&nbsp;&nbsp;Healthline",
       "sources": [
         {
           "name": "Medical News Today",
@@ -714,34 +714,10 @@
       ]
     },
     {
-      "id": "9b881fb9edb5",
-      "title": "UES Bar Shuttered By Health Department, Records Show - Patch",
-      "published": "2026-04-15T18:07:43+00:00",
-      "summary": "UES Bar Shuttered By Health Department, Records Show&nbsp;&nbsp;Patch",
-      "sources": [
-        {
-          "name": "Patch",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb0RXQ0hQU1cwRDlLc2NCT3Z3QmNTaU1BbDA0TVpya2hyZllKODZ5SkE0WmtYUmIwOURibXdKRmpFSGg3QTZlVVZGdHFGME5TdHI4SHY5LThxdlAwRVJUQU5pUWkwNTV3N2huMm1JT1lMOWRCWm1JbnlZb2RzSHBEMnFfcmNUaFhUWjdJcXlmQVgySVZOaHphM1NnNNIBsAFBVV95cUxQbU1ld2h0SEtlT0FQSDFkQXlNbjFvNng3LWtrekl5dEp2RGY5czJvc1k0NWxydUw3UVNIeEQ0Ym5CZWllaHVTTXhYeWw5ejlaU1BHN0JjSG9ON05xcUFOTXplSk5FcVhOMUMwM3NfQjZMU2FZUnYtcWJKeHh3QXA5TV92VGQ2ai0wdHY4QjhGeFJlNk1wR3ZrUVk3U08zNUJ1a0c3RkxDRlg4Tmx2dUh2QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "33ce9a78b1be",
-      "title": "Senators seek increased funding for NASA Mars missions - SpaceNews",
-      "published": "2026-04-15T18:00:00+00:00",
-      "summary": "Senators seek increased funding for NASA Mars missions&nbsp;&nbsp;SpaceNews82 NASA missions at risk under new proposal&nbsp;&nbsp;The Planetary SocietyTop GOP lawmaker pushes back on NASA’s budget cuts&nbsp;&nbsp;PoliticoOpinion | As Artemis II splashes down, the Trump admin is trying to slash NASA’s budget&nbsp;&nbsp;MS NOWBack to work to save science funding! All you need to know about the FY2027 Budget Request&nbsp;&nbsp;Astrobites",
-      "sources": [
-        {
-          "name": "SpaceNews",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcnZUMWVHeGdpdUlRMHdQSVhMczlrU2F1WVJ3enVpajZFMXJIazR3LXlEZWNadFlSVGdvMGRfbU03WFhWa0Q4cWxxOHl5azVjcWZ5bXJPalVkcW4wYzlSNmNpQVJrNzJlNmtYMWlSZTNJWEZnTkJRcXkwOEhiSUhsa0FLYw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b030367e7d4a",
       "title": "'Something's missing': Most thorough-ever study of the cosmos proves we still can't explain how the universe is expanding - Live Science",
       "published": "2026-04-15T17:45:00+00:00",
-      "summary": "'Something's missing': Most thorough-ever study of the cosmos proves we still can't explain how the universe is expanding&nbsp;&nbsp;Live ScienceView Full Coverage on Google News",
+      "summary": "'Something's missing': Most thorough-ever study of the cosmos proves we still can't explain how the universe is expanding&nbsp;&nbsp;Live ScienceScientists Just Confirmed One of the Greatest Mysteries of Our Universe. Now What?&nbsp;&nbsp;Popular MechanicsThe Local Universe’s Expansion Rate Is Clearer Than Ever, but Still Doesn’t Add Up&nbsp;&nbsp;NOIRLabInternational Collaboration Helps Pinpoint Universe’s Expansion Rate&nbsp;&nbsp;NASA Science (.gov)Scientists Figured Out How Fast the Universe",
       "sources": [
         {
           "name": "Live Science",
@@ -753,7 +729,7 @@
       "id": "b8c8fa2f415f",
       "title": "Want to Lose Weight Faster? New Research Says Just Start Eating the Same Things More Often - inc.com",
       "published": "2026-04-15T16:52:46+00:00",
-      "summary": "Want to Lose Weight Faster? New Research Says Just Start Eating the Same Things More Often&nbsp;&nbsp;inc.comView Full Coverage on Google News",
+      "summary": "Want to Lose Weight Faster? New Research Says Just Start Eating the Same Things More Often&nbsp;&nbsp;inc.comEating same meals on repeat, and more at weekends may help you lose more weight&nbsp;&nbsp;AOL.comSame meals better results? Study links consistent diets to weight loss&nbsp;&nbsp;TheHealthSiteIn weight loss, it is common to recognize that a variety of diets and balanced nutritional compositi..&nbsp;&nbsp;매일경제Eating This Every Day Was ‘Associated with Higher Weight Loss’ in a New Study&nb",
       "sources": [
         {
           "name": "inc.com",
@@ -765,7 +741,7 @@
       "id": "12c993bc736a",
       "title": "Want to control your blood sugar? Here’s the best time of day for exercise. - The Washington Post",
       "published": "2026-04-15T16:00:00+00:00",
-      "summary": "Want to control your blood sugar? Here’s the best time of day for exercise.&nbsp;&nbsp;The Washington PostDon't feel like exercising? Maybe it's the wrong time of day for you&nbsp;&nbsp;BBCTiming exercise to match body clock chronotype may lower cardiovascular disease risk&nbsp;&nbsp;Medical XpressLark or owl? Here’s when you should exercise — and what you should do&nbsp;&nbsp;The TimesThis Is the Best Time to Work Out, According to Scientists&nbsp;&nbsp;Everyday Health",
+      "summary": "Want to control your blood sugar? Here’s the best time of day for exercise.&nbsp;&nbsp;The Washington PostHeart health: Why your workout schedule might be working against you&nbsp;&nbsp;Medical News TodayDon't feel like exercising? Maybe it's the wrong time of day for you&nbsp;&nbsp;BBCTiming exercise to match body clock chronotype may lower cardiovascular disease risk&nbsp;&nbsp;Medical XpressLark or owl? Here’s when you should exercise — and what you should do&nbsp;&nbsp;The Times",
       "sources": [
         {
           "name": "The Washington Post",
@@ -774,62 +750,26 @@
       ]
     },
     {
-      "id": "a75b408035a2",
-      "title": "Lyme disease cases surge in Ohio as tick population expands - Cleveland.com",
-      "published": "2026-04-15T15:57:00+00:00",
-      "summary": "Lyme disease cases surge in Ohio as tick population expands&nbsp;&nbsp;Cleveland.comView Full Coverage on Google News",
+      "id": "02657031acef",
+      "title": "Printable Artificial Neurons That \"Talk\" to Living Brain Cells - Neuroscience News",
+      "published": "2026-04-15T15:03:18+00:00",
+      "summary": "Printable Artificial Neurons That \"Talk\" to Living Brain Cells&nbsp;&nbsp;Neuroscience NewsPrinted neurons communicate with living brain cells&nbsp;&nbsp;Northwestern Now NewsScientists Grow Electronics Inside the Brains of Living Mice&nbsp;&nbsp;SingularityHub3D-printed brain sensors may unlock personalized neural monitoring&nbsp;&nbsp;The Pennsylvania State University3D-Printed Neurons Connect with Living Brain Cells in Breakthrough Study&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
-          "name": "Cleveland.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTEtRYTRuekxMVFNTZ2JfaVg3WFA2SG9qZlJiMDJwVHMyQkRycENSRTlVbk42bWVPTVdmeXVMU1FhbURtbGQ4dm9FZXFxbTlfdmtqRmlRRVNjX05yYzFGV3RhWGxlTkU2XzF0MVJOQzdPOEZ0dlJoZG0yT2U4RmRYdk5XYmRYTjkwUkFJMjdGYXRiZmhPX0VyQ0UtRklLV0VZTmZnTEFn0gG6AUFVX3lxTE80QVV4QkZLYl9MN2VUcTNGZUlTQkJOVnBRNXpmV21WZkE5T1dRd29NRDgzSmw2aDd5bmJIWDZGTE94aWRJVDc0R1VmdlJTX0VsWXItWDlvcDE3MkdoVXFZRlViMHo4TzlNenoyZnFoZ1oxbnI5S1hwV2x2elJWX2Y2Z01nVlQ0SXVySFNWVWdFM05JUnBsWS15SFdPRHdMR3Z4VDBYTkh2ZUQyUEdUd3ZSZ01URU1XNmJyQQ?oc=5"
+          "name": "Neuroscience News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdTYtNEFhQ0N0QkRXcXgzNklEaWswQ3VZMnNCdkNFN1FXZnBsSEF0dTVXN2FEeGxlclExOU1OSkpKcTRCTXg0cDd0LXlKR0NUN28yY2FJX1pVSjEwSXRJaDR4UFZGU3lvR1VjbDZZOUxzU2o3bnpMcmpOOXE4anNuSjRtZ0lzclhrb1E?oc=5"
         }
       ]
     },
     {
-      "id": "b4ea8e07e48e",
-      "title": "Scientists Found a Dragonfly Eye Superpower That Humans Never Knew Existed - Yahoo News Singapore",
-      "published": "2026-04-15T12:02:00+00:00",
-      "summary": "Scientists Found a Dragonfly Eye Superpower That Humans Never Knew Existed&nbsp;&nbsp;Yahoo News SingaporeDragonflies see deeper red light than humans, using the same visual trick&nbsp;&nbsp;Earth.comDragonflies can see a colour humans cannot: This could change medicine&nbsp;&nbsp;Digital JournalThe reflective yellow parts of dragonflies that enable others to identify their sex (IMAGE)&nbsp;&nbsp;EurekAlert!This is what humans have in common with dragonflies. Findings to unravel medicine&nbsp;&n",
+      "id": "10714e9d7280",
+      "title": "NASA is right to focus on ‘hardware rich’ approach following Artemis II heat shield gamble - Interesting Engineering",
+      "published": "2026-04-15T13:45:00+00:00",
+      "summary": "NASA is right to focus on ‘hardware rich’ approach following Artemis II heat shield gamble&nbsp;&nbsp;Interesting EngineeringArtemis 2's heat shield seems to have aced its trial by fire&nbsp;&nbsp;Space",
       "sources": [
         {
-          "name": "Yahoo News Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZy13UUt5ZmdNNllIWVdhSWkwenp1RERGV3gxb3V5cWM0X0lhck9SVnVGVEFTS0czeWVJN0xTZERXVUJJOXFxZkhlU3RYbDVQRjJFQWJrNTgzLVBQX2d4LWg4UGhyY3FOckFieWR3cHJRUVNRUGdMZmY1bEdjSmJuOUZ0aXpRN2NPQkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bb377c4cdf62",
-      "title": "Novo Nordisk weight-loss drug shows liver benefits in mouse study - Reuters",
-      "published": "2026-04-15T11:33:19+00:00",
-      "summary": "Novo Nordisk weight-loss drug shows liver benefits in mouse study&nbsp;&nbsp;ReutersSome people don’t lose weight with GLP-1s. Evidence is building that the drugs are helping anyway&nbsp;&nbsp;CNNNew research suggests GLP-1 weight loss drugs may boost heart health, improve sleep&nbsp;&nbsp;WKRCWhy weight-loss jabs could improve liver health&nbsp;&nbsp;AOL.comSome people don't lose weight with GLP-1s. Evidence is building that the drugs are helping anyway&nbsp;&nbsp;WPBF",
-      "sources": [
-        {
-          "name": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYW9fX19LZnhFRUtDeGZadWctXzRsaXQtWWdkTUF3Z0hkMGN1OHp0OXRidE5XSWxiZXFhUERpYk4tVWF4U05JY1ItNlFBd191OE1QVXh6ZzJBamhuUXV3MFN4Sm1BVDRMV3NXaU5BeHpsUVY0V3UxNm82YmVJc3lHWkVTWTdNbi1WdkstdHdfcUd3RTdMVXZ4WmdfR0M0bTM3Um5WS3lRX1hwTWwtUV9vRTM5ck45QTE3VTZ4SUZDVHJkTHUzbnNHcTM0dzZmZmM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "31028b664a94",
-      "title": "Drought could be making antibiotic resistance worse, scientists say - The Conversation",
-      "published": "2026-04-15T10:56:21+00:00",
-      "summary": "Drought could be making antibiotic resistance worse, scientists say&nbsp;&nbsp;The ConversationHow Soil Bacteria Could Help Solve Antibiotic Resistance&nbsp;&nbsp;News-MedicalDroughts driving spread of drug-resistant infections, research shows&nbsp;&nbsp;The TelegraphThe world is running out of antibiotics that work. Drought is making it worse&nbsp;&nbsp;Gavi, the Vaccine AllianceHow droughts might change antibiotic resistance&nbsp;&nbsp;The Daily Star",
-      "sources": [
-        {
-          "name": "The Conversation",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQllGSnphLTZUXzdORzlzc3pWRnExUGk1RGRLODVqOHhhaTFidFAxbXFiTjdxTmtSWF9Mc1JDZ1ViUGFDV0lGelZJcURCZTFWNFloNXdpTk1KMUtxek1qRE1iZFRpendpOFZWLUdfeU1KQXZBeWtDSlZDRzhFWjZNc3M0NXdCb2VPeXF1TWVsMi00V0VJT0JseU4tMHd5dE40MTM0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dfb9e8a86b12",
-      "title": "AI Could Detect Early Signs of Alzheimer’s in Under a Minute – Far Before Traditional Tests - SciTechDaily",
-      "published": "2026-04-15T10:09:54+00:00",
-      "summary": "AI Could Detect Early Signs of Alzheimer’s in Under a Minute – Far Before Traditional Tests&nbsp;&nbsp;SciTechDailyOpenAI Foundation Sheds More Light on Its Grantmaking, But Big Questions Remain&nbsp;&nbsp;Inside PhilanthropyOpenAI Foundation Commits Funds to Alzheimer's Research&nbsp;&nbsp;Let's Data ScienceAI-Enhanced Hyperspectral Technique Seeks to Deliver Broader View of Alzheimer’s&nbsp;&nbsp;Photonics SpectraOpenAI Foundation announces $100M for Alzheimer’s research&nbsp;&nbsp;San Mateo D",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUXRoRVZFSlB2QV9fR3pXSFBHX1RpdTByRmVpX01ILXZIaGVMQkRsSXRsTi1zc3VLdl9ockZSRVNIendkY1FBSkh5SmhvcXUzb1RnVXV0UjRhZWFwajhETUU5X1RqamxUYWo5T3l3UmhjZ0lRNXBZWXdqemg4WW1mclpoQXBwWkNVRnpQTTJzeXplLWxoUXpnRVloSk9HSTl6VGZJU1ZmUXBiX0V5R0MxUUtocUY?oc=5"
+          "name": "Interesting Engineering",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9udFBLZU0tTUZNY1R3RVkweXRjcTdTeTRMS3BEVGMyRVJ3ZnFKVnVmR1F2YnQxV2NkVFdBRzF0LWVKM0JVZzdqbFk1RG9yb2hLemROUmpkVHNlWFlvdXJoS0lnU193YUhnRDhiVzEtdjV5ZkVaNklESw?oc=5"
         }
       ]
     },

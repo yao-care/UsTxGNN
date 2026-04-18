@@ -1,19 +1,43 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-04-18T07:13:48.183495+00:00",
-  "total_fetched": 140,
-  "unique_count": 140,
-  "health_related_count": 62,
+  "fetched_at": "2026-04-18T13:09:23.186395+00:00",
+  "total_fetched": 139,
+  "unique_count": 139,
+  "health_related_count": 61,
   "news": [
     {
-      "id": "dc09f6afa97f",
-      "title": "Pregnancy vaccine reduces baby hospital admissions for RSV by 80% - BBC",
-      "published": "2026-04-17T23:35:23+00:00",
-      "summary": "Pregnancy vaccine reduces baby hospital admissions for RSV by 80%&nbsp;&nbsp;BBCMaternal RSV vaccination cuts infant hospitalization risk by over 80%, major study finds&nbsp;&nbsp;Medical XpressFDA advisers support approval of RSV vaccine to protect infants&nbsp;&nbsp;WVIA Public MediaRSV Vaccination in Late Pregnancy Reduces Infant Hospitalizations&nbsp;&nbsp;Inside Precision MedicineConall Watson, PhD, reports strong infant protection with maternal RSV vaccination program&nbsp;&nbsp;Contempora",
+      "id": "534f381ee472",
+      "title": "As e-bike crashes send an increasing number of people to the hospital, cities search for solutions - The Guardian",
+      "published": "2026-04-18T11:01:00+00:00",
+      "summary": "As e-bike crashes send an increasing number of people to the hospital, cities search for solutions&nbsp;&nbsp;The GuardianE-Bike and Scooter Crashes Are Leading to More Brain Injuries&nbsp;&nbsp;NYU Langone HealthVictor Dominocielo: ‘E-Bikes’ and the Only Collision That Counts&nbsp;&nbsp;NoozhawkGrowing number of trauma, brain injuries linked to e-bikes and e-scooters at 1 hospital: Study&nbsp;&nbsp;abcnews.comSouth Florida Experiencing Rise in Injuries with Continued E-bike Popularity Surge&nbs",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZEZ2bVNydVppNzgwUXpGOGpXQ0EzeGxKTFhrUlhKQlp5RE9QV3NaSlJreXhWay1rUVJ3cnN0Tl9FSlNIbTNFSy1FWUNzcEUySC1rcnhyWGExNGNMNktGbVpCaE1CdTlHOGF2VlZ4WDN1b2oyN29ja0tGTm1zc2FWRDZDdzctcHhE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0cbe33954e5d",
+      "title": "Dad brains: How fatherhood rewires the male mind - BBC",
+      "published": "2026-04-18T09:01:03+00:00",
+      "summary": "Dad brains: How fatherhood rewires the male mind&nbsp;&nbsp;BBC",
       "sources": [
         {
           "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rRUVRQWNrOGVTbEIxQWZBYmtLTDA4QnYweFRlOE01SkdmWmlyZlY0Nk9QVWQ3eHQ2VklXMUlBMVl5c3RGUzd6azJieDdkbm16MEdWR2pSU0pKZw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVm5qemhxOEkxeEtOdm12ZkE5VGRDMk9LMHpIaHpyb3NWdi1ZNy1IdXVCMWFaY1B5RFFCbFNfemYwVEZOWXRpUFRiX3FuT2RTR0JxMWMyd0dYc3g2dTBjXzBaU04xSktVSTY5a0Q1ek1vcWRCSUtKaFVxSnlnWWFBdzZqWUZ4ZTllb2EyQ0UzWWk5cFVsc3YyeGRQc2FaSXpVeEJ6dHZraw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c15f56d0d280",
+      "title": "The 10-Second Habit Dietitians Recommend to Curb Stress-Eating - EatingWell",
+      "published": "2026-04-18T00:00:00+00:00",
+      "summary": "The 10-Second Habit Dietitians Recommend to Curb Stress-Eating&nbsp;&nbsp;EatingWell6 Surprising Foods Experts Say Help Lower Cortisol and Reduce Stress&nbsp;&nbsp;PreventionNo symptoms, real risk: Subtle signs of organ stress most people ignore and how to prevent damage&nbsp;&nbsp;The Times of India8 Drinks That May Lower Cortisol Levels&nbsp;&nbsp;Verywell HealthNina Wilson&nbsp;&nbsp;nwitimes.com",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6OXNPQnZaMWdnWXMyQ1hzMW0weUNpQUNBUW9tOC1WSndHWHFJNlRKeUQ0Q0lCUXpqcUpVQkJQLWtpM0U0QjJ2ajJtRmRRRUxjY01xREpYMDB5SkoyeW51Y0pUMVVYM3BPQkVvSm5HblM5SXFqMUdXMmI2bEhudw?oc=5"
         }
       ]
     },
@@ -21,7 +45,7 @@
       "id": "789fddb2e443",
       "title": "San Francisco Reports Its First Clade I Mpox Case — What to Know and How to Find a Vaccine - KQED",
       "published": "2026-04-17T21:22:45+00:00",
-      "summary": "San Francisco Reports Its First Clade I Mpox Case — What to Know and How to Find a Vaccine&nbsp;&nbsp;KQEDSan Francisco reports first case of more severe mpox strain&nbsp;&nbsp;San Francisco ChronicleSF Department of Public Health confirms first clade I mpox case&nbsp;&nbsp;KTVUMonkeypox Strain Found In San Francisco&nbsp;&nbsp;103.7 KFQDSF health officials urge vaccinations after new case of monkeypox reported&nbsp;&nbsp;Local News Matters",
+      "summary": "San Francisco Reports Its First Clade I Mpox Case — What to Know and How to Find a Vaccine&nbsp;&nbsp;KQEDSan Francisco reports first case of more severe mpox strain&nbsp;&nbsp;San Francisco ChronicleCalifornia urges mpox vaccination after more-severe strain detected in San Francisco&nbsp;&nbsp;Los Angeles TimesSF health officials urge vaccinations after new case of monkeypox reported&nbsp;&nbsp;Local News MattersMonkeypox Strain Found In San Francisco&nbsp;&nbsp;103.7 KFQD",
       "sources": [
         {
           "name": "KQED",
@@ -33,7 +57,7 @@
       "id": "b606be09d392",
       "title": "RFK Jr. Calls Tylenol Study Finding No Link To Autism ‘Garbage’ - HuffPost",
       "published": "2026-04-17T21:15:00+00:00",
-      "summary": "RFK Jr. Calls Tylenol Study Finding No Link To Autism ‘Garbage’&nbsp;&nbsp;HuffPostA major pregnancy scare collapses: Tylenol shows no autism risk in more than 1.5 million children&nbsp;&nbsp;Medical XpressTylenol in pregnancy not linked with autism, Danish study finds&nbsp;&nbsp;CNNRFK Jr. a ‘freaking charlatan’ for pushing Tylenol-autism theory: Batya | Elizabeth Vargas Reports&nbsp;&nbsp;AOL.comKira Philipsen Prahm, MD, PhD, highlights no link between acetaminophen exposure and autism risk&nb",
+      "summary": "RFK Jr. Calls Tylenol Study Finding No Link To Autism ‘Garbage’&nbsp;&nbsp;HuffPostView Full Coverage on Google News",
       "sources": [
         {
           "name": "HuffPost",
@@ -54,6 +78,30 @@
       ]
     },
     {
+      "id": "020d2313d52f",
+      "title": "Here’s Why Everything We’ve Been Told About Carbs and Protein Is Wrong - Megyn Kelly – The Devil May Care",
+      "published": "2026-04-17T20:25:37+00:00",
+      "summary": "Here’s Why Everything We’ve Been Told About Carbs and Protein Is Wrong&nbsp;&nbsp;Megyn Kelly – The Devil May CareProtein power | In focus: Healthy snacking&nbsp;&nbsp;Talking RetailI'm a Registered Dietitian. \"Protein-Maxing\" is Slowing You Down&nbsp;&nbsp;RUN | Powered by OutsideYou eat a lot of protein – but not necessarily the right kind&nbsp;&nbsp;The Jerusalem PostThe Power of Protein and the Trends of New Age Consumption&nbsp;&nbsp;ungvanguard.org",
+      "sources": [
+        {
+          "name": "Megyn Kelly – The Devil May Care",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TQy1xYzB1RVk4aHd6SHFfemlOTjJFb3lSVVN4RHdTa0hNcnc0bUhnczdhd21KdkZiTEVUTlU1eXZwQ2lLRjdDd2E5NXcxUDlHMjdEXzZYdkt2dkRBNkxRN3dvQlVpejZTYXlHNm9aTm1MV0FZejBHeDZn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "62ad37656d99",
+      "title": "Study links lung cancer to eating fruits and veg: What this means - Medical News Today",
+      "published": "2026-04-17T20:02:48+00:00",
+      "summary": "Study links lung cancer to eating fruits and veg: What this means&nbsp;&nbsp;Medical News TodayEating fruits, vegetables and whole grains may increase chance of early onset lung cancer&nbsp;&nbsp;Keck Medicine of USCPesticide Exposure via Healthy Diets May Increase Lung Cancer Risk in Young Nonsmokers&nbsp;&nbsp;respiratory-therapy.comPesticides on produce may play role in lung cancer in non-smokers&nbsp;&nbsp;cbs19news.comNew Study Links a Healthy Diet to Early Lung Cancer Diagnosis&nbsp;&nbsp;",
+      "sources": [
+        {
+          "name": "Medical News Today",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZVlma1VXWFhMYTl2V0VmNDR2bThBQXdUMGlEZVpxeUlzVmc3OEF3RXUxQmJ5MF9pTHp4bzY3UHNSUTJrb2tUTWhtZ2Q0UTlmd1NnMjFja293dm1rSVktbkotYl9yOXpJX3Vhbzc0dlUtRUJWRkZHRlB5S29jQWJybVFSYzdiTkV5dmtrNWN1RkR3M1pHWGJRMXFNVnY4TGRKY2xTaVZJLWp4QVhORmduNlF4UFVsaE1IM19fZW9nU0NaZHA0MEhHekRaT3l5UkM3Smg5LQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c08baebb6e63",
       "title": "Report details tetanus in 4 unvaccinated US kids, including refusal of post-exposure prevention - CIDRAP",
       "published": "2026-04-17T19:55:51+00:00",
@@ -69,23 +117,11 @@
       "id": "a0157fc97d25",
       "title": "NASA Plans to Start a Fire on the Moon in First-of-Its-Kind Experiment - Gizmodo",
       "published": "2026-04-17T19:50:37+00:00",
-      "summary": "NASA Plans to Start a Fire on the Moon in First-of-Its-Kind Experiment&nbsp;&nbsp;GizmodoThe Moon Might Be More Prone To Fires&nbsp;&nbsp;Universe TodayNASA plans lunar experiment to study fire behavior on the Moon&nbsp;&nbsp;primetimer.com",
+      "summary": "NASA Plans to Start a Fire on the Moon in First-of-Its-Kind Experiment&nbsp;&nbsp;GizmodoThe Moon Might Be More Prone To Fires&nbsp;&nbsp;Universe TodayNASA plans lunar fire study to boost astronaut safety under Artemis&nbsp;&nbsp;The Nation (Pakistan )NASA plans moon fire experiment to boost Artemis mission safety&nbsp;&nbsp;The News InternationalNASA plans lunar experiment to study fire behavior on the Moon&nbsp;&nbsp;primetimer.com",
       "sources": [
         {
           "name": "Gizmodo",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUtacXdHVHV0WjdjNWJPYVVERnE1WUlkMFJuOHhFVHRmdWtEcTBFZlRQb0RFbU8zT2JlWUhCQjBrNHFaTHM3UUF3TDA0VmQ0NmtXNkZvNUY4TnQyb0hvQ21jNjZ4QWxYd210WlAtT3puVERycnBBZm1nQm9WQXgwbjFsYVBXMmVocW40emhCWlV3RDZkM1otbDlPeVNIVENVRlRz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3b1727758f9d",
-      "title": "11 Signs Someone You Care About Is In Full Fledged AI Psychosis, According To Research - YourTango",
-      "published": "2026-04-17T19:34:51+00:00",
-      "summary": "11 Signs Someone You Care About Is In Full Fledged AI Psychosis, According To Research&nbsp;&nbsp;YourTangoAI psychosis: a mental health crisis for the 21st century&nbsp;&nbsp;The ObserverDocuseries shines light on dangers of AI&nbsp;&nbsp;NewsNationOPINION: LLMs — How The Human Line Project Can Win AI Delusion, Psychosis Lawsuits&nbsp;&nbsp;Franklin County Free PressAI Psychosis Is Becoming the Hidden Cost of the AI Boom&nbsp;&nbsp;HackerNoon",
-      "sources": [
-        {
-          "name": "YourTango",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbWF1SmV0cHdRcU5WS192MkYxM05aSGczZ3pqbGQ4aW1ILVBzczhjeC1KMjU3aHZxZDJBX1dIMnc3STBiSHZGYnpBQnB5VF82V2xWaElESHlKSkJ6Q0xfbnRYUVdteWFzYWl1Q3dOVi10VXV4cW03V3VIaHpteFAyMEZ1aERQQ3NzdnRaaEtvT1luaHRrZVZjOG85TjFPam9OOWJ0NG5aVUxQOTN0N01JNDY5RQ?oc=5"
         }
       ]
     },
@@ -102,10 +138,34 @@
       ]
     },
     {
+      "id": "1a83f1e30c6a",
+      "title": "Not Even the Largest Cosmic Objects Can Escape Newton and Einstein, Study Finds - Gizmodo",
+      "published": "2026-04-17T18:45:06+00:00",
+      "summary": "Not Even the Largest Cosmic Objects Can Escape Newton and Einstein, Study Finds&nbsp;&nbsp;GizmodoTest of gravity using galaxy clusters supports dark matter&nbsp;&nbsp;USC DornsifePenn study confirms Newton and Einstein’s gravity theories at cosmic scales&nbsp;&nbsp;Open Access GovernmentScientists reveal the hidden forces shaping how gravity works across the Universe&nbsp;&nbsp;The Brighter Side of NewsGravity follows Newton and Einstein's rules, even at cosmic scales&nbsp;&nbsp;Phys.org",
+      "sources": [
+        {
+          "name": "Gizmodo",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX3pNLTN4WHRZUS1DX0N6UlFlcXNMOFJSMXFreFVPT2JRZ3lGN3Q3SFR4cFJUNlQ0X2xsTXplVTJ0Q180ckNsTi00SHgwT3F0NmpnU0xZYmFIdVlfNG0tTGw4empFZkFaY2VpU1ZtNEx0M2hSM2o4d1F6RXZZNGFNakdFSDBxR091SjVkbjBaOWZYcDB6cGQxLUpOUFRmT2p2NG1uaERmbkR0VEZSVHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "096e024fd2f4",
+      "title": "Blood pressure drug effective for treating antibiotic-resistant bacteria, study finds - Medical Xpress",
+      "published": "2026-04-17T18:23:53+00:00",
+      "summary": "Blood pressure drug effective for treating antibiotic-resistant bacteria, study finds&nbsp;&nbsp;Medical Xpress",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYmlKZmJFLXpXWUU4aExsUDVkRmFrVzdUTEdUdnBvNDBRSEJpZ0hNUEJieVZYTlZtWV83WjM1b24wRkJkZHg0Vk4wRjNIME5MSTVuQzg2ZDBYVHROb2dvVTNCRXFMMDF0a2d5SUhoa01yQlc2enRlREd3cTZPMjFPMFV2TmNPWjYxQlFjMQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d91ecf22bca0",
       "title": "At least 5 dead in Burundi from a mystery illness: Africa CDC - CIDRAP",
       "published": "2026-04-17T17:01:00+00:00",
-      "summary": "At least 5 dead in Burundi from a mystery illness: Africa CDC&nbsp;&nbsp;CIDRAPInvestigation as mysterious illness kills five people abroad&nbsp;&nbsp;Daily ExpressSymptoms of deadly mystery virus that's spreading after it kills 5 people – full list&nbsp;&nbsp;dailystar.co.ukUnknown disease kills five in Burundi&nbsp;&nbsp;The TelegraphWHO Burundi: Investigation into a `Mystery' Disease in Mpanda&nbsp;&nbsp;Avian Flu Diary",
+      "summary": "At least 5 dead in Burundi from a mystery illness: Africa CDC&nbsp;&nbsp;CIDRAP‘Mystery disease’ with varied symptoms kills 5, leaves 35 ill&nbsp;&nbsp;CTV NewsInvestigation as mysterious illness kills five people abroad&nbsp;&nbsp;Daily ExpressSymptoms of deadly mystery virus that's spreading after it kills 5 people – full list&nbsp;&nbsp;Daily StarUnknown disease kills five in Burundi&nbsp;&nbsp;The Telegraph",
       "sources": [
         {
           "name": "CIDRAP",
@@ -117,7 +177,7 @@
       "id": "a3ce7c71259b",
       "title": "How a tiny circle of repeat offenders poisoned 100s of gold-standard medical trials for over a decade - Medical Xpress",
       "published": "2026-04-17T17:00:02+00:00",
-      "summary": "How a tiny circle of repeat offenders poisoned 100s of gold-standard medical trials for over a decade&nbsp;&nbsp;Medical Xpress",
+      "summary": "How a tiny circle of repeat offenders poisoned 100s of gold-standard medical trials for over a decade&nbsp;&nbsp;Medical XpressWeekend reads: An alternative to the impact factor in China; the clinical trials of six ‘superretractors’; Retraction Watch goes to Capitol Hill – Retraction Watch&nbsp;&nbsp;Retraction WatchSix 'Superretractors' Responsible for Large Number of Retracted Clinical Trials&nbsp;&nbsp;MedPage Today",
       "sources": [
         {
           "name": "Medical Xpress",
@@ -126,10 +186,34 @@
       ]
     },
     {
+      "id": "0f4506424f1f",
+      "title": "Scientists Solve Mystery Of Why The Colorado River Disappeared From The Geological Record For 5 Million Years - IFLScience",
+      "published": "2026-04-17T16:40:56+00:00",
+      "summary": "Scientists Solve Mystery Of Why The Colorado River Disappeared From The Geological Record For 5 Million Years&nbsp;&nbsp;IFLScienceThe Colorado River disappeared from the geological record for 5 million years: Scientists now know where it went&nbsp;&nbsp;Phys.orgNew research shows prehistoric lake contributed to the birth of the Grand Canyon&nbsp;&nbsp;USGS (.gov)Scientists decipher the geological history of the Grand Canyon&nbsp;&nbsp;ReutersColorado River may have pooled and spilled over to fo",
+      "sources": [
+        {
+          "name": "IFLScience",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPalpHQ2YzbmhRYmVpUUlTbGFSVHVsN2ViTDd6QU9Kd3ZhVlBvSWZZS0tDekFrMU9TM01hYmxBTG4xZG15QlBwcmFReGpkeWFxRlJrOUd3YTRtcUZVaG9DR1BOVXN6N081aDBPTnVySFh3WGt6Vkd5ZGF0VjhMQ2hIMzRyN3dvUHFlNEcxZ0FGNlBtSGFNLWhHYWNqbEZjNnIwVzFEY2YzRERleDJjMFh6WlVja2FWamhVeTFua3A4N2k3YTBQQXZNTHp5NDRtVDJySWtIV3VFZi1kUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "257bec12f729",
+      "title": "Nasal Spray Could Reverse Brain Aging By Lowering Inflammation And Re-Energizing Brain Cells - IFLScience",
+      "published": "2026-04-17T15:38:12+00:00",
+      "summary": "Nasal Spray Could Reverse Brain Aging By Lowering Inflammation And Re-Energizing Brain Cells&nbsp;&nbsp;IFLScienceScientists reverse brain aging, with a nasal spray&nbsp;&nbsp;Texas A&amp;M StoriesNew nasal spray shows promise fighting memory loss and brain inflammation&nbsp;&nbsp;The Indian ExpressWant a Stronger, Younger Brain? Texas Researchers Say They Have Made a Fascinating Breakthrough&nbsp;&nbsp;inc.comResearchers Use Nasal Spray To Suppress Brain Inflammation, Reverse ageing&nbsp;&nbsp;",
+      "sources": [
+        {
+          "name": "IFLScience",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbjViZFNFLXd5ekZWMGNielpuOVh5NVNmLVRQM08xc3BObjdqbHVpbUF3TnFWdTV2T3lGOXVUb0RPWnhJTUJ0SmNZR2J3NkQzQ3Z2bmYxMVo3b2FCVnhmOXgtVG9Eck1CSTVzTmNudTh4YjZvLW40ZW5JSk03bkNVRm1wUmdYTER0QVJwSmZMNms1YVEtTXc4WjBPRGlUSEJWcFNSUTA5MUpCNXFXVVNGMW9QX05lcVFUWGZVNzVhWUFxSjg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e016c847ace3",
       "title": "Largest-Ever Study Finds Medicinal Cannabis Ineffective for Anxiety, Depression, PTSD - SciTechDaily",
       "published": "2026-04-17T14:28:18+00:00",
-      "summary": "Largest-Ever Study Finds Medicinal Cannabis Ineffective for Anxiety, Depression, PTSD&nbsp;&nbsp;SciTechDailyIs Cannabis Effective for Treating Mental Health Disorders?&nbsp;&nbsp;LabrootsThe 3 PM Crash Is the New Epidemic But Cannabis Can Help&nbsp;&nbsp;The Fresh ToastCannabis Provides Help For Patients With Chronic Pain, Anxiety, and Depression&nbsp;&nbsp;azmarijuana.comMedical cannabis for depression? A major study finds no proof it works&nbsp;&nbsp;ConsumerAffairs",
+      "summary": "Largest-Ever Study Finds Medicinal Cannabis Ineffective for Anxiety, Depression, PTSD&nbsp;&nbsp;SciTechDailyIs Cannabis Effective for Treating Mental Health Disorders?&nbsp;&nbsp;LabrootsCannabis Provides Help For Patients With Chronic Pain, Anxiety, and Depression&nbsp;&nbsp;azmarijuana.comMedical cannabis for depression? A major study finds no proof it works&nbsp;&nbsp;ConsumerAffairs",
       "sources": [
         {
           "name": "SciTechDaily",
@@ -146,18 +230,6 @@
         {
           "name": "Neuroscience News",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PLTBJdy1ZMElxZzRXdG5rZS13V19QVmJQTWFfV3dIRGFsWmtZb0tMVlVrUGk1Q3dwOFBxZGMxMFJtRzBtU05fNDZoUFA4dFB1dXpiR1VXbkw5ZHp3dF9rQlh4ZTVMSkxCTGUyaTJxOTNTYVRkNGNlN0dCZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b3951d86499e",
-      "title": "The Colorado River disappeared from the geological record for 5 million years: Scientists now know where it went - Phys.org",
-      "published": "2026-04-17T14:00:03+00:00",
-      "summary": "The Colorado River disappeared from the geological record for 5 million years: Scientists now know where it went&nbsp;&nbsp;Phys.orgStudy has a bold, new theory about the Grand Canyon's origins&nbsp;&nbsp;YahooScientists decipher the geological history of the Grand Canyon&nbsp;&nbsp;ReutersColorado River may have pooled and spilled over to form the Grand Canyon, solving a long-standing mystery — but not everyone agrees&nbsp;&nbsp;Live ScienceHow the Grand Canyon formed is a surprisingly messy st",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wWEFVVjA5SENQd0JKZG14SVFQOVdXV0ZvVndUdk9UUWVZM0VwTzZOZi1sLTRXelMxRlNDT0pjZFNiX2JsU25jNHNkSTc2bUljYmQ3MjdLMlVZNzd2bVloN3BhZmJqV0N1ZTBUVUpaQzh0b0haMTdoN3ZBSFFuQ2s?oc=5"
         }
       ]
     },
@@ -213,7 +285,7 @@
       "id": "aa37113e13e1",
       "title": "Artemis 2's heat shield seems to have aced its trial by fire - Space",
       "published": "2026-04-17T13:00:00+00:00",
-      "summary": "Artemis 2's heat shield seems to have aced its trial by fire&nbsp;&nbsp;SpaceDid the Artemis II spacecraft protect the crew well enough? NASA races to find out&nbsp;&nbsp;NBC NewsSpace Twitter’s Ad Hoc Heat Shield Analysis&nbsp;&nbsp;NASA Watch\"We Came In Fast And Hot\": Artemis Astronauts On Re-Entry At 48,021 Kmph&nbsp;&nbsp;NDTVWeather Tidbits: How The Orion Spacecraft Survives Earth’s Atmosphere&nbsp;&nbsp;WMDT",
+      "summary": "Artemis 2's heat shield seems to have aced its trial by fire&nbsp;&nbsp;SpaceDid the Artemis II spacecraft protect the crew well enough? NASA races to find out&nbsp;&nbsp;NBC News\"We Came In Fast And Hot\": Artemis Astronauts On Re-Entry At 48,021 Kmph&nbsp;&nbsp;NDTVWeather Tidbits: How The Orion Spacecraft Survives Earth’s Atmosphere&nbsp;&nbsp;WMDTThe Ship That Felt Like Home: Artemis 2 Crew Returns With a Vessel Ready for the Moon&nbsp;&nbsp;Space Daily",
       "sources": [
         {
           "name": "Space",
@@ -282,34 +354,10 @@
       ]
     },
     {
-      "id": "92f22010be9f",
-      "title": "Doing These 5 Activities With Loved Ones May Help Ward Off Dementia - HuffPost",
-      "published": "2026-04-17T11:00:18+00:00",
-      "summary": "Doing These 5 Activities With Loved Ones May Help Ward Off Dementia&nbsp;&nbsp;HuffPost",
-      "sources": [
-        {
-          "name": "HuffPost",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNGVmM2xheEE4SkdUOTdfdkw1bnNKbFdxQnRsSTRWY2Y3TGFFQWxRbTVIRlpySEFJcm15ekhqUU5HYW9kVEN6ek04Rnd1R3BjdHhQVEZhZjMzcTVSUThLeS0yN3UzcHNJQzRNekZIT1lSdDRkWkpKN2VhZFJYc0ROOFAwRnFkVHVHQjAwTWkzT05zbndkdWpZTWI4SdIBoAFBVV95cUxPeXZZQVd1dTlPaVRZT05yaXlwamtxSnA1d0pwY1F3dTgyWUN2N3lhY2x2Ml9rN05SQjVOeVVFNHVaQ1QtT1ItRmwwVHFKWmVOX1RpVzN3a2hjMmZGZVZnS2d4dks1SV9mTlF6Vmo4cWIwZXlydGM5dUZJczg4YUd3VzdhUGtrQmdlaU0yUUp6UnB1ZnNOazg1N0tkSXlpMWRZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "279ea5720a5d",
-      "title": "How Female Anglerfish Evolved to Have It All - The New York Times",
-      "published": "2026-04-17T09:04:40+00:00",
-      "summary": "How Female Anglerfish Evolved to Have It All&nbsp;&nbsp;The New York TimesPeculiar-Looking Anglerfishes Developed Their Fishing-Rod Lure 72 Million Years Ago&nbsp;&nbsp;Discover MagazineThis curious creature has a fishing rod dangling out of its head. It doesn't just use it for hunting…&nbsp;&nbsp;BBC Wildlife MagazineAnglerfish lures evolved over millions of years into glowing survival tools&nbsp;&nbsp;Earth.comResearch traces evolution of anglerfishes’ famed fishing-rod lures&nbsp;&nbsp;EurekA",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oWktWYzYzYUdOaXpUSnBmRm11cXo2QXY4MGRJQ2pfYmNGV2dHSE9JLTI3NWEzNFJadnY2YkdPWmw5bEUwN0h3RXRSYjRaanhXQ2RHdjQwNFZwVUV6a0s5Mk9XVkgwVHRMSnVuOWNjcEtNNERVRUJuYU1FbUdXdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d9f4aabda2b7",
       "title": "New Treatment Lets 3 Transplant Patients Halt Anti-Rejection Drugs - The New York Times",
       "published": "2026-04-17T09:04:01+00:00",
-      "summary": "New Treatment Lets 3 Transplant Patients Halt Anti-Rejection Drugs&nbsp;&nbsp;The New York TimesFirst-of-its-kind Pitt study allows some liver transplant recipients to stop antirejection drugs&nbsp;&nbsp;Pittsburgh Post-GazetteFirst-in-human trial primes immune system to accept donor livers&nbsp;&nbsp;Medical XpressCell therapy primed liver transplant patients to avoid organ rejection, small study shows&nbsp;&nbsp;statnews.comRegulatory Dendritic Cells Enable Early Drug Withdrawal in Liver Trans",
+      "summary": "New Treatment Lets 3 Transplant Patients Halt Anti-Rejection Drugs&nbsp;&nbsp;The New York TimesFirst-in-human trial primes immune system to accept donor livers&nbsp;&nbsp;Medical XpressFirst-of-its-kind Pitt study allows some liver transplant recipients to stop antirejection drugs&nbsp;&nbsp;Pittsburgh Post-GazetteOrgan Transplants Without Lifelong Meds? New Trial Shows It’s Possible&nbsp;&nbsp;GizmodoCell therapy primed liver transplant patients to avoid organ rejection, small study shows&nbsp",
       "sources": [
         {
           "name": "The New York Times",
@@ -345,7 +393,7 @@
       "id": "eb335b9f02d0",
       "title": "Iron plus UV light turns alcohol into hydrogen with catalyst-like efficiency - Phys.org",
       "published": "2026-04-17T09:00:04+00:00",
-      "summary": "Iron plus UV light turns alcohol into hydrogen with catalyst-like efficiency&nbsp;&nbsp;Phys.orgJapan scientists generate hydrogen using alcohol and iron&nbsp;&nbsp;Mid-dayHydrogen made from alcohol by scientists using iron catalyst, UV light&nbsp;&nbsp;Interesting EngineeringEfficient Hydrogen Production from Alcohol Using Iron Catalyst and UV Light&nbsp;&nbsp;Bioengineer.orgResearchers produce hydrogen from alcohol using iron and UV light&nbsp;&nbsp;Quantum Commodity Intelligence",
+      "summary": "Iron plus UV light turns alcohol into hydrogen with catalyst-like efficiency&nbsp;&nbsp;Phys.orgHydrogen made from alcohol by scientists using iron catalyst, UV light&nbsp;&nbsp;Interesting EngineeringJapan scientists generate hydrogen using alcohol and iron&nbsp;&nbsp;Mid-dayEfficient Hydrogen Production from Alcohol Using Iron Catalyst and UV Light&nbsp;&nbsp;Bioengineer.orgResearchers produce hydrogen from alcohol using iron and UV light&nbsp;&nbsp;Quantum Commodity Intelligence",
       "sources": [
         {
           "name": "Phys.org",
@@ -405,7 +453,7 @@
       "id": "2f225767b5d6",
       "title": "Much-Hyped Alzheimer's Drugs Show No Meaningful Benefit, Major Review Finds - ScienceAlert",
       "published": "2026-04-17T01:11:57+00:00",
-      "summary": "Much-Hyped Alzheimer's Drugs Show No Meaningful Benefit, Major Review Finds&nbsp;&nbsp;ScienceAlertAlzheimer's Drug Review Ignites Backlash From Experts&nbsp;&nbsp;MedPage TodayAnalysis of Alzheimer’s Drugs Stirs Debate About Their Effectiveness&nbsp;&nbsp;The New York TimesAlzheimer’s Drugs Targeting Amyloid Don’t Help, Review Finds&nbsp;&nbsp;Bloomberg.comEffect of ‘gamechanger’ Alzheimer’s drugs ‘trivial’, review concludes | Dementia&nbsp;&nbsp;The Guardian",
+      "summary": "Much-Hyped Alzheimer's Drugs Show No Meaningful Benefit, Major Review Finds&nbsp;&nbsp;ScienceAlertAnalysis of Alzheimer’s Drugs Stirs Debate About Their Effectiveness&nbsp;&nbsp;The New York TimesCochrane review reignites Alzheimer’s amyloid wars&nbsp;&nbsp;statnews.comAlzheimer's Drug Review Ignites Backlash From Experts&nbsp;&nbsp;MedPage TodayEffect of ‘gamechanger’ Alzheimer’s drugs ‘trivial’, review concludes | Dementia&nbsp;&nbsp;The Guardian",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -453,11 +501,23 @@
       "id": "e2064f31afee",
       "title": "Popular weight loss medications linked to hidden side effects, study finds - NewsNation",
       "published": "2026-04-16T23:13:06+00:00",
-      "summary": "Popular weight loss medications linked to hidden side effects, study finds&nbsp;&nbsp;NewsNationAI scans 400,000 Reddit posts to flag overlooked GLP-1 side effects&nbsp;&nbsp;Medical XpressReddit Analysis Uncovers Unreported GLP-1 Side Effects&nbsp;&nbsp;MedscapeSocial media data helps AI flag potential risks of GLP-1 medications&nbsp;&nbsp;Medical News TodayPopular weight-loss medications linked to hidden side effects, study finds&nbsp;&nbsp;Fox News",
+      "summary": "Popular weight loss medications linked to hidden side effects, study finds&nbsp;&nbsp;NewsNationView Full Coverage on Google News",
       "sources": [
         {
           "name": "NewsNation",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc09lM2w3Q081NEtiOFpLemV6bzMwYXMyNXJmS2tiSU5iLTRKRlhiMGlmaDU0bmJvSGFvMkZRTkFxNWJPd2ExSENVR181ZlZHUHBiNG5ZVF9fOXc4OWplTC16VjFyMUs1ZW9xNTY2SzVhZnMybHFINzBqR01wd2JfS1lSUkRUS1NN0gGOAUFVX3lxTE84dno4VUhmUmdYSmhzVWQwU3kwWm1GeDQ4YTRBak4yRzNRUl9jNVYzUkNnakVtWjhnLU9mbVFZQ1lHSnJVUWg3U1dacnQtcDgwZVdqUGRQalZoNjVWZUNRaEowa0pSWVAwM3ZveFZPemxEX3hHbTM0N3daS1QteVlSWUNVQXpvZ0FOVnUzcXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "65f8a834d042",
+      "title": "This Deadly Bacterial Disease Could Be Making a Comeback - AOL.com",
+      "published": "2026-04-16T22:46:35+00:00",
+      "summary": "This Deadly Bacterial Disease Could Be Making a Comeback&nbsp;&nbsp;AOL.comView Full Coverage on Google News",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQTFyVk1CQ0M3R2pJcWlFNkRhNURsUGtnR0RCekR5UWx0VHJmajc5MUZyVEFENFZNNW9KdTZFN1daaTExS0o3M194NE9heFhyQWJGQ0VOLW1kNFZuTl8wcHpmTWR5T0FmR0h3aWFVM3R4WHFWQzdMa3lZTVlvMG1na2txcXRmMkVX?oc=5"
         }
       ]
     },
@@ -470,6 +530,18 @@
         {
           "name": "Good News Network",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWW1sLTJQUXhqcmRmT1hZVTh6bWFUTlVnVjlBSVYyekdtVUM4ei1ZSWZuRFB4bkhOLUY1SzNqSEZETVB6S3lldVp6SVJYRHc1UHNWenluYlZ4dzB6MlFmVDJIZ0RZUFdSRWNaTVd2TG1lYXJXUUtqOHJzYWtqa3hIeFdpZWljQjRhbFhIbTI0QnhWcjdCUXZF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0f779c25b842",
+      "title": "Measles returns to SF with first confirmed case since 2019 - SFGATE",
+      "published": "2026-04-16T20:44:27+00:00",
+      "summary": "Measles returns to SF with first confirmed case since 2019&nbsp;&nbsp;SFGATEMeasles is back in SF. Here’s what to know&nbsp;&nbsp;The San Francisco StandardS.F. measles case highlights unique risk for babies too young for vaccine&nbsp;&nbsp;San Francisco ChronicleSan Francisco Confirms First Measles Case Since 2019, in an Unvaccinated Infant&nbsp;&nbsp;KQEDSan Francisco health officials confirm measles in infant; first case since 2019&nbsp;&nbsp;CBS News",
+      "sources": [
+        {
+          "name": "SFGATE",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNXVQSGxCdk5XdG1SQVh5VTBFWlFBTm43RTEyYXZ4VVg2OVZxbllseG1ZZVhOSU9GX3pDc3VraWl4Nnlqakk4NXl3N3AwV0ZTVXNVYXgtWkRMTFhRZzVkRXFHZzlERFJab2lwMjBpd0UwdDhZUnJZQS1yZExFT3ZwS2J6Yw?oc=5"
         }
       ]
     },
@@ -506,18 +578,6 @@
         {
           "name": "Nature",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85X2VIbkQyamhudEhtRXEwWW9LMUVCcTA1T0E3c1dWazRrbXBDc2VqbkFEcGtUZzV0MllhS0FTX2hra2I5TG0zMkRSN2xkZTZXZkJ1SGEzc2U5OU9OT25r?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e16238f6b819",
-      "title": "After 100 Years, Engineers Finally Discover Why Rubber Is So Tough - Gizmodo",
-      "published": "2026-04-16T18:26:32+00:00",
-      "summary": "After 100 Years, Engineers Finally Discover Why Rubber Is So Tough&nbsp;&nbsp;GizmodoScientists solve 100-year-old mystery behind rubber that powers modern life&nbsp;&nbsp;Phys.orgResearchers solve 100-year-old mystery behind rubber&nbsp;&nbsp;The Brighter Side of NewsUSF Scientists Uncover Century-Old Mystery Behind the Rubber That Drives Modern Life&nbsp;&nbsp;Bioengineer.org",
-      "sources": [
-        {
-          "name": "Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUVVWUnE4NkdKWUFKYTQzeWZUcVFmVnFtSEJpY0xzNmlNTkZkQ1hxMzQ2Zk5vZEgxZEpoSnpHTDJkRnBfemQyb3V1TldneGEzWFBlTlRnTGk2ZEZDbm9qcmNBbUdfanNpOTZGMV9tTWNOa3VzN25KelZCUWZEWUdlNkRMZXJUWEVXT1FjeUtKSTQycWRHMlV4dnMyRUY?oc=5"
         }
       ]
     },
@@ -573,7 +633,7 @@
       "id": "c5b77c2beb43",
       "title": "A Netflix Documentary Has a Bizarre Idea About How to Get Pregnant. I’ve Watched My Patients Fall for It. - Slate",
       "published": "2026-04-16T15:26:00+00:00",
-      "summary": "A Netflix Documentary Has a Bizarre Idea About How to Get Pregnant. I’ve Watched My Patients Fall for It.&nbsp;&nbsp;SlateThe air throughout our homes is infused with microplastics. But there are things you can do to breathe less of them&nbsp;&nbsp;BBCAre microplastics in ovaries impacting reproductive health?&nbsp;&nbsp;The Hindu9 ways to reduce your microplastic exposure and endocrine disruption&nbsp;&nbsp;Vogue IndiaStudy finds link between plastic exposure and fertility&nbsp;&nbsp;KVUE",
+      "summary": "A Netflix Documentary Has a Bizarre Idea About How to Get Pregnant. I’ve Watched My Patients Fall for It.&nbsp;&nbsp;SlateThe air throughout our homes is infused with microplastics. But there are things you can do to breathe less of them&nbsp;&nbsp;BBCAre microplastics in ovaries impacting reproductive health?&nbsp;&nbsp;The HinduFrom gym kit to tea bags - six plastic-packed items sabotaging your fertility&nbsp;&nbsp;The SunStudy finds link between plastic exposure and fertility&nbsp;&nbsp;KVUE",
       "sources": [
         {
           "name": "Slate",
@@ -618,18 +678,6 @@
       ]
     },
     {
-      "id": "24f8aa8c7856",
-      "title": "Scientists reveal the hidden forces shaping how gravity works across the Universe - The Brighter Side of News",
-      "published": "2026-04-16T14:07:00+00:00",
-      "summary": "Scientists reveal the hidden forces shaping how gravity works across the Universe&nbsp;&nbsp;The Brighter Side of NewsGravity follows Newton and Einstein's rules, even at cosmic scales&nbsp;&nbsp;Phys.orgNot Even the Largest Cosmic Objects Can Escape Newton and Einstein, Study Finds&nbsp;&nbsp;GizmodoTest of gravity using galaxy clusters supports dark matter&nbsp;&nbsp;USC DornsifePenn study confirms Newton and Einstein’s gravity theories at cosmic scales&nbsp;&nbsp;Open Access Government",
-      "sources": [
-        {
-          "name": "The Brighter Side of News",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaUtyMXpQNVQ2cUhrNEtLbm9QdWtqcXB4UTFIdWpBWWdHenk5em1kRF9mcF9WejR6RW5IYUw5TlRPWXBRdHYzdjllQ1hrOTFHWXNzSWV0WFdNSlZGbXUyTWw4MVJ5RXl4TEFYYTlQYlh6S1lfU1Y2OXlPOVdYcFZfUlA3YzhRY1UxcU9IWm5hYXZyc29SOUdaUXZoc2tiTUlfQ2RuU2dORGNOZVpKbGdyYmpwYnN1cVRVdkJSNQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f611495af2ad",
       "title": "Utah Becomes the New Center of U.S. Measles Cases - The New York Times",
       "published": "2026-04-16T13:48:25+00:00",
@@ -666,22 +714,10 @@
       ]
     },
     {
-      "id": "46bb26a347a4",
-      "title": "TRICARE covers well-child care to help keep kids healthy from day one - TRICARE Newsroom (.mil)",
-      "published": "2026-04-16T13:03:04+00:00",
-      "summary": "TRICARE covers well-child care to help keep kids healthy from day one&nbsp;&nbsp;TRICARE Newsroom (.mil)",
-      "sources": [
-        {
-          "name": "TRICARE Newsroom (.mil)",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWEtfRmpGS0MwekRJSXc5TEZRSEhXLWZOWWFTcm0wX2stQVlqRHNoam0waEVKeW1JNnhJemd2RnhmWDR5d2xGMHNNdmxBUXEzSjJ0VDJBUzVXNDBGNHRoZmtCQ0lIc2ozenQwMjZBUmNoWmNodE5La2pzU3JzUkxvTVRzdVowamhLLVo5bkxEQW53ekQ1RzU1LVJQX1lOREE4N0JyV1NMRENsQVFoOEgwbXNpM3kxYmFiS0xuT0xtd2FmY3hzdnVndGY2Zlo?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a6b561fee10f",
       "title": "Does Marital Status Affect Cancer Risk? - Medscape",
       "published": "2026-04-16T12:07:28+00:00",
-      "summary": "Does Marital Status Affect Cancer Risk?&nbsp;&nbsp;MedscapeShould’ve put a ring on it? Maybe! Marriage is linked to lower risk of cancer&nbsp;&nbsp;CNNAdults Who Never Married Have Higher Rates of Some Cancers&nbsp;&nbsp;University of MiamiAs If Being Single Wasn’t Bad Enough, Now It’s Bad for Your Health Too&nbsp;&nbsp;VICEResearch Shows Cancer Risk Is Higher in People Who Have Never Married. But Why?&nbsp;&nbsp;Verywell Health",
+      "summary": "Does Marital Status Affect Cancer Risk?&nbsp;&nbsp;MedscapeMarriage Linked to Lower Cancer Risk In Study of 4 Million Cases&nbsp;&nbsp;ScienceAlertAs If Being Single Wasn’t Bad Enough, Now It’s Bad for Your Health Too&nbsp;&nbsp;VICEUnmarried adults have higher rates of some cancers&nbsp;&nbsp;Sun SentinelLandmark Study Links Never Marrying to Significantly Higher Cancer Risk&nbsp;&nbsp;SciTechDaily",
       "sources": [
         {
           "name": "Medscape",
@@ -693,59 +729,11 @@
       "id": "d3d0aac6e8b4",
       "title": "Study Links 2 Simple Eating Habits to Lasting Lower Weight - ScienceAlert",
       "published": "2026-04-16T12:02:52+00:00",
-      "summary": "Study Links 2 Simple Eating Habits to Lasting Lower Weight&nbsp;&nbsp;ScienceAlert'Lasting lower weight' and 'staying lean over time' linked to two eating habits&nbsp;&nbsp;The MirrorEating Timing Matters More Than You Think: How Circadian Fasting and Early Meals May Support Healthy Weight&nbsp;&nbsp;vocal.media",
+      "summary": "Study Links 2 Simple Eating Habits to Lasting Lower Weight&nbsp;&nbsp;ScienceAlertTwo simple eating habits linked to lower weight, study finds&nbsp;&nbsp;ScienceDailyEarly breakfast, longer fasting window can help you sustain weight loss, finds study&nbsp;&nbsp;Moneycontrol.comMeal Timing Matters More Than Food Choice for Weight Loss, Study Finds&nbsp;&nbsp;Seoul Economic DailyEating Timing Matters More Than You Think: How Circadian Fasting and Early Meals May Support Healthy Weight&nbsp;&nbsp;v",
       "sources": [
         {
           "name": "ScienceAlert",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN0FOcE1HTVVzZDh5aXZjSzZFQ3RTdVZLZW0wNkhpYy1xUWNSVXFpcU1lamhXVV9aTFdReGFqamdUekRfaDdtVjNRZ2Z5SU5LcEl2WkVSMW5aZFI2TTNJVGRXQ3E3NzRRU2syR2lvSkJXd3VOZ2N4cGdIXzY3TG9nc1FaLTJtRFlkeEtZN2xKN1o?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0cec20d39ac6",
-      "title": "Do these two easy things to make your daily walk better for your health - The Independent",
-      "published": "2026-04-16T11:05:00+00:00",
-      "summary": "Do these two easy things to make your daily walk better for your health&nbsp;&nbsp;The IndependentSenior Cardiologist explains why your daily walk isn’t enough, and the one heart metric you should track instead&nbsp;&nbsp;The Times of IndiaThe Benefits of Walking, Explained by Doctors » News of Kyrgyzstan, Bishkek and Osh — latest events today&nbsp;&nbsp;open.kg‘I’m a Cardiologist—Here’s How Many Weeks You Need To Walk for To See a Difference in Heart Health'&nbsp;&nbsp;ParadeIs Walking A Good E",
-      "sources": [
-        {
-          "name": "The Independent",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYTQ1WUJzcllESlp0UVd3YTZJQ3lrbmZmekFIWHB2SXRycFZoTEJEWnhuT1N5YUJKU3BidWtHS01Qakl6U1FlT3BiUWF2SjRzbFRDb1N3NHVScWNKdkpDNmVQLVlfLWlCWFVlXzFHYXUwTWFNYjdqbUVBT1d4dnRPc2x6UG5vTTluaVFhQkpoMkdoZHI0TWcxWVJEWDlSQlhF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "537eab6d3098",
-      "title": "This Deadly Bacterial Disease Could Be Making a Comeback - Women's Health",
-      "published": "2026-04-16T10:00:00+00:00",
-      "summary": "This Deadly Bacterial Disease Could Be Making a Comeback&nbsp;&nbsp;Women's HealthReport spotlights invasive Hib disease outbreaks among homeless&nbsp;&nbsp;CIDRAPDeadly Hib Disease Returns as Vaccination Rates Fall in the US; Doctors Warn of Rising Child Death Risk&nbsp;&nbsp;Times NowHib Disease, Transmission, Symptoms, Treatment, Latest News&nbsp;&nbsp;Vajiram & RaviWhat is Hib? Doctors sound alarm on deadly bacterial disease&nbsp;&nbsp;LiveNOW from FOX",
-      "sources": [
-        {
-          "name": "Women's Health",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsVDB3bDdIQkRIMVBPcWgwVF8tTWZjS0FIVjhfQVoyeUdXaTdVbWlNQVJvTWRJelI5aHdOanpKXzRpVF92YnJicHlIRzN0VVEzdDF2V2c1bXNVR3FGTC1fSzN2SVlxZlhqbHdaWXdLNVVsb2YwcmhvbQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "81555ca2694a",
-      "title": "Want a Stronger, Younger Brain? Texas Researchers Say They Have Made a Fascinating Breakthrough - inc.com",
-      "published": "2026-04-16T08:33:10+00:00",
-      "summary": "Want a Stronger, Younger Brain? Texas Researchers Say They Have Made a Fascinating Breakthrough&nbsp;&nbsp;inc.comScientists reverse brain aging, with a nasal spray&nbsp;&nbsp;Texas A&amp;M StoriesNasal Spray Could Reverse Brain Aging By Lowering Inflammation And Re-Energizing Brain Cells&nbsp;&nbsp;IFLScienceNew nasal spray shows promise fighting memory loss and brain inflammation&nbsp;&nbsp;The Indian ExpressResearchers Use Nasal Spray To Suppress Brain Inflammation, Reverse ageing&nbsp;&nbsp;",
-      "sources": [
-        {
-          "name": "inc.com",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbUNtZlhrRWl4eXlSYmtOX1RBbjhuMXQ4MDdETjZPU0dBU3docVNRUkt3MXA4eWpEZ19pV1lKT2VlSkJ0Nm1kMWt4b1dWRnlRdkwwdkdfUXRfSjMtNEVMcjMtV0JvOEIyT0dXdW9mT3BUUjg5akpCZlJsV3R4Sk8zWGRTS21fcmlCbDZFVGZZY05xRkJZcFNGTHNuenVZQnVoX3FFRVZzZ252WVJuSjVyUHRRRnMyUms5eEVnUklLaUVELTVrbGxTWnc5Z3ZqajVTMHBF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dcee6471a0da",
-      "title": "Researchers warn of severe long-term damage to the brain after Covid following new study - UNILAD Tech",
-      "published": "2026-04-16T07:58:58+00:00",
-      "summary": "Researchers warn of severe long-term damage to the brain after Covid following new study&nbsp;&nbsp;UNILAD TechStudy links long COVID in kids to worse grades, attention, and social life&nbsp;&nbsp;CIDRAPStudy finds long COVID leaves a distinct immune signature in the blood&nbsp;&nbsp;News-MedicalUnderstanding the long-term neurological effects of SARS-CoV-2 infection&nbsp;&nbsp;Nature$23 million for research into Post-Acute Sequelae of COVID-19&nbsp;&nbsp;Australian Government Department of Heal",
-      "sources": [
-        {
-          "name": "UNILAD Tech",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT200dkdQMEhGQWV0QVdvNG1wYUd3SVlZaTNySHItZHk5bUJGSU9lSlNHZnlDRGxHNnpyT0Rxc0tBWDlBTEFSQlRNbEsyWThfQk84UTA4dFZLSjV2V3l0M1ZRUDFNYWNPZU1fZzdxX1FWRjh2cjNrR1dvYWNRWkVuYk94eDFudndreUswWVhiM3ZMbUNZb1ZJMEtB?oc=5"
         }
       ]
     }

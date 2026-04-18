@@ -1,15 +1,27 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-04-18T02:42:11.000793+00:00",
+  "fetched_at": "2026-04-18T07:13:48.183495+00:00",
   "total_fetched": 140,
   "unique_count": 140,
-  "health_related_count": 64,
+  "health_related_count": 62,
   "news": [
+    {
+      "id": "dc09f6afa97f",
+      "title": "Pregnancy vaccine reduces baby hospital admissions for RSV by 80% - BBC",
+      "published": "2026-04-17T23:35:23+00:00",
+      "summary": "Pregnancy vaccine reduces baby hospital admissions for RSV by 80%&nbsp;&nbsp;BBCMaternal RSV vaccination cuts infant hospitalization risk by over 80%, major study finds&nbsp;&nbsp;Medical XpressFDA advisers support approval of RSV vaccine to protect infants&nbsp;&nbsp;WVIA Public MediaRSV Vaccination in Late Pregnancy Reduces Infant Hospitalizations&nbsp;&nbsp;Inside Precision MedicineConall Watson, PhD, reports strong infant protection with maternal RSV vaccination program&nbsp;&nbsp;Contempora",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rRUVRQWNrOGVTbEIxQWZBYmtLTDA4QnYweFRlOE01SkdmWmlyZlY0Nk9QVWQ3eHQ2VklXMUlBMVl5c3RGUzd6azJieDdkbm16MEdWR2pSU0pKZw?oc=5"
+        }
+      ]
+    },
     {
       "id": "789fddb2e443",
       "title": "San Francisco Reports Its First Clade I Mpox Case — What to Know and How to Find a Vaccine - KQED",
       "published": "2026-04-17T21:22:45+00:00",
-      "summary": "San Francisco Reports Its First Clade I Mpox Case — What to Know and How to Find a Vaccine&nbsp;&nbsp;KQEDSan Francisco reports first case of more severe mpox strain&nbsp;&nbsp;San Francisco ChronicleSF Department of Public Health confirms first clade I mpox case&nbsp;&nbsp;KTVUMonkeypox Strain Found In San Francisco&nbsp;&nbsp;FM News 101 KXLSF health officials urge vaccinations after new case of monkeypox reported&nbsp;&nbsp;Local News Matters",
+      "summary": "San Francisco Reports Its First Clade I Mpox Case — What to Know and How to Find a Vaccine&nbsp;&nbsp;KQEDSan Francisco reports first case of more severe mpox strain&nbsp;&nbsp;San Francisco ChronicleSF Department of Public Health confirms first clade I mpox case&nbsp;&nbsp;KTVUMonkeypox Strain Found In San Francisco&nbsp;&nbsp;103.7 KFQDSF health officials urge vaccinations after new case of monkeypox reported&nbsp;&nbsp;Local News Matters",
       "sources": [
         {
           "name": "KQED",
@@ -21,7 +33,7 @@
       "id": "b606be09d392",
       "title": "RFK Jr. Calls Tylenol Study Finding No Link To Autism ‘Garbage’ - HuffPost",
       "published": "2026-04-17T21:15:00+00:00",
-      "summary": "RFK Jr. Calls Tylenol Study Finding No Link To Autism ‘Garbage’&nbsp;&nbsp;HuffPostA major pregnancy scare collapses: Tylenol shows no autism risk in more than 1.5 million children&nbsp;&nbsp;Medical XpressTylenol in pregnancy not linked with autism, Danish study finds&nbsp;&nbsp;CNNKira Philipsen Prahm, MD, PhD, highlights no link between acetaminophen exposure and autism risk&nbsp;&nbsp;Contemporary PediatricsTylenol during pregnancy has no link to autism, large study finds&nbsp;&nbsp;abcnews.",
+      "summary": "RFK Jr. Calls Tylenol Study Finding No Link To Autism ‘Garbage’&nbsp;&nbsp;HuffPostA major pregnancy scare collapses: Tylenol shows no autism risk in more than 1.5 million children&nbsp;&nbsp;Medical XpressTylenol in pregnancy not linked with autism, Danish study finds&nbsp;&nbsp;CNNRFK Jr. a ‘freaking charlatan’ for pushing Tylenol-autism theory: Batya | Elizabeth Vargas Reports&nbsp;&nbsp;AOL.comKira Philipsen Prahm, MD, PhD, highlights no link between acetaminophen exposure and autism risk&nb",
       "sources": [
         {
           "name": "HuffPost",
@@ -32,12 +44,24 @@
     {
       "id": "f94c86490c1d",
       "title": "Misophonia Has Genetic Links to Anxiety And Depression, Study Says - ScienceAlert",
-      "published": "2026-04-17T21:02:05+00:00",
+      "published": "2026-04-17T21:02:58+00:00",
       "summary": "Misophonia Has Genetic Links to Anxiety And Depression, Study Says&nbsp;&nbsp;ScienceAlert",
       "sources": [
         {
           "name": "ScienceAlert",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOai0xZEVpNU9oRjUyaVRTejlLYldyVWcxaWdlZHJBYmpXNzNFanByM2tfcFdZcjV4Rm96U1I2S25mVGhsQy1LUW5lSEJPdkJBUlBfeEMxMWU0amRLN1BmWmo3MjFVaDJXTF9RZThmeUFRaFlzSkN4dzI2ckJrem8zNjZOT2RWbzlkUWRub2NlZHFud192QUtCbW9B?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c08baebb6e63",
+      "title": "Report details tetanus in 4 unvaccinated US kids, including refusal of post-exposure prevention - CIDRAP",
+      "published": "2026-04-17T19:55:51+00:00",
+      "summary": "Report details tetanus in 4 unvaccinated US kids, including refusal of post-exposure prevention&nbsp;&nbsp;CIDRAPTetanus Deaths Still Happening in the U.S., CDC Report Shows&nbsp;&nbsp;MedPage TodayTetanus still occurs among all ages in US, mainly in undervaccinated&nbsp;&nbsp;CIDRAPOlder Women at Highest Risk of Tetanus Related Death&nbsp;&nbsp;Vax-Before-Travel",
+      "sources": [
+        {
+          "name": "CIDRAP",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLVY5ZlhyUmdCUVhHaW8ySWgzNldRaWNfMi0yREZ6X1Q0TF9yVklQZ2JhczZtamVsZElRWTZqYnRxUG5xd0Q5S0RvV2R3QndEdWhka3ZpVkNibE51RW85TWROckZaZGVFMm1fVmNUcFBBQnVCQ29wYktVYU8yMGxGb1ptU2piZEZYYjV5b1l4eWY0d3hOcTBhRVJYWGRFdDBEV29PWHpiUFcyby1BbTFYNHYwTl9ZVDZOSkwxVGppVkc5NjA?oc=5"
         }
       ]
     },
@@ -102,18 +126,6 @@
       ]
     },
     {
-      "id": "d9f4aabda2b7",
-      "title": "New Treatment Lets 3 Transplant Patients Halt Anti-Rejection Drugs - The New York Times",
-      "published": "2026-04-17T15:37:07+00:00",
-      "summary": "New Treatment Lets 3 Transplant Patients Halt Anti-Rejection Drugs&nbsp;&nbsp;The New York TimesFirst-of-its-kind Pitt study allows some liver transplant recipients to stop antirejection drugs&nbsp;&nbsp;Pittsburgh Post-GazetteFirst-in-human trial primes immune system to accept donor livers&nbsp;&nbsp;Medical XpressCell therapy primed liver transplant patients to avoid organ rejection, small study shows&nbsp;&nbsp;statnews.comRegulatory Dendritic Cells Enable Early Drug Withdrawal in Liver Trans",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ203YlF5ZWJkd1Z4dEZ5ZEdQMmpTczdObVh1V3JUUWQxaWViV2pkeXFFZ0hqMy1CWWxQR2RSRHVFN2N4WnF2Y1BzU3gwT3dpRjNuWXVUek96dXdBWTNQRWxDdlQ2OGlmUDRkdWlzR29rYm1sNXluT3BhcEFMT0JMUVpoZksyUDdxcUpsMA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e016c847ace3",
       "title": "Largest-Ever Study Finds Medicinal Cannabis Ineffective for Anxiety, Depression, PTSD - SciTechDaily",
       "published": "2026-04-17T14:28:18+00:00",
@@ -126,14 +138,38 @@
       ]
     },
     {
+      "id": "1f962f0b53a7",
+      "title": "Noise is the Signal: Why Weak Brain Connections Predict Behavior - Neuroscience News",
+      "published": "2026-04-17T14:12:07+00:00",
+      "summary": "Noise is the Signal: Why Weak Brain Connections Predict Behavior&nbsp;&nbsp;Neuroscience NewsOverlooked Brain Connections Hold Clues to Cognition and Mental Health | Newswise&nbsp;&nbsp;Newswise",
+      "sources": [
+        {
+          "name": "Neuroscience News",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PLTBJdy1ZMElxZzRXdG5rZS13V19QVmJQTWFfV3dIRGFsWmtZb0tMVlVrUGk1Q3dwOFBxZGMxMFJtRzBtU05fNDZoUFA4dFB1dXpiR1VXbkw5ZHp3dF9rQlh4ZTVMSkxCTGUyaTJxOTNTYVRkNGNlN0dCZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b3951d86499e",
       "title": "The Colorado River disappeared from the geological record for 5 million years: Scientists now know where it went - Phys.org",
       "published": "2026-04-17T14:00:03+00:00",
-      "summary": "The Colorado River disappeared from the geological record for 5 million years: Scientists now know where it went&nbsp;&nbsp;Phys.orgStudy has a bold, new theory about the Grand Canyon's origins&nbsp;&nbsp;USA TodayScientists decipher the geological history of the Grand Canyon&nbsp;&nbsp;ReutersThere’s a new theory about what helped form one of America’s grandest natural wonders&nbsp;&nbsp;The IndependentColorado River may have pooled and spilled over to form the Grand Canyon, solving a long-stan",
+      "summary": "The Colorado River disappeared from the geological record for 5 million years: Scientists now know where it went&nbsp;&nbsp;Phys.orgStudy has a bold, new theory about the Grand Canyon's origins&nbsp;&nbsp;YahooScientists decipher the geological history of the Grand Canyon&nbsp;&nbsp;ReutersColorado River may have pooled and spilled over to form the Grand Canyon, solving a long-standing mystery — but not everyone agrees&nbsp;&nbsp;Live ScienceHow the Grand Canyon formed is a surprisingly messy st",
       "sources": [
         {
           "name": "Phys.org",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wWEFVVjA5SENQd0JKZG14SVFQOVdXV0ZvVndUdk9UUWVZM0VwTzZOZi1sLTRXelMxRlNDT0pjZFNiX2JsU25jNHNkSTc2bUljYmQ3MjdLMlVZNzd2bVloN3BhZmJqV0N1ZTBUVUpaQzh0b0haMTdoN3ZBSFFuQ2s?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0faf17167adf",
+      "title": "Real-world MRI data confirm shared brain signatures of mental health disorders - Medical Xpress",
+      "published": "2026-04-17T14:00:01+00:00",
+      "summary": "Real-world MRI data confirm shared brain signatures of mental health disorders&nbsp;&nbsp;Medical Xpress",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdzVMcXFEeTV5NkdFUENiYS1mVnd4UjVzbWFmcEthc19Hdi1MWXN0N3BNZXpTWG56Q3RGSFFMU1lvTE5ydFhtTDgxT29KclRtYmFKUGRPWHVuS3FuNktkOUUwTzBNSkNhRE9rSnoxVXozTklhcDlVd2gzbU5FNVRrMg?oc=5"
         }
       ]
     },
@@ -177,23 +213,11 @@
       "id": "aa37113e13e1",
       "title": "Artemis 2's heat shield seems to have aced its trial by fire - Space",
       "published": "2026-04-17T13:00:00+00:00",
-      "summary": "Artemis 2's heat shield seems to have aced its trial by fire&nbsp;&nbsp;SpaceDid the Artemis II spacecraft protect the crew well enough? NASA races to find out&nbsp;&nbsp;NBC NewsArtemis II reentry image raises questions online about heat shield&nbsp;&nbsp;Yahoo\"We Came In Fast And Hot\": Artemis Astronauts On Re-Entry At 48,021 Kmph&nbsp;&nbsp;NDTVArtemis II astronauts praise their moonship’s performance, especially the heat shield&nbsp;&nbsp;Aurora Sentinel",
+      "summary": "Artemis 2's heat shield seems to have aced its trial by fire&nbsp;&nbsp;SpaceDid the Artemis II spacecraft protect the crew well enough? NASA races to find out&nbsp;&nbsp;NBC NewsSpace Twitter’s Ad Hoc Heat Shield Analysis&nbsp;&nbsp;NASA Watch\"We Came In Fast And Hot\": Artemis Astronauts On Re-Entry At 48,021 Kmph&nbsp;&nbsp;NDTVWeather Tidbits: How The Orion Spacecraft Survives Earth’s Atmosphere&nbsp;&nbsp;WMDT",
       "sources": [
         {
           "name": "Space",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ05pemNxWDVSbG9GYmpmRURUREpjZmMtN3ZCRkZEM19XNkhCcDlPUmNqX21yZkVWNGRDUWJ0ajIxRTcwWlFDOF90bTdzQW5tWldMbWxwcHlSSkZfRmdST18zVF90c29sbHMyWXBpaVJ4dmFDM3loVTBnVmItMkhKcDhmRG1YME9WRTRyWXRwM2dEaTFSaDRhcHFDYXpQQkRBUTYwRGpqZGRHX2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "279ea5720a5d",
-      "title": "How Female Anglerfish Evolved to Have It All - The New York Times",
-      "published": "2026-04-17T12:54:58+00:00",
-      "summary": "How Female Anglerfish Evolved to Have It All&nbsp;&nbsp;The New York TimesPeculiar-Looking Anglerfishes Developed Their Fishing-Rod Lure 72 Million Years Ago&nbsp;&nbsp;Discover MagazineThis curious creature has a fishing rod dangling out of its head. It doesn't just use it for hunting…&nbsp;&nbsp;BBC Wildlife MagazineAnglerfish lures evolved over millions of years into glowing survival tools&nbsp;&nbsp;Earth.comResearch traces evolution of anglerfishes’ famed fishing-rod lures&nbsp;&nbsp;EurekA",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oWktWYzYzYUdOaXpUSnBmRm11cXo2QXY4MGRJQ2pfYmNGV2dHSE9JLTI3NWEzNFJadnY2YkdPWmw5bEUwN0h3RXRSYjRaanhXQ2RHdjQwNFZwVUV6a0s5Mk9XVkgwVHRMSnVuOWNjcEtNNERVRUJuYU1FbUdXdw?oc=5"
         }
       ]
     },
@@ -210,10 +234,22 @@
       ]
     },
     {
+      "id": "3413eea0c48a",
+      "title": "A Taiwanese Team Built a Life-Size Dinosaur Nest, Never Expecting the Sun to Be Their Biggest Discovery - The Daily Galaxy",
+      "published": "2026-04-17T12:15:00+00:00",
+      "summary": "A Taiwanese Team Built a Life-Size Dinosaur Nest, Never Expecting the Sun to Be Their Biggest Discovery&nbsp;&nbsp;The Daily Galaxy",
+      "sources": [
+        {
+          "name": "The Daily Galaxy",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xQVJ5VTZydmFlMVpQaml6alg3WDc4amtZb0luWm5PRExpcWlCR2NFa2d1TkNXOUNoZjgtdHJyUXA4enR6SFlzRm9CX2xiLVJyX2RnZy16czVQOVJ4dzBiQ3JPY29UUThmZ2Nzc0xrSk9hRTB0bGtNV2FEYVdrQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "604af69c087e",
       "title": "I spoke to 3 doctors to find the best allergy products that deliver real relief - CNN",
       "published": "2026-04-17T12:00:00+00:00",
-      "summary": "I spoke to 3 doctors to find the best allergy products that deliver real relief&nbsp;&nbsp;CNNDon't rely only on anti-histamines this allergy season : Life Kit&nbsp;&nbsp;NPRAre Your Allergies Worse This Season? Climate Change and Pollution Might Be to Blame.&nbsp;&nbsp;Mother JonesSpring blooms bring pollen surge across the Ohio Valley, triggering allergy season&nbsp;&nbsp;WTOVHow to support your child’s health during peak allergy season&nbsp;&nbsp;Fairfax County Times",
+      "summary": "I spoke to 3 doctors to find the best allergy products that deliver real relief&nbsp;&nbsp;CNNDon't rely only on anti-histamines this allergy season : Life Kit&nbsp;&nbsp;NPRAre Your Allergies Worse This Season? Climate Change and Pollution Might Be to Blame.&nbsp;&nbsp;Mother JonesSpring blooms bring pollen surge across the Ohio Valley, triggering allergy season&nbsp;&nbsp;WTOVHow to find relief during allergy season in Michiana&nbsp;&nbsp;WNDU",
       "sources": [
         {
           "name": "CNN",
@@ -246,13 +282,49 @@
       ]
     },
     {
-      "id": "621ba382831f",
-      "title": "Deadly virus that causes vomiting, diarrhea on the rise in the U.S.: Here’s what to know - PennLive",
-      "published": "2026-04-17T09:02:00+00:00",
-      "summary": "Deadly virus that causes vomiting, diarrhea on the rise in the U.S.: Here’s what to know&nbsp;&nbsp;PennLiveLife-threatening virus that causes vomiting and diarrhea at high levels in the U.S., CDC says&nbsp;&nbsp;NBC NewsIs rotavirus spreading in LA County? Is it different from norovirus?&nbsp;&nbsp;USA TodayRotavirus levels rise in Jackson area, health officials warn&nbsp;&nbsp;WILXMedical Experts Warn of Potentially Deadly Virus Surging in Children That Can Cause Fatal Diarrhea and Vomiting&nb",
+      "id": "92f22010be9f",
+      "title": "Doing These 5 Activities With Loved Ones May Help Ward Off Dementia - HuffPost",
+      "published": "2026-04-17T11:00:18+00:00",
+      "summary": "Doing These 5 Activities With Loved Ones May Help Ward Off Dementia&nbsp;&nbsp;HuffPost",
       "sources": [
         {
-          "name": "PennLive",
+          "name": "HuffPost",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNGVmM2xheEE4SkdUOTdfdkw1bnNKbFdxQnRsSTRWY2Y3TGFFQWxRbTVIRlpySEFJcm15ekhqUU5HYW9kVEN6ek04Rnd1R3BjdHhQVEZhZjMzcTVSUThLeS0yN3UzcHNJQzRNekZIT1lSdDRkWkpKN2VhZFJYc0ROOFAwRnFkVHVHQjAwTWkzT05zbndkdWpZTWI4SdIBoAFBVV95cUxPeXZZQVd1dTlPaVRZT05yaXlwamtxSnA1d0pwY1F3dTgyWUN2N3lhY2x2Ml9rN05SQjVOeVVFNHVaQ1QtT1ItRmwwVHFKWmVOX1RpVzN3a2hjMmZGZVZnS2d4dks1SV9mTlF6Vmo4cWIwZXlydGM5dUZJczg4YUd3VzdhUGtrQmdlaU0yUUp6UnB1ZnNOazg1N0tkSXlpMWRZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "279ea5720a5d",
+      "title": "How Female Anglerfish Evolved to Have It All - The New York Times",
+      "published": "2026-04-17T09:04:40+00:00",
+      "summary": "How Female Anglerfish Evolved to Have It All&nbsp;&nbsp;The New York TimesPeculiar-Looking Anglerfishes Developed Their Fishing-Rod Lure 72 Million Years Ago&nbsp;&nbsp;Discover MagazineThis curious creature has a fishing rod dangling out of its head. It doesn't just use it for hunting…&nbsp;&nbsp;BBC Wildlife MagazineAnglerfish lures evolved over millions of years into glowing survival tools&nbsp;&nbsp;Earth.comResearch traces evolution of anglerfishes’ famed fishing-rod lures&nbsp;&nbsp;EurekA",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oWktWYzYzYUdOaXpUSnBmRm11cXo2QXY4MGRJQ2pfYmNGV2dHSE9JLTI3NWEzNFJadnY2YkdPWmw5bEUwN0h3RXRSYjRaanhXQ2RHdjQwNFZwVUV6a0s5Mk9XVkgwVHRMSnVuOWNjcEtNNERVRUJuYU1FbUdXdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d9f4aabda2b7",
+      "title": "New Treatment Lets 3 Transplant Patients Halt Anti-Rejection Drugs - The New York Times",
+      "published": "2026-04-17T09:04:01+00:00",
+      "summary": "New Treatment Lets 3 Transplant Patients Halt Anti-Rejection Drugs&nbsp;&nbsp;The New York TimesFirst-of-its-kind Pitt study allows some liver transplant recipients to stop antirejection drugs&nbsp;&nbsp;Pittsburgh Post-GazetteFirst-in-human trial primes immune system to accept donor livers&nbsp;&nbsp;Medical XpressCell therapy primed liver transplant patients to avoid organ rejection, small study shows&nbsp;&nbsp;statnews.comRegulatory Dendritic Cells Enable Early Drug Withdrawal in Liver Trans",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ203YlF5ZWJkd1Z4dEZ5ZEdQMmpTczdObVh1V3JUUWQxaWViV2pkeXFFZ0hqMy1CWWxQR2RSRHVFN2N4WnF2Y1BzU3gwT3dpRjNuWXVUek96dXdBWTNQRWxDdlQ2OGlmUDRkdWlzR29rYm1sNXluT3BhcEFMT0JMUVpoZksyUDdxcUpsMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2a56d0861cb1",
+      "title": "Deadly virus that causes vomiting, diarrhea on the rise in the U.S.: Here’s what to know - PennLive.com",
+      "published": "2026-04-17T09:02:00+00:00",
+      "summary": "Deadly virus that causes vomiting, diarrhea on the rise in the U.S.: Here’s what to know&nbsp;&nbsp;PennLive.comThis dangerous vomiting and diarrhea virus is surging across the US&nbsp;&nbsp;USA TodayLife-threatening virus that causes vomiting and diarrhea at high levels in the U.S., CDC says&nbsp;&nbsp;NBC NewsRotavirus levels rise in Jackson area, health officials warn&nbsp;&nbsp;WILXMedical Experts Warn of Potentially Deadly Virus Surging in Children That Can Cause Fatal Diarrhea and Vomiting",
+      "sources": [
+        {
+          "name": "PennLive.com",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ0FoQ0VBZGNTVTFmUm5XUGNBQ3l1WS1aM1pYUFlhRjNvQ3FFNjZvZWQ3dWV6RTE1Q2VjZmxHanQ4TWl2cFpoM0luLXprVkpKTVRqejktT1ZhSnJ4QzRMaTVOa21acjd3a3VUTllOdS1PNHFyTlpsekhBXzRtcFZFZVVKcW1Ga2wwLWNWRXhUSmhqRWpRUzBlRDQ2cTdtQTMtcUk4TU9hVmwxTG1nZmgtdmxWSGZUaHdRS21RVEprenRSakNKbENV0gHbAUFVX3lxTE55U0l4NFNsVGRPMFFxVFNWZlA1UHlwbHZuVGV0VVhiWUp0OFI3MDY1eWlsNGZ3WUJhWE9UbHRVRldiLWFFcV9VcTVjVmVXbXVTMXd0d0lRNk5JVV9XSEUzb3N0REdobFl6eUl6YXlSUTNfOXRyejhuY2l5Mk9CTWtyZVdZWEM4eUVGcHQxX2pvZlh2bEk5Wk00TGo4Q2c1QWNGOVhFX0dscUgyVVIxNkJzOEs5QWF1X2ZUUFpPX2FtbHVKZUdfOEdqRVRxdTlac1B0V0tjMUJJUjhyZw?oc=5"
         }
       ]
@@ -273,7 +345,7 @@
       "id": "eb335b9f02d0",
       "title": "Iron plus UV light turns alcohol into hydrogen with catalyst-like efficiency - Phys.org",
       "published": "2026-04-17T09:00:04+00:00",
-      "summary": "Iron plus UV light turns alcohol into hydrogen with catalyst-like efficiency&nbsp;&nbsp;Phys.orgHydrogen made from alcohol by scientists using iron catalyst, UV light&nbsp;&nbsp;Interesting EngineeringEfficient Hydrogen Production from Alcohol Using Iron Catalyst and UV Light&nbsp;&nbsp;Bioengineer.orgResearchers produce hydrogen from alcohol using iron and UV light&nbsp;&nbsp;Quantum Commodity Intelligence",
+      "summary": "Iron plus UV light turns alcohol into hydrogen with catalyst-like efficiency&nbsp;&nbsp;Phys.orgJapan scientists generate hydrogen using alcohol and iron&nbsp;&nbsp;Mid-dayHydrogen made from alcohol by scientists using iron catalyst, UV light&nbsp;&nbsp;Interesting EngineeringEfficient Hydrogen Production from Alcohol Using Iron Catalyst and UV Light&nbsp;&nbsp;Bioengineer.orgResearchers produce hydrogen from alcohol using iron and UV light&nbsp;&nbsp;Quantum Commodity Intelligence",
       "sources": [
         {
           "name": "Phys.org",
@@ -285,7 +357,7 @@
       "id": "6b9d2d8d7e2c",
       "title": "Fructose emerges as a key driver of metabolic disease - Medical Xpress",
       "published": "2026-04-17T09:00:03+00:00",
-      "summary": "Fructose emerges as a key driver of metabolic disease&nbsp;&nbsp;Medical XpressWhy Fructose Behaves Less Like a Calorie and More Like a Hormone&nbsp;&nbsp;ScienceBlog.comNew Study Identifies Fructose as a Major Contributor to Metabolic Disease&nbsp;&nbsp;Bioengineer.org",
+      "summary": "Fructose emerges as a key driver of metabolic disease&nbsp;&nbsp;Medical XpressWhy Fructose Behaves Less Like a Calorie and More Like a Hormone&nbsp;&nbsp;ScienceBlog.comNew Study Identifies Fructose as a Major Contributor to Metabolic Disease&nbsp;&nbsp;Bioengineer.orgFructose Identified As Key Driver Of Metabolic Disorders, Says New Study&nbsp;&nbsp;Outlook India",
       "sources": [
         {
           "name": "Medical Xpress",
@@ -309,7 +381,7 @@
       "id": "7eabc2eeeecc",
       "title": "Simple and Cheap Blood Test Could Detect Cancer and Other Diseases Before Symptoms Appear - SciTechDaily",
       "published": "2026-04-17T03:37:29+00:00",
-      "summary": "Simple and Cheap Blood Test Could Detect Cancer and Other Diseases Before Symptoms Appear&nbsp;&nbsp;SciTechDailyLow cost blood test could detect multiple cancers from single sample&nbsp;&nbsp;Medical News TodayOpinion: 2026 could mark turning point for early detection of multiple cancers&nbsp;&nbsp;Times of San DiegoMulticancer Early Detection Testing: a Population-Based Screening Strategy?&nbsp;&nbsp;OncLiveResearch Spotlight: Emerging Role of Blood-Based Cancer Detection Tests&nbsp;&nbsp;Panc",
+      "summary": "Simple and Cheap Blood Test Could Detect Cancer and Other Diseases Before Symptoms Appear&nbsp;&nbsp;SciTechDailyOpinion: 2026 could mark turning point for early detection of multiple cancers&nbsp;&nbsp;Times of San DiegoLow cost blood test could detect multiple cancers from single sample&nbsp;&nbsp;Medical News TodayAnna Berkenblit: Research Spotlight - Emerging Role of Blood-Based Cancer Detection Tests&nbsp;&nbsp;OncodailyDiagnosing cancer with a drop of blood&nbsp;&nbsp;University of Waterlo",
       "sources": [
         {
           "name": "SciTechDaily",
@@ -345,7 +417,7 @@
       "id": "b32e069473fa",
       "title": "Red hair gene favoured by natural selection over last 10,000 years, study finds | Evolution - The Guardian",
       "published": "2026-04-17T00:45:00+00:00",
-      "summary": "Red hair gene favoured by natural selection over last 10,000 years, study finds | Evolution&nbsp;&nbsp;The GuardianMassive Ancient-DNA Study Reveals Natural Selection Has Accelerated in Recent Human Evolution&nbsp;&nbsp;Harvard Medical SchoolNature Is Still Molding Human Genes, Study Finds&nbsp;&nbsp;The New York TimesRedheads are genetic winners? Ha, I knew it&nbsp;&nbsp;The TimesHow natural selection really shaped humanity&nbsp;&nbsp;The Economist",
+      "summary": "Red hair gene favoured by natural selection over last 10,000 years, study finds | Evolution&nbsp;&nbsp;The GuardianMassive Ancient-DNA Study Reveals Natural Selection Has Accelerated in Recent Human Evolution&nbsp;&nbsp;Harvard Medical SchoolNature Is Still Molding Human Genes, Study Finds&nbsp;&nbsp;The New York Times'Human evolution didn't slow down; we were just missing the signal': Large DNA study reveals natural selection led to more redheads and less male-pattern baldness&nbsp;&nbsp;Live S",
       "sources": [
         {
           "name": "The Guardian",
@@ -369,7 +441,7 @@
       "id": "92cfdf074130",
       "title": "Will retatrutide help me lose weight or look ‘shredded’? - The Conversation",
       "published": "2026-04-17T00:30:00+00:00",
-      "summary": "Will retatrutide help me lose weight or look ‘shredded’?&nbsp;&nbsp;The ConversationWhat experts say about claims of new weight-loss drug making people fall out of love&nbsp;&nbsp;CTV NewsEveryone Wants This Unapproved Weight Loss Drug—And Some Have Found a Way to Get It&nbsp;&nbsp;SELF MagazineRetatrutide Peptide Trials Update: What the Latest Clinical Data Shows&nbsp;&nbsp;Toronto MikeMan Hospitalized After Taking Unapproved Weight-Loss Drug&nbsp;&nbsp;AOL.com",
+      "summary": "Will retatrutide help me lose weight or look ‘shredded’?&nbsp;&nbsp;The ConversationMan Hospitalized After Taking Unapproved Weight-Loss Drug&nbsp;&nbsp;AOL.comThe experimental drug being marketed as the next big thing in weight loss&nbsp;&nbsp;The IndependentRetatrutide Peptide Trials Update: What the Latest Clinical Data Shows&nbsp;&nbsp;Toronto MikeWhat experts say about claims of new weight-loss drug making people fall out of love&nbsp;&nbsp;CTV News",
       "sources": [
         {
           "name": "The Conversation",
@@ -378,22 +450,10 @@
       ]
     },
     {
-      "id": "628f4b3ed9e1",
-      "title": "Scientists Reveal Why Bread Can Cause Weight Gain Without Overeating - ScienceAlert",
-      "published": "2026-04-16T23:31:56+00:00",
-      "summary": "Scientists Reveal Why Bread Can Cause Weight Gain Without Overeating&nbsp;&nbsp;ScienceAlertCarb-heavy foods drove weight gain without more calories by lowering energy burn&nbsp;&nbsp;Medical XpressEating only carbohydrate-rich foods like wheat and rice can lead to weight and fat gain, even if calorie intake remains the same.&nbsp;&nbsp;GIGAZINEScientists discover why bread can cause weight gain without extra calories&nbsp;&nbsp;ScienceDailyScientifically, it has been found that carbohydrate-ori",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdGlOVWJBS2t0anp0Y05pdURPTWN4Nm9VTFRyTnlOV1hwbjRzLUtfVEE0OWl1WXBDd2pHYkxyV3ZwNTRlc05fd2pvUVYxQmxjeUdFOG9TMDM1OXFlTVlSaWpyUFA2NkxMSkkyRmRHQXBjaTJDWlM2cDZ1Y25xMXdzMTJLUUF1VG1lbmpjd29sOG1XWVR2N0Ffb0l0MXpaZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e2064f31afee",
       "title": "Popular weight loss medications linked to hidden side effects, study finds - NewsNation",
       "published": "2026-04-16T23:13:06+00:00",
-      "summary": "Popular weight loss medications linked to hidden side effects, study finds&nbsp;&nbsp;NewsNationView Full Coverage on Google News",
+      "summary": "Popular weight loss medications linked to hidden side effects, study finds&nbsp;&nbsp;NewsNationAI scans 400,000 Reddit posts to flag overlooked GLP-1 side effects&nbsp;&nbsp;Medical XpressReddit Analysis Uncovers Unreported GLP-1 Side Effects&nbsp;&nbsp;MedscapeSocial media data helps AI flag potential risks of GLP-1 medications&nbsp;&nbsp;Medical News TodayPopular weight-loss medications linked to hidden side effects, study finds&nbsp;&nbsp;Fox News",
       "sources": [
         {
           "name": "NewsNation",
@@ -410,18 +470,6 @@
         {
           "name": "Good News Network",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWW1sLTJQUXhqcmRmT1hZVTh6bWFUTlVnVjlBSVYyekdtVUM4ei1ZSWZuRFB4bkhOLUY1SzNqSEZETVB6S3lldVp6SVJYRHc1UHNWenluYlZ4dzB6MlFmVDJIZ0RZUFdSRWNaTVd2TG1lYXJXUUtqOHJzYWtqa3hIeFdpZWljQjRhbFhIbTI0QnhWcjdCUXZF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0f779c25b842",
-      "title": "Measles returns to SF with first confirmed case since 2019 - SFGATE",
-      "published": "2026-04-16T20:44:27+00:00",
-      "summary": "Measles returns to SF with first confirmed case since 2019&nbsp;&nbsp;SFGATES.F. infant diagnosed with measles, city’s first case in seven years&nbsp;&nbsp;San Francisco ChronicleSan Francisco Confirms First Measles Case Since 2019, in an Unvaccinated Infant&nbsp;&nbsp;KQEDSan Francisco health officials confirm measles in infant; first case since 2019&nbsp;&nbsp;CBS NewsUnvaccinated infant is San Francisco's 1st measles case since 2019&nbsp;&nbsp;KTVU",
-      "sources": [
-        {
-          "name": "SFGATE",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNXVQSGxCdk5XdG1SQVh5VTBFWlFBTm43RTEyYXZ4VVg2OVZxbllseG1ZZVhOSU9GX3pDc3VraWl4Nnlqakk4NXl3N3AwV0ZTVXNVYXgtWkRMTFhRZzVkRXFHZzlERFJab2lwMjBpd0UwdDhZUnJZQS1yZExFT3ZwS2J6Yw?oc=5"
         }
       ]
     },
@@ -486,18 +534,6 @@
       ]
     },
     {
-      "id": "eda6da8aa433",
-      "title": "Utah reports more than 600 measles cases as outbreak spreads across US - The Guardian",
-      "published": "2026-04-16T17:58:00+00:00",
-      "summary": "Utah reports more than 600 measles cases as outbreak spreads across US&nbsp;&nbsp;The GuardianMeasles and Moab? Pitkin County Public Health raises awareness in off-season&nbsp;&nbsp;AspenTimes.comThis state is the new epicenter of measles in America&nbsp;&nbsp;The IndependentSeveral preschools exposed to measles as Utah reaches over 600 cases&nbsp;&nbsp;ABC4 UtahUtah Becomes the New Center of U.S. Measles Cases&nbsp;&nbsp;The New York Times",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcmFiMFpYUnA1M25aNEg1am1icFQ2dlpaSHJpQXJLOUNoYldNTGdYTWt4TThVVllyVWZKLWxCOElmYlZ4RE1JWlBMdEIzOHE5X214ZDZRWWg3aDM1Zm5GZ0kyYTJQLVdRZkNwNFZ5ZWxMbV9VZGdyYTltZUNzc0NLTg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "48f13d511e50",
       "title": "Brainerd native over the moon after making history with Artemis II mission - Star Tribune",
       "published": "2026-04-16T16:21:50+00:00",
@@ -513,7 +549,7 @@
       "id": "02c057e820ad",
       "title": "Younger adult colon cancer deaths are concentrated in people with less education, study says - AP News",
       "published": "2026-04-16T16:07:00+00:00",
-      "summary": "Younger adult colon cancer deaths are concentrated in people with less education, study says&nbsp;&nbsp;AP NewsLIFE-HEALTH-YOUNG-COLORECTAL-CANCER-DMT&nbsp;&nbsp;UnionLeader.comColorectal Cancer Is Now the Leading Cancer Killer for Americans Under Fifty&nbsp;&nbsp;ZME ScienceRising Colon Cancer Deaths Hit Younger Adults Without Degrees Hardest&nbsp;&nbsp;U.S. News & World Report‘I Was Diagnosed With Stage IV Colorectal Cancer at 26—I Wish I Took This Early Symptom More Seriously’&nbsp;&nbsp;Para",
+      "summary": "Younger adult colon cancer deaths are concentrated in people with less education, study says&nbsp;&nbsp;AP NewsColorectal Cancer Is Now the Leading Cancer Killer for Americans Under Fifty&nbsp;&nbsp;ZME ScienceLIFE-HEALTH-YOUNG-COLORECTAL-CANCER-DMT&nbsp;&nbsp;UnionLeader.comRising Colon Cancer Deaths Hit Younger Adults Without Degrees Hardest&nbsp;&nbsp;U.S. News & World Report‘I Was Diagnosed With Stage IV Colorectal Cancer at 26—I Wish I Took This Early Symptom More Seriously’&nbsp;&nbsp;Para",
       "sources": [
         {
           "name": "AP News",
@@ -522,14 +558,14 @@
       ]
     },
     {
-      "id": "e51d86d130d5",
-      "title": "Heartbroken Texas dog owner reveals that deadly ‘kissing bug’ killed her dog - as experts say cases are on the rise - Yahoo",
+      "id": "56cc66c18f9f",
+      "title": "Heartbroken Texas dog owner reveals that deadly ‘kissing bug’ killed her dog - as experts say cases are on the rise - Yahoo News Canada",
       "published": "2026-04-16T15:46:49+00:00",
-      "summary": "Heartbroken Texas dog owner reveals that deadly ‘kissing bug’ killed her dog - as experts say cases are on the rise&nbsp;&nbsp;YahooView Full Coverage on Google News",
+      "summary": "Heartbroken Texas dog owner reveals that deadly ‘kissing bug’ killed her dog - as experts say cases are on the rise&nbsp;&nbsp;Yahoo News CanadaView Full Coverage on Google News",
       "sources": [
         {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT1MwR3k3TGdCWEs5R2dNTk5rbW5NTkhiSWRtTGJ5ZVRLSmlseE5KNFFUQ3pOU0NyU1NKanRDdWxhZnNuSWVZWGEydmFVQUFZTzRwSkJjQVBad2R5bjhmeDBQbG9NVW9JVUp1R2xpZVE1WG9BTW1LRUkzUDFWWDVmM1lKalAtZldnalc3ZmQxMA?oc=5"
+          "name": "Yahoo News Canada",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObFN1VzREUkttSWI3dE1NUDljdnhpSGlvcWdaTDBXdVVWQ1BJMDI0MlU4MmlTRXJZRzdQUE5CSVBGUmNXbk02ajVuc1MtaTg3TjRZb2N3cVROLW94dWREay0tTVpvb0pibzY2YmVQbDZINjNpQktNVGpZTWlUU01iQTJ3?oc=5"
         }
       ]
     },
@@ -537,23 +573,11 @@
       "id": "c5b77c2beb43",
       "title": "A Netflix Documentary Has a Bizarre Idea About How to Get Pregnant. I’ve Watched My Patients Fall for It. - Slate",
       "published": "2026-04-16T15:26:00+00:00",
-      "summary": "A Netflix Documentary Has a Bizarre Idea About How to Get Pregnant. I’ve Watched My Patients Fall for It.&nbsp;&nbsp;SlateThe air throughout our homes is infused with microplastics. But there are things you can do to breathe less of them&nbsp;&nbsp;BBCHow to Reduce Your Microplastic Exposure Overnight&nbsp;&nbsp;VogueAre microplastics in ovaries impacting reproductive health?&nbsp;&nbsp;The HinduA Room-by-Room Guide for Going Plastic Free&nbsp;&nbsp;Sierra Club",
+      "summary": "A Netflix Documentary Has a Bizarre Idea About How to Get Pregnant. I’ve Watched My Patients Fall for It.&nbsp;&nbsp;SlateThe air throughout our homes is infused with microplastics. But there are things you can do to breathe less of them&nbsp;&nbsp;BBCAre microplastics in ovaries impacting reproductive health?&nbsp;&nbsp;The Hindu9 ways to reduce your microplastic exposure and endocrine disruption&nbsp;&nbsp;Vogue IndiaStudy finds link between plastic exposure and fertility&nbsp;&nbsp;KVUE",
       "sources": [
         {
           "name": "Slate",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZWViWVlFWTcyWkpGUkVzNlRhOXFBRk9xZXkzazgzb09uSjRiWFVodWJPQWUwVG9MaTRRZElubkhFTTdHZGEyZm1hQTd2RTJDYkhiakhfa2ZfNEx4WWJVbWZjeXJfdGRRdkJMWFQ4OHFiTnlKQjhTLUY1cEJNUGJSWlBxWVRJVlhzZGEzUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bd011d169259",
-      "title": "\"Synthetic Organic Molecule\" Found Inside Martian Meteorite. But Don't Worry, It Is Of Human Origin - IFLScience",
-      "published": "2026-04-16T15:10:23+00:00",
-      "summary": "\"Synthetic Organic Molecule\" Found Inside Martian Meteorite. But Don't Worry, It Is Of Human Origin&nbsp;&nbsp;IFLScienceScientists Found Literal Ink From Ballpoint Pens in Martian Meteorites&nbsp;&nbsp;GizmodoAnalysing The Sample Preparation Process In Meteorites And Its Impact On The Pretreatment Of Returned Samples To Earth&nbsp;&nbsp;astrobiology.comScientists Analyzed Martian Meteorites and Uncovered Materials No One Ever Expected&nbsp;&nbsp;The Daily GalaxyContaminants Detected in Meteorit",
-      "sources": [
-        {
-          "name": "IFLScience",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaEpOS2ZXaWxqMEhTVHVPMlkxZ0pRMGRKRXJPbmF2RWJ3TjhmS0ppM3dSd2p0YndvTjUzRURFZnBkbXlWdU1FTWFQQjdTSXBSV1N4N1lQZ3NBZ0YzRVl3WHVYUjFNT1Rvb1lMYmR6aW54eFktalhNMlNodjdDV3p3V2U5LURyUGFLNDY0M2V3WHpRRXpGNXZHNEhTWWx1dUV1bFRiTFZjNlhEMDVrRGF1N0xFYW5ydmo2VmZuZkxERnhiWkRwTGc?oc=5"
         }
       ]
     },
@@ -606,6 +630,18 @@
       ]
     },
     {
+      "id": "f611495af2ad",
+      "title": "Utah Becomes the New Center of U.S. Measles Cases - The New York Times",
+      "published": "2026-04-16T13:48:25+00:00",
+      "summary": "Utah Becomes the New Center of U.S. Measles Cases&nbsp;&nbsp;The New York TimesUtah reports more than 600 measles cases as outbreak spreads across US&nbsp;&nbsp;The GuardianMeasles and Moab? Pitkin County Public Health raises awareness in off-season&nbsp;&nbsp;AspenTimes.comThis state is the new epicenter of measles in America&nbsp;&nbsp;The IndependentSeveral preschools exposed to measles as Utah reaches over 600 cases&nbsp;&nbsp;ABC4 Utah",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hQ2dXa3N6TG9ZVTdISUxDRlpYWjVvQ2R1WUN3QTc1c2NIdkc3bGQ5MTFqMGNqTXhUdXhwNVFKQVBQYTBKRENOeGlObm9zZ3g3LXpmTDJEYVJIM24xTEI1bmNZWXQxVTVhdjRlMDFtSTg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2c0e2614b9a8",
       "title": "The Sneaky Signs of Breast Cancer Doctors Say You Shouldn’t Ignore - Prevention",
       "published": "2026-04-16T13:33:15+00:00",
@@ -618,22 +654,10 @@
       ]
     },
     {
-      "id": "240116a81115",
-      "title": "Scientists Analyzed DNA from 132 Skeletons and Discovered a Stone Age Population That Suddenly Disappeared in France 5,000 Years Ago - Indian Defence Review",
-      "published": "2026-04-16T13:30:00+00:00",
-      "summary": "Scientists Analyzed DNA from 132 Skeletons and Discovered a Stone Age Population That Suddenly Disappeared in France 5,000 Years Ago&nbsp;&nbsp;Indian Defence ReviewEntire human populations vanished 3,000 years ago. Scientists figured out where they went.&nbsp;&nbsp;MSNNeolithic Europeans Suddenly Stopped Building Megalithic Tombs 5,000 Years Ago - And Now We Know Why&nbsp;&nbsp;IFLScienceAncient human populations disappeared 3,000 years ago in France: DNA study reveals Paris tomb mystery&nbsp;&",
-      "sources": [
-        {
-          "name": "Indian Defence Review",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmJPMWlBZ3pEbGNqOG5ObDQ3SGVkYk1RbUM5ckJ2cjlFUFBMOEpYdVYxS1NuVXBQWmMwLTZLTGZqbkRHcE10akNBOUpUWl9kaHhzNTRIR0FoSWVxa0g5UGhEWDFNbVgxWmdRRGVaSG1IQUJNQ3FwRmtTYXBpWjVNZ1V5SUIyeHZxMWVnbDBoeFRiTGVX?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9f31e9d3aa0b",
       "title": "senescent macrophages fuel inflammaging and metabolic dysfunction-associated steatotic liver disease - Nature",
       "published": "2026-04-16T13:26:00+00:00",
-      "summary": "senescent macrophages fuel inflammaging and metabolic dysfunction-associated steatotic liver disease&nbsp;&nbsp;NatureA hidden army of zombie immune cells may drive fatty liver disease, inflammation and aging&nbsp;&nbsp;Medical XpressMicroscopy image showing senescent macrophages&nbsp;&nbsp;EurekAlert!Aging Immune Cells Linked to Fatty Liver Disease&nbsp;&nbsp;Inside Precision MedicineScientists remove “zombie” cells and reverse liver damage in mice&nbsp;&nbsp;ScienceDaily",
+      "summary": "senescent macrophages fuel inflammaging and metabolic dysfunction-associated steatotic liver disease&nbsp;&nbsp;NatureA hidden army of zombie immune cells may drive fatty liver disease, inflammation and aging&nbsp;&nbsp;Medical XpressMicroscopy image showing senescent macrophages&nbsp;&nbsp;EurekAlert!Aging Immune Cells Linked to Fatty Liver Disease&nbsp;&nbsp;Inside Precision MedicineUCLA scientists reverse fatty liver disease by clearing zombie immune cells&nbsp;&nbsp;VegOut",
       "sources": [
         {
           "name": "Nature",
@@ -702,22 +726,10 @@
       ]
     },
     {
-      "id": "e51e74e147cc",
-      "title": "This New Produce Wash Removes 96% of Pesticides — Far More Than Water or Baking Soda - Food & Wine",
-      "published": "2026-04-16T09:01:00+00:00",
-      "summary": "This New Produce Wash Removes 96% of Pesticides — Far More Than Water or Baking Soda&nbsp;&nbsp;Food & WineBiodegradable wash keeps grapes fresh for 2 weeks at room temperature&nbsp;&nbsp;Popular ScienceA new fruit wash removes pesticides and extends shelf life&nbsp;&nbsp;Phys.orgThis Wash Removes 96% of Pesticides From Fruit, Study Finds&nbsp;&nbsp;AOL.comUBC Innovation: Advanced Wash Eliminates Pesticides and Prolongs Produce Freshness&nbsp;&nbsp;Bioengineer.org",
-      "sources": [
-        {
-          "name": "Food & Wine",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYzNJNXRlTXZrMnVvaEV6ZTA1NkM2aG5LSnU1RVAyU0E3d241SFh1RFVlNmpiSDlIWTBiTnJtRVhvWVZtV25YMTZ0RlY2b3lkTm5fcFRwN1dXVHhSNWlfRlg3S2RxOVlrTjhOenI5d3RpbkxwWEdneXlCSjN2WGpHLWF5SmxjcHBwaDhrLTc4Vk5vUmtI?oc=5"
-        }
-      ]
-    },
-    {
       "id": "81555ca2694a",
       "title": "Want a Stronger, Younger Brain? Texas Researchers Say They Have Made a Fascinating Breakthrough - inc.com",
       "published": "2026-04-16T08:33:10+00:00",
-      "summary": "Want a Stronger, Younger Brain? Texas Researchers Say They Have Made a Fascinating Breakthrough&nbsp;&nbsp;inc.comScientists reverse brain aging, with a nasal spray&nbsp;&nbsp;Texas A&amp;M StoriesA Future Nasal Spray Could Help Reverse Brain Aging and Restore Memory — At Least in Early Tests&nbsp;&nbsp;Discover MagazineNasal Spray Could Reverse Brain Aging By Lowering Inflammation And Re-Energizing Brain Cells&nbsp;&nbsp;IFLScienceNew nasal spray shows promise fighting memory loss and brain inf",
+      "summary": "Want a Stronger, Younger Brain? Texas Researchers Say They Have Made a Fascinating Breakthrough&nbsp;&nbsp;inc.comScientists reverse brain aging, with a nasal spray&nbsp;&nbsp;Texas A&amp;M StoriesNasal Spray Could Reverse Brain Aging By Lowering Inflammation And Re-Energizing Brain Cells&nbsp;&nbsp;IFLScienceNew nasal spray shows promise fighting memory loss and brain inflammation&nbsp;&nbsp;The Indian ExpressResearchers Use Nasal Spray To Suppress Brain Inflammation, Reverse ageing&nbsp;&nbsp;",
       "sources": [
         {
           "name": "inc.com",
@@ -734,42 +746,6 @@
         {
           "name": "UNILAD Tech",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT200dkdQMEhGQWV0QVdvNG1wYUd3SVlZaTNySHItZHk5bUJGSU9lSlNHZnlDRGxHNnpyT0Rxc0tBWDlBTEFSQlRNbEsyWThfQk84UTA4dFZLSjV2V3l0M1ZRUDFNYWNPZU1fZzdxX1FWRjh2cjNrR1dvYWNRWkVuYk94eDFudndreUswWVhiM3ZMbUNZb1ZJMEtB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3556b026c17c",
-      "title": "This speech pattern is an indicator of a brain in cognitive decline - Earth.com",
-      "published": "2026-04-16T07:00:00+00:00",
-      "summary": "This speech pattern is an indicator of a brain in cognitive decline&nbsp;&nbsp;Earth.com",
-      "sources": [
-        {
-          "name": "Earth.com",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSFZVZkxPYXN6ZEI1Q0ZTQ2VVQWl3UXpLcVZhc19OcjRHYVRPZjFRLW5Hc1VkQ3NXbUNvZkZFZHY4dXBhdFI2X3BqaXBYSkxqclJGWkltTjliNHUwaDVDVjFzOE04SmpqZjRNWXZxX2tmMXdVUUR6Ym8zLXF2SVhvMXpWMzF1Z19icGRicW02RUpZTlQ4WVZXR3ZxZ01IVWFtM1czRk51dDBnNUdTNFI2dg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "01a665ca9e2f",
-      "title": "MIT study reveals a new role for cell membranes - MIT News",
-      "published": "2026-04-16T04:00:00+00:00",
-      "summary": "MIT study reveals a new role for cell membranes&nbsp;&nbsp;MIT News",
-      "sources": [
-        {
-          "name": "MIT News",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9IXy1PZW42Qkx5ZklkNHdpTGxaLTk5d0wtblAyVVRFNzN0TlBPSFY2Qkxfb0J2SWxFMzVqc19QVmx6anZGQlVFamZwV01OMXp2NGVPWTJENldXSHZ3Sy1USjZFTWpGa2hTSnRESWNuQXlvdkh6Xy0wdjVjQzU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6604c9c9ab0d",
-      "title": "Unexpected Source of Salt May Be Raising Blood Pressure For Millions - ScienceAlert",
-      "published": "2026-04-16T02:46:58+00:00",
-      "summary": "Unexpected Source of Salt May Be Raising Blood Pressure For Millions&nbsp;&nbsp;ScienceAlertThe sneaky saboteur that may be raising your blood pressure — especially if you live in a coastal area&nbsp;&nbsp;New York PostPublic health researcher reveals that drinking water consumed by billions may contain hidden salt, raising blood pressure in millions and increasing the risk of hypertension by up to 26%.&nbsp;&nbsp;CPG Click Petróleo e GásSeawater raising people’s blood pressure to levels as risk",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNl9xV2VmU3ZRbUdoX2p3UEZMMFY2aWxVckp1MG5SeHZ3UkZWalNXYXFWMnVBM1BrRTAtdWVVNGg2dUV6UVJfU2JKNG5paXVubTVMRGdVMjhCNTQwT0JNQklqSnVITkdEZjEzUGVKclo5MEQ2QVYtX1Q4LWtJWjQzbW01MUlHMGpTZHBfQVJKT0FCblY3eU9RMlZ2ZDNjdw?oc=5"
         }
       ]
     }

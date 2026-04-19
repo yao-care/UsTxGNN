@@ -1,31 +1,79 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-04-19T07:24:28.658692+00:00",
-  "total_fetched": 133,
-  "unique_count": 133,
-  "health_related_count": 67,
+  "fetched_at": "2026-04-19T13:08:39.549031+00:00",
+  "total_fetched": 128,
+  "unique_count": 128,
+  "health_related_count": 66,
   "news": [
     {
-      "id": "28f1928f7f58",
-      "title": "How Female Anglerfish Evolved to Have It All - The New York Times",
-      "published": "2026-04-19T07:12:13+00:00",
-      "summary": "How Female Anglerfish Evolved to Have It All&nbsp;&nbsp;The New York TimesThis curious creature has a fishing rod dangling out of its head. It doesn't just use it for hunting…&nbsp;&nbsp;BBC Wildlife MagazinePeculiar-Looking Anglerfishes Developed Their Fishing-Rod Lure 72 Million Years Ago&nbsp;&nbsp;Discover MagazineResearch traces evolution of anglerfishes’ famed fishing-rod lures&nbsp;&nbsp;EurekAlert!",
+      "id": "43e101acbb8c",
+      "title": "What to eat (and avoid) to lower your Parkinson’s risk - The Washington Post",
+      "published": "2026-04-19T11:42:21+00:00",
+      "summary": "What to eat (and avoid) to lower your Parkinson’s risk&nbsp;&nbsp;The Washington PostUltra-processed foods may raise Parkinson's Disease risk, new research shows&nbsp;&nbsp;CBS NewsThe Gut-Brain Axis: How Diet May Influence Parkinson’s Disease&nbsp;&nbsp;Health and Me",
       "sources": [
         {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oWktWYzYzYUdOaXpUSnBmRm11cXo2QXY4MGRJQ2pfYmNGV2dHSE9JLTI3NWEzNFJadnY2YkdPWmw5bEUwN0h3RXRSYjRaanhXQ2RHdjQwNFZwVUV6a0s5Mk9XVkgwVHRMSnVuOWNjcEtNNERVRUJuYU1FbUdXdw?oc=5"
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53NnpWRk1oV0xXQlI0MmxhSDdYd1pkdkszZkFTbS14Y0dHSnlQVWFMTnJwcUhDcVEwUXRrMXZCNDhLMTlrNldXbWNCNFVBWnJUUjZoRmpPX2VlWkJKR1prNWkwUG5aS0diaG1mcW5kSjVFLXpHa2w3R29ZTzg?oc=5"
         }
       ]
     },
     {
-      "id": "06d1e439053f",
-      "title": "Doctors expose ‘buffalo hump’ as potential sign of hidden health conditions - AOL.com",
-      "published": "2026-04-19T04:08:02+00:00",
-      "summary": "Doctors expose ‘buffalo hump’ as potential sign of hidden health conditions&nbsp;&nbsp;AOL.comView Full Coverage on Google News",
+      "id": "483b45effad1",
+      "title": "Scientists Solve Mystery Of Why The Colorado River Disappeared From The Geological Record For 5 Million Years - IFLScience",
+      "published": "2026-04-19T11:29:47+00:00",
+      "summary": "Scientists Solve Mystery Of Why The Colorado River Disappeared From The Geological Record For 5 Million Years&nbsp;&nbsp;IFLScienceScientists decipher the geological history of the Grand Canyon&nbsp;&nbsp;ReutersThere’s a new theory about what helped form one of America’s grandest natural wonders&nbsp;&nbsp;The IndependentNew research shows prehistoric lake contributed to the birth of the Grand Canyon&nbsp;&nbsp;USGS (.gov)Colorado River may have pooled and spilled over to form the Grand Canyon,",
       "sources": [
         {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tcXF6VW5qX0hFdjVJM1hfVlJSOENuckY5NHFkU1RyangxWGUtT1BCaGVIRlVPNW9zVUxjMFVsNHVHaFlmbUdrSUd4ejRMQTNYODNNdVJoczMySS1KWWVCWkFSVzNST09naDlab3JkeGZJMnV2Z3ZpdjN0X2Y?oc=5"
+          "name": "IFLScience",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPalpHQ2YzbmhRYmVpUUlTbGFSVHVsN2ViTDd6QU9Kd3ZhVlBvSWZZS0tDekFrMU9TM01hYmxBTG4xZG15QlBwcmFReGpkeWFxRlJrOUd3YTRtcUZVaG9DR1BOVXN6N081aDBPTnVySFh3WGt6Vkd5ZGF0VjhMQ2hIMzRyN3dvUHFlNEcxZ0FGNlBtSGFNLWhHYWNqbEZjNnIwVzFEY2YzRERleDJjMFh6WlVja2FWamhVeTFua3A4N2k3YTBQQXZNTHp5NDRtVDJySWtIV3VFZi1kUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f136eb84789d",
+      "title": "How to train your brain to see possibility instead of doom - The Guardian",
+      "published": "2026-04-19T11:01:00+00:00",
+      "summary": "How to train your brain to see possibility instead of doom&nbsp;&nbsp;The GuardianHow to navigate uncertainty in an increasingly uncertain world&nbsp;&nbsp;Fast CompanyFreaked out by the news? Tips for staying calm through the doom-soaked headlines&nbsp;&nbsp;Jacksonville Journal-CourierFreaked out by the news? Tips for staying calm from ex-refugees, hostages and 'uncertainty experts'&nbsp;&nbsp;AOL.com",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ01JZ0N1blhMWnNyNVpkd3RHWUpWRzgweWxacXFGV2JkQmM3SlduTlJPTlJqUkY3SjhXM0lIZUdxN2dWSHBrVWJ0eFBlckxHd0g0NWdhdHFIMTFuNWxYdUNWb25kekxEUGJNRFB2SHVWTk9vdVdSMkp4b1ZySE1aM3pKQWFnYkg2MUhpS3h2V0dYVzdjbTRQcXV6WktCQzFlN0VDdW5Nbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4b5e4c944de2",
+      "title": "Can Sparkling Water Increase Your Risk Of Colorectal Cancer? - HuffPost",
+      "published": "2026-04-19T11:00:18+00:00",
+      "summary": "Can Sparkling Water Increase Your Risk Of Colorectal Cancer?&nbsp;&nbsp;HuffPost",
+      "sources": [
+        {
+          "name": "HuffPost",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmRlRnBTWk9ZeWoydEVLVEpJTDYzWDVaY3FFX0I4Nm4xejhqM1NDVnJldTBVeGVnZ3ZCZU03ME4xa2JFSlpkVEdvTUloWEc0Mk9xUDlfdUpsMlpvVG9wWktkNkF1TUQ2c1V0Z2U2NmY0MnljZVlNeVhsajFMc0d3bXNXLXVEUVBSNVhIWlVDZ0VBYVBwdk1RNmQ1RjXSAaIBQVVfeXFMTWs5NXZITm4xMFQ1NnBNTm5nNi1NTFQ5blBSWHVOYnZEbUFsLVJJSFdOU1AwdmNISzkzOWhaNU52WEdZeXFxa3BvemJ0T0tLT2M2MldfSXN2U2NFdzR6RzNPMVlKb192bGJ1WTc0RWFqQldnNU5jZno0VVhIRFp2Z0NmemNIN2FaQWp6ZXFUdDV1V1BTUUlJMWtYTWFSTjlwNXV3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c641ff741d33",
+      "title": "\"It's often infected with a parasite, which can be transmitted to humans. Untreated, it can lead to heart failure, damage to the nervous system and death..\" - BBC Wildlife Magazine",
+      "published": "2026-04-19T10:53:01+00:00",
+      "summary": "\"It's often infected with a parasite, which can be transmitted to humans. Untreated, it can lead to heart failure, damage to the nervous system and death..\"&nbsp;&nbsp;BBC Wildlife MagazineWorld Chagas Disease Day 2026: PAHO and the Global Chagas Coalition highlight the central role of women in eliminating the disease&nbsp;&nbsp;Pan American Health Organization (PAHO)Chagas disease causes 10 deaths a year, eight million people worldwide live with the infection&nbsp;&nbsp;Agenzia NovaWomen at the",
+      "sources": [
+        {
+          "name": "BBC Wildlife Magazine",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc1Vza1IyMlduLVBuRTBFRERKcE5KNVE1b3dlTUJWdi1DLTByZktSLVZfWkNOT1piX09DdU5kUVBkaVNEbC0xTU1lcEhWMGxpS3J5M3FCSTJUMXdWZkdSXzh3MUZBai1LaDFYaGlhRVpDdEVSMzJTemUzSFNrVk9HVXhYNjVMQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0b4544090f2f",
+      "title": "Artemis II astronaut Christina Koch shares struggle of adapting to Earth after moon mission - 10tv.com",
+      "published": "2026-04-19T03:03:00+00:00",
+      "summary": "Artemis II astronaut Christina Koch shares struggle of adapting to Earth after moon mission&nbsp;&nbsp;10tv.comWhat Christina Koch Said About Leaving Earth Is Hitting People Hard&nbsp;&nbsp;Yahoo‘Your hearts lifted ours’: NC State alum Christina Koch discusses impact of Artemis II moon mission&nbsp;&nbsp;WRALChristina Koch is first woman to journey around the moon&nbsp;&nbsp;WNTZ-TV FOX 48\"It Helped Me Turn Fear into Focus\": How Climbing Prepared Christina Koch for the Moon&nbsp;&nbsp;Outside Ma",
+      "sources": [
+        {
+          "name": "10tv.com",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcHBxeDQxNzJSVzVZLV8weEhaeE0yXzBibVdCRXluOEEzZzJmeE9HX09PbUlQT0UxSWk3Q2pDRnoxcTlJaHM3X3MyUXFyLW5PWUN3UEtidmZwYS1CMXlWVDY2SmpGZmthSlhnUzM2VnlpeDVlajlYbV84ek54ZHRacE1NUHp4YVdzVkE3V3F3MVpwaWczQ3V6LUN5Vmg5SjE4cHNvNnUtMGhpeEw1bHZSWGI1TW8yVEdrUXNqeEswSFFPYzRuRFp1M3I0Z2J4VXgzTm5oTXQ0REVtRGl0c0pOaVVsLVVjVkRIeG9lVmd3?oc=5"
         }
       ]
     },
@@ -45,7 +93,7 @@
       "id": "e44774acfee5",
       "title": "Tiny Microbes Hiding in Soil May Help Pull Rain From The Sky, Study Reveals - ScienceAlert",
       "published": "2026-04-19T01:04:10+00:00",
-      "summary": "Tiny Microbes Hiding in Soil May Help Pull Rain From The Sky, Study Reveals&nbsp;&nbsp;ScienceAlert",
+      "summary": "Tiny Microbes Hiding in Soil May Help Pull Rain From The Sky, Study Reveals&nbsp;&nbsp;ScienceAlertNew Study Finds Tiny Soil Microbes May Influence Rainfall — Scientists Reveal Hidden Link Between Ground and Clouds&nbsp;&nbsp;The Sunday Guardian",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -66,6 +114,18 @@
       ]
     },
     {
+      "id": "8494601a10a4",
+      "title": "Scientists Discover a Surprising Way To Make Bread Healthier and More Nutritious - SciTechDaily",
+      "published": "2026-04-19T00:26:16+00:00",
+      "summary": "Scientists Discover a Surprising Way To Make Bread Healthier and More Nutritious&nbsp;&nbsp;SciTechDaily",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ0MyMzlyN1VScnM4Wkt2My12UjZHSVpJTm1sVmExVnhLd2JCUFdENkp1Z2xEdDU0SHhnV3lmVmVBc1RxOE84WDluV0o3SjBtZ2JOZkcxSVJEeDlQTnk3bG9BMk1HYkdxb3c5cU5sXzBzeU8zYWZHNElERHBYSWxVQlpaOFBlMjZjVDFHN2lmd1NqUHJsMVU1ZEx5ajc3dWQ1NmhRNFZFUjZiZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "74dd05c6a557",
       "title": "Can You Eat Ice Cream If You Have Diabetes? Here’s What a Dietitian Says - EatingWell",
       "published": "2026-04-19T00:00:00+00:00",
@@ -74,18 +134,6 @@
         {
           "name": "EatingWell",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1abmhaTjlyN3F1Z0FQVWlWczVjRGRNWXF2R0RURzU3R01SbG14WWdwM0MxNVhmay02Y2Rrc2ZSS3Juak1tbE1haTZfOVVfMDZLbm10QVhYdm9wcWc4TWFVZ0lxb1VFOFdKX0tRRFVaM0pmXzNfZjFhRWVzMTZjM28?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "da1ded28d96c",
-      "title": "Breakthrough Prize Announces 2026 Laureates - Breakthrough Prize",
-      "published": "2026-04-18T23:01:22+00:00",
-      "summary": "Breakthrough Prize Announces 2026 Laureates&nbsp;&nbsp;Breakthrough Prize‘The Oscar of science’ awarded to scientists behind genetic treatment that restores lost vision win&nbsp;&nbsp;The GuardianGene Therapy Pioneers Win 2026 Breakthrough Prize&nbsp;&nbsp;the-scientist.com$3 million prize goes to duo whose research led to first sickle cell CRISPR therapy&nbsp;&nbsp;Live SciencePhilly scientists win 2026 Breakthrough Prize for developing gene therapy for blindness&nbsp;&nbsp;Inquirer.com",
-      "sources": [
-        {
-          "name": "Breakthrough Prize",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IRlczcjg1dHk1UTlxcElKVjgtWVBfbGdDRkFyQWNxbW9KYkRULWF5cE9kZk1NZ1NWbFhkODl1RWxnUWhWWEpkSGpRd3hNdw?oc=5"
         }
       ]
     },
@@ -105,7 +153,7 @@
       "id": "0773407ae8d8",
       "title": "Doctors couldn’t diagnose her for years but ChatGPT got it right in minutes - New York Post",
       "published": "2026-04-18T21:04:00+00:00",
-      "summary": "Doctors couldn’t diagnose her for years but ChatGPT got it right in minutes&nbsp;&nbsp;New York PostWoman, 23, Self-Diagnosed Her Rare Genetic Disorder Using ChatGPT After Years of Being Misdiagnosed by Doctors&nbsp;&nbsp;People.comA 23-year-old used ChatGPT to diagnose a rare genetic disorder her doctors missed for years&nbsp;&nbsp;Startup FortunePhoebe Tesoriere diagnosed with hereditary spastic paraplegia after using ChatGPT&nbsp;&nbsp;NewsBytesWoman, 23, given rare diagnosis after putting sy",
+      "summary": "Doctors couldn’t diagnose her for years but ChatGPT got it right in minutes&nbsp;&nbsp;New York PostWoman, 23, Self-Diagnosed Her Rare Genetic Disorder Using ChatGPT After Years of Being Misdiagnosed by Doctors&nbsp;&nbsp;People.comChatGPT suggestion leads to HSP diagnosis for Cardiff's Phoebe Tesoriere&nbsp;&nbsp;NewsBytesA 23-year-old used ChatGPT to diagnose a rare genetic disorder her doctors missed for years&nbsp;&nbsp;Startup FortuneWoman, 23, given rare diagnosis after putting symptoms in",
       "sources": [
         {
           "name": "New York Post",
@@ -138,6 +186,18 @@
       ]
     },
     {
+      "id": "28f1928f7f58",
+      "title": "How Female Anglerfish Evolved to Have It All - The New York Times",
+      "published": "2026-04-18T19:22:00+00:00",
+      "summary": "How Female Anglerfish Evolved to Have It All&nbsp;&nbsp;The New York TimesThis curious creature has a fishing rod dangling out of its head. It doesn't just use it for hunting…&nbsp;&nbsp;BBC Wildlife MagazinePeculiar-Looking Anglerfishes Developed Their Fishing-Rod Lure 72 Million Years Ago&nbsp;&nbsp;Discover MagazineResearch traces evolution of anglerfishes’ famed fishing-rod lures&nbsp;&nbsp;EurekAlert!",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oWktWYzYzYUdOaXpUSnBmRm11cXo2QXY4MGRJQ2pfYmNGV2dHSE9JLTI3NWEzNFJadnY2YkdPWmw5bEUwN0h3RXRSYjRaanhXQ2RHdjQwNFZwVUV6a0s5Mk9XVkgwVHRMSnVuOWNjcEtNNERVRUJuYU1FbUdXdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2146c7953730",
       "title": "Human Evolution Has Accelerated to Favour Traits Like Red Hair, Lower Body Fat: Study - Ground News",
       "published": "2026-04-18T18:00:00+00:00",
@@ -162,10 +222,22 @@
       ]
     },
     {
+      "id": "882497f0d639",
+      "title": "500 Years Later, Scientists Solve Leonardo da Vinci’s Human Heart Mystery - Yahoo",
+      "published": "2026-04-18T17:07:48+00:00",
+      "summary": "500 Years Later, Scientists Solve Leonardo da Vinci’s Human Heart Mystery&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT0xLaDJ4MnR0ZnAwTEg1RmxRN05KVnl1TjZxZVhpZm5kR0FvdURZZzFhemNVSFlONG1LYmstUmZjdS1CUEtVUzIwdnlYV1pIWkJuNjVxd3FuY3dILTBzX0dJbjRCeWtZNk05dDRJSXNGUTl6YlBTeWFRNTZjU1ROOWtVSGRTRmQ1WURR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d5baf72606a7",
       "title": "Deep Beneath Yellowstone, Scientists Discover a Giant “River” of Hot Rock That May Be Driving It - The Daily Galaxy",
       "published": "2026-04-18T16:45:00+00:00",
-      "summary": "Deep Beneath Yellowstone, Scientists Discover a Giant “River” of Hot Rock That May Be Driving It&nbsp;&nbsp;The Daily GalaxyYellowstone's magma source may be closer than thought, reshaping hazard models&nbsp;&nbsp;Phys.orgYellowstone nearing eruption as new study finds magma brimming below the surface: scientists&nbsp;&nbsp;New York PostScientists Uncover Hidden Force Powering Yellowstone’s Supervolcano&nbsp;&nbsp;SciTechDailyWhat is Yellowstone Volcano? Is it Near Eruption?&nbsp;&nbsp;Jagran Jo",
+      "summary": "Deep Beneath Yellowstone, Scientists Discover a Giant “River” of Hot Rock That May Be Driving It&nbsp;&nbsp;The Daily GalaxyYellowstone nearing eruption as new study finds magma brimming below the surface: scientists&nbsp;&nbsp;New York PostYellowstone's magma source may be closer than thought, reshaping hazard models&nbsp;&nbsp;Phys.orgNew paper argues history, not mantle plume, powers Yellowstone&nbsp;&nbsp;Ars TechnicaWhat is Yellowstone volcano? Is it near eruption?&nbsp;&nbsp;MSN",
       "sources": [
         {
           "name": "The Daily Galaxy",
@@ -174,10 +246,22 @@
       ]
     },
     {
+      "id": "7006839ae126",
+      "title": "It doesn’t matter how much you sit — walking more could lower your risk of death and disease - ScienceDaily",
+      "published": "2026-04-18T14:10:56+00:00",
+      "summary": "It doesn’t matter how much you sit — walking more could lower your risk of death and disease&nbsp;&nbsp;ScienceDailySenior Cardiologist explains why your daily walk isn’t enough, and the one heart metric you should track instead&nbsp;&nbsp;The Times of IndiaWalking may not be enough exercise to keep a person healthy&nbsp;&nbsp;YahooDo these two easy things to make your daily walk better for your health&nbsp;&nbsp;The IndependentRegular walking associated with lower risk of death, heart disease&n",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jdFRpYlNjOE9qYWI4NFVMOW9RNkYwY01UNEhHZ1ZFTGZyd2JpV3NUQmRndFVOU0QteThtSEZHeUg2RkF2OUxPWUxzcnhqS3RxQW9oeTRjczMzODFrVnZLZ1VCTV85Rkd1cGpwaTFqMA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1c57fc7f9aca",
       "title": "New pain-relief opioid could be much less addictive than morphine, rodent study finds - Live Science",
       "published": "2026-04-18T14:00:00+00:00",
-      "summary": "New pain-relief opioid could be much less addictive than morphine, rodent study finds&nbsp;&nbsp;Live ScienceView Full Coverage on Google News",
+      "summary": "New pain-relief opioid could be much less addictive than morphine, rodent study finds&nbsp;&nbsp;Live Science",
       "sources": [
         {
           "name": "Live Science",
@@ -189,7 +273,7 @@
       "id": "538e4e2e7d6a",
       "title": "Organ Transplants Without Lifelong Meds? New Trial Shows It’s Possible - Gizmodo",
       "published": "2026-04-18T13:00:56+00:00",
-      "summary": "Organ Transplants Without Lifelong Meds? New Trial Shows It’s Possible&nbsp;&nbsp;GizmodoFirst-of-its-kind Pitt study allows some liver transplant recipients to stop antirejection drugs&nbsp;&nbsp;Pittsburgh Post-GazetteNew Treatment Lets 3 Transplant Patients Halt Anti-Rejection Drugs&nbsp;&nbsp;The New York TimesFirst-in-human trial primes immune system to accept donor livers&nbsp;&nbsp;Medical XpressCell therapy primed liver transplant patients to avoid organ rejection, small study shows&nbsp",
+      "summary": "Organ Transplants Without Lifelong Meds? New Trial Shows It’s Possible&nbsp;&nbsp;GizmodoNew Treatment Lets 3 Transplant Patients Halt Anti-Rejection Drugs&nbsp;&nbsp;The New York TimesFirst-of-its-kind Pitt study allows some liver transplant recipients to stop antirejection drugs&nbsp;&nbsp;Pittsburgh Post-GazetteFirst-in-human trial primes immune system to accept donor livers&nbsp;&nbsp;Medical XpressRegulatory Dendritic Cells Enable Early Drug Withdrawal in Liver Transplants&nbsp;&nbsp;Bioeng",
       "sources": [
         {
           "name": "Gizmodo",
@@ -201,7 +285,7 @@
       "id": "a982dc91f568",
       "title": "Landmark Study Links Never Marrying to Significantly Higher Cancer Risk - SciTechDaily",
       "published": "2026-04-18T12:20:28+00:00",
-      "summary": "Landmark Study Links Never Marrying to Significantly Higher Cancer Risk&nbsp;&nbsp;SciTechDailyDoes Marital Status Affect Cancer Risk?&nbsp;&nbsp;MedscapeMarriage Linked to Lower Cancer Risk In Study of 4 Million Cases&nbsp;&nbsp;ScienceAlertGetting Married Could Lower Your Cancer Risk, Researchers Say&nbsp;&nbsp;HealthlineUnmarried adults have higher rates of some cancers&nbsp;&nbsp;Sun Sentinel",
+      "summary": "Landmark Study Links Never Marrying to Significantly Higher Cancer Risk&nbsp;&nbsp;SciTechDailyDoes Marital Status Affect Cancer Risk?&nbsp;&nbsp;MedscapeMarriage Linked to Lower Cancer Risk In Study of 4 Million Cases&nbsp;&nbsp;ScienceAlertAs If Being Single Wasn’t Bad Enough, Now It’s Bad for Your Health Too&nbsp;&nbsp;VICEGetting Married Could Lower Your Cancer Risk, Researchers Say&nbsp;&nbsp;Healthline",
       "sources": [
         {
           "name": "SciTechDaily",
@@ -225,7 +309,7 @@
       "id": "74ec3c128863",
       "title": "11 Foods Experts Say Can Boost Your Brain Health And Help Ward Off Dementia - HuffPost",
       "published": "2026-04-18T11:00:17+00:00",
-      "summary": "11 Foods Experts Say Can Boost Your Brain Health And Help Ward Off Dementia&nbsp;&nbsp;HuffPost3 Memory-Fueling Foods That Give Your Brain a Boost&nbsp;&nbsp;Cleveland Clinic Health Essentials5 Everyday Breakfast Foods to Support Brain Health&nbsp;&nbsp;health.comShe has a dream to win this competition&nbsp;&nbsp;Enfoque MonterreyThe foods that Alzheimer’s experts want you to cut back on&nbsp;&nbsp;Yahoo",
+      "summary": "11 Foods Experts Say Can Boost Your Brain Health And Help Ward Off Dementia&nbsp;&nbsp;HuffPost3 Memory-Fueling Foods That Give Your Brain a Boost&nbsp;&nbsp;Cleveland Clinic Health Essentials5 Everyday Breakfast Foods to Support Brain Health&nbsp;&nbsp;health.comShe has a dream to win this competition&nbsp;&nbsp;Enfoque Monterrey5 Breakfast Foods: Daily Fuel to Boost Memory and Focus...&nbsp;&nbsp;jordannews.jo",
       "sources": [
         {
           "name": "HuffPost",
@@ -249,7 +333,7 @@
       "id": "eb5bd35c265b",
       "title": "Physicists Have a Major Problem With the Universe - Yahoo",
       "published": "2026-04-18T10:45:00+00:00",
-      "summary": "Physicists Have a Major Problem With the Universe&nbsp;&nbsp;YahooThe Local Universe’s Expansion Rate Is Clearer Than Ever, but Still Doesn’t Add Up&nbsp;&nbsp;NOIRLabScientists Just Confirmed One of the Greatest Mysteries of Our Universe. Now What?&nbsp;&nbsp;Popular Mechanics'Something's missing': Most thorough-ever study of the cosmos proves we still can't explain how the universe is expanding&nbsp;&nbsp;Live Science\"One bad measurement\" ruled out as Hubble tension explanation&nbsp;&nbsp;Big ",
+      "summary": "Physicists Have a Major Problem With the Universe&nbsp;&nbsp;YahooThe Local Universe’s Expansion Rate Is Clearer Than Ever, but Still Doesn’t Add Up&nbsp;&nbsp;NOIRLab'Something's missing': Most thorough-ever study of the cosmos proves we still can't explain how the universe is expanding&nbsp;&nbsp;Live ScienceScientists Just Confirmed One of the Greatest Mysteries of Our Universe. Now What?&nbsp;&nbsp;Popular MechanicsInternational Collaboration Helps Pinpoint Universe’s Expansion Rate&nbsp;&nb",
       "sources": [
         {
           "name": "Yahoo",
@@ -354,10 +438,22 @@
       ]
     },
     {
+      "id": "0c6af2e724e3",
+      "title": "Pregnancy vaccine reduces baby hospital admissions for RSV by 80% - BBC",
+      "published": "2026-04-17T23:35:23+00:00",
+      "summary": "Pregnancy vaccine reduces baby hospital admissions for RSV by 80%&nbsp;&nbsp;BBCThe impact of maternal respiratory syncytial virus vaccination on infant and perinatal outcomes: a systematic review and meta-analysis of randomized controlled trials&nbsp;&nbsp;NatureFDA advisers support approval of RSV vaccine to protect infants&nbsp;&nbsp;WVIA Public MediaMaternal RSV vaccination shows strong protection for newborns&nbsp;&nbsp;Contemporary PediatricsESCMID 2026: Maternal RSV Vaccination Cuts Infan",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rRUVRQWNrOGVTbEIxQWZBYmtLTDA4QnYweFRlOE01SkdmWmlyZlY0Nk9QVWQ3eHQ2VklXMUlBMVl5c3RGUzd6azJieDdkbm16MEdWR2pSU0pKZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "414e2a3980c3",
       "title": "First measles hospitalization reported in Oregon as cases jump - OregonLive.com",
       "published": "2026-04-17T23:32:00+00:00",
-      "summary": "First measles hospitalization reported in Oregon as cases jump&nbsp;&nbsp;OregonLive.comOregon measles outbreak grows, with more community transmission&nbsp;&nbsp;Oregon Public Broadcasting - OPBWith measles cases on the rise, Oregon health officials urge caution&nbsp;&nbsp;KOIN.comAs measles cases climb, Oregon sees first hospitalization of the year&nbsp;&nbsp;KGWHealth officials warn of measles exposure at Mt. Hood Community College campus in Gresham&nbsp;&nbsp;KATU",
+      "summary": "First measles hospitalization reported in Oregon as cases jump&nbsp;&nbsp;OregonLive.comOregon measles outbreak grows, with more community transmission&nbsp;&nbsp;Oregon Public Broadcasting - OPBWith measles cases on the rise, Oregon health officials urge caution&nbsp;&nbsp;KOIN.comAs measles cases climb, Oregon sees first hospitalization of the year&nbsp;&nbsp;KGWMt. Hood Community College added to list of measles exposure sites&nbsp;&nbsp;KPTV",
       "sources": [
         {
           "name": "OregonLive.com",
@@ -369,7 +465,7 @@
       "id": "15f33de9a9b3",
       "title": "A look at 'super agers' and the science behind longer, sharper lives - PBS",
       "published": "2026-04-17T23:00:12+00:00",
-      "summary": "A look at 'super agers' and the science behind longer, sharper lives&nbsp;&nbsp;PBSASK THE DOCTORS: Super-agers have healthy cognitive function&nbsp;&nbsp;Gwinnett Daily PostAsk the doctors: Super-agers have healthy congnitive function&nbsp;&nbsp;The Spokesman-ReviewHow to reach the age of 80 with the memory of a 50-year-old&nbsp;&nbsp;The Jerusalem PostWhat Makes A SuperAger? A Massive Brain Study Offers A New Clue&nbsp;&nbsp;Yahoo",
+      "summary": "A look at 'super agers' and the science behind longer, sharper lives&nbsp;&nbsp;PBS6 Rare Traits Of Super-Agers Who Keep Their Bodies And Minds Younger For Longer&nbsp;&nbsp;YourTangoASK THE DOCTORS: Super-agers have healthy cognitive function&nbsp;&nbsp;Gwinnett Daily PostAsk the doctors: Super-agers have healthy congnitive function&nbsp;&nbsp;The Spokesman-ReviewHow to reach the age of 80 with the memory of a 50-year-old&nbsp;&nbsp;The Jerusalem Post",
       "sources": [
         {
           "name": "PBS",
@@ -393,7 +489,7 @@
       "id": "3e63477702bf",
       "title": "RFK Jr. Calls Tylenol Study Finding No Link To Autism ‘Garbage’ - HuffPost",
       "published": "2026-04-17T21:15:00+00:00",
-      "summary": "RFK Jr. Calls Tylenol Study Finding No Link To Autism ‘Garbage’&nbsp;&nbsp;HuffPostTylenol during pregnancy has no link to autism, large study finds&nbsp;&nbsp;abcnews.comTylenol in pregnancy not linked with autism, Danish study finds&nbsp;&nbsp;CNNA major pregnancy scare collapses: Tylenol shows no autism risk in more than 1.5 million children&nbsp;&nbsp;Medical XpressKira Philipsen Prahm, MD, PhD, highlights no link between acetaminophen exposure and autism risk&nbsp;&nbsp;Contemporary Pediatr",
+      "summary": "RFK Jr. Calls Tylenol Study Finding No Link To Autism ‘Garbage’&nbsp;&nbsp;HuffPostTylenol during pregnancy has no link to autism, large study finds&nbsp;&nbsp;abcnews.comA major pregnancy scare collapses: Tylenol shows no autism risk in more than 1.5 million children&nbsp;&nbsp;Medical XpressKira Philipsen Prahm, MD, PhD, highlights no link between acetaminophen exposure and autism risk&nbsp;&nbsp;Contemporary PediatricsDoes Tylenol Increase Autism Risk? A New Study Has Answers&nbsp;&nbsp;MedPa",
       "sources": [
         {
           "name": "HuffPost",
@@ -429,7 +525,7 @@
       "id": "1983d8c1267d",
       "title": "NASA Plans to Start a Fire on the Moon in First-of-Its-Kind Experiment - Gizmodo",
       "published": "2026-04-17T19:50:37+00:00",
-      "summary": "NASA Plans to Start a Fire on the Moon in First-of-Its-Kind Experiment&nbsp;&nbsp;GizmodoThe moon might be more prone to fires&nbsp;&nbsp;Phys.orgNASA plans moon fire experiment to boost Artemis mission safety&nbsp;&nbsp;The News InternationalNASA plans lunar experiment to study fire behavior on the Moon&nbsp;&nbsp;primetimer.comNASA plans lunar fire study to boost astronaut safety under Artemis&nbsp;&nbsp;The Nation (Pakistan )",
+      "summary": "NASA Plans to Start a Fire on the Moon in First-of-Its-Kind Experiment&nbsp;&nbsp;GizmodoThe moon might be more prone to fires&nbsp;&nbsp;Phys.orgNASA plans lunar fire study to boost astronaut safety under Artemis&nbsp;&nbsp;The Nation (Pakistan )NASA plans lunar experiment to study fire behavior on the Moon&nbsp;&nbsp;primetimer.comNASA plans moon fire experiment to boost Artemis mission safety&nbsp;&nbsp;The Nation (Pakistan )",
       "sources": [
         {
           "name": "Gizmodo",
@@ -441,7 +537,7 @@
       "id": "afecb31e0f8f",
       "title": "Cortisol Kill-Switch: Exercise Rewires Stress Biology - Neuroscience News",
       "published": "2026-04-17T19:45:19+00:00",
-      "summary": "Cortisol Kill-Switch: Exercise Rewires Stress Biology&nbsp;&nbsp;Neuroscience NewsCan you outrun stress hormones with exercise? New clues from a clinical trial&nbsp;&nbsp;EurekAlert!Therapy Thursday: How physical activity can help relieve stress&nbsp;&nbsp;yourcentralvalley.comPeople with better cardiorespiratory fitness tend to be less anxious and more resilient in emotional situations&nbsp;&nbsp;PsyPostThis Fitness Metric Is Linked To 775% Increase in Anxiety Risk&nbsp;&nbsp;MindBodyGreen",
+      "summary": "Cortisol Kill-Switch: Exercise Rewires Stress Biology&nbsp;&nbsp;Neuroscience NewsCan you outrun stress hormones with exercise? New clues from a clinical trial&nbsp;&nbsp;EurekAlert!Therapy Thursday: How physical activity can help relieve stress&nbsp;&nbsp;yourcentralvalley.comHow a year of regular exercise alters the biology of stress&nbsp;&nbsp;PsyPostThis Fitness Metric Is Linked To 775% Increase in Anxiety Risk&nbsp;&nbsp;MindBodyGreen",
       "sources": [
         {
           "name": "Neuroscience News",
@@ -458,6 +554,18 @@
         {
           "name": "Iowa Park Leader",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeEtLQUtRVGc4Y25xZ3VXdk5vR1lmNTRNNEh2bTRpc2FyQUttSVdYeVVSS1gtenZ2YzY0V2E0c1c1aXhTZm51ZS1HSkRMSVJ6NDh4ak8tWnBYbTFmZGI5MHdQSjAzLTUza2NmY3UwMllQazR1SlhpSmR5dkJNS2U5N2xYQ3BUemtSRkNSTXgwbnYtTGJSdzVzUXVZOGFQY1BZNmozNGhTTUEtcUtRMElSTFd3dTFUQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e842cfa5bd92",
+      "title": "What we’ve got wrong about gut health — by the top German doctor - The Times",
+      "published": "2026-04-17T19:00:00+00:00",
+      "summary": "What we’ve got wrong about gut health — by the top German doctor&nbsp;&nbsp;The TimesView Full Coverage on Google News",
+      "sources": [
+        {
+          "name": "The Times",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONVVqcm9uTW9uXzFjU1ZiMC1mNkF1RElFTFNWLTZlMmdwUFQ2MFlINDNKczNLaWNRUnJ5LUs1YjBFbjJtck1JbWFfMW9McEwwbGFTS0tpNVg5OGFqLWtfYVp1Wjg2bVVxSS1ETUc3ZDVzSTZUYUJENDd4TExtVE95OXM5bjU0YjdFeURiR19LT2h4UEw5cGRWUWN5X0pwSi01MkVIUkIwSXc?oc=5"
         }
       ]
     },
@@ -522,18 +630,6 @@
       ]
     },
     {
-      "id": "483b45effad1",
-      "title": "Scientists Solve Mystery Of Why The Colorado River Disappeared From The Geological Record For 5 Million Years - IFLScience",
-      "published": "2026-04-17T16:40:56+00:00",
-      "summary": "Scientists Solve Mystery Of Why The Colorado River Disappeared From The Geological Record For 5 Million Years&nbsp;&nbsp;IFLScienceHow the Grand Canyon formed is a surprisingly messy story. Here's the latest clue&nbsp;&nbsp;Scientific AmericanColorado River may have pooled and spilled over to form the Grand Canyon, solving a long-standing mystery — but not everyone agrees&nbsp;&nbsp;Live ScienceNew research shows prehistoric lake contributed to the birth of the Grand Canyon&nbsp;&nbsp;USGS (.gov",
-      "sources": [
-        {
-          "name": "IFLScience",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPalpHQ2YzbmhRYmVpUUlTbGFSVHVsN2ViTDd6QU9Kd3ZhVlBvSWZZS0tDekFrMU9TM01hYmxBTG4xZG15QlBwcmFReGpkeWFxRlJrOUd3YTRtcUZVaG9DR1BOVXN6N081aDBPTnVySFh3WGt6Vkd5ZGF0VjhMQ2hIMzRyN3dvUHFlNEcxZ0FGNlBtSGFNLWhHYWNqbEZjNnIwVzFEY2YzRERleDJjMFh6WlVja2FWamhVeTFua3A4N2k3YTBQQXZNTHp5NDRtVDJySWtIV3VFZi1kUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9ff2363f5663",
       "title": "Scientists Create Nasal Spray That Reverses Brain Aging in Weeks - Yahoo",
       "published": "2026-04-17T16:36:28+00:00",
@@ -542,6 +638,18 @@
         {
           "name": "Yahoo",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNclY0WXVCWUNwMmo1TVpGSWZjbWhGdDlMX1JxZ3FNMmlxZjRWY2RXQzZsWVI3c0stQ3VOSnhPTndsZVNBQUZOSXdXeVllUXhtMEkwZlowMVdJQ1k2dGdNSVI1b1NKdlR3MVUxcTJPRHhuZ3J6dlNnVHJiVVFSOFZSNXBRMWo5R3AxOTEtYTBiQUx1ZUk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0e318cb3d3e4",
+      "title": "5 Chair Exercises That Undo 10 Years of Sitting Faster Than Yoga After 55 - Eat This Not That",
+      "published": "2026-04-17T16:06:07+00:00",
+      "summary": "5 Chair Exercises That Undo 10 Years of Sitting Faster Than Yoga After 55&nbsp;&nbsp;Eat This Not ThatCardiologist: Sitting is the new smoking&nbsp;&nbsp;ERRWhy prolonged sitting is linked to reduced mobility over time&nbsp;&nbsp;WDBO‘After 20+ years, I’ve seen it all’: The one everyday desk habit a cardiologist says doubles your heart attack risk&nbsp;&nbsp;The Indian ExpressWhy your workout isn’t enough: The hidden ‘stillness’ risk and how to beat it&nbsp;&nbsp;The Times of India",
+      "sources": [
+        {
+          "name": "Eat This Not That",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DOFJlbU1OSGZDblNWbS1ERXlzb2tIZmEtUFg4Zk15VVVxUkFYUlJjUEZ6dzM2d1dfeXUyYmNFUVh1SG9wcnJUZGhGYkRlZTJyUUtDb2NZZk9nbW85MG1EWXVlbnU3LXFvRFlrMVh0RmlRdXNuVm84?oc=5"
         }
       ]
     },
@@ -606,22 +714,10 @@
       ]
     },
     {
-      "id": "6a19ba2882f6",
-      "title": "What is Shigella? CDC calls increase in infections a 'public health threat' - LiveNOW from FOX",
-      "published": "2026-04-17T13:54:48+00:00",
-      "summary": "What is Shigella? CDC calls increase in infections a 'public health threat'&nbsp;&nbsp;LiveNOW from FOXShigella, diarrhea-causing infection, increasing in US, CDC says&nbsp;&nbsp;USA TodayCases of ‘extensively drug-resistant' shigella infections rising in U.S., CDC warns&nbsp;&nbsp;NBC 5 ChicagoDrug-Resistant 'Superbug,' Shigella on the Rise in U.S., CDC Says&nbsp;&nbsp;HealthlineExtensively drug-resistant Shigella on the rise in US, CDC warns&nbsp;&nbsp;CIDRAP",
-      "sources": [
-        {
-          "name": "LiveNOW from FOX",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY2dYUXpobXM4Mm9fa3ZaeFoxWFNVaWxhYy0zWXFJc0padS04SVJMYlVlSTlKbUhhaUQ1NS1EOFpRRnE1YWhseGdEWERYMjlkN0JCVjduV2hHSnJRQ1RNV1hyTkhGWUIxb1k0cW5GWlVxajlLOEpkZ29peGtwRG5lWjk5VFQ2NmhoYkpv0gGQAUFVX3lxTFBXM0JFc3l3Y3Y5YS1neUVqM1UtT1ZzREVXa2VKNjBsX1R3YjVSS0VOUkxHbllrclNxYVZIcWtjeUFIbjZveGl0dTNqTnBKN3pNaDdncTBNLUV3TTA3ZzlIM1MyY3BvUmtmU2lscVlFNk1qZHE3U1ppbjU1RWF3OHh6Yk11R2lsMV9iWXBQZkk4QQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "cdc41cf9595b",
       "title": "Could Alzheimer’s Begin in the Nerves, Not the Brain? - Neuroscience News",
       "published": "2026-04-17T13:53:49+00:00",
-      "summary": "Could Alzheimer’s Begin in the Nerves, Not the Brain?&nbsp;&nbsp;Neuroscience NewsStudy suggests some Alzheimer's symptoms may begin outside the brain&nbsp;&nbsp;Medical XpressScientists find evidence some Alzheimer’s symptoms may begin outside the brain&nbsp;&nbsp;PsyPostAlzheimer's start may not be in the brain&nbsp;&nbsp;Bonner County Daily Bee",
+      "summary": "Could Alzheimer’s Begin in the Nerves, Not the Brain?&nbsp;&nbsp;Neuroscience NewsStudy suggests some Alzheimer's symptoms may begin outside the brain&nbsp;&nbsp;Medical XpressThe truth about dementia&nbsp;&nbsp;Mumbai MirrorResearch suggests Alzheimer’s disease may originate outside the brain&nbsp;&nbsp;Latest news from AzerbaijanThe moment dementia begins is not the diagnosis&nbsp;&nbsp;Texas A&amp;M Stories",
       "sources": [
         {
           "name": "Neuroscience News",
@@ -669,7 +765,7 @@
       "id": "31c03143a8f7",
       "title": "Artemis 2's heat shield seems to have aced its trial by fire - Space",
       "published": "2026-04-17T13:00:00+00:00",
-      "summary": "Artemis 2's heat shield seems to have aced its trial by fire&nbsp;&nbsp;SpaceDid the Artemis II spacecraft protect the crew well enough? NASA races to find out&nbsp;&nbsp;NBC News\"We Came In Fast And Hot\": Artemis Astronauts On Re-Entry At 48,021 Kmph&nbsp;&nbsp;NDTVNASA is right to focus on ‘hardware rich’ approach following Artemis II heat shield gamble&nbsp;&nbsp;Interesting EngineeringThe Ship That Felt Like Home: Artemis 2 Crew Returns With a Vessel Ready for the Moon&nbsp;&nbsp;Space Daily",
+      "summary": "Artemis 2's heat shield seems to have aced its trial by fire&nbsp;&nbsp;SpaceDid the Artemis II spacecraft protect the crew well enough? NASA races to find out&nbsp;&nbsp;NBC News\"We Came In Fast And Hot\": Artemis Astronauts On Re-Entry At 48,021 Kmph&nbsp;&nbsp;NDTVThe Ship That Felt Like Home: Artemis 2 Crew Returns With a Vessel Ready for the Moon&nbsp;&nbsp;Space DailyNASA is right to focus on ‘hardware rich’ approach following Artemis II heat shield gamble&nbsp;&nbsp;Interesting Engineering",
       "sources": [
         {
           "name": "Space",
@@ -698,114 +794,6 @@
         {
           "name": "CNN",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOGpYUjZCeV9QU3ZYZXBiZWZicU1jQjRrS3k4djc5dGd2S1lKcmpNZ2FpYkVpMV9CT2VEOVZXUTl6WG5NX2NXOHVDdTFaSS1xT0NFMERscnVDWS1yU2NWQnNFMWpMSnF0RWJMTl8wOWxqbEl5TXdzV3NmREtyVmFOYWR3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a2e1aa240fcc",
-      "title": "New Dietary Guidelines Don't Include 1 Very Important Detail — And It Can Impact Kids' Brain Health - HuffPost",
-      "published": "2026-04-17T11:00:18+00:00",
-      "summary": "New Dietary Guidelines Don't Include 1 Very Important Detail — And It Can Impact Kids' Brain Health&nbsp;&nbsp;HuffPost",
-      "sources": [
-        {
-          "name": "HuffPost",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWGlockRVZkl3UTRSZmNuZ2c4eDUzWFFsVUt3dVdVNnhfMHphYktGMWVzUWhhdkJLV1huQlFfZ0V0dVBaYlMwN0dkZy1TOUxoSl9QTWthQmpFNHZRTzRBR1ZvbmpTLVpiOG5lQUVjdnMwcERKUjU2UFRXMmRSeTJYN1A0eHZlTlhFQnJZeUZMV0kwSlBQSkNUWXlsQzUtZTQ4ZHd4U2lEUVJPR2xlOFBSOXVvdUxGUVdCU2fSAb8BQVVfeXFMTnJHLUtGSXR0NkhBallKNDZQcUhaeTJxandQOGU5T1BJVnRxOFRqOVJvN2VET3NaQzJ2aTZSSTk1enJoVUg3c203QWRLOUJzSFJnV1o1UzVNVnNnWkkxTmpHbDRReUtVMGtIeTlJeGRsOThHLXpVXzNuekhzdEpCa2tJVTNobjdvdFE4d0xYVGtoak1DNEZPUmRNSlVSd0lINDRqS0c0UEVTRjl5VFB5bVBzbC1kU3RwU0VfYXNxWVk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3bc4548f964f",
-      "title": "New Report Highlights Fructose as a Key Driver of Metabolic Disease - University of Colorado Anschutz",
-      "published": "2026-04-17T10:50:40+00:00",
-      "summary": "New Report Highlights Fructose as a Key Driver of Metabolic Disease&nbsp;&nbsp;University of Colorado AnschutzWhy Fructose Behaves Less Like a Calorie and More Like a Hormone&nbsp;&nbsp;ScienceBlog.comNew Study Identifies Fructose as a Major Contributor to Metabolic Disease&nbsp;&nbsp;Bioengineer.orgFructose Identified As Key Driver Of Metabolic Disorders, Says New Study&nbsp;&nbsp;Outlook IndiaFructose emerges as a key driver of metabolic disease&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "University of Colorado Anschutz",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2t3aWZkeDlOTTlIZjVlYXExZTZzNW02VWxkVnZqak4zcVZtUmQ2QkVwaVdnZkR2QUVSZlNfdUo5ZkRpZWNHTmtrazZpY0JGMnBjV1lKX0paQUFVV3NZLTh2eE11Q1ZlaUg2bTN2ZDEwRFNaTHdQd1pLZkY1Mnhuem1jZkZLZnE2dHNrRGx3WXJDUkp5Y21vT0F2YXhsMmdFTnlvMV9kd0FxcW1M0gG8AUFVX3lxTE51UmJQNEk0cjhuc2lEc3BXZ2ZzVHRjVmNMMTAzb1N3cjZIUVNPc1ctRXByd1hVclEzYkF3WUVlM1BWLUlEMnZKSV9TcE1jbGtYNnU4amJlNVVXRDN5cUJzZC02aDMyM0tBVjZJTURmMmtYMW1WMF9Ca016N0NtZHZ4c3gxT29rQVFKeTc3TWd5V09UYjJPY2cwWXFDRzFVbWtKM1RTNl9Ld2RGUC1XQ2NpcHVhcmxHcksyZ0Nz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c0188fd04723",
-      "title": "Woman with Rare Health Condition Couldn't Eat Without Getting Sick. Now She Spends $14K Per Week on Meals (Exclusive) - Yahoo",
-      "published": "2026-04-17T10:00:00+00:00",
-      "summary": "Woman with Rare Health Condition Couldn't Eat Without Getting Sick. Now She Spends $14K Per Week on Meals (Exclusive)&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSjA4b0lxS3pid0ZYMlRZd1phQnl5MjNFdU1STVJNeEFYNS13d3VZay1tWlh2NFo3WkFGU0p2OEpzcTF4TUpQWkY3aTNPRUtuWXBRN2d2a05lT3p1UUpEU2FWamxLUXA0OUNabEZIa1UyRWVFWUxSaVBwQlBMNkg2aTc3dTZzQkZJaTdEMEk5MUhSb2ZZVnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "52c5acf923a3",
-      "title": "Deadly virus that causes vomiting, diarrhea on the rise in the U.S.: Here’s what to know - PennLive.com",
-      "published": "2026-04-17T09:02:00+00:00",
-      "summary": "Deadly virus that causes vomiting, diarrhea on the rise in the U.S.: Here’s what to know&nbsp;&nbsp;PennLive.comLife-threatening virus that causes vomiting and diarrhea at high levels in the U.S., CDC says&nbsp;&nbsp;NBC NewsThis dangerous vomiting and diarrhea virus is surging across the US&nbsp;&nbsp;USA TodayRotavirus levels rise in Jackson area, health officials warn&nbsp;&nbsp;WILXMedical Experts Warn of Potentially Deadly Virus Surging in Children That Can Cause Fatal Diarrhea and Vomiting",
-      "sources": [
-        {
-          "name": "PennLive.com",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ0FoQ0VBZGNTVTFmUm5XUGNBQ3l1WS1aM1pYUFlhRjNvQ3FFNjZvZWQ3dWV6RTE1Q2VjZmxHanQ4TWl2cFpoM0luLXprVkpKTVRqejktT1ZhSnJ4QzRMaTVOa21acjd3a3VUTllOdS1PNHFyTlpsekhBXzRtcFZFZVVKcW1Ga2wwLWNWRXhUSmhqRWpRUzBlRDQ2cTdtQTMtcUk4TU9hVmwxTG1nZmgtdmxWSGZUaHdRS21RVEprenRSakNKbENV0gHbAUFVX3lxTE55U0l4NFNsVGRPMFFxVFNWZlA1UHlwbHZuVGV0VVhiWUp0OFI3MDY1eWlsNGZ3WUJhWE9UbHRVRldiLWFFcV9VcTVjVmVXbXVTMXd0d0lRNk5JVV9XSEUzb3N0REdobFl6eUl6YXlSUTNfOXRyejhuY2l5Mk9CTWtyZVdZWEM4eUVGcHQxX2pvZlh2bEk5Wk00TGo4Q2c1QWNGOVhFX0dscUgyVVIxNkJzOEs5QWF1X2ZUUFpPX2FtbHVKZUdfOEdqRVRxdTlac1B0V0tjMUJJUjhyZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "25898913fc74",
-      "title": "6 Common Medications That May Lower Your Dementia Risk - The New York Times",
-      "published": "2026-04-17T09:00:10+00:00",
-      "summary": "6 Common Medications That May Lower Your Dementia Risk&nbsp;&nbsp;The New York TimesFlu vaccine may slash Alzheimer's risk: Here's what dose to get&nbsp;&nbsp;Medical News TodayA flu vaccine recommended for older adults could lower Alzheimer’s risk, research finds&nbsp;&nbsp;San Francisco ChronicleA Simple Flu Shot May Cut the Risk of Alzheimer’s, Study Finds&nbsp;&nbsp;inc.comHigh-dose flu shot linked to lower Alzheimer's risk, new study shows&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYVFza2NaZWxzeUNQU0JHYnl2YTB6NlRleVdhQ2VCS1hJaGZoN21QRWJHSkluSGFQLWlpYk1xdENjN3V1Mk1scGthRnR2N29ja1FGNnFCZ3otSmE0RjlQTXlDUF9SVUhNYU5YVHFTUDZWeWZaR3dnMjV5ZTlGTzJobmVCbFpRaWhOWU1KeQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "109c5fbb7fec",
-      "title": "Iron plus UV light turns alcohol into hydrogen with catalyst-like efficiency - Phys.org",
-      "published": "2026-04-17T09:00:04+00:00",
-      "summary": "Iron plus UV light turns alcohol into hydrogen with catalyst-like efficiency&nbsp;&nbsp;Phys.orgHydrogen made from alcohol by scientists using iron catalyst, UV light&nbsp;&nbsp;Interesting EngineeringJapan scientists generate hydrogen using alcohol and iron&nbsp;&nbsp;Mid-dayEfficient Hydrogen Production from Alcohol Using Iron Catalyst and UV Light&nbsp;&nbsp;Bioengineer.orgResearchers produce hydrogen from alcohol using iron and UV light&nbsp;&nbsp;Quantum Commodity Intelligence",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51Q3NoU2o5M214bTdrQ1c2Nk04ckQ4U3dfa0M2U0wxYy1kRk5xV1o5N2tyRG5BS2ZpQU1sbnA0VlRVQ3pQVUlmLWNNRE1LR3JiSUJWb3BhektweXNGQS1BY2ZPaVZLQVVZc01NNTNhSWFQVHIwSkdJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4aa949f99237",
-      "title": "UK boy feared to have brain tumour was actually poisoned by Vitamin D overdose - The Times of India",
-      "published": "2026-04-17T08:02:00+00:00",
-      "summary": "UK boy feared to have brain tumour was actually poisoned by Vitamin D overdose&nbsp;&nbsp;The Times of IndiaI feared my son had a brain tumour but he'd been poisoned with vitamin D&nbsp;&nbsp;BBCTaking Too Much Vitamin D Can Backfire, Scientists Warn&nbsp;&nbsp;ScienceAlertFrom skin changes to headaches... the six signs you're taking too many vitamins&nbsp;&nbsp;Daily MailVitamin D Supplements: Who Really Needs Them?&nbsp;&nbsp;NDTV",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPNjFVLTFQaF80R0xOc1JtQUl2TU82ZklnS0hzdUpTN2lHMG5GVXBrYV9KV0FZT0NwNDlUamtrT01fTDVPWXhucmU1VXBkNzlEWm9aU1NhY3owckxhUVVOd1VCZXk5WGxueVBCQU9QZkpLYWV1TzAxd3RuNE5aSEQ5aFo5X2VOSWRfcE1PNFJCSXl2U01oMnVrYmlYOVJ1RDBBUXlhUFV4clVrY1RMbHVpTC1FWHpwbTdXc2pNU1BNMUIteWJPTlhvUTd0M19uZWFwRUxmeEk0SXhublowUXhUSEZwZ1I2clNQWDNwR1BtT2l2VXEwMDdIYVFXekVUSjFaLWpSOXNn0gGLAkFVX3lxTE9iUzJyZnNxQ0NiMkNiclRCc2h1U0ptMHFCS0ZyMm5pZ0QzSkpYWnROWWpRUjE5ZUNTNjFuSDJhMWo5MjlheTVRTDNVYUFuQ1Jua0dZbXlSeUY4TXVzSjlhOEpRaDhfVVR3b0NoakM0eXZXSUgyV0J6QXJKUU1hSkVBbDhQekwyWllEV1BPRlhWVGJpdjgwTzk4YXpzMEV0by1PU3V6NFp2UUhtLWV0NWhhbUhkcHNKOUgzZ0c1Y1Z0dTZmWnhGcElWYnN4dU92VFRvZHVOS2lLY1dNQTJldU8tYTdwdGFsOXc0c19KM3kwbnNvNHJ6a205YlpNTlg2ZFZlRVFMMHhBWHpKQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "131070c58552",
-      "title": "Younger adult colon cancer deaths are concentrated in people with less education, study says - AP News",
-      "published": "2026-04-16T16:07:00+00:00",
-      "summary": "Younger adult colon cancer deaths are concentrated in people with less education, study says&nbsp;&nbsp;AP NewsLIFE-HEALTH-YOUNG-COLORECTAL-CANCER-DMT&nbsp;&nbsp;UnionLeader.comConcerning rise in colon cancer deaths is almost entirely among key demographic&nbsp;&nbsp;New York PostLocal gastroenterologist warns colorectal cancer is no longer just a disease of older adults&nbsp;&nbsp;Temple Daily TelegramRising Colon Cancer Deaths Hit Younger Adults Without Degrees Hardest&nbsp;&nbsp;U.S. News & W",
-      "sources": [
-        {
-          "name": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVjhWUnhqSGtNQThFYUdmX2tJQ0RKTEdlZE4xYTRxZXU5RVBmQmxieFpUUk1raFF4RlpybzhlckRpNVZrRWFTTGFrQkRzeWRGaFR6eDZELVpDWWtvTW1TMkszLVZ2RFNJb1Y4MUVOR2NkMEs0VnphVkF4d1Z1ci1JWnZEeUR5X29OcFpyVUc1ejRXWG5FRlJZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bea024120eeb",
-      "title": "Why You’re Not Losing Weight Eating 'Healthy,' According to Dietitians - AOL.com",
-      "published": "2026-04-12T17:24:24+00:00",
-      "summary": "Why You’re Not Losing Weight Eating 'Healthy,' According to Dietitians&nbsp;&nbsp;AOL.comView Full Coverage on Google News",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IcU1wWEJOMUhZOGV6aE4tZHBEbk5LNThqTVpYdVlSeDR6UURscmRMdTBnODktNGEwMGtybUdUeF9pcXVlUlBpNWVDdkJXS2ZrSWIwZEo3RVBmei10c3hGLTVVRXdnZmRMcG1CcVctRDI?oc=5"
         }
       ]
     }

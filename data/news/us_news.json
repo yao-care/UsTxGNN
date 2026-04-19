@@ -1,10 +1,34 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-04-19T03:16:44.800694+00:00",
-  "total_fetched": 137,
-  "unique_count": 137,
-  "health_related_count": 66,
+  "fetched_at": "2026-04-19T07:24:28.658692+00:00",
+  "total_fetched": 133,
+  "unique_count": 133,
+  "health_related_count": 67,
   "news": [
+    {
+      "id": "28f1928f7f58",
+      "title": "How Female Anglerfish Evolved to Have It All - The New York Times",
+      "published": "2026-04-19T07:12:13+00:00",
+      "summary": "How Female Anglerfish Evolved to Have It All&nbsp;&nbsp;The New York TimesThis curious creature has a fishing rod dangling out of its head. It doesn't just use it for hunting…&nbsp;&nbsp;BBC Wildlife MagazinePeculiar-Looking Anglerfishes Developed Their Fishing-Rod Lure 72 Million Years Ago&nbsp;&nbsp;Discover MagazineResearch traces evolution of anglerfishes’ famed fishing-rod lures&nbsp;&nbsp;EurekAlert!",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oWktWYzYzYUdOaXpUSnBmRm11cXo2QXY4MGRJQ2pfYmNGV2dHSE9JLTI3NWEzNFJadnY2YkdPWmw5bEUwN0h3RXRSYjRaanhXQ2RHdjQwNFZwVUV6a0s5Mk9XVkgwVHRMSnVuOWNjcEtNNERVRUJuYU1FbUdXdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "06d1e439053f",
+      "title": "Doctors expose ‘buffalo hump’ as potential sign of hidden health conditions - AOL.com",
+      "published": "2026-04-19T04:08:02+00:00",
+      "summary": "Doctors expose ‘buffalo hump’ as potential sign of hidden health conditions&nbsp;&nbsp;AOL.comView Full Coverage on Google News",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tcXF6VW5qX0hFdjVJM1hfVlJSOENuckY5NHFkU1RyangxWGUtT1BCaGVIRlVPNW9zVUxjMFVsNHVHaFlmbUdrSUd4ejRMQTNYODNNdVJoczMySS1KWWVCWkFSVzNST09naDlab3JkeGZJMnV2Z3ZpdjN0X2Y?oc=5"
+        }
+      ]
+    },
     {
       "id": "112f992ab7fa",
       "title": "As e-bike crashes send an increasing number of people to the hospital, cities search for solutions - The Guardian",
@@ -14,6 +38,18 @@
         {
           "name": "The Guardian",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZEZ2bVNydVppNzgwUXpGOGpXQ0EzeGxKTFhrUlhKQlp5RE9QV3NaSlJreXhWay1rUVJ3cnN0Tl9FSlNIbTNFSy1FWUNzcEUySC1rcnhyWGExNGNMNktGbVpCaE1CdTlHOGF2VlZ4WDN1b2oyN29ja0tGTm1zc2FWRDZDdzctcHhE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e44774acfee5",
+      "title": "Tiny Microbes Hiding in Soil May Help Pull Rain From The Sky, Study Reveals - ScienceAlert",
+      "published": "2026-04-19T01:04:10+00:00",
+      "summary": "Tiny Microbes Hiding in Soil May Help Pull Rain From The Sky, Study Reveals&nbsp;&nbsp;ScienceAlert",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ1E1a2t6eURVTzdta1Ziak54Z1hzUkZuMDBieXJxQXl0cTN4QWFabVpqWXFVR1JhOGI2d25rRzZnN01KaWJQQ2dybTUxNTJXQUJ1Qjd0T0haZmltUDhsYVhlakhmci1rUXQxRFlZXzYyOUFLdWstRC1vdGt0Rm5UdFJ1MFJkdXd1di1ROVIzOUhCZUN0cnZ1em5CakFsTWh6dGwzOUlR?oc=5"
         }
       ]
     },
@@ -30,10 +66,22 @@
       ]
     },
     {
+      "id": "74dd05c6a557",
+      "title": "Can You Eat Ice Cream If You Have Diabetes? Here’s What a Dietitian Says - EatingWell",
+      "published": "2026-04-19T00:00:00+00:00",
+      "summary": "Can You Eat Ice Cream If You Have Diabetes? Here’s What a Dietitian Says&nbsp;&nbsp;EatingWell",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1abmhaTjlyN3F1Z0FQVWlWczVjRGRNWXF2R0RURzU3R01SbG14WWdwM0MxNVhmay02Y2Rrc2ZSS3Juak1tbE1haTZfOVVfMDZLbm10QVhYdm9wcWc4TWFVZ0lxb1VFOFdKX0tRRFVaM0pmXzNfZjFhRWVzMTZjM28?oc=5"
+        }
+      ]
+    },
+    {
       "id": "da1ded28d96c",
       "title": "Breakthrough Prize Announces 2026 Laureates - Breakthrough Prize",
       "published": "2026-04-18T23:01:22+00:00",
-      "summary": "Breakthrough Prize Announces 2026 Laureates&nbsp;&nbsp;Breakthrough Prize$3 million prize goes to duo whose research led to first sickle cell CRISPR therapy&nbsp;&nbsp;Live SciencePhilly scientists win 2026 Breakthrough Prize for developing gene therapy for blindness&nbsp;&nbsp;Inquirer.comFour Boston-area researchers honored with 2026 Breakthrough Prize, the ‘Oscars of Science’&nbsp;&nbsp;The Boston GlobeFermilab experiment receives prestigious Breakthrough Prize in Fundamental Physics&nbsp;&nb",
+      "summary": "Breakthrough Prize Announces 2026 Laureates&nbsp;&nbsp;Breakthrough Prize‘The Oscar of science’ awarded to scientists behind genetic treatment that restores lost vision win&nbsp;&nbsp;The GuardianGene Therapy Pioneers Win 2026 Breakthrough Prize&nbsp;&nbsp;the-scientist.com$3 million prize goes to duo whose research led to first sickle cell CRISPR therapy&nbsp;&nbsp;Live SciencePhilly scientists win 2026 Breakthrough Prize for developing gene therapy for blindness&nbsp;&nbsp;Inquirer.com",
       "sources": [
         {
           "name": "Breakthrough Prize",
@@ -66,26 +114,50 @@
       ]
     },
     {
-      "id": "28f1928f7f58",
-      "title": "How Female Anglerfish Evolved to Have It All - The New York Times",
-      "published": "2026-04-18T19:22:00+00:00",
-      "summary": "How Female Anglerfish Evolved to Have It All&nbsp;&nbsp;The New York TimesThis curious creature has a fishing rod dangling out of its head. It doesn't just use it for hunting…&nbsp;&nbsp;BBC Wildlife MagazinePeculiar-Looking Anglerfishes Developed Their Fishing-Rod Lure 72 Million Years Ago&nbsp;&nbsp;Discover MagazineResearch traces evolution of anglerfishes’ famed fishing-rod lures&nbsp;&nbsp;EurekAlert!",
+      "id": "926c04836a12",
+      "title": "After 60 Years, Scientists Uncover Unexpected Brain Effects of Popular Diabetes Drug Metformin - SciTechDaily",
+      "published": "2026-04-18T20:52:26+00:00",
+      "summary": "After 60 Years, Scientists Uncover Unexpected Brain Effects of Popular Diabetes Drug Metformin&nbsp;&nbsp;SciTechDaily",
       "sources": [
         {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oWktWYzYzYUdOaXpUSnBmRm11cXo2QXY4MGRJQ2pfYmNGV2dHSE9JLTI3NWEzNFJadnY2YkdPWmw5bEUwN0h3RXRSYjRaanhXQ2RHdjQwNFZwVUV6a0s5Mk9XVkgwVHRMSnVuOWNjcEtNNERVRUJuYU1FbUdXdw?oc=5"
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQWJ2WmZ1S0xYdzF5dGFzQW9kZ0s0eThUVjhnX0c1dUc2TEVhYWxJVE8wM2wxbXN3NlMtTUEzQzdDSldFeTdaZG85eFA2QWRYOExFMGxxdno3STZOZTlnM0t3ZkxhdHB2dzU0Q1BlOEhiVU9CZFlmbEJaZWNLZVg3NUpocTRNSkFpRzgyRDJORnE4ay1pOVh4RGRwUzhmbEx0VmRTdlB2Z203bXZNV0ZNTXM5M3JSSVdwUTJJ?oc=5"
         }
       ]
     },
     {
-      "id": "1e97c166464d",
+      "id": "bc8ee3f77043",
+      "title": "New Research Uncovers Hidden Side Effects of Popular Weight-Loss Drugs - SciTechDaily",
+      "published": "2026-04-18T20:17:38+00:00",
+      "summary": "New Research Uncovers Hidden Side Effects of Popular Weight-Loss Drugs&nbsp;&nbsp;SciTechDailyPopular weight loss medications linked to hidden side effects, study finds&nbsp;&nbsp;The HillAI scans 400,000 Reddit posts to flag overlooked GLP-1 side effects&nbsp;&nbsp;Medical XpressReddit Analysis Uncovers Unreported GLP-1 Side Effects&nbsp;&nbsp;MedscapeSocial media data helps AI flag potential risks of GLP-1 medications&nbsp;&nbsp;Medical News Today",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTVRLM3lUZ016VVh0dElFZGtCcnpUcG05TndLaGdXSHI3bmtwZ08tbmNYdF8xeWp6Vk9tdGNNc3FTZVlfNHFMUXpJd2RpNjlEZTcyNHlFcFFVaDJrZW1qaXl6V2YzUXUwbzlLYUk3cE1FYnJKQURCcmJrNEd0b2dkQVc4YWpnQ2ZJb3gwb0JZVjN1Qi1vVUVxZ1lFY2M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2146c7953730",
       "title": "Human Evolution Has Accelerated to Favour Traits Like Red Hair, Lower Body Fat: Study - Ground News",
       "published": "2026-04-18T18:00:00+00:00",
       "summary": "Human Evolution Has Accelerated to Favour Traits Like Red Hair, Lower Body Fat: Study&nbsp;&nbsp;Ground NewsAncient DNA reveals pervasive directional selection across West Eurasia&nbsp;&nbsp;NatureMassive Ancient-DNA Study Reveals Natural Selection Has Accelerated in Recent Human Evolution&nbsp;&nbsp;Harvard Medical SchoolRed hair gene favoured by natural selection over last 10,000 years, study finds | Evolution&nbsp;&nbsp;The GuardianNature Is Still Molding Human Genes, Study Finds&nbsp;&nbsp;T",
       "sources": [
         {
           "name": "Ground News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOWFoNzRWNTlMOFRDSEFVLVR4N0tVU3gxWVpvVUk5M1N5ZW1YS2xHT1lDTkk5YnV0YzM5a2VhUlQxdDhkdmQ3VFNhMEZCSUJPV0JUZnQzZGJyREpucE1EN0dBSzRkZnVvUTZsdGxxelNmSjRQNFZZdU9sWHJ0NUtjdUJFcjNXSGF3RlI5elVjY3FUWVdwMVVuaDFpUkdILUZKc2t5NDhaZ2Y2dDYyTW5TdnBmZU1hWGpzSnc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS3J1OFBrRm02ekJfaWpYQ0l2LTJFT0I0QmdLeEl5SHdVYmpMWWRfYVI5TG9OM21TRG1jdEpOYUQtUTVob2F6c1ZLS2owQU5FYVdHdWwxZkc5cDBhN3E3dkpmNHg4NDJtODFhSW5wekd0ZHYya0t0Mm93TTE5N1RLcXNtYjAtMEFmLXlGdm1PWFVHNXdoX0ltYWlteWotUkxXblBNMTZTNjVBWmFMM05wdVUyRGFwRl84OHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cdc43e552b92",
+      "title": "Scientists Rethink Extreme Warming After Surprising Ocean Discovery - SciTechDaily",
+      "published": "2026-04-18T17:21:41+00:00",
+      "summary": "Scientists Rethink Extreme Warming After Surprising Ocean Discovery&nbsp;&nbsp;SciTechDaily",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeTl3b2RQdkUwYXE2eVBWQUNIVlR3V0ttQTA5U1lFaDN6cmtjQVdQNTJfR2M1cGVMSFJfcnlUMTJIYVhiVVZnTnRaSEZuWUo4eC1XOS0wcUNsRU5DcG1ZbWJBY0ZId0M1bHdubVBKRXVfZm9NUlVwNzJyWXNPY2hHbC1UMlRPSWRWQ0dYVEJJb1dJNHF1alVpYw?oc=5"
         }
       ]
     },
@@ -102,14 +174,14 @@
       ]
     },
     {
-      "id": "1f6a0ed41c81",
-      "title": "Rare Green Fireball Meteor Erupts Above Historic Viking Raid Site in the UK - The Daily Galaxy",
-      "published": "2026-04-18T13:45:00+00:00",
-      "summary": "Rare Green Fireball Meteor Erupts Above Historic Viking Raid Site in the UK&nbsp;&nbsp;The Daily Galaxy'We all screamed when it happened': Bright-green fireball meteor caught exploding over famous Viking raid site in UK&nbsp;&nbsp;Live ScienceUk Green Fireball: Mysterious green fireball lights up UK skies, experts reveal what it was&nbsp;&nbsp;The Times of IndiaGrandad who saw 'bright flash' on CCTV discovered it was a meteor&nbsp;&nbsp;Yahoo News UKA Kent Fireball Lit Up the Night Sky and Plung",
+      "id": "1c57fc7f9aca",
+      "title": "New pain-relief opioid could be much less addictive than morphine, rodent study finds - Live Science",
+      "published": "2026-04-18T14:00:00+00:00",
+      "summary": "New pain-relief opioid could be much less addictive than morphine, rodent study finds&nbsp;&nbsp;Live ScienceView Full Coverage on Google News",
       "sources": [
         {
-          "name": "The Daily Galaxy",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVbHIyaVN5c3lhVVB5YjZ6TjhKVHAxYm0xLVVDQTdRLXMyWV91TVNqWkJOM2txTXBCVHI5c2NsNW5WUDVIbzFUS2o0RWstT29yeFpnRnhqN2R6NU5uMUJ2SUtJZHNua1RRajVpM3RyVlNmNGllb2RXRHRma2gxQQ?oc=5"
+          "name": "Live Science",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUJiX3I3WDFwTm44UW05aEJwX3FyVjdRTl9KcW5zcmp4Mm1zM3lyNmdlYWRJRURSWko2M2ZUM1FFQzhMX1d5SEZCQUlhSWhka2tCeDNZUUFUVEVOaFVxR3U1ZHpiak1rTEg3LXdOZHEwS1N0Y3NhemlTZDVqMnVTMTB0QXZjZXJXNjZCcG8zYUR4ZElYdm9ocjgwd2paS1F4QWJvN3dWOEkxbkxyeHU0eHplR1dURjFTeVVDLXpna1Z5YW8wV0h1bjl2S08zYlE?oc=5"
         }
       ]
     },
@@ -177,7 +249,7 @@
       "id": "eb5bd35c265b",
       "title": "Physicists Have a Major Problem With the Universe - Yahoo",
       "published": "2026-04-18T10:45:00+00:00",
-      "summary": "Physicists Have a Major Problem With the Universe&nbsp;&nbsp;YahooThe Local Universe’s Expansion Rate Is Clearer Than Ever, but Still Doesn’t Add Up&nbsp;&nbsp;NOIRLab'Something's missing': Most thorough-ever study of the cosmos proves we still can't explain how the universe is expanding&nbsp;&nbsp;Live ScienceInternational Collaboration Helps Pinpoint Universe’s Expansion Rate&nbsp;&nbsp;NASA Science (.gov)Scientists Just Confirmed One of the Greatest Mysteries of Our Universe. Now What?&nbsp;&",
+      "summary": "Physicists Have a Major Problem With the Universe&nbsp;&nbsp;YahooThe Local Universe’s Expansion Rate Is Clearer Than Ever, but Still Doesn’t Add Up&nbsp;&nbsp;NOIRLabScientists Just Confirmed One of the Greatest Mysteries of Our Universe. Now What?&nbsp;&nbsp;Popular Mechanics'Something's missing': Most thorough-ever study of the cosmos proves we still can't explain how the universe is expanding&nbsp;&nbsp;Live Science\"One bad measurement\" ruled out as Hubble tension explanation&nbsp;&nbsp;Big ",
       "sources": [
         {
           "name": "Yahoo",
@@ -186,22 +258,10 @@
       ]
     },
     {
-      "id": "51481e0ff96c",
-      "title": "Christina Koch Says She's Recovering From Major Physical Change After Artemis II - Yahoo News UK",
-      "published": "2026-04-18T10:40:00+00:00",
-      "summary": "Christina Koch Says She's Recovering From Major Physical Change After Artemis II&nbsp;&nbsp;Yahoo News UKArtemis II astronaut Christina Koch shares struggle of adapting to Earth after moon mission&nbsp;&nbsp;10TV‘Your hearts lifted ours’: NC State alum Christina Koch discusses impact of Artemis II moon mission&nbsp;&nbsp;WRALMore Than A Trip Around The Moon&nbsp;&nbsp;hercampus.com\"It Helped Me Turn Fear into Focus\": How Climbing Prepared Christina Koch for the Moon&nbsp;&nbsp;Outside Magazine",
-      "sources": [
-        {
-          "name": "Yahoo News UK",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNVJ0WERCMjI3WUZsTVN6ZHRMeVFod242VU02c2gyUkhOX2oxUURtaERLNEhXYnA0U2U0Q2VhVHRwUlkxcGRROFp3bVM0Vlc3QmpUb3BySnE5YzcxRVhkNDFRWDJZaEVEU1hfbmlJYjJrTnMxYUJkQVpjaXNnRnJoQzZn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4f74dbdf1727",
       "title": "Animal sedative is quietly penetrating New York’s opioid supply - Times Union",
       "published": "2026-04-18T10:13:06+00:00",
-      "summary": "Animal sedative is quietly penetrating New York’s opioid supply&nbsp;&nbsp;Times Union‘Life-threatening withdrawal’: Effects of the powerful sedative medetomidine continue to hit local hospitals&nbsp;&nbsp;Pittsburgh Post-GazetteCDC Health Advisory: The ‘Rhino Tranq’ Overdose Warning for Seniors on Pain Meds&nbsp;&nbsp;savingadvice.com4 Your Health: Concerns over drug added to fentanyl&nbsp;&nbsp;WTAEOhio health officials warn of sedative detected in illegal drug supply&nbsp;&nbsp;Spectrum News",
+      "summary": "Animal sedative is quietly penetrating New York’s opioid supply&nbsp;&nbsp;Times Union‘Life-threatening withdrawal’: Effects of the powerful sedative medetomidine continue to hit local hospitals&nbsp;&nbsp;Pittsburgh Post-GazetteOhio health officials warn of sedative detected in illegal drug supply&nbsp;&nbsp;Spectrum News4 Your Health: Concerns over drug added to fentanyl&nbsp;&nbsp;WTAENew illegal drug in Maine can increase risk of overdose and severe withdrawal&nbsp;&nbsp;Yahoo",
       "sources": [
         {
           "name": "Times Union",
@@ -218,18 +278,6 @@
         {
           "name": "Business Insider",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWnljdGdWQzZQQnFicm9nUHlOeXJJSnRid056RklsR3E5bmxvUENNcEZkblE5bl9XQ0YwU0lFNmQ4Uk05VDRNTk5MX2E0NHV1V21sR090QVdwV3RVSllkb3lrU2U2STRTbzgwSVhCeXR2aVNVaXpwd2lxZUt3OUR5UEUxNkdhX2U1b1dZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3da2657ebda5",
-      "title": "Dad brains: How fatherhood rewires the male mind - BBC",
-      "published": "2026-04-18T09:01:03+00:00",
-      "summary": "Dad brains: How fatherhood rewires the male mind&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVm5qemhxOEkxeEtOdm12ZkE5VGRDMk9LMHpIaHpyb3NWdi1ZNy1IdXVCMWFaY1B5RFFCbFNfemYwVEZOWXRpUFRiX3FuT2RTR0JxMWMyd0dYc3g2dTBjXzBaU04xSktVSTY5a0Q1ek1vcWRCSUtKaFVxSnlnWWFBdzZqWUZ4ZTllb2EyQ0UzWWk5cFVsc3YyeGRQc2FaSXpVeEJ6dHZraw?oc=5"
         }
       ]
     },
@@ -318,6 +366,18 @@
       ]
     },
     {
+      "id": "15f33de9a9b3",
+      "title": "A look at 'super agers' and the science behind longer, sharper lives - PBS",
+      "published": "2026-04-17T23:00:12+00:00",
+      "summary": "A look at 'super agers' and the science behind longer, sharper lives&nbsp;&nbsp;PBSASK THE DOCTORS: Super-agers have healthy cognitive function&nbsp;&nbsp;Gwinnett Daily PostAsk the doctors: Super-agers have healthy congnitive function&nbsp;&nbsp;The Spokesman-ReviewHow to reach the age of 80 with the memory of a 50-year-old&nbsp;&nbsp;The Jerusalem PostWhat Makes A SuperAger? A Massive Brain Study Offers A New Clue&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "PBS",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZU1IelBBZnFXU1llX2VTYUYwdzlfRHg4UHVWOWtIRERXNjRPTFFJQTBEN2xVOFJjMnhHalBJdEROdng5NGYtY1gzdU9HWUNaTFZieWJwRkV6Z2VpeGs4R1BOT3RZQXZsUDNDaWw1Z0NuYUZuM3Q0SUQ4Rl9BYjZBeVNKektabURNY2VtdnFYYV9qRkZLYmpzZDNEQjEwdjF3Z1cwVlpaRXdZcF9DVERZM3otWmZiUDg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "000c0706d796",
       "title": "Cutting calories to slow aging—without compromising health - Medical Xpress",
       "published": "2026-04-17T21:40:02+00:00",
@@ -333,7 +393,7 @@
       "id": "3e63477702bf",
       "title": "RFK Jr. Calls Tylenol Study Finding No Link To Autism ‘Garbage’ - HuffPost",
       "published": "2026-04-17T21:15:00+00:00",
-      "summary": "RFK Jr. Calls Tylenol Study Finding No Link To Autism ‘Garbage’&nbsp;&nbsp;HuffPostView Full Coverage on Google News",
+      "summary": "RFK Jr. Calls Tylenol Study Finding No Link To Autism ‘Garbage’&nbsp;&nbsp;HuffPostTylenol during pregnancy has no link to autism, large study finds&nbsp;&nbsp;abcnews.comTylenol in pregnancy not linked with autism, Danish study finds&nbsp;&nbsp;CNNA major pregnancy scare collapses: Tylenol shows no autism risk in more than 1.5 million children&nbsp;&nbsp;Medical XpressKira Philipsen Prahm, MD, PhD, highlights no link between acetaminophen exposure and autism risk&nbsp;&nbsp;Contemporary Pediatr",
       "sources": [
         {
           "name": "HuffPost",
@@ -350,18 +410,6 @@
         {
           "name": "ScienceAlert",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOai0xZEVpNU9oRjUyaVRTejlLYldyVWcxaWdlZHJBYmpXNzNFanByM2tfcFdZcjV4Rm96U1I2S25mVGhsQy1LUW5lSEJPdkJBUlBfeEMxMWU0amRLN1BmWmo3MjFVaDJXTF9RZThmeUFRaFlzSkN4dzI2ckJrem8zNjZOT2RWbzlkUWRub2NlZHFud192QUtCbW9B?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aab0ce28a6e5",
-      "title": "Here’s Why Everything We’ve Been Told About Carbs and Protein Is Wrong - Megyn Kelly – The Devil May Care",
-      "published": "2026-04-17T20:25:37+00:00",
-      "summary": "Here’s Why Everything We’ve Been Told About Carbs and Protein Is Wrong&nbsp;&nbsp;Megyn Kelly – The Devil May CareProtein is having its moment, but how much do you actually need?&nbsp;&nbsp;NBC 5 ChicagoProtein power | In focus: Healthy snacking&nbsp;&nbsp;Talking RetailI'm a Registered Dietitian. \"Protein-Maxing\" is Slowing You Down&nbsp;&nbsp;RUN | Powered by OutsideThe Power of Protein and the Trends of New Age Consumption&nbsp;&nbsp;ungvanguard.org",
-      "sources": [
-        {
-          "name": "Megyn Kelly – The Devil May Care",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TQy1xYzB1RVk4aHd6SHFfemlOTjJFb3lSVVN4RHdTa0hNcnc0bUhnczdhd21KdkZiTEVUTlU1eXZwQ2lLRjdDd2E5NXcxUDlHMjdEXzZYdkt2dkRBNkxRN3dvQlVpejZTYXlHNm9aTm1MV0FZejBHeDZn?oc=5"
         }
       ]
     },
@@ -390,6 +438,18 @@
       ]
     },
     {
+      "id": "afecb31e0f8f",
+      "title": "Cortisol Kill-Switch: Exercise Rewires Stress Biology - Neuroscience News",
+      "published": "2026-04-17T19:45:19+00:00",
+      "summary": "Cortisol Kill-Switch: Exercise Rewires Stress Biology&nbsp;&nbsp;Neuroscience NewsCan you outrun stress hormones with exercise? New clues from a clinical trial&nbsp;&nbsp;EurekAlert!Therapy Thursday: How physical activity can help relieve stress&nbsp;&nbsp;yourcentralvalley.comPeople with better cardiorespiratory fitness tend to be less anxious and more resilient in emotional situations&nbsp;&nbsp;PsyPostThis Fitness Metric Is Linked To 775% Increase in Anxiety Risk&nbsp;&nbsp;MindBodyGreen",
+      "sources": [
+        {
+          "name": "Neuroscience News",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44dUtRTHpBWUY3STFReTh5UGUzNnhtUHF1aWJIMEFuSG5qNFFTVGV4RXUtNWRnRmp0N2VtUEYyMS12MkRQZVBXT1F5OEJsaWJIWWtIN2piUWNkcEd6Rlo0Q3BBMzJxZ2lTbEdoVm1ob2ZucWJsR1Fj?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ccdd801711a3",
       "title": "Breakthrough At-Home Test Detects Vitamin B12 Deficiency Before Any Symptoms Appear - Iowa Park Leader",
       "published": "2026-04-17T19:05:14+00:00",
@@ -398,30 +458,6 @@
         {
           "name": "Iowa Park Leader",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeEtLQUtRVGc4Y25xZ3VXdk5vR1lmNTRNNEh2bTRpc2FyQUttSVdYeVVSS1gtenZ2YzY0V2E0c1c1aXhTZm51ZS1HSkRMSVJ6NDh4ak8tWnBYbTFmZGI5MHdQSjAzLTUza2NmY3UwMllQazR1SlhpSmR5dkJNS2U5N2xYQ3BUemtSRkNSTXgwbnYtTGJSdzVzUXVZOGFQY1BZNmozNGhTTUEtcUtRMElSTFd3dTFUQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3e8b9a048f37",
-      "title": "Not Even the Largest Cosmic Objects Can Escape Newton and Einstein, Study Finds - Gizmodo",
-      "published": "2026-04-17T18:45:06+00:00",
-      "summary": "Not Even the Largest Cosmic Objects Can Escape Newton and Einstein, Study Finds&nbsp;&nbsp;GizmodoTest of gravity using galaxy clusters supports dark matter&nbsp;&nbsp;USC DornsifeGravity follows Newton and Einstein's rules, even at cosmic scales&nbsp;&nbsp;Phys.orgPenn study confirms Newton and Einstein’s gravity theories at cosmic scales&nbsp;&nbsp;Open Access GovernmentScientists reveal the hidden forces shaping how gravity works across the Universe&nbsp;&nbsp;The Brighter Side of News",
-      "sources": [
-        {
-          "name": "Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX3pNLTN4WHRZUS1DX0N6UlFlcXNMOFJSMXFreFVPT2JRZ3lGN3Q3SFR4cFJUNlQ0X2xsTXplVTJ0Q180ckNsTi00SHgwT3F0NmpnU0xZYmFIdVlfNG0tTGw4empFZkFaY2VpU1ZtNEx0M2hSM2o4d1F6RXZZNGFNakdFSDBxR091SjVkbjBaOWZYcDB6cGQxLUpOUFRmT2p2NG1uaERmbkR0VEZSVHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7c6e034329a8",
-      "title": "Alarming image exposes the effect ultra-processed foods have on bodies - Daily Express US",
-      "published": "2026-04-17T18:32:50+00:00",
-      "summary": "Alarming image exposes the effect ultra-processed foods have on bodies&nbsp;&nbsp;Daily Express USUltraprocessed foods are turning human thighs into well-marbled steaks&nbsp;&nbsp;CNNA negative side effect of ultra-processed foods you haven't thought about&nbsp;&nbsp;USA TodayHow does eating ultra-processed foods affect your muscles?&nbsp;&nbsp;Medical News TodayNew research links ultraprocessed foods to osteoarthritis&nbsp;&nbsp;WTNH.com",
-      "sources": [
-        {
-          "name": "Daily Express US",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaXVhcjBNb1h3d0laSllDS0FIc19pdzB6OTluc3dWWU94cGxNQW0yZUNTdW9oX3d4RS1adXVYcmVKRDRHcDVBZzViTTdCRTlSVnp1RXZYWS1XYlI0d0E0dHpMWnJkMVdXTzVjQnNLRENINWxmbkRlR3ljWlhJd3MtWVJfYUd3ZERKbUhZUXdwVVpVS0ZNQWfSAZsBQVVfeXFMTUVRUm52Z2RZelBWU0oteEdabV9fV21jT2JnUGZBZ2hRaE13M09ROHBwZDNRT2F0SkVxaDNsYlYyVmVxQm9DVURrTy1LSVhwV1BEaVM5eHRMN0MwaWYzM3NZLWNmX2JtOFZTeWJiamh5VVNhUW8tRm5lMm15VWdPTnh1NUU2NmdWT3NpNkg2ZEhSMkdaeGpUZ2xQaTA?oc=5"
         }
       ]
     },
@@ -489,7 +525,7 @@
       "id": "483b45effad1",
       "title": "Scientists Solve Mystery Of Why The Colorado River Disappeared From The Geological Record For 5 Million Years - IFLScience",
       "published": "2026-04-17T16:40:56+00:00",
-      "summary": "Scientists Solve Mystery Of Why The Colorado River Disappeared From The Geological Record For 5 Million Years&nbsp;&nbsp;IFLScienceHow the Grand Canyon formed is a surprisingly messy story. Here's the latest clue&nbsp;&nbsp;Scientific AmericanNew research shows prehistoric lake contributed to the birth of the Grand Canyon&nbsp;&nbsp;USGS (.gov)Scientists decipher the geological history of the Grand Canyon&nbsp;&nbsp;ReutersThe Colorado River disappeared from the geological record for 5 million y",
+      "summary": "Scientists Solve Mystery Of Why The Colorado River Disappeared From The Geological Record For 5 Million Years&nbsp;&nbsp;IFLScienceHow the Grand Canyon formed is a surprisingly messy story. Here's the latest clue&nbsp;&nbsp;Scientific AmericanColorado River may have pooled and spilled over to form the Grand Canyon, solving a long-standing mystery — but not everyone agrees&nbsp;&nbsp;Live ScienceNew research shows prehistoric lake contributed to the birth of the Grand Canyon&nbsp;&nbsp;USGS (.gov",
       "sources": [
         {
           "name": "IFLScience",
@@ -501,7 +537,7 @@
       "id": "9ff2363f5663",
       "title": "Scientists Create Nasal Spray That Reverses Brain Aging in Weeks - Yahoo",
       "published": "2026-04-17T16:36:28+00:00",
-      "summary": "Scientists Create Nasal Spray That Reverses Brain Aging in Weeks&nbsp;&nbsp;YahooScientists reverse brain aging, with a nasal spray&nbsp;&nbsp;Texas A&amp;M StoriesNew nasal spray shows promise fighting memory loss and brain inflammation&nbsp;&nbsp;The Indian ExpressA simple nasal spray could reverse brain ageing, study finds | 'This redefines what it means to grow old' | Inshorts&nbsp;&nbsp;InshortsTexas A&amp;M nasal spray uses microRNA vesicles to calm neuroinflammaging&nbsp;&nbsp;NewsBytes",
+      "summary": "Scientists Create Nasal Spray That Reverses Brain Aging in Weeks&nbsp;&nbsp;YahooScientists reverse brain aging, with a nasal spray&nbsp;&nbsp;Texas A&amp;M StoriesNasal Spray Could Reverse Brain Aging By Lowering Inflammation And Re-Energizing Brain Cells&nbsp;&nbsp;IFLScienceA simple nasal spray could reverse brain ageing, study finds | 'This redefines what it means to grow old' | Inshorts&nbsp;&nbsp;InshortsTexas A&amp;M nasal spray uses microRNA vesicles to calm neuroinflammaging&nbsp;&nbsp;",
       "sources": [
         {
           "name": "Yahoo",
@@ -558,18 +594,6 @@
       ]
     },
     {
-      "id": "ca20ec84b680",
-      "title": "Noise is the Signal: Why Weak Brain Connections Predict Behavior - Neuroscience News",
-      "published": "2026-04-17T14:12:07+00:00",
-      "summary": "Noise is the Signal: Why Weak Brain Connections Predict Behavior&nbsp;&nbsp;Neuroscience News",
-      "sources": [
-        {
-          "name": "Neuroscience News",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PLTBJdy1ZMElxZzRXdG5rZS13V19QVmJQTWFfV3dIRGFsWmtZb0tMVlVrUGk1Q3dwOFBxZGMxMFJtRzBtU05fNDZoUFA4dFB1dXpiR1VXbkw5ZHp3dF9rQlh4ZTVMSkxCTGUyaTJxOTNTYVRkNGNlN0dCZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7ed6346a38e5",
       "title": "Real-world MRI data confirm shared brain signatures of mental health disorders - Medical Xpress",
       "published": "2026-04-17T14:00:01+00:00",
@@ -597,7 +621,7 @@
       "id": "cdc41cf9595b",
       "title": "Could Alzheimer’s Begin in the Nerves, Not the Brain? - Neuroscience News",
       "published": "2026-04-17T13:53:49+00:00",
-      "summary": "Could Alzheimer’s Begin in the Nerves, Not the Brain?&nbsp;&nbsp;Neuroscience NewsStudy suggests some Alzheimer's symptoms may begin outside the brain&nbsp;&nbsp;Medical XpressThe truth about dementia&nbsp;&nbsp;Mumbai MirrorScientists find evidence some Alzheimer’s symptoms may begin outside the brain&nbsp;&nbsp;PsyPostAlzheimer's start may not be in the brain&nbsp;&nbsp;Bonner County Daily Bee",
+      "summary": "Could Alzheimer’s Begin in the Nerves, Not the Brain?&nbsp;&nbsp;Neuroscience NewsStudy suggests some Alzheimer's symptoms may begin outside the brain&nbsp;&nbsp;Medical XpressScientists find evidence some Alzheimer’s symptoms may begin outside the brain&nbsp;&nbsp;PsyPostAlzheimer's start may not be in the brain&nbsp;&nbsp;Bonner County Daily Bee",
       "sources": [
         {
           "name": "Neuroscience News",
@@ -669,7 +693,7 @@
       "id": "aeafffbc3282",
       "title": "I spoke to 3 doctors to find the best allergy products that deliver real relief - CNN",
       "published": "2026-04-17T12:00:00+00:00",
-      "summary": "I spoke to 3 doctors to find the best allergy products that deliver real relief&nbsp;&nbsp;CNNDon't rely only on anti-histamines this allergy season : Life Kit&nbsp;&nbsp;NPRAre Your Allergies Worse This Season? Climate Change and Pollution Might Be to Blame.&nbsp;&nbsp;Mother JonesSpring blooms bring pollen surge across the Ohio Valley, triggering allergy season&nbsp;&nbsp;WTOVHow to find relief during allergy season in Michiana&nbsp;&nbsp;WNDU",
+      "summary": "I spoke to 3 doctors to find the best allergy products that deliver real relief&nbsp;&nbsp;CNNAre Your Allergies Worse This Season? Climate Change and Pollution Might Be to Blame.&nbsp;&nbsp;Mother JonesDon't rely only on anti-histamines this allergy season : Life Kit&nbsp;&nbsp;NPRSpring blooms bring pollen surge across the Ohio Valley, triggering allergy season&nbsp;&nbsp;WTOVHow to find relief during allergy season in Michiana&nbsp;&nbsp;WNDU",
       "sources": [
         {
           "name": "CNN",
@@ -714,13 +738,13 @@
       ]
     },
     {
-      "id": "88dd56d8c3bd",
-      "title": "Deadly virus that causes vomiting, diarrhea on the rise in the U.S.: Here’s what to know - PennLive",
+      "id": "52c5acf923a3",
+      "title": "Deadly virus that causes vomiting, diarrhea on the rise in the U.S.: Here’s what to know - PennLive.com",
       "published": "2026-04-17T09:02:00+00:00",
-      "summary": "Deadly virus that causes vomiting, diarrhea on the rise in the U.S.: Here’s what to know&nbsp;&nbsp;PennLiveLife-threatening virus that causes vomiting and diarrhea at high levels in the U.S., CDC says&nbsp;&nbsp;NBC NewsThis dangerous vomiting and diarrhea virus is surging across the US&nbsp;&nbsp;USA TodayRotavirus levels rise in Jackson area, health officials warn&nbsp;&nbsp;WILXMedical Experts Warn of Potentially Deadly Virus Surging in Children That Can Cause Fatal Diarrhea and Vomiting&nbs",
+      "summary": "Deadly virus that causes vomiting, diarrhea on the rise in the U.S.: Here’s what to know&nbsp;&nbsp;PennLive.comLife-threatening virus that causes vomiting and diarrhea at high levels in the U.S., CDC says&nbsp;&nbsp;NBC NewsThis dangerous vomiting and diarrhea virus is surging across the US&nbsp;&nbsp;USA TodayRotavirus levels rise in Jackson area, health officials warn&nbsp;&nbsp;WILXMedical Experts Warn of Potentially Deadly Virus Surging in Children That Can Cause Fatal Diarrhea and Vomiting",
       "sources": [
         {
-          "name": "PennLive",
+          "name": "PennLive.com",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ0FoQ0VBZGNTVTFmUm5XUGNBQ3l1WS1aM1pYUFlhRjNvQ3FFNjZvZWQ3dWV6RTE1Q2VjZmxHanQ4TWl2cFpoM0luLXprVkpKTVRqejktT1ZhSnJ4QzRMaTVOa21acjd3a3VUTllOdS1PNHFyTlpsekhBXzRtcFZFZVVKcW1Ga2wwLWNWRXhUSmhqRWpRUzBlRDQ2cTdtQTMtcUk4TU9hVmwxTG1nZmgtdmxWSGZUaHdRS21RVEprenRSakNKbENV0gHbAUFVX3lxTE55U0l4NFNsVGRPMFFxVFNWZlA1UHlwbHZuVGV0VVhiWUp0OFI3MDY1eWlsNGZ3WUJhWE9UbHRVRldiLWFFcV9VcTVjVmVXbXVTMXd0d0lRNk5JVV9XSEUzb3N0REdobFl6eUl6YXlSUTNfOXRyejhuY2l5Mk9CTWtyZVdZWEM4eUVGcHQxX2pvZlh2bEk5Wk00TGo4Q2c1QWNGOVhFX0dscUgyVVIxNkJzOEs5QWF1X2ZUUFpPX2FtbHVKZUdfOEdqRVRxdTlac1B0V0tjMUJJUjhyZw?oc=5"
         }
       ]
@@ -741,7 +765,7 @@
       "id": "109c5fbb7fec",
       "title": "Iron plus UV light turns alcohol into hydrogen with catalyst-like efficiency - Phys.org",
       "published": "2026-04-17T09:00:04+00:00",
-      "summary": "Iron plus UV light turns alcohol into hydrogen with catalyst-like efficiency&nbsp;&nbsp;Phys.orgHydrogen made from alcohol by scientists using iron catalyst, UV light&nbsp;&nbsp;Interesting EngineeringJapan scientists generate hydrogen using alcohol and iron&nbsp;&nbsp;mid-day.comEfficient Hydrogen Production from Alcohol Using Iron Catalyst and UV Light&nbsp;&nbsp;Bioengineer.orgResearchers produce hydrogen from alcohol using iron and UV light&nbsp;&nbsp;Quantum Commodity Intelligence",
+      "summary": "Iron plus UV light turns alcohol into hydrogen with catalyst-like efficiency&nbsp;&nbsp;Phys.orgHydrogen made from alcohol by scientists using iron catalyst, UV light&nbsp;&nbsp;Interesting EngineeringJapan scientists generate hydrogen using alcohol and iron&nbsp;&nbsp;Mid-dayEfficient Hydrogen Production from Alcohol Using Iron Catalyst and UV Light&nbsp;&nbsp;Bioengineer.orgResearchers produce hydrogen from alcohol using iron and UV light&nbsp;&nbsp;Quantum Commodity Intelligence",
       "sources": [
         {
           "name": "Phys.org",
@@ -750,38 +774,14 @@
       ]
     },
     {
-      "id": "1b592c7d73f4",
-      "title": "Popular weight loss medications linked to hidden side effects, study finds - Ground News",
-      "published": "2026-04-17T08:24:00+00:00",
-      "summary": "Popular weight loss medications linked to hidden side effects, study finds&nbsp;&nbsp;Ground NewsView Full Coverage on Google News",
-      "sources": [
-        {
-          "name": "Ground News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR21QeTMtWi1NSFVQc09NNDNFOFlYWWx0VC11NTdRSEtpM2g3eEVsVmtwQzBYVm1Va2l0T09VUl85cmlvYXZSV1JtOWNvNm0wbzdlZHVSeHdydE5xcHUtaU5XYS1NRVBJQnRRUHp6NGRRNkRzZjA4VVhBd0pNRFpWdUkwX2poTzBNa2x4S19qN3hLVVhLZ2NtNHVENkYxVF80bkRaRVVnQk43UXJJ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4aa949f99237",
       "title": "UK boy feared to have brain tumour was actually poisoned by Vitamin D overdose - The Times of India",
       "published": "2026-04-17T08:02:00+00:00",
-      "summary": "UK boy feared to have brain tumour was actually poisoned by Vitamin D overdose&nbsp;&nbsp;The Times of IndiaI feared my son had a brain tumour but he'd been poisoned with vitamin D&nbsp;&nbsp;BBCTaking Too Much Vitamin D Can Backfire, Scientists Warn&nbsp;&nbsp;ScienceAlertFrom skin changes to headaches... the six signs you're taking too many vitamins&nbsp;&nbsp;Daily MailEarly signs of vitamin D poisoning after 7-year-old boy overdoses&nbsp;&nbsp;UNILAD",
+      "summary": "UK boy feared to have brain tumour was actually poisoned by Vitamin D overdose&nbsp;&nbsp;The Times of IndiaI feared my son had a brain tumour but he'd been poisoned with vitamin D&nbsp;&nbsp;BBCTaking Too Much Vitamin D Can Backfire, Scientists Warn&nbsp;&nbsp;ScienceAlertFrom skin changes to headaches... the six signs you're taking too many vitamins&nbsp;&nbsp;Daily MailVitamin D Supplements: Who Really Needs Them?&nbsp;&nbsp;NDTV",
       "sources": [
         {
           "name": "The Times of India",
           "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPNjFVLTFQaF80R0xOc1JtQUl2TU82ZklnS0hzdUpTN2lHMG5GVXBrYV9KV0FZT0NwNDlUamtrT01fTDVPWXhucmU1VXBkNzlEWm9aU1NhY3owckxhUVVOd1VCZXk5WGxueVBCQU9QZkpLYWV1TzAxd3RuNE5aSEQ5aFo5X2VOSWRfcE1PNFJCSXl2U01oMnVrYmlYOVJ1RDBBUXlhUFV4clVrY1RMbHVpTC1FWHpwbTdXc2pNU1BNMUIteWJPTlhvUTd0M19uZWFwRUxmeEk0SXhublowUXhUSEZwZ1I2clNQWDNwR1BtT2l2VXEwMDdIYVFXekVUSjFaLWpSOXNn0gGLAkFVX3lxTE9iUzJyZnNxQ0NiMkNiclRCc2h1U0ptMHFCS0ZyMm5pZ0QzSkpYWnROWWpRUjE5ZUNTNjFuSDJhMWo5MjlheTVRTDNVYUFuQ1Jua0dZbXlSeUY4TXVzSjlhOEpRaDhfVVR3b0NoakM0eXZXSUgyV0J6QXJKUU1hSkVBbDhQekwyWllEV1BPRlhWVGJpdjgwTzk4YXpzMEV0by1PU3V6NFp2UUhtLWV0NWhhbUhkcHNKOUgzZ0c1Y1Z0dTZmWnhGcElWYnN4dU92VFRvZHVOS2lLY1dNQTJldU8tYTdwdGFsOXc0c19KM3kwbnNvNHJ6a205YlpNTlg2ZFZlRVFMMHhBWHpKQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "44e31cacd852",
-      "title": "Simple and Cheap Blood Test Could Detect Cancer and Other Diseases Before Symptoms Appear - SciTechDaily",
-      "published": "2026-04-17T03:37:29+00:00",
-      "summary": "Simple and Cheap Blood Test Could Detect Cancer and Other Diseases Before Symptoms Appear&nbsp;&nbsp;SciTechDailyOpinion: 2026 could mark turning point for early detection of multiple cancers&nbsp;&nbsp;Times of San DiegoLow cost blood test could detect multiple cancers from single sample&nbsp;&nbsp;Medical News TodayAnna Berkenblit: Research Spotlight - Emerging Role of Blood-Based Cancer Detection Tests&nbsp;&nbsp;OncodailyDiagnosing cancer with a drop of blood&nbsp;&nbsp;University of Waterlo",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM3RGLWZOdmpLZERHM2g5Q1phMDB4VGpldm9CeG0ydk85NGdxUldSbE52X0VFUmxRbDVZdjAwd2VmaE9pb0Q2b1FrTHpYY09TMmM2SU1DaWc0SGRYaVZXZW9QYmpxOFZWV2ZGVmtiSjhsZURyZ1Jwdmx5R3R1bVZzVXdUSHRXYU53UHY0UFU4bC1jNF9sUWxpWkxXWXRkMWw0ZlJYdUd4Nzl1UDNLNDBWdHJzd2ZFZw?oc=5"
         }
       ]
     },
@@ -794,6 +794,18 @@
         {
           "name": "AP News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVjhWUnhqSGtNQThFYUdmX2tJQ0RKTEdlZE4xYTRxZXU5RVBmQmxieFpUUk1raFF4RlpybzhlckRpNVZrRWFTTGFrQkRzeWRGaFR6eDZELVpDWWtvTW1TMkszLVZ2RFNJb1Y4MUVOR2NkMEs0VnphVkF4d1Z1ci1JWnZEeUR5X29OcFpyVUc1ejRXWG5FRlJZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bea024120eeb",
+      "title": "Why You’re Not Losing Weight Eating 'Healthy,' According to Dietitians - AOL.com",
+      "published": "2026-04-12T17:24:24+00:00",
+      "summary": "Why You’re Not Losing Weight Eating 'Healthy,' According to Dietitians&nbsp;&nbsp;AOL.comView Full Coverage on Google News",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IcU1wWEJOMUhZOGV6aE4tZHBEbk5LNThqTVpYdVlSeDR6UURscmRMdTBnODktNGEwMGtybUdUeF9pcXVlUlBpNWVDdkJXS2ZrSWIwZEo3RVBmei10c3hGLTVVRXdnZmRMcG1CcVctRDI?oc=5"
         }
       ]
     }

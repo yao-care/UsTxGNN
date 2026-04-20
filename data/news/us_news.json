@@ -1,15 +1,39 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-04-20T03:19:08.484837+00:00",
-  "total_fetched": 111,
-  "unique_count": 111,
-  "health_related_count": 60,
+  "fetched_at": "2026-04-20T08:14:09.859555+00:00",
+  "total_fetched": 110,
+  "unique_count": 110,
+  "health_related_count": 56,
   "news": [
+    {
+      "id": "bb1bcad6a8ac",
+      "title": "New nasal spray reverses brain aging while restoring memory, giving new hope to people with dementia - Earth.com",
+      "published": "2026-04-20T03:31:52+00:00",
+      "summary": "New nasal spray reverses brain aging while restoring memory, giving new hope to people with dementia&nbsp;&nbsp;Earth.comScientists reverse brain aging, with a nasal spray&nbsp;&nbsp;Texas A&amp;M StoriesScientists Reverse Brain Aging With Simple Nasal Spray&nbsp;&nbsp;SciTechDailyNasal Spray Reverses Brain Aging and Inflammation&nbsp;&nbsp;Neuroscience NewsScientists Intrigued by Nasal Spray That Reverse Brain Aging in Mice, Say It May Work on Humans as Well&nbsp;&nbsp;Futurism",
+      "sources": [
+        {
+          "name": "Earth.com",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcl9EMVV4U082WWpyYTBUb2VhUC1ISXpfN19oQU1TZW1iUGF4LUw3bTUteW53c0xHWWRiRFg4TS1JeUttbEh3TDhFWG9DT0JVUWxRLV9yanA3NGplNzhYMjFoVzZGdGxIa0NQaXltSGNfVWJQVGlhQ3pQNFdJQ2MtUkYzT0xVOGM0bmkzQmtrOW5mRWtOdHU1R3NvMno2dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "84e0ce3251d9",
+      "title": "HRT stopped working for me, but these simple diet tweaks cured my menopausal hot flushes in just 6 weeks - Daily Mail",
+      "published": "2026-04-19T23:40:14+00:00",
+      "summary": "HRT stopped working for me, but these simple diet tweaks cured my menopausal hot flushes in just 6 weeks&nbsp;&nbsp;Daily MailAstellas Pharma’s new non-hormonal menopausal hot flush treatment Veoza can be used in the NHS, NICE says&nbsp;&nbsp;PharmafileHow to end the misery of hot flushes and sweating without HRT&nbsp;&nbsp;Daily Mail",
+      "sources": [
+        {
+          "name": "Daily Mail",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUUZhNjYzaEtxQS1zQU5EUFBEWXRaYk9OaVpZdVlydFk0Z0R2cEFYOVdxOWFhUEV3cDBPMWhyTWNpX1JuNTNILXFkOVZFXzZPeFNsR21HbUEyNU5pRjdFcUM4bzIxV0phczhZVmNnZHl2aDhiUkcteG1jV1VnajlZZlJDZ0dIZHV6M3J0anJ1Wi02QQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "491a69b2f5f1",
       "title": "How Long Poop Stays in Your Body May Impact Your Health, Study Finds - ScienceAlert",
       "published": "2026-04-19T23:34:34+00:00",
-      "summary": "How Long Poop Stays in Your Body May Impact Your Health, Study Finds&nbsp;&nbsp;ScienceAlertHow many times do you poop in a day? Your poop schedule might actually signal something for your body&nbsp;&nbsp;The Times of IndiaYour Poop Schedule Isn’t Just Routine, It May Be Shaping Your Body From Within&nbsp;&nbsp;Indian Defence ReviewAm I Pooping Enough? Here’s What Your Poop Schedule Says About Your Health.&nbsp;&nbsp;VICEYour Poop Schedule May Be Shaping Your Body From The Inside Out&nbsp;&nbsp;",
+      "summary": "How Long Poop Stays in Your Body May Impact Your Health, Study Finds&nbsp;&nbsp;ScienceAlertWhat does the frequency of your bowel movements say about your life expectancy?&nbsp;&nbsp;The Jerusalem PostHow many times do you poop in a day? Your poop schedule might actually signal something for your body&nbsp;&nbsp;The Times of IndiaConstipation: What Happens When Poop Stays in Your Body for Too Long&nbsp;&nbsp;Health and MeYour Poop Schedule Isn’t Just Routine, It May Be Shaping Your Body From Wit",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -33,7 +57,7 @@
       "id": "e7cdfd61b038",
       "title": "Health officials confirm measles case was found in Maryland - WTOP",
       "published": "2026-04-19T21:43:13+00:00",
-      "summary": "Health officials confirm measles case was found in Maryland&nbsp;&nbsp;WTOPMeasles case confirmed in Maryland resident who recently traveled&nbsp;&nbsp;WBAL-TVMeasles case confirmed in Baltimore after international travel, health officials report&nbsp;&nbsp;WBFFMeasles case reported in Baltimore-area resident, state says&nbsp;&nbsp;thebanner.comHealth officials confirm measles case; possible exposure sites at BWI, in Baltimore&nbsp;&nbsp;Baltimore Sun",
+      "summary": "Health officials confirm measles case was found in Maryland&nbsp;&nbsp;WTOPMeasles case confirmed in Maryland resident who recently traveled&nbsp;&nbsp;WBAL-TVMaryland records first case of highly contagious measles in 2026 from international traveler&nbsp;&nbsp;CBS NewsMeasles case reported in Baltimore-area resident, state says&nbsp;&nbsp;thebanner.comHealth officials confirm measles case; possible exposure sites at BWI, in Baltimore&nbsp;&nbsp;Baltimore Sun",
       "sources": [
         {
           "name": "WTOP",
@@ -45,7 +69,7 @@
       "id": "d5a52472c27a",
       "title": "SP8 Breakthrough: A Foundational Step Toward Human Limb Regeneration - Neuroscience News",
       "published": "2026-04-19T18:43:23+00:00",
-      "summary": "SP8 Breakthrough: A Foundational Step Toward Human Limb Regeneration&nbsp;&nbsp;Neuroscience NewsHuman limb regeneration mystery solved by scientists. The reason might just surprise you&nbsp;&nbsp;3DVFWhy can’t humans regenerate limbs? New research offers a clue&nbsp;&nbsp;Scientific AmericanLow oxygen triggers regenerative programs in mammalian limb cells&nbsp;&nbsp;News-MedicalSome Amphibians Can Regrow Lost Limbs – A Simple Trick Could Be The First Step Towards Activating The Ability In Mamma",
+      "summary": "SP8 Breakthrough: A Foundational Step Toward Human Limb Regeneration&nbsp;&nbsp;Neuroscience NewsHuman limb regeneration mystery solved by scientists. The reason might just surprise you&nbsp;&nbsp;3DVFWhy can’t humans regenerate limbs? New research offers a clue&nbsp;&nbsp;Scientific AmericanRegrowing human limbs: How salamander genes could open new research paths&nbsp;&nbsp;Open Access GovernmentSalamander gene discovery could lead to human limb regeneration&nbsp;&nbsp;Earth.com",
       "sources": [
         {
           "name": "Neuroscience News",
@@ -54,10 +78,22 @@
       ]
     },
     {
+      "id": "d8967c148626",
+      "title": "Want Less Stress? Landmark Study Points to a Simple Habit - SciTechDaily",
+      "published": "2026-04-19T18:39:54+00:00",
+      "summary": "Want Less Stress? Landmark Study Points to a Simple Habit&nbsp;&nbsp;SciTechDailyGetting Outside: A Prescription for Better Mental Health in Just 10 Minutes&nbsp;&nbsp;University of Utah Health Academic Medical CenterOne Small Habit That Can Help Reduce Stress Cortisol&nbsp;&nbsp;Vogue PhilippinesCan you outrun stress hormones with exercise? New clues from a clinical trial&nbsp;&nbsp;EurekAlert!How a year of regular exercise alters the biology of stress&nbsp;&nbsp;PsyPost",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTzFpbENuSV9kMkZ3RThYc1pxdW9SNDJWSE9iZUQ2SUZ2dEVCZzZpRUJGVDN0Qy1ub0tlZjJ6MDU5SVYtaUxJczBlMXJqT21VRE5BeFN6eVZCaU1rSC1SbEFfZ3RXWHl4a292TlFGc29UUi1QelNFZThpMlFJNllKRXMwUUlEMHZ3TVE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "03fe599a66f1",
       "title": "Scientists Reveal Eating Fruits and Vegetables May Increase Your Risk of Lung Cancer - SciTechDaily",
       "published": "2026-04-19T18:04:53+00:00",
-      "summary": "Scientists Reveal Eating Fruits and Vegetables May Increase Your Risk of Lung Cancer&nbsp;&nbsp;SciTechDailyStudy links lung cancer to eating fruits and veg: What this means&nbsp;&nbsp;Medical News TodayEating fruits, vegetables and whole grains may increase chance of early onset lung cancer&nbsp;&nbsp;EurekAlert!Study links fruit and vegetable-heavy diet with increased cancer risk&nbsp;&nbsp;The IndependentEating more fruits and vegetables tied to unexpected lung cancer risk&nbsp;&nbsp;ScienceD",
+      "summary": "Scientists Reveal Eating Fruits and Vegetables May Increase Your Risk of Lung Cancer&nbsp;&nbsp;SciTechDailyStudy links lung cancer to eating fruits and veg: What this means&nbsp;&nbsp;Medical News TodayEating more fruits and vegetables tied to unexpected lung cancer risk&nbsp;&nbsp;ScienceDailyEating more fruits and vegetables could put you at risk for this cancer&nbsp;&nbsp;The IndependentNew Study Links a Healthy Diet to Early Lung Cancer Diagnosis&nbsp;&nbsp;Everyday Health",
       "sources": [
         {
           "name": "SciTechDaily",
@@ -126,18 +162,6 @@
       ]
     },
     {
-      "id": "e444b85fc85e",
-      "title": "Scientists Reverse Brain Aging With Simple Nasal Spray - SciTechDaily",
-      "published": "2026-04-19T14:43:28+00:00",
-      "summary": "Scientists Reverse Brain Aging With Simple Nasal Spray&nbsp;&nbsp;SciTechDailyScientists reverse brain aging, with a nasal spray&nbsp;&nbsp;Texas A&amp;M StoriesNasal Spray Reverses Brain Aging and Inflammation&nbsp;&nbsp;Neuroscience NewsTexas A&amp;M nasal spray uses microRNA vesicles to calm neuroinflammaging&nbsp;&nbsp;NewsBytesWant a Stronger, Younger Brain? Texas Researchers Say They Have Made a Fascinating Breakthrough&nbsp;&nbsp;inc.com",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOG1qclpBeDVZajFYbFBnYzhSVWh4UzIzd295VGwtTWV5bDNIdHRnd3p3ZFQtRlZQVkdya2Q4alNwWXJJZnhkcm9heFllSDJTUFVsTW5MaFptTjc3M2hwZUdXc09Pa2JmdHU3ZDJwSDNIR0ZiTmNuTzVHalk1S2ZrdUYzM0ptVDg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "bb380e2b3477",
       "title": "NASA Artemis II’s Christina Koch Reveals 3 Career Rules She Swears By - Forbes",
       "published": "2026-04-19T14:41:42+00:00",
@@ -158,6 +182,18 @@
         {
           "name": "Phys.org",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX0dTaWluRlQ0elN5b2FUT212UGltZGhvd29nWllndmk3QmFPNldKS2FseThtQkY3Q19CT0tHbGtnSk5YVnM0N2pJQ0xZdEdSSlBtOVYtX1JmWFZtT3lVQTdEMlN6QmRvXzdONjFHOElRYzVrallJYVZjOXlpTEgzLWZuOS1WSV9TMXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "921fc14daf16",
+      "title": "'The chances of you living 50 years are very small': Theoretical physicist explains why humanity likely won't survive to see all the forces unified - Live Science",
+      "published": "2026-04-19T14:00:00+00:00",
+      "summary": "'The chances of you living 50 years are very small': Theoretical physicist explains why humanity likely won't survive to see all the forces unified&nbsp;&nbsp;Live ScienceUCSB professor David Gross wins $3 million breakthrough prize&nbsp;&nbsp;News Channel 3-12Humanity may not survive 50 years, warns Nobel laureate&nbsp;&nbsp;NewsBytesPhysicist David Gross Doubts Human Longevity for Unified Theory&nbsp;&nbsp;asatunews.co.idUCSB’s David Gross wins Special Breakthrough Prize in Fundamental Physics",
+      "sources": [
+        {
+          "name": "Live Science",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPM3FUZW9ZaUtFbkt1NWI5QTJZRnpLVi1NNWNtNllEaHB0em9NMFltVUZNMmxaeDFoYVVQeXVQTURsRHF6TEdicmhwZGZnUGFxWUc5SzdMV3JQUnRzRzU1QU5RVXhUSXNGWW14bjVZVWd3NGlQaEpVSFNGYjhaaW9GdTVEU0xmVGNyTUY3ci0tNWNfck81cFBEVl9hS2l2RHEwOHlLaVFjWFFMVHZFeW4yblZIYlhvYVhfTTA4ck15OURRNmhoQVRMTnVsNF9iY01XTVlxZGhKTGdUOElCMGhuMnFrbWlmb3NBUkJycEw4a0QwSWx5aGV1cFNkM2drMVRpSjdsYTNSR0wzd0gtQlVkWFcxZmo3dw?oc=5"
         }
       ]
     },
@@ -210,18 +246,6 @@
       ]
     },
     {
-      "id": "d052532abc0c",
-      "title": "Fitness coach reveals what happened to his body after he took isabgol thrice daily for 28 days: 'I did not expect this' | Health - Hindustan Times",
-      "published": "2026-04-19T09:57:25+00:00",
-      "summary": "Fitness coach reveals what happened to his body after he took isabgol thrice daily for 28 days: 'I did not expect this' | Health&nbsp;&nbsp;Hindustan TimesView Full Coverage on Google News",
-      "sources": [
-        {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOVDJCUHB2VmR0X2lkNXpKMDhIczZVdFBZazZZZUlTeFlHVE1JZHZxcWd5a3V2U2ZpSENnWVlLTUNEX3hhcld2NjRvZ0YxbDRkVHQ5ZUs2RVBObGR1ZzdqN2NNdVB1Z1VwcHp1Wm9XMmkxaTFoMGpOZVNId2NfeTUxMU9TZzkwVTNVVE43YUdUUGxkTzQ1ZTJJN29YR1k2UW1sbTdwWkpzNFVNVmhTN01LMjZSTzdMdzZjbXdvdzRvdFk2c0RORmZWSWU3R05fNjFoNXUxMU5Ob3RMT1pwNWVEbW5uVjBsZE80ZFBaa3ZQSkRsM0lrRkQzTlhsS3JiTjVjYlBibEFVblVBeldXV1hSYTg3SdIBmAJBVV95cUxQR280ckxzUU5GSTBJZ1BTRVBCYUtRUTlXVGx1S05lQWY2TjQ5UHNOeW5qWnl3ZEdxSzNETTU4X2t0a3ZnVGlxdjItamtLM05nYlh6Wm5EOGhBczlxc0dGREY3cURqTmN5YjdDeENVVU5Cblgta19yTVI1QjhzdVZpOUJSTFh0Mnd3LTV0dzdWVUtQcXhEMUk2Zy16eFJfMmFMdVRCM1g3UnpCR1NtV2ZHaGxuWl9Rek1ZQ2J1d2NTYXVqMHNjOFFLOFlhRjZBVFljbHNJMTdjYmd5b3U1X0N5TUI5MTUxWDk5NEpKc3hhck1PNTNTLXVFUUdIWkRCek84anV2SUxURzFTcHlxOThKVV9zYkZwRDc5?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1cb8d8005d04",
       "title": "CT doctor weighs in on antibiotic resistant bacteria CDC is calling a public health risk - Hartford Courant",
       "published": "2026-04-19T09:17:39+00:00",
@@ -234,14 +258,26 @@
       ]
     },
     {
-      "id": "effa221c0a89",
-      "title": "Heart failure warning as symptom could wake you up in middle of the night - The Mirror",
-      "published": "2026-04-19T09:03:00+00:00",
-      "summary": "Heart failure warning as symptom could wake you up in middle of the night&nbsp;&nbsp;The Mirror",
+      "id": "28f1928f7f58",
+      "title": "How Female Anglerfish Evolved to Have It All - The New York Times",
+      "published": "2026-04-19T09:06:33+00:00",
+      "summary": "How Female Anglerfish Evolved to Have It All&nbsp;&nbsp;The New York TimesThis curious creature has a fishing rod dangling out of its head. It doesn't just use it for hunting…&nbsp;&nbsp;BBC Wildlife MagazinePeculiar-Looking Anglerfishes Developed Their Fishing-Rod Lure 72 Million Years Ago&nbsp;&nbsp;Discover MagazineResearch traces evolution of anglerfishes’ famed fishing-rod lures&nbsp;&nbsp;EurekAlert!",
       "sources": [
         {
-          "name": "The Mirror",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc0ZTeWRvODF4cFlFU1E5THdNUFM0TzZEWm00Z2RfQi1TS2QzTVFmZk5yYTJET0pVTHU0V0VXS29pYUVjb1RYZFhpVjRaQUR3VW9WeHU2bFBKNmdORG9QX2t6Y1FqaVBWWUFiakgzRDhzUDFxeWdwX200WWt3aUNTaW1fMUFYeXRC0gGOAUFVX3lxTE9KSkYzYVAtVGQyRUsybnRGSURxTElxX1lrX1ZOeHVRRWxfYmUyLTRVazE4LTJodVBJN1YwbmczdzFwVzJXVDRMUk5QRHl1cUU3VmpfWUlrcUtXZF94OTdJbVdVdDlVX1RfZTR3YWljbEY5UE1WV3Q4ZzBGRThKTzlONG8yLU9RcEotemU1dHc?oc=5"
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oWktWYzYzYUdOaXpUSnBmRm11cXo2QXY4MGRJQ2pfYmNGV2dHSE9JLTI3NWEzNFJadnY2YkdPWmw5bEUwN0h3RXRSYjRaanhXQ2RHdjQwNFZwVUV6a0s5Mk9XVkgwVHRMSnVuOWNjcEtNNERVRUJuYU1FbUdXdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8e65fb73c9ea",
+      "title": "MSU researchers find how HPV-connected cancers hide from immune system, how to expose them - WOODTV.com",
+      "published": "2026-04-19T09:00:00+00:00",
+      "summary": "MSU researchers find how HPV-connected cancers hide from immune system, how to expose them&nbsp;&nbsp;WOODTV.com",
+      "sources": [
+        {
+          "name": "WOODTV.com",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOanA4YWx1d25BdnBuUW5kYzYxU0I1NlYwQ1FhdVRGSU5jQXlsc0pJM1RmWDNDRlpPZ29RRlhDX3J4SkdrdVZzMS1ucmZZRzNWSkduRmhVVzlTV29DVEY5TVo3NUJxNEktdFZEUlRVaXI2cGkzNXdqc3RTaTdWVG40TDZaQWlNdlRLYkctT2Vpd3hiNV9BX1hjWXZnY3h1TktrTUdXbEhZNEhvNjY3eTR3bFo4a29ONWZKWTVvWUk3TEV6bVVFNlHSAcsBQVVfeXFMTWxBUDBMWERQNFNrSHloQzdWd29wZUg3QmJNNllTdGh5My1CamZJZ2wwaU1CUFd5ZXBFS09Cd0d0Mm5zUE81S0d2ZUJ3WnVjMTVsRlFER3VVOUlUZkJBYXBuSzJXcFVaZ3V1b3N3TE9hb3UwS25FSGhFRE5tYWlEUGJHbzFnNnVFTUdzNkVqOU54VlVIQjNNWUxKTHRDS1BhS0dfZ1BjN09WcHA5cFNma1RIcHBIUHo3UDhudDNJdmpINWVmcEZPRE81UWs?oc=5"
         }
       ]
     },
@@ -321,7 +357,7 @@
       "id": "ec7225bf92b7",
       "title": "The Best Time to Take Magnesium for Better Sleep - EatingWell",
       "published": "2026-04-19T00:30:00+00:00",
-      "summary": "The Best Time to Take Magnesium for Better Sleep&nbsp;&nbsp;EatingWellPerson who 'struggled to sleep for 20 years' finds 44p-a-day 'life-changing' solution&nbsp;&nbsp;The MirrorLaura Galván, a nurse: “In cases of mild insomnia, magnesium can be a powerful ally”&nbsp;&nbsp;Diario ASWhy Everyone on Your Feed is Suddenly Obsessed With Magnesium Supplements&nbsp;&nbsp;Soy CarmínShoppers praise 'life changing' 44p-a-day solution for sleep problems and low energy&nbsp;&nbsp;Daily Express",
+      "summary": "The Best Time to Take Magnesium for Better Sleep&nbsp;&nbsp;EatingWellLaura Galván, a nurse: “In cases of mild insomnia, magnesium can be a powerful ally”&nbsp;&nbsp;Diario ASPerson who 'struggled to sleep for 20 years' finds 44p-a-day 'life-changing' solution&nbsp;&nbsp;The MirrorWhy Everyone on Your Feed is Suddenly Obsessed With Magnesium Supplements&nbsp;&nbsp;Soy CarmínShoppers praise 'life changing' 44p-a-day solution for sleep problems and low energy&nbsp;&nbsp;Daily Express",
       "sources": [
         {
           "name": "EatingWell",
@@ -405,7 +441,7 @@
       "id": "bc8ee3f77043",
       "title": "New Research Uncovers Hidden Side Effects of Popular Weight-Loss Drugs - SciTechDaily",
       "published": "2026-04-18T20:17:38+00:00",
-      "summary": "New Research Uncovers Hidden Side Effects of Popular Weight-Loss Drugs&nbsp;&nbsp;SciTechDailyAI scans 400,000 Reddit posts to flag overlooked GLP-1 side effects&nbsp;&nbsp;Medical XpressPopular weight loss medications linked to hidden side effects, study finds&nbsp;&nbsp;The HillReddit Analysis Uncovers Unreported GLP-1 Side Effects&nbsp;&nbsp;MedscapeSocial media data helps AI flag potential risks of GLP-1 medications&nbsp;&nbsp;Medical News Today",
+      "summary": "New Research Uncovers Hidden Side Effects of Popular Weight-Loss Drugs&nbsp;&nbsp;SciTechDailyPopular weight loss medications linked to hidden side effects, study finds&nbsp;&nbsp;The HillAI scans 400,000 Reddit posts to flag overlooked GLP-1 side effects&nbsp;&nbsp;Medical XpressReddit Analysis Uncovers Unreported GLP-1 Side Effects&nbsp;&nbsp;MedscapeSocial media data helps AI flag potential risks of GLP-1 medications&nbsp;&nbsp;Medical News Today",
       "sources": [
         {
           "name": "SciTechDaily",
@@ -465,7 +501,7 @@
       "id": "d5baf72606a7",
       "title": "Deep Beneath Yellowstone, Scientists Discover a Giant “River” of Hot Rock That May Be Driving It - The Daily Galaxy",
       "published": "2026-04-18T16:45:00+00:00",
-      "summary": "Deep Beneath Yellowstone, Scientists Discover a Giant “River” of Hot Rock That May Be Driving It&nbsp;&nbsp;The Daily GalaxyYellowstone nearing eruption as new study finds magma brimming below the surface: scientists&nbsp;&nbsp;New York PostScientists Uncover Hidden Force Powering Yellowstone’s Supervolcano&nbsp;&nbsp;SciTechDailyYellowstone's magma plumbing mainly shaped by tectonic forces—not deep mantle plume&nbsp;&nbsp;Phys.orgYellowstone National Park Scientists Discover Ticking Time Bomb B",
+      "summary": "Deep Beneath Yellowstone, Scientists Discover a Giant “River” of Hot Rock That May Be Driving It&nbsp;&nbsp;The Daily GalaxyYellowstone National Park Scientists Discover Ticking Time Bomb Beneath Visitors’ Feet&nbsp;&nbsp;TheTravelYellowstone nearing eruption as new study finds magma brimming below the surface: scientists&nbsp;&nbsp;New York PostScientists Uncover Hidden Force Powering Yellowstone’s Supervolcano&nbsp;&nbsp;SciTechDailySchematics of Yellowstone's magmatic system (IMAGE)&nbsp;&nbs",
       "sources": [
         {
           "name": "The Daily Galaxy",
@@ -501,7 +537,7 @@
       "id": "7006839ae126",
       "title": "It doesn’t matter how much you sit — walking more could lower your risk of death and disease - ScienceDaily",
       "published": "2026-04-18T14:10:56+00:00",
-      "summary": "It doesn’t matter how much you sit — walking more could lower your risk of death and disease&nbsp;&nbsp;ScienceDailySenior Cardiologist explains why your daily walk isn’t enough, and the one heart metric you should track instead&nbsp;&nbsp;The Times of IndiaGetting Outside: A Prescription for Better Mental Health in Just 10 Minutes&nbsp;&nbsp;University of Utah Health Academic Medical CenterWalking may not be enough exercise to keep a person healthy&nbsp;&nbsp;YahooRegular walking associated wit",
+      "summary": "It doesn’t matter how much you sit — walking more could lower your risk of death and disease&nbsp;&nbsp;ScienceDailyView Full Coverage on Google News",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -558,18 +594,6 @@
       ]
     },
     {
-      "id": "62ce8bd1b340",
-      "title": "Are whole food sugars actually healthier? Experts weigh in on nutrition of dates, honey and more - ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-04-18T12:05:25+00:00",
-      "summary": "Are whole food sugars actually healthier? Experts weigh in on nutrition of dates, honey and more&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosHealth Juices And Zero Drinks Face New Scrutiny&nbsp;&nbsp;Evrim AğacıDiabetes alert: Can drinking fruit juice raise your blood sugar level?&nbsp;&nbsp;The Times of IndiaSmoothies may be calorie bombs: Why your healthy drink may add weight&nbsp;&nbsp;Business StandardLow-fat snack, sugar attack: Your diet’s off track&nbsp;&nbsp;Mathrubhumi En",
-      "sources": [
-        {
-          "name": "ABC News - Breaking News, Latest News and Videos",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV0tqSUw0ZmdfeURyTTJIeW10VGxaVzFfOV8zZ25rQWgtNXdBSUV4WXBSYmRJeEZOMk02YXR0Q0kxdGozUkVIb2dVTGRkdEhBMlBtUFJtZGZKMld6MGo4SU1udXROaDhCNFZvNzVKdUtDM2ZlZ1BaT2VGeVRnMUhlNEQ0ZlFYc0x3TzNEdUtHVF9ydnVjU1NMRjREbktPSVdLRUpWb3RNVETSAa4BQVVfeXFMT2FaS05Ybktzc3pFMEJ5RF84WURSXzZYR09hbGxJVUZjSFhvWTRnWjJMckhhOHowNk5yb3JzeGFHRVdBRm5JZEgwRUhmcFdTemF2Z1hYQm1WMUdsaktsbHVsU3F4ZW5lamFKcXpFYkFWakt4bXYtaXp3WE45V3BXREhNZ0lUOHh0ME1UVDFCcElndzEyTURIUEVwYml4V1p1bUpZM2g2RlZSSE81SXF3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4743b8e4e129",
       "title": "The scary symptom that a mom's labor was about to become a fight to survive: \"I think I'm about to die\" - CBS News",
       "published": "2026-04-18T12:00:19+00:00",
@@ -609,23 +633,11 @@
       "id": "51c308a18bc1",
       "title": "Science news this week: Physicists witness faster-than-light darkness pinpricks, humans are still evolving, and some polar bears are getting fatter than ever - Live Science",
       "published": "2026-04-18T11:00:00+00:00",
-      "summary": "Science news this week: Physicists witness faster-than-light darkness pinpricks, humans are still evolving, and some polar bears are getting fatter than ever&nbsp;&nbsp;Live ScienceStudy finds ‘dark points’ in light can move faster than light&nbsp;&nbsp;Mid-dayPhysicists have confirmed something predicted since the 1970s: darkness can move faster than light without breaking relativity&nbsp;&nbsp;Futura, le média qui explore le mondeScientists just discovered there’s actually something faster tha",
+      "summary": "Science news this week: Physicists witness faster-than-light darkness pinpricks, humans are still evolving, and some polar bears are getting fatter than ever&nbsp;&nbsp;Live ScienceStudy finds ‘dark points’ in light can move faster than light&nbsp;&nbsp;Mid-dayScientists just discovered there’s actually something faster than the speed of light&nbsp;&nbsp;MSNPhysicists have confirmed something predicted since the 1970s: darkness can move faster than light without breaking relativity&nbsp;&nbsp;Fu",
       "sources": [
         {
           "name": "Live Science",
           "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNSFNpZ1VpYlY4WU5fd09lb0toVExkcnJ0SmVNVWtiMGYzRm5fbmo5clc4QkhSY3puZklzQ0hvWnRITGJVNVd1QWR4b3hDclRnUUJXUmkwczdJODd6NG1femJhNzlxUHJrS2Vvck90VFd4QzFwNVA2Mk5PYjg4TUEtblB0QWJMSm5TTGdKb3FhdXM3dlhiSFJPd2NWMzZVVDFKMHpSLU90OGFBckFweGtkM2NyNGY1V0pHMDJIWUxhaXNGSDVTaTJGTEZoTklkUjFiVDNVSDB6RnYtd3phOUMxN2pwX09USndZbjQ3QjQzQ1ZBRzZMc1kzaDlJYzZRajg2eWtad3Rvc3VQdkFtaUUwT1pKYmlRUTIzSjQtazFCN2lUQ01UM0k2eE40Z1FTNTFLUXRWYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e56931414b9c",
-      "title": "Physicists Have a Major Problem With the Universe - Futurism",
-      "published": "2026-04-18T10:45:00+00:00",
-      "summary": "Physicists Have a Major Problem With the Universe&nbsp;&nbsp;FuturismThe Local Universe’s Expansion Rate Is Clearer Than Ever, but Still Doesn’t Add Up&nbsp;&nbsp;NOIRLabInternational Collaboration Helps Pinpoint Universe’s Expansion Rate&nbsp;&nbsp;NASA Science (.gov)Scientists Just Confirmed One of the Greatest Mysteries of Our Universe. Now What?&nbsp;&nbsp;Popular Mechanics'Something's missing': Most thorough-ever study of the cosmos proves we still can't explain how the universe is expandin",
-      "sources": [
-        {
-          "name": "Futurism",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BMW1RZFJVbi1TUlhzTEtuUGFYSi1HLVByT3FIWC1PTmZoZ1FOS21nZFY2VXZ4VlNkSlFSZlB2c2dJclRJT3VGbUZockdjam1mWkNZckc5czgwcGNXaE95OXQyWjJPekVhalE3X0xyNA?oc=5"
         }
       ]
     },
@@ -642,6 +654,18 @@
       ]
     },
     {
+      "id": "a87d90cfba24",
+      "title": "Artificial neurons successfully communicate with living brain cells - ScienceDaily",
+      "published": "2026-04-18T09:07:00+00:00",
+      "summary": "Artificial neurons successfully communicate with living brain cells&nbsp;&nbsp;ScienceDailymemristive nanosheet networks for spiking neurons with multi-order complexity&nbsp;&nbsp;Nature3D-printed brain sensors may unlock personalized neural monitoring&nbsp;&nbsp;Medical Xpress3D Printed Brain Models (IMAGE)&nbsp;&nbsp;EurekAlert!Penn State researchers develop 3D printed bioelectrodes tailored to individual brain geometry&nbsp;&nbsp;VoxelMatters",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55T25CbzR2c282Rmk0UzN6aEhySHpLTVA5SjhaVFdHYVhXMkxUZDYzZVBreVQtd0xkd1FmcWFSeTNMclotcVVlNFViay13Snd3Ql9ibkRZLUQ3SndxSFZ0eE5ZaEIzVGc4aUVzdGEydw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "40202535a5ad",
       "title": "'I'm in remission for the first time due to new cancer drug' - BBC",
       "published": "2026-04-18T07:10:34+00:00",
@@ -650,78 +674,6 @@
         {
           "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwdTlFc3lrd01FQnpfVzd4blo2X2RLbXJHV05LcG0wR3RwWnlyMjM0S2tjZWtMUnhySld4WlR2OWNUaWNzNDQ1Z2FfNFdMX3NyMEpqaDYwYWlCZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "28f1928f7f58",
-      "title": "How Female Anglerfish Evolved to Have It All - The New York Times",
-      "published": "2026-04-18T07:00:00+00:00",
-      "summary": "How Female Anglerfish Evolved to Have It All&nbsp;&nbsp;The New York TimesThis curious creature has a fishing rod dangling out of its head. It doesn't just use it for hunting…&nbsp;&nbsp;BBC Wildlife MagazinePeculiar-Looking Anglerfishes Developed Their Fishing-Rod Lure 72 Million Years Ago&nbsp;&nbsp;Discover MagazineResearch traces evolution of anglerfishes’ famed fishing-rod lures&nbsp;&nbsp;EurekAlert!",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oWktWYzYzYUdOaXpUSnBmRm11cXo2QXY4MGRJQ2pfYmNGV2dHSE9JLTI3NWEzNFJadnY2YkdPWmw5bEUwN0h3RXRSYjRaanhXQ2RHdjQwNFZwVUV6a0s5Mk9XVkgwVHRMSnVuOWNjcEtNNERVRUJuYU1FbUdXdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "37fa79b535ce",
-      "title": "Nutritionist shares 1 food that 'can actually act as medicine if you have constipation,' and how best to eat it | Health - Hindustan Times",
-      "published": "2026-04-18T06:39:07+00:00",
-      "summary": "Nutritionist shares 1 food that 'can actually act as medicine if you have constipation,' and how best to eat it | Health&nbsp;&nbsp;Hindustan TimesSuffering With Constipation? Nutritionist Reveals A Natural Food Source And How To Consume It&nbsp;&nbsp;NDTVThis Often-Ignored Fruit Has More Vitamin C Than An Orange And Enough Potassium To Rival Bananas&nbsp;&nbsp;AOL.comFortis gastroenterologist shares a fruit that can help ease constipation, bloating, gut discomfort and improve immunity&nbsp;&nbs",
-      "sources": [
-        {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPZm5QbkVlWjhwQTlmNXVmbmNyaGZnY3lSOHd5aEpBRTFCNWFXWFRQOUUwZmxnVVM2NTdRX3U2SzA4cmduNDZpQmVMSU1ncTFkTUEtX015V21zS2NXOU5EbUlNNUliMHlRN2FvU3NpUzd1SEc1TnNGSnNkQndYVHd5RGpMbXJFNnl5WWdlbFRfaEt4WXl1b1dhYmdwZmxLbzVRS2h1eGQ5ZE9aVjdLaVdoMlpTMFJDdDBpYXNuNDF1MV9CbGY4VXQ4RWI2NEl5UzBfMXlUN09qa1dSM1d5ZXZjTk5YcmlQWS16cnoycHNydVZFbU94U25GcXlTY0JSNzQ3N1hDd25neVnSAY4CQVVfeXFMTlhSX0NOVFpyOW5VNXc3WUl2emRSS0FVYVJleGtxVVdzMlRmQm1iTkRSWWRLTnRLUXZYSEVoRGZYZ2ZUMl9wd0UxclBjVU5YZWtmeUhyQzUwdjJaandFd2tybkdaYUlHVktjbGw5cmRYUTRjbjktdHI2bDNDd3Q4dlN4aEd1SXhRMTN0YVpSUzFRaHZpRl9mMzFFS191cGZUTl9uTnoycnowZGkxV2lPMG1YWXYwYlA3aWRLSkRWRG5oRHk1QTBGN2ZVS0pDTENyaEhZR2k3cElOZW9fRE9jaHZzMXVzWHRXaG5xYy1icmtCSDllekVWVElLRjAyVFgtLVVDRGxGb3FTYkdPaTNR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6ee65325b2b4",
-      "title": "Century-old cleaning ingredient linked to increased risk of Parkinson's disease - Yahoo",
-      "published": "2026-04-18T06:00:00+00:00",
-      "summary": "Century-old cleaning ingredient linked to increased risk of Parkinson's disease&nbsp;&nbsp;YahooCentury-Old Cleaning Chemical Linked to 500% Increased Risk of Parkinson’s Disease&nbsp;&nbsp;SciTechDaily",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONmNmSzFxZVZkbFN3ZGh6NDd5QmZ2NHI1UV9uRTdWY2hseHNCRUhTellGVjJ5VEtyWml5M2dKUVFfbUZSem1YNFhhU2lKNlJUZzBWQ3V2ZmViV0xjTlZ0eU50WjhJM2lUbW1SQTZrTmIzdWpFWEJjQXg0RmNRel9VcW1XWTVSdkVSZk5ad1I4cWlCam8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "46f5174bf80e",
-      "title": "On this day: Brain region for speech found - Live Science",
-      "published": "2026-04-18T06:00:00+00:00",
-      "summary": "On this day: Brain region for speech found&nbsp;&nbsp;Live Science",
-      "sources": [
-        {
-          "name": "Live Science",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQc0Rjb3U0Y1UxNXFJcGtFcHpqb1VaYW5wV3BQOHdKT3FZcnVvRVBMZjR0ZGQybVVLRmFwUmlJV0NoQ0NhVGMyY0gybFhBNzRGMmF3R2FRVlN0VVJGS2RhY2RoYUpjWGVRTWppbGFQbzZabThRN1NGNmRMazFjcFl3OU9LODNNZXl0MmFjTS1KaXh0UjB1cGhFTUtFWld3ZnhISFB4RlRfdVVERXUxSmNaZHVPS0w5aGEyNFJVMzJZRFhTNHl2WjNHSVBUQW94TDQtNmhyQ3U2bGc1SXZadGJOVTd6UjByQlowOWZvUm1uUkhHaGE1WnFUZDdhRVg0ckJs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "70f04daa3346",
-      "title": "The best and worst exercises for your gut health - The Telegraph",
-      "published": "2026-04-18T05:00:00+00:00",
-      "summary": "The best and worst exercises for your gut health&nbsp;&nbsp;The Telegraph",
-      "sources": [
-        {
-          "name": "The Telegraph",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNamZ4enNsOTVwbjJWTnpNbXRuSDNvbjlVR1NheFRKcTdpRlR6WXFuS2hIME1fZ1U1NDlQTXYxNnhhWF8zNDJvWFVyQ3hxTDQ5SUpsaVBUUGQ1VHg3UUI3ZXVqYXU5M0N2TFpoSEhNeHl4cTVaemZ1TE1lTVVpRmVWMzlqaUp3MC1CZW5LLUx1YmplcWd3Uk9VN081eHdRUU5PbFFLNm5Na1o1OXREdlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bea024120eeb",
-      "title": "Why You’re Not Losing Weight Eating 'Healthy,' According to Dietitians - AOL.com",
-      "published": "2026-04-12T17:24:24+00:00",
-      "summary": "Why You’re Not Losing Weight Eating 'Healthy,' According to Dietitians&nbsp;&nbsp;AOL.comView Full Coverage on Google News",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IcU1wWEJOMUhZOGV6aE4tZHBEbk5LNThqTVpYdVlSeDR6UURscmRMdTBnODktNGEwMGtybUdUeF9pcXVlUlBpNWVDdkJXS2ZrSWIwZEo3RVBmei10c3hGLTVVRXdnZmRMcG1CcVctRDI?oc=5"
         }
       ]
     }

@@ -1,10 +1,22 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-04-22T02:51:31.367607+00:00",
+  "fetched_at": "2026-04-22T07:54:10.616133+00:00",
   "total_fetched": 140,
-  "unique_count": 140,
-  "health_related_count": 67,
+  "unique_count": 139,
+  "health_related_count": 69,
   "news": [
+    {
+      "id": "4e0dba878df5",
+      "title": "Moderna launches mRNA bird flu vaccine trial after HHS cancels funding - The Washington Post",
+      "published": "2026-04-22T06:01:00+00:00",
+      "summary": "Moderna launches mRNA bird flu vaccine trial after HHS cancels funding&nbsp;&nbsp;The Washington PostBird flu vaccine trial against potential pandemic strain begins&nbsp;&nbsp;BBCModerna starts late-stage trial of bird flu vaccine in US, UK&nbsp;&nbsp;ReutersBritain launches new mRNA vaccine trial to prepare for bird flu pandemic&nbsp;&nbsp;The TelegraphIf a bird flu pandemic starts, we may have an mRNA vaccine ready&nbsp;&nbsp;New Scientist",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMERNbDhzS0Q2SmFXci1vdm1OOF9YMWZONkNxbjYxQ3BxRWR6MkoxUjJNYmpORmx1RnRKY0ZwdVREc1VEUlpaMVd4SnNmYXpuVkl6emhQTkhnS2R3ckJuU21sQzhhWlJRUHdsX0MtNmRiYnI4TnBCaE41ZkliaDdVa0ItN1p6Q2dwQkt3OHhpSQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "ca94133da7dc",
       "title": "As wildfires worsen, exposure to smoke may increase risk of several cancers - The Washington Post",
@@ -30,6 +42,18 @@
       ]
     },
     {
+      "id": "68a89fa46bc2",
+      "title": "Scientists Just Discovered a Hidden Benefit of Coffee That Has Nothing to Do With Caffeine - inc.com",
+      "published": "2026-04-21T21:20:25+00:00",
+      "summary": "Scientists Just Discovered a Hidden Benefit of Coffee That Has Nothing to Do With Caffeine&nbsp;&nbsp;inc.comHabitual coffee intake shapes the gut microbiome and modifies host physiology and cognition&nbsp;&nbsp;NatureThis Everyday Drink Is Linked to an 18% Lower Risk of Dementia, According to a 43-Year Study&nbsp;&nbsp;Food & WineHow coffee reshapes the gut-brain axis and lifts mood—even without caffeine&nbsp;&nbsp;Medical XpressYeah, There’s Actually a ‘Perfect’ Amount of Coffee to Drink&nbsp;",
+      "sources": [
+        {
+          "name": "inc.com",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMkVON2xxVzh1S0RLbVV3enBOcUlxeFlIajBMZEFvQjdnd0ZIZEZ0elc3QUJ6V2VadTZ6WWJOS21LMjlOZGxOTk9DTE9FODA0bGFTMHVuUGdrNDZIY0FFaWg4Tk94clpiLXlIa2lwWUJPVjUtTzIzcVdjQVdIX1VHa3U4Ty1MVGU2MVhqLWYyX2pmTnp3NFZpZ1B3Ymx1VV9PLVNTSktDNnFnU0hhcE9aNXpqQnBEbHZwYXVIM0FoZDlJM1dBalVlZEhoa1ZqUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a4ac9430bb9b",
       "title": "Nasal spray reverses brain aging - futurity.org",
       "published": "2026-04-21T19:26:36+00:00",
@@ -45,7 +69,7 @@
       "id": "c7d677055a35",
       "title": "NASA shuts off another Voyager 1 instrument as humanity's most distant spacecraft prepares for risky 'Big Bang' maneuver to save power - Live Science",
       "published": "2026-04-21T18:40:30+00:00",
-      "summary": "NASA shuts off another Voyager 1 instrument as humanity's most distant spacecraft prepares for risky 'Big Bang' maneuver to save power&nbsp;&nbsp;Live ScienceNASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating&nbsp;&nbsp;NASA Science (.gov)NASA shuts off Voyager 1 instrument to save power 15B miles from Earth&nbsp;&nbsp;Fox NewsNASA shuts down Voyager 1 instrument to keep probe exploring interstellar space&nbsp;&nbsp;SpaceVoyager 1 Is Low On Power – NASA Engineers Regretfully Pul",
+      "summary": "NASA shuts off another Voyager 1 instrument as humanity's most distant spacecraft prepares for risky 'Big Bang' maneuver to save power&nbsp;&nbsp;Live ScienceNASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating&nbsp;&nbsp;NASA Science (.gov)Nasa’s interstellar space probe Voyager 1 is losing power&nbsp;&nbsp;YahooNASA shuts off Voyager 1 instrument to save power 15B miles from Earth&nbsp;&nbsp;Fox NewsNASA shuts off Voyager 1 probe&nbsp;&nbsp;Semafor",
       "sources": [
         {
           "name": "Live Science",
@@ -57,7 +81,7 @@
       "id": "6c0fdfbf24ab",
       "title": "Study of 11,000 US Teens Links Cannabis Use to Slower Brain Development - ScienceAlert",
       "published": "2026-04-21T18:01:50+00:00",
-      "summary": "Study of 11,000 US Teens Links Cannabis Use to Slower Brain Development&nbsp;&nbsp;ScienceAlertSmoking weed as a teen might change your life for the worse — UC San Diego study&nbsp;&nbsp;NBC 7 San DiegoLargest US Study Finds Teen Cannabis Use Linked to Slower Cognitive Development&nbsp;&nbsp;UC San Diego TodayThe surprising ways cannabis may affect the aging brain&nbsp;&nbsp;The Washington PostUCSD study shows possible link between marijuana use in teens and slower brain development&nbsp;&nbsp;f",
+      "summary": "Study of 11,000 US Teens Links Cannabis Use to Slower Brain Development&nbsp;&nbsp;ScienceAlertSmoking weed as a teen might change your life for the worse — UC San Diego study&nbsp;&nbsp;NBC 7 San DiegoThe surprising ways cannabis may affect the aging brain&nbsp;&nbsp;The Washington PostLargest US Study Finds Teen Cannabis Use Linked to Slower Cognitive Development&nbsp;&nbsp;UC San Diego TodayUCSD marijuana study affirms drug’s negative effect on youth&nbsp;&nbsp;San Diego Union-Tribune",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -93,7 +117,7 @@
       "id": "8830c1b75ce4",
       "title": "E-bike injuries have been spiking at Bellevue trauma center, study finds - Gothamist",
       "published": "2026-04-21T17:04:00+00:00",
-      "summary": "E-bike injuries have been spiking at Bellevue trauma center, study finds&nbsp;&nbsp;GothamistE-Bike and Scooter Crashes Are Leading to More Brain Injuries&nbsp;&nbsp;NYU Langone HealthBrain injuries are surging from e-bike and scooter crashes in NYC — and a two-hour window is most dangerous&nbsp;&nbsp;New York PostAs e-bike crashes send an increasing number of people to the hospital, cities search for solutions&nbsp;&nbsp;The GuardianGillette Children’s Warns of Rapid Rise in E‑Bike Injuries Amo",
+      "summary": "E-bike injuries have been spiking at Bellevue trauma center, study finds&nbsp;&nbsp;GothamistAs e-bike crashes send an increasing number of people to the hospital, cities search for solutions&nbsp;&nbsp;The GuardianBrain injuries are surging from e-bike and scooter crashes in NYC — and a two-hour window is most dangerous&nbsp;&nbsp;New York PostVictor Dominocielo: ‘E-Bikes’ and the Only Collision That Counts&nbsp;&nbsp;NoozhawkGillette Children’s Warns of Rapid Rise in E‑Bike Injuries Among Yout",
       "sources": [
         {
           "name": "Gothamist",
@@ -129,7 +153,7 @@
       "id": "6baa473f52b3",
       "title": "Research Shows There Is a Best Time of Day to Eat Your Fiber - Verywell Health",
       "published": "2026-04-21T16:07:07+00:00",
-      "summary": "Research Shows There Is a Best Time of Day to Eat Your Fiber&nbsp;&nbsp;Verywell HealthIs Protein or Fiber More Important? Dietitians Reveal Which To Prioritize&nbsp;&nbsp;TODAY.comHow to eat more fibre and why you should!&nbsp;&nbsp;BBCFiberizing Common Foods Reflects Shift in How Americans Approach Fiber Intake&nbsp;&nbsp;The National Law ReviewHometown Health: Fiber called ‘it’ nutrient of the year for gut health benefits&nbsp;&nbsp;WDBJ7",
+      "summary": "Research Shows There Is a Best Time of Day to Eat Your Fiber&nbsp;&nbsp;Verywell HealthIs Protein or Fiber More Important? Dietitians Reveal Which To Prioritize&nbsp;&nbsp;TODAY.comHow to eat more fibre and why you should!&nbsp;&nbsp;BBCHometown Health: Fiber called ‘it’ nutrient of the year for gut health benefits&nbsp;&nbsp;WDBJ7Hugh Fearnley-Whittingstall: 23 ways to boost your daily fibre&nbsp;&nbsp;The Times",
       "sources": [
         {
           "name": "Verywell Health",
@@ -150,14 +174,14 @@
       ]
     },
     {
-      "id": "3441a0804e84",
-      "title": "What Is Borderline Personality Disorder? - The New York Times",
-      "published": "2026-04-21T15:48:43+00:00",
-      "summary": "What Is Borderline Personality Disorder?&nbsp;&nbsp;The New York Times",
+      "id": "5940bea52902",
+      "title": "Can Fungi Survive the Martian Landscape? A New NASA Study Offers Surprising Answers - The Daily Galaxy",
+      "published": "2026-04-21T15:45:00+00:00",
+      "summary": "Can Fungi Survive the Martian Landscape? A New NASA Study Offers Surprising Answers&nbsp;&nbsp;The Daily GalaxyThis Fungus Can Survive Deep-Space Conditions – And Could Hitch a Ride to Mars&nbsp;&nbsp;ScienceAlertHow resilient fungus might survive Mars and space&nbsp;&nbsp;Phys.orgMicrobial Survival Under Mars Like Conditions&nbsp;&nbsp;usthadian.comPerhaps We Have Already Brought Earthly Microbes to Mars&nbsp;&nbsp;ChemistryViews",
       "sources": [
         {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUJMa082LUdydWRMdWFVd19FeExHSW85MHhYYlhUZDBxR2xVZ0JxTkpEdzd4MTZXd2R3ajNZQzllR3pUb1ZBX2drbmJ2SXM1RXdxSkxsa2pQZk9KRGhPTE9JN1JNeG5EdVVIam8xcFBHRVVscXBrUjJDSEF2WDVNcTZobnlRRWgwb3B5Q3NB?oc=5"
+          "name": "The Daily Galaxy",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GcHRBbVFoRjhYcU1VMjdrYlBoV0xmRjdSclZMbWtQN2JHU0NNWDlxZ1FzSkNNdHFGYVJWa2dQNDVDSkk2STlCNTNqV2g4SVpXN2Vhb3VWZkhxdnpvMndxVnlodGZ5NWhjNG5Md2pXYkQtTDdrajdERjNCUFA?oc=5"
         }
       ]
     },
@@ -201,7 +225,7 @@
       "id": "77075c484207",
       "title": "New Study Finds An Upsetting Potential Link Between Lung Cancer And Healthy Eating - HuffPost",
       "published": "2026-04-21T14:20:15+00:00",
-      "summary": "New Study Finds An Upsetting Potential Link Between Lung Cancer And Healthy Eating&nbsp;&nbsp;HuffPostHealthy diets spark lung cancer risk in non-smokers as pesticides loom&nbsp;&nbsp;Fox NewsEating fruits, vegetables and whole grains may increase chance of early onset lung cancer&nbsp;&nbsp;Keck Medicine of USC'Healthy Foods' May Be Linked to Lung Cancer in Young Non-Smokers&nbsp;&nbsp;People.comStudy links lung cancer to eating fruits and veg: What this means&nbsp;&nbsp;Medical News Today",
+      "summary": "New Study Finds An Upsetting Potential Link Between Lung Cancer And Healthy Eating&nbsp;&nbsp;HuffPostHealthy diets spark lung cancer risk in non-smokers as pesticides loom&nbsp;&nbsp;Fox NewsEating fruits, vegetables and whole grains may increase chance of early onset lung cancer&nbsp;&nbsp;Keck Medicine of USC'Healthy Foods' May Be Linked to Lung Cancer in Young Non-Smokers&nbsp;&nbsp;people.comStudy links lung cancer to eating fruits and veg: What this means&nbsp;&nbsp;Medical News Today",
       "sources": [
         {
           "name": "HuffPost",
@@ -270,14 +294,50 @@
       ]
     },
     {
-      "id": "7ee36c062b9e",
-      "title": "Scientists Uncover Dangerous Connection Between Serotonin and Heart Valve Disease - SciTechDaily",
-      "published": "2026-04-21T11:12:31+00:00",
-      "summary": "Scientists Uncover Dangerous Connection Between Serotonin and Heart Valve Disease&nbsp;&nbsp;SciTechDaily",
+      "id": "542ceeab8b11",
+      "title": "New Drugs Are Primary Care Game Changers, but Pricey - Medscape",
+      "published": "2026-04-21T11:58:41+00:00",
+      "summary": "New Drugs Are Primary Care Game Changers, but Pricey&nbsp;&nbsp;Medscape",
       "sources": [
         {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYTE2WEJrV2pOQ0ZlbzNicFJRek96NVRlS1M4Y2ZQbTR0ZnZBTnlmVm5jVlIycllQQnAzVkJJWXhtcjdmTnpoaTN6aENEaXRPdE5KQ0NtVC05MFV4Y0g3N19ObVFZTFBDMTl6aXNnX2xQWjF0eGtFRWhLWFhLUEJsNENHMTZWTGV5akNHdWVGMVM4Q09ZR0ZBWnNrQ0QySzNlMUs3Y1ZJYjR2Y1E?oc=5"
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcVdfU29ISEs1N1dEcFIyWGZjeElmVldjSk5nUkRTOW1NcGZmUGRfNFNWUjVCSkIwdGVtOVZ5dlF2QnVrV1FEQVFCS0lGTkdnSDhUdkt3Zm56d3podlpGNm01YjZSd3R2dkdFODUyYVJieXhrOGZYOFFBVUhsTVIwSmxKMG16eXF0OTVfcUpPbkxtVGhKOWVfREQ4ZEpwdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f2523d15c614",
+      "title": "Are your vitamin D levels low? Experts explain its function beyond bone strength; share why deficiency is common | Health - Hindustan Times",
+      "published": "2026-04-21T11:20:46+00:00",
+      "summary": "Are your vitamin D levels low? Experts explain its function beyond bone strength; share why deficiency is common | Health&nbsp;&nbsp;Hindustan TimesHow Much Sun Do You Need for Vitamin D—Without Damaging Your Skin?&nbsp;&nbsp;AOL.com6 nutrient deficiencies that explain why you're tired all the time&nbsp;&nbsp;Moneycontrol.comAsk the Pharmacist: What Role Does Vitamin D Play in your Health?&nbsp;&nbsp;WDTN.comSuffering from lack of vitamin B12? You don't need to rely on meat and fish, say fitness",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQT1lfbEJQejFqdG13OUJIYUJVM3YtMjBFYWVwQ0R6N21oZUJUbVU2YXQ0akVUbERueE1WN244SmM2NU5IdTNqc05DakhoZ0ExOVM2bUZrY3VXWkZXdnNGbzJMX1gxZDdsR1pqVEtuUlVkLTFUODRldlZROWJUSzBjWHFOSDMtZkZKRDZSbExnYWFPa3dzWTFtbUlkOUpaMFJZRjRXRW5xMjZwUHlNV21Eel9vaGZVay0ya3ZOdU1LaUExQ1ZTdTdiV01KT2pxQmlXcmFRWGhqWVlXbG1FdjlnM3M1dFIyZEVqNldXcXlZZU9pSmhQX3hEWW5iVFhoNE13RzM1QzM0MW9KZjDSAZACQVVfeXFMTzNjX05lenc1ZTVzUENodFpqOHoyalF3U2pmQlVvcFRmZU1KU2Qzc1hDZ1BqYWcwYW5qbkxaSjF3NTlwLUwzdWk3aDVBNi1nX3BTaTB2eUZqdm44b2hNQ0JDbHB0MGoxTlQzR0xkZEpjak1qV3EwekcyRXpiS0RZaXZ4N1ZscmRQMlZGOUw3ZU1Ld1Fnb0dEcEF6dG5jWWhDWGtWWUR4WFZvX3lweEhQWWJJS3BpMWhWWVRXRVQzNkxSWW9aeS1qOWlIcVpyaWNwc2o4cGRYb0VxOGhpVFBHalBwWEt6SGZQSEFEd2ZQZ3BETXVMUzlBNjU5TzRWQ3daMkVYUnNLWkdaTmtiMFp3U3k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "53e4df5eb337",
+      "title": "A drug‑resistant stomach bug is spreading, CDC warns - SILive.com",
+      "published": "2026-04-21T11:00:00+00:00",
+      "summary": "A drug‑resistant stomach bug is spreading, CDC warns&nbsp;&nbsp;SILive.comDrug-resistant Shigella bacteria on the rise in US, CDC study reveals: What to know&nbsp;&nbsp;NBC New YorkShigella, diarrhea-causing infection, increasing in US, CDC says&nbsp;&nbsp;USA TodayCT doctor weighs in on antibiotic resistant bacteria CDC is calling a public health risk&nbsp;&nbsp;Hartford CourantExtensively drug-resistant Shigella on the rise in US, CDC warns&nbsp;&nbsp;CIDRAP",
+      "sources": [
+        {
+          "name": "SILive.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdUpsRG9VeEZzWU5KVlZwN05NMU95c0tsNFZiSEFBc2JIUGw2M05vZlVDVUpoODdTVE8wZks3cEh6OHVtQkZFTFl2VlVXNTlFaFhlT3BsMW5RdWFIWmh0MHNyY3JZMnJ1Rllsek93clI2Y2hNM2Z2NW9oZ0E0aXFQREQ3V1k1ME4zMkRuMTdwcms0WnJZaHfSAaoBQVVfeXFMT3MyQk0xTzBVTnRSVm1BdGl4TXlMX2hUb21jWUpjUkJuNUtxamMzeW56SmdfLWt2V0J2WmFvbDBYVkoyRVdYSmtGeGhORHdLQjVXOE9ocktHeTBHeXdRMklyb0pRanJILXZqZzBOc2tjWG9SMUtzelYwOVZXMmhzdTBkOUN5dVRfUGRqQndFTmg5YVJtdU1UcS0tRFF4dzFHRndkSXMyMlR4MlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a8cf133d9f11",
+      "title": "When you need to get a PSA test to check for prostate trouble - The Hindu",
+      "published": "2026-04-21T10:42:28+00:00",
+      "summary": "When you need to get a PSA test to check for prostate trouble&nbsp;&nbsp;The Hindu388 — Prostate cancer screening: why current PSA guidelines are failing men and how modern tools improve early detection and save lives&nbsp;&nbsp;peterattiamd.comJASON HOISINGTON: Let's talk about men’s health and the prostate&nbsp;&nbsp;southernminn.comProstate cancer: What are the symptoms and how is it treated?&nbsp;&nbsp;AOL.comEarly Signs Of Prostate Cancer And When To Get A PSA Test&nbsp;&nbsp;BW Healthcare ",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYk5vMlN5eVhRMURsSFRxT2JpYkQ1T1J5bDFPS1VyT2l2QV9heU9TSmhKSHZ6WGxxVGJTZGE2dUxEb01tek1WdXBfdUViUE5OdHNNZDRZN0RHR1ZnZTBnY3RyR0JuQXhDQ3NySnhUblB5alpmM014TjRQUXB5dGxPRUZtV3VMMXUwS1JsMGhvMXhJSk1COGhWdGRxbFNuUkpXX2hJY0VDUkY2NGR0dE5uYW1IdVdiSUpQM0Jr0gHCAUFVX3lxTE1Yc21kZmZoOFRDOW9iUklNem1KUktZMUpuNnRwM21BamVKcUZqX1RiX3hOT05rQlNhRGFXUmN0dmc4dVFRSUp5M0dEZk1FN2hXTUptdDN3cGE3ZXIyNHZPcHNTUEhXUXd0ZEoyR2VrX09xelB1YU84XzdCNnAxVVMzZEVGS2ZtSm1ndU1PekJJTkhrVk5UUlpISTdhQmh1UFpydnM4cGNGaWkxRHhlMXBIZGV5Qm9aaVhsV0VHc0dieW13?oc=5"
         }
       ]
     },
@@ -306,26 +366,26 @@
       ]
     },
     {
-      "id": "6b359d5e140b",
-      "title": "How coffee reshapes the gut-brain axis and lifts mood—even without caffeine - Medical Xpress",
-      "published": "2026-04-21T09:00:01+00:00",
-      "summary": "How coffee reshapes the gut-brain axis and lifts mood—even without caffeine&nbsp;&nbsp;Medical XpressHabitual coffee intake shapes the gut microbiome and modifies host physiology and cognition&nbsp;&nbsp;NatureThis Everyday Drink Is Linked to an 18% Lower Risk of Dementia, According to a 43-Year Study&nbsp;&nbsp;Food & WineYeah, There’s Actually a ‘Perfect’ Amount of Coffee to Drink&nbsp;&nbsp;Men's HealthRegular consumption of coffee ‘significantly’ boosts mood and reduces anxiety&nbsp;&nbsp;Th",
+      "id": "3441a0804e84",
+      "title": "What Is Borderline Personality Disorder? - The New York Times",
+      "published": "2026-04-21T09:00:41+00:00",
+      "summary": "What Is Borderline Personality Disorder?&nbsp;&nbsp;The New York Times",
       "sources": [
         {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Kb2VySGJfTlpSSnBBb1R5WkEzRVd3UDRQbXE0aWRWQTBYd25CX2lPcFd2TkNSS0V5TGdXSUo5T2ZvWUNnRW92TUROOGprNHY1c1lQdXNYNDNuRnMxRVhyWnNOczVmZUxPUmtRRVgyM0ZhemZaNzBacDNiV1Fva28?oc=5"
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUJMa082LUdydWRMdWFVd19FeExHSW85MHhYYlhUZDBxR2xVZ0JxTkpEdzd4MTZXd2R3ajNZQzllR3pUb1ZBX2drbmJ2SXM1RXdxSkxsa2pQZk9KRGhPTE9JN1JNeG5EdVVIam8xcFBHRVVscXBrUjJDSEF2WDVNcTZobnlRRWgwb3B5Q3NB?oc=5"
         }
       ]
     },
     {
-      "id": "89c951492c5c",
-      "title": "Climate extremes may quietly be pushing heart disease rates higher: Study - ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-04-21T04:24:08+00:00",
-      "summary": "Climate extremes may quietly be pushing heart disease rates higher: Study&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosHeatwaves above 38 °C significantly spike cardiovascular cases in middle-aged populations&nbsp;&nbsp;News-MedicalAgeing Population Faces Higher Heart Risk Amid Extreme Weather Events: Study&nbsp;&nbsp;Outlook India",
+      "id": "c4680efc0487",
+      "title": "Scientists discover skincare compound that kills drug-resistant bacteria - ScienceDaily",
+      "published": "2026-04-21T05:34:59+00:00",
+      "summary": "Scientists discover skincare compound that kills drug-resistant bacteria&nbsp;&nbsp;ScienceDailyView Full Coverage on Google News",
       "sources": [
         {
-          "name": "ABC News - Breaking News, Latest News and Videos",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX1FfZmZmbm9qa0lKa2puQ3dFbFRoR2ttMDVGd2MyMmllX0sybkE2WkZtaFpXMXNsUGZOZmI5M1JUTU9LNzdQeDZIdldtcGd6QTFiR1VVemlHN1V4TnBZNWtJdEpKVl9jRHo3Q3JHY3pHUHNYaEhCaTI2ZjBreXRhZEtnRXNYTkRSTjZGN3U3NFdRLTZ1NDZSUG1GRDRIUWRULTR30gGoAUFVX3lxTFBaNkNyWUV4NzF2Q0lZcFVDNjYwd1ZoTjNPclpDa2JCV2JyZzFVVU1hLXNWV3padUtjbXJWOFVNV09JZnRLZEFWM3lvR2tsOGluNm5oSHM2bDhMRFlGZjh2dHNDZzlrc2x6Q0pIT2J1TWxScy15WUNzUVFxd2liYWkxMno0aHZ3Ym0wLWJGaXlaMFFkQTFWVy14NVhkV3NvZVdDSmtySTM4dQ?oc=5"
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oRWNLeFpyLTI3eWZ5Mm5QVmNYQXp5aXNsRm1ET2k2U0tIRmhhbmtEQWZJQjdDOFZBeFBES1U0a3RZOU9id1FXb29KUFdobUF1TDI0RC03U0ZkUndoUHhOXzBjMFh5MUp3VWw4UDlrZw?oc=5"
         }
       ]
     },
@@ -342,10 +402,22 @@
       ]
     },
     {
+      "id": "5969a6cf9771",
+      "title": "New plastic film covered in thousands of tiny pillars can tear apart viruses on contact - The Conversation",
+      "published": "2026-04-21T00:33:00+00:00",
+      "summary": "New plastic film covered in thousands of tiny pillars can tear apart viruses on contact&nbsp;&nbsp;The ConversationPlastic texturing kills viruses when they land&nbsp;&nbsp;EurekAlert!Revolutionary Virus-Bursting Surfaces: A Decade in the Making&nbsp;&nbsp;DevdiscourseYour iPhone screen could become virus-free after groundbreaking technology discovery&nbsp;&nbsp;UNILAD TechAntiviral plastic film for surfaces developed at RMIT&nbsp;&nbsp;FoodProcessing.com.au",
+      "sources": [
+        {
+          "name": "The Conversation",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR3d6UmtQTzExaUZPaFdjVk51YzZBX1ZTZUpvUzNMaFpDbzdVdEFjem5FdXN4alFzZ3pmdlF6eTJsZjV1eHFCYXhzdnYwZjlpVXlVNkZpZjE3QVRJNW51YllEODFnWnRJVV9vRnlEc1RVN3pqeUpqRVk1Sl9NemFSanZteXFrUHJfdTZ5X2FmenpwWHR5dklxVUJkQUpyTXl2MjAybE5Eck9kbG5mek1DZGpzeXBtNEx6Tjk1TC1CUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "eb63532a3cd9",
       "title": "Excessive Napping May Be a Warning Sign of Underlying or Developing Health Conditions in Older Adults - Mass General Brigham",
       "published": "2026-04-21T00:19:25+00:00",
-      "summary": "Excessive Napping May Be a Warning Sign of Underlying or Developing Health Conditions in Older Adults&nbsp;&nbsp;Mass General BrighamMore naps, higher risk? Research links daytime sleep to health warnings in aging adults&nbsp;&nbsp;Fox NewsNapping may be warning sign of health issues in older adults, study finds&nbsp;&nbsp;USA TodayThe Morning Nap as a Risk Factor for Death&nbsp;&nbsp;MedscapeFrequent and Morning Naps May Indicate Health Problems and Higher Mortality Rates in Adults&nbsp;&nbsp;P",
+      "summary": "Excessive Napping May Be a Warning Sign of Underlying or Developing Health Conditions in Older Adults&nbsp;&nbsp;Mass General BrighamNapping may be warning sign of health issues in older adults, study finds&nbsp;&nbsp;USA TodayMore naps, higher risk? Research links daytime sleep to health warnings in aging adults&nbsp;&nbsp;Fox NewsFrequent and Morning Naps May Indicate Health Problems and Higher Mortality Rates in Adults&nbsp;&nbsp;people.comThe Morning Nap as a Risk Factor for Death&nbsp;&nbsp",
       "sources": [
         {
           "name": "Mass General Brigham",
@@ -357,7 +429,7 @@
       "id": "381b14c06198",
       "title": "Researchers Find 'Surprising' Outcome In Loneliness And Memory Study - HuffPost",
       "published": "2026-04-20T23:54:54+00:00",
-      "summary": "Researchers Find 'Surprising' Outcome In Loneliness And Memory Study&nbsp;&nbsp;HuffPostLoneliness can affect your memory – but that doesn’t mean it leads to dementia&nbsp;&nbsp;The ConversationThere’s New Evidence for How Loneliness Affects Memory in Old Age&nbsp;&nbsp;WIREDNew Research Says Loneliness Can Change Your Brain. These Are the Best Ways to Stay Social.&nbsp;&nbsp;Outside MagazineThe surprising effect of loneliness on the brain of older adults&nbsp;&nbsp;The Independent",
+      "summary": "Researchers Find 'Surprising' Outcome In Loneliness And Memory Study&nbsp;&nbsp;HuffPostLoneliness can affect your memory – but that doesn’t mean it leads to dementia&nbsp;&nbsp;The ConversationHarvard Said Loneliness Was Killing Us. A New Study of 10,217 People Just Revealed a Surprising Twist&nbsp;&nbsp;inc.comThere’s New Evidence for How Loneliness Affects Memory in Old Age&nbsp;&nbsp;WIREDThe surprising effect of loneliness on the brain of older adults&nbsp;&nbsp;The Independent",
       "sources": [
         {
           "name": "HuffPost",
@@ -393,23 +465,11 @@
       "id": "c81910606fe2",
       "title": "New Mayo Clinic Study: Taking This Vitamin Was Associated with ‘Improved’ Gut Health and Inflammation Markers - Yahoo News Singapore",
       "published": "2026-04-20T22:38:38+00:00",
-      "summary": "New Mayo Clinic Study: Taking This Vitamin Was Associated with ‘Improved’ Gut Health and Inflammation Markers&nbsp;&nbsp;Yahoo News SingaporeTaking a daily vitamin D supplement may help ease the symptoms of inflammatory bowel disease&nbsp;&nbsp;MSN",
+      "summary": "New Mayo Clinic Study: Taking This Vitamin Was Associated with ‘Improved’ Gut Health and Inflammation Markers&nbsp;&nbsp;Yahoo News SingaporeNew Mayo Clinic Study: Taking This Vitamin Was Associated with 'Improved' Gut Health and Inflammation Markers&nbsp;&nbsp;The Healthy @Reader's DigestTaking a daily vitamin D supplement may help ease the symptoms of inflammatory bowel disease&nbsp;&nbsp;MSNA very common vitamin has surprised scientists and is forcing them to rethink how to manage inflammatio",
       "sources": [
         {
           "name": "Yahoo News Singapore",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSOVA5X3RXMG10eGpHUkllMEJnUXcyWncyaGdJUk5vcURfZ0toYVZQTEVFRlBHdkdmSG9odzVwaWstRTJFVFlkdUZJaHdqd1EybHlzQXZ2UlNzZXBmNUFDeGI3MFVDdnJwLVRlelpSVHJGd2JfejVtc1ZKaGlCZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0d79b78597fa",
-      "title": "Vaccinations urged as dangerous strain of virus emerges in Northern California - Sacramento Bee",
-      "published": "2026-04-20T21:09:43+00:00",
-      "summary": "Vaccinations urged as dangerous strain of virus emerges in Northern California&nbsp;&nbsp;Sacramento BeeStanislaus health officials watchful as serious skin rash cases rise in California&nbsp;&nbsp;Modesto BeeSF Department of Public Health confirms first clade I mpox case&nbsp;&nbsp;KTVUSF health officials urge vaccinations after new case of monkeypox reported&nbsp;&nbsp;Local News MattersMpox Cases Soar In CA As Rare Strain Detected For First Time In San Francisco&nbsp;&nbsp;Patch",
-      "sources": [
-        {
-          "name": "Sacramento Bee",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MVEJMaVlORlEzdE1iM0dDWUtORlZLbGk0SC1SYmxqeGZvUjh2ZXpzY1QwODRLYV9YaUZ3c0FnTEdQUVdsaTNSVUFpdmxMT01kX2Z5OUVSRlQxWGNmYmtJS2RzTFozMzFwVDNmbNIBbEFVX3lxTFBCT0drcGpEemFQcHd6eGx0S0VlazB4OGxNMk1xQjB2ZUtfNUszVEhjRG1xanc3bjZMN0xVTnpvQUJkc3NzVS1HelYtNi00alJLZEhIWTJzRHA3cm9COURnVUFlOG90SVI2azUwYw?oc=5"
         }
       ]
     },
@@ -450,6 +510,18 @@
       ]
     },
     {
+      "id": "f7cce48ed522",
+      "title": "To thwart pathogens, researchers are giving beneficial microbes what they really want - Phys.org",
+      "published": "2026-04-20T19:20:06+00:00",
+      "summary": "To thwart pathogens, researchers are giving beneficial microbes what they really want&nbsp;&nbsp;Phys.orgMicrobe Map Reveals Clues for Treating Infectious Diseases&nbsp;&nbsp;Labcompare",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ybUgyRGJMM2xacndsSXpwTGNRTFJyU0twajBhRFhxUE8zNmpmQ1JIQ3FBaVFublN1VGNuWlZ2MkE4cmI2WURmUDZsYnM4QkdNelJYczZzaEUxTjRTQ0NqNTZad2FEcktqSmhOb2JxcVktWjd6eHpjVFE5dw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b5b465e3eac9",
       "title": "New Kink in the Link Between GLP-1 Drugs and Cognition - MedPage Today",
       "published": "2026-04-20T18:31:48+00:00",
@@ -477,7 +549,7 @@
       "id": "2aafc37dcbec",
       "title": "How Excessive Consumption of One Beverage Can Harm Your Liver, Say Hepatologists - AOL.com",
       "published": "2026-04-20T17:54:18+00:00",
-      "summary": "How Excessive Consumption of One Beverage Can Harm Your Liver, Say Hepatologists&nbsp;&nbsp;AOL.comView Full Coverage on Google News",
+      "summary": "How Excessive Consumption of One Beverage Can Harm Your Liver, Say Hepatologists&nbsp;&nbsp;AOL.comMore isn’t better: Doctors flag liver risks from unsafe supplement use&nbsp;&nbsp;The Times of IndiaDelhi surgeon warns common painkillers aren't as safe as you think: 'Your liver has its limits'&nbsp;&nbsp;Hindustan TimesIs your protein powder real or fake? This simple test will save you from being fooled&nbsp;&nbsp;Moneycontrol.comAre Your Daily Painkillers Putting Your Liver At Risk? Here's What",
       "sources": [
         {
           "name": "AOL.com",
@@ -501,7 +573,7 @@
       "id": "394bbd7dbf65",
       "title": "Astronauts face grip strength challenge in space and on Earth, scientists find - Space",
       "published": "2026-04-20T17:01:00+00:00",
-      "summary": "Astronauts face grip strength challenge in space and on Earth, scientists find&nbsp;&nbsp;SpaceAstronauts’ brains don’t fully adapt to life in microgravity, new study finds&nbsp;&nbsp;Scientific AmericanAstronauts' Memories of Earth's Gravity May Influence How They Move and Hold Objects, Even After Months in Space&nbsp;&nbsp;Smithsonian MagazineAstronauts study reveals brain struggles to unlearn gravity in space&nbsp;&nbsp;EuronewsAstronauts Struggle with Grip Strength in Space and Post-Mission,",
+      "summary": "Astronauts face grip strength challenge in space and on Earth, scientists find&nbsp;&nbsp;SpaceAstronauts’ brains don’t fully adapt to life in microgravity, new study finds&nbsp;&nbsp;Scientific AmericanAstronauts study reveals brain struggles to unlearn gravity in space&nbsp;&nbsp;Euronews.comAstronauts Struggle with Grip Strength in Space and Post-Mission, New Study Reveals&nbsp;&nbsp;The Daily GalaxyWhy do astronauts still act like gravity exists in space?&nbsp;&nbsp;AOL.com",
       "sources": [
         {
           "name": "Space",
@@ -522,10 +594,10 @@
       ]
     },
     {
-      "id": "92cbf49abc06",
-      "title": "Hidden Side Effects of GLP-1 Drugs: Ozempic Chills, Hot Flashes, and More - Healthline",
+      "id": "1b14fd429819",
+      "title": "Ozempic, Mounjaro: 6 ‘Hidden’ Side Effects of GLP-1 Weight Loss Drugs - Healthline",
       "published": "2026-04-20T16:23:36+00:00",
-      "summary": "Hidden Side Effects of GLP-1 Drugs: Ozempic Chills, Hot Flashes, and More&nbsp;&nbsp;HealthlineReddit Analysis Uncovers Unreported GLP-1 Side Effects&nbsp;&nbsp;MedscapeNew Research Uncovers Hidden Side Effects of Popular Weight-Loss Drugs&nbsp;&nbsp;SciTechDailySocial media data helps AI flag potential risks of GLP-1 medications&nbsp;&nbsp;Medical News TodayFive key weight loss jab side effects reported by 43 percent of patients&nbsp;&nbsp;The Mirror",
+      "summary": "Ozempic, Mounjaro: 6 ‘Hidden’ Side Effects of GLP-1 Weight Loss Drugs&nbsp;&nbsp;HealthlineReddit Analysis Uncovers Unreported GLP-1 Side Effects&nbsp;&nbsp;MedscapeNew Research Uncovers Hidden Side Effects of Popular Weight-Loss Drugs&nbsp;&nbsp;SciTechDailySocial media data helps AI flag potential risks of GLP-1 medications&nbsp;&nbsp;Medical News TodayFive key weight loss jab side effects reported by 43 percent of patients&nbsp;&nbsp;The Mirror",
       "sources": [
         {
           "name": "Healthline",
@@ -558,38 +630,14 @@
       ]
     },
     {
-      "id": "5eea25b1c2ed",
-      "title": "He wasn't expected to survive past birth. Years later, this teen suffered a stroke, but is still defying the odds - CBS News",
-      "published": "2026-04-20T16:10:00+00:00",
-      "summary": "He wasn't expected to survive past birth. Years later, this teen suffered a stroke, but is still defying the odds&nbsp;&nbsp;CBS NewsHe survived 22 minutes with no heartbeat. Years later, this teen continues to persevere.&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "CBS News",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44S2ZiRF9sbzZQcnFsdmJ4NTl3YTdsVmNydHBmS3h6SEFoM1RpQnJWRUZobWZ0SUpOQmYyTTFDa2NqdzlISGlRRmtCaVdfVHhpQVNGblIwZEZTWE5VQ3dGOGJRQlBEYmxGNVkwZmhkMnd0ak82Q2fSAXtBVV95cUxQRlhUNGFaQmlTYW5CT2YxSDZ3VFdMS0M2YmwwVVNMaDVHYzdmblo5SEN1bnF4VmdjbXdZZzZkNzBfVmZNWDI5bUxlOGZ6QVBLcGgzYXJsWG5IQktmaDJBcTdZaFVwZEV0cXRwQ2R5VmtnRzlva2JILUNPQkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "505fb4a8e613",
-      "title": "New genetic evidence from Stajnia Cave reveals the oldest Neanderthal group reconstructed in Central-Eastern Europe - Phys.org",
-      "published": "2026-04-20T15:26:24+00:00",
-      "summary": "New genetic evidence from Stajnia Cave reveals the oldest Neanderthal group reconstructed in Central-Eastern Europe&nbsp;&nbsp;Phys.orgReconstruction of the teeth discovered in Stajnia Cave and analysed in this study (IMAGE)&nbsp;&nbsp;EurekAlert!100,000-year-old teeth reveal secrets of Neanderthal migration across Europe&nbsp;&nbsp;Latest news from AzerbaijanDNA Reveals a Neanderthal Group That Lived Together in Poland 100,000 Years Ago&nbsp;&nbsp;GreekReporter.comScientists Reconstruct One of ",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03ZmhkcjRSbUF0LXpHWmxiWHRHRmJXdlRVUThEMG11VzlKT2d3TlRsM1R6ZHJZVVE0bzYtMVdtRGIyVmlIUXd4b2l5S1l0V0pQTTQ5aEZzQzNJWjRueHBwR0FIb2RNUDJQZkRkX0Q4dEE0T0RCOVdlTUN1RFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "adfacf159a3b",
-      "title": "Gut Bacteria May Predict Parkinson’s Before Symptoms Appear - Neuroscience News",
-      "published": "2026-04-20T15:23:44+00:00",
-      "summary": "Gut Bacteria May Predict Parkinson’s Before Symptoms Appear&nbsp;&nbsp;Neuroscience NewsWhat to eat (and avoid) to lower your Parkinson’s risk&nbsp;&nbsp;The Washington PostMicrobiome signature of Parkinson’s disease in healthy and genetically at-risk individuals&nbsp;&nbsp;NatureGut microbiome can reveal risk of Parkinson’s, scientists say&nbsp;&nbsp;The GuardianGut microbes may reveal Parkinson’s risk years before symptoms&nbsp;&nbsp;The Times",
+      "id": "0636c512da3d",
+      "title": "The Molecular Code Behind Gut-Brain Communication - Neuroscience News",
+      "published": "2026-04-20T15:53:55+00:00",
+      "summary": "The Molecular Code Behind Gut-Brain Communication&nbsp;&nbsp;Neuroscience NewsFive Gut Health Mistakes A Brain Ageing Expert Would Never Make&nbsp;&nbsp;Yahoo News Singapore3 Gut Interventions Tested For Cognitive Decline — One Outperformed the Rest&nbsp;&nbsp;MindBodyGreenHow Neurons Detect Bacteria in the Gut: New Insights&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
           "name": "Neuroscience News",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWnIwZXFFZFRzOGFYX3NJbzhreTRGZlBIU2NvSFFBRkoxWUtXSFJRZGY0cnJZRzZtaWtvM0ctNzBvanZKT1NHajdveFJEa3ZRQVNDWTVnZE1GMHQ2N0ROcGlNM3BOejZDZ2dRUWcwejZBbWlKSy15OG9FanJ4V29wZw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QNGU3bW54TTd1UDJVUEUzX3VnZWRpTk5mcHNSdDMyOHRrUEhlZFNXeGJfY0JEMlF0Q1Z0V01jOGxleXl1aDA4WGdObUFQcFJIRE9GektWUC1Wb2lWeGd2d2xQVXA1MnJnS1E1Wi1TVGo?oc=5"
         }
       ]
     },
@@ -597,7 +645,7 @@
       "id": "9e69bdab8ba4",
       "title": "Scientists Have a New Clue to How Grand Canyon Formed - Newser",
       "published": "2026-04-20T15:20:00+00:00",
-      "summary": "Scientists Have a New Clue to How Grand Canyon Formed&nbsp;&nbsp;NewserScientists Still Don't Know How or When the Grand Canyon Formed. New Research May Hint at Its Ancient Origins&nbsp;&nbsp;Smithsonian MagazineNew research shows prehistoric lake contributed to the birth of the Grand Canyon | U.S. Geological Survey&nbsp;&nbsp;USGS (.gov)Scientists decipher the geological history of the Grand Canyon&nbsp;&nbsp;ReutersThe Colorado River disappeared from the geological record for 5 million years: ",
+      "summary": "Scientists Have a New Clue to How Grand Canyon Formed&nbsp;&nbsp;NewserScientists decipher the geological history of the Grand Canyon&nbsp;&nbsp;ReutersNew research shows prehistoric lake contributed to the birth of the Grand Canyon | U.S. Geological Survey&nbsp;&nbsp;USGS (.gov)The Colorado River disappeared from the geological record for 5 million years: Scientists now know where it went&nbsp;&nbsp;Phys.orgScientists Still Don't Know How or When the Grand Canyon Formed. New Research May Hint a",
       "sources": [
         {
           "name": "Newser",
@@ -618,14 +666,14 @@
       ]
     },
     {
-      "id": "901de5ba2b2d",
-      "title": "Jordan Peterson ‘still very sick’ amid neurological battle, daughter says: 'This year has been Hell' - Christian Post",
-      "published": "2026-04-20T14:54:00+00:00",
-      "summary": "Jordan Peterson ‘still very sick’ amid neurological battle, daughter says: 'This year has been Hell'&nbsp;&nbsp;Christian PostPsychologist, author Jordan Peterson suffering from akathisia: Know what it is and why it happens&nbsp;&nbsp;The Times of IndiaJordan Peterson’s Daughter Shares Update on His ‘Hellish’ Health Condition&nbsp;&nbsp;NewsweekJordan Peterson’s daughter details his medical issue | WORLD&nbsp;&nbsp;wng.orgJordan Peterson in critical care over med-induced condition, cancelled all",
+      "id": "ac95136e5a84",
+      "title": "Gut microbiome can reveal risk of Parkinson’s, scientists say - The Guardian",
+      "published": "2026-04-20T15:00:00+00:00",
+      "summary": "Gut microbiome can reveal risk of Parkinson’s, scientists say&nbsp;&nbsp;The GuardianWhat to eat (and avoid) to lower your Parkinson’s risk&nbsp;&nbsp;The Washington PostGut microbes may reveal Parkinson’s risk years before symptoms&nbsp;&nbsp;The TimesMicrobiome signature of Parkinson’s disease in healthy and genetically at-risk individuals&nbsp;&nbsp;NatureEarly signs of Parkinson’s disease is shown in the gut, study finds&nbsp;&nbsp;The Independent",
       "sources": [
         {
-          "name": "Christian Post",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNnAxdkpOQ2d4VV9VRzRxSnV2ZVVORHl3VXlHa3lVbU8wQzYzS3h6VktTRlFnYmVFb196dHM1dWoxNFYxVnV1dWxKMzd4WHVYZ0ROTVFYYUlVRkQ1ZVFNcV92MmJRN1I0S2w3NTNpRHV1aV9sUHp0alFTc1NUcHdUdVUyb0hZUHpUSTJPODVvZUhKal9vcUtWLWl5RVg?oc=5"
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY1hvcTBYalpiTkx5YUhadmpHOW9PNERzTVBsNGVhZkVJdTRPdWVIMFdNOFZZTmhqaTV1UWFJRFF1LUZuS0hLT0JnMXN1dkpvWTFLU2R6am9lUWNXOXRXdVhUYnJHN1lTZGN4YzFQZG9ob1ZzczA4ZVVRdTc5MjMxNlJTYTUtQ2hFbEdKYjFJRk5FeC0wMzZNVU4ybXFsNkJpZEN5eVRtSFNocW8?oc=5"
         }
       ]
     },
@@ -642,26 +690,14 @@
       ]
     },
     {
-      "id": "23d161e1dfb1",
-      "title": "Millions of US birth records uncover an autism risk surge tied to common drugs taken during pregnancy - Medical Xpress",
-      "published": "2026-04-20T13:20:01+00:00",
-      "summary": "Millions of US birth records uncover an autism risk surge tied to common drugs taken during pregnancy&nbsp;&nbsp;Medical XpressStudy suggests prenatal exposure to medications increases autism risk&nbsp;&nbsp;University of Nebraska Medical CenterSterol pathway disruption in pregnancy: a link to autism - Molecular Psychiatry&nbsp;&nbsp;NatureScientists Reveal Why a Common Drug Causes Birth Defects and Autism&nbsp;&nbsp;SciTechDailyCertain Prenatal Medications Can Increase The Risk Of Autism, Finds",
+      "id": "8f19d2e90898",
+      "title": "Study Links Sterol-Inhibiting Drugs to Autism Risk - Neuroscience News",
+      "published": "2026-04-20T14:23:47+00:00",
+      "summary": "Study Links Sterol-Inhibiting Drugs to Autism Risk&nbsp;&nbsp;Neuroscience NewsStudy suggests link between prenatal exposure to certain medications and increased autism risk&nbsp;&nbsp;University of Nebraska Medical CenterSterol pathway disruption in pregnancy: a link to autism - Molecular Psychiatry&nbsp;&nbsp;NatureCertain Prenatal Medications Can Increase The Risk Of Autism, Finds New Study&nbsp;&nbsp;NDTVCommon Prescription Drugs May Disrupt Cholesterol Pathways in the Womb and Raise Autism ",
       "sources": [
         {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZUd4VW1aVzEwNXlNQjhSa3FfU04xODNCa3c3a285N3YtM3NrMVFLdDlvQkFDQVoySDRHejNiMmR1R3pkYS1PU2dMZ0FPRU1Sb0NadGVsUFBQaUN0UHVCUmdYbU15RWxMY0lGdnRHMkUtVGEtLVVCeEVkcEZ0RUd0ampXbDRndw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a7f1477eb9c8",
-      "title": "First MD Measles Case Of 2026 Confirmed In Traveler - Patch",
-      "published": "2026-04-20T13:11:28+00:00",
-      "summary": "First MD Measles Case Of 2026 Confirmed In Traveler&nbsp;&nbsp;PatchMeasles case confirmed in Maryland resident who recently traveled&nbsp;&nbsp;WBAL-TVHealth officials confirm measles case was found in Maryland&nbsp;&nbsp;WTOPMaryland records first case of highly contagious measles in 2026 from international traveler&nbsp;&nbsp;CBS NewsWhy does one case of measles bother public health officials so much?&nbsp;&nbsp;thebanner.com",
-      "sources": [
-        {
-          "name": "Patch",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMHlBVzZIUkFxVkNxcjM2OWVKRm5zTzRwNExvc0ZBbjhLY2Z6S3hPZ2V3TjdEQkZzZGRmSjJ2d1p2Ml9zOFFLY2IyaEdLNkUtdXhSNGFWcFJvNmNtRUtVWHRCcXZQZVB1c28wV2p2YUgzeEd4R3I1VjBlVjV4THZMQWIzSGE1YTTSAaABQVVfeXFMUGtlRFFwVWZ6SXZsR21ralRlcHNNZ3RrdEFybnRJQmVzZDVPbTV3VGZ5SG1CQmVfOTBsRXV0RFlYMXpfek8zU1FxUGJ1d1hFUVQ5VU5rTkhXY0Y0blR5aTBNMllReExsdWhWcXN5elFnTDdobndTNFJDZGJIU0ZDdmsxN054b2tHbDJQUDBGRjhHTjVOWnZ2ckV5X0FLV3U0eA?oc=5"
+          "name": "Neuroscience News",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2MExWTUdjejZOSll6SldELUgwTGJEYjBldGVpVXpMbUFiemNibjJiLTFuc3dIOEJhQW1jNnNFcXdtWUQ1UGgzWDJDX2lIU3BOSFg4T0plakRELU9TUjBkRWZyaURRMENMU0dvSEpubkZFUWJMYWc?oc=5"
         }
       ]
     },
@@ -681,7 +717,7 @@
       "id": "8a9fa577994d",
       "title": "Are regional allergy seasons getting worse? - The Seattle Times",
       "published": "2026-04-20T13:00:00+00:00",
-      "summary": "Are regional allergy seasons getting worse?&nbsp;&nbsp;The Seattle TimesWhere are pollen levels the highest? Iowa's capital city ranks among the worst&nbsp;&nbsp;KCCIIn Duluth, climate change has extended the allergy season by 5 weeks&nbsp;&nbsp;Duluth News TribuneA Major Pollen Surge Is Coming—These 20 US Cities Will Be Hit Hardest&nbsp;&nbsp;marthastewart.comYes, Allergies Really Are Worse This Year — Here’s Why And What To Do About It Right Now&nbsp;&nbsp;News & Observer",
+      "summary": "Are regional allergy seasons getting worse?&nbsp;&nbsp;The Seattle TimesIn Duluth, climate change has extended the allergy season by 5 weeks&nbsp;&nbsp;Duluth News TribuneWhere are pollen levels the highest? Iowa's capital city ranks among the worst&nbsp;&nbsp;KCCIA Major Pollen Surge Is Coming—These 20 US Cities Will Be Hit Hardest&nbsp;&nbsp;marthastewart.comIf you feel cranky and tired, you may have spring allergy fatigue&nbsp;&nbsp;Northeastern Global News",
       "sources": [
         {
           "name": "The Seattle Times",
@@ -717,7 +753,7 @@
       "id": "741c74807365",
       "title": "After a year of turmoil, cancer researchers see promising signs for mRNA vaccines - CNN",
       "published": "2026-04-20T11:00:55+00:00",
-      "summary": "After a year of turmoil, cancer researchers see promising signs for mRNA vaccines&nbsp;&nbsp;CNNPancreatic cancer mRNA vaccine shows lasting results in an early trial&nbsp;&nbsp;NBC NewsmRNA vaccines engage unconventional pathways in CD8+ T cell priming&nbsp;&nbsp;NatureHow mRNA cancer vaccines still destroy tumors when a key immune cell is missing&nbsp;&nbsp;Medical Xpress‘The odds were against me’: How an experimental pancreatic cancer vaccine changed a woman’s life&nbsp;&nbsp;ClickOnDetroit |",
+      "summary": "After a year of turmoil, cancer researchers see promising signs for mRNA vaccines&nbsp;&nbsp;CNNPancreatic cancer mRNA vaccine shows lasting results in an early trial&nbsp;&nbsp;NBC NewsmRNA vaccines engage unconventional pathways in CD8+ T cell priming&nbsp;&nbsp;Nature‘The odds were against me’: How an experimental pancreatic cancer vaccine changed a woman’s life&nbsp;&nbsp;ClickOnDetroit | WDIV Local 4mRNA vaccines could treat aggressive pancreatic cancer&nbsp;&nbsp;Morning Brew",
       "sources": [
         {
           "name": "CNN",
@@ -741,7 +777,7 @@
       "id": "354882e9c02c",
       "title": "New COVID subvariant ‘Cicada’ on the rise in California, just in time for summer - Los Angeles Times",
       "published": "2026-04-20T10:00:00+00:00",
-      "summary": "New COVID subvariant ‘Cicada’ on the rise in California, just in time for summer&nbsp;&nbsp;Los Angeles TimesNew ‘Cicada' COVID variant raises concerns as summer approaches&nbsp;&nbsp;NBC Bay AreaCOVID's old takeover pattern is breaking: BA.3.2 hits children more often while global variant replacement stalls&nbsp;&nbsp;Medical XpressHealth Officials Warn of ‘Hyper-Mutated’ COVID Strain That First Appeared In US Last June&nbsp;&nbsp;SFistExperts say COVID-19 subvariant ‘Cicada’ is spreading as su",
+      "summary": "New COVID subvariant ‘Cicada’ on the rise in California, just in time for summer&nbsp;&nbsp;Los Angeles TimesCOVID's old takeover pattern is breaking: BA.3.2 hits children more often while global variant replacement stalls&nbsp;&nbsp;Medical Xpress‘Cicada’ COVID is spreading and may be more contagious. What about Florida?&nbsp;&nbsp;Miami HeraldHealth Officials Warn of ‘Hyper-Mutated’ COVID Strain That First Appeared In US Last June&nbsp;&nbsp;SFistNew ‘Cicada' COVID variant raises concerns as s",
       "sources": [
         {
           "name": "Los Angeles Times",
@@ -765,11 +801,23 @@
       "id": "3339ecd1e260",
       "title": "As Measles Takes Toll on Kids, Anti-Vaxxers Have Change of Heart - Bloomberg.com",
       "published": "2026-04-20T09:00:10+00:00",
-      "summary": "As Measles Takes Toll on Kids, Anti-Vaxxers Have Change of Heart&nbsp;&nbsp;Bloomberg.comAs measles takes toll on kids, anti-vaxxers in US have change of heart&nbsp;&nbsp;The Straits TimesUS measles outbreak shows signs of slowing as WHO notes millions of lives saved in Africa by vaccination&nbsp;&nbsp;CIDRAPPAHO Situation Report No.1: Measles in the Region of the Americas (15 April 2026) - Mexico&nbsp;&nbsp;ReliefWebGlobal Virus Network on Measles Resurgence&nbsp;&nbsp;GlobeNewswire",
+      "summary": "As Measles Takes Toll on Kids, Anti-Vaxxers Have Change of Heart&nbsp;&nbsp;Bloomberg.comAs measles takes toll on kids, anti-vaxxers in US have change of heart&nbsp;&nbsp;The Straits TimesSurging Measles Cases In US Prompting Antivaxxers To Quietly Embrace MMR Vaccine: Report&nbsp;&nbsp;Health and MeUS measles outbreak shows signs of slowing as WHO notes millions of lives saved in Africa by vaccination&nbsp;&nbsp;CIDRAPGlobal Virus Network on Measles Resurgence&nbsp;&nbsp;GlobeNewswire",
       "sources": [
         {
           "name": "Bloomberg.com",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOHBVTlhJeW5JR2VoZmtGZGd1ZVFZUG9hbTJ4OHJfdmpaMlpETzRXRDl0TnBGTmVfZ2R4cXIwcmtCa1lxYTh5S3lUWS1qZlI2OVpBY003bzhjN1BaaFJqZ1VfdlVMSUlBRk0xdXdpd0FHYkJrZUhvMnFlLVYwd1BJT1FFN3VrMlk0S1RWd1d6UmZ1TGU0OUtPcGtISTk0S081dUhacmxNOGwxSjcxQkFTT2k0bVRSQnphY0hudUk0eFk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9e7f69869f26",
+      "title": "Got wearable data? Your doctor can help you connect the dots - NPR",
+      "published": "2026-04-20T09:00:00+00:00",
+      "summary": "Got wearable data? Your doctor can help you connect the dots&nbsp;&nbsp;NPRBeyond the Clinic: Wearables Bring Real-Time Insight into Oncology and Medicine&nbsp;&nbsp;the-scientist.comData overload: Reclaiming health in an era of on-demand metrics&nbsp;&nbsp;The StarCan You Really Trust Your Sleep-Tracking Wearable?&nbsp;&nbsp;Baptist HealthWearable medical devices: Getting into tech, talk and the ‘rehabilitation mindset’&nbsp;&nbsp;Medical Economics",
+      "sources": [
+        {
+          "name": "NPR",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FalNkZUliT29kanVKQ1RiQ0JJcGJzeDVDaDJzMHFyT00tTnY1Mkt0Y05ubm0xZnAxcDR6N2xxeTJSc0MyY0RYNExDeDByeUFzTzBYTWg1T0ZHLWxaWDQ0S0MzaVM2MmlxSmVKb2tEcDN0VFR1MVM5WThn?oc=5"
         }
       ]
     },
@@ -782,30 +830,6 @@
         {
           "name": "The New York Times",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ203YlF5ZWJkd1Z4dEZ5ZEdQMmpTczdObVh1V3JUUWQxaWViV2pkeXFFZ0hqMy1CWWxQR2RSRHVFN2N4WnF2Y1BzU3gwT3dpRjNuWXVUek96dXdBWTNQRWxDdlQ2OGlmUDRkdWlzR29rYm1sNXluT3BhcEFMT0JMUVpoZksyUDdxcUpsMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7af8ccf5318f",
-      "title": "US scientists unveil concept for ‘world’s first neutrino laser’ to unlock breakthroughs - Interesting Engineering",
-      "published": "2026-04-20T06:49:00+00:00",
-      "summary": "US scientists unveil concept for ‘world’s first neutrino laser’ to unlock breakthroughs&nbsp;&nbsp;Interesting Engineering",
-      "sources": [
-        {
-          "name": "Interesting Engineering",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVVA4azFHeE9JUFVXNko3VDFZdTJxR0pqZXVjUDlNOV9JbzBaVkZhaFhZRjFsVzJ5Xy1LLU94ZmVaRjdNMVVIZkgyVWZva1VueXNqaUJjQUJrZ0t2QjVHUjFoeW40Y1YtX29QU1RqUTE5TW05WHRteGdLb3ZiQU9rbFZwdGtmNXI2LWYycVBUek5DbTJacUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b4f7d527dc08",
-      "title": "A Bolivian Mummy's Tooth Is Rewriting The History of Scarlet Fever - ScienceAlert",
-      "published": "2026-04-20T03:04:34+00:00",
-      "summary": "A Bolivian Mummy's Tooth Is Rewriting The History of Scarlet Fever&nbsp;&nbsp;ScienceAlert700-year-old mummy from Bolivia contains earliest confirmed evidence of strep throat bacteria in the Americas&nbsp;&nbsp;Live ScienceNews - Scarlet Fever Bacterium Detected in 700-Year-Old Tooth&nbsp;&nbsp;Archaeology MagazineA disease no one has seen in 5,500 years just emerged from ancient bones&nbsp;&nbsp;Futura, le média qui explore le mondeScarlet Fever, Causes, Symptoms, Treatment, Latest News&nbsp;&n",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWkk1MjdzWnE3LXY4NUxVekhYOVhkVWEtQjc4LVhjWC0zWld6dGZBWkZUdWRpSTNwUjFiV3Zib3ZBYkVDU2YwZHBvOWNOcVA0VXNid095dEpvY3J5UHlRU2hjNXlLZGhCT3Y4SlVzZ2lucFFGUVY1Mk9kampscWFuRGhERkk5clV0Nm1NWkZaU1ZkVzI3WWdSNVd3?oc=5"
         }
       ]
     }

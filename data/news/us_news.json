@@ -1,14 +1,14 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-04-26T03:21:22.071694+00:00",
+  "fetched_at": "2026-04-26T07:44:42.812367+00:00",
   "total_fetched": 140,
   "unique_count": 140,
-  "health_related_count": 64,
+  "health_related_count": 65,
   "news": [
     {
       "id": "c275e78e6d72",
       "title": "College Student Dies Hours After First Showing Symptoms of Highly Contagious Deadly Disease Often Mistaken for the Flu - AOL.com",
-      "published": "2026-04-26T02:19:15+00:00",
+      "published": "2026-04-26T04:06:15+00:00",
       "summary": "College Student Dies Hours After First Showing Symptoms of Highly Contagious Deadly Disease Often Mistaken for the Flu&nbsp;&nbsp;AOL.comCollege Student Dies Hours After Showing Symptoms of Meningococcal Disease&nbsp;&nbsp;People.comAustralia: Perth student dies of Meningococcal infection; 21-year-old fell ill on flight, died hours later&nbsp;&nbsp;The Times of India'My son boarded a flight home with a headache - but four hours later he was dead'&nbsp;&nbsp;The Mirror21-Year-Old Dies After Contr",
       "sources": [
         {
@@ -18,14 +18,14 @@
       ]
     },
     {
-      "id": "a7b58afaef8b",
-      "title": "Is Sleeping on Your Left Side Bad for Your Heart? A Doctor Shares the Truth - AOL.com",
-      "published": "2026-04-26T01:57:08+00:00",
-      "summary": "Is Sleeping on Your Left Side Bad for Your Heart? A Doctor Shares the Truth&nbsp;&nbsp;AOL.com",
+      "id": "9a158228b01a",
+      "title": "The threat of light pollution puts the world’s darkest skies in the Atacama Desert at risk - AP News",
+      "published": "2026-04-26T04:03:00+00:00",
+      "summary": "The threat of light pollution puts the world’s darkest skies in the Atacama Desert at risk&nbsp;&nbsp;AP NewsView Full Coverage on Google News",
       "sources": [
         {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wUFpCNVMxck9lY1R4dG93amVYV0VMeWY0SXdHcVV2MnFRQ1N1b0lGZ0hBNmt4MVRqb2lNbGRjZGJnYWxkR1hDRnBpbHV5UVJEU1NqbzhWeTZWeFFmeVF4RUlvV281ZWYtcUZmNXFhb2U?oc=5"
+          "name": "AP News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbjFLUnMtdkNVMm1sNkpicDZQN3JqdUtSZnpmQm5KVG0tSjRqRURhZGNKZWx2Wno1RFVyaVExaThjNXZNclRfV1BId2xoeDRYMDcwMl9SbFI5Tjg0ZG9mb1h0bzRKQVh5czZHV091aEkxeENHZ3VvdlJSV1MzWHJtTjNYLUVqYW5JczV0WHhfUk9aQUQxelRhZG1zMmhKSXZXRXphQ0xOdzNoWU80b2ZkU00xcTFQYkFScEE?oc=5"
         }
       ]
     },
@@ -69,11 +69,23 @@
       "id": "4745e3e11adc",
       "title": "Scientists Reveal The Optimal Amount of Sleep to Lower Dementia Risk - ScienceAlert",
       "published": "2026-04-25T21:02:27+00:00",
-      "summary": "Scientists Reveal The Optimal Amount of Sleep to Lower Dementia Risk&nbsp;&nbsp;ScienceAlertView Full Coverage on Google News",
+      "summary": "Scientists Reveal The Optimal Amount of Sleep to Lower Dementia Risk&nbsp;&nbsp;ScienceAlertDaytime sleepiness and napping linked to heightened neurodegenerative disease risk&nbsp;&nbsp;동아사이언스Oops—Scientists Severely Underestimated How Much Skipping a Few Hours of Sleep Impacts Dementia Risk&nbsp;&nbsp;AOL.comOptimal sleep may reduce dementia risk in patients with focal epilepsy&nbsp;&nbsp;Medical XpressPoor Sleep May Raise Dementia Risk in People with Epilepsy&nbsp;&nbsp;Brain & Life",
       "sources": [
         {
           "name": "ScienceAlert",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ25rVjc5ZHFwQkdRUXBpYW50OUphU0lqNDFycjBwWUlhYlpFcDVlR1ZIcURZekgtQjhQWVdCd0ZBeHhCQUxzRlpnMTNLZUJOWjFXeFZTMEVHdC1USmpCX1VlalhrUU1SdDBiYjcwZ0dtT25vMFBkZGNQc0xHTEdhM2lpSTFPc1dKSWZGRms0bXBqVHg1S1ZWWk1yQWNBZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "80439dd2177c",
+      "title": "80 Going on 50: The Secret Behind ‘SuperAger’ Brains - inc.com",
+      "published": "2026-04-25T20:13:28+00:00",
+      "summary": "80 Going on 50: The Secret Behind ‘SuperAger’ Brains&nbsp;&nbsp;inc.com",
+      "sources": [
+        {
+          "name": "inc.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSXd4cktUVEpXam9xMmc5ODdYN3FIQjBQZnFPcUZUWFJjUi03M1pFQVdMY1RHeFhKSmo5VG4xZFdvM3M3QTlPUVRSVEFKVElTVGVTWElUSE9MenJsOFltNVBtbmFwTG5BQzBsYVpmM19lMDFKNjVwZDZrblBrTmluWUJTUU02b3BkemZPaTRtTko0VW1aNHc?oc=5"
         }
       ]
     },
@@ -93,11 +105,23 @@
       "id": "acc30f411503",
       "title": "Researchers Find Fungus Surviving in NASA Clean Rooms - Newser",
       "published": "2026-04-25T18:40:00+00:00",
-      "summary": "Researchers Find Fungus Surviving in NASA Clean Rooms&nbsp;&nbsp;NewserCould an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough.&nbsp;&nbsp;The New York TimesNASA cleanroom fungus could survive a trip to Mars, raising contamination concerns&nbsp;&nbsp;AOL.comCan Fungi Survive the Martian Landscape? A New NASA Study Offers Surprising Answers&nbsp;&nbsp;The Daily GalaxyMars missions face new contamination risk from hardy fungus&nbsp;&nbsp;Earth.com",
+      "summary": "Researchers Find Fungus Surviving in NASA Clean Rooms&nbsp;&nbsp;NewserCould an Earthly Fungus Contaminate Mars? NASA May Have Found One Hardy Enough.&nbsp;&nbsp;The New York TimesThis Fungus Can Survive Deep-Space Conditions – And Could Hitch a Ride to Mars&nbsp;&nbsp;ScienceAlertMars missions face new contamination risk from hardy fungus&nbsp;&nbsp;Earth.comNASA cleanroom fungus could survive a trip to Mars, raising contamination concerns&nbsp;&nbsp;AOL.com",
       "sources": [
         {
           "name": "Newser",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWkFtWTNuQ2RLNEJuaHNJTW1PTUVWRmVfcXVtLUpxUHUwbXdpWE9CNTVGanpXNXhtLVNFbmNXYnJUYnlfdU91Q1ppLWpNSlpHZWR2TkFVRHNid3g0eXBwRGgtbGVidW5mUGJlWDdVdkQ0RzdCemx2Z2hHSXROeGNBb1VvekJveXpMQjZvVHJvWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d3421dc0fc70",
+      "title": "Depression treatment is shifting, and this mushroom-derived compound is driving one of psychiatry's biggest new tests - Medical Xpress",
+      "published": "2026-04-25T18:00:06+00:00",
+      "summary": "Depression treatment is shifting, and this mushroom-derived compound is driving one of psychiatry's biggest new tests&nbsp;&nbsp;Medical XpressARPA-H announces first research teams for $139 million initiative to transform behavioral health and bring new, more precise and effective treatments to Americans&nbsp;&nbsp;HHS.govRepeated doses of psilocybin show promise for treating obsessive-compulsive disorder&nbsp;&nbsp;PsyPost“Magic Mushrooms” and the Treatment of Mental Illness&nbsp;&nbsp;Psycholo",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV0VZN0dzU0FfbFFZSDE4cm40azFFRS01RGF6MEpvRTl3cG1RazU4cDFVOW44dENTWFpNQWxwa0FRakhpYkJuZTczeHVHSDRmOWlPcjdXUEV3eWxraWJfLVh6ckx2UHpwZmFnMHp6b0NOOHFsSmdtb3VZd2ExMEZKRTNvdmZtZnFEeFBmYmgzMnhMQkpZ?oc=5"
         }
       ]
     },
@@ -117,7 +141,7 @@
       "id": "5fb732dd404b",
       "title": "Doctors Surprised by the Power of a Simple Drug Against Colon Cancer - SciTechDaily",
       "published": "2026-04-25T16:30:20+00:00",
-      "summary": "Doctors Surprised by the Power of a Simple Drug Against Colon Cancer&nbsp;&nbsp;SciTechDailyAspirin can reduce the risk of cancer - and we're starting to understand why&nbsp;&nbsp;BBCCommon painkiller linked to major cancer prevention breakthrough&nbsp;&nbsp;MSNColorectal Cancer: Can Low Dose Aspirin Lower Your Risk?&nbsp;&nbsp;HealthlineAspirin's anti-cancer effects prompt new guidelines, but wider use remains debated&nbsp;&nbsp;동아사이언스",
+      "summary": "Doctors Surprised by the Power of a Simple Drug Against Colon Cancer&nbsp;&nbsp;SciTechDailyAspirin can reduce the risk of cancer - and we're starting to understand why&nbsp;&nbsp;BBCColorectal Cancer: Can Low Dose Aspirin Lower Your Risk?&nbsp;&nbsp;HealthlineCommon household medicine could help reduce risk of cancer&nbsp;&nbsp;tyla.comAspirin's anti-cancer effects prompt new guidelines, but wider use remains debated&nbsp;&nbsp;동아사이언스",
       "sources": [
         {
           "name": "SciTechDaily",
@@ -129,7 +153,7 @@
       "id": "ec5966a419cb",
       "title": "Scientists just discovered Africa is closer to breaking apart than we thought - Science Daily",
       "published": "2026-04-25T16:27:15+00:00",
-      "summary": "Scientists just discovered Africa is closer to breaking apart than we thought&nbsp;&nbsp;Science DailyNecking of the active Turkana Rift Zone and the priming of eastern Africa for continental breakup&nbsp;&nbsp;NatureAfrica's Continent Is Tearing Apart And Revealing A Hotbed Of Ancient Human Remains&nbsp;&nbsp;IFLScienceA huge tectonic boundary shook the ground where dinosaurs once stood&nbsp;&nbsp;Phys.orgResearchers Uncover Source of Strange Deformation in Earth’s Largest Continental Rift&nbsp",
+      "summary": "Scientists just discovered Africa is closer to breaking apart than we thought&nbsp;&nbsp;Science DailyAfrica could split apart sooner than scientists thought&nbsp;&nbsp;Scientific AmericanNecking of the active Turkana Rift Zone and the priming of eastern Africa for continental breakup&nbsp;&nbsp;NatureA huge tectonic boundary shook the ground where dinosaurs once stood&nbsp;&nbsp;Phys.orgResearchers Uncover Source of Strange Deformation in Earth’s Largest Continental Rift&nbsp;&nbsp;SciTechDaily",
       "sources": [
         {
           "name": "Science Daily",
@@ -141,7 +165,7 @@
       "id": "8ce552fc8291",
       "title": "Along with rapid weight loss, patients see other benefits and risks of GLP-1 drugs - WPEC",
       "published": "2026-04-25T16:26:31+00:00",
-      "summary": "Along with rapid weight loss, patients see other benefits and risks of GLP-1 drugs&nbsp;&nbsp;WPECResearchers behind GLP-1 obesity drugs advance new approach: Drop GLP-1 as a target&nbsp;&nbsp;statnews.comGLP-1 agonists and changes in body mass and composition in adults with overweight or obesity with or without type 2 diabetes mellitus: a systematic review and meta-analysis&nbsp;&nbsp;NatureMillions are losing weight on Ozempic and Wegovy — here's what an orthopedic surgeon wants every patient ",
+      "summary": "Along with rapid weight loss, patients see other benefits and risks of GLP-1 drugs&nbsp;&nbsp;WPECGLP-1 agonists and changes in body mass and composition in adults with overweight or obesity with or without type 2 diabetes mellitus: a systematic review and meta-analysis&nbsp;&nbsp;NatureResearchers behind GLP-1 obesity drugs advance new approach: Drop GLP-1 as a target&nbsp;&nbsp;statnews.comFat jabs for all will herald an epidemic of smugness&nbsp;&nbsp;The TelegraphSemaglutide May Cut Depressi",
       "sources": [
         {
           "name": "WPEC",
@@ -150,9 +174,21 @@
       ]
     },
     {
+      "id": "5156c0e6f7fe",
+      "title": "Nancy Cox, a CDC veteran and a stalwart in global flu research, dies at 77 - statnews.com",
+      "published": "2026-04-25T16:20:16+00:00",
+      "summary": "Nancy Cox, a CDC veteran and a stalwart in global flu research, dies at 77&nbsp;&nbsp;statnews.com",
+      "sources": [
+        {
+          "name": "statnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZV05sWE91NThxVWRLOEtuRWFMSi1OcDFXdlJBMHBfU2Z5WjNyRnhoOVVXbVJvcEQ1WlVsQ2xrRmR2azd4cHFTYnIzS3IwbmF0Y2szSW5OcUd5bmFvc1Q4U2phdG1NWVM4bVI1YzJ1RHMzQmVYRVFGOVVn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "84fb7fb0d095",
       "title": "Studying the emergence of leaders in moving crowds of pedestrians - Phys.org",
-      "published": "2026-04-25T15:00:38+00:00",
+      "published": "2026-04-25T15:21:54+00:00",
       "summary": "Studying the emergence of leaders in moving crowds of pedestrians&nbsp;&nbsp;Phys.org",
       "sources": [
         {
@@ -186,10 +222,22 @@
       ]
     },
     {
+      "id": "4de087b0ae2c",
+      "title": "Fruits, veggies can actually fuel lung cancer risk in young non-smokers: shocking study - New York Post",
+      "published": "2026-04-25T14:28:00+00:00",
+      "summary": "Fruits, veggies can actually fuel lung cancer risk in young non-smokers: shocking study&nbsp;&nbsp;New York PostEating fruits, vegetables and whole grains may increase chance of early onset lung cancer&nbsp;&nbsp;Keck Medicine of USCStudy links lung cancer to eating fruits and veg: What this means&nbsp;&nbsp;Medical News TodaySurprising study finds healthy fruit, vegetable diet may increase risk of lung cancer in younger people&nbsp;&nbsp;KTVULung Cancer Risk in Young Nonsmokers Linked to Fruits",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRno0d1A1OXhZTUx6eDFmamt1U0lZYWRrcFRPbEpETDJoYUZhMXM3dm16dVN5bUdkblRxSVlLd2x5R1M5UWRYc0M5M3RnZWFMSWJyal91OHVOUlU0VVVhOHFYb29kMm5Ua2pXRXE1MXc5OWdLOXRjT3FEa1RiUWdZMkdDUmJEa0E0T1Z2U0RIWk1RYnpCM3dWLS0tazUtd3VN?oc=5"
+        }
+      ]
+    },
+    {
       "id": "08f97acdc97b",
       "title": "Air Purifiers Could Boost Your Brain Function, Study Suggests - ScienceAlert",
       "published": "2026-04-25T14:01:51+00:00",
-      "summary": "Air Purifiers Could Boost Your Brain Function, Study Suggests&nbsp;&nbsp;ScienceAlertView Full Coverage on Google News",
+      "summary": "Air Purifiers Could Boost Your Brain Function, Study Suggests&nbsp;&nbsp;ScienceAlertHEPA air purifiers may boost brain power in adults over 40 – new research&nbsp;&nbsp;Good.is",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -198,26 +246,14 @@
       ]
     },
     {
-      "id": "9739cddbd5f3",
-      "title": "Plenty of Supplements Claim to Help Your Brain. These 5 Actually Do It. - Men's Health",
-      "published": "2026-04-25T14:00:00+00:00",
-      "summary": "Plenty of Supplements Claim to Help Your Brain. These 5 Actually Do It.&nbsp;&nbsp;Men's Health",
+      "id": "c114a4aabfb0",
+      "title": "The hidden signs in your gut that may indicate Parkinson’s disease before symptoms emerge - New York Post",
+      "published": "2026-04-25T13:00:00+00:00",
+      "summary": "The hidden signs in your gut that may indicate Parkinson’s disease before symptoms emerge&nbsp;&nbsp;New York PostMicrobiome signature of Parkinson’s disease in healthy and genetically at-risk individuals&nbsp;&nbsp;NatureParkinson's: Gut changes may begin years before symptoms begin&nbsp;&nbsp;Medical News TodayGut microbiome can reveal risk of Parkinson’s, scientists say&nbsp;&nbsp;The GuardianGut biopsies could predict dementia, Parkinson's and MND years before symptoms develop&nbsp;&nbsp;Med",
       "sources": [
         {
-          "name": "Men's Health",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbjZTNkRQdGRUMmhuXzhJYzJQMGRqN2RnOEtwMTZGbExGbjFOUHgwQ0hSbV9CcVlEbmVTX3E3NS1XWmRyV0Z1V21vR1VVVkctMWN5OGowZFRXUjlFT0htNUFpT2VHbnVWbHpDbVVVYml2YkVWXzZqTGZMU2pCeDNBMC1Jb0FmLWJwVjc3VWhPQlZ2YXowVE5N?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "60a2b9b870cd",
-      "title": "Gut Bacteria Could Be a Hidden Trigger For Neurodegenerative Diseases - ScienceAlert",
-      "published": "2026-04-25T12:04:17+00:00",
-      "summary": "Gut Bacteria Could Be a Hidden Trigger For Neurodegenerative Diseases&nbsp;&nbsp;ScienceAlertHow neurons sense bacteria in the gut&nbsp;&nbsp;EurekAlert!Early Laboratory-Based Study Explores the Biological Link Between Inflammatory Gut Bacteria and FTD and ALS Disorders&nbsp;&nbsp;AFTD - The Association for Frontotemporal DegenerationCase Western Reserve links gut bacterial sugars to ALS FTD&nbsp;&nbsp;NewsBytesGut bacteria produce sugar that may trigger brain cell damage&nbsp;&nbsp;Earth.com",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUFM3aEtxV1FJcDAydHBnQV84S3dCSW92aGxsN2d3NU1KR3o2bktaY19ocW1iZUVXRHl4NW80VXhYT1h1SE1LUTI0VUhMZnQ2ckkweldRZ0RUU2pkdmh6LXZnLWRHbU1tOHFDRFJiemlSel85MTBTOHVzSmxOWHBzRV9fazJoa0tGX3BxaXFDbjdaNjVqNXhad3ZpWnlpQ28?oc=5"
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZHUtQk5QTkVDazhhNDlxZlFHWXI4blZXbGZySXJCWGJpT1JfXzZld0tZTzN3c0JwUzBaTkIwTDlwRW5NLTBiYS1lTllmdFVRZ1dqcldFTzlKcEhtU29ZNjFMdDQwandjaUNnX2JHYzBmWnZnNk5uYUNNenB2OXNtWTJUM1RwSkhFeE9NTWI5R3ZBYmQ2Y1NCTUZENE9DR2pn?oc=5"
         }
       ]
     },
@@ -330,6 +366,30 @@
       ]
     },
     {
+      "id": "9a9455f45bd9",
+      "title": "Your daily coffee habit may be quietly reshaping your gut and mood, study finds - New York Post",
+      "published": "2026-04-25T08:43:00+00:00",
+      "summary": "Your daily coffee habit may be quietly reshaping your gut and mood, study finds&nbsp;&nbsp;New York PostView Full Coverage on Google News",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONGdUX0daRG9hOTd5YnlXV0E5U08xeDZhUzZEVW9HbHVaUm9pRk95dTRhaWVIRGxBX1dRRFFWLV9GSTZlLU1QUUQzTE96andsQmdDNUxENU5tRFNjMlVxVlBudjdFVWJJZUgtMjh2SjEtbzZtTk9ZUFJMbmxCdkwwVHRCRjV4QmZqMkc0bVBkRnJjaFZnSnQzOFZLTElKZGpDZlR3MmxFQTJqalRHUWJOdm1NQ2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "583f797c1f2e",
+      "title": "Rectal cancer: Millennials with family history may need screening at 35 - NewsNation",
+      "published": "2026-04-25T04:27:24+00:00",
+      "summary": "Rectal cancer: Millennials with family history may need screening at 35&nbsp;&nbsp;NewsNationRectal cancer deaths rising rapidly among millennials: 'It's a medical crisis.'&nbsp;&nbsp;NBC NewsYoung Adult Bowel Cancer Deaths Concentrated in One Group, Study Finds&nbsp;&nbsp;ScienceAlertEarly-onset colorectal cancer on the rise in Switzerland&nbsp;&nbsp;lenews.chThe Cancer Crisis We Can See Coming And Have the Tools to Change&nbsp;&nbsp;MedCity News",
+      "sources": [
+        {
+          "name": "NewsNation",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91X0RSYjdkdWNuQXpsQkxJRGFwME9JYW42bWx1ZkI5ZjJqUjFmRkVoU2VJbm55d0lWU0V2VG44OXphZTVDc2dBbUI5ai1QdHZiMVBmR0Voc1Q5b3liQjBpejl0WjQ5NDZEcDBTSGJ0S3pTSjVVTEt1eHI4b9IBgAFBVV95cUxNc2R2U3UyVGw5WUFDS043WU1TQnZRbU9zTlItVHIyT2wzQU00WkR2RDQtUGdNMVRQTWZNaGVrallmbldGY3JfYkI1M2dJUGVNUnM4VHBlQ0w4WDJnTlV3QnRLVGJlRHEtMzdlU1NYbkl2cWtWWlhsWmd4UGs0YWVydg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f0843f767446",
       "title": "3 Surprising Habits That Could Raise Your Stroke Risk, According to a Neurologist - AOL.com",
       "published": "2026-04-25T03:12:03+00:00",
@@ -338,6 +398,18 @@
         {
           "name": "AOL.com",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYjNDbjVUUFpjTmpJLWRkemNvUXpYMEdKLTlHZ0E1d0hTMHVubm5CSmdPT2FiNVlLdmxBQnE2d1FYNjdabXpKQndNdnVBMDUwSXhfbEJmcVFqS0h3RkNZYXJOZHZFN2ZHWmNHVnlPOUZUazhMczd1UkhMVldYNXQ3dQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "33ef623f22d6",
+      "title": "Consumer Reports: Are fish oil pills really helpful? - AZ Family",
+      "published": "2026-04-25T01:32:00+00:00",
+      "summary": "Consumer Reports: Are fish oil pills really helpful?&nbsp;&nbsp;AZ FamilyScientists Uncover Potential Brain Risks of Popular Fish Oil Supplements&nbsp;&nbsp;SciTechDaily'Important' nutrient for cardiovascular health that many people lack&nbsp;&nbsp;Belfast LiveWhen omega-3 may help mental health and when they may not&nbsp;&nbsp;News-MedicalFish oil may be hurting your brain, new study finds&nbsp;&nbsp;Science Daily",
+      "sources": [
+        {
+          "name": "AZ Family",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVzdkR0RYcHNVZU04UVlqbUd0RFBOdXRQZ1ZNV2FucGZtclBQVHFJLXVPdlROSkVJLVpLeWdCdlNOTnJ3WU9JVk85MVVjTnBYUkRTVmRJSXhZWDd6Q3NHNUpMUXRPZlpkZk5zNG1lSkwzelZ4OC1qVXlVWXlBSVlrOEgtcGJ5eWdIZTdXRWs5U3DSAaQBQVVfeXFMUEp5M1ZDY29OQ1MtT1dhZ2taNDVTOGJHSVFZQ3JsLVdyU0VnR25pd2UyaTNGNlR6S2dWU1hXVXBIdC1zX2J5SEZIZ05kd0N3STkxb1EwTXdadEdySFBoSTFab0VrZFgwVlpfVkRHMUVBSTdoVWx0d08zYW5vbEkyeTZDMGk1dGxyNHhmaFUzc3RFN1R3dFlPQWg3LXZ2UkE2NDV6UVY?oc=5"
         }
       ]
     },
@@ -426,26 +498,14 @@
       ]
     },
     {
-      "id": "c1283eb23bb2",
-      "title": "Molecular Trigger for Alzheimer’s Brain Inflammation Found - Neuroscience News",
-      "published": "2026-04-24T20:11:57+00:00",
-      "summary": "Molecular Trigger for Alzheimer’s Brain Inflammation Found&nbsp;&nbsp;Neuroscience News",
+      "id": "5856b89f8a10",
+      "title": "La Jolla Lab Finds Brain ‘Kill Switch’ That Could Stall Alzheimer’s - Hoodline",
+      "published": "2026-04-24T20:06:23+00:00",
+      "summary": "La Jolla Lab Finds Brain ‘Kill Switch’ That Could Stall Alzheimer’s&nbsp;&nbsp;Hoodline‘This is a huge finding’: UCSD researchers work on way to prevent Alzheimer’s disease with molecular ‘switch’&nbsp;&nbsp;San Diego Union-TribuneImmature Neurons and the Secret to Alzheimer’s Resilience&nbsp;&nbsp;Neuroscience NewsAlzheimer’s Paradox: Why One-Third of Patients Never Lose Their Minds&nbsp;&nbsp;ScienceBlog.comWhy Some People With Alzheimer’s Markers Never Develop Symptoms&nbsp;&nbsp;MindBodyGree",
       "sources": [
         {
-          "name": "Neuroscience News",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JT1FoYzhwM05mbUttRkhsZmtNSk1jc1Bmd0hBSm4tLXdnVGE2REJWd2p3Y3R3MzlWaC1UbEtiWEJ1b25vbnJ5QVpLY3RvNjhOY09SWlA2SU1mNFlaX3VlRFEtQ3dPckJpelE1R3F5WUtCS0pJRkREODFZZGozQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e3dea4af5557",
-      "title": "A real-life Kraken stalked the seas of the late Cretaceous - NPR",
-      "published": "2026-04-24T20:03:05+00:00",
-      "summary": "A real-life Kraken stalked the seas of the late Cretaceous&nbsp;&nbsp;NPRFossil discovery reveals ‘hidden’ apex predator that rivaled marine reptiles 100 million years ago&nbsp;&nbsp;CNNScientists just discovered a 60-foot-long, kraken-like octopus&nbsp;&nbsp;The Washington PostJaw fossils suggest a 60-foot octopus was the ‘kraken’ of the Cretaceous&nbsp;&nbsp;National Geographic60-foot octopus prowled seas as apex predator during age of dinosaurs, fossilized jaws show&nbsp;&nbsp;CBS News",
-      "sources": [
-        {
-          "name": "NPR",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUjN0Nms0aklPZ0VNQndBeFJ2QWY3a3VPVWpPdjJBR1E4SmxlUHFCdTl4am5RUklQTXpaZTIwTHB4MHM2VWs1UWdEVklyV29JXzhGdFgtSHh5bXZXZUludnJyejRaaVhtaTRYVlc3Z1JHZ2ptVlc5WUxwMHJ5ZEZ6aWZYRDdCODVk?oc=5"
+          "name": "Hoodline",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdG5vd0xPN2FrU0V5ZF9BNnIxWU93dXY0Q0ktaGNPQUxIc2p2RTNYX1hKMm1BZ0ZtcDRaX2Y2eHRnejBWMXdkdVJrZ3p2RTFad2N6NGRvRU5EUHhid0pnWklMd0hLblRXX0lBNFZ4Nk1ybXBsU25vc2tta2U1R2QtMFB3YlN6RC1kRkZnckVjeFRhVG5jQldQU05UNA?oc=5"
         }
       ]
     },
@@ -477,7 +537,7 @@
       "id": "bae4c363f9f4",
       "title": "6 animals test positive for rabies in RI - WPRI.com",
       "published": "2026-04-24T18:49:43+00:00",
-      "summary": "6 animals test positive for rabies in RI&nbsp;&nbsp;WPRI.comRIDOH: 6 Rabid Animals Found Across 3 RI Communities&nbsp;&nbsp;Go Local ProvHealth officials warn public after 6 rabid animals found in Providence County&nbsp;&nbsp;WJARTown issues rabies alert after three raccoons test positive in Burrillville&nbsp;&nbsp;NRI NOWSix wild animals positive for rabies in Providence County, according to health officials&nbsp;&nbsp;The Boston Globe",
+      "summary": "6 animals test positive for rabies in RI&nbsp;&nbsp;WPRI.comRIDOH: 6 Rabid Animals Found Across 3 RI Communities&nbsp;&nbsp;Go Local ProvHealth officials warn public after 6 rabid animals found in Providence County&nbsp;&nbsp;turnto10.comTown issues rabies alert after three raccoons test positive in Burrillville&nbsp;&nbsp;NRI NOWSix wild animals positive for rabies in Providence County, according to health officials&nbsp;&nbsp;The Boston Globe",
       "sources": [
         {
           "name": "WPRI.com",
@@ -486,14 +546,14 @@
       ]
     },
     {
-      "id": "296949e8a75e",
-      "title": "One Common Habit Can Make Your Insomnia Worse, Expert Explains - ScienceAlert",
-      "published": "2026-04-24T18:01:56+00:00",
-      "summary": "One Common Habit Can Make Your Insomnia Worse, Expert Explains&nbsp;&nbsp;ScienceAlertNew guidelines for healthcare professionals have been published.&nbsp;&nbsp;Psychology TodayPsychology Matters: “Part of the human stress response can be acute insomnia”&nbsp;&nbsp;British Psychological SocietyOvercoming Insomnia: A Deeper Understanding and Better Treatments&nbsp;&nbsp;DevdiscourseDoctor Explains '3-3-3' Rule That Could Explain Your Sleeping Problems&nbsp;&nbsp;Yahoo News UK",
+      "id": "971f334b9c9e",
+      "title": "Meet the 19-meter Cretaceous kraken that swam with mosasaurs - Ars Technica",
+      "published": "2026-04-24T17:23:49+00:00",
+      "summary": "Meet the 19-meter Cretaceous kraken that swam with mosasaurs&nbsp;&nbsp;Ars TechnicaA real-life Kraken stalked the seas of the late Cretaceous&nbsp;&nbsp;NPRFossil discovery reveals ‘hidden’ apex predator that rivaled marine reptiles 100 million years ago&nbsp;&nbsp;CNNJaw fossils suggest a 60-foot octopus was the ‘kraken’ of the Cretaceous&nbsp;&nbsp;National Geographic60-foot octopus prowled seas as apex predator during age of dinosaurs, fossilized jaws show&nbsp;&nbsp;CBS News",
       "sources": [
         {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSmdtSnhyaEd2M0dfN1EwNjZiNTQzemhuYXg2QUNCdFBGbjliUGF2UzhqS1MxemdnN0FNSGVNcWVUeEY1Nk52eDhRb09RQWdVV2p3Tk1lakx1R3RqUFNhYklTeXdXRWIxaU9fV181emxaZnA4dEl6T2NZR1V6WkVVSWxTZFY1V0E1aFVic0gxLTY0aHZZ?oc=5"
+          "name": "Ars Technica",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdldJamhOdFU0czB4QTl6bmplMmh3Uzc4cEh3VTNHQUZGVmI5M3Y5V3AtU1d3RWpYaUtoLS1oQm5NNmt0aEtTTlM4NkFBY18xNndnT3JkTVJXWU9SallaVVBvVVN2V2c0QjMxSmNwVFBDejljcm9ORUNCaWNGT1ZjSzJTN0Q4OWl6VmtDeGJnWTN5MHVzM2UtN21xMVNNd2dGUWF3?oc=5"
         }
       ]
     },
@@ -510,6 +570,30 @@
       ]
     },
     {
+      "id": "216f4c711f52",
+      "title": "Ultraprocessed foods hurt your focus - even with a healthy diet - The Independent",
+      "published": "2026-04-24T16:37:00+00:00",
+      "summary": "Ultraprocessed foods hurt your focus - even with a healthy diet&nbsp;&nbsp;The IndependentUltra-Processed Foods Erodes Visual Attention&nbsp;&nbsp;Neuroscience NewsUltra-processed foods damage your focus even if you eat healthy&nbsp;&nbsp;Monash UniversityChips today, fog tomorrow? Study links processed foods to waning focus&nbsp;&nbsp;The Straits TimesThe Surprising Way Five Days Of Junk Food Impacts Your Brain&nbsp;&nbsp;MindBodyGreen",
+      "sources": [
+        {
+          "name": "The Independent",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeHJIWEkxQjZ5dkY2STRqQjZEbUlnRE80V3JIcHk1SGl3a1ZRVTNHeERaSDZnV0xiQm91aF85VXFBdXgxaEFBb1NiY0lnWTJiLU5rZ3FLQi0tVG4xNWNWaGJTRDNfbXl2WVpMejhYOWNZLUh4SlFOV2haRnVIZTBYa1ZVek01Nl94WEd3cEVfSC1XLW5hVXN3bVdMcGJWSU40YkRrMmxpc1M2OTZvTE51dzZVc183UEM2aDYtaERR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bd8f90ca96ab",
+      "title": "A doctor set out to find what helps people 'defy disease'—here's what she found: It 'can make a huge difference' - CNBC",
+      "published": "2026-04-24T16:28:05+00:00",
+      "summary": "A doctor set out to find what helps people 'defy disease'—here's what she found: It 'can make a huge difference'&nbsp;&nbsp;CNBC",
+      "sources": [
+        {
+          "name": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS01oclR2cV9GdEpoUnNDbXd5NC1rTHRDakh5bFdZWXVPUmo0eXRPUzhpTUMxTVJ1Rk1udDFMZkFBcUNJbUpjWkN6Q3hEVWRDeGxQT2xOdFB2Tkcyb0Q1QTJHdFlpOFBQZjF0aFFDdGIzRkozWldJbXN2aXExM210TmlXUG1yV1d4NklFY3N0YnN2VmxJSUU5U0pTTmNtNXpuRVh1OWRkcXFtaVV1QlJ30gG0AUFVX3lxTE9oMk1RRHJWajRXeW8tM0c3ZVcwUHJxa2E4LVRKaHlrOW5neUYtY0NyNFVRcUhGQW1teFpRVXBWVTAtSVVYSW54X1k2dFdBMW9OekhkQTdMOXhTR2FYQTg0c0JTSGpHTnV0alJxb1dUa3NzZDBzYWQ0d3NNdEdqWEFEeGdNT2JmbDJXUlJrZTBHalhYc2poMzhZQ3dEN0k1UmVsQjk5d2hJazUycmd0VUltV0Nfdg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7422205d8d76",
       "title": "After 50 Years in Space, Voyager 1 Becomes the First Human-Made Object to Travel One Full Light-Day from Earth - The Daily Galaxy",
       "published": "2026-04-24T16:15:00+00:00",
@@ -522,14 +606,14 @@
       ]
     },
     {
-      "id": "c4da44610d5f",
-      "title": "'Brain-eating' amoebas are nearly always fatal. New treatments may change that. - Live Science",
-      "published": "2026-04-24T16:01:28+00:00",
-      "summary": "'Brain-eating' amoebas are nearly always fatal. New treatments may change that.&nbsp;&nbsp;Live ScienceHealth officials warn of deadly brain-eating amoeba as summer approaches&nbsp;&nbsp;FOX WeatherKerala issues alert on amoebic meningoencephalitis | Tap to know more | Inshorts&nbsp;&nbsp;InshortsKerala Issues Alert on Amoebic Meningoencephalitis: Health Minister Warns Public Over Water Safety Risks&nbsp;&nbsp;Times NowKerala Health Minister Warns of Possible Rise in Amoebic Meningoencephalitis ",
+      "id": "4a370382f8a1",
+      "title": "7 Drinks High in Protein That Aren't Protein Shakes - Health: Trusted and Empathetic Health and Wellness Information",
+      "published": "2026-04-24T15:49:35+00:00",
+      "summary": "7 Drinks High in Protein That Aren't Protein Shakes&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness Information",
       "sources": [
         {
-          "name": "Live Science",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOHM0NGs5THhsU1BOem10QzROU0hjZHh6MHdiNmtzSW9iMjBoMFJkaGhKMzJPakpEMndGRnA3ZlZYWnBCZnpHQXpoMXBYbVRid0c3WDVBbTBOZFFUUWRCd21zZjM2U1JsNkRiUy1tVWIxdElMc3lYOHhiUUpCOUoxeWlyMTBNMW1ZaFJ2VXVpZ05SeEI0SFdaYVpkb1RNSVFySGtiSE5QS3V0c2pMbHhyUTFJRkp0SGpsTE5JaE53RlBzbVB6M2xBdGVCZUd0b1pHVVhz?oc=5"
+          "name": "Health: Trusted and Empathetic Health and Wellness Information",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ0VwRklHelhlY2h0ODJmZWNtTkZmY2pmb3NLWDRvazFvUVdtM0VDdE9rX0VrVkZCTjFlbnR3dERtU0FKVXJsZ1dRLXI2QlI4MnB6QzNrQ1dIU29ISnozbFJPbjMzVjl5MTNlRm9La2xGeW1pSDlQU3dHNFVFbHVyTV9ZNXc0X0U?oc=5"
         }
       ]
     },
@@ -546,18 +630,6 @@
       ]
     },
     {
-      "id": "a8ef3e3260ed",
-      "title": "‘This is a huge finding’: UCSD researchers work on way to prevent Alzheimer’s disease with molecular ‘switch’ - San Diego Union-Tribune",
-      "published": "2026-04-24T15:00:00+00:00",
-      "summary": "‘This is a huge finding’: UCSD researchers work on way to prevent Alzheimer’s disease with molecular ‘switch’&nbsp;&nbsp;San Diego Union-TribuneImmature Neurons and the Secret to Alzheimer’s Resilience&nbsp;&nbsp;Neuroscience NewsAlzheimer’s Paradox: Why One-Third of Patients Never Lose Their Minds&nbsp;&nbsp;ScienceBlog.comWhy Some People With Alzheimer’s Markers Never Develop Symptoms&nbsp;&nbsp;MindBodyGreenUnraveling the mystery of cognitive resilience in aging brains&nbsp;&nbsp;News-Medical",
-      "sources": [
-        {
-          "name": "San Diego Union-Tribune",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUzhVT1VQZGdhRVlBa2Y0ZWQxSzAtWk1wbFc5V3daUFIyRmhCcnlHYndCVDd1RVNKT2RpdzRkd2otRFp4eWZPTkRRVi1sdG0zVnFwUUpXYXp1YUI2bHNDako2Rnhob2cwRUF1Yy1QcVMxckxYdkgxSjBZaEtZVmtHVDFCSGh3X0xWdWxPWFpIMDNXemM4RVB2NTVmNE1WcXE1VzNhMGlqbm1OZmdYRHJQV1l5SHAzSXdvNmM3R0ZMQlgyNEtnYmVWcEtKaExSM09UOWhOZHdacEoyUFJ1Vzh0NnEtazRDckE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a11809e35b7e",
       "title": "New Research Finds Shocking Link Between Chili Peppers and Cancer - SciTechDaily",
       "published": "2026-04-24T14:46:31+00:00",
@@ -570,14 +642,14 @@
       ]
     },
     {
-      "id": "3a544ee72903",
-      "title": "This relaxing activity can reduce your risk of heart disease, dementia, and stroke — and it only takes 10 minutes a day - AOL.com",
-      "published": "2026-04-24T14:35:33+00:00",
-      "summary": "This relaxing activity can reduce your risk of heart disease, dementia, and stroke — and it only takes 10 minutes a day&nbsp;&nbsp;AOL.comIs sauna recovery the secret to surviving spring training?&nbsp;&nbsp;USA TodayThe benefits of hitting the sauna after your workout, according to experts&nbsp;&nbsp;MSNResearch shows that saunas lower heart rate more effectively than exercise and have a definite restorative effect.&nbsp;&nbsp;GIGAZINE",
+      "id": "70e170b62aef",
+      "title": "A New Type of Neuroplasticity Rewires the Brain After a Single Experience - Quanta Magazine",
+      "published": "2026-04-24T14:18:59+00:00",
+      "summary": "A New Type of Neuroplasticity Rewires the Brain After a Single Experience&nbsp;&nbsp;Quanta Magazine",
       "sources": [
         {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQdVVWWGpGRkhRT0lVa0lydjNIYWFlbDBjZEZQX2U4WE90VEcwWC1ncGhZcUNLQXdFQlhRR1h6RS01a0J6R0NPS2lvX0M1SG9LTzh2b1NGNkNfT05CRGFLUEhweEJ5SnVCTWRUZ3g4bmlYWEdKcG12U3FRT0l3UlZTaFVHZjA3S3F4X2ZxeVFxY09VVDZaSGQyY3Q4VHFUX3dndEZ1SnAwOE10NElURjhkdEZKYjNvdnhFc0tTdXBGUnI0Tng1czR6WmMwTzlMclRPVUhfa1FhY2QtSHdNaXNtQlB2U3dNUUZGaUJJSVQ1ZXM2cXR3NGZQV1hSRC1hQl9HaFRtdzdB?oc=5"
+          "name": "Quanta Magazine",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMXFYNkpObTdJYjRQRUhpWEdIY0JhcllNSzVCdEQzQTZ4YVB5SlVpalh3TGVycm0wOEhoWTFMbjBWVk9OSHF0QXYtalRQQ1pYQWhsaXY0MGpEdjlKMGM0bllCcnFEYmpxQUtEM3RNQXZKdURud2RyQ01yUWZPclM4WldlWjZ0M0pjck5INFE4OFF4TC1hVnNZOVhnLXVUU1B3eFJXU2paZjFTZlVoN2UtTkV6Vlc?oc=5"
         }
       ]
     },
@@ -606,38 +678,14 @@
       ]
     },
     {
-      "id": "b3072b61f7cb",
-      "title": "Fruits and Vegetables Might Be Linked to Lung Cancer Risk in Non-Smokers. Cool, Cool, Cool - Gizmodo",
-      "published": "2026-04-24T13:45:03+00:00",
-      "summary": "Fruits and Vegetables Might Be Linked to Lung Cancer Risk in Non-Smokers. Cool, Cool, Cool&nbsp;&nbsp;GizmodoEating fruits, vegetables and whole grains may increase chance of early onset lung cancer&nbsp;&nbsp;Keck Medicine of USCEating more fruits and vegetables tied to unexpected lung cancer risk&nbsp;&nbsp;Science DailySurprising study finds healthy fruit, vegetable diet may increase risk of lung cancer in younger people&nbsp;&nbsp;KTVUFruits, veggies can actually fuel lung cancer risk in you",
+      "id": "85216b91f5f4",
+      "title": "Scientists Identify Protein Behind Ageing Joints In Arthritis Breakthrough - NDTV",
+      "published": "2026-04-24T14:08:17+00:00",
+      "summary": "Scientists Identify Protein Behind Ageing Joints In Arthritis Breakthrough&nbsp;&nbsp;NDTV",
       "sources": [
         {
-          "name": "Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWm5SSTVvRHpMU29pX0dwMnExU3dqNG5yQnUtbDFRMXV0dHY1U1RhUkdaSHdUVS1Dd0J5VVhhVVN3M2NOb3U2NldKdktLNzNfQjQyVndFd09fVnk5VVg2Ty1mRUF2Sklmalk5N2FyMnF3X0wtS18xSnlfZHdDVjI0SE1QbTFXZE5KODQ0dHJEWDhaOEMzeWRYVTRzQXA4RzJlVDNTamVDa0RCWWctWmZyUFNTNV83YThIbkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b92ad2723ba4",
-      "title": "What Happens to Your Blood Sugar When You Eat an Apple With Peanut Butter - Verywell Health",
-      "published": "2026-04-24T13:42:20+00:00",
-      "summary": "What Happens to Your Blood Sugar When You Eat an Apple With Peanut Butter&nbsp;&nbsp;Verywell Health",
-      "sources": [
-        {
-          "name": "Verywell Health",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVnJaM1RRS194MlZOWGVYeUdnbHVxaXk5QVVVUkttX3phV3lNY1hYSHNfUzRFZnQtaXNIektSaXk4dXFkRURDdzZMUGcya2ZHU0lUNjZRZHE4UkEzQVV5NEtWY3BLWjJwa0ZXNFZ0QW9XQlpOa0k3N2FwdWRlZ2JIOGgyLWR0WmwzUTJrV3JBN1Q?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b9885b96cc72",
-      "title": "Is your ‘power nap’ a warning sign? New research connects daily snoozing to health issues. - The Boston Globe",
-      "published": "2026-04-24T13:03:00+00:00",
-      "summary": "Is your ‘power nap’ a warning sign? New research connects daily snoozing to health issues.&nbsp;&nbsp;The Boston GlobeNapping may be warning sign of health issues in older adults, study finds&nbsp;&nbsp;USA TodayExcessive napping in older adults may signal serious health issues, study finds&nbsp;&nbsp;KTLAFrequent and Morning Naps May Indicate Health Problems and Higher Mortality Rates in Adults&nbsp;&nbsp;People.comExcessive napping in older adults may signal serious health issues&nbsp;&nbsp;KF",
-      "sources": [
-        {
-          "name": "The Boston Globe",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPei14VkUtcENwSWcydTZZNjFpckI5WFRod0tvVG5PeTFVWF9TUFNUbFo1RW5TblhJOElzVHZnUm5kaEdnVHB4cHZCUnlnM3lnc0NZWmFaOTJIUzVwdUVsYW45aktVTm9GbjVjUnI2RlpkZXBsVUxmWHJiTVJ3bTRDWkpqVHVVbXFu?oc=5"
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVERHYk1UZ0Y0ajBsSkxaTzFNbmNkX1VraTg3S3lWVlkwMTVtZDNHWk13emxteVF4eW5nLU5TOVQ1Nzg2dWx1bmM2T1dhVnVpVUs0ajlnNGJRSm02dlZrR3Q0T0Q4SEhoX190MFY1eTFONjB1UUVfczdGNGt1MmVLbV9vVkoxTVR1anVxbHBuZVg3Qmk3YkVxVXpzU2dyTTg3Q3N6VDhaR2QwOHBaZ3RIbHhB0gG6AUFVX3lxTE85aUNzelJpbjNiLVBEaWlhWVNOOTJDRzdNOTY5a0JvLWhLRVI2Yk1GeFhqSk9hOFh3VnJqajQ5bmlSdXFFbEtYRmFtUUI4MjFqTjAteTBDeDZNTERXYXJJakhvYlRycTZVVmMxN1VXeGhfM1VwODlWdEhIR2M2aHlYUE40VGU1MFp1SUZKeVJhWDA5ZlNaZk9FZmZjVWRkbTZOT1lEUFNjM1kxUlk5UXRvNFJxSWZIZWdUZw?oc=5"
         }
       ]
     },
@@ -645,11 +693,23 @@
       "id": "e9cd161ad7ff",
       "title": "Why HPV vaccination isn’t just for women - CNN",
       "published": "2026-04-24T13:00:51+00:00",
-      "summary": "Why HPV vaccination isn’t just for women&nbsp;&nbsp;CNNStudy shows HPV vaccine halves young men’s risk of HPV cancers&nbsp;&nbsp;mezha.netLate Detection Keeps HPV Cancer Rates High in Indonesia&nbsp;&nbsp;Jakarta GlobeClosing the gap: HPV awareness push targets men&nbsp;&nbsp;90.5 Exeter TodayHPV Vaccine Linked to Reduced Cancer Risk in Young Males&nbsp;&nbsp;EMJ",
+      "summary": "Why HPV vaccination isn’t just for women&nbsp;&nbsp;CNNHpV vaccination: how far can girls-only jabs go?&nbsp;&nbsp;The Star‘HPV Vaccine for A Must For Boys': Expert Warns Rising Throat Cancer Risk in Men&nbsp;&nbsp;Times NowStudy shows HPV vaccine halves young men’s risk of HPV cancers&nbsp;&nbsp;mezha.netHPV Vaccine Linked to Reduced Cancer Risk in Young Males&nbsp;&nbsp;EMJ",
       "sources": [
         {
           "name": "CNN",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwejNTYU5mQmEtaG1XaDB1T1A4ODM2Skg0NnZ1UjMwV1dEa1hiS1BOaU05RFFVcjZIc2I4MUQ3aWRlWGNGeEJfSkItQWpMa1pYaV9QaGhBVl9Ba2U3anpQVkpnZFUtbmdSeFZVVHV3SGxabER3ODlFTA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "10a70c8ecc29",
+      "title": "Popular spice shows promise as diabetes treatment — it’s probably already in your pantry - New York Post",
+      "published": "2026-04-24T13:00:00+00:00",
+      "summary": "Popular spice shows promise as diabetes treatment — it’s probably already in your pantry&nbsp;&nbsp;New York Post",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSG9HRlFFQlQwTUZnRmNHQ0RIU2ttXzdJdVhFUDRKdm4zdGdPWDFicVg2Y0JGdzc3RDFVNjBSTnVsdVhSczB6Q19hUzdCTjBuLWtOaXUyUGQ4NHAzT01RX3lMZmdPMkVZejNnX2g0M0ZHbks2Q3JDSHh4dUNTZXNYdW9CMEtXUExUMW5zU3QwT28xcF9SOFA5cm5LTVpoQQ?oc=5"
         }
       ]
     },
@@ -666,34 +726,10 @@
       ]
     },
     {
-      "id": "f0d10e3f59ad",
-      "title": "Scientists say cancer cells have an Achilles heel, they can be starved to death - Deccan Herald",
-      "published": "2026-04-24T12:07:38+00:00",
-      "summary": "Scientists say cancer cells have an Achilles heel, they can be starved to death&nbsp;&nbsp;Deccan Herald",
-      "sources": [
-        {
-          "name": "Deccan Herald",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd29LMVRyTGxGWTZLdHVQOHQ0Y1JQaTdrRGJnUWExVm1ZQ01wVjN4VWdwQmtPZndHdk45ZVp5anhpazJwWFhWN1RWZEVGc2RnTENGbzFXazZqa3lLbVpZaEFVVGo5NXVtekd3OTRrRlZ6VTNiZm9ycGctNk5zSWNzcVdZMWNvRkxkM0t1cjNib0piWWxkVDcxaGtoLTNXQUhUNUd5ejJJYWhKbHN2RlQyNjg4QlhudUU5MXFOdVJqaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2c729f9e9953",
-      "title": "Breakthrough to Restore Aging Joints Could Help Treat Osteoarthritis - ScienceAlert",
-      "published": "2026-04-24T12:05:05+00:00",
-      "summary": "Breakthrough to Restore Aging Joints Could Help Treat Osteoarthritis&nbsp;&nbsp;ScienceAlert",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSHBGQXJCR3ppSXdjc1RxazNsRmJTQVdlUTNqWlhNR08yMWVSdEo3cVFDTGtuWjJ5enN5cDRzaUZieTNIM0dFenA2aFJmLXJxMmJZYTlEVUxvTXZVdU5kY2JTRHBPVGFVWXc3VktoWXpXbmxEM0NyVzdtTzRpZWxJcHdobUFZcW5ETGM0R2Fhb2J6dm1xWWVaYkpNTVdrdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "faab3089b363",
       "title": "Stop skipping 1 simple daily habit to reduce your risk of colon cancer, a doctor says - Business Insider",
       "published": "2026-04-24T11:58:00+00:00",
-      "summary": "Stop skipping 1 simple daily habit to reduce your risk of colon cancer, a doctor says&nbsp;&nbsp;Business Insider7 Things Constipation Tells You About Your Health As You Age&nbsp;&nbsp;AARPColon Cancer: Why tracking your poop could save your life&nbsp;&nbsp;The Times of IndiaVirginia redistricting plan faces court challenges after narrow approval&nbsp;&nbsp;WSETColon cancer is now top killer under 50: Know signs here&nbsp;&nbsp;The News International",
+      "summary": "Stop skipping 1 simple daily habit to reduce your risk of colon cancer, a doctor says&nbsp;&nbsp;Business Insider7 Things Constipation Tells You About Your Health As You Age&nbsp;&nbsp;AARPColon Cancer: Why tracking your poop could save your life&nbsp;&nbsp;The Times of IndiaVirginia redistricting plan faces court challenges after narrow approval&nbsp;&nbsp;wset.comColon cancer is now top killer under 50: Know signs here&nbsp;&nbsp;The News International",
       "sources": [
         {
           "name": "Business Insider",
@@ -705,7 +741,7 @@
       "id": "36de246162db",
       "title": "6 foods you should avoid for better kidney function - The Economic Times",
       "published": "2026-04-24T11:50:41+00:00",
-      "summary": "6 foods you should avoid for better kidney function&nbsp;&nbsp;The Economic TimesPackaged & Fast Food - 6 foods you should avoid for better kidney function&nbsp;&nbsp;The Economic TimesDR. JOE: The hidden warning signs you can't afford to ignore&nbsp;&nbsp;Jackson Progress-Argus8 nighttime habits to swear by to keep kidneys healthy&nbsp;&nbsp;Moneycontrol.comDietitian shares 4 foods to eat and avoid for your kidney health&nbsp;&nbsp;Healthshots",
+      "summary": "6 foods you should avoid for better kidney function&nbsp;&nbsp;The Economic TimesDairy in Excess - 6 foods you should avoid for better kidney function&nbsp;&nbsp;The Economic TimesDR. JOE: The hidden warning signs you can't afford to ignore&nbsp;&nbsp;Jackson Progress-Argus8 nighttime habits to swear by to keep kidneys healthy&nbsp;&nbsp;Moneycontrol.comKidney Health: Want to Keep Your Kidneys Safe? These Foods Are Extremely Harmful to Your Kidneys&nbsp;&nbsp;Lokshahi English News",
       "sources": [
         {
           "name": "The Economic Times",
@@ -734,30 +770,6 @@
         {
           "name": "Austin American-Statesman",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcnhMZUN1NG5lQk1iT29sRzdtTUdRQkF1NzZ1cjlZa3VBM0o1Xy11WlVJVmQxamZfOHJpV3lhT3NxczFVUXk1NWxmWDF4OURtbGttUVVfZHYzYlh2RU1yTUVsOUxfdF9hMmR4MnJ4SmR0NTFxZ1hXeHFHdGZnQjR1aXFPMW5ldmtQRmZQdXM1eTR5ZDMtd3c5cFA3MW1wemxlTHZR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d5a54a41f5d7",
-      "title": "Rotavirus cases are on the rise. Here's what to know about the highly contagious disease. - Newsday",
-      "published": "2026-04-24T09:00:00+00:00",
-      "summary": "Rotavirus cases are on the rise. Here's what to know about the highly contagious disease.&nbsp;&nbsp;NewsdayOpinion: Vaccine avoidance has real consequences for kids&nbsp;&nbsp;Deseret NewsRotavirus cases in children are rising, but a highly effective vaccine has slashed hospitalizations&nbsp;&nbsp;Medical XpressHighly contagious stomach bug spreads fast, hitting certain patients hardest&nbsp;&nbsp;Fox NewsRotavirus cases surge nationwide as doctors urge vaccinations&nbsp;&nbsp;WWBT",
-      "sources": [
-        {
-          "name": "Newsday",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NQmF3N3dJeUxkbmZYR2pNWE56eE13NjdPcmx0bjhGRVdXVWVHTEJ1S0s3d1BqY0JkZGJpMmpVX0dLanRfTGY1UjNJeTNzZ0FvbGdycDM4THlHcXdaaEc0cFZNNEFwcGEzUDJ2MGZsT3ZRS0JwaHJwdm5GOWZtUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f7f2cfe31279",
-      "title": "New secrets of human evolution unlocked in study of ancient DNA from Europe and Near East - The Times of Israel",
-      "published": "2026-04-24T05:35:00+00:00",
-      "summary": "New secrets of human evolution unlocked in study of ancient DNA from Europe and Near East&nbsp;&nbsp;The Times of IsraelView Full Coverage on Google News",
-      "sources": [
-        {
-          "name": "The Times of Israel",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVFU1TTZVWTNiWm9SSExoT2tpTkJqX2ZmT1IzT1JIOEZ3Q2pwb3VqOThIMnFidm01UWU2YTltNG1oZldjbDdqLVVXakxZRk05cjZjMTdjVnVqSGdpdFc5VG1EMTdFZGlxQlE4R0dIWUVZUkl0SVdZT0JvTDV4T0U1ZGR2OWZWQjdDaTdPQXZROUZCY00zRUMzOTBZTEFTMVc3ZFV0T0hORUFQRDdhcnVlcGwtYy1jOEdhUjFqWNIBwgFBVV95cUxNVFhfaEJDeElNUlVaZ05XUDZVQk8xRzZmWEdEOXptTGc5dGpkczh5UEkxTl9HRVEtOFVUSHpiUlNtSy01Z1BwTTJKdHJtUW5KcHNqb2p5bXNmS2dSTkRqLWNuT0JNakpaX2gzb29yNF9RaDlua01ETGlUNGxjaXFyMW1qemhqT3liTjRTR3E2bF9yZEw0MnZqUy1UamozMW1nXzZEUGVmQnV1RG5GcXVQMFB4QVZRQzBJd19Pc0xnX1hQQQ?oc=5"
         }
       ]
     },

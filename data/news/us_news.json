@@ -1,19 +1,103 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-04-27T08:31:10.281009+00:00",
-  "total_fetched": 122,
-  "unique_count": 122,
-  "health_related_count": 58,
+  "fetched_at": "2026-04-27T14:01:56.003916+00:00",
+  "total_fetched": 124,
+  "unique_count": 124,
+  "health_related_count": 60,
   "news": [
     {
-      "id": "26b9bedd57eb",
-      "title": "New deadly disease outbreak map flags 'highly vulnerable' regions around the world - Earth.com",
-      "published": "2026-04-27T06:25:36+00:00",
-      "summary": "New deadly disease outbreak map flags 'highly vulnerable' regions around the world&nbsp;&nbsp;Earth.com",
+      "id": "a7b58afaef8b",
+      "title": "Is Sleeping on Your Left Side Bad for Your Heart? A Doctor Shares the Truth - AOL.com",
+      "published": "2026-04-27T13:06:24+00:00",
+      "summary": "Is Sleeping on Your Left Side Bad for Your Heart? A Doctor Shares the Truth&nbsp;&nbsp;AOL.com",
       "sources": [
         {
-          "name": "Earth.com",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQajlHZlVTMGZSenJHaWM4c29zcktDXzhyWm1kQTRiYjNnV0lYZ2EyTnV3UkRlVnRPajc5M2JiUkQwMUp5cG9VLVJxakdwcjZMOGQzcE85STRnQU9PWVFLbkZqSVpNN1FPbVl4NnFxa01kVzJ6ZFctd2RLMTZ0b2pUTGJFZDY3ZzdNM280NkNDY3JGdXh0SUpmRzZaSlFnWWZRcGpDZDM4cEN3SEpw?oc=5"
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wUFpCNVMxck9lY1R4dG93amVYV0VMeWY0SXdHcVV2MnFRQ1N1b0lGZ0hBNmt4MVRqb2lNbGRjZGJnYWxkR1hDRnBpbHV5UVJEU1NqbzhWeTZWeFFmeVF4RUlvV281ZWYtcUZmNXFhb2U?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4c63777d85a9",
+      "title": "This Common Vitamin Can Slash Your Risk of Developing Type 2 Diabetes - AOL.com",
+      "published": "2026-04-27T11:21:22+00:00",
+      "summary": "This Common Vitamin Can Slash Your Risk of Developing Type 2 Diabetes&nbsp;&nbsp;AOL.comView Full Coverage on Google News",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaTlSd0hzR1hpU3lQUW5MWG9wSmVOOGtoNzB1VWt1eU1WOWpGMUhQbTQwcWxoRVJta1JQLVlieV9Xb3lPTXp2eEFjMTNNSU5XbnVxY29vMVE0Vzg3bFphdjNCQWFOc280d3J1eXlYbHV5dDh5b1ctYlpRenJjbWFLTHhRU2lwQ00?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "86ec5de80726",
+      "title": "Certain Nap Patterns in Older Adults Could Be a Warning Sign, Study Finds - ScienceAlert",
+      "published": "2026-04-27T11:02:17+00:00",
+      "summary": "Certain Nap Patterns in Older Adults Could Be a Warning Sign, Study Finds&nbsp;&nbsp;ScienceAlertNapping may be warning sign of health issues in older adults, study finds&nbsp;&nbsp;USA TodayIs your ‘power nap’ a warning sign? New research connects daily snoozing to health issues.&nbsp;&nbsp;The Boston GlobeFrequent or longer naps in older age may signal declining health, study suggests&nbsp;&nbsp;Medical News TodayNew Study Reveals That Daytime Naps May Be A Sign Of Serious Health Problems&nbsp",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSnFTQ20wTWpzOEdmd0lPaVZqQnI5ZHFGZ2Nkd18xdXhlZW1RZ2oyTzBqbXlwTEZCeGNCUGpEc3lLTmdIcHRRTWFFWHB1VnZ1dFM3WWxzRG1wRnJkYkpIYzR4MHI0d05aUVpmTG1sR1QwbXFTS3BOcVdGUy0wa1N5NDAtdEg1ekh6aHNaRFRRTExZR2FGOEdKN2dKQ2txRzd2eXZJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3f2c9c7831e4",
+      "title": "A Massive Fracture Is Splitting Africa Apart: Scientists Just Found the Critical Breaking Point - The Daily Galaxy",
+      "published": "2026-04-27T10:45:00+00:00",
+      "summary": "A Massive Fracture Is Splitting Africa Apart: Scientists Just Found the Critical Breaking Point&nbsp;&nbsp;The Daily GalaxyNecking of the active Turkana Rift Zone and the priming of eastern Africa for continental breakup&nbsp;&nbsp;NatureA huge tectonic boundary shook the ground where dinosaurs once stood&nbsp;&nbsp;Phys.orgAfrica Is Breaking Apart Faster Than Scientists Thought. Now What?&nbsp;&nbsp;VICEAfrica's major discovery of new 300-mile ocean as continent splits&nbsp;&nbsp;Daily Express",
+      "sources": [
+        {
+          "name": "The Daily Galaxy",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNXzZGVVlfS18zQldtNHozei1WZ3pKTnBxQ2VmNWpfRHNCU0RCRGczOVFEaFRrMGlSS0l3S1owVXRTekpRNDVDcm9ySXprYXZsVThFb2RtSXl0aTlUUkJGOUk2bl9ZNzdWU0d6VHFua25zS1MyMVRlNEdiZnZCaG51YV93dVY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "668b7be61686",
+      "title": "Patients say they want Alzheimer's blood tests. Doctors aren't sure they help. - NBC News",
+      "published": "2026-04-27T09:00:41+00:00",
+      "summary": "Patients say they want Alzheimer's blood tests. Doctors aren't sure they help.&nbsp;&nbsp;NBC NewsSimple Blood Test May Predict Alzheimer’s Years Before Brain Scans Show Signs&nbsp;&nbsp;SciTechDailyEnhance Neurodegenerative Detection and Monitoring with BD-pTau 217 and α-Syn, Upcoming Webinar Hosted by Xtalks&nbsp;&nbsp;PR NewswireEarly Immune Changes May Signal Increased Risk of Alzheimer’s & Dementia&nbsp;&nbsp;NYU Langone HealthA Promising Study Suggests a Blood Test Could Spot Alzheimer’s E",
+      "sources": [
+        {
+          "name": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU0YyMkp0XzlyYjJhazhkM09feGV2Y3dGY0lUZkp5QjY1NFViemdEdzBZVHFMWDJjZXFrenVDWEhYMDNYY0tva0pYT09lZ1Vpd1hwQzlyZ0xkRUdJT3k5bEl2VFRDc1VXaTNieXphWExPQ1lib1o4enEtRWhKbmtHQkRUWUlYR1F1bTNFdjZrZ2ZzdGF0M0ZIVTlpRXNtUGFTZVd1cmdaNUxRVWhGWFBLWks4MHY3OENEZlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f348f679354a",
+      "title": "Scientists search the microbiome for clues to the rise in colorectal cancers - NPR",
+      "published": "2026-04-27T09:00:00+00:00",
+      "summary": "Scientists search the microbiome for clues to the rise in colorectal cancers&nbsp;&nbsp;NPRRectal cancer deaths rising rapidly among millennials: 'It's a medical crisis.'&nbsp;&nbsp;NBC NewsYoung Adult Bowel Cancer Deaths Concentrated in One Group, Study Finds&nbsp;&nbsp;ScienceAlertRectal cancer: Millennials with family history may need screening at 35&nbsp;&nbsp;NewsNationColon cancer rates for young people are up in NC. Here’s how to protect yourself&nbsp;&nbsp;Charlotte Observer",
+      "sources": [
+        {
+          "name": "NPR",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMW1hd0NqZktmWGx3Yjljelo5NURPQ29CdFB1elJqYlQ4S0ttUzRrUGwxZl9LNDF0ejRqV083cllfZWpqR2ZHVzk5aWVFLU90WTl5ZldBSDRLYVRWMUlMYjhrcGJfSU5QeExVMXNGejhzdzcyMVRNelc2ZmJzMmxBeGc1LXlLZHJSWEhWM2Q1cw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e0644d03f29e",
+      "title": "War and neglect fuel deadly measles epidemic in Sudan’s Darfur - Al Jazeera",
+      "published": "2026-04-27T08:09:50+00:00",
+      "summary": "War and neglect fuel deadly measles epidemic in Sudan’s Darfur&nbsp;&nbsp;Al Jazeera9k+ measles cases in South Darfur — vaccinations intensify&nbsp;&nbsp;Radio DabangaMeasles outbreak kills four in North Darfur as health system fails&nbsp;&nbsp;MSNWar, Healthcare Collapse Drive Deadly Measles Outbreak in Sudan’s East Darfur&nbsp;&nbsp;تسنیم",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaEJMWUIzaWFJaGM4eFNjaVZ1anNZNHpjTk8xNXVydVdkSXpaekdmV2pwcWdaT0FzT1hYSGdhQTgwbWxxRVFJTExhZTItMW1yWUdxM1FNdUJnb3hfblNaLVFYdUdLS1hRREt5bGc1eS1qNTdxN1lZNzJ3WDFqNEV0MzA5QjJtZHl5WWVfMEVmaXBLeDh5UTJ6SkJrNlpGQzdNOWVUUdIBqgFBVV95cUxNRnNneVdkYzRRT0F3QUdzSEctNEREWkVUdXh3QTFDTHRjNjN5R3RjNHNkX2g4cFdEbUZVTnBmV0tRNEI4b2FfSVpGRUhOSGhOUWt0bElncHJnYzhiT2N5cGpod3BuN0dvSDVVX05FNzd2UDZ6dlIwYWNCLUg3RktfeVl5U1FzUHBuejRtZlNoVHZOZDRvbGpiblhzRWViRzdUT0dZd1hqOW1fZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "da303450a374",
+      "title": "Psychology says the single biggest predictor of happiness isn't income, relationships, or health - it's the ability to be present in an ordinary moment without wishing it were something else - Space Daily",
+      "published": "2026-04-27T07:09:43+00:00",
+      "summary": "Psychology says the single biggest predictor of happiness isn't income, relationships, or health - it's the ability to be present in an ordinary moment without wishing it were something else&nbsp;&nbsp;Space Daily",
+      "sources": [
+        {
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNWFpDX2hWaTBlWmpjQS1XYkFkTVdIcUR0NTJmRk1QSGI4U20xZmpaclUxaDE5bmNyeXhXVFoxcFV3OWNfRXROaXdRMVlIMGNuU2ozbUs3MUNhTDAxVlRYSWcyVEtUWk5nRjFicnB4LVJDUFlpd0JudzBsM0ZBNm1HQWlCeE1JeU52VERySmJJeHpSclJrZzBXbnhBd2o5c1pWb0lnT1lwZ0hrR3p4YUVvT21zVDZyOWZxWUFJUzczSGtHMWFXd0xmUjVFNVU2LWwyVmpCY2RjQ0x6STE1VHZMZVdHdzF6cUM3LWw1VHBLdGk2dWtLU2R0N3BjM210czlqX00yaVhTYWlFaU9sTmhhSDRjM1ZqRi1FRndNdkdTcVNsRURwSnQwUlRNR0t0NGZqRnc?oc=5"
         }
       ]
     },
@@ -30,14 +114,14 @@
       ]
     },
     {
-      "id": "9a158228b01a",
-      "title": "The threat of light pollution puts the world’s darkest skies in the Atacama Desert at risk - AP News",
-      "published": "2026-04-26T23:31:00+00:00",
-      "summary": "The threat of light pollution puts the world’s darkest skies in the Atacama Desert at risk&nbsp;&nbsp;AP NewsView Full Coverage on Google News",
+      "id": "ccfd3e8bbe53",
+      "title": "Woman Handles Surgery And Recovery Solo, Husband Ignores Her Needs And Complains About Himself - Bored Panda",
+      "published": "2026-04-27T02:26:32+00:00",
+      "summary": "Woman Handles Surgery And Recovery Solo, Husband Ignores Her Needs And Complains About Himself&nbsp;&nbsp;Bored Panda",
       "sources": [
         {
-          "name": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbjFLUnMtdkNVMm1sNkpicDZQN3JqdUtSZnpmQm5KVG0tSjRqRURhZGNKZWx2Wno1RFVyaVExaThjNXZNclRfV1BId2xoeDRYMDcwMl9SbFI5Tjg0ZG9mb1h0bzRKQVh5czZHV091aEkxeENHZ3VvdlJSV1MzWHJtTjNYLUVqYW5JczV0WHhfUk9aQUQxelRhZG1zMmhKSXZXRXphQ0xOdzNoWU80b2ZkU00xcTFQYkFScEE?oc=5"
+          "name": "Bored Panda",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTZjNTYXktNldGYUdtdEd4MlZFMEdEd0pBbTVlbTlSeWFKU2dVSk5YOGp4bXlEdWhmUHhlU0N4dW9oZ21mMTZjaU0tWDV2MFNVak1qTTlTMHh2S2EtLXczaGpRT2hfMFdndXJzbkRlMDhyMk0?oc=5"
         }
       ]
     },
@@ -56,12 +140,36 @@
     {
       "id": "ffdaeb06aec5",
       "title": "AI-enhanced microscopy produces crisp, real-time video inside live cells - Phys.org",
-      "published": "2026-04-26T20:00:34+00:00",
+      "published": "2026-04-26T20:38:03+00:00",
       "summary": "AI-enhanced microscopy produces crisp, real-time video inside live cells&nbsp;&nbsp;Phys.orgHow Watching Living Cells Could Transform Disease Research and Treatment&nbsp;&nbsp;USC Viterbi School of EngineeringA Simpler Path to Super-Resolution: Scientists Reinvent Microscopy&nbsp;&nbsp;SciTechDailyUCSD: AI-Enhanced Microscopy Produces Crisp, Real-time Video Inside Live Cells&nbsp;&nbsp;HPCwire",
       "sources": [
         {
           "name": "Phys.org",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tVGdVckpBY05LQXR6YmVncnRXQ2VXM2paOGx6UDF1WWVBYUpEZEVlMGNsT1VNSkNzNFFYRVBiTjFUc24zLVZJSFRNWWN0WXl2Q0ZZVHpJcFMtdGp3V29oLTE5MW1EUXdyODhWMlM0T1M5ekU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8959ab83ef8b",
+      "title": "New Brain Discovery Challenges Long-Held Theory of Teenage Brain Development - SciTechDaily",
+      "published": "2026-04-26T20:32:31+00:00",
+      "summary": "New Brain Discovery Challenges Long-Held Theory of Teenage Brain Development&nbsp;&nbsp;SciTechDaily",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdmdaaXRZRndPS3M3VEFYWnFGZDh0ajVpQXp6OE5pXzJSUWxEM1BrdjJhVUxMeEpNYlY0b2lQUWhaaVUzN2Qzel9pY01RTU1YeEZaSGFCQ183Wkl1aS0xMjFIU0k5QXlwaWg2eUs2cEFTTEVJY1hFWHFwMGo5MmZLRmlvMDU1b29iQl9vRmxlVEZ4ZUhNMnJ1VWJNZ0xEdXhmLWhvVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a252ae30e723",
+      "title": "We Asked 4 Dietitians to Pick the Healthiest Cooking Oil—and They All Chose the Same One - Real Simple",
+      "published": "2026-04-26T20:30:00+00:00",
+      "summary": "We Asked 4 Dietitians to Pick the Healthiest Cooking Oil—and They All Chose the Same One&nbsp;&nbsp;Real SimpleThe truth about cooking oils: 14 essential facts for healthier, cheaper meals&nbsp;&nbsp;The Guardian12 Best and Worst Cooking Oils for Your Heart Health&nbsp;&nbsp;YahooYour favourite cooking oil could be silently damaging your heart health, here's why&nbsp;&nbsp;Moneycontrol.com",
+      "sources": [
+        {
+          "name": "Real Simple",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPUEhIbVg4MmdxeUJDSGRQV3BFZjZuenBxb0w5QU9BYVd6RDFDNUNwLUxtdW1nZzgwc1NtUnBVWVhBd3Fvb3JTVnZ6SFRXaDR5RFFYN3ZVUEtpZXFRLWlGMmdLRkNONG12VkE?oc=5"
         }
       ]
     },
@@ -93,7 +201,7 @@
       "id": "b765e25fba67",
       "title": "Doctors just updated the cholesterol number that aligns closest with heart disease risk - Earth.com",
       "published": "2026-04-26T18:08:27+00:00",
-      "summary": "Doctors just updated the cholesterol number that aligns closest with heart disease risk&nbsp;&nbsp;Earth.comDo cholesterol numbers really matter? New guidance explains&nbsp;&nbsp;Austin American-StatesmanStarting Sooner, Targeting Lower: How Updated ACC/AHA Guidelines Redefine Lipid-Lowering Strategy&nbsp;&nbsp;The American Journal of Managed Care® (AJMC®)New Cholesterol Guidelines: Cardiologist Shares What You Need To Know&nbsp;&nbsp;Stamford HealthNew dramatic guidelines for preventing heart a",
+      "summary": "Doctors just updated the cholesterol number that aligns closest with heart disease risk&nbsp;&nbsp;Earth.comHow often should you check your cholesterol? A cardiologist explains&nbsp;&nbsp;The TelegraphStarting Sooner, Targeting Lower: How Updated ACC/AHA Guidelines Redefine Lipid-Lowering Strategy&nbsp;&nbsp;AJMCNew dramatic guidelines for preventing heart attacks&nbsp;&nbsp;The Jerusalem PostDo cholesterol numbers really matter? New guidance explains&nbsp;&nbsp;Austin American-Statesman",
       "sources": [
         {
           "name": "Earth.com",
@@ -105,7 +213,7 @@
       "id": "5451f37f358e",
       "title": "Coffee May Boost Your Mood And Brainpower, Even Without Caffeine - ScienceAlert",
       "published": "2026-04-26T18:03:09+00:00",
-      "summary": "Coffee May Boost Your Mood And Brainpower, Even Without Caffeine&nbsp;&nbsp;ScienceAlertHabitual coffee intake shapes the gut microbiome and modifies host physiology and cognition&nbsp;&nbsp;NatureNew study reveals coffee’s positive gut impacts, even without caffeine&nbsp;&nbsp;USA TodayRegular consumption of coffee ‘significantly’ boosts mood and reduces anxiety&nbsp;&nbsp;The IndependentYour daily coffee habit may be quietly reshaping your gut and mood, study finds&nbsp;&nbsp;Fox News",
+      "summary": "Coffee May Boost Your Mood And Brainpower, Even Without Caffeine&nbsp;&nbsp;ScienceAlertHabitual coffee intake shapes the gut microbiome and modifies host physiology and cognition&nbsp;&nbsp;NatureNew study reveals coffee’s positive gut impacts, even without caffeine&nbsp;&nbsp;USA TodayCoffee: Even decaf can improve mood, brain health, and here's why&nbsp;&nbsp;Medical News TodayYour daily coffee habit may be quietly reshaping your gut and mood, study finds&nbsp;&nbsp;Fox News",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -138,14 +246,62 @@
       ]
     },
     {
-      "id": "20f419a24102",
-      "title": "A Dangerous Bacteria Is Moving Up the East Coast. Here’s What That Means for You - Gizmodo",
-      "published": "2026-04-26T13:00:12+00:00",
-      "summary": "A Dangerous Bacteria Is Moving Up the East Coast. Here’s What That Means for You&nbsp;&nbsp;GizmodoDangerous Flesh-Eating Bacteria That Can Kill Within 48 Hours Found in New York Waters&nbsp;&nbsp;people.comKnow the facts about Vibrio, a bacteria found in coastal waters and raw shellfish&nbsp;&nbsp;grist.orgStudy finds flesh-eating bacteria, harmful algal blooms in Long Island waters as quality worsens&nbsp;&nbsp;FOX WeatherWhat To Know About Flesh Eating Bacteria Ahead Of The Summer Beach Seaso",
+      "id": "32de7afc182b",
+      "title": "A flesh-eating bacteria was just discovered all over Long Island - Alternet",
+      "published": "2026-04-26T15:06:00+00:00",
+      "summary": "A flesh-eating bacteria was just discovered all over Long Island&nbsp;&nbsp;AlternetA Dangerous Bacteria Is Moving Up the East Coast. Here’s What That Means for You&nbsp;&nbsp;GizmodoDangerous Flesh-Eating Bacteria That Can Kill Within 48 Hours Found in New York Waters&nbsp;&nbsp;People.comKnow the facts about Vibrio, a bacteria found in coastal waters and raw shellfish&nbsp;&nbsp;grist.orgStudy finds flesh-eating bacteria, harmful algal blooms in Long Island waters as quality worsens&nbsp;&nbsp",
       "sources": [
         {
-          "name": "Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMWw0LWZnY1lpaHR6N0NCamk5a3FYd2ZoNTdlQzZQZE1KcDkwVkZNWE9PWmM1YnhiaDctaS1ZZmJjazJYRjJ6VmxDdDZBZmowd1JiTTFsbUhLcHZ2RTNnZlZET2VyeGJWUnJuZGQ5NGpNNFFNNHEtQWtzOWxPWTZLZE9ZMklnV2xrUGs0YlhPdzFaM0tEYjFwd2NYY012ckRldmhETm5Za3VRcUl4TVE?oc=5"
+          "name": "Alternet",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RTEwzU2xQMzlNZGJBTENiM2V2MW9SLXRYdHpMOFBnZFpOenluUXdZQVMtcDdWVXFGQmZORjZILUhRR2YzNTRIeEZ2SzZnczA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5a426a3c4812",
+      "title": "Popcorn vs. Pretzels—Which Snack Is Actually Healthier? Dietitians Weigh In - Real Simple",
+      "published": "2026-04-26T13:30:00+00:00",
+      "summary": "Popcorn vs. Pretzels—Which Snack Is Actually Healthier? Dietitians Weigh In&nbsp;&nbsp;Real Simple",
+      "sources": [
+        {
+          "name": "Real Simple",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mZks2QVY5Y2ZxWjN5aXpLUzNOVW5ONnZqbzhWelFoU1lMak5SUHhjN01tNl9hRzZHTFhNVjcwQkpjN25sVzE2djJlSEI3WC1TQ1dwWXlGa1hHcVhQM0htZVdBbTVRQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b1ed5aa8f480",
+      "title": "Why Is No One Taking Baby Aspirin for Heart Disease Prevention Anymore? - AOL.com",
+      "published": "2026-04-26T12:45:44+00:00",
+      "summary": "Why Is No One Taking Baby Aspirin for Heart Disease Prevention Anymore?&nbsp;&nbsp;AOL.com",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UX1I2aFczbFpFQlV4Z2s1TGYwQUJtcEYzNEw2UVg5RnMzaC1PNzM5Zmp3VG81QTE0Y2loaHBWLVVrUEM2RlU1bV9jSkdpOU04cEZzN0pGYm1FOGdxRUt3QlB4dnBXQUZ4aUs3d2hTY2xzaVpX?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ba98479e6c4a",
+      "title": "US is taking a ‘real risk’ with hasty shift in efforts to fight HIV, experts say - The Guardian",
+      "published": "2026-04-26T12:01:00+00:00",
+      "summary": "US is taking a ‘real risk’ with hasty shift in efforts to fight HIV, experts say&nbsp;&nbsp;The GuardianTwo startlingly different views on long-awaited data on America's anti-HIV efforts&nbsp;&nbsp;NPRNew PEPFAR Data Show Worrying Declines in Testing and Treatment for H.I.V.&nbsp;&nbsp;The New York TimesFirst on ABC: Memo to Rubio details data on HIV/AIDS treatment program under Trump administration&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosAVAC: New PEPFAR data reveal a prevent",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaVBNMkVlM0xLeklCYXhZOFAxT0R1UlU3eTE1XzM4Qy1LX3dBQ04yVklXNkhyNFNRVjZZSWNKMHhLejRJaGd6YzVRaXpzSW4zQXc0emo0STNsblVpRTVCNUtJV3lSc3ZyQ1d4MGJjZkRvRDVMdWxMRDF4Mmxxd3pDRXJORzQ5ZkRzLWloNw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5f5362522ce1",
+      "title": "Exercising a Specific Leg Muscle Can Help Stabilize Blood Sugar for Hours - Verywell Health",
+      "published": "2026-04-26T12:00:00+00:00",
+      "summary": "Exercising a Specific Leg Muscle Can Help Stabilize Blood Sugar for Hours&nbsp;&nbsp;Verywell Health4 reasons you should take a 5-minute walk after every meal&nbsp;&nbsp;Indulgexpress",
+      "sources": [
+        {
+          "name": "Verywell Health",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KbkZBNVRscDVPVUE0eHdFQjZ1Q2tHMk9rcmhYSDhrQm5jRE56Sm5MeU9MX3hfbWxTei1XM2pJXzZob0ZrQWhzVlN1aHR2cFJFX0JOeDEtSXVhdnE3MHRDY0hPaFg2azNyb1h3S2NscV9hazNqcmxQako5VnU?oc=5"
         }
       ]
     },
@@ -158,18 +314,6 @@
         {
           "name": "vox.com",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON01EdVJ2WVJjdVdLdTgtcFBqN3ZLYmVSRXA0cUVvcjdUM0gyRzkteFJMS1l3U0ltNFJGbl8zRUdRQlVCNEdIRGxzN2lMVUdnVVlpa3FrMF9qVkVrXy1IMUtqb0xnanI2N3JCeDZpRmtwbURIako2YWpOcFBVeTdremhIRXZSY2cwZWNuZ0VTVHFsYWh4akJFOEhBc1hOZXkyc3E2UnB1Yw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a6157442dfc6",
-      "title": "ALS took his voice. A brain implant helped him speak to his daughter again - San Francisco Chronicle",
-      "published": "2026-04-26T11:11:11+00:00",
-      "summary": "ALS took his voice. A brain implant helped him speak to his daughter again&nbsp;&nbsp;San Francisco ChronicleMan diagnosed with ALS lost his speech can now communicate via Neuralink brain chip&nbsp;&nbsp;Moneycontrol.comEmory and Georgia Tech trial helps paralyzed patients speak&nbsp;&nbsp;FOX 5 AtlantaPatient Kenneth with ALS speaks again using Neuralink brain implant&nbsp;&nbsp;NewsBytes",
-      "sources": [
-        {
-          "name": "San Francisco Chronicle",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdFZtelBBTnpQSVktVjVKVTZSTDBEd2U0dDNtUS10ZXltRVo3ODExQlBuT3dZS0ExSWhDUC1FZU5oaXh0amo0YkRuWkRQUTY2Z2p0RlZtOUdnSXptcnh5RnVkUUpuc0hoTk1VOUlhdENmR3B4WHkxSGZ3X1lKcTRPb3RGVU5RMTJM?oc=5"
         }
       ]
     },
@@ -201,7 +345,7 @@
       "id": "6393212a271a",
       "title": "Want to Cut Your Alzheimer's Risk by 38%? An 8-Year Study of Nearly 2,000 People Says Do This for a Stronger Brain - inc.com",
       "published": "2026-04-26T09:53:01+00:00",
-      "summary": "Want to Cut Your Alzheimer's Risk by 38%? An 8-Year Study of Nearly 2,000 People Says Do This for a Stronger Brain&nbsp;&nbsp;inc.comWhat does it take to protect brain health? 10 habits to start now&nbsp;&nbsp;NBC NewsBrain health: Alzheimer's 2026 new report on cognitive impairment & dementia in Tennessee&nbsp;&nbsp;WTVCThe time to act on Alzheimer’s is now: Brittany Ardeno&nbsp;&nbsp;Cleveland.comAlzheimer’s care costs expected to exceed $400 billion in 2026&nbsp;&nbsp;WTVG",
+      "summary": "Want to Cut Your Alzheimer's Risk by 38%? An 8-Year Study of Nearly 2,000 People Says Do This for a Stronger Brain&nbsp;&nbsp;inc.comWhat does it take to protect brain health? 10 habits to start now&nbsp;&nbsp;NBC NewsBrain health: Alzheimer's 2026 new report on cognitive impairment & dementia in Tennessee&nbsp;&nbsp;WTVCThe time to act on Alzheimer’s is now: Brittany Ardeno&nbsp;&nbsp;Cleveland.comMost Americans value brain health, but a new Alzheimer's report finds few know how to protect it&n",
       "sources": [
         {
           "name": "inc.com",
@@ -210,10 +354,22 @@
       ]
     },
     {
+      "id": "a937b91f2544",
+      "title": "‘Astonishing’ discovery could help save children from deadly disfiguring condition - The Guardian",
+      "published": "2026-04-26T09:48:00+00:00",
+      "summary": "‘Astonishing’ discovery could help save children from deadly disfiguring condition&nbsp;&nbsp;The Guardian",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY1NLcElQc0NjUjVCRk9GM20xZTRWT1dLejFDOGFoV3V3aWpXbURGTjlCeVN6THkxTEV1S3RoNXd4NjhLdGV6Zk9HQmZOODNId3VHNVc2SHZNSFl0bnlMaU9tMTFub0duV003UlRLbmNUbmxXY3YwVG1WcFQ1R1hyUTN3T0w4aTNGYzlrQnp1M0xuZmZfaGRLMXpYX1kxNWFubUJxb0RQWmRDUlpKaE43SVJ2RVBzbHpsZG5WUmNHb3EwTUE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "977e7696ea6b",
       "title": "India’s self-medication habit: You are not just treating a headache, you could be harming your liver - The Times of India",
       "published": "2026-04-26T09:41:00+00:00",
-      "summary": "India’s self-medication habit: You are not just treating a headache, you could be harming your liver&nbsp;&nbsp;The Times of IndiaA New Study Discovered a Link Between Some Herbal Supplements and Serious Liver Failure&nbsp;&nbsp;The Healthy @Reader's DigestDelhi surgeon warns common painkillers aren't as safe as you think: 'Your liver has its limits'&nbsp;&nbsp;Hindustan TimesIs your protein powder real or fake? This simple test will save you from being fooled&nbsp;&nbsp;Moneycontrol.comPainkill",
+      "summary": "India’s self-medication habit: You are not just treating a headache, you could be harming your liver&nbsp;&nbsp;The Times of IndiaA New Study Discovered a Link Between Some Herbal Supplements and Serious Liver Failure&nbsp;&nbsp;The Healthy @Reader's DigestAre Your Daily Painkillers Putting Your Liver At Risk? Here's What You Need To Know&nbsp;&nbsp;NDTVIs your protein powder real or fake? This simple test will save you from being fooled&nbsp;&nbsp;Moneycontrol.comPainkillers, Supplements And Li",
       "sources": [
         {
           "name": "The Times of India",
@@ -222,22 +378,10 @@
       ]
     },
     {
-      "id": "3c8453eb3e13",
-      "title": "Measles Surge in South Carolina Ends After Sickening Nearly 1,000 - The New York Times",
-      "published": "2026-04-26T09:00:25+00:00",
-      "summary": "Measles Surge in South Carolina Ends After Sickening Nearly 1,000&nbsp;&nbsp;The New York TimesSC DPH: Upstate measles outbreak declared officially over&nbsp;&nbsp;WYFF News 4With measles in CSRA, should you get a test for immunity?&nbsp;&nbsp;WRDWSC can’t afford to let vaccine rates drop. Seniors are especially at risk.&nbsp;&nbsp;News From The StatesSouth Carolina’s 200-day measles outbreak is over. What it cost.&nbsp;&nbsp;Post and Courier",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOGNQNEVubHg3c003RlV5OXNpSjNIQmUxcHJwNW8yeXpmUlItakc4VHdxMHBQX1cydFJPVXQ5Z0txMExKZXpkbV93b2QxSUU4aFR1ZDNmamhqQnk1N0tJS043WWlZWHR5LVNqSS00TVdnZGFTMHgySzl0ZzRiZWVqLVlRWE1DTW85?oc=5"
-        }
-      ]
-    },
-    {
       "id": "96a72d5abb87",
       "title": "Neanderthals' extinction linked to social isolation, not climate change, new study shows - The Hindu",
       "published": "2026-04-26T08:47:50+00:00",
-      "summary": "Neanderthals' extinction linked to social isolation, not climate change, new study shows&nbsp;&nbsp;The HinduClimate and competition alone cannot explain Neanderthal extinction, study finds&nbsp;&nbsp;Phys.orgWhat Killed the Neanderthals? New Research Suggests a Lack of Genetic Diversity May Be Partially to Blame&nbsp;&nbsp;Smithsonian MagazineScientists reveal why Neanderthals vanished in Europe&nbsp;&nbsp;Tech ExploristMystery of Neanderthal Extinction Deepens as Study Finds Climate and Compet",
+      "summary": "Neanderthals' extinction linked to social isolation, not climate change, new study shows&nbsp;&nbsp;The HinduWhat Killed the Neanderthals? New Research Suggests a Lack of Genetic Diversity May Be Partially to Blame&nbsp;&nbsp;Smithsonian MagazineClimate and competition alone cannot explain Neanderthal extinction, study finds&nbsp;&nbsp;Phys.orgClimate vs competition: what killed our closest relatives?&nbsp;&nbsp;Latest news from AzerbaijanScientists reveal why Neanderthals vanished in Europe&nbs",
       "sources": [
         {
           "name": "The Hindu",
@@ -270,14 +414,38 @@
       ]
     },
     {
+      "id": "26b9bedd57eb",
+      "title": "New deadly disease outbreak map flags 'highly vulnerable' regions around the world - Earth.com",
+      "published": "2026-04-26T07:00:00+00:00",
+      "summary": "New deadly disease outbreak map flags 'highly vulnerable' regions around the world&nbsp;&nbsp;Earth.com",
+      "sources": [
+        {
+          "name": "Earth.com",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQajlHZlVTMGZSenJHaWM4c29zcktDXzhyWm1kQTRiYjNnV0lYZ2EyTnV3UkRlVnRPajc5M2JiUkQwMUp5cG9VLVJxakdwcjZMOGQzcE85STRnQU9PWVFLbkZqSVpNN1FPbVl4NnFxa01kVzJ6ZFctd2RLMTZ0b2pUTGJFZDY3ZzdNM280NkNDY3JGdXh0SUpmRzZaSlFnWWZRcGpDZDM4cEN3SEpw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "cf2889042858",
       "title": "Fish oil may be hurting your brain, new study finds - Science Daily",
       "published": "2026-04-26T05:59:46+00:00",
-      "summary": "Fish oil may be hurting your brain, new study finds&nbsp;&nbsp;Science DailyScientists Uncover Potential Brain Risks of Popular Fish Oil Supplements&nbsp;&nbsp;SciTechDaily'Important' nutrient for cardiovascular health that many people lack&nbsp;&nbsp;Belfast LiveWhen omega-3 may help mental health and when they may not&nbsp;&nbsp;News-MedicalThe truth about fish oil pills&nbsp;&nbsp;KVUE",
+      "summary": "Fish oil may be hurting your brain, new study finds&nbsp;&nbsp;Science DailyScientists Uncover Potential Brain Risks of Popular Fish Oil Supplements&nbsp;&nbsp;SciTechDailyWhen omega-3 may help mental health and when they may not&nbsp;&nbsp;News-MedicalPopular ‘brain-boosting’ supplement could actually be harmful to memory&nbsp;&nbsp;The SunThe truth about fish oil pills&nbsp;&nbsp;KVUE",
       "sources": [
         {
           "name": "Science Daily",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84LWVhUl9vUTlCZXZXR1BUN1E2RGNhQmNqR1lQU0szQ25VNXlhYmtaamtRNHVwWWxmMU45OHNQd2FTSTRmbTNsY1NFZ01tRmJkSU93NkRLOXgzN3Q0TzgxMTB4ZWdGd1dCWVJTNEZDNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a0c3e6e3b48d",
+      "title": "Graphene kills harmful bacteria “superbugs” but spares human cells - Science Daily",
+      "published": "2026-04-26T05:08:47+00:00",
+      "summary": "Graphene kills harmful bacteria “superbugs” but spares human cells&nbsp;&nbsp;Science Daily",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hT0czUWdhS1IwZzZDQU01WGhoT3laR0hhanU1Zy1VY2RMMFFSNDhGai0tSXJObVg2dFFWSkJ6dWd6QUlfelFNa24xYjQ1aXNCV1RuSzZUcHh3ZjBlYUdvNktocEo3WGw4T3V2LWRKRQ?oc=5"
         }
       ]
     },
@@ -294,26 +462,26 @@
       ]
     },
     {
-      "id": "7d5c69e7e268",
-      "title": "Simple Blood Test May Predict Alzheimer’s Years Before Brain Scans Show Signs - SciTechDaily",
-      "published": "2026-04-26T01:12:29+00:00",
-      "summary": "Simple Blood Test May Predict Alzheimer’s Years Before Brain Scans Show Signs&nbsp;&nbsp;SciTechDailyEnhance Neurodegenerative Detection and Monitoring with BD-pTau 217 and α-Syn, Upcoming Webinar Hosted by Xtalks&nbsp;&nbsp;PR NewswireEarly Immune Changes May Signal Increased Risk of Alzheimer’s & Dementia&nbsp;&nbsp;NYU Langone HealthA Promising Study Suggests a Blood Test Could Spot Alzheimer’s Early in Progression&nbsp;&nbsp;Mount SinaiGroundbreaking dementia trial underway at Hampshire NHS ",
+      "id": "c834b2bf3fd1",
+      "title": "The threat of light pollution puts the world’s darkest skies in the Atacama Desert at risk - Yahoo",
+      "published": "2026-04-26T04:02:00+00:00",
+      "summary": "The threat of light pollution puts the world’s darkest skies in the Atacama Desert at risk&nbsp;&nbsp;YahooView Full Coverage on Google News",
       "sources": [
         {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQajdZOC1vNHZCM1RsUDlyR0I3RU1sR0dFQVY4bzR4MUFvVExtcThKMkt1TFBEbXdsOUhSNUdDN01jSDA2SmZuNVJodWJtRFlpRXl3VkU1T2tMbHJxZ0NHRmptUW52TlpNV2J3OVNzczFOYm5FVy1XMEJYZzBFUG9EZ0EwaVB0RWNUOHdkY3NuR2xnNl9sdmI4UXh4U0tJRnBIUGFwZQ?oc=5"
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY3ZhSWhHSk9qbEpkOVo4MW1hR1FIcXg1bVVnWTlGQWE5ZDhVRmI5VDlfLWR1amxiQnN3cmxjSFp2b21LdER6QnZEMmo5dEdFNzRxMHU3amwwbjllT0luMHdUOXZvRGhncF8tbFl4RDhnd2F6OWw5emJDNkxRVHA4V2x1WVk2SFlidUFHRQ?oc=5"
         }
       ]
     },
     {
-      "id": "5066853283de",
-      "title": "Experts say this is the best fruit to eat for a healthier liver - Earth.com",
-      "published": "2026-04-26T01:07:21+00:00",
-      "summary": "Experts say this is the best fruit to eat for a healthier liver&nbsp;&nbsp;Earth.comThis fruit is the greatest for a healthier liver, according to experts.&nbsp;&nbsp;vocal.media",
+      "id": "19a29a4efc0e",
+      "title": "Michael Mosley's Just One Thing hails key vitamin to ward off dementia - Daily Express",
+      "published": "2026-04-26T00:46:00+00:00",
+      "summary": "Michael Mosley's Just One Thing hails key vitamin to ward off dementia&nbsp;&nbsp;Daily ExpressWant to Protect Your Brain From Alzheimer's? A 16-Year Study Suggests a Simple Thing to Do Right Now&nbsp;&nbsp;inc.comLow Vitamin D Levels Tied to Alzheimer’s Brain Changes&nbsp;&nbsp;Fisher Center for Alzheimer's Research FoundationIs Vitamin D Deficiency A Risk Factor For Alzheimer's Disease? Study Answers&nbsp;&nbsp;NDTVIs your vitamin D deficiency secretly fuelling Alzheimer's? Scientists raise al",
       "sources": [
         {
-          "name": "Earth.com",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeVNmdk5wTlVTNXE2eDZjd0JHWmFKWWJ2YjNxaG9jY20wZXNLX202SDRJUzVwNTNDcnViV0duTTRmNjZjeTF0WHlqT3FTWFMzNGloWFNvazdVdkV6djI0ZjljbUZfWTk4YlphVjVHR0FNTktjcnpoVzE5b0N3bHV2Mnl2WFhsQzhMQlM2R0lTZGtmTFRFSHR1WmVhOFZGakg1QjJUc3hIb24?oc=5"
+          "name": "Daily Express",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83ZDdnSDUzNm5VLS1YSVFqdVlmRV8xWi1oSTB5MjhGNU4wSkkxNUR0UGVGR1g4S0xobjVQTXVjNlAyUmhkZDdBS0FBSUsxd1BNbnQ1VGxlNkJEM1B0N0N1bkpSUElrQ0ZzLVBHaEdsdk8teVFSZ1ZreE9HOGHSAYIBQVVfeXFMUGJodnpFNDgyTUQyQWJkUjJ6YUlQRE5LVWgzZERMa3NHRnlrR09iR2xUbE5MV2k4SVhEa085VTM1Y2hiT2hCTkJTU1h3eXlPUFBMZWpMOUJRR05HaHk3ZE5FLU9jUWJDZUdSTFVMWFFGMHhwYkNDS2VoUDNydGZJb3dfZw?oc=5"
         }
       ]
     },
@@ -333,7 +501,7 @@
       "id": "80439dd2177c",
       "title": "80 Going on 50: The Secret Behind ‘SuperAger’ Brains - inc.com",
       "published": "2026-04-25T20:13:28+00:00",
-      "summary": "80 Going on 50: The Secret Behind ‘SuperAger’ Brains&nbsp;&nbsp;inc.comA 25-Year Study Just Nailed Down “the One Observation” Among 80-Year-Olds with Superior Memory&nbsp;&nbsp;YahooCycling Could Be the Secret to Staying Sharp as You Age&nbsp;&nbsp;bicycling.comThese 80-year-olds have the memory of 50-year-olds. Scientists now know why&nbsp;&nbsp;Science DailyThe 80-Year-Olds With 50-Year-Old Memory: What They’re Doing Differently&nbsp;&nbsp;MindBodyGreen",
+      "summary": "80 Going on 50: The Secret Behind ‘SuperAger’ Brains&nbsp;&nbsp;inc.comWhat Makes A SuperAger? A Massive Brain Study Offers A New Clue&nbsp;&nbsp;MindBodyGreenA 25-Year Study Just Nailed Down “the One Observation” Among 80-Year-Olds with Superior Memory&nbsp;&nbsp;YahooCycling Could Be the Secret to Staying Sharp as You Age&nbsp;&nbsp;bicycling.comThese 80-year-olds have the memory of 50-year-olds. Scientists now know why&nbsp;&nbsp;Science Daily",
       "sources": [
         {
           "name": "inc.com",
@@ -362,18 +530,6 @@
         {
           "name": "Neuroscience News",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdDd1dGdGTWpVZUFFdW91Ny1pV2Exa1NiZUxsdDc1U0d6QWlmcmd0a1JzU3plZTROR0dBYUk1ekczcDdsLUpGdXBiMVNDUDN6M25VZXBURG5oOXBtdmhmLTR2TFFVVHhkOGxtOEdZWmxZZFBYbVBqTDZUTGxuV3pUc0g1SHQ3WUQ0RFEwRmxR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ec85423a1b2f",
-      "title": "Why Feeling Good is Harder than Not Feeling Bad - Neuroscience News",
-      "published": "2026-04-25T18:47:58+00:00",
-      "summary": "Why Feeling Good is Harder than Not Feeling Bad&nbsp;&nbsp;Neuroscience NewsTargeting lost pleasure lifts depression and anxiety more than standard therapy, new study finds&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "Neuroscience News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSFJsemhSbUpXNVZJRUoyUVFGWTR2QWViVGR5SzdPRnU5VGhQQmdwM0IwdkJoV3dUUkplNzMyTTd2MTRtRDV5Q1pwTUllQ3IxWWloVU1iU21EYzJ5YVRlUWRlTjlfbTBxbXRXNjZ0OEhwZjFueWgxYTZQYnlOa0tITERSSndHM0ZndHc?oc=5"
         }
       ]
     },
@@ -414,18 +570,6 @@
       ]
     },
     {
-      "id": "98798bb86b7b",
-      "title": "What to eat to feel full — without using Ozempic - The Times",
-      "published": "2026-04-25T17:00:00+00:00",
-      "summary": "What to eat to feel full — without using Ozempic&nbsp;&nbsp;The TimesA nutritionist says consuming more of this type of food when using GLP-1 medications can offset some of the most unpleasant side-effects—and it’s not protein&nbsp;&nbsp;Fit&amp;WellWhat to eat on weight-loss drugs – a nutritionist’s high-protein daily plan&nbsp;&nbsp;Women's HealthExpert calls for tailored nutrition as GLP-1 muscle loss hits menopausal women harder&nbsp;&nbsp;Nutrition Insight",
-      "sources": [
-        {
-          "name": "The Times",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNai1fMTF2TVhybW1GcVU3dnVDeTg3WndtV1QzSTB6QU1maVdkOGRkVUloUEhobmhWU3BfOWxKUWhHYUtqRmRmdnBOVXZPM3I4b1lKV19iZmJzUVNiTTlOVHBfUjUyTW5ST3hwXzdYcUdSQnc1YWZZS0xmWHNqV0JDcElRNlRnUHJweGZySUVicEJQWmpNMmRaTXc3MGlfaVlfTlZWUA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "de532c6df7db",
       "title": "Liver Talks to the Brain to Control Appetite - Neuroscience News",
       "published": "2026-04-25T16:32:02+00:00",
@@ -453,7 +597,7 @@
       "id": "3e99a2d650f9",
       "title": "A Simple Sugar in Ultra-Processed Foods May Drive Obesity, Metabolic Disease - Healthline",
       "published": "2026-04-25T16:29:19+00:00",
-      "summary": "A Simple Sugar in Ultra-Processed Foods May Drive Obesity, Metabolic Disease&nbsp;&nbsp;Healthline",
+      "summary": "A Simple Sugar in Ultra-Processed Foods May Drive Obesity, Metabolic Disease&nbsp;&nbsp;HealthlineCommon sweetener may trigger fat buildup in ways experts didn’t expect&nbsp;&nbsp;Fox NewsScientists Warn: Popular Sweetener Linked to Dangerous Metabolic Effects&nbsp;&nbsp;SciTechDailyScientists warn ingredient hidden in everyday foods could be turbocharging weight gain - and it's not salt or sugar&nbsp;&nbsp;GB NewsFructose Metabolic Effects Study Says This Common Sweetener May Be Driving Obesity",
       "sources": [
         {
           "name": "Healthline",
@@ -462,22 +606,10 @@
       ]
     },
     {
-      "id": "ec5966a419cb",
-      "title": "Scientists just discovered Africa is closer to breaking apart than we thought - Science Daily",
-      "published": "2026-04-25T16:27:15+00:00",
-      "summary": "Scientists just discovered Africa is closer to breaking apart than we thought&nbsp;&nbsp;Science DailyNecking of the active Turkana Rift Zone and the priming of eastern Africa for continental breakup&nbsp;&nbsp;NatureA huge tectonic boundary shook the ground where dinosaurs once stood&nbsp;&nbsp;Phys.orgAfrica's major discovery of new 300-mile ocean as continent splits&nbsp;&nbsp;Daily ExpressAfrica Is Breaking Apart Faster Than Scientists Thought. Now What?&nbsp;&nbsp;VICE",
-      "sources": [
-        {
-          "name": "Science Daily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vTW5wamtJcnRNOFd6akw0NzJZMjE2dmFleVhqdVJGNFFmYURxUGZndkEwQWUzZzUwZDBMaGdwS0hKbXQwekRNMXJDaXRfeWhKbmpyY25rVWxPRW5TN1VwZ0tQMUFhMERSU0o0R1R3cw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8ce552fc8291",
       "title": "Along with rapid weight loss, patients see other benefits and risks of GLP-1 drugs - WPEC",
       "published": "2026-04-25T16:26:31+00:00",
-      "summary": "Along with rapid weight loss, patients see other benefits and risks of GLP-1 drugs&nbsp;&nbsp;WPECPatients taking weight-loss drugs often make 5 critical mistakes, doctor warns&nbsp;&nbsp;Fox NewsFat jabs for all will herald an epidemic of smugness&nbsp;&nbsp;The TelegraphGLP-1 agonists and changes in body mass and composition in adults with overweight or obesity with or without type 2 diabetes mellitus: a systematic review and meta-analysis&nbsp;&nbsp;NatureWhy UW Medicine is Rethinking Tirzepa",
+      "summary": "Along with rapid weight loss, patients see other benefits and risks of GLP-1 drugs&nbsp;&nbsp;WPECGLP-1 agonists and changes in body mass and composition in adults with overweight or obesity with or without type 2 diabetes mellitus: a systematic review and meta-analysis&nbsp;&nbsp;NatureFat jabs for all will herald an epidemic of smugness&nbsp;&nbsp;The TelegraphPatients taking weight-loss drugs often make 5 critical mistakes, doctor warns&nbsp;&nbsp;Fox NewsWhy UW Medicine is Rethinking Tirzepa",
       "sources": [
         {
           "name": "WPEC",
@@ -546,10 +678,22 @@
       ]
     },
     {
+      "id": "9739cddbd5f3",
+      "title": "Plenty of Supplements Claim to Help Your Brain. These 5 Actually Do It. - Men's Health",
+      "published": "2026-04-25T14:00:00+00:00",
+      "summary": "Plenty of Supplements Claim to Help Your Brain. These 5 Actually Do It.&nbsp;&nbsp;Men's Health",
+      "sources": [
+        {
+          "name": "Men's Health",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbjZTNkRQdGRUMmhuXzhJYzJQMGRqN2RnOEtwMTZGbExGbjFOUHgwQ0hSbV9CcVlEbmVTX3E3NS1XWmRyV0Z1V21vR1VVVkctMWN5OGowZFRXUjlFT0htNUFpT2VHbnVWbHpDbVVVYml2YkVWXzZqTGZMU2pCeDNBMC1Jb0FmLWJwVjc3VWhPQlZ2YXowVE5N?oc=5"
+        }
+      ]
+    },
+    {
       "id": "460a0213a890",
       "title": "Eccentric exercise builds muscle strength and size with less effort - News-Medical",
       "published": "2026-04-25T13:55:00+00:00",
-      "summary": "Eccentric exercise builds muscle strength and size with less effort&nbsp;&nbsp;News-MedicalStair Descending Delivers Greater Exercise Benefits Than Climbing, Study Finds&nbsp;&nbsp;아시아경제You don’t need exhausting workouts to build strength and health, study finds&nbsp;&nbsp;The Brighter Side of NewsWalking Downstairs Could Be the Best Workout You’re Not Doing&nbsp;&nbsp;ScienceBlog.comExercise Smarter, Not Harder: The Science Behind Why Less Can Be More&nbsp;&nbsp;Bioengineer.org",
+      "summary": "Eccentric exercise builds muscle strength and size with less effort&nbsp;&nbsp;News-MedicalView Full Coverage on Google News",
       "sources": [
         {
           "name": "News-Medical",
@@ -578,126 +722,6 @@
         {
           "name": "Indian Defence Review",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkhwUXpPMTBPT29FcjI0SFo4RjVDODFOSTRqTFNlLTBXOEZQbmMzY2VNS3JZejJuRFN0a1VsU3lDcFRfQkV6M0tpZ3VERWc1OEQ0eWRSSjlNc18wMXRRR1FiMVR2Nm1XM1g2QktQLWo3eTNERnBISExTSk9jXzRsaA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ff6eb332a0e4",
-      "title": "Diabetes: 5 fruits that can be secret weapon against high blood sugar - The Times of India",
-      "published": "2026-04-25T12:50:10+00:00",
-      "summary": "Diabetes: 5 fruits that can be secret weapon against high blood sugar&nbsp;&nbsp;The Times of IndiaCan diabetics eat mangoes? Celebrity nutritionist says portion, timing and lifestyle matter more. Shares t&nbsp;&nbsp;The Economic TimesAfraid fruits will spike blood sugar this summer? Endocrinologist shares correct way to eat mango, watermelon, and more&nbsp;&nbsp;Hindustan TimesDiabetes Care: Do You Have Diabetes? Keep This in Mind About Eating Mangoes, Otherwise It Will Cause Trouble&nbsp;&nbsp",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdUplVUN1QnpFYXJYR3lFbHYwQjl0eTc1Q3VPTERtQnVSMFJNV0JuSTgyQk1WVmhVdC1Va0dWTVNuLVFjTlJXaDVlc0pNLXhZQXY2SXpCOEJiRktFZWJsNVAyLThJRmZweGhRRDZNaWdKOWZWbHlNWnNLSk9ibWg5bHJsVTNIdk9pMllneWRTLURBTXVNanVROElEdWMzRkRZdURqXy1iSWh3OU1ESXg1QWNPQ0tfOVFSZnB0ekRGd2ZiTVN5SXRWbHUwcFpSazhrNElaN3dOSDJUaHNIWXfSAeYBQVVfeXFMTkxja0lGOEtNbWdaWXRsVTNkUkVXczgwU1d5YTNqMEd0MVdLWWlTR1dvc01QZUZXRzBucHVxSVppemdkMjVVREVZU19nVVZGdTJVUmo4Ny04MDd5Y1RLSEQ3SEpiZHZlekcwYVNxUXZIQURGTEVtSGVQbVRpZWxnWldxODJVMmJiTHlZcFRxWTMyMWMzOVQwQ2QwUThZS21ibnpjWW9BN1IzSEJNYkJTVVV3d0lRMFJtZGFUMWs2SkNRaXNfNExJbTFuNm5JN1dmX2pyTmRlTnVKWkx3dS13MlJxeDVMcEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "60a2b9b870cd",
-      "title": "Gut Bacteria Could Be a Hidden Trigger For Neurodegenerative Diseases - ScienceAlert",
-      "published": "2026-04-25T12:04:17+00:00",
-      "summary": "Gut Bacteria Could Be a Hidden Trigger For Neurodegenerative Diseases&nbsp;&nbsp;ScienceAlertHow neurons sense bacteria in the gut&nbsp;&nbsp;EurekAlert!Early Laboratory-Based Study Explores the Biological Link Between Inflammatory Gut Bacteria and FTD and ALS Disorders&nbsp;&nbsp;AFTD - The Association for Frontotemporal DegenerationCase Western Reserve links gut bacterial sugars to ALS FTD&nbsp;&nbsp;NewsBytesBacteria and the Brain: 5 Clues From a Hidden Gut Trigger&nbsp;&nbsp;El-Balad.com",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUFM3aEtxV1FJcDAydHBnQV84S3dCSW92aGxsN2d3NU1KR3o2bktaY19ocW1iZUVXRHl4NW80VXhYT1h1SE1LUTI0VUhMZnQ2ckkweldRZ0RUU2pkdmh6LXZnLWRHbU1tOHFDRFJiemlSel85MTBTOHVzSmxOWHBzRV9fazJoa0tGX3BxaXFDbjdaNjVqNXhad3ZpWnlpQ28?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5a044b81f97f",
-      "title": "A 13-year-old's kidney was failing, then a stranger stepped in: \"I don't think there was a dry eye in the room\" - CBS News",
-      "published": "2026-04-25T12:00:00+00:00",
-      "summary": "A 13-year-old's kidney was failing, then a stranger stepped in: \"I don't think there was a dry eye in the room\"&nbsp;&nbsp;CBS News",
-      "sources": [
-        {
-          "name": "CBS News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdUlLdnV0Zmhfd19JMHhTWml6TW12QnpTNldQcV9fR3M1Mkh4WUU3N0JzaFRTUUZ6a0VsYTdPYnZKMDUtYTZNQVNJcENmZE5URV90eWx2d2tKazh5bE9oVU9ITXlPRTJLWnlHLXVuSGlSNnVRblM0QTN5RF84TTZzSXhiUURYQm9MbkFTY19SeWxLUdIBlwFBVV95cUxNQW5BZG5BS0pYOUtkTGhueG5KUFZmNy1Dc1ZsQ0Jlb0RBWWNfS1dDRlZTNElWbFJSN2w4Mjdxc2JnVmlSYjJuVWtmemkxbGk2MzctNnlYdW4tWDIwS3dxbnlvRkI5MWpGM25OOUJUUklCT1lhN1I2TnVKcmhMNGJTN09MY2RxaVZjd3UzREZOelRKekdEZVlr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "867ece284d01",
-      "title": "‘Bat feast’ animal videos at African cave offer clues to how deadly viruses spread - Yahoo",
-      "published": "2026-04-25T12:00:00+00:00",
-      "summary": "‘Bat feast’ animal videos at African cave offer clues to how deadly viruses spread&nbsp;&nbsp;YahooCamera traps film predators descending on cave filled with 40,000 bats. What happens next is staggering&nbsp;&nbsp;BBC Wildlife MagazineRemote Cameras Capture 10 Different Predators Descending on Bat Cave&nbsp;&nbsp;PetaPixelUganda's Python Cave reveals how a Marburg virus outbreak could begin&nbsp;&nbsp;Phys.orgPeople Are Trespassing Near Cave Full of Bats Infected by 'Bleeding Eye' Virus&nbsp;&nb",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbmlZYmFkb0J0T3pnYWM4SU9vSEk5RUtaYVJMNUcwRTFocHhEdUtZT2k3WEItcGpyNVRqYkxjNlR4UzdyR2ZGeE5KaUlhMVBaZXlJRG9peURNRllORGRLbzJMczR3eHZORDZEMGFndmx3M1FmaG9WdWJQcWRpWWl0TkpMQmFLNzJSaXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b783acc9077c",
-      "title": "Your Old Smartphone Could Be A Fire Risk Hiding In Plain Sight - bgr.com",
-      "published": "2026-04-25T11:47:00+00:00",
-      "summary": "Your Old Smartphone Could Be A Fire Risk Hiding In Plain Sight&nbsp;&nbsp;bgr.com",
-      "sources": [
-        {
-          "name": "bgr.com",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLUJOUnpSb2t5ZHlUeV8xTlBaaTE2ejhoRENyU2lEcDI1OE41TDFuUTc5MTh3b0lIRW1kbW0wY25mTkZyWG9MV0FsVklTNzRIazZ4OUg5OUJnc0czdm8wR1ppSXVYWTh0MUlXSHYzLW02R0YyVnZVNkVKTkxKeHI2aA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f639bf0e8930",
-      "title": "GLP-1 Drugs Linked to Cognitive Impairment, Though the Reason Why Probably Isn't What You Expect - Futurism",
-      "published": "2026-04-25T11:30:00+00:00",
-      "summary": "GLP-1 Drugs Linked to Cognitive Impairment, Though the Reason Why Probably Isn't What You Expect&nbsp;&nbsp;FuturismWeight-loss drugs could tackle Alzheimer's—study&nbsp;&nbsp;Medical XpressWhat a New Study Shows About Brain Health and GLP-1 Drugs&nbsp;&nbsp;MedPage TodayWeight-loss drugs may help protect the brain from Alzheimer’s&nbsp;&nbsp;Earth.comGLP-1 Drugs Target the Roots of Dementia&nbsp;&nbsp;Neuroscience News",
-      "sources": [
-        {
-          "name": "Futurism",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMi1Mc0tkRlhTeFZURi1LenlLVXNxWU9EMkpvTlhoNnRWbm9lNDdnd0NnVkhrQ3E0SWN2dno5Uld0STRkNVMzRW5pYS1SSkQ4Yk1YZ3hFbGQwNVotNHN6dzBocmNILVNqUGN4Z2dnLWx3VUlmQXBUbjFBZ2RpalJwWVBB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8a419685d655",
-      "title": "Should We Finally Ditch Artificial Sweeteners for Good? - Gizmodo",
-      "published": "2026-04-25T11:00:01+00:00",
-      "summary": "Should We Finally Ditch Artificial Sweeteners for Good?&nbsp;&nbsp;GizmodoArtificial Sweeteners May Affect Grandchildren's Metabolism, Study Finds&nbsp;&nbsp;Seoul Economic DailyPopular diet soda ingredient tied to gut bacteria changes passed down across generations: study&nbsp;&nbsp;New York PostZero-calorie sweeteners may impact future generations, study warns&nbsp;&nbsp;Fox NewsThe effects of consuming artificial sweeteners can be felt in future generations ᐉ News from Fakti.bg - Здраве&nbsp;",
-      "sources": [
-        {
-          "name": "Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdDc2ajhoVm90dmx3dWtkVlJmUVVUcjZpc2U5RVNDTG5ac1NmbWNodUNDdUNEMVZsbi1QM2NzV0d6S2gxRm1obmVXdHRiMndLbHZEcVE5Ny1aQ3RFZlk2eG5NUWxjTFBCa182akVVLS1UNHFvcHFaeTh4QXl5c0FqRkdNNkFfcnhNNlVBd1F3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8f9b7aebe8b1",
-      "title": "Why Is No One Taking Baby Aspirin for Heart Disease Prevention Anymore? - Women's Health",
-      "published": "2026-04-25T11:00:00+00:00",
-      "summary": "Why Is No One Taking Baby Aspirin for Heart Disease Prevention Anymore?&nbsp;&nbsp;Women's Health",
-      "sources": [
-        {
-          "name": "Women's Health",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZTFYTVQxU0ZGbTlwMDcxTkdfaGJUbU5lc1FQNXI2Q1Nmb1JJdlhxclFDeVVSV1FBSmQ4THNTV0c4aVhZcUMxUU9fcW4tTElWVGV3dXlqV2VmOTJaNkU4S29zRkR5N2RpSzdob3o5czhOSUpNWDU4ajY5Tm5BYTByd1k3N0sxT3JkdWlscVpEQWdYRl9KaUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f241902bb27c",
-      "title": "New psychology research reveals your face might determine how easily people remember your name - PsyPost",
-      "published": "2026-04-25T10:20:30+00:00",
-      "summary": "New psychology research reveals your face might determine how easily people remember your name&nbsp;&nbsp;PsyPost",
-      "sources": [
-        {
-          "name": "PsyPost",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZjJpa3puTzNxZTNwTHo2SjFxM3R1Ti1WNUVQMU9ja0t6cGFJSkF6TjJqNmVJSmVLMVhuQmpIMk5yNzdCcFY0cWdMRmpmVzJiMnoxV2pkbV9jYkFMcWtyeFI0aGx0SlMzSzIxOG9mQkREYWxsNnIwUXZEQnJ3QU41aGxMN2syenFGdndFQVBpeURSbWpXNEhodzgxQjhMd29VaHdXWEh2ZmN2R3lBMzhBZF9ZLUxDX2xDQWYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "604e9617b3fc",
-      "title": "Woman, 43, Found Tiny Sore on Her Breast. She Later Learned It Was an Aggressive Form of Breast Cancer - Yahoo",
-      "published": "2026-04-25T08:00:00+00:00",
-      "summary": "Woman, 43, Found Tiny Sore on Her Breast. She Later Learned It Was an Aggressive Form of Breast Cancer&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQTlLSnhrYm1yX3J5ZzE4dkl5WUs2emgzV2lkSEJPZGpFTmViZ1hwTEIwYnpadzk2cDdiQVZENFM2WVpmUllIM3N3N0RZTjVSc09rdXF6NzhuYnlNeXlNdmEwMXhkRmtXVVQtc0hIaXRmb1VOTVFna01mamwtVV8xRnpxTHFNLXM?oc=5"
         }
       ]
     }

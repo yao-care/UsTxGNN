@@ -1,19 +1,31 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-04-27T03:26:14.349661+00:00",
-  "total_fetched": 115,
-  "unique_count": 115,
-  "health_related_count": 57,
+  "fetched_at": "2026-04-27T08:31:10.281009+00:00",
+  "total_fetched": 122,
+  "unique_count": 122,
+  "health_related_count": 58,
   "news": [
     {
       "id": "26b9bedd57eb",
       "title": "New deadly disease outbreak map flags 'highly vulnerable' regions around the world - Earth.com",
-      "published": "2026-04-27T02:40:44+00:00",
+      "published": "2026-04-27T06:25:36+00:00",
       "summary": "New deadly disease outbreak map flags 'highly vulnerable' regions around the world&nbsp;&nbsp;Earth.com",
       "sources": [
         {
           "name": "Earth.com",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQajlHZlVTMGZSenJHaWM4c29zcktDXzhyWm1kQTRiYjNnV0lYZ2EyTnV3UkRlVnRPajc5M2JiUkQwMUp5cG9VLVJxakdwcjZMOGQzcE85STRnQU9PWVFLbkZqSVpNN1FPbVl4NnFxa01kVzJ6ZFctd2RLMTZ0b2pUTGJFZDY3ZzdNM280NkNDY3JGdXh0SUpmRzZaSlFnWWZRcGpDZDM4cEN3SEpw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6917dfe02f37",
+      "title": "Even Low Levels of Alcohol Could Damage Your Brain, Study Finds - ScienceAlert",
+      "published": "2026-04-27T05:11:05+00:00",
+      "summary": "Even Low Levels of Alcohol Could Damage Your Brain, Study Finds&nbsp;&nbsp;ScienceAlert",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYm8xQXhkMlRScXl6cmdtd2FOZGdYUXFGeG9FUWtvc196S2s0QTAzS0pkbWM0QXhlM0ZKeWpfb0ZRbS1hc3VQOUUxOV9oRjU0NXJSRWdhTkZFVlJmUlZ2ZVVZY3pnak1ZMDhqVDBRVGJLaTloMmcwNWFZZGJTWmFtUHh0TGktTmVqWXBVX2dCSHVyM3d2Snc?oc=5"
         }
       ]
     },
@@ -38,6 +50,18 @@
         {
           "name": "AOL.com",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5iUlJsbHBMVVpKUEM4Nl9sOEVLMU5xNmZKYTNVMWpvQ01BWGJkd1BfZHZzYXFXdE9EeUFTRHBEMFhzRHctdG9jT191Q282a2VrOG5ZMU5Xa2Jnam1rZ3dwME5uU19CX1N4X3E0UzlYRzUzcXdBYVZMNExR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ffdaeb06aec5",
+      "title": "AI-enhanced microscopy produces crisp, real-time video inside live cells - Phys.org",
+      "published": "2026-04-26T20:00:34+00:00",
+      "summary": "AI-enhanced microscopy produces crisp, real-time video inside live cells&nbsp;&nbsp;Phys.orgHow Watching Living Cells Could Transform Disease Research and Treatment&nbsp;&nbsp;USC Viterbi School of EngineeringA Simpler Path to Super-Resolution: Scientists Reinvent Microscopy&nbsp;&nbsp;SciTechDailyUCSD: AI-Enhanced Microscopy Produces Crisp, Real-time Video Inside Live Cells&nbsp;&nbsp;HPCwire",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tVGdVckpBY05LQXR6YmVncnRXQ2VXM2paOGx6UDF1WWVBYUpEZEVlMGNsT1VNSkNzNFFYRVBiTjFUc24zLVZJSFRNWWN0WXl2Q0ZZVHpJcFMtdGp3V29oLTE5MW1EUXdyODhWMlM0T1M5ekU?oc=5"
         }
       ]
     },
@@ -78,10 +102,22 @@
       ]
     },
     {
+      "id": "5451f37f358e",
+      "title": "Coffee May Boost Your Mood And Brainpower, Even Without Caffeine - ScienceAlert",
+      "published": "2026-04-26T18:03:09+00:00",
+      "summary": "Coffee May Boost Your Mood And Brainpower, Even Without Caffeine&nbsp;&nbsp;ScienceAlertHabitual coffee intake shapes the gut microbiome and modifies host physiology and cognition&nbsp;&nbsp;NatureNew study reveals coffee’s positive gut impacts, even without caffeine&nbsp;&nbsp;USA TodayRegular consumption of coffee ‘significantly’ boosts mood and reduces anxiety&nbsp;&nbsp;The IndependentYour daily coffee habit may be quietly reshaping your gut and mood, study finds&nbsp;&nbsp;Fox News",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQazd5ZTdXZUNoOTJGNVZSWF9ZMFY3VlZ3cGJ5WXNKNXZXZExETFJEMFp3d2FkY1dQaTgxVENkR3JkcnNnYmlENHhUUjZkV2xWUHRETEo2MFd5aDNyQlhPemFzbjJneGdlX3EwT3ZoX1lua3I5NVY2M2I5aWxWdzk1c0hLQnMwRkNQSjN3dXJjN1RMU2xjaUlN?oc=5"
+        }
+      ]
+    },
+    {
       "id": "36e9b6104321",
       "title": "Guest column | I study wearable health data. Here’s what continuous glucose monitors miss. - The Washington Post",
       "published": "2026-04-26T16:00:00+00:00",
-      "summary": "Guest column | I study wearable health data. Here’s what continuous glucose monitors miss.&nbsp;&nbsp;The Washington PostContinuous Glucose Monitors Move Beyond Diabetes Care as Wellness Industry Pushes Into Metabolic Tracking&nbsp;&nbsp;The Eastern Herald",
+      "summary": "Guest column | I study wearable health data. Here’s what continuous glucose monitors miss.&nbsp;&nbsp;The Washington PostContinuous glucose monitors: New guidelines recommend expanding CGM use for people with diabetes&nbsp;&nbsp;Harvard HealthContinuous Glucose Monitors Move Beyond Diabetes Care as Wellness Industry Pushes Into Metabolic Tracking&nbsp;&nbsp;The Eastern HeraldCoverage, Pre-Symptomatic Care, and Non-Insulin Users: Expanding CGM's Role&nbsp;&nbsp;Managed Healthcare Executive",
       "sources": [
         {
           "name": "The Washington Post",
@@ -90,10 +126,22 @@
       ]
     },
     {
+      "id": "5caad706e0d8",
+      "title": "Misdiagnosed as TB, this 28-year-old had lung cancer: The one pill that turned his life around - The Times of India",
+      "published": "2026-04-26T15:30:00+00:00",
+      "summary": "Misdiagnosed as TB, this 28-year-old had lung cancer: The one pill that turned his life around&nbsp;&nbsp;The Times of India",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPY1duVURsVTJ2YTdvZVVac3RJMXJmNi0zajBfRlJ4MUZPM05XY2dpbUZQT2RkM09pYkJBM180U2RuMmZaSWZIc3R4eVVKWUM0T0lRTDhpXzU0a1d1WV83cUdnZ0VJLVh6TjloVHZTNm15djJWZ0kzQ2dybzE2UWRpRGVpTWNidWZkV1JOak8yTC1LTmVMUlhLd0RiSlpPekNOOGVlcDFwWVQ2MnZhcmpKTzRKQ1d2akl2MEVZN1ZfTTNaaWcwWDUtM3VzOFRvcDE5SXM5b05WTXU0YVliSHhyYUw4ckJoZXlCUGJRMGFFWWVKSUHSAfgBQVVfeXFMTzRQTXUzbjRWOEppMThOZFR5VlhXNFZIOFZBR1FuUV9wQVhYajk2djhBVGNxM3JnTGNMR005dFRFNVF3alBoTGpoMDJFNUVNRVpHamJiUEN0ZDZrWHhfTVN2UmIzb0JhRUpzWkt2T05zMnF5Q0dHN2w4UlUyYS1CVU42TTFDRDdQWVNDbjdEVkJtYURQekJEOUw1NEhkUFQzVl9LNFVjd1A1c3B5R1NBV1Z6SzBFOVlaVXNJTWJ5VXF3cThWWjZVTmlwVWoyLWo3bGNnck4zZGxxaXlwakhVcEw1OWtQV21acXRjMEZNeVVyTFBCQkpHU1o?oc=5"
+        }
+      ]
+    },
+    {
       "id": "20f419a24102",
       "title": "A Dangerous Bacteria Is Moving Up the East Coast. Here’s What That Means for You - Gizmodo",
       "published": "2026-04-26T13:00:12+00:00",
-      "summary": "A Dangerous Bacteria Is Moving Up the East Coast. Here’s What That Means for You&nbsp;&nbsp;GizmodoFlesh-Eating Bacteria Found In LI Water Has 20 Percent Chance Of Killing People, Dogs In 48 Hours: Expert&nbsp;&nbsp;PatchFlesh-eating bacteria found in Long Island waters leave victims with 20% chance of dying in 48 hours&nbsp;&nbsp;New York PostStudy finds flesh-eating bacteria, harmful algal blooms in Long Island waters as quality worsens&nbsp;&nbsp;FOX WeatherDangerous Flesh-Eating Bacteria Tha",
+      "summary": "A Dangerous Bacteria Is Moving Up the East Coast. Here’s What That Means for You&nbsp;&nbsp;GizmodoDangerous Flesh-Eating Bacteria That Can Kill Within 48 Hours Found in New York Waters&nbsp;&nbsp;people.comKnow the facts about Vibrio, a bacteria found in coastal waters and raw shellfish&nbsp;&nbsp;grist.orgStudy finds flesh-eating bacteria, harmful algal blooms in Long Island waters as quality worsens&nbsp;&nbsp;FOX WeatherWhat To Know About Flesh Eating Bacteria Ahead Of The Summer Beach Seaso",
       "sources": [
         {
           "name": "Gizmodo",
@@ -117,7 +165,7 @@
       "id": "a6157442dfc6",
       "title": "ALS took his voice. A brain implant helped him speak to his daughter again - San Francisco Chronicle",
       "published": "2026-04-26T11:11:11+00:00",
-      "summary": "ALS took his voice. A brain implant helped him speak to his daughter again&nbsp;&nbsp;San Francisco ChronicleEmory and Georgia Tech trial helps paralyzed patients speak&nbsp;&nbsp;FOX 5 AtlantaPatient Kenneth with ALS speaks again using Neuralink brain implant&nbsp;&nbsp;NewsBytesMan diagnosed with ALS lost his speech can now communicate via Neuralink brain chip&nbsp;&nbsp;Moneycontrol.comNeuralink Patients Describe Brain Implant as “Life-Changing” in New Video&nbsp;&nbsp;TeslaNorth.com",
+      "summary": "ALS took his voice. A brain implant helped him speak to his daughter again&nbsp;&nbsp;San Francisco ChronicleMan diagnosed with ALS lost his speech can now communicate via Neuralink brain chip&nbsp;&nbsp;Moneycontrol.comEmory and Georgia Tech trial helps paralyzed patients speak&nbsp;&nbsp;FOX 5 AtlantaPatient Kenneth with ALS speaks again using Neuralink brain implant&nbsp;&nbsp;NewsBytes",
       "sources": [
         {
           "name": "San Francisco Chronicle",
@@ -177,11 +225,23 @@
       "id": "3c8453eb3e13",
       "title": "Measles Surge in South Carolina Ends After Sickening Nearly 1,000 - The New York Times",
       "published": "2026-04-26T09:00:25+00:00",
-      "summary": "Measles Surge in South Carolina Ends After Sickening Nearly 1,000&nbsp;&nbsp;The New York TimesSouth Carolina’s 200-day measles outbreak is over. What it cost.&nbsp;&nbsp;Post and CourierWith measles in CSRA, should you get a test for immunity?&nbsp;&nbsp;WRDWSC can’t afford to let vaccine rates drop. Seniors are especially at risk.&nbsp;&nbsp;News From The StatesDPH reports no new measles cases ahead of potential Sunday end to state outbreak&nbsp;&nbsp;South Carolina Public Radio",
+      "summary": "Measles Surge in South Carolina Ends After Sickening Nearly 1,000&nbsp;&nbsp;The New York TimesSC DPH: Upstate measles outbreak declared officially over&nbsp;&nbsp;WYFF News 4With measles in CSRA, should you get a test for immunity?&nbsp;&nbsp;WRDWSC can’t afford to let vaccine rates drop. Seniors are especially at risk.&nbsp;&nbsp;News From The StatesSouth Carolina’s 200-day measles outbreak is over. What it cost.&nbsp;&nbsp;Post and Courier",
       "sources": [
         {
           "name": "The New York Times",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOGNQNEVubHg3c003RlV5OXNpSjNIQmUxcHJwNW8yeXpmUlItakc4VHdxMHBQX1cydFJPVXQ5Z0txMExKZXpkbV93b2QxSUU4aFR1ZDNmamhqQnk1N0tJS043WWlZWHR5LVNqSS00TVdnZGFTMHgySzl0ZzRiZWVqLVlRWE1DTW85?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "96a72d5abb87",
+      "title": "Neanderthals' extinction linked to social isolation, not climate change, new study shows - The Hindu",
+      "published": "2026-04-26T08:47:50+00:00",
+      "summary": "Neanderthals' extinction linked to social isolation, not climate change, new study shows&nbsp;&nbsp;The HinduClimate and competition alone cannot explain Neanderthal extinction, study finds&nbsp;&nbsp;Phys.orgWhat Killed the Neanderthals? New Research Suggests a Lack of Genetic Diversity May Be Partially to Blame&nbsp;&nbsp;Smithsonian MagazineScientists reveal why Neanderthals vanished in Europe&nbsp;&nbsp;Tech ExploristMystery of Neanderthal Extinction Deepens as Study Finds Climate and Compet",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaDNFTFdKV3JQLWlEVzBSaUZORVlQODBGTlNoSkkwYUxxTGo1RW1YdzNKc2xHU0I0cHU0eEtiNDBhZzlXay11T1VKOWk1WEpab3I2Y3FFdUxmakhUM1N6U0ZJOUIwaVlUTFhmVkctejNnV0s3QmRSTkt3MmhqdU94TU41aGM0N3lhWjc2SmJuWFdXU1puQ3JjaFFkaXhwd9IBpAFBVV95cUxOXzFUYzgweDZVaE1Ib2plczVtQ0RBVXhUNVFTdG9UVHhwT25NcHlJa1ZxeFdva255MEdlbWxxYWhrSjVkVm9ITzVzczVLRzlTY0QzMjhLTHlNY3pldFk2aUtCTDJVSFF5a0lEeDRjaktQYm8xb283QzE1WlFSVEQ5emlRdkMyWHJlR1pnVkZFNlgzYURraDB3RlU5NDlMT01hMkVqUw?oc=5"
         }
       ]
     },
@@ -234,18 +294,6 @@
       ]
     },
     {
-      "id": "15ccffa83260",
-      "title": "We Asked Doctors What Allergy Medication Actually Works. This Is What They Said. - AOL.com",
-      "published": "2026-04-26T04:02:09+00:00",
-      "summary": "We Asked Doctors What Allergy Medication Actually Works. This Is What They Said.&nbsp;&nbsp;AOL.comView Full Coverage on Google News",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYmtrbWpCRTFsTy1GaWxQT2owUGlmN250Q015NE85UzBXRG5VaTZSeXdBVUktN2dMVWJVZXFKQkV5M0I5cmduVGlQeHNOY1BTLWN1UjZiZ3JydzY1NXVsb0hMRm5xa2kwRWQxSHZEQnhGVU5CTEcyd0ltdHlUT3RXSmVn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7d5c69e7e268",
       "title": "Simple Blood Test May Predict Alzheimer’s Years Before Brain Scans Show Signs - SciTechDaily",
       "published": "2026-04-26T01:12:29+00:00",
@@ -282,22 +330,10 @@
       ]
     },
     {
-      "id": "fc845b8b933f",
-      "title": "NEW: RIDOH Confirms Second Measles Case of 2026 in RI - Unrelated to First - Go Local Prov",
-      "published": "2026-04-25T21:03:00+00:00",
-      "summary": "NEW: RIDOH Confirms Second Measles Case of 2026 in RI - Unrelated to First&nbsp;&nbsp;Go Local ProvRI reports 2nd measles case of 2026&nbsp;&nbsp;WPRI.comDepartment of Health Confirms Measles Case In Rhode Island&nbsp;&nbsp;iHeartRIDOH confirms first measles case of 2026&nbsp;&nbsp;The Brown Daily HeraldRhode Island confirms second measles case of 2026 in patient seen at Middletown urgent care&nbsp;&nbsp;What's Up Newp",
-      "sources": [
-        {
-          "name": "Go Local Prov",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPckNERG02Y0E0V0ZvQ0xvdUx2ZEV1NlQ3UV9NaG5WY2VUTjVzaDdaR0owZnhaZTdtWnNwekFmc3JKMU9zVDAxRDFmUFFyZTFFcXhNSmc2a3VKX2xhQ1Jza1EtSGFHOC1jNUhuNXhZOVU4c0FDU0M2WWxFb1FTbUZ1bDUwUUZlbjQ3WVVxaU9uSENIUjhJaXhuR0k2YTlVWm92N3dVZWNqUE53UQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "80439dd2177c",
       "title": "80 Going on 50: The Secret Behind ‘SuperAger’ Brains - inc.com",
       "published": "2026-04-25T20:13:28+00:00",
-      "summary": "80 Going on 50: The Secret Behind ‘SuperAger’ Brains&nbsp;&nbsp;inc.comA 25-Year Study Just Nailed Down “the One Observation” Among 80-Year-Olds with Superior Memory&nbsp;&nbsp;YahooCycling Could Be the Secret to Staying Sharp as You Age&nbsp;&nbsp;bicycling.comThe 80-Year-Olds With 50-Year-Old Memory: What They’re Doing Differently&nbsp;&nbsp;MindBodyGreenThese 80-year-olds have the memory of 50-year-olds. Scientists now know why&nbsp;&nbsp;Science Daily",
+      "summary": "80 Going on 50: The Secret Behind ‘SuperAger’ Brains&nbsp;&nbsp;inc.comA 25-Year Study Just Nailed Down “the One Observation” Among 80-Year-Olds with Superior Memory&nbsp;&nbsp;YahooCycling Could Be the Secret to Staying Sharp as You Age&nbsp;&nbsp;bicycling.comThese 80-year-olds have the memory of 50-year-olds. Scientists now know why&nbsp;&nbsp;Science DailyThe 80-Year-Olds With 50-Year-Old Memory: What They’re Doing Differently&nbsp;&nbsp;MindBodyGreen",
       "sources": [
         {
           "name": "inc.com",
@@ -321,7 +357,7 @@
       "id": "30b1ef788b27",
       "title": "Ultra-Processed Foods Erodes Visual Attention - Neuroscience News",
       "published": "2026-04-25T19:39:41+00:00",
-      "summary": "Ultra-Processed Foods Erodes Visual Attention&nbsp;&nbsp;Neuroscience NewsUltra-processed foods damage your focus even if you eat healthy&nbsp;&nbsp;Monash UniversityChips today, fog tomorrow? Study links processed foods to waning focus&nbsp;&nbsp;The Straits TimesUltraprocessed foods hurt your focus - even with a healthy diet&nbsp;&nbsp;The IndependentStudy Links Ultra-Processed Foods To Cognitive Decline And Dementia Risk&nbsp;&nbsp;ndtv.com",
+      "summary": "Ultra-Processed Foods Erodes Visual Attention&nbsp;&nbsp;Neuroscience NewsUltra-processed foods damage your focus even if you eat healthy&nbsp;&nbsp;Monash UniversityUltraprocessed foods hurt your focus - even with a healthy diet&nbsp;&nbsp;The IndependentJunk Food Binge Damages Your Brain's Self-Control Centers (New Study Reveals the Metabolic Scar No Scale Can Measure)&nbsp;&nbsp;BoxLife MagazineStudy Links Ultra-Processed Foods To Cognitive Decline And Dementia Risk&nbsp;&nbsp;NDTV",
       "sources": [
         {
           "name": "Neuroscience News",
@@ -393,7 +429,7 @@
       "id": "de532c6df7db",
       "title": "Liver Talks to the Brain to Control Appetite - Neuroscience News",
       "published": "2026-04-25T16:32:02+00:00",
-      "summary": "Liver Talks to the Brain to Control Appetite&nbsp;&nbsp;Neuroscience NewsNatural molecule could provide Ozempic, Wegovy alternative&nbsp;&nbsp;DW.comNatural hormone may reduce obesity without cutting calories, scientists say&nbsp;&nbsp;Fox NewsPennington Biomedical Research Advances understanding of how the brain senses diet to control appetite and metabolism&nbsp;&nbsp;EurekAlert!Hunger for Protein Is Controlled by a Brain Region Nobody Was Watching&nbsp;&nbsp;ScienceBlog.com",
+      "summary": "Liver Talks to the Brain to Control Appetite&nbsp;&nbsp;Neuroscience NewsNatural hormone may reduce obesity without cutting calories, scientists say&nbsp;&nbsp;Fox NewsFGF21 hormone reverses obesity in mice by switching on fat-burning brain circuits&nbsp;&nbsp;diabetes.co.ukPennington Biomedical Research Advances understanding of how the brain senses diet to control appetite and metabolism&nbsp;&nbsp;EurekAlert!Hunger for Protein Is Controlled by a Brain Region Nobody Was Watching&nbsp;&nbsp;Sci",
       "sources": [
         {
           "name": "Neuroscience News",
@@ -417,7 +453,7 @@
       "id": "3e99a2d650f9",
       "title": "A Simple Sugar in Ultra-Processed Foods May Drive Obesity, Metabolic Disease - Healthline",
       "published": "2026-04-25T16:29:19+00:00",
-      "summary": "A Simple Sugar in Ultra-Processed Foods May Drive Obesity, Metabolic Disease&nbsp;&nbsp;HealthlineScientists Warn: Popular Sweetener Linked to Dangerous Metabolic Effects&nbsp;&nbsp;SciTechDailyCommon sweetener may trigger fat buildup in ways experts didn’t expect&nbsp;&nbsp;Fox NewsWatch out for fructose in your food: Study links it to quick fat storage, diabetes&nbsp;&nbsp;India TodayFructose Metabolic Effects Study Says This Common Sweetener May Be Driving Obesity In Ways No One Realized&nbsp",
+      "summary": "A Simple Sugar in Ultra-Processed Foods May Drive Obesity, Metabolic Disease&nbsp;&nbsp;Healthline",
       "sources": [
         {
           "name": "Healthline",
@@ -429,7 +465,7 @@
       "id": "ec5966a419cb",
       "title": "Scientists just discovered Africa is closer to breaking apart than we thought - Science Daily",
       "published": "2026-04-25T16:27:15+00:00",
-      "summary": "Scientists just discovered Africa is closer to breaking apart than we thought&nbsp;&nbsp;Science DailyNecking of the active Turkana Rift Zone and the priming of eastern Africa for continental breakup&nbsp;&nbsp;NatureA huge tectonic boundary shook the ground where dinosaurs once stood&nbsp;&nbsp;Phys.orgAfrica's major discovery of new 300-mile ocean as continent splits&nbsp;&nbsp;Daily ExpressDiscovery in Africa scares even scientists: a study published on April 23 reveals that the crust in Turk",
+      "summary": "Scientists just discovered Africa is closer to breaking apart than we thought&nbsp;&nbsp;Science DailyNecking of the active Turkana Rift Zone and the priming of eastern Africa for continental breakup&nbsp;&nbsp;NatureA huge tectonic boundary shook the ground where dinosaurs once stood&nbsp;&nbsp;Phys.orgAfrica's major discovery of new 300-mile ocean as continent splits&nbsp;&nbsp;Daily ExpressAfrica Is Breaking Apart Faster Than Scientists Thought. Now What?&nbsp;&nbsp;VICE",
       "sources": [
         {
           "name": "Science Daily",
@@ -441,7 +477,7 @@
       "id": "8ce552fc8291",
       "title": "Along with rapid weight loss, patients see other benefits and risks of GLP-1 drugs - WPEC",
       "published": "2026-04-25T16:26:31+00:00",
-      "summary": "Along with rapid weight loss, patients see other benefits and risks of GLP-1 drugs&nbsp;&nbsp;WPECPatients taking weight-loss drugs often make 5 critical mistakes, doctor warns&nbsp;&nbsp;Fox NewsGLP-1 agonists and changes in body mass and composition in adults with overweight or obesity with or without type 2 diabetes mellitus: a systematic review and meta-analysis&nbsp;&nbsp;NatureFat jabs for all will herald an epidemic of smugness&nbsp;&nbsp;The TelegraphWhy UW Medicine is Rethinking Tirzepa",
+      "summary": "Along with rapid weight loss, patients see other benefits and risks of GLP-1 drugs&nbsp;&nbsp;WPECPatients taking weight-loss drugs often make 5 critical mistakes, doctor warns&nbsp;&nbsp;Fox NewsFat jabs for all will herald an epidemic of smugness&nbsp;&nbsp;The TelegraphGLP-1 agonists and changes in body mass and composition in adults with overweight or obesity with or without type 2 diabetes mellitus: a systematic review and meta-analysis&nbsp;&nbsp;NatureWhy UW Medicine is Rethinking Tirzepa",
       "sources": [
         {
           "name": "WPEC",
@@ -465,11 +501,23 @@
       "id": "22a0ba41a9f2",
       "title": "This life‑threatening bacterium's hidden motor just gave medicine an unexpected opening to fight back - Phys.org",
       "published": "2026-04-25T16:00:04+00:00",
-      "summary": "This life‑threatening bacterium's hidden motor just gave medicine an unexpected opening to fight back&nbsp;&nbsp;Phys.orgThe structure of the Vibrio alginolyticus flagellar filament suggests molecular mechanism for the rotation of sheathed flagella&nbsp;&nbsp;NatureDetailed Map of Life-threatening Bacteria Reveals New Target for Treatment&nbsp;&nbsp;LabcompareNew Comprehensive Map of Deadly Vibrio Bacteria Uncovers Promising Treatment Target&nbsp;&nbsp;Bioengineer.org",
+      "summary": "This life‑threatening bacterium's hidden motor just gave medicine an unexpected opening to fight back&nbsp;&nbsp;Phys.orgThe structure of the Vibrio alginolyticus flagellar filament suggests molecular mechanism for the rotation of sheathed flagella&nbsp;&nbsp;NatureDetailed Map of Life-threatening Bacteria Reveals New Target for Treatment&nbsp;&nbsp;Labcompare",
       "sources": [
         {
           "name": "Phys.org",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUXJSaHgya3B1bmFYQ2JuSldRYXFPb0o5b2w1UzdEZEs3Q3Fjd2JHNm5LaEw1eHhXQnFDTW5oejdPUy1veGFGS190Skxtd3FnSG1kUGt5MEt3TjVrRUVCalRVNXNydFEtSjNTUmFUNWJkNkJMejRndDlRMG16Y0JCMXVNNXg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b993f1c9a299",
+      "title": "How Squid and Cuttlefish Took Over the Oceans After an Evolutionary Breakthrough - AOL.com",
+      "published": "2026-04-25T15:59:41+00:00",
+      "summary": "How Squid and Cuttlefish Took Over the Oceans After an Evolutionary Breakthrough&nbsp;&nbsp;AOL.com",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc2RmQ1p3ZUdNeGJqQTI0eTJsU180Wk5GVS1vY0ZSMWZfZFZzX0doZlJVSUh3WldnMVJJSFZmOXNLSm54NHpoQzQyOEtLcmwzanlvNkhNN0dWUUdrbWdPWTVaY1R2cDhHMUJGcE5oX0RyYWQ3TVE1ZHJnaktiWHQ2UnF0VkM?oc=5"
         }
       ]
     },
@@ -498,22 +546,10 @@
       ]
     },
     {
-      "id": "f2941d0b3f6e",
-      "title": "This exotic particle could finally explain why matter has mass - Science Daily",
-      "published": "2026-04-25T14:49:13+00:00",
-      "summary": "This exotic particle could finally explain why matter has mass&nbsp;&nbsp;Science DailyBreakthrough in Physics: Exotic Atomic State Discovered&nbsp;&nbsp;Inbox.euWhere Does Mass Come From? Scientists Find Evidence of a New Exotic Nuclear State&nbsp;&nbsp;SciTechDaily",
-      "sources": [
-        {
-          "name": "Science Daily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52UWFXaG1oQ25jUVBrbFBtNzVyUy05QjdaTUhkU2E1Z3pXNURVbXMyV1dLLWEzNUZQUW5Mb1AxbmVQazdXY01jUnJvWkRBcUVmNjRhZTJtclc2a1BJbUQyUnhOZVNaM3RjNTdsYVhyNA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "460a0213a890",
       "title": "Eccentric exercise builds muscle strength and size with less effort - News-Medical",
       "published": "2026-04-25T13:55:00+00:00",
-      "summary": "Eccentric exercise builds muscle strength and size with less effort&nbsp;&nbsp;News-MedicalYou don’t need exhausting workouts to build strength and health, study finds&nbsp;&nbsp;The Brighter Side of News",
+      "summary": "Eccentric exercise builds muscle strength and size with less effort&nbsp;&nbsp;News-MedicalStair Descending Delivers Greater Exercise Benefits Than Climbing, Study Finds&nbsp;&nbsp;아시아경제You don’t need exhausting workouts to build strength and health, study finds&nbsp;&nbsp;The Brighter Side of NewsWalking Downstairs Could Be the Best Workout You’re Not Doing&nbsp;&nbsp;ScienceBlog.comExercise Smarter, Not Harder: The Science Behind Why Less Can Be More&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
           "name": "News-Medical",
@@ -525,11 +561,23 @@
       "id": "de9294801ed0",
       "title": "Scientists Create Improved Insulin Cells That Reverse Diabetes in Mice - SciTechDaily",
       "published": "2026-04-25T13:50:20+00:00",
-      "summary": "Scientists Create Improved Insulin Cells That Reverse Diabetes in Mice&nbsp;&nbsp;SciTechDailyFirst global gene therapy trial for type 1 diabetes to start this year&nbsp;&nbsp;Juta MedicalBriefSwedish scientists unlock stem cell cure for Type 1 diabetes&nbsp;&nbsp;QazinformNew Low-Toxicity Transplant Method Reverses Type 1 Diabetes in Mice&nbsp;&nbsp;Inside Precision MedicineHow a gentler stem cell transplant may move type 1 diabetes treatment closer&nbsp;&nbsp;Medical Xpress",
+      "summary": "Scientists Create Improved Insulin Cells That Reverse Diabetes in Mice&nbsp;&nbsp;SciTechDailyNew Low-Toxicity Transplant Method Reverses Type 1 Diabetes in Mice&nbsp;&nbsp;Inside Precision MedicineProgress in stem cell therapy for type 1 diabetes&nbsp;&nbsp;Karolinska InstitutetScientists Cured Type-1 Diabetes in Mice in Breakthrough Study&nbsp;&nbsp;Tomorrow's World TodayHow a gentler stem cell transplant may move type 1 diabetes treatment closer&nbsp;&nbsp;Medical Xpress",
       "sources": [
         {
           "name": "SciTechDaily",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWWRyMDJhbXduNXJVVzRtcVhFa28tVHc4MWs2NW1vVkJ4WjFsUEN1VTlnYnltbk5GVjg4UGx3Q3RlTkx4OW93TldraF9CUkMtNHRSNVFFcGJZNGo4eVdGVjJ4cUNKUW1nMmRIVWw2RURKYXJ1d3Z4U2xqWG5jdjlzTk5CVjZraWRSUGw2Q0l5Y196cWlPdHlsUVQ1ZXI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6de3e012234b",
+      "title": "What Happens When a Black Hole and a Giant Star Collide? The Answer Is Terrifying - Indian Defence Review",
+      "published": "2026-04-25T13:00:00+00:00",
+      "summary": "What Happens When a Black Hole and a Giant Star Collide? The Answer Is Terrifying&nbsp;&nbsp;Indian Defence Review'Dancing' jets erupting from a cannibalistic black hole have the power of 10,000 suns&nbsp;&nbsp;Space62 years later, the first known black hole is unleashing energy equal to 10,000 Suns&nbsp;&nbsp;The Times of IndiaAstronomers measure mind-blowing power, speed of black hole jets for first time&nbsp;&nbsp;PinalCentral.comCurtin researchers track “dancing” black hole jets in breakthro",
+      "sources": [
+        {
+          "name": "Indian Defence Review",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkhwUXpPMTBPT29FcjI0SFo4RjVDODFOSTRqTFNlLTBXOEZQbmMzY2VNS3JZejJuRFN0a1VsU3lDcFRfQkV6M0tpZ3VERWc1OEQ0eWRSSjlNc18wMXRRR1FiMVR2Nm1XM1g2QktQLWo3eTNERnBISExTSk9jXzRsaA?oc=5"
         }
       ]
     },
@@ -542,18 +590,6 @@
         {
           "name": "The Times of India",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdUplVUN1QnpFYXJYR3lFbHYwQjl0eTc1Q3VPTERtQnVSMFJNV0JuSTgyQk1WVmhVdC1Va0dWTVNuLVFjTlJXaDVlc0pNLXhZQXY2SXpCOEJiRktFZWJsNVAyLThJRmZweGhRRDZNaWdKOWZWbHlNWnNLSk9ibWg5bHJsVTNIdk9pMllneWRTLURBTXVNanVROElEdWMzRkRZdURqXy1iSWh3OU1ESXg1QWNPQ0tfOVFSZnB0ekRGd2ZiTVN5SXRWbHUwcFpSazhrNElaN3dOSDJUaHNIWXfSAeYBQVVfeXFMTkxja0lGOEtNbWdaWXRsVTNkUkVXczgwU1d5YTNqMEd0MVdLWWlTR1dvc01QZUZXRzBucHVxSVppemdkMjVVREVZU19nVVZGdTJVUmo4Ny04MDd5Y1RLSEQ3SEpiZHZlekcwYVNxUXZIQURGTEVtSGVQbVRpZWxnWldxODJVMmJiTHlZcFRxWTMyMWMzOVQwQ2QwUThZS21ibnpjWW9BN1IzSEJNYkJTVVV3d0lRMFJtZGFUMWs2SkNRaXNfNExJbTFuNm5JN1dmX2pyTmRlTnVKWkx3dS13MlJxeDVMcEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b5d203636e43",
-      "title": "You may not drink alcohol, but is your liver still healthy? Hepatologist shares warning signs you could be ignoring | Health - Hindustan Times",
-      "published": "2026-04-25T12:20:08+00:00",
-      "summary": "You may not drink alcohol, but is your liver still healthy? Hepatologist shares warning signs you could be ignoring | Health&nbsp;&nbsp;Hindustan TimesHow I reversed my fatty liver disease in eight weeks&nbsp;&nbsp;The TelegraphBest exercises for liver health, according to expert: How walking, strength training, and HIIT can reduce fatty liver&nbsp;&nbsp;The Times of IndiaBSV Reinforces Commitment to Liver Care on World Liver Day 2026&nbsp;&nbsp;The Indian PractitionerThe Metabolic Triangle: How",
-      "sources": [
-        {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNTXNadUlHckNkUjB5ZHB6UVdpSWotRkR5VGIwbGt5bEo4TjFTcjVkVE1MclhVVzNTNEpaVmdQb0NLaDNPWW1lelJSZDJMaHpqY3d0NXprU3lSdVMzWG9RX2dqN29JcngydGpuRlRXbzRIMWtWTWY5bjNOQ2QzYnRUWjdLLXVnR1hXWkExUzN6aU8zd2ZKbG4zajFkb0tDckxxb3JoR1ZzU1hXTTQ2TENaWExVM200d2FrY3d2UUtFV01uTW1vb285bWhuRjU5YkRLcFlDdFlHaVdLNkQxdGtDNlBGaEpMenpJUUprWDlzcmx3SXdtclE3aExMT3MyRVRTNUV0TGs1dlU1MWJsRThv0gGUAkFVX3lxTFBlekdpck9IUHpPSW1nWEcwQUV6Z29aUkZCbEUybkVOQjVvNGpQdjVRZkl6Z2ZXLTl2T0k0cEFIRGh4bGJuNUVJOGRqZklqak13cHloaW1MeUpzMU5hN0JMM3AwYXBiV0I4Z1VBOTN4bTRSY2tKNU9iUDBNUEFzaEh6RXFYbnZrY1NYZW9mNzB0dHhtVjM3dUlTTnRrSlVNNjJuMUxsODN4clNGenZwSU5OcXM5QXVzWEdaZmJSbzhxZDMza2p3cEUweUxSUS03bklybWVPTG1TT2syVTFub1kzSU91bzhhQkJrYVF3ZlV5SThyeHlURXIteWJrM1N2N1FGV0dkZDVlYm85ZzhKM0tIMUJfeQ?oc=5"
         }
       ]
     },
@@ -585,7 +621,7 @@
       "id": "867ece284d01",
       "title": "‘Bat feast’ animal videos at African cave offer clues to how deadly viruses spread - Yahoo",
       "published": "2026-04-25T12:00:00+00:00",
-      "summary": "‘Bat feast’ animal videos at African cave offer clues to how deadly viruses spread&nbsp;&nbsp;YahooCamera traps film predators descending on cave filled with 40,000 bats. What happens next is staggering&nbsp;&nbsp;BBC Wildlife MagazineRemote Cameras Capture 10 Different Predators Descending on Bat Cave&nbsp;&nbsp;PetaPixelUganda's Python Cave reveals how a Marburg virus outbreak could begin&nbsp;&nbsp;Phys.orgScientists Are Begging People to Stop Entering This Virus-Filled Bat Cave&nbsp;&nbsp;VI",
+      "summary": "‘Bat feast’ animal videos at African cave offer clues to how deadly viruses spread&nbsp;&nbsp;YahooCamera traps film predators descending on cave filled with 40,000 bats. What happens next is staggering&nbsp;&nbsp;BBC Wildlife MagazineRemote Cameras Capture 10 Different Predators Descending on Bat Cave&nbsp;&nbsp;PetaPixelUganda's Python Cave reveals how a Marburg virus outbreak could begin&nbsp;&nbsp;Phys.orgPeople Are Trespassing Near Cave Full of Bats Infected by 'Bleeding Eye' Virus&nbsp;&nb",
       "sources": [
         {
           "name": "Yahoo",
@@ -618,34 +654,10 @@
       ]
     },
     {
-      "id": "feb23957e3aa",
-      "title": "How Squid and Cuttlefish Took Over the Oceans After an Evolutionary Breakthrough - A-Z Animals",
-      "published": "2026-04-25T11:30:00+00:00",
-      "summary": "How Squid and Cuttlefish Took Over the Oceans After an Evolutionary Breakthrough&nbsp;&nbsp;A-Z Animals",
-      "sources": [
-        {
-          "name": "A-Z Animals",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbE1ycTQzTFZ1N3RTU1l6SHZ4NHduU3ZxYTVXSWxCMjlLSEduRkJUSVZMWnlPYmVNZTdiNk1Cb1E2THpfRC1DX0hsNV94d0tVMnFDbUlfQ2swWnBoMEE5eWVMMVFReDZZaWJDZkdGSThCM1g5MnJmRms2SnFjLU1CdF9xUU1zT1VxNWpac2VXbjBQSUU4dXNWWE1HU2NhQ3VrNFRfcWJoZXdCejg4c3A3U2s2RnY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "581a5f8ebb41",
-      "title": "If You Have Arthritis, Doctors Say These Products Can Help Ease Pain - HuffPost",
-      "published": "2026-04-25T11:00:18+00:00",
-      "summary": "If You Have Arthritis, Doctors Say These Products Can Help Ease Pain&nbsp;&nbsp;HuffPostA not-so-secret treatment for joint pain: exercise&nbsp;&nbsp;WUSFCleveland Clinic Rheumatologist Reveals Key Habit To Prevent Arthritis Pain&nbsp;&nbsp;AOL.com‘I’m a Cleveland Clinic Rheumatologist—This Habit Matters More for Arthritis Than Many People Realize'&nbsp;&nbsp;Parade",
-      "sources": [
-        {
-          "name": "HuffPost",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM3FMWDl1Rkg1V1hYbE5UVTh5bnZaTGVBSFpVeG5Za1VuVThncHhiWjQ4T3VKdHU4dksybXM1VVAzVW1qNkNUazBUOW9FUVpKLTQ1bHVMMl9hLVowZ2tsZk8tcHcxYk5fY1owR2JxVzJwWVR5akhnTnJJUEt6cGgySEE0M2RnNVhBeUk2YWlObHB2anPSAZgBQVVfeXFMTktzRXo1V19ibUM4dlFGdi0tbTllV2ZVLXBTTERZMk5hLUpHU0NTb09Fd1JGQUdzb3d0RVpMX0UzcmJTTU1YcldtVWtBTVpDSVhfN1ZCeEJRdUdwYXdsN2JFd3lPOFMzUlItakswRGJyc0p3YzJFSnZ6ckJzYWpYc3hwSE1USlM4SDJycUdSQkFNNjZTX3lPTVU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8a419685d655",
       "title": "Should We Finally Ditch Artificial Sweeteners for Good? - Gizmodo",
       "published": "2026-04-25T11:00:01+00:00",
-      "summary": "Should We Finally Ditch Artificial Sweeteners for Good?&nbsp;&nbsp;GizmodoArtificial Sweeteners May Affect Grandchildren's Metabolism, Study Finds&nbsp;&nbsp;Seoul Economic DailyPopular diet soda ingredient tied to gut bacteria changes passed down across generations: study&nbsp;&nbsp;New York PostZero-calorie sweeteners may impact future generations, study warns&nbsp;&nbsp;Fox NewsMice that ate artificial sweeteners passed metabolic changes to their grandchildren&nbsp;&nbsp;Boing Boing",
+      "summary": "Should We Finally Ditch Artificial Sweeteners for Good?&nbsp;&nbsp;GizmodoArtificial Sweeteners May Affect Grandchildren's Metabolism, Study Finds&nbsp;&nbsp;Seoul Economic DailyPopular diet soda ingredient tied to gut bacteria changes passed down across generations: study&nbsp;&nbsp;New York PostZero-calorie sweeteners may impact future generations, study warns&nbsp;&nbsp;Fox NewsThe effects of consuming artificial sweeteners can be felt in future generations ᐉ News from Fakti.bg - Здраве&nbsp;",
       "sources": [
         {
           "name": "Gizmodo",
@@ -678,14 +690,14 @@
       ]
     },
     {
-      "id": "f0843f767446",
-      "title": "3 Surprising Habits That Could Raise Your Stroke Risk, According to a Neurologist - AOL.com",
-      "published": "2026-04-25T03:12:03+00:00",
-      "summary": "3 Surprising Habits That Could Raise Your Stroke Risk, According to a Neurologist&nbsp;&nbsp;AOL.comView Full Coverage on Google News",
+      "id": "604e9617b3fc",
+      "title": "Woman, 43, Found Tiny Sore on Her Breast. She Later Learned It Was an Aggressive Form of Breast Cancer - Yahoo",
+      "published": "2026-04-25T08:00:00+00:00",
+      "summary": "Woman, 43, Found Tiny Sore on Her Breast. She Later Learned It Was an Aggressive Form of Breast Cancer&nbsp;&nbsp;Yahoo",
       "sources": [
         {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYjNDbjVUUFpjTmpJLWRkemNvUXpYMEdKLTlHZ0E1d0hTMHVubm5CSmdPT2FiNVlLdmxBQnE2d1FYNjdabXpKQndNdnVBMDUwSXhfbEJmcVFqS0h3RkNZYXJOZHZFN2ZHWmNHVnlPOUZUazhMczd1UkhMVldYNXQ3dQ?oc=5"
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQTlLSnhrYm1yX3J5ZzE4dkl5WUs2emgzV2lkSEJPZGpFTmViZ1hwTEIwYnpadzk2cDdiQVZENFM2WVpmUllIM3N3N0RZTjVSc09rdXF6NzhuYnlNeXlNdmEwMXhkRmtXVVQtc0hIaXRmb1VOTVFna01mamwtVV8xRnpxTHFNLXM?oc=5"
         }
       ]
     }

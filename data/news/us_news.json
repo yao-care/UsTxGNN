@@ -1,14 +1,26 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-04-28T03:31:59.835339+00:00",
+  "fetched_at": "2026-04-28T08:29:19.376606+00:00",
   "total_fetched": 140,
   "unique_count": 140,
-  "health_related_count": 64,
+  "health_related_count": 62,
   "news": [
+    {
+      "id": "947da2010e9c",
+      "title": "How did a carpenter contract hepatitis C at work? - KSL News",
+      "published": "2026-04-28T07:04:32+00:00",
+      "summary": "How did a carpenter contract hepatitis C at work?&nbsp;&nbsp;KSL News",
+      "sources": [
+        {
+          "name": "KSL News",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcnJxRWNrQ0VCVGZ0MjRtVDdHQmdpeU1TWXVkWldEZ0p4VDVqTTVUZW1XWVI0bFMwcDRQZ3RxWHVCdDhoZ1hfelV5Z1FjakphSEQzRDZaa2RSbmZ2ZkV5QUtBTEFRNlkwdVN5Y3RFbFFxdVh0ZUlyZC1VeWFmSjh4SDlzTEhUSFBWckVteGpB?oc=5"
+        }
+      ]
+    },
     {
       "id": "4e88e1519417",
       "title": "CDC delay of infant hepatitis B shot likely to raise infections, studies show - The Washington Post",
-      "published": "2026-04-28T03:08:58+00:00",
+      "published": "2026-04-28T04:03:38+00:00",
       "summary": "CDC delay of infant hepatitis B shot likely to raise infections, studies show&nbsp;&nbsp;The Washington PostCDC move to stop recommending hepatitis B vaccine could lead to hundreds of infections: Research&nbsp;&nbsp;The HillNew study suggests reduced newborn hepatitis B vaccination coverage may increase infant infections&nbsp;&nbsp;Medical XpressThe Consequences of Postponing Childhood Vaccinations&nbsp;&nbsp;Bioengineer.orgNew U.S. recommendation on hepatitis B vaccine will have dire consequenc",
       "sources": [
         {
@@ -18,14 +30,14 @@
       ]
     },
     {
-      "id": "2807ba7e7c91",
-      "title": "Patients taking weight-loss drugs often make 5 critical mistakes, doctor warns - AOL.com",
-      "published": "2026-04-28T01:16:21+00:00",
-      "summary": "Patients taking weight-loss drugs often make 5 critical mistakes, doctor warns&nbsp;&nbsp;AOL.comView Full Coverage on Google News",
+      "id": "dc38ad99da6b",
+      "title": "Brain Scans Reveal a Surprise About Neanderthal Intelligence - ScienceAlert",
+      "published": "2026-04-28T03:40:31+00:00",
+      "summary": "Brain Scans Reveal a Surprise About Neanderthal Intelligence&nbsp;&nbsp;ScienceAlertView Full Coverage on Google News",
       "sources": [
         {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqYkJwX1hmbWVLOW5NemRUbXktVmhMM2c2MUZ3U0o2Y2ltUlM5Ti02eExRSHdNSjlYVURhZGlxVl93MFA1Z3dwRVgyUnFla1d4VmVCSlVoenJjbzZJb1JFbFE0N0x4MUlJamY3bzItT2U0SzlXaU04?oc=5"
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcWppMXlIN1FTVDR5THNxcnNkWE1vczZ2Y09aMjhyMlJleDJhbG41ay1KRGw0UzBJMTJFWmNWeUhqeXA2RFNPanpaaXY0bGUtdndva01RWGREbkhQYWR2QU9fRlpjY1R5Ujd1MkIzUXJ5ZkU5SVdQSjNfSTJnVmZVbms0SHpiQUUyQkViejYxQjBwS3M?oc=5"
         }
       ]
     },
@@ -45,7 +57,7 @@
       "id": "d25c80a17ac1",
       "title": "Eating fruits and veg can increase chance of lung cancer according to new study - Dexerto",
       "published": "2026-04-27T21:35:34+00:00",
-      "summary": "Eating fruits and veg can increase chance of lung cancer according to new study&nbsp;&nbsp;DexertoLung Cancer Risk in Young Nonsmokers Linked to Fruits, Vegetables&nbsp;&nbsp;HealthlineStudy links lung cancer to eating fruits and veg: What this means&nbsp;&nbsp;Medical News TodaySurprising study finds healthy fruit, vegetable diet may increase risk of lung cancer in younger people&nbsp;&nbsp;KTVUFruits, veggies can actually fuel lung cancer risk in young non-smokers: shocking study&nbsp;&nbsp;Ne",
+      "summary": "Eating fruits and veg can increase chance of lung cancer according to new study&nbsp;&nbsp;DexertoLung Cancer Risk in Young Nonsmokers Linked to Fruits, Vegetables&nbsp;&nbsp;HealthlineDiets heavy in fruits, vegetables, and whole grains linked to lung cancer risk&nbsp;&nbsp;LiveNOW from FOXSurprising study finds healthy fruit, vegetable diet may increase risk of lung cancer in younger people&nbsp;&nbsp;KTVUStudy links lung cancer to eating fruits and veg: What this means&nbsp;&nbsp;Medical News ",
       "sources": [
         {
           "name": "Dexerto",
@@ -69,7 +81,7 @@
       "id": "368b57d6d99f",
       "title": "CDC warns of drug-resistant salmonella infections linked to backyard poultry - ABC News - Breaking News, Latest News and Videos",
       "published": "2026-04-27T19:51:56+00:00",
-      "summary": "CDC warns of drug-resistant salmonella infections linked to backyard poultry&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosCDC confirms new Salmonella outbreak linked to backyard poultry&nbsp;&nbsp;CIDRAPDozens fall ill across the country due to antibiotic-resistant salmonella linked to chicken and eggs&nbsp;&nbsp;AOL.comInvestigation Update: Salmonella Outbreak, April 2026&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)CDC warning: Multi-state salmonella outbreak",
+      "summary": "CDC warns of drug-resistant salmonella infections linked to backyard poultry&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosView Full Coverage on Google News",
       "sources": [
         {
           "name": "ABC News - Breaking News, Latest News and Videos",
@@ -93,7 +105,7 @@
       "id": "688c14671b9b",
       "title": "Children may be born with two complex cognitive functions already established, research reveals - Medical Xpress",
       "published": "2026-04-27T19:20:08+00:00",
-      "summary": "Children may be born with two complex cognitive functions already established, research reveals&nbsp;&nbsp;Medical Xpress",
+      "summary": "Children may be born with two complex cognitive functions already established, research reveals&nbsp;&nbsp;Medical XpressFunctional dissociation of language and theory of mind in the developing superior temporal lobe&nbsp;&nbsp;NatureLanguage and Empathy Have Distinct Origins in the Developing Brain&nbsp;&nbsp;Neuroscience NewsThe Brain Keeps Its Two Greatest Tricks in Different Rooms. Even in Toddlers.&nbsp;&nbsp;ScienceBlog.com",
       "sources": [
         {
           "name": "Medical Xpress",
@@ -102,14 +114,14 @@
       ]
     },
     {
-      "id": "6d8c30be79d2",
-      "title": "Thanks to GLP-1s, Obesity Experts Are Trying to Understand ‘Food Noise’ - The New York Times",
-      "published": "2026-04-27T18:09:57+00:00",
-      "summary": "Thanks to GLP-1s, Obesity Experts Are Trying to Understand ‘Food Noise’&nbsp;&nbsp;The New York TimesWhat's all the (food) noise about?&nbsp;&nbsp;commercial-news.comWhat Is Food Noise? Causes, Symptoms and How to Stop Constant Cravings&nbsp;&nbsp;US News HealthUnderstanding Food Noise and Its Impact on Eating Habits&nbsp;&nbsp;RiverBender.com",
+      "id": "7a4413a1fdf7",
+      "title": "Scientists Discover “Molecular Switch” That Fuels Alzheimer’s Brain Inflammation - SciTechDaily",
+      "published": "2026-04-27T19:07:08+00:00",
+      "summary": "Scientists Discover “Molecular Switch” That Fuels Alzheimer’s Brain Inflammation&nbsp;&nbsp;SciTechDailyHow a chemical reaction triggers brain inflammation in Alzheimer's disease&nbsp;&nbsp;Medical XpressHow a chemical reaction triggers brain inflammation in Alzheimer's disease (IMAGE)&nbsp;&nbsp;EurekAlert!Molecular Trigger for Alzheimer’s Brain Inflammation Found&nbsp;&nbsp;Neuroscience News",
       "sources": [
         {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRGI5UjM1b3JoUjZCRFZ5QnR4Z3BxbVlnRjEycHpVNGhpTjBXQm00dDF5VFVhejUxV1ZsY2lReGF1VWhwbk0zRmJ3UU1abS00Uy1pYUFiVm9hbVMyVmUzOHNqcmhtT2lZN1h1QkhJdlFCb2FYcmNWeXoxa0l1alJEZk5HSQ?oc=5"
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSVZONjFtU0JnY19paEljS1dwNEtobnJKN1owMHF4THFaaW9CRS1yRlFmVGxLeVZyYzdkdk1hUDcyVzMxWmtObEloSi0wY1ZRd2ZMV3BBMlVob1ZtS21Eb1NITk1URV8tSDE0ZDMzUzgxY0EzVkx1WjhzRzNic0NoZ2s4MmhlaXExOU5sbXdUa0RIM2FTN0pocXQ5ODRteHJCNGRsR21n?oc=5"
         }
       ]
     },
@@ -117,7 +129,7 @@
       "id": "1c0bafde23e2",
       "title": "Study: Infrasound likely a key factor in alleged hauntings - Ars Technica",
       "published": "2026-04-27T18:00:35+00:00",
-      "summary": "Study: Infrasound likely a key factor in alleged hauntings&nbsp;&nbsp;Ars TechnicaSpooky feelings in old houses may be caused by boiler sounds, study suggests | Psychology&nbsp;&nbsp;The GuardianThat ghostly presence may just be bad plumbing&nbsp;&nbsp;Popular ScienceHaunted by Ghosts? New Study Provides a Surprising Explanation&nbsp;&nbsp;GizmodoNo, your house isn’t haunted by ghosts — spooky experts reveal simple explanation for things that go bump in the night&nbsp;&nbsp;New York Post",
+      "summary": "Study: Infrasound likely a key factor in alleged hauntings&nbsp;&nbsp;Ars TechnicaSpooky feelings in old houses may be caused by boiler sounds, study suggests | Psychology&nbsp;&nbsp;The GuardianThat ghostly presence may just be bad plumbing&nbsp;&nbsp;Popular ScienceHaunted by Ghosts? New Study Provides a Surprising Explanation&nbsp;&nbsp;GizmodoSensed a bump in the night? It’s not ghosts — just bad vibrations&nbsp;&nbsp;The Times",
       "sources": [
         {
           "name": "Ars Technica",
@@ -150,10 +162,22 @@
       ]
     },
     {
+      "id": "4bf21f21efde",
+      "title": "GLP-1 drugs linked to osteoporosis, new research shows - WBRZ",
+      "published": "2026-04-27T17:05:37+00:00",
+      "summary": "GLP-1 drugs linked to osteoporosis, new research shows&nbsp;&nbsp;WBRZAlong with rapid weight loss, patients see other benefits and risks of GLP-1 drugs&nbsp;&nbsp;WPECGLP-1 agonists and changes in body mass and composition in adults with overweight or obesity with or without type 2 diabetes mellitus: a systematic review and meta-analysis | International Journal of Obesity&nbsp;&nbsp;NaturePatients taking weight-loss drugs often make 5 critical mistakes, doctor warns&nbsp;&nbsp;Fox NewsWhy UW Me",
+      "sources": [
+        {
+          "name": "WBRZ",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTW95eW9MOUxsT0xCQUdwVkItSEFTNkdESy02V25rMk5rRl9hRVJ2UF9abXpyOU5yNkpiSE5CbzF5WGdVUGNmX0VvU0xOZ2VHekZCeFp4V3JUY1NXd3BuUUtVLWlyUHdkY24yQkVwdEVSRUduR3hpbEk2NG5qR2dfa2F6MDlQdlE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "08c956b7ab1e",
       "title": "Fish Oil’s Brain Benefits Can Backfire, Study Suggests - Gizmodo",
       "published": "2026-04-27T16:50:35+00:00",
-      "summary": "Fish Oil’s Brain Benefits Can Backfire, Study Suggests&nbsp;&nbsp;GizmodoFish oil may be hurting your brain, new study finds&nbsp;&nbsp;Science DailyScientists Uncover Potential Brain Risks of Popular Fish Oil Supplements&nbsp;&nbsp;SciTechDailyNeuroscientists Warn: Fish Oil May Block Critical Repair Signals for Your Brain&nbsp;&nbsp;inc.comWhen omega-3 may help mental health and when they may not&nbsp;&nbsp;News-Medical",
+      "summary": "Fish Oil’s Brain Benefits Can Backfire, Study Suggests&nbsp;&nbsp;GizmodoFish oil may be hurting your brain, new study finds&nbsp;&nbsp;ScienceDailyScientists Uncover Potential Brain Risks of Popular Fish Oil Supplements&nbsp;&nbsp;SciTechDailyNeuroscientists Warn: Fish Oil May Block Critical Repair Signals for Your Brain&nbsp;&nbsp;inc.comWhen omega-3 may help mental health and when they may not&nbsp;&nbsp;News-Medical",
       "sources": [
         {
           "name": "Gizmodo",
@@ -165,7 +189,7 @@
       "id": "102bbcdb3ab8",
       "title": "As heart, kidney and metabolic health worsen, cancer risk may rise: Study - ABC News - Breaking News, Latest News and Videos",
       "published": "2026-04-27T16:37:43+00:00",
-      "summary": "As heart, kidney and metabolic health worsen, cancer risk may rise: Study&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosHeart Risks Go Beyond the Heart: Don’t Forget to Check Blood Sugar and Kidney Health&nbsp;&nbsp;The Atlanta VoiceAdvanced CKM Syndrome Linked to 30% Higher Cancer Risk, Study Finds&nbsp;&nbsp;citybuzz -Declining Heart, Kidney, and Metabolic Health Linked to Increased Cancer Risk&nbsp;&nbsp;Bioengineer.orgAs heart, kidney and metabolic health worsen, cancer risk may",
+      "summary": "As heart, kidney and metabolic health worsen, cancer risk may rise: Study&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosHeart Risks Go Beyond the Heart: Don’t Forget to Check Blood Sugar and Kidney Health&nbsp;&nbsp;The Atlanta VoiceStudy Links Advanced Heart And Kidney Disease To Increased Cancer Risk&nbsp;&nbsp;NDTVAdvanced CKM Syndrome Linked to 30% Higher Cancer Risk, Study Finds&nbsp;&nbsp;citybuzz -Declining Heart, Kidney, and Metabolic Health Linked to Increased Cancer Risk&n",
       "sources": [
         {
           "name": "ABC News - Breaking News, Latest News and Videos",
@@ -177,7 +201,7 @@
       "id": "80f8651e5fbf",
       "title": "Voyager 1 shuts off instrument to buy time before ‘Big Bang’ fix to extend the mission - CNN",
       "published": "2026-04-27T16:18:26+00:00",
-      "summary": "Voyager 1 shuts off instrument to buy time before ‘Big Bang’ fix to extend the mission&nbsp;&nbsp;CNNNASA shuts off another Voyager 1 instrument as humanity's most distant spacecraft prepares for risky 'Big Bang' maneuver to save power&nbsp;&nbsp;Live ScienceAnother Instrument Shut Down on Voyager 1 to Extend its Interstellar Mission&nbsp;&nbsp;Universe TodayVoyager 1 Shuts Down Another Instrument&nbsp;&nbsp;Sky & Telescope(Almost) A Eulogy for Voyager&nbsp;&nbsp;Nautilus | Science",
+      "summary": "Voyager 1 shuts off instrument to buy time before ‘Big Bang’ fix to extend the mission&nbsp;&nbsp;CNNNASA shuts off another Voyager 1 instrument as humanity's most distant spacecraft prepares for risky 'Big Bang' maneuver to save power&nbsp;&nbsp;Live ScienceNASA Shuts Down Another Piece of Voyager 1 to Extend Its Interstellar Mission&nbsp;&nbsp;ScienceAlertVoyager 1 Shuts Down Another Instrument&nbsp;&nbsp;Sky & Telescope(Almost) A Eulogy for Voyager&nbsp;&nbsp;Nautilus | Science",
       "sources": [
         {
           "name": "CNN",
@@ -186,14 +210,38 @@
       ]
     },
     {
+      "id": "e3d8c45c4322",
+      "title": "Looking for a healthy frozen meal? These 10 are dietitian-approved for days that you don't want to cook - Yahoo Lifestyle Canada",
+      "published": "2026-04-27T16:00:15+00:00",
+      "summary": "Looking for a healthy frozen meal? These 10 are dietitian-approved for days that you don't want to cook&nbsp;&nbsp;Yahoo Lifestyle Canada",
+      "sources": [
+        {
+          "name": "Yahoo Lifestyle Canada",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeG81N0VGZkRQMEd6ZG1sa0xZeDd2bGtfbV9YY3NDcllqdW11eWMwRHdLVVQwa0M2c0NoRWZVaUlJNGRrN3YwZDM4YjFXSUpCUkpFN1Fyb3lLaXR6Tm5zdGFwY2ZPU255Ui1NY25yaHBIak8wdTVuN3RFbzY5d1NmUjFGbndVRVdfUVJjZHo2NHRVMEU4NDBNZjhGNFJZNUNFN0p4QTlEMlVZY1FMMkRJeFY0NGUxRGllUXJEUVpLSE1UM1BIb2xXWjN1UVNkN0lsRmw1WEFrdnc1NzQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4fd2d405c98a",
       "title": "Did you know stubborn belly fat can damage your liver? Doctor shares 5 daily habits that can take a toll on liver health | Health - Hindustan Times",
       "published": "2026-04-27T15:32:06+00:00",
-      "summary": "Did you know stubborn belly fat can damage your liver? Doctor shares 5 daily habits that can take a toll on liver health | Health&nbsp;&nbsp;Hindustan TimesWhy ‘healthy’ foods like fruit juice may be worsening your fatty liver&nbsp;&nbsp;The Times of IndiaHow Excessive Consumption of One Beverage Can Harm Your Liver, Say Hepatologists&nbsp;&nbsp;AOL.com7 factors that increase fatty liver risk in women, from insulin resistance to PCOS, more&nbsp;&nbsp;Moneycontrol.comFatty Liver: Doctor explains ",
+      "summary": "Did you know stubborn belly fat can damage your liver? Doctor shares 5 daily habits that can take a toll on liver health | Health&nbsp;&nbsp;Hindustan TimesHidden sugars in ‘healthy’ foods linked to rising non‑alcoholic fatty liver cases among young adults, doctors warn&nbsp;&nbsp;MintWhy ‘healthy’ foods like fruit juice may be worsening your fatty liver&nbsp;&nbsp;The Times of IndiaHow Excessive Consumption of One Beverage Can Harm Your Liver, Say Hepatologists&nbsp;&nbsp;AOL.com7 factors that ",
       "sources": [
         {
           "name": "Hindustan Times",
           "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxONFNFd3lKcVVwQWxUdEhIaXl0cnBhNkpNS3ltb014WjRBR0NMR0VfNGRKS1pXanlITmRLVWoyRDZiS1ozZ0hKVlc2ZkU4djY0WGZwRjhZSks0VmwwZy1DVTktWkt6RFd5VEdYYlY2TWJKTlpVYmZ4VS1qWnBLeDR4cXk2SmQ4WFhlZ3RWOWYxNFZBSDFYeXN5SU04bk5zcXNweUU4M1JzbU50MTkzVEdvOElJNXNrLVh0RGdvYkh0Tmp0akpuSkxRNGlmMnAtNGxBeURULXhITTNmcEU0R2s2LTlNcGkxUFRhNGNvVUhrTzd4TUlGSEk5Z25GV0ZCZlRjQjMtdWVQYmZCWXFHQjVwN3VUT2R3RDTSAZwCQVVfeXFMUFhERElsSnBnaThXR3VZanA0UG9jU2IwWHVMdU5XYUExZ2FXWW8ycmtCVDVWODZqamF6aWNkQnBzcGF3ZzRfUGVEcXU0RE4wSDU1N3RzbXVSN2h0MWszUlRSSDZjSWs5Z214UEVpNzhaRjA3NHJyVXN0SWtYb0ZFVGo0ZnNJY2N4bkhyb2hHWlQwemhiSkUyWl9qQ2lDandiV3lidnFhSG1tNjNubXB5MzloSkRLcE9OQ01qRU9lYUhGNjNnWVpDLXZjMXBFQVpqaUJsZ01SWm40eV9RTldxUlFzOFhFUy01Z2JxTDZkLWlTYWNKb0t4TFU0SUZabDNDTmVEN3U1LVBMVDBYdTBYZWhuRFBHelVwZFRhcnM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "470424685f45",
+      "title": "Targeted Hunts Were Supposed to Curb ‘Zombie Deer Disease.’ Now What? - The New York Times",
+      "published": "2026-04-27T14:43:23+00:00",
+      "summary": "Targeted Hunts Were Supposed to Curb ‘Zombie Deer Disease.’ Now What?&nbsp;&nbsp;The New York TimesView Full Coverage on Google News",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX3pnWThzcFZFcjFOSWFoWm1WTFZUeFZHWFdDZEo5Mk9lSUQ5QkxvRW55ZVU2emdNVkFoeTJVam55STZ2ZU5EZlNLSzdQcElrbXBjVl8xY1BoQmxVdVRnUTNtYWtIMzEySDVTUWRfSmdFbUxGUUhtRFlIdmtidHhXUF9R?oc=5"
         }
       ]
     },
@@ -218,6 +266,42 @@
         {
           "name": "Bored Panda",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMFF6X1dXZ3BqaExlcEtOMWI0N3BCQjExMllldnZ1TVk3U0hnSlE3V2pZWlJ0dmNCS0RtSWx1aHRzZng0R0gxNnR6ajFwVkhSd204endsUUlvbmVjbTE5RGdIbWpOUFpMSGRYMmJJcjZ6NnpUUmdPQlRpcXoxdDNNSHA1eVVJSU8xMU5WVHY0Yi1LNFU0dldXd2h2NkhOeFpSeklZNmRfTUU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f91510373c9e",
+      "title": "Common vitamin may help repair liver damage from a disease spreading worldwide - Earth.com",
+      "published": "2026-04-27T14:22:48+00:00",
+      "summary": "Common vitamin may help repair liver damage from a disease spreading worldwide&nbsp;&nbsp;Earth.comTwo common drugs may reverse fatty liver disease, study finds&nbsp;&nbsp;ScienceDailyThe EXCEL - First-of-its-kind study highlights critical role of essential phospholipids in improving Fatty Liver Disease&nbsp;&nbsp;The Manila TimesWeight Loss, Obesity Drugs Bring Potential New MASLD, MASH Treatment Strategies&nbsp;&nbsp;AJMCCombining These Two Commonly Prescribed Drugs May Reverse Fatty Liver, Re",
+      "sources": [
+        {
+          "name": "Earth.com",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNWc1MDZIVUwxV00xT25MRjJYN09tNjQxZzFva2tZSEtVOVRwUFRaaFdZYTBTdkRfdktzOXNteE1YMEU5c2szdmRWNmJfVXhHak9rbE1meWZXM0NIYzF6MTdxOEFqYkFUZlpPWWVyNVlZbXg1MUdjbVY4b05KV3JJRXBlcVJJLVUyOFFDNnB3dk5XNk1jUmlj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6b9113965f1b",
+      "title": "Bacterial defense system builds DNA in unexpected new way to stop viruses - Phys.org",
+      "published": "2026-04-27T14:20:03+00:00",
+      "summary": "Bacterial defense system builds DNA in unexpected new way to stop viruses&nbsp;&nbsp;Phys.org",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdDFYMmJxR0FnUjNhWnRKQndRZS1MbTBFX1EtYXpRbkwybXNvM1NqMlVFLVZNeGZHb1d6WWh4QXQwQ2plSEhMUGVfY2JZZlpmMEZ5ODJtZ0FPS096d2ZQS2tEd2lkdGczeVIzaWQ4Z091cTZzOVRsWnJsRW5OUDFLLQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6d8c30be79d2",
+      "title": "Thanks to GLP-1s, Obesity Experts Are Trying to Understand ‘Food Noise’ - The New York Times",
+      "published": "2026-04-27T13:59:40+00:00",
+      "summary": "Thanks to GLP-1s, Obesity Experts Are Trying to Understand ‘Food Noise’&nbsp;&nbsp;The New York TimesWhat's all the (food) noise about?&nbsp;&nbsp;commercial-news.comWhat Is Food Noise? Causes, Symptoms and How to Stop Constant Cravings&nbsp;&nbsp;US News HealthUnderstanding Food Noise and Its Impact on Eating Habits&nbsp;&nbsp;RiverBender.com",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRGI5UjM1b3JoUjZCRFZ5QnR4Z3BxbVlnRjEycHpVNGhpTjBXQm00dDF5VFVhejUxV1ZsY2lReGF1VWhwbk0zRmJ3UU1abS00Uy1pYUFiVm9hbVMyVmUzOHNqcmhtT2lZN1h1QkhJdlFCb2FYcmNWeXoxa0l1alJEZk5HSQ?oc=5"
         }
       ]
     },
@@ -258,22 +342,10 @@
       ]
     },
     {
-      "id": "f7ec383ff5be",
-      "title": "Turning immune cells into tumor allies: A cancer cell protein can reprogram frontline defenders - Medical Xpress",
-      "published": "2026-04-27T12:00:01+00:00",
-      "summary": "Turning immune cells into tumor allies: A cancer cell protein can reprogram frontline defenders&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUUhEVks4eGZleWUyaTd4WFc1S2lwUjFjVXoxTGh6aXNGd01nMkRCaHFYcDYtMUktbVhBTlZzSVR5S2dqTmNvaHk5WU1UOWc2WjI5UVl5MXRxV1FqX3R6ZzRGV1VYUkdvR0lSRHBZZ0FRMHRibjcybXpKZ2xqOFd4d1Jn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "294dce6eff87",
       "title": "Pomegranate Compound Could Help Protect Against Heart Disease - SciTechDaily",
       "published": "2026-04-27T11:45:00+00:00",
-      "summary": "Pomegranate Compound Could Help Protect Against Heart Disease&nbsp;&nbsp;SciTechDaily",
+      "summary": "Pomegranate Compound Could Help Protect Against Heart Disease&nbsp;&nbsp;SciTechDailyWhen pomegranates meet the artery wall: How gut-derived metabolites may stabilize atherosclerotic plaques&nbsp;&nbsp;Medical Xpress",
       "sources": [
         {
           "name": "SciTechDaily",
@@ -285,7 +357,7 @@
       "id": "3a72c15794af",
       "title": "A doctor shares 5 tips for better gut health in 30 days, including a trendy, low-cost supplement - Business Insider",
       "published": "2026-04-27T11:44:00+00:00",
-      "summary": "A doctor shares 5 tips for better gut health in 30 days, including a trendy, low-cost supplement&nbsp;&nbsp;Business InsiderGuide to a healthy gut&nbsp;&nbsp;Harvard GazettePreserving Gut Eubiosis: New Tools, Prebiotics, and Lifestyle Insights to Maintain Microbiome Balance&nbsp;&nbsp;drugscontrol.orgWhat we’ve got wrong about gut health — by the top German doctor&nbsp;&nbsp;The TimesSaving Your Gut!&nbsp;&nbsp;WALB",
+      "summary": "A doctor shares 5 tips for better gut health in 30 days, including a trendy, low-cost supplement&nbsp;&nbsp;Business InsiderGet to know your microbiome: It can improve gut health and more&nbsp;&nbsp;TheDailyNewsOnline.comGuide to a healthy gut&nbsp;&nbsp;Harvard GazettePreserving Gut Eubiosis: New Tools, Prebiotics, and Lifestyle Insights to Maintain Microbiome Balance&nbsp;&nbsp;drugscontrol.orgSaving Your Gut!&nbsp;&nbsp;WALB",
       "sources": [
         {
           "name": "Business Insider",
@@ -330,34 +402,10 @@
       ]
     },
     {
-      "id": "86ec5de80726",
-      "title": "Certain Nap Patterns in Older Adults Could Be a Warning Sign, Study Finds - ScienceAlert",
-      "published": "2026-04-27T11:02:17+00:00",
-      "summary": "Certain Nap Patterns in Older Adults Could Be a Warning Sign, Study Finds&nbsp;&nbsp;ScienceAlertWhat your sleeping habits reveal about your health&nbsp;&nbsp;The TelegraphNapping may be warning sign of health issues in older adults, study finds&nbsp;&nbsp;USA TodayIs your ‘power nap’ a warning sign? New research connects daily snoozing to health issues.&nbsp;&nbsp;The Boston GlobeNew Study Reveals That Daytime Naps May Be A Sign Of Serious Health Problems&nbsp;&nbsp;Forbes",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSnFTQ20wTWpzOEdmd0lPaVZqQnI5ZHFGZ2Nkd18xdXhlZW1RZ2oyTzBqbXlwTEZCeGNCUGpEc3lLTmdIcHRRTWFFWHB1VnZ1dFM3WWxzRG1wRnJkYkpIYzR4MHI0d05aUVpmTG1sR1QwbXFTS3BOcVdGUy0wa1N5NDAtdEg1ekh6aHNaRFRRTExZR2FGOEdKN2dKQ2txRzd2eXZJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3f2c9c7831e4",
-      "title": "A Massive Fracture Is Splitting Africa Apart: Scientists Just Found the Critical Breaking Point - The Daily Galaxy",
-      "published": "2026-04-27T10:45:00+00:00",
-      "summary": "A Massive Fracture Is Splitting Africa Apart: Scientists Just Found the Critical Breaking Point&nbsp;&nbsp;The Daily GalaxyNecking of the active Turkana Rift Zone and the priming of eastern Africa for continental breakup&nbsp;&nbsp;NatureAfrica's major discovery of new 300-mile ocean as continent splits&nbsp;&nbsp;Daily Expresscrust thinning&nbsp;&nbsp;CPG Click Petróleo e GásA Sixth Ocean Is Forming as East Africa Splits Apart&nbsp;&nbsp;ZME Science",
-      "sources": [
-        {
-          "name": "The Daily Galaxy",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNXzZGVVlfS18zQldtNHozei1WZ3pKTnBxQ2VmNWpfRHNCU0RCRGczOVFEaFRrMGlSS0l3S1owVXRTekpRNDVDcm9ySXprYXZsVThFb2RtSXl0aTlUUkJGOUk2bl9ZNzdWU0d6VHFua25zS1MyMVRlNEdiZnZCaG51YV93dVY?oc=5"
-        }
-      ]
-    },
-    {
       "id": "792683442be9",
       "title": "Common Pregnancy Medications Linked to Higher Autism Risk in Massive U.S. Study - SciTechDaily",
       "published": "2026-04-27T10:35:20+00:00",
-      "summary": "Common Pregnancy Medications Linked to Higher Autism Risk in Massive U.S. Study&nbsp;&nbsp;SciTechDailyweek 18 / 2026&nbsp;&nbsp;Medical Xpress",
+      "summary": "Common Pregnancy Medications Linked to Higher Autism Risk in Massive U.S. Study&nbsp;&nbsp;SciTechDailyMillions of US birth records uncover an autism risk surge tied to common drugs taken during pregnancy&nbsp;&nbsp;Medical XpressStudy Links Sterol-Inhibiting Drugs to Autism Risk&nbsp;&nbsp;Neuroscience NewsScientists Found Some Common Meds Linked to Autism (None of Them Are Tylenol)&nbsp;&nbsp;VICEStudy Links Antidepressants, Beta-blockers and Statins To Increased Autism Risk&nbsp;&nbsp;Science",
       "sources": [
         {
           "name": "SciTechDaily",
@@ -381,7 +429,7 @@
       "id": "668b7be61686",
       "title": "Patients say they want Alzheimer's blood tests. Doctors aren't sure they help. - NBC News",
       "published": "2026-04-27T09:00:41+00:00",
-      "summary": "Patients say they want Alzheimer's blood tests. Doctors aren't sure they help.&nbsp;&nbsp;NBC NewsSimple Blood Test May Predict Alzheimer’s Years Before Brain Scans Show Signs&nbsp;&nbsp;SciTechDailyGroundbreaking dementia trial underway at Hampshire health trust&nbsp;&nbsp;Hampshire ChronicleMetropolis Healthcare introduces advanced blood-based Alzheimer’s screening&nbsp;&nbsp;BioSpectrum IndiaEarly Immune Changes May Signal Increased Risk of Alzheimer’s & Dementia&nbsp;&nbsp;NYU Langone Health",
+      "summary": "Patients say they want Alzheimer's blood tests. Doctors aren't sure they help.&nbsp;&nbsp;NBC NewsYour Blood Test Might Already Show Alzheimer’s Risk&nbsp;&nbsp;SciTechDailyPlasma biomarkers – The future of neuro-diagnostics in India&nbsp;&nbsp;Medical BuyerGroundbreaking dementia trial underway at Hampshire health trust&nbsp;&nbsp;Hampshire ChronicleMetropolis Healthcare introduces advanced blood-based Alzheimer’s screening&nbsp;&nbsp;expresshealthcare.in",
       "sources": [
         {
           "name": "NBC News",
@@ -462,6 +510,18 @@
       ]
     },
     {
+      "id": "f5b551de48cd",
+      "title": "CDC promotes caution due to unusually high tick bite numbers - WJAR",
+      "published": "2026-04-27T01:38:43+00:00",
+      "summary": "CDC promotes caution due to unusually high tick bite numbers&nbsp;&nbsp;WJARSo, you got bit by a tick. Here’s exactly what to do next.&nbsp;&nbsp;The Washington PostCDC Data Show Weekly ER Visits for Tick Bites Higher than Usual&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)A seasonal threat is sending more Americans to the ER than usual, new CDC data shows&nbsp;&nbsp;Cleveland.comWhy this tick season is again predicted to be worse than last and how to protect yourself&nbsp;&",
+      "sources": [
+        {
+          "name": "WJAR",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTEZhYk9Wdmo3V2M5S2JQeGhVcXBsQTFyLWt0emxMMi1IVVdrSmZpMmFZdV92NXduTXlMWngyaWtibTE3QUFKOXlYWENJdHNGUlJOSlhWZl9Qamt1Q2VnRUFfX01mMVNnWEdBQVFBQ3JkaktnM2otOHRNMnVjd1drcWpqVV95a184UkwyN2hQRGhwQ0JJVXlLci1wWEoyT1hRLUx3SjhtV3V1Zw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "70fe2d93e310",
       "title": "Scientists Were Wrong About This Strange “Rule-Breaking” Particle - SciTechDaily",
       "published": "2026-04-27T00:51:17+00:00",
@@ -482,18 +542,6 @@
         {
           "name": "SciTechDaily",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdmdaaXRZRndPS3M3VEFYWnFGZDh0ajVpQXp6OE5pXzJSUWxEM1BrdjJhVUxMeEpNYlY0b2lQUWhaaVUzN2Qzel9pY01RTU1YeEZaSGFCQ183Wkl1aS0xMjFIU0k5QXlwaWg2eUs2cEFTTEVJY1hFWHFwMGo5MmZLRmlvMDU1b29iQl9vRmxlVEZ4ZUhNMnJ1VWJNZ0xEdXhmLWhvVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a252ae30e723",
-      "title": "We Asked 4 Dietitians to Pick the Healthiest Cooking Oil—and They All Chose the Same One - Real Simple",
-      "published": "2026-04-26T20:30:00+00:00",
-      "summary": "We Asked 4 Dietitians to Pick the Healthiest Cooking Oil—and They All Chose the Same One&nbsp;&nbsp;Real SimpleView Full Coverage on Google News",
-      "sources": [
-        {
-          "name": "Real Simple",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPUEhIbVg4MmdxeUJDSGRQV3BFZjZuenBxb0w5QU9BYVd6RDFDNUNwLUxtdW1nZzgwc1NtUnBVWVhBd3Fvb3JTVnZ6SFRXaDR5RFFYN3ZVUEtpZXFRLWlGMmdLRkNONG12VkE?oc=5"
         }
       ]
     },
@@ -549,11 +597,23 @@
       "id": "5451f37f358e",
       "title": "Coffee May Boost Your Mood And Brainpower, Even Without Caffeine - ScienceAlert",
       "published": "2026-04-26T18:03:09+00:00",
-      "summary": "Coffee May Boost Your Mood And Brainpower, Even Without Caffeine&nbsp;&nbsp;ScienceAlertHabitual coffee intake shapes the gut microbiome and modifies host physiology and cognition&nbsp;&nbsp;NatureNew study reveals coffee’s positive gut impacts, even without caffeine&nbsp;&nbsp;USA TodayRegular consumption of coffee ‘significantly’ boosts mood and reduces anxiety&nbsp;&nbsp;The IndependentYour daily coffee habit may be quietly reshaping your gut and mood, study finds&nbsp;&nbsp;Fox News",
+      "summary": "Coffee May Boost Your Mood And Brainpower, Even Without Caffeine&nbsp;&nbsp;ScienceAlertHabitual coffee intake shapes the gut microbiome and modifies host physiology and cognition&nbsp;&nbsp;NatureAll coffee, even decaf, can improve mood, brain health, study finds&nbsp;&nbsp;Medical News TodayNew study reveals coffee’s positive gut impacts, even without caffeine&nbsp;&nbsp;USA TodayRegular consumption of coffee ‘significantly’ boosts mood and reduces anxiety&nbsp;&nbsp;The Independent",
       "sources": [
         {
           "name": "ScienceAlert",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQazd5ZTdXZUNoOTJGNVZSWF9ZMFY3VlZ3cGJ5WXNKNXZXZExETFJEMFp3d2FkY1dQaTgxVENkR3JkcnNnYmlENHhUUjZkV2xWUHRETEo2MFd5aDNyQlhPemFzbjJneGdlX3EwT3ZoX1lua3I5NVY2M2I5aWxWdzk1c0hLQnMwRkNQSjN3dXJjN1RMU2xjaUlN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3b074f4b90a3",
+      "title": "Antarctica's sea ice suddenly started shrinking a decade ago — and deep-diving robots are revealing why - Live Science",
+      "published": "2026-04-26T18:00:00+00:00",
+      "summary": "Antarctica's sea ice suddenly started shrinking a decade ago — and deep-diving robots are revealing why&nbsp;&nbsp;Live ScienceAntarctica’s ice shelves are vulnerable to melting from below – knowing how far ocean heat reaches is crucial&nbsp;&nbsp;The ConversationAntarctica’s sea ice collapse after 2016 reveals deeper ocean shift, study shows&nbsp;&nbsp;Türkiye TodayAntarctica Melting: Antarctica’s “point of no return”: Scientists warn the meltdown may be unstoppable&nbsp;&nbsp;The Times of Indi",
+      "sources": [
+        {
+          "name": "Live Science",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQODYwb1lpVlF0VlJlb0s1YWNuRTJUdnNwNU54NlBvUUxJckZpbzM1cTFhX0JiaXU1NUg5bEhwMVlfS1B3ZGkzX015Ul9QTkltY1JNbmd5NUtfb0xsYk5qX01Ucm5GcW5tSzN3eDVZbmh6M05EY2pzRVZDYXZkV25TNmVEMlJVdi1sTXdlZDVGRHY3MlUtd0VRYUJVVE9pSjAxNG56X1dXSkJqRXU0Ymt5ckg4Q0tSSkpDamo0UjJIUXBRVWlfZWRhZnN4ZnRiNUNzdkFYVk5XSXJiRzlQcnRmNkQzcmZuT3FfakpBVQ?oc=5"
         }
       ]
     },
@@ -570,38 +630,14 @@
       ]
     },
     {
-      "id": "d799cd1f6499",
-      "title": "The threat of light pollution puts the world's darkest skies in the Atacama Desert at risk - Phys.org",
-      "published": "2026-04-26T15:40:01+00:00",
-      "summary": "The threat of light pollution puts the world's darkest skies in the Atacama Desert at risk&nbsp;&nbsp;Phys.orgView Full Coverage on Google News",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByelgzcWpUMzhZZWt5N2FYbVJ2MjNLNVNKaGtIZDUtZmZweHoxY2dHUHNIM3FmVHdaZmtrZUNVZGItUk43VzYzY205ZlNQLWRWRmdlUTVrck83QmVOYzF0cmEzbzVnWU1xQ01TRW9wRUpLWGItdXNPYTJmaw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "32de7afc182b",
       "title": "A flesh-eating bacteria was just discovered all over Long Island - Alternet",
       "published": "2026-04-26T15:06:00+00:00",
-      "summary": "A flesh-eating bacteria was just discovered all over Long Island&nbsp;&nbsp;AlternetDangerous Flesh-Eating Bacteria That Can Kill Within 48 Hours Found in New York Waters&nbsp;&nbsp;People.comKnow the facts about Vibrio, a bacteria found in coastal waters and raw shellfish&nbsp;&nbsp;grist.orgFlesh-eating bacteria found in Long Island waters leave victims with 20% chance of dying in 48 hours&nbsp;&nbsp;New York PostStudy finds flesh-eating bacteria, harmful algal blooms in Long Island waters as ",
+      "summary": "A flesh-eating bacteria was just discovered all over Long Island&nbsp;&nbsp;AlternetFlesh-eating bacteria found in Long Island waters leave victims with 20% chance of dying in 48 hours&nbsp;&nbsp;New York PostStudy finds flesh-eating bacteria, harmful algal blooms in Long Island waters as quality worsens&nbsp;&nbsp;FOX WeatherEditorial: A Viral Media Problem&nbsp;&nbsp;East End BeaconDangerous Flesh-Eating Bacteria That Can Kill Within 48 Hours Found in New York Waters&nbsp;&nbsp;People.com",
       "sources": [
         {
           "name": "Alternet",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RTEwzU2xQMzlNZGJBTENiM2V2MW9SLXRYdHpMOFBnZFpOenluUXdZQVMtcDdWVXFGQmZORjZILUhRR2YzNTRIeEZ2SzZnczA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "454081659874",
-      "title": "Ammonia as a clean fuel: 'Do not create a new nitrogen problem,' says researcher - Phys.org",
-      "published": "2026-04-26T15:00:01+00:00",
-      "summary": "Ammonia as a clean fuel: 'Do not create a new nitrogen problem,' says researcher&nbsp;&nbsp;Phys.orgGreen ammonia: process optimisation and industrial validation&nbsp;&nbsp;World Fertilizer",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5leV9ac1BKdnBMbWczTWR4bmxROTZiOVYyYWtiZXNYWWoyRmlmZHFQdUNiSGw5NzJlTElrcE81S0xMOVhhaHNXM2oySFZOblJxaDJ2bEl0QWhJT0dMQlRlMnpQMHAtRDUzOE1EV19xN0JhQQ?oc=5"
         }
       ]
     },
@@ -614,18 +650,6 @@
         {
           "name": "Real Simple",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mZks2QVY5Y2ZxWjN5aXpLUzNOVW5ONnZqbzhWelFoU1lMak5SUHhjN01tNl9hRzZHTFhNVjcwQkpjN25sVzE2djJlSEI3WC1TQ1dwWXlGa1hHcVhQM0htZVdBbTVRQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ba98479e6c4a",
-      "title": "US is taking a ‘real risk’ with hasty shift in efforts to fight HIV, experts say - The Guardian",
-      "published": "2026-04-26T12:01:00+00:00",
-      "summary": "US is taking a ‘real risk’ with hasty shift in efforts to fight HIV, experts say&nbsp;&nbsp;The GuardianTwo startlingly different views on long-awaited data on America's anti-HIV efforts&nbsp;&nbsp;NPRAIDS Relief Program Sees Drops in Testing and Diagnoses After Disruptions&nbsp;&nbsp;U.S. News & World ReportAVAC: New PEPFAR data reveal a prevention crisis beneath the surface&nbsp;&nbsp;European AIDS Treatment GroupWhat the Latest PEPFAR Data Reveal and Why It Matters&nbsp;&nbsp;avac.org",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaVBNMkVlM0xLeklCYXhZOFAxT0R1UlU3eTE1XzM4Qy1LX3dBQ04yVklXNkhyNFNRVjZZSWNKMHhLejRJaGd6YzVRaXpzSW4zQXc0emo0STNsblVpRTVCNUtJV3lSc3ZyQ1d4MGJjZkRvRDVMdWxMRDF4Mmxxd3pDRXJORzQ5ZkRzLWloNw?oc=5"
         }
       ]
     },
@@ -654,13 +678,13 @@
       ]
     },
     {
-      "id": "03156201974c",
-      "title": "Blood vessels found in T. rex bones are rewriting dinosaur science - Science Daily",
+      "id": "1247402feb11",
+      "title": "Blood vessels found in T. rex bones are rewriting dinosaur science - ScienceDaily",
       "published": "2026-04-26T11:45:47+00:00",
-      "summary": "Blood vessels found in T. rex bones are rewriting dinosaur science&nbsp;&nbsp;Science DailyT. Rex Blood Vessels Discovery Reveals How Dinosaurs Healed Injuries&nbsp;&nbsp;ColombiaOne.comScientists Discover Preserved Blood Vessels in T. Rex Dinosaur Fossil&nbsp;&nbsp;GreekReporter.com",
+      "summary": "Blood vessels found in T. rex bones are rewriting dinosaur science&nbsp;&nbsp;ScienceDailyT. Rex Blood Vessels Discovery Reveals How Dinosaurs Healed Injuries&nbsp;&nbsp;ColombiaOne.comScientists Discover Preserved Blood Vessels in T. Rex Dinosaur Fossil&nbsp;&nbsp;GreekReporter.com",
       "sources": [
         {
-          "name": "Science Daily",
+          "name": "ScienceDaily",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpTkFHZEIza2l3SmZmZGNxczYwUFRIQ0lZU2NYTnF4ZjlWWlJrcXU2TmRuWHRFZk5tS0tqRnVvaDB6OWU0dXVxQkI0a3RsUGRzaU5EbmZPanNuVG9haHFlQ3JFZ2RwSWFLYTFyVl9oSQ?oc=5"
         }
       ]
@@ -678,26 +702,14 @@
       ]
     },
     {
-      "id": "06a836993863",
-      "title": "DNA research just rewrote the origin of human species - Science Daily",
+      "id": "4b8b77e6bb86",
+      "title": "DNA research just rewrote the origin of human species - ScienceDaily",
       "published": "2026-04-26T10:54:47+00:00",
-      "summary": "DNA research just rewrote the origin of human species&nbsp;&nbsp;Science Daily",
+      "summary": "DNA research just rewrote the origin of human species&nbsp;&nbsp;ScienceDaily",
       "sources": [
         {
-          "name": "Science Daily",
+          "name": "ScienceDaily",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NOWxXMkVwTnRsQUJId3E4bUx0RXE2SG54U0pGcThrUDhSLTlFQWl3bUkyN19ubkY3a0cyS3FzYThYY0x4M2xiN1N3TGNvMWUtVF93cHpzRGpPVTdLNFl0TDVZbmlJNmVWQ3cyZXJHdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "961839526cf2",
-      "title": "Physicist Proposes Dark Matter Is Made of Black Holes That Survived Dead Universes - Yahoo News New Zealand",
-      "published": "2026-04-26T10:45:00+00:00",
-      "summary": "Physicist Proposes Dark Matter Is Made of Black Holes That Survived Dead Universes&nbsp;&nbsp;Yahoo News New ZealandNew Research Challenges Big Bang Theory With Big Bounce Model&nbsp;&nbsp;HotHardwareGalaxies may still be shaped by black holes that were created before the Big Bang.&nbsp;&nbsp;vocal.mediaDid dark matter really come from a second cosmic event, not the Big Bang?&nbsp;&nbsp;Futura, le média qui explore le mondeBlack holes formed before the Big Bang may still exist, continuing to sha",
-      "sources": [
-        {
-          "name": "Yahoo News New Zealand",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUGI2YjJycUpKTHlkMnpCQm1WR05pcVdkUXN2ZHdyUEZjUzUybHJCQ05uY0RBalNiemR3WHBzTTVockVJTVlnT3V4blYyMXZvTGJQdy1wR0lGVW90bWxNVmpkcXNaRHhVeTU0TGRVYjV1MWNTTTRIR252My1wRmFKVGZ3?oc=5"
         }
       ]
     },
@@ -729,47 +741,11 @@
       "id": "78180df30f2b",
       "title": "Apollo neurologist reveals how sleep pattern predicts brain health 10-20 years later, explains nuances of napping | Health - Hindustan Times",
       "published": "2026-04-26T08:26:23+00:00",
-      "summary": "Apollo neurologist reveals how sleep pattern predicts brain health 10-20 years later, explains nuances of napping | Health&nbsp;&nbsp;Hindustan TimesScientists Reveal The Optimal Amount of Sleep to Lower Dementia Risk&nbsp;&nbsp;ScienceAlertDoes slow-wave sleep really prevent Alzheimer's disease?&nbsp;&nbsp;Psychology TodayDaytime sleepiness and napping linked to heightened neurodegenerative disease risk&nbsp;&nbsp;동아사이언스In Epilepsy, Poor Sleep Associated with Dementia | Newswise&nbsp;&nbsp;News",
+      "summary": "Apollo neurologist reveals how sleep pattern predicts brain health 10-20 years later, explains nuances of napping | Health&nbsp;&nbsp;Hindustan TimesScientists Reveal The Optimal Amount of Sleep to Lower Dementia Risk&nbsp;&nbsp;ScienceAlertDoes slow-wave sleep really prevent Alzheimer's disease?&nbsp;&nbsp;Psychology TodayDaytime sleepiness and napping linked to heightened neurodegenerative disease risk&nbsp;&nbsp;동아사이언스How many hours of sleep do you need to lower dementia risk? Scientists reve",
       "sources": [
         {
           "name": "Hindustan Times",
           "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQRFNOaFR3d0JncUU5eHdUMnA0T2JRaVNESDNoSHBiSUthZzhEazFra1VEbmgyQldidWRJWjJ3TTFnNDlZX1BtOFhFMjdxN2dFSnZkbFBCZHVuQ0hhcGlGWHZpRlpKMDZlUWVjZUFtYmpKOWZuZEhiYlZfQkNtT0lrSnljR0txa2FlZzdSZjRXSml0ZHhUSlQ3Y2hVdGc2a2YxZm9HTzdHampQODJQdS1YYXI2NE05RGRmbDRGRTVTdXpqRzZCNUhQWE1jNnBkRThqdWtSc1VUbDhJc3hnQ2RkdGdCblkxWTR6WlpwVnlqcWRQVzJnZlJJNnBoTE1rQWZoSGpoSHhCdElxQdIBjwJBVV95cUxQVEVpR1IwNU9IYXFmY3dkSXJQQjlhelVhVnJYVXlpd2tnSUlJbzJXcUwzMUMwVndWS1dhaXNqcFlLbEw4U2RMQl9vVmV1V0tKM1gtWXc1czZSUmxYaUtWRFdpd0VVRWJVOTN5emRPdmNfWVl2MXZsM09reWc0VElNSi1nakZzZWptVUVzUGpOd0FnbGhPR3RacWh1OE0zbmZmV2VzTGlmYVpSQWp2QnFTOXV5YWk2UzdJREd5Tk40WlJVUzU3emI1MkZxNWR2SlR4STlNWkV0MzJlNTd2dDJaWGYzUjM5cENhMFU4Tk5FbWxxZW5ZUWd0OGpVdjVqQlJBMjNBVGNReG5EU2J0OGVF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "26b9bedd57eb",
-      "title": "New deadly disease outbreak map flags 'highly vulnerable' regions around the world - Earth.com",
-      "published": "2026-04-26T07:00:00+00:00",
-      "summary": "New deadly disease outbreak map flags 'highly vulnerable' regions around the world&nbsp;&nbsp;Earth.com",
-      "sources": [
-        {
-          "name": "Earth.com",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQajlHZlVTMGZSenJHaWM4c29zcktDXzhyWm1kQTRiYjNnV0lYZ2EyTnV3UkRlVnRPajc5M2JiUkQwMUp5cG9VLVJxakdwcjZMOGQzcE85STRnQU9PWVFLbkZqSVpNN1FPbVl4NnFxa01kVzJ6ZFctd2RLMTZ0b2pUTGJFZDY3ZzdNM280NkNDY3JGdXh0SUpmRzZaSlFnWWZRcGpDZDM4cEN3SEpw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "40551a977b86",
-      "title": "Scientists believe birds’ skulls hold clues to inner lives of long-extinct dinosaurs - The Guardian",
-      "published": "2026-04-26T06:00:00+00:00",
-      "summary": "Scientists believe birds’ skulls hold clues to inner lives of long-extinct dinosaurs&nbsp;&nbsp;The GuardianWhy bird-brain T.rex might've been smarter than previously thought&nbsp;&nbsp;BBCCould T rex think? Scientists are using birds to find out&nbsp;&nbsp;The News International",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVm9EQXFQdHYya1BZOWtEb0NhV25LU2s4YjljdjNUV2VfZFlQVEpFLUdFc3V2Ym9RUGtUZjdYTG9VY3VzUnVpSG5JT2VwYlZmMS1uZ0hvVjk1SjhNWjdTUDJvWXFmajIxU2ZGbEVKSnFQb084MVMyZTdmRFpsbk9zc3NqSkJDb1RJNV9oNFBfUGhHZzVMazUyQlF1RjZIdkpTRTRCSzVzRllwS2NpNlRaQUZIZWo0VUh6eFc4c1hvcU4xLXZ5LThGVGVYTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a0c3e6e3b48d",
-      "title": "Graphene kills harmful bacteria “superbugs” but spares human cells - Science Daily",
-      "published": "2026-04-26T05:08:47+00:00",
-      "summary": "Graphene kills harmful bacteria “superbugs” but spares human cells&nbsp;&nbsp;Science Daily",
-      "sources": [
-        {
-          "name": "Science Daily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hT0czUWdhS1IwZzZDQU01WGhoT3laR0hhanU1Zy1VY2RMMFFSNDhGai0tSXJObVg2dFFWSkJ6dWd6QUlfelFNa24xYjQ1aXNCV1RuSzZUcHh3ZjBlYUdvNktocEo3WGw4T3V2LWRKRQ?oc=5"
         }
       ]
     }

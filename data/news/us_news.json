@@ -1,15 +1,27 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-01T03:40:59.009228+00:00",
+  "fetched_at": "2026-05-01T08:16:15.499823+00:00",
   "total_fetched": 140,
   "unique_count": 140,
-  "health_related_count": 74,
+  "health_related_count": 77,
   "news": [
+    {
+      "id": "975e09913c30",
+      "title": "AI Can Spot Pancreatic Cancer Years Before Diagnosis, Study Finds - ScienceAlert",
+      "published": "2026-05-01T04:33:09+00:00",
+      "summary": "AI Can Spot Pancreatic Cancer Years Before Diagnosis, Study Finds&nbsp;&nbsp;ScienceAlertMayo Clinic AI helps specialists detect pancreatic cancer up to 3 years before diagnosis in landmark validation study&nbsp;&nbsp;Mayo Clinic News NetworkAI model bests radiologists at detecting early signs of pancreatic cancer&nbsp;&nbsp;Radiology BusinessAI model detects normally 'invisible' tissue changes of pancreatic cancer at stage 0&nbsp;&nbsp;Medical XpressAI Spots Pancreatic Cancer Years Before It Sh",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcEVFcEZKOGxUelJrQmg4bjZVaEk4LW1NeFpxemV0TkVmSm1BOFBHNEVLY3FOUDk5a3RSdUlTMXVsZ0I3VjJ2MjZ4QkRQTlYybVNnei1Kcmx2a1RHeWtJQzcyMTBRaU4zdVFqenlDczk4QkJsM0xFNFR1YmYzdXVEUmltVmozRG5kMjI2XzVETXhnNWs5NzBRcQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "9c6a3efb895d",
       "title": "Scientists identify exactly how and why coffee fights aging and boosts overall health - Earth.com",
       "published": "2026-04-30T23:24:50+00:00",
-      "summary": "Scientists identify exactly how and why coffee fights aging and boosts overall health&nbsp;&nbsp;Earth.comCoffee doesn’t just wake you up — it may help protect your body from aging&nbsp;&nbsp;Texas A&amp;M StoriesThe Nutritional Value Of Coffee, According To Science&nbsp;&nbsp;AOL.comCaffeine for Skin&nbsp;&nbsp;macau daily times 澳門每日時報Coffee can protect against aging — and more health headlines&nbsp;&nbsp;WGN-TV",
+      "summary": "Scientists identify exactly how and why coffee fights aging and boosts overall health&nbsp;&nbsp;Earth.comCoffee doesn’t just wake you up — it may help protect your body from aging&nbsp;&nbsp;Texas A&amp;M StoriesThe Nutritional Value Of Coffee, According To Science&nbsp;&nbsp;AOL.comCoffee can protect against aging — and more health headlines&nbsp;&nbsp;WGN-TVCoffee may protect your body from ageing, study finds&nbsp;&nbsp;Euronews.com",
       "sources": [
         {
           "name": "Earth.com",
@@ -18,26 +30,26 @@
       ]
     },
     {
-      "id": "ad3355ef4a87",
-      "title": "Shocking video shows zombie-like state of SF drug addicts - New York Post",
-      "published": "2026-04-30T23:10:00+00:00",
-      "summary": "Shocking video shows zombie-like state of SF drug addicts&nbsp;&nbsp;New York Post",
-      "sources": [
-        {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM2xLLS1rUzVJb2Nqb0lLQVdITmxMeER0b3Zza0xidnZDS252MkhJTFNtYW1Wdl9zeWkzdVdDYUdWeFFIak1Dbk9fU3plT0FJRWpCMURlWWsxZnhGc0RUMkRQMzdBR2JXVnFtVktxSy14M2VuVmFYSHRYbGd6bFhXaGRHTWhHNnpDQmxoRTBxR1Fsd1lRYzY4RmNTb2M5QUQ4SzdNa0phQ1I3WWM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "618257f37641",
       "title": "Active ingredient in Ozempic, Wegovy shows early promise for treating alcohol use disorder among those with obesity: Study - ABC News - Breaking News, Latest News and Videos",
       "published": "2026-04-30T22:44:21+00:00",
-      "summary": "Active ingredient in Ozempic, Wegovy shows early promise for treating alcohol use disorder among those with obesity: Study&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosNovo Obesity Shot Wegovy Helped Alcoholics Drink Less in Study&nbsp;&nbsp;Bloomberg.comGLP-1 reduces heavy drinking days in treatment seeking people with alcohol use disorder and obesity, finds small trial&nbsp;&nbsp;Medical XpressPeople with alcohol problems could benefit from taking weight loss jabs, researchers fi",
+      "summary": "Active ingredient in Ozempic, Wegovy shows early promise for treating alcohol use disorder among those with obesity: Study&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosNovo Obesity Shot Wegovy Helped Alcoholics Drink Less in Study&nbsp;&nbsp;Bloomberg.comNew research suggests GLP-1 drugs can help treat addiction&nbsp;&nbsp;WTNH.comPeople with alcohol problems could benefit from taking weight loss jabs, researchers find&nbsp;&nbsp;The IndependentHic-hic hurray for GLP-1? Obesity dru",
       "sources": [
         {
           "name": "ABC News - Breaking News, Latest News and Videos",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONnJQMmxMdGdEY0ZKWG5NMDRoQVIxb0JLSGxtZG5ILVVzcWQ3SkFuUERlN1hVay0tMXdQX2ZmYkVHN0JRR0ZtWGJ0MExYMjQwOVBRd0NsZU9WdmRLNkQ0LV93Q28yUEZvMkUxZTlZTVJtR19PSkhIclpSLTNmalhiZ1JkbFZDSXVfM0F0V1lOcHI4bWZTZkVmMll6eS00SXE2LXdoNzlyZzVFczTSAbABQVVfeXFMT0s3c3VmNzZtSmtqdWRFWGZZaWJNMGlTYjZCWnRCeWp6anhQZHl2dnVqVFhJb1h4amZ0b3I2b1NRSmVoMlZuZVg0QmdvbTE0V2xndExqVjVmMVNVX0RJZ1hVWWRyVmdKRjhoVEFYR3NYcUU1NHVTcXkzNG5sUWp3UWpFcldHY01PSEItZl9wcEZpbENFVGgweWVick5VTDcxZm1RR0lHS05rbTFIMmx5Ync?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0a393eb7bbad",
+      "title": "New AI-based research reveals GLP-1 side effects missed in clinical trials - WJAR",
+      "published": "2026-04-30T21:36:43+00:00",
+      "summary": "New AI-based research reveals GLP-1 side effects missed in clinical trials&nbsp;&nbsp;WJARNew weight-loss drugs such as Ozempic can also erase people’s love of food&nbsp;&nbsp;The Globe and MailWhat Reddit Knows About Ozempic Side Effects That Doctors Don’t—and How It Can Affect Your Performance&nbsp;&nbsp;Outside MagazineUsing AI to surface unreported GLP-1 side effects in Reddit posts&nbsp;&nbsp;Penn TodayNew Research Reveals Possible Hidden Side Effects of GLP-1 Drugs&nbsp;&nbsp;Health: Trust",
+      "sources": [
+        {
+          "name": "WJAR",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOSTNJTnR2M2dHMnFFQU9GWlFQV2dRN1lUYTFFaUxIQzllaXRSSVZ3MzR0MnNGanllRlpWOWhOWFNJZGMwTXo2Y012LXJoNk1OdzVxYTJEOWt5ajJMbWlYZW0xbXQ1Nm5hSVZtbm95UmpJUkl3TFB0blRTZlZ6el9mZUFEcTdSQ1FCNjNGSEZ3MUtMVTVTUjFUSV8yVlF1dW0xeWthN2ZrdkxDX0ZfLXNuc0tPMFBFTWlINHZ2eXRQc2dSTHE1TlFFQ2o3TWF2S1AyeGJRcmlTR3FZUnZmZ1lzdXoyd2FOQWxUYzBtRjdzeXNFX2pfa2FKd1B0N0F4ajVZU0k5ZHVUZTFBdEkz?oc=5"
         }
       ]
     },
@@ -66,6 +78,18 @@
       ]
     },
     {
+      "id": "d4992447e185",
+      "title": "Ketamine Spawned a $1.7 Billion J&J Blockbuster Drug - Bloomberg.com",
+      "published": "2026-04-30T21:00:00+00:00",
+      "summary": "Ketamine Spawned a $1.7 Billion J&amp;J Blockbuster Drug&nbsp;&nbsp;Bloomberg.com",
+      "sources": [
+        {
+          "name": "Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMWNOc09LbnEtOU9STWpwMDhYM25TTHYySTBKYjZDM1dFenpsLWVoS3lkUWZiV0RYWk9GMjRZbDJBRkVnLU90Z3otdVNrXzIzZVJFV1NtZm9RZnN5VUZtQVBkbnRSRktQWXhmWTBBZG9hSEUteFk5dkJ4Y0plZHNJWjR0UjlwSk82V2c?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c26afd85dc25",
       "title": "Researchers try to cut the genetic code from 20 to 19 amino acids - Ars Technica",
       "published": "2026-04-30T19:34:15+00:00",
@@ -81,11 +105,23 @@
       "id": "720cdb23c89b",
       "title": "Vitamin supplement may delay diabetes in select groups, researchers say - Fox News",
       "published": "2026-04-30T19:14:14+00:00",
-      "summary": "Vitamin supplement may delay diabetes in select groups, researchers say&nbsp;&nbsp;Fox NewsHow vitamin D can help prevent type 2 diabetes&nbsp;&nbsp;The IndependentPrediabetes Genotyping Identifies Who Benefits from Vitamin D&nbsp;&nbsp;Inside Precision MedicineDiabetes: Vitamin D may reduce risk by as much as 19% in some people&nbsp;&nbsp;Medical News TodayStudy Sheds Light on Why Taking Vit D May Lower Diabetes Risk for Some&nbsp;&nbsp;MedPage Today",
+      "summary": "Vitamin supplement may delay diabetes in select groups, researchers say&nbsp;&nbsp;Fox NewsHow vitamin D can help prevent type 2 diabetes&nbsp;&nbsp;The IndependentPrediabetes Genotyping Identifies Who Benefits from Vitamin D&nbsp;&nbsp;Inside Precision MedicineDiabetes: Vitamin D may reduce risk by as much as 19% in some people&nbsp;&nbsp;Medical News TodayThis Common Vitamin Can Slash Your Risk of Developing Type 2 Diabetes&nbsp;&nbsp;Prevention",
       "sources": [
         {
           "name": "Fox News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb2U2dTZHYmlCSnNhODg2QWpRajl3RzlQeVZFcVU4c2pfYnlWb1hnb1VHY3VqOW05TE8tYW5aMThMeGdkdmFjTXdpMmdpRjlMNEltb1VhYTc3X1gtdVU1bmdYZ0dYSXVnTG5CNl82RV9IVWNHN3dyb2VLMWp5MzRtLXB4SGtod0YxN0oxVW00MmRoaF9TbUpwbUlka3BESmPSAaQBQVVfeXFMUDJFeS05bnlvM0RVaHNGSGxyUVAyZ1NCM1RNQ193bXcxSGc4NUNpZ2xxZVh0YlhRTXN5NVI2MkNvUjd1ZGpYdVQ0a180N0VoMUdPbzhydTRUckx6dmNUS3dMSkpqYjEwVmg4OE5oYy1aVFhDUm0zYXo5dWFXZjlvaWFiTldOYktycXA4WmlxdkhadEtOSU01YVlzZHQxSnF5Q0NkWTY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "68dc1b1d719f",
+      "title": "Africa Is Splitting Apart Faster Than We Thought, Forming a New Ocean - ScienceAlert",
+      "published": "2026-04-30T18:03:09+00:00",
+      "summary": "Africa Is Splitting Apart Faster Than We Thought, Forming a New Ocean&nbsp;&nbsp;ScienceAlertMassive crack will one day split the continent of Africa, researchers say&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosNecking of the active Turkana Rift Zone and the priming of eastern Africa for continental breakup&nbsp;&nbsp;NatureIn Eastern Africa, the Cradle of Humankind Is Tearing Apart&nbsp;&nbsp;Columbia UniversityGiant rift suggests Africa is breaking apart, forming new ocean&nbsp;",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORnRJWGhDNGtlX2dMWjRpcE9BYlVvcEZKWWFCS1BXVE5NOXRWRWVsVjhDQjZHZ0VLU2pfalJoN1V1R29LYTBpS29jbzRjQXh0U1JCLS1LQUxqRFpRbmtxZ09WaUhUalBEd2F1UUU0MjJaX1FveU9LRGhuRmlzUGJEWW5YVUR5YnJmZkhFZjRkR2ZaQTdMSU5ocVNqemV5UQ?oc=5"
         }
       ]
     },
@@ -165,7 +201,7 @@
       "id": "d485f6a039d1",
       "title": "Insane ‘Benadryl challenge’ resurfaces — leading to one death and sending dozens to the hospital - New York Post",
       "published": "2026-04-30T15:53:00+00:00",
-      "summary": "Insane ‘Benadryl challenge’ resurfaces — leading to one death and sending dozens to the hospital&nbsp;&nbsp;New York PostFort Worth children's hospital warns parents about \"Benadryl challenge\" after 100 ER visits, 1 death&nbsp;&nbsp;CBS NewsParent calls for law limiting sale of OTC meds to kids after daughter's Benadryl overdose&nbsp;&nbsp;KATV‘Benadryl challenge’ kills 1, hospitalizes dozens of children in Fort Worth&nbsp;&nbsp;Fort Worth Star-TelegramDoctors warn of Benadryl overdose social me",
+      "summary": "Insane ‘Benadryl challenge’ resurfaces — leading to one death and sending dozens to the hospital&nbsp;&nbsp;New York PostFort Worth children's hospital warns parents about \"Benadryl challenge\" after 100 ER visits, 1 death&nbsp;&nbsp;CBS NewsParent calls for law limiting sale of OTC meds to kids after daughter's Benadryl overdose&nbsp;&nbsp;KATV‘Benadryl challenge’ kills 1, hospitalizes dozens of children in Fort Worth&nbsp;&nbsp;Fort Worth Star-TelegramATTENTION PARENTS! The trend encourages kid",
       "sources": [
         {
           "name": "New York Post",
@@ -186,10 +222,22 @@
       ]
     },
     {
+      "id": "af438b9ffe4e",
+      "title": "Tracing the rise of biomedical foundation models - Nature",
+      "published": "2026-04-30T15:42:13+00:00",
+      "summary": "Tracing the rise of biomedical foundation models&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ObjdaaGowclZ5UGtRVFBFaUloVUotSkJjV3k4T21Kay1VUjVCLWRNbWY5UlVQMGZ5MTRUcW4yb2xweTJwNzh6V1Z2bFhzaW5iOEpXWjd2V2FQVXZXUVdN?oc=5"
+        }
+      ]
+    },
+    {
       "id": "018266701b5d",
       "title": "Whooping cough outbreak: Pasadena health officials confirm 4 cases at Don Benito Fundamental School - ABC7 Los Angeles",
       "published": "2026-04-30T14:40:40+00:00",
-      "summary": "Whooping cough outbreak: Pasadena health officials confirm 4 cases at Don Benito Fundamental School&nbsp;&nbsp;ABC7 Los AngelesPasadena school reports whooping cough outbreak&nbsp;&nbsp;KTLAPasadena confirms whooping cough outbreak at Don Benito Fundamental School&nbsp;&nbsp;CBS NewsOutbreak of centuries-old bacterial disease plagues Pasadena school&nbsp;&nbsp;New York PostPasadena Health Officials Investigate Whooping Cough Cases at Local School&nbsp;&nbsp;ColoradoBoulevard.net",
+      "summary": "Whooping cough outbreak: Pasadena health officials confirm 4 cases at Don Benito Fundamental School&nbsp;&nbsp;ABC7 Los AngelesPasadena school whooping cough outbreak infects 4&nbsp;&nbsp;Los Angeles TimesPasadena school reports whooping cough outbreak&nbsp;&nbsp;KTLAPasadena confirms whooping cough outbreak at Don Benito Fundamental School&nbsp;&nbsp;CBS NewsOutbreak of centuries-old bacterial disease plagues Pasadena school&nbsp;&nbsp;New York Post",
       "sources": [
         {
           "name": "ABC7 Los Angeles",
@@ -201,7 +249,7 @@
       "id": "fe1f092db2f0",
       "title": "Discovery renews confirmation that ancient Mars had the 'right chemistry to support life' - Earth.com",
       "published": "2026-04-30T14:24:49+00:00",
-      "summary": "Discovery renews confirmation that ancient Mars had the 'right chemistry to support life'&nbsp;&nbsp;Earth.comNASA’s Curiosity Finds Organic Molecules Never Seen Before on Mars&nbsp;&nbsp;NASA Jet Propulsion Laboratory (JPL) (.gov)Newly detected organic molecules support the idea that Mars was once ‘amazingly habitable’&nbsp;&nbsp;CNNDiverse organic molecules on Mars revealed by the first SAM TMAH experiment&nbsp;&nbsp;NatureNASA rover uncovers rock with 7 new organic molecules on Mars — the 'mo",
+      "summary": "Discovery renews confirmation that ancient Mars had the 'right chemistry to support life'&nbsp;&nbsp;Earth.comNASA rover uncovers rock with 7 new organic molecules on Mars — the 'most diverse collection' ever seen&nbsp;&nbsp;Live ScienceCuriosity Team Hits Jackpot: A Sample Full of Complex Organic Molecules&nbsp;&nbsp;Sky & TelescopeNASA finds new molecules on Mars, suicide hotline shows promise, AI voice clones beat humans&nbsp;&nbsp;Scientific AmericanNASA finds life-linked organic molecules f",
       "sources": [
         {
           "name": "Earth.com",
@@ -234,26 +282,14 @@
       ]
     },
     {
-      "id": "48034288caf2",
-      "title": "Dietitians Reveal the 10 Drinks to Never Drink for Better Health - Prevention",
-      "published": "2026-04-30T12:46:44+00:00",
-      "summary": "Dietitians Reveal the 10 Drinks to Never Drink for Better Health&nbsp;&nbsp;Prevention",
+      "id": "d58614dcd059",
+      "title": "Dietitians Reveal the 10 Drinks to Never Drink for Better Health - AOL.com",
+      "published": "2026-04-30T12:42:04+00:00",
+      "summary": "Dietitians Reveal the 10 Drinks to Never Drink for Better Health&nbsp;&nbsp;AOL.com",
       "sources": [
         {
-          "name": "Prevention",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGRtVjZrbG5nRGo2ZTZ4U2FTeTZWOUZPZmxlYjNSVmtFSWVTRGhrOFphM1JMZEU4T3ROWklacU5nblBFeVlCcGJHWXpkSXMzdktWeEZIVm5WVzNLTWVrZ0hQSnFsUG9mRnlPVU1iZlJQanlzRGtfa0VmLWV2dS16c0ZqckZuZC1wa2JUaWk5dEN1VHRkN0RIck9GLXlvM1lnTFMtXzRQeGlta00?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "74d0ac06f511",
-      "title": "\"My patients kept coming back with the same gut problem and it took me years to realize it was this one breakfast item\" : a gastroenterologistʼs revelation that is dividing the medical community - Iowa Park Leader",
-      "published": "2026-04-30T12:15:55+00:00",
-      "summary": "\"My patients kept coming back with the same gut problem and it took me years to realize it was this one breakfast item\" : a gastroenterologistʼs revelation that is dividing the medical community&nbsp;&nbsp;Iowa Park Leader",
-      "sources": [
-        {
-          "name": "Iowa Park Leader",
-          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQd2dnMVZCd2ozb0wzOF9Idm9NeG9WZHNBbEJhcTgxazMyUWVUQjRPYVRteGNEYk9zdTNSN1FiWXJIbHhvYThRQW5iUW1kMFp3cEpVX3RhQ3dfVGFVeTJUS29qU0NRNmRGTlFmMGxpdDN6NTFFNHlKSzNFMDZIejVTSklaeVYybGpoMWtPS0pOcGlnUzc5c0NHWGpSNWRsY3pqLVBlTU0tdHgzWVViWlp6R3lUcVhiVll1MEt4dGlEUTZwTXl6Q1h6MHpWODkwVzZlRWNUNXZTZlE1RVI2NFlkVEF0VWNnS0R4bXRmU1NNOUNLX0J5TllkQkZyZ3VvMnZRSF9FajBvY0gyYmZEcXFyaDk5U0tKR2xsNkYtRldfQjZpSGI1czRneUVEQmhja3B2a1p2ZlVzYmJITWRHYmw4X0xqLWhXWThpVXc?oc=5"
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQei1hblFqSmtURmlmbkJJZl9EMVZMQkxpNW9JU1g3WnV4LUY0amRrOXlSZWlwMG5sYzcxdW1MZG94cVJCVjdPYVJrQzMxX2Q2U1pVOW5tZG13TmtNUGFRRTR6T0hZcnd0OG9aSEpqX3ZsaEpNenVlZDVrVUc5dWZxTGdJVQ?oc=5"
         }
       ]
     },
@@ -261,7 +297,7 @@
       "id": "4a5486e93d54",
       "title": "We Outlasted Neanderthals Thanks to One Key Difference, Study Suggests - ScienceAlert",
       "published": "2026-04-30T12:02:30+00:00",
-      "summary": "We Outlasted Neanderthals Thanks to One Key Difference, Study Suggests&nbsp;&nbsp;ScienceAlertNeanderthal brains measure up to ours—literally&nbsp;&nbsp;Ars TechnicaBrain Scans Reveal a Surprise About Neanderthal Intelligence&nbsp;&nbsp;YahooForget the caveman myth: Neanderthal brains challenge what we thought we knew&nbsp;&nbsp;Science X networkScientists think they finally know why Neanderthals vanished&nbsp;&nbsp;ScienceDaily",
+      "summary": "We Outlasted Neanderthals Thanks to One Key Difference, Study Suggests&nbsp;&nbsp;ScienceAlertBrain Scans Reveal a Surprise About Neanderthal Intelligence&nbsp;&nbsp;YahooNeanderthal brains measure up to ours—literally&nbsp;&nbsp;Ars TechnicaScientists Figured Out How Smart Neanderthals Were (We Were All Wrong)&nbsp;&nbsp;VICEForget the caveman myth: Neanderthal brains challenge what we thought we knew&nbsp;&nbsp;Science X network",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -306,14 +342,38 @@
       ]
     },
     {
+      "id": "90d67dad9850",
+      "title": "Earth Is Breaking Apart Under the Pacific Northwest Across a Fault That Is Ripping Deeper Than Anyone Expected - Indian Defence Review",
+      "published": "2026-04-30T10:30:00+00:00",
+      "summary": "Earth Is Breaking Apart Under the Pacific Northwest Across a Fault That Is Ripping Deeper Than Anyone Expected&nbsp;&nbsp;Indian Defence ReviewEarth is splitting open beneath the Pacific Northwest, scientists say&nbsp;&nbsp;ScienceDailyEarth’s crust is breaking up under Cascadia, study finds&nbsp;&nbsp;The Indian ExpressEarth is 'splitting in half' beneath our feet and could see oceans disappear if it doesn't stop&nbsp;&nbsp;LADbible",
+      "sources": [
+        {
+          "name": "Indian Defence Review",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZDB0UzRZMnFBSmRPLWFkLWtyUVNWdVpGM3ZiZVVxZHJGcWYzOXRrcjZYTDBFczNYc1dfTHJyZ056bW5WaUpoWlR0X1RsOEwzSzVsd1lHb1dqTk4yZUI0emJ0cXBmMlpPNFRmM2tNc05OS1hqaG5tejN5bU1fXy11bXdGOGh5eVNKNGx5SjBIdEhtZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ba4d0c413d1b",
       "title": "To catch colorectal cancer early, advocates push to make ‘poop talk’ OK - NPR",
       "published": "2026-04-30T10:00:00+00:00",
-      "summary": "To catch colorectal cancer early, advocates push to make ‘poop talk’ OK&nbsp;&nbsp;NPRRectal cancer deaths rising up to three times faster in specific age group, study finds&nbsp;&nbsp;Fox NewsRectal Cancer Is Rising In Millennials. Doctors Have A Theory Why.&nbsp;&nbsp;HuffPostScientists search the microbiome for clues to the rise in colorectal cancers&nbsp;&nbsp;NPRFAQs on Colorectal Cancer, Treatment, and Prevention&nbsp;&nbsp;The American Journal of Managed Care",
+      "summary": "To catch colorectal cancer early, advocates push to make ‘poop talk’ OK&nbsp;&nbsp;NPRRectal Cancer Is Rising In Millennials. Doctors Have A Theory Why.&nbsp;&nbsp;HuffPostRectal cancer deaths rising up to three times faster in specific age group, study finds&nbsp;&nbsp;Fox NewsScientists search the microbiome for clues to the rise in colorectal cancers&nbsp;&nbsp;NPRFAQs on Colorectal Cancer, Treatment, and Prevention&nbsp;&nbsp;The American Journal of Managed Care",
       "sources": [
         {
           "name": "NPR",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUzA1QUR4UENLUWswcHBFWC1sSWFEZ0VkblhoVE5jcnY1eVpSUjNZVlBPZ05rT09DV0t2N0lSckFob0hQOURLRVk5anVRWnhmRVUyejFDcXlQNjVDWkJKbUZJZm5Wc0ZMRHhGZXBsWUY5dWhpVndkLUZlU05kS0dBZVRyZTdRSGxuelRhSg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b31224f0b6ce",
+      "title": "I’m a doctor — women need to stop ‘white-knuckling’ through a common inflammatory condition - New York Post",
+      "published": "2026-04-30T10:00:00+00:00",
+      "summary": "I’m a doctor — women need to stop ‘white-knuckling’ through a common inflammatory condition&nbsp;&nbsp;New York PostEndometriosis: New scan technique shows promise for earlier detection&nbsp;&nbsp;BBCLesser-known effects of endometriosis&nbsp;&nbsp;UCLA HealthEndometriosis Care: One Size Doesn’t Fit a Lifetime&nbsp;&nbsp;EMJDI woman shares her struggle with endometriosis&nbsp;&nbsp;The Daniel Island News",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZU1mRUF2cDgycGo3blNMYWFoZ3hxaWhmZi03X0tYbnA2OUZKQTM1Z2NDODVwMFhzbFBzSU1aNmVkMzNELWhMNGNZQURzSEo3NXZvbDlVTFpfdlVnY0htVFIxQkU0SDYxZFM1ekxGY0d3WUw3VFlQc3V3aTd3dGtUNkRWcHJuY3J1M3EybTdaUjI2TzlVbHNFU3F4a1BEbkRMNWxCSkpXR3pDQ0thcnJGYnlZN25GNThk?oc=5"
         }
       ]
     },
@@ -345,7 +405,7 @@
       "id": "dc85a277652d",
       "title": "Scientists reveal the best exercise for knee arthritis pain relief - ScienceDaily",
       "published": "2026-04-30T07:32:07+00:00",
-      "summary": "Scientists reveal the best exercise for knee arthritis pain relief&nbsp;&nbsp;ScienceDailyDiscover the most effective activities for improving knee health&nbsp;&nbsp;Deseret News3 Knee Arthritis Remedies Proven To Ease Pain Without Drugs or Surgery&nbsp;&nbsp;AOL.com",
+      "summary": "Scientists reveal the best exercise for knee arthritis pain relief&nbsp;&nbsp;ScienceDailyDiscover the most effective activities for improving knee health&nbsp;&nbsp;Deseret News",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -378,6 +438,18 @@
       ]
     },
     {
+      "id": "9e8a91e7c781",
+      "title": "Hidden Parasite Found in Popular Portuguese Lake Raises Health Concerns - SciTechDaily",
+      "published": "2026-04-30T05:02:57+00:00",
+      "summary": "Hidden Parasite Found in Popular Portuguese Lake Raises Health Concerns&nbsp;&nbsp;SciTechDaily",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQXI1VGhERXdjTngxNDdkRVpvZF9xOHZXRzhpSFJ1a3ZVSHNiQmJKQjVqY0NadGlyUG5FVHFLTXBxYzY0NDFuMThzc05qZjBHTnp1M3JTeVlvSWFPdFd2b25ZOGlXdE1OaVdkVlgtVzZlTDJ5SndHblg4YkM4ZGpJVGVzOW1YcUdUUUFwQnd4cHRLTkNEU1JrRVR2ZTkxQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e3750a615efe",
       "title": "First-ever 3D view shows how killer T cells destroy cancer - ScienceDaily",
       "published": "2026-04-30T04:38:06+00:00",
@@ -386,18 +458,6 @@
         {
           "name": "ScienceDaily",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1mYkNudTdsM1dMSk84dzFFMnBMRDc4M1BhUXdUT2NqZ21IMDh5aGpwWHYxUFB0cTYyMG1WblppNHRXVjNYTlppcnUxeVlpOU94amJ6R3ZVeFQ1VDF0TVpUSGRPWndFdG1ndWJJdjhIOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c0a712111d8d",
-      "title": "Earth is splitting open beneath the Pacific Northwest, scientists say - ScienceDaily",
-      "published": "2026-04-30T03:38:23+00:00",
-      "summary": "Earth is splitting open beneath the Pacific Northwest, scientists say&nbsp;&nbsp;ScienceDailyEarth’s crust is breaking up under Cascadia, study finds&nbsp;&nbsp;The Indian ExpressEarth is 'splitting in half' beneath our feet and could see oceans disappear if it doesn't stop&nbsp;&nbsp;LADbibleEarth Is Breaking Apart Under the Pacific Northwest Across a Fault That Is Ripping Deeper Than Anyone Expected&nbsp;&nbsp;Indian Defence Review",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84V0xRVjhhUW96b0VlM3dfSkdQNkNxSjkwWDRXVGd3c2FtbFF2cDZpa3B3bEEwRE0zQm1XUzZLNTVpdzRPZUVQTmVCaFFBSDlvNVRaekVEd3BIUjN1eUo4M0dtU1IwRjBnaWF5SGlMSQ?oc=5"
         }
       ]
     },
@@ -426,18 +486,6 @@
       ]
     },
     {
-      "id": "c55bdbb04051",
-      "title": "Massive crack will one day split the continent of Africa, researchers say - ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-04-30T02:03:44+00:00",
-      "summary": "Massive crack will one day split the continent of Africa, researchers say&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosAfrica Is Splitting Apart Faster Than We Thought, Forming a New Ocean&nbsp;&nbsp;ScienceAlertNecking of the active Turkana Rift Zone and the priming of eastern Africa for continental breakup&nbsp;&nbsp;NatureIn Eastern Africa, the Cradle of Humankind Is Tearing Apart&nbsp;&nbsp;Columbia UniversityGiant rift suggests Africa is breaking apart, forming new ocean&nbsp;",
-      "sources": [
-        {
-          "name": "ABC News - Breaking News, Latest News and Videos",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdk90aGZCbDVqdExEZFhXT1FFRG94TFdkVHhsUWdaVUlCeG4yTlJfT2VCMXo2TThReDMyQlo0T09FM1JGTGlSZWt2OFJ3ZEJXR29WWWdsR3pPQ1dKQUYtU29rY3hMQVVXVlFxcmpGclJEai1XaDRiQTRwRHVwdm1rU2Jsb0d2UlpFb1NOQUpWLTdHUHJkc1VkZDl4SElBeDMyTFBEb2NFLXfSAa4BQVVfeXFMUEtSd0lGV3A1dTl0WFhtSGdpdE5kNmdtZzlFQ0hLQUdGdEZlUlpDaFFNTHFPOG1jaHZKVmxjWFNhQmFDVGJtNkw5ajhobzdZUE5XWWRxLW5KRU1hUzhydWphczdwRHRPWUxLUGE5dTF6VHR0SHlGZEpGbmNoUnlUWW1NbWVOSGxha2RIeUIxQm1mZUJBNG5WRlN2NFYyYk9raUxMSHl1WnJfdF9qYnhn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b3e0829dd806",
       "title": "Magnesium may help people sleep better, but the new study comes with a warning - Earth.com",
       "published": "2026-04-30T01:34:52+00:00",
@@ -462,18 +510,6 @@
       ]
     },
     {
-      "id": "1f94ed5f4ab3",
-      "title": "Endometriosis: New scan technique shows promise for earlier detection - BBC",
-      "published": "2026-04-30T00:08:59+00:00",
-      "summary": "Endometriosis: New scan technique shows promise for earlier detection&nbsp;&nbsp;BBCTrial of non-invasive endometriosis scan boosts hopes for quicker diagnosis&nbsp;&nbsp;The GuardianEndometriosis Imaging Study Published in The Lancet Obstetrics, Gynaecology & Women's Health Highlights 99mTc-maraciclatide as a Promising Diagnostic and Monitoring Tool&nbsp;&nbsp;PR NewswirePreventative screening and the future of endometriosis care&nbsp;&nbsp;AuntMinnieNon-invasive endometriosis scan trial boosts",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44Z1dpSVpmOVR6ZXNueGpzaFg5RmlXR3BaVzN1VGZIbDJVOUZUZHhSa0hSaWZmeU5ERWZfVXNvSG5fVmlpQVIyN1lFdXAtVEdiLVFKNnRrNGZtUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8e3736053cab",
       "title": "Vermont and Quebec ramp up rabies vaccination efforts with cases rising among wildlife - VTDigger",
       "published": "2026-04-29T22:30:30+00:00",
@@ -482,6 +518,18 @@
         {
           "name": "VTDigger",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUWN2RFdoRzl4UE1qcUltM0JXNFR0UDc2N21hdi1tM1NzRFdNYkFXbEFTWUJQRUZpT1FIcm54bzJYdkswMFJvUHFGTzJ4ampuSkhIdENYaTdwNTlqVTQ1aTdsM3Q5bjJLNm5wSUxkLTdWNGxfTlI2emQwWC1FOHRoWFlyd2NLSm5obWdNdXVHSnpuaS1nMWtVeFB2dmRtSmxPZ0tXMUc0YmVVNlNQakZ4RGYzLW0zbzk1ejRZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e4f0595a5ac5",
+      "title": "Cases of highly contagious virus that's dangerous for babies surging: CDC - NBC 5 Chicago",
+      "published": "2026-04-29T22:24:55+00:00",
+      "summary": "Cases of highly contagious virus that's dangerous for babies surging: CDC&nbsp;&nbsp;NBC 5 ChicagoWith infants at highest risk, a highly contagious gastrointestinal virus is seeing a late surge&nbsp;&nbsp;Pittsburgh Post-GazetteCases of highly contagious rotavirus increasing among children, Pittsburgh doctor says&nbsp;&nbsp;CBS NewsStomach bug virus resurging in New Jersey, Northeast U.S.&nbsp;&nbsp;WHYYHighly infectious virus | Doctors in Pa. report an unusual increase in rotavirus cases&nbsp;&",
+      "sources": [
+        {
+          "name": "NBC 5 Chicago",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaHBOaVJSc3hkNHNlOTV5NnhYQUhPdi1Nc1lFb0I5MHRTczBUTW91SzdadXV4MUtuMEJycVNCS040MGJEQTFMTy12R1p4NE90QTNiTjFZNjdsY3R5eEJRa3k4akVBbExPOTMtaXVaMzBsTkRMN21TM2NEYTN4VzVvaEFadm1pRHd3b3lwZ2otdV9xUGJUYzZnZWZIQUVUOFNSVWRYSjgyUWd1QmdxdkZsM2d0RGNTVENKLWfSAcIBQVVfeXFMTWNDX3Z4blFuemNhR2hxbTk2YmFZMWJNR3lmS1AwN3lscl9YY3pYT19VUzVPRUJOWHJibTBiX3BtMENVZExlekpFeTdueFJUaGczRzBYcGYzNHpxVmltMVV4YzJtYVVNaXVXVmE2ZG8tNV9qblpwRXhBaG5pTXFQMjdmU01iay1zbFVDOHpQV09KbzVyRFNheUp0WkFTenBKcDBBb01fc2pJSEdJaFR1WkNOU2hSbmFGREIwZVRKeEJHdVE?oc=5"
         }
       ]
     },
@@ -510,6 +558,18 @@
       ]
     },
     {
+      "id": "46c64181d0c5",
+      "title": "Simple diet change could relieve painful bathroom symptoms, experts say - Fox News",
+      "published": "2026-04-29T21:58:42+00:00",
+      "summary": "Simple diet change could relieve painful bathroom symptoms, experts say&nbsp;&nbsp;Fox NewsGot a bathroom problem? New guidelines urge more fiber, less scrolling&nbsp;&nbsp;NBC NewsAGA update emphasizes lifestyle changes for effective hemorrhoid management&nbsp;&nbsp;News-MedicalNew Gastro Guidelines Say These Simple Habits Can Ease Hemorrhoids&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness Information",
+      "sources": [
+        {
+          "name": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTXpCN3ZLc3RDQ2FQa3g2ZTZFTHlPVXg3TWlDLTltWmhWbjdORWNwWVhTckFhdVZMaEtjTzF3Ulo5Wld4RGgteGNudjlJZTM4bklVY2w5UkQ5UWRsbmFoaUhTM3dSa3BTcnJEcmIyQk5nUVUyNEV1eTdjSVRJZUVrRjN2VjNJcUVyVzRzbFVUSzJPSlI5MnNCcmlLY3VYblltRTZ30gGoAUFVX3lxTE5LaGlubWZFbUM1ZFRZQ3QxajFSX2JONHR1cExOREp0eGJGNTJVdlJobU5DeUhCeVU5d2xSdWJxZUFNaWZ5ZTZqX0FPbGhaLXNHb0NaMUJ0NXQ5QjQ0cW9mNzlIRDJyN05RUWZ1RG0ycHdaWXlwaTNZaDlpWk1yQllhTUszYjNfNFljbmYzNHJ5b3ZpQ1lmREhSU3I2ckhIRnJGci1KRmpvOA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "420a6b8a6de8",
       "title": "Engineering tough blood clots for rapid haemostasis and enhanced regeneration - Nature",
       "published": "2026-04-29T21:44:05+00:00",
@@ -525,7 +585,7 @@
       "id": "cbc093203c01",
       "title": "Long a dream, it's now real: a fast and accurate TB test that doesn't need phlegm - NPR",
       "published": "2026-04-29T21:01:46+00:00",
-      "summary": "Long a dream, it's now real: a fast and accurate TB test that doesn't need phlegm&nbsp;&nbsp;NPRNo sputum needed: Easy-to-use TB test shows accuracy in 7-country analysis&nbsp;&nbsp;CIDRAPA single swab paves the way for simplified tuberculosis diagnosis&nbsp;&nbsp;Medical XpressEmerging Growth Trends Driving Expansion in the Mycobacterium Tuberculosis Market&nbsp;&nbsp;openPR.comPortable MiniDock MTB delivers tuberculosis results in thirty minutes&nbsp;&nbsp;News-Medical",
+      "summary": "Long a dream, it's now real: a fast and accurate TB test that doesn't need phlegm&nbsp;&nbsp;NPRNo sputum needed: Easy-to-use TB test shows accuracy in 7-country analysis&nbsp;&nbsp;CIDRAPA single swab paves the way for simplified tuberculosis diagnosis&nbsp;&nbsp;Medical XpressPortable Tuberculosis Diagnostic Tool Matched Traditional Tests' Results&nbsp;&nbsp;MedPage TodayPortable MiniDock MTB delivers tuberculosis results in thirty minutes&nbsp;&nbsp;News-Medical",
       "sources": [
         {
           "name": "NPR",
@@ -561,7 +621,7 @@
       "id": "747679e95e86",
       "title": "'We can no longer ignore diseases in the deep human past': Malaria influenced early humans' migrations across Africa, study suggests - Live Science",
       "published": "2026-04-29T18:41:23+00:00",
-      "summary": "'We can no longer ignore diseases in the deep human past': Malaria influenced early humans' migrations across Africa, study suggests&nbsp;&nbsp;Live ScienceFor 74,000 years, one ancient killer quietly dictated where early humans could survive across Africa&nbsp;&nbsp;Phys.orgHow mosquitoes — and malaria — helped shape the whereabouts of early humankind&nbsp;&nbsp;NPRMalaria shaped the distribution of early humans across Africa&nbsp;&nbsp;University of CambridgeNews - How Has Malaria Shaped Human",
+      "summary": "'We can no longer ignore diseases in the deep human past': Malaria influenced early humans' migrations across Africa, study suggests&nbsp;&nbsp;Live ScienceFor 74,000 years, one ancient killer quietly dictated where early humans could survive across Africa&nbsp;&nbsp;Phys.orgHow mosquitoes — and malaria — helped shape the whereabouts of early humankind&nbsp;&nbsp;NPRPicture_Sirish_4.jpg (IMAGE)&nbsp;&nbsp;EurekAlert!Study Reveals Malaria’s Hidden Role in Human Evolution&nbsp;&nbsp;SciTechDaily",
       "sources": [
         {
           "name": "Live Science",
@@ -594,6 +654,18 @@
       ]
     },
     {
+      "id": "3dc9cc3b84b8",
+      "title": "Fish oil supplements: Could they sometimes harm the brain? - Medical News Today",
+      "published": "2026-04-29T18:27:24+00:00",
+      "summary": "Fish oil supplements: Could they sometimes harm the brain?&nbsp;&nbsp;Medical News TodayPopular Supplement May Have an Unexpected Downside, Study Finds&nbsp;&nbsp;ScienceAlertFish oil may be hurting your brain, new study finds&nbsp;&nbsp;ScienceDailyFish oil supplements linked to slower brain repair in some patients, study finds&nbsp;&nbsp;Fox NewsNew research finds fish oil supplements can slow healing for some injuries&nbsp;&nbsp;LiveNOW from FOX",
+      "sources": [
+        {
+          "name": "Medical News Today",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTXdKcm93OS1NUS00TFI5QjJKUmNLRlRZcGtqNnZla3ZLM29YWFVLNmlacWczRlNMYVhMTlBTbkhsdjlPNnpXMktPV0tEWk8xSWtONno0cUk5aUw4bTFoM285cUJaNE1QSDN0YXNxTmhDZ1RwZ0NhQl9PdUY0NTdrbWpja3Jqa2J6c2dlXw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c73895220ed4",
       "title": "HIV patients in Senegal skip treatment, fearing arrest amid anti-LGBTQ crackdown - Reuters",
       "published": "2026-04-29T18:25:50+00:00",
@@ -606,22 +678,10 @@
       ]
     },
     {
-      "id": "adf90fa3c666",
-      "title": "Popular Supplement May Have an Unexpected Downside, Study Finds - ScienceAlert",
-      "published": "2026-04-29T18:02:04+00:00",
-      "summary": "Popular Supplement May Have an Unexpected Downside, Study Finds&nbsp;&nbsp;ScienceAlertFish oil may be hurting your brain, new study finds&nbsp;&nbsp;ScienceDailyFish oil supplements: Could they sometimes harm the brain?&nbsp;&nbsp;Medical News TodayNew research finds fish oil supplements can slow healing for some injuries&nbsp;&nbsp;FOX 10 PhoenixWhen omega-3 may help mental health and when they may not&nbsp;&nbsp;News-Medical",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMGo1TEJaeWY4Z0gzV3c4ZS1OVExTOU5vbnNLTWhydmx0cUVwbE5OQ0VlZWJaU1pMSEZPLVlDNC1uZDREemgxeFhtUl9QR1phY192SFpKWGp4Si1nbUZCUTNnV19MZGFKb01jOHRrTFQtZW5nYWNDY2JBYVUtVGY0QjUtVEJ5YkpIaE5aN3hlTzdlQ212b0E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fdd0aaddf421",
       "title": "Could At-Home Brain Stimulation Reduce Psychiatry’s Reliance on S.S.R.I.s? - The New York Times",
       "published": "2026-04-29T17:49:23+00:00",
-      "summary": "Could At-Home Brain Stimulation Reduce Psychiatry’s Reliance on S.S.R.I.s?&nbsp;&nbsp;The New York TimesThe FDA Just Approved a New Depression Treatment—and It Doesn’t Involve Medication&nbsp;&nbsp;inc.comBreaking free from depression: How Harper Clinic’s TMS Therapy can help&nbsp;&nbsp;KSL NewsRadioMississauga Clinic Offers Access to Breakthrough Deep TMS Therapy for Depression&nbsp;&nbsp;The National Law ReviewBrain-Zapping Device OK'd by FDA May Offer SSRI Alternative&nbsp;&nbsp;Newser",
+      "summary": "Could At-Home Brain Stimulation Reduce Psychiatry’s Reliance on S.S.R.I.s?&nbsp;&nbsp;The New York TimesThe FDA Just Approved a New Depression Treatment—and It Doesn’t Involve Medication&nbsp;&nbsp;inc.comKC Spotlight | TMS Therapy Relieves Depressed Teens&nbsp;&nbsp;KSHB 41 Kansas CityBreaking free from depression: How Harper Clinic’s TMS Therapy can help&nbsp;&nbsp;KSL NewsRadioMississauga Clinic Offers Access to Breakthrough Deep TMS Therapy for Depression&nbsp;&nbsp;The National Law Review",
       "sources": [
         {
           "name": "The New York Times",
@@ -633,7 +693,7 @@
       "id": "bf1e970ede64",
       "title": "Legionnaires' disease cases associated with stays at Wynn Las Vegas - USA Today",
       "published": "2026-04-29T17:35:00+00:00",
-      "summary": "Legionnaires' disease cases associated with stays at Wynn Las Vegas&nbsp;&nbsp;USA TodayWynn Las Vegas being investigated after 2 reported cases of Legionnaires’ disease&nbsp;&nbsp;FOX5 VegasHealth officials investigate cases of Legionnaires’ disease at Las Vegas Strip resort&nbsp;&nbsp;Las Vegas Review-JournalOfficials Investigating Multiple Cases of Legionnaires' Disease Stemming from 5-Star Las Vegas Resort&nbsp;&nbsp;People.com2 cases of disease from bacteria in water systems linked to Las V",
+      "summary": "Legionnaires' disease cases associated with stays at Wynn Las Vegas&nbsp;&nbsp;USA TodayWynn Las Vegas being investigated after 2 reported cases of Legionnaires’ disease&nbsp;&nbsp;FOX5 VegasHealth officials investigate cases of Legionnaires’ disease at Las Vegas Strip resort&nbsp;&nbsp;Las Vegas Review-Journal2 Legionnaires’ disease cases linked to Las Vegas Strip hotel&nbsp;&nbsp;KLAS 8 News NowOfficials Investigating Multiple Cases of Legionnaires' Disease Stemming from 5-Star Las Vegas Resor",
       "sources": [
         {
           "name": "USA Today",
@@ -657,7 +717,7 @@
       "id": "ad03f9e58d0d",
       "title": "14 Easy High-Protein Breakfast Recipes for Better Blood Sugar - EatingWell",
       "published": "2026-04-29T16:30:00+00:00",
-      "summary": "14 Easy High-Protein Breakfast Recipes for Better Blood Sugar&nbsp;&nbsp;EatingWellThe High-Protein Diabetes-Friendly Breakfast I Can’t Stop Making&nbsp;&nbsp;EatingWell",
+      "summary": "14 Easy High-Protein Breakfast Recipes for Better Blood Sugar&nbsp;&nbsp;EatingWellBest Breakfast Habits to Keep Blood Sugar Steady, According to a Dietitian with Type 1 Diabetes&nbsp;&nbsp;EatingWellThe High-Protein Diabetes-Friendly Breakfast I Can’t Stop Making&nbsp;&nbsp;EatingWell",
       "sources": [
         {
           "name": "EatingWell",
@@ -678,10 +738,22 @@
       ]
     },
     {
+      "id": "36fd96212576",
+      "title": "‘Longevity drug’ rapamycin may have a surprising impact on exercise - The Washington Post",
+      "published": "2026-04-29T16:00:00+00:00",
+      "summary": "‘Longevity drug’ rapamycin may have a surprising impact on exercise&nbsp;&nbsp;The Washington Post",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMm44czBhMVpBdFhMVWlFRUJRcFAxRThac2JTMnc3Q0pOSi14TFJWZmQwUk5rX1VXcHJVVDFfZEV1WGNvZ1VkdVM3MFJEM25QYmM2UzFJV3Rob284Zk0tMTZHQW9CU21MeTRIZGRwU2ViQ1k4Z2UzZEx1UmZaQ3djczBR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5e45cbcdd2fb",
       "title": "The Universe May Collapse Far Sooner Than Expected, New Study Suggests - The Daily Galaxy",
       "published": "2026-04-29T15:45:00+00:00",
-      "summary": "The Universe May Collapse Far Sooner Than Expected, New Study Suggests&nbsp;&nbsp;The Daily GalaxyUniverse ‘may end trillions of years sooner than expected’&nbsp;&nbsp;The TimesDoomsday scientists predict exact year Earth will turn into a 'giant black hole' & warn of rising 'dark energy' levels&nbsp;&nbsp;the-sun.comThe universe may end trillions of years sooner than we thought&nbsp;&nbsp;YahooCould this be Earth’s final year? Doomsday scientists share a terrifying black hole warning&nbsp;&nbsp;",
+      "summary": "The Universe May Collapse Far Sooner Than Expected, New Study Suggests&nbsp;&nbsp;The Daily GalaxyThe universe may end trillions of years sooner than we thought&nbsp;&nbsp;Live ScienceDoomsday scientists predict exact year Earth will turn into a 'giant black hole' & warn of rising 'dark energy' levels&nbsp;&nbsp;the-sun.comUniverse ‘may end trillions of years sooner than expected’&nbsp;&nbsp;The TimesCould this be Earth’s final year? Doomsday scientists share a terrifying black hole warning&nbsp",
       "sources": [
         {
           "name": "The Daily Galaxy",
@@ -693,7 +765,7 @@
       "id": "16cd3d066810",
       "title": "CDC warns of salmonella infections tied to backyard poultry - USA Today",
       "published": "2026-04-29T15:23:00+00:00",
-      "summary": "CDC warns of salmonella infections tied to backyard poultry&nbsp;&nbsp;USA TodayWhere People Got Sick: Salmonella Outbreak, April 2026&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)CDC Issues Warning About Drug-Resistant Salmonella Outbreak That's Sickened 34 People, Mostly Children&nbsp;&nbsp;People.com34 people in 13 states sickened in salmonella outbreak linked to backyard poultry&nbsp;&nbsp;10TVCases of drug-resistant salmonella, several among kids, linked to outbreak; CD",
+      "summary": "CDC warns of salmonella infections tied to backyard poultry&nbsp;&nbsp;USA TodayWhere People Got Sick: Salmonella Outbreak, April 2026&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)CDC Issues Warning About Drug-Resistant Salmonella Outbreak That's Sickened 34 People, Mostly Children&nbsp;&nbsp;People.comCases of drug-resistant salmonella, several among kids, linked to outbreak; CDC issues warning&nbsp;&nbsp;The Hill34 people in 13 states sickened in salmonella outbreak linked",
       "sources": [
         {
           "name": "USA Today",
@@ -738,14 +810,14 @@
       ]
     },
     {
-      "id": "f28c3afffe2f",
-      "title": "Eating healthy may not keep ultraprocessed food from increasing dementia - CNN",
-      "published": "2026-04-29T13:00:51+00:00",
-      "summary": "Eating healthy may not keep ultraprocessed food from increasing dementia&nbsp;&nbsp;CNNEating 1 Bag of Chips Per Day Could Increase Risk of Dementia, New Study Claims&nbsp;&nbsp;People.comDementia risk linked to everyday food millions eat, study suggests&nbsp;&nbsp;LiveNOW from FOXDementia risk rises with common food type millions eat every day, study suggests&nbsp;&nbsp;Fox NewsUltra-Processed Foods May Be Quietly Affecting Your Brain's Ability to Focus&nbsp;&nbsp;ScienceAlert",
+      "id": "0851c0038323",
+      "title": "Dementia risk rises with common food type millions eat every day, study suggests - AOL.com",
+      "published": "2026-04-29T13:23:13+00:00",
+      "summary": "Dementia risk rises with common food type millions eat every day, study suggests&nbsp;&nbsp;AOL.comView Full Coverage on Google News",
       "sources": [
         {
-          "name": "CNN",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQmJIaF83RmNyZVNONW96dUhEdGtndWY2bFJDNUxXV0tJdDFidW4ya2txV1FMSlJSTjdONjlrTDRndDZhV1RNdDBqdENxZnNwaE9LRkRZM2FXWFhMR3VwUVZFV18xMFlteGtfRHBBNnlnNDktbk9adC1rS00yQUhRMFlGSU9TaDN5?oc=5"
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5SDE5TmZHLWhMWVFRT0xNOXhVSFFWZEpoN1JYNHF2bXl1WDZGQXV0V3k5dkpBeWhELWVwMGtPTGdMX3V3RmVHbGM4Q19pOHNSTFh1MkJEVnk3clBVRzNWTUZGRjdvOW5lQkNRQXQ2QzVoajZV?oc=5"
         }
       ]
     },
@@ -753,11 +825,23 @@
       "id": "ab2dc5d7a259",
       "title": "Weight-loss medication linked to muscle loss - The Seattle Times",
       "published": "2026-04-29T13:00:04+00:00",
-      "summary": "Weight-loss medication linked to muscle loss&nbsp;&nbsp;The Seattle TimesGLP-1 Drugs: Ozempic Preserves Muscle Mass Better Than Mounjaro&nbsp;&nbsp;HealthlineAlong with rapid weight loss, patients see other benefits and risks of GLP-1 drugs&nbsp;&nbsp;WPECWorking Out on Ozempic? These Expert-Approved Exercises Will Preserve Muscle Mass.&nbsp;&nbsp;Outside MagazineGLP-1 agonists and changes in body mass and composition in adults with overweight or obesity with or without type 2 diabetes mellitus:",
+      "summary": "Weight-loss medication linked to muscle loss&nbsp;&nbsp;The Seattle TimesGLP-1 Drugs: Ozempic Preserves Muscle Mass Better Than Mounjaro&nbsp;&nbsp;HealthlineAlong with rapid weight loss, patients see other benefits and risks of GLP-1 drugs&nbsp;&nbsp;WPECWorking Out on Ozempic? These Expert-Approved Exercises Will Preserve Muscle Mass.&nbsp;&nbsp;Outside MagazineGLP1 Therapy Promise Pain Persistence and Automation&nbsp;&nbsp;Anesthesiology News",
       "sources": [
         {
           "name": "The Seattle Times",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM1hVTjlJMmJPeEN4QXdnX0hpd2w4Z3ZxRVhhbWNWekVaT29LOGlvVjJYal85S3ZpLUdBY0FySjZ5RFJvOXExMlhtMGQ2MHhkcm9pMWJqZGhCTFB4YVJNRzZJX0NXSTJDR1RwLUstU0FWTlZjbDUyZnlha3psLVVaQTlVNzNBRzZHRncwNHBselkwUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b95fa0bbf73c",
+      "title": "Weight-Loss Drugs May Reduce Buildup of Alzheimer's Proteins, Major Review Finds - ScienceAlert",
+      "published": "2026-04-29T12:04:13+00:00",
+      "summary": "Weight-Loss Drugs May Reduce Buildup of Alzheimer's Proteins, Major Review Finds&nbsp;&nbsp;ScienceAlertWeight-loss drugs could tackle Alzheimer's—study&nbsp;&nbsp;Medical XpressGLP-1 Drugs and Brain Health: Can They Reduce Alzheimer’s Risk?&nbsp;&nbsp;Being PatientGLP-1 Drugs Linked to Cognitive Impairment, Though the Reason Why Probably Isn't What You Expect&nbsp;&nbsp;FuturismGLP-1 Dementia, Alzheimer’s Disease Risks Questioned in New Study&nbsp;&nbsp;AboutLawsuits.com",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWnlWTlVKYWJwenJsUGVEVzg0ZmktSk92Q2Q4cHpRdjJyNGdiWEJvX3FpenRpWnl3Q2VhdjdteTh5RjVIS3VrTXQ3b0o3TzRtelJjTHBjU0tRLUkzLUVDaDROMzBWQ09yS24tWk0zNmd3VjRHbkV2TWhIRXNsOG56MC1IaWxrVFh2Skp3VVdZM1BKb09ScE1EVkktUmo3NHBTUVFYWXdRcE1hckk?oc=5"
         }
       ]
     },
@@ -774,30 +858,6 @@
       ]
     },
     {
-      "id": "1d33761baf97",
-      "title": "Got a bathroom problem? New guidelines urge more fiber, less scrolling - NBC News",
-      "published": "2026-04-29T12:00:41+00:00",
-      "summary": "Got a bathroom problem? New guidelines urge more fiber, less scrolling&nbsp;&nbsp;NBC NewsSimple diet change could relieve painful bathroom symptoms, experts say&nbsp;&nbsp;Fox NewsNew medical guidelines urge more fiber, less bathroom scrolling on your phone&nbsp;&nbsp;Medical XpressAGA update emphasizes lifestyle changes for effective hemorrhoid management&nbsp;&nbsp;News-Medical",
-      "sources": [
-        {
-          "name": "NBC News",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc1FUOUJyYWg0MFBEQ012UEFMd1ZEZ1BZWEpDb3NIOV9fbGxEWDZqd183VlcyRjAxXzJkMGlwalM0bVZ2SnJYWHBFVjZkckFQaWFHZW5ZdFJNZ29VTDllOWowN3JueU1tUzhGTVNhZllySVJVaDd1ZGhIWkhXaXNWaEdILWZhOWJfYlJONERJOG5hMDlFdFpTbmZKampvVmRiT1diRHp6N2ZNeUF2U2Y2eVFhLXNCeTV0WWFWUlo4Yw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9b2af016c4bd",
-      "title": "Early Dementia Signs May Have Two 'Breakpoints' Years Before Diagnosis - HuffPost UK",
-      "published": "2026-04-29T11:07:19+00:00",
-      "summary": "Early Dementia Signs May Have Two 'Breakpoints' Years Before Diagnosis&nbsp;&nbsp;HuffPost UKPatients say they want Alzheimer's blood tests. Doctors aren't sure they help.&nbsp;&nbsp;NBC NewsAt what age does Alzheimer's disease begin? Mayo Clinic study points to changes decades before symptoms&nbsp;&nbsp;Mayo Clinic News NetworkWhat Your Next Blood Test Might Reveal About Your Brain Health&nbsp;&nbsp;MindBodyGreenNew ‘game changer’ blood test could signal how quickly dementia will progress&nbsp;",
-      "sources": [
-        {
-          "name": "HuffPost UK",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUzYwR3pucS1wYVBsbTNtVGdBV1FvMGRLeW9YMURCZXY5dnZGOFNodmNuakRMZ21oSGZ5MG1QT1ozZm9fbXNPSl9DcEZOenFTVHM1T3hJUXl4R2JCNW1vZ05wdnhkYkZCUkRyZnp6a3MzNmhsN3BQOWtxanNJVVg4cWtEOWI2cjdMWTdoRlp2TkN6eGdI0gGbAUFVX3lxTFBPUGNuY2YwYUFTX0R5UmpjUW9BT0V3cEhCcDJUVHExejloanZBMXgtX3dhaW1kT0d3UjZNRXZJM1Rub1JOc0YwY2ZGdHFDbktVa1ByRVNDcEZHalY2NGZiVE9DY2pQRnVIbWgxWWhCd2tQQmRrSXZ5M1o2bVRsQkpfemU1LXJkeHpBZGhkdTRkZE9YbmF2Zk1BTGVV?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9a0ae74b9e0c",
       "title": "The truth behind 7 common lung cancer myths - CNN",
       "published": "2026-04-29T11:00:52+00:00",
@@ -806,6 +866,18 @@
         {
           "name": "CNN",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1scGJNM3hlRUhQbklJWjdPbF9iRFlWT3dHOUdyT3k2cUY2c0JqYWVvbUROZWhqTjIyOHlCcGNjcjRBNWNNZXlDOXI4UkhzbXdLYUZISk5rMzJtOHlPS0JSODVQcFhueTZzN0FDZ053?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6d07456af8f7",
+      "title": "This Chewing Gum Could Help Fight Cancer—And It’s Headed to Trials Soon - AOL.com",
+      "published": "2026-04-29T11:00:00+00:00",
+      "summary": "This Chewing Gum Could Help Fight Cancer—And It’s Headed to Trials Soon&nbsp;&nbsp;AOL.comView Full Coverage on Google News",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE52Z0Nnd3Y5aW5CYUlmQlFfbVVlOUxUYnJSYnhGVTZqOVRLZkRRRUxVdkZ5eENYZVgwdVRkOGxEMXI2cWVXbFFIem9xYU5vQkdFM1AxcDBnTjloX2xISzFaSlhNMmtTSnlNeVpLVng2OEYxLXBkdUIzU0JKMHM?oc=5"
         }
       ]
     },
@@ -834,14 +906,14 @@
       ]
     },
     {
-      "id": "dd8fcaedf2e2",
-      "title": "Stomach bug virus resurging in New Jersey, Northeast U.S. - WHYY",
-      "published": "2026-04-29T09:34:20+00:00",
-      "summary": "Stomach bug virus resurging in New Jersey, Northeast U.S.&nbsp;&nbsp;WHYYCases of highly contagious virus that's dangerous for babies surging: CDC&nbsp;&nbsp;NBC 5 ChicagoCases of highly contagious rotavirus increasing among children, Pittsburgh doctor says&nbsp;&nbsp;CBS NewsHighly infectious virus | Doctors in Pa. report an unusual increase in rotavirus cases&nbsp;&nbsp;WGALRotavirus&nbsp;&nbsp;The Telegraph",
+      "id": "da231066f60a",
+      "title": "The real reason why millennials have higher rates of cancer than their parents - The Independent",
+      "published": "2026-04-29T09:52:00+00:00",
+      "summary": "The real reason why millennials have higher rates of cancer than their parents&nbsp;&nbsp;The IndependentView Full Coverage on Google News",
       "sources": [
         {
-          "name": "WHYY",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVnI2ZHFmcXRkT1NNMTI1cXdqdzlVTmpXSkdBY0I1eG04YzExaUJMalUxWEthNnJ2ZnA3cjAtLXlndXIxc19EdElZN0tBOGhTcDBRS3NTd09YMzNuTnBBZVB2ejNHUXZjU29BUGxyZnY5MVpHMFVMcjhITGhyUWV1eTB1bjloQQ?oc=5"
+          "name": "The Independent",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa3lReE51cXVmbm81d1UwcTRocWJCeEd1cU5vbzRoRUtER1BjaExDVHVCVmZEb2hJV3JNSkM2VUE5MHNLSHhadFRwNTNGVTZTY19FSTg4SjFvcUVjREFtbjRvTUFacWpWZEFfYTU2TkNVTmd3TGptdkZOU3ZybU4zSlQ4THlOWEtSS3FoOVdJWWFvZjZHS1pTWUJTLUZ0N1V1NTNDaUFabnNHelR4QmVib0tn?oc=5"
         }
       ]
     },
@@ -854,42 +926,6 @@
         {
           "name": "The New York Times",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSSHRrTzZaaDJPNTUyT0tsbU5KWFl4MUNNblpCb2VPXzF1UWxFb1FQWE54alFuVTIyeVNtQkhwWDZzZDhCNGRXOHJfNHRNUzNCX2FYQ2NyV01VcjRSLXFxUjVXTlgwNUFPRG54dF9Ja3g4Qk1ON2FBNm44V3RydjQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ea6342e16278",
-      "title": "Researchers warn of an important new driver of cancer in under-50s – and it’s not smoking or poor diet - The Independent",
-      "published": "2026-04-29T08:42:00+00:00",
-      "summary": "Researchers warn of an important new driver of cancer in under-50s – and it’s not smoking or poor diet&nbsp;&nbsp;The Independent11 cancers on the rise in young people - scientists find first clue why it's happening&nbsp;&nbsp;BBCCancer is increasing in young people and we still don't know why&nbsp;&nbsp;New ScientistResearchers warn of key new driver of 11 cancers in under-50s – and it’s not smoking or poor diet&nbsp;&nbsp;The IndependentObesity a key factor for rising cancer rates in young peo",
-      "sources": [
-        {
-          "name": "The Independent",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUFhRdFpfeUwxamZhVGpnUGlPUkoxN1BQaC12UVhPLVRwUV9EUDJaY2xjQzFtVmUtSUxoT2lCRFVrWW1LajlpUEdhMXIwZG5tY0FzMFRodFRVaXhPODFnMlllQUFvVjEtakVtM0tUbUxzLWJsNmsxWlhKaG5kQ0psZXh6QUNhNjFNZFpaMnNSXzVsTm13cVJGT1RB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "406b51812b24",
-      "title": "Stress from racism may help explain why black women more likely to die in childbirth, study finds - The Guardian",
-      "published": "2026-04-29T06:00:00+00:00",
-      "summary": "Stress from racism may help explain why black women more likely to die in childbirth, study finds&nbsp;&nbsp;The GuardianRacial Disparities in Mortality Risk Linked to Black American's Greater Lifetime Exposure to Stress&nbsp;&nbsp;The Journal of Blacks in Higher EducationRacism Linked to Higher Childbirth Mortality Rates in Black Women&nbsp;&nbsp;streamlinefeed.co.keStudy links chronic stress from racism to higher maternal death risk&nbsp;&nbsp;The Eastleigh VoiceRacism-Related Stress May Contr",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeDZpOTZ1cVplNC1QLXYyZnJyZjAxeW9JaEFnZVlnY3k0MEJlRmxoUTFYRlE1d2I1Mk9YN0NBUF95UFFRU3dWOVQza1Y0S2VZS2tXSkQtSm9COTJBbkJadlBMWEwxSU1sbHY0Q29QMjlCdS1qdXh4eXE0TTJmNlU2YlZsalpFdEFTMmRVOE5rQUE2U0NBLWRwVmRCdkhwYzJHN3Rtd2p1ajdnNFU4djI2NWZUd1NZZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dd7185e1962e",
-      "title": "Study finds that people who took GLP-1 drugs regain about 10 kg within 18 months of stopping | Health - Hindustan Times",
-      "published": "2026-04-29T04:44:34+00:00",
-      "summary": "Study finds that people who took GLP-1 drugs regain about 10 kg within 18 months of stopping | Health&nbsp;&nbsp;Hindustan TimesStopping and restarting certain GLP-1s to lose weight may make the drug less effective&nbsp;&nbsp;Penn MedicineSimple “Gut Reset” May Prevent Weight Gain After Ozempic or Wegovy&nbsp;&nbsp;SciTechDailyInside the experimental procedure that may help prevent weight regain after stopping GLP-1s&nbsp;&nbsp;New York Post18-month warning for anyone coming off Ozempic or Wegov",
-      "sources": [
-        {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQbkxWM0VhVnhXSlFyNVh5eWRCR1Q1UUN5NzJfSTZPNGdtcmEwQ1JoeE5GcHJJVk5LczU4S1VaMFpVdnVUNXVWejlrQTkxRENtbW0zSVZGTHRpNnBGNWlldXFwRFBkSzVKUmhyYW0ycU95VzVIUGh3LVZodHpwMDhDeFV0WFJyRGVaYVdFTFlfUjdCQUtOUkJjUzRJOWgyTjVHRXJoSTRtNGZnLWt0S3NLaE5VdmtWMXZtVGZMdzNidGVwU2h2SW85T0J0SDNHZmtDdXNGMjZKTTJWNmZCaTYtN0lsQ2MyYWtnRGJTZkxGcXR6Q0s3d2FOZUNlTThOd0drbFQ5YU40dV9IbWZ5RFHSAZMCQVVfeXFMT3hzb1lzMmRCQV9IMnMwWWVxNEdabTJXY3VCTG9sc0NnZFR4ZUZWektFaVZsX0x5QVFTcDFfcmFyeVhOVHd1WDFSR2l4U29vUXRzN1ZwSHVPSDIxOVFpNXk2LWV2ZVZsR1BIWkJDU3JoMXpsRW12RDk3ZTB4LU1vOXg5aVNMLTFIai01SWotMFFLemY5R2ZoQVdTc3F6emt2SHZzc2t0alU2RGtfNEV6eXdmdnlwbVF2OEt1Nk5qbFBMajJ2WjVjWnl1S0labFhfSFg2ME44ZEJLNURPcEgxVnQzZlRFMDBJQW5YcXQzUk11dUNMRHQxdWJEZXVSeDI5ZGswOEJOekxFV2JQdEtXYURfc0E?oc=5"
         }
       ]
     }

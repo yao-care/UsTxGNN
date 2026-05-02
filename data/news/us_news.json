@@ -1,14 +1,14 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-02T07:49:09.274712+00:00",
+  "fetched_at": "2026-05-02T13:19:11.698764+00:00",
   "total_fetched": 140,
-  "unique_count": 140,
+  "unique_count": 139,
   "health_related_count": 72,
   "news": [
     {
       "id": "52118903cdea",
       "title": "Doctors Say This Should Be Your First Move for Constipation Relief - AOL.com",
-      "published": "2026-05-02T05:44:11+00:00",
+      "published": "2026-05-02T11:56:09+00:00",
       "summary": "Doctors Say This Should Be Your First Move for Constipation Relief&nbsp;&nbsp;AOL.comA doctor shares 5 tips for better gut health in 30 days, including a trendy, low-cost supplement&nbsp;&nbsp;Business InsiderGuide to a healthy gut&nbsp;&nbsp;Harvard GazetteDigestive health: 10 daily habits to improve your gut wellness&nbsp;&nbsp;MSNWhat is gut health?&nbsp;&nbsp;BBC",
       "sources": [
         {
@@ -18,10 +18,70 @@
       ]
     },
     {
+      "id": "19b133b1dafa",
+      "title": "Dietitians Reveal the 10 Drinks to Never Drink for Better Health - AOL.com",
+      "published": "2026-05-02T10:41:59+00:00",
+      "summary": "Dietitians Reveal the 10 Drinks to Never Drink for Better Health&nbsp;&nbsp;AOL.com",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83VU0zd0NRbzRmd01qQkhGSFZmVmdiQVBJVUowMWViV1FkZVN0TXcwdWpsdWliY0NPa2FNSHF2TElLYkZXNnJneG9xa2wzYkhxdkY3QzN3WlE4SGxibFd6dTRTZHhDanNHYVhuY2dPRXpWRm9NNWVB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "177d2bca5445",
+      "title": "Americans aren't sleeping enough. Here's what could help - NPR",
+      "published": "2026-05-02T10:30:00+00:00",
+      "summary": "Americans aren't sleeping enough. Here's what could help&nbsp;&nbsp;NPRDo Supplements Help You Sleep? Here’s What to Know.&nbsp;&nbsp;The New York TimesA third of U.S. adults don’t get enough sleep, new CDC report warns&nbsp;&nbsp;Scientific AmericanSleepless Americans Are Relying on Medicine and Pot to Doze Off&nbsp;&nbsp;Bloomberg.comCDC Study Reveals a Sleep-Deprived Nation&nbsp;&nbsp;MedPage Today",
+      "sources": [
+        {
+          "name": "NPR",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOalhXazh4X2J4WFE4YXNhQ0VnTjBhRWthRGFrNzlMWWhmM0paNHhzdHNZMzM2SHo4cVB2cW02UG56TkF0ZU0zRlZuZndZeUkyQW1GMHVVS1VoQ1ZvRi1DREMyamZqNWxFa3RQRDZQNlo1SjhNLVM5OGg5THdrS21vemx2ZzlWQ3ZpUmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "19bfae851544",
+      "title": "AI finds signs of pancreatic cancer before tumors develop - NBC News",
+      "published": "2026-05-02T10:00:00+00:00",
+      "summary": "AI finds signs of pancreatic cancer before tumors develop&nbsp;&nbsp;NBC NewsAI Can Spot Pancreatic Cancer Years Before Diagnosis, Study Finds&nbsp;&nbsp;ScienceAlertMayo Clinic AI helps specialists detect pancreatic cancer up to 3 years before diagnosis in landmark validation study&nbsp;&nbsp;Mayo Clinic News NetworkMayo Clinic announces breakthrough in early cancer detection&nbsp;&nbsp;kare11.comAI Spots Pancreatic Cancer Years Before It Shows Up, Study Finds&nbsp;&nbsp;Bloomberg.com",
+      "sources": [
+        {
+          "name": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeldZMWh3b0pBdjFlMGM5RUlienhqRzhJbnp3dzUtSHR4ZXBmX0Q3OG1HWDkwTW1pWUktN1ZUU3g0T3Z5YXRKdVZGLU1OcEZmQTBkTUxpUFFXRzF6MjJ0RFRTeW5DWW92QVNFbW8wejdNRGpJb21vaFNIRUVJQW9XUGJ6VE1sX0RXOVhDaGF3dnY5X3pTMWZFUnRBT3NNMnFUZlozUGt3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1248ac039e64",
+      "title": "DC-area emergency rooms are seeing more patients with tick bites - WTOP",
+      "published": "2026-05-02T08:28:34+00:00",
+      "summary": "DC-area emergency rooms are seeing more patients with tick bites&nbsp;&nbsp;WTOPIt’s Already a Bad Tick Season. Here’s How to Protect Yourself.&nbsp;&nbsp;The New York TimesWhere emergency visits for tick bites are highest in the United States&nbsp;&nbsp;The Washington PostWisconsin could be in for ‘a big year’ for Lyme disease as tick bites soar&nbsp;&nbsp;WPRDane County sees surge in tick-related urgent care visits&nbsp;&nbsp;Channel 3000",
+      "sources": [
+        {
+          "name": "WTOP",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ3RZOTBrNG52N0RpQldXR1lfbC1fSEhoRGZ6azdRZm8wX0RhWlRWMDBhVmtsQmlBS3lPVXhrWE5sTEI4RlpjeUZJbjJqQVpMTHUtXy1nQ0l3cDJ2ay04R3pvbzFoRzhBdlFSRFkweDByX1ZMVVBmY0xBRFpBOU9TTjlheEdNejZKbjl3aDZxcFhFWkROREJBLVk2MFJZX19CSkZVUVh4cENlWjBmZVhOMVRwdTNuaU4xM3AtbkcyRmg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1bf12d991f4d",
+      "title": "Simple diet change could relieve painful bathroom symptoms, experts say - AOL.com",
+      "published": "2026-05-02T07:23:42+00:00",
+      "summary": "Simple diet change could relieve painful bathroom symptoms, experts say&nbsp;&nbsp;AOL.comView Full Coverage on Google News",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1teHV5SldhdFBxQlRtR1lWVklWdnppWFlSVkp5WnRoRjJkcFRBc2szbHdRRnR0aTlfYVZQZWk1MnAxSVg3NTFfUWdKX1J5dHJwOTNKQ2FaUUxHd2k2TUJueDVmRWE4SC1Gc2pKV0NKa1luMzluaVE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "94739f98841e",
       "title": "Eating Your Breakfast at This Specific Time Could Help You Lose More Weight - AOL.com",
       "published": "2026-05-02T04:18:05+00:00",
-      "summary": "Eating Your Breakfast at This Specific Time Could Help You Lose More Weight&nbsp;&nbsp;AOL.comWant to Lose Weight? New Research Says You Should Make 2 Small Changes to When You Eat&nbsp;&nbsp;inc.comThe diversity and consistency of what and when people eat&nbsp;&nbsp;NatureThe healthiest time to eat breakfast after age 50&nbsp;&nbsp;The Jerusalem PostIt's Not Just What You Eat, It's When&nbsp;&nbsp;TAPinto",
+      "summary": "Eating Your Breakfast at This Specific Time Could Help You Lose More Weight&nbsp;&nbsp;AOL.comWant to Lose Weight? New Research Says You Should Make 2 Small Changes to When You Eat&nbsp;&nbsp;inc.comThe diversity and consistency of what and when people eat&nbsp;&nbsp;NatureEating breakfast at this time every day could increase weight loss&nbsp;&nbsp;bodyandsoul.com.auAn expert’s guide to the best time to eat if you want to lose weight&nbsp;&nbsp;The Independent",
       "sources": [
         {
           "name": "AOL.com",
@@ -30,14 +90,38 @@
       ]
     },
     {
-      "id": "f19f79a73c4a",
-      "title": "Why Is No One Taking Baby Aspirin for Heart Disease Prevention Anymore? - AOL.com",
-      "published": "2026-05-02T02:15:36+00:00",
-      "summary": "Why Is No One Taking Baby Aspirin for Heart Disease Prevention Anymore?&nbsp;&nbsp;AOL.comView Full Coverage on Google News",
+      "id": "d0c45b0e0ef3",
+      "title": "Patients say they want Alzheimer's blood tests. Doctors aren't sure they help. - AOL.com",
+      "published": "2026-05-02T03:53:23+00:00",
+      "summary": "Patients say they want Alzheimer's blood tests. Doctors aren't sure they help.&nbsp;&nbsp;AOL.comView Full Coverage on Google News",
       "sources": [
         {
           "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QOWh5QlhyaExSaExVOGpyV3JFVUp6cVFoT2JMTDFiRGk4OHJFR25TcGVxN1loeTA5ckc2MkdXZWZGSWU1Q1lhUVlwOE9DTlBQczVQVGlWREZ6QUNCNWtYNXotaXBlZHR3?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0ZVRkQ2VvcjhNRDd4b1hEM1dJdUV5ZGxiQW5qVDZuNDg1VjlXYkJJV0Y5bEpCelFBTmdhV2ZWaF96Tk1rQTFVZFNRUi10UVh1RGtyM1RraXBMNUhmbTlvdkdWcURPdHYwZkIzSzJ4RG91ZDByUVFscWtn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6dd1c5c5e942",
+      "title": "Don’t toss cannabis leaves: Scientists found rare compounds with medical potential - ScienceDaily",
+      "published": "2026-05-02T03:38:37+00:00",
+      "summary": "Don’t toss cannabis leaves: Scientists found rare compounds with medical potential&nbsp;&nbsp;ScienceDaily",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sak12NGhmSmU5a09fWFdIZnFMRnJGazdjaGZZUkZFUU9uMlNZMktWU2F1bTdMbTRJTFJBck9GdWlOSzh2X0hvY0o3LVVWV0FjRXpJSFZHS3ZSazRwMi01bWV4S2RZQWxlZndIeWttOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2d6accc461f1",
+      "title": "Beetroot juice isn't for everyone: Hidden side effects and why you should avoid it - The Times of India",
+      "published": "2026-05-02T02:44:13+00:00",
+      "summary": "Beetroot juice isn't for everyone: Hidden side effects and why you should avoid it&nbsp;&nbsp;The Times of IndiaWhy beets are good for your heart and how to get more of them in your diet&nbsp;&nbsp;The Washington PostEffects of drinking beetroot juice in the morning&nbsp;&nbsp;Laodong.vnFresh Beetroot Juice: Easy Fibre Drink For Daily Health&nbsp;&nbsp;Slurrp",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbTlxS3kwektVNzRkZjRXUjhHV2Q5ZThkWFFTc2g5X2YtMHNaeXJCRnpacFNranIyejlyZ09Sb1h4TERRcWJSS2dhQ3NOZXRuemtuNm52NkZ0LWdEM1JkRHV6Q0NMRk4wYnN2T21GLWNLMGlCTTRwSERMZV9STUZtUEN5YWxBekNieFh5WlZsVUtCR0JYVWVYQmhKajdiMEtwTktVTmo2NE16VUFfSjh0Z19RVlNCeWtTa2hlQUtnVWxxMXVFRk9LT1ptVzY0ODQxR2c3QmRWSnA5b2o3WEZ4TXJFQ1lxSFh2eFJGSDhR0gH2AUFVX3lxTE1fRnRqa3h5ZTNZS3Q2a1hUZFBtX2JkLTJJZGJkWm5Ic0FVYl85aVJ4dlpyNVhybW5aT28tcWpkckNpNG80aW84ZVpyM3ZyMG9VTzczNHB5bG5XM2tjNjNuVjJQdG0wYjhGZlVFckJ0WDR3NHdHb3RRM2FLQjRSa1NROXhyQjM3cmJzcVpJZTNZV181UjF3UXNKNjRvazQteE15cFQ4WU1zcnR3ZTlXZ3ZfbFZrajV6b0dYNmlzRDdSbEZ4Z2p2ZFgyaG9XX3o3LTloM2llMG5JVC1RaWFnZnNKNFRqakFxWk1RTElVTV8xTkNsLWZHdw?oc=5"
         }
       ]
     },
@@ -54,14 +138,14 @@
       ]
     },
     {
-      "id": "3bf3399a978b",
-      "title": "F.D.A. Grants Early Access to Promising Drug for Pancreatic Cancer - The New York Times",
-      "published": "2026-05-01T21:28:23+00:00",
-      "summary": "F.D.A. Grants Early Access to Promising Drug for Pancreatic Cancer&nbsp;&nbsp;The New York TimesFDA green lights early access to pancreatic cancer drug, daraxonrasib&nbsp;&nbsp;USA TodayUS FDA authorizes early access to Revolution's pancreatic cancer pill&nbsp;&nbsp;ReutersGroundbreaking advancements in pancreatic cancer treatment excite UW Health doctor&nbsp;&nbsp;WKOWFDA expands access to a promising drug for one of the worst cancers&nbsp;&nbsp;The Washington Post",
+      "id": "a7fea566b86d",
+      "title": "Five silent bowel cancer signs that experts warn you should never ignore - AOL.com",
+      "published": "2026-05-01T23:43:18+00:00",
+      "summary": "Five silent bowel cancer signs that experts warn you should never ignore&nbsp;&nbsp;AOL.comView Full Coverage on Google News",
       "sources": [
         {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb3JFUkxnejdlMlBaOWNiUzFkWlJEd3RxZDYtaUpMb09SZ3BsYkJwMTQwcXJ5OHVDWFo3UnR0YmZ6djIzUGZadklvSEk5LTB3a2lMS0FzV09yTWljSkp0RGN6Y2NjZWczY0Q0S0ZUR3ZNOG1laG5EM2tuZ2otdF9EZA?oc=5"
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83cGhjcXgtZTJPdWo3ejNRTUdFMjdmZkpmQlBtYTJhUHdBdTZOTk9ZREdRTm1MRUlZVGphNXlLZjZRNVMtYmVBLUdfYlVhQ1hEQ2hwblE4RFZHNUNwWVY0dGFpc0JCVGlHVXV5YTdLbVhJb0ZHazAwdjhfSQ?oc=5"
         }
       ]
     },
@@ -78,18 +162,6 @@
       ]
     },
     {
-      "id": "30d9b9759140",
-      "title": "Where emergency visits for tick bites are highest in the United States - The Washington Post",
-      "published": "2026-05-01T20:20:26+00:00",
-      "summary": "Where emergency visits for tick bites are highest in the United States&nbsp;&nbsp;The Washington PostWisconsin could be in for ‘a big year’ for Lyme disease as tick bites soar&nbsp;&nbsp;WPRDane County sees surge in tick-related urgent care visits&nbsp;&nbsp;Channel 3000Early tick surge has CDC and pest pros on high alert&nbsp;&nbsp;Valley News LiveTick season is here — here’s how to avoid getting bitten&nbsp;&nbsp;Butler Eagle",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOanhpSk9WeVJKYkJIV1RfWmVSRmFUSlRqV204dDJQSmd2M1duTFFxZXZjTjdjOUN4dkdpaVFYZHZ3cVFTcTE4VlpLU1B4ZU92Tk15NnU2enhWTElScjVMcHRneDZ2WmpfYTJsZjBKZU05NXdqdkxzQUUtVFQxZk9YLTg0QUNEQjUyNUE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a538151525f2",
       "title": "ADHD Isn’t Just a Deficit: Study Reveals Powerful Hidden Strengths - SciTechDaily",
       "published": "2026-05-01T20:07:00+00:00",
@@ -98,6 +170,18 @@
         {
           "name": "SciTechDaily",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLU5KRDRMMTk5WWp3d2lzVlBrZjh5Ulh6WjB5dGdxamZiak1oUEg5U0JQRTFqRE5KVk9qeDdrbmZDYng3S2w4X25hOFI2MXRHNThrRE5RVi1SdjdIRlhlWXhiVFJzTmZVTGw1V1dzcHlyNkh3dV9hQ1hKVDNLelhaNVV0b0xaVTdHMkI2UVpyeEZhN2tf?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "be103fca9ee8",
+      "title": "US FDA authorizes early access to Revolution's pancreatic cancer pill - Reuters",
+      "published": "2026-05-01T19:50:42+00:00",
+      "summary": "US FDA authorizes early access to Revolution's pancreatic cancer pill&nbsp;&nbsp;ReutersF.D.A. Grants Early Access to Promising Drug for Pancreatic Cancer&nbsp;&nbsp;The New York TimesFDA green lights early access to pancreatic cancer drug, daraxonrasib&nbsp;&nbsp;USA TodayGroundbreaking advancements in pancreatic cancer treatment excite UW Health doctor&nbsp;&nbsp;WKOWFDA expands access to a promising drug for one of the worst cancers&nbsp;&nbsp;The Washington Post",
+      "sources": [
+        {
+          "name": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMHpYUmREZFJkVXdsaUY4ZUFkRzhhOEtXVEVLRmcyUDF6OVJWZ25SeFlBTDNFbk9NYnY2TjJ5eThZWl9hb2xFZlkwakpCaEFad2tJUmpTNWZ2RHFrelJsNjQ0REpxOHlZYjU5eDlHc19kZ3NZQW1tdjVUdVItQmdqZVg5VEVlcTUtUGlwWU9IdDNkdWJVTzlKQkVRd05FdDY4ak15WHR3djVPOEllQ2k1U0ZPRHFjR0hiWVE?oc=5"
         }
       ]
     },
@@ -126,30 +210,6 @@
       ]
     },
     {
-      "id": "eb4c67c806ff",
-      "title": "Do Supplements Help You Sleep? Here’s What to Know. - The New York Times",
-      "published": "2026-05-01T18:18:00+00:00",
-      "summary": "Do Supplements Help You Sleep? Here’s What to Know.&nbsp;&nbsp;The New York TimesA third of U.S. adults don’t get enough sleep, new CDC report warns&nbsp;&nbsp;Scientific AmericanSleepless Americans Are Relying on Medicine and Pot to Doze Off&nbsp;&nbsp;Bloomberg.comNearly 13% of Americans use drugs or marijuana to fall asleep&nbsp;&nbsp;The IndependentCDC Study Reveals a Sleep-Deprived Nation&nbsp;&nbsp;MedPage Today",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdmJGQ0RMeEcxaEVmU1FsMTRMb3F1Y1dadVplMmJjbkxjYU5DTzc3bkIxRVZkSHFzbUdxM2UxNEYyZDZGcmZ2RmJ4cHRYVGJGZTdlSEJQMVk3LTN0TXFMdU41VGVYV245SUFGZUU0WDZiTWt4bTkxNUU3cG5FXy1QZURsVDF1dmpqMEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ea34438930df",
-      "title": "Does acupuncture work? - The Economist",
-      "published": "2026-05-01T17:18:19+00:00",
-      "summary": "Does acupuncture work?&nbsp;&nbsp;The EconomistAcupuncture’s science-based role in modern pain management&nbsp;&nbsp;American Animal Hospital Association - AAHAHow acupuncture rewires neuro-immune circuits to treat disease at its root&nbsp;&nbsp;EurekAlert!",
-      "sources": [
-        {
-          "name": "The Economist",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMTJHZ05SOTV1dVF1YUdQMk1McTZnT3Mzc0hOOUpVYzl5elRrWjM0ME5LQ0p2WWFNX2RhcjBidi1TQ0JCNnV3djZmVURSd2I4V2YwbEUydTBzVGotSm1YdGx4MmVReUhyZUtIdzB2b2wwTXlQMmJIT3BWMXZrV3k3Q3duazVQM2U5?oc=5"
-        }
-      ]
-    },
-    {
       "id": "87ae11f9923a",
       "title": "WDH reports first confirmed case of measles in Wyoming for 2026; Riverton store listed as possible exposure location - County 10",
       "published": "2026-05-01T17:05:49+00:00",
@@ -165,11 +225,23 @@
       "id": "e9970ef0b804",
       "title": "3I/ATLAS originated from place much colder than our solar system - CNN",
       "published": "2026-05-01T17:00:51+00:00",
-      "summary": "3I/ATLAS originated from place much colder than our solar system&nbsp;&nbsp;CNNWater D/H in 3I/ATLAS as a probe of formation conditions in another planetary system&nbsp;&nbsp;NatureInterstellar Comet 3I/ATLAS Has Cold, Ancient Origins&nbsp;&nbsp;Sky & TelescopeAstronomers Discover Major Clue About 3I/ATLAS’ Origins&nbsp;&nbsp;YahooInterstellar Comet 3I/ATLAS Came From an Extremely Cold, Lonely Region of the Milky Way Galaxy, New Research Suggests&nbsp;&nbsp;Smithsonian Magazine",
+      "summary": "3I/ATLAS originated from place much colder than our solar system&nbsp;&nbsp;CNNInterstellar Comet 3I/ATLAS Has Cold, Ancient Origins&nbsp;&nbsp;Sky & TelescopeInterstellar Comet 3I/ATLAS Formed in Ultra-Cold Planetary System, ALMA Reveals&nbsp;&nbsp;Sci.NewsInterstellar Comet 3I/ATLAS Came From an Extremely Cold, Lonely Region of the Milky Way Galaxy, New Research Suggests&nbsp;&nbsp;Smithsonian MagazineInterstellar comet carries water unlike anything in our solar system&nbsp;&nbsp;Earth.com",
       "sources": [
         {
           "name": "CNN",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVlJWRXVOaDQyZEt1aU1hLXB3bXhyYWNoZDJaXzNWYjFzcnlOakNvOEpOY2ZuRGk4S2pvcE1vMFFfMTFXU183REFiZngwTmhaaEc3V2RqTTdSQVU2VjF2RHVoVlh2VUoxMFZxZ3c1QnlMVXNKLXhFUndFdkd4OXBsUF9mM0JEYTBSUGFB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "55faf0031c30",
+      "title": "Scientists Discover Stem Cells That Could Regrow Teeth and Bone - SciTechDaily",
+      "published": "2026-05-01T16:48:46+00:00",
+      "summary": "Scientists Discover Stem Cells That Could Regrow Teeth and Bone&nbsp;&nbsp;SciTechDailyJapanese researchers begin human trials for drug to regrow teeth&nbsp;&nbsp;NewsBytesHumans May Be Able to Grow New Teeth Within Just 4 Years&nbsp;&nbsp;YahooFocus on Health: Growing New Teeth&nbsp;&nbsp;kobi5.com",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcjlfcFR5VmhVaG8xM2xDaVRsV0x2WGlpUHpCd1BfOWp6ZUNNMGp0NlNYcXROLVBGRkU1ZjBLdkdxVlpWTXZ5Y0F2SEo5SElaTENhZGxsampxek1QZlJSUVA3ZWN6RjhoTHZ4aEl5Nk44MDRrWXppN0hrdlRfNnZvOEZkZ0JWSXZwblFiZ1JUYjQ2Snc?oc=5"
         }
       ]
     },
@@ -201,7 +273,7 @@
       "id": "6dc2d0c6ca11",
       "title": "Does drinking water prevent kidney stones? Here’s what experts say. - The Washington Post",
       "published": "2026-05-01T16:00:00+00:00",
-      "summary": "Does drinking water prevent kidney stones? Here’s what experts say.&nbsp;&nbsp;The Washington PostWhy drinking more water didn’t prevent kidney stones&nbsp;&nbsp;ScienceDailyKidney stone prevention: Hydration alone doesn’t work, study finds&nbsp;&nbsp;Cleveland.comCan Drinking More Water Prevent Kidney Stones? Study Says No. See What Really Helps&nbsp;&nbsp;NDTVCan Drinking More Water Really Prevent Kidney Stones?&nbsp;&nbsp;RTTNews",
+      "summary": "Does drinking water prevent kidney stones? Here’s what experts say.&nbsp;&nbsp;The Washington PostCan Drinking More Water Prevent Kidney Stones? Study Says No. See What Really Helps&nbsp;&nbsp;NDTVKidney stone prevention: Hydration alone doesn’t work, study finds&nbsp;&nbsp;Cleveland.comWhy drinking more water didn’t prevent kidney stones&nbsp;&nbsp;ScienceDailyCan Drinking More Water Really Prevent Kidney Stones?&nbsp;&nbsp;RTTNews",
       "sources": [
         {
           "name": "The Washington Post",
@@ -210,14 +282,14 @@
       ]
     },
     {
-      "id": "ab524f781255",
-      "title": "A Massive 2022 Eruption on Earth May Reveal Active Volcanoes on Venus - The Daily Galaxy",
-      "published": "2026-05-01T14:15:00+00:00",
-      "summary": "A Massive 2022 Eruption on Earth May Reveal Active Volcanoes on Venus&nbsp;&nbsp;The Daily GalaxyIs Venus volcanically active? Big Hawaiian eruption in 2022 could help scientists find out&nbsp;&nbsp;SpaceScientists Use Mauna Loa Data To Achieve More Accurate Lava Flow Predictions&nbsp;&nbsp;National Parks TravelerChallenges to detecting present-day volcanism on Venus&nbsp;&nbsp;NatureResearch casts doubt on claims of present-day volcanism on Venus&nbsp;&nbsp;Imperial College London",
+      "id": "498e6bc62973",
+      "title": "Bay Area doctor finds link between Ozempic and hair loss - SFGATE",
+      "published": "2026-05-01T15:02:25+00:00",
+      "summary": "Bay Area doctor finds link between Ozempic and hair loss&nbsp;&nbsp;SFGATEWeight loss and hair loss: The growing hair treatment market from GLP-1s&nbsp;&nbsp;CNBCBay Area Shock As UCSF Links Ozempic-Style Slimdown Shots To Sudden Hair Shedding&nbsp;&nbsp;HoodlineGLP-1 Drugs May Help You Shed Weight … And Possibly Hair&nbsp;&nbsp;jezebel.com",
       "sources": [
         {
-          "name": "The Daily Galaxy",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORUZkNXVaaGFETHRjSTRiU2VTM2p0ZldSLUp4R01GcTFQOXlRWE9MZk8tZmJiYTVLTXpkdzdBUEpJS3lQQ3o3eHQyamFRSEp0bDl3cmt0VUsxZFhfaVN0MFkyQ3pBaXoxeXYycEE2M214S3FnRWw1bjV1ZDYxQ29HNQ?oc=5"
+          "name": "SFGATE",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQWFtck50NWN0ZUg1NlZnR29rWmFDNGdLaGdXbTBGbGtYYkpuZDUwR3hkcWYwNHBOQVFTV1lyWmVmbzBEdnZydlluWHMxSEkxWld3U0c3Mi1zUTNfbkFYaURxbHQ1Y1ZSWndXTmRHaEUzSkY1QTdWV0RZb3FpTGUxeGlmNlU?oc=5"
         }
       ]
     },
@@ -234,6 +306,30 @@
       ]
     },
     {
+      "id": "bd2ab42133fa",
+      "title": "You don’t need intense workouts to build muscle, new study reveals - ScienceDaily",
+      "published": "2026-05-01T14:09:27+00:00",
+      "summary": "You don’t need intense workouts to build muscle, new study reveals&nbsp;&nbsp;ScienceDailyWant to Build More Muscle With Less Effort? Try Eccentric Exercise&nbsp;&nbsp;HealthlineEccentric exercise builds muscle strength and size with less effort&nbsp;&nbsp;News-MedicalLess is more: Muscle strength doesn't require pain and exhaustion&nbsp;&nbsp;Earth.comThe Five Minute Workout That Science Says Actually Works&nbsp;&nbsp;Men's Fitness",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0Z192cXRpa25XOHBtYWhWelR2cGhuNGc5WmdhT3JZSE9IWXI2NDY2YjllaXF0RWRxcHlDR0hEX0hrc1p6ZDlKNGdQemxxYVpjU1FFdFFYdHRYSzUtc1MzRnpBSW5IVlRmUjhIRzNyMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "86c87cac5291",
+      "title": "A Simple Eye Test Done at the Bedside May Tell Doctors Exactly When a Patient Has Hours Left to Live - Indian Defence Review",
+      "published": "2026-05-01T13:30:00+00:00",
+      "summary": "A Simple Eye Test Done at the Bedside May Tell Doctors Exactly When a Patient Has Hours Left to Live&nbsp;&nbsp;Indian Defence ReviewWEIRD STUFF&nbsp;&nbsp;Jamaica StarSimple test can predict if a person will die within 24 hours - and it's 95 per cent accurate&nbsp;&nbsp;MSNCan doctors now see the future? New research says a person's death within 24 hours can be predicted with o&nbsp;&nbsp;The Economic TimesSimple eye test may reveal when death is just hours away&nbsp;&nbsp;Earth.com",
+      "sources": [
+        {
+          "name": "Indian Defence Review",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQk1adklST0R4eTNkY1piNGVsNnNud215ejRoWS00NTV5S1cybUNaaFJqdWxlYVJkWlJCd21xT1BUMDhHNjdpakZEMUR0UjZ5NExacTZSQV9PRGNXdGVNT1BwUzlTSVlHSzE4d0ZKamZkS3RFUG9ZTGgtWnByM3Y4R2dubTNaeDBnRWhKWFFPYjcyWURud1NDeEt3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "fb77cb351c2a",
       "title": "What Happens to Your Liver When You Take Turmeric Supplements Every Day - Verywell Health",
       "published": "2026-05-01T13:28:51+00:00",
@@ -242,6 +338,18 @@
         {
           "name": "Verywell Health",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xSEVPNXFVdTRpTVdLOHdDbG1uZ1g0UHlERlRyTWZ4dGZqYzdIdWJ5ODRLN3l3MlpDcGE5S09uak5jWFdwN0hqZDdBVXBBTFRPWDgwMjhibWdNNWFlaWpib0RnMGNNaGtGNHJrX0VXeUdzMWM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d8d70954479b",
+      "title": "Physicists achieve first-ever 'quadsqueezing' quantum interaction - Phys.org",
+      "published": "2026-05-01T13:20:01+00:00",
+      "summary": "Physicists achieve first-ever 'quadsqueezing' quantum interaction&nbsp;&nbsp;Phys.orgSqueezing, trisqueezing and quadsqueezing in a hybrid oscillator–spin system&nbsp;&nbsp;NatureOxford physicists achieve first-ever “quadsqueezing” breakthrough in quantum physics&nbsp;&nbsp;ScienceDailyPhysicists Squeeze Light in a Way That Has Never Been Done Before&nbsp;&nbsp;ScienceBlog.comA new type of quantum interaction using a single trapped ion&nbsp;&nbsp;Tech Explorist",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNam1DM3pyallSajd4dy1sNnlPYXU0V1hCWk81UGJkSS1fcjRMbHJ1N3ktc3VKaVQ4ZXM1a3VvVWlsUzctNTVaTXhsc0x5a1pVZTJJaTJ1YjgtdjRUNTNLMDBTWjhEQWlid3JueEZ2LXoxMWttR2Y4VjNKOVQwN28tVEt1Y19hQQ?oc=5"
         }
       ]
     },
@@ -258,10 +366,22 @@
       ]
     },
     {
+      "id": "efca045744b1",
+      "title": "Dear Doctor: Despite medical advances many cancers remain difficult, or nearly impossible to cure - OregonLive.com",
+      "published": "2026-05-01T13:00:00+00:00",
+      "summary": "Dear Doctor: Despite medical advances many cancers remain difficult, or nearly impossible to cure&nbsp;&nbsp;OregonLive.com",
+      "sources": [
+        {
+          "name": "OregonLive.com",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQX1VzQlVLMnNpNFZmakRuMXZvV09TU3p2cl9sbVQ3X3o0OWVHMUU1bWtZbE80bGpjcEZYT1JoZTUzVWtibExmRl9USjJJU3VORUE1eFhFRHRZUDdtNldMQzhRSGZUaEZZZm9LZmVPbElpeUYzX3luVHNfVkg3SllTS0lvWHZ2dXBocW9UeDBwamZoRHlFY1lCRVpPbVk2Sk9FdXlsb3lYQV9QSnVjWEcwNmNVeXYtYnVOb1N2dnFaTmF3Y3lROHV2a1pHV3RxRWxRbV9QUHJOY1BOUdIB7gFBVV95cUxPZmtiaWZnekRvWWlkUE8xbVBPS2cyakRycUZCNm9oQXVRUG4tdWNuUHcxRDhUb0lITy01N2FDVlZ6Qi00NmVYQS16NjNiOFZBVHU2MHd0dW1zbGFnYU50UEVsZ2FlLU9nTUVuQUxYdV9RcXhuZmxOcDJjZ1VHdTU0V080dHFBUHk3ckJlT083OVRIU0IwMEgtZEx3WHVhQTBSdHJHS0o4bE9VTENMc2kyNHVqMGYyVWxCSW9KMlJBVWJwd3hZaDBUeWRmd2plcXFBdF84enl4aC11ZExEYjBVWW1YWjZsVTYzX3ZXeU53?oc=5"
+        }
+      ]
+    },
+    {
       "id": "990819d9c025",
       "title": "Satellites Could Start Smashing into Each Other in Less Than Three Days, Study Finds - PetaPixel",
       "published": "2026-05-01T12:57:36+00:00",
-      "summary": "Satellites Could Start Smashing into Each Other in Less Than Three Days, Study Finds&nbsp;&nbsp;PetaPixelLow-Earth orbit is a 'house of cards' that is just 2.8 days from a catastrophic collision&nbsp;&nbsp;Earth.com2.8 Days to Disaster: Scientists Warn Low Earth Orbit Could Suddenly Collapse&nbsp;&nbsp;SciTechDailyLow Earth Orbit Could Spiral Into Chaos In Just 72 Hours, Scientists Warn&nbsp;&nbsp;The Daily GalaxyBeyond the Moon, beyond waste&nbsp;&nbsp;Recycling International",
+      "summary": "Satellites Could Start Smashing into Each Other in Less Than Three Days, Study Finds&nbsp;&nbsp;PetaPixelLow-Earth orbit is a 'house of cards' that is just 2.8 days from a catastrophic collision&nbsp;&nbsp;Earth.com2.8 Days to Disaster: Scientists Warn Low Earth Orbit Could Suddenly Collapse&nbsp;&nbsp;SciTechDailyLow Earth Orbit Could Spiral Into Chaos In Just 72 Hours, Scientists Warn&nbsp;&nbsp;The Daily GalaxyOrbiting Space Junk Poses Threat to GPS, Satellites&nbsp;&nbsp;govtech.com",
       "sources": [
         {
           "name": "PetaPixel",
@@ -270,14 +390,14 @@
       ]
     },
     {
-      "id": "3a6069408632",
-      "title": "Inside wacky world of biohacker Bryan Johnson – from injecting son's blood to 'top vagina' boast - Daily Star",
-      "published": "2026-05-01T12:42:00+00:00",
-      "summary": "Inside wacky world of biohacker Bryan Johnson – from injecting son's blood to 'top vagina' boast&nbsp;&nbsp;Daily StarBryan Johnson Goes Viral for Candid Sex Overshare on X, ‘Don’t Die’ Subject Announces Girlfriend’s ‘Microbiome Report’&nbsp;&nbsp;Just JaredBiohacker Bryan Johnson Publishes Partners Vaginal Microbiome Health Report&nbsp;&nbsp;HarianBasis.coBryan Johnson makes 'unhinged' post revealing his partner's vaginal data with intimate tweet about sex life&nbsp;&nbsp;UNILAD Tech",
+      "id": "07038ebc2ab3",
+      "title": "Understanding Statins and the New Cholesterol Guidelines - AARP",
+      "published": "2026-05-01T12:55:33+00:00",
+      "summary": "Understanding Statins and the New Cholesterol Guidelines&nbsp;&nbsp;AARPExpanding the Fight Against Heart Disease&nbsp;&nbsp;The Good Men ProjectNew in Clinical Guidance | Dyslipidemia, Gene Editing and CHD&nbsp;&nbsp;American College of CardiologyHealth experts have new advice on how to manage your cholesterol levels&nbsp;&nbsp;Utah Public RadioNew cholesterol guidelines call for earlier action to prevent heart disease&nbsp;&nbsp;Texas Public Radio | TPR",
       "sources": [
         {
-          "name": "Daily Star",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNHlZS0FYYURwTXJOZTZSMnlTWERvcGNCUm1TV2NzbXFyNnZRcHVXd3hzbkYzZDEzQkZmWEczRGEtTGdhTDNhU0lRa1RlaGxGaTFaQnNjYlcycmoySHktV3o3bjMtS3g5YlUtX3c1UnRlU0VtaFZhV1lQRURzYVdfMzdRS1VRb0FOTlVwbmwxRFJ2Zw?oc=5"
+          "name": "AARP",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN2ZiRzVzQkV6bHlGODE2aFpScXA3OWtQWWZzaGR3Ni1LTWduRWRJcHh1SldSY20zNUV3dloyVUt4V0M2U05BUFh0cnp0VEQ0dkstdnVfMjktbEJyRUdFQXRHM21VNTg0RktkdElLR2FpV3FGQzVVTFotRm5VU2VCMnd1TVJZeGM?oc=5"
         }
       ]
     },
@@ -290,6 +410,18 @@
         {
           "name": "SciTechDaily",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOakpNSUt1OUh3Z2VoU0VwcW1NX0lYdE9HS3dDMmk0LWFMWnVQeUpFTFpESnpTd1pvVUgwdzRmQkdXUzY5WXBRSHU1ZVFnTTRIUUNfYTFKRjN4YlFyUVlGa2FZVS1rUEdwZG9ockhMVmJ6WXZ6TkVoN0hKbFBFLVVUWmZEVXhUbHhnSlNhZlF0NzMwek9ORWYtQzlJTVBWenc1WkxKSUwxQVU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "93d6c9e4ef1d",
+      "title": "NASA unveils nuclear-powered mission to Mars in major space breakthrough - RBC-Ukraine",
+      "published": "2026-05-01T12:28:21+00:00",
+      "summary": "NASA unveils nuclear-powered mission to Mars in major space breakthrough&nbsp;&nbsp;RBC-Ukraine",
+      "sources": [
+        {
+          "name": "RBC-Ukraine",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQkQ3UTV6aDFibU82ckxRSENseUFHa21PNUxGMTlsRG4yMGVSLXBuNElwbW16ajBNbzFranpFSENlQVM1X3poSTJqWjNtWm9wWkpSWUhPaTFPa1ZCcEVtaDdYaDhseEVXSTdPV2sxQ0QwUzVRYUc5dVRucjRGOS1NdW13Ty1relVTOXZrdVhXYkVvNm1HVURN?oc=5"
         }
       ]
     },
@@ -309,11 +441,23 @@
       "id": "8dd61161f6bd",
       "title": "Syphilis cases in expectant mothers have dramatically risen since the pandemic – here’s what’s driving the trend - The Conversation",
       "published": "2026-05-01T12:21:10+00:00",
-      "summary": "Syphilis cases in expectant mothers have dramatically risen since the pandemic – here’s what’s driving the trend&nbsp;&nbsp;The ConversationSyphilis making a comeback, health officials warn. CDC map shows where risk is highest&nbsp;&nbsp;The HillSyphilis cases are on the rise in Broome County&nbsp;&nbsp;WIVT - News 34Updates on Bicillin L-A Shortage&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)Understanding and Addressing Syphilis Trends - and What's Being Missed&nbsp;&nbsp;",
+      "summary": "Syphilis cases in expectant mothers have dramatically risen since the pandemic – here’s what’s driving the trend&nbsp;&nbsp;The ConversationSyphilis making a comeback, health officials warn. CDC map shows where risk is highest&nbsp;&nbsp;The HillSyphilis cases are on the rise in Broome County&nbsp;&nbsp;WIVT - News 34Why maternal syphilis is resurging and putting babies at risk&nbsp;&nbsp;Daily NationUnderstanding and Addressing Syphilis Trends - and What's Being Missed&nbsp;&nbsp;Yahoo Finance",
       "sources": [
         {
           "name": "The Conversation",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQXR2b2lNXzN5dUVjd1V5bHZ2S3g0ZHltalBKb2t2RVRiVm9YQ2U0bUw1eXdCeTQ1ZWRQcUphaDItVUFnV1RZQWZMWTJoNjU5ZF9UOHpvVUo5eGF4RVozMVFSTWJCaENIVkR0YloyNTVnYTFKelZIbGdGc0xRODVJV0NkbUFOZS1oNF9GcUhVSFN3bl9CaGtOTm0wcWdyVERsX0k3Zi1lUGtoYmFmSmlHSENuVnBoM2ZRci1QUThHMXZfZm5FWUt4NFJUY0U3UU1BRFNiMGk2bmJLLUU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ae6e91ccdaaa",
+      "title": "Dinosaurs may have originated 10 million years earlier than fossils show - Phys.org",
+      "published": "2026-05-01T12:00:01+00:00",
+      "summary": "Dinosaurs may have originated 10 million years earlier than fossils show&nbsp;&nbsp;Phys.orgDinosaurs first emerged 10 million years earlier than previously thought, study suggests&nbsp;&nbsp;Interesting EngineeringDinosaurs May Have Originated 10 Million Years Earlier Than We Thought&nbsp;&nbsp;GreekReporter.com",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZX2tOUWJINThoanB4cDl1Yjc5eGlRbVVPX2p3TDdTOWFnQjFzcjZvY1FQR09BeTVKMDhpME9MdlBkVGNaTkpfRnBPeFNzQ3lJak9JX0JDaWdsT0h6YVk2RGdKaXo2OXREcUkyV3BhcUhzQ09oM01fR0tlN0tVVGc?oc=5"
         }
       ]
     },
@@ -378,42 +522,6 @@
       ]
     },
     {
-      "id": "6dd1c5c5e942",
-      "title": "Don’t toss cannabis leaves: Scientists found rare compounds with medical potential - ScienceDaily",
-      "published": "2026-05-01T04:37:57+00:00",
-      "summary": "Don’t toss cannabis leaves: Scientists found rare compounds with medical potential&nbsp;&nbsp;ScienceDaily",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sak12NGhmSmU5a09fWFdIZnFMRnJGazdjaGZZUkZFUU9uMlNZMktWU2F1bTdMbTRJTFJBck9GdWlOSzh2X0hvY0o3LVVWV0FjRXpJSFZHS3ZSazRwMi01bWV4S2RZQWxlZndIeWttOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "975e09913c30",
-      "title": "AI Can Spot Pancreatic Cancer Years Before Diagnosis, Study Finds - ScienceAlert",
-      "published": "2026-05-01T04:33:09+00:00",
-      "summary": "AI Can Spot Pancreatic Cancer Years Before Diagnosis, Study Finds&nbsp;&nbsp;ScienceAlertMayo Clinic AI helps specialists detect pancreatic cancer up to 3 years before diagnosis in landmark validation study&nbsp;&nbsp;Mayo Clinic News NetworkAI System Detects Pancreatic Cancer Years Before Doctors Can, Study Shows&nbsp;&nbsp;NDTVMayo Clinic announces breakthrough in early cancer detection&nbsp;&nbsp;kare11.comAI Spots Pancreatic Cancer Years Before It Shows Up, Study Finds&nbsp;&nbsp;Bloomberg.c",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcEVFcEZKOGxUelJrQmg4bjZVaEk4LW1NeFpxemV0TkVmSm1BOFBHNEVLY3FOUDk5a3RSdUlTMXVsZ0I3VjJ2MjZ4QkRQTlYybVNnei1Kcmx2a1RHeWtJQzcyMTBRaU4zdVFqenlDczk4QkJsM0xFNFR1YmYzdXVEUmltVmozRG5kMjI2XzVETXhnNWs5NzBRcQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "19b133b1dafa",
-      "title": "Dietitians Reveal the 10 Drinks to Never Drink for Better Health - AOL.com",
-      "published": "2026-05-01T00:56:48+00:00",
-      "summary": "Dietitians Reveal the 10 Drinks to Never Drink for Better Health&nbsp;&nbsp;AOL.com",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83VU0zd0NRbzRmd01qQkhGSFZmVmdiQVBJVUowMWViV1FkZVN0TXcwdWpsdWliY0NPa2FNSHF2TElLYkZXNnJneG9xa2wzYkhxdkY3QzN3WlE4SGxibFd6dTRTZHhDanNHYVhuY2dPRXpWRm9NNWVB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "214ccfe8fb29",
       "title": "Washoe County School District reports gastrointestinal illness outbreaks at five schools - KTVN",
       "published": "2026-05-01T00:15:00+00:00",
@@ -426,22 +534,10 @@
       ]
     },
     {
-      "id": "23029dcce77f",
-      "title": "Yawning Does Something Unexpected in Your Brain, MRI Scans Reveal - ScienceAlert",
-      "published": "2026-04-30T23:33:10+00:00",
-      "summary": "Yawning Does Something Unexpected in Your Brain, MRI Scans Reveal&nbsp;&nbsp;ScienceAlertA good yawn might do more than you think, say researchers&nbsp;&nbsp;UNSW SydneyWe all do it every day — but scientists still don’t know why. That may be changing&nbsp;&nbsp;SBS AustraliaWhy do we yawn when others yawn?&nbsp;&nbsp;London NowCan yawning advance the study of neurodegenerative diseases?&nbsp;&nbsp;Lab + Life Scientist",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQenV0S2lLcVB2Y1BSVWZ1LThGQUM3VngzelNKNFo5WmxPeG10ci1vWDBqU3BkeEFmRTZRY0U0bE12c0VHVVpJWWV1ZEhhYUJIdllwa2xVZ01mWlVXRTBmOS1zaGVIZk9EZm13NzkyVWduN0Rmam02N0xackg4RGhBY1RtU3ctVkMycFFCVnJ0ZGpDSEw2c0NWdQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9c6a3efb895d",
       "title": "Scientists identify exactly how and why coffee fights aging and boosts overall health - Earth.com",
       "published": "2026-04-30T23:24:50+00:00",
-      "summary": "Scientists identify exactly how and why coffee fights aging and boosts overall health&nbsp;&nbsp;Earth.comCoffee helps protect your body from aging and disease, study says&nbsp;&nbsp;USA TodayNew research reveals how coffee may help protect against aging and chronic disease&nbsp;&nbsp;Click2HoustonCoffee may protect your body from ageing, study finds&nbsp;&nbsp;Euronews.comCoffee and Health Complicated by a Messy Mix of Compounds&nbsp;&nbsp;Daily Coffee News by Roast Magazine",
+      "summary": "Scientists identify exactly how and why coffee fights aging and boosts overall health&nbsp;&nbsp;Earth.comCoffee helps protect your body from aging and disease, study says&nbsp;&nbsp;USA TodayOpinion | How to read the coffee-dementia study&nbsp;&nbsp;The Washington PostNew research reveals how coffee may help protect against aging and chronic disease&nbsp;&nbsp;Click2HoustonCoffee may protect your body from ageing, study finds&nbsp;&nbsp;Euronews.com",
       "sources": [
         {
           "name": "Earth.com",
@@ -477,7 +573,7 @@
       "id": "65a4bf2dc5c3",
       "title": "A longstanding quantum roadblock just fell, opening existing fiber networks to ultra-secure light signals - Phys.org",
       "published": "2026-04-30T22:00:01+00:00",
-      "summary": "A longstanding quantum roadblock just fell, opening existing fiber networks to ultra-secure light signals&nbsp;&nbsp;Phys.orgA quantum-coherent photon–emitter interface in the original telecom band&nbsp;&nbsp;NatureUI researchers’ work with quantum dots could create more efficient telecommunications&nbsp;&nbsp;Iowa NowQuantum Dots Now Emit Secure Photons At 1260 Nm Wavelength&nbsp;&nbsp;Quantum ZeitgeistQuantum Communication Breakthrough Shatters Longstanding Barrier&nbsp;&nbsp;Bioengineer.org",
+      "summary": "A longstanding quantum roadblock just fell, opening existing fiber networks to ultra-secure light signals&nbsp;&nbsp;Phys.orgA quantum-coherent photon–emitter interface in the original telecom band&nbsp;&nbsp;NatureResearchers build foundation for quantum internet using current fiber infrastructure&nbsp;&nbsp;Yahoo TechUI researchers’ work with quantum dots could create more efficient telecommunications&nbsp;&nbsp;Iowa NowQuantum Communication Breakthrough Shatters Longstanding Barrier&nbsp;&nbs",
       "sources": [
         {
           "name": "Phys.org",
@@ -501,7 +597,7 @@
       "id": "6084da63b09d",
       "title": "Scientists restore memory by blocking a single Alzheimer’s protein - ScienceDaily",
       "published": "2026-04-30T21:13:56+00:00",
-      "summary": "Scientists restore memory by blocking a single Alzheimer’s protein&nbsp;&nbsp;ScienceDailyScientists can't believe it: an experimental drug helped mice with advanced Alzheimer's disease regain their memory and ability to learn by restoring a key energy molecule in the brain&nbsp;&nbsp;ECOticias.comBlocking A Single Protein In Alzheimer’s Disease Could Boost The Brain’s Cleanup Crew, Slowing Memory Loss&nbsp;&nbsp;IFLScienceScientists Restore Memory by Blocking One Alzheimer's Protein&nbsp;&nbsp;",
+      "summary": "Scientists restore memory by blocking a single Alzheimer’s protein&nbsp;&nbsp;ScienceDailyBlocking A Single Protein In Alzheimer’s Disease Could Boost The Brain’s Cleanup Crew, Slowing Memory Loss&nbsp;&nbsp;IFLScienceScientists can't believe it: an experimental drug helped mice with advanced Alzheimer's disease regain their memory and ability to learn by restoring a key energy molecule in the brain&nbsp;&nbsp;ECOticias.comScientists Restore Memory by Blocking One Alzheimer's Protein&nbsp;&nbsp;",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -573,7 +669,7 @@
       "id": "cec0af15a470",
       "title": "Bowel and Ovarian Cancers Are Dramatically Rising in Young Adults and Scientists Aren’t Sure Why - SciTechDaily",
       "published": "2026-04-30T19:22:07+00:00",
-      "summary": "Bowel and Ovarian Cancers Are Dramatically Rising in Young Adults and Scientists Aren’t Sure Why&nbsp;&nbsp;SciTechDailyCancer is increasing in young people and we still don't know why&nbsp;&nbsp;New ScientistWhy are more young adults being diagnosed with some cancers?&nbsp;&nbsp;Euronews.comResearchers warn of an key new driver of 11 cancers in under-50s&nbsp;&nbsp;The Independent11 cancers on the rise in young people - scientists find first clue why it's happening&nbsp;&nbsp;BBC",
+      "summary": "Bowel and Ovarian Cancers Are Dramatically Rising in Young Adults and Scientists Aren’t Sure Why&nbsp;&nbsp;SciTechDaily11 cancers on the rise in young people - scientists find first clue why it's happening&nbsp;&nbsp;BBCResearchers warn of key new driver of 11 cancers in under-50s – and it’s not smoking or poor diet&nbsp;&nbsp;The IndependentCancer is increasing in young people and we still don't know why&nbsp;&nbsp;New ScientistEleven types of cancer are on the rise in England’s under 50s – th",
       "sources": [
         {
           "name": "SciTechDaily",
@@ -590,6 +686,18 @@
         {
           "name": "Men's Health",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XRloxWldJQU9obHdfYkFQUG15RGlsbGJhQUhBd2doSzRrMVRscVdWNy1TaDRzNGlDUk4xMHNCcGxubDA5NFV1RnpBUVhtbndDTUoxVEM2YUt4US1ndWduS0VNMzBkN0gyUnU5bDg2b0p4NDljQjNWdEJDek9xUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "356ac378cf29",
+      "title": "Is Venus volcanically active? Big Hawaiian eruption in 2022 could help scientists find out - Space",
+      "published": "2026-04-30T19:00:00+00:00",
+      "summary": "Is Venus volcanically active? Big Hawaiian eruption in 2022 could help scientists find out&nbsp;&nbsp;SpaceScientists Use Mauna Loa Data To Achieve More Accurate Lava Flow Predictions&nbsp;&nbsp;National Parks TravelerA Massive 2022 Eruption on Earth May Reveal Active Volcanoes on Venus&nbsp;&nbsp;The Daily GalaxyChallenges to detecting present-day volcanism on Venus&nbsp;&nbsp;NatureResearch casts doubt on claims of present-day volcanism on Venus&nbsp;&nbsp;Imperial College London",
+      "sources": [
+        {
+          "name": "Space",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYVlJbTFfRjJDRFA5MWpDcklqcGszOHdZTzdXbzhLaHFkTDd1b2l3YlQwZ0lkZzNxNlB3d2lMYVZGTktlSUVXWGZkY1h2d2lHMlA2VTMzM0YxVzdwcmNRTzQ3VHhHb2hPcTNuc1UybjZ6a2ViX3Z1YklkemJSN1UyVlpiZUhPaEVwWTJEWHo2bkZBRjEybVktX3VqZl9uMmZuWFIyNW15TVJrajhXWUJLOUUyZWNWcDlpd3dlTm5ENDlyODk4d2c?oc=5"
         }
       ]
     },
@@ -621,7 +729,7 @@
       "id": "68dc1b1d719f",
       "title": "Africa Is Splitting Apart Faster Than We Thought, Forming a New Ocean - ScienceAlert",
       "published": "2026-04-30T18:03:09+00:00",
-      "summary": "Africa Is Splitting Apart Faster Than We Thought, Forming a New Ocean&nbsp;&nbsp;ScienceAlertNecking of the active Turkana Rift Zone and the priming of eastern Africa for continental breakup&nbsp;&nbsp;NatureMassive crack will one day split the continent of Africa, researchers say&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosIn Eastern Africa, the Cradle of Humankind Is Tearing Apart&nbsp;&nbsp;Columbia UniversityEarth’s Crust Is Tearing Open in Africa, and It Could Form a New Ocea",
+      "summary": "Africa Is Splitting Apart Faster Than We Thought, Forming a New Ocean&nbsp;&nbsp;ScienceAlertNecking of the active Turkana Rift Zone and the priming of eastern Africa for continental breakup&nbsp;&nbsp;NatureIn Eastern Africa, the Cradle of Humankind Is Tearing Apart&nbsp;&nbsp;Columbia UniversityMassive crack will one day split the continent of Africa, researchers say&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosEarth’s Crust Is Tearing Open in Africa, and It Could Form a New Ocea",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -654,6 +762,18 @@
       ]
     },
     {
+      "id": "16d442164200",
+      "title": "Brain scans reveal 3 ADHD subtypes, including a more extreme form - The Washington Post",
+      "published": "2026-04-30T17:00:30+00:00",
+      "summary": "Brain scans reveal 3 ADHD subtypes, including a more extreme form&nbsp;&nbsp;The Washington PostResearchers keep studying ADHD. We think you know more. Tell us. | Opinion&nbsp;&nbsp;USA TodayADHD has severe subtypes? Researchers find more on ADHD from brain scans&nbsp;&nbsp;The Times of IndiaADHD Study Reveals 3 Types - One Is Alarmingly Severe&nbsp;&nbsp;The Eastern HeraldStudy finds three brain-based ADHD subtypes, including a severe emotional dysregulation group&nbsp;&nbsp;The Eastleigh Voice",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdG1qQ05YaldGWG84MTNlR0xUbnBzQlYtOThjZDJaME03TnhaT2EwRWdWRmhiTUZhemN5VzcwRmhJV2VueDd3SFo0SDZpbkFETV9ld3BEQ1AzYVpqRHVZSlUxcTVhRnJkZzA1TnoyTERNWl9laEd1OTFTZkhPZUp5eXdLejdJRmRVTXc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0e1677a79c07",
       "title": "Brain Prioritizes \"Sound Offsets\" During Hearing Repair - Neuroscience News",
       "published": "2026-04-30T16:48:49+00:00",
@@ -666,26 +786,14 @@
       ]
     },
     {
-      "id": "192c0124413d",
-      "title": "Glucose Levels Signal the Growth of Myelin - Neuroscience News",
-      "published": "2026-04-30T16:21:04+00:00",
-      "summary": "Glucose Levels Signal the Growth of Myelin&nbsp;&nbsp;Neuroscience NewsGlucose-dependent spatial and temporal modulation of oligodendrocyte progenitor cell proliferation via ACLY-regulated histone acetylation&nbsp;&nbsp;NatureGlucose acts as a metabolic signal for myelin development&nbsp;&nbsp;News-MedicalBrain Glucose Levels Act as a Metabolic Switch for Myelin Formation&nbsp;&nbsp;Genetic Engineering and Biotechnology NewsStudy uncovered a link between low brain sugar levels and the developmen",
+      "id": "972c47f52b44",
+      "title": "High lipoprotein(a) levels linked with long-term heart disease risk - Medical News Today",
+      "published": "2026-04-30T15:30:51+00:00",
+      "summary": "High lipoprotein(a) levels linked with long-term heart disease risk&nbsp;&nbsp;Medical News Today1 reason why healthy people have heart attacks, and what experts say could help&nbsp;&nbsp;CBCHigh Lp(a) Identifies Residual Cardiovascular Risk&nbsp;&nbsp;MedscapeHeart Risk: Why Even Fit-looking Individuals Must Check Lp(a)&nbsp;&nbsp;BW Healthcare WorldHigher Lp(a) Threshold More Closely Linked to Major ASCVD Events&nbsp;&nbsp;TCTMD.com",
       "sources": [
         {
-          "name": "Neuroscience News",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PNUlJUW9tS3F0aHZzMXBTazA3dzhVTnJlaDRIZ0YyNHNpQU84ZkpRQldtME9UV19tM1ZXSmtmYjlhMzgxYUpVSnZvd3huU1dfdVFMTnVkUmJMMjhmQ0pUTHFSQkZWMW5qNTlxOXMwTUpVci1GRUg1TXREN3lIdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f73f12247236",
-      "title": "Why beets are good for your heart and how to get more of them in your diet - The Washington Post",
-      "published": "2026-04-30T16:00:00+00:00",
-      "summary": "Why beets are good for your heart and how to get more of them in your diet&nbsp;&nbsp;The Washington PostBeetroot juice isn't for everyone: Hidden side effects and why you should avoid it&nbsp;&nbsp;The Times of IndiaEffects of drinking beetroot juice in the morning&nbsp;&nbsp;Laodong.vnFresh Beetroot Juice: Easy Fibre Drink For Daily Health&nbsp;&nbsp;Slurrp",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56a2tDV3ZNUWotY0VXLXJsUGVMSU5XeDZiM0ZTbWtzUFJTd2FCd3QwUFVnaER1Y2Z0RjIyLThveElwSXh2b1l4c2JTLTZsdDd4Z1JwX28yN0t4U1lGejIxMG1EenJKYUJuajlDQ2d6bHE0MjJNTjBfa1luVTA?oc=5"
+          "name": "Medical News Today",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0paMzdmQkk5X1RPZnRqZVlJazZiOVdNR1VxOWdMNDIzWkhLeVRZYk5lYlN5TWFaSWg4VTZYZnZwcXNvckpaYkJOOGZVbzZaSkkzRE9tQjl4dDJYbDQ0d2VuNEt6NG13cXIyV2NHYzVJaUxnX1FYbllHTjJhVkJoakZETzV6cU96M2JrZUUyM05ZX0Q0MVhKRzVVWWF5aFFMaUwzRQ?oc=5"
         }
       ]
     },
@@ -726,22 +834,10 @@
       ]
     },
     {
-      "id": "74d0ac06f511",
-      "title": "\"My patients kept coming back with the same gut problem and it took me years to realize it was this one breakfast item\" : a gastroenterologistʼs revelation that is dividing the medical community - Iowa Park Leader",
-      "published": "2026-04-30T12:15:55+00:00",
-      "summary": "\"My patients kept coming back with the same gut problem and it took me years to realize it was this one breakfast item\" : a gastroenterologistʼs revelation that is dividing the medical community&nbsp;&nbsp;Iowa Park Leader",
-      "sources": [
-        {
-          "name": "Iowa Park Leader",
-          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQd2dnMVZCd2ozb0wzOF9Idm9NeG9WZHNBbEJhcTgxazMyUWVUQjRPYVRteGNEYk9zdTNSN1FiWXJIbHhvYThRQW5iUW1kMFp3cEpVX3RhQ3dfVGFVeTJUS29qU0NRNmRGTlFmMGxpdDN6NTFFNHlKSzNFMDZIejVTSklaeVYybGpoMWtPS0pOcGlnUzc5c0NHWGpSNWRsY3pqLVBlTU0tdHgzWVViWlp6R3lUcVhiVll1MEt4dGlEUTZwTXl6Q1h6MHpWODkwVzZlRWNUNXZTZlE1RVI2NFlkVEF0VWNnS0R4bXRmU1NNOUNLX0J5TllkQkZyZ3VvMnZRSF9FajBvY0gyYmZEcXFyaDk5U0tKR2xsNkYtRldfQjZpSGI1czRneUVEQmhja3B2a1p2ZlVzYmJITWRHYmw4X0xqLWhXWThpVXc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4a5486e93d54",
       "title": "We Outlasted Neanderthals Thanks to One Key Difference, Study Suggests - ScienceAlert",
       "published": "2026-04-30T12:02:30+00:00",
-      "summary": "We Outlasted Neanderthals Thanks to One Key Difference, Study Suggests&nbsp;&nbsp;ScienceAlertScientists Compared Neanderthal Brains with Modern Humans and Found Something Surprising&nbsp;&nbsp;ZME ScienceNeanderthal brains measure up to ours—literally&nbsp;&nbsp;Ars TechnicaForget the caveman myth: Neanderthal brains challenge what we thought we knew&nbsp;&nbsp;Science X networkNeanderthals' brains weren't to blame for their demise, new study suggests&nbsp;&nbsp;Live Science",
+      "summary": "We Outlasted Neanderthals Thanks to One Key Difference, Study Suggests&nbsp;&nbsp;ScienceAlertNeanderthals' brains weren't to blame for their demise, new study suggests&nbsp;&nbsp;Live ScienceNeanderthal brains measure up to ours—literally&nbsp;&nbsp;Ars TechnicaWhat Killed The Neanderthals 40,000 Years Ago? A New Study Has A Bold New Theory&nbsp;&nbsp;IFLScienceMap of Ice Age Europe may explain why humans survived and Neanderthals vanished&nbsp;&nbsp;Earth.com",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -750,110 +846,14 @@
       ]
     },
     {
-      "id": "05a89a4e6e73",
-      "title": "Brain Scans Indicate 3 Types of ADHD - Newser",
+      "id": "aa35f40a0827",
+      "title": "'This is going to be what makes the Earth secure.' How one startup plans to protect us from dangerous asteroids - Space",
       "published": "2026-04-30T12:00:00+00:00",
-      "summary": "Brain Scans Indicate 3 Types of ADHD&nbsp;&nbsp;NewserBrain scans reveal 3 ADHD subtypes, including a more extreme form&nbsp;&nbsp;The Washington PostResearchers keep studying ADHD. We think you know more. Tell us. | Opinion&nbsp;&nbsp;USA TodayADHD has severe subtypes? Researchers find more on ADHD from brain scans&nbsp;&nbsp;The Times of IndiaADHD Study Reveals 3 Types - One Is Alarmingly Severe&nbsp;&nbsp;The Eastern Herald",
+      "summary": "'This is going to be what makes the Earth secure.' How one startup plans to protect us from dangerous asteroids&nbsp;&nbsp;SpaceA 'Potentially Hazardous' Asteroid Will Pass Close to Earth in 2029 — and It Has an Alarming Nickname&nbsp;&nbsp;People.comNASA tracks colossal asteroid on a close approach to Earth&nbsp;&nbsp;The Jerusalem PostEarth and ‘God of Chaos’ asteroid to have close call in 2029&nbsp;&nbsp;NewsNationHumanity 'at risk' from killer asteroids as NASA's defence 'not enough' to prot",
       "sources": [
         {
-          "name": "Newser",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUDNtOWdka01UaXBGLXJSdG9CZjdxdmNFSVZmMGZyMkJxMjRkOGU0MHJEakNfNWQ1MG9qZk9mTExLTmc1a0VYRm9HNnB4UXppVUNRWkk3Q05OQUkxM2dXcWdXVC1VQmhvM3pJaXFMNFl3cEU3dmNCX1BFcjJlUGV0SFZyNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ba4d0c413d1b",
-      "title": "To catch colorectal cancer early, advocates push to make ‘poop talk’ OK - NPR",
-      "published": "2026-04-30T10:00:00+00:00",
-      "summary": "To catch colorectal cancer early, advocates push to make ‘poop talk’ OK&nbsp;&nbsp;NPRRectal cancer deaths are rising faster in a specific age group, new study says&nbsp;&nbsp;Boston 25 NewsRectal cancer deaths rising up to three times faster in specific age group, study finds&nbsp;&nbsp;Fox NewsScientists search the microbiome for clues to the rise in colorectal cancers&nbsp;&nbsp;NPRAlarming trend shows spike in lower GI cancer deaths among younger adults&nbsp;&nbsp;Fox News",
-      "sources": [
-        {
-          "name": "NPR",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUzA1QUR4UENLUWswcHBFWC1sSWFEZ0VkblhoVE5jcnY1eVpSUjNZVlBPZ05rT09DV0t2N0lSckFob0hQOURLRVk5anVRWnhmRVUyejFDcXlQNjVDWkJKbUZJZm5Wc0ZMRHhGZXBsWUY5dWhpVndkLUZlU05kS0dBZVRyZTdRSGxuelRhSg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "68e066ec8088",
-      "title": "10-Year Data Confirm No Benefit From Knee Arthroscopy - Medscape",
-      "published": "2026-04-30T09:14:27+00:00",
-      "summary": "10-Year Data Confirm No Benefit From Knee Arthroscopy&nbsp;&nbsp;MedscapeOne of the world's most common knee surgeries does not help and may even be harmful&nbsp;&nbsp;Medical XpressKnee surgery for cartilage damage does not benefit patients, study suggests&nbsp;&nbsp;The GuardianCommon Knee Surgery Doesn't Help, Might Actually Make Things Worse, Clinical Trial Reports&nbsp;&nbsp;U.S. News & World ReportDr. Roach: A case of a symptomatic meniscal tear might call for surgery&nbsp;&nbsp;The Detroi",
-      "sources": [
-        {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYzZUbldVU1dWcHJQcktUemhVRVBTUXFNRVJEeV96QVJhazBkd0g3UU5QMmpVQ3BwNGtrY0FrVlBfNEcyZmI2RnRRU01ydGxOZFRtNFp6cDB3TkpMN3ozZXdoZWNQT3VIVEhKZUg1ZXpPTUwyVG9ybFh0UzduRm4wLTA2WUZZYTBDeUtFemcwWEg2ZkRWWmtOY0hTb3c0NnVheVgyb25TMXp0dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4c170688b352",
-      "title": "Buried in soil, a 100-million-year-old bacterial toxin could reshape pest control and antibiotic discovery - Phys.org",
-      "published": "2026-04-30T09:00:06+00:00",
-      "summary": "Buried in soil, a 100-million-year-old bacterial toxin could reshape pest control and antibiotic discovery&nbsp;&nbsp;Phys.orgStreptomyces produce a diphtheria toxin-like exotoxin that targets insects&nbsp;&nbsp;NatureAncient Bacterial Toxin Targeting Insects Holds Promise for Human Health, Agriculture, and Drug Development&nbsp;&nbsp;Bioengineer.orgSoil Bacteria Kill Insects With a Toxin Related to Diphtheria&nbsp;&nbsp;ScienceBlog.comStreptomyces Secrete Insect-Targeting Diphtheria-Like Toxin&",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtaWVzcFhIcmFZZXhfSklqZDFlLWJ2ZDRZVExBb1NBZGdhSkZfQm5GN0thaWhlTEx6NFFnZjN6MmZMQVllQzh1TXZXMGVBWE5selctLWsxM01FdXJQWG9rU3FPM20tV1d2Q2t5MFpYcDdvQVA5VVRj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f82d314a8714",
-      "title": "A 29-year-old man was told his constipation was nothing to worry about. He was diagnosed with colon cancer. - Business Insider",
-      "published": "2026-04-30T08:26:00+00:00",
-      "summary": "A 29-year-old man was told his constipation was nothing to worry about. He was diagnosed with colon cancer.&nbsp;&nbsp;Business Insider",
-      "sources": [
-        {
-          "name": "Business Insider",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qU2lCQVpPMk16N1FaanJLWWV0QXJacUhESmpreXlKX2NaeWpSMkVvM2JMZFJfRndRQVQzVDcwUjhVRlB0TUxaa0hsN2tvbmVhbDBUeTNON29Fb1JSam43a1g2ZGFBYkxoNThBMmFtR2hCSGp4R0dVTkUwZ1BCc2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dc85a277652d",
-      "title": "Scientists reveal the best exercise for knee arthritis pain relief - ScienceDaily",
-      "published": "2026-04-30T07:32:07+00:00",
-      "summary": "Scientists reveal the best exercise for knee arthritis pain relief&nbsp;&nbsp;ScienceDailyDiscover the most effective activities for improving knee health&nbsp;&nbsp;Deseret NewsKnee osteoarthritis relief: Why aerobic exercise works best, study shows&nbsp;&nbsp;The Indian Express",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6cmxUMWFiNmxLdURqOW4yanhfbHpadjJoZnhvV2pxanJGblRNMjZWQlJTMm54bEhDTmU0T0ZQaEczWExMVk5qTWR1ZUxxMGg3WURvZU4yX0tfQjFhc1pLQ3JFNnhRWXQtQ0VLYlc3MA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9e76da5428a0",
-      "title": "Brief daily lying-down exercise linked to better balance and agility - Medical News Today",
-      "published": "2026-04-30T07:17:24+00:00",
-      "summary": "Brief daily lying-down exercise linked to better balance and agility&nbsp;&nbsp;Medical News TodayGot 10 minutes? 4 exercises can boost your balance — no standing required&nbsp;&nbsp;New York PostNo excuses! You can do this exercise routine lying down&nbsp;&nbsp;The TimesToo Exhausted to Exercise? You Can Do This 10-Minute Workout Lying Down.&nbsp;&nbsp;Outside MagazineA 10-minute daily exercise program done lying down improved participants' balance, flexibility and agility within just two weeks",
-      "sources": [
-        {
-          "name": "Medical News Today",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTWNISklldmpOSmw1eFV5bUlTMDBkUlAyNnNtRWl4cExKVjFnQUZjR0pCR0ZiNmRFTmdzNkppNDBGVmF6VW1fZndtcXhNRWJXV1FKSDYzTzhSejVYRk5Ta200Um4wUzZFeWlyVUhJM1VCM0dmZG96Tk0xTGU2MXJtcjMxY0V6b2VYMUstSWVfRVU1c1huNXpoZjhZQTZVVVlVQjdGamRDMExMbGs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e4e1b9e78621",
-      "title": "Pink rocks found in Antarctica lead to the discovery of an enormous structure under the ice - Earth.com",
-      "published": "2026-04-30T07:00:00+00:00",
-      "summary": "Pink rocks found in Antarctica lead to the discovery of an enormous structure under the ice&nbsp;&nbsp;Earth.comA robotic submarine ventures 27 days beneath an Antarctic ice shelf, discovers “impossible” structures hidden 11 miles beneath the ice, and then disappears without a trace&nbsp;&nbsp;OkDiario",
-      "sources": [
-        {
-          "name": "Earth.com",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOG9qbUd1UXV4am9mWnhrWi1pWmsxTnVvMUFia3lGTjMyRlRRSnYtcXB2RWs2eWdQY2R5NkJpR2VxT0JrTk4yZmtsQXZvSXo5c2drMjlzck9KTVltdnhrSVd0V1BocVZZYXpXV3o4ZFYzd2kwRWRYS3VzU1pyWW94YVpQYXg0Z0R2U0dxbWRyQWFXNHMyNnRWMG5QRHVmOGhKbTlSSURkRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f922e7c3c446",
-      "title": "Pervasive and programmed nucleosome distortion on single chromatin fibres - Nature",
-      "published": "2026-04-30T06:15:30+00:00",
-      "summary": "Pervasive and programmed nucleosome distortion on single chromatin fibres&nbsp;&nbsp;NatureAI discovery reveals DNA isn't locked away in cells after all&nbsp;&nbsp;Phys.orgAI tool reveals DNA exists in partially open states&nbsp;&nbsp;Drug Target Review",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sNUJqcTRnRTFIX3FEMm41QnJLRFVnOGtseGRKS05tMXp2SS1oR1JBbUs3MWhOSTFyZzV6SnVtbUtTNkRZdW1SM01EV1ptMk5KMDZvd3pjS3JSR3BGU2tR?oc=5"
+          "name": "Space",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNMC1veTBwblRhd2hTejhOcnZnS2pPWEwyVFFIS0I1YVFtYVBhWWwyVnRKbV85QTNMcHdUV3p5YUNuTFVkclRreXZYSXFWajFtbDdPbjdaZVdkRTluWDNTWEhkcXJRWXdfcTZWXzc0bHUtYWNjb0g0eFRWMkdYU1pLTE5jQnFNNk5xaDdfdnJIcDVEYTJLLUc5MzFmYmZCZGloSmVzWXpzME1ZSUZabktSY1U5dktOZllkZXZqWHZxaDRHZDROVFNKWVJiWjdvNWg0U1BzOXVhNUdVaHViV05YTjA3ZElGWHRqVTFsNHAxMTRYdEF6UGVEVEtwZ0k4QnRLTG9RYUgxV0Rha2t2akFjTg?oc=5"
         }
       ]
     },
@@ -861,7 +861,7 @@
       "id": "2c729f9e9953",
       "title": "Breakthrough to Restore Aging Joints Could Help Treat Osteoarthritis - ScienceAlert",
       "published": "2026-04-24T07:00:00+00:00",
-      "summary": "Breakthrough to Restore Aging Joints Could Help Treat Osteoarthritis&nbsp;&nbsp;ScienceAlertNew Approaches to Joint Repair for Osteoarthritis Patients&nbsp;&nbsp;Duke TodayScientists Identify Protein Behind Ageing Joints In Arthritis Breakthrough&nbsp;&nbsp;NDTVOsteoarthritis Treatments That Ease Symptoms—Plus a Breakthrough Remedy&nbsp;&nbsp;Woman's WorldFrom “worn-out knees” to “knees that heal”: the breakthrough from Stanford involving a protein called 15-PGDH and elderly mice that regained t",
+      "summary": "Breakthrough to Restore Aging Joints Could Help Treat Osteoarthritis&nbsp;&nbsp;ScienceAlertNew Approaches to Joint Repair for Osteoarthritis Patients&nbsp;&nbsp;Duke TodayScientists Identify Protein Behind Ageing Joints In Arthritis Breakthrough&nbsp;&nbsp;NDTVOsteoarthritis Treatments That Ease Symptoms, Plus a Promising Remedy That May Repair Joint Damage&nbsp;&nbsp;Woman's WorldFrom “worn-out knees” to “knees that heal”: the breakthrough from Stanford involving a protein called 15-PGDH and e",
       "sources": [
         {
           "name": "ScienceAlert",

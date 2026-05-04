@@ -1,7 +1,3052 @@
 {
-  "total": 944,
-  "generated_at": "2026-05-04T03:23:06.189835",
+  "total": 1387,
+  "generated_at": "2026-05-04T14:04:49.260308",
   "drugs": [
+    {
+      "name": "1 2-Distearoyl-Sn-Glycero-3-Phosphocholine Activat",
+      "file": "1_2-distearoyl-sn-glycero-3-phosphocholine_activat.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "1 2-Distearoyl-Sn-Glycero-3-Phosphocholine Berberi",
+      "file": "1_2-distearoyl-sn-glycero-3-phosphocholine_berberi.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "1 2-Docosahexanoyl-Sn-Glycero-3-Phosphoserine Calc",
+      "file": "1_2-docosahexanoyl-sn-glycero-3-phosphoserine_calc.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "1 2-Naphthoquinone Aconitic Acid Arsenic Citric Ac",
+      "file": "1_2-naphthoquinone_aconitic_acid_arsenic_citric_ac.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "1 3-Bisurea Colchicum Autumnale Bulb Ferrosoferric",
+      "file": "1_3-bisurea_colchicum_autumnale_bulb_ferrosoferric.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "1 3-Bisurea Daphne Mezereum Bark Goldenseal Nitric",
+      "file": "1_3-bisurea_daphne_mezereum_bark_goldenseal_nitric.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "1 4-Naphthoquinone Aconitic Acid - Anhydrous Citri",
+      "file": "1_4-naphthoquinone_aconitic_acid_-_anhydrous_citri.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "2-Butoxyethyl Laurate Chelidonium Majus Whole Gels",
+      "file": "2-butoxyethyl_laurate_chelidonium_majus_whole_gels.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "2-Mercaptoethanol Borosilicate Glass Carbon Monoxi",
+      "file": "2-mercaptoethanol_borosilicate_glass_carbon_monoxi.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aconitum Napel",
+      "file": "2_3_7_8-tetrachlorodibenzo-p-dioxin_aconitum_napel.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aluminum Arcti",
+      "file": "2_3_7_8-tetrachlorodibenzo-p-dioxin_aluminum_arcti.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aluminum Oxide",
+      "file": "2_3_7_8-tetrachlorodibenzo-p-dioxin_aluminum_oxide.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Bromine Chlori",
+      "file": "2_3_7_8-tetrachlorodibenzo-p-dioxin_bromine_chlori.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "2 5-Piperazinedione Arnica Montana Whole Aspartic",
+      "file": "2_5-piperazinedione_arnica_montana_whole_aspartic_.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "3-Hydroxy-1-Methylguanine Calcium Sulfide Creatine",
+      "file": "3-hydroxy-1-methylguanine_calcium_sulfide_creatine.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "3-Methylcholanthrene Anthracene Benzopyrene Black",
+      "file": "3-methylcholanthrene_anthracene_benzopyrene_black_.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "3-O-Ethyl Ascorbic Acid Allantoin Hippophae Rhamno",
+      "file": "3-o-ethyl_ascorbic_acid_allantoin_hippophae_rhamno.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "3 -Methylphthalanilic Acid Berberis Vulgaris Root",
+      "file": "3_-methylphthalanilic_acid_berberis_vulgaris_root_.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "3 3 -Diindolylmethane Adenosine Triphosphate Disod",
+      "file": "3_3_-diindolylmethane_adenosine_triphosphate_disod.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "4-Methylbenzylidene Camphor Ethylhexyl Methoxycinn",
+      "file": "4-methylbenzylidene_camphor_ethylhexyl_methoxycinn.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "5-Hydroxytryptophan Dl- Alfalfa Avena Sativa Flowe",
+      "file": "5-hydroxytryptophan_dl-_alfalfa_avena_sativa_flowe.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "7-Keto-Dehydroepiandrosterone Acetaldehyde Aldoste",
+      "file": "7-keto-dehydroepiandrosterone_acetaldehyde_aldoste.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "7-Keto-Dehydroepiandrosterone Adenosine Triphospha",
+      "file": "7-keto-dehydroepiandrosterone_adenosine_triphospha.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "7-Oxodehydroepiandrosterone 3-Acetate Adenosine Tr",
+      "file": "7-oxodehydroepiandrosterone_3-acetate_adenosine_tr.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "7-Oxodehydroepiandrosterone 3-Acetate Conium Macul",
+      "file": "7-oxodehydroepiandrosterone_3-acetate_conium_macul.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": "無（TxGNN 未產生預測結果）"
+    },
+    {
+      "name": "Abacavir",
+      "file": "abacavir.md",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Abacavir Sulfate Dolutegravir Sodium Lamivudine",
+      "file": "abacavir_sulfate_dolutegravir_sodium_lamivudine.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Abacavir Sulfate Lamivudine",
+      "file": "abacavir_sulfate_lamivudine.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Abacavir Sulfate Lamivudine Zidovudine",
+      "file": "abacavir_sulfate_lamivudine_zidovudine.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Abaloparatide",
+      "file": "abaloparatide.md",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Abatacept",
+      "file": "abatacept.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Abelmoschus Moschatus Flower Aesculus Hippocastanu",
+      "file": "abelmoschus_moschatus_flower_aesculus_hippocastanu.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Abemaciclib",
+      "file": "abemaciclib.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Abies Alba Leafy Twig Beef Lung Bos Taurus Nasal M",
+      "file": "abies_alba_leafy_twig_beef_lung_bos_taurus_nasal_m.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Abies Alba Leafy Twig Bos Taurus Gallstone Calcium",
+      "file": "abies_alba_leafy_twig_bos_taurus_gallstone_calcium.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Abies Balsamea Leaf Oil Acer Pensylvanicum Whole A",
+      "file": "abies_balsamea_leaf_oil_acer_pensylvanicum_whole_a.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Abies Balsamea Leaf Oil Alnus Rhombifolia Bark Ama",
+      "file": "abies_balsamea_leaf_oil_alnus_rhombifolia_bark_ama.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Abiraterone",
+      "file": "abiraterone.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Abiraterone Acetate Niraparib Tosylate Monohydrate",
+      "file": "abiraterone_acetate_niraparib_tosylate_monohydrate.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Abrus Precatorius Seed Aconitum Napellus Aethusa C",
+      "file": "abrus_precatorius_seed_aconitum_napellus_aethusa_c.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Abrus Precatorius Seed Aconitum Napellus Allylthio",
+      "file": "abrus_precatorius_seed_aconitum_napellus_allylthio.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Abutilon Theophrasti Seed Aconitum Carmichaeli Lat",
+      "file": "abutilon_theophrasti_seed_aconitum_carmichaeli_lat.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acacia Amaranthus Hybridus Leaf Amaranthus Tubercu",
+      "file": "acacia_amaranthus_hybridus_leaf_amaranthus_tubercu.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acacia Barium Carbonate Borage Oil Fucus Vesiculos",
+      "file": "acacia_barium_carbonate_borage_oil_fucus_vesiculos.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acacia Bay Leaf Beef Liver Black Pepper Corticotro",
+      "file": "acacia_bay_leaf_beef_liver_black_pepper_corticotro.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acacia Dealbata Pollen Acer Negundo Pollen Acer Sa",
+      "file": "acacia_dealbata_pollen_acer_negundo_pollen_acer_sa.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acacia Pollen Acer Negundo Pollen Acer Rubrum Poll",
+      "file": "acacia_pollen_acer_negundo_pollen_acer_rubrum_poll.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acacia Pollen Acer Negundo Pollen Agrostis Gigante",
+      "file": "acacia_pollen_acer_negundo_pollen_agrostis_gigante.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acacia Pollen Agrostis Gigantea Pollen Ailanthus A",
+      "file": "acacia_pollen_agrostis_gigantea_pollen_ailanthus_a.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acacia Pollen Alnus Incana Subsp Rugosa Pollen Aln",
+      "file": "acacia_pollen_alnus_incana_subsp_rugosa_pollen_aln.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acalabrutinib",
+      "file": "acalabrutinib.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acamprosate Calcium",
+      "file": "acamprosate_calcium.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acarbose",
+      "file": "acarbose.md",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acebutolol",
+      "file": "acebutolol.md",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aceclidine",
+      "file": "aceclidine.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acer Negundo Pollen Acer Pseudoplatanus Pollen Act",
+      "file": "acer_negundo_pollen_acer_pseudoplatanus_pollen_act.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acer Negundo Pollen Acer Rubrum Pollen Acer Saccha",
+      "file": "acer_negundo_pollen_acer_rubrum_pollen_acer_saccha.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acer Negundo Pollen Acer Rubrum Pollen Arsenic Tri",
+      "file": "acer_negundo_pollen_acer_rubrum_pollen_arsenic_tri.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acer Negundo Pollen Acer Saccharum Pollen Agrostis",
+      "file": "acer_negundo_pollen_acer_saccharum_pollen_agrostis.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acer Negundo Pollen Acer Saccharum Pollen Ailanthu",
+      "file": "acer_negundo_pollen_acer_saccharum_pollen_ailanthu.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acer Negundo Root Bark Amaranthus Hybridus Leaf Am",
+      "file": "acer_negundo_root_bark_amaranthus_hybridus_leaf_am.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acer Negundo Whole Beta Vulgaris Calcium Fluoride",
+      "file": "acer_negundo_whole_beta_vulgaris_calcium_fluoride_.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acer Nigrum Whole Aesculus Hippocastanum Flower Al",
+      "file": "acer_nigrum_whole_aesculus_hippocastanum_flower_al.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acer Rubrum Pollen Acer Saccharinum Pollen Acer Sa",
+      "file": "acer_rubrum_pollen_acer_saccharinum_pollen_acer_sa.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acer Rubrum Pollen Acer Saccharum Pollen Agrostis",
+      "file": "acer_rubrum_pollen_acer_saccharum_pollen_agrostis_.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acer Saccharinum Pollen",
+      "file": "acer_saccharinum_pollen.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acer Saccharinum Pollen Alnus Rhombifolia Pollen B",
+      "file": "acer_saccharinum_pollen_alnus_rhombifolia_pollen_b.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acer Saccharum Pollen Alnus Rubra Pollen Anthoxant",
+      "file": "acer_saccharum_pollen_alnus_rubra_pollen_anthoxant.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acer Saccharum Pollen Alnus Rubra Pollen Beef Live",
+      "file": "acer_saccharum_pollen_alnus_rubra_pollen_beef_live.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acer Saccharum Sap Adenosine Triphosphate Disodium",
+      "file": "acer_saccharum_sap_adenosine_triphosphate_disodium.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acerola Amanita Muscaria Fruiting Body Ascorbic Ac",
+      "file": "acerola_amanita_muscaria_fruiting_body_ascorbic_ac.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaldehyde",
+      "file": "acetaldehyde.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaldehyde Acetic Acid Alpine Strawberry Anhydro",
+      "file": "acetaldehyde_acetic_acid_alpine_strawberry_anhydro.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaldehyde Acetone Amaryllis Belladonna Whole Be",
+      "file": "acetaldehyde_acetone_amaryllis_belladonna_whole_be.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaldehyde Aconitum Napellus Whole Arnica Montan",
+      "file": "acetaldehyde_aconitum_napellus_whole_arnica_montan.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaldehyde Activated Charcoal Arsenic Trioxide C",
+      "file": "acetaldehyde_activated_charcoal_arsenic_trioxide_c.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaldehyde Adenosine Triphosphate Disodium Allox",
+      "file": "acetaldehyde_adenosine_triphosphate_disodium_allox.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaldehyde Agathosma Betulina Leaf Apis Mellifer",
+      "file": "acetaldehyde_agathosma_betulina_leaf_apis_mellifer.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaldehyde Alcaligenes Faecalis Candida Albicans",
+      "file": "acetaldehyde_alcaligenes_faecalis_candida_albicans.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaldehyde Anhydrous Citric Acid Arabica Coffee",
+      "file": "acetaldehyde_anhydrous_citric_acid_arabica_coffee_.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaldehyde Berberis Vulgaris Root Bark Caffeine",
+      "file": "acetaldehyde_berberis_vulgaris_root_bark_caffeine_.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaminophen",
+      "file": "acetaminophen.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaminophen Aspirin",
+      "file": "acetaminophen_aspirin.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaminophen Aspirin Caffeine",
+      "file": "acetaminophen_aspirin_caffeine.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaminophen Aspirin Diphenhydramine",
+      "file": "acetaminophen_aspirin_diphenhydramine.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaminophen Benzhydrocodone",
+      "file": "acetaminophen_benzhydrocodone.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaminophen Butalbital",
+      "file": "acetaminophen_butalbital.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaminophen Butalbital Caffeine",
+      "file": "acetaminophen_butalbital_caffeine.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaminophen Butalbital Caffeine Codeine",
+      "file": "acetaminophen_butalbital_caffeine_codeine.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaminophen Caffeine",
+      "file": "acetaminophen_caffeine.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaminophen Caffeine Dihydrocodeine Bitartrate",
+      "file": "acetaminophen_caffeine_dihydrocodeine_bitartrate.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaminophen Caffeine Pyrilamine",
+      "file": "acetaminophen_caffeine_pyrilamine.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaminophen Chlorpheniramine",
+      "file": "acetaminophen_chlorpheniramine.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": "無（TxGNN 未產生預測）"
+    },
+    {
+      "name": "Acetaminophen Chlorpheniramine Maleate Dextrometho",
+      "file": "acetaminophen_chlorpheniramine_maleate_dextrometho.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaminophen Chlorpheniramine Maleate Jujube Frui",
+      "file": "acetaminophen_chlorpheniramine_maleate_jujube_frui.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaminophen Chlorpheniramine Maleate Phenylephri",
+      "file": "acetaminophen_chlorpheniramine_maleate_phenylephri.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaminophen Cinnamon",
+      "file": "acetaminophen_cinnamon.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaminophen Codeine",
+      "file": "acetaminophen_codeine.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaminophen Dexbrompheniramine",
+      "file": "acetaminophen_dexbrompheniramine.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaminophen Dextromethorphan Hydrobromide",
+      "file": "acetaminophen_dextromethorphan_hydrobromide.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaminophen Dextromethorphan Hydrobromide Diphen",
+      "file": "acetaminophen_dextromethorphan_hydrobromide_diphen.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaminophen Dextromethorphan Hydrobromide Doxyla",
+      "file": "acetaminophen_dextromethorphan_hydrobromide_doxyla.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaminophen Dextromethorphan Hydrobromide Guaife",
+      "file": "acetaminophen_dextromethorphan_hydrobromide_guaife.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaminophen Dextromethorphan Hydrobromide Lonice",
+      "file": "acetaminophen_dextromethorphan_hydrobromide_lonice.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaminophen Dextromethorphan Hydrobromide Phenyl",
+      "file": "acetaminophen_dextromethorphan_hydrobromide_phenyl.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaminophen Dextromethorphan Hydrobromide Pseudo",
+      "file": "acetaminophen_dextromethorphan_hydrobromide_pseudo.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaminophen Dextromethorphan Hydrobromide Saposh",
+      "file": "acetaminophen_dextromethorphan_hydrobromide_saposh.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaminophen Dextromethorphan Hydrobromide Tripro",
+      "file": "acetaminophen_dextromethorphan_hydrobromide_tripro.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetazolamide",
+      "file": "acetazolamide.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetic Acid",
+      "file": "acetic_acid.md",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetohydroxamic Acid",
+      "file": "acetohydroxamic_acid.md",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetylcysteine",
+      "file": "acetylcysteine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acitretin",
+      "file": "acitretin.md",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aconitum Napellus Whole Arabica Coffee Bean Arseni",
+      "file": "aconitum_napellus_whole_arabica_coffee_bean_arseni.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aconitum Napellus Whole Arsenic Trioxide Baptisia",
+      "file": "aconitum_napellus_whole_arsenic_trioxide_baptisia_.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aconitum Napellus Whole Arsenic Trioxide Datura St",
+      "file": "aconitum_napellus_whole_arsenic_trioxide_datura_st.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aconitum Napellus Whole Asclepias Tuberosa Floweri",
+      "file": "aconitum_napellus_whole_asclepias_tuberosa_floweri.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aconitum Napellus Whole Atropa Belladonna Bryonia",
+      "file": "aconitum_napellus_whole_atropa_belladonna_bryonia_.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aconitum Napellus Whole Atropa Belladonna Dibasic",
+      "file": "aconitum_napellus_whole_atropa_belladonna_dibasic_.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aconitum Napellus Whole Black Cohosh Camphor Datur",
+      "file": "aconitum_napellus_whole_black_cohosh_camphor_datur.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aconitum Napellus Whole Bryonia Alba Root Cairina",
+      "file": "aconitum_napellus_whole_bryonia_alba_root_cairina_.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aconitum Napellus Whole Bryonia Alba Root Eucalypt",
+      "file": "aconitum_napellus_whole_bryonia_alba_root_eucalypt.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aconitum Napellus Whole Bryonia Alba Root Ferrosof",
+      "file": "aconitum_napellus_whole_bryonia_alba_root_ferrosof.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": "無（TxGNN 無法產生預測）"
+    },
+    {
+      "name": "Aconitum Napellus Whole Bryonia Alba Root Gelsemiu",
+      "file": "aconitum_napellus_whole_bryonia_alba_root_gelsemiu.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aconitum Napellus Whole Causticum Coffea Arabica S",
+      "file": "aconitum_napellus_whole_causticum_coffea_arabica_s.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aconitum Napellus Whole Eucalyptus Globulus Leaf I",
+      "file": "aconitum_napellus_whole_eucalyptus_globulus_leaf_i.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aconitum Napellus Whole Eupatorium Perfoliatum Flo",
+      "file": "aconitum_napellus_whole_eupatorium_perfoliatum_flo.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aconitum Napellus Whole Fagopyrum Esculentum Whole",
+      "file": "aconitum_napellus_whole_fagopyrum_esculentum_whole.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aconitum Napellus Whole Magnesium Phosphate Dibasi",
+      "file": "aconitum_napellus_whole_magnesium_phosphate_dibasi.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acorus Calamus Whole Citrullus Colocynthis Fruit P",
+      "file": "acorus_calamus_whole_citrullus_colocynthis_fruit_p.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Actaea Cimicifuga Root Arnica Angustifolia Flower",
+      "file": "actaea_cimicifuga_root_arnica_angustifolia_flower_.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Actaea Cimicifuga Root Atropa Belladonna Bryonia A",
+      "file": "actaea_cimicifuga_root_atropa_belladonna_bryonia_a.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Actaea Cimicifuga Whole Calcium Hexafluorosilicate",
+      "file": "actaea_cimicifuga_whole_calcium_hexafluorosilicate.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Actaea Racemosa Whole Apis Mellifera Graphite Oyst",
+      "file": "actaea_racemosa_whole_apis_mellifera_graphite_oyst.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Actaea Spicata Root Aloe Copper Cupric Arsenite Fr",
+      "file": "actaea_spicata_root_aloe_copper_cupric_arsenite_fr.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Actaea Spicata Root Althaea Officinalis Root Arnic",
+      "file": "actaea_spicata_root_althaea_officinalis_root_arnic.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Actaea Spicata Root Ammonium Benzoate Arnica Monta",
+      "file": "actaea_spicata_root_ammonium_benzoate_arnica_monta.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Actaea Spicata Root Anagallis Arvensis Argemone Me",
+      "file": "actaea_spicata_root_anagallis_arvensis_argemone_me.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Actaea Spicata Root Antimony Trisulfide Arnica Mon",
+      "file": "actaea_spicata_root_antimony_trisulfide_arnica_mon.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Actaea Spicata Root Arnica Montana Caulophyllum Th",
+      "file": "actaea_spicata_root_arnica_montana_caulophyllum_th.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": "無（TxGNN 無輸出）"
+    },
+    {
+      "name": "Activated Charcoal",
+      "file": "activated_charcoal.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Aesculus Hippocastanum Bark Ant",
+      "file": "activated_charcoal_aesculus_hippocastanum_bark_ant.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Aesculus Hippocastanum Flower A",
+      "file": "activated_charcoal_aesculus_hippocastanum_flower_a.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Aethusa Cynapium Althaea Offici",
+      "file": "activated_charcoal_aethusa_cynapium_althaea_offici.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Aethusa Cynapium Antimony Potas",
+      "file": "activated_charcoal_aethusa_cynapium_antimony_potas.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Aethusa Cynapium Apomorphine Hy",
+      "file": "activated_charcoal_aethusa_cynapium_apomorphine_hy.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Alcohol X-Ray Exposed Aluminum",
+      "file": "activated_charcoal_alcohol_x-ray_exposed_aluminum_.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Alfalfa American Ginseng Aspara",
+      "file": "activated_charcoal_alfalfa_american_ginseng_aspara.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Alfalfa Antimony Trisulfide Ave",
+      "file": "activated_charcoal_alfalfa_antimony_trisulfide_ave.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Almond Ambrosia Artemisiifolia",
+      "file": "activated_charcoal_almond_ambrosia_artemisiifolia_.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Aloe Aluminum Oxide Bryonia Alb",
+      "file": "activated_charcoal_aloe_aluminum_oxide_bryonia_alb.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": "無（TxGNN 未產生預測）"
+    },
+    {
+      "name": "Activated Charcoal Aloe Antimony Trisulfide Astacu",
+      "file": "activated_charcoal_aloe_antimony_trisulfide_astacu.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Aloe Carbo Animalis Hamamelis V",
+      "file": "activated_charcoal_aloe_carbo_animalis_hamamelis_v.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Aloe Causticum Chelidonium Maju",
+      "file": "activated_charcoal_aloe_causticum_chelidonium_maju.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Aloe Citrullus Colocynthis Frui",
+      "file": "activated_charcoal_aloe_citrullus_colocynthis_frui.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Ambergris Ammonium Chloride Arn",
+      "file": "activated_charcoal_ambergris_ammonium_chloride_arn.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Ambrosia Artemisiifolia Arsenic",
+      "file": "activated_charcoal_ambrosia_artemisiifolia_arsenic.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Ambrosia Artemisiifolia Whole E",
+      "file": "activated_charcoal_ambrosia_artemisiifolia_whole_e.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal American Ginseng Aviscumine Gal",
+      "file": "activated_charcoal_american_ginseng_aviscumine_gal.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Ammi Visnaga Fruit Carbo Animal",
+      "file": "activated_charcoal_ammi_visnaga_fruit_carbo_animal.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Ammonium Carbonate Antimony Ars",
+      "file": "activated_charcoal_ammonium_carbonate_antimony_ars.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Ammonium Carbonate Camphor Crot",
+      "file": "activated_charcoal_ammonium_carbonate_camphor_crot.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Ammonium Phosphate Dibasic Amoe",
+      "file": "activated_charcoal_ammonium_phosphate_dibasic_amoe.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Anamirta Cocculus Seed Apis Mel",
+      "file": "activated_charcoal_anamirta_cocculus_seed_apis_mel.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Anamirta Cocculus Seed Arbutus",
+      "file": "activated_charcoal_anamirta_cocculus_seed_arbutus_.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Anemone Pratensis Arsenic Triio",
+      "file": "activated_charcoal_anemone_pratensis_arsenic_triio.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Anemone Pulsatilla Antimony Tri",
+      "file": "activated_charcoal_anemone_pulsatilla_antimony_tri.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Anemone Pulsatilla Calcium Fluo",
+      "file": "activated_charcoal_anemone_pulsatilla_calcium_fluo.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Anhydrous Dibasic Calcium Phosp",
+      "file": "activated_charcoal_anhydrous_dibasic_calcium_phosp.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Antimony Arsenate Bryonia Alba",
+      "file": "activated_charcoal_antimony_arsenate_bryonia_alba_.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Antimony Trisulfide Apis Mellif",
+      "file": "activated_charcoal_antimony_trisulfide_apis_mellif.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Antimony Trisulfide Arctium Lap",
+      "file": "activated_charcoal_antimony_trisulfide_arctium_lap.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Antimony Trisulfide Arsenic Tri",
+      "file": "activated_charcoal_antimony_trisulfide_arsenic_tri.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Antimony Trisulfide Asafetida C",
+      "file": "activated_charcoal_antimony_trisulfide_asafetida_c.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Antimony Trisulfide Bismuth Sub",
+      "file": "activated_charcoal_antimony_trisulfide_bismuth_sub.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Antimony Trisulfide Cajuput Oil",
+      "file": "activated_charcoal_antimony_trisulfide_cajuput_oil.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Antimony Trisulfide Calcium Sul",
+      "file": "activated_charcoal_antimony_trisulfide_calcium_sul.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Antimony Trisulfide Cinchona Of",
+      "file": "activated_charcoal_antimony_trisulfide_cinchona_of.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Apis Mellifera Arsenic Trioxide",
+      "file": "activated_charcoal_apis_mellifera_arsenic_trioxide.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Apis Mellifera Artemisia Cina P",
+      "file": "activated_charcoal_apis_mellifera_artemisia_cina_p.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Apis Mellifera Bos Taurus Pitui",
+      "file": "activated_charcoal_apis_mellifera_bos_taurus_pitui.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Apple Atlantic Cod Atlantic Sal",
+      "file": "activated_charcoal_apple_atlantic_cod_atlantic_sal.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Arabica Coffee Bean Causticum E",
+      "file": "activated_charcoal_arabica_coffee_bean_causticum_e.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Araneus Diadematus Arsenic Trii",
+      "file": "activated_charcoal_araneus_diadematus_arsenic_trii.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Araneus Diadematus Artemisia Ci",
+      "file": "activated_charcoal_araneus_diadematus_artemisia_ci.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Arctium Lappa Root Bos Taurus C",
+      "file": "activated_charcoal_arctium_lappa_root_bos_taurus_c.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Arginine Bos Taurus Hypothalamu",
+      "file": "activated_charcoal_arginine_bos_taurus_hypothalamu.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Arnica Montana Cicuta Virosa Ro",
+      "file": "activated_charcoal_arnica_montana_cicuta_virosa_ro.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Arnica Montana Root Gold Trichl",
+      "file": "activated_charcoal_arnica_montana_root_gold_trichl.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Arnica Montana Root Lachesis Mu",
+      "file": "activated_charcoal_arnica_montana_root_lachesis_mu.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Arnica Montana Whole Arsenic Tr",
+      "file": "activated_charcoal_arnica_montana_whole_arsenic_tr.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Arnica Montana Whole Collinsoni",
+      "file": "activated_charcoal_arnica_montana_whole_collinsoni.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Arsenic Triiodide Arsenic Triox",
+      "file": "activated_charcoal_arsenic_triiodide_arsenic_triox.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Arsenic Triiodide Beef Lung Oen",
+      "file": "activated_charcoal_arsenic_triiodide_beef_lung_oen.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Arsenic Triiodide Causticum Cup",
+      "file": "activated_charcoal_arsenic_triiodide_causticum_cup.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Arsenic Triiodide Oenanthe Aqua",
+      "file": "activated_charcoal_arsenic_triiodide_oenanthe_aqua.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Activated Charcoal Arsenic Trioxide Atropa Bellado",
+      "file": "activated_charcoal_arsenic_trioxide_atropa_bellado.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acyclovir",
+      "file": "acyclovir.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Adalimumab",
+      "file": "adalimumab.md",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Adapalene",
+      "file": "adapalene.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Adefovir Dipivoxil",
+      "file": "adefovir_dipivoxil.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Adenine",
+      "file": "adenine.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Adenosine",
+      "file": "adenosine.md",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aflibercept",
+      "file": "aflibercept.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha -Tocopherol Acetate D- Ascorbic Acid Choleca",
+      "file": "alpha_-tocopherol_acetate_d-_ascorbic_acid_choleca.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha -Tocopherol Acetate D- Calcium Carbonate Cal",
+      "file": "alpha_-tocopherol_acetate_d-_calcium_carbonate_cal.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha -Tocopherol Acetate Dl- 5-Methyltetrahydrofo",
+      "file": "alpha_-tocopherol_acetate_dl-_5-methyltetrahydrofo.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha -Tocopherol Acetate Dl- Arginine Hydrochlori",
+      "file": "alpha_-tocopherol_acetate_dl-_arginine_hydrochlori.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": "無（TxGNN 未輸出預測結果）"
+    },
+    {
+      "name": "Alpha -Tocopherol Acetate Dl- Ascorbic Acid Beta C",
+      "file": "alpha_-tocopherol_acetate_dl-_ascorbic_acid_beta_c.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha -Tocopherol Acetate Dl- Ascorbic Acid Biotin",
+      "file": "alpha_-tocopherol_acetate_dl-_ascorbic_acid_biotin.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha -Tocopherol Acetate Dl- Ascorbic Acid Calciu",
+      "file": "alpha_-tocopherol_acetate_dl-_ascorbic_acid_calciu.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha -Tocopherol Acetate Dl- Ascorbic Acid Cholec",
+      "file": "alpha_-tocopherol_acetate_dl-_ascorbic_acid_cholec.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha -Tocopherol Acetate Dl- Ascorbic Acid Cyanoc",
+      "file": "alpha_-tocopherol_acetate_dl-_ascorbic_acid_cyanoc.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha -Tocopherol Acetate Dl- Beta -Carotene 5-Met",
+      "file": "alpha_-tocopherol_acetate_dl-_beta_-carotene_5-met.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha -Tocopherol Acetate Dl- Beta -Carotene Ascor",
+      "file": "alpha_-tocopherol_acetate_dl-_beta_-carotene_ascor.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha -Tocopherol Acetate Dl- Beta -Carotene Calci",
+      "file": "alpha_-tocopherol_acetate_dl-_beta_-carotene_calci.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha -Tocopherol Acetate Hydrogen Peroxide Silico",
+      "file": "alpha_-tocopherol_acetate_hydrogen_peroxide_silico.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha -Tocopherol Acetate Silicon Dioxide Sodium F",
+      "file": "alpha_-tocopherol_acetate_silicon_dioxide_sodium_f.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha -Tocopherol Acetate Silicon Dioxide Sodium P",
+      "file": "alpha_-tocopherol_acetate_silicon_dioxide_sodium_p.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha -Tocopherol Aloe Witch Hazel Zinc Oxide",
+      "file": "alpha_-tocopherol_aloe_witch_hazel_zinc_oxide.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha -Tocopherol Apple Cider Vinegar Arsenic Trio",
+      "file": "alpha_-tocopherol_apple_cider_vinegar_arsenic_trio.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha -Tocopherol Ascorbic Acid Aspirin Salix Alba",
+      "file": "alpha_-tocopherol_ascorbic_acid_aspirin_salix_alba.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha -Tocopherol Ascorbic Acid Banana Beta Carote",
+      "file": "alpha_-tocopherol_ascorbic_acid_banana_beta_carote.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": "**無**（TxGNN 無法映射，未產生預測）"
+    },
+    {
+      "name": "Alpha -Tocopherol Ascorbic Acid Beta Carotene Biot",
+      "file": "alpha_-tocopherol_ascorbic_acid_beta_carotene_biot.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha -Tocopherol Ascorbic Acid Beta Carotene Chol",
+      "file": "alpha_-tocopherol_ascorbic_acid_beta_carotene_chol.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha -Tocopherol Ascorbic Acid Biotin Calcium Car",
+      "file": "alpha_-tocopherol_ascorbic_acid_biotin_calcium_car.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha -Tocopherol Ascorbic Acid Copper Cyanocobala",
+      "file": "alpha_-tocopherol_ascorbic_acid_copper_cyanocobala.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha -Tocopherol Beta -Carotene American Ginseng",
+      "file": "alpha_-tocopherol_beta_-carotene_american_ginseng_.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha -Tocopherol Beta -Sitosterol Ascorbic Acid B",
+      "file": "alpha_-tocopherol_beta_-sitosterol_ascorbic_acid_b.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha -Tocopherol D- Cholecalciferol Cyanocobalami",
+      "file": "alpha_-tocopherol_d-_cholecalciferol_cyanocobalami.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha -Tocopherol Dl- Ascorbic Acid Calcium Format",
+      "file": "alpha_-tocopherol_dl-_ascorbic_acid_calcium_format.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha -Tocopherol Dl- Ascorbic Acid Cholecalcifero",
+      "file": "alpha_-tocopherol_dl-_ascorbic_acid_cholecalcifero.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha -Tocopherol Dl- Ergocalciferol Phytonadione",
+      "file": "alpha_-tocopherol_dl-_ergocalciferol_phytonadione_.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha -Tocopherol Hyaluronic Acid",
+      "file": "alpha_-tocopherol_hyaluronic_acid.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha -Tocopherol Succinate D- Alpha Lipoic Acid A",
+      "file": "alpha_-tocopherol_succinate_d-_alpha_lipoic_acid_a.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": "**無**（TxGNN 未產生預測）"
+    },
+    {
+      "name": "Alpha -Tocopherol Succinate D- Ascorbic Acid Chole",
+      "file": "alpha_-tocopherol_succinate_d-_ascorbic_acid_chole.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha -Tocopherol Tea Tree Oil",
+      "file": "alpha_-tocopherol_tea_tree_oil.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha Lipoic Acid Ammonium Bromide Ammonium Carbon",
+      "file": "alpha_lipoic_acid_ammonium_bromide_ammonium_carbon.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha Lipoic Acid Ammonium Chloride Berberis Vulga",
+      "file": "alpha_lipoic_acid_ammonium_chloride_berberis_vulga.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha Lipoic Acid Apiole Arnica Montana Whole Cinn",
+      "file": "alpha_lipoic_acid_apiole_arnica_montana_whole_cinn.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha Lipoic Acid Apis Mellifera Arnica Montana Wh",
+      "file": "alpha_lipoic_acid_apis_mellifera_arnica_montana_wh.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha Lipoic Acid Arnica Montana Whole Coenzyme A",
+      "file": "alpha_lipoic_acid_arnica_montana_whole_coenzyme_a_.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpha Lipoic Acid Cholesterol Cortisone Acetate Co",
+      "file": "alpha_lipoic_acid_cholesterol_cortisone_acetate_co.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alpine Strawberry Arsenic Trioxide Atropa Belladon",
+      "file": "alpine_strawberry_arsenic_trioxide_atropa_belladon.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Corn Silk Inula Helenium Root Sarsaparill",
+      "file": "aluminum_corn_silk_inula_helenium_root_sarsaparill.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Hydroxide Magnesium Carbonate Sodium Bica",
+      "file": "aluminum_hydroxide_magnesium_carbonate_sodium_bica.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Hydroxide Magnesium Hydroxide",
+      "file": "aluminum_hydroxide_magnesium_hydroxide.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Iodide",
+      "file": "aluminum_iodide.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Jateorhiza Calumba Root Onion Peumus Bold",
+      "file": "aluminum_jateorhiza_calumba_root_onion_peumus_bold.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Nitrate",
+      "file": "aluminum_nitrate.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Oxide",
+      "file": "aluminum_oxide.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Oxide Ambergris Barium Carbonate Chaste T",
+      "file": "aluminum_oxide_ambergris_barium_carbonate_chaste_t.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Oxide American Ginseng Anemone Pulsatilla",
+      "file": "aluminum_oxide_american_ginseng_anemone_pulsatilla.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Oxide Ammonium Carbonate Anacardium Occid",
+      "file": "aluminum_oxide_ammonium_carbonate_anacardium_occid.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Oxide Anemone Pratensis Beryllium Cadmium",
+      "file": "aluminum_oxide_anemone_pratensis_beryllium_cadmium.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Oxide Antimony Potassium Tartrate Baptisi",
+      "file": "aluminum_oxide_antimony_potassium_tartrate_baptisi.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Oxide Antimony Trisulfide Barium Carbonat",
+      "file": "aluminum_oxide_antimony_trisulfide_barium_carbonat.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Oxide Arctium Lappa Root Arsenic Trioxide",
+      "file": "aluminum_oxide_arctium_lappa_root_arsenic_trioxide.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Oxide Arsenic Trioxide Atropa Belladonna",
+      "file": "aluminum_oxide_arsenic_trioxide_atropa_belladonna_.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Oxide Arsenic Trioxide Cadmium Copper Lea",
+      "file": "aluminum_oxide_arsenic_trioxide_cadmium_copper_lea.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Oxide Arsenic Trioxide Calomel Chelidoniu",
+      "file": "aluminum_oxide_arsenic_trioxide_calomel_chelidoniu.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Oxide Barium Carbonate Carbon Disulfide C",
+      "file": "aluminum_oxide_barium_carbonate_carbon_disulfide_c.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Oxide Berberis Vulgaris Root Bark Bos Tau",
+      "file": "aluminum_oxide_berberis_vulgaris_root_bark_bos_tau.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Oxide Berberis Vulgaris Root Bark Caustic",
+      "file": "aluminum_oxide_berberis_vulgaris_root_bark_caustic.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Oxide Bryonia Alba Root Casanthranol Citr",
+      "file": "aluminum_oxide_bryonia_alba_root_casanthranol_citr.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Oxide Bryonia Alba Root Citrullus Colocyn",
+      "file": "aluminum_oxide_bryonia_alba_root_citrullus_colocyn.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Oxide Bryonia Alba Root Graphite Lead Lyc",
+      "file": "aluminum_oxide_bryonia_alba_root_graphite_lead_lyc.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Oxide Bryonia Alba Root Graphite Silicon",
+      "file": "aluminum_oxide_bryonia_alba_root_graphite_silicon_.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Oxide Bryonia Alba Root Horse Chestnut Ma",
+      "file": "aluminum_oxide_bryonia_alba_root_horse_chestnut_ma.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Oxide Calcium Silicate Ferrosoferric Phos",
+      "file": "aluminum_oxide_calcium_silicate_ferrosoferric_phos.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Oxide Calcium Silicate Iron Magnesium Sul",
+      "file": "aluminum_oxide_calcium_silicate_iron_magnesium_sul.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Oxide Calcium Silicate Magnesium Sulfate",
+      "file": "aluminum_oxide_calcium_silicate_magnesium_sulfate_.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Oxide Cassava Dioscorea Villosa Tuber Fra",
+      "file": "aluminum_oxide_cassava_dioscorea_villosa_tuber_fra.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Oxide Causticum Claviceps Purpurea Sclero",
+      "file": "aluminum_oxide_causticum_claviceps_purpurea_sclero.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Oxide Daphne Mezereum Bark Eclipta Prostr",
+      "file": "aluminum_oxide_daphne_mezereum_bark_eclipta_prostr.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Oxide Lead Mercuric Chloride Nickel Radiu",
+      "file": "aluminum_oxide_lead_mercuric_chloride_nickel_radiu.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Sesquichlorohydrate",
+      "file": "aluminum_sesquichlorohydrate.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Sulfate Tetradecahydrate Calcium Acetate",
+      "file": "aluminum_sulfate_tetradecahydrate_calcium_acetate_.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Zirconium Octachlorohydrate Anhydrous",
+      "file": "aluminum_zirconium_octachlorohydrate_anhydrous.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Zirconium Octachlorohydrex Gly",
+      "file": "aluminum_zirconium_octachlorohydrex_gly.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Zirconium Pentachlorohydrex Gly",
+      "file": "aluminum_zirconium_pentachlorohydrex_gly.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Zirconium Tetrachlorohydrex Gly",
+      "file": "aluminum_zirconium_tetrachlorohydrex_gly.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Zirconium Trichlorohydrate",
+      "file": "aluminum_zirconium_trichlorohydrate.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aluminum Zirconium Trichlorohydrex Gly",
+      "file": "aluminum_zirconium_trichlorohydrex_gly.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alvimopan",
+      "file": "alvimopan.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Amanita Muscaria Fruiting Body Ambergris Barium Ca",
+      "file": "amanita_muscaria_fruiting_body_ambergris_barium_ca.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Amanita Muscaria Fruiting Body American Ginseng Ch",
+      "file": "amanita_muscaria_fruiting_body_american_ginseng_ch.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Amanita Muscaria Fruiting Body Ammonium Carbonate",
+      "file": "amanita_muscaria_fruiting_body_ammonium_carbonate_.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Amanita Muscaria Fruiting Body Anamirta Cocculus S",
+      "file": "amanita_muscaria_fruiting_body_anamirta_cocculus_s.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Amanita Muscaria Fruiting Body Anemone Pulsatilla",
+      "file": "amanita_muscaria_fruiting_body_anemone_pulsatilla_.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Anamirta Cocculus Seed Chenopodium Ambrosioides Co",
+      "file": "anamirta_cocculus_seed_chenopodium_ambrosioides_co.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Anamirta Cocculus Seed Conium Maculatum Flowering",
+      "file": "anamirta_cocculus_seed_conium_maculatum_flowering_.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Anamirta Cocculus Seed Gelsemium Sempervirens Root",
+      "file": "anamirta_cocculus_seed_gelsemium_sempervirens_root.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Anamirta Cocculus Seed Ipecac Kerosene Strychnos N",
+      "file": "anamirta_cocculus_seed_ipecac_kerosene_strychnos_n.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Anamirta Cocculus Whole Asafetida Datura Stramoniu",
+      "file": "anamirta_cocculus_whole_asafetida_datura_stramoniu.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Anamirta Cocculus Whole Ascorbic Acid Chamaelirium",
+      "file": "anamirta_cocculus_whole_ascorbic_acid_chamaelirium.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Anamirta Cocculus Whole Datura Stramonium Ferula A",
+      "file": "anamirta_cocculus_whole_datura_stramonium_ferula_a.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Anas Platyrhynchos Feather Anemone Pulsatilla Anse",
+      "file": "anas_platyrhynchos_feather_anemone_pulsatilla_anse.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Anas Platyrhynchos Feather Anser Anser Feather Ars",
+      "file": "anas_platyrhynchos_feather_anser_anser_feather_ars.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Anas Platyrhynchos Feather Anser Anser Feather Bos",
+      "file": "anas_platyrhynchos_feather_anser_anser_feather_bos.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Anastrozole",
+      "file": "anastrozole.md",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Andexanet Alfa",
+      "file": "andexanet_alfa.md",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Androctonus Australis Whole Calcium Fluoride Viscu",
+      "file": "androctonus_australis_whole_calcium_fluoride_viscu.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Andrographis Paniculata Whole Baptisia Tinctoria R",
+      "file": "andrographis_paniculata_whole_baptisia_tinctoria_r.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Anemone Hepatica Var Obtusa Antimony Potassium Tar",
+      "file": "anemone_hepatica_var_obtusa_antimony_potassium_tar.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": "無（TxGNN 未產生預測）"
+    },
+    {
+      "name": "Anemone Patens Whole Apis Mellifera Carbon Disulfi",
+      "file": "anemone_patens_whole_apis_mellifera_carbon_disulfi.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Antimony Trisulfide Atropa Belladonna Calcium Fluo",
+      "file": "antimony_trisulfide_atropa_belladonna_calcium_fluo.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Antimony Trisulfide Barium Carbonate Bismuth Subni",
+      "file": "antimony_trisulfide_barium_carbonate_bismuth_subni.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Antimony Trisulfide Bay Leaf Frangula Alnus Bark J",
+      "file": "antimony_trisulfide_bay_leaf_frangula_alnus_bark_j.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Antimony Trisulfide Benzoic Acid Ledum Palustre Tw",
+      "file": "antimony_trisulfide_benzoic_acid_ledum_palustre_tw.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Antimony Trisulfide Berberis Vulgaris Root Bark Br",
+      "file": "antimony_trisulfide_berberis_vulgaris_root_bark_br.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Antimony Trisulfide Bordetella Pertussis Clostridi",
+      "file": "antimony_trisulfide_bordetella_pertussis_clostridi.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Antimony Trisulfide Bos Taurus Hypothalamus Fucus",
+      "file": "antimony_trisulfide_bos_taurus_hypothalamus_fucus_.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Antimony Trisulfide Bos Taurus Pancreas Corallium",
+      "file": "antimony_trisulfide_bos_taurus_pancreas_corallium_.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Antimony Trisulfide Bryonia Alba Root Causticum De",
+      "file": "antimony_trisulfide_bryonia_alba_root_causticum_de.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Antimony Trisulfide Calcium Sulfate Anhydrous Jugl",
+      "file": "antimony_trisulfide_calcium_sulfate_anhydrous_jugl.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Antimony Trisulfide Iris Germanica Root Pulsatilla",
+      "file": "antimony_trisulfide_iris_germanica_root_pulsatilla.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": "無（TxGNN 未產生預測）"
+    },
+    {
+      "name": "Antimony Trisulfide Iron Phosphorus Sulfur Theridi",
+      "file": "antimony_trisulfide_iron_phosphorus_sulfur_theridi.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Antipyrine Apis Mellifera Calendula Officinalis Fl",
+      "file": "antipyrine_apis_mellifera_calendula_officinalis_fl.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Antipyrine Arnica Montana Barium Carbonate Bismuth",
+      "file": "antipyrine_arnica_montana_barium_carbonate_bismuth.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Antirrhinum Majus Leaf Beef Liver C12-17 Alkane Ca",
+      "file": "antirrhinum_majus_leaf_beef_liver_c12-17_alkane_ca.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Apalutamide",
+      "file": "apalutamide.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Apis Cerana Whole Beef Liver Bombyx Mori Whole Bor",
+      "file": "apis_cerana_whole_beef_liver_bombyx_mori_whole_bor.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Apis Mellifera Apis Mellifera Venom Arsenic Trioxi",
+      "file": "apis_mellifera_apis_mellifera_venom_arsenic_trioxi.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Apis Mellifera Apis Mellifera Venom Euphorbia Resi",
+      "file": "apis_mellifera_apis_mellifera_venom_euphorbia_resi.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Apis Mellifera Apocynum Cannabinum Root Arsenic Tr",
+      "file": "apis_mellifera_apocynum_cannabinum_root_arsenic_tr.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Apis Mellifera Arabica Coffee Bean Arsenic Trioxid",
+      "file": "apis_mellifera_arabica_coffee_bean_arsenic_trioxid.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Apis Mellifera Aralia Racemosa Root Arundo Plinian",
+      "file": "apis_mellifera_aralia_racemosa_root_arundo_plinian.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Apis Mellifera Aralia Racemosa Root Ascorbic Acid",
+      "file": "apis_mellifera_aralia_racemosa_root_ascorbic_acid_.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Apis Mellifera Aralia Racemosa Root Blatta Orienta",
+      "file": "apis_mellifera_aralia_racemosa_root_blatta_orienta.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Apis Mellifera Araneus Diadematus Arnica Montana A",
+      "file": "apis_mellifera_araneus_diadematus_arnica_montana_a.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Apis Mellifera Araneus Diadematus Atropa Belladonn",
+      "file": "apis_mellifera_araneus_diadematus_atropa_belladonn.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Apis Mellifera Araneus Diadematus Barium Carbonate",
+      "file": "apis_mellifera_araneus_diadematus_barium_carbonate.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Apis Mellifera Araneus Diadematus Berberis Vulgari",
+      "file": "apis_mellifera_araneus_diadematus_berberis_vulgari.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Apis Mellifera Arctium Lappa Root Arctostaphylos U",
+      "file": "apis_mellifera_arctium_lappa_root_arctostaphylos_u.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Apis Mellifera Arctium Lappa Root Arsenic Trioxide",
+      "file": "apis_mellifera_arctium_lappa_root_arsenic_trioxide.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Apis Mellifera Arctostaphylos Uva-Ursi Leaf Arseni",
+      "file": "apis_mellifera_arctostaphylos_uva-ursi_leaf_arseni.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Apis Mellifera Arctostaphylos Uva-Ursi Leaf Aspara",
+      "file": "apis_mellifera_arctostaphylos_uva-ursi_leaf_aspara.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Apis Mellifera Arctostaphylos Uva-Ursi Leaf Atropa",
+      "file": "apis_mellifera_arctostaphylos_uva-ursi_leaf_atropa.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Apis Mellifera Arctostaphylos Uva-Ursi Leaf Berber",
+      "file": "apis_mellifera_arctostaphylos_uva-ursi_leaf_berber.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Apis Mellifera Arnica Montana Atropa Belladonna Be",
+      "file": "apis_mellifera_arnica_montana_atropa_belladonna_be.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Apis Mellifera Arnica Montana Atropa Belladonna Ca",
+      "file": "apis_mellifera_arnica_montana_atropa_belladonna_ca.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Apis Mellifera Arnica Montana Bellis Perennis Bryo",
+      "file": "apis_mellifera_arnica_montana_bellis_perennis_bryo.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Apis Mellifera Arnica Montana Benzoic Acid Caustic",
+      "file": "apis_mellifera_arnica_montana_benzoic_acid_caustic.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Arnica Montana Magnesium Sulfate Unspecified Witch",
+      "file": "arnica_montana_magnesium_sulfate_unspecified_witch.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Arnica Montana Root Artemisia Cina Flower Atropa B",
+      "file": "arnica_montana_root_artemisia_cina_flower_atropa_b.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": "無（TxGNN 未輸出預測結果）"
+    },
+    {
+      "name": "Arnica Montana Root Berberis Vulgaris Root Bark Br",
+      "file": "arnica_montana_root_berberis_vulgaris_root_bark_br.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Arnica Montana Root Calcium Fluoride Calcium Iodid",
+      "file": "arnica_montana_root_calcium_fluoride_calcium_iodid.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Arnica Montana Root Calcium Fluoride Calcium Phosp",
+      "file": "arnica_montana_root_calcium_fluoride_calcium_phosp.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Arnica Montana Root Calcium Phosphate Dibasic Anhy",
+      "file": "arnica_montana_root_calcium_phosphate_dibasic_anhy.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Arnica Montana Root Crataegus Fruit Ether Lilium L",
+      "file": "arnica_montana_root_crataegus_fruit_ether_lilium_l.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Arnica Montana Root Graphite Hypericum Perforatum",
+      "file": "arnica_montana_root_graphite_hypericum_perforatum_.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Arnica Montana Root Matricaria Recutita Tribasic C",
+      "file": "arnica_montana_root_matricaria_recutita_tribasic_c.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Arnica Montana Whole Arsenic Tribromide Arsenic Tr",
+      "file": "arnica_montana_whole_arsenic_tribromide_arsenic_tr.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Arnica Montana Whole Arsenic Trioxide Atropa Bella",
+      "file": "arnica_montana_whole_arsenic_trioxide_atropa_bella.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Arnica Montana Whole Arsenic Trioxide Avena Sativa",
+      "file": "arnica_montana_whole_arsenic_trioxide_avena_sativa.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Arnica Montana Whole Arsenic Trioxide Aviscumine B",
+      "file": "arnica_montana_whole_arsenic_trioxide_aviscumine_b.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Arnica Montana Whole Arsenic Trioxide Bos Taurus P",
+      "file": "arnica_montana_whole_arsenic_trioxide_bos_taurus_p.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": "無（TxGNN 未能生成預測）"
+    },
+    {
+      "name": "Arnica Montana Whole Arsenic Trioxide Digitalis Dr",
+      "file": "arnica_montana_whole_arsenic_trioxide_digitalis_dr.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Arnica Montana Whole Artemisia Abrotanum Flowering",
+      "file": "arnica_montana_whole_artemisia_abrotanum_flowering.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Asfotase Alfa",
+      "file": "asfotase_alfa.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Atazanavir",
+      "file": "atazanavir.md",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Atenolol",
+      "file": "atenolol.md",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Atezolizumab",
+      "file": "atezolizumab.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Atomoxetine",
+      "file": "atomoxetine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Atorvastatin",
+      "file": "atorvastatin.md",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Atracurium Besylate",
+      "file": "atracurium_besylate.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Atrasentan",
+      "file": "atrasentan.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Atropine",
+      "file": "atropine.md",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Auranofin",
+      "file": "auranofin.md",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Avapritinib",
+      "file": "avapritinib.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Avatrombopag",
+      "file": "avatrombopag.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Avelumab",
+      "file": "avelumab.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "Human Herpesvirus 8-Related Tumor"
+    },
+    {
+      "name": "Axitinib",
+      "file": "axitinib.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Azathioprine",
+      "file": "azathioprine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Aztreonam",
+      "file": "aztreonam.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Bacitracin",
+      "file": "bacitracin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Baclofen",
+      "file": "baclofen.md",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Baricitinib",
+      "file": "baricitinib.md",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Beclomethasone Dipropionate",
+      "file": "beclomethasone_dipropionate.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Belimumab",
+      "file": "belimumab.md",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Belinostat",
+      "file": "belinostat.md",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Bempedoic Acid",
+      "file": "bempedoic_acid.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Benazepril",
+      "file": "benazepril.md",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Bendamustine",
+      "file": "bendamustine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Benralizumab",
+      "file": "benralizumab.md",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Benznidazole",
+      "file": "benznidazole.md",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Benzocaine",
+      "file": "benzocaine.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Benzoic Acid",
+      "file": "benzoic_acid.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Benzonatate",
+      "file": "benzonatate.md",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Benzoyl Peroxide",
+      "file": "benzoyl_peroxide.md",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Benzphetamine",
+      "file": "benzphetamine.md",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Benzyl Alcohol",
+      "file": "benzyl_alcohol.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Besifloxacin",
+      "file": "besifloxacin.md",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Betaxolol",
+      "file": "betaxolol.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Bevacizumab",
+      "file": "bevacizumab.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Bexarotene",
+      "file": "bexarotene.md",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Bezlotoxumab",
+      "file": "bezlotoxumab.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Carteolol",
+      "file": "carteolol.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Carvedilol",
+      "file": "carvedilol.md",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Caspofungin",
+      "file": "caspofungin.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Cefazolin",
+      "file": "cefazolin.md",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Cefoxitin",
+      "file": "cefoxitin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Cefprozil",
+      "file": "cefprozil.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Ceftazidime",
+      "file": "ceftazidime.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Ceftriaxone",
+      "file": "ceftriaxone.md",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Cefuroxime",
+      "file": "cefuroxime.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Celecoxib",
+      "file": "celecoxib.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Cemiplimab",
+      "file": "cemiplimab.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Centella Asiatica",
+      "file": "centella_asiatica.md",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Ceritinib",
+      "file": "ceritinib.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Certolizumab Pegol",
+      "file": "certolizumab_pegol.md",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Cetirizine",
+      "file": "cetirizine.md",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Cetuximab",
+      "file": "cetuximab.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Cevimeline",
+      "file": "cevimeline.md",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Chlorambucil",
+      "file": "chlorambucil.md",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Chlordiazepoxide",
+      "file": "chlordiazepoxide.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Chloroprocaine",
+      "file": "chloroprocaine.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Chloroquine",
+      "file": "chloroquine.md",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Chlorpheniramine",
+      "file": "chlorpheniramine.md",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Chlorpromazine",
+      "file": "chlorpromazine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Chlorthalidone",
+      "file": "chlorthalidone.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Chlorzoxazone",
+      "file": "chlorzoxazone.md",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Cholecalciferol",
+      "file": "cholecalciferol.md",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Cholic Acid",
+      "file": "cholic_acid.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Ciclesonide",
+      "file": "ciclesonide.md",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Cidofovir",
+      "file": "cidofovir.md",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Cimetidine",
+      "file": "cimetidine.md",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Ciprofloxacin",
+      "file": "ciprofloxacin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Citalopram",
+      "file": "citalopram.md",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Cladribine",
+      "file": "cladribine.md",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Clarithromycin",
+      "file": "clarithromycin.md",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Clindamycin",
+      "file": "clindamycin.md",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Clobazam",
+      "file": "clobazam.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Clobetasol Propionate",
+      "file": "clobetasol_propionate.md",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "predicted_indication": ""
+    },
     {
       "name": "CETUXIMAB",
       "file": "db00002.md",
@@ -6608,6 +9653,62 @@
       "file": "db15598.md",
       "evidence_level": "L5",
       "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Erenumab",
+      "file": "erenumab.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Ergocalciferol",
+      "file": "ergocalciferol.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Ertapenem",
+      "file": "ertapenem.md",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Erythromycin",
+      "file": "erythromycin.md",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Esketamine",
+      "file": "esketamine.md",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Eslicarbazepine",
+      "file": "eslicarbazepine.md",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Esomeprazole",
+      "file": "esomeprazole.md",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Estazolam",
+      "file": "estazolam.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     }
   ]

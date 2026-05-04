@@ -1,10 +1,94 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-04T08:33:42.591050+00:00",
-  "total_fetched": 114,
-  "unique_count": 114,
+  "fetched_at": "2026-05-04T14:08:58.483417+00:00",
+  "total_fetched": 110,
+  "unique_count": 110,
   "health_related_count": 64,
   "news": [
+    {
+      "id": "2bfada346704",
+      "title": "Column | Can vaping cause cancer? The evidence suggests it might. - washingtonpost.com",
+      "published": "2026-05-04T13:33:19+00:00",
+      "summary": "Column | Can vaping cause cancer? The evidence suggests it might.&nbsp;&nbsp;washingtonpost.comA Beginner’s Guide To Newer Nicotine And Tobacco Products: Nicotine Pouches, Heated Tobacco And E-cigarettes (Vapes)&nbsp;&nbsp;OncodailyE-cigarettes: A modern fashion or a deadly trap&nbsp;&nbsp;Views BangladeshStudy links vaping to oral and lung cancers&nbsp;&nbsp;WILXAre the benefits of vaping worth the risks?&nbsp;&nbsp;The Post",
+      "sources": [
+        {
+          "name": "washingtonpost.com",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4teFAzRE5Bd3VrVnRXT3NvazRmLXRGNmlOS1E3alc4MDB5emJfdE5aemE5dFZ6ZFlERVh3b2FOUUdrbEhBQm13TUxBcU42YWlZR0haWndpTmR0WXRVRVQ0dVBVWjJyUElWOWoyZ28xbzZOZm40WEJnWVpn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d0c45b0e0ef3",
+      "title": "Patients say they want Alzheimer's blood tests. Doctors aren't sure they help. - AOL.com",
+      "published": "2026-05-04T13:21:31+00:00",
+      "summary": "Patients say they want Alzheimer's blood tests. Doctors aren't sure they help.&nbsp;&nbsp;AOL.comView Full Coverage on Google News",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0ZVRkQ2VvcjhNRDd4b1hEM1dJdUV5ZGxiQW5qVDZuNDg1VjlXYkJJV0Y5bEpCelFBTmdhV2ZWaF96Tk1rQTFVZFNRUi10UVh1RGtyM1RraXBMNUhmbTlvdkdWcURPdHYwZkIzSzJ4RG91ZDByUVFscWtn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bba277e0622a",
+      "title": "Warned off vaccine actions, Kennedy seeks quick health wins ahead of midterms - Reuters",
+      "published": "2026-05-04T13:17:52+00:00",
+      "summary": "Warned off vaccine actions, Kennedy seeks quick health wins ahead of midterms&nbsp;&nbsp;Reuters‘Christofascism’ is here: inside the slow demolition of US public health | Adrienne Matei&nbsp;&nbsp;The Guardian‘Make America Healthy Again’ is not making America healthier&nbsp;&nbsp;The Durango HeraldHas RFK Delivered On MAHA Promises? : 1A&nbsp;&nbsp;NPRPranjal Panda: I See the Patients MAHA Leaves Behind&nbsp;&nbsp;Pittsburgh Post-Gazette",
+      "sources": [
+        {
+          "name": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR3F1UDhjY2R6Z05Ud3FSTVhDWUx4RTRBdmZIWFdKMktQVktESU5wTXY1eVJjclhHdGtOVG9oMTBOcHMxeGtPWnc2NEM4S2NfY3RORmNGU3ZQUFN5YUptcXhTeC1yeFM1LWw5bjRfTnFjbnJEOWRyUExOSlJoU3UzOWZTTzdPRUt1Vk1vTlF4TG1wN2FmbFJrTzBDUGxiZUtROUZPSXpQQ2RLUWcwYV9saW1IUVAxMTBvY05FQjFIMTdOYm1x?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7f48396eb44c",
+      "title": "Apparent hantavirus outbreak kills 3 on cruise ship, sickens at least 3 more, health officials say - CBS News",
+      "published": "2026-05-04T12:31:46+00:00",
+      "summary": "Apparent hantavirus outbreak kills 3 on cruise ship, sickens at least 3 more, health officials say&nbsp;&nbsp;CBS NewsThree cruise ship passengers dead, others ill after suspected hantavirus outbreak. Here’s what we know&nbsp;&nbsp;CNNCruise ship at center of deadly hantavirus outbreak refused permission to dock&nbsp;&nbsp;NBC NewsWhat Is Hantavirus, Which Is Linked to the Deaths of 3 People Aboard a Cruise Ship?&nbsp;&nbsp;The New York TimesEvacuations planned as suspected hantavirus outbreak t",
+      "sources": [
+        {
+          "name": "CBS News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOVMzWlh3RGRwUHI2YnpEby15WDE1c1RPZF9xcXREX2stU083bENlWGxMYXQySnY3ZHpfZW9aZDlmUE54eEJ4b05lSGwtenJYalR0SGcxWnl2WDY1SzF0YlFUc0JlWjhSaW1feW9xVjF1Z0pTSHlVT2xPcmNBQk11bjFKb2NtUmt2YzBhWHEyN2hvY2FUdmVWMFFwbEl3d9IBowFBVV95cUxONF9WS0RQcmUycmlHY1pGQkwxZndVT0tGVGlXYjJ6aEhCOFBvZEphc1BJQWkxTzhTY1pzUnlaREs0RE80Rm9xbm9MU05FejZPNkpqcjNWZjYtQVZ6SW9laG0zWWJoM3FaTzhQeS1PMTZJT0s3cmVSZkxubWh3c1JmcVVLd0dsbXN6dkh3Z01jdEM3bm1mUlA0T3JhVlhSUzExejBz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7e4ffae5ab22",
+      "title": "Doctors and Nurses at Schneider Hospital Sued After Patient’s Death Following Pneumonia Admission - The Virgin Islands Consortium",
+      "published": "2026-05-04T10:13:59+00:00",
+      "summary": "Doctors and Nurses at Schneider Hospital Sued After Patient’s Death Following Pneumonia Admission&nbsp;&nbsp;The Virgin Islands Consortium",
+      "sources": [
+        {
+          "name": "The Virgin Islands Consortium",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPS1lPdDUzREFMSk9DWVYybkFNWXdOLTFLOUJpNlBCeFRqV2tWREFGYmZwVnNLMHdBRzdhS0RKTUw4Z0ZrR3hNeHNodDNQM1hZSUFtSkNyZ09FZzVtWTVaYWJ6Rnp6SkJiQVVoNkVEMmlyVW1BdlRzNGNtRE9fY0ljSXBxWl9zRkVhd0ZjbTJ2UmtHSm1jVzJheUNrOU01dTNtSENEaWkxb0g0bHhRTi05NWlReGgxTjdWTlpvX0Facy1lZllxVVp0MFlWVmFHd3FZYjBaZV9EclJVb3E3NjlrWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e18ec73d92f8",
+      "title": "Science Has Found Even More Ways Coffee Is Good for You - WIRED",
+      "published": "2026-05-04T09:30:00+00:00",
+      "summary": "Science Has Found Even More Ways Coffee Is Good for You&nbsp;&nbsp;WIREDScientists just discovered what coffee is really doing to your gut and brain&nbsp;&nbsp;ScienceDailyAll coffee, even decaf, can improve mood, brain health, study finds&nbsp;&nbsp;Medical News TodayCoffee doesn't just wake you up—a key biological pathway illuminates widespread health effects&nbsp;&nbsp;Science X NetworkCoffee helps protect your body from aging and disease, study says&nbsp;&nbsp;USA Today",
+      "sources": [
+        {
+          "name": "WIRED",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSUFIakI2eE13THhpaHRzUmNZdU9TTGZOeFRxaEtxaE5hMjE2T0pqMEQ3UHFxbWhsblpneW9uU0hnX2FOTlVZcVZ0Y0NZWm5wUDZLY1hCbE04ZWNDSC1qdVQtOW15NTRULUNDYWRNc2lUTUlURThoY2gtZlBYOGszNnVCcmFXdUJWSGc0SA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e6f342e48475",
+      "title": "What Doctors Want You to Know About Cannabis and Health - The New York Times",
+      "published": "2026-05-04T09:01:32+00:00",
+      "summary": "What Doctors Want You to Know About Cannabis and Health&nbsp;&nbsp;The New York TimesSorting science from smoke in cannabis mental health claims.&nbsp;&nbsp;Psychology TodayWhat we know—and what we don’t—about marijuana’s health effects&nbsp;&nbsp;Scientific AmericanMedicinal cannabis may not help your anxiety or depression, study suggests&nbsp;&nbsp;MSN",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdGVYbVdsdjNjRGxkbTBnVHZKSDFpaWp6ZHNEQTBCUVdPTmllREhJU1JicENWQ2VsWjEyNFE0VlhXUkpObjVieUhqbEtQQjMtOVFkRko3RHhjTWVEd1B5VlRwN2VBaEdrS3RtVUMzVXlQLU5RX29kN2d6a25XTzM1NXZR?oc=5"
+        }
+      ]
+    },
     {
       "id": "19b133b1dafa",
       "title": "Dietitians Reveal the 10 Drinks to Never Drink for Better Health - AOL.com",
@@ -18,14 +102,14 @@
       ]
     },
     {
-      "id": "5e06f18aafbf",
-      "title": "What to know about hantavirus, the illness suspected in a cruise ship outbreak - AP News",
-      "published": "2026-05-04T04:19:00+00:00",
-      "summary": "What to know about hantavirus, the illness suspected in a cruise ship outbreak&nbsp;&nbsp;AP NewsThree cruise ship passengers dead, others ill after suspected hantavirus outbreak. Here’s what we know&nbsp;&nbsp;CNNAt Least 3 Dead Onboard Cruise Ship After Suspected Rat-Borne Virus Outbreak&nbsp;&nbsp;Forbes3 Dead of Suspected Hantavirus Infections on Cruise Ship, W.H.O. Says&nbsp;&nbsp;The New York TimesWhat is hantavirus, the infection that has killed three people on a cruise ship?&nbsp;&nbsp;T",
+      "id": "8f4a4add8c48",
+      "title": "A physical therapist says you should work on strengthening this often overlooked area if you want to age well and stay independent - Fit&Well",
+      "published": "2026-05-04T06:03:57+00:00",
+      "summary": "A physical therapist says you should work on strengthening this often overlooked area if you want to age well and stay independent&nbsp;&nbsp;Fit&amp;WellWant to Live Longer? Longevity Science Says This Overlooked Factor Can Increase Your Risk of Dying by 6 to 7 Times&nbsp;&nbsp;inc.comWomen aged 63 to 99 who could grip harder or stand up from a chair more quickly had a lower risk of death after a follow-up period of up to 8 years in a study involving more than 5,400 participants&nbsp;&nbsp;OkDi",
       "sources": [
         {
-          "name": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSi1BdTlac293c2RtWXNYNmYzWXBaQXFjaEZWbmxEdjlTQXpZV25TQ2VnX0dHWWFzVVFVVU5rbUNKT05DbGNkLVY3T0pISGtpVG1tTkhUYXMzRUNHa3h2eGdWNVdQODJ1d3JaQjZhRDVld2JkeTN1cFQ4cUN6LXVsY1Job3k5enhObTNPenVUZ20tSkxHSE8ycXFacw?oc=5"
+          "name": "Fit&Well",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNUE1MMWNTbzJ6TnRmY0w5a3lyS1ZoSGtzbDBSaTN1OG5wbmsyUTFVVTAxeFZjbzBpVHZOSGFCSFNaSjNINjE0NlNhSFBFb2VZLTB1T29TLTRVV3BObE8xSENvd3lmSkxXbHFNdkliSDFDSUQzQ0pkbHd1eXZiMTVPaDJnSERkb2pUa2JJYmpvYVN0U05ZNDRGeXNXR1pNUTlMVHVKVVQxUk9rQVpfNEVkYjVvaHp4OUxXWE9aQjQ1WmJxRTYtYldtRllzNDFvUDcta29tVmNaZDdRcVJyOExtb2JXRHFQb2wtOEZBZEZxUXljWFo5SGRDS1NPSWJYcGpFUjlDVHpsc0FrY1dM?oc=5"
         }
       ]
     },
@@ -33,11 +117,23 @@
       "id": "e603e304cfa9",
       "title": "One Type of Exercise Can Give You Better Results With Less Effort, Expert Says - ScienceAlert",
       "published": "2026-05-04T01:36:36+00:00",
-      "summary": "One Type of Exercise Can Give You Better Results With Less Effort, Expert Says&nbsp;&nbsp;ScienceAlertYou don’t need intense workouts to build muscle, new study reveals&nbsp;&nbsp;ScienceDailyWant to Build More Muscle With Less Effort? Try Eccentric Exercise&nbsp;&nbsp;HealthlineWhat goes up: Why this easy exercise should be a focus of your gym routine&nbsp;&nbsp;SMH.com.auNew Study Says You Don't Need Hardcore Workouts To Build Muscle&nbsp;&nbsp;NDTV",
+      "summary": "One Type of Exercise Can Give You Better Results With Less Effort, Expert Says&nbsp;&nbsp;ScienceAlertPut those weights down! How ‘eccentric’ exercise opens up a whole new world of fitness&nbsp;&nbsp;The GuardianWant to Build More Muscle With Less Effort? Try Eccentric Exercise&nbsp;&nbsp;HealthlineYou don’t need intense workouts to build muscle, new study reveals&nbsp;&nbsp;ScienceDailyNew Study Says You Don't Need Hardcore Workouts To Build Muscle&nbsp;&nbsp;NDTV",
       "sources": [
         {
           "name": "ScienceAlert",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaVk5cEN6T2Zzb3RkaDVWZFNWSWh3NXdCTFVtUGJwdW9DQXk2NGJMTmxhWE5QVGJtTmU0QnBrc1NGdXhKb0pmcEpCY19SY0VNVnUtaWR1THhTdWFwMThFT0NyRHk4dEw0T2x0ajFVbEhuWlk5cGhqcy0yVGdWQU4xcnVLYVFOSE9kck1mMEZYQ1V3OTFhMVpQa3hHaXc0T3Q0VzlPNkk4aHVsZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "34438429748f",
+      "title": "How Perimenopause Became America's New Health Scare - The Free Press",
+      "published": "2026-05-03T23:52:21+00:00",
+      "summary": "How Perimenopause Became America's New Health Scare&nbsp;&nbsp;The Free PressMenopause isn’t just hot flashes — here’s what’s really happening&nbsp;&nbsp;The AdvocateExcel Medical opens conversation on Hormone Therapy once considered taboo - sponsored by Excel Medical&nbsp;&nbsp;WCNCThe one HRT rumour that women should always ignore&nbsp;&nbsp;rollercoaster.ieCommentary: What women need to know about menopause and HRT&nbsp;&nbsp;Los Angeles Times",
+      "sources": [
+        {
+          "name": "The Free Press",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tLVdNdnVsTE5qb3BNaDZXQXFvYlM2RlpQWng1dHpPZDFyZE9XVjd5SjdOdHZacTJCLTlIOFN2ZHFDRlZUd0Y1VnFXV1haOG5nRmpmd01Kd2M3YXhoTEw3dEJmcVFuZDF0?oc=5"
         }
       ]
     },
@@ -57,7 +153,7 @@
       "id": "94739f98841e",
       "title": "Eating Your Breakfast at This Specific Time Could Help You Lose More Weight - AOL.com",
       "published": "2026-05-03T21:31:49+00:00",
-      "summary": "Eating Your Breakfast at This Specific Time Could Help You Lose More Weight&nbsp;&nbsp;AOL.comWant to Lose Weight? New Research Says You Should Make 2 Small Changes to When You Eat&nbsp;&nbsp;inc.comStudy Suggests Meal Timing May Matter More Than You Think&nbsp;&nbsp;Plant Based NewsStudy Reveals Best Time to Eat to Lose Weight&nbsp;&nbsp;VOI.idAn expert’s guide to the best time to eat if you want to lose weight&nbsp;&nbsp;The Independent",
+      "summary": "Eating Your Breakfast at This Specific Time Could Help You Lose More Weight&nbsp;&nbsp;AOL.comWant to Lose Weight? New Research Says You Should Make 2 Small Changes to When You Eat&nbsp;&nbsp;inc.comStudy Suggests Meal Timing May Matter More Than You Think&nbsp;&nbsp;Plant Based NewsStudy in Nature Metabolism Analyzes Variability in Food Choices and Meal Timing Using Large-Scale Data&nbsp;&nbsp;geneonline.comEating breakfast at this time every day could increase weight loss&nbsp;&nbsp;bodyandsou",
       "sources": [
         {
           "name": "AOL.com",
@@ -90,6 +186,30 @@
       ]
     },
     {
+      "id": "dd7e59e930cd",
+      "title": "Oak Trees Will Delay Sprouting Leaves to Avoid Hungry Caterpillars That Devoured the Trees in Previous Year: Study - Good News Network",
+      "published": "2026-05-03T18:35:43+00:00",
+      "summary": "Oak Trees Will Delay Sprouting Leaves to Avoid Hungry Caterpillars That Devoured the Trees in Previous Year: Study&nbsp;&nbsp;Good News NetworkView Full Coverage on Google News",
+      "sources": [
+        {
+          "name": "Good News Network",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTjVrSi1oNFl5NmNqTmM2bHFnODhuWHVCTzNPQlR1YzdUQnVEbDNxX1d4NkJIUUVpYUNCUTZmR0VwZUIxUGtBQlg4MWRIMFFNRzBoNVpTcnNPRjZmUDhoY3g4Z2N4bXZKR2g1T2ppNk95T0U4MkEzZll3MjVOQU9SbFJaczZuOXFnSE5vZ2FIVVA4WXlXZnA0em9TNWZ6RTFuT0h2czdKWkdLMzNvNzdnaTR0WDdWd1I4Tl9WNHhHOG9fRndNZEFEeF9FbUtsSnM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4e8bb7e132c8",
+      "title": "Spread of disease from animals to humans is being driven by wildlife trade, investigation shows - Yahoo",
+      "published": "2026-05-03T18:30:00+00:00",
+      "summary": "Spread of disease from animals to humans is being driven by wildlife trade, investigation shows&nbsp;&nbsp;YahooOfir Drori on how EAGLE Confronts the Criminal Networks Driving Africa’s Wildlife Crisis&nbsp;&nbsp;New Security BeatTraded wildlife present biggest risk for zoonotic disease&nbsp;&nbsp;The Wildlife Society",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR3d4X2U4cDRjejB4YnpPdFpRdnhjVnBhMkFoaGd5ZUE2LWRxM09YYW9rc2s5aGpEU0JOWU43MWEwVXhENGt6Vlh5RERSY2FlQldRV2prQWM5bUpIa1RvSnVWSUoxaXA4dmo2UzVsNGtjMVgyUnNLZ05EemtnTjhFMlk4TFYzaV8tR2VsN3BQVQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "463a000d0b06",
       "title": "Researchers Unveil Groundbreaking Sustainable Solution to Vitamin B12 Deficiency - SciTechDaily",
       "published": "2026-05-03T17:51:50+00:00",
@@ -105,7 +225,7 @@
       "id": "72f8d95801ac",
       "title": "How to spot and prevent the deadliest form of skin cancer - WKBN.com",
       "published": "2026-05-03T17:13:41+00:00",
-      "summary": "How to spot and prevent the deadliest form of skin cancer&nbsp;&nbsp;WKBN.comMind your moles: How to check for skin cancer&nbsp;&nbsp;UCLA HealthHealthwatch: Tips to spot skin cancer early&nbsp;&nbsp;WSLSUPMC dermatologist: What to look for and how to protect your skin&nbsp;&nbsp;sungazette.comLove the skin you’re in? Check it for signs of cancer&nbsp;&nbsp;WTOP",
+      "summary": "How to spot and prevent the deadliest form of skin cancer&nbsp;&nbsp;WKBN.comMind your moles: How to check for skin cancer&nbsp;&nbsp;UCLA HealthUPMC dermatologist: What to look for and how to protect your skin&nbsp;&nbsp;sungazette.comHEALTH Yeah! Episode 30: Protecting Your Skin: Melanoma and Other Skin Cancers Explained&nbsp;&nbsp;Stony Brook MedicineLove the skin you’re in? Check it for signs of cancer&nbsp;&nbsp;WTOP",
       "sources": [
         {
           "name": "WKBN.com",
@@ -138,14 +258,26 @@
       ]
     },
     {
-      "id": "2c4e6083711d",
-      "title": "Scientists just discovered what coffee is really doing to your gut and brain - ScienceDaily",
-      "published": "2026-05-03T16:21:24+00:00",
-      "summary": "Scientists just discovered what coffee is really doing to your gut and brain&nbsp;&nbsp;ScienceDailyAll coffee, even decaf, can improve mood, brain health, study finds&nbsp;&nbsp;Medical News TodayCoffee helps protect your body from aging and disease, study says&nbsp;&nbsp;USA TodayCoffee doesn't just wake you up—a key biological pathway illuminates widespread health effects&nbsp;&nbsp;Science X Network460,000 People Later, Scientists Have Found The ‘Perfect’ Daily Coffee Limit To Boost Your Moo",
+      "id": "ac42db5eb4bd",
+      "title": "How a newly discovered organelle could help reduce cow methane emissions - Phys.org",
+      "published": "2026-05-03T16:33:01+00:00",
+      "summary": "How a newly discovered organelle could help reduce cow methane emissions&nbsp;&nbsp;Phys.orgScientists just discovered what is fueling cows’ potent burps&nbsp;&nbsp;Scientific AmericanCows’ methane burps may be fueled by a newfound organelle in gut microbes&nbsp;&nbsp;Science NewsSee the unexpected beauty in the microbes behind cow burps&nbsp;&nbsp;washingtonpost.comSTAT Podcast “The Readout LOUD” on April 30, 2026, Discusses Investor Interest in Hair Loss Drugs and AI in Clinical Trials&nbsp;&n",
       "sources": [
         {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9obXZ6ZDBHS3c2b1VldFFRSHllV2tRaXJYN2FqeWVqMVhNelJ2QlhuclJ2NVl1a2JISTBoMGtTTll2RTBUQWZ1UVlYTVJjcUZiZEhZVFJmOXlkU1g4SXBQLXFYQl9kSVN6dllmV005UQ?oc=5"
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LY1VNaWRZQVdZbzl1VmNGc0ZwaXpHMTBqb29lclliVENIeHVWamt4MHdVQlFfalNxSEV5bTdtR0dvSTRxN1FPMzM2ekhaQVlBZTBEMkxwTlNmMzlYYTd0RjlweWJ4OGMycWxHTS1TVC1wSGE5czU2eWVRYUc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c691288debc2",
+      "title": "Heart doctor shares warning over food ‘worse than smoking’ that decreases lifespan - LADbible",
+      "published": "2026-05-03T16:22:48+00:00",
+      "summary": "Heart doctor shares warning over food ‘worse than smoking’ that decreases lifespan&nbsp;&nbsp;LADbibleMAHA Awaits Robert F. Kennedy Jr.’s Definition of Ultraprocessed Foods&nbsp;&nbsp;The New York TimesHow unhealthy ultra-processed foods are designed, marketed to make us crave them&nbsp;&nbsp;The Indian ExpressDoctor issues warning over food ‘worse than smoking’ that makes up over half the average American's diet&nbsp;&nbsp;UNILAD TechAfter sugar, ultra-processed foods face scrutiny for health t",
+      "sources": [
+        {
+          "name": "LADbible",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUUZsWC1ydGN3cDhjM2dzQldJYkJvQV9hSW5sSVNEYVhMM1ZabEdIQ1hNUTI4OXVDSEhxQ3B4V2VhYUpwaUdiaWpQTkxvS3ZKb1NPcnE2Qk1KUUw0MUN2MmhZbFdGOWk5b2FvX0dDdkpEcHlnVWRKVkI0SnpLUXJvdFlPUDM2emExbXBSaDBZZVJfWUE?oc=5"
         }
       ]
     },
@@ -158,6 +290,18 @@
         {
           "name": "Earth.com",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcXNLQlFHQ2pPVHM4YVRhT3FYUnNrRFcxQVo4VjNvbUdOVjN4ZWRHWDRvV1VfcXBkeTg1a29xdnF2VzllbGFwek15TUJ0TXVsVVpaQ0ptLTgzNTBYSDUyeHVmSVFkdjRwc2QwUFQ2bFFhTDNXWTF1NHEzbFdwcUtLZXc2SV9JUE9GdEJsZ1U2djJTYTFpZlhKdWZrek1JNUJvVnU1bHhn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b5d8489de95f",
+      "title": "Is It Better to Work Out in the Morning or the Evening? - GQ",
+      "published": "2026-05-03T14:22:25+00:00",
+      "summary": "Is It Better to Work Out in the Morning or the Evening?&nbsp;&nbsp;GQExercising at This Time of Day May Lower Your Blood Pressure by Nearly Twice as Much&nbsp;&nbsp;Money Talks NewsThe Best Time to Exercise for Heart Health&nbsp;&nbsp;vocal.mediaNew study reveals that timing exercise to match your body clock 'chronotype' may lower cardiovascular disease and improve sleep quality — here's how&nbsp;&nbsp;Tom's GuideWant to control your blood sugar? Here’s the best time of day for exercise&nbsp;&nb",
+      "sources": [
+        {
+          "name": "GQ",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UT0RDM0pXcHc0N2xURlppZ2duWDE4UVU0TlY4eUlVa2Y3QVhXb095TzJGY1MzVjNYZ1dyLWQ2d2RrUlYyUXdpbkktZTVaNmFpR1dCQzA5dHJTZU5yM2I4eGdQcw?oc=5"
         }
       ]
     },
@@ -198,22 +342,10 @@
       ]
     },
     {
-      "id": "0f00a90a14ad",
-      "title": "A tool to help keep dementia in check - CBS News",
-      "published": "2026-05-03T13:31:00+00:00",
-      "summary": "A tool to help keep dementia in check&nbsp;&nbsp;CBS NewsThe Roots of Dementia Trace Back All The Way to Childhood, Experts Reveal&nbsp;&nbsp;ScienceAlertEight easy exercises that protect against dementia&nbsp;&nbsp;The TelegraphBrain Health Win: Learning a New Skill After Age 55 Lowers Cognitive Decline Risk by 23%&nbsp;&nbsp;savingadvice.comStudy shows brain training can reduce Alzheimer’s and dementia risk by 25 percent&nbsp;&nbsp;The University of Alabama at Birmingham",
-      "sources": [
-        {
-          "name": "CBS News",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XLUhUWmF5bmo1OXkwcTBMczA5M2FMQVU0TWp1U1ZxZkxRMUNPUDJqRVNRZFlZSzhtMU1SbklpaklSd0xfWEoyeUNILTVXWmw2MzJVRkZPMEFBTkg3bjNJUkhaV1J4S3UzektmTlIxUHExd1RlcjNXVmJXaEZYZ9IBgwFBVV95cUxOTTNiemliN1Z0OURoT2pCSldlc0xLSl9PQk9jV2dWQVVLYU9OU1NMekxzTE9KcnQ3a1ZrTE5kUjd4b0IyemxlVG1BMW4yWFZBZFhUanFzand6eTBxVHBHZ1h2MHBER0hzLUx1OGE4MUlmT05uS18tbU1ObzJRZ3Q0Tktvdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8c091bd9b768",
       "title": "Researchers Discover Boosting a Single Protein Helps the Brain Fight Alzheimer’s - SciTechDaily",
       "published": "2026-05-03T13:30:54+00:00",
-      "summary": "Researchers Discover Boosting a Single Protein Helps the Brain Fight Alzheimer’s&nbsp;&nbsp;SciTechDailyBoosting one protein helps the brain fight Alzheimer’s&nbsp;&nbsp;ScienceDailyAuthor Correction: Astrocytic Sox9 overexpression in Alzheimer’s disease mouse models promotes Aβ plaque phagocytosis and preserves cognitive function&nbsp;&nbsp;NatureAlzheimer’s study finds one protein may hold key to brain’s cleanup system&nbsp;&nbsp;Türkiye TodayBrain self cleaning breakthrough in alzheimer’s&nbs",
+      "summary": "Researchers Discover Boosting a Single Protein Helps the Brain Fight Alzheimer’s&nbsp;&nbsp;SciTechDailyScientists Discover a Key Difference in Brains That Resist Alzheimer's&nbsp;&nbsp;ScienceAlertScientists restore memory by blocking a single Alzheimer’s protein&nbsp;&nbsp;ScienceDailyNew study finds 'brake' gene for Alzheimer's&nbsp;&nbsp;China DailyBoosting one protein helps the brain fight Alzheimer’s&nbsp;&nbsp;ScienceDaily",
       "sources": [
         {
           "name": "SciTechDaily",
@@ -222,22 +354,10 @@
       ]
     },
     {
-      "id": "34573e943a07",
-      "title": "Subtle signs you might be vitamin D deficient, and what your body is trying to tell you - The Times of India",
-      "published": "2026-05-03T13:30:42+00:00",
-      "summary": "Subtle signs you might be vitamin D deficient, and what your body is trying to tell you&nbsp;&nbsp;The Times of IndiaVitamin D's benefits: New findings on diabetes, IBD, and Alzheimer’s&nbsp;&nbsp;Medical News TodayPopular Vitamin D Supplement Has “Previously Unknown” Negative Effect, Study Finds&nbsp;&nbsp;SciTechDailyTaking vitamin D2 can lower the body’s vitamin D3 levels: Study&nbsp;&nbsp;NewsNationVitamin D to Iron: The scary signs of supplement overdose&nbsp;&nbsp;The Indian Express",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONzN6MHdmRWtCRUNDN21LRXhza0NCemhrZ2pfbEdtOEViaFRBRE9TTFd6bGk5UzhOMW9KcGJmcGhKUFZpMG9Qb2R2QXU1YndTdmdJUWxER1NMNGVhX1RzUnUtZDl4cVBNbDZEVGJ0SDZyQUNwT1JMNkdSVWVKWENSNHFDMGlWNDVfbHpGTjFTWFFzNFhKZEdxcnA3bzlGT2hIU3l2cVpvLXRLZlYyajRYTVoxUnpZMXl2cTl5RUhfTmlXNURReHB0VmEyclN6TTR3X1dZbHIzaGI4a3cxblFMVlRWcTltb243bFHSAfIBQVVfeXFMUGFHc09hWlkyZHdnUGFtLWxQSzlQS0ZoemROV3NvOEdqNkt3bnIzUUhhYVNLZjlUakhyQUJCSDY0ampRemNWMExyR1FLSTU0TXFQRE1DekdIR0gzQWo2dlJBZzE0ZDRUOVo2ZGVLeDVSVEhDdlYwRE9NZlJfR1A1Q2lWb0dXRlZOdkRVRE5tSU8yMzFqSG00dERJZW5xdFIwNnlWNk9uY3ZlcnlDa3hFWHFhd0duUDQ0U1M3akVBd2J0WnEtcnd1aC1UOFhHb3BYZUZsS1J5YmJFU2VxaDd4NE9hR19TSDY0bGtsZ0c2RlFxNkE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f8b90eb69aba",
       "title": "Eating Eggs May Help Boost Your Memory, According to a Recent Study - Real Simple",
       "published": "2026-05-03T13:30:00+00:00",
-      "summary": "Eating Eggs May Help Boost Your Memory, According to a Recent Study&nbsp;&nbsp;Real SimpleView Full Coverage on Google News",
+      "summary": "Eating Eggs May Help Boost Your Memory, According to a Recent Study&nbsp;&nbsp;Real SimpleEating Eggs Regularly May Lower Alzheimer's Risk, Says New Study – Here's What Expert Says&nbsp;&nbsp;OnlymyhealthEggs may slash dementia risk&nbsp;&nbsp;Female FirstEating eggs regularly could lower Alzheimer’s risk, new study suggests&nbsp;&nbsp;India TodayScientists Discover Life-Changing Side Effect Of Eating Eggs For Alzheimer Treatment&nbsp;&nbsp;AOL.com",
       "sources": [
         {
           "name": "Real Simple",
@@ -261,7 +381,7 @@
       "id": "989db64bc857",
       "title": "AI Detects “Invisible” Signs of Pancreatic Cancer Years Before Diagnosis - SciTechDaily",
       "published": "2026-05-03T12:55:10+00:00",
-      "summary": "AI Detects “Invisible” Signs of Pancreatic Cancer Years Before Diagnosis&nbsp;&nbsp;SciTechDailyAI finds signs of pancreatic cancer before tumors develop&nbsp;&nbsp;NBC NewsAI Can Spot Pancreatic Cancer Years Before Diagnosis, Study Finds&nbsp;&nbsp;ScienceAlertMayo Clinic AI helps specialists detect pancreatic cancer up to 3 years before diagnosis in landmark validation study&nbsp;&nbsp;Mayo Clinic News NetworkMultiorgan Radiomic Analysis Has Potential to Predict Pancreatic Cancer&nbsp;&nbsp;Ga",
+      "summary": "AI Detects “Invisible” Signs of Pancreatic Cancer Years Before Diagnosis&nbsp;&nbsp;SciTechDailyAI finds signs of pancreatic cancer before tumors develop&nbsp;&nbsp;NBC NewsMayo Clinic AI helps specialists detect pancreatic cancer up to 3 years before diagnosis in landmark validation study&nbsp;&nbsp;Mayo Clinic News NetworkAI Can Spot Pancreatic Cancer Years Before Diagnosis, Study Finds&nbsp;&nbsp;ScienceAlertMultiorgan Radiomic Analysis Has Potential to Predict Pancreatic Cancer&nbsp;&nbsp;Ga",
       "sources": [
         {
           "name": "SciTechDaily",
@@ -282,10 +402,22 @@
       ]
     },
     {
+      "id": "0aeb559d6754",
+      "title": "Scientists Say There’s Something Huge Buried Inside Our Galaxy - Futurism",
+      "published": "2026-05-03T11:30:00+00:00",
+      "summary": "Scientists Say There’s Something Huge Buried Inside Our Galaxy&nbsp;&nbsp;FuturismA lost galaxy called 'Loki' may be hiding inside the Milky Way&nbsp;&nbsp;Phys.orgThe first victim of the Milky Way has been discovered&nbsp;&nbsp;Universe Space TechAstronomers Discover Loki, an Ancient Stellar System Hidden in the Milky Way&nbsp;&nbsp;La Brújula VerdeNew study suggests possible ancient galaxy Loki in Milky Way&nbsp;&nbsp;NewsBytes",
+      "sources": [
+        {
+          "name": "Futurism",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OMzlIUkhhR3N2bW9Jam0tUzFPbTRfSEpEMnlIMl9ZSnV2NEU1bXBzYnFISVA0T1U4LWRabjZaMVN1Q05VcjlrRW5hZTNCSl83Um5TOFRyWTJmcHgwZ0VCdg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6e7e830e1345",
       "title": "This 1 Hobby Is Great For An Aging Brain, According To A Study - HuffPost",
       "published": "2026-05-03T11:00:18+00:00",
-      "summary": "This 1 Hobby Is Great For An Aging Brain, According To A Study&nbsp;&nbsp;HuffPost'The benefits of music are immediate, varied and free of side effects'&nbsp;&nbsp;Le Monde.frShared music listening synchronizes brain activity&nbsp;&nbsp;PsyPostChema González, a neurologist: “Music opens the doors to the brain, allowing memories to be retrieved through&nbsp;&nbsp;Diario ASEven an older brain benefits from playing music on an instrument—or your phone.&nbsp;&nbsp;Psychology Today",
+      "summary": "This 1 Hobby Is Great For An Aging Brain, According To A Study&nbsp;&nbsp;HuffPost'The benefits of music are immediate, varied and free of side effects'&nbsp;&nbsp;Le Monde.frParticipants who listened to music while facing each other felt more connected.&nbsp;&nbsp;Psychology TodayChema González, a neurologist: “Music opens the doors to the brain, allowing memories to be retrieved through&nbsp;&nbsp;Diario ASShared music listening synchronizes brain activity&nbsp;&nbsp;PsyPost",
       "sources": [
         {
           "name": "HuffPost",
@@ -309,11 +441,23 @@
       "id": "5a194cbdc740",
       "title": "Six of the best exercises to preserve strength for GLP-1 users, according to an expert - Fit&Well",
       "published": "2026-05-03T11:00:00+00:00",
-      "summary": "Six of the best exercises to preserve strength for GLP-1 users, according to an expert&nbsp;&nbsp;Fit&amp;WellGLP-1s for weight loss: Should you really worry about muscle loss?&nbsp;&nbsp;Medical News TodayGLP-1 Drugs: Ozempic Preserves Muscle Mass Better Than Mounjaro&nbsp;&nbsp;HealthlineA domestic research team has found that continuous administration of glucagon-like peptide-1 (GLP-1)..&nbsp;&nbsp;매일경제No Need to Worry About GLP-1-Induced Muscle Loss&nbsp;&nbsp;Medscape",
+      "summary": "Six of the best exercises to preserve strength for GLP-1 users, according to an expert&nbsp;&nbsp;Fit&amp;WellGLP-1s for weight loss: Should you really worry about muscle loss?&nbsp;&nbsp;Medical News Today‘Ozempic face’ alert as experts warn over hidden side effect&nbsp;&nbsp;Adelaide NowA domestic research team has found that continuous administration of glucagon-like peptide-1 (GLP-1)..&nbsp;&nbsp;매일경제No Need to Worry About GLP-1-Induced Muscle Loss&nbsp;&nbsp;Medscape",
       "sources": [
         {
           "name": "Fit&Well",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU3ZkMUQwTUZEZnBZS05IbjY1bWlUM0F2SXB3ZGpwSFJ0bVkxaThqaVYyOExOX01tWVh5a1Joc2dtUHo0MUFOUEJ3VDZlZFRraFNIc1RpRUpMUWJPRDFuS2FnZTNfX0E5YU5LNmZOOXROVndxdnlGYlVldFZ3SllWU3dzMlZNQ2ZvSGw1Y25ucWV6dkFnWXNQRFVWZmNUenhtTkgwbWZFaVc0WlhQVS14Q3d0RWU5VFlZM0sxWDNpc01VLVRZWE9yampzNk9uOGRVXzROWUtR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c373dbe07688",
+      "title": "Syphilis cases in expectant mothers have dramatically risen since the pandemic – here’s what’s driving the trend - The Hindu",
+      "published": "2026-05-03T10:50:24+00:00",
+      "summary": "Syphilis cases in expectant mothers have dramatically risen since the pandemic – here’s what’s driving the trend&nbsp;&nbsp;The HinduSyphilis cases are on the rise in Broome County&nbsp;&nbsp;WIVT - News 34Why maternal syphilis is resurging and putting babies at risk&nbsp;&nbsp;Daily NationSyphilis spikes in California as health chiefs warn sexually active to urgently get tested&nbsp;&nbsp;New York PostSyphilis cases spike across several California counties&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPcjdZU0hCTmtpaEg3V0wxR2Z3OThVUVVjb1B4TnJKYWt5ejVWQnFNcXU0SDh2c0UtdjFZcDRram9LVmRlYlRVQnY4VG9GMGtqWVlZYTZhemx6dXZrcGt5YVZXSGxBX0Vpb1JtQy1nbWh5cnJBY1pyV2dza2RmNVM1NmVPWm1IZkEzT0ZZNWk3SVhHWWMxZzVvRkFxb28yQk5lSzh5dm5xVHduOGRxVDVFOGdYNkc2by1DZ3lwSVZDU1JnX0N3MHJXQTl4aXdBMXZsU29PNGVNVXZ2azAzb2ZEZlBZYWxHTXJIYU96UW4zejE5U2ZOR3NlTjQ1WEhOUdIBhAJBVV95cUxORlRudGdqU3hEUy0tdlRJdy1MdjZwTXhmY0t5WGhXZWkxb09jczEtZXE2ZG5iRUN3RlRPWHBBU3R3SUhQY1RabHRSY2F3NU1pbU1HX1k0UTJtQWFtWEVPVkVCeHU1WUpKNjlFellsaGpDWkhKb0NpTE5hdmlFYzFzR0lwa3pidko3dHlTby1hZHNUMmFRLXZIaFlQSFlCWVBCbXp4aHRWLVRwMEtLb1pLb2VwQ3lEdWJWanNmVVNsVThyVGZsbGxnOGpycTJLcXd6enJMSzlNc1VSZEF4LVZKRkdObkp4azFCUnNCVmV6dzlCcm1qek53ZUU0UWpXYlNNaThHSg?oc=5"
         }
       ]
     },
@@ -326,18 +470,6 @@
         {
           "name": "Yahoo",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVS1fenk0RUluc2Y1QmJJR1p0bU1iV0tZbUtrNmdpQ1hZek1kQVRkTk5MVVNBVGo1dmpKNmlYdmYwSFdORWpPMnBBdlBYQnJiWmNVMlB1b3dsTjNKejZ2LXpRR3Z3ektaNDdkUjhsUzNfYjhMd2Z4WmJMYVhVT0NjMFBfN2lxUnZr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6706511e7278",
-      "title": "MAHA Awaits Robert F. Kennedy Jr.’s Definition of Ultraprocessed Foods - The New York Times",
-      "published": "2026-05-03T09:00:44+00:00",
-      "summary": "MAHA Awaits Robert F. Kennedy Jr.’s Definition of Ultraprocessed Foods&nbsp;&nbsp;The New York TimesHow unhealthy ultra-processed foods are designed, marketed to make us crave them&nbsp;&nbsp;The Indian ExpressHeart doctor shares warning over food ‘worse than smoking’ that decreases lifespan&nbsp;&nbsp;LADbibleAfter sugar, ultra-processed foods face scrutiny for health taxes&nbsp;&nbsp;동아사이언스Here's What Happens to Your Body When You Limit Processed Foods, According to Registered Dietitians&nbsp;",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR1FFUE5COEQxamdEckE0WldBMFRaZmctaUJtLWtydUtCMXFIREJXWTJua1dnQTJrbmFqTlRBeEFISVZNNXJWbGpQQ0UyNlMzSDAzUUtZbVhTS2RvejhyNnBGYXZvd01Mc3Ytc2lVc21QbVRNSGZIR1c2bGlET2hOeldqQ3Q?oc=5"
         }
       ]
     },
@@ -414,18 +546,6 @@
       ]
     },
     {
-      "id": "7eb08ce89137",
-      "title": "Scientists Uncover Fatal Weakness in “Zombie Cells” Linked to Cancer - SciTechDaily",
-      "published": "2026-05-03T00:04:10+00:00",
-      "summary": "Scientists Uncover Fatal Weakness in “Zombie Cells” Linked to Cancer&nbsp;&nbsp;SciTechDailyElectrophilic compound screening identifies GPX4-dependent ferroptosis as a senescence vulnerability&nbsp;&nbsp;NatureExploiting a new vulnerability that targets 'zombie’ cells as an anticancer therapy&nbsp;&nbsp;EurekAlert!New senolytic strategy targets a key vulnerability in ageing cells&nbsp;&nbsp;Imperial College LondonScientists identify 'zombie cell' weakness, offering new cancer treatment strategy&",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMThSamttOGxGdUJBVEtpWEJrQTNSUmlNX3pwQXdsNEhMOHBya1ZRa3R5WVc2dUJpWktaMlVBbUVOZE5IMHZkWC1STDJIX0xJUmNxTzVCWVZ1c2RUcTZxRVpGdlp1aG9TV1VMLWF5dl8yNXFHUjFOc3pLbnBoWGlOdlJ2bzZhLXVrcGxHTmduV1JvT095dVVz?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1bf12d991f4d",
       "title": "Simple diet change could relieve painful bathroom symptoms, experts say - AOL.com",
       "published": "2026-05-03T00:02:21+00:00",
@@ -434,18 +554,6 @@
         {
           "name": "AOL.com",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1teHV5SldhdFBxQlRtR1lWVklWdnppWFlSVkp5WnRoRjJkcFRBc2szbHdRRnR0aTlfYVZQZWk1MnAxSVg3NTFfUWdKX1J5dHJwOTNKQ2FaUUxHd2k2TUJueDVmRWE4SC1Gc2pKV0NKa1luMzluaVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cf7b4ea5b8e5",
-      "title": "Allergy season arrived late, but it’s causing stronger symptoms than usual this year - The Boston Globe",
-      "published": "2026-05-03T00:01:00+00:00",
-      "summary": "Allergy season arrived late, but it’s causing stronger symptoms than usual this year&nbsp;&nbsp;The Boston GlobeHay fever: Nine tips for coping with pollen and seasonal allergens&nbsp;&nbsp;BBCExperts offer tips to manage seasonal allergies&nbsp;&nbsp;CTV NewsMonday at 6AM: How to tackle allergy season&nbsp;&nbsp;kiro7.comThe ingenious ‘2-minute dust trick' that stops spring allergies taking over your home&nbsp;&nbsp;Chester Standard",
-      "sources": [
-        {
-          "name": "The Boston Globe",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTzlPRzdtSzExT3A4dGpyem1iZzMxdjYteDFETHoyNmRXV2RWQ1BMOUJORkZuR1NaVTk5TzkwYndiZGlkVlgxeDhldTJaQ2Utak1xOFM5cXdzN3JfbWpTaFd4bTlKZUdYZXhUZDlKYjJ4U1NvMlY0NWlUVF9yOG1Ebkdn?oc=5"
         }
       ]
     },
@@ -462,14 +570,14 @@
       ]
     },
     {
-      "id": "d7c37619755b",
-      "title": "How to sleep better, from bedtimes to regularity – what the research says - South China Morning Post",
-      "published": "2026-05-02T23:15:08+00:00",
-      "summary": "How to sleep better, from bedtimes to regularity – what the research says&nbsp;&nbsp;South China Morning PostSleeping Well&nbsp;&nbsp;SRQ MagazineThe correlation between mental health & sleep&nbsp;&nbsp;WFLAThe Most Important Sleep Habits For Longevity, Backed By Experts & Research&nbsp;&nbsp;MindBodyGreenCan't Sleep At Night? Here's A Doctor's Guide To Fix Your Sleep Schedule&nbsp;&nbsp;NDTV",
+      "id": "db46332d6b81",
+      "title": "The Roots of Dementia Trace Back All The Way to Childhood, Experts Reveal - ScienceAlert",
+      "published": "2026-05-02T23:26:35+00:00",
+      "summary": "The Roots of Dementia Trace Back All The Way to Childhood, Experts Reveal&nbsp;&nbsp;ScienceAlertA tool to help keep dementia in check&nbsp;&nbsp;CBS NewsEight easy exercises that protect against dementia&nbsp;&nbsp;The TelegraphA neuroscientist lists the 5 'worst enemies' of the brain that increase your dementia risk&nbsp;&nbsp;HELLO! MagazineStudy shows brain training can reduce Alzheimer’s and dementia risk by 25 percent&nbsp;&nbsp;The University of Alabama at Birmingham",
       "sources": [
         {
-          "name": "South China Morning Post",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMl8wSVhQYUFGVkVJRkZiMklDSWVfdVVVUjJLZ1FkMFNVMVdLaG5idHhicVhSTVNwVFpLTlNGdmZ4T1JxQm1uWE8wcDlFbWhYZTJ2OEdETjZZZWF2dzhSVVlfaExacktNeDFnQTF5RGkzZXFldU9EQVFTcHdRUmpnTXZKaEg1S0hBRVN2QlpGazQwampIUHBXdHFXekxER3JZdjZqVjFQN3RSNDQ5U2o4MjJzMVl0RjFaUVHSAboBQVVfeXFMTXRlbVJaVlQ1SElIM0ZGeDlBbGt4alhwY1Nad0dIREZLeWZTNWRralFOOWJiTXJRVEtVRzk3SEFmNkZFV19wd2hqNzVYc0J2dExFQW9xaFp3MXBvV3E0OVBsU0FzMVpOMmNtT2Y1dHI5VjFrLUlHaEdpdVZTeXFtdzY0V0MzUFpFcEdkT2FVbldQVk8xQTJfV1FlNlJ4Qm5jNTYzQ2ZQUndseHN6U0FxWTlnamdjck8yN2FR?oc=5"
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFV1ZDBpcmtheGtKdTlWenRleXdFQTlfUmIyWG5OX1lPNTZrQ2hzejJqbDRnclJuV2JwTWxtV3dJWFRETW9RQ2xEc1lqS1d1LTc5TFNlYkpkSUszN2tYSFJVb2RNZDRndVZlNko0MEp4dGstTndjSUlEamI4cG9ibE5oV28wNWtaSS14dTFWczZybGRTcHNlTHNTRzE2Z28ybFg4?oc=5"
         }
       ]
     },
@@ -522,6 +630,18 @@
       ]
     },
     {
+      "id": "729f111e3e4a",
+      "title": "Doctors Say This Cooking Mistake Could Be Harming Your Health - AOL.com",
+      "published": "2026-05-02T21:02:30+00:00",
+      "summary": "Doctors Say This Cooking Mistake Could Be Harming Your Health&nbsp;&nbsp;AOL.comView Full Coverage on Google News",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUElPYmJHNFRwbFZhOXp3amFYUVp4Vi1wTEQxMDZBYlVDb1VQanJvWGRMeFVBQWpveGFKTmFtSTRqdDdLb1dGWUREYUNnWjhkT3JXeUkzb25kZXdob1U2YU5qS3R5M2JKYVhLQjhxMEduamlSMkNCMVRnNklXUFd6M1VIWC0tQXA2?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ea2a41e8800e",
       "title": "“This Is Gross”: Biohacker Bryan Johnson Makes Bold Comment About Girlfriend’s Intimate Health - Bored Panda",
       "published": "2026-05-02T19:21:15+00:00",
@@ -561,7 +681,7 @@
       "id": "1d9c845bcb4f",
       "title": "At least 34 people sickened with drug-resistant salmonella infections linked to backyard poultry - KCRG",
       "published": "2026-05-02T18:02:00+00:00",
-      "summary": "At least 34 people sickened with drug-resistant salmonella infections linked to backyard poultry&nbsp;&nbsp;KCRGChattanooga weighs in on national rise of anti-biotic salmonella cases&nbsp;&nbsp;WTVCSalmonella outbreak: CDC map shows where drug-resistant infections linked to backyard poultry are occurring&nbsp;&nbsp;Fast CompanyCDC confirms new Salmonella outbreak linked to backyard poultry&nbsp;&nbsp;CIDRAPCDC Issues Warning About Drug-Resistant Salmonella Outbreak That's Sickened 34 People, Mos",
+      "summary": "At least 34 people sickened with drug-resistant salmonella infections linked to backyard poultry&nbsp;&nbsp;KCRGSalmonella outbreak: CDC map shows where drug-resistant infections linked to backyard poultry are occurring&nbsp;&nbsp;Fast CompanyChattanooga weighs in on national rise of anti-biotic salmonella cases&nbsp;&nbsp;WTVCCDC warns of salmonella infections tied to backyard poultry&nbsp;&nbsp;USA TodayCDC Issues Warning About Drug-Resistant Salmonella Outbreak That's Sickened 34 People, Most",
       "sources": [
         {
           "name": "KCRG",
@@ -570,14 +690,26 @@
       ]
     },
     {
-      "id": "4561260c184d",
-      "title": "Diagnosed with colon cancer at 36, she spent her last years helping others with the disease - The Washington Post",
+      "id": "6afe8e8e0492",
+      "title": "Diagnosed with colon cancer at 36, she spent her last years helping others with the disease - washingtonpost.com",
       "published": "2026-05-02T18:00:11+00:00",
-      "summary": "Diagnosed with colon cancer at 36, she spent her last years helping others with the disease&nbsp;&nbsp;The Washington PostMichael Sapienza: Remembering a Powerful Voice in Cancer Advocacy&nbsp;&nbsp;OncodailyIn Memoriam: Asal Sayas&nbsp;&nbsp;Colorectal Cancer AllianceCancer Moonshot Alum's Death From Colorectal Cancer Spotlights Young-Onset Disease&nbsp;&nbsp;MedPage Today",
+      "summary": "Diagnosed with colon cancer at 36, she spent her last years helping others with the disease&nbsp;&nbsp;washingtonpost.comMichael Sapienza: Remembering a Powerful Voice in Cancer Advocacy&nbsp;&nbsp;OncodailyIn Memoriam: Asal Sayas&nbsp;&nbsp;Colorectal Cancer AllianceCancer Moonshot Alum's Death From Colorectal Cancer Spotlights Young-Onset Disease&nbsp;&nbsp;MedPage Today",
       "sources": [
         {
-          "name": "The Washington Post",
+          "name": "washingtonpost.com",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV0kyUWk4Ykk2NWFoM3BUZVVxM3NOaWpPWm5WenhOczlLdS1lSlFnOGF1alZSek9iN3lNTVRzZ1VrUGZFd2ItRUduRXYtalFMZTBNT1J1OElZemo5ZG9lTE00akVZSktMam16MXVFaThVa3B2aFpqdnhZeFRER1U1aXRR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "211da1eb1dc5",
+      "title": "Vitamin D's benefits: New findings on diabetes, IBD, and Alzheimer’s - Medical News Today",
+      "published": "2026-05-02T17:22:05+00:00",
+      "summary": "Vitamin D's benefits: New findings on diabetes, IBD, and Alzheimer’s&nbsp;&nbsp;Medical News TodayPopular Vitamin D Supplement Has “Previously Unknown” Negative Effect, Study Finds&nbsp;&nbsp;SciTechDailySubtle signs you might be vitamin D deficient, and what your body is trying to tell you&nbsp;&nbsp;The Times of IndiaTaking vitamin D2 can lower the body’s vitamin D3 levels: Study&nbsp;&nbsp;NewsNationVitamin D to Iron: The scary signs of supplement overdose&nbsp;&nbsp;The Indian Express",
+      "sources": [
+        {
+          "name": "Medical News Today",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEJJWXhoWVlzS0VmWFZZaHc4RWdzVHhicmZyWVJfeTBsRHVJWGRLaFBWZXRNUWZ4akpfMFc4SU0zZk1KOTMyT3NtSHdMOUtYUlF6d18wRmdRcmFBVW1rWGdndXBlX2RVdkd3QTkwdXU3MHlDaWFzVE9Ua0txUUpmZFNzSzNEVFNwS0FJM0tLYm0zMzZCaTQxYnFDUnhuV0Z5UTF1RDBOV0NqUQ?oc=5"
         }
       ]
     },
@@ -585,7 +717,7 @@
       "id": "786225274fe8",
       "title": "Alzheimer’s may begin decades before memory loss, new timeline shows - Earth.com",
       "published": "2026-05-02T14:49:53+00:00",
-      "summary": "Alzheimer’s may begin decades before memory loss, new timeline shows&nbsp;&nbsp;Earth.comMayo Clinic researchers publish critical studies on Alzheimer's, weight loss, early cancer detection&nbsp;&nbsp;Post BulletinIdentifying the ages when Alzheimer’s biomarkers sharply change&nbsp;&nbsp;News-MedicalAlzheimer’s May Begin Decades Earlier Than You Think, New Mayo Clinic Study Finds&nbsp;&nbsp;SciTechDailyEarly Onset of Alzheimer’s Disease&nbsp;&nbsp;RaillyNews",
+      "summary": "Alzheimer’s may begin decades before memory loss, new timeline shows&nbsp;&nbsp;Earth.comIdentifying the ages when Alzheimer’s biomarkers sharply change&nbsp;&nbsp;News-MedicalThese surprising early symptoms may be linked to Alzheimer's&nbsp;&nbsp;National GeographicMayo Clinic researchers publish critical studies on Alzheimer's, weight loss, early cancer detection&nbsp;&nbsp;Post BulletinAlzheimer’s May Begin Decades Earlier Than You Think, New Mayo Clinic Study Finds&nbsp;&nbsp;SciTechDaily",
       "sources": [
         {
           "name": "Earth.com",
@@ -597,7 +729,7 @@
       "id": "43262e7eb0a6",
       "title": "3 Medical Routines That Older People May Not Need - The New York Times",
       "published": "2026-05-02T14:47:31+00:00",
-      "summary": "3 Medical Routines That Older People May Not Need&nbsp;&nbsp;The New York TimesOpinion | Should Patients Over 75 Undergo Surveillance Colonoscopies?&nbsp;&nbsp;MedPage TodayCommon Elderly Procedures May Pose Greater Risks Than Benefits&nbsp;&nbsp;조선일보Older Adults Colonoscopy Screening Debate After 75&nbsp;&nbsp;The Eastern Herald",
+      "summary": "3 Medical Routines That Older People May Not Need&nbsp;&nbsp;The New York Times",
       "sources": [
         {
           "name": "The New York Times",
@@ -609,7 +741,7 @@
       "id": "85eb843d016c",
       "title": "Drones Over Mars? Scientists Reveal How Flying Robots Could Unlock Hidden Water On The Red Planet - The Daily Galaxy",
       "published": "2026-05-02T14:45:00+00:00",
-      "summary": "Drones Over Mars? Scientists Reveal How Flying Robots Could Unlock Hidden Water On The Red Planet&nbsp;&nbsp;The Daily GalaxyDrone radar could help spacecraft pinpoint where to drill for water on Mars, scientists say&nbsp;&nbsp;SpaceDrones reveal massive ‘buried glaciers’ in the US. They could guide search for water on Mars&nbsp;&nbsp;BBC Wildlife MagazineUncovering Hidden Martian Glaciers With Drones&nbsp;&nbsp;Nautilus | ScienceRadars mounted on drones could find water on Mars: Study | The fin",
+      "summary": "Drones Over Mars? Scientists Reveal How Flying Robots Could Unlock Hidden Water On The Red Planet&nbsp;&nbsp;The Daily GalaxyDrone radar could help spacecraft pinpoint where to drill for water on Mars, scientists say&nbsp;&nbsp;SpaceDrones reveal massive ‘buried glaciers’ in the US. They could guide search for water on Mars&nbsp;&nbsp;BBC Wildlife MagazineRadars mounted on drones could find water on Mars: Study | The findings were published in JGR Planets | Inshorts&nbsp;&nbsp;InshortsUncovering",
       "sources": [
         {
           "name": "The Daily Galaxy",
@@ -630,18 +762,6 @@
       ]
     },
     {
-      "id": "cf145629835b",
-      "title": "Longevity bros aren’t thinking enough about reducing chronic disease. But researchers are - CNN",
-      "published": "2026-05-02T13:00:51+00:00",
-      "summary": "Longevity bros aren’t thinking enough about reducing chronic disease. But researchers are&nbsp;&nbsp;CNN",
-      "sources": [
-        {
-          "name": "CNN",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbjh5cHhNYkJ3UXl5aFc3RnQ2WXNfcjBCR3k5U3c2MExjMkpIUER5YzFWM0kzTFlOY2ZrUFNYcHBub2hBWGFDUEN6Z0dWT2xCU3BvazFCRnE1SEVxMUpJYzBFZ2JiTkZleWs4Vy1YVVhkNXZ2LV9qT3lBdGg2bHdYRGVJQlhrYzc0YjNR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e5834320d4b7",
       "title": "Scientists identify 10,000 'impossible' exoplanet candidates, potentially tripling the number of known alien worlds - Live Science",
       "published": "2026-05-02T13:00:00+00:00",
@@ -650,126 +770,6 @@
         {
           "name": "Live Science",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZURNQWFlWG02Z0VEeXppQU1TSWJqLW0wai15RVJIdzgzc2RUaVZ2QjBkSlJvSGowcXRuSEptZ2ppanRFSzBEdEd6TEV2M2xwM3p1WE9uOTBLSkNJWEhmbzVGeGNhSFE0YUlFdXJxOGFaeC1HR1FNWndlYW5kS0NzdW1pMHFOWHlaZUtmbW1mZWNMUHJjQWxlTWV3eTV3S3ZuVmt4Q3h2bDFCUnJHN3dUWWg2TjUxWnFWV1l5XzNQbjFZSGxSRmhWLUZfaWxmS1VZbFdSTXhkX2tKYmFwZ2hlSWtQWGkwcVpsOTFSeDRR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "484ddec5cd89",
-      "title": "The Most Effective Knee Arthritis Treatments Aren’t What You Expect - SciTechDaily",
-      "published": "2026-05-02T12:58:19+00:00",
-      "summary": "The Most Effective Knee Arthritis Treatments Aren’t What You Expect&nbsp;&nbsp;SciTechDailyStudy Identifies Aerobic Exercise As The Most Effective Physical Activity For Knee Osteoarthritis&nbsp;&nbsp;NDTVDiscover the most effective activities for improving knee health&nbsp;&nbsp;Deseret NewsScientists reveal the best exercise for knee arthritis pain relief&nbsp;&nbsp;ScienceDailyScience explains why aerobic exercise works best for knee osteoarthritis relief&nbsp;&nbsp;The Indian Express",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNm9falRvZURDeFAzUXZCczR2YWtVaUozcjZiQjg3dFhQRkZ6QUs1bl8wMktJaEI0NmJNWXY4M0NmbkxHSmoxS1I3cFAwNmhVU2FxMDY1YnNEdFBTNXQwZGJUNUoyNVNjc00zMmhqZUxGMVhzWHRfbXphTVhUUXFvTVNwazR0MmVsNG9NckVJVHQzSUNvdWtJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "39b310eb08ae",
-      "title": "A Nearly Invisible Energy From Dark Matter Could Explain How the First Black Holes Formed So Fast - The Daily Galaxy",
-      "published": "2026-05-02T12:15:00+00:00",
-      "summary": "A Nearly Invisible Energy From Dark Matter Could Explain How the First Black Holes Formed So Fast&nbsp;&nbsp;The Daily GalaxyIs the Earliest Supermassive Black Hole Mystery Solved?&nbsp;&nbsp;Universe TodayDark Matter May Have Jump-Started Universe’s First Giant Black Holes&nbsp;&nbsp;Sci.NewsDid decaying dark matter help create the universe's first supermassive black holes?&nbsp;&nbsp;SpacePrimordial black holes? A potential discovery from the dawn of time&nbsp;&nbsp;Technology Org",
-      "sources": [
-        {
-          "name": "The Daily Galaxy",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xRTlCQzRIY3dXMlFLWmV1TXFzMkZkajVXZGpzXzJSMHpkTnBBX25pS0Y5M2ZCelhPTU91X01yZVlzZzJhZkppajR1bW1DWV9tUGFsTTJLa3VxSXFhd1g4d21vNnF6amhyOFdiYlRhdmJ1UF9QUExBUw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cd3d20d383dd",
-      "title": "Scientists Develop Bioengineered Chewing Gum That Could Help Fight Oral Cancer - SciTechDaily",
-      "published": "2026-05-02T12:14:29+00:00",
-      "summary": "Scientists Develop Bioengineered Chewing Gum That Could Help Fight Oral Cancer&nbsp;&nbsp;SciTechDailyView Full Coverage on Google News",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWtWek9YUUQyWmdHQlpvbTdsanFyMHV3SWdNMTlSV3dSWnBHUzA1emNwVzNJaV9hQjd0U1dSZ2lNMHZpZGtBbTJvX0E1b0FPOHM2dllRYUtlUmJFRXJWeUdoY1ZzS05yTXBlSkN3Y01DNlJOcmNGdkhDLTlibTlPLXExNVVXQ3oxZ2JMSlJGUGUzcWJHa0xIY252ZFBINTZaR0ZUcF9lNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "911a4d8e82cc",
-      "title": "Bees can detect viruses in food sources, but don't necessarily avoid them - Phys.org",
-      "published": "2026-05-02T12:00:08+00:00",
-      "summary": "Bees can detect viruses in food sources, but don't necessarily avoid them&nbsp;&nbsp;Phys.org",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tTnRWSVh4dk93LXFtQm1yMVBLSkJlS2lJdUQ5RGRzZ24tWllfcFN6VzA1M3hIeXliU3NBRUxncmUtOGxneE82ZDBzdi1BZlZWZ1dpcWdEeXRTZERnUUdPY29wRVE4bmltMXU1WTZuZFp5N2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5e058529e069",
-      "title": "Do octopus brains work like humans’—or is there another way to be smart? - Yahoo",
-      "published": "2026-05-02T12:00:00+00:00",
-      "summary": "Do octopus brains work like humans’—or is there another way to be smart?&nbsp;&nbsp;YahooDo octopus brains work like humans’ — or is there another way to be smart?&nbsp;&nbsp;NatureWhy Scientists Are Captivated by the Octopus Brain&nbsp;&nbsp;Seoul Economic DailyFrom opening jar lids to facial recognition: Why octopuses are considered smart and Earth's oldest brainiacs?&nbsp;&nbsp;The Times of IndiaCephalopods deserve higher welfare standards in research&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM2JXQnRPTDhLVG1vUk0wM3ZQb3NQWXVaNDUtU3dPX0ctN0lTYWxtMEktUDh5Nm1XdTVIVUJ4blhCal90OXFqLVdUa0NfanFjNGVuRjd1VlpUMlRTR2EwX19JQ2ZRU0haNTU4dHltQnVUeUswOXBsR3dqdkNPRHd2cFZQSVduWm11TTROMw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ea3283f58784",
-      "title": "A ‘Potentially Hazardous’ Asteroid Will Pass Close to Earth in 2029 — and It Has an Alarming Nickname - Yahoo News New Zealand",
-      "published": "2026-05-02T11:30:00+00:00",
-      "summary": "A ‘Potentially Hazardous’ Asteroid Will Pass Close to Earth in 2029 — and It Has an Alarming Nickname&nbsp;&nbsp;Yahoo News New ZealandHumanity 'at risk' from killer asteroids as NASA's defence 'not enough' to protect us&nbsp;&nbsp;Daily StarAsteroid Apophis: A Commercial Mission to Help Spur Interest in Planetary Defense&nbsp;&nbsp;Inside Outer Space'This is going to be what makes the Earth secure.' How one startup plans to protect us from dangerous asteroids&nbsp;&nbsp;SpaceThe 2029 Asteroid t",
-      "sources": [
-        {
-          "name": "Yahoo News New Zealand",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMWowdXdQUkNvVTdjMEVyVy1QUURORTFUWnI0SGZ1Zl96RFk5MWM5cGVSWjV6bEdDS3pWdWlfQjZjNEZPcXlXWVMtZHVIN25oTUtSalRyaHNqTU9pWFRmOUphT0xtOGZxQWxEZDlUanpWaHQxcS1VQk9qRmxmRFVVbkotR2d5UEs3RUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e17531a8938a",
-      "title": "7 Things Stroke Doctors Say You Should Never, Ever Do - HuffPost",
-      "published": "2026-05-02T11:00:18+00:00",
-      "summary": "7 Things Stroke Doctors Say You Should Never, Ever Do&nbsp;&nbsp;HuffPost",
-      "sources": [
-        {
-          "name": "HuffPost",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONjZQRE13b1JncEJoaDBSUXhQZ3ZsVlcyazlaMmdENFJ6dEpsUjBoWFItUUNMb3NyenNUZWl1SEdOdXowUi1OX2RnVGcxRnc3SmItd08wdnA1bkJfaUZDQ3RKbUtMWlMyV0tDTFVVV2dhdTFHTXRfRWdicHNZaTB3a3F3QXdGUEhlMGctQ1NZQjRHeE1zenQzdkIyWVF6SE5oTGh5XzJoTdIBrAFBVV95cUxNcGs5UXNPem92enFvNkVUekh6S3RVbkZHM0Z4QTV1Q25ncjVsT0ZpQWZxWVF2MlJucnpsWjRfZ250R0N0dGxuZ2xIOXg5ZGo2RVpQd3JSQ3FsbmI0aVpNN1pOQ3lERUV5Zjh6U1R5aE9obi1SbFEzWXdIOVR1UmJtNDVlRU1IaGhCc3hvelhxN2hCQ3hlUC1EZlhuS3BGSkdadjRZZEllZ2ZYZDY2?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "177d2bca5445",
-      "title": "Americans aren't sleeping enough. Here's what could help - NPR",
-      "published": "2026-05-02T10:30:00+00:00",
-      "summary": "Americans aren't sleeping enough. Here's what could help&nbsp;&nbsp;NPRCan’t Sleep? Here’s What to Consider Before Trying Supplements.&nbsp;&nbsp;The New York TimesAmericans are exhausted, a new CDC report shows&nbsp;&nbsp;Scientific AmericanSleepless Americans Are Relying on Medicine and Pot to Doze Off&nbsp;&nbsp;Bloomberg.comFederal Officials Highlight Sleep Deficit Affecting Nearly Half of U.S. Adults&nbsp;&nbsp;KRZK 106.3",
-      "sources": [
-        {
-          "name": "NPR",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOalhXazh4X2J4WFE4YXNhQ0VnTjBhRWthRGFrNzlMWWhmM0paNHhzdHNZMzM2SHo4cVB2cW02UG56TkF0ZU0zRlZuZndZeUkyQW1GMHVVS1VoQ1ZvRi1DREMyamZqNWxFa3RQRDZQNlo1SjhNLVM5OGg5THdrS21vemx2ZzlWQ3ZpUmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a1df07a775e2",
-      "title": "Six walking myths busted – and how many steps a day you really need - The Telegraph",
-      "published": "2026-05-02T10:00:00+00:00",
-      "summary": "Six walking myths busted – and how many steps a day you really need&nbsp;&nbsp;The TelegraphDo you really need to walk 10,000 steps a day to keep fit?&nbsp;&nbsp;echo live7 Tips To Optimize Your Walks & Improve Healthspan All At Once&nbsp;&nbsp;MindBodyGreenForget 10000 steps a day this is what science now recommends for your health&nbsp;&nbsp;Futura, le média qui explore le mondeA sports scientist says how you walk matters more than distance - here's how to do it right&nbsp;&nbsp;HELLO! Magazin",
-      "sources": [
-        {
-          "name": "The Telegraph",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRzJ6d0hydHh4eHUxUVQ4YXlrQXFHbERiV0hNRXVpZ0dsRDhraXJRbndNdWZzOXZVWmgxM09lVng4VEpqYnExRGtQYXRoWUU3RzVRaE51TXNRV3RSakl0OGU4NzVnWEJOUDlBaUc0bmVUNnIweFRxNWxHNFhxcmhwb1k4VkJRd3ZCUXpmbjV1T1BrT29fdGgtUjBLakVpNnF6Q2dueWFKWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1248ac039e64",
-      "title": "DC-area emergency rooms are seeing more patients with tick bites - WTOP",
-      "published": "2026-05-02T08:28:34+00:00",
-      "summary": "DC-area emergency rooms are seeing more patients with tick bites&nbsp;&nbsp;WTOPTick Season: What to Know About Bites and Symptoms&nbsp;&nbsp;The New York TimesWisconsin could be in for ‘a big year’ for Lyme disease as tick bites soar&nbsp;&nbsp;WPRTick bites and Lyme disease cases rise in Northeast Wisconsin as tick season begins&nbsp;&nbsp;WLUKWhere emergency visits for tick bites are highest in the United States&nbsp;&nbsp;The Washington Post",
-      "sources": [
-        {
-          "name": "WTOP",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ3RZOTBrNG52N0RpQldXR1lfbC1fSEhoRGZ6azdRZm8wX0RhWlRWMDBhVmtsQmlBS3lPVXhrWE5sTEI4RlpjeUZJbjJqQVpMTHUtXy1nQ0l3cDJ2ay04R3pvbzFoRzhBdlFSRFkweDByX1ZMVVBmY0xBRFpBOU9TTjlheEdNejZKbjl3aDZxcFhFWkROREJBLVk2MFJZX19CSkZVUVh4cENlWjBmZVhOMVRwdTNuaU4xM3AtbkcyRmg?oc=5"
         }
       ]
     }

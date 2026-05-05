@@ -1,27 +1,63 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-05T08:15:12.188486+00:00",
-  "total_fetched": 93,
-  "unique_count": 93,
-  "health_related_count": 38,
+  "fetched_at": "2026-05-05T19:25:48.509915+00:00",
+  "total_fetched": 88,
+  "unique_count": 88,
+  "health_related_count": 27,
   "news": [
     {
-      "id": "4fc58e00689a",
-      "title": "Buried electrical pathways across the US reveal new clues about Earth's interior and power grid risks - Phys.org",
-      "published": "2026-05-05T07:30:32+00:00",
-      "summary": "Buried electrical pathways across the US reveal new clues about Earth's interior and power grid risks&nbsp;&nbsp;Phys.org",
+      "id": "b35f021394c2",
+      "title": "F.D.A. Blocked Publication of Research Finding Covid and Shingles Vaccines Were Safe - The New York Times",
+      "published": "2026-05-05T18:37:34+00:00",
+      "summary": "F.D.A. Blocked Publication of Research Finding Covid and Shingles Vaccines Were Safe&nbsp;&nbsp;The New York TimesOpinion | Under my leadership, the CDC will follow the evidence&nbsp;&nbsp;The Washington PostInfectious Disease Regulatory Watch: April Highlights&nbsp;&nbsp;Contagion LivePharmacy and Infectious Disease Leaders Warn Revised ACIP Charter Threatens Vaccine Access, Scientific Rigor&nbsp;&nbsp;Pharmacy Practice NewsEstimating Effectiveness of Influenza and COVID-19 Vaccines: The “Test-",
       "sources": [
         {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBucHpCaTBOMGRKZXJuVjNsZVhSczlsSmd3OVh6UlZiSGVvZ09OLXlXTWxROG15MjByWU9GWkhCSmFUbThyaktldkpRZGVwUnE0X2x5aWtydEhmeWdJcHdpMnV4SmJqSFR6WmUwNmRPUmF5NGdvTGMzc0kwU2Y0Zw?oc=5"
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTlVFZjI5enpNUFY2S003Mmd4djctbnVWZTBLdEdsOGotcGk0WjcwU2RRNEhVWHRhSGFueDI4VWFkM094a1hVdGRubm1uVC1xeE1nbHJtMHg2cnlmdzBPV0pYT1k0azZmM2dlZlRwNWNSWjFtY2w3aGtiMkJaTGYxRlF2SQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "571eece7a77d",
+      "title": "What to know about hantavirus, the illness linked to a cruise ship outbreak - AP News",
+      "published": "2026-05-05T18:09:00+00:00",
+      "summary": "What to know about hantavirus, the illness linked to a cruise ship outbreak&nbsp;&nbsp;AP NewsHuman-to-human transmission suspected on board hantavirus cruise ship, WHO says&nbsp;&nbsp;CNNHow hantavirus may have spread aboard a cruise ship, according to health experts&nbsp;&nbsp;CBS NewsInside the cruise ship at the center of a rare hantavirus outbreak&nbsp;&nbsp;AP NewsUnwell British crew member to be ‘urgently’ evacuated from cruise ship after hantavirus cases&nbsp;&nbsp;The Guardian",
+      "sources": [
+        {
+          "name": "AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSi1BdTlac293c2RtWXNYNmYzWXBaQXFjaEZWbmxEdjlTQXpZV25TQ2VnX0dHWWFzVVFVVU5rbUNKT05DbGNkLVY3T0pISGtpVG1tTkhUYXMzRUNHa3h2eGdWNVdQODJ1d3JaQjZhRDVld2JkeTN1cFQ4cUN6LXVsY1Job3k5enhObTNPenVUZ20tSkxHSE8ycXFacw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1e0b09f0889b",
+      "title": "Ozempic Is Killing Off Weight Loss Surgeries. That’s a Problem - Gizmodo",
+      "published": "2026-05-05T17:45:57+00:00",
+      "summary": "Ozempic Is Killing Off Weight Loss Surgeries. That’s a Problem&nbsp;&nbsp;GizmodoU.S. bariatric surgery rates drop significantly amid GLP-1 surge&nbsp;&nbsp;News-MedicalSharp Drop in Bariatric Surgery; Plea to Protect Research; How to Prescribe Exercise&nbsp;&nbsp;MedPage TodayMost severe obesity still goes untreated as GLP-1 use climbs and surgery slips&nbsp;&nbsp;Medical XpressGLP-1 drugs combined with surgery yield superior weight loss results&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "Gizmodo",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLUVFb01WMmM4YkpCNlNPVEFqaG1jUnF4UzFGT3NGUEsySVRselNGVHZWZkNhbDEwczNIZGVFeXhjTHRiLUJYbHhrSEFrZE1WekpzbENBV1hpalN1X3ZiQTFpM1VNOFQ4QVVzTjBIdk1pYVdhc2JQNWRTcE9sWktXbzM1djVyNmN4T0I5WlVJSFlUWEI2RlUzUFRhR3ZVUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f03b011d2445",
+      "title": "Study: Egg consumption is associated with a lower risk of Alzheimer’s Disease - EurekAlert!",
+      "published": "2026-05-05T16:52:30+00:00",
+      "summary": "Study: Egg consumption is associated with a lower risk of Alzheimer’s Disease&nbsp;&nbsp;EurekAlert!Eating Eggs May Help Boost Your Memory, According to a Recent Study&nbsp;&nbsp;Real SimpleStudy Finds Egg Consumption Linked to Reduced Risk of Alzheimer’s Disease&nbsp;&nbsp;Bioengineer.orgScientists Discover Life-Changing Side Effect Of Eating Eggs For Alzheimer Treatment&nbsp;&nbsp;AOL.comEggs may slash dementia risk&nbsp;&nbsp;Female First",
+      "sources": [
+        {
+          "name": "EurekAlert!",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wOE90akZPQkJlWXFkVERuakxSNUhYdzZlV3hjX1BiQTBGdDl4WGwyZTUyXzVsZjV6Y2Ntd0NVWjJqcGNJbENwQjc2NWRGU2J4dEs2NVNyb2dUUUQ5?oc=5"
         }
       ]
     },
     {
       "id": "34438429748f",
       "title": "How Perimenopause Became America's New Health Scare - The Free Press",
-      "published": "2026-05-05T07:25:03+00:00",
-      "summary": "How Perimenopause Became America's New Health Scare&nbsp;&nbsp;The Free Press5 things OB/GYNs want you to know about perimenopause&nbsp;&nbsp;The Washington PostTwo doctors explain how perimenopause is being missed, misdiagnosed, and under treated&nbsp;&nbsp;Yahoo CreatorsWhat illnesses can perimenopause trigger in women? Expert decodes the health risks&nbsp;&nbsp;The Times of IndiaMenopause isn’t just hot flashes — here’s what’s really happening&nbsp;&nbsp;The Advocate",
+      "published": "2026-05-05T16:33:24+00:00",
+      "summary": "How Perimenopause Became America's New Health Scare&nbsp;&nbsp;The Free Press5 things OB/GYNs want you to know about perimenopause&nbsp;&nbsp;The Washington PostTwo doctors explain how perimenopause is being missed, misdiagnosed, and under treated&nbsp;&nbsp;Yahoo CreatorsMenopause is more neglected than other women’s health issues when it comes to research, information&nbsp;&nbsp;Georgia Public BroadcastingWhat illnesses can perimenopause trigger in women? Expert decodes the health risks&nbsp;&",
       "sources": [
         {
           "name": "The Free Press",
@@ -30,26 +66,14 @@
       ]
     },
     {
-      "id": "89e9f2870f42",
-      "title": "Cruise ship waiting for help after 3 people died in a suspected hantavirus outbreak - NPR",
-      "published": "2026-05-05T05:49:20+00:00",
-      "summary": "Cruise ship waiting for help after 3 people died in a suspected hantavirus outbreak&nbsp;&nbsp;NPRWhat is hantavirus and how does it spread?&nbsp;&nbsp;CNN‘You Just Can’t Get the Air In’: How Hantavirus Turns Deadly&nbsp;&nbsp;The New York TimesHow an ocean cruise turned into a hantavirus nightmare&nbsp;&nbsp;ReutersMan Trapped On Cruise Shares Emotional Video On 'Hantavirus' Outbreak: \"We're Not Just Headlines\"&nbsp;&nbsp;NDTV",
+      "id": "8c7f75167cc2",
+      "title": "Science gets closer to understanding how a psychedelic trip changes the brain - NBC News",
+      "published": "2026-05-05T15:00:41+00:00",
+      "summary": "Science gets closer to understanding how a psychedelic trip changes the brain&nbsp;&nbsp;NBC NewsHuman brain changes after first psilocybin use&nbsp;&nbsp;nature.comSingle dose of magic mushroom psychedelic can cause anatomical brain changes, study finds&nbsp;&nbsp;The GuardianOne dose of psilocybin changes the human brain, leading to higher entropy&nbsp;&nbsp;Medical XpressA Single Dose of Psilocybin Induces Lasting Brain Changes, New Study Suggests&nbsp;&nbsp;ScienceAlert",
       "sources": [
         {
-          "name": "NPR",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wMkdHejVud29WYUJ5ZnBnb3FSakNFMTVkdEhQMVFOUVF5X2pUc3lUZm4wQzMyUWhiNGVtdVBZQl9zR2ZsQm1CSEs4SENrTmFiRFpnUDhKSVc1WDFHRGhHNzJheXpuWnpVRlpzNmFMQzVuTTlNWk40M2lhYU96S0U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fcac84d216f7",
-      "title": "Woman Proves Grandkid's Allergy Is Real By Sending Her To The ER, Parents File A Restraining Order - Bored Panda",
-      "published": "2026-05-05T02:30:33+00:00",
-      "summary": "Woman Proves Grandkid's Allergy Is Real By Sending Her To The ER, Parents File A Restraining Order&nbsp;&nbsp;Bored Panda",
-      "sources": [
-        {
-          "name": "Bored Panda",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rWGdYaDJVajM0dnhFTGxSRkx4Z01fbDdYUFZUaTFUR0lXUHhsOERkdGcycGQyVGd3UUtETXhJXzVZeWFaZmdoMXhNQVRMckw2WmZZQ0hEUGVtOVBvUGVGZUhPazdWZno4RTdVVw?oc=5"
+          "name": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVEVaUENrbnhzN1hRbjJTZGtXMXlkZEFwOG1wNV8yOHhhTFBqRExLelpzY3NxY245OWx6Zm9xdFFIMWlUWU9rcW12ekNzcFpRSVZCVHNTTk5TNlRjSVRhc3l5LTBaRGRPMlpuaUpqZFlCWVkxdUJ3dkFTODExVXNYYTJBcDdnR3l4TUNwTGxaNGJYbG1WSno4RnJUMmRmUUVMU1h4SDItRzZBU3R4SHlmeWMzTU14NnMxTGc?oc=5"
         }
       ]
     },
@@ -57,7 +81,7 @@
       "id": "099574bdddc1",
       "title": "Cruise ship outbreaks hit 23 in 2025, with norovirus the most common virus - WLWT",
       "published": "2026-05-04T22:32:00+00:00",
-      "summary": "Cruise ship outbreaks hit 23 in 2025, with norovirus the most common virus&nbsp;&nbsp;WLWT",
+      "summary": "Cruise ship outbreaks hit 23 in 2025, with norovirus the most common virus&nbsp;&nbsp;WLWTDo viruses spread more easily on cruise ships?&nbsp;&nbsp;BBCCruises seem gross and awful. Why are they popular? Tell us. | Opinion&nbsp;&nbsp;USA TodayHow likely are you to get ill on a cruise? The health risks amid hantavirus outbreak&nbsp;&nbsp;The IndependentHantavirus, COVID, norovirus, legionnaires’: why are cruise ships so prone to disease outbreaks?&nbsp;&nbsp;The Conversation",
       "sources": [
         {
           "name": "WLWT",
@@ -66,14 +90,26 @@
       ]
     },
     {
-      "id": "d0c45b0e0ef3",
-      "title": "Patients say they want Alzheimer's blood tests. Doctors aren't sure they help. - AOL.com",
-      "published": "2026-05-04T21:32:59+00:00",
-      "summary": "Patients say they want Alzheimer's blood tests. Doctors aren't sure they help.&nbsp;&nbsp;AOL.comView Full Coverage on Google News",
+      "id": "7cfd5808523f",
+      "title": "Scientists Discover Evolution’s 120-Million-Year-Old “Cheat Sheet” - SciTechDaily",
+      "published": "2026-05-04T22:18:20+00:00",
+      "summary": "Scientists Discover Evolution’s 120-Million-Year-Old “Cheat Sheet”&nbsp;&nbsp;SciTechDailyEvolution isn’t random. Scientists find the same genes used for 120 million years&nbsp;&nbsp;ScienceDailyGenetic parallelism underpins convergent mimicry coloration in Lepidoptera across 120 million years of evolution&nbsp;&nbsp;PLOSStudy: Butterflies and Moths Have Reused Same Genetic Toolkit for 120 Million Years&nbsp;&nbsp;Sci.NewsThese Two Genes Have Been Running Evolution’s Playbook Since the Dinosaurs",
       "sources": [
         {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0ZVRkQ2VvcjhNRDd4b1hEM1dJdUV5ZGxiQW5qVDZuNDg1VjlXYkJJV0Y5bEpCelFBTmdhV2ZWaF96Tk1rQTFVZFNRUi10UVh1RGtyM1RraXBMNUhmbTlvdkdWcURPdHYwZkIzSzJ4RG91ZDByUVFscWtn?oc=5"
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV3kwdmlzSkhKZnFja0J4YXJWRldESjVqajV1UUtHODluV3VlZXZCeUtzc0JXWVJsVkIwMmhuaGpiekwxMjJzZ0duR0JHVkVfUWNJcC1QSG56SVlZME5HSnJDb1AyREs3OUZjam5MbFphTGJJMFE2Z2MwMU9GaFFscEhNNHZBQk5QbWEwMU1DRGRFaUk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f0c6c692b21c",
+      "title": "Atmospheric warming contributions from airborne microplastics and nanoplastics - nature.com",
+      "published": "2026-05-04T21:55:31+00:00",
+      "summary": "Atmospheric warming contributions from airborne microplastics and nanoplastics&nbsp;&nbsp;nature.comThe Great Pacific Garbage Patch is a plastic trash nightmare. It could also be part of a much bigger, hidden problem&nbsp;&nbsp;CNNMicroplastics in the Air Are Making Earth Hotter, Study Finds&nbsp;&nbsp;Bloomberg.comAirborne Microplastics May Be Warming the Planet&nbsp;&nbsp;YahooHow microplastics are likely helping to heat up the planet&nbsp;&nbsp;The Washington Post",
+      "sources": [
+        {
+          "name": "nature.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mVmpCZm8tdUdoTVFMVEdPRmNIUU5oaWJhRzRFZWpkSmVCNlUwRElJdEliZkNlWWZVMm9lSGRzZ1I0WGZfSDlid2JkN2U5QmdlZS14UVZwZkE0ZGJkMHBr?oc=5"
         }
       ]
     },
@@ -90,14 +126,38 @@
       ]
     },
     {
-      "id": "2f067847d861",
-      "title": "Eiffel Tower-sized asteroid Apophis to pass closer to Earth than many satellites in 2029, NASA says - Fox News",
-      "published": "2026-05-04T21:13:03+00:00",
-      "summary": "Eiffel Tower-sized asteroid Apophis to pass closer to Earth than many satellites in 2029, NASA says&nbsp;&nbsp;Fox NewsEarth and ‘God of Chaos’ asteroid to have close call in 2029&nbsp;&nbsp;NewsNationHumanity 'at risk' from killer asteroids as NASA's defence 'not enough' to protect us&nbsp;&nbsp;Daily Star'This is going to be what makes the Earth secure.' How one startup plans to protect us from dangerous asteroids&nbsp;&nbsp;SpaceNotorious Asteroid Has A Friday The 13th Close Encounter With Ea",
+      "id": "2d7ee704ab16",
+      "title": "In world first, Israeli scientists map digital atlas of healthy human liver - The Times of Israel",
+      "published": "2026-05-04T20:45:00+00:00",
+      "summary": "In world first, Israeli scientists map digital atlas of healthy human liver&nbsp;&nbsp;The Times of IsraelGroundbreaking study by Israeli researchers create first map of healthy human liver&nbsp;&nbsp;All Israel NewsHuman liver map reveals why disease targets specific regions&nbsp;&nbsp;Earth.comIsraeli scientists build first healthy human liver map, revealing why disease strikes certain areas&nbsp;&nbsp;ynetnews",
       "sources": [
         {
-          "name": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRGRvOUQ5OVdmU2NTSklEbGc1MGdQd2xVUjdpLTVTZXJ4ZFVxTnRhYWdlMm5wQ0VmVXp6Z2ozbUNCQVF1RkdfMDdIUXp5R0lkbmVrZzctd3J2TTlmdUZiVVo0dHVsaDQtWFFqV1lCRDJmN0Zfbm5vTG5aTzB2UE5mTDZtbWlMUFM0Y2E1cUVZNFY0cmJVU1Y4bDQtSjM5ZGZPcHk5RkFrbDRBZFZyamdmb2NCNERkMEHSAbwBQVVfeXFMTkRxbTJSazh2eG5IN0VKaTBla1ZqZ1dWLXo1S0RHU0dyRmpDLTdaOVRManhMalpKcHZPbmFPdm5VMlZvNzJqWHhPYktteHJvM3otVV82THVRaU1LWnRLa2k2T084azFhNFRSb2xrSzEyUkZzaTZFYmR3TUZGb2wyVU9fQ1NOdlJmb1AyanZhbVhkQ3Zfd056NGFmRUxFVW5hbWw2VVk2bFpwTFNRTjhoMExfeVNpRDZsNEdtbXc?oc=5"
+          "name": "The Times of Israel",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPazlkeWxpNjdGTFNac3dtSXNjZnh6MmNVeVpaalU5dXNNM3BZa2JkU0pRSmpscm0xaHNkWG15Q1Bzb1AtNmo2S2NtWEl4RVlFXzY3Yko3Tl9tSVptYldrNW9pZXBGWGNJUzVoSDdIWFE4dkZqQ1dCNy1DTThONzRYcjl2dWRWT1IxS0Fyei1GR3JYTElVRjNDZTRzelN6M2FQVmJvTVBFUDLSAa4BQVVfeXFMUGdVT2I5bVY4b25FdjU4SHNQYU5nZkNhZ2dRaFEtSWxZdUZaRjdEUmN1Tmh6ekxXMEpFMWdNWHVHeGxnQ2hPc212RFltRlhmN1lqcGdWZ2RLSEpNdUh4dW9RSjFwdUJkY0w0cFlkUVNhU3NzUG5HeW0tNHQ5U0xwZHNCUXpzMUpiNmJscVNFcTE2VW56eFNHbUt0bnh1QjlZVGtHREY4a1NPRUI0Q2pR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4fc58e00689a",
+      "title": "Buried electrical pathways across the US reveal new clues about Earth's interior and power grid risks - Phys.org",
+      "published": "2026-05-04T20:00:03+00:00",
+      "summary": "Buried electrical pathways across the US reveal new clues about Earth's interior and power grid risks&nbsp;&nbsp;Phys.org",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBucHpCaTBOMGRKZXJuVjNsZVhSczlsSmd3OVh6UlZiSGVvZ09OLXlXTWxROG15MjByWU9GWkhCSmFUbThyaktldkpRZGVwUnE0X2x5aWtydEhmeWdJcHdpMnV4SmJqSFR6WmUwNmRPUmF5NGdvTGMzc0kwU2Y0Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a3735ec1a1ef",
+      "title": "Quantum Breakthrough: New Algorithm Solves “Impossible” Materials in Seconds - SciTechDaily",
+      "published": "2026-05-04T19:02:46+00:00",
+      "summary": "Quantum Breakthrough: New Algorithm Solves “Impossible” Materials in Seconds&nbsp;&nbsp;SciTechDaily",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb0lpbktLa0o0SnVlaHh0bVFHemt6V2pFYnhTM1dlbHNXU081YzNjWXdvcWs2ODFZaFhkOGt0WF9ER2wwNU5sUXNNcHN1T0FEY1Rrb2hVcHQxNWpTYWdZT3Y5ZC1mNGVDM3RWWUxFaDZFNjBHN2FtejdVRHoxeFNCNlpaUi05UmNUb2QyWHhZeTdZRzNWTlJhNE5XUWQ3RWFH?oc=5"
         }
       ]
     },
@@ -114,22 +174,22 @@
       ]
     },
     {
-      "id": "43262e7eb0a6",
-      "title": "3 Medical Routines That Older People May Not Need - The New York Times",
-      "published": "2026-05-04T18:47:00+00:00",
-      "summary": "3 Medical Routines That Older People May Not Need&nbsp;&nbsp;The New York Times",
+      "id": "afa25ca3a747",
+      "title": "Get ready to work for 60 years — as living to 100 becomes the new norm - MarketWatch",
+      "published": "2026-05-04T17:25:00+00:00",
+      "summary": "Get ready to work for 60 years — as living to 100 becomes the new norm&nbsp;&nbsp;MarketWatchThe Author of the New Book Longevity Nation on the Habits He’s Adopted to Become Healthier as He Ages&nbsp;&nbsp;Men's HealthHow to Live to 100, According to Longevity Experts&nbsp;&nbsp;Good HousekeepingMichael Clinton’s New Book Explores Longevity in All Its Forms&nbsp;&nbsp;WWDWord of the Week: Centenarians. Would you want to live to 100 and beyond?&nbsp;&nbsp;The Berkshire Eagle",
       "sources": [
         {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeDBSWjFWYUNpS05DWHdmaXpZZl80ZHFGeEpES0MzNnhRTmpUV3NyMUUxOHdxa0I2TGoxa0lEbDMzNDhBMXhlTWlVQ0tRcld2c3lOTExSNktDbkl0RXJwX0tZTTQyUFFwekFrTnRGUFVjU2dNRWRveWZhZUJrcUhCckM2YlhRQlI3Ry1WZ2p4RQ?oc=5"
+          "name": "MarketWatch",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVHJGS1c2S0JPamhIcW5DQ2lmQlhXOG5VNS1ZeFJBRTFiRGc5RUNIcGVidjFSZGVJa0wwc0lqWWVDdFpEVXo4SkRJNGptenJBTnVDMjExd1phWmsxenBkN3czdXJUeEF4RWd1YXF5cUppUTVpc0JUSHVWQVBzbktRenJBYVVwM2ZScDNlcF96X1dXcVg1ZERaS1EwY0ZJM0sxTEprbWRoU3hiYmQ3dlF3Tg?oc=5"
         }
       ]
     },
     {
       "id": "7da4c520e3b7",
       "title": "Symmetry says these crystal vibrations can never mix, but an exotic quantum phase rewrites the rules - Phys.org",
-      "published": "2026-05-04T17:32:24+00:00",
-      "summary": "Symmetry says these crystal vibrations can never mix, but an exotic quantum phase rewrites the rules&nbsp;&nbsp;Phys.orgResonant chiral dressing by amplitude fluctuations in a ferroaxial electronic crystal&nbsp;&nbsp;NatureResearchers Detect Quantum Phase With Light Scattering&nbsp;&nbsp;Quantum ZeitgeistExotic Quantum Phase Dynamically Links Vibrations Separated by Symmetry&nbsp;&nbsp;Bioengineer.org",
+      "published": "2026-05-04T17:20:11+00:00",
+      "summary": "Symmetry says these crystal vibrations can never mix, but an exotic quantum phase rewrites the rules&nbsp;&nbsp;Phys.orgResonant chiral dressing by amplitude fluctuations in a ferroaxial electronic crystal&nbsp;&nbsp;nature.comResearchers Detect Quantum Phase With Light Scattering&nbsp;&nbsp;Quantum ZeitgeistExotic Quantum Phase Dynamically Links Vibrations Separated by Symmetry&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
           "name": "Phys.org",
@@ -138,22 +198,10 @@
       ]
     },
     {
-      "id": "19129ab37a18",
-      "title": "Scientists Discover Scorpions’ Sting Fortified with Metal - Ground News",
-      "published": "2026-05-04T17:17:00+00:00",
-      "summary": "Scientists Discover Scorpions’ Sting Fortified with Metal&nbsp;&nbsp;Ground NewsScorpions Are So Metal—Literally. New Images Reveal Patterns in How Their Weaponry Is Fortified With Iron, Zinc and Manganese&nbsp;&nbsp;Smithsonian MagazineScorpions go terminator mode and reinforce their weapons with metal&nbsp;&nbsp;Ars TechnicaScorpions' weapons are fortified with metal to suit their needs, research shows&nbsp;&nbsp;Phys.orgScorpions reinforce their claws and stingers with metals&nbsp;&nbsp;New S",
-      "sources": [
-        {
-          "name": "Ground News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdVhmQnpudk9TV0hDWnY5ZnlhMEJMWHZQb1BzSi1KSkl5NGl5cnFhN3FzYjlaaEd5SWRxQjB2MXFGU21Vd3BIbmI3TEdEVFJsQkZqMm5nTU92TEhXQUJwTGhFQzJfTEhoZk00dU1lQzJJVUVMSU83UF9feEExUU96b2RXWF9jbmE5QWNxajJJdUMtZVBHRVB5LVNmUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "88534f599150",
       "title": "Column | Can vaping cause cancer? The evidence suggests it might. - The Washington Post",
       "published": "2026-05-04T17:00:00+00:00",
-      "summary": "Column | Can vaping cause cancer? The evidence suggests it might.&nbsp;&nbsp;The Washington Post80+ Countries Have No Age Limits for Vapes. Now, They May Be Linked to Cancer.&nbsp;&nbsp;ThePetitionSite.comA Beginner’s Guide To Newer Nicotine And Tobacco Products: Nicotine Pouches, Heated Tobacco And E-cigarettes (Vapes)&nbsp;&nbsp;OncodailyElectronic cigarettes linked to higher cancer risk&nbsp;&nbsp;Sharjah24Public Health Concerns Grow As European Union Labels New Nicotine Devices A Threat&nbsp",
+      "summary": "Column | Can vaping cause cancer? The evidence suggests it might.&nbsp;&nbsp;The Washington PostElectronic cigarettes linked to higher cancer risk&nbsp;&nbsp;Sharjah2480+ Countries Have No Age Limits for Vapes. Now, They May Be Linked to Cancer.&nbsp;&nbsp;ThePetitionSite.com",
       "sources": [
         {
           "name": "The Washington Post",
@@ -162,50 +210,26 @@
       ]
     },
     {
-      "id": "d4cea0513373",
-      "title": "Blue Origin Moon Lander Completes Testing at NASA Vacuum Chamber - NASA (.gov)",
-      "published": "2026-05-04T16:31:01+00:00",
-      "summary": "Blue Origin Moon Lander Completes Testing at NASA Vacuum Chamber&nbsp;&nbsp;NASA (.gov)Jeff Bezos’ Moon Lander Just Completed a Key Test&nbsp;&nbsp;FuturismFAA Orders Investigation After Blue Origin’s Rocket Mishap&nbsp;&nbsp;The Presidential Prayer TeamBlue Origin Launch Failure Could Reshape Commercial Space Competition&nbsp;&nbsp;Rebellion ResearchBlue Origin's Blue Moon Mark 1 passes NASA environmental tests&nbsp;&nbsp;NewsBytes",
+      "id": "994b692ce185",
+      "title": "Omega-3 supplements may be linked to faster cognitive decline in seniors, study finds - Medical Xpress",
+      "published": "2026-05-04T16:40:08+00:00",
+      "summary": "Omega-3 supplements may be linked to faster cognitive decline in seniors, study finds&nbsp;&nbsp;Medical XpressOmega-3 Supplements Linked to Cognitive Decline in Surprising New Study&nbsp;&nbsp;SciTechDailyOmega-3 Supplements May Increase Risk of Cognitive Decline, Scientists Warn&nbsp;&nbsp;ScienceAlertOmega-3 supplements may affect individuals differently with some users showing faster cognitive decline study finds&nbsp;&nbsp;TheHealthSiteChinese study suggests omega-3 may accelerate cognitive",
       "sources": [
         {
-          "name": "NASA (.gov)",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOVd4ZVlDOEpXSmR5RElUeEsyVVFmalZTeGtJWWhzb2NCZEhNM2drNXRiOUFkLTB1TkRNeVVhNW9vRE5FQTNoaFdCb0poOWw1cmd2XzROb0FrMVJSck1ENkRGRWVSWDJVMGd6S2FGZThtUjhWdi1NRlQ1WmFiZk1TMHcwUzhhOWJvV3FTYnU3ZWZDYzB4MGU1dEJ3RDZSVTBtdVM2VmhB?oc=5"
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdkVNUVZtLTUxTWhaZWdWVlZUQWdaOUMtaU9DM0k1Z2NNWTB3LVVvaFlUU2J2SlIycTN1T1ctUHVqREU2dDctb1VKeXVycEUzZW8zdk5fa2tkdXNtS3oyZHNEYTA4bDBQWFAxbVVCYjhYNGZtZ1pOOXFBM2UwVkJma1VadS1WaThVTkpJOE9R?oc=5"
         }
       ]
     },
     {
-      "id": "2c87f60d5dda",
-      "title": "This simple amino acid supplement greatly reduces Alzheimer’s damage - ScienceDaily",
-      "published": "2026-05-04T15:16:29+00:00",
-      "summary": "This simple amino acid supplement greatly reduces Alzheimer’s damage&nbsp;&nbsp;ScienceDaily",
+      "id": "fdbafda4d97f",
+      "title": "Dads are dying after their kids are born, and no one is tracking it - Northwestern Now News",
+      "published": "2026-05-04T16:27:41+00:00",
+      "summary": "Dads are dying after their kids are born, and no one is tracking it&nbsp;&nbsp;Northwestern Now NewsResearchers urge study of paternal deaths, though a new paper finds fatherhood is protective&nbsp;&nbsp;statnews.comStudy: As fathers protect children, fatherhood protects dads&nbsp;&nbsp;HealthExecFathers Face Increased Mortality After Their Children Are Born, Yet No One Is Monitoring It&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zNGViVmd1Ym1LckRsZERPNHZDd3o5d0gxQ0dIcWZLLXhBdUVEcktWZGx6VGZKeERrUTJtQ0lXTEpvczhFWWg3aEpvSmMyX25hLWl2Y1hqZER6Tnl0djJTWExNUWhicVFyYldGWGFUcw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e18c26bcb1c3",
-      "title": "Omega-3 Supplements Linked to Cognitive Decline in Surprising New Study - SciTechDaily",
-      "published": "2026-05-04T14:51:00+00:00",
-      "summary": "Omega-3 Supplements Linked to Cognitive Decline in Surprising New Study&nbsp;&nbsp;SciTechDailyOmega-3 supplements may be linked to faster cognitive decline in seniors, study finds&nbsp;&nbsp;Medical XpressOmega-3 Supplements May Increase Risk of Cognitive Decline, Scientists Warn&nbsp;&nbsp;ScienceAlertChinese study suggests omega-3 may accelerate cognitive decline in genetically-at-risk-for-Alzheimer's&nbsp;&nbsp;NewsBytes",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQVhUVUdRNUkzcjUyd2M5MkFqc2t4ZzB5YVNPUnB4RFZRZ0tkbkJpMGl5b0ZWYkZ1S1VLR3NhV3pNNWRMaEpqRGVlV0pMV1dRQ3F4MkZHMWptcTJuSE1DTDd1R21kekE5TC01dnJVRFU4NENmdHRWSWt3VFphWGJiRmw2cGQxRFhMS2oyaXN5d2JBd0stMGZMUUd6bmFZZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a1f9701f756c",
-      "title": "One in Five at Risk: Scientists Identify a Hidden Blood Particle Linked to Higher Risk of Stroke and Death - SciTechDaily",
-      "published": "2026-05-04T14:16:14+00:00",
-      "summary": "One in Five at Risk: Scientists Identify a Hidden Blood Particle Linked to Higher Risk of Stroke and Death&nbsp;&nbsp;SciTechDailyHigh lipoprotein(a) levels linked with long-term heart disease risk&nbsp;&nbsp;Medical News TodayWhat is lipoprotein(a) cholesterol, or Lp(a)? And can you lower yours?&nbsp;&nbsp;The New Daily1 reason why healthy people have heart attacks, and what experts say could help&nbsp;&nbsp;CBCThe test that will reveal whether you are at risk of a heart attack and is available",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYjZVQU0wMU9NcGFCeXpwOHkxODVHSXQtQnpkTTNiZXV6N1duVkdYdlBQbW15Q1djZ3p3bVN1ZW1fRDRrcjNwQkNoSEUwS0RLT05NQnR3NUhJa0R3NkF5VGt0Q253V1htWkJNQ0lCNlZaaTBGcG53NE5tX1d3S2VjRTFfa2cySkYwX0pQTm15eTVfcVNCUGRHaUxtV2dlSGJnNzkxM3l3V2YzdTEwajUwZnQ2RlVOSkpXQkk4dzl2d0pDaDdPb3p6UVJ0UQ?oc=5"
+          "name": "Northwestern Now News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZEZHREJGRndMZEp4dE1yS1FVRXZqcTk2ZlhBOU9YMkxzeHhmNHR6V2xyUWVGR3ZjeEdYZDhENEZJZl9lbkF1WWkxbHpHRXVIUjhNYmdXZDlvV0h2RDU1bFllUGpXbFRJTFR6eWxqRDc3cjZvQ3dLbVJCVHl6cGhhaHRHVDBhS1k2MmJCMzBQQUQ0eEZocXpkMERlNkNZZw?oc=5"
         }
       ]
     },
@@ -222,14 +246,14 @@
       ]
     },
     {
-      "id": "c691288debc2",
-      "title": "Heart doctor shares warning over food ‘worse than smoking’ that decreases lifespan - LADbible",
-      "published": "2026-05-04T12:33:36+00:00",
-      "summary": "Heart doctor shares warning over food ‘worse than smoking’ that decreases lifespan&nbsp;&nbsp;LADbibleMAHA Awaits Robert F. Kennedy Jr.’s Definition of Ultraprocessed Foods&nbsp;&nbsp;The New York TimesHow unhealthy ultra-processed foods are designed and marketed to make us crave them&nbsp;&nbsp;The ConversationDoctor issues warning over food ‘worse than smoking’ that makes up over half the average American's diet&nbsp;&nbsp;UNILAD TechThe Ultra-Processed Society: A Simulation Of Real Life&nbsp;",
+      "id": "a9e8aef1ac2a",
+      "title": "Medical Marijuana Can Be A 'Profoundly Helpful Tool' For Seniors Dealing With Pain And Other Maladies (Op-Ed) - Marijuana Moment",
+      "published": "2026-05-04T13:01:30+00:00",
+      "summary": "Medical Marijuana Can Be A 'Profoundly Helpful Tool' For Seniors Dealing With Pain And Other Maladies (Op-Ed)&nbsp;&nbsp;Marijuana MomentOpinion | Here's What Medical Marijuana Can Do for Older Patients&nbsp;&nbsp;MedPage TodayPrevalence of Selected Complementary Health Approaches High in Seniors&nbsp;&nbsp;Ophthalmology Advisor",
       "sources": [
         {
-          "name": "LADbible",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUUZsWC1ydGN3cDhjM2dzQldJYkJvQV9hSW5sSVNEYVhMM1ZabEdIQ1hNUTI4OXVDSEhxQ3B4V2VhYUpwaUdiaWpQTkxvS3ZKb1NPcnE2Qk1KUUw0MUN2MmhZbFdGOWk5b2FvX0dDdkpEcHlnVWRKVkI0SnpLUXJvdFlPUDM2emExbXBSaDBZZVJfWUE?oc=5"
+          "name": "Marijuana Moment",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNkRDVnVQa2UxMTBVUVZSY3NPOERGek1qLWxaWDdEMTI0VkFKa0lWZFAwXzZBR2NBeFlfVTNfS0dYcFpWbEVvQks4azBaZG9FLUIxZmttVE5ORWZGX0JiSDlZTFpNVGgzdjVCcVNCRGRBdUl6aTAwaWpGbE13QlZpYW1WUUJLajFWOHlLMWhJSFJpMjRtTjFPQUNUODRPRkRrYkJZbzhFUVA5Tm1wX1E2QWpCNlNmV2R3V3VBZXF6UGlUY0FYMWpsbTFWSXFQVUJfOTN1Qg?oc=5"
         }
       ]
     },
@@ -249,7 +273,7 @@
       "id": "e18ec73d92f8",
       "title": "Science Has Found Even More Ways Coffee Is Good for You - WIRED",
       "published": "2026-05-04T09:30:00+00:00",
-      "summary": "Science Has Found Even More Ways Coffee Is Good for You&nbsp;&nbsp;WIREDAll coffee, even decaf, can improve mood, brain health, study finds&nbsp;&nbsp;Medical News TodayCoffee helps protect your body from aging and disease, study says&nbsp;&nbsp;USA TodayScientists just discovered what coffee is really doing to your gut and brain&nbsp;&nbsp;ScienceDailyCan coffee actually reduce anxiety? A surprising new study says yes&nbsp;&nbsp;delicious.com.au",
+      "summary": "Science Has Found Even More Ways Coffee Is Good for You&nbsp;&nbsp;WIREDScientists just discovered what coffee is really doing to your gut and brain&nbsp;&nbsp;ScienceDailyNew Research Reveals That Your Morning Coffee Activates an Ancient Longevity Switch&nbsp;&nbsp;SciTechDailyCoffee helps protect your body from aging and disease, study says&nbsp;&nbsp;USA TodayAll coffee, even decaf, can improve mood, brain health, study finds&nbsp;&nbsp;Medical News Today",
       "sources": [
         {
           "name": "WIRED",
@@ -273,7 +297,7 @@
       "id": "1c8918815b6c",
       "title": "Scientists reveal creatine’s hidden power beyond muscle gains - ScienceDaily",
       "published": "2026-05-04T08:15:36+00:00",
-      "summary": "Scientists reveal creatine’s hidden power beyond muscle gains&nbsp;&nbsp;ScienceDailyCreatine is claimed to benefit body and mind: The potential benefits and limitations of the popular supplement&nbsp;&nbsp;Medical XpressPopular gym supplement is ‘not a magic bullet’ — its benefits depend on 3 major factors&nbsp;&nbsp;New York PostCreatine: Creatine: Is it more than just a muscle supplement?&nbsp;&nbsp;The Times of IndiaThe Supplement Experts Are No Longer Recommending Just for Athletes&nbsp;&nb",
+      "summary": "Scientists reveal creatine’s hidden power beyond muscle gains&nbsp;&nbsp;ScienceDailyCreatine is claimed to benefit body and mind: The potential benefits and limitations of the popular supplement&nbsp;&nbsp;Medical XpressPopular gym supplement is ‘not a magic bullet’ — its benefits depend on 3 major factors&nbsp;&nbsp;New York PostCreatine: Creatine: Is it more than just a muscle supplement?&nbsp;&nbsp;The Times of IndiaCreatine is a popular supplement. It has benefits but also risks&nbsp;&nbsp;",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -282,34 +306,10 @@
       ]
     },
     {
-      "id": "8f4a4add8c48",
-      "title": "A physical therapist says you should work on strengthening this often overlooked area if you want to age well and stay independent - Fit&Well",
-      "published": "2026-05-04T06:00:00+00:00",
-      "summary": "A physical therapist says you should work on strengthening this often overlooked area if you want to age well and stay independent&nbsp;&nbsp;Fit&amp;WellWant to Live Longer? Longevity Science Says This Overlooked Factor Can Increase Your Risk of Dying by 6 to 7 Times&nbsp;&nbsp;inc.comWomen aged 63 to 99 who could grip harder or stand up from a chair more quickly had a lower risk of death after a follow-up period of up to 8 years in a study involving more than 5,400 participants&nbsp;&nbsp;OkDi",
-      "sources": [
-        {
-          "name": "Fit&Well",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNUE1MMWNTbzJ6TnRmY0w5a3lyS1ZoSGtzbDBSaTN1OG5wbmsyUTFVVTAxeFZjbzBpVHZOSGFCSFNaSjNINjE0NlNhSFBFb2VZLTB1T29TLTRVV3BObE8xSENvd3lmSkxXbHFNdkliSDFDSUQzQ0pkbHd1eXZiMTVPaDJnSERkb2pUa2JJYmpvYVN0U05ZNDRGeXNXR1pNUTlMVHVKVVQxUk9rQVpfNEVkYjVvaHp4OUxXWE9aQjQ1WmJxRTYtYldtRllzNDFvUDcta29tVmNaZDdRcVJyOExtb2JXRHFQb2wtOEZBZEZxUXljWFo5SGRDS1NPSWJYcGpFUjlDVHpsc0FrY1dM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "79a371a33f38",
-      "title": "Evolution isn’t random. Scientists find the same genes used for 120 million years - ScienceDaily",
-      "published": "2026-05-04T05:10:51+00:00",
-      "summary": "Evolution isn’t random. Scientists find the same genes used for 120 million years&nbsp;&nbsp;ScienceDailyGenetic parallelism underpins convergent mimicry coloration in Lepidoptera across 120 million years of evolution&nbsp;&nbsp;PLOSScientists Discover Evolution’s 120-Million-Year-Old “Cheat Sheet”&nbsp;&nbsp;SciTechDailyStudy: Butterflies and Moths Have Reused Same Genetic Toolkit for 120 Million Years&nbsp;&nbsp;Sci.NewsButterfly genes reused for 120 million years show that evolution isn’t ran",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WcWtOOU10RGJFa3N6TlJRaWhmcjVqUmp3SExmb3ZPYU44TUJTY2pJQ0FIaGZmak8tYzZMaW5DSXNnOUx5b3NhdjdTeGs3ODFkQW8wckVZOHBuN1Z4REhiSWtfb0V4OEUxenkxdTMzRQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e603e304cfa9",
       "title": "One Type of Exercise Can Give You Better Results With Less Effort, Expert Says - ScienceAlert",
       "published": "2026-05-04T01:36:36+00:00",
-      "summary": "One Type of Exercise Can Give You Better Results With Less Effort, Expert Says&nbsp;&nbsp;ScienceAlertPut those weights down! How ‘eccentric’ exercise opens up a whole new world of fitness&nbsp;&nbsp;The GuardianWant to Build More Muscle With Less Effort? Try Eccentric Exercise&nbsp;&nbsp;HealthlineYou don’t need intense workouts to build muscle, new study reveals&nbsp;&nbsp;ScienceDailyEccentric exercise builds muscle strength and size with less effort&nbsp;&nbsp;News-Medical",
+      "summary": "One Type of Exercise Can Give You Better Results With Less Effort, Expert Says&nbsp;&nbsp;ScienceAlertPut those weights down! How ‘eccentric’ exercise opens up a whole new world of fitness&nbsp;&nbsp;The GuardianYou don’t need intense workouts to build muscle, new study reveals&nbsp;&nbsp;ScienceDailyFitness expert who trained Navy SEALs reveals the workout that builds muscle fast with less training&nbsp;&nbsp;OkDiarioWant to Build More Muscle With Less Effort? Try Eccentric Exercise&nbsp;&nbsp;",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -321,143 +321,11 @@
       "id": "ba214362e88f",
       "title": "New discovery suggests existence of 60-foot, kraken-like octopus - Yahoo",
       "published": "2026-05-03T21:00:00+00:00",
-      "summary": "New discovery suggests existence of 60-foot, kraken-like octopus&nbsp;&nbsp;YahooWhy do scientists think these 65-foot octopuses were the real rulers of ancient oceans before sharks took over?&nbsp;&nbsp;The Times of IndiaEnormous octopuses dominated Earth's prehistoric seas over 100 million years ago&nbsp;&nbsp;The Economic TimesA real-life kraken monster? At 19m it was longer than a railway carriage, devilishly smart and able to crush prey with a devastatingly lethal bite...&nbsp;&nbsp;BBC Wil",
+      "summary": "New discovery suggests existence of 60-foot, kraken-like octopus&nbsp;&nbsp;YahooShockingly Powerful Giant Octopuses Ruled the Seas 100 Million Years Ago&nbsp;&nbsp;SciTechDailyMassive kraken-like octopus may have prowled seas during the age of dinosaurs&nbsp;&nbsp;PinalCentral.comA real-life kraken monster? At 19m it was longer than a railway carriage, devilishly smart and able to crush prey with a devastatingly lethal bite... | Discover Wildlife&nbsp;&nbsp;BBC Wildlife Magazine\"Unleash the Kra",
       "sources": [
         {
           "name": "Yahoo",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbm5IUURwRlZnVW9yaHhnTnh3V1FLaUc3OEpSRWlpZkV4MW40MnFiNkpKX3g4NlZVMHRvaWJuLVdEOHFNQVNPb3JPelNUUjN3QTlSVnhzZzIteXY5R3hRSG4zRDNORkNqUV9qMm9QN0hYSTNxS3A0M2FyS1ozQW5COUhHU2VjMkJHSUtvWFhpdXU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ac42db5eb4bd",
-      "title": "How a newly discovered organelle could help reduce cow methane emissions - Phys.org",
-      "published": "2026-05-03T15:40:09+00:00",
-      "summary": "How a newly discovered organelle could help reduce cow methane emissions&nbsp;&nbsp;Phys.orgScientists just discovered what is fueling cows’ potent burps&nbsp;&nbsp;Scientific AmericanSee the unexpected beauty in the microbes behind cow burps&nbsp;&nbsp;The Washington PostSTAT Podcast “The Readout LOUD” on April 30, 2026, Discusses Investor Interest in Hair Loss Drugs and AI in Clinical Trials&nbsp;&nbsp;geneonline.comChemistry in Pictures: Glowing gassy gut microbes&nbsp;&nbsp;C&amp;EN",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LY1VNaWRZQVdZbzl1VmNGc0ZwaXpHMTBqb29lclliVENIeHVWamt4MHdVQlFfalNxSEV5bTdtR0dvSTRxN1FPMzM2ekhaQVlBZTBEMkxwTlNmMzlYYTd0RjlweWJ4OGMycWxHTS1TVC1wSGE5czU2eWVRYUc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e0023e404aac",
-      "title": "Mars will tear its own moon apart. Now scientists think it could be sooner – and more destructive – than expected - BBC Sky at Night Magazine",
-      "published": "2026-05-03T14:16:00+00:00",
-      "summary": "Mars will tear its own moon apart. Now scientists think it could be sooner – and more destructive – than expected&nbsp;&nbsp;BBC Sky at Night MagazineMartian Moon Phobos Could Break Into Planetary Rings Sooner Than We Thought&nbsp;&nbsp;IFLScienceMars will deliver a violent death to its own Moon sooner than expected&nbsp;&nbsp;WION",
-      "sources": [
-        {
-          "name": "BBC Sky at Night Magazine",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRmE5cngwWTduTGJVQ3g1S3dpWXNkSEhLcUFXVkRRWHNrdi1FSWhsQXVCRjg0LXhDWDl1ME1YcU96X3hmUkhmbGIxMEVFWmZMNmxDZXYtYk9IZHFQeC1lRnFqeU16M1dqd3BKem0xRDFwN2NjNVg0emNvRE05OGNmRUJ0VTZVZ19PUFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "956e43dc8bac",
-      "title": "Spaceflight is hard on the heart, yet artificial ones grow better in space than on Earth - Space",
-      "published": "2026-05-03T14:00:00+00:00",
-      "summary": "Spaceflight is hard on the heart, yet artificial ones grow better in space than on Earth&nbsp;&nbsp;Space",
-      "sources": [
-        {
-          "name": "Space",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY2lrdGU4X0RYMEZsVThSbDBCeWpTU1htSmpIeklSZ3lqMGVydV9lQ0pIU0JtQWRvajVvMzRYZ0ZoeGNZRWZFZmVOTG5qbV9nTUlsRnh5azFHUnlLVjhCc1dwSnJQMXRidUhLZGkwbEtCR0d2d2tLY21qR0FobEZLazBqSWpXMnpnTTc5eXIwZlBHNEZ6QzhIM21TUkJaTlk2SThwM3BGalJLb0w1NWNTQktaRHhVVDJCUlRUUmtxV3ctQ0FaYXptZ0RKS3ctczFGdTJyVUVwZy16eFI5aGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "edfa4b6b921f",
-      "title": "Physicists just found a tiny flaw in time itself - ScienceDaily",
-      "published": "2026-05-03T13:42:19+00:00",
-      "summary": "Physicists just found a tiny flaw in time itself&nbsp;&nbsp;ScienceDailyMystery of Time Deepens as “Strange Physics” Study Reveals New Links to Gravity and the Quantum World&nbsp;&nbsp;The Debrief",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxN0FXX25lYUVuakVIMlNuTWc0Rk1aeEFrMDBYbUR3eUUwM3JRVFlrZlA4Y2tTTXdmMi1kZ3FWaXlRVE5yZmRubkNkLVdtZDZPOEVMc2JfbVNvRjBubEtRbE1RNjZwelRuU1pQZ19kOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0f00a90a14ad",
-      "title": "A tool to help keep dementia in check - CBS News",
-      "published": "2026-05-03T13:31:00+00:00",
-      "summary": "A tool to help keep dementia in check&nbsp;&nbsp;CBS NewsThe Roots of Dementia Trace Back All The Way to Childhood, Experts Reveal&nbsp;&nbsp;ScienceAlertEight easy exercises that protect against dementia&nbsp;&nbsp;The TelegraphBrain Health Win: Learning a New Skill After Age 55 Lowers Cognitive Decline Risk by 23%&nbsp;&nbsp;savingadvice.comStudy shows brain training can reduce Alzheimer’s and dementia risk by 25 percent&nbsp;&nbsp;The University of Alabama at Birmingham",
-      "sources": [
-        {
-          "name": "CBS News",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XLUhUWmF5bmo1OXkwcTBMczA5M2FMQVU0TWp1U1ZxZkxRMUNPUDJqRVNRZFlZSzhtMU1SbklpaklSd0xfWEoyeUNILTVXWmw2MzJVRkZPMEFBTkg3bjNJUkhaV1J4S3UzektmTlIxUHExd1RlcjNXVmJXaEZYZ9IBgwFBVV95cUxOTTNiemliN1Z0OURoT2pCSldlc0xLSl9PQk9jV2dWQVVLYU9OU1NMekxzTE9KcnQ3a1ZrTE5kUjd4b0IyemxlVG1BMW4yWFZBZFhUanFzand6eTBxVHBHZ1h2MHBER0hzLUx1OGE4MUlmT05uS18tbU1ObzJRZ3Q0Tktvdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "29a3ec0ab089",
-      "title": "California researchers devise treatment for deadly pregnancy condition - SFGATE",
-      "published": "2026-05-03T13:04:48+00:00",
-      "summary": "California researchers devise treatment for deadly pregnancy condition&nbsp;&nbsp;SFGATEA treatment for pre-eclampsia may be on the horizon&nbsp;&nbsp;The EconomistTargeted removal of soluble Fms-like tyrosine kinase 1 in very preterm preeclampsia: a pilot trial&nbsp;&nbsp;Nature'Blood filtering' therapy could treat preeclampsia, early study hints&nbsp;&nbsp;Live ScienceCedars-Sinai Blood Filter Buys Lifesaving Days For LA Pregnancies&nbsp;&nbsp;Hoodline",
-      "sources": [
-        {
-          "name": "SFGATE",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc0dzWDk0YjllSk9VSkV6endEWkd5eDZUendPeFNmVC1CVWpYZEVuNktFSlFCazFXZEMxdlF0N2xKdTlQWXRWN2VHcmQ0aGpVWUcyTVZ6bnU2QUc2MDJiSzMzN2ZacTZ5azFzeDY1aV9qdi1BczMwdDVsQ2dQaXlXZ09MbnZ3Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "989db64bc857",
-      "title": "AI Detects “Invisible” Signs of Pancreatic Cancer Years Before Diagnosis - SciTechDaily",
-      "published": "2026-05-03T12:55:10+00:00",
-      "summary": "AI Detects “Invisible” Signs of Pancreatic Cancer Years Before Diagnosis&nbsp;&nbsp;SciTechDailyAI finds signs of pancreatic cancer before tumors develop&nbsp;&nbsp;NBC NewsMayo Clinic AI helps specialists detect pancreatic cancer up to 3 years before diagnosis in landmark validation study&nbsp;&nbsp;Mayo Clinic News NetworkNew tool can find deadliest cancer years before tumors can be seen on a scan&nbsp;&nbsp;New York PostAI Can Spot Pancreatic Cancer Years Before Diagnosis, Study Finds&nbsp;&n",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd3k0ckpJSEJHd2lfNzdrZUNqeWtQb3dlMDNWOHdIdzRMek91RlBlbG83NEFDdVRUUE1xR3VBdTlGbVdtekFyUkdCU0htU3NpUU0tZ3FtTnF2aHV5bVE2NFZjVDlrVFhkQWdQRWFkZl9TS0d4aGlDcWJ1RmtqYXVVeno3U25yWk1PR0RVT2NfWHF4WnBSSDFFSlNEVVA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cb10e489c8dd",
-      "title": "My Kid’s School Is Going Through a Financial Scandal. What Parents Have Chosen to Do About It Is Breaking My Heart. - Slate",
-      "published": "2026-05-03T12:00:00+00:00",
-      "summary": "My Kid’s School Is Going Through a Financial Scandal. What Parents Have Chosen to Do About It Is Breaking My Heart.&nbsp;&nbsp;Slate",
-      "sources": [
-        {
-          "name": "Slate",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSjdtcHk5Q3hETUt1NUZEZWhVTlFEdkJkV0NNeUhXMGZVTjNWeGxWaE4zbXpBTUpEaEpERFUyaVpoZ05pRkNSWURmTUpVaXd2YTdIYXhBb3JyT3dhc043QkxWUHRTLV8ycE9UbHQ4ZjZkOGF2SnlTaEw0ZS1aMk9GeQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0aeb559d6754",
-      "title": "Scientists Say There’s Something Huge Buried Inside Our Galaxy - Futurism",
-      "published": "2026-05-03T11:30:00+00:00",
-      "summary": "Scientists Say There’s Something Huge Buried Inside Our Galaxy&nbsp;&nbsp;FuturismA lost galaxy called 'Loki' may be hiding inside the Milky Way&nbsp;&nbsp;Phys.orgHidden galaxy within our galaxy discovered — billions of years after Milky Way ate it&nbsp;&nbsp;New York PostThere’s A Dwarf Galaxy Hidden Inside the Milky Way&nbsp;&nbsp;Nautilus | ScienceNew study suggests possible ancient galaxy Loki in Milky Way&nbsp;&nbsp;NewsBytes",
-      "sources": [
-        {
-          "name": "Futurism",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OMzlIUkhhR3N2bW9Jam0tUzFPbTRfSEpEMnlIMl9ZSnV2NEU1bXBzYnFISVA0T1U4LWRabjZaMVN1Q05VcjlrRW5hZTNCSl83Um5TOFRyWTJmcHgwZ0VCdg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6d0ee50a2cff",
-      "title": "The body’s most mysterious organ may play a key role in longevity and cancer - Yahoo",
-      "published": "2026-05-03T10:00:00+00:00",
-      "summary": "The body’s most mysterious organ may play a key role in longevity and cancer&nbsp;&nbsp;YahooView Full Coverage on Google News",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVS1fenk0RUluc2Y1QmJJR1p0bU1iV0tZbUtrNmdpQ1hZek1kQVRkTk5MVVNBVGo1dmpKNmlYdmYwSFdORWpPMnBBdlBYQnJiWmNVMlB1b3dsTjNKejZ2LXpRR3Z3ektaNDdkUjhsUzNfYjhMd2Z4WmJMYVhVT0NjMFBfN2lxUnZr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8da2a978f1af",
-      "title": "The bias in medical research: Africa carries a huge disease burden but is missing from clinical trials - The Conversation",
-      "published": "2026-05-03T09:48:49+00:00",
-      "summary": "The bias in medical research: Africa carries a huge disease burden but is missing from clinical trials&nbsp;&nbsp;The ConversationBias in medical research: Africa carries a huge disease burden, but is missing from clinical trials&nbsp;&nbsp;The Eastleigh Voice",
-      "sources": [
-        {
-          "name": "The Conversation",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR3c3Zktqd29EbURYY241bVJBbzk1alR0eEw0dUVvSy01a2JsaF9zTERPTmVoU1MxT3UzWmluNGRmaEtSYUVDMWVHVWNvY3hjd2tjc21KcnV4R2dWUk90Rzdhb0NkZlFRV19vdmNXd2gxMFVRSGZhbnJYYUhJMWVKVkV5OVhFcXNMeGdQd1ZtNmtIZXdqQ1d2T0tkMzE0eXJjSk9kemdwUjZwdVcyWlJQWjR1VVRPUl9PdXE1TUFYR19fMTVBUXo5R1FJcE1oR2loWkE?oc=5"
         }
       ]
     }

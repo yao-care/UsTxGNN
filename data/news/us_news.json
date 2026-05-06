@@ -1,19 +1,43 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-06T14:22:14.152314+00:00",
-  "total_fetched": 89,
-  "unique_count": 89,
-  "health_related_count": 35,
+  "fetched_at": "2026-05-06T19:49:55.951510+00:00",
+  "total_fetched": 90,
+  "unique_count": 90,
+  "health_related_count": 31,
   "news": [
     {
-      "id": "4dd55d953747",
-      "title": "Andes Strain Of Hantavirus—Only Known Variant That Spreads Person-To-Person—Is On Ship (Live Updates) - Forbes",
-      "published": "2026-05-06T13:57:00+00:00",
-      "summary": "Andes Strain Of Hantavirus—Only Known Variant That Spreads Person-To-Person—Is On Ship (Live Updates)&nbsp;&nbsp;ForbesWhat to Know About the Hantavirus Outbreak on an Atlantic Cruise Ship&nbsp;&nbsp;The New York TimesThree evacuated from hantavirus cruise ship as Spain says vessel will dock in Canary Islands despite objection – Europe live&nbsp;&nbsp;The GuardianHantavirus Case in Switzerland Spurs Race to Trace Contacts&nbsp;&nbsp;WSJThe Latest: 3 passengers from virus-hit cruise ship evacuate",
+      "id": "1ab3d30dceea",
+      "title": "3 patients are being evacuated to Europe from cruise ship with hantavirus outbreak - AP News",
+      "published": "2026-05-06T19:06:00+00:00",
+      "summary": "3 patients are being evacuated to Europe from cruise ship with hantavirus outbreak&nbsp;&nbsp;AP NewsHantavirus on cruise ship confirmed as rare type that can spread human-to-human&nbsp;&nbsp;NPR3 People Are Evacuated From Cruise Ship With Hantavirus Outbreak&nbsp;&nbsp;The New York TimesHantavirus Case in Switzerland Spurs Race to Trace Contacts&nbsp;&nbsp;WSJHantavirus: Air ambulance lands in Amsterdam airport&nbsp;&nbsp;DW.com",
       "sources": [
         {
-          "name": "Forbes",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVUgxY21oSUJFWFVDNWxHeTF3YUp6STFVYWNlMUZDTWhNNW1Ub3hLcWVrVFVnSnBEZlVZS0stU01hUkxSWDF2cjAxSkI2b3F6WDNiVjRWTzJoaUVidHZXSFdrOXBuMk9wWVlnZHJ1MXNYbGR1NlRFaVNGMllTTVFpdkw1T0NsNnh3OUNpRWtKQ0dqUjhhWDlBd18zRUZEdGdCOE5uM1JneEZXMjlsQmtpUkUyN3hEUVMxTDFua2Znaks2ZUwzdUU5aUFtQQ?oc=5"
+          "name": "AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOejVqcGhnTGp2dmhpcGZPRXpEdjYxN1hQb21MeUVhUm1ValZ2aWt5NlRuaHhNQ3cwLVVCT0pnU2IzeGU1ZVdfMDhZWkdKR1Y0LVByU3lib0NoSmFRem1oRGlZYjRtT1J4elFKb1c0a3lFVi00T2g2M25aeGZSZTkzaEcyNVZGQ2lqT05EMmZtR3I4MGpuM2NzVzhFWW1TaWhEZG1zd2V1YU5XV1RP?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d87ed4a4c8ad",
+      "title": "NYC measles case leads health officials to notify Manhattan restaurants, other venues - Gothamist",
+      "published": "2026-05-06T15:46:00+00:00",
+      "summary": "NYC measles case leads health officials to notify Manhattan restaurants, other venues&nbsp;&nbsp;Gothamist1 confirmed case of measles in Manhattan; person visited restaurant in Hell's Kitchen&nbsp;&nbsp;ABC7 New YorkMeasles cases confirmed in Manhattan and Long Island: What to know&nbsp;&nbsp;NBC New YorkHealth officials warn NYC Italian eatery patrons of possible exposure to measles by infected diner&nbsp;&nbsp;New York PostConfirmed case of measles in Manhattan, NYC DOH says&nbsp;&nbsp;CBS New",
+      "sources": [
+        {
+          "name": "Gothamist",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbWtKbVV3NW96ZnVRVE8xUlMxZ1JZRlRZSVdJbmxJYmxhSE9JdXl1dFRDcWlYMDc0SzFCNUVfdFNuRk1WS2pNelpMS2NlZ0I4S3Z6WDY5X1ZmTnU2aWMyaVJnWmVxQzhYcTVWU2FWLUJadWhvZVhQRWl5WUtLTWtQdzlDNG1ZcVVRZFBCakVfN0NhRDRGOUJ1elRmZkY5Z2hvdW4wS3E5dVUtNkxhVWNlMw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "440316a5d1d0",
+      "title": "Scientists created one of the largest simulations of our universe ever — about the size of 500,000 HD movies - Space",
+      "published": "2026-05-06T12:00:00+00:00",
+      "summary": "Scientists created one of the largest simulations of our universe ever — about the size of 500,000 HD movies&nbsp;&nbsp;Space2.5-Petabyte Universe Simulation Recreates Cosmic Evolution in Unprecedented Detail&nbsp;&nbsp;HotHardwareHow do you study something you can never step outside of?&nbsp;&nbsp;Universe TodayAstronomers Unveil Vast Cosmic Simulation Dataset&nbsp;&nbsp;Mirage NewsAstronomers Unveil Vast Virtual Universes Dataset&nbsp;&nbsp;Mirage News",
+      "sources": [
+        {
+          "name": "Space",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWkhkOEwzM1M4RjJaeEprWVJKajR4RjhZZDRjZm94aG1tenFwRklOMVVzYzBfRTNYZ0NETkNJdktsQVJKX18wZWdQMTBfamVXWjNOeG9paEQ1RnZQbjRzOVk4OGNXblMtSk1UNHBKWVU5MFdfdFBsMDQxOWs1R2Z3Y241ZlotNEpwX0w4RzByNkpIYmJfWXBfSFNiWlkyaGJFZENrVVlaYWQwSS1TOE9KRjhRaVhqM2tSWFNqNmV3TEdiemg4VC1rbWhEMWQ1RVRPb0p3WA?oc=5"
         }
       ]
     },
@@ -30,10 +54,22 @@
       ]
     },
     {
+      "id": "2fe7f2cfc003",
+      "title": "Her Self-Experiment with Drug Detox Almost Broke Her - The New York Times",
+      "published": "2026-05-06T09:00:17+00:00",
+      "summary": "Her Self-Experiment with Drug Detox Almost Broke Her&nbsp;&nbsp;The New York Times",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYjhwS29uckNHTU5RYTNJSnlpN1cyRjByQjZLdFVPWmQxX2x2bUZGVno4ZWthSlN6cUF1WDZXZFdJOGo3d0NReU9BbFhlMUJkaUF4Y3Rpc245QmNCeWNEaEpCc0FPYzFnM0ZPamlzT1o4UGg0MEJuLS1GaWxZM0l1OXpFSDk?oc=5"
+        }
+      ]
+    },
+    {
       "id": "55a4916aa88c",
       "title": "FDA halts publication of studies on covid, shingles vaccines - The Washington Post",
       "published": "2026-05-06T06:29:13+00:00",
-      "summary": "FDA halts publication of studies on covid, shingles vaccines&nbsp;&nbsp;The Washington PostF.D.A. Blocked Publication of Research Finding Covid and Shingles Vaccines Were Safe&nbsp;&nbsp;The New York TimesFDA withdrew studies finding Covid, shingles vaccines were safe&nbsp;&nbsp;CNBCUS FDA blocked publication of COVID, shingles vaccine safety studies&nbsp;&nbsp;ReutersFDA blocked studies finding Covid and shingles vaccines safe, HHS official says&nbsp;&nbsp;The Guardian",
+      "summary": "FDA halts publication of studies on covid, shingles vaccines&nbsp;&nbsp;The Washington PostF.D.A. Blocked Publication of Research Finding Covid and Shingles Vaccines Were Safe&nbsp;&nbsp;The New York TimesFDA stopped studies supporting COVID-19 and shingles vaccine safety&nbsp;&nbsp;USA TodayBiopharma bites: FDA withholds vaccine data, plus staffing cuts for Novartis, Gilead&nbsp;&nbsp;FirstWord PharmaFDA withdrew studies finding Covid and shingles vaccines were safe&nbsp;&nbsp;CNBC",
       "sources": [
         {
           "name": "The Washington Post",
@@ -45,11 +81,23 @@
       "id": "2ee78d8f0f94",
       "title": "Colon cancer breakthrough keeps patients cancer-free for nearly 3 years - ScienceDaily",
       "published": "2026-05-06T06:22:07+00:00",
-      "summary": "Colon cancer breakthrough keeps patients cancer-free for nearly 3 years&nbsp;&nbsp;ScienceDailyBreakthrough Bowel Cancer Trial Leaves Patients Cancer-Free for Nearly 3 Years&nbsp;&nbsp;SciTechDailyPre-Surgery Immunotherapy Shows Promising Results in Bowel Cancer&nbsp;&nbsp;The Indian PractitionerImmunotherapy Trial Shows 100 Percent Success Rate for Bowel Cancer Patients&nbsp;&nbsp;HarianBasis.coPatients remain cancer-free nearly 3 years after receiving experimental immunotherapy&nbsp;&nbsp;Yaho",
+      "summary": "Colon cancer breakthrough keeps patients cancer-free for nearly 3 years&nbsp;&nbsp;ScienceDailyPatients remain cancer-free nearly 3 years after receiving experimental immunotherapy&nbsp;&nbsp;Fox NewsBreakthrough Bowel Cancer Trial Leaves Patients Cancer-Free for Nearly 3 Years&nbsp;&nbsp;SciTechDailyPre-Surgery Immunotherapy Shows Promising Results in Bowel Cancer&nbsp;&nbsp;The Indian PractitionerImmunotherapy Trial Shows 100 Percent Success Rate for Bowel Cancer Patients&nbsp;&nbsp;HarianBasi",
       "sources": [
         {
           "name": "ScienceDaily",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hVGl6OS03MHh5WDUzbXFJU0t3NWdrNWltV2FzNk9tczNJTWtOaC1JSEJ4VXBFMWRjNWV3NnVnSmFMTk5FUi1KYlUzUzlsUC1jLWNuNEg4ckpWTUtRMVhWN0VqT0sydzdJcWExcTRhOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2802f5cc1dfb",
+      "title": "Eggs and brain health: New study cracks open Alzheimer’s link - WZTV",
+      "published": "2026-05-06T05:57:58+00:00",
+      "summary": "Eggs and brain health: New study cracks open Alzheimer’s link&nbsp;&nbsp;WZTVStudy: Egg consumption is associated with a lower risk of Alzheimer’s Disease&nbsp;&nbsp;Loma Linda UniversityEating eggs five times a week could cut Alzheimer’s risk&nbsp;&nbsp;The TimesEating Eggs May Help Boost Your Memory, According to a Recent Study&nbsp;&nbsp;Real SimpleMedical Oddities: Brain Health, Sunny-Side Up&nbsp;&nbsp;Conexiant",
+      "sources": [
+        {
+          "name": "WZTV",
+          "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQWkpmRW5SSGI5SXZVUmtvZUxocEZOR2dUMG5PSEFEQkdjbVJZWC02dU5VV3NYNHJtelZhZjlPWEotOE44RGxEVFFITENVNk5DclpfWnJzb0VzdDZzNzNqME0zdGNZREV5SFlGZlY2c1ZxblBNa21YRlE3Slg5UmZaRFhacHA3bFBDdVRLZUctR1EtUFRJSEtYbnJSTmpFYlRRZjFtTFRxNThOWFl5RFFwSEpJR0VLU3RrS1pzNUJLVy1jWEJERUlxNDIwMU9BRHZsT1A5ZW00dDdoRGdieGUxdVM2OUNaSkpkZG9odDlwd09KZEdJaU9aazFsT0tUVkZJaEtxMkR3OU1QQlVZbmNXYVVnWUt0R1Q5VkhhSkJUeHZSc2ZOdEotbklnRHQ?oc=5"
         }
       ]
     },
@@ -81,7 +129,7 @@
       "id": "76ce868ce345",
       "title": "Choice of Tea or Coffee Could Affect Risk of Osteoporosis in Older Women - ScienceAlert",
       "published": "2026-05-05T23:10:16+00:00",
-      "summary": "Choice of Tea or Coffee Could Affect Risk of Osteoporosis in Older Women&nbsp;&nbsp;ScienceAlertTea vs coffee: Which one is actually better for your health?&nbsp;&nbsp;saga.co.ukIs Tea Better Than Coffee? Science-Backed Comparison Explained&nbsp;&nbsp;Business Connect IndiaTea vs coffee: Which is better for your bone health?&nbsp;&nbsp;Indulgexpress",
+      "summary": "Choice of Tea or Coffee Could Affect Risk of Osteoporosis in Older Women&nbsp;&nbsp;ScienceAlertTea vs coffee: Which one is actually better for your health?&nbsp;&nbsp;saga.co.ukWomen's Choice Of Coffee Or Tea Might Affect Their Bone Health&nbsp;&nbsp;Yahoo News UKTea vs coffee: Which is better for your bone health?&nbsp;&nbsp;IndulgexpressTea Or Coffee? Ladies, Your Choice Could Influence Osteoporosis Risk Later&nbsp;&nbsp;Health and Me",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -90,10 +138,10 @@
       ]
     },
     {
-      "id": "10dd78a9b31f",
-      "title": "These Hobbies Could Lower Your Alzheimer's Risk, New Study Suggests - EatingWell",
+      "id": "a00b7deb851c",
+      "title": "These Hobbies Could Lower Your Alzheimer’s Risk, New Study Suggests - EatingWell",
       "published": "2026-05-05T22:03:39+00:00",
-      "summary": "These Hobbies Could Lower Your Alzheimer's Risk, New Study Suggests&nbsp;&nbsp;EatingWellThe Roots of Dementia Trace Back All The Way to Childhood, Experts Reveal&nbsp;&nbsp;ScienceAlertA tool to help keep dementia in check&nbsp;&nbsp;CBS NewsI’m a doctor. This is how your lifestyle could be increasing your risk of Alzheimer’s&nbsp;&nbsp;The IndependentEight easy exercises that protect against dementia&nbsp;&nbsp;The Telegraph",
+      "summary": "These Hobbies Could Lower Your Alzheimer’s Risk, New Study Suggests&nbsp;&nbsp;EatingWellThe Roots of Dementia Trace Back All The Way to Childhood, Experts Reveal&nbsp;&nbsp;ScienceAlertA tool to help keep dementia in check&nbsp;&nbsp;CBS NewsEight easy exercises that protect against dementia&nbsp;&nbsp;The TelegraphI’m a doctor. This is how your lifestyle could be increasing your risk of Alzheimer’s&nbsp;&nbsp;The Independent",
       "sources": [
         {
           "name": "EatingWell",
@@ -105,23 +153,11 @@
       "id": "b93fe4ae7abb",
       "title": "Three billion years ago, Earth's life relied on a rare metal - Phys.org",
       "published": "2026-05-05T20:50:01+00:00",
-      "summary": "Three billion years ago, Earth's life relied on a rare metal&nbsp;&nbsp;Phys.orgBiological use of molybdenum and tungsten stems back to 3.4 billion years ago&nbsp;&nbsp;NatureEarliest Organisms on Earth Built Their Biochemistry around Molybdenum, Study Suggests&nbsp;&nbsp;Sci.NewsNasa team discovers secret ingredient that powered ancient life on Earth&nbsp;&nbsp;India TodayLife Built Its Biochemistry on a Metal That Was Almost Nowhere to Be Found&nbsp;&nbsp;ScienceBlog.com",
+      "summary": "Three billion years ago, Earth's life relied on a rare metal&nbsp;&nbsp;Phys.orgNASA Research Shows Early Life Relied on Rare Metal&nbsp;&nbsp;NASA Science (.gov)Biological use of molybdenum and tungsten stems back to 3.4 billion years ago&nbsp;&nbsp;NatureEarliest Organisms on Earth Built Their Biochemistry around Molybdenum, Study Suggests&nbsp;&nbsp;Sci.NewsLife Built Its Biochemistry on a Metal That Was Almost Nowhere to Be Found&nbsp;&nbsp;ScienceBlog.com",
       "sources": [
         {
           "name": "Phys.org",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnQVpOVkI4cV94eWV5bDVEb3gzdmgzbVF6cGRmMDBsTTZvbDR4UThvQzZ6Wm8wdjBjV3lUcVBYVnRWU2FrT0RuRWY0SlJWbnJEcC1QQW1WcHczWVk1SE5Wanc2Q01TdjFqeWxWaTlpYW9nQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9cdc6806fd79",
-      "title": "1 confirmed case of measles in Manhattan; person visited restaurant in Hell's Kitchen - ABC7 New York",
-      "published": "2026-05-05T19:23:06+00:00",
-      "summary": "1 confirmed case of measles in Manhattan; person visited restaurant in Hell's Kitchen&nbsp;&nbsp;ABC7 New YorkMeasles case confirmed in Nassau County child under 5&nbsp;&nbsp;FOX 5 New YorkMeasles cases confirmed in Manhattan and Long Island: What to know&nbsp;&nbsp;NBC New YorkHealth officials warn NYC Italian eatery patrons of possible exposure to measles by infected diner&nbsp;&nbsp;New York PostNassau County reports its first measles case since 2024&nbsp;&nbsp;Newsday",
-      "sources": [
-        {
-          "name": "ABC7 New York",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdS0zSFg0NlVHbmJsazZZZXBlUG5oSFdsVDBjMHNoOEZxX0NCMHdMRjY1TDZnaG80bWprc3MtNkFJOGZfaDRaMGlCZk50UzVOR09RZEVmZlZvSk5NQ0pzWDY4Y2NMdUttOVc4aVlhMTdOTDhTcF9yaXZaN2RaOVpDNHVJbnJuaXE4MkNMYzdhZmtIMi0xcERVbEloY0lFZFB5QWZFYkdDV3Z6bkxL0gGyAUFVX3lxTFBrV296cHJfaC1kSnZHSlIwaXphYk8wZGx4dnZOUGxON3NmbWFmQXRfZXJtazBLdW9GV0tiYWdFQ2R3QmIyR2tQVUpnVHFteWM0N2M4X0xUOXVfYVlGcEZORXRjNzEwaGFDTzdoVldxWkNFMHZoM2lFdXBfcE9fV3BQV0ROUGx5Nzk4dnpObDZXWUpsWF9hUXJ1WklNSmN0RzNtTTBuZV9oaWRJUDQ1WXFCVEE?oc=5"
         }
       ]
     },
@@ -153,7 +189,7 @@
       "id": "1e0b09f0889b",
       "title": "Ozempic Is Killing Off Weight Loss Surgeries. That’s a Problem - Gizmodo",
       "published": "2026-05-05T17:45:57+00:00",
-      "summary": "Ozempic Is Killing Off Weight Loss Surgeries. That’s a Problem&nbsp;&nbsp;GizmodoWeight Loss Surgeries Fall More Than 20% As Patients Turn To GLP-1 Meds, Experts Say&nbsp;&nbsp;U.S. News & World ReportBariatric surgery more effective than GLP-1 drugs at preventing heart attacks, stroke and death in older adults&nbsp;&nbsp;Medical XpressBariatric surgery improves outcomes for patients with obesity and chronic kidney disease&nbsp;&nbsp;News-MedicalSharp Drop in Bariatric Surgery; Plea to Protect R",
+      "summary": "Ozempic Is Killing Off Weight Loss Surgeries. That’s a Problem&nbsp;&nbsp;GizmodoWeight Loss Surgeries Fall More Than 20% As Patients Turn To GLP-1 Meds, Experts Say&nbsp;&nbsp;U.S. News & World ReportMayo Clinic study finds bariatric surgery associated with greater long-term heart risk reduction than weight-loss medications&nbsp;&nbsp;Mayo Clinic News NetworkFat jabs or gastric band? The best way to lose weight is cheaper AND slashes early death by more than a fifth&nbsp;&nbsp;The SunBariatric ",
       "sources": [
         {
           "name": "Gizmodo",
@@ -162,22 +198,10 @@
       ]
     },
     {
-      "id": "f03b011d2445",
-      "title": "Study: Egg consumption is associated with a lower risk of Alzheimer’s Disease - EurekAlert!",
-      "published": "2026-05-05T17:01:26+00:00",
-      "summary": "Study: Egg consumption is associated with a lower risk of Alzheimer’s Disease&nbsp;&nbsp;EurekAlert!Eating eggs five times a week could cut Alzheimer’s risk&nbsp;&nbsp;The TimesEating Eggs May Help Boost Your Memory, According to a Recent Study&nbsp;&nbsp;Real SimpleMedical Oddities: Brain Health, Sunny-Side Up&nbsp;&nbsp;ConexiantEggs against Alzheimer’s: Study reveals how many eggs a week can boost your memory&nbsp;&nbsp;The Times of India",
-      "sources": [
-        {
-          "name": "EurekAlert!",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wOE90akZPQkJlWXFkVERuakxSNUhYdzZlV3hjX1BiQTBGdDl4WGwyZTUyXzVsZjV6Y2Ntd0NVWjJqcGNJbENwQjc2NWRGU2J4dEs2NVNyb2dUUUQ5?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4bd525074e2e",
       "title": "JWST pins down the origins of a planetary odd couple - Phys.org",
       "published": "2026-05-05T16:00:01+00:00",
-      "summary": "JWST pins down the origins of a planetary odd couple&nbsp;&nbsp;Phys.orgNew Discovery Confirms Planetary Migration Evidence&nbsp;&nbsp;Mirage NewsAstronomers Trace the Origins of a Peculiar Planetary Pair&nbsp;&nbsp;Bioengineer.org'100 times richer': NASA's James Webb Telescope reveals 'forbidden' alien planet that shouldn't exist&nbsp;&nbsp;WION",
+      "summary": "JWST pins down the origins of a planetary odd couple&nbsp;&nbsp;Phys.orgAstronomers pin down the origins of a planetary odd couple&nbsp;&nbsp;MIT NewsNew Discovery Confirms Planetary Migration Evidence&nbsp;&nbsp;Mirage NewsMini-Neptune TOI-1130b: James Webb reveals the secret&nbsp;&nbsp;Universe Space TechAstronomers Trace the Origins of a Peculiar Planetary Pair&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
           "name": "Phys.org",
@@ -189,7 +213,7 @@
       "id": "e7f9c43f73eb",
       "title": "One dose of psilocybin changes the human brain, leading to higher entropy - Medical Xpress",
       "published": "2026-05-05T15:00:04+00:00",
-      "summary": "One dose of psilocybin changes the human brain, leading to higher entropy&nbsp;&nbsp;Medical XpressHuman brain changes after first psilocybin use&nbsp;&nbsp;NatureScience gets closer to understanding how a psychedelic trip changes the brain&nbsp;&nbsp;NBC NewsA neuroscientist describes your brain on psychedelics in 101 seconds&nbsp;&nbsp;University of California, BerkeleySingle dose of magic mushroom psychedelic can cause anatomical brain changes, study finds&nbsp;&nbsp;The Guardian",
+      "summary": "One dose of psilocybin changes the human brain, leading to higher entropy&nbsp;&nbsp;Medical XpressHuman brain changes after first psilocybin use&nbsp;&nbsp;NatureSingle dose of magic mushroom psychedelic can cause anatomical brain changes, study finds&nbsp;&nbsp;The GuardianThe Surprising Effects of Psychedelics on 'Normal' Adults&nbsp;&nbsp;MedscapeScience gets closer to understanding how a psychedelic trip changes the brain&nbsp;&nbsp;NBC News",
       "sources": [
         {
           "name": "Medical Xpress",
@@ -222,18 +246,6 @@
       ]
     },
     {
-      "id": "121711f9165d",
-      "title": "'Age-old' disease hits 12-year high in Calif. as new outbreak details revealed - SFGATE",
-      "published": "2026-05-05T14:02:17+00:00",
-      "summary": "'Age-old' disease hits 12-year high in Calif. as new outbreak details revealed&nbsp;&nbsp;SFGATE50 large TB outbreaks identified in 23 states during 2017 to 2023&nbsp;&nbsp;Medical XpressLarge TB outbreaks in the United States decline slightly in recent years, CDC reports&nbsp;&nbsp;CIDRAPCDC Warns Large Tuberculosis Outbreaks Doubled in US Since Mid-2010s&nbsp;&nbsp;NewsweekTuberculosis Resurgence A Growing Public Health Concern&nbsp;&nbsp;Milford-Orange Times",
-      "sources": [
-        {
-          "name": "SFGATE",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZjF0V3Q4b1RzVlhLSEhTb2I1VkluYzd6WWF3U0UxczItc0NmMnhOelltUVNiV1NFX3hiam90UXFqdWRvbjJKeU5lbmN1OG1SRWd4WGh4dHhPcW13OVZ3S2dXWEQySTg2YVlWRmZ5dEZNNlh3U2ZTalVubXZWS0ZOZ0hvLXlYX1k?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c5d346ab9bfe",
       "title": "Life with one less: Engineered bacteria break the 20-amino-acid rule - Phys.org",
       "published": "2026-05-05T14:00:02+00:00",
@@ -246,10 +258,34 @@
       ]
     },
     {
+      "id": "4ea7b9d5e9f2",
+      "title": "Ultrasensitive Test Detects Biomarkers for Specific Form of Dementia - Mass General Brigham",
+      "published": "2026-05-05T13:04:40+00:00",
+      "summary": "Ultrasensitive Test Detects Biomarkers for Specific Form of Dementia&nbsp;&nbsp;Mass General Brigham",
+      "sources": [
+        {
+          "name": "Mass General Brigham",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeXRLUjdlTUE2aVNieVZELTJQTmNEMkRzVzAwLWI5TFltV1cwcWY2SE5ScUhLdUEyOUZZWkVJWXNMdGh5azBFaGtpZzJqZU50NWNLY2JEVDVTNkxGS3ZHTlNFcjdvU001NXpLd2I4dUZaWmk2aWFKbEtJRU5xcTNmd24wdVJEem1Ec3lBZXdPTFI5NTJKMko5dko5R01HUHdNU0ZNTmgtNWJlZ2dYZEQ4VGZDbXROb2prZTNNSTdTb2tiNzlaMkZ2Z0tVSWlEb1dqMHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "befe8f8cd84d",
+      "title": "A dead galaxy from the early universe is forcing astronomers to rethink galactic evolution - The Brighter Side of News",
+      "published": "2026-05-05T11:51:00+00:00",
+      "summary": "A dead galaxy from the early universe is forcing astronomers to rethink galactic evolution&nbsp;&nbsp;The Brighter Side of NewsUC Davis researchers investigate young galaxy that isn’t spinning&nbsp;&nbsp;KCRANon-Rotating Early Galaxy Is a Surprise to Astronomers&nbsp;&nbsp;UC DavisA massive and evolved slow-rotating galaxy in the early Universe&nbsp;&nbsp;NatureWebb Discovers Slow-Rotating Galaxy in Early Universe&nbsp;&nbsp;Sci.News",
+      "sources": [
+        {
+          "name": "The Brighter Side of News",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOFFfbUFwb2pRb2E1UHZ5R1c2QnBJTmhXR3R4QkoyUzY3a0FGRW02TmZHVFBkZDFnbHYzZHlYZ0J3Um1KRDJKMTYtbnFHVjR4TFpGSWtQUWVFM01Vem9XVWpmbkQ1Y2Y1SjR4UjgxWXVtQ05QV2RoYjhGMUxHVnBkTXdUTFVCVTFGeE0ydnlCb3MwQW9jcnd4SFYwLUxBY1EwdG1FRUxZZjRjRGs2SDFPcjNvQXVYQjZWdDJzLXlVSXNVSDF0TWV1Mg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f14d9762c551",
       "title": "The Science on Creatine Dosage Is Shifting. Here’s How Many Grams You Should Take. - Men's Health",
       "published": "2026-05-05T11:00:00+00:00",
-      "summary": "The Science on Creatine Dosage Is Shifting. Here’s How Many Grams You Should Take.&nbsp;&nbsp;Men's HealthScientists reveal creatine’s hidden power beyond muscle gains&nbsp;&nbsp;ScienceDailyPopular gym supplement is ‘not a magic bullet’ — its benefits depend on 3 major factors&nbsp;&nbsp;New York PostCreatine is claimed to benefit body and mind: The potential benefits and limitations of the popular supplement&nbsp;&nbsp;Medical XpressMedical Bulletin 06/May/2026&nbsp;&nbsp;Medical Dialogues",
+      "summary": "The Science on Creatine Dosage Is Shifting. Here’s How Many Grams You Should Take.&nbsp;&nbsp;Men's HealthScientists reveal creatine’s hidden power beyond muscle gains&nbsp;&nbsp;ScienceDailyPopular gym supplement is ‘not a magic bullet’ — its benefits depend on 3 major factors&nbsp;&nbsp;New York PostCreatine is claimed to benefit body and mind: The potential benefits and limitations of the popular supplement&nbsp;&nbsp;Medical XpressCreatine for Women: Why Researchers Now Recommend It for Musc",
       "sources": [
         {
           "name": "Men's Health",
@@ -261,7 +297,7 @@
       "id": "c7c33fcd4c08",
       "title": "I Have Terrible Allergies. These Products Are Helping Me Survive This Spring - CNET",
       "published": "2026-05-05T10:37:00+00:00",
-      "summary": "I Have Terrible Allergies. These Products Are Helping Me Survive This Spring&nbsp;&nbsp;CNETPollen allergies are brutal this year – a doctor explains why, and how to find relief&nbsp;&nbsp;The Conversation‘Sneezing season’ is in full swing. Here’s your allergy outlook for May&nbsp;&nbsp;KIRO 7 News SeattleHow to survive a ‘pollen tsunami’ — and 5 subtle signs it’s time to see a doc, including ‘allergy face’&nbsp;&nbsp;New York PostHay fever: Nine tips for coping with pollen and seasonal allergen",
+      "summary": "I Have Terrible Allergies. These Products Are Helping Me Survive This Spring&nbsp;&nbsp;CNETPollen allergies are brutal this year – a doctor explains why, and how to find relief&nbsp;&nbsp;The Conversation‘Sneezing season’ is in full swing. Here’s your allergy outlook for May&nbsp;&nbsp;KIRO 7 News SeattleHow to survive a ‘pollen tsunami’ — and 5 subtle signs it’s time to see a doc, including ‘allergy face’&nbsp;&nbsp;New York PostAllergy season is in full swing with tree pollen hitting Michigan",
       "sources": [
         {
           "name": "CNET",
@@ -273,7 +309,7 @@
       "id": "67490d50e57d",
       "title": "New cancer breakthrough as 'AI detects disease years before doctors' - The Mirror",
       "published": "2026-05-05T10:36:00+00:00",
-      "summary": "New cancer breakthrough as 'AI detects disease years before doctors'&nbsp;&nbsp;The MirrorAI finds signs of pancreatic cancer before tumors develop&nbsp;&nbsp;NBC NewsAI Detects “Invisible” Signs of Pancreatic Cancer Years Before Diagnosis&nbsp;&nbsp;SciTechDailyMayo Clinic AI helps specialists detect pancreatic cancer up to 3 years before diagnosis in landmark validation study&nbsp;&nbsp;Mayo Clinic News NetworkNew tool can find deadliest cancer years before tumors can be seen on a scan&nbsp;&n",
+      "summary": "New cancer breakthrough as 'AI detects disease years before doctors'&nbsp;&nbsp;The MirrorAI finds signs of pancreatic cancer before tumors develop&nbsp;&nbsp;NBC NewsAdvanced AI holds promise for high-stakes healthcare, studies show&nbsp;&nbsp;Healthcare IT NewsAI Detects “Invisible” Signs of Pancreatic Cancer Years Before Diagnosis&nbsp;&nbsp;SciTechDailyOne of the Deadliest Cancers in America May Have Met Its Match&nbsp;&nbsp;The Ringer",
       "sources": [
         {
           "name": "The Mirror",
@@ -294,30 +330,6 @@
       ]
     },
     {
-      "id": "af62871499a7",
-      "title": "Early Sauropodomorph Dinosaur Unearthed in China - Sci.News",
-      "published": "2026-05-04T23:29:23+00:00",
-      "summary": "Early Sauropodomorph Dinosaur Unearthed in China&nbsp;&nbsp;Sci.NewsNew dinosaur species found in China bridges key gap in evolution of colossal plant-eaters&nbsp;&nbsp;The IndependentResearchers Discover Giant Jurassic Sauropod in Yunnan, Revealing New Evolutionary Path&nbsp;&nbsp;mezha.netA Well-Preserved 92-Foot Dinosaur Was Accidentally Found at a Construction Site in China&nbsp;&nbsp;The Daily GalaxyXiangyunloong fengming: Scientists unearth new dinosaur species that lived 190 million years",
-      "sources": [
-        {
-          "name": "Sci.News",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PWEtUMG81OW9UMXRqRk5XNlJIS0JZLWdFQTJ6bjNRdnNVSlNhLWVLVGdBZXhQdUNiYnR3VTFSS0RCcktHZzIybGNQT1AxVjF2Smc2QVRpc0FHNTNueUJtRldlSGtlZk5YVlNYRXp2NE55LXNLRWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7cfd5808523f",
-      "title": "Scientists Discover Evolution’s 120-Million-Year-Old “Cheat Sheet” - SciTechDaily",
-      "published": "2026-05-04T22:18:20+00:00",
-      "summary": "Scientists Discover Evolution’s 120-Million-Year-Old “Cheat Sheet”&nbsp;&nbsp;SciTechDailyEvolution isn’t random. Scientists find the same genes used for 120 million years&nbsp;&nbsp;ScienceDailyGenetic parallelism underpins convergent mimicry coloration in Lepidoptera across 120 million years of evolution&nbsp;&nbsp;PLOSThese Two Genes Have Been Running Evolution’s Playbook Since the Dinosaurs&nbsp;&nbsp;Indian Defence ReviewStudy: Butterflies and Moths Have Reused Same Genetic Toolkit for 120 ",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV3kwdmlzSkhKZnFja0J4YXJWRldESjVqajV1UUtHODluV3VlZXZCeUtzc0JXWVJsVkIwMmhuaGpiekwxMjJzZ0duR0JHVkVfUWNJcC1QSG56SVlZME5HSnJDb1AyREs3OUZjam5MbFphTGJJMFE2Z2MwMU9GaFFscEhNNHZBQk5QbWEwMU1DRGRFaUk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5261ee6fcdca",
       "title": "Estrogen in both the male and female brain shapes responses to trauma, study suggests - Live Science",
       "published": "2026-05-04T21:15:00+00:00",
@@ -330,14 +342,14 @@
       ]
     },
     {
-      "id": "2d7ee704ab16",
-      "title": "In world first, Israeli scientists map digital atlas of healthy human liver - The Times of Israel",
-      "published": "2026-05-04T20:45:00+00:00",
-      "summary": "In world first, Israeli scientists map digital atlas of healthy human liver&nbsp;&nbsp;The Times of IsraelGroundbreaking study by Israeli researchers create first map of healthy human liver&nbsp;&nbsp;All Israel NewsHuman liver map reveals why disease targets specific regions&nbsp;&nbsp;Earth.comIsraeli scientists build first healthy human liver map, revealing why disease strikes certain areas&nbsp;&nbsp;ynetnews",
+      "id": "2f067847d861",
+      "title": "Eiffel Tower-sized asteroid Apophis to pass closer to Earth than many satellites in 2029, NASA says - Fox News",
+      "published": "2026-05-04T21:13:03+00:00",
+      "summary": "Eiffel Tower-sized asteroid Apophis to pass closer to Earth than many satellites in 2029, NASA says&nbsp;&nbsp;Fox NewsA 'Potentially Hazardous' Asteroid Will Pass Close to Earth in 2029 — and It Has an Alarming Nickname&nbsp;&nbsp;People.comHumanity 'at risk' from killer asteroids as NASA's defence 'not enough' to protect us&nbsp;&nbsp;Daily StarExLabs Preps Asteroid Rendezvous Mission&nbsp;&nbsp;Aviation Week'This is going to be what makes the Earth secure.' How one startup plans to protect us",
       "sources": [
         {
-          "name": "The Times of Israel",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPazlkeWxpNjdGTFNac3dtSXNjZnh6MmNVeVpaalU5dXNNM3BZa2JkU0pRSmpscm0xaHNkWG15Q1Bzb1AtNmo2S2NtWEl4RVlFXzY3Yko3Tl9tSVptYldrNW9pZXBGWGNJUzVoSDdIWFE4dkZqQ1dCNy1DTThONzRYcjl2dWRWT1IxS0Fyei1GR3JYTElVRjNDZTRzelN6M2FQVmJvTVBFUDLSAa4BQVVfeXFMUGdVT2I5bVY4b25FdjU4SHNQYU5nZkNhZ2dRaFEtSWxZdUZaRjdEUmN1Tmh6ekxXMEpFMWdNWHVHeGxnQ2hPc212RFltRlhmN1lqcGdWZ2RLSEpNdUh4dW9RSjFwdUJkY0w0cFlkUVNhU3NzUG5HeW0tNHQ5U0xwZHNCUXpzMUpiNmJscVNFcTE2VW56eFNHbUt0bnh1QjlZVGtHREY4a1NPRUI0Q2pR?oc=5"
+          "name": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRGRvOUQ5OVdmU2NTSklEbGc1MGdQd2xVUjdpLTVTZXJ4ZFVxTnRhYWdlMm5wQ0VmVXp6Z2ozbUNCQVF1RkdfMDdIUXp5R0lkbmVrZzctd3J2TTlmdUZiVVo0dHVsaDQtWFFqV1lCRDJmN0Zfbm5vTG5aTzB2UE5mTDZtbWlMUFM0Y2E1cUVZNFY0cmJVU1Y4bDQtSjM5ZGZPcHk5RkFrbDRBZFZyamdmb2NCNERkMEHSAbwBQVVfeXFMTkRxbTJSazh2eG5IN0VKaTBla1ZqZ1dWLXo1S0RHU0dyRmpDLTdaOVRManhMalpKcHZPbmFPdm5VMlZvNzJqWHhPYktteHJvM3otVV82THVRaU1LWnRLa2k2T084azFhNFRSb2xrSzEyUkZzaTZFYmR3TUZGb2wyVU9fQ1NOdlJmb1AyanZhbVhkQ3Zfd056NGFmRUxFVW5hbWw2VVk2bFpwTFNRTjhoMExfeVNpRDZsNEdtbXc?oc=5"
         }
       ]
     },
@@ -362,66 +374,6 @@
         {
           "name": "Gizmodo",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYUg5MTh3ajl4cFpyNnBadE05WXloUFhwUjFRRGpRU3ZuQlE4dnZiZkFpcEk4MFp1OFFLMUFjckdKWTl0ajRUSnJ6WkluSklfUjltcGlYWktyRmhFNkk5LTF2MXRjRVYzcWFTMk4xWFQ3LXFVR2p0UFVsZUFBUkpSMmJNQzZNZlFOUThiN1Q0dXJYZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7da4c520e3b7",
-      "title": "Symmetry says these crystal vibrations can never mix, but an exotic quantum phase rewrites the rules - Phys.org",
-      "published": "2026-05-04T17:20:11+00:00",
-      "summary": "Symmetry says these crystal vibrations can never mix, but an exotic quantum phase rewrites the rules&nbsp;&nbsp;Phys.orgResonant chiral dressing by amplitude fluctuations in a ferroaxial electronic crystal&nbsp;&nbsp;NatureResearchers Detect Quantum Phase With Light Scattering&nbsp;&nbsp;Quantum ZeitgeistExotic Quantum Phase Dynamically Links Vibrations Separated by Symmetry&nbsp;&nbsp;Bioengineer.orgAmplitude fluctuations reshape the lattice chiral response in a ferroaxial electronic crystal&nb",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUXVGVWpVa3k0X20wNnhOTTJHNzY4WlJSTWEtSDhmREtMUUxoUWRLTHk4aV9vamYyVVVLbWJkQjMzNDFYYzYzanpKN2c3NzBUellpdk53SmxNR3NjUkFwZkRxYmZvQXVvWnpsSTZFdVJhYm1RRXhuZm42UTJrSFRNTmxxRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "85dcef17a4bb",
-      "title": "Scientists Discover Scorpions’ Sting Fortified with Metal - Ground News",
-      "published": "2026-05-04T17:17:00+00:00",
-      "summary": "Scientists Discover Scorpions’ Sting Fortified with Metal&nbsp;&nbsp;Ground NewsScorpions Are So Metal—Literally. New Images Reveal Patterns in How Their Weaponry Is Fortified With Iron, Zinc and Manganese&nbsp;&nbsp;Smithsonian MagazineScorpions go terminator mode and reinforce their weapons with metal&nbsp;&nbsp;Ars TechnicaScorpions' weapons are fortified with metal to suit their needs, research shows&nbsp;&nbsp;Phys.orgMetal-reinforced scorpions evolved to kill&nbsp;&nbsp;Popular Science",
-      "sources": [
-        {
-          "name": "Ground News",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdklreW1OVHpISzRDZVhqWUEybVVzcjl5ekViSDIwUVJ4NnZYVzhvMGkyckk1Nlo5emN3cXVwTHluazl6clpRM1VvWVdJTkRXRC0xbFZJc0FTcWJ2dFVNNGNWaXgxNW5CNExvSXFRUXdvbENrZmt3T1NSQVRVdGJqbG4zTFBDM2t1OFdnZm5idDRwLU1fbTYyUE12QlplaDh4RTd5U0xXTlBPUXd2YTJTSFd4VHRkLVJjcUpMS0h3VzY4dnhEUmtiM3hlNzNORWhXalo1M3dEZ0NHM09KbHpCMXpReXgxYUtZeFNLOGN3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "994b692ce185",
-      "title": "Omega-3 supplements may be linked to faster cognitive decline in seniors, study finds - Medical Xpress",
-      "published": "2026-05-04T16:40:08+00:00",
-      "summary": "Omega-3 supplements may be linked to faster cognitive decline in seniors, study finds&nbsp;&nbsp;Medical XpressWatch 9News Latest Stories - Season 2026 - New study reveals fish oil supplements resulting in cognitive decline&nbsp;&nbsp;9NowOmega-3 Supplements May Increase Risk of Cognitive Decline, Scientists Warn&nbsp;&nbsp;ScienceAlertOmega-3 Supplements Linked to Cognitive Decline in Surprising New Study&nbsp;&nbsp;SciTechDailyFish oil may actually be hurting your brain, shocking new study fin",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdkVNUVZtLTUxTWhaZWdWVlZUQWdaOUMtaU9DM0k1Z2NNWTB3LVVvaFlUU2J2SlIycTN1T1ctUHVqREU2dDctb1VKeXVycEUzZW8zdk5fa2tkdXNtS3oyZHNEYTA4bDBQWFAxbVVCYjhYNGZtZ1pOOXFBM2UwVkJma1VadS1WaThVTkpJOE9R?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fdbafda4d97f",
-      "title": "Dads are dying after their kids are born, and no one is tracking it - Northwestern Now News",
-      "published": "2026-05-04T16:27:41+00:00",
-      "summary": "Dads are dying after their kids are born, and no one is tracking it&nbsp;&nbsp;Northwestern Now NewsResearchers urge study of paternal deaths, though a new paper finds fatherhood is protective&nbsp;&nbsp;statnews.comStudy: As fathers protect children, fatherhood protects dads&nbsp;&nbsp;HealthExecFathers Face Increased Mortality After Their Children Are Born, Yet No One Is Monitoring It&nbsp;&nbsp;Bioengineer.org",
-      "sources": [
-        {
-          "name": "Northwestern Now News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZEZHREJGRndMZEp4dE1yS1FVRXZqcTk2ZlhBOU9YMkxzeHhmNHR6V2xyUWVGR3ZjeEdYZDhENEZJZl9lbkF1WWkxbHpHRXVIUjhNYmdXZDlvV0h2RDU1bFllUGpXbFRJTFR6eWxqRDc3cjZvQ3dLbVJCVHl6cGhhaHRHVDBhS1k2MmJCMzBQQUQ0eEZocXpkMERlNkNZZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5357b432e9ea",
-      "title": "Scientists Reveal Two Previously Unknown Minerals Hidden Deep In Lunar Dust Samples - The Daily Galaxy",
-      "published": "2026-05-04T14:15:00+00:00",
-      "summary": "Scientists Reveal Two Previously Unknown Minerals Hidden Deep In Lunar Dust Samples&nbsp;&nbsp;The Daily GalaxyNew lunar mineral found in meteorite&nbsp;&nbsp;China Daily - Global EditionChina browses lunar landing spots in race to land on Moon&nbsp;&nbsp;The RegisterChinese researcher recalls pleasant surprise of discovering new lunar mineral&nbsp;&nbsp;巴士的報Touching the moon&nbsp;&nbsp;Global Times",
-      "sources": [
-        {
-          "name": "The Daily Galaxy",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LbWlWYldab3ctSGEtUklUelBwYWxQVmVqemY2TFliVlI5Ql91ei12ZFdlcUtRbXg3UjlicTFIZmxkS29pRnI1YzNGLS1SSktvZWdzM2JVcm91aU1KTERwaW5TeHBWRjJMaDhuZ09YNzBNMzFRTWdNbnlNeEk?oc=5"
         }
       ]
     }

@@ -1,31 +1,79 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-05T19:25:48.509915+00:00",
-  "total_fetched": 88,
-  "unique_count": 88,
-  "health_related_count": 27,
+  "fetched_at": "2026-05-06T03:29:15.976719+00:00",
+  "total_fetched": 90,
+  "unique_count": 90,
+  "health_related_count": 30,
   "news": [
     {
-      "id": "b35f021394c2",
-      "title": "F.D.A. Blocked Publication of Research Finding Covid and Shingles Vaccines Were Safe - The New York Times",
-      "published": "2026-05-05T18:37:34+00:00",
-      "summary": "F.D.A. Blocked Publication of Research Finding Covid and Shingles Vaccines Were Safe&nbsp;&nbsp;The New York TimesOpinion | Under my leadership, the CDC will follow the evidence&nbsp;&nbsp;The Washington PostInfectious Disease Regulatory Watch: April Highlights&nbsp;&nbsp;Contagion LivePharmacy and Infectious Disease Leaders Warn Revised ACIP Charter Threatens Vaccine Access, Scientific Rigor&nbsp;&nbsp;Pharmacy Practice NewsEstimating Effectiveness of Influenza and COVID-19 Vaccines: The “Test-",
+      "id": "55a4916aa88c",
+      "title": "FDA halts publication of studies on covid, shingles vaccines - The Washington Post",
+      "published": "2026-05-06T03:15:17+00:00",
+      "summary": "FDA halts publication of studies on covid, shingles vaccines&nbsp;&nbsp;The Washington PostF.D.A. Blocked Publication of Research Finding Covid and Shingles Vaccines Were Safe&nbsp;&nbsp;The New York TimesUS FDA blocked publication of COVID, shingles vaccine safety studies&nbsp;&nbsp;ReutersOpinion | Under my leadership, the CDC will follow the evidence&nbsp;&nbsp;The Washington PostFDA withdrew studies finding Covid, shingles vaccines were safe&nbsp;&nbsp;CNBC",
       "sources": [
         {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTlVFZjI5enpNUFY2S003Mmd4djctbnVWZTBLdEdsOGotcGk0WjcwU2RRNEhVWHRhSGFueDI4VWFkM094a1hVdGRubm1uVC1xeE1nbHJtMHg2cnlmdzBPV0pYT1k0azZmM2dlZlRwNWNSWjFtY2w3aGtiMkJaTGYxRlF2SQ?oc=5"
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNVJMY1Z4clRTVWxYNTlHOFFkY0xaaUlKS0JrbncxTGhKMTZRTWtNa1RCMF9tZHNIWlQ4ejJ5bWV5MHBIMnlXVXk2eC11UHEyVDdfZUh2NGFUVGVlcE1SYkx4bjMwVXFSdGQ1SzVXZjd6Z2liZDdLUTRTN1BOaUQ2NlBkQldVMVpqa0JzX1NmWTdLVHFISHc?oc=5"
         }
       ]
     },
     {
-      "id": "571eece7a77d",
-      "title": "What to know about hantavirus, the illness linked to a cruise ship outbreak - AP News",
-      "published": "2026-05-05T18:09:00+00:00",
-      "summary": "What to know about hantavirus, the illness linked to a cruise ship outbreak&nbsp;&nbsp;AP NewsHuman-to-human transmission suspected on board hantavirus cruise ship, WHO says&nbsp;&nbsp;CNNHow hantavirus may have spread aboard a cruise ship, according to health experts&nbsp;&nbsp;CBS NewsInside the cruise ship at the center of a rare hantavirus outbreak&nbsp;&nbsp;AP NewsUnwell British crew member to be ‘urgently’ evacuated from cruise ship after hantavirus cases&nbsp;&nbsp;The Guardian",
+      "id": "a07b2180af43",
+      "title": "Single dose of magic mushroom psychedelic can cause anatomical brain changes, study finds - The Guardian",
+      "published": "2026-05-06T01:30:00+00:00",
+      "summary": "Single dose of magic mushroom psychedelic can cause anatomical brain changes, study finds&nbsp;&nbsp;The GuardianHuman brain changes after first psilocybin use&nbsp;&nbsp;nature.comScience gets closer to understanding how a psychedelic trip changes the brain&nbsp;&nbsp;NBC NewsA neuroscientist describes your brain on psychedelics in 101 seconds&nbsp;&nbsp;University of California, BerkeleyOne dose of psilocybin changes the human brain, leading to higher entropy&nbsp;&nbsp;Medical Xpress",
       "sources": [
         {
-          "name": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSi1BdTlac293c2RtWXNYNmYzWXBaQXFjaEZWbmxEdjlTQXpZV25TQ2VnX0dHWWFzVVFVVU5rbUNKT05DbGNkLVY3T0pISGtpVG1tTkhUYXMzRUNHa3h2eGdWNVdQODJ1d3JaQjZhRDVld2JkeTN1cFQ4cUN6LXVsY1Job3k5enhObTNPenVUZ20tSkxHSE8ycXFacw?oc=5"
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN01ZM2tnd2VIQk8xOWs3cjRINEZNdThFSVM2aHZfRHlZbWN3NlFrNW55a1lwZVBINFRxbTZPaGxxank4TVU5T0hQV0ZBMEUtSm9NYWd2S092RWllRXFxSjFnaUd2UzFqS2VQZE4yeTV1X3d1MDU0dVRUbTdkX3YtLXAxWGNUT2xINHdJU2xhTHlqdE1Tc2FwWXlTRV94a29fYUM5Z0NOTHQtemhZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "76ce868ce345",
+      "title": "Choice of Tea or Coffee Could Affect Risk of Osteoporosis in Older Women - ScienceAlert",
+      "published": "2026-05-05T23:10:16+00:00",
+      "summary": "Choice of Tea or Coffee Could Affect Risk of Osteoporosis in Older Women&nbsp;&nbsp;ScienceAlertTea vs coffee: Which one is actually better for your health?&nbsp;&nbsp;saga.co.ukIs Tea Better Than Coffee? Science-Backed Comparison Explained&nbsp;&nbsp;Business Connect IndiaTea vs coffee: Which is better for your bone health?&nbsp;&nbsp;Indulgexpress",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObHh3cU8xSFNIVzU1dWRUVUx5OHFidVlYWThjc1p6RFRlRlV1NkxzNU1BQU9URUloc3JkeXVTaVVud0dtY0pCdDZmMXk5X1pPMmFBWFA3YVBQWEZLeXNzNGtQU042czlFZVVXRVhfRVRaUTJ5U0l5cXN3SjM3MVhjeGVYWm1VVFFMR2tnTngzUjhHLXFtWWZlVUNvSF9TWGxZRm9F?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ecff613cacc9",
+      "title": "Cruise ship with hantavirus may have seen a rare occurrence: humans infecting humans - NPR",
+      "published": "2026-05-05T21:08:37+00:00",
+      "summary": "Cruise ship with hantavirus may have seen a rare occurrence: humans infecting humans&nbsp;&nbsp;NPRHow a deadly hantavirus outbreak unfolded on a cruise ship for weeks before it was identified&nbsp;&nbsp;AP NewsHantavirus Outbreaks Are Rare, but They Aren’t Going Away and There’s No Cure&nbsp;&nbsp;The New York TimesCan hantavirus spread between humans? What to know as WHO investigates ship outbreak&nbsp;&nbsp;PBSA Brutal First for the Cruise Industry&nbsp;&nbsp;The Atlantic",
+      "sources": [
+        {
+          "name": "NPR",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV0d1a2JmU25XbTZsOUJLY2Jnb28wTWxLTmwtZGRiMGRIdzlFR1R0WGlTRGQyaTFINElaRGF0LXd2N0VmbmtBMExaeWdoaTJfUUdaemhuU05OQXhiU3QzWUw5R3ZQdGpKNXZJbWFFSlp6STFZbHpiT1dyVmQ1TE0zWUxjN0hGSDBUb1JDQ3ZtRllxeGRPczR0OUN5Y1lqdWFDVjgxU0FWdFZJeElMamJfaWNMamJNRnVXdUFUUlVQQTRtYmxk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fbe1d77add6e",
+      "title": "What if the brain came first? Scientist rethinks the Cambrian Explosion - Phys.org",
+      "published": "2026-05-05T18:20:01+00:00",
+      "summary": "What if the brain came first? Scientist rethinks the Cambrian Explosion&nbsp;&nbsp;Phys.org",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVVdWeEVyNXdyTTRkbF9MQ3ZPUTBWbnlzakNDRm9wRTQxN0NHV0tjQkhkdGhZekdVS3A4ajFESS1EZnE1OWR4UXozWVh6RUtEN3llbm0zTllEc0U1aVMyU1dSbl9NaTZEOGJlYXhpbzdkbkVSVWJ1QVN5dVVoUW9fZWZUV3o?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "edf0fc0b199d",
+      "title": "An Existing Drug Could Be Repurposed to Help Treat Panic Attacks - ScienceAlert",
+      "published": "2026-05-05T18:05:08+00:00",
+      "summary": "An Existing Drug Could Be Repurposed to Help Treat Panic Attacks&nbsp;&nbsp;ScienceAlertView Full Coverage on Google News",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVkhkbENtT0JhWUpONlh4Um5rZ1hUZ2htVkFNWmt5QTBBQ3hOTnZZZno5eUkzTEczeTZhQV8waG41c1NIcDhXbEJvOTE0dF9TVEtYem9zM3ktbFR5dlRaMkdCWWItaUZHSV9xLWc5Wm9KMU9kOUs5Z3AzNkVrMTFuT2gxYTg3ZGtvek0xb3YzcTNpaHNkZ1VEbg?oc=5"
         }
       ]
     },
@@ -33,7 +81,7 @@
       "id": "1e0b09f0889b",
       "title": "Ozempic Is Killing Off Weight Loss Surgeries. That’s a Problem - Gizmodo",
       "published": "2026-05-05T17:45:57+00:00",
-      "summary": "Ozempic Is Killing Off Weight Loss Surgeries. That’s a Problem&nbsp;&nbsp;GizmodoU.S. bariatric surgery rates drop significantly amid GLP-1 surge&nbsp;&nbsp;News-MedicalSharp Drop in Bariatric Surgery; Plea to Protect Research; How to Prescribe Exercise&nbsp;&nbsp;MedPage TodayMost severe obesity still goes untreated as GLP-1 use climbs and surgery slips&nbsp;&nbsp;Medical XpressGLP-1 drugs combined with surgery yield superior weight loss results&nbsp;&nbsp;News-Medical",
+      "summary": "Ozempic Is Killing Off Weight Loss Surgeries. That’s a Problem&nbsp;&nbsp;GizmodoGLP-1 use surges as surgery rates drop for severe obesity&nbsp;&nbsp;News-MedicalSharp Drop in Bariatric Surgery; Plea to Protect Research; How to Prescribe Exercise&nbsp;&nbsp;MedPage TodayBariatric surgery procedures fall below 200,000, first time since 2020, new research finds&nbsp;&nbsp;Medical XpressGLP-1 drugs combined with surgery yield superior weight loss results&nbsp;&nbsp;News-Medical",
       "sources": [
         {
           "name": "Gizmodo",
@@ -44,8 +92,8 @@
     {
       "id": "f03b011d2445",
       "title": "Study: Egg consumption is associated with a lower risk of Alzheimer’s Disease - EurekAlert!",
-      "published": "2026-05-05T16:52:30+00:00",
-      "summary": "Study: Egg consumption is associated with a lower risk of Alzheimer’s Disease&nbsp;&nbsp;EurekAlert!Eating Eggs May Help Boost Your Memory, According to a Recent Study&nbsp;&nbsp;Real SimpleStudy Finds Egg Consumption Linked to Reduced Risk of Alzheimer’s Disease&nbsp;&nbsp;Bioengineer.orgScientists Discover Life-Changing Side Effect Of Eating Eggs For Alzheimer Treatment&nbsp;&nbsp;AOL.comEggs may slash dementia risk&nbsp;&nbsp;Female First",
+      "published": "2026-05-05T17:01:26+00:00",
+      "summary": "Study: Egg consumption is associated with a lower risk of Alzheimer’s Disease&nbsp;&nbsp;EurekAlert!Eating eggs five times a week could cut Alzheimer’s risk&nbsp;&nbsp;The TimesEating Eggs May Help Boost Your Memory, According to a Recent Study&nbsp;&nbsp;Real SimpleStudy: Egg Consumption Is Associated With a Lower Risk of Alzheimer's Disease&nbsp;&nbsp;PR NewswireEggs against Alzheimer’s: Study reveals how many eggs a week can boost your memory&nbsp;&nbsp;The Times of India",
       "sources": [
         {
           "name": "EurekAlert!",
@@ -54,26 +102,74 @@
       ]
     },
     {
-      "id": "34438429748f",
-      "title": "How Perimenopause Became America's New Health Scare - The Free Press",
-      "published": "2026-05-05T16:33:24+00:00",
-      "summary": "How Perimenopause Became America's New Health Scare&nbsp;&nbsp;The Free Press5 things OB/GYNs want you to know about perimenopause&nbsp;&nbsp;The Washington PostTwo doctors explain how perimenopause is being missed, misdiagnosed, and under treated&nbsp;&nbsp;Yahoo CreatorsMenopause is more neglected than other women’s health issues when it comes to research, information&nbsp;&nbsp;Georgia Public BroadcastingWhat illnesses can perimenopause trigger in women? Expert decodes the health risks&nbsp;&",
+      "id": "5ca78fae9d0d",
+      "title": "African Elephants May Be Using Farm Crops As Medicine - DOGO News",
+      "published": "2026-05-05T14:13:17+00:00",
+      "summary": "African Elephants May Be Using Farm Crops As Medicine&nbsp;&nbsp;DOGO News",
       "sources": [
         {
-          "name": "The Free Press",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tLVdNdnVsTE5qb3BNaDZXQXFvYlM2RlpQWng1dHpPZDFyZE9XVjd5SjdOdHZacTJCLTlIOFN2ZHFDRlZUd0Y1VnFXV1haOG5nRmpmd01Kd2M3YXhoTEw3dEJmcVFuZDF0?oc=5"
+          "name": "DOGO News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZTVyWTRHTTY3SGlkMXFBdGlEM3czRVZENTRTVHpUMUptVjhLSTN3S2kyNS1oNGliTHgxdENIYmlERGw3cllSRm1QN2cwTmRPdExTVXJVUDdmSWVETDcwZS1DVENKdnpQZ2o5WDZVTm9HNDhlTXE2N0NzZHJ0bDdqZ1B3S3VUSXRQbjVmYW8zamg?oc=5"
         }
       ]
     },
     {
-      "id": "8c7f75167cc2",
-      "title": "Science gets closer to understanding how a psychedelic trip changes the brain - NBC News",
-      "published": "2026-05-05T15:00:41+00:00",
-      "summary": "Science gets closer to understanding how a psychedelic trip changes the brain&nbsp;&nbsp;NBC NewsHuman brain changes after first psilocybin use&nbsp;&nbsp;nature.comSingle dose of magic mushroom psychedelic can cause anatomical brain changes, study finds&nbsp;&nbsp;The GuardianOne dose of psilocybin changes the human brain, leading to higher entropy&nbsp;&nbsp;Medical XpressA Single Dose of Psilocybin Induces Lasting Brain Changes, New Study Suggests&nbsp;&nbsp;ScienceAlert",
+      "id": "121711f9165d",
+      "title": "'Age-old' disease hits 12-year high in Calif. as new outbreak details revealed - SFGATE",
+      "published": "2026-05-05T14:02:17+00:00",
+      "summary": "'Age-old' disease hits 12-year high in Calif. as new outbreak details revealed&nbsp;&nbsp;SFGATEView Full Coverage on Google News",
       "sources": [
         {
-          "name": "NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVEVaUENrbnhzN1hRbjJTZGtXMXlkZEFwOG1wNV8yOHhhTFBqRExLelpzY3NxY245OWx6Zm9xdFFIMWlUWU9rcW12ekNzcFpRSVZCVHNTTk5TNlRjSVRhc3l5LTBaRGRPMlpuaUpqZFlCWVkxdUJ3dkFTODExVXNYYTJBcDdnR3l4TUNwTGxaNGJYbG1WSno4RnJUMmRmUUVMU1h4SDItRzZBU3R4SHlmeWMzTU14NnMxTGc?oc=5"
+          "name": "SFGATE",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZjF0V3Q4b1RzVlhLSEhTb2I1VkluYzd6WWF3U0UxczItc0NmMnhOelltUVNiV1NFX3hiam90UXFqdWRvbjJKeU5lbmN1OG1SRWd4WGh4dHhPcW13OVZ3S2dXWEQySTg2YVlWRmZ5dEZNNlh3U2ZTalVubXZWS0ZOZ0hvLXlYX1k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f14d9762c551",
+      "title": "The Science on Creatine Dosage Is Shifting. Here’s How Many Grams You Should Take. - Men's Health",
+      "published": "2026-05-05T11:00:00+00:00",
+      "summary": "The Science on Creatine Dosage Is Shifting. Here’s How Many Grams You Should Take.&nbsp;&nbsp;Men's HealthCreatine is claimed to benefit body and mind: The potential benefits and limitations of the popular supplement&nbsp;&nbsp;Medical XpressScientists reveal creatine’s hidden power beyond muscle gains&nbsp;&nbsp;ScienceDailyPopular gym supplement is ‘not a magic bullet’ — its benefits depend on 3 major factors&nbsp;&nbsp;New York PostCreatine: Creatine: Is it more than just a muscle supplement?",
+      "sources": [
+        {
+          "name": "Men's Health",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTzZDMGZ2VzZ2U3gwSkVCX1JQT0hRQjBUTFVocEJicVgyTk4ySnVDeEN5YkVHREc5TzZJelFXRkk0OS1GaWxzZ2gzeWs1OWhEX3J2TFc0NmRmRGJTR3E0M1M4N1dfS21mNUtRSGVIMkplOHN1MDZiY1BkU1l1Wkh3WVBacw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c7c33fcd4c08",
+      "title": "I Have Terrible Allergies. These Products Are Helping Me Survive This Spring - CNET",
+      "published": "2026-05-05T10:37:00+00:00",
+      "summary": "I Have Terrible Allergies. These Products Are Helping Me Survive This Spring&nbsp;&nbsp;CNETHay fever: Nine tips for coping with pollen and seasonal allergens&nbsp;&nbsp;BBCAllergy season arrived late, but it’s causing stronger symptoms than usual this year&nbsp;&nbsp;The Boston GlobePollen allergies are brutal this year – a doctor explains why, and how to find relief&nbsp;&nbsp;Wausau Pilot & ReviewAllergy season in full swing as pollen levels rise&nbsp;&nbsp;WSAW",
+      "sources": [
+        {
+          "name": "CNET",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSnlNN0FxN3NkSWMtNTYyaGs5WmxJc1RxRlF1bmNLVHFjR2I4NUs5OU5BX2JVNEh4SEt4OWRHQXlYdW1EbGV2bC1BUk12dDltamh5Tl9FTmNKVDhEOUZidzZNMndZZ1diMnJHa25JNDBTV0FaWFNQSk5kb0Rfd0RLSXVTTzZ2Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "450fdfe18471",
+      "title": "Shockingly Powerful Giant Octopuses Ruled the Seas 100 Million Years Ago - SciTechDaily",
+      "published": "2026-05-05T10:33:33+00:00",
+      "summary": "Shockingly Powerful Giant Octopuses Ruled the Seas 100 Million Years Ago&nbsp;&nbsp;SciTechDailyNew discovery suggests existence of 60-foot, kraken-like octopus&nbsp;&nbsp;YahooScientists Just Identified A 60-Foot Octopus With Bone-Crushing Jaws That Ruled The Seas During The Cretaceous&nbsp;&nbsp;All That's InterestingA real-life kraken monster? At 19m it was longer than a railway carriage, devilishly smart and able to crush prey with a devastatingly lethal bite... | Discover Wildlife&nbsp;&nbs",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ2hwYlNtZjQtdVJTcU55V24tQk00UXlMYXdjWTBHcjZSZkI3VjJmUXk4SVpFQ3VmREpiSWlXa3F4V1d5Ty1FellMWmZvbFE1RWVCbmJMVnRTNk11aDdVaUdDR3I0OG1hdWxJU0kwVnpQYzdLT1ZUMW9CVm1KLWZqUGtjd1dWdTJTRGJ5OGpQbkw2V2tQQzh3LXk2cWRNVjQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "af62871499a7",
+      "title": "Early Sauropodomorph Dinosaur Unearthed in China - Sci.News",
+      "published": "2026-05-04T23:29:23+00:00",
+      "summary": "Early Sauropodomorph Dinosaur Unearthed in China&nbsp;&nbsp;Sci.NewsNew dinosaur species found in China bridges key gap in evolution of colossal plant-eaters&nbsp;&nbsp;The IndependentResearchers Discover Giant Jurassic Sauropod in Yunnan, Revealing New Evolutionary Path&nbsp;&nbsp;mezha.netA Well-Preserved 92-Foot Dinosaur Was Accidentally Found at a Construction Site in China&nbsp;&nbsp;The Daily GalaxyXiangyunloong fengming: Scientists unearth new dinosaur species that lived 190 million years",
+      "sources": [
+        {
+          "name": "Sci.News",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PWEtUMG81OW9UMXRqRk5XNlJIS0JZLWdFQTJ6bjNRdnNVSlNhLWVLVGdBZXhQdUNiYnR3VTFSS0RCcktHZzIybGNQT1AxVjF2Smc2QVRpc0FHNTNueUJtRldlSGtlZk5YVlNYRXp2NE55LXNLRWc?oc=5"
         }
       ]
     },
@@ -81,7 +177,7 @@
       "id": "099574bdddc1",
       "title": "Cruise ship outbreaks hit 23 in 2025, with norovirus the most common virus - WLWT",
       "published": "2026-05-04T22:32:00+00:00",
-      "summary": "Cruise ship outbreaks hit 23 in 2025, with norovirus the most common virus&nbsp;&nbsp;WLWTDo viruses spread more easily on cruise ships?&nbsp;&nbsp;BBCCruises seem gross and awful. Why are they popular? Tell us. | Opinion&nbsp;&nbsp;USA TodayHow likely are you to get ill on a cruise? The health risks amid hantavirus outbreak&nbsp;&nbsp;The IndependentHantavirus, COVID, norovirus, legionnaires’: why are cruise ships so prone to disease outbreaks?&nbsp;&nbsp;The Conversation",
+      "summary": "Cruise ship outbreaks hit 23 in 2025, with norovirus the most common virus&nbsp;&nbsp;WLWTDo viruses spread more easily on cruise ships?&nbsp;&nbsp;BBCCruises seem gross and awful. Why are they popular? Tell us. | Opinion&nbsp;&nbsp;USA TodayPetri Dish of the Seas&nbsp;&nbsp;vocal.mediaHantavirus, COVID, norovirus, legionnaires’: why are cruise ships so prone to disease outbreaks?&nbsp;&nbsp;The Conversation",
       "sources": [
         {
           "name": "WLWT",
@@ -98,18 +194,6 @@
         {
           "name": "SciTechDaily",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV3kwdmlzSkhKZnFja0J4YXJWRldESjVqajV1UUtHODluV3VlZXZCeUtzc0JXWVJsVkIwMmhuaGpiekwxMjJzZ0duR0JHVkVfUWNJcC1QSG56SVlZME5HSnJDb1AyREs3OUZjam5MbFphTGJJMFE2Z2MwMU9GaFFscEhNNHZBQk5QbWEwMU1DRGRFaUk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f0c6c692b21c",
-      "title": "Atmospheric warming contributions from airborne microplastics and nanoplastics - nature.com",
-      "published": "2026-05-04T21:55:31+00:00",
-      "summary": "Atmospheric warming contributions from airborne microplastics and nanoplastics&nbsp;&nbsp;nature.comThe Great Pacific Garbage Patch is a plastic trash nightmare. It could also be part of a much bigger, hidden problem&nbsp;&nbsp;CNNMicroplastics in the Air Are Making Earth Hotter, Study Finds&nbsp;&nbsp;Bloomberg.comAirborne Microplastics May Be Warming the Planet&nbsp;&nbsp;YahooHow microplastics are likely helping to heat up the planet&nbsp;&nbsp;The Washington Post",
-      "sources": [
-        {
-          "name": "nature.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mVmpCZm8tdUdoTVFMVEdPRmNIUU5oaWJhRzRFZWpkSmVCNlUwRElJdEliZkNlWWZVMm9lSGRzZ1I0WGZfSDlid2JkN2U5QmdlZS14UVZwZkE0ZGJkMHBr?oc=5"
         }
       ]
     },
@@ -150,18 +234,6 @@
       ]
     },
     {
-      "id": "a3735ec1a1ef",
-      "title": "Quantum Breakthrough: New Algorithm Solves “Impossible” Materials in Seconds - SciTechDaily",
-      "published": "2026-05-04T19:02:46+00:00",
-      "summary": "Quantum Breakthrough: New Algorithm Solves “Impossible” Materials in Seconds&nbsp;&nbsp;SciTechDaily",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb0lpbktLa0o0SnVlaHh0bVFHemt6V2pFYnhTM1dlbHNXU081YzNjWXdvcWs2ODFZaFhkOGt0WF9ER2wwNU5sUXNNcHN1T0FEY1Rrb2hVcHQxNWpTYWdZT3Y5ZC1mNGVDM3RWWUxFaDZFNjBHN2FtejdVRHoxeFNCNlpaUi05UmNUb2QyWHhZeTdZRzNWTlJhNE5XUWQ3RWFH?oc=5"
-        }
-      ]
-    },
-    {
       "id": "072870aec70d",
       "title": "New Research Shows How the Earliest Humans Got Their Meat - Gizmodo",
       "published": "2026-05-04T19:00:43+00:00",
@@ -170,18 +242,6 @@
         {
           "name": "Gizmodo",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYUg5MTh3ajl4cFpyNnBadE05WXloUFhwUjFRRGpRU3ZuQlE4dnZiZkFpcEk4MFp1OFFLMUFjckdKWTl0ajRUSnJ6WkluSklfUjltcGlYWktyRmhFNkk5LTF2MXRjRVYzcWFTMk4xWFQ3LXFVR2p0UFVsZUFBUkpSMmJNQzZNZlFOUThiN1Q0dXJYZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "afa25ca3a747",
-      "title": "Get ready to work for 60 years — as living to 100 becomes the new norm - MarketWatch",
-      "published": "2026-05-04T17:25:00+00:00",
-      "summary": "Get ready to work for 60 years — as living to 100 becomes the new norm&nbsp;&nbsp;MarketWatchThe Author of the New Book Longevity Nation on the Habits He’s Adopted to Become Healthier as He Ages&nbsp;&nbsp;Men's HealthHow to Live to 100, According to Longevity Experts&nbsp;&nbsp;Good HousekeepingMichael Clinton’s New Book Explores Longevity in All Its Forms&nbsp;&nbsp;WWDWord of the Week: Centenarians. Would you want to live to 100 and beyond?&nbsp;&nbsp;The Berkshire Eagle",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVHJGS1c2S0JPamhIcW5DQ2lmQlhXOG5VNS1ZeFJBRTFiRGc5RUNIcGVidjFSZGVJa0wwc0lqWWVDdFpEVXo4SkRJNGptenJBTnVDMjExd1phWmsxenBkN3czdXJUeEF4RWd1YXF5cUppUTVpc0JUSHVWQVBzbktRenJBYVVwM2ZScDNlcF96X1dXcVg1ZERaS1EwY0ZJM0sxTEprbWRoU3hiYmQ3dlF3Tg?oc=5"
         }
       ]
     },
@@ -198,30 +258,6 @@
       ]
     },
     {
-      "id": "88534f599150",
-      "title": "Column | Can vaping cause cancer? The evidence suggests it might. - The Washington Post",
-      "published": "2026-05-04T17:00:00+00:00",
-      "summary": "Column | Can vaping cause cancer? The evidence suggests it might.&nbsp;&nbsp;The Washington PostElectronic cigarettes linked to higher cancer risk&nbsp;&nbsp;Sharjah2480+ Countries Have No Age Limits for Vapes. Now, They May Be Linked to Cancer.&nbsp;&nbsp;ThePetitionSite.com",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4teFAzRE5Bd3VrVnRXT3NvazRmLXRGNmlOS1E3alc4MDB5emJfdE5aemE5dFZ6ZFlERVh3b2FOUUdrbEhBQm13TUxBcU42YWlZR0haWndpTmR0WXRVRVQ0dVBVWjJyUElWOWoyZ28xbzZOZm40WEJnWVpn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "994b692ce185",
-      "title": "Omega-3 supplements may be linked to faster cognitive decline in seniors, study finds - Medical Xpress",
-      "published": "2026-05-04T16:40:08+00:00",
-      "summary": "Omega-3 supplements may be linked to faster cognitive decline in seniors, study finds&nbsp;&nbsp;Medical XpressOmega-3 Supplements Linked to Cognitive Decline in Surprising New Study&nbsp;&nbsp;SciTechDailyOmega-3 Supplements May Increase Risk of Cognitive Decline, Scientists Warn&nbsp;&nbsp;ScienceAlertOmega-3 supplements may affect individuals differently with some users showing faster cognitive decline study finds&nbsp;&nbsp;TheHealthSiteChinese study suggests omega-3 may accelerate cognitive",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdkVNUVZtLTUxTWhaZWdWVlZUQWdaOUMtaU9DM0k1Z2NNWTB3LVVvaFlUU2J2SlIycTN1T1ctUHVqREU2dDctb1VKeXVycEUzZW8zdk5fa2tkdXNtS3oyZHNEYTA4bDBQWFAxbVVCYjhYNGZtZ1pOOXFBM2UwVkJma1VadS1WaThVTkpJOE9R?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fdbafda4d97f",
       "title": "Dads are dying after their kids are born, and no one is tracking it - Northwestern Now News",
       "published": "2026-05-04T16:27:41+00:00",
@@ -230,6 +266,18 @@
         {
           "name": "Northwestern Now News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZEZHREJGRndMZEp4dE1yS1FVRXZqcTk2ZlhBOU9YMkxzeHhmNHR6V2xyUWVGR3ZjeEdYZDhENEZJZl9lbkF1WWkxbHpHRXVIUjhNYmdXZDlvV0h2RDU1bFllUGpXbFRJTFR6eWxqRDc3cjZvQ3dLbVJCVHl6cGhhaHRHVDBhS1k2MmJCMzBQQUQ0eEZocXpkMERlNkNZZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3b67be7ca19c",
+      "title": "Man produces sperm from testicular tissue frozen as a child in breakthrough trial - The Guardian",
+      "published": "2026-05-04T14:00:00+00:00",
+      "summary": "Man produces sperm from testicular tissue frozen as a child in breakthrough trial&nbsp;&nbsp;The GuardianCan Cryopreserved Testicular Tissue Enable Fertility?&nbsp;&nbsp;MedscapeMan Produces Sperm from Testis Tissue Cryopreserved for 16 Years Before Puberty&nbsp;&nbsp;동아사이언스Man made infertile by chemotherapy could now have children&nbsp;&nbsp;The Telegraph‘Infertile’ man given fresh hope of a family after having world’s first ‘frozen testicular implant’&nbsp;&nbsp;The Sun",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUnJvb2lrZGVJdVVFdkRRcnBvblRTSVJTSDluTWZHbU5WTG54ZXhFNEUteWY3RWV2OTlxbV9EcHhINzJnN2szcjB6SkVUWE9LbDhDRUM3WWRBT0Z3RVRUc2pOVzlUQ2Zib2JSV1V5R2hhMzFhUHBxZzBUN0xMX08tTHRlZ250TWRORUdkX1QxZ1d5X2d6UW55eUYtcDgzbjlsVldwNG42ZWdtUTNrRHlCbG05eTd3dVY5MUtmV3BPWUhMZTVzYV9FUQ?oc=5"
         }
       ]
     },
@@ -261,7 +309,7 @@
       "id": "13ad9c236216",
       "title": "Biological age tests reveal what slows or hastens aging – but they’re useful only for researchers, not consumers - The Conversation",
       "published": "2026-05-04T12:29:54+00:00",
-      "summary": "Biological age tests reveal what slows or hastens aging – but they’re useful only for researchers, not consumers&nbsp;&nbsp;The ConversationBiological Age vs. Chronological Age: What the Science Says About Why They Diverge&nbsp;&nbsp;WorldHealth.net",
+      "summary": "Biological age tests reveal what slows or hastens aging – but they’re useful only for researchers, not consumers&nbsp;&nbsp;The Conversation",
       "sources": [
         {
           "name": "The Conversation",
@@ -270,10 +318,34 @@
       ]
     },
     {
+      "id": "500ae9376038",
+      "title": "An 8-Year-Old Boy Spotted \"Seeds\" in His Backyard and Accidentally Broke a 100-Year-Old Biology Rule - The Daily Galaxy",
+      "published": "2026-05-04T12:15:00+00:00",
+      "summary": "An 8-Year-Old Boy Spotted \"Seeds\" in His Backyard and Accidentally Broke a 100-Year-Old Biology Rule&nbsp;&nbsp;The Daily Galaxy8-year-old boy's backyard discovery challenges scientific understanding of ants&nbsp;&nbsp;YahooMah Rabu Maasecha: of Ants, Oak Trees, Wasps and Acapello Music&nbsp;&nbsp;VINnews8-year-old boy’s curiosity about 'seed-like' balls in his backyard uncovered a hidden ant network&nbsp;&nbsp;The Times of India8-year-old boy finds mysterious \"little balls\" in the backyard and ",
+      "sources": [
+        {
+          "name": "The Daily Galaxy",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRXdVME10T0xIXzBDUnAwWFhRcnVmWHBTeGxkZldZaGJXbFlHeVExRWVZazBEUEstSnhWWEw1TWVGVDJNcXN1cjFBc2dnaXB2VUFCQ1RaUUlNSUEzaC05VmpFeUNTakh3VzRpeHE5M3RZUkI1QUdGeVRKTEZ1LW5CRFE0YmlxMVc2NGdRdkRLZXYwRG5MZmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "24180403e571",
+      "title": "Plant Seeds Do Something Incredible When The Sound of Rain Strikes - ScienceAlert",
+      "published": "2026-05-04T12:01:39+00:00",
+      "summary": "Plant Seeds Do Something Incredible When The Sound of Rain Strikes&nbsp;&nbsp;ScienceAlertWhen seeds 'hear' rain, they 'decide' to sprout — study&nbsp;&nbsp;dw.comPlants can hear the rain, and it makes them grow faster: Study&nbsp;&nbsp;The Times of IndiaSeeds hear rain: MIT study finds sound waves speed germination&nbsp;&nbsp;valleyvanguardonline.com",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtVUtmTHRYdnREWGRpN1Rhek10UUlPWHBlYWdOcTRZay0yQzFqbmNiUDI2Y1I0c3NxaWdDQVdSNXRjcllURmx2YWZON25iMnhhMVh3eUN5TW9fZmk3RFpWeUV6M2szcGVlYk1SWHBscHA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e18ec73d92f8",
       "title": "Science Has Found Even More Ways Coffee Is Good for You - WIRED",
       "published": "2026-05-04T09:30:00+00:00",
-      "summary": "Science Has Found Even More Ways Coffee Is Good for You&nbsp;&nbsp;WIREDScientists just discovered what coffee is really doing to your gut and brain&nbsp;&nbsp;ScienceDailyNew Research Reveals That Your Morning Coffee Activates an Ancient Longevity Switch&nbsp;&nbsp;SciTechDailyCoffee helps protect your body from aging and disease, study says&nbsp;&nbsp;USA TodayAll coffee, even decaf, can improve mood, brain health, study finds&nbsp;&nbsp;Medical News Today",
+      "summary": "Science Has Found Even More Ways Coffee Is Good for You&nbsp;&nbsp;WIREDScientists just discovered what coffee is really doing to your gut and brain&nbsp;&nbsp;ScienceDailyAll coffee, even decaf, can improve mood, brain health, study finds&nbsp;&nbsp;Medical News TodayNew Research Reveals That Your Morning Coffee Activates an Ancient Longevity Switch&nbsp;&nbsp;SciTechDailyCoffee doesn't just wake you up—a key biological pathway illuminates widespread health effects&nbsp;&nbsp;Science X network",
       "sources": [
         {
           "name": "WIRED",
@@ -282,50 +354,14 @@
       ]
     },
     {
-      "id": "e6f342e48475",
-      "title": "What Doctors Want You to Know About Cannabis and Health - The New York Times",
-      "published": "2026-05-04T09:01:32+00:00",
-      "summary": "What Doctors Want You to Know About Cannabis and Health&nbsp;&nbsp;The New York TimesWhat we know—and what we don’t—about marijuana’s health effects&nbsp;&nbsp;Scientific AmericanSorting science from smoke in cannabis mental health claims.&nbsp;&nbsp;Psychology TodayMedicinal cannabis may not help your anxiety or depression, study suggests&nbsp;&nbsp;MSN",
+      "id": "0ff59baee74e",
+      "title": "Record-Setting Retreat of Hektoria Glacier - NASA Science (.gov)",
+      "published": "2026-05-04T04:01:00+00:00",
+      "summary": "Record-Setting Retreat of Hektoria Glacier&nbsp;&nbsp;NASA Science (.gov)A glacier in Antarctica loses 25 km in 15 months and breaks the world record for glacial retreat, according to a study published in the scientific journal Nature Geoscience by the team of researcher Naomi Ochwat, from the University of Innsbruck.&nbsp;&nbsp;CPG Click Petróleo e Gás",
       "sources": [
         {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdGVYbVdsdjNjRGxkbTBnVHZKSDFpaWp6ZHNEQTBCUVdPTmllREhJU1JicENWQ2VsWjEyNFE0VlhXUkpObjVieUhqbEtQQjMtOVFkRko3RHhjTWVEd1B5VlRwN2VBaEdrS3RtVUMzVXlQLU5RX29kN2d6a25XTzM1NXZR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1c8918815b6c",
-      "title": "Scientists reveal creatine’s hidden power beyond muscle gains - ScienceDaily",
-      "published": "2026-05-04T08:15:36+00:00",
-      "summary": "Scientists reveal creatine’s hidden power beyond muscle gains&nbsp;&nbsp;ScienceDailyCreatine is claimed to benefit body and mind: The potential benefits and limitations of the popular supplement&nbsp;&nbsp;Medical XpressPopular gym supplement is ‘not a magic bullet’ — its benefits depend on 3 major factors&nbsp;&nbsp;New York PostCreatine: Creatine: Is it more than just a muscle supplement?&nbsp;&nbsp;The Times of IndiaCreatine is a popular supplement. It has benefits but also risks&nbsp;&nbsp;",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JTU5nUUtlTGVlQ1JfOWNyY1FJNFZNT1cxVVdCbTdsY0ZKdUlfRUMxNHVHUm5FR2NXX1FPTjFyUHJTM1VGUExpRklZOEFTZkNyZUpPOFhUN1drV3kyUHlWWVRIdDNVeERnSC1BYnNLYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e603e304cfa9",
-      "title": "One Type of Exercise Can Give You Better Results With Less Effort, Expert Says - ScienceAlert",
-      "published": "2026-05-04T01:36:36+00:00",
-      "summary": "One Type of Exercise Can Give You Better Results With Less Effort, Expert Says&nbsp;&nbsp;ScienceAlertPut those weights down! How ‘eccentric’ exercise opens up a whole new world of fitness&nbsp;&nbsp;The GuardianYou don’t need intense workouts to build muscle, new study reveals&nbsp;&nbsp;ScienceDailyFitness expert who trained Navy SEALs reveals the workout that builds muscle fast with less training&nbsp;&nbsp;OkDiarioWant to Build More Muscle With Less Effort? Try Eccentric Exercise&nbsp;&nbsp;",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaVk5cEN6T2Zzb3RkaDVWZFNWSWh3NXdCTFVtUGJwdW9DQXk2NGJMTmxhWE5QVGJtTmU0QnBrc1NGdXhKb0pmcEpCY19SY0VNVnUtaWR1THhTdWFwMThFT0NyRHk4dEw0T2x0ajFVbEhuWlk5cGhqcy0yVGdWQU4xcnVLYVFOSE9kck1mMEZYQ1V3OTFhMVpQa3hHaXc0T3Q0VzlPNkk4aHVsZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ba214362e88f",
-      "title": "New discovery suggests existence of 60-foot, kraken-like octopus - Yahoo",
-      "published": "2026-05-03T21:00:00+00:00",
-      "summary": "New discovery suggests existence of 60-foot, kraken-like octopus&nbsp;&nbsp;YahooShockingly Powerful Giant Octopuses Ruled the Seas 100 Million Years Ago&nbsp;&nbsp;SciTechDailyMassive kraken-like octopus may have prowled seas during the age of dinosaurs&nbsp;&nbsp;PinalCentral.comA real-life kraken monster? At 19m it was longer than a railway carriage, devilishly smart and able to crush prey with a devastatingly lethal bite... | Discover Wildlife&nbsp;&nbsp;BBC Wildlife Magazine\"Unleash the Kra",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbm5IUURwRlZnVW9yaHhnTnh3V1FLaUc3OEpSRWlpZkV4MW40MnFiNkpKX3g4NlZVMHRvaWJuLVdEOHFNQVNPb3JPelNUUjN3QTlSVnhzZzIteXY5R3hRSG4zRDNORkNqUV9qMm9QN0hYSTNxS3A0M2FyS1ozQW5COUhHU2VjMkJHSUtvWFhpdXU?oc=5"
+          "name": "NASA Science (.gov)",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSWEtWnBOUFpGeHA3QUVYWEk4OUlwanNxS0xqYTFDUVBjdGZzaU9Va3g3NWoydFc3SVZYOXJfU01uSW9WRmFyRkFMODduZmFpc1B4Y0JMRms4NkU5LVJUNnZYeTB0bW1hdjRWR1JXTTRaM005aUhzby11WHA1dWZrVHBJZ2NJTld2UWxWNW5vLTRRRFRobjZn?oc=5"
         }
       ]
     }

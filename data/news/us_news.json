@@ -1,15 +1,39 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-06T03:29:15.976719+00:00",
-  "total_fetched": 90,
-  "unique_count": 90,
-  "health_related_count": 30,
+  "fetched_at": "2026-05-06T14:22:14.152314+00:00",
+  "total_fetched": 89,
+  "unique_count": 89,
+  "health_related_count": 35,
   "news": [
+    {
+      "id": "4dd55d953747",
+      "title": "Andes Strain Of Hantavirus—Only Known Variant That Spreads Person-To-Person—Is On Ship (Live Updates) - Forbes",
+      "published": "2026-05-06T13:57:00+00:00",
+      "summary": "Andes Strain Of Hantavirus—Only Known Variant That Spreads Person-To-Person—Is On Ship (Live Updates)&nbsp;&nbsp;ForbesWhat to Know About the Hantavirus Outbreak on an Atlantic Cruise Ship&nbsp;&nbsp;The New York TimesThree evacuated from hantavirus cruise ship as Spain says vessel will dock in Canary Islands despite objection – Europe live&nbsp;&nbsp;The GuardianHantavirus Case in Switzerland Spurs Race to Trace Contacts&nbsp;&nbsp;WSJThe Latest: 3 passengers from virus-hit cruise ship evacuate",
+      "sources": [
+        {
+          "name": "Forbes",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVUgxY21oSUJFWFVDNWxHeTF3YUp6STFVYWNlMUZDTWhNNW1Ub3hLcWVrVFVnSnBEZlVZS0stU01hUkxSWDF2cjAxSkI2b3F6WDNiVjRWTzJoaUVidHZXSFdrOXBuMk9wWVlnZHJ1MXNYbGR1NlRFaVNGMllTTVFpdkw1T0NsNnh3OUNpRWtKQ0dqUjhhWDlBd18zRUZEdGdCOE5uM1JneEZXMjlsQmtpUkUyN3hEUVMxTDFua2Znaks2ZUwzdUU5aUFtQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "02bf85e3cf08",
+      "title": "Movement Triggers a Hidden 'Brain Cleaning' Mechanism, Study Shows - ScienceAlert",
+      "published": "2026-05-06T11:01:49+00:00",
+      "summary": "Movement Triggers a Hidden 'Brain Cleaning' Mechanism, Study Shows&nbsp;&nbsp;ScienceAlertScientists discover a hidden brain “cleaning” effect triggered by movement&nbsp;&nbsp;ScienceDailyBrain motion is driven by mechanical coupling with the abdomen&nbsp;&nbsp;NatureThe simple link between core strength and brain health&nbsp;&nbsp;News-MedicalFrom Lab to Life: How Exercise Helps Our Brains&nbsp;&nbsp;The Times of Israel",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWHh5a3ZHTDQ0T2IxOHV3Z2RVR05Na2xXaVJES0VrZlJVb0VYS25DQWlGNUFRM3BYV0Y4SUZNbGNCazVQM0Vvc3hiSkdUR0ZDN05YUktiZjh1N0tZbTNySUJVTk5xSWpkRlZWOWFaX0VtREJNSnc0ZWZiTzNKS3czZWs2Rm1WWFFUeEx0RnR4NFh4eV8wQko4?oc=5"
+        }
+      ]
+    },
     {
       "id": "55a4916aa88c",
       "title": "FDA halts publication of studies on covid, shingles vaccines - The Washington Post",
-      "published": "2026-05-06T03:15:17+00:00",
-      "summary": "FDA halts publication of studies on covid, shingles vaccines&nbsp;&nbsp;The Washington PostF.D.A. Blocked Publication of Research Finding Covid and Shingles Vaccines Were Safe&nbsp;&nbsp;The New York TimesUS FDA blocked publication of COVID, shingles vaccine safety studies&nbsp;&nbsp;ReutersOpinion | Under my leadership, the CDC will follow the evidence&nbsp;&nbsp;The Washington PostFDA withdrew studies finding Covid, shingles vaccines were safe&nbsp;&nbsp;CNBC",
+      "published": "2026-05-06T06:29:13+00:00",
+      "summary": "FDA halts publication of studies on covid, shingles vaccines&nbsp;&nbsp;The Washington PostF.D.A. Blocked Publication of Research Finding Covid and Shingles Vaccines Were Safe&nbsp;&nbsp;The New York TimesFDA withdrew studies finding Covid, shingles vaccines were safe&nbsp;&nbsp;CNBCUS FDA blocked publication of COVID, shingles vaccine safety studies&nbsp;&nbsp;ReutersFDA blocked studies finding Covid and shingles vaccines safe, HHS official says&nbsp;&nbsp;The Guardian",
       "sources": [
         {
           "name": "The Washington Post",
@@ -18,14 +42,38 @@
       ]
     },
     {
-      "id": "a07b2180af43",
-      "title": "Single dose of magic mushroom psychedelic can cause anatomical brain changes, study finds - The Guardian",
-      "published": "2026-05-06T01:30:00+00:00",
-      "summary": "Single dose of magic mushroom psychedelic can cause anatomical brain changes, study finds&nbsp;&nbsp;The GuardianHuman brain changes after first psilocybin use&nbsp;&nbsp;nature.comScience gets closer to understanding how a psychedelic trip changes the brain&nbsp;&nbsp;NBC NewsA neuroscientist describes your brain on psychedelics in 101 seconds&nbsp;&nbsp;University of California, BerkeleyOne dose of psilocybin changes the human brain, leading to higher entropy&nbsp;&nbsp;Medical Xpress",
+      "id": "2ee78d8f0f94",
+      "title": "Colon cancer breakthrough keeps patients cancer-free for nearly 3 years - ScienceDaily",
+      "published": "2026-05-06T06:22:07+00:00",
+      "summary": "Colon cancer breakthrough keeps patients cancer-free for nearly 3 years&nbsp;&nbsp;ScienceDailyBreakthrough Bowel Cancer Trial Leaves Patients Cancer-Free for Nearly 3 Years&nbsp;&nbsp;SciTechDailyPre-Surgery Immunotherapy Shows Promising Results in Bowel Cancer&nbsp;&nbsp;The Indian PractitionerImmunotherapy Trial Shows 100 Percent Success Rate for Bowel Cancer Patients&nbsp;&nbsp;HarianBasis.coPatients remain cancer-free nearly 3 years after receiving experimental immunotherapy&nbsp;&nbsp;Yaho",
       "sources": [
         {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN01ZM2tnd2VIQk8xOWs3cjRINEZNdThFSVM2aHZfRHlZbWN3NlFrNW55a1lwZVBINFRxbTZPaGxxank4TVU5T0hQV0ZBMEUtSm9NYWd2S092RWllRXFxSjFnaUd2UzFqS2VQZE4yeTV1X3d1MDU0dVRUbTdkX3YtLXAxWGNUT2xINHdJU2xhTHlqdE1Tc2FwWXlTRV94a29fYUM5Z0NOTHQtemhZ?oc=5"
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hVGl6OS03MHh5WDUzbXFJU0t3NWdrNWltV2FzNk9tczNJTWtOaC1JSEJ4VXBFMWRjNWV3NnVnSmFMTk5FUi1KYlUzUzlsUC1jLWNuNEg4ckpWTUtRMVhWN0VqT0sydzdJcWExcTRhOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c5f9d1d3746e",
+      "title": "Common knee surgery found ineffective, may make things worse - ScienceDaily",
+      "published": "2026-05-06T05:56:03+00:00",
+      "summary": "Common knee surgery found ineffective, may make things worse&nbsp;&nbsp;ScienceDailyKnee surgery for cartilage damage does not benefit patients, study suggests&nbsp;&nbsp;The Guardian10-Year Data Confirm No Benefit From Knee Arthroscopy&nbsp;&nbsp;MedscapeMassive Study Finds Common Knee Surgery Is No Better Than a Placebo&nbsp;&nbsp;ZME ScienceOne of the world's most common knee surgeries does not help and may even be harmful&nbsp;&nbsp;Medical Xpress",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04aFJaQnA2RmxMdWVwdzNCUVo1bjhWX2ZMMlFwMlp3NndUYko1MDFHRGhtVU5Zb29pa0ZkVXN1akR1UFVteng4UlVULXNIOHIxVmg0by1wV0hlbzlDbEN5cmRLaGdCUlRUanF5S2VhZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d1d7950a35cf",
+      "title": "8-year-old boy's backyard discovery challenges scientific understanding of ants - Yahoo",
+      "published": "2026-05-06T02:30:00+00:00",
+      "summary": "8-year-old boy's backyard discovery challenges scientific understanding of ants&nbsp;&nbsp;YahooAn 8-Year-Old Boy Spotted \"Seeds\" in His Backyard and Accidentally Broke a 100-Year-Old Biology Rule&nbsp;&nbsp;The Daily GalaxyMah Rabu Maasecha: of Ants, Oak Trees, Wasps and Acapello Music&nbsp;&nbsp;VINnews8-year-old boy’s curiosity about 'seed-like' balls in his backyard uncovered a hidden ant network&nbsp;&nbsp;The Times of India8-year-old boy finds mysterious \"little balls\" in the backyard and ",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbFpmaFY2LWwzV1daU1M0bWpNanVaYm1sTzNhd1M3ODZHOXFuM1dUbElHNTNqS0JIc0ZSQ3Q2WlY4NVJHQ0xtdUppdFhabTJfRDZVS3lETzY1dWt2c0gtdDIyNkU3UWlmTFg2UGhFWWlnN2NITHVrcDhOVlNBb1JZbmJhOG5vX3M?oc=5"
         }
       ]
     },
@@ -42,14 +90,38 @@
       ]
     },
     {
-      "id": "ecff613cacc9",
-      "title": "Cruise ship with hantavirus may have seen a rare occurrence: humans infecting humans - NPR",
-      "published": "2026-05-05T21:08:37+00:00",
-      "summary": "Cruise ship with hantavirus may have seen a rare occurrence: humans infecting humans&nbsp;&nbsp;NPRHow a deadly hantavirus outbreak unfolded on a cruise ship for weeks before it was identified&nbsp;&nbsp;AP NewsHantavirus Outbreaks Are Rare, but They Aren’t Going Away and There’s No Cure&nbsp;&nbsp;The New York TimesCan hantavirus spread between humans? What to know as WHO investigates ship outbreak&nbsp;&nbsp;PBSA Brutal First for the Cruise Industry&nbsp;&nbsp;The Atlantic",
+      "id": "10dd78a9b31f",
+      "title": "These Hobbies Could Lower Your Alzheimer's Risk, New Study Suggests - EatingWell",
+      "published": "2026-05-05T22:03:39+00:00",
+      "summary": "These Hobbies Could Lower Your Alzheimer's Risk, New Study Suggests&nbsp;&nbsp;EatingWellThe Roots of Dementia Trace Back All The Way to Childhood, Experts Reveal&nbsp;&nbsp;ScienceAlertA tool to help keep dementia in check&nbsp;&nbsp;CBS NewsI’m a doctor. This is how your lifestyle could be increasing your risk of Alzheimer’s&nbsp;&nbsp;The IndependentEight easy exercises that protect against dementia&nbsp;&nbsp;The Telegraph",
       "sources": [
         {
-          "name": "NPR",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV0d1a2JmU25XbTZsOUJLY2Jnb28wTWxLTmwtZGRiMGRIdzlFR1R0WGlTRGQyaTFINElaRGF0LXd2N0VmbmtBMExaeWdoaTJfUUdaemhuU05OQXhiU3QzWUw5R3ZQdGpKNXZJbWFFSlp6STFZbHpiT1dyVmQ1TE0zWUxjN0hGSDBUb1JDQ3ZtRllxeGRPczR0OUN5Y1lqdWFDVjgxU0FWdFZJeElMamJfaWNMamJNRnVXdUFUUlVQQTRtYmxk?oc=5"
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON2czT1JnNDZaeGVDVTZKOGR4c1V2UFpsellEa1VDVDV0QVpoY2puS1l2cGpDU21wN25pRWEteXFHQ0JzMmg2ZVFPcFZqZ1RIWWtjYjloUmtrdHA5Qk1WUmxlMFp2SFdmd2JaRkE1b1ViRE1jUk5sNHZuUU8xVFlUVHRzU2hfVkdtWUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b93fe4ae7abb",
+      "title": "Three billion years ago, Earth's life relied on a rare metal - Phys.org",
+      "published": "2026-05-05T20:50:01+00:00",
+      "summary": "Three billion years ago, Earth's life relied on a rare metal&nbsp;&nbsp;Phys.orgBiological use of molybdenum and tungsten stems back to 3.4 billion years ago&nbsp;&nbsp;NatureEarliest Organisms on Earth Built Their Biochemistry around Molybdenum, Study Suggests&nbsp;&nbsp;Sci.NewsNasa team discovers secret ingredient that powered ancient life on Earth&nbsp;&nbsp;India TodayLife Built Its Biochemistry on a Metal That Was Almost Nowhere to Be Found&nbsp;&nbsp;ScienceBlog.com",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnQVpOVkI4cV94eWV5bDVEb3gzdmgzbVF6cGRmMDBsTTZvbDR4UThvQzZ6Wm8wdjBjV3lUcVBYVnRWU2FrT0RuRWY0SlJWbnJEcC1QQW1WcHczWVk1SE5Wanc2Q01TdjFqeWxWaTlpYW9nQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9cdc6806fd79",
+      "title": "1 confirmed case of measles in Manhattan; person visited restaurant in Hell's Kitchen - ABC7 New York",
+      "published": "2026-05-05T19:23:06+00:00",
+      "summary": "1 confirmed case of measles in Manhattan; person visited restaurant in Hell's Kitchen&nbsp;&nbsp;ABC7 New YorkMeasles case confirmed in Nassau County child under 5&nbsp;&nbsp;FOX 5 New YorkMeasles cases confirmed in Manhattan and Long Island: What to know&nbsp;&nbsp;NBC New YorkHealth officials warn NYC Italian eatery patrons of possible exposure to measles by infected diner&nbsp;&nbsp;New York PostNassau County reports its first measles case since 2024&nbsp;&nbsp;Newsday",
+      "sources": [
+        {
+          "name": "ABC7 New York",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdS0zSFg0NlVHbmJsazZZZXBlUG5oSFdsVDBjMHNoOEZxX0NCMHdMRjY1TDZnaG80bWprc3MtNkFJOGZfaDRaMGlCZk50UzVOR09RZEVmZlZvSk5NQ0pzWDY4Y2NMdUttOVc4aVlhMTdOTDhTcF9yaXZaN2RaOVpDNHVJbnJuaXE4MkNMYzdhZmtIMi0xcERVbEloY0lFZFB5QWZFYkdDV3Z6bkxL0gGyAUFVX3lxTFBrV296cHJfaC1kSnZHSlIwaXphYk8wZGx4dnZOUGxON3NmbWFmQXRfZXJtazBLdW9GV0tiYWdFQ2R3QmIyR2tQVUpnVHFteWM0N2M4X0xUOXVfYVlGcEZORXRjNzEwaGFDTzdoVldxWkNFMHZoM2lFdXBfcE9fV3BQV0ROUGx5Nzk4dnpObDZXWUpsWF9hUXJ1WklNSmN0RzNtTTBuZV9oaWRJUDQ1WXFCVEE?oc=5"
         }
       ]
     },
@@ -81,7 +153,7 @@
       "id": "1e0b09f0889b",
       "title": "Ozempic Is Killing Off Weight Loss Surgeries. That’s a Problem - Gizmodo",
       "published": "2026-05-05T17:45:57+00:00",
-      "summary": "Ozempic Is Killing Off Weight Loss Surgeries. That’s a Problem&nbsp;&nbsp;GizmodoGLP-1 use surges as surgery rates drop for severe obesity&nbsp;&nbsp;News-MedicalSharp Drop in Bariatric Surgery; Plea to Protect Research; How to Prescribe Exercise&nbsp;&nbsp;MedPage TodayBariatric surgery procedures fall below 200,000, first time since 2020, new research finds&nbsp;&nbsp;Medical XpressGLP-1 drugs combined with surgery yield superior weight loss results&nbsp;&nbsp;News-Medical",
+      "summary": "Ozempic Is Killing Off Weight Loss Surgeries. That’s a Problem&nbsp;&nbsp;GizmodoWeight Loss Surgeries Fall More Than 20% As Patients Turn To GLP-1 Meds, Experts Say&nbsp;&nbsp;U.S. News & World ReportBariatric surgery more effective than GLP-1 drugs at preventing heart attacks, stroke and death in older adults&nbsp;&nbsp;Medical XpressBariatric surgery improves outcomes for patients with obesity and chronic kidney disease&nbsp;&nbsp;News-MedicalSharp Drop in Bariatric Surgery; Plea to Protect R",
       "sources": [
         {
           "name": "Gizmodo",
@@ -93,11 +165,47 @@
       "id": "f03b011d2445",
       "title": "Study: Egg consumption is associated with a lower risk of Alzheimer’s Disease - EurekAlert!",
       "published": "2026-05-05T17:01:26+00:00",
-      "summary": "Study: Egg consumption is associated with a lower risk of Alzheimer’s Disease&nbsp;&nbsp;EurekAlert!Eating eggs five times a week could cut Alzheimer’s risk&nbsp;&nbsp;The TimesEating Eggs May Help Boost Your Memory, According to a Recent Study&nbsp;&nbsp;Real SimpleStudy: Egg Consumption Is Associated With a Lower Risk of Alzheimer's Disease&nbsp;&nbsp;PR NewswireEggs against Alzheimer’s: Study reveals how many eggs a week can boost your memory&nbsp;&nbsp;The Times of India",
+      "summary": "Study: Egg consumption is associated with a lower risk of Alzheimer’s Disease&nbsp;&nbsp;EurekAlert!Eating eggs five times a week could cut Alzheimer’s risk&nbsp;&nbsp;The TimesEating Eggs May Help Boost Your Memory, According to a Recent Study&nbsp;&nbsp;Real SimpleMedical Oddities: Brain Health, Sunny-Side Up&nbsp;&nbsp;ConexiantEggs against Alzheimer’s: Study reveals how many eggs a week can boost your memory&nbsp;&nbsp;The Times of India",
       "sources": [
         {
           "name": "EurekAlert!",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wOE90akZPQkJlWXFkVERuakxSNUhYdzZlV3hjX1BiQTBGdDl4WGwyZTUyXzVsZjV6Y2Ntd0NVWjJqcGNJbENwQjc2NWRGU2J4dEs2NVNyb2dUUUQ5?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4bd525074e2e",
+      "title": "JWST pins down the origins of a planetary odd couple - Phys.org",
+      "published": "2026-05-05T16:00:01+00:00",
+      "summary": "JWST pins down the origins of a planetary odd couple&nbsp;&nbsp;Phys.orgNew Discovery Confirms Planetary Migration Evidence&nbsp;&nbsp;Mirage NewsAstronomers Trace the Origins of a Peculiar Planetary Pair&nbsp;&nbsp;Bioengineer.org'100 times richer': NASA's James Webb Telescope reveals 'forbidden' alien planet that shouldn't exist&nbsp;&nbsp;WION",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiOTY3TUx2R0hoVUw0NkdLUmpJOXItTnE3Tm9Wc2haZU0yUTVsVzVXOW9hLWd5a1NUczZtNnVOZy1rSldod3ZMQ2dYX3NPQ1dfZWVCUGtiTUcyU1dVMVFsOXNnN3g3QWNlbl8zOEhsQjlCSlk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e7f9c43f73eb",
+      "title": "One dose of psilocybin changes the human brain, leading to higher entropy - Medical Xpress",
+      "published": "2026-05-05T15:00:04+00:00",
+      "summary": "One dose of psilocybin changes the human brain, leading to higher entropy&nbsp;&nbsp;Medical XpressHuman brain changes after first psilocybin use&nbsp;&nbsp;NatureScience gets closer to understanding how a psychedelic trip changes the brain&nbsp;&nbsp;NBC NewsA neuroscientist describes your brain on psychedelics in 101 seconds&nbsp;&nbsp;University of California, BerkeleySingle dose of magic mushroom psychedelic can cause anatomical brain changes, study finds&nbsp;&nbsp;The Guardian",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcE1Vc3h2X0NDNWNmaDJqMVRUT2UyckNwWTVWWDFzQ2h6WVFUUVZzcjd4OG01dzJkdHpVY2IzdHNQUVBBcEdIaGtsMmdQV0JhYTE5LUJXUGI5UjVuMGNUVktFcGg4WHBELUdXMDRpei15QVpvdEEtTVRaUE1SNGs2Z2liZWw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8ca18b1eac2f",
+      "title": "Astronomers Are Shooting Giant Lasers Into The Sky To See The Universe With Unmatched Clarity - The Daily Galaxy",
+      "published": "2026-05-05T14:45:00+00:00",
+      "summary": "Astronomers Are Shooting Giant Lasers Into The Sky To See The Universe With Unmatched Clarity&nbsp;&nbsp;The Daily GalaxyESO Beams Four Lasers At The Heart Of The Tarantula Nebula – Why?&nbsp;&nbsp;IFLScienceLasers take aim at a galaxy far, far away photo of the day for May 4, 2026&nbsp;&nbsp;Space",
+      "sources": [
+        {
+          "name": "The Daily Galaxy",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNmZqQzRNa2wzX0xjQmZhdk94ZEQxeDV0cVR3YXBIbGZxNFdkNzNzTW5qTy13Mkl1WVZjN1BCT3pZUlVQLUh6bTZqeHVmU0RSWlJHWEIwWGxoRV9pMkVpNURaUUp1NHRWcWt3RmpsellEQkFkRFk5UldPdHhJUG04Vw?oc=5"
         }
       ]
     },
@@ -117,7 +225,7 @@
       "id": "121711f9165d",
       "title": "'Age-old' disease hits 12-year high in Calif. as new outbreak details revealed - SFGATE",
       "published": "2026-05-05T14:02:17+00:00",
-      "summary": "'Age-old' disease hits 12-year high in Calif. as new outbreak details revealed&nbsp;&nbsp;SFGATEView Full Coverage on Google News",
+      "summary": "'Age-old' disease hits 12-year high in Calif. as new outbreak details revealed&nbsp;&nbsp;SFGATE50 large TB outbreaks identified in 23 states during 2017 to 2023&nbsp;&nbsp;Medical XpressLarge TB outbreaks in the United States decline slightly in recent years, CDC reports&nbsp;&nbsp;CIDRAPCDC Warns Large Tuberculosis Outbreaks Doubled in US Since Mid-2010s&nbsp;&nbsp;NewsweekTuberculosis Resurgence A Growing Public Health Concern&nbsp;&nbsp;Milford-Orange Times",
       "sources": [
         {
           "name": "SFGATE",
@@ -126,10 +234,22 @@
       ]
     },
     {
+      "id": "c5d346ab9bfe",
+      "title": "Life with one less: Engineered bacteria break the 20-amino-acid rule - Phys.org",
+      "published": "2026-05-05T14:00:02+00:00",
+      "summary": "Life with one less: Engineered bacteria break the 20-amino-acid rule&nbsp;&nbsp;Phys.orgAll Life Uses 20 Amino Acids. Scientists Just Deleted One in Bacteria.&nbsp;&nbsp;SingularityHubColumbia University creates E. coli that survives without one essential amino acid&nbsp;&nbsp;동아사이언스Researchers try to cut the genetic code from 20 to 19 amino acids&nbsp;&nbsp;Ars TechnicaScientists used AI to rewrite part of life’s alphabet&nbsp;&nbsp;Scientific American",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rdWFjbDFRRDFLNWJyR2xfS2lDcHY1aXV0QWY3RzZFcUw3TjBVN2h0TXRURTFKT3h4bG0tVjl3bFNXLUJqUUVybmNKR1o2VHppUWpTZWJDV1VmdVpsbUl0bjlNTEdFLV9Bd0Vv?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f14d9762c551",
       "title": "The Science on Creatine Dosage Is Shifting. Here’s How Many Grams You Should Take. - Men's Health",
       "published": "2026-05-05T11:00:00+00:00",
-      "summary": "The Science on Creatine Dosage Is Shifting. Here’s How Many Grams You Should Take.&nbsp;&nbsp;Men's HealthCreatine is claimed to benefit body and mind: The potential benefits and limitations of the popular supplement&nbsp;&nbsp;Medical XpressScientists reveal creatine’s hidden power beyond muscle gains&nbsp;&nbsp;ScienceDailyPopular gym supplement is ‘not a magic bullet’ — its benefits depend on 3 major factors&nbsp;&nbsp;New York PostCreatine: Creatine: Is it more than just a muscle supplement?",
+      "summary": "The Science on Creatine Dosage Is Shifting. Here’s How Many Grams You Should Take.&nbsp;&nbsp;Men's HealthScientists reveal creatine’s hidden power beyond muscle gains&nbsp;&nbsp;ScienceDailyPopular gym supplement is ‘not a magic bullet’ — its benefits depend on 3 major factors&nbsp;&nbsp;New York PostCreatine is claimed to benefit body and mind: The potential benefits and limitations of the popular supplement&nbsp;&nbsp;Medical XpressMedical Bulletin 06/May/2026&nbsp;&nbsp;Medical Dialogues",
       "sources": [
         {
           "name": "Men's Health",
@@ -141,11 +261,23 @@
       "id": "c7c33fcd4c08",
       "title": "I Have Terrible Allergies. These Products Are Helping Me Survive This Spring - CNET",
       "published": "2026-05-05T10:37:00+00:00",
-      "summary": "I Have Terrible Allergies. These Products Are Helping Me Survive This Spring&nbsp;&nbsp;CNETHay fever: Nine tips for coping with pollen and seasonal allergens&nbsp;&nbsp;BBCAllergy season arrived late, but it’s causing stronger symptoms than usual this year&nbsp;&nbsp;The Boston GlobePollen allergies are brutal this year – a doctor explains why, and how to find relief&nbsp;&nbsp;Wausau Pilot & ReviewAllergy season in full swing as pollen levels rise&nbsp;&nbsp;WSAW",
+      "summary": "I Have Terrible Allergies. These Products Are Helping Me Survive This Spring&nbsp;&nbsp;CNETPollen allergies are brutal this year – a doctor explains why, and how to find relief&nbsp;&nbsp;The Conversation‘Sneezing season’ is in full swing. Here’s your allergy outlook for May&nbsp;&nbsp;KIRO 7 News SeattleHow to survive a ‘pollen tsunami’ — and 5 subtle signs it’s time to see a doc, including ‘allergy face’&nbsp;&nbsp;New York PostHay fever: Nine tips for coping with pollen and seasonal allergen",
       "sources": [
         {
           "name": "CNET",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSnlNN0FxN3NkSWMtNTYyaGs5WmxJc1RxRlF1bmNLVHFjR2I4NUs5OU5BX2JVNEh4SEt4OWRHQXlYdW1EbGV2bC1BUk12dDltamh5Tl9FTmNKVDhEOUZidzZNMndZZ1diMnJHa25JNDBTV0FaWFNQSk5kb0Rfd0RLSXVTTzZ2Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "67490d50e57d",
+      "title": "New cancer breakthrough as 'AI detects disease years before doctors' - The Mirror",
+      "published": "2026-05-05T10:36:00+00:00",
+      "summary": "New cancer breakthrough as 'AI detects disease years before doctors'&nbsp;&nbsp;The MirrorAI finds signs of pancreatic cancer before tumors develop&nbsp;&nbsp;NBC NewsAI Detects “Invisible” Signs of Pancreatic Cancer Years Before Diagnosis&nbsp;&nbsp;SciTechDailyMayo Clinic AI helps specialists detect pancreatic cancer up to 3 years before diagnosis in landmark validation study&nbsp;&nbsp;Mayo Clinic News NetworkNew tool can find deadliest cancer years before tumors can be seen on a scan&nbsp;&n",
+      "sources": [
+        {
+          "name": "The Mirror",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcUwxNzQ0blFQdHE3b2N6LXh4NlZYTW4xUU9OYXItekU0cUZHNkZwNXYxcFZUQVl3cERrODlXdWxlc2RLMzZpemNjYjhnQTZhRFE0ZFpaVnRSS2FnVWhoZlFFVFZGTXlqSTBGUVl2X3FJQjhJc3NKM0xGclM1VEFEal84Y3F0QTjSAYwBQVVfeXFMTV9WWWtSUWtwaHVQRndzT21JRDI5S1Yxd01wRTNpODFSNGJvN0NCLWhqNFdJajExNzNrWVNkbEhlXzlxNWcyTGRUSkdMX2dLNktvTW4zMjlRdzVCd1BHN1hOOWVFNlZBNnNra2ZtbVRJdjdsQzhkVk9oZzR3TXc0cnhWMUVkLTRlNnA0Tjg?oc=5"
         }
       ]
     },
@@ -174,22 +306,10 @@
       ]
     },
     {
-      "id": "099574bdddc1",
-      "title": "Cruise ship outbreaks hit 23 in 2025, with norovirus the most common virus - WLWT",
-      "published": "2026-05-04T22:32:00+00:00",
-      "summary": "Cruise ship outbreaks hit 23 in 2025, with norovirus the most common virus&nbsp;&nbsp;WLWTDo viruses spread more easily on cruise ships?&nbsp;&nbsp;BBCCruises seem gross and awful. Why are they popular? Tell us. | Opinion&nbsp;&nbsp;USA TodayPetri Dish of the Seas&nbsp;&nbsp;vocal.mediaHantavirus, COVID, norovirus, legionnaires’: why are cruise ships so prone to disease outbreaks?&nbsp;&nbsp;The Conversation",
-      "sources": [
-        {
-          "name": "WLWT",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XZWpLYWE3cHNZT1dUMHZydVYtUWpkZy1PTE1wdnlvZVhGWHJjODhwUHctMTQyUXRfbGE5UGQ5N3RwV1VLcTRJbmNqT20xRE95cmtYeDloQlpNRjhHT0VmSlNIMHlPc1RSQjRj?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7cfd5808523f",
       "title": "Scientists Discover Evolution’s 120-Million-Year-Old “Cheat Sheet” - SciTechDaily",
       "published": "2026-05-04T22:18:20+00:00",
-      "summary": "Scientists Discover Evolution’s 120-Million-Year-Old “Cheat Sheet”&nbsp;&nbsp;SciTechDailyEvolution isn’t random. Scientists find the same genes used for 120 million years&nbsp;&nbsp;ScienceDailyGenetic parallelism underpins convergent mimicry coloration in Lepidoptera across 120 million years of evolution&nbsp;&nbsp;PLOSStudy: Butterflies and Moths Have Reused Same Genetic Toolkit for 120 Million Years&nbsp;&nbsp;Sci.NewsThese Two Genes Have Been Running Evolution’s Playbook Since the Dinosaurs",
+      "summary": "Scientists Discover Evolution’s 120-Million-Year-Old “Cheat Sheet”&nbsp;&nbsp;SciTechDailyEvolution isn’t random. Scientists find the same genes used for 120 million years&nbsp;&nbsp;ScienceDailyGenetic parallelism underpins convergent mimicry coloration in Lepidoptera across 120 million years of evolution&nbsp;&nbsp;PLOSThese Two Genes Have Been Running Evolution’s Playbook Since the Dinosaurs&nbsp;&nbsp;Indian Defence ReviewStudy: Butterflies and Moths Have Reused Same Genetic Toolkit for 120 ",
       "sources": [
         {
           "name": "SciTechDaily",
@@ -237,7 +357,7 @@
       "id": "072870aec70d",
       "title": "New Research Shows How the Earliest Humans Got Their Meat - Gizmodo",
       "published": "2026-05-04T19:00:43+00:00",
-      "summary": "New Research Shows How the Earliest Humans Got Their Meat&nbsp;&nbsp;GizmodoForaging behavior in early humans&nbsp;&nbsp;Popular ArcheologyEarly hominins in Kenya extracted animal bone marrow 1.6 million years ago&nbsp;&nbsp;동아사이언스Our Human Ancestors Dined on Takeout&nbsp;&nbsp;Nautilus | Science1.6‑Million‑Year‑Old Fossils Show Early Humans Repeated a Successful Meat‑Gathering Strategy&nbsp;&nbsp;Discover Magazine",
+      "summary": "New Research Shows How the Earliest Humans Got Their Meat&nbsp;&nbsp;Gizmodo1.6‑Million‑Year‑Old Fossils Show Early Humans Repeated a Successful Meat‑Gathering Strategy&nbsp;&nbsp;Discover MagazineForaging behavior in early humans&nbsp;&nbsp;Popular ArcheologyOur Human Ancestors Dined on Takeout&nbsp;&nbsp;Nautilus | ScienceEarly hominins in Kenya extracted animal bone marrow 1.6 million years ago&nbsp;&nbsp;동아사이언스",
       "sources": [
         {
           "name": "Gizmodo",
@@ -249,11 +369,35 @@
       "id": "7da4c520e3b7",
       "title": "Symmetry says these crystal vibrations can never mix, but an exotic quantum phase rewrites the rules - Phys.org",
       "published": "2026-05-04T17:20:11+00:00",
-      "summary": "Symmetry says these crystal vibrations can never mix, but an exotic quantum phase rewrites the rules&nbsp;&nbsp;Phys.orgResonant chiral dressing by amplitude fluctuations in a ferroaxial electronic crystal&nbsp;&nbsp;nature.comResearchers Detect Quantum Phase With Light Scattering&nbsp;&nbsp;Quantum ZeitgeistExotic Quantum Phase Dynamically Links Vibrations Separated by Symmetry&nbsp;&nbsp;Bioengineer.org",
+      "summary": "Symmetry says these crystal vibrations can never mix, but an exotic quantum phase rewrites the rules&nbsp;&nbsp;Phys.orgResonant chiral dressing by amplitude fluctuations in a ferroaxial electronic crystal&nbsp;&nbsp;NatureResearchers Detect Quantum Phase With Light Scattering&nbsp;&nbsp;Quantum ZeitgeistExotic Quantum Phase Dynamically Links Vibrations Separated by Symmetry&nbsp;&nbsp;Bioengineer.orgAmplitude fluctuations reshape the lattice chiral response in a ferroaxial electronic crystal&nb",
       "sources": [
         {
           "name": "Phys.org",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUXVGVWpVa3k0X20wNnhOTTJHNzY4WlJSTWEtSDhmREtMUUxoUWRLTHk4aV9vamYyVVVLbWJkQjMzNDFYYzYzanpKN2c3NzBUellpdk53SmxNR3NjUkFwZkRxYmZvQXVvWnpsSTZFdVJhYm1RRXhuZm42UTJrSFRNTmxxRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "85dcef17a4bb",
+      "title": "Scientists Discover Scorpions’ Sting Fortified with Metal - Ground News",
+      "published": "2026-05-04T17:17:00+00:00",
+      "summary": "Scientists Discover Scorpions’ Sting Fortified with Metal&nbsp;&nbsp;Ground NewsScorpions Are So Metal—Literally. New Images Reveal Patterns in How Their Weaponry Is Fortified With Iron, Zinc and Manganese&nbsp;&nbsp;Smithsonian MagazineScorpions go terminator mode and reinforce their weapons with metal&nbsp;&nbsp;Ars TechnicaScorpions' weapons are fortified with metal to suit their needs, research shows&nbsp;&nbsp;Phys.orgMetal-reinforced scorpions evolved to kill&nbsp;&nbsp;Popular Science",
+      "sources": [
+        {
+          "name": "Ground News",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdklreW1OVHpISzRDZVhqWUEybVVzcjl5ekViSDIwUVJ4NnZYVzhvMGkyckk1Nlo5emN3cXVwTHluazl6clpRM1VvWVdJTkRXRC0xbFZJc0FTcWJ2dFVNNGNWaXgxNW5CNExvSXFRUXdvbENrZmt3T1NSQVRVdGJqbG4zTFBDM2t1OFdnZm5idDRwLU1fbTYyUE12QlplaDh4RTd5U0xXTlBPUXd2YTJTSFd4VHRkLVJjcUpMS0h3VzY4dnhEUmtiM3hlNzNORWhXalo1M3dEZ0NHM09KbHpCMXpReXgxYUtZeFNLOGN3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "994b692ce185",
+      "title": "Omega-3 supplements may be linked to faster cognitive decline in seniors, study finds - Medical Xpress",
+      "published": "2026-05-04T16:40:08+00:00",
+      "summary": "Omega-3 supplements may be linked to faster cognitive decline in seniors, study finds&nbsp;&nbsp;Medical XpressWatch 9News Latest Stories - Season 2026 - New study reveals fish oil supplements resulting in cognitive decline&nbsp;&nbsp;9NowOmega-3 Supplements May Increase Risk of Cognitive Decline, Scientists Warn&nbsp;&nbsp;ScienceAlertOmega-3 Supplements Linked to Cognitive Decline in Surprising New Study&nbsp;&nbsp;SciTechDailyFish oil may actually be hurting your brain, shocking new study fin",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdkVNUVZtLTUxTWhaZWdWVlZUQWdaOUMtaU9DM0k1Z2NNWTB3LVVvaFlUU2J2SlIycTN1T1ctUHVqREU2dDctb1VKeXVycEUzZW8zdk5fa2tkdXNtS3oyZHNEYTA4bDBQWFAxbVVCYjhYNGZtZ1pOOXFBM2UwVkJma1VadS1WaThVTkpJOE9R?oc=5"
         }
       ]
     },
@@ -270,98 +414,14 @@
       ]
     },
     {
-      "id": "3b67be7ca19c",
-      "title": "Man produces sperm from testicular tissue frozen as a child in breakthrough trial - The Guardian",
-      "published": "2026-05-04T14:00:00+00:00",
-      "summary": "Man produces sperm from testicular tissue frozen as a child in breakthrough trial&nbsp;&nbsp;The GuardianCan Cryopreserved Testicular Tissue Enable Fertility?&nbsp;&nbsp;MedscapeMan Produces Sperm from Testis Tissue Cryopreserved for 16 Years Before Puberty&nbsp;&nbsp;동아사이언스Man made infertile by chemotherapy could now have children&nbsp;&nbsp;The Telegraph‘Infertile’ man given fresh hope of a family after having world’s first ‘frozen testicular implant’&nbsp;&nbsp;The Sun",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUnJvb2lrZGVJdVVFdkRRcnBvblRTSVJTSDluTWZHbU5WTG54ZXhFNEUteWY3RWV2OTlxbV9EcHhINzJnN2szcjB6SkVUWE9LbDhDRUM3WWRBT0Z3RVRUc2pOVzlUQ2Zib2JSV1V5R2hhMzFhUHBxZzBUN0xMX08tTHRlZ250TWRORUdkX1QxZ1d5X2d6UW55eUYtcDgzbjlsVldwNG42ZWdtUTNrRHlCbG05eTd3dVY5MUtmV3BPWUhMZTVzYV9FUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "eee649d7db0e",
-      "title": "5 Nutrients You Need More of as You Age, According to Dietitians - Verywell Health",
-      "published": "2026-05-04T13:36:08+00:00",
-      "summary": "5 Nutrients You Need More of as You Age, According to Dietitians&nbsp;&nbsp;Verywell HealthFive diet patterns shaping health in older Americans&nbsp;&nbsp;News-Medical6 food groups to limit after age 50 to live healthier&nbsp;&nbsp;Laodong.vnHealthy eating important as seniors age&nbsp;&nbsp;Cleveland Jewish NewsWeekly Wellness: Nutrition and hydration for older adults&nbsp;&nbsp;Steamboat Pilot",
-      "sources": [
-        {
-          "name": "Verywell Health",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY2ItWmNvWEphWlhJTHpkQTJ3aVRtTnBpbFF0THM1UktEc3lsUWh5SFZYMUZvQzA2enJtNDVJWlpHcWQ3U3VpaTlmSzZtdWFaMWhlUzlXeFMtamZjTHRCOXZCeUVaS2RRR2oxd0pSNWJ1VFNnZkRudUZpM3UxbU5yT3lYOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a9e8aef1ac2a",
-      "title": "Medical Marijuana Can Be A 'Profoundly Helpful Tool' For Seniors Dealing With Pain And Other Maladies (Op-Ed) - Marijuana Moment",
-      "published": "2026-05-04T13:01:30+00:00",
-      "summary": "Medical Marijuana Can Be A 'Profoundly Helpful Tool' For Seniors Dealing With Pain And Other Maladies (Op-Ed)&nbsp;&nbsp;Marijuana MomentOpinion | Here's What Medical Marijuana Can Do for Older Patients&nbsp;&nbsp;MedPage TodayPrevalence of Selected Complementary Health Approaches High in Seniors&nbsp;&nbsp;Ophthalmology Advisor",
-      "sources": [
-        {
-          "name": "Marijuana Moment",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNkRDVnVQa2UxMTBVUVZSY3NPOERGek1qLWxaWDdEMTI0VkFKa0lWZFAwXzZBR2NBeFlfVTNfS0dYcFpWbEVvQks4azBaZG9FLUIxZmttVE5ORWZGX0JiSDlZTFpNVGgzdjVCcVNCRGRBdUl6aTAwaWpGbE13QlZpYW1WUUJLajFWOHlLMWhJSFJpMjRtTjFPQUNUODRPRkRrYkJZbzhFUVA5Tm1wX1E2QWpCNlNmV2R3V3VBZXF6UGlUY0FYMWpsbTFWSXFQVUJfOTN1Qg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "13ad9c236216",
-      "title": "Biological age tests reveal what slows or hastens aging – but they’re useful only for researchers, not consumers - The Conversation",
-      "published": "2026-05-04T12:29:54+00:00",
-      "summary": "Biological age tests reveal what slows or hastens aging – but they’re useful only for researchers, not consumers&nbsp;&nbsp;The Conversation",
-      "sources": [
-        {
-          "name": "The Conversation",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbWU5VGIxZUJLLVhIX0NxbVkwVzY1OG1kYkRYd1lOalhUY1kwUk05dHRZQ3VWS1lsYkszLVpONm9SX0VvbHFoSWM5U1BWai1kSWw5T3Y4YVFvRGx2MUhTalNYV0NYOExWZVBwRFROMmdWSzhvcWNIWFVYQXJ4UFZNMkJBVjhwWlJDTlNlM3JqVi15NUg0SzVHbk9HQ21heEZMTWhIVVZHU3gya2p2c1l1UUU0Z3p6QmdMblVUY3U1SmxST3VSd2VRbnFMRU40R01BY2dXcXc2MV9SUVk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "500ae9376038",
-      "title": "An 8-Year-Old Boy Spotted \"Seeds\" in His Backyard and Accidentally Broke a 100-Year-Old Biology Rule - The Daily Galaxy",
-      "published": "2026-05-04T12:15:00+00:00",
-      "summary": "An 8-Year-Old Boy Spotted \"Seeds\" in His Backyard and Accidentally Broke a 100-Year-Old Biology Rule&nbsp;&nbsp;The Daily Galaxy8-year-old boy's backyard discovery challenges scientific understanding of ants&nbsp;&nbsp;YahooMah Rabu Maasecha: of Ants, Oak Trees, Wasps and Acapello Music&nbsp;&nbsp;VINnews8-year-old boy’s curiosity about 'seed-like' balls in his backyard uncovered a hidden ant network&nbsp;&nbsp;The Times of India8-year-old boy finds mysterious \"little balls\" in the backyard and ",
+      "id": "5357b432e9ea",
+      "title": "Scientists Reveal Two Previously Unknown Minerals Hidden Deep In Lunar Dust Samples - The Daily Galaxy",
+      "published": "2026-05-04T14:15:00+00:00",
+      "summary": "Scientists Reveal Two Previously Unknown Minerals Hidden Deep In Lunar Dust Samples&nbsp;&nbsp;The Daily GalaxyNew lunar mineral found in meteorite&nbsp;&nbsp;China Daily - Global EditionChina browses lunar landing spots in race to land on Moon&nbsp;&nbsp;The RegisterChinese researcher recalls pleasant surprise of discovering new lunar mineral&nbsp;&nbsp;巴士的報Touching the moon&nbsp;&nbsp;Global Times",
       "sources": [
         {
           "name": "The Daily Galaxy",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRXdVME10T0xIXzBDUnAwWFhRcnVmWHBTeGxkZldZaGJXbFlHeVExRWVZazBEUEstSnhWWEw1TWVGVDJNcXN1cjFBc2dnaXB2VUFCQ1RaUUlNSUEzaC05VmpFeUNTakh3VzRpeHE5M3RZUkI1QUdGeVRKTEZ1LW5CRFE0YmlxMVc2NGdRdkRLZXYwRG5MZmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "24180403e571",
-      "title": "Plant Seeds Do Something Incredible When The Sound of Rain Strikes - ScienceAlert",
-      "published": "2026-05-04T12:01:39+00:00",
-      "summary": "Plant Seeds Do Something Incredible When The Sound of Rain Strikes&nbsp;&nbsp;ScienceAlertWhen seeds 'hear' rain, they 'decide' to sprout — study&nbsp;&nbsp;dw.comPlants can hear the rain, and it makes them grow faster: Study&nbsp;&nbsp;The Times of IndiaSeeds hear rain: MIT study finds sound waves speed germination&nbsp;&nbsp;valleyvanguardonline.com",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtVUtmTHRYdnREWGRpN1Rhek10UUlPWHBlYWdOcTRZay0yQzFqbmNiUDI2Y1I0c3NxaWdDQVdSNXRjcllURmx2YWZON25iMnhhMVh3eUN5TW9fZmk3RFpWeUV6M2szcGVlYk1SWHBscHA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e18ec73d92f8",
-      "title": "Science Has Found Even More Ways Coffee Is Good for You - WIRED",
-      "published": "2026-05-04T09:30:00+00:00",
-      "summary": "Science Has Found Even More Ways Coffee Is Good for You&nbsp;&nbsp;WIREDScientists just discovered what coffee is really doing to your gut and brain&nbsp;&nbsp;ScienceDailyAll coffee, even decaf, can improve mood, brain health, study finds&nbsp;&nbsp;Medical News TodayNew Research Reveals That Your Morning Coffee Activates an Ancient Longevity Switch&nbsp;&nbsp;SciTechDailyCoffee doesn't just wake you up—a key biological pathway illuminates widespread health effects&nbsp;&nbsp;Science X network",
-      "sources": [
-        {
-          "name": "WIRED",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSUFIakI2eE13THhpaHRzUmNZdU9TTGZOeFRxaEtxaE5hMjE2T0pqMEQ3UHFxbWhsblpneW9uU0hnX2FOTlVZcVZ0Y0NZWm5wUDZLY1hCbE04ZWNDSC1qdVQtOW15NTRULUNDYWRNc2lUTUlURThoY2gtZlBYOGszNnVCcmFXdUJWSGc0SA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0ff59baee74e",
-      "title": "Record-Setting Retreat of Hektoria Glacier - NASA Science (.gov)",
-      "published": "2026-05-04T04:01:00+00:00",
-      "summary": "Record-Setting Retreat of Hektoria Glacier&nbsp;&nbsp;NASA Science (.gov)A glacier in Antarctica loses 25 km in 15 months and breaks the world record for glacial retreat, according to a study published in the scientific journal Nature Geoscience by the team of researcher Naomi Ochwat, from the University of Innsbruck.&nbsp;&nbsp;CPG Click Petróleo e Gás",
-      "sources": [
-        {
-          "name": "NASA Science (.gov)",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSWEtWnBOUFpGeHA3QUVYWEk4OUlwanNxS0xqYTFDUVBjdGZzaU9Va3g3NWoydFc3SVZYOXJfU01uSW9WRmFyRkFMODduZmFpc1B4Y0JMRms4NkU5LVJUNnZYeTB0bW1hdjRWR1JXTTRaM005aUhzby11WHA1dWZrVHBJZ2NJTld2UWxWNW5vLTRRRFRobjZn?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LbWlWYldab3ctSGEtUklUelBwYWxQVmVqemY2TFliVlI5Ql91ei12ZFdlcUtRbXg3UjlicTFIZmxkS29pRnI1YzNGLS1SSktvZWdzM2JVcm91aU1KTERwaW5TeHBWRjJMaDhuZ09YNzBNMzFRTWdNbnlNeEk?oc=5"
         }
       ]
     }

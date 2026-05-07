@@ -1,19 +1,31 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-07T03:29:33.839606+00:00",
-  "total_fetched": 94,
-  "unique_count": 94,
-  "health_related_count": 36,
+  "fetched_at": "2026-05-07T08:38:36.327896+00:00",
+  "total_fetched": 106,
+  "unique_count": 106,
+  "health_related_count": 47,
   "news": [
     {
-      "id": "d3d6543b8e8d",
-      "title": "3 evacuated from hantavirus cruise ship as Spain says it will dock in Canary Islands despite local opposition - CBS News",
-      "published": "2026-05-07T02:04:04+00:00",
-      "summary": "3 evacuated from hantavirus cruise ship as Spain says it will dock in Canary Islands despite local opposition&nbsp;&nbsp;CBS NewsHantavirus Case in Switzerland Spurs Race to Trace Contacts&nbsp;&nbsp;WSJUS monitoring passengers returning from ship in hantavirus outbreak&nbsp;&nbsp;USA TodayHantavirus on cruise ship confirmed as rare type that can spread human-to-human&nbsp;&nbsp;NPRWhat doctors know about how the Andes hantavirus spreads&nbsp;&nbsp;CNN",
+      "id": "d5104c505898",
+      "title": "Two Britons self-isolating in UK after leaving hantavirus cruise ship - BBC",
+      "published": "2026-05-07T07:52:10+00:00",
+      "summary": "Two Britons self-isolating in UK after leaving hantavirus cruise ship&nbsp;&nbsp;BBCHantavirus Case in Switzerland Spurs Race to Trace Contacts&nbsp;&nbsp;WSJCountries scramble to track passengers of virus-hit cruise ship&nbsp;&nbsp;ReutersSpanish passenger on the ‘Hondius’: ‘There are 23 people who got off on Saint Helena and have been wandering around’&nbsp;&nbsp;EL PAÍS EnglishWhat doctors know about how the Andes hantavirus spreads&nbsp;&nbsp;CNN",
       "sources": [
         {
-          "name": "CBS News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaUgzeXBPeUd0Rk5KSkYwNUZuaGFTWUFobHJKUmozQU5BckkwVnRRSmZMRXV4S3B1RllVWTNiT29EUThUcURnbDIwenM3VTVjMzM4bmM3eE5weGhqMndyTU9oNmsxNUdILWc5dkFtb21WN0RRZXQyRG5lZVpkdjI0TFZxc0Q1YnpWZ05mTW5RakJld9IBlwFBVV95cUxNbGJDQ0ZpN3Axc3ZSa1hiS0hUdE9KX2RzNWtkaHBZVkk3MlBQZzlfbkU0UURZNTRvZWJ1LVJUMlhxbjdRVXNiZmk0SG9qdjFCa0hlSjBlTFlnc2tVOUlHY1V3YWJnaGtPRXROZ3o4T2tZbGpad05TcjhsQlJwcU1oeU51VFgyOENMVUJESG1keTJWSHVZcVhN?oc=5"
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SalFnSmVNeWplX1M2ZW9oaVYtVWM2WTBXekFHMVltOVZzclU0T2tzMThsRExtVE5SeGZZVDlHU2tfcE1sSXVNdjBhNFpYN21CRjFWUzBGdXA1dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5ae2aae396df",
+      "title": "Scientists Gave ‘Aggressive’ Fish Psychedelic Drugs. A Breakthrough Came Next - 404 Media",
+      "published": "2026-05-07T04:06:27+00:00",
+      "summary": "Scientists Gave ‘Aggressive’ Fish Psychedelic Drugs. A Breakthrough Came Next&nbsp;&nbsp;404 MediaMagic mushrooms make mean fish lazier and more chill&nbsp;&nbsp;Popular ScienceKey magic mushroom ingredient makes fish less aggressive and lazier&nbsp;&nbsp;Medical XpressPsilocybin Reduces Aggression and Activity in Fish by Binding to Serotonin Receptors&nbsp;&nbsp;geneonline.com",
+      "sources": [
+        {
+          "name": "404 Media",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2JKYXVFQTgtY1hfYmNVRHlYazZlWkRQei1ibUlCeFEzNzNiZWVoNlRzUzI3ajJmWjZ1eFVETktCYVlLRFFCNXhIdFlDUlM0QW93cnB2bHQwcUdETUdYSTVyajdLRGQ1OUhWSzVQYTVKcnNpbjNzZzNsMlVxbl9RVw?oc=5"
         }
       ]
     },
@@ -30,6 +42,42 @@
       ]
     },
     {
+      "id": "e828c65e9490",
+      "title": "Maricopa County confirms 3 new measles cases; likely infected locally - AZ Family",
+      "published": "2026-05-06T23:36:00+00:00",
+      "summary": "Maricopa County confirms 3 new measles cases; likely infected locally&nbsp;&nbsp;AZ FamilyMaricopa County announces 3 new measles cases, identifies 10 exposure sites in Mesa&nbsp;&nbsp;KTAR News 92.3 FMEast Valley measles outbreak grows: Where you may have been exposed&nbsp;&nbsp;Phoenix New TimesMaricopa County measles cases rise to 13 as health officials identify new exposure sites&nbsp;&nbsp;ABC15 ArizonaMaricopa County measles cases remain low, but officials still urge caution&nbsp;&nbsp;KJZ",
+      "sources": [
+        {
+          "name": "AZ Family",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRC12cm5oSkpZMVMwN19peW5KVmZJTkhuc0MyWDNZU195eUFmVXBxZlFJbXF6YkszN2ZudHp4c2pKQktHLXI5Y1B5cFhmLS1QSDBaX0ZDT3J0bXlSYVJyc0dkcm5vSHNRajNLNE91SlVNRUlZUE1RbjVCTEEtOHZkanNPVktMY0l5UzJ0RUhQS0pNSkpsUC1LOEV5Rlkwa2FyVzRFM2VRclDSAbwBQVVfeXFMT2VlN1M1cldCSFYxLWJMVXg1dHQzZFI0dEU0WTZaVE8yWU1ncEd4cDRzU3JLMzNwcXN3dWhNanhQYXZKXzJZaDhOaVBxSUZ0ZTZTNjJ4aTRfeWdLUHhweTZFNjFqYUlsa3YtM2tBZHlVczhENW5sM0FzNFJsQUZXTTFYQURFM2J3T3VwLXZZUTg2ZUxIcTE0MF9PT3pWODYtNmxXYzZ6UEczY2lfZFhSczdLUzI2eWQtR0pBc3A?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c65a96701f88",
+      "title": "Purcell-enhanced spin–phonon coupling with a single colour centre - Nature",
+      "published": "2026-05-06T23:33:28+00:00",
+      "summary": "Purcell-enhanced spin–phonon coupling with a single colour centre&nbsp;&nbsp;NatureGood Vibrations for Quantum Communications&nbsp;&nbsp;Harvard School of Engineering and Applied SciencesResearchers’ novel device could boost the development of sound-based lasers&nbsp;&nbsp;Technology OrgThis New “Sound Laser” Could Measure Gravity With Stunning Precision&nbsp;&nbsp;SciTechDailyWeird Quantum Gadget Spits Out Chaotic ‘Sound Particles’&nbsp;&nbsp;Gizmodo",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KVXhLN1NzWDJseUNRWVN2VEdQbFB5YVVNMzEwcWFpbW5TTjN3S1NzMTJpNU5xTVk5VVhGYVRncnR0Z1BkZTI2eXAtMWZRN1F6ejJBZDBJOUdqa01NSDdJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0ca76eb30305",
+      "title": "RNA-triggered cell killing with CRISPR–Cas12a2 - Nature",
+      "published": "2026-05-06T23:18:56+00:00",
+      "summary": "RNA-triggered cell killing with CRISPR–Cas12a2&nbsp;&nbsp;NatureNew Kind of CRISPR Could Treat Viral Infection and Cancer by Shredding Sick Cells’ DNA&nbsp;&nbsp;University of Utah HealthUSU Biochemists Show CRISPR Can Selectively Destroy Cells, a Cancer-Treatment Goal&nbsp;&nbsp;Utah State UniversityA new kind of CRISPR could treat viral infection and cancer by shredding sick cells' DNA&nbsp;&nbsp;Phys.orgCRISPR tool targets cancer and virus-infected cells precisely&nbsp;&nbsp;healthcare-in-eur",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8taHEyc3RHckE1bEVOSTZ4Y0NXbEhJUzVJSzZqWEk1OVVOdW5JeFRsUkVKYXlZaFNnVjAxcS1yRXlqX3dVM19SZEFIWjFMODNyN1lxSThOSWFoU3VKVkk0?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f5a452e12a03",
       "title": "Specific expansion of motor cortical projections in a singing mouse - Nature",
       "published": "2026-05-06T23:06:57+00:00",
@@ -38,6 +86,54 @@
         {
           "name": "Nature",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HXy02azZXUzRLMUwxZnRvTUdMbVlMak1wZWhlb3pWeU9QN21jWEhhUllMSjc4dWlSeF9WR0x3czF4UmRwZlhta09ka1VXNkRUaGN6NnlDc2tlT1JsMWw0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "99670085a686",
+      "title": "A New Study Found Brain-Eating Amoeba at 3 Popular National Park Sites - Outside Magazine",
+      "published": "2026-05-06T23:02:06+00:00",
+      "summary": "A New Study Found Brain-Eating Amoeba at 3 Popular National Park Sites&nbsp;&nbsp;Outside MagazineBrain-eating amoeba detected in western national park waters&nbsp;&nbsp;SFGATEScientists sound alarm as dangerous amoebas spread globally&nbsp;&nbsp;ScienceDaily3 National Park Sites Test Positive for ‘Brain-Eating Amoeba’ in Water&nbsp;&nbsp;GearJunkieStudy Discovers “Brain-Eating Amoeba\" At Three National Park Sites&nbsp;&nbsp;National Parks Traveler",
+      "sources": [
+        {
+          "name": "Outside Magazine",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaVp6dFY0aGNwOEd5bDlrbmYzZ1ZDUjdrTV8wQlRteTFaQnljYUdoR2VKYnRuRVFMQ2hBVTJKQ01aUTUwWnl0c0tBVWJNdFNwS2tzWlVKUXBMWjFkOS1QZndzdXdXalVYQ09FR3pfV0ZyVklPbzFkQktDeHRRU3dqTm9TdHBCQzZ5YjJKUlVwbTdWT3dkclAwU0JhRVdVRFJHY1c0emUyWjg4OEJSRmpWdlNJaFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e4faa1e5fd09",
+      "title": "Jordan Peterson’s health mystery is a cautionary tale — with some convinced risky biohacking experiments contributed to his problems - New York Post",
+      "published": "2026-05-06T22:34:00+00:00",
+      "summary": "Jordan Peterson’s health mystery is a cautionary tale — with some convinced risky biohacking experiments contributed to his problems&nbsp;&nbsp;New York PostJordan Peterson’s wife says he’s in ‘another realm of pain’ from psychiatric medication injury&nbsp;&nbsp;Washington TimesInside Jordan Peterson’s ‘brutally painful’ illness as his wife reveals he’s suffering serious side effects from benzo withdrawal&nbsp;&nbsp;New York Post'In another realm of pain': Jordan Peterson confirmed to spend ever",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQci1GbTlaNWJGRFVCdTFOVTJ3OTFjYU1mdHkySmVleWEyVVNNbnRCNWFScXVGRFVkckltSnFaQVVQN3c4MFZUWVhrWTR6Y2NFVExKR21lVVNicU5yQWpBSjU4U09BZDl4a3p3eWQ5dlhKR2dtc0lQZklNS0Q5WndaOGptMDBDTHJCeDV3S2xFRXd5Skp6OTNSWVBjMFRUNmR2Z0t0d1YwTVdPb2ZkUUhjR1k0aUhWaUpkV2V2dW1sWW1GVXdGR2Fqd1ZDby1jSG9ORWNySXlZb0gyZDBmSVlEbmdGWFpzQXRfdFMtSEhQeUF3a05sVlkwM2xHN20?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6fbdac5729f0",
+      "title": "Plasticity and language in the anaesthetized human hippocampus - Nature",
+      "published": "2026-05-06T22:24:28+00:00",
+      "summary": "Plasticity and language in the anaesthetized human hippocampus&nbsp;&nbsp;NatureWhile patients lay unconscious under anesthesia, their brains kept decoding stories and preparing for what came next&nbsp;&nbsp;Medical XpressThe brain may still be able to hear speech under anesthesia&nbsp;&nbsp;Scientific AmericanBrains have a mind of their own under general anaesthetic&nbsp;&nbsp;The TimesAnesthetized Brains Process Speech, Distinguish Word Meanings Unconsciously&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XcVp3R0pBQjgyOU9EdzFYQkFJblUxQmUwSkZyQXdrdGl5OUhvZ3kza0Z5NzI4X05mdHd4b0ZmQXBLTnl4dU5Xc0E2MGFWZUlOQngwWjBFalgtSGdHTlNB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "62d8f243e617",
+      "title": "HIV-1 signalling remodels nuclear pores to licence infection - Nature",
+      "published": "2026-05-06T22:06:18+00:00",
+      "summary": "HIV-1 signalling remodels nuclear pores to licence infection&nbsp;&nbsp;NatureHIV-1 Remodels Nuclear Pores in Resting CD4+ T Cells to Facilitate Infection&nbsp;&nbsp;geneonline.comHIV-1 Alters Nuclear Pores to Enable Infection&nbsp;&nbsp;Bioengineer.orgNew discovery challenges a decades-old assumption in HIV biology&nbsp;&nbsp;News-MedicalQueen Mary University of London: Scientists discover how HIV hijacks a cellular 'gateway' to infect resting immune cells&nbsp;&nbsp;European AIDS Treatment Gro",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SNWt6TlZVRmVQcG5HeXpvcnR1VUMxNTI2eGZ1OU5NeEFneFZxNUhOYzJTV0ZfN0x5MlFLbEI2NG1mNktDcml3cHJYZnBwN1pnMlA4RElaam85VVAwSFdj?oc=5"
         }
       ]
     },
@@ -54,22 +150,10 @@
       ]
     },
     {
-      "id": "0ca76eb30305",
-      "title": "RNA-triggered cell killing with CRISPR–Cas12a2 - Nature",
-      "published": "2026-05-06T21:34:51+00:00",
-      "summary": "RNA-triggered cell killing with CRISPR–Cas12a2&nbsp;&nbsp;NatureNew Kind of CRISPR Could Treat Viral Infection and Cancer by Shredding Sick Cells’ DNA&nbsp;&nbsp;University of Utah HealthUSU Biochemists Show CRISPR Can Selectively Destroy Cells, a Cancer-Treatment Goal&nbsp;&nbsp;Utah State UniversityNext Generation CRISPR Gene Editing Could Help Target Cancer Cells&nbsp;&nbsp;Inside Precision MedicinePrecision at its Finest: New CRISPR Tool Effortlessly Targets and Removes Undesired Cells&nbsp;",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8taHEyc3RHckE1bEVOSTZ4Y0NXbEhJUzVJSzZqWEk1OVVOdW5JeFRsUkVKYXlZaFNnVjAxcS1yRXlqX3dVM19SZEFIWjFMODNyN1lxSThOSWFoU3VKVkk0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "969915ea4817",
       "title": "Expanding the human proteome with microproteins and peptideins - Nature",
       "published": "2026-05-06T21:34:51+00:00",
-      "summary": "Expanding the human proteome with microproteins and peptideins&nbsp;&nbsp;NatureHow a global effort to explore the 'dark proteome' is upending our understanding of human disease&nbsp;&nbsp;statnews.comThe human genome encodes for a new category of molecule&nbsp;&nbsp;The EconomistNature study defines 1,785 new peptideins as promising cancer therapy targets&nbsp;&nbsp;동아사이언스How many genes are in the human genome? For once, it’s more than we thought&nbsp;&nbsp;C&amp;EN",
+      "summary": "Expanding the human proteome with microproteins and peptideins&nbsp;&nbsp;NatureHow a global effort to explore the 'dark proteome' is upending our understanding of human disease&nbsp;&nbsp;statnews.comThe human genome encodes for a new category of molecule&nbsp;&nbsp;The EconomistDark proteome yields 1,785 new microproteins that could reshape disease research&nbsp;&nbsp;Phys.orgHow many genes are in the human genome? For once, it’s more than we thought&nbsp;&nbsp;C&amp;EN",
       "sources": [
         {
           "name": "Nature",
@@ -78,26 +162,50 @@
       ]
     },
     {
-      "id": "fc3b19f4018f",
-      "title": "Moderna’s mRNA flu vaccine more effective than standard shot in late-stage trial - NBC News",
-      "published": "2026-05-06T21:00:00+00:00",
-      "summary": "Moderna’s mRNA flu vaccine more effective than standard shot in late-stage trial&nbsp;&nbsp;NBC NewsWoman marks milestone birthday by taking part in bird flu vaccine trial&nbsp;&nbsp;Dorset EchoModerna Announces New England Journal of Medicine Publication of Pivotal Phase 3 Clinical Safety and Efficacy Data for Its Investigational Seasonal Influenza Vaccine, mRNA-1010&nbsp;&nbsp;Yahoo FinanceCould a seasonal flu shot help protect against bird flu? International study points to a surprising possi",
+      "id": "bc4b7f4d01b5",
+      "title": "Public health officials confirm 18 Legionella infections connected to Kaiser Permanente Santa Clara - KTVU",
+      "published": "2026-05-06T21:07:33+00:00",
+      "summary": "Public health officials confirm 18 Legionella infections connected to Kaiser Permanente Santa Clara&nbsp;&nbsp;KTVUView Full Coverage on Google News",
       "sources": [
         {
-          "name": "NBC News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaTlHSHhjeGVIYVRaOUk2RzQwWkptMlV5STBBVjFhSjVodHlaSW9qS040dmJiZVlINmxBNDR1Y2FDU09GYjUxeWo5R2tNQ1ZJRmV3cVR0X1p1OEZXSWNjVUgxckZNVVFfRE1SUmFDUzRVcmxSdjJ4UnYtOEk0cWU2Y21JRDdrS1VmUzJTRWlwOVgtR2JJMkx2clJjdw?oc=5"
+          "name": "KTVU",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeFNYY2c0MUNJUkhsa2xmVVR3S2oweUtCUUpCYjl1aU1tUFlTLUNxSUxrTUtxa0JVQ0Y2cUhBaldlWm9VQWM0MWFvRGxxZ0JzeUl5d3BlMk5rbmwtOGUzSDdHWjFMazJ2RExTNU53Nl9tSWFNRm1qSy1kNEVHT3UyR3hucmVDdGcwS2tRYtIBkgFBVV95cUxObEJTSjQ0d1AzV0xYVHRlVS02b2FqZ09QSHdPV2ZKUTZ0eDlZS05fU29TUlUtVHJnRmxnMVlWVGJ0NVVHZ2NKVmFKUnpFNVNFWEZCS2R6VzV2LTBfZURYRGJ3c3ZjWE5EakdnX0hNR0lyQ2JGWjlPSUJqeXlDNHB1T3RWTm5STEc0QTdnUXJGTTZlQQ?oc=5"
         }
       ]
     },
     {
-      "id": "52c93e58be28",
-      "title": "Even the unconscious brain can learn — and predict what you’ll say next - Nature",
-      "published": "2026-05-06T19:12:28+00:00",
-      "summary": "Even the unconscious brain can learn — and predict what you’ll say next&nbsp;&nbsp;NaturePlasticity and language in the anaesthetized human hippocampus&nbsp;&nbsp;NatureWhile patients lay unconscious under anesthesia, their brains kept decoding stories and preparing for what came next&nbsp;&nbsp;Medical XpressThe brain may still be able to hear speech under anesthesia&nbsp;&nbsp;Scientific AmericanBrains have a mind of their own under general anaesthetic&nbsp;&nbsp;The Times",
+      "id": "18f97d73f451",
+      "title": "Beaver that bit ‘several people’ in New Jersey tests positive for rabies - Global News",
+      "published": "2026-05-06T19:49:08+00:00",
+      "summary": "Beaver that bit ‘several people’ in New Jersey tests positive for rabies&nbsp;&nbsp;Global News8-Year-Old Boy Hospitalized After Being Attacked by Rabid Beaver at New Jersey Lake&nbsp;&nbsp;People.comAngry Beaver Attacks 8 Year Old Boy At Mahwah Park&nbsp;&nbsp;News12 | New JerseyBeaver tests positive for rabies after biting people at Mahwah park&nbsp;&nbsp;Bergen RecordRabid beaver attacks 8-year-old boy, other park guests at New Jersey lake&nbsp;&nbsp;NBC New York",
       "sources": [
         {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13NjdzdUV4WXo3RVI2WDFya2NfVmlCUFVVREJtQXlIVkVlWlVEOEZBNmJRQ3Fob1VtYWoyTFl4T3FobTdJWTJ6NnpwZm1rblZYTVNGeTl4aEFJeDRpQzk0?oc=5"
+          "name": "Global News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa25FSWphaVkyRF9qYWpqRDVId1RCZWQ2b3o0QkFyZE8yWnNHZnVoMGoza1BJZWZzZTNtT05HcWlZbjlEVi1wellObGdXaE9RdS05TUtaRmRxd3AydEpseXplcTFMNUNfVlM3SU5SMXdQQms4aGZtSVNncE9JdEVGVHBxN1hGbUJHc1R1Z1l2M0ZYUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "80e7616b7b49",
+      "title": "Scientists Discover How Coffee Impacts Memory, Mood, and Gut Health - SciTechDaily",
+      "published": "2026-05-06T19:31:25+00:00",
+      "summary": "Scientists Discover How Coffee Impacts Memory, Mood, and Gut Health&nbsp;&nbsp;SciTechDailyScience Has Found Even More Ways Coffee Is Good for You&nbsp;&nbsp;WIREDCoffee helps protect your body from aging and disease, study says&nbsp;&nbsp;USA TodayResearchers Find Molecular Clue to Why Coffee May Be Good for You&nbsp;&nbsp;Sci.NewsScientists just discovered what coffee is really doing to your gut and brain&nbsp;&nbsp;ScienceDaily",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRFd0MkJoc3VFc2ZGbk9yLTNwRlJXSlJVLUgwV0tjbk80Q201TTBWYVNjVG5iVzJoUzAxR2h3UEROQUxvbVhwYWZNcW43NDBxbklzaThabEVFSjcyWXg4Y0tXZjhmUzc2SFBmOTNIT09XWGY3SVZ2cVpzeVJEZ2R0MzhIRHUtQzRMa0JaT1BYVkhsSDE4NWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "320beaeb8644",
+      "title": "The brain's memory center doesn't start as a blank slate, study suggests - Live Science",
+      "published": "2026-05-06T18:10:00+00:00",
+      "summary": "The brain's memory center doesn't start as a blank slate, study suggests&nbsp;&nbsp;Live Science",
+      "sources": [
+        {
+          "name": "Live Science",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZjJnZmptcDl4bmZwb01sYmVhTWNGdkVSQmF3SnNVcmRONzdhclYtRVZCTXZNY0hBb1VucVdHOGRRZGlXb29FRW5kYXppSktfMDVHV0F3dFlGQkdzM2ZYX1BGSy1VWWVTcDIyS25iUTdFanRSRVhyOUxMZWdsSmYzNDR6Si1rNXZCamNPb2ZqRF8wYkZ6b18yQ1UycjFuOW0tTnZzSkZPVzk2WHRoQ0NtWTBGMURvd2t4?oc=5"
         }
       ]
     },
@@ -117,11 +225,23 @@
       "id": "3f950de4927c",
       "title": "FDA vaccine studies censored by Trump admin after finding benefits of shots - Ars Technica",
       "published": "2026-05-06T16:19:58+00:00",
-      "summary": "FDA vaccine studies censored by Trump admin after finding benefits of shots&nbsp;&nbsp;Ars TechnicaF.D.A. Blocked Publication of Research Finding Covid and Shingles Vaccines Were Safe&nbsp;&nbsp;The New York TimesUS FDA blocked publication of COVID, shingles vaccine safety studies&nbsp;&nbsp;ReutersBiopharma bites: FDA withholds vaccine data, plus staffing cuts for Novartis, Gilead&nbsp;&nbsp;FirstWord PharmaFDA halts publication of studies on covid, shingles vaccines&nbsp;&nbsp;The Washington P",
+      "summary": "FDA vaccine studies censored by Trump admin after finding benefits of shots&nbsp;&nbsp;Ars TechnicaF.D.A. Blocked Publication of Research Finding Covid and Shingles Vaccines Were Safe&nbsp;&nbsp;The New York TimesUS FDA blocked publication of COVID, shingles vaccine safety studies&nbsp;&nbsp;ReutersBiopharma bites: FDA withholds vaccine data, plus staffing cuts for Novartis, Gilead&nbsp;&nbsp;FirstWord PharmaFDA withdrew studies finding Covid and shingles vaccines were safe&nbsp;&nbsp;CNBC",
       "sources": [
         {
           "name": "Ars Technica",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa05hNTNlOHBOVjRSLWxfUzl5cDlISndsZWxya2MwYXdnamYzNDJGcUhkTUJmMVBkaXZHRTZXX25XYVRGaDVURUV0Rm9KelBmaXlhRDVvbHRfdUhLNFRPeFRYWFRMcl80WjJ6TVlOLVBlYTJUcE9IY3pvbktUMnRlYzFqYVdJbGU5encyRFY2TlZfSEg2b1hHaUlEeGVveWV4bjMwMS1FbkNEYkE4X3pxNUZkNGFlc3J2?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bd77ee65ef75",
+      "title": "A promising new depression therapy focuses on finding paths to joy - The Washington Post",
+      "published": "2026-05-06T16:00:16+00:00",
+      "summary": "A promising new depression therapy focuses on finding paths to joy&nbsp;&nbsp;The Washington Post",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUFVMb294WUtpcEtwM3RHZDBjMndiaWdKUURUTXViTExoS2I0eUQwZmVCUXVfMmRJVm9wX2p2d04yWmJDY0VpR3psT2d0NzZxWWIzWjdhbFBPT0F6ckxCQVBqUk1QRVBQRVl4Z0ltSlA1V0kzX2lRZllJekItWjR2ZGdwdllGX1BvUnB1cUlfcWQ?oc=5"
         }
       ]
     },
@@ -138,6 +258,18 @@
       ]
     },
     {
+      "id": "3910c1c53daa",
+      "title": "Blockbuster drug can lower your risk of heart attack by 13% - New York Post",
+      "published": "2026-05-06T14:20:00+00:00",
+      "summary": "Blockbuster drug can lower your risk of heart attack by 13%&nbsp;&nbsp;New York PostPopular Weight-Loss Drugs Found To Cut Heart Attack and Stroke Risk&nbsp;&nbsp;SciTechDailyGLP-1 Receptor Agonist Cardiovascular Therapy Market Technology Adoption and Forecast 2026 to 2035&nbsp;&nbsp;openPR.comGLP-1 RA Use May Improve Outcomes in HFrEF&nbsp;&nbsp;MedscapeGLP-1 Drugs May Offer A Surprising Benefit Beyond Weight Loss&nbsp;&nbsp;MindBodyGreen",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUkJzU3Q4NjY3dzVmWm9PbkpmdVFTZWFsamFfU1d4UG5sXzFGTkY5WlZxZ3hrcUhucmVlTDhqODlvR2xsZHdFNS1WXzQtaTA4N2pGMzJOQ1A5OXFiODVWQlpWbnNkS3pTVnFQeWtsMGxTM2wyOUR2RzJXRWtvNDB5X2VoUkxsOUJVWEo3VVpjVDF0NFFWNXJMSUt4OGM?oc=5"
+        }
+      ]
+    },
+    {
       "id": "95764efd79fb",
       "title": "What Happens to Your Blood Pressure When You Eat Blueberries Regularly - Verywell Health",
       "published": "2026-05-06T14:14:35+00:00",
@@ -150,26 +282,14 @@
       ]
     },
     {
-      "id": "5a770027e518",
-      "title": "Japan’s Deep-Space Mission Brought Back an Asteroid Sample With All 5 DNA Building Blocks - The Daily Galaxy",
-      "published": "2026-05-06T13:15:00+00:00",
-      "summary": "Japan’s Deep-Space Mission Brought Back an Asteroid Sample With All 5 DNA Building Blocks&nbsp;&nbsp;The Daily GalaxyAsteroid 300 million km away reveals all DNA bases&nbsp;&nbsp;CPG Click Petróleo e GásAll DNA Building Blocks Found on Asteroid Ryugu: What This Discovery Means for Life’s Origins&nbsp;&nbsp;112.ua",
-      "sources": [
-        {
-          "name": "The Daily Galaxy",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tVngzcUdMN0FZYmxNS0FFMXlWUHd6dlpDUUJVTFhNSHREQ3d5MUI3aG54RjBTa1BneTV2TGJTa0pkWlk3MTlnVjFKaHQtcXBYaUhvSzJVNmxMQ2tYWHI2SHhQeFBLQXY2ejVkb1hqRFpjSi1zN3dOcjRlejJTLUk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ab160cff8d34",
-      "title": "Scientists created one of the largest simulations of our universe ever — about the size of 500,000 HD movies - Yahoo",
+      "id": "440316a5d1d0",
+      "title": "Scientists created one of the largest simulations of our universe ever — about the size of 500,000 HD movies - Space",
       "published": "2026-05-06T12:00:00+00:00",
-      "summary": "Scientists created one of the largest simulations of our universe ever — about the size of 500,000 HD movies&nbsp;&nbsp;YahooSupercomputer reconstructs evolution of the universe&nbsp;&nbsp;China Daily2.5-Petabyte Universe Simulation Recreates Cosmic Evolution in Unprecedented Detail&nbsp;&nbsp;HotHardwareHow do you study something you can never step outside of?&nbsp;&nbsp;Universe TodayNew Dataset Helps Scientists Map the Life of the Universe&nbsp;&nbsp;AZoQuantum",
+      "summary": "Scientists created one of the largest simulations of our universe ever — about the size of 500,000 HD movies&nbsp;&nbsp;SpaceSupercomputer reconstructs evolution of the universe&nbsp;&nbsp;China Daily - Global Edition2.5-Petabyte Universe Simulation Recreates Cosmic Evolution in Unprecedented Detail&nbsp;&nbsp;HotHardwareHow do you study something you can never step outside of?&nbsp;&nbsp;Universe TodayNew Dataset Helps Scientists Map the Life of the Universe&nbsp;&nbsp;AZoQuantum",
       "sources": [
         {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb3N4dzJVU0ZpazhsVEEwdmlWR05hVW8zNWZOX052OXBvOGVleVFvNnNfeTNQOF9lZG01enI3bFN0U2QzSWpfdGRaak55amdQendHZjVBUUlDUElHSTJVR090ZzJYR1F3NF8waDd4S3lZaXZjRmRVZVZJOEtjUXFSRjdxNDZ6WVJKbnlBUzlZeEpoN2NYOFR5Ng?oc=5"
+          "name": "Space",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWkhkOEwzM1M4RjJaeEprWVJKajR4RjhZZDRjZm94aG1tenFwRklOMVVzYzBfRTNYZ0NETkNJdktsQVJKX18wZWdQMTBfamVXWjNOeG9paEQ1RnZQbjRzOVk4OGNXblMtSk1UNHBKWVU5MFdfdFBsMDQxOWs1R2Z3Y241ZlotNEpwX0w4RzByNkpIYmJfWXBfSFNiWlkyaGJFZENrVVlaYWQwSS1TOE9KRjhRaVhqM2tSWFNqNmV3TEdiemg4VC1rbWhEMWQ1RVRPb0p3WA?oc=5"
         }
       ]
     },
@@ -177,11 +297,23 @@
       "id": "02bf85e3cf08",
       "title": "Movement Triggers a Hidden 'Brain Cleaning' Mechanism, Study Shows - ScienceAlert",
       "published": "2026-05-06T11:01:49+00:00",
-      "summary": "Movement Triggers a Hidden 'Brain Cleaning' Mechanism, Study Shows&nbsp;&nbsp;ScienceAlertScientists discover a hidden brain “cleaning” effect triggered by movement&nbsp;&nbsp;ScienceDailyBrain motion is driven by mechanical coupling with the abdomen&nbsp;&nbsp;NatureThe simple link between core strength and brain health&nbsp;&nbsp;News-MedicalFrom Lab to Life: How Exercise Helps Our Brains&nbsp;&nbsp;The Times of Israel",
+      "summary": "Movement Triggers a Hidden 'Brain Cleaning' Mechanism, Study Shows&nbsp;&nbsp;ScienceAlertScientists discover a hidden brain “cleaning” effect triggered by movement&nbsp;&nbsp;ScienceDailyPenn State Brain Cleaning Study Reveals Shocking Link Between Movement and Brain Health&nbsp;&nbsp;Nbsla.caFrom Lab to Life: How Exercise Helps Our Brains&nbsp;&nbsp;The Times of IsraelStudy Shows How Even Small Movements Can Help Clear Brain Waste&nbsp;&nbsp;NDTV",
       "sources": [
         {
           "name": "ScienceAlert",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWHh5a3ZHTDQ0T2IxOHV3Z2RVR05Na2xXaVJES0VrZlJVb0VYS25DQWlGNUFRM3BYV0Y4SUZNbGNCazVQM0Vvc3hiSkdUR0ZDN05YUktiZjh1N0tZbTNySUJVTk5xSWpkRlZWOWFaX0VtREJNSnc0ZWZiTzNKS3czZWs2Rm1WWFFUeEx0RnR4NFh4eV8wQko4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "964d90d656bc",
+      "title": "The 7 Fiber-Rich Ingredients Dietitians Swear by for Better Gut Health - Food & Wine",
+      "published": "2026-05-06T09:01:00+00:00",
+      "summary": "The 7 Fiber-Rich Ingredients Dietitians Swear by for Better Gut Health&nbsp;&nbsp;Food & WineI am a doctor, and these lifestyle habits keep my gut healthy in summer&nbsp;&nbsp;India Today25 ways to improve gut health that go beyond just eating yoghurt&nbsp;&nbsp;Women's HealthHow Diet Influences the Gut Microbiome and Overall Health&nbsp;&nbsp;News-MedicalDigestive health: 10 daily habits to improve your gut wellness&nbsp;&nbsp;MSN",
+      "sources": [
+        {
+          "name": "Food & Wine",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVHNNZG1QeEtWVDctMUEyTmpUMVRtQ1VEZVQxOC1fY1RlcWJsVmNoX2NGdWhBLU4xdGVySnlFZVRoRmkwVldDVTd5VmUtREgwVVlKQW9XSDNidWltZlEyaXhFTno3R0pMSTNLeE5HWXY2akVjbGl3ZzBfZ0ZkRHBvckt5RVpyNHhHY19CajJiQlhwLUVT?oc=5"
         }
       ]
     },
@@ -201,7 +333,7 @@
       "id": "2ee78d8f0f94",
       "title": "Colon cancer breakthrough keeps patients cancer-free for nearly 3 years - ScienceDaily",
       "published": "2026-05-06T06:22:07+00:00",
-      "summary": "Colon cancer breakthrough keeps patients cancer-free for nearly 3 years&nbsp;&nbsp;ScienceDailyPatients remain cancer-free nearly 3 years after receiving experimental immunotherapy&nbsp;&nbsp;Fox NewsBreakthrough Bowel Cancer Trial Leaves Patients Cancer-Free for Nearly 3 Years&nbsp;&nbsp;SciTechDailyPre-Surgery Immunotherapy Shows Promising Results in Bowel Cancer&nbsp;&nbsp;The Indian PractitionerImmunotherapy Trial Shows 100 Percent Success Rate for Bowel Cancer Patients&nbsp;&nbsp;HarianBasi",
+      "summary": "Colon cancer breakthrough keeps patients cancer-free for nearly 3 years&nbsp;&nbsp;ScienceDailyNew Drug Combination Shows Promise In Advanced Colorectal Cancer: The Question Now Is When To Use It&nbsp;&nbsp;SurvivorNetPatients remain cancer-free nearly 3 years after receiving experimental immunotherapy&nbsp;&nbsp;foxnews.comBreakthrough Bowel Cancer Trial Leaves Patients Cancer-Free for Nearly 3 Years&nbsp;&nbsp;SciTechDailyPre-Surgery Immunotherapy Shows Promising Results in Bowel Cancer&nbsp;&",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -213,7 +345,7 @@
       "id": "2802f5cc1dfb",
       "title": "Eggs and brain health: New study cracks open Alzheimer’s link - WZTV",
       "published": "2026-05-06T05:57:58+00:00",
-      "summary": "Eggs and brain health: New study cracks open Alzheimer’s link&nbsp;&nbsp;WZTVStudy: Egg consumption is associated with a lower risk of Alzheimer’s Disease&nbsp;&nbsp;Loma Linda UniversityEating Eggs May Help Boost Your Memory, According to a Recent Study&nbsp;&nbsp;Real SimpleA dozen things you need to know about your eggs&nbsp;&nbsp;The TimesMedical Oddities: Brain Health, Sunny-Side Up&nbsp;&nbsp;Conexiant",
+      "summary": "Eggs and brain health: New study cracks open Alzheimer’s link&nbsp;&nbsp;WZTVA dozen things you need to know about your eggs&nbsp;&nbsp;The TimesStudy: Egg consumption is associated with a lower risk of Alzheimer’s Disease&nbsp;&nbsp;Loma Linda UniversityEggs against Alzheimer’s: Study reveals how many eggs a week can boost your memory&nbsp;&nbsp;The Times of IndiaMedical Oddities: Brain Health, Sunny-Side Up&nbsp;&nbsp;Conexiant",
       "sources": [
         {
           "name": "WZTV",
@@ -237,7 +369,7 @@
       "id": "1ada0e00f44c",
       "title": "HT Health Talk: Is there minimum and maximum age for Ozempic? Bengaluru doctor answers 10 FAQs about weight loss drugs | Health - Hindustan Times",
       "published": "2026-05-06T02:49:32+00:00",
-      "summary": "HT Health Talk: Is there minimum and maximum age for Ozempic? Bengaluru doctor answers 10 FAQs about weight loss drugs | Health&nbsp;&nbsp;Hindustan Times‘Resetting’ the gut – life after weight loss medications&nbsp;&nbsp;Medical IndependentWeight loss rebound risk: 18-month warning for Ozempic and Wegovy users&nbsp;&nbsp;Pharmacy BusinessStruggling to lose or keep off weight? Here’s the truth about Ozempic&nbsp;&nbsp;EWNNew Research Shows What Happens When People Stop Taking Ozempic&nbsp;&nbsp;",
+      "summary": "HT Health Talk: Is there minimum and maximum age for Ozempic? Bengaluru doctor answers 10 FAQs about weight loss drugs | Health&nbsp;&nbsp;Hindustan TimesWeight loss rebound risk: 18-month warning for Ozempic and Wegovy users&nbsp;&nbsp;Pharmacy Business‘Resetting’ the gut – life after weight loss medications&nbsp;&nbsp;Medical IndependentNew Research Shows What Happens When People Stop Taking Ozempic&nbsp;&nbsp;Škoda We Love CyclingWant to use semaglutide to lose weight? Listen to what doctors ",
       "sources": [
         {
           "name": "Hindustan Times",
@@ -261,7 +393,7 @@
       "id": "76ce868ce345",
       "title": "Choice of Tea or Coffee Could Affect Risk of Osteoporosis in Older Women - ScienceAlert",
       "published": "2026-05-05T23:10:16+00:00",
-      "summary": "Choice of Tea or Coffee Could Affect Risk of Osteoporosis in Older Women&nbsp;&nbsp;ScienceAlertTea vs coffee: Which one is actually better for your health?&nbsp;&nbsp;saga.co.ukWomen's Choice Of Coffee Or Tea Might Affect Their Bone Health&nbsp;&nbsp;HuffPost UKTea Or Coffee? Ladies, Your Choice Could Influence Osteoporosis Risk Later&nbsp;&nbsp;Health and Me",
+      "summary": "Choice of Tea or Coffee Could Affect Risk of Osteoporosis in Older Women&nbsp;&nbsp;ScienceAlertIs Tea Better Than Coffee? Science-Backed Comparison Explained&nbsp;&nbsp;Business Connect IndiaWomen's Choice Of Coffee Or Tea Might Affect Their Bone Health&nbsp;&nbsp;HuffPost UKTea vs coffee: Which is better for your bone health?&nbsp;&nbsp;IndulgexpressTea Or Coffee? Ladies, Your Choice Could Influence Osteoporosis Risk Later&nbsp;&nbsp;Health and Me",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -318,22 +450,10 @@
       ]
     },
     {
-      "id": "edf0fc0b199d",
-      "title": "An Existing Drug Could Be Repurposed to Help Treat Panic Attacks - ScienceAlert",
-      "published": "2026-05-05T18:05:08+00:00",
-      "summary": "An Existing Drug Could Be Repurposed to Help Treat Panic Attacks&nbsp;&nbsp;ScienceAlertView Full Coverage on Google News",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVkhkbENtT0JhWUpONlh4Um5rZ1hUZ2htVkFNWmt5QTBBQ3hOTnZZZno5eUkzTEczeTZhQV8waG41c1NIcDhXbEJvOTE0dF9TVEtYem9zM3ktbFR5dlRaMkdCWWItaUZHSV9xLWc5Wm9KMU9kOUs5Z3AzNkVrMTFuT2gxYTg3ZGtvek0xb3YzcTNpaHNkZ1VEbg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1e0b09f0889b",
       "title": "Ozempic Is Killing Off Weight Loss Surgeries. That’s a Problem - Gizmodo",
       "published": "2026-05-05T17:45:57+00:00",
-      "summary": "Ozempic Is Killing Off Weight Loss Surgeries. That’s a Problem&nbsp;&nbsp;GizmodoWeight Loss Surgeries Fall More Than 20% As Patients Turn To GLP-1 Meds, Experts Say&nbsp;&nbsp;U.S. News & World ReportMayo Clinic study finds bariatric surgery associated with greater long-term heart risk reduction than weight-loss medications&nbsp;&nbsp;Mayo Clinic News NetworkFat jabs or gastric band? The best way to lose weight is cheaper AND slashes early death by more than a fifth&nbsp;&nbsp;The SunBariatric ",
+      "summary": "Ozempic Is Killing Off Weight Loss Surgeries. That’s a Problem&nbsp;&nbsp;GizmodoWeight-loss drug boom shakes bariatric surgery in US: Is India next?&nbsp;&nbsp;India TodayBariatric surgery slashes risk of kidney failure, heart attack and death, new data show&nbsp;&nbsp;Medical XpressBariatric surgery outperforms GLP-1 medications for obesity disease remission&nbsp;&nbsp;News-MedicalSharp Drop in Bariatric Surgery; Plea to Protect Research; How to Prescribe Exercise&nbsp;&nbsp;MedPage Today",
       "sources": [
         {
           "name": "Gizmodo",
@@ -342,38 +462,50 @@
       ]
     },
     {
-      "id": "4bd525074e2e",
-      "title": "JWST pins down the origins of a planetary odd couple - Phys.org",
-      "published": "2026-05-05T16:00:01+00:00",
-      "summary": "JWST pins down the origins of a planetary odd couple&nbsp;&nbsp;Phys.orgAstronomers pin down the origins of a planetary odd couple&nbsp;&nbsp;MIT NewsHow an exoplanet odd couple survived by traveling in from the cold together&nbsp;&nbsp;SpaceJWST Unveils A High Mean Molecular Weight Atmosphere For Mini-Neptune TOI-1130b: Evidence For Formation Beyond The Water Ice Line&nbsp;&nbsp;astrobiology.comMigrating planets theory becomes clearer after UniSQ research&nbsp;&nbsp;The Chronicle | The Chronicl",
+      "id": "d2e3e0a6f4ec",
+      "title": "Age distinguishes selection from causation in cancer genomes - Nature",
+      "published": "2026-05-05T16:47:26+00:00",
+      "summary": "Age distinguishes selection from causation in cancer genomes&nbsp;&nbsp;Nature",
       "sources": [
         {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiOTY3TUx2R0hoVUw0NkdLUmpJOXItTnE3Tm9Wc2haZU0yUTVsVzVXOW9hLWd5a1NUczZtNnVOZy1rSldod3ZMQ2dYX3NPQ1dfZWVCUGtiTUcyU1dVMVFsOXNnN3g3QWNlbl8zOEhsQjlCSlk?oc=5"
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tWGdmRGFyQUplY041R2ZqWi1VWEpVbUFEdWFzU2dQZVVhMDd0U0JGcE1zc2FseG41UmV6RVZtak41bnBWSmVJTGw3d2tQV1dpNGw3OW9wYTFNZVFXUkFV?oc=5"
         }
       ]
     },
     {
-      "id": "e7f9c43f73eb",
-      "title": "One dose of psilocybin changes the human brain, leading to higher entropy - Medical Xpress",
-      "published": "2026-05-05T15:00:04+00:00",
-      "summary": "One dose of psilocybin changes the human brain, leading to higher entropy&nbsp;&nbsp;Medical XpressHuman brain changes after first psilocybin use&nbsp;&nbsp;NatureSingle dose of magic mushroom psychedelic can cause anatomical brain changes, study finds&nbsp;&nbsp;The GuardianA neuroscientist describes your brain on psychedelics in 101 seconds&nbsp;&nbsp;University of California, BerkeleyScience gets closer to understanding how a psychedelic trip changes the brain&nbsp;&nbsp;NBC News",
+      "id": "c24e85a299e5",
+      "title": "Doctor accidentally fixes patient’s irregular heartbeat — by sticking a finger in a very unexpected place - Yahoo",
+      "published": "2026-05-05T15:42:55+00:00",
+      "summary": "Doctor accidentally fixes patient’s irregular heartbeat — by sticking a finger in a very unexpected place&nbsp;&nbsp;Yahoo",
       "sources": [
         {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcE1Vc3h2X0NDNWNmaDJqMVRUT2UyckNwWTVWWDFzQ2h6WVFUUVZzcjd4OG01dzJkdHpVY2IzdHNQUVBBcEdIaGtsMmdQV0JhYTE5LUJXUGI5UjVuMGNUVktFcGg4WHBELUdXMDRpei15QVpvdEEtTVRaUE1SNGs2Z2liZWw?oc=5"
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdVNacXByZUlrUDZ5eDFTX2N6U25yUDRLZFRUMnREUGFmVHU3RGNfRGU5WFdnMjh2dlhJQ3A2aVgtcmlZWXNGNFZfYWJoSWxqX1F2OHhwN0JaOXRIR3JTQ0tPU2Nua1ZDY3JyWGdiVXhSMjY1ZmdEc3VIRVJIbUc1UDlLU3ZzZWRkVnFOeFhfZmk5dGNEVmtrRG9R?oc=5"
         }
       ]
     },
     {
-      "id": "8ca18b1eac2f",
-      "title": "Astronomers Are Shooting Giant Lasers Into The Sky To See The Universe With Unmatched Clarity - The Daily Galaxy",
-      "published": "2026-05-05T14:45:00+00:00",
-      "summary": "Astronomers Are Shooting Giant Lasers Into The Sky To See The Universe With Unmatched Clarity&nbsp;&nbsp;The Daily GalaxyLasers take aim at a galaxy far, far away photo of the day for May 4, 2026&nbsp;&nbsp;SpaceESO Beams Four Lasers At The Heart Of The Tarantula Nebula – Why?&nbsp;&nbsp;IFLScience",
+      "id": "efc2c5847724",
+      "title": "A Single Dose of Psilocybin Induces Lasting Brain Changes, New Study Suggests - ScienceAlert",
+      "published": "2026-05-05T15:05:04+00:00",
+      "summary": "A Single Dose of Psilocybin Induces Lasting Brain Changes, New Study Suggests&nbsp;&nbsp;ScienceAlertHuman brain changes after first psilocybin use&nbsp;&nbsp;NatureSingle dose of magic mushroom psychedelic can cause anatomical brain changes, study finds&nbsp;&nbsp;The GuardianOne dose of psilocybin changes the human brain, leading to higher entropy&nbsp;&nbsp;Medical XpressThe Surprising Effects of Psychedelics on 'Normal' Adults&nbsp;&nbsp;Medscape",
       "sources": [
         {
-          "name": "The Daily Galaxy",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNmZqQzRNa2wzX0xjQmZhdk94ZEQxeDV0cVR3YXBIbGZxNFdkNzNzTW5qTy13Mkl1WVZjN1BCT3pZUlVQLUh6bTZqeHVmU0RSWlJHWEIwWGxoRV9pMkVpNURaUUp1NHRWcWt3RmpsellEQkFkRFk5UldPdHhJUG04Vw?oc=5"
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYV9sYVJvVHI0alNROWxUUjIyb0N1Z191dVI3bXlnQzlmWkNpUkJBcFp0QkcyNUNCNmlWb1lrYXpJZk9ULUFPZ2FwUVZUMHRZcTdxSENhZGxHQzBsWU95UHVsdmRzZDVTRWREa1I4QjJISnZSdjlwQkI3RTdlZml3OXFCcmtudTdxUWZRd24xZ1E2QVpIRm0tRVRkakE4MjIzVUh5b2VXVEY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "348f87994d36",
+      "title": "The surprising drug that may soon be used to treat panic disorder — and works like a heavy-duty benzo - New York Post",
+      "published": "2026-05-05T14:22:00+00:00",
+      "summary": "The surprising drug that may soon be used to treat panic disorder — and works like a heavy-duty benzo&nbsp;&nbsp;New York PostView Full Coverage on Google News",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRDNBMkljbXY1NUx0dEp0bkVjR0IxNHljb3duRU1BbmxOZXozUm5ENm51UEh3Mm85V1JYLUp5cWN3NXJRMDliTlVhbWxnNDRXUXhkTmtzQ25lbE43SXpNMkpXeTk3YjRxU2pibHFlVTRpeklRSEtpSzgxUFhvYnpLS3I0N0tFNEZPT3FmUmlWZFZWaDRibVdiM1o1Nl9RX2pz?oc=5"
         }
       ]
     },
@@ -417,7 +549,7 @@
       "id": "f14d9762c551",
       "title": "The Science on Creatine Dosage Is Shifting. Here’s How Many Grams You Should Take. - Men's Health",
       "published": "2026-05-05T11:00:00+00:00",
-      "summary": "The Science on Creatine Dosage Is Shifting. Here’s How Many Grams You Should Take.&nbsp;&nbsp;Men's HealthScientists reveal creatine’s hidden power beyond muscle gains&nbsp;&nbsp;ScienceDailyCreatine is claimed to benefit body and mind: The potential benefits and limitations of the popular supplement&nbsp;&nbsp;Medical XpressThinking About Taking Creatine? Here Are 10 Expert Tips You Need To Know First&nbsp;&nbsp;AOL.comCreatine for Women: Why Researchers Now Recommend It for Muscle, Brain and M",
+      "summary": "The Science on Creatine Dosage Is Shifting. Here’s How Many Grams You Should Take.&nbsp;&nbsp;Men's HealthCreatine is claimed to benefit body and mind: The potential benefits and limitations of the popular supplement&nbsp;&nbsp;Medical XpressScientists reveal creatine’s hidden power beyond muscle gains&nbsp;&nbsp;ScienceDailyCreatine May Boost Exercise Performance By 5-10%: Pros And Cons Explained&nbsp;&nbsp;NDTVCreatine for Women: What Does this Trendy Supplement Really Do and Is It Safe? New R",
       "sources": [
         {
           "name": "Men's Health",

@@ -1,19 +1,79 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-07T14:21:20.985019+00:00",
-  "total_fetched": 96,
-  "unique_count": 96,
-  "health_related_count": 38,
+  "fetched_at": "2026-05-07T19:46:01.754528+00:00",
+  "total_fetched": 82,
+  "unique_count": 82,
+  "health_related_count": 29,
   "news": [
     {
-      "id": "31bf3498d46f",
-      "title": "Officials Racing To Contract Trace Potentially Infected Hantavirus Cruise Passengers—Including Americans (Live Updates) - Forbes",
-      "published": "2026-05-07T13:40:00+00:00",
-      "summary": "Officials Racing To Contract Trace Potentially Infected Hantavirus Cruise Passengers—Including Americans (Live Updates)&nbsp;&nbsp;ForbesHantavirus cases now suspected in 5 countries as authorities scramble to contain outbreak&nbsp;&nbsp;CNNU.S. Health Authorities Monitor Hantavirus Cruise Passengers in Georgia, California and Arizona&nbsp;&nbsp;The New York TimesInside the Global Effort to Figure Out Where Hantavirus Will Strike Next&nbsp;&nbsp;WSJCould the Hantavirus Cruise Ship Outbreak Lead ",
+      "id": "9468c9a0b816",
+      "title": "Health officials track dozens who left hantavirus-stricken ship after 1st fatality - NPR",
+      "published": "2026-05-07T18:54:00+00:00",
+      "summary": "Health officials track dozens who left hantavirus-stricken ship after 1st fatality&nbsp;&nbsp;NPRSee more headlines & perspectives on Google News",
       "sources": [
         {
-          "name": "Forbes",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOTzRPQ0NaR1loT2FDbk1hSmhISlR2TUxLLS1pYmExNnBsVFQxakVoLUZiTDdic1hVTlBkMS15eElVOFhLdXhSTXJPdzhRSmpVTUdDQWtiWEpKWTBYSmlCQ1VVTUl5NnBtRkdYQUFpSTA1RVU1SXdPNjFnUUQxU1hSOGR0R2NHZ2VvMXI4RURWSC1fSlVUNmUwVDFqWERJSGtYWnlJYWNUeG05UURiZEZGM2N4MGxTM25HRXFHTFVscU4ybklvblQ2RTJtU0dQMWxXY3Vva3hTbWZaSGYwRmZjWHM1MUc3dFhsN1J5VFczbl9GSFl5bmhFVDlHTHM2Q1lTNUZ0NkZrVVA?oc=5"
+          "name": "NPR",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVkZpT19JenQza0xjbzJHaFFBNmJOOE9qUW1wNWJvaXJIMzBYU3VoWGFCZWhIVGd6QjZBT25ibEIxVWd0MGVtaGRGT29QMEo1b1IzUG44QV8zME8xVW5nRlJLY2JKQ2RUMTdkWWFSQkVzLW5nVlZPbXdENlN5ZHNzOGk3WktoVWR0b2dqRE5fYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6b749e67ec72",
+      "title": "Earth's Rarest Metal Was Thought to Be Useless to Ancient Life, Until Researchers Discovered Something in 3-Billion-Year-Old Fossils - The Daily Galaxy",
+      "published": "2026-05-07T15:45:00+00:00",
+      "summary": "Earth's Rarest Metal Was Thought to Be Useless to Ancient Life, Until Researchers Discovered Something in 3-Billion-Year-Old Fossils&nbsp;&nbsp;The Daily GalaxyBiological use of molybdenum and tungsten stems back to 3.4 billion years ago&nbsp;&nbsp;NatureEarly Life On Earth Relied On A Surprisingly Scarce Metal: Molybdenum&nbsp;&nbsp;astrobiology.comThree billion years ago, Earth's life relied on a rare metal&nbsp;&nbsp;Phys.orgEarliest Organisms on Earth Built Their Biochemistry around Molybden",
+      "sources": [
+        {
+          "name": "The Daily Galaxy",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16YVl0TjNJUDQtYjl3X2s0T2x4bWJpbmdzMTg2MWVqMXNULVducllNcFlIcW1Pa1NCeEZvTVdlR0JPT19ES2NWRF9naGJaYWk5WDJKWXRPOUlJdUZ2cmdoeXpBNnFEXzItcWJPZVJTS2JmUnVy?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9851ae83b1e7",
+      "title": "A researcher may have found a shortcut to Mars as NASA eyes red planet - Yahoo News UK",
+      "published": "2026-05-07T15:05:39+00:00",
+      "summary": "A researcher may have found a shortcut to Mars as NASA eyes red planet&nbsp;&nbsp;Yahoo News UK",
+      "sources": [
+        {
+          "name": "Yahoo News UK",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQW1fRXFpbGxjQUQ4eDltbGtKcEhQTEJBY0FrNS03UWZYWGFPM1UxNUJOVkxfVlRxVVZJa2RxeUVybU82VVNmcExLTGFEaEx6OERBcGtlSFc3d25pU01MbzNOUVJlek9xSG9vSkRydHZqZFNDeFdtQnhoWWZvVnB4NQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0882c0fe66cf",
+      "title": "How do the biggest black holes in the universe form? Ripples in spacetime provide a clue - Space",
+      "published": "2026-05-07T13:00:00+00:00",
+      "summary": "How do the biggest black holes in the universe form? Ripples in spacetime provide a clue&nbsp;&nbsp;SpaceBiggest black holes built up in busy star clusters after series of violent merging events, research finds&nbsp;&nbsp;EurekAlert!",
+      "sources": [
+        {
+          "name": "Space",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT1prYVpVX3ROcDE5cmFISElkQ1RKOUF1bmgxUmhpUTdOSkp3NHBKb2JaYURpQ0FFZlQ5SjljVlkzNmtzU1pPN1d2c0l4bXZ4YTNFU2pMc1BlRWhsZ3hfeUZrdE13aks4dXNtTFNTbUlBaHlYOGt6TzJwX2swUEZLWFpSQk80cmR2QzNoWVRIQnYtRnBqa0ZkQzl3d3Rta2ZUTW1UR2pFQ2hnb3RRc1A5V2dtUG16ZGVpQjctbjFoSzdOOGFGZFc5NDVXTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ee12d5992f42",
+      "title": "Scientists Have Created The First Ever 'Smell Map', And It's Stunning - ScienceAlert",
+      "published": "2026-05-07T12:02:10+00:00",
+      "summary": "Scientists Have Created The First Ever 'Smell Map', And It's Stunning&nbsp;&nbsp;ScienceAlertScientists Unveil ‘Long Lost’ Map for Smell&nbsp;&nbsp;The New York TimesFirst-of-its-kind map of the mouse nose reveals surprises about the sense of smell&nbsp;&nbsp;Live ScienceScientists Create First-Ever ‘Smell Map’&nbsp;&nbsp;Harvard Medical SchoolThere's a new breakthrough in understanding how smell represents.&nbsp;&nbsp;Psychology Today",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNEROWS1Da1AzVmNaSjl5M2lpS2djbFVuYXRoaGE5cktUV2ZzdGlGakR5ZDZIWGQ3cGtlUlg0UnJOYzc4eXk3QlAzdGNRWFBUdnAxUGdZVmE3TkxXd1lycFpXTVo3TUxGa0lnUVM5V0pVN0U5YTlfLXJ0UlhtdVZYcVJzdDZoSjFsZVl6SzdNRDUtci0tUE9GR1ZB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e55c6e26cc1b",
+      "title": "An army of ticks is sending more Marylanders to the ER - thebanner.com",
+      "published": "2026-05-07T09:30:00+00:00",
+      "summary": "An army of ticks is sending more Marylanders to the ER&nbsp;&nbsp;thebanner.comHow to protect yourself from ticks as Michigan sees Lyme disease surge&nbsp;&nbsp;Detroit Free PressTicks in Illinois: Weekly emergency visits for tick bites on the rise in Midwest over concerns of Lyme disease, Alpha-gal syndrome&nbsp;&nbsp;ABC7 ChicagoTake Precautions to Prevent Tick Bites |&nbsp;&nbsp;Wisconsin DNR Forestry NewsTick season: What to know before heading outdoors&nbsp;&nbsp;army.mil",
+      "sources": [
+        {
+          "name": "thebanner.com",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSnZ4RFI3UjlId1RyUEhtYk9lNlJiM3dhRWxEZUJNNGtHLVVneEpzZTF6RklvX01jRGZrMy1rTWc4TXZiOGNSa2NUbGppWVg5Q2s2UnRXT0l5NmZ2X0w3VGtQRWktZzRnZ1ZXbnBnVzV4a3N2aG1zelBMRXowVnhvTE5aY3gxSFc3Yjk4N2dRejFKZG1MdzhfTGtNbWlJeURkc1piR2UwUTkwRWwtZjFPSGVB?oc=5"
         }
       ]
     },
@@ -30,22 +90,10 @@
       ]
     },
     {
-      "id": "ba7f31ea7c37",
-      "title": "KLM flight attendant hospitalized after contact with hantavirus cruise ship passenger - NL Times",
-      "published": "2026-05-07T08:00:21+00:00",
-      "summary": "KLM flight attendant hospitalized after contact with hantavirus cruise ship passenger&nbsp;&nbsp;NL TimesDutch Flight Attendant Is Tested for Hantavirus&nbsp;&nbsp;The New York TimesPassenger with hantavirus was briefly on board a KLM aircraft in Johannesburg&nbsp;&nbsp;KLM Royal Dutch Airlines29 Passengers Got Off Hantavirus Cruise Ship After First Death—Flight Attendant Hospitalized With Symptoms&nbsp;&nbsp;ForbesFlight attendant hospitalized after coming in contact with hantavirus cruise ship",
-      "sources": [
-        {
-          "name": "NL Times",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQVBHX0wtRUtWRl9hLUlSbzMxcXdCQkhVTXEzeVhBZmxFQjRiWVZvanMyY0ZrSmhGTTFLRzJMcEU5cjlaakUxbjZrSzkxbzNPdU13b2lGb2o3T1B3MktucGhmVGF1UjViN0ZlZEhob05ibjI3TTFCdkF2SFBnTUtxcDVZMzdWaE5VRkpYU2tGbXNUTGVqWldydzQ4YkkxbHROWDJFQXdjQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5ae2aae396df",
       "title": "Scientists Gave ‘Aggressive’ Fish Psychedelic Drugs. A Breakthrough Came Next - 404 Media",
       "published": "2026-05-07T04:06:27+00:00",
-      "summary": "Scientists Gave ‘Aggressive’ Fish Psychedelic Drugs. A Breakthrough Came Next&nbsp;&nbsp;404 MediaMagic mushrooms make mean fish lazier and more chill&nbsp;&nbsp;Popular ScienceKey magic mushroom ingredient makes fish less aggressive and lazier&nbsp;&nbsp;Medical XpressPsilocybin Reduces Aggression and Activity in Fish by Binding to Serotonin Receptors&nbsp;&nbsp;geneonline.com",
+      "summary": "Scientists Gave ‘Aggressive’ Fish Psychedelic Drugs. A Breakthrough Came Next&nbsp;&nbsp;404 MediaSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "404 Media",
@@ -57,7 +105,7 @@
       "id": "1a99a02190c4",
       "title": "Bioluminescent algae’s blue light harnessed to make 3D-printed shapes - The Guardian",
       "published": "2026-05-07T01:30:00+00:00",
-      "summary": "Bioluminescent algae’s blue light harnessed to make 3D-printed shapes&nbsp;&nbsp;The GuardianLight without electricity? Glowing algae could make it possible&nbsp;&nbsp;Phys.orgCU Boulder researchers develop 3D-printed living lights from algae&nbsp;&nbsp;Interesting Engineering",
+      "summary": "Bioluminescent algae’s blue light harnessed to make 3D-printed shapes&nbsp;&nbsp;The GuardianLight without electricity? Glowing algae could make it possible&nbsp;&nbsp;Phys.orgCU Boulder researchers develop 3D-printed living lights from algae&nbsp;&nbsp;Interesting EngineeringLight Without Electricity? Glowing Algae Could Make It Possible | Newswise&nbsp;&nbsp;Newswise",
       "sources": [
         {
           "name": "The Guardian",
@@ -66,22 +114,10 @@
       ]
     },
     {
-      "id": "40bc6bac6104",
-      "title": "Makary Has All the Right Enemies - The Free Press",
-      "published": "2026-05-07T01:13:28+00:00",
-      "summary": "Makary Has All the Right Enemies&nbsp;&nbsp;The Free PressF.D.A. Blocked Publication of Research Finding Covid and Shingles Vaccines Were Safe&nbsp;&nbsp;The New York Times‘People should be talking about it’: moves to curtail vaccine information obscures important science, doctors say&nbsp;&nbsp;The GuardianUnforced errors flummox HHS’ radical transparency bid—again&nbsp;&nbsp;BioSpaceBiopharma bites: FDA withholds vaccine data, plus staffing cuts for Novartis, Gilead&nbsp;&nbsp;FirstWord Pharma",
-      "sources": [
-        {
-          "name": "The Free Press",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5bmZWZG9qU015MzdmZGZQUFB4V182UV9FM0ZTaGpyYTg0UjNmUll6cU9WbHB6S3Q5bGRBZlZSamhhNmhZb0JjOHA1ZzBMQnJWUTFacnIzMWtYcnU4cnU4QTBtVFQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a4393b321172",
       "title": "Magnetic 'super lenses' open new window on high-temperature superconductors - Phys.org",
       "published": "2026-05-06T23:40:03+00:00",
-      "summary": "Magnetic 'super lenses' open new window on high-temperature superconductors&nbsp;&nbsp;Phys.orgA new perspective on high-temperature superconductors: Magnetic “super lenses” for research under extreme pressure&nbsp;&nbsp;idw – Informationsdienst WissenschaftFor the first time, researchers are peering inside record-breaking superconductors&nbsp;&nbsp;chemeurope.com",
+      "summary": "Magnetic 'super lenses' open new window on high-temperature superconductors&nbsp;&nbsp;Phys.orgA new perspective on high-temperature superconductors: Magnetic “super lenses” for research under extreme pressure&nbsp;&nbsp;idw - Informationsdienst WissenschaftFor the first time, researchers are peering inside record-breaking superconductors&nbsp;&nbsp;chemeurope.com",
       "sources": [
         {
           "name": "Phys.org",
@@ -93,7 +129,7 @@
       "id": "73b0054eaa76",
       "title": "East Valley measles outbreak grows: Where you may have been exposed - Phoenix New Times",
       "published": "2026-05-06T23:29:58+00:00",
-      "summary": "East Valley measles outbreak grows: Where you may have been exposed&nbsp;&nbsp;Phoenix New TimesMaricopa County confirms 3 new measles cases; likely infected locally&nbsp;&nbsp;AZ FamilyThese 10 sites linked to latest Maricopa County measles outbreak&nbsp;&nbsp;The Arizona RepublicMaricopa County measles cases rise to 13 as health officials identify new exposure sites&nbsp;&nbsp;ABC15 ArizonaMaricopa County measles cases remain low, but officials still urge caution&nbsp;&nbsp;KJZZ",
+      "summary": "East Valley measles outbreak grows: Where you may have been exposed&nbsp;&nbsp;Phoenix New TimesMaricopa County confirms 3 new measles cases; likely infected locally&nbsp;&nbsp;AZ FamilyMaricopa County measles cases rise to 13 as health officials identify new exposure sites&nbsp;&nbsp;ABC15 ArizonaThese 10 sites linked to latest Maricopa County measles outbreak&nbsp;&nbsp;The Arizona RepublicMaricopa County measles cases remain low, but officials still urge caution&nbsp;&nbsp;KJZZ",
       "sources": [
         {
           "name": "Phoenix New Times",
@@ -102,22 +138,10 @@
       ]
     },
     {
-      "id": "0ca76eb30305",
-      "title": "RNA-triggered cell killing with CRISPR–Cas12a2 - Nature",
-      "published": "2026-05-06T23:18:56+00:00",
-      "summary": "RNA-triggered cell killing with CRISPR–Cas12a2&nbsp;&nbsp;NatureNew Kind of CRISPR Could Treat Viral Infection and Cancer by Shredding Sick Cells’ DNA&nbsp;&nbsp;University of Utah HealthUSU Biochemists Show CRISPR Can Selectively Destroy Cells, a Cancer-Treatment Goal&nbsp;&nbsp;Utah State UniversityA new kind of CRISPR could treat viral infection and cancer by shredding sick cells' DNA&nbsp;&nbsp;Phys.orgCRISPR tool targets cancer and virus-infected cells precisely&nbsp;&nbsp;healthcare-in-eur",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8taHEyc3RHckE1bEVOSTZ4Y0NXbEhJUzVJSzZqWEk1OVVOdW5JeFRsUkVKYXlZaFNnVjAxcS1yRXlqX3dVM19SZEFIWjFMODNyN1lxSThOSWFoU3VKVkk0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f5a452e12a03",
       "title": "Specific expansion of motor cortical projections in a singing mouse - Nature",
       "published": "2026-05-06T23:06:57+00:00",
-      "summary": "Specific expansion of motor cortical projections in a singing mouse&nbsp;&nbsp;NatureA Mutation Gave Humans the Gift of Speech. These Mice Have It, Too.&nbsp;&nbsp;The New York TimesSinging mice puff up air sacs to make their sweet songs&nbsp;&nbsp;Science NewsWhat can singing mice say about human speech?&nbsp;&nbsp;Phys.orgSinging Mice Exhibit Larger Motor Cortex Network for Vocalization, Nature Study Finds&nbsp;&nbsp;geneonline.com",
+      "summary": "Specific expansion of motor cortical projections in a singing mouse&nbsp;&nbsp;NatureA Mutation Gave Humans the Gift of Speech. These Mice Have It, Too.&nbsp;&nbsp;The New York TimesWhat can singing mice say about human speech?&nbsp;&nbsp;Cold Spring Harbor LaboratorySinging mice puff up air sacs to make their sweet songs&nbsp;&nbsp;Science NewsSinging Mice Exhibit Larger Motor Cortex Network for Vocalization, Nature Study Finds&nbsp;&nbsp;geneonline.com",
       "sources": [
         {
           "name": "Nature",
@@ -126,14 +150,14 @@
       ]
     },
     {
-      "id": "99670085a686",
-      "title": "A New Study Found Brain-Eating Amoeba at 3 Popular National Park Sites - Outside Magazine",
-      "published": "2026-05-06T23:02:06+00:00",
-      "summary": "A New Study Found Brain-Eating Amoeba at 3 Popular National Park Sites&nbsp;&nbsp;Outside MagazineBrain-eating amoeba detected in western national park waters&nbsp;&nbsp;SFGATEScientists sound alarm as dangerous amoebas spread globally&nbsp;&nbsp;ScienceDailyRare brain-eating amoeba found in water at several western national parks – including Lake Mead and Yellowstone&nbsp;&nbsp;The Independent3 National Park Sites Test Positive for ‘Brain-Eating Amoeba’ in Water&nbsp;&nbsp;GearJunkie",
+      "id": "0603f9c1c10f",
+      "title": "Revealed: the mysterious ‘dark’ proteins that might play a big role in biology - Nature",
+      "published": "2026-05-06T22:43:04+00:00",
+      "summary": "Revealed: the mysterious ‘dark’ proteins that might play a big role in biology&nbsp;&nbsp;NatureExpanding the human proteome with microproteins and peptideins&nbsp;&nbsp;NatureThe human genome encodes for a new category of molecule&nbsp;&nbsp;The EconomistHow a global effort to explore the 'dark proteome' is upending our understanding of human disease&nbsp;&nbsp;statnews.comDark proteome yields 1,785 new microproteins that could reshape disease research&nbsp;&nbsp;Phys.org",
       "sources": [
         {
-          "name": "Outside Magazine",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaVp6dFY0aGNwOEd5bDlrbmYzZ1ZDUjdrTV8wQlRteTFaQnljYUdoR2VKYnRuRVFMQ2hBVTJKQ01aUTUwWnl0c0tBVWJNdFNwS2tzWlVKUXBMWjFkOS1QZndzdXdXalVYQ09FR3pfV0ZyVklPbzFkQktDeHRRU3dqTm9TdHBCQzZ5YjJKUlVwbTdWT3dkclAwU0JhRVdVRFJHY1c0emUyWjg4OEJSRmpWdlNJaFE?oc=5"
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15OFR1NnhqTEh5S2lWWWF5REpGTzhVTTdOcmMxbi1YV1BkZE4wb3d1NlVxZm5KVGltM2E2ckpIQ0FUSVJZQXNZOU9hd2JfS051UllrT0YyNy1URFRnTnJz?oc=5"
         }
       ]
     },
@@ -150,18 +174,6 @@
       ]
     },
     {
-      "id": "62d8f243e617",
-      "title": "HIV-1 signalling remodels nuclear pores to licence infection - Nature",
-      "published": "2026-05-06T22:06:18+00:00",
-      "summary": "HIV-1 signalling remodels nuclear pores to licence infection&nbsp;&nbsp;NatureHIV-1 Remodels Nuclear Pores in Resting CD4+ T Cells to Facilitate Infection&nbsp;&nbsp;geneonline.comHIV-1 Alters Nuclear Pores to Enable Infection&nbsp;&nbsp;Bioengineer.orgNew discovery challenges a decades-old assumption in HIV biology&nbsp;&nbsp;News-MedicalQueen Mary University of London: Scientists discover how HIV hijacks a cellular 'gateway' to infect resting immune cells&nbsp;&nbsp;European AIDS Treatment Gro",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SNWt6TlZVRmVQcG5HeXpvcnR1VUMxNTI2eGZ1OU5NeEFneFZxNUhOYzJTV0ZfN0x5MlFLbEI2NG1mNktDcml3cHJYZnBwN1pnMlA4RElaam85VVAwSFdj?oc=5"
-        }
-      ]
-    },
-    {
       "id": "04c775b85e05",
       "title": "NASA astronaut Mike Fincke opens up about unprecedented medical event that cut mission short - Pittsburgh Post-Gazette",
       "published": "2026-05-06T21:51:58+00:00",
@@ -174,22 +186,10 @@
       ]
     },
     {
-      "id": "dc6515ee9def",
-      "title": "Non-invasive profiling of the tumour microenvironment with spatial ecotypes - Nature",
-      "published": "2026-05-06T21:34:52+00:00",
-      "summary": "Non-invasive profiling of the tumour microenvironment with spatial ecotypes&nbsp;&nbsp;NatureA blood test reveals ‘neighborhoods’ of cells in tumors, predicts immunotherapy responses&nbsp;&nbsp;Stanford MedicineLiquidCell Dx Announces Nature Paper Showing that Liquid Biopsy of the Tumor Microenvironment Powerfully Forecasts Therapy Response&nbsp;&nbsp;BioSpaceNew Mayo Clinic blood test maps tumor environment to guide cancer treatment&nbsp;&nbsp;KIMTBlood Test Reads Cell Spatial Environment to Pr",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96dEh0cmtfek5XZFY4NC1YTHU2RkNKdUJqQlRqaUVZR1NDUjdnSjZtbHJvU2lIbE4xRGM5eF8xTjF6WG1laW5PaEhBXzFXNjFLSzMwc1dKeTJteTZCU0Jv?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fc3b19f4018f",
       "title": "Moderna’s mRNA flu vaccine more effective than standard shot in late-stage trial - NBC News",
       "published": "2026-05-06T21:00:00+00:00",
-      "summary": "Moderna’s mRNA flu vaccine more effective than standard shot in late-stage trial&nbsp;&nbsp;NBC NewsModerna's mRNA flu vaccine outperforms standard shot in late-stage trial&nbsp;&nbsp;ReutersModerna Announces New England Journal of Medicine Publication of Pivotal Phase 3 Clinical Safety and Efficacy Data for Its Investigational Seasonal Influenza Vaccine, mRNA-1010&nbsp;&nbsp;Rutland HeraldModerna’s mRNA flu vaccine more effective than current SOC&nbsp;&nbsp;Clinical Trials ArenaModerna Inc. (MR",
+      "summary": "Moderna’s mRNA flu vaccine more effective than standard shot in late-stage trial&nbsp;&nbsp;NBC NewsModerna mRNA flu vaccine beats standard shot, awaits FDA review&nbsp;&nbsp;USA TodayModerna Inc. (MRNA) Initiates Phase 3 Trial for mRNA H5 Pandemic Influenza Vaccine, Expanding Pipeline Upside - Regulatory Risk&nbsp;&nbsp;NewserTrivalent mRNA Flu Shot More Effective Than Standard Vaccines&nbsp;&nbsp;MedPage TodayModerna Announces New England Journal of Medicine Publication of Pivotal Phase 3 Clin",
       "sources": [
         {
           "name": "NBC News",
@@ -198,14 +198,14 @@
       ]
     },
     {
-      "id": "c7ea6a69c07f",
-      "title": "New research chips away at COVID-19 blood clot mystery - CIDRAP",
-      "published": "2026-05-06T20:37:43+00:00",
-      "summary": "New research chips away at COVID-19 blood clot mystery&nbsp;&nbsp;CIDRAPNew Pitt, UPMC study examines how respiratory virus can trigger heart attack, stroke&nbsp;&nbsp;Pittsburgh Post-Gazette",
+      "id": "18f97d73f451",
+      "title": "Beaver that bit ‘several people’ in New Jersey tests positive for rabies - Global News",
+      "published": "2026-05-06T19:49:08+00:00",
+      "summary": "Beaver that bit ‘several people’ in New Jersey tests positive for rabies&nbsp;&nbsp;Global NewsRabid beaver attacks boy fishing at New Jersey lake, prompting health officials to warn residents&nbsp;&nbsp;Fox NewsAngry Beaver Attacks 8 Year Old Boy At Mahwah Park&nbsp;&nbsp;News12 | New JerseyBeaver tests positive for rabies after biting 8-year-old. See attack&nbsp;&nbsp;Yahoo‘It’s not every day you see someone toss a beaver.’ This one bit multiple people — and had rabies.&nbsp;&nbsp;NJ.com",
       "sources": [
         {
-          "name": "CIDRAP",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaHNBWFZNSnlHUDJqTHJtcE9wRTFqM0VVSGd2dXRkVkUwSllMeVNKOGdieG1JckFkS2lDSUU0REd1LXhxc2JtZG9tUVlvcG1kMnVOWTkwakVRVFJHdG9sWG1fMklqTnlkNFZBNzNZZFZ4anpyNi0weVE0OWpFR0ZsZDh2Q3prdGpGWGl5WTVPeVo?oc=5"
+          "name": "Global News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa25FSWphaVkyRF9qYWpqRDVId1RCZWQ2b3o0QkFyZE8yWnNHZnVoMGoza1BJZWZzZTNtT05HcWlZbjlEVi1wellObGdXaE9RdS05TUtaRmRxd3AydEpseXplcTFMNUNfVlM3SU5SMXdQQms4aGZtSVNncE9JdEVGVHBxN1hGbUJHc1R1Z1l2M0ZYUQ?oc=5"
         }
       ]
     },
@@ -222,18 +222,6 @@
       ]
     },
     {
-      "id": "1c7217dc1266",
-      "title": "The human genome encodes for a new category of molecule - The Economist",
-      "published": "2026-05-06T18:33:08+00:00",
-      "summary": "The human genome encodes for a new category of molecule&nbsp;&nbsp;The EconomistExpanding the human proteome with microproteins and peptideins&nbsp;&nbsp;NatureHow a global effort to explore the 'dark proteome' is upending our understanding of human disease&nbsp;&nbsp;statnews.comDark proteome yields 1,785 new microproteins that could reshape disease research&nbsp;&nbsp;Phys.orgHow many genes are in the human genome? For once, it’s more than we thought&nbsp;&nbsp;C&amp;EN",
-      "sources": [
-        {
-          "name": "The Economist",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT2N2RHRPaXB5UXRnTHVoSS1uSGpWazNPQ05sQlhTS0ZWNlhKdUxXeHZzSnZxc0VuLVVmZjNIN0ZucG05N2lUT0RaUTBWS0w2YUtXMGlvaDNTWUpGSkZwbk5hN29VeXBjV0lUN3p4YTltRWZuYjItSUhVMFJTaWExUDlZakxVTldaUVhRelNrWjVzR3F6Ynp4V01kWUpUZUtrVEtCQnZ1aGs0RnUwR1BueUJNb3Qydw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "320beaeb8644",
       "title": "The brain's memory center doesn't start as a blank slate, study suggests - Live Science",
       "published": "2026-05-06T18:10:00+00:00",
@@ -246,14 +234,14 @@
       ]
     },
     {
-      "id": "4b579571cb82",
-      "title": "NASA Sets Coverage for SpaceX 34th Station Resupply Launch, Arrival - NASA (.gov)",
-      "published": "2026-05-06T17:14:09+00:00",
-      "summary": "NASA Sets Coverage for SpaceX 34th Station Resupply Launch, Arrival&nbsp;&nbsp;NASA (.gov)SpaceX Dragon To Deliver 6,500 Pounds Of Cargo To Station&nbsp;&nbsp;Quantum ZeitgeistNASA, SpaceX target May 12 liftoff for 34th ISS resupply mission&nbsp;&nbsp;Washington TimesNASA, SpaceX Set to Launch CRS-34 Mission from Cape Canaveral on Tuesday, May 12&nbsp;&nbsp;Space Coast Daily",
+      "id": "3f950de4927c",
+      "title": "FDA vaccine studies censored by Trump admin after finding benefits of shots - Ars Technica",
+      "published": "2026-05-06T16:19:58+00:00",
+      "summary": "FDA vaccine studies censored by Trump admin after finding benefits of shots&nbsp;&nbsp;Ars TechnicaF.D.A. Blocked Publication of Research Finding Covid and Shingles Vaccines Were Safe&nbsp;&nbsp;The New York Times‘People should be talking about it’: moves to curtail vaccine information obscures important science, doctors say&nbsp;&nbsp;The GuardianUnforced errors flummox HHS’ radical transparency bid—again&nbsp;&nbsp;BioSpaceMakary Has All the Right Enemies&nbsp;&nbsp;The Free Press",
       "sources": [
         {
-          "name": "NASA (.gov)",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSlVZYjg1SFVvWTk3US12WndFNnlFRnJudENkOXN6MGZ5QWZTYVMxSzhYdnVJRE5admkwZU8tZy1ZdXk4VXFGeGhxNmhXaUtlQ0RyeVBIR2FnaFhuQ0dPdGRTbkh0WENzb0I3ZGZPaTE0ZVdaQ3FBbXp3bG50cktub0ZmWVJoYlJlNTNkUmtIYVAxU3o5U2lsZEVIZkVZN2lTVzJz?oc=5"
+          "name": "Ars Technica",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa05hNTNlOHBOVjRSLWxfUzl5cDlISndsZWxya2MwYXdnamYzNDJGcUhkTUJmMVBkaXZHRTZXX25XYVRGaDVURUV0Rm9KelBmaXlhRDVvbHRfdUhLNFRPeFRYWFRMcl80WjJ6TVlOLVBlYTJUcE9IY3pvbktUMnRlYzFqYVdJbGU5encyRFY2TlZfSEg2b1hHaUlEeGVveWV4bjMwMS1FbkNEYkE4X3pxNUZkNGFlc3J2?oc=5"
         }
       ]
     },
@@ -270,38 +258,26 @@
       ]
     },
     {
-      "id": "5b01816ad089",
-      "title": "Large study finds a strong link between depression and problem cannabis use - Medical Xpress",
-      "published": "2026-05-06T16:00:01+00:00",
-      "summary": "Large study finds a strong link between depression and problem cannabis use&nbsp;&nbsp;Medical XpressCannabis and Psychosis Risk: How Legalization Could Impact Clinical Practice&nbsp;&nbsp;Psychiatric TimesLetters to the Editor: Tuesday, May 5&nbsp;&nbsp;The PressPeople with cannabis use disorder are more likely to be depressed, study finds&nbsp;&nbsp;PsyPostYouth cannabis disorder tied to later psychiatric diagnoses&nbsp;&nbsp;Daily Guardian",
+      "id": "186d9e69c746",
+      "title": "Tango dancers may communicate through synchronized brain waves - Earth.com",
+      "published": "2026-05-06T15:00:11+00:00",
+      "summary": "Tango dancers may communicate through synchronized brain waves&nbsp;&nbsp;Earth.comScientists Put Brain Scanners on Tango Dancers and Found Their Minds Moving Together&nbsp;&nbsp;ZME ScienceStudying neural synchronization while dancing (IMAGE)&nbsp;&nbsp;EurekAlert!Something amazing happens when two people dance. Their brains sync&nbsp;&nbsp;India TodayNew Research Reveals How Dancers’ Brains Align in Real Time During Movement&nbsp;&nbsp;The Debrief",
       "sources": [
         {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeHFMRmcxelNON3RqM1JPRjF5dHJTQ0UxYkN5Tk83Q19pSEV2dDhYNC0ycVg5dUZFZ3ZzQkVTREFXSy0zc09lMjlZOVNpRUZrclcyWEQ5TzBQNFAtaV8tTjAyZ0VhaDJFTk9INUpjTVEwSkRHMkhHc1BuTUlQSUF6VGtEX1ZBUDVT?oc=5"
+          "name": "Earth.com",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR253TkFTY3FYeVFtSEg3UkNPVzFUaDh3Nk5VNDRoV21nd01mSnMwV1BmUGk0VlBXaHRLaEJJMmJ0cldvLVk4NkR0QWVobXJ4bUNJSm1EeUxRTkpwVEY3SnZUWXgydG9mSTVMMmpRQk03RVBBSTlWRDViclB3V1Blb0x0NmRfaXUzQ2tKSEszVTNVWDZH?oc=5"
         }
       ]
     },
     {
-      "id": "d87ed4a4c8ad",
-      "title": "NYC measles case leads health officials to notify Manhattan restaurants, other venues - Gothamist",
-      "published": "2026-05-06T15:46:00+00:00",
-      "summary": "NYC measles case leads health officials to notify Manhattan restaurants, other venues&nbsp;&nbsp;Gothamist1 confirmed case of measles in Manhattan; person visited restaurant in Hell's Kitchen&nbsp;&nbsp;ABC7 New YorkMeasles cases confirmed in Manhattan and Long Island: What to know&nbsp;&nbsp;NBC New YorkManhattan restaurant-goer infected with measles, NYC Dept. of Health says&nbsp;&nbsp;New York Daily NewsHealth officials warn NYC Italian eatery patrons of possible exposure to measles by infect",
+      "id": "c76de62bddcd",
+      "title": "First Images From the Pandora Exoplanet Mission - Universe Today",
+      "published": "2026-05-06T14:26:00+00:00",
+      "summary": "First Images From the Pandora Exoplanet Mission&nbsp;&nbsp;Universe TodayUniversity of Arizona-led Pandora satellite begins mission to study distant exoplanets&nbsp;&nbsp;The Daily WildcatPandora Mission Images Help Prepare for Exoplanet Atmosphere Observations | Newswise&nbsp;&nbsp;NewswisePandora Exoplanet Mission Unveils Stunning First Images, Marking a Major Milestone in Space Exploration&nbsp;&nbsp;The Daily Galaxy",
       "sources": [
         {
-          "name": "Gothamist",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbWtKbVV3NW96ZnVRVE8xUlMxZ1JZRlRZSVdJbmxJYmxhSE9JdXl1dFRDcWlYMDc0SzFCNUVfdFNuRk1WS2pNelpMS2NlZ0I4S3Z6WDY5X1ZmTnU2aWMyaVJnWmVxQzhYcTVWU2FWLUJadWhvZVhQRWl5WUtLTWtQdzlDNG1ZcVVRZFBCakVfN0NhRDRGOUJ1elRmZkY5Z2hvdW4wS3E5dVUtNkxhVWNlMw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "95764efd79fb",
-      "title": "What Happens to Your Blood Pressure When You Eat Blueberries Regularly - Verywell Health",
-      "published": "2026-05-06T14:14:35+00:00",
-      "summary": "What Happens to Your Blood Pressure When You Eat Blueberries Regularly&nbsp;&nbsp;Verywell HealthHow blueberries, strawberries support brain and heart health&nbsp;&nbsp;UT PhysiciansBlueberries and strawberries linked to brain health benefits&nbsp;&nbsp;FreshPlaza",
-      "sources": [
-        {
-          "name": "Verywell Health",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUW9uOEFBUER2ZTl5czA5SVV4M04zVDVLQmlYZ1pva3cyU1dEVkdOQTN5S0REWkpZQ0Z2bzU1U0daWjF4ZjFHVktIcHNGOVo0U1hQcmxlUzJJQmFKaThPVnJHam8tVTF0emYxQTkzU003cnlwOFF1akc2SVREU3E1ZA?oc=5"
+          "name": "Universe Today",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRFgtTktVVFJRZVByYlBCTlo4Zk1hOTBvdmdmUWNvRWp5N1NqNXFnZ2d4Vkt1cjdqT0xYaXFQU2ZISDk4cGhJQWZvbG9xSW9YVWhhUkpleExqNjJSTl9QZlllYUFVc3NMeEs2MXZsYjZKY1RPQ01vT2RmblZaQWN0eklDd1Z2V2NYYmp5eHhOSQ?oc=5"
         }
       ]
     },
@@ -309,7 +285,7 @@
       "id": "440316a5d1d0",
       "title": "Scientists created one of the largest simulations of our universe ever — about the size of 500,000 HD movies - Space",
       "published": "2026-05-06T12:00:00+00:00",
-      "summary": "Scientists created one of the largest simulations of our universe ever — about the size of 500,000 HD movies&nbsp;&nbsp;SpaceChinese-led supercomputer simulation recreates 13.8 billion years of cosmic evolution&nbsp;&nbsp;TV BRICS2.5-Petabyte Universe Simulation Recreates Cosmic Evolution in Unprecedented Detail&nbsp;&nbsp;HotHardwareHow do you study something you can never step outside of?&nbsp;&nbsp;Universe TodayNew Dataset Helps Scientists Map the Life of the Universe&nbsp;&nbsp;AZoQuantum",
+      "summary": "Scientists created one of the largest simulations of our universe ever — about the size of 500,000 HD movies&nbsp;&nbsp;SpaceChinese-led supercomputer simulation recreates 13.8 billion years of cosmic evolution&nbsp;&nbsp;TV BRICSChinese-Led Researchers Release Largest-Ever Cosmological Simulation&nbsp;&nbsp;HPCwire2.5-Petabyte Universe Simulation Recreates Cosmic Evolution in Unprecedented Detail&nbsp;&nbsp;HotHardwareHow do you study something you can never step outside of?&nbsp;&nbsp;Universe",
       "sources": [
         {
           "name": "Space",
@@ -318,34 +294,10 @@
       ]
     },
     {
-      "id": "02bf85e3cf08",
-      "title": "Movement Triggers a Hidden 'Brain Cleaning' Mechanism, Study Shows - ScienceAlert",
-      "published": "2026-05-06T11:01:49+00:00",
-      "summary": "Movement Triggers a Hidden 'Brain Cleaning' Mechanism, Study Shows&nbsp;&nbsp;ScienceAlertPenn State Brain Cleaning Study Reveals Shocking Link Between Movement and Brain Health&nbsp;&nbsp;Nbsla.caScientists discover a hidden brain “cleaning” effect triggered by movement&nbsp;&nbsp;ScienceDailyScientists discover how body movement helps “clean” the brain&nbsp;&nbsp;The Indian ExpressFrom Lab to Life: How Exercise Helps Our Brains&nbsp;&nbsp;The Times of Israel",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWHh5a3ZHTDQ0T2IxOHV3Z2RVR05Na2xXaVJES0VrZlJVb0VYS25DQWlGNUFRM3BYV0Y4SUZNbGNCazVQM0Vvc3hiSkdUR0ZDN05YUktiZjh1N0tZbTNySUJVTk5xSWpkRlZWOWFaX0VtREJNSnc0ZWZiTzNKS3czZWs2Rm1WWFFUeEx0RnR4NFh4eV8wQko4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "adf3a20ebe79",
-      "title": "Tick bite ER visits surge across Northeast, CDC data show - Times Union",
-      "published": "2026-05-06T10:02:20+00:00",
-      "summary": "Tick bite ER visits surge across Northeast, CDC data show&nbsp;&nbsp;Times UnionHow to protect yourself from ticks as Michigan sees Lyme disease surge&nbsp;&nbsp;Detroit Free PressTicks in Illinois: Weekly emergency visits for tick bites on the rise in Midwest over concerns of Lyme disease, Alpha-gal syndrome&nbsp;&nbsp;ABC7 ChicagoBOOR: It's tick season: Best defense is avoiding the parasite&nbsp;&nbsp;Hays PostAn army of ticks is sending more Marylanders to the ER&nbsp;&nbsp;thebanner.com",
-      "sources": [
-        {
-          "name": "Times Union",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOEZFaWozREFLd2RHRGRYaXh4eUlqeFB1dG5OUUt4ZmVIMWZMbnJlVnA5UXUyV09RUDJsZjRwb2pKZTRJZjdPZE02VWcwM2xKTWpWTUZvSlhaY2FaejBWUHQyN25BMWVZY3o3SU9KQVFkTnQtUEktbFJTLWg5ZlNWazRuUlBIZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a052f7d26a9b",
       "title": "240-million-year-old giant “sand creeper” found hidden in retaining wall - ScienceDaily",
       "published": "2026-05-06T06:49:07+00:00",
-      "summary": "240-million-year-old giant “sand creeper” found hidden in retaining wall&nbsp;&nbsp;ScienceDailyResearchers identify rare 240-million-year-old amphibian fossil discovered in Australia&nbsp;&nbsp;ساناResearchers found 240-million-year-old giant mysterious 'sand creeper'&nbsp;&nbsp;The News International",
+      "summary": "240-million-year-old giant “sand creeper” found hidden in retaining wall&nbsp;&nbsp;ScienceDailyResearchers identify rare 240-million-year-old amphibian fossil discovered in Australia&nbsp;&nbsp;ساناResearchers found 240-million-year-old giant mysterious 'sand creeper'&nbsp;&nbsp;The News InternationalRetired Farmer Discovers 240-Million-Year-Old 'Supine Sand Creeper' Fossil In His Backyard&nbsp;&nbsp;Dallas Express",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -354,22 +306,10 @@
       ]
     },
     {
-      "id": "2ee78d8f0f94",
-      "title": "Colon cancer breakthrough keeps patients cancer-free for nearly 3 years - ScienceDaily",
-      "published": "2026-05-06T06:22:07+00:00",
-      "summary": "Colon cancer breakthrough keeps patients cancer-free for nearly 3 years&nbsp;&nbsp;ScienceDailyNew Drug Combination Shows Promise In Advanced Colorectal Cancer: The Question Now Is When To Use It&nbsp;&nbsp;SurvivorNetPatients remain cancer-free nearly 3 years after receiving experimental immunotherapy&nbsp;&nbsp;Fox NewsBreakthrough Bowel Cancer Trial Leaves Patients Cancer-Free for Nearly 3 Years&nbsp;&nbsp;SciTechDailyPre-Surgery Immunotherapy Shows Promising Results in Bowel Cancer&nbsp;&nbs",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hVGl6OS03MHh5WDUzbXFJU0t3NWdrNWltV2FzNk9tczNJTWtOaC1JSEJ4VXBFMWRjNWV3NnVnSmFMTk5FUi1KYlUzUzlsUC1jLWNuNEg4ckpWTUtRMVhWN0VqT0sydzdJcWExcTRhOA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2802f5cc1dfb",
       "title": "Eggs and brain health: New study cracks open Alzheimer’s link - WZTV",
       "published": "2026-05-06T05:57:58+00:00",
-      "summary": "Eggs and brain health: New study cracks open Alzheimer’s link&nbsp;&nbsp;WZTVA dozen things you need to know about your eggs&nbsp;&nbsp;The TimesStudy: Egg consumption is associated with a lower risk of Alzheimer’s Disease&nbsp;&nbsp;Loma Linda UniversityEating eggs five times a week could slash Alzheimer’s risk&nbsp;&nbsp;The IndependentMedical Oddities: Brain Health, Sunny-Side Up&nbsp;&nbsp;Conexiant",
+      "summary": "Eggs and brain health: New study cracks open Alzheimer’s link&nbsp;&nbsp;WZTVA dozen things you need to know about your eggs&nbsp;&nbsp;The TimesFormer ‘bad for you’ food can actually lower your Alzheimer’s risk by up to 27%&nbsp;&nbsp;New York PostThe fridge staple that could lower your risk of Alzheimer’s&nbsp;&nbsp;The i PaperMedical Oddities: Brain Health, Sunny-Side Up&nbsp;&nbsp;Conexiant",
       "sources": [
         {
           "name": "WZTV",
@@ -381,7 +321,7 @@
       "id": "d1d7950a35cf",
       "title": "8-year-old boy's backyard discovery challenges scientific understanding of ants - Yahoo",
       "published": "2026-05-06T02:30:00+00:00",
-      "summary": "8-year-old boy's backyard discovery challenges scientific understanding of ants&nbsp;&nbsp;YahooOak Galls Mimic Seeds to Hijack Ant Behavior&nbsp;&nbsp;AsatuNews.co.idAn 8-Year-Old Boy Spotted \"Seeds\" in His Backyard and Accidentally Broke a 100-Year-Old Biology Rule&nbsp;&nbsp;The Daily GalaxyMah Rabu Maasecha: of Ants, Oak Trees, Wasps and Acapello Music&nbsp;&nbsp;VINnews8-year-old boy’s curiosity about 'seed-like' balls in his backyard uncovered a hidden ant network&nbsp;&nbsp;The Times of I",
+      "summary": "8-year-old boy's backyard discovery challenges scientific understanding of ants&nbsp;&nbsp;YahooOak Galls Mimic Seeds to Hijack Ant Behavior&nbsp;&nbsp;AsatuNews.co.idMah Rabu Maasecha: of Ants, Oak Trees, Wasps and Acapello Music&nbsp;&nbsp;VINnewsAn 8-Year-Old Boy Spotted \"Seeds\" in His Backyard and Accidentally Broke a 100-Year-Old Biology Rule&nbsp;&nbsp;The Daily Galaxy8-year-old’s backyard discovery upends a century of plant-insect science&nbsp;&nbsp;The Brighter Side of News",
       "sources": [
         {
           "name": "Yahoo",
@@ -402,30 +342,6 @@
       ]
     },
     {
-      "id": "a00b7deb851c",
-      "title": "These Hobbies Could Lower Your Alzheimer’s Risk, New Study Suggests - EatingWell",
-      "published": "2026-05-05T22:03:39+00:00",
-      "summary": "These Hobbies Could Lower Your Alzheimer’s Risk, New Study Suggests&nbsp;&nbsp;EatingWellA tool to help keep dementia in check&nbsp;&nbsp;CBS NewsThe Roots of Dementia Trace Back All The Way to Childhood, Experts Reveal&nbsp;&nbsp;ScienceAlertI’m a doctor. This is how your lifestyle could be increasing your risk of Alzheimer’s&nbsp;&nbsp;The IndependentEight easy exercises that protect against dementia&nbsp;&nbsp;The Telegraph",
-      "sources": [
-        {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON2czT1JnNDZaeGVDVTZKOGR4c1V2UFpsellEa1VDVDV0QVpoY2puS1l2cGpDU21wN25pRWEteXFHQ0JzMmg2ZVFPcFZqZ1RIWWtjYjloUmtrdHA5Qk1WUmxlMFp2SFdmd2JaRkE1b1ViRE1jUk5sNHZuUU8xVFlUVHRzU2hfVkdtWUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b93fe4ae7abb",
-      "title": "Three billion years ago, Earth's life relied on a rare metal - Phys.org",
-      "published": "2026-05-05T20:50:01+00:00",
-      "summary": "Three billion years ago, Earth's life relied on a rare metal&nbsp;&nbsp;Phys.orgNASA Research Shows Early Life Relied on Rare Metal&nbsp;&nbsp;NASA Science (.gov)Biological use of molybdenum and tungsten stems back to 3.4 billion years ago&nbsp;&nbsp;NatureEarliest Organisms on Earth Built Their Biochemistry around Molybdenum, Study Suggests&nbsp;&nbsp;Sci.NewsLife Built Its Biochemistry on a Metal That Was Almost Nowhere to Be Found&nbsp;&nbsp;ScienceBlog.com",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnQVpOVkI4cV94eWV5bDVEb3gzdmgzbVF6cGRmMDBsTTZvbDR4UThvQzZ6Wm8wdjBjV3lUcVBYVnRWU2FrT0RuRWY0SlJWbnJEcC1QQW1WcHczWVk1SE5Wanc2Q01TdjFqeWxWaTlpYW9nQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b8ad1defff5a",
       "title": "Quantum ‘thermometer’ takes temperatures inside living cancer cells - Nature",
       "published": "2026-05-05T19:35:28+00:00",
@@ -434,30 +350,6 @@
         {
           "name": "Nature",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44N3NrajlaaUVyMVZkaGRza0tKWWxCbU9LZG5VNGZvZ290Smp2bWNqRTZuREZkT2E4NGtISXp1b3gzdnFNMkhRd19Lb1B2SjZudElrUDR2LXpHbEZHbU5V?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fbe1d77add6e",
-      "title": "What if the brain came first? Scientist rethinks the Cambrian Explosion - Phys.org",
-      "published": "2026-05-05T18:20:01+00:00",
-      "summary": "What if the brain came first? Scientist rethinks the Cambrian Explosion&nbsp;&nbsp;Phys.org",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVVdWeEVyNXdyTTRkbF9MQ3ZPUTBWbnlzakNDRm9wRTQxN0NHV0tjQkhkdGhZekdVS3A4ajFESS1EZnE1OWR4UXozWVh6RUtEN3llbm0zTllEc0U1aVMyU1dSbl9NaTZEOGJlYXhpbzdkbkVSVWJ1QVN5dVVoUW9fZWZUV3o?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "efc2c5847724",
-      "title": "A Single Dose of Psilocybin Induces Lasting Brain Changes, New Study Suggests - ScienceAlert",
-      "published": "2026-05-05T15:05:04+00:00",
-      "summary": "A Single Dose of Psilocybin Induces Lasting Brain Changes, New Study Suggests&nbsp;&nbsp;ScienceAlertSingle dose of magic mushroom psychedelic can cause anatomical brain changes, study finds&nbsp;&nbsp;The GuardianOne dose of psilocybin changes the human brain, leading to higher entropy&nbsp;&nbsp;Medical XpressA neuroscientist describes your brain on psychedelics in 101 seconds&nbsp;&nbsp;University of California, BerkeleyScience gets closer to understanding how a psychedelic trip changes the b",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYV9sYVJvVHI0alNROWxUUjIyb0N1Z191dVI3bXlnQzlmWkNpUkJBcFp0QkcyNUNCNmlWb1lrYXpJZk9ULUFPZ2FwUVZUMHRZcTdxSENhZGxHQzBsWU95UHVsdmRzZDVTRWREa1I4QjJISnZSdjlwQkI3RTdlZml3OXFCcmtudTdxUWZRd24xZ1E2QVpIRm0tRVRkakE4MjIzVUh5b2VXVEY?oc=5"
         }
       ]
     }

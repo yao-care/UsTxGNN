@@ -1,19 +1,127 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-06T19:49:55.951510+00:00",
-  "total_fetched": 90,
-  "unique_count": 90,
-  "health_related_count": 31,
+  "fetched_at": "2026-05-07T03:29:33.839606+00:00",
+  "total_fetched": 94,
+  "unique_count": 94,
+  "health_related_count": 36,
   "news": [
     {
-      "id": "1ab3d30dceea",
-      "title": "3 patients are being evacuated to Europe from cruise ship with hantavirus outbreak - AP News",
-      "published": "2026-05-06T19:06:00+00:00",
-      "summary": "3 patients are being evacuated to Europe from cruise ship with hantavirus outbreak&nbsp;&nbsp;AP NewsHantavirus on cruise ship confirmed as rare type that can spread human-to-human&nbsp;&nbsp;NPR3 People Are Evacuated From Cruise Ship With Hantavirus Outbreak&nbsp;&nbsp;The New York TimesHantavirus Case in Switzerland Spurs Race to Trace Contacts&nbsp;&nbsp;WSJHantavirus: Air ambulance lands in Amsterdam airport&nbsp;&nbsp;DW.com",
+      "id": "d3d6543b8e8d",
+      "title": "3 evacuated from hantavirus cruise ship as Spain says it will dock in Canary Islands despite local opposition - CBS News",
+      "published": "2026-05-07T02:04:04+00:00",
+      "summary": "3 evacuated from hantavirus cruise ship as Spain says it will dock in Canary Islands despite local opposition&nbsp;&nbsp;CBS NewsHantavirus Case in Switzerland Spurs Race to Trace Contacts&nbsp;&nbsp;WSJUS monitoring passengers returning from ship in hantavirus outbreak&nbsp;&nbsp;USA TodayHantavirus on cruise ship confirmed as rare type that can spread human-to-human&nbsp;&nbsp;NPRWhat doctors know about how the Andes hantavirus spreads&nbsp;&nbsp;CNN",
       "sources": [
         {
-          "name": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOejVqcGhnTGp2dmhpcGZPRXpEdjYxN1hQb21MeUVhUm1ValZ2aWt5NlRuaHhNQ3cwLVVCT0pnU2IzeGU1ZVdfMDhZWkdKR1Y0LVByU3lib0NoSmFRem1oRGlZYjRtT1J4elFKb1c0a3lFVi00T2g2M25aeGZSZTkzaEcyNVZGQ2lqT05EMmZtR3I4MGpuM2NzVzhFWW1TaWhEZG1zd2V1YU5XV1RP?oc=5"
+          "name": "CBS News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaUgzeXBPeUd0Rk5KSkYwNUZuaGFTWUFobHJKUmozQU5BckkwVnRRSmZMRXV4S3B1RllVWTNiT29EUThUcURnbDIwenM3VTVjMzM4bmM3eE5weGhqMndyTU9oNmsxNUdILWc5dkFtb21WN0RRZXQyRG5lZVpkdjI0TFZxc0Q1YnpWZ05mTW5RakJld9IBlwFBVV95cUxNbGJDQ0ZpN3Axc3ZSa1hiS0hUdE9KX2RzNWtkaHBZVkk3MlBQZzlfbkU0UURZNTRvZWJ1LVJUMlhxbjdRVXNiZmk0SG9qdjFCa0hlSjBlTFlnc2tVOUlHY1V3YWJnaGtPRXROZ3o4T2tZbGpad05TcjhsQlJwcU1oeU51VFgyOENMVUJESG1keTJWSHVZcVhN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1a99a02190c4",
+      "title": "Bioluminescent algae’s blue light harnessed to make 3D-printed shapes - The Guardian",
+      "published": "2026-05-07T01:30:00+00:00",
+      "summary": "Bioluminescent algae’s blue light harnessed to make 3D-printed shapes&nbsp;&nbsp;The GuardianLight without electricity? Glowing algae could make it possible&nbsp;&nbsp;Phys.orgCU Boulder researchers develop 3D-printed living lights from algae&nbsp;&nbsp;Interesting Engineering",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVlF5d3k4UThLZHI4UFptTmJ1dExZY3hwSFlnLXZyUUdLQmw5Y2lrQ0o0VUJjQVBSSXJEcmhKckw3bnNYY2tfSk9SdlU1V25QT2FWdGk3d3NDcmtSaVloOUJHWnJ6SFlTSHNpVUFiNHNvLUN3cmhvWU1lRmJuR2xPdTRTb3A5bEdSc0hFSHVYSGk4ZFhPMi1FRWhNOFhTY2s3UlRMOTgxY3NkOF9QSVpjbVpuSlM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f5a452e12a03",
+      "title": "Specific expansion of motor cortical projections in a singing mouse - Nature",
+      "published": "2026-05-06T23:06:57+00:00",
+      "summary": "Specific expansion of motor cortical projections in a singing mouse&nbsp;&nbsp;NatureA Mutation Gave Humans the Gift of Speech. These Mice Have It, Too.&nbsp;&nbsp;The New York TimesSinging mice puff up air sacs to make their sweet songs&nbsp;&nbsp;Science NewsWhat can singing mice say about human speech?&nbsp;&nbsp;Phys.orgSinging Mice Exhibit Larger Motor Cortex Network for Vocalization, Nature Study Finds&nbsp;&nbsp;geneonline.com",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HXy02azZXUzRLMUwxZnRvTUdMbVlMak1wZWhlb3pWeU9QN21jWEhhUllMSjc4dWlSeF9WR0x3czF4UmRwZlhta09ka1VXNkRUaGN6NnlDc2tlT1JsMWw0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2fe7f2cfc003",
+      "title": "Her Self-Experiment with Drug Detox Almost Broke Her - The New York Times",
+      "published": "2026-05-06T21:54:35+00:00",
+      "summary": "Her Self-Experiment with Drug Detox Almost Broke Her&nbsp;&nbsp;The New York Times",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYjhwS29uckNHTU5RYTNJSnlpN1cyRjByQjZLdFVPWmQxX2x2bUZGVno4ZWthSlN6cUF1WDZXZFdJOGo3d0NReU9BbFhlMUJkaUF4Y3Rpc245QmNCeWNEaEpCc0FPYzFnM0ZPamlzT1o4UGg0MEJuLS1GaWxZM0l1OXpFSDk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0ca76eb30305",
+      "title": "RNA-triggered cell killing with CRISPR–Cas12a2 - Nature",
+      "published": "2026-05-06T21:34:51+00:00",
+      "summary": "RNA-triggered cell killing with CRISPR–Cas12a2&nbsp;&nbsp;NatureNew Kind of CRISPR Could Treat Viral Infection and Cancer by Shredding Sick Cells’ DNA&nbsp;&nbsp;University of Utah HealthUSU Biochemists Show CRISPR Can Selectively Destroy Cells, a Cancer-Treatment Goal&nbsp;&nbsp;Utah State UniversityNext Generation CRISPR Gene Editing Could Help Target Cancer Cells&nbsp;&nbsp;Inside Precision MedicinePrecision at its Finest: New CRISPR Tool Effortlessly Targets and Removes Undesired Cells&nbsp;",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8taHEyc3RHckE1bEVOSTZ4Y0NXbEhJUzVJSzZqWEk1OVVOdW5JeFRsUkVKYXlZaFNnVjAxcS1yRXlqX3dVM19SZEFIWjFMODNyN1lxSThOSWFoU3VKVkk0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "969915ea4817",
+      "title": "Expanding the human proteome with microproteins and peptideins - Nature",
+      "published": "2026-05-06T21:34:51+00:00",
+      "summary": "Expanding the human proteome with microproteins and peptideins&nbsp;&nbsp;NatureHow a global effort to explore the 'dark proteome' is upending our understanding of human disease&nbsp;&nbsp;statnews.comThe human genome encodes for a new category of molecule&nbsp;&nbsp;The EconomistNature study defines 1,785 new peptideins as promising cancer therapy targets&nbsp;&nbsp;동아사이언스How many genes are in the human genome? For once, it’s more than we thought&nbsp;&nbsp;C&amp;EN",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MWnFtNnpmZ1VGQ1E3dVZxU0d2M0FJVVpSajlzUzFiOHR5ZXFCdjJrWkdOMlQ4cGNjRzZzU09WNW1qU3NHOTc1RWhJRzVXOEVEYk55MklhNzVtdTBYYmtv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fc3b19f4018f",
+      "title": "Moderna’s mRNA flu vaccine more effective than standard shot in late-stage trial - NBC News",
+      "published": "2026-05-06T21:00:00+00:00",
+      "summary": "Moderna’s mRNA flu vaccine more effective than standard shot in late-stage trial&nbsp;&nbsp;NBC NewsWoman marks milestone birthday by taking part in bird flu vaccine trial&nbsp;&nbsp;Dorset EchoModerna Announces New England Journal of Medicine Publication of Pivotal Phase 3 Clinical Safety and Efficacy Data for Its Investigational Seasonal Influenza Vaccine, mRNA-1010&nbsp;&nbsp;Yahoo FinanceCould a seasonal flu shot help protect against bird flu? International study points to a surprising possi",
+      "sources": [
+        {
+          "name": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaTlHSHhjeGVIYVRaOUk2RzQwWkptMlV5STBBVjFhSjVodHlaSW9qS040dmJiZVlINmxBNDR1Y2FDU09GYjUxeWo5R2tNQ1ZJRmV3cVR0X1p1OEZXSWNjVUgxckZNVVFfRE1SUmFDUzRVcmxSdjJ4UnYtOEk0cWU2Y21JRDdrS1VmUzJTRWlwOVgtR2JJMkx2clJjdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "52c93e58be28",
+      "title": "Even the unconscious brain can learn — and predict what you’ll say next - Nature",
+      "published": "2026-05-06T19:12:28+00:00",
+      "summary": "Even the unconscious brain can learn — and predict what you’ll say next&nbsp;&nbsp;NaturePlasticity and language in the anaesthetized human hippocampus&nbsp;&nbsp;NatureWhile patients lay unconscious under anesthesia, their brains kept decoding stories and preparing for what came next&nbsp;&nbsp;Medical XpressThe brain may still be able to hear speech under anesthesia&nbsp;&nbsp;Scientific AmericanBrains have a mind of their own under general anaesthetic&nbsp;&nbsp;The Times",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13NjdzdUV4WXo3RVI2WDFya2NfVmlCUFVVREJtQXlIVkVlWlVEOEZBNmJRQ3Fob1VtYWoyTFl4T3FobTdJWTJ6NnpwZm1rblZYTVNGeTl4aEFJeDRpQzk0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4b579571cb82",
+      "title": "NASA Sets Coverage for SpaceX 34th Station Resupply Launch, Arrival - NASA (.gov)",
+      "published": "2026-05-06T17:14:09+00:00",
+      "summary": "NASA Sets Coverage for SpaceX 34th Station Resupply Launch, Arrival&nbsp;&nbsp;NASA (.gov)SpaceX Dragon To Deliver 6,500 Pounds Of Cargo To Station&nbsp;&nbsp;Quantum ZeitgeistNASA, SpaceX target May 12 liftoff for 34th ISS resupply mission&nbsp;&nbsp;Washington TimesNASA, SpaceX Set to Launch CRS-34 Mission from Cape Canaveral on Tuesday, May 12&nbsp;&nbsp;Space Coast Daily",
+      "sources": [
+        {
+          "name": "NASA (.gov)",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSlVZYjg1SFVvWTk3US12WndFNnlFRnJudENkOXN6MGZ5QWZTYVMxSzhYdnVJRE5admkwZU8tZy1ZdXk4VXFGeGhxNmhXaUtlQ0RyeVBIR2FnaFhuQ0dPdGRTbkh0WENzb0I3ZGZPaTE0ZVdaQ3FBbXp3bG50cktub0ZmWVJoYlJlNTNkUmtIYVAxU3o5U2lsZEVIZkVZN2lTVzJz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3f950de4927c",
+      "title": "FDA vaccine studies censored by Trump admin after finding benefits of shots - Ars Technica",
+      "published": "2026-05-06T16:19:58+00:00",
+      "summary": "FDA vaccine studies censored by Trump admin after finding benefits of shots&nbsp;&nbsp;Ars TechnicaF.D.A. Blocked Publication of Research Finding Covid and Shingles Vaccines Were Safe&nbsp;&nbsp;The New York TimesUS FDA blocked publication of COVID, shingles vaccine safety studies&nbsp;&nbsp;ReutersBiopharma bites: FDA withholds vaccine data, plus staffing cuts for Novartis, Gilead&nbsp;&nbsp;FirstWord PharmaFDA halts publication of studies on covid, shingles vaccines&nbsp;&nbsp;The Washington P",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa05hNTNlOHBOVjRSLWxfUzl5cDlISndsZWxya2MwYXdnamYzNDJGcUhkTUJmMVBkaXZHRTZXX25XYVRGaDVURUV0Rm9KelBmaXlhRDVvbHRfdUhLNFRPeFRYWFRMcl80WjJ6TVlOLVBlYTJUcE9IY3pvbktUMnRlYzFqYVdJbGU5encyRFY2TlZfSEg2b1hHaUlEeGVveWV4bjMwMS1FbkNEYkE4X3pxNUZkNGFlc3J2?oc=5"
         }
       ]
     },
@@ -21,7 +129,7 @@
       "id": "d87ed4a4c8ad",
       "title": "NYC measles case leads health officials to notify Manhattan restaurants, other venues - Gothamist",
       "published": "2026-05-06T15:46:00+00:00",
-      "summary": "NYC measles case leads health officials to notify Manhattan restaurants, other venues&nbsp;&nbsp;Gothamist1 confirmed case of measles in Manhattan; person visited restaurant in Hell's Kitchen&nbsp;&nbsp;ABC7 New YorkMeasles cases confirmed in Manhattan and Long Island: What to know&nbsp;&nbsp;NBC New YorkHealth officials warn NYC Italian eatery patrons of possible exposure to measles by infected diner&nbsp;&nbsp;New York PostConfirmed case of measles in Manhattan, NYC DOH says&nbsp;&nbsp;CBS New",
+      "summary": "NYC measles case leads health officials to notify Manhattan restaurants, other venues&nbsp;&nbsp;Gothamist1 confirmed case of measles in Manhattan; person visited restaurant in Hell's Kitchen&nbsp;&nbsp;ABC7 New YorkMeasles cases confirmed in Manhattan and Long Island: What to know&nbsp;&nbsp;NBC New YorkHealth officials warn NYC Italian eatery patrons of possible exposure to measles by infected diner&nbsp;&nbsp;New York PostManhattan restaurant-goer infected with measles, NYC Dept. of Health sa",
       "sources": [
         {
           "name": "Gothamist",
@@ -30,14 +138,38 @@
       ]
     },
     {
-      "id": "440316a5d1d0",
-      "title": "Scientists created one of the largest simulations of our universe ever — about the size of 500,000 HD movies - Space",
-      "published": "2026-05-06T12:00:00+00:00",
-      "summary": "Scientists created one of the largest simulations of our universe ever — about the size of 500,000 HD movies&nbsp;&nbsp;Space2.5-Petabyte Universe Simulation Recreates Cosmic Evolution in Unprecedented Detail&nbsp;&nbsp;HotHardwareHow do you study something you can never step outside of?&nbsp;&nbsp;Universe TodayAstronomers Unveil Vast Cosmic Simulation Dataset&nbsp;&nbsp;Mirage NewsAstronomers Unveil Vast Virtual Universes Dataset&nbsp;&nbsp;Mirage News",
+      "id": "95764efd79fb",
+      "title": "What Happens to Your Blood Pressure When You Eat Blueberries Regularly - Verywell Health",
+      "published": "2026-05-06T14:14:35+00:00",
+      "summary": "What Happens to Your Blood Pressure When You Eat Blueberries Regularly&nbsp;&nbsp;Verywell HealthHow blueberries, strawberries support brain and heart health&nbsp;&nbsp;UT Physicians",
       "sources": [
         {
-          "name": "Space",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWkhkOEwzM1M4RjJaeEprWVJKajR4RjhZZDRjZm94aG1tenFwRklOMVVzYzBfRTNYZ0NETkNJdktsQVJKX18wZWdQMTBfamVXWjNOeG9paEQ1RnZQbjRzOVk4OGNXblMtSk1UNHBKWVU5MFdfdFBsMDQxOWs1R2Z3Y241ZlotNEpwX0w4RzByNkpIYmJfWXBfSFNiWlkyaGJFZENrVVlaYWQwSS1TOE9KRjhRaVhqM2tSWFNqNmV3TEdiemg4VC1rbWhEMWQ1RVRPb0p3WA?oc=5"
+          "name": "Verywell Health",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUW9uOEFBUER2ZTl5czA5SVV4M04zVDVLQmlYZ1pva3cyU1dEVkdOQTN5S0REWkpZQ0Z2bzU1U0daWjF4ZjFHVktIcHNGOVo0U1hQcmxlUzJJQmFKaThPVnJHam8tVTF0emYxQTkzU003cnlwOFF1akc2SVREU3E1ZA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5a770027e518",
+      "title": "Japan’s Deep-Space Mission Brought Back an Asteroid Sample With All 5 DNA Building Blocks - The Daily Galaxy",
+      "published": "2026-05-06T13:15:00+00:00",
+      "summary": "Japan’s Deep-Space Mission Brought Back an Asteroid Sample With All 5 DNA Building Blocks&nbsp;&nbsp;The Daily GalaxyAsteroid 300 million km away reveals all DNA bases&nbsp;&nbsp;CPG Click Petróleo e GásAll DNA Building Blocks Found on Asteroid Ryugu: What This Discovery Means for Life’s Origins&nbsp;&nbsp;112.ua",
+      "sources": [
+        {
+          "name": "The Daily Galaxy",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tVngzcUdMN0FZYmxNS0FFMXlWUHd6dlpDUUJVTFhNSHREQ3d5MUI3aG54RjBTa1BneTV2TGJTa0pkWlk3MTlnVjFKaHQtcXBYaUhvSzJVNmxMQ2tYWHI2SHhQeFBLQXY2ejVkb1hqRFpjSi1zN3dOcjRlejJTLUk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ab160cff8d34",
+      "title": "Scientists created one of the largest simulations of our universe ever — about the size of 500,000 HD movies - Yahoo",
+      "published": "2026-05-06T12:00:00+00:00",
+      "summary": "Scientists created one of the largest simulations of our universe ever — about the size of 500,000 HD movies&nbsp;&nbsp;YahooSupercomputer reconstructs evolution of the universe&nbsp;&nbsp;China Daily2.5-Petabyte Universe Simulation Recreates Cosmic Evolution in Unprecedented Detail&nbsp;&nbsp;HotHardwareHow do you study something you can never step outside of?&nbsp;&nbsp;Universe TodayNew Dataset Helps Scientists Map the Life of the Universe&nbsp;&nbsp;AZoQuantum",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb3N4dzJVU0ZpazhsVEEwdmlWR05hVW8zNWZOX052OXBvOGVleVFvNnNfeTNQOF9lZG01enI3bFN0U2QzSWpfdGRaak55amdQendHZjVBUUlDUElHSTJVR090ZzJYR1F3NF8waDd4S3lZaXZjRmRVZVZJOEtjUXFSRjdxNDZ6WVJKbnlBUzlZeEpoN2NYOFR5Ng?oc=5"
         }
       ]
     },
@@ -54,26 +186,14 @@
       ]
     },
     {
-      "id": "2fe7f2cfc003",
-      "title": "Her Self-Experiment with Drug Detox Almost Broke Her - The New York Times",
-      "published": "2026-05-06T09:00:17+00:00",
-      "summary": "Her Self-Experiment with Drug Detox Almost Broke Her&nbsp;&nbsp;The New York Times",
+      "id": "a052f7d26a9b",
+      "title": "240-million-year-old giant “sand creeper” found hidden in retaining wall - ScienceDaily",
+      "published": "2026-05-06T06:49:07+00:00",
+      "summary": "240-million-year-old giant “sand creeper” found hidden in retaining wall&nbsp;&nbsp;ScienceDailyResearchers identify rare 240-million-year-old amphibian fossil discovered in Australia&nbsp;&nbsp;ساناResearchers found 240-million-year-old giant mysterious 'sand creeper'&nbsp;&nbsp;The News International",
       "sources": [
         {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYjhwS29uckNHTU5RYTNJSnlpN1cyRjByQjZLdFVPWmQxX2x2bUZGVno4ZWthSlN6cUF1WDZXZFdJOGo3d0NReU9BbFhlMUJkaUF4Y3Rpc245QmNCeWNEaEpCc0FPYzFnM0ZPamlzT1o4UGg0MEJuLS1GaWxZM0l1OXpFSDk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "55a4916aa88c",
-      "title": "FDA halts publication of studies on covid, shingles vaccines - The Washington Post",
-      "published": "2026-05-06T06:29:13+00:00",
-      "summary": "FDA halts publication of studies on covid, shingles vaccines&nbsp;&nbsp;The Washington PostF.D.A. Blocked Publication of Research Finding Covid and Shingles Vaccines Were Safe&nbsp;&nbsp;The New York TimesFDA stopped studies supporting COVID-19 and shingles vaccine safety&nbsp;&nbsp;USA TodayBiopharma bites: FDA withholds vaccine data, plus staffing cuts for Novartis, Gilead&nbsp;&nbsp;FirstWord PharmaFDA withdrew studies finding Covid and shingles vaccines were safe&nbsp;&nbsp;CNBC",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNVJMY1Z4clRTVWxYNTlHOFFkY0xaaUlKS0JrbncxTGhKMTZRTWtNa1RCMF9tZHNIWlQ4ejJ5bWV5MHBIMnlXVXk2eC11UHEyVDdfZUh2NGFUVGVlcE1SYkx4bjMwVXFSdGQ1SzVXZjd6Z2liZDdLUTRTN1BOaUQ2NlBkQldVMVpqa0JzX1NmWTdLVHFISHc?oc=5"
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WVFo3UTZWbTA1VXg1c1lkX2JyVGRuc3NoN0dtMGlGd1FTTktwUC0xa3J5WmpHVFF6OHFMcUhwZHlmNk05ZGtLaVZ0OGdQLUs4cE9SZnJxV1RiSzRpVEVNRDBkNXd3Q0lkZEFTMEF6WQ?oc=5"
         }
       ]
     },
@@ -93,7 +213,7 @@
       "id": "2802f5cc1dfb",
       "title": "Eggs and brain health: New study cracks open Alzheimer’s link - WZTV",
       "published": "2026-05-06T05:57:58+00:00",
-      "summary": "Eggs and brain health: New study cracks open Alzheimer’s link&nbsp;&nbsp;WZTVStudy: Egg consumption is associated with a lower risk of Alzheimer’s Disease&nbsp;&nbsp;Loma Linda UniversityEating eggs five times a week could cut Alzheimer’s risk&nbsp;&nbsp;The TimesEating Eggs May Help Boost Your Memory, According to a Recent Study&nbsp;&nbsp;Real SimpleMedical Oddities: Brain Health, Sunny-Side Up&nbsp;&nbsp;Conexiant",
+      "summary": "Eggs and brain health: New study cracks open Alzheimer’s link&nbsp;&nbsp;WZTVStudy: Egg consumption is associated with a lower risk of Alzheimer’s Disease&nbsp;&nbsp;Loma Linda UniversityEating Eggs May Help Boost Your Memory, According to a Recent Study&nbsp;&nbsp;Real SimpleA dozen things you need to know about your eggs&nbsp;&nbsp;The TimesMedical Oddities: Brain Health, Sunny-Side Up&nbsp;&nbsp;Conexiant",
       "sources": [
         {
           "name": "WZTV",
@@ -105,11 +225,23 @@
       "id": "c5f9d1d3746e",
       "title": "Common knee surgery found ineffective, may make things worse - ScienceDaily",
       "published": "2026-05-06T05:56:03+00:00",
-      "summary": "Common knee surgery found ineffective, may make things worse&nbsp;&nbsp;ScienceDailyKnee surgery for cartilage damage does not benefit patients, study suggests&nbsp;&nbsp;The Guardian10-Year Data Confirm No Benefit From Knee Arthroscopy&nbsp;&nbsp;MedscapeMassive Study Finds Common Knee Surgery Is No Better Than a Placebo&nbsp;&nbsp;ZME ScienceOne of the world's most common knee surgeries does not help and may even be harmful&nbsp;&nbsp;Medical Xpress",
+      "summary": "Common knee surgery found ineffective, may make things worse&nbsp;&nbsp;ScienceDailyOne of the world's most common knee surgeries does not help and may even be harmful&nbsp;&nbsp;Medical XpressKnee surgery for cartilage damage does not benefit patients, study suggests&nbsp;&nbsp;The Guardian10-Year Data Confirm No Benefit From Knee Arthroscopy&nbsp;&nbsp;MedscapeDr. Mark Kestner: New study: common knee surgery isn’t helpful, may be harmful&nbsp;&nbsp;Main Street Media of Tennessee",
       "sources": [
         {
           "name": "ScienceDaily",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04aFJaQnA2RmxMdWVwdzNCUVo1bjhWX2ZMMlFwMlp3NndUYko1MDFHRGhtVU5Zb29pa0ZkVXN1akR1UFVteng4UlVULXNIOHIxVmg0by1wV0hlbzlDbEN5cmRLaGdCUlRUanF5S2VhZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1ada0e00f44c",
+      "title": "HT Health Talk: Is there minimum and maximum age for Ozempic? Bengaluru doctor answers 10 FAQs about weight loss drugs | Health - Hindustan Times",
+      "published": "2026-05-06T02:49:32+00:00",
+      "summary": "HT Health Talk: Is there minimum and maximum age for Ozempic? Bengaluru doctor answers 10 FAQs about weight loss drugs | Health&nbsp;&nbsp;Hindustan Times‘Resetting’ the gut – life after weight loss medications&nbsp;&nbsp;Medical IndependentWeight loss rebound risk: 18-month warning for Ozempic and Wegovy users&nbsp;&nbsp;Pharmacy BusinessStruggling to lose or keep off weight? Here’s the truth about Ozempic&nbsp;&nbsp;EWNNew Research Shows What Happens When People Stop Taking Ozempic&nbsp;&nbsp;",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxORGNVT0hwZHVVVmh4S2xfMm9CWURNbHZQcnAyc2p0RmxveWl2TXJ4VVZLRGpCSVY4QzlrODhZdmtkVWVKX3FjTFNqX1p5NS1KaXAyRXI1WThjaUZDcW43a2VETk5HWXdGekRtRGRRaDdMbGdobzRfN25PNFpvamw3c2tzN3BTZnZSaXVqcW9Qekx2eVlnMGZoTWtjYUQ4TnFaSjBhaW12T3cwbjlfOWY5NWphYmNPVW1udzYzUl93dkc2VHptS2QtcWFjNmI5Q0lHRDVPOXpYaG9CbWNYVjcxb2FCX2tqTFhuQWRZSS1iNmUyOF9FYW1Gb2pmbkNEdngyVkhDZ3VwUllRa044b3l3VVFla9IBmAJBVV95cUxOYVI2dnZkUHlxbkVWdWFyVU1aZy1ndWZFeVZWVHBpM1ZCSDJfVVlhRWwzSUNnZy1NaHBOVDl0MV9xOWdFbXhoY0FyWDQ1ZElRWFp1aV9UVjhuVFNkWDdSaExGV0JxZkZhYksyVEpWd1hWbnlRS05CcWJ3T3pWZTVKRDBVOEtySWdVYkVSS18xQ0NXemF5c0Q1amp0aHJ2ZlgtWk9XVGRDOHR1NTFyOFZfQ0tLbWlPNnNZUkN6dUVRSl9jZk9sTmN6SWNybnhGd3pSS1R1VXhwUGp4RVFLZjZvV3RUeVZCSWlESmpFZFVnc2I3NXp2eW5ydkJ0VVgwS0tESmRLQ1FaNHBKa1d4X2ZoRUcxbDdHN21B?oc=5"
         }
       ]
     },
@@ -129,7 +261,7 @@
       "id": "76ce868ce345",
       "title": "Choice of Tea or Coffee Could Affect Risk of Osteoporosis in Older Women - ScienceAlert",
       "published": "2026-05-05T23:10:16+00:00",
-      "summary": "Choice of Tea or Coffee Could Affect Risk of Osteoporosis in Older Women&nbsp;&nbsp;ScienceAlertTea vs coffee: Which one is actually better for your health?&nbsp;&nbsp;saga.co.ukWomen's Choice Of Coffee Or Tea Might Affect Their Bone Health&nbsp;&nbsp;Yahoo News UKTea vs coffee: Which is better for your bone health?&nbsp;&nbsp;IndulgexpressTea Or Coffee? Ladies, Your Choice Could Influence Osteoporosis Risk Later&nbsp;&nbsp;Health and Me",
+      "summary": "Choice of Tea or Coffee Could Affect Risk of Osteoporosis in Older Women&nbsp;&nbsp;ScienceAlertTea vs coffee: Which one is actually better for your health?&nbsp;&nbsp;saga.co.ukWomen's Choice Of Coffee Or Tea Might Affect Their Bone Health&nbsp;&nbsp;HuffPost UKTea Or Coffee? Ladies, Your Choice Could Influence Osteoporosis Risk Later&nbsp;&nbsp;Health and Me",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -141,7 +273,7 @@
       "id": "a00b7deb851c",
       "title": "These Hobbies Could Lower Your Alzheimer’s Risk, New Study Suggests - EatingWell",
       "published": "2026-05-05T22:03:39+00:00",
-      "summary": "These Hobbies Could Lower Your Alzheimer’s Risk, New Study Suggests&nbsp;&nbsp;EatingWellThe Roots of Dementia Trace Back All The Way to Childhood, Experts Reveal&nbsp;&nbsp;ScienceAlertA tool to help keep dementia in check&nbsp;&nbsp;CBS NewsEight easy exercises that protect against dementia&nbsp;&nbsp;The TelegraphI’m a doctor. This is how your lifestyle could be increasing your risk of Alzheimer’s&nbsp;&nbsp;The Independent",
+      "summary": "These Hobbies Could Lower Your Alzheimer’s Risk, New Study Suggests&nbsp;&nbsp;EatingWellThe Roots of Dementia Trace Back All The Way to Childhood, Experts Reveal&nbsp;&nbsp;ScienceAlertA tool to help keep dementia in check&nbsp;&nbsp;CBS NewsI’m a doctor. This is how your lifestyle could be increasing your risk of Alzheimer’s&nbsp;&nbsp;The IndependentEight easy exercises that protect against dementia&nbsp;&nbsp;The Telegraph",
       "sources": [
         {
           "name": "EatingWell",
@@ -158,6 +290,18 @@
         {
           "name": "Phys.org",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnQVpOVkI4cV94eWV5bDVEb3gzdmgzbVF6cGRmMDBsTTZvbDR4UThvQzZ6Wm8wdjBjV3lUcVBYVnRWU2FrT0RuRWY0SlJWbnJEcC1QQW1WcHczWVk1SE5Wanc2Q01TdjFqeWxWaTlpYW9nQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b8ad1defff5a",
+      "title": "Quantum ‘thermometer’ takes temperatures inside living cancer cells - Nature",
+      "published": "2026-05-05T19:35:28+00:00",
+      "summary": "Quantum ‘thermometer’ takes temperatures inside living cancer cells&nbsp;&nbsp;NatureResearchers developed quantum nanosensors that can measure the temperature of a single cell&nbsp;&nbsp;R&amp;D WorldMolecular Quantum Nanosensors Enable Intracellular Thermometry and Spin Detection in Living Cancer Cells&nbsp;&nbsp;EurekAlert!Quantum sensing: Revolutionising cancer care&nbsp;&nbsp;The Hans IndiaQuantum sensor precisely measures temperature inside living cancer cell nucleus&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44N3NrajlaaUVyMVZkaGRza0tKWWxCbU9LZG5VNGZvZ290Smp2bWNqRTZuREZkT2E4NGtISXp1b3gzdnFNMkhRd19Lb1B2SjZudElrUDR2LXpHbEZHbU5V?oc=5"
         }
       ]
     },
@@ -201,7 +345,7 @@
       "id": "4bd525074e2e",
       "title": "JWST pins down the origins of a planetary odd couple - Phys.org",
       "published": "2026-05-05T16:00:01+00:00",
-      "summary": "JWST pins down the origins of a planetary odd couple&nbsp;&nbsp;Phys.orgAstronomers pin down the origins of a planetary odd couple&nbsp;&nbsp;MIT NewsNew Discovery Confirms Planetary Migration Evidence&nbsp;&nbsp;Mirage NewsMini-Neptune TOI-1130b: James Webb reveals the secret&nbsp;&nbsp;Universe Space TechAstronomers Trace the Origins of a Peculiar Planetary Pair&nbsp;&nbsp;Bioengineer.org",
+      "summary": "JWST pins down the origins of a planetary odd couple&nbsp;&nbsp;Phys.orgAstronomers pin down the origins of a planetary odd couple&nbsp;&nbsp;MIT NewsHow an exoplanet odd couple survived by traveling in from the cold together&nbsp;&nbsp;SpaceJWST Unveils A High Mean Molecular Weight Atmosphere For Mini-Neptune TOI-1130b: Evidence For Formation Beyond The Water Ice Line&nbsp;&nbsp;astrobiology.comMigrating planets theory becomes clearer after UniSQ research&nbsp;&nbsp;The Chronicle | The Chronicl",
       "sources": [
         {
           "name": "Phys.org",
@@ -213,7 +357,7 @@
       "id": "e7f9c43f73eb",
       "title": "One dose of psilocybin changes the human brain, leading to higher entropy - Medical Xpress",
       "published": "2026-05-05T15:00:04+00:00",
-      "summary": "One dose of psilocybin changes the human brain, leading to higher entropy&nbsp;&nbsp;Medical XpressHuman brain changes after first psilocybin use&nbsp;&nbsp;NatureSingle dose of magic mushroom psychedelic can cause anatomical brain changes, study finds&nbsp;&nbsp;The GuardianThe Surprising Effects of Psychedelics on 'Normal' Adults&nbsp;&nbsp;MedscapeScience gets closer to understanding how a psychedelic trip changes the brain&nbsp;&nbsp;NBC News",
+      "summary": "One dose of psilocybin changes the human brain, leading to higher entropy&nbsp;&nbsp;Medical XpressHuman brain changes after first psilocybin use&nbsp;&nbsp;NatureSingle dose of magic mushroom psychedelic can cause anatomical brain changes, study finds&nbsp;&nbsp;The GuardianA neuroscientist describes your brain on psychedelics in 101 seconds&nbsp;&nbsp;University of California, BerkeleyScience gets closer to understanding how a psychedelic trip changes the brain&nbsp;&nbsp;NBC News",
       "sources": [
         {
           "name": "Medical Xpress",
@@ -225,7 +369,7 @@
       "id": "8ca18b1eac2f",
       "title": "Astronomers Are Shooting Giant Lasers Into The Sky To See The Universe With Unmatched Clarity - The Daily Galaxy",
       "published": "2026-05-05T14:45:00+00:00",
-      "summary": "Astronomers Are Shooting Giant Lasers Into The Sky To See The Universe With Unmatched Clarity&nbsp;&nbsp;The Daily GalaxyESO Beams Four Lasers At The Heart Of The Tarantula Nebula – Why?&nbsp;&nbsp;IFLScienceLasers take aim at a galaxy far, far away photo of the day for May 4, 2026&nbsp;&nbsp;Space",
+      "summary": "Astronomers Are Shooting Giant Lasers Into The Sky To See The Universe With Unmatched Clarity&nbsp;&nbsp;The Daily GalaxyLasers take aim at a galaxy far, far away photo of the day for May 4, 2026&nbsp;&nbsp;SpaceESO Beams Four Lasers At The Heart Of The Tarantula Nebula – Why?&nbsp;&nbsp;IFLScience",
       "sources": [
         {
           "name": "The Daily Galaxy",
@@ -249,7 +393,7 @@
       "id": "c5d346ab9bfe",
       "title": "Life with one less: Engineered bacteria break the 20-amino-acid rule - Phys.org",
       "published": "2026-05-05T14:00:02+00:00",
-      "summary": "Life with one less: Engineered bacteria break the 20-amino-acid rule&nbsp;&nbsp;Phys.orgAll Life Uses 20 Amino Acids. Scientists Just Deleted One in Bacteria.&nbsp;&nbsp;SingularityHubColumbia University creates E. coli that survives without one essential amino acid&nbsp;&nbsp;동아사이언스Researchers try to cut the genetic code from 20 to 19 amino acids&nbsp;&nbsp;Ars TechnicaScientists used AI to rewrite part of life’s alphabet&nbsp;&nbsp;Scientific American",
+      "summary": "Life with one less: Engineered bacteria break the 20-amino-acid rule&nbsp;&nbsp;Phys.orgAll Life Uses 20 Amino Acids. Scientists Just Deleted One in Bacteria.&nbsp;&nbsp;SingularityHubScientists used AI to rewrite part of life’s alphabet&nbsp;&nbsp;Scientific AmericanResearchers try to cut the genetic code from 20 to 19 amino acids&nbsp;&nbsp;Ars TechnicaColumbia University creates E. coli that survives without one essential amino acid&nbsp;&nbsp;동아사이언스",
       "sources": [
         {
           "name": "Phys.org",
@@ -258,22 +402,10 @@
       ]
     },
     {
-      "id": "4ea7b9d5e9f2",
-      "title": "Ultrasensitive Test Detects Biomarkers for Specific Form of Dementia - Mass General Brigham",
-      "published": "2026-05-05T13:04:40+00:00",
-      "summary": "Ultrasensitive Test Detects Biomarkers for Specific Form of Dementia&nbsp;&nbsp;Mass General Brigham",
-      "sources": [
-        {
-          "name": "Mass General Brigham",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeXRLUjdlTUE2aVNieVZELTJQTmNEMkRzVzAwLWI5TFltV1cwcWY2SE5ScUhLdUEyOUZZWkVJWXNMdGh5azBFaGtpZzJqZU50NWNLY2JEVDVTNkxGS3ZHTlNFcjdvU001NXpLd2I4dUZaWmk2aWFKbEtJRU5xcTNmd24wdVJEem1Ec3lBZXdPTFI5NTJKMko5dko5R01HUHdNU0ZNTmgtNWJlZ2dYZEQ4VGZDbXROb2prZTNNSTdTb2tiNzlaMkZ2Z0tVSWlEb1dqMHc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "befe8f8cd84d",
       "title": "A dead galaxy from the early universe is forcing astronomers to rethink galactic evolution - The Brighter Side of News",
       "published": "2026-05-05T11:51:00+00:00",
-      "summary": "A dead galaxy from the early universe is forcing astronomers to rethink galactic evolution&nbsp;&nbsp;The Brighter Side of NewsUC Davis researchers investigate young galaxy that isn’t spinning&nbsp;&nbsp;KCRANon-Rotating Early Galaxy Is a Surprise to Astronomers&nbsp;&nbsp;UC DavisA massive and evolved slow-rotating galaxy in the early Universe&nbsp;&nbsp;NatureWebb Discovers Slow-Rotating Galaxy in Early Universe&nbsp;&nbsp;Sci.News",
+      "summary": "A dead galaxy from the early universe is forcing astronomers to rethink galactic evolution&nbsp;&nbsp;The Brighter Side of NewsUC Davis researchers investigate young galaxy that isn’t spinning&nbsp;&nbsp;KCRAA massive and evolved slow-rotating galaxy in the early Universe&nbsp;&nbsp;NatureWebb Discovers Slow-Rotating Galaxy in Early Universe&nbsp;&nbsp;Sci.NewsNon-Rotating Early Galaxy Is a Surprise to Astronomers&nbsp;&nbsp;UC Davis",
       "sources": [
         {
           "name": "The Brighter Side of News",
@@ -285,7 +417,7 @@
       "id": "f14d9762c551",
       "title": "The Science on Creatine Dosage Is Shifting. Here’s How Many Grams You Should Take. - Men's Health",
       "published": "2026-05-05T11:00:00+00:00",
-      "summary": "The Science on Creatine Dosage Is Shifting. Here’s How Many Grams You Should Take.&nbsp;&nbsp;Men's HealthScientists reveal creatine’s hidden power beyond muscle gains&nbsp;&nbsp;ScienceDailyPopular gym supplement is ‘not a magic bullet’ — its benefits depend on 3 major factors&nbsp;&nbsp;New York PostCreatine is claimed to benefit body and mind: The potential benefits and limitations of the popular supplement&nbsp;&nbsp;Medical XpressCreatine for Women: Why Researchers Now Recommend It for Musc",
+      "summary": "The Science on Creatine Dosage Is Shifting. Here’s How Many Grams You Should Take.&nbsp;&nbsp;Men's HealthScientists reveal creatine’s hidden power beyond muscle gains&nbsp;&nbsp;ScienceDailyCreatine is claimed to benefit body and mind: The potential benefits and limitations of the popular supplement&nbsp;&nbsp;Medical XpressThinking About Taking Creatine? Here Are 10 Expert Tips You Need To Know First&nbsp;&nbsp;AOL.comCreatine for Women: Why Researchers Now Recommend It for Muscle, Brain and M",
       "sources": [
         {
           "name": "Men's Health",
@@ -294,86 +426,14 @@
       ]
     },
     {
-      "id": "c7c33fcd4c08",
-      "title": "I Have Terrible Allergies. These Products Are Helping Me Survive This Spring - CNET",
-      "published": "2026-05-05T10:37:00+00:00",
-      "summary": "I Have Terrible Allergies. These Products Are Helping Me Survive This Spring&nbsp;&nbsp;CNETPollen allergies are brutal this year – a doctor explains why, and how to find relief&nbsp;&nbsp;The Conversation‘Sneezing season’ is in full swing. Here’s your allergy outlook for May&nbsp;&nbsp;KIRO 7 News SeattleHow to survive a ‘pollen tsunami’ — and 5 subtle signs it’s time to see a doc, including ‘allergy face’&nbsp;&nbsp;New York PostAllergy season is in full swing with tree pollen hitting Michigan",
+      "id": "62b78e1e577b",
+      "title": "Want Better Balance? Study Says To Try This 10-Minute Floor Workout - MindBodyGreen",
+      "published": "2026-04-30T18:41:37+00:00",
+      "summary": "Want Better Balance? Study Says To Try This 10-Minute Floor Workout&nbsp;&nbsp;MindBodyGreenBrief daily lying-down exercise linked to better balance and agility&nbsp;&nbsp;Medical News TodayA 10-minute daily exercise program done lying down improved participants' balance, flexibility and agility within just two weeks, per new clinical trial&nbsp;&nbsp;EurekAlert!Too Exhausted to Exercise? You Can Do This 10-Minute Workout Lying Down.&nbsp;&nbsp;Outside MagazineNo excuses! You can do this exercis",
       "sources": [
         {
-          "name": "CNET",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSnlNN0FxN3NkSWMtNTYyaGs5WmxJc1RxRlF1bmNLVHFjR2I4NUs5OU5BX2JVNEh4SEt4OWRHQXlYdW1EbGV2bC1BUk12dDltamh5Tl9FTmNKVDhEOUZidzZNMndZZ1diMnJHa25JNDBTV0FaWFNQSk5kb0Rfd0RLSXVTTzZ2Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "67490d50e57d",
-      "title": "New cancer breakthrough as 'AI detects disease years before doctors' - The Mirror",
-      "published": "2026-05-05T10:36:00+00:00",
-      "summary": "New cancer breakthrough as 'AI detects disease years before doctors'&nbsp;&nbsp;The MirrorAI finds signs of pancreatic cancer before tumors develop&nbsp;&nbsp;NBC NewsAdvanced AI holds promise for high-stakes healthcare, studies show&nbsp;&nbsp;Healthcare IT NewsAI Detects “Invisible” Signs of Pancreatic Cancer Years Before Diagnosis&nbsp;&nbsp;SciTechDailyOne of the Deadliest Cancers in America May Have Met Its Match&nbsp;&nbsp;The Ringer",
-      "sources": [
-        {
-          "name": "The Mirror",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcUwxNzQ0blFQdHE3b2N6LXh4NlZYTW4xUU9OYXItekU0cUZHNkZwNXYxcFZUQVl3cERrODlXdWxlc2RLMzZpemNjYjhnQTZhRFE0ZFpaVnRSS2FnVWhoZlFFVFZGTXlqSTBGUVl2X3FJQjhJc3NKM0xGclM1VEFEal84Y3F0QTjSAYwBQVVfeXFMTV9WWWtSUWtwaHVQRndzT21JRDI5S1Yxd01wRTNpODFSNGJvN0NCLWhqNFdJajExNzNrWVNkbEhlXzlxNWcyTGRUSkdMX2dLNktvTW4zMjlRdzVCd1BHN1hOOWVFNlZBNnNra2ZtbVRJdjdsQzhkVk9oZzR3TXc0cnhWMUVkLTRlNnA0Tjg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "450fdfe18471",
-      "title": "Shockingly Powerful Giant Octopuses Ruled the Seas 100 Million Years Ago - SciTechDaily",
-      "published": "2026-05-05T10:33:33+00:00",
-      "summary": "Shockingly Powerful Giant Octopuses Ruled the Seas 100 Million Years Ago&nbsp;&nbsp;SciTechDailyNew discovery suggests existence of 60-foot, kraken-like octopus&nbsp;&nbsp;YahooScientists Just Identified A 60-Foot Octopus With Bone-Crushing Jaws That Ruled The Seas During The Cretaceous&nbsp;&nbsp;All That's InterestingA real-life kraken monster? At 19m it was longer than a railway carriage, devilishly smart and able to crush prey with a devastatingly lethal bite... | Discover Wildlife&nbsp;&nbs",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ2hwYlNtZjQtdVJTcU55V24tQk00UXlMYXdjWTBHcjZSZkI3VjJmUXk4SVpFQ3VmREpiSWlXa3F4V1d5Ty1FellMWmZvbFE1RWVCbmJMVnRTNk11aDdVaUdDR3I0OG1hdWxJU0kwVnpQYzdLT1ZUMW9CVm1KLWZqUGtjd1dWdTJTRGJ5OGpQbkw2V2tQQzh3LXk2cWRNVjQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5261ee6fcdca",
-      "title": "Estrogen in both the male and female brain shapes responses to trauma, study suggests - Live Science",
-      "published": "2026-05-04T21:15:00+00:00",
-      "summary": "Estrogen in both the male and female brain shapes responses to trauma, study suggests&nbsp;&nbsp;Live Science",
-      "sources": [
-        {
-          "name": "Live Science",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdWVhNnlRT2pSSk5tQWItLXVZVDlJeW1UQTFpLXg1dXpkNXExc3Q4QjRaVGFpc3d2QVkyc2NlYThPX0xnUXJvZnFNZnNJZl84M25UTE9HRV9PS2VPSERxU3VqVTVkcjA1TTF4YVc5VEQwZ2ZLTFRYbDNHX0FTbDQ4dWpfX0d5UXIzeFhvTEkwY1RqR1pGaDJHUzhLZVBzc0VJN1FFZnJMTUdwNEdMdTBxenY0QnRJU3cxeG0tYy1UQWlCYTB3VjRHdjYwNFc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2f067847d861",
-      "title": "Eiffel Tower-sized asteroid Apophis to pass closer to Earth than many satellites in 2029, NASA says - Fox News",
-      "published": "2026-05-04T21:13:03+00:00",
-      "summary": "Eiffel Tower-sized asteroid Apophis to pass closer to Earth than many satellites in 2029, NASA says&nbsp;&nbsp;Fox NewsA 'Potentially Hazardous' Asteroid Will Pass Close to Earth in 2029 — and It Has an Alarming Nickname&nbsp;&nbsp;People.comHumanity 'at risk' from killer asteroids as NASA's defence 'not enough' to protect us&nbsp;&nbsp;Daily StarExLabs Preps Asteroid Rendezvous Mission&nbsp;&nbsp;Aviation Week'This is going to be what makes the Earth secure.' How one startup plans to protect us",
-      "sources": [
-        {
-          "name": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRGRvOUQ5OVdmU2NTSklEbGc1MGdQd2xVUjdpLTVTZXJ4ZFVxTnRhYWdlMm5wQ0VmVXp6Z2ozbUNCQVF1RkdfMDdIUXp5R0lkbmVrZzctd3J2TTlmdUZiVVo0dHVsaDQtWFFqV1lCRDJmN0Zfbm5vTG5aTzB2UE5mTDZtbWlMUFM0Y2E1cUVZNFY0cmJVU1Y4bDQtSjM5ZGZPcHk5RkFrbDRBZFZyamdmb2NCNERkMEHSAbwBQVVfeXFMTkRxbTJSazh2eG5IN0VKaTBla1ZqZ1dWLXo1S0RHU0dyRmpDLTdaOVRManhMalpKcHZPbmFPdm5VMlZvNzJqWHhPYktteHJvM3otVV82THVRaU1LWnRLa2k2T084azFhNFRSb2xrSzEyUkZzaTZFYmR3TUZGb2wyVU9fQ1NOdlJmb1AyanZhbVhkQ3Zfd056NGFmRUxFVW5hbWw2VVk2bFpwTFNRTjhoMExfeVNpRDZsNEdtbXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4fc58e00689a",
-      "title": "Buried electrical pathways across the US reveal new clues about Earth's interior and power grid risks - Phys.org",
-      "published": "2026-05-04T20:00:03+00:00",
-      "summary": "Buried electrical pathways across the US reveal new clues about Earth's interior and power grid risks&nbsp;&nbsp;Phys.org",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBucHpCaTBOMGRKZXJuVjNsZVhSczlsSmd3OVh6UlZiSGVvZ09OLXlXTWxROG15MjByWU9GWkhCSmFUbThyaktldkpRZGVwUnE0X2x5aWtydEhmeWdJcHdpMnV4SmJqSFR6WmUwNmRPUmF5NGdvTGMzc0kwU2Y0Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "072870aec70d",
-      "title": "New Research Shows How the Earliest Humans Got Their Meat - Gizmodo",
-      "published": "2026-05-04T19:00:43+00:00",
-      "summary": "New Research Shows How the Earliest Humans Got Their Meat&nbsp;&nbsp;Gizmodo1.6‑Million‑Year‑Old Fossils Show Early Humans Repeated a Successful Meat‑Gathering Strategy&nbsp;&nbsp;Discover MagazineForaging behavior in early humans&nbsp;&nbsp;Popular ArcheologyOur Human Ancestors Dined on Takeout&nbsp;&nbsp;Nautilus | ScienceEarly hominins in Kenya extracted animal bone marrow 1.6 million years ago&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYUg5MTh3ajl4cFpyNnBadE05WXloUFhwUjFRRGpRU3ZuQlE4dnZiZkFpcEk4MFp1OFFLMUFjckdKWTl0ajRUSnJ6WkluSklfUjltcGlYWktyRmhFNkk5LTF2MXRjRVYzcWFTMk4xWFQ3LXFVR2p0UFVsZUFBUkpSMmJNQzZNZlFOUThiN1Q0dXJYZw?oc=5"
+          "name": "MindBodyGreen",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVzFkQm1QNFVPQXF5TFhsckExakxseEtnREs4bFh4U2lJaDRMUTVTWnNxNGlCQTEyMDVKMmQ0SkRvRmNwUWJCWThWQXgta05JZ2otYjVjOTVtWFctbE9vSUxuZHZodmdham5PdUlSRTgwU2Z6VXpZWWhJeHY1U1h5cGVPdDlEUXIybmRPRWJKM1FPQW1jX3lJa0I1U3k1eWZzcVZVOGhIb2hqdVMtMWFGamNydzRKNWs?oc=5"
         }
       ]
     }

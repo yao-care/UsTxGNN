@@ -1,19 +1,55 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-08T13:57:20.858509+00:00",
-  "total_fetched": 77,
-  "unique_count": 77,
-  "health_related_count": 23,
+  "fetched_at": "2026-05-08T19:23:03.485037+00:00",
+  "total_fetched": 76,
+  "unique_count": 76,
+  "health_related_count": 24,
   "news": [
     {
-      "id": "0ebf5291bb6b",
-      "title": "Hantavirus latest updates: New case suspected as U.S. and other countries search for passengers who left cruise ship - Yahoo",
-      "published": "2026-05-08T13:43:54+00:00",
-      "summary": "Hantavirus latest updates: New case suspected as U.S. and other countries search for passengers who left cruise ship&nbsp;&nbsp;YahooOpinion | Here’s How Freaked Out You Should Be About the Hantavirus Cruise Ship&nbsp;&nbsp;The New York TimesHantavirus cruise ship: race to trace passengers who disembarked before outbreak&nbsp;&nbsp;BBCHantavirus cruise LIVE: Cruise passengers monitored in several US states as CDC sets lowest emergency response&nbsp;&nbsp;Live ScienceIs hantavirus in Texas? Cruis",
+      "id": "f805239d1fb5",
+      "title": "Hantavirus Cruise Ship: CDC Plans To Isolate Americans Exposed, Report Says (Live Updates) - Forbes",
+      "published": "2026-05-08T18:24:00+00:00",
+      "summary": "Hantavirus Cruise Ship: CDC Plans To Isolate Americans Exposed, Report Says (Live Updates)&nbsp;&nbsp;ForbesOpinion | Here’s How Freaked Out You Should Be About the Hantavirus Cruise Ship&nbsp;&nbsp;The New York Times‘This Is Not Going to Be the Next COVID’&nbsp;&nbsp;The AtlanticHantavirus cruise LIVE: Cruise passengers monitored in at least 5 US states as American passengers set to receive repatriation flight&nbsp;&nbsp;Live ScienceAmericans on hantavirus cruise ship reportedly to be quarantin",
       "sources": [
         {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQLXVmLUloS3Vld180dUp2WDJXOU8yYldheW4teWJGeUVkUWFtOFBNQ2pzVEttSkJWdlkxNzdGZUptTzIwNnVLLTJXSktNZHI2VGpxUi0wbW1WWXdVazNiekIwblg0MHMxd1pxWEtIUDRXTFVXVUFJS3ZkV1VRQ2xBZUgwNzlCSG5FRzNKeUpuMEYwRmhHT0luZUYxLWJXT3M3MUE3TjV6bkZ5clpHLWowZmx0dk1QZU1PbXItUjRhZzNVWjZOZzlRNzU4bTRqbExzN2txMWxtQ2tYYy14TmR2U1FSdG1UZGpYOEdUeU5XODhLTzRXWDNmdQ?oc=5"
+          "name": "Forbes",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbGJzMFVIX09iOTNpeXF5N0xLVkVMaGQ3dlZsN3JJUjhFMkNyTEdzX0k2Wlg4WGlJeFN0NjRPOHpfdmlkdUh2OGdlam1kNEQ4WUNDNzZ3OG9xMWdvNmZfZWhlMm1Qald0Z05ZeGpRR2tiRXBOTkU2N1RFS05QSkhTeFlmV25DUnY2cUYyQ0l1T2JuSW5JQk5GZ1lCRDNUaGVSMDJwbG5CMDlRQ3hCSTdiMHJBRGk5MFdROFA2QUltUzdXdnJyNFVFRHBQM1F0em5xZnQyeER1clFWYXNOV1JGSHJxREM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aa00cd312ada",
+      "title": "Engineers at NASA’s Jet Propulsion Lab make a breakthrough in rotor technology - Ars Technica",
+      "published": "2026-05-08T15:46:27+00:00",
+      "summary": "Engineers at NASA’s Jet Propulsion Lab make a breakthrough in rotor technology&nbsp;&nbsp;Ars TechnicaNASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1&nbsp;&nbsp;NASA (.gov)NASA tests confirm next-generation Mars rotors can safely break the sound barrier&nbsp;&nbsp;Interesting EngineeringSkyFall helicopter for Mars breaks the sound barrier&nbsp;&nbsp;Universe Space TechNASA's Next-Gen Mars Helicopter Rotors Are Moving Fast&nbsp;&nbsp;Mirage News",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVkRIU3hBcjVMSElmWk9ma0IwWEdZZFh6cmstS2hrN05BZkFnOGZFNUVtUVhnWlNIRGlNNm03Z3AxQmVqVmxaeGtfT3BRbXhmeXlIbHllcFU0MWNpRGg4aUhVYlNaeFkzZXlLaVdRenJkeFRDT3dVMzhOXzNpUXpTbHNkcmdaRmN3SjQzUXc1XzBWd3JFZElRZm1jb0l5dXhmUFB4b2hfRUs5TmRiM2RlaFlCR0ZUMGs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ef56dbc9a2dc",
+      "title": "Told He Had a Disorder at School. By 13 He Held a Molecular Biology Degree. Now at 15, He Engineers Enzymes That Eat Plastic - The Daily Galaxy",
+      "published": "2026-05-08T12:15:00+00:00",
+      "summary": "Told He Had a Disorder at School. By 13 He Held a Molecular Biology Degree. Now at 15, He Engineers Enzymes That Eat Plastic&nbsp;&nbsp;The Daily Galaxy",
+      "sources": [
+        {
+          "name": "The Daily Galaxy",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUVh5S0owMmNLYk1TbnduLURnb3RnSzlUN1NBNmJGLUJkeVhGT3F2NXl6UXU5UmMxSWhTelViNGdYb0FkV2JaSmhYVHYtYXROQ3k1RWVGTXN3Tm9iNGRXaFJRMjdSQ3R1aGF2NThxNHNTeEZqZ091ckRUWWVELTdPT19XZXFPclFrSlJV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0d0d291c84ee",
+      "title": "Scientists discover a new way to prevent gum disease without killing good bacteria - ScienceDaily",
+      "published": "2026-05-08T09:29:14+00:00",
+      "summary": "Scientists discover a new way to prevent gum disease without killing good bacteria&nbsp;&nbsp;ScienceDailyInvisible smart bug fights gum disease&nbsp;&nbsp;EurekAlert!",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRbW5JTHU4dVhaaXhZNUhqcDhjeVBpYkEzMFRZUlhObURVaUdfalJCTDFIS0ptMWJHNlRveHdqYVpLVFdJRmFJbkF2YzRycFo5d3ZDb09QeTc3eF9xVmFlb25rcS05M3g3ZE9BcTRVVQ?oc=5"
         }
       ]
     },
@@ -33,7 +69,7 @@
       "id": "a344ef13e9f3",
       "title": "Scientists make stunning discovery that could change our understanding of the Universe - ScienceDaily",
       "published": "2026-05-08T07:42:05+00:00",
-      "summary": "Scientists make stunning discovery that could change our understanding of the Universe&nbsp;&nbsp;ScienceDailySee more headlines & perspectives on Google News",
+      "summary": "Scientists make stunning discovery that could change our understanding of the Universe&nbsp;&nbsp;ScienceDailyStudy suggests Universe may be finely tuned for life, scientists say&nbsp;&nbsp;The Business Standard",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -57,7 +93,7 @@
       "id": "a48a483dea4f",
       "title": "Eating eggs could cut Alzheimer’s risk by 27% - ScienceDaily",
       "published": "2026-05-07T22:24:31+00:00",
-      "summary": "Eating eggs could cut Alzheimer’s risk by 27%&nbsp;&nbsp;ScienceDailyAlzheimer’s risk slashed by eating more of one common food, study suggests&nbsp;&nbsp;Fox NewsEggs and brain health: New study cracks open Alzheimer’s link&nbsp;&nbsp;WZTVStudy: Egg consumption is associated with a lower risk of Alzheimer’s Disease&nbsp;&nbsp;Loma Linda UniversityA dozen things you need to know about your eggs&nbsp;&nbsp;The Times",
+      "summary": "Eating eggs could cut Alzheimer’s risk by 27%&nbsp;&nbsp;ScienceDailyAlzheimer’s risk slashed by eating more of one common food, study suggests&nbsp;&nbsp;Fox NewsAlzheimer’s study finds link between breakfast staple and reduced risk of disease&nbsp;&nbsp;The HillEggs and brain health: New study cracks open Alzheimer’s link&nbsp;&nbsp;WZTVStudy: Egg consumption is associated with a lower risk of Alzheimer’s Disease&nbsp;&nbsp;Loma Linda University",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -69,23 +105,11 @@
       "id": "9825848690a0",
       "title": "As measles roars back, scientists find antibodies that could offer protection - The Washington Post",
       "published": "2026-05-07T22:00:00+00:00",
-      "summary": "As measles roars back, scientists find antibodies that could offer protection&nbsp;&nbsp;The Washington PostResearchers identify antibodies that may prevent and treat measles infections&nbsp;&nbsp;ReutersFirst measles treatment advances as vaccination rates drop&nbsp;&nbsp;BioWorld NewsNew findings from La Jolla Institute for Immunology suggest a possible measles treatment&nbsp;&nbsp;San Diego Union-TribuneScientists take crucial step in developing world's first measles treatment&nbsp;&nbsp;Medi",
+      "summary": "As measles roars back, scientists find antibodies that could offer protection&nbsp;&nbsp;The Washington PostFirst measles treatment advances as vaccination rates drop&nbsp;&nbsp;BioWorld NewsResearchers identify antibodies that may prevent and treat measles infections&nbsp;&nbsp;ReutersNew findings from La Jolla Institute for Immunology suggest a possible measles treatment&nbsp;&nbsp;San Diego Union-TribuneAntibodies that stop measles from stabbing cells could become new treatments for the surgi",
       "sources": [
         {
           "name": "The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVE5Xem1rWGJPYmg5M3o3SEF0S3ZXSXVBWWlKX1E0bHNYWDBST3hmQ2JqZG5GTW5aemFQMDJFajhabXBzNHR5Zjk4UVpBRDBLQkJkV1VTUlE4d1lvNzZiZDJrRFFuQUY5aEdHUHQzR3pfZE9udGJ1WkNBVm83S09BSlBFSVJ6YlpxMEROenNHdE5rVmozaUNjektMNmRObWs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e7edbe08b3ea",
-      "title": "Webb space telescope finds a giant galaxy that doesn’t spin - ScienceDaily",
-      "published": "2026-05-07T21:52:12+00:00",
-      "summary": "Webb space telescope finds a giant galaxy that doesn’t spin&nbsp;&nbsp;ScienceDailyNon-Rotating Early Galaxy Is a Surprise to Astronomers&nbsp;&nbsp;UC DavisWebb Discovers Slow-Rotating Galaxy in Early Universe&nbsp;&nbsp;Sci.NewsUC Davis researchers investigate young galaxy that isn’t spinning&nbsp;&nbsp;KCRAAn Ancient Galaxy 'Hangs' at the Edge of Space: It Does Not Rotate&nbsp;&nbsp;Inbox.eu",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBST0dwSWlHdE5TSFhjOXRXUjRSQ1ZIVVJDZFVjbTliaHpQZkxNbWt4M09KUW1jMlFiYTVvWWNRNzJ6NlZRUm81elRsUlVEWG8tS05sc2V6ZXB4TG0wdmlHOWJNbkJYLXRYMldSVHplZw?oc=5"
         }
       ]
     },
@@ -102,6 +126,18 @@
       ]
     },
     {
+      "id": "2a10d694f1a9",
+      "title": "No, Ivermectin Is Not Proven To Treat Hantavirus - Forbes",
+      "published": "2026-05-07T19:23:24+00:00",
+      "summary": "No, Ivermectin Is Not Proven To Treat Hantavirus&nbsp;&nbsp;ForbesIs there a treatment for hantavirus?&nbsp;&nbsp;The Hill‘Ivermectin should work…’: Doctor gives possible Hantavirus solution after Georgia update&nbsp;&nbsp;Hindustan TimesCan ivermectin cure hantavirus? Controversial Covid treatment touted for rat disease outbreak&nbsp;&nbsp;New York PostIs this 2020 all over again? Some Republicans want horse dewormer to fend off hantavirus&nbsp;&nbsp;NJ.com",
+      "sources": [
+        {
+          "name": "Forbes",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPazc2RHpWQU05aVhUWU5mS2R4QVNHZ3g4UjZIQlBIZVp2MFpJY3BKWDF6SEx3bkpTRmVEVWJkSTJrTW1MNnhUVGtJV3kwd0ZFbWNPWkJmbEtsLTljNzdJazg5NUVib0dkTHhRdnhNR1JDYVpWazJ6QVBaX1JVeUx1amd4QUx2eWd5R3FSM0o1Q2p4d2N0WEIzTU5ZanByLXRYOVY4?oc=5"
+        }
+      ]
+    },
+    {
       "id": "be433e7be2e1",
       "title": "Where does Earth's mysterious 'ring current' come from? NASA and the US Space Force are launching a mission to find out - Space",
       "published": "2026-05-07T18:01:01+00:00",
@@ -110,6 +146,18 @@
         {
           "name": "Space",
           "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbUhVYldXaXpfN2xuMGNTeDVBQkYyWWZMRU10V0otOHp5dkZwVHNFd09HNDFTVXhHRDdTemxyM2pFdy15VWN6ZmNKdGdLajAtWnBaRGczWi1QSmFhTWR3ZmUtbmIwV3lyOGhPNnZDcXRtZS15OVRDSkhQc1NieGszQ1lVanFiN3FwZF92UXBCOU1PUEFTQ3ZsLWhldHhLSXNIWGpwaUVSbjh3bTB0VXRXTW9mMmdiRFNhTGZLMHdQNVQ3NXB4S25wdVg1Uk9zaFZEWW1WSlJ3R2dGbTZjRlB5Rkt3dFZma0lTdjJIZXB0T1FOdDRoZ19Kci1UejY5bXNlNmg4UDBn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "15cb620065ea",
+      "title": "Researchers combine five metals to build a better nanocrystal - Phys.org",
+      "published": "2026-05-07T18:00:11+00:00",
+      "summary": "Researchers combine five metals to build a better nanocrystal&nbsp;&nbsp;Phys.orgFigure 3. Schematic illustration of multicomponent nanoparticle formation via competitive reactivity and its application in hydrogen catalysis&nbsp;&nbsp;EurekAlert!금속 많을수록 더 균일해진다…나노 입자 ‘역설’ 풀었다&nbsp;&nbsp;동아사이언스Stanford Scientists Engineer Superior Nanocrystals Using a Five-Metal Alloy&nbsp;&nbsp;Bioengineer.orgResearchers synthesize uniform nanocrystals from five distinct metals&nbsp;&nbsp;Interesting Engineering",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05a2FpU3pqMkxLbVZQNl9ZeENyVG5XSUp5SzktWHZXZXZ5VnVqeDFBSkdyN2lyVXExWHBaZGFJT2dxczBPaG5JYlhNclVOektqY1VtVnNpQUJmTkN2eHNfckhMMkoycFJPMEtsVDZB?oc=5"
         }
       ]
     },
@@ -126,6 +174,18 @@
       ]
     },
     {
+      "id": "60d350a0d130",
+      "title": "About Half of Patients with Metastatic Lung Cancer Don’t Get Treatment, Study Finds - The New York Times",
+      "published": "2026-05-07T15:34:10+00:00",
+      "summary": "About Half of Patients with Metastatic Lung Cancer Don’t Get Treatment, Study Finds&nbsp;&nbsp;The New York TimesDespite breakthroughs, many go without treatment for metastatic lung cancer&nbsp;&nbsp;Medical XpressNearly Half of Older Adults With Metastatic Lung Cancer Went Untreated&nbsp;&nbsp;CUREtoday.comPrecision Medicine in Treating Lung Cancer: A Narrative Review on Treatments Targeting Oncogenic Genetic Mutations&nbsp;&nbsp;Cureus65 % of eligible lung cancer patients do not receive the mo",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xeVdnaG04bURZbC1jVXk1eF8zRTkyUjA5WXhnS3BkYnFibFhmSjk1LUM2MThCb0pUaFJLY3hOTWVETFFZMVFmUEdSemZpa2RkQXlkVWZYQVhDTzEySktGT0Njdy1Pd19MTG1fenhqSjNaN2dJMXNZZHNNQnBIUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9851ae83b1e7",
       "title": "A researcher may have found a shortcut to Mars as NASA eyes red planet - Yahoo News UK",
       "published": "2026-05-07T15:05:39+00:00",
@@ -134,18 +194,6 @@
         {
           "name": "Yahoo News UK",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQW1fRXFpbGxjQUQ4eDltbGtKcEhQTEJBY0FrNS03UWZYWGFPM1UxNUJOVkxfVlRxVVZJa2RxeUVybU82VVNmcExLTGFEaEx6OERBcGtlSFc3d25pU01MbzNOUVJlek9xSG9vSkRydHZqZFNDeFdtQnhoWWZvVnB4NQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "60d350a0d130",
-      "title": "About Half of Patients with Metastatic Lung Cancer Don’t Get Treatment, Study Finds - The New York Times",
-      "published": "2026-05-07T15:01:03+00:00",
-      "summary": "About Half of Patients with Metastatic Lung Cancer Don’t Get Treatment, Study Finds&nbsp;&nbsp;The New York TimesDespite breakthroughs, many go without treatment for metastatic lung cancer&nbsp;&nbsp;Medical XpressPrecision Medicine in Treating Lung Cancer: A Narrative Review on Treatments Targeting Oncogenic Genetic Mutations&nbsp;&nbsp;Cureus65 % of eligible lung cancer patients do not receive the most appropriate targeted therapies, Diaceutics report finds&nbsp;&nbsp;News-Medical",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xeVdnaG04bURZbC1jVXk1eF8zRTkyUjA5WXhnS3BkYnFibFhmSjk1LUM2MThCb0pUaFJLY3hOTWVETFFZMVFmUEdSemZpa2RkQXlkVWZYQVhDTzEySktGT0Njdy1Pd19MTG1fenhqSjNaN2dJMXNZZHNNQnBIUQ?oc=5"
         }
       ]
     },
@@ -162,26 +210,26 @@
       ]
     },
     {
-      "id": "e55c6e26cc1b",
-      "title": "An army of ticks is sending more Marylanders to the ER - thebanner.com",
-      "published": "2026-05-07T09:30:00+00:00",
-      "summary": "An army of ticks is sending more Marylanders to the ER&nbsp;&nbsp;thebanner.comTick bite ER visits surge across Northeast, CDC data show&nbsp;&nbsp;Times UnionTicks in Illinois: Weekly emergency visits for tick bites on the rise in Midwest over concerns of Lyme disease, Alpha-gal syndrome&nbsp;&nbsp;ABC7 Chicago'Anyone who enjoys the outdoors is at risk': Ohio health officials warn of tick, Lyme disease surge&nbsp;&nbsp;Spectrum NewsTake Precautions to Prevent Tick Bites |&nbsp;&nbsp;Wisconsin D",
+      "id": "dfbbb6b0bcc3",
+      "title": "Fungal strains in space spark worry - Yahoo",
+      "published": "2026-05-07T11:24:56+00:00",
+      "summary": "Fungal strains in space spark worry&nbsp;&nbsp;YahooFungi homes – and more ways biology could sustain life beyond Earth&nbsp;&nbsp;AeonCould this fungus live on Mars? Maybe it already does&nbsp;&nbsp;Scientific AmericanOutward Bound – The Issue of Planetary Protection by Earthly Critters&nbsp;&nbsp;Inside Outer SpaceStudy reveals fungal strains can survive sterilization procedures and Martian conditions&nbsp;&nbsp;R&amp;D World",
       "sources": [
         {
-          "name": "thebanner.com",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSnZ4RFI3UjlId1RyUEhtYk9lNlJiM3dhRWxEZUJNNGtHLVVneEpzZTF6RklvX01jRGZrMy1rTWc4TXZiOGNSa2NUbGppWVg5Q2s2UnRXT0l5NmZ2X0w3VGtQRWktZzRnZ1ZXbnBnVzV4a3N2aG1zelBMRXowVnhvTE5aY3gxSFc3Yjk4N2dRejFKZG1MdzhfTGtNbWlJeURkc1piR2UwUTkwRWwtZjFPSGVB?oc=5"
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ1dJcjZmUkd5aVh0ZEpVT0liWUd3UkYzM0xtSnV2WWFUQ2h5Wl9rQ0xQMnlLWVl0bFZxXzg3XzEzTmZUb1B0Y2JXNDZlMElXcXE4ZE1uclh5blZHNTV1dnRaWFVtRHFpX2tqYVAtWmpaV05wMTZGa1k0UmZwdnY5U2tpdk1ydkxnTUZz?oc=5"
         }
       ]
     },
     {
-      "id": "52a4ef32b7ec",
-      "title": "NASA rover captures weird 'spiderwebs' on Mars, giving scientists fresh hope of finding ancient life on the Red Planet - BBC Sky at Night Magazine",
-      "published": "2026-05-07T08:21:38+00:00",
-      "summary": "NASA rover captures weird 'spiderwebs' on Mars, giving scientists fresh hope of finding ancient life on the Red Planet&nbsp;&nbsp;BBC Sky at Night MagazineNASA's Curiosity and Perseverance rovers capture sweeping Mars panoramas (video)&nbsp;&nbsp;SpaceNASA’s Perseverance Mars Rover Surveys ‘Crocodile Bridge’&nbsp;&nbsp;NASA Science (.gov)NASA's Perseverance Rover Spots 'Crocodile Bridge' On Mars. What Is It?&nbsp;&nbsp;NDTVUCLA researchers uncover buried ancient delta on Mars&nbsp;&nbsp;Technolo",
+      "id": "ed4ca4775051",
+      "title": "Rapidly melting Antarctic ice shelves may cause global sea levels to rise far faster than expected - Phys.org",
+      "published": "2026-05-07T09:00:06+00:00",
+      "summary": "Rapidly melting Antarctic ice shelves may cause global sea levels to rise far faster than expected&nbsp;&nbsp;Phys.orgA ‘triple whammy’ of chaos has triggered a downward spiral in Antarctica, scientists discover&nbsp;&nbsp;CNNResearchers issue climate change warning as sea ice in Antarctica melts to record lows&nbsp;&nbsp;The IndependentChannelized topography amplifies melt-sensitivity of cold Antarctic ice shelves&nbsp;&nbsp;NatureGlacier melt causes sea levels to rise more than previously thou",
       "sources": [
         {
-          "name": "BBC Sky at Night Magazine",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRVFOYmtjV0lwcGNySmp6alVUZG9fUHBadnBCME1tcG1MZXlJS3pFWHc4S19kZDlrZUEzcklaU3VXS1hLdzBUa1dIVmlNSnU2RGxRWC1lVXJkMF85eWY4M0FRbzBRdVRwVjQ4djMtaVA3SXFYY0d5RDg4YjU3eXlRY3ROU0lsQQ?oc=5"
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92MHhwVjQ5ZlVnOUthZWRsOHFDNmNwZl9POVg3V2pwSWFyNV9JM0I3X1JzZmRBLWVnSDlHTjE5RzM4M1FHOTljdDdBMnNQUXhzdERRYjJyWEg1YTVrSExnRi1xb2N1N1l3djJzbk00c3p2cDdtNFNkQlI0MA?oc=5"
         }
       ]
     },
@@ -189,35 +237,11 @@
       "id": "5ae2aae396df",
       "title": "Scientists Gave ‘Aggressive’ Fish Psychedelic Drugs. A Breakthrough Came Next - 404 Media",
       "published": "2026-05-07T04:06:27+00:00",
-      "summary": "Scientists Gave ‘Aggressive’ Fish Psychedelic Drugs. A Breakthrough Came Next&nbsp;&nbsp;404 MediaKey magic mushroom ingredient makes fish less aggressive and lazier&nbsp;&nbsp;Medical XpressMagic mushrooms make mean fish lazier and more chill&nbsp;&nbsp;Popular SciencePsilocybin Dampens Aggression and Attack Behaviors&nbsp;&nbsp;Neuroscience NewsResearch shows magic mushrooms make fish lazier and less aggressive&nbsp;&nbsp;Indiana Gazette Online",
+      "summary": "Scientists Gave ‘Aggressive’ Fish Psychedelic Drugs. A Breakthrough Came Next&nbsp;&nbsp;404 MediaMagic mushrooms make mean fish lazier and more chill&nbsp;&nbsp;Popular ScienceKey magic mushroom ingredient makes fish less aggressive and lazier&nbsp;&nbsp;Medical XpressPsilocybin Dampens Aggression and Attack Behaviors&nbsp;&nbsp;Neuroscience NewsResearch shows magic mushrooms make fish lazier and less aggressive&nbsp;&nbsp;Indiana Gazette Online",
       "sources": [
         {
           "name": "404 Media",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2JKYXVFQTgtY1hfYmNVRHlYazZlWkRQei1ibUlCeFEzNzNiZWVoNlRzUzI3ajJmWjZ1eFVETktCYVlLRFFCNXhIdFlDUlM0QW93cnB2bHQwcUdETUdYSTVyajdLRGQ1OUhWSzVQYTVKcnNpbjNzZzNsMlVxbl9RVw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f44c88ee8ce5",
-      "title": "Scientists Reveal How Exercise Benefits Every Part of Your Body - ScienceAlert",
-      "published": "2026-05-07T02:55:28+00:00",
-      "summary": "Scientists Reveal How Exercise Benefits Every Part of Your Body&nbsp;&nbsp;ScienceAlertYou know exercise is good for you – so why is it so hard to put it into practice? | Health | hpenews.com&nbsp;&nbsp;hpenews.comExercise is so beneficial that doctors wish it were a pill they could prescribe&nbsp;&nbsp;UCHealth",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV2JtbExiZFNwNnF3a2N3dlZzQjFlVHd3RmNiX0VyVUh4eG5OQUZHUDJjYUtJVkVNc0FMczNxakV1VEtjNWVEVFhUaWFPYXFlbU50dzlSRTV3VEp1TFktVE4yZ1FOMjBoQkxaTTJOSmNORmN4UjBtQ0ZsYUppT1U3MVRINGJwb0p3UlNOZ3A0RGZvNXdCU0Zv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1c862856c72f",
-      "title": "New Jersey beaver attack: 8-year-old boy injured by animal at park in Mahwah, NJ - ABC7 Los Angeles",
-      "published": "2026-05-07T01:46:34+00:00",
-      "summary": "New Jersey beaver attack: 8-year-old boy injured by animal at park in Mahwah, NJ&nbsp;&nbsp;ABC7 Los AngelesRabid beaver attacks boy fishing at New Jersey lake, prompting health officials to warn residents&nbsp;&nbsp;Fox NewsWatch: Child attacked by rabid beaver while fishing at New Jersey lake&nbsp;&nbsp;LiveNOW from FOXAngry Beaver Attacks 8 Year Old Boy At Mahwah Park&nbsp;&nbsp;News12 | New JerseyWatch: Rabid beaver fought off after attacking several people in New Jersey park&nbsp;&nbsp;FOX ",
-      "sources": [
-        {
-          "name": "ABC7 Los Angeles",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUjdySm1uemRPRWNRUHJYLXE4T1VucUVtTUpLV2FQYjhiQXVIQk45SC1FRW8xenM2Mm5JNERlOUIyMmQ1b290c1hUQzlKSGdZSjNfWFNDU2U2ZVQ2bE1yTzFwU0J0amQ3U1Q1TzBlc3VPbkw2ZlR4UXd3QS05N244a3o3OURyNGVMQTd3RkFEMThQUWVaTEVTRi1DR01nRTV3UUJ30gGoAUFVX3lxTE1STEFZMDhzUllNV1R2Mm92a0puVHNOLXJRR0tINTFtRzVqY2xUMXRiakEwSzd1cGpYUUMyQ1R5SGNGTmJZZEhueHZER1ZGSnNheWFYN09jd2x6dGRxVE84TFdHV3NsWHZZdzhRc2NicUJlcFA2YnJuNllsYmRjNFZiZUIyMmVoTmVmcjhQY21pcEJ4UkN5eFVzYnliMFJtd1RrTDRRbmY3QQ?oc=5"
         }
       ]
     },
@@ -237,7 +261,7 @@
       "id": "a4393b321172",
       "title": "Magnetic 'super lenses' open new window on high-temperature superconductors - Phys.org",
       "published": "2026-05-06T23:40:03+00:00",
-      "summary": "Magnetic 'super lenses' open new window on high-temperature superconductors&nbsp;&nbsp;Phys.orgA new perspective on high-temperature superconductors: Magnetic “super lenses” for research under extreme pressure&nbsp;&nbsp;idw – Informationsdienst WissenschaftFor the first time, researchers are peering inside record-breaking superconductors&nbsp;&nbsp;chemeurope.com",
+      "summary": "Magnetic 'super lenses' open new window on high-temperature superconductors&nbsp;&nbsp;Phys.orgA new perspective on high-temperature superconductors: Magnetic “super lenses” for research under extreme pressure&nbsp;&nbsp;idw - Informationsdienst WissenschaftFor the first time, researchers are peering inside record-breaking superconductors&nbsp;&nbsp;chemeurope.com",
       "sources": [
         {
           "name": "Phys.org",
@@ -266,18 +290,6 @@
         {
           "name": "Pittsburgh Post-Gazette",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeTRLeDVKVWNMZV9IQnhqd2MzektoMXJESXlRZ3JuQXZrM0REeTV1SGNyV0VqQ1Z1Skhzd3EyOGptUTU2N1FUOW52RGdBOVA5TDdhc0J0M3BMRTRFaTZLdnpKRk9ab3U5Tk9mZDY0NE9zUjlaeFFYSlhYLUZ4Y1NIMjBGV3V6eGpEREtsNWNNZDRGSGtvcUxfbThkMzdlVUhab1hybXE4am1xZjVfWVM0bA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3e62087b0ac6",
-      "title": "Does Time Exist in Two States at Once? Optical Ion Clocks Could Reveal the Quantum Nature of Time, New Research Says - The Debrief",
-      "published": "2026-05-06T18:42:29+00:00",
-      "summary": "Does Time Exist in Two States at Once? Optical Ion Clocks Could Reveal the Quantum Nature of Time, New Research Says&nbsp;&nbsp;The DebriefSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "The Debrief",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZGQwb2hINHpvYUJHajBhN3QwQTRkSm9ybHU2SkpFdk1oUzU2ZFNVa3ZuMVVkeUxzUU5rbURpSG5sVmhlbWd4aEIwd3U4bXpJeEhfNG5VaUJzTFpwN0I0dV9FQnhZbEpqTFYwMm0yWnZwVEQ0SFV2YndCSWJVWE4xLW1ibkNSYzB4UHM2RUZNRVQxZ0c5R3NhaXpjOG5WRFRLWTBhWGRNd2I3RzNvRXhkd05wT0pmM3prTVd6ZVFUUlhleGpEc295d195c2xseWdCb3djTw?oc=5"
         }
       ]
     }

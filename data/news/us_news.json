@@ -1,19 +1,43 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-08T03:26:27.021854+00:00",
-  "total_fetched": 71,
-  "unique_count": 71,
-  "health_related_count": 18,
+  "fetched_at": "2026-05-08T07:45:59.276621+00:00",
+  "total_fetched": 72,
+  "unique_count": 72,
+  "health_related_count": 21,
   "news": [
     {
-      "id": "c70a085e2015",
-      "title": "Health Officials Race to Track Hantavirus Cruise Ship Outbreak but Predict ‘Limited’ Spread - nytimes.com",
-      "published": "2026-05-08T00:55:32+00:00",
-      "summary": "Health Officials Race to Track Hantavirus Cruise Ship Outbreak but Predict ‘Limited’ Spread&nbsp;&nbsp;nytimes.comOpinion | Here’s How Freaked Out You Should Be About the Hantavirus Cruise Ship&nbsp;&nbsp;nytimes.comHow public health officials are tracing people who came in contact with hantavirus victims&nbsp;&nbsp;The HillHealth officials track dozens who left hantavirus-stricken ship after first fatality&nbsp;&nbsp;AP NewsTIMELINE | How hantavirus spread on a cruise ship as it sailed across t",
+      "id": "46b206c877fb",
+      "title": "2 Hantavirus Cruise Passengers Are Texas Residents (Live Updates) - Forbes",
+      "published": "2026-05-08T04:27:00+00:00",
+      "summary": "2 Hantavirus Cruise Passengers Are Texas Residents (Live Updates)&nbsp;&nbsp;ForbesThird British national has suspected hantavirus infection, government says&nbsp;&nbsp;BBCSome passengers on the cruise with hantavirus outbreak are back in California&nbsp;&nbsp;NBC Bay AreaHealth officials track dozens who left hantavirus-stricken ship after first fatality&nbsp;&nbsp;AP NewsVirginia monitors for possible hantavirus&nbsp;&nbsp;WWBT",
       "sources": [
         {
-          "name": "nytimes.com",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbEpVbXdaN3Z2bXFyVlBOWkFvTm9ESzVBTFBYS1lJWnYzenJUSnJXNmRvaDBTT2RKVGI3X2d6bDduQnZ6QzYxeGtQdjVIdGZELXMzVGktN2Z6bllzaWRfLWpFS01zOHU3Q1RxQy16OEpMTWlTUndCb1BXYmNOU2lTcmJZYVFhVUZMajFUWA?oc=5"
+          "name": "Forbes",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNeXk4WF9WaG1OT1NSQU9DQVR2RkhKUElaTW54ck9TeGxPaHFHTXYya1ZPby1GY3ZvM1VxMHlZMEVhTFE3UHNUZTNoVGVUQVRoZFc1VnFuTjQ5TUpTTHZlaVhseUZ5S1RiUDVEaS1DMzBMdmFVR0xZUW5ZTkJOc1hyaExTb1NYWnRBdUNFbEQwZXgySUJMa3ktTWU4bzB4RjB3b1dJb19sdGdUdTdJQXdRSjhyaC1FaU01aXB2NEdjZk5ZYXNYa3RYLVdyVlhNRXVQbzhIc1pkQlNxdjJVYkE2MFF4NzJ3VVRsd0xyNVdxZHdYUXQ1YkRuLWdTTXc1TzhMQnV2NjZzODRRY1VfblE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ab4d134727b4",
+      "title": "Is The Brain Born 'Blank' or 'Full'? New Study Reveals a Surprise - ScienceAlert",
+      "published": "2026-05-08T02:26:02+00:00",
+      "summary": "Is The Brain Born 'Blank' or 'Full'? New Study Reveals a Surprise&nbsp;&nbsp;ScienceAlertSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV21Ia005cV81R1RWZ3MzbDBNdHliTzZ4YkQzcjBoN3VzOFc2U0xybi1hejJqa0RqdWw3LURMYVk1QmUzcldrbUEyMzd1cExjLTB3bGloSW53U1RjQXVHWFRwNDhra3RaTkEyNkRMR1hoRHVzTktfNGNRdXljRHFUVUxNdHQ4M05EdDlJcTNDcF9zejg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e7edbe08b3ea",
+      "title": "Webb space telescope finds a giant galaxy that doesn’t spin - ScienceDaily",
+      "published": "2026-05-07T21:52:12+00:00",
+      "summary": "Webb space telescope finds a giant galaxy that doesn’t spin&nbsp;&nbsp;ScienceDailyA massive and evolved slow-rotating galaxy in the early Universe&nbsp;&nbsp;NatureNon-Rotating Early Galaxy Is a Surprise to Astronomers&nbsp;&nbsp;UC DavisUC Davis researchers investigate young galaxy that isn’t spinning&nbsp;&nbsp;KCRAWebb Discovers Slow-Rotating Galaxy in Early Universe&nbsp;&nbsp;Sci.News",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBST0dwSWlHdE5TSFhjOXRXUjRSQ1ZIVVJDZFVjbTliaHpQZkxNbWt4M09KUW1jMlFiYTVvWWNRNzJ6NlZRUm81elRsUlVEWG8tS05sc2V6ZXB4TG0wdmlHOWJNbkJYLXRYMldSVHplZw?oc=5"
         }
       ]
     },
@@ -33,7 +57,7 @@
       "id": "be433e7be2e1",
       "title": "Where does Earth's mysterious 'ring current' come from? NASA and the US Space Force are launching a mission to find out - Space",
       "published": "2026-05-07T18:01:01+00:00",
-      "summary": "Where does Earth's mysterious 'ring current' come from? NASA and the US Space Force are launching a mission to find out&nbsp;&nbsp;SpaceNASA and Space Force launch STORIE to study ring current&nbsp;&nbsp;NewsBytesStrange Space Donut Wraps Around Earth, NASA Is Going Up to See What Gives&nbsp;&nbsp;autoevolutionNASA’s STORIE Set To Observe Earth’s Ring Current&nbsp;&nbsp;Orbital TodayNASAs STORIE Mission Explores Earths Ring Current&nbsp;&nbsp;Mirage News",
+      "summary": "Where does Earth's mysterious 'ring current' come from? NASA and the US Space Force are launching a mission to find out&nbsp;&nbsp;SpaceNASA and Space Force launch STORIE to study ring current&nbsp;&nbsp;NewsBytesNASA's new STORIE mission to provide fresh inside-out view of 'space doughnut' around Earth&nbsp;&nbsp;starlust.orgStrange Space Donut Wraps Around Earth, NASA Is Going Up to See What Gives&nbsp;&nbsp;autoevolutionNASA’s STORIE Set To Observe Earth’s Ring Current&nbsp;&nbsp;Orbital Toda",
       "sources": [
         {
           "name": "Space",
@@ -66,10 +90,22 @@
       ]
     },
     {
+      "id": "8f2509c2217e",
+      "title": "About Half of Patients with Metastatic Lung Cancer Don’t Get Treatment, Study Finds - nytimes.com",
+      "published": "2026-05-07T15:01:03+00:00",
+      "summary": "About Half of Patients with Metastatic Lung Cancer Don’t Get Treatment, Study Finds&nbsp;&nbsp;nytimes.comDespite breakthroughs, many go without treatment for metastatic lung cancer&nbsp;&nbsp;Medical XpressPrecision Medicine in Treating Lung Cancer: A Narrative Review on Treatments Targeting Oncogenic Genetic Mutations&nbsp;&nbsp;Cureus65 % of eligible lung cancer patients do not receive the most appropriate targeted therapies, Diaceutics report finds&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "nytimes.com",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xeVdnaG04bURZbC1jVXk1eF8zRTkyUjA5WXhnS3BkYnFibFhmSjk1LUM2MThCb0pUaFJLY3hOTWVETFFZMVFmUEdSemZpa2RkQXlkVWZYQVhDTzEySktGT0Njdy1Pd19MTG1fenhqSjNaN2dJMXNZZHNNQnBIUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0882c0fe66cf",
       "title": "How do the biggest black holes in the universe form? Ripples in spacetime provide a clue - Space",
       "published": "2026-05-07T13:00:00+00:00",
-      "summary": "How do the biggest black holes in the universe form? Ripples in spacetime provide a clue&nbsp;&nbsp;SpaceThese monster black holes did not form the usual way—their history of violence is written into spacetime ripples&nbsp;&nbsp;Phys.orgStudy links biggest black holes to repeated cosmic collisions&nbsp;&nbsp;Courthouse NewsEvidence for a 'forbidden range' of black hole masses emerges in gravitational wave observations&nbsp;&nbsp;Physics WorldLargest black holes formed by violent mergers, rather ",
+      "summary": "How do the biggest black holes in the universe form? Ripples in spacetime provide a clue&nbsp;&nbsp;SpaceThese monster black holes did not form the usual way—their history of violence is written into spacetime ripples&nbsp;&nbsp;Phys.orgStudy links biggest black holes to repeated cosmic collisions&nbsp;&nbsp;Courthouse NewsThe Universe’s biggest black holes may be forged in violent mergers&nbsp;&nbsp;ScienceDailyLargest black holes formed by violent mergers, rather than collapsing stars&nbsp;&nb",
       "sources": [
         {
           "name": "Space",
@@ -90,14 +126,14 @@
       ]
     },
     {
-      "id": "ed4ca4775051",
-      "title": "Rapidly melting Antarctic ice shelves may cause global sea levels to rise far faster than expected - Phys.org",
-      "published": "2026-05-07T09:00:06+00:00",
-      "summary": "Rapidly melting Antarctic ice shelves may cause global sea levels to rise far faster than expected&nbsp;&nbsp;Phys.orgUnusually Warm Water Detected Creeping Toward Antarctica – and Scientists Are Alarmed&nbsp;&nbsp;SciTechDailyChannelized topography amplifies melt-sensitivity of cold Antarctic ice shelves&nbsp;&nbsp;NatureStudy reveals that heat from the deep ocean is approaching Antarctica&nbsp;&nbsp;yourweather.co.ukRapidly melting Antarctic ice shelves may cause global sea levels to rise even",
+      "id": "52a4ef32b7ec",
+      "title": "NASA rover captures weird 'spiderwebs' on Mars, giving scientists fresh hope of finding ancient life on the Red Planet - BBC Sky at Night Magazine",
+      "published": "2026-05-07T08:21:38+00:00",
+      "summary": "NASA rover captures weird 'spiderwebs' on Mars, giving scientists fresh hope of finding ancient life on the Red Planet&nbsp;&nbsp;BBC Sky at Night MagazineNASA's Curiosity and Perseverance rovers capture sweeping Mars panoramas (video)&nbsp;&nbsp;SpaceNASA’s Perseverance Mars Rover Surveys ‘Crocodile Bridge’&nbsp;&nbsp;NASA Science (.gov)UCLA researchers uncover buried ancient delta on Mars&nbsp;&nbsp;Technology OrgNASA's Perseverance Rover Spots 'Crocodile Bridge' On Mars. What Is It?&nbsp;&nbs",
       "sources": [
         {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92MHhwVjQ5ZlVnOUthZWRsOHFDNmNwZl9POVg3V2pwSWFyNV9JM0I3X1JzZmRBLWVnSDlHTjE5RzM4M1FHOTljdDdBMnNQUXhzdERRYjJyWEg1YTVrSExnRi1xb2N1N1l3djJzbk00c3p2cDdtNFNkQlI0MA?oc=5"
+          "name": "BBC Sky at Night Magazine",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRVFOYmtjV0lwcGNySmp6alVUZG9fUHBadnBCME1tcG1MZXlJS3pFWHc4S19kZDlrZUEzcklaU3VXS1hLdzBUa1dIVmlNSnU2RGxRWC1lVXJkMF85eWY4M0FRbzBRdVRwVjQ4djMtaVA3SXFYY0d5RDg4YjU3eXlRY3ROU0lsQQ?oc=5"
         }
       ]
     },
@@ -162,14 +198,14 @@
       ]
     },
     {
-      "id": "320beaeb8644",
-      "title": "The brain's memory center doesn't start as a blank slate, study suggests - Live Science",
-      "published": "2026-05-06T18:10:00+00:00",
-      "summary": "The brain's memory center doesn't start as a blank slate, study suggests&nbsp;&nbsp;Live ScienceSee more headlines & perspectives on Google News",
+      "id": "3e62087b0ac6",
+      "title": "Does Time Exist in Two States at Once? Optical Ion Clocks Could Reveal the Quantum Nature of Time, New Research Says - The Debrief",
+      "published": "2026-05-06T18:42:29+00:00",
+      "summary": "Does Time Exist in Two States at Once? Optical Ion Clocks Could Reveal the Quantum Nature of Time, New Research Says&nbsp;&nbsp;The DebriefSee more headlines & perspectives on Google News",
       "sources": [
         {
-          "name": "Live Science",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZjJnZmptcDl4bmZwb01sYmVhTWNGdkVSQmF3SnNVcmRONzdhclYtRVZCTXZNY0hBb1VucVdHOGRRZGlXb29FRW5kYXppSktfMDVHV0F3dFlGQkdzM2ZYX1BGSy1VWWVTcDIyS25iUTdFanRSRVhyOUxMZWdsSmYzNDR6Si1rNXZCamNPb2ZqRF8wYkZ6b18yQ1UycjFuOW0tTnZzSkZPVzk2WHRoQ0NtWTBGMURvd2t4?oc=5"
+          "name": "The Debrief",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZGQwb2hINHpvYUJHajBhN3QwQTRkSm9ybHU2SkpFdk1oUzU2ZFNVa3ZuMVVkeUxzUU5rbURpSG5sVmhlbWd4aEIwd3U4bXpJeEhfNG5VaUJzTFpwN0I0dV9FQnhZbEpqTFYwMm0yWnZwVEQ0SFV2YndCSWJVWE4xLW1ibkNSYzB4UHM2RUZNRVQxZ0c5R3NhaXpjOG5WRFRLWTBhWGRNd2I3RzNvRXhkd05wT0pmM3prTVd6ZVFUUlhleGpEc295d195c2xseWdCb3djTw?oc=5"
         }
       ]
     },
@@ -210,14 +246,14 @@
       ]
     },
     {
-      "id": "a052f7d26a9b",
-      "title": "240-million-year-old giant “sand creeper” found hidden in retaining wall - ScienceDaily",
-      "published": "2026-05-06T06:49:07+00:00",
-      "summary": "240-million-year-old giant “sand creeper” found hidden in retaining wall&nbsp;&nbsp;ScienceDailyResearchers identify rare 240-million-year-old amphibian fossil discovered in Australia&nbsp;&nbsp;ساناResearchers found 240-million-year-old giant mysterious 'sand creeper'&nbsp;&nbsp;The News InternationalRetired Farmer Discovers 240-Million-Year-Old 'Supine Sand Creeper' Fossil In His Backyard&nbsp;&nbsp;Dallas Express",
+      "id": "02bf85e3cf08",
+      "title": "Movement Triggers a Hidden 'Brain Cleaning' Mechanism, Study Shows - ScienceAlert",
+      "published": "2026-05-06T11:01:49+00:00",
+      "summary": "Movement Triggers a Hidden 'Brain Cleaning' Mechanism, Study Shows&nbsp;&nbsp;ScienceAlertDirty mind? Study suggests gut movement may flush excess material from our brains&nbsp;&nbsp;Los Angeles TimesScientists discover a hidden brain “cleaning” effect triggered by movement&nbsp;&nbsp;ScienceDailyPenn State Brain Cleaning Study Reveals Shocking Link Between Movement and Brain Health&nbsp;&nbsp;Nbsla.caThis Simple Movement Could Be Secretly Cleaning Your Brain&nbsp;&nbsp;SciTechDaily",
       "sources": [
         {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WVFo3UTZWbTA1VXg1c1lkX2JyVGRuc3NoN0dtMGlGd1FTTktwUC0xa3J5WmpHVFF6OHFMcUhwZHlmNk05ZGtLaVZ0OGdQLUs4cE9SZnJxV1RiSzRpVEVNRDBkNXd3Q0lkZEFTMEF6WQ?oc=5"
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWHh5a3ZHTDQ0T2IxOHV3Z2RVR05Na2xXaVJES0VrZlJVb0VYS25DQWlGNUFRM3BYV0Y4SUZNbGNCazVQM0Vvc3hiSkdUR0ZDN05YUktiZjh1N0tZbTNySUJVTk5xSWpkRlZWOWFaX0VtREJNSnc0ZWZiTzNKS3czZWs2Rm1WWFFUeEx0RnR4NFh4eV8wQko4?oc=5"
         }
       ]
     }

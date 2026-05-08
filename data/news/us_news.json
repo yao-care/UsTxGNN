@@ -1,19 +1,43 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-07T19:46:01.754528+00:00",
-  "total_fetched": 82,
-  "unique_count": 82,
-  "health_related_count": 29,
+  "fetched_at": "2026-05-08T03:26:27.021854+00:00",
+  "total_fetched": 71,
+  "unique_count": 71,
+  "health_related_count": 18,
   "news": [
     {
-      "id": "9468c9a0b816",
-      "title": "Health officials track dozens who left hantavirus-stricken ship after 1st fatality - NPR",
-      "published": "2026-05-07T18:54:00+00:00",
-      "summary": "Health officials track dozens who left hantavirus-stricken ship after 1st fatality&nbsp;&nbsp;NPRSee more headlines & perspectives on Google News",
+      "id": "c70a085e2015",
+      "title": "Health Officials Race to Track Hantavirus Cruise Ship Outbreak but Predict ‘Limited’ Spread - nytimes.com",
+      "published": "2026-05-08T00:55:32+00:00",
+      "summary": "Health Officials Race to Track Hantavirus Cruise Ship Outbreak but Predict ‘Limited’ Spread&nbsp;&nbsp;nytimes.comOpinion | Here’s How Freaked Out You Should Be About the Hantavirus Cruise Ship&nbsp;&nbsp;nytimes.comHow public health officials are tracing people who came in contact with hantavirus victims&nbsp;&nbsp;The HillHealth officials track dozens who left hantavirus-stricken ship after first fatality&nbsp;&nbsp;AP NewsTIMELINE | How hantavirus spread on a cruise ship as it sailed across t",
       "sources": [
         {
-          "name": "NPR",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVkZpT19JenQza0xjbzJHaFFBNmJOOE9qUW1wNWJvaXJIMzBYU3VoWGFCZWhIVGd6QjZBT25ibEIxVWd0MGVtaGRGT29QMEo1b1IzUG44QV8zME8xVW5nRlJLY2JKQ2RUMTdkWWFSQkVzLW5nVlZPbXdENlN5ZHNzOGk3WktoVWR0b2dqRE5fYw?oc=5"
+          "name": "nytimes.com",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbEpVbXdaN3Z2bXFyVlBOWkFvTm9ESzVBTFBYS1lJWnYzenJUSnJXNmRvaDBTT2RKVGI3X2d6bDduQnZ6QzYxeGtQdjVIdGZELXMzVGktN2Z6bllzaWRfLWpFS01zOHU3Q1RxQy16OEpMTWlTUndCb1BXYmNOU2lTcmJZYVFhVUZMajFUWA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3da402b6046d",
+      "title": "New Research Shows Vitamin B12 May Hold the Key to Healthy Aging - SciTechDaily",
+      "published": "2026-05-07T20:05:57+00:00",
+      "summary": "New Research Shows Vitamin B12 May Hold the Key to Healthy Aging&nbsp;&nbsp;SciTechDaily",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdVUzd1UwV2g1anhvZ3FReG5RdndKOGk0dDJhV2d3bUVFY1BHYndCMUVJNUJ0UEl5d3YxT05VU1dzOWxxalJtRnNWT0oxMDFBOFJ6SjdrdWRrejFhTVBPSVVuUGZiR2tJcHdxUExoTy10enBZQ203RjI5bWtpRXBSV2FCODk4T0hFSENOUllwN0NtRGhP?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "be433e7be2e1",
+      "title": "Where does Earth's mysterious 'ring current' come from? NASA and the US Space Force are launching a mission to find out - Space",
+      "published": "2026-05-07T18:01:01+00:00",
+      "summary": "Where does Earth's mysterious 'ring current' come from? NASA and the US Space Force are launching a mission to find out&nbsp;&nbsp;SpaceNASA and Space Force launch STORIE to study ring current&nbsp;&nbsp;NewsBytesStrange Space Donut Wraps Around Earth, NASA Is Going Up to See What Gives&nbsp;&nbsp;autoevolutionNASA’s STORIE Set To Observe Earth’s Ring Current&nbsp;&nbsp;Orbital TodayNASAs STORIE Mission Explores Earths Ring Current&nbsp;&nbsp;Mirage News",
+      "sources": [
+        {
+          "name": "Space",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbUhVYldXaXpfN2xuMGNTeDVBQkYyWWZMRU10V0otOHp5dkZwVHNFd09HNDFTVXhHRDdTemxyM2pFdy15VWN6ZmNKdGdLajAtWnBaRGczWi1QSmFhTWR3ZmUtbmIwV3lyOGhPNnZDcXRtZS15OVRDSkhQc1NieGszQ1lVanFiN3FwZF92UXBCOU1PUEFTQ3ZsLWhldHhLSXNIWGpwaUVSbjh3bTB0VXRXTW9mMmdiRFNhTGZLMHdQNVQ3NXB4S25wdVg1Uk9zaFZEWW1WSlJ3R2dGbTZjRlB5Rkt3dFZma0lTdjJIZXB0T1FOdDRoZ19Kci1UejY5bXNlNmg4UDBn?oc=5"
         }
       ]
     },
@@ -21,7 +45,7 @@
       "id": "6b749e67ec72",
       "title": "Earth's Rarest Metal Was Thought to Be Useless to Ancient Life, Until Researchers Discovered Something in 3-Billion-Year-Old Fossils - The Daily Galaxy",
       "published": "2026-05-07T15:45:00+00:00",
-      "summary": "Earth's Rarest Metal Was Thought to Be Useless to Ancient Life, Until Researchers Discovered Something in 3-Billion-Year-Old Fossils&nbsp;&nbsp;The Daily GalaxyBiological use of molybdenum and tungsten stems back to 3.4 billion years ago&nbsp;&nbsp;NatureEarly Life On Earth Relied On A Surprisingly Scarce Metal: Molybdenum&nbsp;&nbsp;astrobiology.comThree billion years ago, Earth's life relied on a rare metal&nbsp;&nbsp;Phys.orgEarliest Organisms on Earth Built Their Biochemistry around Molybden",
+      "summary": "Earth's Rarest Metal Was Thought to Be Useless to Ancient Life, Until Researchers Discovered Something in 3-Billion-Year-Old Fossils&nbsp;&nbsp;The Daily GalaxyNASA Research Shows Early Life Relied on Rare Metal&nbsp;&nbsp;NASA Science (.gov)Biological use of molybdenum and tungsten stems back to 3.4 billion years ago&nbsp;&nbsp;NatureEarliest Organisms on Earth Built Their Biochemistry around Molybdenum, Study Suggests&nbsp;&nbsp;Sci.NewsLife Built Its Biochemistry on a Metal That Was Almost No",
       "sources": [
         {
           "name": "The Daily Galaxy",
@@ -33,7 +57,7 @@
       "id": "9851ae83b1e7",
       "title": "A researcher may have found a shortcut to Mars as NASA eyes red planet - Yahoo News UK",
       "published": "2026-05-07T15:05:39+00:00",
-      "summary": "A researcher may have found a shortcut to Mars as NASA eyes red planet&nbsp;&nbsp;Yahoo News UK",
+      "summary": "A researcher may have found a shortcut to Mars as NASA eyes red planet&nbsp;&nbsp;Yahoo News UKSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "Yahoo News UK",
@@ -45,7 +69,7 @@
       "id": "0882c0fe66cf",
       "title": "How do the biggest black holes in the universe form? Ripples in spacetime provide a clue - Space",
       "published": "2026-05-07T13:00:00+00:00",
-      "summary": "How do the biggest black holes in the universe form? Ripples in spacetime provide a clue&nbsp;&nbsp;SpaceBiggest black holes built up in busy star clusters after series of violent merging events, research finds&nbsp;&nbsp;EurekAlert!",
+      "summary": "How do the biggest black holes in the universe form? Ripples in spacetime provide a clue&nbsp;&nbsp;SpaceThese monster black holes did not form the usual way—their history of violence is written into spacetime ripples&nbsp;&nbsp;Phys.orgStudy links biggest black holes to repeated cosmic collisions&nbsp;&nbsp;Courthouse NewsEvidence for a 'forbidden range' of black hole masses emerges in gravitational wave observations&nbsp;&nbsp;Physics WorldLargest black holes formed by violent mergers, rather ",
       "sources": [
         {
           "name": "Space",
@@ -57,7 +81,7 @@
       "id": "ee12d5992f42",
       "title": "Scientists Have Created The First Ever 'Smell Map', And It's Stunning - ScienceAlert",
       "published": "2026-05-07T12:02:10+00:00",
-      "summary": "Scientists Have Created The First Ever 'Smell Map', And It's Stunning&nbsp;&nbsp;ScienceAlertScientists Unveil ‘Long Lost’ Map for Smell&nbsp;&nbsp;The New York TimesFirst-of-its-kind map of the mouse nose reveals surprises about the sense of smell&nbsp;&nbsp;Live ScienceScientists Create First-Ever ‘Smell Map’&nbsp;&nbsp;Harvard Medical SchoolThere's a new breakthrough in understanding how smell represents.&nbsp;&nbsp;Psychology Today",
+      "summary": "Scientists Have Created The First Ever 'Smell Map', And It's Stunning&nbsp;&nbsp;ScienceAlertScientists Unveil ‘Long Lost’ Map for Smell&nbsp;&nbsp;nytimes.comScientists Create First-Ever ‘Smell Map’&nbsp;&nbsp;Harvard Medical SchoolFirst-of-its-kind map of the mouse nose reveals surprises about the sense of smell&nbsp;&nbsp;Live ScienceHarvard Scientists Reveal Secret Structure Behind How You Smell&nbsp;&nbsp;SciTechDaily",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -66,26 +90,14 @@
       ]
     },
     {
-      "id": "e55c6e26cc1b",
-      "title": "An army of ticks is sending more Marylanders to the ER - thebanner.com",
-      "published": "2026-05-07T09:30:00+00:00",
-      "summary": "An army of ticks is sending more Marylanders to the ER&nbsp;&nbsp;thebanner.comHow to protect yourself from ticks as Michigan sees Lyme disease surge&nbsp;&nbsp;Detroit Free PressTicks in Illinois: Weekly emergency visits for tick bites on the rise in Midwest over concerns of Lyme disease, Alpha-gal syndrome&nbsp;&nbsp;ABC7 ChicagoTake Precautions to Prevent Tick Bites |&nbsp;&nbsp;Wisconsin DNR Forestry NewsTick season: What to know before heading outdoors&nbsp;&nbsp;army.mil",
+      "id": "ed4ca4775051",
+      "title": "Rapidly melting Antarctic ice shelves may cause global sea levels to rise far faster than expected - Phys.org",
+      "published": "2026-05-07T09:00:06+00:00",
+      "summary": "Rapidly melting Antarctic ice shelves may cause global sea levels to rise far faster than expected&nbsp;&nbsp;Phys.orgUnusually Warm Water Detected Creeping Toward Antarctica – and Scientists Are Alarmed&nbsp;&nbsp;SciTechDailyChannelized topography amplifies melt-sensitivity of cold Antarctic ice shelves&nbsp;&nbsp;NatureStudy reveals that heat from the deep ocean is approaching Antarctica&nbsp;&nbsp;yourweather.co.ukRapidly melting Antarctic ice shelves may cause global sea levels to rise even",
       "sources": [
         {
-          "name": "thebanner.com",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSnZ4RFI3UjlId1RyUEhtYk9lNlJiM3dhRWxEZUJNNGtHLVVneEpzZTF6RklvX01jRGZrMy1rTWc4TXZiOGNSa2NUbGppWVg5Q2s2UnRXT0l5NmZ2X0w3VGtQRWktZzRnZ1ZXbnBnVzV4a3N2aG1zelBMRXowVnhvTE5aY3gxSFc3Yjk4N2dRejFKZG1MdzhfTGtNbWlJeURkc1piR2UwUTkwRWwtZjFPSGVB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1a6f01df1641",
-      "title": "Your heart rate is more uneven than you think. This is what it says about your health - BBC",
-      "published": "2026-05-07T09:01:17+00:00",
-      "summary": "Your heart rate is more uneven than you think. This is what it says about your health&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMGkwZjJNM0psMUxzQlM0NXN0UWIzNmNVUGJveWk2RmdRXzY4YTFZUm0yaExQVXhTeGVqTHRqNHZRcjJrNURyYVJFRTU5RG5QVmgxWF9FMjNLM0pia0UtZi10czFabE50Q013Z2RfVjg2d3hWMkZyN0tCRHBpTERKZjBOTUw0VUNLZjRlQnJoTm1rLUd3ckxNejZwalV6RlcxZS13REZ2TElCd21zMkk0eUh3V01nNDRLQ25QOTg4V2ZyQQ?oc=5"
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92MHhwVjQ5ZlVnOUthZWRsOHFDNmNwZl9POVg3V2pwSWFyNV9JM0I3X1JzZmRBLWVnSDlHTjE5RzM4M1FHOTljdDdBMnNQUXhzdERRYjJyWEg1YTVrSExnRi1xb2N1N1l3djJzbk00c3p2cDdtNFNkQlI0MA?oc=5"
         }
       ]
     },
@@ -105,7 +117,7 @@
       "id": "1a99a02190c4",
       "title": "Bioluminescent algae’s blue light harnessed to make 3D-printed shapes - The Guardian",
       "published": "2026-05-07T01:30:00+00:00",
-      "summary": "Bioluminescent algae’s blue light harnessed to make 3D-printed shapes&nbsp;&nbsp;The GuardianLight without electricity? Glowing algae could make it possible&nbsp;&nbsp;Phys.orgCU Boulder researchers develop 3D-printed living lights from algae&nbsp;&nbsp;Interesting EngineeringLight Without Electricity? Glowing Algae Could Make It Possible | Newswise&nbsp;&nbsp;Newswise",
+      "summary": "Bioluminescent algae’s blue light harnessed to make 3D-printed shapes&nbsp;&nbsp;The GuardianLight without electricity? Glowing algae could make it possible&nbsp;&nbsp;Phys.orgCU Boulder researchers develop 3D-printed living lights from algae&nbsp;&nbsp;Interesting EngineeringGlowing algae could power the lamps of the future&nbsp;&nbsp;Popular ScienceLight Without Electricity? Glowing Algae Could Make It Possible | Newswise&nbsp;&nbsp;Newswise",
       "sources": [
         {
           "name": "The Guardian",
@@ -126,30 +138,6 @@
       ]
     },
     {
-      "id": "73b0054eaa76",
-      "title": "East Valley measles outbreak grows: Where you may have been exposed - Phoenix New Times",
-      "published": "2026-05-06T23:29:58+00:00",
-      "summary": "East Valley measles outbreak grows: Where you may have been exposed&nbsp;&nbsp;Phoenix New TimesMaricopa County confirms 3 new measles cases; likely infected locally&nbsp;&nbsp;AZ FamilyMaricopa County measles cases rise to 13 as health officials identify new exposure sites&nbsp;&nbsp;ABC15 ArizonaThese 10 sites linked to latest Maricopa County measles outbreak&nbsp;&nbsp;The Arizona RepublicMaricopa County measles cases remain low, but officials still urge caution&nbsp;&nbsp;KJZZ",
-      "sources": [
-        {
-          "name": "Phoenix New Times",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSGE1QXNMelBvV19qaVhrUENkdXdvakNMQS1kVFZpYVA5YVFKY2lwZjdTd2hvV2RJT2ZjdnFIMF8wN1ZrOGdHeVRTQ05VR3JaX21iWUwzcEpjMmRvV1U3T3J5c2k0UlhQS1VzNFdHaExiTGEtcXFabEZvVXVEcy1WUENsaVY4aGhIMTVRWGpodlBSQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f5a452e12a03",
-      "title": "Specific expansion of motor cortical projections in a singing mouse - Nature",
-      "published": "2026-05-06T23:06:57+00:00",
-      "summary": "Specific expansion of motor cortical projections in a singing mouse&nbsp;&nbsp;NatureA Mutation Gave Humans the Gift of Speech. These Mice Have It, Too.&nbsp;&nbsp;The New York TimesWhat can singing mice say about human speech?&nbsp;&nbsp;Cold Spring Harbor LaboratorySinging mice puff up air sacs to make their sweet songs&nbsp;&nbsp;Science NewsSinging Mice Exhibit Larger Motor Cortex Network for Vocalization, Nature Study Finds&nbsp;&nbsp;geneonline.com",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HXy02azZXUzRLMUwxZnRvTUdMbVlMak1wZWhlb3pWeU9QN21jWEhhUllMSjc4dWlSeF9WR0x3czF4UmRwZlhta09ka1VXNkRUaGN6NnlDc2tlT1JsMWw0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0603f9c1c10f",
       "title": "Revealed: the mysterious ‘dark’ proteins that might play a big role in biology - Nature",
       "published": "2026-05-06T22:43:04+00:00",
@@ -158,18 +146,6 @@
         {
           "name": "Nature",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15OFR1NnhqTEh5S2lWWWF5REpGTzhVTTdOcmMxbi1YV1BkZE4wb3d1NlVxZm5KVGltM2E2ckpIQ0FUSVJZQXNZOU9hd2JfS051UllrT0YyNy1URFRnTnJz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c92650b4960d",
-      "title": "Drinking Coffee May Have a Surprising Benefit, New Study Says - EatingWell",
-      "published": "2026-05-06T22:37:49+00:00",
-      "summary": "Drinking Coffee May Have a Surprising Benefit, New Study Says&nbsp;&nbsp;EatingWellScientists Discover How Coffee Impacts Memory, Mood, and Gut Health&nbsp;&nbsp;SciTechDailyScience Has Found Even More Ways Coffee Is Good for You&nbsp;&nbsp;WIREDCoffee's mood-boosting effects aren't just down to caffeine&nbsp;&nbsp;New ScientistScientists just discovered what coffee is really doing to your gut and brain&nbsp;&nbsp;ScienceDaily",
-      "sources": [
-        {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82T2VkZ3BOOFVlVFduSjNzOXUybTBVa0ZCRVMxaXhmalcybVpfWXRuc0pHQTZZMHZaS2x1YkU0LVY1UUZSWVdTb0Jvd21iWWphaEJtVWdxVjBYQnFvTHhpVHcwRVd3ZloxMndzQk9hdGJUMXNDQlE?oc=5"
         }
       ]
     },
@@ -186,74 +162,14 @@
       ]
     },
     {
-      "id": "fc3b19f4018f",
-      "title": "Moderna’s mRNA flu vaccine more effective than standard shot in late-stage trial - NBC News",
-      "published": "2026-05-06T21:00:00+00:00",
-      "summary": "Moderna’s mRNA flu vaccine more effective than standard shot in late-stage trial&nbsp;&nbsp;NBC NewsModerna mRNA flu vaccine beats standard shot, awaits FDA review&nbsp;&nbsp;USA TodayModerna Inc. (MRNA) Initiates Phase 3 Trial for mRNA H5 Pandemic Influenza Vaccine, Expanding Pipeline Upside - Regulatory Risk&nbsp;&nbsp;NewserTrivalent mRNA Flu Shot More Effective Than Standard Vaccines&nbsp;&nbsp;MedPage TodayModerna Announces New England Journal of Medicine Publication of Pivotal Phase 3 Clin",
-      "sources": [
-        {
-          "name": "NBC News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaTlHSHhjeGVIYVRaOUk2RzQwWkptMlV5STBBVjFhSjVodHlaSW9qS040dmJiZVlINmxBNDR1Y2FDU09GYjUxeWo5R2tNQ1ZJRmV3cVR0X1p1OEZXSWNjVUgxckZNVVFfRE1SUmFDUzRVcmxSdjJ4UnYtOEk0cWU2Y21JRDdrS1VmUzJTRWlwOVgtR2JJMkx2clJjdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "18f97d73f451",
-      "title": "Beaver that bit ‘several people’ in New Jersey tests positive for rabies - Global News",
-      "published": "2026-05-06T19:49:08+00:00",
-      "summary": "Beaver that bit ‘several people’ in New Jersey tests positive for rabies&nbsp;&nbsp;Global NewsRabid beaver attacks boy fishing at New Jersey lake, prompting health officials to warn residents&nbsp;&nbsp;Fox NewsAngry Beaver Attacks 8 Year Old Boy At Mahwah Park&nbsp;&nbsp;News12 | New JerseyBeaver tests positive for rabies after biting 8-year-old. See attack&nbsp;&nbsp;Yahoo‘It’s not every day you see someone toss a beaver.’ This one bit multiple people — and had rabies.&nbsp;&nbsp;NJ.com",
-      "sources": [
-        {
-          "name": "Global News",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa25FSWphaVkyRF9qYWpqRDVId1RCZWQ2b3o0QkFyZE8yWnNHZnVoMGoza1BJZWZzZTNtT05HcWlZbjlEVi1wellObGdXaE9RdS05TUtaRmRxd3AydEpseXplcTFMNUNfVlM3SU5SMXdQQms4aGZtSVNncE9JdEVGVHBxN1hGbUJHc1R1Z1l2M0ZYUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "52c93e58be28",
-      "title": "Even the unconscious brain can learn — and predict what you’ll say next - Nature",
-      "published": "2026-05-06T19:12:28+00:00",
-      "summary": "Even the unconscious brain can learn — and predict what you’ll say next&nbsp;&nbsp;NatureWhile patients lay unconscious under anesthesia, their brains kept decoding stories and preparing for what came next&nbsp;&nbsp;Medical XpressPlasticity and language in the anaesthetized human hippocampus&nbsp;&nbsp;NatureThe brain may still be able to hear speech under anesthesia&nbsp;&nbsp;Scientific AmericanBrains have a mind of their own under general anaesthetic&nbsp;&nbsp;The Times",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13NjdzdUV4WXo3RVI2WDFya2NfVmlCUFVVREJtQXlIVkVlWlVEOEZBNmJRQ3Fob1VtYWoyTFl4T3FobTdJWTJ6NnpwZm1rblZYTVNGeTl4aEFJeDRpQzk0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "320beaeb8644",
       "title": "The brain's memory center doesn't start as a blank slate, study suggests - Live Science",
       "published": "2026-05-06T18:10:00+00:00",
-      "summary": "The brain's memory center doesn't start as a blank slate, study suggests&nbsp;&nbsp;Live Science",
+      "summary": "The brain's memory center doesn't start as a blank slate, study suggests&nbsp;&nbsp;Live ScienceSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "Live Science",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZjJnZmptcDl4bmZwb01sYmVhTWNGdkVSQmF3SnNVcmRONzdhclYtRVZCTXZNY0hBb1VucVdHOGRRZGlXb29FRW5kYXppSktfMDVHV0F3dFlGQkdzM2ZYX1BGSy1VWWVTcDIyS25iUTdFanRSRVhyOUxMZWdsSmYzNDR6Si1rNXZCamNPb2ZqRF8wYkZ6b18yQ1UycjFuOW0tTnZzSkZPVzk2WHRoQ0NtWTBGMURvd2t4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3f950de4927c",
-      "title": "FDA vaccine studies censored by Trump admin after finding benefits of shots - Ars Technica",
-      "published": "2026-05-06T16:19:58+00:00",
-      "summary": "FDA vaccine studies censored by Trump admin after finding benefits of shots&nbsp;&nbsp;Ars TechnicaF.D.A. Blocked Publication of Research Finding Covid and Shingles Vaccines Were Safe&nbsp;&nbsp;The New York Times‘People should be talking about it’: moves to curtail vaccine information obscures important science, doctors say&nbsp;&nbsp;The GuardianUnforced errors flummox HHS’ radical transparency bid—again&nbsp;&nbsp;BioSpaceMakary Has All the Right Enemies&nbsp;&nbsp;The Free Press",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa05hNTNlOHBOVjRSLWxfUzl5cDlISndsZWxya2MwYXdnamYzNDJGcUhkTUJmMVBkaXZHRTZXX25XYVRGaDVURUV0Rm9KelBmaXlhRDVvbHRfdUhLNFRPeFRYWFRMcl80WjJ6TVlOLVBlYTJUcE9IY3pvbktUMnRlYzFqYVdJbGU5encyRFY2TlZfSEg2b1hHaUlEeGVveWV4bjMwMS1FbkNEYkE4X3pxNUZkNGFlc3J2?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "96af8d8eec68",
-      "title": "This Galaxy Has Several Times More Stars Than the Milky Way, Formed 12 Billion Years Ago, and Does Not Rotate at All - The Daily Galaxy",
-      "published": "2026-05-06T16:15:00+00:00",
-      "summary": "This Galaxy Has Several Times More Stars Than the Milky Way, Formed 12 Billion Years Ago, and Does Not Rotate at All&nbsp;&nbsp;The Daily GalaxyA massive and evolved slow-rotating galaxy in the early Universe&nbsp;&nbsp;NatureNon-Rotating Early Galaxy Is a Surprise to Astronomers&nbsp;&nbsp;UC DavisUC Davis researchers investigate young galaxy that isn’t spinning&nbsp;&nbsp;KCRAWebb Discovers Slow-Rotating Galaxy in Early Universe&nbsp;&nbsp;Sci.News",
-      "sources": [
-        {
-          "name": "The Daily Galaxy",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRE5uUUJUa1ctWWlsallnZW96cE5xeFVYNk12Wk1KOWRUSzhxNlBMSkJqVVlCRVo5eUtMUTcwbXVsY0txMU9HUHFRUk5XNEFqTFRfNEp2RU9pWGo3cXVWeXJoaGRjVTBKQ05RNnZTcmJTZV8xSWk4TmxPVF82TUVIOW4xSXc0UXZ6Ri1xWlpCYndiell1NnJYZmpTdFJHVzZ1dnR1dVhmcTZTZ1BGam5qQXkteHZDLVFYODdpZUZTejRzNG12SjlBSlJxUTY3WXJGZkNmbGFkSXJWV3oxNFhxNA?oc=5"
         }
       ]
     },
@@ -302,54 +218,6 @@
         {
           "name": "ScienceDaily",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WVFo3UTZWbTA1VXg1c1lkX2JyVGRuc3NoN0dtMGlGd1FTTktwUC0xa3J5WmpHVFF6OHFMcUhwZHlmNk05ZGtLaVZ0OGdQLUs4cE9SZnJxV1RiSzRpVEVNRDBkNXd3Q0lkZEFTMEF6WQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2802f5cc1dfb",
-      "title": "Eggs and brain health: New study cracks open Alzheimer’s link - WZTV",
-      "published": "2026-05-06T05:57:58+00:00",
-      "summary": "Eggs and brain health: New study cracks open Alzheimer’s link&nbsp;&nbsp;WZTVA dozen things you need to know about your eggs&nbsp;&nbsp;The TimesFormer ‘bad for you’ food can actually lower your Alzheimer’s risk by up to 27%&nbsp;&nbsp;New York PostThe fridge staple that could lower your risk of Alzheimer’s&nbsp;&nbsp;The i PaperMedical Oddities: Brain Health, Sunny-Side Up&nbsp;&nbsp;Conexiant",
-      "sources": [
-        {
-          "name": "WZTV",
-          "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQWkpmRW5SSGI5SXZVUmtvZUxocEZOR2dUMG5PSEFEQkdjbVJZWC02dU5VV3NYNHJtelZhZjlPWEotOE44RGxEVFFITENVNk5DclpfWnJzb0VzdDZzNzNqME0zdGNZREV5SFlGZlY2c1ZxblBNa21YRlE3Slg5UmZaRFhacHA3bFBDdVRLZUctR1EtUFRJSEtYbnJSTmpFYlRRZjFtTFRxNThOWFl5RFFwSEpJR0VLU3RrS1pzNUJLVy1jWEJERUlxNDIwMU9BRHZsT1A5ZW00dDdoRGdieGUxdVM2OUNaSkpkZG9odDlwd09KZEdJaU9aazFsT0tUVkZJaEtxMkR3OU1QQlVZbmNXYVVnWUt0R1Q5VkhhSkJUeHZSc2ZOdEotbklnRHQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d1d7950a35cf",
-      "title": "8-year-old boy's backyard discovery challenges scientific understanding of ants - Yahoo",
-      "published": "2026-05-06T02:30:00+00:00",
-      "summary": "8-year-old boy's backyard discovery challenges scientific understanding of ants&nbsp;&nbsp;YahooOak Galls Mimic Seeds to Hijack Ant Behavior&nbsp;&nbsp;AsatuNews.co.idMah Rabu Maasecha: of Ants, Oak Trees, Wasps and Acapello Music&nbsp;&nbsp;VINnewsAn 8-Year-Old Boy Spotted \"Seeds\" in His Backyard and Accidentally Broke a 100-Year-Old Biology Rule&nbsp;&nbsp;The Daily Galaxy8-year-old’s backyard discovery upends a century of plant-insect science&nbsp;&nbsp;The Brighter Side of News",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbFpmaFY2LWwzV1daU1M0bWpNanVaYm1sTzNhd1M3ODZHOXFuM1dUbElHNTNqS0JIc0ZSQ3Q2WlY4NVJHQ0xtdUppdFhabTJfRDZVS3lETzY1dWt2c0gtdDIyNkU3UWlmTFg2UGhFWWlnN2NITHVrcDhOVlNBb1JZbmJhOG5vX3M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "59a56a04e621",
-      "title": "Humanity Is Still Evolving—and Fast - The Free Press",
-      "published": "2026-05-05T23:33:26+00:00",
-      "summary": "Humanity Is Still Evolving—and Fast&nbsp;&nbsp;The Free Press🧬 Humans are still undergoing natural evolution&nbsp;&nbsp;Techno-Science.netScientists find ultra-rare gene variant responsible for red hair in India&nbsp;&nbsp;The Times of IndiaResearchers looked into human DNA and found evolution moving faster than expected, raising new fears about mutations we may not be able to control&nbsp;&nbsp;ecoportal.netThe next phase of human evolution is already underway&nbsp;&nbsp;The Brighter Side of Ne",
-      "sources": [
-        {
-          "name": "The Free Press",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlNUViLW9RRHRHdFd4Zmw0TTlJQS13aUk4LWtLZEoxd1l2WVNZa0RicmpZMzY5QUltNjlRSzVMa1N3ZHR0SnFvb1ZGUUI2TE9NOE1pNGcwRU04VHV1LWdWeVBkenZuMXhnSmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b8ad1defff5a",
-      "title": "Quantum ‘thermometer’ takes temperatures inside living cancer cells - Nature",
-      "published": "2026-05-05T19:35:28+00:00",
-      "summary": "Quantum ‘thermometer’ takes temperatures inside living cancer cells&nbsp;&nbsp;NatureResearchers developed quantum nanosensors that can measure the temperature of a single cell&nbsp;&nbsp;R&amp;D WorldMolecular Quantum Nanosensors Enable Intracellular Thermometry and Spin Detection in Living Cancer Cells&nbsp;&nbsp;EurekAlert!Quantum sensing: Revolutionising cancer care&nbsp;&nbsp;The Hans IndiaQuantum sensor precisely measures temperature inside living cancer cell nucleus&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44N3NrajlaaUVyMVZkaGRza0tKWWxCbU9LZG5VNGZvZ290Smp2bWNqRTZuREZkT2E4NGtISXp1b3gzdnFNMkhRd19Lb1B2SjZudElrUDR2LXpHbEZHbU5V?oc=5"
         }
       ]
     }

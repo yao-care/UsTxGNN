@@ -1,31 +1,103 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-08T19:23:03.485037+00:00",
-  "total_fetched": 76,
-  "unique_count": 76,
-  "health_related_count": 24,
+  "fetched_at": "2026-05-09T03:24:43.501859+00:00",
+  "total_fetched": 77,
+  "unique_count": 77,
+  "health_related_count": 25,
   "news": [
     {
-      "id": "f805239d1fb5",
-      "title": "Hantavirus Cruise Ship: CDC Plans To Isolate Americans Exposed, Report Says (Live Updates) - Forbes",
-      "published": "2026-05-08T18:24:00+00:00",
-      "summary": "Hantavirus Cruise Ship: CDC Plans To Isolate Americans Exposed, Report Says (Live Updates)&nbsp;&nbsp;ForbesOpinion | Here’s How Freaked Out You Should Be About the Hantavirus Cruise Ship&nbsp;&nbsp;The New York Times‘This Is Not Going to Be the Next COVID’&nbsp;&nbsp;The AtlanticHantavirus cruise LIVE: Cruise passengers monitored in at least 5 US states as American passengers set to receive repatriation flight&nbsp;&nbsp;Live ScienceAmericans on hantavirus cruise ship reportedly to be quarantin",
+      "id": "d6cceda27088",
+      "title": "Why health officials say the hantavirus cruise outbreak is not the next pandemic - The Washington Post",
+      "published": "2026-05-09T03:00:52+00:00",
+      "summary": "Why health officials say the hantavirus cruise outbreak is not the next pandemic&nbsp;&nbsp;The Washington PostSee more headlines & perspectives on Google News",
       "sources": [
         {
-          "name": "Forbes",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbGJzMFVIX09iOTNpeXF5N0xLVkVMaGQ3dlZsN3JJUjhFMkNyTEdzX0k2Wlg4WGlJeFN0NjRPOHpfdmlkdUh2OGdlam1kNEQ4WUNDNzZ3OG9xMWdvNmZfZWhlMm1Qald0Z05ZeGpRR2tiRXBOTkU2N1RFS05QSkhTeFlmV25DUnY2cUYyQ0l1T2JuSW5JQk5GZ1lCRDNUaGVSMDJwbG5CMDlRQ3hCSTdiMHJBRGk5MFdROFA2QUltUzdXdnJyNFVFRHBQM1F0em5xZnQyeER1clFWYXNOV1JGSHJxREM?oc=5"
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PYUdiQ21uc2ZDQTZDOUFaUk9OSWJ6aTFXUTNNU2hFN0ZDemVXd3h1YkcxSl9mS2NlRW5EQlptYXg5WUlfYktkQjNodV9ROWdzTWVzS01UVG5JOV93WC11S0c1MWJ2TzJVYWVxY0RTTFczVVUzQ0FuOTJBdHJvQQ?oc=5"
         }
       ]
     },
     {
-      "id": "aa00cd312ada",
-      "title": "Engineers at NASA’s Jet Propulsion Lab make a breakthrough in rotor technology - Ars Technica",
+      "id": "4ae58c530bd1",
+      "title": "Health Officials Warn Of Potential Measles Exposure At Roslyn Heights Restaurant - News12 | Long Island",
+      "published": "2026-05-09T02:14:06+00:00",
+      "summary": "Health Officials Warn Of Potential Measles Exposure At Roslyn Heights Restaurant&nbsp;&nbsp;News12 | Long IslandMet Opera patrons warned of measles exposure after La Bohème matinee&nbsp;&nbsp;GothamistNew York City resident with measles dined at a Roslyn restaurant&nbsp;&nbsp;Newsday1 confirmed case of measles in Manhattan; person visited restaurant in Hell's Kitchen&nbsp;&nbsp;ABC7 New YorkMeasles cases confirmed in Manhattan and Long Island: What to know&nbsp;&nbsp;NBC New York",
+      "sources": [
+        {
+          "name": "News12 | Long Island",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNDlpUGQyVDhHcTBua2xaRDdFUGxwTEpqNk9aSThJSlFaWE93Z2lhVTRSSFlWd29mQm41RjUxSWVVMVRiOEFVVm9MbkxUR1E2SjBEbnQ0YmZ2cXVhWklNSm1ILXNxR1haVERpN0lCUllsX25qbzFkOGxVZGh5Y3pEMDBmQWt5dkJ0QXNlQUxxNDlYdENyMnlZNHRCYl95NWVWZXFfdXAxTUVTOWtrYkNhY2I5cGFaNjhNbjdOWklHSUs0Y2MxZkptemMwMEFUSWN2dkdvNC16R1JIanVp?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bd029bb01e73",
+      "title": "Norovirus Outbreak Sickens 115 on Cruise Ship - The New York Times",
+      "published": "2026-05-08T23:24:32+00:00",
+      "summary": "Norovirus Outbreak Sickens 115 on Cruise Ship&nbsp;&nbsp;The New York Times115 sick with norovirus on Princess cruise ship that left Fort Lauderdale, CDC says&nbsp;&nbsp;NBC 6 South FloridaHighly contagious norovirus spreads on cruise ship, sickening over 100 passengers and crew&nbsp;&nbsp;Fox News115 sick in norovirus outbreak on Florida-bound cruise ship, CDC says&nbsp;&nbsp;WFLA115 people sickened in norovirus outbreak on cruise ship: CDC&nbsp;&nbsp;ABC News - Breaking News, Latest News and V",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTWlONm9sbks3eHlLUW1nc0txNnRySkIyekRZRlVFUDN6YnBPLTVNNzF2WWxEcXFZQXJ5OFVoVGRrWVI5TGVkTE11U2p2RVpMREFONWdiLXVrZjJXbHY1OVZlUk4zSk1kU1lqVjJyVDhxOUFvU1RTQ1FCUUJMUU5QR0NpdGZJVkFybFNoZG53?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ba91bd48e85a",
+      "title": "Alzheimer’s study finds link between breakfast staple and reduced risk of disease - The Hill",
+      "published": "2026-05-08T19:06:00+00:00",
+      "summary": "Alzheimer’s study finds link between breakfast staple and reduced risk of disease&nbsp;&nbsp;The HillAlzheimer’s risk slashed by eating more of one common food, study suggests&nbsp;&nbsp;Fox NewsEggs and brain health: New study cracks open Alzheimer’s link&nbsp;&nbsp;WZTVStudy: Egg consumption is associated with a lower risk of Alzheimer’s Disease&nbsp;&nbsp;Loma Linda UniversityEating eggs could cut Alzheimer’s risk by 27%&nbsp;&nbsp;ScienceDaily",
+      "sources": [
+        {
+          "name": "The Hill",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVTFEd04tUks1cFBYZ1ctRzJkcjFrSFBPOURidUJUMHRxWkhtaFNVNG9MVVFtcU5zZ2ZlSG1Tb3FYNzlOcWo0a0JlVFN5bnAzU1FuampxQkxhaHp3QkZXeTl0akNQODZyOGJ4a2xZZTBMbVlVRzR4Vm1oaElaZV9xaDA2R0VESE1WbFBvTk43d9IBlAFBVV95cUxQUEh1N216ZWxYX1lCczIyZ2RxRVFDQWc0bWRPTFlRclJ1VzlySUE3X0JzMEhJVGVtN0RIZlpHSjJnQWgzUFdLVHV5TXZ5TkRJMmdzU0ZqeVpWNU1UU2JGbnlTMUdrSU5sdkEwTHFLTzU4Yy1SSkFnckZ4cG5FVjZtSXpZLUdRVWt3TWpjSUFiVjEyYU5N?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3dd6520d4118",
+      "title": "Engineers at NASA's Jet Propulsion Lab make a breakthrough in rotor technology - Ars Technica",
       "published": "2026-05-08T15:46:27+00:00",
-      "summary": "Engineers at NASA’s Jet Propulsion Lab make a breakthrough in rotor technology&nbsp;&nbsp;Ars TechnicaNASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1&nbsp;&nbsp;NASA (.gov)NASA tests confirm next-generation Mars rotors can safely break the sound barrier&nbsp;&nbsp;Interesting EngineeringSkyFall helicopter for Mars breaks the sound barrier&nbsp;&nbsp;Universe Space TechNASA's Next-Gen Mars Helicopter Rotors Are Moving Fast&nbsp;&nbsp;Mirage News",
+      "summary": "Engineers at NASA's Jet Propulsion Lab make a breakthrough in rotor technology&nbsp;&nbsp;Ars TechnicaNASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1&nbsp;&nbsp;NASA (.gov)NASA tests confirm next-generation Mars rotors can safely break the sound barrier&nbsp;&nbsp;Interesting EngineeringNASA's new generation of rotor blades, with supersonic tips, is set to equip the SkyFall project: a Martian helicopter designed to carry instruments and sensors in support of future human and roboti",
       "sources": [
         {
           "name": "Ars Technica",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVkRIU3hBcjVMSElmWk9ma0IwWEdZZFh6cmstS2hrN05BZkFnOGZFNUVtUVhnWlNIRGlNNm03Z3AxQmVqVmxaeGtfT3BRbXhmeXlIbHllcFU0MWNpRGg4aUhVYlNaeFkzZXlLaVdRenJkeFRDT3dVMzhOXzNpUXpTbHNkcmdaRmN3SjQzUXc1XzBWd3JFZElRZm1jb0l5dXhmUFB4b2hfRUs5TmRiM2RlaFlCR0ZUMGs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "74acf83692a1",
+      "title": "'Population autopsy' finds Americans are dying younger than other wealthy countries — the deadliest 2 culprits revealed - New York Post",
+      "published": "2026-05-08T15:30:00+00:00",
+      "summary": "'Population autopsy' finds Americans are dying younger than other wealthy countries — the deadliest 2 culprits revealed&nbsp;&nbsp;New York PostUS Death Rates Higher Than Other High-Income Countries Between 1999 and 2022 Due to Specific Diseases and Substance Use&nbsp;&nbsp;geneonline.comAmerica Has a Heart Problem, Not Just a Drug Problem&nbsp;&nbsp;ScienceBlog.comCardiovascular and Metabolic Diseases Leading Causes of Excess Mortality in&nbsp;&nbsp;Bioengineer.orgCardiovascular and Metabolic D",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeFM4YWxNcjhRX24zTmpETXY4V2hCM1FxZlQybGxBVXdaTVZKbmtfbHRvUFRtOXUwS3hLNnZlZm5kczhnUjZISUJUMkhvcm9fX0h6dzVjSkE5ZENsY19KUWVHbmVkQTdUamlVcHdUQ2ZmakpJQ2YwWWFLNzFuS1NVR215UUZIeHgzaktMb3p1bEw4d0llRWYwa1pB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3ce1fe07518c",
+      "title": "Spiral galaxy’s brilliant heart shines bright in a new picture from NASA’s Webb telescope - AP News",
+      "published": "2026-05-08T15:16:00+00:00",
+      "summary": "Spiral galaxy’s brilliant heart shines bright in a new picture from NASA’s Webb telescope&nbsp;&nbsp;AP NewsSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "AP News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbUVQVkN0RVV5aGRiUlItNFIwa0JwOHIzM0hOMFRBRURwV1pEUUJsU0JnUmdMMXBwUXh6dnZWdVFocWppRjJRMGJ6bFhzN3hBTkROdlhiWHZ6al9FWVpyNjVuRmdmMWlRUGZyOG5MSXNzam5zd3FnYXB1U0VBU0dUVGhvbWJnSmtoODBuZHlsaTZhMzFfcTE2Z3B0MGhZaEU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6cfe5e8f08ba",
+      "title": "Pursuing universe's particles is a mission for Malayali scientist-couple as team wins ₹28 crore global prize - Onmanorama",
+      "published": "2026-05-08T12:43:59+00:00",
+      "summary": "Pursuing universe's particles is a mission for Malayali scientist-couple as team wins ₹28 crore global prize&nbsp;&nbsp;OnmanoramaMuon g-2 Experiment Pioneers Win Breakthrough Prize in Fundamental Physics – Home&nbsp;&nbsp;Home | CERNUniversity of Michigan physicists win $3M international scientific prize&nbsp;&nbsp;MLive.comMuon G-2 Collaboration with Strong Contribution from Mainz Wins Breakthrough Prize in Fundamental Physics&nbsp;&nbsp;AZoQuantumMuon g-2 Collaboration, Featuring Major Contri",
+      "sources": [
+        {
+          "name": "Onmanorama",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVERXQmRsS2lPM2Z5WTdXbmVEZTk3ZklRV0VmUXAzY2trMGkwSVVWbFV3dVlldXpRTkdoZ0RUeGcwTlZuSzU5VS1qVWEyUDBTU2tEcEV1Z1dSblBTVmdiZ1FzVlF3cnRRb2RwMlBuajZOMkdlY0h5OUhVQnhaY0k5VmkyMy1ER1RkSzRDMTl0aXpmWDk5YThjRldfMUttTGdybWdIOXkyZVRhRUxIN0NxS2o1dmFQMzRmdE9ETUZJa03SAcABQVVfeXFMUFREV0JkbEtpTzNmeVk3V25lRGU5N2ZJUVdFZlFwM2NrazBpMElVVmxVd3VZZXV6UU5HaGdEVHhnME5Wbks1OVUtalVhMlAwU1NrRHBFdWdXUm5QU1ZnYmdRc1ZRd3J0UW9kcDJQbmo2TjJHZWNIeTlIVUJ4WmNJOVZpMjMtREdUZEs0QzE5dGl6Zlg5OWE4Y0ZXXzFLbUxncm1nSDl5MmVUYUVMSDdDcUtqNXZhUDM0ZnRPRE1GSWtN?oc=5"
         }
       ]
     },
@@ -42,26 +114,38 @@
       ]
     },
     {
-      "id": "0d0d291c84ee",
-      "title": "Scientists discover a new way to prevent gum disease without killing good bacteria - ScienceDaily",
-      "published": "2026-05-08T09:29:14+00:00",
-      "summary": "Scientists discover a new way to prevent gum disease without killing good bacteria&nbsp;&nbsp;ScienceDailyInvisible smart bug fights gum disease&nbsp;&nbsp;EurekAlert!",
+      "id": "b9252e311041",
+      "title": "Scientists Just Captured Killer T Cells in Action Inside Tumors - SciTechDaily",
+      "published": "2026-05-08T11:54:37+00:00",
+      "summary": "Scientists Just Captured Killer T Cells in Action Inside Tumors&nbsp;&nbsp;SciTechDailyScientists Are Starting to Unlock the Nanoscale Secrets of the Immune System&nbsp;&nbsp;WIREDFirst-ever 3D view shows how killer T cells destroy cancer&nbsp;&nbsp;ScienceDailySeeing the immune system in action: new imaging study sheds light on cancer immunotherapy&nbsp;&nbsp;The Institute of Cancer ResearchAn unprecedented view of the immune system’s killer cells&nbsp;&nbsp;EurekAlert!",
       "sources": [
         {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRbW5JTHU4dVhaaXhZNUhqcDhjeVBpYkEzMFRZUlhObURVaUdfalJCTDFIS0ptMWJHNlRveHdqYVpLVFdJRmFJbkF2YzRycFo5d3ZDb09QeTc3eF9xVmFlb25rcS05M3g3ZE9BcTRVVQ?oc=5"
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPelZUci1xNXJrQVd1NGRYczBIemdFZS1HVzgyNW8tMDZaT3RuTkRIRXZBSW90aGRyd08yUDdEUTBydGpDUW5sX0Q3VkhDNlR6cHRieUVNMERYVm4wTlhMcmp6NVRHNkkzUUpBa0N1VlZ6bUpLZHNTd0VzQy1fWWNiLU9pZE9BNWd6OW9hamZKUUxnUnM?oc=5"
         }
       ]
     },
     {
-      "id": "ab4d134727b4",
-      "title": "Is The Brain Born 'Blank' or 'Full'? New Study Reveals a Surprise - ScienceAlert",
-      "published": "2026-05-08T08:12:28+00:00",
-      "summary": "Is The Brain Born 'Blank' or 'Full'? New Study Reveals a Surprise&nbsp;&nbsp;ScienceAlertSee more headlines & perspectives on Google News",
+      "id": "ce708470bb80",
+      "title": "What Having Flat Feet Really Means For Your Health, According To Experts - HuffPost",
+      "published": "2026-05-08T11:00:18+00:00",
+      "summary": "What Having Flat Feet Really Means For Your Health, According To Experts&nbsp;&nbsp;HuffPost",
       "sources": [
         {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV21Ia005cV81R1RWZ3MzbDBNdHliTzZ4YkQzcjBoN3VzOFc2U0xybi1hejJqa0RqdWw3LURMYVk1QmUzcldrbUEyMzd1cExjLTB3bGloSW53U1RjQXVHWFRwNDhra3RaTkEyNkRMR1hoRHVzTktfNGNRdXljRHFUVUxNdHQ4M05EdDlJcTNDcF9zejg?oc=5"
+          "name": "HuffPost",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa3I0WlpodkZlOUNOMmJfM1lHcDNQdkoxQUtKRlJUQjlaeERQanFpSEpsUW9pZ2tUd0dtdGVhS2l4QlpmV2wtMGdYTENCQUhwNUVYVU1qX3dnN0J5clFfVU4xWUwzVTdpTVdRUWVrYXVjaFdTV1diNVBsMnRMaVRyQmt2cEhUa3N2bzZCUUJPUkxKR0F0SUHSAZsBQVVfeXFMUHAxdVAycTdMbU5rZEN5enoxMWVROHZIVDBLNGM0aFVkUGpwNkg3ZDQweTVFaFBpVVF2Y2hQYkU3U0IwdC1YRm1palNhNTBydzdGTHF2NUtRejhPWWJKREFQVkQyX184c3pxVERXWWUwSnJXTkQ1cEdBZFd0MUpaQ3pxeHFnLUhPeUFaajY0S0hLY0k5aGtrR19pNG8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1927992fc8ee",
+      "title": "NASA's Artemis 2 astronauts saw flashes on the far side of the moon that cameras struggle to capture. Here's why scientists are excited - Space",
+      "published": "2026-05-08T10:00:00+00:00",
+      "summary": "NASA's Artemis 2 astronauts saw flashes on the far side of the moon that cameras struggle to capture. Here's why scientists are excited&nbsp;&nbsp;SpaceThe Sky is Falling: Everything You Need to Know About NASA’s Discovery of Lunar Impact Flashes&nbsp;&nbsp;vocal.mediaWhy does the Moon appear larger on the horizon than when it is directly overhead?&nbsp;&nbsp;Universe Space TechLunar Impact Flashes NASA Artemis: How Artemis 2 Astronauts Witnessed Hidden Meteoroid Explosions on the Moon&nbsp;&nbs",
+      "sources": [
+        {
+          "name": "Space",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOanQ3Y0hmZUMwQTZPWE5hYnRYRW1YYUI5djg4NTdtTlBjelMzd1BWZmstOGpXcF81Y1IyOHZWemZNcGd2Ukhka0VKTG5HRWJEVXo3TENpQm4xdkNUSE9weUoxam5NY0pYdThBS0NoQ1VhSlpsQW9adEpLLWZNX2ZpYTFUUzluOGRQS3g1NnYzbmlIMVlHLTd3X2k2bWNZWjg2SHI0UUJDYmIyYmgtUHJyaFRQUGluMFZmSzdacTdJVVNaQktxejlCdGQ3R1dfNTZKNDh4cUxnWjZoaTd1eGE2bUxmenZDdjJOOGVBUkZNc1ZyV2pTUF8tVHNCMVVvanZnTk9qMmdlU3oySkts?oc=5"
         }
       ]
     },
@@ -78,62 +162,38 @@
       ]
     },
     {
-      "id": "fca4960947e4",
-      "title": "This Simple Movement Could Be Secretly Cleaning Your Brain - SciTechDaily",
-      "published": "2026-05-08T01:51:53+00:00",
-      "summary": "This Simple Movement Could Be Secretly Cleaning Your Brain&nbsp;&nbsp;SciTechDailyDirty mind? Study suggests gut movement may flush excess material from our brains&nbsp;&nbsp;Los Angeles TimesScientists discover a hidden brain “cleaning” effect triggered by movement&nbsp;&nbsp;ScienceDailyPenn State Brain Cleaning Study Reveals Shocking Link Between Movement and Brain Health&nbsp;&nbsp;Nbsla.caMovement Triggers a Hidden 'Brain Cleaning' Mechanism, Study Shows&nbsp;&nbsp;ScienceAlert",
+      "id": "44acc343600f",
+      "title": "Dirty mind? Study suggests gut movement may flush excess material from our brains - Los Angeles Times",
+      "published": "2026-05-07T23:04:50+00:00",
+      "summary": "Dirty mind? Study suggests gut movement may flush excess material from our brains&nbsp;&nbsp;Los Angeles TimesMovement Triggers a Hidden 'Brain Cleaning' Mechanism, Study Shows&nbsp;&nbsp;ScienceAlertScientists discover a hidden brain “cleaning” effect triggered by movement&nbsp;&nbsp;ScienceDailyPenn State Brain Cleaning Study Reveals Shocking Link Between Movement and Brain Health&nbsp;&nbsp;Nbsla.caThis Simple Movement Could Be Secretly Cleaning Your Brain&nbsp;&nbsp;SciTechDaily",
       "sources": [
         {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMXlOMnhXVWdrVWJqZURpWjFRRG8tVy1yUnQxTUhPWVl2Ry1yd2hRQWdvWHl5cHN0Zk5qcFhIMWlIYV93YUJienFSSVk3NndfbV9uSTRxSU9ZRHN1R0JQQnh3UXBLcl9MTDFoU2dJNXY3cHpUR0RTb2J5eUd2OXl5ckJzMDRaZkhKTERRMw?oc=5"
+          "name": "Los Angeles Times",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRnlVVHo0Yld5dHktQWV5eWZxejlHUUVudkgtMURrVnRCTXFjZVROckZjSXp6dGZZLVhscjlnVFNHc1QweUczd0FxRlBCSjh6T3UtTTE1NlBfNWlpaWlQd1JOM3dVUThjSkx0UkZ6V0Fuc2Zfc0RZS0Z0akFXRzhGSmhrMGc1N2ExSHk2VnVRR28ycTZ2RFhmWlpn?oc=5"
         }
       ]
     },
     {
-      "id": "a48a483dea4f",
-      "title": "Eating eggs could cut Alzheimer’s risk by 27% - ScienceDaily",
-      "published": "2026-05-07T22:24:31+00:00",
-      "summary": "Eating eggs could cut Alzheimer’s risk by 27%&nbsp;&nbsp;ScienceDailyAlzheimer’s risk slashed by eating more of one common food, study suggests&nbsp;&nbsp;Fox NewsAlzheimer’s study finds link between breakfast staple and reduced risk of disease&nbsp;&nbsp;The HillEggs and brain health: New study cracks open Alzheimer’s link&nbsp;&nbsp;WZTVStudy: Egg consumption is associated with a lower risk of Alzheimer’s Disease&nbsp;&nbsp;Loma Linda University",
+      "id": "e7edbe08b3ea",
+      "title": "Webb space telescope finds a giant galaxy that doesn’t spin - ScienceDaily",
+      "published": "2026-05-07T21:52:12+00:00",
+      "summary": "Webb space telescope finds a giant galaxy that doesn’t spin&nbsp;&nbsp;ScienceDailyA massive and evolved slow-rotating galaxy in the early Universe&nbsp;&nbsp;NatureNon-Rotating Early Galaxy Is a Surprise to Astronomers&nbsp;&nbsp;UC DavisUC Davis researchers investigate young galaxy that isn’t spinning&nbsp;&nbsp;KCRAJWST discovers ‘red monster’ galaxy that challenges astronomers’ understanding of the early universe&nbsp;&nbsp;Scientific American",
       "sources": [
         {
           "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CVlo5QkVSRmszV0RvMWp1ZVJ3Sjl2Ti0xS3huTFozeUZFT0xzLUZSd2NkU0VYWG03NlozUnZubjBsMVhscDlVNDNuZG1IbGtpT1JGYlF2RExtTXlQUDFxcDkxZnRuWHAzMVVJdVN5OA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBST0dwSWlHdE5TSFhjOXRXUjRSQ1ZIVVJDZFVjbTliaHpQZkxNbWt4M09KUW1jMlFiYTVvWWNRNzJ6NlZRUm81elRsUlVEWG8tS05sc2V6ZXB4TG0wdmlHOWJNbkJYLXRYMldSVHplZw?oc=5"
         }
       ]
     },
     {
-      "id": "9825848690a0",
-      "title": "As measles roars back, scientists find antibodies that could offer protection - The Washington Post",
-      "published": "2026-05-07T22:00:00+00:00",
-      "summary": "As measles roars back, scientists find antibodies that could offer protection&nbsp;&nbsp;The Washington PostFirst measles treatment advances as vaccination rates drop&nbsp;&nbsp;BioWorld NewsResearchers identify antibodies that may prevent and treat measles infections&nbsp;&nbsp;ReutersNew findings from La Jolla Institute for Immunology suggest a possible measles treatment&nbsp;&nbsp;San Diego Union-TribuneAntibodies that stop measles from stabbing cells could become new treatments for the surgi",
+      "id": "c3da1446199c",
+      "title": "New wireless visual cortex implant helps restore artificial sight - Interesting Engineering",
+      "published": "2026-05-07T21:38:00+00:00",
+      "summary": "New wireless visual cortex implant helps restore artificial sight&nbsp;&nbsp;Interesting EngineeringBrain implant delivers artificial sight to people with complete blindness&nbsp;&nbsp;Engineering and Technology MagazineThird successful implantation of wireless visual prosthesis brain implant advances the frontier of artificial vision&nbsp;&nbsp;EurekAlert!",
       "sources": [
         {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVE5Xem1rWGJPYmg5M3o3SEF0S3ZXSXVBWWlKX1E0bHNYWDBST3hmQ2JqZG5GTW5aemFQMDJFajhabXBzNHR5Zjk4UVpBRDBLQkJkV1VTUlE4d1lvNzZiZDJrRFFuQUY5aEdHUHQzR3pfZE9udGJ1WkNBVm83S09BSlBFSVJ6YlpxMEROenNHdE5rVmozaUNjektMNmRObWs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3da402b6046d",
-      "title": "New Research Shows Vitamin B12 May Hold the Key to Healthy Aging - SciTechDaily",
-      "published": "2026-05-07T20:05:57+00:00",
-      "summary": "New Research Shows Vitamin B12 May Hold the Key to Healthy Aging&nbsp;&nbsp;SciTechDaily",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdVUzd1UwV2g1anhvZ3FReG5RdndKOGk0dDJhV2d3bUVFY1BHYndCMUVJNUJ0UEl5d3YxT05VU1dzOWxxalJtRnNWT0oxMDFBOFJ6SjdrdWRrejFhTVBPSVVuUGZiR2tJcHdxUExoTy10enBZQ203RjI5bWtpRXBSV2FCODk4T0hFSENOUllwN0NtRGhP?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2a10d694f1a9",
-      "title": "No, Ivermectin Is Not Proven To Treat Hantavirus - Forbes",
-      "published": "2026-05-07T19:23:24+00:00",
-      "summary": "No, Ivermectin Is Not Proven To Treat Hantavirus&nbsp;&nbsp;ForbesIs there a treatment for hantavirus?&nbsp;&nbsp;The Hill‘Ivermectin should work…’: Doctor gives possible Hantavirus solution after Georgia update&nbsp;&nbsp;Hindustan TimesCan ivermectin cure hantavirus? Controversial Covid treatment touted for rat disease outbreak&nbsp;&nbsp;New York PostIs this 2020 all over again? Some Republicans want horse dewormer to fend off hantavirus&nbsp;&nbsp;NJ.com",
-      "sources": [
-        {
-          "name": "Forbes",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPazc2RHpWQU05aVhUWU5mS2R4QVNHZ3g4UjZIQlBIZVp2MFpJY3BKWDF6SEx3bkpTRmVEVWJkSTJrTW1MNnhUVGtJV3kwd0ZFbWNPWkJmbEtsLTljNzdJazg5NUVib0dkTHhRdnhNR1JDYVpWazJ6QVBaX1JVeUx1amd4QUx2eWd5R3FSM0o1Q2p4d2N0WEIzTU5ZanByLXRYOVY4?oc=5"
+          "name": "Interesting Engineering",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTVQ3OGg4ZnZVZUFmSE1sbVZDZHMyd1o1TUZwanpsdzBXejI4UkFtZnZwbnQ0VV9lV1BLaC1RV1dZQkZva0lYRzJBcFJTeWY4RlJkUk9iTnFXcGdETmVBZGEyak5GMzdBVGN2TjJmb2NJdUpjWlpWeFAtVGpQeVptZWZOYkg4ZVBqaUg1dGpEcnoyUzlaeGJJaUpXWUNpRWc?oc=5"
         }
       ]
     },
@@ -174,18 +234,6 @@
       ]
     },
     {
-      "id": "60d350a0d130",
-      "title": "About Half of Patients with Metastatic Lung Cancer Don’t Get Treatment, Study Finds - The New York Times",
-      "published": "2026-05-07T15:34:10+00:00",
-      "summary": "About Half of Patients with Metastatic Lung Cancer Don’t Get Treatment, Study Finds&nbsp;&nbsp;The New York TimesDespite breakthroughs, many go without treatment for metastatic lung cancer&nbsp;&nbsp;Medical XpressNearly Half of Older Adults With Metastatic Lung Cancer Went Untreated&nbsp;&nbsp;CUREtoday.comPrecision Medicine in Treating Lung Cancer: A Narrative Review on Treatments Targeting Oncogenic Genetic Mutations&nbsp;&nbsp;Cureus65 % of eligible lung cancer patients do not receive the mo",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xeVdnaG04bURZbC1jVXk1eF8zRTkyUjA5WXhnS3BkYnFibFhmSjk1LUM2MThCb0pUaFJLY3hOTWVETFFZMVFmUEdSemZpa2RkQXlkVWZYQVhDTzEySktGT0Njdy1Pd19MTG1fenhqSjNaN2dJMXNZZHNNQnBIUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9851ae83b1e7",
       "title": "A researcher may have found a shortcut to Mars as NASA eyes red planet - Yahoo News UK",
       "published": "2026-05-07T15:05:39+00:00",
@@ -210,6 +258,30 @@
       ]
     },
     {
+      "id": "d5abaa2f6e78",
+      "title": "There is no vaccine for deadly hantavirus: what that means for future outbreaks - Nature",
+      "published": "2026-05-07T13:37:22+00:00",
+      "summary": "There is no vaccine for deadly hantavirus: what that means for future outbreaks&nbsp;&nbsp;NatureModerna flags work on hantavirus vaccines before cruise outbreak&nbsp;&nbsp;The Boston GlobeScientists are working on a hantavirus vaccine — but it’s likely years away&nbsp;&nbsp;NBC NewsHow Hantavirus Made Moderna a Must-Own Stock Again&nbsp;&nbsp;Barron'sOpinion | The hantavirus outbreak underscores the need for mRNA vaccines&nbsp;&nbsp;The Washington Post",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYOUYyZzNzSTdSLURSMWhEcHJpREppZWQ2bUxFUWpEM1dxVldIVFVIN0hoUldmVXJGSDBWRmc5bG5oRjVDNWszRjMwbTAtZ3FIaDdxbURkek1QNVZHT3Nz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ee12d5992f42",
+      "title": "Scientists Have Created The First Ever 'Smell Map', And It's Stunning - ScienceAlert",
+      "published": "2026-05-07T12:02:10+00:00",
+      "summary": "Scientists Have Created The First Ever 'Smell Map', And It's Stunning&nbsp;&nbsp;ScienceAlertHarvard Scientists Reveal Secret Structure Behind How You Smell&nbsp;&nbsp;SciTechDailyResearchers Create Detailed Map of Smell Receptors in Mouse Nose&nbsp;&nbsp;Sci.NewsHarvard Scientists Create First 'Smell Map,' Revealing Olfactory Neurons' Striped Pattern&nbsp;&nbsp;동아사이언스Scientists Create First ‘Map of Smell,’ Revealing How Noses Track Odors&nbsp;&nbsp;ZME Science",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNEROWS1Da1AzVmNaSjl5M2lpS2djbFVuYXRoaGE5cktUV2ZzdGlGakR5ZDZIWGQ3cGtlUlg0UnJOYzc4eXk3QlAzdGNRWFBUdnAxUGdZVmE3TkxXd1lycFpXTVo3TUxGa0lnUVM5V0pVN0U5YTlfLXJ0UlhtdVZYcVJzdDZoSjFsZVl6SzdNRDUtci0tUE9GR1ZB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "dfbbb6b0bcc3",
       "title": "Fungal strains in space spark worry - Yahoo",
       "published": "2026-05-07T11:24:56+00:00",
@@ -222,18 +294,6 @@
       ]
     },
     {
-      "id": "ed4ca4775051",
-      "title": "Rapidly melting Antarctic ice shelves may cause global sea levels to rise far faster than expected - Phys.org",
-      "published": "2026-05-07T09:00:06+00:00",
-      "summary": "Rapidly melting Antarctic ice shelves may cause global sea levels to rise far faster than expected&nbsp;&nbsp;Phys.orgA ‘triple whammy’ of chaos has triggered a downward spiral in Antarctica, scientists discover&nbsp;&nbsp;CNNResearchers issue climate change warning as sea ice in Antarctica melts to record lows&nbsp;&nbsp;The IndependentChannelized topography amplifies melt-sensitivity of cold Antarctic ice shelves&nbsp;&nbsp;NatureGlacier melt causes sea levels to rise more than previously thou",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92MHhwVjQ5ZlVnOUthZWRsOHFDNmNwZl9POVg3V2pwSWFyNV9JM0I3X1JzZmRBLWVnSDlHTjE5RzM4M1FHOTljdDdBMnNQUXhzdERRYjJyWEg1YTVrSExnRi1xb2N1N1l3djJzbk00c3p2cDdtNFNkQlI0MA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5ae2aae396df",
       "title": "Scientists Gave ‘Aggressive’ Fish Psychedelic Drugs. A Breakthrough Came Next - 404 Media",
       "published": "2026-05-07T04:06:27+00:00",
@@ -242,54 +302,6 @@
         {
           "name": "404 Media",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2JKYXVFQTgtY1hfYmNVRHlYazZlWkRQei1ibUlCeFEzNzNiZWVoNlRzUzI3ajJmWjZ1eFVETktCYVlLRFFCNXhIdFlDUlM0QW93cnB2bHQwcUdETUdYSTVyajdLRGQ1OUhWSzVQYTVKcnNpbjNzZzNsMlVxbl9RVw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1a99a02190c4",
-      "title": "Bioluminescent algae’s blue light harnessed to make 3D-printed shapes - The Guardian",
-      "published": "2026-05-07T01:30:00+00:00",
-      "summary": "Bioluminescent algae’s blue light harnessed to make 3D-printed shapes&nbsp;&nbsp;The GuardianGlowing algae could power the lamps of the future&nbsp;&nbsp;Popular ScienceCU Boulder researchers develop 3D-printed living lights from algae&nbsp;&nbsp;Interesting EngineeringLight without electricity? Glowing algae could make it possible&nbsp;&nbsp;Phys.orgLiving algae created that continuously glows in blue light without using electricity&nbsp;&nbsp;Earth.com",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVlF5d3k4UThLZHI4UFptTmJ1dExZY3hwSFlnLXZyUUdLQmw5Y2lrQ0o0VUJjQVBSSXJEcmhKckw3bnNYY2tfSk9SdlU1V25QT2FWdGk3d3NDcmtSaVloOUJHWnJ6SFlTSHNpVUFiNHNvLUN3cmhvWU1lRmJuR2xPdTRTb3A5bEdSc0hFSHVYSGk4ZFhPMi1FRWhNOFhTY2s3UlRMOTgxY3NkOF9QSVpjbVpuSlM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a4393b321172",
-      "title": "Magnetic 'super lenses' open new window on high-temperature superconductors - Phys.org",
-      "published": "2026-05-06T23:40:03+00:00",
-      "summary": "Magnetic 'super lenses' open new window on high-temperature superconductors&nbsp;&nbsp;Phys.orgA new perspective on high-temperature superconductors: Magnetic “super lenses” for research under extreme pressure&nbsp;&nbsp;idw - Informationsdienst WissenschaftFor the first time, researchers are peering inside record-breaking superconductors&nbsp;&nbsp;chemeurope.com",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NUGt4bGl5NmRaTEdNQTJLZUFRX2Y2VVhWM3I0emhodlNoU3BibW1iY2lBU1lwSVoycHhMNHJERGRKcC1pN0pqX0d3MTN2dEdsLWpvdXVNdmc2WFNGMWJ4TWlveUtBTXFoSW9MMHM1MGdIWG1qQm44?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0603f9c1c10f",
-      "title": "Revealed: the mysterious ‘dark’ proteins that might play a big role in biology - Nature",
-      "published": "2026-05-06T22:43:04+00:00",
-      "summary": "Revealed: the mysterious ‘dark’ proteins that might play a big role in biology&nbsp;&nbsp;NatureExpanding the human proteome with microproteins and peptideins&nbsp;&nbsp;NatureThe human genome encodes for a new category of molecule&nbsp;&nbsp;The EconomistHow a global effort to explore the 'dark proteome' is upending our understanding of human disease&nbsp;&nbsp;statnews.comDark proteome yields 1,785 new microproteins that could reshape disease research&nbsp;&nbsp;Phys.org",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15OFR1NnhqTEh5S2lWWWF5REpGTzhVTTdOcmMxbi1YV1BkZE4wb3d1NlVxZm5KVGltM2E2ckpIQ0FUSVJZQXNZOU9hd2JfS051UllrT0YyNy1URFRnTnJz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "04c775b85e05",
-      "title": "NASA astronaut Mike Fincke opens up about unprecedented medical event that cut mission short - Pittsburgh Post-Gazette",
-      "published": "2026-05-06T21:51:58+00:00",
-      "summary": "NASA astronaut Mike Fincke opens up about unprecedented medical event that cut mission short&nbsp;&nbsp;Pittsburgh Post-Gazette",
-      "sources": [
-        {
-          "name": "Pittsburgh Post-Gazette",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeTRLeDVKVWNMZV9IQnhqd2MzektoMXJESXlRZ3JuQXZrM0REeTV1SGNyV0VqQ1Z1Skhzd3EyOGptUTU2N1FUOW52RGdBOVA5TDdhc0J0M3BMRTRFaTZLdnpKRk9ab3U5Tk9mZDY0NE9zUjlaeFFYSlhYLUZ4Y1NIMjBGV3V6eGpEREtsNWNNZDRGSGtvcUxfbThkMzdlVUhab1hybXE4am1xZjVfWVM0bA?oc=5"
         }
       ]
     }

@@ -1,43 +1,43 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-09T13:23:41.947028+00:00",
-  "total_fetched": 80,
-  "unique_count": 80,
-  "health_related_count": 26,
+  "fetched_at": "2026-05-09T19:07:14.497396+00:00",
+  "total_fetched": 75,
+  "unique_count": 75,
+  "health_related_count": 23,
   "news": [
     {
-      "id": "521a5ed10ad7",
-      "title": "Covid-19 cruise passengers recall painful memories amid hantavirus outbreak - NBC News",
-      "published": "2026-05-09T11:00:00+00:00",
-      "summary": "Covid-19 cruise passengers recall painful memories amid hantavirus outbreak&nbsp;&nbsp;NBC NewsAfter the Hantavirus Outbreak, Here’s What Cruise Travelers Should Know&nbsp;&nbsp;WSJMessage by the WHO Director-General to the people of Tenerife regarding the hantavirus response&nbsp;&nbsp;World Health Organization (WHO)Hantavirus cases nearly doubled in Argentina in the past year. Experts say climate change is to blame&nbsp;&nbsp;CNNHantavirus: Current Situation&nbsp;&nbsp;Centers for Disease Cont",
+      "id": "91aac1d8505e",
+      "title": "Hantavirus Cruise Ship: Passengers Will Be Evacuated Soon (Live Updates) - Forbes",
+      "published": "2026-05-09T18:33:00+00:00",
+      "summary": "Hantavirus Cruise Ship: Passengers Will Be Evacuated Soon (Live Updates)&nbsp;&nbsp;ForbesUS sending charter flight to bring Americans home from hantavirus cruise ship&nbsp;&nbsp;BBCCDC says threat of widespread outbreak of hantavirus remains low&nbsp;&nbsp;NPRHantavirus: Current Situation&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)Hantavirus cases nearly doubled in Argentina in the past year. Experts say climate change is to blame&nbsp;&nbsp;CNN",
       "sources": [
         {
-          "name": "NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOXhJazd4Y00xV3pNVmpWejFoOEFiZVlhYlIwSTlIclFBQV9TeVBSdGdTYXZsQ1FNZTllRGJzTHd1NjhuRlRpZGRiVlZzNUd2OTVjLUhobVBoSFFQQUdJLUhxXzc5aXF0Mk5BR3gyT3JidkI3b3pBQlExc1FMSVdIRld6ckZ3OXFhZnRfYktGeWJGR242ZjZIa3dlcmdoZktRY2g5VlNyei16blM3R0YxUTV1Um1zejRscHc?oc=5"
+          "name": "Forbes",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaUNES1V1QXlScEJjTG9HdDBCRXNsX0ViakJOcE00bzg1YWQ0aG5oVzlrZkhscGhhY0pUYmFRUERHdk8zREhKeWFHd1hkUi12ZzNfM0xEZGd6d2FSQjJxQzZuMENnQ1ZTSzF4X3gxMWJ5TnBCTTBEelpYTm9ybks3U1FBNTg2NUxfaF80b1o0c3N3eUw3MkdwOVBfS3hJSEVGVld1VV9ZY3FCSW5pdm1sdlM3d1djbzgxSFBIakM3aEF5Q09oRk1wZV9HMGZvMlBmN2d3OUZnUU02cGd2?oc=5"
         }
       ]
     },
     {
-      "id": "10da6025e263",
-      "title": "YouTuber Catches Heat After Attending Wedding Amid Hantavirus Outbreak - TMZ",
-      "published": "2026-05-09T07:55:40+00:00",
-      "summary": "YouTuber Catches Heat After Attending Wedding Amid Hantavirus Outbreak&nbsp;&nbsp;TMZHantavirus Ship Passenger Attended Packed Wedding After Leaving Cruise&nbsp;&nbsp;People.comYouTuber went to packed wedding after leaving MV Hondius as hantavirus spread: ‘We were not well informed’&nbsp;&nbsp;New York PostWho is Ruhi Çenet? YouTuber attends packed Istanbul wedding after being on hantavirus-linked cruise; sparks backlash&nbsp;&nbsp;PopRantTurkey says no hantavirus cases found after cruise ship o",
+      "id": "cf91ad94627a",
+      "title": "Spiral galaxy's brilliant heart shines bright in a new picture from NASA's Webb telescope - ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-05-09T14:07:02+00:00",
+      "summary": "Spiral galaxy's brilliant heart shines bright in a new picture from NASA's Webb telescope&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosSee more headlines & perspectives on Google News",
       "sources": [
         {
-          "name": "TMZ",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Rb3BIRUxmenZvWFB2LTdrNXdEY0JHM3NyeTBLRkk1cWxCZlA4SUJob0tITVRQU2hYcmEwa2lQWWN4VHptalotTFRfb18wd0FHX2dMRW5iSnREVGlTOEhELU5MMjJmZXJyZkJHMw?oc=5"
+          "name": "ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMWNvT0Qyd2VsN3F5YzAzN3RrUEluSFhtRDRseXhFc0txNE9ndjhzR3FYLVZBUlpIVFFXMUxZLWZabVVlekY5dGk0SllwWEpYV2c0ekY3bE0yQkxpcGF4dkh2N1pkWDJQbmhNZHpZbXl2b1lZRzB6LWd0a1ZLOHZYMTNGRWVSOXNXSWVGdk41Z3RYYWtHcEtmd1FHMWtnWURlNTlIUUV4ODVodDDSAbABQVVfeXFMT2RsRThWTlY3LVlDeTdRMEFwa1dmN2QtX25RZmpWd3FpTW10Y19sRzlHMHAyVTF2ajZiZFdERlR5WWFzLTMycmpKQndaQmlxVFlhRzZHalBuZjhCMU5fUTZmQjNrVDZpUEQ3YXU2SEI3YXRPSGZwcko3cURudnpvZ3VEWllsX0FBQTdFcS1jSGVvczBZb1RzaUdLTDhfMVlSczJKZG1rY1JYY0RTRloxZEs?oc=5"
         }
       ]
     },
     {
-      "id": "ec33f8433b31",
-      "title": "Texas doctor reignites ivermectin debate with new hantavirus claims - Chron",
-      "published": "2026-05-09T01:35:46+00:00",
-      "summary": "Texas doctor reignites ivermectin debate with new hantavirus claims&nbsp;&nbsp;ChronIvermectin Is Not Proven To Treat Hantavirus, Doctors Warn&nbsp;&nbsp;ForbesIs there a treatment for hantavirus?&nbsp;&nbsp;The HillInfectious disease experts shoot down ivermectin as hantavirus cure&nbsp;&nbsp;NewsNationAmid Hantavirus Panic, the Ivermectin Super Fans Are Back&nbsp;&nbsp;The Intercept",
+      "id": "d6a7bdddfad7",
+      "title": "Arizona man who survived hantavirus 24 years ago, but lost mom and sister, says recent outbreak is \"hard\" to process - CBS News",
+      "published": "2026-05-09T01:48:00+00:00",
+      "summary": "Arizona man who survived hantavirus 24 years ago, but lost mom and sister, says recent outbreak is \"hard\" to process&nbsp;&nbsp;CBS NewsAs hantavirus outbreak draws concern, Arizona survivor shares warning&nbsp;&nbsp;AZ FamilyHantavirus outbreak: Arizona man who survived the infection 24 years ago says it isn't as scary as COVID-19&nbsp;&nbsp;MintMan who survived hantavirus 24 years ago, but lost mom and sister, recounts experience&nbsp;&nbsp;AOL.com",
       "sources": [
         {
-          "name": "Chron",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa25SaXJ5alJJTzF2NXJVYVE3Y1lNT2JLZmVqYjFudmFJcjY3VjROTXc5dGhTOGxscUJSRE5LaF95NWFtZ0wwcEcyaWhjTGFDWHlMaTJLZHQzY3RUNGtWUHRuT0FPSzlQOXNEMHlwd3Nzd2ZvMUlhekJrRTdxQkdvRW9ZWTJGbmIyZlBiel9OVlNqQW9hNFFzeDh4bw?oc=5"
+          "name": "CBS News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZXB4YkUtTzdaQndiSGpWcVYwRnlhcF9nVTNHVGg1YklRV0tVTTVVR1NRZjJ6aDFhdmxGckVsZndpdkJXcTI2Y1RPaEFRWTJTMDBIZjc1Szh5NHZJQnd6SnE2OEhTLWZoa2VrRFlZbkxoRkNxVVBMajNiSXBZU2JNLVY0amNBeS0taFNOUWJEcnFTeVpIUkQzQnhuRWNyZ9IBowFBVV95cUxPbjNkVTRqRGd4WkI2SEdUWWR6OUVraDNNclBXUGNualNmSENQTWJOZVdOaVE4ZE9DQ3Q2QndkZ3pKNjhFWHYxUk5OMjFZYXFfUDFSN0toc2ZzUmhzd3QxLVBtaEo2Z1d6QjB2QndOaHJYMmgtT294Skk0OFFuUmU1WjNyT0RZaldVZEN2TjhraVcxS2h0cTRYYkdQb2NPZGo4VWpV?oc=5"
         }
       ]
     },
@@ -57,7 +57,7 @@
       "id": "33cdd6d6b042",
       "title": "115 people sickened in norovirus outbreak on cruise ship: CDC - ABC7 Los Angeles",
       "published": "2026-05-08T23:00:16+00:00",
-      "summary": "115 people sickened in norovirus outbreak on cruise ship: CDC&nbsp;&nbsp;ABC7 Los Angeles115 sick with norovirus on Princess cruise ship that left Fort Lauderdale, CDC says&nbsp;&nbsp;NBC 6 South FloridaNorovirus Outbreak Sickens 115 on Cruise Ship&nbsp;&nbsp;The New York Times115 sick in norovirus outbreak on Florida-bound cruise ship, CDC says&nbsp;&nbsp;WFLANorovirus outbreak sickens nearly 120 passengers and crew aboard Princess Cruises ship&nbsp;&nbsp;New York Post",
+      "summary": "115 people sickened in norovirus outbreak on cruise ship: CDC&nbsp;&nbsp;ABC7 Los Angeles115 sick in norovirus outbreak on Florida-bound cruise ship, CDC says&nbsp;&nbsp;WFLANorovirus outbreak on Florida-bound cruise ship sickens 115 passengers and crew&nbsp;&nbsp;The Independent115 sick with norovirus on Princess cruise ship that left Fort Lauderdale, CDC says&nbsp;&nbsp;NBC 6 South FloridaSick ship to dock in Port Canaveral on Monday&nbsp;&nbsp;WKMG",
       "sources": [
         {
           "name": "ABC7 Los Angeles",
@@ -66,10 +66,34 @@
       ]
     },
     {
+      "id": "d8744db06670",
+      "title": "Brazilian dinosaur discovery points to an ancient route from Europe to South America - Yahoo",
+      "published": "2026-05-08T20:07:00+00:00",
+      "summary": "Brazilian dinosaur discovery points to an ancient route from Europe to South America&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbENqcktJUFN4cUVCWDdGRUtEYXF4Qk9SV3FfbkFuNGQ3RFN1Ym53b3RYUWVadllmUEVWMHdlSEVVWG9oQThwREI5R3VSdkJzT2R0eFljNXV0T0g2ZUdxdjJ5Y3BaMkpNcWhMQVdUV2JNRXp3ZXhWWGR4RDhJZ25DalVnY1FuOVJfNkROMnk4VnpmQlo0RFNfUzN3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3d8e023d2ee6",
+      "title": "NASA Fires Up Record-Breaking Plasma Thruster for Future Mars Missions - SciTechDaily",
+      "published": "2026-05-08T18:53:58+00:00",
+      "summary": "NASA Fires Up Record-Breaking Plasma Thruster for Future Mars Missions&nbsp;&nbsp;SciTechDailyNASA is making a powerful new ion engine to send astronauts to Mars — and it just passed its 1st test&nbsp;&nbsp;SpaceGenesis AI’s robotic brain aims to give general-purpose robots human-level dexterity&nbsp;&nbsp;MSNWhy ion engines barely push harder than a sheet of paper and how that whisper of thrust is quietly rewriting the economics of deep space exploration&nbsp;&nbsp;Space DailyNASA tests revolut",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMllUWmNCRDdxN1F3S2xQNmd2c0FKXzRrX3NQa2ZlbjlaRTNyRDFUN09fMGQ5dHJxdDBuNmdNRjFZYktYQ1RxWkxRcExsS0FZV25nbTkwMHc4QU9hTENwNExXajVMQTQzdlk2STRvR3FpaVFjTEZoY1M3eVhPV3ZEMVpVQ1NBRUc4aDdXaFZVMnpfeW91VGEtQkExRjY?oc=5"
+        }
+      ]
+    },
+    {
       "id": "dd11ff2d31fc",
       "title": "Moderna (MRNA) Stock Surges 14% on Hantavirus Vaccine. Here’s What Investors Should Know - TipRanks",
       "published": "2026-05-08T18:10:27+00:00",
-      "summary": "Moderna (MRNA) Stock Surges 14% on Hantavirus Vaccine. Here’s What Investors Should Know&nbsp;&nbsp;TipRanksModerna flags work on hantavirus vaccines before cruise outbreak&nbsp;&nbsp;The Boston GlobeScientists are working on a hantavirus vaccine — but it’s likely years away&nbsp;&nbsp;NBC NewsMRNA Stock Alert: Moderna Surges on Hantavirus Vaccine Hopes&nbsp;&nbsp;Yahoo FinanceThere is no vaccine for deadly hantavirus: what that means for future outbreaks&nbsp;&nbsp;Nature",
+      "summary": "Moderna (MRNA) Stock Surges 14% on Hantavirus Vaccine. Here’s What Investors Should Know&nbsp;&nbsp;TipRanksHantavirus Vaccines and Treatments Are in the Pipeline&nbsp;&nbsp;The New York TimesOpinion | The hantavirus outbreak underscores the need for mRNA vaccines&nbsp;&nbsp;The Washington PostModerna flags work on hantavirus vaccines before cruise outbreak&nbsp;&nbsp;The Boston GlobeScientists are working on a hantavirus vaccine — but it’s likely years away&nbsp;&nbsp;NBC News",
       "sources": [
         {
           "name": "TipRanks",
@@ -78,26 +102,26 @@
       ]
     },
     {
-      "id": "aa00cd312ada",
-      "title": "Engineers at NASA’s Jet Propulsion Lab make a breakthrough in rotor technology - Ars Technica",
-      "published": "2026-05-08T15:46:27+00:00",
-      "summary": "Engineers at NASA’s Jet Propulsion Lab make a breakthrough in rotor technology&nbsp;&nbsp;Ars TechnicaNASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1&nbsp;&nbsp;NASA (.gov)NASA's new generation of rotor blades, with supersonic tips, is set to equip the SkyFall project: a Martian helicopter designed to carry instruments and sensors in support of future human and robotic missions on Mars.&nbsp;&nbsp;CPG Click Petróleo e GásNASA confirms Mars helicopters could survive Mach 1.08 to boo",
+      "id": "b0fa87754690",
+      "title": "Is it true that eating more eggs could help lower Alzheimer's risk? - Medical News Today",
+      "published": "2026-05-08T17:42:28+00:00",
+      "summary": "Is it true that eating more eggs could help lower Alzheimer's risk?&nbsp;&nbsp;Medical News TodayAlzheimer’s study finds link between breakfast staple and reduced risk of disease&nbsp;&nbsp;The HillStudy: Egg consumption is associated with a lower risk of Alzheimer’s Disease&nbsp;&nbsp;Loma Linda UniversityEggs and brain health: New study cracks open Alzheimer’s link&nbsp;&nbsp;WZTVAlzheimer’s risk slashed by eating more of one common food, study suggests&nbsp;&nbsp;Fox News",
       "sources": [
         {
-          "name": "Ars Technica",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVkRIU3hBcjVMSElmWk9ma0IwWEdZZFh6cmstS2hrN05BZkFnOGZFNUVtUVhnWlNIRGlNNm03Z3AxQmVqVmxaeGtfT3BRbXhmeXlIbHllcFU0MWNpRGg4aUhVYlNaeFkzZXlLaVdRenJkeFRDT3dVMzhOXzNpUXpTbHNkcmdaRmN3SjQzUXc1XzBWd3JFZElRZm1jb0l5dXhmUFB4b2hfRUs5TmRiM2RlaFlCR0ZUMGs?oc=5"
+          "name": "Medical News Today",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTJ0UnhxRWwzakxNeTZNcU1ES2hPbjdqTUp6d2FFbVNTdjdKNjhUTGhFSlNYWVctNjRMWUZuQjNtUnR4SEZBdEFNYVZQNTVZeDVmWkcxTmFVTXNIRWJpcWM3dWdRWnhhQ0gya2xQX0NqVWJKbm1ZWFBCd1lrQmdPQ0V1djNaaWU3Z29VTzh1LXJCSElWWXpwV2YyUzI0S045MlE?oc=5"
         }
       ]
     },
     {
-      "id": "3ce1fe07518c",
-      "title": "Spiral galaxy’s brilliant heart shines bright in a new picture from NASA’s Webb telescope - AP News",
-      "published": "2026-05-08T15:16:00+00:00",
-      "summary": "Spiral galaxy’s brilliant heart shines bright in a new picture from NASA’s Webb telescope&nbsp;&nbsp;AP NewsSee more headlines & perspectives on Google News",
+      "id": "aa00cd312ada",
+      "title": "Engineers at NASA’s Jet Propulsion Lab make a breakthrough in rotor technology - Ars Technica",
+      "published": "2026-05-08T15:46:27+00:00",
+      "summary": "Engineers at NASA’s Jet Propulsion Lab make a breakthrough in rotor technology&nbsp;&nbsp;Ars TechnicaNASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1&nbsp;&nbsp;NASA (.gov)NASA tests confirm next-generation Mars rotors can safely break the sound barrier&nbsp;&nbsp;Interesting EngineeringNASA's new generation of rotor blades, with supersonic tips, is set to equip the SkyFall project: a Martian helicopter designed to carry instruments and sensors in support of future human and roboti",
       "sources": [
         {
-          "name": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbUVQVkN0RVV5aGRiUlItNFIwa0JwOHIzM0hOMFRBRURwV1pEUUJsU0JnUmdMMXBwUXh6dnZWdVFocWppRjJRMGJ6bFhzN3hBTkROdlhiWHZ6al9FWVpyNjVuRmdmMWlRUGZyOG5MSXNzam5zd3FnYXB1U0VBU0dUVGhvbWJnSmtoODBuZHlsaTZhMzFfcTE2Z3B0MGhZaEU?oc=5"
+          "name": "Ars Technica",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVkRIU3hBcjVMSElmWk9ma0IwWEdZZFh6cmstS2hrN05BZkFnOGZFNUVtUVhnWlNIRGlNNm03Z3AxQmVqVmxaeGtfT3BRbXhmeXlIbHllcFU0MWNpRGg4aUhVYlNaeFkzZXlLaVdRenJkeFRDT3dVMzhOXzNpUXpTbHNkcmdaRmN3SjQzUXc1XzBWd3JFZElRZm1jb0l5dXhmUFB4b2hfRUs5TmRiM2RlaFlCR0ZUMGs?oc=5"
         }
       ]
     },
@@ -141,11 +165,23 @@
       "id": "9e5d46b0e169",
       "title": "Surge in fake citations uncovered by audit of 2.5 million biomedical science papers - Nature",
       "published": "2026-05-08T11:31:58+00:00",
-      "summary": "Surge in fake citations uncovered by audit of 2.5 million biomedical science papers&nbsp;&nbsp;NatureFraudulent citations, blamed on AI hallucinations, are becoming more common in research papers&nbsp;&nbsp;statnews.comReview uncovers rising rate of fake references in published biomedical papers&nbsp;&nbsp;CIDRAPOne in 277 PubMed-indexed papers in 2026 shows fabricated references, says analysis&nbsp;&nbsp;Retraction WatchNearly 3,000 peer-reviewed medical papers have fake citations, a Columbia N",
+      "summary": "Surge in fake citations uncovered by audit of 2.5 million biomedical science papers&nbsp;&nbsp;NatureFraudulent citations, blamed on AI hallucinations, are becoming more common in research papers&nbsp;&nbsp;statnews.comReview uncovers rising rate of fake references in published biomedical papers&nbsp;&nbsp;CIDRAPNearly 3,000 peer-reviewed medical papers have fake citations, a Columbia Nursing AI-assisted audit finds&nbsp;&nbsp;EurekAlert!'Tip of the Iceberg': Study Uncovers AI-Fabricated Citatio",
       "sources": [
         {
           "name": "Nature",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ONUpqQWF0TVNpTkM5QWdiRDlYV2pGLU1CMFlYdXFYdldQZExpZ3l6RmJQTmR4UTVJVlZSdWRoVlFSSXo2aWFEQUhGNjBxV2haRHBYYVQzdFROZ1VHQUh3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "850aaec6bb49",
+      "title": "The latest AI breakthroughs in structural biology: protein binder design and conformational state prediction - Nature",
+      "published": "2026-05-08T11:10:36+00:00",
+      "summary": "The latest AI breakthroughs in structural biology: protein binder design and conformational state prediction&nbsp;&nbsp;Nature‘AI is changing the way we do biology’&nbsp;&nbsp;Stanford ReportStanford researchers develop AI scientists for therapeutic discovery&nbsp;&nbsp;The Stanford DailySuper transformer aims to bring order to biology's data under one AI model&nbsp;&nbsp;Phys.orgWhat Happens When AI Transforms a Specialized Field Overnight?&nbsp;&nbsp;Yahoo Tech",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyS2pwbGhrcjZjNC02aHZmc1J6NTk4eUNIb0hERU9JY2o3MWt0NmpDTExxd1hPNU9JcUkzV0lwWjdVd200bzliNEMzUENMdWtUZGdmaW5LdGdmb0JPQUJB?oc=5"
         }
       ]
     },
@@ -165,7 +201,7 @@
       "id": "1927992fc8ee",
       "title": "NASA's Artemis 2 astronauts saw flashes on the far side of the moon that cameras struggle to capture. Here's why scientists are excited - Space",
       "published": "2026-05-08T10:00:00+00:00",
-      "summary": "NASA's Artemis 2 astronauts saw flashes on the far side of the moon that cameras struggle to capture. Here's why scientists are excited&nbsp;&nbsp;SpaceThe Sky is Falling: Everything You Need to Know About NASA’s Discovery of Lunar Impact Flashes&nbsp;&nbsp;vocal.mediaLunar Impact Flashes NASA Artemis: How Artemis 2 Astronauts Witnessed Hidden Meteoroid Explosions on the Moon&nbsp;&nbsp;Nbsla.caArtemis 2 proves human eyes beat cameras on the moon&nbsp;&nbsp;Rolling OutArtemis II Crew Eyes Meteor",
+      "summary": "NASA's Artemis 2 astronauts saw flashes on the far side of the moon that cameras struggle to capture. Here's why scientists are excited&nbsp;&nbsp;SpaceLunar Impact Flashes NASA Artemis: How Artemis 2 Astronauts Witnessed Hidden Meteoroid Explosions on the Moon&nbsp;&nbsp;Nbsla.caThe Sky is Falling: Everything You Need to Know About NASA’s Discovery of Lunar Impact Flashes&nbsp;&nbsp;vocal.mediaArtemis 2 proves human eyes beat cameras on the moon&nbsp;&nbsp;Rolling OutArtemis II Crew Eyes Meteor",
       "sources": [
         {
           "name": "Space",
@@ -189,7 +225,7 @@
       "id": "9cc120bb0461",
       "title": "Infectious disease experts alarmed by Legionella infections at Bay Area hospital - SFGATE",
       "published": "2026-05-08T00:28:33+00:00",
-      "summary": "Infectious disease experts alarmed by Legionella infections at Bay Area hospital&nbsp;&nbsp;SFGATE18 Legionella infections confirmed at Bay Area Kaiser hospital&nbsp;&nbsp;San Francisco ChroniclePublic health officials confirm 18 Legionella infections connected to Kaiser Permanente Santa Clara&nbsp;&nbsp;KTVUMore than a dozen Legionella cases confirmed in California hospital&nbsp;&nbsp;USA Today18 Legionella Cases Confirmed in California Medical Center&nbsp;&nbsp;People.com",
+      "summary": "Infectious disease experts alarmed by Legionella infections at Bay Area hospital&nbsp;&nbsp;SFGATE18 Legionella infections confirmed at Bay Area Kaiser hospital&nbsp;&nbsp;San Francisco ChronicleMore than a dozen Legionella cases confirmed in California hospital&nbsp;&nbsp;USA Today18 people sick as officials probe Legionella outbreak at Kaiser Santa Clara&nbsp;&nbsp;ABC7 San Francisco18 Legionella Cases Confirmed in California Medical Center&nbsp;&nbsp;People.com",
       "sources": [
         {
           "name": "SFGATE",
@@ -201,23 +237,11 @@
       "id": "44acc343600f",
       "title": "Dirty mind? Study suggests gut movement may flush excess material from our brains - Los Angeles Times",
       "published": "2026-05-07T23:04:50+00:00",
-      "summary": "Dirty mind? Study suggests gut movement may flush excess material from our brains&nbsp;&nbsp;Los Angeles TimesMovement Triggers a Hidden 'Brain Cleaning' Mechanism, Study Shows&nbsp;&nbsp;ScienceAlertScientists discover a hidden brain “cleaning” effect triggered by movement&nbsp;&nbsp;ScienceDailyPenn State Brain Cleaning Study Reveals Shocking Link Between Movement and Brain Health&nbsp;&nbsp;Nbsla.caThis Simple Movement Could Be Secretly Cleaning Your Brain&nbsp;&nbsp;SciTechDaily",
+      "summary": "Dirty mind? Study suggests gut movement may flush excess material from our brains&nbsp;&nbsp;Los Angeles TimesWorking on your six-pack can have a similar effect on your brain as sleep&nbsp;&nbsp;New York PostScientists discover a hidden brain “cleaning” effect triggered by movement&nbsp;&nbsp;ScienceDailyPenn State Brain Cleaning Study Reveals Shocking Link Between Movement and Brain Health&nbsp;&nbsp;Nbsla.caThis Simple Movement Could Be Secretly Cleaning Your Brain&nbsp;&nbsp;SciTechDaily",
       "sources": [
         {
           "name": "Los Angeles Times",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRnlVVHo0Yld5dHktQWV5eWZxejlHUUVudkgtMURrVnRCTXFjZVROckZjSXp6dGZZLVhscjlnVFNHc1QweUczd0FxRlBCSjh6T3UtTTE1NlBfNWlpaWlQd1JOM3dVUThjSkx0UkZ6V0Fuc2Zfc0RZS0Z0akFXRzhGSmhrMGc1N2ExSHk2VnVRR28ycTZ2RFhmWlpn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a48a483dea4f",
-      "title": "Eating eggs could cut Alzheimer’s risk by 27% - ScienceDaily",
-      "published": "2026-05-07T22:24:31+00:00",
-      "summary": "Eating eggs could cut Alzheimer’s risk by 27%&nbsp;&nbsp;ScienceDailyAlzheimer’s risk slashed by eating more of one common food, study suggests&nbsp;&nbsp;Fox NewsEggs and brain health: New study cracks open Alzheimer’s link&nbsp;&nbsp;WZTVAlzheimer’s study finds link between breakfast staple and reduced risk of disease&nbsp;&nbsp;KTLAStudy: Egg consumption is associated with a lower risk of Alzheimer’s Disease&nbsp;&nbsp;Loma Linda University",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CVlo5QkVSRmszV0RvMWp1ZVJ3Sjl2Ti0xS3huTFozeUZFT0xzLUZSd2NkU0VYWG03NlozUnZubjBsMVhscDlVNDNuZG1IbGtpT1JGYlF2RExtTXlQUDFxcDkxZnRuWHAzMVVJdVN5OA?oc=5"
         }
       ]
     },
@@ -230,30 +254,6 @@
         {
           "name": "Interesting Engineering",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTVQ3OGg4ZnZVZUFmSE1sbVZDZHMyd1o1TUZwanpsdzBXejI4UkFtZnZwbnQ0VV9lV1BLaC1RV1dZQkZva0lYRzJBcFJTeWY4RlJkUk9iTnFXcGdETmVBZGEyak5GMzdBVGN2TjJmb2NJdUpjWlpWeFAtVGpQeVptZWZOYkg4ZVBqaUg1dGpEcnoyUzlaeGJJaUpXWUNpRWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1855c1d553e3",
-      "title": "Met Opera patrons warned of measles exposure after La Bohème matinee - Gothamist",
-      "published": "2026-05-07T21:24:08+00:00",
-      "summary": "Met Opera patrons warned of measles exposure after La Bohème matinee&nbsp;&nbsp;GothamistHealth Officials Warn Of Potential Measles Exposure At Roslyn Heights Restaurant&nbsp;&nbsp;News12 | Long IslandNew York City resident with measles dined at a Roslyn restaurant&nbsp;&nbsp;Newsday1 confirmed case of measles in Manhattan; person visited restaurant in Hell's Kitchen&nbsp;&nbsp;ABC7 New York6th case of measles may have exposed others at the Met Opera: officials&nbsp;&nbsp;PIX11",
-      "sources": [
-        {
-          "name": "Gothamist",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHhkUUVZeFAxSjZuNXh6MWplQ01vR1cwZXhTN2xLVVNLbTRyWFFsWXZkUWNfSmxHZzdtTDB6eVVkZ2YyUUx4R3BzSzV6bVJYemRoS2lGRUJxaUNUSzJ0MmE5MWVYX3BXS183RWZvSjNXMHlnbnIxbWRETGpENjdsUkFUSHJ1ak9sZHktbFdnZVVVcFF5QlUteTJoQlJYWGtpVnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fe40d4163750",
-      "title": "Modern experiments suggest rhino teeth may have been part of Neanderthal toolkits - Phys.org",
-      "published": "2026-05-07T18:40:03+00:00",
-      "summary": "Modern experiments suggest rhino teeth may have been part of Neanderthal toolkits&nbsp;&nbsp;Phys.orgNeandertals used rhinoceros teeth as tools&nbsp;&nbsp;Science NewsNeanderthals used rhinoceros teeth as tools for making stone implements, study finds&nbsp;&nbsp;Archaeology News Online Magazine",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sUTRtUXZRR1p4ZkxUWkxCWUlycHJYVXVfNjJIZU56ekVKWUxMV2tXVUFTTjd6WmpDTEJVaGxuYjBnRnFJUlBPTmJOTFMxTmY4cGFGMFlUX1NnSC01LURkVDFVRmk3WjdSQ0s3Q1A5Q0RwMVFxSHhwM2syN2l4Rms?oc=5"
         }
       ]
     },
@@ -278,42 +278,6 @@
         {
           "name": "Phys.org",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05a2FpU3pqMkxLbVZQNl9ZeENyVG5XSUp5SzktWHZXZXZ5VnVqeDFBSkdyN2lyVXExWHBaZGFJT2dxczBPaG5JYlhNclVOektqY1VtVnNpQUJmTkN2eHNfckhMMkoycFJPMEtsVDZB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6b749e67ec72",
-      "title": "Earth's Rarest Metal Was Thought to Be Useless to Ancient Life, Until Researchers Discovered Something in 3-Billion-Year-Old Fossils - The Daily Galaxy",
-      "published": "2026-05-07T15:45:00+00:00",
-      "summary": "Earth's Rarest Metal Was Thought to Be Useless to Ancient Life, Until Researchers Discovered Something in 3-Billion-Year-Old Fossils&nbsp;&nbsp;The Daily GalaxyEarliest Organisms on Earth Built Their Biochemistry around Molybdenum, Study Suggests&nbsp;&nbsp;Sci.NewsNASA Research Shows Early Life Relied on Rare Metal&nbsp;&nbsp;NASA Science (.gov)Biological use of molybdenum and tungsten stems back to 3.4 billion years ago&nbsp;&nbsp;NatureEarly Life On Earth Relied On A Surprisingly Scarce Metal",
-      "sources": [
-        {
-          "name": "The Daily Galaxy",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16YVl0TjNJUDQtYjl3X2s0T2x4bWJpbmdzMTg2MWVqMXNULVducllNcFlIcW1Pa1NCeEZvTVdlR0JPT19ES2NWRF9naGJaYWk5WDJKWXRPOUlJdUZ2cmdoeXpBNnFEXzItcWJPZVJTS2JmUnVy?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9851ae83b1e7",
-      "title": "A researcher may have found a shortcut to Mars as NASA eyes red planet - Yahoo News UK",
-      "published": "2026-05-07T15:05:39+00:00",
-      "summary": "A researcher may have found a shortcut to Mars as NASA eyes red planet&nbsp;&nbsp;Yahoo News UKSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "Yahoo News UK",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQW1fRXFpbGxjQUQ4eDltbGtKcEhQTEJBY0FrNS03UWZYWGFPM1UxNUJOVkxfVlRxVVZJa2RxeUVybU82VVNmcExLTGFEaEx6OERBcGtlSFc3d25pU01MbzNOUVJlek9xSG9vSkRydHZqZFNDeFdtQnhoWWZvVnB4NQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "61fa27fee879",
-      "title": "Pandora Exoplanet Mission Unveils Stunning First Images, Marking a Major Milestone in Space Exploration - The Daily Galaxy",
-      "published": "2026-05-07T13:45:00+00:00",
-      "summary": "Pandora Exoplanet Mission Unveils Stunning First Images, Marking a Major Milestone in Space Exploration&nbsp;&nbsp;The Daily GalaxyFirst Images From the Pandora Exoplanet Mission&nbsp;&nbsp;Universe TodayUniversity of Arizona-led Pandora satellite begins mission to study distant exoplanets&nbsp;&nbsp;The Daily WildcatPandora Mission Images Help Prepare for Exoplanet Atmosphere Observations | Newswise&nbsp;&nbsp;Newswise",
-      "sources": [
-        {
-          "name": "The Daily Galaxy",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83UzhXNHZzanVXMEVPbTRjQ0RQNDRyc2JzV09MZGFvNklWRk9MYUFpT0NubHNIajFZNUtkMmhiT1A5dzZLWEx5UlhlclFVZ2ZpZzJwdHNkZ25pRnpMaVMxZkw3R0ZZS0t1cVMxTi1vSE1WQ21Kc2w3NzBfSQ?oc=5"
         }
       ]
     }

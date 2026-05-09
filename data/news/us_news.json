@@ -1,15 +1,15 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-09T03:24:43.501859+00:00",
-  "total_fetched": 77,
-  "unique_count": 77,
-  "health_related_count": 25,
+  "fetched_at": "2026-05-09T08:00:27.220726+00:00",
+  "total_fetched": 75,
+  "unique_count": 75,
+  "health_related_count": 22,
   "news": [
     {
       "id": "d6cceda27088",
       "title": "Why health officials say the hantavirus cruise outbreak is not the next pandemic - The Washington Post",
-      "published": "2026-05-09T03:00:52+00:00",
-      "summary": "Why health officials say the hantavirus cruise outbreak is not the next pandemic&nbsp;&nbsp;The Washington PostSee more headlines & perspectives on Google News",
+      "published": "2026-05-09T05:42:35+00:00",
+      "summary": "Why health officials say the hantavirus cruise outbreak is not the next pandemic&nbsp;&nbsp;The Washington PostIs Hantavirus a major health threat? Concerns rise as 17 Americans prepare for quarantine&nbsp;&nbsp;KSNVHantavirus: Current Situation&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)Hantavirus latest: 22 Britons on board cruise ship hit by outbreak could be flown back to UK on Sunday&nbsp;&nbsp;The IndependentUS moving to evacuate American passengers aboard hantavirus",
       "sources": [
         {
           "name": "The Washington Post",
@@ -18,22 +18,10 @@
       ]
     },
     {
-      "id": "4ae58c530bd1",
-      "title": "Health Officials Warn Of Potential Measles Exposure At Roslyn Heights Restaurant - News12 | Long Island",
-      "published": "2026-05-09T02:14:06+00:00",
-      "summary": "Health Officials Warn Of Potential Measles Exposure At Roslyn Heights Restaurant&nbsp;&nbsp;News12 | Long IslandMet Opera patrons warned of measles exposure after La Bohème matinee&nbsp;&nbsp;GothamistNew York City resident with measles dined at a Roslyn restaurant&nbsp;&nbsp;Newsday1 confirmed case of measles in Manhattan; person visited restaurant in Hell's Kitchen&nbsp;&nbsp;ABC7 New YorkMeasles cases confirmed in Manhattan and Long Island: What to know&nbsp;&nbsp;NBC New York",
-      "sources": [
-        {
-          "name": "News12 | Long Island",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNDlpUGQyVDhHcTBua2xaRDdFUGxwTEpqNk9aSThJSlFaWE93Z2lhVTRSSFlWd29mQm41RjUxSWVVMVRiOEFVVm9MbkxUR1E2SjBEbnQ0YmZ2cXVhWklNSm1ILXNxR1haVERpN0lCUllsX25qbzFkOGxVZGh5Y3pEMDBmQWt5dkJ0QXNlQUxxNDlYdENyMnlZNHRCYl95NWVWZXFfdXAxTUVTOWtrYkNhY2I5cGFaNjhNbjdOWklHSUs0Y2MxZkptemMwMEFUSWN2dkdvNC16R1JIanVp?oc=5"
-        }
-      ]
-    },
-    {
       "id": "bd029bb01e73",
       "title": "Norovirus Outbreak Sickens 115 on Cruise Ship - The New York Times",
       "published": "2026-05-08T23:24:32+00:00",
-      "summary": "Norovirus Outbreak Sickens 115 on Cruise Ship&nbsp;&nbsp;The New York Times115 sick with norovirus on Princess cruise ship that left Fort Lauderdale, CDC says&nbsp;&nbsp;NBC 6 South FloridaHighly contagious norovirus spreads on cruise ship, sickening over 100 passengers and crew&nbsp;&nbsp;Fox News115 sick in norovirus outbreak on Florida-bound cruise ship, CDC says&nbsp;&nbsp;WFLA115 people sickened in norovirus outbreak on cruise ship: CDC&nbsp;&nbsp;ABC News - Breaking News, Latest News and V",
+      "summary": "Norovirus Outbreak Sickens 115 on Cruise Ship&nbsp;&nbsp;The New York Times115 sick with norovirus on Princess cruise ship that left Fort Lauderdale, CDC says&nbsp;&nbsp;NBC 6 South FloridaHighly contagious norovirus spreads on cruise ship, sickening over 100 passengers and crew&nbsp;&nbsp;Fox News115 people sickened in norovirus outbreak on cruise ship: CDC&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosMore than 110 people sick in Princess cruise norovirus outbreak&nbsp;&nbsp;USA T",
       "sources": [
         {
           "name": "The New York Times",
@@ -42,22 +30,22 @@
       ]
     },
     {
-      "id": "ba91bd48e85a",
-      "title": "Alzheimer’s study finds link between breakfast staple and reduced risk of disease - The Hill",
-      "published": "2026-05-08T19:06:00+00:00",
-      "summary": "Alzheimer’s study finds link between breakfast staple and reduced risk of disease&nbsp;&nbsp;The HillAlzheimer’s risk slashed by eating more of one common food, study suggests&nbsp;&nbsp;Fox NewsEggs and brain health: New study cracks open Alzheimer’s link&nbsp;&nbsp;WZTVStudy: Egg consumption is associated with a lower risk of Alzheimer’s Disease&nbsp;&nbsp;Loma Linda UniversityEating eggs could cut Alzheimer’s risk by 27%&nbsp;&nbsp;ScienceDaily",
+      "id": "dd11ff2d31fc",
+      "title": "Moderna (MRNA) Stock Surges 14% on Hantavirus Vaccine. Here’s What Investors Should Know - TipRanks",
+      "published": "2026-05-08T18:10:27+00:00",
+      "summary": "Moderna (MRNA) Stock Surges 14% on Hantavirus Vaccine. Here’s What Investors Should Know&nbsp;&nbsp;TipRanksModerna flags work on hantavirus vaccines before cruise outbreak&nbsp;&nbsp;The Boston GlobeThere is no vaccine for deadly hantavirus: what that means for future outbreaks&nbsp;&nbsp;NatureOpinion | The hantavirus outbreak underscores the need for mRNA vaccines&nbsp;&nbsp;The Washington PostScientists are working on a hantavirus vaccine — but it’s likely years away&nbsp;&nbsp;NBC News",
       "sources": [
         {
-          "name": "The Hill",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVTFEd04tUks1cFBYZ1ctRzJkcjFrSFBPOURidUJUMHRxWkhtaFNVNG9MVVFtcU5zZ2ZlSG1Tb3FYNzlOcWo0a0JlVFN5bnAzU1FuampxQkxhaHp3QkZXeTl0akNQODZyOGJ4a2xZZTBMbVlVRzR4Vm1oaElaZV9xaDA2R0VESE1WbFBvTk43d9IBlAFBVV95cUxQUEh1N216ZWxYX1lCczIyZ2RxRVFDQWc0bWRPTFlRclJ1VzlySUE3X0JzMEhJVGVtN0RIZlpHSjJnQWgzUFdLVHV5TXZ5TkRJMmdzU0ZqeVpWNU1UU2JGbnlTMUdrSU5sdkEwTHFLTzU4Yy1SSkFnckZ4cG5FVjZtSXpZLUdRVWt3TWpjSUFiVjEyYU5N?oc=5"
+          "name": "TipRanks",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdkRneHB5XzFmbFZVNkEyN1Y4QzdObGoyQmY4dEluSnUteVc2dGhmODBXZEI0ZWZqQ09FRndyeVFnNjAwSVd1NV9abF9ZX3BDVnNER0pvajlXY00zNlU4Y01xVE9aeTVZajVySDBOTjVJcW94YVVKQWxBWkxjOWF3V0hBLUVmUjR5SV9JWmtPa3J6UHdHVEhBZTM0aEJjLXZiMlpOV0xHNF80b1djQWs3T0l3VQ?oc=5"
         }
       ]
     },
     {
-      "id": "3dd6520d4118",
-      "title": "Engineers at NASA's Jet Propulsion Lab make a breakthrough in rotor technology - Ars Technica",
+      "id": "aa00cd312ada",
+      "title": "Engineers at NASA’s Jet Propulsion Lab make a breakthrough in rotor technology - Ars Technica",
       "published": "2026-05-08T15:46:27+00:00",
-      "summary": "Engineers at NASA's Jet Propulsion Lab make a breakthrough in rotor technology&nbsp;&nbsp;Ars TechnicaNASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1&nbsp;&nbsp;NASA (.gov)NASA tests confirm next-generation Mars rotors can safely break the sound barrier&nbsp;&nbsp;Interesting EngineeringNASA's new generation of rotor blades, with supersonic tips, is set to equip the SkyFall project: a Martian helicopter designed to carry instruments and sensors in support of future human and roboti",
+      "summary": "Engineers at NASA’s Jet Propulsion Lab make a breakthrough in rotor technology&nbsp;&nbsp;Ars TechnicaNASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1&nbsp;&nbsp;NASA (.gov)NASA's new generation of rotor blades, with supersonic tips, is set to equip the SkyFall project: a Martian helicopter designed to carry instruments and sensors in support of future human and robotic missions on Mars.&nbsp;&nbsp;CPG Click Petróleo e GásNASA confirms Mars helicopters could survive Mach 1.08 to boo",
       "sources": [
         {
           "name": "Ars Technica",
@@ -66,26 +54,26 @@
       ]
     },
     {
-      "id": "74acf83692a1",
-      "title": "'Population autopsy' finds Americans are dying younger than other wealthy countries — the deadliest 2 culprits revealed - New York Post",
-      "published": "2026-05-08T15:30:00+00:00",
-      "summary": "'Population autopsy' finds Americans are dying younger than other wealthy countries — the deadliest 2 culprits revealed&nbsp;&nbsp;New York PostUS Death Rates Higher Than Other High-Income Countries Between 1999 and 2022 Due to Specific Diseases and Substance Use&nbsp;&nbsp;geneonline.comAmerica Has a Heart Problem, Not Just a Drug Problem&nbsp;&nbsp;ScienceBlog.comCardiovascular and Metabolic Diseases Leading Causes of Excess Mortality in&nbsp;&nbsp;Bioengineer.orgCardiovascular and Metabolic D",
-      "sources": [
-        {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeFM4YWxNcjhRX24zTmpETXY4V2hCM1FxZlQybGxBVXdaTVZKbmtfbHRvUFRtOXUwS3hLNnZlZm5kczhnUjZISUJUMkhvcm9fX0h6dzVjSkE5ZENsY19KUWVHbmVkQTdUamlVcHdUQ2ZmakpJQ2YwWWFLNzFuS1NVR215UUZIeHgzaktMb3p1bEw4d0llRWYwa1pB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3ce1fe07518c",
       "title": "Spiral galaxy’s brilliant heart shines bright in a new picture from NASA’s Webb telescope - AP News",
-      "published": "2026-05-08T15:16:00+00:00",
+      "published": "2026-05-08T15:38:32+00:00",
       "summary": "Spiral galaxy’s brilliant heart shines bright in a new picture from NASA’s Webb telescope&nbsp;&nbsp;AP NewsSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "AP News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbUVQVkN0RVV5aGRiUlItNFIwa0JwOHIzM0hOMFRBRURwV1pEUUJsU0JnUmdMMXBwUXh6dnZWdVFocWppRjJRMGJ6bFhzN3hBTkROdlhiWHZ6al9FWVpyNjVuRmdmMWlRUGZyOG5MSXNzam5zd3FnYXB1U0VBU0dUVGhvbWJnSmtoODBuZHlsaTZhMzFfcTE2Z3B0MGhZaEU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3cdb36471639",
+      "title": "Flowering plants transformed into 'hopeful monsters' in 9 dire bursts across evolutionary time, study finds - Live Science",
+      "published": "2026-05-08T15:00:00+00:00",
+      "summary": "Flowering plants transformed into 'hopeful monsters' in 9 dire bursts across evolutionary time, study finds&nbsp;&nbsp;Live ScienceSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "Live Science",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTWJtRFRPVzBhQUVBeTI5R1VnVFlKc2E4RThBMlNXWjM1VUd5SDg2N2VjTDNHZjBOdVYweHJxMG01dlN1MExPMnZGZTRaOW1IMEIzRU5jaG5BZzcyeUM3a0p4Q2RUZ3NfTTBhRmdtbkNfYVJjVUM2TjA1TTZNTm9ZeUM4ZHYzNmNNcE9BYl9zN3dkN1dpa29PYXVVUmYzWDVIUWN1Yy1JMFZxOS00Y1c2cnpWM2t6ZV9yNXVBMXlmQVNXcV92ZVdwaXBnTFFYblpvQXBYNzNjNWtmZF95dlVjODliQTUwUTg?oc=5"
         }
       ]
     },
@@ -110,18 +98,6 @@
         {
           "name": "The Daily Galaxy",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUVh5S0owMmNLYk1TbnduLURnb3RnSzlUN1NBNmJGLUJkeVhGT3F2NXl6UXU5UmMxSWhTelViNGdYb0FkV2JaSmhYVHYtYXROQ3k1RWVGTXN3Tm9iNGRXaFJRMjdSQ3R1aGF2NThxNHNTeEZqZ091ckRUWWVELTdPT19XZXFPclFrSlJV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b9252e311041",
-      "title": "Scientists Just Captured Killer T Cells in Action Inside Tumors - SciTechDaily",
-      "published": "2026-05-08T11:54:37+00:00",
-      "summary": "Scientists Just Captured Killer T Cells in Action Inside Tumors&nbsp;&nbsp;SciTechDailyScientists Are Starting to Unlock the Nanoscale Secrets of the Immune System&nbsp;&nbsp;WIREDFirst-ever 3D view shows how killer T cells destroy cancer&nbsp;&nbsp;ScienceDailySeeing the immune system in action: new imaging study sheds light on cancer immunotherapy&nbsp;&nbsp;The Institute of Cancer ResearchAn unprecedented view of the immune system’s killer cells&nbsp;&nbsp;EurekAlert!",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPelZUci1xNXJrQVd1NGRYczBIemdFZS1HVzgyNW8tMDZaT3RuTkRIRXZBSW90aGRyd08yUDdEUTBydGpDUW5sX0Q3VkhDNlR6cHRieUVNMERYVm4wTlhMcmp6NVRHNkkzUUpBa0N1VlZ6bUpLZHNTd0VzQy1fWWNiLU9pZE9BNWd6OW9hamZKUUxnUnM?oc=5"
         }
       ]
     },
@@ -162,6 +138,18 @@
       ]
     },
     {
+      "id": "8e76b49cb1c8",
+      "title": "Harvard Scientists Reveal Secret Structure Behind How You Smell - SciTechDaily",
+      "published": "2026-05-08T03:01:42+00:00",
+      "summary": "Harvard Scientists Reveal Secret Structure Behind How You Smell&nbsp;&nbsp;SciTechDailyScientists Have Created The First Ever 'Smell Map', And It's Stunning&nbsp;&nbsp;ScienceAlertResearchers Create Detailed Map of Smell Receptors in Mouse Nose&nbsp;&nbsp;Sci.NewsHarvard Scientists Create First 'Smell Map,' Revealing Olfactory Neurons' Striped Pattern&nbsp;&nbsp;동아사이언스Scientists Create First ‘Map of Smell,’ Revealing How Noses Track Odors&nbsp;&nbsp;ZME Science",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdzg4bUFyeDl3aG4xMEptNFRNUHZ5Vmw0TkNyUjl6MS1oRzNZWVlZclBIQlhib0U3VFhZY29PQzlVZ1dzUXlmN2tUZTBaVXdlWWFHOGM0aHlxRGFCcnVoTHdITXJlc0EtS3BCUTYwQklWXzdBaEhITUVnX294Z3hIdUdlaTItX2t6N05Ya3NDZkEtd3c?oc=5"
+        }
+      ]
+    },
+    {
       "id": "44acc343600f",
       "title": "Dirty mind? Study suggests gut movement may flush excess material from our brains - Los Angeles Times",
       "published": "2026-05-07T23:04:50+00:00",
@@ -189,11 +177,35 @@
       "id": "c3da1446199c",
       "title": "New wireless visual cortex implant helps restore artificial sight - Interesting Engineering",
       "published": "2026-05-07T21:38:00+00:00",
-      "summary": "New wireless visual cortex implant helps restore artificial sight&nbsp;&nbsp;Interesting EngineeringBrain implant delivers artificial sight to people with complete blindness&nbsp;&nbsp;Engineering and Technology MagazineThird successful implantation of wireless visual prosthesis brain implant advances the frontier of artificial vision&nbsp;&nbsp;EurekAlert!",
+      "summary": "New wireless visual cortex implant helps restore artificial sight&nbsp;&nbsp;Interesting EngineeringBlind may see with hi-tech brain implant&nbsp;&nbsp;Mid-dayBrain implant delivers artificial sight to people with complete blindness&nbsp;&nbsp;Engineering and Technology MagazineThird successful implantation of wireless visual prosthesis brain implant advances the frontier of artificial vision&nbsp;&nbsp;EurekAlert!",
       "sources": [
         {
           "name": "Interesting Engineering",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTVQ3OGg4ZnZVZUFmSE1sbVZDZHMyd1o1TUZwanpsdzBXejI4UkFtZnZwbnQ0VV9lV1BLaC1RV1dZQkZva0lYRzJBcFJTeWY4RlJkUk9iTnFXcGdETmVBZGEyak5GMzdBVGN2TjJmb2NJdUpjWlpWeFAtVGpQeVptZWZOYkg4ZVBqaUg1dGpEcnoyUzlaeGJJaUpXWUNpRWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1855c1d553e3",
+      "title": "Met Opera patrons warned of measles exposure after La Bohème matinee - Gothamist",
+      "published": "2026-05-07T21:24:08+00:00",
+      "summary": "Met Opera patrons warned of measles exposure after La Bohème matinee&nbsp;&nbsp;GothamistHealth Officials Warn Of Potential Measles Exposure At Roslyn Heights Restaurant&nbsp;&nbsp;News12 | Long IslandNew York City resident with measles dined at a Roslyn restaurant&nbsp;&nbsp;Newsday1 confirmed case of measles in Manhattan; person visited restaurant in Hell's Kitchen&nbsp;&nbsp;ABC7 New YorkMeasles cases confirmed in Manhattan and Long Island: What to know&nbsp;&nbsp;NBC New York",
+      "sources": [
+        {
+          "name": "Gothamist",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHhkUUVZeFAxSjZuNXh6MWplQ01vR1cwZXhTN2xLVVNLbTRyWFFsWXZkUWNfSmxHZzdtTDB6eVVkZ2YyUUx4R3BzSzV6bVJYemRoS2lGRUJxaUNUSzJ0MmE5MWVYX3BXS183RWZvSjNXMHlnbnIxbWRETGpENjdsUkFUSHJ1ak9sZHktbFdnZVVVcFF5QlUteTJoQlJYWGtpVnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "41f188019116",
+      "title": "Male Birth Control Breakthrough: Scientists Find Way To Turn Sperm Production Off and Back On - SciTechDaily",
+      "published": "2026-05-07T21:15:52+00:00",
+      "summary": "Male Birth Control Breakthrough: Scientists Find Way To Turn Sperm Production Off and Back On&nbsp;&nbsp;SciTechDailySee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY2hra1hybGw3Q3NpU1hmVFQ3Wk5UTHNUN2xpeWwzUjNCb0VJSEV1N3d5NzlzX1dFQnBCcnItUnRTQTlEV0ZxQnljUHhuVWVEcVlzT25fenpSZ3A1OGJ4Zy1mMGdya3dTQVR1cTJaWEZXOGo2WGI0czRKdVRUUW84dWdpeHZvNERXbjl5bnhrdDV6MnVITGxQS2RTUkR5TzBPX1I4SC01eHl5ZzlMYlJwb2diQnNQaXVvUmc?oc=5"
         }
       ]
     },
@@ -254,54 +266,6 @@
         {
           "name": "The Daily Galaxy",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83UzhXNHZzanVXMEVPbTRjQ0RQNDRyc2JzV09MZGFvNklWRk9MYUFpT0NubHNIajFZNUtkMmhiT1A5dzZLWEx5UlhlclFVZ2ZpZzJwdHNkZ25pRnpMaVMxZkw3R0ZZS0t1cVMxTi1vSE1WQ21Kc2w3NzBfSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d5abaa2f6e78",
-      "title": "There is no vaccine for deadly hantavirus: what that means for future outbreaks - Nature",
-      "published": "2026-05-07T13:37:22+00:00",
-      "summary": "There is no vaccine for deadly hantavirus: what that means for future outbreaks&nbsp;&nbsp;NatureModerna flags work on hantavirus vaccines before cruise outbreak&nbsp;&nbsp;The Boston GlobeScientists are working on a hantavirus vaccine — but it’s likely years away&nbsp;&nbsp;NBC NewsHow Hantavirus Made Moderna a Must-Own Stock Again&nbsp;&nbsp;Barron'sOpinion | The hantavirus outbreak underscores the need for mRNA vaccines&nbsp;&nbsp;The Washington Post",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYOUYyZzNzSTdSLURSMWhEcHJpREppZWQ2bUxFUWpEM1dxVldIVFVIN0hoUldmVXJGSDBWRmc5bG5oRjVDNWszRjMwbTAtZ3FIaDdxbURkek1QNVZHT3Nz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ee12d5992f42",
-      "title": "Scientists Have Created The First Ever 'Smell Map', And It's Stunning - ScienceAlert",
-      "published": "2026-05-07T12:02:10+00:00",
-      "summary": "Scientists Have Created The First Ever 'Smell Map', And It's Stunning&nbsp;&nbsp;ScienceAlertHarvard Scientists Reveal Secret Structure Behind How You Smell&nbsp;&nbsp;SciTechDailyResearchers Create Detailed Map of Smell Receptors in Mouse Nose&nbsp;&nbsp;Sci.NewsHarvard Scientists Create First 'Smell Map,' Revealing Olfactory Neurons' Striped Pattern&nbsp;&nbsp;동아사이언스Scientists Create First ‘Map of Smell,’ Revealing How Noses Track Odors&nbsp;&nbsp;ZME Science",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNEROWS1Da1AzVmNaSjl5M2lpS2djbFVuYXRoaGE5cktUV2ZzdGlGakR5ZDZIWGQ3cGtlUlg0UnJOYzc4eXk3QlAzdGNRWFBUdnAxUGdZVmE3TkxXd1lycFpXTVo3TUxGa0lnUVM5V0pVN0U5YTlfLXJ0UlhtdVZYcVJzdDZoSjFsZVl6SzdNRDUtci0tUE9GR1ZB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dfbbb6b0bcc3",
-      "title": "Fungal strains in space spark worry - Yahoo",
-      "published": "2026-05-07T11:24:56+00:00",
-      "summary": "Fungal strains in space spark worry&nbsp;&nbsp;YahooFungi homes – and more ways biology could sustain life beyond Earth&nbsp;&nbsp;AeonCould this fungus live on Mars? Maybe it already does&nbsp;&nbsp;Scientific AmericanOutward Bound – The Issue of Planetary Protection by Earthly Critters&nbsp;&nbsp;Inside Outer SpaceStudy reveals fungal strains can survive sterilization procedures and Martian conditions&nbsp;&nbsp;R&amp;D World",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ1dJcjZmUkd5aVh0ZEpVT0liWUd3UkYzM0xtSnV2WWFUQ2h5Wl9rQ0xQMnlLWVl0bFZxXzg3XzEzTmZUb1B0Y2JXNDZlMElXcXE4ZE1uclh5blZHNTV1dnRaWFVtRHFpX2tqYVAtWmpaV05wMTZGa1k0UmZwdnY5U2tpdk1ydkxnTUZz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5ae2aae396df",
-      "title": "Scientists Gave ‘Aggressive’ Fish Psychedelic Drugs. A Breakthrough Came Next - 404 Media",
-      "published": "2026-05-07T04:06:27+00:00",
-      "summary": "Scientists Gave ‘Aggressive’ Fish Psychedelic Drugs. A Breakthrough Came Next&nbsp;&nbsp;404 MediaMagic mushrooms make mean fish lazier and more chill&nbsp;&nbsp;Popular ScienceKey magic mushroom ingredient makes fish less aggressive and lazier&nbsp;&nbsp;Medical XpressPsilocybin Dampens Aggression and Attack Behaviors&nbsp;&nbsp;Neuroscience NewsResearch shows magic mushrooms make fish lazier and less aggressive&nbsp;&nbsp;Indiana Gazette Online",
-      "sources": [
-        {
-          "name": "404 Media",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2JKYXVFQTgtY1hfYmNVRHlYazZlWkRQei1ibUlCeFEzNzNiZWVoNlRzUzI3ajJmWjZ1eFVETktCYVlLRFFCNXhIdFlDUlM0QW93cnB2bHQwcUdETUdYSTVyajdLRGQ1OUhWSzVQYTVKcnNpbjNzZzNsMlVxbl9RVw?oc=5"
         }
       ]
     }

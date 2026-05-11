@@ -1,51 +1,15 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-11T15:17:02.045475+00:00",
-  "total_fetched": 58,
-  "unique_count": 58,
-  "health_related_count": 33,
+  "fetched_at": "2026-05-11T19:52:11.031690+00:00",
+  "total_fetched": 54,
+  "unique_count": 54,
+  "health_related_count": 21,
   "news": [
-    {
-      "id": "378c9f5885e0",
-      "title": "2 more passengers evacuated from cruise ship test positive for hantavirus - AP News",
-      "published": "2026-05-11T15:06:00+00:00",
-      "summary": "2 more passengers evacuated from cruise ship test positive for hantavirus&nbsp;&nbsp;AP NewsAmerican Hantavirus Cruise Passengers Flown to Quarantine Center After Positive Test&nbsp;&nbsp;WSJHantavirus latest: US gives update after cruise evacuation - as WHO sides with Spain over disputed new case&nbsp;&nbsp;Sky NewsAmerican passengers from Hantavirus-hit cruise ship arrive in Nebraska&nbsp;&nbsp;CNNExperts wonder ‘Where is the CDC?’ as a hantavirus outbreak unfolds on a cruise ship&nbsp;&nbsp;A",
-      "sources": [
-        {
-          "name": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRmM5Vm9HTHdmdXQ5V2c1RlVRMGstYmRoNVNtNTNPYzdORmlHZkpQR3Q0MjJPMzVKSng3cUR3SkhxM2VmWWlxWGtSOW1ST1daQzVVdHR1V3ZsREo5WGpSbUVYNk94elJ4OE03VnZHamNhaGsyYl9IS3BBdlBWYS14VGN6VU0zaGI0LVN4SFpNLW1LT1o5RXZkcm0wanV6TDU0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "67bcd257b643",
-      "title": "2 hantavirus patients headed to Emory Hospital in Atlanta - FOX 5 Atlanta",
-      "published": "2026-05-11T13:57:35+00:00",
-      "summary": "2 hantavirus patients headed to Emory Hospital in Atlanta&nbsp;&nbsp;FOX 5 AtlantaSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "FOX 5 Atlanta",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZTh6Z3llNkxieW8wY25JcmI3c1NZaUdWWm1qNURwR0tiM0VUODdocVgwUDJ5OWZvcDZyQmxlZmdNTFNlMGJpYTlyaWpQeVJYNU1tOF8tRGIxdF9BcmkwVDh4cG42ejJsbGxMcU12OFhUTU5FdV9SX01mMGJFOEFoTDY4UC1KcjZvMkR3ZDVab0k4SHNIRE1zbEZoaEdBZy1B0gGmAUFVX3lxTE0xSnFZVEtQYVpPa040SFhkS0dGVFdUN2JGVmNuNGsxcG9iYXpYNjBRMlRzZmNKankyXzZWSjJfclZUQ0IwNXJZZU5sUHd1VXk4X0FqdUtnSG53czhNTENDa1lNSU1KS2MxZGw3X3A4T1lTWGxJc0Z3VTFLZ1N4Y2x2cXdKS0RFYWlndE5mdFNvZmpuS2F2VWl2eVljaW5WZUpDTjNFQ2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "135ca47217f6",
-      "title": "The Next Frontier for Hantavirus: Finding Vaccines and Treatments - WSJ",
-      "published": "2026-05-11T13:26:00+00:00",
-      "summary": "The Next Frontier for Hantavirus: Finding Vaccines and Treatments&nbsp;&nbsp;WSJHantavirus cases spark surge in pharma and biotech stocks — here’s why&nbsp;&nbsp;CNBCModerna stock extends gains on hantavirus research&nbsp;&nbsp;Yahoo FinanceHantavirus outbreak: Bath scientists working on vaccine&nbsp;&nbsp;BBCHere's what to know about hantavirus vaccines after the cruise ship outbreak&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
-      "sources": [
-        {
-          "name": "WSJ",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUWx2a0tGWWlQUDVsVmxPM1RlRHE1a3dKZGJLWERneGxkNmJoMEdzNWFyMlRnNWt2bjd1YTVnNnhVeHNvVzRVYzQxd084cnZUY21kNjhVSkQ1OXNxVXBjT081LWRqN2EwYjFUMG1sOEVrRWJPblNZN2t4cG12bEhLclh2TW9mdFBnRDBkNmdDQU81clFGWDRhSGJ1NXhWVGxWeHhDbC01NnVWLXVtTENaNQ?oc=5"
-        }
-      ]
-    },
     {
       "id": "a0b7ad4003cd",
       "title": "Scientist accidentally finds shortcut to Mars that could slash travel time in half - MSN",
-      "published": "2026-05-11T13:22:49+00:00",
-      "summary": "Scientist accidentally finds shortcut to Mars that could slash travel time in half&nbsp;&nbsp;MSNA researcher may have found a shortcut to Mars as NASA eyes red planet&nbsp;&nbsp;USA Today'I was not looking for this': Scientist accidentally finds shortcut to Mars that could slash travel time in half&nbsp;&nbsp;Live ScienceMars Missions Could Now Be Faster As Astronomers Suggest New Shortcut To Make Travel Time 153 Days&nbsp;&nbsp;International Business Times UKTo Mars in just 30 days: scientists",
+      "published": "2026-05-11T19:26:28+00:00",
+      "summary": "Scientist accidentally finds shortcut to Mars that could slash travel time in half&nbsp;&nbsp;MSNA researcher may have found a shortcut to Mars as NASA eyes red planet&nbsp;&nbsp;USA Today'I was not looking for this': Scientist accidentally finds shortcut to Mars that could slash travel time in half&nbsp;&nbsp;Live ScienceNew shortcut found to Mars that could cut travel time by half&nbsp;&nbsp;The IndependentBrazilian scientist uses asteroid data and artificial intelligence to propose a \"shortcu",
       "sources": [
         {
           "name": "MSN",
@@ -54,22 +18,58 @@
       ]
     },
     {
-      "id": "ff74e5384ffb",
-      "title": "Exclusive | Ozempic and Mounjaro masked our cancer symptoms — even doctors were unconcerned - New York Post",
-      "published": "2026-05-11T11:59:00+00:00",
-      "summary": "Exclusive | Ozempic and Mounjaro masked our cancer symptoms — even doctors were unconcerned&nbsp;&nbsp;New York PostFat jabs BOOST breast cancer survival – drug may ‘slash risk of death by 65%’&nbsp;&nbsp;The SunWhat cancer researchers, clinicians and patients say about ‘game-changing’ GLP-1s&nbsp;&nbsp;Fred Hutchinson Cancer CenterDo GLP-1 drugs like Ozempic prevent cancer?&nbsp;&nbsp;Science NewsGLP-1 Medications and Cancer Survivorship: What Patients Managing Treatment-Related Weight Changes ",
+      "id": "16d28db07fa8",
+      "title": "Moderna Stock Loses Steam. Hantavirus Trade Fizzles As Officials Dismiss Pandemic Risk. - Barron's",
+      "published": "2026-05-11T16:47:00+00:00",
+      "summary": "Moderna Stock Loses Steam. Hantavirus Trade Fizzles As Officials Dismiss Pandemic Risk.&nbsp;&nbsp;Barron'sHantavirus cases spark brief surge in pharma and biotech stocks — here’s why trading is so volatile&nbsp;&nbsp;CNBCWhy investors don't expect market meltdown from hantavirus&nbsp;&nbsp;AxiosHantavirus Vaccines and Treatments Are in the Pipeline&nbsp;&nbsp;The New York TimesThe Next Frontier for Hantavirus: Finding Vaccines and Treatments&nbsp;&nbsp;WSJ",
       "sources": [
         {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWUtXekNYa1V4dWpUbGJGYkhhckVlc2pDZWo1VnliMzVQSmIzOE43dWYwQnV6VGxOTF9rREs2MHlnRWJqM2pMdVJaaS1YbVA3YzhjQnhtT2ZxVVpVeWVFYUp4N1J4eXhMN1lra3FFLVpsandmOTN4VmVxTTU4NXhmMC0wX2s5M1dtdzd3Rw?oc=5"
+          "name": "Barron's",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdktPbG9kbk5La3pZdGpBNFBqUmpGWXFxNDA1T3FINURab1VWOUgxYzgwSm9GVWVvTE0zSVY0bEsxVElNOWU3SlJTZW5MRkQ4UzNPeHprNTdsRDJ5NWhqd2c0Rm43cjY0TDlIcG1sR0JXdmVVVXZoVGt2RGpCOGVXRHBIejRGdEMxRUt5WjRkZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "efeb2d9d9d51",
+      "title": "Hantavirus: How it differs from COVID - DW.com",
+      "published": "2026-05-11T16:33:58+00:00",
+      "summary": "Hantavirus: How it differs from COVID&nbsp;&nbsp;DW.comAmerican Hantavirus Cruise Passengers Flown to Quarantine Center After Positive Test&nbsp;&nbsp;WSJAndes virus linked to cruise ship deaths raises concern over human-to-human spread&nbsp;&nbsp;Fox NewsHantavirus: Current Situation&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)US passengers from hantavirus-hit ship quarantined in Nebraska and Georgia&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "DW.com",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tTjN6NHFsVkY3b0JLclQ3bC0tOGhlMUlmV0FXRjdWSjFORm5IVWNpSEJMQk1tSGhrdTJ0eHZwZF9SUFZDbV9MTWItZVRGWE54WHJSUjVJVU1Sd1oteHdzdS1MTTFEX3JxMlhocTZ2SUJmbldjbFc3T9IBeEFVX3lxTE1USURSTlhDRkdjV010N2lFRHBMVUlOdG5WLVVMNDU4QzhJZTNiN2QyRG5ubEZUOEZybVJfYm85bjFHMnFkTGRXQTZRMWRpWEZmV1pCS0M0cnpnQ1lVNUhsRXpZbVVZYlBmQ2xjcVFnWHBoVnJaRmV0Yg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bb5e381c47c4",
+      "title": "A Gigantic Atmospheric Anomaly Keeps Showing Up on Venus. Astronomers Finally Know Why - Gizmodo",
+      "published": "2026-05-11T16:30:41+00:00",
+      "summary": "A Gigantic Atmospheric Anomaly Keeps Showing Up on Venus. Astronomers Finally Know Why&nbsp;&nbsp;GizmodoVast atmospheric waves on Venus are caused by largest known 'hydraulic jump'&nbsp;&nbsp;Phys.orgVenus Has Acid Rain, But There’s a Bizarre Reason It Never Hits the Ground&nbsp;&nbsp;Indian Defence ReviewResearchers explain mysterious cause of 6,000-kilometer cloud wall on Venus&nbsp;&nbsp;The Brighter Side of NewsMassive 6,000-Kilometer Wave on Venus Finally Explained by Newly Discovered Phen",
+      "sources": [
+        {
+          "name": "Gizmodo",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeHZxelI0NXpuYTVXQXVUOWoxS2F1RWFZYV9vZHFPODd0QzJpZlNnWDJ0aWljUkJJVUVrZG1Qdm9IdzBwRHRla1VXMFg1SDAzUElDdmFDX1lpX1BFYWdTeWtnMGtMTDI2bWJrNWstTVpWZFZ4T3ZZS2o2UVhJYTl6TnF6bUgyY1NvRVZsNGJBZ3B1cU1LcEh0ak9WMmlVaUMtTmk5WGFiR3pMNk91VVUxTF9vYVhfdEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d772ea39bdd9",
+      "title": "Astronomers Discovered a Brand-New Type of Planet That Reeks of Rotten Eggs and Defies Planetary Science - The Daily Galaxy",
+      "published": "2026-05-11T14:45:00+00:00",
+      "summary": "Astronomers Discovered a Brand-New Type of Planet That Reeks of Rotten Eggs and Defies Planetary Science&nbsp;&nbsp;The Daily GalaxyThis sulfurous hell world might change the way we classify exoplanets&nbsp;&nbsp;Scientific AmericanScientists have found a completely new type of planet. And it absolutely stinks&nbsp;&nbsp;BBC Sky at Night MagazineRewinding exoplanetary clocks: L 98-59 d opens up research into a new type of molten worlds&nbsp;&nbsp;Astrobites",
+      "sources": [
+        {
+          "name": "The Daily Galaxy",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZDRYWDdlb2FNaEJQTGp2bTZSSHkwbmtqVC1PcGwzOFpMQjI5V2xXa1hzZnBvcGdHY090WW1kWmk3bjdScnNteDBFZU56TkptbTZrT0YwblBvT3hydTB1Y1BxZlFaTlRxYVhfZm5HVWU5M2MxRFFfUzNuUjNoLW51Uw?oc=5"
         }
       ]
     },
     {
       "id": "8733ee7993db",
       "title": "NY Sen. Schumer says hantavirus outbreak underscores dangers of CDC staffing cuts - Gothamist",
-      "published": "2026-05-11T11:38:00+00:00",
-      "summary": "NY Sen. Schumer says hantavirus outbreak underscores dangers of CDC staffing cuts&nbsp;&nbsp;GothamistThe Trump administration slashed funding for infectious disease research and has far fewer employees, including disease detectives, to respond to outbreaks. Read more: https://nyti.ms/3QXqDsE&nbsp;&nbsp;facebook.comSchumer slams Trump's health policy amid virus outbreak&nbsp;&nbsp;Breakingthenews.netTrump administration canceled hantavirus research funding last year&nbsp;&nbsp;R&amp;D WorldTrump",
+      "published": "2026-05-11T14:01:00+00:00",
+      "summary": "NY Sen. Schumer says hantavirus outbreak underscores dangers of CDC staffing cuts&nbsp;&nbsp;GothamistTrump administration cut funding to study hantavirus, the virus behind deadly cruise ship outbreak&nbsp;&nbsp;Scientific AmericanThe Trump administration slashed funding for infectious disease research and has far fewer employees, including disease detectives, to respond to outbreaks. Read more: https://nyti.ms/3QXqDsE&nbsp;&nbsp;facebook.comSchumer slams Trump's health policy amid virus outbrea",
       "sources": [
         {
           "name": "Gothamist",
@@ -78,26 +78,14 @@
       ]
     },
     {
-      "id": "b5c4c43a4f61",
-      "title": "After Having 3 Babies, Plastic Surgery Was The Gift I Shouldn't Have Had To Give Myself - HuffPost",
-      "published": "2026-05-11T11:22:16+00:00",
-      "summary": "After Having 3 Babies, Plastic Surgery Was The Gift I Shouldn't Have Had To Give Myself&nbsp;&nbsp;HuffPost",
+      "id": "ff74e5384ffb",
+      "title": "Exclusive | Ozempic and Mounjaro masked our cancer symptoms — even doctors were unconcerned - New York Post",
+      "published": "2026-05-11T11:59:00+00:00",
+      "summary": "Exclusive | Ozempic and Mounjaro masked our cancer symptoms — even doctors were unconcerned&nbsp;&nbsp;New York PostFat jabs BOOST breast cancer survival – drug may ‘slash risk of death by 65%’&nbsp;&nbsp;The SunWhat cancer researchers, clinicians and patients say about ‘game-changing’ GLP-1s&nbsp;&nbsp;Fred Hutchinson Cancer CenterGLP-1 Medications and Cancer Survivorship: What Patients Managing Treatment-Related Weight Changes Need to Know&nbsp;&nbsp;CUREtoday.comDo GLP-1 drugs like Ozempic pr",
       "sources": [
         {
-          "name": "HuffPost",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObEFTNzVUMldhdFdxU1dERmJWMWxEZ2FkemdFQ1d6N1pld2ZQbTA1V0lJODVFckpKd0d0cjMzUDR4WFNJOGk1Vnd1RmlUMTdiZFZJSVdLazBXTFRsLXNtVjV4cGFUVlVaQTQzMzh2bm9LbVM1dzlGbFNtRDBGazVQNUpEeVF2Z2w2VFFWWFhIYUVIM3JHbEp1WjFnUHB3bmRWelU1eGl3NF8tSmcxT1HSAbMBQVVfeXFMT0NDTTN6dWxZREZzR2tyTEtkb2JmcUZ6Z21SV2pYZGg3Z2tTUnJjWWFCYnc2MHdtV2lhNkwyZFRMeGMtUHNCOGMtSVRPOXJBS2NGZzNueWQtTmg1UWFpNzIxZm1FMlgwWXpiaGVMZ3hCdkd5WExkaG1DcXBEcWg2dTljMF9GNzcwbkhHWXl5aGN0Q1R1V1R2VS0weW12NjNTNXZNUFpmT00zNUJSSF9aMWNDb0k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fea01b6d1ed0",
-      "title": "Scientists made coffee drinkers quit for 2 weeks — what they found surprised everyone - ynetnews",
-      "published": "2026-05-11T11:14:23+00:00",
-      "summary": "Scientists made coffee drinkers quit for 2 weeks — what they found surprised everyone&nbsp;&nbsp;ynetnewsScientists just discovered what coffee is really doing to your gut and brain&nbsp;&nbsp;ScienceDailyCoffee's mood-boosting effects aren't just down to caffeine&nbsp;&nbsp;New ScientistNew Research Reveals That Your Morning Coffee Activates an Ancient Longevity Switch&nbsp;&nbsp;SciTechDailyScience Has Found Even More Ways Coffee Is Good for You&nbsp;&nbsp;WIRED",
-      "sources": [
-        {
-          "name": "ynetnews",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zbkVvTEZOUGIwNU5oUW90bmltekRteEpkOElJaTNUcFRqN2FJdGZEaC1mZnhUQUtjeVMtVVhQY1VlSzNxeW11QjJLRkJ3MEl4S1BXWGQteHRuQmkyOEdLel9GQnJZVnFZSEE?oc=5"
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWUtXekNYa1V4dWpUbGJGYkhhckVlc2pDZWo1VnliMzVQSmIzOE43dWYwQnV6VGxOTF9rREs2MHlnRWJqM2pMdVJaaS1YbVA3YzhjQnhtT2ZxVVpVeWVFYUp4N1J4eXhMN1lra3FFLVpsandmOTN4VmVxTTU4NXhmMC0wX2s5M1dtdzd3Rw?oc=5"
         }
       ]
     },
@@ -114,10 +102,22 @@
       ]
     },
     {
+      "id": "f2663107f455",
+      "title": "Does Dante's Inferno from the 14th century depict an asteroid impact? - Space",
+      "published": "2026-05-11T10:00:00+00:00",
+      "summary": "Does Dante's Inferno from the 14th century depict an asteroid impact?&nbsp;&nbsp;SpaceDante Alighieri’s Inferno may have been far more than a religious epic&nbsp;&nbsp;Tech ExploristScientists say Dante’s Inferno described an asteroid impact 500 years before modern science&nbsp;&nbsp;ScienceDailyDid Dante’s ‘Inferno’ Predict Impact Physics Hundreds of Years Before Its Invention?&nbsp;&nbsp;The DebriefDante’s Inferno suggests Hell and Purgatory mirror the physics of a massive asteroid impact&nbsp",
+      "sources": [
+        {
+          "name": "Space",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQUpKU05Vb3ZpWmpOSDRPVzVObDlhV3BoUkl0X0t2OXFwT3RFTW5teEUxUS15R0s3TzBaOVY3YUxMQzl1SGQwVzJNVHg0QTl1WnZpU2kycEtXWGpicTYyZF96NW1FSnhVSlhNQ0tHUkZwM1Jadl9FYjl4NkQxRTJHQXV5blhycDlpOWdzQXFzR1dhdW9NZlhfUzA1R1pObXNZSnRKYXlNWXNLaDZkRlE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7782cc0c112d",
       "title": "Three enjoyable ways to slow your brain's ageing - BBC",
       "published": "2026-05-11T09:25:28+00:00",
-      "summary": "Three enjoyable ways to slow your brain's ageing&nbsp;&nbsp;BBCThese Hobbies Could Lower Your Alzheimer’s Risk, New Study Suggests&nbsp;&nbsp;EatingWellConnecting: Brain health habits that protect against Alzheimer's align with networking best practices&nbsp;&nbsp;The Business JournalsDe-Age Your Brain! The 5 Day Brain Health Reset&nbsp;&nbsp;WALBBetter cardiorespiratory fitness is linked to a lower risk of dementia and depression&nbsp;&nbsp;PsyPost",
+      "summary": "Three enjoyable ways to slow your brain's ageing&nbsp;&nbsp;BBCStrategies to maintain brain health&nbsp;&nbsp;WFLA‘I’m a neuroscientist – these are the 3 best workouts for slowing cognitive decline’&nbsp;&nbsp;Women's HealthAlzheimer's Association Launches (re)think your brain to Drive Early Action on Brain Health&nbsp;&nbsp;PR NewswireBuilding Brain Health on May 18&nbsp;&nbsp;Bluffton Icon",
       "sources": [
         {
           "name": "BBC",
@@ -126,26 +126,14 @@
       ]
     },
     {
-      "id": "3c942b801ee8",
-      "title": "Getting fat? Blame long hours in the office, say scientists - The Telegraph",
-      "published": "2026-05-11T05:10:00+00:00",
-      "summary": "Getting fat? Blame long hours in the office, say scientists&nbsp;&nbsp;The TelegraphExperts call for UK four-day week as study links long work hours to obesity&nbsp;&nbsp;The GuardianCould the four-day week reduce obesity?&nbsp;&nbsp;The TimesThe work routine that makes you more likely to be obese&nbsp;&nbsp;The IndependentWorkers who do long hours ‘more likely to be obese’ study finds&nbsp;&nbsp;The Independent",
+      "id": "83937d27af6f",
+      "title": "Are You Frail? What to Know and How to Reduce Your Risk - The New York Times",
+      "published": "2026-05-11T09:00:42+00:00",
+      "summary": "Are You Frail? What to Know and How to Reduce Your Risk&nbsp;&nbsp;The New York TimesAnnual frailty screening recommended for the over 65s&nbsp;&nbsp;Medical XpressFrailty: An important emerging concept in veterinary medicine&nbsp;&nbsp;DVM360",
       "sources": [
         {
-          "name": "The Telegraph",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYmlSQnpUZ3M4ZHdSa0EzdWI1R1lDZG5KTC1FZmM2Qy1CR1pPcS1zZ2ttRTFtN1B2alJvYmFYejRmSWJGdHg3ZnNLQnVKWFMxWHdoWEFBSnEtN1puRWsxSWNoeGlGWWcweHdtX2dkTEMxdTlUOGtSU3g4WkNNTUlJb0kyQjFPUXZo?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a0a93f9a8617",
-      "title": "\"1 in 10 people will sustain long-term damage to their lungs, & for 1%, the infection can spread to their brain & spinal cord.\" What you need to know fungus storms - BBC Wildlife Magazine",
-      "published": "2026-05-11T05:04:54+00:00",
-      "summary": "\"1 in 10 people will sustain long-term damage to their lungs, & for 1%, the infection can spread to their brain & spinal cord.\" What you need to know fungus storms&nbsp;&nbsp;BBC Wildlife Magazine",
-      "sources": [
-        {
-          "name": "BBC Wildlife Magazine",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pVGZDV0lMOUc5OUZpeFhRSzBJSEprQVdFamhfTFJHb0Z6VTJUdTJBb3hhcjA4eGJSRWRGaGpIblhFZm9yVnN6NmdqcU5HTE5OQkdIeFJDSkFUZHdIbnRKY1djZm5CXzd6NTFjTkxXM1g?oc=5"
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qOEZuLWl0d0o5TDFOTXNmOWRiWTBPSWVDZHUyZjkycU5lNFMtSzRuNXF4UmM5d3JFcmkzbHJsOWxxUTgySS1SRGFUalNMSkFEU0NqT3FldnAyNmxSamRBbkRXUS1uTVJDRHc?oc=5"
         }
       ]
     },
@@ -153,7 +141,7 @@
       "id": "3af1dc1714eb",
       "title": "Rare giant squid found in western Australia - NewsNation",
       "published": "2026-05-11T01:52:43+00:00",
-      "summary": "Rare giant squid found in western Australia&nbsp;&nbsp;NewsNationGiant Squid Have Been Detected Living In Unexpected Waters For First Time In 25 Years&nbsp;&nbsp;IFLScienceGiant squid found in Western Australian waters in eDNA study&nbsp;&nbsp;Oceanographic MagazineGiant squid among creatures of the deep hiding off WA’s Ningaloo Coast, research reveals&nbsp;&nbsp;WAtodayGiant squid detected in underwater canyons in rare discovery&nbsp;&nbsp;USA Today",
+      "summary": "Rare giant squid found in western Australia&nbsp;&nbsp;NewsNationGiant squid found in Western Australian waters in eDNA study&nbsp;&nbsp;Oceanographic MagazineGiant Squid Detected in Deep Underwater Canyon in Western Australia for the First Time in Over 25 Years&nbsp;&nbsp;People.comGiant squid among creatures of the deep hiding off WA’s Ningaloo Coast, research reveals&nbsp;&nbsp;WAtodayGiant Squid Have Been Detected Living In Unexpected Waters For First Time In 25 Years&nbsp;&nbsp;IFLScience",
       "sources": [
         {
           "name": "NewsNation",
@@ -162,14 +150,26 @@
       ]
     },
     {
-      "id": "a5e5c58e1b1d",
-      "title": "Health officials issue warning after 2nd case of measles on Long Island -- with possible restaurant exposure - New York Post",
-      "published": "2026-05-10T20:35:00+00:00",
-      "summary": "Health officials issue warning after 2nd case of measles on Long Island -- with possible restaurant exposure&nbsp;&nbsp;New York PostNew York City resident with measles dined at a Roslyn restaurant&nbsp;&nbsp;NewsdayYoung unvaccinated child infected with measles in Nassau County; first case in county since 2024&nbsp;&nbsp;ABC7 New YorkConfirmed case of measles in Manhattan, NYC DOH says&nbsp;&nbsp;MSNHealth Officials Warn Of Potential Measles Exposure At Roslyn Heights Restaurant&nbsp;&nbsp;News",
+      "id": "c61cfa7e918e",
+      "title": "NASA’s Webb telescope unveils stunning new view of Messier 77 - Interesting Engineering",
+      "published": "2026-05-10T20:30:00+00:00",
+      "summary": "NASA’s Webb telescope unveils stunning new view of Messier 77&nbsp;&nbsp;Interesting EngineeringSpiral galaxy's brilliant heart shines bright in a new picture from NASA's Webb telescope&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosA beacon of light in swirls of dust&nbsp;&nbsp;European Space Agency45 Million Light-Years Away, Scientists Finally Captured the Violent Heart of a Galaxy Being Consumed by Its Own Black Hole&nbsp;&nbsp;The Daily GalaxyJWST Reveals Heart of Galaxy M77 Is ",
       "sources": [
         {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUmlpbXQ0LXFZaUJkRTBxaTVWaHUtWE5mMVk3cVZ6YVNMTmE2MVJZLXJXM3FYUnYxa1hBdXgzY2NuamNZcGJycFZ6TDFWOWpNV0tWbHdkYjRkOEE4T1NvZjIxTE41SVR3SFFTdXB5Y0N1cmZkbUs1cE1wbDZObTVoR2Q4eS14MlBHNV8zYm1PUDBQektzVElXTURUVDZOVXVJTms1X0tMOHl1N3ljMWRNMUhDdURoejJndmxjc295UDlxc3h6a1NwcWdVRkdPa2RhZ0szTFNfcTRaN2s5?oc=5"
+          "name": "Interesting Engineering",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc21YM0NtZGhRbUpxeHkyelVsa3BHQVdqZDZnUUtVM1Z6VzFiRTV2bnlHalJGcVhvcnR1VHlna2pGNFo5aHBMbndpTEdzeWktM3VvcGNWVUZfaEhJTXhQeWVNM1JNLTNWLUpzWm1HUTVfLWJBYV84djA1aVB0cVBFTjRB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "85e95c6f1af4",
+      "title": "Astronomers Find an X-Ray Key to the Red Dot Mystery - Universe Today",
+      "published": "2026-05-10T20:04:00+00:00",
+      "summary": "Astronomers Find an X-Ray Key to the Red Dot Mystery&nbsp;&nbsp;Universe TodaySurprise X-Ray Discovery May Explain Strange Red Dots in Early Universe&nbsp;&nbsp;ScienceAlertUnlocking the Mystery of X-ray Dots&nbsp;&nbsp;NASA (.gov)James Webb telescope zooms in on a black hole that could reveal the truth about 'little red dots'&nbsp;&nbsp;Live ScienceAstronomers Spot Possible Missing Link to Webb’s Little Red Dots&nbsp;&nbsp;Sky & Telescope",
+      "sources": [
+        {
+          "name": "Universe Today",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcjMtSV9LTzRCbXIzc2U5dkJ1bGtMVjI2YUhWRFpnMml3aVptZ3RKM0dPOVpLOEZNaXZsU3ZkSmlmT29WMVNVUUhPQWdqQVVWOVVBZXk1MVZlZF9QZFVJMDZLdHAtMkFiNXc2UGVmTDk1WHZVVUVJcmE2QXdQV3FyOTdsRjVOaS1qQWM0Tmx0elVSRGxXN2c?oc=5"
         }
       ]
     },
@@ -186,34 +186,10 @@
       ]
     },
     {
-      "id": "08f50faef8dc",
-      "title": "Possible culprit found for the ‘spoonful of microplastics’ in our brains - New York Post",
-      "published": "2026-05-10T18:29:00+00:00",
-      "summary": "Possible culprit found for the ‘spoonful of microplastics’ in our brains&nbsp;&nbsp;New York PostHidden Harms: How plastics & chemicals in plastics impact children’s developing brains&nbsp;&nbsp;Plastic Pollution CoalitionMicroplastic burden in the human brain linked to stroke, experts say&nbsp;&nbsp;NR TimesA human brain composited against a landscape of plastic waste. (IMAGE)&nbsp;&nbsp;EurekAlert!Microplastics Impact: Study finds link to Stroke & Dementia Risks&nbsp;&nbsp;Deccan Herald",
-      "sources": [
-        {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWjJLMmpzUmhPTmVycWNQR2FxZTRIUWFmc0cxbmpRRFBuV1RlM1Z4bHFaQzRiM250eEZ1UTh0MXFwTkVkMXhibGtKZnFRTUdsaUZZYWgtLVpLZnFqeTNHNExmRjlMSjRZeS1XUy1MRTlFNkJLcTVkQVIzbWZhdXVWTlVNdEtaMnBBQjR6S3JXTy1Rem4xUzB1NHlKUnVjdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "253aa53cabb5",
-      "title": "Treatment-resistant depression may yield to combinations of medications already in clinical use - Medical Xpress",
-      "published": "2026-05-10T18:00:04+00:00",
-      "summary": "Treatment-resistant depression may yield to combinations of medications already in clinical use&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdFFRYkNMSS1hTDhhVUliZzNvU0ktR1B4Sjk0QUZ6M1Zqa21uMHFZT0RpbGlPQXloVFU4NkcwRWFPMngwT3JxRHRRb0J4NlRZYl9xdjZTZDMwSXVhSFBNT1B4X1VaSXZ4cFk0Sm5Qemw2bUJDU1dnMnpKdWQtWW5MdU9OMU5rUEhOcHd1WURHekZqNk5XN0l5bg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9fd6c6ab1a39",
       "title": "Transcript: Scott Gottlieb on \"Face the Nation with Margaret Brennan,\" May 10, 2026 - CBS News",
       "published": "2026-05-10T16:44:00+00:00",
-      "summary": "Transcript: Scott Gottlieb on \"Face the Nation with Margaret Brennan,\" May 10, 2026&nbsp;&nbsp;CBS NewsHow contagious is hantavirus compared with COVID-19, measles and RSV?&nbsp;&nbsp;Global News\"Outbreak Can Be Contained\": Dr Soumya Swaminathan On Hantavirus Crisis&nbsp;&nbsp;NDTVHantavirus: How it differs from COVID&nbsp;&nbsp;DW.comHantavirus spread: Needs close contact, less contagious than Covid, says expert&nbsp;&nbsp;Deccan Herald",
+      "summary": "Transcript: Scott Gottlieb on \"Face the Nation with Margaret Brennan,\" May 10, 2026&nbsp;&nbsp;CBS NewsWhy hantavirus is not like COVID, according to infectious disease experts&nbsp;&nbsp;CBS NewsCT virologist weighs in on deadly cruise ship hantavirus. ‘We need total rethinking’&nbsp;&nbsp;Hartford CourantDiscussing the hantavirus outbreak and public health preparedness: Gottlieb on CBS' 'Face the Nation'&nbsp;&nbsp;American Enterprise Institute - AEIFormer FDA commissioner on Hantavirus and Dr",
       "sources": [
         {
           "name": "CBS News",
@@ -225,7 +201,7 @@
       "id": "c1829bc12c9f",
       "title": "Cut marks on 1.6 million-year-old bones reveal early humans moved prized meat - Phys.org",
       "published": "2026-05-10T15:20:01+00:00",
-      "summary": "Cut marks on 1.6 million-year-old bones reveal early humans moved prized meat&nbsp;&nbsp;Phys.orgHumans Have Been Obsessed With the Best Cuts of Meat for 1.6 Million Years&nbsp;&nbsp;VICEForaging behavior in early humans&nbsp;&nbsp;Popular ArcheologyNew Research Shows How the Earliest Humans Got Their Meat&nbsp;&nbsp;GizmodoOur Human Ancestors Dined on Takeout&nbsp;&nbsp;Nautilus | Science",
+      "summary": "Cut marks on 1.6 million-year-old bones reveal early humans moved prized meat&nbsp;&nbsp;Phys.org1.6 Million-Year-Old Bones Reveal How Early Humans Hunted and Shared Their Food&nbsp;&nbsp;Indian Defence Review1.6‑Million‑Year‑Old Fossils Show Early Humans Repeated a Successful Meat‑Gathering Strategy&nbsp;&nbsp;Discover MagazineNew Research Shows How the Earliest Humans Got Their Meat&nbsp;&nbsp;GizmodoHumans Have Been Obsessed With the Best Cuts of Meat for 1.6 Million Years&nbsp;&nbsp;VICE",
       "sources": [
         {
           "name": "Phys.org",
@@ -234,58 +210,10 @@
       ]
     },
     {
-      "id": "86dc53ee783c",
-      "title": "A Mother's Brain Is Profoundly Rewired by Pregnancy, Scans Show - ScienceAlert",
-      "published": "2026-05-10T14:02:10+00:00",
-      "summary": "A Mother's Brain Is Profoundly Rewired by Pregnancy, Scans Show&nbsp;&nbsp;ScienceAlertOften-maligned ‘mommy brain’ isn’t a bad thing, emerging research suggests&nbsp;&nbsp;The Denver PostPregnancy reshapes the brain. But each pregnancy may do it differently.&nbsp;&nbsp;National GeographicInside ‘mommy brain’: How pregnancy and childbirth rewire the maternal mind&nbsp;&nbsp;The Times of IndiaPregnancy Changes Mothers’ Brains. These Recent Discoveries Are Showing Us How&nbsp;&nbsp;Smithsonian Mag",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ1YtNFcweXV2V0NrWl9kd0RYcWR3TXA4RUNXSkxTUHoxT0hTM0c3WVR3MVhZM2tfd1BQRUJYSFZKN1Rsd1J5dnN4VGk1dXVNazBGX19EWERCd1h0Y3VyeENuQU1IRmpsZHQyNlQxMnJFM3doblNWaWNqVjRsdExSSk5lNG5JZWhsajdVTmhaWHFnNVhU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d8d3f1aadad4",
-      "title": "FDA claims there’s no estrogen patch shortage as women struggle to get prescriptions filled - NBC News",
-      "published": "2026-05-10T12:00:41+00:00",
-      "summary": "FDA claims there’s no estrogen patch shortage as women struggle to get prescriptions filled&nbsp;&nbsp;NBC NewsEstrogen patch shortage 2026: Why Ohio pharmacies can’t keep up&nbsp;&nbsp;Cleveland.comWhy The HRT Conversation Is More Complicated Than Social Media Suggests&nbsp;&nbsp;ForbesThe Real Danger to Women Isn’t HRT, It’s Bad Science&nbsp;&nbsp;MedscapeAs the estrogen patch shortage continues, these women are meeting with the FDA&nbsp;&nbsp;USA Today",
-      "sources": [
-        {
-          "name": "NBC News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd1ozWlZyMjAxS21VVGQzUjBfbUR4WVVKV0xXNnRiYy0wRUxPT2RveWhfTHFHNXRadElQZUs4TDB5NnZTc1JUd1N4Tl9sV2Fja2kxUUtmV0FSUmo1QVVjWXZtRy1aeVlzY1FsVGxnYlgxRmI1T2JNRG05NmtRU19KRS0wekpzaERCM1JSeU9PUnZiUkdGNXRlaEFVZUE3dHYwV2lJNml3ZzhXYUJoWnNZWm9B?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "13c577ef2c91",
-      "title": "Psychologists Say People Who Still Use Paper Calendars Aren't Stubborn or Old-Fashioned. Their Brains Are Wired to Process Information in a Richer Way - The Daily Galaxy",
-      "published": "2026-05-10T11:16:00+00:00",
-      "summary": "Psychologists Say People Who Still Use Paper Calendars Aren't Stubborn or Old-Fashioned. Their Brains Are Wired to Process Information in a Richer Way&nbsp;&nbsp;The Daily Galaxy",
-      "sources": [
-        {
-          "name": "The Daily Galaxy",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdU1lUk1wN0JrdGNPS0o4MnVvc2Vlc3lYR1RPc3FZRFpFMWJTTTFONVlocGdNbWl3Zi1GOXp3YWhzMi04VGhzWUgyNHFiRmFLMVRFR3ZYSzlZa1BLMTVwTFlPdmIxNWlqTGRTU01tc1lTbmp5UXVhZ053V1ctNVc5MVFPQzVDN2s?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "45c62836b9d7",
-      "title": "How a pill approved 25 years ago transformed cancer treatment - NPR",
-      "published": "2026-05-10T11:00:00+00:00",
-      "summary": "How a pill approved 25 years ago transformed cancer treatment&nbsp;&nbsp;NPRSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "NPR",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb002UWxBOVVuckExb1hObzY4YnF1UzRZV3B6azAxWUMxN2JVTHhzTWlTZWZTbHBDNHNjMEw5V3pkWGwtTnNhSXN4RExFLWtrMENLT3h0bTl0SldWU1BrbWgyVGRRM3BQRUpKeTVOUU9LSy12RkVtQ0loVlp1RHMyQ0p2dVU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "103e242bc826",
       "title": "Eating at least five eggs a week is associated with a 27 percent lower risk of Alzheimer’s - PsyPost",
       "published": "2026-05-10T10:10:22+00:00",
-      "summary": "Eating at least five eggs a week is associated with a 27 percent lower risk of Alzheimer’s&nbsp;&nbsp;PsyPostStudy: Egg consumption is associated with a lower risk of Alzheimer’s Disease&nbsp;&nbsp;Loma Linda UniversityIs it true that eating more eggs could help lower Alzheimer's risk?&nbsp;&nbsp;Medical News TodayAlzheimer’s risk slashed by eating more of one common food, study suggests&nbsp;&nbsp;Fox NewsEggs and brain health: New study cracks open Alzheimer’s link&nbsp;&nbsp;WZTV",
+      "summary": "Eating at least five eggs a week is associated with a 27 percent lower risk of Alzheimer’s&nbsp;&nbsp;PsyPostStudy: Egg consumption is associated with a lower risk of Alzheimer’s Disease&nbsp;&nbsp;Loma Linda UniversityIs it true that eating more eggs could help lower Alzheimer's risk?&nbsp;&nbsp;Medical News TodayAlzheimer’s risk slashed by eating more of one common food, study suggests&nbsp;&nbsp;Fox NewsFrom Lab to Life: Eggs Got a Bad Rap&nbsp;&nbsp;The Times of Israel",
       "sources": [
         {
           "name": "PsyPost",
@@ -297,7 +225,7 @@
       "id": "45b57c709ac0",
       "title": "Tracing Olfactory Receptor Mapping Between The Nose And Brain - Hackaday",
       "published": "2026-05-10T08:00:00+00:00",
-      "summary": "Tracing Olfactory Receptor Mapping Between The Nose And Brain&nbsp;&nbsp;HackadayScientists Have Created The First Ever 'Smell Map', And It's Stunning&nbsp;&nbsp;ScienceAlertThe molecular mystery of how we smell&nbsp;&nbsp;Chemistry WorldScientists Create First ‘Map of Smell,’ Revealing How Noses Track Odors&nbsp;&nbsp;ZME ScienceA Smell Map Reveals Insights About Olfactory Organization&nbsp;&nbsp;the-scientist.com",
+      "summary": "Tracing Olfactory Receptor Mapping Between The Nose And Brain&nbsp;&nbsp;HackadayScientists Have Created The First Ever 'Smell Map', And It's Stunning&nbsp;&nbsp;YahooThe molecular mystery of how we smell&nbsp;&nbsp;Chemistry WorldScientists Create First ‘Map of Smell,’ Revealing How Noses Track Odors&nbsp;&nbsp;ZME ScienceA Smell Map Reveals Insights About Olfactory Organization&nbsp;&nbsp;the-scientist.com",
       "sources": [
         {
           "name": "Hackaday",
@@ -321,83 +249,11 @@
       "id": "2b25855c7c12",
       "title": "Mammals May Have a Hidden Limb Regeneration Ability We Never Knew About - ScienceAlert",
       "published": "2026-05-09T21:02:12+00:00",
-      "summary": "Mammals May Have a Hidden Limb Regeneration Ability We Never Knew About&nbsp;&nbsp;ScienceAlertHumans May Have Hidden Regenerative Powers, New Study Suggests&nbsp;&nbsp;SciTechDailyWhy Can’t Humans Regrow Limbs? An Evolutionary Biologist Explains&nbsp;&nbsp;ForbesScientists found the “holy grail” gene that could one day help humans regrow limbs&nbsp;&nbsp;ScienceDailyMammalian regeneration could occur by use of sequential growth factor signalling&nbsp;&nbsp;Labmate Online",
+      "summary": "Mammals May Have a Hidden Limb Regeneration Ability We Never Knew About&nbsp;&nbsp;ScienceAlertWhy Can’t Humans Regrow Limbs? An Evolutionary Biologist Explains&nbsp;&nbsp;ForbesHumans May Have Hidden Regenerative Powers, New Study Suggests&nbsp;&nbsp;SciTechDailyScientists found the “holy grail” gene that could one day help humans regrow limbs&nbsp;&nbsp;ScienceDailyMammalian regeneration could occur by use of sequential growth factor signalling&nbsp;&nbsp;Labmate Online",
       "sources": [
         {
           "name": "ScienceAlert",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRnVKVGFyYjdLWWZ1V1NZcDg0YVdkdGpMRkVCQVphd05kcDVLMUs2QkpCei1CV2d6RjhtNDUxWjZ1UVprS21lRWRhVzVpcW5vcW5pOWt3aW1vSW5wb2t1U1NVRFpua3FFY1RoaWtWTjd5R09ibGV6cHdxVVdIRHk0QUhsUzNvdEtybjRoR2hXZUdBX1RDQ3ZnTHRHSFVaNDlGMnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "530bfb9d3271",
-      "title": "Outbreaks Of Highly Contagious Disease Reach Record High In CA - Patch",
-      "published": "2026-05-09T20:53:39+00:00",
-      "summary": "Outbreaks Of Highly Contagious Disease Reach Record High In CA&nbsp;&nbsp;Patch'Age-old' disease hits 12-year high in Calif. as new outbreak details revealed&nbsp;&nbsp;SFGATETuberculosis cases hit a 12-year high in California. What to know&nbsp;&nbsp;The Daily GazetteLarge TB outbreaks in the United States decline slightly in recent years, CDC reports&nbsp;&nbsp;CIDRAP50 large TB outbreaks identified in 23 states during 2017 to 2023&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "Patch",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZjJaWmJ1Y2ozSlZLaGlyRWRYOHlEU2VHWHNxWDhkaV9qOGtsQlp6enNPUGdMbzNTa3dFOUJxbXVhWGJfUjJ0YVo4QlZWd0tjb3piY0RncWx3MmZpQ3BWVGhYNDcxZ3ZLaF9vczlseTdYbklTd1JuRlNTTXY5TTFLSHhaV250Z3R4akZvbXV2WG82TWFCQXI2VFNCWGw0d0Z10gG6AUFVX3lxTE94bWJpd1FQTUVwUXBDWThNZ184Y1hIYk9OcWtYQ0FCc015cEF4WloyOUlyRG1lcDNYQlpBQjUzU3ZEUHFwbll6MFYxVkoycWRIYlV1M2I1clZLcDFCLVY4VmcxT2YtazYzQWpDN1pVYmZjXzBDNHhkQjZCMENieHpqVEhIZFlWMW9EZkxjSEN4d1pCM1ZjbU5YWlZpRzNxc2JRSl9GTmhDTG5yc2h6TnZ2YlVpeWxrNDNOUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ac83f975f30a",
-      "title": "More than 100 sickened in norovirus outbreak aboard Caribbean Princess cruise - NBC News",
-      "published": "2026-05-09T19:00:53+00:00",
-      "summary": "More than 100 sickened in norovirus outbreak aboard Caribbean Princess cruise&nbsp;&nbsp;NBC NewsSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "NBC News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQlgzbUdRZDhDNHIzY0lRcHp5TjlRR09FUkU5cUUtMzRDbkhUb2ExYnB0dmt4SmZpczFUeXBnemtvZFBqNGRjZjBZLXdwdE40dl8wRUhmRWVUNFE0ZVFLUGJFWklDeFNueTQyakVSSkRjY3BldVN3UWFUQko3XzVVZ2xUTE1QOXpkeWtmWTVPdGZvVng0dy05WHIyNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2278b9bd543b",
-      "title": "People who lose weight on Ozempic are viewed worse than people who don’t lose weight at all: study - New York Post",
-      "published": "2026-05-09T18:45:00+00:00",
-      "summary": "People who lose weight on Ozempic are viewed worse than people who don’t lose weight at all: study&nbsp;&nbsp;New York PostThe GLP-1 paradox: Weight loss drugs may lead to stigma&nbsp;&nbsp;Medical XpressDo People Who Take GLP-1s to Lose Weight Feel Stigmatized?&nbsp;&nbsp;vocal.mediaWeight-Loss Drugs Like Ozempic May Come With an Unexpected Cost&nbsp;&nbsp;SciTechDailyBlog - Ozempic, Coerced Weight-Loss, and Threats to Rationality&nbsp;&nbsp;Bioethics Today",
-      "sources": [
-        {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdFdBYlJyaHdnVWRBS1JMUmsyOXI0SlRyaTNPR2dOancxcFRJV1MyMlZMTlNWUWJNeVZrTGlpREd4RzhlY2Ixa1BkZ3FHb1JLcXM2bUhjVTEtNXhYcF8xV2o2elNCUmdCV2RBaDg3MXJKRjBuakN6LWV0VkFOZFdaSzVJdHhDWm0wa3J6ZmU1U2lRakQ3WVBhd0VGQVRwY2I4MUlUZFQ0NmRhVVU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9a5f79857b0d",
-      "title": "Beyond the Gym: Why Your Brain Craves Creatine - Neuroscience News",
-      "published": "2026-05-09T17:18:04+00:00",
-      "summary": "Beyond the Gym: Why Your Brain Craves Creatine&nbsp;&nbsp;Neuroscience NewsStudy debunks steroid myths, framing creatine as an essential energy-providing molecule&nbsp;&nbsp;News-MedicalThis Popular Supplement May Boost Your Brain, Not Just Your Muscles&nbsp;&nbsp;SciTechDailyCreatine is a popular supplement. It has benefits but also risks&nbsp;&nbsp;The OklahomanScientists reveal creatine’s hidden power beyond muscle gains&nbsp;&nbsp;ScienceDaily",
-      "sources": [
-        {
-          "name": "Neuroscience News",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sYldSSUpnYWtsSkF2SDk1Q05sMjFJd2lkUTRuUk1JMTg0akU2dDFBODNGOVlKX3B3MlpDTEZHVmZ2cjZ2R2dwSHJwWURlSU9mR1EyUTNzVVphQkJVeEpCeEtqNy1iUk1KZjlMR1NB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d954466bcf8c",
-      "title": "45 Million Light-Years Away, Scientists Finally Captured the Violent Heart of a Galaxy Being Consumed by Its Own Black Hole - The Daily Galaxy",
-      "published": "2026-05-09T16:15:00+00:00",
-      "summary": "45 Million Light-Years Away, Scientists Finally Captured the Violent Heart of a Galaxy Being Consumed by Its Own Black Hole&nbsp;&nbsp;The Daily GalaxySpiral galaxy’s brilliant heart shines bright in a new picture from NASA’s Webb telescope&nbsp;&nbsp;AP NewsA beacon of light in swirls of dust&nbsp;&nbsp;European Space AgencyNASA’s Webb telescope unveils stunning new view of Messier 77&nbsp;&nbsp;Interesting EngineeringJWST Reveals Heart of Galaxy M77 Is Being Consumed by Its Own Supermassive Bl",
-      "sources": [
-        {
-          "name": "The Daily Galaxy",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DOEM2WGZxWllWTHozZnAxWGY5bUhjS2NoQ1Y2NGRRRmZkel9CWndWWHMtQ09FUFphUVlyb2ktZHhYSDctMkRqVVV2TUY1NXFNcFJkQVR0Qkw5bEpWTmZBR2ZTaFFKOUJWX2VFajExVWxpa0lqOWZz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8ef7237fc39a",
-      "title": "Ganymede's unique magnetic field may be powered by ongoing core formation—not a cooling core - Phys.org",
-      "published": "2026-05-09T16:10:01+00:00",
-      "summary": "Ganymede's unique magnetic field may be powered by ongoing core formation—not a cooling core&nbsp;&nbsp;Phys.orgMotional Induction in Ganymede’s Ocean&nbsp;&nbsp;astrobiology.comCosmic miracle: Largest moon in solar system may still have active core after 4.6 billion years&nbsp;&nbsp;Interesting EngineeringThe reason Ganymede has a magnetic field at all has stumped planetary scientists for decades, and a new study suggests the moon's core may not be done forming yet&nbsp;&nbsp;Space DailyGanymed",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DRUFvVlZPM0JYdHJIT2pBTEhxQkdTUjI2MF9lUk1ydXlCRFplQlgxX2ZkeVg0bzd3Yy1tVU44Uk9SZGYxWS1hWVlKd19NNEtpVEZ2ZXdRdlA4VHpqeGZYM2U2M3RSV01uRDZ2WEJ4VFc1dUV6VjBWMzNJSDgydw?oc=5"
         }
       ]
     }

@@ -1,27 +1,27 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-10T19:08:57.564232+00:00",
-  "total_fetched": 62,
-  "unique_count": 62,
-  "health_related_count": 29,
+  "fetched_at": "2026-05-11T03:50:58.404560+00:00",
+  "total_fetched": 67,
+  "unique_count": 67,
+  "health_related_count": 34,
   "news": [
     {
-      "id": "d8f35cb9044c",
-      "title": "Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain’s Canary Islands for Disembarking - The New York Times",
-      "published": "2026-05-10T16:49:49+00:00",
-      "summary": "Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain’s Canary Islands for Disembarking&nbsp;&nbsp;The New York TimesHantavirus latest updates: French passenger develops symptoms during flight home as cruise ship evacuation continues&nbsp;&nbsp;YahooTenerife port home to scenes of worry and relief as passengers depart hantavirus-hit ship&nbsp;&nbsp;CNNCountries airlift nationals evacuated from from virus-hit cruise ship&nbsp;&nbsp;BBCRepatriation Flights for Hantavirus-Hit Cruise Ship Passe",
+      "id": "e0d5cd769686",
+      "title": "Hantavirus live updates: 1 American tests positive, another symptomatic, HHS says - ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-05-11T03:23:00+00:00",
+      "summary": "Hantavirus live updates: 1 American tests positive, another symptomatic, HHS says&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosOne American has tested positive for hantavirus, another has mild symptoms&nbsp;&nbsp;PoliticoAmerican Passengers Exposed to Hantavirus Are Flying Back to the U.S.&nbsp;&nbsp;The New York TimesFrench passenger of hantavirus cruise ship starts showing symptoms on evacuation flight, prime minister says&nbsp;&nbsp;CBS NewsAmerican passengers from hantavirus-hi",
       "sources": [
         {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNamFkTUppLTNGdE13ZXdWZHl0R2IwZTh6SHVYUmRDdGtTWXl1c09EVGhqZmwtUHN3UTgxSC1xeDZIbzB2YXF5cG92bi1heWppT3c2WXBOT2pXSEdHWk5mY1gtT1VYSWp1Tzh0Y2VaUndPRXF1b1E0c2pBSzBNcDFWRGxtLXVHYU1lWUhBNndLN3k1YjZi?oc=5"
+          "name": "ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVo2aXdMeVdMTWVwbzhReUpwX2dFYUNoQnpLWmxMNEdkcGU4V3hrQ04xelk2WjJiWVgtWkNvNWE3X25Xc1F6SWVDYmYyY2huRHA0ZWZFYmhPaUdHdVZwZl92WFJFWG9YWk96QmVwQzRxY3ExMlhJU3gwMmZ6M2ZWdUt3cTBIejN0VWN5Y3hOQS1MNGlweXkzbWZZT3VrbXZrVEpVOTJmcnlveUFfRFpn0gG0AUFVX3lxTE45UXZGY3Z5UnNGRVh2ZERCMWZmSWs3cU1DNjJXT0hoYWtWdks2TjJHcXFObUlyRUNwVU43RXZYeENOcjZrWUtiRzFxSEFkUGozMklrQU5lT2k4SWQ3aDEzajdEdnNOMENqVzRlV1BwR1NJdFRJNEZPY0hCVzc1RzNpUWt3X1JLNHlTekNoRlE2dVd3enlfZTRIdDFfVVFvcXcyMF8xWG43d1ZYT3J4ZUp5dlFmYw?oc=5"
         }
       ]
     },
     {
       "id": "a0b7ad4003cd",
       "title": "Scientist accidentally finds shortcut to Mars that could slash travel time in half - MSN",
-      "published": "2026-05-10T16:11:10+00:00",
-      "summary": "Scientist accidentally finds shortcut to Mars that could slash travel time in half&nbsp;&nbsp;MSNA researcher may have found a shortcut to Mars as NASA eyes red planet&nbsp;&nbsp;USA Today'I was not looking for this': Scientist accidentally finds shortcut to Mars that could slash travel time in half&nbsp;&nbsp;Live ScienceMars Missions Could Now Be Faster As Astronomers Suggest New Shortcut To Make Travel Time 153 Days&nbsp;&nbsp;International Business Times UKTo Mars in just 30 days: scientists",
+      "published": "2026-05-11T01:14:21+00:00",
+      "summary": "Scientist accidentally finds shortcut to Mars that could slash travel time in half&nbsp;&nbsp;MSNA researcher may have found a shortcut to Mars as NASA eyes red planet&nbsp;&nbsp;Yahoo'I was not looking for this': Scientist accidentally finds shortcut to Mars that could slash travel time in half&nbsp;&nbsp;Live ScienceBrazilian scientist uses asteroid data and artificial intelligence to propose a \"shortcut\" to Mars in just 7 months, and the study is reported on in more than 50 countries and 26 l",
       "sources": [
         {
           "name": "MSN",
@@ -30,10 +30,46 @@
       ]
     },
     {
+      "id": "a5e5c58e1b1d",
+      "title": "Health officials issue warning after 2nd case of measles on Long Island -- with possible restaurant exposure - New York Post",
+      "published": "2026-05-10T20:35:00+00:00",
+      "summary": "Health officials issue warning after 2nd case of measles on Long Island -- with possible restaurant exposure&nbsp;&nbsp;New York PostNew York City resident with measles dined at a Roslyn restaurant&nbsp;&nbsp;NewsdayYoung unvaccinated child infected with measles in Nassau County; first case in county since 2024&nbsp;&nbsp;ABC7 New YorkHealth Officials Warn Of Potential Measles Exposure At Roslyn Heights Restaurant&nbsp;&nbsp;News12 | Long IslandHealth officials issue warning after 2nd case of me",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUmlpbXQ0LXFZaUJkRTBxaTVWaHUtWE5mMVk3cVZ6YVNMTmE2MVJZLXJXM3FYUnYxa1hBdXgzY2NuamNZcGJycFZ6TDFWOWpNV0tWbHdkYjRkOEE4T1NvZjIxTE41SVR3SFFTdXB5Y0N1cmZkbUs1cE1wbDZObTVoR2Q4eS14MlBHNV8zYm1PUDBQektzVElXTURUVDZOVXVJTms1X0tMOHl1N3ljMWRNMUhDdURoejJndmxjc295UDlxc3h6a1NwcWdVRkdPa2RhZ0szTFNfcTRaN2s5?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "08f50faef8dc",
+      "title": "Possible culprit found for the ‘spoonful of microplastics’ in our brains - New York Post",
+      "published": "2026-05-10T18:29:00+00:00",
+      "summary": "Possible culprit found for the ‘spoonful of microplastics’ in our brains&nbsp;&nbsp;New York PostHidden Harms: How plastics & chemicals in plastics impact children’s developing brains&nbsp;&nbsp;Plastic Pollution CoalitionRFK Jr Says You Have A Spoonful Of Plastic In Your Brain – But Do You Really? We Asked The Experts&nbsp;&nbsp;IFLScienceMicroplastics Impact: Study finds link to Stroke & Dementia Risks&nbsp;&nbsp;Deccan HeraldA human brain composited against a landscape of plastic waste. (IMAG",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWjJLMmpzUmhPTmVycWNQR2FxZTRIUWFmc0cxbmpRRFBuV1RlM1Z4bHFaQzRiM250eEZ1UTh0MXFwTkVkMXhibGtKZnFRTUdsaUZZYWgtLVpLZnFqeTNHNExmRjlMSjRZeS1XUy1MRTlFNkJLcTVkQVIzbWZhdXVWTlVNdEtaMnBBQjR6S3JXTy1Rem4xUzB1NHlKUnVjdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c1829bc12c9f",
+      "title": "Cut marks on 1.6 million-year-old bones reveal early humans moved prized meat - Phys.org",
+      "published": "2026-05-10T15:20:01+00:00",
+      "summary": "Cut marks on 1.6 million-year-old bones reveal early humans moved prized meat&nbsp;&nbsp;Phys.orgHumans Have Been Obsessed With the Best Cuts of Meat for 1.6 Million Years&nbsp;&nbsp;VICENew Research Shows How the Earliest Humans Got Their Meat&nbsp;&nbsp;GizmodoForaging behavior in early humans&nbsp;&nbsp;Popular ArcheologyOur Human Ancestors Dined on Takeout&nbsp;&nbsp;Nautilus | Science",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iYmJLdDU5WUoweV92SmVtU2pxWWpsTm9yM0JFeWIxSl9LWjB1WnZYbU9XWHc2QnM0YkFLZ3VqbzlmNi1LYXU5cW81SXFhS3Z4N3pRQmNzX1lCNFlMT18wdWtFd3FNRlVSRmNIOGp0SWlvampG?oc=5"
+        }
+      ]
+    },
+    {
       "id": "86dc53ee783c",
       "title": "A Mother's Brain Is Profoundly Rewired by Pregnancy, Scans Show - ScienceAlert",
       "published": "2026-05-10T14:02:10+00:00",
-      "summary": "A Mother's Brain Is Profoundly Rewired by Pregnancy, Scans Show&nbsp;&nbsp;ScienceAlertPregnancy reshapes the brain. But each pregnancy may do it differently.&nbsp;&nbsp;National GeographicOften-maligned ‘mommy brain’ isn’t a bad thing, emerging research suggests&nbsp;&nbsp;The Denver PostPregnancy Changes Mothers’ Brains. These Recent Discoveries Are Showing Us How&nbsp;&nbsp;Smithsonian MagazineInside ‘mommy brain’: How pregnancy and childbirth rewire the maternal mind&nbsp;&nbsp;The Times of ",
+      "summary": "A Mother's Brain Is Profoundly Rewired by Pregnancy, Scans Show&nbsp;&nbsp;ScienceAlertOften-maligned ‘mommy brain’ isn’t a bad thing, emerging research suggests&nbsp;&nbsp;The Denver PostPregnancy reshapes the brain. But each pregnancy may do it differently.&nbsp;&nbsp;National GeographicInside ‘mommy brain’: How pregnancy and childbirth rewire the maternal mind&nbsp;&nbsp;The Times of IndiaPregnancy Changes Mothers’ Brains. These Recent Discoveries Are Showing Us How&nbsp;&nbsp;Smithsonian Mag",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -42,14 +78,14 @@
       ]
     },
     {
-      "id": "781647cc69ef",
-      "title": "“Cannot be explained” – New ultra stainless steel stuns researchers - ScienceDaily",
-      "published": "2026-05-10T11:41:29+00:00",
-      "summary": "“Cannot be explained” – New ultra stainless steel stuns researchers&nbsp;&nbsp;ScienceDaily",
+      "id": "d8d3f1aadad4",
+      "title": "FDA claims there’s no estrogen patch shortage as women struggle to get prescriptions filled - NBC News",
+      "published": "2026-05-10T12:00:41+00:00",
+      "summary": "FDA claims there’s no estrogen patch shortage as women struggle to get prescriptions filled&nbsp;&nbsp;NBC NewsWhy The HRT Conversation Is More Complicated Than Social Media Suggests&nbsp;&nbsp;ForbesHormone Therapy Is Safe and Effective for Menopause Symptoms&nbsp;&nbsp;AOL.comThe Real Danger to Women Isn’t HRT, It’s Bad Science&nbsp;&nbsp;MedscapeAs the estrogen patch shortage continues, these women are meeting with the FDA&nbsp;&nbsp;USA Today",
       "sources": [
         {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lN0xHcFloR0tEclhPaXJXQ3AxYjFyNlZzLTVNRmVVX0ctN3lESEVxRkRGd0otcTNoQUZxRjg0bHdEZFlweHJwVkxZYnY5V2pPdWN5TGZ1a3JkWlMwY1g3Nm9tWm9FSTI0UVRWbUFscw?oc=5"
+          "name": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd1ozWlZyMjAxS21VVGQzUjBfbUR4WVVKV0xXNnRiYy0wRUxPT2RveWhfTHFHNXRadElQZUs4TDB5NnZTc1JUd1N4Tl9sV2Fja2kxUUtmV0FSUmo1QVVjWXZtRy1aeVlzY1FsVGxnYlgxRmI1T2JNRG05NmtRU19KRS0wekpzaERCM1JSeU9PUnZiUkdGNXRlaEFVZUE3dHYwV2lJNml3ZzhXYUJoWnNZWm9B?oc=5"
         }
       ]
     },
@@ -66,14 +102,74 @@
       ]
     },
     {
-      "id": "998c5bb12d24",
-      "title": "Scientists stunned as volcano cloud destroys methane in the atmosphere - ScienceDaily",
-      "published": "2026-05-10T05:02:53+00:00",
-      "summary": "Scientists stunned as volcano cloud destroys methane in the atmosphere&nbsp;&nbsp;ScienceDailyThis volcano didn't just erupt—it triggered a hidden atmospheric cleanup scientists never expected to see&nbsp;&nbsp;Science XTonga's Eruption Punched Into the Edge of Space. The Stratosphere Cooled, and It Still Has Not Recovered&nbsp;&nbsp;The Daily GalaxyThe Hunga Tonga–Hunga Ha'apai eruption (IMAGE)&nbsp;&nbsp;EurekAlert!Violent Tonga volcano eruption polluted the sky, then cleaned it too, study fin",
+      "id": "56689538fad5",
+      "title": "People Learned to Fly With VR Wings, Then Their Brains Did Something Weird - VICE",
+      "published": "2026-05-10T10:30:00+00:00",
+      "summary": "People Learned to Fly With VR Wings, Then Their Brains Did Something Weird&nbsp;&nbsp;VICE",
+      "sources": [
+        {
+          "name": "VICE",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUGxmVDhqM0F1MTJTZGFYUUlVSm1CdUNseTN6RDN2WHNNRDF3YkhKVjFZSkw5STlvbG56MzNDS2NqNGNzNHJoTnJyVWZBNERIY2RrZG44clhIOWx4R3duekVJN3FPLTgzTk1VT0lsUWdVem5jd1VXVHhZQWVjblVvWFZ4cEIydXV6WDlSUHFodjZhWEZrU0J2MlEwdHFrUDBMTXNFczBwSU9hZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "103e242bc826",
+      "title": "Eating at least five eggs a week is associated with a 27 percent lower risk of Alzheimer’s - PsyPost",
+      "published": "2026-05-10T10:10:22+00:00",
+      "summary": "Eating at least five eggs a week is associated with a 27 percent lower risk of Alzheimer’s&nbsp;&nbsp;PsyPostStudy: Egg consumption is associated with a lower risk of Alzheimer’s Disease&nbsp;&nbsp;Loma Linda UniversityIs it true that eating more eggs could help lower Alzheimer's risk?&nbsp;&nbsp;Medical News TodayAlzheimer’s risk slashed by eating more of one common food, study suggests&nbsp;&nbsp;Fox NewsFrom Lab to Life: Eggs Got a Bad Rap&nbsp;&nbsp;The Times of Israel",
+      "sources": [
+        {
+          "name": "PsyPost",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRk5VdWQ1Q1FZUXZ3U1JxRGF4Wnl4V0JUdGt5Tm9uS0hsWkpSbnVidWpkYmw2Q3dPcWQ3VlZRWHJHcWd6MndqLTBGWWpDcm5oMlJscmZINnNBNVRZODhwZkJCZUJRZlRLMXRCS2djZERSbEJfTlB5LUF6U2xuZ3FBeFFaT25QOUVVZkJvdU5QUDctVVkxOTZ4WXRUTGdKSDVlbzdqTUN5dzQ4YUNhZnpreEdmdHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f9bd1f0d0142",
+      "title": "Indian Techie, 37, Dies In California After Battling Valley Fever For A Month - NDTV",
+      "published": "2026-05-10T10:09:10+00:00",
+      "summary": "Indian Techie, 37, Dies In California After Battling Valley Fever For A Month&nbsp;&nbsp;NDTVIndian techie dies in California after contracting rare fungal infection&nbsp;&nbsp;India TodayTelugu Techie Chiranjeevi Dies in USA due to Valley fever&nbsp;&nbsp;GulteShocker In USA: 2 Telugu People Dead, Here’s Why!&nbsp;&nbsp;Tupaki English37-year-old Indian techie dies due to Valley fever in US | Kolla is survived by his wife & 5-yr-old son | Inshorts&nbsp;&nbsp;Inshorts",
+      "sources": [
+        {
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQkRLclE0eXhnTEcxYXlfQTVpRmlaQ3lHRnF2NnUzVU12OG9yNy0yQkdEUG1SNnpIY1FkTVhHZGFxUVhwV0hLV3Jmd1MwU2gtZW5xWUwweWFENFh4SUs5UFBScThWaVRpeXJFdlNYR1Q2N3hFVUFqeUtmM2x4UlFOLW1VR0JGcWZQblh6UDZIeERCaGo3OHlvVHNLTWdadGdWalVSNmRHWTlmME1ycjBkZlBySHhULU5zc0s2UNIBxAFBVV95cUxPbDhCZUlJVzk3ZlhuU2dGb3UzR0VacExYb2ROcnUtV2V6ektnWmYzbnZCOG01MEk0UmNDeEhVRHg4QlBRUnpNSmlHOXFacXJvTzJuN2JRQ011YlNtLWxTRndFTWkwdEdWdXQ5NlVUdjFWNXlNREZXWjBPU0V2ZDRiMHdPZFRvQTczWEpVekpQYUNNM0piYzBOd2xMNEE4WjFYb09VUVMtaUNXSFE4YVZLNEw4RFBkMG8wYkhFWkFkU19fYkc5?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dd23cfc5eeb9",
+      "title": "Scientists Just Figured Out Why Neanderthals Collected Rhino Teeth - VICE",
+      "published": "2026-05-10T08:30:00+00:00",
+      "summary": "Scientists Just Figured Out Why Neanderthals Collected Rhino Teeth&nbsp;&nbsp;VICENeanderthals used rhinoceros teeth as tools for making stone implements, study finds&nbsp;&nbsp;Archaeology News Online MagazineNeandertals used rhinoceros teeth as tools&nbsp;&nbsp;Science NewsModern experiments suggest rhino teeth may have been part of Neanderthal toolkits&nbsp;&nbsp;Phys.org",
+      "sources": [
+        {
+          "name": "VICE",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVE1pLS1TY3cwbEZTUUViMG9BNmlkNXJfenljeWp5MldBQnlaRE9WVGdRYi14anFPenk2WGxQQWs5VlBlV2lvc3BwVFlWRHVLNllPeUlhRThOMlBpUFRudVZvWmxYaXBFanp1c2M4RVpVMUczeGFoN2VXNFdOV0FXbjFLQkdUZUhTV2ZFSGluS2hzUUZ5ekpQUU8xOWJkd0Rz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "45b57c709ac0",
+      "title": "Tracing Olfactory Receptor Mapping Between The Nose And Brain - Hackaday",
+      "published": "2026-05-10T08:00:00+00:00",
+      "summary": "Tracing Olfactory Receptor Mapping Between The Nose And Brain&nbsp;&nbsp;HackadayScientists Have Created The First Ever 'Smell Map', And It's Stunning&nbsp;&nbsp;ScienceAlertHarvard Scientists Reveal Secret Structure Behind How You Smell&nbsp;&nbsp;SciTechDailyScientists Finally Reveal the Hidden World Inside Your Nose&nbsp;&nbsp;indonesiakiniResearchers Create Detailed Map of Smell Receptors in Mouse Nose&nbsp;&nbsp;Sci.News",
+      "sources": [
+        {
+          "name": "Hackaday",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ242aTd2N3hESnJ2VXVyNHVzazlwMmYxTW1wUTFQVG9wZzRpZ205TUh0ZGFmOEVKXzNwWGhJSFktZTZqeXZvMUt3Skt1WE9kNV9jVkotNWtWNGliM09JMHVnbW8zMC1HdmExRmRYcmoyNHNyUnZpX05idFlHcklzdWt6UW5EMW5TU204ZF93TzRjbDU4b3Q1bnZR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8cb4a3ec3910",
+      "title": "Scientists discover the brain’s hidden “stop scratching” switch - ScienceDaily",
+      "published": "2026-05-10T07:17:55+00:00",
+      "summary": "Scientists discover the brain’s hidden “stop scratching” switch&nbsp;&nbsp;ScienceDaily",
       "sources": [
         {
           "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IYk1TTG53VWJFeHhGTG9OMWR4VkU1WHF2WlU4cmRhX2pDeEJUNkJJeDBHUlRvY1BneDFWanNZNG1nbURrOTRnV1E0SjBJTUxCR2JVM25kNjNHNnFJVTZLdVpmNHJuUmlMVXZWMUpyaw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaVnJPZXhjb0c2UnotWUJZVFZrMkE4aHBxdk8xOEVkeE53TmF4QU5hcFZWeXA4eWI2WncyUEZ5NV9UdjhhTTlYOXY3NWdTYXZCN1BZUHNmVzRnN0VSd1VlT2RjYVFleUltT1Q0alYtRQ?oc=5"
         }
       ]
     },
@@ -90,10 +186,22 @@
       ]
     },
     {
+      "id": "3a906fea8e12",
+      "title": "Arizona woman's tattoo lands her in hospital with severe complications - KUSA.com",
+      "published": "2026-05-09T22:34:00+00:00",
+      "summary": "Arizona woman's tattoo lands her in hospital with severe complications&nbsp;&nbsp;KUSA.comSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "KUSA.com",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPb0pDRWV5YUNENDdiS2o1X0FJcWZabVdnR29UMzZlNF9JYzMyRFVpNExnZ1haem1pc182dUdVTE5hTnNDaWV0aHZVM0xMRFFLUnoyTENVcGZPNjVBajJjeEdpYnUtYWtTV01UYlJlWDJNYy1sWnk2bGR3LUhuSmdIU2hQaXQ4aGpvMS15b0hYTXgzVUk4RDRrdjJNblFidXVpc0xtRUptQkFMWTYtbEotTEdBWXZ5OEczYW94eUFnbUZFd3h1QkQ3SGtneFMweGt6QmFNclJ5SVFRZFczZmc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "530bfb9d3271",
       "title": "Outbreaks Of Highly Contagious Disease Reach Record High In CA - Patch",
       "published": "2026-05-09T20:53:39+00:00",
-      "summary": "Outbreaks Of Highly Contagious Disease Reach Record High In CA&nbsp;&nbsp;Patch'Age-old' disease hits 12-year high in Calif. as new outbreak details revealed&nbsp;&nbsp;SFGATELarge TB outbreaks in the United States decline slightly in recent years, CDC reports&nbsp;&nbsp;CIDRAPTuberculosis cases hit a 12-year high in California. What to know&nbsp;&nbsp;The Daily Gazette50 large TB outbreaks identified in 23 states during 2017 to 2023&nbsp;&nbsp;Medical Xpress",
+      "summary": "Outbreaks Of Highly Contagious Disease Reach Record High In CA&nbsp;&nbsp;Patch'Age-old' disease hits 12-year high in Calif. as new outbreak details revealed&nbsp;&nbsp;SFGATETuberculosis cases hit a 12-year high in California. What to know&nbsp;&nbsp;The Daily GazetteLarge TB outbreaks in the United States decline slightly in recent years, CDC reports&nbsp;&nbsp;CIDRAP50 large TB outbreaks identified in 23 states during 2017 to 2023&nbsp;&nbsp;Medical Xpress",
       "sources": [
         {
           "name": "Patch",
@@ -102,10 +210,22 @@
       ]
     },
     {
+      "id": "2278b9bd543b",
+      "title": "People who lose weight on Ozempic are viewed worse than people who don’t lose weight at all: study - New York Post",
+      "published": "2026-05-09T18:45:00+00:00",
+      "summary": "People who lose weight on Ozempic are viewed worse than people who don’t lose weight at all: study&nbsp;&nbsp;New York PostWeight-Loss Drugs Like Ozempic May Come With an Unexpected Cost&nbsp;&nbsp;SciTechDailyThe GLP-1 paradox: Weight loss drugs may lead to stigma&nbsp;&nbsp;Medical XpressPeople judge GLP-1 users more harshly than dieters&nbsp;&nbsp;News-MedicalBlog - Ozempic, Coerced Weight-Loss, and Threats to Rationality&nbsp;&nbsp;Bioethics Today",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdFdBYlJyaHdnVWRBS1JMUmsyOXI0SlRyaTNPR2dOancxcFRJV1MyMlZMTlNWUWJNeVZrTGlpREd4RzhlY2Ixa1BkZ3FHb1JLcXM2bUhjVTEtNXhYcF8xV2o2elNCUmdCV2RBaDg3MXJKRjBuakN6LWV0VkFOZFdaSzVJdHhDWm0wa3J6ZmU1U2lRakQ3WVBhd0VGQVRwY2I4MUlUZFQ0NmRhVVU?oc=5"
+        }
+      ]
+    },
+    {
       "id": "142863005e93",
       "title": "Study Argues Dante's Inferno Mapped a Planetary Impact 500 Years Before Science - Ancient Origins",
       "published": "2026-05-09T18:11:43+00:00",
-      "summary": "Study Argues Dante's Inferno Mapped a Planetary Impact 500 Years Before Science&nbsp;&nbsp;Ancient OriginsHow Dante's Inferno modeled a planetary impact 500 years before modern science&nbsp;&nbsp;Phys.orgDante’s Inferno suggests Hell and Purgatory mirror the physics of a massive asteroid impact&nbsp;&nbsp;AOL.comDante described a planetary impact in his “Divine Comedy” 500 years before modern science&nbsp;&nbsp;La Brújula VerdeDante’s Inferno may have predicted planetary impact physics centuries",
+      "summary": "Study Argues Dante's Inferno Mapped a Planetary Impact 500 Years Before Science&nbsp;&nbsp;Ancient OriginsHow Dante's Inferno modeled a planetary impact 500 years before modern science&nbsp;&nbsp;Phys.orgDante’s Inferno suggests Hell and Purgatory mirror the physics of a massive asteroid impact&nbsp;&nbsp;The Brighter Side of NewsDante described a planetary impact in his “Divine Comedy” 500 years before modern science&nbsp;&nbsp;La Brújula VerdeDante’s Inferno may have predicted planetary impact",
       "sources": [
         {
           "name": "Ancient Origins",
@@ -114,14 +234,26 @@
       ]
     },
     {
-      "id": "f7856bc0ee7f",
-      "title": "New Pill Lowers Stubborn Blood Pressure and Protects the Kidneys - SciTechDaily",
-      "published": "2026-05-09T17:19:09+00:00",
-      "summary": "New Pill Lowers Stubborn Blood Pressure and Protects the Kidneys&nbsp;&nbsp;SciTechDaily",
+      "id": "5c78d4834a89",
+      "title": "New AI Blood Test Detects Silent Liver Disease Before Symptoms Appear - SciTechDaily",
+      "published": "2026-05-09T16:44:10+00:00",
+      "summary": "New AI Blood Test Detects Silent Liver Disease Before Symptoms Appear&nbsp;&nbsp;SciTechDaily",
       "sources": [
         {
           "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOVNTbW9rVjB0ZXhvb3lHU1FYVnY3ZGJSMElZZEJPd2JCa2FvV01EOV9RVndMY21DMlplOU82YjlMclA4Q2hyYXMzWW5RS18wZnE2enROZTdneVhhNXZnQVQwcE84RE85eU1tajc2Um91d1phQkU0RFQ0MTdtOVo1Sm1SdWJRNU4wNTBpTXZ5TlFMZVo5?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS3Jwa1V3MWlHSW9TQkhNQjFUMFhsV1hyRkxVbUZSdEdZUWJ4S25SQXVBZlVBOW96cTlZdHRZUVk2VWtETy1yMXlHOENOdXV6c1c3Uk1qYm1lekhGaUZ1VG5DSnZxdjdEUUNuaTZ6eW1QY0FEWm51dFlaVDZvLXYzcnRZQ0ZBUUVXbXl2aUlQejB1bUNNdU9OTGttaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a01c1590fe47",
+      "title": "115 sick in norovirus outbreak on Florida-bound cruise ship, CDC says - The Hill",
+      "published": "2026-05-09T16:31:00+00:00",
+      "summary": "115 sick in norovirus outbreak on Florida-bound cruise ship, CDC says&nbsp;&nbsp;The HillNorovirus Outbreak Sickens 115 on Cruise Ship&nbsp;&nbsp;The New York TimesMore than 100 sickened in norovirus outbreak aboard Caribbean Princess cruise&nbsp;&nbsp;NBC NewsOver 100 passengers, crew sick in Florida bound cruise after norovirus outbreak&nbsp;&nbsp;WPECPrincess Cruise ship with Norovirus outbreak coming to Port Canaveral&nbsp;&nbsp;Florida Today",
+      "sources": [
+        {
+          "name": "The Hill",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPemFtcl9Bb2NLUnZKT0VzLXk2azNmaGRiV1lJamcwRUFnUFh1UWNwQ0lLNklFWC1zNHlXaFZ2b2tjeDJOUUJDWUk2bW94UG9WMWJjNEthRDhObWRwYnpSRjdrRHJ5VlM4aTdMb0pRWTdTamlqRnQyM2NvRFZGQXRTclVwWmVQeFJXSXoya9IBkgFBVV95cUxQZkNwOHVXQW1EcFVmZFJyY0xnVkdFcHk5SUl0eWl4NGthZzZfbVpETzNJOWhKeXlhV3dWNjNiREtoWWppM2E5NFRrUllZWExOSU9IOEVCY1ZGOVNvRlZlUUViWVBsZ3JDRG9OeEJZQnNZU1pyRTBOT094c1E5RTBhZkh5am55Rk95ZFMtY0tBS01WQQ?oc=5"
         }
       ]
     },
@@ -129,7 +261,7 @@
       "id": "d954466bcf8c",
       "title": "45 Million Light-Years Away, Scientists Finally Captured the Violent Heart of a Galaxy Being Consumed by Its Own Black Hole - The Daily Galaxy",
       "published": "2026-05-09T16:15:00+00:00",
-      "summary": "45 Million Light-Years Away, Scientists Finally Captured the Violent Heart of a Galaxy Being Consumed by Its Own Black Hole&nbsp;&nbsp;The Daily GalaxySee more headlines & perspectives on Google News",
+      "summary": "45 Million Light-Years Away, Scientists Finally Captured the Violent Heart of a Galaxy Being Consumed by Its Own Black Hole&nbsp;&nbsp;The Daily GalaxySpiral galaxy’s brilliant heart shines bright in a new picture from NASA’s Webb telescope&nbsp;&nbsp;AP NewsA beacon of light in swirls of dust&nbsp;&nbsp;European Space AgencyNASA’s Webb telescope unveils stunning new view of Messier 77&nbsp;&nbsp;Interesting EngineeringSpace Telescope-Galaxy&nbsp;&nbsp;The Daily Gazette",
       "sources": [
         {
           "name": "The Daily Galaxy",
@@ -153,7 +285,7 @@
       "id": "e91623912ed4",
       "title": "Humans May Have Hidden Regenerative Powers, New Study Suggests - SciTechDaily",
       "published": "2026-05-09T16:09:14+00:00",
-      "summary": "Humans May Have Hidden Regenerative Powers, New Study Suggests&nbsp;&nbsp;SciTechDailyMammals May Have a Hidden Limb Regeneration Ability We Never Knew About&nbsp;&nbsp;ScienceAlertScientists found the “holy grail” gene that could one day help humans regrow limbs&nbsp;&nbsp;ScienceDailyWhy Can’t Humans Regrow Limbs? An Evolutionary Biologist Explains&nbsp;&nbsp;ForbesMammalian regeneration could occur by use of sequential growth factor signalling&nbsp;&nbsp;Labmate Online",
+      "summary": "Humans May Have Hidden Regenerative Powers, New Study Suggests&nbsp;&nbsp;SciTechDailyMammals May Have a Hidden Limb Regeneration Ability We Never Knew About&nbsp;&nbsp;ScienceAlertWhy Can’t Humans Regrow Limbs? An Evolutionary Biologist Explains&nbsp;&nbsp;ForbesScientists found the “holy grail” gene that could one day help humans regrow limbs&nbsp;&nbsp;ScienceDailyMammalian regeneration could occur by use of sequential growth factor signalling&nbsp;&nbsp;Labmate Online",
       "sources": [
         {
           "name": "SciTechDaily",
@@ -162,26 +294,26 @@
       ]
     },
     {
-      "id": "485cebb62e68",
-      "title": "Norovirus outbreak reported on Princess cruise ship that departed Fort Lauderdale - CBS News",
-      "published": "2026-05-09T15:33:00+00:00",
-      "summary": "Norovirus outbreak reported on Princess cruise ship that departed Fort Lauderdale&nbsp;&nbsp;CBS News115 sick in norovirus outbreak on Florida-bound cruise ship, CDC says&nbsp;&nbsp;YahooMore than 100 sickened in norovirus outbreak aboard Caribbean Princess cruise&nbsp;&nbsp;NBC NewsMore than 100 passengers sick after Norovirus outbreak on Caribbean Princess cruise ship&nbsp;&nbsp;WKMGNorovirus Outbreak Sickens 115 on Cruise Ship&nbsp;&nbsp;The New York Times",
-      "sources": [
-        {
-          "name": "CBS News",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXFCa0lzMnRHcHdTZHlORVg0cGFZWlQ1cG81T2NsT3E3LUlMRm81NzVpcmRUcnc5cmJRSmkySld0bTQwRmpza3p5MGpWcktiQnpwZVUtNDI1SnlDeS1yYU1Pem0tSTU2WmtHemgwZHhzeXVaa05zVF9XUGhBUzZndjl4NkNiTDlsY01iLXFR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c047a7f72dae",
       "title": "A 17¢ Supplement Is Changing Lives for Women Over 50—Here's How - womansworld.com",
       "published": "2026-05-09T15:00:19+00:00",
-      "summary": "A 17¢ Supplement Is Changing Lives for Women Over 50—Here's How&nbsp;&nbsp;womansworld.comScientists reveal creatine’s hidden power beyond muscle gains&nbsp;&nbsp;ScienceDailyCreatine is a popular supplement. It has benefits but also risks&nbsp;&nbsp;The OklahomanThis Popular Supplement May Boost Your Brain, Not Just Your Muscles&nbsp;&nbsp;SciTechDailyThe Ultimate Men’s Health Creatine Guide&nbsp;&nbsp;Men's Health",
+      "summary": "A 17¢ Supplement Is Changing Lives for Women Over 50—Here's How&nbsp;&nbsp;womansworld.comStudy debunks steroid myths, framing creatine as an essential energy-providing molecule&nbsp;&nbsp;News-MedicalScientists reveal creatine’s hidden power beyond muscle gains&nbsp;&nbsp;ScienceDailyThis Popular Supplement May Boost Your Brain, Not Just Your Muscles&nbsp;&nbsp;SciTechDailyCreatine is a popular supplement. It has benefits but also risks&nbsp;&nbsp;The Oklahoman",
       "sources": [
         {
           "name": "womansworld.com",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU1pTOXY2eXBrSDlRcFVCZkZmbWpjclc4a3NXVjdBU2xLLXhRWS00Q2huWHZRQi1PYjVxUFZCV1ZHTmU4X3ktVy1xOVBOQnVTUXdSU3pFQU84dEFHSENjaG4zOFNZTHNWRG04cGZMd3cwdUlxa3NNaWJ3UmJLdzVtRm8taFdHcDF0ZjViSmlQeTN3dkhmajZpX1BPREFSQ3JZT1A4dEFmX293U21zdkZIRHF0RHVMMHhuaHRZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7e58b9617a2a",
+      "title": "Ultra‑processed food: Why the debate needs less fear and more clarity - Medical Xpress",
+      "published": "2026-05-09T15:00:04+00:00",
+      "summary": "Ultra‑processed food: Why the debate needs less fear and more clarity&nbsp;&nbsp;Medical XpressUltra-processed foods linked to higher risk of heart disease and early death&nbsp;&nbsp;ScienceDailyCook more at home to reduce ultra-processed food intake, say cardiologist groups&nbsp;&nbsp;The GuardianCardiologists issue three new food rules for people with heart problem&nbsp;&nbsp;The MirrorNon-UPF labels: Useful new tool or cause for confusion?&nbsp;&nbsp;Center for Science in the Public Interest",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdmt5M2FiYXJ5RHN4OHJtQ0M4bVBxa3lBbXlpVUhsRXBOck8wUHFzT3ZlSHFYeTNUdVZPeXJBSVFGemNhaHRfQ0xQODBrMUVyX25hcS0teTNmbm9iTGtMdXJtOWZRTDNLQlpuaGdzMkR3UHZJd1RqZkk0aXJCOUFKdjY1VFM?oc=5"
         }
       ]
     },
@@ -194,6 +326,30 @@
         {
           "name": "Phys.org",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HdmppZ2RrS29hQ0dfQXBicVBNcndySC1xdUNTTk54dmJCQzdmakN0dXotenVLM2JnNTNwYVpqNEVkSm13b25EUnhYOHF0OGFDVk9YdDRIR3hiN0YxZDBITThtRm13V3lTeGtRQnQwQnMwV0tISkxZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "49757c871f4d",
+      "title": "Why this tick season could be the worst in a decade - USA Today",
+      "published": "2026-05-09T14:00:00+00:00",
+      "summary": "Why this tick season could be the worst in a decade&nbsp;&nbsp;USA Today6 tick-borne diseases that should be on your radar&nbsp;&nbsp;The Washington Post'Anyone who enjoys the outdoors is at risk': Ohio health officials warn of tick, Lyme disease surge&nbsp;&nbsp;Spectrum NewsGot a tick bite? What to know amid record-high hospital visits in Mass.&nbsp;&nbsp;MassLive.comTick Season Is Longer Than It Used to Be&nbsp;&nbsp;AARP",
+      "sources": [
+        {
+          "name": "USA Today",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUV90cWd5c0h0WV91TGRlYl9LRnVoWFNpSE5PRzg5Ukg3M1Z4V0dRQ0U4Wl9nSUlMQTUzNVF3SkxhdW95RkNKcTNLaHdEQzIxbzJJY2xLS2pfazA4R1c3cnhMZlVINEM4a2JTZDBSZEVzNEduYTFucVF2WWN0Y09WZ2NHeTZXQ3haS0p4QU1JMG5VcHNJNzJ1RXN4OFQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "005cf983a45a",
+      "title": "Hantavirus Vaccines and Treatments Are in the Pipeline - The New York Times",
+      "published": "2026-05-09T13:41:13+00:00",
+      "summary": "Hantavirus Vaccines and Treatments Are in the Pipeline&nbsp;&nbsp;The New York TimesHow Hantavirus Made Moderna a Must-Own Stock Again&nbsp;&nbsp;Barron'sScientists are working on a hantavirus vaccine — but it’s likely years away&nbsp;&nbsp;NBC NewsModerna flags work on hantavirus vaccines before cruise outbreak&nbsp;&nbsp;The Boston GlobeHere's what to know about hantavirus vaccines after the cruise ship outbreak&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMkhqQTc1Q2d6anBaeDZ4UDlfZ2d5S3R1RkVraGxHVFhUclFoaGZHZjdSY1VKcTJSemRmWVNUWHNtN3RIUXFzUVpfbFIydTJKcWF4UUVnMkJyd2U3eDZDRHhPcS05LW9zOTR5NkdtRGpKVXdaazBuUXNqMS1sVUlHSmxNQQ?oc=5"
         }
       ]
     },
@@ -213,7 +369,7 @@
       "id": "d6809b7f52df",
       "title": "The surprisingly strong case for feeling great about your coffee habit - vox.com",
       "published": "2026-05-09T12:30:00+00:00",
-      "summary": "The surprisingly strong case for feeling great about your coffee habit&nbsp;&nbsp;vox.comScientists Discover How Coffee Impacts Memory, Mood, and Gut Health&nbsp;&nbsp;SciTechDailyCoffee May Protect Against Aging, And Caffeine Isn't The Main Reason&nbsp;&nbsp;ScienceAlertHarvard Research Links Caffeine to an 18 Percent Lower Risk of Dementia and Increased Cognitive Function&nbsp;&nbsp;inc.comCoffee's mood-boosting effects aren't just down to caffeine&nbsp;&nbsp;New Scientist",
+      "summary": "The surprisingly strong case for feeling great about your coffee habit&nbsp;&nbsp;vox.comScience Has Found Even More Ways Coffee Is Good for You&nbsp;&nbsp;WIREDScientists Discover How Coffee Impacts Memory, Mood, and Gut Health&nbsp;&nbsp;SciTechDailyCoffee May Protect Against Aging, And Caffeine Isn't The Main Reason&nbsp;&nbsp;ScienceAlertHarvard Research Links Caffeine to an 18 Percent Lower Risk of Dementia and Increased Cognitive Function&nbsp;&nbsp;inc.com",
       "sources": [
         {
           "name": "vox.com",
@@ -225,35 +381,11 @@
       "id": "281218c112d2",
       "title": "Scientists discover a hydraulic link between the abdomen and the brain - PsyPost",
       "published": "2026-05-09T12:07:09+00:00",
-      "summary": "Scientists discover a hydraulic link between the abdomen and the brain&nbsp;&nbsp;PsyPostMovement Triggers a Hidden 'Brain Cleaning' Mechanism, Study Shows&nbsp;&nbsp;ScienceAlertDirty mind? Study suggests gut movement may flush excess material from our brains&nbsp;&nbsp;Los Angeles TimesPenn State Brain Cleaning Study Reveals Shocking Link Between Movement and Brain Health&nbsp;&nbsp;Nbsla.caThis Simple Movement Could Be Secretly Cleaning Your Brain&nbsp;&nbsp;SciTechDaily",
+      "summary": "Scientists discover a hydraulic link between the abdomen and the brain&nbsp;&nbsp;PsyPostMovement Triggers a Hidden 'Brain Cleaning' Mechanism, Study Shows&nbsp;&nbsp;ScienceAlertDirty mind? Study suggests gut movement may flush excess material from our brains&nbsp;&nbsp;Los Angeles TimesPenn State Brain Cleaning Study Reveals Shocking Link Between Movement and Brain Health&nbsp;&nbsp;Nbsla.caScientists discover a hidden brain “cleaning” effect triggered by movement&nbsp;&nbsp;ScienceDaily",
       "sources": [
         {
           "name": "PsyPost",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdEpzeUx6VHdBNUFTc0Mwd2Q5UHVuRi1qY0xfOUlxVlNwdk5pM19MOTV6VU9BY3pTU29fRkhRSlJ3U0poVUF1ZlM5RFdNanZWYkdGYUlFU0F5cU5JOWxVSE1BRjBYMk5SRkpYUnRBYm1Wbm96N0lmZFJjUWVoYXRjYi1vZkhBSXZCTkJ6SU9iaXBVc3l2THBhNklSbw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9f7ded3e35ed",
-      "title": "Neanderthals used rhinoceros teeth as tools for making stone implements, study finds - Archaeology News Online Magazine",
-      "published": "2026-05-09T11:44:57+00:00",
-      "summary": "Neanderthals used rhinoceros teeth as tools for making stone implements, study finds&nbsp;&nbsp;Archaeology News Online MagazineNeandertals used rhinoceros teeth as tools&nbsp;&nbsp;Science NewsModern experiments suggest rhino teeth may have been part of Neanderthal toolkits&nbsp;&nbsp;Phys.orgScientists Just Figured Out Why Neanderthals Collected Rhino Teeth&nbsp;&nbsp;VICE",
-      "sources": [
-        {
-          "name": "Archaeology News Online Magazine",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSXZvdF93a3ZfWFBwYmh2LXppMmczUlFkN1k4UGlsQnVWYjF0TWhoNml1TVE0VHh5LVJwSVdIRkgtN2FHcjhJMXN1U3RFUF9qWXJkdlBnUXZfMHJtbGNSY0NHYVA1b1VOZFpHOTdyR3F3VVJPWExucDBjNUVHMEVucXFhSVF4QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e353fdfbb8c7",
-      "title": "Craig Venter obituary: biologist who decoded the human genome - The Times",
-      "published": "2026-05-09T09:15:10+00:00",
-      "summary": "Craig Venter obituary: biologist who decoded the human genome&nbsp;&nbsp;The TimesJ. Craig Venter’s work was foundational to cancer advancement of the past 25 years&nbsp;&nbsp;The Cancer LetterRemembering J. Craig Venter, PhD&nbsp;&nbsp;Genetic Engineering and Biotechnology NewsWhat Did Mapping The Genome Get Us?&nbsp;&nbsp;KQEDJ. Craig Venter: the American scientist who changed biotech&nbsp;&nbsp;MoneyWeek",
-      "sources": [
-        {
-          "name": "The Times",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNblo3VlcwZjlVbS1lZkxCLXliSkNxTEJidGxENnF5aHlfV0t2R2xRdjJ3OWpvbFhycDBKZ2ItZVdXanB2WmVTNHFaQk5hd0xmMTVlcnRfWWVSMndCanE3cTBCUEZIUGEzdFRaRi1XMDVabmxfdURrZFlfODdXZFJXZmstdktuajBpTjFzcUFGRmV4eEVXdnFTblJ2V09kMWxfT0F6RmwzeURVTDlzM1EzeUYwUk8?oc=5"
         }
       ]
     },
@@ -270,86 +402,14 @@
       ]
     },
     {
-      "id": "d6a7bdddfad7",
-      "title": "Arizona man who survived hantavirus 24 years ago, but lost mom and sister, says recent outbreak is \"hard\" to process - CBS News",
-      "published": "2026-05-09T01:48:00+00:00",
-      "summary": "Arizona man who survived hantavirus 24 years ago, but lost mom and sister, says recent outbreak is \"hard\" to process&nbsp;&nbsp;CBS NewsAs hantavirus outbreak draws concern, Arizona survivor shares warning&nbsp;&nbsp;AZ FamilyHantavirus outbreak: Arizona man who survived the infection 24 years ago says it isn't as scary as COVID-19&nbsp;&nbsp;MintMan who survived hantavirus 24 years ago, but lost mom and sister, recounts experience&nbsp;&nbsp;AOL.com",
-      "sources": [
-        {
-          "name": "CBS News",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZXB4YkUtTzdaQndiSGpWcVYwRnlhcF9nVTNHVGg1YklRV0tVTTVVR1NRZjJ6aDFhdmxGckVsZndpdkJXcTI2Y1RPaEFRWTJTMDBIZjc1Szh5NHZJQnd6SnE2OEhTLWZoa2VrRFlZbkxoRkNxVVBMajNiSXBZU2JNLVY0amNBeS0taFNOUWJEcnFTeVpIUkQzQnhuRWNyZ9IBowFBVV95cUxPbjNkVTRqRGd4WkI2SEdUWWR6OUVraDNNclBXUGNualNmSENQTWJOZVdOaVE4ZE9DQ3Q2QndkZ3pKNjhFWHYxUk5OMjFZYXFfUDFSN0toc2ZzUmhzd3QxLVBtaEo2Z1d6QjB2QndOaHJYMmgtT294Skk0OFFuUmU1WjNyT0RZaldVZEN2TjhraVcxS2h0cTRYYkdQb2NPZGo4VWpV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0ead7e1ceeac",
-      "title": "What Are You Actually Swallowing When You Take Probiotics? - ScienceAlert",
-      "published": "2026-05-09T01:01:19+00:00",
-      "summary": "What Are You Actually Swallowing When You Take Probiotics?&nbsp;&nbsp;ScienceAlertI'm Dietitian, And I Recommend This Probiotic for Stomach Issues&nbsp;&nbsp;AOL.comProbiotics: what are we swallowing?&nbsp;&nbsp;The ConversationThe Gut Health Reset Everyone’s Talking About And The Probiotic That Actually Keeps Up&nbsp;&nbsp;PopdustThese are the best probiotics we've used to boost gut health&nbsp;&nbsp;Fit&amp;Well",
+      "id": "f44c88ee8ce5",
+      "title": "Scientists Reveal How Exercise Benefits Every Part of Your Body - ScienceAlert",
+      "published": "2026-05-07T02:55:28+00:00",
+      "summary": "Scientists Reveal How Exercise Benefits Every Part of Your Body&nbsp;&nbsp;ScienceAlertYou know exercise is good for you – so why is it so hard to put it into practice?&nbsp;&nbsp;Black Hills PioneerExercise: a very little goes a long way&nbsp;&nbsp;EurekAlert!The simple exercise rules that can make you fitter, stronger and healthier&nbsp;&nbsp;The Independent",
       "sources": [
         {
           "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdVNvbktFSGplZ0d3UnRaSmhDa3F5N183QXAwZ3dScVNyay1aRFRzZV9KTVgtZlUwTVpLWUxkY19qVXdvcFlZMlg2Mldsb01mUmZFVWJTa2pjT0dfV3YzRWMzME1ncXpjUGJvbDlHaUt2ZkU5WS15TFlsSFk1a3lwNlRGN3lWYW5rc2xSTkREQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d9cadd621ad0",
-      "title": "Scientists Turn Cancer’s Own Bacteria Against It in Breakthrough Therapy - SciTechDaily",
-      "published": "2026-05-09T00:26:42+00:00",
-      "summary": "Scientists Turn Cancer’s Own Bacteria Against It in Breakthrough Therapy&nbsp;&nbsp;SciTechDaily",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOVFVRDFSeHJuV0hZdkUxa0RTQmx0Z2FJVGlwNFliWVZxOUg4VE9OY2Z2bUNzOE5PVzZGM19DWVNnVlR2R1pmRXZzQUgxMmpUV1NDYWhDcnZBR2xnNy1qTHVGY2lpeC13NTJfdEtheFlYMGhvSkZvZmtSMWNJVTkxNTVZbTlrb0pxMC1fMmhmbGVVbVRJajhoYVhadWJZUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "33dd06a5289e",
-      "title": "Discovery Redefines the Architecture of Thought - Neuroscience News",
-      "published": "2026-05-08T20:40:03+00:00",
-      "summary": "Discovery Redefines the Architecture of Thought&nbsp;&nbsp;Neuroscience NewsNew Research Challenges Long-Held Beliefs About How the Brain Makes Decisions&nbsp;&nbsp;SciTechDaily",
-      "sources": [
-        {
-          "name": "Neuroscience News",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUnJabUtQMGdIZDg5Smx3cG5PQ0s5M2RKbzlZcjhvdGVXYjg3b1phRGtnenBad2hDTDBpWlpWNldreVBKXzRkcC1Od0Naa0VXeThjbWtLS0htRFFkQ1JQdWNDRHF6Sk1zYjQ4X3dmZTNiX2hYVnY2TkNnWHd4TlE3eGMzVDE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bea164b539fe",
-      "title": "Brazilian dinosaur discovery points to an ancient route from Europe to South America - The Brighter Side of News",
-      "published": "2026-05-08T20:07:00+00:00",
-      "summary": "Brazilian dinosaur discovery points to an ancient route from Europe to South America&nbsp;&nbsp;The Brighter Side of News",
-      "sources": [
-        {
-          "name": "The Brighter Side of News",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWWluaWFHMWZKSEdrQV9rSG5iZ0xxQUUtcUY5LTdqUm9wSTdPa0pWUGN1SG8wek9HQWZ4Zy15aXhIdXpzT2NjYzkyejl3eFdrR3JZakZLcUg0QldXSlNxRm9IUWhVMW50WHdwNVhJalFaQ3BYaXkzSDVHS3RVclpCXzlabUx2cGJnQWljUEJjZVU4MmZFSmhNdHZBWUk5WXRDRmtkejZIUUxvMUo0UjB2b0FsYkhxOUcxRk9pVTE4VDI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5ab06ef3cf23",
-      "title": "“Sounds Like 2026”: Disturbing 'The X-Files' Moment Resurfaces as Hantavirus Spreads in US - Bored Panda",
-      "published": "2026-05-08T19:04:21+00:00",
-      "summary": "“Sounds Like 2026”: Disturbing 'The X-Files' Moment Resurfaces as Hantavirus Spreads in US&nbsp;&nbsp;Bored PandaThere's little chance of a hantavirus global outbreak. What the latest odds say&nbsp;&nbsp;CNBCPolymarket’s Hot New Bet: Hantavirus&nbsp;&nbsp;Mother JonesFact Check: YES, X User @iamasoothsayer Wrote In 2022: '2026: Hantavirus'&nbsp;&nbsp;YahooThe Polymarket betting pool wants to cash in on hantavirus&nbsp;&nbsp;Fast Company",
-      "sources": [
-        {
-          "name": "Bored Panda",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdVlDNUVFaWhSbTFsTWlMSlNwY3F0V1VKdHBPNllfazlzWmRBdVdibzJWQ01rZXpKTWw3b29jY3hodXIyd3dxMXVnVVdQQU5JVjl6Si1xR0JmeWJ4c2FHYzliMFl3bDM0RWY2a3ZVaGljVjJjRmM1My03ejhZdlYxbmFsd2VVMjFqeHRJSy1pWXJELUU0MUxnMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7f452eae6923",
-      "title": "An apple a day: 13 old wives’ tales that are true - The Times",
-      "published": "2026-05-08T19:00:00+00:00",
-      "summary": "An apple a day: 13 old wives’ tales that are true&nbsp;&nbsp;The TimesNew Study Shows Cranberry Juice May Boost UTI Antibiotics&nbsp;&nbsp;American Society for MicrobiologyMedical Bulletin 09/May/2026&nbsp;&nbsp;Medical DialoguesCranberry Juice: Cranberry juice enhances antibiotic efficacy against UTIs&nbsp;&nbsp;The Times of IndiaNew Study Recognizes the Powerful Impact of Cranberry Juice to Improve Outcomes for UTIs&nbsp;&nbsp;PR Newswire",
-      "sources": [
-        {
-          "name": "The Times",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONjc5WWVwS181R3hLZ3B6TUwtN3VjWkY4bTZTR2RreE43Yk5jMkhwQk42RDBIZkM1TEUtMFA1S0NndE1mODVpaXA3b0ExTUprOEh5OVZQeXdzS296UmpPSVNDNTFEZGo0RUNIUW9hQjhPekp6N0FHMURDTWoyQ0lTSmhaQ1NDYnl2SFRiSTRaZGZnY1Jyck9jaUpINnhyYlJjZ2FId2JMZlFWOUcwMHBvc2pXNDVkMXM?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV2JtbExiZFNwNnF3a2N3dlZzQjFlVHd3RmNiX0VyVUh4eG5OQUZHUDJjYUtJVkVNc0FMczNxakV1VEtjNWVEVFhUaWFPYXFlbU50dzlSRTV3VEp1TFktVE4yZ1FOMjBoQkxaTTJOSmNORmN4UjBtQ0ZsYUppT1U3MVRINGJwb0p3UlNOZ3A0RGZvNXdCU0Zv?oc=5"
         }
       ]
     }

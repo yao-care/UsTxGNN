@@ -1,27 +1,51 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-11T19:52:11.031690+00:00",
-  "total_fetched": 54,
-  "unique_count": 54,
-  "health_related_count": 21,
+  "fetched_at": "2026-05-12T03:34:17.152471+00:00",
+  "total_fetched": 64,
+  "unique_count": 64,
+  "health_related_count": 20,
   "news": [
     {
-      "id": "a0b7ad4003cd",
-      "title": "Scientist accidentally finds shortcut to Mars that could slash travel time in half - MSN",
-      "published": "2026-05-11T19:26:28+00:00",
-      "summary": "Scientist accidentally finds shortcut to Mars that could slash travel time in half&nbsp;&nbsp;MSNA researcher may have found a shortcut to Mars as NASA eyes red planet&nbsp;&nbsp;USA Today'I was not looking for this': Scientist accidentally finds shortcut to Mars that could slash travel time in half&nbsp;&nbsp;Live ScienceNew shortcut found to Mars that could cut travel time by half&nbsp;&nbsp;The IndependentBrazilian scientist uses asteroid data and artificial intelligence to propose a \"shortcu",
+      "id": "fa78aa05f4e5",
+      "title": "2 Maryland residents monitored after potential hantavirus exposure, health officials say - CBS News",
+      "published": "2026-05-12T03:12:39+00:00",
+      "summary": "2 Maryland residents monitored after potential hantavirus exposure, health officials say&nbsp;&nbsp;CBS NewsAmerican Hantavirus Cruise Passengers Flown to Quarantine Center After Positive Test&nbsp;&nbsp;WSJLast passengers from hantavirus-hit ship evacuated; American tests positive&nbsp;&nbsp;Al JazeeraVisualizing the hantavirus cruise outbreak in maps and charts&nbsp;&nbsp;CNNHantavirus: Current Situation&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)",
       "sources": [
         {
-          "name": "MSN",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS1htOHVHVzl3bFlQS012aXRDSTRaVDhrMUJ5YlNiVVZMWXdJVG5HdHR1SDVIdGhIb2ZycGRQOTBxSTR0U2FOcDRHaUtEREhzQWRZUlAyWTctRkg0Z0l4cy1feXRrTFYwLUVfWWRMOWVBS1VHYWhHb1UwbGk0cjU4ZHlCUWt5d0lZNTVCZFk5R3NQcDlTYjVBU3VIRmNNajY4MHFhNGpDOWlNNnJrTFB3cGxDbGtTZ0hiR3lfTWJwbE1FcDdQc1pYLVBkb3h5cTRJekE?oc=5"
+          "name": "CBS News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUDhDdEFxRHpMVmo3UmpFeHVwd0JnbXNtWVBpdXVRSEEybjd0WmkySmhyRFpVMms3b2dya25nZDlWNHY3QXdRdWtHM3dUSUd4N1ZqNlB0MTM2Rm12MThtZHh6U202QUFVbHUyMy1iTnN5NEY1NVBFMVFMZkVEMUkydHFtRWd1NV8wbVZBSEc0VmRnNzlEdFNvOVlDTTRkOHc?oc=5"
         }
       ]
     },
     {
-      "id": "16d28db07fa8",
-      "title": "Moderna Stock Loses Steam. Hantavirus Trade Fizzles As Officials Dismiss Pandemic Risk. - Barron's",
-      "published": "2026-05-11T16:47:00+00:00",
-      "summary": "Moderna Stock Loses Steam. Hantavirus Trade Fizzles As Officials Dismiss Pandemic Risk.&nbsp;&nbsp;Barron'sHantavirus cases spark brief surge in pharma and biotech stocks — here’s why trading is so volatile&nbsp;&nbsp;CNBCWhy investors don't expect market meltdown from hantavirus&nbsp;&nbsp;AxiosHantavirus Vaccines and Treatments Are in the Pipeline&nbsp;&nbsp;The New York TimesThe Next Frontier for Hantavirus: Finding Vaccines and Treatments&nbsp;&nbsp;WSJ",
+      "id": "edf19feb333d",
+      "title": "Why hantavirus is not like COVID, according to infectious disease experts - CBS News",
+      "published": "2026-05-12T01:36:46+00:00",
+      "summary": "Why hantavirus is not like COVID, according to infectious disease experts&nbsp;&nbsp;CBS NewsHouston-based doctor says Hantavirus isn't very transmissible despite Hantavirus cruise outbreak&nbsp;&nbsp;ABC13 HoustonWhat Pittsburghers need to know about hantavirus&nbsp;&nbsp;Pittsburgh Post-GazetteCould hantavirus spark the next pandemic? Pittsburgh doctors explain&nbsp;&nbsp;TribLIVE.comHantavirus and COVID: Similar fears, major differences&nbsp;&nbsp;WRAL",
+      "sources": [
+        {
+          "name": "CBS News",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXS01HLTFkWXdlVzl5d3VrVnJGa2JCQVpkSkphWU93b2dTeDBuLTRZYTdLT1FsYkJaRDFWcDNZY2FEUlA0bkdKbmFZVXY3dkFkT0NPaTJ6NFl1a1A5ZnkzYXdnZ1NXbHhocTI4aXZZcm83azRlWklLZkw3RzRRQdIBgwFBVV95cUxOUjBMN2Nnc3ZKZlYyYm8xbkViQkh6VG1nVHU1cUdIWUlxbDViaGp1ZHJqVGR2cjd6X2JTZHpTcWl4aUtiN1Z6WHF5b3BEY29oZFVubFlOUm9VWlVBZTMzVWxULWo1dGZDQm5OcG5TMVd0a2V1R3VhM0h1VU1DbVlyWDdMbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "df30d7e6bb00",
+      "title": "Hantavirus latest updates: 18 people being monitored for hantavirus in Nebraska and Georgia - Yahoo",
+      "published": "2026-05-11T21:27:14+00:00",
+      "summary": "Hantavirus latest updates: 18 people being monitored for hantavirus in Nebraska and Georgia&nbsp;&nbsp;YahooLive updates: Passengers from hantavirus-hit cruise ship being monitored at US medical units&nbsp;&nbsp;CNNHantavirus outbreak: 2 patients being monitored at Emory Hospital in Atlanta&nbsp;&nbsp;FOX 5 AtlantaInside the Hantavirus Isolation Unit Where 15 Americans Wait&nbsp;&nbsp;The New York TimesTwo passengers of hantavirus-stricken cruise ship arrive in Atlanta&nbsp;&nbsp;WABE",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMkRWWmR3NndVVTI5RHU5eXhoZ1lEOVFESGdnSEZydWU0bnpUNnZMbjdPVXlVaVBXazctRXY2Tk10UnFtX1NmMEdnM0Z4UjVyU29pVS1xWE1rR1BLa0tuX0R2Ti03by1VZDVGRXhGYS1TUkFTajNwZm1tTG13MHlob3ZJWkJmbEtWdUJ3RUg2dVRQQkJCcWZSSk9iYmZpNENabjBkSHE4RDRnUjF1MFRUcEQ1VUU4OHRlQnpxWEtvanlTVkRfM0RQcm41LWNYRHBGSWxkN3JpNmI3Y0lyUklNSUdCdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e75f8bc4b32f",
+      "title": "Moderna Stock Loses Steam. Hantavirus Trade Fizzles as Officials Dismiss Pandemic Risk. - Barron's",
+      "published": "2026-05-11T19:18:00+00:00",
+      "summary": "Moderna Stock Loses Steam. Hantavirus Trade Fizzles as Officials Dismiss Pandemic Risk.&nbsp;&nbsp;Barron'sHantavirus cases spark brief surge in pharma and biotech stocks — here’s why trading is so volatile&nbsp;&nbsp;CNBCThe Next Frontier for Hantavirus: Finding Vaccines and Treatments&nbsp;&nbsp;WSJModerna stock extends gains on hantavirus research&nbsp;&nbsp;Yahoo FinanceA New Hantavirus Vaccine Is in the Works&nbsp;&nbsp;WIRED",
       "sources": [
         {
           "name": "Barron's",
@@ -30,14 +54,26 @@
       ]
     },
     {
-      "id": "efeb2d9d9d51",
-      "title": "Hantavirus: How it differs from COVID - DW.com",
-      "published": "2026-05-11T16:33:58+00:00",
-      "summary": "Hantavirus: How it differs from COVID&nbsp;&nbsp;DW.comAmerican Hantavirus Cruise Passengers Flown to Quarantine Center After Positive Test&nbsp;&nbsp;WSJAndes virus linked to cruise ship deaths raises concern over human-to-human spread&nbsp;&nbsp;Fox NewsHantavirus: Current Situation&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)US passengers from hantavirus-hit ship quarantined in Nebraska and Georgia&nbsp;&nbsp;BBC",
+      "id": "4742f63f2f39",
+      "title": "If A Man Is Secretly Heartbroken, These 4 Behaviors Are Hard To Hide - YourTango",
+      "published": "2026-05-11T19:15:29+00:00",
+      "summary": "If A Man Is Secretly Heartbroken, These 4 Behaviors Are Hard To Hide&nbsp;&nbsp;YourTango",
       "sources": [
         {
-          "name": "DW.com",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tTjN6NHFsVkY3b0JLclQ3bC0tOGhlMUlmV0FXRjdWSjFORm5IVWNpSEJMQk1tSGhrdTJ0eHZwZF9SUFZDbV9MTWItZVRGWE54WHJSUjVJVU1Sd1oteHdzdS1MTTFEX3JxMlhocTZ2SUJmbldjbFc3T9IBeEFVX3lxTE1USURSTlhDRkdjV010N2lFRHBMVUlOdG5WLVVMNDU4QzhJZTNiN2QyRG5ubEZUOEZybVJfYm85bjFHMnFkTGRXQTZRMWRpWEZmV1pCS0M0cnpnQ1lVNUhsRXpZbVVZYlBmQ2xjcVFnWHBoVnJaRmV0Yg?oc=5"
+          "name": "YourTango",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa0ZjQ1VpTl96akZQZWhiazJmY3RVd000cW5ZQjRDVzU0TWVEYTRCZWtPdTNBOFpsMlhQVDlCSzlZZzBaR3RZT0dhdWh4cnAxWDRZWjlTdnUtSzc5WUIyeHoxZjdNTTRDYjdvY1BNME5TZnhVaFpJLTNMXzA3NlB3U2VoQy0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "548eee9320be",
+      "title": "Norovirus-hit cruise docks at Port Canaveral after 115 fall ill on nightmare voyage - WPEC",
+      "published": "2026-05-11T19:10:52+00:00",
+      "summary": "Norovirus-hit cruise docks at Port Canaveral after 115 fall ill on nightmare voyage&nbsp;&nbsp;WPECCruise ship with norovirus outbreak docks in Florida. Illness facts&nbsp;&nbsp;Florida TodayPrincess Cruises ship with more than 100 sick from norovirus arrives to Port Canaveral&nbsp;&nbsp;Orlando SentinelMore than 100 sickened in norovirus outbreak aboard Caribbean Princess cruise&nbsp;&nbsp;NBC NewsMore than 100 sickened with virus on cruise ship docked in Florida&nbsp;&nbsp;Action News Jax",
+      "sources": [
+        {
+          "name": "WPEC",
+          "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQQ0t6TUtIRVFrUnNDTTB6VWtncG5ydy1oX3Mtb0hwQ1dUTEJfOUFycmwyaU5zaVpEaFZ3QXNWQlVUMV84SHNfT2lUdWVkNUpuY2pLMWZMQTlWUmdlSXJtTWZpZFpWOUJManNtTmQyRHB0aVJadTd6Q2Q5YzlDcW1UcnoyWmJVekpfaDRLYVhpdjBiM2RrYWJ2S0ZBN3RNeXlscGpNRHcwaFJZcnZYUzBmdllwUFVXYXA5UHNaaXBXb3JxVVlhWXd4YUdTLUdza3ZfR2p4Mko1NlZTaTJJbkFxNW5sR0FyOGRWYUV1aFlraG05UWM1WW5pT3ZPY1NacjZuMDNwa0lPaHJESHh4UDFJUzg5a1loYnEtMkxzeWlRU2o2OUpEcUNQbk9RWmo5YUNFb3JHN0VlODBzdWlNbkVDOEd0eWc4ek1XWm5zbVBZbnVBQXVxRk01ZWE1aFRjSXVzZjZTT2oxZ1BQd2NFUDFESDRrMjdDWDN5ZFJSSTVQbE1RWC16UG5mWWVEZk1aYy1pbG84?oc=5"
         }
       ]
     },
@@ -54,46 +90,22 @@
       ]
     },
     {
-      "id": "d772ea39bdd9",
-      "title": "Astronomers Discovered a Brand-New Type of Planet That Reeks of Rotten Eggs and Defies Planetary Science - The Daily Galaxy",
-      "published": "2026-05-11T14:45:00+00:00",
-      "summary": "Astronomers Discovered a Brand-New Type of Planet That Reeks of Rotten Eggs and Defies Planetary Science&nbsp;&nbsp;The Daily GalaxyThis sulfurous hell world might change the way we classify exoplanets&nbsp;&nbsp;Scientific AmericanScientists have found a completely new type of planet. And it absolutely stinks&nbsp;&nbsp;BBC Sky at Night MagazineRewinding exoplanetary clocks: L 98-59 d opens up research into a new type of molten worlds&nbsp;&nbsp;Astrobites",
+      "id": "37dd6d7ae2a8",
+      "title": "How NASA lunar scientists taught Artemis 2 astronauts to see the moon with different eyes - Space",
+      "published": "2026-05-11T16:00:00+00:00",
+      "summary": "How NASA lunar scientists taught Artemis 2 astronauts to see the moon with different eyes&nbsp;&nbsp;SpaceNASA's Artemis 2 astronauts saw flashes on the far side of the moon that cameras struggle to capture. Here's why scientists are excited&nbsp;&nbsp;SpaceLunar Impact Flashes NASA Artemis: How Artemis 2 Astronauts Witnessed Hidden Meteoroid Explosions on the Moon&nbsp;&nbsp;Nbsla.caThe Sky is Falling: Everything You Need to Know About NASA’s Discovery of Lunar Impact Flashes&nbsp;&nbsp;vocal.m",
       "sources": [
         {
-          "name": "The Daily Galaxy",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZDRYWDdlb2FNaEJQTGp2bTZSSHkwbmtqVC1PcGwzOFpMQjI5V2xXa1hzZnBvcGdHY090WW1kWmk3bjdScnNteDBFZU56TkptbTZrT0YwblBvT3hydTB1Y1BxZlFaTlRxYVhfZm5HVWU5M2MxRFFfUzNuUjNoLW51Uw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8733ee7993db",
-      "title": "NY Sen. Schumer says hantavirus outbreak underscores dangers of CDC staffing cuts - Gothamist",
-      "published": "2026-05-11T14:01:00+00:00",
-      "summary": "NY Sen. Schumer says hantavirus outbreak underscores dangers of CDC staffing cuts&nbsp;&nbsp;GothamistTrump administration cut funding to study hantavirus, the virus behind deadly cruise ship outbreak&nbsp;&nbsp;Scientific AmericanThe Trump administration slashed funding for infectious disease research and has far fewer employees, including disease detectives, to respond to outbreaks. Read more: https://nyti.ms/3QXqDsE&nbsp;&nbsp;facebook.comSchumer slams Trump's health policy amid virus outbrea",
-      "sources": [
-        {
-          "name": "Gothamist",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVlU4VHJyOFRBZFJxQXhfY0J1VE9HNklYYWdqN3kyU1d5c3RXUjg5SHJJaXpPMnNiNzJibE1BbHRwMmcxWmNLTi1ydnhjU2JWOE1Ea2VHMkp3eXlwSVlycXBCelBHWXlzSENMRV9Od2w5N0w4QzVmRVctYnA5U3ZESXdaTEdhNGZicTlGczN2VVhfYnVOazRQU1JFdXBzQXBhSl8tNVdoZmxSZUk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ff74e5384ffb",
-      "title": "Exclusive | Ozempic and Mounjaro masked our cancer symptoms — even doctors were unconcerned - New York Post",
-      "published": "2026-05-11T11:59:00+00:00",
-      "summary": "Exclusive | Ozempic and Mounjaro masked our cancer symptoms — even doctors were unconcerned&nbsp;&nbsp;New York PostFat jabs BOOST breast cancer survival – drug may ‘slash risk of death by 65%’&nbsp;&nbsp;The SunWhat cancer researchers, clinicians and patients say about ‘game-changing’ GLP-1s&nbsp;&nbsp;Fred Hutchinson Cancer CenterGLP-1 Medications and Cancer Survivorship: What Patients Managing Treatment-Related Weight Changes Need to Know&nbsp;&nbsp;CUREtoday.comDo GLP-1 drugs like Ozempic pr",
-      "sources": [
-        {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWUtXekNYa1V4dWpUbGJGYkhhckVlc2pDZWo1VnliMzVQSmIzOE43dWYwQnV6VGxOTF9rREs2MHlnRWJqM2pMdVJaaS1YbVA3YzhjQnhtT2ZxVVpVeWVFYUp4N1J4eXhMN1lra3FFLVpsandmOTN4VmVxTTU4NXhmMC0wX2s5M1dtdzd3Rw?oc=5"
+          "name": "Space",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWWk3Nk55S2E0VXJJTHNGRXV5ekpVTkVZZW5ZMS13T3hzVVI3R2ZGWXJiZ3hzTDBBUnJPaDlBWnAxcDRCVUxCU3dEcmhwUVVhc2JDZHZUcGduLWppYXZjQ2ZoNEJTbjFDVG5wbmdPamUzZWFhTHNLX25VNDFiMXMtcjRwMlJIU1NTNXZqX0RrZXYxdXJlc2RpQWxrbXpSQjZSOG54Tl9vZ1dGT3BmaXE3R2gxd0dabmg1Q29ucFlod0x5MW11aTMxYmVlNm9oY2hBRDdv?oc=5"
         }
       ]
     },
     {
       "id": "c4a4b212bb87",
       "title": "A Single Infusion Could Suppress H.I.V. for Years, Study Suggests - The New York Times",
-      "published": "2026-05-11T10:00:10+00:00",
-      "summary": "A Single Infusion Could Suppress H.I.V. for Years, Study Suggests&nbsp;&nbsp;The New York TimesHIV i-Base: Immune-based research into finding a cure for HIV&nbsp;&nbsp;European AIDS Treatment GroupScience: A novel gene-therapy approach to ‘functionally cure’ HIV succeeds in some monkeys&nbsp;&nbsp;European AIDS Treatment Group",
+      "published": "2026-05-11T15:11:14+00:00",
+      "summary": "A Single Infusion Could Suppress H.I.V. for Years, Study Suggests&nbsp;&nbsp;The New York TimesHIV i-Base: Immune-based research into finding a cure for HIV&nbsp;&nbsp;European AIDS Treatment GroupRevolutionary CAR-T Therapy: A New Hope for HIV Control&nbsp;&nbsp;DevdiscourseCan a single infusion of immune cells suppress HIV for years?&nbsp;&nbsp;YahooSmall study shows one-time cell therapy can control HIV infection&nbsp;&nbsp;CP24",
       "sources": [
         {
           "name": "The New York Times",
@@ -102,38 +114,26 @@
       ]
     },
     {
-      "id": "f2663107f455",
-      "title": "Does Dante's Inferno from the 14th century depict an asteroid impact? - Space",
-      "published": "2026-05-11T10:00:00+00:00",
-      "summary": "Does Dante's Inferno from the 14th century depict an asteroid impact?&nbsp;&nbsp;SpaceDante Alighieri’s Inferno may have been far more than a religious epic&nbsp;&nbsp;Tech ExploristScientists say Dante’s Inferno described an asteroid impact 500 years before modern science&nbsp;&nbsp;ScienceDailyDid Dante’s ‘Inferno’ Predict Impact Physics Hundreds of Years Before Its Invention?&nbsp;&nbsp;The DebriefDante’s Inferno suggests Hell and Purgatory mirror the physics of a massive asteroid impact&nbsp",
+      "id": "d772ea39bdd9",
+      "title": "Astronomers Discovered a Brand-New Type of Planet That Reeks of Rotten Eggs and Defies Planetary Science - The Daily Galaxy",
+      "published": "2026-05-11T14:45:00+00:00",
+      "summary": "Astronomers Discovered a Brand-New Type of Planet That Reeks of Rotten Eggs and Defies Planetary Science&nbsp;&nbsp;The Daily GalaxyScientists have found a completely new type of planet. And it absolutely stinks&nbsp;&nbsp;BBC Sky at Night MagazineThis sulfurous hell world might change the way we classify exoplanets&nbsp;&nbsp;Scientific AmericanRewinding exoplanetary clocks: L 98-59 d opens up research into a new type of molten worlds&nbsp;&nbsp;Astrobites",
+      "sources": [
+        {
+          "name": "The Daily Galaxy",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZDRYWDdlb2FNaEJQTGp2bTZSSHkwbmtqVC1PcGwzOFpMQjI5V2xXa1hzZnBvcGdHY090WW1kWmk3bjdScnNteDBFZU56TkptbTZrT0YwblBvT3hydTB1Y1BxZlFaTlRxYVhfZm5HVWU5M2MxRFFfUzNuUjNoLW51Uw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "189c863e9022",
+      "title": "New James Webb Space Telescope images reveal how massive star clusters can reshape galaxies - Space",
+      "published": "2026-05-11T13:00:00+00:00",
+      "summary": "New James Webb Space Telescope images reveal how massive star clusters can reshape galaxies&nbsp;&nbsp;SpaceWebb & Hubble find massive star clusters emerge faster&nbsp;&nbsp;European Space AgencyThe emerging timescale of young star clusters regulated by cluster stellar mass&nbsp;&nbsp;NatureA whirlpool of stars&nbsp;&nbsp;The Planetary SocietyMassive star clusters “emerge” from natal clouds 1.5 times faster than low-mass ones, study finds&nbsp;&nbsp;Cardiff University",
       "sources": [
         {
           "name": "Space",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQUpKU05Vb3ZpWmpOSDRPVzVObDlhV3BoUkl0X0t2OXFwT3RFTW5teEUxUS15R0s3TzBaOVY3YUxMQzl1SGQwVzJNVHg0QTl1WnZpU2kycEtXWGpicTYyZF96NW1FSnhVSlhNQ0tHUkZwM1Jadl9FYjl4NkQxRTJHQXV5blhycDlpOWdzQXFzR1dhdW9NZlhfUzA1R1pObXNZSnRKYXlNWXNLaDZkRlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7782cc0c112d",
-      "title": "Three enjoyable ways to slow your brain's ageing - BBC",
-      "published": "2026-05-11T09:25:28+00:00",
-      "summary": "Three enjoyable ways to slow your brain's ageing&nbsp;&nbsp;BBCStrategies to maintain brain health&nbsp;&nbsp;WFLA‘I’m a neuroscientist – these are the 3 best workouts for slowing cognitive decline’&nbsp;&nbsp;Women's HealthAlzheimer's Association Launches (re)think your brain to Drive Early Action on Brain Health&nbsp;&nbsp;PR NewswireBuilding Brain Health on May 18&nbsp;&nbsp;Bluffton Icon",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN1hpWFlNby1JZE10LUFobWM1Rk5FNjVabDZyS1hHbU10R1VjNWdSWTNaSTZKTEljbHlnRFo0LW00OFptZE1yUlljSjR1VHBpNzVwTllKeTY5QVMxR1lfRmJrTzQ5VHg5c2h3NzZrcjJEekNjeWVwY3ZuNmxBd25Jc05BRENZdUtJVmwtak5aZ1UzdXc4RzI5WG1YYXNpQm8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "83937d27af6f",
-      "title": "Are You Frail? What to Know and How to Reduce Your Risk - The New York Times",
-      "published": "2026-05-11T09:00:42+00:00",
-      "summary": "Are You Frail? What to Know and How to Reduce Your Risk&nbsp;&nbsp;The New York TimesAnnual frailty screening recommended for the over 65s&nbsp;&nbsp;Medical XpressFrailty: An important emerging concept in veterinary medicine&nbsp;&nbsp;DVM360",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qOEZuLWl0d0o5TDFOTXNmOWRiWTBPSWVDZHUyZjkycU5lNFMtSzRuNXF4UmM5d3JFcmkzbHJsOWxxUTgySS1SRGFUalNMSkFEU0NqT3FldnAyNmxSamRBbkRXUS1uTVJDRHc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRzNMLXpOdGtSckpUM0ZrZVR2WERpb085bm9qT1FQWEUxdlVPRjhZbjlvQm1yOXlTaGhQeWtVNUdJcnUxb2JPZGdmZFlDTHhCdlQ2Q01Ed1JHU1NlcFhZOENwWlkxQWN3MHdnTl9xNEFqYzZpbmUtaWxKUUxONVdyYjBzMmdCM0tDalVDaVZaSndUTzB4bUo3MTJiNXY0OGxzX0wxYWhDUV9NdVdWT3IwaWdGNDF2U0JyakM3eHE2ajZFYThuZ3UtLXVlMEs2WkJPdEFYbmtNbm5kc1lJUkxhSkxpdzE?oc=5"
         }
       ]
     },
@@ -141,7 +141,7 @@
       "id": "3af1dc1714eb",
       "title": "Rare giant squid found in western Australia - NewsNation",
       "published": "2026-05-11T01:52:43+00:00",
-      "summary": "Rare giant squid found in western Australia&nbsp;&nbsp;NewsNationGiant squid found in Western Australian waters in eDNA study&nbsp;&nbsp;Oceanographic MagazineGiant Squid Detected in Deep Underwater Canyon in Western Australia for the First Time in Over 25 Years&nbsp;&nbsp;People.comGiant squid among creatures of the deep hiding off WA’s Ningaloo Coast, research reveals&nbsp;&nbsp;WAtodayGiant Squid Have Been Detected Living In Unexpected Waters For First Time In 25 Years&nbsp;&nbsp;IFLScience",
+      "summary": "Rare giant squid found in western Australia&nbsp;&nbsp;NewsNationGiant squid found in Western Australian waters in eDNA study&nbsp;&nbsp;Oceanographic MagazineGiant Squid Detected off Western Australia in Stunning Deep-Sea Discovery&nbsp;&nbsp;SciTechDailyGiant squid among creatures of the deep hiding off WA’s Ningaloo Coast, research reveals&nbsp;&nbsp;WAtodayGiant Squid Have Been Detected Living In Unexpected Waters For First Time In 25 Years&nbsp;&nbsp;IFLScience",
       "sources": [
         {
           "name": "NewsNation",
@@ -150,10 +150,34 @@
       ]
     },
     {
-      "id": "c61cfa7e918e",
-      "title": "NASA’s Webb telescope unveils stunning new view of Messier 77 - Interesting Engineering",
+      "id": "45f7d964dafe",
+      "title": "That Haunted Feeling May Be Caused by a Sound You Can’t Hear - SciTechDaily",
+      "published": "2026-05-10T23:22:23+00:00",
+      "summary": "That Haunted Feeling May Be Caused by a Sound You Can’t Hear&nbsp;&nbsp;SciTechDailyThe Haunting: Low-Frequency Sounds That Unsettle Us&nbsp;&nbsp;American Council on Science and HealthThe Week contest: Haunted plumber&nbsp;&nbsp;The WeekLow-frequency vibrations may explain why old buildings feel eerie&nbsp;&nbsp;Earth.comThe creepy feeling in old buildings might have a surprising cause&nbsp;&nbsp;ScienceDaily",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMWR5Sk5scW5ubUFKZ2xaMWxFN2ZHTTJPSGNNQlhjRmRkTUJ5Z2dGbnB4VWp3cVA3YUNjUndaWGhvSS1ZV09JOXFjS0d5X2pSQU1EZWFYbGd2dHlEaTJtTnFfWVZaVmVFQXMzbHVQRHhQUVBZYjNYUldKQTVfTHZKVkVxYmJQc0h1MVNDTDVn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e3edc74cdcc6",
+      "title": "Science makes an enlightening discovery that could rewrite what we know of physics - Neowin",
+      "published": "2026-05-10T20:58:00+00:00",
+      "summary": "Science makes an enlightening discovery that could rewrite what we know of physics&nbsp;&nbsp;Neowin",
+      "sources": [
+        {
+          "name": "Neowin",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMVk2MmZ1dnJVNkJjTWwzVEp5Y2lMWUtWV3gtSFhiYmJiSUR3dVMtRmtDMml6OUVGSVV2RVdMdmVkczU1MlVYdXo1WGpIVldOUEFLQ09CMEEzVG9IeHZuUnQxY1I4RkFqNDNncVFMU3hzTWE5U1NXZlRUWTMxVUJldkZiakhzUnJ5U0l2TlBmRWRZYkFlSFVFUTRTeDQxY3B4aFA4REtHcmp6TDhsS2NXdNIBrwFBVV95cUxNRzFSZEtKdlNtLUt6TFdyQ19UZEY3TW1mbjdmbkM3elkzT28xMzN3Mll3X0F6NERibm92UlBuNjNIZG9PWGVjQVEwcWsxX09OcG00enNOYzFEZTFmTWlJYmZPZWJlaldJUmxFZ001NGF1aFJHQUk0RVhiVl96ZzJpdjJFSW5hdm0taVZ4UXZvVGZUMktNd01xQ2ZILWtfV1BJb0VaVUx4cGRuNnE4NWhr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7ff3ebca6bc9",
+      "title": "NASA’s James Webb telescope reveals the bright heart of spiral galaxy Messier 77 - Interesting Engineering",
       "published": "2026-05-10T20:30:00+00:00",
-      "summary": "NASA’s Webb telescope unveils stunning new view of Messier 77&nbsp;&nbsp;Interesting EngineeringSpiral galaxy's brilliant heart shines bright in a new picture from NASA's Webb telescope&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosA beacon of light in swirls of dust&nbsp;&nbsp;European Space Agency45 Million Light-Years Away, Scientists Finally Captured the Violent Heart of a Galaxy Being Consumed by Its Own Black Hole&nbsp;&nbsp;The Daily GalaxyJWST Reveals Heart of Galaxy M77 Is ",
+      "summary": "NASA’s James Webb telescope reveals the bright heart of spiral galaxy Messier 77&nbsp;&nbsp;Interesting EngineeringSpiral galaxy's brilliant heart shines bright in a new picture from NASA's Webb telescope&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosA beacon of light in swirls of dust&nbsp;&nbsp;European Space AgencyJWST Reveals Heart of Galaxy M77 Is Being Consumed by Its Own Supermassive Black Hole&nbsp;&nbsp;HotHardwareWebb Peers into Brilliant Heart of Messier 77&nbsp;&nbsp;Sci",
       "sources": [
         {
           "name": "Interesting Engineering",
@@ -174,26 +198,14 @@
       ]
     },
     {
-      "id": "4a2c82a1296b",
-      "title": "Birders push back on hantavirus fears tied to Argentine city - NBC News",
-      "published": "2026-05-10T19:19:06+00:00",
-      "summary": "Birders push back on hantavirus fears tied to Argentine city&nbsp;&nbsp;NBC NewsTourist hotspot at 'end of the world' denies causing hantavirus outbreak&nbsp;&nbsp;BBCArgentine authorities say hantavirus patients not likely infected in Tierra del Fuego province&nbsp;&nbsp;ReutersPopular tourist hotspot angrily denies it caused hantavirus outbreak&nbsp;&nbsp;The Independent‘Almost zero’ chance Dutch man got hantavirus in Argentine city: official&nbsp;&nbsp;CP24",
+      "id": "72f01dbbd9f9",
+      "title": "It's been conformed – the kraken monster really did exist, 100 million years ago... | Discover Wildlife - BBC Wildlife Magazine",
+      "published": "2026-05-10T18:57:33+00:00",
+      "summary": "It's been conformed – the kraken monster really did exist, 100 million years ago... | Discover Wildlife&nbsp;&nbsp;BBC Wildlife MagazineA surprising discovery about prehistoric oceans: giant octopuses may have dominated the Cretaceous seas&nbsp;&nbsp;Noticias Ambientales",
       "sources": [
         {
-          "name": "NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT05qMVdCSHZGYzJfbHFEVmVnSDl3UlgzYm0yLUZDVW4wS3o4WmJVMkljaHFSb3M5VjRiQ2kwa0lVbkRES1FsbTRIUTNwZDNRaG5nZnl6d0NndXBRMFlFNFBLQ0tOc1hxSER6Rzg0YTFfWmpvbHZ5aElaU3E2Y2V2aS11ekh4akZOQkFFa0dKWVNZa2VLOHNVTllPWVR2TGJSU1ZRY3BBTTRNSXNEaTlLQUIwVWFybFpESkVF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9fd6c6ab1a39",
-      "title": "Transcript: Scott Gottlieb on \"Face the Nation with Margaret Brennan,\" May 10, 2026 - CBS News",
-      "published": "2026-05-10T16:44:00+00:00",
-      "summary": "Transcript: Scott Gottlieb on \"Face the Nation with Margaret Brennan,\" May 10, 2026&nbsp;&nbsp;CBS NewsWhy hantavirus is not like COVID, according to infectious disease experts&nbsp;&nbsp;CBS NewsCT virologist weighs in on deadly cruise ship hantavirus. ‘We need total rethinking’&nbsp;&nbsp;Hartford CourantDiscussing the hantavirus outbreak and public health preparedness: Gottlieb on CBS' 'Face the Nation'&nbsp;&nbsp;American Enterprise Institute - AEIFormer FDA commissioner on Hantavirus and Dr",
-      "sources": [
-        {
-          "name": "CBS News",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14ZXFmZi1aN3BaV2I1S3FLM0hpZC1JZTFHQkVSeURZUVV1SFl3ZnVETmZIbHlab3VodlllQW9EeGJFeFU5elVLeEg0SEExRmpYN002NmhDbkR4bnIzMmRUS2phejlkc0E1V2J3RTIxVjZiY3cwWl9aM2xCRdIBgAFBVV95cUxNY1BoY3U1U0p2OWVfQnZaU1h5bWZJU0U0SGFyWk5DaGswTDFSNnp3Z2RieEdGa0NqM1lDbGNrNGZBa09jd0xTRWZZVjlfLWUyLURZbTBMdFpYR0JsVTJHUW9WWG5ZN1V2X3hENmVVMDJ3WVlpQ0pMZ2NmeUNvTUZnNg?oc=5"
+          "name": "BBC Wildlife Magazine",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SLVFTdnVLWVhsTFk4UUJtQlZyM3pCSlQ0NWVCVHVyaVNJN25GNEpkQ3hEd1pzVExGQTV5NElHMnRwMFBxdUI3emhwSm40XzN3YU41bUNUSWc4b0tKWk96U1hqUFlIWF9FZ1ZMMWNsMkRUMDFoVVhZRGI4bFI?oc=5"
         }
       ]
     },
@@ -210,14 +222,14 @@
       ]
     },
     {
-      "id": "103e242bc826",
-      "title": "Eating at least five eggs a week is associated with a 27 percent lower risk of Alzheimer’s - PsyPost",
-      "published": "2026-05-10T10:10:22+00:00",
-      "summary": "Eating at least five eggs a week is associated with a 27 percent lower risk of Alzheimer’s&nbsp;&nbsp;PsyPostStudy: Egg consumption is associated with a lower risk of Alzheimer’s Disease&nbsp;&nbsp;Loma Linda UniversityIs it true that eating more eggs could help lower Alzheimer's risk?&nbsp;&nbsp;Medical News TodayAlzheimer’s risk slashed by eating more of one common food, study suggests&nbsp;&nbsp;Fox NewsFrom Lab to Life: Eggs Got a Bad Rap&nbsp;&nbsp;The Times of Israel",
+      "id": "8ef297b4ddde",
+      "title": "NASA pushes Mars helicopter rotors past the speed of sound for the first time ever — next-gen “SkyFall” aircraft's rotors hit 3,750 RPM, ten times faster than normal helicopters - Yahoo Tech",
+      "published": "2026-05-10T10:25:00+00:00",
+      "summary": "NASA pushes Mars helicopter rotors past the speed of sound for the first time ever — next-gen “SkyFall” aircraft's rotors hit 3,750 RPM, ten times faster than normal helicopters&nbsp;&nbsp;Yahoo TechNASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1&nbsp;&nbsp;NASA (.gov)Engineers at NASA’s Jet Propulsion Lab make a breakthrough in rotor technology&nbsp;&nbsp;Ars TechnicaNASA's next Mars helicopters tested beyond the speed of sound&nbsp;&nbsp;TechSpotMars Helicopter Engineers Push Rot",
       "sources": [
         {
-          "name": "PsyPost",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRk5VdWQ1Q1FZUXZ3U1JxRGF4Wnl4V0JUdGt5Tm9uS0hsWkpSbnVidWpkYmw2Q3dPcWQ3VlZRWHJHcWd6MndqLTBGWWpDcm5oMlJscmZINnNBNVRZODhwZkJCZUJRZlRLMXRCS2djZERSbEJfTlB5LUF6U2xuZ3FBeFFaT25QOUVVZkJvdU5QUDctVVkxOTZ4WXRUTGdKSDVlbzdqTUN5dzQ4YUNhZnpreEdmdHc?oc=5"
+          "name": "Yahoo Tech",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbFJMcmNGM0dqU0taRHFjOVgtMHFSUmJULWd4dWxncDl4T2RRVWJkSGkteUhUWFc1XzVWZmsyZ3NsUXdrdWVHU3hVcE5jQjZMR0VqZjJCVGtQRU1iWGcxQUZaY2xGazFpN0tNWkpKb25HOUx2Y0tJM0U3QzU3XzVSRk1Vc3JPeFk1bGlTcVRvcGYyWnc?oc=5"
         }
       ]
     },
@@ -230,30 +242,6 @@
         {
           "name": "Hackaday",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ242aTd2N3hESnJ2VXVyNHVzazlwMmYxTW1wUTFQVG9wZzRpZ205TUh0ZGFmOEVKXzNwWGhJSFktZTZqeXZvMUt3Skt1WE9kNV9jVkotNWtWNGliM09JMHVnbW8zMC1HdmExRmRYcmoyNHNyUnZpX05idFlHcklzdWt6UW5EMW5TU204ZF93TzRjbDU4b3Q1bnZR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8cb4a3ec3910",
-      "title": "Scientists discover the brain’s hidden “stop scratching” switch - ScienceDaily",
-      "published": "2026-05-10T07:17:55+00:00",
-      "summary": "Scientists discover the brain’s hidden “stop scratching” switch&nbsp;&nbsp;ScienceDaily",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaVnJPZXhjb0c2UnotWUJZVFZrMkE4aHBxdk8xOEVkeE53TmF4QU5hcFZWeXA4eWI2WncyUEZ5NV9UdjhhTTlYOXY3NWdTYXZCN1BZUHNmVzRnN0VSd1VlT2RjYVFleUltT1Q0alYtRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2b25855c7c12",
-      "title": "Mammals May Have a Hidden Limb Regeneration Ability We Never Knew About - ScienceAlert",
-      "published": "2026-05-09T21:02:12+00:00",
-      "summary": "Mammals May Have a Hidden Limb Regeneration Ability We Never Knew About&nbsp;&nbsp;ScienceAlertWhy Can’t Humans Regrow Limbs? An Evolutionary Biologist Explains&nbsp;&nbsp;ForbesHumans May Have Hidden Regenerative Powers, New Study Suggests&nbsp;&nbsp;SciTechDailyScientists found the “holy grail” gene that could one day help humans regrow limbs&nbsp;&nbsp;ScienceDailyMammalian regeneration could occur by use of sequential growth factor signalling&nbsp;&nbsp;Labmate Online",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRnVKVGFyYjdLWWZ1V1NZcDg0YVdkdGpMRkVCQVphd05kcDVLMUs2QkpCei1CV2d6RjhtNDUxWjZ1UVprS21lRWRhVzVpcW5vcW5pOWt3aW1vSW5wb2t1U1NVRFpua3FFY1RoaWtWTjd5R09ibGV6cHdxVVdIRHk0QUhsUzNvdEtybjRoR2hXZUdBX1RDQ3ZnTHRHSFVaNDlGMnc?oc=5"
         }
       ]
     }

@@ -1,31 +1,91 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-12T14:31:37.269649+00:00",
-  "total_fetched": 70,
-  "unique_count": 70,
-  "health_related_count": 20,
+  "fetched_at": "2026-05-12T19:57:19.412230+00:00",
+  "total_fetched": 84,
+  "unique_count": 84,
+  "health_related_count": 31,
   "news": [
     {
-      "id": "a73dfe182c82",
-      "title": "‘Unprecedented’ global effort gives new name to polycystic ovary syndrome – and new hope to millions of women - The Guardian",
-      "published": "2026-05-12T12:45:00+00:00",
-      "summary": "‘Unprecedented’ global effort gives new name to polycystic ovary syndrome – and new hope to millions of women&nbsp;&nbsp;The GuardianGlobal Experts Establish New Name for PCOS to Reflect Multisystem Disease&nbsp;&nbsp;CU Anschutz newsroom'The name was inaccurate': PCOS gets a new name after years-long effort&nbsp;&nbsp;Live SciencePCOS’s new name is PMOS, a small letter change that required a big scientific process&nbsp;&nbsp;statnews.comNo link between PCOS and higher rate of abnormal cysts: st",
+      "id": "9b3b8a7ace97",
+      "title": "KDHE confirms Hantavirus exposures in Kansas - KWCH",
+      "published": "2026-05-12T18:22:00+00:00",
+      "summary": "KDHE confirms Hantavirus exposures in Kansas&nbsp;&nbsp;KWCHHow passengers from hantavirus-hit cruise ship are quarantining in U.S.&nbsp;&nbsp;The Washington PostHow Does It Spread?&nbsp;&nbsp;The AtlanticVisualizing the hantavirus cruise outbreak in maps and charts&nbsp;&nbsp;CNNInside the Hantavirus Quarantine Unit in Nebraska Where 15 Americans Wait&nbsp;&nbsp;The New York Times",
       "sources": [
         {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMFV3VlkxWUtjRVFsakRGX2pHWVBhY3ZfNVVtYWVNVllUVU5vdWZtLUpjZGtmWkdRbFdZS2prNTFoSjJETHFiMUNSS0RrdFVmdzRRUFJZV2s1MGZrR1Z4Nkw4U1hQUC1DZmNaNVBvWnpZamxWUVFBb2pGR3JpNllGRWhOX05fSFplTkZpSXFIS0FzOW5sdjdJc1diNlZaRl92STU3TWZ1RmpJUnptWldOZEJvdjc3Q1dJQ3N0Qnpra05qSURhX0lzQlRXZTRyM3BrY0ExMjFzblI5MnZjMGl4UGVR?oc=5"
+          "name": "KWCH",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJZzNQZkdudmFsLWEtZ2dRT01iaDJQamNFSVhPX2tCUTE0MkJ3VDFQU3dOdndCRU5uZ1RER2xRSW41c0d6c2FVeW9pMVpsZHJCdWxFcjQwRDhILVJuTThlcVUwYXVOaGV4NXhUWW1iLTV2NC1LNUtNQ1N2bGtqVUE?oc=5"
         }
       ]
     },
     {
-      "id": "bbdeca9173f2",
-      "title": "2 Maryland residents monitored for potential hantavirus exposure, health officials say - CBS News",
-      "published": "2026-05-12T12:34:40+00:00",
-      "summary": "2 Maryland residents monitored for potential hantavirus exposure, health officials say&nbsp;&nbsp;CBS NewsAmerican Hantavirus Cruise Passengers Flown to Quarantine Center After Positive Test&nbsp;&nbsp;WSJSpain reports new hantavirus case in passenger evacuated from cruise ship&nbsp;&nbsp;Al JazeeraThey were on the trip of a lifetime. Now they’re quarantined as health officials work to contain a hantavirus outbreak&nbsp;&nbsp;CNNHantavirus: Current Situation&nbsp;&nbsp;Centers for Disease Contro",
+      "id": "351841e5a7d1",
+      "title": "All Your Hantavirus Questions, Answered by an Infectious Disease Expert - WIRED",
+      "published": "2026-05-12T15:33:00+00:00",
+      "summary": "All Your Hantavirus Questions, Answered by an Infectious Disease Expert&nbsp;&nbsp;WIREDHantavirus latest: UK announces plan for isolating Britons from cruise ship to return home&nbsp;&nbsp;Sky NewsHow concerned New Yorkers should be about hantavirus, according to N.Y.'s health commissioner&nbsp;&nbsp;CBS NewsWhy the hantavirus outbreak is different from COVID-19&nbsp;&nbsp;Al JazeeraHantavirus Conspiracy Theories Are Already Spreading Online&nbsp;&nbsp;WIRED",
       "sources": [
         {
-          "name": "CBS News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUDhDdEFxRHpMVmo3UmpFeHVwd0JnbXNtWVBpdXVRSEEybjd0WmkySmhyRFpVMms3b2dya25nZDlWNHY3QXdRdWtHM3dUSUd4N1ZqNlB0MTM2Rm12MThtZHh6U202QUFVbHUyMy1iTnN5NEY1NVBFMVFMZkVEMUkydHFtRWd1NV8wbVZBSEc0VmRnNzlEdFNvOVlDTTRkOHc?oc=5"
+          "name": "WIRED",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM0xIcy14SHRVaEk0QzQtaW1RUU8xWUJ6cW5FV1VjdmZzWG5Wa21FMGVjVEQ0S0o3NW5POWNvZnZFc19DMlljTUFBVEhhSHhlVlFTd2tXZUgycWNwODFNQnRsMjRTVjAyVHFJeng0d3pRbktCSlZJbThud1lMa2xkaE9vbUhXOUN6QjJqSGxxNTNOY0lVc0FYcWoyWE5kbWFP?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0fdba1456d8f",
+      "title": "'Speculation' and 'egregious failure': 30 researchers publish scathing critiques of study that questioned date of early human occupation of Monte Verde in Chile - Live Science",
+      "published": "2026-05-12T15:17:27+00:00",
+      "summary": "'Speculation' and 'egregious failure': 30 researchers publish scathing critiques of study that questioned date of early human occupation of Monte Verde in Chile&nbsp;&nbsp;Live Science",
+      "sources": [
+        {
+          "name": "Live Science",
+          "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPNzQ5QzFsUE82cHY1S0lWSVE4Y3NfQWE1eEtVZ1gxWV8yb2g0YUVhZFNXdWlHcVhqMUtGV3VPbEdiY0xyb3VKeW1XLVI3RUM1cXJEVTI4eGVLUTlhZnRIVmsybFpjdlFMY2ZzaGEzUHBaWWFGMlF5ZlVINWI2eDVKNHZHSmxEWkFLZ2dZWWNxUE5Wa2RhdUFyZ2lsZ0dXQ1VTTktHSGU2aWQ1blRncV9OS2tyc3FmcHRCc29taC1RbGVKcGdmMWlwY2tHalpFZXF0S2x5QlJMOWtOZkEwSzlQdHpFWHlCRzQwOUhQcElaX0lVRXVBZUpJZUR4QXBnS3RUeV9NZFhiNlhhZEJJdzdHWW5IMGQ3UW1yQ19lanNTNmVxSkNreGZFODNBNE8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "39a5f61534ab",
+      "title": "Polyendocrine Metabolic Ovarian Syndrome: New name to improve diagnosis and care of condition affecting 170 million women worldwide - Endocrine Society",
+      "published": "2026-05-12T13:59:45+00:00",
+      "summary": "Polyendocrine Metabolic Ovarian Syndrome: New name to improve diagnosis and care of condition affecting 170 million women worldwide&nbsp;&nbsp;Endocrine SocietyA condition renamed, nurses under attack, health gaps that won't close and the 'Ozempic Personality': Today's health headlines&nbsp;&nbsp;10tv.com'The name was inaccurate': PCOS gets a new name after years-long effort&nbsp;&nbsp;Live SciencePCOS renamed PMOS for more accurate diagnosis&nbsp;&nbsp;upi.comPCOS’s new name is PMOS, a small le",
+      "sources": [
+        {
+          "name": "Endocrine Society",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQnBhNFBBOVdyQTV1dUFZMTlsV1VDX0U0ZzIzMWpwSFpNNXRzR1U5N0h5UDdISzVRS1FHS1FqNkpMUExkQWx3UW4ybGQ5TktpTUVJUHlWd3NsQ29LSkdzYktHZzJjdDE5bzZ2ZHMzWWo2UERFMlhMQ2w0N1NUZENpMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d4672c979c33",
+      "title": "Birds Never Evolved ‘Perfect’ Wings, Study Finds - Gizmodo",
+      "published": "2026-05-12T10:00:54+00:00",
+      "summary": "Birds Never Evolved ‘Perfect’ Wings, Study Finds&nbsp;&nbsp;GizmodoMost Birds Lack Ideal Wing Shapes for Flight: Study&nbsp;&nbsp;Mirage NewsMost Bird Wings Aren’t Optimized for Flight&nbsp;&nbsp;Nautilus | ScienceMost birds fly with wings that evolution never fully optimized&nbsp;&nbsp;Earth.com",
+      "sources": [
+        {
+          "name": "Gizmodo",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPXy04WFpaY1NWV2lkMWkwUmY1bjlRQUV1N2xuMTFsdlhWYjhkWFQ0eHhpY0IzMlRVemsyOXYwYUk3UXJjWjZxdndKRUEtVmFlelIzMW1NRFBXTkxMVzNhWEgwa1dTdUxzM2puaVo4eTNGWVhTU2V5RVpvS1hjSTFvcVl3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ca052fc8a199",
+      "title": "Why are some people mosquito magnets? Clues are emerging - Phys.org",
+      "published": "2026-05-12T09:09:51+00:00",
+      "summary": "Why are some people mosquito magnets? Clues are emerging&nbsp;&nbsp;Phys.orgThis Is What Makes You Irresistible to Mosquitoes&nbsp;&nbsp;SciTechDailyScientists learn how mosquitoes are able to track and bite humans&nbsp;&nbsp;Earth.comWhy are some people mosquito magnets?&nbsp;&nbsp;The HinduWhat It’s Like to Be the Human in Mosquito Research&nbsp;&nbsp;Georgia Tech News Center",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VYWQtU25iRkx1RkNFNmYyU05UaTJUS0N6QS1aXzhONWlKNVZBZWF5U0YyRlRWM3c2MnBDc0E3TlZhdGR4NVVJOHNobFgwZjBnTmZobXB5U2hMR0ltMnl3NWdVMjJBdXFiVXZROUYycnZNTTZ5TEtJQ1o2dkVJdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "71b173f1c58d",
+      "title": "What to Know About the New Obsession With Testosterone - The New York Times",
+      "published": "2026-05-12T09:02:29+00:00",
+      "summary": "What to Know About the New Obsession With Testosterone&nbsp;&nbsp;The New York TimesTestosterone Replacement Therapy for Weight Loss: Does It Work for Men?&nbsp;&nbsp;Everyday Health",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZkhnWUNoMF8xSTBnRUo1NEJYWW16ZVhGN0VZZWMydm5ZV0JtNk9RVWtEclA3cDk2T0gyUU05Z1pCaUEyd3RFRFhoNWtYNURqS01fTWNjNi1nVlRIMVFwMmozMHJrV2Jxd1huNkZIMmRiQTE5eGRsSDRVWkdXMkpyNXZvbEJEQkt6WDZ5UXRObw?oc=5"
         }
       ]
     },
@@ -42,6 +102,42 @@
       ]
     },
     {
+      "id": "c63bfc11b8a9",
+      "title": "Ancient bacterial toolkit links human gut health to ocean carbon cycling - Phys.org",
+      "published": "2026-05-12T08:20:01+00:00",
+      "summary": "Ancient bacterial toolkit links human gut health to ocean carbon cycling&nbsp;&nbsp;Phys.org",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fUFJYek5BTmMxV2ZNN1FtYzNXV3BERHhHam0wbVVZNlViemc3TndpaHFFd3E1SkRKaDVTMkxIRjhJdUZITVFwYnJQQUZ4SHR0bGR0T1BJS1VlSm1IU1RFVHpMM0ZvdXJ3b1ZMcm9YaGVXbWhoNTh1VHdHWno?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cddd6d800dfa",
+      "title": "The ‘Guardian’ Removed a Story About Hantavirus and Anxiety - The Cut",
+      "published": "2026-05-12T01:11:22+00:00",
+      "summary": "The ‘Guardian’ Removed a Story About Hantavirus and Anxiety&nbsp;&nbsp;The CutHantavirus Cruise Passenger in ‘Very Critical’ Condition, Was Initially Told Her Symptoms Were Just Anxiety&nbsp;&nbsp;People.comFrench hantavirus patient is critically ill, on an artificial lung as total cases grow to 11&nbsp;&nbsp;The Seattle TimesHantavirus patient in critical condition after doctors dismissed symptoms as ‘anxiety’&nbsp;&nbsp;New York PostFrench minister says it's uncertain if hantavirus strain from",
+      "sources": [
+        {
+          "name": "The Cut",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTjdGNEZQa25ZYnNxbXRuVWJGQ3RfRUh0Z09Gb2tEOWZ2RVRWVTQ3SVo0U2tabWFkRHpBRm9DdFRLMThaUUkxZWZaRjNiX0ltSTl5b1dHa0xtRnNxMzU0Rk9wSlpHV1lVdllYY3paa05RZS1FcjBTenY1QWtsOGtmZ3F2VWg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "93ce2d10a5fb",
+      "title": "Common Sweetener May Harm Critical Brain Barrier, Risking Stroke - ScienceAlert",
+      "published": "2026-05-11T23:50:20+00:00",
+      "summary": "Common Sweetener May Harm Critical Brain Barrier, Risking Stroke&nbsp;&nbsp;ScienceAlertIs your “sugar-free” soda causing your brain to age? A study of 12,772 people links artificial sweeteners to cognitive decline that is up to 62% faster&nbsp;&nbsp;OkDiarioLiquid sugar enters Alzheimer's radar: Framingham study with over 4 thousand participants links sodas, industrialized teas, and sugary drinks to smaller brain volume, worse memory, and silent signs of brain aging.&nbsp;&nbsp;CPG Click Petról",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQWdFX1NocW5zcnlkc2M3M3RLdkRNTG9HVVBmY0tRRkI1bi02U1V5SmpCLUJkakxvQU9LdWNGSEQxV1dPeFp1UUFteVltakluR1huNlRLN01wWE40RXhTNEJXQUFpcHFvazRqZWM5RXRRbXRBakVBZU5BY2ZDZVhFZ3VHMlM5dTR1dV9aYzgzUTdhaUlpZXJr?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a6c1593c70b7",
       "title": "Unexplored interactions between electrons and atomic nuclei shed light on dark matter - Phys.org",
       "published": "2026-05-11T23:40:01+00:00",
@@ -50,6 +146,18 @@
         {
           "name": "Phys.org",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMjByOXZYZXRJN0kzbmZLQzlLZE43Q1Y1Ukd1bjBPRWpwVFBhRHpJY3c3b0VqZThUckszaDlpeml0RnJGMzZxclZmNWZJeGcydEQtSVBsOFdnLWhSMk9TR3B2c0N0Sm5aM0VGb3IzWllqTURIa2w3djhUaE14RmU4TWp1ZHZPZmQta2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0864d219113b",
+      "title": "Shark face study uncovers 400-million-year-old blueprint shared across jawed vertebrates - Phys.org",
+      "published": "2026-05-11T21:20:06+00:00",
+      "summary": "Shark face study uncovers 400-million-year-old blueprint shared across jawed vertebrates&nbsp;&nbsp;Phys.org",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JdDVQREVzX3B1Q1UwZ0lMWFB1MnJDZldfOV9DampyVEhLdUpBeFpCT3Fja0hGczFWY1c4amFUY1RSeTRtRHhVc1B5cXExMXRYYlJGdDRadW8zdlB3V3VzWkVnTmxMXzAyMVd2WDVlZHkySmI1eUNsMkxETGQ?oc=5"
         }
       ]
     },
@@ -78,26 +186,26 @@
       ]
     },
     {
-      "id": "21d4fc3c942e",
-      "title": "The World's First Nuclear Explosion Forged an 'Impossible' Crystal - ScienceAlert",
-      "published": "2026-05-11T19:02:26+00:00",
-      "summary": "The World's First Nuclear Explosion Forged an 'Impossible' Crystal&nbsp;&nbsp;ScienceAlertCrystal Unknown To Science Formed In Trinity Nuclear Test Is “Far Beyond The Limits Of Conventional Synthesis\"&nbsp;&nbsp;IFLSciencePhysicists Discover Previously Unknown Crystal Forged During Manhattan Project's Trinity Test&nbsp;&nbsp;GizmodoWorld’s first nuclear bomb explosion by US Army resulted in rare crystal formation&nbsp;&nbsp;Interesting EngineeringFlorence scientists lead discovery of new materia",
+      "id": "548eee9320be",
+      "title": "Norovirus-hit cruise docks at Port Canaveral after 115 fall ill on nightmare voyage - WPEC",
+      "published": "2026-05-11T19:10:52+00:00",
+      "summary": "Norovirus-hit cruise docks at Port Canaveral after 115 fall ill on nightmare voyage&nbsp;&nbsp;WPECNorovirus Outbreak Sickens 115 on Cruise Ship&nbsp;&nbsp;The New York TimesMore than 100 sick in norovirus outbreak on Caribbean Princess cruise ship&nbsp;&nbsp;Global NewsHantavirus and norovirus outbreaks on cruises raise alarms for passengers. How to avoid illness&nbsp;&nbsp;ABC7 Los Angeles115 sick in norovirus outbreak on Florida-bound cruise ship, CDC says&nbsp;&nbsp;WFLA",
       "sources": [
         {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ1VDR1JNQmtkS2lsN1RVc3Nqb2x5Q05EWjZGTm1LcFUzTE0weHJyc0plNElWV0FzNjRYMnMxOFBlSFdYazJ3LUNlY0lTSDNydHZWcmhJbzRWWFNrQ1FFY3FvWk96aXBEdXJNWGFZT2F1dDBEeFhKUmllUEZEQmtDOGlDVzl1RVpLSzBEWmxvcTFNT3M2eG5B?oc=5"
+          "name": "WPEC",
+          "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQQ0t6TUtIRVFrUnNDTTB6VWtncG5ydy1oX3Mtb0hwQ1dUTEJfOUFycmwyaU5zaVpEaFZ3QXNWQlVUMV84SHNfT2lUdWVkNUpuY2pLMWZMQTlWUmdlSXJtTWZpZFpWOUJManNtTmQyRHB0aVJadTd6Q2Q5YzlDcW1UcnoyWmJVekpfaDRLYVhpdjBiM2RrYWJ2S0ZBN3RNeXlscGpNRHcwaFJZcnZYUzBmdllwUFVXYXA5UHNaaXBXb3JxVVlhWXd4YUdTLUdza3ZfR2p4Mko1NlZTaTJJbkFxNW5sR0FyOGRWYUV1aFlraG05UWM1WW5pT3ZPY1NacjZuMDNwa0lPaHJESHh4UDFJUzg5a1loYnEtMkxzeWlRU2o2OUpEcUNQbk9RWmo5YUNFb3JHN0VlODBzdWlNbkVDOEd0eWc4ek1XWm5zbVBZbnVBQXVxRk01ZWE1aFRjSXVzZjZTT2oxZ1BQd2NFUDFESDRrMjdDWDN5ZFJSSTVQbE1RWC16UG5mWWVEZk1aYy1pbG84?oc=5"
         }
       ]
     },
     {
-      "id": "ef7872148228",
-      "title": "A New Hantavirus Vaccine Is in the Works - WIRED",
-      "published": "2026-05-11T17:16:00+00:00",
-      "summary": "A New Hantavirus Vaccine Is in the Works&nbsp;&nbsp;WIREDHantavirus Vaccines and Treatments Are in the Pipeline&nbsp;&nbsp;The New York TimesHantavirus cases spark brief surge in pharma and biotech stocks — here’s why trading is so volatile&nbsp;&nbsp;CNBCModerna stock extends gains on hantavirus research&nbsp;&nbsp;Yahoo FinanceThe Next Frontier for Hantavirus: Finding Vaccines and Treatments&nbsp;&nbsp;WSJ",
+      "id": "3e7f2f04ce67",
+      "title": "Giant Squid Detected off Western Australia in Stunning Deep-Sea Discovery - SciTechDaily",
+      "published": "2026-05-11T18:03:55+00:00",
+      "summary": "Giant Squid Detected off Western Australia in Stunning Deep-Sea Discovery&nbsp;&nbsp;SciTechDailyRare giant squid found in western Australia&nbsp;&nbsp;NewsNationGiant squid found in Western Australian waters in eDNA study&nbsp;&nbsp;Oceanographic MagazineGiant squid detected in underwater canyons in rare discovery&nbsp;&nbsp;USA TodayGiant Squid Have Been Detected Living In Unexpected Waters For First Time In 25 Years&nbsp;&nbsp;IFLScience",
       "sources": [
         {
-          "name": "WIRED",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mYU4xRzBoSmt2WjZ4dEZXMnYyS2FENS01Sm1aVURIWTg0YUlESmc0c3gzUXdzVkluWHRRekJ4MnNKcWRFcWRDbVVNSE9TQngzWVVtUDVLTWxKLUVrLVk2Ml9sOHluM1JqWERFUmxKejBEdGFPSWJDdg?oc=5"
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkNyNFN2ZEJfc1phWXpEdkFzRGk4WmQwWXI4UGtDQjI3ME5xdnZPTktFYThLeFRPT0NZVkEyUWY1Mm1yWU1ESlVNZG9zT0tKM3ZUcEh1Nk1fNU56bVl5aTdtNy1DdXlwMjZJdHNVeFZkc2cyVjBNcmdNTHNzZTRJUEJZc0pwRG5HeWdkVTBHZTZkejRTTXo4M193WkJxaTFr?oc=5"
         }
       ]
     },
@@ -105,7 +213,7 @@
       "id": "bb5e381c47c4",
       "title": "A Gigantic Atmospheric Anomaly Keeps Showing Up on Venus. Astronomers Finally Know Why - Gizmodo",
       "published": "2026-05-11T16:30:41+00:00",
-      "summary": "A Gigantic Atmospheric Anomaly Keeps Showing Up on Venus. Astronomers Finally Know Why&nbsp;&nbsp;GizmodoResearchers explain mysterious cause of 6,000-kilometer cloud wall on Venus&nbsp;&nbsp;The Brighter Side of NewsVenus Has Acid Rain, But There’s a Bizarre Reason It Never Hits the Ground&nbsp;&nbsp;Indian Defence ReviewVenus’ atmosphere jumps and waves | The University of Tokyo&nbsp;&nbsp;u-tokyo.ac.jpMassive 6,000-Kilometer Wave on Venus Finally Explained by Newly Discovered Phenomenon&nbsp;",
+      "summary": "A Gigantic Atmospheric Anomaly Keeps Showing Up on Venus. Astronomers Finally Know Why&nbsp;&nbsp;GizmodoResearchers explain mysterious cause of 6,000-kilometer cloud wall on Venus&nbsp;&nbsp;The Brighter Side of NewsVenus Has Acid Rain, But There’s a Bizarre Reason It Never Hits the Ground&nbsp;&nbsp;Indian Defence ReviewMassive 6,000-Kilometer Wave on Venus Finally Explained by Newly Discovered Phenomenon&nbsp;&nbsp;The Daily GalaxyVenus’ atmosphere jumps and waves | The University of Tokyo&nb",
       "sources": [
         {
           "name": "Gizmodo",
@@ -150,10 +258,34 @@
       ]
     },
     {
+      "id": "5419128934ce",
+      "title": "CIDRAP Op-Ed: Why the FDA tried to bury studies showing vaccines are safe - CIDRAP",
+      "published": "2026-05-11T13:48:56+00:00",
+      "summary": "CIDRAP Op-Ed: Why the FDA tried to bury studies showing vaccines are safe&nbsp;&nbsp;CIDRAPUS government studies into vaccine safety are being suppressed | Robert B Shpiner&nbsp;&nbsp;The GuardianF.D.A. Blocked Publication of Research Finding Covid and Shingles Vaccines Were Safe&nbsp;&nbsp;The New York TimesTrump administration pulls studies affirming Covid-19 vaccine safety&nbsp;&nbsp;Euronews.comWeekend reads: FDA blocked vaccine findings; ‘Frankencitations Ravage the Academic Countryside’; ‘",
+      "sources": [
+        {
+          "name": "CIDRAP",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZk5JbFJrRjQ3Q0h1NzdnaVhuZDl3eEJIcEJ2RHRtZkNsOGZFR3hGOFpMN2JucHl2czhOcDktNUdQazJTeTlEY1d3V2JFUWIweUVDcVpVVzY5TkxQaEdkcnFlc1lqLXNNd3pUVndjbDlQSFVOdERiaFpkQWVmTjVGZXpxT0ptejN3SWhValRLaTZxYmNza09JQWNNWTBHWGZnaENz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "135ca47217f6",
+      "title": "The Next Frontier for Hantavirus: Finding Vaccines and Treatments - WSJ",
+      "published": "2026-05-11T13:26:00+00:00",
+      "summary": "The Next Frontier for Hantavirus: Finding Vaccines and Treatments&nbsp;&nbsp;WSJHantavirus cases spark brief surge in pharma and biotech stocks — here’s why trading is so volatile&nbsp;&nbsp;CNBCModerna flags work on hantavirus vaccines before cruise outbreak&nbsp;&nbsp;The Boston GlobeA New Hantavirus Vaccine Is in the Works&nbsp;&nbsp;WIREDHere's what to know about hantavirus vaccines after the cruise ship outbreak&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+      "sources": [
+        {
+          "name": "WSJ",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUWx2a0tGWWlQUDVsVmxPM1RlRHE1a3dKZGJLWERneGxkNmJoMEdzNWFyMlRnNWt2bjd1YTVnNnhVeHNvVzRVYzQxd084cnZUY21kNjhVSkQ1OXNxVXBjT081LWRqN2EwYjFUMG1sOEVrRWJPblNZN2t4cG12bEhLclh2TW9mdFBnRDBkNmdDQU81clFGWDRhSGJ1NXhWVGxWeHhDbC01NnVWLXVtTENaNQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ce8adaa0f83d",
       "title": "A Fish That Hitches Rides Where the Sun Doesn’t Shine - The New York Times",
       "published": "2026-05-11T13:00:05+00:00",
-      "summary": "A Fish That Hitches Rides Where the Sun Doesn’t Shine&nbsp;&nbsp;The New York TimesSucker fish are hiding in manta rays’ ‘butthole,’ new study reveals&nbsp;&nbsp;Scientific AmericanHiding in Plain Sight: Evidence of Echeneidae Cloacal and Gill Diving Behavior in Manta Ray Hosts&nbsp;&nbsp;Wiley Online LibrarySuckerfish are diving headfirst into unsuspecting manta rays' rear-ends&nbsp;&nbsp;CBCRemoras Dive into Manta Ray Cloacas 7 Times Across Atlantic and Indian Oceans&nbsp;&nbsp;동아사이언스",
+      "summary": "A Fish That Hitches Rides Where the Sun Doesn’t Shine&nbsp;&nbsp;The New York TimesHiding in Plain Sight: Evidence of Echeneidae Cloacal and Gill Diving Behavior in Manta Ray Hosts&nbsp;&nbsp;Wiley Online LibrarySucker fish are hiding in manta rays’ ‘butthole,’ new study reveals&nbsp;&nbsp;Scientific AmericanSuckerfish are diving headfirst into unsuspecting manta rays' rear-ends&nbsp;&nbsp;CBCWhat Are You Doing In There, Fish?&nbsp;&nbsp;Defector",
       "sources": [
         {
           "name": "The New York Times",
@@ -177,11 +309,23 @@
       "id": "80039bb25cd4",
       "title": "Hantavirus Cruise Ship: American Patients Arrive—U.S. Downplays Risk( Live) - Forbes",
       "published": "2026-05-11T12:57:00+00:00",
-      "summary": "Hantavirus Cruise Ship: American Patients Arrive—U.S. Downplays Risk( Live)&nbsp;&nbsp;ForbesAll passengers evacuated from hantavirus-hit cruise ship&nbsp;&nbsp;CNNTwo passengers of hantavirus-stricken cruise ship arrive in Atlanta&nbsp;&nbsp;WABEHantavirus outbreak: 2 patients being monitored at Emory Hospital in Atlanta&nbsp;&nbsp;FOX 5 AtlantaInside the Hantavirus Isolation Unit Where 15 Americans Wait&nbsp;&nbsp;The New York Times",
+      "summary": "Hantavirus Cruise Ship: American Patients Arrive—U.S. Downplays Risk( Live)&nbsp;&nbsp;ForbesSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "Forbes",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcDFWNjhZaG8tU01mNnd0bmFSajJJcHZOdmpKYUp4a0Z2M3BhZTBLaUt4cGlLTDJnc1FYZmFua2t0eFRERXQ3X01LazRmdllVby1NTkQ1V3hHLXJ0aXVvQzBPRkhkSkdmd2VtVjI5T0lGZlhkcmtGS242YV9YbDVDdk15R1BKYkhFNUdOc29oRENERGoxNXBzTURGTHRvUHVZZkF4Y3JiZlRkSmM2bWo5dHZNYkg3SnJwTmhSSGJuZFJCTVBPbk1LSG1yN3pXeWNXVGtz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ead0ff1ca5ac",
+      "title": "This Tiny Algae Could Light Up Deep-Sea Robots, Concert Venues, and Your Home - Indian Defence Review",
+      "published": "2026-05-11T12:00:00+00:00",
+      "summary": "This Tiny Algae Could Light Up Deep-Sea Robots, Concert Venues, and Your Home&nbsp;&nbsp;Indian Defence ReviewLight without electricity? Glowing algae could make it possible&nbsp;&nbsp;University of Colorado BoulderBioluminescent algae’s blue light harnessed to make 3D-printed shapes | Science&nbsp;&nbsp;The GuardianLiving algae created that continuously glows in blue light without using electricity&nbsp;&nbsp;Earth.comCU Boulder researchers develop 3D-printed living lights from algae&nbsp;&nbsp",
+      "sources": [
+        {
+          "name": "Indian Defence Review",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RT2FqMjFLVDlXZ3RxRTFKVDVrOVpPTzBaNDNSbmgwNm5icWY2Y21BNC1tNXN1MG1fR1ZIYzJzOXZ0ZXU0UEhlaF9sOGx5cTZXTHhsMC1vZUMzel9YU2RxMGxDZEp5bEJC?oc=5"
         }
       ]
     },
@@ -198,50 +342,38 @@
       ]
     },
     {
-      "id": "3af1dc1714eb",
-      "title": "Rare giant squid found in western Australia - NewsNation",
-      "published": "2026-05-11T01:52:43+00:00",
-      "summary": "Rare giant squid found in western Australia&nbsp;&nbsp;NewsNationGiant squid found in Western Australian waters in eDNA study&nbsp;&nbsp;Oceanographic MagazineGiant Squid Detected off Western Australia in Stunning Deep-Sea Discovery&nbsp;&nbsp;SciTechDailyGiant squid among creatures of the deep hiding off WA’s Ningaloo Coast, research reveals&nbsp;&nbsp;WAtodayGiant Squid Have Been Detected Living In Unexpected Waters For First Time In 25 Years&nbsp;&nbsp;IFLScience",
+      "id": "ff74e5384ffb",
+      "title": "Exclusive | Ozempic and Mounjaro masked our cancer symptoms — even doctors were unconcerned - New York Post",
+      "published": "2026-05-11T11:59:00+00:00",
+      "summary": "Exclusive | Ozempic and Mounjaro masked our cancer symptoms — even doctors were unconcerned&nbsp;&nbsp;New York PostDo GLP-1 drugs like Ozempic prevent cancer?&nbsp;&nbsp;Science NewsLecturer responds to study linking weight loss drugs and breast cancer survival&nbsp;&nbsp;Yahoo News UKKefah Mokbel: GLP-1 Drugs Show Promise in Breast Cancer&nbsp;&nbsp;OncodailyWeight loss drugs show promise in breast cancer fight — plus more medical headlines&nbsp;&nbsp;WGN-TV",
       "sources": [
         {
-          "name": "NewsNation",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMXRzRlprOENGeGtadlRuWDhneE56eTBvOU8ybi1lU1d3VS1Gdi1VUXNrOE9iSzZ4SDZzWVFBeHdFZW9OUTBCS3l2eXEyMkNOUTRBZGcyeWF2RUdmeUROWl9VYmN1T3NMWUxtMU93TkNUV2dLVHRfRDhDdnMzOEE3Vm50T2VXZ9IBiwFBVV95cUxQeE5ZdXZqWnlXNzBITVpjVFdhRll6VklubXhFeFhUX1R0NTBmNHhXWU9QMURGN0RySTBZN1JUSWVyN1dxUE5fdGxXVnZVZHljWXBpaFJIbkx0bnR6a09zZlljbTdUOFVhVVlsZnZ5N0hndXpXd29wbldveDRQVlZlSDFzQjBQVDNCWXg0?oc=5"
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWUtXekNYa1V4dWpUbGJGYkhhckVlc2pDZWo1VnliMzVQSmIzOE43dWYwQnV6VGxOTF9rREs2MHlnRWJqM2pMdVJaaS1YbVA3YzhjQnhtT2ZxVVpVeWVFYUp4N1J4eXhMN1lra3FFLVpsandmOTN4VmVxTTU4NXhmMC0wX2s5M1dtdzd3Rw?oc=5"
         }
       ]
     },
     {
-      "id": "e3edc74cdcc6",
-      "title": "Science makes an enlightening discovery that could rewrite what we know of physics - Neowin",
-      "published": "2026-05-10T20:58:00+00:00",
-      "summary": "Science makes an enlightening discovery that could rewrite what we know of physics&nbsp;&nbsp;Neowin",
+      "id": "f422c511d60b",
+      "title": "Scientists Just Discovered How the Universe Builds Monster Black Holes - SciTechDaily",
+      "published": "2026-05-11T10:39:02+00:00",
+      "summary": "Scientists Just Discovered How the Universe Builds Monster Black Holes&nbsp;&nbsp;SciTechDailyHow do the biggest black holes in the universe form? Ripples in spacetime provide a clue&nbsp;&nbsp;SpaceGravitational-wave constraints on the pair-instability mass gap and nuclear burning in massive stars&nbsp;&nbsp;NatureThe biggest black holes grow by crashing into each other over and over again&nbsp;&nbsp;The Brighter Side of NewsBuilt not born: Huge black holes form in mergers, study says&nbsp;&nbs",
       "sources": [
         {
-          "name": "Neowin",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMVk2MmZ1dnJVNkJjTWwzVEp5Y2lMWUtWV3gtSFhiYmJiSUR3dVMtRmtDMml6OUVGSVV2RVdMdmVkczU1MlVYdXo1WGpIVldOUEFLQ09CMEEzVG9IeHZuUnQxY1I4RkFqNDNncVFMU3hzTWE5U1NXZlRUWTMxVUJldkZiakhzUnJ5U0l2TlBmRWRZYkFlSFVFUTRTeDQxY3B4aFA4REtHcmp6TDhsS2NXdNIBrwFBVV95cUxNRzFSZEtKdlNtLUt6TFdyQ19UZEY3TW1mbjdmbkM3elkzT28xMzN3Mll3X0F6NERibm92UlBuNjNIZG9PWGVjQVEwcWsxX09OcG00enNOYzFEZTFmTWlJYmZPZWJlaldJUmxFZ001NGF1aFJHQUk0RVhiVl96ZzJpdjJFSW5hdm0taVZ4UXZvVGZUMktNd01xQ2ZILWtfV1BJb0VaVUx4cGRuNnE4NWhr?oc=5"
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUFhMdHZFaG83SVR5RkdyM0htU3IxRTh4ZUZXRVlZT3BidFdaSVFPTUZGdm1lM25oMm9KYnJrUUYyZk53N1IyV1h0a2NmXzd1ZTVLUS1MTmVHdEppb0ZOVzNQMmRURHNtckRlRWtmMWl6c05qWGJvV0JPRUJhUkZDb1o1TnYwVS1NU2Y0MHdsenE2TWVRYUVEdHhLa1M?oc=5"
         }
       ]
     },
     {
-      "id": "7ff3ebca6bc9",
-      "title": "NASA’s James Webb telescope reveals the bright heart of spiral galaxy Messier 77 - Interesting Engineering",
-      "published": "2026-05-10T20:30:00+00:00",
-      "summary": "NASA’s James Webb telescope reveals the bright heart of spiral galaxy Messier 77&nbsp;&nbsp;Interesting EngineeringSpiral galaxy’s brilliant heart shines bright in a new picture from NASA’s Webb telescope&nbsp;&nbsp;AP NewsA beacon of light in swirls of dust&nbsp;&nbsp;European Space AgencyWebb Peers into Brilliant Heart of Messier 77&nbsp;&nbsp;Sci.NewsJWST Reveals Heart of Galaxy M77 Is Being Consumed by Its Own Supermassive Black Hole&nbsp;&nbsp;HotHardware",
+      "id": "fa48f999c976",
+      "title": "Scientists say Dante’s Inferno described an asteroid impact 500 years before modern science - ScienceDaily",
+      "published": "2026-05-11T06:12:02+00:00",
+      "summary": "Scientists say Dante’s Inferno described an asteroid impact 500 years before modern science&nbsp;&nbsp;ScienceDailyHow Dante's Inferno modeled a planetary impact 500 years before modern science&nbsp;&nbsp;Phys.orgDante's Inferno May Have Imagined an Asteroid Impact 500 Years Before Scientists Understood Them&nbsp;&nbsp;ZME ScienceDid Dante’s Inferno predict an asteroid impact: Scientists study 700-year-old poem&nbsp;&nbsp;The Times of IndiaSatan Was an Asteroid. Someone Should Have Checked Soone",
       "sources": [
         {
-          "name": "Interesting Engineering",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc21YM0NtZGhRbUpxeHkyelVsa3BHQVdqZDZnUUtVM1Z6VzFiRTV2bnlHalJGcVhvcnR1VHlna2pGNFo5aHBMbndpTEdzeWktM3VvcGNWVUZfaEhJTXhQeWVNM1JNLTNWLUpzWm1HUTVfLWJBYV84djA1aVB0cVBFTjRB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c1829bc12c9f",
-      "title": "Cut marks on 1.6 million-year-old bones reveal early humans moved prized meat - Phys.org",
-      "published": "2026-05-10T15:20:01+00:00",
-      "summary": "Cut marks on 1.6 million-year-old bones reveal early humans moved prized meat&nbsp;&nbsp;Phys.org1.6 Million-Year-Old Bones Reveal How Early Humans Hunted and Shared Their Food&nbsp;&nbsp;Indian Defence Review1.6‑Million‑Year‑Old Fossils Show Early Humans Repeated a Successful Meat‑Gathering Strategy&nbsp;&nbsp;Discover MagazineNew Research Shows How the Earliest Humans Got Their Meat&nbsp;&nbsp;GizmodoHumans Have Been Obsessed With the Best Cuts of Meat for 1.6 Million Years&nbsp;&nbsp;VICE",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iYmJLdDU5WUoweV92SmVtU2pxWWpsTm9yM0JFeWIxSl9LWjB1WnZYbU9XWHc2QnM0YkFLZ3VqbzlmNi1LYXU5cW81SXFhS3Z4N3pRQmNzX1lCNFlMT18wdWtFd3FNRlVSRmNIOGp0SWlvampG?oc=5"
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXMjhrS2pLVTBKZFJibllBamZwQ1RKcHdGMWFfRWtHRHU3LTItVVRNaHJaMTlOa2VWTUtLX1RpRm1FbVVuUnVaaXJkODBOWTlXQWVnZzVPLUpqUy1xZjdUYlN2S0hsRENVdjZjd1FmVQ?oc=5"
         }
       ]
     }

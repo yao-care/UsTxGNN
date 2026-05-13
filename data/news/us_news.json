@@ -1,15 +1,15 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-13T03:41:51.089822+00:00",
-  "total_fetched": 89,
-  "unique_count": 89,
-  "health_related_count": 36,
+  "fetched_at": "2026-05-13T08:48:44.782629+00:00",
+  "total_fetched": 91,
+  "unique_count": 90,
+  "health_related_count": 40,
   "news": [
     {
       "id": "08ef665db507",
       "title": "P.C.O.S. Has Been Renamed P.M.O.S. Doctors Hope It Will Improve Care for Millions. - The New York Times",
       "published": "2026-05-13T00:58:23+00:00",
-      "summary": "P.C.O.S. Has Been Renamed P.M.O.S. Doctors Hope It Will Improve Care for Millions.&nbsp;&nbsp;The New York TimesPCOS Will Now Be Called PMOS — Here’s What the Change Means for Millions of Women&nbsp;&nbsp;People.comPolyendocrine Metabolic Ovarian Syndrome: New name to improve diagnosis and care of condition affecting 170 million women worldwide&nbsp;&nbsp;Endocrine SocietyThe condition PCOS is now called PMOS. What to know about the name change and what it means for care&nbsp;&nbsp;AP NewsPCOS’s",
+      "summary": "P.C.O.S. Has Been Renamed P.M.O.S. Doctors Hope It Will Improve Care for Millions.&nbsp;&nbsp;The New York TimesPolyendocrine Metabolic Ovarian Syndrome: New name to improve diagnosis and care of condition affecting 170 million women worldwide&nbsp;&nbsp;Endocrine Society‘Unprecedented’ global effort gives new name to polycystic ovary syndrome – and new hope to millions of women&nbsp;&nbsp;The GuardianThe condition PCOS is now called PMOS. What to know about the name change and what it means for",
       "sources": [
         {
           "name": "The New York Times",
@@ -18,10 +18,34 @@
       ]
     },
     {
+      "id": "f14edc3d9dd8",
+      "title": "Hantavirus outbreak tests Trump officials who criticized covid response - The Washington Post",
+      "published": "2026-05-12T23:21:48+00:00",
+      "summary": "Hantavirus outbreak tests Trump officials who criticized covid response&nbsp;&nbsp;The Washington PostPassengers from cruise ship being monitored at US medical units&nbsp;&nbsp;CNNRFK Jr.: ‘We’re not worried’ about hantavirus spreading after cruise ship outbreak&nbsp;&nbsp;The HillAll Passengers Off Hantavirus Cruise Ship (Live Updates)&nbsp;&nbsp;ForbesWATCH: Trump says 'I hope it’s fine' when asked about hantavirus outbreak&nbsp;&nbsp;PBS",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWEl1aHJUVUJSSHZ5dkFwSG56QlI3aUJFWEJhaTVOaDFNcUFrMjFnemlYZ2RYSE5sUHdOa3RBZEY5d3c4dW1CakZtT2VHc3NGdWlmVjBRajM2bHJIclVtVDI0RFhSUW9zYkVyb0g1RmF4Vm5TcmJELVZsT1VBeC14eUFNNEZUV2d1MTM5RXhDeW5qeXJJWmJCSEh2UHM4RC1TOWZsU3BwTzNTcU9oRVlhZkVrV3o5c3RENS1fYjNB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6b62710f0c90",
+      "title": "Lilly's Foundayo and lower-dose Zepbound helped people maintain weight loss after switching from higher doses of injectable incretin therapy in two late-phase trials - investor.lilly.com",
+      "published": "2026-05-12T22:04:56+00:00",
+      "summary": "Lilly's Foundayo and lower-dose Zepbound helped people maintain weight loss after switching from higher doses of injectable incretin therapy in two late-phase trials&nbsp;&nbsp;investor.lilly.comOrforglipron for maintenance of body weight reduction: the double-blind, randomized phase 3b ATTAIN-MAINTAIN trial&nbsp;&nbsp;NatureDaily pill to help keep weight off after stopping obesity jabs&nbsp;&nbsp;BBCPatients don't regain much weight switching from injections to Lilly's weight-loss pill, study f",
+      "sources": [
+        {
+          "name": "investor.lilly.com",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV2c4TW5Kd3h1UnZ1eEY1QVdxc21XZzROSTM0RVNVWjBVakdIWG9ONFJOT3BIMjJiWXBQZ1NuUHR6dnhxSVhQYWR0YkR4UFgxS3JrVjEzcWEtdFl6Q19hcEdWVkVMTEdKVTg4b3hJQXZtOHpkS1JJVzdOeElPb002VWRxMGZGaUt4Mmc3VmFYWnFOSHU4MVlSeEc2OHlBOHVyM09md1poZEdXeTFhRm5qTEktMFFnTTlOMjJTU2F4V1huZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a4da3458aaf6",
       "title": "Potential case of hantavirus reported in Illinois, but it’s not linked to cruise ship outbreak - Chicago Tribune",
       "published": "2026-05-12T21:55:19+00:00",
-      "summary": "Potential case of hantavirus reported in Illinois, but it’s not linked to cruise ship outbreak&nbsp;&nbsp;Chicago TribunePossible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship&nbsp;&nbsp;People.comHow did an Illinois resident potentially contract hantavirus? What we've learned&nbsp;&nbsp;NBC 5 ChicagoHantavirus Illinois case not linked to cruise ship: Dept. of Health&nbsp;&nbsp;YahooIs hantavirus in Illinois in 2026? IDPH investigating potential case in Winnebago County, IL not ",
+      "summary": "Potential case of hantavirus reported in Illinois, but it’s not linked to cruise ship outbreak&nbsp;&nbsp;Chicago TribuneIs hantavirus in Illinois in 2026? IDPH investigating potential case in Winnebago County, IL not linked to cruise ship outbreak&nbsp;&nbsp;ABC7 ChicagoPossible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship&nbsp;&nbsp;People.comUS health officials investigating possible hantavirus case not linked to cruise ship outbreak&nbsp;&nbsp;KY3How did an Illinois residen",
       "sources": [
         {
           "name": "Chicago Tribune",
@@ -42,38 +66,50 @@
       ]
     },
     {
-      "id": "212e9e61c068",
-      "title": "Hantavirus outbreak grows to 11 cases, 9 confirmed - CIDRAP",
-      "published": "2026-05-12T20:31:00+00:00",
-      "summary": "Hantavirus outbreak grows to 11 cases, 9 confirmed&nbsp;&nbsp;CIDRAPMore hantavirus cases are expected, WHO chief says&nbsp;&nbsp;USA TodayHantavirus outbreak linked to cruise reaches 11 reported cases; quarantine continues in U.S.&nbsp;&nbsp;KTLAAndes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)Inside the Hantavirus Quarantine Unit in Nebraska Where 15 Americans Wait&nbsp;&nbsp;The New York Times",
-      "sources": [
-        {
-          "name": "CIDRAP",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS0JNSktqOUQxQXhoVnVXVE9ZTElDelV5Q0tLWG9UOEhWSWxTUGJJSkhjdXlXZ211VGRBU2JHUVA5NHlWY0dqWG5KY1J0R3hsaHlxTW9CamJjd09sdkJTakU0WFZxS0tHNndZVklHWk5aaW1GMmp0Zy01R05qd2tSTWl0TmFWdEd1dW10bXV2YkJzQkFLTmhOOW5R?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "71b173f1c58d",
-      "title": "What to Know About the New Obsession With Testosterone - The New York Times",
-      "published": "2026-05-12T18:59:13+00:00",
-      "summary": "What to Know About the New Obsession With Testosterone&nbsp;&nbsp;The New York TimesIs testosterone therapy safe and effective? What we know&nbsp;&nbsp;Scientific American‘They’ve invented a spurious pseudo-disease’: why are so many men being told they have low testosterone?&nbsp;&nbsp;The GuardianTestosterone Is Back; Have We Learned From Our Mistakes?&nbsp;&nbsp;MedscapeTestosterone Replacement Therapy for Weight Loss: Does It Work for Men?&nbsp;&nbsp;Everyday Health",
+      "id": "8365329e9b7f",
+      "title": "How a Hantavirus Cruise Passenger Is Spending His Quarantine in Nebraska - The New York Times",
+      "published": "2026-05-12T20:35:26+00:00",
+      "summary": "How a Hantavirus Cruise Passenger Is Spending His Quarantine in Nebraska&nbsp;&nbsp;The New York TimesHe was on the trip of a lifetime. Now he’s in a biocontainment unit in Nebraska while hantavirus cases rise&nbsp;&nbsp;CNNOregon doctor in isolation after positive hantavirus test&nbsp;&nbsp;KPTVEbola patient reflects on time at UNMC biocontainment unit&nbsp;&nbsp;WOWTHantavirus cases rise to 11 as cruise ship passengers quarantine&nbsp;&nbsp;NBC News",
       "sources": [
         {
           "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZkhnWUNoMF8xSTBnRUo1NEJYWW16ZVhGN0VZZWMydm5ZV0JtNk9RVWtEclA3cDk2T0gyUU05Z1pCaUEyd3RFRFhoNWtYNURqS01fTWNjNi1nVlRIMVFwMmozMHJrV2Jxd1huNkZIMmRiQTE5eGRsSDRVWkdXMkpyNXZvbEJEQkt6WDZ5UXRObw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcjFPbzcxODVyOEdCUHMyUHBmX0h3RTBtMXVtZFN3LW95WWZva3hEZFhQZE9OT2NpYjItY1hFOHlZZDdtWEJSNTZEN3NZdDZpTEdLTi15ejFVZE43WEw3bHQ4ckpYcFF5OWUzNnliVnpRZE9heVdGVmdkM2wwRTdaaFd6U0lmeG4yQVV2UzQya2Nya3M1Z1E?oc=5"
         }
       ]
     },
     {
-      "id": "d2166dc8201c",
-      "title": "Key development that would force US schools to close over hantavirus fears as travelers from rat virus ship return to US - the-sun.com",
-      "published": "2026-05-12T18:30:39+00:00",
-      "summary": "Key development that would force US schools to close over hantavirus fears as travelers from rat virus ship return to US&nbsp;&nbsp;the-sun.comHe was on the trip of a lifetime. Now he’s in a biocontainment unit in Nebraska while hantavirus cases rise&nbsp;&nbsp;CNNHow a Hantavirus Cruise Passenger Is Spending His Quarantine in Nebraska&nbsp;&nbsp;The New York TimesOregon doctor on cruise ship tested positive for hantavirus, isolating in biocontainment unit&nbsp;&nbsp;KPTVHantavirus cases rise to",
+      "id": "29811435a70b",
+      "title": "3 King County residents being monitored for hantavirus - KUOW",
+      "published": "2026-05-12T20:15:40+00:00",
+      "summary": "3 King County residents being monitored for hantavirus&nbsp;&nbsp;KUOWVisualizing the hantavirus cruise outbreak in maps and charts&nbsp;&nbsp;CNNTwenty-two people set to leave hospital after hantavirus isolation&nbsp;&nbsp;BBCAndes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)Inside the Hantavirus Quarantine Unit in Nebraska Where 15 Americans Wait&nbsp;&nbsp;The New York Times",
       "sources": [
         {
-          "name": "the-sun.com",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY2djQ2d5ZFdUaE9BMTh6Z25CajEwOEdZS1o1U0hlMjJ6V0FlOEYxRXVNQkUzNGM0cUdRdWJJS2hMNmp0WVJPdEZJTjl0d3Y1cUFnMWlfSFR6d0c2alNWNkpPN1JzSmxRVGRFMVhaeHQ2Y1JrajBKV1c0SlZJVFlJTW1LYmdrUmdvZDBDX3N1dHI?oc=5"
+          "name": "KUOW",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWC1JSkV4eWRFWV9kWS1DNThPUy1JemcwaXFvMkVFOFFMTS10UkVuQlBjM1J5WV9ibmdOMVFtR0FPLThUaXZMTy0yeXozQ1YyZE5pZUZqSXV2ZDl6V2Q0M2xwc0pUUzd2UU02UDRhRGlaeDNkSng3WjJkREtvNHFCR01PcUhMdno4Z2htdDVkRjY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9bc52dd78473",
+      "title": "The hidden chemistry at the heart of the Milky Way - WBUR",
+      "published": "2026-05-12T20:05:39+00:00",
+      "summary": "The hidden chemistry at the heart of the Milky Way&nbsp;&nbsp;WBUR",
+      "sources": [
+        {
+          "name": "WBUR",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YczJCQ0JuT0V1X1ZJT0pPeldMZ0tXeHNDNjJKbENVMmxqVnl2VjdBcHUydm9ZM25MeE0wUk51SmFldlVkVkR5ZUpBZm5vclZSSG5OVUJENEtyYjkyRnEwMnlfUXJQa3NYbXk1UXl1N3lPc1dHeW1fQw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4c7784f1abdf",
+      "title": "'Very contagious' parvovirus swirling throughout Northern California - SFGATE",
+      "published": "2026-05-12T18:35:09+00:00",
+      "summary": "'Very contagious' parvovirus swirling throughout Northern California&nbsp;&nbsp;SFGATE",
+      "sources": [
+        {
+          "name": "SFGATE",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qV2xYMGd6bzB2QXBrclZ2OE95ZmtRb1hEZnVFMjZ5ck9EZmhPVUlkN2c0b2h3R1E3dXN0V3BrcS1YTWNrWUJSZTFFWlVhYXE4VUhGcXpOQXlXWXh5MWtvUWoySnRfckxLUXZNaHZXdUFFWHVGT2lWakZVTm1wZw?oc=5"
         }
       ]
     },
@@ -90,10 +126,34 @@
       ]
     },
     {
+      "id": "b3f0bb3859ff",
+      "title": "5 ways to get more vitamin D without taking a supplement - The Washington Post",
+      "published": "2026-05-12T16:00:00+00:00",
+      "summary": "5 ways to get more vitamin D without taking a supplement&nbsp;&nbsp;The Washington PostVitamin D Timing Summer 2026 | Natural Morning Sun Health Hack&nbsp;&nbsp;Dainik Jagran MP CGHow to Suspect Vitamin D Deficiency in Children and Adults&nbsp;&nbsp;Inbox.eu",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvSjU3QnZMS2VhNXIxVXdpT0xQWVJQdndFNjZwbC1KMVF0d3p3WTRaazBVWnV0dTQzRXVBbnhqcl9FYVNBdFdiQzN1OHNZM1JiOEdtcWhOREJrclR6cXRxWnhaNlhycG5OSWhxdno4MmY5aGkt?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "94c1a0a992db",
+      "title": "\"The Manta Ray Briefly Shuddered\": Remoras Filmed Entering Manta Rays' Butts For The First Time - IFLScience",
+      "published": "2026-05-12T15:37:40+00:00",
+      "summary": "\"The Manta Ray Briefly Shuddered\": Remoras Filmed Entering Manta Rays' Butts For The First Time&nbsp;&nbsp;IFLScienceA Fish That Hitches Rides Where the Sun Doesn’t Shine&nbsp;&nbsp;The New York TimesSucker fish are hiding in manta rays’ ‘butthole,’ new study reveals&nbsp;&nbsp;Scientific AmericanHiding in Plain Sight: Evidence of Echeneidae Cloacal and Gill Diving Behavior in Manta Ray Hosts&nbsp;&nbsp;Wiley Online LibraryAre remoras the ocean's weirdest hitchhikers? These suckerfish invade man",
+      "sources": [
+        {
+          "name": "IFLScience",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ2dvb0k4NHJaMjgxdWY2VjlJM3VtdURwMmZ2Q3FGTzQwSl9UdEtBNHlqTlNjc29JN1ZadzZMY2hFaVZ2c2N2bnEwOGRVQ25JTnFGYk8teW9yb1ZIZUpaMjc5X0tVRllYaUNpcGJsZFFoTkliVGxrSWFnak5ycFk1TVlfYW1ZcS0yUURxOUdZc242aVotM2NrclJSQm1zVjNrb01kTXQ3ckRra29BSHY0c0kzSkZzbC0yU0ZnbFYtNFNWdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "351841e5a7d1",
       "title": "All Your Hantavirus Questions, Answered by an Infectious Disease Expert - WIRED",
       "published": "2026-05-12T15:33:00+00:00",
-      "summary": "All Your Hantavirus Questions, Answered by an Infectious Disease Expert&nbsp;&nbsp;WIREDThe Hantavirus Outbreak Is Resurrecting Covid-Era Misinformation Tactics&nbsp;&nbsp;The New York TimesHantavirus is not Covid-19, but ‘calm-mongering’ risks triggering post-Covid anxiety&nbsp;&nbsp;CNNWhy the hantavirus outbreak is different from COVID-19&nbsp;&nbsp;Al JazeeraHantavirus will test if the world learned anything from Covid&nbsp;&nbsp;vox.com",
+      "summary": "All Your Hantavirus Questions, Answered by an Infectious Disease Expert&nbsp;&nbsp;WIREDHantavirus is not Covid-19, but ‘calm-mongering’ risks triggering post-Covid anxiety&nbsp;&nbsp;CNNOpinion | A New Viral Outbreak. The Same Mistakes All Over Again.&nbsp;&nbsp;The New York TimesWhy hantavirus is not like COVID, according to infectious disease experts&nbsp;&nbsp;CBS NewsWhy the hantavirus outbreak is different from COVID-19&nbsp;&nbsp;Al Jazeera",
       "sources": [
         {
           "name": "WIRED",
@@ -117,11 +177,23 @@
       "id": "d962c6734117",
       "title": "Could Argentina hantavirus outbreak be a problem for the World Cup? - Newsweek",
       "published": "2026-05-12T12:11:00+00:00",
-      "summary": "Could Argentina hantavirus outbreak be a problem for the World Cup?&nbsp;&nbsp;NewsweekThe Close, Prolonged Contact Myth&nbsp;&nbsp;The AtlanticTourist hotspot at 'end of the world' denies causing hantavirus outbreak&nbsp;&nbsp;BBCBirders push back on hantavirus fears tied to Argentine city&nbsp;&nbsp;NBC NewsThe last hantavirus outbreak devastated an entire village — here’s how Argentina finally stopped it&nbsp;&nbsp;New York Post",
+      "summary": "Could Argentina hantavirus outbreak be a problem for the World Cup?&nbsp;&nbsp;NewsweekThe Close, Prolonged Contact Myth&nbsp;&nbsp;The AtlanticBirders push back on hantavirus fears tied to Argentine city&nbsp;&nbsp;NBC NewsTourist hotspot at 'end of the world' denies causing hantavirus outbreak&nbsp;&nbsp;BBCThe last hantavirus outbreak devastated an entire village — here’s how Argentina finally stopped it&nbsp;&nbsp;New York Post",
       "sources": [
         {
           "name": "Newsweek",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYkJZb2ZLYnZNSGY3eHJKV0E2aGlPeGlHbG4yRmU5VXNZbmlYdEh0eXRpY1dSb1NjT1pKTDA2bnRKR2ZhM0UxV2FaX2dIeXFTSGczQ3c0NEtZbjc1NEFwaHVuVUliN3VrWG0weWV2WEI0Rk1sLTNmdUwzU1hfb2otT3NQTlEzV1Z5YTVreVVjYU5HUDN1NVJrNUczczd3dUZpSjlCcEhfZjBRelZB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1796201747d2",
+      "title": "New Discovery Challenges Decades-Old Theory of DNA Damage and Aging - SciTechDaily",
+      "published": "2026-05-12T11:31:44+00:00",
+      "summary": "New Discovery Challenges Decades-Old Theory of DNA Damage and Aging&nbsp;&nbsp;SciTechDaily",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORnN6cVFaUnJmSFpnblp0MFV4azlUdDJGeHhpR0tOR1k0UmVSQ0lRa1h1Vjd2RGRXb2ZRNFhTNmdhQVFfdVREcV94TEJDWWI4S1RWamlaTFdVTVN4d2pnTk9GSWJXVHBvSDduaGQ5MXZHZmp4MlNYekNseVV5cHRwY2tpQmEtX05iRGhxOG1EV1o4VXhpNWlndQ?oc=5"
         }
       ]
     },
@@ -165,7 +237,7 @@
       "id": "219bbc1c9b41",
       "title": "Study finds engaging with the arts can slow biological aging - NPR",
       "published": "2026-05-12T08:44:13+00:00",
-      "summary": "Study finds engaging with the arts can slow biological aging&nbsp;&nbsp;NPRArts and cultural engagement ‘linked to slower pace of biological ageing’&nbsp;&nbsp;The GuardianArts engagement linked to slower biological ageing, study says&nbsp;&nbsp;The Art NewspaperEngaging with the arts linked to slower aging at the biological level&nbsp;&nbsp;Medical XpressCould concerts & crafts help you age better? New study may link arts to slower aging&nbsp;&nbsp;WZTV",
+      "summary": "Study finds engaging with the arts can slow biological aging&nbsp;&nbsp;NPRThe Guardian view on public health and the arts: the all-singing, all-dancing science of ageing | Editorial&nbsp;&nbsp;The GuardianArts engagement linked to slower biological ageing, study says&nbsp;&nbsp;The Art NewspaperArtistic pursuits could help slow down aging, and there's science behind it&nbsp;&nbsp;Medical News TodayEnjoying the arts ‘has same effect on ageing as a weekly workout’&nbsp;&nbsp;The Times",
       "sources": [
         {
           "name": "NPR",
@@ -198,14 +270,14 @@
       ]
     },
     {
-      "id": "e66fdfd321ed",
-      "title": "The discovery of an atmosphere on a tiny Kuiper belt world - Big Think",
-      "published": "2026-05-12T06:00:00+00:00",
-      "summary": "The discovery of an atmosphere on a tiny Kuiper belt world&nbsp;&nbsp;Big ThinkSurprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away&nbsp;&nbsp;The New York TimesDetection of an atmosphere on a trans-Neptunian object beyond Pluto&nbsp;&nbsp;NatureAstronomers believe they’ve detected an atmosphere around a tiny, icy world beyond Pluto&nbsp;&nbsp;NBC NewsThin atmosphere detected around distant object beyond Pluto&nbsp;&nbsp;CNN",
+      "id": "3f54241559c3",
+      "title": "New Daily Steps Goal Shows You Don't Need 10,000 to Keep The Weight Off - ScienceAlert",
+      "published": "2026-05-12T03:17:25+00:00",
+      "summary": "New Daily Steps Goal Shows You Don't Need 10,000 to Keep The Weight Off&nbsp;&nbsp;ScienceAlertCould 8,500 daily steps help keep weight off?&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosWalking 8,500 Steps a Day Could Help You Maintain Weight Loss&nbsp;&nbsp;Everyday HealthHow many steps should you aim for to lose weight?&nbsp;&nbsp;Euronews.comScientists say 8,500 steps a day could stop weight from creeping back&nbsp;&nbsp;ScienceDaily",
       "sources": [
         {
-          "name": "Big Think",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmlBVkc3S2JiY2dITmpGeVBqZEJvN2gwX29NQXFrMmQtYzRBNzlZeG9peWNYbXFuZXNvajRUOTJkd1Q3M3pPSzhTWWJZa1NKd3JoZHlWWVAzOVRXdUo0QzQ1aGFGNmhXSl9HM2Rmd2d3UTVPRmctOFJZaGRFeG9wR1VrYk8?oc=5"
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVi1sNmx4TC1MZlNCNTFDX2NoVFRIdHFhQnVrSU9ZZ0FRb3RoejY5UDlMQVBqN2JnVzZBWnc0aTVGYlhnai1wZ1BKb2MybmRmMF9BNnNadzNVYVNaUmFqdnB5M243djM5SElWbHQ4RTByNlVsVWl2aVJYalp3MUlWX1BPTS1GaWs4THFMZHZVZlM1Ukt3Zkw3UVpSSEsxUkU?oc=5"
         }
       ]
     },
@@ -213,7 +285,7 @@
       "id": "cddd6d800dfa",
       "title": "The ‘Guardian’ Removed a Story About Hantavirus and Anxiety - The Cut",
       "published": "2026-05-12T01:11:22+00:00",
-      "summary": "The ‘Guardian’ Removed a Story About Hantavirus and Anxiety&nbsp;&nbsp;The CutFrench hantavirus patient is critically ill, on an artificial lung as total cases grow to 11&nbsp;&nbsp;AP NewsHantavirus latest: French woman on life support with severe hantavirus&nbsp;&nbsp;Sky NewsHantavirus Cruise Passenger in ‘Very Critical’ Condition, Was Initially Told Her Symptoms Were Just Anxiety&nbsp;&nbsp;People.com'No evidence' of widespread hantavirus circulation in France, health minister says&nbsp;&nbs",
+      "summary": "The ‘Guardian’ Removed a Story About Hantavirus and Anxiety&nbsp;&nbsp;The CutFrench hantavirus patient is critically ill as outbreak grows to 11&nbsp;&nbsp;NPRWoman Diagnosed With Hantavirus After Being on Cruise Ship Now on an Artificial Lung in ‘Final Stage of Supportive Care,' Doctor Says&nbsp;&nbsp;People.com'No evidence' of widespread hantavirus circulation in France, health minister says&nbsp;&nbsp;France 24Hantavirus outbreak - as it happened: French woman on life support with severe cas",
       "sources": [
         {
           "name": "The Cut",
@@ -237,7 +309,7 @@
       "id": "a6c1593c70b7",
       "title": "Unexplored interactions between electrons and atomic nuclei shed light on dark matter - Phys.org",
       "published": "2026-05-11T23:40:01+00:00",
-      "summary": "Unexplored interactions between electrons and atomic nuclei shed light on dark matter&nbsp;&nbsp;Phys.orgUnveiling Dark Matter Through Molecular Insights&nbsp;&nbsp;Bioengineer.orgHunt for dark matter: Study finds new clue in unexplored electron-atomic nuclei interactions&nbsp;&nbsp;starlust.org",
+      "summary": "Unexplored interactions between electrons and atomic nuclei shed light on dark matter&nbsp;&nbsp;Phys.orgUnveiling Dark Matter Through Molecular Insights&nbsp;&nbsp;Bioengineer.orgMolecules shed light on dark matter&nbsp;&nbsp;Scientific FrontlineHunt for dark matter: Study finds new clue in unexplored electron-atomic nuclei interactions&nbsp;&nbsp;starlust.org",
       "sources": [
         {
           "name": "Phys.org",
@@ -261,7 +333,7 @@
       "id": "56ad09296502",
       "title": "Is This Why Science Advances One Funeral at a Time? - Nautilus | Science",
       "published": "2026-05-11T21:00:00+00:00",
-      "summary": "Is This Why Science Advances One Funeral at a Time?&nbsp;&nbsp;Nautilus | ScienceScience is becoming less disruptive. Is an aging workforce to blame?&nbsp;&nbsp;statnews.comIndia has young ‘disruptive’ scientists. It also has ageing gatekeepers&nbsp;&nbsp;The KenStudy: Researchers’ Most Innovative Work Occurs Early in Careers&nbsp;&nbsp;geneonline.comThe 'nostalgia effect': Scientists produce less disruptive work as they age&nbsp;&nbsp;MSN",
+      "summary": "Is This Why Science Advances One Funeral at a Time?&nbsp;&nbsp;Nautilus | ScienceIndia has young ‘disruptive’ scientists. It also has ageing gatekeepers&nbsp;&nbsp;The KenThe aging scientific workforce collides with rising fabricating citations in medical journals&nbsp;&nbsp;statnews.comStudy: Researchers’ Most Innovative Work Occurs Early in Careers&nbsp;&nbsp;geneonline.comThe 'nostalgia effect': Scientists produce less disruptive work as they age&nbsp;&nbsp;MSN",
       "sources": [
         {
           "name": "Nautilus | Science",
@@ -273,7 +345,7 @@
       "id": "d07fa129e06b",
       "title": "First Real-Time Brain-Controlled Hearing Device - Neuroscience News",
       "published": "2026-05-11T19:47:50+00:00",
-      "summary": "First Real-Time Brain-Controlled Hearing Device&nbsp;&nbsp;Neuroscience NewsBrain-Controlled Hearing System Proves Itself in First Human Studies&nbsp;&nbsp;Columbia | Zuckerman InstituteReal-time brain-controlled selective hearing enhances speech perception in multi-talker environments&nbsp;&nbsp;NatureNew research may lead to hearing aids with the ability to select one voice among many&nbsp;&nbsp;KUOWBrain-controlled hearing system distinguishes a single voice in a crowd&nbsp;&nbsp;Plataforma M",
+      "summary": "First Real-Time Brain-Controlled Hearing Device&nbsp;&nbsp;Neuroscience NewsReal-time brain-controlled selective hearing enhances speech perception in multi-talker environments&nbsp;&nbsp;NatureBrain-controlled hearing aid solves the ‘cocktail party problem’&nbsp;&nbsp;The TimesBrain-controlled hearing system proves itself in first human studies&nbsp;&nbsp;EurekAlert!New research may lead to hearing aids with the ability to select one voice among many&nbsp;&nbsp;KUOW",
       "sources": [
         {
           "name": "Neuroscience News",
@@ -285,7 +357,7 @@
       "id": "548eee9320be",
       "title": "Norovirus-hit cruise docks at Port Canaveral after 115 fall ill on nightmare voyage - WPEC",
       "published": "2026-05-11T19:10:52+00:00",
-      "summary": "Norovirus-hit cruise docks at Port Canaveral after 115 fall ill on nightmare voyage&nbsp;&nbsp;WPECNorovirus Outbreak Sickens 115 on Cruise Ship&nbsp;&nbsp;The New York TimesMore than 100 sickened in norovirus outbreak aboard Caribbean Princess cruise&nbsp;&nbsp;NBC NewsHantavirus and norovirus outbreaks on cruises raise alarms for passengers. How to avoid illness&nbsp;&nbsp;ABC7 Los AngelesMore than 100 sick in norovirus outbreak on Caribbean Princess cruise ship&nbsp;&nbsp;Global News",
+      "summary": "Norovirus-hit cruise docks at Port Canaveral after 115 fall ill on nightmare voyage&nbsp;&nbsp;WPECMore than 100 sick in norovirus outbreak on Caribbean Princess cruise ship&nbsp;&nbsp;Global NewsHantavirus and norovirus outbreaks on cruises raise alarms for passengers. How to avoid illness&nbsp;&nbsp;ABC7 Los AngelesMore than 100 sickened in norovirus outbreak aboard Caribbean Princess cruise&nbsp;&nbsp;NBC News115 sick in norovirus outbreak on Florida-bound cruise ship, CDC says&nbsp;&nbsp;The",
       "sources": [
         {
           "name": "WPEC",
@@ -297,7 +369,7 @@
       "id": "3e7f2f04ce67",
       "title": "Giant Squid Detected off Western Australia in Stunning Deep-Sea Discovery - SciTechDaily",
       "published": "2026-05-11T18:03:55+00:00",
-      "summary": "Giant Squid Detected off Western Australia in Stunning Deep-Sea Discovery&nbsp;&nbsp;SciTechDailyGiant squid detected in deep-sea canyon off coast of Australia&nbsp;&nbsp;BBC Wildlife MagazineGiant squid found in Western Australian waters in eDNA study&nbsp;&nbsp;Oceanographic MagazineGiant squid detected in underwater canyons in rare discovery&nbsp;&nbsp;USA TodayGiant Squid Have Been Detected Living In Unexpected Waters For First Time In 25 Years&nbsp;&nbsp;IFLScience",
+      "summary": "Giant Squid Detected off Western Australia in Stunning Deep-Sea Discovery&nbsp;&nbsp;SciTechDailyGiant squid detected in deep-sea canyon off coast of Australia&nbsp;&nbsp;BBC Wildlife MagazineRare giant squid found in western Australia&nbsp;&nbsp;NewsNationGiant squid found in Western Australian waters in eDNA study&nbsp;&nbsp;Oceanographic MagazineGiant Squid Have Been Detected Living In Unexpected Waters For First Time In 25 Years&nbsp;&nbsp;IFLScience",
       "sources": [
         {
           "name": "SciTechDaily",
@@ -318,18 +390,6 @@
       ]
     },
     {
-      "id": "bb5e381c47c4",
-      "title": "A Gigantic Atmospheric Anomaly Keeps Showing Up on Venus. Astronomers Finally Know Why - Gizmodo",
-      "published": "2026-05-11T16:30:41+00:00",
-      "summary": "A Gigantic Atmospheric Anomaly Keeps Showing Up on Venus. Astronomers Finally Know Why&nbsp;&nbsp;GizmodoResearchers explain mysterious cause of 6,000-kilometer cloud wall on Venus&nbsp;&nbsp;The Brighter Side of NewsVenus Has Acid Rain, But There’s a Bizarre Reason It Never Hits the Ground&nbsp;&nbsp;Indian Defence ReviewVenus’ atmosphere jumps and waves | The University of Tokyo&nbsp;&nbsp;u-tokyo.ac.jpWhere Can You Hide From Venus's Sulfuric Acid Rain? Pretty Much Anywhere On The Planet's 737",
-      "sources": [
-        {
-          "name": "Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeHZxelI0NXpuYTVXQXVUOWoxS2F1RWFZYV9vZHFPODd0QzJpZlNnWDJ0aWljUkJJVUVrZG1Qdm9IdzBwRHRla1VXMFg1SDAzUElDdmFDX1lpX1BFYWdTeWtnMGtMTDI2bWJrNWstTVpWZFZ4T3ZZS2o2UVhJYTl6TnF6bUgyY1NvRVZsNGJBZ3B1cU1LcEh0ak9WMmlVaUMtTmk5WGFiR3pMNk91VVUxTF9vYVhfdEE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "37dd6d7ae2a8",
       "title": "How NASA lunar scientists taught Artemis 2 astronauts to see the moon with different eyes - Space",
       "published": "2026-05-11T16:00:00+00:00",
@@ -338,6 +398,18 @@
         {
           "name": "Space",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWWk3Nk55S2E0VXJJTHNGRXV5ekpVTkVZZW5ZMS13T3hzVVI3R2ZGWXJiZ3hzTDBBUnJPaDlBWnAxcDRCVUxCU3dEcmhwUVVhc2JDZHZUcGduLWppYXZjQ2ZoNEJTbjFDVG5wbmdPamUzZWFhTHNLX25VNDFiMXMtcjRwMlJIU1NTNXZqX0RrZXYxdXJlc2RpQWxrbXpSQjZSOG54Tl9vZ1dGT3BmaXE3R2gxd0dabmg1Q29ucFlod0x5MW11aTMxYmVlNm9oY2hBRDdv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a7551009cf38",
+      "title": "New 'trick' fixes major flaw in neutral-atom quantum computers — inching us closer to a superpowerful system - Live Science",
+      "published": "2026-05-11T15:00:00+00:00",
+      "summary": "New 'trick' fixes major flaw in neutral-atom quantum computers — inching us closer to a superpowerful system&nbsp;&nbsp;Live ScienceQuantum breakthrough could revolutionize teleportation and computing&nbsp;&nbsp;ScienceDailyStable qubit breakthrough pushes quantum supercomputers within reach&nbsp;&nbsp;Interesting Engineering",
+      "sources": [
+        {
+          "name": "Live Science",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPT09KalR2NXdEbTZ3OEhfNzIydWZnV0JoT0Q0VkJyYXlNa3pEdDNuRHpNYVNrb1N4enpuYVhMZzhGNXd0MGlpNWdpVExkeVFYNUdvRGhINkl3WFpzYjlpeGxBVWc1NmNpTDZGZ0lIVUVsWmFCRDVVYndwRVRjR2ZnVEdJRVpWcWZTM2piNFZyejIzX1B3VHViSF9ydmh2NF9rbFotMDhzTWdrWnhKa1lvUlJMSm1IMXJJWkx0V0JDcW8tQzFsUUM4aWFSMkk2c3hRMk5aR3R3N19TNm4zVV96RVR5WEFVZw?oc=5"
         }
       ]
     },
@@ -362,18 +434,6 @@
         {
           "name": "Space",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRzNMLXpOdGtSckpUM0ZrZVR2WERpb085bm9qT1FQWEUxdlVPRjhZbjlvQm1yOXlTaGhQeWtVNUdJcnUxb2JPZGdmZFlDTHhCdlQ2Q01Ed1JHU1NlcFhZOENwWlkxQWN3MHdnTl9xNEFqYzZpbmUtaWxKUUxONVdyYjBzMmdCM0tDalVDaVZaSndUTzB4bUo3MTJiNXY0OGxzX0wxYWhDUV9NdVdWT3IwaWdGNDF2U0JyakM3eHE2ajZFYThuZ3UtLXVlMEs2WkJPdEFYbmtNbm5kc1lJUkxhSkxpdzE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "80039bb25cd4",
-      "title": "Hantavirus Cruise Ship: American Patients Arrive—U.S. Downplays Risk( Live) - Forbes",
-      "published": "2026-05-11T12:57:00+00:00",
-      "summary": "Hantavirus Cruise Ship: American Patients Arrive—U.S. Downplays Risk( Live)&nbsp;&nbsp;ForbesSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "Forbes",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcDFWNjhZaG8tU01mNnd0bmFSajJJcHZOdmpKYUp4a0Z2M3BhZTBLaUt4cGlLTDJnc1FYZmFua2t0eFRERXQ3X01LazRmdllVby1NTkQ1V3hHLXJ0aXVvQzBPRkhkSkdmd2VtVjI5T0lGZlhkcmtGS242YV9YbDVDdk15R1BKYkhFNUdOc29oRENERGoxNXBzTURGTHRvUHVZZkF4Y3JiZlRkSmM2bWo5dHZNYkg3SnJwTmhSSGJuZFJCTVBPbk1LSG1yN3pXeWNXVGtz?oc=5"
         }
       ]
     },
@@ -405,7 +465,7 @@
       "id": "ff74e5384ffb",
       "title": "Exclusive | Ozempic and Mounjaro masked our cancer symptoms — even doctors were unconcerned - New York Post",
       "published": "2026-05-11T11:59:00+00:00",
-      "summary": "Exclusive | Ozempic and Mounjaro masked our cancer symptoms — even doctors were unconcerned&nbsp;&nbsp;New York Post‘Too Good to Be True?’ GLP-1s and Breast Cancer Survival&nbsp;&nbsp;MedscapeFat jabs BOOST breast cancer survival – drug may ‘slash risk of death by 65%’&nbsp;&nbsp;The SunWeight loss drugs show promise in breast cancer fight — plus more medical headlines&nbsp;&nbsp;WGN-TVKefah Mokbel: GLP-1 Drugs Show Promise in Breast Cancer&nbsp;&nbsp;Oncodaily",
+      "summary": "Exclusive | Ozempic and Mounjaro masked our cancer symptoms — even doctors were unconcerned&nbsp;&nbsp;New York Post‘Too Good to Be True?’ GLP-1s and Breast Cancer Survival&nbsp;&nbsp;MedscapeWeight loss drugs show promise in breast cancer fight — plus more medical headlines&nbsp;&nbsp;YahooKefah Mokbel: GLP-1 Drugs Show Promise in Breast Cancer&nbsp;&nbsp;OncodailyCould GLP-1 receptor agonists improve breast cancer outcomes for patients with obesity or type 2 diabetes?&nbsp;&nbsp;Oncology Centr",
       "sources": [
         {
           "name": "New York Post",
@@ -422,18 +482,6 @@
         {
           "name": "IAI TV",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CelVpRFlXWVNreVQxM3pTSHZrSWZ6MVZEeEJWSFVQNXFlSlY1MU84ZURRaTBvNVR2MHlVQXpJNzdFSHMzemIyVVVQbG9vUWloY1ZZT3FVZk16YWFJTTBFcVFUZGFtS3M5ZVBhX1U2YktXNFJwdDlzYmg1Yw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f2663107f455",
-      "title": "Does Dante's Inferno from the 14th century depict an asteroid impact? - Space",
-      "published": "2026-05-11T10:00:00+00:00",
-      "summary": "Does Dante's Inferno from the 14th century depict an asteroid impact?&nbsp;&nbsp;SpaceScientists say Dante’s Inferno described an asteroid impact 500 years before modern science&nbsp;&nbsp;ScienceDailyHow Dante's Inferno modeled a planetary impact 500 years before modern science&nbsp;&nbsp;Phys.orgDante's Inferno May Have Imagined an Asteroid Impact 500 Years Before Scientists Understood Them&nbsp;&nbsp;ZME ScienceDid Dante’s Inferno predict an asteroid impact: Scientists study 700-year-old poem",
-      "sources": [
-        {
-          "name": "Space",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQUpKU05Vb3ZpWmpOSDRPVzVObDlhV3BoUkl0X0t2OXFwT3RFTW5teEUxUS15R0s3TzBaOVY3YUxMQzl1SGQwVzJNVHg0QTl1WnZpU2kycEtXWGpicTYyZF96NW1FSnhVSlhNQ0tHUkZwM1Jadl9FYjl4NkQxRTJHQXV5blhycDlpOWdzQXFzR1dhdW9NZlhfUzA1R1pObXNZSnRKYXlNWXNLaDZkRlE?oc=5"
         }
       ]
     }

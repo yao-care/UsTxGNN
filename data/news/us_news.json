@@ -1,19 +1,31 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-14T03:41:06.938365+00:00",
-  "total_fetched": 110,
-  "unique_count": 110,
-  "health_related_count": 55,
+  "fetched_at": "2026-05-14T08:41:36.333556+00:00",
+  "total_fetched": 115,
+  "unique_count": 115,
+  "health_related_count": 58,
   "news": [
     {
-      "id": "d1b1e3a682f0",
-      "title": "PNW doctor from hantavirus ship leaves special isolation unit - The Seattle Times",
-      "published": "2026-05-14T02:47:19+00:00",
-      "summary": "PNW doctor from hantavirus ship leaves special isolation unit&nbsp;&nbsp;The Seattle TimesU.S. Cruise Passenger Moved Out of Isolation&nbsp;&nbsp;The New York TimesDoctor from hantavirus-stricken ship tests negative, moves out of biocontainment unit&nbsp;&nbsp;CNNA Scientist’s Close Call with Hantavirus Aboard the M.V. Hondius Cruise&nbsp;&nbsp;The New YorkerCDC: Risk to general public from hantavirus is low&nbsp;&nbsp;CIDRAP",
+      "id": "f6a14b35c3a5",
+      "title": "Hantavirus cluster linked to cruise ship travel, Multi-country - World Health Organization (WHO)",
+      "published": "2026-05-14T08:25:53+00:00",
+      "summary": "Hantavirus cluster linked to cruise ship travel, Multi-country&nbsp;&nbsp;World Health Organization (WHO)Doctor from hantavirus-stricken ship tests negative, moves out of biocontainment unit&nbsp;&nbsp;CNNA Scientist’s Close Call with Hantavirus Aboard the M.V. Hondius Cruise&nbsp;&nbsp;The New YorkerCDC: Risk to general public from hantavirus is low&nbsp;&nbsp;CIDRAPOregon doctor who helped cruise patients tests positive for hantavirus&nbsp;&nbsp;Statesman Journal",
       "sources": [
         {
-          "name": "The Seattle Times",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOR0VlOEZnRC1OUzE2V1JFdFVFSlNoaGwycDVpa0xmWjlqWkFUbWt5cXozUnFTeWZZVE9XS1RleWhOVnQxWlM5aWxWNzVZRW1mNnVwUDlLVExyX2xEbm1xekE2ZWJvVk1sOWxDXzUxY1hBckhHTWtTNDJKWGVQdmFYRWE4b2QzamhjdXlLSXh6SDR6Ylh1TC1xSnZ3R3Z6WnF3b2V1UzVFU2F1eHFSMnhJd0l6Y1dlQzNQVGJySW9zRWpRSTF2b3NNelZwWll1eEZqZmFWSE5vLW9jbC1QQ3BvaHlhMA?oc=5"
+          "name": "World Health Organization (WHO)",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54a0hHNDdXYW1vT1RwSjFVek0yZW01WDAwT0hBdVc2TTNtSV82ZjhNYW9hdURjdWtMOFNuUWNjdkM1Y2pUS1VFcm82aXVmaGE3Z1dpU1FfYXlOMDRjdjRYU3hKbmZiNnVycUJGUHJVT1RlNmFSNFdVeFNR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5076106e7969",
+      "title": "Who are the Japanese? Huge DNA discovery rewrites history - ScienceDaily",
+      "published": "2026-05-14T05:02:17+00:00",
+      "summary": "Who are the Japanese? Huge DNA discovery rewrites history&nbsp;&nbsp;ScienceDaily",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrdTlNRnpTbDVfS1BhMVI2LXdHVkN6QXJVcUpSN2x5bjRJdWhoSEwtYmlrZ255NFlRV2R5RVpVZkJzZWY2bjBEZnh3a29vUmdTRndHbklPWG1lT2NtYVhXajdjZi14Q1dad1dILWNETQ?oc=5"
         }
       ]
     },
@@ -33,7 +45,7 @@
       "id": "473cc86071ea",
       "title": "Ecotypes of triple-negative breast cancer in response to chemotherapy - Nature",
       "published": "2026-05-13T22:01:15+00:00",
-      "summary": "Ecotypes of triple-negative breast cancer in response to chemotherapy&nbsp;&nbsp;NatureGene panel predicts chemotherapy response in triple-negative breast cancer&nbsp;&nbsp;News-MedicalTNBC Ecotypes Reveal Molecular Signatures Tied to Chemotherapy Response&nbsp;&nbsp;Inside Precision MedicineNew insights reveal why some triple-negative breast cancers resist treatment&nbsp;&nbsp;The Institute of Cancer Research (ICR)New Study Sheds Light on Predicting Chemotherapy Response in Triple-Negative Brea",
+      "summary": "Ecotypes of triple-negative breast cancer in response to chemotherapy&nbsp;&nbsp;NatureTNBC Ecotypes Reveal Molecular Signatures Tied to Chemotherapy Response&nbsp;&nbsp;Inside Precision MedicineTriple-Negative Breast Cancer Ecotypes and Chemotherapy Response&nbsp;&nbsp;Bioengineer.orgA 13-gene panel may help predict response to chemotherapy in triple-negative breast cancer&nbsp;&nbsp;Medical XpressNew Study Sheds Light on Predicting Chemotherapy Response in Triple-Negative Breast Cancer&nbsp;&n",
       "sources": [
         {
           "name": "Nature",
@@ -45,7 +57,7 @@
       "id": "c6549ac5564e",
       "title": "Mesoscale atomic engineering in a crystal lattice - Nature",
       "published": "2026-05-13T22:01:15+00:00",
-      "summary": "Mesoscale atomic engineering in a crystal lattice&nbsp;&nbsp;NatureResearchers “reprogram” materials by quickly rearranging their atoms&nbsp;&nbsp;MIT NewsAtomic Design (IMAGE)&nbsp;&nbsp;EurekAlert!US team reprograms materials in three dimensions using electron beam&nbsp;&nbsp;Interesting Engineering",
+      "summary": "Mesoscale atomic engineering in a crystal lattice&nbsp;&nbsp;NatureResearchers “reprogram” materials by quickly rearranging their atoms&nbsp;&nbsp;MIT NewsUS team reprograms materials in three dimensions using electron beam&nbsp;&nbsp;Interesting Engineering",
       "sources": [
         {
           "name": "Nature",
@@ -57,7 +69,7 @@
       "id": "d237b89dd5e7",
       "title": "Weight gain as adult increases cancer risk by up to five times, research shows - The Guardian",
       "published": "2026-05-13T22:01:00+00:00",
-      "summary": "Weight gain as adult increases cancer risk by up to five times, research shows&nbsp;&nbsp;The GuardianAdult weight gain strongly linked to higher obesity-related cancer risk&nbsp;&nbsp;News-MedicalWeight gain in twenties ‘can increase cancer risk fivefold’&nbsp;&nbsp;The TimesWeight Loss and Cancer Risk: How Much Weight Loss Needs to Occur?&nbsp;&nbsp;CancerNetworkA study found: This is the age range in which excess weight will affect health in the future&nbsp;&nbsp;The Jerusalem Post",
+      "summary": "Weight gain as adult increases cancer risk by up to five times, research shows&nbsp;&nbsp;The GuardianWeight gain in twenties ‘can increase cancer risk fivefold’&nbsp;&nbsp;The TimesWeight Gain And Cancer Risk: Adult weight gain linked to increased cancer risks&nbsp;&nbsp;The Times of IndiaA study found: This is the age range in which excess weight will affect health in the future&nbsp;&nbsp;The Jerusalem PostAdult weight gain strongly linked to higher obesity-related cancer risk&nbsp;&nbsp;News",
       "sources": [
         {
           "name": "The Guardian",
@@ -69,7 +81,7 @@
       "id": "03050a339804",
       "title": "Sustaining microglial reparative function enhances stroke recovery - Nature",
       "published": "2026-05-13T21:31:06+00:00",
-      "summary": "Sustaining microglial reparative function enhances stroke recovery&nbsp;&nbsp;NatureJapanese researchers, others say certain cells enhance brain stroke recovery&nbsp;&nbsp;nhk.or.jpHarnessing Immune Pathways for Stroke Recovery: Overcoming Challenges to Clinical Translation&nbsp;&nbsp;American Heart Association JournalsBoosting Microglia Repair Accelerates Stroke Recovery&nbsp;&nbsp;Bioengineer.orgNeuroimmunology: Unlocking the potential for brain injury recovery&nbsp;&nbsp;Business News Nigeria",
+      "summary": "Sustaining microglial reparative function enhances stroke recovery&nbsp;&nbsp;NatureJapanese researchers, others say certain cells enhance brain stroke recovery&nbsp;&nbsp;nhk.or.jpJapan team identifies drug candidate that may extend recovery after stroke&nbsp;&nbsp;The Japan TimesHarnessing Immune Pathways for Stroke Recovery: Overcoming Challenges to Clinical Translation&nbsp;&nbsp;American Heart Association JournalsJapan Team Finds Substance to Help Keep Post-Stroke Recovery&nbsp;&nbsp;nippon",
       "sources": [
         {
           "name": "Nature",
@@ -93,7 +105,7 @@
       "id": "35f86bf16c3d",
       "title": "A new kind of liver crisis is emerging in the U.S. The American diet is to blame - statnews.com",
       "published": "2026-05-13T19:47:30+00:00",
-      "summary": "A new kind of liver crisis is emerging in the U.S. The American diet is to blame&nbsp;&nbsp;statnews.comGastroenterologist reveals the early screening tests that help detect liver disease before complications begin&nbsp;&nbsp;Hindustan TimesFatty liver, another way obesity is killing us&nbsp;&nbsp;Knox TN TodayMetabolic liver disease to hit 1.8bn by 2050, and other health stories&nbsp;&nbsp;The World Economic Forum‘I’m a Hepatologist—This Is the One Thing I Tell Every Patient With Fatty Liver Di",
+      "summary": "A new kind of liver crisis is emerging in the U.S. The American diet is to blame&nbsp;&nbsp;statnews.com‘I’m a Hepatologist—This Is the One Thing I Tell Every Patient With Fatty Liver Disease To Do Before Anything Else’&nbsp;&nbsp;ParadeGastroenterologist reveals the early screening tests that help detect liver disease before complications begin&nbsp;&nbsp;Hindustan TimesExperts confirm whether fatty liver disease can be reversed with lifestyle changes&nbsp;&nbsp;MSNThese 2 Dietary Patterns Redu",
       "sources": [
         {
           "name": "statnews.com",
@@ -105,7 +117,7 @@
       "id": "fb45450bcc91",
       "title": "Sleep linked to slower ageing: huge study pinpoints the right amount - Nature",
       "published": "2026-05-13T19:35:27+00:00",
-      "summary": "Sleep linked to slower ageing: huge study pinpoints the right amount&nbsp;&nbsp;NatureSleep chart of biological ageing clocks in middle and late life&nbsp;&nbsp;NatureToo little sleep—and too much—associated with faster aging&nbsp;&nbsp;Medical XpressSleeping more than 8 hours a night linked to faster-ageing organs&nbsp;&nbsp;The TelegraphSleep is commonly referred to as medicine, but it has been scientifically proven that excessive medi..&nbsp;&nbsp;매일경제",
+      "summary": "Sleep linked to slower ageing: huge study pinpoints the right amount&nbsp;&nbsp;NatureSleep chart of biological ageing clocks in middle and late life&nbsp;&nbsp;NatureToo little sleep—and too much—associated with faster aging&nbsp;&nbsp;Medical XpressSleeping more than 8 hours a night linked to faster-ageing organs&nbsp;&nbsp;The TelegraphSleep Duration Linked to Accelerated Aging&nbsp;&nbsp;Neuroscience News",
       "sources": [
         {
           "name": "Nature",
@@ -117,7 +129,7 @@
       "id": "10e1350ce776",
       "title": "Critically ill French hantavirus patient is on an artificial lung as outbreak grows to 11 - PBS",
       "published": "2026-05-13T18:57:37+00:00",
-      "summary": "Critically ill French hantavirus patient is on an artificial lung as outbreak grows to 11&nbsp;&nbsp;PBSFrench Hantavirus Patient Is Critically Ill as Outbreak Reaches 11 Cases&nbsp;&nbsp;The New York TimesHantavirus Cruise Passenger in ‘Very Critical’ Condition, Was Initially Told Her Symptoms Were Just Anxiety&nbsp;&nbsp;People.comFrench hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11&nbsp;&nbsp;NBC News'No evidence' of widespread hantavirus circulation i",
+      "summary": "Critically ill French hantavirus patient is on an artificial lung as outbreak grows to 11&nbsp;&nbsp;PBSFrench Hantavirus Patient Is Critically Ill as Outbreak Reaches 11 Cases&nbsp;&nbsp;The New York TimesHantavirus Cruise Passenger in ‘Very Critical’ Condition, Was Initially Told Her Symptoms Were Just Anxiety&nbsp;&nbsp;People.com'No evidence' of widespread hantavirus circulation in France, health minister says&nbsp;&nbsp;France 24Hantavirus: Macron says situation is 'under control' in France",
       "sources": [
         {
           "name": "PBS",
@@ -126,10 +138,22 @@
       ]
     },
     {
+      "id": "a635d89cc2f3",
+      "title": "Opinion | 11 hantavirus deaths in Argentina were a warning - The Washington Post",
+      "published": "2026-05-13T17:45:00+00:00",
+      "summary": "Opinion | 11 hantavirus deaths in Argentina were a warning&nbsp;&nbsp;The Washington PostThe Close, Prolonged Contact Myth&nbsp;&nbsp;The AtlanticAndes hantavirus: Deadly 2018 outbreak shows it is not only transmitted through close contact&nbsp;&nbsp;EL PAÍS EnglishThe last hantavirus outbreak devastated an entire village — here’s how Argentina finally stopped it&nbsp;&nbsp;New York PostArgentina's 2018-19 hantavirus outbreak is guiding the response to this one&nbsp;&nbsp;KNAU",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMHJJRUVKelNLY0pGQkRFZ3g2OXFfUUFCOUZzcGRfSDNpMEdKRll2V2lKSXkxR0lUVDlXZlY4d1gxeUNQMzZRQld0VlpHM2FDb2l4RWZrcGctUm5nV05zUlpMTmQ5MDlXcHhOZWd2NkQxemVGOEphUUpHU0tRV0VZWnFIOUhLQ040M3BXRFA3VlhkOUthTDNhdGg0cnVWUXNYeVlTQmFqbkg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "bc8893736b17",
       "title": "NASA Satellite Reveals One Of Russia’s Most Active Volcanoes Burning Through Snow - Indian Defence Review",
       "published": "2026-05-13T17:00:00+00:00",
-      "summary": "NASA Satellite Reveals One Of Russia’s Most Active Volcanoes Burning Through Snow&nbsp;&nbsp;Indian Defence ReviewMelting Snow Off Shivelyuch&nbsp;&nbsp;NASA Science (.gov)Sheveluch (Russia) Volcano (Russia) activity update May 8, 2026 - Continuing eruption Cite this Report&nbsp;&nbsp;Volcano DiscoveryKamchatka’s Shiveluch volcano shows continuous activity, satellite data reveals&nbsp;&nbsp;The Business StandardSatellite spies one of Russia's most active volcanoes melting snow from the inside ou",
+      "summary": "NASA Satellite Reveals One Of Russia’s Most Active Volcanoes Burning Through Snow&nbsp;&nbsp;Indian Defence ReviewSatellite spies one of Russia's most active volcanoes melting snow from the inside out&nbsp;&nbsp;SpaceSheveluch (Russia) Volcano (Russia) activity update May 8, 2026 - Continuing eruption Cite this Report&nbsp;&nbsp;Volcano DiscoveryNew satellite images show a growing lava dome at the Shiveluch volcano, one of the world's most active, which is in continuous eruption.&nbsp;&nbsp;CPG ",
       "sources": [
         {
           "name": "Indian Defence Review",
@@ -150,14 +174,26 @@
       ]
     },
     {
-      "id": "16597a682de1",
-      "title": "Scientists Say Uranus And Neptune May Be Far Rockier Than Anyone Expected - The Daily Galaxy",
-      "published": "2026-05-13T15:15:00+00:00",
-      "summary": "Scientists Say Uranus And Neptune May Be Far Rockier Than Anyone Expected&nbsp;&nbsp;The Daily GalaxyUranus and Neptune could be full of rocks, new study suggests&nbsp;&nbsp;SpaceThe hidden mysteries of our ice giant planets&nbsp;&nbsp;NatureNew Study Argues That Uranus And Neptune Are Rocky&nbsp;&nbsp;Orbital TodayEnd of the era of the ice giants: Uranus and Neptune turn out to be rocky worlds&nbsp;&nbsp;Universe Space Tech",
+      "id": "60460b2e7a61",
+      "title": "Bermuda Triangle Mystery May Finally Be Solved After Stunning Underwater Discovery - Charisma Magazine Online",
+      "published": "2026-05-13T15:21:47+00:00",
+      "summary": "Bermuda Triangle Mystery May Finally Be Solved After Stunning Underwater Discovery&nbsp;&nbsp;Charisma Magazine OnlineScientists Probe a Mystery Beneath Bermuda&nbsp;&nbsp;Carnegie ScienceThe deep-earth mystery hidden beneath Bermuda’s pink sands&nbsp;&nbsp;The Times of IndiaScientists solve Bermuda mystery after discovering hidden structure below the ocean&nbsp;&nbsp;MSNA long-hidden mystery beneath Bermuda is being revealed&nbsp;&nbsp;Tech Explorist",
       "sources": [
         {
-          "name": "The Daily Galaxy",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PRTBtdTNYb3BjclBrZ2VEWTZoeDRua2V1bWZRYWxBeGtJNFRrYnRfV2ZKTlhSVHYybVJSUEtNd0xzNDhxeDRscno1d25SVXhWOHZtRFc2dXJYOWsyRVlIUVBvM3hxdm1nZzBNdUpqTVh2dDZfcWNyRkRJaHpUZw?oc=5"
+          "name": "Charisma Magazine Online",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZDJOd3ozVVVEMGpPbjhITlQzMDFrOWNBdWxZeWY4eFBFZ0lQX0pzRWdPTkNPd0VVeVhETnVfa3lvOXRKUGlGcHl1ODVYRmJHR2pYQlpQNVNYUUNFTTdFZjg1M1pjWUY0LVBKNlV6RFhQS3RpUmlxd0s2QUg1MzNzdVdtX2FMcU5yakhLTEl2UG5fa2cyaVJTUEZxNmwtTWptMHF3MldIT0prQVZUd3FfTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f771de6047a0",
+      "title": "The silent vitamin deficiency experts say could increase your cancer risk over time - The Times of India",
+      "published": "2026-05-13T15:09:28+00:00",
+      "summary": "The silent vitamin deficiency experts say could increase your cancer risk over time&nbsp;&nbsp;The Times of IndiaA Common Vitamin Has a Complicated Link to Cancer, Experts Reveal&nbsp;&nbsp;ScienceAlertVitamin B12 Cancer Debate Deepens Amid New Health Risks&nbsp;&nbsp;The Eastern Herald7 symptoms of vitamin B12 deficiency you shouldn't ignore, doctor explains why&nbsp;&nbsp;MSNVitamin B12: Essential nutrient, but studies explore possible link between excess levels and cancer&nbsp;&nbsp;Daijiworl",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOakM0VXJ5QUlNNHkycm91RFZJNXI2WW0tMkx0T0kxY1BJN0xEc3Uyb0t5dG04czgzOTlCV0VDd01uMWM0TmtkbGpMWExSOEEwSFdCR3Y4RC0xWWRFSTF5VVF6TU5yb3lDMFJlNVZUcTZ1eDRZaUpwMzI0bGtYc2NCTzZhLXhwVHRRUm1CLW9yYnBldDBfVmJXS0VrVXdYR1JSZFpNdllWQWc4ZEFxeGhGS0ZzRkIzbU0tb0JjSHpKcjN1c3dvTlJzOEM1Tjk3akx3eENEXzFRdkJXNTlCS1lGNHAtZzRZQdIB7gFBVV95cUxNbHh0MklrNmNiNmYtb0Z6LW9qSWYwMTgzdHdnWm9kOHN0TURPNWYtS2J4V0tuVWtiQk5KdFVsRUhOMDdBV2JFaU93YUtnejNHNDlYZG9wWmJsWDdnaExESGwtc051cHdMSFFhZUtCcjdmdjRqaXFxbkNLT1dySzBmVEdOLUEzTG9PWlRmU2pGWmJxeGM0UWpuMU1JM2FFSlJZU212MVZSZmNkaEhvaUhWOEN0bi1tYnY5Q2dMTEFkdFUxeUs2YU5Qemp3YVc1cjhkVFIxYlNXNklXZFdPeEVnMGNvbFhaRHRNZnhKNTB3?oc=5"
         }
       ]
     },
@@ -165,7 +201,7 @@
       "id": "6361f5d7b861",
       "title": "MN resident possibly exposed to Hantavirus - KELOLAND.com",
       "published": "2026-05-13T15:01:52+00:00",
-      "summary": "MN resident possibly exposed to Hantavirus&nbsp;&nbsp;KELOLAND.comHealth officials are monitoring Minnesotan potentially exposed to hantavirus&nbsp;&nbsp;MPR News2 Maryland residents exposed to hantavirus while traveling near infected passenger&nbsp;&nbsp;WTOPMinnesotan being monitored for potential exposure to hantavirus&nbsp;&nbsp;kare11.comIs the Hantavirus in the US? Map Shows States Where Passengers Have Returned Home&nbsp;&nbsp;TODAY.com",
+      "summary": "MN resident possibly exposed to Hantavirus&nbsp;&nbsp;KELOLAND.comHealth officials are monitoring Minnesotan potentially exposed to hantavirus&nbsp;&nbsp;MPR News2 Maryland residents exposed to hantavirus while traveling near infected passenger&nbsp;&nbsp;WTOPMinnesotan being monitored for potential exposure to hantavirus&nbsp;&nbsp;kare11.com3 people in Maryland and Virginia are being monitored for hantavirus&nbsp;&nbsp;NBC4 Washington",
       "sources": [
         {
           "name": "KELOLAND.com",
@@ -198,10 +234,22 @@
       ]
     },
     {
+      "id": "502c3cb931f7",
+      "title": "Want to Reverse Your Biological Age? A New Study Says to Change What You Eat - inc.com",
+      "published": "2026-05-13T14:52:15+00:00",
+      "summary": "Want to Reverse Your Biological Age? A New Study Says to Change What You Eat&nbsp;&nbsp;inc.comScientists reversed biological age in older adults with a 4-week diet change&nbsp;&nbsp;ScienceDailyDietary changes in older people can improve 'biological age'&nbsp;&nbsp;The University of SydneyFour Weeks of Eating Differently Can Make Your Body Biologically Younger, New Study Finds&nbsp;&nbsp;ScienceBlog.comFour-week diet intervention shifts biological aging markers&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "inc.com",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMUFsaS1pSkdiUm40dm95WjF6aFlOOFJOTmNJdTRCRWlPdjFaczgtSHljeWIzWUZXNlJGVk5LcXpGMXFOQ3hBSUNkOWRSTkltR2RnLVhKWFdKbkY0bWFabzdUSWtvU2RGZzdFNzcxUDFqX21xTFhseG9rQzc3bEpLdWN2S2pHa0ZQbG9wZEFIc19qNmpxNDBmYl9tMWdsZ3Y2b01EWWJtV0dZNnFJZExiODlzbGFDbWVN?oc=5"
+        }
+      ]
+    },
+    {
       "id": "70f0dc0af7c4",
       "title": "This daily habit could lower dementia risk by 35%, scientists say - ScienceDaily",
       "published": "2026-05-13T14:31:31+00:00",
-      "summary": "This daily habit could lower dementia risk by 35%, scientists say&nbsp;&nbsp;ScienceDailyCaffeine may influence the way the brain responds to touch&nbsp;&nbsp;Medical XpressThe surprisingly strong case for feeling great about your coffee habit&nbsp;&nbsp;vox.comDo Coffee’s Health Benefits Depend on Caffeine? Scientists Put It to the Test&nbsp;&nbsp;Food & WineYour morning coffee could be silently changing how you respond to touch&nbsp;&nbsp;The Independent",
+      "summary": "This daily habit could lower dementia risk by 35%, scientists say&nbsp;&nbsp;ScienceDailyThe surprisingly strong case for feeling great about your coffee habit&nbsp;&nbsp;vox.comCaffeine may influence the way the brain responds to touch&nbsp;&nbsp;Medical XpressThe surprise impact your morning coffee could be having on your body&nbsp;&nbsp;The IndependentDo Coffee’s Health Benefits Depend on Caffeine? Scientists Put It to the Test&nbsp;&nbsp;Food & Wine",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -213,7 +261,7 @@
       "id": "d09b7f01aa9f",
       "title": "Woman isolating on British island in South Pacific after hantavirus contact - BBC",
       "published": "2026-05-13T14:16:08+00:00",
-      "summary": "Woman isolating on British island in South Pacific after hantavirus contact&nbsp;&nbsp;BBCHantavirus 'contact' case quarantined in Pitcairn after short transit in Tahiti&nbsp;&nbsp;RNZHantavirus swoop on Brit tourist in Italian bar who was on plane with woman who died&nbsp;&nbsp;The MirrorRat bug case feared on ANOTHER Brit isle - as Italy forces UK tourist to isolate&nbsp;&nbsp;the-sun.comBrit tourist is taken into month-long hantavirus quarantine in Italy - despite testing negative&nbsp;&nbsp;",
+      "summary": "Woman isolating on British island in South Pacific after hantavirus contact&nbsp;&nbsp;BBCHantavirus swoop on Brit tourist in Italian bar who was on plane with woman who died&nbsp;&nbsp;The MirrorRat bug case feared on ANOTHER Brit isle - as Italy forces UK tourist to isolate&nbsp;&nbsp;the-sun.comDraconian Measures: British Tourist Endures Month-Long Quarantine in Milan Over Hantavirus Panic&nbsp;&nbsp;streamlinefeed.co.keBrit tourist is taken into month-long hantavirus quarantine in Italy - de",
       "sources": [
         {
           "name": "BBC",
@@ -225,7 +273,7 @@
       "id": "b1bcf723e683",
       "title": "American Who Wasn’t On Doomed Cruise Is Feared to Have Caught Rat Virus - The Daily Beast",
       "published": "2026-05-13T14:15:00+00:00",
-      "summary": "American Who Wasn’t On Doomed Cruise Is Feared to Have Caught Rat Virus&nbsp;&nbsp;The Daily BeastPossible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship&nbsp;&nbsp;People.comIllinois health officials investigating possible hantavirus case in Winnebago County not linked to cruise ship&nbsp;&nbsp;CBS NewsHow did an Illinois resident potentially contract hantavirus? What we've learned&nbsp;&nbsp;NBC 5 ChicagoCruise passengers are quarantining, but for how long? Latest on hantavirus",
+      "summary": "American Who Wasn’t On Doomed Cruise Is Feared to Have Caught Rat Virus&nbsp;&nbsp;The Daily BeastIllinois health officials investigating possible hantavirus case in Winnebago County not linked to cruise ship&nbsp;&nbsp;CBS NewsPossible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship&nbsp;&nbsp;People.comHow did an Illinois resident potentially contract hantavirus? What we've learned&nbsp;&nbsp;NBC 5 ChicagoCruise passengers are quarantining, but for how long? Latest on hantavirus",
       "sources": [
         {
           "name": "The Daily Beast",
@@ -249,7 +297,7 @@
       "id": "df6f33e29e07",
       "title": "Cruise ship passenger making best of quarantine in US after hantavirus outbreak - WWLP",
       "published": "2026-05-13T13:07:42+00:00",
-      "summary": "Cruise ship passenger making best of quarantine in US after hantavirus outbreak&nbsp;&nbsp;WWLPSee more headlines & perspectives on Google News",
+      "summary": "Cruise ship passenger making best of quarantine in US after hantavirus outbreak&nbsp;&nbsp;WWLPWhat it's like for passengers isolating in hantavirus quarantine in Nebraska&nbsp;&nbsp;BBCAmericans exposed to hantavirus remain in quarantine as testing and monitoring for symptoms continue&nbsp;&nbsp;NBC NewsHantavirus outbreak on cruise ship was series of ‘weird coincidences,’ Boston travel influencer tells ‘GMA’&nbsp;&nbsp;The Boston GlobeHow a Hantavirus Cruise Passenger Is Spending His Quarantin",
       "sources": [
         {
           "name": "WWLP",
@@ -261,7 +309,7 @@
       "id": "d16cbf1005b0",
       "title": "30-mile-high clouds of acid on Venus are made by the largest 'hydraulic jump' in the solar system - Space",
       "published": "2026-05-13T13:00:00+00:00",
-      "summary": "30-mile-high clouds of acid on Venus are made by the largest 'hydraulic jump' in the solar system&nbsp;&nbsp;SpaceWhat Your Kitchen Sink Has in Common With Venus&nbsp;&nbsp;Universe TodayA Gigantic Atmospheric Anomaly Keeps Showing Up on Venus. Astronomers Finally Know Why&nbsp;&nbsp;GizmodoResearchers explain mysterious cause of 6,000-kilometer cloud wall on Venus&nbsp;&nbsp;The Brighter Side of NewsWhere Can You Hide From Venus's Sulfuric Acid Rain? Pretty Much Anywhere On The Planet's 737 Kel",
+      "summary": "30-mile-high clouds of acid on Venus are made by the largest 'hydraulic jump' in the solar system&nbsp;&nbsp;SpaceWhat Your Kitchen Sink Has in Common With Venus&nbsp;&nbsp;Universe TodayA Gigantic Atmospheric Anomaly Keeps Showing Up on Venus. Astronomers Finally Know Why&nbsp;&nbsp;GizmodoResearchers explain mysterious cause of 6,000-kilometer cloud wall on Venus&nbsp;&nbsp;The Brighter Side of NewsA 3,700-mile wall of acid clouds has been racing around Venus for decades, and scientists say th",
       "sources": [
         {
           "name": "Space",
@@ -273,7 +321,7 @@
       "id": "df26d61d01ce",
       "title": "'Forever Chemicals' Found in 98.8% of Human Blood Samples Tested - ScienceAlert",
       "published": "2026-05-13T12:03:37+00:00",
-      "summary": "'Forever Chemicals' Found in 98.8% of Human Blood Samples Tested&nbsp;&nbsp;ScienceAlert'Wouldn't you want to know?': Families in contaminated communities weigh PFAS blood tests&nbsp;&nbsp;WGME'Forever chemicals' are now showing up in almost everyone’s blood&nbsp;&nbsp;Earth.comStudy finds multiple PFAS, the man-made ‘forever chemicals’, in 98.5% of people tested in US study&nbsp;&nbsp;Taylor & Francis NewsroomForever chemicals found in almost every blood sample tested&nbsp;&nbsp;diabetes.co.uk",
+      "summary": "'Forever Chemicals' Found in 98.8% of Human Blood Samples Tested&nbsp;&nbsp;ScienceAlert'Wouldn't you want to know?': Families in contaminated communities weigh PFAS blood tests&nbsp;&nbsp;WGME'Forever Chemicals' Detected In 98.8% Of Human Blood, What It Means For You&nbsp;&nbsp;NDTV'Forever chemicals' are now showing up in almost everyone’s blood&nbsp;&nbsp;Earth.comStudy finds multiple PFAS, the man-made ‘forever chemicals’, in 98.5% of people tested in US study&nbsp;&nbsp;Taylor & Francis New",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -282,22 +330,10 @@
       ]
     },
     {
-      "id": "663d07c6b469",
-      "title": "Scientists Discover Neanderthals Were Using Teeth as Weapons, Just Not Their Own - Indian Defence Review",
-      "published": "2026-05-13T11:30:00+00:00",
-      "summary": "Scientists Discover Neanderthals Were Using Teeth as Weapons, Just Not Their Own&nbsp;&nbsp;Indian Defence ReviewNeanderthals used rhinoceros teeth as tools for making stone implements, study finds&nbsp;&nbsp;Archaeology News Online MagazineNews - Neanderthals May Have Used Rhino Teeth as Tools&nbsp;&nbsp;Archaeology MagazineModern experiments suggest rhino teeth may have been part of Neanderthal toolkits&nbsp;&nbsp;Phys.orgNeandertals used rhinoceros teeth as tools&nbsp;&nbsp;Science News",
-      "sources": [
-        {
-          "name": "Indian Defence Review",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUJ5eTNCTGxTTnlKajRHeUxjZFBMalBidGtYZElyZWJaZHdhd1dFTXpSRl9oWU9qNFp1enE2ZmM5QWpsa2YzcmJ3WmtMalAwcEFKU2tEVlM1Ump0ZVk4ZTBzcnBTenlzWGVaUXJ0b194TFcxZHNSSnpRM04tdC01NXNwQUFQaTVoZkVlZWVpU1pQbW5pMlFzREE1YjVHRnlIc0tEYzdFQ29iUFRQbHg5dF93?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fa9c96906555",
       "title": "We’re asking the wrong question about the hantavirus outbreak - vox.com",
       "published": "2026-05-13T11:15:00+00:00",
-      "summary": "We’re asking the wrong question about the hantavirus outbreak&nbsp;&nbsp;vox.comThe Hantavirus Outbreak Is Resurrecting Covid-Era Misinformation Tactics&nbsp;&nbsp;The New York TimesOne-on-one with the NYS Health Commissioner as three New Yorkers quarantine for hantavirus&nbsp;&nbsp;WRGBI’m fighting misinformation online. False hantavirus claims follow a now-familiar playbook&nbsp;&nbsp;statnews.comFive things to know about hantavirus from a Stanford Medicine expert&nbsp;&nbsp;Stanford Medicine",
+      "summary": "We’re asking the wrong question about the hantavirus outbreak&nbsp;&nbsp;vox.comThe Hantavirus Outbreak Is Resurrecting Covid-Era Misinformation Tactics&nbsp;&nbsp;The New York TimesHantavirus is not Covid-19, but ‘calm-mongering’ risks triggering post-Covid anxiety&nbsp;&nbsp;CNNOne-on-one with the NYS Health Commissioner as three New Yorkers quarantine for hantavirus&nbsp;&nbsp;WRGBOpinion | The real danger exposed by the hantavirus cruise outbreak&nbsp;&nbsp;The Washington Post",
       "sources": [
         {
           "name": "vox.com",
@@ -342,14 +378,14 @@
       ]
     },
     {
-      "id": "dcd144de8f83",
-      "title": "A Common Vitamin Has a Complicated Link to Cancer, Experts Reveal - ScienceAlert",
-      "published": "2026-05-13T02:43:01+00:00",
-      "summary": "A Common Vitamin Has a Complicated Link to Cancer, Experts Reveal&nbsp;&nbsp;ScienceAlertThe silent vitamin deficiency experts say could increase your cancer risk over time&nbsp;&nbsp;The Times of IndiaVitamin B12 Cancer Debate Deepens Amid New Health Risks&nbsp;&nbsp;The Eastern Herald7 symptoms of vitamin B12 deficiency you shouldn't ignore, doctor explains why&nbsp;&nbsp;MSNVitamin B12: Essential nutrient, but studies explore possible link between excess levels and cancer&nbsp;&nbsp;Daijiworl",
+      "id": "016a8f81628e",
+      "title": "You should probably eat more fiber. Here's why — and how to do it : Short Wave - NPR",
+      "published": "2026-05-13T07:00:00+00:00",
+      "summary": "You should probably eat more fiber. Here's why — and how to do it : Short Wave&nbsp;&nbsp;NPRNot All Fiber Is Equal: What Clinicians Need to Know&nbsp;&nbsp;Medscape‘Fibermaxxing’ has spurred the launch of fiber sodas and gummies. Is the craze going too far?&nbsp;&nbsp;MarketWatchIs fibremaxxing healthy? Harvard doc breaks down the pros and cons&nbsp;&nbsp;The Times of IndiaFibermaxxing and Why Pears Are the Perfect Superfood for Modern Nutrition Trends&nbsp;&nbsp;The Packer",
       "sources": [
         {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTkhWZ2pnYWtJbGg5dDA3S2tOemxpMGY1dTlfek1mVFhDMzczdEU2VTNZbkFCdzZraUFYYmJyUFRzV29Xc0dHbDEzajR1aVdFNTRfOHFqVGR0Z1ltemU5Slp2dEtWQy02dHdEUDdzUTRaeW9vaTdPMVVOT1J2OG1udG9aU2FrcXI0MnpWeGZNbDJMakpEOXBGdQ?oc=5"
+          "name": "NPR",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdkVRSmJnOVlvY3Z4SVdMTldnNksxRldOc2gyODhYZC1zZkZ1S1dfRlJmN0Q2YVNxdDF6T245RDQtek40eVZyNXpWeDB4dGhqdHVNRElfVFByMjVsczJfMDI5TzJHWUduaFhIaEZPS2t0a0N4NlpiZ1JFYUpSUmxpUFhOOUdoNzBy?oc=5"
         }
       ]
     },
@@ -366,10 +402,22 @@
       ]
     },
     {
+      "id": "2f9fe6f19105",
+      "title": "Researchers studying chronic pain found a brain pathway that may explain why pain keeps going long after an injury should have healed - Space Daily",
+      "published": "2026-05-13T01:08:06+00:00",
+      "summary": "Researchers studying chronic pain found a brain pathway that may explain why pain keeps going long after an injury should have healed&nbsp;&nbsp;Space DailyCan brain waves predict chronic pain?&nbsp;&nbsp;Schulich School of Medicine & DentistryFrom Lab to Life: Unlearning Chronic Pain&nbsp;&nbsp;The Times of IsraelScientists may have found the brain’s switch for chronic pain&nbsp;&nbsp;Futura, le média qui explore le monde",
+      "sources": [
+        {
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY2FJR2VHOEpsZ2QwVVpQRzQ5M1lpWmVLNlNHX0dZeUMxaTV6U2RTSERic3ZJNGJVSVpMX2x0dDlqX2lFbFFtZTZQUHhjTENWSDc3VlBmVGlKOWhfT1g0T1Y2WnFNTUVMdWdON3VodUM2aGFFbFAzU0dLaU5LaDVUQ002X1FmSFdHc2NOQnBUVVlNdTNPZXpHQVhJMXIzOWkzVlU0RGFXcTZvRUJCU181TTZ5T0xzbG96OGRkRzBkSFprZUh5QThVVUE2aUdyNGh6RWJ5TXlKYnlrcnQtd3p2VWRZejU1bXZOX05rTGhJRHZwb1VI?oc=5"
+        }
+      ]
+    },
+    {
       "id": "dc657f625e54",
       "title": "NASA's Next-Gen Mars Helicopter Rotors Have Broken The Sound Barrier in Tests - ScienceAlert",
       "published": "2026-05-12T23:32:59+00:00",
-      "summary": "NASA's Next-Gen Mars Helicopter Rotors Have Broken The Sound Barrier in Tests&nbsp;&nbsp;ScienceAlertNASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1&nbsp;&nbsp;NASA (.gov)Engineers at NASA’s Jet Propulsion Lab make a breakthrough in rotor technology&nbsp;&nbsp;Ars TechnicaNASA pushes next-gen Mars helicopter rotors through the sound barrier&nbsp;&nbsp;New AtlasNext-Gen Helicopter Blades Tested at Supersonic Speeds Ahead of 2028 Mission to Mars&nbsp;&nbsp;autoevolution",
+      "summary": "NASA's Next-Gen Mars Helicopter Rotors Have Broken The Sound Barrier in Tests&nbsp;&nbsp;ScienceAlertNASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1&nbsp;&nbsp;NASA Jet Propulsion Laboratory (JPL) (.gov)Engineers at NASA’s Jet Propulsion Lab make a breakthrough in rotor technology&nbsp;&nbsp;Ars TechnicaNext-Gen Helicopter Blades Tested at Supersonic Speeds Ahead of 2028 Mission to Mars&nbsp;&nbsp;autoevolutionNASA pushes next-gen Mars helicopter rotors through the sound barrier&nb",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -378,14 +426,26 @@
       ]
     },
     {
-      "id": "996ad2f62b8d",
-      "title": "Italy tests two people for hantavirus amid quarantine measures - Reuters",
-      "published": "2026-05-12T21:54:03+00:00",
-      "summary": "Italy tests two people for hantavirus amid quarantine measures&nbsp;&nbsp;ReutersPassenger with hantavirus was briefly on board a KLM aircraft in Johannesburg&nbsp;&nbsp;KLM Royal Dutch AirlinesFirst Person Outside Cruise Ship Is Suspected Of Hantavirus Infection&nbsp;&nbsp;Health Policy WatchFlight Attendant, 3 Others on a Plane Test Negative for Hantavirus&nbsp;&nbsp;TODAY.comItaly says four people quarantined for hantavirus have all tested negative&nbsp;&nbsp;The Detroit News",
+      "id": "6168c7d1456b",
+      "title": "US government studies into vaccine safety are being suppressed | Robert B Shpiner - The Guardian",
+      "published": "2026-05-12T23:29:00+00:00",
+      "summary": "US government studies into vaccine safety are being suppressed | Robert B Shpiner&nbsp;&nbsp;The GuardianCIDRAP Op-Ed: Why the FDA tried to bury studies showing vaccines are safe&nbsp;&nbsp;CIDRAPF.D.A. Blocked Publication of Research Finding Covid and Shingles Vaccines Were Safe&nbsp;&nbsp;The New York TimesWeekend reads: FDA blocked vaccine findings; ‘Frankencitations Ravage the Academic Countryside’; ‘Publish and Perish’&nbsp;&nbsp;Retraction WatchWhen vaccine research is silenced, Americans ",
       "sources": [
         {
-          "name": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNXzBLakZMUFlKWjhqV3hZd3ktckktMEhLVWRJSTNscGMwbTcxNldKVzgtM2tHOXRXaHY5ckMxclZfVHRiMW9HQVRWblZOdHJ0OXJlYi10NWZSV0tqa1JWNGZ6MzhUb1QyazNHUGcxUWhudmpQWlBLWGg5Q1pKcmFGaC1jTW0ycGJ0akhGQmstYXFGMmNybDZKUGFYQU9tdVNTY2xjMklJa2pyenkwUXZGQzJEN0RLdmhQQ1N6Rk9URFFZcEhzaHFFcw?oc=5"
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CaWh0Y3lYX0JaRmdlOGN0a25ZRmxpTXZ5TElEUURZQnBqUmhZMGRQV0VnRDhGUmllcDk3TTNPb2ZFUjhfdk9lSUdOMUdGSG03ZjRWYU92N2dScEVPNGplOVB4RTNVaDEzaXFVODIydUpCWVlLNFZhb2pyMXk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0ea39df1dd9e",
+      "title": "‘You only got one shot’: Ambulance crew says moving hantavirus patients was years in the making - WSB-TV",
+      "published": "2026-05-12T22:37:26+00:00",
+      "summary": "‘You only got one shot’: Ambulance crew says moving hantavirus patients was years in the making&nbsp;&nbsp;WSB-TVSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "WSB-TV",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYWxtTHFCSnpzaWc4aVNQanNiSEtGZW9NRXhZaGlab3RZYWZDYWFoVkd5Qmt4VHpmd3o1SF9kMUx6QzR4cWMtVXE2VjY1d2pKU0RsS29xWkVvM3NFc0g1V2pmemN3N0wwcmN3REctRmlQa0wxMEhxNVNCaXEzZUlQSDFMc3JsdDNDVndnSl9qNEVBQ05WS085Rmx6Nmo2MTdWN0dSZVR6RUhYX3FlNENDcF9JLWJRcENzN1p0WFJlcUpwenNmcURBeGFOcnlOekZVc2RrNXR4YkpFeTc2VVFXemV4bVZDbGNFUXfSAf4BQVVfeXFMT2N6M2dGWmU0VDRjRlphN0F3NnZCU3lGbzl5VlFuZ3M3UmJzN096LWhMR0lNNHVUQ3Uyd3kyTTZLMHFoQlpSMEFBNzVVeFpOaEFLMzZyeWphQjVvVFdWbnlSMmF4WkFwbXIxUWRaYTBsdk4tbTRENGJxOENsSmU2ZFU2U0tzcE93azBjZlA4bzhKRzRfcUsyQURwRTdiM1M4aFU2WGF6eWR1VVNXMF93eVFNNlp4NjFCbDMtMDAzQWFhRWhMOEF1MUtENWZEYnQyZW0wbERnelJiUW1zaHJ1dFBkMWkyLUJSVHhaWTV0Qnh4OGtaX2xJWHZXVTN6NlE?oc=5"
         }
       ]
     },
@@ -426,6 +486,18 @@
       ]
     },
     {
+      "id": "132626b12d00",
+      "title": "Uranus and Neptune could be full of rocks, new study suggests - Space",
+      "published": "2026-05-12T21:00:00+00:00",
+      "summary": "Uranus and Neptune could be full of rocks, new study suggests&nbsp;&nbsp;SpaceScientists Say Uranus And Neptune May Be Far Rockier Than Anyone Expected&nbsp;&nbsp;The Daily GalaxyThe hidden mysteries of our ice giant planets&nbsp;&nbsp;NatureNew Study Argues That Uranus And Neptune Are Rocky&nbsp;&nbsp;Orbital TodayEnd of the era of the ice giants: Uranus and Neptune turn out to be rocky worlds&nbsp;&nbsp;Universe Space Tech",
+      "sources": [
+        {
+          "name": "Space",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQmYxQWZJSUszT0MxNWxmME1TV3Ezak9Sem9Yd3pxYUxVekx0T1YxUUJZTFBySVJEWVMzQXNJTENYS3lGenN2YUZUNFFOM3hYU0hLcTMtUG5MTW8tUFA3ZWNKYXRsOWpGbEt4WmIwaF95Q2EwUzV2QVg1aG5ySWtldWJNS2JHZ21qUldMT3YtUlhqVGQt?oc=5"
+        }
+      ]
+    },
+    {
       "id": "85b2c58f3bec",
       "title": "New MRI Breakthrough Captures Stunningly Clear Images of the Eye and Brain - SciTechDaily",
       "published": "2026-05-12T20:31:35+00:00",
@@ -438,22 +510,10 @@
       ]
     },
     {
-      "id": "9bc52dd78473",
-      "title": "The hidden chemistry at the heart of the Milky Way - WBUR",
-      "published": "2026-05-12T20:05:39+00:00",
-      "summary": "The hidden chemistry at the heart of the Milky Way&nbsp;&nbsp;WBUR",
-      "sources": [
-        {
-          "name": "WBUR",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YczJCQ0JuT0V1X1ZJT0pPeldMZ0tXeHNDNjJKbENVMmxqVnl2VjdBcHUydm9ZM25MeE0wUk51SmFldlVkVkR5ZUpBZm5vclZSSG5OVUJENEtyYjkyRnEwMnlfUXJQa3NYbXk1UXl1N3lPc1dHeW1fQw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1989e2064da8",
       "title": "Cancer patients seek unproven antiparasitic treatments after actor's podcast appearance - CIDRAP",
       "published": "2026-05-12T19:39:08+00:00",
-      "summary": "Cancer patients seek unproven antiparasitic treatments after actor's podcast appearance&nbsp;&nbsp;CIDRAPJoe Rogan podcast appearance tied to rise in demand for alternative cancer treatment&nbsp;&nbsp;Fox NewsMore Cancer Patients Are Taking Ivermectin. Mel Gibson and Joe Rogan Might Be Why.&nbsp;&nbsp;The New York TimesIvermectin prescriptions more than double after celebrity endorses it as a cancer treatment on a high-profile podcast&nbsp;&nbsp;Medical XpressIvermectin prescriptions spiked afte",
+      "summary": "Cancer patients seek unproven antiparasitic treatments after actor's podcast appearance&nbsp;&nbsp;CIDRAPMore Cancer Patients Are Taking Ivermectin. Mel Gibson and Joe Rogan Might Be Why.&nbsp;&nbsp;The New York TimesJoe Rogan podcast appearance tied to rise in demand for alternative cancer treatment&nbsp;&nbsp;Fox NewsIvermectin prescriptions more than double after celebrity endorses it as a cancer treatment on a high-profile podcast&nbsp;&nbsp;Medical XpressIvermectin prescriptions spiked afte",
       "sources": [
         {
           "name": "CIDRAP",
@@ -470,18 +530,6 @@
         {
           "name": "Live Science",
           "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOY3NjZDA4UlN2emI4NlpLWVg0VS13WmhySEpOb0pZU0VPWUFlNlROc3k1dzZZSkVHQmhkSU1YN19xNEZ2Sk51d256eFJ2dDlieW5ReDlaeUE3cHVVcmhLTjcxMm02dVA0RV93UTlmTUdsUGtoLVZOYVQxMzBhbGhVcjhqM1JrWkJ6R2VnU2xkSEhTLXN0ZnRiaGtEMGtDLW9FS0hjYVFRZHNFRWRYajVRYUxxMldxaDhtYmtWb3ExUGRjeGVFcGlPOVI3UkRjMGp5SVgxNERWUGp3azR4UkdYbkVaRFJVdzhsa19pLXlJM0Ewb1E3bnAw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aaaec448caca",
-      "title": "Hantavirus outbreak origin still a mystery, medical experts address theories - ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-05-12T19:00:08+00:00",
-      "summary": "Hantavirus outbreak origin still a mystery, medical experts address theories&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosNMDOH: New Mexico’s hantavirus strain is different from strain linked to cruise ship&nbsp;&nbsp;KOB.comThe Mysterious Hantavirus Outbreak That Put the Virus on the Western Map&nbsp;&nbsp;Nautilus | ScienceNative America Callling: How Indigenous knowledge built the foundation for today’s response to the hantavirus outbreak&nbsp;&nbsp;Indianz.ComHere's Where Hanta",
-      "sources": [
-        {
-          "name": "ABC News - Breaking News, Latest News and Videos",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZm9kOURZd24tZUs5aWpGM0VmYUMwbllqQzh5SGI2R1RIaGppN1FGUDZoalRXcHlZZ1EwOEV6Uk5XRjR5ZDA2WjQyVU5sUXZ4X2Vudm94VDM2QjZoMElNZWhaNE96WHBtai10NEZwc1p3Z3FGOHRhdnJMaVlyanlPdkJZUXg1Tk41RWVLU0llWmdwN292NXdDdllkLXBsSTZnN09zajZKa05DSzh1ZlN1dC1NTdIBuAFBVV95cUxQS2hCTmtKbTZwY1Q1SWJzYnE0TUVUSkZSazd6cU1FTFFTNVp4YVNxUEVPcVBDREJJUFVBQjM0TnBlNU1xQXZUcVJvT2w2djNCSmFCNTFCVlhFbC1odTdBOUJ4WmFzX2V1UjFVaUpZSEZjczdwa0Y5LXNuVlZQNUVaSW5DbEI3VmR3NVNuaTB1b2pMXzNrRUMxMjlKaGlEZTNSczgyZkRWMVAxYV9aakVYNDM5X0k2UnVJ?oc=5"
         }
       ]
     },
@@ -513,11 +561,23 @@
       "id": "1b35bf2f2b30",
       "title": "Cannabis and tobacco co-use increases psychosis chances in high-risk cohorts: Study - Vanderbilt Health News",
       "published": "2026-05-12T18:02:48+00:00",
-      "summary": "Cannabis and tobacco co-use increases psychosis chances in high-risk cohorts: Study&nbsp;&nbsp;Vanderbilt Health NewsCannabis and tobacco co-use predicts psychosis in clinical high risk cohorts&nbsp;&nbsp;NatureCannabis and Tobacco Co-Use Increases Psychosis in High-Risks: Study&nbsp;&nbsp;Tobacco ReporterCannabis and Tobacco Combo Linked to Elevated Psychosis Risk in Vulnerable Individuals: Nature Mental Health Study&nbsp;&nbsp;geneonline.comStudy Finds Increased Psychosis Risk in High-Risk Gro",
+      "summary": "Cannabis and tobacco co-use increases psychosis chances in high-risk cohorts: Study&nbsp;&nbsp;Vanderbilt Health NewsCannabis and Tobacco Co-Use Increases Psychosis in High-Risks: Study&nbsp;&nbsp;Tobacco ReporterCannabis and Tobacco Combo Linked to Elevated Psychosis Risk in Vulnerable Individuals: Nature Mental Health Study&nbsp;&nbsp;geneonline.comStudy Finds Increased Psychosis Risk in High-Risk Groups with Combined Cannabis and Tobacco Use&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
           "name": "Vanderbilt Health News",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUTFKNUNpTHN2Y1BRZTAyczQzTG9STWxPblJlaGtJT3ZzaTV2c3doLVk1QmxzXzE3aVJvOEJrakhUbWdMdy1PWWtVRHA3R3Nta0dBNmlVV2U0Q0Z4YmgwZFpzWHZlNlpXbElnbi1wZWZwbzFnRTRyakZsQzJoQ0FwSTlFcU94WElaZmwwQ0ZDNS1NOXRJRjRLaWJ3NC05Zl85bEtSN3lIT0pfZ1E5dkNVVHdkTnJuS1U?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e04c3e12f789",
+      "title": "Cleaning out the shed or cottage for spring? Here’s how to protect yourself from hantavirus - CBC",
+      "published": "2026-05-12T17:31:30+00:00",
+      "summary": "Cleaning out the shed or cottage for spring? Here’s how to protect yourself from hantavirus&nbsp;&nbsp;CBCIn the news today: What we know about Hentavirus, Artemis crew meet PM, 6% milk?&nbsp;&nbsp;St. Albert GazetteCanada Monitoring Andes Hantavirus Exposure Linked To Antarctic Cruise Ship&nbsp;&nbsp;The Daily Scrum NewsQ & A | N.W.T.’s chief public health officer on hantavirus&nbsp;&nbsp;Yahoo News CanadaHere’s what cottagers need to know about their hantavirus exposure risk&nbsp;&nbsp;Cottage",
+      "sources": [
+        {
+          "name": "CBC",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONG8zd0F0T1draHZFdnAwb0FnbXo2alJSRkJQY29JM3lVWk9RWTZBbEVIdUpsdF9VZnA4cG0tTUJacWNCMlFrU0pvRjdjYkNIMlFNYk02SUVHN0pJNUxRWm9Yc1FFbzRkMk9LUFF2ak5rRVhjQlRHQ2FUMkkwQXNVWFF0bms?oc=5"
         }
       ]
     },
@@ -534,26 +594,26 @@
       ]
     },
     {
-      "id": "6ffeec24b2a6",
-      "title": "SpaceX scrubs Dragon cargo launch to International Space Station due to bad weather - Space",
-      "published": "2026-05-12T15:00:00+00:00",
-      "summary": "SpaceX scrubs Dragon cargo launch to International Space Station due to bad weather&nbsp;&nbsp;SpaceWeather forces SpaceX to scrub resupply launch to International Space Station&nbsp;&nbsp;Spectrum News 13Crew Preps for Dragon Arrival and Keeps Up Research, Maintenance&nbsp;&nbsp;NASA (.gov)SpaceX rocket launch in Florida. Best places to see Cape Canaveral liftoff&nbsp;&nbsp;Florida TodayFor a second time, poor weather scrubs Cargo Dragon mission launch to the space station&nbsp;&nbsp;Spacefligh",
+      "id": "b3f0bb3859ff",
+      "title": "5 ways to get more vitamin D without taking a supplement - The Washington Post",
+      "published": "2026-05-12T16:00:00+00:00",
+      "summary": "5 ways to get more vitamin D without taking a supplement&nbsp;&nbsp;The Washington PostVitamin D Timing Summer 2026 | Natural Morning Sun Health Hack&nbsp;&nbsp;Dainik Jagran MP CGHow to Suspect Vitamin D Deficiency in Children and Adults&nbsp;&nbsp;Inbox.eu",
       "sources": [
         {
-          "name": "Space",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPay1xUDhsYWJWVXFqMk9wWW1yMXZySkVPcGtGa05ESmZKa3B0c0QxVTlZRkloQ2tsLXZRWGkzYmdzekxjbmJQSDJUMS1sYUNUZi0xQkJaV3dRWTRPek9WQjRnZEFGZWNEcFpqMEZOUXRnbERKUExmbm9EanlVYzdMczQ3MUJkR3ZobzhEeDlIdHd5NmFxVkJydUpZdE4zUQ?oc=5"
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvSjU3QnZMS2VhNXIxVXdpT0xQWVJQdndFNjZwbC1KMVF0d3p3WTRaazBVWnV0dTQzRXVBbnhqcl9FYVNBdFdiQzN1OHNZM1JiOEdtcWhOREJrclR6cXRxWnhaNlhycG5OSWhxdno4MmY5aGkt?oc=5"
         }
       ]
     },
     {
-      "id": "6e1fdf657e3d",
-      "title": "Tiny Space Rock With Atmosphere Stuns Scientists - DOGO News",
-      "published": "2026-05-12T14:35:45+00:00",
-      "summary": "Tiny Space Rock With Atmosphere Stuns Scientists&nbsp;&nbsp;DOGO NewsSurprising Signs of an Atmosphere Around a Tiny World, Billions of Miles Away&nbsp;&nbsp;The New York TimesScientists discover a little object beyond Pluto that appears to have an atmosphere&nbsp;&nbsp;MashableAstronomers believe they’ve detected an atmosphere around a tiny, icy world beyond Pluto&nbsp;&nbsp;NBC NewsThe discovery of an atmosphere on a tiny Kuiper belt world&nbsp;&nbsp;Big Think",
+      "id": "e15bfc33bdda",
+      "title": "25-yr-old Calabrian man with Hantavirus symptoms transferred to Spallanzani Hospital - ANSA",
+      "published": "2026-05-12T12:37:00+00:00",
+      "summary": "25-yr-old Calabrian man with Hantavirus symptoms transferred to Spallanzani Hospital&nbsp;&nbsp;ANSAPassenger with hantavirus was briefly on board a KLM aircraft in Johannesburg&nbsp;&nbsp;KLM Royal Dutch AirlinesItaly tests two people for hantavirus amid quarantine measures&nbsp;&nbsp;ReutersFirst Person Outside Cruise Ship Is Suspected Of Hantavirus Infection&nbsp;&nbsp;Health Policy WatchFlight Attendant, 3 Others on a Plane Test Negative for Hantavirus&nbsp;&nbsp;TODAY.com",
       "sources": [
         {
-          "name": "DOGO News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdGhyaEtLeXZBOUFabXRVNF9aYjB1VTJOQkw1cy1CeW5lRmdCT1UtbUFtN2REeThaaElJNWVEQlhpbE02aVdINnVWYmNaOVA5WEJqX3FfQmh4YmE3ZGZvRFhTSjhpZnNsTXdac1NRTDFZM2luR2N2NlRmSG1ONW0xVDc2UXROU2tyMG0w?oc=5"
+          "name": "ANSA",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQU2Y2WWlydjhjTGZKWWhmd1Awdlg4Z0l5YjE0NHlkSVdkYkdfNm9IUkVGVTl0dUd3dElCaFZHNGYtM2dKaUdvZzlFeDYyRDU3VGlzRElWQTZDbmtnMldEQzNnS1o5a3RuNE1Rb1U1cGZDSmhZY1d0UV9Ec05RZVpKRFljZ0FOR3ladW8wTXBnYUdHZHFlZWtvTjRQMVdlc080QTlENUYwRmpsNjZqT1lRSzZHMFRXTDNwMG1SUUZORGQ3dzNGNFM1X1FXcE5UMHhCOC0zczhpbTd2a3Voa1YzdjBBV1lsb2Nyem1MVEtlRUY5ZWlRQWxYSDNqTG9lUWfSAYQCQVVfeXFMUFVtUDdVT3IyZXlsVTlzMzEyb1FVS1RkUjZSSnI3TThxZGVnMlNvSGpsQUdWdGE3OTRISU9QSDIwU1hOM05KREY0Qi1JVHZMSkNLU0J1RGNEdVg5WTRNcU80WHpHME0zcHZ3bGVSYjNuTExMWWxubVdWdHVCWlJsZV93a1BBb01SMTM1MHRsa09YR00tUGRqWHBuYTlYdFdlMmluUWUzaElveE9qcTVBc2FiSzNwN0VfcUVjN0lMTW9wNEh2b3dKUkZ4czF0U1BseEJZNHZJLUthZy1DdkttWDdVM3pZWVZNVmRfaXhObjMtYXZ2UnZrSS1OVThDQjJ0dW5TMU0?oc=5"
         }
       ]
     },
@@ -578,18 +638,6 @@
         {
           "name": "SciTechDaily",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORnN6cVFaUnJmSFpnblp0MFV4azlUdDJGeHhpR0tOR1k0UmVSQ0lRa1h1Vjd2RGRXb2ZRNFhTNmdhQVFfdVREcV94TEJDWWI4S1RWamlaTFdVTVN4d2pnTk9GSWJXVHBvSDduaGQ5MXZHZmp4MlNYekNseVV5cHRwY2tpQmEtX05iRGhxOG1EV1o4VXhpNWlndQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "705b533a8597",
-      "title": "Scientists Just Rewrote Biology: “Hidden” Mechanism Could Transform Diabetes Treatment - SciTechDaily",
-      "published": "2026-05-12T10:56:42+00:00",
-      "summary": "Scientists Just Rewrote Biology: “Hidden” Mechanism Could Transform Diabetes Treatment&nbsp;&nbsp;SciTechDaily",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcGhLenlvdFNRNFptbGEwMk5sdm9NOU5qWFhrNXRXM0pTSlh2ZTJnbHJScDlDV3A0S1hsQkR4OTJKc3dHdVhIR0szc1FoR2N1RVI2a1J4eVZfb3YxS3B6cDFVU1JqaGZpbjhPYWJldVp1SXl6bWlXTDh0c1BWTnlzU2g3NFFaUGczZzJJTkgwemN0VVNYQWM3MVNncmk3Q0ZrQzlLTEhINUxEU0JiaGc?oc=5"
         }
       ]
     },
@@ -633,7 +681,7 @@
       "id": "55b28e83ea92",
       "title": "She's trying to outrun pancreatic cancer. Breakthrough treatments give her hope - NPR",
       "published": "2026-05-12T09:00:00+00:00",
-      "summary": "She's trying to outrun pancreatic cancer. Breakthrough treatments give her hope&nbsp;&nbsp;NPRHow an ‘Impossible’ Idea Led to a Pancreatic Cancer Breakthrough&nbsp;&nbsp;The New York TimesRevolution Medicines (RVMD) Receives FDA’s “Safe to Proceed” Letter for Daraxonrasib&nbsp;&nbsp;Yahoo FinanceNew pancreatic cancer drug sees patients live almost twice as long in clinical trial&nbsp;&nbsp;WBAL-TVNorwalk Hospital patients help in critical breakthroughs in fight against pancreatic cancer&nbsp;&nb",
+      "summary": "She's trying to outrun pancreatic cancer. Breakthrough treatments give her hope&nbsp;&nbsp;NPRHow an ‘Impossible’ Idea Led to a Pancreatic Cancer Breakthrough&nbsp;&nbsp;The New York TimesRevolution Medicines (RVMD) Receives FDA’s “Safe to Proceed” Letter for Daraxonrasib&nbsp;&nbsp;Yahoo FinanceThe slippery protein problem&nbsp;&nbsp;Works in Progress MagazineFrom Lab to Life: Cancer Cells from ‘On’ to ‘Off’&nbsp;&nbsp;The Times of Israel",
       "sources": [
         {
           "name": "NPR",
@@ -645,23 +693,11 @@
       "id": "c63bfc11b8a9",
       "title": "Ancient bacterial toolkit links human gut health to ocean carbon cycling - Phys.org",
       "published": "2026-05-12T08:20:01+00:00",
-      "summary": "Ancient bacterial toolkit links human gut health to ocean carbon cycling&nbsp;&nbsp;Phys.orgBrown algae (IMAGE)&nbsp;&nbsp;EurekAlert!",
+      "summary": "Ancient bacterial toolkit links human gut health to ocean carbon cycling&nbsp;&nbsp;Phys.orgFrom ocean to gut: The bacteria that shape both human health and marine carbon cycling&nbsp;&nbsp;EurekAlert!",
       "sources": [
         {
           "name": "Phys.org",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fUFJYek5BTmMxV2ZNN1FtYzNXV3BERHhHam0wbVVZNlViemc3TndpaHFFd3E1SkRKaDVTMkxIRjhJdUZITVFwYnJQQUZ4SHR0bGR0T1BJS1VlSm1IU1RFVHpMM0ZvdXJ3b1ZMcm9YaGVXbWhoNTh1VHdHWno?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "52ef5a59ad37",
-      "title": "New Therapy Rewires the Brain To Restore Joy in Depression Patients - SciTechDaily",
-      "published": "2026-05-12T03:21:38+00:00",
-      "summary": "New Therapy Rewires the Brain To Restore Joy in Depression Patients&nbsp;&nbsp;SciTechDailyA promising new depression therapy focuses on finding paths to joy&nbsp;&nbsp;The Washington PostNew therapy targeting positive emotions may help treat depression: Study&nbsp;&nbsp;Mid-dayTargeting Positive vs Negative Emotions May Improve Depression, Anxiety Outcomes&nbsp;&nbsp;MedscapeA new therapy is helping people find joy again, and it’s flipping how we treat depression&nbsp;&nbsp;Good.is",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcS02emdxT0R5WGY2WC1NS2V0ZlpkbTFLUXI4ZnRXYkZSWTk1UnMyckgtOW1xcHh2QV9tNUdsc0NybUlLNXlHZ3A4Q1R0cFdsdVBjUF9HRGhSM0NzX1BmMmhRVmpBTUVfODJJdV9GeklvM2I5X1hkTHN6Z2JwRm5BZ2FDTTVJN2p5X2MxbkVLOFY1ZFhKNU9XVg?oc=5"
         }
       ]
     }

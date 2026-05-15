@@ -1,15 +1,159 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-14T19:53:26.848002+00:00",
-  "total_fetched": 123,
-  "unique_count": 122,
-  "health_related_count": 64,
+  "fetched_at": "2026-05-15T03:45:26.567091+00:00",
+  "total_fetched": 131,
+  "unique_count": 131,
+  "health_related_count": 73,
   "news": [
+    {
+      "id": "12fd58f996da",
+      "title": "Prostate cancer screening can save lives but ‘absolute benefit is small’, study says - The Guardian",
+      "published": "2026-05-15T00:00:00+00:00",
+      "summary": "Prostate cancer screening can save lives but ‘absolute benefit is small’, study says&nbsp;&nbsp;The GuardianPSA screening for prostate cancer reduces disease-specific deaths, new review shows&nbsp;&nbsp;statnews.comProstate cancer screening ‘would save thousands of lives’&nbsp;&nbsp;The TelegraphProstate cancer screening through a blood test 'could reduce deaths'&nbsp;&nbsp;The MirrorScreening modestly reduces prostate cancer deaths&nbsp;&nbsp;EurekAlert!",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU0lJYTlKVWphMWt1M0dLLTZ3YzZVVmhiWUZKU2l3dUpiamNlRkNOa1Y0OG1ZcnhySms2ZmxrUlZYVVZhcXFNOHMxTGhnZWdQS2hLYzQzZWFFb08tUS02eE1kTk5yeU42eXFvSHFFaEZlUFQ0SHoyMmpuSmhUSlVVZlk2MDlNeUdCTFltUUhNZnFSR1I2SVhjaEl2ZlNiVmxIaDIwaTlFdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "467680c0f596",
+      "title": "This Surprising Protein May Lower Your Alzheimer’s Risk by 27%, New Study Says - EatingWell",
+      "published": "2026-05-14T23:47:12+00:00",
+      "summary": "This Surprising Protein May Lower Your Alzheimer’s Risk by 27%, New Study Says&nbsp;&nbsp;EatingWellEating One Egg a Day Could Cut Alzheimer’s Risk by 27%&nbsp;&nbsp;SciTechDailyAlzheimer’s risk slashed by eating more of one common food, study suggests&nbsp;&nbsp;Fox NewsIs it true that eating more eggs could help lower Alzheimer's risk?&nbsp;&nbsp;Medical News TodayFrom Lab to Life: Eggs Got a Bad Rap&nbsp;&nbsp;The Times of Israel",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0N1cwajk5N3NjTDM5VmJVeXlFZjFoZEhya21PSGhuOURjWVduQVU1eWxIQmZFZE9CaDhZQWRzbkRCc1ZBYlNobFctNWZ6U01sRmIxZlFSc01PblpTZTJZLUwyVTBkSl90THg0NXZsMHFtNW5EZ2N5OFlwdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bd74c4421386",
+      "title": "American passenger from hantavirus-hit cruise ship speaks about life in quarantine - CBS News",
+      "published": "2026-05-14T23:17:56+00:00",
+      "summary": "American passenger from hantavirus-hit cruise ship speaks about life in quarantine&nbsp;&nbsp;CBS NewsWhat it's like for passengers isolating in hantavirus quarantine in Nebraska&nbsp;&nbsp;BBCFlatwater Explains: Why are hantavirus patients in Omaha?&nbsp;&nbsp;Flatwater Free PressAmericans exposed to hantavirus remain in quarantine as testing and monitoring for symptoms continue&nbsp;&nbsp;NBC NewsA 42-day hantavirus quarantine is giving me a career boost I never dreamed of&nbsp;&nbsp;Business ",
+      "sources": [
+        {
+          "name": "CBS News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOalFwa0NfQ0xuelJ4SWI2a0M5R0FVeWlsRktzSGtNV0d1TXVqOThqSjE1OWFtaU9tX2VYZ05wYUFNcmNMNFZfR0cwWkVjVFRqUjZxX2NzVlAwcWdTZ19DbEtSYUs3UllXcnhXdTBmUGNaajk3NTdLa3JydFVvQnpUUWNOMkQzSjlwc1hjb3Fxd9IBlAFBVV95cUxQc0xlY1REUUtHWEZoUThzRy1NX1BkZS1qR1pNMUZqeHlmLU5Gbmw4Q2FEc2RnaGR3Yk9KR29RUU9rNkVjelQ2bTVyaEFfWVpQanIyMF8xSzVCTjdmRDF6V2NodV9lOS0tMGZBWUxVdzAzam1NVjRQcDJPTXBaQ3NRNHFFWTNLZG5BMTZHOWRLVlBERDJG?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e84d5a6da06c",
+      "title": "Antidepressants in pregnancy do not raise children’s risk of autism or ADHD, study finds - The Guardian",
+      "published": "2026-05-14T22:30:00+00:00",
+      "summary": "Antidepressants in pregnancy do not raise children’s risk of autism or ADHD, study finds&nbsp;&nbsp;The GuardianConcerns over antidepressants and pregnancy have grown. New study offers reassurance&nbsp;&nbsp;CNNNo clear autism link to antidepressant use during pregnancy, large study finds&nbsp;&nbsp;YahooAntidepressant use in pregnancy shows no clear autism or ADHD link&nbsp;&nbsp;Medical XpressAntidepressants in Pregnancy: What a New Study Found&nbsp;&nbsp;MedPage Today",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkctWGJtNzVVUXJUN3RVNW1jQU1xRm5jcDdOaV9VSndINmR2UWh5S1FxMEFVcTE3d1dtcTFHRzhnYU03eXBzNmVCSEF4blVHczFGRDNMZ1RQcmlHYkwyZGlUYW15NDl5emVCMS1TUTk4V0pYb3VfNHRsNFpaU1FTTGI2bWJFNGNvcnRQaEZfWXR4em8yTFRkRzUyQURqZ1ZLRG1QTmJpbXZFOF9TdE5PcEpST0ZFWjg0eVN1ZQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5f74056d3733",
+      "title": "U.S. reports no hantavirus cases from cruise outbreak, monitors 41 - Reuters",
+      "published": "2026-05-14T21:18:10+00:00",
+      "summary": "U.S. reports no hantavirus cases from cruise outbreak, monitors 41&nbsp;&nbsp;Reuters16 More People in the U.S. Are Being Monitored for Hantavirus, C.D.C. Says&nbsp;&nbsp;The New York Times41 people being monitored for hantavirus exposure. See map of states.&nbsp;&nbsp;USA TodayIs the Hantavirus in the US? Map Shows States Where Passengers Have Returned Home&nbsp;&nbsp;TODAY.comCDC says there are no U.S. hantavirus cases currently, 41 people being monitored&nbsp;&nbsp;CNBC",
+      "sources": [
+        {
+          "name": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSk1rZUZPSVowU3YxdHh2NHNwVURVMlQ2X2VCWEhHTjNkVklzYlpIT3dLNk8zSVZWREhIOU1nN0NLV0dENUlUajUzY1RiTjVXWEVqVGNzcXpoUU9LeUxxRXItZVJYRGk0N1k5MFBhQUxDcGNaRkxMSS1XSlNZZGF0NjNRRTNEVFJxMmF3RDRPUzQzWVMycF9kYktoWkh2d0dLbGRfR1h6cFM4c1lFZS1OV0tMQnhoRXR6YWJQTw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5e4dea6ebea5",
+      "title": "Osterholm on hantavirus: We’re missing ‘main point of this outbreak’ - CIDRAP",
+      "published": "2026-05-14T21:17:37+00:00",
+      "summary": "Osterholm on hantavirus: We’re missing ‘main point of this outbreak’&nbsp;&nbsp;CIDRAPDr. Osterholm: ‘No question’ hantavirus is ‘on the end of its run’&nbsp;&nbsp;YahooHantavirus outbreak 'on the end of its run right now,' expert says&nbsp;&nbsp;6abc Philadelphia",
+      "sources": [
+        {
+          "name": "CIDRAP",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeDlqbS13UlZ1TGtIcTkydlRad2MyN2hidV9UUWtnQkk5dmZpQzFRaHl5SHJZQXZsdWRSTlJjX3c0MkZVekdvVjBzVl9Ud0JTbVhiUWU0ZEhYcEFpVTNCbjlmN2xlMnp4cl84V0JoY0dKdTROY0E4Y25HYklLQUFhRnNRM3p5ZzJXMzYzYlI4X3JPbmFTMU1aejdzTDVONjh1VmUzNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "08b94beca085",
+      "title": "Expert issues severe warning about 'ballmaxxing' as more young men doing it - LADbible",
+      "published": "2026-05-14T21:13:58+00:00",
+      "summary": "Expert issues severe warning about 'ballmaxxing' as more young men doing it&nbsp;&nbsp;LADbible'Ballmaxxing:' Experts Say It's More Dangerous Than You Think&nbsp;&nbsp;HealthlineHow The ‘Ballmaxxing’ DIY Trend Brings Dangers To Men’s Genitals&nbsp;&nbsp;ForbesBallmaxing trend gets severe health warning as men expand their testicles&nbsp;&nbsp;UNILAD Tech‘Ballmaxxers’ explain why they do dangerous trend as doctor issues severe warning&nbsp;&nbsp;LADbible",
+      "sources": [
+        {
+          "name": "LADbible",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdnpzYUtsMXFzTTN3LXc3VHhyOFVpMWFCLThsYkhqZi0tN0IzYi1MVFR3c085OUQ2dFNWVl9EVlBxWlNvaVE1MkNIbGhBNFM4RW5xSGNwZTh2TTNYM3o2cnhyV1YzMzBFSkN4UWlubmkwOWVyTHFDcmtsSnhPWnh6aWx0V3hDT1lFNEVYcUpR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "48f6a1067bf7",
+      "title": "Woman with boobs so big she can’t even play with her son denied surgery by NHS - LADbible",
+      "published": "2026-05-14T21:11:50+00:00",
+      "summary": "Woman with boobs so big she can’t even play with her son denied surgery by NHS&nbsp;&nbsp;LADbible'My 32HH boobs are so big I can't sleep or play with son - but NHS refuses reduction'&nbsp;&nbsp;dailystar.co.uk",
+      "sources": [
+        {
+          "name": "LADbible",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZG9iWWl2OFJBZHl0QTVVcVZTT0dVSzdOYS1PSy1WZUt4WUxDbGpxVTFiNVowRnhIdHdrb2hMVGROMk5TcGUyY2RPZDJETno4dVh1b1ZiVTM1UzQ5MXZ6TTlndTZjc3JmSEtkMFd0V1M0SENCaFdYQ3hSaVdBQndOYVNaWUs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4b1ec374190f",
+      "title": "Ten times worse than benzene — California updates its science on two chemicals in everyday air - Los Angeles Times",
+      "published": "2026-05-14T20:00:55+00:00",
+      "summary": "Ten times worse than benzene — California updates its science on two chemicals in everyday air&nbsp;&nbsp;Los Angeles TimesCalif. steps up chemical reviews amid EPA program demise&nbsp;&nbsp;E&amp;E News by POLITICOCalifornia begins review of two carcinogens, points to new data about cancer risk&nbsp;&nbsp;Courthouse NewsSCV News | OEHHA Releases Draft Cancer Risk Values for Acrolein, Ethylene Oxide&nbsp;&nbsp;SCVNews.com",
+      "sources": [
+        {
+          "name": "Los Angeles Times",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNDZlUmNaeDFkbTlIYzQ4ZldYcGNvVnlNVURVUGV1QjhUMEZhYUhqYjRMYjZVR2YtN1JpS0VBeEdiaVVoa05HeDYzLUJCVTFIWEowNm5LZkZSc1hZcWNCNzh1UWhKRWdFNTUwa2MydTFnNWFESHNTQzhtbWkyRnZVOTNzel9rNmdERS1xM2s2UXE2SWtUZ2d2c0xTZ3dvY1RRdkphTmlLNlV5UW8tTDFJXzE4WXNYRUVHdU56M1A1eFl0TlIxeXhhQ3BxUUtrUWhfdnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "899fcca3301c",
+      "title": "Hantavirus Doesn’t Spread Easily, but Officials May Be Downplaying Risks - The New York Times",
+      "published": "2026-05-14T19:53:09+00:00",
+      "summary": "Hantavirus Doesn’t Spread Easily, but Officials May Be Downplaying Risks&nbsp;&nbsp;The New York TimesHantavirus outbreak isn't another Covid pandemic – but experts say it's testing U.S. readiness&nbsp;&nbsp;CNBCWhy hantavirus is not like COVID, according to infectious disease experts&nbsp;&nbsp;CBS NewsFive things to know about hantavirus from a Stanford Medicine expert&nbsp;&nbsp;Stanford MedicineHantavirus Cruise Ship Outbreak: What We Know So Far&nbsp;&nbsp;the-scientist.com",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91VnFNY3d0UDZmVmVycEZUNVg4LVExcktzb2s5TGl3QkJfUm5LRWF4TUN5ZDZXLVR2OE1HLUpGMFh3NDVneEdQVnBFQmFvS0lhMy0yMGpHR2VMOEYwTk1GQ2hieXYwazhWTkdHczd0NEV3Rl8tTXdyZA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "efb030a2dfd3",
+      "title": "Scientists Discover a “Shy” Plant That Can Count Without a Brain, and It May Be Smarter Than We Thought - The Daily Galaxy",
+      "published": "2026-05-14T19:30:00+00:00",
+      "summary": "Scientists Discover a “Shy” Plant That Can Count Without a Brain, and It May Be Smarter Than We Thought&nbsp;&nbsp;The Daily Galaxy",
+      "sources": [
+        {
+          "name": "The Daily Galaxy",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jWTAtQXA3UmFhR3dkQkI4V1NoeWg4TDloZGFHcGFWLTFUbzN1clQyaF83NC1wT2ZhMzdkNFhfSUY3di02cEF6TUt4QjRaRXpMQmpMQXBBelVObHI1RzNhR3MtTFRYMzVZcE0yVTVaR3d5WEFtSFU0SllMWG4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b96e38a143ee",
+      "title": "Hallucinated citations highest in social sciences preprints site - Nature",
+      "published": "2026-05-14T19:24:10+00:00",
+      "summary": "Hallucinated citations highest in social sciences preprints site&nbsp;&nbsp;NatureAI is fabricating citations in biomedical studies, researchers find&nbsp;&nbsp;CBS NewsOne in 277 PubMed-indexed papers in 2026 shows fabricated references, says analysis&nbsp;&nbsp;Retraction WatchFraudulent citations, blamed on AI hallucinations, are becoming more common in research papers&nbsp;&nbsp;statnews.comThousands of medical papers found citing studies that never existed: Report | Study raised concerns ov",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uSUFsdGhHMlhRdkR2MC1Ib3lVZzZTQ1loMVpfWEpzVWFyZlZHOHpTeWMxcEh4c25zcjFTbGU4T1FLbDd4UFVLdm5PaUZjdVN1SUU0eDdCQTJGamMycmlz?oc=5"
+        }
+      ]
+    },
     {
       "id": "dd1a820f3414",
       "title": "US cancer clinics scramble to get experimental Revolution Medicines pancreatic cancer drug - Reuters",
       "published": "2026-05-14T18:22:34+00:00",
-      "summary": "US cancer clinics scramble to get experimental Revolution Medicines pancreatic cancer drug&nbsp;&nbsp;ReutersHow an ‘Impossible’ Idea Led to a Pancreatic Cancer Breakthrough&nbsp;&nbsp;The New York TimesPancreatic Cancer Breakthrough Drug Extends Lives of Patients: 'I Had a Full Year of Normalcy'&nbsp;&nbsp;People.comNew pancreatic cancer drug sees patients live almost twice as long in clinical trial&nbsp;&nbsp;WBAL-TVShe's trying to outrun pancreatic cancer. Breakthrough treatments give her hop",
+      "summary": "US cancer clinics scramble to get experimental Revolution Medicines pancreatic cancer drug&nbsp;&nbsp;ReutersHow an ‘Impossible’ Idea Led to a Pancreatic Cancer Breakthrough&nbsp;&nbsp;The New York TimesShe's trying to outrun pancreatic cancer. Breakthrough treatments give her hope&nbsp;&nbsp;NPRThe slippery protein problem&nbsp;&nbsp;Works in Progress MagazineNew pancreatic cancer drug nearly doubles survival&nbsp;&nbsp;USA Today",
       "sources": [
         {
           "name": "Reuters",
@@ -18,22 +162,22 @@
       ]
     },
     {
-      "id": "9e11f64b8278",
-      "title": "CDC says there are no U.S. hantavirus cases currently, 41 people being monitored - CNBC",
-      "published": "2026-05-14T18:21:14+00:00",
-      "summary": "CDC says there are no U.S. hantavirus cases currently, 41 people being monitored&nbsp;&nbsp;CNBC41 people being monitored for hantavirus exposure. See map.&nbsp;&nbsp;USA TodayCDC says 41 people being monitored for hantavirus in US&nbsp;&nbsp;ReutersHantavirus outbreak: 41 people monitored in US&nbsp;&nbsp;WSB-TVKU Med is monitoring 3 Kansans exposed to deadly Andes hantavirus, state confirms&nbsp;&nbsp;Kansas City Star",
+      "id": "227817ee8c1b",
+      "title": "Brain-Stimulating Contact Lenses Match Prozac in Depression Study - Neuroscience News",
+      "published": "2026-05-14T17:51:14+00:00",
+      "summary": "Brain-Stimulating Contact Lenses Match Prozac in Depression Study&nbsp;&nbsp;Neuroscience NewsDepressed mice successfully treated with smart contact lenses that zap their brains – new study&nbsp;&nbsp;The ConversationBioelectric Contact Lenses Alleviate Depression in Mice&nbsp;&nbsp;the-scientist.comContact Lenses Show Promise for Depression&nbsp;&nbsp;Inside Precision MedicineElectric Eyewear Cheers Up Depressed Mice As Much As Taking Prozac&nbsp;&nbsp;IFLScience",
       "sources": [
         {
-          "name": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMHBsWnFWNEZMbk4yemRRWUoydXNDUnJUbnBfOUVGNTJCdGJTZHpNVzMxZjVSOHJxakVBVDUxTkd2TmluajFoWTMtYWxfNkZqQm94bjJtX3ZpazZIX1ZyUnVuT0VjekI4cWdVcDZyNmFoeE9BZzE1Ymc3YmpqbXpBSnFMMHg2NU3SAYwBQVVfeXFMUHJPZ21EM2VBLWtXZXdGTzFrazBmYjg0YkRLOFl3cXJXc2FrOTlDQnktWDhaaTFGU2g2ZWd4OEJuV3g3SDR6TlN5MW42MXZ3SUdnSXI4UGxrY3pKeDRSRnNobWhvRlhNYXV2TFRlY2IzeDh0TXo4aHFlbEtNRWJTZmhVOC16R3JvcDJIT00?oc=5"
+          "name": "Neuroscience News",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQlVITmJNNDlSSEVZUDBtbkhJUk9ZZlNmQmZIeWRfQ3Nac042UGEtbmZKSHpFSTA2UExLa1hOOUl0SUdmQTBJZDd3UWNaTzItLUdiNUNsVmNkVTZsdjFRaVJISTBGRGlUWnVoeVoyekc5NnpGSlFTU3ZFMjRuWXlMSDJWTGR3Zw?oc=5"
         }
       ]
     },
     {
-      "id": "26344d028e65",
-      "title": "Giant new dinosaur identified from remains found in Thailand - BBC",
+      "id": "b795c4804b0a",
+      "title": "Giant new dinosaur identified from fossils in Thailand - BBC",
       "published": "2026-05-14T17:28:56+00:00",
-      "summary": "Giant new dinosaur identified from remains found in Thailand&nbsp;&nbsp;BBCThe first sauropod dinosaur from the Lower Cretaceous Khok Kruat Formation of Thailand enriches the diversity of somphospondylan titanosauriforms in southeast Asia | Scientific Reports&nbsp;&nbsp;NatureA new species offers a clue to the boom of giant dinosaurs&nbsp;&nbsp;National GeographicScientists dig up Southeast Asia's largest dinosaur in Thailand&nbsp;&nbsp;ReutersResearchers unearth Southeast Asia's largest dinosau",
+      "summary": "Giant new dinosaur identified from fossils in Thailand&nbsp;&nbsp;BBCThe first sauropod dinosaur from the Lower Cretaceous Khok Kruat Formation of Thailand enriches the diversity of somphospondylan titanosauriforms in southeast Asia | Scientific Reports&nbsp;&nbsp;NatureA new species offers a clue to the boom of giant dinosaurs&nbsp;&nbsp;National Geographic‘Last titan’: Southeast Asia’s biggest dinosaur discovered&nbsp;&nbsp;EurekAlert!Researchers unearth Southeast Asia's largest dinosaur&nbsp;",
       "sources": [
         {
           "name": "BBC",
@@ -42,14 +186,14 @@
       ]
     },
     {
-      "id": "899fcca3301c",
-      "title": "Hantavirus Doesn’t Spread Easily, but Officials May Be Downplaying Risks - The New York Times",
-      "published": "2026-05-14T16:40:37+00:00",
-      "summary": "Hantavirus Doesn’t Spread Easily, but Officials May Be Downplaying Risks&nbsp;&nbsp;The New York TimesHantavirus outbreak isn't another Covid pandemic – but experts say it's testing U.S. readiness&nbsp;&nbsp;CNBCThe world’s reaction to hantavirus is tinged by echoes of something else: COVID&nbsp;&nbsp;AP NewsExperts say hantavirus risk is low in Iowa despite Omaha’s quarantine&nbsp;&nbsp;KCRGHow The U.S. Is Making The Same Mistakes With Hantavirus As It Did With COVID-19&nbsp;&nbsp;Forbes",
+      "id": "9d28078ca9fc",
+      "title": "The worst virus of all … - Daily Kos",
+      "published": "2026-05-14T16:59:00+00:00",
+      "summary": "The worst virus of all …&nbsp;&nbsp;Daily Kos",
       "sources": [
         {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91VnFNY3d0UDZmVmVycEZUNVg4LVExcktzb2s5TGl3QkJfUm5LRWF4TUN5ZDZXLVR2OE1HLUpGMFh3NDVneEdQVnBFQmFvS0lhMy0yMGpHR2VMOEYwTk1GQ2hieXYwazhWTkdHczd0NEV3Rl8tTXdyZA?oc=5"
+          "name": "Daily Kos",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMEY1TjFSdi1UTHBtU0VkcGtWT0hwY3RIRHdJX3dvTVN1NlBLLXJyMFVfUThCN2xWQjJCMVhDTEJES0xLTDJDYnF3MFpEWjEweng5czNVT19MMy02a3RGRVdobXYwUUQwS2pLOFk5RGFOaTI2UC1US1JRcmwxaWdnWnNUQm00aUFJTVpZeA?oc=5"
         }
       ]
     },
@@ -69,7 +213,7 @@
       "id": "5ea79b56b1aa",
       "title": "People who are optimistic tend to have healthier hearts, study finds - The Washington Post",
       "published": "2026-05-14T16:00:00+00:00",
-      "summary": "People who are optimistic tend to have healthier hearts, study finds&nbsp;&nbsp;The Washington PostA positive attitude may help you live longer, new study finds&nbsp;&nbsp;LiveNOW from FOX",
+      "summary": "People who are optimistic tend to have healthier hearts, study finds&nbsp;&nbsp;The Washington PostBe positive: USF research shows your heart will thank you&nbsp;&nbsp;University of South FloridaA positive attitude may help you live longer, new study finds&nbsp;&nbsp;LiveNOW from FOX",
       "sources": [
         {
           "name": "The Washington Post",
@@ -78,38 +222,74 @@
       ]
     },
     {
-      "id": "0c58402f1104",
-      "title": "Could We Handle Another Pandemic So Soon After Covid? - Gizmodo",
-      "published": "2026-05-14T14:30:30+00:00",
-      "summary": "Could We Handle Another Pandemic So Soon After Covid?&nbsp;&nbsp;GizmodoWhy Galveston is positioned to take in hantavirus patients&nbsp;&nbsp;KHOUThe Next Pandemic May Begin in a Barn&nbsp;&nbsp;Kashmir ObserverHow the U.S. is containing the hantavirus to prevent spread&nbsp;&nbsp;Spectrum NewsDoes the cruise ship hantavirus pose a threat to the United States?&nbsp;&nbsp;Texas Public Radio | TPR",
+      "id": "951a87133970",
+      "title": "“I fully expect to be at least as strong and healthy in my 90s as I am now, if not stronger”—a 72-year-old trainer shares the weekly routine she follows for strength and longevity - Fit&Well",
+      "published": "2026-05-14T16:00:00+00:00",
+      "summary": "“I fully expect to be at least as strong and healthy in my 90s as I am now, if not stronger”—a 72-year-old trainer shares the weekly routine she follows for strength and longevity&nbsp;&nbsp;Fit&amp;Well",
       "sources": [
         {
-          "name": "Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbmhTTWh1VnA0ODN1c3lxVTlHTWRYTGNiNXRhcThsZjJxY09IeWd1WlYyN2U4Qnl4cFdBaTJld1o2Z3pQSWhQdS1WNTF5WDVZWWRsQV9tNmo1ZmZsMXBfZnYtSGtfUUd6aTloUE1BMHVIV19aRXRuQ08wUmlwSE51Q1JJQzRXV042MWpF?oc=5"
+          "name": "Fit&Well",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOTUJYSDlSenZyRmRLRWRFNzR4bzJYRVRGOGtITkVNZm5JMElTSDNReUFUajRxSm9rLWJmZDZhcFZ5Z2FJLVNhMkgwVkczRHlYYXU0dElGc1dIWk55cFNWTVVyRVBmMHJRd3VsYnZlckdoUHgxUFQ5UEdOTG5SLV85aEVOWDk2a2FIclBORVVUZm5EVjQ4VUVmTkVUaEpFS25FRjVsLS1yTzVWRlJlTWpWTW5QWGxKSURhSXJmbS1jRWtlV1RjMXVQdHVSZHQyZ042UTVFaHRTMjlZLWpZUWxHZzU4aDJLbEFLTElValptb3J6c2kyckwwakk3VFNncVpxSHVsdEhtcGs3aDROVVpjS2pVUGhYbktxQmVIRHBiSEkzQjBOT081VXc1czRINHNtNDZFSEtUYmxpMVRab2p6NG5hSER2em5vRlhsZkFyZnMyWW16U0xfZA?oc=5"
         }
       ]
     },
     {
-      "id": "08b94beca085",
-      "title": "Expert issues severe warning about 'ballmaxxing' as more young men doing it - LADbible",
-      "published": "2026-05-14T14:10:38+00:00",
-      "summary": "Expert issues severe warning about 'ballmaxxing' as more young men doing it&nbsp;&nbsp;LADbible'Ballmaxxing:' Experts Say It's More Dangerous Than You Think&nbsp;&nbsp;HealthlineHow The ‘Ballmaxxing’ DIY Trend Brings Dangers To Men’s Genitals&nbsp;&nbsp;ForbesMen are 'ballmaxxing' their testicles until they're inflated to the size of grapefruits&nbsp;&nbsp;Metro.co.ukBallmaxing trend gets severe health warning as men expand their testicles&nbsp;&nbsp;UNILAD Tech",
+      "id": "f8d8ad22642c",
+      "title": "Challenging your mind can help maintain brain health. Here are steps the Alzheimer's Association recommends. - CBS News",
+      "published": "2026-05-14T15:32:04+00:00",
+      "summary": "Challenging your mind can help maintain brain health. Here are steps the Alzheimer's Association recommends.&nbsp;&nbsp;CBS NewsThree enjoyable ways to slow your brain's ageing&nbsp;&nbsp;BBCAHA Reframes Brain Health as a Lifelong Process&nbsp;&nbsp;MedscapeNew Alzheimer’s report highlights growing focus on brain health&nbsp;&nbsp;WITFMaking Brain Health a Routine Part of Clinical Care&nbsp;&nbsp;Physician's Weekly",
+      "sources": [
+        {
+          "name": "CBS News",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb014TmlxRFZidGxLVm81cWFWbFVUUWJxZ09zRHhpRHhyaUZaNWU1SE5wX0xXdVRPTkU2dl9ybnh2WVR0X2FDME1yNUJKdDk5NlVBbE9WRlROelV0UTdsMGJFNTVKMWdLR1FfZjRNYng5WHVRbWpXeGw4cGlmRU5SNWdlcUp1QdIBiwFBVV95cUxOS19OMy1lc1lsLW9mVE85TVBOZzlnR3gtTzhCRUtUbmkyZF9LQjAzQ1psT2ZLSWRRSlZGWDVZX2ZOMDI4eWsyZ0FFMWNBNmJKa3diUlpKZXJmTDdaX0R6aV9MaDhtUjJhTlptaG1RZTIyWjhlRGtsbGNodmxfMTR6dkp3Q0pJQ0pKTFBj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a0fc174ab2dd",
+      "title": "The political polarization of health outcomes in the USA - Nature",
+      "published": "2026-05-14T15:23:56+00:00",
+      "summary": "The political polarization of health outcomes in the USA&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52YzZQWWpZa0c5WDF6V0o4T0xLWHJsM1VPUkpUakJ0cllRc2JZbU9BbUVxYzRDU2QzeTBMRWNyT3dVeXE5X2RNVDNLenYxOS1ZaDZFVUgxWloxYzNzYm13?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1a402f3fcc85",
+      "title": "Argentina Races To Find Origin of Hantavirus Outbreak - The New York Times",
+      "published": "2026-05-14T15:09:37+00:00",
+      "summary": "Argentina Races To Find Origin of Hantavirus Outbreak&nbsp;&nbsp;The New York TimesAmerican Hantavirus Cruise Passengers Flown to Quarantine Center After Positive Test&nbsp;&nbsp;WSJHantavirus: Current Situation&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)CDC not requiring hantavirus cruise passengers to isolate at home&nbsp;&nbsp;The HillA Scientist’s Close Call with Hantavirus Aboard the M.V. Hondius Cruise&nbsp;&nbsp;The New Yorker",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdGxZU29EZEFGSHR3MDM0UWVpdkctNklXZTlzQUdBRkc3Nkpvc2djaW1oY01qdlB2UGJ1Wm5CdU1tLVBfN2JkM0x4MFU2RDV3RXFxZm1CeE5XeEh3WHRuM1FSM3ZDeVlhSnRrM2pENy11el8zY0ZVNlNvdDFHRzFIQkI3RTkyZDN3eHdwTmRMWGw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7f213d6041d2",
+      "title": "Heart surgeon issues warning against food eaten by millions daily ‘destroying your heart' - LADbible",
+      "published": "2026-05-14T14:38:56+00:00",
+      "summary": "Heart surgeon issues warning against food eaten by millions daily ‘destroying your heart'&nbsp;&nbsp;LADbibleCardiologist reveals 4 products that shorten life&nbsp;&nbsp;Modern.azCardiologists reveals the six 'unhealthy' things they refuse to stop eating or drinking&nbsp;&nbsp;UNILADHeart surgeon with 25 years of experience shares 4 foods that shorten your lifespan&nbsp;&nbsp;MSN",
       "sources": [
         {
           "name": "LADbible",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdnpzYUtsMXFzTTN3LXc3VHhyOFVpMWFCLThsYkhqZi0tN0IzYi1MVFR3c085OUQ2dFNWVl9EVlBxWlNvaVE1MkNIbGhBNFM4RW5xSGNwZTh2TTNYM3o2cnhyV1YzMzBFSkN4UWlubmkwOWVyTHFDcmtsSnhPWnh6aWx0V3hDT1lFNEVYcUpR?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHgtNmN4Z1J6SVZuLXJXc18teVZpZjdndUZXdERCYmdOU012MXlTR292aDdBRFNVV3JkaWRlQkdBUnJESFdseW5MU2JfS04ySmxCRGdZSmc0RXpBV0VPQkNIcXcwbWpBc3o3ZGRMQWI5NUk5aUp4ajRrNnNxcWo2T0t0bDNIaUpjY3RZVkJiSElTZw?oc=5"
         }
       ]
     },
     {
-      "id": "8c8d9a5cd5e4",
-      "title": "Man Quarantining After Hantavirus Outbreak Speaks Out: ‘I Was In A Really Dark Place’ - HuffPost",
-      "published": "2026-05-14T13:51:10+00:00",
-      "summary": "Man Quarantining After Hantavirus Outbreak Speaks Out: ‘I Was In A Really Dark Place’&nbsp;&nbsp;HuffPostWhat it's like for passengers isolating in hantavirus quarantine in Nebraska&nbsp;&nbsp;BBCHow a Hantavirus Cruise Passenger Is Spending His Quarantine in Nebraska&nbsp;&nbsp;The New York TimesAmericans exposed to hantavirus remain in quarantine as testing and monitoring for symptoms continue&nbsp;&nbsp;NBC NewsNew Yorker describes hantavirus quarantine experience after cruise ship outbreak: ",
+      "id": "7c39910da3a8",
+      "title": "Paleontology rocked by discovery of organic molecules in 66-million-year-old dinosaur bones - ScienceDaily",
+      "published": "2026-05-14T13:03:51+00:00",
+      "summary": "Paleontology rocked by discovery of organic molecules in 66-million-year-old dinosaur bones&nbsp;&nbsp;ScienceDaily",
       "sources": [
         {
-          "name": "HuffPost",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYmdRbG54a2YyMEdYZkJudXNlMW84VlZqMDdZU19tVkNsSlFaQ3ZlbUpCQk4wRDREN0FPS2ZmMXFPX3NYNlpqaUd0djZ0enJ3dFp3OWpBbk0zdlljX0pjSjhaZXE0MDktVUJyN3p0aDkzS2ZBTTVVMVluZEFBQWlnZXlLRnBtQ0xneVVnbEEyQ2w5ZVJzTWpIM9IBngFBVV95cUxNLXhlekJJQVh2aGJxcUk5Uy14dEpzakE1ZDlSV0QyQVA4Y3VKY2ZRNmpWeXhRZi1sUDBLaVVUSTdOWlpQWkRLcFhKZzItYUtCSGE1bHRVRDMtYkZBREZlSWdzOG0tc2Izd3FCamhpVEF1d2d3azVkNG5kSXRVR3R4UWRHb1p2NTI1dWU5VVQ5enFxb3FJYTctNjZlZkhUZw?oc=5"
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBETU43RWJyYm53Vko4WkpISEtnc3dvSVRIVEQyQzcyZzBvZWZac29fUTZWQ0dNVzVKR0xHdEJqQ1JLZUUxcmFZaWxSa0RnWllZTTEtVU1XWldBSTNiTXJKSnhuNVpsZUxWNUJ1dDUwZw?oc=5"
         }
       ]
     },
@@ -126,14 +306,14 @@
       ]
     },
     {
-      "id": "06b25072f5bf",
-      "title": "How to stay safe from hantavirus, norovirus as summer travel season approaches - ABC7 Los Angeles",
-      "published": "2026-05-14T12:17:38+00:00",
-      "summary": "How to stay safe from hantavirus, norovirus as summer travel season approaches&nbsp;&nbsp;ABC7 Los AngelesDoctors Swear By These Travel Items To Stay Safe And Healthy On Trips&nbsp;&nbsp;HuffPostDon't Let Illness Ruin Your Trip: The Ultimate Summer Travel Health Checklist&nbsp;&nbsp;Yahoo",
+      "id": "bf51f9f57ec1",
+      "title": "If You’re Over 50, Here’s How Much Protein You Actually Need - EatingWell",
+      "published": "2026-05-14T12:00:00+00:00",
+      "summary": "If You’re Over 50, Here’s How Much Protein You Actually Need&nbsp;&nbsp;EatingWellWhy protein needs aren’t one size fits all — and what that means for your diet&nbsp;&nbsp;Texas A&amp;M StoriesProtein alone is not enough: This is the missing piece of nutrition for your peak health&nbsp;&nbsp;The Indian ExpressNot eating enough protein may weaken older adults before they notice it&nbsp;&nbsp;Earth.com4 Facial Changes That May Mean You’re Not Getting Enough Protein&nbsp;&nbsp;Verywell Health",
       "sources": [
         {
-          "name": "ABC7 Los Angeles",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbTAtYVlpYzV0ODJQWTRlalJkd3R2WFkxdWdjRTBjREF1b0pPM1BZZUUyOFA0XzJlZG5ZejFKc1ozZkZqNW9mN2Iza3AxMU5Pc08wTDg0dmhnLUFrWTRnR2I2MGlvYlFHdWYzOHhjSmdnMzRSNmVla29FYVYtZXBLc2duV3U4NU90T09vRDlPMDFVVkowYzRUNEZfb0NLbTjSAaQBQVVfeXFMUEdUX0l6Q1RpdDhfU0VOTW9DWTJmbzhFb1BFV2ItWkxGWnBScU1ndXpVSTQ2Rm9MNFNtRTVsbF8wbGRvUkhVcGhRc0poVWZnY3pHLWo2NVNyVXB0WktLdVc4YXdWa29ndzg0SXVQNG9GSjJMV09fdEl6bnJlUERwNzIzcG9zNFp2Zjh0VWZwLVJSQ2Y2Vl8xWGJ0ODBEOUdwWHNCVGE?oc=5"
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb3p2NXhka0JuZHJEMExDV2NkbFlaWFRtb3RjeTVmTk9pMFBsc09HQmpxci1xeXlGcXF3WUxuSXBhVWEzOXlMemxhbjFsVTNxNERMcUdwYnBvR0ZMd0szSWtZcEUzdUxxcDV4LXlQWkpwTDNXdmEtTlhVX2puak82UQ?oc=5"
         }
       ]
     },
@@ -141,7 +321,7 @@
       "id": "7f571228ddfd",
       "title": "New Calif. study finds evidence cannabis could treat obesity, diabetes - SFGATE",
       "published": "2026-05-14T11:09:40+00:00",
-      "summary": "New Calif. study finds evidence cannabis could treat obesity, diabetes&nbsp;&nbsp;SFGATEWhy Do Regular Cannabis Users Tend to Weigh Less?&nbsp;&nbsp;Nautilus | ScienceWhy Weed Might Be the Next Ozempic&nbsp;&nbsp;The Daily BeastCannabis Compounds CBGA, CBDA, and CBGVA Improve Glucose Tolerance and Reduce Liver Fat in Mice Study&nbsp;&nbsp;geneonline.comWhy Regular Cannabis Users Have Lower Rates of Type 2 Diabetes&nbsp;&nbsp;ScienceBlog.com",
+      "summary": "New Calif. study finds evidence cannabis could treat obesity, diabetes&nbsp;&nbsp;SFGATEWhy Weed Might Be the Next Ozempic&nbsp;&nbsp;The Daily BeastWhy Do Regular Cannabis Users Tend to Weigh Less?&nbsp;&nbsp;Nautilus | ScienceWhole-Plant Cannabis Extract Improved Glucose Control in Obese Mice&nbsp;&nbsp;Technology NetworksCannabis Compounds CBGA, CBDA, and CBGVA Improve Glucose Tolerance and Reduce Liver Fat in Mice Study&nbsp;&nbsp;geneonline.com",
       "sources": [
         {
           "name": "SFGATE",
@@ -153,7 +333,7 @@
       "id": "30cfb1017ba5",
       "title": "A brain-controlled system may help listeners with hearing loss cut through the noise - NPR",
       "published": "2026-05-14T11:00:00+00:00",
-      "summary": "A brain-controlled system may help listeners with hearing loss cut through the noise&nbsp;&nbsp;NPRReal-time brain-controlled selective hearing enhances speech perception in multi-talker environments&nbsp;&nbsp;NatureFirst Real-Time Brain-Controlled Hearing Device&nbsp;&nbsp;Neuroscience NewsBrain-controlled hearing aid concept helps solve the cocktail party problem&nbsp;&nbsp;News-MedicalBrain-controlled hearing system proves itself in first human studies&nbsp;&nbsp;EurekAlert!",
+      "summary": "A brain-controlled system may help listeners with hearing loss cut through the noise&nbsp;&nbsp;NPRReal-time brain-controlled selective hearing enhances speech perception in multi-talker environments&nbsp;&nbsp;NatureFirst Real-Time Brain-Controlled Hearing Device&nbsp;&nbsp;Neuroscience NewsBrain-controlled hearing aid learns which voice you want to hear&nbsp;&nbsp;Earth.comBrain-controlled hearing aid concept helps solve the cocktail party problem&nbsp;&nbsp;News-Medical",
       "sources": [
         {
           "name": "NPR",
@@ -165,7 +345,7 @@
       "id": "3739c1fd4659",
       "title": "Engaging with arts and culture can slow biological aging as much as exercise, study suggests - CNN",
       "published": "2026-05-14T10:59:24+00:00",
-      "summary": "Engaging with arts and culture can slow biological aging as much as exercise, study suggests&nbsp;&nbsp;CNNEngaging with the arts can slow biological aging, study shows&nbsp;&nbsp;NPRThe Relaxation of Regularly Listening to Songs or Drawing Pictures May Actually Slow Cellular Aging, New Research Shows&nbsp;&nbsp;Smithsonian MagazineThe Guardian view on public health and the arts: the all-singing, all-dancing science of ageing | Editorial&nbsp;&nbsp;The GuardianYour favorite hobby could help you ",
+      "summary": "Engaging with arts and culture can slow biological aging as much as exercise, study suggests&nbsp;&nbsp;CNNEngaging with the arts can slow biological aging, study shows&nbsp;&nbsp;NPRThe Relaxation of Regularly Listening to Songs or Drawing Pictures May Actually Slow Cellular Aging, New Research Shows&nbsp;&nbsp;Smithsonian MagazineArts and cultural engagement ‘linked to slower pace of biological ageing’&nbsp;&nbsp;The GuardianThe Guardian view on public health and the arts: the all-singing, all",
       "sources": [
         {
           "name": "CNN",
@@ -174,14 +354,14 @@
       ]
     },
     {
-      "id": "502fd0392f6f",
-      "title": "Hantavirus strikes a cruise ship, Californians at risk: Is this the start of something much worse? - Los Angeles Times",
-      "published": "2026-05-14T10:00:00+00:00",
-      "summary": "Hantavirus strikes a cruise ship, Californians at risk: Is this the start of something much worse?&nbsp;&nbsp;Los Angeles TimesAmerican Hantavirus Cruise Passengers Flown to Quarantine Center After Positive Test&nbsp;&nbsp;WSJDid a bird-watching visit to this Argentine landfull spark the cruise ship hantavirus outbreak? Experts raise doubts&nbsp;&nbsp;Scientific AmericanArgentina Races to Find Origin of Hantavirus Contagion&nbsp;&nbsp;The New York TimesA Scientist’s Close Call with Hantavirus Ab",
+      "id": "5c2e2c0201be",
+      "title": "Former Navy SEAL Shares His 10-Step Daily Routine – and the ‘Micro Wins’ He Says ‘Will Change Your Life’ - Men's Health",
+      "published": "2026-05-14T10:02:29+00:00",
+      "summary": "Former Navy SEAL Shares His 10-Step Daily Routine – and the ‘Micro Wins’ He Says ‘Will Change Your Life’&nbsp;&nbsp;Men's Health",
       "sources": [
         {
-          "name": "Los Angeles Times",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ2s0dGdleVdlTVQxV2MxQnFKM1BZVFcwRUcxQldEQkxERjJOb1l2djVkZXdnREppelZlR3lyVWo2Mjdia1ZHTGJGM1ZfaUlKUG9CRnE2NjJfR2lCa2x0YWdCRWRYeHIzMVNBTjMyelpEOVd1cHhRMU50Q2k3X3FJU2Z6LWF1LWxBU3ZTdlFHX2lTX2ZQVi1Hb1pHR1BGcTFfaWdVV043YjY1UE5rci04YkxR?oc=5"
+          "name": "Men's Health",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWUhlUk5DbG1rX01SZEZ3UUl5b3pHUlpQVkhPZm42LU9jMG51X1p4WF8xTU05VjUySHJ6WGdJY1JDNlpOTzMzS25UYW5IQXBuMHJBNTNTOFZQd0tfcnhLaGxieEdwNHJTRjhobXFkci11V2tLRWljLW1OaFptd1dNRG9iaUE?oc=5"
         }
       ]
     },
@@ -189,11 +369,23 @@
       "id": "dcd144de8f83",
       "title": "A Common Vitamin Has a Complicated Link to Cancer, Experts Reveal - ScienceAlert",
       "published": "2026-05-14T05:37:37+00:00",
-      "summary": "A Common Vitamin Has a Complicated Link to Cancer, Experts Reveal&nbsp;&nbsp;ScienceAlertVitamin B12: the essential nutrient with a complicated cancer link&nbsp;&nbsp;The ConversationThe silent vitamin deficiency experts say could increase your cancer risk over time&nbsp;&nbsp;The Times of IndiaDoctors Say These Are the Best Foods to Eat for Vitamin B12&nbsp;&nbsp;PreventionVitamin B12 Cancer Debate Deepens Amid New Health Risks&nbsp;&nbsp;The Eastern Herald",
+      "summary": "A Common Vitamin Has a Complicated Link to Cancer, Experts Reveal&nbsp;&nbsp;ScienceAlertThe silent vitamin deficiency experts say could increase your cancer risk over time&nbsp;&nbsp;The Times of IndiaVitamin B12: the essential nutrient with a complicated cancer link&nbsp;&nbsp;The ConversationDoctors Say These Are the Best Foods to Eat for Vitamin B12&nbsp;&nbsp;PreventionVitamin B12 Cancer Debate Deepens Amid New Health Risks&nbsp;&nbsp;The Eastern Herald",
       "sources": [
         {
           "name": "ScienceAlert",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTkhWZ2pnYWtJbGg5dDA3S2tOemxpMGY1dTlfek1mVFhDMzczdEU2VTNZbkFCdzZraUFYYmJyUFRzV29Xc0dHbDEzajR1aVdFNTRfOHFqVGR0Z1ltemU5Slp2dEtWQy02dHdEUDdzUTRaeW9vaTdPMVVOT1J2OG1udG9aU2FrcXI0MnpWeGZNbDJMakpEOXBGdQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4788bd596525",
+      "title": "A 3,700-mile wall of acid clouds has been racing around Venus for decades, and scientists say the answer may be kitchen-sink physics scaled up to planetary size - Space Daily",
+      "published": "2026-05-14T05:36:44+00:00",
+      "summary": "A 3,700-mile wall of acid clouds has been racing around Venus for decades, and scientists say the answer may be kitchen-sink physics scaled up to planetary size&nbsp;&nbsp;Space Daily30-mile-high clouds of acid on Venus are made by the largest 'hydraulic jump' in the solar system&nbsp;&nbsp;SpaceWhat Your Kitchen Sink Has in Common With Venus&nbsp;&nbsp;Universe TodayA Gigantic Atmospheric Anomaly Keeps Showing Up on Venus. Astronomers Finally Know Why&nbsp;&nbsp;GizmodoResearchers explain myste",
+      "sources": [
+        {
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPVnl1MkVWbzRMbkF6VGhwRGFIQmdwYnlFS0J3Wmx5eDZPSF9lTUxEcE05VUZEcGVXRzRud2Z2VTRVVWVqR3NrMVpEdEoxT0M2NUFIRlY2R25NdWY2ODRzOVlGaFlrSGhPTzQwRjlpNjJQMTlqbERXX3ZpM1FDTnNweGQxb1NYTVhJVUF5WTd2T1U1U2J0N0ZocXhSRkNtLV9BV1dlLW5lczdKbnZqaV94bWpZaEhLQ0k1ZjZtNHcteC1LYmVWeVE5eVlkSUxmeGZNZlU1Q1hzc1ZaQ25KUFR5bUh2WG5GT2NBaWo1Mk1QRVVXYU1WRVQ4bkRsSERKUGhQUWo3NjhidkpWTWNlWXp3aG0yVVlFemw3V2xURFRzeGNlQnM?oc=5"
         }
       ]
     },
@@ -210,10 +402,22 @@
       ]
     },
     {
+      "id": "b18a3f0276a2",
+      "title": "Norovirus found in wastewater treatment plant in Ohio - WHIO TV",
+      "published": "2026-05-14T03:01:00+00:00",
+      "summary": "Norovirus found in wastewater treatment plant in Ohio&nbsp;&nbsp;WHIO TVSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "WHIO TV",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWFp5WkdRaVNFY1pEaUlEa3pfd2ZOSjZ5VEJTVlJpSXl1dGd2Q2hWQXVLMkhhcXRKWVdzVnNtc1p5X1ZxUFNjaEh4aHFSdkxadXMxUVNEZTFJSWVsNS1hY29SSUhCREk0eVAzNGpHZDFjVFdjdWJydnA0djI2LUZzazRST052ZDNBTzUxOUxITTc5b2lnY09XdHplOXA5WmotTml1czV1RW11RFnSAb8BQVVfeXFMTzAxSnBhT1dXSjliVmx3VzM3ZFdUSFdSMDhpcHc4LTJzOTdyWU9uVG5JajZEV2RtWm9FYi1VbWtMbW1YSURkdm5xWV9QQTJZckxBYURsWGNTX2pacTJSZjMzeEpYS0FSdWxvWG1BQkFaMFRMMGlYcWNSRjRnb1pZeHU3c0RMN2pyZVpzaU9fV2plUndCUnVxcUxzekUzcE1XZU1fVEk1S01iTkNZLVZmYXNwNTk2ajZrc1IzczdDV3M?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a291d060af60",
       "title": "CDC Is Walking a Tightrope With Its Response to Hantavirus - WSJ",
       "published": "2026-05-14T01:00:00+00:00",
-      "summary": "CDC Is Walking a Tightrope With Its Response to Hantavirus&nbsp;&nbsp;WSJHantavirus outbreak tests Trump officials who criticized covid response&nbsp;&nbsp;The Washington PostHantavirus Response Shows How Trump Cuts Have Compromised U.S. Preparedness&nbsp;&nbsp;The New York TimesHantavirus will be ‘dead end’ outbreak soon: Ex-CDC director&nbsp;&nbsp;NewsNationPritzker blasts Trump administration over hantavirus response&nbsp;&nbsp;Axios",
+      "summary": "CDC Is Walking a Tightrope With Its Response to Hantavirus&nbsp;&nbsp;WSJHantavirus Response Shows How Trump Cuts Have Compromised U.S. Preparedness&nbsp;&nbsp;The New York Times‘A Press Conference Would Be Nice’&nbsp;&nbsp;Columbia Journalism ReviewHantavirus outbreak tests Trump officials who criticized covid response&nbsp;&nbsp;The Washington PostHantavirus will be ‘dead end’ outbreak soon: Ex-CDC director&nbsp;&nbsp;NewsNation",
       "sources": [
         {
           "name": "WSJ",
@@ -246,10 +450,22 @@
       ]
     },
     {
+      "id": "bea6a9cd9d8f",
+      "title": "Sleep chart of biological ageing clocks in middle and late life - Nature",
+      "published": "2026-05-13T22:01:15+00:00",
+      "summary": "Sleep chart of biological ageing clocks in middle and late life&nbsp;&nbsp;NatureToo Little Sleep—and Too Much—Associated with Faster Aging&nbsp;&nbsp;Columbia University Irving Medical CenterOne Critical Factor Predicts Longevity Better Than Diet or Exercise, Study Finds&nbsp;&nbsp;ScienceAlertSleeping more than 8 hours a night linked to faster-ageing organs&nbsp;&nbsp;The TelegraphThe Goldilocks sleep zone: study links too little and too much sleep to biological aging&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TZGlfTFdsdXVLVi1lUzh0el9ZUm0zbjVkUEJXNGJfcm5DZEh6X2cwWW15QzlxNXl5aVJsTGJxUlVmU1dTekYxeWZTSWUtMHhkRFdXQmJXQXl2MjlkT3ow?oc=5"
+        }
+      ]
+    },
+    {
       "id": "473cc86071ea",
       "title": "Ecotypes of triple-negative breast cancer in response to chemotherapy - Nature",
       "published": "2026-05-13T22:01:15+00:00",
-      "summary": "Ecotypes of triple-negative breast cancer in response to chemotherapy&nbsp;&nbsp;NatureGene panel predicts chemotherapy response in triple-negative breast cancer&nbsp;&nbsp;News-MedicalKefah Mokbel: Why Only Half of TNBC Patients Respond to Chemotherapy?&nbsp;&nbsp;OncodailyTNBC Ecotypes Reveal Molecular Signatures Tied to Chemotherapy Response&nbsp;&nbsp;Inside Precision MedicineTriple-Negative Breast Cancer Ecotypes and Chemotherapy Response&nbsp;&nbsp;Bioengineer.org",
+      "summary": "Ecotypes of triple-negative breast cancer in response to chemotherapy&nbsp;&nbsp;NatureNicholas Navin: Building a Classifier to Predict Chemotherapy Benefit in TNBC&nbsp;&nbsp;OncodailyGene panel predicts chemotherapy response in triple-negative breast cancer&nbsp;&nbsp;News-MedicalTNBC Ecotypes Reveal Molecular Signatures Tied to Chemotherapy Response&nbsp;&nbsp;Inside Precision MedicineTriple-Negative Breast Cancer Ecotypes and Chemotherapy Response&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
           "name": "Nature",
@@ -273,7 +489,7 @@
       "id": "feefc8ff08b3",
       "title": "Long-term editing of brain circuits using an engineered electrical synapse - Nature",
       "published": "2026-05-13T21:24:57+00:00",
-      "summary": "Long-term editing of brain circuits using an engineered electrical synapse&nbsp;&nbsp;NatureStudy unveils precise way to rewire brain circuits to boost resilience to stress&nbsp;&nbsp;Duke University School of MedicineNeural Hotwire: How Biological Synapses Bypass Broken Brain Links&nbsp;&nbsp;Neuroscience NewsEngineered Electrical Synapse Enables Long-Term Brain Editing&nbsp;&nbsp;Bioengineer.orgScientists create a tool to ‘edit’ brain functions and improve memory&nbsp;&nbsp;The Brighter Side o",
+      "summary": "Long-term editing of brain circuits using an engineered electrical synapse&nbsp;&nbsp;NatureSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "Nature",
@@ -282,26 +498,26 @@
       ]
     },
     {
-      "id": "5d16a7bf5cc0",
-      "title": "AI is fabricating citations in biomedical studies, researchers find - CBS News",
-      "published": "2026-05-13T21:09:00+00:00",
-      "summary": "AI is fabricating citations in biomedical studies, researchers find&nbsp;&nbsp;CBS NewsOne in 277 PubMed-indexed papers in 2026 shows fabricated references, says analysis&nbsp;&nbsp;Retraction WatchFraudulent citations, blamed on AI hallucinations, are becoming more common in research papers&nbsp;&nbsp;statnews.comThousands of medical papers found citing studies that never existed: Report | Study raised concerns over growing use of AI | Inshorts&nbsp;&nbsp;InshortsAudit Study Reveals Fabricated ",
-      "sources": [
-        {
-          "name": "CBS News",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPWVBaMnJNeUYtaGZGd0laNmVwc0lwMjE5djBUVDhIejBoNkpIanZ1SUFnQng0VmlXVENpM05zQ0I4Y1RBVVRlb2JCSHpGaTUtR2JxVW1yME1rM3ZfZ29UdFAxRTh2ODMtQjE3NzB0RkVyeVVaN3owSkFR0gF_QVVfeXFMUDFoZ2w5SDJ0LTBpX3dBWWJDbEIwYVVBd01tXzNBaHB4NGdjeFBXTmw5Q3pna2Ria3hvNUF6SnNObmRVOHhUY0JYcEhZeWU4eERwbndrMXhjY2dxSVpuVnRNOU0zNVlKbjFmRm9rWXpSS3JqM2k2NTd1MmR4eHJEbw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "12ab9225b361",
       "title": "Connecticut Confirms First Case Of Clade I Mpox - Patch",
       "published": "2026-05-13T20:35:12+00:00",
-      "summary": "Connecticut Confirms First Case Of Clade I Mpox&nbsp;&nbsp;PatchConnecticut confirms first Mpox virus case&nbsp;&nbsp;WFSBDPH identifies Connecticut's first case of clade I mpox&nbsp;&nbsp;NBC ConnecticutConnecticut Department of Public Health confirms first case of clade I mpox&nbsp;&nbsp;fox61.comConnecticut identifies first case of monkeypox, health officials say&nbsp;&nbsp;CT Insider",
+      "summary": "Connecticut Confirms First Case Of Clade I Mpox&nbsp;&nbsp;PatchConnecticut confirms first Mpox virus case&nbsp;&nbsp;WFSBDPH identifies Connecticut's first case of clade I mpox&nbsp;&nbsp;NBC ConnecticutConnecticut identifies first case of monkeypox, health officials say&nbsp;&nbsp;CT InsiderFirst clade I mpox case confirmed in Connecticut after patient traveled to Western Europe&nbsp;&nbsp;Fox News",
       "sources": [
         {
           "name": "Patch",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSlBhT004UmRNVlYxeE43WEx3TklrYndPNC10WFpCbU4zLUpCQUlWNG5tNlU0ckRpZTdVWk50MnMyd2xDd0dXZUg0QUdlY0c1T2Qza2FWMUpjTHc3WFRUV3lycGFSSTExM0lXNDVjQjFhNjBrMlo2QW85VWdaRmgxT3dSV1BuOVZLbGtCY19qZ0NNQdIBogFBVV95cUxOdnpmamp1SWtJTmx3R2ZkZ1JRNzR3VXF6Y1U0Z3Q0Zzh1cW1DQ0FuNDRfZmJjVDN1UVgxWldCU3hXSXNob05sY19UMHFyNy1xLWdycW9ISjEtbHhyeDNKWkp3akpkVHNubHk0aEhNZEJYN3A2SklvbDVPQmVCRVY2NUN5eEtIendoLTM4RV9ITjlhLWdLVFdPRzhnWndtWThtclE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ec9f51c85737",
+      "title": "Fungus-powered farming delivers higher yields and better-tasting crops, says study - Phys.org",
+      "published": "2026-05-13T20:04:41+00:00",
+      "summary": "Fungus-powered farming delivers higher yields and better-tasting crops, says study&nbsp;&nbsp;Phys.orgSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4U2V6ckxaX2tvR3VGc1AxRXd1ZTNZTWN4WVdlR2t4Rm8tQnMyUXhDaF9VNTdWeFJxc3Jxdno2M09ORzEwbnB1OTV5V0ZLU0QwWVp4RnFWcFo4TV9IY2E5R1hsYTdqX0ZaY3FEZUVSYWNEYndSTnQzd0FvTQ?oc=5"
         }
       ]
     },
@@ -330,14 +546,14 @@
       ]
     },
     {
-      "id": "fb45450bcc91",
-      "title": "Sleep linked to slower ageing: huge study pinpoints the right amount - Nature",
-      "published": "2026-05-13T19:35:27+00:00",
-      "summary": "Sleep linked to slower ageing: huge study pinpoints the right amount&nbsp;&nbsp;NatureSleep chart of biological ageing clocks in middle and late life&nbsp;&nbsp;NatureToo little sleep—and too much—associated with faster aging&nbsp;&nbsp;Medical XpressOne Critical Factor Predicts Longevity Better Than Diet or Exercise, Study Finds&nbsp;&nbsp;ScienceAlertSleeping more than 8 hours a night linked to faster-ageing organs&nbsp;&nbsp;The Telegraph",
+      "id": "23dc9accfe88",
+      "title": "3 new cases of measles reported in Lancaster County - LancasterOnline",
+      "published": "2026-05-13T19:33:00+00:00",
+      "summary": "3 new cases of measles reported in Lancaster County&nbsp;&nbsp;LancasterOnlineLebanon city issues urgent health warning amid measles outbreak&nbsp;&nbsp;Lebanon Daily NewsPennsylvania Department of Health warns of measles spike in Lebanon County following 12 cases&nbsp;&nbsp;fox43.com11 Lebanon County residents diagnosed with measles, 3 hospitalized&nbsp;&nbsp;local21news.com28 cases this year | Pa. Department of Health confirms 3 new measles cases in Lancaster County&nbsp;&nbsp;WGAL",
       "sources": [
         {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2WEFfUENOa2FlN0cyR09fQ0cxdmZycE8tSXI2N1FNS2FsV3ZVLUE5N3NiQTlxRlNzZ1RJVC1jbEotTUxGeFFFejZhdWJ2WkprMlM5dW5kX1NKbGt6V2tr?oc=5"
+          "name": "LancasterOnline",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYUdkazJNTWhmNnhfWTBmSGdhbzVabjlXeGJSb01TSkdodFF3b19aRHFrM2RkckZJd0N1WjN2RTM5NWltYTNhS2RUSmt6dUxPMS1KWHgyT1J2eG5lQ29pNkVSMm54OWNrVUlZcU5FZWIzbHV2YVJsdUF0bW4xT2lTWmhvTWt0eTA0ZlM5MDJRbVZxNThEem94dFMteWVNb0UzZ2FwdzR2Z1o1TzBnZjFiRktqVWVKYmp6Nk45elI0X1ozaXcxZUE1MGMyc1N6a2hKemp0ZUhEckQ?oc=5"
         }
       ]
     },
@@ -357,7 +573,7 @@
       "id": "10e1350ce776",
       "title": "Critically ill French hantavirus patient is on an artificial lung as outbreak grows to 11 - PBS",
       "published": "2026-05-13T18:57:37+00:00",
-      "summary": "Critically ill French hantavirus patient is on an artificial lung as outbreak grows to 11&nbsp;&nbsp;PBSFrench Hantavirus Patient Is Critically Ill as Outbreak Reaches 11 Cases&nbsp;&nbsp;The New York TimesHantavirus Cruise Passenger in ‘Very Critical’ Condition, Was Initially Told Her Symptoms Were Just Anxiety&nbsp;&nbsp;People.comFrench woman with hantavirus has severe form of disease, is in 'final stage of supportive care'&nbsp;&nbsp;CBCInside the machine keeping the French hantavirus patien",
+      "summary": "Critically ill French hantavirus patient is on an artificial lung as outbreak grows to 11&nbsp;&nbsp;PBSFrench Hantavirus Patient Is Critically Ill as Outbreak Reaches 11 Cases&nbsp;&nbsp;The New York TimesFrance and Netherlands say that all hantavirus contact cases are negative&nbsp;&nbsp;Le Monde.frHantavirus Cruise Passenger in ‘Very Critical’ Condition, Was Initially Told Her Symptoms Were Just Anxiety&nbsp;&nbsp;People.comInside the machine keeping the French hantavirus patient alive&nbsp;&",
       "sources": [
         {
           "name": "PBS",
@@ -381,7 +597,7 @@
       "id": "a635d89cc2f3",
       "title": "Opinion | 11 hantavirus deaths in Argentina were a warning - The Washington Post",
       "published": "2026-05-13T17:45:00+00:00",
-      "summary": "Opinion | 11 hantavirus deaths in Argentina were a warning&nbsp;&nbsp;The Washington PostThe Close, Prolonged Contact Myth&nbsp;&nbsp;The AtlanticAndes hantavirus: Deadly 2018 outbreak shows it is not only transmitted through close contact&nbsp;&nbsp;EL PAÍS EnglishThe race to understand how rat-virus spreads&nbsp;&nbsp;The TelegraphThe last hantavirus outbreak devastated an entire village — here’s how Argentina finally stopped it&nbsp;&nbsp;New York Post",
+      "summary": "Opinion | 11 hantavirus deaths in Argentina were a warning&nbsp;&nbsp;The Washington PostThe Close, Prolonged Contact Myth&nbsp;&nbsp;The AtlanticAndes hantavirus: Deadly 2018 outbreak shows it is not only transmitted through close contact&nbsp;&nbsp;EL PAÍS EnglishThe race to understand how rat-virus spreads&nbsp;&nbsp;The TelegraphThe Current Andes Hantavirus Situation in Argentina (May 2026)&nbsp;&nbsp;World Health Network",
       "sources": [
         {
           "name": "The Washington Post",
@@ -405,7 +621,7 @@
       "id": "2887c76db9fc",
       "title": "PCOS Is Now PMOS: Doctors Say Name Change Will Improve Diagnosis, Care - Healthline",
       "published": "2026-05-13T17:00:10+00:00",
-      "summary": "PCOS Is Now PMOS: Doctors Say Name Change Will Improve Diagnosis, Care&nbsp;&nbsp;HealthlineNow PCOS is called PMOS. What to know about the name change and what it means for care&nbsp;&nbsp;WSMV",
+      "summary": "PCOS Is Now PMOS: Doctors Say Name Change Will Improve Diagnosis, Care&nbsp;&nbsp;HealthlinePolyendocrine Metabolic Ovarian Syndrome: New name to improve diagnosis and care of condition affecting 170 million women worldwide&nbsp;&nbsp;Endocrine SocietyGlobal Experts, Including CU Anschutz Researcher, Rename Polycystic Ovary Syndrome (PCOS)&nbsp;&nbsp;University of Colorado AnschutzPCOS Is Officially Renamed, After Decades of Misinformation&nbsp;&nbsp;ScienceAlertPCOS, a condition impacting milli",
       "sources": [
         {
           "name": "Healthline",
@@ -441,7 +657,7 @@
       "id": "60460b2e7a61",
       "title": "Bermuda Triangle Mystery May Finally Be Solved After Stunning Underwater Discovery - Charisma Magazine Online",
       "published": "2026-05-13T15:21:47+00:00",
-      "summary": "Bermuda Triangle Mystery May Finally Be Solved After Stunning Underwater Discovery&nbsp;&nbsp;Charisma Magazine OnlineScientists Probe a Mystery Beneath Bermuda&nbsp;&nbsp;Carnegie ScienceScientists crack Bermuda mystery after discovering structure hidden beneath island&nbsp;&nbsp;Metro.co.ukThe deep-earth mystery hidden beneath Bermuda’s pink sands&nbsp;&nbsp;The Times of IndiaA long-hidden mystery beneath Bermuda is being revealed&nbsp;&nbsp;Tech Explorist",
+      "summary": "Bermuda Triangle Mystery May Finally Be Solved After Stunning Underwater Discovery&nbsp;&nbsp;Charisma Magazine OnlineScientists Probe a Mystery Beneath Bermuda&nbsp;&nbsp;Carnegie ScienceScientists crack Bermuda mystery after discovering structure hidden beneath island&nbsp;&nbsp;Metro.co.ukThe deep-earth mystery hidden beneath Bermuda’s pink sands&nbsp;&nbsp;The Times of IndiaScience breakthrough: Bermuda mystery SOLVED after scientists uncover massive underwater structure&nbsp;&nbsp;GB News",
       "sources": [
         {
           "name": "Charisma Magazine Online",
@@ -450,22 +666,10 @@
       ]
     },
     {
-      "id": "16597a682de1",
-      "title": "Scientists Say Uranus And Neptune May Be Far Rockier Than Anyone Expected - The Daily Galaxy",
-      "published": "2026-05-13T15:15:00+00:00",
-      "summary": "Scientists Say Uranus And Neptune May Be Far Rockier Than Anyone Expected&nbsp;&nbsp;The Daily GalaxyNew Study Suggests Uranus and Neptune May Contain More Rock Than Ice&nbsp;&nbsp;Gadgets 360",
-      "sources": [
-        {
-          "name": "The Daily Galaxy",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PRTBtdTNYb3BjclBrZ2VEWTZoeDRua2V1bWZRYWxBeGtJNFRrYnRfV2ZKTlhSVHYybVJSUEtNd0xzNDhxeDRscno1d25SVXhWOHZtRFc2dXJYOWsyRVlIUVBvM3hxdm1nZzBNdUpqTVh2dDZfcWNyRkRJaHpUZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "92462f4dad0e",
       "title": "They Removed One of Life's 20 Essential Amino Acids from Bacteria, and It Survived 450 Generations - Indian Defence Review",
       "published": "2026-05-13T15:00:00+00:00",
-      "summary": "They Removed One of Life's 20 Essential Amino Acids from Bacteria, and It Survived 450 Generations&nbsp;&nbsp;Indian Defence ReviewScientists Changed a Lifeform’s Fundamental Code. It Shouldn’t Have Survived—but It Did.&nbsp;&nbsp;Popular MechanicsStripped down bacterium functions with one less amino acid than the rest of life on Earth&nbsp;&nbsp;Chemistry WorldUNC Researcher Continues Quest to Understand the Origins of the Genetic Code&nbsp;&nbsp;UNC HealthScientists Create First Organism With ",
+      "summary": "They Removed One of Life's 20 Essential Amino Acids from Bacteria, and It Survived 450 Generations&nbsp;&nbsp;Indian Defence ReviewSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "Indian Defence Review",
@@ -498,6 +702,18 @@
       ]
     },
     {
+      "id": "a4a3d3c5ae17",
+      "title": "Ryan Reynolds: My Dad Felt ‘Shame’ and ‘Loneliness’ Around His Parkinson’s Diagnosis - Prevention",
+      "published": "2026-05-13T14:47:57+00:00",
+      "summary": "Ryan Reynolds: My Dad Felt ‘Shame’ and ‘Loneliness’ Around His Parkinson’s Diagnosis&nbsp;&nbsp;Prevention",
+      "sources": [
+        {
+          "name": "Prevention",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMTgyREVBTDNqSVNYazl3bUVVTFJzQTJFelY0WFFVckF0a0VWUVZLNmltNk9mTUV4WlF6RlpWeWZaSnAtYnUwbktKdHB4bDlKX2hRSHJWR1hIS1FCQWVTVk9IaXVuQUduQW53Wk5uY3hLTFhGZGJfbmlsRGVkX0NKSzBuSzRYanpxYTREYnZFRzFBYWZxM2ZYTHFFUnhQb3d3ZEtxdDRwWkc4VnNGOFdFZWpKTDQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "98ae8da56b49",
       "title": "The Alcohol Pattern Destroying Men’s Health Faster Than Smoking — Experts Reveal the Real Threat - AOL.com",
       "published": "2026-05-13T14:32:31+00:00",
@@ -513,7 +729,7 @@
       "id": "70f0dc0af7c4",
       "title": "This daily habit could lower dementia risk by 35%, scientists say - ScienceDaily",
       "published": "2026-05-13T14:31:31+00:00",
-      "summary": "This daily habit could lower dementia risk by 35%, scientists say&nbsp;&nbsp;ScienceDailyCaffeine may influence the way the brain responds to touch&nbsp;&nbsp;Medical XpressThe surprisingly strong case for feeling great about your coffee habit&nbsp;&nbsp;vox.comCoffee May Affect Your Sense Of Touch&nbsp;&nbsp;SprudgeDo Coffee’s Health Benefits Depend on Caffeine? Scientists Put It to the Test&nbsp;&nbsp;Food & Wine",
+      "summary": "This daily habit could lower dementia risk by 35%, scientists say&nbsp;&nbsp;ScienceDailyCaffeine may influence the way the brain responds to touch&nbsp;&nbsp;Medical XpressThe surprisingly strong case for feeling great about your coffee habit&nbsp;&nbsp;vox.comScientists made coffee drinkers quit for 2 weeks — what they found surprised everyone&nbsp;&nbsp;ynetnewsHow coffee transforms the gut microbiota and improves mood&nbsp;&nbsp;modernetdigital.cat",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -546,10 +762,22 @@
       ]
     },
     {
+      "id": "8061fa24f803",
+      "title": "The Subtle Symptoms of Stomach Cancer Doctors Say Not to Ignore - AOL.com",
+      "published": "2026-05-13T14:09:42+00:00",
+      "summary": "The Subtle Symptoms of Stomach Cancer Doctors Say Not to Ignore&nbsp;&nbsp;AOL.com‘What are the first signs of stomach cancer?’&nbsp;&nbsp;The Indian Express",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPekl2VlZydU9LM21aZFlMSW5iYVBCZmxoM2RGSGMxcW9GQlctVGtpRE1aZGJHNmZIVnZWa2F4XzBVZEJSZi13Nmo5WUFGRjVDaUhoT2NybnUwYVZPdmtKLWpCaHduRW82SjZqOTFVdUdrMVJXM2R2N3l3RmJ2NHozRE4yd2NiTlc2cFE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "05cee13d306e",
       "title": "How does diet impact brain health? Alzheimer's Association shares nutrition tips with cognitive function in mind. - CBS News",
       "published": "2026-05-13T14:00:00+00:00",
-      "summary": "How does diet impact brain health? Alzheimer's Association shares nutrition tips with cognitive function in mind.&nbsp;&nbsp;CBS NewsSkip the junk and dig into this useful guide to brain-healthy eating&nbsp;&nbsp;PsycheEating Two Servings of This Weekly Can Lower Your Odds of Cognitive Impairment&nbsp;&nbsp;Good HousekeepingWhat should you eat in your 40s to keep brain sharp? Neurologist recommends ‘brain foods’ and special diet&nbsp;&nbsp;Hindustan TimesNeurologists avoid these foods — they may",
+      "summary": "How does diet impact brain health? Alzheimer's Association shares nutrition tips with cognitive function in mind.&nbsp;&nbsp;CBS NewsHealthier plant-based diet tied to lower risk of dementia&nbsp;&nbsp;Harvard HealthNeurologists avoid these foods — they may silently damage your brain&nbsp;&nbsp;RBC-UkraineCan Nutrition Support Brain Health and Help Prevent Alzheimer’s Disease?&nbsp;&nbsp;The Jewish LinkHow your diet can impact brain health&nbsp;&nbsp;Yahoo",
       "sources": [
         {
           "name": "CBS News",
@@ -558,26 +786,38 @@
       ]
     },
     {
-      "id": "d16cbf1005b0",
-      "title": "30-mile-high clouds of acid on Venus are made by the largest 'hydraulic jump' in the solar system - Space",
-      "published": "2026-05-13T13:00:00+00:00",
-      "summary": "30-mile-high clouds of acid on Venus are made by the largest 'hydraulic jump' in the solar system&nbsp;&nbsp;SpaceWhat Your Kitchen Sink Has in Common With Venus&nbsp;&nbsp;Universe TodayA Gigantic Atmospheric Anomaly Keeps Showing Up on Venus. Astronomers Finally Know Why&nbsp;&nbsp;GizmodoResearchers explain mysterious cause of 6,000-kilometer cloud wall on Venus&nbsp;&nbsp;The Brighter Side of NewsA 3,700-mile wall of acid clouds has been racing around Venus for decades, and scientists say th",
+      "id": "1e7dc94b5b9d",
+      "title": "Scientists Investigate ‘Quantum Consciousness’—But the Brain May Still Defy Physics - The Debrief",
+      "published": "2026-05-13T12:11:12+00:00",
+      "summary": "Scientists Investigate ‘Quantum Consciousness’—But the Brain May Still Defy Physics&nbsp;&nbsp;The Debrief",
       "sources": [
         {
-          "name": "Space",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZE1XQi1hQ3pfXzZYLWI3bHZYNFlLeEROY0NFQVJFcnkyU1RhUXpFOTMtcFQ3eUdIbHUtY1ZHX3NVNjZPRkdubjZZc3JDUlB3Zk44ZHN3Y1FtTjdPVE5oekg1SU5VMmJveDROUURkQncyNDB2eHpvRm9jS3FLcmNsd091WlhXM2tGVUJLTkh2ZmZtVjJUTzJBY2FYUTdDU1cyWTM4QWhuN1gxZUx3OVY4LVIyS3FHWG40eEZpUWVzZ2hlbnN0RVphVFZPaTdwUQ?oc=5"
+          "name": "The Debrief",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU2NXak4weHVTRmFFWTBFOTI0R0pZTlp6b0RiYXJld2h0TUxDaktycDJ0dDFDVVlwRFB3dmkwNkJYSjdFUVVpNkFXVEVfam1vQlZ1TUROZFNvbWFqN0RIOE9RaTZESWVvdEJwT0s3bjlzMlI0MXdSWUtUc1ZjZzd4ZElOdmxIN2NfZ0N1ZXRTRHhhWG84aE1TaExsY3RhdDdrbll2dkRuM0U?oc=5"
         }
       ]
     },
     {
-      "id": "4374b5ab52e5",
-      "title": "Scientists race to develop hantavirus vaccine for new strain - Euronews.com",
-      "published": "2026-05-13T12:33:19+00:00",
-      "summary": "Scientists race to develop hantavirus vaccine for new strain&nbsp;&nbsp;Euronews.comHantavirus cases spark brief surge in pharma and biotech stocks — here’s why trading is so volatile&nbsp;&nbsp;CNBCHantavirus Vaccines and Treatments Are in the Pipeline&nbsp;&nbsp;The New York TimesHantavirus Scientists Were Close to Vaccine But Ran Out of Money&nbsp;&nbsp;Bloomberg.comHantavirus treatments are coming but not fast enough for this outbreak, experts say&nbsp;&nbsp;Scientific American",
+      "id": "d69a550d5dcf",
+      "title": "'Like putting a microscope into the core of the sun': World's 1st space-based neutrino detector launches to orbit - Space",
+      "published": "2026-05-13T12:00:00+00:00",
+      "summary": "'Like putting a microscope into the core of the sun': World's 1st space-based neutrino detector launches to orbit&nbsp;&nbsp;SpaceA shoebox-sized detector just rode SpaceX to orbit to test a wild idea in particle physics — whether neutrinos can be caught from space&nbsp;&nbsp;Space DailyWorld’s first space-based neutrino detector reaches orbit to study sun’s core&nbsp;&nbsp;YahooNickolas Solomey's SNAPPY cubesat launches 1st space-based neutrino detector&nbsp;&nbsp;NewsBytesNeutrino detector cou",
       "sources": [
         {
-          "name": "Euronews.com",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNjFyME9tLVNHM1dabjZ0OTlkazMtSGxXQ3dUTXJmelJ0OE9iamgzbDNFbmRiYnNKWjAxWENVSXJ5MmVsN0FHTXU3MDdyalNRcmlIdUE1a3doSngtVmRQc3VXcTBMekQwYUtlY181VkFzbTNLc09MNGdUYXNQck9WR0xRT0FTTS00WTU5dllkcUdBQnh1TWw4LVNWd0l5d1kxa295SVZWQnNmMkx2STR0QjdQdGNnSkpIRXc?oc=5"
+          "name": "Space",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNkV3RXFlX1RrVzZ4N2NhZWpwOTk3M2tQY3NlRmFqS1dTMnFVc1NBaW1YMUtKU052SVV0UGNCWWxPTDlMZERveEhxczVGa21UOXJhYWFXbEFfZzFlYWJmdFVlcnJ1WWhkSS16M2tPSFVhUDdBb3pacG1UaHlZN3RFaXY4dlpMUUtURlVScEZISVJnem5zNWQ3bld1SXg5S0ludnhkMHFGTjZiNEtSWjdJbk1zQXZNTU5DSDVyMDJTbnBmcUZWZ2pkdlZkLU9mZWtZeTVNMUlSUmZxSDFnOTBjaUsta0F1VkV5aEtxYg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "03dd60db01ce",
+      "title": "Inside the Race to Develop a Test for the Rare Andes Hantavirus - WIRED",
+      "published": "2026-05-13T11:30:00+00:00",
+      "summary": "Inside the Race to Develop a Test for the Rare Andes Hantavirus&nbsp;&nbsp;WIREDThe Race to Track Hantavirus&nbsp;&nbsp;WSJHantavirus Outbreak: South Africa Tracks 97 Exposed Contacts&nbsp;&nbsp;NDTVhealth matters newsletter: Hantavirus Ahoy!&nbsp;&nbsp;The Hindu‘Hantavirus is not Covid’: Expert explains why SA’s world-class outbreak system works&nbsp;&nbsp;News24",
+      "sources": [
+        {
+          "name": "WIRED",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNTVJLdnB1VW10VXk0OGJyRHYtM1dnc1FBVjVlRnZXNnNTUDBDLUhNdUVaZWZxeWlmYlV6c0JOQUxWS01mS1l0SWM4UXVVWk9FSkxXWUJldWFJaGJxVU1td2FwdzEtSDhRNnN4aXdGdG5kc3E2?oc=5"
         }
       ]
     },
@@ -618,42 +858,6 @@
       ]
     },
     {
-      "id": "94f95459cd69",
-      "title": "How to navigate your menopause - Psyche",
-      "published": "2026-05-13T10:00:00+00:00",
-      "summary": "How to navigate your menopause&nbsp;&nbsp;PsychePerimenopause Symptoms Women Often Miss: What Are the Lesser-Known Signs to Watch For?&nbsp;&nbsp;Charlotte ObserverThe Perimenopause Conversation Has Arrived. But Clarity Has Not. Flo Health Aims to Change That&nbsp;&nbsp;Yahoo FinanceShifting attitudes on menopause drive lawmakers to push for new protections&nbsp;&nbsp;StatelineMenopause Linked to Mental Health Changes and Gray Matter Loss Unmitigated by HRT: Study&nbsp;&nbsp;Medical Dialogues",
-      "sources": [
-        {
-          "name": "Psyche",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vUm1veHZOMkMwOWE5cTFYcjJKdnBoX2RhUmM1RHRSVG9jaXhXWEc0REp4VERzQnRjLUZ4T3JOZnh2Y2dSTlpRc2g4d0VrbE8zcEtJMTlHa1lydldqcmZobmViQ3g4UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bdb1ad1e3e5e",
-      "title": "Scientists design an obesity drug that hits five metabolic targets at once, raising hopes beyond today’s injections - Earth.com",
-      "published": "2026-05-13T09:41:59+00:00",
-      "summary": "Scientists design an obesity drug that hits five metabolic targets at once, raising hopes beyond today’s injections&nbsp;&nbsp;Earth.comExperimental obesity drug outperforms traditional weight-loss treatments in early research&nbsp;&nbsp;Fox NewsNew “Trojan horse” obesity drug supercharges weight loss in early tests&nbsp;&nbsp;ScienceDailyResearchers develop hybrid molecule to treat obesity & diabetes | It can be used at much lower doses | Inshorts&nbsp;&nbsp;InshortsResearchers have created an ",
-      "sources": [
-        {
-          "name": "Earth.com",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPODY1WWJkTnV3aERfWml0eHNHUEQ1b1haT0xyUkxOOVlrMWJoTWp5Yk9scXdDVVhoTGt0VV94cHJJN0R4WnZ5R0ZjMWpEV19HUHFOS3NiOTFXNkVqYVMzMFhiM0EyRWhhdkZjWUd4OGk3aEV3M1hTdUw4cnlSMEx6eXdqZ3dVdVQxWlZoX1dZcVJKTzIta190OTFZNmVpZFZ4MUtLSWNnM1JOUi1STmxWZEFjOXhZZGRSMmlETmE0Q1ZHYVVRRk5hOEhYdHlDMjVtLWx1aTduR0I?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "009ff3bb6f4f",
-      "title": "This is not a drill: Inside the Johns Hopkins unit prepping for hantavirus patients - thebanner.com",
-      "published": "2026-05-13T09:30:00+00:00",
-      "summary": "This is not a drill: Inside the Johns Hopkins unit prepping for hantavirus patients&nbsp;&nbsp;thebanner.comSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "thebanner.com",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM1RsSUZhZ2RQWmdobWk0U1JtSDhnelA5VmowRkszcFd0U05yN1FTVld4Sl9seFFzU2VpbVlacURHUTJSUGZRMVZxNGMzVmR2ZS0yTmg0UFVwY0NUTHdFUTIzMFZwX3FxN2szWHZBeE15TnBlWWZmXzdRalhuQkdkclF5N1FISmtOVzFZdllmUldXX3hEcFpxaU1JNFVLVkx1dE8zdTdGUXJoNUFSSUJmNDZhLTdHYmoyZE11bTVoQnE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "016a8f81628e",
       "title": "You should probably eat more fiber. Here's why — and how to do it : Short Wave - NPR",
       "published": "2026-05-13T07:00:00+00:00",
@@ -666,110 +870,14 @@
       ]
     },
     {
-      "id": "3be7d2f512ac",
-      "title": "Trust Me, I'm a Longevity Doctor—6 Simple Daily Habits I Prioritise For Healthy Ageing - Marie Claire UK",
-      "published": "2026-05-13T06:00:00+00:00",
-      "summary": "Trust Me, I'm a Longevity Doctor—6 Simple Daily Habits I Prioritise For Healthy Ageing&nbsp;&nbsp;Marie Claire UKHealthy ageing: Four lifestyle habits that may support longer and better living&nbsp;&nbsp;Telangana TodayLifestyle Beats Genetics for Longevity. 10 Podcast Health Lessons Reveal the Habits That Actually Extend Your Life&nbsp;&nbsp;BoxLife Magazine'I’m a midlife hormone doctor – these are the longevity habits that actually work after 50'&nbsp;&nbsp;Women's Health",
-      "sources": [
-        {
-          "name": "Marie Claire UK",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xNlZfZ3Fic29xX2RhNDBkYzVOOU5pVkhlcExXR3dLUkJVT0Fwb3hrZ0NaRVk2WE1xUzZjT2QtS0drcVYyeG16WXVTT01oQVB4WjMxSWF4WWhlSUxxdkwtaEY4b0JnRHJwblZhWnNyMWZoRWtF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "91a287164005",
-      "title": "You May Have a Dangerous Type of Cholesterol Even if Your Tests Look Normal - SciTechDaily",
-      "published": "2026-05-13T00:51:42+00:00",
-      "summary": "You May Have a Dangerous Type of Cholesterol Even if Your Tests Look Normal&nbsp;&nbsp;SciTechDailyHidden Heart Risk Found in 1 in 5 People, Study Warns&nbsp;&nbsp;SciTechDailyThis lesser-known cholesterol can quadruple your heart-attack risk&nbsp;&nbsp;National GeographicHigh Lipoprotein(a) Levels Linked to Increased Cardiovascular Risk, suggests research&nbsp;&nbsp;Medical Dialogues",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWExGcUdlRXp6b3VQRDdjdTRlYXV2MFM3NVBpODF2OGk0LThPLU9fRFVrRXhNem0tVUNJNWFfLUVZeUFDRTFCd01WVHhPT2hrejQ5NTRPdDJNdktrSTdBM2JqLXpFQlR2MVVXT0djZEd3OFg2WjUwMWZ5OUdQN2Z1NjVnZEdna0ZubThIUkxvTngtd0lhZ2N6SHktU3VhWnBucVJn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dc657f625e54",
-      "title": "NASA's Next-Gen Mars Helicopter Rotors Have Broken The Sound Barrier in Tests - ScienceAlert",
-      "published": "2026-05-12T23:32:59+00:00",
-      "summary": "NASA's Next-Gen Mars Helicopter Rotors Have Broken The Sound Barrier in Tests&nbsp;&nbsp;ScienceAlertNASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1&nbsp;&nbsp;NASA Jet Propulsion Laboratory (JPL) (.gov)NASA pushes next-gen Mars helicopter rotors through the sound barrier&nbsp;&nbsp;New AtlasEngineers at NASA’s Jet Propulsion Lab make a breakthrough in rotor technology&nbsp;&nbsp;Ars TechnicaNext-Gen Helicopter Blades Tested at Supersonic Speeds Ahead of 2028 Mission to Mars&nbsp;&",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMEdGZXo1d2VzUXBQcW9XTzNiMURuY055bE00anlEc1A1RjNBaGVoeWoyaWhSaDhLS0hOVHNyd0Q1X2dqLVZUeGxjN3Z2b0RaQVhNbkppU05aUHZwZDg4Y1UtMnBfaDZyWjVSUE1lb0tVRUdOVW5KZWF1WkpaMnlrMFQ2WGxhWHJ5Qkk4YVM0NFJYS1Q1LXZFZlpKWjJrNTJjQnBmb3NQdkg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6168c7d1456b",
-      "title": "US government studies into vaccine safety are being suppressed | Robert B Shpiner - The Guardian",
-      "published": "2026-05-12T23:29:00+00:00",
-      "summary": "US government studies into vaccine safety are being suppressed | Robert B Shpiner&nbsp;&nbsp;The GuardianCIDRAP Op-Ed: Why the FDA tried to bury studies showing vaccines are safe&nbsp;&nbsp;CIDRAPF.D.A. Blocked Publication of Research Finding Covid and Shingles Vaccines Were Safe&nbsp;&nbsp;The New York TimesWeekend reads: FDA blocked vaccine findings; ‘Frankencitations Ravage the Academic Countryside’; ‘Publish and Perish’&nbsp;&nbsp;Retraction WatchWhen vaccine research is silenced, Americans ",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CaWh0Y3lYX0JaRmdlOGN0a25ZRmxpTXZ5TElEUURZQnBqUmhZMGRQV0VnRDhGUmllcDk3TTNPb2ZFUjhfdk9lSUdOMUdGSG03ZjRWYU92N2dScEVPNGplOVB4RTNVaDEzaXFVODIydUpCWVlLNFZhb2pyMXk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0ea39df1dd9e",
-      "title": "‘You only got one shot’: Ambulance crew says moving hantavirus patients was years in the making - WSB-TV",
-      "published": "2026-05-12T22:37:26+00:00",
-      "summary": "‘You only got one shot’: Ambulance crew says moving hantavirus patients was years in the making&nbsp;&nbsp;WSB-TVGA Ambulance Crew Says Hantavirus Patient Transport Was Years in the Planning&nbsp;&nbsp;jems.comNurse who treated Georgia Ebola patients shares into hantavirus battle at Emory&nbsp;&nbsp;WSB-TV",
-      "sources": [
-        {
-          "name": "WSB-TV",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYWxtTHFCSnpzaWc4aVNQanNiSEtGZW9NRXhZaGlab3RZYWZDYWFoVkd5Qmt4VHpmd3o1SF9kMUx6QzR4cWMtVXE2VjY1d2pKU0RsS29xWkVvM3NFc0g1V2pmemN3N0wwcmN3REctRmlQa0wxMEhxNVNCaXEzZUlQSDFMc3JsdDNDVndnSl9qNEVBQ05WS085Rmx6Nmo2MTdWN0dSZVR6RUhYX3FlNENDcF9JLWJRcENzN1p0WFJlcUpwenNmcURBeGFOcnlOekZVc2RrNXR4YkpFeTc2VVFXemV4bVZDbGNFUXfSAf4BQVVfeXFMT2N6M2dGWmU0VDRjRlphN0F3NnZCU3lGbzl5VlFuZ3M3UmJzN096LWhMR0lNNHVUQ3Uyd3kyTTZLMHFoQlpSMEFBNzVVeFpOaEFLMzZyeWphQjVvVFdWbnlSMmF4WkFwbXIxUWRaYTBsdk4tbTRENGJxOENsSmU2ZFU2U0tzcE93azBjZlA4bzhKRzRfcUsyQURwRTdiM1M4aFU2WGF6eWR1VVNXMF93eVFNNlp4NjFCbDMtMDAzQWFhRWhMOEF1MUtENWZEYnQyZW0wbERnelJiUW1zaHJ1dFBkMWkyLUJSVHhaWTV0Qnh4OGtaX2xJWHZXVTN6NlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fbe5fedab8f1",
-      "title": "Is hantavirus in Illinois in 2026? IDPH investigating potential case in Winnebago County, IL not linked to cruise ship outbreak - ABC7 Chicago",
-      "published": "2026-05-12T21:30:09+00:00",
-      "summary": "Is hantavirus in Illinois in 2026? IDPH investigating potential case in Winnebago County, IL not linked to cruise ship outbreak&nbsp;&nbsp;ABC7 ChicagoUS health officials investigating possible hantavirus case not linked to cruise ship outbreak&nbsp;&nbsp;KY3Hantavirus case suspected in Ontario County&nbsp;&nbsp;13wham.comCan mice and rats spread hantavirus in Illinois? What to know after possible case&nbsp;&nbsp;NBC 5 ChicagoPossible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Shi",
-      "sources": [
-        {
-          "name": "ABC7 Chicago",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRFdnM2RTNm9iMnZYMTB5YzhQam5TTW5CbWZtbUxXVTRUQTdEUXI0MlEtOVBMOF9wRGdENXRWeFd5Tkx3X3VwY2piZUEtTFYwRUdFRF8xYkRzenNicmhtZmhNVE1Gc3k2ODVhLV9rY082Z0xZWHVqY3RscEgyOG1LUHNzVXlhQmFlbEc5MWlPeWUxdHNvNWx4X1pPUThUU190aDRTazB5WEpIMWlXalRYdWlJSVZNV3Z2RnBLa3h2dkNIdmdQcFNmV0RWV2pXdVd4V3M2S3N1UlI5NGRzeWZyMmloc9IB6AFBVV95cUxORHdYTTdWejkzaWJaZnl0cTM4Tng0Tlpldjh5ZFpZb1VZR0xQN244R2RoTmxVaHRTVnFHQnQzNnk3TERSUkRycUpvM2pqNDFpRGprU3dtTml6YmJ0MUNSMG9OTEhoWTVOaFNpWnZENzR0TGlYcm5yX2xZY3QydW4wT3J1c0xSSl9qcDVQTXNZYXhMb1lXTldtXzZ5RHFfYkdTNWhIWkN1SmcwbEhYdFFYU3lWR2tOUmJxVmptLUNLeU9wT1BRZHhTRWdneUlkUVYyNUViYUFJeWhtY0FxU055Q2h6TlEyRlRF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "39e2bfa2d8a1",
-      "title": "Slowing Parkinson’s by Blocking a Key Protein - Neuroscience News",
-      "published": "2026-05-12T21:12:37+00:00",
-      "summary": "Slowing Parkinson’s by Blocking a Key Protein&nbsp;&nbsp;Neuroscience NewsScientists May Have Discovered How Parkinson’s Disease Spreads Through the Brain&nbsp;&nbsp;SciTechDailyImmune protein emerges as possible target to slow Parkinson's progression&nbsp;&nbsp;Medical XpressMonoclonal Antibodies Targeting GPNMB Show Promise in Slowing Early Parkinson’s Progression&nbsp;&nbsp;geneonline.comImmune Protein Identified as Potential Target to Slow Parkinson’s Disease Progression&nbsp;&nbsp;Bioengine",
-      "sources": [
-        {
-          "name": "Neuroscience News",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUGN0OXIxbXpjZkpabWhIT1BUWVNsQ19udUNmRzAzMVYzQmNEZzNJYzlONV9Fd0UzeUhsZVZUamxEbXJWN2Jnb0VoZ0E3Z3BvWGNRYTlGS3VGSmk2cDVZaUZxeWdNcUxGR3AyN253TkREdnotbnRBMi1qQlVZZDZFOFZn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "85b2c58f3bec",
-      "title": "New MRI Breakthrough Captures Stunningly Clear Images of the Eye and Brain - SciTechDaily",
-      "published": "2026-05-12T20:31:35+00:00",
-      "summary": "New MRI Breakthrough Captures Stunningly Clear Images of the Eye and Brain&nbsp;&nbsp;SciTechDaily",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOW1sbDF1bWFMWnA5RGZtakZsWkxreTZ6dFNubzFsODlFdjRQUGRvQXFPSEZkVTFtbnlEODVHYnJaMGk0aVhzQnJ1azVFMXpfUzJiTWZ0cmJFSnR2T2ZVSGVKeS1LWW5pdlRSWVVXT2ZQZVJfakhQX08zUXdkNy1JbF9RNWxxWjd6TUJ5UXcweWtfT0xtbEJmZ2dpYlJQWDhIR0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "71b173f1c58d",
-      "title": "What to Know About the New Obsession With Testosterone - The New York Times",
-      "published": "2026-05-12T09:02:29+00:00",
-      "summary": "What to Know About the New Obsession With Testosterone&nbsp;&nbsp;The New York TimesIs testosterone therapy safe and effective? What we know&nbsp;&nbsp;Scientific American‘They’ve invented a spurious pseudo-disease’: why are so many men being told they have low testosterone?&nbsp;&nbsp;The GuardianLow Testosterone in Men: Real Condition or Overdiagnosis?&nbsp;&nbsp;The Eastern HeraldThe Testosterone Gold Rush: Is 'Low T' a Crisis or a Marketing Tool?&nbsp;&nbsp;AsatuNews.co.id",
+      "id": "00429dbbef6b",
+      "title": "Why So Many Men Are Obsessed With Testosterone - The New York Times",
+      "published": "2026-05-13T07:00:00+00:00",
+      "summary": "Why So Many Men Are Obsessed With Testosterone&nbsp;&nbsp;The New York Times‘They’ve invented a spurious pseudo-disease’: why are so many men being told they have low testosterone?&nbsp;&nbsp;The GuardianLow Testosterone in Men: Real Condition or Overdiagnosis?&nbsp;&nbsp;The Eastern HeraldIs testosterone therapy safe and effective? What we know&nbsp;&nbsp;Scientific AmericanWhat to Know About the New Obsession With Testosterone&nbsp;&nbsp;The New York Times",
       "sources": [
         {
           "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZkhnWUNoMF8xSTBnRUo1NEJYWW16ZVhGN0VZZWMydm5ZV0JtNk9RVWtEclA3cDk2T0gyUU05Z1pCaUEyd3RFRFhoNWtYNURqS01fTWNjNi1nVlRIMVFwMmozMHJrV2Jxd1huNkZIMmRiQTE5eGRsSDRVWkdXMkpyNXZvbEJEQkt6WDZ5UXRObw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVFB5MnM4RUhKVHJQTEdEckFfdURQRHNOYk4zUkpwMkFmaEtlZW0zbnpaRjlFWXlzTDFIaktvN1JWNzVNaUZqT1dSSDRqd25DLXhUdVpaaGREYmlGLVp5bHVBcEE3MGxDV0tjT24zTU01R2MzbXVvdVFMYzVuaHZxcTdQTHBrU2M1RjN3?oc=5"
         }
       ]
     }

@@ -1,14 +1,38 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-16T19:09:31.532205+00:00",
-  "total_fetched": 117,
-  "unique_count": 117,
-  "health_related_count": 65,
+  "fetched_at": "2026-05-17T03:44:53.127631+00:00",
+  "total_fetched": 119,
+  "unique_count": 119,
+  "health_related_count": 68,
   "news": [
+    {
+      "id": "d693752ec02e",
+      "title": "WHO declares Ebola outbreak in Congo and Uganda ‘emergency’ of international concern - The Guardian",
+      "published": "2026-05-17T03:19:00+00:00",
+      "summary": "WHO declares Ebola outbreak in Congo and Uganda ‘emergency’ of international concern&nbsp;&nbsp;The GuardianWHO declares Ebola outbreak in DR Congo global health emergency&nbsp;&nbsp;BBCLatest Ebola outbreak an emergency of international concern, WHO declares&nbsp;&nbsp;CNNEpidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern&nbsp;&nbsp;World Health Organization (WHO)A new Ebola outbre",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR0x0ZTVKMzVTeGRTOFJ1a0JtSnRsOHN6bFA0Ym9VVjNmSjN2REtpVzdvNW5HR0ZKTHFNS1YxNlN0ZFU0Um9rbEx0c1RqSHQ0UlB4azFCUUpBYkhwd3Z3RkIyVnVWcTFZV2R3XzQ0RWkyaDU1RVpFNWFvTmVmYzhXMzA5R1pBc0JEaVJVSHA2TXA5VEstd3FibkNTOTB6UEZJM2FF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b223139e6b00",
+      "title": "How a Nature Cruise Turned Into a Nightmare - The New York Times",
+      "published": "2026-05-17T02:32:50+00:00",
+      "summary": "How a Nature Cruise Turned Into a Nightmare&nbsp;&nbsp;The New York TimesHantavirus ship passenger speaks about Nebraska quarantine experience&nbsp;&nbsp;WOWTHantavirus outbreak reduced to 10 cases as ship passengers return to home countries&nbsp;&nbsp;cidrap.umn.eduDoctor from hantavirus-stricken ship tests negative, moves out of biocontainment unit&nbsp;&nbsp;CNNCDC tightens home monitoring guidance for high-risk hantavirus contacts&nbsp;&nbsp;The Washington Post",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV0RhYk1MVnRWZ01DdEhhcTRIelU0ZFMtVDMwekFBdlBjSUdQSG56cllUc1ljYjJyZkM0RXhoRHAyRE0xOHE0MEJvM3BZUTd4UWkwaGE4UE8wVlhUM1g5R29YWWIyeFV2bXBjN09yT2p6OV9acUNYRVctSzd1YmhSZVZFeTI?oc=5"
+        }
+      ]
+    },
     {
       "id": "5e5548bbf97f",
       "title": "Hantavirus: US has no cases of Andes hantavirus - ABC7 Los Angeles",
-      "published": "2026-05-16T18:04:31+00:00",
+      "published": "2026-05-17T02:29:14+00:00",
       "summary": "Hantavirus: US has no cases of Andes hantavirus&nbsp;&nbsp;ABC7 Los AngelesArgentina Races to Find Origin of Hantavirus Contagion&nbsp;&nbsp;The New York TimesTwo more people exposed to hantavirus on ship come to quarantine unit at UNMC-Nebraska Medicine&nbsp;&nbsp;WOWTCDC not requiring hantavirus cruise passengers to isolate at home&nbsp;&nbsp;BorderReportAmerican doctor who initially tested positive says further testing shows 'no evidence that I've had hantavirus'&nbsp;&nbsp;ABC News - Breakin",
       "sources": [
         {
@@ -18,10 +42,58 @@
       ]
     },
     {
+      "id": "79ce31578365",
+      "title": "Even with billboards across the region, a Mount Washington man’s search for a kidney continues - Pittsburgh Post-Gazette",
+      "published": "2026-05-17T01:53:03+00:00",
+      "summary": "Even with billboards across the region, a Mount Washington man’s search for a kidney continues&nbsp;&nbsp;Pittsburgh Post-Gazette",
+      "sources": [
+        {
+          "name": "Pittsburgh Post-Gazette",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRmJxZThuVVZuSHZKZzItLS1DeHU3UllCRm0ydWNnRFQyeF9HdmVRWkRPUVM0Sk9LODVWU2gxMUc0ampJZUVZaVQ3UkJTRS1rdW9qY3c2bGNIWWtuelVhd3ZKMUJyZV85T0ROZXFvMXlmYi1ubmxrSUEtanNIU00ySm1uZ08xYWxESnRnZFFXdWFjcXRyZHlpOHdkb0R5VHpXRlFHNzJ1OFNyZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2d0b943bfc1e",
+      "title": "Canadian MV Hondius cruise passenger tests positive for hantavirus - NBC News",
+      "published": "2026-05-16T21:11:50+00:00",
+      "summary": "Canadian MV Hondius cruise passenger tests positive for hantavirus&nbsp;&nbsp;NBC NewsCanadian from hantavirus-hit cruise ship tests positive&nbsp;&nbsp;BBCCanadian tourist tests positive ​for hantavirus after leaving luxury cruise ship ‌hit by outbreak&nbsp;&nbsp;The IndependentCanada confirms first hantavirus case in isolation in British Columbia&nbsp;&nbsp;The GuardianCanada confirms first suspected hantavirus case linked to cruise ship&nbsp;&nbsp;USA Today",
+      "sources": [
+        {
+          "name": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZWxHX01XdG43NFdsSktRekFKbklBM3RnNmxvT0JXUkVycFM0WHJCam1xOHVicl9sUmNudFdHaXRkSEZDTXU4WFpqbGc1NFRKcEpjOHVsdVZFRWxZcFdNQlhQcnNFbGFuVzNJU2JKWHBYQUZ6b1J0anduRWFqYjJqMDhpUEhCQ19EdllSUm40N19KUmdGMFVPU0RySnVtaXBvZXlYR0VWeV9heDQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a5c2c43639d4",
+      "title": "Mysterious fault’s quake brakes may hold secret to stopping tremors: Study - New York Post",
+      "published": "2026-05-16T19:53:00+00:00",
+      "summary": "Mysterious fault’s quake brakes may hold secret to stopping tremors: Study&nbsp;&nbsp;New York PostThis underwater fault near Ecuador has baffled scientists for decades. They just cracked it&nbsp;&nbsp;The Economic TimesScientists discover hidden “brakes” that stop massive earthquakes&nbsp;&nbsp;ScienceDailyAcela of the ocean&nbsp;&nbsp;University of DelawareIU researcher helps solve mystery of clockwork-like earthquake system deep beneath the Pacific&nbsp;&nbsp;News at IU",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSHF1dWFOT2hXbWFJTjZfV0U2SGR4U0xwOTdwMElpTzJ3Y2hCeWtoeWZLZTZmNWtVSTlfRDU4cHpXNHMxUHR4UW5MeFFxSnhUSHowMFVOU2d6TnJUM0RScUNFYTNvdFRHT3k1ZWpPWjlfVXZ2VmpIVnNtYXktQk9DSjhjb0ItS0wtNldIalFtYTNrRmRUYzJKQ3FzT3RYSlU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7df300f2f109",
+      "title": "Scientists find a remarkable molecule that could help humans live up to 200 years cancer free - Earth.com",
+      "published": "2026-05-16T18:28:32+00:00",
+      "summary": "Scientists find a remarkable molecule that could help humans live up to 200 years cancer free&nbsp;&nbsp;Earth.com",
+      "sources": [
+        {
+          "name": "Earth.com",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT3JYb3VxNXFUVm9GSG8xNFNZcHBkMXZWby1qZDJERGxCb1I1WG9jZ1FIOEQ4Vm1rdWp2Sm9yYWVscGdDY0ppeGpIdEpxdjkzaDMzeFNoamJqQ1dCdUd1VnFsQlh3Z1ZfUm9BbGpNRF9yTEg2T19xZS10U2FuZElrbldOdFVaUllSVVh4Qy1NY2x6MnJ6RlItemNaNUZTWm9BYTZqNkI1TmxzMXZtaUdydExsWlM5ank2bzdJUlNzbHR4VTg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "53c86c193b4c",
       "title": "5 foods to support strong bones - The Washington Post",
       "published": "2026-05-16T17:00:00+00:00",
-      "summary": "5 foods to support strong bones&nbsp;&nbsp;The Washington PostOsteoporosis doesn't have to be a life sentence — a longevity doctor explains what actually helps&nbsp;&nbsp;Yahoo CreatorsBeyond Calcium: A Blueprint for Bone Resilience&nbsp;&nbsp;American Council on Science and HealthStronger Bones for a Healthier Future: Why Screening Matters&nbsp;&nbsp;The AdvocateBone Health & Osteoporosis Prevention&nbsp;&nbsp;KATU",
+      "summary": "5 foods to support strong bones&nbsp;&nbsp;The Washington PostBeyond Calcium: A Blueprint for Bone Resilience&nbsp;&nbsp;American Council on Science and HealthOsteoporosis doesn't have to be a life sentence — a longevity doctor explains what actually helps&nbsp;&nbsp;Yahoo CreatorsAMAC Active Webinar: Bendable or Breakable—How to Protect Your Bones After 50&nbsp;&nbsp;AMAC - The Association of Mature American CitizensStronger Bones for a Healthier Future: Why Screening Matters&nbsp;&nbsp;The Adv",
       "sources": [
         {
           "name": "The Washington Post",
@@ -30,34 +102,10 @@
       ]
     },
     {
-      "id": "42ed37d6ddc0",
-      "title": "Here Are 3 Things You Can Actually Do To Lower Your Risk Of Colorectal Cancer - BuzzFeed",
-      "published": "2026-05-16T16:31:02+00:00",
-      "summary": "Here Are 3 Things You Can Actually Do To Lower Your Risk Of Colorectal Cancer&nbsp;&nbsp;BuzzFeedWhy is colon cancer on the rise in young people? What to know and steps you can take&nbsp;&nbsp;NBC 5 ChicagoColon cancer cases rising in younger adults as doctors urge early screening&nbsp;&nbsp;First Alert 4Poor diet, sedentary lifestyle put young men at risk of getting colorectal cancer&nbsp;&nbsp;Daily NationColon cancer: Young bowel cancer cases rise to 7 in 100,000, doctors warn over blood in s",
-      "sources": [
-        {
-          "name": "BuzzFeed",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOTWpkVVo4dUVSOW9rZ04taURkQ3Z4dVhReGRyaThRVEI2cW9iVkl0VWJKNUh3TkFxbUExUWJ1TWRJRXk4RVpaYnRiZVJoZjRlVlZ6LUp4czZJQzRfZ0lmZENjMTFMS1RJd0hSNHlXakVpcl90LVZ0OVJ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "00a5d4a5880f",
-      "title": "Frequent burials and at least 80 dead as Congo grapples with Ebola outbreak - CBS News",
-      "published": "2026-05-16T16:13:43+00:00",
-      "summary": "Frequent burials and at least 80 dead as Congo grapples with Ebola outbreak&nbsp;&nbsp;CBS NewsA new Ebola outbreak has already killed 87 people&nbsp;&nbsp;NPRAfrica CDC Calls for Urgent Regional Coordination Following Ebola Virus Disease Outbreak in Ituri Province, DRC, and Imported Ebola Bundibugyo Case Reported by Uganda&nbsp;&nbsp;Africa CDCUganda confirms Ebola case in man from neighboring Congo who died in Ugandan capital&nbsp;&nbsp;PBSNo vaccine for new highly lethal Ebola outbreak, DR Co",
-      "sources": [
-        {
-          "name": "CBS News",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FSUN5OU9RQlhzdl9ibDVveEJzc2hkNWZmbWJxcHhRY1hZNFJDUUVwcldWZ0FyaFBxNWZNdFY5aTYwVVVLc0p5VTM5QTQ0WmlPSi0wLXRGaVNnX3A3bUgzS3gyU29lcFNfbXVKOS1IWmxoa2RaVEdqc09n0gF_QVVfeXFMT3BxSzN4anFZaGlDQjFpX0dnMnRldHNoRnJCSnVFZmJrUVgwWVNFUmVzWlJDYlNJV2hJVjRjOTFEWkdoem83aHJjakZFUzVNNlNhZFBucWNvdmRzUEtmaW9wSG9xVjQ5NVY5R0dUaGZaemtfcTVmV0ZjVXYxZXVBWQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0158b882a936",
       "title": "France says cruise ship Andes virus matches known South American viruses - AP News",
-      "published": "2026-05-16T16:07:00+00:00",
-      "summary": "France says cruise ship Andes virus matches known South American viruses&nbsp;&nbsp;AP NewsFrench Hantavirus Patient Is Critically Ill as Outbreak Reaches 11 Cases&nbsp;&nbsp;The New York TimesVersion of hantavirus behind deadly cruise ship outbreak matches known strain, France says&nbsp;&nbsp;CBS NewsFrance and Netherlands say that all hantavirus contact cases are negative&nbsp;&nbsp;Le Monde.frHantavirus outbreak grows to 11 cases&nbsp;&nbsp;The Hill",
+      "published": "2026-05-16T16:56:00+00:00",
+      "summary": "France says cruise ship Andes virus matches known South American viruses&nbsp;&nbsp;AP NewsFrench Hantavirus Patient Is Critically Ill as Outbreak Reaches 11 Cases&nbsp;&nbsp;The New York TimesVersion of hantavirus behind deadly cruise ship outbreak matches known strain, France says&nbsp;&nbsp;CBS NewsFrance and Netherlands say that all hantavirus contact cases are negative&nbsp;&nbsp;Le Monde.frFact Check: France DID NOT declare a hantavirus lockdown&nbsp;&nbsp;India Today",
       "sources": [
         {
           "name": "AP News",
@@ -66,14 +114,26 @@
       ]
     },
     {
-      "id": "c24f1807ca82",
-      "title": "My 29-year-old son had a stomach ache that wouldn't go away. He was diagnosed with stage 4 colon cancer and died 6 months later. - Business Insider",
-      "published": "2026-05-16T15:50:37+00:00",
-      "summary": "My 29-year-old son had a stomach ache that wouldn't go away. He was diagnosed with stage 4 colon cancer and died 6 months later.&nbsp;&nbsp;Business Insider",
+      "id": "42ed37d6ddc0",
+      "title": "Here Are 3 Things You Can Actually Do To Lower Your Risk Of Colorectal Cancer - BuzzFeed",
+      "published": "2026-05-16T16:31:02+00:00",
+      "summary": "Here Are 3 Things You Can Actually Do To Lower Your Risk Of Colorectal Cancer&nbsp;&nbsp;BuzzFeedWhy is colon cancer on the rise in young people? What to know and steps you can take&nbsp;&nbsp;NBC 5 ChicagoColon cancer: Young bowel cancer cases rise to 7 in 100,000, doctors warn over blood in stool symptoms&nbsp;&nbsp;Moneycontrol.comPoor diet, sedentary lifestyle put young men at risk of getting colorectal cancer&nbsp;&nbsp;Daily NationThe fight against colorectal cancer: What you need to know&",
       "sources": [
         {
-          "name": "Business Insider",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQzJmcThNaXI0RC1NZlVFa2ZxcnY5Q3Q2UElpVXpRcEtBSXgwYjNuODhiTThDMFp0aXJUSEF5SmNXbzdFWGFkMkVYblMyanR0X2xqdURMRUxKQTBIbm1IQ3NMNXlXYVJfQjVHU1JWYUtPU094RG50dExVNkg0VlNaWmF6T1NvWmc?oc=5"
+          "name": "BuzzFeed",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOTWpkVVo4dUVSOW9rZ04taURkQ3Z4dVhReGRyaThRVEI2cW9iVkl0VWJKNUh3TkFxbUExUWJ1TWRJRXk4RVpaYnRiZVJoZjRlVlZ6LUp4czZJQzRfZ0lmZENjMTFMS1RJd0hSNHlXakVpcl90LVZ0OVJ3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "12f7a748573a",
+      "title": "Scientists Uncover Cancer-Fighting Power of Popular Fatty Liver Drug - SciTechDaily",
+      "published": "2026-05-16T16:01:49+00:00",
+      "summary": "Scientists Uncover Cancer-Fighting Power of Popular Fatty Liver Drug&nbsp;&nbsp;SciTechDaily",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVjVmVm1haDdEX1Yxbi00X1hadGNHaTIzQkl4blJHbGdhVzAydWlkN05DVWJNVFQ2UlJmYlVPMU1aRlZ4R0gwQXlucnh1MzFTTXR2eEZpdXExdzFpRFF6a2U2M2JWcVkwRENBNXBBWF9yM2RaMWVFanZUNTZ0VGhid1lNQW44S2Vaa1diRVctWk5yX2xpaXlpQUpR?oc=5"
         }
       ]
     },
@@ -81,7 +141,7 @@
       "id": "a2ec2322f16d",
       "title": "Hantavirus latest updates: Suspected case at New York high school not linked to cruise ship - Yahoo",
       "published": "2026-05-16T15:41:29+00:00",
-      "summary": "Hantavirus latest updates: Suspected case at New York high school not linked to cruise ship&nbsp;&nbsp;YahooSee more headlines & perspectives on Google News",
+      "summary": "Hantavirus latest updates: Suspected case at New York high school not linked to cruise ship&nbsp;&nbsp;YahooOntario County health officials report locally acquired case of han­tavirus&nbsp;&nbsp;Spectrum NewsSuspected hantavirus case in Ontario County involves Geneva HS student, district says&nbsp;&nbsp;13wham.comPossible hantavirus case under investigation in upstate New York; no connection to deadly cruise ship outbreak&nbsp;&nbsp;Fox NewsPossible Illinois Hantavirus Case Not Linked to Outbrea",
       "sources": [
         {
           "name": "Yahoo",
@@ -93,7 +153,7 @@
       "id": "4ba10ad4fca8",
       "title": "10 High-Protein Snacks for a Diabetes-Friendly Diet - EatingWell",
       "published": "2026-05-16T15:00:00+00:00",
-      "summary": "10 High-Protein Snacks for a Diabetes-Friendly Diet&nbsp;&nbsp;EatingWellProtein Rich Foods: 7 high-protein foods that may support overall health naturally&nbsp;&nbsp;The Times of India6 Foods That Pack More Protein Than Chicken Breast—and Dietitians Love Them&nbsp;&nbsp;Real Simple25 High-Protein Snacks That Will Keep You Full and Energized&nbsp;&nbsp;Yahoo7 Ways To Follow a High-Protein Diet Without Overspending&nbsp;&nbsp;AOL.com",
+      "summary": "10 High-Protein Snacks for a Diabetes-Friendly Diet&nbsp;&nbsp;EatingWellProtein Rich Foods: 7 high-protein foods that may support overall health naturally&nbsp;&nbsp;The Times of India6 Foods That Pack More Protein Than Chicken Breast—and Dietitians Love Them&nbsp;&nbsp;Real Simple25 High-Protein Snacks That Will Keep You Full and Energized&nbsp;&nbsp;YahooThe 8 Best High-Protein Snacks, According to Registered Dietitians&nbsp;&nbsp;marthastewart.com",
       "sources": [
         {
           "name": "EatingWell",
@@ -102,10 +162,34 @@
       ]
     },
     {
+      "id": "f15de55870f9",
+      "title": "Human brains decreased in size 3,000 years ago – here’s why - The Brighter Side of News",
+      "published": "2026-05-16T14:07:00+00:00",
+      "summary": "Human brains decreased in size 3,000 years ago – here’s why&nbsp;&nbsp;The Brighter Side of NewsSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "The Brighter Side of News",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYU9GWDdlTDlXVTV3SmhaVjJHQUladTYxZmFMRktHdWVhMHNCek9neTk4RE1aMEIxWjIxdnQzUFpIakdQRVhLWUxRMU9hbmJ2NHByeE8ySEtObjVNS0JWSWVxUmpvRW9HdS1lUHlibVpjU1QzRV9KRENPUHdqTkptTFl1a182UXdBN2tONTAyeGRJajVYLU1tUkFB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "47d312682d29",
+      "title": "Your Body Clock May Enhance The Benefits of Exercise, Study Finds - ScienceAlert",
+      "published": "2026-05-16T14:02:47+00:00",
+      "summary": "Your Body Clock May Enhance The Benefits of Exercise, Study Finds&nbsp;&nbsp;ScienceAlertSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUkxNQ3c2dHhlQUF4SEJSQVVUX2tsaEJwMkR0anVodkNxVm1tc1VPVmplajEtX1FLRTRfbDJKVl9GZGZaYnR3dFp5WFQ3VmY3WEJzS3l4WktDSG05QjhNYkRZVTBnQjFUbS1venR6Y25XbmFTM0wxVEQ2bGJQeFYzV2FFc1FlSTFhUXdNM29sakV6eXEyN0pBQg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5ea6d1f40465",
       "title": "I Know Way Too Much About Infectious Diseases. Here’s Why I’m Considering Taking a Cruise With My Family Anyway. - Slate",
       "published": "2026-05-16T14:00:00+00:00",
-      "summary": "I Know Way Too Much About Infectious Diseases. Here’s Why I’m Considering Taking a Cruise With My Family Anyway.&nbsp;&nbsp;SlateThe hantavirus debacle raises a key question: why would anyone go on a cruise? | Dave Schilling&nbsp;&nbsp;The GuardianHow outbreaks at sea have been helping to shape the global health system since medieval times&nbsp;&nbsp;PBSWhy do people still take cruises? Convenience, value outweigh health risks, experts say&nbsp;&nbsp;CBCCruise critics are wrong about nearly ever",
+      "summary": "I Know Way Too Much About Infectious Diseases. Here’s Why I’m Considering Taking a Cruise With My Family Anyway.&nbsp;&nbsp;SlateThe hantavirus debacle raises a key question: why would anyone go on a cruise? | Dave Schilling&nbsp;&nbsp;The GuardianHow outbreaks at sea have been helping to shape the global health system since medieval times&nbsp;&nbsp;PBSCruise ships are perfect breeding ground for viruses, but we can’t get enough&nbsp;&nbsp;The Washington PostCruise critics are wrong about nearl",
       "sources": [
         {
           "name": "Slate",
@@ -114,14 +198,26 @@
       ]
     },
     {
-      "id": "666a09039559",
-      "title": "Scientists Say They've Invented a Serum That Activates a Dormant Ability to Regrow Lost Limbs in Mammals - Futurism",
-      "published": "2026-05-16T13:00:00+00:00",
-      "summary": "Scientists Say They've Invented a Serum That Activates a Dormant Ability to Regrow Lost Limbs in Mammals&nbsp;&nbsp;FuturismScientists discover ‘holy grail’ of genes that could regrow human limbs, living tissue&nbsp;&nbsp;New York PostHumans May Have Hidden Regenerative Powers, New Study Suggests&nbsp;&nbsp;SciTechDailyWhy Can’t Humans Regrow Limbs? An Evolutionary Biologist Explains&nbsp;&nbsp;ForbesScientists find 2 genes that could enable human limb regrowth&nbsp;&nbsp;NewsBytes",
+      "id": "4454a73b30bd",
+      "title": "First-ever direct image of the cosmic web reveals the Universe’s hidden highways - ScienceDaily",
+      "published": "2026-05-16T13:20:40+00:00",
+      "summary": "First-ever direct image of the cosmic web reveals the Universe’s hidden highways&nbsp;&nbsp;ScienceDailyJWST maps universe's largest structure in great our detail&nbsp;&nbsp;SpaceFor the First Time, Scientists See the Universe’s Skeleton in Incredible Detail Thanks to JWST&nbsp;&nbsp;The Daily GalaxyInternational study supported by the James Webb Telescope reveals impressive details of the cosmic web and helps scientists view the universe's past with unprecedented precision.&nbsp;&nbsp;CPG Click",
       "sources": [
         {
-          "name": "Futurism",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qZFhlTnVGQTN0YVdtcnFWMjQ5d29uend5dFdBRTBpZ21wdzJpLUR4NG5FVVlWUkNoTUFMM0xBVVZUMHJDbks1d25pSjJ4OS1IdmhSTDM0Zkpacy0zU0F1Vl9seFhEN3djMFRqRmtPNUtCTS1wU3o0UGtHc2xvTGM?oc=5"
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Ha183TXlUNTVHYnRmQ3ZUUXlfVVFaOWFFbkRwcHJsbDZMdWZiaWtrRHotV25zckRKMmNGZlBxNHNVXzlGeDNPMkYxZGwwTDFxVTdFMnBHcnBGR0I5ZThxQnJEUThUOGRLT19vdlV2VQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6500ccbac420",
+      "title": "Scientists Say They’ve Invented a Serum That Activates a Dormant Ability to Regrow Lost Limbs in Mammals - Yahoo",
+      "published": "2026-05-16T13:00:00+00:00",
+      "summary": "Scientists Say They’ve Invented a Serum That Activates a Dormant Ability to Regrow Lost Limbs in Mammals&nbsp;&nbsp;YahooScientists discover ‘holy grail’ of genes that could regrow human limbs, living tissue&nbsp;&nbsp;New York PostHumans May Have Hidden Regenerative Powers, New Study Suggests&nbsp;&nbsp;SciTechDailyWhy Can’t Humans Regrow Limbs? An Evolutionary Biologist Explains&nbsp;&nbsp;ForbesScientists find 2 genes that could enable human limb regrowth&nbsp;&nbsp;NewsBytes",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaFNVQkxhU0w3TE9yUGlXVUhYWEQzYzRjQU1FWHcyeWowSmFJcW9CaE5WdUQtZ1g0YmtxTEhkZm0wZnU2ZXRjdGVkUVdtOXlPMzJvTVlDblMzX3Rma0pSZFJZdmtsV0ZqUHBzTGtJMUsxRjNualFoeVlnVXBQY21ZVkR0MURNZ2Z3TURKY2F3WG4zVkU?oc=5"
         }
       ]
     },
@@ -129,7 +225,7 @@
       "id": "ed4e7040d839",
       "title": "Scientists find hidden brain nutrient deficit that may fuel anxiety - ScienceDaily",
       "published": "2026-05-16T12:50:29+00:00",
-      "summary": "Scientists find hidden brain nutrient deficit that may fuel anxiety&nbsp;&nbsp;ScienceDailyA Common Nutrient May Play a Surprising Role in Anxiety&nbsp;&nbsp;SciTechDailyAnxiety may leave a chemical fingerprint in the brain that is linked to a common food nutrient&nbsp;&nbsp;Earth.comCholine’s Crucial Impact on Brain Development&nbsp;&nbsp;Bioengineer.orgPeople With \"Anxious Brains\" Are Low In This Nutrient, New Study Shows&nbsp;&nbsp;MindBodyGreen",
+      "summary": "Scientists find hidden brain nutrient deficit that may fuel anxiety&nbsp;&nbsp;ScienceDailyA Common Nutrient May Play a Surprising Role in Anxiety&nbsp;&nbsp;SciTechDailyAnxiety may leave a chemical fingerprint in the brain that is linked to a common food nutrient&nbsp;&nbsp;Earth.comScientists Find Choline Deficit in Brains of People with Anxiety Disorders — Largest Brain-Scan Study of Its Kind&nbsp;&nbsp;Tech TimesCholine’s Crucial Impact on Brain Development&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -153,7 +249,7 @@
       "id": "823f3400dfa2",
       "title": "Here’s What Science Tells Us About the Risks of Hantavirus - WSJ",
       "published": "2026-05-16T12:00:00+00:00",
-      "summary": "Here’s What Science Tells Us About the Risks of Hantavirus&nbsp;&nbsp;WSJOsterholm on hantavirus: We’re missing ‘main point of this outbreak’&nbsp;&nbsp;cidrap.umn.eduCould hantavirus spread like COVID-19?&nbsp;&nbsp;University of CaliforniaQ&amp;A: Epidemiologist from Brown University’s Pandemic Center on the hantavirus outbreak&nbsp;&nbsp;Brown UniversityHantavirus Doesn’t Spread Easily, but Officials May Be Downplaying Risks&nbsp;&nbsp;The New York Times",
+      "summary": "Here’s What Science Tells Us About the Risks of Hantavirus&nbsp;&nbsp;WSJOsterholm on hantavirus: We’re missing ‘main point of this outbreak’&nbsp;&nbsp;cidrap.umn.eduWhat counts as 'close contact'? Why the risk of hantavirus transmission is tricky to define&nbsp;&nbsp;Live ScienceCould hantavirus spread like COVID-19?&nbsp;&nbsp;University of CaliforniaShould you cancel your cruise after the hantavirus outbreak?&nbsp;&nbsp;NewsNation",
       "sources": [
         {
           "name": "WSJ",
@@ -162,14 +258,62 @@
       ]
     },
     {
+      "id": "c24f1807ca82",
+      "title": "My 29-year-old son had a stomach ache that wouldn't go away. He was diagnosed with stage 4 colon cancer and died 6 months later. - Business Insider",
+      "published": "2026-05-16T11:25:00+00:00",
+      "summary": "My 29-year-old son had a stomach ache that wouldn't go away. He was diagnosed with stage 4 colon cancer and died 6 months later.&nbsp;&nbsp;Business Insider",
+      "sources": [
+        {
+          "name": "Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQzJmcThNaXI0RC1NZlVFa2ZxcnY5Q3Q2UElpVXpRcEtBSXgwYjNuODhiTThDMFp0aXJUSEF5SmNXbzdFWGFkMkVYblMyanR0X2xqdURMRUxKQTBIbm1IQ3NMNXlXYVJfQjVHU1JWYUtPU094RG50dExVNkg0VlNaWmF6T1NvWmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d55acb6f71d6",
+      "title": "Stunning fossil discovery in Ethiopia rewrites human origins - ScienceDaily",
+      "published": "2026-05-16T11:22:29+00:00",
+      "summary": "Stunning fossil discovery in Ethiopia rewrites human origins&nbsp;&nbsp;ScienceDaily",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56Zm1pVXhRei12UGVtYTdtU0xHb3AyeWV0VnQyR3BNa2RyZ00tUWNiSzJaTHlmTlZVMmd5LWFTMTY3amt1OXdKLXAzZlhmS29uZjBOQ2cxOG1lMk94VDlwcms1VVM2WE95cEdsTHNScw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8fb98155f802",
       "title": "How Much You Need To Walk Every Day To Cut Your Risk Of Heart Disease - HuffPost",
       "published": "2026-05-16T11:00:18+00:00",
-      "summary": "How Much You Need To Walk Every Day To Cut Your Risk Of Heart Disease&nbsp;&nbsp;HuffPostCan Walking Really Replace the Gym? Here’s Why Many Think So&nbsp;&nbsp;Telangana TodayOne step at a time: Going for walks is my favorite way to exercise&nbsp;&nbsp;Gaucher Disease NewsWalking improves mental health&nbsp;&nbsp;The Conway Daily Sun7 Effects of a 30-Minute Daily Walk to the Body&nbsp;&nbsp;Daily Times Nigeria News",
+      "summary": "How Much You Need To Walk Every Day To Cut Your Risk Of Heart Disease&nbsp;&nbsp;HuffPostSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "HuffPost",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOa3BrRGdkbG0tTFRDOFdSb3VfQlNsWDhmVXZUNVBKdHUzLVFTSXpITTF5eEhPZk1EblM1YkdoRXlGNG9kQ1o2VzE1S2dKaElKTjh3SWNuMnkxYWNpcDF5OVBqVms2N3VET2RjUEpwXzhHaF92QXJJdWZDZklpNkZGUGRaUXMtNmQwaUxRR0VWdUpNZ0UxQ3puNGdxLVk3YnBtU1JneW45YWV0SjVWc0tYLTkwY2FPdDRGbmRoTzF4ZVV5UXJMNUVwU19ycDLSAdIBQVVfeXFMTnVkaUx0d0VibXJQTExteHQ3Y3BLTTdNNkdlOFVQVzl2OE9WeDVzOW1FMHVjdnNwb2h2VVdFMV9qVTJKUkp0bFowUzBSZE9iQnZVVzZIdVgyLW1GeHBaN3J4dXZOdl9BcU04aGI4QmU3R0dWMjllQW9nc0plcmxuaEluTkVnbEZFUnJuSHJJWEstT2J3ZjE2MmpzZUw3cGp1ODUwUnNqWm9kUXdJM2ZnLWJidDZ6UzF5M3VYYnB4NkthZmdxeWViMnA2cFc4Y1BMN0N3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "726244c7c7b3",
+      "title": "Mind wandering enhances the brain’s ability to learn hidden patterns, new study suggests - PsyPost",
+      "published": "2026-05-16T10:11:17+00:00",
+      "summary": "Mind wandering enhances the brain’s ability to learn hidden patterns, new study suggests&nbsp;&nbsp;PsyPost",
+      "sources": [
+        {
+          "name": "PsyPost",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR2pEN0lianJHOGpNdm1scUlTaGQ1bXdQVUs4SUhzYVZoN2pvMVpDNFlnb1FVM0F3SjdxU2lxcURQSndCWFJIMW1XN0RtbkxWVlRJNUNoU2ZHU0J0RVRxdzd6T1dRTFZwNjVhdG03VThsRXRkSEtsNnBhQm1VWVNOZUxTM0ZDSXR3Ykx5NWh4bV8tZjA2OXB3NWtEUlljaTc2akVNQzBSUXg3M283WXl1dA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2a168690a768",
+      "title": "Astronomers find interstellar comet 3I/ATLAS hiding in images taken before its official discovery - Space",
+      "published": "2026-05-16T10:00:00+00:00",
+      "summary": "Astronomers find interstellar comet 3I/ATLAS hiding in images taken before its official discovery&nbsp;&nbsp;SpaceDual spacecraft capture both hemispheres of interstellar comet 3I/ATLAS at once&nbsp;&nbsp;Phys.orgEuropa Clipper and Juice Team Up to Observe Interstellar Comet 3I/ATLAS&nbsp;&nbsp;Sci.NewsInterstellar comet '3I/Atlas' reveals its secrets&nbsp;&nbsp;Le Monde.frVera C. Rubin Observatory imaged interstellar comet 3I/ATLAS June 2025&nbsp;&nbsp;NewsBytes",
+      "sources": [
+        {
+          "name": "Space",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNanRwa0lNd3ZIck95STJxTTFsVWtaaGZtYnZkTm5kWnNZSEVLNnl6emtGd0s2cm9sMTd1MlBFa0c1NDNFWG9iQ2Rmci1XaU9MMTBKZFhRRzNxNWR4aDR5UmhuWnozZ3EwNEZrR0xabjVhTTl0NnhldVpkemxvVV9Wc0hhUGpQV09UT3MyUG0yQkppZllUZHhDNTZqYVlDVUg1Y0dPS3hlNWpBck1UU1RDNDZhd21YSXQ0ZnB2SFVUUzBqeXpxZWNrQXprclNrbzBINGc?oc=5"
         }
       ]
     },
@@ -182,30 +326,6 @@
         {
           "name": "News of the United States - NOTUS",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX0ZaekNhMDNaM0tEOFNxaFRYU1JHcjQyRlVnY1J1eGRwRC1lcFBUN055NXM0QnB0TDhBaHdZODZ2XzlxQ0lWakFES3oydDB4aGsxOVdKRWdFX1ZqV0ZpeXJIMWZpVzhNaVVZUTNESThCNVVqSHQwV09OUEtrbVBXZ1lmcXF4dXU5ZWREcUJ3VTRyRTZTSDhsSWJ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b223139e6b00",
-      "title": "How a Nature Cruise Turned Into a Nightmare - The New York Times",
-      "published": "2026-05-16T09:01:12+00:00",
-      "summary": "How a Nature Cruise Turned Into a Nightmare&nbsp;&nbsp;The New York TimesCDC tightens home monitoring guidance for high-risk hantavirus contacts&nbsp;&nbsp;The Washington PostHantavirus ship passenger speaks about Nebraska quarantine experience&nbsp;&nbsp;WOWTHantavirus countdown: U.S. cruise passengers settle in for 42 days of waiting&nbsp;&nbsp;NPRHantavirus has not mutated to be more transmissible: WHO&nbsp;&nbsp;The Hill",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV0RhYk1MVnRWZ01DdEhhcTRIelU0ZFMtVDMwekFBdlBjSUdQSG56cllUc1ljYjJyZkM0RXhoRHAyRE0xOHE0MEJvM3BZUTd4UWkwaGE4UE8wVlhUM1g5R29YWWIyeFV2bXBjN09yT2p6OV9acUNYRVctSzd1YmhSZVZFeTI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "019c690dafcb",
-      "title": "Antarctica Is Hiding a Terrifying Secret. It Could Put the World at Risk. - AOL.com",
-      "published": "2026-05-16T07:15:56+00:00",
-      "summary": "Antarctica Is Hiding a Terrifying Secret. It Could Put the World at Risk.&nbsp;&nbsp;AOL.comA ‘triple whammy’ of chaos has triggered a downward spiral in Antarctica, scientists discover&nbsp;&nbsp;CNNScientists identify hidden accelerant in Antarctic ice loss&nbsp;&nbsp;Phys.orgThe Hole in the Ice at the End of the Earth&nbsp;&nbsp;The New York TimesAntarctic ice-shelf basal melt shaped by competing feedbacks&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUEtXSnFoaTdjVVBNVERBWUtLdXV5T2JXc1BuTUF4SlhNeGdpbEFsN3hxWjdUNWtqYnYtVFJNSEtaWmRqeTZaM0xDbTRUOHd3WDI2RzN4cnI1bFBEWTJ3UHlmZlNmUEJqRlpXdXVXeW5OOExOWFR0dXNVMlZGRnpDbTE5cXFHR1dTWTVWdkxB?oc=5"
         }
       ]
     },
@@ -237,7 +357,7 @@
       "id": "6ad0748df4f0",
       "title": "Fourth King County resident potentially exposed to hantavirus - MyNorthwest.com",
       "published": "2026-05-16T00:54:25+00:00",
-      "summary": "Fourth King County resident potentially exposed to hantavirus&nbsp;&nbsp;MyNorthwest.comHealth officials track fourth King County resident tied to MV Hondius Andes hantavirus&nbsp;&nbsp;KOMO16 More People in the U.S. Are Being Monitored for Hantavirus, C.D.C. Says&nbsp;&nbsp;The New York TimesThree in Kansas exposed to person infected with Andes hantavirus: KDHE&nbsp;&nbsp;KSNT 27 NewsFourth King County resident linked to cruise ship hantavirus outbreak&nbsp;&nbsp;The Seattle Times",
+      "summary": "Fourth King County resident potentially exposed to hantavirus&nbsp;&nbsp;MyNorthwest.com16 More People in the U.S. Are Being Monitored for Hantavirus, C.D.C. Says&nbsp;&nbsp;The New York TimesHealth officials track fourth King County resident tied to MV Hondius Andes hantavirus&nbsp;&nbsp;KOMOIs the Hantavirus in the US? Map Shows States Where Passengers Have Returned Home&nbsp;&nbsp;TODAY.comFourth King County resident linked to cruise ship hantavirus outbreak&nbsp;&nbsp;The Seattle Times",
       "sources": [
         {
           "name": "MyNorthwest.com",
@@ -249,7 +369,7 @@
       "id": "66d4767bc090",
       "title": "Study of 3,000 DNA Samples Reshapes Understanding of Japanese Origins - GreekReporter.com",
       "published": "2026-05-16T00:31:49+00:00",
-      "summary": "Study of 3,000 DNA Samples Reshapes Understanding of Japanese Origins&nbsp;&nbsp;GreekReporter.comWho are the Japanese? Huge DNA discovery rewrites history&nbsp;&nbsp;ScienceDailyScientists find hidden third ancestral group in Japanese genomes&nbsp;&nbsp;The News InternationalGeneticists have discovered a third group of ancestors of the Japanese and debunked the myth of their homogeneity&nbsp;&nbsp;open.kg",
+      "summary": "Study of 3,000 DNA Samples Reshapes Understanding of Japanese Origins&nbsp;&nbsp;GreekReporter.comWho are the Japanese? Huge DNA discovery rewrites history&nbsp;&nbsp;ScienceDailyA massive DNA discovery just rewrote everything we thought we knew about the Japanese people&nbsp;&nbsp;The Economic TimesScientists find hidden third ancestral group in Japanese genomes&nbsp;&nbsp;The News InternationalGeneticists have discovered a third group of ancestors of the Japanese and debunked the myth of their",
       "sources": [
         {
           "name": "GreekReporter.com",
@@ -261,7 +381,7 @@
       "id": "d913571c3b9b",
       "title": "Mesa sees largest measles outbreak in decades, health officials urge vaccination - ABC15 Arizona",
       "published": "2026-05-16T00:04:00+00:00",
-      "summary": "Mesa sees largest measles outbreak in decades, health officials urge vaccination&nbsp;&nbsp;ABC15 ArizonaNew Phoenix-area locations exposed to measles added as cases increase&nbsp;&nbsp;AZ FamilyArizona measles outbreak is growing. Were you exposed?&nbsp;&nbsp;azcentral.com and The Arizona RepublicArizona: Maricopa County measles tally now 14&nbsp;&nbsp;Outbreak News TodayHow to Protect Yourself and Your Family from Measles&nbsp;&nbsp;gilbert.gov",
+      "summary": "Mesa sees largest measles outbreak in decades, health officials urge vaccination&nbsp;&nbsp;ABC15 ArizonaNew Phoenix-area locations exposed to measles added as cases increase&nbsp;&nbsp;AZ FamilyArizona measles outbreak is growing. Were you exposed?&nbsp;&nbsp;azcentral.com and The Arizona RepublicNew Measles Case, Public Exposures Identified by Public Health&nbsp;&nbsp;Maricopa County (.gov)Maricopa County confirms 15th measles case of 2026, identifies new Queen Creek exposure sites&nbsp;&nbsp;",
       "sources": [
         {
           "name": "ABC15 Arizona",
@@ -272,8 +392,8 @@
     {
       "id": "b0c1afa042b1",
       "title": "Sin Nombre hantavirus case tied to home mouse exposure in Chelan County - KOMO",
-      "published": "2026-05-15T23:43:36+00:00",
-      "summary": "Sin Nombre hantavirus case tied to home mouse exposure in Chelan County&nbsp;&nbsp;KOMOColorado health officials confirm deadly hantavirus case&nbsp;&nbsp;KUSA.comHantavirus reported in Chelan County, WA, unrelated to cruise ship outbreak&nbsp;&nbsp;FOX 13 SeattleColorado Department of Public Health and Environment confirms hantavirus case&nbsp;&nbsp;CBS NewsHantavirus Confirmed In Chelan County Resident, Health Officials Say&nbsp;&nbsp;NewsRadio 560 KPQ",
+      "published": "2026-05-15T23:43:54+00:00",
+      "summary": "Sin Nombre hantavirus case tied to home mouse exposure in Chelan County&nbsp;&nbsp;KOMOColorado health officials confirm deadly hantavirus case not linked to cruise&nbsp;&nbsp;KUSA.comColorado hantavirus death not linked to cruise ship outbreak, state says&nbsp;&nbsp;The Denver PostHantavirus reported in Chelan County, WA, unrelated to cruise ship outbreak&nbsp;&nbsp;FOX 13 SeattleSomeone in Chelan County tested positive for hantavirus&nbsp;&nbsp;KIRO 7 News Seattle",
       "sources": [
         {
           "name": "KOMO",
@@ -282,10 +402,22 @@
       ]
     },
     {
+      "id": "2c1ff3f643b5",
+      "title": "This Common Type of Food May Be Raising Your Risk of Heart Disease - SciTechDaily",
+      "published": "2026-05-15T23:02:36+00:00",
+      "summary": "This Common Type of Food May Be Raising Your Risk of Heart Disease&nbsp;&nbsp;SciTechDailyUltra-processed foods are not all created equal, and new guidance could reshape school lunches and food rules&nbsp;&nbsp;Medical XpressThe 5 most harmful processed ingredients experts say you need to limit&nbsp;&nbsp;BBC Science Focus MagazineEveryday food that's 'destroying your heart' according to top surgeon&nbsp;&nbsp;FOODbibleHeart surgeon reveals four foods we consume every day that are 'proven to red",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2NERFlSZDMyTmxVRXVPX0NELUNISnNDTmNUZTdob1YyaFUyLXdPNFo4X0FUM3VUWFFWWjFwa1dwbjBiaWJGSVJRVEFnSllpNU41TVh2QWVpaGc2SDIzT1dXQUd6RS1JS1hjSlRJeUpmcVF0Q3UyaGs5dDFCMDlMNkp0TEhadThaaXIzNDJWNWg4MUdfdjl3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ebf776fe15c2",
       "title": "Measles exposure reported at Happy Valley urgent care center - OregonLive.com",
       "published": "2026-05-15T22:54:00+00:00",
-      "summary": "Measles exposure reported at Happy Valley urgent care center&nbsp;&nbsp;OregonLive.comHappy Valley clinic identified as new measles exposure site&nbsp;&nbsp;KPTVLatest measles exposure reported at clinic in Happy Valley&nbsp;&nbsp;KOIN.comOregon health officials warn of measles exposure at Happy Valley clinic&nbsp;&nbsp;KATUMeasles exposure reported at Happy Valley urgent care clinic&nbsp;&nbsp;KDRV",
+      "summary": "Measles exposure reported at Happy Valley urgent care center&nbsp;&nbsp;OregonLive.comHappy Valley clinic identified as new measles exposure site&nbsp;&nbsp;KPTVOregon health officials warn of measles exposure at Happy Valley clinic&nbsp;&nbsp;KATULatest measles exposure reported at clinic in Happy Valley&nbsp;&nbsp;KOIN.comMeasles exposure reported at Happy Valley urgent care clinic&nbsp;&nbsp;KDRV",
       "sources": [
         {
           "name": "OregonLive.com",
@@ -318,22 +450,10 @@
       ]
     },
     {
-      "id": "b708542c1c55",
-      "title": "Vitamin B12 is crucial for keeping many parts of the body working properly, so even a small shortage can cause widespread health issues - Earth.com",
-      "published": "2026-05-15T20:58:13+00:00",
-      "summary": "Vitamin B12 is crucial for keeping many parts of the body working properly, so even a small shortage can cause widespread health issues&nbsp;&nbsp;Earth.comA Common Vitamin Has a Complicated Link to Cancer, Experts Reveal&nbsp;&nbsp;ScienceAlertVitamin B12: the essential nutrient with a complicated cancer link&nbsp;&nbsp;The ConversationNew Research Shows Vitamin B12 May Hold the Key to Healthy Aging&nbsp;&nbsp;SciTechDailyThe silent vitamin deficiency experts say could increase your cancer risk",
-      "sources": [
-        {
-          "name": "Earth.com",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYlFCcFJFZnZPaWNmX19pV2h4dUpsNU5DNnZ1WlNOTW5XTGRSU3hVS0FaWmhxYklEREN1NmVtRkdZZ2piOWZEeWtZLU1MQlJpV1dpcFRGa1dXcGVHX0JmeE1JMGIxdWV0dlpqNlV0R3lOSnAwNTRUd2NFbU1PRGlYbHBTd0xoMjF6Q2pSWHNTZk5SYjltRGtLRnQ2T2JESGxNaXV6eGVwcWZaMEpl?oc=5"
-        }
-      ]
-    },
-    {
       "id": "021b1bdf3028",
       "title": "CDC Didn’t Tell New York About Resident on Hantavirus-Plagued Cruise - The Intercept",
       "published": "2026-05-15T20:41:08+00:00",
-      "summary": "CDC Didn’t Tell New York About Resident on Hantavirus-Plagued Cruise&nbsp;&nbsp;The InterceptHantavirus Response Shows How Trump Cuts Have Compromised U.S. Preparedness&nbsp;&nbsp;The New York TimesHantavirus will be ‘dead end’ outbreak soon: Ex-CDC director&nbsp;&nbsp;NewsNationCDC Is Walking a Tightrope With Its Response to Hantavirus&nbsp;&nbsp;WSJHantavirus outbreak tests Trump officials who criticized covid response&nbsp;&nbsp;The Washington Post",
+      "summary": "CDC Didn’t Tell New York About Resident on Hantavirus-Plagued Cruise&nbsp;&nbsp;The InterceptTrump’s health cuts complicate federal messaging on hantavirus&nbsp;&nbsp;The HillHantavirus Response Shows How Trump Cuts Have Compromised U.S. Preparedness&nbsp;&nbsp;The New York TimesSomething deeper than hantavirus - by Katelyn Jetelina&nbsp;&nbsp;Your Local EpidemiologistCDC Is Walking a Tightrope With Its Response to Hantavirus&nbsp;&nbsp;WSJ",
       "sources": [
         {
           "name": "The Intercept",
@@ -345,7 +465,7 @@
       "id": "0a70be8eb807",
       "title": "Connecticut health officials warn of hepatitis A outbreak linked to shellfish - WFSB",
       "published": "2026-05-15T20:35:00+00:00",
-      "summary": "Connecticut health officials warn of hepatitis A outbreak linked to shellfish&nbsp;&nbsp;WFSBSome CT retailers received clams linked to possible NY hepatitis A outbreak, health officials warn&nbsp;&nbsp;CTPostConnecticut Department of Health urges shellfish safety from imported products amid hepatitis A investigation&nbsp;&nbsp;News12 | BronxConnecticut Department of Public Health warns of hepatitis A outbreak in New York being linked to shellfish&nbsp;&nbsp;YahooConnecticut health officials enc",
+      "summary": "Connecticut health officials warn of hepatitis A outbreak linked to shellfish&nbsp;&nbsp;WFSBSome CT retailers received clams linked to possible NY hepatitis A outbreak, health officials warn&nbsp;&nbsp;CTPostConnecticut Department of Health urges shellfish safety from imported products amid hepatitis A investigation&nbsp;&nbsp;News12 | BronxConnecticut Department of Public Health warns of hepatitis A outbreak in New York being linked to shellfish&nbsp;&nbsp;WTNH.comConnecticut health officials ",
       "sources": [
         {
           "name": "WFSB",
@@ -354,14 +474,14 @@
       ]
     },
     {
-      "id": "048623a67bcc",
-      "title": "A 47-year study reveals when strength and fitness start to fade - ScienceDaily",
-      "published": "2026-05-15T19:59:13+00:00",
-      "summary": "A 47-year study reveals when strength and fitness start to fade&nbsp;&nbsp;ScienceDaily4 Nutrients That Help Fight Age-Related Muscle & Bone Loss (Besides Protein)&nbsp;&nbsp;MindBodyGreen",
+      "id": "cf12cde0bbec",
+      "title": "How to get rid of mosquitoes and keep your home 100% bug free this year - NBC News",
+      "published": "2026-05-15T19:30:00+00:00",
+      "summary": "How to get rid of mosquitoes and keep your home 100% bug free this year&nbsp;&nbsp;NBC NewsHate Mosquitos? Here Are Gadgets & Gear Designed To Keep Them Away All Summer&nbsp;&nbsp;SlashGearState Health Officials Warn Residents To Protect Against Tick & Mosquito Illnesses&nbsp;&nbsp;WHKYA mosquito storm is coming. Here’s how to prevent bites.&nbsp;&nbsp;MSNHow to Get Rid of Mosquitoes in Your Yard Naturally&nbsp;&nbsp;Yahoo Creators",
       "sources": [
         {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KM3U0UHBPdHMwNnJwMV96WDFFODJKaDBCUi1GR0g5bVoweElXcTZHWHZweFZtSHd1ekxqc0RaZksyZF9NekFMVENJbVF1Y1IyN3lhMG9UdURIR0daVWRWbkg1ejhJOXFWZXZVMktfMA?oc=5"
+          "name": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSlBwaVdEeEd6OU4yd0NoUmdDM1ZQVmRpRlV1blNydGdSSGJlRVdzR0EwVXVSNTdWN1JMLTVUWERNTkhfb2UtVnpOQXVCdG1xbmk3Ri1maGRSMi1HRHdJNlBqZ0xpWTN0NFRLNHFzbkFKQWtnTjNrTFF0VHNpMkIwVWNoTlhNdw?oc=5"
         }
       ]
     },
@@ -369,7 +489,7 @@
       "id": "d3c664f2e797",
       "title": "WHO Director Shoots Down Alex Jones’ Claims Hantavirus Is ‘COVID 2.0’ - Forbes",
       "published": "2026-05-15T19:17:11+00:00",
-      "summary": "WHO Director Shoots Down Alex Jones’ Claims Hantavirus Is ‘COVID 2.0’&nbsp;&nbsp;ForbesFollow-up message by the WHO Director-General to the people of Tenerife regarding the hantavirus response&nbsp;&nbsp;World Health Organization (WHO)WHO shares update on global hantavirus cases&nbsp;&nbsp;USA TodayTop WHO official: I’m relieved it isn’t bird flu, but we’re in a ‘make or break’ phase for hantavirus&nbsp;&nbsp;The TelegraphWHO confirms 10 global hantavirus cases, Hondius crew remain symptom-free&",
+      "summary": "WHO Director Shoots Down Alex Jones’ Claims Hantavirus Is ‘COVID 2.0’&nbsp;&nbsp;ForbesFollow-up message by the WHO Director-General to the people of Tenerife regarding the hantavirus response&nbsp;&nbsp;World Health Organization (WHO)Top WHO official: I’m relieved it isn’t bird flu, but we’re in a ‘make or break’ phase for hantavirus&nbsp;&nbsp;The TelegraphWHO confirms 10 global hantavirus cases, Hondius crew remain symptom-free&nbsp;&nbsp;Al JazeeraWHO shares update on global hantavirus cases",
       "sources": [
         {
           "name": "Forbes",
@@ -378,10 +498,22 @@
       ]
     },
     {
+      "id": "457d24cf7f11",
+      "title": "Novel Antibody Repairs Acute Spinal Cord Lesions - Neuroscience News",
+      "published": "2026-05-15T19:13:02+00:00",
+      "summary": "Novel Antibody Repairs Acute Spinal Cord Lesions&nbsp;&nbsp;Neuroscience NewsAnti-Nogo-A NG101 treatment induces changes in spinal cord micro- and macrostructure following spinal cord injury&nbsp;&nbsp;NatureNerve-sprouting therapy boosts coordinated walking across spinal cord injury severities in mice&nbsp;&nbsp;Medical XpressNew Therapy Improves Coordinated Walking in Mice with Spinal Cord Injuries, Targeting Nerve Regeneration in Contusion Injuries&nbsp;&nbsp;geneonline.comAntibody Promotes N",
+      "sources": [
+        {
+          "name": "Neuroscience News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa0ExOUtZX3lTMEtJTjFqSF81ZGdhOGIyZ0d4S2ppd0ZtSVg4dFVBMVVPTU1GRHdER3k0TzNIUnNBaS1hbzNNc3RISnh6bnpTRWc4Qnc4STQ0cnVZbmNWaDkxQVc1TnZtNzI3UDg1YW4yMnRFOGFyY2EtenRYdFhZc0VNWlhPRmlHZ0E?oc=5"
+        }
+      ]
+    },
+    {
       "id": "618d88d40248",
       "title": "Scientists Say Cognitive Decline Isn’t Inevitable — Your Brain Can Improve at Any Age - SciTechDaily",
       "published": "2026-05-15T19:12:37+00:00",
-      "summary": "Scientists Say Cognitive Decline Isn’t Inevitable — Your Brain Can Improve at Any Age&nbsp;&nbsp;SciTechDailyThree enjoyable ways to slow your brain's ageing&nbsp;&nbsp;BBCChallenging your mind can help maintain brain health. Here are steps the Alzheimer's Association recommends.&nbsp;&nbsp;CBS NewsMequon woman practices healthy habits for brain health&nbsp;&nbsp;Spectrum NewsAHA Reframes Brain Health as a Lifelong Process&nbsp;&nbsp;Medscape",
+      "summary": "Scientists Say Cognitive Decline Isn’t Inevitable — Your Brain Can Improve at Any Age&nbsp;&nbsp;SciTechDailyThree enjoyable ways to slow your brain's ageing&nbsp;&nbsp;BBCChallenging your mind can help maintain brain health. Here are steps the Alzheimer's Association recommends.&nbsp;&nbsp;CBS NewsAHA Reframes Brain Health as a Lifelong Process&nbsp;&nbsp;MedscapeMaking Brain Health a Routine Part of Clinical Care&nbsp;&nbsp;Physician's Weekly",
       "sources": [
         {
           "name": "SciTechDaily",
@@ -398,18 +530,6 @@
         {
           "name": "The Daily Galaxy",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQWVBSkczT0FySFBqNWpEeTFuV2hhQU1FV1BDejVtcE0zd1Q5b0Jld3JJY1ozc0hVYjJNcHJtWl9KTFZxU2pFR1BqLXNZUnpFajNDQXBGbEZyaS15MFRCc3NqTHNWZmtJcW5rVDNHM1FfbUNZaE5GSGhJb2otTjRnRw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e744a9349b36",
-      "title": "New stroke trial reveals why reopening a blocked artery is sometimes not enough - Earth.com",
-      "published": "2026-05-15T18:33:12+00:00",
-      "summary": "New stroke trial reveals why reopening a blocked artery is sometimes not enough&nbsp;&nbsp;Earth.com",
-      "sources": [
-        {
-          "name": "Earth.com",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZURhbXlJdE9rdDRuYktqbnJsd3hPTV9jbVFlcW9fbzRGUlJVZ1hzV1dmUFFaaUZCMnZhRjNFcnJ2cjBWTkxkcFlkd1FYbEM3SlZhemJtSDZXc1RqMEFkTXBranFIakFyMll5cDNMeGRSTWpKc2M0bzBma2J4eXpqSFdOOFNuNFh2VF91dkxQR0p5TkUtQnBxNVR5UDJkUldWTXBkbHhJNnBMVjg?oc=5"
         }
       ]
     },
@@ -438,26 +558,26 @@
       ]
     },
     {
-      "id": "81e13d19c2cd",
-      "title": "Scientists Studied Half A Million People And Found A Sleep Sweet Spot For Healthy Aging - ZME Science",
-      "published": "2026-05-15T16:34:54+00:00",
-      "summary": "Scientists Studied Half A Million People And Found A Sleep Sweet Spot For Healthy Aging&nbsp;&nbsp;ZME ScienceSleep chart of biological ageing clocks in middle and late life&nbsp;&nbsp;NatureOne Critical Factor Predicts Longevity Better Than Diet or Exercise, Study Finds&nbsp;&nbsp;ScienceAlertToo little sleep—and too much—associated with faster aging&nbsp;&nbsp;Medical XpressBetween 6.4 and 7.8 hours of sleep may aid healthy aging, longevity&nbsp;&nbsp;Medical News Today",
+      "id": "36aa335392b4",
+      "title": "Popular workout supplement may blunt heart benefits of exercise in women - Medical Xpress",
+      "published": "2026-05-15T17:00:01+00:00",
+      "summary": "Popular workout supplement may blunt heart benefits of exercise in women&nbsp;&nbsp;Medical Xpress",
       "sources": [
         {
-          "name": "ZME Science",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fVzhwYTREVmpEZEgwWUF4UUlEVWItWlc0ZXJlSml2M3ZodlFZWXUtTWxKcUZfSmFmYTNkaWdnZmVpVUUtM2Z2Nk9pU3hxYnYtMW9od0dGS2NmM3Jva0IyeVRmeFgtWG83WnE0R3dERkNYcGRaSFE?oc=5"
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSUhwM18zaXEzVm9TWm1YOTdUZ0l6MU91b0RnRGFxQVBFWlFYZUxMU0R3bS1CUmpYYkRFSnRqTE9zTnpuUXJ2MzlINmdPN3I3T3l5cFB4ZkJsNy1keENIVXBjY2l3WlJvNVE3ZWJpRjRoZHJ0a3JadDNnTkNxOVlpLTVKcUNqU2szc1E?oc=5"
         }
       ]
     },
     {
-      "id": "d398437727d1",
-      "title": "Researchers Mapped 30 Million Trips to the Moon. This One’s the Cheapest - Gizmodo",
-      "published": "2026-05-15T16:30:45+00:00",
-      "summary": "Researchers Mapped 30 Million Trips to the Moon. This One’s the Cheapest&nbsp;&nbsp;GizmodoMathematical method calculates most efficient Earth-moon route yet&nbsp;&nbsp;Phys.orgA trajectory study suggests spacecraft may not need to meet Earth-moon L1 exactly — and that small mathematical shortcut could matter for the next decade of lunar logistics&nbsp;&nbsp;Space DailyScientists discover SHORTCUT to the Moon in breakthrough for space exploration&nbsp;&nbsp;GB NewsNew, Shortest Path to the Moon ",
+      "id": "81e13d19c2cd",
+      "title": "Scientists Studied Half A Million People And Found A Sleep Sweet Spot For Healthy Aging - ZME Science",
+      "published": "2026-05-15T16:34:54+00:00",
+      "summary": "Scientists Studied Half A Million People And Found A Sleep Sweet Spot For Healthy Aging&nbsp;&nbsp;ZME ScienceSleep chart of biological ageing clocks in middle and late life&nbsp;&nbsp;NatureOne Critical Factor Predicts Longevity Better Than Diet or Exercise, Study Finds&nbsp;&nbsp;ScienceAlertToo little sleep—and too much—associated with faster aging&nbsp;&nbsp;Medical XpressAre you sleeping too little or too much for healthy ageing?&nbsp;&nbsp;Euronews.com",
       "sources": [
         {
-          "name": "Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS0FpdWVON3Z3VEc2Z0Y0cWFJNGg2Y25GamduRzFkazRMTTZ1eFV2ZGxxRldLY240SERLZmFpYVJxaFZReS03b0s3dlhJZTk5c0RNYTF2WUxkZnhnT0NVUmNIdUw0cUVfNFlRLVdRQkNKQm9HSTV5RFRFb3ZSd0M1X2RsalhhX25VaWpCalRjaXdkWV9QQXNkNVdJVlNoVjZpdFJj?oc=5"
+          "name": "ZME Science",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fVzhwYTREVmpEZEgwWUF4UUlEVWItWlc0ZXJlSml2M3ZodlFZWXUtTWxKcUZfSmFmYTNkaWdnZmVpVUUtM2Z2Nk9pU3hxYnYtMW9od0dGS2NmM3Jva0IyeVRmeFgtWG83WnE0R3dERkNYcGRaSFE?oc=5"
         }
       ]
     },
@@ -498,6 +618,18 @@
       ]
     },
     {
+      "id": "430c9c6ad6e4",
+      "title": "World first DNA study: where you live may change how fast you age - The University of Manchester",
+      "published": "2026-05-15T15:01:00+00:00",
+      "summary": "World first DNA study: where you live may change how fast you age&nbsp;&nbsp;The University of ManchesterStanford scientists map the molecular diversity of different global populations&nbsp;&nbsp;News-MedicalFirst-Of-Its-Kind “Deep Profiling” Reveals That Where You Live May Impact How Quickly You Age&nbsp;&nbsp;IFLScienceYour address, ancestry and gut may be steering aging in ways medicine has barely begun to map&nbsp;&nbsp;MSN",
+      "sources": [
+        {
+          "name": "The University of Manchester",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdVRwRlhVVlpXOHRVRlB0eEs2T3U4NmRMQi1oSHcxUXB0dXlvQTA0ekxBMW5yT3BoWUQ4NzFaemZZVHF6OE9GdUE4Z25xTktsRVNtelZsMVIwd3YyZlRJVVhmS3Y0MFFkQTNfaE8zM0FpOGpsTVhlNVAzYXJvM1I0c3VhcENXaU1LNW9wWUlwMW4yRWZ0UlpaUDhNeERCSGc0cktIdmpKczM?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0836b20e9dd1",
       "title": "A 4-Week Diet Change May Turn Back The Clock on Aging, Study Suggests - ScienceAlert",
       "published": "2026-05-15T14:01:46+00:00",
@@ -522,6 +654,18 @@
       ]
     },
     {
+      "id": "436834e233b2",
+      "title": "The Impossible Strength of the Testosterone Myth - Nautilus | Science",
+      "published": "2026-05-15T14:00:00+00:00",
+      "summary": "The Impossible Strength of the Testosterone Myth&nbsp;&nbsp;Nautilus | ScienceThe Myth of the Dangerous Male Hormone&nbsp;&nbsp;Splice TodayScientists Looked at 52 Studies on Testosterone and Risk Taking and Found Almost No Connection&nbsp;&nbsp;ZME ScienceNew study challenges the idea that testosterone drives risk-taking behavior&nbsp;&nbsp;Medical XpressThe testosterone myth? Large analysis finds no link between the \"macho\" hormone and risk-taking&nbsp;&nbsp;PsyPost",
+      "sources": [
+        {
+          "name": "Nautilus | Science",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLUM3NjdNSWhUTWxmRkJ3MXVONHlCbTFyMXcyT096M0FCOVdBcVRZNmd1QjFnbWpFWEVtRk5GM1NCQW50YzBoRFZ4QWJwcUx2ZnNYRk81UXNqaU9sanZHX3oweVZaZlE5ZnAwZHEtRFZ2S0xPZUVUSXp3Nng4NFItVlVB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f706cd4c0fcb",
       "title": "Virus in the vents: Study traces COVID spread in high-rise apartment - cidrap.umn.edu",
       "published": "2026-05-15T13:21:15+00:00",
@@ -534,10 +678,22 @@
       ]
     },
     {
+      "id": "03dc44a95c71",
+      "title": "A Newly Discovered Virus Weak Spot Could Change Future Treatments - Indian Defence Review",
+      "published": "2026-05-15T13:00:00+00:00",
+      "summary": "A Newly Discovered Virus Weak Spot Could Change Future Treatments&nbsp;&nbsp;Indian Defence ReviewScientists discover a weak spot shared by polio and common cold viruses&nbsp;&nbsp;ScienceDaily",
+      "sources": [
+        {
+          "name": "Indian Defence Review",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNzEwd1V4OXR0aGhlcG1zYk9xTDVxd0R3NElOV0FEQ25ZS19oZkh3aHVhNkE2aF9xemNyelVGNTRwSWlZM2VRQWJVSmpDVmFMN21pSzdNVE1pUjc1WXR6X3dEdERTdjd4a1BxU05tV1ZuYjVwNGtYYmZnbFZTMFdSZA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ff9021399084",
       "title": "Visiting Museums May Slow Your Biological Aging, Study Finds - ScienceAlert",
       "published": "2026-05-15T12:01:45+00:00",
-      "summary": "Visiting Museums May Slow Your Biological Aging, Study Finds&nbsp;&nbsp;ScienceAlertEngaging with arts and culture can slow biological aging as much as exercise, study suggests&nbsp;&nbsp;CNNIs culture really as good for you as a workout?&nbsp;&nbsp;Financial TimesThe Relaxation of Regularly Listening to Songs or Drawing Pictures May Actually Slow Cellular Aging, New Research Shows&nbsp;&nbsp;Smithsonian MagazineEngaging with the arts can slow biological aging, study shows&nbsp;&nbsp;NPR",
+      "summary": "Visiting Museums May Slow Your Biological Aging, Study Finds&nbsp;&nbsp;ScienceAlertEngaging with the arts can slow biological aging, study shows&nbsp;&nbsp;NPRThe Relaxation of Regularly Listening to Songs or Drawing Pictures May Actually Slow Cellular Aging, New Research Shows&nbsp;&nbsp;Smithsonian MagazineIs culture really as good for you as a workout?&nbsp;&nbsp;Financial TimesArts and cultural engagement ‘linked to slower pace of biological ageing’&nbsp;&nbsp;The Guardian",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -570,22 +726,10 @@
       ]
     },
     {
-      "id": "efb315da2990",
-      "title": "Texas diabetes camp responsible for girl's brain injury, lawsuit alleges - Dallas News",
-      "published": "2026-05-15T11:10:02+00:00",
-      "summary": "Texas diabetes camp responsible for girl's brain injury, lawsuit alleges&nbsp;&nbsp;Dallas News",
-      "sources": [
-        {
-          "name": "Dallas News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUkoyTjZKcXE0ZE9QdUxYSk1pem9EdXRGYm14REFRTC01M19YMTNxQjN3YUlKQlRIc1V3a1d1VzcxNS1Cb3Q1ZzlnbHJZaWk5V0MzdHJ5RmFmY3IyaGNCcXBKNUN2UW1BNUFGS0E3Zy1Qbl9nbjlPdUx6dFVOSWx6MlZKdnFpTXJwOTQ3Yy1nczRVd0ZtYjlwRzJHd1lyeGdfMV9pTmxsS3g4ck1R?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1c4338734274",
       "title": "This Is the Best Type of Nutrient to Combat Alzheimer’s Disease, According to Dietitians - Prevention",
       "published": "2026-05-15T10:45:45+00:00",
-      "summary": "This Is the Best Type of Nutrient to Combat Alzheimer’s Disease, According to Dietitians&nbsp;&nbsp;PreventionEating One Egg a Day Could Cut Alzheimer’s Risk by 27%&nbsp;&nbsp;SciTechDailyThis Surprising Protein May Lower Your Alzheimer’s Risk by 27%, New Study Says&nbsp;&nbsp;EatingWellEggs protect the brain, study says: \"Regular consumption reduces the risk of Alzheimer's.\"&nbsp;&nbsp;lamilano.itA New Study Says Eating This One Food Can Reduce Alzheimer’s Risk&nbsp;&nbsp;Yahoo News Singapore",
+      "summary": "This Is the Best Type of Nutrient to Combat Alzheimer’s Disease, According to Dietitians&nbsp;&nbsp;PreventionEating One Egg a Day Could Cut Alzheimer’s Risk by 27%&nbsp;&nbsp;SciTechDailyThis Surprising Protein May Lower Your Alzheimer’s Risk by 27%, New Study Says&nbsp;&nbsp;EatingWellThe miraculous FOOD that reduces harmful fats in the blood&nbsp;&nbsp;Medianews.azFormer 'bad for you' food can actually lower your Alzheimer's risk by up to 27%&nbsp;&nbsp;MSN",
       "sources": [
         {
           "name": "Prevention",
@@ -597,11 +741,23 @@
       "id": "3cf08be202c8",
       "title": "Bryan Johnson says you are not drinking coffee for the caffeine — you are drinking it for the gut microbes that run your brain, and the research behind that claim is harder to dismiss than it sounds - Space Daily",
       "published": "2026-05-15T10:30:36+00:00",
-      "summary": "Bryan Johnson says you are not drinking coffee for the caffeine — you are drinking it for the gut microbes that run your brain, and the research behind that claim is harder to dismiss than it sounds&nbsp;&nbsp;Space DailyThe surprisingly strong case for feeling great about your coffee habit&nbsp;&nbsp;vox.comThis daily habit could lower dementia risk by 35%, scientists say&nbsp;&nbsp;ScienceDailyCoffee's effects on the gut microbiome may shift dietary counseling&nbsp;&nbsp;MDLinxYour daily coffe",
+      "summary": "Bryan Johnson says you are not drinking coffee for the caffeine — you are drinking it for the gut microbes that run your brain, and the research behind that claim is harder to dismiss than it sounds&nbsp;&nbsp;Space DailyThe surprisingly strong case for feeling great about your coffee habit&nbsp;&nbsp;vox.comThis daily habit could lower dementia risk by 35%, scientists say&nbsp;&nbsp;ScienceDailyDo Coffee’s Health Benefits Depend on Caffeine? Scientists Put It to the Test&nbsp;&nbsp;Food & WineC",
       "sources": [
         {
           "name": "Space Daily",
           "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQb1l6cjVnR3IxQU9HT0d5bGdKQVVfcmxndURIX1piaXVSV3hqdHNTcHh4U3NqNXFvRzgzRlBNcENZYlhNaUxCZldLYXUwMWhEU0xtYThDLXdjMTZ1ZXFjWlBWZUE1cWhsM2s1QnB6OWhWRnFxUlo3N1Z6ZF9hbUdySkdYWjlFUzlhSVN3bFpxcjBDb191SnllQVN0cVVleHNCUW53M21Za3B4QXlnYjByUEV4bnVXNEYweWJfS3BuRHhMUjdpMEJleUdHaVFMNHJXVkJ3NGZaLU50dGNWSEV3bTRKWGhjVTREa3BqOURMMzYzSFlwZzQwVUZXQzZuN3hDUS11blR1dGJRdFozUnVFRlFibHF1VnUtSUljbkJaUGpXZU04a09ZMTJ4b1NSQVljUzE2VnhMa0ZKUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "931f07b98db7",
+      "title": "Mathematical method calculates most efficient Earth-moon route yet - Phys.org",
+      "published": "2026-05-15T09:30:01+00:00",
+      "summary": "Mathematical method calculates most efficient Earth-moon route yet&nbsp;&nbsp;Phys.orgResearchers Mapped 30 Million Trips to the Moon. This One’s the Cheapest&nbsp;&nbsp;GizmodoA trajectory study suggests spacecraft may not need to meet Earth-moon L1 exactly — and that small mathematical shortcut could matter for the next decade of lunar logistics&nbsp;&nbsp;Space DailyScientists discover SHORTCUT to the Moon in breakthrough for space exploration&nbsp;&nbsp;GB NewsNew, Shortest Path to the Moon ",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUTU1M3dtTHM1aFlENldiQXdvelJZbzhGX2RTTnQ1dW9iYm05V2ZacWFXaGtuTEEwV3RVa3RCQ3NyMW90VjFvSDQzcVY2WElDNV8xLS1oYWtpS0ktbUVtS25mc19nQWk5MkI2UzVQNDRwS3VFLTZQcjZCVG9mb2hDSg?oc=5"
         }
       ]
     },
@@ -614,18 +770,6 @@
         {
           "name": "Hartford Courant",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM0t4T19YSDBZck5rOVh3dFE3MmdSSXpQcHhZWjZUWTgwQ0p2UEdVRG9XUE04ZWZ5WmtzRVVvQU8yemZpTlBtakttMVRKakNqejlILWJrUXE1NTQwZ25qQkJUcEpHejdOamZJc1htdkZ4VUxqR0lZUE1kSVdiZXZ4a0I0Ujg3YmU2dlF3QWkwd2JZZXdoV2I1Q1pNcmxLNm5OYXBTcUlscFBjQzdsZGpJWHFVcW1MYU45U1VVdlZR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7f213d6041d2",
-      "title": "Heart surgeon issues warning against food eaten by millions daily ‘destroying your heart' - LADbible",
-      "published": "2026-05-15T07:31:16+00:00",
-      "summary": "Heart surgeon issues warning against food eaten by millions daily ‘destroying your heart'&nbsp;&nbsp;LADbibleThis Common Type of Food May Be Raising Your Risk of Heart Disease&nbsp;&nbsp;SciTechDailyThe 5 most harmful processed ingredients experts say you need to limit&nbsp;&nbsp;BBC Science Focus Magazine‘The health challenge of our time’: What academic experts want you to know about ultra-processed foods&nbsp;&nbsp;AAMCNew Report Highlights Differences Between Healthy and Unhealthy Ultra-Proce",
-      "sources": [
-        {
-          "name": "LADbible",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHgtNmN4Z1J6SVZuLXJXc18teVZpZjdndUZXdERCYmdOU012MXlTR292aDdBRFNVV3JkaWRlQkdBUnJESFdseW5MU2JfS04ySmxCRGdZSmc0RXpBV0VPQkNIcXcwbWpBc3o3ZGRMQWI5NUk5aUp4ajRrNnNxcWo2T0t0bDNIaUpjY3RZVkJiSElTZw?oc=5"
         }
       ]
     },
@@ -654,114 +798,6 @@
       ]
     },
     {
-      "id": "1a1ae7cc58a3",
-      "title": "Common Blood Pressure Drug Supercharges Cancer Treatment in Surprising New Study - SciTechDaily",
-      "published": "2026-05-15T02:48:32+00:00",
-      "summary": "Common Blood Pressure Drug Supercharges Cancer Treatment in Surprising New Study&nbsp;&nbsp;SciTechDaily",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVkYyOGJVclR3ZzJjaXlnTlllY0N6OGN6MmdiS3RaSV9saEhXbENYekxkeFRJVFMxa1I4cW9qcVk4S0ZaNVd2d09peFk1d0E5NXAxY3J6WVh4RXd1LWUwT0xidWJTVXgyTWphRkRwRTRXMEFjS1l5VTczOS1OUjJfMUlnZUZFTVVzTWtxVWc2X3JoWURZQ0daeDUxOEoxT2FmTXlaU1Y4X3FwUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c3fbaccdef61",
-      "title": "Penn researchers say inconsistent GLP1 use could reduce effectiveness of weight loss - 6abc Philadelphia",
-      "published": "2026-05-15T01:37:05+00:00",
-      "summary": "Penn researchers say inconsistent GLP1 use could reduce effectiveness of weight loss&nbsp;&nbsp;6abc PhiladelphiaSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "6abc Philadelphia",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdmRrZGlqOGM4Vm05Y0FmakJmZEdYd3pkZDRPNi0tbkRjTnJnS1BGdGFxdk1YMXRzTEFmeFFzTndmT2RCTHp0dDNSLXlvZ1lOeVVWdHpxU2E3N25hcDZlMEpKTmlSejgwZVpFLUoxOVotZXVCbXB3SEUzQXlpZWtzRmZ6ZTdCNGVqeUFsZjVPd291MXhaQkNxdzNpWU5LRlRDRmlKd3JocEpNQ2E1WnFYYk1fUdIBuAFBVV95cUxQcmRFTUk3R2l0QmRJMVRqXzM4aVlYLWRIb3R3RkRVSjQxaDBkR3dSOTlFNGtNUFEyWktxWHZBcGdoenNjXzEtdk91MlYwazI1YTh0NHJoMDViNGIzR0oyMUNLcUZ0STdxXy1SYTBFd2xSeVlGT1BlUjVNX1Z5LXZ1cm5IaFlCLU1XZUV3U01NQUFzM1lheUg5VENSRFUxQkFQUG5aWXE0SHJXbjc0dDNvUTRvZUwtNFQ4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e84d5a6da06c",
-      "title": "Antidepressants in pregnancy do not raise children’s risk of autism or ADHD, study finds - The Guardian",
-      "published": "2026-05-14T22:30:00+00:00",
-      "summary": "Antidepressants in pregnancy do not raise children’s risk of autism or ADHD, study finds&nbsp;&nbsp;The GuardianAntidepressants in Pregnancy: What a New Study Found&nbsp;&nbsp;MedPage TodayConcerns over antidepressants and pregnancy have grown. New study offers reassurance&nbsp;&nbsp;CNNNo clear autism link to antidepressant use during pregnancy, large study finds&nbsp;&nbsp;ReutersContinued antidepressant use during pregnancy can benefit moms, newborns, experts say&nbsp;&nbsp;TribLIVE.com",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkctWGJtNzVVUXJUN3RVNW1jQU1xRm5jcDdOaV9VSndINmR2UWh5S1FxMEFVcTE3d1dtcTFHRzhnYU03eXBzNmVCSEF4blVHczFGRDNMZ1RQcmlHYkwyZGlUYW15NDl5emVCMS1TUTk4V0pYb3VfNHRsNFpaU1FTTGI2bWJFNGNvcnRQaEZfWXR4em8yTFRkRzUyQURqZ1ZLRG1QTmJpbXZFOF9TdE5PcEpST0ZFWjg0eVN1ZQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a4e4c120444b",
-      "title": "Mitochondrial fission helps immune cells kill bacteria and could counter resistance - Phys.org",
-      "published": "2026-05-14T21:20:49+00:00",
-      "summary": "Mitochondrial fission helps immune cells kill bacteria and could counter resistance&nbsp;&nbsp;Phys.orgPrecision Therapies Offer New Hope Against Drug-Resistant Bacteria&nbsp;&nbsp;Bioengineer.orgMitochondrial fission activation offers new route against antibiotic resistance&nbsp;&nbsp;Drug Target Review",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVXFkSGo1M1pSSTdDNkpZZm05RjVuUzRFSHp2WlJ6Q3N1WHA2RUgzTmRvVHRfc3FiZGpyNTA5ZUxFTDFlbUgxNDQxdDFVZG94QlV3eFh3aF8zV201REgxa2lMZVVlZEhvSWZFVG81QTNlUmU4cW9RaFhNRm94S3JvTUFhOEo?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "abb86fb2a59c",
-      "title": "Researchers Solve 15-Year Mystery Behind Cancer-Causing Gut Toxin - SciTechDaily",
-      "published": "2026-05-14T21:04:42+00:00",
-      "summary": "Researchers Solve 15-Year Mystery Behind Cancer-Causing Gut Toxin&nbsp;&nbsp;SciTechDailyHow the bacteria in your gut could raise colon cancer risk&nbsp;&nbsp;National Geographic",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUUUweHVqTFVJZlg2bDJOUEt2Q2tOVGNyekRIbmJLaHdCQ1dhRktCb2FNTFRORFltZ2R5Tl9YSnZFcWxiNi1JRTg3STJscm43Z0xUb3J2eEpUdm5OZWtNRFFkS3p5eVp3aHBHVjNmQk5SZS1TODU5RDlWcE9iWm1tNFV1X21CQ0xOLXA1ZW9SaDZDSTFGZ1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f4fdc4b2bdaf",
-      "title": "Q&A: Is it time to expand our thinking about dark matter? A new study says yes - Phys.org",
-      "published": "2026-05-14T20:55:12+00:00",
-      "summary": "Q&amp;A: Is it time to expand our thinking about dark matter? A new study says yes&nbsp;&nbsp;Phys.org",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVdWt2OXFSMXNGSFRnN2k5R0NRN2RkY2VSM2tVZm9PYVZqRlhTSHdjYXZYTzNDYlFFTngtZnZNSndkYjZEMlNhM1ZkZkRjdk5VTWdkRg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "02c32c1851be",
-      "title": "'Ballmaxxing:' Experts Say It's More Dangerous Than You Think - Healthline",
-      "published": "2026-05-14T20:02:41+00:00",
-      "summary": "'Ballmaxxing:' Experts Say It's More Dangerous Than You Think&nbsp;&nbsp;HealthlineMen are 'ballmaxxing' their testicles until they're inflated to the size of grapefruits&nbsp;&nbsp;Metro.co.ukBallmaxing trend gets severe health warning as men expand their testicles&nbsp;&nbsp;UNILAD Tech‘Testosterone maxxing’: experts dispel the myths behind the wildest trends on your social media feed&nbsp;&nbsp;mensfitness.co.uk'Ballmaxxing' solved – men explain real reason why they inflate testicles with inj",
-      "sources": [
-        {
-          "name": "Healthline",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLXgyMVc3OTZHNk4xekxJWnNocGdJUUh4VWFVOE1oLThZVmVWVUZ6ZnlqTkJWektDRFpaSHVnTWpjY0NUX3RkSXA4cHhrMEdiLXpCbHo0UXloa0swLVF4NVFpeHFNaGhtbWxNWXNBVS1NN0VocnMzZzZyS29NcUJvdkxXSjF4TkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "efb030a2dfd3",
-      "title": "Scientists Discover a “Shy” Plant That Can Count Without a Brain, and It May Be Smarter Than We Thought - The Daily Galaxy",
-      "published": "2026-05-14T19:30:00+00:00",
-      "summary": "Scientists Discover a “Shy” Plant That Can Count Without a Brain, and It May Be Smarter Than We Thought&nbsp;&nbsp;The Daily Galaxy",
-      "sources": [
-        {
-          "name": "The Daily Galaxy",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jWTAtQXA3UmFhR3dkQkI4V1NoeWg4TDloZGFHcGFWLTFUbzN1clQyaF83NC1wT2ZhMzdkNFhfSUY3di02cEF6TUt4QjRaRXpMQmpMQXBBelVObHI1RzNhR3MtTFRYMzVZcE0yVTVaR3d5WEFtSFU0SllMWG4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b96e38a143ee",
-      "title": "Hallucinated citations highest in social sciences preprints site - Nature",
-      "published": "2026-05-14T19:24:10+00:00",
-      "summary": "Hallucinated citations highest in social sciences preprints site&nbsp;&nbsp;NatureFraudulent citations, blamed on AI hallucinations, are becoming more common in research papers&nbsp;&nbsp;statnews.comAI is fabricating citations in biomedical studies, researchers find&nbsp;&nbsp;CBS NewsOne in 277 PubMed-indexed papers in 2026 shows fabricated references, says analysis&nbsp;&nbsp;Retraction WatchThousands of medical papers found citing studies that never existed: Report | Study raised concerns ov",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uSUFsdGhHMlhRdkR2MC1Ib3lVZzZTQ1loMVpfWEpzVWFyZlZHOHpTeWMxcEh4c25zcjFTbGU4T1FLbDd4UFVLdm5PaUZjdVN1SUU0eDdCQTJGamMycmlz?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4fb0794cb56b",
       "title": "Garlic: Culinary Staple, Birth Control for Flies - Nautilus | Science",
       "published": "2026-05-14T17:30:00+00:00",
@@ -777,7 +813,7 @@
       "id": "39a5f61534ab",
       "title": "Polyendocrine Metabolic Ovarian Syndrome: New name to improve diagnosis and care of condition affecting 170 million women worldwide - Endocrine Society",
       "published": "2026-05-12T13:59:45+00:00",
-      "summary": "Polyendocrine Metabolic Ovarian Syndrome: New name to improve diagnosis and care of condition affecting 170 million women worldwide&nbsp;&nbsp;Endocrine SocietyThe promises and pitfalls of personalized health&nbsp;&nbsp;The VergeThis Week in Science: PCOS Becomes PMOS, an 'Impossible' Crystal, And More!&nbsp;&nbsp;ScienceAlertPCOS Is Now PMOS—What The New Name Means For The Women It Affects&nbsp;&nbsp;ForbesScience news this week: PCOS has a new name, Neanderthals were the world's oldest dentist",
+      "summary": "Polyendocrine Metabolic Ovarian Syndrome: New name to improve diagnosis and care of condition affecting 170 million women worldwide&nbsp;&nbsp;Endocrine SocietyThis Week in Science: PCOS Becomes PMOS, an 'Impossible' Crystal, And More!&nbsp;&nbsp;ScienceAlertPCOS Is Now PMOS—What The New Name Means For The Women It Affects&nbsp;&nbsp;ForbesThe promises and pitfalls of personalized health&nbsp;&nbsp;The Verge‘Unprecedented’ global effort gives new name to polycystic ovary syndrome – and new hope ",
       "sources": [
         {
           "name": "Endocrine Society",

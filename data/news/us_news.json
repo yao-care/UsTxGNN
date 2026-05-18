@@ -1,19 +1,55 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-18T03:58:34.015154+00:00",
-  "total_fetched": 120,
+  "fetched_at": "2026-05-18T10:10:55.350778+00:00",
+  "total_fetched": 121,
   "unique_count": 120,
-  "health_related_count": 63,
+  "health_related_count": 60,
   "news": [
     {
-      "id": "7854d8ae621f",
-      "title": "What to Know About the Latest Ebola Outbreak - The New York Times",
-      "published": "2026-05-18T02:21:19+00:00",
-      "summary": "What to Know About the Latest Ebola Outbreak&nbsp;&nbsp;The New York TimesW.H.O. Declares Ebola Outbreak a Global Health Emergency&nbsp;&nbsp;The New York TimesRare Ebola’s Silent Spread in Congo Exposes Surveillance Gaps&nbsp;&nbsp;Bloomberg.comEpidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern&nbsp;&nbsp;World Health Organization (WHO)In Ebola outbreak, a number of Americans in th",
+      "id": "03373d984c00",
+      "title": "Americans may have been exposed in Congo Ebola outbreak - The Washington Post",
+      "published": "2026-05-18T10:01:52+00:00",
+      "summary": "Americans may have been exposed in Congo Ebola outbreak&nbsp;&nbsp;The Washington PostEpidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern&nbsp;&nbsp;World Health Organization (WHO)WHO declares Ebola outbreak in Congo, Uganda an emergency of international concern&nbsp;&nbsp;ReutersEbola Spread Shows Deadly Cost of Aid Retreat&nbsp;&nbsp;Bloomberg.comWhat to know about the Ebola outbre",
       "sources": [
         {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMHV6V1hhbU9LLU1vQVg2a21DRldHRU1ILWpjaEZLcUhpMkhiTnJFaDhPUjAtQ0tPTUpGazdtWUpDWEw2eDFEQmZzRzRfMVB4dVNoTEZmRVRpdVFISmtCNEFqOVEwVnYxM1h6c21DblJkQy04QTV5emFjakFlYWFMa3hSQ1Y?oc=5"
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbFJkdGliNGxoQXlPdjNHMHlQeS0zV0NLcUVlOE5XNWJkanFKMGF0SDRLMjVPejRNaHBySExwZjkxV0p4UG5OT0pkOVlYckhtdDFHRkpXdHFwQklZUnNHeVhMWTVwbTZOMWNUbU5TSXVVMXdtUkp4QXR4WWludlUtY1BoS3lEUGE5SXZRaExrV0sydFhjWWtiVDNoMTg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cb49d489505e",
+      "title": "Scientists Discover Over 1,700 'Dark' Proteins Hidden in Human Cells - ScienceAlert",
+      "published": "2026-05-18T07:11:42+00:00",
+      "summary": "Scientists Discover Over 1,700 'Dark' Proteins Hidden in Human Cells&nbsp;&nbsp;ScienceAlertResearchers Found 1,700 Tiny Protein-Like Molecules Hiding in the Human Genome&nbsp;&nbsp;ZME Science“Peptideins”? Give Those Shorties Another Look&nbsp;&nbsp;Science and Culture Today'Dark Proteome' Expanded Through ID of Thousands of Non-Canonical Peptides&nbsp;&nbsp;GenomeWeb",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcGdJQ2dGcFprMHdOa2g3WUJGX3hGd2hPdWlXdUVCQXk5WXBZMVd6REgwZ1BfUUhhZkpDOHkxS25BSjFVVlljdFAzRlAxczU0YUM4Z1dXQ3ljSjU4Nzh5QjlWRzJ0eEI1bG5ydk5lQXA4elVZOHNuemhfRmpSQjlqRnF2b08tNU1EVDZfaTZoVW1hRmh6ZE1sNkp3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f1c06b71afd5",
+      "title": "Argentina’s icy outpost at the end of the world fears the hantavirus will chill tourism - AP News",
+      "published": "2026-05-18T07:01:00+00:00",
+      "summary": "Argentina’s icy outpost at the end of the world fears the hantavirus will chill tourism&nbsp;&nbsp;AP NewsThis small rodent is at the center of theories about the hantavirus outbreak&nbsp;&nbsp;Scientific AmericanArgentina Races to Find Origin of Hantavirus Contagion&nbsp;&nbsp;The New York TimesThe Close, Prolonged Contact Myth&nbsp;&nbsp;The AtlanticPatagonia shares lessons on what it learned from hantavirus&nbsp;&nbsp;Financial Times",
+      "sources": [
+        {
+          "name": "AP News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb3ZsNWRWd2JEZEpWclg4V2RoMlJ0bWRiVFpSN0pZX3ZfX0JtdW15RHZicG5od1FMbl92Tm4zdC1DRHBsQW1XR3VtZnVOQ2JOYXd2QlZCWFpsTzJHVGEtTDFnbmRSTy1EV04wNmhVM2xMVkZTVGg5dURsZktfMFNFZG43S0FpdFA3ZzJ0R09wQXVzNHRMaGY1Ynkxa2VMSXowcU9CZ3BCWnZQaFZi?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b8b3e3fa17aa",
+      "title": "There is a moment near death, documented in EEG recordings of dying patients, when the brain produces a coordinated burst of gamma wave activity more intense than anything measured in waking life — and no one knows what it is, what it's for, or what the - Space Daily",
+      "published": "2026-05-18T00:40:17+00:00",
+      "summary": "There is a moment near death, documented in EEG recordings of dying patients, when the brain produces a coordinated burst of gamma wave activity more intense than anything measured in waking life — and no one knows what it is, what it's for, or what the&nbsp;&nbsp;Space Daily",
+      "sources": [
+        {
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQc1lRSGxXUUQxSzNhWGRlQzBMME8zSU9YSG9WZ0o2SzBxNC1BQlJPbVU1UmhWYUdIYjl4Z3RPTjBPZzlLQXVhcWdNSWppVkVtQVdlZWdRQW9Cdlc3SjFvMEJwbnFxSl93NVY0TjJkVkVSU3NDdW83NFJHV2tlcmhSaTlZWVdXMHJXSUdLRUY0ZnhJSHZjcVZOaU8wWEI2Q1pUSnZNc2tGbzVMYl80MlhZaWFzcldCUG9NYmVSUkl2V25sZzFPZGIxRXRIYWdnclltZk9GUmJ6aUVBbDE3NWszR2xQQ19NRE5vZWZKaXpUY2xfeXhYSTdsems2Q0RYVjB5dW5oWXdBU3hzWGtKN0RUSUdTa0U4RmZyNkFIa2V1VmNIVFhfb1RRRUxGTHZSNTZMZ3Nka3BIUDJ4MTI3ZnZMR3dpZjA0dw?oc=5"
         }
       ]
     },
@@ -30,10 +66,22 @@
       ]
     },
     {
+      "id": "7c7a4ff0bab1",
+      "title": "New Study Challenges What We Know About Consciousness and the Brain - SciTechDaily",
+      "published": "2026-05-17T20:43:34+00:00",
+      "summary": "New Study Challenges What We Know About Consciousness and the Brain&nbsp;&nbsp;SciTechDailyWhat happens to your brain under anesthesia?&nbsp;&nbsp;futurity.orgIs the Unconscious Mind Aware of Its Surroundings? New Research Suggests Anesthetized Brains Can Process Overheard Words&nbsp;&nbsp;Smithsonian MagazineThe Brain Processes Language Even Under Anesthesia, a New Study Finds&nbsp;&nbsp;Time MagazineYour Brain Can Learn Things When You’re Unconscious&nbsp;&nbsp;Nautilus | Science",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdXBvV3ltVU1nbVp3WGJxNG9vUWs5Vlg1djlyNlNYQy1CcHZ5VkhVMThfZm1xam5HbGtzNEo2cVdMYXdDTThJZkpvS3VYUW91b25QdzctamU1ZGp6RTljQ0lnV3RVMVQxNm55Q19yam9LaHlwT1dJVUR2R2VTczFSSmhXeUxpOFlDOW5hMHdCVUYyVnVOMWpxUg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5d74b7a032cd",
       "title": "Scientists uncover surprising health benefits of watermelon - ScienceDaily",
       "published": "2026-05-17T19:54:40+00:00",
-      "summary": "Scientists uncover surprising health benefits of watermelon&nbsp;&nbsp;ScienceDailyStudy reveals watermelon may boost heart health and diet quality&nbsp;&nbsp;The News International",
+      "summary": "Scientists uncover surprising health benefits of watermelon&nbsp;&nbsp;ScienceDailyCirculation To Nutrition: Study Reveals How Watermelon Benefits Your Whole Body&nbsp;&nbsp;NDTVStudy reveals watermelon may boost heart health and diet quality&nbsp;&nbsp;The News InternationalWatermelons offer some amazing health benefits&nbsp;&nbsp;MSNHealth benefits of watermelon, one of nature's best fruits for heart and nutrition&nbsp;&nbsp;Moneycontrol.com",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -45,7 +93,7 @@
       "id": "7c8c905d2b71",
       "title": "Polymarket Spreads Sensationalist Garbage About Hantavirus Case in U.S. - Gizmodo",
       "published": "2026-05-17T19:33:51+00:00",
-      "summary": "Polymarket Spreads Sensationalist Garbage About Hantavirus Case in U.S.&nbsp;&nbsp;GizmodoPossible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship&nbsp;&nbsp;People.comSuspected hantavirus case in Ontario County involves Geneva HS student, district says&nbsp;&nbsp;13wham.comPossible hantavirus case under investigation in upstate New York; no connection to deadly cruise ship outbreak&nbsp;&nbsp;Fox NewsHantavirus latest updates: Suspected case at New York high school not linked to ",
+      "summary": "Polymarket Spreads Sensationalist Garbage About Hantavirus Case in U.S.&nbsp;&nbsp;GizmodoPossible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship&nbsp;&nbsp;People.comPossible hantavirus case under investigation in upstate New York; no connection to deadly cruise ship outbreak&nbsp;&nbsp;Fox NewsSuspected hantavirus case in Ontario County involves Geneva HS student, district says&nbsp;&nbsp;13wham.comHantavirus latest updates: Suspected case at New York high school not linked to ",
       "sources": [
         {
           "name": "Gizmodo",
@@ -54,26 +102,14 @@
       ]
     },
     {
-      "id": "d24090250863",
-      "title": "Fish oil might actually be bad for you–so what’s a better alternative? - WKBN.com",
-      "published": "2026-05-17T19:21:26+00:00",
-      "summary": "Fish oil might actually be bad for you–so what’s a better alternative?&nbsp;&nbsp;WKBN.comSupplement long recommended to prevent dementia may actually speed up brain decline: study&nbsp;&nbsp;New York PostCould omega-3 supplements hurt the brain? Chinese military study flags risks&nbsp;&nbsp;South China Morning PostThis Popular Supplement Might Actually Be Hurting You&nbsp;&nbsp;Yahoo News Singaporeweek 20 / 2026&nbsp;&nbsp;Medical Xpress",
+      "id": "de86ed497172",
+      "title": "Douglas County adult dies from hantavirus; case not linked to cruise ship outbreak - Denver7",
+      "published": "2026-05-17T18:25:11+00:00",
+      "summary": "Douglas County adult dies from hantavirus; case not linked to cruise ship outbreak&nbsp;&nbsp;Denver7Hantavirus death in Colorado, state says not linked to cruise ship outbreak&nbsp;&nbsp;KDVRColorado Department of Public Health and Environment confirms hantavirus case&nbsp;&nbsp;CBS NewsColorado hantavirus death not linked to cruise ship outbreak, state says&nbsp;&nbsp;The Denver PostColorado health officials confirm deadly hantavirus case not linked to cruise&nbsp;&nbsp;KUSA.com",
       "sources": [
         {
-          "name": "WKBN.com",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ3dwaXBMTFZNZWs2NU9qcl9pY2xibVRVbjNoT09qSHVjdDNXREVqRFRURWxyLWJIcTVBVm8wUFluZ2FpakFLYU5VNndYbzAzUndiSGlIR3RNcU1mdzlVYlhZVjJQQV9ZR3Y2eEN1WE9JQmp1SlctdWNieU5lXzdSdHUxcXFDVkNaM3ZpcGRJTkEzcmVRN0hjQ0Jhd0RqNWozUE84SXUxU0E4bzdzM0phYmI3ZTMzYmszYWRyZNIBwgFBVV95cUxNWTFWYzlLVFpKeHVlVkZMdVBtc2ttaU1jNFp2MVJLQU5tZmJrNGdGMlV1Q0RvOUhXQXhZdUhoZ1Q2TEd5VnpHb09xUmI1RUIxNllxZ2g4UXVwQlpYcXRDWjRDOENrWE91ZWMtUWN6bmtsaWVNam96bzZ3TFpnU3lOalpWVXh2X0tZeEhnS3NFaFZIRVgxYlB2dkRTNE1GczRYeFU4MG0yOUItRWdIcVFiOXZSRTBsczdQbWtNSUh3U29Rdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3777bd7432db",
-      "title": "James Webb Spots Strange Structure at Core of Distant Galaxy - Futurism",
-      "published": "2026-05-17T18:15:00+00:00",
-      "summary": "James Webb Spots Strange Structure at Core of Distant Galaxy&nbsp;&nbsp;FuturismNASA's Webb Telescope Captures Dazzling New Photo of Spiral Galaxy 45 Million Light-Years Away&nbsp;&nbsp;YahooScientists release dazzling new image of 'Squid Galaxy' 45 million light-years away&nbsp;&nbsp;WKRCJWST Reveals a Hidden Structure in The Heart of The Squid Galaxy&nbsp;&nbsp;ScienceAlertJames Webb Telescope reveals almost \"invisible\" structure in Galaxy M77: discovery showed intense star formation, possible",
-      "sources": [
-        {
-          "name": "Futurism",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVlp5VGt3Q0dJWG9xclFzRFBWNkNOM19TbXlmQWRQU3E0U2NOc3QwM21DRDVvdWtkY2p5V0UwWERkVE9GeE9xX3V3SDMtR3R5M21TVS00cE5lTjdKVHVkODVlUTNOYllRWi1USkdLTndNVU1qeC12UDk1eUlQWDZlSQ?oc=5"
+          "name": "Denver7",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWXowR2ozdTZsU1E5OFBta3N0cGt4QVF5Vmk2WGJ1VjlnX3NnR2VKbGQ2dGN2TWRCRi1aRlplOFJGLWIyVWtSMzQ0YUNvdVFmQ3N2LVpLQ05rMnRPZDVKT2pJWkF6bGgxaGliZEEwbGRnMXR5NmIyQUpWQ0ZhZ0dhSThVdmoyNGRzblZnQ09DSnlfcDVXakpKaHBjOTlMX3M1VFlrS3A4QUFjNnBnc2k2YmxOYk40TTBYUUNlRUN3?oc=5"
         }
       ]
     },
@@ -81,7 +117,7 @@
       "id": "5b73f23c10b3",
       "title": "Canadian national health agency confirms 1 positive hantavirus test - AP News",
       "published": "2026-05-17T18:13:00+00:00",
-      "summary": "Canadian national health agency confirms 1 positive hantavirus test&nbsp;&nbsp;AP NewsCanadian cruise passenger gets a presumptive positive hantavirus test result after ship outbreak&nbsp;&nbsp;CNNHealth Officials Confirm First Case of Hantavirus in North America Stemming from Infected Cruise Ship&nbsp;&nbsp;People.comCanada confirms hantavirus case linked to cruise ship outbreak that has killed three passengers&nbsp;&nbsp;Fox NewsCanada confirms first hantavirus case in isolation in British Col",
+      "summary": "Canadian national health agency confirms 1 positive hantavirus test&nbsp;&nbsp;AP NewsCanada confirms hantavirus case linked to cruise ship outbreak that has killed three passengers&nbsp;&nbsp;Fox NewsCanadian from hantavirus-hit cruise ship tests positive&nbsp;&nbsp;BBCHealth Officials Confirm First Case of Hantavirus in North America Stemming from Infected Cruise Ship&nbsp;&nbsp;People.comCanada confirms first hantavirus case in isolation in British Columbia&nbsp;&nbsp;The Guardian",
       "sources": [
         {
           "name": "AP News",
@@ -93,11 +129,23 @@
       "id": "9543f50856cf",
       "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks - AP News",
       "published": "2026-05-17T18:10:00+00:00",
-      "summary": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks&nbsp;&nbsp;AP NewsBooming Expedition-Cruise Business Grapples With Fallout From Hantavirus Outbreak&nbsp;&nbsp;WSJ‘You only have so much space’: the limits of reducing infection risk on cruise ships&nbsp;&nbsp;The GuardianHow outbreaks at sea have been helping to shape the global health system since medieval times&nbsp;&nbsp;PBSCruise ships are perfect breeding ground for viruses, but we can’t get enough&nbsp;&nbs",
+      "summary": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks&nbsp;&nbsp;AP News‘You only have so much space’: the limits of reducing infection risk on cruise ships&nbsp;&nbsp;The GuardianBooming Expedition-Cruise Business Grapples With Fallout From Hantavirus Outbreak&nbsp;&nbsp;WSJHow outbreaks at sea have been helping to shape the global health system since medieval times&nbsp;&nbsp;PBSCruise ships are perfect breeding ground for viruses, but we can’t get enough&nbsp;&nbs",
       "sources": [
         {
           "name": "AP News",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLVdIM25HLXpyMlpJNXhpNjBucmVkTE51S1VFMlY3dVItR01kcV9MUlBYazFCRnJ2czBPSlVnQkhrdm5ETlc3V1BBN3VYaWVhWTlKYW1SY3lVdHVDR2lIYUZqTk1Hdm1qeUExNDhJN3BkUUJFSnBBbDRjeHp6cXdKUDh1aFBMald1c081Y2U4bkFxb2VmSnhLRkVKQWhQUDExQkpDYTR3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "86d6cb673e22",
+      "title": "MV Hondius cruise ship to arrive in the Netherlands on Monday - NBC News",
+      "published": "2026-05-17T16:37:31+00:00",
+      "summary": "MV Hondius cruise ship to arrive in the Netherlands on Monday&nbsp;&nbsp;NBC NewsHantavirus-hit cruise ship arrives at Rotterdam port as final destination&nbsp;&nbsp;ReutersHantavirus-hit cruise ship arrives in Netherlands&nbsp;&nbsp;CBS NewsHow a Nature Cruise Turned Into a Nightmare&nbsp;&nbsp;The New York TimesHantavirus countdown: U.S. cruise passengers settle in for 42 days of waiting&nbsp;&nbsp;NPR",
+      "sources": [
+        {
+          "name": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS0dVck4zSVBIMk9Xd2RqbGQ2RlBoOFJmVk8xdndZOElxREhydE9ueUJLSDk4NU9QSHhWRGRxMW1jeEdvNHJvYi1uT3EwNUkyZ2hCNXZnbUVyQXFRTGREZk5iYXQzekdscjVkOWlxYXR6cnNBM3RiNUpiNkQ0d0hKbjg1VFkwSTFSVXYxQWF6NTVaRDBMTm9oTGp4RnRqWnJqZzB5bA?oc=5"
         }
       ]
     },
@@ -126,10 +174,22 @@
       ]
     },
     {
+      "id": "e007e0a963fe",
+      "title": "New spacecraft will watch Earth's shield take the hit as solar storms come roaring in - Phys.org",
+      "published": "2026-05-17T15:20:01+00:00",
+      "summary": "New spacecraft will watch Earth's shield take the hit as solar storms come roaring in&nbsp;&nbsp;Phys.orgJoint ESA-China SMILE mission set for launch to study Earth’s magnetic shield&nbsp;&nbsp;SpaceNewsA joint European-Chinese magnetosphere mission launches in 2026 — the same year Brussels closes most of its €93.5 billion Horizon Europe programme to Chinese institutions, and the carve-out reveals which knowledge Europe still classifies as 'merely curi&nbsp;&nbsp;Space Daily‘Smile’ space weather",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02NV9IMXhyQTdvLV9JMW1aeHV2R2YxMWlsWVl4TngxdHFhRHRMR0JMU3ZiaUEzeHpveTZLMko4dXNNaWFULTdOT1kwemFtVzhfbXF2SFhzSFNRSlRLUVJLZFhTaDd3MHRhOV8zUEhiNFdaLUVYbm9GblpIVQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3e85de52baec",
       "title": "Omaha Steaks, Nerf basketball and Hazmat suits: Former contagion patients describe life in quarantine amid Hantavirus - NBC News",
       "published": "2026-05-17T14:30:40+00:00",
-      "summary": "Omaha Steaks, Nerf basketball and Hazmat suits: Former contagion patients describe life in quarantine amid Hantavirus&nbsp;&nbsp;NBC News",
+      "summary": "Omaha Steaks, Nerf basketball and Hazmat suits: Former contagion patients describe life in quarantine amid Hantavirus&nbsp;&nbsp;NBC NewsHantavirus Attacks Patients’ Bodies. This Doctor Tends to Their Minds.&nbsp;&nbsp;The New York TimesEbola patient reflects on time at UNMC biocontainment unit&nbsp;&nbsp;WOWTExclusive look at Nebraska Medicine's biocontainment unit in 2015&nbsp;&nbsp;KETV",
       "sources": [
         {
           "name": "NBC News",
@@ -141,7 +201,7 @@
       "id": "cfe627852554",
       "title": "SpaceX Dragon capsule delivers science and supplies to space station - Space",
       "published": "2026-05-17T13:53:03+00:00",
-      "summary": "SpaceX Dragon capsule delivers science and supplies to space station&nbsp;&nbsp;SpaceSpaceX Dragon Lifts Off to Resupply Expedition 74 Crew&nbsp;&nbsp;NASA (.gov)SpaceX launches Dragon cargo ship on unpiloted flight to space station&nbsp;&nbsp;CBS NewsNASA, SpaceX launch Dragon mission with 6,500 pounds of science and supplies to the space station&nbsp;&nbsp;Spaceflight NowA cargo Dragon just flew its sixth mission to the ISS — and the quiet milestone reveals how SpaceX has rewritten the economi",
+      "summary": "SpaceX Dragon capsule delivers science and supplies to space station&nbsp;&nbsp;SpaceSpaceX Dragon Docks to Station Filled with New Science Experiments&nbsp;&nbsp;NASA (.gov)SpaceX launches CRS-34 cargo mission to ISS&nbsp;&nbsp;SpaceNewsNASA, SpaceX launch Dragon mission with 6,500 pounds of science and supplies to the space station&nbsp;&nbsp;Spaceflight NowSpaceX launches Dragon cargo ship on unpiloted flight to space station&nbsp;&nbsp;CBS News",
       "sources": [
         {
           "name": "Space",
@@ -153,7 +213,7 @@
       "id": "1fca68dd125b",
       "title": "Astronomers Uncover Interstellar Comet Hiding In Earlier Telescope Images - The Daily Galaxy",
       "published": "2026-05-17T13:45:00+00:00",
-      "summary": "Astronomers Uncover Interstellar Comet Hiding In Earlier Telescope Images&nbsp;&nbsp;The Daily GalaxyAstronomers find interstellar comet 3I/ATLAS hiding in images taken before its official discovery&nbsp;&nbsp;SpaceEuropa Clipper and Juice Team Up to Observe Interstellar Comet 3I/ATLAS&nbsp;&nbsp;Sci.NewsInterstellar comet '3I/Atlas' reveals its secrets&nbsp;&nbsp;Le Monde.frDeuterium in space hints at artificial origin of object 3I/ATLAS&nbsp;&nbsp;112.ua",
+      "summary": "Astronomers Uncover Interstellar Comet Hiding In Earlier Telescope Images&nbsp;&nbsp;The Daily GalaxyAstronomers find interstellar comet 3I/ATLAS hiding in images taken before its official discovery&nbsp;&nbsp;SpaceEuropa Clipper and Juice Team Up to Observe Interstellar Comet 3I/ATLAS&nbsp;&nbsp;Sci.NewsInterstellar comet '3I/Atlas' reveals its secrets&nbsp;&nbsp;Le Monde.frTwo spacecraft photographed comet 3I/ATLAS at the same time as it flew by the Sun. Here's what they found&nbsp;&nbsp;BBC S",
       "sources": [
         {
           "name": "The Daily Galaxy",
@@ -165,7 +225,7 @@
       "id": "facfaaf7bef6",
       "title": "Silent signs of Hypertension a heart surgeon says you should never ignore before it’s too late - The Times of India",
       "published": "2026-05-17T12:24:00+00:00",
-      "summary": "Silent signs of Hypertension a heart surgeon says you should never ignore before it’s too late&nbsp;&nbsp;The Times of IndiaHigh blood pressure can happen at any age: Expert shares prevention tips&nbsp;&nbsp;Mayo Clinic News NetworkScreen Addiction, Sleepless Nights Driving BP Surge In Youth&nbsp;&nbsp;Deccan ChronicleHypertension hits men hardest – but women not far behind&nbsp;&nbsp;India TodayExperts say hypertension kills 400,000 Pakistanis annually, call for urgent preventive action&nbsp;&n",
+      "summary": "Silent signs of Hypertension a heart surgeon says you should never ignore before it’s too late&nbsp;&nbsp;The Times of IndiaHigh blood pressure can happen at any age: Expert shares prevention tips&nbsp;&nbsp;Mayo Clinic News NetworkNo symptoms does not mean no risk: why routine blood pressure screenings are the need of the hour&nbsp;&nbsp;The HinduLabaid observes World Hypertension Day with technical seminar&nbsp;&nbsp;The Business StandardHypertension now striking adults in their 30s, experts w",
       "sources": [
         {
           "name": "The Times of India",
@@ -186,22 +246,10 @@
       ]
     },
     {
-      "id": "dfaaaac1ab86",
-      "title": "Fortis Delhi gastroenterologist rates 5 popular gut health foods: Chia seeds, Greek yoghurt… | Health - Hindustan Times",
-      "published": "2026-05-17T11:05:39+00:00",
-      "summary": "Fortis Delhi gastroenterologist rates 5 popular gut health foods: Chia seeds, Greek yoghurt… | Health&nbsp;&nbsp;Hindustan TimesProbiotics and Prebiotics: Your gut has trillions of bacteria — here’s how to keep them happy&nbsp;&nbsp;AOL.comWhat Actually Makes a Probiotic Effective? A GI Doctor Explains&nbsp;&nbsp;Katie Couric MediaPrebiotics vs probiotics: What is the difference between the two, their benefits, and best food sources&nbsp;&nbsp;Moneycontrol.comGastroenterologists Wish You’d Eat T",
-      "sources": [
-        {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPQUx2UVc1dWpMMlZzNVNLd1d3SXNOX1JKVm5WamFJci00OFo0d3NmdjR5Zy05NE4xcnJWRENVTE1FTWNtLWlFdEdlQ0ZRX0ZLYXFsc2VfN2xDRjJnTXNUUXhFX1FUT3N3R0wyYm5JaW1LVTlaV01tUzdkanQ0Qk5JSlp4OTIyTXBFeGhORHpRVUJ1OXRScHgwOWJlSlZXYXlnSHc3dW9oV01nX25yMzEzMWZXamZObF9xMlRHd2hLZ3dTbURJREdKY1dpSGRhQVY4QVJwUURTa2E3ZUs2b3h0N2N0V3NZZjA2N2tKV0dXMnMtc3FoWkJtZ3RwLTdQXzNFMXVnTlNsVk9OV2pBS0HSAZMCQVVfeXFMT0FpRmkzZm4xWEpOQ3BOY0V0OGt5THZsb1JUUHpXRXdlaFBGaGhRTjlPa0pXNlM0YmpTMmhacHZCN1NvbUxxQ0F4d1FXSG5ZM1VpT3o5TWN2VV9VT21BZzZDc0RwOUpfakM2RGxmalRyZDdwd2dYMWpLSnBKb3MxNzZMUktZV1dGWGFESWZRRXMwUUtRMnF0czZ5VHNJT2RXN3BHNEJOcTYzY1d2UW5XT0pmcy1MRUJ0akd3a2lvcXV0c1NuVTN4amtuQWx6X0tUb2tnc3FzRlI3djJ6TENaNjV3c1p6TWdoV0gzRDFVa3ByVlRRVlVfY1pvRGUwWk5OMkJqOGFvV0pBaGtEWHp6ZmZ0bnM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e957bd6456c2",
       "title": "The healthiest workout may be shorter — and harder — than people think - San Francisco Chronicle",
       "published": "2026-05-17T11:04:54+00:00",
-      "summary": "The healthiest workout may be shorter — and harder — than people think&nbsp;&nbsp;San Francisco ChronicleScientists say just 30 minutes of exercise a week could transform your health&nbsp;&nbsp;ScienceDailyStudy Says Two Minute Sweat Bursts Could Save San Franciscans' Health&nbsp;&nbsp;HoodlineOnly Have 15 Minutes a Week for Exercise? Science Says There's Still a Big Benefit for Your Health&nbsp;&nbsp;inc.comNew Study Shows Just 1-2 Minutes of Exercise Can Improve Health&nbsp;&nbsp;AOL.com",
+      "summary": "The healthiest workout may be shorter — and harder — than people think&nbsp;&nbsp;San Francisco ChronicleFive minutes of exercise a day could help millions of people live longer&nbsp;&nbsp;BBCScientists say just 30 minutes of exercise a week could transform your health&nbsp;&nbsp;ScienceDailyStudy Says Two Minute Sweat Bursts Could Save San Franciscans' Health&nbsp;&nbsp;HoodlineNew Study Shows Just 1-2 Minutes of Exercise Can Improve Health&nbsp;&nbsp;Men's Fitness",
       "sources": [
         {
           "name": "San Francisco Chronicle",
@@ -213,7 +261,7 @@
       "id": "ad55eea92b39",
       "title": "‘We’re not ready’: US lags on pandemic preparedness after Covid, experts say - The Guardian",
       "published": "2026-05-17T11:01:00+00:00",
-      "summary": "‘We’re not ready’: US lags on pandemic preparedness after Covid, experts say&nbsp;&nbsp;The GuardianHow prepared is the US for another pandemic? New rankings show how we compare to other countries&nbsp;&nbsp;New York PostExperts Warn Slashed Funding and Misinformation Cripple US Public Health&nbsp;&nbsp;AsatuNews.co.id‘Nobody is ready’: Experts warn world is unprepared for Disease X, hasn’t learnt lessons from Covid-19&nbsp;&nbsp;FirstpostUS not ready for next pandemic: Former HHS official | New",
+      "summary": "‘We’re not ready’: US lags on pandemic preparedness after Covid, experts say&nbsp;&nbsp;The GuardianUS not ready for next pandemic: Former HHS official | NewsNation Prime&nbsp;&nbsp;NewsNation‘Nobody is ready’: Experts warn world is unprepared for Disease X, hasn’t learnt lessons from Covid-19&nbsp;&nbsp;FirstpostHow prepared is the US for another pandemic? New rankings show how we compare to other countries&nbsp;&nbsp;New York PostLEtter: Can we be better prepared for the next pandemic?&nbsp;&n",
       "sources": [
         {
           "name": "The Guardian",
@@ -237,7 +285,7 @@
       "id": "55ec1df5ed63",
       "title": "Tick bites surge, sending many to ER. Maps show where. - USA Today",
       "published": "2026-05-17T10:19:00+00:00",
-      "summary": "Tick bites surge, sending many to ER. Maps show where.&nbsp;&nbsp;USA TodayDoctors warn about ticks ahead of peak season in Connecticut&nbsp;&nbsp;NBC Connecticut6 tick-borne diseases that should be on your radar&nbsp;&nbsp;The Washington PostTick bites are sending more people to the ER. Here's how to protect yourself&nbsp;&nbsp;KING5.comER visits for tick bites are up in May. Here’s how to protect yourself.&nbsp;&nbsp;New Hampshire Public Radio",
+      "summary": "Tick bites surge, sending many to ER. Maps show where.&nbsp;&nbsp;USA Today‘We’re in for a bad year’: Scientists see warning signs for Lyme disease, tick-borne illnesses&nbsp;&nbsp;The HillDoctors warn about ticks ahead of peak season in Connecticut&nbsp;&nbsp;NBC Connecticut6 tick-borne diseases that should be on your radar&nbsp;&nbsp;The Washington PostTick bites are sending more people to the ER. Here's how to protect yourself&nbsp;&nbsp;KING5.com",
       "sources": [
         {
           "name": "USA Today",
@@ -261,7 +309,7 @@
       "id": "1a9ba90d168b",
       "title": "Eight easy hobbies that slow brain ageing - The i Paper",
       "published": "2026-05-17T09:00:00+00:00",
-      "summary": "Eight easy hobbies that slow brain ageing&nbsp;&nbsp;The i PaperFrequent museum visits tied to reduced cellular aging, research finds&nbsp;&nbsp;Fox NewsIs culture really as good for you as a workout?&nbsp;&nbsp;Financial TimesEngaging with arts linked to slower pace of ageing | UCL News - UCL&nbsp;&nbsp;UCL | University College LondonArts and cultural engagement ‘linked to slower pace of biological ageing’&nbsp;&nbsp;The Guardian",
+      "summary": "Eight easy hobbies that slow brain ageing&nbsp;&nbsp;The i PaperFrequent museum visits tied to reduced cellular aging, research finds&nbsp;&nbsp;Fox NewsEnjoying the arts ‘has same effect on ageing as a weekly workout’&nbsp;&nbsp;The TimesA Night at the Theater May Be Just as Good for Your Health as Exercise, According to New Research&nbsp;&nbsp;Real SimpleArts and cultural engagement ‘linked to slower pace of biological ageing’&nbsp;&nbsp;The Guardian",
       "sources": [
         {
           "name": "The i Paper",
@@ -270,14 +318,26 @@
       ]
     },
     {
-      "id": "4e24c06b0ed9",
-      "title": "Why aren't brain transplants possible? - Live Science",
+      "id": "a4322c84f945",
+      "title": "NASA's Webb Telescope Captures Dazzling New Photo of Spiral Galaxy 45 Million Light-Years Away - Yahoo",
       "published": "2026-05-17T09:00:00+00:00",
-      "summary": "Why aren't brain transplants possible?&nbsp;&nbsp;Live Science",
+      "summary": "NASA's Webb Telescope Captures Dazzling New Photo of Spiral Galaxy 45 Million Light-Years Away&nbsp;&nbsp;YahooJWST Reveals a Hidden Structure in The Heart of The Squid Galaxy&nbsp;&nbsp;ScienceAlertSpiral galaxy’s brilliant heart shines bright in a new picture from NASA’s Webb telescope&nbsp;&nbsp;WXXV News 25Scientists release dazzling new image of 'Squid Galaxy' 45 million light-years away&nbsp;&nbsp;WKRCJames Webb Spots Strange Structure at Core of Distant Galaxy&nbsp;&nbsp;Futurism",
       "sources": [
         {
-          "name": "Live Science",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUkJwRFpCOGN1UU8za3draGxiZTRhNzRiOWJoMkpQYVFkQ0VXbnNQRkJWaDFxYlRydE5FLW5jYUNwQlVzLW0wY29xeHAwTkF2Q1lVOGZ2aXlWZDAyc0M4cHJqSFBNQ01pZ3BHSkliWFdXa24zVnlERVJZVm5oODZTeldTby1HZ3VJMWJIUw?oc=5"
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWThINk9ITkV2NE90TEphNnYweWoxenRSNGxGUmwxVHBLTnNLbWRFWWUxZEhjSmxsZ3FtSDduMm1OOHlzM3E0Uk1Zbm04XzR5VHNLTG1XOTQwYk0xUVR6LURsUXZQYmRFLVZPVWVxZGlhcUZrYlk4YnJTeVZiOGxick5rX19SdHdBdE54MFJKM25iUDJDME92M201QnUtckU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e387f4301e23",
+      "title": "Hantavirus detected in semen after six years, but is it really dangerous? - ynetnews",
+      "published": "2026-05-17T06:59:38+00:00",
+      "summary": "Hantavirus detected in semen after six years, but is it really dangerous?&nbsp;&nbsp;ynetnewsHantavirus can persist in semen for years, but that doesn’t mean it remains contagious&nbsp;&nbsp;Scientific AmericanHantavirus can survive in semen 6 years after infection: Study&nbsp;&nbsp;The HillHantavirus may survive in human sperm for up to six years and cause a transmission risk&nbsp;&nbsp;The TelegraphWhat hantavirus does to survivors long after infection&nbsp;&nbsp;Euronews.com",
+      "sources": [
+        {
+          "name": "ynetnews",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxaURWMEM1WDNMRzNZRzNNRXQ4T2tUaXBsVG9TWms4bm9lR010Z1NMZndsWVVoZmphZ3NWZG1mR3FJMXkzdmdqTEQyNkw5YXFTSGhtMHlmWGRuaU5OZ2dCVXhLNFMxcmJDVnc?oc=5"
         }
       ]
     },
@@ -294,26 +354,14 @@
       ]
     },
     {
-      "id": "45285b3a01f9",
-      "title": "Patagonia shares lessons on what it learned from hantavirus - Financial Times",
-      "published": "2026-05-17T04:01:04+00:00",
-      "summary": "Patagonia shares lessons on what it learned from hantavirus&nbsp;&nbsp;Financial TimesArgentina Races to Find Origin of Hantavirus Contagion&nbsp;&nbsp;The New York TimesDid a bird-watching visit to this Argentine landfill spark the cruise ship hantavirus outbreak? Experts raise doubts&nbsp;&nbsp;Scientific AmericanHow Andes virus super-spreaders reveal the risk behind the MV Hondius hantavirus cluster&nbsp;&nbsp;News-MedicalThis small rodent is at the center of theories about the hantavirus out",
+      "id": "5e658d0d43c2",
+      "title": "What does stress really do to our bodies – and when does it become a big problem? - The Guardian",
+      "published": "2026-05-17T04:01:00+00:00",
+      "summary": "What does stress really do to our bodies – and when does it become a big problem?&nbsp;&nbsp;The GuardianHow workplace stress hijacks the nervous system&nbsp;&nbsp;The Washington PostYour daily stress may be raising blood pressure silently: Here’s how long work hours, poor sleep, and mental exhaustion are affecting the heart&nbsp;&nbsp;The Times of IndiaYoung professionals face a hidden heart crisis at work | Tap to know more | Inshorts&nbsp;&nbsp;InshortsWorking from home may be silently increa",
       "sources": [
         {
-          "name": "Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ0VyUF9RU3pxVk1FNUlILTZOamw4MXJOblVtaTBwbXotUmY2Mll1UnVsdDlaUmNnNS11bmlhV1RJbm94Y2dyWVZHMkhyX0lyMlpFcXpJUzc5UTd3N2FJVDZvam0wOF9MY2RnTDdoNWlSTkF5MGNUblZHaFVmcnFLMldBZ1A?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "da0dcd69d674",
-      "title": "Deadly Hantavirus Outbreak on Cruise Ship Sparks Global Health Alert - SciTechDaily",
-      "published": "2026-05-17T03:50:27+00:00",
-      "summary": "Deadly Hantavirus Outbreak on Cruise Ship Sparks Global Health Alert&nbsp;&nbsp;SciTechDailyHow a Nature Cruise Turned Into a Nightmare&nbsp;&nbsp;The New York TimesAmerican who was on doomed MV Hondius cruise reveals what it's like under 42-day hantavirus quarantine&nbsp;&nbsp;New York PostHantavirus cluster linked to cruise ship travel, Multi-country&nbsp;&nbsp;World Health Organization (WHO)Hantavirus countdown: U.S. cruise passengers settle in for 42 days of waiting&nbsp;&nbsp;NPR",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQXJOVWJQV2p3Yklab0tmdGVzMG9GX0hhR1d6SU1qZzB6WmhtU3czUVBjdV9BeThaaTItRWVzaGxISXF0dlRkSVMySjM5bzVTeDVQcmx3N3pPQmtzRXZZcEhhREd0Q1NxZDB1NTNuX0tqcVI1NTl1QU1BeTF3QlVQaVctLW5DZkJORDJ6REdsUE5OLXZuSzR3OVlB?oc=5"
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR2c3UXBOT3RFc0xoVzFjVGpyc1NCOTRFWHBtdDRWckZmVmIzTGJmb1Q2MVhfLUUtSnNiZDNoTGt5bm9rekFGU3R0TE5ocjJzdDZxd1NnaHZSVnNNUUUydXVnQ2dtUXRaTllrcmZ5d2lFaHZuQmZkaVVJeHpXbHRhc3NTXzRtQQ?oc=5"
         }
       ]
     },
@@ -330,30 +378,6 @@
       ]
     },
     {
-      "id": "8e82a06bb929",
-      "title": "Study shows simple diet method means you lose more weight and keep it off - The Mirror",
-      "published": "2026-05-17T01:36:17+00:00",
-      "summary": "Study shows simple diet method means you lose more weight and keep it off&nbsp;&nbsp;The MirrorThe weight loss method proven to help you shed more pounds and keep them off&nbsp;&nbsp;The IndependentRapid Weight Loss Method Outperforms Gradual Diets In Major Trial&nbsp;&nbsp;streamlinefeed.co.keNew study changes what we know about the best speed at which to lose weight&nbsp;&nbsp;AOL.comTrial shows rapid weight loss is much more effective than gradual weight loss, challenging prevailing beliefs&n",
-      "sources": [
-        {
-          "name": "The Mirror",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS0htelZtb0FnY1VPYU5RU2o4UTRWMFQ3b25sY3pGbGswSnJkSVFhRi1hMmFuSmdabzFHeTdRZFptYkd3M1pWMThWRU4xRW0xNDlSaDFiMFduTndHM1NTUWhLOURyTTFmME11RGhoRndKV1ZvYXZJRXVtNnM2eGJuMFpB0gGHAUFVX3lxTE9xMVd1R21FcTRBdUR5V24zdzY0eDFUREZYQ2ppQ0xicWk1VUJZRzJFU09XS3NUWkgxMnY3Q0E2SE9RQmVMQWJGcVJQYjNNd2xfY002c09QZG0wN2JJdFM2RUwwMGRkbVc5bUcwdjJqZC1GR182WTR0U2pSZDVQbDUtYndjTjA0dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "27929be7a8b2",
-      "title": "Hantavirus can survive in semen 6 years after infection: Study - Yahoo",
-      "published": "2026-05-16T23:06:50+00:00",
-      "summary": "Hantavirus can survive in semen 6 years after infection: Study&nbsp;&nbsp;YahooSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcGtzTGNHeXNOVHJlMFhOYjB4WTlXNmRKaHAwZFo0bFhiRzFqTnVfTFVOaFZLZWJFMlB5b2plRFYzWWdoRjF1MU1TUXN0ejA0T01VRmJXaUlnaW5MeUZTVWotcC1adnNONHRyc0JTOURYV3REb1FYUXVLRmJCdS1OSFFrSExyZnVxUUQ0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "539972bfc72c",
       "title": "Early-morning workers may finally have a treatment for fatigue - Earth.com",
       "published": "2026-05-16T22:18:32+00:00",
@@ -362,30 +386,6 @@
         {
           "name": "Earth.com",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTlwbC14LTNEc0R2SHJoSEhyOGF5b0NZZ0lyb3hQSTdjX0VKcE16b1NRLWF4M3dsQTY3UDNjT25TcFRQeTNxbjhRbm9xTjVRQUU3d2lnVk9rYXFqSnd4WXowc3NieWZtWXBtUnh1RElucFZRa1BPNmloTTdCU2tMdnpRdVhiVnpiZzJ3MWx3TVpWRkty?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b8a154cd42c7",
-      "title": "France says cruise ship Andes virus matches known South American viruses - WTOP",
-      "published": "2026-05-16T22:09:24+00:00",
-      "summary": "France says cruise ship Andes virus matches known South American viruses&nbsp;&nbsp;WTOPFrench Hantavirus Patient Is Critically Ill as Outbreak Reaches 11 Cases&nbsp;&nbsp;The New York TimesHantavirus Cruise Passenger in ‘Very Critical’ Condition, Was Initially Told Her Symptoms Were Just Anxiety&nbsp;&nbsp;People.comFrance and Netherlands say that all hantavirus contact cases are negative&nbsp;&nbsp;Le Monde.frVersion of hantavirus behind deadly cruise ship outbreak matches known strain, France",
-      "sources": [
-        {
-          "name": "WTOP",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVHl1RkRvNXdVLWY4Tjd1OWJkeHRtRVU2aG1FU3h0Mk9uTkVoY3g4TnFlekg4V0JITGNHUm1Fa0NmWW1kWkVySzUwT21Da1FNZ216X2llX043Uk1qMnQybklIOTdDZmZDX1FHdXRoYzdEVkFvcWZiTktlX2syUno0TEtISEhZLVh1OVRGY29XOWw3bE82RzhHSklNdUJIc0YxN0ROQzEyRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "25fa69f3e010",
-      "title": "Men Who See The World This Way Are More Likely To Have Psychological Issues, Study Finds - YourTango",
-      "published": "2026-05-16T21:34:16+00:00",
-      "summary": "Men Who See The World This Way Are More Likely To Have Psychological Issues, Study Finds&nbsp;&nbsp;YourTango",
-      "sources": [
-        {
-          "name": "YourTango",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ09IelJoV1IxX0xkdDFBaWYxYWFHZGg5QUtDRHlOYXYzQ21nNzd1aHlZbFU0S0hZcDFvMmJSbW1rOHhRcHctYmlZT0R2Wm03LUdSRFJlRkNyNTNIUVV2ZTRnNTBEeTZDYS1ONjFGYmVXVkc3cGpTamU0NnBzU081S1NpX2J6UzRRRzJXVnBZTzFCbkFwZFJkZQ?oc=5"
         }
       ]
     },
@@ -417,23 +417,11 @@
       "id": "a5c2c43639d4",
       "title": "Mysterious fault’s quake brakes may hold secret to stopping tremors: Study - New York Post",
       "published": "2026-05-16T19:53:00+00:00",
-      "summary": "Mysterious fault’s quake brakes may hold secret to stopping tremors: Study&nbsp;&nbsp;New York PostThis underwater fault near Ecuador has baffled scientists for decades. They just cracked it&nbsp;&nbsp;The Economic TimesScientists discover hidden “brakes” that stop massive earthquakes&nbsp;&nbsp;ScienceDailyFast-moving Gofar fault reveals quiet zones that may govern big earthquake timing&nbsp;&nbsp;Phys.orgIU researcher helps solve mystery of clockwork-like earthquake system deep beneath the Pac",
+      "summary": "Mysterious fault’s quake brakes may hold secret to stopping tremors: Study&nbsp;&nbsp;New York PostThis underwater fault near Ecuador has baffled scientists for decades. They just cracked it&nbsp;&nbsp;The Economic TimesScientists discovered nature’s own “brakes” deep beneath the Pacific Ocean that may have prevented massive megaquakes&nbsp;&nbsp;The Times of IndiaAcela of the ocean&nbsp;&nbsp;University of DelawareIU researcher helps solve mystery of clockwork-like earthquake system deep beneat",
       "sources": [
         {
           "name": "New York Post",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSHF1dWFOT2hXbWFJTjZfV0U2SGR4U0xwOTdwMElpTzJ3Y2hCeWtoeWZLZTZmNWtVSTlfRDU4cHpXNHMxUHR4UW5MeFFxSnhUSHowMFVOU2d6TnJUM0RScUNFYTNvdFRHT3k1ZWpPWjlfVXZ2VmpIVnNtYXktQk9DSjhjb0ItS0wtNldIalFtYTNrRmRUYzJKQ3FzT3RYSlU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9f3d27ffe370",
-      "title": "Colorado Department of Public Health and Environment confirms hantavirus case - CBS News",
-      "published": "2026-05-16T18:42:00+00:00",
-      "summary": "Colorado Department of Public Health and Environment confirms hantavirus case&nbsp;&nbsp;CBS NewsDouglas County adult dies from hantavirus; case not linked to cruise ship outbreak&nbsp;&nbsp;Denver7Hantavirus strain found in Chelan County resident&nbsp;&nbsp;The Wenatchee WorldHantavirus death in Colorado, state says not linked to cruise ship outbreak&nbsp;&nbsp;KDVRColorado health officials confirm deadly hantavirus case not linked to cruise&nbsp;&nbsp;KUSA.com",
-      "sources": [
-        {
-          "name": "CBS News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZldMMEd3SFVOTFVPZldPTGVpU2V5ZVJJa0xfSGFidzVMWFcwaThBZldEbGVSNVZuR2JEaFhOc1V2eEs4eHg3MkZqMUhiRGpRSlN1S0JKQ0JKVXNaS29sVllEOXlwQU9sYWlzc0NDRmZuV28tcE91T3RvWm1VejJvVjMxMlNxTV9mRm9GTzNOYzI0R1NmUUJCMVZLeFdKUUpRVWxGSW1MNWFKVjBmM0E?oc=5"
         }
       ]
     },
@@ -462,18 +450,6 @@
       ]
     },
     {
-      "id": "7d901bca9c66",
-      "title": "Some people really are mosquito magnets, and scientists are starting to understand why - Earth.com",
-      "published": "2026-05-16T18:28:32+00:00",
-      "summary": "Some people really are mosquito magnets, and scientists are starting to understand why&nbsp;&nbsp;Earth.comThe science of \"mosquito magnets\": why some people attract more bites&nbsp;&nbsp;Futura, le média qui explore le mondeUC Santa Barbara finds mosquitoes use infrared to track humans&nbsp;&nbsp;NewsBytesThe Real Reason You're a Mosquito Magnet (Science Just Figured It Out)&nbsp;&nbsp;American Council on Science and HealthWhy are some people mosquito magnets? Clues are emerging&nbsp;&nbsp;Phys",
-      "sources": [
-        {
-          "name": "Earth.com",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVHI3ZGQ0QVd6Ym83YXY2TXNpYkpOQ25NNGlPUDZZUTZWd05MWmkxR2NTNlMxSldCZldxTWZkYi13dFRqY0QxV25rdGEzenRyS2thUjlsemxIN1ZBR3VMOUNTSWFRcHVOMHNDUVNHMUVTS3YzcW1hZGZsOWlUbXVaQnlZUzZlMUZPS1dwcUk1a1pWMTZ3UzhkdkNINEh4MWZCeTBkSkQ1Ti1reVN0Z1pfQmtIRQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7df300f2f109",
       "title": "Scientists find a remarkable molecule that could help humans live up to 200 years cancer free - Earth.com",
       "published": "2026-05-16T18:28:32+00:00",
@@ -486,14 +462,26 @@
       ]
     },
     {
-      "id": "bbaccdb90060",
-      "title": "Scientists finally solve why humans became overwhelmingly right-handed - Interesting Engineering",
-      "published": "2026-05-16T16:53:00+00:00",
-      "summary": "Scientists finally solve why humans became overwhelmingly right-handed&nbsp;&nbsp;Interesting EngineeringWhy is almost everyone right-handed? The answer may lie in how we learned to walk&nbsp;&nbsp;Phys.orgWhy 90% of Humans Share the Same Dominant Hand&nbsp;&nbsp;Neuroscience NewsThe strange reason nearly all humans are right-handed&nbsp;&nbsp;The Brighter Side of NewsStudy links right-handedness bias in humans to walking on 2 legs | Study published in PLOS Biology | Inshorts&nbsp;&nbsp;Inshorts",
+      "id": "7d901bca9c66",
+      "title": "Some people really are mosquito magnets, and scientists are starting to understand why - Earth.com",
+      "published": "2026-05-16T18:28:32+00:00",
+      "summary": "Some people really are mosquito magnets, and scientists are starting to understand why&nbsp;&nbsp;Earth.comThe science of \"mosquito magnets\": why some people attract more bites&nbsp;&nbsp;Futura, le média qui explore le mondeUC Santa Barbara finds mosquitoes use infrared to track humans&nbsp;&nbsp;NewsBytesThe Real Reason You're a Mosquito Magnet (Science Just Figured It Out)&nbsp;&nbsp;American Council on Science and HealthWhy are some people mosquito magnets? Clues are emerging&nbsp;&nbsp;Phys",
       "sources": [
         {
-          "name": "Interesting Engineering",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JUEF1VVpybE5WdHFUa082NFE0MVpRdHlRNVJjd1ZVN19fU2N3ZUNLa0t4OWpEalNYX1p2QVNBTkNZdzU4aGV1WncxdnpuaDRnQ1FzeWFzSnJzdER6OHd5Z1NKVUxpS0IwbWVCV1h0dGN2Tkp3M1VXck1n?oc=5"
+          "name": "Earth.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVHI3ZGQ0QVd6Ym83YXY2TXNpYkpOQ25NNGlPUDZZUTZWd05MWmkxR2NTNlMxSldCZldxTWZkYi13dFRqY0QxV25rdGEzenRyS2thUjlsemxIN1ZBR3VMOUNTSWFRcHVOMHNDUVNHMUVTS3YzcW1hZGZsOWlUbXVaQnlZUzZlMUZPS1dwcUk1a1pWMTZ3UzhkdkNINEh4MWZCeTBkSkQ1Ti1reVN0Z1pfQmtIRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4352b0d45696",
+      "title": "Version of hantavirus behind deadly cruise ship outbreak matches known strain, France says - CBS News",
+      "published": "2026-05-16T18:07:02+00:00",
+      "summary": "Version of hantavirus behind deadly cruise ship outbreak matches known strain, France says&nbsp;&nbsp;CBS NewsFrench Hantavirus Patient Is Critically Ill as Outbreak Reaches 11 Cases&nbsp;&nbsp;The New York TimesHantavirus Cruise Passenger in ‘Very Critical’ Condition, Was Initially Told Her Symptoms Were Just Anxiety&nbsp;&nbsp;People.comFrance and Netherlands say that all hantavirus contact cases are negative&nbsp;&nbsp;Le Monde.frHow France works to beat the hantavirus chain of transmission&n",
+      "sources": [
+        {
+          "name": "CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ01MSERfY0JHbWVCdy1rSWtHZ3EtNkJCNU5kcU9SQjNwbGY1b1B1NWE1alpYOGVsRnJxZWM5cU90Q2VIZzJiYzdjM0h2blhaUzExWEEtNlYtRkxORE1UR3dWTkhLTEsxTnFXSjczNHlJRmlVc3NpbHNfcGMwVTFRNlFtaGVlTjdlMUHSAY8BQVVfeXFMTUhqV3ctTE9hV3luREJWRnpHbzBnQ2EwZmk2anZfZTlFTGFIU193QVlUUFJpOWpTMGEzNXkwZFREaDFnZTMyc0xHb0tZWVhkN0pGUThSbEVPWHVtUVVhRXpFanBxN0pmYzVHMEtOWjNSNkxPMHJZV1Nlb1Z1bXlDT2NUbDVndlZONjgxb2lxcFk?oc=5"
         }
       ]
     },
@@ -513,7 +501,7 @@
       "id": "42ed37d6ddc0",
       "title": "Here Are 3 Things You Can Actually Do To Lower Your Risk Of Colorectal Cancer - BuzzFeed",
       "published": "2026-05-16T16:31:02+00:00",
-      "summary": "Here Are 3 Things You Can Actually Do To Lower Your Risk Of Colorectal Cancer&nbsp;&nbsp;BuzzFeedWhy is colon cancer on the rise in young people? What to know and steps you can take&nbsp;&nbsp;NBC 5 ChicagoPoor diet, sedentary lifestyle put young men at risk of getting colorectal cancer&nbsp;&nbsp;Daily NationThe fight against colorectal cancer: What you need to know&nbsp;&nbsp;WTOPDoctors warn colon cancer is surging in people in their 30s as it presents no immediate signs&nbsp;&nbsp;UNILAD",
+      "summary": "Here Are 3 Things You Can Actually Do To Lower Your Risk Of Colorectal Cancer&nbsp;&nbsp;BuzzFeedAIIMS-trained gastroenterologist shares 6 early signs of colon cancer: Anaemia, abdominal pain, and more&nbsp;&nbsp;Hindustan TimesA long search for answers ends in cancer diagnosis&nbsp;&nbsp;St. Louis AmericanDoctors warn colon cancer is surging in people in their 30s as it presents no immediate signs&nbsp;&nbsp;UNILADThe fight against colorectal cancer: What you need to know&nbsp;&nbsp;WTOP",
       "sources": [
         {
           "name": "BuzzFeed",
@@ -530,6 +518,18 @@
         {
           "name": "SciTechDaily",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVjVmVm1haDdEX1Yxbi00X1hadGNHaTIzQkl4blJHbGdhVzAydWlkN05DVWJNVFQ2UlJmYlVPMU1aRlZ4R0gwQXlucnh1MzFTTXR2eEZpdXExdzFpRFF6a2U2M2JWcVkwRENBNXBBWF9yM2RaMWVFanZUNTZ0VGhid1lNQW44S2Vaa1diRVctWk5yX2xpaXlpQUpR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8b700bba447c",
+      "title": "Woman, 26, Thought Dachshund Was Randomly ‘Clingier’ for No Reason. Now, She Thinks Her Dog ‘Realized She Had Cancer’ - AOL.com",
+      "published": "2026-05-16T15:40:08+00:00",
+      "summary": "Woman, 26, Thought Dachshund Was Randomly ‘Clingier’ for No Reason. Now, She Thinks Her Dog ‘Realized She Had Cancer’&nbsp;&nbsp;AOL.com",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeXFRdnZIcm82RU1xOVZDbGtsUW83bGVmRjZKdnpJaTk5Z0x0MmZhX2xpdTgtVFh1SnJBNFo1alVaU1VHcjh1NWRucGFic0ZGU25JdjFUUERaOHhxQU5MSEhtQlV0V3BLVkViYmx2ejlOcEtsbFFKUE1raEg4MUx2VFItVW9mQQ?oc=5"
         }
       ]
     },
@@ -573,7 +573,7 @@
       "id": "0d38ecbd4272",
       "title": "The real reason exercise makes you stronger isn’t what you think - ScienceDaily",
       "published": "2026-05-16T13:54:29+00:00",
-      "summary": "The real reason exercise makes you stronger isn’t what you think&nbsp;&nbsp;ScienceDailyBrain Health Tips: Brain health: Harvard expert says this is the best way to boost memory and thinking ability&nbsp;&nbsp;The Times of IndiaJust 35 Minutes of Exercise Per Week Was Linked to 41 Percent Lower Dementia Risk in a Study of 90,000 Adults, Doctor Explains&nbsp;&nbsp;Yahoo CreatorsNew study shows exercise reshapes the brain | It was published in Cell Press journal Neuron | Inshorts&nbsp;&nbsp;Inshor",
+      "summary": "The real reason exercise makes you stronger isn’t what you think&nbsp;&nbsp;ScienceDailyWant Better Workout Results? It All Depends On What Your Brain Does After You Exercise&nbsp;&nbsp;NDTVThe age to start exercising regularly to ward off dementia revealed in new research&nbsp;&nbsp;MSNBrain Health Tips: Brain health: Harvard expert says this is the best way to boost memory and thinking ability&nbsp;&nbsp;The Times of IndiaNew study shows exercise reshapes the brain | It was published in Cell P",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -582,38 +582,14 @@
       ]
     },
     {
-      "id": "80063f3c25a1",
-      "title": "When should you get a mammogram? Conflicting advice makes it hard to know - NBC News",
-      "published": "2026-05-16T13:51:48+00:00",
-      "summary": "When should you get a mammogram? Conflicting advice makes it hard to know&nbsp;&nbsp;NBC NewsWhen doctors say yearly mammograms should start&nbsp;&nbsp;NBC4 WCMH-TVStudies show breast cancer rates are rising in younger women&nbsp;&nbsp;WSBTConflicting guidelines on mammogram timing create confusion for women&nbsp;&nbsp;MSNHow to decide when to get a mammogram&nbsp;&nbsp;The Lufkin Daily News",
-      "sources": [
-        {
-          "name": "NBC News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd1JIWjJ2dVJOWktyQUlrc1NtdUNKLUpzYzM5QlN6c2xFcktlMHZUaHBlN2Z5ZTlKVmFkQUNUVWtaakUzVXZWSE1Ddl9DRmJlclJ4U3dzQm5lTXlQbDJ0bkJsbTVmVE9JVnJtWm92MjRXbFFlRnZiV1hJaEpEOE0tM2NHQVhPMjRCTk9EYmVwcngta3p4aVpBWWllR3ZfUnFKUS1nc1EwOA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "222be19a765c",
       "title": "Scientists reversed memory loss by recharging the brain’s tiny engines - ScienceDaily",
       "published": "2026-05-16T13:32:59+00:00",
-      "summary": "Scientists reversed memory loss by recharging the brain’s tiny engines&nbsp;&nbsp;ScienceDailyRecharging Brain's Engines: A New Frontier in Dementia Research&nbsp;&nbsp;DevdiscourseCan Alzheimer’s Be Reversed? New Research Points To A Surprising Pathway&nbsp;&nbsp;MindBodyGreenScientists reverse memory loss by recharging brain’s tiny engines&nbsp;&nbsp;The Shillong Times",
+      "summary": "Scientists reversed memory loss by recharging the brain’s tiny engines&nbsp;&nbsp;ScienceDailyCan Alzheimer’s Be Reversed? New Research Points To A Surprising Pathway&nbsp;&nbsp;MindBodyGreenRecharging Brain's Engines: A New Frontier in Dementia Research&nbsp;&nbsp;DevdiscourseScientists reverse memory loss by recharging brain’s tiny engines&nbsp;&nbsp;The Shillong Times",
       "sources": [
         {
           "name": "ScienceDaily",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05aGUwaXFhdnh5NjVzYjljWHBWZ3V3MTktVGVaXzNwWjFibFFNNFVDSFFoYTBtUlg2cDc4RUlpVzNWRnQ0LW9OLTh4QnhTNkxqQ1VQZHVfMFBlSWJfMDFTVENYRFlPX2lxMzQ5LXlOcw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4454a73b30bd",
-      "title": "First-ever direct image of the cosmic web reveals the Universe’s hidden highways - ScienceDaily",
-      "published": "2026-05-16T13:20:40+00:00",
-      "summary": "First-ever direct image of the cosmic web reveals the Universe’s hidden highways&nbsp;&nbsp;ScienceDailyJWST maps universe's largest structure in great our detail&nbsp;&nbsp;SpaceFor the First Time, Scientists See the Universe’s Skeleton in Incredible Detail Thanks to JWST&nbsp;&nbsp;The Daily GalaxyVLT Captures First Resolved Image of a Cosmic Filament — and It Matches the Simulations Exactly&nbsp;&nbsp;Tech TimesInternational study supported by the James Webb Telescope reveals impressive detai",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Ha183TXlUNTVHYnRmQ3ZUUXlfVVFaOWFFbkRwcHJsbDZMdWZiaWtrRHotV25zckRKMmNGZlBxNHNVXzlGeDNPMkYxZGwwTDFxVTdFMnBHcnBGR0I5ZThxQnJEUThUOGRLT19vdlV2VQ?oc=5"
         }
       ]
     },
@@ -626,6 +602,18 @@
         {
           "name": "inc.com",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeUxCMmhFeVdwWVg4YkJmT1k4M0RtSFNLWlJfaGpfbGVXZ2ZKWDN3NlV2NmFMSkdFZktkdl9xNnRfZ3ZvMUxEYzVmTTBvaXVpdXlnR3lQVnB1c0RZXy1HcUZJOFBtMkFxQkVMOXktaUhVMHFXUmowUWgzNEVhTFZsMTk5aDVCVkRUYVFvaFFROUVoY1daRFBxaU5jbzJVSENFYmhkU096T085NlE5NTJjS1ItSkw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5abf495223bc",
+      "title": "Men seeking help for prostate cancer rises 50pc in a year - The Telegraph",
+      "published": "2026-05-16T13:00:00+00:00",
+      "summary": "Men seeking help for prostate cancer rises 50pc in a year&nbsp;&nbsp;The Telegraph",
+      "sources": [
+        {
+          "name": "The Telegraph",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWWRkc0NUMGh6NXhieEJuMVJjNXp5VzE5WWpBWDBTZG9kMTVwN1lpVzVRTHBuR0lNTnduMzUyTEJ5MWM0S1dmQ2hPNGc5WE1QbEVCREtpN05pMEplLUN1OFNTaG9vQ2tNX01wbVlLcnl2eTdRemY0WERxQjluMUpHOXFreENKSmluQU1VWEdFT2hsYTU5TEdJVjhaY0FLM0V2QWxOMg?oc=5"
         }
       ]
     },
@@ -654,18 +642,6 @@
       ]
     },
     {
-      "id": "79faf26b5ef5",
-      "title": "Medieval teeth open a new perspective on leprosy care and toxic medicine - Phys.org",
-      "published": "2026-05-16T12:10:01+00:00",
-      "summary": "Medieval teeth open a new perspective on leprosy care and toxic medicine&nbsp;&nbsp;Phys.org",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaW9tdi1kN0xlaklxS0x6a1Zqb21NTkhPVU5FeWlVNjJ3T0ZWUWpXZ2IxWk5oVVBrLVhDQU0xaUt0M1hkQm1rblNNczU0WE0xWDNBVnV0TU1GaEQ2bXIwcEtxd3JkcDBELWg0eU05ME9hcmxSY1BsZ1RnNFNTSXBhWg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2a324a06627d",
       "title": "A hospital worker felt healthy. Then he had 3 heart attacks in 4 days: \"What have I done to myself?\" - CBS News",
       "published": "2026-05-16T12:00:04+00:00",
@@ -681,7 +657,7 @@
       "id": "823f3400dfa2",
       "title": "Here’s What Science Tells Us About the Risks of Hantavirus - WSJ",
       "published": "2026-05-16T12:00:00+00:00",
-      "summary": "Here’s What Science Tells Us About the Risks of Hantavirus&nbsp;&nbsp;WSJOsterholm on hantavirus: We’re missing ‘main point of this outbreak’&nbsp;&nbsp;cidrap.umn.eduWhat counts as 'close contact'? Why the risk of hantavirus transmission is tricky to define&nbsp;&nbsp;Live ScienceA rare hantavirus outbreak isn’t the next COVID. Experts still see warning signs&nbsp;&nbsp;San Francisco ChronicleFive things to know about hantavirus from a Stanford Medicine expert&nbsp;&nbsp;Stanford Medicine",
+      "summary": "Here’s What Science Tells Us About the Risks of Hantavirus&nbsp;&nbsp;WSJHantavirus Doesn’t Spread Easily, but Officials May Be Downplaying Risks&nbsp;&nbsp;The New York TimesThe hantavirus outbreak is prompting Covid flashbacks — including the conspiracies&nbsp;&nbsp;statnews.comOsterholm on hantavirus: We’re missing ‘main point of this outbreak’&nbsp;&nbsp;cidrap.umn.eduFive things to know about hantavirus from a Stanford Medicine expert&nbsp;&nbsp;Stanford Medicine",
       "sources": [
         {
           "name": "WSJ",
@@ -702,26 +678,26 @@
       ]
     },
     {
-      "id": "8fb98155f802",
-      "title": "How Much You Need To Walk Every Day To Cut Your Risk Of Heart Disease - HuffPost",
-      "published": "2026-05-16T11:00:18+00:00",
-      "summary": "How Much You Need To Walk Every Day To Cut Your Risk Of Heart Disease&nbsp;&nbsp;HuffPostWalking at this precise moment could be beneficial for the body&nbsp;&nbsp;The Body OptimistOne step at a time: Going for walks is my favorite way to exercise&nbsp;&nbsp;Gaucher Disease NewsThis post-meal habit you think is healthy might surprise you&nbsp;&nbsp;Futura, le média qui explore le mondeCan Walking Really Replace the Gym? Here’s Why Many Think So&nbsp;&nbsp;Telangana Today",
+      "id": "d55acb6f71d6",
+      "title": "Stunning fossil discovery in Ethiopia rewrites human origins - ScienceDaily",
+      "published": "2026-05-16T11:22:29+00:00",
+      "summary": "Stunning fossil discovery in Ethiopia rewrites human origins&nbsp;&nbsp;ScienceDaily",
       "sources": [
         {
-          "name": "HuffPost",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOa3BrRGdkbG0tTFRDOFdSb3VfQlNsWDhmVXZUNVBKdHUzLVFTSXpITTF5eEhPZk1EblM1YkdoRXlGNG9kQ1o2VzE1S2dKaElKTjh3SWNuMnkxYWNpcDF5OVBqVms2N3VET2RjUEpwXzhHaF92QXJJdWZDZklpNkZGUGRaUXMtNmQwaUxRR0VWdUpNZ0UxQ3puNGdxLVk3YnBtU1JneW45YWV0SjVWc0tYLTkwY2FPdDRGbmRoTzF4ZVV5UXJMNUVwU19ycDLSAdIBQVVfeXFMTnVkaUx0d0VibXJQTExteHQ3Y3BLTTdNNkdlOFVQVzl2OE9WeDVzOW1FMHVjdnNwb2h2VVdFMV9qVTJKUkp0bFowUzBSZE9iQnZVVzZIdVgyLW1GeHBaN3J4dXZOdl9BcU04aGI4QmU3R0dWMjllQW9nc0plcmxuaEluTkVnbEZFUnJuSHJJWEstT2J3ZjE2MmpzZUw3cGp1ODUwUnNqWm9kUXdJM2ZnLWJidDZ6UzF5M3VYYnB4NkthZmdxeWViMnA2cFc4Y1BMN0N3?oc=5"
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56Zm1pVXhRei12UGVtYTdtU0xHb3AyeWV0VnQyR3BNa2RyZ00tUWNiSzJaTHlmTlZVMmd5LWFTMTY3amt1OXdKLXAzZlhmS29uZjBOQ2cxOG1lMk94VDlwcms1VVM2WE95cEdsTHNScw?oc=5"
         }
       ]
     },
     {
-      "id": "be418099e2b6",
-      "title": "Science news this week: PCOS has a new name, Neanderthals were the world's oldest dentists, and the first nuclear bomb explosion spawned an 'alien' crystal - Live Science",
-      "published": "2026-05-16T11:00:00+00:00",
-      "summary": "Science news this week: PCOS has a new name, Neanderthals were the world's oldest dentists, and the first nuclear bomb explosion spawned an 'alien' crystal&nbsp;&nbsp;Live SciencePolyendocrine Metabolic Ovarian Syndrome: New name to improve diagnosis and care of condition affecting 170 million women worldwide&nbsp;&nbsp;Endocrine SocietyPCOS’s new name is PMOS, a small letter change that required a big scientific process&nbsp;&nbsp;statnews.comThis Week in Science: PCOS Becomes PMOS, an 'Impossi",
+      "id": "8fb98155f802",
+      "title": "How Much You Need To Walk Every Day To Cut Your Risk Of Heart Disease - HuffPost",
+      "published": "2026-05-16T11:00:18+00:00",
+      "summary": "How Much You Need To Walk Every Day To Cut Your Risk Of Heart Disease&nbsp;&nbsp;HuffPost‘Walking beats running and these are the step counts to remember’&nbsp;&nbsp;The TimesWalking 10,000 steps every day? Orthopedic doctors reveal when this popular fitness goal may secretly damage your knees and joints&nbsp;&nbsp;The Times of IndiaOne step at a time: Going for walks is my favorite way to exercise&nbsp;&nbsp;Gaucher Disease NewsWalking improves mental health&nbsp;&nbsp;The Conway Daily Sun",
       "sources": [
         {
-          "name": "Live Science",
-          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOc1lUd1hHb2RwZVo2d0JBblBPQnB0UjdKWHdWeFBlZ0NZY1hPa25aaF93QUVQSGRTckM4X1htSTJ1cTdJeElVWXE3Q3BxQzh5eWU2bU40ZFVfaVZHZ1F1bHF2Zm1oWFVBdHAxWXpEejR4RFlpaGZ1SVJDZUwxSTF5d2c1NW9nMXI4VUxmdVYzUW9NRHJLeUhEM2V3cUthbzItTEJad1RfcVp5LTdhTlo0YkxsOWZxa05SbG1McThMYmp3WE5mVDA0bVB0OU9qbWtKT0hjVkcwaUNrWjVjXzd4MnVsZVpHTTVKUm9HdFpjQ2hJeHpMZlJEY0x3VlpDZzR0a3llN0FIWUV1OWVtU1Y1SVJR?oc=5"
+          "name": "HuffPost",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOa3BrRGdkbG0tTFRDOFdSb3VfQlNsWDhmVXZUNVBKdHUzLVFTSXpITTF5eEhPZk1EblM1YkdoRXlGNG9kQ1o2VzE1S2dKaElKTjh3SWNuMnkxYWNpcDF5OVBqVms2N3VET2RjUEpwXzhHaF92QXJJdWZDZklpNkZGUGRaUXMtNmQwaUxRR0VWdUpNZ0UxQ3puNGdxLVk3YnBtU1JneW45YWV0SjVWc0tYLTkwY2FPdDRGbmRoTzF4ZVV5UXJMNUVwU19ycDLSAdIBQVVfeXFMTnVkaUx0d0VibXJQTExteHQ3Y3BLTTdNNkdlOFVQVzl2OE9WeDVzOW1FMHVjdnNwb2h2VVdFMV9qVTJKUkp0bFowUzBSZE9iQnZVVzZIdVgyLW1GeHBaN3J4dXZOdl9BcU04aGI4QmU3R0dWMjllQW9nc0plcmxuaEluTkVnbEZFUnJuSHJJWEstT2J3ZjE2MmpzZUw3cGp1ODUwUnNqWm9kUXdJM2ZnLWJidDZ6UzF5M3VYYnB4NkthZmdxeWViMnA2cFc4Y1BMN0N3?oc=5"
         }
       ]
     },
@@ -738,26 +714,14 @@
       ]
     },
     {
-      "id": "6ad5b6b11ff2",
-      "title": "Hantavirus has no cure. Here’s where researchers are at with treatments and vaccines - CBC",
-      "published": "2026-05-16T08:00:00+00:00",
-      "summary": "Hantavirus has no cure. Here’s where researchers are at with treatments and vaccines&nbsp;&nbsp;CBCKorea Develops mRNA Vaccine for Hantavirus, US Completes Phase 1 DNA Vaccine Trial&nbsp;&nbsp;동아사이언스CEPI CEO pitches his 100-day vaccine development project amid hantavirus outbreak&nbsp;&nbsp;The Hill TimesIs there a treatment for hantavirus?&nbsp;&nbsp;KXAN AustinIs there a hantavirus vaccine? Scientists race to develop one for new strain&nbsp;&nbsp;MSN",
+      "id": "39a5f61534ab",
+      "title": "Polyendocrine Metabolic Ovarian Syndrome: New name to improve diagnosis and care of condition affecting 170 million women worldwide - Endocrine Society",
+      "published": "2026-05-12T13:59:45+00:00",
+      "summary": "Polyendocrine Metabolic Ovarian Syndrome: New name to improve diagnosis and care of condition affecting 170 million women worldwide&nbsp;&nbsp;Endocrine SocietyPCOS’s new name is PMOS, a small letter change that required a big scientific process&nbsp;&nbsp;statnews.comThis Week in Science: PCOS Becomes PMOS, an 'Impossible' Crystal, And More!&nbsp;&nbsp;ScienceAlertPolycystic Ovary Syndrome Demands Multidisciplinary Approach&nbsp;&nbsp;MedscapeThe promises and pitfalls of personalized health&nbs",
       "sources": [
         {
-          "name": "CBC",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UcVc1OEtzT0s1aFp6VEdramd5Znd5Uks0OU9lN2toY2RZWkhBcWZORkhJbnJHZzdfMGRHWkp6blR5R1VlUm0zbXA1M3B4TUJjcS13Si1TdnBqR0V6X1UwR2hJM1FXRHM2UWJjOGNuVjk5aU9OcndJR2Z6NWw0SDQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cfed2634aaf1",
-      "title": "How weight loss jabs have changed the battle with obesity - BBC",
-      "published": "2026-05-16T06:09:01+00:00",
-      "summary": "How weight loss jabs have changed the battle with obesity&nbsp;&nbsp;BBCNewer oral medicines may dim food's emotional pull without causing nausea.&nbsp;&nbsp;Psychology TodayGLP-1 Weight Loss Linked To Dramatically Lower Risk of Sleep Apnea, Kidney Disease and More&nbsp;&nbsp;SciTechDailyHow Wegovy reshapes prescription weight loss in the US&nbsp;&nbsp;AD HOC NEWSI’m a neuroscientist, but the way weight-loss drugs changed how I think surprised me&nbsp;&nbsp;The Telegraph",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HSkR5NTNmXzI3ZkROWVBId25SU3ZQODgtbXA0ZW16OENod0dWT2tRWENOZnlPZXNLVjJNNllHRng3UVB2RUNlX3B3T2hYY0pNeE1IaENMcGRpZw?oc=5"
+          "name": "Endocrine Society",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQnBhNFBBOVdyQTV1dUFZMTlsV1VDX0U0ZzIzMWpwSFpNNXRzR1U5N0h5UDdISzVRS1FHS1FqNkpMUExkQWx3UW4ybGQ5TktpTUVJUHlWd3NsQ29LSkdzYktHZzJjdDE5bzZ2ZHMzWWo2UERFMlhMQ2w0N1NUZENpMA?oc=5"
         }
       ]
     }

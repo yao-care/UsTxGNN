@@ -1,43 +1,31 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-19T03:52:53.944572+00:00",
-  "total_fetched": 95,
-  "unique_count": 95,
-  "health_related_count": 41,
+  "fetched_at": "2026-05-19T09:51:31.597786+00:00",
+  "total_fetched": 106,
+  "unique_count": 106,
+  "health_related_count": 45,
   "news": [
     {
-      "id": "65aba745597c",
-      "title": "American tests positive for Ebola; U.S. to screen travelers at airports - The Washington Post",
-      "published": "2026-05-19T02:51:57+00:00",
-      "summary": "American tests positive for Ebola; U.S. to screen travelers at airports&nbsp;&nbsp;The Washington PostEpidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern&nbsp;&nbsp;World Health Organization (WHO)American tests positive for Ebola after exposure in Democratic Republic of Congo&nbsp;&nbsp;USA TodayThis Ebola outbreak raises questions about when it all began — and the U.S. response&nbsp",
+      "id": "2bbfb9f86905",
+      "title": "American doctor working in Congo tests positive for Ebola, CDC and aid group say - CBS News",
+      "published": "2026-05-19T09:31:56+00:00",
+      "summary": "American doctor working in Congo tests positive for Ebola, CDC and aid group say&nbsp;&nbsp;CBS NewsW.H.O. Chief Is ‘Deeply Concerned’ By Speed and Scale of Ebola Outbreak As Cases Rise&nbsp;&nbsp;The New York TimesInternational health experts meet in search for Ebola Bundibugyo vaccine options&nbsp;&nbsp;ReutersEpidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern&nbsp;&nbsp;World Hea",
       "sources": [
         {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYW5FTWdWSWpjMGowc3NfWHM4UWlrUy1vZlFfMlh4bDFqdHc1NzhGX3o3MjcwaExJNkQ1SDRVdHVPbkMtcmhkSkpiN2pMQXBueXFVRERnXzFKeTZXSEJKVk05c3JNU0lmQ29oeG5IeVM0RkFvcF9SMFBrVTFicWlZN2Z4VXFxUDJzNHROZ0s5OUJReWlQa01FeVBwR0tfdllWSGpMajh2dGFnZGtLcmNRdnYyUFlDY2NaZjJv?oc=5"
+          "name": "CBS News",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sMElmNXp1NDdiYUtkVHV2Tl90dm0xNkR2Q3I4Q2JPSFk0bEdITEtaSXFsMDVsdDhFUVFKRU5hTTNKY29mTFhHcWtTbW81YmxVNFdmUzZ6N2dnX0FiZkpCMWVRNDFINHhtY29aYWpLdWdxeXRtZ0RJ0gF8QVVfeXFMTkdkQkFaU3RORE9hRU42Tjg3Ni1ocjdCSkZjOHNpNkZvbVlPZG9ManJ5bUxIVTdiajczZXZSSV9uZDdTdDBVaFpSbjc3Q0tDRHhEWk9tNTdYRmd4NnRYYjVVS09RdWFUSV9JVGo5UDRlYkNrVXJhUW5IaVpCTg?oc=5"
         }
       ]
     },
     {
-      "id": "9b4780035b2a",
-      "title": "Booming Expedition-Cruise Business Grapples With Fallout From Hantavirus Outbreak - WSJ",
-      "published": "2026-05-19T02:49:00+00:00",
-      "summary": "Booming Expedition-Cruise Business Grapples With Fallout From Hantavirus Outbreak&nbsp;&nbsp;WSJHow a Nature Cruise Turned Into a Nightmare&nbsp;&nbsp;The New York TimesHantavirus-stricken cruise ship docks in the Netherlands for disinfection&nbsp;&nbsp;Dallas NewsOmaha Steaks, Nerf basketball and Hazmat suits: Former contagion patients describe life in quarantine amid Hantavirus&nbsp;&nbsp;NBC NewsHantavirus-hit liner reaches Rotterdam, crew being quarantined and ship disinfected&nbsp;&nbsp;Reu",
+      "id": "f96727e16d54",
+      "title": "Britain gets experimental drug from Japan to bolster hantavirus response - Yahoo",
+      "published": "2026-05-19T05:11:00+00:00",
+      "summary": "Britain gets experimental drug from Japan to bolster hantavirus response&nbsp;&nbsp;YahooSee more headlines & perspectives on Google News",
       "sources": [
         {
-          "name": "WSJ",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaFo5QzRfQUhHS3M3M1hNZzVacFctMU9odVZPVzQ1RjBFdTJFdGR5emJKWUlfVnVENThfZUhUQ3NpY1JSNTRndS1yb0Zkakg1cVAwTzJSNXJxcTI5VWRDS3FPdlRfeU9BRVNfRTJyRkRlRWtFZThGcExPUzJuYU1WVDlGeVdOVlBmOTBkVzBobXpja1BaS3EwSW83eFF5U3YwWGlYaUowUEt5OTlBYzV5dkgwR18?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7354905d3699",
-      "title": "American Hantavirus Patient Ordered to Stay in Quarantine Despite Plans to Leave - The New York Times",
-      "published": "2026-05-18T23:19:22+00:00",
-      "summary": "American Hantavirus Patient Ordered to Stay in Quarantine Despite Plans to Leave&nbsp;&nbsp;The New York TimesSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMTNUNklldDk5MTlYTkRDWFVFZG5ZZExQNURHV0Nrd0s3T0c5dmlpU0h4ZzVBWWxQOE5ja3FSUS1hVjJlQ1prTnNheEFZX3R6Vm9waU5YaURNQlZEdWhpLVlhdnpvbUpxS2Q4LWNTVm9PLUJWUHF5djI2dDUta3Y1X2dBS21oZS1oc3RHTnh3?oc=5"
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNmk4b01HcUxhWlpvZkRXbkotZTZwaHJUb2xqU19keUsyaVMzenNGc0MwdVgwQ1BjVkRRV1cyQ1hhbW9jZVJsUGJ1MXI3Q0RobzdZSG5NTWNIMkZ4TlNkNVo0MGFEMkxOX25yZUE5WVFmRnlvSmRmVFhfUklSVU1rRXZya1BtcE11Q2QtcWNoUjA?oc=5"
         }
       ]
     },
@@ -45,11 +33,23 @@
       "id": "3a0d3d6f36fc",
       "title": "Adult dies of hantavirus in Colorado, state health officials say - Reuters",
       "published": "2026-05-18T21:55:26+00:00",
-      "summary": "Adult dies of hantavirus in Colorado, state health officials say&nbsp;&nbsp;ReutersColorado records first hantavirus death since 2024. It’s not from the cruise ship.&nbsp;&nbsp;The Colorado SunFatal Colorado hantavirus case not linked to cruise ship, officials say&nbsp;&nbsp;The HillHealth leaders offer safety tips after Colorado hantavirus death&nbsp;&nbsp;KKTVColorado adult dies from hantavirus after local rodent exposure&nbsp;&nbsp;USA Today",
+      "summary": "Adult dies of hantavirus in Colorado, state health officials say&nbsp;&nbsp;ReutersHealth leaders offer safety tips after Colorado hantavirus death&nbsp;&nbsp;KKTVDouglas County adult dies from hantavirus, health officials say there’s no link to cruise ship outbreak&nbsp;&nbsp;Colorado Public RadioFatal Colorado hantavirus case not linked to cruise ship, officials say&nbsp;&nbsp;The HillColorado records first hantavirus death since 2024. It’s not from the cruise ship.&nbsp;&nbsp;The Colorado Sun",
       "sources": [
         {
           "name": "Reuters",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcXgtUFRRbWl0VTRLaGRicXc2R2ttdFo4ZlNxaUtaNm5zVlJiWmdEd1JEbVpVLTRaaFFvdGtfUEhDS0hiSEdEWlNhS0tWd0hmSUZZRU0wdTJNcmFuamkxQVZVanZ5TFFXaUUyWDVMb1V1bGZZZTFMRnNQREpGV1dSbVBpT2tiT2NaUXdZbjQwdFRYZG9aZzRONE1OLUNhaGNEVUcyeEl3OEdreE9HN0MtN0ZpcTh3UEtKajF1czctWGJ6NHFUUWZvMQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6eaddb648dff",
+      "title": "SpaceX Starship Flight 12 launch updates: 1st-ever Starship V3 test gets new launch date - Space",
+      "published": "2026-05-18T21:30:35+00:00",
+      "summary": "SpaceX Starship Flight 12 launch updates: 1st-ever Starship V3 test gets new launch date&nbsp;&nbsp;SpaceWhat time is SpaceX's Starship V3 launch on May 21? (Starship Flight 12 timeline)&nbsp;&nbsp;SpaceSpaceX reschedules 12th Starship launch&nbsp;&nbsp;ValleyCentral.comFor SpaceX, the stakes of this week’s Starship rocket test flight are sky-high&nbsp;&nbsp;NBC NewsThe US space enterprise is desperately waiting for Starship—will it finally deliver?&nbsp;&nbsp;Ars Technica",
+      "sources": [
+        {
+          "name": "Space",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOG1RWTMzTC0xbDhMN0ZGaldsNHFyYW1ZU0hWU2N5QVlmS2I2YU9PaGJZM1k4VkczWkZ6ejJvQ2pvNU9uajFjT1F2cWV1MmJCcXBGRVJFeHJub2x6M1Vpc2N3b0hPVGNJY21hQzl4MS1BMTJMdlVyMUtDbi1lVXEtV1RHRUp4NDlHZUVaUQ?oc=5"
         }
       ]
     },
@@ -66,38 +66,38 @@
       ]
     },
     {
-      "id": "823f3400dfa2",
-      "title": "Here’s What Science Tells Us About the Risks of Hantavirus - WSJ",
-      "published": "2026-05-18T20:46:00+00:00",
-      "summary": "Here’s What Science Tells Us About the Risks of Hantavirus&nbsp;&nbsp;WSJOsterholm on hantavirus: We’re missing ‘main point of this outbreak’&nbsp;&nbsp;cidrap.umn.eduWhere does hantavirus lurk in the U.S.? Scientists found ‘hot spots’ in surprising areas&nbsp;&nbsp;NBC NewsThe hantavirus outbreak is prompting Covid flashbacks — including the conspiracies&nbsp;&nbsp;statnews.comThe Close, Prolonged Contact Myth&nbsp;&nbsp;The Atlantic",
+      "id": "0394e3c3f096",
+      "title": "Allegheny County residents warned of increased risk for ticks and Lyme disease - TribLIVE.com",
+      "published": "2026-05-18T20:22:14+00:00",
+      "summary": "Allegheny County residents warned of increased risk for ticks and Lyme disease&nbsp;&nbsp;TribLIVE.comTick bites surge, sending many to ER. Maps show where.&nbsp;&nbsp;USA TodayAs tick bite numbers rise, these Ohio counties have the most Lyme disease cases&nbsp;&nbsp;The Columbus Dispatch‘We’re in for a bad year’: Scientists see warning signs for Lyme disease, tick-borne illnesses&nbsp;&nbsp;KTLATick bites surge nationally as experts warn of Lyme disease risk heading into summer&nbsp;&nbsp;ABC11",
       "sources": [
         {
-          "name": "WSJ",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3NYSE5lNUdGTkhZQ3RsS3Z5ajZFY3hIR1AyT2NxcEJUTVZYSHV6MW5DcGhDUHFmZlU5bGJDUklWSjJibWJONnV4d2lPYk0xZWs0Tmp6NEh5aVliRDFpcjhNajZEZ2I5RlVDTUpSOG9zbWp3YkNqRDRzeHFpU1ZxaDNBMWRjcUhBbUw0dU44VFV0VXZpbWFoa0NuTlVPNUhvZHBORQ?oc=5"
+          "name": "TribLIVE.com",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSDRzRVJ4dXVjdzBMUk1NT3ZtODFWWU9MWjJCMTFBcUQ1MnczeTRfZ0kxWlpqczdVd1ZtX215MUdzLWozckxWLUJiQUxNMk5WczNMVnRzYVQyY2NHYTE2TXcyOTVvdU9pdUxIZXhoWmMwRktGWEF2SVl2TVRwZkx2eGlpbXBtQUtBNGdvWVBUUTJ4ZmdadmNyM3otWVNqcVZveDFYZ0N0ZjdCYWQ4TlpSZ1VaSmg0UQ?oc=5"
         }
       ]
     },
     {
-      "id": "86e76ee8bfac",
-      "title": "Starship V3 is here putting SpaceX closer to Mars than it has ever been - Teslarati",
-      "published": "2026-05-18T17:22:49+00:00",
-      "summary": "Starship V3 is here putting SpaceX closer to Mars than it has ever been&nbsp;&nbsp;TeslaratiSpaceX Starship Flight 12 launch updates: 1st-ever Starship V3 test gets new launch date&nbsp;&nbsp;SpaceFor SpaceX, the stakes of this week’s Starship rocket test flight are sky-high&nbsp;&nbsp;NBC NewsThe US space enterprise is desperately waiting for Starship—will it finally deliver?&nbsp;&nbsp;Ars TechnicaIf Starship Explodes Again, It Could Derail SpaceX’s Entire IPO&nbsp;&nbsp;Yahoo Finance UK",
+      "id": "7354905d3699",
+      "title": "American Hantavirus Patient Ordered to Stay in Quarantine Despite Plans to Leave - The New York Times",
+      "published": "2026-05-18T19:05:05+00:00",
+      "summary": "American Hantavirus Patient Ordered to Stay in Quarantine Despite Plans to Leave&nbsp;&nbsp;The New York TimesOmaha Steaks, Nerf basketball and Hazmat suits: Former contagion patients describe life in quarantine amid Hantavirus&nbsp;&nbsp;NBC NewsWhat it's like for passengers isolating in hantavirus quarantine in Nebraska&nbsp;&nbsp;BBCHantavirus cruise ship outbreak: Passenger recalls final days before deaths&nbsp;&nbsp;NewsNationHantavirus ship passenger speaks about Nebraska quarantine experi",
       "sources": [
         {
-          "name": "Teslarati",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zX0tUYTRkRnBReTFIOWhMUlFGMmYtVVZJUm1XREtvZUxtQXUtT2s0M2Z4emU3SEhuUkotY21KVmRaSml2cExyNG90Z3JVTzVaYjFoSy1tNDV4aWxHSUh4Tjc1aHBKQzZL?oc=5"
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMTNUNklldDk5MTlYTkRDWFVFZG5ZZExQNURHV0Nrd0s3T0c5dmlpU0h4ZzVBWWxQOE5ja3FSUS1hVjJlQ1prTnNheEFZX3R6Vm9waU5YaURNQlZEdWhpLVlhdnpvbUpxS2Q4LWNTVm9PLUJWUHF5djI2dDUta3Y1X2dBS21oZS1oc3RHTnh3?oc=5"
         }
       ]
     },
     {
-      "id": "f96727e16d54",
-      "title": "Britain gets experimental drug from Japan to bolster hantavirus response - Yahoo",
-      "published": "2026-05-18T17:22:38+00:00",
-      "summary": "Britain gets experimental drug from Japan to bolster hantavirus response&nbsp;&nbsp;YahooSee more headlines & perspectives on Google News",
+      "id": "489c3e20e8c7",
+      "title": "'No season anymore': Viruses are running amok in Northern California - SFGATE",
+      "published": "2026-05-18T19:04:45+00:00",
+      "summary": "'No season anymore': Viruses are running amok in Northern California&nbsp;&nbsp;SFGATEParvovirus detected in wastewater throughout Northern California&nbsp;&nbsp;USA TodayHighly Contagious Virus With a Distinctive 'Slapped Cheek' Rash Is Spreading Across Northern California&nbsp;&nbsp;NTD NewsHighly Contagious Human Parvovirus Detected In Redwood City: What To Know&nbsp;&nbsp;PatchParvovirus detected in wastewater north and west of Stockton&nbsp;&nbsp;The Stockton Record",
       "sources": [
         {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNmk4b01HcUxhWlpvZkRXbkotZTZwaHJUb2xqU19keUsyaVMzenNGc0MwdVgwQ1BjVkRRV1cyQ1hhbW9jZVJsUGJ1MXI3Q0RobzdZSG5NTWNIMkZ4TlNkNVo0MGFEMkxOX25yZUE5WVFmRnlvSmRmVFhfUklSVU1rRXZya1BtcE11Q2QtcWNoUjA?oc=5"
+          "name": "SFGATE",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSjladzJUcTdkTVVMQnUydkZTQUV3eGdCdmNrdWFpeHR4MVJZQWpaSkh5a2F3SVhwaFhGczk3VDNETkNBUTdJSXRqNjRGQ3dZVjlOVk9jSmswdHg5cEF3dDc1X3RRZU03em9pQTFyOGpXRTVwcTZXSU9TSVRtMGpmbQ?oc=5"
         }
       ]
     },
@@ -105,7 +105,7 @@
       "id": "1680425ce197",
       "title": "NASA’s MAVEN Makes 1st Discovery of Atmospheric Effect at Mars - NASA Science (.gov)",
       "published": "2026-05-18T17:09:43+00:00",
-      "summary": "NASA’s MAVEN Makes 1st Discovery of Atmospheric Effect at Mars&nbsp;&nbsp;NASA Science (.gov)",
+      "summary": "NASA’s MAVEN Makes 1st Discovery of Atmospheric Effect at Mars&nbsp;&nbsp;NASA Science (.gov)Detection of Zwan-Wolf effect in the ionosphere of Mars&nbsp;&nbsp;NatureWho's afraid of Zwan-Wolf? NASA just found a 'strange phenomenon' on Mars&nbsp;&nbsp;Moneycontrol.comNASA's MAVEN finds first evidence of Zwan-Wolf effect deep in the atmosphere of Mars&nbsp;&nbsp;starlust.org",
       "sources": [
         {
           "name": "NASA Science (.gov)",
@@ -114,10 +114,46 @@
       ]
     },
     {
+      "id": "2ead6dc3d813",
+      "title": "Column | Head and neck cancers are on the rise. Here’s how to reduce your risk. - The Washington Post",
+      "published": "2026-05-18T17:00:01+00:00",
+      "summary": "Column | Head and neck cancers are on the rise. Here’s how to reduce your risk.&nbsp;&nbsp;The Washington Post",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONFhjX1NMOU5MLVhYUndSM3puYmNOeUx1WVkyQVlOdFBnaDR3UjYxM1ZXaTZ0eHZnSGRCcXlSeUR0TmFwYnREeWpCRFQ2c3U0bVlTMkJTeFdyUTctd0VTTmR1QVRHUDg0ZlhpaW9sS3JwVFlLNU8xRTVRY0VjNHhFTHByWXltOUJNVlVjRFh1c1BGbzA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ead87b3a8f54",
+      "title": "Europe and China Are Launching a New Spacecraft That Will Fly 121,000 Kilometers Above Earth to Study Solar Storms - The Daily Galaxy",
+      "published": "2026-05-18T16:45:00+00:00",
+      "summary": "Europe and China Are Launching a New Spacecraft That Will Fly 121,000 Kilometers Above Earth to Study Solar Storms&nbsp;&nbsp;The Daily GalaxyVega C rocket launches European-Chinese space weather satellite to orbit&nbsp;&nbsp;SpaceSmile lifts off on quest to reveal Earth’s invisible shield against the solar wind&nbsp;&nbsp;European Space AgencyEU-China spacecraft takes off on mission to probe solar winds&nbsp;&nbsp;YahooUK Scientists Launch Landmark Mission to Map Earth's Magnetic Shield&nbsp;&n",
+      "sources": [
+        {
+          "name": "The Daily Galaxy",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wU3FKMHFPdXY2VXJfX1dLaVFMWm4zaFhtVlRtREFaV0kwSHBqc2ZVZG5MNEdxZ0hpVXUyVk15Y3pjcE8zWTktcndxWDZLbG0xSkFudWYwT2F2b0NKeUtTYk1RaWlmSndfcVhQWS1uVW1YOVZMcWRuTktQZzA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "acab7586d86e",
+      "title": "Scientists Accidentally Found a Weird New Way to Stop Mosquitoes From Mating - VICE",
+      "published": "2026-05-18T16:38:30+00:00",
+      "summary": "Scientists Accidentally Found a Weird New Way to Stop Mosquitoes From Mating&nbsp;&nbsp;VICEGarlic May Stop Mosquitoes and Fruit Flies From Mating, and Could Inspire New Pest Controls&nbsp;&nbsp;Discover MagazineFrom traditional wisdom to scientific evidence: garlic repels insects and disrupts their reproductive behaviour&nbsp;&nbsp;yourweather.co.ukGarlic: Culinary Staple, Birth Control for Flies&nbsp;&nbsp;Nautilus | ScienceGarlic Is a Secret Weapon Against Mosquitoes, Study Finds&nbsp;&nbsp;G",
+      "sources": [
+        {
+          "name": "VICE",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYlN1Zzk4NGc4cHpnWWxEX3Z3cjBEZDdnMUR3cXAwbjBUQ0doWi1hTWQ3TmZ6VHNOczE1dlI0czRQR3RlRVdkMmF4WHRfSldfUXZ5YUxvWFBRNlYtUG1YRldVZzRYdzJxelM1UFYzenZPNkhJT1VYLThOYVpXXzA4emdOQk56R2ZyRE01OFlkZFF5OWh3Q1A3Yzh4UTd4Y2pXamh3MWNwY3VqWmFpSHc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e6dd03838565",
       "title": "Parkinson’s Drug Restores Memories in Alzheimer’s - Neuroscience News",
       "published": "2026-05-18T16:25:43+00:00",
-      "summary": "Parkinson’s Drug Restores Memories in Alzheimer’s&nbsp;&nbsp;Neuroscience NewsDopamine deficiency found to drive memory impairment in Alzheimer's disease&nbsp;&nbsp;EurekAlert!",
+      "summary": "Parkinson’s Drug Restores Memories in Alzheimer’s&nbsp;&nbsp;Neuroscience NewsNew study identifies dopamine's role in reversing Alzheimer's&nbsp;&nbsp;News-Medical",
       "sources": [
         {
           "name": "Neuroscience News",
@@ -165,7 +201,7 @@
       "id": "45eb0203a932",
       "title": "NASA Researchers Have Discovered Something Unexpected in These Haunting New Maps of Earth’s Artificial Light - The Debrief",
       "published": "2026-05-18T13:45:40+00:00",
-      "summary": "NASA Researchers Have Discovered Something Unexpected in These Haunting New Maps of Earth’s Artificial Light&nbsp;&nbsp;The DebriefPicturing Earth in a New Light&nbsp;&nbsp;NASA Science (.gov)Less of the night sky is visible than ever before&nbsp;&nbsp;Big ThinkNASA maps show Earth's brightest and darkest regions at night&nbsp;&nbsp;CBS NewsNASA Satellites Uncover Unprecedented Shifts in Earth’s Nighttime Lights&nbsp;&nbsp;Indian Defence Review",
+      "summary": "NASA Researchers Have Discovered Something Unexpected in These Haunting New Maps of Earth’s Artificial Light&nbsp;&nbsp;The DebriefLess of the night sky is visible than ever before&nbsp;&nbsp;Big ThinkPicturing Earth in a New Light&nbsp;&nbsp;NASA Science (.gov)NASA maps show Earth's brightest and darkest regions at night&nbsp;&nbsp;CBS NewsNight light patterns transformations: NASA Space Maps Track Shifts in Development and Human Activity Globally&nbsp;&nbsp;صوت الإمارات",
       "sources": [
         {
           "name": "The Debrief",
@@ -189,7 +225,7 @@
       "id": "6e8ff19d5a7f",
       "title": "A climate-chaos triple-whammy has pushed Antarctica to the edge - Oceanographic Magazine",
       "published": "2026-05-18T13:42:46+00:00",
-      "summary": "A climate-chaos triple-whammy has pushed Antarctica to the edge&nbsp;&nbsp;Oceanographic MagazineAntarctica Is Hiding a Terrifying Secret. It Could Put the World at Risk.&nbsp;&nbsp;YahooAntarctica’s sudden sea ice loss is one of the most extreme and confusing events in the modern climate record. Scientists now know why it's happening.&nbsp;&nbsp;Live ScienceAntarctic Sea Ice Enters 'Shock' Decline as Ocean Heat Breaks Through&nbsp;&nbsp;ScienceAlertScientists found hidden warm-water channels un",
+      "summary": "A climate-chaos triple-whammy has pushed Antarctica to the edge&nbsp;&nbsp;Oceanographic MagazineAntarctic Sea Ice Enters 'Shock' Decline as Ocean Heat Breaks Through&nbsp;&nbsp;ScienceAlertAntarctica Is Hiding a Terrifying Secret. It Could Put the World at Risk.&nbsp;&nbsp;YahooScientists found hidden warm-water channels under one of Antarctica’s biggest glaciers, and it changed what they feared about melting ice&nbsp;&nbsp;The Times of IndiaScientists identify hidden accelerant in Antarctic ic",
       "sources": [
         {
           "name": "Oceanographic Magazine",
@@ -198,10 +234,22 @@
       ]
     },
     {
+      "id": "3d173692d164",
+      "title": "Hantavirus-hit liner reaches Rotterdam, crew being quarantined and ship disinfected - Yahoo News UK",
+      "published": "2026-05-18T13:13:17+00:00",
+      "summary": "Hantavirus-hit liner reaches Rotterdam, crew being quarantined and ship disinfected&nbsp;&nbsp;Yahoo News UKHow a Nature Cruise Turned Into a Nightmare&nbsp;&nbsp;The New York TimesCruise ship hit by hantavirus outbreak docks in Rotterdam&nbsp;&nbsp;BBCHantavirus outbreak reduced to 10 cases as ship passengers return to home countries&nbsp;&nbsp;cidrap.umn.eduFollow-up message by the WHO Director-General to the people of Tenerife regarding the hantavirus response&nbsp;&nbsp;World Health Organiza",
+      "sources": [
+        {
+          "name": "Yahoo News UK",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0aDRQbTZWUzk0TDNXWDRydWxzaHo5T3J3TXFTVVFrWlFiX0dOYUdEVmlFM1ByQWZ3dHY0LWdfQnVfY0J2NW5vVWtDcFZ3M3JkcUJSRFpCQmxLZDNtUlhiUWgzek1QS2Q0MlE5a3p4Q3NockdOM0lScXFzbw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ca8d73bfa63d",
       "title": "These are the U.S. states monitoring for hantavirus cases linked to cruise ship at center of outbreak - Yahoo",
       "published": "2026-05-18T12:56:59+00:00",
-      "summary": "These are the U.S. states monitoring for hantavirus cases linked to cruise ship at center of outbreak&nbsp;&nbsp;Yahoo16 More People in the U.S. Are Being Monitored for Hantavirus, C.D.C. Says&nbsp;&nbsp;The New York TimesCDC Shares Update on Hantavirus Outbreak in the U.S. After Latest Round of Testing. Here’s What to Know&nbsp;&nbsp;People.comCDC tightens home monitoring guidance for high-risk hantavirus contacts&nbsp;&nbsp;The Washington PostFourth King County resident linked to cruise ship h",
+      "summary": "These are the U.S. states monitoring for hantavirus cases linked to cruise ship at center of outbreak&nbsp;&nbsp;Yahoo16 More People in the U.S. Are Being Monitored for Hantavirus, C.D.C. Says&nbsp;&nbsp;The New York TimesFourth King County resident linked to cruise ship hantavirus outbreak&nbsp;&nbsp;The Seattle TimesCDC tightens home monitoring guidance for high-risk hantavirus contacts&nbsp;&nbsp;The Washington Post41 people being monitored for hantavirus exposure. See map of states.&nbsp;&nb",
       "sources": [
         {
           "name": "Yahoo",
@@ -237,7 +285,7 @@
       "id": "21b9f9795039",
       "title": "Where You Live May Affect How Rapidly You Age, Sweeping Study Finds - ScienceAlert",
       "published": "2026-05-18T11:02:21+00:00",
-      "summary": "Where You Live May Affect How Rapidly You Age, Sweeping Study Finds&nbsp;&nbsp;ScienceAlertWorld first DNA study: where you live may change how fast you age&nbsp;&nbsp;The University of ManchesterLocation, Location, Location - Geography Has a Major Impact on Biology&nbsp;&nbsp;LabrootsStanford scientists map the molecular diversity of different global populations&nbsp;&nbsp;news-medical.netMoving between locations can drastically change aging&nbsp;&nbsp;newsreel.com.au",
+      "summary": "Where You Live May Affect How Rapidly You Age, Sweeping Study Finds&nbsp;&nbsp;ScienceAlertStanford Medicine-led research links human molecular, microbial diversity with geography, ethnicity&nbsp;&nbsp;Stanford MedicineWorld first DNA study: where you live may change how fast you age&nbsp;&nbsp;The University of ManchesterMoving between locations can drastically change aging&nbsp;&nbsp;newsreel.com.auLocation, Location, Location - Geography Has a Major Impact on Biology&nbsp;&nbsp;Labroots",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -258,22 +306,10 @@
       ]
     },
     {
-      "id": "39f993b7eb5f",
-      "title": "Polygenic risk scores are not genetic predispositions - Nature",
-      "published": "2026-05-18T10:51:12+00:00",
-      "summary": "Polygenic risk scores are not genetic predispositions&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nTEJxNlhDLWo2V2h5TlppSUtWVGx6c0lmVE0tWERjdmV0d25yYXNGX1ptMURrYjNZNERlbFR1TEtQTWw0X3NZeHdzLWxaRmQwVk5zNHp3ODhEV2xWZEE0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "cac44ddad2d4",
       "title": "Report: World Isn’t Any More Prepared For A Pandemic Than It Was Pre-COVID - Forbes",
       "published": "2026-05-18T10:00:00+00:00",
-      "summary": "Report: World Isn’t Any More Prepared For A Pandemic Than It Was Pre-COVID&nbsp;&nbsp;ForbesInfectious diseases such as hantavirus and Ebola becoming more frequent and damaging, say experts&nbsp;&nbsp;The GuardianThe world is more at risk of a pandemic now than before COVID, experts say. This is why&nbsp;&nbsp;Scientific AmericanGlobal Preparedness Monitoring Board (GPMB) Report 2026: A World on the Edge - Priorities for a Pandemic‑Resilient Future&nbsp;&nbsp;ReliefWebWHO warns that humanity is ",
+      "summary": "Report: World Isn’t Any More Prepared For A Pandemic Than It Was Pre-COVID&nbsp;&nbsp;ForbesInfectious diseases such as hantavirus and Ebola becoming more frequent and damaging, say experts&nbsp;&nbsp;The GuardianThe world is more at risk of a pandemic now than before COVID, experts say. This is why&nbsp;&nbsp;Scientific AmericanAt 'crucial' moment for pandemic preparedness, experts say world isn't ready&nbsp;&nbsp;CBCWhat Hantavirus Teaches Us About the State of Outbreak Response&nbsp;&nbsp;KQE",
       "sources": [
         {
           "name": "Forbes",
@@ -285,7 +321,7 @@
       "id": "1e6af0a8543c",
       "title": "The four astronauts who flew farther from Earth than any humans in history have just come back. The advice they're giving the rest of us has almost nothing to do with space. - Space Daily",
       "published": "2026-05-18T09:01:10+00:00",
-      "summary": "The four astronauts who flew farther from Earth than any humans in history have just come back. The advice they're giving the rest of us has almost nothing to do with space.&nbsp;&nbsp;Space DailyLessons from an astronaut: Artemis II crew shares advice on risk, work and friendship&nbsp;&nbsp;Global NewsMoon joy, copy&nbsp;&nbsp;Politico'I heard gasps' and 'oh my God': Artemis II astronauts reveal inside story of their mind-bending solar eclipse&nbsp;&nbsp;Live Science‘Do what scares you’: N.C.’s",
+      "summary": "The four astronauts who flew farther from Earth than any humans in history have just come back. The advice they're giving the rest of us has almost nothing to do with space.&nbsp;&nbsp;Space DailyLessons from an astronaut: Artemis II crew shares advice on risk, work and friendship&nbsp;&nbsp;Global NewsMoon joy, copy&nbsp;&nbsp;Politico'I heard gasps' and 'oh my God': Artemis II astronauts reveal inside story of their mind-bending solar eclipse&nbsp;&nbsp;Live ScienceArtemis ll - “Boldly went wh",
       "sources": [
         {
           "name": "Space Daily",
@@ -297,7 +333,7 @@
       "id": "7de0448f42dc",
       "title": "Are Vagal Nerve Stimulators a Scam? - The New York Times",
       "published": "2026-05-18T09:00:22+00:00",
-      "summary": "Are Vagal Nerve Stimulators a Scam?&nbsp;&nbsp;The New York TimesPulsetto Vagus Nerve Stimulator 2026 Claims, Features, and Feedback Under Investigation&nbsp;&nbsp;GlobeNewswireIs Vagus Nerve Stimulation the New Cold Plunge?&nbsp;&nbsp;the-ethos.coThis 30-Second Vagus Nerve Exercise Erases Menopausal Brain Fog Fast&nbsp;&nbsp;Woman's WorldI used a vagus nerve stimulation device for three months – here's how it impacted my wellbeing&nbsp;&nbsp;Harper's BAZAAR",
+      "summary": "Are Vagal Nerve Stimulators a Scam?&nbsp;&nbsp;The New York TimesThis 30-Second Vagus Nerve Exercise Erases Menopausal Brain Fog Fast&nbsp;&nbsp;Woman's WorldIs Vagus Nerve Stimulation the New Cold Plunge?&nbsp;&nbsp;the-ethos.coI used a vagus nerve stimulation device for three months – here's how it impacted my wellbeing&nbsp;&nbsp;Harper's BAZAARPulsetto Vagus Nerve Stimulator 2026 Claims, Features, and Feedback Under Investigation&nbsp;&nbsp;The Manila Times",
       "sources": [
         {
           "name": "The New York Times",
@@ -318,10 +354,22 @@
       ]
     },
     {
+      "id": "f526abe75285",
+      "title": "New Brain “Bypass” Technology Could Transform Treatment for Neurological Disorders - SciTechDaily",
+      "published": "2026-05-18T08:29:27+00:00",
+      "summary": "New Brain “Bypass” Technology Could Transform Treatment for Neurological Disorders&nbsp;&nbsp;SciTechDailyLong-term editing of brain circuits using an engineered electrical synapse&nbsp;&nbsp;NatureStudy unveils precise way to rewire brain circuits to boost resilience to stress&nbsp;&nbsp;Duke School of MedicineScientists Engineered An Electrical Link That Can Tune Brain Circuits, Change Behavior&nbsp;&nbsp;StudyFindsNeural Hotwire: How Biological Synapses Bypass Broken Brain Links&nbsp;&nbsp;Ne",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNTNQV1VaQlMyVFZCTENGWTJGRURid3B3YUdSN3I0WUpGYm9uaGRKRHJ1bld2TFNwSjE3cVdsRml2LUVJTmljUmRBVzFBZFBZN2hRcVZfN3ZjdFZEamNNMmliU1ZtZWVMOWhRbXQ3YnFWd0NidV93OVljSWswMEtzYV9ZVXphMXp5ME96QVBvZHpESnY0Wlhiank4SjV4cVRmdVFyZFYycFdkdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9197ab02684e",
       "title": "Scientists think they’ve cracked the mystery of human right-handedness - ScienceDaily",
       "published": "2026-05-18T08:16:54+00:00",
-      "summary": "Scientists think they’ve cracked the mystery of human right-handedness&nbsp;&nbsp;ScienceDailyWhy 90 percent of humans are right-handed&nbsp;&nbsp;Popular ScienceHere’s why the majority of people are right-handed, according to study&nbsp;&nbsp;New York PostAround 90 Percent Of Humans Are Right-Handed – And Now We Might Finally Know Why&nbsp;&nbsp;IFLScienceWhy are most humans right-handed? Scientists may have found the answer&nbsp;&nbsp;Earth.com",
+      "summary": "Scientists think they’ve cracked the mystery of human right-handedness&nbsp;&nbsp;ScienceDailyScientists May Have Finally Solved Why Most Humans Are Right-Handed&nbsp;&nbsp;ZME ScienceHere’s why the majority of people are right-handed, according to study&nbsp;&nbsp;New York PostWhy 90 percent of humans are right-handed&nbsp;&nbsp;Popular ScienceAround 90 Percent Of Humans Are Right-Handed – And Now We Might Finally Know Why&nbsp;&nbsp;IFLScience",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -342,6 +390,18 @@
       ]
     },
     {
+      "id": "f19b205ca040",
+      "title": "Argentina’s icy outpost at the end of the world fears the hantavirus will chill tourism - The Seattle Times",
+      "published": "2026-05-18T07:06:12+00:00",
+      "summary": "Argentina’s icy outpost at the end of the world fears the hantavirus will chill tourism&nbsp;&nbsp;The Seattle TimesSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "The Seattle Times",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRmt6VDJPX21ucHdOdFpvSG5TcDBsQlE1QWI1WGxLTFJFLW83d3c1YVExUklBR3pvdi1lbUNKX0xYM1U3dzRkSm5LWFNsWkJ6R3p3WDY2LThMd1VDWVkzMDZSaTZZWjk5ZV9Ba2hEM3RERVNJTjNpcldFbVFRa2pVazRTcGtNMldQOUpPMG5sZVE2dHlxY2FXdHV1YnVHS0lDbWdNUDJEQ2V6VUxkcVphSENlUDl6V2ZJZmxPdkU5Y2VYcGpNUmlWUndyaDJIcGtF?oc=5"
+        }
+      ]
+    },
+    {
       "id": "cf234cc3e789",
       "title": "Stephen Hawking spent the final years of his life convinced humanity had to become a multi-planet species before this century was out — and almost every risk he warned about has accelerated since he died - Space Daily",
       "published": "2026-05-18T04:09:28+00:00",
@@ -350,6 +410,18 @@
         {
           "name": "Space Daily",
           "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQelZ0NXhJODBLUWZSZnlUekhZVURoSEY4c3FGX1FxQjJ2NllGTk1OTnRGODVRblp5RkJLSC1lcWxHdEo3cU1PVnpDWnFwQWctWkh5WTNwZE5qQkNNVlBpdzc5dUt4QlZvUDEzRVhqYmlwT3c0SzllU2RNaW1KMGNBMFJhLWtDTWJ3UHh1RW5reERRSUxEZGZMT1J4aWNaMWdzdzdoR1RmM3lRNk9JTFI1akRMcDhkeUc1OUJUVzJYdFNic2FDek8wZEVSZUJKTkJtR1lHZ2JVM2tzYUJ5M2J6dEZGYjEyMzZzX3YwaTRjdjQxQ0dWN214TWp3SlRzTUplR1U3SFhvblh0UkcxOUp3Q0xPOU9iYlprQ253SW14Vko2Z2tjRFplcDRVYy1tZGVxQ25wNEdkNnhuUXhG?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d9f1f204b214",
+      "title": "Health Officials Confirm First Case of Hantavirus in North America Stemming from Infected Cruise Ship - AOL.com",
+      "published": "2026-05-18T02:27:48+00:00",
+      "summary": "Health Officials Confirm First Case of Hantavirus in North America Stemming from Infected Cruise Ship&nbsp;&nbsp;AOL.comSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcDBxRWtVSHZwQ25ZT0U0bmpjVWl2bDhVdEp3NU5Xb3VhMU5VWjBadUdRYlNqdmpCSkxZUmtOQ2pWX1VIWWpBTXhjdlZJMUhwZEVoM1YwX0Jtc0dGd3RjQkNSYVdwcE8yWExjWEdhMks5Q1p0U0Nqc1BpeUY1cVJWS2Ntc3ZsUQ?oc=5"
         }
       ]
     },
@@ -405,7 +477,7 @@
       "id": "7c8c905d2b71",
       "title": "Polymarket Spreads Sensationalist Garbage About Hantavirus Case in U.S. - Gizmodo",
       "published": "2026-05-17T19:33:51+00:00",
-      "summary": "Polymarket Spreads Sensationalist Garbage About Hantavirus Case in U.S.&nbsp;&nbsp;GizmodoHantavirus case suspected in Ontario County&nbsp;&nbsp;13wham.comPossible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship&nbsp;&nbsp;People.comPossible hantavirus case under investigation in upstate New York; no connection to deadly cruise ship outbreak&nbsp;&nbsp;Fox NewsNo hantavirus detected in Winnebago County case&nbsp;&nbsp;WIFR",
+      "summary": "Polymarket Spreads Sensationalist Garbage About Hantavirus Case in U.S.&nbsp;&nbsp;GizmodoSuspected hantavirus case in Ontario County involves Geneva HS student, district says&nbsp;&nbsp;13wham.comPossible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship&nbsp;&nbsp;People.comPossible hantavirus case under investigation in upstate New York; no connection to deadly cruise ship outbreak&nbsp;&nbsp;Fox NewsIs hantavirus in Illinois in 2026? IDPH investigating potential case in Winnebag",
       "sources": [
         {
           "name": "Gizmodo",
@@ -429,7 +501,7 @@
       "id": "3777bd7432db",
       "title": "James Webb Spots Strange Structure at Core of Distant Galaxy - Futurism",
       "published": "2026-05-17T18:15:00+00:00",
-      "summary": "James Webb Spots Strange Structure at Core of Distant Galaxy&nbsp;&nbsp;FuturismNASA's Webb Telescope Captures Dazzling New Photo of Spiral Galaxy 45 Million Light-Years Away&nbsp;&nbsp;People.comJWST Reveals a Hidden Structure in The Heart of The Squid Galaxy&nbsp;&nbsp;ScienceAlertNASA image reveals ‘beacon of light’ galaxy 45 million light‐years away&nbsp;&nbsp;Daily Express USSpiral galaxy’s brilliant heart shines bright in a new picture from NASA’s Webb telescope&nbsp;&nbsp;WXXV News 25",
+      "summary": "James Webb Spots Strange Structure at Core of Distant Galaxy&nbsp;&nbsp;FuturismNASA's Webb Telescope Captures Dazzling New Photo of Spiral Galaxy 45 Million Light-Years Away&nbsp;&nbsp;People.comJWST Reveals a Hidden Structure in The Heart of The Squid Galaxy&nbsp;&nbsp;ScienceAlertSpiral galaxy’s brilliant heart shines bright in a new picture from NASA’s Webb telescope&nbsp;&nbsp;WXXV News 25JWST reveals hidden central bar in Squid Galaxy NGC 1068&nbsp;&nbsp;NewsBytes",
       "sources": [
         {
           "name": "Futurism",
@@ -438,26 +510,14 @@
       ]
     },
     {
-      "id": "5b73f23c10b3",
-      "title": "Canadian national health agency confirms 1 positive hantavirus test - AP News",
-      "published": "2026-05-17T18:13:00+00:00",
-      "summary": "Canadian national health agency confirms 1 positive hantavirus test&nbsp;&nbsp;AP NewsCanadian cruise passenger gets a presumptive positive hantavirus test result after ship outbreak&nbsp;&nbsp;CNNCanada confirms hantavirus case linked to cruise ship outbreak that has killed three passengers&nbsp;&nbsp;Fox NewsCanada confirms first hantavirus case in isolation in British Columbia&nbsp;&nbsp;The GuardianHealth Officials Confirm First Case of Hantavirus in North America Stemming from Infected Crui",
+      "id": "0b08fc467c56",
+      "title": "Is the Weight-Loss Drug Revolution Causing a Frailty Epidemic? - WSJ",
+      "published": "2026-05-17T16:00:00+00:00",
+      "summary": "Is the Weight-Loss Drug Revolution Causing a Frailty Epidemic?&nbsp;&nbsp;WSJThird of weight shed after jabs ‘is lost from muscle and bones’&nbsp;&nbsp;The TimesObesity Drugs and Surgery Linked to Greater Lean Mass Loss Than Diet and Exercise, shows review&nbsp;&nbsp;Medical DialoguesMuscle mass is preserved after obesity drug treatment, study suggests&nbsp;&nbsp;Medical XpressGLP-1 Drugs’ Muscle Effects Similar to Ordinary Weight Loss&nbsp;&nbsp;Lifespan Research Institute",
       "sources": [
         {
-          "name": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTUFKeVhLSnBUclZZQ1JmSzYweUZiUEhsdW1oLXVuOXl1OWFuekYxcW8yUnVVV2JCRDYzZUFTN3RuQUVzU0tjUEduR1BRUFNYdU80UHJMOFJkNndEOFE4MXByaEQtYXdMMlo2dlJuQ1lWeGZhQ0NVZlVXMTVBWlpXdjdSLV9JYVRRRnoyWWhwYnNqSDJhc1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7a55602ae0a9",
-      "title": "Tick bites surge, sending many to ER - Bangor Daily News",
-      "published": "2026-05-17T16:16:11+00:00",
-      "summary": "Tick bites surge, sending many to ER&nbsp;&nbsp;Bangor Daily NewsTick bites surge, sending many to ER. Maps show where.&nbsp;&nbsp;USA TodayAs tick bite numbers rise, these Ohio counties have the most Lyme disease cases&nbsp;&nbsp;The Columbus Dispatch‘We’re in for a bad year’: Scientists see warning signs for Lyme disease, tick-borne illnesses&nbsp;&nbsp;The HillAllegheny County residents warned of increased risk for ticks and Lyme disease&nbsp;&nbsp;TribLIVE.com",
-      "sources": [
-        {
-          "name": "Bangor Daily News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeEQtbG5DX204ZmlzcE9hNU5PVTNac3NtYVlOalBGR2F0SzZLSTk1cXpmcU9DVzBzbFptMmREZmpyMmxUR24xVDFkMlNvZkJYLUJkblB3bjdmSkVBZC1sbUxEYU83U3dIT3VkblR5TFpySTNzbm5Tci1ZRkQtOEJ3NUlqcGJ2d2xDdXVuQ1NCUFVuYkgxQ3cwbmx4UTNOajJMT2JZYlN3?oc=5"
+          "name": "WSJ",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaGwzXzJvYUxCbTZtVXp6QzhaU0ZqSDRKdFhpM0JsSGgtM1JMcWFIa3BJVGx0NTVMbDNHUGNVbmRld2NYSmQ4UENmSnNVZ0lRb1FyV2dPbTJaNTNTYXQ1TVhqVm9wT3plbFZYSlhaMFpQZkotdUZJRFVUY0o4MUoycw?oc=5"
         }
       ]
     },
@@ -465,7 +525,7 @@
       "id": "cfe627852554",
       "title": "SpaceX Dragon capsule delivers science and supplies to space station - Space",
       "published": "2026-05-17T13:53:03+00:00",
-      "summary": "SpaceX Dragon capsule delivers science and supplies to space station&nbsp;&nbsp;SpaceCrew Unloads Dragon and Begins New Space Experiments&nbsp;&nbsp;NASA (.gov)NASA, SpaceX launch Dragon mission with 6,500 pounds of science and supplies to the space station&nbsp;&nbsp;Spaceflight NowA cargo Dragon just flew its sixth mission to the ISS — and the quiet milestone reveals how SpaceX has rewritten the economics of station resupply without anyone making a fuss about it&nbsp;&nbsp;Space DailySpaceX la",
+      "summary": "SpaceX Dragon capsule delivers science and supplies to space station&nbsp;&nbsp;SpaceCrew Unloads Dragon and Begins New Space Experiments&nbsp;&nbsp;NASA (.gov)NASA, SpaceX launch Dragon mission with 6,500 pounds of science and supplies to the space station&nbsp;&nbsp;Spaceflight NowSpaceX launches Dragon cargo ship on unpiloted flight to space station&nbsp;&nbsp;CBS NewsA cargo Dragon just flew its sixth mission to the ISS — and the quiet milestone reveals how SpaceX has rewritten the economics",
       "sources": [
         {
           "name": "Space",
@@ -477,23 +537,11 @@
       "id": "e957bd6456c2",
       "title": "The healthiest workout may be shorter — and harder — than people think - San Francisco Chronicle",
       "published": "2026-05-17T11:04:54+00:00",
-      "summary": "The healthiest workout may be shorter — and harder — than people think&nbsp;&nbsp;San Francisco ChronicleStudy Says Two Minute Sweat Bursts Could Save San Franciscans' Health&nbsp;&nbsp;HoodlineScientists say just 30 minutes of exercise a week could transform your health&nbsp;&nbsp;ScienceDailyJust 5 Minutes Of Exercise A Day Could Help You Live Longer, Study Says&nbsp;&nbsp;Times NowNew Study Shows Just 1-2 Minutes of Exercise Can Improve Health&nbsp;&nbsp;Men's Fitness",
+      "summary": "The healthiest workout may be shorter — and harder — than people think&nbsp;&nbsp;San Francisco ChronicleFive Minutes of Daily Vigorous Activity Drastically Lowers Mortality&nbsp;&nbsp;streamlinefeed.co.keStudy Says Two Minute Sweat Bursts Could Save San Franciscans' Health&nbsp;&nbsp;HoodlineHow a few minutes of intense exercise a day can save lives&nbsp;&nbsp;The World Economic ForumScientists say just 30 minutes of exercise a week could transform your health&nbsp;&nbsp;ScienceDaily",
       "sources": [
         {
           "name": "San Francisco Chronicle",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONUlPT1puRV9PQXB3cm9IVkNUNUhlTnFuRnA5dlRHTEMtdEdtbzl3T1UxUzRDU3hkX0w4d0hDTEtqMHNoSHpFajdtOEtlWmFydGk4UExGa3B3V3ZTOUh2dkpkazMtbzZHd3NQeFp3UHA2WG1lV2drT3hYMkMyTmpWcHRqQU9zU2VuYVFWNThNVmh2UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1a9ba90d168b",
-      "title": "Eight easy hobbies that slow brain ageing - The i Paper",
-      "published": "2026-05-17T09:00:00+00:00",
-      "summary": "Eight easy hobbies that slow brain ageing&nbsp;&nbsp;The i PaperFrequent museum visits tied to reduced cellular aging, research finds&nbsp;&nbsp;Fox NewsArts engagement benefits young and old | Letters&nbsp;&nbsp;The GuardianEngaging with arts linked to slower pace of ageing | UCL News - UCL&nbsp;&nbsp;UCL | University College LondonEnjoying the arts ‘has same effect on ageing as a weekly workout’&nbsp;&nbsp;The Times",
-      "sources": [
-        {
-          "name": "The i Paper",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVEpDLWk2d3hKU2NQano0Z05hbDhMelBiZFZyVEhBV3g2Y1BHU3M2RXM3Mm40MjZEbVZQNU1YUTZUSlFjeng0OV8zNVpYemdhaVlZX1NCYmpfSl9QQ2lrRGt2SnFjMW5FQzVDMVdaVGVrRDhxbC1fVnpNUDNDdzdoZFdjM1ZwdjkzTjZIX01n?oc=5"
         }
       ]
     }

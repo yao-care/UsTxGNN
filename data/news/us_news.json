@@ -1,15 +1,51 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-23T03:33:56.422727+00:00",
-  "total_fetched": 109,
-  "unique_count": 109,
+  "fetched_at": "2026-05-23T08:23:16.812889+00:00",
+  "total_fetched": 108,
+  "unique_count": 108,
   "health_related_count": 64,
   "news": [
+    {
+      "id": "d79c282294f1",
+      "title": "U.S. bans green-card holders from returning from Ebola-stricken countries - The Washington Post",
+      "published": "2026-05-23T06:29:18+00:00",
+      "summary": "U.S. bans green-card holders from returning from Ebola-stricken countries&nbsp;&nbsp;The Washington PostAtlanta, Houston join list of airports that can receive passengers from three countries amid Ebola outbreak&nbsp;&nbsp;CNNIAH is one of three airports where certain passengers will receive Ebola health screenings, CBP says&nbsp;&nbsp;ABC13 HoustonU.S. to Block Entry to More Noncitizens Who May Have Been Exposed to Ebola&nbsp;&nbsp;The New York TimesDulles Airport becomes focus of US efforts to",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY1NUQjMzYS0wWmZtRW00S1Z1eUtWZXlHV3RwY0xCTHZKZGtvd3hsSFlQaHFDNmp2aUNKOU9RZUk0cU9DOFU2cG9BdG1JeUVSQWVpWUwwWHZzUG9IUnhEWWQxTTl3cklDUEVyaTU5dFFuOTlzUlUwQ2ctazJiYTZFa19qektCQU8xcElDY1RuSU1vTTB0ZF9LcGFPMDhmMF90T0wwcU5CdDRmUlV6dm1CSw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d6b485cfeb63",
+      "title": "Researchers simulated 30 million routes to the Moon and found a hidden detour through L1 that saves fuel and keeps spacecraft talking to Earth the whole way - Space Daily",
+      "published": "2026-05-23T02:34:36+00:00",
+      "summary": "Researchers simulated 30 million routes to the Moon and found a hidden detour through L1 that saves fuel and keeps spacecraft talking to Earth the whole way&nbsp;&nbsp;Space DailyScientists find a hidden route to the moon that saves fuel&nbsp;&nbsp;SpaceAstronauts Have Been Taking Short Routes To The Moon, But There’s A More Efficient Way&nbsp;&nbsp;IFLScienceMathematical method calculates most efficient Earth-moon route yet&nbsp;&nbsp;Phys.orgScientists Map Most Cost-Effective Route to the Moon",
+      "sources": [
+        {
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOUUdFbm96QXhBenRPNjZGSlFLOGprZ0JuUGRsaUV6eU5yZUpHNWNoUVNmaE94am94a1NNYnU1a0pfd3Ztd0E4TzBqdFk5LVNtaE1iUGZJajRwVmM5NnBTSlBqcU9RQXBadG1rU0p4VkJ5Q3Zrd3h0NEtzdGxfNk1UVjB4SHpTcTBndzVaV2RDbzFwLVBwSUNoUk9wT1hyLUNReTU1MGgxdUFsNzBabXptby1yTXk2QWU5RU1LaHMwYXZkajdDb19MMU1wTDhtNDR3VWJtUENJSnZLM2VFYUhFOVlDSFFzeGJQQmQzR01DVXF1bWRYYV9UODFSQ1lBakc3SVJTVEpjb0E1QWdUY0RQNw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "663e04e5b798",
+      "title": "The Cassini spacecraft was deliberately flown into Saturn in 2017 because NASA refused to risk contaminating Enceladus, and in its final 90 seconds its thrusters fought the atmosphere so it could keep sending data home - Space Daily",
+      "published": "2026-05-23T01:24:50+00:00",
+      "summary": "The Cassini spacecraft was deliberately flown into Saturn in 2017 because NASA refused to risk contaminating Enceladus, and in its final 90 seconds its thrusters fought the atmosphere so it could keep sending data home&nbsp;&nbsp;Space Daily",
+      "sources": [
+        {
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQOVQycDhYRTNxVjh1NUhGeVNqQll5eGVWeURNTXZEdjRjaGx4TzZkYUtnWF9CajkyLWlFZDhGVmlRTkk5NjB4QzVnSnVldS16b282TWxXeURnc0NpLXJ6TVhvQ1NwM0hGWE1Majc4TThHY3pFYW5CQUhmRXZ6VlMydFVTaHgtM21ScldPTktiNm4wanpONGNVR05BbUJBeXR6aE9tV1pUWl9VWFBoa2QtS054T2hoTUVHdGtWV0VQWDQzcDdUbF92aGg5VUtLUDN3aElfNjN1TERqbDRRdmFpVFlpVGlnNEktcmZ2M3YzdGdYNHZOUTl6Zzd0NDZ5VlluejM3bFhSdml1ajJ5Q2NwUWlpaWNxUE05RWlDMEVQLS00SW84Nnp5VURvOC1xRVpjZnprTmgtek1YZlg2RElkb1FNdTZ6NVU?oc=5"
+        }
+      ]
+    },
     {
       "id": "0b7af253a922",
       "title": "‘T. rex of the sea’: D-FW researchers identify new ancient marine species - Dallas News",
       "published": "2026-05-22T23:30:51+00:00",
-      "summary": "‘T. rex of the sea’: D-FW researchers identify new ancient marine species&nbsp;&nbsp;Dallas NewsAncient seas get a new T. rex as massive mosasaur emerges from Texas fossils&nbsp;&nbsp;Phys.orgNorth Texas fossils reveal giant predator dubbed ‘T. rex of the sea'&nbsp;&nbsp;NBC 5 Dallas-Fort WorthThe newly-identified 'T. rex of the ancient sea' unveiled at Perot Museum&nbsp;&nbsp;WFAA‘T. rex’ Mosasaur Ruled the Seas 80 Million Years Ago&nbsp;&nbsp;Sci.News",
+      "summary": "‘T. rex of the sea’: D-FW researchers identify new ancient marine species&nbsp;&nbsp;Dallas NewsAncient seas get a new T. rex as massive mosasaur emerges from Texas fossils&nbsp;&nbsp;Phys.orgThere's a new T. rex from the dinosaur age — and it ruled the seas with a skull-crushing bite&nbsp;&nbsp;Live ScienceFossil Kept in a Museum For Decades Turns Out to Be a Fearsome New Predator&nbsp;&nbsp;ScienceAlert‘T. rex’ Mosasaur Ruled the Seas 80 Million Years Ago&nbsp;&nbsp;Sci.News",
       "sources": [
         {
           "name": "Dallas News",
@@ -21,11 +57,35 @@
       "id": "1b4deaa5457f",
       "title": "Ebola outbreak now third largest recorded and \"spreading rapidly\" - Ars Technica",
       "published": "2026-05-22T22:24:03+00:00",
-      "summary": "Ebola outbreak now third largest recorded and \"spreading rapidly\"&nbsp;&nbsp;Ars TechnicaEbola Outbreak Is Now Third Largest in History. Here’s What to Know.&nbsp;&nbsp;WSJCongo curtails funeral wakes in Ebola outbreak as WHO upgrades risk assessment&nbsp;&nbsp;AP NewsUS funding cuts have hampered response to the deadly Ebola crisis, aid workers say&nbsp;&nbsp;CNNOpinion | Ebola Is a Terrible Disease. I Saw It Firsthand.&nbsp;&nbsp;The New York Times",
+      "summary": "Ebola outbreak now third largest recorded and \"spreading rapidly\"&nbsp;&nbsp;Ars TechnicaEbola Outbreak Is Now Third Largest in History. Here’s What to Know.&nbsp;&nbsp;WSJDRC says Ebola cases reported across several conflict-hit areas&nbsp;&nbsp;BBCCongo curtails funeral wakes in Ebola outbreak as WHO upgrades risk assessment&nbsp;&nbsp;AP NewsOpinion | Ebola Is a Terrible Disease. I Saw It Firsthand.&nbsp;&nbsp;The New York Times",
       "sources": [
         {
           "name": "Ars Technica",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU2IwMkpTclVuQmI2cXhwQUtHU1RDOFBLU0w3d1QtejhjTE40QzE1VTI3LWx6RHVSNkZiRC1BN2JWeEg2S09PWkdpZDNMNDZfMENRMHVCcFRzVkVRV24wMFRWbzNFT204SGx1aUs3dlJFU3BncGtFMktxYXVYSVVfbHRYN2RaRElaRGQyZ1RzVlloTThCa3ZGLTRHZ2N3bWlHd0tPYVdR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "815da6c1bda3",
+      "title": "Americans exposed to hantavirus on ship enjoy some Nebraska hospitality while waiting in quarantine - Yahoo",
+      "published": "2026-05-22T22:18:29+00:00",
+      "summary": "Americans exposed to hantavirus on ship enjoy some Nebraska hospitality while waiting in quarantine&nbsp;&nbsp;YahooSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMkRVaDhUbGtUMkk3YWxQN05RTk8yV2g1UVZzb3FBUUxzSzVZSFJxdXZtYVRKSnpBeXhINGNLeDI3N2VqYTR3XzN0cG1tN1N1dDVnR0NiNEZhNWZPWWx4VGdwTEtGal94NzVxRXIwaUdHcmxMMWdpTTdLTzRCb0paanFKbFhuaU1kdzlXSl93N2lPZmtXNVhqS0dwXzRPX2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "566a4628e847",
+      "title": "People with Ebola pose little risk to public in US, experts say - CIDRAP",
+      "published": "2026-05-22T21:04:10+00:00",
+      "summary": "People with Ebola pose little risk to public in US, experts say&nbsp;&nbsp;CIDRAPConnecticut health officials say Ebola risk remains low amid Congo outbreak&nbsp;&nbsp;New Haven RegisterUS Health Experts Confirm Ebola Risk to Public is Extremely Low as Travel and Monitoring Systems Remain in Focus&nbsp;&nbsp;Travel And Tour WorldDoctor breaks down Ebola and Mpox concerns&nbsp;&nbsp;WTNH.comDoctors say Ebola risk remains low in U.S. amid enhanced screenings&nbsp;&nbsp;RochesterFirst",
+      "sources": [
+        {
+          "name": "CIDRAP",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWXZBTnFna1NyTGNTQWhEUm4tYV9QcGRQVm5BcWxaV1liczJaU010UzdaSUhmTW1JWGZ4a25ZaEFEenZOZW1NcHRDemF5N2JoZTg0bHZVYzk2OXRUbGYxZWp3ZElFWDh0TWFhbF9mZU5wVGpHOE9raHpyeWhxSHM0bUdWbXg3VmxsQl9uNw?oc=5"
         }
       ]
     },
@@ -66,14 +126,38 @@
       ]
     },
     {
+      "id": "3d7a01ca6dd9",
+      "title": "Why 'Normal' Vitamin B12 Levels May Still Trigger Cognitive Decline, According to a New Study - inc.com",
+      "published": "2026-05-22T17:59:47+00:00",
+      "summary": "Why 'Normal' Vitamin B12 Levels May Still Trigger Cognitive Decline, According to a New Study&nbsp;&nbsp;inc.comScientists warn that current vitamin B12 guidelines may be putting your brain at risk&nbsp;&nbsp;ScienceDailyExperts Reveal the Surprising Cancer Link Behind a Common Vitamin&nbsp;&nbsp;SciTechDailyScientists in 'essential' Vitamin B12 warning update over cancer link&nbsp;&nbsp;The MirrorScientists Issue Urgent Warning on Vitamin B12 Supplements Following Major Cancer Risk Study&nbsp;&",
+      "sources": [
+        {
+          "name": "inc.com",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUnE3TkhGU0V5d2FVdng4aEQ5OWY0NWFCR1ZTSk9CbXdOMXlNUlFoT2NPYnpkM2xFR19qNU9kazhxN3VKenJqLTI5VXloSVkxUm9WWVVseXZtODVWY2Z5M2J5SHFDUk5kc1pxekFlaFY0UV9Ic1c0NHFCZzhFekgyT1U0M0loanBsTThPTWtQVXJMR0cyNDRoVXlPbXFiSnFsSzcteG1fOC1RZGtma1lLMEUtSnNSTWNXNENFenM2cGR1ZjV2RmhxMzlCQmtYUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "08b7f057b08f",
       "title": "Updated trends in the global prevalence and burden of mental disorders, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023 - National Institutes of Health (.gov)",
       "published": "2026-05-22T17:42:37+00:00",
-      "summary": "Updated trends in the global prevalence and burden of mental disorders, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023&nbsp;&nbsp;National Institutes of Health (.gov)Nearly 1.2 billion people worldwide are living with mental disorders. The number has been growing&nbsp;&nbsp;CNNThe numbers behind global mental health and its different disorders&nbsp;&nbsp;Al JazeeraWorld’s burden of mental disorders doubled since 1990&nbsp;&nbsp;UQ NewsGlobal mental health cases near",
+      "summary": "Updated trends in the global prevalence and burden of mental disorders, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023&nbsp;&nbsp;National Institutes of Health (.gov)Nearly 1.2 billion people worldwide are living with mental disorders. The number has been growing&nbsp;&nbsp;CNNThe numbers behind global mental health and its different disorders&nbsp;&nbsp;Al JazeeraWorld’s burden of mental disorders doubled since 1990&nbsp;&nbsp;UQ NewsIndia’s anxiety crisis deepens:",
       "sources": [
         {
           "name": "National Institutes of Health (.gov)",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDMjl6a2hBTl9wdnduV3lQVDNhWENfZGNxRXNueGw4bUJ2VUtzbE5QU0xHNDdGMzBqdXQ3U3ZfVlFScG12dGdrRHhNaHhfVTU5RUVj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "badb4595da9d",
+      "title": "How Weight-Loss Drugs Are Causing Frailty - WSJ",
+      "published": "2026-05-22T16:55:00+00:00",
+      "summary": "How Weight-Loss Drugs Are Causing Frailty&nbsp;&nbsp;WSJOzempic and simple aging can melt away important muscle from your body&nbsp;&nbsp;Scientific AmericanIs the Weight-Loss Drug Revolution Causing a Frailty Epidemic?&nbsp;&nbsp;WSJDon’t let weight-loss drugs weaken you | Opinion&nbsp;&nbsp;The OklahomanDeep Dive: GLP-1, Muscle Loss and What It Means&nbsp;&nbsp;Medscape",
+      "sources": [
+        {
+          "name": "WSJ",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYmRmMkxVQUlBZF9zcmlpdmhycFhxUVZPbWRiQ1lKbWt1a3VJUnJIMEFyeWVJcFlVeXBoQ25uSmFtQWZpTzdOdGpSekJDamdJaVd5SjBrMjl6dUJvTGxQWjZLZ1A3WTJ2SUpvYTVqUjBYTHllN1NVZDd0UlZpRUdtdXh1dmpsZ3l0dGZBbDBSSQ?oc=5"
         }
       ]
     },
@@ -105,7 +189,7 @@
       "id": "2ebbfab0c27b",
       "title": "NASA Announces Realignment to Accelerate Mission Delivery - NASA (.gov)",
       "published": "2026-05-22T14:04:26+00:00",
-      "summary": "NASA Announces Realignment to Accelerate Mission Delivery&nbsp;&nbsp;NASA (.gov)NASA unveils sweeping reorganization&nbsp;&nbsp;SpaceNewsNASA is updating its Artemis moon base plan. You can find out how on May 26.&nbsp;&nbsp;Space‘We’re building a Moon Base!’ NASA announces plans for lunar habitat&nbsp;&nbsp;KTLATo achieve major goals, NASA seeks to streamline its organization&nbsp;&nbsp;Ars Technica",
+      "summary": "NASA Announces Realignment to Accelerate Mission Delivery&nbsp;&nbsp;NASA (.gov)A Message From Administrator Jared Isaacman&nbsp;&nbsp;NASA (.gov)NASA unveils sweeping reorganization&nbsp;&nbsp;SpaceNewsNASA Announces Massive Agency Realignment&nbsp;&nbsp;NASA Watch‘We’re building a Moon Base!’ NASA announces plans for lunar habitat&nbsp;&nbsp;KTLA",
       "sources": [
         {
           "name": "NASA (.gov)",
@@ -146,18 +230,6 @@
         {
           "name": "ScienceAlert",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYmRGZ28tSHdabnhabEFJTWRGYm1iaV9Ka0dnZTlCX29reFJYczd0RU12VmozQkRnMlFtOWxYOHk1V1pJcW9JMUhuMjdjek5YYV91OVROelVDQTlLM0tYNG54a213ZGM1SDB4UjRCa3M5TmxFTm43cG52YmVobnJTdG14dmpqYW5KWDlTZm00NDFaOUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1ef14e5d9efb",
-      "title": "Lilly and Novo Weight-Loss Drugs Show Potential Cancer Benefits - Yahoo Finance",
-      "published": "2026-05-22T12:02:55+00:00",
-      "summary": "Lilly and Novo Weight-Loss Drugs Show Potential Cancer Benefits&nbsp;&nbsp;Yahoo FinanceWeight-Loss Drugs May Have Surprising Side Effect: Stalling Cancer&nbsp;&nbsp;WSJGLP-1 drugs may reduce the risk of cancer progressing, study suggests&nbsp;&nbsp;NBC NewsGLP-1s Linked to Lower Risk of Cancer Spread in Four Tumor Types&nbsp;&nbsp;MedPage TodayASCO 2026: GLP-1s could reduce the risk of some obesity-related cancers progressing&nbsp;&nbsp;Oncology Central",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRDJETkI4dW9nZU1SN3BVWlpHVkJTNlA5ZlBfYkRwTTFsdU9PQ0dyYmthdV83My1acDMzZkVjcmgyTG05bGVSVklIQ3JWcFAtdDZ5R3ZQTHh6TXFadGhpUlBhMFFoTnBRS3I0MFQ5WmNrMXExUnFfWjhKcGdPazlZbUFHaVloUDg0WDhyWk1nVGlOVUxxOVVvN1ZZXzhUdw?oc=5"
         }
       ]
     },
@@ -225,7 +297,7 @@
       "id": "ec4d853aa36f",
       "title": "Atlas reveals rocks with rare earth element potential, helping pinpoint new deposits - Phys.org",
       "published": "2026-05-22T09:00:09+00:00",
-      "summary": "Atlas reveals rocks with rare earth element potential, helping pinpoint new deposits&nbsp;&nbsp;Phys.orgThe Strange Rocks That Could Loosen China’s Grip on Rare Earths&nbsp;&nbsp;ScienceBlog.comHow to find rare earths on your property: University of Cambridge research creates 'new atlas' to help locate critical deposits of these metals&nbsp;&nbsp;CPG Click Petróleo e GásScientists map rocks with rare earth element potential, helping pinpoint new deposits [IMAGE]&nbsp;&nbsp;EurekAlert!'New atlas'",
+      "summary": "Atlas reveals rocks with rare earth element potential, helping pinpoint new deposits&nbsp;&nbsp;Phys.orgThe Strange Rocks That Could Loosen China’s Grip on Rare Earths&nbsp;&nbsp;ScienceBlog.comNew global map helps pinpoint rare earth elements&nbsp;&nbsp;LabrootsScientists create new atlas to help countries find rare earth deposits&nbsp;&nbsp;Mid-dayHow to find rare earths on your property: University of Cambridge research creates 'new atlas' to help locate critical deposits of these metals&nbsp",
       "sources": [
         {
           "name": "Phys.org",
@@ -273,7 +345,7 @@
       "id": "2ca576435471",
       "title": "Spinach-Based Eye Drops Could Help Treat a Common Eye Condition - ScienceAlert",
       "published": "2026-05-21T23:33:51+00:00",
-      "summary": "Spinach-Based Eye Drops Could Help Treat a Common Eye Condition&nbsp;&nbsp;ScienceAlertPlant-based eye drops harness photosynthesis to heal dry eyes&nbsp;&nbsp;News-MedicalA promising new strategy for treating dry eye disease&nbsp;&nbsp;Baylor College of Medicine Blog Network -Can eyes self-moisturise under light? NUS study uses ‘photosynthesis’ to treat dry eye disease&nbsp;&nbsp;NUS - National University of SingaporeNUS scientists use photosynthesis to treat dry eye&nbsp;&nbsp;The Straits Time",
+      "summary": "Spinach-Based Eye Drops Could Help Treat a Common Eye Condition&nbsp;&nbsp;ScienceAlertPlant-based eye drops harness photosynthesis to heal dry eyes&nbsp;&nbsp;News-MedicalRexinoid Drops Show Promise For Treating Dry Eye Disease&nbsp;&nbsp;Technology NetworksTransplanting Photosynthetic Machinery into the Eye&nbsp;&nbsp;Optics & Photonics NewsCan eyes self-moisturise under light? NUS study uses ‘photosynthesis’ to treat dry eye disease&nbsp;&nbsp;NUS - National University of Singapore",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -285,7 +357,7 @@
       "id": "77267c142b45",
       "title": "‘Shocking number’ of PNW rodents may carry hantavirus, Scientific American says - OregonLive.com",
       "published": "2026-05-21T23:08:00+00:00",
-      "summary": "‘Shocking number’ of PNW rodents may carry hantavirus, Scientific American says&nbsp;&nbsp;OregonLive.comIn Idaho’s Suburbs, a Rat Invasion Tests the Limits of Small Government&nbsp;&nbsp;The New York TimesHantavirus exposure risk may be higher than believed in parts of US, study finds&nbsp;&nbsp;Fox NewsHantavirus prevalence in Pacific Northwest rats raises new concerns&nbsp;&nbsp;KOIN.comHantavirus risk from rodents may be higher in Pacific Northwest&nbsp;&nbsp;USA Today",
+      "summary": "‘Shocking number’ of PNW rodents may carry hantavirus, Scientific American says&nbsp;&nbsp;OregonLive.comIn Idaho’s Suburbs, a Rat Invasion Tests the Limits of Small Government&nbsp;&nbsp;The New York TimesHantavirus exposure risk may be higher than believed in parts of US, study finds&nbsp;&nbsp;Fox NewsResearchers highlight hidden spread of Hantavirus in Pacific Northwest rodents&nbsp;&nbsp;YahooWSU study finds high prevalence of hantavirus in some parts of Pacific Northwest&nbsp;&nbsp;WSU Ins",
       "sources": [
         {
           "name": "OregonLive.com",
@@ -306,18 +378,6 @@
       ]
     },
     {
-      "id": "20c06c5ee84a",
-      "title": "Two Legionnaires’ Cases Found at East Village Complex - THE CITY - NYC News",
-      "published": "2026-05-21T22:37:47+00:00",
-      "summary": "Two Legionnaires’ Cases Found at East Village Complex&nbsp;&nbsp;THE CITY - NYC NewsNYC health department investigates Legionnaires' cases in East Village&nbsp;&nbsp;GothamistLegionnaires' disease concerns at East Village housing complex prompts NYC Health Department response&nbsp;&nbsp;CBS NewsCity investigates possible Legionnaires’ exposure in East Village building&nbsp;&nbsp;Crain's New YorkNYC Health Department advising residents of East Village complex of Legionnaire's Disease&nbsp;&nbsp;Y",
-      "sources": [
-        {
-          "name": "THE CITY - NYC News",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGRNU1Mwc2hLcXE1MnJ4aGVuQXVLZmY4Z2R6bUowZUlyQml6VDM0d1JWckZuU2tVemNLUmpyZXQ2WHFxRHRWTjBlLXZRcjFnWEpCNm5jbjZfYXhpZElIWWJKaHlyNjdsejNSemtwYi0yaVF5NEQ2SnRrcGY2Z1RJMm9GNkU3ZlEwbGloWDJZa2s3TC1DeHJV?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ff50fab37841",
       "title": "The satellite that has been tracking Earth's wildfires for 24 years is running out of fuel to dodge debris — and when it finally can't, the climate record it spent two decades building goes with it - Space Daily",
       "published": "2026-05-21T22:30:17+00:00",
@@ -326,18 +386,6 @@
         {
           "name": "Space Daily",
           "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPOF9lalNGaFFpajVjTTVZV0l1WkVzU2NvVHpLOVVTdnBXSlBGc3YtU0ZmdE9DdjVQSDRBMGxoSnZ2bU9zQ0Y1Z2xKQ0QwOWVtblp2R2w1eXFQdEpaWmlGZl9EcXUyV29zbXlJYjBzc1VvRXdsUzlhT0p0V0Z3TENnS1BWemc2VWhCWHBqTk93cEo5b3hKQVczNVptQnY0Q1dRdlNKbkxheVc4TW1iTnMwT0RJT21jMFhNYmY5LUwtMEM0NEtLbHY3ZzNuSlFWb0M4OHR0UXBpT2NIS3F0VVNYc0dVbWlhOFNhXzE5a0tMQTZNTWM3V0ViMm9lVVNGeUdFOWFaQ2VJYXd2UEFJX25yLWx3MEYyRTZlRUxlejRpLU5MY1RyUUdmYnNrSGlyTndkYVVBRTFyVE4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "87891b29408b",
-      "title": "19-meter-long giant octopuses likely kings of Cretaceous seas - 朝日新聞",
-      "published": "2026-05-21T22:00:00+00:00",
-      "summary": "19-meter-long giant octopuses likely kings of Cretaceous seas&nbsp;&nbsp;朝日新聞A massive kraken-like octopus may have prowled the seas during the age of dinosaurs&nbsp;&nbsp;Phys.orgEnormous octopuses: The apex predators of ancient oceans&nbsp;&nbsp;News Arena IndiaReal kraken? Ancient predators up to 19m long&nbsp;&nbsp;The Straits TimesKraken-like giant octopus ruled the seas in the time of the dinosaurs, study suggests&nbsp;&nbsp;MSN",
-      "sources": [
-        {
-          "name": "朝日新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FUnU0eDBGemJYS2RPREJ4dDBBb3hzZzhXTlF4cmxOOGp1TFctdFRtMGw4SS1iN3pkS3R1WlJ0Y3VOd1lnanY5Ymw0OWNwNmRNSUJoVmJn?oc=5"
         }
       ]
     },
@@ -354,14 +402,14 @@
       ]
     },
     {
-      "id": "d4a8fa50a292",
-      "title": "Experts Reveal the Symptoms of Hantavirus You Should Watch For - AOL.com",
-      "published": "2026-05-21T21:04:10+00:00",
-      "summary": "Experts Reveal the Symptoms of Hantavirus You Should Watch For&nbsp;&nbsp;AOL.comA critical window to stop hantavirus is opening. Not all countries are managing exposed travelers the same way&nbsp;&nbsp;CNNWHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus II: hantavirus natural history, infection control and clinical management of patients in hospital&nbsp;&nbsp;World Health Organization (WHO)Hantavirus cases linked to cruise ship rise to 12 after crew member tests positive&nbsp;&nbsp;",
+      "id": "78681af944ec",
+      "title": "GLP-1 drugs may reduce the risk of cancer progressing, study suggests - NBC News",
+      "published": "2026-05-21T21:02:20+00:00",
+      "summary": "GLP-1 drugs may reduce the risk of cancer progressing, study suggests&nbsp;&nbsp;NBC NewsWeight-Loss Drugs May Have Surprising Side Effect: Stalling Cancer&nbsp;&nbsp;WSJGLP-1s Linked to Lower Risk of Cancer Spread in Four Tumor Types&nbsp;&nbsp;MedPage TodayOzempic and other GLP-1 RAs could slow progression of some cancers, data suggest&nbsp;&nbsp;Medical XpressASCO 2026: GLP-1s could reduce the risk of some obesity-related cancers progressing&nbsp;&nbsp;Oncology Central",
       "sources": [
         {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUXpnaXJVdmRYUFd4OUtjaFdqeWFHUDE3aFRTYk82eFl6RGprdmNDVzZHRVVJOE9td08zNGNBSWdpNlhxcVBjQzlRclk5UHZWZ1psQXVUQVdwUzRlRGlTdjdUTDk1X2JHZ29FRW9Wc2E5VjFDWTFpM0dpM3B5X2Z2YkN2V2F2Y3RKZ1ZoOQ?oc=5"
+          "name": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTENubnU0WThwc2FYY0ZaSjNrNjRoWGpHRnZaaGhfaHY0SVNXejJpdDdoU19HVVM4bGRvZEo5aDhwZUhNY1h5eEhWVDZOLWhMNk1ZNmNfVGNwWVBQYmw0c2YyRjVxajVCYlQyWmZnSWpIZ3VHTTNnY2hqdjd2cHctVjJ3dGdSdkEtQ1dmSkFtMUI4X054TjlBQmJaZmo3STdaSG9DNFZ1NnhOaFpuTVlN?oc=5"
         }
       ]
     },
@@ -405,7 +453,7 @@
       "id": "1ba4644f96e9",
       "title": "Structured Programs Physically Slow Down Biological Aging - Neuroscience News",
       "published": "2026-05-21T20:24:14+00:00",
-      "summary": "Structured Programs Physically Slow Down Biological Aging&nbsp;&nbsp;Neuroscience NewsPurdue Professor Discusses How to Keep Your Brain Healthy As You Age&nbsp;&nbsp;WIBC 93.1 FMStructured Coaching and Exercise Can Measurably Slow the Aging Process, Major Clinical Trial Finds&nbsp;&nbsp;ScienceBlog.comStructured Lifestyle Programs May Help Slow Aging in Older Adults, Study Finds | Newswise&nbsp;&nbsp;NewswiseProtecting the Brain Before Symptoms Appear&nbsp;&nbsp;Al Día News",
+      "summary": "Structured Programs Physically Slow Down Biological Aging&nbsp;&nbsp;Neuroscience NewsPurdue Professor Discusses How to Keep Your Brain Healthy As You Age&nbsp;&nbsp;WIBC 93.1 FMStudy: Structured multidomain lifestyle interventions may decrease frailty, slow aging&nbsp;&nbsp;McKnight's Long-Term Care NewsStructured approach to a healthy lifestyle may help slow important aspects of aging&nbsp;&nbsp;News-MedicalProtecting the Brain Before Symptoms Appear&nbsp;&nbsp;Al Día News",
       "sources": [
         {
           "name": "Neuroscience News",
@@ -426,30 +474,6 @@
       ]
     },
     {
-      "id": "2dcfb27d9b67",
-      "title": "Why energy fades with age: Missing membrane lipid may destabilize mitochondria - Medical Xpress",
-      "published": "2026-05-21T20:20:05+00:00",
-      "summary": "Why energy fades with age: Missing membrane lipid may destabilize mitochondria&nbsp;&nbsp;Medical XpressMitochondrial Aging Linked to Losing Crucial Membrane Lipid&nbsp;&nbsp;Lifespan Research Institute",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdTNrakxZVk82UjQzOUVYODhFYWstVFQ5N05iYUYxZUk2Wl9GeXd0V3l3b1FnTGpWYlktSy12djI4dkFtbE5BYTh1RWJjckoybWNMblN5aUlBdk5CWERjSVRyZENuQTh4ODJSUmZmTkdlb0E5N2lZV3lrdXpEZlZEZE5UcFZsMVhT?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "74829523416f",
-      "title": "American passenger feels 'betrayed' by federal order to stay in hantavirus quarantine - NPR",
-      "published": "2026-05-21T20:19:09+00:00",
-      "summary": "American passenger feels 'betrayed' by federal order to stay in hantavirus quarantine&nbsp;&nbsp;NPRN.Y. man who was on hantavirus cruise ship says Nebraska isolation center feels like ‘prison’&nbsp;&nbsp;NBC NewsHantavirus update: Nebraska officials awaiting CDC guidance on passengers’ release&nbsp;&nbsp;WOWTAmericans exposed to hantavirus on ship enjoy some Nebraska hospitality while waiting in quarantine&nbsp;&nbsp;AP NewsWatch: Nebraska Medicine, UNMC experts give update on hantavirus passen",
-      "sources": [
-        {
-          "name": "NPR",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOekR2UTJBWnI1N09nQko0YXpaU3hUeFNGNVZjMXUwWkZSdll6a3dRUFNJaTdNTlJoTkVNajBBLWZWWEU5TGxWS3FZZU1SdXFyeUcyZWFEaHhuZnY1UU9mNjJhQjFFTzlRZnFVZFRLQWNpNThBYnZvRDFtVVJoMV85TW9fdjBFZGZsaWU3OGFLS19tSTljZVE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9c8578913c87",
       "title": "Prehistoric Insect Named After K-pop Group Stray Kids - DOGO News",
       "published": "2026-05-21T20:09:46+00:00",
@@ -458,6 +482,18 @@
         {
           "name": "DOGO News",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcHotOVlUalNTQk5mdnY4Slphd3hRcUNSRy1VTGVoZmRtYkhtWG04cjZ5emNQZXppeC1peUN5MUlSY3RlM1JlMWFBcXZuVkJ4YnRuQ1VfcFZfLU1lR0JDM1k0bl9Ua09MRV9uNVl5VHpocEVjTkt2eU5nRThTNDhBMnJ0RXJiaTR2MTUzdkpoay1yUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "beb977456f7f",
+      "title": "Ebola Treatment Center Burns Near Heart Of Deadly Outbreak, Report Says (Live Updates) - Forbes",
+      "published": "2026-05-21T20:07:00+00:00",
+      "summary": "Ebola Treatment Center Burns Near Heart Of Deadly Outbreak, Report Says (Live Updates)&nbsp;&nbsp;ForbesDetroit-bound flight diverted to Canada after Congolese passenger boarded ‘in error’ amid Ebola outbreak&nbsp;&nbsp;NBC NewsUS-bound plane diverts to Canada after person from Ebola-hit region boards 'in error'&nbsp;&nbsp;BBCMan on DTW flight with suspected Ebola 'Everybody was panicking a little bit'&nbsp;&nbsp;FOX 2 DetroitPassenger details Air France flight diversion from Paris to Detroit Me",
+      "sources": [
+        {
+          "name": "Forbes",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR2Q3bkI2QkFiYzE0LVU0aWxqbXpDQllPRS0tcHFRNGxfVDJoYndZT2pfSzV0NWJULUJqVWROejdsNXRzSVFlZjJBZ01YcVFUOVJzR1VyWFFaV3VlREFUWU9ieVo0YXdWcElVaWNGVms2ay1Ec2hFdllidUU1Wl9yd3pOOVBSQ3YzM1JxcVRyald0azNFTm9lZlVtWlFSUjR6MmVDd0hQcXNpZmhLY2VjZVFpaWJBbG5CYXVFNm1GSVhpMG82aFdKdkFvcw?oc=5"
         }
       ]
     },
@@ -489,11 +525,23 @@
       "id": "d47abd30f1b4",
       "title": "You Won’t Believe How Much Exercise It Takes to Get ‘Substantial’ Heart Protection - Gizmodo",
       "published": "2026-05-21T19:45:37+00:00",
-      "summary": "You Won’t Believe How Much Exercise It Takes to Get ‘Substantial’ Heart Protection&nbsp;&nbsp;GizmodoFor real heart protection, the weekly exercise number climbs far beyond current advice&nbsp;&nbsp;Medical XpressA new study says you need 10 hours of exercise a week. Can that really be possible?&nbsp;&nbsp;Scientific AmericanLeast fit people need to do more exercise than fittest to get same benefit – study | Fitness&nbsp;&nbsp;The GuardianYou Probably Need More Exercise Than You Think, New Study",
+      "summary": "You Won’t Believe How Much Exercise It Takes to Get ‘Substantial’ Heart Protection&nbsp;&nbsp;GizmodoFor real heart protection, the weekly exercise number climbs far beyond current advice&nbsp;&nbsp;Medical XpressA new study says you need 10 hours of exercise a week. Can that really be possible?&nbsp;&nbsp;Scientific AmericanLeast fit people need to do more exercise than fittest to get same benefit – study | Fitness&nbsp;&nbsp;The GuardianThe healthiest workout may be shorter — and harder — than",
       "sources": [
         {
           "name": "Gizmodo",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXBzMXp1Qm9VNkpDUkhENUpqaDU5U2Vua3hnZ1lfLWxRQTl6YjFWbDZkUVNGUjRwUE5VOUU4UGQ4bzZlS1U0dUVLTzRSb2p6WkZFNGhYbmJrVHl5amh5aS0yNjMyOE92YWR5OXRwUW1NMXZhWThybm1YU1pHaXROVUNZemdKRGpZUVQ1NUlSQUhJOTdpRV9IT2lESlYyS0tZNjZwVWVKSmhSMV82a0s4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "64c5e6769fe2",
+      "title": "Broken Sleep Rhythms: The Glymphatic Link to Dementia - Neuroscience News",
+      "published": "2026-05-21T18:39:54+00:00",
+      "summary": "Broken Sleep Rhythms: The Glymphatic Link to Dementia&nbsp;&nbsp;Neuroscience NewsAn Early Warning Sign of Alzheimer's May Be Keeping Some Women Up at Night&nbsp;&nbsp;ScienceAlertSleep helps brain clean Alzheimer’s-linked toxins, study says&nbsp;&nbsp;Financial TimesThe brain's night shift: How sleep, waste clearance and dementia may be linked&nbsp;&nbsp;Medical XpressCould how well you sleep be linked to diseases like dementia?&nbsp;&nbsp;CTV News",
+      "sources": [
+        {
+          "name": "Neuroscience News",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR0xkamo0dnNjY0xFb0dxMG5pLU1kaHRHRHRZQlMzYWFHZ3lJdjRUZnBlS1J0QjhOM3h5TTY5d2Z2RW1kOExSSThEQ0k5WnBlbTIxSTd5LURjRUZDaFB3MTJEU3pDLTA1clZEVllvODdacGxQc1ZYTDZESUhXZGYxdQ?oc=5"
         }
       ]
     },
@@ -542,54 +590,6 @@
         {
           "name": "AOL.com",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLXJWRC1WZjJacmRrT1hsV0JqMWNRcG9qdzB6SGJQRDdqdEVYSUIxRHdrVE9xdmhFT0NtcU42RlNMbmF1amJuZU9jbUZBQklzQnhHcUVGZ084M0dsQ29PS242XzFEUUJiSXQzNEhydEVKR0RsY2xUa2hKSE1acEcyMXhJcGdLdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e91ba7935460",
-      "title": "Sleep helps brain clean Alzheimer’s-linked toxins, study says - Financial Times",
-      "published": "2026-05-21T18:00:04+00:00",
-      "summary": "Sleep helps brain clean Alzheimer’s-linked toxins, study says&nbsp;&nbsp;Financial TimesAn Early Warning Sign of Alzheimer's May Be Keeping Some Women Up at Night&nbsp;&nbsp;ScienceAlertThe brain's night shift: How sleep, waste clearance and dementia may be linked&nbsp;&nbsp;Medical XpressCould how well you sleep be linked to diseases like dementia?&nbsp;&nbsp;CTV NewsPoor Sleep Tied to Alzheimer’s Risk in Older Women&nbsp;&nbsp;UC San Diego Today",
-      "sources": [
-        {
-          "name": "Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZTY5V2g0cTZiSEN3QUhaTVRrWGlHUDRiQ3AwU1pfMUY3LUlENXIxUWFrNmFMelRmVlVXbnAwQm5DWktPRFdpWHVFaHFnNWVvOGFhaEREdTZVQXRmREttVk9QOVdrRFByUEtGVkZzSEM2bEVsLUI3ZXliSkhORlpEU0YycWM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8539fdd340a0",
-      "title": "Study Maps 175 Vicious Mental Health Loops - Neuroscience News",
-      "published": "2026-05-21T17:47:18+00:00",
-      "summary": "Study Maps 175 Vicious Mental Health Loops&nbsp;&nbsp;Neuroscience NewsSleep Problems: Why do young people struggle with sleep and mental health?&nbsp;&nbsp;The Times of IndiaWhy are young people's sleep and mental health so poor? Researchers point to 'vicious cycles'&nbsp;&nbsp;Medical XpressPoor screen habits are a key factor behind the terrible sleep and mental health of youngsters, says research&nbsp;&nbsp;Digital Trends",
-      "sources": [
-        {
-          "name": "Neuroscience News",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5TUp2RnFKcWdMRlF4TUxsMjFBUDBSY2tBcGVPRWJqQWw3UjQ0YkY5RlYwcVlqQjJmZmttRUFwc2JBcUZCZVpoald1ZkYwV2V1NGRWUVU1VHh0ZzhNVHJfN0ZoYWJqQkNBSjVDbXRkeHk0Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "261355f8f4c4",
-      "title": "New kind of dark tourism emerging in online 'Backrooms,' study shows - Phys.org",
-      "published": "2026-05-21T17:20:05+00:00",
-      "summary": "New kind of dark tourism emerging in online 'Backrooms,' study shows&nbsp;&nbsp;Phys.org",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzTV83X3NlQjV6cUZqTlZqSFNwbWV6Z0JaMWFOLVdKMEpncWIyNnd2TDMwNW9EWVE2RnN0dmtXMWxoTzhTU1FuSmRYVC1GUlFQR2c0TTVTeEpERUxPcEVaUmYxYmU2Z3pERFhCRFlQWHFDU0U2REo4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ffa46c334745",
-      "title": "Rocks Kept in a Warehouse For Decades Held a Major Clue to Complex Life - ScienceAlert",
-      "published": "2026-05-21T16:09:28+00:00",
-      "summary": "Rocks Kept in a Warehouse For Decades Held a Major Clue to Complex Life&nbsp;&nbsp;ScienceAlertTiny fossils found in 1.7 billion-year-old mud yield clues to the evolution of complex life&nbsp;&nbsp;The ConversationEarly fossil eukaryotes were benthic aerobes&nbsp;&nbsp;NatureEarly complex life clung to oxygenated seafloors for hundreds of millions of years, scientists discover&nbsp;&nbsp;Phys.orgEvidence for oldest complex life unearthed in Australian rocks&nbsp;&nbsp;SMH.com.au",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMUQ0VkphNlhKSDdRLWNWR2tGMkpMOXVEQXdXaXJ6bWNvTGVBUkdqZWhnZS1KRGEtSEFSMWNKMTNkQ19rNGRQUFVyYnM5Tnl6SDZaajlTdFM2TkJhTGZtYkFrajFJVXBQaGFHODQyVU5NTkZnb3g5RkxYVzU5WWVYZmNJanNobVlnVzhJNFEwLURmeDlOVUJlMGJFTl9CaE5ValE?oc=5"
         }
       ]
     },
@@ -681,7 +681,7 @@
       "id": "122f59aab738",
       "title": "Strange stacked stones spotted on Mars | Space photo of the day for May 21, 2026 - Yahoo",
       "published": "2026-05-21T14:00:00+00:00",
-      "summary": "Strange stacked stones spotted on Mars | Space photo of the day for May 21, 2026&nbsp;&nbsp;YahooStrange stacked stones spotted on Mars photo of the day for May 21, 2026&nbsp;&nbsp;SpacePerseverance rover stacked rocks on Mars astound in stunning discovery&nbsp;&nbsp;Pune MirrorMysterious Stacked Rocks Spotted by NASA Perseverance Rover on Mars&nbsp;&nbsp;Gadgets 360",
+      "summary": "Strange stacked stones spotted on Mars | Space photo of the day for May 21, 2026&nbsp;&nbsp;YahooStrange stacked stones spotted on Mars photo of the day for May 21, 2026&nbsp;&nbsp;SpaceNASA's Perseverance Rover Spots Mysterious Rock Stack On Mars&nbsp;&nbsp;ETV BharatPerseverance rover stacked rocks on Mars astound in stunning discovery&nbsp;&nbsp;Pune MirrorMysterious Stacked Rocks Spotted by NASA Perseverance Rover on Mars&nbsp;&nbsp;Gadgets 360",
       "sources": [
         {
           "name": "Yahoo",
@@ -693,7 +693,7 @@
       "id": "9d6e958a569e",
       "title": "Scientists May Have Finally Solved Why Humans Are Right-Handed - SciTechDaily",
       "published": "2026-05-21T13:28:12+00:00",
-      "summary": "Scientists May Have Finally Solved Why Humans Are Right-Handed&nbsp;&nbsp;SciTechDailyWhy Is Nearly Every Person Right-Handed—but Not Every Ape and Monkey? New Research Explores the Evolutionary Origins of Human Handedness&nbsp;&nbsp;Smithsonian MagazineTwo Ancient Clues May Finally Explain Why 90% of Us Are Right-Handed&nbsp;&nbsp;ScienceAlertWhy are so many people right-handed? New study sheds some light&nbsp;&nbsp;YahooWhy 90 percent of humans are right-handed&nbsp;&nbsp;Popular Science",
+      "summary": "Scientists May Have Finally Solved Why Humans Are Right-Handed&nbsp;&nbsp;SciTechDailyWhy Is Nearly Every Person Right-Handed—but Not Every Ape and Monkey? New Research Explores the Evolutionary Origins of Human Handedness&nbsp;&nbsp;Smithsonian MagazineScientists think they’ve cracked the mystery of human right-handedness&nbsp;&nbsp;ScienceDailyWhy are so many people right-handed? New study sheds some light&nbsp;&nbsp;YahooWhy 90 percent of humans are right-handed&nbsp;&nbsp;Popular Science",
       "sources": [
         {
           "name": "SciTechDaily",
@@ -753,7 +753,7 @@
       "id": "dbfadf90d9db",
       "title": "Scientists just reversed about 80% of aging in elderly mice in a single month — and they did it by boosting one protein - Space Daily",
       "published": "2026-05-21T10:15:53+00:00",
-      "summary": "Scientists just reversed about 80% of aging in elderly mice in a single month — and they did it by boosting one protein&nbsp;&nbsp;Space DailyScientists boosted one protein and aging mice became stronger and healthier&nbsp;&nbsp;ScienceDailySIRT6 protein could protect against age-related breakdown in chromatin, possibly help reverse aging&nbsp;&nbsp;Phys.orgScientists say restoring a fading protein helped older mice push back against frailty&nbsp;&nbsp;The Cool DownScientists say they may be clo",
+      "summary": "Scientists just reversed about 80% of aging in elderly mice in a single month — and they did it by boosting one protein&nbsp;&nbsp;Space DailyScientists boosted one protein and aging mice became stronger and healthier&nbsp;&nbsp;ScienceDailySIRT6 protein could protect against age-related breakdown in chromatin, possibly help reverse aging&nbsp;&nbsp;Phys.orgScientists say restoring a fading protein helped older mice push back against frailty&nbsp;&nbsp;The Cool DownAging may be more reversible t",
       "sources": [
         {
           "name": "Space Daily",

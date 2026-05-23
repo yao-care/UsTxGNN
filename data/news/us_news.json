@@ -1,15 +1,87 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-22T19:51:27.106174+00:00",
-  "total_fetched": 88,
-  "unique_count": 88,
-  "health_related_count": 49,
+  "fetched_at": "2026-05-23T03:33:56.422727+00:00",
+  "total_fetched": 109,
+  "unique_count": 109,
+  "health_related_count": 64,
   "news": [
+    {
+      "id": "0b7af253a922",
+      "title": "‘T. rex of the sea’: D-FW researchers identify new ancient marine species - Dallas News",
+      "published": "2026-05-22T23:30:51+00:00",
+      "summary": "‘T. rex of the sea’: D-FW researchers identify new ancient marine species&nbsp;&nbsp;Dallas NewsAncient seas get a new T. rex as massive mosasaur emerges from Texas fossils&nbsp;&nbsp;Phys.orgNorth Texas fossils reveal giant predator dubbed ‘T. rex of the sea'&nbsp;&nbsp;NBC 5 Dallas-Fort WorthThe newly-identified 'T. rex of the ancient sea' unveiled at Perot Museum&nbsp;&nbsp;WFAA‘T. rex’ Mosasaur Ruled the Seas 80 Million Years Ago&nbsp;&nbsp;Sci.News",
+      "sources": [
+        {
+          "name": "Dallas News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOUtrc0RqMnhkNmtNcFZGd1JoQ0ZsSU9nNlFwT0FRN0lpY1c5aE5WM1VLR095bEVvT1BRZFc5R3NLWEYxUUhNdHJRMk9iRjVBaFBuUkRDd2hSc2Y3OGVhb3B5X1FRSGJUZ01nLTVqUE5LU1F2SWtpZndYZFR6S1BfcFFrbWhwUDBZSTV1a0k2eHFtY2tkSDZnN2xaT2Q?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1b4deaa5457f",
+      "title": "Ebola outbreak now third largest recorded and \"spreading rapidly\" - Ars Technica",
+      "published": "2026-05-22T22:24:03+00:00",
+      "summary": "Ebola outbreak now third largest recorded and \"spreading rapidly\"&nbsp;&nbsp;Ars TechnicaEbola Outbreak Is Now Third Largest in History. Here’s What to Know.&nbsp;&nbsp;WSJCongo curtails funeral wakes in Ebola outbreak as WHO upgrades risk assessment&nbsp;&nbsp;AP NewsUS funding cuts have hampered response to the deadly Ebola crisis, aid workers say&nbsp;&nbsp;CNNOpinion | Ebola Is a Terrible Disease. I Saw It Firsthand.&nbsp;&nbsp;The New York Times",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU2IwMkpTclVuQmI2cXhwQUtHU1RDOFBLU0w3d1QtejhjTE40QzE1VTI3LWx6RHVSNkZiRC1BN2JWeEg2S09PWkdpZDNMNDZfMENRMHVCcFRzVkVRV24wMFRWbzNFT204SGx1aUs3dlJFU3BncGtFMktxYXVYSVVfbHRYN2RaRElaRGQyZ1RzVlloTThCa3ZGLTRHZ2N3bWlHd0tPYVdR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "701cd6bb79d8",
+      "title": "Stress impairs your brain’s ability to link memories — dampening insight - Nature",
+      "published": "2026-05-22T20:15:33+00:00",
+      "summary": "Stress impairs your brain’s ability to link memories — dampening insight&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uM240ZmQ4Vlk1Z2VmajhMVGtSLUp4S2ZNQTc2N2U4X2t3NGJjNHBtbU9rU2l4NUdJTkswNDRUd0EwZHpYRmNvMGg0ZTdBcVQwRWtlVmxqb0ZlWnFDbDBj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9fd283bc148b",
+      "title": "The Voyager Golden Record carries a small sample of uranium on its cover, placed there so that whoever finds it can measure the decay and work out how long it has been drifting — a built-in clock for a message engineered to last around a billion years. - Space Daily",
+      "published": "2026-05-22T20:12:07+00:00",
+      "summary": "The Voyager Golden Record carries a small sample of uranium on its cover, placed there so that whoever finds it can measure the decay and work out how long it has been drifting — a built-in clock for a message engineered to last around a billion years.&nbsp;&nbsp;Space DailyThe Voyager probes carry golden records etched with greetings in 55 languages, whale songs, and a woman's brainwaves recorded while she thought about being in love, and the records are designed to remain playable for one bill",
+      "sources": [
+        {
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNZzdtcXVLaGkySERkRFNVemNwV3BRVG9GRlZrMjlOR2NMMWg1ZFBkcmVVQTdSSlkyTjJwOUQxQ3ZtTjZVVVh4TEx6WHJJcGVObER6d0VQRVl6aUZCODFtRGlQTFdxdkpZSC16aTUtSkZwZkJqMjNLZmlLSUVsQ1I3WFJLWTBRRE5mZ1REa1FubFl3VXFyQkh3M3N4bjgtUXNmX2g0ejNfNFZUckM4S0djTGIyYkNMU296dlpzREI4bVpTRWtLenBuUWNiTVIzQVZvYkduRTFTMXd5U0ZzcmZFdGk0cVR6cm1fQ3Z0RmhiN1IxaWpfVVIzMmMxbXVzcGhiU2dDY01xWjZzVV9TWWZzeGJFUVIwUFhpMXpJekd2cVk0dFhvREVaU2lCLUFIZmliTXVUVktWN1k2cDA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d122c12dca7b",
+      "title": "No child deaths definitively linked to Covid shots, FDA says - NBC News",
+      "published": "2026-05-22T20:01:24+00:00",
+      "summary": "No child deaths definitively linked to Covid shots, FDA says&nbsp;&nbsp;NBC NewsFDA's Analysis of Child Deaths After COVID Shot Released by Senator&nbsp;&nbsp;MedPage TodayFDA’s own report shows no child deaths definitively caused by COVID vaccination&nbsp;&nbsp;BioSpaceFDA’s unreleased Covid vaccine deaths report is published by lawmaker&nbsp;&nbsp;Endpoints News",
+      "sources": [
+        {
+          "name": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVhtVTFUM1VpcUxfVm5RMjN2dDdtNDA2QWdxQTR0elFKeVJvYVFieUtjYXRkN0UxM3VUSEdRMUlNcHFUcDI5VmFFMDJ3aHVNbjdFTTI3ZWRERTd0dk9PcUdEUjBjZHp5Qk5SSlRLZkNKMnZMMXlTNmVMc25NNjhwUlR3T24zbHpPdE1uNDNRck81QW1HS2pHRWx1eU5oMUt1dGYtS25JbDlLTzkweEFN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "08b7f057b08f",
+      "title": "Updated trends in the global prevalence and burden of mental disorders, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023 - National Institutes of Health (.gov)",
+      "published": "2026-05-22T17:42:37+00:00",
+      "summary": "Updated trends in the global prevalence and burden of mental disorders, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023&nbsp;&nbsp;National Institutes of Health (.gov)Nearly 1.2 billion people worldwide are living with mental disorders. The number has been growing&nbsp;&nbsp;CNNThe numbers behind global mental health and its different disorders&nbsp;&nbsp;Al JazeeraWorld’s burden of mental disorders doubled since 1990&nbsp;&nbsp;UQ NewsGlobal mental health cases near",
+      "sources": [
+        {
+          "name": "National Institutes of Health (.gov)",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDMjl6a2hBTl9wdnduV3lQVDNhWENfZGNxRXNueGw4bUJ2VUtzbE5QU0xHNDdGMzBqdXQ3U3ZfVlFScG12dGdrRHhNaHhfVTU5RUVj?oc=5"
+        }
+      ]
+    },
     {
       "id": "0e65b81f0db4",
       "title": "Health officials warn patients of potential HIV, hepatitis exposure at Philadelphia dental office - ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-05-22T18:24:20+00:00",
-      "summary": "Health officials warn patients of potential HIV, hepatitis exposure at Philadelphia dental office&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosOfficials: Patients of Rittenhouse Square dentist should be tested for HIV&nbsp;&nbsp;NBC10 PhiladelphiaPhiladelphia Health Department warns of exposure at Smiles at Rittenhouse Square | What patients should know&nbsp;&nbsp;6abc PhiladelphiaPhilly health department notifies Center City dental patients of possible exposure to hepatitis, HIV&n",
+      "published": "2026-05-22T15:54:27+00:00",
+      "summary": "Health officials warn patients of potential HIV, hepatitis exposure at Philadelphia dental office&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosOfficials: Patients of Rittenhouse Square dentist should be tested for HIV&nbsp;&nbsp;NBC10 PhiladelphiaPhiladelphia Health Department warns of exposure at Smiles at Rittenhouse Square | What patients should know&nbsp;&nbsp;6abc PhiladelphiaRittenhouse dental clinic may have exposed patients to HIV, hepatitis&nbsp;&nbsp;USA TodayPhilly healt",
       "sources": [
         {
           "name": "ABC News - Breaking News, Latest News and Videos",
@@ -18,14 +90,14 @@
       ]
     },
     {
-      "id": "c68f8817de7e",
-      "title": "Suspected Ebola cases triple in a week as WHO warns of rapid spread in DRC - The Guardian",
-      "published": "2026-05-22T17:53:00+00:00",
-      "summary": "Suspected Ebola cases triple in a week as WHO warns of rapid spread in DRC&nbsp;&nbsp;The GuardianOpinion | Ebola Is a Terrible Disease. I Saw It Firsthand.&nbsp;&nbsp;The New York TimesMisinfo, strained resources and armed conflict hamper Ebola response&nbsp;&nbsp;NBC NewsVisualizing the Ebola outbreak in maps and charts&nbsp;&nbsp;CNNWith Ebola \"spreading rapidly\" in Congo, WHO upgrades national risk level to \"very high\"&nbsp;&nbsp;CBS News",
+      "id": "3f7f42552c6a",
+      "title": "A Strange Black Hole Mystery Has Stumped Physicists Since 1993. Researchers May Finally Have the Answer - Gizmodo",
+      "published": "2026-05-22T15:35:10+00:00",
+      "summary": "A Strange Black Hole Mystery Has Stumped Physicists Since 1993. Researchers May Finally Have the Answer&nbsp;&nbsp;GizmodoCrystals of space and time: A structural phenomenon that may collapse into tiny black holes&nbsp;&nbsp;Phys.orgThe Mathematics That Turns Spacetime Into a Crystal, Then a Black Hole&nbsp;&nbsp;ScienceBlog.com",
       "sources": [
         {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNzFDYW42cjRWdWg2bUNnLTl3MEFjQ01LM0lvV1NIbEo3UFBWQlE3QjUzVXFxeW9NYzNBOGpXSGtuaXdSSXhvS3ZBbDAyMHl5eUdoaGZOT2stcXVFeWFWNVZ6WXdtZl8zQ3JYRDdJMkZjRFRuSFotajlyWjd5TzdlRi1VbGctOFk4LWdqSnJhcUNRZ2o1RjlSVUdKMFlQamFiSzBtbENuemotU084cGFYRUtjdVUwRWtldzBobkpjRFhKZHVRZmR0U1ZDcmxrQQ?oc=5"
+          "name": "Gizmodo",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbmhlVjJPM01uSGlVVkwySjdVQ05nTnV2SWlvbkVPdWROTkJHSUZXMmo1bW02YXpURzhuektteEcza1NsSDhmSzhRb0Z1VkNvZE9pWEQtcEdKcmc4NE9RYjJCRE9JMl9vcEdFRHZ2ZFNJNmZYQWxvblRzbkhzcWNlU1VXSklveENMbTRESjRfWHhpSkxYV1JRVlVPLTg1Y3QzbjU3Y3Y3SmoxeEZyMk9LNVFrTHRIYkJfUjNTN1hqcUt0NkpjTmw2d294TTJXZw?oc=5"
         }
       ]
     },
@@ -33,11 +105,23 @@
       "id": "2ebbfab0c27b",
       "title": "NASA Announces Realignment to Accelerate Mission Delivery - NASA (.gov)",
       "published": "2026-05-22T14:04:26+00:00",
-      "summary": "NASA Announces Realignment to Accelerate Mission Delivery&nbsp;&nbsp;NASA (.gov)Matt Anderson Is The New NASA Deputy Administrator&nbsp;&nbsp;NASA WatchThe Senate just installed a deputy administrator who thinks NASA's job is beating China to the moon — and the 46-43 vote tells you everything about what the agency is becoming&nbsp;&nbsp;Space DailyNASA Restructures Agency, Adds Deputy, Expands Artemis Accords, and Updates Moon Base Plans&nbsp;&nbsp;Forth.NewsNew NASA deputy administrator signals",
+      "summary": "NASA Announces Realignment to Accelerate Mission Delivery&nbsp;&nbsp;NASA (.gov)NASA unveils sweeping reorganization&nbsp;&nbsp;SpaceNewsNASA is updating its Artemis moon base plan. You can find out how on May 26.&nbsp;&nbsp;Space‘We’re building a Moon Base!’ NASA announces plans for lunar habitat&nbsp;&nbsp;KTLATo achieve major goals, NASA seeks to streamline its organization&nbsp;&nbsp;Ars Technica",
       "sources": [
         {
           "name": "NASA (.gov)",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdHM3UThiNjFHZDFib1k1dW5XYVhtQ3kyaGlsMmtuSU1ESkxUVDcydjhhaTRLVkdaNHR6MTNoSUZlS3ZMcUlibGR3M01NbjJxa05SS0IxQ1B4RlY2WUJwdDZlQXBUSno2NnpSVWhEYTladDhGMktMdnZGZ2pPNTE1NEdIS3R4M3d5SXBYTEozWF9VWVhsZkZv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "464ef39a0a2d",
+      "title": "Researchers Find Surprising Link Between Grapes and Sun Protection - Gizmodo",
+      "published": "2026-05-22T13:35:54+00:00",
+      "summary": "Researchers Find Surprising Link Between Grapes and Sun Protection&nbsp;&nbsp;GizmodoEating grapes daily could unlock powerful skin protection&nbsp;&nbsp;ScienceDailyTasty 62-calorie snack may help protect your skin from sun damage&nbsp;&nbsp;New York PostGrape consumption linked to changes in gene expression and improved skin health&nbsp;&nbsp;Medical XpressCan a Handful of Grapes a Day Keep the Dermatologist Away?&nbsp;&nbsp;The Dermatology Digest",
+      "sources": [
+        {
+          "name": "Gizmodo",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObnVndFp4ejFtb2ZQQUxQZkNkbVgyMEdyZk9pbVFnc0JoTXA1SWZWLVo0UXR6NFdJX0pTQXgzSndqWVhLTUZWNWR3aHhUUnRMOVlZd1BHWG5XQWtUZkpjMkZ3aXVVQVZOLVlZdEFaQjVMamt3b2FIdWlrQ1hCOVVkZE1NcXVSTnB1eXZiMnAzTHpHVHFjaXFjTEs5NzFoZw?oc=5"
         }
       ]
     },
@@ -57,11 +141,23 @@
       "id": "78d21496bcc9",
       "title": "Scientists Found The Atomic Reason That Gold Refuses to Rust - ScienceAlert",
       "published": "2026-05-22T12:04:31+00:00",
-      "summary": "Scientists Found The Atomic Reason That Gold Refuses to Rust&nbsp;&nbsp;ScienceAlertPhysics explains why gold stays pristine&nbsp;&nbsp;Science NewsHow does gold keep its glitter? Researchers uncover why it resists tarnish&nbsp;&nbsp;Phys.orgScientists discover why gold doesn’t ‘rust’&nbsp;&nbsp;Scientific AmericanScientists Identify Atomic Trick That Keeps Gold Shiny&nbsp;&nbsp;Gizmodo",
+      "summary": "Scientists Found The Atomic Reason That Gold Refuses to Rust&nbsp;&nbsp;ScienceAlertHow does gold keep its glitter? Researchers uncover why it resists tarnish&nbsp;&nbsp;Phys.orgPhysics explains why gold stays pristine&nbsp;&nbsp;Science NewsScientists discover why gold doesn’t ‘rust’&nbsp;&nbsp;Scientific AmericanScientists Identify Atomic Trick That Keeps Gold Shiny&nbsp;&nbsp;Gizmodo",
       "sources": [
         {
           "name": "ScienceAlert",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYmRGZ28tSHdabnhabEFJTWRGYm1iaV9Ka0dnZTlCX29reFJYczd0RU12VmozQkRnMlFtOWxYOHk1V1pJcW9JMUhuMjdjek5YYV91OVROelVDQTlLM0tYNG54a213ZGM1SDB4UjRCa3M5TmxFTm43cG52YmVobnJTdG14dmpqYW5KWDlTZm00NDFaOUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1ef14e5d9efb",
+      "title": "Lilly and Novo Weight-Loss Drugs Show Potential Cancer Benefits - Yahoo Finance",
+      "published": "2026-05-22T12:02:55+00:00",
+      "summary": "Lilly and Novo Weight-Loss Drugs Show Potential Cancer Benefits&nbsp;&nbsp;Yahoo FinanceWeight-Loss Drugs May Have Surprising Side Effect: Stalling Cancer&nbsp;&nbsp;WSJGLP-1 drugs may reduce the risk of cancer progressing, study suggests&nbsp;&nbsp;NBC NewsGLP-1s Linked to Lower Risk of Cancer Spread in Four Tumor Types&nbsp;&nbsp;MedPage TodayASCO 2026: GLP-1s could reduce the risk of some obesity-related cancers progressing&nbsp;&nbsp;Oncology Central",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRDJETkI4dW9nZU1SN3BVWlpHVkJTNlA5ZlBfYkRwTTFsdU9PQ0dyYmthdV83My1acDMzZkVjcmgyTG05bGVSVklIQ3JWcFAtdDZ5R3ZQTHh6TXFadGhpUlBhMFFoTnBRS3I0MFQ5WmNrMXExUnFfWjhKcGdPazlZbUFHaVloUDg0WDhyWk1nVGlOVUxxOVVvN1ZZXzhUdw?oc=5"
         }
       ]
     },
@@ -78,10 +174,22 @@
       ]
     },
     {
+      "id": "161ea0086b50",
+      "title": "Inside an African lab that helped crack the hantavirus outbreak - Yahoo",
+      "published": "2026-05-22T11:17:50+00:00",
+      "summary": "Inside an African lab that helped crack the hantavirus outbreak&nbsp;&nbsp;YahooSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc20xdnVRTjVFZHdxOHo5X3AwT0dteHFTZ0Rmc0tGcDNkVFpaUFhyWkM0ZVlqOW1CeW1LNFQ0cGFzaHlOczlHY212TzE2TFdSWkh3MFFaeTRwMFI4d3RlenJzMkc0akt6czY3RFBObDVLSlFQVFVQeVNVTU9kTE5JRzQ4TmVHRG9lazM5VjBtb3lQWUtw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "25c5ec45159c",
       "title": "Deadly Measles Outbreak Sickens Thousands of Children in Bangladesh - The New York Times",
       "published": "2026-05-22T10:12:38+00:00",
-      "summary": "Deadly Measles Outbreak Sickens Thousands of Children in Bangladesh&nbsp;&nbsp;The New York TimesWhy a deadly, massive measles outbreak in Bangladesh has some U.S. health experts concerned&nbsp;&nbsp;CBS NewsInterim government responsible for measles child deaths: DSCC admi&nbsp;&nbsp;Views BangladeshLicensable picture: A Severe Measles Outbreak In Bangladesh.&nbsp;&nbsp;Reuters ConnectMeasles outbreak: Toll rises to 499 as 11 children die in 24 hours&nbsp;&nbsp;Dhaka Tribune",
+      "summary": "Deadly Measles Outbreak Sickens Thousands of Children in Bangladesh&nbsp;&nbsp;The New York TimesWhy a deadly, massive measles outbreak in Bangladesh has some U.S. health experts concerned&nbsp;&nbsp;CBS NewsBangladesh on the verge of passing 60,000 measles cases and 500 deaths&nbsp;&nbsp;Outbreak News TodayBangladesh: Situation Report #4 - Measles Outbreak (21 May 2026)&nbsp;&nbsp;ReliefWebMeasles outbreak: Toll rises to 499 as 11 children die in 24 hours&nbsp;&nbsp;Dhaka Tribune",
       "sources": [
         {
           "name": "The New York Times",
@@ -114,6 +222,42 @@
       ]
     },
     {
+      "id": "ec4d853aa36f",
+      "title": "Atlas reveals rocks with rare earth element potential, helping pinpoint new deposits - Phys.org",
+      "published": "2026-05-22T09:00:09+00:00",
+      "summary": "Atlas reveals rocks with rare earth element potential, helping pinpoint new deposits&nbsp;&nbsp;Phys.orgThe Strange Rocks That Could Loosen China’s Grip on Rare Earths&nbsp;&nbsp;ScienceBlog.comHow to find rare earths on your property: University of Cambridge research creates 'new atlas' to help locate critical deposits of these metals&nbsp;&nbsp;CPG Click Petróleo e GásScientists map rocks with rare earth element potential, helping pinpoint new deposits [IMAGE]&nbsp;&nbsp;EurekAlert!'New atlas'",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MTDI4TzBrbTlWMXhEaEl3OGFqWThyamtJdkIxQkRfSWlDRV9HMF9mUjRVd0dyNDRRYTMzell0TzlOWGdoTXhDSkpTRUMzSk9rUF9rQUp6NTRXRm1kcmhzOFpyc2MtM1FzdEdKeUNrNHQwQ1NPZVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "39f40bc1f330",
+      "title": "Menopause: Plant-Forward Diets Can Help With Weight Management - Healthline",
+      "published": "2026-05-22T05:24:03+00:00",
+      "summary": "Menopause: Plant-Forward Diets Can Help With Weight Management&nbsp;&nbsp;HealthlineHealthy dietary patterns can help control menopause-related weight gain&nbsp;&nbsp;Harvard T.H. Chan School of Public Health7 foods to avoid and eat during menopause, according to a dietician&nbsp;&nbsp;The Times of IndiaThe diet proven to prevent menopause weight gain revealed – 4 foods to avoid&nbsp;&nbsp;thesun.co.uk2 diets found to prevent menopause weight gain — and you don’t have to give up carbs&nbsp;&nbsp",
+      "sources": [
+        {
+          "name": "Healthline",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaXdrZE0yZDJkU2NTRmI2UjROLUI1RjFPcERyQm1sM3JBejFHY2Npa0pqaDNLRVNiRDBTV0doWFdlVDBhczFsTXYzMEI5dlU5RVRTSHR6OUZOUzQwN21acmIwZEsxVjllLVNmcFBic0NwZG9iOUtWUVJzMWlqUFFzTjNyajZhVE8yaHhlLVVldw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ba6958337d9e",
+      "title": "The Surprising Sign You’re Experiencing Cognitive Decline, According to a New Study - EatingWell",
+      "published": "2026-05-22T00:25:00+00:00",
+      "summary": "The Surprising Sign You’re Experiencing Cognitive Decline, According to a New Study&nbsp;&nbsp;EatingWellSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSU14dnJZWDVObDUzdC1kZUxsdlBfMW83ODJ1ZDE2RHhtcWplcTRZaXdQTjlSUmhjSXNpRnRlM0h6RXNoejY1dmJmVXZPMmctQ21WcUFaX0JSWGMycnFJSW1rSVRUZ2ZmRWVJWUdZQndzazR2TlRQOFc0ajRuUDRDWG5Pbw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6961bac02f33",
       "title": "Trump Officials’ Strict Stand on Ebola Leaves Health Experts ‘Stunned’ - The New York Times",
       "published": "2026-05-21T23:55:24+00:00",
@@ -126,10 +270,22 @@
       ]
     },
     {
+      "id": "2ca576435471",
+      "title": "Spinach-Based Eye Drops Could Help Treat a Common Eye Condition - ScienceAlert",
+      "published": "2026-05-21T23:33:51+00:00",
+      "summary": "Spinach-Based Eye Drops Could Help Treat a Common Eye Condition&nbsp;&nbsp;ScienceAlertPlant-based eye drops harness photosynthesis to heal dry eyes&nbsp;&nbsp;News-MedicalA promising new strategy for treating dry eye disease&nbsp;&nbsp;Baylor College of Medicine Blog Network -Can eyes self-moisturise under light? NUS study uses ‘photosynthesis’ to treat dry eye disease&nbsp;&nbsp;NUS - National University of SingaporeNUS scientists use photosynthesis to treat dry eye&nbsp;&nbsp;The Straits Time",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT2FncmU3NExhdnNGR2I0NS1FaG14Nm9tNzJGdkYtOHJwYm1STnhvbkdLSURiRXpFMDhYUjdyN0xGR2dsa1NEa2l0VEdsNENTSFZWZTRKcHJGMFprdEh5VnphYnZYTG12QVBveEhyZl8xSEtvX2JxdlFITTJvcmtTb25aMGN6ZDJXdTk4cU5sT3JDR3JtRElj?oc=5"
+        }
+      ]
+    },
+    {
       "id": "77267c142b45",
       "title": "‘Shocking number’ of PNW rodents may carry hantavirus, Scientific American says - OregonLive.com",
       "published": "2026-05-21T23:08:00+00:00",
-      "summary": "‘Shocking number’ of PNW rodents may carry hantavirus, Scientific American says&nbsp;&nbsp;OregonLive.comIn Idaho’s Suburbs, a Rat Invasion Tests the Limits of Small Government&nbsp;&nbsp;The New York TimesHantavirus risk from rodents may be higher in Pacific Northwest&nbsp;&nbsp;USA TodayHantavirus exposure risk may be higher than believed in parts of US, study finds&nbsp;&nbsp;Fox NewsStudy finds deadly hantavirus more widespread in Pacific Northwest rodents than expected&nbsp;&nbsp;KOMO",
+      "summary": "‘Shocking number’ of PNW rodents may carry hantavirus, Scientific American says&nbsp;&nbsp;OregonLive.comIn Idaho’s Suburbs, a Rat Invasion Tests the Limits of Small Government&nbsp;&nbsp;The New York TimesHantavirus exposure risk may be higher than believed in parts of US, study finds&nbsp;&nbsp;Fox NewsHantavirus prevalence in Pacific Northwest rats raises new concerns&nbsp;&nbsp;KOIN.comHantavirus risk from rodents may be higher in Pacific Northwest&nbsp;&nbsp;USA Today",
       "sources": [
         {
           "name": "OregonLive.com",
@@ -141,7 +297,7 @@
       "id": "ff2e3bba1a26",
       "title": "Measles infections detected at 2 Heber City schools as Utah cases continue to rise - KSL.com",
       "published": "2026-05-21T23:04:24+00:00",
-      "summary": "Measles infections detected at 2 Heber City schools as Utah cases continue to rise&nbsp;&nbsp;KSL.comPositive measles cases identified at Old Mill Elementary, Timpanogos Middle in Heber City&nbsp;&nbsp;KUTVMeasles cases identified at Wasatch County schools; health official says exposures possible&nbsp;&nbsp;KSL TV 5In Utah, still a national hotspot, measles cases hit 663&nbsp;&nbsp;Utah News DispatchUtah measles cases hit 474 this year, up 30 in 3 weeks&nbsp;&nbsp;Gephardt Daily",
+      "summary": "Measles infections detected at 2 Heber City schools as Utah cases continue to rise&nbsp;&nbsp;KSL.comPositive measles cases identified at Old Mill Elementary, Timpanogos Middle in Heber City&nbsp;&nbsp;KUTVMeasles cases identified at Wasatch County schools; health official says exposures possible&nbsp;&nbsp;KSL TV 5In Utah, still a national hotspot, measles cases hit 663&nbsp;&nbsp;Utah News DispatchMeasles outbreak in Utah climbs to 663 cases&nbsp;&nbsp;American Hospital Association",
       "sources": [
         {
           "name": "KSL.com",
@@ -150,26 +306,14 @@
       ]
     },
     {
-      "id": "9d45501dc594",
-      "title": "Ancient seas get a new T. rex as massive mosasaur emerges from Texas fossils - Phys.org",
-      "published": "2026-05-21T23:00:03+00:00",
-      "summary": "Ancient seas get a new T. rex as massive mosasaur emerges from Texas fossils&nbsp;&nbsp;Phys.org‘T. rex of the sea’: D-FW researchers identify new ancient marine species&nbsp;&nbsp;Dallas NewsNorth Texas fossils reveal giant predator dubbed ‘T. rex of the sea'&nbsp;&nbsp;NBC 5 Dallas-Fort WorthThe newly-identified 'T. rex of the ancient sea' unveiled at Perot Museum&nbsp;&nbsp;WFAAExclusive: There’s a new T. rex in town—and this giant beast ruled the seas&nbsp;&nbsp;National Geographic",
+      "id": "20c06c5ee84a",
+      "title": "Two Legionnaires’ Cases Found at East Village Complex - THE CITY - NYC News",
+      "published": "2026-05-21T22:37:47+00:00",
+      "summary": "Two Legionnaires’ Cases Found at East Village Complex&nbsp;&nbsp;THE CITY - NYC NewsNYC health department investigates Legionnaires' cases in East Village&nbsp;&nbsp;GothamistLegionnaires' disease concerns at East Village housing complex prompts NYC Health Department response&nbsp;&nbsp;CBS NewsCity investigates possible Legionnaires’ exposure in East Village building&nbsp;&nbsp;Crain's New YorkNYC Health Department advising residents of East Village complex of Legionnaire's Disease&nbsp;&nbsp;Y",
       "sources": [
         {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YNDhVZEpySWVzTE1iU0VCaVpyZzVIak15SFB4QzhhZXEyN0h2aURZQ2xYVlhPVHRNSkYzRWFpQ0Z6UWd0NmZwd3FGREtnMmoyR2h2NW5DUUZpWFNyRG1uT1NyVXZsRTdERzVqYW11a3BZbDZpVW00?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e75b6cde31e3",
-      "title": "Nearly 1.2 billion people worldwide are living with mental disorders. The number has been growing - CNN",
-      "published": "2026-05-21T22:30:54+00:00",
-      "summary": "Nearly 1.2 billion people worldwide are living with mental disorders. The number has been growing&nbsp;&nbsp;CNNNearly 1.2 billion people worldwide are living with mental disorders&nbsp;&nbsp;CNNWorld’s burden of mental disorders doubled since 1990&nbsp;&nbsp;UQ NewsThe numbers behind global mental health and its different disorders&nbsp;&nbsp;Al JazeeraGlobal mental health cases nearly double to 1.2 billion, study&nbsp;&nbsp;Euronews",
-      "sources": [
-        {
-          "name": "CNN",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQTJNWjg2SDltaTFxbmI4LXdWNGxDSEdUY3FhRmtxQ0ZqM1lvSkZ6V3FqV2pGLTA2V2ZMZVdBOTdpaV9wNGRob2ZadjFYbTV0RzlXYVR6OURaN04yN0gtcjdqYmZLMHV2cl9mYmRpZ0h4UEVBczdWb2c2ckUySkFxRnJTaEpHdGtpY1NV?oc=5"
+          "name": "THE CITY - NYC News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGRNU1Mwc2hLcXE1MnJ4aGVuQXVLZmY4Z2R6bUowZUlyQml6VDM0d1JWckZuU2tVemNLUmpyZXQ2WHFxRHRWTjBlLXZRcjFnWEpCNm5jbjZfYXhpZElIWWJKaHlyNjdsejNSemtwYi0yaVF5NEQ2SnRrcGY2Z1RJMm9GNkU3ZlEwbGloWDJZa2s3TC1DeHJV?oc=5"
         }
       ]
     },
@@ -186,6 +330,18 @@
       ]
     },
     {
+      "id": "87891b29408b",
+      "title": "19-meter-long giant octopuses likely kings of Cretaceous seas - 朝日新聞",
+      "published": "2026-05-21T22:00:00+00:00",
+      "summary": "19-meter-long giant octopuses likely kings of Cretaceous seas&nbsp;&nbsp;朝日新聞A massive kraken-like octopus may have prowled the seas during the age of dinosaurs&nbsp;&nbsp;Phys.orgEnormous octopuses: The apex predators of ancient oceans&nbsp;&nbsp;News Arena IndiaReal kraken? Ancient predators up to 19m long&nbsp;&nbsp;The Straits TimesKraken-like giant octopus ruled the seas in the time of the dinosaurs, study suggests&nbsp;&nbsp;MSN",
+      "sources": [
+        {
+          "name": "朝日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FUnU0eDBGemJYS2RPREJ4dDBBb3hzZzhXTlF4cmxOOGp1TFctdFRtMGw4SS1iN3pkS3R1WlJ0Y3VOd1lnanY5Ymw0OWNwNmRNSUJoVmJn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b8c8d599c958",
       "title": "Particle-by-particle tracking reveals uneven nanoparticle drug release - Phys.org",
       "published": "2026-05-21T21:50:01+00:00",
@@ -198,14 +354,26 @@
       ]
     },
     {
-      "id": "78681af944ec",
-      "title": "GLP-1 drugs may reduce the risk of cancer progressing, study suggests - NBC News",
-      "published": "2026-05-21T21:02:20+00:00",
-      "summary": "GLP-1 drugs may reduce the risk of cancer progressing, study suggests&nbsp;&nbsp;NBC NewsGLP-1 Weight Loss Drugs May Reduce the Chance of Certain Cancers Progressing, New Study Suggests&nbsp;&nbsp;People.comGLP-1s Linked to Lower Risk of Cancer Spread in Four Tumor Types&nbsp;&nbsp;MedPage TodayWeight-Loss Drugs May Have Surprising Side Effect: Stalling Cancer&nbsp;&nbsp;WSJOzempic and other GLP-1 RAs could slow progression of some cancers, data suggest&nbsp;&nbsp;Medical Xpress",
+      "id": "d4a8fa50a292",
+      "title": "Experts Reveal the Symptoms of Hantavirus You Should Watch For - AOL.com",
+      "published": "2026-05-21T21:04:10+00:00",
+      "summary": "Experts Reveal the Symptoms of Hantavirus You Should Watch For&nbsp;&nbsp;AOL.comA critical window to stop hantavirus is opening. Not all countries are managing exposed travelers the same way&nbsp;&nbsp;CNNWHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus II: hantavirus natural history, infection control and clinical management of patients in hospital&nbsp;&nbsp;World Health Organization (WHO)Hantavirus cases linked to cruise ship rise to 12 after crew member tests positive&nbsp;&nbsp;",
       "sources": [
         {
-          "name": "NBC News",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTENubnU0WThwc2FYY0ZaSjNrNjRoWGpHRnZaaGhfaHY0SVNXejJpdDdoU19HVVM4bGRvZEo5aDhwZUhNY1h5eEhWVDZOLWhMNk1ZNmNfVGNwWVBQYmw0c2YyRjVxajVCYlQyWmZnSWpIZ3VHTTNnY2hqdjd2cHctVjJ3dGdSdkEtQ1dmSkFtMUI4X054TjlBQmJaZmo3STdaSG9DNFZ1NnhOaFpuTVlN?oc=5"
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUXpnaXJVdmRYUFd4OUtjaFdqeWFHUDE3aFRTYk82eFl6RGprdmNDVzZHRVVJOE9td08zNGNBSWdpNlhxcVBjQzlRclk5UHZWZ1psQXVUQVdwUzRlRGlTdjdUTDk1X2JHZ29FRW9Wc2E5VjFDWTFpM0dpM3B5X2Z2YkN2V2F2Y3RKZ1ZoOQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e9f80fc4e720",
+      "title": "Machine Learning Doubles Depression Remission Rate - Neuroscience News",
+      "published": "2026-05-21T20:59:45+00:00",
+      "summary": "Machine Learning Doubles Depression Remission Rate&nbsp;&nbsp;Neuroscience NewsPersonalized machine learning guided intervention for optimizing lifestyle behaviors in depression: a pilot study&nbsp;&nbsp;NatureMachine Learning Matched the Right Lifestyle Fix to Each Depressed Patient, Doubling Remission Rates&nbsp;&nbsp;ScienceBlog.comMachine Learning Personalizes Depression Treatment with the Help of Wearable Technology&nbsp;&nbsp;UC San Diego Today",
+      "sources": [
+        {
+          "name": "Neuroscience News",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wekc0Wk9Ua0kxd1ZuVnRqT1ZCcmFhN2dzeGpMODhVQUVOUUZGdkIxSnJNVFk0MXVHREZkNjRWa0YyU24yTnVvX3VmVW4wcEU3UlY2VDRKRkRmQVpsOFB6bzJYdWRPVVJNVVdBSGMwWkQ1TDl3Umpz?oc=5"
         }
       ]
     },
@@ -222,10 +390,34 @@
       ]
     },
     {
+      "id": "939e216fecd7",
+      "title": "Women Are Arguing Online About This Health Procedure, And We Really, Really Need To Talk - BuzzFeed",
+      "published": "2026-05-21T20:39:34+00:00",
+      "summary": "Women Are Arguing Online About This Health Procedure, And We Really, Really Need To Talk&nbsp;&nbsp;BuzzFeed",
+      "sources": [
+        {
+          "name": "BuzzFeed",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13UzNGMXNoeFNmdXd6TllpZ0otMFdCTXZ1ZEJxaU50ajFidTNhYzF2Njd6MDZJSjd0OERMYzh3MERDYzdHcTBjOWc1ZDUwNWNqUERia1AyYVNQY3A2eE5RR0dVVXUyNC1CdG40c0N3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1ba4644f96e9",
+      "title": "Structured Programs Physically Slow Down Biological Aging - Neuroscience News",
+      "published": "2026-05-21T20:24:14+00:00",
+      "summary": "Structured Programs Physically Slow Down Biological Aging&nbsp;&nbsp;Neuroscience NewsPurdue Professor Discusses How to Keep Your Brain Healthy As You Age&nbsp;&nbsp;WIBC 93.1 FMStructured Coaching and Exercise Can Measurably Slow the Aging Process, Major Clinical Trial Finds&nbsp;&nbsp;ScienceBlog.comStructured Lifestyle Programs May Help Slow Aging in Older Adults, Study Finds | Newswise&nbsp;&nbsp;NewswiseProtecting the Brain Before Symptoms Appear&nbsp;&nbsp;Al Día News",
+      "sources": [
+        {
+          "name": "Neuroscience News",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4ZktCajRYTUlrTzVKRW9sdHhEbnBmYVVkb3RJczJFc0RheWVuNVU1MzNkYjJBX3JfZ2FDSTJaM3pBVFA1UmJIVmJOR2FsQ1JZdkM0a240YnJLejE3dk90Zzk3aEx0Y2hiZnpEa1NRMA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "cc4a29cee030",
       "title": "Acting head of US NIH infectious disease institute has left, senators say - Reuters",
       "published": "2026-05-21T20:21:44+00:00",
-      "summary": "Acting head of US NIH infectious disease institute has left, senators say&nbsp;&nbsp;ReutersNIH behind in filling top roles, with 15 of 27 institutes led by acting directors&nbsp;&nbsp;statnews.comTop NIH infectious diseases official steps down: reports&nbsp;&nbsp;FirstWord PharmaActing NIAID Chief Steps Down Amid Ebola, Hantavirus Concerns&nbsp;&nbsp;U.S. News & World ReportEbola outbreak collides with NIH turmoil&nbsp;&nbsp;The Washington Post",
+      "summary": "Acting head of US NIH infectious disease institute has left, senators say&nbsp;&nbsp;ReutersHearing bombshell: Acting director of NIH’s infectious disease institute is out&nbsp;&nbsp;Science | AAASTop NIH infectious diseases official steps down: reports&nbsp;&nbsp;FirstWord PharmaTrump administration ousts top NIH infectious disease leaders&nbsp;&nbsp;Scientific AmericanActing head of NIH’s infectious disease institute reported to have stepped down&nbsp;&nbsp;statnews.com",
       "sources": [
         {
           "name": "Reuters",
@@ -234,10 +426,22 @@
       ]
     },
     {
+      "id": "2dcfb27d9b67",
+      "title": "Why energy fades with age: Missing membrane lipid may destabilize mitochondria - Medical Xpress",
+      "published": "2026-05-21T20:20:05+00:00",
+      "summary": "Why energy fades with age: Missing membrane lipid may destabilize mitochondria&nbsp;&nbsp;Medical XpressMitochondrial Aging Linked to Losing Crucial Membrane Lipid&nbsp;&nbsp;Lifespan Research Institute",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdTNrakxZVk82UjQzOUVYODhFYWstVFQ5N05iYUYxZUk2Wl9GeXd0V3l3b1FnTGpWYlktSy12djI4dkFtbE5BYTh1RWJjckoybWNMblN5aUlBdk5CWERjSVRyZENuQTh4ODJSUmZmTkdlb0E5N2lZV3lrdXpEZlZEZE5UcFZsMVhT?oc=5"
+        }
+      ]
+    },
+    {
       "id": "74829523416f",
       "title": "American passenger feels 'betrayed' by federal order to stay in hantavirus quarantine - NPR",
       "published": "2026-05-21T20:19:09+00:00",
-      "summary": "American passenger feels 'betrayed' by federal order to stay in hantavirus quarantine&nbsp;&nbsp;NPRN.Y. man who was on hantavirus cruise ship says Nebraska isolation center feels like ‘prison’&nbsp;&nbsp;NBC NewsHantavirus update: Nebraska officials awaiting CDC guidance on passengers’ release&nbsp;&nbsp;WOWTUS health officials order quarantine for 2 passengers from cruise ship with hantavirus outbreak&nbsp;&nbsp;AP NewsAmerican passenger on hantavirus-hit cruise feels ‘blindsided’ and ‘misled’",
+      "summary": "American passenger feels 'betrayed' by federal order to stay in hantavirus quarantine&nbsp;&nbsp;NPRN.Y. man who was on hantavirus cruise ship says Nebraska isolation center feels like ‘prison’&nbsp;&nbsp;NBC NewsHantavirus update: Nebraska officials awaiting CDC guidance on passengers’ release&nbsp;&nbsp;WOWTAmericans exposed to hantavirus on ship enjoy some Nebraska hospitality while waiting in quarantine&nbsp;&nbsp;AP NewsWatch: Nebraska Medicine, UNMC experts give update on hantavirus passen",
       "sources": [
         {
           "name": "NPR",
@@ -273,7 +477,7 @@
       "id": "529985fe841d",
       "title": "Neanderthals gathered shellfish like modern humans 115,000 years ago, study finds - Archaeology News Online Magazine",
       "published": "2026-05-21T19:58:16+00:00",
-      "summary": "Neanderthals gathered shellfish like modern humans 115,000 years ago, study finds&nbsp;&nbsp;Archaeology News Online MagazineWCS to cut up to 7 positions amid declining enrollment&nbsp;&nbsp;Watauga DemocratNeanderthals dined on shellfish much earlier than humans&nbsp;&nbsp;Popular ScienceNeanderthals Snacked on Shellfish During the Winter, a Seasonal Pattern Later Seen in Modern Humans&nbsp;&nbsp;Discover MagazineNews - Spain’s Neanderthals Preferred Seasonal Shellfish&nbsp;&nbsp;Archaeology Ma",
+      "summary": "Neanderthals gathered shellfish like modern humans 115,000 years ago, study finds&nbsp;&nbsp;Archaeology News Online MagazineWCS to cut up to 7 positions amid declining enrollment&nbsp;&nbsp;Watauga DemocratNeanderthals Snacked on Shellfish During the Winter, a Seasonal Pattern Later Seen in Modern Humans&nbsp;&nbsp;Discover MagazineNeanderthals consumed mollusks as early as 115,000 years ago, especially during the colder months&nbsp;&nbsp;EL PAÍS EnglishNews - Spain’s Neanderthals Preferred Sea",
       "sources": [
         {
           "name": "Archaeology News Online Magazine",
@@ -296,7 +500,7 @@
     {
       "id": "6e587af20c35",
       "title": "Can Allegra and Pepcid AC Really Ease Menopause or Period Symptoms? - The New York Times",
-      "published": "2026-05-21T19:06:36+00:00",
+      "published": "2026-05-21T18:31:58+00:00",
       "summary": "Can Allegra and Pepcid AC Really Ease Menopause or Period Symptoms?&nbsp;&nbsp;The New York TimesAllegra and Pepcid: What Does it Help With?&nbsp;&nbsp;WebMD",
       "sources": [
         {
@@ -318,22 +522,10 @@
       ]
     },
     {
-      "id": "3ed9bf9c59f0",
-      "title": "Scientists May Finally Know Why T. Rex Had Such Tiny Arms - ScienceAlert",
-      "published": "2026-05-21T18:05:16+00:00",
-      "summary": "Scientists May Finally Know Why T. Rex Had Such Tiny Arms&nbsp;&nbsp;ScienceAlertWhy meat-eating dinosaurs like T. rex evolved tiny arms&nbsp;&nbsp;Phys.orgTyrannosaurus Rex’s tiny arms finally explained by scientists&nbsp;&nbsp;News.com.auWhy were T. rex’s arms so tiny? Paleontologists finally find an answer.&nbsp;&nbsp;Popular ScienceT. rex didn't evolve tiny arms because its body got bigger — it evolved tiny arms because its jaws got more powerful, according to a new study of 82 meat-eating d",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVnEyTEQ2RUYxSXpjbmVsa1FSakdmZXRpRTNTMHI4cTlSS0EtdWt2Tk5QR2Y3RUFjWnJqMktRcDNWVWEzTno1MEtuRWFWcVNLTUlubUpXUmFFX2o1VWpQTFBQNGJNMnk4RzN5Ni1tcnJ5RTMwNDdSY0NZamFFQmgxdTNQeldqSFh0dVQ0ekZn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "711b855a34af",
       "title": "32 measles cases reported in Pa., almost half of them in 1 county - PennLive.com",
       "published": "2026-05-21T18:05:00+00:00",
-      "summary": "32 measles cases reported in Pa., almost half of them in 1 county&nbsp;&nbsp;PennLive.com2 Ephrata Mennonite School students diagnosed with measles; have since recovered&nbsp;&nbsp;LancasterOnline32 measles cases reported in Pa., including 20 in past month&nbsp;&nbsp;Pittsburgh Post-GazettePennsylvania Department of Health confirms 3 new measles cases in the Susquehanna Valley&nbsp;&nbsp;WGALMeasles cases continue to spread in Pa., hitting the highest number since 1991&nbsp;&nbsp;Pittsburgh Post",
+      "summary": "32 measles cases reported in Pa., almost half of them in 1 county&nbsp;&nbsp;PennLive.comMeasles cases continue to spread in Pa., hitting the highest number since 1991&nbsp;&nbsp;Pittsburgh Post-Gazette2 Ephrata Mennonite School students diagnosed with measles; have since recovered&nbsp;&nbsp;LancasterOnlinePennsylvania Department of Health confirms 3 new measles cases in the Susquehanna Valley&nbsp;&nbsp;WGALMore measles cases are reported in Lebanon, Lancaster, and Berks counties&nbsp;&nbsp;MS",
       "sources": [
         {
           "name": "PennLive.com",
@@ -342,10 +534,22 @@
       ]
     },
     {
+      "id": "cce1fb11da83",
+      "title": "Cardiologists Warn: Sleeping with the TV On Can Harm Your Heart Health - AOL.com",
+      "published": "2026-05-21T18:04:45+00:00",
+      "summary": "Cardiologists Warn: Sleeping with the TV On Can Harm Your Heart Health&nbsp;&nbsp;AOL.comSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLXJWRC1WZjJacmRrT1hsV0JqMWNRcG9qdzB6SGJQRDdqdEVYSUIxRHdrVE9xdmhFT0NtcU42RlNMbmF1amJuZU9jbUZBQklzQnhHcUVGZ084M0dsQ29PS242XzFEUUJiSXQzNEhydEVKR0RsY2xUa2hKSE1acEcyMXhJcGdLdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e91ba7935460",
       "title": "Sleep helps brain clean Alzheimer’s-linked toxins, study says - Financial Times",
       "published": "2026-05-21T18:00:04+00:00",
-      "summary": "Sleep helps brain clean Alzheimer’s-linked toxins, study says&nbsp;&nbsp;Financial TimesAn Early Warning Sign of Alzheimer's May Be Keeping Some Women Up at Night&nbsp;&nbsp;ScienceAlertThe brain's night shift: How sleep, waste clearance and dementia may be linked&nbsp;&nbsp;Medical XpressAbout 50% of dementia cases are preventable: This is the main influencing factor&nbsp;&nbsp;The Jerusalem PostCould how well you sleep be linked to diseases like dementia?&nbsp;&nbsp;CTV News",
+      "summary": "Sleep helps brain clean Alzheimer’s-linked toxins, study says&nbsp;&nbsp;Financial TimesAn Early Warning Sign of Alzheimer's May Be Keeping Some Women Up at Night&nbsp;&nbsp;ScienceAlertThe brain's night shift: How sleep, waste clearance and dementia may be linked&nbsp;&nbsp;Medical XpressCould how well you sleep be linked to diseases like dementia?&nbsp;&nbsp;CTV NewsPoor Sleep Tied to Alzheimer’s Risk in Older Women&nbsp;&nbsp;UC San Diego Today",
       "sources": [
         {
           "name": "Financial Times",
@@ -354,14 +558,14 @@
       ]
     },
     {
-      "id": "908c6f748174",
-      "title": "‘Do travel bans even work?’ Answering questions about Ebola and hantavirus - The Washington Post",
-      "published": "2026-05-21T18:00:00+00:00",
-      "summary": "‘Do travel bans even work?’ Answering questions about Ebola and hantavirus&nbsp;&nbsp;The Washington PostEbola international emergency, hantavirus update, ticks, heat, opioid deaths decline, and more.&nbsp;&nbsp;Your Local EpidemiologistThe Ebola and Hantavirus Outbreaks Offer an Ominous Warning&nbsp;&nbsp;Time MagazineStopping Outbreaks At Source: Pandemic Preparedness Stumbles At Local Level&nbsp;&nbsp;Health Policy WatchThe world is more at risk of a pandemic now than before COVID, experts sa",
+      "id": "8539fdd340a0",
+      "title": "Study Maps 175 Vicious Mental Health Loops - Neuroscience News",
+      "published": "2026-05-21T17:47:18+00:00",
+      "summary": "Study Maps 175 Vicious Mental Health Loops&nbsp;&nbsp;Neuroscience NewsSleep Problems: Why do young people struggle with sleep and mental health?&nbsp;&nbsp;The Times of IndiaWhy are young people's sleep and mental health so poor? Researchers point to 'vicious cycles'&nbsp;&nbsp;Medical XpressPoor screen habits are a key factor behind the terrible sleep and mental health of youngsters, says research&nbsp;&nbsp;Digital Trends",
       "sources": [
         {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOFExb3JFUVVFb1JoWUNfTDUxSml2OEp0Zm9qNTRmTEJ2Wm5yeEV2UGswbzNCYkN1eFE1TU96eEUwWHJiTS1HX19yZkw3bVJiYUhkU3hKalh2UGJXb0VOWXA5V0wwa2w2UHhxOUpFRi04TzNuN2xoTld5ZFpwajJ2T2xjM0U2Ukp5OW1Qc2lOVXI4VUR0MzVHSTNFZ3hLVTg?oc=5"
+          "name": "Neuroscience News",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5TUp2RnFKcWdMRlF4TUxsMjFBUDBSY2tBcGVPRWJqQWw3UjQ0YkY5RlYwcVlqQjJmZmttRUFwc2JBcUZCZVpoald1ZkYwV2V1NGRWUVU1VHh0ZzhNVHJfN0ZoYWJqQkNBSjVDbXRkeHk0Zw?oc=5"
         }
       ]
     },
@@ -381,23 +585,11 @@
       "id": "ffa46c334745",
       "title": "Rocks Kept in a Warehouse For Decades Held a Major Clue to Complex Life - ScienceAlert",
       "published": "2026-05-21T16:09:28+00:00",
-      "summary": "Rocks Kept in a Warehouse For Decades Held a Major Clue to Complex Life&nbsp;&nbsp;ScienceAlertEarly fossil eukaryotes were benthic aerobes&nbsp;&nbsp;NatureTiny fossils found in 1.7 billion-year-old mud yield clues to the evolution of complex life&nbsp;&nbsp;The ConversationEarly complex life clung to oxygenated seafloors for hundreds of millions of years, scientists discover&nbsp;&nbsp;Phys.orgEvidence for oldest complex life unearthed in Australian rocks&nbsp;&nbsp;SMH.com.au",
+      "summary": "Rocks Kept in a Warehouse For Decades Held a Major Clue to Complex Life&nbsp;&nbsp;ScienceAlertTiny fossils found in 1.7 billion-year-old mud yield clues to the evolution of complex life&nbsp;&nbsp;The ConversationEarly fossil eukaryotes were benthic aerobes&nbsp;&nbsp;NatureEarly complex life clung to oxygenated seafloors for hundreds of millions of years, scientists discover&nbsp;&nbsp;Phys.orgEvidence for oldest complex life unearthed in Australian rocks&nbsp;&nbsp;SMH.com.au",
       "sources": [
         {
           "name": "ScienceAlert",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMUQ0VkphNlhKSDdRLWNWR2tGMkpMOXVEQXdXaXJ6bWNvTGVBUkdqZWhnZS1KRGEtSEFSMWNKMTNkQ19rNGRQUFVyYnM5Tnl6SDZaajlTdFM2TkJhTGZtYkFrajFJVXBQaGFHODQyVU5NTkZnb3g5RkxYVzU5WWVYZmNJanNobVlnVzhJNFEwLURmeDlOVUJlMGJFTl9CaE5ValE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5df4905aefba",
-      "title": "Crystals of space and time: A structural phenomenon that may collapse into tiny black holes - Phys.org",
-      "published": "2026-05-21T16:00:03+00:00",
-      "summary": "Crystals of space and time: A structural phenomenon that may collapse into tiny black holes&nbsp;&nbsp;Phys.orgA Strange Black Hole Mystery Has Stumped Physicists Since 1993. Researchers May Finally Have the Answer&nbsp;&nbsp;GizmodoThe Mathematics That Turns Spacetime Into a Crystal, Then a Black Hole&nbsp;&nbsp;ScienceBlog.com",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhNk0tQ0JKc3ZfNlBXQjRyRzVfbU4wVTI3VldseW16dEhwdkNNcFRwWTd4clpmbHhoZGd4bWNNVzVyOEJUUTE3d3pKV2oza0tMdmpTMFY1TXlGVUw1YU5EbVh4LUk5cjhkWUZvRkdKS2Jra0ZlUnRPdXFNV092dkk?oc=5"
         }
       ]
     },
@@ -417,7 +609,7 @@
       "id": "f47c40269c6b",
       "title": "10-Cent Pill Could Transform Heart Failure Treatment Worldwide - SciTechDaily",
       "published": "2026-05-21T15:37:17+00:00",
-      "summary": "10-Cent Pill Could Transform Heart Failure Treatment Worldwide&nbsp;&nbsp;SciTechDailyOld Drugs, New Tricks: DECISION and Other Trials Inform on Cardiac Glycosides in HF&nbsp;&nbsp;TCTMD.comDigoxin may Reduce Mortality and Heart Failure Risk in Symptomatic Rheumatic Heart Disease, Suggests...&nbsp;&nbsp;Medical Dialogues",
+      "summary": "10-Cent Pill Could Transform Heart Failure Treatment Worldwide&nbsp;&nbsp;SciTechDailyMay 22, 2026 This Week in Cardiology Podcast&nbsp;&nbsp;MedscapeOld Drugs, New Tricks: DECISION and Other Trials Inform on Cardiac Glycosides in HF&nbsp;&nbsp;TCTMD.comDigoxin may Reduce Mortality and Heart Failure Risk in Symptomatic Rheumatic Heart Disease, Suggests...&nbsp;&nbsp;Medical Dialogues",
       "sources": [
         {
           "name": "SciTechDaily",
@@ -453,7 +645,7 @@
       "id": "be1237ea575f",
       "title": "The Oldest Evidence of Animal Sex Has Been Found, and It’s Mind-Boggling - 404 Media",
       "published": "2026-05-21T15:08:48+00:00",
-      "summary": "The Oldest Evidence of Animal Sex Has Been Found, and It’s Mind-Boggling&nbsp;&nbsp;404 MediaDiscovery of new fossils in Northwest Canada changes view of early animal evolution&nbsp;&nbsp;Phys.orgComplex animal life may be 10 million years older than scientists thought — and a new fossil site in northwestern Canada suggests it all started in the deep sea, not the shallow waters where most early fossils show up&nbsp;&nbsp;Space DailyComplex animals evolved up to 10 million years earlier than prev",
+      "summary": "The Oldest Evidence of Animal Sex Has Been Found, and It’s Mind-Boggling&nbsp;&nbsp;404 MediaDiscovery of new fossils in Northwest Canada changes view of early animal evolution&nbsp;&nbsp;Phys.orgComplex animals evolved up to 10 million years earlier than previously thought, fossil discovery shows&nbsp;&nbsp;Live ScienceThese bizarre fossils represent some of the earliest moving, sexually reproducing life ever discovered&nbsp;&nbsp;Scientific AmericanRare 567-million-year-old fossils refine our ",
       "sources": [
         {
           "name": "404 Media",
@@ -462,14 +654,14 @@
       ]
     },
     {
-      "id": "8b702b8deba6",
-      "title": "Irisin as a driver of neuroprotection in multiple sclerosis - Nature",
-      "published": "2026-05-21T14:57:49+00:00",
-      "summary": "Irisin as a driver of neuroprotection in multiple sclerosis&nbsp;&nbsp;NatureThe exercise hormone irisin has neuroprotective effects in a mouse model of multiple sclerosis&nbsp;&nbsp;NatureExercise hormone irisin could offer neuroprotective effects in multiple sclerosis&nbsp;&nbsp;Medical XpressExercise Hormone May Protect Neurons in Multiple Sclerosis&nbsp;&nbsp;Neuroscience News",
+      "id": "17b50e2b7fbd",
+      "title": "As GLP-1 drugs surge in popularity, bariatric surgery rates plunge across the US - Medical Xpress",
+      "published": "2026-05-21T14:10:01+00:00",
+      "summary": "As GLP-1 drugs surge in popularity, bariatric surgery rates plunge across the US&nbsp;&nbsp;Medical XpressGLP-1 Prescriptions Quadruple Since 2021 Alongside Decline In Obesity&nbsp;&nbsp;Epic SystemsGLP-1 use growing in recent years&nbsp;&nbsp;YahooBariatric surgeries on the decline as use of GLP-1 drugs rises&nbsp;&nbsp;Harvard T.H. Chan School of Public HealthGLP-1s vs Bariatric Surgery; Obesity Trends Reversing; Creatine for Menopause?&nbsp;&nbsp;MedPage Today",
       "sources": [
         {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xVllCamZKejMxeFVRekdweUJ5YTNiVkRNUWJhT3pZMEJFaEd1XzNWV0U4NHdQUENiMVpDblp4dE1YTTRTbm5EbEtRcGpWcUxjeDYybXBfVGNRTUxQeUhz?oc=5"
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV2Q4Um05cXd0U1RQX1M3S1FFeC1aZEljTERiYjY2X09WdEpJbmNkU09GX3dMN194ZGdfaVhDOXhmVTlPVDZIUTZiczQtYjJsby13dkw1anZ6WUtZaUZhd3FuV0FmTUxuMm9xOGNHMFIxWXJYOTRlY1hpRUdLTnBFbThYaXJsZTg?oc=5"
         }
       ]
     },
@@ -486,10 +678,22 @@
       ]
     },
     {
+      "id": "122f59aab738",
+      "title": "Strange stacked stones spotted on Mars | Space photo of the day for May 21, 2026 - Yahoo",
+      "published": "2026-05-21T14:00:00+00:00",
+      "summary": "Strange stacked stones spotted on Mars | Space photo of the day for May 21, 2026&nbsp;&nbsp;YahooStrange stacked stones spotted on Mars photo of the day for May 21, 2026&nbsp;&nbsp;SpacePerseverance rover stacked rocks on Mars astound in stunning discovery&nbsp;&nbsp;Pune MirrorMysterious Stacked Rocks Spotted by NASA Perseverance Rover on Mars&nbsp;&nbsp;Gadgets 360",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSndjSjNld1Zwd2NCY2dTV2hNYUZGLUljdVNwTmpFOERLTjdvT3A2c2I3cG42SHNaZjlzOEpaclZqM1lpZ1owMS1RSDNkVnZJbThjSDFVMHlKN2NxakR4T1NEUXBjU1hjYTVTRGdYd1ZXa2pGaW0tM3lWYkZ6Z0lyZ2xKck54SDdJMTBPQU1Jbw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9d6e958a569e",
       "title": "Scientists May Have Finally Solved Why Humans Are Right-Handed - SciTechDaily",
       "published": "2026-05-21T13:28:12+00:00",
-      "summary": "Scientists May Have Finally Solved Why Humans Are Right-Handed&nbsp;&nbsp;SciTechDailyWhy Is Nearly Every Person Right-Handed—but Not Every Ape and Monkey? New Research Explores the Evolutionary Origins of Human Handedness&nbsp;&nbsp;Smithsonian MagazineTwo Ancient Clues May Finally Explain Why 90% of Us Are Right-Handed&nbsp;&nbsp;ScienceAlertWhy Do We Prefer One Hand Over the Other? Scientists Have New Clues&nbsp;&nbsp;WSJWhy 90 percent of humans are right-handed&nbsp;&nbsp;Popular Science",
+      "summary": "Scientists May Have Finally Solved Why Humans Are Right-Handed&nbsp;&nbsp;SciTechDailyWhy Is Nearly Every Person Right-Handed—but Not Every Ape and Monkey? New Research Explores the Evolutionary Origins of Human Handedness&nbsp;&nbsp;Smithsonian MagazineTwo Ancient Clues May Finally Explain Why 90% of Us Are Right-Handed&nbsp;&nbsp;ScienceAlertWhy are so many people right-handed? New study sheds some light&nbsp;&nbsp;YahooWhy 90 percent of humans are right-handed&nbsp;&nbsp;Popular Science",
       "sources": [
         {
           "name": "SciTechDaily",
@@ -498,14 +702,50 @@
       ]
     },
     {
-      "id": "242eeee284f9",
-      "title": "After 30 years, Scientists Solve Mystery Of Deep Pacific Earthquake That Repeats Like Clockwork - IFLScience",
-      "published": "2026-05-21T12:07:23+00:00",
-      "summary": "After 30 years, Scientists Solve Mystery Of Deep Pacific Earthquake That Repeats Like Clockwork&nbsp;&nbsp;IFLScienceIU researcher helps solve mystery of clockwork-like earthquake system deep beneath the Pacific&nbsp;&nbsp;News at IUScientists Finally Solve the Mystery of “Clockwork” Earthquakes&nbsp;&nbsp;SciTechDailyMysterious fault’s quake brakes may hold secret to stopping tremors: Study&nbsp;&nbsp;New York PostStudy Finds underwater \"Brake Zones\" Could Act As Natural Barriers To Halt Earthq",
+      "id": "7e793441621f",
+      "title": "The benefits—and dangers—of optimism - economist.com",
+      "published": "2026-05-21T12:47:57+00:00",
+      "summary": "The benefits—and dangers—of optimism&nbsp;&nbsp;economist.comWhy you should (almost) always look on the bright side of life&nbsp;&nbsp;economist.comPositivity can help lower your heart disease risk&nbsp;&nbsp;futurity.orgPeople who are optimistic tend to have healthier hearts, study finds&nbsp;&nbsp;The Washington PostScientists discovered: A simple daily habit increases life expectancy by 15%&nbsp;&nbsp;The Jerusalem Post",
       "sources": [
         {
-          "name": "IFLScience",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZlBKWXZ5RGEzaGJZdGdsZDN4ZHFIVmNZUTdWVVE1ZXlDRWs4SWFONXNtbV9zTlk0Z0ZTMkdTV3NwTTRJQlA4d2FIakxqWDh6NHgtaHpOMG81cXhRbDczWDQwQ0NVWDdYRkd3REwyRmZYdGU3UU9vLXVTUDF1NDU2dU5qOXNpNXJUdWFRdEtGaVBZUkdwdDlka0NwQkhjajB0Skc2elpCU2Y2d19HaWZ3c3R2VEpBd1V3LVJsS2V5MVRrUEJrWkdSRmhJMVEwdlpiZDRFaDcwVUV4NHpwYklCcmprVnpmazVTdDRQNXBldw?oc=5"
+          "name": "economist.com",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdFBvSDVSRkFDUWNMOXB6N1JGZ01JNE11NkltemZuSXNIWGc5S1V6Q0NFQU8xUlhJQUp3a3JiaXRSWUdSdE1zbnhKY2pnM2htVE9QRkFaYW1ZSGtXM2pjc3VhQUlrOHgwMUJ0dXJDb3VWQzNkR0JwdEZwVlZLdnE4MnpMbThpQ0ZQR1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ab8572c4bf0f",
+      "title": "The exercise hormone irisin has neuroprotective effects in a mouse model of multiple sclerosis - Nature",
+      "published": "2026-05-21T12:30:25+00:00",
+      "summary": "The exercise hormone irisin has neuroprotective effects in a mouse model of multiple sclerosis&nbsp;&nbsp;NatureExercise hormone irisin could offer neuroprotective effects in multiple sclerosis&nbsp;&nbsp;Medical XpressExercise Hormone May Protect Neurons in Multiple Sclerosis&nbsp;&nbsp;Neuroscience News",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53ckt6SERNREZoMGhHNkZ4U3E0dnJDSDAzZWFaWjN3QkJELUhDMXpBb3BxQ0kyNzlpNVNCYW1vNVNBUGpvbkNJZ254dGhib0YyVUlweGRXUGw3NENxT0hn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a3b7fa2569de",
+      "title": "Gonorrhoea and syphilis hit record levels in Europe, data shows - BBC",
+      "published": "2026-05-21T12:19:15+00:00",
+      "summary": "Gonorrhoea and syphilis hit record levels in Europe, data shows&nbsp;&nbsp;BBCSexually transmitted infections are reaching record highs in Europe&nbsp;&nbsp;CIDRAPSTIs hit record levels in Europe: what’s driving the rise?&nbsp;&nbsp;EuronewsSharp rise in gonorrhoea and syphilis in Europe, including Netherlands&nbsp;&nbsp;NL TimesFIRST AID: Europe’s forgotten STIs return&nbsp;&nbsp;Euractiv",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SS1dYMW5fdEYtLXV2Ml9fTXFqcms4MTNhRDhRaDVzejdlSWJLRHF0ZlB5a2dmQ3JTNnVXVk9hdUU3Q0s1SGxLWWlUWWlCZjh3NG9rWVNTWGpmdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "02671b656c23",
+      "title": "7 Medical Tests and Treatments You Might Be Smart to Skip After 65 - Money Talks News",
+      "published": "2026-05-21T12:05:35+00:00",
+      "summary": "7 Medical Tests and Treatments You Might Be Smart to Skip After 65&nbsp;&nbsp;Money Talks News",
+      "sources": [
+        {
+          "name": "Money Talks News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeVBab1NFXzk0T0QyTXozNENKMmhHUU1JODFCYjc4NG8tRTZkaGM4WE1uNm1YZ0dSZndaRkNyMVRqdjFsOGVaWFh6YkxfaUJkUkFMM2JCNkI5V3d2QjlRLXRnekFWaFZEMTZIX1JVU0RXQzVuUHFPVEN5dVRHTjBCekkyMC1la3dmYXFuUmNpYW1TSVRwLS1YSw?oc=5"
         }
       ]
     },
@@ -522,74 +762,14 @@
       ]
     },
     {
-      "id": "78b8c1d11cc7",
-      "title": "Gonorrhea and syphilis cases hit record highs in Europe due to changing sexual habits and testing - The Independent",
-      "published": "2026-05-21T09:54:00+00:00",
-      "summary": "Gonorrhea and syphilis cases hit record highs in Europe due to changing sexual habits and testing&nbsp;&nbsp;The IndependentGonorrhoea and syphilis hit record levels in Europe, data shows&nbsp;&nbsp;BBCSexually transmitted infections are reaching record highs in Europe&nbsp;&nbsp;CIDRAPSTIs hit record levels in Europe: what’s driving the rise?&nbsp;&nbsp;EuronewsGonorrhea and syphilis skyrocket in Europe — and this country has the highest spike&nbsp;&nbsp;New York Post",
-      "sources": [
-        {
-          "name": "The Independent",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNkpQY05WZmhOT2I0d1A0a05WdWlqVWwzQ29VSlQyVzNKMW9pQ0hzbG5Ed1lLTzJGa21zb2RpU21nT2NNUWVUOXF6S2I0WEtkMFA5c2hFenA3YUJhRUp5THlsNGJxYXI1NTZTQlNwSkktUmxVNTliVkkzT1ctZko5ZE1EMUNNSUUybGpKRGRsRF9lWThnU1VCNVkwbjE5N2ZjU0NXeTE3dTQzQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a12a8348f157",
       "title": "What Ebola and hantavirus are revealing about America’s public health system - Politico",
       "published": "2026-05-21T09:00:00+00:00",
-      "summary": "What Ebola and hantavirus are revealing about America’s public health system&nbsp;&nbsp;PoliticoCOVID is shaping Americans' reaction to Ebola and hantavirus&nbsp;&nbsp;NPRDigested week: memories of Covid resurface with hantavirus and Ebola news&nbsp;&nbsp;The GuardianPandemic 2: Son of pandemic&nbsp;&nbsp;easttexasnews.comThe outbreak information wars&nbsp;&nbsp;Politico",
+      "summary": "What Ebola and hantavirus are revealing about America’s public health system&nbsp;&nbsp;PoliticoCOVID is shaping Americans' reaction to Ebola and hantavirus&nbsp;&nbsp;NPRPandemic 2: Son of pandemic&nbsp;&nbsp;easttexasnews.comThe outbreak information wars&nbsp;&nbsp;PoliticoExperts Warn Against Comparing New Virus Outbreaks to COVID-19&nbsp;&nbsp;BKReader",
       "sources": [
         {
           "name": "Politico",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV1loTDAxemdLT285cDNreXlKVDNjUVRMbVdENUJlOEtTSUpzNzVOSEUtNzRyTXpJdGdvUFV5ZGpDWXJoRG0tUnJ2S0RCRjVFQXlRTzZQNGJtLTIyVnVxLUk1OURldzExRXFGaVYxS0lkVE95UEJQclkwYmZ3SFZqdFhzekRaX3VwbkFfa3p3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "91903cf79d25",
-      "title": "A joint European-Chinese satellite just went up on Vega-C, and the images it returns could change how scientists understand Earth’s magnetic shield - Space Daily",
-      "published": "2026-05-21T06:23:02+00:00",
-      "summary": "A joint European-Chinese satellite just went up on Vega-C, and the images it returns could change how scientists understand Earth’s magnetic shield&nbsp;&nbsp;Space DailyAvio Successfully Launches the SMILE Satellite with Vega C&nbsp;&nbsp;WRALVega C rocket launches European-Chinese space weather satellite to orbit&nbsp;&nbsp;SpaceNew spacecraft will watch Earth's shield take the hit as solar storms come roaring in&nbsp;&nbsp;Phys.orgESA-China SMILE mission lifts off to deliver first global imag",
-      "sources": [
-        {
-          "name": "Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPdFZNME1pSWhibXp4SktaYmhVaEdkenJuQXYweVd4RkhEa2lMWTZHTmloWGJIVjN0ZzlwRDB6b3N1eVVXNGlqZ1ZvNFlzZ0I4c2Y4aEdtMVU4NTFIN3JaRXNvTG5fZ1ZONEtES1VVZVNDWV80dEtxMkpCdW5GM1dmTFFyMm0ySVd6a3VjS2pDd05ZNXliY1VacXhyTTN5bjQ3MXp5dmpIX0NoeHRPQmVCYU0wQXlQaGxvdmNHTmE0YzBBUExQT2dhSUNzLVcxMnA2UExwSEpTaDVYM21PLVRRU3dNa1h2bnNJZkwxWDZqOEFRMjZEZmtvQkp1OHVYdWtjSUphOHRESElkUTRxVDJNa0djMWY5SHRpSEcyVWJLZTN6Ul8weVJpd0FyREhqdWtxbFVCeDhRdTdIbWo4QmVKeA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e0450bbbe230",
-      "title": "4 Things to Do Before 10 A.M. to Reduce Dementia Risk - EatingWell",
-      "published": "2026-05-21T01:00:00+00:00",
-      "summary": "4 Things to Do Before 10 A.M. to Reduce Dementia Risk&nbsp;&nbsp;EatingWellThe surprising habits linked to dementia&nbsp;&nbsp;The TelegraphCan 7,000 Steps A Day Sharpen Your Brain? Here's What Research Says&nbsp;&nbsp;NDTVMidlife hobbies like travel and music may offset genetic risk for Alzheimer’s disease&nbsp;&nbsp;PsyPostNot 10,000 steps or extreme workouts: the exact number of daily steps associated with better protection against Alzheimer's&nbsp;&nbsp;OkDiario",
-      "sources": [
-        {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ1hhWVZRdDQ0ZG9XcjVHNVhBZXFLMDNjQ2U5ay1pN1RRTW9CcnZwZE5QSDhRblNNWlZjOHhiUWI4UGhlMUxOZVpSSXMxUVpzWVBjTjMwSDBWWDNyU1A3YTh4c2NEUVRweEVjRXdfaVB3TFVrYXVISkF0UXB6cEpkcmNpR2VhbVFsaC1PVg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e97e5f24f084",
-      "title": "High blood pressure, heart attacks linked to common preservatives in food - Yahoo",
-      "published": "2026-05-20T23:37:28+00:00",
-      "summary": "High blood pressure, heart attacks linked to common preservatives in food&nbsp;&nbsp;YahooNatural Food Colors Embraced by MAHA Linked to Health Problems&nbsp;&nbsp;WSJ‘Natural’ preservatives in food linked to high blood pressure, heart attacks&nbsp;&nbsp;CNNCommon food preservatives linked to high blood pressure and increased cardiovascular disease risk&nbsp;&nbsp;The IndependentSix foods that raise your heart attack risk (and what to eat instead)&nbsp;&nbsp;The Telegraph",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRm5nZzlfblBTLThpWGFNa1J5c0k4bTIyek1VcDM0bktGOVhyYnN1WUNaQVRqajdFbFJBR290MlpLU1A0RnhFLVlJSTZBMzNaVWpTN1daWm5KNUN1Z2hCOTl0NUJ1TlBSbUpoT0otakRLT2JkUzVhbkxJdUtaYTV1ejR2T1BaeG1rYzFULQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "895fe02032cf",
-      "title": "Every year, 27.7 million tons of Saharan dust crosses the Atlantic Ocean and settles on the Amazon rainforest, delivering roughly the exact amount of phosphorus the rainforest loses to runoff, which means the world's most productive forest is fertilised, year afte - Space Daily",
-      "published": "2026-05-20T23:00:07+00:00",
-      "summary": "Every year, 27.7 million tons of Saharan dust crosses the Atlantic Ocean and settles on the Amazon rainforest, delivering roughly the exact amount of phosphorus the rainforest loses to runoff, which means the world's most productive forest is fertilised, year afte&nbsp;&nbsp;Space Daily",
-      "sources": [
-        {
-          "name": "Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOZTJfdDRXRlgyRWlFam1qQzk5dm1xM2RZdHlyN19mNnNDQTlQRU1BSUxyZGlRdXFkWUJkRjlNTkxBNF9RMFN1N3o1TW5NMG9NSVl1OHl3TVpvNHhDNkZ1bzdpZTc1cE9rUmx6Zk5MdmVlMDlCR2pLbmlTWElUaUdFOXV5NERRLWxfLTduYjhPRGtzWEU1dFZETlpuS19CSVpqN1BVZUZCXzVJdUpBM0lGS3RESjRIRlE0M0hDOWkxcndBd0xGSVRvTnNhN2dMS3hsUFNicEZVYjBrdVZoQ01BTFBqcHpLYm9xLXM4VlFhVEs0aDM5NVJscV9MS01CV3Bkd0N3bWR5Y0J2ZDRHMEhwUHRPRmRhV1llQ0RONE56bEtUYkJNd2l4MHN3N2RJeXRjbGNlaEIyaWZtcTBEdS01SmprdllBUQ?oc=5"
         }
       ]
     }

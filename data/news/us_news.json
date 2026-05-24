@@ -1,19 +1,79 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-24T08:33:09.670382+00:00",
-  "total_fetched": 113,
-  "unique_count": 113,
-  "health_related_count": 56,
+  "fetched_at": "2026-05-24T13:41:51.676605+00:00",
+  "total_fetched": 103,
+  "unique_count": 103,
+  "health_related_count": 48,
   "news": [
     {
-      "id": "91107baf4fce",
-      "title": "Locals near epicenter of the Ebola crisis express fear and concerns about misinformation - CNN",
-      "published": "2026-05-24T04:00:07+00:00",
-      "summary": "Locals near epicenter of the Ebola crisis express fear and concerns about misinformation&nbsp;&nbsp;CNNEbola Outbreak Is Now Third Largest in History. Here’s What to Know.&nbsp;&nbsp;WSJU.S. Ebola Travel Ban Faces Criticism From Congo Health Officials&nbsp;&nbsp;The New York TimesUganda confirms three new Ebola cases, bringing total to five&nbsp;&nbsp;ReutersA troubling Ebola outbreak meets a weakened U.S. system&nbsp;&nbsp;The Washington Post",
+      "id": "b23b988d075f",
+      "title": "6 rashes and infections you can get from the beach - The Washington Post",
+      "published": "2026-05-24T13:10:09+00:00",
+      "summary": "6 rashes and infections you can get from the beach&nbsp;&nbsp;The Washington PostA deadly bacteria is creeping up the Atlantic Coast. How worried should you be?&nbsp;&nbsp;North Carolina Health NewsExclusive | LI oyster growers shelled again — this time by warning of killer bacteria in water&nbsp;&nbsp;New York PostProtect yourself from Vibrio Vulnificus&nbsp;&nbsp;Louisiana SportsmanWhat to know about a so-called flesh eating bacteria in Long Island Sound&nbsp;&nbsp;New England News Collaborati",
       "sources": [
         {
-          "name": "CNN",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQODlGck1qbGl6cTU4U2x4b1E3a3l3MjV3aUJCYkNNM2ZrUUNOOVV4Tm9jWXh6VGVVeWNMSjhqa3FLTnpLTXJvLWprbWZvWHlsQ0RYbEVuUjFjaHRPT2hPa3FHbXFHazhyOTI0dk5FSzR5S1UwXzRGem01WFhJVm9NQlpIYw?oc=5"
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX1BMZW9IRU1lTUhVN1g1RDBSOURqSmttanNqUDJCMk5rMFAwV2NNUDJBelhCejR1aFBRRmlyaUVqVUFYYjFPVjNQU3E4Rjd6TXhmODM1aFpXaGtZTTd6UllUWjF3akRPaEtiRDBJeFhzY3BxaDFIV1doTzBObnZFbWJwaGlZeWpHcWpBR0dWYUQtU28?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3a15bd293bce",
+      "title": "Pennsylvania schools shared widely debunked vaccine claims with thousands of parents - Pittsburgh Post-Gazette",
+      "published": "2026-05-24T12:54:07+00:00",
+      "summary": "Pennsylvania schools shared widely debunked vaccine claims with thousands of parents&nbsp;&nbsp;Pittsburgh Post-Gazette",
+      "sources": [
+        {
+          "name": "Pittsburgh Post-Gazette",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY2REZzk5elV5V2JwclczQ3BfUE50bnFMbDI2UFpkVEpHVTU2MkZ4clRudHJ1UnZUSWVuN0pWVUttUXJXcmduQkRyLWlZRTNMc25fRndyOXlpX2JfUFQtX0NjU1FRdjVvOW53SnBFbEpBRTlLRnM0RlJMZGdoOXc3RVZnZ3ZzYjJMR2FFWlhvTzh6Y0E0MFNWNW9VUEh5bmNZOF8wcTJFR0sxQmxpZFM4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f036fef60304",
+      "title": "Red Cross volunteers die from suspected Ebola in DR Congo - BBC",
+      "published": "2026-05-24T11:09:54+00:00",
+      "summary": "Red Cross volunteers die from suspected Ebola in DR Congo&nbsp;&nbsp;BBCLocals near epicenter of the Ebola crisis express fear and concerns about misinformation&nbsp;&nbsp;CNNDR Congo’s neighbors impose Covid-style measures in push to limit Ebola’s spread&nbsp;&nbsp;NBC NewsBundibugyo virus: Why this Ebola disease outbreak is different&nbsp;&nbsp;Doctors Without BordersU.S. Ebola Travel Ban Faces Criticism From Congo Health Officials&nbsp;&nbsp;The New York Times",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xeUZjcVMwUEh2ZXcwU19iSDdSSHRWN0M0RUdyQzRCUzlxSlZhSHZMbnhncy1hck83UzRpZUY3d3NZOTYzMlZ1MXduRmdxV01ab2xEaTExR0JZdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a5a2b8563712",
+      "title": "Chinese scientists suggest harsh environments foster early human creativity - South China Morning Post",
+      "published": "2026-05-24T08:00:06+00:00",
+      "summary": "Chinese scientists suggest harsh environments foster early human creativity&nbsp;&nbsp;South China Morning PostA Radical Innovation Helped Archaic Humans Survive a Harsh Ice Age&nbsp;&nbsp;ScienceAlert146,000-Year-Old Discovery Rewrites the Story of Human Creativity&nbsp;&nbsp;SciTechDailyIce Age discovery in China challenges theories about origins of human creativity&nbsp;&nbsp;Mid-day",
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcTVZRFk4Z3BDRGtncTIzS0pFWVVtR3R2UHhqZ2dQd3p5cFVZemNzYklSM2FvdktPU3J5b3NDWi1HVFVSRUNzNi1zYjZITi1wZE9kNWNIU3lXNWZyaVpONDA3dDlwNC1ZXzEzS2VwTjBRbFZLcmtpNFRvMnA2a3BsTHVidTZjTklyNEFXeHJqaHRhVzJNalVVUXprelFMUVVLc01PWTM4V2xQOE5RZnhjRk5EV21BM2FoYVdrUHlwVzVRcFZFd3d3N1psOGU2NWVhNEtZLTNORTVCaGJCLTNTZldHS3cwRk5WTmFZYdIB7AFBVV95cUxOQlBIWHNDdklfcElKdy0zNnYteTlHb1UycHFCTW5HYXJINUowcVhBV01VYzdJdnhlQWVOQlhWRkF4UDNES1p6Yk5CaW9VZjlBdllCRjhIVnp0SC1QUEpnTFdrMzhudHp0bWFmSVp2cFhsWEg3VTNOU1VsdDc2UHk0b3ZYRkV3emFvWUp0T1BTOG9NRy1CZHVoSkRaNDFFWVJEMXB4YW9PTFlNY1ZVTENCTDlSdHNQTTg3WGt4MmZrNTRNd1NJamszVEJ1NmhDSnJBMWtIbzFCckVkV1dLNHBLdFlaeVJKSjZyc0o5VA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "952edcd36bb8",
+      "title": "A change in his hands sent this Leechburg drummer to the doctor — and toward new treatment for amyloidosis - Pittsburgh Post-Gazette",
+      "published": "2026-05-24T04:06:44+00:00",
+      "summary": "A change in his hands sent this Leechburg drummer to the doctor — and toward new treatment for amyloidosis&nbsp;&nbsp;Pittsburgh Post-Gazette",
+      "sources": [
+        {
+          "name": "Pittsburgh Post-Gazette",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbzFjMk9xc1BtcTdsblpUYkRhSWlROHZuUkh2OFBZMDBxYVZyV1gzY3V0SE5kT2Q5TUc1TG9qN2dQRENNcnZ4WWsxSWdFaW16b0dGZ0gxZ1dQcGxmVUlHT2R0dDFrdkM2d2ZkY19MV0dTZWp3RG9iN2l5Z2JLc2YwU2R2X0VpTXo5X0pMaW9UcEZmZ3otcURtYWtR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "71e6d021e09b",
+      "title": "No Ebola found at Alabama hospital after ER diversion, EMA director says - AL.com",
+      "published": "2026-05-24T02:24:00+00:00",
+      "summary": "No Ebola found at Alabama hospital after ER diversion, EMA director says&nbsp;&nbsp;AL.comGadsden Regional Says No Confirmed Viral Hemorrhagic Fever Cases After ER Incident&nbsp;&nbsp;WBMAGadsden Regional Medical Center releases statement after community questions about ER patient&nbsp;&nbsp;WBRCHealth officials confirm no viral hemorrhagic fever risk at Gadsden hospital&nbsp;&nbsp;WVTMNo Ebola case at Gadsden Regional Medical Center&nbsp;&nbsp;The Anniston Star",
+      "sources": [
+        {
+          "name": "AL.com",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbWxWMHBtbkhkeERqY0lENnlCclBLdmJZazNMN1BEbGF0d3RWWlI5SEJxZTR1MHY1aVBkWUlNUGMzNThqbGhFMEFqbWhnSWRmaUIwSzBFNnJYSTVPMk5WYm5VTW1VbGlrUEFPaF82bDJyRmRmSkQ0cjI3UnZUUmJSemFpel9PV2owYzJpUXJDYzJJTXV4Y3pHSVBuZjZkODBDNFFGdkMtVTZSR1JK0gHAAUFVX3lxTE13RUd6Ry1JUjVnZ3ZYcTF5cl9tVGI5d2hfVTZaSWk2eDlxNTA1TVR0V3hoZmZTVHpTUU9pMmZsM3p1MkpQZXRyTjBsT01xMDFnOXRzVmItOG1uTEJ4LWFkZ1NzWmsxbjZHcFJONkpYTHVvREpnRVZMek5VajRfUU9FNXhhVmUtclZULUNyREFxTHA1ZER3eHlaeWtYb2doN3h6NFUwQlBvQ1hHN1hZd0N3QzNseE9JeEFNc0RxaUpHcA?oc=5"
         }
       ]
     },
@@ -30,14 +90,14 @@
       ]
     },
     {
-      "id": "571a017b710f",
-      "title": "Your Blood Type Affects Risk of Early Stroke, Study Reveals - ScienceAlert",
-      "published": "2026-05-23T23:25:31+00:00",
-      "summary": "Your Blood Type Affects Risk of Early Stroke, Study Reveals&nbsp;&nbsp;ScienceAlert",
+      "id": "b0b43c65fdfa",
+      "title": "Common weedkiller linked to the development of superbugs in hospitals - Earth.com",
+      "published": "2026-05-23T21:45:09+00:00",
+      "summary": "Common weedkiller linked to the development of superbugs in hospitals&nbsp;&nbsp;Earth.com",
       "sources": [
         {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSUx5NjgxanVRZEU1dFJpU1VBYTBfZ2ZHMnlodVNpMUx6YnJJX1pteFZNQktCY25LemJiMDNxRjNUa1I2RGxRc0R1VFlZbE16X3lLT1JJNzBmcUxHbHdnY2V4MG1LTmNwTXh3THRxQlBCZDlOVGdJdGFWT1dhTUhyQ2pVTVdycEFjRHpheHhrYnk?oc=5"
+          "name": "Earth.com",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVURhX09Edkw3VlZtMkhkYURkM3E2Wnh6bm1DbjZYa3cwVVBYVS0yeWFBLTB3WFF4R1dfMGEyQXVBT0tKX25LbFhPYmpMRTBsTmFUMHVGanl4YWJCc2NCaHZ6YWhRb0UwUDFSZ09JU2RjQVhfcGs2WkRsYUFETUU5SjBvZEtDRHJPM211MW85SzBId2VoeHNsWXNtVWR2YXhQSm56RkI2R29WRkVlQWhYSFc2R2dqSzIw?oc=5"
         }
       ]
     },
@@ -66,18 +126,6 @@
       ]
     },
     {
-      "id": "72292027d53c",
-      "title": "A Radical Innovation Helped Archaic Humans Survive a Harsh Ice Age - ScienceAlert",
-      "published": "2026-05-23T18:03:12+00:00",
-      "summary": "A Radical Innovation Helped Archaic Humans Survive a Harsh Ice Age&nbsp;&nbsp;ScienceAlertChinese scientists suggest harsh environments foster early human creativity&nbsp;&nbsp;South China Morning Post146,000-Year-Old Discovery Rewrites the Story of Human Creativity&nbsp;&nbsp;SciTechDailyIce Age discovery in China challenges theories about origins of human creativity&nbsp;&nbsp;Mid-day",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPai1tdlRhdkhUdDlUNUFHT2E4R2NUSXNXOU9yU29SUWxPRTRYVk5yV0dTUVVSSWJkUEFPRnhVOGJmY3Fiam5Zb3daM2RDbnpQb2JFUU5nRG4zSnhoeEdYclphcWlhUTk0TWJGbFE0b3FTcUtVUlF3eFNOMVZQeXVzczhWcG10cXRmeXNyRlJELS1GMWNtUmw4MVo5UQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9b35da26bba9",
       "title": "Brain development patterns predict if childhood ADHD symptoms will fade or persist - PsyPost",
       "published": "2026-05-23T16:05:12+00:00",
@@ -102,18 +150,6 @@
       ]
     },
     {
-      "id": "8c3997a0910b",
-      "title": "NYC health department investigates Legionnaires' cases in East Village - Gothamist",
-      "published": "2026-05-23T14:54:00+00:00",
-      "summary": "NYC health department investigates Legionnaires' cases in East Village&nbsp;&nbsp;GothamistTwo Legionnaires’ Cases Found at East Village Complex&nbsp;&nbsp;THE CITY - NYC NewsPlumbing industry, government officials collaborate to prevent next Legionnaires’ disease outbreak&nbsp;&nbsp;Crain's New YorkNYC Health Department advising residents of East Village complex of Legionnaire's Disease&nbsp;&nbsp;YahooLegionnaires' disease concerns at East Village housing complex prompts NYC Health Department ",
-      "sources": [
-        {
-          "name": "Gothamist",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSzJTWmJrRS1jdFhxbmpYT0VTbmlkS1duSjVEbUFnOV84T1lnYllPVnhKb3o5REJJNy0zZzhNSmVENXJRNkppX1NyWFpVbm9ILVlDSHZSenNqejJQdXJXb3JSaElZNWlOWVo4ZDJOQW5hcU90dXB0Z1pUa2xtYm9XcDBmNWJ4Sk1MUUJodWlZTV9kdmh6RXZhUndXRks?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5e62e705bf64",
       "title": "The human genome contains traces of ancient viruses that infected our ancestors millions of years ago — and some of those viral leftovers were later repurposed into genes that help make human pregnancy possible - Space Daily",
       "published": "2026-05-23T14:01:33+00:00",
@@ -129,7 +165,7 @@
       "id": "dce2e4e73f37",
       "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away - AP News",
       "published": "2026-05-23T13:49:00+00:00",
-      "summary": "How South African scientists identified hantavirus on a cruise ship thousands of miles away&nbsp;&nbsp;AP NewsInside an African lab that helped crack the hantavirus outbreak&nbsp;&nbsp;ReutersWHO says 12th person infected with hantavirus detected in the Netherlands&nbsp;&nbsp;Al JazeeraHantavirus cases linked to cruise ship rise to 12 after crew member tests positive&nbsp;&nbsp;NBC News2026 Hantavirus Outbreak: Testing for Potential Infection&nbsp;&nbsp;Centers for Disease Control and Prevention",
+      "summary": "How South African scientists identified hantavirus on a cruise ship thousands of miles away&nbsp;&nbsp;AP NewsInside an African lab that helped crack the hantavirus outbreak&nbsp;&nbsp;ReutersWHO says 12th person infected with hantavirus detected in the Netherlands&nbsp;&nbsp;Al JazeeraMayday! SA scientists identified hantavirus outbreak in 24 hours&nbsp;&nbsp;The Times of IndiaThe hantavirus outbreak is a tragedy—and a valuable data source&nbsp;&nbsp;The Economist",
       "sources": [
         {
           "name": "AP News",
@@ -141,7 +177,7 @@
       "id": "aef2f5d9cfad",
       "title": "If you feel like Michigan’s tick problem is worse every year, you’re right - MLive.com",
       "published": "2026-05-23T13:00:00+00:00",
-      "summary": "If you feel like Michigan’s tick problem is worse every year, you’re right&nbsp;&nbsp;MLive.comTick season approaches. Protect yourself from Lyme disease&nbsp;&nbsp;Burlington Free PressTick illnesses surge in Connecticut as hospital visits across US highest since 2017&nbsp;&nbsp;YahooMeat allergies, confusion, vomiting — 5 diseases you can get from ticks as ER visits spike&nbsp;&nbsp;New York PostTick bites surge, sending many to ER. Maps show where.&nbsp;&nbsp;USA Today",
+      "summary": "If you feel like Michigan’s tick problem is worse every year, you’re right&nbsp;&nbsp;MLive.comTick bites surge, sending many to ER. Maps show where.&nbsp;&nbsp;USA TodayMeat allergies, confusion, vomiting — 5 diseases you can get from ticks as ER visits spike&nbsp;&nbsp;New York PostTick season approaches. Protect yourself from Lyme disease&nbsp;&nbsp;Burlington Free PressConnecticut sees highest levels of emergency room visits for tick bites since 2017&nbsp;&nbsp;WFSB",
       "sources": [
         {
           "name": "MLive.com",
@@ -213,7 +249,7 @@
       "id": "d51cfc1772ba",
       "title": "Oncologist explains how everyday habits affect cancer risk: ‘Window for action is wider than most people think’ | Health - Hindustan Times",
       "published": "2026-05-23T11:33:26+00:00",
-      "summary": "Oncologist explains how everyday habits affect cancer risk: ‘Window for action is wider than most people think’ | Health&nbsp;&nbsp;Hindustan TimesAlmost 50% of Preventable Cancers Linked to Just Two Lifestyle Habits&nbsp;&nbsp;ScienceAlertSmoking And Drinking Account For 48% Of Avoidable Cancer Cases Globally&nbsp;&nbsp;NDTVCancer risk is shifting. What can you do about it?&nbsp;&nbsp;The Business Journals",
+      "summary": "Oncologist explains how everyday habits affect cancer risk: ‘Window for action is wider than most people think’ | Health&nbsp;&nbsp;Hindustan TimesSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "Hindustan Times",
@@ -225,7 +261,7 @@
       "id": "d2d9a467d3a2",
       "title": "7 magnesium deficiency symptoms that could be warning signs from your heart - The Times of India",
       "published": "2026-05-23T10:03:08+00:00",
-      "summary": "7 magnesium deficiency symptoms that could be warning signs from your heart&nbsp;&nbsp;The Times of IndiaDoctors Say This One Nutrient Could Be the Key to Better Sleep and Lower Blood Pressure&nbsp;&nbsp;AOL.comPrana IV Therapy Highlights Emerging Research on Magnesium’s Role in Stress and Neurological Function&nbsp;&nbsp;GlobeNewswireThese foods are particularly rich in magnesium&nbsp;&nbsp;MSN6 fruits that are high in magnesium and why your body depends on them every day&nbsp;&nbsp;The Times o",
+      "summary": "7 magnesium deficiency symptoms that could be warning signs from your heart&nbsp;&nbsp;The Times of IndiaAre You Magnesium Deficient? 3 in 4 People Have No Idea They Are&nbsp;&nbsp;Futura, le média qui explore le monde",
       "sources": [
         {
           "name": "The Times of India",
@@ -258,14 +294,14 @@
       ]
     },
     {
-      "id": "952edcd36bb8",
-      "title": "A change in his hands sent this Leechburg drummer to the doctor — and toward new treatment for amyloidosis - Pittsburgh Post-Gazette",
-      "published": "2026-05-23T08:00:00+00:00",
-      "summary": "A change in his hands sent this Leechburg drummer to the doctor — and toward new treatment for amyloidosis&nbsp;&nbsp;Pittsburgh Post-Gazette",
+      "id": "2aa4869f1fbb",
+      "title": "Warning for all Brits taking Sertraline, Citalopram and Fluoxetine this weekend - The Mirror",
+      "published": "2026-05-23T08:08:00+00:00",
+      "summary": "Warning for all Brits taking Sertraline, Citalopram and Fluoxetine this weekend&nbsp;&nbsp;The MirrorCommon prescription drug that needs 'particular care' during heatwave as UK temperatures set to soar&nbsp;&nbsp;Manchester Evening NewsSelf-Medication Mistakes To Avoid During Dangerous Heatwaves&nbsp;&nbsp;NDTVSome common prescription medicines can pose serious health risks during hot weather ⚠️&nbsp;&nbsp;facebook.comUK heatwave warning: Four common prescription medications could become risky i",
       "sources": [
         {
-          "name": "Pittsburgh Post-Gazette",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbzFjMk9xc1BtcTdsblpUYkRhSWlROHZuUkh2OFBZMDBxYVZyV1gzY3V0SE5kT2Q5TUc1TG9qN2dQRENNcnZ4WWsxSWdFaW16b0dGZ0gxZ1dQcGxmVUlHT2R0dDFrdkM2d2ZkY19MV0dTZWp3RG9iN2l5Z2JLc2YwU2R2X0VpTXo5X0pMaW9UcEZmZ3otcURtYWtR?oc=5"
+          "name": "The Mirror",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU2hESWpGb2l3U3U5WFRQbmNmN0p5RVNZcTN4VkF2ZVlGLThweVJrUF8zbDRQN3hya2xVYUd4VE9LbkJ3WktpX1NfZkVybTI3ODZtUURZRmczcnpxemlBM2Jad1NqMl9OUWIzM1k1TUlHbllPakFFay0yN2lIMUdId0haemlNTnRqXzJQRdIBkgFBVV95cUxNbjNiXzViZVl2Z05zXzRJU3o3a0xuczZNQ2NXdWNvdlppR01mX01pdS05c1dLUVRNLUp6QTAtNzRPbnpGbVhBRGlaektBdlRsalh2NUtJTWJuQ2lPd3VjME43ME5fVHRobmx4dHg2a0ZNZmJyc0JqdjRfZ01BNVRZTy1hY1kzeGVIN1p6OTB0ajVwZw?oc=5"
         }
       ]
     },
@@ -273,7 +309,7 @@
       "id": "9fd9f7e99a7e",
       "title": "Sea level rise is speeding up and scientists now know exactly why - ScienceDaily",
       "published": "2026-05-23T02:43:15+00:00",
-      "summary": "Sea level rise is speeding up and scientists now know exactly why&nbsp;&nbsp;ScienceDailyClimate: Seas rise mainly due to expansion of warmer water | blue News&nbsp;&nbsp;blue NewsOceans are heating faster than we think&nbsp;&nbsp;MSNRadar polarimetry: Time machine to glacial ice and rising sea levels&nbsp;&nbsp;Phys.orgChinese study shows sea levels are rising twice as fast as they were in 1960&nbsp;&nbsp;Earth.com",
+      "summary": "Sea level rise is speeding up and scientists now know exactly why&nbsp;&nbsp;ScienceDailyLess low cloud cover lets in more heat from the sun—and may lock in centuries of sea level rise&nbsp;&nbsp;Phys.orgClimate: Seas rise mainly due to expansion of warmer water | blue News&nbsp;&nbsp;blue NewsOceans are heating faster than we think&nbsp;&nbsp;MSNChinese study shows sea levels are rising twice as fast as they were in 1960&nbsp;&nbsp;Earth.com",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -309,7 +345,7 @@
       "id": "ef5aaebc036a",
       "title": "Intermittent fasting Mistakes Doctors See and Tips for Weight Loss - Healthline",
       "published": "2026-05-23T00:57:34+00:00",
-      "summary": "Intermittent fasting Mistakes Doctors See and Tips for Weight Loss&nbsp;&nbsp;HealthlineIs intermittent fasting safe for everyone? Gastroenterologist reveals who should be careful&nbsp;&nbsp;Hindustan TimesIntermittent fasting isn’t just changing your weight: Expert warns it may also be affecting your hormones&nbsp;&nbsp;The Times of IndiaThe big mistake you might be making when intermittent fasting&nbsp;&nbsp;KXAN AustinIntermittent Fasting in India: Is Skipping Meals Really Healthy or Just Ano",
+      "summary": "Intermittent fasting Mistakes Doctors See and Tips for Weight Loss&nbsp;&nbsp;HealthlineIs intermittent fasting safe for everyone? Gastroenterologist reveals who should be careful&nbsp;&nbsp;Hindustan TimesThe actual benefits of intermittent fasting, according to experts&nbsp;&nbsp;GQ IndiaIntermittent fasting isn’t just changing your weight: Expert warns it may also be affecting your hormones&nbsp;&nbsp;The Times of IndiaThe big mistake you might be making when intermittent fasting&nbsp;&nbsp;K",
       "sources": [
         {
           "name": "Healthline",
@@ -321,7 +357,7 @@
       "id": "432b0cbb4b61",
       "title": "GLP-1 Users May Experience A Surprising Life-Saving Benefit That Has Nothing To Do With Weight Loss - HuffPost",
       "published": "2026-05-22T22:50:58+00:00",
-      "summary": "GLP-1 Users May Experience A Surprising Life-Saving Benefit That Has Nothing To Do With Weight Loss&nbsp;&nbsp;HuffPostWeight-Loss Drugs May Have Surprising Side Effect: Stalling Cancer&nbsp;&nbsp;WSJGLP-1 drugs may reduce the risk of cancer progressing, study suggests&nbsp;&nbsp;NBC NewsGLP-1 drugs may lower risk of some cancers spreading, study suggests&nbsp;&nbsp;USA TodayGLP-1s Linked to Lower Risk of Cancer Spread in Four Tumor Types&nbsp;&nbsp;MedPage Today",
+      "summary": "GLP-1 Users May Experience A Surprising Life-Saving Benefit That Has Nothing To Do With Weight Loss&nbsp;&nbsp;HuffPostWeight-Loss Drugs May Have Surprising Side Effect: Stalling Cancer&nbsp;&nbsp;WSJGLP-1 drugs may lower risk of some cancers spreading, study suggests&nbsp;&nbsp;USA TodayGLP-1s Linked to Lower Risk of Cancer Spread in Four Tumor Types&nbsp;&nbsp;MedPage TodayASCO 2026: GLP-1s could reduce the risk of some obesity-related cancers progressing&nbsp;&nbsp;Oncology Central",
       "sources": [
         {
           "name": "HuffPost",
@@ -342,34 +378,10 @@
       ]
     },
     {
-      "id": "5377c9e14b80",
-      "title": "Experimental treatments could help US Ebola patient - Reuters",
-      "published": "2026-05-22T21:39:21+00:00",
-      "summary": "Experimental treatments could help US Ebola patient&nbsp;&nbsp;ReutersUS taps small San Diego biotech for experimental Ebola treatment as epidemic worsens&nbsp;&nbsp;Fierce BiotechUS \"actively engaged\" in finding therapies for new Ebola strain, CDC says&nbsp;&nbsp;DevdiscourseUS Enlists Small Biotech for Experimental Ebola Treatment&nbsp;&nbsp;BloombergU.S. Backs New Ebola Treatment; Candy-Like Tobacco Targeted; 1 in 10 Surgeons Quit&nbsp;&nbsp;MedPage Today",
-      "sources": [
-        {
-          "name": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnBLcDlGZE5uM1MycHlNMkxVNFd3VkJJNHF0bUstQTFtcDREM2NIclR4RG9QQWJFZnl2QTdzclA1UjVHQ0RtM2FWOF8tZDB5Z2oyZ0tzdEpCOXpEUTRpXy00bkE4am5rbjROS1hzSVpmcF9zMWs0VnB4OFVMNW9lejFaSEVVdGlmSV91WTJFMUlDelJOSXlybGhiM0ptN0JCcUZPVVpYbw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9fd283bc148b",
-      "title": "The Voyager Golden Record carries a small sample of uranium on its cover, placed there so that whoever finds it can measure the decay and work out how long it has been drifting — a built-in clock for a message engineered to last around a billion years. - Space Daily",
-      "published": "2026-05-22T20:12:07+00:00",
-      "summary": "The Voyager Golden Record carries a small sample of uranium on its cover, placed there so that whoever finds it can measure the decay and work out how long it has been drifting — a built-in clock for a message engineered to last around a billion years.&nbsp;&nbsp;Space DailyThe Voyager probes carry golden records etched with greetings in 55 languages, whale songs, and a woman's brainwaves recorded while she thought about being in love, and the records are designed to remain playable for one bill",
-      "sources": [
-        {
-          "name": "Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNZzdtcXVLaGkySERkRFNVemNwV3BRVG9GRlZrMjlOR2NMMWg1ZFBkcmVVQTdSSlkyTjJwOUQxQ3ZtTjZVVVh4TEx6WHJJcGVObER6d0VQRVl6aUZCODFtRGlQTFdxdkpZSC16aTUtSkZwZkJqMjNLZmlLSUVsQ1I3WFJLWTBRRE5mZ1REa1FubFl3VXFyQkh3M3N4bjgtUXNmX2g0ejNfNFZUckM4S0djTGIyYkNMU296dlpzREI4bVpTRWtLenBuUWNiTVIzQVZvYkduRTFTMXd5U0ZzcmZFdGk0cVR6cm1fQ3Z0RmhiN1IxaWpfVVIzMmMxbXVzcGhiU2dDY01xWjZzVV9TWWZzeGJFUVIwUFhpMXpJekd2cVk0dFhvREVaU2lCLUFIZmliTXVUVktWN1k2cDA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "019015e97c31",
       "title": "Fossil Kept in a Museum For Decades Turns Out to Be a Fearsome New Predator - ScienceAlert",
       "published": "2026-05-22T20:05:37+00:00",
-      "summary": "Fossil Kept in a Museum For Decades Turns Out to Be a Fearsome New Predator&nbsp;&nbsp;ScienceAlertPaleontologists Discover an Ancient Marine Reptile They've Dubbed the T. Rex of the Sea, Crowning Another King of the Cretaceous&nbsp;&nbsp;Smithsonian Magazine‘T. rex of the sea’: D-FW researchers identify new ancient marine species&nbsp;&nbsp;Dallas NewsAncient seas get a new T. rex as massive mosasaur emerges from Texas fossils&nbsp;&nbsp;Phys.orgNorth Texas fossils reveal giant predator dubbed ",
+      "summary": "Fossil Kept in a Museum For Decades Turns Out to Be a Fearsome New Predator&nbsp;&nbsp;ScienceAlertPaleontologists Discover an Ancient Marine Reptile They've Dubbed the T. Rex of the Sea, Crowning Another King of the Cretaceous&nbsp;&nbsp;Smithsonian Magazine‘T. rex of the sea’: D-FW researchers identify new ancient marine species&nbsp;&nbsp;Dallas NewsAncient seas get a new T. rex as massive mosasaur emerges from Texas fossils&nbsp;&nbsp;Phys.org‘T. rex’ Mosasaur Ruled the Seas 80 Million Years",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -378,14 +390,14 @@
       ]
     },
     {
-      "id": "c41e9dc74bc2",
-      "title": "The One Vegetable Dietitians Recommend for Brain, Heart, and Gut Health - Yahoo News Singapore",
+      "id": "70ce6dc90de5",
+      "title": "The One Vegetable Dietitians Recommend for Brain, Heart, and Gut Health - Real Simple",
       "published": "2026-05-22T20:02:00+00:00",
-      "summary": "The One Vegetable Dietitians Recommend for Brain, Heart, and Gut Health&nbsp;&nbsp;Yahoo News SingaporeSee more headlines & perspectives on Google News",
+      "summary": "The One Vegetable Dietitians Recommend for Brain, Heart, and Gut Health&nbsp;&nbsp;Real SimpleSee more headlines & perspectives on Google News",
       "sources": [
         {
-          "name": "Yahoo News Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSUYzdUdnU1NObFpYaV9rSFh1M1FFMjJ2YjNOVTdrMmRPUUh3STB4NjNva2xkTzZ2SzRxWlZ0NjBLejJqYmtadUVwV0N0bW1KUWpkbnBvZlNFYjNWQ3FlSnk3S2w2Z054MDFDUzRhTXBXRVJqT1l2bUFLVl9EQ19XTU9hSjlLWnQt?oc=5"
+          "name": "Real Simple",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaZ3ZOMHZ4SW01T091cUtzQUNGRUhUVm16RnI0OVpaUjRNYUNZZ0EyYUFtM0FGVjNTY0h4NDI4YksycnJtN2hqWFVxOXVEN1ZkTFVlMjRwT29mZllmcHZWT1VrVHE5Z0VKc0JkMFpGNlNXWHVDeFpjcGhVYnZZUQ?oc=5"
         }
       ]
     },
@@ -393,7 +405,7 @@
       "id": "d122c12dca7b",
       "title": "No child deaths definitively linked to Covid shots, FDA says - NBC News",
       "published": "2026-05-22T20:01:24+00:00",
-      "summary": "No child deaths definitively linked to Covid shots, FDA says&nbsp;&nbsp;NBC NewsFDA's Analysis of Child Deaths After COVID Shot Released by Senator&nbsp;&nbsp;MedPage TodayFDA’s unreleased Covid vaccine deaths report is published by lawmaker&nbsp;&nbsp;Endpoints NewsFDA’s own report shows no child deaths definitively caused by COVID vaccination&nbsp;&nbsp;BioSpace",
+      "summary": "No child deaths definitively linked to Covid shots, FDA says&nbsp;&nbsp;NBC NewsFDA's Analysis of Child Deaths After COVID Shot Released by Senator&nbsp;&nbsp;MedPage TodayFDA report: No child deaths definitively linked to COVID-19 vaccine&nbsp;&nbsp;WLNS 6 NewsFDA’s unreleased Covid vaccine deaths report is published by lawmaker&nbsp;&nbsp;Endpoints NewsFDA’s own report shows no child deaths definitively caused by COVID vaccination&nbsp;&nbsp;BioSpace",
       "sources": [
         {
           "name": "NBC News",
@@ -414,14 +426,14 @@
       ]
     },
     {
-      "id": "1fe07ebf3bd3",
-      "title": "Henry Slade: I live with type 1 diabetes. I’m worried my girls will develop it too - The Times",
+      "id": "9ce991e1f512",
+      "title": "12 healthy habits that the gut scientist lives by - The Times",
       "published": "2026-05-22T19:00:00+00:00",
-      "summary": "Henry Slade: I live with type 1 diabetes. I’m worried my girls will develop it too&nbsp;&nbsp;The Times",
+      "summary": "12 healthy habits that the gut scientist lives by&nbsp;&nbsp;The Times",
       "sources": [
         {
           "name": "The Times",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNm5rSU1seUttSTNJVk1TZzh6T2ppNUtEZEZnbktHdjlTNmNPRFVGd0NPQTROYV9TdWo0M3F3Q3hmWHNReXRGX2s1VlZTOFFKZm1YVXM4aGk5N3NMUkZ5OHhJVXBsLWg4Q01wZmQteFFJc0U5QmN2LTF3WW9PN0p3NFZzQ1E4UHVnVE53NmFmaG5BS1hvVjVPZWNMdURPbUVfTlJz?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd0Q5eVR3Tl9GUkQ5RGJVUXBJTlBudnlFaXlHSm1EMHo1WnVQTnlKTklwcWFJR09WbGtGNEJ0WlMyMDg0YVp5U05TbkEtaTI1bndtVXNlSXRUa3dETmF3cmdvZTNUOW5GSWtpRkRzdVZHeTBLY3hGNFhfaXBld3I1QkZjbXNrSy04bmJRUGZvcm5fZjZjaTMzNDBDNW5Fb3dQamNxdVJTakpVMmJqdlBldE9vTGJkV3VFbmc?oc=5"
         }
       ]
     },
@@ -453,7 +465,7 @@
       "id": "a0f6dee29d76",
       "title": "Hantavirus risk from rodents may be higher in Pacific Northwest - USA Today",
       "published": "2026-05-22T18:24:00+00:00",
-      "summary": "Hantavirus risk from rodents may be higher in Pacific Northwest&nbsp;&nbsp;USA TodayA shocking number of Pacific Northwest rodents may carry hantavirus&nbsp;&nbsp;Scientific American‘Shocking number’ of PNW rodents may carry hantavirus, Scientific American says&nbsp;&nbsp;OregonLive.comWSU study finds high prevalence of hantavirus in some parts of Pacific Northwest&nbsp;&nbsp;WSU InsiderShocking number of rodents found to harbour hantavirus&nbsp;&nbsp;The Independent",
+      "summary": "Hantavirus risk from rodents may be higher in Pacific Northwest&nbsp;&nbsp;USA TodayA shocking number of Pacific Northwest rodents may carry hantavirus&nbsp;&nbsp;Scientific American‘Shocking number’ of PNW rodents may carry hantavirus, Scientific American says&nbsp;&nbsp;OregonLive.comHantavirus exposure risk may be higher than believed in parts of US, study finds&nbsp;&nbsp;FOX 9 Minneapolis-St. PaulWSU study finds high prevalence of hantavirus in some parts of Pacific Northwest&nbsp;&nbsp;WSU",
       "sources": [
         {
           "name": "USA Today",
@@ -482,18 +494,6 @@
         {
           "name": "National Institutes of Health (.gov)",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDMjl6a2hBTl9wdnduV3lQVDNhWENfZGNxRXNueGw4bUJ2VUtzbE5QU0xHNDdGMzBqdXQ3U3ZfVlFScG12dGdrRHhNaHhfVTU5RUVj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f081ac45f4b3",
-      "title": "Trump’s ‘Medical Freedom’ Hypocrisy Exposed in New Lockdown - The Daily Beast",
-      "published": "2026-05-22T17:03:00+00:00",
-      "summary": "Trump’s ‘Medical Freedom’ Hypocrisy Exposed in New Lockdown&nbsp;&nbsp;The Daily BeastHealth Experts ‘Stunned’ by Trump Officials’ Strict Quarantine Measures&nbsp;&nbsp;The New York TimesAnti-science Trump team flounders in face of Ebola outbreak&nbsp;&nbsp;Daily Kos",
-      "sources": [
-        {
-          "name": "The Daily Beast",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSldTNWxnUUQtd2lTUVcxYnBWSFUxTHV0SWxOaTRLRTU1aHlaRUJtZkJNbWlsUFQyemFhT0tfZkF6WXNxQmpJQ0l6bUdLMWw3RTNHNzlYQUpDMHVsVTBSekR5N3VCZjJqeWVZQ1pFN1A3eDJqMDZqX2hwMzNrbWU4cWo3eWF2NXdGWjAxdmVHaWU?oc=5"
         }
       ]
     },
@@ -534,18 +534,6 @@
       ]
     },
     {
-      "id": "8859d917d23c",
-      "title": "New AI Blood Test Predicts Stroke, Heart Failure, and More up to 15 Years in Advance - SciTechDaily",
-      "published": "2026-05-22T15:26:05+00:00",
-      "summary": "New AI Blood Test Predicts Stroke, Heart Failure, and More up to 15 Years in Advance&nbsp;&nbsp;SciTechDailyRoutine test may reveal hidden stroke risk years before it happens&nbsp;&nbsp;Earth.comYour Bloodwork May Reveal Diseases Years Before Symptoms Start&nbsp;&nbsp;MindBodyGreen",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQkxVT3dmemlhVGFRWlBRV2ZOeDJHbm1Wbkoyd2NBQlEyQWstU0dIYVhUNjFFZTNNOGFETWZMS3lZMF9pVUZlQTJTdzFLWUxudnhObm9jU1E5eWc0anB1WmVLR1NGUnp1Q2Z2am1DVnpVQ2tqM2FuekltOWJMS0N6TThwRG9YaEFUTmpwem5XVV9UMjdEX2FuM1R1enY0T1pobDh2cUZtRXp2aGVZ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "40973cc71ede",
       "title": "Research raises questions about vitamin D and calcium supplements for fracture prevention - Pulse Today",
       "published": "2026-05-22T14:43:37+00:00",
@@ -554,18 +542,6 @@
         {
           "name": "Pulse Today",
           "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQT2JmZndYSE4tYWtmM0ZhZnBreHBraXlPRENleU11d3FDS2xJVDAtU25ocGFCdHFKU3g5eEgxN2FURm1zS3h1ZG9FcDJRVXJkdUhqdFNzLTZDNTRRNmxfYUVYb2w5ZEZycFM1Mmx6a2hGVXNTQ2FJbUhFT251NzV4eE9yQ25zWlhfaU1XelRQZDJnSGlLUWdQTWV4bDQ3NFlsRjU0RGxtRXFCaVdXdXpoWjNiOHJyOXR6R2p0NElhOHlfTTF2WkRxUWg4RXNybGVtQTh4c3B1b1JHOGhPU0RZa2ZlUThJbllQcnBhRHJseWVmV05LQ1ZPQ0tTeTJnYmpFX2JvVFpQMmFGQ3B5MzlYUVhn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2fd4178d9f48",
-      "title": "Dutch hospital RadboudUMC admits patient possibly infected with Ebola virus - NL Times",
-      "published": "2026-05-22T14:30:20+00:00",
-      "summary": "Dutch hospital RadboudUMC admits patient possibly infected with Ebola virus&nbsp;&nbsp;NL TimesSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "NL Times",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUTdMTEJJYk5zWi1QSldaYk5zdWFUOVNPbjRKcFdzOFY3X3k4TG1lV3IxUWhleHJJMi1uSjFkMENtbm8zdTU1ODVuZ1RqczVMaTJRSjJZdkJlckdSVWo0SGFXdWJHLW1sOTdyVFZUQzB3T3VYZWg0Q19KWkdjUGRGYVVMRFQ5MDhULWlfYnZlWVpTUFdrMUczR0prdFBjR3VKTFE?oc=5"
         }
       ]
     },
@@ -594,86 +570,14 @@
       ]
     },
     {
-      "id": "78d21496bcc9",
-      "title": "Scientists Found The Atomic Reason That Gold Refuses to Rust - ScienceAlert",
-      "published": "2026-05-22T12:04:31+00:00",
-      "summary": "Scientists Found The Atomic Reason That Gold Refuses to Rust&nbsp;&nbsp;ScienceAlertHow does gold keep its glitter? Researchers uncover why it resists tarnish&nbsp;&nbsp;Phys.orgPhysics explains why gold stays pristine&nbsp;&nbsp;Science NewsScientists Identify Atomic Trick That Keeps Gold Shiny&nbsp;&nbsp;GizmodoGold Atoms Rearrange To Block Oxidation In Seconds&nbsp;&nbsp;Quantum Zeitgeist",
+      "id": "af3dc7fc9603",
+      "title": "First Controlled Human Trial Linking Maitake Mushroom Consumption to Improved Cognitive Function - MycoStories",
+      "published": "2026-05-22T13:16:09+00:00",
+      "summary": "First Controlled Human Trial Linking Maitake Mushroom Consumption to Improved Cognitive Function&nbsp;&nbsp;MycoStories",
       "sources": [
         {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYmRGZ28tSHdabnhabEFJTWRGYm1iaV9Ka0dnZTlCX29reFJYczd0RU12VmozQkRnMlFtOWxYOHk1V1pJcW9JMUhuMjdjek5YYV91OVROelVDQTlLM0tYNG54a213ZGM1SDB4UjRCa3M5TmxFTm43cG52YmVobnJTdG14dmpqYW5KWDlTZm00NDFaOUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cbbc873c08ef",
-      "title": "Dante imagined a catastrophic planetary impact in striking geological detail 500 years before science understood how asteroids work — and it took a researcher reading the Inferno to notice - Space Daily",
-      "published": "2026-05-22T11:52:18+00:00",
-      "summary": "Dante imagined a catastrophic planetary impact in striking geological detail 500 years before science understood how asteroids work — and it took a researcher reading the Inferno to notice&nbsp;&nbsp;Space Daily",
-      "sources": [
-        {
-          "name": "Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNZ2NQRTlLak5UNkdfMkk3TlNQSVhBUnBkTFo4ZC1uamxBQUZuc3lEYUhoeGExckEzZVFpTVdITDdxWTdRZGVpcFVhajFWSC1PT2JZRE1mc2I1MjFKNzI4WVJaQVNtRGtGdHJLRFpZUXA1UzlBV1RVUll3dWk4RVhfWjlOME1sNy0td1BvNndSMW5NYlJHb3hkMDhmTVpHbll2dnhLNS1nTUtCQlQ3V285eDZ3amV4QlR0UWJSbDFSZDBqRUhRZ3FMd2NOaXB0MGFpVlAzeVpxdUlQLUhfRE5IcnFDRU5mWGY2UTFEZy16S1Z1NXg1bW5wbENTcTZ1ZDhoWkFQcnV4UjRwdWN4c2hGb0VKTUVjcGNpVjBUZVM5a3ZjWDFMSUhIUW5WMjV1aWZMMG5BamY3Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "14632ff1f785",
-      "title": "Scientists discover simple way to relieve arthritis pain without pills or surgery - ScienceDaily",
-      "published": "2026-05-22T11:11:04+00:00",
-      "summary": "Scientists discover simple way to relieve arthritis pain without pills or surgery&nbsp;&nbsp;ScienceDailyExperts have a new simple solution for your knee, hip and back pain&nbsp;&nbsp;The IndependentThis is the best type of exercise for knee pain from arthritis, according to scientists&nbsp;&nbsp;MSNNew study finds simple way to ease arthritis pain without medication or surgery&nbsp;&nbsp;The News InternationalNo pills no surgery: Scientists uncover simple arthritis pain relief method&nbsp;&nbsp",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qQXRBTUlSY0J3Q19GSV9Ta19ReFQtclFzQzN4cHpIbkstOHJpWTBHTTFXdHpJREQzaXAzQWNuUXUyWklCTjhqNVptbjdSR05BekpWa090QlU2ZTBEd3ZHbGxWdlJEYXFGUjZISzBmWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9fa7ef0f550d",
-      "title": "Widely criticized keto diet study retracted - Retraction Watch",
-      "published": "2026-05-22T10:00:00+00:00",
-      "summary": "Widely criticized keto diet study retracted&nbsp;&nbsp;Retraction Watch",
-      "sources": [
-        {
-          "name": "Retraction Watch",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYnk1VHNHSWhpVHhRZS1LRHM1RmhTSm95Ri1OQklZblpJYXdOUEJxeXo4SVd0azVpNUtjMDBOLTd3VWlHbG9xblJTaVVBeFpVQWR5Qk5paXdURllpNGptX0lERXVPc0dLNG84eWgza2RUc1VVajFpaG8zV1ZpMjNrTnI4VWxIcFJXZzlN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "691874cd97fc",
-      "title": "A neuroscientist's guide to future-proofing your brain and thinking smarter in the 21st Century - BBC",
-      "published": "2026-05-22T09:02:02+00:00",
-      "summary": "A neuroscientist's guide to future-proofing your brain and thinking smarter in the 21st Century&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTFVma3c5NjVYRHpYc2kxVVJGUDdTZHp0MjNucXlWd1ZZZENuUkpMLVNvOVR0cDFjMFBTQXJRUEZwZktCY1RyWnhRTWZGY0NLY1VFc1MwRV92VXRuV1htcGNwM042TEh4aTVqQnY1Wk51bWl2SEFZcDJLTUJabC12VVAxSHdUQXBCZFJZdl9lWEJWY3NuZTltVVBDVkZWQzBhY1REQnRSWnFLTVVsaE5BRTA2WS14WXJ4TkN5UzBCWm54Skta?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ec4d853aa36f",
-      "title": "Atlas reveals rocks with rare earth element potential, helping pinpoint new deposits - Phys.org",
-      "published": "2026-05-22T09:00:09+00:00",
-      "summary": "Atlas reveals rocks with rare earth element potential, helping pinpoint new deposits&nbsp;&nbsp;Phys.orgNew global map helps pinpoint rare earth elements&nbsp;&nbsp;LabrootsThe Strange Rocks That Could Loosen China’s Grip on Rare Earths&nbsp;&nbsp;ScienceBlog.comScientists create new atlas to help countries find rare earth deposits&nbsp;&nbsp;Mid-dayHow to find rare earths on your property: University of Cambridge research creates 'new atlas' to help locate critical deposits of these metals&nbsp",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MTDI4TzBrbTlWMXhEaEl3OGFqWThyamtJdkIxQkRfSWlDRV9HMF9mUjRVd0dyNDRRYTMzell0TzlOWGdoTXhDSkpTRUMzSk9rUF9rQUp6NTRXRm1kcmhzOFpyc2MtM1FzdEdKeUNrNHQwQ1NPZVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "87c18e01acca",
-      "title": "As a gut health scientist, these are the foods I eat to reduce my bowel cancer risk - The Telegraph",
-      "published": "2026-05-22T07:00:00+00:00",
-      "summary": "As a gut health scientist, these are the foods I eat to reduce my bowel cancer risk&nbsp;&nbsp;The Telegraph",
-      "sources": [
-        {
-          "name": "The Telegraph",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPazBGNU1fX2pqX0hUU0RqNWlMaC02M0Q3SmVfUlF0UW9DeXdGU0pSc3JuVS1KbnRmOHFhQ3NOc1FON3ZvMTFEZHItZmNobzUzNWlRYTVHRWUwZjMweXczeThneFN2aHlHMkY1Yl96ZzEzcnF4R0t2VVBDZ29BUTdFZFN5VG1mLXdfU0xSSzN4ZThsdXBGSG04bFhoQVVvd0d4Y3FIb3phVlFPYV9IdDA0bnhn?oc=5"
+          "name": "MycoStories",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQlRIVFdqVmlUSVhaTzRVYjlzaWFXMlpoTW05N051NmZaV0VoMUE4THBwN2JzMHpKT0RVRVBCclVWZS00bU5RZkZEZ25yNER2U1NRSXZFRWJLV3YyNlhMU1B3YVdzZ0tOV3JMY052NVFvZGU5WENLZ2dHN2FFQ3dzU1RxRmYxNW40bi16U2FWSXBfMUphY1diSzIxZWtCemFaalIxZlY0eVJlYm1faFZLS1V3UG9WcDRWWWxsT0VNQWVLdw?oc=5"
         }
       ]
     }

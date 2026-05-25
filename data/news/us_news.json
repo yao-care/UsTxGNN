@@ -1,10 +1,58 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-25T15:14:04.020793+00:00",
-  "total_fetched": 106,
-  "unique_count": 106,
-  "health_related_count": 44,
+  "fetched_at": "2026-05-25T19:44:59.870877+00:00",
+  "total_fetched": 124,
+  "unique_count": 123,
+  "health_related_count": 52,
   "news": [
+    {
+      "id": "8f2c6e3489dd",
+      "title": "Even for nonsmokers, a persistent cough may be a sign of lung cancer - The Times",
+      "published": "2026-05-25T16:00:00+00:00",
+      "summary": "Even for nonsmokers, a persistent cough may be a sign of lung cancer&nbsp;&nbsp;The TimesNHS lung cancer scans in car parks detect 10,000 cases&nbsp;&nbsp;The TelegraphSupermarket lung cancer checks find 10,000 cases in England&nbsp;&nbsp;The IndependentGreater Manchester is leading fight against lung cancer as national screening hits new milestone&nbsp;&nbsp;Manchester University NHS Foundation Trust‘NHS cancer check outside Morrisons may have saved my life’&nbsp;&nbsp;Daily Express",
+      "sources": [
+        {
+          "name": "The Times",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMS14Q1ZGVGJ4dEk5eHdFOExwVmRmbmh4RGNnR0l5N1pfVGNaU29Ecnp5SENBeVl2emZMZUtUeUhwdVA3dmp6Y1VCTklXejJhM051aWFsUWFQWmlEcGtaNGhlOWFRa1l6aE1wbXlSTlBxMjRGSm43aHVhT3RNcVZNTzhQMGl3NF9FOWN0cHhxM0RtTllueEJ1a1pITmwzN1o3UUg3V3B1REJveGhNc2lad3FWRERJWk9wS2JiOHFzNXZWYThsVU1XaHRfWGVvNWxKMU5mVlJpcUdfeVFDaHRfdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "787246549724",
+      "title": "WHO chief says fast-moving Ebola epidemic is outpacing response efforts - Reuters",
+      "published": "2026-05-25T14:28:32+00:00",
+      "summary": "WHO chief says fast-moving Ebola epidemic is outpacing response efforts&nbsp;&nbsp;ReutersEbola Outbreak Threatens Millions in the Democratic Republic of the Congo&nbsp;&nbsp;JW.ORGDoctors, Hospitals Struggle to Keep Up With Ebola’s Spread&nbsp;&nbsp;WSJInside the epicenter of the Ebola outbreak in DRC as the virus spreads&nbsp;&nbsp;CNNUgandan health officials report new Ebola virus infections, bringing cases to 7&nbsp;&nbsp;PBS",
+      "sources": [
+        {
+          "name": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZUo0UFRjdUx1VTZmV2hrMnNkeE9GUEJTSFlhZ3NpUlBTNUxidVhaWTByWXd2R0NiaExsVXh3MFpJMUQyemRmVC0zR0tYT3RFX1BGNVhFOGQzbzBXS2NLcU55cmEyM1l6dHRiZkpIVXMtbTBoTE1xeUFwS1kxQXNkUDhtb1NWdUhLU3BjZHpuekVsY0ZFYUtqSEZob214QVJGR1NyVXNyOGhraDNNWlpvYnVBZFQ3RUs2b3N6S1RYVjlDaWVZVDc3Si0xMzdDNlY5RmoyZ29URTVkdUZiY2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b46ed5e4a5da",
+      "title": "Two suspected Ebola cases detected in Italy after return from Uganda - Euronews.com",
+      "published": "2026-05-25T14:10:48+00:00",
+      "summary": "Two suspected Ebola cases detected in Italy after return from Uganda&nbsp;&nbsp;Euronews.comItaly reports 2 suspected Ebola cases in Milan after their return from Uganda&nbsp;&nbsp;Anadolu AjansıHealth alert after two suspected Ebola cases detected in Italy - as WHO warns epidemic in DR Congo 'extremely serious'&nbsp;&nbsp;The SunItaly’s Lombardy Region Reports Two Suspected Ebola Cases in Como, Tests Pending - News and Statistics&nbsp;&nbsp;IndexBoxHealth alert after two suspected Ebola cases d",
+      "sources": [
+        {
+          "name": "Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzdxNDlBNUNBQ0pSa1B2LVpuaGRoMEkxWFNxSHdQNFlwTmgxSjRScG9wX0tHVHVFZjNzRmNXQXM4YWRpV0tDcmpIc0ljQkZaVVlSWjR1eFJOMmJMWnlhUl9Zc2ZPb1J4a2M3eDRkakFwN3NzR2xRdTEwaGtoclVaczIwbTdzZVVJNUhpWlpxd2N6dGlkRE1CTXZXZjhXS3ZFRlRPYmdtV19EVkw2LUF4eGMxaWJ5cHZTQ3ppdzJDUWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0da6552d8005",
+      "title": "A Common Arthritis Drug Appears to Work When Antidepressants Don't - ScienceAlert",
+      "published": "2026-05-25T14:01:44+00:00",
+      "summary": "A Common Arthritis Drug Appears to Work When Antidepressants Don't&nbsp;&nbsp;ScienceAlertArthritis Drug Rescues Hard-to-Treat Depression&nbsp;&nbsp;Neuroscience NewsImmunotherapy could be used to treat depression, early trial suggests&nbsp;&nbsp;The GuardianCould blocking inflammation help treat difficult-to-treat depression?&nbsp;&nbsp;News-MedicalIL-6 Drug Promising in Depression; U.S. More Anxious; AI Risks in Addiction Medicine&nbsp;&nbsp;MedPage Today",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRm15YWZQNXJ5bUZfOXUwcTJoUk5iY2g4dWlBclg4TURCSFpqZUxMT3Y3RTJiTUFDYVljVWx5NTJVUlFfX0ZxTE53a1ZXZm1RUWszbkJFaDdadFFHNnRjQ3BtV0MxdURhZWI0VVFFV202RUpUeHlLVkMtZHZVZmlIWVpMWjQ1Y3N4NGc2ekNKMC1XZFIzdGZGTkhB?oc=5"
+        }
+      ]
+    },
     {
       "id": "7216e18d8fb3",
       "title": "3 medical routines that older people may not need - Daily Kos",
@@ -18,14 +66,74 @@
       ]
     },
     {
-      "id": "4737f7a3b1d1",
-      "title": "In City at Center of Ebola Crisis, ‘the Virus Is Far Ahead of Us’ - The New York Times",
-      "published": "2026-05-25T12:24:00+00:00",
-      "summary": "In City at Center of Ebola Crisis, ‘the Virus Is Far Ahead of Us’&nbsp;&nbsp;The New York TimesWHO chief says suspected Ebola deaths at 220 as epidemic ‘outpacing us’&nbsp;&nbsp;Al JazeeraDoctors, Hospitals Struggle to Keep Up With Ebola’s Spread&nbsp;&nbsp;WSJInside the epicenter of the Ebola outbreak in DRC as the virus spreads&nbsp;&nbsp;CNNUgandan health officials report new Ebola virus infections, bringing cases to 7&nbsp;&nbsp;PBS",
+      "id": "1b06dae8d9c6",
+      "title": "Sexually transmitted infections surge across Europe to decade-high levels, with gonorrhea up 303% - ynetnews",
+      "published": "2026-05-25T12:23:13+00:00",
+      "summary": "Sexually transmitted infections surge across Europe to decade-high levels, with gonorrhea up 303%&nbsp;&nbsp;ynetnewsGonorrhoea and syphilis hit record levels in Europe, data shows&nbsp;&nbsp;BBCSexually transmitted infections are reaching record highs in Europe&nbsp;&nbsp;CIDRAPGonorrhea and syphilis skyrocket in Europe — and this country has the highest spike&nbsp;&nbsp;New York PostSTIs hit record levels in Europe: what’s driving the rise?&nbsp;&nbsp;Euronews.com",
       "sources": [
         {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeDlGVjFEX0RPRVI4eFA2a2xRLXR3U0ctWHFnQVZlaEVHUlc1S2FHYjhncEFHNV9TNUM1anlBa0dQVnZMeUx0dXp4VDJvYm9NWnpDM20wVGV2c3lIWUhNVzNCcWFCdDJqNEFJNmwyZUw0eDA2R3YtQ2gwQWthbHcwc3ItZk1Hdw?oc=5"
+          "name": "ynetnews",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Wa3VCUEJIZi13THlrcVhiUGRWSlliWGVhSUdVYkNXWnRwYTBVM1l6Nkxxdkx2TlRldEpiSnd5V2F0Q1NaQVh5bnU5OEE5MVo5eFBnOVIyNlBySktZSm5GR3dubW1ETERSTTBJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "54ee6bba5ec7",
+      "title": "Did 3I/ATLAS Deliver Extrasolar Life to Our Backyard? - Avi Loeb – Medium",
+      "published": "2026-05-25T11:49:49+00:00",
+      "summary": "Did 3I/ATLAS Deliver Extrasolar Life to Our Backyard?&nbsp;&nbsp;Avi Loeb – MediumBoth Hemispheres of 3I/ATLAS Observed Simultaneously by JUICE and Europa Clipper&nbsp;&nbsp;Universe Today",
+      "sources": [
+        {
+          "name": "Avi Loeb – Medium",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLXFyNHczY1o4cjQ5WHVzRkFENVhfZC1CQWVkYzREbzNvc1B5Wl9SM1p1ci04SlR4bUxQbkZTVnlLbHQ3Q05pVmVTU29Sekc4cEZ6QVB3SkdCVGhndkRRZy1uYjdjd0VyZ2ZoRDA1ODBqREdPMFJnMWZYbXptLWE2dy0yQ0hJWi1sWDdJR3VjRjdGUkpZRkNkeg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "85f50ca09dc6",
+      "title": "California’s ‘Plan B for STIs’ is working — with one exception - San Francisco Chronicle",
+      "published": "2026-05-25T11:02:55+00:00",
+      "summary": "California’s ‘Plan B for STIs’ is working — with one exception&nbsp;&nbsp;San Francisco ChronicleCATIE: Eight-year study finds dramatic decrease in syphilis with use of doxyPEP&nbsp;&nbsp;European AIDS Treatment GroupDoxyPEP Effectiveness Against Gonorrhea Has Declined Over Time, reveals JAMA study&nbsp;&nbsp;Medical Dialogues",
+      "sources": [
+        {
+          "name": "San Francisco Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMTAycVpEc19jek1LTzdseWZ2aVBOOWNQVzZFcVl3ZHZvSWY5aFhtTmJ1T1BzZ2ZtQWVocW1mQkY5SzB2VHNsYUFvc0ZoOUpabTFUZnFQbDNlSkxOQU5oYkhuWG10VU42MmZ2V3Y3dnpIVWV5ejdXRTI0Q3VQSUhWT01Cc01hS185?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d7e81539cde3",
+      "title": "Nightly Sleep Apnea Pill Fast-Tracked For Approval After Latest Trial Success - ScienceAlert",
+      "published": "2026-05-25T11:01:44+00:00",
+      "summary": "Nightly Sleep Apnea Pill Fast-Tracked For Approval After Latest Trial Success&nbsp;&nbsp;ScienceAlertHow decades of sleep research led to a new sleep apnea drug&nbsp;&nbsp;University of TorontoOnce-Nightly Pill Treats Causes of Airway Collapse to Control OSA&nbsp;&nbsp;American Thoracic SocietyPhase 3 SynAIRgy Data, Mechanistic Review Strengthen Scientific Foundation for Apnimed’s Oral OSA Therapy AD109&nbsp;&nbsp;Neurology LiveProfessor Danny Eckert’s sleep apnoea breakthrough offers new hope&n",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZTVBWEl2OU05WUgtcnFSN296clRkcTlHN0Vkam0tTjlVOXBiYmpIMnVDV0dzcTJoN3hqLTNDcjh3c2U4bjItSDRlcjE3RzNtZHZ6bENrNTZwWkFiV3djbWFwQUQxUzZ1VzRtaXJ0QV8waEtrcEtMMGwzQTJfZW5RU0NmbjlScVNyVTZpbGJHVDRBckhVMUVKQ0ctLU9RZ1IzUFBDRXFNX0J3Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e7c24c4630d2",
+      "title": "New Study Says 30 Minutes Of Weekly Exercise Is All You Need — But There’s A Catch - HuffPost",
+      "published": "2026-05-25T11:00:18+00:00",
+      "summary": "New Study Says 30 Minutes Of Weekly Exercise Is All You Need — But There’s A Catch&nbsp;&nbsp;HuffPostA new study says you need 10 hours of exercise a week. Can that really be possible?&nbsp;&nbsp;Scientific AmericanFor real heart protection, the weekly exercise number climbs far beyond current advice&nbsp;&nbsp;Medical XpressLeast fit people need to do more exercise than fittest to get same benefit – study | Fitness&nbsp;&nbsp;The GuardianSaturday citations: Two T. rexes and new exercise guidan",
+      "sources": [
+        {
+          "name": "HuffPost",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZWdlQlR6c3c2WVFBb0ZXT3NSVGFMcTdta19Uc2lpUG9LWVB3bk85djVZakJrbFBVVGtEbG1USEtneDFtS1l0YWd6OE56ZDcweHFfY0M1cFM4eEpxZ21mSmlOcVhHN21QWWY3bThFekxGcVRGdnpVVEIzMDl4WVNFcW5fMHg0emR6R0NnTEE2XzBkZHB1M0RKZl9LS2kyUWZUa1JqcGtXZjl0QdIBrwFBVV95cUxOZ1R2RXlhaDl6bGNjXy1WeVEtUlZWM21fWDQ2c1ZjQmtISDNfQWE1WjlVRWhkWmEybEE5TDdMZXR6NUx4RXAtVGM1cXRDbjdoZjljMk5xaWRoMGtSd1RpTm10cncxVWs4VEwtUHlPSDZlc0V2WS1fX2syRVczVkYtbWYtMmhCc3NWaTdLYmUwNjlKTlFkOXQ0eVB3SFgwR3lzRmI2NTNnTU9OdzZ3QjdZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bcc9ae801593",
+      "title": "How NY and NJ are preparing for all the World Cup worst-case scenarios - Gothamist",
+      "published": "2026-05-25T10:01:00+00:00",
+      "summary": "How NY and NJ are preparing for all the World Cup worst-case scenarios&nbsp;&nbsp;GothamistPublic health experts on high alert for infectious disease outbreaks as World Cup nears&nbsp;&nbsp;WJARWorld Cup’s hidden health operation&nbsp;&nbsp;Your Local Epidemiologist2026 FIFA World Cup faces health risks from heat, infectious diseases and food safety, experts say&nbsp;&nbsp;Yahoo SportsWorld Cup Poses Litmus Test for US Public Health Infrastructure&nbsp;&nbsp;Bloomberg Law News",
+      "sources": [
+        {
+          "name": "Gothamist",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdGNaZ0ZCbjYzUkJpem1aQk5NZm9LaWYxUW05YUxFWUhkc3hPcGpfeTc4X2FEay1MWTlfMkZsOGlnR1k5amdmSTBzT2FqQVJSRG9JWUdRLWlEUnFjNDVGZkZBcE1OaXlsdjJOdEY0dVAtQWg1VzQyR1RaTTNod2hFQll3MzZHZk1LY3AyS2VrQWwzVElyeldTWTZiRTg1dw?oc=5"
         }
       ]
     },
@@ -42,14 +150,38 @@
       ]
     },
     {
-      "id": "8f8b2b0105a1",
-      "title": "NHS lung cancer scans in car parks detect 10,000 cases - The Telegraph",
-      "published": "2026-05-25T05:00:00+00:00",
-      "summary": "NHS lung cancer scans in car parks detect 10,000 cases&nbsp;&nbsp;The TelegraphGreater Manchester is leading fight against lung cancer as national screening hits new milestone&nbsp;&nbsp;Manchester University NHS Foundation Trust‘NHS cancer check outside Morrisons may have saved my life’&nbsp;&nbsp;Daily ExpressSupermarket lung cancer checks find 10,000 cases in England&nbsp;&nbsp;The IndependentNHS scanning trucks detect more than 10,000 lung cancer cases&nbsp;&nbsp;The Mirror",
+      "id": "b4c74233a956",
+      "title": "Nutritionists Are Warning That These Popular \"Healthy\" Foods Are Secretly Destroying Your Health - BuzzFeed",
+      "published": "2026-05-25T09:15:02+00:00",
+      "summary": "Nutritionists Are Warning That These Popular \"Healthy\" Foods Are Secretly Destroying Your Health&nbsp;&nbsp;BuzzFeed23 \"Healthy\" Foods That Aren't As Innocent As They Look&nbsp;&nbsp;AOL.com'Healthy' Breakfast Foods May Drive Weight Gain, Expert Warns&nbsp;&nbsp;Seoul Economic DailyNutritionists Reveal 18 Foods That Seem Healthy But Aren’t&nbsp;&nbsp;Fast Food Club5 school breakfasts with vegetables that seem healthy, but are a trap for weight gain&nbsp;&nbsp;Soy Carmín",
       "sources": [
         {
-          "name": "The Telegraph",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONVRlQkdaQUpuc2hyWFNuaEJNYTVzYzlCWkRjZUdxajEyQ21tUDJYSC1YRjVZdVlyTGVfcFFEV0tiLTVYY0d5UmoxdFdvNnpzbUlGYXd3bFB2S2dzUkVtcFcyeDlHRjV2enVFOXkybEdFX0dDQzB6eXZSeS1zMG9KQzRiNFBoY2xrakR3?oc=5"
+          "name": "BuzzFeed",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41YUppeEJlRkhGWVFiUVhPbjFmRjh5czVXREhCdU00aER0SkV0X0ozeWF2TlZreS1qb2o1cnh6eWF6cU5VcDV2djhlV2tWb1Z4YW9oVlJDZmRIVGJWTG1MSmpCcVA4cmpZdVpobU4xZlJjbjZ1aEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "145f431a7f92",
+      "title": "Misinformation about perimenopause on social media ‘putting women at risk’ - The Guardian",
+      "published": "2026-05-25T09:00:00+00:00",
+      "summary": "Misinformation about perimenopause on social media ‘putting women at risk’&nbsp;&nbsp;The GuardianDoctors warn against ‘overwhelming’ surge of online disinformation on menopause&nbsp;&nbsp;CTV NewsFace Perimenopause with Hope&nbsp;&nbsp;The Gospel CoalitionPrevent And Protect: Now Is The Time To Get Get Ready For Menopause&nbsp;&nbsp;essence.comHow the perimenopause movement is hurting women&nbsp;&nbsp;statnews.com",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZlNpdkJJM2FGNGZIbnZtOUJEcER4NkZzaVVJUVU3ZFd0MHZhQVNSN0ZaR1JNQTk1N2RsNXhKR2t3Z1QwekdpbmlrakR6Z3RkMlZvWW9mVDU0LUFVVUJNNHNMTmIxY0NYU1QyakpQeE94NFN6ZEF4MHBaWXYxZi1VaWx1dGRSc1V1cExTa2c3cjZ3cTQyTG80RmZjNU9ETHlWUWl6bmFlY0lsS2FEYk11NnlXN05zdDI3VVEtag?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0d07748131fc",
+      "title": "A Single Dose of Psilocybin Could Ease Depression For Months, New Study Finds - ScienceAlert",
+      "published": "2026-05-25T03:30:46+00:00",
+      "summary": "A Single Dose of Psilocybin Could Ease Depression For Months, New Study Finds&nbsp;&nbsp;ScienceAlertSingle Dose Of Psilocybin Mushrooms Acts As A Natural Antidepressant: Swedish Study&nbsp;&nbsp;ETV BharatA Single Dose Of Psilocybin Can Lead To 'Rapid' And 'Long-Lasting' Improvements In Depression, Study Indicates&nbsp;&nbsp;Marijuana MomentSingle Psilocybin Dose Provides Rapid Relief From Depression, Small Clinical Trial Finds&nbsp;&nbsp;U.S. News & World ReportKarolinska Institutet Evaluates ",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcUc4ZVFFem9EdjJqcG9jdEdmeFQ2cW43OGNtanMzcXY0T1doNFIyWDhwSzJYZk50UWl0emg2RmpnQ3VsaWhCQkJTcUEzdFBPVWF3NWMzRktuLURzS2tsTlYwR1llcTVCdDI2X29sLVRpejRlZU1vek5DUzVVbHNFbHhhVThfelFQbmNpZXd0ZXAzOU1PQUk3cXduWk1qczRtVjluVS1UNGY?oc=5"
         }
       ]
     },
@@ -66,6 +198,18 @@
       ]
     },
     {
+      "id": "ddddb5fa8a83",
+      "title": "First video of immune cells eating live skin cancer in real time - The Conversation",
+      "published": "2026-05-25T03:05:00+00:00",
+      "summary": "First video of immune cells eating live skin cancer in real time&nbsp;&nbsp;The ConversationWatch 9News Latest Stories - Season 2026 - Potential new approach for melanoma treatment discovered&nbsp;&nbsp;9NowSydney scientists capture body fighting cancer cells in groundbreaking discovery&nbsp;&nbsp;7NEWSWatch Immune System “Housekeepers” Munching On Skin Cancer Cells In Incredible First-Of-Its-Kind Footage&nbsp;&nbsp;IFLScienceScientists capture immune cells attacking live melanoma cells in real ",
+      "sources": [
+        {
+          "name": "The Conversation",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSG45SWs1S01tZXViNE44NzFtSl9CREFYLWJxelNhUUs5UGU1WFpfd0QtZFUyQm1TTDVLbWQzNnMtV2R0eElQYk5jYXNWN2o1OG53bTNZYjM0Um9rZGV2RllrSWZOc0ZxX3EzUFJvYmRRVUFNVEVDUlFOc2l3WFU4bXVBSUpXWmk0a0o2VngwR194SHhYcUZGZkUzd3FSR1lf?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b3fbd9707d4a",
       "title": "Researchers Reveal the Surprisingly Easy Habit Linked to Longer Healthier Lives - SciTechDaily",
       "published": "2026-05-25T02:06:19+00:00",
@@ -78,10 +222,22 @@
       ]
     },
     {
+      "id": "db89fbdbfa4f",
+      "title": "Stress Incontinence? Women Swear This Trick Stops Bladder Leaks Instantly - AOL.com",
+      "published": "2026-05-24T23:23:31+00:00",
+      "summary": "Stress Incontinence? Women Swear This Trick Stops Bladder Leaks Instantly&nbsp;&nbsp;AOL.comMEDICAL MONDAY: Local specialist working to break stigma around urinary incontinence&nbsp;&nbsp;WXOWUrinary incontinence may signal serious illness, doctor warns as bladder control issues linked to cancer and neurological disease&nbsp;&nbsp;Malay Mail",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQczd1SGs4b1pzd0s5cFZJa0lvMW52b0xzallkX1F2dFFMaGxNeXRoc1QwXzUwWmNmUGo1ZXl1RnkwdnFmRXRjZDloWEo4cUd1eVR0cFdDSHhtbzVxcWhxWmlqUXZHZ0tTUjM1eXgwVHlCM3pJWF9VaDlLendhNUZsOGxGY3dvcWVZ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "807b3a92d545",
       "title": "Most Covid-19 cases linked to mild variant - Bangkok Post",
       "published": "2026-05-24T22:06:00+00:00",
-      "summary": "Most Covid-19 cases linked to mild variant&nbsp;&nbsp;Bangkok PostThailand urges calm over S’pore’s Covid-19 spike; no severe outbreak from dominant NB.1.8.1 strain&nbsp;&nbsp;The Straits TimesSingapore monitoring rise in COVID-19 infections; current vaccine still effective for protection&nbsp;&nbsp;CNAThailand urges calm over Singapore's Covid-19 surge, says variant already circulating, Asia News&nbsp;&nbsp;AsiaOneCovid-19 cases surge in Singapore, infections jump to 12,700 in a week&nbsp;&nbsp",
+      "summary": "Most Covid-19 cases linked to mild variant&nbsp;&nbsp;Bangkok PostThailand urges calm over S’pore’s Covid-19 spike; no severe outbreak from dominant NB.1.8.1 strain&nbsp;&nbsp;The Straits TimesSingapore monitoring rise in COVID-19 infections; current vaccine still effective for protection&nbsp;&nbsp;CNACovid-19 cases surge in Singapore, infections jump to 12,700 in a week&nbsp;&nbsp;NST OnlineThailand reports rise in COVID-19 cases, severity remains low&nbsp;&nbsp;Thai PBS World",
       "sources": [
         {
           "name": "Bangkok Post",
@@ -93,7 +249,7 @@
       "id": "01d3f29c0e1f",
       "title": "‘Stomach flu’ outbreak slams hikers on California section of Pacific Crest Trail - Sacramento Bee",
       "published": "2026-05-24T21:05:00+00:00",
-      "summary": "‘Stomach flu’ outbreak slams hikers on California section of Pacific Crest Trail&nbsp;&nbsp;Sacramento BeeDozens of California Hikers Get Mysteriously Sick With Norovirus&nbsp;&nbsp;NewsweekNorovirus Is Ravaging Hikers on the Pacific Crest Trail&nbsp;&nbsp;The Inertia'I've never been that weak': Hikers hit with norovirus on the Pacific Crest Trail&nbsp;&nbsp;SFGATEA Highly Contagious Illness Is Sickening Hikers on the PCT—and Hand Sanitizer Can't Stop It&nbsp;&nbsp;Backpacker Magazine",
+      "summary": "‘Stomach flu’ outbreak slams hikers on California section of Pacific Crest Trail&nbsp;&nbsp;Sacramento Bee'I've never been that weak': Hikers hit with norovirus on the Pacific Crest Trail&nbsp;&nbsp;SFGATEDozens of California Hikers Get Mysteriously Sick With Norovirus&nbsp;&nbsp;NewsweekA Highly Contagious Illness Is Sickening Hikers on the PCT—and Hand Sanitizer Can't Stop It&nbsp;&nbsp;Backpacker MagazineThru-Hikers’ Worst Enemy Is Microscopic: Why Norovirus Is a Perennial Problem on Trails&n",
       "sources": [
         {
           "name": "Sacramento Bee",
@@ -141,7 +297,7 @@
       "id": "5065925e6e93",
       "title": "The Milky Way ate another galaxy. Scientists say they've found the scraps - KSL.com",
       "published": "2026-05-24T18:55:21+00:00",
-      "summary": "The Milky Way ate another galaxy. Scientists say they've found the scraps&nbsp;&nbsp;KSL.comThe Milky Way ate another galaxy. Scientists say they’ve found the scraps&nbsp;&nbsp;CNNStudy: Strange stars may actually be remnants of a galaxy the Milky Way 'ate'&nbsp;&nbsp;WKRCDid Milky Way secretly swallow another galaxy? Ancient stars hint at lost star system&nbsp;&nbsp;WIONScientists think they may have found the remains of an entire galaxy that the Milky Way absorbed billions of years ago — 20 un",
+      "summary": "The Milky Way ate another galaxy. Scientists say they've found the scraps&nbsp;&nbsp;KSL.comThe Milky Way ate another galaxy. Scientists say they’ve found the scraps&nbsp;&nbsp;CNNStudy: Strange stars may actually be remnants of a galaxy the Milky Way 'ate'&nbsp;&nbsp;WKRCScientists think they may have found the remains of an entire galaxy that the Milky Way absorbed billions of years ago — 20 unusual stars hiding inside our own galactic disk, possibly the leftovers of a small galaxy our own hom",
       "sources": [
         {
           "name": "KSL.com",
@@ -177,7 +333,7 @@
       "id": "b23b988d075f",
       "title": "6 rashes and infections you can get from the beach - The Washington Post",
       "published": "2026-05-24T17:00:00+00:00",
-      "summary": "6 rashes and infections you can get from the beach&nbsp;&nbsp;The Washington PostA deadly bacteria is creeping up the Atlantic Coast. How worried should you be?&nbsp;&nbsp;North Carolina Health NewsExclusive | LI oyster growers shelled again — this time by warning of killer bacteria in water&nbsp;&nbsp;New York PostWhat to know about a so-called flesh eating bacteria in Long Island Sound&nbsp;&nbsp;New England News CollaborativeFlesh-Eating Bug Could Kill Your Beach Plans—Should You Worry?&nbsp;",
+      "summary": "6 rashes and infections you can get from the beach&nbsp;&nbsp;The Washington PostA deadly bacteria is creeping up the Atlantic Coast. How worried should you be?&nbsp;&nbsp;North Carolina Health NewsUnderstanding Vibrio Risks: EMSL Analytical Provides Resources to Identify Environmental and Foodborne Pathogens&nbsp;&nbsp;WebWireExclusive | LI oyster growers shelled again — this time by warning of killer bacteria in water&nbsp;&nbsp;New York PostWhat to know about a so-called flesh eating bacteria",
       "sources": [
         {
           "name": "The Washington Post",
@@ -201,7 +357,7 @@
       "id": "04c1027bdde7",
       "title": "Americans exposed to hantavirus on ship enjoy Nebraska hospitality while in quarantine - KSL.com",
       "published": "2026-05-24T15:28:39+00:00",
-      "summary": "Americans exposed to hantavirus on ship enjoy Nebraska hospitality while in quarantine&nbsp;&nbsp;KSL.comHantavirus update: Nebraska officials awaiting CDC guidance on passengers’ release&nbsp;&nbsp;WOWTAmerican passenger feels 'betrayed' by federal order to stay in hantavirus quarantine&nbsp;&nbsp;NPRAmerican passenger on hantavirus-hit cruise feels ‘blindsided’ and ‘misled’ by new quarantine orders&nbsp;&nbsp;CNNWhy the quarantine for hantavirus is so long&nbsp;&nbsp;The Washington Post",
+      "summary": "Americans exposed to hantavirus on ship enjoy Nebraska hospitality while in quarantine&nbsp;&nbsp;KSL.comHantavirus update: Nebraska officials awaiting CDC guidance on passengers’ release&nbsp;&nbsp;WOWTWhy the quarantine for hantavirus is so long&nbsp;&nbsp;The Washington PostAmerican passenger on hantavirus-hit cruise feels ‘blindsided’ and ‘misled’ by new quarantine orders&nbsp;&nbsp;CNNPassengers exposed to hantavirus get Nebraska food, Tai Chi and tornado warning during quarantine&nbsp;&nbs",
       "sources": [
         {
           "name": "KSL.com",
@@ -225,7 +381,7 @@
       "id": "8526ee54e253",
       "title": "New light-based switch could cut chip energy use and speed future AI photonics - Tech Xplore",
       "published": "2026-05-24T14:10:01+00:00",
-      "summary": "New light-based switch could cut chip energy use and speed future AI photonics&nbsp;&nbsp;Tech XplorePhysicists create hybrid light-matter particles that interact strongly enough to compute&nbsp;&nbsp;Phys.orgLight-controlled switch uses only 4 femtojoules and brings photonic AI chips closer to a future with less heat and lower energy consumption&nbsp;&nbsp;CPG Click Petróleo e GásForget electrons, this breakthrough uses light-matter particles to power AI&nbsp;&nbsp;ScienceDailyPhotonic computin",
+      "summary": "New light-based switch could cut chip energy use and speed future AI photonics&nbsp;&nbsp;Tech XploreLight-controlled switch uses only 4 femtojoules and brings photonic AI chips closer to a future with less heat and lower energy consumption&nbsp;&nbsp;CPG Click Petróleo e GásForget electrons, this breakthrough uses light-matter particles to power AI&nbsp;&nbsp;ScienceDailyPhotonic computing component (IMAGE)&nbsp;&nbsp;EurekAlert!Physicists Created a New Hybrid Light-Matter Particle That Could R",
       "sources": [
         {
           "name": "Tech Xplore",
@@ -249,7 +405,7 @@
       "id": "da400017344a",
       "title": "More than 500 children have died in an outbreak that the world is virtually ignoring - NPR",
       "published": "2026-05-24T13:00:40+00:00",
-      "summary": "More than 500 children have died in an outbreak that the world is virtually ignoring&nbsp;&nbsp;NPRMore than 500 children die in measles outbreak in Bangladesh&nbsp;&nbsp;Al JazeeraSuspected and confirmed measles deaths top 500 in Bangladesh&nbsp;&nbsp;Reuters16 more children die of measles-like symptoms in Bangladesh&nbsp;&nbsp;Anadolu AjansıDeadly Measles Outbreak Sickens Thousands of Children in Bangladesh&nbsp;&nbsp;The New York Times",
+      "summary": "More than 500 children have died in an outbreak that the world is virtually ignoring&nbsp;&nbsp;NPRSuspected and confirmed measles deaths top 500 in Bangladesh&nbsp;&nbsp;ReutersMore than 500 children die in measles outbreak in Bangladesh&nbsp;&nbsp;Al JazeeraDeadly Measles Outbreak Sickens Thousands of Children in Bangladesh&nbsp;&nbsp;The New York Times3 more die from measles-like symptoms in Sylhet&nbsp;&nbsp;Dhaka Tribune",
       "sources": [
         {
           "name": "NPR",
@@ -261,23 +417,11 @@
       "id": "bb0caa665a96",
       "title": "Oncologists Wish You'd Stop Doing These 4 Things - EatingWell",
       "published": "2026-05-24T13:00:00+00:00",
-      "summary": "Oncologists Wish You'd Stop Doing These 4 Things&nbsp;&nbsp;EatingWellThe Simple Habit That Could Lower Your Cancer Risk&nbsp;&nbsp;SciTechDailyWant To Lower Your Cancer Risk? These 2 Beverages Can Help&nbsp;&nbsp;MindBodyGreenDoctor says 'holy trinity' of drinks could ward off cancer&nbsp;&nbsp;Daily RecordDoctor shares four 'simple rules' he says could help fight off cancer&nbsp;&nbsp;North Wales Live",
+      "summary": "Oncologists Wish You'd Stop Doing These 4 Things&nbsp;&nbsp;EatingWellThe Simple Habit That Could Lower Your Cancer Risk&nbsp;&nbsp;SciTechDailyOncologist explains how everyday habits affect cancer risk: ‘Window for action is wider than most people think’&nbsp;&nbsp;Hindustan TimesDoctor shares 'best cancer fighting drink'&nbsp;&nbsp;The MirrorSmoking And Drinking Account For 48% Of Avoidable Cancer Cases Globally&nbsp;&nbsp;NDTV",
       "sources": [
         {
           "name": "EatingWell",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuc1lLanZIX1FOTlRzdWZ2d0MwaEUzMGxDR01XSUxUVnd1bjROdEJMd1l1aUxOaklpZVNGVTdsOWNTOWF1bjk2OExVR1BaT2RrQWhNMlJXV2JEb0lvbnJLeTdFUHREZjBZNk5USEtMbDllSU5HbkZya0JTOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f9fe6176dc71",
-      "title": "People’s Pharmacy: What are the common symptoms of Hashimoto’s thyroiditis? - OregonLive.com",
-      "published": "2026-05-24T13:00:00+00:00",
-      "summary": "People’s Pharmacy: What are the common symptoms of Hashimoto’s thyroiditis?&nbsp;&nbsp;OregonLive.comWorld Thyroid Day 2026: 5 things to know about Hashimoto's Disease&nbsp;&nbsp;IndulgexpressWhat is Hashimoto’s Thyroiditis: Causes, symptoms, treatment tips, and more&nbsp;&nbsp;Moneycontrol.com",
-      "sources": [
-        {
-          "name": "OregonLive.com",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZk9STGI0TXNPZ0lRdVpmampjaWxneWtiTkVvUTljOElqTnFwckFsNmxfbkRWaGZNbXhmMFpMaHpWOUE4cHhNYktBc3dsUHRyNHI5bWJTS0xkdlQ1aXJaTlM5TlZ0T0RocmJDMkpvMlczNWhNM2ZMbnJaNFJmU2ZxVGpTUVdFVFhxdkRfbDJkYURWNTFZX1NTakd4dG5lNUpvRGMzZ1dZNHRfWnJlc1Z1T1BOTGhacUdFd3fSAc4BQVVfeXFMT0pzbmhyT09pT2ltc3pBcHNWb3M5NmttLW9pTk0tLUpUMUNoN0Jvc0FkV2NQR0RGZWhCRTd3VnZRMG0zWlZ4YmhVdzJIZTRvTS0xeVNrSW5mODFxMzJDM1M5N0xFUDNqaV95Q0hnczNXOWZQWEdfX1RwUzMxSU5zNDBNQU9WQU9kSlRuUXllTGtsZU1nYU42SXVfSGE5dWtuUXhrZmlLdnZhdHR0ZUlsRHB0c3hqVDlMcC1LOFI2RERfVGk1dndpNXg0OXlzN3c?oc=5"
         }
       ]
     },
@@ -342,26 +486,38 @@
       ]
     },
     {
-      "id": "0195be5ba986",
-      "title": "Evidence of Ancient Life Found Buried Under an Asteroid Crater - ScienceAlert",
-      "published": "2026-05-24T11:01:17+00:00",
-      "summary": "Evidence of Ancient Life Found Buried Under an Asteroid Crater&nbsp;&nbsp;ScienceAlertScientists Just Found Evidence That Asteroids May Have Helped Create Life on Earth&nbsp;&nbsp;SciTechDailyLife on Earth may have originated in the lakes remaining after meteorite impacts&nbsp;&nbsp;Universe Space TechHow Asteroid Strikes May Have Sparked Earth’s First Breath of Oxygen&nbsp;&nbsp;ScienceBlog.comEvidence of ancient life has just been found buried inside an asteroid crater — and the discovery sugg",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTkxiTHV0X2FsRVRMQ2E3a29LS3JHSDJqdTU4VG4tX1E0dlgyTERjaC04M0w5aFRMNzdMclBqbnFfYUs1VzdWT1F5b09pcWx0Tk1xWkNDZDMxeHBVX29XUzhibG1nNnJhMmphWjJFZnl5UWFoeGNhVTRPLXdTUVVlUU02U3c3V0gwNFlhZlpZTU9SZnBrUGc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1cb87e04c625",
       "title": "Doctors Reveal The Most Common Side Effects Of GLP-1s — And How To Manage Them - HuffPost",
       "published": "2026-05-24T11:00:18+00:00",
-      "summary": "Doctors Reveal The Most Common Side Effects Of GLP-1s — And How To Manage Them&nbsp;&nbsp;HuffPostDo GLP-1 Weight-Loss Drugs Dull Emotions? ‘Ozempic Personality’ Concerns Patients, Doctors&nbsp;&nbsp;TODAY.com6 ways starting a GLP-1 medication could affect your emotions&nbsp;&nbsp;University of CincinnatiLooking at possible short-term side effects of using GLP-1s&nbsp;&nbsp;Spectrum NewsIs 'Ozempic Personality' Real? Experts Weigh In&nbsp;&nbsp;dailyvoice.com",
+      "summary": "Doctors Reveal The Most Common Side Effects Of GLP-1s — And How To Manage Them&nbsp;&nbsp;HuffPostDo GLP-1 Weight-Loss Drugs Dull Emotions? ‘Ozempic Personality’ Concerns Patients, Doctors&nbsp;&nbsp;TODAY.comOzempic personality: Doctors on whether weight-loss drugs affect emotions and motivation&nbsp;&nbsp;The Indian Express6 ways starting a GLP-1 medication could affect your emotions&nbsp;&nbsp;University of CincinnatiLooking at possible short-term side effects of using GLP-1s&nbsp;&nbsp;Spect",
       "sources": [
         {
           "name": "HuffPost",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRlFjY3daRlZUX0NWVDI2UExCcDltbGZ0NzdIYjV4SFBRaVpGUkVhVTE4Q0Vpd2tzS2t4T2s2c1VDTTNqY1U3X003T2V5Q3lXTXpybTBMZTBIZ3A5QV92Y3Q5YlpXZkYya3J6Sm5LRzVKcGxaM21YVExDdnY2MlFlQmgzUW52WFhCb1NSYUxNb0tiZjBxbEM0LW9zcy3SAaIBQVVfeXFMTlRRVlhJMld5Nk9abnBnZnJNOHVUcDZGcXdLQzZIR0hWMHVLOG9lNTMtLV9sdDRaZGM4OXd2UTEtbjd3Y1FnT2lGdHJoTWtQMmVjWmFLODFTSC1yMFJSR29EU240UUwyWXRCMlUyckJCNHJaTDRLRFN4NDhKVlhDbHR5V1pxRzdmSmhDMGhtUFJpNkJYSTMtWkpBYnVmVHo2SGNR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1c333fd32243",
+      "title": "I Told My Husband I Had Cancer—He Had a Shocking Response - Yahoo",
+      "published": "2026-05-24T11:00:00+00:00",
+      "summary": "I Told My Husband I Had Cancer—He Had a Shocking Response&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSjd5SzJaS2hwTW9sYTNlQnhaNHpYd21UcEFvV0pRc1Yya2hfNlNtSnlGeW9lX3RvbFdYOVJ3SFhQZldSclB6UDJPVjRLUnU2aWVGaEpJdlhxSXBMa1FYY0x6ZktOTUtLR0pVUkhNbkxJLXFVOGNJbFdGUUkzM2JMVEZ1T2VhZEQyTGk0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "21dadd773ffc",
+      "title": "Sun Suddenly Blasts Powerful Radio Transmission for 19 Continuous Days - Yahoo",
+      "published": "2026-05-24T10:45:00+00:00",
+      "summary": "Sun Suddenly Blasts Powerful Radio Transmission for 19 Continuous Days&nbsp;&nbsp;YahooNASA stunned as strange solar radio burst lasts 19 days&nbsp;&nbsp;ScienceDailyA record-breaking radio burst from the sun had an eerie heartbeat&nbsp;&nbsp;mashable.com\"Impossible\" Solar Behavior: Scientists Stunned By 19-Day Burst That Rewrites Physics&nbsp;&nbsp;Gadget ReviewThe Sun Blasted a Mysterious Radio Signal for 19 Straight Days. Here’s What We Know&nbsp;&nbsp;gizmodo.com",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYVJhRmVCRkZIUHc2Nm5PY1lTbFEyZFQwbGtfaFNydWtNZ2VtdlpPUlBCVHpBMlhJVmVCU0xEeEJyUFA0WmpkQVltMkc5TmczTTRhX2s2bHBEX3EtRW1wUV9MX25YOC1OVlZ0LWZqZ2s1SkdQWlpzeTJFcTVBZVMtcVZJeERpYnRaUjQzZ29EeThoUTR5LXRRRw?oc=5"
         }
       ]
     },
@@ -426,22 +582,10 @@
       ]
     },
     {
-      "id": "71e6d021e09b",
-      "title": "No Ebola found at Alabama hospital after ER diversion, EMA director says - AL.com",
-      "published": "2026-05-24T02:24:00+00:00",
-      "summary": "No Ebola found at Alabama hospital after ER diversion, EMA director says&nbsp;&nbsp;AL.comGadsden Regional Medical Center releases statement after community questions about ER patient&nbsp;&nbsp;WBRCHealth officials confirm no viral hemorrhagic fever risk at Gadsden hospital&nbsp;&nbsp;WVTMGadsden Regional Says No Confirmed Viral Hemorrhagic Fever Cases After ER Incident&nbsp;&nbsp;WBMANo Ebola case at Gadsden Regional Medical Center&nbsp;&nbsp;The Anniston Star",
-      "sources": [
-        {
-          "name": "AL.com",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbWxWMHBtbkhkeERqY0lENnlCclBLdmJZazNMN1BEbGF0d3RWWlI5SEJxZTR1MHY1aVBkWUlNUGMzNThqbGhFMEFqbWhnSWRmaUIwSzBFNnJYSTVPMk5WYm5VTW1VbGlrUEFPaF82bDJyRmRmSkQ0cjI3UnZUUmJSemFpel9PV2owYzJpUXJDYzJJTXV4Y3pHSVBuZjZkODBDNFFGdkMtVTZSR1JK0gHAAUFVX3lxTE13RUd6Ry1JUjVnZ3ZYcTF5cl9tVGI5d2hfVTZaSWk2eDlxNTA1TVR0V3hoZmZTVHpTUU9pMmZsM3p1MkpQZXRyTjBsT01xMDFnOXRzVmItOG1uTEJ4LWFkZ1NzWmsxbjZHcFJONkpYTHVvREpnRVZMek5VajRfUU9FNXhhVmUtclZULUNyREFxTHA1ZER3eHlaeWtYb2doN3h6NFUwQlBvQ1hHN1hZd0N3QzNseE9JeEFNc0RxaUpHcA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1ae9ddd89124",
       "title": "Mayday! SA scientists identified hantavirus outbreak in 24 hours - The Times of India",
       "published": "2026-05-24T00:04:00+00:00",
-      "summary": "Mayday! SA scientists identified hantavirus outbreak in 24 hours&nbsp;&nbsp;The Times of IndiaWHO chief says hantavirus ‘situation is stable for now’&nbsp;&nbsp;The HillDutch cruise ship crew member tests positive for Hantavirus in isolation&nbsp;&nbsp;The TelegraphHow South African scientists identified hantavirus on a cruise ship thousands of miles away&nbsp;&nbsp;AP NewsQuestions about hantavirus? We’ve got answers.&nbsp;&nbsp;Tacoma-Pierce County Health Department",
+      "summary": "Mayday! SA scientists identified hantavirus outbreak in 24 hours&nbsp;&nbsp;The Times of IndiaThe hantavirus outbreak is a tragedy—and a valuable data source&nbsp;&nbsp;The EconomistDutch cruise ship crew member tests positive for Hantavirus in isolation&nbsp;&nbsp;The TelegraphHow South African scientists identified hantavirus on a cruise ship thousands of miles away&nbsp;&nbsp;AP NewsPublic Health Alerts: Andes hantavirus on a cruise ship, 2026&nbsp;&nbsp;CIDRAP",
       "sources": [
         {
           "name": "The Times of India",
@@ -458,18 +602,6 @@
         {
           "name": "ScienceAlert",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSUx5NjgxanVRZEU1dFJpU1VBYTBfZ2ZHMnlodVNpMUx6YnJJX1pteFZNQktCY25LemJiMDNxRjNUa1I2RGxRc0R1VFlZbE16X3lLT1JJNzBmcUxHbHdnY2V4MG1LTmNwTXh3THRxQlBCZDlOVGdJdGFWT1dhTUhyQ2pVTVdycEFjRHpheHhrYnk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cc1b8f9b169c",
-      "title": "Common Asthma Drug May Reverse Dangerous Fatty Liver Disease - SciTechDaily",
-      "published": "2026-05-23T22:06:19+00:00",
-      "summary": "Common Asthma Drug May Reverse Dangerous Fatty Liver Disease&nbsp;&nbsp;SciTechDaily",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcmpwejJoOHV6S0JoQjM3RXBhR1owYmVRdkY0WEc3Mnp1clFOUUN6VEx1Y085bTdzSzVHWnBGWXNmN2NpLVhYOVd6dmxlZjlWTkEycDM0ajU3N0lBdlNNSXVhNzFJYnRneGk4STlkNFRjblVXWWdWUE9zNWZuUkZ5d2Q0V2ZkZVltTUg2QzRxSQ?oc=5"
         }
       ]
     },
@@ -494,42 +626,6 @@
         {
           "name": "AOL.com",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pbm9kOFpETl9FblhpSXFpYzFOUklhQXlTQ3ZIQTNXTjZtYXZFUm9ZMmxKXzNpdDBhcko1R25fOG83bkNhVlRpbVpodVduLUxBcFljZi1RbjZxeXhMX1NxckRzVW9ncmprWjZnVnFHcVI5ckF2ak9nVUh3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "864327d00022",
-      "title": "Brain Region Discovered for Abstract Thought - Neuroscience News",
-      "published": "2026-05-23T18:38:29+00:00",
-      "summary": "Brain Region Discovered for Abstract Thought&nbsp;&nbsp;Neuroscience NewsNeural representation of action symbols in primate frontal cortex&nbsp;&nbsp;NatureThe neural basis of thought symbols identified for the first time&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "Neuroscience News",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUEtibjUzMmdlcTVHcDllYzExLWItcjJiaWtkX0tKZURMNURCdDJBcWtIUmNCZ1V6WnBhRHE3YlpUTXZsM1dQVG9fRmRVODQ5alR3NWdhYWR5LW5TMVVSQTRfd2tqZGdiM2FnY0xtUzVTVVlrY0NKTGZudmlnbGQyZVpQZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cae2411420e6",
-      "title": "US temporarily bans green-card holders from entering country from African nations - The Guardian",
-      "published": "2026-05-23T17:57:50+00:00",
-      "summary": "US temporarily bans green-card holders from entering country from African nations&nbsp;&nbsp;The GuardianU.S. to Block Entry to More Noncitizens Who May Have Been Exposed to Ebola&nbsp;&nbsp;The New York TimesEbola Disease Outbreak in the Democratic Republic of the Congo and Uganda | HAN&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)Why travel restrictions may have unintended consequences as US bars some visitors amid Ebola outbreak&nbsp;&nbsp;ABC News - Breaking News, Latest",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcGx6Z0RTektlTlZWaHBLV1RlbGhGMkpBQWNaUWhoVko4cWpNeDU5aDl4M0UwaGM1RmpsM2c0TDFyS2hFY0REcVk0NkxDejI5bEwtMldrVHNqcDJ6ejdIV2EwVkdOVFNLd2Z6S2JUNFlGM1BFZGcxcmhVSnlnX3F5R2lHVlFSOVRDU0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f9c4087e8130",
-      "title": "People with eating disorders are taking GLP-1s, and doctors are alarmed - The Washington Post",
-      "published": "2026-05-23T16:00:00+00:00",
-      "summary": "People with eating disorders are taking GLP-1s, and doctors are alarmed&nbsp;&nbsp;The Washington PostGLP-1s and the Limits of Knowing Better&nbsp;&nbsp;The NationThe Thin Line: GLP-1 Drugs and the Rise of Disordered Eating&nbsp;&nbsp;Psychology TodayEating Disorders, GLP-1s, and the Older Population&nbsp;&nbsp;AOL.comThe Plus Size Fashion Market Isn't Dying. The GLP-1 Panic Is Just Showing Who Never Understood It&nbsp;&nbsp;The Curvy Fashionista",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX1E0dm5EUWExa2NYVElUVDRKVkpvUHJ1SjZIR3NNQVlnM3pfbmdLRjhEMzJOakpKY2NEVDh3QVNKY3dZM0ZQRVVmTWNjQi1yVEZvWUg3V25BV1FvRW51blFlQnoyOVRMd3h4RzVreVlJVXdQalNQZ2hNUDFNcHdPRUlGeGZxOVhTMElTSXB0bENDQ1VLX0hVOEpFT2V1MDFOR1NiWFFZRTlacDRSSHc?oc=5"
         }
       ]
     }

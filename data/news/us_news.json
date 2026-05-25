@@ -1,31 +1,79 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-25T10:14:35.101446+00:00",
-  "total_fetched": 111,
-  "unique_count": 111,
-  "health_related_count": 46,
+  "fetched_at": "2026-05-25T15:14:04.020793+00:00",
+  "total_fetched": 106,
+  "unique_count": 106,
+  "health_related_count": 44,
   "news": [
     {
-      "id": "3a15bd293bce",
-      "title": "Pennsylvania schools shared widely debunked vaccine claims with thousands of parents - Pittsburgh Post-Gazette",
-      "published": "2026-05-25T07:12:36+00:00",
-      "summary": "Pennsylvania schools shared widely debunked vaccine claims with thousands of parents&nbsp;&nbsp;Pittsburgh Post-Gazette",
+      "id": "7216e18d8fb3",
+      "title": "3 medical routines that older people may not need - Daily Kos",
+      "published": "2026-05-25T13:00:00+00:00",
+      "summary": "3 medical routines that older people may not need&nbsp;&nbsp;Daily KosSee more headlines & perspectives on Google News",
       "sources": [
         {
-          "name": "Pittsburgh Post-Gazette",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY2REZzk5elV5V2JwclczQ3BfUE50bnFMbDI2UFpkVEpHVTU2MkZ4clRudHJ1UnZUSWVuN0pWVUttUXJXcmduQkRyLWlZRTNMc25fRndyOXlpX2JfUFQtX0NjU1FRdjVvOW53SnBFbEpBRTlLRnM0RlJMZGdoOXc3RVZnZ3ZzYjJMR2FFWlhvTzh6Y0E0MFNWNW9VUEh5bmNZOF8wcTJFR0sxQmxpZFM4?oc=5"
+          "name": "Daily Kos",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRXo0NkJhVDVJT01KRGFnd3dqUVc0TzFUal96MUtCNHR0cVdpR0hQckVGRnJ3UVdORUlWaGtZdE5OY2RlajJpejBWUTd1VGtVaDBMUE42VDM2QjQ0Rmk1d0gyYzQyNk5JLWhWOXlXdkR4ZUJNVEFqdXpHT1dmVkRUeXQ3cnJieDJoTU02NzU0SE43MUdLMkRBaWZvSEo2Tm1fMjQ0T0h0SThrTTNFYU13?oc=5"
         }
       ]
     },
     {
-      "id": "c6dde1b86448",
-      "title": "How Congo is battling an Ebola outbreak complicated by aid cuts, armed rebels and anger - ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-05-25T01:22:41+00:00",
-      "summary": "How Congo is battling an Ebola outbreak complicated by aid cuts, armed rebels and anger&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosCaught Flat-Footed, a City Races to Catch Up With Ebola&nbsp;&nbsp;The New York TimesUganda confirms two more Ebola cases, taking total to seven&nbsp;&nbsp;ReutersInside the epicenter of the Ebola outbreak in DRC as the virus spreads&nbsp;&nbsp;CNNDR Congo Ebola cases rise amid distrust, armed conflict zone&nbsp;&nbsp;NPR",
+      "id": "4737f7a3b1d1",
+      "title": "In City at Center of Ebola Crisis, ‘the Virus Is Far Ahead of Us’ - The New York Times",
+      "published": "2026-05-25T12:24:00+00:00",
+      "summary": "In City at Center of Ebola Crisis, ‘the Virus Is Far Ahead of Us’&nbsp;&nbsp;The New York TimesWHO chief says suspected Ebola deaths at 220 as epidemic ‘outpacing us’&nbsp;&nbsp;Al JazeeraDoctors, Hospitals Struggle to Keep Up With Ebola’s Spread&nbsp;&nbsp;WSJInside the epicenter of the Ebola outbreak in DRC as the virus spreads&nbsp;&nbsp;CNNUgandan health officials report new Ebola virus infections, bringing cases to 7&nbsp;&nbsp;PBS",
       "sources": [
         {
-          "name": "ABC News - Breaking News, Latest News and Videos",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUTdkNGFlTnBmMFlRSW9SWTJlUXBBN3lPdFdEcWhlWkV3WFFnalNrOGVsSGxWS1ZpTkZVVlVJVXowaTlFZDh5VmtEdUxVVzR0VUR0dG5TTnpQZ2taLVZoRmdyTHhCLWNJWXplY3Q4d2FLUFBxY1dvOFVqZkZ2VTRDN1Y0enUwV1dTemdjU3Axd1pfUXpiTE5meWY0aDFZR2tTMGdEdGVRbHVEQ0ZDR2FmVXNpMNIBuAFBVV95cUxQeTREV1hJM185N0hzcWd2UldackJUUWFEWEVkSGJ6aDg1WmV5bk05NHZXZl81UWRrZUlGdnpSa3hxc0ZYbXVoRGdQSXJBU1cwTzNQbEJGTXFWRzYxWUJEeTlCMHZjdlZodzR4WWQxN0xWOF9nbnFyVDBjdHBaamY2UmJWaVMzX2h6RTAwUC1nOFRFWHl1WVhFUURwTmZ0MkptREdTWFE0emFmaWNKVjlEaEh3WkZPcVIt?oc=5"
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeDlGVjFEX0RPRVI4eFA2a2xRLXR3U0ctWHFnQVZlaEVHUlc1S2FHYjhncEFHNV9TNUM1anlBa0dQVnZMeUx0dXp4VDJvYm9NWnpDM20wVGV2c3lIWUhNVzNCcWFCdDJqNEFJNmwyZUw0eDA2R3YtQ2gwQWthbHcwc3ItZk1Hdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5f19db60b4eb",
+      "title": "Consciousness might not be something the brain creates — it might be a fundamental feature of reality itself, more like gravity than like a thought — and one of the most credentialed neuroscientists alive is now arguing that mainstream science has been wrong - Space Daily",
+      "published": "2026-05-25T09:45:17+00:00",
+      "summary": "Consciousness might not be something the brain creates — it might be a fundamental feature of reality itself, more like gravity than like a thought — and one of the most credentialed neuroscientists alive is now arguing that mainstream science has been wrong&nbsp;&nbsp;Space DailySee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPNHJwUktibm0xQ2VZeHVzc0hYME55OU03Q1FaNDgxNjlzTms3YkpmMkw3MmZmNGtCNTg2dXZGYi04V1lTeXVlaXhaU2dseWpVanUwRFRMYzRYeW83Yy1vWVQ0cVZ5MDdQSTljMFIyNS1DVmlLeWlxSnhhTk5MV2lrMk9JVkxpMTNNVkxNS0lnV1Bvc1BIOU9zMU5oMTNBclpJemZYdzM1U3pDUFh1RlpWWmtDdFNpbFA0OGJBcFpfZEQ0NUJabHM5SHkzdVdEejR5dl9PWVBEb1RMd2NWSmtqd1RacXJwbldkWWJ0UjdhX0NWNFZjTlJTSWRGTG9YaG5oRmwyUnlicG9yek9vYWJqVTN1Z2c0ZDgwQjJqdXExVjRyNWZ0eGxnUlh4OElNQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8f8b2b0105a1",
+      "title": "NHS lung cancer scans in car parks detect 10,000 cases - The Telegraph",
+      "published": "2026-05-25T05:00:00+00:00",
+      "summary": "NHS lung cancer scans in car parks detect 10,000 cases&nbsp;&nbsp;The TelegraphGreater Manchester is leading fight against lung cancer as national screening hits new milestone&nbsp;&nbsp;Manchester University NHS Foundation Trust‘NHS cancer check outside Morrisons may have saved my life’&nbsp;&nbsp;Daily ExpressSupermarket lung cancer checks find 10,000 cases in England&nbsp;&nbsp;The IndependentNHS scanning trucks detect more than 10,000 lung cancer cases&nbsp;&nbsp;The Mirror",
+      "sources": [
+        {
+          "name": "The Telegraph",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONVRlQkdaQUpuc2hyWFNuaEJNYTVzYzlCWkRjZUdxajEyQ21tUDJYSC1YRjVZdVlyTGVfcFFEV0tiLTVYY0d5UmoxdFdvNnpzbUlGYXd3bFB2S2dzUkVtcFcyeDlHRjV2enVFOXkybEdFX0dDQzB6eXZSeS1zMG9KQzRiNFBoY2xrakR3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c2ce7454b231",
+      "title": "Large Review Shows What Sugary Diets May Be Doing to Your Memory - ScienceAlert",
+      "published": "2026-05-25T03:05:46+00:00",
+      "summary": "Large Review Shows What Sugary Diets May Be Doing to Your Memory&nbsp;&nbsp;ScienceAlertChildhood junk food may rewire the brain for life&nbsp;&nbsp;ScienceDailyNew Study Discovers that a Childhood Junk-Food Diet Rewires the Brain&nbsp;&nbsp;inc.comPoor childhood eating triggers life-long bad habits&nbsp;&nbsp;newsreel.com.auDrinking this every day linked to a shocking acceleration in brain aging, study warns&nbsp;&nbsp;Futura, le média qui explore le monde",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYzREa0traHdQVFhpb2RldmdmVjgyaWVYdXVYakEteFFNT1NZNTgwR3NlZFljTkJjd0ZfYnRvNnVGMlRIdFB1cmxBNFgtelhLN2JldlE4UGJ0SjFWVmxfUHEtaTFyT2hFTUJibXdIbk9CajdVMEN1Tms1cERab0ZKRGRQRm9qYkZsN0pDSVdqUzFDZ0RjMTdlMg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b3fbd9707d4a",
+      "title": "Researchers Reveal the Surprisingly Easy Habit Linked to Longer Healthier Lives - SciTechDaily",
+      "published": "2026-05-25T02:06:19+00:00",
+      "summary": "Researchers Reveal the Surprisingly Easy Habit Linked to Longer Healthier Lives&nbsp;&nbsp;SciTechDaily",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTkl0OFZQSVlVbWp1dkU1aUUyNzRSTV9KQ1cxS1YzeDFPMjNxS0ljSFRUQmpQeVdINFBVZWw3QWNjOEpyZHFXZW50eGlIMUN6R2p5a19fV1RZaEJZRDBaM0xIOEt5TGN6ai0zc3VkTTBkRGtwNVRxLUQtQkEwS1BUR2hVZU9qY1kxRGR3aTlONDlLRmppOGJmQ1pITC0xZFc4eUNYVk1TS24?oc=5"
         }
       ]
     },
@@ -33,7 +81,7 @@
       "id": "807b3a92d545",
       "title": "Most Covid-19 cases linked to mild variant - Bangkok Post",
       "published": "2026-05-24T22:06:00+00:00",
-      "summary": "Most Covid-19 cases linked to mild variant&nbsp;&nbsp;Bangkok PostThailand urges calm over S’pore’s Covid-19 spike; no severe outbreak from dominant NB.1.8.1 strain&nbsp;&nbsp;The Straits TimesSingapore monitoring rise in COVID-19 infections; current vaccine still effective for protection&nbsp;&nbsp;CNAHealth Ministry urges vigilance against new COVID-19 variant NB.1.8.1&nbsp;&nbsp;Khmer TimesCovid-19 cases surge in Singapore, infections jump to 12,700 in a week&nbsp;&nbsp;NST Online",
+      "summary": "Most Covid-19 cases linked to mild variant&nbsp;&nbsp;Bangkok PostThailand urges calm over S’pore’s Covid-19 spike; no severe outbreak from dominant NB.1.8.1 strain&nbsp;&nbsp;The Straits TimesSingapore monitoring rise in COVID-19 infections; current vaccine still effective for protection&nbsp;&nbsp;CNAThailand urges calm over Singapore's Covid-19 surge, says variant already circulating, Asia News&nbsp;&nbsp;AsiaOneCovid-19 cases surge in Singapore, infections jump to 12,700 in a week&nbsp;&nbsp",
       "sources": [
         {
           "name": "Bangkok Post",
@@ -45,7 +93,7 @@
       "id": "01d3f29c0e1f",
       "title": "‘Stomach flu’ outbreak slams hikers on California section of Pacific Crest Trail - Sacramento Bee",
       "published": "2026-05-24T21:05:00+00:00",
-      "summary": "‘Stomach flu’ outbreak slams hikers on California section of Pacific Crest Trail&nbsp;&nbsp;Sacramento BeeNorovirus Is Ravaging Hikers on the Pacific Crest Trail&nbsp;&nbsp;The Inertia'I've never been that weak': Hikers hit with norovirus on the Pacific Crest Trail&nbsp;&nbsp;SFGATEDozens of California Hikers Get Mysteriously Sick With Norovirus&nbsp;&nbsp;NewsweekA Highly Contagious Illness Is Sickening Hikers on the PCT—and Hand Sanitizer Can't Stop It&nbsp;&nbsp;Backpacker Magazine",
+      "summary": "‘Stomach flu’ outbreak slams hikers on California section of Pacific Crest Trail&nbsp;&nbsp;Sacramento BeeDozens of California Hikers Get Mysteriously Sick With Norovirus&nbsp;&nbsp;NewsweekNorovirus Is Ravaging Hikers on the Pacific Crest Trail&nbsp;&nbsp;The Inertia'I've never been that weak': Hikers hit with norovirus on the Pacific Crest Trail&nbsp;&nbsp;SFGATEA Highly Contagious Illness Is Sickening Hikers on the PCT—and Hand Sanitizer Can't Stop It&nbsp;&nbsp;Backpacker Magazine",
       "sources": [
         {
           "name": "Sacramento Bee",
@@ -57,23 +105,11 @@
       "id": "6f4da913c878",
       "title": "US well-positioned to deal with current Ebola outbreak, Deborah Birx says - Politico",
       "published": "2026-05-24T20:15:36+00:00",
-      "summary": "US well-positioned to deal with current Ebola outbreak, Deborah Birx says&nbsp;&nbsp;PoliticoTrump’s former COVID adviser: US equipped to handle response to Ebola outbreak&nbsp;&nbsp;The HillTranscript: Dr. Deborah Birx on \"Face the Nation with Margaret Brennan,\" May 24, 2026&nbsp;&nbsp;CBS News“Do You Trust That The Trump Administration Will Effectively Manage/Address Infectious Diseases?”&nbsp;&nbsp;The Seattle MediumDr. Deborah Birx says \"there's a deep bench\" to CDC, FDA to respond to Ebola&",
+      "summary": "US well-positioned to deal with current Ebola outbreak, Deborah Birx says&nbsp;&nbsp;PoliticoTranscript: Dr. Deborah Birx on \"Face the Nation with Margaret Brennan,\" May 24, 2026&nbsp;&nbsp;CBS NewsTrump’s former COVID adviser: US equipped to handle response to Ebola outbreak&nbsp;&nbsp;The Hill“Do You Trust That The Trump Administration Will Effectively Manage/Address Infectious Diseases?”&nbsp;&nbsp;The Seattle MediumDr. Deborah Birx says \"there's a deep bench\" to CDC, FDA to respond to Ebola&",
       "sources": [
         {
           "name": "Politico",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcE5NLXBmcTlpLUVRdm1USGtscm51VzE3QUNjejQybFdidDRFSUpxYWtjS0FaM29ydmM1amgzM2o0dy11bFB2LTZZdnRFYnVGdHdOdm5vV2RreDRNdnZiOUhBczNTc1VaY2wtS0piQUxtR0JqQlB1VlpzWVEyd2JuS1NvSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9885ec10394a",
-      "title": "What to know about sepsis, the dangerous condition that contributed to NASCAR driver Kyle Busch’s death - CNN",
-      "published": "2026-05-24T19:00:46+00:00",
-      "summary": "What to know about sepsis, the dangerous condition that contributed to NASCAR driver Kyle Busch’s death&nbsp;&nbsp;CNNWhat to know about sepsis: Life-threatening but hard to spot&nbsp;&nbsp;WRALWhat killed Kyle Busch? Michigan Medicine doctor explains what sepsis is&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "CNN",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZaXlMc3QyVTlIQk9BcmZfZDZjMV9BRkZQSFNCRXRGQkJucHhGYTRJZk1fS3hkeWFkNVdHWnRRQW9lZElGTmR1TTg4VGloZ2M0bEV2LUgzZ0I5RVFiaEFudzh5WndhcEJCN1VtMjVYTkNmQjJiYms4aUlpcXg?oc=5"
         }
       ]
     },
@@ -90,14 +126,14 @@
       ]
     },
     {
-      "id": "4dcd8e5d9bce",
-      "title": "I’m still coming to terms with my bipolar diagnosis - The Times",
-      "published": "2026-05-24T19:00:00+00:00",
-      "summary": "I’m still coming to terms with my bipolar diagnosis&nbsp;&nbsp;The Times",
+      "id": "ec105e38674e",
+      "title": "CBS news star reveals medical procedure and encourages followers to get checked - PennLive.com",
+      "published": "2026-05-24T18:56:00+00:00",
+      "summary": "CBS news star reveals medical procedure and encourages followers to get checked&nbsp;&nbsp;PennLive.com",
       "sources": [
         {
-          "name": "The Times",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ3BmbVBFdWE5aldiSVphdHpDUjBjY3hYckI4X0tUbTROOHluakdwOGRCV0pZZ08yVEh6R191eHhkLTdnNFZfdXdSRzhCdFE1NDdMWlRDdTRlLXREN0RYOVFhUmhnbHFuQ3U4bktsME1SaUZLS2ZVWXZscXl6b1lJaU9tNEFJTFhKUGlBNHNpZmhCSXZpU3NGZl81enhXdFNTLW5iUU51Z2lXY3JIZ3UzYVpDZXlGUzhPSzlzVi1wNnBSQi04c21xSmtKWEJLR2s?oc=5"
+          "name": "PennLive.com",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX2E1NUJHSzY0a19DelhzWTJjVmJhYkxGWTR1UTE1eU1aZ1VkRjZ0S1Boa0RXeDlMQTJDamw4WjBOc1FIUk5sSTRnR05lMl9aVWdEX2hSOTVVR1hnWjVaUm1NYlJFb2dnbmNRSWJKMFdwMTNHdlZ0MUswbDdWalJUZk9KTkxjeTVNWUYxSExLMjhDUnE5TzlnWmt0RjNTekhCOHd2eXh1LTVpcC1TaG5rWmMxT1FGbGJjcEVEbi02UdIB0wFBVV95cUxOR2JoamVKell1eDFfeFByQVJDLXpwMGNVM0dQMjEtYTdoR0JDZXB1ZlR0RDlQcGs1SUpmZVh6MTFlakZFaHphYl93Tm1hTGxWMExaNWd6aG55b3Rzc2d3Z3ljZDk0bmF4TExaZEJEbkExNWRFbEZERUVSNW5Wb1l2aE4zdkVWdUx5OTBWMUJuVXhyWURZZ2xhdnFoT3Z4a056clZBa05ZTDFpTUxBR0hlaHd0eVhlQU1zX1VNcnhiNndFMFB0WHMtMkFvQ2dMRWxfUUlN?oc=5"
         }
       ]
     },
@@ -126,26 +162,26 @@
       ]
     },
     {
-      "id": "b23b988d075f",
-      "title": "6 rashes and infections you can get from the beach - The Washington Post",
-      "published": "2026-05-24T17:00:00+00:00",
-      "summary": "6 rashes and infections you can get from the beach&nbsp;&nbsp;The Washington PostA deadly bacteria is creeping up the Atlantic Coast. How worried should you be?&nbsp;&nbsp;North Carolina Health NewsExclusive | LI oyster growers shelled again — this time by warning of killer bacteria in water&nbsp;&nbsp;New York PostProtect yourself from Vibrio Vulnificus&nbsp;&nbsp;Louisiana SportsmanWhat to know about a so-called flesh eating bacteria in Long Island Sound&nbsp;&nbsp;New England News Collaborati",
+      "id": "20f45110d2b1",
+      "title": "Scientists Discover Common Medications May Secretly Alter Your Gut for Years - SciTechDaily",
+      "published": "2026-05-24T17:13:23+00:00",
+      "summary": "Scientists Discover Common Medications May Secretly Alter Your Gut for Years&nbsp;&nbsp;SciTechDailyMedical Interventions Rapidly Change Isolated Indigenous Microbiomes&nbsp;&nbsp;the-scientist.comEarly Medical Care Linked to Rapid Gut Microbiome Shifts in Amazonian Indigenous Communities&nbsp;&nbsp;Inside Precision MedicineMinimal exposure to modern medicine rapidly alters the human microbiome&nbsp;&nbsp;News-MedicalModern medication can harm gut microbiome, a study on Amazon’s indigenous peopl",
       "sources": [
         {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX1BMZW9IRU1lTUhVN1g1RDBSOURqSmttanNqUDJCMk5rMFAwV2NNUDJBelhCejR1aFBRRmlyaUVqVUFYYjFPVjNQU3E4Rjd6TXhmODM1aFpXaGtZTTd6UllUWjF3akRPaEtiRDBJeFhzY3BxaDFIV1doTzBObnZFbWJwaGlZeWpHcWpBR0dWYUQtU28?oc=5"
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcUVuOW5KNThfTC1MX0hRalREbGVIdXM4aVI4clZPVHIxb1YwbkIyRE5ZWVdvTnZHV1M5Z2c1U2NrZXV4Um94Y0hqLVVDR3RGR0RGNzRONXJieDBfZ2h5OTV3dnJiZUVkMGNiaW5nSkVNcC04YWwzdk5xQVZ3Z1Bkb2d0TXRPVENZaDhKVXFZMi1MRjBKQ1V5TF9vT0ZWWTcwY0VPVg?oc=5"
         }
       ]
     },
     {
-      "id": "f039af6dab57",
-      "title": "5 Morning Exercises That Improve Balance Faster Than Yoga After 60 - Eat This Not That",
-      "published": "2026-05-24T16:32:29+00:00",
-      "summary": "5 Morning Exercises That Improve Balance Faster Than Yoga After 60&nbsp;&nbsp;Eat This Not ThatA 65-year-old trainer says these are the six moves older adults should do every day to reduce their risk of falls&nbsp;&nbsp;YahooCan pilates prevent falls in elderly?&nbsp;&nbsp;Irish Independent6 balance exercises to work your body and mind&nbsp;&nbsp;Las Vegas Review-Journal4 Wall Exercises That Build Balance Faster Than Yoga After 60&nbsp;&nbsp;Eat This Not That",
+      "id": "b23b988d075f",
+      "title": "6 rashes and infections you can get from the beach - The Washington Post",
+      "published": "2026-05-24T17:00:00+00:00",
+      "summary": "6 rashes and infections you can get from the beach&nbsp;&nbsp;The Washington PostA deadly bacteria is creeping up the Atlantic Coast. How worried should you be?&nbsp;&nbsp;North Carolina Health NewsExclusive | LI oyster growers shelled again — this time by warning of killer bacteria in water&nbsp;&nbsp;New York PostWhat to know about a so-called flesh eating bacteria in Long Island Sound&nbsp;&nbsp;New England News CollaborativeFlesh-Eating Bug Could Kill Your Beach Plans—Should You Worry?&nbsp;",
       "sources": [
         {
-          "name": "Eat This Not That",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GdjVOcl9iaFFscHhZSlBLSW9BaUYxY3h3TXNGQlNXb2xkSnRzQ0h4N0dyUVVueC1DaUdXekcxel9FTTkwUzVIc2FHb3dBTWlPZ2V0YzJrMkt3SFlXVWVMZk1SWGVXeERmcUJNcHlydDZwR3UwNUE?oc=5"
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX1BMZW9IRU1lTUhVN1g1RDBSOURqSmttanNqUDJCMk5rMFAwV2NNUDJBelhCejR1aFBRRmlyaUVqVUFYYjFPVjNQU3E4Rjd6TXhmODM1aFpXaGtZTTd6UllUWjF3akRPaEtiRDBJeFhzY3BxaDFIV1doTzBObnZFbWJwaGlZeWpHcWpBR0dWYUQtU28?oc=5"
         }
       ]
     },
@@ -165,7 +201,7 @@
       "id": "04c1027bdde7",
       "title": "Americans exposed to hantavirus on ship enjoy Nebraska hospitality while in quarantine - KSL.com",
       "published": "2026-05-24T15:28:39+00:00",
-      "summary": "Americans exposed to hantavirus on ship enjoy Nebraska hospitality while in quarantine&nbsp;&nbsp;KSL.comHantavirus update: Nebraska officials awaiting CDC guidance on passengers’ release&nbsp;&nbsp;WOWTAmerican passenger feels 'betrayed' by federal order to stay in hantavirus quarantine&nbsp;&nbsp;NPRAmerican passenger on hantavirus-hit cruise feels ‘blindsided’ and ‘misled’ by new quarantine orders&nbsp;&nbsp;CNNHantavirus latest updates: WHO says outbreak is stabilizing as the Netherlands rep",
+      "summary": "Americans exposed to hantavirus on ship enjoy Nebraska hospitality while in quarantine&nbsp;&nbsp;KSL.comHantavirus update: Nebraska officials awaiting CDC guidance on passengers’ release&nbsp;&nbsp;WOWTAmerican passenger feels 'betrayed' by federal order to stay in hantavirus quarantine&nbsp;&nbsp;NPRAmerican passenger on hantavirus-hit cruise feels ‘blindsided’ and ‘misled’ by new quarantine orders&nbsp;&nbsp;CNNWhy the quarantine for hantavirus is so long&nbsp;&nbsp;The Washington Post",
       "sources": [
         {
           "name": "KSL.com",
@@ -186,26 +222,26 @@
       ]
     },
     {
-      "id": "89950c6ea816",
-      "title": "Drug made from poisonous frog's skin ‘claims first British victim’ in 'detox' ceremony - lbc.co.uk",
-      "published": "2026-05-24T13:22:38+00:00",
-      "summary": "Drug made from poisonous frog's skin ‘claims first British victim’ in 'detox' ceremony&nbsp;&nbsp;lbc.co.ukFrog poison ‘detox’ kills spiritual wellness coach&nbsp;&nbsp;The TimesWellness Coach, 40, Dies After Family Says He Tried Drug Made from Poisonous Amazonian Tree Frog Secretions&nbsp;&nbsp;People.comFrog poison detox ‘claims first British victim’&nbsp;&nbsp;The TelegraphWellness coach dies after ceremony 'using drug made from poisonous Amazon tree frog'&nbsp;&nbsp;The Mirror",
+      "id": "8526ee54e253",
+      "title": "New light-based switch could cut chip energy use and speed future AI photonics - Tech Xplore",
+      "published": "2026-05-24T14:10:01+00:00",
+      "summary": "New light-based switch could cut chip energy use and speed future AI photonics&nbsp;&nbsp;Tech XplorePhysicists create hybrid light-matter particles that interact strongly enough to compute&nbsp;&nbsp;Phys.orgLight-controlled switch uses only 4 femtojoules and brings photonic AI chips closer to a future with less heat and lower energy consumption&nbsp;&nbsp;CPG Click Petróleo e GásForget electrons, this breakthrough uses light-matter particles to power AI&nbsp;&nbsp;ScienceDailyPhotonic computin",
       "sources": [
         {
-          "name": "lbc.co.uk",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVTN1MHBaV2dKZGpuTUw4MkVIYVFxNE5FNkhHTkZyNEVTUXdkckFZOVlCWkF4dDlzX1ZfTENvclF3T1AxNDZEbjdIV2h2WXNickFGWkNwN2V0VWVySWFnSTNIeF9fc0c1WS1TeDdGZmduMGdIZWpmSW9fOU1VU0VIX1lheFZNTWRFOHV6WnBzNWRwWk1XLXZlcWZSaFJtXzIyRkpQMlZfcmhpME9kT1p2VlRLa25vcWs1em41Mw?oc=5"
+          "name": "Tech Xplore",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kU19PSFpSTlZlMkZINXpiUnZLdkRMMU83RVJJbzdKeEhobjZsRTFGeUNLeDZhY3pFcVVjVHJ3MUo0S05oVkhmYzg3TWp0MjVWNDgzdVcwQXBjWVBBZExNZzU2Y094Q2VwZ3VYNUw4UXVIYWxaV1NR?oc=5"
         }
       ]
     },
     {
-      "id": "dec0eba17a91",
-      "title": "Ebola Virus Outbreak: AP Govt On High Alert! - Gulte",
-      "published": "2026-05-24T13:14:27+00:00",
-      "summary": "Ebola Virus Outbreak: AP Govt On High Alert!&nbsp;&nbsp;GulteMore than 900 suspected Ebola cases identified in DRC, WHO chief says&nbsp;&nbsp;ReutersEbola outbreak: India issues travel advisory against three African countries&nbsp;&nbsp;The Times of IndiaIndia Issues Travel Advisory For Ebola-Hit Countries: How Airport Screenings Help Control Outbreaks&nbsp;&nbsp;NDTVCentre issues health advisory for passengers arriving from or transiting through Ebola-affected countries&nbsp;&nbsp;Newsonair",
+      "id": "5747c056c01b",
+      "title": "My Daughter Had Terminal Brain Cancer, I Couldn’t Tell Her She Was Dying - Yahoo",
+      "published": "2026-05-24T13:30:00+00:00",
+      "summary": "My Daughter Had Terminal Brain Cancer, I Couldn’t Tell Her She Was Dying&nbsp;&nbsp;Yahoo",
       "sources": [
         {
-          "name": "Gulte",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYXp1SGsxUnc0NTJyRjlQRHFORTJ3VkY1YWJoWFRuUFNUdGNobXVKcG9CZklOTWpXY2NDOUZJUEd1ejgzenRHVlNUZjhEWjFrODVHYUhHNEpETllZb3J0TEU0aTlIZVZsYlZOeWpEQWxrb3F0T1ZvMFFPWWFVVDFqcGsyLUN6X2pza1FkS0tFcw?oc=5"
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTkZHTG5uQ2twQl81ZW5pOFdaaWF6TU1MQ213RnFWTXpENmRfcXF5bmxaYld6NzN0UHFWV2lrNkpqNldQMm5BOXZESVE4UU5qR3ZRZmtLelNscnlsbDBxazhROVVrODNmc05feDBHRWRNTUUxYzRpUS15RFJNVmZqai1OTFptTl9pblRFV2IzWTU3Ym1H?oc=5"
         }
       ]
     },
@@ -213,7 +249,7 @@
       "id": "da400017344a",
       "title": "More than 500 children have died in an outbreak that the world is virtually ignoring - NPR",
       "published": "2026-05-24T13:00:40+00:00",
-      "summary": "More than 500 children have died in an outbreak that the world is virtually ignoring&nbsp;&nbsp;NPRMore than 500 children die in measles outbreak in Bangladesh&nbsp;&nbsp;Al JazeeraSuspected and confirmed measles deaths top 500 in Bangladesh&nbsp;&nbsp;ReutersDeadly Measles Outbreak Sickens Thousands of Children in Bangladesh&nbsp;&nbsp;The New York Times3 more die from measles-like symptoms in Sylhet&nbsp;&nbsp;Dhaka Tribune",
+      "summary": "More than 500 children have died in an outbreak that the world is virtually ignoring&nbsp;&nbsp;NPRMore than 500 children die in measles outbreak in Bangladesh&nbsp;&nbsp;Al JazeeraSuspected and confirmed measles deaths top 500 in Bangladesh&nbsp;&nbsp;Reuters16 more children die of measles-like symptoms in Bangladesh&nbsp;&nbsp;Anadolu AjansıDeadly Measles Outbreak Sickens Thousands of Children in Bangladesh&nbsp;&nbsp;The New York Times",
       "sources": [
         {
           "name": "NPR",
@@ -222,10 +258,22 @@
       ]
     },
     {
+      "id": "bb0caa665a96",
+      "title": "Oncologists Wish You'd Stop Doing These 4 Things - EatingWell",
+      "published": "2026-05-24T13:00:00+00:00",
+      "summary": "Oncologists Wish You'd Stop Doing These 4 Things&nbsp;&nbsp;EatingWellThe Simple Habit That Could Lower Your Cancer Risk&nbsp;&nbsp;SciTechDailyWant To Lower Your Cancer Risk? These 2 Beverages Can Help&nbsp;&nbsp;MindBodyGreenDoctor says 'holy trinity' of drinks could ward off cancer&nbsp;&nbsp;Daily RecordDoctor shares four 'simple rules' he says could help fight off cancer&nbsp;&nbsp;North Wales Live",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuc1lLanZIX1FOTlRzdWZ2d0MwaEUzMGxDR01XSUxUVnd1bjROdEJMd1l1aUxOaklpZVNGVTdsOWNTOWF1bjk2OExVR1BaT2RrQWhNMlJXV2JEb0lvbnJLeTdFUHREZjBZNk5USEtMbDllSU5HbkZya0JTOA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f9fe6176dc71",
       "title": "People’s Pharmacy: What are the common symptoms of Hashimoto’s thyroiditis? - OregonLive.com",
       "published": "2026-05-24T13:00:00+00:00",
-      "summary": "People’s Pharmacy: What are the common symptoms of Hashimoto’s thyroiditis?&nbsp;&nbsp;OregonLive.com",
+      "summary": "People’s Pharmacy: What are the common symptoms of Hashimoto’s thyroiditis?&nbsp;&nbsp;OregonLive.comWorld Thyroid Day 2026: 5 things to know about Hashimoto's Disease&nbsp;&nbsp;IndulgexpressWhat is Hashimoto’s Thyroiditis: Causes, symptoms, treatment tips, and more&nbsp;&nbsp;Moneycontrol.com",
       "sources": [
         {
           "name": "OregonLive.com",
@@ -237,7 +285,7 @@
       "id": "9b0da78c8a27",
       "title": "Younger adults are having strokes. Here’s how to lower your risk - MLive.com",
       "published": "2026-05-24T12:55:00+00:00",
-      "summary": "Younger adults are having strokes. Here’s how to lower your risk&nbsp;&nbsp;MLive.comHealth: Why stroke is attacking youth&nbsp;&nbsp;NewVision.co.ugStroke Can Strike at Any Age&nbsp;&nbsp;Sutter HealthMore younger adults are at risk for strokes and heart disease-- How you can tell the signs&nbsp;&nbsp;ClickOnDetroit | WDIV Local 4Stroke and heart disease death numbers rising in young adults -- the signs you should never ignore&nbsp;&nbsp;ClickOnDetroit | WDIV Local 4",
+      "summary": "Younger adults are having strokes. Here’s how to lower your risk&nbsp;&nbsp;MLive.comMore younger adults are at risk for strokes and heart disease-- How you can tell the signs&nbsp;&nbsp;ClickOnDetroit | WDIV Local 4Health: Why stroke is attacking youth&nbsp;&nbsp;NewVision.co.ugStroke and heart disease death numbers rising in young adults -- the signs you should never ignore&nbsp;&nbsp;ClickOnDetroit | WDIV Local 4",
       "sources": [
         {
           "name": "MLive.com",
@@ -249,7 +297,7 @@
       "id": "2c7bf57518eb",
       "title": "Surprising research reveals why you shouldn't add bananas to your smoothies - ScienceDaily",
       "published": "2026-05-24T12:49:28+00:00",
-      "summary": "Surprising research reveals why you shouldn't add bananas to your smoothies&nbsp;&nbsp;ScienceDailyShould you avoid putting banana in a berry smoothie? UK surgeon debunks claim&nbsp;&nbsp;Hindustan TimesShould You Stop Making Banana Smoothies?&nbsp;&nbsp;BroBibleFlavanol Absorption in Smoothies: What You Need to Know&nbsp;&nbsp;TradeKaizenHealth benefits of banana and berry smoothie: Study says it's time to rethink your favourite breakfast...&nbsp;&nbsp;Moneycontrol.com",
+      "summary": "Surprising research reveals why you shouldn't add bananas to your smoothies&nbsp;&nbsp;ScienceDailyShould you avoid putting banana in a berry smoothie? UK surgeon debunks claim&nbsp;&nbsp;Hindustan TimesShould You Stop Making Banana Smoothies?&nbsp;&nbsp;BroBibleFlavanol Absorption in Smoothies: What You Need to Know&nbsp;&nbsp;TradeKaizenBanana-Berry Smoothies Lose 84% of Heart-Healthy Flavanols: UC Davis Finds Simple Swap Fixes It&nbsp;&nbsp;Tech Times",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -270,10 +318,22 @@
       ]
     },
     {
+      "id": "d23cec30bd57",
+      "title": "Scientists say house cats could help unlock new cancer treatments for humans - ScienceDaily",
+      "published": "2026-05-24T12:37:12+00:00",
+      "summary": "Scientists say house cats could help unlock new cancer treatments for humans&nbsp;&nbsp;ScienceDailyFeline Cancer Genetics Decoded: What It Means for Humans&nbsp;&nbsp;TradeKaizenHow your pet cat could help cure human cancer, according to scientists&nbsp;&nbsp;The News International",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IM19BMFNSRGd5cFJTd2QwbzR4TkEzT0pYMUY5NjJwWEk5XzVjbGdsNjdiTzJtamMwcE1WZ3FaNmxBTG9TbHF3VzhRR1JURHFieDFQSXpZXzZtUzZCSi00N21ESWtBTUcxSU9hd1hGRQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "adacdaa43e59",
       "title": "Inside an African lab that helped crack the hantavirus outbreak - Daily Monitor",
       "published": "2026-05-24T12:00:00+00:00",
-      "summary": "Inside an African lab that helped crack the hantavirus outbreak&nbsp;&nbsp;Daily Monitor",
+      "summary": "Inside an African lab that helped crack the hantavirus outbreak&nbsp;&nbsp;Daily MonitorSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "Daily Monitor",
@@ -285,7 +345,7 @@
       "id": "0195be5ba986",
       "title": "Evidence of Ancient Life Found Buried Under an Asteroid Crater - ScienceAlert",
       "published": "2026-05-24T11:01:17+00:00",
-      "summary": "Evidence of Ancient Life Found Buried Under an Asteroid Crater&nbsp;&nbsp;ScienceAlertAsteroids may have contributed to the emergence of life on Earth — study&nbsp;&nbsp;UA.NEWSLife on Earth may have originated in the lakes remaining after meteorite impacts&nbsp;&nbsp;Universe Space TechHow Asteroid Strikes May Have Sparked Earth’s First Breath of Oxygen&nbsp;&nbsp;ScienceBlog.comLakes formed by asteroid impacts 2.4 billion years ago helped Earth generate the oxygen needed to support complex lif",
+      "summary": "Evidence of Ancient Life Found Buried Under an Asteroid Crater&nbsp;&nbsp;ScienceAlertScientists Just Found Evidence That Asteroids May Have Helped Create Life on Earth&nbsp;&nbsp;SciTechDailyLife on Earth may have originated in the lakes remaining after meteorite impacts&nbsp;&nbsp;Universe Space TechHow Asteroid Strikes May Have Sparked Earth’s First Breath of Oxygen&nbsp;&nbsp;ScienceBlog.comEvidence of ancient life has just been found buried inside an asteroid crater — and the discovery sugg",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -306,18 +366,6 @@
       ]
     },
     {
-      "id": "1126bb4467aa",
-      "title": "China launches 'human artificial embryos' to space in bid to see whether reproduction is possible off-world - Live Science",
-      "published": "2026-05-24T11:00:00+00:00",
-      "summary": "China launches 'human artificial embryos' to space in bid to see whether reproduction is possible off-world&nbsp;&nbsp;Live ScienceChina has transformed its space station into a biology laboratory and is using fish embryos to understand bone loss in space. The results could benefit not only astronauts but also medicine on Earth.&nbsp;&nbsp;CPG Click Petróleo e GásNews China Has Sent Human Embryos Into Space – Artificial Ones, for Now&nbsp;&nbsp;Asgardia - The Space NationNever-before-experiment:",
-      "sources": [
-        {
-          "name": "Live Science",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQenlUZ29jQnRjcXNGeXRUeW9Rc3N1cU1renN6RVgzVEdhYmpXbVM5dk1ndEl2TnhCTENWRUo3d3h5Q0tKaWM0XzZaWFFsTkVsVUhLREI5QW9Wd2FmOWpZLUp2YkZNTnlkX3Y0VFlVS3RYZkNaNm5rVURseFM2aGI5dkdubTBqUms5ZWFWQlFwS1F6ZUpEMDRILXRBNjlJelNROGZTa3FpSG4yajBtLWdPZnFnMkk5RnU0RzQtM1V3azBKN1Q1NGptZjIyMHdXV09XRjg5ZlVEN283ODlRdWJwUVpfbjRxRFB6ak9fc3RR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "aec81c96e9d4",
       "title": "Do This for 5 to 10 Minutes a Day to Improve Your Brain at Any Age, New Research Shows - inc.com",
       "published": "2026-05-24T09:55:46+00:00",
@@ -333,7 +381,7 @@
       "id": "a5a2b8563712",
       "title": "Chinese scientists suggest harsh environments foster early human creativity - South China Morning Post",
       "published": "2026-05-24T08:00:06+00:00",
-      "summary": "Chinese scientists suggest harsh environments foster early human creativity&nbsp;&nbsp;South China Morning PostA Radical Innovation Helped Archaic Humans Survive a Harsh Ice Age&nbsp;&nbsp;ScienceAlert146,000-Year-Old Discovery Rewrites the Story of Human Creativity&nbsp;&nbsp;SciTechDailyCrystals inside an ancient bone in central China just overturned a 146,000-year-old story about humans&nbsp;&nbsp;The Times of IndiaScientists Say Harsh Ice Age Conditions May Have Pushed Early Humans Towards C",
+      "summary": "Chinese scientists suggest harsh environments foster early human creativity&nbsp;&nbsp;South China Morning PostA Radical Innovation Helped Archaic Humans Survive a Harsh Ice Age&nbsp;&nbsp;ScienceAlert146,000-Year-Old Discovery Rewrites the Story of Human Creativity&nbsp;&nbsp;SciTechDailyCrystals inside an ancient bone in central China just overturned a 146,000-year-old story about humans&nbsp;&nbsp;The Times of IndiaHuman creativity may have been forged by hardship rather than abundance — acco",
       "sources": [
         {
           "name": "South China Morning Post",
@@ -342,10 +390,22 @@
       ]
     },
     {
+      "id": "3a15bd293bce",
+      "title": "Pennsylvania schools shared widely debunked vaccine claims with thousands of parents - Pittsburgh Post-Gazette",
+      "published": "2026-05-24T08:00:00+00:00",
+      "summary": "Pennsylvania schools shared widely debunked vaccine claims with thousands of parents&nbsp;&nbsp;Pittsburgh Post-Gazette",
+      "sources": [
+        {
+          "name": "Pittsburgh Post-Gazette",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY2REZzk5elV5V2JwclczQ3BfUE50bnFMbDI2UFpkVEpHVTU2MkZ4clRudHJ1UnZUSWVuN0pWVUttUXJXcmduQkRyLWlZRTNMc25fRndyOXlpX2JfUFQtX0NjU1FRdjVvOW53SnBFbEpBRTlLRnM0RlJMZGdoOXc3RVZnZ3ZzYjJMR2FFWlhvTzh6Y0E0MFNWNW9VUEh5bmNZOF8wcTJFR0sxQmxpZFM4?oc=5"
+        }
+      ]
+    },
+    {
       "id": "63988e8bab8e",
       "title": "Scientists discover hidden driver of aging — Simple supplement reversed brain decline - ScienceDaily",
       "published": "2026-05-24T05:42:09+00:00",
-      "summary": "Scientists discover hidden driver of aging — Simple supplement reversed brain decline&nbsp;&nbsp;ScienceDailyScientists discover molecular process of normal brain aging&nbsp;&nbsp;The Japan Times",
+      "summary": "Scientists discover hidden driver of aging — Simple supplement reversed brain decline&nbsp;&nbsp;ScienceDailyScientists discover molecular process of normal brain aging&nbsp;&nbsp;The Japan TimesBrain Aging Reversal in Mice: Menin Protein Loss Drives Decline, D-Serine Supplement Restores Memory&nbsp;&nbsp;Tech Times",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -366,18 +426,6 @@
       ]
     },
     {
-      "id": "2fcd2ea3825d",
-      "title": "How much protein do we really need? Experts explain the supermarket craze - ynetnews",
-      "published": "2026-05-24T02:27:40+00:00",
-      "summary": "How much protein do we really need? Experts explain the supermarket craze&nbsp;&nbsp;ynetnewsYou Need More Protein If You’re Working Hard in the Gym—Here’s How Much&nbsp;&nbsp;GQ‘People should aim to get a variety’: the pros and cons of popular protein sources&nbsp;&nbsp;The GuardianYour FYP is a protein supplement ad. Here’s what nutritionists actually say&nbsp;&nbsp;Charlotte ObserverHealth experts warn Americans focus too much on protein intake, not source&nbsp;&nbsp;ClickOnDetroit | WDIV Loc",
-      "sources": [
-        {
-          "name": "ynetnews",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNbGQxNkZDd3daQlhEVWVFRjItX3dscENHWFl6Sk5rUWh5RjdWM0UxcDlmZVJ2Z3NPNk9oM1A1V09WU0RhUUtIRm9zS3dlT0kxVUY4WnZkQjI3SDg5Mmc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "71e6d021e09b",
       "title": "No Ebola found at Alabama hospital after ER diversion, EMA director says - AL.com",
       "published": "2026-05-24T02:24:00+00:00",
@@ -390,22 +438,10 @@
       ]
     },
     {
-      "id": "7ad0153cd1b8",
-      "title": "Cancer took their sex lives; doctors are helping patients and couples find intimacy again - ynetnews",
-      "published": "2026-05-24T01:54:28+00:00",
-      "summary": "Cancer took their sex lives; doctors are helping patients and couples find intimacy again&nbsp;&nbsp;ynetnews",
-      "sources": [
-        {
-          "name": "ynetnews",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92R1dEQnpROTBZei05UXp3dGFMNmFGVHNDbVNxejc5Si1jSEtwSHphbmpaWUIxZGZMNWJCY3ZIU2RzTmRLNE42ckJpcWNDOE5KeWxwWnRTYS1kc0xId1NGdzF0QmhjN3Z3RlE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1ae9ddd89124",
       "title": "Mayday! SA scientists identified hantavirus outbreak in 24 hours - The Times of India",
       "published": "2026-05-24T00:04:00+00:00",
-      "summary": "Mayday! SA scientists identified hantavirus outbreak in 24 hours&nbsp;&nbsp;The Times of IndiaWHO chief says hantavirus ‘situation is stable for now’&nbsp;&nbsp;The HillDutch cruise ship crew member tests positive for Hantavirus in isolation&nbsp;&nbsp;The TelegraphHow South African scientists identified hantavirus on a cruise ship thousands of miles away&nbsp;&nbsp;AP NewsInside an African lab that helped crack the hantavirus outbreak&nbsp;&nbsp;Reuters",
+      "summary": "Mayday! SA scientists identified hantavirus outbreak in 24 hours&nbsp;&nbsp;The Times of IndiaWHO chief says hantavirus ‘situation is stable for now’&nbsp;&nbsp;The HillDutch cruise ship crew member tests positive for Hantavirus in isolation&nbsp;&nbsp;The TelegraphHow South African scientists identified hantavirus on a cruise ship thousands of miles away&nbsp;&nbsp;AP NewsQuestions about hantavirus? We’ve got answers.&nbsp;&nbsp;Tacoma-Pierce County Health Department",
       "sources": [
         {
           "name": "The Times of India",
@@ -450,6 +486,18 @@
       ]
     },
     {
+      "id": "52007047d7c4",
+      "title": "6 High-Calcium Drinks for Bone Health That Aren't Milk - AOL.com",
+      "published": "2026-05-23T21:40:16+00:00",
+      "summary": "6 High-Calcium Drinks for Bone Health That Aren't Milk&nbsp;&nbsp;AOL.com",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pbm9kOFpETl9FblhpSXFpYzFOUklhQXlTQ3ZIQTNXTjZtYXZFUm9ZMmxKXzNpdDBhcko1R25fOG83bkNhVlRpbVpodVduLUxBcFljZi1RbjZxeXhMX1NxckRzVW9ncmprWjZnVnFHcVI5ckF2ak9nVUh3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "864327d00022",
       "title": "Brain Region Discovered for Abstract Thought - Neuroscience News",
       "published": "2026-05-23T18:38:29+00:00",
@@ -462,6 +510,18 @@
       ]
     },
     {
+      "id": "cae2411420e6",
+      "title": "US temporarily bans green-card holders from entering country from African nations - The Guardian",
+      "published": "2026-05-23T17:57:50+00:00",
+      "summary": "US temporarily bans green-card holders from entering country from African nations&nbsp;&nbsp;The GuardianU.S. to Block Entry to More Noncitizens Who May Have Been Exposed to Ebola&nbsp;&nbsp;The New York TimesEbola Disease Outbreak in the Democratic Republic of the Congo and Uganda | HAN&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)Why travel restrictions may have unintended consequences as US bars some visitors amid Ebola outbreak&nbsp;&nbsp;ABC News - Breaking News, Latest",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcGx6Z0RTektlTlZWaHBLV1RlbGhGMkpBQWNaUWhoVko4cWpNeDU5aDl4M0UwaGM1RmpsM2c0TDFyS2hFY0REcVk0NkxDejI5bEwtMldrVHNqcDJ6ejdIV2EwVkdOVFNLd2Z6S2JUNFlGM1BFZGcxcmhVSnlnX3F5R2lHVlFSOVRDU0E?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f9c4087e8130",
       "title": "People with eating disorders are taking GLP-1s, and doctors are alarmed - The Washington Post",
       "published": "2026-05-23T16:00:00+00:00",
@@ -470,90 +530,6 @@
         {
           "name": "The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX1E0dm5EUWExa2NYVElUVDRKVkpvUHJ1SjZIR3NNQVlnM3pfbmdLRjhEMzJOakpKY2NEVDh3QVNKY3dZM0ZQRVVmTWNjQi1yVEZvWUg3V25BV1FvRW51blFlQnoyOVRMd3h4RzVreVlJVXdQalNQZ2hNUDFNcHdPRUlGeGZxOVhTMElTSXB0bENDQ1VLX0hVOEpFT2V1MDFOR1NiWFFZRTlacDRSSHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "455a262d841c",
-      "title": "Wegovy linked to rare “eye stroke” that can cause sudden blindness - ScienceDaily",
-      "published": "2026-05-23T13:12:35+00:00",
-      "summary": "Wegovy linked to rare “eye stroke” that can cause sudden blindness&nbsp;&nbsp;ScienceDailyParker Waichman LLP Files Lawsuit on behalf of Florida Resident Alleging Development of Irreversible Eye Condition, NAION, after taking Ozempic&nbsp;&nbsp;PR NewswireSmall NAION Risk from GLP-1 Therapy Not Yet Worth Drug Discontinuation, Experts Say&nbsp;&nbsp;Review of OptometryMounjaro NAION Lawsuit Claims Side Effects Led to Permanent Vision Loss&nbsp;&nbsp;AboutLawsuits.comSemaglutide use associated wit",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lUmpQcHo4MHNPRnUwWDlPcG9Pd2FFYUZGM2tQaHhPMHZtNnZVaUdXYU90QWNka2VBOW40bXMyY0s5MHAyejNPa2FvT2c2X0ZMYXd1bUZ3Xy1Vc05MdEsxdDdQSllmYjdsLXB5Y3RNTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aef2f5d9cfad",
-      "title": "If you feel like Michigan’s tick problem is worse every year, you’re right - MLive.com",
-      "published": "2026-05-23T13:00:00+00:00",
-      "summary": "If you feel like Michigan’s tick problem is worse every year, you’re right&nbsp;&nbsp;MLive.comTick bites surge, sending many to ER. Maps show where.&nbsp;&nbsp;USA Today‘We’re in for a bad year’: Scientists see warning signs for Lyme disease, tick-borne illnesses&nbsp;&nbsp;The HillPoll: How will you honor fallen service members of the U.S. military this Memorial Day?&nbsp;&nbsp;WPBNAs tick-related ER visits climb, MU Extension recommends permethrin&nbsp;&nbsp;Jefferson City News Tribune",
-      "sources": [
-        {
-          "name": "MLive.com",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMXJCZHlwREx6RVFOYlhRYjhKeVFSRmd4M3YwVmpFSGVqbkRnZXl6U2RXVWhoMHFmVTlVOXZxdTloWk5Fa0xqVy1MUGxIWnV0VnRBalhUMFU5Mll3dGtUcnpqa1RlaHoxQ3RVcDU1LW9aeVNpRFdPekpyaUhRS0hMWkFLbHdmeHAzb0NaYVFHVEJjT3VZT2ItSUhydklsRnZtSmIyN3I2c2NVT2JBZXNFU1lR0gHGAUFVX3lxTE96SkRKNFEzM2p5UWp4QlpreXFFM3RGc01Ebkt2N1BIcXduTmFlek5McllZQ0UwaGlBV2hNOGh3VjMtNV9sWW9qaU1Ua05CVDlsdndxWkR3NXNUV3loR2lYUk83Mkh1N000dkpCNUNCUnNmN0JWTHZjTEdXNkhsaURwMFV1dUtKbnJKSXJvNnBmb0ZLaW9CVEFTeUJtUmRVRlRoYUdHcG0tdlBaT1dYcWNGRExXSmtpOEZrdmFQMGF3akZaX25MUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3e03096ce45d",
-      "title": "Research Paper Warns That There's a Massive Experiment at Work to Geoengineer the Earth's Climate - Futurism",
-      "published": "2026-05-23T12:15:00+00:00",
-      "summary": "Research Paper Warns That There's a Massive Experiment at Work to Geoengineer the Earth's Climate&nbsp;&nbsp;FuturismResearch Paper Warns That There’s a Massive Experiment at Work to Geoengineer the Earth’s Climate&nbsp;&nbsp;YahooA startup plans to cool Earth by blocking the sun&nbsp;&nbsp;geekspin.co",
-      "sources": [
-        {
-          "name": "Futurism",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdU1sOVRfS1BYY2dXd3FhRy1lTl9iZE9ySkZRdVlPWWxqbFZ3eW8yNm03aUs5TjlIOHltTVhmY2k4cDA0b0dubkhablVmdHFUTVFub2Vpa2NrdmJzajZZSFp1RFNsUjJWTVdDSVZ4UGNvQWRUUWFTMy1yV3NxVHBuZA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "34ddfbf459ef",
-      "title": "The Best Medicine For Joint Pain Isn't What You Think, Experts Say - ScienceAlert",
-      "published": "2026-05-23T12:03:00+00:00",
-      "summary": "The Best Medicine For Joint Pain Isn't What You Think, Experts Say&nbsp;&nbsp;ScienceAlert",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMVV0UmNzRHQ0TTRPOGZDQmQtSUt3UlBRck9FajIxdWdRaktqS19nbm0zVnhlQ3lNOE44dU1zRjdiVXVKVVlvVmNtSjVhRERJZHU0QjR0T2dDTW94ejBFN3VNME9wMEE0NmZCOXc3LXdtLUc0WHd2WUVWYmVzLVZBRTZyOGRJSUktSjJ4R0Z0TmMzakt2SmpycQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "823f2ff19087",
-      "title": "3 Supplements to Consider for Lower Colon Cancer Risk - EatingWell",
-      "published": "2026-05-23T12:00:00+00:00",
-      "summary": "3 Supplements to Consider for Lower Colon Cancer Risk&nbsp;&nbsp;EatingWellSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRFBucG5WSDN1NDdyWXU1TjlRNFpxazF1Q0NfQjgyZEQ3ZXdQSm1sdzQ1MXZPREloelZSQnc5Y0o1ZVQxa1hfVENqeVZ1a2EzTXJaazdaaUlSbmw1Y0oxN3JTUDdKRmE2VF9KVk9hbzVJXzA3NS1KR2JiNWFQeXpBUlNCRlV6UGRHRlVuV0ZWOWU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d2d9a467d3a2",
-      "title": "7 magnesium deficiency symptoms that could be warning signs from your heart - The Times of India",
-      "published": "2026-05-23T10:03:08+00:00",
-      "summary": "7 magnesium deficiency symptoms that could be warning signs from your heart&nbsp;&nbsp;The Times of IndiaSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQbzNiTkJ2bWwzYUhSOFVDZ05LZm1WcGx4Tk54d2VfcGNFLTh0b3JBcy1QRzNpaW9vSGdwbG1La0FGWC1nSHlDUjcyZGtROF82aFpMSERqX0FVMU9IMTlJbVB0Y1pLbUNkWTRyVHNqS2EtTzJYZEczYW55SlVJWDJhOFhBY3JQcU5qTm1BYktfbHItSWRyQWxYWjkwRS1hUUFkaWhGMno1V2VqaXpDck9pdktUdnFLXzVJSXpOMnZmYl9kLTZGaXg4N2NYWm81dWU2WWc1cjd6Y19OaGZ6TTN4X2t5cnJBRk5qeVFEUThyU1FQNm9IcWNBQnhJQzJMOW5teDJNTWJYVGVNZGhxZG9IU3dYVThzZThyblHSAaICQVVfeXFMUFc1T2Q3dzFTRFFQcVpvbTdsU1NRbXdreG01b3JYM3RtWS1heU9hVGVXTTA4a05sNW1uZk1ZUlRQMGpHM1NsMm54T2JjME5GZzZoTlJ1RVFaUGRHVGhPSWJuelpNUHk3Rmk0YXFESE1tMVRPUTg1VlgzOUZySzJkc2VsTU5NcTBSOFZvc0xOOVc3YXE4SEZLOF9heUFDVWhfcWw2bnN1OHA2ZlBoanBkQ0hyUThZVW05WDhnNmJvYVpOSndjbGpHdlQzdVhVZzBHeFZyQXgwdjZYbzlEanZleXBWb0pjX3J4cGFxU2xSMG96TGhmeTQ3dVhPMEJDWlh0U1FTVkRXR1FmWmY4TnZPQTRSZ0FIVHRZSHRoWmwzZTlOX2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0cad77874eec",
-      "title": "New cholesterol guidelines include earlier screenings, targeted intervention - TribLIVE.com",
-      "published": "2026-05-23T09:03:49+00:00",
-      "summary": "New cholesterol guidelines include earlier screenings, targeted intervention&nbsp;&nbsp;TribLIVE.comNo Child Left Behind: The Case For Early Lipid Screening&nbsp;&nbsp;American College of CardiologyTackling ‘bad’ cholesterol earlier is a more effective way to delay heart disease&nbsp;&nbsp;Imperial College LondonMedicine's Ian Neeland explains the new cholesterol guidelines&nbsp;&nbsp;Case Western Reserve UniversityACC/AHA/NLA 2026 Lipid Guidelines Align Closely With LAI: 11 Key Takeaways for Cl",
-      "sources": [
-        {
-          "name": "TribLIVE.com",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc2N3ZGctWGoxZFBWOElLa1hxSTZNX2pydThUR2YwRU1uTzlkV3d5WEpHMmZaX1ZHbEgyMHJHUlRhS0V5VHZTZXk2cDZXS3ZMelk0SVJNVEFjT29ncmx1VXdPdGlHclZ5dXBPbHNoakZfdHJGd05RdHNpTGMyQjZfcnRjM1VmY0NMbzZaNmJPc0NVeER4cGpuVzI4VHdMRVpTYW5vS3V1SThNRzFoamdEUlVRdw?oc=5"
         }
       ]
     }

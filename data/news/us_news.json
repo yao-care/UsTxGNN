@@ -1,19 +1,115 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-26T10:01:29.246036+00:00",
+  "fetched_at": "2026-05-26T15:40:48.307369+00:00",
   "total_fetched": 124,
   "unique_count": 124,
-  "health_related_count": 59,
+  "health_related_count": 53,
   "news": [
     {
-      "id": "6c53dadc2c05",
-      "title": "DRC is no stranger to Ebola outbreaks. Why isn’t there a vaccine or treatment to help now? - CNN",
-      "published": "2026-05-26T07:00:08+00:00",
-      "summary": "DRC is no stranger to Ebola outbreaks. Why isn’t there a vaccine or treatment to help now?&nbsp;&nbsp;CNN'Race against time' to contain Ebola outbreak in central Africa&nbsp;&nbsp;CBCEbola outbreak death toll climbs in Congo as new infections confirmed in Uganda&nbsp;&nbsp;CBS NewsIn City at Center of Ebola Crisis, ‘the Virus Is Far Ahead of Us’&nbsp;&nbsp;The New York TimesEbola Death Toll Rises To 220, Officials Say 11 Countries Now At Risk (Live Updates)&nbsp;&nbsp;Forbes",
+      "id": "876418de1615",
+      "title": "6 things a neurologist does to keep his brain healthy - The Washington Post",
+      "published": "2026-05-26T15:26:11+00:00",
+      "summary": "6 things a neurologist does to keep his brain healthy&nbsp;&nbsp;The Washington Post6 Brain-Boosting Foods That Improve Productivity and Focus&nbsp;&nbsp;Style RaveFeeding the brain for mood, focus and memory&nbsp;&nbsp;Kingsport Times NewsNeed a storm detox? Here's how to eat well this week&nbsp;&nbsp;Irish IndependentThe One Vegetable Dietitians Recommend for Brain, Heart, and Gut Health&nbsp;&nbsp;Yahoo News Singapore",
       "sources": [
         {
-          "name": "CNN",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42c1hOcWhIOVI3Q2lPSlFEY05RdmhybXNmTDRjTUNRWTBwcmhvN1N6RHdZY28tMkx4eXhweThza0VUNXNXcXlzek53ZmVoRlpMcEVDdHZrN2IwaTlyaTVtQ3JIQVRvZFJBRlhBQ2ZMTXBvVk45RWpNUEh6cFA?oc=5"
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbkRMUGp4NmtRa0VHUjFtLW1ReVJndXZ1U0c0MXR1NlRMRlpELXJIejQ4UXFseHlUOWpZVnJBcjQwem5aWU1BczlFb2hoTkw5NWRFeEswb1JkOFIybUIzcDQ0bXJfMHlwS2R2MUk4QkZHN19PMVUxRGM2NnFJX09wTW01bGdneFBBcjNNV2VlYWlJOW12eS1pUV8yZS0tZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7e98fc365b53",
+      "title": "A sleep-time ‘sweet spot’ is linked to healthy aging, study finds - The Washington Post",
+      "published": "2026-05-26T15:07:13+00:00",
+      "summary": "A sleep-time ‘sweet spot’ is linked to healthy aging, study finds&nbsp;&nbsp;The Washington Post",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQXptUjVMcG1XV3BjazdyeTl4amNEWlhVeDRIaDFFNk15Y1QtYlkxTmoyb29xYzJxRmtvMVpTbndndk43UFdzdXpjeHRjTWlmUEhac192XzE4U2hwX1FyQ2xpQXlwOWdBd3ZyTkNxRnhaeWpLQnk4bmI5ank1c1lRT0pPYm5rV1p1V3diUVk3Z0dGVWFRWlRZZHQ1U185TzNOQ3ItMFZfc3g0N2Vy?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "78e4e426e0e6",
+      "title": "New Ebola Vaccine Could Help With Rapidly Spreading Outbreak (Live Updates) - Forbes",
+      "published": "2026-05-26T12:53:00+00:00",
+      "summary": "New Ebola Vaccine Could Help With Rapidly Spreading Outbreak (Live Updates)&nbsp;&nbsp;Forbes",
+      "sources": [
+        {
+          "name": "Forbes",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNajh1ajREd2IwcEluVkViTFp1d205YVQzbE9Vclhtc3N6WjJHLWRDLWhtVldUS0FlN1UydFNPekoza2JBeHdMN3h5ejQ5QmppMF94dER3QXJwRlFmWmRtd2drN0I3SFdJZDEtMnFKOGRHaFViNkJDLTdiMkVOMFpQRVpBdHhQRzBycHZvbEpMUDRUNGFsbno2NmRYbUdfUjRmRDd1eEVObW9fUkhOYjlsV3lwTXNJU0VwWWlB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "31508965b99b",
+      "title": "Ebola outbreak live updates: WHO says deadly virus is spreading faster than they can stop it - Yahoo",
+      "published": "2026-05-26T12:35:47+00:00",
+      "summary": "Ebola outbreak live updates: WHO says deadly virus is spreading faster than they can stop it&nbsp;&nbsp;YahooEbola outbreak risks becoming 'deadliest on record,' IRC warns&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosScenes from the frontlines of the Ebola outbreak&nbsp;&nbsp;ReutersDoctors, Hospitals Struggle to Keep Up With Ebola’s Spread&nbsp;&nbsp;WSJDRC is no stranger to Ebola outbreaks. Why isn’t there a vaccine or treatment to help now?&nbsp;&nbsp;CNN",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSkQzc1diNzdtNE5Zanp4OUdKaHlCYVJ0R0I0Zi1xVlJrdnNUQ1MxaXEwa3RFenZBaFBsRHc2N0RWS3JvWDhJUk5xZl9xR19VcVhUdXhOUFpROGNvM3Q4dEIzZVU4TDhjRTgwN1REdTZqenV1Y2FKNEpEaU5NVEt2R1ExRUwza2dWQlhDak5UeUx1UzIwcWRXN2RwYVBqNWNmV3JzeWF6eVgxNEVEM3hGYjI3SnMzQW92WUNWTVRnNzFHYV9LX1dwYjVYWFhPOTRlZTZ6LVdmTnFnT3lP?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "14627a81d09b",
+      "title": "Something Made Earth's Molten Core Reverse Direction in 2010 - ScienceAlert",
+      "published": "2026-05-26T12:01:55+00:00",
+      "summary": "Something Made Earth's Molten Core Reverse Direction in 2010&nbsp;&nbsp;ScienceAlertEarth’s Deep Interior Shows A Shift In Outer Core Circulation Far Beneath The Pacific. It Started In 2010.&nbsp;&nbsp;IFLScienceEarth’s outer core reversed direction in 2010 and scientists may finally know why&nbsp;&nbsp;New AtlasEarth’s outer core beneath the Pacific Ocean changed direction&nbsp;&nbsp;Universe Space TechEarth’s magnetic core changed course deep beneath Pacific Ocean, data reveals&nbsp;&nbsp;Yaho",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQWZvdVJxV2hkelc4ZHVYODl4WlNfdm9uZ05FWkE4SmJCTWZ6Vzk3YTctN2hxTnRzSW1nZ0VDdlhEREdrTUJsV2c0NWF3OXpUd0czVm9qVFVUaEd6NmJSLUxrdHIxbGI1Qkx2eVV3NUppWVo4V2hSZUpxeEJZUXAzbVFQZkcxRmk2UlFQLXlyd1k0dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bd89b9ba2418",
+      "title": "Figuring Out What James Webb’s Mysterious Little Red Dots Are - Hackaday",
+      "published": "2026-05-26T11:00:00+00:00",
+      "summary": "Figuring Out What James Webb’s Mysterious Little Red Dots Are&nbsp;&nbsp;HackadayLittle Red Dots and Shaq’s Huge Feet&nbsp;&nbsp;Astrobites🔭 The mysterious little red dots: immense \"stars\" whose heart is a black hole&nbsp;&nbsp;Techno-Science.net",
+      "sources": [
+        {
+          "name": "Hackaday",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbVIxMVRQcWphM2pacndVbXRYZHdTS3Vpb2hRVXoyRDFGV0lSR0kyallSUGpmY0JWc3lhV1VDc2pYbGxIbWljaEFHSlpqcXBrRWRJVTBxRm11NWxhemY1OXRUdjhSN0huTEhHNldzMzlJNWhxTTh3UmpmekJGM1Nfd3VZRGlMdnFuNlJiSkI5Y05MRUFka3JEOQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "30aab5bd10bf",
+      "title": "'Very interesting wiggles' in data from silent NASA Mars spacecraft lead to unexpected solar wind discovery - Space",
+      "published": "2026-05-26T10:00:00+00:00",
+      "summary": "'Very interesting wiggles' in data from silent NASA Mars spacecraft lead to unexpected solar wind discovery&nbsp;&nbsp;SpaceDetection of Zwan-Wolf effect in the ionosphere of Mars&nbsp;&nbsp;NatureNASA’s MAVEN Detects Atmospheric Effect on Mars That ‘No One Expected’&nbsp;&nbsp;GizmodoUPSC Prelims Current Affairs for 20 May 2026&nbsp;&nbsp;Vajiram & RaviFirst Observations Of Zwan-Wolf Effect On Another World Are 124 Miles Deep In The Martian Atmosphere&nbsp;&nbsp;IFLScience",
+      "sources": [
+        {
+          "name": "Space",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSzdiWDFKLUhNVkFxRVRmSEZfVTZLT0VMUWZlX0JDTmNzZWtYYzhRMEJFM0ZwRXlFVk1fS3p1akVMWkl5dHktZzZjcmlCNjZxazJTSnFVQkEwcFdxQ2ZWMmV4WEFvdThkZlFpaHdNbDMtTEJPaWpLbUtRUzI5Q3F1TlVfSW1TNkxwNVBMenhORXBUeFZzU00tdTB1TUxNb21uUUllZ3JGa1NpbmxtZTN3Vjk3MThmbE42YnJyZldSLXUxZjVJOGYzQW13REJqeGtGdXppZmFzWVFHdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e71da7d87603",
+      "title": "These Extremely Common Speech Patterns Could Be Early Signs Of Cognitive Decline, And A Higher Dementia Risk - BuzzFeed",
+      "published": "2026-05-26T09:31:03+00:00",
+      "summary": "These Extremely Common Speech Patterns Could Be Early Signs Of Cognitive Decline, And A Higher Dementia Risk&nbsp;&nbsp;BuzzFeed",
+      "sources": [
+        {
+          "name": "BuzzFeed",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQclJ1MnhFQ3Z4NkhCSW1EWWFlNGI5MEF4aUYydUFxY3A2N1A4TDE1aGFjNnhJenVEYUNEZlloT2lZeGNHNGVZQkhfMmtLeHlVbnNQaTZ2ZUtmWHQzTUl2bEM4Yk40clRqRHExb1JJX05sWmNTTjJLQjVoTVY0ZzlSVmJGMFBnZE9EM3ZFRTZwNHlTWGJfa2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "734a9e8b681e",
+      "title": "After California doctors saved his life, a Cleveland team helped him keep living it: Health Care Stories - Cleveland.com",
+      "published": "2026-05-26T09:01:00+00:00",
+      "summary": "After California doctors saved his life, a Cleveland team helped him keep living it: Health Care Stories&nbsp;&nbsp;Cleveland.com",
+      "sources": [
+        {
+          "name": "Cleveland.com",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQR0x0QzEzRUJ5YTM1V3RpcEFUMXdQOEplX1cwckxSV3p5eE5mdXhBbDVzM240RUpGRU5rbExGcDNtdVNPZFQ1Z1JzOEoyckptd0lLVnM5R1hWdU5sUnFwQm1uU09aSGdEX1doWkNQRVVaQk5vMGpPLUJobXFCbUY5SU9hbE9JV2JNbEQzNUdSYTZyc1VBdi04QjBORmJVcHBQbXl4RmR6WVZoX25aTTFDSUNxWHFwQk9lQU1QNFF3TWpKeGg1N1pndGNsV1IwYkpQQ0VUQVp6ZElzUVZRdzZmaGFuTdIB9wFBVV95cUxNeUFHb0JoLTBSTDV4NDJIaWtLYzk0NGJULXN2WE9aX0FpeFp5emFCODFQb0JRWVRGcWJfQ0hDYl9TWkYzOE5uOHpqNzh0SENmUEZFWWlQenp4eWQxbkhpSzkyTWw5WnN6Vk42REk4aEtZZllRWTBWSFdiamg5R1JpQnJqRGNDUmFCbGlNZTFFU3d4dVlLdTF1STBsNnlKZDEta290RmJ6VFBNZDBYZGNyMzAxMFhZX3ZqV1ZnLUttRmI2YU9TUkwydDk2c282emxURUxwTlZyd3RkTFlyeFJHWHZHbkZlV0V4TTEtYmxsRV9xUERvQW5F?oc=5"
         }
       ]
     },
@@ -21,7 +117,7 @@
       "id": "2940a05287b7",
       "title": "Why poor gut health can lead to Parkinson’s and how to avoid it - The Telegraph",
       "published": "2026-05-26T06:00:00+00:00",
-      "summary": "Why poor gut health can lead to Parkinson’s and how to avoid it&nbsp;&nbsp;The TelegraphStudy advances knowledge of gut-brain axis in Parkinson’s&nbsp;&nbsp;Perron InstituteGut Health Could Signal Parkinson’s Risk Years Before Symptoms, New UCL Study Finds&nbsp;&nbsp;AOL.comThe hidden bacteria scientists now suspect is fueling Parkinson’s disease in millions&nbsp;&nbsp;Futura, le média qui explore le mondeFaecal Transplants Show Promise for Parkinson’s Safety, Efficacy&nbsp;&nbsp;Bioengineer.org",
+      "summary": "Why poor gut health can lead to Parkinson’s and how to avoid it&nbsp;&nbsp;The Telegraph",
       "sources": [
         {
           "name": "The Telegraph",
@@ -30,14 +126,26 @@
       ]
     },
     {
-      "id": "b2199c619846",
-      "title": "A Common Vitamin Helps Cancer Defend Itself – But Could Also Let Us Fight It - ScienceAlert",
-      "published": "2026-05-26T02:46:11+00:00",
-      "summary": "A Common Vitamin Helps Cancer Defend Itself – But Could Also Let Us Fight It&nbsp;&nbsp;ScienceAlert",
+      "id": "38942f2b9acc",
+      "title": "‘We could have communicated it better.’ Officials admit missteps on Tewksbury Hospital security. - The Boston Globe",
+      "published": "2026-05-26T05:30:00+00:00",
+      "summary": "‘We could have communicated it better.’ Officials admit missteps on Tewksbury Hospital security.&nbsp;&nbsp;The Boston Globe",
       "sources": [
         {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSzByb210MHltX3RsdTktNW5TOWFwRjQwR05PYXRocmxvY2RJMHBRb2ZENmFPVmt6VzlOOXNRVTZNay1kRlhlQ2hTcC1aWVJYckk4b1FIenE3c3lmT0FxYTJaUWJMcXdGMUJiNFpIVHFISFFPUnUxOHBCMmhSTEJkdVBzWlhkcGNMRzVROU1CaUl3bDZMdkE5LWx2dF9XTURfdGRBRW9n?oc=5"
+          "name": "The Boston Globe",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdVo0RjBCMlZLODZ6aGZsSjlEeVB4X3BXVXRTb3BCNVdzbmx6c20xSUJZSlpVbVNYNDJoWHNlbmU1QU1KVmI1bjJDSDFxbjN3SFN3QkxuUEN4UFNMdm5kRWo3YmVGRXdlSHJMVlBFTmZhX2kwMDBxLW1FQWtQOVVlWEhVWC1KRERTdS1FVkVPT05hRnE0WlNpblFvQVBlRjN0Vnk0NnR0UnF0MnNIUGVR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8f00e07ad3a5",
+      "title": "What Happens to Your Liver When You Occasionally Binge Drink - EatingWell",
+      "published": "2026-05-26T00:00:00+00:00",
+      "summary": "What Happens to Your Liver When You Occasionally Binge Drink&nbsp;&nbsp;EatingWellAlcohol consumption often prevents the liver from healing, even after drinking stops&nbsp;&nbsp;Earth.com",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQWxnNWNZMVU2ZnpESHBaWHVBZE5lSENrNVBYUGw0a296NlBhbW42aEhqQ3Bud2NvVUNIenlrdE4wSjVpdFA5SnA2OGhVZ2JOTmxwRm5sa19tX3lJTVI2cTQ5WUpMbldsd2NCOFRlRFZ6VFRzamFfNkNZSVc0QzJ2djAwQnNIY1dLZHk3RHM2QzFyYUlKTktOa2cwNVE?oc=5"
         }
       ]
     },
@@ -54,18 +162,6 @@
       ]
     },
     {
-      "id": "dafffc4992c0",
-      "title": "Coloradan tests positive for hantavirus - 9News.com",
-      "published": "2026-05-25T22:47:00+00:00",
-      "summary": "Coloradan tests positive for hantavirus&nbsp;&nbsp;9News.com",
-      "sources": [
-        {
-          "name": "9News.com",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUmhibkhPaUFURFRJNTZiUVZ3STJNS0JxbzU1aGlqVXVzeWFJTWJHdTlNQ2ZxU0VYOVNNSi04T25KOFBiZzl2c0FIb1ZOZXJtZGJBR3QyUVdieTF2RFJoN1VCOVVGV2t2YjktNlRzLWJwQ1B2WnB1WkI5dmNPbVhxNVpfbVpGTlRER3UyZkdydHRfTFd3SWRZWkprYWFQRnpHM1cyby1YQ2xLbWNHTmU1NzBRZE1ZSTVJ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "761b940fc1ba",
       "title": "What happens to your brain when you eat an avocado every day for six months? - PsyPost",
       "published": "2026-05-25T22:13:41+00:00",
@@ -78,14 +174,38 @@
       ]
     },
     {
-      "id": "3d57e6f69c7b",
-      "title": "Months trapped together in Antarctic isolation reveal a risk few long missions can afford to ignore - Phys.org",
-      "published": "2026-05-25T19:00:01+00:00",
-      "summary": "Months trapped together in Antarctic isolation reveal a risk few long missions can afford to ignore&nbsp;&nbsp;Phys.orgConstant Contact Increases Conflict in Confined Conditions&nbsp;&nbsp;Neuroscience NewsIn an extremely isolated environment, not only loneliness but also paradoxically 'excessive proximit..&nbsp;&nbsp;매일경제Isolation leads to more mistrust, says Swiss study&nbsp;&nbsp;SWI swissinfo.chStudy: Excessive proximity in isolated teams like space crews can fuel conflict, mistrust&nbsp;&nb",
+      "id": "c4a8b2f147df",
+      "title": "Arapahoe County man recovering after contracting hantavirus; infection not tied to cruise ship cluster - Denver7",
+      "published": "2026-05-25T21:00:39+00:00",
+      "summary": "Arapahoe County man recovering after contracting hantavirus; infection not tied to cruise ship cluster&nbsp;&nbsp;Denver7",
       "sources": [
         {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRjhUUEp0Y09zbnZteVpWVk9LT1E3d21iWDdsVFZsRVBEZ0xJNE9Cckk3b0pQY2NJMFNPc0JORGJuVGpUZnBrWlRmdElQdTVmYi1JdkZUWW9fQkpJdk9Ha2xXVkdkdXBZN0RMYUhfbi1taE85YlRKTFhxSFRtOGMwcWUxMA?oc=5"
+          "name": "Denver7",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS1Z6blJNaThyMUstODN0ZUxUOTlXVW43QlR3Z0hRRUN4b0xQZk5XVjNHNkVvRExUeGZicWF3QTJMbjJTT0FpcnVwazRadUFQeGwzd0dSRW1fdUl0c0R5UHJVcV9CcHRiS3Q4amJwTk4xYkFOQzVNdndQall4ZWFTSHlaX29hMjQ3dEMySGVUUXNKcWhuSG5TS2ZxVWZuVExVS05CaFgwNUk1Z1dsMEFNZmtRejJLVllGcHVnWkQ4QnZDVzBJMjJ6d1ZGM196Sk5uOFUxeHk1T19fUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3b152117bb43",
+      "title": "Helping Children Laugh Can Make Their Brains More Resilient and Learning Easier - Good News Network",
+      "published": "2026-05-25T20:36:17+00:00",
+      "summary": "Helping Children Laugh Can Make Their Brains More Resilient and Learning Easier&nbsp;&nbsp;Good News Network",
+      "sources": [
+        {
+          "name": "Good News Network",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNnVHMXhJeTAwV05hdjFPdUg3bnRXTFJUb1dsbE1TZ0ZJZlhTSXpyYnNhVG9zSW9nbmNad2VLSndvN3MtRUZvQV9QSWNRQTVhQ0hlNFo1WFB1VmJXdjdSR2hPLUI5ZHVMeF9vVE1TZWhGQzFwTUR1aXZwTHZBX0gyS0pkNkw1RTdBMDdydXBFQW5HbXNtMTRaZ0s5eFg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "61f3041bf679",
+      "title": "Spanish national evacuated from hantavirus cruise ship tests positive - Reuters",
+      "published": "2026-05-25T18:18:18+00:00",
+      "summary": "Spanish national evacuated from hantavirus cruise ship tests positive&nbsp;&nbsp;ReutersSpanish citizen evacuated from hantavirus-hit cruise ship tests positive&nbsp;&nbsp;CNNPassenger Tests Positive For Hantavirus Weeks After Leaving Infected Cruise Ship (Latest Updates)&nbsp;&nbsp;ForbesSpanish passenger from the MV Hondius cruise ship tests positive for hantavirus&nbsp;&nbsp;CBCHealth ministry confirms another hantavirus case in Spain&nbsp;&nbsp;Euronews.com",
+      "sources": [
+        {
+          "name": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdG5aWm9aVUVPU1loQ0xlQnhZUHV4VmlmdzJ4bGtETVlRSUVELW9EUlE1T0tIX185QldQOHRneUNzZXB1cWxRazUxcmhZZlF2My1jMGpRSG5VODluNmxUU3luMUJCLVI4bGtfQXNaN0N5TjdicHRUcG1YT1R0VWc5c25vZDBiU0k2RlVCSHFvZkhYZGtiRFF4b3VEQTVndmtEYkRPeDZUekFpWWluRWJEN2dTcmRyZ3lpbFFiLUU0ekdTdU1YcjRiUm9Qb2NPOHBmQkE?oc=5"
         }
       ]
     },
@@ -98,18 +218,6 @@
         {
           "name": "PsyPost",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYXNnUUhraTNMSE1mSEpaR25TR1ZrdXdPU2tMUDIxQmlMa3NnVFFRZVJnM0UzYkVBV3VoNTBBM3ltVElOT2JxTlFFUjJyWlcxX1FHdGU0d3JEeldtLU1wMkdBaU5MVTdOaGx5NTNzTzM0SGJfTDFVV01NcTJJRFJZcE1RRkRfYjVSRl8tdWIyU0ZIa1dRNnM0ZjREaVB3QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6a923c615c8d",
-      "title": "Laughter Rewires Brain Architecture and Lowers Cognitive Load - Neuroscience News",
-      "published": "2026-05-25T16:56:50+00:00",
-      "summary": "Laughter Rewires Brain Architecture and Lowers Cognitive Load&nbsp;&nbsp;Neuroscience NewsSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "Neuroscience News",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rZDNWNURRbXNhS2lYbks3VDZ5ZFZvX1k1S3V5ZWM1Ym9qYlhlLUROZURZRFZYeEliVmcwMHBCVFdCbzJhZ1VEVTROTDVWVEtITEJFY3RqNmF6VktsZ1hQVXFxdVhFU1dka0kwcVVPR0lYWWhLQUhXekJZQ3c?oc=5"
         }
       ]
     },
@@ -141,7 +249,7 @@
       "id": "42fc149ae566",
       "title": "Scientists Confirm Alcohol Causes Widespread Health Damage - SciTechDaily",
       "published": "2026-05-25T15:50:43+00:00",
-      "summary": "Scientists Confirm Alcohol Causes Widespread Health Damage&nbsp;&nbsp;SciTechDailyThat Glass Of Wine Isn’t Helping Your Heart After All&nbsp;&nbsp;StudyFindsAlcohol classified as a carcinogen, linked to multiple forms of cancer&nbsp;&nbsp;WALBOhio State targets alcohol marketing in cancer study&nbsp;&nbsp;WFMJWhat happens when you stop drinking alcohol? The brain and body may begin to recover fast&nbsp;&nbsp;ynetnews",
+      "summary": "Scientists Confirm Alcohol Causes Widespread Health Damage&nbsp;&nbsp;SciTechDailyThat Glass Of Wine Isn’t Helping Your Heart After All&nbsp;&nbsp;StudyFindsHOMETOWN HEALTH: Researchers say many younger adults unaware of cancer risks from alcohol&nbsp;&nbsp;WDBJ7Alcohol classified as a carcinogen, linked to multiple forms of cancer&nbsp;&nbsp;WALBWhat happens when you stop drinking alcohol? The brain and body may begin to recover fast&nbsp;&nbsp;ynetnews",
       "sources": [
         {
           "name": "SciTechDaily",
@@ -150,34 +258,10 @@
       ]
     },
     {
-      "id": "6852ee25c6d6",
-      "title": "The mystery of T. rex’s tiny arms might finally be solved - CNN",
-      "published": "2026-05-25T15:36:30+00:00",
-      "summary": "The mystery of T. rex’s tiny arms might finally be solved&nbsp;&nbsp;CNNWhy meat-eating dinosaurs like T. rex evolved tiny arms&nbsp;&nbsp;Phys.orgWhy were T. rex’s arms so tiny? Paleontologists finally find an answer.&nbsp;&nbsp;Popular ScienceStudy reveals real reason T. rex had tiny arms: Massive skulls took over the hunt&nbsp;&nbsp;YahooScientists Discovered the Brutal Reason T. Rex Had Those Tiny Shrimp Arms&nbsp;&nbsp;vice.com",
-      "sources": [
-        {
-          "name": "CNN",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RZjVPN2lxUlBtTUgyeWpfREVNZWxoZ0Y5TlNMUGtDUzQtOVp0VUJDaWpINzRxQl95am9DakdqdmVvYzBzZlpJUnp1REVXQjZNWDJHbGFWU2dTcFZFaTFYRkxiTUlKYURxckV0Nms5SUI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "734a9e8b681e",
-      "title": "After California doctors saved his life, a Cleveland team helped him keep living it: Health Care Stories - Cleveland.com",
-      "published": "2026-05-25T15:00:00+00:00",
-      "summary": "After California doctors saved his life, a Cleveland team helped him keep living it: Health Care Stories&nbsp;&nbsp;Cleveland.com",
-      "sources": [
-        {
-          "name": "Cleveland.com",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQR0x0QzEzRUJ5YTM1V3RpcEFUMXdQOEplX1cwckxSV3p5eE5mdXhBbDVzM240RUpGRU5rbExGcDNtdVNPZFQ1Z1JzOEoyckptd0lLVnM5R1hWdU5sUnFwQm1uU09aSGdEX1doWkNQRVVaQk5vMGpPLUJobXFCbUY5SU9hbE9JV2JNbEQzNUdSYTZyc1VBdi04QjBORmJVcHBQbXl4RmR6WVZoX25aTTFDSUNxWHFwQk9lQU1QNFF3TWpKeGg1N1pndGNsV1IwYkpQQ0VUQVp6ZElzUVZRdzZmaGFuTdIB9wFBVV95cUxNeUFHb0JoLTBSTDV4NDJIaWtLYzk0NGJULXN2WE9aX0FpeFp5emFCODFQb0JRWVRGcWJfQ0hDYl9TWkYzOE5uOHpqNzh0SENmUEZFWWlQenp4eWQxbkhpSzkyTWw5WnN6Vk42REk4aEtZZllRWTBWSFdiamg5R1JpQnJqRGNDUmFCbGlNZTFFU3d4dVlLdTF1STBsNnlKZDEta290RmJ6VFBNZDBYZGNyMzAxMFhZX3ZqV1ZnLUttRmI2YU9TUkwydDk2c282emxURUxwTlZyd3RkTFlyeFJHWHZHbkZlV0V4TTEtYmxsRV9xUERvQW5F?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7e8d97b7de04",
       "title": "Two suspected Ebola cases detected in Italy test negative - Euronews.com",
       "published": "2026-05-25T14:10:48+00:00",
-      "summary": "Two suspected Ebola cases detected in Italy test negative&nbsp;&nbsp;Euronews.comItaly reports 2 suspected Ebola cases in Milan after their return from Uganda&nbsp;&nbsp;Anadolu AjansıEbola outbreak in DRC and Uganda passes 1,000 cases, as Italy reports 2 suspected cases&nbsp;&nbsp;World Socialist Web Site​Ebola in Europe? Italy reports 2 suspected cases in Milan — How travelers can protect themselves from infection​&nbsp;&nbsp;The Times of IndiaHealth alert issued as two suspected cases of dead",
+      "summary": "Two suspected Ebola cases detected in Italy test negative&nbsp;&nbsp;Euronews.comItaly reports 2 suspected Ebola cases in Milan after their return from Uganda&nbsp;&nbsp;Anadolu AjansıEbola outbreak in DRC and Uganda passes 1,000 cases, as Italy reports 2 suspected cases&nbsp;&nbsp;World Socialist Web Site​Ebola in Europe? Italy reports 2 suspected cases in Milan — How travelers can protect themselves from infection​&nbsp;&nbsp;The Times of IndiaRare Ebola strain with no cure 'may be in Europe'&",
       "sources": [
         {
           "name": "Euronews.com",
@@ -210,6 +294,18 @@
       ]
     },
     {
+      "id": "174fde36a8b8",
+      "title": "Pocket-sized cancer test detects tumors early with 94.9% accuracy - Interesting Engineering",
+      "published": "2026-05-25T13:28:00+00:00",
+      "summary": "Pocket-sized cancer test detects tumors early with 94.9% accuracy&nbsp;&nbsp;Interesting EngineeringSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "Interesting Engineering",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOW5hcnRoYVA0RF9RMXlPa3JZZlJqd05vM01SdFpNUmpuVEpkdDJUX21GQ2NNckxnT2lVeTJEek5HajdmRTlzVkhmWUV3VXUyNmtvaW9QM2o2YWZNQU9yWjJqWGllSW93MDBMQUtlT0hmUHQxQ21QbXZZMEZsdEIzRE9qczVVRzQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "abeaa35397db",
       "title": "How to breathe life back into brain theory - Nature",
       "published": "2026-05-25T13:10:33+00:00",
@@ -222,10 +318,34 @@
       ]
     },
     {
+      "id": "f56cd93ea178",
+      "title": "One Dietary Supplement Was Found to Lower Aggression by Up to 28% - ScienceAlert",
+      "published": "2026-05-25T13:01:44+00:00",
+      "summary": "One Dietary Supplement Was Found to Lower Aggression by Up to 28%&nbsp;&nbsp;ScienceAlertA common dietary supplement — omega-3, the kind found in fish oil and flax — has been shown across nearly 4,000 people to reduce aggression by up to 28%, whether it's the heat-of-the-moment kind or the kind people plan in advance&nbsp;&nbsp;Space DailyThis Nutrient Can Help You Feel Less Angry & Irritated, New Study Shows&nbsp;&nbsp;MindBodyGreen",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOREdEcG83Y0NNRGIzRWVSM3dWWW1ZeFdsMGNRTThkYW1Ua01pdlJwaEJNdjI3cE5fWC0zQlI4Zm0zUGY2Z1JCQ0duLUE5blRPTkZON1RFZXd2eUhTeVNtUGNHRGJobThJQlp5TllzY0RTZ05LVmh5bkNfR2lVd0FkVmxfSmxhUE1VNWhDeVBBREZZSDJSN0NISQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f4686692b168",
+      "title": "Dear Doctor: Can GLP-1 agonists help reduce alcohol and gambling addictions? - OregonLive.com",
+      "published": "2026-05-25T13:00:00+00:00",
+      "summary": "Dear Doctor: Can GLP-1 agonists help reduce alcohol and gambling addictions?&nbsp;&nbsp;OregonLive.comCan GLP-1 Weight Loss Drugs Help Treat Gambling Addiction? Doctors Weigh-In&nbsp;&nbsp;Casino.orgWeight-Loss drug linked to reduced alcohol consumption in new trial&nbsp;&nbsp;London Daily NewsGLP-1 drugs may help curb addiction by targeting reward pathways&nbsp;&nbsp;News-MedicalGLP-1 agonists might help obese man with drinking habit&nbsp;&nbsp;miningjournal.net",
+      "sources": [
+        {
+          "name": "OregonLive.com",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNelBySTV2UjJ4TW4wR0dIWDhaZExJOHZRcWUteWRGb2JoTTdVcFhVeFh5dkNoS1oza05weTlPWmlnOTRaSjlNUmdvdjFuc21WV1ZRMHg4Y1FRWS1CeVVYeGNESzAyZDN0c1puQl9laVczaExiQ3JrVTlrcktlbW1SV2JHN2xzOVBVbDNrSTB6aGthY2VGYzBxMkY0aExXaVVQRmFwb3NxOE9sLWJQTlhQT0dJUjN4UzcwSk5IbjN30gHSAUFVX3lxTE56bXVaVThyXzNDd0g1VWF3eUNBclVQM0FNWmJKQURUNG9ZLVRXRERseGZBbWhjUXRPMGV5Z1VmUkZaYzlrZWZuZ05HYjFzWGdEZEhzQ3NIaVp2c1NkcVFRQUx6ajd1dkJ4RnBHQWV3b1Jfc0xUc05rYkQ0Z3VmTGwwWGR5LUlqU2VZOHR3Wk01bG1nVWtGcDczc241NEdHV1dfUEJJMkR1NFpUUDZ6Nl9MSUhqdW1mdjUxU2swVGZTZ2RidF8zSC1sN3BrR21kTTV6dw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7216e18d8fb3",
       "title": "3 medical routines that older people may not need - Daily Kos",
       "published": "2026-05-25T13:00:00+00:00",
-      "summary": "3 medical routines that older people may not need&nbsp;&nbsp;Daily KosSee more headlines & perspectives on Google News",
+      "summary": "3 medical routines that older people may not need&nbsp;&nbsp;Daily Kos",
       "sources": [
         {
           "name": "Daily Kos",
@@ -249,7 +369,7 @@
       "id": "ce6b9495aef5",
       "title": "Common heart drug taken by millions found useless — and possibly dangerous - ScienceDaily",
       "published": "2026-05-25T12:38:22+00:00",
-      "summary": "Common heart drug taken by millions found useless — and possibly dangerous&nbsp;&nbsp;ScienceDailyStop using this common heart drug; it could be dangerous for your health&nbsp;&nbsp;The News International",
+      "summary": "Common heart drug taken by millions found useless — and possibly dangerous&nbsp;&nbsp;ScienceDaily",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -261,7 +381,7 @@
       "id": "1b06dae8d9c6",
       "title": "Sexually transmitted infections surge across Europe to decade-high levels, with gonorrhea up 303% - ynetnews",
       "published": "2026-05-25T12:23:13+00:00",
-      "summary": "Sexually transmitted infections surge across Europe to decade-high levels, with gonorrhea up 303%&nbsp;&nbsp;ynetnewsGonorrhoea and syphilis hit record levels in Europe, data shows&nbsp;&nbsp;BBCSTIs hit record levels in Europe: what’s driving the rise?&nbsp;&nbsp;Euronews.comGonorrhea and syphilis cases hit record highs in Europe due to changing sexual habits and testing&nbsp;&nbsp;The IndependentTwo sexually transmitted diseases are on the rise and one causes 'grey warty growths'&nbsp;&nbsp;Me",
+      "summary": "Sexually transmitted infections surge across Europe to decade-high levels, with gonorrhea up 303%&nbsp;&nbsp;ynetnewsGonorrhoea and syphilis hit record levels in Europe, data shows&nbsp;&nbsp;BBCSexually transmitted infections are reaching record highs in Europe&nbsp;&nbsp;CIDRAPSTIs hit record levels in Europe: what’s driving the rise?&nbsp;&nbsp;Euronews.comGonorrhea and syphilis cases hit record highs in Europe due to changing sexual habits and testing&nbsp;&nbsp;The Independent",
       "sources": [
         {
           "name": "ynetnews",
@@ -273,7 +393,7 @@
       "id": "d92b59602c0a",
       "title": "Ebola and hantavirus outbreaks prompt raft of conspiracy theories in divided US - The Guardian",
       "published": "2026-05-25T12:00:00+00:00",
-      "summary": "Ebola and hantavirus outbreaks prompt raft of conspiracy theories in divided US&nbsp;&nbsp;The GuardianAnonymous Donald Trump Fans Post Wild Hantavirus and Ebola Conspiracy Theories&nbsp;&nbsp;Yahoo",
+      "summary": "Ebola and hantavirus outbreaks prompt raft of conspiracy theories in divided US&nbsp;&nbsp;The Guardian",
       "sources": [
         {
           "name": "The Guardian",
@@ -282,26 +402,26 @@
       ]
     },
     {
-      "id": "65669a1f97b0",
-      "title": "Mars fungi could make red planet regolith fertile for crops - Phys.org",
-      "published": "2026-05-25T11:54:20+00:00",
-      "summary": "Mars fungi could make red planet regolith fertile for crops&nbsp;&nbsp;Phys.orgCould this fungus turn Mars into farmland? Scientists say it might make Martian soil fertile&nbsp;&nbsp;The Times of IndiaFungi could help transform barren Martian regolith into fertile farmland, latest study suggests&nbsp;&nbsp;starlust.orgMars fungi could turn red planet dirt into crop-producing soil&nbsp;&nbsp;MSN",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41b3dzM0FMWkpYNXVrRXBMUG9iV2JZQ0I2M3RjWGJiLUFZY3hpNWlxWld2djMzWGY0R0FGRl9mWnBhVGpRamZNSGFDQURKMzVvOTVRY0NBRDhnaUh3NVlkMFk3S19OWU1UUmYwTmNXOHh3MjA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "54ee6bba5ec7",
       "title": "Did 3I/ATLAS Deliver Extrasolar Life to Our Backyard? - Avi Loeb – Medium",
       "published": "2026-05-25T11:49:49+00:00",
-      "summary": "Did 3I/ATLAS Deliver Extrasolar Life to Our Backyard?&nbsp;&nbsp;Avi Loeb – MediumSan Antonio Astronomical Association monthly public meeting: “Europa Clipper’s view of Interstellar Comet 3I/ATLAS while in route to the Jupiter System\"g\"”&nbsp;&nbsp;Texas Public Radio | TPRBoth Hemispheres of 3I/ATLAS Observed Simultaneously by JUICE and Europa Clipper&nbsp;&nbsp;Universe Today",
+      "summary": "Did 3I/ATLAS Deliver Extrasolar Life to Our Backyard?&nbsp;&nbsp;Avi Loeb – MediumSan Antonio Astronomical Association monthly public meeting: “Europa Clipper’s view of Interstellar Comet 3I/ATLAS while in route to the Jupiter System\"g\"”&nbsp;&nbsp;Texas Public Radio | TPRInterstellar Object 3I/ATLAS Sparks Debate Over Possible “Directed Panspermia”&nbsp;&nbsp;techbusinessnews.com.auBoth Hemispheres of 3I/ATLAS Observed Simultaneously by JUICE and Europa Clipper&nbsp;&nbsp;Universe TodayDid 3I/A",
       "sources": [
         {
           "name": "Avi Loeb – Medium",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLXFyNHczY1o4cjQ5WHVzRkFENVhfZC1CQWVkYzREbzNvc1B5Wl9SM1p1ci04SlR4bUxQbkZTVnlLbHQ3Q05pVmVTU29Sekc4cEZ6QVB3SkdCVGhndkRRZy1uYjdjd0VyZ2ZoRDA1ODBqREdPMFJnMWZYbXptLWE2dy0yQ0hJWi1sWDdJR3VjRjdGUkpZRkNkeg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1d749ad91277",
+      "title": "Human creativity may have been forged by hardship rather than abundance — according to a new study of 146,000-year-old stone tools found in central China and dated to one of the harshest Ice Ages of early human history - Space Daily",
+      "published": "2026-05-25T11:30:36+00:00",
+      "summary": "Human creativity may have been forged by hardship rather than abundance — according to a new study of 146,000-year-old stone tools found in central China and dated to one of the harshest Ice Ages of early human history&nbsp;&nbsp;Space DailyA Radical Innovation Helped Archaic Humans Survive a Harsh Ice Age&nbsp;&nbsp;ScienceAlertChinese scientists suggest harsh environments foster early human creativity&nbsp;&nbsp;South China Morning Post146,000-Year-Old Discovery Rewrites the Story of Human Cre",
+      "sources": [
+        {
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPN01HcGdTcTNQRTdjSjlVVFJyNURMM0llaU5XY0sybGVTT2JHTHFPd3d1MzBTU1oyckJTSU01QWNNRUwzUnh6WDlZX21sTFlVOWtxZTkwN3N4TVV1VUtVc2RwTENvY085Rm5OQ01NOUdyNXpkakp0OTljams1WWNDb29RU1pwQVBFZ0pHUzFNTXhRaWFPVEw0U3U1LU1VLVdLZXFQTUZTMzdpNktaUzhtVXMxUXd0X0haWmwxcmlvcHhjcDBpdE1aaVNROUlHWUpmckZJZUM1UHJqa2twdVJ0M1BmOU1SbWRldnZ5eC1nNWZCTHlNNlFGUU5FZnp1QW1YR2RoU3BQbHY5cFVzdUNUTXV4MWVJdDYwNi1vTzFHbWpfTjhia0hBNzBvTXNzN0JUZFFFZEdkQmo1cjA?oc=5"
         }
       ]
     },
@@ -321,7 +441,7 @@
       "id": "d7e81539cde3",
       "title": "Nightly Sleep Apnea Pill Fast-Tracked For Approval After Latest Trial Success - ScienceAlert",
       "published": "2026-05-25T11:01:44+00:00",
-      "summary": "Nightly Sleep Apnea Pill Fast-Tracked For Approval After Latest Trial Success&nbsp;&nbsp;ScienceAlertHow decades of sleep research led to a new sleep apnea drug&nbsp;&nbsp;University of TorontoPill for Obstructive Sleep Apnea Shows Potential&nbsp;&nbsp;MedscapePill for sleep apnea cuts symptoms 44% in clinical trials&nbsp;&nbsp;India TodayOnce-Nightly Pill Treats Causes of Airway Collapse to Control OSA&nbsp;&nbsp;American Thoracic Society",
+      "summary": "Nightly Sleep Apnea Pill Fast-Tracked For Approval After Latest Trial Success&nbsp;&nbsp;ScienceAlert",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -333,23 +453,11 @@
       "id": "e7c24c4630d2",
       "title": "New Study Says 30 Minutes Of Weekly Exercise Is All You Need — But There’s A Catch - HuffPost",
       "published": "2026-05-25T11:00:18+00:00",
-      "summary": "New Study Says 30 Minutes Of Weekly Exercise Is All You Need — But There’s A Catch&nbsp;&nbsp;HuffPostA new study says you need 10 hours of exercise a week. Can that really be possible?&nbsp;&nbsp;Scientific AmericanLeast fit people need to do more exercise than fittest to get same benefit – study | Fitness&nbsp;&nbsp;The GuardianFor real heart protection, the weekly exercise number climbs far beyond current advice&nbsp;&nbsp;Medical XpressThe healthiest workout may be shorter — and harder — tha",
+      "summary": "New Study Says 30 Minutes Of Weekly Exercise Is All You Need — But There’s A Catch&nbsp;&nbsp;HuffPostExercising Beyond Current Guidelines Could Unlock Incredible Heart Benefits&nbsp;&nbsp;ScienceAlertSaturday citations: Two T. rexes and new exercise guidance that scientists are not calling 'easy'&nbsp;&nbsp;Phys.orgScientists Say Most Adults Need 4 Times More Exercise Than Recommended for Major Heart Benefits&nbsp;&nbsp;SciTechDailyThe healthiest workout may be shorter — and harder — than peopl",
       "sources": [
         {
           "name": "HuffPost",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZWdlQlR6c3c2WVFBb0ZXT3NSVGFMcTdta19Uc2lpUG9LWVB3bk85djVZakJrbFBVVGtEbG1USEtneDFtS1l0YWd6OE56ZDcweHFfY0M1cFM4eEpxZ21mSmlOcVhHN21QWWY3bThFekxGcVRGdnpVVEIzMDl4WVNFcW5fMHg0emR6R0NnTEE2XzBkZHB1M0RKZl9LS2kyUWZUa1JqcGtXZjl0QdIBrwFBVV95cUxOZ1R2RXlhaDl6bGNjXy1WeVEtUlZWM21fWDQ2c1ZjQmtISDNfQWE1WjlVRWhkWmEybEE5TDdMZXR6NUx4RXAtVGM1cXRDbjdoZjljMk5xaWRoMGtSd1RpTm10cncxVWs4VEwtUHlPSDZlc0V2WS1fX2syRVczVkYtbWYtMmhCc3NWaTdLYmUwNjlKTlFkOXQ0eVB3SFgwR3lzRmI2NTNnTU9OdzZ3QjdZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bcc9ae801593",
-      "title": "How NY and NJ are preparing for all the World Cup worst-case scenarios - Gothamist",
-      "published": "2026-05-25T10:01:31+00:00",
-      "summary": "How NY and NJ are preparing for all the World Cup worst-case scenarios&nbsp;&nbsp;GothamistEbola concerns reach Houston as global outbreak intersects with World Cup travel&nbsp;&nbsp;KHOU‘We are okay’: Harris County Judge Lina Hidalgo addresses Ebola concerns ahead of FIFA World Cup 2026 in Houston&nbsp;&nbsp;Click2Houston2026 FIFA World Cup faces health risks from heat, infectious diseases and food safety, experts say&nbsp;&nbsp;The IndependentWorld Cup’s hidden health operation&nbsp;&nbsp;Your",
-      "sources": [
-        {
-          "name": "Gothamist",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdGNaZ0ZCbjYzUkJpem1aQk5NZm9LaWYxUW05YUxFWUhkc3hPcGpfeTc4X2FEay1MWTlfMkZsOGlnR1k5amdmSTBzT2FqQVJSRG9JWUdRLWlEUnFjNDVGZkZBcE1OaXlsdjJOdEY0dVAtQWg1VzQyR1RaTTNod2hFQll3MzZHZk1LY3AyS2VrQWwzVElyeldTWTZiRTg1dw?oc=5"
         }
       ]
     },
@@ -378,22 +486,10 @@
       ]
     },
     {
-      "id": "145f431a7f92",
-      "title": "Misinformation about perimenopause on social media ‘putting women at risk’ - The Guardian",
-      "published": "2026-05-25T09:00:00+00:00",
-      "summary": "Misinformation about perimenopause on social media ‘putting women at risk’&nbsp;&nbsp;The GuardianFace Perimenopause with Hope&nbsp;&nbsp;The Gospel CoalitionPrevent And Protect: Now Is The Time To Get Get Ready For Menopause&nbsp;&nbsp;essence.comPerimenopause may be behind years of anxiety, brain fog, and sleep troubles&nbsp;&nbsp;WSYXPerimenopause took me by surprise. That's exactly the problem. | Opinion&nbsp;&nbsp;USA Today",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZlNpdkJJM2FGNGZIbnZtOUJEcER4NkZzaVVJUVU3ZFd0MHZhQVNSN0ZaR1JNQTk1N2RsNXhKR2t3Z1QwekdpbmlrakR6Z3RkMlZvWW9mVDU0LUFVVUJNNHNMTmIxY0NYU1QyakpQeE94NFN6ZEF4MHBaWXYxZi1VaWx1dGRSc1V1cExTa2c3cjZ3cTQyTG80RmZjNU9ETHlWUWl6bmFlY0lsS2FEYk11NnlXN05zdDI3VVEtag?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0d07748131fc",
       "title": "A Single Dose of Psilocybin Could Ease Depression For Months, New Study Finds - ScienceAlert",
       "published": "2026-05-25T03:30:46+00:00",
-      "summary": "A Single Dose of Psilocybin Could Ease Depression For Months, New Study Finds&nbsp;&nbsp;ScienceAlertSwedish Study Indicates Psilocybin May Offer Rapid Relief for Depression Symptoms&nbsp;&nbsp;Hemp GazetteSingle Dose Of Psilocybin Mushrooms Acts As A Natural Antidepressant: Swedish Study&nbsp;&nbsp;ETV BharatSingle Psilocybin Dose Provides Rapid Relief From Depression, Small Clinical Trial Finds&nbsp;&nbsp;U.S. News & World ReportA Single Dose Of Psilocybin Can Lead To 'Rapid' And 'Long-Lasting",
+      "summary": "A Single Dose of Psilocybin Could Ease Depression For Months, New Study Finds&nbsp;&nbsp;ScienceAlertA Single Dose Of Psilocybin Can Lead To 'Rapid' And 'Long-Lasting' Improvements In Depression, Study Indicates&nbsp;&nbsp;Marijuana MomentSingle Dose Of Psilocybin Mushrooms Acts As A Natural Antidepressant: Swedish Study&nbsp;&nbsp;ETV BharatKarolinska Institutet Evaluates Single Dose of Psilocybin for Depression&nbsp;&nbsp;MedicalResearch.comSwedish Study Indicates Psilocybin May Offer Rapid Re",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -405,7 +501,7 @@
       "id": "c2ce7454b231",
       "title": "Large Review Shows What Sugary Diets May Be Doing to Your Memory - ScienceAlert",
       "published": "2026-05-25T03:05:46+00:00",
-      "summary": "Large Review Shows What Sugary Diets May Be Doing to Your Memory&nbsp;&nbsp;ScienceAlertNew Study Discovers that a Childhood Junk-Food Diet Rewires the Brain&nbsp;&nbsp;inc.comDrinking this every day linked to a shocking acceleration in brain aging, study warns&nbsp;&nbsp;Futura, le média qui explore le mondeWhat kids eat could permanently change their brains and eating habits&nbsp;&nbsp;theweek.inWhat you eat as a teenager may shape food choices later in life&nbsp;&nbsp;Medical Xpress",
+      "summary": "Large Review Shows What Sugary Diets May Be Doing to Your Memory&nbsp;&nbsp;ScienceAlertNew Study Discovers that a Childhood Junk-Food Diet Rewires the Brain&nbsp;&nbsp;inc.comDrinking this every day linked to a shocking acceleration in brain aging, study warns&nbsp;&nbsp;Futura, le média qui explore le mondeWhat kids eat could permanently change their brains and eating habits&nbsp;&nbsp;theweek.inChildhood Junk Food Permanently Alters Brain Structure, Study Finds&nbsp;&nbsp;Ratopati",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -414,14 +510,26 @@
       ]
     },
     {
-      "id": "6aa4036c7a27",
-      "title": "Diet change tied to ‘younger’ biological age in older adults after 4 weeks - FOX 9 Minneapolis-St. Paul",
-      "published": "2026-05-25T02:18:41+00:00",
-      "summary": "Diet change tied to ‘younger’ biological age in older adults after 4 weeks&nbsp;&nbsp;FOX 9 Minneapolis-St. PaulJust 4 Weeks of Simple Diet Changes Reversed Signs of Aging in Older Adults&nbsp;&nbsp;SciTechDailyHealthy diets may slow chronic disease and aging in older adults&nbsp;&nbsp;AOL.comFour week diet change may shift biological ageing markers in older adults&nbsp;&nbsp;diabetes.co.ukCan diet changes reduce your biological age?&nbsp;&nbsp;RNZ",
+      "id": "ddddb5fa8a83",
+      "title": "First video of immune cells eating live skin cancer in real time - The Conversation",
+      "published": "2026-05-25T03:05:00+00:00",
+      "summary": "First video of immune cells eating live skin cancer in real time&nbsp;&nbsp;The Conversation",
       "sources": [
         {
-          "name": "FOX 9 Minneapolis-St. Paul",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWEZTRndRVUszZk9xWkdyVGN0QUQ4Wk52Q2FLcE1zRDZzSFlwUm1leERmcjlkWFVxSkRtb2NqaHp3alJyZ0tpVWhDWXNSRHB5blgxUlFoRWFqeTh0YWJkV1o4Sm96QVgzbEJqZ0xYMm5XNnJxM18tQ1dxTGl0T0RiTndmVEdqQ2NiNEVGRVM2UEIwOVU4XzVn0gGcAUFVX3lxTE1Sa2t6VFNiNzh6SDJkR09Ta2UyUXZXaFo0OUVrN25rZzJKNGFXSGh0MXM2OXY1am41NzE0SkJxU3o0YmIyNHNkU3lLSUt0cXlmU0t3YS14VnE1SEtNcDdrMEhrb3hPZjdOQkpwRWxlcEhhcFBxYXJxRXhEM3Jpb3R4U1RhSUZDaEV6OUx6ekpINUI3bGl2djV6QlFEdQ?oc=5"
+          "name": "The Conversation",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSG45SWs1S01tZXViNE44NzFtSl9CREFYLWJxelNhUUs5UGU1WFpfd0QtZFUyQm1TTDVLbWQzNnMtV2R0eElQYk5jYXNWN2o1OG53bTNZYjM0Um9rZGV2RllrSWZOc0ZxX3EzUFJvYmRRVUFNVEVDUlFOc2l3WFU4bXVBSUpXWmk0a0o2VngwR194SHhYcUZGZkUzd3FSR1lf?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0eef6b71edef",
+      "title": "How concerned are Utahns about hantavirus? - Deseret News",
+      "published": "2026-05-25T03:00:00+00:00",
+      "summary": "How concerned are Utahns about hantavirus?&nbsp;&nbsp;Deseret News",
+      "sources": [
+        {
+          "name": "Deseret News",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzZveEhtLWg2aHBPWVdUUUp6bld5dUgyajYwOWlzMWJrQThheThUa3RDM2YtODBob3BoRmFCazNTRnhhTHlOOXpsMTJzZ0otUzd1YzN3OFNVTVVYblpjSjZTOTZkV18wVzZZYUFnTllEbUlmaXVnUmV5cXhhbHFndGx2YXE1RHExX0gyQ3dJdE1wNVpscjM0Z2lzek5hYXpUUnE5dzNWcEFYcXdtT2JaS0ZIcUhXdHZjWjhPalRMWnNwQ3hWeGlGbw?oc=5"
         }
       ]
     },
@@ -438,38 +546,26 @@
       ]
     },
     {
-      "id": "524af0c4ea38",
-      "title": "Scientists Discover Grapes Can “Reprogram” Your Skin Against Sun Damage - SciTechDaily",
-      "published": "2026-05-25T01:31:11+00:00",
-      "summary": "Scientists Discover Grapes Can “Reprogram” Your Skin Against Sun Damage&nbsp;&nbsp;SciTechDailyEating grapes daily could unlock powerful skin protection&nbsp;&nbsp;ScienceDailyResearchers Find Surprising Link Between Grapes and Sun Protection&nbsp;&nbsp;GizmodoDaily Grape Consumption Activates Skin's UV Defense Genes, Study Finds&nbsp;&nbsp;Seoul Economic DailyA study shows that eating this fruit for two weeks strengthens the skin’s protective barrier&nbsp;&nbsp;Paris Select Book",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTWlXekMzb0dQTkVkcHVRUDA2Wnhwb3ljNmxmbTFvS29QTWhESmVScnJVVFdzZG5mOXBXV0JxQW13N3A0MV8yVnVZQjhlT2xVY0tuaGwzYjlaVHdFaDNWNV93U0l3U0p1N0tQZC1tNGJGVTM0ZlFBT0RXT2dtM242QlhxRHRrNUxOcm4zZU9HdlZEZzl4ZVhCYThUSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "52d4a2b4d784",
-      "title": "Scientists Create “Trojan Horse” Weight Loss Drug That Supercharges Results - SciTechDaily",
-      "published": "2026-05-25T00:56:58+00:00",
-      "summary": "Scientists Create “Trojan Horse” Weight Loss Drug That Supercharges Results&nbsp;&nbsp;SciTechDailyWeight-loss drug shows breakthrough results&nbsp;&nbsp;YahooSYNCHRONIZE-1: Survodutide Achieves Significant Weight Loss Versus Placebo&nbsp;&nbsp;HCPLiveVideo Weight-loss drug shows breakthrough results&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX3BCMlRPcWJ5VDlGZlItR2dhbzYyYXRCbzhUajRwRjA4MEt5RGgzUVExQ3A4WTFpS3ZtZ1lPdS1jZzdSalNZOFlnY05tZ0JzTU5GMTZQZy1rQVJqaU1iRWZnbFlrNWJoVmFUX2R1MGlyemR6UmpGZDJjSGdFMmNfSzNUWjU4RkdkZnE2SUM4ZXJUYTZCZ3dTeGh2dWRWZ1Q0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "db89fbdbfa4f",
-      "title": "Stress Incontinence? Women Swear This Trick Stops Bladder Leaks Instantly - AOL.com",
-      "published": "2026-05-24T23:23:31+00:00",
-      "summary": "Stress Incontinence? Women Swear This Trick Stops Bladder Leaks Instantly&nbsp;&nbsp;AOL.comUrinary incontinence may signal serious illness, doctor warns as bladder control issues linked to cancer and neurological disease&nbsp;&nbsp;Malay MailMEDICAL MONDAY: Local specialist working to break stigma around urinary incontinence&nbsp;&nbsp;WXOW",
+      "id": "f9f69b692e07",
+      "title": "Here’s Exactly What Happens to Your Liver When You Drink Diet Soda - AOL.com",
+      "published": "2026-05-24T21:40:19+00:00",
+      "summary": "Here’s Exactly What Happens to Your Liver When You Drink Diet Soda&nbsp;&nbsp;AOL.com",
       "sources": [
         {
           "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQczd1SGs4b1pzd0s5cFZJa0lvMW52b0xzallkX1F2dFFMaGxNeXRoc1QwXzUwWmNmUGo1ZXl1RnkwdnFmRXRjZDloWEo4cUd1eVR0cFdDSHhtbzVxcWhxWmlqUXZHZ0tTUjM1eXgwVHlCM3pJWF9VaDlLendhNUZsOGxGY3dvcWVZ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTXkzbkJfblBYQllBemtVbVpNZmJsY3RldnBJV3diY1JBWmJDb2cyaVFHSG4zSmQwY2ZCTDV5WWJSX2FoU0xwdUhHWm9maF9ITURWR2xWTW1SOHRlLTRESHRhT1JtTTdXVDYzTi1ULXRQRzlGanhKUlJTZ24wUHJJV2pn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "01d3f29c0e1f",
+      "title": "‘Stomach flu’ outbreak slams hikers on California section of Pacific Crest Trail - Sacramento Bee",
+      "published": "2026-05-24T21:32:42+00:00",
+      "summary": "‘Stomach flu’ outbreak slams hikers on California section of Pacific Crest Trail&nbsp;&nbsp;Sacramento Bee'I've never been that weak': Hikers hit with norovirus on the Pacific Crest Trail&nbsp;&nbsp;SFGATEDozens of California Hikers Get Mysteriously Sick With Norovirus&nbsp;&nbsp;NewsweekThru-Hikers’ Worst Enemy Is Microscopic: Why Norovirus Is a Perennial Problem on Trails&nbsp;&nbsp;GearJunkieA Highly Contagious Illness Is Sickening Hikers on the PCT—and Hand Sanitizer Can't Stop It&nbsp;&nbsp",
+      "sources": [
+        {
+          "name": "Sacramento Bee",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIZ2VUQVRWSWRrX3o2SFY4R2ZpUGREbVNPYmkxWHlrck03c0VlOV9DMUtwUTdJbDV1aUxuZHFsTkVKaV9MSmZ3MVlSb0QxajEzbzd2S3FVVldURGhIaFFCNm9DR2VtZUdkeWJ5TdIBbEFVX3lxTE1mVFNSZ2JKUzlpek5GdFBnbEdsRThXVlk2ZWp2WVVmWV91MmxKQzhZSVlVZWp5TFF0Z3FWUmFSMVNZb0xtdnJfMUdXeFZua1FQV3R3UllmaVJaR3pfbnNpS3hGS1JxN09NUlFucA?oc=5"
         }
       ]
     },
@@ -477,7 +573,7 @@
       "id": "6f4da913c878",
       "title": "US well-positioned to deal with current Ebola outbreak, Deborah Birx says - Politico",
       "published": "2026-05-24T20:15:36+00:00",
-      "summary": "US well-positioned to deal with current Ebola outbreak, Deborah Birx says&nbsp;&nbsp;PoliticoTrump’s former COVID adviser: US equipped to handle response to Ebola outbreak&nbsp;&nbsp;The HillTranscript: Dr. Deborah Birx on \"Face the Nation with Margaret Brennan,\" May 24, 2026&nbsp;&nbsp;CBS News“Do You Trust That The Trump Administration Will Effectively Manage/Address Infectious Diseases?”&nbsp;&nbsp;The Seattle MediumDr. Deborah Birx says \"there's a deep bench\" to CDC, FDA to respond to Ebola&",
+      "summary": "US well-positioned to deal with current Ebola outbreak, Deborah Birx says&nbsp;&nbsp;PoliticoTranscript: Dr. Deborah Birx on \"Face the Nation with Margaret Brennan,\" May 24, 2026&nbsp;&nbsp;CBS NewsTrump’s former COVID adviser: US equipped to handle response to Ebola outbreak&nbsp;&nbsp;The Hill“Do You Trust That The Trump Administration Will Effectively Manage/Address Infectious Diseases?”&nbsp;&nbsp;The Seattle MediumDr. Deborah Birx says \"there's a deep bench\" to CDC, FDA to respond to Ebola&",
       "sources": [
         {
           "name": "Politico",
@@ -489,7 +585,7 @@
       "id": "c3ab957a99f7",
       "title": "New 'AI scientists' are improving—but reveal their fundamental limits - Phys.org",
       "published": "2026-05-24T19:00:02+00:00",
-      "summary": "New 'AI scientists' are improving—but reveal their fundamental limits&nbsp;&nbsp;Phys.orgAI & Science: What Is the Future of Discovery?&nbsp;&nbsp;American Academy of Arts and SciencesAre ‘AI co-scientist’ tools actually useful for scientists?&nbsp;&nbsp;statnews.comAI co-scientist startup CTO on 'hypothesis slop,' deterministic code and the goal of compressing a century of science into a decade&nbsp;&nbsp;R&amp;D WorldAccelerating Discovery With AI | Newswise&nbsp;&nbsp;Newswise",
+      "summary": "New 'AI scientists' are improving—but reveal their fundamental limits&nbsp;&nbsp;Phys.orgAI & Science: What Is the Future of Discovery?&nbsp;&nbsp;American Academy of Arts and SciencesCan AI do scientific research? Billions are pouring in to find out&nbsp;&nbsp;Endpoints NewsAre ‘AI co-scientist’ tools actually useful for scientists?&nbsp;&nbsp;statnews.comAI co-scientist startup CTO on 'hypothesis slop,' deterministic code and the goal of compressing a century of science into a decade&nbsp;&nbs",
       "sources": [
         {
           "name": "Phys.org",
@@ -510,26 +606,14 @@
       ]
     },
     {
-      "id": "5065925e6e93",
-      "title": "The Milky Way ate another galaxy. Scientists say they've found the scraps - KSL.com",
-      "published": "2026-05-24T18:55:21+00:00",
-      "summary": "The Milky Way ate another galaxy. Scientists say they've found the scraps&nbsp;&nbsp;KSL.comThe Milky Way ate another galaxy. Scientists say they’ve found the scraps&nbsp;&nbsp;CNNStudy: Strange stars may actually be remnants of a galaxy the Milky Way 'ate'&nbsp;&nbsp;WKRCScientists think they may have found the remains of an entire galaxy that the Milky Way absorbed billions of years ago — 20 unusual stars hiding inside our own galactic disk, possibly the leftovers of a small galaxy our own hom",
+      "id": "286939c825a7",
+      "title": "Fatherhood Dramatically Rewires Your Brain, Scans Reveal - ScienceAlert",
+      "published": "2026-05-24T18:01:26+00:00",
+      "summary": "Fatherhood Dramatically Rewires Your Brain, Scans Reveal&nbsp;&nbsp;ScienceAlert",
       "sources": [
         {
-          "name": "KSL.com",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUDY2T0JncjZOR0NxbzBMenVFRE51NjNVQldfMkg0WW1LLVdUSjg5X2hwYVlyMVNRcGdZaTQwcEFHUU96NWM1TWJzMVI1dnpjYUQxTlBtOEhoRTlyZWtya1FPOXJCUUdkX0dqNnREYWRHRlNOUEs3cWhqV2swWU9lTzR3T1Aza1RNMldaa1VzUDlZVkR6bXE2VW5JcGJCSXNOMEI2ZzBXT2JjNWgt?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "20f45110d2b1",
-      "title": "Scientists Discover Common Medications May Secretly Alter Your Gut for Years - SciTechDaily",
-      "published": "2026-05-24T17:13:23+00:00",
-      "summary": "Scientists Discover Common Medications May Secretly Alter Your Gut for Years&nbsp;&nbsp;SciTechDailyMedical Interventions Rapidly Change Isolated Indigenous Microbiomes&nbsp;&nbsp;the-scientist.comEarly Medical Care Linked to Rapid Gut Microbiome Shifts in Amazonian Indigenous Communities&nbsp;&nbsp;Inside Precision MedicineMinimal exposure to modern medicine rapidly alters the human microbiome&nbsp;&nbsp;News-MedicalModern medication can harm gut microbiome, a study on Amazon’s indigenous peopl",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcUVuOW5KNThfTC1MX0hRalREbGVIdXM4aVI4clZPVHIxb1YwbkIyRE5ZWVdvTnZHV1M5Z2c1U2NrZXV4Um94Y0hqLVVDR3RGR0RGNzRONXJieDBfZ2h5OTV3dnJiZUVkMGNiaW5nSkVNcC04YWwzdk5xQVZ3Z1Bkb2d0TXRPVENZaDhKVXFZMi1MRjBKQ1V5TF9vT0ZWWTcwY0VPVg?oc=5"
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU3pPRU1lNEU4b2loMldtMTJvTk04cE5lb3lzZEo0OVlZWkRSbUloU3VreFRQVEFTTExrUElnVXplb281YXd0THpxQmswdGFCOUVQa2FtbGFiV1RfaFhzelM0MlBZRmdPQklzaGViTzU1Rm5SWGI0b1RldFBYSVdHVENDX3F2QzVCZXJLVg?oc=5"
         }
       ]
     },
@@ -537,7 +621,7 @@
       "id": "b23b988d075f",
       "title": "6 rashes and infections you can get from the beach - The Washington Post",
       "published": "2026-05-24T17:00:00+00:00",
-      "summary": "6 rashes and infections you can get from the beach&nbsp;&nbsp;The Washington PostA deadly bacteria is creeping up the Atlantic Coast. How worried should you be?&nbsp;&nbsp;North Carolina Health NewsUnderstanding Vibrio Risks: EMSL Analytical Provides Resources to Identify Environmental and Foodborne Pathogens&nbsp;&nbsp;WebWireExclusive | LI oyster growers shelled again — this time by warning of killer bacteria in water&nbsp;&nbsp;New York PostWhat to know about a so-called flesh eating bacteria",
+      "summary": "6 rashes and infections you can get from the beach&nbsp;&nbsp;The Washington Post",
       "sources": [
         {
           "name": "The Washington Post",
@@ -554,162 +638,6 @@
         {
           "name": "SciTechDaily",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjUtdkhrSkh0WDVlTGF5b3FjUWZnU2QxSHJ6TVVobkpwekNqdXhLVFh0NUJHS1pxdHUyT0owOVBsY1RhVjlrQnRxSTFLMEFuT0E0djk2TU1Jb3F1SEdjMHpSUFVUaDBPQWp1cDBid2dDRHVJTmNIQU1kODFiNWdxU1VfVVRxV1ltTVBXOGVmZjh6bXRIN2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "04c1027bdde7",
-      "title": "Americans exposed to hantavirus on ship enjoy Nebraska hospitality while in quarantine - KSL.com",
-      "published": "2026-05-24T15:28:39+00:00",
-      "summary": "Americans exposed to hantavirus on ship enjoy Nebraska hospitality while in quarantine&nbsp;&nbsp;KSL.comAmerican passenger on hantavirus-hit cruise feels ‘blindsided’ and ‘misled’ by new quarantine orders&nbsp;&nbsp;CNNAmerican passenger feels 'betrayed' by federal order to stay in hantavirus quarantine&nbsp;&nbsp;NPRHantavirus update: Nebraska officials awaiting CDC guidance on passengers’ release&nbsp;&nbsp;WOWTHantavirus latest updates: WHO says outbreak is stabilizing as the Netherlands rep",
-      "sources": [
-        {
-          "name": "KSL.com",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaTN5QWVfRUdtYnRqMmRkeGZqenVWb3YtMUxmTEhQODg2TGYzeWVEUm10d0dOR2kzRVFNYlBPWC1DQ0gydHBYVG1QWktvR2NSOTNpQnpiMTVjS3h5WmlMN0w2enRYS1BTSVhTV29XM3dvNGNDRlFGN3M4b3E2dmdPM0JZX2ZLaDd6WVRMbFFuWFNfb21fSldDMXAtNTJZR0ZYMFlST0pGdXgxbWpKcFE5bEMxWWRWQTBBbHlER1JJTnU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8aaf0cb71fff",
-      "title": "Drug Used to Treat Asthma and Allergies May Also Help Fight Aggressive Cancers - Good News Network",
-      "published": "2026-05-24T14:10:47+00:00",
-      "summary": "Drug Used to Treat Asthma and Allergies May Also Help Fight Aggressive Cancers&nbsp;&nbsp;Good News NetworkCommon asthma drug helps fight hard-to-treat cancers, including aggressive breast cancers, early study finds&nbsp;&nbsp;Live ScienceTargeting cysteinyl leukotriene receptor 1 reprograms tumor-promoting myelopoiesis and overcomes immune checkpoint therapy resistance&nbsp;&nbsp;NatureAsthma drug shows promise in slowing tumor growth, researchers say&nbsp;&nbsp;WGN-TVDrug used to treat asthma ",
-      "sources": [
-        {
-          "name": "Good News Network",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVElXMzJueFZvaDQ4OEExTWV3cTFEbkZ6Si1rNmhjM21wNFJYd0Y1bGRDWFZIMHlHWWNXcG11Z1NuM0lBbzVld29TYVg2bjdybzZrY0hnUVRvbFJidlNrRjhiUGljTjNNOUFnQTB2c0xxd2F3UEV5bnRlY2M2cUFRSDVYWVZGQmJqYTdUUWszUFBRbWpyU05PZVFlUDRpNEpoT003XzRvdG5odw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8526ee54e253",
-      "title": "New light-based switch could cut chip energy use and speed future AI photonics - Tech Xplore",
-      "published": "2026-05-24T14:10:01+00:00",
-      "summary": "New light-based switch could cut chip energy use and speed future AI photonics&nbsp;&nbsp;Tech XploreTiny on-chip circuit could power next-generation quantum and AI technologies&nbsp;&nbsp;Phys.orgLight-controlled switch uses only 4 femtojoules and brings photonic AI chips closer to a future with less heat and lower energy consumption&nbsp;&nbsp;CPG Click Petróleo e GásMaking ‘light’ work of computing&nbsp;&nbsp;EurekAlert!Forget electrons, this breakthrough uses light-matter particles to power ",
-      "sources": [
-        {
-          "name": "Tech Xplore",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kU19PSFpSTlZlMkZINXpiUnZLdkRMMU83RVJJbzdKeEhobjZsRTFGeUNLeDZhY3pFcVVjVHJ3MUo0S05oVkhmYzg3TWp0MjVWNDgzdVcwQXBjWVBBZExNZzU2Y094Q2VwZ3VYNUw4UXVIYWxaV1NR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5747c056c01b",
-      "title": "My Daughter Had Terminal Brain Cancer, I Couldn’t Tell Her She Was Dying - Yahoo",
-      "published": "2026-05-24T13:30:00+00:00",
-      "summary": "My Daughter Had Terminal Brain Cancer, I Couldn’t Tell Her She Was Dying&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTkZHTG5uQ2twQl81ZW5pOFdaaWF6TU1MQ213RnFWTXpENmRfcXF5bmxaYld6NzN0UHFWV2lrNkpqNldQMm5BOXZESVE4UU5qR3ZRZmtLelNscnlsbDBxazhROVVrODNmc05feDBHRWRNTUUxYzRpUS15RFJNVmZqai1OTFptTl9pblRFV2IzWTU3Ym1H?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "da400017344a",
-      "title": "More than 500 children have died in an outbreak that the world is virtually ignoring - NPR",
-      "published": "2026-05-24T13:00:40+00:00",
-      "summary": "More than 500 children have died in an outbreak that the world is virtually ignoring&nbsp;&nbsp;NPRSuspected and confirmed measles deaths top 500 in Bangladesh&nbsp;&nbsp;ReutersDeadly Measles Outbreak Sickens Thousands of Children in Bangladesh&nbsp;&nbsp;The New York TimesMore than 500 children die in measles outbreak in Bangladesh&nbsp;&nbsp;Al JazeeraAnother child dies with measles symptoms at Mymensingh Medical&nbsp;&nbsp;Dhaka Tribune",
-      "sources": [
-        {
-          "name": "NPR",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYUNTNmVMOUlSTUFUUThpcGJUdGFwNzMzVk9MSVZFUnVKYnd4am1lTDR0d1E0cE9HZTJnSEpaMmtJUWR5Tmw2dXV0d2Z5U25hQW5NcnpJRTFJYUhmQ2M5S25FTC1aS0xEZnU5dGNIZHd4Z0NuaWFFeHIwb2hfMzdCck5EbTNnOFA4dXM4LUhCcWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bb0caa665a96",
-      "title": "Oncologists Wish You'd Stop Doing These 4 Things - EatingWell",
-      "published": "2026-05-24T13:00:00+00:00",
-      "summary": "Oncologists Wish You'd Stop Doing These 4 Things&nbsp;&nbsp;EatingWellAlmost 50% of Preventable Cancers Linked to Just Two Lifestyle Habits&nbsp;&nbsp;ScienceAlertThe Simple Habit That Could Lower Your Cancer Risk&nbsp;&nbsp;SciTechDailyOncologist explains how everyday habits affect cancer risk: ‘Window for action is wider than most people think’&nbsp;&nbsp;Hindustan TimesWant To Lower Your Cancer Risk? These 2 Beverages Can Help&nbsp;&nbsp;MindBodyGreen",
-      "sources": [
-        {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuc1lLanZIX1FOTlRzdWZ2d0MwaEUzMGxDR01XSUxUVnd1bjROdEJMd1l1aUxOaklpZVNGVTdsOWNTOWF1bjk2OExVR1BaT2RrQWhNMlJXV2JEb0lvbnJLeTdFUHREZjBZNk5USEtMbDllSU5HbkZya0JTOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2c7bf57518eb",
-      "title": "Surprising research reveals why you shouldn't add bananas to your smoothies - ScienceDaily",
-      "published": "2026-05-24T12:49:28+00:00",
-      "summary": "Surprising research reveals why you shouldn't add bananas to your smoothies&nbsp;&nbsp;ScienceDailyScience Says You're Probably Making Smoothies Wrong, and I've Never Felt More Validated&nbsp;&nbsp;inc.comShould you avoid putting banana in a berry smoothie? UK surgeon debunks claim&nbsp;&nbsp;Hindustan TimesShould You Stop Making Banana Smoothies?&nbsp;&nbsp;BroBibleBanana-Berry Smoothies Lose 84% of Heart-Healthy Flavanols: UC Davis Finds Simple Swap Fixes It&nbsp;&nbsp;Tech Times",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hWWhXMy15TDduOTlBUTV5VkYzUl9jRXgzWlVZRGJaOE15eHU1Qmg4SUp2SWJ4S2xQZFNvTVF4NThYVWM4LTNxNFUyZGdNYmVUdHNGeXJfVm1fMFlvWmNnM2FnWGpjbUo0MG5hVVZDQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8db23cc8d3e0",
-      "title": "How a distinct communication subspace in the brain turns goals into actions - Medical Xpress",
-      "published": "2026-05-24T12:40:01+00:00",
-      "summary": "How a distinct communication subspace in the brain turns goals into actions&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeE1ucFRSSVdjWlQySWRXc2xLTHh2ZWZENGExMGNWOEpqRnFqVU5rOUl6SmQ0VFZOaVgyS2FxNTJHeEJmdFk1WWR5a1ZMeFpfN3JCNHI4cmVNczJld3VqczJoaFkwQkNNSElxclp5LU83RjVLcG5oZXYySDY0UnJ1Z0ZwbldEVUo0RmdGSnM4a1g?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d23cec30bd57",
-      "title": "Scientists say house cats could help unlock new cancer treatments for humans - ScienceDaily",
-      "published": "2026-05-24T12:37:12+00:00",
-      "summary": "Scientists say house cats could help unlock new cancer treatments for humans&nbsp;&nbsp;ScienceDailyHow your pet cat could help cure human cancer, according to scientists&nbsp;&nbsp;The News International",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IM19BMFNSRGd5cFJTd2QwbzR4TkEzT0pYMUY5NjJwWEk5XzVjbGdsNjdiTzJtamMwcE1WZ3FaNmxBTG9TbHF3VzhRR1JURHFieDFQSXpZXzZtUzZCSi00N21ESWtBTUcxSU9hd1hGRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1cb87e04c625",
-      "title": "Doctors Reveal The Most Common Side Effects Of GLP-1s — And How To Manage Them - HuffPost",
-      "published": "2026-05-24T11:00:18+00:00",
-      "summary": "Doctors Reveal The Most Common Side Effects Of GLP-1s — And How To Manage Them&nbsp;&nbsp;HuffPostDo GLP-1 Weight-Loss Drugs Dull Emotions? ‘Ozempic Personality’ Concerns Patients, Doctors&nbsp;&nbsp;TODAY.com6 ways starting a GLP-1 medication could affect your emotions&nbsp;&nbsp;University of CincinnatiOzempic personality: Doctors on whether weight-loss drugs affect emotions and motivation&nbsp;&nbsp;The Indian ExpressLooking at possible short-term side effects of using GLP-1s&nbsp;&nbsp;Spect",
-      "sources": [
-        {
-          "name": "HuffPost",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRlFjY3daRlZUX0NWVDI2UExCcDltbGZ0NzdIYjV4SFBRaVpGUkVhVTE4Q0Vpd2tzS2t4T2s2c1VDTTNqY1U3X003T2V5Q3lXTXpybTBMZTBIZ3A5QV92Y3Q5YlpXZkYya3J6Sm5LRzVKcGxaM21YVExDdnY2MlFlQmgzUW52WFhCb1NSYUxNb0tiZjBxbEM0LW9zcy3SAaIBQVVfeXFMTlRRVlhJMld5Nk9abnBnZnJNOHVUcDZGcXdLQzZIR0hWMHVLOG9lNTMtLV9sdDRaZGM4OXd2UTEtbjd3Y1FnT2lGdHJoTWtQMmVjWmFLODFTSC1yMFJSR29EU240UUwyWXRCMlUyckJCNHJaTDRLRFN4NDhKVlhDbHR5V1pxRzdmSmhDMGhtUFJpNkJYSTMtWkpBYnVmVHo2SGNR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1c333fd32243",
-      "title": "I Told My Husband I Had Cancer—He Had a Shocking Response - Yahoo",
-      "published": "2026-05-24T11:00:00+00:00",
-      "summary": "I Told My Husband I Had Cancer—He Had a Shocking Response&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSjd5SzJaS2hwTW9sYTNlQnhaNHpYd21UcEFvV0pRc1Yya2hfNlNtSnlGeW9lX3RvbFdYOVJ3SFhQZldSclB6UDJPVjRLUnU2aWVGaEpJdlhxSXBMa1FYY0x6ZktOTUtLR0pVUkhNbkxJLXFVOGNJbFdGUUkzM2JMVEZ1T2VhZEQyTGk0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "21dadd773ffc",
-      "title": "Sun Suddenly Blasts Powerful Radio Transmission for 19 Continuous Days - Yahoo",
-      "published": "2026-05-24T10:45:00+00:00",
-      "summary": "Sun Suddenly Blasts Powerful Radio Transmission for 19 Continuous Days&nbsp;&nbsp;YahooA record-breaking radio burst from the sun had an eerie heartbeat&nbsp;&nbsp;mashable.comNASA stunned as strange solar radio burst lasts 19 days&nbsp;&nbsp;ScienceDailyThe Sun Blasted a Mysterious Radio Signal for 19 Straight Days. Here’s What We Know&nbsp;&nbsp;GizmodoNASA and ESA Track Record-Breaking 19-Day Solar Radio Burst&nbsp;&nbsp;Discover Magazine",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYVJhRmVCRkZIUHc2Nm5PY1lTbFEyZFQwbGtfaFNydWtNZ2VtdlpPUlBCVHpBMlhJVmVCU0xEeEJyUFA0WmpkQVltMkc5TmczTTRhX2s2bHBEX3EtRW1wUV9MX25YOC1OVlZ0LWZqZ2s1SkdQWlpzeTJFcTVBZVMtcVZJeERpYnRaUjQzZ29EeThoUTR5LXRRRw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8c6b81f430e4",
-      "title": "The most common type of planet in the galaxy may not look anything like Earth on the inside - Space",
-      "published": "2026-05-24T10:00:00+00:00",
-      "summary": "The most common type of planet in the galaxy may not look anything like Earth on the inside&nbsp;&nbsp;SpaceA new study overturns the central idea we learned about planets and suggests that Earth is the exception rather than the rule; most rocky worlds in the galaxy may not have a core or mantle, just a single turbulent fluid extending to the center.&nbsp;&nbsp;CPG Click Petróleo e GásScientists say Earth-like planets may not be common in the universe&nbsp;&nbsp;starlust.org",
-      "sources": [
-        {
-          "name": "Space",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZFZDTzREWUoyVy1HT1FpM0IzVHY1QXduc1lESVh0eUlmZlpWREFoVW9lbTJKazNIRFhva0IxT21EZDZuZ3RzWmxhZGQ2aXdKbmdSVWpabFIyMTAxcC1vel84SjY1X3REd3JzQWY4ZFpmUXdWa0RXZUFuaGxUcnJzVmV4cktWTXkzT1dRczlIS2RjX0NsNFl5MXNwQ3dNbVhMcVNnMWxOOFg1MzQyTDI0b29qZkJfT1FmNkt3VXJrSmQtZnY0bHJjU0dSQ3BVbHc?oc=5"
         }
       ]
     }

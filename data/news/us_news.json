@@ -1,15 +1,15 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-27T04:06:27.046367+00:00",
+  "fetched_at": "2026-05-27T09:58:01.263895+00:00",
   "total_fetched": 140,
   "unique_count": 140,
-  "health_related_count": 62,
+  "health_related_count": 61,
   "news": [
     {
       "id": "75557fc3abc0",
       "title": "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - ECDC",
-      "published": "2026-05-27T02:52:19+00:00",
-      "summary": "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda&nbsp;&nbsp;ECDCEbola Outbreak Is Now Third Largest in History. Here’s What to Know.&nbsp;&nbsp;WSJIn Congo displacement camp, fighting Ebola with sand, oatmeal and one thermometer but no water&nbsp;&nbsp;AP NewsWHO Director-General's remarks at the Virtual Ministerial Briefing on the Bundibugyo Ebola Outbreak – 25 May 2026&nbsp;&nbsp;World Health Organization (WHO)In City at Center of Ebola Crisis, ‘the Virus Is Far Ahead ",
+      "published": "2026-05-27T08:52:19+00:00",
+      "summary": "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda&nbsp;&nbsp;ECDCDRC is no stranger to Ebola outbreaks. Why isn’t there a vaccine or treatment to help now?&nbsp;&nbsp;CNNIRC warns Ebola outbreak could become 'deadliest on record'&nbsp;&nbsp;Euronews.comEbola in DR Congo: Fast response needed to stop 'catastrophe', DR Congo governor sayss&nbsp;&nbsp;BBCWHO Director-General's remarks at the Virtual Ministerial Briefing on the Bundibugyo Ebola Outbreak – 25 May 2026&nbsp;&nb",
       "sources": [
         {
           "name": "ECDC",
@@ -18,14 +18,14 @@
       ]
     },
     {
-      "id": "6e393731071a",
-      "title": "Nasa selects Jeff Bezos’s Blue Origin for first of three uncrewed lunar missions - The Guardian",
-      "published": "2026-05-27T01:30:00+00:00",
-      "summary": "Nasa selects Jeff Bezos’s Blue Origin for first of three uncrewed lunar missions&nbsp;&nbsp;The GuardianNasa unveils next steps to build permanent Moon base&nbsp;&nbsp;BBCNASA Provides Update on Moon Base Rovers, Landers, Missions&nbsp;&nbsp;NASA (.gov)NASA's moon base plans include landers, buggies and drones for 2028 mission&nbsp;&nbsp;CBS NewsNASA picks Blue Origin to deliver lunar rovers to the moon&nbsp;&nbsp;The Washington Post",
+      "id": "1d5125ca568d",
+      "title": "New High Cholesterol Guidelines for Women and How To Bring Your Levels Down - AOL.com",
+      "published": "2026-05-26T23:21:41+00:00",
+      "summary": "New High Cholesterol Guidelines for Women and How To Bring Your Levels Down&nbsp;&nbsp;AOL.comNew cholesterol guidelines include earlier screenings, targeted intervention&nbsp;&nbsp;TribLIVE.comAsk Dr. Mike: How Worried Should I Be About Cholesterol?&nbsp;&nbsp;Philadelphia MagazineNo Child Left Behind: The Case For Early Lipid Screening&nbsp;&nbsp;American College of CardiologyMedicine's Ian Neeland explains the new cholesterol guidelines&nbsp;&nbsp;Case Western Reserve University",
       "sources": [
         {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSmRvRl9YRjBNemlROUY5R0wyUVo2dU1yMzVWUkM2UnNmM1JMMl9FWXBLRUlUQ1NFUHA2RkxUSTIzSzdLRmhsaHFIUE9Bemdkck5MYWU3RmhXOVR5Q0xxSnZHZDhQUEZFMFVUaGFNejFZZmcyZ3oycWhleGpIWXAyag?oc=5"
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa096QXQtSEFEeDhCMXNzb1c3STdHVWhfLTJlVkFjaGo0aW9walVuTjdwU3pDbGhaYUtjZl9NWHBsN09hMm4wSG14MU9sck1sSFpmRVdnbXZ5QUljeGVUM0drcVJ1dldCRXRlQm9wUHBkUVd1VlRVZmNJeHFjMEdqM2VLaU5ZNXdrM3BV?oc=5"
         }
       ]
     },
@@ -54,26 +54,26 @@
       ]
     },
     {
-      "id": "29ac0df49af6",
-      "title": "Scientist Suggests That 3I/ATLAS May Have Seeded Life as It Careened Through Our Solar System - Yahoo News New Zealand",
-      "published": "2026-05-26T20:08:47+00:00",
-      "summary": "Scientist Suggests That 3I/ATLAS May Have Seeded Life as It Careened Through Our Solar System&nbsp;&nbsp;Yahoo News New ZealandDid 3I/ATLAS Deliver Extrasolar Life to Our Backyard?&nbsp;&nbsp;Avi Loeb – MediumSan Antonio Astronomical Association monthly public meeting: “Europa Clipper’s view of Interstellar Comet 3I/ATLAS while in route to the Jupiter System\"g\"”&nbsp;&nbsp;Texas Public Radio | TPRInterstellar Object 3I/ATLAS Sparks Debate Over Possible “Directed Panspermia”&nbsp;&nbsp;techbusine",
+      "id": "8e9f7be23260",
+      "title": "Vitamin D analog shuts down pancreatic cancer's shield in a clinical trial - Medical Xpress",
+      "published": "2026-05-26T19:52:42+00:00",
+      "summary": "Vitamin D analog shuts down pancreatic cancer's shield in a clinical trial&nbsp;&nbsp;Medical XpressGemcitabine and nab-paclitaxel with or without the VDR agonist paricalcitol for metastatic pancreatic cancer: a randomized, multiarm, run-in phase trial&nbsp;&nbsp;NaturePancreatic cancer illustration (IMAGE)&nbsp;&nbsp;EurekAlert!From Salk Institute Breakthrough to Bedside: Vitamin D Analog Disarms Pancreatic Cancer’s Defenses in Clinical Trial&nbsp;&nbsp;Bioengineer.orgPancreatic tumor microscop",
       "sources": [
         {
-          "name": "Yahoo News New Zealand",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JSkF6Y2xIRURoZUVZYXpuOWZqYksxLWdjckZEbkQ5Wm1GWGJCX3poQW90NndZdnYycTJ6LVNKQUZRR25reGlzZUZoU2FxSEhPUnBnRkcyREJFbXFmQU14NXdXSzE3WlJGNFZ5MGhuM2xpQk5zTVVVS1d1TlI?oc=5"
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMWlWZFJPdS1Nb3RBYzA5UldrNS1JUHktdnNHYmtJLVdadEVaZGJYNW5ZbUwtVTVXbU1aQmUyYWxjQ1RJai1QR2tybHhKZ09VZW01LTBTQTNwZXNJRmplUURGelJQR1NvU09RZzlBVnF4SzN2dnIxMC14ZEZTblQ3eUM2Qmg?oc=5"
         }
       ]
     },
     {
-      "id": "d01c07050282",
-      "title": "Can Shocking Your Vagus Nerve Really Improve Your Health? - The New York Times",
-      "published": "2026-05-26T19:25:00+00:00",
-      "summary": "Can Shocking Your Vagus Nerve Really Improve Your Health?&nbsp;&nbsp;The New York TimesPulsetto reviews: Must read before buying Pulsetto Vagus Nerve Stimulator!&nbsp;&nbsp;The Jerusalem PostCan Stimulating the Vagus Nerve Improve Your Health?&nbsp;&nbsp;NDTVThe One Device Experts Say Instantly Reduces Stress and Improves Sleep&nbsp;&nbsp;Harper's BAZAARYour Vagus Nerve Is Not in Control: The Problem with Polyvagal Theory&nbsp;&nbsp;Mad In America",
+      "id": "decfd940a597",
+      "title": "20 foods that support brain health and function - qz.com",
+      "published": "2026-05-26T19:25:12+00:00",
+      "summary": "20 foods that support brain health and function&nbsp;&nbsp;qz.com6 things a neurologist does to keep his brain healthy&nbsp;&nbsp;The Washington PostPlant-Based Diet Linked to Lower Alzheimer’s Risk, Study Finds&nbsp;&nbsp;SciTechDaily5 Foods That Boost Your Brain&nbsp;&nbsp;Consumer Reports6 Brain-Boosting Foods That Improve Productivity and Focus&nbsp;&nbsp;Style Rave",
       "sources": [
         {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM2ZRQkxnRU1xZ2pqTWNTSFRVZlFMa0dBdkZTOUhOUVV4bzU3LTROTDFITHJYaFdpNkk1Nm1HYXhZYXoxN01tVzczNTJXVlJ2cC1hQnJLY1o5ZjBteU5ZNm1rUFVIbHpfQjRnV1JPamtrNU51QjFPN0lXel9BYW1Ucl9PMWN4WlZVOUlQU2RWQ0hlcEE0a2YxVUJ1cmtVV3hzU2JJ?oc=5"
+          "name": "qz.com",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YbWFpOFJoN2dfdW5yaU5ONjF4NU4yX3VKczZnYVYzcUc0ZGxtdHVQSFIyaDFlcHB0RUFJWGpiNnNVTnFwY1Z5U1BUdWZ2SUJvWnpITTRRbWVBNmdRRlZSWlhSR3p5UQ?oc=5"
         }
       ]
     },
@@ -90,22 +90,10 @@
       ]
     },
     {
-      "id": "7e2c06c02132",
-      "title": "Space embryos: China launches lab-grown human cells into orbit to study reproduction - Yahoo",
-      "published": "2026-05-26T18:29:48+00:00",
-      "summary": "Space embryos: China launches lab-grown human cells into orbit to study reproduction&nbsp;&nbsp;YahooChina launches 'human artificial embryos' to space in bid to see whether reproduction is possible off-world&nbsp;&nbsp;YahooChina Sends Artificial Embryo Models To Orbit To Test Human Reproduction In Space&nbsp;&nbsp;NDTVBypassing the 14-day rule: China’s ‘artificial embryos’ exploit a double loophole in orbit&nbsp;&nbsp;WIONChina just sent human artificial embryos into space, and the results cou",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMl9sVlpkRUNNMHFPWEtIYm1FY2RYdklVbkxoRGdHQmk2V3NIQm5jUks1R1EtZjFuaV9oZnNGNE9hNjVyVzdfbHQ5SEpoaEFIQ0VpczQxRHZRc1dMcnNvVmMyT2dtOWdGN1BneFpBaDV0RlNtVHhjUEJBbVNGeEhyOFdsejczNmZvMWUzTXhuQkdQX1NwTWc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "785b95bcfab3",
       "title": "Scientists at Stanford Find a Way To Regrow Aging Knee Cartilage and Prevent Arthritis - My Modern Met",
       "published": "2026-05-26T17:35:50+00:00",
-      "summary": "Scientists at Stanford Find a Way To Regrow Aging Knee Cartilage and Prevent Arthritis&nbsp;&nbsp;My Modern Met32 million Americans affected: this injection regrows cartilage in just months&nbsp;&nbsp;Futura, le média qui explore le mondeNew Treatment Could Reverse Osteoarthritis Within Weeks&nbsp;&nbsp;SciTechDailyA SHOT AT REVERSING OSTEOARTHRITIS! | National Enquirer - celebrity&nbsp;&nbsp;MagzterBreakthrough drug target may help regrow cartilage, ease osteoarthritis pain&nbsp;&nbsp;theweek.i",
+      "summary": "Scientists at Stanford Find a Way To Regrow Aging Knee Cartilage and Prevent Arthritis&nbsp;&nbsp;My Modern MetNew Treatment Could Reverse Osteoarthritis Within Weeks&nbsp;&nbsp;SciTechDaily32 million Americans affected: this injection regrows cartilage in just months&nbsp;&nbsp;Futura, le média qui explore le mondeA SHOT AT REVERSING OSTEOARTHRITIS! | National Enquirer - celebrity&nbsp;&nbsp;MagzterBreakthrough drug target may help regrow cartilage, ease osteoarthritis pain&nbsp;&nbsp;theweek.i",
       "sources": [
         {
           "name": "My Modern Met",
@@ -138,14 +126,14 @@
       ]
     },
     {
-      "id": "876418de1615",
-      "title": "6 things a neurologist does to keep his brain healthy - The Washington Post",
+      "id": "7e98fc365b53",
+      "title": "A sleep-time ‘sweet spot’ is linked to healthy aging, study finds - The Washington Post",
       "published": "2026-05-26T16:00:00+00:00",
-      "summary": "6 things a neurologist does to keep his brain healthy&nbsp;&nbsp;The Washington Post20 foods that support brain health and function&nbsp;&nbsp;qz.com5 Foods That Boost Your Brain&nbsp;&nbsp;Consumer ReportsCould this simple diet really slow Alzheimer’s? Scientists reveal what they found&nbsp;&nbsp;Futura, le média qui explore le monde6 Brain-Boosting Foods That Improve Productivity and Focus&nbsp;&nbsp;Style Rave",
+      "summary": "A sleep-time ‘sweet spot’ is linked to healthy aging, study finds&nbsp;&nbsp;The Washington PostThe Perfect Amount of Sleep Revealed—It’s Bad News for Trump&nbsp;&nbsp;The Daily BeastExact amount of sleep to keep your brain young and be more efficient at work&nbsp;&nbsp;the-sun.comWhat Researchers Found Buried in 300,000 Sleep Surveys Is Striking&nbsp;&nbsp;Men's FitnessNew Study Finds the Ideal Amount of Sleep&nbsp;&nbsp;The Black Chronicle",
       "sources": [
         {
           "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbkRMUGp4NmtRa0VHUjFtLW1ReVJndXZ1U0c0MXR1NlRMRlpELXJIejQ4UXFseHlUOWpZVnJBcjQwem5aWU1BczlFb2hoTkw5NWRFeEswb1JkOFIybUIzcDQ0bXJfMHlwS2R2MUk4QkZHN19PMVUxRGM2NnFJX09wTW01bGdneFBBcjNNV2VlYWlJOW12eS1pUV8yZS0tZw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQXptUjVMcG1XV3BjazdyeTl4amNEWlhVeDRIaDFFNk15Y1QtYlkxTmoyb29xYzJxRmtvMVpTbndndk43UFdzdXpjeHRjTWlmUEhac192XzE4U2hwX1FyQ2xpQXlwOWdBd3ZyTkNxRnhaeWpLQnk4bmI5ank1c1lRT0pPYm5rV1p1V3diUVk3Z0dGVWFRWlRZZHQ1U185TzNOQ3ItMFZfc3g0N2Vy?oc=5"
         }
       ]
     },
@@ -162,14 +150,14 @@
       ]
     },
     {
-      "id": "7e98fc365b53",
-      "title": "A sleep-time ‘sweet spot’ is linked to healthy aging, study finds - The Washington Post",
-      "published": "2026-05-26T16:00:00+00:00",
-      "summary": "A sleep-time ‘sweet spot’ is linked to healthy aging, study finds&nbsp;&nbsp;The Washington PostThe Perfect Amount of Sleep Revealed—It’s Bad News for Trump&nbsp;&nbsp;The Daily BeastToo Much Sleep May Age Your Body Faster, New Study Warns&nbsp;&nbsp;SciTechDailyExact amount of sleep to keep your brain young and be more efficient at work&nbsp;&nbsp;the-sun.comWhat Researchers Found Buried in 300,000 Sleep Surveys Is Striking&nbsp;&nbsp;Men's Fitness",
+      "id": "8624f1c110fd",
+      "title": "Scientists confirm alcohol is, in fact, bad for you despite civilization's vigorous objections - Boing Boing",
+      "published": "2026-05-26T15:59:10+00:00",
+      "summary": "Scientists confirm alcohol is, in fact, bad for you despite civilization's vigorous objections&nbsp;&nbsp;Boing BoingScientists Confirm Alcohol Causes Widespread Health Damage&nbsp;&nbsp;SciTechDailyHOMETOWN HEALTH: Researchers say many younger adults unaware of cancer risks from alcohol&nbsp;&nbsp;WDBJ7What happens when you stop drinking alcohol? The brain and body may begin to recover fast&nbsp;&nbsp;ynetnewsAlcohol classified as a carcinogen, linked to multiple forms of cancer&nbsp;&nbsp;WALB",
       "sources": [
         {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQXptUjVMcG1XV3BjazdyeTl4amNEWlhVeDRIaDFFNk15Y1QtYlkxTmoyb29xYzJxRmtvMVpTbndndk43UFdzdXpjeHRjTWlmUEhac192XzE4U2hwX1FyQ2xpQXlwOWdBd3ZyTkNxRnhaeWpLQnk4bmI5ank1c1lRT0pPYm5rV1p1V3diUVk3Z0dGVWFRWlRZZHQ1U185TzNOQ3ItMFZfc3g0N2Vy?oc=5"
+          "name": "Boing Boing",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPby1VWjJMbGxOSGZkRFI5ZFgxNWE5dFQyODFPdUZnb1BGdFJYOURFUFpiU1BaUUNvTnZmSnQ1UGpXTmxkaHlJXzFaZkh0R0N4bkZXUDBTUkxnRnlMckNGVENYc29ZSFRBcjUyV1U4YlRvMmpsbzdpOXZ4bmhLTHdQbXRyX0QzNHYtcUNubkRxQXpBQ1NBSXB0RGhnVWY3UTZla0RSbEltdlVZSENSMUw4YVlYQ21RRkc0d2RHYVc3enR4MUJjSDNzVWxn0gHPAUFVX3lxTFA4QVNJV3hVaHR6Y1ZLcngtOTVzZ3QxZmlYRWRkbnpzMllZUXFGS3IwZk81eGtCbFpObEh2a1BqTF9yUVRfRXJsRVRUVkY1dmJxbGhEbFV4RndmVGs5ckRsRExRM0hGSnRqMmJEdm56MUNIYWQwd1lkMlU2MVNPSWZvc2RKZVBwd0NRUWNEbUZ0ek1BRkNKZ3dQdHJ5Vl9EUVJjVGh4WkhOQkY1YnE5OUZ0MlhJV1hTTzU1TFg3YWROamFmM2pOSVZsbzlwNEpyVQ?oc=5"
         }
       ]
     },
@@ -182,18 +170,6 @@
         {
           "name": "futurity.org",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XcWlGUHp1bHc5Ym5TQjdoT0t4YzF0a0MwblB6SWk2ZWJUdktrX2RHRnBtb3VGRkRTalY3NmZiUUhxLTNQMkJlZWZnMjBCWEJtaEo1MUlDclp5Xzdab2dwOHVWMHozeXpMYlJtTzNhSmJSUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4ea928cf71d9",
-      "title": "A Powerful H.I.V. Drug Lands in Zambia. But Will It Reach Those Who Need It? - The New York Times",
-      "published": "2026-05-26T15:47:06+00:00",
-      "summary": "A Powerful H.I.V. Drug Lands in Zambia. But Will It Reach Those Who Need It?&nbsp;&nbsp;The New York TimesSouth African laboratory set to manufacture innovative HIV treatment: Unitaid&nbsp;&nbsp;themercury.co.zaWhy lenacapavir could be a game changer for the fight against HIV&nbsp;&nbsp;DevexMisinformation is coming for the anti-HIV jab. Let’s get ahead of it&nbsp;&nbsp;BhekisisaHIV jab demand outstrips supply in African rollout&nbsp;&nbsp;SciDev.Net",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2OUNadF9maktGZU5ld1Y4dlhPQ3FYQWhFcHR6ei0zSUZjdGlQdjQyV21xRzBmXzRKb0lrLWdjOWcxWTNEQjdlalZZN1VmMWNwaHo3WGRhbHpEd0hEM09MZEdHall5T2ZLREZfODFjOWktZ3hQZnd1ZA?oc=5"
         }
       ]
     },
@@ -261,7 +237,7 @@
       "id": "b5dd1b93300e",
       "title": "New Fathers Show Rapid Brain Changes in the First Six Weeks After Birth - ZME Science",
       "published": "2026-05-26T14:12:05+00:00",
-      "summary": "New Fathers Show Rapid Brain Changes in the First Six Weeks After Birth&nbsp;&nbsp;ZME ScienceHaving a baby drastically and quickly restructures a father's brain, according to new research&nbsp;&nbsp;Слободен печатFatherhood Dramatically Rewires Your Brain, Scans Reveal&nbsp;&nbsp;ScienceAlert",
+      "summary": "New Fathers Show Rapid Brain Changes in the First Six Weeks After Birth&nbsp;&nbsp;ZME ScienceFatherhood Dramatically Rewires Your Brain, Scans Reveal&nbsp;&nbsp;ScienceAlert",
       "sources": [
         {
           "name": "ZME Science",
@@ -273,7 +249,7 @@
       "id": "d5ddb8da31f2",
       "title": "Exercising Beyond Current Guidelines Could Unlock Incredible Heart Benefits - ScienceAlert",
       "published": "2026-05-26T14:01:25+00:00",
-      "summary": "Exercising Beyond Current Guidelines Could Unlock Incredible Heart Benefits&nbsp;&nbsp;ScienceAlertFor real heart protection, the weekly exercise number climbs far beyond current advice&nbsp;&nbsp;Medical XpressScientists Say Most Adults Need 4 Times More Exercise Than Recommended for Major Heart Benefits&nbsp;&nbsp;SciTechDailyLeast fit people need to do more exercise than fittest to get same benefit – study | Fitness&nbsp;&nbsp;The GuardianA new study says you need 10 hours of exercise a week.",
+      "summary": "Exercising Beyond Current Guidelines Could Unlock Incredible Heart Benefits&nbsp;&nbsp;ScienceAlertFor real heart protection, the weekly exercise number climbs far beyond current advice&nbsp;&nbsp;Medical XpressNew Study Says 30 Minutes Of Weekly Exercise Is All You Need — But There’s A Catch&nbsp;&nbsp;HuffPostScientists Say Most Adults Need 4 Times More Exercise Than Recommended for Major Heart Benefits&nbsp;&nbsp;SciTechDailyA new study says you need 10 hours of exercise a week. Can that real",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -297,7 +273,7 @@
       "id": "365e2ddcafbc",
       "title": "Just 1.2 billion years after the Big Bang, galaxies were already shaped by where they lived - Phys.org",
       "published": "2026-05-26T13:00:05+00:00",
-      "summary": "Just 1.2 billion years after the Big Bang, galaxies were already shaped by where they lived&nbsp;&nbsp;Phys.orgIndian researcher names newly discovered galaxy structure after Manipur’s Loktak Lake&nbsp;&nbsp;The HinduIndian Scientist Discovers 12.6-Billion-Year-Old 'City Of Galaxies', Names It After Manipur's Loktak Lake&nbsp;&nbsp;NDTVLocal Environment Shapes Galaxy Growth in Early Universe | NAOJ - National Astronomical Observatory of Japan&nbsp;&nbsp;nao.ac.jpRonaldo Laishram Names Protoclust",
+      "summary": "Just 1.2 billion years after the Big Bang, galaxies were already shaped by where they lived&nbsp;&nbsp;Phys.orgIndian researcher names newly discovered galaxy structure after Manipur’s Loktak Lake&nbsp;&nbsp;The HinduIndian scientist discovers 12.6-billion-year-old city of galaxies, names it after Loktak Lake | Researchers used Subaru Telescope and JWST data | Inshorts&nbsp;&nbsp;InshortsLocal Environment Shapes Galaxy Growth in Early Universe | NAOJ - National Astronomical Observatory of Japan&",
       "sources": [
         {
           "name": "Phys.org",
@@ -309,11 +285,23 @@
       "id": "78e4e426e0e6",
       "title": "New Ebola Vaccine Could Help With Rapidly Spreading Outbreak (Live Updates) - Forbes",
       "published": "2026-05-26T12:53:00+00:00",
-      "summary": "New Ebola Vaccine Could Help With Rapidly Spreading Outbreak (Live Updates)&nbsp;&nbsp;ForbesSuitability of Vaccine Platform for Bundibugyo Virus, Cause of the Ebola Outbreak in Congo&nbsp;&nbsp;PR NewswireExperimental mRNA vaccine may protect against multiple Ebola viruses&nbsp;&nbsp;New ScientistUK scientists developing Ebola vaccine that could be ready for trials in months&nbsp;&nbsp;BBCExperimental mRNA vaccine shows promise against multiple Ebola strains&nbsp;&nbsp;Medical Xpress",
+      "summary": "New Ebola Vaccine Could Help With Rapidly Spreading Outbreak (Live Updates)&nbsp;&nbsp;ForbesUK scientists developing Ebola vaccine that could be ready for trials in months&nbsp;&nbsp;BBCExperimental mRNA vaccine may protect against multiple Ebola viruses&nbsp;&nbsp;New ScientistHow NHS Covid model will aid hunt for drugs to stop ebola&nbsp;&nbsp;The TimesEbola vaccine: transforming global health responses | News&nbsp;&nbsp;wellcome.org",
       "sources": [
         {
           "name": "Forbes",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNajh1ajREd2IwcEluVkViTFp1d205YVQzbE9Vclhtc3N6WjJHLWRDLWhtVldUS0FlN1UydFNPekoza2JBeHdMN3h5ejQ5QmppMF94dER3QXJwRlFmWmRtd2drN0I3SFdJZDEtMnFKOGRHaFViNkJDLTdiMkVOMFpQRVpBdHhQRzBycHZvbEpMUDRUNGFsbno2NmRYbUdfUjRmRDd1eEVObW9fUkhOYjlsV3lwTXNJU0VwWWlB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "97a2a34a2beb",
+      "title": "The Best Time of Day to Eat Fiber, According to Experts - EatingWell",
+      "published": "2026-05-26T12:00:00+00:00",
+      "summary": "The Best Time of Day to Eat Fiber, According to Experts&nbsp;&nbsp;EatingWell11 Foods You Definitely Don't Know Are High Fibre That Make Hitting Your 30g a Day Simple&nbsp;&nbsp;Marie Claire UKVaried Fiber Supplements&nbsp;&nbsp;Trend HunterWhy Fiber Is Important for Women: What Gastroenterologist Dr. Sachin Goyal Wants You to Know&nbsp;&nbsp;CaroMont HealthThe Simple Fiber-Boosting Trick a Gastroenterologist Swears By&nbsp;&nbsp;AOL.com",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCRTA1Z1dMa0hRdUE1NlRwWWpDN2E5VVdWUUtobTJfRGFyZURoUjhlOFhVdmZxdzdYdjhMZXBGZ1JaU18tNExocXRmQy0weG9GbEFia0VTTWdNZzJsbHlPWklpd1V3LXBlS3NITndjdThxekU?oc=5"
         }
       ]
     },
@@ -393,7 +381,7 @@
       "id": "4b416fb489e9",
       "title": "6 Tick Infested Areas In Ohio - WorldAtlas",
       "published": "2026-05-26T10:00:00+00:00",
-      "summary": "6 Tick Infested Areas In Ohio&nbsp;&nbsp;WorldAtlasLyme disease cases rising in Northeast Ohio pets: ‘It’s a tiny, tiny, tiny tick’&nbsp;&nbsp;FOX 8 NewsThe 3 most common ticks in Ohio and where you'll find them&nbsp;&nbsp;Akron Beacon JournalMom warns of Lyme disease after daughter left sick for weeks&nbsp;&nbsp;YahooOhio Experiencing Surge In Cases Of Lyme Disease&nbsp;&nbsp;WFIN",
+      "summary": "6 Tick Infested Areas In Ohio&nbsp;&nbsp;WorldAtlasLyme disease cases rising in Northeast Ohio pets: ‘It’s a tiny, tiny, tiny tick’&nbsp;&nbsp;FOX 8 NewsMom warns of Lyme disease after daughter left sick for weeks&nbsp;&nbsp;NBC4 WCMH-TVThe 3 most common ticks in Ohio and where you'll find them&nbsp;&nbsp;Akron Beacon JournalOhio Experiencing Surge In Cases Of Lyme Disease&nbsp;&nbsp;WFIN",
       "sources": [
         {
           "name": "WorldAtlas",
@@ -414,26 +402,26 @@
       ]
     },
     {
-      "id": "38942f2b9acc",
-      "title": "‘We could have communicated it better.’ Officials admit missteps on Tewksbury Hospital security. - The Boston Globe",
-      "published": "2026-05-26T09:32:41+00:00",
-      "summary": "‘We could have communicated it better.’ Officials admit missteps on Tewksbury Hospital security.&nbsp;&nbsp;The Boston Globe",
-      "sources": [
-        {
-          "name": "The Boston Globe",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdVo0RjBCMlZLODZ6aGZsSjlEeVB4X3BXVXRTb3BCNVdzbmx6c20xSUJZSlpVbVNYNDJoWHNlbmU1QU1KVmI1bjJDSDFxbjN3SFN3QkxuUEN4UFNMdm5kRWo3YmVGRXdlSHJMVlBFTmZhX2kwMDBxLW1FQWtQOVVlWEhVWC1KRERTdS1FVkVPT05hRnE0WlNpblFvQVBlRjN0Vnk0NnR0UnF0MnNIUGVR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e71da7d87603",
       "title": "These Extremely Common Speech Patterns Could Be Early Signs Of Cognitive Decline, And A Higher Dementia Risk - BuzzFeed",
       "published": "2026-05-26T09:31:03+00:00",
-      "summary": "These Extremely Common Speech Patterns Could Be Early Signs Of Cognitive Decline, And A Higher Dementia Risk&nbsp;&nbsp;BuzzFeedThe Way You Say \"Um\" Could Be Your Brain's Early Warning System for Dementia.&nbsp;&nbsp;vocal.mediaCommon Speech Pattern Could Be a Sign of Alzheimer’s, Scientists Say&nbsp;&nbsp;inc.comThe 78% Accuracy Voice Test: How Smartphone Speech Tools Are Now Screening For Early Cognitive Changes&nbsp;&nbsp;Menafn.comThese Common Speech Patterns Could Be Early Signs Of Cognitiv",
+      "summary": "These Extremely Common Speech Patterns Could Be Early Signs Of Cognitive Decline, And A Higher Dementia Risk&nbsp;&nbsp;BuzzFeedSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "BuzzFeed",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQclJ1MnhFQ3Z4NkhCSW1EWWFlNGI5MEF4aUYydUFxY3A2N1A4TDE1aGFjNnhJenVEYUNEZlloT2lZeGNHNGVZQkhfMmtLeHlVbnNQaTZ2ZUtmWHQzTUl2bEM4Yk40clRqRHExb1JJX05sWmNTTjJLQjVoTVY0ZzlSVmJGMFBnZE9EM3ZFRTZwNHlTWGJfa2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4ea928cf71d9",
+      "title": "A Powerful H.I.V. Drug Lands in Zambia. But Will It Reach Those Who Need It? - The New York Times",
+      "published": "2026-05-26T09:00:36+00:00",
+      "summary": "A Powerful H.I.V. Drug Lands in Zambia. But Will It Reach Those Who Need It?&nbsp;&nbsp;The New York TimesSouth African laboratory set to manufacture innovative HIV treatment: Unitaid&nbsp;&nbsp;themercury.co.zaWhy lenacapavir could be a game changer for the fight against HIV&nbsp;&nbsp;DevexMisinformation is coming for the anti-HIV jab. Let’s get ahead of it&nbsp;&nbsp;BhekisisaHIV jab demand outstrips supply in African rollout&nbsp;&nbsp;SciDev.Net",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2OUNadF9maktGZU5ld1Y4dlhPQ3FYQWhFcHR6ei0zSUZjdGlQdjQyV21xRzBmXzRKb0lrLWdjOWcxWTNEQjdlalZZN1VmMWNwaHo3WGRhbHpEd0hEM09MZEdHall5T2ZLREZfODFjOWktZ3hQZnd1ZA?oc=5"
         }
       ]
     },
@@ -453,23 +441,11 @@
       "id": "4662d71e7d8b",
       "title": "USC scientists discover a hidden Alzheimer’s trigger and a possible way to shut it down - ScienceDaily",
       "published": "2026-05-26T04:58:48+00:00",
-      "summary": "USC scientists discover a hidden Alzheimer’s trigger and a possible way to shut it down&nbsp;&nbsp;ScienceDaily",
+      "summary": "USC scientists discover a hidden Alzheimer’s trigger and a possible way to shut it down&nbsp;&nbsp;ScienceDailyAlzheimer's Breakthrough: New Compound Reduces Brain Inflammation&nbsp;&nbsp;TradeKaizen",
       "sources": [
         {
           "name": "ScienceDaily",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TMGdBUlNSc0UtMkhOSXpzblQ0REhpTExOUXJKa1RIUjBZSHFvUDVHNUZUSjE3T0dLUFpId3FQb1NZRlQ0TDUxM1AyWF9pTV9qekM1NEVJNUhXRC1CNDVaTTZ4TTN0NjR4THJSOUo5VQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "abcc37a16fd7",
-      "title": "The Best Late-Night Drink for Gut Health, According to a Dietitian - EatingWell",
-      "published": "2026-05-26T02:03:41+00:00",
-      "summary": "The Best Late-Night Drink for Gut Health, According to a Dietitian&nbsp;&nbsp;EatingWell",
-      "sources": [
-        {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JZjI3RGU3dXBwS1RYMjBvR0hyZ3pHb29QbnQySldRWGwzMnVFeHB5ZUpJSFotQlh3eFBaOWhUWlVCTVFlWGUtYWt5czlsQ09DeDR3YnlsWXhiOEE1NlB6WWpxUHBydjctekZJQ3I0eHpYNzRFbzRtcVlHRFo?oc=5"
         }
       ]
     },
@@ -498,30 +474,6 @@
       ]
     },
     {
-      "id": "dafffc4992c0",
-      "title": "Coloradan tests positive for hantavirus - 9News.com",
-      "published": "2026-05-25T22:47:00+00:00",
-      "summary": "Coloradan tests positive for hantavirus&nbsp;&nbsp;9News.comPitCo confirms local hantavirus risk differs from strain linked to cruise ship outbreak&nbsp;&nbsp;AspenTimes.comArapahoe County man recovering after contracting hantavirus; infection not tied to cruise ship cluster&nbsp;&nbsp;Denver7Hantavirus case reported in Arapahoe County&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "9News.com",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUmhibkhPaUFURFRJNTZiUVZ3STJNS0JxbzU1aGlqVXVzeWFJTWJHdTlNQ2ZxU0VYOVNNSi04T25KOFBiZzl2c0FIb1ZOZXJtZGJBR3QyUVdieTF2RFJoN1VCOVVGV2t2YjktNlRzLWJwQ1B2WnB1WkI5dmNPbVhxNVpfbVpGTlRER3UyZkdydHRfTFd3SWRZWkprYWFQRnpHM1cyby1YQ2xLbWNHTmU1NzBRZE1ZSTVJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ca980bb56a84",
-      "title": "Why did T. rex have tiny arms? A new study may finally have the answer - KSL.com",
-      "published": "2026-05-25T22:34:03+00:00",
-      "summary": "Why did T. rex have tiny arms? A new study may finally have the answer&nbsp;&nbsp;KSL.comThe mystery of T. rex’s tiny arms might finally be solved&nbsp;&nbsp;CNNWhy meat-eating dinosaurs like T. rex evolved tiny arms&nbsp;&nbsp;Phys.orgMystery of Tyrannosaurus rex’s Tiny Arms May Finally Have an Answer&nbsp;&nbsp;Sci.NewsWhy were T. rex’s arms so tiny? Paleontologists finally find an answer.&nbsp;&nbsp;Popular Science",
-      "sources": [
-        {
-          "name": "KSL.com",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOczIxUEcxMDF6WHZ2cDFsS1lVdThEeFFDaGFJVm1UNENwVjM2M0dEaGg1UnhRTExuN1Y3b0twTXZ6UW1mWjlOWFFZSEJjSk9RVklmZUdmVldSTGc0WWFWQUpJTlQzRFRWeEV5aFVpR2Jla1Y2TXNZamNtM0VmTFNmZ2VhanJXbjBBNmtyRHpKcUJvNXVGNXNkRFNsbW9PTWhvUWxRR0gtcHk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "761b940fc1ba",
       "title": "What happens to your brain when you eat an avocado every day for six months? - PsyPost",
       "published": "2026-05-25T22:13:41+00:00",
@@ -537,11 +489,23 @@
       "id": "4942811ddbc1",
       "title": "Dozens of hikers suddenly fall sick on California section of iconic Pacific Crest Trail - Yahoo",
       "published": "2026-05-25T21:12:49+00:00",
-      "summary": "Dozens of hikers suddenly fall sick on California section of iconic Pacific Crest Trail&nbsp;&nbsp;Yahoo'I've never been that weak': Hikers hit with norovirus on the Pacific Crest Trail&nbsp;&nbsp;SFGATEPacific Crest Trail hikers hit by sudden stomach illness in California&nbsp;&nbsp;San Francisco Chronicle‘Stomach flu’ outbreak slams hikers on California section of Pacific Crest Trail&nbsp;&nbsp;Sacramento BeeA Highly Contagious Illness Is Sickening Hikers on the PCT—and Hand Sanitizer Can't St",
+      "summary": "Dozens of hikers suddenly fall sick on California section of iconic Pacific Crest Trail&nbsp;&nbsp;YahooPacific Crest Trail hikers hit by sudden stomach illness in California&nbsp;&nbsp;San Francisco Chronicle'I've never been that weak': Hikers hit with norovirus on the Pacific Crest Trail&nbsp;&nbsp;SFGATEA Highly Contagious Illness Is Sickening Hikers on the PCT—and Hand Sanitizer Can't Stop It&nbsp;&nbsp;Backpacker Magazine‘Stomach flu’ outbreak slams hikers on California section of Pacific C",
       "sources": [
         {
           "name": "Yahoo",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQanRBeUFWU3Vuako4dUVEWVJyUWhRVEtNOTNqajRFaEpnNndNZ2VMTVRHM3ZhaUhKeUpiLVNvaFgyQjNlaFB1T0RzSDBCcV9NYkI3bjg2cWlvSGhQdWl2OXR2YWU0YlFENnk3WGlMaWwzaXd0VWZmQl81VWxWMUI2M0NwSHFhZ202SDV4RWg3Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c4a8b2f147df",
+      "title": "Arapahoe County man recovering after contracting hantavirus; infection not tied to cruise ship cluster - Denver7",
+      "published": "2026-05-25T21:00:39+00:00",
+      "summary": "Arapahoe County man recovering after contracting hantavirus; infection not tied to cruise ship cluster&nbsp;&nbsp;Denver7Coloradan tests positive for hantavirus&nbsp;&nbsp;KUSA.comPitCo confirms local hantavirus risk differs from strain linked to cruise ship outbreak&nbsp;&nbsp;AspenTimes.comHantavirus case reported in Arapahoe County&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "Denver7",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS1Z6blJNaThyMUstODN0ZUxUOTlXVW43QlR3Z0hRRUN4b0xQZk5XVjNHNkVvRExUeGZicWF3QTJMbjJTT0FpcnVwazRadUFQeGwzd0dSRW1fdUl0c0R5UHJVcV9CcHRiS3Q4amJwTk4xYkFOQzVNdndQall4ZWFTSHlaX29hMjQ3dEMySGVUUXNKcWhuSG5TS2ZxVWZuVExVS05CaFgwNUk1Z1dsMEFNZmtRejJLVllGcHVnWkQ4QnZDVzBJMjJ6d1ZGM196Sk5uOFUxeHk1T19fUQ?oc=5"
         }
       ]
     },
@@ -582,22 +546,46 @@
       ]
     },
     {
-      "id": "8ce0d49bc47c",
-      "title": "The human brain accounts for about two per cent of body weight and consumes about twenty per cent of the body's total energy every day — and that consumption barely changes whether you are solving differential equations or staring at a wall - Space Daily",
-      "published": "2026-05-25T16:30:52+00:00",
-      "summary": "The human brain accounts for about two per cent of body weight and consumes about twenty per cent of the body's total energy every day — and that consumption barely changes whether you are solving differential equations or staring at a wall&nbsp;&nbsp;Space DailyBeyond glucose: The brain may feed itself&nbsp;&nbsp;The Transmitter",
+      "id": "4ee3b58259d2",
+      "title": "Why did T. rex have tiny arms? A new study may finally have the answer - Yahoo",
+      "published": "2026-05-25T18:57:43+00:00",
+      "summary": "Why did T. rex have tiny arms? A new study may finally have the answer&nbsp;&nbsp;YahooThe mystery of T. rex’s tiny arms might finally be solved&nbsp;&nbsp;CNNWhy meat-eating dinosaurs like T. rex evolved tiny arms&nbsp;&nbsp;Phys.orgWhy were T. rex’s arms so tiny? Paleontologists finally find an answer.&nbsp;&nbsp;Popular ScienceScientists Discovered the Brutal Reason T. Rex Had Those Tiny Shrimp Arms&nbsp;&nbsp;vice.com",
       "sources": [
         {
-          "name": "Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQWm9mV2dSd2kxaEo2RHNjWkx3Zi1CQnRPR25VRW16X3k4WmNFcHdtMUl0aldQd1p1dFM3RG83Z0VIUzJ4TTdGdkl2bFpLSkVRaHpxaHd0Q0JZbXMzdUJWT3FFTUtTWE1GNjVPVUJXWmMxYjh0cDhxMVd6SFVFS2NDWGU1cVpFZFNRdVhSNU9iRTdGN0pjYnlxYnk3akgyNHR0dkhBakptUHFCeUhOTGtNWm5WT2l5R0Jkbl9QU2Z0U2RWX2pMdG45TXhWcEhoRDM5cnlKWk1QU2QwQ3hLZWhBaGQ0VEx6UzdsTWpEUWZ4WGdLX1FyTUIwRklvWm9VMVVOMExlMFBibEt1RzJ5c1R5WkFkYnVoMUpmaHRtZTdEc3JWS0RqblBCVU5uWndnNmdyMjNwN3NPSHYwdw?oc=5"
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRVlIM0Fsa2R3bGNtdEhyUVhnLS04MzRNUmhndWFubUl3bVdxOUo2ek9VdjM0UFJNb3pHdXJKUlFVWmpNcjJvS0tMa1BUMnBlMGxyeTF3clcwaUtCZ0RXMVZTNEktR2FCdlQ3SllOV1JTeGEwVjVJVExJa2VFMXgwbmQ2QQ?oc=5"
         }
       ]
     },
     {
-      "id": "7316c29bf19f",
-      "title": "Exclusive: Trump admin policy shutting US disease researchers out of WHO virus response talks - CNN",
+      "id": "10f8233a12e9",
+      "title": "A common dietary supplement — omega-3, the kind found in fish oil and flax — has been shown across nearly 4,000 people to reduce aggression by up to 28%, whether it's the heat-of-the-moment kind or the kind people plan in advance - Space Daily",
+      "published": "2026-05-25T16:15:54+00:00",
+      "summary": "A common dietary supplement — omega-3, the kind found in fish oil and flax — has been shown across nearly 4,000 people to reduce aggression by up to 28%, whether it's the heat-of-the-moment kind or the kind people plan in advance&nbsp;&nbsp;Space DailyPopular Supplement for Brain Health May Reduce Anger and Aggression, Study Says&nbsp;&nbsp;Men's JournalOne Dietary Supplement Was Found to Lower Aggression by Up to 28%&nbsp;&nbsp;ScienceAlertThis Nutrient Can Help You Feel Less Angry & Irritated,",
+      "sources": [
+        {
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQR1VVd2pNSWc3VlhDTUZXVDN5M3M5LVRJWWxiN2Zxa0pMZG5VdFo0Z3ZpTUFleTh6NXE1LWVxbURiOGphcmJEOVVJbXhjaThXWEdJbnRYUmxGcGdxX1l6OFRzRXp0RU1ScjRWcGhHbk9tY25HY2EydllhVnYycUN1dWtFcWZuOUxpbU9Pa0g5Nk5rLVZhRDFGWkhsVDBkOG9iLTRoTzg4RmdEMTRiNlNjQTNMVzBPOVJudzNuaDhKZ3hLN3o3MzgzaUF4dlhaUlR4Yk9ZaFNsbTBlTzRmX3NsRFp6Y0VzSXB3YndVeHVnSTRmYkpQRlozSTl1cWFOZmt1Qlh6TlFQaWxOMTRVU2tWSEZtRXk0Z2lQc0ZoUzFjdERNdlRUYkkzLTF3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5c3cfb5ff94d",
+      "title": "Eating More Watermelon May Help Prevent Heart Disease - Healthline",
+      "published": "2026-05-25T16:09:57+00:00",
+      "summary": "Eating More Watermelon May Help Prevent Heart Disease&nbsp;&nbsp;HealthlineCirculation To Nutrition: Study Reveals How Watermelon Benefits Your Whole Body&nbsp;&nbsp;NDTVJuicy health secrets: why watermelon may be the smartest fruit of summer&nbsp;&nbsp;ynetnewsScientists Reveal an Unexpected Benefit of Watermelon: It May Protect the Heart and Reduce Cancer Risk&nbsp;&nbsp;Inbox.euWatermelon Health Benefits: Lycopene and Heart Support&nbsp;&nbsp;Daily Beirut",
+      "sources": [
+        {
+          "name": "Healthline",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOczlSX2VCV2k1di1hYmh5S0RSSlNpcVVvUUN2eGppUzAzd01ObEhIcm5tdVBGSkZiN2RsVVpWNjlua1JQbXpsbFlXWU1MTjdTNVloeW80TmZ6MEV6Zmd0S3JsT0pwZkZQTHprZVlac29iaTR1X3VFUVcxaV9wRWxJQm5JMmJoTnczaFdF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "835400ecfdb6",
+      "title": "Exclusive: Trump admin shutting key US researchers out of global virus response talks, documents and sources reveal - CNN",
       "published": "2026-05-25T16:05:57+00:00",
-      "summary": "Exclusive: Trump admin policy shutting US disease researchers out of WHO virus response talks&nbsp;&nbsp;CNNTrump Administration Bans Disease Experts from Speaking to WHO About Growing Ebola Outbreak: Report&nbsp;&nbsp;People.comTrump administration ‘restricts US scientists’ role in Ebola response’&nbsp;&nbsp;The IndependentDoes Trump WANT Americans to Die from Ebola?&nbsp;&nbsp;Daily KosNot The Best Time For Trump to Further Impede Ebola Response, and Yet…&nbsp;&nbsp;Protect Our Care",
+      "summary": "Exclusive: Trump admin shutting key US researchers out of global virus response talks, documents and sources reveal&nbsp;&nbsp;CNNSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "CNN",
@@ -606,22 +594,10 @@
       ]
     },
     {
-      "id": "42fc149ae566",
-      "title": "Scientists Confirm Alcohol Causes Widespread Health Damage - SciTechDaily",
-      "published": "2026-05-25T15:50:43+00:00",
-      "summary": "Scientists Confirm Alcohol Causes Widespread Health Damage&nbsp;&nbsp;SciTechDailyHOMETOWN HEALTH: Researchers say many younger adults unaware of cancer risks from alcohol&nbsp;&nbsp;WDBJ7What happens when you stop drinking alcohol? The brain and body may begin to recover fast&nbsp;&nbsp;ynetnewsAlcohol classified as a carcinogen, linked to multiple forms of cancer&nbsp;&nbsp;WALBScientists confirm alcohol is, in fact, bad for you despite civilization's vigorous objections&nbsp;&nbsp;Boing Boing",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSDBTSmxFVUlkVDBxYWRwV0k4bGVtY3RqZ3ZpQ2xuYUcyVUdwM2ZzRmZvZkhKNzdINzM1eGNDbWdPSmhQamRKcUR6UXY1TFlXem5ZejZlUWVoZFBDUmNTc28tWElxNGlOblI5cmM3R1JWd3VXRThXZ01HNURoV1phMWJVWVN3S3pUaXFlSw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7e8d97b7de04",
       "title": "Two suspected Ebola cases detected in Italy test negative - Euronews.com",
       "published": "2026-05-25T14:10:48+00:00",
-      "summary": "Two suspected Ebola cases detected in Italy test negative&nbsp;&nbsp;Euronews.comEbola outbreak in DRC and Uganda passes 1,000 cases, as Italy reports 2 suspected cases&nbsp;&nbsp;World Socialist Web SiteRare Ebola strain with no cure 'may be in Europe'&nbsp;&nbsp;Metro.co.ukItaly flags two suspected Ebola cases in Milan linked to travel from Uganda&nbsp;&nbsp;TRT WorldEbola, Pregliasco: \"Anyone who talks about zero risk is telling a fairy tale.\"&nbsp;&nbsp;lamilano.it",
+      "summary": "Two suspected Ebola cases detected in Italy test negative&nbsp;&nbsp;Euronews.comEbola outbreak in DRC and Uganda passes 1,000 cases, as Italy reports 2 suspected cases&nbsp;&nbsp;World Socialist Web SiteRare Ebola strain with no cure 'may be in Europe'&nbsp;&nbsp;Metro.co.uk​Ebola in Europe? Italy reports 2 suspected cases in Milan — How travelers can protect themselves from infection​&nbsp;&nbsp;The Times of IndiaEbola, Pregliasco: \"Anyone who talks about zero risk is telling a fairy tale.\"&nb",
       "sources": [
         {
           "name": "Euronews.com",
@@ -642,14 +618,14 @@
       ]
     },
     {
-      "id": "f56cd93ea178",
-      "title": "One Dietary Supplement Was Found to Lower Aggression by Up to 28% - ScienceAlert",
-      "published": "2026-05-25T13:01:44+00:00",
-      "summary": "One Dietary Supplement Was Found to Lower Aggression by Up to 28%&nbsp;&nbsp;ScienceAlertA common dietary supplement — omega-3, the kind found in fish oil and flax — has been shown across nearly 4,000 people to reduce aggression by up to 28%, whether it's the heat-of-the-moment kind or the kind people plan in advance&nbsp;&nbsp;Space DailyPopular Supplement for Brain Health May Reduce Anger and Aggression, Study Says&nbsp;&nbsp;Men's JournalThis Nutrient Can Help You Feel Less Angry & Irritated,",
+      "id": "2b92757c0b22",
+      "title": "5 Pelvic Floor Exercises Both Men and Women Need for Strength, Stability, and Sexual Health - Outside Magazine",
+      "published": "2026-05-25T13:28:00+00:00",
+      "summary": "5 Pelvic Floor Exercises Both Men and Women Need for Strength, Stability, and Sexual Health&nbsp;&nbsp;Outside Magazine",
       "sources": [
         {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOREdEcG83Y0NNRGIzRWVSM3dWWW1ZeFdsMGNRTThkYW1Ua01pdlJwaEJNdjI3cE5fWC0zQlI4Zm0zUGY2Z1JCQ0duLUE5blRPTkZON1RFZXd2eUhTeVNtUGNHRGJobThJQlp5TllzY0RTZ05LVmh5bkNfR2lVd0FkVmxfSmxhUE1VNWhDeVBBREZZSDJSN0NISQ?oc=5"
+          "name": "Outside Magazine",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWkpBMF9jQkxXRzJxUTBoMkI5OTg3eWprR0pqbWVWRUhpdjBUUllYcjNfZVM1S3ItaW5zRVlGMjR6TWx6ZUYxYktCb0VUZUZDcHM1MGxjZEZWbWpaSmlleTROYS1xTEc1QkVLWFktZzloV1ktbEhCN0g2N2lLRXN6TXZ2RnVETkdE?oc=5"
         }
       ]
     },
@@ -669,7 +645,7 @@
       "id": "be2026883719",
       "title": "Scientists just found a supercharged supernova — powered up by a magnetic star corpse - Space",
       "published": "2026-05-25T13:00:00+00:00",
-      "summary": "Scientists just found a supercharged supernova — powered up by a magnetic star corpse&nbsp;&nbsp;SpaceNASA’s Fermi Glimpses Power Source of Supercharged Supernovae&nbsp;&nbsp;NASA Science (.gov)The Magnetar at the Heart of a Superluminous Supernova&nbsp;&nbsp;Universe TodayNASA's Fermi Telescope Captures First Clear Signal from the Engine of a Record-Bright Star Explosion&nbsp;&nbsp;TechEBlog -LSU Researchers Help Explain What Powers the Universe’s Most Extreme Supernovae&nbsp;&nbsp;LSU",
+      "summary": "Scientists just found a supercharged supernova — powered up by a magnetic star corpse&nbsp;&nbsp;SpaceNASA’s Fermi Glimpses Power Source of Supercharged Supernovae&nbsp;&nbsp;NASA Science (.gov)NASA’s Fermi telescope reveals the power source behind monster supernovae&nbsp;&nbsp;ScienceDailyThe Magnetar at the Heart of a Superluminous Supernova&nbsp;&nbsp;Universe TodayFermi Detects Gamma Rays From A Supernova 400× More Luminous&nbsp;&nbsp;Quantum Zeitgeist",
       "sources": [
         {
           "name": "Space",
@@ -681,11 +657,35 @@
       "id": "ce6b9495aef5",
       "title": "Common heart drug taken by millions found useless — and possibly dangerous - ScienceDaily",
       "published": "2026-05-25T12:38:22+00:00",
-      "summary": "Common heart drug taken by millions found useless — and possibly dangerous&nbsp;&nbsp;ScienceDailyREBOOT: the trial reshaping cardiology and cementing the CNIC’s place as a driver of new clinical practice&nbsp;&nbsp;cnic.esCommon heart medicine found ineffective in major study — could it change 40 year old treatment?&nbsp;&nbsp;Deccan HeraldBeta Blockers After Heart Attack: What the New Research Means&nbsp;&nbsp;TradeKaizenStop using this common heart drug; it could be dangerous for your health&",
+      "summary": "Common heart drug taken by millions found useless — and possibly dangerous&nbsp;&nbsp;ScienceDailyREBOOT: the trial reshaping cardiology and cementing the CNIC’s place as a driver of new clinical practice&nbsp;&nbsp;cnic.esBeta Blockers, Common Heart Drugs Prescribed Since 1950s, Linked To Severe Risks Especially For Women: New Study&nbsp;&nbsp;NDTVCommon heart medicine found ineffective in major study — could it change 40 year old treatment?&nbsp;&nbsp;Deccan HeraldBeta Blockers After Heart Att",
       "sources": [
         {
           "name": "ScienceDaily",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OUHdFc2NTbzVNWFlGZ29fNEJNWjNYd1FCM0NpMHhoM09GYnpvbklLMWtMU1RLM2E2Y2hIdy03RVRWRk1pRG9BcXctdXQ4UXJIcWNnaElNRHcxOEYtWUZEbndLckJ1VlJWNVNzZUt0bw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "badde150cf54",
+      "title": "Cut fatigue and increase focus with short movement breaks - CNN",
+      "published": "2026-05-25T12:00:07+00:00",
+      "summary": "Cut fatigue and increase focus with short movement breaks&nbsp;&nbsp;CNNA yoga instructor shares the perfect 5-move 'micromovement' routine to prevent prolonged sitting, so I tried it for myself&nbsp;&nbsp;Tom's GuideBrain Health, Mood, & Sleep: All Protected By This Simple Movement&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "CNN",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZkNSOTZvQTBtOU91S0h3VTNYRkl4Q2JwZ3pUUFplUHdoeFJ0Y2pLSWgzc2E3YTR2bDJhb1MtTmdpUUZKcGZyWjFxekJXUlYxSGtueDczNDFlMkxlYndaS0VmaFVkMnZTVDlSSUQtY05DZnI4dEhJVUFVWVlHakpiMHp2el9MZkJXU19mcQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d92b59602c0a",
+      "title": "Ebola and hantavirus outbreaks prompt raft of conspiracy theories in divided US - The Guardian",
+      "published": "2026-05-25T12:00:00+00:00",
+      "summary": "Ebola and hantavirus outbreaks prompt raft of conspiracy theories in divided US&nbsp;&nbsp;The Guardian",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTG0yVEUycEoyZjAwdnlZaUo5Mlk0X1A3NjFEYzc4c3pBQ3ZBZ242eWpQY1FkTVBXMkgyT2dsMmpLVm4zcW9TYW5SbTFLY1poSml5ZFIyV09OV2V0QWVKa1RsZkZCQ3BYYlhvNlNIcnQzZ3dRaGNtX3lZeWhPMGpJSTNMR0V1Y1FmaU5icw?oc=5"
         }
       ]
     },
@@ -729,23 +729,11 @@
       "id": "145f431a7f92",
       "title": "Misinformation about perimenopause on social media ‘putting women at risk’ - The Guardian",
       "published": "2026-05-25T09:00:00+00:00",
-      "summary": "Misinformation about perimenopause on social media ‘putting women at risk’&nbsp;&nbsp;The GuardianKey facts to counter online misinformation about perimenopause&nbsp;&nbsp;The GuardianPrevent And Protect: Now Is The Time To Get Get Ready For Menopause&nbsp;&nbsp;essence.comIntroducing The Book of Menopause , a New Guide Coming From Oprah Daily This Fall&nbsp;&nbsp;Oprah DailyHow the perimenopause movement is hurting women&nbsp;&nbsp;statnews.com",
+      "summary": "Misinformation about perimenopause on social media ‘putting women at risk’&nbsp;&nbsp;The GuardianFace Perimenopause with Hope&nbsp;&nbsp;The Gospel CoalitionPrevent And Protect: Now Is The Time To Get Get Ready For Menopause&nbsp;&nbsp;essence.comHow the perimenopause movement is hurting women&nbsp;&nbsp;statnews.comSafe Passage Through Perimenopause&nbsp;&nbsp;The Purist",
       "sources": [
         {
           "name": "The Guardian",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZlNpdkJJM2FGNGZIbnZtOUJEcER4NkZzaVVJUVU3ZFd0MHZhQVNSN0ZaR1JNQTk1N2RsNXhKR2t3Z1QwekdpbmlrakR6Z3RkMlZvWW9mVDU0LUFVVUJNNHNMTmIxY0NYU1QyakpQeE94NFN6ZEF4MHBaWXYxZi1VaWx1dGRSc1V1cExTa2c3cjZ3cTQyTG80RmZjNU9ETHlWUWl6bmFlY0lsS2FEYk11NnlXN05zdDI3VVEtag?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c2ce7454b231",
-      "title": "Large Review Shows What Sugary Diets May Be Doing to Your Memory - ScienceAlert",
-      "published": "2026-05-25T03:05:46+00:00",
-      "summary": "Large Review Shows What Sugary Diets May Be Doing to Your Memory&nbsp;&nbsp;ScienceAlertDrinking this every day linked to a shocking acceleration in brain aging, study warns&nbsp;&nbsp;Futura, le média qui explore le mondeNew Study Discovers that a Childhood Junk-Food Diet Rewires the Brain&nbsp;&nbsp;inc.comWhat kids eat could permanently change their brains and eating habits&nbsp;&nbsp;theweek.inChildhood Junk Food Permanently Alters Brain Structure, Study Finds&nbsp;&nbsp;Ratopati",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYzREa0traHdQVFhpb2RldmdmVjgyaWVYdXVYakEteFFNT1NZNTgwR3NlZFljTkJjd0ZfYnRvNnVGMlRIdFB1cmxBNFgtelhLN2JldlE4UGJ0SjFWVmxfUHEtaTFyT2hFTUJibXdIbk9CajdVMEN1Tms1cERab0ZKRGRQRm9qYkZsN0pDSVdqUzFDZ0RjMTdlMg?oc=5"
         }
       ]
     }

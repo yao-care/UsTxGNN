@@ -1,15 +1,15 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-05-31T04:08:05.475947+00:00",
-  "total_fetched": 119,
-  "unique_count": 118,
-  "health_related_count": 63,
+  "fetched_at": "2026-05-31T08:49:56.306262+00:00",
+  "total_fetched": 117,
+  "unique_count": 117,
+  "health_related_count": 59,
   "news": [
     {
       "id": "2defbd8ef361",
       "title": "Giant Study Reveals The Secret to Heart Health Isn't Low-Carb or Low-Fat - ScienceAlert",
       "published": "2026-05-30T23:16:07+00:00",
-      "summary": "Giant Study Reveals The Secret to Heart Health Isn't Low-Carb or Low-Fat&nbsp;&nbsp;ScienceAlertMore evidence that food quality counts more than dietary dogma&nbsp;&nbsp;The Seattle Times",
+      "summary": "Giant Study Reveals The Secret to Heart Health Isn't Low-Carb or Low-Fat&nbsp;&nbsp;ScienceAlertHigher Quality Of Food Not Carbs Or Fats Affects Heart Health, Find Harvard Study&nbsp;&nbsp;News18More evidence that food quality counts more than dietary dogma&nbsp;&nbsp;The Seattle Times",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -18,10 +18,34 @@
       ]
     },
     {
+      "id": "bd57be9003c4",
+      "title": "For Gen Z, 'Tanmaxxing' Rules, Despite Skin Cancer Warnings - Newser",
+      "published": "2026-05-30T21:45:00+00:00",
+      "summary": "For Gen Z, 'Tanmaxxing' Rules, Despite Skin Cancer Warnings&nbsp;&nbsp;NewserThey’ve Heard the Warnings. Gen Z Is Tanning Anyway.&nbsp;&nbsp;The New York TimesTeens discovered this weather app feature — and doctors are horrified&nbsp;&nbsp;ynetnews",
+      "sources": [
+        {
+          "name": "Newser",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOREFlLTlEZzBCS0t1Z192bjNLWlZnVWg5clNRWTNaY2FOT2xjRHZOcTNSV0t2Y3FENnNlb0hvM1hhRGVORW5CSlNmVW81TURIMF8wNW8wWHVSMlNsSjJzQlNKRFIyUldGQm5rNkk2SHExOFhKTm9Ob3RqbzNITGM0UGNZV1pDOS01LVZVdG5OY3FKTDR1eEhv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b3ca1d21d665",
+      "title": "‘Bio-Artificial Liver’ Made from IPS Cells in Japan Could Open Door to ‘Groundbreaking’ Treatment That Replaces Transplants - The Japan News",
+      "published": "2026-05-30T21:00:00+00:00",
+      "summary": "‘Bio-Artificial Liver’ Made from IPS Cells in Japan Could Open Door to ‘Groundbreaking’ Treatment That Replaces Transplants&nbsp;&nbsp;The Japan News",
+      "sources": [
+        {
+          "name": "The Japan News",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPZ3RPeS1BSjAzOG9JVVFWcTdkUmlJQkZGcDJKTmx2Mlo2UEt4XzRoazdWUXJLSTNfQUh6dDhLSkdkeEI4SGFGcmE5Nl9sUmttRmgyU085NkhubUlpRm13N3IzYkRSSUN2OGRxM1F5U2FJQUUydUowLThqbw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "411b8bca3c62",
       "title": "Rabid bat found in residential area triggers warning from police - Yahoo",
       "published": "2026-05-30T20:41:40+00:00",
-      "summary": "Rabid bat found in residential area triggers warning from police&nbsp;&nbsp;YahooCalifornia neighborhood on alert after bat found near sidewalk tests positive for rabies virus&nbsp;&nbsp;Fox NewsBat found in Irvine Regional Park tests positive for rabies&nbsp;&nbsp;CBS NewsRabid bat discovered near Fremont sidewalk&nbsp;&nbsp;KRON4Rabid bat found at Irvine Regional Park prompts public health warning&nbsp;&nbsp;Los Angeles Times",
+      "summary": "Rabid bat found in residential area triggers warning from police&nbsp;&nbsp;YahooCalifornia neighborhood on alert after bat found near sidewalk tests positive for rabies virus&nbsp;&nbsp;Fox NewsRabid Bat Found In Orange County: What To Know&nbsp;&nbsp;PatchRabid bat discovered near Fremont sidewalk&nbsp;&nbsp;KRON4Rabid bat discovered at California park, health officials issue public warning&nbsp;&nbsp;Cebu Daily News",
       "sources": [
         {
           "name": "Yahoo",
@@ -42,22 +66,10 @@
       ]
     },
     {
-      "id": "f53b685f842e",
-      "title": "The oxygen in Earth's atmosphere is essential to almost every animal alive today — but when it first started accumulating in the air roughly 2.4 billion years ago, it triggered the most lethal pollution event in the planet's history, wiping out the vast majority of spec - Space Daily",
-      "published": "2026-05-30T17:15:42+00:00",
-      "summary": "The oxygen in Earth's atmosphere is essential to almost every animal alive today — but when it first started accumulating in the air roughly 2.4 billion years ago, it triggered the most lethal pollution event in the planet's history, wiping out the vast majority of spec&nbsp;&nbsp;Space DailyAsteroid crater discovery in South Korea may reveal how Earth first filled with oxygen&nbsp;&nbsp;YahooEarth's oxygen-rich atmosphere may owe its existence to cold subduction&nbsp;&nbsp;Phys.orgWant an oxyge",
-      "sources": [
-        {
-          "name": "Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPWkttWWpNb01ycG5WZkRtZlBnTnhTMlg4X3VXZ0ZXTnp1Um1CVFhYT0FEMzd5T0VwOXpKNmp0cFFOZDFmSk85TVFWNnZHQ2J2a0U5NkdvakZSbE5CWmFmQUpPTXJWRkdabm9UclV2VTlCaUVDVGlFVFZyYzNjeTJmNWxFNEVaM1R0NHFxZzliaW9rdE5YeGZYVXFNOFpzTlVjV2dqMmxRY2dpdnhqVHVTU2hkYTNtbl9tT0VYNFdxcjdFMFBIQWtSRkxVRzNEUkFIR3ZNdHg1WFY4dWlpVEhkU1NvcG1DODJIbGhadXhoY1BqYnhIOHBhMjNad09aLUFIb25iWTBpRU1yS1F4dzJ2QnRyXzEyT21nYmJqeUNhYzd1V2Fob1RXTmpOaml4Zm5yQzRfWVF3RFMwZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7f53be50c2ab",
       "title": "Dispute grows over home monitoring of hantavirus passengers - The Washington Post",
       "published": "2026-05-30T17:00:01+00:00",
-      "summary": "Dispute grows over home monitoring of hantavirus passengers&nbsp;&nbsp;The Washington PostHantavirus-exposed cruise passengers may soon be allowed to return home but must remain under 24/7 watch&nbsp;&nbsp;CNNSurveillance Ordered for Hantavirus Ship Passengers Who Go Home&nbsp;&nbsp;The New York TimesNew York residents returning home from Hantavirus cruise ship&nbsp;&nbsp;RochesterFirstExposed Hantavirus Patients Could Go Home—If They Agree To 24/7 Surveillance (Latest Updates)&nbsp;&nbsp;Forbes",
+      "summary": "Dispute grows over home monitoring of hantavirus passengers&nbsp;&nbsp;The Washington PostSurveillance Ordered for Hantavirus Ship Passengers Who Go Home&nbsp;&nbsp;The New York TimesHantavirus-exposed cruise passengers may soon be allowed to return home but must remain under 24/7 watch&nbsp;&nbsp;CNNPassengers From Hantavirus Ship Might Soon Be Allowed to Leave Nebraska Facility&nbsp;&nbsp;WSJExposed Hantavirus Patients Could Go Home—If They Agree To 24/7 Surveillance (Latest Updates)&nbsp;&nbs",
       "sources": [
         {
           "name": "The Washington Post",
@@ -69,7 +81,7 @@
       "id": "8e2523898364",
       "title": "WHO chief visits Ebola outbreak epicenter in eastern Congo as cases outpace response - CBS News",
       "published": "2026-05-30T16:24:36+00:00",
-      "summary": "WHO chief visits Ebola outbreak epicenter in eastern Congo as cases outpace response&nbsp;&nbsp;CBS NewsInside the Ebola Epicenter, the Virus Rages With Little to Stop It&nbsp;&nbsp;The New York TimesWHO chief visits epicenter of the Ebola outbreak in eastern Congo as cases outpace response&nbsp;&nbsp;NBC NewsWHO chief urges safe burials in visit to heart of Ebola outbreak&nbsp;&nbsp;ReutersWHO director-general says communities must protect each other to end Ebola outbreak&nbsp;&nbsp;ABC News - ",
+      "summary": "WHO chief visits Ebola outbreak epicenter in eastern Congo as cases outpace response&nbsp;&nbsp;CBS NewsInside the Ebola Epicenter, the Virus Rages With Little to Stop It&nbsp;&nbsp;The New York TimesWHO chief visits epicenter of the Ebola outbreak in eastern Congo as cases outpace response&nbsp;&nbsp;AP NewsWHO chief urges safe burials in visit to heart of Ebola outbreak&nbsp;&nbsp;ReutersConfirmed Ebola cases nearly double in days as WHO chief visits DR Congo&nbsp;&nbsp;Al Jazeera",
       "sources": [
         {
           "name": "CBS News",
@@ -81,7 +93,7 @@
       "id": "fb559d9fad7c",
       "title": "Cats could help scientists better understand human cancer, study says - The Washington Post",
       "published": "2026-05-30T16:00:00+00:00",
-      "summary": "Cats could help scientists better understand human cancer, study says&nbsp;&nbsp;The Washington Post2 Surprising Links Between Cats and Humans—But Only 1 Is Good News&nbsp;&nbsp;inc.comScientists say house cats could help unlock new cancer treatments for humans&nbsp;&nbsp;ScienceDailyScientists find genetic links between feline and human cancer&nbsp;&nbsp;MRCVSonlineHow your pet cat could help cure human cancer, according to scientists&nbsp;&nbsp;The News International",
+      "summary": "Cats could help scientists better understand human cancer, study says&nbsp;&nbsp;The Washington PostWeekly Vet Report: Cat-to-human bird flu transmission, a new injectable for itchy dogs, and a major pet food recall&nbsp;&nbsp;DVM3602 Surprising Links Between Cats and Humans—But Only 1 Is Good News&nbsp;&nbsp;inc.comNew Research Offers Hope for Cats With Fibrosarcoma&nbsp;&nbsp;NC State UniversityScientists say house cats could help unlock new cancer treatments for humans&nbsp;&nbsp;ScienceDaily",
       "sources": [
         {
           "name": "The Washington Post",
@@ -93,7 +105,7 @@
       "id": "974aad2e15f9",
       "title": "Fox Chapel woman’s battle with melanoma included immunotherapy - TribLIVE.com",
       "published": "2026-05-30T14:47:57+00:00",
-      "summary": "Fox Chapel woman’s battle with melanoma included immunotherapy&nbsp;&nbsp;TribLIVE.comImmunotherapy giving new hope to patients with advanced melanoma&nbsp;&nbsp;WPLG Local 10‘Master switch’ for malignant melanomas found&nbsp;&nbsp;The Star | Malaysia",
+      "summary": "Fox Chapel woman’s battle with melanoma included immunotherapy&nbsp;&nbsp;TribLIVE.comImmunotherapy giving new hope to patients with advanced melanoma&nbsp;&nbsp;WPLG Local 10‘Master switch’ for malignant melanomas found&nbsp;&nbsp;thestar.com.my",
       "sources": [
         {
           "name": "TribLIVE.com",
@@ -213,7 +225,7 @@
       "id": "3d675707a81a",
       "title": "Drinking These Beloved Beverages May Be Linked With A Lower Dementia Risk, Study Finds - HuffPost",
       "published": "2026-05-30T11:00:18+00:00",
-      "summary": "Drinking These Beloved Beverages May Be Linked With A Lower Dementia Risk, Study Finds&nbsp;&nbsp;HuffPost5 Proven Ways Coffee May Benefit Your Heart, Gut Health, and More&nbsp;&nbsp;Verywell HealthA cup of tea or coffee a day and the risk of dementia: What Sri Lankans need to know&nbsp;&nbsp;Daily Mirror - Sri LankaCan your morning coffee protect your brain and body from ageing?&nbsp;&nbsp;theweek.inHow Coffee Helps Your Gut And Your Brain&nbsp;&nbsp;Forbes",
+      "summary": "Drinking These Beloved Beverages May Be Linked With A Lower Dementia Risk, Study Finds&nbsp;&nbsp;HuffPost5 Proven Ways Coffee May Benefit Your Heart, Gut Health, and More&nbsp;&nbsp;Verywell HealthA cup of tea or coffee a day and the risk of dementia: What Sri Lankans need to know&nbsp;&nbsp;Daily Mirror - Sri LankaCan Coffee be good for Anxiety?&nbsp;&nbsp;93.1 WPOCHow Coffee Helps Your Gut And Your Brain&nbsp;&nbsp;Forbes",
       "sources": [
         {
           "name": "HuffPost",
@@ -261,7 +273,7 @@
       "id": "980c411471eb",
       "title": "Google Seeks Federal Approval to Release 32 Million Treated Mosquitoes in California - Yahoo",
       "published": "2026-05-30T09:10:01+00:00",
-      "summary": "Google Seeks Federal Approval to Release 32 Million Treated Mosquitoes in California&nbsp;&nbsp;YahooGoogle seeks approval to release millions of specially treated mosquitoes to combat disease&nbsp;&nbsp;10tv.comWhy Google wants to release 32 million weird mosquitoes in Florida&nbsp;&nbsp;AOL.comGoogle Reveals Plans To Release Millions of Infected Mosquitoes Into California and Florida&nbsp;&nbsp;Wide Open CountryGoogle planning to release millions of mosquitoes into California to help stop dise",
+      "summary": "Google Seeks Federal Approval to Release 32 Million Treated Mosquitoes in California&nbsp;&nbsp;YahooGoogle seeks approval to release millions of specially treated mosquitoes to combat disease&nbsp;&nbsp;WCNCGoogle Reveals Plans To Release Millions of Infected Mosquitoes Into California and Florida&nbsp;&nbsp;Wide Open CountryGoogle to release 32 million mosquitoes in California&nbsp;&nbsp;MSNWhy Google wants to release 32 million weird mosquitoes in Florida&nbsp;&nbsp;Yahoo",
       "sources": [
         {
           "name": "Yahoo",
@@ -306,30 +318,6 @@
       ]
     },
     {
-      "id": "9a048a7c231a",
-      "title": "Exercise less, burn more fat: Scientists' simple way to lose weight - Euronews",
-      "published": "2026-05-30T05:00:23+00:00",
-      "summary": "Exercise less, burn more fat: Scientists' simple way to lose weight&nbsp;&nbsp;EuronewsOne workout a week can help you lose weight, new study finds&nbsp;&nbsp;The Times of IndiaScientists Discover Once-Weekly Workout That Melts Belly Fat Surprisingly Effectively&nbsp;&nbsp;SciTechDailyStudy finds once-weekly HIIT burns fat as effectively as three sessions&nbsp;&nbsp;China Daily",
-      "sources": [
-        {
-          "name": "Euronews",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWUhZcjVoM3JGYUNPM0dlY3ZhNVJRN0FlWEF3VGVLTFRzbER6dUhwUUxuc0RYTWdHTlhvT2JTbmxCMWM3R2FCZFlBM0pvcXA4WUhjMHJNSnlJNW9ObHI1YkxFYXpoQUNYWXZFcEQtaUh1V1BXU3B0N3ROdE5uZ2RHS2h6QlNmRzhpcHZ3ZjVQVE1BeHQwVmFFVVNYcktRaXZ3eTNiNVpxTHU1YjZIOEV6ODBfaThla2dEYkgxYWFZX3dEejBNb0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c204fbecc69e",
-      "title": "‘There is no way to stop this’: ‘Biotech Barbie’ Cathy Tie on her mission to genetically modify babies - The Guardian",
-      "published": "2026-05-30T05:00:00+00:00",
-      "summary": "‘There is no way to stop this’: ‘Biotech Barbie’ Cathy Tie on her mission to genetically modify babies&nbsp;&nbsp;The Guardian",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNLWlRUjE1cU9aUHk4STBESWdteFJTWXAtb1hDZU1MNXdJZ3JoOFpfNWFMamxheHF3YXRfbnNSdFFPcTlUQVVtNzF5U1RoQ3JMMWJTclQyUXpfdHowbmFQblloQVowc1AyMTR5c29RbExaQWQ2ZU1XRWppX0UybFQtV1hXZ3hlbG5SbTRDMWZlbjFRU2N2dEFoOGI5YzRQcjRPVmRPUGVIWGt3d2cwQ3B0aWhsSnJrcVFBQ2YtdllrN3pTcm8xR0NaMEE4MlkzNlpFZi1pRmZfd3FGcGZ6U3c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "707ec1f46d46",
       "title": "Experts Say This Nighttime Habit Is Linked with Poor Liver Health - EatingWell",
       "published": "2026-05-30T01:00:00+00:00",
@@ -366,18 +354,6 @@
       ]
     },
     {
-      "id": "d5d4b9e48fb6",
-      "title": "Two North Texas counties monitoring travelers for Ebola symptoms - CBS News",
-      "published": "2026-05-29T23:45:00+00:00",
-      "summary": "Two North Texas counties monitoring travelers for Ebola symptoms&nbsp;&nbsp;CBS NewsCUPHD monitoring six travelers for Ebola after recent trips to Africa&nbsp;&nbsp;WCIA.comPublic Health Officials in Tarrant County Are Monitoring Travelers Arriving From Ebola-Affected Countries&nbsp;&nbsp;WBAPWhatcom County monitoring any travelers returning from Ebola-struck Africa&nbsp;&nbsp;Cascadia Daily NewsTarrant County monitoring travelers from Ebola‑affected countries&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "CBS News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNnNZc21iVmo1S0ZPd0ZFOGZzNUJzU0NWRkkxN2tqTG1rN19XdV9US0oxZkVxTXVGTjVkcHFCRUYyanU1OWNIWjRRT0xVVzEyYnVNWnpnNVV0OG9VSnZkWVNBM0o1OTJCdWVKUlBHTFNhODlMZzFiaHIwZktKaGxzZGFwMlFkSDJXaV94Y3RRcFdkOWJ1SFlOMDBjZy0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "31fbc619d805",
       "title": "Science sleuths uncover more than 100 suspicious images in Thermo Fisher antibody catalogue - Nature",
       "published": "2026-05-29T23:18:50+00:00",
@@ -393,11 +369,23 @@
       "id": "4cf4ce060cc9",
       "title": "How To Get Rid of Fatty Liver Disease and Lose Weight Faster After 50 - AOL.com",
       "published": "2026-05-29T23:16:48+00:00",
-      "summary": "How To Get Rid of Fatty Liver Disease and Lose Weight Faster After 50&nbsp;&nbsp;AOL.comThe hidden danger of Fatty Liver Disease: Why doctors say it can help Liver Cancer thrive even before Cirrhosis&nbsp;&nbsp;The Times of IndiaFatty liver alarm&nbsp;&nbsp;Ahmedabad MirrorFor Your Health: Ways to boost your liver health&nbsp;&nbsp;The Maryville ForumGastroenterologist shares 5 food groups that can protect the liver against fatty liver disease: Berries, matcha and more&nbsp;&nbsp;Hindustan Times",
+      "summary": "How To Get Rid of Fatty Liver Disease and Lose Weight Faster After 50&nbsp;&nbsp;AOL.comLong desk hours, poor sleep driving fatty liver surge in Chennai professionals&nbsp;&nbsp;The Times of IndiaFatty liver alarm&nbsp;&nbsp;Ahmedabad MirrorCan fatty liver really be reversed without medication? Here's the truth&nbsp;&nbsp;India TV NewsFatty liver despite normal tests? Doctors link rising cases in young professionals to long desk hours&nbsp;&nbsp;Moneycontrol.com",
       "sources": [
         {
           "name": "AOL.com",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE14STlaLTdFTWtrcHB0bWlDQWhMLWdjVWdTSzlWMUJfWFN0Q01yWVI3OEtZamdEVDdMSzFCMlVDOFVhZHVCTEY0VnNsYnpjelZ0WU5GSjRjcjlvWlN1NDBCTEpfeWdvTFRIVFdTWWRNajEwLVFUM2Q1OVlXdlA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "58ae64abf93e",
+      "title": "CUPHD monitoring six travelers for Ebola after recent trips to Africa - WCIA.com",
+      "published": "2026-05-29T23:04:02+00:00",
+      "summary": "CUPHD monitoring six travelers for Ebola after recent trips to Africa&nbsp;&nbsp;WCIA.comTwo North Texas counties monitoring travelers for Ebola symptoms&nbsp;&nbsp;CBS NewsPublic Health Officials in Tarrant County Are Monitoring Travelers Arriving From Ebola-Affected Countries&nbsp;&nbsp;WBAPWhatcom County monitoring any travelers returning from Ebola-struck Africa&nbsp;&nbsp;Cascadia Daily NewsTarrant County monitoring travelers from Ebola‑affected countries&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "WCIA.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY3NfRVB0TzJhR2VyWDQ0UW0wS29SZjB4Z1c2NnJPZ2FkWkhKdmVYNGYwOTlJcUZFbV9UNzRLRXM3TW5QdXNWeW1jTTlYaEQ4RXVONWhpUzB6dlJqMl9fTXpqZm9sWmVGOW5GeGFna0Q4SmNGZUJab0p6d01RZHFmSnQyQktKSGt2VTNJRktiVDg0UXp2dXdld0dxQ3FyOVZJNkRLZ3Z5WHZtZ3pYUkNqREktWdIBuAFBVV95cUxPNFkxcG8xTV9kUDZVekFEVHRNdGRuV2NYczhYVTUxZ2ZIWVg3MzhVdnR6aG4wUzBPdFVkelVpX2Q5R2g4VW1xbU1rOEZ5YUNlV0xUX2pFYXZXdm9FcWVCRDlTcm1mWFg4amU1WHJjTWxnLWV1Qmt1LUtJR1JhVWhWeWc2OFM1OVJHTGFSQkc3dDR0ZmlpTGx2d2lwWmFIQzJ0bGUxWHN6STFJaEhQYXctUGpYamR1ZXZZ?oc=5"
         }
       ]
     },
@@ -438,18 +426,6 @@
       ]
     },
     {
-      "id": "97a140264f3a",
-      "title": "Doing This While You Talk Could Be Linked to Dementia - AOL.com",
-      "published": "2026-05-29T22:14:10+00:00",
-      "summary": "Doing This While You Talk Could Be Linked to Dementia&nbsp;&nbsp;AOL.comSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45XzV4OUV1WVJKdmtDRDRpYk1OckhGazhkWkQzcktpdmNMcGFrNGo1ajVLQ1B0WWdRWlRob0VEZTRmVW91WnJUS1dkZ0xuMFJpVUgxWFJVeFhPSXdvX1dEQklEWE9CY0JOYmJpd1N4VDNPVEcyOGU1c2c2bkVsQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fbf57fa335ad",
       "title": "Rabid bat found in Snohomish County - The Seattle Times",
       "published": "2026-05-29T21:31:11+00:00",
@@ -462,18 +438,6 @@
       ]
     },
     {
-      "id": "d560e164e384",
-      "title": "Low Folate and B12 Proven to Drive Chronic Fatigue - Neuroscience News",
-      "published": "2026-05-29T20:34:51+00:00",
-      "summary": "Low Folate and B12 Proven to Drive Chronic Fatigue&nbsp;&nbsp;Neuroscience NewsVitamin B12 and folate deficiencies linked to chronic fatigue&nbsp;&nbsp;ScienceDailyScientists uncover possible link between B12 deficiency and symptom affecting millions&nbsp;&nbsp;GB NewsPoor nutrition and fatigue (IMAGE)&nbsp;&nbsp;EurekAlert!Why chronic fatigue may start on plate: Blood marker points to vitamin gaps&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "Neuroscience News",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIWl9udnRMUVBzRlRmZDRtOExCMmZxS2owemRBVEs1OGhZVFFIMXRfeWpNTlg2U1JMby1FWXJFRmIxWDhFT3JkT2NmYWhCaFpqcnRlREJNMXp3V2puWFJpbElwTUFjQjJQYXk4RlVjcXhTbUI5cFE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0d19ef68c44c",
       "title": "A New Study of More Than 340,000 People Just Revealed How Your Drink of Choice Affects Your Lifespan - inc.com",
       "published": "2026-05-29T20:31:48+00:00",
@@ -482,30 +446,6 @@
         {
           "name": "inc.com",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYV85amh6OWFEQTlUNVl0cnlDV0g0RUtzNlhVeDJZdlE4R3lwNkk4WW5vRjZNNXZtVzZ4NGhqY083N0t1VVVQT3BCU1oteXZDLTFfaFFLUHkzQjB4akJiTk9ZMDFub1JTMlpNSGlxeFdxY0RLRzlKb1FMMHFkT2pGT2hfWENjSDJXVDZOYlM1WktyeF9zTmR2UGxWdjNZeG8yQ0FYd3dlUFlYTGtJeWFPbVo5eFNfS2M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "796dd1c63b47",
-      "title": "4 Things a Cardiologist Does Before Bed for Better Sleep - EatingWell",
-      "published": "2026-05-29T20:30:00+00:00",
-      "summary": "4 Things a Cardiologist Does Before Bed for Better Sleep&nbsp;&nbsp;EatingWellStaying up late every night? Neurologist warns your bedtime habits could quietly raise the risk of a mini-stroke&nbsp;&nbsp;The Times of IndiaWhat’s the Best Time to Go to Sleep for Heart Health? This Is the Sweet Spot&nbsp;&nbsp;TODAY.comHeart surgeon with 25 years of experience shares 4 bedtime tips that can promote restful sleep at night&nbsp;&nbsp;Hindustan TimesStruggling to sleep? US cardiologist shares 4 effecti",
-      "sources": [
-        {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVEpwSW9IeFRObHdSN2VZckFIZ1JNZGNhcHhFaWV3dkZuRzNLdHlMclFxWWtmSjN2dXVSbUZ1bTJmVnViTUtHZGwyb2JTVEc4ODU5YmxPYjFMY3BuWGpMV1dHT2t6d1g0WGMxaGxpR2ZkOWRHRjJ4V3dRdnIyODlGN0QxdHdXRzlNRDZqR0RndGJnYW0z?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8ead9f23a595",
-      "title": "Kohl's employee with measles may have infected others at East Lampeter Township store [Update] - LancasterOnline",
-      "published": "2026-05-29T20:00:00+00:00",
-      "summary": "Kohl's employee with measles may have infected others at East Lampeter Township store [Update]&nbsp;&nbsp;LancasterOnlineOfficials warn of potential measles exposure at a central Pennsylvania Kohl’s&nbsp;&nbsp;ABC27Health officials warn of possible measles outbreak at Lancaster County store&nbsp;&nbsp;local21news.comPerson with measles may have infected others at Kohl's in East Lampeter Township&nbsp;&nbsp;LancasterOnlineMore cases are reported in a central Pa. measles outbreak&nbsp;&nbsp;MSN",
-      "sources": [
-        {
-          "name": "LancasterOnline",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNMmUxQWFmTGxWR0UtaTRUZ05pU0lmSk5xeXpySXlBb3k2aWlHZVhDTzhUd1ZSM1RoWHBQMFExa3JjeV9wZW5ISjRqc3dMdTZqa3NqdnZSR0xiWjNZdkFYbmplbTFkZzRPaE1lc0JVM21vS0RhUng5cS1ZajlucThsemtKN0FRdUdhandUd2RXeWM5RXZzam0yY3Jaa25qWjlDZmpOT1lTd3g0eVlNWU1WSC1zVHZRa0UzQjJNNDUwQTQtZ2lUM1E0TzdjMWwwV1hEd2Y2dFlBbDBJMVNKaElYWHg0cEFxRlBQNDJoeEJyczBoNzRCejBqQUJwcmRkWWktbi1kWFUzVC12NzdjRVE?oc=5"
         }
       ]
     },
@@ -525,11 +465,23 @@
       "id": "0184a41102e7",
       "title": "First pig liver and kidneys transplanted into a person — could ease organ shortages - Nature",
       "published": "2026-05-29T19:11:22+00:00",
-      "summary": "First pig liver and kidneys transplanted into a person — could ease organ shortages&nbsp;&nbsp;Nature",
+      "summary": "First pig liver and kidneys transplanted into a person — could ease organ shortages&nbsp;&nbsp;NatureGuangxi Medical University team transplants three pig organs into one human for the first time&nbsp;&nbsp;동아사이언스Could pig organs transplant end the donor crisis? First human receives pig liver and kidneys in China&nbsp;&nbsp;The Times of IndiaChina Performs First Pig Liver and Kidney Transplant&nbsp;&nbsp;GK TodayChinese Team Transplants Pig Liver, Kidneys in First Multiple Organ Surgery&nbsp;&nb",
       "sources": [
         {
           "name": "Nature",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oQTNqTHdDSVpfNXlDa2MyajR3TTFOR1RnNUE4VlNESnozV0hjbl9vUHBjS3NKV0ZjZTBlVFFBbU1VV0VGSm9FZC0yZ2lQZHc2SjFyNGpiUjAxajRoaWdJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8fdb6ae3496e",
+      "title": "Drug that grew extra teeth in mice enters first human trial - Boing Boing",
+      "published": "2026-05-29T18:58:41+00:00",
+      "summary": "Drug that grew extra teeth in mice enters first human trial&nbsp;&nbsp;Boing BoingSay goodbye to dental implants: the pill that regrows and repairs teeth&nbsp;&nbsp;Futura, le média qui explore le mondeJapanese biotech developing tooth-regrowing drug raises $5.3 million to advance human trials&nbsp;&nbsp;The Economic TimesSay Goodbye to Dental Implants: The Truth Behind Japan’s Tooth Regrowth Drug&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "Boing Boing",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRF9qSWlfT0gtUUxZbnBXSlptZmdqS2FJVzFaa3ZleU1mQl92clJrZHRQWXhNUVZZSVNFXzNuTVhQTGVmeDFvQzZERHcySGt3UFR0U2phcVJuSFpfMnhfZ1FrNld1SWdDNEdtTGVGR3UzbV9QRU0yS0l3MjdLb0dOSm5JMTFEcnRma0lPOUxLYTRVdENJcDYtTnN3RTJCN2vSAaQBQVVfeXFMTnpRY0Faam9LT0drSmtxQXV5V1hESWhzSEdiVWI1QVN6cFNBNlJrNW5XYTdNRzNjSzJjVUtBeUdyX0R6WEpWVzFjLWVMZTlEdUVmNWdabXVJM2FVR0hEcWpmQ0ktUHE0MlZpbXR4SDJ1MDhuNGprV0FpYWxYZklDbUtPVkJjU0hteHdEMFhjeGNacG5mWlFBZkpsNnRjaFRUcE02d0g?oc=5"
         }
       ]
     },
@@ -570,18 +522,6 @@
       ]
     },
     {
-      "id": "d12f57e64f9c",
-      "title": "Pigeons navigate using magnetic sensors in livers — study - DW.com",
-      "published": "2026-05-29T15:50:36+00:00",
-      "summary": "Pigeons navigate using magnetic sensors in livers — study&nbsp;&nbsp;DW.comHow do pigeons sense Earth's magnetic field? Scientists say they’ve solved the mystery.&nbsp;&nbsp;National GeographicPigeons use their livers to sense Earth’s magnetic field&nbsp;&nbsp;Popular SciencePigeons may be navigating with their liver, study suggests&nbsp;&nbsp;AP NewsTo travel far on cloudy days, pigeons listen to their gut&nbsp;&nbsp;CNN",
-      "sources": [
-        {
-          "name": "DW.com",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSWIwc1M2aGJuWUNjQm9RSXpzZ1FKYkg4M0l6cVlLVVN1SEEwVW00N0N1OWY0V2dGQWlmbGctNlZ4SGs0VmdtM200N2tBMl80dzJrZGNZbFkwOTQ3VWtnUnc5TXFhN1BEdDJMSkxtcmF4OFZ6VE5sQ3Q0N2s1QWVXd1Y5RWZwc0k1alJxT25zak1jTk5sYjNhMjRRVk5hYWhHMHRJSjhSV19HSlNralFrVEhQbk5LRzjSAbcBQVVfeXFMT1UxNF9ZblBWZ21QcDRlQ1FDRXBVYV9faHF2S2VqR0FxcS12RmhLOVBUbl9naWRsLWR6Y1V3dFZwRnp5V1FpTXVKei1wSGNJa2JtRllKYVJnSl8wQjc1akZTOFlKMGMzOGVId1g2Q20xYlJvRnBCN05UNlN1WGJkcTU2QnZlMTBGS212cUZnM0F4ZmNPOGxsaE0wdWZISW9sTVR3WklnbWJOeXJJa0V4cUF5WWtDTXhJ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3e1e6d7436c7",
       "title": "'I would never have guessed it': Unexpected effect is squeezing Mars' atmosphere like toothpaste, experts say - Yahoo",
       "published": "2026-05-29T14:48:56+00:00",
@@ -590,6 +530,18 @@
         {
           "name": "Yahoo",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFQ1cnJnZ2xlZTlTUGl1dTN3NklEemhBcTBZa0tiSVZlTldaaXF3WFR3djA3U1hUMFhLSlRjY0xrSzJEV3RHN0ZSUFA4ZTBleWR4X0ppc3FhclZ1STJIZHpTVmxzTUsxN2lKeUpzWEMyRHZPQTJrX1JLVWh4Z3QzNVZLaXVjLW1MY1p0YTlJbFpOMmFNYUJrODNYWFJXekRleVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e2cc5bfceeda",
+      "title": "To travel far on cloudy days, pigeons listen to their gut - CNN",
+      "published": "2026-05-29T14:42:00+00:00",
+      "summary": "To travel far on cloudy days, pigeons listen to their gut&nbsp;&nbsp;CNNHow do pigeons sense Earth's magnetic field? Scientists say they’ve solved the mystery.&nbsp;&nbsp;National GeographicHoming pigeons may use a surprising navigation mechanism&nbsp;&nbsp;Science NewsPigeons use their livers to sense Earth’s magnetic field&nbsp;&nbsp;Popular SciencePigeons navigate using magnetic sensors in livers — study&nbsp;&nbsp;DW.com",
+      "sources": [
+        {
+          "name": "CNN",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQakh3QlNveEM1M2dRRjJIWTYtWjcyd0NzM0NWSWVkSnlOMmJoN1Q5WjliRzdybXlOMlREMGFIM2xjV0tJNTh0TFZyTHFSb0VVMUE5LUEzbng3NjFPOTN3Y21rQTFCQlQ5cm9oSk1qNTBlcHE3WDI5cTF6MEF2cGJZdVJlcw?oc=5"
         }
       ]
     },
@@ -717,7 +669,7 @@
       "id": "8965cad4a679",
       "title": "The asteroid that wiped out the dinosaurs may have struck a planet that was already in serious trouble — a new Johns Hopkins study has found evidence of a separate ecological crisis that began about 30,000 years before the impact, coincident with a high-vo - Space Daily",
       "published": "2026-05-29T09:45:50+00:00",
-      "summary": "The asteroid that wiped out the dinosaurs may have struck a planet that was already in serious trouble — a new Johns Hopkins study has found evidence of a separate ecological crisis that began about 30,000 years before the impact, coincident with a high-vo&nbsp;&nbsp;Space DailyFungi Bloomed Twice around End-Cretaceous Mass Extinction&nbsp;&nbsp;Sci.NewsWhen The Dinosaur-Killing Asteroid Hit, This Life-Form Feasted On The Death&nbsp;&nbsp;ScienceAlertStory of dinosaur-killer meteorite impact tol",
+      "summary": "The asteroid that wiped out the dinosaurs may have struck a planet that was already in serious trouble — a new Johns Hopkins study has found evidence of a separate ecological crisis that began about 30,000 years before the impact, coincident with a high-vo&nbsp;&nbsp;Space DailyExtinction: What were conditions like on Earth when the dinosaur-killing asteroid crashed into the planet?&nbsp;&nbsp;FOX WeatherWhen The Dinosaur-Killing Asteroid Hit, This Life-Form Feasted On The Death&nbsp;&nbsp;Scien",
       "sources": [
         {
           "name": "Space Daily",
@@ -750,14 +702,14 @@
       ]
     },
     {
-      "id": "f5a6de358658",
-      "title": "Why You Gain Weight During Menopause—and What to Do About It - EatingWell",
-      "published": "2026-05-29T07:00:00+00:00",
-      "summary": "Why You Gain Weight During Menopause—and What to Do About It&nbsp;&nbsp;EatingWellPlant-Based Diet May Cut Obesity Risk For Women In Menopause&nbsp;&nbsp;U.S. News & World ReportLong-Term Study Finds Plant-Forward, Low-Insulinemic Diets May Curb Weight&nbsp;&nbsp;Bioengineer.orgPrevent menopause weight gain with these science approved diet hacks&nbsp;&nbsp;Medical News BulletinLow-insulinemic, planetary health diets optimize weight management during menopause&nbsp;&nbsp;Medical Xpress",
+      "id": "3d8b3651f0b5",
+      "title": "Why the Congo Ebola outbreak has no quick fix - Euronews.com",
+      "published": "2026-05-29T09:21:10+00:00",
+      "summary": "Why the Congo Ebola outbreak has no quick fix&nbsp;&nbsp;Euronews.comExperts convened by WHO advise on candidate treatments and vaccines for Ebola disease caused by Bundibugyo virus&nbsp;&nbsp;World Health Organization (WHO)WHO identifies Ebola treatments, vaccines to be tested in trials amid outbreak&nbsp;&nbsp;ReutersEbola Science Is Moving Fast. It Might Not Be Enough&nbsp;&nbsp;Bloomberg.comGavi commits US$ 50 million to Bundibugyo Ebolavirus vaccines and outbreak response&nbsp;&nbsp;Gavi, t",
       "sources": [
         {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlU2SzlWQlFpbnNoVDVHSk90M0I1UFR4eHBwdVBmRHFGWDd5MnJGLUg3ZUY4SDZ1dUIxTzF3SzF1dXY3b1ZESEd0TDNvNXVnbGJFNDRlSE1LUm91N0NHbklkS3NxaDlONWVmd2pXejNiMHVMai1LLVhCaTlZb3FpN3hZZFFTMTNaS0lLRHpYQTBqZw?oc=5"
+          "name": "Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93NkJoeXRzZG56R2lVbUU0U25BM19QcUYxMG5fVGZKWGRGX0tqcFM4Q2ZiQnZEQTM0UHdESFRGWHZ5ZkVXdi1aZXJKQ3ptb1lwUnZSSGV6bXpmQmJfTGtEeFdyQnhpSW1mWkFn?oc=5"
         }
       ]
     }

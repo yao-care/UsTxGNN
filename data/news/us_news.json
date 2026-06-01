@@ -1,10 +1,82 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-06-01T04:22:27.645247+00:00",
-  "total_fetched": 103,
-  "unique_count": 103,
-  "health_related_count": 54,
+  "fetched_at": "2026-06-01T11:40:51.744153+00:00",
+  "total_fetched": 109,
+  "unique_count": 109,
+  "health_related_count": 59,
   "news": [
+    {
+      "id": "e03232097696",
+      "title": "The Painful Truth About Long Covid - WIRED",
+      "published": "2026-06-01T10:00:00+00:00",
+      "summary": "The Painful Truth About Long Covid&nbsp;&nbsp;WIREDThe scope of long COVID is bigger than we think, Mass. researchers say&nbsp;&nbsp;WBUROne in six Americans who had COVID-19 developed long COVID, Mass General Brigham study says&nbsp;&nbsp;The Boston GlobeNew Research Suggests Long COVID Affects 1 in 6 Patients, Doubling Current Estimates&nbsp;&nbsp;Patient Care OnlineEconomic Burden of Long COVID to Top Billions Over 3 Years&nbsp;&nbsp;Clinical Advisor",
+      "sources": [
+        {
+          "name": "WIRED",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12ZHQ3MkdDRFBKbU5YcFJKYVlfdU9yTll0bWhhclNwZk1iNl9kRjZCa3FKOVJweHNKM0RMTDdiZTJyMmNZVWd3NmJvS19xSjVpUjRBZ1FqX2dqYllNcXY3RkF5M2JhQWQwNjB4VklVWnk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "67a349d0a070",
+      "title": "At a Tennessee hospital, a nurse stole fentanyl and AI missed it, state records say - CBS News",
+      "published": "2026-06-01T09:00:04+00:00",
+      "summary": "At a Tennessee hospital, a nurse stole fentanyl and AI missed it, state records say&nbsp;&nbsp;CBS News",
+      "sources": [
+        {
+          "name": "CBS News",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hcXJYYVYybWJnNnFjUV9EWklHZnFuMXA1azJqektjTlc4b3NVNTk4TkZVWkJBUGdpN0t1ei1hRGFkc21SWnBIeC1CdmZSbWFSQ2VyRVNuR09odXlMeTVKdjdpTXRkVHdnNm5wRjhjc1N2OGtDVGNFSkRvOXI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c4d93d52d44c",
+      "title": "Ebola recoveries bring signs of hope in DRC as suspected cases emerge outside Africa - CNN",
+      "published": "2026-06-01T08:54:21+00:00",
+      "summary": "Ebola recoveries bring signs of hope in DRC as suspected cases emerge outside Africa&nbsp;&nbsp;CNNEbola outbreak: DR Congo celebrates recovery of nurses who contracted the virus&nbsp;&nbsp;BBCWHO calls for community cooperation to contain Ebola outbreak in DRC&nbsp;&nbsp;The GuardianAfrica CDC Says Over 1,100 Suspected Ebola Cases In DR Congo And Uganda&nbsp;&nbsp;Barron'sJoint statement by the Government of the Democratic Republic of the Congo and WHO concerning the outbreak of Ebola disease c",
+      "sources": [
+        {
+          "name": "CNN",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NdkRKV2xnVjVMZUtnei1iRU02bGNmT0duUDRtZGZHaHZieUVXZ0JfMl9IUjFHVUsxWURqV2JfVl9GNHVhakFIdVMyb3oxc3F2dmZNUW1iTTBLa1hldkNfZFJmNktlU0hWOS1uUFhObGh2d09rbTZN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3cef48f9e8f5",
+      "title": "Breakthrough Pill Nearly Doubles Survival Time For One of The Deadliest Cancers - ScienceAlert",
+      "published": "2026-06-01T01:26:45+00:00",
+      "summary": "Breakthrough Pill Nearly Doubles Survival Time For One of The Deadliest Cancers&nbsp;&nbsp;ScienceAlertDaily pill doubles survival time for pancreatic cancer patients&nbsp;&nbsp;BBCNew drug nearly doubles survival rates in some pancreatic cancer patients, study says&nbsp;&nbsp;CBS News‘Landmark’ pancreatic cancer drug keeps patients alive for twice as long&nbsp;&nbsp;The Washington PostA standing ovation for RevMed, and caution for Akeso&nbsp;&nbsp;statnews.com",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWVR5c0Q3ckFvQ0hleUU3OGl6bVV2SWllTVBrNjFyZkJSMGhiV29zUC1LTjFZeV9vZWtNYnVsczNNbnNWT1o3UDk0YUthTkFTaE5Mb0REOTQxY1pZcG9rLTBmYUM2d05fVkROZEJaa3A3NDNkOGxsNUJYMHppMXJ4amFmeU4xNnZqVW11ZkdWaHc1LS1vWTMyeDB0TmxndU9pUnVuTURzWURHdTJa?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d755caa76ece",
+      "title": "You Just Found Out You Have Chronic Kidney Disease—This Is What Experts Recommend You Do First - EatingWell",
+      "published": "2026-06-01T00:00:00+00:00",
+      "summary": "You Just Found Out You Have Chronic Kidney Disease—This Is What Experts Recommend You Do First&nbsp;&nbsp;EatingWellC3G Diet: Foods to Eat and Avoid&nbsp;&nbsp;HealthCentralDoctors reveal 5 eating mistakes that could harm your kidneys&nbsp;&nbsp;VnExpress International5 Supplements to Avoid for Kidney Health, According to Dietitians&nbsp;&nbsp;AOL.com5 vegetables to eat more of for better kidney health, according to experts&nbsp;&nbsp;MSN",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWHVaWXUtUjMzU0toZ2QtSVk3UkNkQXY4M3d2MDA2THRIaEZhcFZVMkQyQXFDMnhEQ3VmcTlkVi1aalBMSWRNUVJZSHkwdUg0OXpVXzUzbk9FMXhjeFJET1dpejVBUXFOaDF3eHY2WkRYWE9fYVlfXzV5M3pINnNOQkNXa0xGOWFYX3lXZ044RHc5N28?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "80b6f188ab88",
+      "title": "NASA study reveals ancient Mars may have stayed warm and wet longer - Yahoo",
+      "published": "2026-05-31T20:25:03+00:00",
+      "summary": "NASA study reveals ancient Mars may have stayed warm and wet longer&nbsp;&nbsp;YahooSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT2hXbUFNSTBQX0xJVGJ3Rk1MT0NlbDFKeUVoczNmMTJTYVN4VTdOenRVbzU3bTZZVGxlbFJwQkxDM1g5MUQtQ0oweG1hRURWYTV1N05RTWlQY3ROS3BkU3lmUTFjNzJTcUFRbTJzNWNsWllVTmwyaFBHN3dQR04yOFFOdEV0MVhuZDZxcHJmaFpXR3FG?oc=5"
+        }
+      ]
+    },
     {
       "id": "c74cf38068c0",
       "title": "A Zipper Patent Sat in a Garage for 40 Years. Now It's Real. - Yanko Design",
@@ -21,7 +93,7 @@
       "id": "7b85a1d96c54",
       "title": "Brazil monitors two patients for possible Ebola infection - BBC",
       "published": "2026-05-31T19:07:47+00:00",
-      "summary": "Brazil monitors two patients for possible Ebola infection&nbsp;&nbsp;BBCItalian and Brazilian authorities investigate possible Ebola cases as outbreak grows&nbsp;&nbsp;Australian Broadcasting CorporationBrazil monitors two patients for Ebola amid fears of spread from Africa&nbsp;&nbsp;The Telegraph1 of 2 possible Ebola patients in Brazil tests negative, WHO reports some recoveries in Congo&nbsp;&nbsp;CBS NewsBrazil’s Health Authorities Investigating a Suspected Ebola Case&nbsp;&nbsp;Bloomberg.co",
+      "summary": "Brazil monitors two patients for possible Ebola infection&nbsp;&nbsp;BBCBrazil investigates possible Ebola cases amid scramble to contain outbreak&nbsp;&nbsp;NBC NewsItalian and Brazilian authorities investigate possible Ebola cases as outbreak grows&nbsp;&nbsp;Australian Broadcasting CorporationBrazil monitors two patients for Ebola amid fears of spread from Africa&nbsp;&nbsp;The Telegraph1 of 2 possible Ebola patients in Brazil tests negative, WHO reports some recoveries in Congo&nbsp;&nbsp;CB",
       "sources": [
         {
           "name": "BBC",
@@ -30,22 +102,10 @@
       ]
     },
     {
-      "id": "e58cec2e3500",
-      "title": "‘Landmark’ pancreatic cancer drug keeps patients alive for twice as long - The Washington Post",
-      "published": "2026-05-31T19:00:00+00:00",
-      "summary": "‘Landmark’ pancreatic cancer drug keeps patients alive for twice as long&nbsp;&nbsp;The Washington PostAfter new drug’s ‘unprecedented’ results for pancreatic cancer, doctors look at other uses&nbsp;&nbsp;NBC NewsDaily pill doubles survival time for pancreatic cancer patients&nbsp;&nbsp;BBCA standing ovation for RevMed, and caution for Akeso&nbsp;&nbsp;statnews.comExperimental pill promises new hope for deadly pancreatic cancer&nbsp;&nbsp;KCRA",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa19xcno0M2JwUVNRTkhhYVliam9SVmNmd3Nvc3B6TC16ZzRjUDUwbUVheUNZdHFPWHpjTGJjV2p5Y0ljNmwtWGFYN0YxYV8xaVpkNnY3dkdjbVhiVGppMVJObWkyYWlqZEdrSzV3emU4Z21zNHpJdDFMaGotcUExVDhOLXFBRzZCQncyMW0zNThXaVRidS1HaEJDd2VCMFgwcTNPNzFkRDhNRlBlZmtGb0JucEVKY09iRnVRcVJiS01uekk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a83a6eb92eb8",
       "title": "These states are seeing their worst tick activity in nearly 10 years - AL.com",
       "published": "2026-05-31T18:39:00+00:00",
-      "summary": "These states are seeing their worst tick activity in nearly 10 years&nbsp;&nbsp;AL.comTick bite ER visits hit highest seasonal level in years as doctors warn of disease surge&nbsp;&nbsp;Fox NewsHow to Protect Yourself From Ticks — and Lyme Disease — in the Bay Area&nbsp;&nbsp;KQEDER visits for tick bites highest since 2017 in region&nbsp;&nbsp;WOWTInside Your Health: Tick bites activity on the rise in Minnesota&nbsp;&nbsp;5 EYEWITNESS NEWS",
+      "summary": "These states are seeing their worst tick activity in nearly 10 years&nbsp;&nbsp;AL.comTick bite ER visits hit highest seasonal level in years as doctors warn of disease surge&nbsp;&nbsp;Fox NewsCorewell doctor talks ticks and treatment&nbsp;&nbsp;Moody on the MarketOh deer, ‘ticks are winning’: Booming deer populations, shifting weather are fueling sharp rise across New England&nbsp;&nbsp;Athol Daily NewsHow to stay safe during tick season&nbsp;&nbsp;The Keene Sentinel",
       "sources": [
         {
           "name": "AL.com",
@@ -78,6 +138,30 @@
       ]
     },
     {
+      "id": "5f576850e8ad",
+      "title": "7 daily habits that can keep your teeth in tip-top shape - The Washington Post",
+      "published": "2026-05-31T17:00:00+00:00",
+      "summary": "7 daily habits that can keep your teeth in tip-top shape&nbsp;&nbsp;The Washington PostWhy Ob-Gyns, States, and Plans, Should Care About Oral Health&nbsp;&nbsp;MedCity NewsDon’t Overlook Your Dental Health As You Age&nbsp;&nbsp;The Grand Junction Daily Sentinel",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX00tazNpYXh3UWpYWjd3YlNwZ0dHajItNnZONTJoc0tGd2JFOVZjWnRjTVUwLTMyaW9DUnRBenFDdTY1UC1VeVBBQ1lYcl81VFR2N3pvaFpLNE10TEV2WG5fNGRHeVZQSDRNbW55cG9mY0NneHNPTVRzQjRJRXhvTlJuQnpNVnM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5ff11340c21f",
+      "title": "MAGE-A4/MAGE-A8-targeted TCR-based bispecific T cell engager in recurrent and/or refractory solid tumors: a phase 1 trial - Nature",
+      "published": "2026-05-31T16:21:48+00:00",
+      "summary": "MAGE-A4/MAGE-A8-targeted TCR-based bispecific T cell engager in recurrent and/or refractory solid tumors: a phase 1 trial&nbsp;&nbsp;NatureNew T-cell engager shows promise for advanced solid tumors&nbsp;&nbsp;Medical XpressBreakthrough in cancer immunotherapy: Dresden researchers present promising therapy for advanced solid tumors&nbsp;&nbsp;idw – Informationsdienst WissenschaftIMA401-101 Study: First-in-Human TCER IMA401 in Advanced Solid Tumors&nbsp;&nbsp;OncodailyNew Therapy Trains Immune Cel",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TX29lTkJzaDlPa3RvUmVNMFNyZmtNa0N0eUFUUTZkRGJoSUs2UzFtSy1UbjFPOWgxbW5tZkRIX3EwSmdEdVVKdUdfR2RUTEFOcl83bXpZQnBBeTRaVk5r?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1a50e35bc62e",
       "title": "We couldn't afford to pay for my mom's dementia assisted living anymore. She moved into a tiny house next door to me. - Business Insider",
       "published": "2026-05-31T16:19:00+00:00",
@@ -93,7 +177,7 @@
       "id": "6d21374556d2",
       "title": "4 Supplements to Take With Vitamin D for Better Absorption - Verywell Health",
       "published": "2026-05-31T16:11:56+00:00",
-      "summary": "4 Supplements to Take With Vitamin D for Better Absorption&nbsp;&nbsp;Verywell HealthI Took Vitamin D Supplements Every Day for a Week, and This Is What Happened to My Body&nbsp;&nbsp;PreventionThe Morning Habit Retired Women Swear By&nbsp;&nbsp;YahooDietitians Share 6 Foods With More Vitamin D Than Eggs&nbsp;&nbsp;AOL.com5 subtle signs you have a vitamin D deficiency&nbsp;&nbsp;MSN",
+      "summary": "4 Supplements to Take With Vitamin D for Better Absorption&nbsp;&nbsp;Verywell Health5 vitamin D-rich foods that go beyond salmon and eggs&nbsp;&nbsp;Vogue IndiaSunlight isn’t enough to treat Vitamin D deficiency&nbsp;&nbsp;WBAL News RadioNew study finds outdoor running helps maintain vitamin D levels&nbsp;&nbsp;The Brighter Side of NewsDietitians Share 6 Foods With More Vitamin D Than Eggs&nbsp;&nbsp;Prevention",
       "sources": [
         {
           "name": "Verywell Health",
@@ -105,7 +189,7 @@
       "id": "7542f8783012",
       "title": "Suspected Ebola case in Cagliari, patient in hospital - Euronews.com",
       "published": "2026-05-31T16:06:28+00:00",
-      "summary": "Suspected Ebola case in Cagliari, patient in hospital&nbsp;&nbsp;Euronews.comDeadly Eye-Bleeding Virus May Have Spread to Another Continent&nbsp;&nbsp;The Daily BeastEbola health alert issued as possible case found in Europe&nbsp;&nbsp;The MirrorItaly reports 2 suspected Ebola cases in Milan after their return from Uganda&nbsp;&nbsp;Anadolu AjansıEbola Patient In Italy Hospital Awaits Test Results&nbsp;&nbsp;Mena FN",
+      "summary": "Suspected Ebola case in Cagliari, patient in hospital&nbsp;&nbsp;Euronews.comDeadly Eye-Bleeding Virus May Have Spread to Another Continent&nbsp;&nbsp;The Daily BeastEbola outbreak in DRC and Uganda passes 1,000 cases, as Italy reports 2 suspected cases&nbsp;&nbsp;World Socialist Web SiteSuspected Ebola case in Cagliari: patient returning from Congo in isolation at Santissima Trinità Hospital&nbsp;&nbsp;L'Unione Sarda.itEbola Patient In Italy Hospital Awaits Test Results&nbsp;&nbsp;Mena FN",
       "sources": [
         {
           "name": "Euronews.com",
@@ -129,7 +213,7 @@
       "id": "47887aefac02",
       "title": "Scientists found the hidden switch fueling alzheimer’s brain inflammation - ScienceDaily",
       "published": "2026-05-31T15:33:20+00:00",
-      "summary": "Scientists found the hidden switch fueling alzheimer’s brain inflammation&nbsp;&nbsp;ScienceDailyUSC scientists discover a hidden Alzheimer’s trigger and a possible way to shut it down&nbsp;&nbsp;ScienceDaily",
+      "summary": "Scientists found the hidden switch fueling alzheimer’s brain inflammation&nbsp;&nbsp;ScienceDailyNew Research Identifies Potential Target to Reduce Brain Inflammation in Alzheimer’s Disease&nbsp;&nbsp;thecareruk.comUSC scientists discover a hidden Alzheimer’s trigger and a possible way to shut it down&nbsp;&nbsp;ScienceDaily",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -162,10 +246,34 @@
       ]
     },
     {
+      "id": "0726c0a29c89",
+      "title": "Undigested fructose linked to anxiety and brain inflammation - PsyPost",
+      "published": "2026-05-31T12:25:05+00:00",
+      "summary": "Undigested fructose linked to anxiety and brain inflammation&nbsp;&nbsp;PsyPost",
+      "sources": [
+        {
+          "name": "PsyPost",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNlJleWFMaDNTcXRiMTVZQlR5ZFBZYlFGZ1pDNGZKclJsWklia3k4c2dPTm1KdkxCODMzNVVnMlZVRDk2MkFNSGdUbEo3RXBTTFQ2V0hiU1l5YUlrcHZRQ3lrb1NRVnY1XzlNanl5S3E4cHFUWFVvaGZaR2lvREVVSHJrUDhCTThsWEpXQXRn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4411def84dae",
+      "title": "Doctors Explain the Risks of Swimming in Freshwater Lakes - Verywell Health",
+      "published": "2026-05-31T12:09:56+00:00",
+      "summary": "Doctors Explain the Risks of Swimming in Freshwater Lakes&nbsp;&nbsp;Verywell Health",
+      "sources": [
+        {
+          "name": "Verywell Health",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RWVZXYldGR0JiUUtQWkMwblk1TVRrX2M5YU5GWC02aGJNZm1uN1lKTktMS2RfOFAwcF85cEdVQ3p6MGRGZVpvT0NhRmR4UWptVkZDcWdVbnZzNmIwR2Y4ZVk5NFhrWk9kVjl1Mw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "46e0e38a3084",
       "title": "Mosquitoes learn to link the smell of DEET with a blood meal, new study finds - Phys.org",
       "published": "2026-05-31T11:20:01+00:00",
-      "summary": "Mosquitoes learn to link the smell of DEET with a blood meal, new study finds&nbsp;&nbsp;Phys.orgMosquitoes seem to be getting over insect repellent&nbsp;&nbsp;The EconomistThe scent of supper: Can mosquitoes learn to love DEET?&nbsp;&nbsp;CIDRAPMosquitoes can become attracted to insect repellant, study suggests&nbsp;&nbsp;The GuardianMosquitoes learn to link the smell of DEET with a blood meal – new study&nbsp;&nbsp;The Conversation",
+      "summary": "Mosquitoes learn to link the smell of DEET with a blood meal, new study finds&nbsp;&nbsp;Phys.orgMosquitoes seem to be getting over insect repellent&nbsp;&nbsp;The EconomistThe scent of supper: Can mosquitoes learn to love DEET?&nbsp;&nbsp;CIDRAPMosquitoes can learn that DEET means dinner is served&nbsp;&nbsp;Popular ScienceMosquitoes can become attracted to insect repellant, study suggests&nbsp;&nbsp;The Guardian",
       "sources": [
         {
           "name": "Phys.org",
@@ -177,7 +285,7 @@
       "id": "b10f6d0c0dae",
       "title": "Researchers teach brain cells to play 'Doom' - Phys.org",
       "published": "2026-05-31T11:19:01+00:00",
-      "summary": "Researchers teach brain cells to play 'Doom'&nbsp;&nbsp;Phys.orgGPU is not the end game in AI, but biological neurons&nbsp;&nbsp;Sebastian Barros NewsletterMarket Trend Insights: The Impact of Recent Advancements on the Biological Computing Market&nbsp;&nbsp;openPR.com🧠 Here is the first living 3d neural network for AI&nbsp;&nbsp;Techno-Science.netHarnessing human brain cells to create biocomputers&nbsp;&nbsp;News-Medical",
+      "summary": "Researchers teach brain cells to play 'Doom'&nbsp;&nbsp;Phys.orgGPU is not the end game in AI, but biological neurons&nbsp;&nbsp;Sebastian Barros Newsletter🧠 Here is the first living 3d neural network for AI&nbsp;&nbsp;Techno-Science.netLab-Grown Brain Organoids Propel Advances in Biocomputer Technology&nbsp;&nbsp;Bioengineer.orgBrain cells learn gaming in surprise experiment&nbsp;&nbsp;Minute Mirror",
       "sources": [
         {
           "name": "Phys.org",
@@ -225,7 +333,7 @@
       "id": "72fceba1b6d3",
       "title": "Intermittent fasting triggers surprising changes in the brain - ScienceDaily",
       "published": "2026-05-31T09:03:24+00:00",
-      "summary": "Intermittent fasting triggers surprising changes in the brain&nbsp;&nbsp;ScienceDailyWe Were Wrong About Fasting, Massive Study Finds&nbsp;&nbsp;ScienceAlertScientists Debunk a Myth About Fasting and Brainpower&nbsp;&nbsp;inc.comWhat a Massive New Study Tells Us About Fasting and Your Brain&nbsp;&nbsp;One Green PlanetResearchers Just Made A Surprising Discovery About Fasting And The “Mind-Dumbing” Myth About It&nbsp;&nbsp;Bored Panda",
+      "summary": "Intermittent fasting triggers surprising changes in the brain&nbsp;&nbsp;ScienceDailyWe Were Wrong About Fasting, Massive Study Finds&nbsp;&nbsp;ScienceAlertTime-Restricted Eating Reshapes Gut Flora, Aids Weight Loss&nbsp;&nbsp;MedscapeIntermittent fasting does more than help you lose weight, know its impact on gut health and brain&nbsp;&nbsp;Moneycontrol.comScientists Debunk a Myth About Fasting and Brainpower&nbsp;&nbsp;inc.com",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -234,10 +342,22 @@
       ]
     },
     {
+      "id": "f1969e18c3d8",
+      "title": "Parents Learn They ‘Unknowingly Carried’ Gene Mutation After Both Kids Are Diagnosed with Rare, Often Fatal Disorder (Exclusive) - Yahoo",
+      "published": "2026-05-31T08:58:00+00:00",
+      "summary": "Parents Learn They ‘Unknowingly Carried’ Gene Mutation After Both Kids Are Diagnosed with Rare, Often Fatal Disorder (Exclusive)&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYXdKcTJDa0N4UVNZSnE2d3hjZEQxUFBGdDh2MDNVdmNRbnlSSVNaR1ctR2o1aGJyNHJNNzZRdzhSbDZvZEhCRVBrSFRRbW9DTkROR0VQTTNMdG5xS2VsQWpMY1BUU0k5dkhMRkhZdU1PNV92Mkw0SUZ3QUNjclo5eEgtbDJOaHJidGVZN1Vwbzl3aFJrVkFGRzln?oc=5"
+        }
+      ]
+    },
+    {
       "id": "018243adc087",
       "title": "Women hope renaming PCOS health condition could help millions of women worldwide - BBC",
       "published": "2026-05-31T06:13:43+00:00",
-      "summary": "Women hope renaming PCOS health condition could help millions of women worldwide&nbsp;&nbsp;BBCHow renaming PCOS to PMOS could improve care for millions of women&nbsp;&nbsp;PBSColorado doctor helps change name of common condition from PCOS to PMOS in hopes of helping women find treatment&nbsp;&nbsp;KUSA.comQ&amp;A: Not just ovaries — new name for PCOS reflects the condition’s multisystem nature&nbsp;&nbsp;UKNowPCOS Is Now PMOS: Why This Name Change Matters&nbsp;&nbsp;University of Rochester Medi",
+      "summary": "Women hope renaming PCOS health condition could help millions of women worldwide&nbsp;&nbsp;BBCI’m a doctor who helped rename PCOS to PMOS – a 10-year process of listening to 14,000 patients and health professionals speak on how to improve care&nbsp;&nbsp;The ConversationColorado doctor helps change name of common condition from PCOS to PMOS in hopes of helping women find treatment&nbsp;&nbsp;KUSA.comPCOS has a new name. Doctors hope it changes more than terminology&nbsp;&nbsp;San Francisco Chro",
       "sources": [
         {
           "name": "BBC",
@@ -246,14 +366,14 @@
       ]
     },
     {
-      "id": "773bb50f4c4d",
-      "title": "How Nigeria’s ‘algorithmic apothecary’ fuels a surge in risky herbal cures - Al Jazeera",
-      "published": "2026-05-31T05:35:42+00:00",
-      "summary": "How Nigeria’s ‘algorithmic apothecary’ fuels a surge in risky herbal cures&nbsp;&nbsp;Al Jazeera",
+      "id": "0705f0dc1945",
+      "title": "Spermaxxers: Meet the men going to extremes to optimise their sperm count - The Independent",
+      "published": "2026-05-31T05:00:00+00:00",
+      "summary": "Spermaxxers: Meet the men going to extremes to optimise their sperm count&nbsp;&nbsp;The IndependentMale Fertility Is a Health Marker: What Every Man Should Know About Sperm, Hormones, and Longevity&nbsp;&nbsp;Men's FitnessWhen infertility is in play, why do we continue to focus on her and overlook him?&nbsp;&nbsp;Psychology TodayUnderstanding Male Fertility Better with Little Angel IVF, Recognised as the Best IVF Centre in Ghaziabad&nbsp;&nbsp;The Sunday GuardianSperm counts falling due to stre",
       "sources": [
         {
-          "name": "Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR3czcExQc0ZiWGxuNnNmX0Nwc3pybGZUbzVJNktEN1FqN1h2SlA2cjg1RkpCYjVmOF9NdG5NODZEbVJNTHNaVXRlTWRQUkNQTXg4V0I1cVk0SFpKRTQyR05ERS1oNlRwZEhWdk8xTG1IXzI4d0dxZlNQNDc0OUVSVS1lakh6ZHRBdHdDbnZpM1FKUU5SVEM5MUFRT2xUM2dvSXc3Mk8tWWNZT1lEMGlBY2ZB0gG3AUFVX3lxTFA0LVl3SjhoYnBSVFVwTGR6amVaQWVOU2tQeW1ES2lETkNtRm53RkxmNk1MWTZFdmVNQzd1MHI2OFZHVWNjNXNYZ3pHQlJZbWtvcGtsR2E4S2pwNlc0VG5fMHZ3NHlpcnNFemRoUlh1LXlOdG1YZDlKcFRsOHpOX2tkZ09qZzRyZE45c1pwcmplaUtDZHlFRVpBWlJkbnMzNFFGWFdiOXI4ME05ek9ubGNjRzhtUUcwRQ?oc=5"
+          "name": "The Independent",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ3BoaXctcURfZ3gzcXlxMlVHNmZlOFBGclIwbHNIYVk3aTFRVkxzbUtmd2Z1dGZXYXp5LVRHQTZPTlhqRTY5aWY0bDRXMDdxc0ZuaXhzT0NLQkZOdlQyNURpM1lqN2F1eDRaZEpkNEhJLVo5cFZxd3NwalVxS2k4eGxQRm91LVFBQkhjUnVENk9QbmdVN1BLSmZsT1k5V3F2VGNZRFlBSERuVHhzOVE?oc=5"
         }
       ]
     },
@@ -270,22 +390,10 @@
       ]
     },
     {
-      "id": "b4cb254c14e9",
-      "title": "Is extracting oxygen from lunar soil the future of space exploration? - Phys.org",
-      "published": "2026-05-31T00:30:03+00:00",
-      "summary": "Is extracting oxygen from lunar soil the future of space exploration?&nbsp;&nbsp;Phys.orgNew Material Could Help NASA Melt Moon Rocks, Harness Lunar Resources&nbsp;&nbsp;NASA (.gov)New heat-resistant material could help astronauts build on the Moon&nbsp;&nbsp;Engineering and Technology MagazineResearchers Say Moon Dust Could Be A Future Energy Source&nbsp;&nbsp;Business Today KenyaNew Material Could Help NASA Unlock Resources Hidden In Lunar Soil&nbsp;&nbsp;NDTV",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42QU53SVdwRTFTcmJ6ZlpNMjFFengtOGV2a25PczV1eVBrcFVVNzhNR0hOazFHZTBpWWVoYWN1RTVmTGZYOFVmWDg5b3B3MFUyc25hWi1LNlN3QldYakxtOElGdHIyX25haVR2Y2FmUEFpLW8?oc=5"
-        }
-      ]
-    },
-    {
       "id": "380dd37b37b7",
       "title": "Stanford, IAS professors awarded $1.2M Shaw Prize for mathematics breakthroughs - VnExpress International",
       "published": "2026-05-31T00:24:28+00:00",
-      "summary": "Stanford, IAS professors awarded $1.2M Shaw Prize for mathematics breakthroughs&nbsp;&nbsp;VnExpress InternationalAnne Dejean, Hugues de Thé and Zhu Chen receive The Shaw Prize&nbsp;&nbsp;Académie des sciencesAstrophysicist Stan Woosley awarded two of astronomy's top prizes for seminal studies of supernovae&nbsp;&nbsp;UC Santa Cruz - NewsThree scientists win Hong Kong’s Shaw Prize for developing therapy for rare leukaemia&nbsp;&nbsp;thestar.com.my7 scientists win Shaw Prize in 2026&nbsp;&nbsp;Ch",
+      "summary": "Stanford, IAS professors awarded $1.2M Shaw Prize for mathematics breakthroughs&nbsp;&nbsp;VnExpress InternationalAstrophysicist Stan Woosley awarded two of astronomy's top prizes for seminal studies of supernovae&nbsp;&nbsp;UC Santa Cruz - NewsThree scientists win Hong Kong’s Shaw Prize for developing therapy for rare leukaemia&nbsp;&nbsp;thestar.com.my7 scientists win Shaw Prize in 2026&nbsp;&nbsp;China Daily - Global EditionShaw Prize 2026 Honors Pioneers of Cancer Cures and Cosmic Origins&nb",
       "sources": [
         {
           "name": "VnExpress International",
@@ -369,7 +477,7 @@
       "id": "ba19d067d8fc",
       "title": "Cannabis linked to a surprising change in testosterone levels - Earth.com",
       "published": "2026-05-30T20:45:09+00:00",
-      "summary": "Cannabis linked to a surprising change in testosterone levels&nbsp;&nbsp;Earth.comResearch challenges long standing beliefs about cannabis and male hormones&nbsp;&nbsp;News-MedicalCannabis ‘increases testosterone in young men’: Swiss study&nbsp;&nbsp;SWI swissinfo.chDoes Weed Really Lower Testosterone?&nbsp;&nbsp;VICEDrugs: Study: Cannabis use increases testosterone in young men | blue News&nbsp;&nbsp;blue News",
+      "summary": "Cannabis linked to a surprising change in testosterone levels&nbsp;&nbsp;Earth.comWeed Linked To Higher Testosterone Levels In Young Men&nbsp;&nbsp;U.S. News & World ReportResearch challenges long standing beliefs about cannabis and male hormones&nbsp;&nbsp;News-MedicalCannabis ‘increases testosterone in young men’: Swiss study&nbsp;&nbsp;SWI swissinfo.chDoes Weed Really Lower Testosterone?&nbsp;&nbsp;VICE",
       "sources": [
         {
           "name": "Earth.com",
@@ -390,14 +498,38 @@
       ]
     },
     {
+      "id": "7b586693b27c",
+      "title": "3 Oncologists Reveal the Biggest Mistake That Increases Your Cancer Risk - AOL.com",
+      "published": "2026-05-30T18:01:39+00:00",
+      "summary": "3 Oncologists Reveal the Biggest Mistake That Increases Your Cancer Risk&nbsp;&nbsp;AOL.com",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS3ZwOW9JbW5USTdIbzRSX21jbjJwVThoejJaLTA5Qmtjbk56WjM1U0h0Yk5nMzJ2eGRlenRWaEhtLXVCVWhhektlSXBvSFpRMUhCTFhZZEpIb1RMVUREMFhMLTZjRUxVb2JaakpLRFJhb3JWR0pkYXJzR0RjQk9hWTVXdmVaaU0?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7f53be50c2ab",
       "title": "Dispute grows over home monitoring of hantavirus passengers - The Washington Post",
       "published": "2026-05-30T17:00:01+00:00",
-      "summary": "Dispute grows over home monitoring of hantavirus passengers&nbsp;&nbsp;The Washington PostHantavirus-exposed cruise passengers may soon be allowed to return home but must remain under 24/7 watch&nbsp;&nbsp;CNNPassengers From Hantavirus Ship Might Soon Be Allowed to Leave Nebraska Facility&nbsp;&nbsp;WSJNew York residents returning home from Hantavirus cruise ship&nbsp;&nbsp;RochesterFirstSurveillance Ordered for Hantavirus Ship Passengers Who Go Home&nbsp;&nbsp;The New York Times",
+      "summary": "Dispute grows over home monitoring of hantavirus passengers&nbsp;&nbsp;The Washington PostHantavirus-exposed cruise passengers may soon be allowed to return home but must remain under 24/7 watch&nbsp;&nbsp;CNNPassengers From Hantavirus Ship Might Soon Be Allowed to Leave Nebraska Facility&nbsp;&nbsp;WSJSurveillance Ordered for Hantavirus Ship Passengers Who Go Home&nbsp;&nbsp;The New York TimesNew York residents returning home from Hantavirus cruise ship&nbsp;&nbsp;RochesterFirst",
       "sources": [
         {
           "name": "The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYk44Q1F4QVg5a3FuTXdIRjR1X2pPd0ZhZ1ZWMkNqUEpZa0NmUGFSQ1BIdEdHa2pWem1KVGUzdkY0Z1hSazdnQ3RCbmVqb0NZb09mVnlPQ0ZZcGxERGQxM0M3Q0E4bktfd2xac1FkeF9GRV9lRFJZYjFJYWI5UlZaYzVVUXExWjllX29VeXNUMkg2WDV0djhwcWIzUnkzVlpiTnZPdTVhMDNPNmliTnBibDZJTFBDTUZ6cnNfcm5raUFwY3ZTcFdR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5124dcded989",
+      "title": "5 Proven Ways Coffee May Benefit Your Heart, Gut Health, and More - Verywell Health",
+      "published": "2026-05-30T16:45:56+00:00",
+      "summary": "5 Proven Ways Coffee May Benefit Your Heart, Gut Health, and More&nbsp;&nbsp;Verywell Health",
+      "sources": [
+        {
+          "name": "Verywell Health",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUdERKdHVQbEpuTUQ1a2EyTVFfRThZWlI1UXp3M0czT3VTM01aWnJYOWNEZWpnLWl4bjk2NlhQWVBGUXFDUV9tX1I3Mmc2Q2t6N0JWZjdoLXhncWRsdUNkYUlCdG1TcFdTWFRkVmZmYw?oc=5"
         }
       ]
     },
@@ -417,23 +549,11 @@
       "id": "c9b257a2b490",
       "title": "Countries at risk if ‘Doomsday Glacier’ size of Britain collapses as scientists warn when it could happen - LADbible",
       "published": "2026-05-30T15:54:37+00:00",
-      "summary": "Countries at risk if ‘Doomsday Glacier’ size of Britain collapses as scientists warn when it could happen&nbsp;&nbsp;LADbible'Poised to disintegrate': Antarctica's 'Doomsday Glacier' is set to lose its ice shelf this year&nbsp;&nbsp;Live ScienceIce shelf the size of Delhi to detach from Doomsday Glacier this year | Thwaites is largest glacier in West Antarctica | Inshorts&nbsp;&nbsp;InshortsScientists issue stark warning as 'Doomsday Glacier’ size of Britain could collapse this year&nbsp;&nbsp;L",
+      "summary": "Countries at risk if ‘Doomsday Glacier’ size of Britain collapses as scientists warn when it could happen&nbsp;&nbsp;LADbibleThe 'Doomsday Glacier' is poised to lose its ice shelf this year. An Antarctic researcher explains what that means for global sea levels&nbsp;&nbsp;Live ScienceMap shows which major US cities could be underwater with a 10-foot sea level rise&nbsp;&nbsp;AOL.comIce shelf the size of Delhi to detach from Doomsday Glacier this year | Thwaites is largest glacier in West Antarct",
       "sources": [
         {
           "name": "LADbible",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS2kzUGNmZGJTV0xBMHRXbzVqR3JFT2V5NlNsOXRsS29BeFluUnVTNlhETXJQaUhzUDBYZUlneU1LNW9vWE9qRGNFMEZaaXJXRWlWelk3VkVQOEMxRTZxUUZ5ajdBUEl1MUxnZmg5VDFwaXkzRWp3RG1nOXExMlBwTFJ5VHVidmlzTVRLbVJJNFNmYmdaSjY1MU1VWlJILU5vUGxQWjE4TzBidlBYNzU0VkFB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fd7f2f74c766",
-      "title": "Jacksonville girl heading to NYC for cancer treatment after bone cancer returns; Community raising money to cover costs - News4JAX",
-      "published": "2026-05-30T14:56:48+00:00",
-      "summary": "Jacksonville girl heading to NYC for cancer treatment after bone cancer returns; Community raising money to cover costs&nbsp;&nbsp;News4JAX",
-      "sources": [
-        {
-          "name": "News4JAX",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUDZlemJ3aWRIcGdiX2JOSldic1laWU9neXdPM0lUSC1YYnpldzhVcDdSWEFsV2NSbjZHN1BKMGdmNE1XZmg2LUFvdGFaVnF6TXhBaVFIS18zNXFKMGhEeGJ4UFF3YjgyZ1lBeVVWdkx0U004SjQ2ZVA0bFNfLWwtQnFYVmJuUlB2Ykc1bW1xTnJYQTVpRWVxdFA0TkdyRFk1VDBIbnZDVUdOQnpxNmZlTlhlRzV6S09RdldiTW9lSzZrNW5TV1ZoTEZmakN1OUpYX053ZlJKeWJqMGVUMFVCcGRlV0VZcHZLWkEyc2p4SmhwN3Fmc1BJRFpn?oc=5"
         }
       ]
     },
@@ -453,7 +573,7 @@
       "id": "abc462684bf4",
       "title": "Scientists got mouse eyes to perform photosynthesis — and no, they didn't turn green - Live Science",
       "published": "2026-05-30T14:00:00+00:00",
-      "summary": "Scientists got mouse eyes to perform photosynthesis — and no, they didn't turn green&nbsp;&nbsp;Live ScienceNew Hope for Dry Eye Sufferers&nbsp;&nbsp;indonesiakiniExperimental Dry Eye Treatment Works With Immune System, Not Against It&nbsp;&nbsp;StudyFindsScientists Develop Experimental Eye Drop That Could Transform Dry Eye Treatment&nbsp;&nbsp;SciTechDaily",
+      "summary": "Scientists got mouse eyes to perform photosynthesis — and no, they didn't turn green&nbsp;&nbsp;Live SciencePhotosynthesis Achieved in Mouse Eye Cells&nbsp;&nbsp;GK TodayGreen breakthrough: Mouse eyes performed photosynthesis in a remarkable experiment that could transform eye care&nbsp;&nbsp;The Times of IndiaScientists Develop Experimental Eye Drop That Could Transform Dry Eye Treatment&nbsp;&nbsp;SciTechDailyExperimental Dry Eye Treatment Works With Immune System, Not Against It&nbsp;&nbsp;St",
       "sources": [
         {
           "name": "Live Science",
@@ -465,7 +585,7 @@
       "id": "6ae3ca1b53ea",
       "title": "As Summer Nears, 'Winter Vomiting Disease' Surges - Newser",
       "published": "2026-05-30T13:50:00+00:00",
-      "summary": "As Summer Nears, 'Winter Vomiting Disease' Surges&nbsp;&nbsp;NewserVomiting virus is spreading across most of the U.S.&nbsp;&nbsp;NBC NewsHighly Contagious Vomiting Bug Spreading Across the U.S.: Report&nbsp;&nbsp;People.comIs a 'vomiting virus' going around? Data shows spikes across US&nbsp;&nbsp;USA Today‘Stomach flu’ outbreak slams hikers on California section of Pacific Crest Trail&nbsp;&nbsp;Sacramento Bee",
+      "summary": "As Summer Nears, 'Winter Vomiting Disease' Surges&nbsp;&nbsp;NewserVomiting virus is spreading across most of the U.S.&nbsp;&nbsp;NBC NewsIs a 'vomiting virus' going around? Data shows spikes across US&nbsp;&nbsp;USA TodayHighly Contagious Vomiting Bug Spreading Across the U.S.: Report&nbsp;&nbsp;People.com‘Stomach flu’ outbreak slams hikers on California section of Pacific Crest Trail&nbsp;&nbsp;Sacramento Bee",
       "sources": [
         {
           "name": "Newser",
@@ -489,7 +609,7 @@
       "id": "c9039b0c32d0",
       "title": "Millions of breast cancer patients could safely avoid chemotherapy, study suggests - BBC",
       "published": "2026-05-30T13:14:42+00:00",
-      "summary": "Millions of breast cancer patients could safely avoid chemotherapy, study suggests&nbsp;&nbsp;BBCPatients with High-Risk Breast Cancer May Safely Skip Chemo, Trial Finds&nbsp;&nbsp;Cure TodayGroundbreaking genomic test could spare millions of breast cancer patients chemotherapy&nbsp;&nbsp;The GuardianMillions of breast cancer patients could avoid chemotherapy with new genome test&nbsp;&nbsp;The IndependentIBCFS With Prosigna-Guided Adjuvant Therapy Is Noninferior to Chemoendocrine Therapy in ER+",
+      "summary": "Millions of breast cancer patients could safely avoid chemotherapy, study suggests&nbsp;&nbsp;BBCPatients with High-Risk Breast Cancer May Safely Skip Chemo, Trial Finds&nbsp;&nbsp;Cure TodayGroundbreaking genomic test could spare millions of breast cancer patients chemotherapy&nbsp;&nbsp;The GuardianIBCFS With Prosigna-Guided Adjuvant Therapy Is Noninferior to Chemoendocrine Therapy in ER+/HER2– Early Breast Cancer&nbsp;&nbsp;OncLiveVeracyte Announces Commercial Launch of the Prosigna Breast Te",
       "sources": [
         {
           "name": "BBC",
@@ -501,11 +621,35 @@
       "id": "3fd1eb1c8f94",
       "title": "The $950 cancer blood test is here: 5 things to consider before ordering yours - Business Insider",
       "published": "2026-05-30T13:13:00+00:00",
-      "summary": "The $950 cancer blood test is here: 5 things to consider before ordering yours&nbsp;&nbsp;Business InsiderTrial of multi-cancer blood test among 142,000 NHS patients fails to meet main aim&nbsp;&nbsp;The GuardianScreening with a multi-cancer blood test reduced the most advanced cancers&nbsp;&nbsp;University of Exeter NewsGilberto Lopes: NHS-Galleri - The First Randomized Trial of an MCED Test in 142,000+ NHS Participants&nbsp;&nbsp;OncodailyGRAIL Presents PATHFINDER 2 Results of More Than 35,000",
+      "summary": "The $950 cancer blood test is here: 5 things to consider before ordering yours&nbsp;&nbsp;Business InsiderTrial of multi-cancer blood test among 142,000 NHS patients fails to meet main aim&nbsp;&nbsp;The GuardianGilberto Lopes: NHS-Galleri - The First Randomized Trial of an MCED Test in 142,000+ NHS Participants&nbsp;&nbsp;OncodailyGRAIL Presents PATHFINDER 2 Results of More Than 35,000 Participants Showing the Galleri® Test Substantially Increased Cancer Detection With Robust Performance and Fa",
       "sources": [
         {
           "name": "Business Insider",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU3VKVGdhR3JmR0pIc0VLUGxseDNwMnc0TE1jTGh1WUd5d3F5Q2NlZTRaeEpfbEJ1YnlzWFhVRGVKNjdOeGVfTlVDMzZYc3ZrbVVSSXFLNGVROTBVV29kaHEzVTNLSEhGLWpGc1pkSW50WVBJUUdXSHJybElTc003clY0djkyTGNYbUwxTWNaNTBoMG9rNEloUksxVVYwbVBhVEVhTW1Rd29Tdzg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d2be67cea538",
+      "title": "Inside Europe's largest Copper Age tomb, children's bones expose an ancient health crisis hidden for 5,000 years - Phys.org",
+      "published": "2026-05-30T12:40:01+00:00",
+      "summary": "Inside Europe's largest Copper Age tomb, children's bones expose an ancient health crisis hidden for 5,000 years&nbsp;&nbsp;Phys.org5,000-year-old famous mass grave reveals how ancient disease affected children&nbsp;&nbsp;Interesting Engineering",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwYW1IUHBoNjdIcklRM3BsckFPbFNaYlVaNzJEWWl0RmRMRUoxN0pDTzBHZ3lWdDkyS0R5cFF6YVF3VE1sMUdMRkgxV1BiUllrY2JUTzVqQkhvMFV3RUxmV2hvNjdDaHRRWUlIZXRhX0E3Yms?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "58bea97d38d2",
+      "title": "14-Year-Old Cat Returned to Shelter After Losing Her Human Is Heartbroken and Lonely - ParadePets",
+      "published": "2026-05-30T12:10:00+00:00",
+      "summary": "14-Year-Old Cat Returned to Shelter After Losing Her Human Is Heartbroken and Lonely&nbsp;&nbsp;ParadePets",
+      "sources": [
+        {
+          "name": "ParadePets",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdE1mZmlFbmU0ZXJnYy1oM3dQZ19mLUc3MVZ5S21VWGl4RUNSemRlVG90LTlaM3ZxcGROZzVfZlpHenQ0MDRtcXNrVjhyMXJCeUZRMDB5NnRWVVJXOEppU0N4a0RuTWlKZllRNmhVeUVqa01jMlVQRGpOT0ZkNklwYTlQZ1o2ZVUyN203eFY1YXNjQTRx?oc=5"
         }
       ]
     },
@@ -525,7 +669,7 @@
       "id": "cdb97a3288ac",
       "title": "5 flesh-eating bacteria cases confirmed in US, more expected in summer - WKRC",
       "published": "2026-05-30T11:47:16+00:00",
-      "summary": "5 flesh-eating bacteria cases confirmed in US, more expected in summer&nbsp;&nbsp;WKRCFear and Algae in the Hamptons: How Flesh-Eating Bacteria Is Invading the East Coast’s Swankiest Waterways&nbsp;&nbsp;Vanity FairVibrio vulnificus has returned to Florida beaches&nbsp;&nbsp;Pensacola News JournalVibrio season is here: How can you avoid the flesh-eating bacterial infection?&nbsp;&nbsp;FOX 8 News5 Cases of Flesh-Eating Bacteria Confirmed in Florida as Surge of Infections Expected This Summer&nbsp",
+      "summary": "5 flesh-eating bacteria cases confirmed in US, more expected in summer&nbsp;&nbsp;WKRCSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "WKRC",
@@ -549,7 +693,7 @@
       "id": "3d675707a81a",
       "title": "Drinking These Beloved Beverages May Be Linked With A Lower Dementia Risk, Study Finds - HuffPost",
       "published": "2026-05-30T11:00:18+00:00",
-      "summary": "Drinking These Beloved Beverages May Be Linked With A Lower Dementia Risk, Study Finds&nbsp;&nbsp;HuffPost5 Proven Ways Coffee May Benefit Your Heart, Gut Health, and More&nbsp;&nbsp;Verywell HealthA cup of tea or coffee a day and the risk of dementia: What Sri Lankans need to know&nbsp;&nbsp;Daily Mirror - Sri LankaCan Coffee be good for Anxiety?&nbsp;&nbsp;93.1 WPOCHow Coffee Helps Your Gut And Your Brain&nbsp;&nbsp;Forbes",
+      "summary": "Drinking These Beloved Beverages May Be Linked With A Lower Dementia Risk, Study Finds&nbsp;&nbsp;HuffPostSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "HuffPost",
@@ -558,98 +702,14 @@
       ]
     },
     {
-      "id": "5020e22673e6",
-      "title": "Rare tick-borne virus nearly wiped out this N.J. man’s memory and his life. ‘People should know that it exists.’ - NJ.com",
-      "published": "2026-05-30T10:28:00+00:00",
-      "summary": "Rare tick-borne virus nearly wiped out this N.J. man’s memory and his life. ‘People should know that it exists.’&nbsp;&nbsp;NJ.com",
+      "id": "9b5e267b5a2d",
+      "title": "Many Cancers Are Actually Preventable, And There Are Just 2 Lifestyle Habits That Cause 50% Of Them - AOL.com",
+      "published": "2026-05-27T15:00:06+00:00",
+      "summary": "Many Cancers Are Actually Preventable, And There Are Just 2 Lifestyle Habits That Cause 50% Of Them&nbsp;&nbsp;AOL.comOncologists Wish You’d Stop Doing These 4 Things&nbsp;&nbsp;EatingWellStill feeling guilty about that extra cup? What if it's a powerful cancer fighter? |&nbsp;&nbsp;AudacyStudy reveals nearly 40% of cancers may be preventable; doctor explains how everyday habits are raising the risk&nbsp;&nbsp;The Times of IndiaCoffee And Tea Combo Linked To Lower Risk Of Death, Study Finds&nbsp",
       "sources": [
         {
-          "name": "NJ.com",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYVZBY3ZxTmhJdHhlanJlUmYybmp5Q0dQUTRScm9EOFhhX0FTcW5LT3ZBQ0p3akVMc0lWdm42UTRjTVlRc3hsM3FnbmNHMUc0MmY5NFZDUWpqenBTcnpsZ1VPc0t5WGg3V2t2RG5LUEJ5VjNtNWNqVEJjb1pURkZmVXhZQWQ1ZjRQNjBSMW5MX3NMODFLbWs1WVdva181RVFUV0ZBM2xPYXh5azFBd01WYnVjb05qTjItc0ZoNXZfQnZ3OTVDTUdaQVZnQTRwMnpTTEdOQ2hhZGQ2NTRHcnhacQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0eb55dddd2e4",
-      "title": "Brain freeze? Ice cream headaches can reveal a surprising amount about your health - BBC",
-      "published": "2026-05-30T10:00:00+00:00",
-      "summary": "Brain freeze? Ice cream headaches can reveal a surprising amount about your health&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xT3hjVVVPa3JJR0NPZ2ZHRFQ0Snk2R0h0VEs0VnBVYW4zSnVRZG9Mb3BWY3pjenpWaU1iU0oyX1JkLVZhbGtqZ0VYNk9aT1AwTHNLb1p6T20xemVKNlI4Z0VCVTJaaXR1X3Zqc0JxdU1CTTRzVUpV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "980c411471eb",
-      "title": "Google Seeks Federal Approval to Release 32 Million Treated Mosquitoes in California - Yahoo",
-      "published": "2026-05-30T09:10:01+00:00",
-      "summary": "Google Seeks Federal Approval to Release 32 Million Treated Mosquitoes in California&nbsp;&nbsp;YahooGoogle wants to release up to 32 million ‘good’ mosquitoes in California and Florida&nbsp;&nbsp;KTLAGoogle's 32 Million-Strong Mosquito Army To Fight...Mosquitoes&nbsp;&nbsp;NDTVWhy Google wants to release 32 million weird mosquitoes in Florida&nbsp;&nbsp;The Palm Beach PostGoogle seeks approval to release millions of specially treated mosquitoes to combat disease&nbsp;&nbsp;WCNC",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNemJBaWdxNTRKSXpsZG1PRE9BT2JKa0JxMUhuc0wwTUN1a2ZGc3lSVzV0WkozLU1SUVRvekRlZ1l6R1MxLVpkX1Y0SzJlbFA1U2J2TGdIbHhKTGVDcERZT0ZMWGhvbU9DVXBoM0k4OXlJQWE5SVFXdUVUdnlqOF8tbklUUk5LY2VfR2ZiUjhOZ0tLVWFaUVlpMVh2ZGQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dd13261b1d60",
-      "title": "Nutritionist explains how eating late at night may be affecting your hormones, sleep, and weight | Health - Hindustan Times",
-      "published": "2026-05-30T08:11:47+00:00",
-      "summary": "Nutritionist explains how eating late at night may be affecting your hormones, sleep, and weight | Health&nbsp;&nbsp;Hindustan TimesSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVGxJZmJVY0lTVWQyWjVNd1JWMFBwOUVwQ0Z4bllkTnpNbFhPRFhUUlBpMUdraWR2WWkzbFE4Q2pFd0kxeUdwTHZmbEdVaWxSajkyRlFMcVdaX05pSHJjZ2xXQWdsQzFFSm1MTzVONXZmTE9Bd19wSnBlY2tUbHl5X2ZlZ3A5VmwweWFUYmptVWtoOGU3dGx6SGYydlhlSHhHOGJDVU0xRkhOSVVYX0dQX1BPUnpwOUFIMFV1QVRGclk4R2xRRk5oNTFYM1lIOTlKTFAtcXhnTnkxWnNjbHdlb3FodzRQU29JcjZfMFJCeGRSZkRLcmfSAfsBQVVfeXFMUE5ydXhGRXd0ZGt6YkRldW0tTnpUTHZacFQzV3ROQTV5emV6R2t5c0FQa0ZTb2Q1c2VpNl9UblRMcFMwVExoM0lTNVpkQTAtNWpaUjNOUDdWb0xwZ2ZPLWlXaUkzekVMRkl5eGRjY3dxUklkdU1wVGJGRVNORi1LdkdQNWlWaXVjNXdqa1BaRG5BUDVIWG1VMnlFWkVXQTVwdldGYW9mZ0hPM1N2dmVlRWFkcjk1X1Y2blgxcUNINmF3cXZZWVkzYUp0ZUNmbE1JYWdNMDh4R0M3NkZuNTdmdjctVFNsU0EyYzEwZGx1QVV5dm5KWHNxRDlvMTg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "41a260fa3c17",
-      "title": "Lack of sleep ‘fuelling cancer surge in under 50s’ - The Telegraph",
-      "published": "2026-05-30T05:30:00+00:00",
-      "summary": "Lack of sleep ‘fuelling cancer surge in under 50s’&nbsp;&nbsp;The TelegraphPoor sleep linked to rising cancer risk in under-50s&nbsp;&nbsp;The GuardianInsomnia linked to greater risk of cancer for younger women&nbsp;&nbsp;The TimesPoor sleep 'driving cancer in under-50s', experts fear - 8 signs you're at risk&nbsp;&nbsp;The SunMD Anderson links poor sleep to higher early-onset cancer risk in adults under 50&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "The Telegraph",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYkgtUkFJRDNIT01XczJlVVNhVHc0aTlsdGhzVDJaa2ZHbEZnQVhyeGEyNkNMbjhOT3Z3Z3pqLUZaVTVqUER5WXJ3WF8xYXI5SlYwbkNaMG9xV0M3Q1czaGdpNkJhNExWdEJBNGhfM2hESVdEZ0ZwOGRMMmFNZ3MzSExoclJVdWxubUxIRlc4ZC1xaUFoQTNtUA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7e3ae00e8fc3",
-      "title": "What do common dementia risk factors have in common? Poor sleep - Medical News Today",
-      "published": "2026-05-30T05:15:14+00:00",
-      "summary": "What do common dementia risk factors have in common? Poor sleep&nbsp;&nbsp;Medical News TodayCerebral flush or crammed cranium? Our ‘expert’ weighs in&nbsp;&nbsp;vindy.comThe brain also needs a \"Shavuot night fix\" every day - Hai Pooh - Haifa and the surrounding area news corporation&nbsp;&nbsp;haipo.co.ilWhile you were sleeping: URochester reshapes the science of sleep&nbsp;&nbsp;University of RochesterThe Exact Amount of Sleep You Need Each Night To Cut Dementia Risk, According to a Sleep Medi",
-      "sources": [
-        {
-          "name": "Medical News Today",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONkxINnRQX0U0UGZWV0VGVWJzQmQzWnNxUS1mZkpHZ29HX2VORFlreDdrTU9mSDdoaFYxblFXQ0tLNlduZjNFNFpIYy1yVF9CajlZV05uQ0RicEgtWnhRdzAyak9oQ2dTWkRmWUM5YVVIaE5CLTNETnBZTGNKRzRhMzdOYk9oTngzWXRRUFZ1bE9UazEwWV9rN29RQzRrRUs4ZlYxX3ZRSzVhUC03ZWV3cjRyX0NtSjEx?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4ca3ecfba8af",
-      "title": "Exercise less, burn more fat: Scientists' simple way to lose weight - Euronews.com",
-      "published": "2026-05-30T05:00:23+00:00",
-      "summary": "Exercise less, burn more fat: Scientists' simple way to lose weight&nbsp;&nbsp;Euronews.comOne workout a week can help you lose weight, new study finds&nbsp;&nbsp;The Times of IndiaScientists Discover Once-Weekly Workout That Melts Belly Fat Surprisingly Effectively&nbsp;&nbsp;SciTechDailyStudy finds once-weekly HIIT burns fat as effectively as three sessions&nbsp;&nbsp;China Daily",
-      "sources": [
-        {
-          "name": "Euronews.com",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWUhZcjVoM3JGYUNPM0dlY3ZhNVJRN0FlWEF3VGVLTFRzbER6dUhwUUxuc0RYTWdHTlhvT2JTbmxCMWM3R2FCZFlBM0pvcXA4WUhjMHJNSnlJNW9ObHI1YkxFYXpoQUNYWXZFcEQtaUh1V1BXU3B0N3ROdE5uZ2RHS2h6QlNmRzhpcHZ3ZjVQVE1BeHQwVmFFVVNYcktRaXZ3eTNiNVpxTHU1YjZIOEV6ODBfaThla2dEYkgxYWFZX3dEejBNb0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c204fbecc69e",
-      "title": "‘There is no way to stop this’: ‘Biotech Barbie’ Cathy Tie on her mission to genetically modify babies - The Guardian",
-      "published": "2026-05-30T05:00:00+00:00",
-      "summary": "‘There is no way to stop this’: ‘Biotech Barbie’ Cathy Tie on her mission to genetically modify babies&nbsp;&nbsp;The GuardianEx-wife of He Jiankui launches embryo gene editing startup in the US&nbsp;&nbsp;동아사이언스Do We Have the Will (or Desire) to Prevent Biotechnological Anarchy?&nbsp;&nbsp;National ReviewCathy tie launches Origin Genomics: A new push for embryo gene editing&nbsp;&nbsp;Jang",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNLWlRUjE1cU9aUHk4STBESWdteFJTWXAtb1hDZU1MNXdJZ3JoOFpfNWFMamxheHF3YXRfbnNSdFFPcTlUQVVtNzF5U1RoQ3JMMWJTclQyUXpfdHowbmFQblloQVowc1AyMTR5c29RbExaQWQ2ZU1XRWppX0UybFQtV1hXZ3hlbG5SbTRDMWZlbjFRU2N2dEFoOGI5YzRQcjRPVmRPUGVIWGt3d2cwQ3B0aWhsSnJrcVFBQ2YtdllrN3pTcm8xR0NaMEE4MlkzNlpFZi1pRmZfd3FGcGZ6U3c?oc=5"
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTFN1NmMxUTllZTFpcm4wZmVXbXFCb2dpbTd5T1NhbFZ3cFdXVzFGS1pqU3p4d2ZLdzMySGpwakZxMnN2OGtQWXpVRWlxVmF5X3RzZzZJenI5MEdfQTQ5NWlQNGl6VTRrVE9LNDU5YUNvZ0dwNmJGeFcxRjZBcXlKYVFBYlRmaWVxcjRySQ?oc=5"
         }
       ]
     }

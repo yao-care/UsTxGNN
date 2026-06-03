@@ -1,10 +1,70 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-06-03T16:54:50.514660+00:00",
-  "total_fetched": 129,
-  "unique_count": 129,
-  "health_related_count": 57,
+  "fetched_at": "2026-06-03T21:18:31.163071+00:00",
+  "total_fetched": 133,
+  "unique_count": 132,
+  "health_related_count": 62,
   "news": [
+    {
+      "id": "c4f3c41e2617",
+      "title": "Doctor breaks down study showing GLP-1s may lower breast cancer risk - ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-06-03T19:30:50+00:00",
+      "summary": "Doctor breaks down study showing GLP-1s may lower breast cancer risk&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosThe science around GLP-1 drugs and cancer is suddenly getting a lot more interesting&nbsp;&nbsp;The Washington PostGLP-1 drugs may have a beneficial effect across many types of cancer&nbsp;&nbsp;ReutersWeight-loss drugs can cut breast cancer risk by up to 30%, studies suggest&nbsp;&nbsp;The GuardianWeight-loss drugs linked to lower breast cancer rates. What to know&nbsp",
+      "sources": [
+        {
+          "name": "ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUEh2b0tZaFN2ZXFFeG5kMHU4cl9vSDVjQmFkRkMwTTMzRWFSaXNuUmNyNEUzWUZxZ19BRVNxVlg4TnQ4NHpsTXhTMmg1anBJNDIwU3ZnLUhCT3lYQ3dsaDZody02SXprcU0xZHRmNmljRjA5RWJFVUJEVG13clRiU1pMM0J5SDYya0N4ejBWWDhqNUw4RmNSanhKTk1yU0dB0gGmAUFVX3lxTFBTTE9SbFFSZnNfVTBtWWdzY3g3UHJQaElwTlhXS29NQk1uWjRZWWJRbkpNX0EyR0hLXzIxWXhiRXE0aTNjZkNkSjM5dlFTYVNtaHJLT1lfSDdfcXY2MGM0NjlueHJpdm43LVdZU0xGLUpLOGh4TVlXUzRZa1YxbDMwUmM2RVdQTmw3UF9Ecjc0OWt5SHBaQngwQXh3R1AtbUYwbFBXMmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0b505d02527b",
+      "title": "DRC Ebola outbreak could have begun as early as January, WHO chief says - The Guardian",
+      "published": "2026-06-03T17:29:00+00:00",
+      "summary": "DRC Ebola outbreak could have begun as early as January, WHO chief says&nbsp;&nbsp;The GuardianCongo’s Ebola Outbreak Reaches Territory Held by Islamic State&nbsp;&nbsp;WSJ'An environment marked by fear': Doctors working in DRC speak out about Ebola outbreak&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosWHO Director-General's opening remarks at the media briefing on the Bundibugyo Ebola outbreak – 3 June 2026&nbsp;&nbsp;World Health Organization (WHO)WHO scales back number of suspec",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWm9kVHo5bkhsNUxiWk0yQ3YwcWFiZllncWZocWxQUVpZaG93YnJ5bVZoZzJ0Nk81SHoxN1VnWkFSRUVCa3kyMEhiU1hsUnpraHdKTU5PdTNzRl9fVVJWdG5HZVNmRmI3cXBnQnBoU2EyQkhVRmtGd1QzbXJtYUxnNjBRYXJDZlBwUlV6ZEM4c2h0clhQZ3NQTER5NVRDTFpfMlYyclQ1Z2xpLTM0Q1NPZnB5aDFQdDg0YWo2Qm9VMFpjOXQ1LTk4Zg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "92f2cfc707e6",
+      "title": "2026 Ebola outbreak: Maps track spread and global impact of virus - USA Today",
+      "published": "2026-06-03T17:21:00+00:00",
+      "summary": "2026 Ebola outbreak: Maps track spread and global impact of virus&nbsp;&nbsp;USA TodayOnly the Right Tests Can Stop This Ebola Outbreak. Congo Has Hardly Any.&nbsp;&nbsp;The New York TimesCurbing Congo’s Ebola outbreak is hampered by unknowns about the virus&nbsp;&nbsp;Science NewsI’m an Ebola expert – a nightmare scenario is increasingly likely&nbsp;&nbsp;The IndependentArmstrong Williams: Ebola, Africa and the dignity of the forgotten | STAFF COMMENTARY&nbsp;&nbsp;Baltimore Sun",
+      "sources": [
+        {
+          "name": "USA Today",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ1NueXduZVBTQnFsNlMzYVJvWTYyR0FLUHRTN24ybXBpbjRrWGp4OGhBOFp1ZllUM29iVlRVR191bmNsOEExbzNLSHdGbVdfTHRmTUdTWW44Y0l4c1lNYy1Cd2J5d2I5MktIM2Z5NkZUYVhrWkZQM3ZlWGpaQ05JTi1OYlVfTHhxamg1RVpLX3gtQVV3c3hQeFFFeW5KdWo1REFSeQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0eca476d65e3",
+      "title": "Men are worried about their fertility. Enter the regrettably named trend of spermmaxxing - The Guardian",
+      "published": "2026-06-03T16:40:00+00:00",
+      "summary": "Men are worried about their fertility. Enter the regrettably named trend of spermmaxxing&nbsp;&nbsp;The GuardianMen who looksmaxx are also brutally fertility-mogging themselves&nbsp;&nbsp;vox.comSpermaxxers: Meet the men going to extremes to optimise their sperm count&nbsp;&nbsp;The IndependentMale Fertility Is a Health Marker: What Every Man Should Know About Sperm, Hormones, and Longevity&nbsp;&nbsp;Men's Fitness",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYWZialBzYURuVFdJOERtNXFWYm9yb09FRUVBdEtnUjV6NVhjUG4zMzNRY0NiYmkxSGhHbEJlODV6VXFLY0FoOWl1bk9oeFpYSDFUWE1lZ2RNazhTVnlNWTZNZmFJUkZYQ25VdHB3T2ZFUXJZZS1IajZmdTRyMlAwb1k1bGFteU9OY2hJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e30dd866e520",
+      "title": "Consensus meta-analysis of genome-wide association studies for Alzheimer’s disease and related dementias - Nature",
+      "published": "2026-06-03T16:17:30+00:00",
+      "summary": "Consensus meta-analysis of genome-wide association studies for Alzheimer’s disease and related dementias&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fcTE2NW5reFBLR2hWYUR5eXV3bEMtNDhkRWhWTl96R2tORHNKUWp6NTJub2pZM0FfS0NCa2NnUXRSZU5XLWxUUjNEaml3YmstRXpXOTI1WG5CaUZjZEg0?oc=5"
+        }
+      ]
+    },
     {
       "id": "abe8feb922b5",
       "title": "What your hair color might tell you about your health - The Washington Post",
@@ -18,38 +78,74 @@
       ]
     },
     {
-      "id": "0eca476d65e3",
-      "title": "Men are worried about their fertility. Enter the regrettably named trend of spermmaxxing - The Guardian",
-      "published": "2026-06-03T16:00:00+00:00",
-      "summary": "Men are worried about their fertility. Enter the regrettably named trend of spermmaxxing&nbsp;&nbsp;The GuardianMen who looksmaxx are also brutally fertility-mogging themselves&nbsp;&nbsp;vox.comSpermaxxers: Meet the men going to extremes to optimise their sperm count&nbsp;&nbsp;The IndependentMale Fertility Is a Health Marker: What Every Man Should Know About Sperm, Hormones, and Longevity&nbsp;&nbsp;Men's Fitness",
+      "id": "3b3805a3e76a",
+      "title": "The Worst Health Habits You're Probably Picking Up In Middle Age - HuffPost",
+      "published": "2026-06-03T15:49:05+00:00",
+      "summary": "The Worst Health Habits You're Probably Picking Up In Middle Age&nbsp;&nbsp;HuffPost",
       "sources": [
         {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYWZialBzYURuVFdJOERtNXFWYm9yb09FRUVBdEtnUjV6NVhjUG4zMzNRY0NiYmkxSGhHbEJlODV6VXFLY0FoOWl1bk9oeFpYSDFUWE1lZ2RNazhTVnlNWTZNZmFJUkZYQ25VdHB3T2ZFUXJZZS1IajZmdTRyMlAwb1k1bGFteU9OY2hJ?oc=5"
+          "name": "HuffPost",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUnBLZWdYcFpvdmRRaVJhNEV1WlhwQVhveWhfZkUtV0d0OTdQUmFqU2FQRkE2b1gyMkxiUDJhNGlLSzhqSlA0dFU4QjdtSHpiZWNaNnpfdC11NjRnVXVwaVhReW8yX28zejd0YXdQOExFNmlOaXhYYlRIN1VnYkc3dERzVEVVSDZR0gGOAUFVX3lxTE5QcnU0eXZSVVZnZ3FlakxrREMyUGFVN0NaZDJaZFJNTGhoSUJHMFZGbTBKUU1XTGVjVTRtbFEyMlhmVEpCV29PSTNfcW1sUzFSRENHcHo1OUtMRi1hZWJQU09ybTNRU1JoOVNGWThlSzFZTmhacDM4UWJrUzY0UkpNLWFnQXEtSGlfX3ZFV3c?oc=5"
         }
       ]
     },
     {
-      "id": "7fcb34139c43",
-      "title": "Big tobacco uses cigarette playbook to help sell ultra-processed foods, journal reveals - The Guardian",
-      "published": "2026-06-03T15:10:00+00:00",
-      "summary": "Big tobacco uses cigarette playbook to help sell ultra-processed foods, journal reveals&nbsp;&nbsp;The GuardianAmericans say they want strict regulations on ultraprocessed food. Will industry and regulators deliver?&nbsp;&nbsp;CNNTop ultra-processed food researchers call for sweeping policy change: ‘The system is rigged’&nbsp;&nbsp;statnews.comWhat The Ultra-Processed Foods Debate Still Gets Wrong&nbsp;&nbsp;ForbesAmericans agree: Ultraprocessed foods pose major health hazard&nbsp;&nbsp;Cornell ",
+      "id": "eaaf947daa98",
+      "title": "Scientists Say These Vitamin Deficiencies Could Be Causing Your Fatigue - AOL.com",
+      "published": "2026-06-03T15:45:27+00:00",
+      "summary": "Scientists Say These Vitamin Deficiencies Could Be Causing Your Fatigue&nbsp;&nbsp;AOL.comVitamin B12 and folate deficiencies linked to chronic fatigue&nbsp;&nbsp;ScienceDailyThe Reason You're Exhausted May Show Up In This Rarely Measured Blood Test&nbsp;&nbsp;MindBodyGreenPoor nutrition and fatigue (IMAGE)&nbsp;&nbsp;EurekAlert!The Vitamin Deficiency Hiding Behind Your Fatigue: Health Science News 50+&nbsp;&nbsp;AGEIST",
       "sources": [
         {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR3prVTNzLVpVZTB3S0MzRlpYMEF5S1NiZVdBcnR0NmpyYzFST0FOSDJpWW9yZmhORl95S2w2TEtCREd3YThwVTJfYjJwTEdtNllRZDRFeGVKWmh1eGNFaWJyR2pLZFVMMVZWcWtYVTR6aFpvT25xOWw4bUxSSWpHN1VuakZJckxY?oc=5"
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWGlYdFZPY2xXSDhuRkpDSGVjN25RQVBpc3pKeGxqRTFZRFJfbm5RdjhCdWM3ZTNncWNIcnRJNkV1WW14WHFaV0RrQm5WUjZrR0RfQ19qd2JuSndiVDliZkJWOW9EYTNsS2RhQVdCTVU3eDBFNy1ud2M2NTBiRFVhVEVlemVPUFdSN0owcnUxVVZGNVE?oc=5"
         }
       ]
     },
     {
-      "id": "c235eaf9f29d",
-      "title": "GLP-1 drugs may have a beneficial effect across many types of cancer - Reuters",
-      "published": "2026-06-03T13:23:41+00:00",
-      "summary": "GLP-1 drugs may have a beneficial effect across many types of cancer&nbsp;&nbsp;ReutersThe science around GLP-1 drugs and cancer is suddenly getting a lot more interesting&nbsp;&nbsp;The Washington PostWeight-loss drugs can cut breast cancer risk by up to 30%, studies suggest&nbsp;&nbsp;The GuardianWeight-loss drugs linked to lower breast cancer rates. What to know&nbsp;&nbsp;USA TodayWomen on GLP-1 drugs 30 percent less likely to develop breast cancer&nbsp;&nbsp;The Independent",
+      "id": "cd247db63064",
+      "title": "“That innocent question hit me like a lightning bolt.\" Scientist's two-year-old son inspires discovery of new type of worker honeybee - BBC Wildlife Magazine",
+      "published": "2026-06-03T15:00:00+00:00",
+      "summary": "“That innocent question hit me like a lightning bolt.\" Scientist's two-year-old son inspires discovery of new type of worker honeybee&nbsp;&nbsp;BBC Wildlife MagazineQueen cell architecture shapes honey bee queen development&nbsp;&nbsp;NatureA diet of royal jelly isn’t the only thing that makes a queen bee&nbsp;&nbsp;AP NewsA secret to making a queen bee may lie in the wax around it&nbsp;&nbsp;Science NewsQueen bees emerge from special wax chambers&nbsp;&nbsp;Chemical & Engineering News",
       "sources": [
         {
-          "name": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYkZzMGxJak94ZWhHSVN1WmlCM3lZTUtrcjZ5R0xueGRDckszQW1LMmR2RWF6UTJkbkRDcG84Z0VsRlRQa1BvVWJOc05OZXdqMlNTc2NMZUctTzZKWUlUUjFoRFhyZDFFQWZXZzJNbDRETDVZX2hEUThsLUNmeUdKXzBKYkEzZ1ZLTWJueUk4MHhTTHl3YVFLcE1rTVJmUlhhTkxVWVNkRFM0R2dXeWFwOUdaRmZsTUdaTkdMNnlUM0ZQS3RDdzU1aUVWSGlMTWRr?oc=5"
+          "name": "BBC Wildlife Magazine",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQODltVmh5b1JQN1FJMDJURGlUOENGTzNuWmVBcnlxNTZRMkRRd2FLdXZjdmh5Y1NaVjZFTUM4Tm5RR0NlOEUtWnJfV2JnM0hmMWpQYzN4a1RDN3B0Vkh3RkFBMTBlRUFXaXlVQV84Q3k4N2pqVGlQQVFTWk9fbzFSX0s1cGhrWHVLRzIybFBFX1M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a0571e135eb8",
+      "title": "On Statins or Beta-Blockers? Watch for These Heart Medication Side Effects - AOL.com",
+      "published": "2026-06-03T14:14:53+00:00",
+      "summary": "On Statins or Beta-Blockers? Watch for These Heart Medication Side Effects&nbsp;&nbsp;AOL.com",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM1liTmFlWGtmeldsTjh3ZFpGek1rRWVyb1dnamVseTBSMzhjVWVlNUFoRklZTExtaEx0N2lmcGdXS3NGbndsS2tBdmk5OVZMTWtTa0ZjXzdJT29rNElmdnEzYWdrN2x1LXZhbUc4bFJGNDlqdHpxc1A1OTNrbG1aYi1Zcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fa6988a678cf",
+      "title": "Sin Nombre Hantavirus Strain Kills One In Arizona - Forbes",
+      "published": "2026-06-03T14:05:07+00:00",
+      "summary": "Sin Nombre Hantavirus Strain Kills One In Arizona&nbsp;&nbsp;ForbesFirst hantavirus death reported in Arizona in 2026&nbsp;&nbsp;AZ FamilyWestern Arizona resident dies from Hantavirus&nbsp;&nbsp;KSNVMohave County health officials report first hantavirus death in Kingman&nbsp;&nbsp;FOX5 VegasHantavirus ‘Sin Nombre’ death confirmed in northwest Arizona&nbsp;&nbsp;KLAS 8 News Now",
+      "sources": [
+        {
+          "name": "Forbes",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPelBEZUwyVk0xMXh2VENZNDF2UlNYMU45RjdNeGo3ZkhWNDhHZFFhOGRKU01CalZ2UmhUbWxUbUpIUWU0ckNiY3VSVElzXzBkSTZTZ3FDeG1CbloyQl91NktLNHVubnE2dHc4d1YwQzdETVdIc3Nscjl5NmhtdGkwNV82dkV6c2V1QlBESFFwRk1jUGlzeWpqUG1HekNVNm1jX1JVS3BrWllYYXFVZ3Bkb3g4bkxGdDJQblpVQmR5bm9zcllJeVhWaWRqRVUzcTg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1c8e543a9a1d",
+      "title": "I’ve Got End of Life Kidney Failure at 28, Here Are the Signs I Missed - Newsweek",
+      "published": "2026-06-03T14:00:00+00:00",
+      "summary": "I’ve Got End of Life Kidney Failure at 28, Here Are the Signs I Missed&nbsp;&nbsp;Newsweek",
+      "sources": [
+        {
+          "name": "Newsweek",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNXRnbE1Udm80b3FHRFJPcmhib205NUtBOTJPM0hEUnFHdHdWYlA3VlFGS2lYTW9ZbE03MmN4M29yZ2ctRE5pM1lxeE5uMFptY3FtaWJ0RWQwVUxGU3dzWXliYXE0S1JISzJwbDh4VlpWejB0ZldvSk9ERjlxNkZ3T1NaRlB2ckVETk5vaTJGdnlwUHkteGNUelYzVzAtX0JvWHdUVw?oc=5"
         }
       ]
     },
@@ -62,6 +158,30 @@
         {
           "name": "Yahoo",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTjZER1JYMWh2UmpFVlFhdUZDdFdESEkxZy1peHVFRUlKVmtFSU1zUjNncVlBRFJlWmRWM29FNTgyQW9wT1h2b0l5dkp5TDJIbU1mdzdRdlpoV1htYlg1M3k0aGNUc0djVXZRUTFNbDJCYUowbmhpeXVrSkZrWHI5cFl5dlBqa0VBQUs1TWdNSEVKRmhiN0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4413fbbace5b",
+      "title": "Google mosquito army: Scientists say 'we must take action' - DW.com",
+      "published": "2026-06-03T13:06:55+00:00",
+      "summary": "Google mosquito army: Scientists say 'we must take action'&nbsp;&nbsp;DW.comGoogle wants to release millions of mosquitoes in Florida to stop disease&nbsp;&nbsp;USA TodayDebugging: Google requests permission to release 32m mosquitoes in California and Florida&nbsp;&nbsp;The GuardianGoogle wants to release millions of mosquitoes in Florida to fight mosquitoes&nbsp;&nbsp;WINK NewsGoogle wants to set 64 million mosquitoes loose in California and Florida&nbsp;&nbsp;The Times",
+      "sources": [
+        {
+          "name": "DW.com",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTkNmR24xM0tEVmdXZDFQYjNfQ1I2VlZsdTJOWVBIeS0ybzNYRmo3RmwtMU05SzRZTk00VnlINTJRT1BHeVdkQnQzbDhMRGRRdTBoM1FHeXZjNGJKS0lJZURZWlY5WXQxdnlhMXhYbWJ6UzIwMUdOQnNXaG05UnR2dm54ZnhoZHhUOGZjVFN0YlhqV294T1FRdzFVNnZlRnBzYVRKTUNPMEduUVkzeUlF0gGvAUFVX3lxTE5ZdWU5ZGJwQ1N5S3RJdUoxaUM5UDFSOW13dmJEUkdhbE9FR0RteHVMWERRVGVXX0h0UFB3bzA5S2I0a1Iyek5WSkJ5cTc3amFubERCRE5QN1dPV09jakRHQWE3TkNRZmtiRzJGdHNGSndtOFFSbm5qal85VkJhSk1Uc09NMHRyNzhwZmliRG83OERReGM5R0VtM01xalgtN25meC04ekJucFZjVVJac3M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fba4ad15a2ca",
+      "title": "Cardiologist says eating 1 fruit is great for heart health and cutting risk of disease - The Mirror",
+      "published": "2026-06-03T12:48:00+00:00",
+      "summary": "Cardiologist says eating 1 fruit is great for heart health and cutting risk of disease&nbsp;&nbsp;The Mirror",
+      "sources": [
+        {
+          "name": "The Mirror",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT2VoSFJWa21xYnhXV1pIYWY1N0NHTXVEbUpSMU4xM3ZPMVF4RGFta0lDcVkwY1pxRE1RNVppczNQRWJfdDZwcHFXTnJBZXVtNmVMM2QtdEJXVkFIRHROTUVPdk1qWGo4UzVjVVNaWXFyV1lIWFEzQVBNUkpBTWdoN3FfZTLSAYoBQVVfeXFMUGl5a0twcGFuZUdGRWVtR3IwRlN2ZFlzQi1MX25WMXZGbEt3N1ZlOTNkT1U3ZHpoR25FLVZmaU9HV3B3LW43NHNTODhQeWROX1I3U09qMExNOUVrblVOT0J5VEtObThkWUVpOHpEZEpudU9hN2dHVG5BT2JaS0ZlTGNfVWdDaU5tYm53?oc=5"
         }
       ]
     },
@@ -81,7 +201,7 @@
       "id": "44959cfc0d31",
       "title": "2 scientists charged with bringing deactivated mpox virus into the US and lying to authorities - ABC7 Los Angeles",
       "published": "2026-06-03T12:11:51+00:00",
-      "summary": "2 scientists charged with bringing deactivated mpox virus into the US and lying to authorities&nbsp;&nbsp;ABC7 Los AngelesSee more headlines & perspectives on Google News",
+      "summary": "2 scientists charged with bringing deactivated mpox virus into the US and lying to authorities&nbsp;&nbsp;ABC7 Los AngelesNIH researchers charged with trying to smuggle monkeypox into US: DOJ&nbsp;&nbsp;NewsNationScientists charged with smuggling deactivated mpox into US on plane&nbsp;&nbsp;USA TodaySenior NIH scientist, research fellow charged with bringing deactivated mpox virus into U.S.&nbsp;&nbsp;statnews.comTwo researchers charged with allegedly trying to smuggle mpox through Detroit Metro",
       "sources": [
         {
           "name": "ABC7 Los Angeles",
@@ -90,10 +210,22 @@
       ]
     },
     {
+      "id": "91fe75284146",
+      "title": "Top ultra-processed food researchers call for sweeping policy change: ‘The system is rigged’ - statnews.com",
+      "published": "2026-06-03T09:04:09+00:00",
+      "summary": "Top ultra-processed food researchers call for sweeping policy change: ‘The system is rigged’&nbsp;&nbsp;statnews.comAmericans say they want strict regulations on ultraprocessed food. Will industry and regulators deliver?&nbsp;&nbsp;CNNBig tobacco uses cigarette playbook to help sell ultra-processed foods, journal reveals&nbsp;&nbsp;The GuardianNew campaign aims to combat ultra-processed food consumption in US&nbsp;&nbsp;10TVAmericans agree that ultraprocessed foods pose a major health hazard&nbs",
+      "sources": [
+        {
+          "name": "statnews.com",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVmttbm1QSG1rcS1lTHpJWVRWUkd6Q2kzaXB0RHFJRGx5UnBwSEZPVjRna1I2MGtXR016b0RZRDEtUW9sYTdUQWJ5WDkyX1BhRW01d2FQcC1mZTlYbGg5RmtaQVpNUk8xOWhiYXh3c0ZLbXpQQnZFam5WbXRHZ1pZbjVlQmhDcmdic3hwS0NZaVZpU3pOMHYzOUpB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "784c94603b1b",
       "title": "We finally know enough about how the brain breaks to focus on fixing it, experts say - NPR",
       "published": "2026-06-03T09:00:00+00:00",
-      "summary": "We finally know enough about how the brain breaks to focus on fixing it, experts say&nbsp;&nbsp;NPRThis scientist learned he has a devastating brain disease. He set out to cure it.&nbsp;&nbsp;The Washington PostAllen Institute sets sights on treatments for five brain diseases&nbsp;&nbsp;The TransmitterUpdated: Allen Institute launches $400M effort to turn brain atlas lessons into medicines&nbsp;&nbsp;Endpoints NewsEverythingALS and Vision 2030 Invest in Allen Institute Initiative to Accelerate A",
+      "summary": "We finally know enough about how the brain breaks to focus on fixing it, experts say&nbsp;&nbsp;NPRThis scientist learned he has a devastating brain disease. He set out to cure it.&nbsp;&nbsp;The Washington PostAllen Institute sets sights on treatments for five brain diseases&nbsp;&nbsp;The TransmitterBrain mapping effort searches for roots of Parkinson’s and other diseases&nbsp;&nbsp;Science | AAASUpdated: Allen Institute launches $400M effort to turn brain atlas lessons into medicines&nbsp;&nb",
       "sources": [
         {
           "name": "NPR",
@@ -114,10 +246,22 @@
       ]
     },
     {
+      "id": "ea673983b4d1",
+      "title": "Scientists discovered something surprising about french fries and diabetes - ScienceDaily",
+      "published": "2026-06-03T06:17:24+00:00",
+      "summary": "Scientists discovered something surprising about french fries and diabetes&nbsp;&nbsp;ScienceDaily",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1odVRqcjZMWmRNbTRxUm9Jb2NmdmhDVmxvdENqaHFYRnZ3ZkprSEVmRWdhNFZ3NXYtdVc5VFlLQm5fN3RlTlJ0LUpXRndhRGJSUWd4MzM4cWJzcnVxcTFka2UtNmlpUmh3NmhENnRlNA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "192cd6d36400",
       "title": "Can the rush for vaccines slow the latest Ebola outbreak? - Financial Times",
       "published": "2026-06-03T04:01:06+00:00",
-      "summary": "Can the rush for vaccines slow the latest Ebola outbreak?&nbsp;&nbsp;Financial TimesAs Ebola Spreads, Scientists Race to Find Vaccines and Treatments&nbsp;&nbsp;The New York TimesDr. Oz Says Airports Will Have Ebola ‘Testing Tools’ Before World Cup (Live Updates)&nbsp;&nbsp;ForbesCEPI fast-tracks three Bundibugyo ebolavirus vaccine candidates&nbsp;&nbsp;CEPIThree Ebola vaccines in development amid growing outbreak fears&nbsp;&nbsp;BBC",
+      "summary": "Can the rush for vaccines slow the latest Ebola outbreak?&nbsp;&nbsp;Financial TimesDr. Oz Says Airports Will Have Ebola ‘Testing Tools’ Before World Cup (Live Updates)&nbsp;&nbsp;ForbesAs Ebola Spreads, Scientists Race to Find Vaccines and Treatments&nbsp;&nbsp;The New York TimesInside the race to develop a new Ebola vaccine&nbsp;&nbsp;The TelegraphCEPI fast-tracks three Bundibugyo ebolavirus vaccine candidates&nbsp;&nbsp;CEPI",
       "sources": [
         {
           "name": "Financial Times",
@@ -126,14 +270,14 @@
       ]
     },
     {
-      "id": "9fc8468dbf85",
-      "title": "Why Google wants to release millions of mosquitoes in the US - DW",
-      "published": "2026-06-03T02:04:40+00:00",
-      "summary": "Why Google wants to release millions of mosquitoes in the US&nbsp;&nbsp;DWDebugging: Google requests permission to release 32m mosquitoes in California and Florida&nbsp;&nbsp;The GuardianGoogle applies for permit to release 32 million mosquitoes in Calif.&nbsp;&nbsp;SFGATEGoogle wants to release millions of mosquitoes in Florida to fight mosquitoes&nbsp;&nbsp;WINK NewsGoogle plans to release millions of treated mosquitoes in Florida to fight diseases&nbsp;&nbsp;WESH",
+      "id": "15b31f029dad",
+      "title": "Strength Training: 90 to 120 Minutes a Week May Help You Live Longer - Healthline",
+      "published": "2026-06-03T02:09:29+00:00",
+      "summary": "Strength Training: 90 to 120 Minutes a Week May Help You Live Longer&nbsp;&nbsp;HealthlineCan two hours of strength training a week reduce the risk of dying early?&nbsp;&nbsp;BBCThe 2 hours-a-week weights plan&nbsp;&nbsp;The TimesWeekly weight training 'cuts risk of early death' - study&nbsp;&nbsp;RTE.ieThe Best Exercise Combination for Longevity, According to a 30-Year Study&nbsp;&nbsp;SciTechDaily",
       "sources": [
         {
-          "name": "DW",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMmdYV1dwN2ptWUhoUmpiZEx6SUx1TFRrQXBwV0lPajZSdmZoM1pXS3lZM2R3Wl95dFFfcllfbnhjMHRla09WTjdkQ1VZSExyZkZCbDBYcUdTdWNjQzk5b1YySzZhTEt0RHJVS3FrSlZQdmZuS0xrMVRRZmJUR09kSUNPUHNmNTJBZ1YyQVJlTmp3aTFrazVkdtIBmAFBVV95cUxOZ1lubFk1ZWV1TzNvZ1VJNENINVNzekUwQl9JS1dqazBTQXd0dERMazRoS3NwLVREZUgtMGNsZlVIU25xTHBsWjV2QkJGeEp0WVdpMDlyM0tGdE9ZUVo0eFM4QWYyaWFpM1VLMjg0VnZvRTRzNjlOMENFNlhqaE5NZHdCZm5TVC1PZU0tRDgtTnh1YlFDaF9VWA?oc=5"
+          "name": "Healthline",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVmFGZG5sMi1vN0VTTHh1Z3BORGxYZEgyQjBKQ0ZPQ1lSdVV0dGdZbHE2TTFoMkVRaDRTY1AteURnYm1PeUpId1ZVLTN4SVg3UWxiTUIzTDdFTTZMdHQxVWJmWWhqb2tNZHpQZGJKMTBlOGowY0VqQzFRaTMweE9ZRmFya3ZpVmIxMzRVSHJRaXVubWNodnZ5OA?oc=5"
         }
       ]
     },
@@ -141,11 +285,35 @@
       "id": "cee5c5336e77",
       "title": "Five people have left hantavirus quarantine facility in Nebraska - The Washington Post",
       "published": "2026-06-03T01:44:00+00:00",
-      "summary": "Five people have left hantavirus quarantine facility in Nebraska&nbsp;&nbsp;The Washington PostHantavirus update: five cruise passengers leave Omaha quarantine unit&nbsp;&nbsp;WOWTState trooper guards and daily fever checks: Some hantavirus cruise ship passengers go home&nbsp;&nbsp;NBC NewsUS cruise passenger quarantining for hantavirus says he will remain in Nebraska for full 42 days&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosPatients exposed to hantavirus at Nebraska quarantine",
+      "summary": "Five people have left hantavirus quarantine facility in Nebraska&nbsp;&nbsp;The Washington PostBend doctor returns home to finish quarantine after hantavirus outbreak on cruise ship&nbsp;&nbsp;OregonLive.comState trooper guards and daily fever checks: Some hantavirus cruise ship passengers go home&nbsp;&nbsp;NBC News5 People Leave Hantavirus Quarantine in Omaha&nbsp;&nbsp;The New York TimesCruise ship passenger exposed to hantavirus now under quarantine in Oregon&nbsp;&nbsp;KPTV",
       "sources": [
         {
           "name": "The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTZYWkFwY0tJQmsxUnIyWG5OUW5CTkxoMFlFaTF4YU1IZmhHLUlmdVgzcHlrMGw0Z3RGYXY2dzBwNE0xeDczc2JHNTRQQXJVWExVZURWWTVzb0hReGVkWkZnOENxNk01QnUxRmN6RXJEYW5tLWVsY0JMVjV6djhldXBfcmZGbkhRblp3YkUzdnFZc1VqT1lSZ1Exd1ZOb1A5YzhNN1cyQ0g5YklQbEJlVA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dc9edccf5d28",
+      "title": "4 Nighttime Habits You Need to Start to Help Slow Aging, According to Doctors - EatingWell",
+      "published": "2026-06-03T01:00:00+00:00",
+      "summary": "4 Nighttime Habits You Need to Start to Help Slow Aging, According to Doctors&nbsp;&nbsp;EatingWellWhat’s the secret to getting the perfect amount of sleep? Don’t worry about it! | Emma Beddington&nbsp;&nbsp;The GuardianWhy 'good' sleep is about more than just the hours&nbsp;&nbsp;USA TodayScientists just bust the 8-hour myth after working out exactly how many hours of sleep you need per night&nbsp;&nbsp;supercarblondie.comStudy Links Too Little Sleep—and Too Much—With Faster Aging&nbsp;&nbsp;He",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5YVWNTSWNsYzl3eWVadDhVU1F1RGpqT2pyMVFxUXA4MkJSb0NNNkVWSWxCcUxuNjhSVG9LQ2hrWDNGWFJZcm5IN3FxQjVPTWY0ck9pUjVvSnJXU01UX2lzT2VCRnByc2NBMVpwUG5TU1JHVU1RQmZJUmExOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0c79888432cf",
+      "title": "Scientists raise alarm about effects of commonly prescribed sleeping pill - AOL.com",
+      "published": "2026-06-03T00:54:44+00:00",
+      "summary": "Scientists raise alarm about effects of commonly prescribed sleeping pill&nbsp;&nbsp;AOL.comScientists raise alarm about commonly prescribed sleeping pill&nbsp;&nbsp;The IndependentPopular Sleep Aid Can Leave Drivers Dangerously Impaired Next Morning, Study Reveals&nbsp;&nbsp;dailyvoice.comStudy: Common Sleep Drug May Leave Users Too Impaired To Drive The Next Morning&nbsp;&nbsp;StudyFindsAn unexpected danger of insomnia medication has been identified&nbsp;&nbsp;Baku.ws",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaGtxNWRXQUs3U2pCUDRkQzc2a1pMZ3MwajF4VnpONHJIV2pFcWxwVWpqaVQ4bVV1eVlNY2EzemUtSGFjRzEyS2F1aXFyS0JUNWh3QUpWWGRuRFBOS1hTNzRYRHNTUGhKdWtmdEZ1aDY3ZEhCMzhkV3NEREFKSEluajZXUGRHUDlWeS1N?oc=5"
         }
       ]
     },
@@ -170,6 +338,18 @@
         {
           "name": "Yahoo Lifestyle Singapore",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zeFVUdTdWYm10MVZhbG9vSlYwdGY4dnJpVElwS3lCSm90cGN1Rl8tcm11Z1I1UGp3clNmV0V0WWlBZ0NjZkRkcUZXRVBqZ0MtNHl6Q2tsTFpKNDk5LWpwd3RyRjAxeHNELV9LM0J0YTUxcHU4MzRB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "22895c7586d8",
+      "title": "Another B vitamin linked to worse outcomes for cancer - Baltimore Sun",
+      "published": "2026-06-02T20:00:48+00:00",
+      "summary": "Another B vitamin linked to worse outcomes for cancer&nbsp;&nbsp;Baltimore Sun",
+      "sources": [
+        {
+          "name": "Baltimore Sun",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QRWRwTzRwU0RmQm9SRTZEY0ZFaDRLNkhFT1ZEenJISTViWGJwTnk4cU5EQUxlQTAyejZlWWR3RnBEajI3TXI4X1VvcEZBSkllNmhiWjZhNXg2cHBvcnpDZTBSNjFCSXpySnNsdC1nejRnVGItRHl1b3dpelkzQQ?oc=5"
         }
       ]
     },
@@ -201,7 +381,7 @@
       "id": "aeef756b51b7",
       "title": "There’s Something Living Inside Fog, Scientists Find - Futurism",
       "published": "2026-06-02T19:04:50+00:00",
-      "summary": "There’s Something Living Inside Fog, Scientists Find&nbsp;&nbsp;FuturismFog Is a Habitat, Teeming With Life&nbsp;&nbsp;NewserFog Acts as a Natural Air Filter, Teeming with Live Bacteria&nbsp;&nbsp;inkorr.comOregon fog may contain millions of beneficial bacteria, study finds&nbsp;&nbsp;Arizona Daily SunFog teems with millions of bacteria. What about Florida's humid air?&nbsp;&nbsp;Yahoo",
+      "summary": "There’s Something Living Inside Fog, Scientists Find&nbsp;&nbsp;FuturismFog Is a Habitat, Teeming With Life&nbsp;&nbsp;NewserOregon fog may contain millions of beneficial bacteria, study finds&nbsp;&nbsp;Arizona Daily SunThe Fog Is Alive (and That’s a Good Thing)&nbsp;&nbsp;AOL.comFog teems with millions of bacteria. What about Florida's humid air?&nbsp;&nbsp;The Palm Beach Post",
       "sources": [
         {
           "name": "Futurism",
@@ -222,22 +402,10 @@
       ]
     },
     {
-      "id": "a6f71c6da250",
-      "title": "Birds Masturbate More Often Than We Thought and Scientists Say It’s Completely Normal - ZME Science",
-      "published": "2026-06-02T18:27:55+00:00",
-      "summary": "Birds Masturbate More Often Than We Thought and Scientists Say It’s Completely Normal&nbsp;&nbsp;ZME ScienceIt Turns Out Birds Masturbate Too, And Evolution May Explain Why&nbsp;&nbsp;ScienceAlertMasturbation among birds is ‘natural’ and should not be punished, say experts&nbsp;&nbsp;The GuardianMasturbation Among Birds Is Widespread, Natural, And Should Not Be Punished, Say Researchers&nbsp;&nbsp;IFLScienceBirds masturbate, and that’s perfectly normal&nbsp;&nbsp;The Conversation",
-      "sources": [
-        {
-          "name": "ZME Science",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNWs3ZU4ycDduTUN6MXBWdDJWNXBHTGcyNzZ1YUg3dkJVdWFMZHBzd2xzQVpmdTEtTExDQzdLY2NYNkk0Zm95b2R3eW41VmtnYkIzRG1zN21ULVlFQnMxaHI4NUN5aWF0LVVhSVpxa2l4VllKb1RWLVd1RUg4OFhGV1RwYWJIZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "56330e78cf6e",
       "title": "Plate tectonics shaped the Cradle of Civilization by merging two ancient rivers, study suggests - Phys.org",
       "published": "2026-06-02T18:20:11+00:00",
-      "summary": "Plate tectonics shaped the Cradle of Civilization by merging two ancient rivers, study suggests&nbsp;&nbsp;Phys.orgLate Miocene Euphrates River drained into a partially desiccated eastern Mediterranean&nbsp;&nbsp;NatureScientists may have just solved the Euphrates River’s mysterious origins&nbsp;&nbsp;National GeographicThe Origin of the Euphrates Discovered: The Great River of Mesopotamia Was Born 6 Million Years Ago and Flowed Into an Almost Dry Mediterranean&nbsp;&nbsp;La Brújula VerdeHow two",
+      "summary": "Plate tectonics shaped the Cradle of Civilization by merging two ancient rivers, study suggests&nbsp;&nbsp;Phys.orgScientists may have just solved the Euphrates River’s mysterious origins&nbsp;&nbsp;National GeographicLate Miocene Euphrates River drained into a partially desiccated eastern Mediterranean&nbsp;&nbsp;NatureScientists reveal the origin of the Euphrates — a river that fed the 'cradle of civilization'&nbsp;&nbsp;Live ScienceWe Finally Know How The Euphrates River Was Formed Between 3.",
       "sources": [
         {
           "name": "Phys.org",
@@ -258,22 +426,10 @@
       ]
     },
     {
-      "id": "92f2cfc707e6",
-      "title": "2026 Ebola outbreak: Maps track spread and global impact of virus - USA Today",
-      "published": "2026-06-02T17:57:00+00:00",
-      "summary": "2026 Ebola outbreak: Maps track spread and global impact of virus&nbsp;&nbsp;USA TodayOnly the Right Tests Can Stop This Ebola Outbreak. Congo Has Hardly Any.&nbsp;&nbsp;The New York TimesCurbing Congo’s Ebola outbreak is hampered by unknowns about the virus&nbsp;&nbsp;Science NewsArmstrong Williams: Ebola, Africa and the dignity of the forgotten | STAFF COMMENTARY&nbsp;&nbsp;Baltimore SunThe Ebola Outbreak Is a Test of International Health Cooperation&nbsp;&nbsp;Chicago Council on Global Affair",
-      "sources": [
-        {
-          "name": "USA Today",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ1NueXduZVBTQnFsNlMzYVJvWTYyR0FLUHRTN24ybXBpbjRrWGp4OGhBOFp1ZllUM29iVlRVR191bmNsOEExbzNLSHdGbVdfTHRmTUdTWW44Y0l4c1lNYy1Cd2J5d2I5MktIM2Z5NkZUYVhrWkZQM3ZlWGpaQ05JTi1OYlVfTHhxamg1RVpLX3gtQVV3c3hQeFFFeW5KdWo1REFSeQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "00f05643ad76",
       "title": "Breakthrough drug nearly doubles survival with advanced pancreatic cancer – an oncologist explains how daraxonrasib overcame an ‘undruggable’ disease - The Conversation",
       "published": "2026-06-02T17:39:10+00:00",
-      "summary": "Breakthrough drug nearly doubles survival with advanced pancreatic cancer – an oncologist explains how daraxonrasib overcame an ‘undruggable’ disease&nbsp;&nbsp;The ConversationLandmark pancreatic cancer treatment paves way for targeting other tricky tumors&nbsp;&nbsp;Scientific American‘Landmark’ pancreatic cancer drug keeps patients alive for twice as long&nbsp;&nbsp;The Washington PostThis Pancreatic Cancer Drug Is So Good, It Got a Standing Ovation&nbsp;&nbsp;Bloomberg.comA turning point for",
+      "summary": "Breakthrough drug nearly doubles survival with advanced pancreatic cancer – an oncologist explains how daraxonrasib overcame an ‘undruggable’ disease&nbsp;&nbsp;The Conversation‘Landmark’ pancreatic cancer drug keeps patients alive for twice as long&nbsp;&nbsp;The Washington PostPromising new treatment for pancreatic cancer doubles survival rates&nbsp;&nbsp;PBSRAS Drug Nearly Doubles Survival in Mets Pancreatic Cancer&nbsp;&nbsp;MedscapeA turning point for pancreatic cancer patients&nbsp;&nbsp;s",
       "sources": [
         {
           "name": "The Conversation",
@@ -357,7 +513,7 @@
       "id": "8041e427b4c3",
       "title": "NASA Testing Wastewater Treatment Facility for Future Moon Base - NASA (.gov)",
       "published": "2026-06-02T14:31:18+00:00",
-      "summary": "NASA Testing Wastewater Treatment Facility for Future Moon Base&nbsp;&nbsp;NASA (.gov)The ‘giant leap’ for mankind: Inside NASA’s bold plan to build a Lunar City&nbsp;&nbsp;The Times of IndiaRovers, regolith, robots: The blueprint for the moon&nbsp;&nbsp;Phys.orgArtemis moon base will cover 'hundreds of square miles' with hopping drones and new lunar rovers, NASA says&nbsp;&nbsp;SpaceNasa unveils next steps to build permanent Moon base&nbsp;&nbsp;BBC",
+      "summary": "NASA Testing Wastewater Treatment Facility for Future Moon Base&nbsp;&nbsp;NASA (.gov)",
       "sources": [
         {
           "name": "NASA (.gov)",
@@ -369,11 +525,23 @@
       "id": "7956269bef95",
       "title": "Goodbye CPAP? New Pill Shows Major Promise for Sleep Apnea - SciTechDaily",
       "published": "2026-06-02T14:27:19+00:00",
-      "summary": "Goodbye CPAP? New Pill Shows Major Promise for Sleep Apnea&nbsp;&nbsp;SciTechDailyNightly Sleep Apnea Pill Fast-Tracked For Approval After Latest Trial Success&nbsp;&nbsp;ScienceAlertAD109: A Potential Oral Agent for OSA&nbsp;&nbsp;Docwire News‘Holy grail’ sleep apnea pill can cut episodes by more than 50%&nbsp;&nbsp;New York PostPill for Obstructive Sleep Apnea Shows Potential&nbsp;&nbsp;Medscape",
+      "summary": "Goodbye CPAP? New Pill Shows Major Promise for Sleep Apnea&nbsp;&nbsp;SciTechDailyPromising results in sleep apnea pill could eliminate patient need for uncomfortable CPAP machine&nbsp;&nbsp;The IndependentAn Experimental Pill Cut Sleep Apnea Symptoms By 44%—Why Are Doctors So Skeptical?&nbsp;&nbsp;Men's HealthSnorers Rejoice! There May Soon Be a Sleep Apnea Remedy That Doesn't Involve Strapping a CPAP to Your Face&nbsp;&nbsp;VICEAD109: A Potential Oral Agent for OSA&nbsp;&nbsp;Docwire News",
       "sources": [
         {
           "name": "SciTechDaily",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSWsxajFXRHdEalU2WDRUYkNLVkdOYnlLTzhaM0d2M3dCTTE2MUhmRGVUVGVDeVVGR0JOWW5RMkZoMUl6c2otLUx6dDJibF84cG00YVJ3RU9BZnJLR2xvdW9obFpZVC1sYnBTanBTLTBFTzVKVVU5RGtTNFVVZldRZlI2NGJmTzRuUndZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4228f5b4c2ac",
+      "title": "Scientists discover gut bacteria that may help protect against autism and ADHD - ScienceDaily",
+      "published": "2026-06-02T14:20:44+00:00",
+      "summary": "Scientists discover gut bacteria that may help protect against autism and ADHD&nbsp;&nbsp;ScienceDailyThe gut-brain bombshell: How bacteria in babies may hold the key to preventing Autism, ADHD&nbsp;&nbsp;The Economic TimesA baby’s gut health before age 1 shapes future autism and ADHD risk, finds study&nbsp;&nbsp;Moneycontrol.com",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yb2hkR2xmR2pzUk03cE52M0ZuNVV0MlBxY1dXSWMwTm1XZUJQVGNPUC16dGNIZWwwZmdBQVBIblpXUHozQjRhTFAzcG5sWGRETkd6SXA1RW1fY0pmcW90SVNUNndXNU9aUDBhU21Wbw?oc=5"
         }
       ]
     },
@@ -398,6 +566,18 @@
         {
           "name": "Medical Xpress",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUlWdDBNaFc2cXJMNTVmeUZzSTlMWkRHWTVUSXJ2WENMVU1mWWMySlllbVlpbEh4WUtIMFhSVm8wR3pxeUhUbDJXUkpXRzFReG9GRDBrUWg1ejQ5NUdGX0kxbzdiNHJsUTlIZHhGbTRpc3NIalhlc3JOWFowN3plaGhmbDZsa0Za?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cef6b5176fe8",
+      "title": "For satellites as small as a briefcase, getting around in space just got a whole lot easier - Phys.org",
+      "published": "2026-06-02T14:00:01+00:00",
+      "summary": "For satellites as small as a briefcase, getting around in space just got a whole lot easier&nbsp;&nbsp;Phys.orgGreen Thrusters (IMAGE)&nbsp;&nbsp;EurekAlert!MIT Researchers Develop Dual-Mode Propulsion System for Small Satellites&nbsp;&nbsp;geneonline.comMIT’s hybrid thruster gives briefcase-sized satellites greater orbital agility&nbsp;&nbsp;Interesting EngineeringTiny satellites set to become faster and more fuel-efficient with innovative propulsion system&nbsp;&nbsp;Bioengineer.org",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55cEo5ektTSGZPc2RlXzA0ZVhLM2NTMl9wZVMzNDJTVmVzRldvNFpyaUpfOHhRckh6ZVd1a2x0c2FBUjZ2RFR5eHNQYmtqZFhwWjJ1b0hoTTBOZ0ZwaVk1c2VvaTE3TGdEcFNTVWx2cTlhRGNHWlZFMzdwOA?oc=5"
         }
       ]
     },
@@ -438,10 +618,22 @@
       ]
     },
     {
+      "id": "6c472696e0a5",
+      "title": "How embryos shape their limbs: a key discovery of “genetic brakes” - Université de Montréal",
+      "published": "2026-06-02T10:24:55+00:00",
+      "summary": "How embryos shape their limbs: a key discovery of “genetic brakes”&nbsp;&nbsp;Université de Montréal",
+      "sources": [
+        {
+          "name": "Université de Montréal",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS05HYkxfMGFMc01TekhUUDRVYU1rLUpFNkZLTGl4bzB4bmc2R3B3OHBTdkdJUUZEb1pDN2pXYlQyU1JjcWcyamxYVnZTMGFTQ2phMnZFcHJ4WUVkN0F1NnlZeDY5MkVpandvMmpPTWh6dEwtQTZabXBIdWV6T1ozZFdXRlI0NGNUcHhJQllKUWNBRGt3dFQtTWFnTlcwdmNiX21CZV9HdEhjUkhFdHFCZGZjbDdKUG8?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ecbb43ba470f",
       "title": "Hospitals See Diseases Resurge as Vaccinations Decline - The New York Times",
       "published": "2026-06-02T09:00:12+00:00",
-      "summary": "Hospitals See Diseases Resurge as Vaccinations Decline&nbsp;&nbsp;The New York TimesAmid Rise in Whooping Cough Cases, State-Level Vaccination Coverage Remains Below Targets&nbsp;&nbsp;Johns Hopkins Bloomberg School of Public HealthMisinformation threatens measles elimination status, overall health. Can KY alter course?&nbsp;&nbsp;timesleader.netDoctors Reveal Deadly Cost as Trump Fuels Vaccine Distrust&nbsp;&nbsp;The Daily BeastRFK Jr., Meet Consequences: ‘Hospitals See Diseases Resurge as Vacc",
+      "summary": "Hospitals See Diseases Resurge as Vaccinations Decline&nbsp;&nbsp;The New York TimesUS nears 2,000 measles cases as scientists note brain inflammation, pneumonia in hospital cases&nbsp;&nbsp;CIDRAPAmid Rise in Whooping Cough Cases, State-Level Vaccination Coverage Remains Below Targets&nbsp;&nbsp;Johns Hopkins Bloomberg School of Public HealthDoctors Reveal Deadly Cost as Trump Fuels Vaccine Distrust&nbsp;&nbsp;The Daily BeastRFK Jr., Meet Consequences: ‘Hospitals See Diseases Resurge as Vaccina",
       "sources": [
         {
           "name": "The New York Times",
@@ -462,22 +654,10 @@
       ]
     },
     {
-      "id": "c1a1f5c9facc",
-      "title": "Scientists took water samples from a pier in California – and made a surprising discovery about a \"ruthless predator\" - BBC Wildlife Magazine",
-      "published": "2026-06-02T08:49:26+00:00",
-      "summary": "Scientists took water samples from a pier in California – and made a surprising discovery about a \"ruthless predator\"&nbsp;&nbsp;BBC Wildlife Magazine",
-      "sources": [
-        {
-          "name": "BBC Wildlife Magazine",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY1U5RUM0OUd4VGpTamZxekF3Slh2SWwxUWR4YjFDY1A1Q3BaaVhBM0tQa2xpU2pvN0JNME1RZFQ1OUtNeHlfMHYtS3FJRHBlUGhNRVQ5dDJrUnVJNGVBRnpFa04wQmI0X244UENoV0RrMWR1bTVNVVVyZzVXVlJCWGJscHQ3Sjg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "cf8db2b339d4",
       "title": "Webb Telescope snaps interstellar comet – proves it's like nothing we've ever seen in our own Solar System - BBC Sky at Night Magazine",
       "published": "2026-06-02T08:39:52+00:00",
-      "summary": "Webb Telescope snaps interstellar comet – proves it's like nothing we've ever seen in our own Solar System&nbsp;&nbsp;BBC Sky at Night MagazineDid 3I/ATLAS Deliver Extrasolar Life to Our Backyard?&nbsp;&nbsp;Avi Loeb – MediumNASA’s Webb Detects Methane on Interstellar Comet 3I/ATLAS&nbsp;&nbsp;NASA Science (.gov)3I/ATLAS is releasing methane, scientists discover — Harvard scientist thinks it's further evidence of aliens&nbsp;&nbsp;New York PostWebb Detects Methane on Interstellar Comet 3I/ATLAS&",
+      "summary": "Webb Telescope snaps interstellar comet – proves it's like nothing we've ever seen in our own Solar System&nbsp;&nbsp;BBC Sky at Night MagazineWebb sniffs methane from interstellar Comet 3I/ATLAS&nbsp;&nbsp;European Space AgencyDid 3I/ATLAS Deliver Extrasolar Life to Our Backyard?&nbsp;&nbsp;Avi Loeb – MediumRadio scans find no alien tech from the latest interstellar comet&nbsp;&nbsp;ClickOnDetroit | WDIV Local 43I/ATLAS is releasing methane, scientists discover — Harvard scientist thinks it's f",
       "sources": [
         {
           "name": "BBC Sky at Night Magazine",
@@ -534,30 +714,6 @@
       ]
     },
     {
-      "id": "bdc277659572",
-      "title": "One fat helped pancreatic cancer grow while another cut disease in half - ScienceDaily",
-      "published": "2026-06-02T05:57:04+00:00",
-      "summary": "One fat helped pancreatic cancer grow while another cut disease in half&nbsp;&nbsp;ScienceDaily",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pdVJrTUlza0FTUGtEZWpiZHBkTXZVVzA3alZ5bVdvM1V5ZkJoWUpSTk9iSXN5QmZ5LUhfWjJxQW45NW5UT0hlQlJ6dlJNYnpKMGVkUmtIXzlHRHFyOUVpYllyTHZfQmhlbkwxQ0NmQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e38a69f0dd48",
-      "title": "The (heartbreaking) truth about what happens to seniors when family stops visiting - AOL.com",
-      "published": "2026-06-02T01:05:41+00:00",
-      "summary": "The (heartbreaking) truth about what happens to seniors when family stops visiting&nbsp;&nbsp;AOL.com",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNTBmOTY5TElSdGtkT29QZFZER0Utc1FxaHNKMVF3ZTFwWmZGXzJzdGtvUXo3QnNETkFXTEwxbzEyejFtVGs2bmRmNE54X1VaNmItOXlxQ1RLZVBFY3hUMzNHd1FWWGNGbFdtdm5yMC1fVGhQb0pXTi1oVDRWNW5iaGwwbnpwVjRuMm9OZDZvSQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fdfdaa11e941",
       "title": "Hormone therapy use for menopause declines despite proven benefits, study finds - Medical Xpress",
       "published": "2026-06-02T00:40:01+00:00",
@@ -566,30 +722,6 @@
         {
           "name": "Medical Xpress",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZWs2N3lrRGg4MWdOSVJYTUs3VjNpUHJyLVdOaTBkTlhjYTZkUUNycTdvY0xYYXU4SnhoTTRDOWdVOUV3UUZZekpfM215WHljTEdOQXhUZ0QzZ0ltVEJFU19rR1VFRmV4cUZIemRzMUo5WXdRSjlvU0p0RUZZWGc0TXpSd096U3NCXy1JR25B?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "87aa1b96f394",
-      "title": "Basil and fennel compound may build up dangerous DNA damage in vulnerable people - Medical Xpress",
-      "published": "2026-06-01T23:20:01+00:00",
-      "summary": "Basil and fennel compound may build up dangerous DNA damage in vulnerable people&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSTM2dEdvU0NCa1ZldkdMUmdoUmV2ak45NHZFaHprOXozSkgyZ3hHcU5VWTFWb0gtYUdrM0FweFYzV2laZVBDUXZ4UmM0b25mNWJyUF9HX1JReDFSSmxTMTU0UURLS01HOXE5ZmdUeFdUUTY5OC1aMUoxR2F5aWhFTElPY2NFQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b2c12e9b0b39",
-      "title": "Mild winter means more ticks. Here's how to avoid them - KSL.com",
-      "published": "2026-06-01T23:04:39+00:00",
-      "summary": "Mild winter means more ticks. Here's how to avoid them&nbsp;&nbsp;KSL.comHomeowners in These States Need To Be Extra-Concerned About Ticks This Year&nbsp;&nbsp;Realtor.comTick bite ER visits hit highest seasonal level in years as doctors warn of disease surge&nbsp;&nbsp;Fox NewsCDC reports increase in tick bite ER visits; Oklahoma experts stress prevention&nbsp;&nbsp;News On 6Family picnics and tick awareness in WNY&nbsp;&nbsp;Post Journal",
-      "sources": [
-        {
-          "name": "KSL.com",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYkl1WmNLeExLZVc2RkJxa28xZzljVGhTN0lSaUMyNURLQnljcXpDQnBzdld5Y092Mmw0VUVWMTFJbHczT2Q0emkwSkZENFFmckQ3dFFMZVFmMDV1bi1oTzJ3Z1otNDMyS1RQVGo5OHpGT004ZzFvRnVFalZQcnBJcm1PVXdqLWxUWnp4Nm9VNlYwZTg?oc=5"
         }
       ]
     },
@@ -609,83 +741,11 @@
       "id": "01427f3b94c7",
       "title": "Two possible Ebola cases in Brazil ruled out as patients test negative - BBC",
       "published": "2026-06-01T21:40:19+00:00",
-      "summary": "Two possible Ebola cases in Brazil ruled out as patients test negative&nbsp;&nbsp;BBCTravelers To Brazil, Italy Spark Fears Of Ebola Spread (Live Updates)&nbsp;&nbsp;ForbesDeadly Eye-Bleeding Virus Spreads to New Continent&nbsp;&nbsp;The Daily BeastBrazil monitors two patients for Ebola amid fears of spread from Africa&nbsp;&nbsp;The TelegraphBrazil and Italy rule out Ebola in previously suspected cases amid scramble to contain outbreak&nbsp;&nbsp;NBC News",
+      "summary": "Two possible Ebola cases in Brazil ruled out as patients test negative&nbsp;&nbsp;BBCTravelers To Brazil, Italy Spark Fears Of Ebola Spread (Live Updates)&nbsp;&nbsp;ForbesBrazil monitors two patients for possible Ebola infection&nbsp;&nbsp;BBCBrazil and Italy rule out Ebola in previously suspected cases amid scramble to contain outbreak&nbsp;&nbsp;NBC NewsDeadly Eye-Bleeding Virus Spreads to New Continent&nbsp;&nbsp;The Daily Beast",
       "sources": [
         {
           "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpd3ZhMm42ZXNSdVVWSEFXTGRKeS12bXU2YjFWSlRERENXZ04tQ0xobnFzeUc0TC13aVRMckhfVjU1dEZFQXVCNDExc2oyMEFXLThUaTlubC1Ndw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "921635758403",
-      "title": "Urgent warning as deadly West Nile virus is discovered in California - New York Post",
-      "published": "2026-06-01T20:01:00+00:00",
-      "summary": "Urgent warning as deadly West Nile virus is discovered in California&nbsp;&nbsp;New York PostFirst West Nile virus-positive mosquitoes of year detected in Orange County&nbsp;&nbsp;NBC Los AngelesAnti-Mosquito Spraying Planned In The Desert&nbsp;&nbsp;PatchFirst West Nile virus positive mosquitoes found in Evanston this year&nbsp;&nbsp;Evanston RoundTableWest Nile detected near Coachella Valley for first time this year&nbsp;&nbsp;The Desert Sun",
-      "sources": [
-        {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRTFDWllMT0IxRHRTa3BHNkZCRXFYQ3N4b0I1U21sRm82c1RBZjNJZ3NndW8ybWJULV91aG9NVWVpc0xWVEVDaExnTDVfTFNTYzRCMGxTdy1RN0swQm52d3BzRnBXcWdycV9fcEdLc2lHVkQwZzdlem1RY0VzbmVoeU9BSFduY3doQXpvQXVJbVFGNTNpN2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "282fdec24156",
-      "title": "Astrobiology's Looming Statistical Crisis - Universe Today",
-      "published": "2026-06-01T19:49:00+00:00",
-      "summary": "Astrobiology's Looming Statistical Crisis&nbsp;&nbsp;Universe TodayThe Search for Extraterrestrial Life May Be Flawed&nbsp;&nbsp;Time MagazineHave We Been Missing Signs Of Extraterrestrial Life? Researchers Warn Of ‘False Negatives’ In The Search For Biosignatures In Space&nbsp;&nbsp;Eurasia ReviewAre We Overlooking Signs of Extraterrestrial Life? A Study Warns of “False Negatives” in Biosignature Detection&nbsp;&nbsp;La Brújula Verde",
-      "sources": [
-        {
-          "name": "Universe Today",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRVBRTFdOVXRkYmczcnpvMEs4dzNMazFTRzk0ZDhUZUxZWFNfZ1VVcUo3c0cwUkR0MThoUG5SbWlhbDBWV3RibUNyRTZYX0NscmY1MHBwX1BBbS1mU0MwQm01MWdTTE5FZ3o1RUpLT3dURFZFNTFxdnhJU0s1U2Jybmx0UzdIdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c7c4be6391d0",
-      "title": "Dermatologists and Scientists Agree that These Are the Only Proven Ways to Build Collagen and Fight Wrinkles - Women's Health",
-      "published": "2026-06-01T19:41:00+00:00",
-      "summary": "Dermatologists and Scientists Agree that These Are the Only Proven Ways to Build Collagen and Fight Wrinkles&nbsp;&nbsp;Women's HealthThe 8 Best Skin-Care Ingredients That Support Collagen&nbsp;&nbsp;VogueCan Collagen Supplements Improve Skin and Joint Health? Experts Explain&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness InformationCollagen vs. Protein Powder for Skin — Here’s Which One Your Routine Is Actually Missing&nbsp;&nbsp;YahooYes, you can increase collagen production wit",
-      "sources": [
-        {
-          "name": "Women's Health",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSEdidy1ndFZHQXlaeVRBVUFfdW5QTW91OWdQT01laEctMnFXVUt4RjJleTJxQTZzWXVZb2RoOEtZajRqT2pQZUVUZGhMNHlhTDZfT2VjQTRpVEN2TGROcWRuY3dJcHg0UWJwS3E0dGEzR1U0ejZFa0xWZGVlZmo1QnNJM0w0X09v?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0810f228b015",
-      "title": "Outdated Boomer Hygiene Advice Millennials Absolutely Can't Stand - Health Digest",
-      "published": "2026-06-01T19:30:00+00:00",
-      "summary": "Outdated Boomer Hygiene Advice Millennials Absolutely Can't Stand&nbsp;&nbsp;Health Digest",
-      "sources": [
-        {
-          "name": "Health Digest",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXVzNDhJUUpUR3NCbFM1bjZDMUtVX3o2eHpGRDVkbXF1ODV6aWhGRnFXSjFuVng4MXRHaDNVdk9yNmN1Yi0zSFF6aVRfdWZiTVBaQTJSRnBnOWZaR09PQW42YVJOX2RNWFl0RFNHZ2QzZnpHZmVTQmllcHNwbWRjZWJwSWUzUjR6dXVLMkltNjZjcnBLLXlPQXRvelhEUlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bf87fb5316cd",
-      "title": "Column | These lifestyle changes may help you live longer after a cancer diagnosis - The Washington Post",
-      "published": "2026-06-01T17:00:00+00:00",
-      "summary": "Column | These lifestyle changes may help you live longer after a cancer diagnosis&nbsp;&nbsp;The Washington PostPotential for risk reduction of chronic health conditions through lifestyle in childhood cancer survivors&nbsp;&nbsp;NatureHealthy lifestyles reduce cardiovascular risks for childhood cancer survivors&nbsp;&nbsp;News-MedicalHealthy lifestyle lowers risk of dying after cancer diagnosis&nbsp;&nbsp;Healthcare Management MagazineFive lifestyle habits that transform life after a cancer dia",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcjI4d21Jd0lKZnZHUl9DaERNZkxOUzVqN0paMTNiSUs5cXJUYWtsaEFfdXlNMXZCcVFRVHBQNEJlS21XODNtLUtCQkVBWWNYbUVub25ndWFKcU1Ic1FjYlZEd2R3RU9TTmlPSFRXM1BMUFQxNERPVnBHV2xGLWdoUS1HLWg5NjlNNWx3Q3Y0TWdXeVUxdGV0UnZ6aldRNm5hYWphNlZRdmltUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cfa0eaab5186",
-      "title": "‘I was getting ready to say goodbye’: cancer patient’s hope after smart drug success | Cancer research - The Guardian",
-      "published": "2026-06-01T17:00:00+00:00",
-      "summary": "‘I was getting ready to say goodbye’: cancer patient’s hope after smart drug success | Cancer research&nbsp;&nbsp;The GuardianSmart drug that strips cancer cells of ‘invisibility cloak’ can shrink tumours by 30%, trial shows&nbsp;&nbsp;The GuardianNew cancer shot dissolves whole tumors in patients&nbsp;&nbsp;The Jerusalem Post‘Wonder pill’ shrinks tumours in tests on six cancer types&nbsp;&nbsp;The TimesCancer jab can eradicate entire tumours in patients, trial shows&nbsp;&nbsp;The Guardian",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcUlVcGw4d05qWDlHVFBjT2wzQWpnSkUzMUZ3dkNqOWlKNXduWnJvN3FVUTd6SHBHM29DOXAweGY5YmdMOXJQaElkVHZGTG9BVmRQeF8yamQ2RmFTR182Y2FNQnVwcmE3empVSDdWT2ZaVU9rbEdaZzFQWE9tZGFGRk5lTm9ycFpQSi1xYU95VlhmWHppNjB4bU1sQjZaSk0?oc=5"
         }
       ]
     }

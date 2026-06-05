@@ -1,15 +1,63 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-06-05T14:56:50.721153+00:00",
-  "total_fetched": 140,
-  "unique_count": 140,
-  "health_related_count": 70,
+  "fetched_at": "2026-06-05T19:58:48.144858+00:00",
+  "total_fetched": 133,
+  "unique_count": 133,
+  "health_related_count": 67,
   "news": [
+    {
+      "id": "2d26c5a1b4ab",
+      "title": "Three studies used by RFK Jr and allies to justify controversial vaccine policy changes facing new scrutiny - The Guardian",
+      "published": "2026-06-05T17:28:00+00:00",
+      "summary": "Three studies used by RFK Jr and allies to justify controversial vaccine policy changes facing new scrutiny&nbsp;&nbsp;The GuardianThe FDA blocks publication of vaccine safety studies&nbsp;&nbsp;dailyuw.com3 of RFK Jr.’s Favorite Anti-Vax Studies Are Being Retracted or Scrutinized&nbsp;&nbsp;TruthoutFDA Suppressed Vaccine Safety Research: Senate Investigates&nbsp;&nbsp;Legis1'Three studies used by RFK Jr and allies to justify controversial vaccine policy changes facing new scrutiny' : Guardian&n",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tWHFKU3BOelBfRXNxUlowN0FCSlZ4SWdjQnJmNVgzYlNPUHltTWV4bXktZThHb0Uzclk2UF9HMTNhZllkNUlxYTA4MWZGN0wxRVBTbkNBVEZmMVM0VFVLNVFZSXhYUFFyb1ItTWlSRG4tQWtMcWNHWUFR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "983b41766496",
+      "title": "Researchers Are Using AI to Create Vaccines—and It’s Working - Gizmodo",
+      "published": "2026-06-05T16:15:13+00:00",
+      "summary": "Researchers Are Using AI to Create Vaccines—and It’s Working&nbsp;&nbsp;Gizmodo'World-first' vaccine designed by artificial intelligence&nbsp;&nbsp;BBCAI ‘super-antigen’ vaccine could protect against whole families of viruses&nbsp;&nbsp;The IndependentUniversal Sarbeco coronavirus vaccine proves safe in first human trial&nbsp;&nbsp;News-MedicalNew AI-designed vaccine could prevent pandemics and save millions of lives, scientists say&nbsp;&nbsp;Sky News",
+      "sources": [
+        {
+          "name": "Gizmodo",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM3lmOVhOejFhT0NaamFucHo0Z0hnc2tJSDFWY09xaFA0ejdMZmVQRUJ0OTBrRS1IN1ZIWFB1eG1CZUdpaXhuS3hfY2F3RDJQakRHTUxOY3dRLXQzZ0JYMVpNU2R2ejNEakptTzRPQkU0ZzNzbHc4d0pGYVgzNVNZekhtZkl4eWwwSlE0aVFNY1Z2eXhm?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "71810bf32180",
+      "title": "Ebola figures appear to offer hope as case numbers drop in DR Congo but it's not that simple - BBC",
+      "published": "2026-06-05T15:30:08+00:00",
+      "summary": "Ebola figures appear to offer hope as case numbers drop in DR Congo but it's not that simple&nbsp;&nbsp;BBCInside the Ebola Epicenter, the Virus Rages With Little to Stop It&nbsp;&nbsp;The New York TimesAs Ebola spreads in Congo, a radio station tries to stop health misinformation&nbsp;&nbsp;AP NewsWHO launches $518 million plan to curb Africa Ebola outbreak&nbsp;&nbsp;ReutersIn Congo, doctors face Ebola with little protection: \"We live with fear\"&nbsp;&nbsp;CBS News",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YWHQ4bXpfWWhoZmpxc3V3X3VxNWxIS294Z29YUHMxek9qdk5EbW50YzNxbm9TQmN4OTdzcncyanFpcEIwdzIwRjJ4Sl9yZU5qM005RmVfVXJpUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d7bdf2f7a88a",
+      "title": "This Vitamin May Lower Your Stroke Risk by 17%, According to Research - EatingWell",
+      "published": "2026-06-05T13:00:00+00:00",
+      "summary": "This Vitamin May Lower Your Stroke Risk by 17%, According to Research&nbsp;&nbsp;EatingWell",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoVGxZckZEWWZRQTFEcHZjLUFTZ0pnamF1MXZSWlE0dXJUVHcyaTFZM1RSTWcxcHZvb3Rmd1ZXUmR2c1pWR2l4NFZ3YXROYVYzcFVtMndmSDR6RVFhRFBmczBNOEZ4OEhtN1ZBSzNqNE1NNG8?oc=5"
+        }
+      ]
+    },
     {
       "id": "329bfc58779c",
       "title": "Innovation in medicine is having a breakthrough moment - Axios",
-      "published": "2026-06-05T11:32:29+00:00",
-      "summary": "Innovation in medicine is having a breakthrough moment&nbsp;&nbsp;Axios'It's still working': More are living with cancer as era of targeted drugs takes hold&nbsp;&nbsp;ReutersCancer breakthrough bonanza: Does string of advances signal turning point? - The Debate&nbsp;&nbsp;France 24Cancer breakthroughs offer greater hope for patients&nbsp;&nbsp;Healthcare TodayCancer is now a story of the good, the bad and the ugly – but also hope | Devi Sridhar&nbsp;&nbsp;The Guardian",
+      "published": "2026-06-05T12:52:26+00:00",
+      "summary": "Innovation in medicine is having a breakthrough moment&nbsp;&nbsp;AxiosBreakthrough Medicines for Cancer and Obesity Are Unveiled&nbsp;&nbsp;Bloomberg.comFrom Smart Cancer Drugs to Retatrutide: Medical Breakthroughs Decoded | Vantage on Firstpost&nbsp;&nbsp;Firstpost",
       "sources": [
         {
           "name": "Axios",
@@ -33,7 +81,7 @@
       "id": "a36909712f00",
       "title": "The World Cup vs. bugs, germs and heat: Here's the game plan - NPR",
       "published": "2026-06-05T10:59:43+00:00",
-      "summary": "The World Cup vs. bugs, germs and heat: Here's the game plan&nbsp;&nbsp;NPRAs the largest World Cup ever kicks off, health officials are focused on more than Ebola&nbsp;&nbsp;CNBCLos Angeles County health department asks providers to watch for infectious diseases during World Cup&nbsp;&nbsp;CIDRAPHealth officials concerned about potential for illness to spread during FIFA&nbsp;&nbsp;The Globe and MailKMBC: Health Experts Discuss World Cup Health Risks in Kansas City&nbsp;&nbsp;Saint Luke's",
+      "summary": "The World Cup vs. bugs, germs and heat: Here's the game plan&nbsp;&nbsp;NPRWhy measles and flu — not Ebola — are front of mind for doctors ahead of the World Cup&nbsp;&nbsp;NBC NewsAs the largest World Cup ever kicks off, health officials are focused on more than Ebola&nbsp;&nbsp;CNBCFIFA World Cup: Top Health Risks and How to Protect Yourself&nbsp;&nbsp;HealthlineLos Angeles County health department asks providers to watch for infectious diseases during World Cup&nbsp;&nbsp;CIDRAP",
       "sources": [
         {
           "name": "NPR",
@@ -54,6 +102,18 @@
       ]
     },
     {
+      "id": "ca24de4c1546",
+      "title": "Twice a day for two weeks: the 'miracle juice' that may help lower blood pressure - Ynetnews",
+      "published": "2026-06-05T10:47:30+00:00",
+      "summary": "Twice a day for two weeks: the 'miracle juice' that may help lower blood pressure&nbsp;&nbsp;YnetnewsEating Beetroots Could Prevent Hypertension&nbsp;&nbsp;Modern GhanaBeetroot juice may lower blood pressure in older adults by changing mouth bacteria&nbsp;&nbsp;diabetes.co.ukThis drink recommended by 4 dieticians lowers blood pressure naturally&nbsp;&nbsp;Paris Select BookIn just two weeks: scientists have discovered which vegetable juice helps stabilize blood pressure&nbsp;&nbsp;Inbox.eu",
+      "sources": [
+        {
+          "name": "Ynetnews",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fVVo0anUxNFZlNjlXYTBmaW16TXNYbGpITU9lMmw0amVNcXFIOFJobk1Ub1dLT0xReDhxZnUwSzU2WkpaZXhZQm1lUkQxNjBna240enpFVkJmSUFGVVZPZll6cTFDdU5GNlE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7758e84f5d34",
       "title": "Heart transplant gives Hays teen a new lease on life; GoFundMe - Hays Post",
       "published": "2026-06-05T10:04:39+00:00",
@@ -62,6 +122,18 @@
         {
           "name": "Hays Post",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zVm9WSktsbDRKUHlZYUpxSlFvUUZadldfMHZ2Rk5hdXU0cG9OQ29pemtkVUcxZHRiaXNsRmhEOEhTVnRSbjRUc3dzZHF6V04wNzZWT0VpWDRiRTdvY1RIb2pjdnIzcUVjQ3lfSzY2Y2o?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2cebf7216350",
+      "title": "Wind from Milky Way's supermassive black hole is finally discovered - Reuters",
+      "published": "2026-06-05T09:03:03+00:00",
+      "summary": "Wind from Milky Way's supermassive black hole is finally discovered&nbsp;&nbsp;ReutersThe Supermassive Black Hole at the Heart of Our Galaxy Seems to Be Blowing Wind—Just as Scientists Long Theorized&nbsp;&nbsp;Smithsonian MagazineEven quiet black holes create winds, new Milky Way observations reveal&nbsp;&nbsp;Science NewsAstronomers just solved a 50-year-old mystery about the Milky Way’s black hole&nbsp;&nbsp;Scientific AmericanMassive Void Near Milky Way’s Black Hole Could Solve a 50-Year Mys",
+      "sources": [
+        {
+          "name": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVE1zR0xtVk1iZDF4ekN2THh0cllwdkdPcGJ5LVBlb1BPSUFZS09wTXkyTDRGbFMzR0dSekd3RTJKdlVsWXhCQ1o2MTVpczBkakRLWE16UHQteXo3QzNseU1lUEs0bkU2ajBDZHJOY0czaXRXc0gzRm9lcTJIcFJFWkRIaDZucXowNkxXTnNzb25qNG4tTTVZN0ZXNXRRazRCUkRJMVVsbHI?oc=5"
         }
       ]
     },
@@ -78,10 +150,22 @@
       ]
     },
     {
+      "id": "cb20d75e2b05",
+      "title": "Popular Weight Loss Drugs Linked to Lower Risk of Breast Cancer - ScienceAlert",
+      "published": "2026-06-05T03:11:38+00:00",
+      "summary": "Popular Weight Loss Drugs Linked to Lower Risk of Breast Cancer&nbsp;&nbsp;ScienceAlertThe science around GLP-1 drugs and cancer is suddenly getting a lot more interesting&nbsp;&nbsp;The Washington PostWeight-loss drugs can cut breast cancer risk by up to 30%, studies suggest&nbsp;&nbsp;The GuardianGLP-1 drugs may have a beneficial effect across many types of cancer&nbsp;&nbsp;ReutersDoctor breaks down study showing GLP-1s may lower breast cancer risk&nbsp;&nbsp;ABC News - Breaking News, Latest ",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMW83SzN2eTBPYUlzaXNacU1sNS0zcWl6QlQ0UFpxN1JTNklWZXQ0TGFNTE1JN3A3a3VUUi16V0FvRFpiQzlvYy1DUGdxNldrczJXb0c0aWw2Wmk5bFEwSC0zWENBRmZhZFRZRjdralBKVW9LUGFXTy10czVWRFpWOEpBeVJzaTR0Q0FfODFQY1FiUk9pMGg0?oc=5"
+        }
+      ]
+    },
+    {
       "id": "edef0846cf1a",
       "title": "A new type of lyme disease found in Upstate New York according to CDC - WSTM",
       "published": "2026-06-05T01:59:44+00:00",
-      "summary": "A new type of lyme disease found in Upstate New York according to CDC&nbsp;&nbsp;WSTMRare type of Lyme disease found for the first time in New York&nbsp;&nbsp;NBC NewsA Rare Lyme Disease Strain Discovered in New York for the First Time&nbsp;&nbsp;WKTV",
+      "summary": "A new type of lyme disease found in Upstate New York according to CDC&nbsp;&nbsp;WSTMRare type of Lyme disease found for the first time in New York&nbsp;&nbsp;NBC News‘Scarier’ Type of Lyme Disease Spreading in the US Causes More Severe Symptoms: Doctors Explain&nbsp;&nbsp;TODAY.comNew York’s Latest Tourist? A Rare, Potentially More Severe Form of Lyme Disease&nbsp;&nbsp;GizmodoA Rare Lyme Disease Strain Discovered in New York for the First Time&nbsp;&nbsp;WKTV",
       "sources": [
         {
           "name": "WSTM",
@@ -90,14 +174,14 @@
       ]
     },
     {
-      "id": "a6d5919bd3c5",
-      "title": "The science around GLP-1 drugs and cancer is suddenly getting a lot more interesting - The Washington Post",
-      "published": "2026-06-05T01:48:23+00:00",
-      "summary": "The science around GLP-1 drugs and cancer is suddenly getting a lot more interesting&nbsp;&nbsp;The Washington PostWeight-loss drugs can cut breast cancer risk by up to 30%, studies suggest&nbsp;&nbsp;The GuardianGLP-1 drugs may have a beneficial effect across many types of cancer&nbsp;&nbsp;ReutersPopular Weight Loss Drugs Linked to Lower Risk of Breast Cancer&nbsp;&nbsp;ScienceAlertDoctor breaks down study showing GLP-1s may lower breast cancer risk&nbsp;&nbsp;ABC News - Breaking News, Latest ",
+      "id": "d2cbdb0fbb58",
+      "title": "State health officials investigate possible cancer cluster at Uxbridge High School - WJAR",
+      "published": "2026-06-05T01:52:17+00:00",
+      "summary": "State health officials investigate possible cancer cluster at Uxbridge High School&nbsp;&nbsp;WJARMass. high school to undergo testing after several female teachers diagnosed with breast cancer&nbsp;&nbsp;Boston.comWhat to know about multiple diagnoses of breast cancer among teachers at Uxbridge High School&nbsp;&nbsp;The Boston GlobeMassachusetts high school under investigation after teachers diagnosed with breast cancer&nbsp;&nbsp;Boston HeraldState health officials investigating possible canc",
       "sources": [
         {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMUlVZGFac0xDbEFYX2VYanE5WV9pOXprTURBd0Vpdk1rLUdyRWxGel9fWEJsdEw1d3JjRFRra2E4ZFUzS2V4YVJVTS1hbEdOZnBpWk1Ya0oycWNWMzUwQk5kS1ZlLUVXbDY3LXBZLVlwMWk0NDlsSzJCRlh2RWhub0Q4cV9jVDgzS2ROaEQwR19YcjlwTGlVaF9kRVBvV0NscXR5V05nbEFpN1V0blVaUDhPUTNWX3h0UlNqa2dtdXM4UQ?oc=5"
+          "name": "WJAR",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWDU5dkJ0bzBaMmh6MjVZVUkxbW45amxibmJUYkhQbmRhQXlpRmpGOHNNd2czWHFZUjVCUW8tY0VpbTRaUlNRTFFUZkQ4YkVLejJZSXEzcWJ6OVFod0ZvNExVcWVFaUJuaXBlN3dpT01odE1lZDVlaHBuZFJHUkFSME1FTjRjZWRVUWdueXlvTlotSEpOMGhhVGJrMU51dmxXZ1A3TGVadjVydVFIdER3dUFtQWNmZV9EbnRzX003cjVkT01UZ1ktNFEyaUliTzA1N1J4Q2cydGxFT1JUbGxzTDE1OA?oc=5"
         }
       ]
     },
@@ -105,11 +189,23 @@
       "id": "fec683174cee",
       "title": "Milwaukee Health Department monitoring 3 for Ebola - WKOW",
       "published": "2026-06-05T00:49:00+00:00",
-      "summary": "Milwaukee Health Department monitoring 3 for Ebola&nbsp;&nbsp;WKOWMilwaukee Health Dept. monitoring 3 'low-risk' travelers for Ebola as a precaution&nbsp;&nbsp;WISNMilwaukee health department monitors 3 people for low-risk Ebola after travel; 'No public health concern'&nbsp;&nbsp;TMJ4 NewsMilwaukee health department monitors 3 people for low-risk Ebola after travel&nbsp;&nbsp;YahooMilwaukee Health Department monitoring 3 ‘very low risk travelers’ for Ebola&nbsp;&nbsp;Spectrum News",
+      "summary": "Milwaukee Health Department monitoring 3 for Ebola&nbsp;&nbsp;WKOWMilwaukee Health Dept. monitoring 3 'low-risk' travelers for Ebola as a precaution&nbsp;&nbsp;WISNMilwaukee health officials monitoring 3 who returned from Ebola-affected area&nbsp;&nbsp;Milwaukee Journal SentinelMilwaukee health department monitors 3 people for low-risk Ebola after travel; 'No public health concern'&nbsp;&nbsp;TMJ4 NewsMilwaukee Health Department monitoring \"very low risk travelers\" for Ebola&nbsp;&nbsp;WTMJ",
       "sources": [
         {
           "name": "WKOW",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3Y1SHBZQWthelNTS29QT1J0NlVaRGZycmg3M0FDelMtcFBMUHQ1SWVuTXVsSmtMWVFGVW9DX0wwa3NnVlgxNUU4MkR4T2JWMHVham4xa1hQdGJiWGduSmxtU0VzM2FpYUhXTTFRTGJtcE10OHdqeVZmVlpBQVpxdTBLaEZzSXlnSXlHRnJwcks0YTVEam85emQyRWpIeEZnX1FYS29nSF9rcmVvQ3BSNExzQm9vd0ZubVhrUjZ5b1g1bDlo?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "47655b5ce608",
+      "title": "New Velociraptor cousin was a '4-winged' dragon that hunted prey from the trees of ancient China, fossil find hints - Live Science",
+      "published": "2026-06-04T22:38:02+00:00",
+      "summary": "New Velociraptor cousin was a '4-winged' dragon that hunted prey from the trees of ancient China, fossil find hints&nbsp;&nbsp;Live ScienceRare fossil belonged to a gliding creature that hunted birds&nbsp;&nbsp;CNNNew species of dinosaur, a cousin of Velociraptor, probably glided on four “wings” and hunted early birds&nbsp;&nbsp;Field MuseumNew Microraptorine Dinosaur Discovered in China&nbsp;&nbsp;Sci.NewsCarnegie museum paleontologist co-leads discovery of a new dinosaur species in China&nbsp;",
+      "sources": [
+        {
+          "name": "Live Science",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcmNLZzZ0N2Y0YnRIbDYwS29nbk96cmh0X2daVGIyclNOakxyWVFpakwweExEU2ExVHAyak1aRk0zU2Npd3EtT1MyTUs0VzRsdVdQWnVKMUNnRTVxN29oNDAycFFBdFAta2h1QklrYy1zNmxsUFFCRDNITDR5OVpJbTVBdURURTQycWFJMTgtbkUtbFV2b0xNY3FCTU5JTS1EY2pjcHVfNjNHRlh6X1NBTXgzOTdyTWluS3IzYU9iQnBXa3l3SEdJR0RmVFlTS0RTUWJFakh1REg0VVktbkJaSll4ZmM1dlVCd1hQSEVNUQ?oc=5"
         }
       ]
     },
@@ -126,6 +222,30 @@
       ]
     },
     {
+      "id": "4b44fd23774e",
+      "title": "Novel synthetic biomolecule degrades disease-related proteins - Phys.org",
+      "published": "2026-06-04T21:40:05+00:00",
+      "summary": "Novel synthetic biomolecule degrades disease-related proteins&nbsp;&nbsp;Phys.org",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdFN5dTJMbVZjQm4yZjctdjhfUUdfUXFibGtMN1Y2QjFyMExLOGRqWEk2d3lsZjZ6Y2RDYndNRjVKWjNSZC1HdmxMdFZ0d1BpemZjRUNlczhWamVmbFcyd2lvaG9hcl9ENkVYSkhZaGRYM1NBTGg0ekF6Tm9xbkZZTGFPaEE0QXdMelE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c4a1aef1b31d",
+      "title": "Record ultraviolet quasar wind reaches 30% light speed near supermassive black hole - Phys.org",
+      "published": "2026-06-04T21:20:01+00:00",
+      "summary": "Record ultraviolet quasar wind reaches 30% light speed near supermassive black hole&nbsp;&nbsp;Phys.orgFastest ultraviolet wind detected from black hole in the constellation Pegasus&nbsp;&nbsp;The Pennsylvania State UniversityWind from quasar accelerates to one-third the speed of light&nbsp;&nbsp;Universe Space TechYork University Researchers Identify Ultraviolet Wind Moving at One-Third the Speed of Light Near Quasar&nbsp;&nbsp;geneonline.comOsmania University researchers observes extreme cosmi",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZnVGbUpQVmdoUXh1YTR1d0tMM3AweGlUYzFYR1FzeFNmSTBtOHN4OHg4T1BIalBldnlCWkpPWERUM0ZFc3Rlci1NUGw4bUYyMi1kOUlQXzhRblFPTmI3NFNiY19QUXluQlRsdlBOdW9ZdHdpOXNwU3ZOcHRLVWVqQmhtVQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ddd62acadde2",
       "title": "Weakened public health powers raise outbreak risks - NPR",
       "published": "2026-06-04T20:36:34+00:00",
@@ -138,14 +258,14 @@
       ]
     },
     {
-      "id": "5a4c3a2f1b26",
-      "title": "Aid organization says trust is key in combatting Ebola outbreak as cases grow - ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-06-04T20:10:04+00:00",
-      "summary": "Aid organization says trust is key in combatting Ebola outbreak as cases grow&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosEbola figures appear to offer hope as case numbers drop in DR Congo but it's not that simple&nbsp;&nbsp;BBCIn Congo, doctors face Ebola with little protection: \"We live with fear\"&nbsp;&nbsp;CBS NewsAfrica CDC and WHO launch joint continental Ebola response plan&nbsp;&nbsp;World Health Organization (WHO)Priest’s Ebola Death Stirs Fear and Doubt in Congolese Tow",
+      "id": "1fa4fabf7ecd",
+      "title": "Health department tracking possible tuberculosis exposures tied to Tri-State school - WKRC",
+      "published": "2026-06-04T19:40:57+00:00",
+      "summary": "Health department tracking possible tuberculosis exposures tied to Tri-State school&nbsp;&nbsp;WKRCTuberculosis contact tracing underway after case reported at NKY school&nbsp;&nbsp;FOX19 | CincinnatiHealth department investigates tuberculosis case at Lloyd Memorial High School&nbsp;&nbsp;WLWTPerson 'associated with' Lloyd Memorial High School found to have tuberculosis, health department says&nbsp;&nbsp;WCPO 9 CincinnatiDozens exposed as TB reported at NKY high school. Testing underway&nbsp;&nb",
       "sources": [
         {
-          "name": "ABC News - Breaking News, Latest News and Videos",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQTZBZ3JaeWZCNGlJeXRfOWpuYlY1N3M4WUVLbDNtejMzTDdyT2RZS2p4Tnd4M0kxWW40dDFZQ1lQc3NHbHhxZE9OMG5rdUNJb2gxb2J2cFFYZ0MtSXFRV1YwOXpzNnNKVmFtSEJSZmdaNnU4cTJNNUV3MGJOTFI1Y3M0WnNoaGNaVEdVbHJpZ2VQR0U4RnB1dEwzWGdHVWxnU1FpZFNmSdIBrAFBVV95cUxNZ1VFdkkyTkVKWGp4aTAzQVJiRFBYNGRKc0NSZWZ3bzVLWWdOTUhHRGhfUUdqUHBkOUY3dmFySW9UVmYxZElqYU4tYm9VV3RFZUY1VmpJbUY2alViTTNRaElfMDRSZ2k2Vjk0a3JlMDJjUG8tZENDZTZ4YWtYRW1XWG1GdHNpbFhGcWNPT2FmRzBZZ2F4T1hEMk93WU1sUGlMN3pkYWVvTXdRNjdz?oc=5"
+          "name": "WKRC",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMWcycDYtLVBvd294QmZYd0cxODBvTncwY2dsZ2ZsOEpEQ19NcVNVMXVBbFdTem0zeHFYdEF1b2FhQ2dDSXJFbnNldnVFNmNVZDhqU0o4dnRKSVhCVVI3X0pGZDJ6Qldrb1ZaQW55dXVwVUxnMms4Mk9JZmMxZURpNzJ0SDlTWlJ2cFg5b0hzMWVVLVYtU1YtM2lBVmZZd2xrZTBoWVNDWnhDX2VTdF9raVROOVEzVmhQZ0RKazFsSmtpbTRnWS1HMUF6WnhLbm5OcEpzOEY3SUhuWWQt?oc=5"
         }
       ]
     },
@@ -153,7 +273,7 @@
       "id": "901535573f9a",
       "title": "A new blood test can help detect colon cancer, but it’s not as good as the test you hate to take - MarketWatch",
       "published": "2026-06-04T19:39:00+00:00",
-      "summary": "A new blood test can help detect colon cancer, but it’s not as good as the test you hate to take&nbsp;&nbsp;MarketWatchThe US Just Updated Its Guidelines to Detect And Prevent Colorectal Cancer&nbsp;&nbsp;ScienceAlertDoctors push new blood tests for colon cancer as cases surge in younger adults&nbsp;&nbsp;Fox NewsWhat's Going Around: New Colon Cancer Screening&nbsp;&nbsp;KOKHNew Colon Cancer Blood Test: Is It an Effective Alternative to a Colonoscopy?&nbsp;&nbsp;Orlando Health",
+      "summary": "A new blood test can help detect colon cancer, but it’s not as good as the test you hate to take&nbsp;&nbsp;MarketWatchThe US Just Updated Its Guidelines to Detect And Prevent Colorectal Cancer&nbsp;&nbsp;ScienceAlertDoctors push new blood tests for colon cancer as cases surge in younger adults&nbsp;&nbsp;Fox NewsLetters to the Editor&nbsp;&nbsp;Tioga PublishingWellness Wednesday: Doctor explains how colon cancer screenings can save lives&nbsp;&nbsp;WTVA",
       "sources": [
         {
           "name": "MarketWatch",
@@ -177,23 +297,11 @@
       "id": "f6cc0ae5e17c",
       "title": "Alzheimer’s patient gets back speech, bladder control and memory in groundbreaking drug trial - AOL.com",
       "published": "2026-06-04T18:57:26+00:00",
-      "summary": "Alzheimer’s patient gets back speech, bladder control and memory in groundbreaking drug trial&nbsp;&nbsp;AOL.com",
+      "summary": "Alzheimer’s patient gets back speech, bladder control and memory in groundbreaking drug trial&nbsp;&nbsp;AOL.comSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "AOL.com",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX0dwZUVidVB1SWZ2NjNSYmZZYnJkUjR4bGhFVUJYTnNEZ3l2NFJTWnhRTnlEV3Y2ekp2aVNYM2E3VGhQbHhFMkZJY1Q0YnFkRXYxdWVRS0NiMlhMQlZnRVZ3MEZHWXZfWU1pbk03ampaZmFZWnlDaHA5dnI2RjYwcjlqV0U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "837a78c28251",
-      "title": "Deadly virus now spreads to crows in San Diego — as officials issue warning - Yahoo",
-      "published": "2026-06-04T18:53:06+00:00",
-      "summary": "Deadly virus now spreads to crows in San Diego — as officials issue warning&nbsp;&nbsp;YahooSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOck14UkJzLWVpRDJEOGJkMG93cHAtdkpWNWRKbUt0TEkwT3NwWmZsenU1NkRMdVN6MXJoZE5OT0R2bUV5YXZ0Y3pqQlBhc0RrZEJlVmZxMXFGVy1XTXNVNGR3b2RUUF9aN0VVbGVBWHllRU85ZHk3b3RfSGtLV0s3ZnRyWThCYVlnd1NxelpnZlpWMlE?oc=5"
         }
       ]
     },
@@ -213,7 +321,7 @@
       "id": "6bcedf98a2fd",
       "title": "Bumblebees can spontaneously solve problems, study finds - Ars Technica",
       "published": "2026-06-04T18:00:35+00:00",
-      "summary": "Bumblebees can spontaneously solve problems, study finds&nbsp;&nbsp;Ars TechnicaAre bumblebees as smart as chimps? A new problem-solving experiment makes the case&nbsp;&nbsp;CNN‘They surprise me every time’: bees can use tools to solve problems, study finds&nbsp;&nbsp;The GuardianBumble bees show spontaneous problem-solving, challenging big-brain assumptions&nbsp;&nbsp;Phys.orgBumblebees use tools to solve complex problems—despite not being trained to do so&nbsp;&nbsp;Scientific American",
+      "summary": "Bumblebees can spontaneously solve problems, study finds&nbsp;&nbsp;Ars TechnicaAre bumblebees as smart as chimps? A new problem-solving experiment makes the case&nbsp;&nbsp;CNNBumble bees show spontaneous problem-solving, challenging big-brain assumptions&nbsp;&nbsp;Phys.orgBumblebees use tools to solve complex problems—despite not being trained to do so&nbsp;&nbsp;Scientific American‘They surprise me every time’: bees can use tools to solve problems, study finds&nbsp;&nbsp;The Guardian",
       "sources": [
         {
           "name": "Ars Technica",
@@ -225,7 +333,7 @@
       "id": "9bdc1111531f",
       "title": "Ultra-processed food harms tied to content not manufacture, review says - Financial Times",
       "published": "2026-06-04T18:00:09+00:00",
-      "summary": "Ultra-processed food harms tied to content not manufacture, review says&nbsp;&nbsp;Financial TimesIt May Not Just Be What’s in Ultra-Processed Foods, But How They’re Made&nbsp;&nbsp;Tufts NowBig Tobacco Engineered Ultra-Processed Food, Creating Harmful And Addictive Products&nbsp;&nbsp;Health Policy WatchAmericans say they want strict regulations on ultraprocessed food. Will industry and regulators deliver?&nbsp;&nbsp;CNNBig tobacco uses cigarette playbook to help sell ultra-processed foods, jou",
+      "summary": "Ultra-processed food harms tied to content not manufacture, review says&nbsp;&nbsp;Financial TimesIt May Not Just Be What’s in Ultra-Processed Foods, But How They’re Made&nbsp;&nbsp;Tufts NowBig tobacco uses cigarette playbook to help sell ultra-processed foods, journal reveals&nbsp;&nbsp;The GuardianAmericans say they want strict regulations on ultraprocessed food. Will industry and regulators deliver?&nbsp;&nbsp;CNNBig Tobacco Engineered Ultra-Processed Food, Creating Harmful And Addictive Pro",
       "sources": [
         {
           "name": "Financial Times",
@@ -237,11 +345,23 @@
       "id": "ea4d6ff28a0b",
       "title": "For pancreatic cancer patients, an exciting drug can feel out of reach - statnews.com",
       "published": "2026-06-04T17:16:50+00:00",
-      "summary": "For pancreatic cancer patients, an exciting drug can feel out of reach&nbsp;&nbsp;statnews.comLandmark pancreatic cancer treatment paves way for targeting other tricky tumors&nbsp;&nbsp;Scientific AmericanRevolution's pancreatic cancer drug doubles survival, boosts quality of life&nbsp;&nbsp;ReutersASCO: RevMed confident in Ras leadership as rivals square up&nbsp;&nbsp;Fierce BiotechExperimental pill promises new hope for deadly pancreatic cancer&nbsp;&nbsp;CNN",
+      "summary": "For pancreatic cancer patients, an exciting drug can feel out of reach&nbsp;&nbsp;statnews.comA new pancreatic cancer drug is changing survival rates for one of the deadliest cancers&nbsp;&nbsp;UCHealthPromising new treatment for pancreatic cancer doubles survival rates&nbsp;&nbsp;PBSWhat RevMed’s pancreatic cancer drug meant for one patient&nbsp;&nbsp;statnews.comDaily pill doubles survival time for pancreatic cancer patients&nbsp;&nbsp;BBC",
       "sources": [
         {
           "name": "statnews.com",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUy1saFM5QkppZGczbEV3UGpjWW5jV2IxeHpOMFlSVnpDWERoOG9HVlJxNWtnXzdXYWdHZk91VnJndkV0WVV2UWFqdXYzeWFxa2VqbWRWTjExNXBXRXpUYzRTcXBaVFA1N01MX01SNFIxaGpTNjY2WXlKVkdyV2xUQk1hZUE4RnQ2S21wWXJkQmJMSHRKTFBxMXh4c0hpczlqOXV2TE1leUVGTmQ1eUpoRF8xMHo4UWs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "86d590515b1e",
+      "title": "5 Standing Exercises That Restore Quad Strength Faster Than Gym Machines After 60 - Eat This Not That",
+      "published": "2026-06-04T17:01:45+00:00",
+      "summary": "5 Standing Exercises That Restore Quad Strength Faster Than Gym Machines After 60&nbsp;&nbsp;Eat This Not ThatI'm a personal trainer, and if I were 60, these are the 6 exercises I’d do to build strength, muscle and leanness&nbsp;&nbsp;Yahoo'I'm 60 and still getting stronger – these are the 11 exercises I repeat every week for full-body strength'&nbsp;&nbsp;Women's HealthBuilding better bodies as we age&nbsp;&nbsp;South Whidbey Record10 minutes, 5 exercises and this simple no-equipment workout to",
+      "sources": [
+        {
+          "name": "Eat This Not That",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41akhWSHlLVlBncUpRTW1hbXR6c2RKTzJUR2dSUmJ5a3NXNDV0Y1VucWhDT2dCSnlSMElIOTB0QUpuc2xBWm1zaFQ0cjNuRmRqS0VHTzZKTVBLX05reEVBWmY1WG5VRlJHOHVkcWVvMmhRTXdobTlWZk9TVHlIU2M?oc=5"
         }
       ]
     },
@@ -261,11 +381,23 @@
       "id": "0401dfc5fe8b",
       "title": "Whey Protein Doesn't Lead to More Muscle in Older Adults, Study Finds - Verywell Health",
       "published": "2026-06-04T16:30:00+00:00",
-      "summary": "Whey Protein Doesn't Lead to More Muscle in Older Adults, Study Finds&nbsp;&nbsp;Verywell HealthWe Asked a Dietitian at What Age You Need to Eat More Protein&nbsp;&nbsp;Verywell HealthWe Asked a Dietitian: What's the Best Type of Protein for Maintaining Muscle As You Age?&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness InformationThis Is The Best Protein For Building Muscle, According To 235 Trials&nbsp;&nbsp;MindBodyGreenGo easy on your protein powder: Study says exercise matters ",
+      "summary": "Whey Protein Doesn't Lead to More Muscle in Older Adults, Study Finds&nbsp;&nbsp;Verywell HealthGo easy on your protein powder: Study says exercise matters more for muscle health&nbsp;&nbsp;The Times of IndiaThis Is The Best Protein For Building Muscle, According To 235 Trials&nbsp;&nbsp;MindBodyGreenWe Asked a Dietitian: What's the Best Type of Protein for Maintaining Muscle As You Age?&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness InformationLow protein consumption linked to we",
       "sources": [
         {
           "name": "Verywell Health",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNlgwSVdtYmdNckpaOG54RlVFWmdmUlFPM0YxV3NOZnRycXdRTGtVMVo5YXhJc25BUE11Tks1Zkt2RjdyMVB1a0pYT1JySzI1dUlmZlU0UnFOMkl3SUVuU3JuV3FuZEdhVVppU3JPeWJ1UF8zT0Y2YkxrZ1M2MjBzWFNUSVBuZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "52111d9a2da3",
+      "title": "Journal retracts study linking hepatitis vaccine to autism that was included in CDC review - Retraction Watch",
+      "published": "2026-06-04T16:22:01+00:00",
+      "summary": "Journal retracts study linking hepatitis vaccine to autism that was included in CDC review&nbsp;&nbsp;Retraction Watch",
+      "sources": [
+        {
+          "name": "Retraction Watch",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRTJoYjYxWUhvMEF0cVA0blZvY21iMDluQ0Y4NUc5NnFtdUxiMXVhMzVCU2NZVFVPaXFiVm9ocVlvMnFreFprZ0hjck1xanN4VE8xOFA3YWtiR3h6azJVdlNFTk9SWnBiMnZ3ekUwbkc0ZDhJcWxTbEkzazV6MDVybjNGRDN0TTc2NHRSUFJ5a3Bhczd2TVJOR0dlN1k0eHlmQjVvN3lWS0FiQWN0dHhyODdrTVFwN3lBejlCT3Z0RzhtUTNvQ01xU1NB?oc=5"
         }
       ]
     },
@@ -282,6 +414,18 @@
       ]
     },
     {
+      "id": "e24c56c60878",
+      "title": "Why Google is seeking approval to release millions of mosquitoes in Florida and California - Yahoo",
+      "published": "2026-06-04T16:03:38+00:00",
+      "summary": "Why Google is seeking approval to release millions of mosquitoes in Florida and California&nbsp;&nbsp;YahooHow Google’s 32-million mosquito project could change California’s battle against dengue&nbsp;&nbsp;Los Angeles TimesDebugging: Google requests permission to release 32m mosquitoes in California and Florida&nbsp;&nbsp;The GuardianGoogle applies for permit to release 32 million mosquitoes in Calif.&nbsp;&nbsp;SFGATEGoogle mosquito army: Scientists say 'we must take action'&nbsp;&nbsp;dw.com",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS19VVVJLcndxUGRINDFTVWdyWHQ2OHNqT19EM0pJRVRRQjJVVDJvVk1Vckl1ZDlMN2VaQlBIUGdqQTVQcnZLVUVCYmVfVzNnQlpOd1NSN1lqcXJVLXJkVUFZZmhkdUhtRWxrLUlFQnN5OU1fdjQwNnM3SE9fVGUxeHE0dmNGM1ZHbGFRN0Z3eFVieHd6eVJEdjJn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f9501325d44e",
       "title": "Researchers Solve the Mystery Behind a Billion-Dollar Dental Implant Disease - SciTechDaily",
       "published": "2026-06-04T15:58:11+00:00",
@@ -294,22 +438,10 @@
       ]
     },
     {
-      "id": "2d26c5a1b4ab",
-      "title": "Three studies used by RFK Jr and allies to justify controversial vaccine policy changes facing new scrutiny - The Guardian",
-      "published": "2026-06-04T15:24:00+00:00",
-      "summary": "Three studies used by RFK Jr and allies to justify controversial vaccine policy changes facing new scrutiny&nbsp;&nbsp;The GuardianThe FDA blocks publication of vaccine safety studies&nbsp;&nbsp;dailyuw.comFDA Suppressed Vaccine Safety Research: Senate Investigates&nbsp;&nbsp;Legis1The State of US Vaccine Policy — May 28, 2026&nbsp;&nbsp;CIDRAP3 of RFK Jr.’s Favorite Anti-Vax Studies Are Being Retracted or Scrutinized&nbsp;&nbsp;Truthout",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tWHFKU3BOelBfRXNxUlowN0FCSlZ4SWdjQnJmNVgzYlNPUHltTWV4bXktZThHb0Uzclk2UF9HMTNhZllkNUlxYTA4MWZGN0wxRVBTbkNBVEZmMVM0VFVLNVFZSXhYUFFyb1ItTWlSRG4tQWtMcWNHWUFR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0e6b1f49cff3",
       "title": "Early Research Suggests a Path to Predict and Prevent Lung Cancer - The New York Times",
-      "published": "2026-06-04T15:21:45+00:00",
-      "summary": "Early Research Suggests a Path to Predict and Prevent Lung Cancer&nbsp;&nbsp;The New York TimesBlood test spots 14 proteins that predict lung cancer risk up to five years early&nbsp;&nbsp;Medical XpressBlood test predicts tumor response to treatment&nbsp;&nbsp;National Institutes of Health (.gov)Scientists have made a discovery that may help prevent some people from developing lung cancer, which kills more people worldwide than any other cancer. The findings, which were published on Thursday, of",
+      "published": "2026-06-04T15:00:43+00:00",
+      "summary": "Early Research Suggests a Path to Predict and Prevent Lung Cancer&nbsp;&nbsp;The New York TimesBlood test spots 14 proteins that predict lung cancer risk up to five years early&nbsp;&nbsp;Medical XpressScientists have made a discovery that may help prevent some people from developing lung cancer, which kills more people worldwide than any other cancer. The findings, which were published on Thursday, offer a promising starting point toward a long-held&nbsp;&nbsp;facebook.comBlood-Based Protein Si",
       "sources": [
         {
           "name": "The New York Times",
@@ -333,7 +465,7 @@
       "id": "ee503a5228a1",
       "title": "What will it take to get a vaccine for the Ebola strain driving the current outbreak? - NPR",
       "published": "2026-06-04T14:12:46+00:00",
-      "summary": "What will it take to get a vaccine for the Ebola strain driving the current outbreak?&nbsp;&nbsp;NPRCEPI fast-tracks three Bundibugyo ebolavirus vaccine candidates&nbsp;&nbsp;CEPIAs Ebola Spreads, Scientists Race to Find Vaccines and Treatments&nbsp;&nbsp;The New York TimesModerna and other groups get $60 million to develop Ebola vaccine&nbsp;&nbsp;ReutersWhat are the Ebola vaccines under research, and when will they be ready?&nbsp;&nbsp;Al Jazeera",
+      "summary": "What will it take to get a vaccine for the Ebola strain driving the current outbreak?&nbsp;&nbsp;NPRCEPI fast-tracks three Bundibugyo ebolavirus vaccine candidates&nbsp;&nbsp;CEPIAs Ebola Spreads, Scientists Race to Find Vaccines and Treatments&nbsp;&nbsp;The New York TimesWhat are the Ebola vaccines under research, and when will they be ready?&nbsp;&nbsp;Al JazeeraThe race to combat Ebola: what vaccines and treatments are being developed and how long will it take?&nbsp;&nbsp;The Guardian",
       "sources": [
         {
           "name": "NPR",
@@ -366,14 +498,14 @@
       ]
     },
     {
-      "id": "b910bcb32305",
-      "title": "Cardiologist: 5 things I never do before 9 a.m.—after 20 years of treating heart attacks - CNBC",
-      "published": "2026-06-04T12:49:32+00:00",
-      "summary": "Cardiologist: 5 things I never do before 9 a.m.—after 20 years of treating heart attacks&nbsp;&nbsp;CNBC",
+      "id": "d0cbe0883522",
+      "title": "Upgraded ‘Severe’ Northern Lights Alert For 25 States Thursday - Yahoo",
+      "published": "2026-06-04T12:18:17+00:00",
+      "summary": "Upgraded ‘Severe’ Northern Lights Alert For 25 States Thursday&nbsp;&nbsp;YahooUPDATE on G3 Watch for 4-5 June UTC Days&nbsp;&nbsp;NOAA Space Weather Prediction Center (.gov)Northern Lights Forecast: The Aurora Borealis May Be Visible In 10 States Friday Night&nbsp;&nbsp;ForbesA powerful geomagnetic storm will give a chance to see northern lights in North Carolina&nbsp;&nbsp;WXIITIMELINE: Spotty showers Friday before storm risk over the weekend in Oklahoma&nbsp;&nbsp;KOCO",
       "sources": [
         {
-          "name": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMzJvVXhZVHVHb251T0RiblpaanFoNUg1VHVrMjlQUVB0UGhWVDVXeVJFNF9tc0tIdm1mckwxdFE5UHd6ZUtXaTdBT2VVcll5YlVROTV4S01SYW1lTEszSlcwaFgwSEpIeklQdDdqcVAxYmJKaWxPLVNMWGpsb3A5YUU4OHlCNm1LbGFZVnRXSkdVZWg0VWdxcFFkS3UxQmZES2lrVXdsQUZkR2daODdscnRaeUlkMFlKNjZnR9IBwgFBVV95cUxPWGdEUVA0UmpkWGs4UFdLdFpoTzFiWUptVlVpbUozRmZyTkZQTGEwRXFQRWJVWVFHN1YxQ0FSc3UyQ3dHelN0RGVCVWp5SVEzMzE5M21GWVhaOGZVOWI4S2FlbU1Fc2I1MFpERUJoR3ZIN0JtVy1Ed0VTdjZzYkZwT1g3dDFRLWdaVWVmZm1hVWJWdXFDMXRobEhGc1Rfam9QUWx4UldDdVdmY3JxV1NzdWxiMEU0ZVNsRWx4eXR6SFFsZw?oc=5"
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON0pFNlJSNmRSSFJYQ0w5YXpBUlBQQ1Jpcm42MHhxYzk0TWM5Tm1PcGtGS1hDdE9KOXR5NURTUnE4S0VzRVlha0FMZ1lLZk9vN0FTanQxUUxOU3E2el8yWnVoem53S1JIQ3FfeUQ4SFZqSkZ5Z2cwdHE5LW9nVWxGYUM0d2VnRno0Z0NWSmFvZkVpcjNTV1ZKeURtSVBaQldYUHk0?oc=5"
         }
       ]
     },
@@ -381,7 +513,7 @@
       "id": "56b82ec59b7e",
       "title": "The location of your body fat is linked to how fast your brain ages - PsyPost",
       "published": "2026-06-04T12:08:50+00:00",
-      "summary": "The location of your body fat is linked to how fast your brain ages&nbsp;&nbsp;PsyPostCarrying Excess Body Fat in These Areas Speeds Up Brain Aging, Study Says&nbsp;&nbsp;Men's JournalBeing Overweight May Lead to Faster Cognitive Decline&nbsp;&nbsp;The Good Men ProjectMedical Notes: How Losing Weight Can Improve Brain Function, The Medicinal Properties Of Coral Reefs, And A New Type Of Liver Cell&nbsp;&nbsp;The Black ChronicleThis Commonly Tracked Metric May Explain Why Some Brains Age Faster&nb",
+      "summary": "The location of your body fat is linked to how fast your brain ages&nbsp;&nbsp;PsyPostCarrying Excess Body Fat in These Areas Speeds Up Brain Aging, Study Says&nbsp;&nbsp;Men's JournalThis Commonly Tracked Metric May Explain Why Some Brains Age Faster&nbsp;&nbsp;MindBodyGreenResearchers Analyzed 1,100+ MRIs — This Metric Predicted Brain Age&nbsp;&nbsp;MindBodyGreen",
       "sources": [
         {
           "name": "PsyPost",
@@ -405,7 +537,7 @@
       "id": "c083c638c7a8",
       "title": "90-120 minutes of strength training per week may help extend lifespan - Medical News Today",
       "published": "2026-06-04T11:42:29+00:00",
-      "summary": "90-120 minutes of strength training per week may help extend lifespan&nbsp;&nbsp;Medical News TodayJust 2 Hours of Strength Training a Week May Help You Live Longer&nbsp;&nbsp;HealthlineThis much strength training may reduce your risk of early death, study says&nbsp;&nbsp;USA TodayTwo gym sessions a week are the key to a long life&nbsp;&nbsp;The TelegraphThe Best Exercise Combination for Longevity, According to a 30-Year Study&nbsp;&nbsp;SciTechDaily",
+      "summary": "90-120 minutes of strength training per week may help extend lifespan&nbsp;&nbsp;Medical News TodayThis much strength training may reduce your risk of early death, study says&nbsp;&nbsp;USA TodayTwo gym sessions a week are the key to a long life&nbsp;&nbsp;The TelegraphThe Best Exercise Combination for Longevity, According to a 30-Year Study&nbsp;&nbsp;SciTechDailyCan two hours of strength training a week reduce the risk of dying early?&nbsp;&nbsp;BBC",
       "sources": [
         {
           "name": "Medical News Today",
@@ -426,18 +558,6 @@
       ]
     },
     {
-      "id": "2f1007662560",
-      "title": "This new diabetes pill burns fat without the downsides of Ozempic - ScienceDaily",
-      "published": "2026-06-04T10:08:33+00:00",
-      "summary": "This new diabetes pill burns fat without the downsides of Ozempic&nbsp;&nbsp;ScienceDaily'Game-changer' Wegovy Pill set to be approved in UK 'within days' - everything YOU need to know&nbsp;&nbsp;The Sun'A seismic change': Inside the lab developing a new obesity pill&nbsp;&nbsp;ITVXNew Diabetes Drug Targets Metabolism, Avoids Ozempic Side Effects&nbsp;&nbsp;NDTVNew weight loss pill 'expands in the stomach' with ‘seismic’ results - as patients eat 400kcals less a day&nbsp;&nbsp;The Sun",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jTHVGZUdMc3lMZTFJR21tR2t0dmxVaWpwbjliNDdKaDZxLVlPb1ozS0poS3RGbWtlai1WanpCeHM0MWtCUEFEQlh6LTJCMXA1cmZMZ3lwTlpPZDROcDlpMVZ4Vk5rdDBjMXlTTXd0SQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "70536cb62161",
       "title": "This Quirky Accessory Can Actually Make Walking Easier And Boost Heart Health - HuffPost",
       "published": "2026-06-04T10:00:18+00:00",
@@ -453,7 +573,7 @@
       "id": "fba4ad15a2ca",
       "title": "Cardiologist says eating 1 fruit is great for heart health and cutting risk of disease - The Mirror",
       "published": "2026-06-04T09:14:00+00:00",
-      "summary": "Cardiologist says eating 1 fruit is great for heart health and cutting risk of disease&nbsp;&nbsp;The MirrorDoes an avocado a day keep the doctor away? Pennington Biomedical researching blood sugar management in Type 2 diabetes patients&nbsp;&nbsp;WAFBAn avocado a day may help control blood sugar, study claims&nbsp;&nbsp;Medical News TodayCardiologist recommended adding one product to breakfast&nbsp;&nbsp;Baku.wsVegetables That Help To Improve Cardiac Health&nbsp;&nbsp;NDTV",
+      "summary": "Cardiologist says eating 1 fruit is great for heart health and cutting risk of disease&nbsp;&nbsp;The MirrorSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "The Mirror",
@@ -510,18 +630,6 @@
       ]
     },
     {
-      "id": "d5d7bbf1d83c",
-      "title": "Cancer’s favorite escape trick may actually make it easier to kill - ScienceDaily",
-      "published": "2026-06-04T05:32:05+00:00",
-      "summary": "Cancer’s favorite escape trick may actually make it easier to kill&nbsp;&nbsp;ScienceDailyUnexpected Immune System Mechanism Found To Attack Cancer, Scientists Reveal&nbsp;&nbsp;NDTVScientists Discover a Completely Unexpected Way T Cells Kill Cancer&nbsp;&nbsp;SciTechDaily",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tUGgtd2tMaXpha1VsdktGb3NvVkJGQm01bGd1Mnh2MkNfQWhNMG5GczJrMHo3X2E5Qmh3UEtyaVpiTXpYQzJhaDZpUUFrQ0QtekQ5aVBZR0V0ZmxWek9ObklQQm9ram4tajJKaURzOA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "761029e58709",
       "title": "This mysterious lung disease affects millions of people — but a drug tested in mice shows promise - Nature",
       "published": "2026-06-04T05:01:03+00:00",
@@ -537,7 +645,7 @@
       "id": "ca9a508b364b",
       "title": "The brain can unlock true multitasking after intensive training - Medical Xpress",
       "published": "2026-06-04T04:00:02+00:00",
-      "summary": "The brain can unlock true multitasking after intensive training&nbsp;&nbsp;Medical XpressScience reveals people are capable of multitasking — it just requires practice&nbsp;&nbsp;NBC NewsTrue Brain Multitasking Is Possible&nbsp;&nbsp;Neuroscience NewsYou Can Train Your Brain to Go on Autopilot&nbsp;&nbsp;NewserScientists have long said we can’t multitask. A new study says we can&nbsp;&nbsp;The Independent",
+      "summary": "The brain can unlock true multitasking after intensive training&nbsp;&nbsp;Medical XpressScience reveals people are capable of multitasking — it just requires practice&nbsp;&nbsp;NBC NewsTrue Brain Multitasking Is Possible&nbsp;&nbsp;Neuroscience NewsYou Can Train Your Brain to Go on Autopilot&nbsp;&nbsp;NewserThink Multitasking Is Impossible? A New Brain Study Says We've Been Wrong About It for Years&nbsp;&nbsp;inc.com",
       "sources": [
         {
           "name": "Medical Xpress",
@@ -549,7 +657,7 @@
       "id": "20a2ff2fc0b1",
       "title": "Breakthrough ovarian cancer drug offers patients more time and better quality of life - BBC",
       "published": "2026-06-03T23:34:59+00:00",
-      "summary": "Breakthrough ovarian cancer drug offers patients more time and better quality of life&nbsp;&nbsp;BBCNew ovarian cancer treatment approved for NHS - the first for 20 years&nbsp;&nbsp;Sky NewsLife-prolonging drug for advanced ovarian cancer gets go-ahead in England&nbsp;&nbsp;The GuardianBritish drug-cost watchdog recommends use of AbbVie's ovarian cancer therapy&nbsp;&nbsp;ReutersNICE Clears New Drug for Platinum-Resistant Ovarian Cancer&nbsp;&nbsp;Medscape",
+      "summary": "Breakthrough ovarian cancer drug offers patients more time and better quality of life&nbsp;&nbsp;BBCLife-prolonging drug for advanced ovarian cancer gets go-ahead in England&nbsp;&nbsp;The GuardianFirst ovarian cancer treatment in decades given green light for NHS&nbsp;&nbsp;The IndependentNICE Clears New Drug for Platinum-Resistant Ovarian Cancer&nbsp;&nbsp;MedscapeBritish drug-cost watchdog recommends use of AbbVie's ovarian cancer therapy&nbsp;&nbsp;Reuters",
       "sources": [
         {
           "name": "BBC",
@@ -558,22 +666,10 @@
       ]
     },
     {
-      "id": "cfebf0c99670",
-      "title": "A Mysterious Quantum Compass May Be Hiding Inside Pigeons' Livers - ScienceAlert",
-      "published": "2026-06-03T23:01:44+00:00",
-      "summary": "A Mysterious Quantum Compass May Be Hiding Inside Pigeons' Livers&nbsp;&nbsp;ScienceAlertPigeons may be navigating with their liver, study suggests&nbsp;&nbsp;AP NewsHow Do Pigeons Find Their Way Home? New Research Suggests That the Birds' Remarkable Navigational Skills Come From Their Livers&nbsp;&nbsp;Smithsonian MagazineHow do pigeons sense Earth's magnetic field? Scientists say they’ve solved the mystery.&nbsp;&nbsp;National GeographicTo travel far on cloudy days, pigeons listen to their gut",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbXVaTFJzY2VhNDhvTHdrMEFyY012NGJ4V0ZITXlYNlRSeWZ4MUVPTWl6LTlXOWJ6UjBxMl82RXEzRFZrd1VGYzFDSk9TZ1haZy1CbFlxcVlwSnVoZEdBQkVGZnZCM3ZFS0RNY1VUVDZYWUItSFkwbm40elozZjVaSTJ3eWZEaXJlbHZWWGJuMDByLTFCcTRPdg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c3f5e7f48406",
       "title": "Oxford and Harvard Found the Same Longevity Habits Add a Decade of Healthy Life. Here’s What They Are - Charlotte Observer",
       "published": "2026-06-03T22:22:00+00:00",
-      "summary": "Oxford and Harvard Found the Same Longevity Habits Add a Decade of Healthy Life. Here’s What They Are&nbsp;&nbsp;Charlotte ObserverDoctors Say These 7 Longevity Tips Don't Cost a Dime&nbsp;&nbsp;Verywell HealthIf You Only Do One Thing to Live Longer After 50, Oxford and Harvard Agree It Should Be This&nbsp;&nbsp;Kansas City StarWant to Live to 100? Longevity Experts Say These 10 Tips Are the Place to Start&nbsp;&nbsp;Real SimpleForget drastic diets: Small daily habits could be the secret to a lo",
+      "summary": "Oxford and Harvard Found the Same Longevity Habits Add a Decade of Healthy Life. Here’s What They Are&nbsp;&nbsp;Charlotte ObserverA doctor and neurologist's staple routines for longevity: 'To protect the brain, you have to protect the rest of the body'&nbsp;&nbsp;CNBCIf You Only Do One Thing to Live Longer After 50, Oxford and Harvard Agree It Should Be This&nbsp;&nbsp;Kansas City StarDoctors Say These 7 Longevity Tips Don't Cost a Dime&nbsp;&nbsp;Verywell HealthHow to Live a Longer and Healthi",
       "sources": [
         {
           "name": "Charlotte Observer",
@@ -585,7 +681,7 @@
       "id": "f9c4edf5e532",
       "title": "A natural depsipeptide antibiotic binds the E-site of the bacterial ribosome - Nature",
       "published": "2026-06-03T21:37:23+00:00",
-      "summary": "A natural depsipeptide antibiotic binds the E-site of the bacterial ribosome&nbsp;&nbsp;NatureNew antibiotic kills drug-resistant bacteria by targeting previously unknown vulnerability&nbsp;&nbsp;Medical XpressNew synthetic antibiotics could defeat MRSA and prevent relapsing infections&nbsp;&nbsp;The Brighter Side of NewsNatural Depsipeptide Antibiotic Targets Bacterial Ribosome&nbsp;&nbsp;Bioengineer.orgNew Antibiotic, Manikomycin, Acts on Novel Ribosomal Target&nbsp;&nbsp;Genetic Engineering a",
+      "summary": "A natural depsipeptide antibiotic binds the E-site of the bacterial ribosome&nbsp;&nbsp;NatureNew antibiotic kills drug-resistant bacteria by targeting previously unknown vulnerability&nbsp;&nbsp;Medical XpressNew synthetic antibiotics could defeat MRSA and prevent relapsing infections&nbsp;&nbsp;The Brighter Side of NewsMcMaster researchers discover promising new antibiotic&nbsp;&nbsp;CHCHNatural Depsipeptide Antibiotic Targets Bacterial Ribosome&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
           "name": "Nature",
@@ -702,146 +798,14 @@
       ]
     },
     {
-      "id": "6b0974c5791c",
-      "title": "Greenland shark genome reveals clues to 400-year lifespan - Phys.org",
-      "published": "2026-06-03T18:40:06+00:00",
-      "summary": "Greenland shark genome reveals clues to 400-year lifespan&nbsp;&nbsp;Phys.orgGreenland sharks can live for centuries, and now scientists have sequenced 96.7% of the animal's genome, revealing genetic clues linked to DNA repair, cancer resistance, and extreme aging.&nbsp;&nbsp;CPG Click Petróleo e GásThe Genetic Secrets of a Shark That Lives for 500 Years&nbsp;&nbsp;Nautilus | ScienceScientists decoded the genome of Earth's longest-living shark and found a multilayered genetic blueprint for survi",
+      "id": "6df662a87569",
+      "title": "Human Rabies Exposure Reported As 1st Bat Tests Positive In McHenry County - Patch",
+      "published": "2026-06-03T19:03:38+00:00",
+      "summary": "Human Rabies Exposure Reported As 1st Bat Tests Positive In McHenry County&nbsp;&nbsp;PatchHealth officials urge caution after rabid bat found inside Illinois home exposes resident&nbsp;&nbsp;YahooRabid bat in Kent County is 15th confirmed animal case in Michigan&nbsp;&nbsp;Detroit Free PressRabid bat found in McHenry County home&nbsp;&nbsp;WGN-TVBat tests positive for rabies in Darke County&nbsp;&nbsp;WHIO TV",
       "sources": [
         {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WZERwUi1VOTF0eF9aVU1XWnBkb2xmYV9xeVVaaVFRUF9fVk9uTmxBUWtqNkFnc2lyTkxrQzhXUzhHczEtSkZ6NVE4R0VKOC10bGhJcGFocmx6U1VjYkJsUkRlYjlpVy1xSzhhUk9BZk9yMHlrdU5xTTg5Yw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "014b45aac363",
-      "title": "This Common Vitamin May Cut Skin Cancer Risk by More Than Half, According to Dermatologists - AOL.com",
-      "published": "2026-06-03T18:12:51+00:00",
-      "summary": "This Common Vitamin May Cut Skin Cancer Risk by More Than Half, According to Dermatologists&nbsp;&nbsp;AOL.com",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJV3k2ZE9sdFNvdThuZ3dCOEJjZHp3dnVHQ0pGaF9vVFhRNUZ3ZXctU3ZTT1lLWjROZmk0MUIzdW11MWpSMHdwXzJyb3RvbkV0eUlGcUtwRWplNjNkMTJLSC1CcUZPbGRtRkJDQXJtVmxyRG40RFRfb3NNSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "590f85912f53",
-      "title": "Cortisol Pathway Discovered to Close Early Brain Plasticity - Neuroscience News",
-      "published": "2026-06-03T18:11:45+00:00",
-      "summary": "Cortisol Pathway Discovered to Close Early Brain Plasticity&nbsp;&nbsp;Neuroscience NewsHow stress hormone shapes brain development: New clues to why early plasticity fades&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "Neuroscience News",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hcDMwVExkdk5yMXY1YjAtWWZCbUhkc1pzckdhd25MYkZCTms2cVh3cmIwbEVDcEhKNjFtWWFmbTBRZlpFT096ZzQwZUdoSUxXeWQwUmZWblRYNFktck5tLVhkNmlKOG1yRVFMdnh1aWdlX1g4aXhLZldrNTI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f3d758c69551",
-      "title": "NASA Finds New Way Earth May Have Received Elements Needed for Life - NASA Science (.gov)",
-      "published": "2026-06-03T18:01:00+00:00",
-      "summary": "NASA Finds New Way Earth May Have Received Elements Needed for Life&nbsp;&nbsp;NASA Science (.gov)Scientists look at space rocks to uncover how Earth got the ingredients for life&nbsp;&nbsp;Open Access GovernmentEarth became habitable thanks to Jupiter&nbsp;&nbsp;Universe Space TechInner solar system likely provided keys to life on Earth | New Study&nbsp;&nbsp;Florida TodayIron Meteorites & Early Earth's Elements&nbsp;&nbsp;Scientific Frontline",
-      "sources": [
-        {
-          "name": "NASA Science (.gov)",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRTl4SkVRNndReER2TV9rUGIxRkxFbEtVS1ZvTWtMT3hMQ0NialNGMUV4Q2ZxT2hYM2kxczFCVTZkcXFSclg1WU5HdDlvMXFod0RDN1FUdFRaSDBiR2ZUa1Y5a0ExVFRfQ0gwM2o1ZjIyUEx2NzFYUWE1VEpvWmhSU1EtbjNSTHYxTkNhMnhsSldGcGFkNjZsNFZobmFzclJCOWJJX2FQeU9Td080amFiUXdITm1iNW84WWZsLU1YZzVUajQyWnRxemdnUFlTQ1ZLU3F3Rkl0REc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "25be1aca5cab",
-      "title": "Queen bees emerge from special wax chambers - Chemical & Engineering News",
-      "published": "2026-06-03T17:55:34+00:00",
-      "summary": "Queen bees emerge from special wax chambers&nbsp;&nbsp;Chemical & Engineering NewsQueen cell architecture shapes honey bee queen development&nbsp;&nbsp;NatureA diet of royal jelly isn't the only thing that makes a queen bee&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos“That innocent question hit me like a lightning bolt.\" Scientist's two-year-old son inspires discovery of new type of worker honeybee&nbsp;&nbsp;BBC Wildlife MagazineA secret to making a queen bee may lie in the wax a",
-      "sources": [
-        {
-          "name": "Chemical & Engineering News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYVJRS3RJZzQ0UDJLbkRDQkd0WWlIdFV1OXEwS3g3ZzNUYUNNeGcwZFVtbzRrSVNpdVF0YWlmcDZaWHpBTm5nR0lJZ3JSSU42Q2t5dFZEaHprdGlvVWI1RHNTYVV0YkZVaXF6ZDllNXY1cnlCN0puNnU1M3NMQnU1T1dnOGNlS2pVNW5BcnhBdy0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "753ce14a3574",
-      "title": "Injectable hydrogel relieves osteoarthritis pain and repairs cartilage in preclinical tests - Medical Xpress",
-      "published": "2026-06-03T16:40:02+00:00",
-      "summary": "Injectable hydrogel relieves osteoarthritis pain and repairs cartilage in preclinical tests&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRThKdXpLYTQ3SUFGYWY4M0U4Y3IwaGRhS0ZmbkkxclFWbWZteVVvZVBWWnpsSDFCVFRlSHJadklEYndmazJjSmZTTDRYSC1nbnhqQ1dGVEJ2TUVTek0tUUwyU1Jjei1Fa1E5b1Z4bk9PYlU4VzMtVXpvbUxuRmlqc0ZQbF9WWVZiR2NjZG9fVVp0MTQweHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "56a6533d0650",
-      "title": "Americans Born After 1970 Are Dying Faster Than Previous Generations Did At Their Age - StudyFinds",
-      "published": "2026-06-03T16:37:17+00:00",
-      "summary": "Americans Born After 1970 Are Dying Faster Than Previous Generations Did At Their Age&nbsp;&nbsp;StudyFindsSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "StudyFinds",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwbHJ3SHdYVlVNTUxBeTNRRFEzdTZCLVN2RUxZYkxLT0o0amsyR003TjdvU3E3SE4zWkczUnlnVFZOdlN1SlhvQkxHa191SXdnNjhMTVlRLWVfanNrTkZpbHczY29BdDNscUYxMzZ0SQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e30dd866e520",
-      "title": "Consensus meta-analysis of genome-wide association studies for Alzheimer’s disease and related dementias - Nature",
-      "published": "2026-06-03T16:17:30+00:00",
-      "summary": "Consensus meta-analysis of genome-wide association studies for Alzheimer’s disease and related dementias&nbsp;&nbsp;NatureHuge study of Alzheimer’s genetics identifies new drug targets&nbsp;&nbsp;New ScientistAlzheimer's gene map expands to 91 loci, revealing 16 previously unknown risk regions&nbsp;&nbsp;Medical XpressAlzheimer’s Genetic Risk Loci: 16 New Candidates&nbsp;&nbsp;Inside Precision MedicineLarge Genetic Study Identifies Dozens of New Alzheimer’s Risk Genes&nbsp;&nbsp;Discover Magazin",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fcTE2NW5reFBLR2hWYUR5eXV3bEMtNDhkRWhWTl96R2tORHNKUWp6NTJub2pZM0FfS0NCa2NnUXRSZU5XLWxUUjNEaml3YmstRXpXOTI1WG5CaUZjZEg0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "abe8feb922b5",
-      "title": "What your hair color might tell you about your health - The Washington Post",
-      "published": "2026-06-03T16:00:00+00:00",
-      "summary": "What your hair color might tell you about your health&nbsp;&nbsp;The Washington Post",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRTRKb2U2LXNkZUFLbWcyWWFaTVVpeGhLaHlPalRQek5RZENHUUtWMS1ELVZNdUxPc3hPa3F4bFRHUnd2b0ljYlpBV09YX3ZUREpGZGRXTU9lMW94TzlTMzU3VjdhdnJVOHNxcndHb25RbktaVDh5TkRnVTZHR1NXQ1BrQ2dRbUw1dDlqLTZZUzl6NWlVeGpYcUFiRWFGQlFnakUyWS12LUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2a5000e4f4af",
-      "title": "Teen who went to dentist with toothache told he could have 3 weeks left to live due to 'surreal' diagnosis - UNILAD",
-      "published": "2026-06-03T15:24:43+00:00",
-      "summary": "Teen who went to dentist with toothache told he could have 3 weeks left to live due to 'surreal' diagnosis&nbsp;&nbsp;UNILADTeenager's Toothache Was a Sign of Aggressive Blood Cancer That Doctors Say Would've Killed Him in Weeks&nbsp;&nbsp;People.comTeenager went to dentist with toothache - then was given just three weeks to live&nbsp;&nbsp;The MirrorTeen's toothache diagnosis leads to life-threatening blood cancer discovery&nbsp;&nbsp;Yahoo News UKFriends raise thousands to help Derbyshire teen",
-      "sources": [
-        {
-          "name": "UNILAD",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX0NxZjA4ZlpqQWhfOTJfcHNWQkN0eTVXZWloNWhhcDFPRktNcnJDTWdDUkZNYVVsVjJjOVdvcnhHd1ZQOERwbTJLamg2Y1B0UW42SEx0S05hck5pdHduZklWdzJvMTNuOG1xSVVMZGQxUEJsUUx6cWI2dzhpcnRZTDlsVnlmZmVvakJiRDZ5VHFiR1hCUXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fc4f70fa8597",
-      "title": "Spain's total solar eclipse 2026 comes with a catch — here's how to avoid ruining your view - Space",
-      "published": "2026-06-03T15:00:00+00:00",
-      "summary": "Spain's total solar eclipse 2026 comes with a catch — here's how to avoid ruining your view&nbsp;&nbsp;SpaceAn August for Astrotourism: Chasing a Solar Eclipse in the Vineyards of Spain&nbsp;&nbsp;Smithsonian MagazineLongest Total Solar Eclipse of the 21st century will last more than six minutes: Why the August 2027 celes&nbsp;&nbsp;The Economic TimesSolar eclipse fever hits Spain but experts flag risks from sun, crowds and summer heat&nbsp;&nbsp;Murcia Today - NewsThe longest solar eclipse of t",
-      "sources": [
-        {
-          "name": "Space",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYk91S3UzZmhDNmpoVWV1ZmVrUWlGemR1R0dUejV0cFhBVUpnblYxa29hQnRoeHBPNkJVVi1QaS00ZUdvQ2g5T2libGtjdHZjU18wcXFUUHdQejlwOEp6SFNIeUJUd3RRY09WcHktSjBwTlVHMUV5V3VXU1YybGEtOGZBSDFDdDR5RFBJWVU4eUtiQkZwQzJ2VmxBdzFZQkdpaF83REtSMUNrVlBaelFIZ2YydjlMVzVmZ3NsTVBhZlVzN2JycGRuRHBER1Eyb1pQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3314033058d3",
-      "title": "Popular Weight-Loss Drug Found To Slow Biological Aging in Landmark Human Trial - SciTechDaily",
-      "published": "2026-06-03T14:16:32+00:00",
-      "summary": "Popular Weight-Loss Drug Found To Slow Biological Aging in Landmark Human Trial&nbsp;&nbsp;SciTechDailyStudy: Popular GLP-1 Drug May Slow Down Biological Aging&nbsp;&nbsp;UC San Diego TodayWegovy and Ozempic seen to slow down biological ageing markers in HIV adults&nbsp;&nbsp;Labmate OnlineWeight-loss drug may slow down signs of aging&nbsp;&nbsp;Earth.comCould Ozempic Slow Aging? A New Clinical Trial Analysis Opens The Door&nbsp;&nbsp;StudyFinds",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc1NacDBJek5OMW1fUkUzMHdkNVBCaEhpS05VR0E1WlNrd1F4QjBhWXNac0lWYVFXMnhMQ3g1bDhwR19Mc0lVZzB6a1dxclMzbWZkalBHVjFTV2NfVkM2OHRDUHFleTM3dWhKR2xscm9rWjREUkRaektfeFI4Vll0Um5zeFl4NGp0VlRsVjM5bHJZN1daZW40Z3FCY21kUG9wYjczSl9SM2U?oc=5"
+          "name": "Patch",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQnI5Z08wTVpibkJxa20wXzNhRkZQaklrc1gwUm5QX0NJNXpGenVsMTFRR252am5NVmpWUkNCZVphUklmWDU0a1AxSVctRDdsdFNSQ2UtQUJXdEJnNFd1Q0xlRWdTaG90ZVdSV0VLNnRlcVd1RkJlbjlHUDFwUjhBcVJBTXFFSm9zVUUxRWp4NVVRSmo1ZWwtVndfODE5a3ZON1pWM0F30gHEAUFVX3lxTE5UbTlGWGdsZFJ4MTQ5bEhSa3E4UEY1cjVFSUNFd3Q5aGJIYUdZblU5UHhvbkx1LUZnemh6SjVxc0REU25OSFdQQWNibmliUHltMVptQlNzT3BfV1JsX19aM09TTHZoN21sZEhvMW53enV2Nk4wcHR2Nk9IdThHOXd5Vk4tSjNZdi0yWDdmblctbC1IX25JM3ZiYnE0cVZpYkNUMHJRY2JLNHZlWGZpR2xCOHEtVy1lY09BQ1d1dFVMbDhlSjU?oc=5"
         }
       ]
     }

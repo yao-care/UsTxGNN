@@ -1,15 +1,27 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-06-06T03:47:18.279356+00:00",
-  "total_fetched": 119,
-  "unique_count": 119,
-  "health_related_count": 59,
+  "fetched_at": "2026-06-06T08:37:08.260193+00:00",
+  "total_fetched": 118,
+  "unique_count": 118,
+  "health_related_count": 61,
   "news": [
+    {
+      "id": "a0571e135eb8",
+      "title": "On Statins or Beta-Blockers? Watch for These Heart Medication Side Effects - AOL.com",
+      "published": "2026-06-06T05:59:14+00:00",
+      "summary": "On Statins or Beta-Blockers? Watch for These Heart Medication Side Effects&nbsp;&nbsp;AOL.com",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM1liTmFlWGtmeldsTjh3ZFpGek1rRWVyb1dnamVseTBSMzhjVWVlNUFoRklZTExtaEx0N2lmcGdXS3NGbndsS2tBdmk5OVZMTWtTa0ZjXzdJT29rNElmdnEzYWdrN2x1LXZhbUc4bFJGNDlqdHpxc1A1OTNrbG1aYi1Zcw?oc=5"
+        }
+      ]
+    },
     {
       "id": "acbdf7953b1d",
       "title": "Congo outbreak could rival the largest Ebola epidemic on record, CDC warns - The Washington Post",
-      "published": "2026-06-06T03:04:14+00:00",
-      "summary": "Congo outbreak could rival the largest Ebola epidemic on record, CDC warns&nbsp;&nbsp;The Washington PostEbola Cases May Top 20,000 in Three Months, C.D.C. Says&nbsp;&nbsp;The New York TimesCDC report: Ebola outbreak could rival the worst on record unless world acts&nbsp;&nbsp;NPREbola outbreak in Central Africa could reach 20,000 cases without strong public health measures&nbsp;&nbsp;AP NewsEbola outbreak in DR Congo could top 20,000 cases in worst case, CDC says&nbsp;&nbsp;NBC News",
+      "published": "2026-06-06T05:32:05+00:00",
+      "summary": "Congo outbreak could rival the largest Ebola epidemic on record, CDC warns&nbsp;&nbsp;The Washington PostEbola spread in central Africa could match 2014 record outbreak, US health officials say&nbsp;&nbsp;The GuardianEbola Cases May Top 20,000 in Three Months, C.D.C. Says&nbsp;&nbsp;The New York TimesCDC report: Ebola outbreak could rival the worst on record unless world acts&nbsp;&nbsp;NPREbola outbreak in DR Congo could top 20,000 cases in worst case, CDC says&nbsp;&nbsp;NBC News",
       "sources": [
         {
           "name": "The Washington Post",
@@ -18,10 +30,22 @@
       ]
     },
     {
+      "id": "c531d48b4b18",
+      "title": "Learning to Cook Could Lower Your Dementia Risk By 70%, New Study Says - EatingWell",
+      "published": "2026-06-05T22:10:31+00:00",
+      "summary": "Learning to Cook Could Lower Your Dementia Risk By 70%, New Study Says&nbsp;&nbsp;EatingWellCan cooking a meal from scratch reduce your risk of dementia? Doctor explains how this ‘brain workout’ helps&nbsp;&nbsp;Hindustan TimesDementia risk could be slashed by 30% by doing one thing when cooking&nbsp;&nbsp;MSN",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MeDFOR1VkLUY4UVRVMlIySllkaW1OLWR5dlhFdmdybHlSQWlkOXVRYno1VjhCMF8xOXFyaUhTa3lYZXZ0UlBucW1YcjJueWU2YzU5UkgtZGZyeXFtUExhVkhmdnNBTkFySVZwUEstbzFDdjlEcnBFdGtXWQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "71810bf32180",
       "title": "Ebola figures appear to offer hope as case numbers drop in DR Congo but it's not that simple - BBC",
       "published": "2026-06-05T21:48:31+00:00",
-      "summary": "Ebola figures appear to offer hope as case numbers drop in DR Congo but it's not that simple&nbsp;&nbsp;BBCAs Ebola spreads in Congo, a radio station tries to stop health misinformation&nbsp;&nbsp;AP NewsWHO launches $518 million plan to curb Africa Ebola outbreak&nbsp;&nbsp;ReutersIn Congo, doctors face Ebola with little protection: \"We live with fear\"&nbsp;&nbsp;CBS NewsAfrica CDC and WHO launch joint continental Ebola response plan&nbsp;&nbsp;World Health Organization (WHO)",
+      "summary": "Ebola figures appear to offer hope as case numbers drop in DR Congo but it's not that simple&nbsp;&nbsp;BBCAs Ebola spreads in Congo, a radio station tries to stop health misinformation&nbsp;&nbsp;AP NewsAfrica CDC and WHO launch joint continental Ebola response plan&nbsp;&nbsp;World Health Organization (WHO)WHO launches $518 million plan to curb Africa Ebola outbreak&nbsp;&nbsp;Reuters‘We Live With Fear’: In Congo, Doctors Face Ebola With Little Protection&nbsp;&nbsp;KFF Health News",
       "sources": [
         {
           "name": "BBC",
@@ -33,7 +57,7 @@
       "id": "0cfcee097bd6",
       "title": "Fasting after 60 changes more than waistlines, exposing a trade-off many dieters never see coming - Medical Xpress",
       "published": "2026-06-05T19:20:03+00:00",
-      "summary": "Fasting after 60 changes more than waistlines, exposing a trade-off many dieters never see coming&nbsp;&nbsp;Medical XpressStudy Finds Intermittent Fasting Causes Different Physiological Trade-offs in Adults Over 60&nbsp;&nbsp;geneonline.comIntermittent Fasting: Benefits and Risks&nbsp;&nbsp;vocal.media",
+      "summary": "Fasting after 60 changes more than waistlines, exposing a trade-off many dieters never see coming&nbsp;&nbsp;Medical XpressStudy Finds Intermittent Fasting Causes Different Physiological Trade-offs in Adults Over 60&nbsp;&nbsp;geneonline.com",
       "sources": [
         {
           "name": "Medical Xpress",
@@ -57,7 +81,7 @@
       "id": "c6a084393aaa",
       "title": "Modeled Scenario Projections for the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
       "published": "2026-06-05T19:03:32+00:00",
-      "summary": "Modeled Scenario Projections for the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)Opinion | Ebola is spreading in ways no one fully grasps. Use what I know.&nbsp;&nbsp;The Washington PostOpinion | This Is Why You Don’t Slash Humanitarian Aid&nbsp;&nbsp;The New York TimesDemocratic Republic of Congo Ebola Outbreak Overview: Context, Vulnerabilities, and Response (4 June 2026)&nbsp;&nbsp;ReliefWebHow Funding Cuts Left the",
+      "summary": "Modeled Scenario Projections for the Ebola Disease Outbreak Caused by Bundibugyo Virus, 2026&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)Opinion | Ebola is spreading in ways no one fully grasps. Use what I know.&nbsp;&nbsp;The Washington PostUpdate on Ebola Outbreak in the Democratic Republic of the Congo and Uganda, 6/5/2026&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)Opinion | This Is Why You Don’t Slash Humanitarian Aid&nbsp;&nbsp;The New York Times",
       "sources": [
         {
           "name": "Centers for Disease Control and Prevention | CDC (.gov)",
@@ -69,11 +93,23 @@
       "id": "b540e0eef793",
       "title": "US measles cases surpass 2,000 for the 2nd year in a row: CDC - ABC News - Breaking News, Latest News and Videos",
       "published": "2026-06-05T18:33:51+00:00",
-      "summary": "US measles cases surpass 2,000 for the 2nd year in a row: CDC&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosUS measles cases top 2,000 in just 5 months&nbsp;&nbsp;CIDRAPHospitals See Diseases Resurge as Vaccinations Decline&nbsp;&nbsp;The New York TimesUS has passed 2K measles cases this year&nbsp;&nbsp;The HillMeasles is still spreading in the U.S., with more than 2,000 cases this year&nbsp;&nbsp;NBC News",
+      "summary": "US measles cases surpass 2,000 for the 2nd year in a row: CDC&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosHospitals See Diseases Resurge as Vaccinations Decline&nbsp;&nbsp;The New York TimesUS measles cases top 2,000 in just 5 months&nbsp;&nbsp;CIDRAPUS has passed 2K measles cases this year&nbsp;&nbsp;The HillMeasles is still spreading in the U.S., with more than 2,000 cases this year&nbsp;&nbsp;NBC News",
       "sources": [
         {
           "name": "ABC News - Breaking News, Latest News and Videos",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWx4TmpXVElsXzl5UVBkTlFNZ2lrYldxSl9FMF9LbG1BMEhJU0ZkVVN5OVVVaE11eWE3VEMxdEtVTEgzeXBXSDRsNTZZRmtfMHZMRVdMMzZtdTFKM1h1Q1NEZVlHZTZVX0d3ZXE0Z1ExY1VDVkFUUmxaS082UXhNejJvX3JBV3BFbENpTVhrdXlFZ9IBlwFBVV95cUxOclJOdUVWQzZ0M3FFRktYdy1MUDd5M2tfTURnVEVMeFNwTWc2SHFoVktvQjdOQkE1cktzSkFWYXN6azZPdmZwOGYyR1VhTzllTFh2TGpSVzZWczYxbTZRTGx1a3kteEs3bWtsRDkwNFhyUUZNeWhXbU1EMWJ6Q1VvYzhzR0c2Z3BoMzhwWlphQmhXczVxdTJ3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7b5c31271f85",
+      "title": "New solar-power desalination device leaves no brine - Boing Boing",
+      "published": "2026-06-05T18:08:33+00:00",
+      "summary": "New solar-power desalination device leaves no brine&nbsp;&nbsp;Boing BoingNew solar desalination breakthrough makes fresh water without toxic brine&nbsp;&nbsp;ScienceDailyScientists Turn Seawater Into Drinking Water Without Toxic Brine&nbsp;&nbsp;SciTechDailySolar-powered device extracts freshwater and lithium from the sea&nbsp;&nbsp;Anthropocene MagazineNew Desalination Technique Eliminates Brine Waste and Supports Datacenters&nbsp;&nbsp;Electropages",
+      "sources": [
+        {
+          "name": "Boing Boing",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQjk4c1NzZVJlcGxhckRGMU90bl9RRjJSUGtPYTJBa19YZHJnRFVSZjVPSkxXTHp3TnB4NW80RDVjWEhrRWNUQkU1alhqams0OEd4c0xoMlRTZUliejhWNktsSFVSNnZRTTI4QlJvQW4tSk9aZXBpWUxWcUdJMlNsTldqWU9ZSEFyazd6VUlMcjBiQm8z0gGaAUFVX3lxTFBUU1Bmb3hwUnhmRUx4SGlXLWlGTFJQd0VNSzg3RVBMS3g1MlkxRk5NNlV5SmRVdWZXc1NHZjFZOTBvWjI5aU9McFdWa1J5Vy1ldnhkRU9yaks3VExqWnFQQmVqZmxxbEJpRHhITk9QUUstT0R6eUVmcVhDSTdKemloTVpuQk5BNnZDTEN0b2pia0cxbzlUSVVLSnc?oc=5"
         }
       ]
     },
@@ -93,11 +129,23 @@
       "id": "983b41766496",
       "title": "Researchers Are Using AI to Create Vaccines—and It’s Working - Gizmodo",
       "published": "2026-06-05T16:15:13+00:00",
-      "summary": "Researchers Are Using AI to Create Vaccines—and It’s Working&nbsp;&nbsp;Gizmodo'World-first' vaccine designed by artificial intelligence&nbsp;&nbsp;BBCAI-designed universal coronavirus vaccine passes first human trial&nbsp;&nbsp;ScienceDailyScientists design first ‘universal vaccine’ with the help of AI&nbsp;&nbsp;Euronews.comAI ‘super-antigen’ vaccine could protect against whole families of viruses&nbsp;&nbsp;The Independent",
+      "summary": "Researchers Are Using AI to Create Vaccines—and It’s Working&nbsp;&nbsp;Gizmodo'World-first' vaccine designed by artificial intelligence&nbsp;&nbsp;BBCNew ‘universal vaccine’ technology could protect us from future virus outbreaks&nbsp;&nbsp;University of CambridgeAI-designed universal coronavirus vaccine passes first human trial&nbsp;&nbsp;ScienceDailyScientists design first ‘universal vaccine’ with the help of AI&nbsp;&nbsp;Euronews.com",
       "sources": [
         {
           "name": "Gizmodo",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM3lmOVhOejFhT0NaamFucHo0Z0hnc2tJSDFWY09xaFA0ejdMZmVQRUJ0OTBrRS1IN1ZIWFB1eG1CZUdpaXhuS3hfY2F3RDJQakRHTUxOY3dRLXQzZ0JYMVpNU2R2ejNEakptTzRPQkU0ZzNzbHc4d0pGYVgzNVNZekhtZkl4eWwwSlE0aVFNY1Z2eXhm?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fb6c876072bc",
+      "title": "Deep-sea supergiant isopods last years without food by using a two-part survival system - Phys.org",
+      "published": "2026-06-05T15:00:04+00:00",
+      "summary": "Deep-sea supergiant isopods last years without food by using a two-part survival system&nbsp;&nbsp;Phys.orgSupergiant Deep-Sea Isopods Enjoy A Whale Fall Feast, Then Survive For Over 5 Years Without Eating. How?&nbsp;&nbsp;IFLScienceCell study links Bathynomus supergiant deep-sea isopods to 5-year fasting survival&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5va3hxTVN6d28yM1dvWnlQanZncHlYbVZVN2hYU3J1U1Fod3pabWpib1FjS2xaUXNrT19KQjBjV3FuYXBHcXV5WXZVMnV1SkxMa0V1d0Vab0pPckw4YzJsNTRTSjRJWkhtMjNpREtqUWtlS3BqRkJV?oc=5"
         }
       ]
     },
@@ -116,7 +164,7 @@
     {
       "id": "329bfc58779c",
       "title": "Innovation in medicine is having a breakthrough moment - Axios",
-      "published": "2026-06-05T12:53:24+00:00",
+      "published": "2026-06-05T12:55:55+00:00",
       "summary": "Innovation in medicine is having a breakthrough moment&nbsp;&nbsp;AxiosCancer breakthroughs: Does a string of advances signal turning point? - The Debate&nbsp;&nbsp;France 24Breakthrough Medicines for Cancer and Obesity Are Unveiled&nbsp;&nbsp;Bloomberg.comFrom Smart Cancer Drugs to Retatrutide: Medical Breakthroughs Decoded | Vantage on Firstpost&nbsp;&nbsp;Firstpost",
       "sources": [
         {
@@ -141,7 +189,7 @@
       "id": "a36909712f00",
       "title": "The World Cup vs. bugs, germs and heat: Here's the game plan - NPR",
       "published": "2026-06-05T10:59:43+00:00",
-      "summary": "The World Cup vs. bugs, germs and heat: Here's the game plan&nbsp;&nbsp;NPRWhy measles and flu — not Ebola — are front of mind for doctors ahead of the World Cup&nbsp;&nbsp;NBC NewsAs the largest World Cup ever kicks off, health officials are focused on more than Ebola&nbsp;&nbsp;CNBCLos Angeles County health department asks providers to watch for infectious diseases during World Cup&nbsp;&nbsp;CIDRAPScience in action: A look inside the health lab tracking World Cup disease risks&nbsp;&nbsp;WBAL",
+      "summary": "The World Cup vs. bugs, germs and heat: Here's the game plan&nbsp;&nbsp;NPRWhy measles and flu — not Ebola — are front of mind for doctors ahead of the World Cup&nbsp;&nbsp;NBC NewsAs the largest World Cup ever kicks off, health officials are focused on more than Ebola&nbsp;&nbsp;CNBCScience in action: A look inside the health lab tracking World Cup disease risks&nbsp;&nbsp;KCRAWhen the world arrives: Managing health risks and hospital capacity surges during mass gatherings&nbsp;&nbsp;GE HealthC",
       "sources": [
         {
           "name": "NPR",
@@ -150,14 +198,14 @@
       ]
     },
     {
-      "id": "ca24de4c1546",
-      "title": "Twice a day for two weeks: the 'miracle juice' that may help lower blood pressure - Ynetnews",
-      "published": "2026-06-05T10:47:30+00:00",
-      "summary": "Twice a day for two weeks: the 'miracle juice' that may help lower blood pressure&nbsp;&nbsp;YnetnewsEating Beetroots Could Prevent Hypertension&nbsp;&nbsp;Modern GhanaBeetroot juice may lower blood pressure in older adults by changing mouth bacteria&nbsp;&nbsp;diabetes.co.ukThis drink recommended by 4 dieticians lowers blood pressure naturally&nbsp;&nbsp;Paris Select BookIn just two weeks: scientists have discovered which vegetable juice helps stabilize blood pressure&nbsp;&nbsp;Inbox.eu",
+      "id": "5da5d0c46569",
+      "title": "Could it be aliens? From Cheyava Falls on Mars to exoplanet K2-18b – here’s what scientists really think - The Conversation",
+      "published": "2026-06-05T10:46:04+00:00",
+      "summary": "Could it be aliens? From Cheyava Falls on Mars to exoplanet K2-18b – here’s what scientists really think&nbsp;&nbsp;The ConversationComparing astrobiologists’ confidence in extraterrestrial life claims for K2-18 b and Cheyava Falls&nbsp;&nbsp;Nature",
       "sources": [
         {
-          "name": "Ynetnews",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fVVo0anUxNFZlNjlXYTBmaW16TXNYbGpITU9lMmw0amVNcXFIOFJobk1Ub1dLT0xReDhxZnUwSzU2WkpaZXhZQm1lUkQxNjBna240enpFVkJmSUFGVVZPZll6cTFDdU5GNlE?oc=5"
+          "name": "The Conversation",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQamZCY29iR3pNeThrSkJIZHJFQVBmYm1UVmktTkV5TFFEa2JaZm9xVndTRVJnbGdUcER0blctbG9FMFVFVXdkLXBld1pFMXBfVGRaSXJXOUg2cEc4a0QyZVZOWnRORGNRdnQ3SGVIY3VfUWVMb2FwWUJDQ0VUalFMX0JOOUdFb0hPODhRVkFYSlEyY3ZmSld5Mk9aa2xHMnBlU3BkQjZ6YURIbi1KSTF2VV9QX3QzWWZFTENzYVYyQ1hJUzV0TTRMOVlFZW9WczZh?oc=5"
         }
       ]
     },
@@ -186,6 +234,18 @@
       ]
     },
     {
+      "id": "3ce5dc78f924",
+      "title": "The biggest collagen study yet reveals what actually works - ScienceDaily",
+      "published": "2026-06-05T05:29:27+00:00",
+      "summary": "The biggest collagen study yet reveals what actually works&nbsp;&nbsp;ScienceDailyI Took Collagen Every Day for 90 Days— Here's What Actually Happened&nbsp;&nbsp;Yahoo CreatorsThe Best Collagen Supplements of 2026&nbsp;&nbsp;Rolling StoneDo You Need Liquid Collagen & Beauty Wellness Powders? A Doctor Explains the Benefits, Myths, and Hype&nbsp;&nbsp;E! NewsI take collagen daily—these peptides could simplify your routine&nbsp;&nbsp;USA Today",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqbDI2OXNBdE4xMnVDOGlrQ0tabnhKXzcyRThJUWVsMVBTWGdzWnB4b2NUaHJ1Tk1ibjNiNktKMjBQdWZteXVLV3pydF80TDNleG1NVGVMam44T0VKSndWaXhOZkJNaGRveWxzWGI3VQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "cb20d75e2b05",
       "title": "Popular Weight Loss Drugs Linked to Lower Risk of Breast Cancer - ScienceAlert",
       "published": "2026-06-05T03:11:38+00:00",
@@ -201,7 +261,7 @@
       "id": "0319c5ea3b14",
       "title": "‘They surprise me every time’: bees can use tools to solve problems, study finds - The Guardian",
       "published": "2026-06-05T01:31:00+00:00",
-      "summary": "‘They surprise me every time’: bees can use tools to solve problems, study finds&nbsp;&nbsp;The GuardianAre bumblebees as smart as chimps? A new problem-solving experiment makes the case&nbsp;&nbsp;CNNBumble bees show spontaneous problem-solving, challenging big-brain assumptions&nbsp;&nbsp;Phys.orgBumble Bees Solved a Puzzle With No Training, and Scientists Are Stunned&nbsp;&nbsp;YahooBumblebees use tools to solve complex problems—despite not being trained to do so&nbsp;&nbsp;Scientific America",
+      "summary": "‘They surprise me every time’: bees can use tools to solve problems, study finds&nbsp;&nbsp;The GuardianAre bumblebees as smart as chimps? A new problem-solving experiment makes the case&nbsp;&nbsp;CNNBumble bees show spontaneous problem-solving, challenging big-brain assumptions&nbsp;&nbsp;Phys.orgBumblebees use tools to solve complex problems—despite not being trained to do so&nbsp;&nbsp;Scientific AmericanBumblebees can solve problems on their own&nbsp;&nbsp;Science News",
       "sources": [
         {
           "name": "The Guardian",
@@ -246,6 +306,18 @@
       ]
     },
     {
+      "id": "bc0f274fd61e",
+      "title": "New Microraptorine Dinosaur Discovered in China - Sci.News",
+      "published": "2026-06-04T22:17:42+00:00",
+      "summary": "New Microraptorine Dinosaur Discovered in China&nbsp;&nbsp;Sci.NewsRare fossil belonged to a gliding creature that hunted birds&nbsp;&nbsp;CNNNew Velociraptor cousin was a '4-winged' dragon that hunted prey from the trees of ancient China, fossil find hints&nbsp;&nbsp;Live ScienceCarnegie museum paleontologist co-leads discovery of a new dinosaur species in China&nbsp;&nbsp;Pittsburgh Post-GazetteNew species of dinosaur, a cousin of Velociraptor, probably glided on four “wings” and hunted early ",
+      "sources": [
+        {
+          "name": "Sci.News",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rRndoU1NXc21GRjdLbHBaY0hTRVdZOEFzLVdaQlFabGw5RHVMaUpBQjUtWEpLNUlCa2I4RFZRNmJINF9kRVpwZFNreDdxeHI1b3ZFT293YndSWEtpa1pwUThxemZvN0Y2bTNocGVVQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9d39469fcf8d",
       "title": "New study reveals how Stonehenge’s Altar Stone crossed ancient Britain - Archaeology News Online Magazine",
       "published": "2026-06-04T22:00:34+00:00",
@@ -273,7 +345,7 @@
       "id": "4d25b8242612",
       "title": "Trump Administration Tries to Shift Blame for Ebola Response - The Intercept",
       "published": "2026-06-04T21:27:13+00:00",
-      "summary": "Trump Administration Tries to Shift Blame for Ebola Response&nbsp;&nbsp;The InterceptInside a diminished CDC as it confronts Ebola&nbsp;&nbsp;WBURHantavirus and the value of public trust&nbsp;&nbsp;New UniversityAmid Ebola, Hantavirus Outbreaks, Democrats Decry Trump’s Health Cuts&nbsp;&nbsp;Cancer HealthToday’s Disease Outbreaks Are Warnings Local Leaders Can’t Ignore&nbsp;&nbsp;Governing",
+      "summary": "Trump Administration Tries to Shift Blame for Ebola Response&nbsp;&nbsp;The InterceptInside a diminished CDC as it confronts Ebola | On Point with Meghna Chakrabarti&nbsp;&nbsp;WBURHantavirus and the value of public trust&nbsp;&nbsp;New UniversityAmid Ebola, Hantavirus Outbreaks, Democrats Decry Trump’s Health Cuts&nbsp;&nbsp;Cancer HealthToday’s Disease Outbreaks Are Warnings Local Leaders Can’t Ignore&nbsp;&nbsp;Governing",
       "sources": [
         {
           "name": "The Intercept",
@@ -321,7 +393,7 @@
       "id": "901535573f9a",
       "title": "A new blood test can help detect colon cancer, but it’s not as good as the test you hate to take - MarketWatch",
       "published": "2026-06-04T19:39:00+00:00",
-      "summary": "A new blood test can help detect colon cancer, but it’s not as good as the test you hate to take&nbsp;&nbsp;MarketWatchThe US Just Updated Its Guidelines to Detect And Prevent Colorectal Cancer&nbsp;&nbsp;ScienceAlertDoctors push new blood tests for colon cancer as cases surge in younger adults&nbsp;&nbsp;Fox NewsLetters to the Editor&nbsp;&nbsp;Tioga PublishingWellness Wednesday: Doctor explains how colon cancer screenings can save lives&nbsp;&nbsp;WTVA",
+      "summary": "A new blood test can help detect colon cancer, but it’s not as good as the test you hate to take&nbsp;&nbsp;MarketWatchLocal doctor discusses new American Cancer Society colorectal cancer screening guidelines&nbsp;&nbsp;Tampa Bay 28Wellness Wednesday: cancer screenings, mortality, and A.I. impairments to mind&nbsp;&nbsp;FOX 17 West Michigan NewsAmerican Cancer Society adds blood and stool tests to colorectal screening guideline&nbsp;&nbsp;Managed Healthcare ExecutiveWhat's Going Around: New Colo",
       "sources": [
         {
           "name": "MarketWatch",
@@ -357,7 +429,7 @@
       "id": "dbf36f1df28a",
       "title": "Tainted Food Is Killing Far More People Than Previously Thought, WHO Says - Gizmodo",
       "published": "2026-06-04T18:05:40+00:00",
-      "summary": "Tainted Food Is Killing Far More People Than Previously Thought, WHO Says&nbsp;&nbsp;Gizmodo1.5 million people died of foodborne illnesses in one year. What can you do?&nbsp;&nbsp;CNNUnsafe food causes 866 million illnesses and 1.5 million deaths annually, young children at highest risk&nbsp;&nbsp;World Health Organization (WHO)World Food Safety Day 2026: EFSA advancing safer food through science&nbsp;&nbsp;EFSAUnsafe food kills 1.5 million people each year; children most at risk: WHO&nbsp;&nbsp",
+      "summary": "Tainted Food Is Killing Far More People Than Previously Thought, WHO Says&nbsp;&nbsp;Gizmodo1.5 million people died of foodborne illnesses in one year. What can you do?&nbsp;&nbsp;CNNUnsafe food causes 866 million illnesses and 1.5 million deaths annually, young children at highest risk&nbsp;&nbsp;World Health Organization (WHO)World Food Safety Day 2026: EFSA advancing safer food through science&nbsp;&nbsp;EFSARising Tide Of Unsafe Food, A Growing Public Health, Economic And Climate Crisis: WHO",
       "sources": [
         {
           "name": "Gizmodo",
@@ -369,7 +441,7 @@
       "id": "9bdc1111531f",
       "title": "Ultra-processed food harms tied to content not manufacture, review says - Financial Times",
       "published": "2026-06-04T18:00:09+00:00",
-      "summary": "Ultra-processed food harms tied to content not manufacture, review says&nbsp;&nbsp;Financial TimesAmericans say they want strict regulations on ultraprocessed food. Will industry and regulators deliver?&nbsp;&nbsp;CNNHere’s How Philip Morris Designed Lunchables to Hook Generations of Kids&nbsp;&nbsp;KQEDBig tobacco uses cigarette playbook to help sell ultra-processed foods, journal reveals&nbsp;&nbsp;The GuardianBig Tobacco Engineered Ultra-Processed Food, Creating Harmful And Addictive Products",
+      "summary": "Ultra-processed food harms tied to content not manufacture, review says&nbsp;&nbsp;Financial TimesAmericans say they want strict regulations on ultraprocessed food. Will industry and regulators deliver?&nbsp;&nbsp;CNNHere’s How Philip Morris Designed Lunchables to Hook Generations of Kids&nbsp;&nbsp;KQEDIt May Not Just Be What’s in Ultra-Processed Foods, But How They’re Made&nbsp;&nbsp;Tufts NowBig Tobacco Engineered Ultra-Processed Food, Creating Harmful And Addictive Products&nbsp;&nbsp;Health",
       "sources": [
         {
           "name": "Financial Times",
@@ -381,7 +453,7 @@
       "id": "f513fd1b7130",
       "title": "You Can Train Your Brain to Go on Autopilot - Newser",
       "published": "2026-06-04T17:48:00+00:00",
-      "summary": "You Can Train Your Brain to Go on Autopilot&nbsp;&nbsp;NewserScience reveals people are capable of multitasking — it just requires practice&nbsp;&nbsp;NBC NewsScientists have long said we can’t multitask. A new study says we can&nbsp;&nbsp;The IndependentTrue Brain Multitasking Is Possible&nbsp;&nbsp;Neuroscience NewsThe brain can unlock true multitasking after intensive training&nbsp;&nbsp;Medical Xpress",
+      "summary": "You Can Train Your Brain to Go on Autopilot&nbsp;&nbsp;NewserScience reveals people are capable of multitasking — it just requires practice&nbsp;&nbsp;NBC NewsScientists have long said we can’t multitask. A new study says we can&nbsp;&nbsp;The IndependentThe brain can unlock true multitasking after intensive training&nbsp;&nbsp;Medical XpressTrue Brain Multitasking Is Possible&nbsp;&nbsp;Neuroscience News",
       "sources": [
         {
           "name": "Newser",
@@ -462,38 +534,14 @@
       ]
     },
     {
-      "id": "0b3208b8bd7a",
-      "title": "Did NASA Miss Viking’s Discovery of Life on Mars? - Avi Loeb – Medium",
-      "published": "2026-06-04T16:16:47+00:00",
-      "summary": "Did NASA Miss Viking’s Discovery of Life on Mars?&nbsp;&nbsp;Avi Loeb – MediumCatching Up With Perseverance on Mars&nbsp;&nbsp;NASA (.gov)NASA’s Perseverance Rover is ready to complete a Martian marathon&nbsp;&nbsp;Cyprus Mail",
-      "sources": [
-        {
-          "name": "Avi Loeb – Medium",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc2xQM2IxV2NibXk2WXFRSmZOMFJITzF2S2wyV01zemVoZDBDekZuRlZDa2YzbUlzenlSNm4xY21DbDhBT3VpVDZUbFVJdXJEZDFhejFFd2M4OWlVcTNWZGxsenh0RHJzSU9oWmlOYnR3NXBvUzlzQ3BDTkpieWZ4djZjZW01MXlCZ0hydHBYS1VuUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f9501325d44e",
       "title": "Researchers Solve the Mystery Behind a Billion-Dollar Dental Implant Disease - SciTechDaily",
       "published": "2026-06-04T15:58:11+00:00",
-      "summary": "Researchers Solve the Mystery Behind a Billion-Dollar Dental Implant Disease&nbsp;&nbsp;SciTechDailyWhy antibiotics often fail in peri-implantitis treatment&nbsp;&nbsp;Dentistry.co.ukU. researchers publish study showing why antibiotics are ineffective against dental implant disease&nbsp;&nbsp;The Daily TargumWhy antibiotics fail against peri-implantitis, and what might fix it&nbsp;&nbsp;DrBicuspid.com",
+      "summary": "Researchers Solve the Mystery Behind a Billion-Dollar Dental Implant Disease&nbsp;&nbsp;SciTechDailyWhy antibiotics often fail in peri-implantitis treatment&nbsp;&nbsp;Dentistry.co.ukU. researchers publish study showing why antibiotics are ineffective against dental implant disease&nbsp;&nbsp;The Daily TargumWhy antibiotics fail against peri-implantitis, and what might fix it&nbsp;&nbsp;DrBicuspid.comTitanium particles may explain why antibiotics fail against dental implant infections&nbsp;&nbsp",
       "sources": [
         {
           "name": "SciTechDaily",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVXJwZUNMbGdrdkJKOTIxeF83RVU2c3VieEZfUkNLTFFOaEVwSmhzVkxaSjkxNkh1UHZRR1hZNUlzRDdWakFUeUNWaGp2Snp6N3E2eFotcXYzamhud2p5RU4zdVpqODlaZGRXYlFNQV9Qclh1NnIybTZmLV9ZY3BXSGR0TVhNaWhISm9VMFljcm1QRDdqZFF5MHY1TWZNWHpoOXRRZg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "48ad61501d7c",
-      "title": "NASA Just Delivered the Mars Orbiter Update Nobody Wanted to Hear - Gizmodo",
-      "published": "2026-06-04T15:15:30+00:00",
-      "summary": "NASA Just Delivered the Mars Orbiter Update Nobody Wanted to Hear&nbsp;&nbsp;GizmodoNASA Says Goodbye to Its Longtime Mars Orbiter&nbsp;&nbsp;The New York TimesNASA Says Farewell to MAVEN Mars Mission, Hosts Media Call Today&nbsp;&nbsp;NASA (.gov)'In an unrecoverable state': NASA confirms MAVEN spacecraft is officially dead after orbital 'anomaly' behind Mars&nbsp;&nbsp;YahooNASA declares end of mission for long-lasting Mars orbiter&nbsp;&nbsp;CBS News",
-      "sources": [
-        {
-          "name": "Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTGhTcHdGRnJjRE9Mb2h4bEtmbVJOWmg3bUpseDdtd0JrdmxJZl9wcUlGRzNKeE5JSWY5eFd5elVnc2s0cmlyNHF1VFZmN0hhdlRGT2ZRZ3ljMDhMRTRBWkwxNFROb1VmVVBaNkphdXZzd2w1R2pLQmRzdUZEWXFJUFRsVS1RbGJOM3ZBd2lKS3dkYjRhOWdrc1UzWGc?oc=5"
         }
       ]
     },
@@ -525,7 +573,7 @@
       "id": "ee503a5228a1",
       "title": "What will it take to get a vaccine for the Ebola strain driving the current outbreak? - NPR",
       "published": "2026-06-04T14:12:46+00:00",
-      "summary": "What will it take to get a vaccine for the Ebola strain driving the current outbreak?&nbsp;&nbsp;NPRCEPI fast-tracks three Bundibugyo ebolavirus vaccine candidates&nbsp;&nbsp;CEPIAs Ebola Spreads, Scientists Race to Find Vaccines and Treatments&nbsp;&nbsp;The New York TimesEMA, AMA and African regulatory authorities join forces on Ebola outbreak response&nbsp;&nbsp;European Medicines Agency (EMA)What are the Ebola vaccines under research, and when will they be ready?&nbsp;&nbsp;Al Jazeera",
+      "summary": "What will it take to get a vaccine for the Ebola strain driving the current outbreak?&nbsp;&nbsp;NPRAs Ebola Spreads, Scientists Race to Find Vaccines and Treatments&nbsp;&nbsp;The New York TimesCEPI fast-tracks three Bundibugyo ebolavirus vaccine candidates&nbsp;&nbsp;CEPIEMA, AMA and African regulatory authorities join forces on Ebola outbreak response&nbsp;&nbsp;European Medicines Agency (EMA)What are the Ebola vaccines under research, and when will they be ready?&nbsp;&nbsp;Al Jazeera",
       "sources": [
         {
           "name": "NPR",
@@ -597,7 +645,7 @@
       "id": "c083c638c7a8",
       "title": "90-120 minutes of strength training per week may help extend lifespan - Medical News Today",
       "published": "2026-06-04T11:42:29+00:00",
-      "summary": "90-120 minutes of strength training per week may help extend lifespan&nbsp;&nbsp;Medical News TodayThis much strength training may reduce your risk of early death, study says&nbsp;&nbsp;USA TodayTwo gym sessions a week are the key to a long life&nbsp;&nbsp;The TelegraphThe Best Exercise Combination for Longevity, According to a 30-Year Study&nbsp;&nbsp;SciTechDailyCan two hours of strength training a week reduce the risk of dying early?&nbsp;&nbsp;BBC",
+      "summary": "90-120 minutes of strength training per week may help extend lifespan&nbsp;&nbsp;Medical News TodayThis much strength training may reduce your risk of early death, study says&nbsp;&nbsp;USA TodayThe 30-minute strength workout that will help you live longer – and boost your brain&nbsp;&nbsp;The TelegraphThe Best Exercise Combination for Longevity, According to a 30-Year Study&nbsp;&nbsp;SciTechDailyCan two hours of strength training a week reduce the risk of dying early?&nbsp;&nbsp;BBC",
       "sources": [
         {
           "name": "Medical News Today",
@@ -609,7 +657,7 @@
       "id": "d592c73c8a6c",
       "title": "Surprising New Study Challenges a Century-Old Theory of Habit Formation - SciTechDaily",
       "published": "2026-06-04T11:04:14+00:00",
-      "summary": "Surprising New Study Challenges a Century-Old Theory of Habit Formation&nbsp;&nbsp;SciTechDailyHabits form far faster than previously thought, research shows&nbsp;&nbsp;Medical XpressHabits form far faster than science previously thought, research shows&nbsp;&nbsp;Johns Hopkins UniversityBad habits form much faster than we thought&nbsp;&nbsp;Earth.comJohns Hopkins Study Finds Human Habits Form Faster Than Previously Estimated&nbsp;&nbsp;geneonline.com",
+      "summary": "Surprising New Study Challenges a Century-Old Theory of Habit Formation&nbsp;&nbsp;SciTechDailyHabits form far faster than previously thought, research shows&nbsp;&nbsp;Medical XpressBad habits form much faster than we thought&nbsp;&nbsp;Earth.comJohns Hopkins Study Finds Human Habits Form Faster Than Previously Estimated&nbsp;&nbsp;geneonline.comHabits form far faster than science previously thought, research shows&nbsp;&nbsp;Johns Hopkins University",
       "sources": [
         {
           "name": "SciTechDaily",
@@ -642,18 +690,6 @@
       ]
     },
     {
-      "id": "2f1007662560",
-      "title": "This new diabetes pill burns fat without the downsides of Ozempic - ScienceDaily",
-      "published": "2026-06-04T10:08:33+00:00",
-      "summary": "This new diabetes pill burns fat without the downsides of Ozempic&nbsp;&nbsp;ScienceDaily",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jTHVGZUdMc3lMZTFJR21tR2t0dmxVaWpwbjliNDdKaDZxLVlPb1ozS0poS3RGbWtlai1WanpCeHM0MWtCUEFEQlh6LTJCMXA1cmZMZ3lwTlpPZDROcDlpMVZ4Vk5rdDBjMXlTTXd0SQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "70536cb62161",
       "title": "This Quirky Accessory Can Actually Make Walking Easier And Boost Heart Health - HuffPost",
       "published": "2026-06-04T10:00:18+00:00",
@@ -669,7 +705,7 @@
       "id": "8b8b2c1fd1dc",
       "title": "Meteorite found in Sahara desert may be 1st evidence of lost solar system world - Space",
       "published": "2026-06-04T10:00:00+00:00",
-      "summary": "Meteorite found in Sahara desert may be 1st evidence of lost solar system world&nbsp;&nbsp;SpaceRare Meteorite Hints at Ancient Planetary Collision in Our Solar System&nbsp;&nbsp;Nautilus | ScienceRare Meteorite May Be Evidence of a Lost Planet That Never Fully Formed&nbsp;&nbsp;GizmodoResearchers find evidence of a protoplanet in an extremely rare meteorite&nbsp;&nbsp;heise onlineRare Meteorite Provides Evidence of Giant Early Planet | Newswise&nbsp;&nbsp;Newswise",
+      "summary": "Meteorite found in Sahara desert may be 1st evidence of lost solar system world&nbsp;&nbsp;SpaceRare Meteorite Hints at Ancient Planetary Collision in Our Solar System&nbsp;&nbsp;Nautilus | ScienceRare Meteorite May Be Evidence of a Lost Planet That Never Fully Formed&nbsp;&nbsp;GizmodoResearchers find evidence of a protoplanet in an extremely rare meteorite&nbsp;&nbsp;heise onlineScientists Find Chunk of Lost Planet in Desert&nbsp;&nbsp;Futurism",
       "sources": [
         {
           "name": "Space",
@@ -698,18 +734,6 @@
         {
           "name": "The Guardian",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYWZialBzYURuVFdJOERtNXFWYm9yb09FRUVBdEtnUjV6NVhjUG4zMzNRY0NiYmkxSGhHbEJlODV6VXFLY0FoOWl1bk9oeFpYSDFUWE1lZ2RNazhTVnlNWTZNZmFJUkZYQ25VdHB3T2ZFUXJZZS1IajZmdTRyMlAwb1k1bGFteU9OY2hJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "761029e58709",
-      "title": "This mysterious lung disease affects millions of people — but a drug tested in mice shows promise - Nature",
-      "published": "2026-06-04T05:01:03+00:00",
-      "summary": "This mysterious lung disease affects millions of people — but a drug tested in mice shows promise&nbsp;&nbsp;NatureInnate immunity and microbiome allied against pulmonary fibrosis&nbsp;&nbsp;BioWorld News",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qR0w2cXY3a3p2T2xQUDVPcjBTWWJxa0I1a3p0ak9zZm1WckZOM3ltV2ZsNkpjcUY2ZThJeFVHTUp3N0dlWkxNOVF2OXRDUXVUSlB0R3JJeTI1NWdpQldr?oc=5"
         }
       ]
     }

@@ -1,19 +1,31 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-06-07T04:13:46.758369+00:00",
-  "total_fetched": 113,
-  "unique_count": 113,
-  "health_related_count": 57,
+  "fetched_at": "2026-06-07T09:17:45.715655+00:00",
+  "total_fetched": 112,
+  "unique_count": 112,
+  "health_related_count": 52,
   "news": [
     {
       "id": "9bfb7252b533",
       "title": "Struggle sleeping? These three common sleep habits tied to signs of brain aging, U of A study finds - University of Arizona News",
-      "published": "2026-06-07T03:27:40+00:00",
-      "summary": "Struggle sleeping? These three common sleep habits tied to signs of brain aging, U of A study finds&nbsp;&nbsp;University of Arizona NewsCommon Sleeping Pill May Reduce Buildup of Alzheimer's Proteins, Study Reveals&nbsp;&nbsp;ScienceAlertWhat do common dementia risk factors have in common? Poor sleep&nbsp;&nbsp;Medical News TodayU of A study links 3 sleep habits to brain aging signs&nbsp;&nbsp;KVOAHow the Brain Works at Night; An Unusual ARIA Case; Smartwatch Detects Seizures&nbsp;&nbsp;MedPage",
+      "published": "2026-06-07T06:26:24+00:00",
+      "summary": "Struggle sleeping? These three common sleep habits tied to signs of brain aging, U of A study finds&nbsp;&nbsp;University of Arizona NewsCommon Sleeping Pill May Reduce Buildup of Alzheimer's Proteins, Study Reveals&nbsp;&nbsp;ScienceAlertWhat do common dementia risk factors have in common? Poor sleep&nbsp;&nbsp;Medical News TodayIrregular Sleep Habits Linked to Increased Brain Tissue Damage&nbsp;&nbsp;Neuroscience NewsHow the Brain Works at Night; An Unusual ARIA Case; Smartwatch Detects Seizur",
       "sources": [
         {
           "name": "University of Arizona News",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWmRvSnU1ZzhZa3hjZFJsTUhqLXFxNDBMMWtBT1hnUnZNMGFLcTR6NEM1aEFLV2JyNXRZLVB1cFNUWFVzcF9SXy1melI1QVExU3RKNV9valo1SDN0Z3Fnc25kS0NJOVdYeEF5bGFpcFpzNGgxcVFWckZJVnF4RksweklqdG1Ea29JSlNXNllwSkVKdjBMLU9kYTdRV2xPdTA0bDNyeUFSRVpOSzB5ZEpvY3l0THZXNzA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0cfeafa0558c",
+      "title": "Some people lose over 20% of their body weight on Ozempic. Others lose almost nothing. A doctor explains why - Yahoo Creators",
+      "published": "2026-06-06T23:42:58+00:00",
+      "summary": "Some people lose over 20% of their body weight on Ozempic. Others lose almost nothing. A doctor explains why&nbsp;&nbsp;Yahoo CreatorsGene variants may reduce response to Ozempic-style GLP-1 diabetes drugs&nbsp;&nbsp;Labmate OnlineScientists discover why ozempic may not work for some people&nbsp;&nbsp;ScienceDailyDecoding the Genetic Lottery: Why Weight Loss Jabs Fail for Some and Excel for Others&nbsp;&nbsp;South Florida Reporter",
+      "sources": [
+        {
+          "name": "Yahoo Creators",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWVk5aHczYTVuNDVNRzFqekFJMVRlQXVtWk5hd2pfbEphXzZIWE50VVQxQ19WTmNQWnhPdzREcExZamZTc0VCYXR6cGtUWjlIWnRXeXREUlBmMXBUdUtMeHJ1VlIwdHdNalNFUDJST0UyN0ViMHBab0Y4ak1nbExpNjd4RjdNMGNYYjRmZmw2eE9JLUJXX2pFcG1FRXNuSk5Tb3hoU2FOeGpObFB6a05tMFNZbHRtVVhIbWsyNm5CMlJVdlNISFlJRlUwVVROTW1HVjFfSEhENmd3WWpnTlNsQklzYThla2RQV0xXVjRCX0hIUU5pQ2c?oc=5"
         }
       ]
     },
@@ -45,7 +57,7 @@
       "id": "d76e8e464904",
       "title": "Largest scorpion ever grew to over three-feet long and had six-inch pinchers, according to nightmare-inducing study - New York Post",
       "published": "2026-06-06T19:33:00+00:00",
-      "summary": "Largest scorpion ever grew to over three-feet long and had six-inch pinchers, according to nightmare-inducing study&nbsp;&nbsp;New York PostWorld’s largest scorpion revealed by 415-million-year-old fossils&nbsp;&nbsp;Natural History MuseumGiant Scorpions Ruled Ancient Britain during Devonian Period&nbsp;&nbsp;Sci.NewsWorld’s biggest scorpions were the size of baseball bats&nbsp;&nbsp;Popular ScienceWorld's largest scorpion had 6-inch pincers, and prowled UK land and waters 415 million years ago&",
+      "summary": "Largest scorpion ever grew to over three-feet long and had six-inch pinchers, according to nightmare-inducing study&nbsp;&nbsp;New York PostWorld’s largest scorpion revealed by 415-million-year-old fossils&nbsp;&nbsp;Natural History MuseumGiant Scorpions Ruled Ancient Britain during Devonian Period&nbsp;&nbsp;Sci.NewsWorld’s biggest scorpions were the size of baseball bats&nbsp;&nbsp;Popular ScienceApex predator scorpion crawled the Earth hundreds of millions of years ago&nbsp;&nbsp;CP24",
       "sources": [
         {
           "name": "New York Post",
@@ -69,7 +81,7 @@
       "id": "600fe828fc12",
       "title": "One Drink of Alcohol a Day Raises Your Risk of 10 Cancers, Study Warns - ScienceAlert",
       "published": "2026-06-06T18:03:49+00:00",
-      "summary": "One Drink of Alcohol a Day Raises Your Risk of 10 Cancers, Study Warns&nbsp;&nbsp;ScienceAlertHealth effects associated with alcohol consumption: a Burden of Proof study&nbsp;&nbsp;NatureAlcohol is the root of 62 diseases and a partial cause of dozens more&nbsp;&nbsp;Harvard T.H. Chan School of Public HealthIs Alcohol Part of a Healthy Lifestyle?&nbsp;&nbsp;MedscapeEven Moderate Alcohol Use Can Increase 20 Different Health Risks&nbsp;&nbsp;Healthline",
+      "summary": "One Drink of Alcohol a Day Raises Your Risk of 10 Cancers, Study Warns&nbsp;&nbsp;ScienceAlertIs Alcohol Part of a Healthy Lifestyle?&nbsp;&nbsp;MedscapeHealth effects associated with alcohol consumption: a Burden of Proof study&nbsp;&nbsp;NatureAlcohol is the root of 62 diseases and a partial cause of dozens more&nbsp;&nbsp;Harvard T.H. Chan School of Public HealthEven Moderate Alcohol Use Can Increase 20 Different Health Risks&nbsp;&nbsp;Healthline",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -81,7 +93,7 @@
       "id": "084534b3c648",
       "title": "5 Daily Exercises Men Should Do Each Morning to Build Leg Strength After 60 - Eat This Not That",
       "published": "2026-06-06T17:02:51+00:00",
-      "summary": "5 Daily Exercises Men Should Do Each Morning to Build Leg Strength After 60&nbsp;&nbsp;Eat This Not That'I'm 60 and still getting stronger – these are the 11 exercises I repeat every week for full-body strength'&nbsp;&nbsp;Women's Health5 Standing Exercises That Restore Quad Strength Faster Than Gym Machines After 60&nbsp;&nbsp;Eat This Not That10 minutes, 5 exercises and this simple no-equipment workout to stay strong no matter your age&nbsp;&nbsp;t3.comDo these 6 chair-based exercises to impro",
+      "summary": "5 Daily Exercises Men Should Do Each Morning to Build Leg Strength After 60&nbsp;&nbsp;Eat This Not That'I'm 60 and still getting stronger – these are the 11 exercises I repeat every week for full-body strength'&nbsp;&nbsp;Women's HealthI'm a personal trainer, and if I were 60, these are the 6 exercises I’d do to build strength, muscle and leanness&nbsp;&nbsp;Yahoo5 Standing Exercises That Restore Quad Strength Faster Than Gym Machines After 60&nbsp;&nbsp;Eat This Not That10 minutes, 5 exercises",
       "sources": [
         {
           "name": "Eat This Not That",
@@ -126,18 +138,6 @@
       ]
     },
     {
-      "id": "5782ffd854ab",
-      "title": "The World Has Learned From the Last Ebola Outbreak, but Gaps Remain - The New York Times",
-      "published": "2026-06-06T15:28:47+00:00",
-      "summary": "The World Has Learned From the Last Ebola Outbreak, but Gaps Remain&nbsp;&nbsp;The New York TimesEbola outbreaks aren’t stopped by vaccines alone. Here’s what else is needed&nbsp;&nbsp;The IndependentAfrica: An Ebola \"Fortress Strategy\" Will Fail - Lessons from the Past&nbsp;&nbsp;allAfrica.comOpinion | Time to Apply the Lessons of the 2014 Ebola Outbreak&nbsp;&nbsp;WSJ",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTFlTbUtKMFVCSlJnUzZlVE5fdDJsTXI4YnpmbE9DNUZkZVhtU0ExNnpKcUFPajZCY2ozcG1nR3d3Ni05MmU4enZ2dWYtLUhPdElfYTJKS0NkTFQ1WW9hWktfc0MtQk83YkZyUGthYzRiMGxTNXFJcGpxbV9neDFIV3llQndCVVU0cFNYQTZ6dFRqWHZzX2R1dVhDT3dmb05YdTBSN2U5M1gzNVI1Q3dJSGdZSjd2eW9FaDRR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "48048996bffb",
       "title": "Autism may have two distinct subtypes based on brain connectivity patterns - Medical Xpress",
       "published": "2026-06-06T13:40:01+00:00",
@@ -177,7 +177,7 @@
       "id": "cb439bfa35bd",
       "title": "The No. 1 Food to Eat for Better Gut Health, According to Nutrition Experts - marthastewart.com",
       "published": "2026-06-06T13:00:00+00:00",
-      "summary": "The No. 1 Food to Eat for Better Gut Health, According to Nutrition Experts&nbsp;&nbsp;marthastewart.comWays To Keep Your Gut Healthy&nbsp;&nbsp;NDTVThe Top 7 Nutrients to Support Gut Health, According to Dietitians&nbsp;&nbsp;AOL.comThe gut health booster you’ve never heard of — but probably need&nbsp;&nbsp;Good HousekeepingBloating, constipation, poor digestion? Oxford-certified celebrity nutritionist shares 5 common superfoods&nbsp;&nbsp;The Economic Times",
+      "summary": "The No. 1 Food to Eat for Better Gut Health, According to Nutrition Experts&nbsp;&nbsp;marthastewart.comTaking probiotics? Why it is better not from a supplement, but from this food&nbsp;&nbsp;The Jerusalem PostThe Top 7 Nutrients to Support Gut Health, According to Dietitians&nbsp;&nbsp;AOL.comWays To Keep Your Gut Healthy&nbsp;&nbsp;NDTVThe gut health booster you’ve never heard of — but probably need&nbsp;&nbsp;Good Housekeeping",
       "sources": [
         {
           "name": "marthastewart.com",
@@ -189,11 +189,35 @@
       "id": "e890a7a7d021",
       "title": "The most hopeful cancer news in years - vox.com",
       "published": "2026-06-06T12:30:00+00:00",
-      "summary": "The most hopeful cancer news in years&nbsp;&nbsp;vox.comNew pancreatic cancer pill nearly doubles survival time in breakthrough trial&nbsp;&nbsp;Fox NewsA new pancreatic cancer drug is changing survival rates for one of the deadliest cancers&nbsp;&nbsp;UCHealthLandmark pancreatic cancer treatment paves way for targeting other tricky tumors&nbsp;&nbsp;Scientific AmericanFor pancreatic cancer patients, an exciting drug can feel out of reach&nbsp;&nbsp;statnews.com",
+      "summary": "The most hopeful cancer news in years&nbsp;&nbsp;vox.comRemoving ‘invisibility cloaks’ and safely skipping chemo: new weapons in war on cancer shared at US conference&nbsp;&nbsp;The GuardianNew pancreatic cancer pill nearly doubles survival time in breakthrough trial&nbsp;&nbsp;Fox NewsA new pancreatic cancer drug is changing survival rates for one of the deadliest cancers&nbsp;&nbsp;UCHealthFor pancreatic cancer patients, an exciting drug can feel out of reach&nbsp;&nbsp;statnews.com",
       "sources": [
         {
           "name": "vox.com",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaWl6SUp5Y0hRVy1NWTZ6azRZZ0VOaEZBZERpY1hndHJsVlo1YV9OcUN2U295dkdJUmplRVQzczhOSTkyV1R2TmVOVXVnZTVjczU4WGFLVFBrRmh4akxlSEt0VjRpVlBIVW5BREhBSDhkSXluN013UjVUMktyNC1wYUNqU3VqWThFTVhrU29EV2hBc3d2R2gwWkRJYktqX2s?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b35b0f97203a",
+      "title": "Rare Lyme Disease Strain Is Detected in a New State - Newser",
+      "published": "2026-06-06T12:10:00+00:00",
+      "summary": "Rare Lyme Disease Strain Is Detected in a New State&nbsp;&nbsp;NewserRare type of Lyme disease found for the first time in New York&nbsp;&nbsp;NBC News‘Scarier’ Type of Lyme Disease Spreading in the US Causes More Severe Symptoms: Doctors Explain&nbsp;&nbsp;TODAY.comA new type of lyme disease found in Upstate New York according to CDC&nbsp;&nbsp;WSTMRare tick-borne bacteria discovered in New York for first time&nbsp;&nbsp;latination.com",
+      "sources": [
+        {
+          "name": "Newser",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRVR3dnprQmZlZmJOVWt1M2p1LUxJamVJaXVuTS11aDF0ZnlBMmZQUEp5cm41am9yWmxKQTZmZTlpT0FOaFBVd1VLVUxDalpKb3d2UG9sYWhJTW83eG5zS2dFUTg0ZHppZXVzbXY0VjBSaUljaDRPbDI5S1pDeDlaNWlaZm9IUThZR3BvbHRobndBb0RDUTdJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "58c4b1f3974e",
+      "title": "First AI-designed 'universal vaccine' tested in humans: UK researchers - Medical Xpress",
+      "published": "2026-06-06T11:28:24+00:00",
+      "summary": "First AI-designed 'universal vaccine' tested in humans: UK researchers&nbsp;&nbsp;Medical Xpress'World-first' vaccine designed by artificial intelligence&nbsp;&nbsp;BBCAI-designed universal coronavirus vaccine passes first human trial&nbsp;&nbsp;ScienceDailyNew ‘universal vaccine’ technology could protect us from future virus outbreaks&nbsp;&nbsp;University of CambridgeNew AI-designed vaccine could prevent pandemics and save millions of lives, scientists say&nbsp;&nbsp;Sky News",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wSTMyS3RWSTJZSG9hZUNLRy0wV19FVE9qeTF2VXh6QWxBU2dIQVBwU2ZldzR1WTAteHlIOUlYQlJvX1IzRjR0XzlQdmdHY3drMmE4TTNDRVpVSlJjVTl0VnB6VmVMQ3VRN1Y4MkVXNlRuYXhmMGZTR1R4U095QlE?oc=5"
         }
       ]
     },
@@ -213,7 +237,7 @@
       "id": "251d07f04858",
       "title": "5 Foods That Aren't Doing Your Cholesterol Any Favors - HuffPost",
       "published": "2026-06-06T11:00:18+00:00",
-      "summary": "5 Foods That Aren't Doing Your Cholesterol Any Favors&nbsp;&nbsp;HuffPost5 Foods a Cardiologist Eats Every Day to Lower Cholesterol&nbsp;&nbsp;TODAY.com6 Budget-Friendly Pantry Staples for Lower Cholesterol&nbsp;&nbsp;EatingWellHow To Lower Your Cholesterol Naturally After 50 in Just Minutes a Day&nbsp;&nbsp;Woman's WorldHealthPally Releases Guide on How to Control Cholesterol Naturally as Part of Health Content Series&nbsp;&nbsp;openPR.com",
+      "summary": "5 Foods That Aren't Doing Your Cholesterol Any Favors&nbsp;&nbsp;HuffPost5 Foods a Cardiologist Eats Every Day to Lower Cholesterol&nbsp;&nbsp;TODAY.com6 Budget-Friendly Pantry Staples for Lower Cholesterol&nbsp;&nbsp;EatingWellHealthPally Releases Guide on How to Control Cholesterol Naturally as Part of Health Content Series&nbsp;&nbsp;openPR.comThe surprising cholesterol-raising foods that fly under the radar&nbsp;&nbsp;MSN",
       "sources": [
         {
           "name": "HuffPost",
@@ -225,7 +249,7 @@
       "id": "be2f0b003cb4",
       "title": "Can Jamun help control blood sugar? Expert explains its benefits for people with diabetes - The Times of India",
       "published": "2026-06-06T10:35:00+00:00",
-      "summary": "Can Jamun help control blood sugar? Expert explains its benefits for people with diabetes&nbsp;&nbsp;The Times of India",
+      "summary": "Can Jamun help control blood sugar? Expert explains its benefits for people with diabetes&nbsp;&nbsp;The Times of IndiaJamun Juice Benefits: Why This Summer Drink Deserves A Spot In Your Diet&nbsp;&nbsp;Slurrp",
       "sources": [
         {
           "name": "The Times of India",
@@ -237,7 +261,7 @@
       "id": "ffca36243a02",
       "title": "Strength Training With Cardio Lowers The Risk Of Death, Shows Three-Decade Study - NDTV",
       "published": "2026-06-06T10:15:46+00:00",
-      "summary": "Strength Training With Cardio Lowers The Risk Of Death, Shows Three-Decade Study&nbsp;&nbsp;NDTVStrength training and cardio combo work best together&nbsp;&nbsp;News-MedicalThe Best Exercise Combination for Longevity, According to a 30-Year Study&nbsp;&nbsp;SciTechDailyThe 30-minute strength workout that will help you live longer – and boost your brain&nbsp;&nbsp;The TelegraphCan two hours of strength training a week reduce the risk of dying early?&nbsp;&nbsp;BBC",
+      "summary": "Strength Training With Cardio Lowers The Risk Of Death, Shows Three-Decade Study&nbsp;&nbsp;NDTVStrength training and cardio combo work best together&nbsp;&nbsp;News-MedicalThe Best Exercise Combination for Longevity, According to a 30-Year Study&nbsp;&nbsp;SciTechDailyCan two hours of strength training a week reduce the risk of dying early?&nbsp;&nbsp;BBCJust 2 Hours of Strength Training a Week May Help You Live Longer&nbsp;&nbsp;Healthline",
       "sources": [
         {
           "name": "NDTV",
@@ -282,14 +306,14 @@
       ]
     },
     {
-      "id": "3edd0f17ffca",
-      "title": "These games are proven to lower your dementia risk – play them here - The i Paper",
-      "published": "2026-06-06T09:00:00+00:00",
-      "summary": "These games are proven to lower your dementia risk – play them here&nbsp;&nbsp;The i Paper",
+      "id": "5782ffd854ab",
+      "title": "The World Has Learned From the Last Ebola Outbreak, but Gaps Remain - The New York Times",
+      "published": "2026-06-06T09:00:21+00:00",
+      "summary": "The World Has Learned From the Last Ebola Outbreak, but Gaps Remain&nbsp;&nbsp;The New York TimesEbola outbreaks aren’t stopped by vaccines alone. Here’s what else is needed&nbsp;&nbsp;The IndependentAfrica: An Ebola \"Fortress Strategy\" Will Fail - Lessons from the Past&nbsp;&nbsp;allAfrica.comOpinion | Time to Apply the Lessons of the 2014 Ebola Outbreak&nbsp;&nbsp;WSJ",
       "sources": [
         {
-          "name": "The i Paper",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2ViWFY4bnpFVUdRRUF0YzY2bGlzeUt2YzdTMExudldZdG5kdU56WVRUYTlLRnlqSVgtTDRWRFJadTVYOHRLRFJZSFljSFgyek1kU3NpOE05dkttNkd0SU1qS25tQWpjQ0VfRXVyTlNYdy1vSmRva3dDNWMwMGNyTzA4QmdfM2QtX2RmNGJRQQ?oc=5"
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTFlTbUtKMFVCSlJnUzZlVE5fdDJsTXI4YnpmbE9DNUZkZVhtU0ExNnpKcUFPajZCY2ozcG1nR3d3Ni05MmU4enZ2dWYtLUhPdElfYTJKS0NkTFQ1WW9hWktfc0MtQk83YkZyUGthYzRiMGxTNXFJcGpxbV9neDFIV3llQndCVVU0cFNYQTZ6dFRqWHZzX2R1dVhDT3dmb05YdTBSN2U5M1gzNVI1Q3dJSGdZSjd2eW9FaDRR?oc=5"
         }
       ]
     },
@@ -302,18 +326,6 @@
         {
           "name": "The Times of India",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxON21pN2RrVXRLS2k5WGRCell4RkdlVDVuQ0ZVRXpuRmR1a2NLOTdwRnpjNDlucE55S01wOW1nWGhqbE1ZSVNOMTFSQWNBZDJKblhYa3YwWVJuOFg2V0Z5cjloM2dvMlphUDNmdFA1eGpQVnNfLUo3RU8zcVBWSkRjWFNyUVEtVXBvMUZvMFRqWlVJLXdHUHhwTGNhU1BoMG9LVU8xTXJWYVZDMnVNYk5ZRFN6S3REMWpjVVRXWDdsaXNoLWk4VUwtWjFQemZyWFVmRS01bEwyTC1rMkhUSU9ZaE9n0gHnAUFVX3lxTE1Gc2hsVDZ3Q0o3SHVkRHhuWGFzZmpoV0NwZWpIdE5CV0ZpY29tbEtHV3U5YzdpN3lNal9fcHlyRTNfU3JpRmxBZ012Sy13TTlpM0xDTF9EV3pXVFdBalh6VkhOM2ZBWk1neHNLYms5VWpBUElRUkVUWWROaUFaVkIwYjZ2ai1sQlNCOUk3SzgzYzMwNmJDUFk2RE50cUNQZW5aZnhaZ2x5Y0kwMlJqN0ZZbDROM0p5Y1N4dnMxdVZIbnl6OFRReVJtclloTlBCSjhUU2dlMUItdU5mdGZTYldPaW1pak9BSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "acbdf7953b1d",
-      "title": "Congo outbreak could rival the largest Ebola epidemic on record, CDC warns - The Washington Post",
-      "published": "2026-06-06T05:32:05+00:00",
-      "summary": "Congo outbreak could rival the largest Ebola epidemic on record, CDC warns&nbsp;&nbsp;The Washington PostCDC report: Ebola outbreak could rival the worst on record unless world acts&nbsp;&nbsp;NPREbola outbreak in DR Congo could top 20,000 cases in worst case, CDC says&nbsp;&nbsp;NBC NewsEbola spread in central Africa could match 2014 record outbreak, US health officials say&nbsp;&nbsp;The GuardianEbola outbreak could exceed 20,000 cases in 3 months without urgent public health measures: CDC&nbs",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV3pTTlNpRTlpTkFXSmRYMG0weDBCM210d3JySTkwUUxXTXk3M25IVnpjSkJnY0dWVVBvR2FIMndCaF9VNHgzZ3ZtMmdQX0drb295TTJ2QXhFOG5jeE9mV244U3lnTFNsdmZlV1NMSmNURy01cmY2cXVhOG9pWldnc1laSkR2OGhTcDBUYTJwZ2dwUTl5dmlWdWw5SER2TGk2VzBOQ3Mycy1YMXF2VGtqNktuZlVXa0U?oc=5"
         }
       ]
     },
@@ -342,10 +354,22 @@
       ]
     },
     {
+      "id": "55460109b976",
+      "title": "Ebola Cases May Top 20,000 in Three Months, C.D.C. Says - The New York Times",
+      "published": "2026-06-05T22:04:34+00:00",
+      "summary": "Ebola Cases May Top 20,000 in Three Months, C.D.C. Says&nbsp;&nbsp;The New York TimesEbola outbreak could exceed 20,000 cases in 3 months without urgent public health measures: CDC&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosCDC report: Ebola outbreak could rival the worst on record unless world acts&nbsp;&nbsp;NPREbola outbreak in DR Congo could top 20,000 cases in worst case, CDC says&nbsp;&nbsp;NBC NewsEbola spread in central Africa could match 2014 record outbreak, US health o",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jei1pWkhnNm5TcUxNLUJPU1JBalVkUFh1X1VaVXQ2OWJwaXV0THQ1LXpISHZuUF9vRHBVTmVYZTdFbUw0MmIyR05HQzlsSTRPY0RRUDhocjhwU1o2d2tEOHBXUEVYX01iYXhZZ21JVE4zb3JTYUppNGRFT0w?oc=5"
+        }
+      ]
+    },
+    {
       "id": "71810bf32180",
       "title": "Ebola figures appear to offer hope as case numbers drop in DR Congo but it's not that simple - BBC",
       "published": "2026-06-05T21:48:31+00:00",
-      "summary": "Ebola figures appear to offer hope as case numbers drop in DR Congo but it's not that simple&nbsp;&nbsp;BBCWHO launches $518 million plan to curb Africa Ebola outbreak&nbsp;&nbsp;ReutersAs Ebola spreads in Congo, a radio station tries to stop health misinformation&nbsp;&nbsp;AP NewsWHO, Africa CDC announce joint Ebola response plan&nbsp;&nbsp;CIDRAPFaith, fear and trust: Inside DR Congo’s fight against Ebola&nbsp;&nbsp;UN News",
+      "summary": "Ebola figures appear to offer hope as case numbers drop in DR Congo but it's not that simple&nbsp;&nbsp;BBCWHO launches $518 million plan to curb Africa Ebola outbreak&nbsp;&nbsp;ReutersAs Ebola spreads in Congo, a radio station tries to stop health misinformation&nbsp;&nbsp;AP NewsWHO, Africa CDC announce joint Ebola response plan&nbsp;&nbsp;CIDRAPWHO and Africa CDC unveil $518m Ebola plan as DRC, Uganda death tolls rise&nbsp;&nbsp;Al Jazeera",
       "sources": [
         {
           "name": "BBC",
@@ -381,7 +405,7 @@
       "id": "69110e7dd96a",
       "title": "Scientists find wind blowing from our Milky Way's black hole after half-century search: 'There it is' - Space",
       "published": "2026-06-05T20:00:00+00:00",
-      "summary": "Scientists find wind blowing from our Milky Way's black hole after half-century search: 'There it is'&nbsp;&nbsp;SpaceAstronomers just solved a 50-year-old mystery about the Milky Way’s black hole&nbsp;&nbsp;Scientific AmericanWind from Milky Way's supermassive black hole is finally discovered&nbsp;&nbsp;ReutersScientists have made a huge discovery at the enormous black hole at the centre of our Galaxy. And they found something pointing right at it&nbsp;&nbsp;BBC Sky at Night MagazineEven quiet ",
+      "summary": "Scientists find wind blowing from our Milky Way's black hole after half-century search: 'There it is'&nbsp;&nbsp;SpaceEven quiet black holes create winds, new Milky Way observations reveal&nbsp;&nbsp;Science NewsAstronomers just solved a 50-year-old mystery about the Milky Way’s black hole&nbsp;&nbsp;Scientific AmericanWind from Milky Way's supermassive black hole is finally discovered&nbsp;&nbsp;ReutersScientists have made a huge discovery at the enormous black hole at the centre of our Galaxy.",
       "sources": [
         {
           "name": "Space",
@@ -405,23 +429,11 @@
       "id": "c90e03b5a7f9",
       "title": "NASA’s Artemis II Moon Mission Research Continues on Earth - NASA Science (.gov)",
       "published": "2026-06-05T19:16:48+00:00",
-      "summary": "NASA’s Artemis II Moon Mission Research Continues on Earth&nbsp;&nbsp;NASA Science (.gov)See more headlines & perspectives on Google News",
+      "summary": "NASA’s Artemis II Moon Mission Research Continues on Earth&nbsp;&nbsp;NASA Science (.gov)",
       "sources": [
         {
           "name": "NASA Science (.gov)",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTzRidDFqbEtkSmtiYnFrMlV2VDYxNWZoNWw5bTR2S0RiLTJGaFdiZWlqS1c0bTlub0Fyb3hqcFVmMTQ2TUw0bFpOOGZ3TnByWjBCOHRmc215aHdzNFZPUTdrWHRtT1U4bk9jOEU2dXBaZm9vZ2hBMkVBQWxfc1BRWnFOb05fV2hvVE94dFAtMWhXZEdINFRkeHBPMDZCQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5c9b58348240",
-      "title": "New York’s Latest Tourist? A Rare, Potentially More Severe Form of Lyme Disease - Gizmodo",
-      "published": "2026-06-05T19:15:19+00:00",
-      "summary": "New York’s Latest Tourist? A Rare, Potentially More Severe Form of Lyme Disease&nbsp;&nbsp;GizmodoRare type of Lyme disease found for the first time in New York&nbsp;&nbsp;NBC News‘Scarier’ Type of Lyme Disease Spreading in the US Causes More Severe Symptoms: Doctors Explain&nbsp;&nbsp;TODAY.comA new type of lyme disease found in Upstate New York according to CDC&nbsp;&nbsp;WSTMRare tick-borne bacteria discovered in New York for first time&nbsp;&nbsp;latination.com",
-      "sources": [
-        {
-          "name": "Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTEFRaHRUN0UzOWlLZUphOHZ0S0oxbGU0OUtac01ldGVmX2JQd0pDV0RXNklBQm5CcjlFV2NvTVpEazdzd2VIazV1N2l0MHJpSnhybFVHZWRiUTZBQjByY0RkbFpDS3c0TmpSbzJZQmFtTW82bEZuZVRMQ1F6YXhqcmg3QTZtZmZhWDFFXzltWFRqd250eEdyUG9kU1otT05Pc0xoMkpUemJ2S3M?oc=5"
         }
       ]
     },
@@ -441,7 +453,7 @@
       "id": "48951344d443",
       "title": "Early Life Diet Linked to Adolescent Intelligence - Neuroscience News",
       "published": "2026-06-05T18:40:17+00:00",
-      "summary": "Early Life Diet Linked to Adolescent Intelligence&nbsp;&nbsp;Neuroscience NewsUnhealthy snacks drive disruptive behavior in young children&nbsp;&nbsp;News-MedicalExperts Review Evidence on How Nutrition Influences Teen Cognitive and Academic Outcomes | Newswise&nbsp;&nbsp;NewswiseEarly diet may shape how the teenage brain develops, Swansea review finds&nbsp;&nbsp;Swansea UniversityWhy the First Year of a Child’s Diet May Echo in the Teenage Brain&nbsp;&nbsp;ScienceBlog.com",
+      "summary": "Early Life Diet Linked to Adolescent Intelligence&nbsp;&nbsp;Neuroscience NewsUnhealthy snacks drive disruptive behavior in young children&nbsp;&nbsp;News-MedicalEarly diet may shape how the teenage brain develops, Swansea review finds&nbsp;&nbsp;Swansea UniversityWhy the First Year of a Child’s Diet May Echo in the Teenage Brain&nbsp;&nbsp;ScienceBlog.comStudy finds childhood junk food can rewire brain for life&nbsp;&nbsp;Hornbill TV",
       "sources": [
         {
           "name": "Neuroscience News",
@@ -462,38 +474,14 @@
       ]
     },
     {
-      "id": "0cfeafa0558c",
-      "title": "Some people lose over 20% of their body weight on Ozempic. Others lose almost nothing. A doctor explains why - Yahoo Creators",
-      "published": "2026-06-05T18:02:03+00:00",
-      "summary": "Some people lose over 20% of their body weight on Ozempic. Others lose almost nothing. A doctor explains why&nbsp;&nbsp;Yahoo CreatorsGene variants may reduce response to Ozempic-style GLP-1 diabetes drugs&nbsp;&nbsp;Labmate OnlineScientists discover why ozempic may not work for some people&nbsp;&nbsp;ScienceDailyDecoding the Genetic Lottery: Why Weight Loss Jabs Fail for Some and Excel for Others&nbsp;&nbsp;South Florida Reporter",
+      "id": "8c9d0f0bda3a",
+      "title": "‘I survived Ebola’: One of Congo’s first victims on how he beat the terrifying virus - The Telegraph",
+      "published": "2026-06-05T17:01:00+00:00",
+      "summary": "‘I survived Ebola’: One of Congo’s first victims on how he beat the terrifying virus&nbsp;&nbsp;The Telegraph",
       "sources": [
         {
-          "name": "Yahoo Creators",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWVk5aHczYTVuNDVNRzFqekFJMVRlQXVtWk5hd2pfbEphXzZIWE50VVQxQ19WTmNQWnhPdzREcExZamZTc0VCYXR6cGtUWjlIWnRXeXREUlBmMXBUdUtMeHJ1VlIwdHdNalNFUDJST0UyN0ViMHBab0Y4ak1nbExpNjd4RjdNMGNYYjRmZmw2eE9JLUJXX2pFcG1FRXNuSk5Tb3hoU2FOeGpObFB6a05tMFNZbHRtVVhIbWsyNm5CMlJVdlNISFlJRlUwVVROTW1HVjFfSEhENmd3WWpnTlNsQklzYThla2RQV0xXVjRCX0hIUU5pQ2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2d26c5a1b4ab",
-      "title": "Three studies used by RFK Jr and allies to justify controversial vaccine policy changes facing new scrutiny - The Guardian",
-      "published": "2026-06-05T17:28:00+00:00",
-      "summary": "Three studies used by RFK Jr and allies to justify controversial vaccine policy changes facing new scrutiny&nbsp;&nbsp;The GuardianFDA Suppressed Vaccine Safety Research: Senate Investigates&nbsp;&nbsp;Legis13 of RFK Jr.’s Favorite Anti-Vax Studies Are Being Retracted or Scrutinized&nbsp;&nbsp;TruthoutThe FDA blocks publication of vaccine safety studies&nbsp;&nbsp;dailyuw.com'Three studies used by RFK Jr and allies to justify controversial vaccine policy changes facing new scrutiny' : Guardian&n",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tWHFKU3BOelBfRXNxUlowN0FCSlZ4SWdjQnJmNVgzYlNPUHltTWV4bXktZThHb0Uzclk2UF9HMTNhZllkNUlxYTA4MWZGN0wxRVBTbkNBVEZmMVM0VFVLNVFZSXhYUFFyb1ItTWlSRG4tQWtMcWNHWUFR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "df971fe6ccef",
-      "title": "AI-designed universal coronavirus vaccine passes first human trial - ScienceDaily",
-      "published": "2026-06-05T15:45:51+00:00",
-      "summary": "AI-designed universal coronavirus vaccine passes first human trial&nbsp;&nbsp;ScienceDaily'World-first' vaccine designed by artificial intelligence&nbsp;&nbsp;BBCFirst AI-designed 'universal vaccine' tested in humans: UK researchers&nbsp;&nbsp;Medical XpressAI just designed a ‘fundamental new vaccine’ for viruses, researchers say - National&nbsp;&nbsp;Global NewsNew AI-designed vaccine could prevent pandemics and save millions of lives, scientists say&nbsp;&nbsp;Sky News",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sMjlTVUxUZ0RrUHEtNml6WFI2S0h5U3c1Sl8wRnBKT3NKaHEtQVd6Rk1IU1cyNDVZYy01TzRqM2J0OXJMNG5uc0pTRVhnQVMyXzRuWFJLVDNMZEgyck1fazJ0N0d2X0JiNjdTTTAwdw?oc=5"
+          "name": "The Telegraph",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcFhOUk13VFAyY29RSUJpaVZlenpOZEVsbW5aOV9jRDRjN1RCTEZhREJkMlMzSFJyZV9Zd1Y5MnVIbWJmR2liYnRhY3h4VVhUdlYzWmFXRkcweHlkWHdxZXhMbkNfYkJwTWFrNEd5YkYxZlVIYlp3N1VURC1hQzdJNWZ1SE5FRlNhSnRCLWc5c3BadXVXWEQ2Q0JSOV9pbHpDTDJoZ0dwVDJhUDRmZGpiazk4cw?oc=5"
         }
       ]
     },
@@ -534,14 +522,14 @@
       ]
     },
     {
-      "id": "02b719216dd4",
-      "title": "Ebola Expert Fears Outbreak Is Heading Into “Nightmare Scenario” - Yahoo News New Zealand",
+      "id": "6f4d66a97552",
+      "title": "Ebola Expert Fears Outbreak Is Heading Into “Nightmare Scenario” - Yahoo",
       "published": "2026-06-05T13:59:36+00:00",
-      "summary": "Ebola Expert Fears Outbreak Is Heading Into “Nightmare Scenario”&nbsp;&nbsp;Yahoo News New Zealand5 things Dr. Sanjay Gupta wants you to know about Ebola&nbsp;&nbsp;CNNUpdate on Ebola Outbreak in the Democratic Republic of the Congo and Uganda, 6/5/2026&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)Opinion | This Is Why You Don’t Slash Humanitarian Aid&nbsp;&nbsp;The New York Times2026 Ebola outbreak: Maps track spread and global impact of virus&nbsp;&nbsp;USA Today",
+      "summary": "Ebola Expert Fears Outbreak Is Heading Into “Nightmare Scenario”&nbsp;&nbsp;Yahoo5 things Dr. Sanjay Gupta wants you to know about Ebola&nbsp;&nbsp;CNNOnly the Right Tests Can Stop This Ebola Outbreak. Congo Has Hardly Any.&nbsp;&nbsp;The New York Times2026 Ebola outbreak: Maps track spread and global impact of virus&nbsp;&nbsp;USA TodayHow Funding Cuts Left the World Vulnerable to Ebola&nbsp;&nbsp;Bloomberg.com",
       "sources": [
         {
-          "name": "Yahoo News New Zealand",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM0RWOXBkTGFaeVN1Nkh2U2JIalBveGVxRmtoNEJudXlua1pLTGJGdDFDNnVqUnZSaWJaandkZmdUdkd2VmVLRUlaV2dhX3RYMFM1UmhrcDREakJYNzRGTjhKZDhOdVVmLXBDOXAwQjkwTWdUZVRoTnh0UTVtLWc3RV93?oc=5"
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcXlmQ2lMeFQzcWNMUndyYVdWY0RBLTMyNHNObkxteVFibHdmVHZBNXk3a2FMT1BYbl9mYUhMR0ZhcjdleXN2MGdlOEd1LWtUQ0ZwN3NXSmVSMnIyaVhxWkR5amF3WGwwal94TWgydW9HSDRSQXFSMjFiSGpVeFloTUoxTGhGcHVTRDJ3VGM0dUtzenhRUGp3?oc=5"
         }
       ]
     },
@@ -630,62 +618,14 @@
       ]
     },
     {
-      "id": "7758e84f5d34",
-      "title": "Heart transplant gives Hays teen a new lease on life; GoFundMe - Hays Post",
-      "published": "2026-06-05T10:04:39+00:00",
-      "summary": "Heart transplant gives Hays teen a new lease on life; GoFundMe&nbsp;&nbsp;Hays Post",
+      "id": "ad7185ab3af6",
+      "title": "A disease of deforestation: how Ebola is linked to the smartphone in your pocket - The Guardian",
+      "published": "2026-06-05T09:00:00+00:00",
+      "summary": "A disease of deforestation: how Ebola is linked to the smartphone in your pocket&nbsp;&nbsp;The GuardianSee more headlines & perspectives on Google News",
       "sources": [
         {
-          "name": "Hays Post",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zVm9WSktsbDRKUHlZYUpxSlFvUUZadldfMHZ2Rk5hdXU0cG9OQ29pemtkVUcxZHRiaXNsRmhEOEhTVnRSbjRUc3dzZHF6V04wNzZWT0VpWDRiRTdvY1RIb2pjdnIzcUVjQ3lfSzY2Y2o?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fbdd5077909f",
-      "title": "Doctor explains 4 health markers that may reveal your heart attack and stroke risk before symptoms appear - The Times of India",
-      "published": "2026-06-05T07:21:00+00:00",
-      "summary": "Doctor explains 4 health markers that may reveal your heart attack and stroke risk before symptoms appear&nbsp;&nbsp;The Times of IndiaThe 5 numbers cardiologists want every adult to know before it's too late&nbsp;&nbsp;The Times of IndiaIs LDL cholesterol the only marker for cardiovascular health? Neurologist reveals the truth&nbsp;&nbsp;Hindustan Times",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPZFJKcUxnb2tRLWc0R2VVOXhtRHF2RXBiaEIyTG5Pc1dMTVdVd3BhaEZwdDkwVkF4WjZic2p1YXYzLVp0SlJmX3R4dmRHdHdkeEZub3VnTE9FNDJNYkJSQ1NtRkptaWZWWHFLQVN4S1owVG9LWXVhcVk0a2x6d1IxNEdlb09RSl9UUXdDU1lrNUtJdk0tTUd6b2ZmY1pMTVlFTGhpODZGMmk4b05tT2Q3QV8xZmpWcGFpMHE3ZXp3NlNNQjFWOWhLQjdpX3FFdW1va3RzdGdDaS15ckxTYk5jeWdWQ3pXYWdfYl8xaW1vS25lWXhQWXVMRTVoT0RjcjRZNjFSa252Z0FHTWd0X0d5bdIBlgJBVV95cUxPTVFmZTlTYTI3dHhPQThBc0ZxTjNuTEhKbEc2LWtFVWFScmt4bW1obno1SXhsY2I5Sl9qc25ERDBTWDAtU3FabV9raVB3MUtVZHEyanFZbWNBa0pXTUJSTklScXItREs2V1E5VFNFY3hkdVA5M3FTUTV4TjVzMG0tb1NCUHdic1hKME1RczdzcDhtRk4zVHRRd1ZvZGdKbHZzR1ZRVDNoM2NiaHQ3eEdmNGRvaDY5WU5kRDR1cmU1VHhaTU9aUnhxOFB3Q1hIRWVqSnNscEZqUll4UjlhbGM1OWREU1RDUWpOODNXLU5Fb1VFXzJHb25nU0Q3azZzSmxBSGdTOG9IZzhBWkhSWG1mbmJDMmtfdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fa41369c89ef",
-      "title": "An avocado a day may help control blood sugar, study claims - Medical News Today",
-      "published": "2026-06-05T06:08:13+00:00",
-      "summary": "An avocado a day may help control blood sugar, study claims&nbsp;&nbsp;Medical News TodayDoes an avocado a day keep the doctor away? Pennington Biomedical researching blood sugar management in Type 2 diabetes patients&nbsp;&nbsp;WAFBThe daily fruit that might keep the doctor away&nbsp;&nbsp;Deseret NewsImportant warning from the cardiologist: This fruit protects the heart&nbsp;&nbsp;Medianews.azCardiologist says eating 1 fruit is great for heart health and cutting risk of disease&nbsp;&nbsp;The ",
-      "sources": [
-        {
-          "name": "Medical News Today",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUzc5V2NPak5rR05WMlN2SlFUNUhpSEJCaEJLTDJxb2RfOUZSZEhhNWJaLXlHbVNpVXpUeXFNSnFBeUVoWmJtVnd4SzhnS18tRUJiRFZBUFpBUFVQQmhlc0FWQ1FjU19PTHU2UThkOHVERG83VHZOLTBKMDNOX2d3ZXRHdE1iU1NpQm5GOU05NHI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6047a2608fb0",
-      "title": "The GLP-1 workout: how to train if you’re on fat jabs - The Times",
-      "published": "2026-06-05T04:00:00+00:00",
-      "summary": "The GLP-1 workout: how to train if you’re on fat jabs&nbsp;&nbsp;The TimesCompound Enhances Muscle Repair Without Affecting Fat Loss During GLP-1 Treatment&nbsp;&nbsp;Technology NetworksEAS 2026: Exercise Unlocks Greater Benefits from Ozempic&nbsp;&nbsp;EMJResearch Roundup: Combating muscle loss from GLP-1s, monitoring high-risk pregnancies and reversing aging in sea squirts&nbsp;&nbsp;The Stanford DailyTaking Ozempic? New Study Explains Why Pairing It With Exercise Is Important For Your Muscles",
-      "sources": [
-        {
-          "name": "The Times",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUjhReG9HTlhLTUNXcUYxV3NmR0tXay15Q1JGUTFHLWdLVkxhaWl3TnJoSnYtejNLYWtneGpwSlFTRVgyNVpKbXpTNkNKOHVNeGRyOWZkVXpEMHlRaU56ZlJsS3ZTV2ZoWmsySnFvSVk3VHRPdEplRjFmREJZZl9EWnpQUlo3cXM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cb20d75e2b05",
-      "title": "Popular Weight Loss Drugs Linked to Lower Risk of Breast Cancer - ScienceAlert",
-      "published": "2026-06-05T03:11:38+00:00",
-      "summary": "Popular Weight Loss Drugs Linked to Lower Risk of Breast Cancer&nbsp;&nbsp;ScienceAlertThe science around GLP-1 drugs and cancer is suddenly getting a lot more interesting&nbsp;&nbsp;The Washington PostWeight-loss drugs can cut breast cancer risk by up to 30%, studies suggest&nbsp;&nbsp;The GuardianAccumulating Evidence Lifts GLP-1s to Clinical Trial for Breast Cancer Prevention&nbsp;&nbsp;MedPage TodayGLP-1 drugs may have a beneficial effect across many types of cancer&nbsp;&nbsp;Reuters",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMW83SzN2eTBPYUlzaXNacU1sNS0zcWl6QlQ0UFpxN1JTNklWZXQ0TGFNTE1JN3A3a3VUUi16V0FvRFpiQzlvYy1DUGdxNldrczJXb0c0aWw2Wmk5bFEwSC0zWENBRmZhZFRZRjdralBKVW9LUGFXTy10czVWRFpWOEpBeVJzaTR0Q0FfODFQY1FiUk9pMGg0?oc=5"
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM3ExUHRmUVlRdXB0MjZUbnJJTG5DUkpBT3BncUFPLXRXX3RiZ0hpLThOcVppMmJ6OUdJTnB6dDRXVmFlQ0xFOEpXLXRrMXpGMzdmUE5UcU9GZGJVeEhOd0xOT21ORVFPd1RaQW9nd1JoSThwUXBXMzFmcFl2LVhpdTUzazVSTnN2Qjh4Yw?oc=5"
         }
       ]
     }

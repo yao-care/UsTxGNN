@@ -1,26 +1,26 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-06-08T20:22:12.656247+00:00",
-  "total_fetched": 101,
-  "unique_count": 101,
-  "health_related_count": 60,
+  "fetched_at": "2026-06-09T03:49:46.595417+00:00",
+  "total_fetched": 106,
+  "unique_count": 106,
+  "health_related_count": 63,
   "news": [
     {
-      "id": "e6035c1f50be",
-      "title": "A record die-off of sea stars was followed by something that stunned biologists - The Washington Post",
-      "published": "2026-06-08T19:56:25+00:00",
-      "summary": "A record die-off of sea stars was followed by something that stunned biologists&nbsp;&nbsp;The Washington PostSea Star Wasting Disease devastates starfish population&nbsp;&nbsp;Thunderword",
+      "id": "fb6537f3a5f0",
+      "title": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)",
+      "published": "2026-06-09T02:03:45+00:00",
+      "summary": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda&nbsp;&nbsp;World Health Organization (WHO)Africa Region | Ebola (BVD) Emergency Appeal - Operational Strategy (MDRS1007)&nbsp;&nbsp;ReliefWebMolecular evolutionary analysis of the current Bundibugyo virus disease outbreak in DRC and Uganda&nbsp;&nbsp;VirologicalRwanda BVD Preparedness 2026 - DREF Operation (MDRRW027)&nbsp;&nbsp;ReliefWebUNICEF Ebola Virus Disease Outbreak Flash Update No. 2 (Democratic Republic o",
       "sources": [
         {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcVE3M1B2YWNoQWVvVXlfQmFKQVNfX1Z2UFlITUpJRTBCYVlfRXg1SFhaWDNsX2dUcGZOVFppS1lSbU1FVUFQYW1CU01SbU9veUdrUjFQUTZQT0NETlNGczE5dGRJTnhWaXdSVGRPc2V4RjN0ZXIzNWFTY1ZHMnNZbUpLaEtqZEhVTmtJN0l2RjQwbjNDaXNuMXNPRzg3Unh6clBnbTU4Z24wdGxVQ1ZqMG1FMDk?oc=5"
+          "name": "World Health Organization (WHO)",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zOEU2MVVHaUdveDFreHlOMUNPc3V3NUc0b3dNaVhlQlJvVk9XeVMzTDhyc3ZRakIzenNEalp5MGZBYmtOeFY5RVBaUnpSRExTcnMwXzlMd0hSN3YxZDh2WldVRzIyS25EV1VqSF8yaG0xdFdIeHJxV0Zn?oc=5"
         }
       ]
     },
     {
       "id": "0401dfc5fe8b",
       "title": "Whey Protein Doesn't Lead to More Muscle in Older Adults, Study Finds - Verywell Health",
-      "published": "2026-06-08T19:52:09+00:00",
+      "published": "2026-06-09T02:02:51+00:00",
       "summary": "Whey Protein Doesn't Lead to More Muscle in Older Adults, Study Finds&nbsp;&nbsp;Verywell HealthProtein for parents: Nutritionist shares 4 high-protein vegetarian sources you can encourage older adults to eat daily&nbsp;&nbsp;Hindustan TimesLow protein consumption linked to weaker muscle strength in older adults, study finds&nbsp;&nbsp;Nutrition InsightWe Asked a Dietitian: What's the Best Type of Protein for Maintaining Muscle As You Age?&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wel",
       "sources": [
         {
@@ -30,38 +30,98 @@
       ]
     },
     {
-      "id": "4648b771d0bc",
-      "title": "Muscle growth drug ‘could reduce loss of lean tissue’ when using slimming jabs - The Guardian",
-      "published": "2026-06-08T18:48:00+00:00",
-      "summary": "Muscle growth drug ‘could reduce loss of lean tissue’ when using slimming jabs&nbsp;&nbsp;The GuardianApitegromab for lean mass preservation during tirzepatide-induced weight loss: a randomized, double-blind, placebo-controlled phase 2 trial&nbsp;&nbsp;NatureNew drug to stop 'Ozempic butt' muscle loss side effect of obesity jabs&nbsp;&nbsp;BBCA drug may help people on GLP-1 meds preserve muscle&nbsp;&nbsp;Science NewsNew PatentVest Pulse Report Maps the Emerging Muscle-Preservation Category Expa",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXMzaF9TNFlJVlJtWXVBZEs4TGlqV094SFhGbERjRWNSVnVfZFFoYk1JUkhTc0xIbmJyS2JObGFvT0NtNlVwQjdhWkdIT1NNRUIzdFQzcFBaY3BYdTQ0Ykp5cENKZEhqQzNnR2ZiVkNHeTBEWXI3VWlrT3RZOHhpZmRkSWRYLWFEMVQxeEhDcktiZkJNYjFnd0ZMQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "96f7734d266b",
-      "title": "Greek Yogurt Vs. Regular Yogurt: Dietitians Reveal Which Is Healthier - AOL.com",
-      "published": "2026-06-08T17:32:02+00:00",
-      "summary": "Greek Yogurt Vs. Regular Yogurt: Dietitians Reveal Which Is Healthier&nbsp;&nbsp;AOL.com",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qRVVsUmgtSzlic3pvNEtjc3pjOF9BSVB5WVRlV05rWGNaaDQ3Y3JGX0l5bG1PekVKWk9Xa19CSE9aV0Q0MTU1VWMyZ2tpV2FWRXMtb2JybEtOTzdFalh4aW9VeEZselg0LXE0M1lBREx2TkJ5Vm85U2JXZk10RDQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "882c472d7e2c",
-      "title": "Column | Love coffee? Have the last cup at this time for a better night’s sleep. - The Washington Post",
-      "published": "2026-06-08T17:00:00+00:00",
-      "summary": "Column | Love coffee? Have the last cup at this time for a better night’s sleep.&nbsp;&nbsp;The Washington PostBrain research: Coffee causes 'shallow' sleep without you knowing it&nbsp;&nbsp;Portal.hrScientists reveal what caffeine actually does to your sleep&nbsp;&nbsp;AOL.comCoffee worsens sleep, ancient beer found in China, and a black hole as the birthplace of ghostly neutrinos&nbsp;&nbsp;realnoevremya.comCan Your Morning Coffee Actually Help You Sleep Better? According to One New Study, Yes",
+      "id": "e6035c1f50be",
+      "title": "A record die-off of sea stars was followed by something that stunned biologists - The Washington Post",
+      "published": "2026-06-09T00:52:58+00:00",
+      "summary": "A record die-off of sea stars was followed by something that stunned biologists&nbsp;&nbsp;The Washington PostSea Star Wasting Disease devastates starfish population&nbsp;&nbsp;Thunderword",
       "sources": [
         {
           "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdE5OUVk0NnhxOEZpQkpDMEYzcmxSRm44WlBSOV9kTW5lZ0VhU0x4NFR1NXN4Q1kyZDRJd0t2LUNSNVBaQURKbVg5cXI5dzZEaUR4VGhsZmI5R2J2M0g4d092ZnZBczI0bXdhbnFJQmV0T0RxalV3czg0WEZnYlFXM1ZsYVB0c1lvN0d5eXBmRkJ2S2RlQlVqOHdVMDRoelBSUlJsLXlNVGI2ODA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcVE3M1B2YWNoQWVvVXlfQmFKQVNfX1Z2UFlITUpJRTBCYVlfRXg1SFhaWDNsX2dUcGZOVFppS1lSbU1FVUFQYW1CU01SbU9veUdrUjFQUTZQT0NETlNGczE5dGRJTnhWaXdSVGRPc2V4RjN0ZXIzNWFTY1ZHMnNZbUpLaEtqZEhVTmtJN0l2RjQwbjNDaXNuMXNPRzg3Unh6clBnbTU4Z24wdGxVQ1ZqMG1FMDk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "06fa8c8dea0b",
+      "title": "Targeting Cancer-Specific Mutations with RNA-Triggered Chromatin Shredding - Nature",
+      "published": "2026-06-08T22:03:13+00:00",
+      "summary": "Targeting Cancer-Specific Mutations with RNA-Triggered Chromatin Shredding&nbsp;&nbsp;NatureCould cave bacteria help cure cancer? A USU discovery suggests they might&nbsp;&nbsp;Utah Public RadioCRISPR Shreds Undruggable Cancer Cells with Precision&nbsp;&nbsp;Genetic Engineering and Biotechnology NewsRNA-Triggered Chromatin Shredding Targets Cancer Mutations&nbsp;&nbsp;Bioengineer.orgBreakthroughs in CRISPR technology on Access Utah&nbsp;&nbsp;Utah Public Radio",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wbUxORmNVNWw4SHVkRlBkS1J2Zk1PbnBPV1M5VGhPXzNVMDVXXzRsWWt5dG5BOTF4VFgzZ1JFZjlxZTh0ajdEcUkzV21pS2FKM3FNeWlYek9Ea2w5Rklz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "429d3d8b4aa4",
+      "title": "Dutch Scientist Charged With Conspiring to Smuggle Mpox Virus Into U.S. - The New York Times",
+      "published": "2026-06-08T20:11:35+00:00",
+      "summary": "Dutch Scientist Charged With Conspiring to Smuggle Mpox Virus Into U.S.&nbsp;&nbsp;The New York TimesRocky Mountain Laboratories researchers arrested as lab critics campaign against animal testing&nbsp;&nbsp;Montana Free PressRocky Mountain Laboratory scientists accused of unlawful transportation of virus samples&nbsp;&nbsp;KTVHTwo NIH scientists in Montana charged with ‘smuggling’ virus&nbsp;&nbsp;News From The StatesTwo researchers charged with allegedly trying to smuggle mpox through Detroit ",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQjJJUWhRMFRHeUdnckJ1Yml4QzRfRUR0a3JRcGJLSTN6cG9mUVFVT2I5LUdZWGtQb2JBXzllYXZtbVFWcVUzOTFDM1ZheTBFRjR4dmxZSnFXRFdMU0FwNDlYV2dzbnptQXVfRGxkbFV6MUc5MHVybmQwTEg2endVcmxmVTZGWk1rRFhXUw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "435687a22a6e",
+      "title": "The late-night eating habit that may throw your gut health into chaos - KSL.com",
+      "published": "2026-06-08T19:51:44+00:00",
+      "summary": "The late-night eating habit that may throw your gut health into chaos&nbsp;&nbsp;KSL.comSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "KSL.com",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb21ob3ZKQ3VrbHlCT2Zwc3Vkdk9PN1NaZ1ZzTEhZUVdoYjZDVU92ZjhQQ2tJY3lMUE44UjVMbnBDaE9Sam5CdzRiS0dRb3Q4TGJIeEc4djFXUXVDYVl3THZyUENfN0dRQWlqUDJwYlpVdGtLVXZXUTR5bVdRUzh1Z1dLWm5pbzVoc3A1TGgwZzJtYUNEbWRhX0lxX1c0MzVNMnFpdzdtVFNJQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "96a5b2840131",
+      "title": "Why do Venus and Jupiter meet up in the sky so often? It's a symptom of a solar system that supports life on Earth - Space",
+      "published": "2026-06-08T19:00:00+00:00",
+      "summary": "Why do Venus and Jupiter meet up in the sky so often? It's a symptom of a solar system that supports life on Earth&nbsp;&nbsp;SpaceLook up: 'Kissing planets' set to light up the night sky this week&nbsp;&nbsp;FOX WeatherThis Week's Sky at a Glance, June 5 – 14&nbsp;&nbsp;Sky & TelescopeNo telescope needed: Jupiter, Venus will appear to nearly touch this week&nbsp;&nbsp;The HillLook up tonight: Jupiter and Venus will almost touch in one of 2026's best skywatching events&nbsp;&nbsp;Live Science",
+      "sources": [
+        {
+          "name": "Space",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQ1hFbGxGRzY0OWVYbW4tOVllX2NCYktEWXRjZTBtOXJMRTBicTFiZHZYMi1iVXlsMmh5cG9zUi1Pd2gwZnVUX0tEWURaTmRhcjNZc3dXenRmLXU0anQwaXJheUE5S1N3YmJLMHFmMFJDSUhKNzBrOUh3X2JuNmlmczFyd1ZiTGEzNkR2THRNODR3VHlqdUlBY1ZtZENHUkZpQldkMTVSOEozUmNuS2dGUTFicnEtLVlFMi0zdlhIN1VrWklTUlFQRU5aYkFIRkxFVXJveklyTGNOLXBRWlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b412176bd7f2",
+      "title": "The Atlantic’s ‘Cold Blob’ Could Change Weather Across America - Newsweek",
+      "published": "2026-06-08T18:32:00+00:00",
+      "summary": "The Atlantic’s ‘Cold Blob’ Could Change Weather Across America&nbsp;&nbsp;NewsweekAtlantic 'cold blob' caused by weakening ocean current system that's likely nearing a tipping point, reanalysis finds&nbsp;&nbsp;Phys.orgMysterious ‘cold blob’ in the Atlantic suggests the AMOC is weakening&nbsp;&nbsp;New ScientistClimate researcher warns: Switzerland not prepared for the collapse of the Atlantic current | blue News&nbsp;&nbsp;blue NewsAtlantic “Cold Blob” highlights role of ocean circulation in cl",
+      "sources": [
+        {
+          "name": "Newsweek",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN1dqZEgwRUlVdTV0RDFDN29sUHVUQ2FxblNhcmdXRDN4SGh2aHNjajhxaE5YYnF4bkhXSTB1SW9POVE5TzNXOFl5UXlNOGlQSW1iU2tsOTRCTDY5YUJmazRfZDhNNGVOaHU0NEYzWTJpeF9ialB2bm8weGdmZFdmTUFhdWtWWHJqWDExMzBEUDhEX3Y4cjBPSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "87aad5a03c8e",
+      "title": "GLP-1 Drugs: 6 Things We’ve Learned About Their Effects - The New York Times",
+      "published": "2026-06-08T17:53:24+00:00",
+      "summary": "GLP-1 Drugs: 6 Things We’ve Learned About Their Effects&nbsp;&nbsp;The New York TimesThe promises and pitfalls of GLP-1 drugs&nbsp;&nbsp;CBS NewsThe obesity drug race moves beyond weight loss&nbsp;&nbsp;AxiosDo GLP-1 pills work as well as injections? Here’s what studies show about weight loss, side effects&nbsp;&nbsp;WWLPHarvard-Trained Gastroenterologist Reveals What Most People Miss About GLP-1 Drugs&nbsp;&nbsp;NDTV",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHNFQ2WWRGLVpmbWRrMTFqTjdscmdsVDRxUzFIMGNIYXMzNkgzcVJvcmdqTjROeFZDX21YU1hFRUNPVFNwc2o2MHZramJRS2lXbWVLOEFweEg3dHVVUlp3V3drcDltTWFDMDlnU2hXTEE1cmtxMmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2c045d8b5a03",
+      "title": "Ebola cases 'increased rapidly' since late May, WHO says - ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-06-08T16:30:11+00:00",
+      "summary": "Ebola cases 'increased rapidly' since late May, WHO says&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosEbola cases rise in Congo, as government revives travel restrictions&nbsp;&nbsp;NPRAfrica CDC and WHO launch joint continental Ebola response plan&nbsp;&nbsp;World Health Organization (WHO)Congo says Ebola deaths top 100 as armed groups threaten response&nbsp;&nbsp;Reuters‘Rare, untreatable strain’: Ebola toll mounts in eastern DR Congo&nbsp;&nbsp;UN News",
+      "sources": [
+        {
+          "name": "ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWm1Cdl93dDlKTE9uOFg1bzdnVlVtTVRoSnc3WkJVRXNEX2x3dERrXzVhSmIxWjhiOUIyQXZjTE8tanVDTDZMbEY0Vm10NzFKMzRHOFV5NVBUR2Q1dnZDQThyUnNfR01zQXJpTzJzVzhkRWUzeHZBbndOMlBlbXlCUUYtaW1zT1XSAYwBQVVfeXFMTUxMeEUtOXQ2bG0ySWJkcXA4amIzWkR1NExyLW5lVmJRaGlIQVJaUWdxUU5qRThRZERuZXNDekc5c0NCbTFsb2NUc3JXc2NpUnphemp4YzI1RWM2eUlMMmduaWxkMDB5OUstVzkyMHNoRlRrOXZTOU5pM1hXN1V2YnlUMnJGUDlDV3FreDk?oc=5"
         }
       ]
     },
@@ -69,7 +129,7 @@
       "id": "0cfeafa0558c",
       "title": "Some people lose over 20% of their body weight on Ozempic. Others lose almost nothing. A doctor explains why - Yahoo Creators",
       "published": "2026-06-08T16:01:00+00:00",
-      "summary": "Some people lose over 20% of their body weight on Ozempic. Others lose almost nothing. A doctor explains why&nbsp;&nbsp;Yahoo CreatorsWhy Ozempic does not work equally well for everyone&nbsp;&nbsp;QazinformGene variants may reduce response to Ozempic-style GLP-1 diabetes drugs&nbsp;&nbsp;Labmate OnlineDecoding the Genetic Lottery: Why Weight Loss Jabs Fail for Some and Excel for Others&nbsp;&nbsp;South Florida ReporterScientists discover why ozempic may not work for some people&nbsp;&nbsp;Scienc",
+      "summary": "Some people lose over 20% of their body weight on Ozempic. Others lose almost nothing. A doctor explains why&nbsp;&nbsp;Yahoo CreatorsGene variants may reduce response to Ozempic-style GLP-1 diabetes drugs&nbsp;&nbsp;Labmate OnlineScientists discover why ozempic may not work for some people&nbsp;&nbsp;ScienceDailyDecoding the Genetic Lottery: Why Weight Loss Jabs Fail for Some and Excel for Others&nbsp;&nbsp;South Florida Reporter",
       "sources": [
         {
           "name": "Yahoo Creators",
@@ -78,10 +138,22 @@
       ]
     },
     {
+      "id": "42e98c68bea6",
+      "title": "Weight-loss jab Wegovy to be offered on NHS in Scotland - BBC",
+      "published": "2026-06-08T15:29:36+00:00",
+      "summary": "Weight-loss jab Wegovy to be offered on NHS in Scotland&nbsp;&nbsp;BBCWeight loss jab Wegovy approved for use in NHS Scotland&nbsp;&nbsp;Glasgow TimesPitlochry gran told she had run out of options hails ‘unreal’ cancer drug that saved her life&nbsp;&nbsp;The Courier'New hope' for Scottish patients as weight loss jab extended&nbsp;&nbsp;The MirrorWegovy weight-loss jab to be offered on NHS in Scotland&nbsp;&nbsp;STV News",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Tb3hvTE1OTVNmclBnYkdmOVF0bzdnS2tfRVNCREdFVHpBMWgybGxsaTIySWZpTllRWkNlY21DVGk5Q3A4SFBza1BLeWhjSVNaVmFKZ09qS3VmQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "141f81c9afb9",
       "title": "Childhood egg allergies fall as early introduction becomes more common, new study finds - CNN",
       "published": "2026-06-08T15:00:26+00:00",
-      "summary": "Childhood egg allergies fall as early introduction becomes more common, new study finds&nbsp;&nbsp;CNNHow to slash your baby’s risk of developing the most common infant food allergy: study&nbsp;&nbsp;New York PostEgg allergy rates declining in Australia&nbsp;&nbsp;Medical XpressEarlier egg introduction guidelines linked to measurable decline in infant egg allergy prevalence&nbsp;&nbsp;Contemporary PediatricsEarly Introduction, Rescue Refeeding, and Home OIT: Reframing Pediatric Food Allergy Mana",
+      "summary": "Childhood egg allergies fall as early introduction becomes more common, new study finds&nbsp;&nbsp;CNNHow to slash your baby’s risk of developing the most common infant food allergy: study&nbsp;&nbsp;New York PostEgg allergy rates declining in Australia&nbsp;&nbsp;Medical XpressJAMA Pediatrics Study of 7,200 Children Finds Earlier Egg Introduction Reduces Food Allergy — With Greatest Benefit in Infants With Eczema&nbsp;&nbsp;MedicalResearch.comEarlier egg introduction guidelines linked to measur",
       "sources": [
         {
           "name": "CNN",
@@ -93,7 +165,7 @@
       "id": "a4c6e0a181b6",
       "title": "Woman Thought She Had a Stomach Bug, and Doctors Thought She Had an Autoimmune Disease. It Was Actually Something More Deadly - AOL.com",
       "published": "2026-06-08T14:37:51+00:00",
-      "summary": "Woman Thought She Had a Stomach Bug, and Doctors Thought She Had an Autoimmune Disease. It Was Actually Something More Deadly&nbsp;&nbsp;AOL.comSee more headlines & perspectives on Google News",
+      "summary": "Woman Thought She Had a Stomach Bug, and Doctors Thought She Had an Autoimmune Disease. It Was Actually Something More Deadly&nbsp;&nbsp;AOL.com'I thought I had the flu': Mom nearly died after dismissing deadly sepsis symptoms&nbsp;&nbsp;Fox NewsUS Woman Nearly Died After Brushing Off Sepsis Symptoms As Flu&nbsp;&nbsp;Health and MeHealthy mom nearly died after dismissing sepsis symptoms as the flu&nbsp;&nbsp;Yahoo'I Thought I Was Going Crazy': Audrey Leishman Thought It Was a Stomach Bug Until S",
       "sources": [
         {
           "name": "AOL.com",
@@ -126,14 +198,14 @@
       ]
     },
     {
-      "id": "de375d66c87c",
-      "title": "The late-night eating habit that may throw your gut health into chaos - CNN",
-      "published": "2026-06-08T13:00:07+00:00",
-      "summary": "The late-night eating habit that may throw your gut health into chaos&nbsp;&nbsp;CNNWhy eating in the middle of the night can be a gut punch | Newswise&nbsp;&nbsp;NewswiseBloating, acidity and constipation? Doctor reveals everyday lifestyle habits harming gut health in young adults&nbsp;&nbsp;Hindustan TimesLate-night snacking is one of the biggest culprits for gut problems, warns gastroenterologist&nbsp;&nbsp;Moneycontrol.comLate-Night Stress Eating Can Make Your Gut Problems Even Worse&nbsp;&n",
+      "id": "f6f767394bfd",
+      "title": "Humans may have discovered fire hundreds of thousands of years before previously thought: new research - New York Post",
+      "published": "2026-06-08T13:59:00+00:00",
+      "summary": "Humans may have discovered fire hundreds of thousands of years before previously thought: new research&nbsp;&nbsp;New York PostEarly humans used fire in Wonderwerk Cave up to 1.8 million years ago&nbsp;&nbsp;Archaeology News Online MagazineNew study finds hominids used fire 700,000 years earlier than previously recorded&nbsp;&nbsp;Interesting EngineeringHominids used fire 700,000 years earlier than previously thought&nbsp;&nbsp;Science Media Centre EspañaSouth African Cave May Hold Oldest Eviden",
       "sources": [
         {
-          "name": "CNN",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWW91RUptdEFqNFY4bGxhYnNNSUVaZ1BZM1dPYnFQRTNUaE5PQzRuUkdwVGsxc2djMjY5OXcwOGtrbHpUeGFMc0F4ek5oSEwyQzVHdDhzdGQ1QmhFV1RVMlVJY2sxbDlzM2VmdUpYckFYSmRkZWJETVpQUGxyTV9jQ2N1NTBSZGlpTThxUnB2M1VSZ2c?oc=5"
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTEFVOUJ3aWEwNWh3ak5qMmdPekZwZDRhRVRnOGpqTmstaENMYlBOaVpqbUlhdW9IX0ljczFDLS01cHVralBOYTlGSnc1T1JZMF85M1pXZGZKSVNPQkxFOC1VUHBHQW1Mb0s4b19xSXVaQ2VCQXlDLWgtVWhLRzZScUhfR2xGemxTUDZpa1NKM05OQ3pqLVc1ZWR1VTJwVHVkZW82WkVR?oc=5"
         }
       ]
     },
@@ -141,7 +213,7 @@
       "id": "3537885fc785",
       "title": "Beyond ‘dad bod’: What an expanding middle may mean for metabolic health - The Seattle Times",
       "published": "2026-06-08T13:00:00+00:00",
-      "summary": "Beyond ‘dad bod’: What an expanding middle may mean for metabolic health&nbsp;&nbsp;The Seattle TimesYour ‘dad bod’ could raise your kids’ risk for obesity and disease — before they’re even conceived&nbsp;&nbsp;New York PostDad bod hides a sperm health risk. Fathers can raise children’s obesity risk, study finds&nbsp;&nbsp;ThePrintWhat Dads Eat, Weigh, And Feel Can Affect Their Childs’ Obesity Risk Before Birth&nbsp;&nbsp;StudyFindsWhy a dad bod isn’t as harmless as it seems and the extreme meas",
+      "summary": "Beyond ‘dad bod’: What an expanding middle may mean for metabolic health&nbsp;&nbsp;The Seattle TimesYour ‘dad bod’ could raise your kids’ risk for obesity and disease — before they’re even conceived&nbsp;&nbsp;New York PostDad bod hides a sperm health risk. Fathers can raise children’s obesity risk, study finds&nbsp;&nbsp;ThePrintWhat Dads Eat, Weigh, And Feel Can Affect Their Childs’ Obesity Risk Before Birth&nbsp;&nbsp;StudyFindsWhy a Dad bod isn’t as harmless as it may seem&nbsp;&nbsp;The In",
       "sources": [
         {
           "name": "The Seattle Times",
@@ -150,10 +222,22 @@
       ]
     },
     {
+      "id": "40f71a9fb035",
+      "title": "AIIMS-trained gastroenterologist shares 6 reasons for the rise in colon cancer cases in young women in their 30s | Health - Hindustan Times",
+      "published": "2026-06-08T12:44:32+00:00",
+      "summary": "AIIMS-trained gastroenterologist shares 6 reasons for the rise in colon cancer cases in young women in their 30s | Health&nbsp;&nbsp;Hindustan TimesYoung colon cancer linked to specific fats in ultra-processed foods&nbsp;&nbsp;Business InsiderRising CRC Rates a ‘Wake Up Call’ for Gastroenterologists&nbsp;&nbsp;MedscapeCancer before 50? Why doctors are concerned about the rise in early-onset cases&nbsp;&nbsp;The Times of IndiaCRC in 2026: Younger Patients, Rising Mortality, and Persistent Gaps&nb",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPQktKZVp2Q2F0QV95bVctUlJsTXYxV3ZVYU02UlZWWkgzXzJsQ1RkdElackdEalo0QUdDRnRaMzlHOXpTSWoydWNKN19oS3VYbXFweDEtRTF6UE9PT1JLNzZRQUZOYWtUbFlqWUFKNWExaWlTMjJ0WUZoWmpSWmlmblE2M1hVWlN5TXdkTmZMWWpYcUt3dUVHVHkwR2l4aWRncFpXUmJKbGh5SmZLSHJxREVkS1BWLUJrMERTYWRVOUZiV1hJNXVCTVFwM3JpZjZsQUNtSmNxYUJHZ2lSZ2FyQlpjODYtTFlVV0dBY1I4Z1ZsczZzSUV6OTh5bWpwQXJ2alZjY0pBV2NHOEFRaFHSAZMCQVVfeXFMTVBKbHg2Vlo2SG1mdkliTDQ1VXFEQ0dyZlVTNFY3d0hoenpqQkJUb3UwVlMyOWZrMGwtekV4QWZFOGpMNWN5a2JfLTlUbC13Z210dGxRdHBfdmRrZVYtZlJ4dk9fZVdXcm90c0NQNjlET2toZnpHYlU3c2xhdFQwNTBsTkpoWlRvQTF1ZExocWN6YkVVMkRhNzZXX3ZyMkNULWxoamxpWGxMejI1Vnp4SllZRW9hQjVJTVJLcFBCaFgxZ1dFN2VRa3VYWTFTQkw1YkVFb3BGLU1meE53TDI3MXR0NU42dXYwMndHX0h2UUFYUWd4RTczZ0VYU0pzX2RwbkUtbnVReE9qOExZdGpIaWM5UG8?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6f76a86fac3f",
       "title": "HIV enters the brain and doesn’t leave – paradoxically, drugs intended to reduce brain inflammation increase virus levels - The Conversation",
       "published": "2026-06-08T12:31:30+00:00",
-      "summary": "HIV enters the brain and doesn’t leave – paradoxically, drugs intended to reduce brain inflammation increase virus levels&nbsp;&nbsp;The Conversation",
+      "summary": "HIV enters the brain and doesn’t leave – paradoxically, drugs intended to reduce brain inflammation increase virus levels&nbsp;&nbsp;The ConversationThe Conversation: HIV enters the brain and doesn’t leave – paradoxically, drugs intended to reduce brain inflammation increase virus levels&nbsp;&nbsp;European AIDS Treatment Group",
       "sources": [
         {
           "name": "The Conversation",
@@ -162,10 +246,22 @@
       ]
     },
     {
+      "id": "1b0f94308f2e",
+      "title": "Two sisters, one virus: A family devastated by HPV - cidrap.umn.edu",
+      "published": "2026-06-08T12:00:00+00:00",
+      "summary": "Two sisters, one virus: A family devastated by HPV&nbsp;&nbsp;cidrap.umn.eduUncertainties Surrounding HPV Vaccination May Hamper the Full Potential of a Proven Cancer Prevention Strategy&nbsp;&nbsp;OncLiveHPV Vaccine May Help Lower Risk Of Head And Neck Cancers, Report Says | Health and Fitness News&nbsp;&nbsp;News18Wisconsin doctors say HPV vaccine has cut cancer rates. Only half of teens get the shots.&nbsp;&nbsp;WPR20th anniversary of HPV vaccine receiving FDA approval&nbsp;&nbsp;WMTV 15 NEWS",
+      "sources": [
+        {
+          "name": "cidrap.umn.edu",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc0Z3cHpOdkNTUEJaUVNONThUbi00NjRPYkFWVmtEV01meGNTaDJrNjYxLWd1NGhFazBlYVZSU0J4NGdUb1p6N3FhRV9DczRreTZSeElPbmtySzAwQkd3MXFfT09GcnVwdXpiZ1VYTmk0YVlseTFqMmUwaDZESTFqY282QnJycWtvUWNtbVZ3RjRERDIzY29HdUt4bw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "bf5ef6b95be6",
       "title": "Oral Cancer Risk Could Be Raised by This Common Food - EatingWell",
       "published": "2026-06-08T12:00:00+00:00",
-      "summary": "Oral Cancer Risk Could Be Raised by This Common Food&nbsp;&nbsp;EatingWellSee more headlines & perspectives on Google News",
+      "summary": "Oral Cancer Risk Could Be Raised by This Common Food&nbsp;&nbsp;EatingWellOne extra serving of processed meat a day linked to higher cancer risk&nbsp;&nbsp;Fox NewsWHO report doesn't spell death for the sausage sizzle&nbsp;&nbsp;Nine.com.auProcessed Meat May Raise Gastric and Oesophageal Cancer Risk&nbsp;&nbsp;MedscapeDaily Slice of Processed Meat Raises Stomach, Esophageal Cancer Risk&nbsp;&nbsp;Seoul Economic Daily",
       "sources": [
         {
           "name": "EatingWell",
@@ -177,7 +273,7 @@
       "id": "9af70697ba56",
       "title": "Why are so many young people getting cancer? What researchers do and don't know - Nature",
       "published": "2026-06-08T11:41:35+00:00",
-      "summary": "Why are so many young people getting cancer? What researchers do and don't know&nbsp;&nbsp;NatureYoung colon cancer linked to specific fats in ultra-processed foods&nbsp;&nbsp;Business InsiderCancer before 50? Why doctors are concerned about the rise in early-onset cases&nbsp;&nbsp;The Times of IndiaColorectal Cancer 2026 Younger Patients Rising Mortality Gaps&nbsp;&nbsp;Gastroenterology & Endoscopy NewsAIIMS-trained gastroenterologist shares 6 reasons for the rise in colon cancer cases in young",
+      "summary": "Why are so many young people getting cancer? What researchers do and don't know&nbsp;&nbsp;Nature",
       "sources": [
         {
           "name": "Nature",
@@ -186,14 +282,14 @@
       ]
     },
     {
-      "id": "d6f7f62c5457",
-      "title": "'5 a day': Which fruit and veg are best for heart health and why? - Medical News Today",
-      "published": "2026-06-08T11:06:25+00:00",
-      "summary": "'5 a day': Which fruit and veg are best for heart health and why?&nbsp;&nbsp;Medical News TodayTop five-a-day foods new study says your heart needs&nbsp;&nbsp;BBCSome fruits and vegetables are especially good for heart health&nbsp;&nbsp;Medical XpressYou might be eating five portions of fruit and veg a day – but it still might not be enough&nbsp;&nbsp;The IndependentWhich fruits are best to eat for better heart health?&nbsp;&nbsp;keysnews.com",
+      "id": "ca9a6de9822f",
+      "title": "Dementia is common for older adults living alone but many are not diagnosed, UCSF study finds - San Francisco Chronicle",
+      "published": "2026-06-08T11:05:36+00:00",
+      "summary": "Dementia is common for older adults living alone but many are not diagnosed, UCSF study finds&nbsp;&nbsp;San Francisco Chronicle",
       "sources": [
         {
-          "name": "Medical News Today",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMVpGemY4THFJZjdfU29GU0J4TkpfNlBqajhvVjk0YnhtTllYeHhfWnBXdk9tMjQ0dUZKaUc4Rmx4cHNHTFQtTHdCVnkyWmpzeUtlWUxMOXBWYkgta2Y5YjlOS3Q5YktmU1NvWDVDaW9rZ3N4TzFldUNHeWFxZndpaWpUWHpfVmxoVHpNekFFZWZSV0dGbHZWY1d5bnZoUjV4UlVQZlBB?oc=5"
+          "name": "San Francisco Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZlNDOXc1U2I0d1NBYVNOSTRQakFUdkhwSk45M281SW1EWGt6UXZENlVfYkdMMmRUOEU0bm50WE5LUE5feEE2MDZWSzF2bXpCOENqZ3B0Rk8ySXZMaFU1LVc1U3FPRHpuX2lPNVZBMDhJSl9Mb3pyTkZGYko0dDR1T1VGdmZqZGxFLTluaHJweDFGVmhq?oc=5"
         }
       ]
     },
@@ -201,23 +297,11 @@
       "id": "bba6416a3e3e",
       "title": "Postpartum Depression Is Coming for Fathers - The Cut",
       "published": "2026-06-08T11:00:42+00:00",
-      "summary": "Postpartum Depression Is Coming for Fathers&nbsp;&nbsp;The CutWhy Getting Better From PPD Isn’t A Straight Line&nbsp;&nbsp;Scary Mommy1 in 5 new moms struggle with mental health&nbsp;&nbsp;futurity.orgMost new moms get the baby blues. But it could be something more serious: postpartum depression&nbsp;&nbsp;pottsmerc.comFor moms struggling with postpartum depression, CT hotline is a lifeline&nbsp;&nbsp;Connecticut Public",
+      "summary": "Postpartum Depression Is Coming for Fathers&nbsp;&nbsp;The Cut",
       "sources": [
         {
           "name": "The Cut",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCSTFuczBxbXhkUzZHcVBqMExUQW9GSjVPWXA2b01rdWhQc3N5ajNKU2gzNW1RVVhoUnJfeFVfNkxiblVGZ0VWWGxPTXZKbk1DUjR4WDNHenlOcUtjZGNmdWVDRnlWYWF5dmdpY1otZ3doUEU0d2l6X2FPUC03ZDg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e40da3f4f86c",
-      "title": "Had Chickenpox As A Child? Doctors Say This Serious Skin Infection Could Appear Decades Later. - HuffPost",
-      "published": "2026-06-08T11:00:17+00:00",
-      "summary": "Had Chickenpox As A Child? Doctors Say This Serious Skin Infection Could Appear Decades Later.&nbsp;&nbsp;HuffPost",
-      "sources": [
-        {
-          "name": "HuffPost",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZU00OG9OMUxrNmk5em4xYzRENHloX19XZW9senh2aUpFS2Zxek1BNWJjWHdaeW5UN3pfam43NEV4c1J4QlRPNGx0TWNmczEwRXpSTlJveDVSdWtkMTlyYXd5V0d2eGt4Z0FNNm5POTUzVlN5Z2g0V2ZlQVVieUViYnkxWG1Vd9IBiwFBVV95cUxOZXJ1MThJLUFiaVFTbEZiQ0pCUEFTaGtCRGZORkhGNXN5aVNWa1NTcEh5Rzk4NkxWYmMzWVViNWhxQnI5SUVVbzI1Sng5REJzUEQ0dmNrYV96TjdHaUNSX3ZDOFE1dTYyVVdLM3JWZkRMWlppdkRUbUtTcl9RYUpFX3VDblo1Mmdyblhv?oc=5"
         }
       ]
     },
@@ -237,7 +321,7 @@
       "id": "d2a45ed1141e",
       "title": "Why the U.S. Is Unprepared for a Potential Public Health Outbreak at the World Cup - Sports Illustrated",
       "published": "2026-06-08T09:27:21+00:00",
-      "summary": "Why the U.S. Is Unprepared for a Potential Public Health Outbreak at the World Cup&nbsp;&nbsp;Sports IllustratedWorld Cup creates perfect conditions for infectious diseases to spread – here are the biggest threats health experts are watching for&nbsp;&nbsp;The ConversationHow do you stop Ebola at the World Cup?&nbsp;&nbsp;PoliticoHealth experts to screen US wastewater for disease outbreaks during World Cup&nbsp;&nbsp;ReutersMeasles resurgence in Americas raises concerns before World Cup&nbsp;&nb",
+      "summary": "Why the U.S. Is Unprepared for a Potential Public Health Outbreak at the World Cup&nbsp;&nbsp;Sports IllustratedHow do you stop Ebola at the World Cup?&nbsp;&nbsp;PoliticoWorld Cup creates perfect conditions for infectious diseases to spread – here are the biggest threats health experts are watching for&nbsp;&nbsp;YahooHealth experts to screen US wastewater for disease outbreaks during World Cup&nbsp;&nbsp;ReutersMeasles resurgence in Americas raises concerns before World Cup&nbsp;&nbsp;upi.com",
       "sources": [
         {
           "name": "Sports Illustrated",
@@ -246,14 +330,14 @@
       ]
     },
     {
-      "id": "2b74064177d5",
-      "title": "Woman, 28, Says Debilitating Migraine Symptoms Are Fixed in Just 15 Minutes When She Eats This Nostalgic Candy - AOL.com",
-      "published": "2026-06-08T08:02:33+00:00",
-      "summary": "Woman, 28, Says Debilitating Migraine Symptoms Are Fixed in Just 15 Minutes When She Eats This Nostalgic Candy&nbsp;&nbsp;AOL.com",
+      "id": "368259e70328",
+      "title": "Some fruits and vegetables are especially good for heart health - Medical Xpress",
+      "published": "2026-06-08T08:00:01+00:00",
+      "summary": "Some fruits and vegetables are especially good for heart health&nbsp;&nbsp;Medical XpressTop five-a-day foods new study says your heart needs&nbsp;&nbsp;BBCWhich Fruits, Vegetables Are Best for Heart Health?&nbsp;&nbsp;HealthlineYou might be eating five portions of fruit and veg a day – but it still might not be enough&nbsp;&nbsp;The IndependentThe Fruit Linked To Better Heart Health And Slower Brain Ageing&nbsp;&nbsp;HuffPost UK",
       "sources": [
         {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd09OZktiQ2VfMFBYSktETmpxV3hrSlo2VzNpNmFhX2dlNW05UW5pcDVKRS1FMGJ2NWFXbGVFX0gyNDRDLU9zZW1PdjdZZzI0YjdRQVZWZ0RZcjJneTVGN25oWFR4bkVETU55Wm5WZ2g1QUQ5WlVIM201TW1CMTRETkhsRENCdw?oc=5"
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY0tSNVhoNmxwemhoeVJ0cTdoMkNMU1V5aFQ3Z2RqdUd1dlg5QnNOLUlGT1UxaXhweXdlTUxHbW80VURWbzVlYnU5b3h0M195VzV0RXFaMGVXdGprYTBJeW9tSlpBeGV3WV9DTDZpWmRxT01HejlnalJTVk9JRFhNRUxZUFVJUQ?oc=5"
         }
       ]
     },
@@ -273,7 +357,7 @@
       "id": "5584f5a3933f",
       "title": "This Simple Bedtime Tweak Cuts Your Risk of Major Cardiac Events in Half - AOL.com",
       "published": "2026-06-08T07:01:54+00:00",
-      "summary": "This Simple Bedtime Tweak Cuts Your Risk of Major Cardiac Events in Half&nbsp;&nbsp;AOL.comSee more headlines & perspectives on Google News",
+      "summary": "This Simple Bedtime Tweak Cuts Your Risk of Major Cardiac Events in Half&nbsp;&nbsp;AOL.com",
       "sources": [
         {
           "name": "AOL.com",
@@ -282,26 +366,14 @@
       ]
     },
     {
-      "id": "f2e58eaf83b0",
-      "title": "Ebola outbreak live updates: WHO and Africa CDC unveil $518 million plan as DRC cases pass 450 - Yahoo",
-      "published": "2026-06-08T06:59:59+00:00",
-      "summary": "Ebola outbreak live updates: WHO and Africa CDC unveil $518 million plan as DRC cases pass 450&nbsp;&nbsp;YahooEbola cases rise in Congo, as government revives travel restrictions&nbsp;&nbsp;NPRAfrica CDC and WHO launch joint continental Ebola response plan&nbsp;&nbsp;World Health Organization (WHO)WHO chief lauds Uganda’s response to Ebola outbreak&nbsp;&nbsp;Al JazeeraAs Ebola spreads in Congo, a radio station tries to stop health misinformation&nbsp;&nbsp;AP News",
+      "id": "fac0875e52be",
+      "title": "Dementia risk linked to nitrate in drinking water, study finds - ScienceDaily",
+      "published": "2026-06-08T05:09:41+00:00",
+      "summary": "Dementia risk linked to nitrate in drinking water, study finds&nbsp;&nbsp;ScienceDaily",
       "sources": [
         {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcnd5RU5pLUFHUDl2X0l3NlJHQUdVc1ptYTFEMTBDSjNJelBKdjVTUWVNWkN6bVFZUzNuYm4zX2toTExvb2hYWUkyTFAzNTluOHhSMmpDMVRTVjJ0Qmx6REROcFBVRERJQVB2ajJ1QXg1TFF2V0hWeDZKNlJqOXo5cXB6bDhjaFJpc040b3ByQUkyTV9IZ29lQVQ4NVdqRE5ncDY3ZFVkRXk5akFYVk1kZnkteEdvdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1da03182ad15",
-      "title": "Rare planetary pairing: Venus and Jupiter meet after sunset - Ynetnews",
-      "published": "2026-06-08T06:01:52+00:00",
-      "summary": "Rare planetary pairing: Venus and Jupiter meet after sunset&nbsp;&nbsp;YnetnewsLook up: 'Kissing planets' set to light up the night sky this week&nbsp;&nbsp;FOX WeatherWhy do Venus and Jupiter meet up in the sky so often? It's a symptom of a solar system that supports life on Earth&nbsp;&nbsp;SpaceThis Week's Sky at a Glance, June 5 – 14&nbsp;&nbsp;Sky & TelescopeHow to see the 'cosmic kiss' of Jupiter and Venus in the night sky&nbsp;&nbsp;National Geographic",
-      "sources": [
-        {
-          "name": "Ynetnews",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95VjNCRzczTFdNY3dDVDZHMi1yR0c4WEhaYUJxY0NLZlh0RlRnUVpOb3pqNWpuTFZqaExzMnlSZGQ0SUZLcXc5T1VvbkZRQU9UZ1QtbV91NURjbk1YcnlTSjg1dFpDdw?oc=5"
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lR2Q5SzdjbjRPajBiWHpYai1zcTYtUVRmVE91UC1ZUHhoTFNqVDFvMERTT1ptRGRrdWJ6bEVzUEdtem40TWo0Q2JTUVpmM2tiQXpUMVM1b3VTR2VoY2dHMTFlY0NjdTJxenNYeFFVOA?oc=5"
         }
       ]
     },
@@ -309,7 +381,7 @@
       "id": "57a0f515d78d",
       "title": "Health workers at the epicenter of Congo’s Ebola outbreak labor with little pay or rest - AP News",
       "published": "2026-06-08T04:59:00+00:00",
-      "summary": "Health workers at the epicenter of Congo’s Ebola outbreak labor with little pay or rest&nbsp;&nbsp;AP NewsSee more headlines & perspectives on Google News",
+      "summary": "Health workers at the epicenter of Congo’s Ebola outbreak labor with little pay or rest&nbsp;&nbsp;AP NewsA disease of deforestation: how Ebola is linked to the smartphone in your pocket&nbsp;&nbsp;The GuardianHow Congo's illegal gold trade is fueling the spread of a deadly, vaccine-resistant Ebola strain&nbsp;&nbsp;Business Insider AfricaThe Doctors Are Farming Cassava&nbsp;&nbsp;celinegounder.comThe Gold Mines at the Heart of This Ebola Outbreak&nbsp;&nbsp;The New York Times",
       "sources": [
         {
           "name": "AP News",
@@ -333,7 +405,7 @@
       "id": "b8c8e28e2b80",
       "title": "Cardio or strength training: Harvard study finally picks one for longevity and reduced mortality risk - The Times of India",
       "published": "2026-06-08T03:10:00+00:00",
-      "summary": "Cardio or strength training: Harvard study finally picks one for longevity and reduced mortality risk&nbsp;&nbsp;The Times of IndiaThis exercise habit may slash dementia risk and help you live longer, study finds&nbsp;&nbsp;Fox NewsStrength training and cardio combo work best together&nbsp;&nbsp;News-MedicalThe 30-minute strength workout that will help you live longer – and boost your brain&nbsp;&nbsp;The TelegraphYou don’t need to lift weights for strength training – these exercises count too&n",
+      "summary": "Cardio or strength training: Harvard study finally picks one for longevity and reduced mortality risk&nbsp;&nbsp;The Times of IndiaThis exercise habit may slash dementia risk and help you live longer, study finds&nbsp;&nbsp;Fox NewsThe Best Exercise Combination for Longevity, According to a 30-Year Study&nbsp;&nbsp;SciTechDailyStrength training and cardio combo work best together&nbsp;&nbsp;News-MedicalThe 30-minute strength workout that will help you live longer – and boost your brain&nbsp;&nbs",
       "sources": [
         {
           "name": "The Times of India",
@@ -342,10 +414,22 @@
       ]
     },
     {
+      "id": "a146baa48525",
+      "title": "Top Comments: Why Did Tyrannosaurus Rex Have Such Tiny Arms? - Daily Kos",
+      "published": "2026-06-08T02:00:04+00:00",
+      "summary": "Top Comments: Why Did Tyrannosaurus Rex Have Such Tiny Arms?&nbsp;&nbsp;Daily KosT. Rex Had \"Human-Sized Arms On A Bus-Sized Animal\" – Now We Have The Best Explanation Yet For Why&nbsp;&nbsp;IFLScienceTiny-armed Alvarezsauroid dinosaurs may have used powerful claws to hunt insects; study reveals&nbsp;&nbsp;The Times of IndiaHere’s how Tyrannosaurus ended up with a big head and small arms&nbsp;&nbsp;Cyprus MailScientists say they may have discovered why T. rex had such small arms: “Evolution does",
+      "sources": [
+        {
+          "name": "Daily Kos",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSnZnWTJBQVdhZlFyV25UeWtkUndCbUhXVjh4TGpBd0JNS1VIaHNQNUZORy1Ga2tPc1djMldiaWRPSG45RG5ScURFUkY0cTNpR1FTeGNLOEpwakFRRjhoVTNWdjVVeHA0bWM2VHFvYkQ4SnBpVXdWMHdjQ0hjSW9uRlVRZWQxQmoyLU1yQ2Y3WU13MV9pMFlob0RQV196OWFCc1V0Z1dyTDFrSld4OWpNV0VRMzlqOUZrOFVnLXlB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "fc00ea41fd1c",
       "title": "Why Women's Brains May Face a Steeper Path to Cognitive Decline, According to a New Study - inc.com",
       "published": "2026-06-07T23:07:36+00:00",
-      "summary": "Why Women's Brains May Face a Steeper Path to Cognitive Decline, According to a New Study&nbsp;&nbsp;inc.comEstrogen Loss in The Brain May Help Explain Women's Alzheimer's Risk&nbsp;&nbsp;ScienceAlertThe conversation women aren't having with their doctors about menopause and memory loss isn't just overdue — it may be one of the most important health decisions of their fifties&nbsp;&nbsp;Space DailyWomen Are More Likely To Get Dementia. A New Paper Suggests Why&nbsp;&nbsp;HuffPost UKIowa State Un",
+      "summary": "Why Women's Brains May Face a Steeper Path to Cognitive Decline, According to a New Study&nbsp;&nbsp;inc.comEstrogen Loss in The Brain May Help Explain Women's Alzheimer's Risk&nbsp;&nbsp;ScienceAlertThe conversation women aren't having with their doctors about menopause and memory loss isn't just overdue — it may be one of the most important health decisions of their fifties&nbsp;&nbsp;Space DailyWomen Are More Likely To Get Dementia. A New Paper Suggests Why&nbsp;&nbsp;HuffPost UKIdentifying h",
       "sources": [
         {
           "name": "inc.com",
@@ -369,7 +453,7 @@
       "id": "d7c894f9f02a",
       "title": "A silent, overlooked condition may be a clue to chronic diseases - NBC News",
       "published": "2026-06-07T22:30:41+00:00",
-      "summary": "A silent, overlooked condition may be a clue to chronic diseases&nbsp;&nbsp;NBC News136 Million Indians Estimated To Have Insulin Resistance – And Most Don’t Know It&nbsp;&nbsp;Kashmir ReaderFatigue, sugar cravings and irregular periods? Doctor says you may be insulin resistant&nbsp;&nbsp;Moneycontrol.comNurse shares 10 foods that can improve insulin resistance by lowering inflammation and adding more fibre&nbsp;&nbsp;Hindustan TimesHow the Insulin Resistance Cycle Contributes to PMOS Androgen S",
+      "summary": "A silent, overlooked condition may be a clue to chronic diseases&nbsp;&nbsp;NBC NewsFatigue, sugar cravings and irregular periods? Doctor says you may be insulin resistant&nbsp;&nbsp;Moneycontrol.comNurse shares 10 foods that can improve insulin resistance by lowering inflammation and adding more fibre&nbsp;&nbsp;Hindustan TimesBeyond diabetes: 6 dangerous health conditions triggered by insulin resistance&nbsp;&nbsp;The Indian Express136 Million Indians Estimated To Have Insulin Resistance – And",
       "sources": [
         {
           "name": "NBC News",
@@ -393,7 +477,7 @@
       "id": "548be4954c13",
       "title": "Everyone Warned Me About The Side Effects Of GLP-1s. Nobody Warned Me About The Judgment. - BuzzFeed",
       "published": "2026-06-07T22:07:02+00:00",
-      "summary": "Everyone Warned Me About The Side Effects Of GLP-1s. Nobody Warned Me About The Judgment.&nbsp;&nbsp;BuzzFeedUsing GLP-1s Made My Life Better. I Don't Care If That Bothers You.&nbsp;&nbsp;Yahoo Lifestyle CanadaObesity Should Be Treated as a Medical Emergency, Says Researcher&nbsp;&nbsp;TecScienceOpinion: Obesity medication extended my life. It’s not just about the scale.&nbsp;&nbsp;Concord MonitorTreating Obesity is Not Optional. It is Essential Medicine&nbsp;&nbsp;Sacramento Bee",
+      "summary": "Everyone Warned Me About The Side Effects Of GLP-1s. Nobody Warned Me About The Judgment.&nbsp;&nbsp;BuzzFeedUsing GLP-1s Made My Life Better. I Don't Care If That Bothers You.&nbsp;&nbsp;YahooObesity Should Be Treated as a Medical Emergency, Says Researcher&nbsp;&nbsp;TecScienceOpinion: Obesity medication extended my life. It’s not just about the scale.&nbsp;&nbsp;Concord MonitorTreating Obesity is Not Optional. It is Essential Medicine&nbsp;&nbsp;Sacramento Bee",
       "sources": [
         {
           "name": "BuzzFeed",
@@ -405,7 +489,7 @@
       "id": "dc55441e44e0",
       "title": "The Probiotic Breakthrough for Natural Anxiety Relief and Better Mental Health - SciTechDaily",
       "published": "2026-06-07T21:35:57+00:00",
-      "summary": "The Probiotic Breakthrough for Natural Anxiety Relief and Better Mental Health&nbsp;&nbsp;SciTechDailyEarly-Life Stress Raises Gastrointestinal Disease Risk&nbsp;&nbsp;MedscapeQuickCheck: Is it true that your gut bacteria can actually influence your mood?&nbsp;&nbsp;thestar.com.myFeeling Down? New Research Suggests This Gut-Friendly Supplement Could Help&nbsp;&nbsp;Men's JournalHow culture, stress, and social life may shape gut health&nbsp;&nbsp;Medical Xpress",
+      "summary": "The Probiotic Breakthrough for Natural Anxiety Relief and Better Mental Health&nbsp;&nbsp;SciTechDailyEarly-Life Stress Raises Gastrointestinal Disease Risk&nbsp;&nbsp;MedscapeQuickCheck: Is it true that your gut bacteria can actually influence your mood?&nbsp;&nbsp;The StarLC-MS Links Gut Metabolites to Anxiety Therapy&nbsp;&nbsp;Chromatography OnlineHow culture, stress, and social life may shape gut health&nbsp;&nbsp;Medical Xpress",
       "sources": [
         {
           "name": "SciTechDaily",
@@ -417,7 +501,7 @@
       "id": "b0b95ff056d0",
       "title": "Richard Scolyer: Australian doctor who underwent world-first brain tumour treatment dies - BBC",
       "published": "2026-06-07T20:54:45+00:00",
-      "summary": "Richard Scolyer: Australian doctor who underwent world-first brain tumour treatment dies&nbsp;&nbsp;BBCHow Richard Scolyer made his mark in melanoma research&nbsp;&nbsp;Australian Broadcasting CorporationRichard Scolyer leaves a unique legacy of pioneering brain cancer research&nbsp;&nbsp;The ConversationRichard Scolyer, acclaimed melanoma researcher who tried experimental treatment on his own brain cancer – obituary&nbsp;&nbsp;The GuardianMatt Dun: Remembering the Legacy of Prof Richard Scolyer",
+      "summary": "Richard Scolyer: Australian doctor who underwent world-first brain tumour treatment dies&nbsp;&nbsp;BBCRichard Scolyer leaves a unique legacy of pioneering brain cancer research&nbsp;&nbsp;The ConversationWhat is glioblastoma and why is it so hard to treat?&nbsp;&nbsp;Australian Broadcasting CorporationRichard Scolyer, pathologist who was his own guinea pig as he fought brain cancer – obituary&nbsp;&nbsp;The TelegraphI’d be delighted to be remembered as a proud everyday Aussie who ‘gave it a cra",
       "sources": [
         {
           "name": "BBC",
@@ -477,7 +561,7 @@
       "id": "094db441bf64",
       "title": "Popular weight loss drug may slow down biological aging: Study - Yahoo",
       "published": "2026-06-07T18:09:57+00:00",
-      "summary": "Popular weight loss drug may slow down biological aging: Study&nbsp;&nbsp;YahooSee more headlines & perspectives on Google News",
+      "summary": "Popular weight loss drug may slow down biological aging: Study&nbsp;&nbsp;YahooWegovy and Ozempic seen to slow down biological ageing markers in HIV adults&nbsp;&nbsp;Labmate OnlineWeight-loss drug may slow down signs of aging&nbsp;&nbsp;Earth.comPopular Weight-Loss Drug Found To Slow Biological Aging in Landmark Human Trial&nbsp;&nbsp;SciTechDailyWeight-Loss Drug Semaglutide Slows Markers of Biological Aging in First Randomized Human Trial&nbsp;&nbsp;ScienceBlog.com",
       "sources": [
         {
           "name": "Yahoo",
@@ -489,7 +573,7 @@
       "id": "f8f2ee9ade63",
       "title": "Huge Psilocybin Dose Has Incredible Effect on Elderly Dementia Patient - Yahoo",
       "published": "2026-06-07T18:00:08+00:00",
-      "summary": "Huge Psilocybin Dose Has Incredible Effect on Elderly Dementia Patient&nbsp;&nbsp;YahooAlzheimer’s patient gets back speech, bladder control and memory in groundbreaking drug trial&nbsp;&nbsp;New York PostPsilocybin Mushroom Case Report Documents Transient Functional Recovery in Advanced Alzheimer's Disease&nbsp;&nbsp;MycoStoriesThe natural compound that temporarily reverses advanced dementia symptoms&nbsp;&nbsp;The IndependentNEW STUDY: Advanced Alzheimer’s Patient Regained Speech, Memory, and ",
+      "summary": "Huge Psilocybin Dose Has Incredible Effect on Elderly Dementia Patient&nbsp;&nbsp;YahooSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "Yahoo",
@@ -513,7 +597,7 @@
       "id": "09ae8f1825eb",
       "title": "Niceville teen fights for life after Vibrio infection linked to Lions Park waters - WEAR-TV",
       "published": "2026-06-07T16:13:16+00:00",
-      "summary": "Niceville teen fights for life after Vibrio infection linked to Lions Park waters&nbsp;&nbsp;WEAR-TVPensacola Beach visitors push for Vibrio warnings and bacteria notices&nbsp;&nbsp;WEAR-TVDeadly bacteria found in waters near luxury vacation destination ahead of summer&nbsp;&nbsp;Fox NewsFlesh-eating bacteria is spreading along the NC coast. Latest updates&nbsp;&nbsp;Charlotte ObserverFlorida health officials report additional Vibriosis case in Marion County&nbsp;&nbsp;Outbreak News Today",
+      "summary": "Niceville teen fights for life after Vibrio infection linked to Lions Park waters&nbsp;&nbsp;WEAR-TVPensacola Beach visitors push for Vibrio warnings and bacteria notices&nbsp;&nbsp;WEAR-TVFlesh-eating bacteria is spreading along the NC coast. Latest updates&nbsp;&nbsp;Charlotte ObserverFlorida health officials report additional Vibriosis case in Marion County&nbsp;&nbsp;Outbreak News TodayA deadly bacteria is creeping up the Atlantic Coast. How worried should you be?&nbsp;&nbsp;WCAX",
       "sources": [
         {
           "name": "WEAR-TV",
@@ -537,7 +621,7 @@
       "id": "859bc9e8ecde",
       "title": "The sleep industrial complex is lying to you — and it's making Americans sicker - Alternet",
       "published": "2026-06-07T15:04:00+00:00",
-      "summary": "The sleep industrial complex is lying to you — and it's making Americans sicker&nbsp;&nbsp;AlternetOpinion | How much sleep do you really need? It’s not 8 hours.&nbsp;&nbsp;The Washington PostSleep scientists just calculated how much shut-eye you really need as you age—and it's not 8 hours&nbsp;&nbsp;Fast CompanyWhat’s the secret to getting the perfect amount of sleep? Don’t worry about it! | Emma Beddington&nbsp;&nbsp;The GuardianMore irregular daily rhythms linked to faster ageing - study&nbsp",
+      "summary": "The sleep industrial complex is lying to you — and it's making Americans sicker&nbsp;&nbsp;AlternetOpinion | How much sleep do you really need? It’s not 8 hours.&nbsp;&nbsp;The Washington PostSleep scientists just calculated how much shut-eye you really need as you age—and it's not 8 hours&nbsp;&nbsp;Fast CompanyHow Much You Should Sleep for Healthy Aging, According to a New Study&nbsp;&nbsp;EatingWellWhat’s the secret to getting the perfect amount of sleep? Don’t worry about it! | Emma Beddingt",
       "sources": [
         {
           "name": "Alternet",
@@ -546,22 +630,10 @@
       ]
     },
     {
-      "id": "c25a32fea8f7",
-      "title": "The promises and pitfalls of GLP-1 drugs - CBS News",
-      "published": "2026-06-07T13:53:58+00:00",
-      "summary": "The promises and pitfalls of GLP-1 drugs&nbsp;&nbsp;CBS NewsGLP-1 Drugs: 6 Things We’ve Learned About Their Effects&nbsp;&nbsp;The New York TimesDo GLP-1 pills work as well as injections? Here’s what studies show about weight loss, side effects&nbsp;&nbsp;KTLAOzempic Is Finally Turning the Tide Against Obesity, New Data Shows&nbsp;&nbsp;GizmodoOzempic Is A Kickstart, Not Magic - Here Is How To Make Weight Loss Stick&nbsp;&nbsp;Science 2.0",
-      "sources": [
-        {
-          "name": "CBS News",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVdVdEcWdKcVBRX0EwYUhsVjUzRDhPeXA2dHJXeTNpWFhaa2Jyek10NU1kZEE4LWtfeW9RVEJXbXZRQ2hMVEMxeFV3RUFrU1JTZHJ4YXlqcVFEbHFBRTJTNlFKT1pvdkdERWc5cUwtYXZwZV9CRnBRek13?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1d01e569ef03",
       "title": "Researchers identify world’s largest scorpion that roamed Earth 415 million years ago - Interesting Engineering",
       "published": "2026-06-07T12:51:00+00:00",
-      "summary": "Researchers identify world’s largest scorpion that roamed Earth 415 million years ago&nbsp;&nbsp;Interesting EngineeringWorld’s largest scorpion revealed by 415-million-year-old fossils&nbsp;&nbsp;Natural History MuseumWorld’s biggest scorpions were the size of baseball bats&nbsp;&nbsp;YahooGiant Scorpions Ruled Ancient Britain during Devonian Period&nbsp;&nbsp;Sci.NewsLargest scorpion ever grew to over three-feet long and had six-inch pinchers, according to nightmare-inducing study&nbsp;&nbsp;N",
+      "summary": "Researchers identify world’s largest scorpion that roamed Earth 415 million years ago&nbsp;&nbsp;Interesting EngineeringWorld's largest scorpion revealed by 415-million-year-old fossils&nbsp;&nbsp;Phys.orgWorld’s biggest scorpions were the size of baseball bats&nbsp;&nbsp;YahooLargest scorpion ever grew to over three-feet long and had six-inch pinchers, according to nightmare-inducing study&nbsp;&nbsp;New York PostWorld's largest scorpion had 6-inch pincers, and prowled UK land and waters 415 mi",
       "sources": [
         {
           "name": "Interesting Engineering",
@@ -573,7 +645,7 @@
       "id": "a91b1362bc56",
       "title": "One UVM lab’s surprise discovery led to flu science breakthrough - VTDigger",
       "published": "2026-06-07T12:23:00+00:00",
-      "summary": "One UVM lab’s surprise discovery led to flu science breakthrough&nbsp;&nbsp;VTDiggerBruce ‘Accidental’ Breakthrough Reveals How Influenza Viruses Replicate Within Cells, Breeze Reports&nbsp;&nbsp;University of VermontUVM research reveals a new potential path to flu treatment and prevention&nbsp;&nbsp;New Hampshire Public Radio‘Accidental’ breakthrough helps develop new ways to prevent flu&nbsp;&nbsp;Caledonian RecordNew discovery provides insights into how seasonal influenza viruses infect peopl",
+      "summary": "One UVM lab’s surprise discovery led to flu science breakthrough&nbsp;&nbsp;VTDiggerNew ways to prevent flu revealed in 'accidental' lab breakthrough, study finds&nbsp;&nbsp;Fox News'Accidental' flu virus discovery lays foundation for novel treatment strategies&nbsp;&nbsp;Medical XpressBruce ‘Accidental’ Breakthrough Reveals How Influenza Viruses Replicate Within Cells, Breeze Reports&nbsp;&nbsp;University of VermontAccidental discovery reveals H1N1 and H3N2 viruses use different routes, opening",
       "sources": [
         {
           "name": "VTDigger",
@@ -597,7 +669,7 @@
       "id": "22dbd0b53d36",
       "title": "Struggle Sleeping? These 3 Sleep Habits Are Tied to Signs of Brain Aging, Study Finds - Good News Network",
       "published": "2026-06-07T10:00:37+00:00",
-      "summary": "Struggle Sleeping? These 3 Sleep Habits Are Tied to Signs of Brain Aging, Study Finds&nbsp;&nbsp;Good News NetworkCommon Sleeping Pill May Reduce Buildup of Alzheimer's Proteins, Study Reveals&nbsp;&nbsp;ScienceAlertThe 3 sleep behaviors linked to brain damage that can lead to dementia: study&nbsp;&nbsp;New York PostShocking link uncovered: deep sleep could be key to fighting Alzheimer’s&nbsp;&nbsp;Futura, le média qui explore le mondeYour Brain’s ‘Night Shift’: How Sleep Clears ‘Waste,’ May Pro",
+      "summary": "Struggle Sleeping? These 3 Sleep Habits Are Tied to Signs of Brain Aging, Study Finds&nbsp;&nbsp;Good News NetworkCommon Sleeping Pill May Reduce Buildup of Alzheimer's Proteins, Study Reveals&nbsp;&nbsp;ScienceAlertThe 3 sleep behaviors linked to brain damage that can lead to dementia: study&nbsp;&nbsp;New York PostShocking link uncovered: deep sleep could be key to fighting Alzheimer’s&nbsp;&nbsp;Futura, le média qui explore le mondeHow Your Bedtime Routine Can Help Reduce the Risk of Alzheime",
       "sources": [
         {
           "name": "Good News Network",
@@ -609,7 +681,7 @@
       "id": "489e70e0819b",
       "title": "Bumblebees have tiny brains but they can solve problems like chimps and elephants - NPR",
       "published": "2026-06-07T09:00:00+00:00",
-      "summary": "Bumblebees have tiny brains but they can solve problems like chimps and elephants&nbsp;&nbsp;NPRBumblebees use tools to solve complex problems—despite not being trained to do so&nbsp;&nbsp;Scientific American‘They surprise me every time’: bees can use tools to solve problems, study finds&nbsp;&nbsp;The GuardianBumble bees show spontaneous problem-solving, challenging big-brain assumptions&nbsp;&nbsp;Phys.orgBumblebees can solve problems on their own&nbsp;&nbsp;Science News",
+      "summary": "Bumblebees have tiny brains but they can solve problems like chimps and elephants&nbsp;&nbsp;NPRWhat's the buzz? New study says bumblebees are ace problem solvers&nbsp;&nbsp;USA TodayBumblebees use tools to solve complex problems—despite not being trained to do so&nbsp;&nbsp;Scientific AmericanAre bumblebees as smart as chimps? A new problem-solving experiment makes the case&nbsp;&nbsp;CNNBumblebees can solve problems on their own&nbsp;&nbsp;Science News",
       "sources": [
         {
           "name": "NPR",
@@ -621,7 +693,7 @@
       "id": "8de31e43a8b1",
       "title": "Everyone has heard of creatine. But you haven't heard what it does to your brain and mood after 50 - mensfitness.co.uk",
       "published": "2026-06-07T08:40:35+00:00",
-      "summary": "Everyone has heard of creatine. But you haven't heard what it does to your brain and mood after 50&nbsp;&nbsp;mensfitness.co.ukCreatine as a daily wellness supplement beyond the gym&nbsp;&nbsp;New Hope NetworkI’m an energy-zapped mom who started supplementing with creatine and I wish I had started sooner&nbsp;&nbsp;Fit&amp;WellIs creatine worth the hype? An expert’s verdict on the viral supplement&nbsp;&nbsp;StuffIs creatine for you?&nbsp;&nbsp;Baylor College of Medicine Blog Network -",
+      "summary": "Everyone has heard of creatine. But you haven't heard what it does to your brain and mood after 50&nbsp;&nbsp;mensfitness.co.ukIs creatine worth the hype? An expert’s verdict on the viral supplement&nbsp;&nbsp;StuffI’m an energy-zapped mom who started supplementing with creatine and I wish I had started sooner&nbsp;&nbsp;Fit&amp;WellIs creatine for you?&nbsp;&nbsp;Baylor College of Medicine Blog Network -What is creatine, and should you take it?&nbsp;&nbsp;UVA Today",
       "sources": [
         {
           "name": "mensfitness.co.uk",
@@ -642,22 +714,10 @@
       ]
     },
     {
-      "id": "5c02176e9f49",
-      "title": "The Fruit Linked To Better Heart Health And Slower Brain Ageing - HuffPost UK",
-      "published": "2026-06-07T08:00:19+00:00",
-      "summary": "The Fruit Linked To Better Heart Health And Slower Brain Ageing&nbsp;&nbsp;HuffPost UK",
-      "sources": [
-        {
-          "name": "HuffPost UK",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcEtJT0toZWxrQjNBZzJ4MjBaR1Z3TEg4NkRzY0I4dGtfMGpDRWFvQlBOU19naDhNVUVxZ1hMSEt4dldYSWJlakpGY0QzUjBOZTRydFluT2pUbnE3ZWdIeWU5SFNtN3NLSHRNbkdFcVpxa1lLYVpOSC1YMml2UDlHVGhEWnpLQUIzaVVjNjFJUm1ZQdIBmAFBVV95cUxPNlJXbFlEX2RRZVpiT3V0RENxWXdORW5hU2pzZGpxNERjR0JEbFByV0VqTTZQR2RyNXdMWUV6RzhHWjQyY2FibWhVVWlaRmVqaDhWSXRicFF3b0hFMGx5TUc0SFl6MHdaeXNxZDVYeHRqZDhDNDlLQV82ZEp3RlBtakV2cndkXzl3bWF5Q1pIdzlvRXpzZWswZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8553ba39b3b9",
       "title": "As vaccination rates plunge in Pennsylvania schools, measles cases surge in largest outbreak in three decades - Pittsburgh Post-Gazette",
       "published": "2026-06-07T08:00:00+00:00",
-      "summary": "As vaccination rates plunge in Pennsylvania schools, measles cases surge in largest outbreak in three decades&nbsp;&nbsp;Pittsburgh Post-Gazette16 more measles cases reported in Lancaster County in the past week; 36 cases so far this year&nbsp;&nbsp;LancasterOnlineLancaster County reports surge in measles cases&nbsp;&nbsp;WGALState Dept. of Health has confirmed 50 measles cases in Pennsylvania this year&nbsp;&nbsp;YahooAs measles rises, Pa. parents should be able to see school-level vaccine data",
+      "summary": "As vaccination rates plunge in Pennsylvania schools, measles cases surge in largest outbreak in three decades&nbsp;&nbsp;Pittsburgh Post-GazetteLancaster County reports surge in measles cases&nbsp;&nbsp;WGALMore Measles Cases Reported in PA&nbsp;&nbsp;Lightner Communications LLCState Dept. of Health has confirmed 50 measles cases in Pennsylvania this year&nbsp;&nbsp;fox43.com16 more measles cases reported in Lancaster County in the past week; 36 cases so far this year&nbsp;&nbsp;LancasterOnline",
       "sources": [
         {
           "name": "Pittsburgh Post-Gazette",
@@ -693,35 +753,11 @@
       "id": "0d4c10b381be",
       "title": "Breakthrough: Universal Coronavirus Vaccine Designed By AI Passes Human Trial - NDTV",
       "published": "2026-06-07T04:37:03+00:00",
-      "summary": "Breakthrough: Universal Coronavirus Vaccine Designed By AI Passes Human Trial&nbsp;&nbsp;NDTV'World-first' vaccine designed by artificial intelligence&nbsp;&nbsp;BBCAI-designed universal coronavirus vaccine passes first human trial&nbsp;&nbsp;ScienceDailyThe University of Cambridge says it successfully tested a vaccine with an AI-designed antigen&nbsp;&nbsp;EngadgetAI-designed universal vaccine clears first human trial, targets future coronavirus threats with needle-free delivery&nbsp;&nbsp;Medi",
+      "summary": "Breakthrough: Universal Coronavirus Vaccine Designed By AI Passes Human Trial&nbsp;&nbsp;NDTVAI-designed universal coronavirus vaccine passes first human trial&nbsp;&nbsp;ScienceDailyNew ‘universal vaccine’ technology could protect us from future virus outbreaks&nbsp;&nbsp;University of CambridgeFirst AI-designed 'universal vaccine' tested in humans: UK researchers&nbsp;&nbsp;Medical XpressThe University of Cambridge says it successfully tested a vaccine with an AI-designed antigen&nbsp;&nbsp;En",
       "sources": [
         {
           "name": "NDTV",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWWdoU013WlBsRFF2NXBZdjVLZVNDM2VqYzgzQV9ZbU0yWFFFcHRvLUNhOEtJUkl0U3FKLTFzTEw5bThaSjB2S0VHZXJJdXliUGY4cDBvVFRxQXoxcE5zaWp5dk9rYXlWUjd2dDFPSnBLS2pqMDB3OHI3dENKU1RwWmFOSkZwVlljalNiZW0zV3YxMVNzbERvY3lRaldjeGc4YklYYWU3MHdBMVVpYTZIV3VGd9IBuwFBVV95cUxOLXRmRDdacGkyZmIwQklGajUwV09rX05hQlJkQ1lFa1hVSFljejBONjhjdXNXUmlKeGdkTWQ4cUMxRkFqWEFKcDd5TzJKVEVWSDZSNlEtM25KTGdqOGU0S0ZfUXpDOHBWRkMtWHZzTXdaeVM5cHllWUx0Z3JNZ09RMHlaYWFBczdILU9iUll2djhSbW1abXM5N09qRkpvWl9PNW5sS3lXaW5ZMzVOWDQ0Y2JQelRWVmEzX2Q4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "53922576d407",
-      "title": "Researchers Discover a Hidden Vitamin D Problem That Persists Year-Round - SciTechDaily",
-      "published": "2026-06-06T23:39:37+00:00",
-      "summary": "Researchers Discover a Hidden Vitamin D Problem That Persists Year-Round&nbsp;&nbsp;SciTechDailySummer sun fails to fix vitamin D gap in at risk groups&nbsp;&nbsp;Medical XpressCan Food Help Boost Vitamin D Absorption? What to Eat—and What to Skip&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness InformationSafe Dose Of Vitamin D&nbsp;&nbsp;Harvard HealthQ&amp;A: Can you wear sunscreen and still get enough vitamin D?&nbsp;&nbsp;UVA Today",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRDNoRnhOQjFwRWRvc0JDaWMzOFBWR2x2YXJPNUxUUjNtSEZXSFZUbGpfV1dTNTVHcloteXhQR0taOGE2TkZLN3Nmb3d6LWQ5Nlo3VXNwR3dqLUNJNkc3dWM0M2RNYUMtUmlYMVFIQ09IV0VEeVY5QnEyRHRvWXptZ1JvWHlmUWY3bkRkaXlmSFk4anZlMDFVWHZoWUY2ekE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "30748275f534",
-      "title": "Early humans used fire in Wonderwerk Cave up to 1.8 million years ago - Archaeology News Online Magazine",
-      "published": "2026-06-05T18:00:56+00:00",
-      "summary": "Early humans used fire in Wonderwerk Cave up to 1.8 million years ago&nbsp;&nbsp;Archaeology News Online MagazineHumans may have discovered fire hundreds of thousands of years before previously thought: new research&nbsp;&nbsp;New York PostNew study finds hominids used fire 700,000 years earlier than previously recorded&nbsp;&nbsp;Interesting EngineeringHominids used fire 700,000 years earlier than previously thought&nbsp;&nbsp;Science Media Centre EspañaHomo erectus campfires in South Africa re",
-      "sources": [
-        {
-          "name": "Archaeology News Online Magazine",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMWpoNE1aa3dLeWFoSDYzenBJenQtUWZRRVNFRnlFLVFib09Cd3VsM1ZKaUt5aG50VUMyekJnUENaMkJkOHhacmFNeXlXVFdYMUF6REVnRGNoY2d1ei00dG82VFdzQzRpck03QzdSM0NCS3hXd09LQzFuUDNYd2dNQzZJbw?oc=5"
         }
       ]
     }

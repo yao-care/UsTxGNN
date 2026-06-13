@@ -1,14 +1,14 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-06-13T04:04:44.132873+00:00",
-  "total_fetched": 137,
-  "unique_count": 137,
-  "health_related_count": 79,
+  "fetched_at": "2026-06-13T09:20:24.375969+00:00",
+  "total_fetched": 135,
+  "unique_count": 135,
+  "health_related_count": 83,
   "news": [
     {
       "id": "1bf81711d20a",
       "title": "Research Shows There Is a Specific Age When Your Strength and Fitness Start to Decline - Verywell Health",
-      "published": "2026-06-13T01:08:35+00:00",
+      "published": "2026-06-13T07:09:58+00:00",
       "summary": "Research Shows There Is a Specific Age When Your Strength and Fitness Start to Decline&nbsp;&nbsp;Verywell HealthThe Exact Age Your Strength And Fitness Starts To Deteriorate&nbsp;&nbsp;Yahoo News New Zealand",
       "sources": [
         {
@@ -18,26 +18,38 @@
       ]
     },
     {
-      "id": "efddd1997e0f",
-      "title": "Blood test can find thousands of genetic conditions in pregnancy, say scientists - The Guardian",
-      "published": "2026-06-12T22:00:00+00:00",
-      "summary": "Blood test can find thousands of genetic conditions in pregnancy, say scientists&nbsp;&nbsp;The GuardianMaternal Blood Test Allows Comprehensive Genetic Fetal Screening&nbsp;&nbsp;Inside Precision MedicineNoninvasive sequencing expands prenatal genetic screening capabilities&nbsp;&nbsp;News-MedicalBreakthrough Non-Invasive Prenatal Test Matches Invasive Methods in&nbsp;&nbsp;Bioengineer.org",
+      "id": "507157a2bb49",
+      "title": "A Supplement For Joint Pain Could Accelerate Alzheimer's Memory Loss - ScienceAlert",
+      "published": "2026-06-13T01:03:19+00:00",
+      "summary": "A Supplement For Joint Pain Could Accelerate Alzheimer's Memory Loss&nbsp;&nbsp;ScienceAlertPopular joint pain supplement might increase Alzheimer's risk, study says&nbsp;&nbsp;Medical XpressPopular joint supplement glucosamine linked to faster Alzheimer’s progression&nbsp;&nbsp;ScienceDailyHyperglycosylation is a metabolic driver of Alzheimer’s disease&nbsp;&nbsp;NatureStudy links joint pain supplement to accelerating dementia&nbsp;&nbsp;UF Health",
       "sources": [
         {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVlh1bXl0RTJuV3AxLVJ6b2lSSVRId2hGelVEcERwTk00TDdDUjdkdnl0bGRRUG1QZ3ZkMFFHM1pVejBvMzBBVkFubnpuQ3lOYVk4UVhxTmxsNzNsTFZBbnhNQ2xZM19YNUEzeTlPUlc2dmlTUEstQmp6OVd3bm44Xzhzb1VRdE5LZEFYckhSbVJQcWVoWXNqNUd5X3J3UjF0cEhVTGxTNlg?oc=5"
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWDNHMVdvbnVMS01WVEZjdFotNmVKZENEYk5RaUhXRmVGUzVPY3g3Q3hQX0VQWE4wQWN4aE9TTnJFUzhOY2Y2S2F5aHRtUWJrS3Y5YUpBREtoeHh4a3IxcTBKdnpkWU9WZlkwaUVqUEtVU0FyWVVNdHZsNjJ0dTF6RU4ybTdRNTRkVV93d0JjNXNIZXRub2NHa25TMEk?oc=5"
         }
       ]
     },
     {
-      "id": "166ae92f07ee",
-      "title": "Infectious disease threats test public health as World Cup kicks off - Axios",
-      "published": "2026-06-12T20:02:30+00:00",
-      "summary": "Infectious disease threats test public health as World Cup kicks off&nbsp;&nbsp;AxiosThe FIFA World Cup will bring tourism, soccer fans — and the risk of infectious diseases&nbsp;&nbsp;Georgia Public BroadcastingThe behind-the-scenes work of protecting World Cup fans from infectious diseases&nbsp;&nbsp;CIDRAPHow Philadelphia is preparing for measles and other disease outbreaks during FIFA World Cup events&nbsp;&nbsp;Inquirer.comAs World Cup crowds descend on Bay Area, health officials watch for ",
+      "id": "06b4f6d7ed29",
+      "title": "Earth's largest waterfall is hidden underwater in the Denmark Strait between Iceland and Greenland, where dense cold water plunges about 3,500 meters down the seafloor, far exceeding any waterfall on land in drop height and volume - Space Daily",
+      "published": "2026-06-12T23:00:54+00:00",
+      "summary": "Earth's largest waterfall is hidden underwater in the Denmark Strait between Iceland and Greenland, where dense cold water plunges about 3,500 meters down the seafloor, far exceeding any waterfall on land in drop height and volume&nbsp;&nbsp;Space Daily",
       "sources": [
         {
-          "name": "Axios",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTl9IcUREQlBLbUZmMHExWXY1M3RIaFNoMUNtVS14V3lQcklTRXVvWVZqMmZyLU1jbXJoaHR4NUtJX0N0OVNHTmZqd3dwU3p5X0tHTzdGa3N5UUxIT21ZSmFJV25zZnJiTm1KWGJQR2NJN0NKVmRVMWpZRGZGdnotbW1NOG9jSHlmc1RF?oc=5"
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOcUlXZXJZM1RUZnU0RUNJeVpLcXF2WlJFR25rV25MS1BXaHVsVTMtT2M0ZXd3Z1k1YlM1UnpZeENpNXRneWUxSnU4UDlHUmhEZEpUb2k0SldSSWw1QWpkNGxmVHNaenRHbUNIUWQxTUZRT1N1dzNSeGtqZThqQ0VYY3pzT1N6X1phR3BMVGNMY284UmNUTDN5eWxFVkRNaDQ5REJIa2tTMWF0OXAyTjRlakdVTVZBWWZyMk4wLWQtQS0yRU9QdjhYdldpOGdrVjFYS1lzUFlGaFdwVnFNV2Rub0RJdm9aY1ZRZm5FQ2dlYjhSaHg4NE41c2hrbkYxVUhVbzZpS0NhYTNncFBQc0ZPS1k2T2FDOHZ6UkwtNG9YZm96eHpBWFdYUHdNVW1fclllYndFN0hfaEY2ZU5jT3l6OVRqdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "efddd1997e0f",
+      "title": "Blood test can find thousands of genetic conditions in pregnancy, say scientists - The Guardian",
+      "published": "2026-06-12T22:00:00+00:00",
+      "summary": "Blood test can find thousands of genetic conditions in pregnancy, say scientists&nbsp;&nbsp;The GuardianNoninvasive sequencing expands prenatal genetic screening capabilities&nbsp;&nbsp;News-MedicalMaternal Blood Test Allows Comprehensive Genetic Fetal Screening&nbsp;&nbsp;Inside Precision MedicineBreakthrough Non-Invasive Prenatal Test Matches Invasive Methods in&nbsp;&nbsp;Bioengineer.org",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVlh1bXl0RTJuV3AxLVJ6b2lSSVRId2hGelVEcERwTk00TDdDUjdkdnl0bGRRUG1QZ3ZkMFFHM1pVejBvMzBBVkFubnpuQ3lOYVk4UVhxTmxsNzNsTFZBbnhNQ2xZM19YNUEzeTlPUlc2dmlTUEstQmp6OVd3bm44Xzhzb1VRdE5LZEFYckhSbVJQcWVoWXNqNUd5X3J3UjF0cEhVTGxTNlg?oc=5"
         }
       ]
     },
@@ -50,6 +62,18 @@
         {
           "name": "Block Club Chicago",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT0JTYXdOdDRsOV9sMkl5eWVoMkNDaTNSRGg5d3NvblFPSlFSOXdCNW9EUEdLdF9uaDAwM1JmdlBBTXpHX0hqVUo4MGZ4d3U1OGxoN2haMkFVRHhOeDVsZUFaS1E2eVJXTWN6TUlKekxhd1EzRUdYMU5Sc19WWUZmU3MwRDYwQWVxZnBKZHRPeTBSbHVXRWloZDFZMGtlblNHbzEzRmxSazdXSWFVSzMtdTRB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "67fc39b700fa",
+      "title": "Mind-blowing simulation shows extreme impact that fasting for 36 hours has on your body - UNILAD",
+      "published": "2026-06-12T19:35:36+00:00",
+      "summary": "Mind-blowing simulation shows extreme impact that fasting for 36 hours has on your body&nbsp;&nbsp;UNILADTime-Restricted Eating Improves Gut Health and Cardiometabolic Markers: Study&nbsp;&nbsp;Medical DialoguesIntermittent fasting triggers surprising changes in the brain boosting memory and mental sharpness: Study&nbsp;&nbsp;TheHealthSite",
+      "sources": [
+        {
+          "name": "UNILAD",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZXEwUm1IR2NWNmE0RTNrQnhpLTZVWUdmVjAwN25wZXdWZV9SVFBwX3AzWUZhOFVfNndGOVZ6TWJ4ejRMRDAxTlNhTU9Na05jcVRxTWpVR0xoLVB2WFp3TFZtM19hUE4zT2pvaThtblEwVWItRmFyNTA4NHVKZmw0Q2JRUmg?oc=5"
         }
       ]
     },
@@ -90,10 +114,34 @@
       ]
     },
     {
+      "id": "29a84f103a5b",
+      "title": "Why is the US Space Force researching 'orbital warehouses'? - Space",
+      "published": "2026-06-12T18:00:00+00:00",
+      "summary": "Why is the US Space Force researching 'orbital warehouses'?&nbsp;&nbsp;Space",
+      "sources": [
+        {
+          "name": "Space",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTk1JeWpyWFpGVTBkQ0c4LXE4T1ZZUnRHcVRKcWhmN2plVnJGZktUUlhiWlp0cUxnRkVRY0tvcWJOSzdaVzJObmJSelg3TE40SVZ5WnRUcmhPajFscVBPVE5CUV9fMmZnZm9nOHNFYXJPOFg5QS0yMnV6Y04xUklCeEFYbHFhdDhteHlYMmJsaE0tYWF6MUxlb0luMTVwQWtUUjI1RG14eDFha3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "90b299d3ff46",
+      "title": "Autistic children being injected with unapproved stem cell treatments supported by RFK Jr - The Guardian",
+      "published": "2026-06-12T17:17:00+00:00",
+      "summary": "Autistic children being injected with unapproved stem cell treatments supported by RFK Jr&nbsp;&nbsp;The GuardianSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV2lTRHgydXdPc1NSNEJJRDVEQnVLUFV5YVIxa2NtNmtkemlxQTZfZURIYXhfclVPc09WRmktal9NdGZ3TUk3Z2VaS3EtaU9rZFB4MUc1SEVUTl9vazl6b19JU0xodVFZekd6Y0tZcDRRaW1jQkpEd2xLWEdhSzctZmI4NGM3RnJN?oc=5"
+        }
+      ]
+    },
+    {
       "id": "794376393375",
       "title": "Bay Area still battling 'extremely contagious' norovirus - SFGATE",
       "published": "2026-06-12T17:07:32+00:00",
-      "summary": "Bay Area still battling 'extremely contagious' norovirus&nbsp;&nbsp;SFGATEA Very Contagious Virus Is on the Rise, but Doctors Say Doing This One Simple Thing Will Keep You Safe&nbsp;&nbsp;Women's HealthWhat to know about the ‘vomit bug’ that could ruin your summer vacation&nbsp;&nbsp;NJ.comDATA DIFFERENCES: Wastewater scan says viruses on the rise; Hamilton Co Health Dept. disagrees&nbsp;&nbsp;Local 3 NewsThe Children's Museum of Green Bay's summer programs begin&nbsp;&nbsp;AOL.com",
+      "summary": "Bay Area still battling 'extremely contagious' norovirus&nbsp;&nbsp;SFGATEWhat to know about the ‘vomit bug’ that could ruin your summer vacation&nbsp;&nbsp;NJ.comA Very Contagious Virus Is on the Rise, but Doctors Say Doing This One Simple Thing Will Keep You Safe&nbsp;&nbsp;Women's HealthDATA DIFFERENCES: Wastewater scan says viruses on the rise; Hamilton Co Health Dept. disagrees&nbsp;&nbsp;Local 3 NewsThe Children's Museum of Green Bay's summer programs begin&nbsp;&nbsp;AOL.com",
       "sources": [
         {
           "name": "SFGATE",
@@ -105,23 +153,11 @@
       "id": "bdfcd3c012a2",
       "title": "Treating pancreatic tumours may have revealed cancer’s master switch - The Economist",
       "published": "2026-06-12T16:43:29+00:00",
-      "summary": "Treating pancreatic tumours may have revealed cancer’s master switch&nbsp;&nbsp;The EconomistIn Fight Against Pancreatic Cancer, Daraxonrasib Is Rare Sign Of Hope&nbsp;&nbsp;ForbesGeorgia hospitals test ‘game-changer’ pancreatic cancer drugs&nbsp;&nbsp;Atlanta Journal-ConstitutionThe Guardian view on cancer treatments: new hope for patients now and in the future | Editorial&nbsp;&nbsp;The GuardianDaraxonrasib’s Phase 3 Pancreatic Cancer Survival Data Might Change The Case For Investing In RVMD&n",
+      "summary": "Treating pancreatic tumours may have revealed cancer’s master switch&nbsp;&nbsp;The EconomistIn Fight Against Pancreatic Cancer, Daraxonrasib Is Rare Sign Of Hope&nbsp;&nbsp;ForbesGeorgia hospitals test ‘game-changer’ pancreatic cancer drugs&nbsp;&nbsp;AJC.comDaraxonrasib’s Phase 3 Pancreatic Cancer Survival Data Might Change The Case For Investing In RVMD&nbsp;&nbsp;Yahoo FinanceA New Medication May Double the Survival Time for Pancreatic Cancer Patients&nbsp;&nbsp;Women's Health",
       "sources": [
         {
           "name": "The Economist",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQnVqMHB2aVdBeVRrd3d1UXQ4V285VTJ1MVFvZWh5M1o0UTJ1MThkd3I3cVdIVm4xUjZrTGFaZnA0ZjVIZXJlS09ROG5CWGlwYTFlaXI2N0FJLUhzWnloUVZLd1RlMEZZWHRZZUZHZ2puN0wwV1NUYXBUUy1BdGpIU3k5UkpEaWlIOWV6cVEzSUczS3J1UGtMU3h4dGZSdzh3OHFSWVlhT25GU2tpRkl3RFBMamZjUDhYUjJQNVU4OVV1ZUg0aEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "22de6cbd5076",
-      "title": "A new test claims to tell how well you’re ageing – and even when you’ll die. But I’d rather not know | Helen Pilcher - The Guardian",
-      "published": "2026-06-12T16:31:00+00:00",
-      "summary": "A new test claims to tell how well you’re ageing – and even when you’ll die. But I’d rather not know | Helen Pilcher&nbsp;&nbsp;The GuardianWhy Do Telomeres Shorten When a Cell Divides, and How Does It Affect Human Aging?&nbsp;&nbsp;CU Anschutz newsroom[Science Through the Cover] Harvard Medical School team builds RNA ‘transcriptome clock’ to predict human aging and lifespan&nbsp;&nbsp;동아사이언스A New Biological Clock Could Predict When You'll Probably Die&nbsp;&nbsp;ScienceAlertThe Mortality Algori",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQkNLRUw5ZEdlNUh4OEpvd3Rfem5OVG5HbGZRRmNia3hzU3NhWU1yMUg2Yzl5WHFjTlI1Z3RVX2pXWTRpMU1xR3g5Y0tHQmlaa1FsSFY1YVc0TEVmZWE2cDJXS0lIQ3hEVjJYSlFmT2p4bHlEVUdEZGNFdVlfT3Iyak1RZ19UaVd0ZGwyX1hheEc2SUJPT3R0RHd4blVWdDNvdVFkZW8xUEF1dHo4ZmxlcTRINTY?oc=5"
         }
       ]
     },
@@ -153,11 +189,23 @@
       "id": "5dcb5509bf88",
       "title": "NASA to Cover 34th SpaceX Resupply Mission Space Station Departure - NASA (.gov)",
       "published": "2026-06-12T15:33:53+00:00",
-      "summary": "NASA to Cover 34th SpaceX Resupply Mission Space Station Departure&nbsp;&nbsp;NASA (.gov)NASA to Broadcast SpaceX Dragon’s June 16 Departure; Coast Guard Issues Hazardous Window Alerts for Launch and Reentry&nbsp;&nbsp;Forth.NewsBotany and Biology Research Wrap Up Week as Dragon Preps for Earth Return&nbsp;&nbsp;NASA (.gov)Crew Begins Week with More Cartilage Printing and Plant Harvesting&nbsp;&nbsp;NASA (.gov)",
+      "summary": "NASA to Cover 34th SpaceX Resupply Mission Space Station Departure&nbsp;&nbsp;NASA (.gov)Botany and Biology Research Wrap Up Week as Dragon Preps for Earth Return&nbsp;&nbsp;NASA (.gov)NASA to Broadcast SpaceX Dragon’s June 16 Departure; Coast Guard Issues Hazardous Window Alerts for Launch and Reentry&nbsp;&nbsp;Forth.News",
       "sources": [
         {
           "name": "NASA (.gov)",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRnlPczhLRnVWVk51U09TQmx5X2x4VnRXbnN2VjhIVGdablRpd0ZfUFd2NFNxdUtPYjRVeW9aMktIR3E5YjJFakgtR1JCZ2NqTWpIckw5eXpLNjZWOXRCZFVpRXdySmNjNG4zLUs0cWd5LXZPRXVXZWtyTXVhTlpKaTVZb3o5VVpKdWd0aU1iaVR4aTVzdUpaM3FVdUMxUDlZaklN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "166ae92f07ee",
+      "title": "Infectious disease threats test public health as World Cup kicks off - Axios",
+      "published": "2026-06-12T14:54:01+00:00",
+      "summary": "Infectious disease threats test public health as World Cup kicks off&nbsp;&nbsp;AxiosThe FIFA World Cup will bring tourism, soccer fans — and the risk of infectious diseases&nbsp;&nbsp;Georgia Public BroadcastingHow Philadelphia is preparing for measles and other disease outbreaks during FIFA World Cup events&nbsp;&nbsp;Inquirer.comThe behind-the-scenes work of protecting World Cup fans from infectious diseases&nbsp;&nbsp;CIDRAPAs World Cup crowds descend on Bay Area, health officials watch for ",
+      "sources": [
+        {
+          "name": "Axios",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTl9IcUREQlBLbUZmMHExWXY1M3RIaFNoMUNtVS14V3lQcklTRXVvWVZqMmZyLU1jbXJoaHR4NUtJX0N0OVNHTmZqd3dwU3p5X0tHTzdGa3N5UUxIT21ZSmFJV25zZnJiTm1KWGJQR2NJN0NKVmRVMWpZRGZGdnotbW1NOG9jSHlmc1RF?oc=5"
         }
       ]
     },
@@ -174,18 +222,6 @@
       ]
     },
     {
-      "id": "a85b3eef9794",
-      "title": "Goblin shark seen alive in natural deep-sea habitat for the first time - Yahoo",
-      "published": "2026-06-12T14:18:45+00:00",
-      "summary": "Goblin shark seen alive in natural deep-sea habitat for the first time&nbsp;&nbsp;YahooRare goblin shark filmed in the wild for the 1st time, study says&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosFor The First Time, A Goblin Shark Has Been Filmed In Its Natural Habitat – And The Footage Is Spooky As Hell&nbsp;&nbsp;IFLScienceGoblin shark seen alive in natural habitat for the first time: \"The most iconic of all the deep-sea sharks\"&nbsp;&nbsp;CBS NewsGoblin shark filmed alive in t",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSFJSVnhYNFFseF9iZk5YZmRENkVnM2luLTNNekRYQlBmclZjUm5UZTN0QkFnSUN1emhJd0lfeWVPb1NSRlhHOEdlWm9Oc1Z0UFYyVE9CUzl6TDM2SzhhSDVWbHRScFYwUkFac0Nib3B2cTVHR1NEbkRHY1UzMjA2TGRhbDRyNE1EVG1pUkpXMk80ZTha?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1885267016f7",
       "title": "Odds & Ends: June 12, 2026 - The Art of Manliness",
       "published": "2026-06-12T14:05:36+00:00",
@@ -198,10 +234,34 @@
       ]
     },
     {
+      "id": "5fc3a92932ff",
+      "title": "Earliest Flickering Quasar Ever Seen Could Explain Monster Black Holes - ScienceAlert",
+      "published": "2026-06-12T14:04:36+00:00",
+      "summary": "Earliest Flickering Quasar Ever Seen Could Explain Monster Black Holes&nbsp;&nbsp;ScienceAlertMIT astronomers discover the earliest known flickering quasar&nbsp;&nbsp;MIT NewsCould the secret to black hole formation be locked away in this record-breaking ancient quasar?&nbsp;&nbsp;SpaceDiscovery of quasar variability and early accretion disk signatures at cosmic dawn&nbsp;&nbsp;NatureThe Earliest Flickering Quasar Ever Found Just Revealed a Surprising Black Hole Secret&nbsp;&nbsp;ZME Science",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONjVIWjBfbTkxRHpVeWNoOFBXcXRXcE0xRjVvcFg2SkN6bWRFVHZOQV9SY2llUXpfRm96LXVjdDJmaTZrUU0wQTdKSkF5WEwycHlWdFY5UTJvVjYwR0NJZkMxMDJicVZNUFRRTGZ6TU1Wcmtscm5Qb0tmNnBEOHQyNmpLbVJYbk9tZU5RSWpkTTNPRTJoOVdQNnhuRUxVOFVY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9d41c0279582",
+      "title": "Bacterial cell division protein FtsZ complexes with a phage protein to activate bacterial immunity - Nature",
+      "published": "2026-06-12T13:31:59+00:00",
+      "summary": "Bacterial cell division protein FtsZ complexes with a phage protein to activate bacterial immunity&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DU2dHWEw2MVIwd2RFcUx2VnFCYjNyS3lONnNpMGpVc0trbWdKN0stZ0lQU2pOdXFiSFBfWnVPWG1Xa1BOVWFucVVMbVl5RURnSEk2aTVxWG9EOFdqMkxF?oc=5"
+        }
+      ]
+    },
+    {
       "id": "bb3534dd9c2a",
       "title": "4 Fruits to Help Reduce Heart Disease Risk, According to a Cardiologist - EatingWell",
       "published": "2026-06-12T13:30:00+00:00",
-      "summary": "4 Fruits to Help Reduce Heart Disease Risk, According to a Cardiologist&nbsp;&nbsp;EatingWellNot all fruits and vegetables are equal when it comes to heart health, our research shows&nbsp;&nbsp;The ConversationTop five-a-day foods new study says your heart needs&nbsp;&nbsp;BBCGreen tea, broad beans, berries — are you eating the best five-a-day?&nbsp;&nbsp;The TimesFlavanols can help prevent heart disease, but most people don't eat enough fruits and veggies to get them&nbsp;&nbsp;PhillyVoice",
+      "summary": "4 Fruits to Help Reduce Heart Disease Risk, According to a Cardiologist&nbsp;&nbsp;EatingWellNot all fruits and vegetables are equal when it comes to heart health, our research shows&nbsp;&nbsp;The ConversationSpecific fruit choices boost flavanols for a healthier heart&nbsp;&nbsp;News-MedicalTop five-a-day foods new study says your heart needs&nbsp;&nbsp;BBCGreen tea, broad beans, berries — are you eating the best five-a-day?&nbsp;&nbsp;The Times",
       "sources": [
         {
           "name": "EatingWell",
@@ -225,7 +285,7 @@
       "id": "c440c4c34cba",
       "title": "Ebola outbreak spreads to crowded displacement camp in Congo - Reuters",
       "published": "2026-06-12T13:09:20+00:00",
-      "summary": "Ebola outbreak spreads to crowded displacement camp in Congo&nbsp;&nbsp;ReutersAlarm as Ebola spreads into new areas of DR Congo&nbsp;&nbsp;Al JazeeraEbola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda&nbsp;&nbsp;World Health Organization (WHO)Ebola testing has improved in DRC but still isn't nearly enough&nbsp;&nbsp;NPREbola outbreak in DR Congo expands into large displacement camp&nbsp;&nbsp;CIDRAP",
+      "summary": "Ebola outbreak spreads to crowded displacement camp in Congo&nbsp;&nbsp;ReutersAlarm as Ebola spreads into new areas of DR Congo&nbsp;&nbsp;Al JazeeraEbola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda&nbsp;&nbsp;World Health Organization (WHO)Ebola testing has improved in DRC but still isn't nearly enough&nbsp;&nbsp;NPREbola outbreak map: Cases hit 600 in Africa, drawing US attention&nbsp;&nbsp;USA Today",
       "sources": [
         {
           "name": "Reuters",
@@ -234,14 +294,14 @@
       ]
     },
     {
-      "id": "4efdd833ffdf",
-      "title": "Cardiologist shares this superfood for healthy ageing, brain and heart function: ‘Tiny food, but extraordinary benefits’ | Health - Hindustan Times",
-      "published": "2026-06-12T12:51:15+00:00",
-      "summary": "Cardiologist shares this superfood for healthy ageing, brain and heart function: ‘Tiny food, but extraordinary benefits’ | Health&nbsp;&nbsp;Hindustan Times",
+      "id": "1f6aa9712293",
+      "title": "Can wearing a glucose monitor make you healthier? Here’s what happened to UCSD students who did - San Diego Union-Tribune",
+      "published": "2026-06-12T13:01:18+00:00",
+      "summary": "Can wearing a glucose monitor make you healthier? Here’s what happened to UCSD students who did&nbsp;&nbsp;San Diego Union-Tribune",
       "sources": [
         {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNRlJiQmU3RnJ2eXFWUW1tRGdMaVpFel9pMXBWVXY5RUxCMENmT1UwMnBOSEs1b2MybW9wVGlYVWVsT1JSZHpuS1htQXFtdTZIYnlrZUU5YWdsQXVJbEpERkc3VUlERUVQdURJbUNHQml6ZkVFNVdpN2pYT1R6ckt0MDhGMWNqQVRmUHU1YmkyMWlvbHpVTlZwTTZJakdBa2lIVzJOWEZlOUZwM0RQOFVQaldTa2paMFFYTHBVeHZXaC13ME5tOG1sVDI2djhXYXJWRUJncEk2QXdXSGdJbUNKdndJUFI4c0tpb3k5cW9uYVpTOEJUSmtPMFdYSEUxZEl2QzdJNnM3cGlfbV9OU3p6Zi1R0gGXAkFVX3lxTE1TVk5uTG9ZWGYwSFNPb3BrVUY2N3I5RHZmcy1KeDRvUENKckNodEJKZVA1WFRNT1h3RFJXb0l1X3pEekFITU9tZ09Pa0RDLTdmOTM0SHJKeV9FcGY2bG9PMTA4YzBOR3lmaUt6LUs2alRuZlFsY2VYTm9pM3lCMHE3dEp4Z0ZoVUxVdW5hWkMxeWNvNkdGOWZxeThCaTdZZkMtd05PS2tFM3c0dUJLcVYydjhIVUE3MFdKX094b0lpZXlGc2xCUXowd0tQVFNlbTZDeE1mOE02UGoxU0RqVjdvSUZacUIxNzlwN2ptQnBXQV9ETFFzUlByS3pSeFZfR3Q5QlBJMGFTTi1oOXNmdmhuU2xXQW5XZw?oc=5"
+          "name": "San Diego Union-Tribune",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVE00XzBHdm8tVzBYVHM0TnFkaW9DSmhwWllxZTFfX1dpXzJNeUM1QWtHNEVtMHJ2bjlrYWRQdmM1bWxQTVJUUnl6T3NwbzBOQ1gxeUVkdGpWZy1tTndXbEpPNHhRb0tNNFF6YUNXZlBxUVFfVWI1eGw0UU05ckNUM2R0TVhjSGR3SmgtNjZvMXg4Zy1SaTRUX05ra0d0VEFRTWVpU0wxLXBjNUFkbnNUN0IzU1puNnVpaTdEY1Q5bmxYZ2R0aERYbEJWYmYxQQ?oc=5"
         }
       ]
     },
@@ -321,7 +381,7 @@
       "id": "841daaf0f579",
       "title": "Vitamin C may help preserve brain gray matter volume as we age - Medical News Today",
       "published": "2026-06-12T11:23:43+00:00",
-      "summary": "Vitamin C may help preserve brain gray matter volume as we age&nbsp;&nbsp;Medical News TodayStudy finds vitamin C boosts brain health in older adults&nbsp;&nbsp;ttownmedia.comHigher Vitamin C Levels in Blood Linked to Healthier Aging Brains&nbsp;&nbsp;Inside Precision MedicineJapanese study links lower vitamin C blood levels to reduced gray matter in the brain&nbsp;&nbsp;Nutrition InsightThe surprising benefit of Vitamin C in old age&nbsp;&nbsp;The Independent",
+      "summary": "Vitamin C may help preserve brain gray matter volume as we age&nbsp;&nbsp;Medical News TodayStudy finds vitamin C boosts brain health in older adults&nbsp;&nbsp;CBS 19 NewsThe surprising benefit of Vitamin C in old age&nbsp;&nbsp;The IndependentJapanese study links lower vitamin C blood levels to reduced gray matter in the brain&nbsp;&nbsp;Nutrition InsightVitamin C May Support Healthy Brain Aging, Study Suggests&nbsp;&nbsp;Everyday Health",
       "sources": [
         {
           "name": "Medical News Today",
@@ -330,14 +390,14 @@
       ]
     },
     {
-      "id": "a5e6417b4343",
-      "title": "Scientists Discover a Strange Global Pattern in The Way Humans Walk - ScienceAlert",
-      "published": "2026-06-12T11:04:36+00:00",
-      "summary": "Scientists Discover a Strange Global Pattern in The Way Humans Walk&nbsp;&nbsp;ScienceAlertNearly Everyone, Everywhere, Veers Left When Walking&nbsp;&nbsp;The New York TimesResearchers Accidentally Discover That Humans Prefer to Turn Counterclockwise. But They Still Have No Idea Why&nbsp;&nbsp;Smithsonian MagazineIndividual locomotor bias drives counterclockwise motion in pedestrian crowds&nbsp;&nbsp;NatureHumans prefer to walk anticlockwise, scientists find – but reason is unclear&nbsp;&nbsp;Th",
+      "id": "209f18567538",
+      "title": "Scientists Discover a Strange Global Pattern in The Way Humans Walk - Yahoo",
+      "published": "2026-06-12T11:00:36+00:00",
+      "summary": "Scientists Discover a Strange Global Pattern in The Way Humans Walk&nbsp;&nbsp;YahooCounterclockwise bias&nbsp;&nbsp;u-tokyo.ac.jpNearly Everyone, Everywhere, Veers Left When Walking&nbsp;&nbsp;The New York TimesResearchers Accidentally Discover That Humans Prefer to Turn Counterclockwise. But They Still Have No Idea Why&nbsp;&nbsp;Smithsonian MagazineIndividual locomotor bias drives counterclockwise motion in pedestrian crowds&nbsp;&nbsp;Nature",
       "sources": [
         {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeWwxaS1Fa3p4dWhzRzRpS3gwVVdvbDIwRldTV3MzY1VrNFhXbm4tRlJ4N2hhd0lRUjdYV1A1dE5mX1JURzRkNUptZWpwNHpGSnJpc0w5NXhuMEtRSmxQZkFqRW9ZNVN4cFl6NVIwVnFtUzBHZDN0ZXBjSlMzR3FDb1dHRUZvMXJCU2xsZ29vY01yQzJDRzFuQTI5REY?oc=5"
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeGhKS194d2tGNk9IdUhGQ0pXNXNoZ2Y3SUg2eWplM1Z6R1gzd2R5eE1YTUkzMTNxc2VkbGY1NlRVMXMzUjhHcVhuc0pPSWVYNDVSVHlUOTRBM3RyYmxZQjNfTTRYR1hESEZLeW05REd1RDh4R0RPc2NuNV8zT01iUWhLMmdkcS0wNEdmWW1nb28zcnYzcWE1Q1NLQnpUWlJDT0Rz?oc=5"
         }
       ]
     },
@@ -369,7 +429,7 @@
       "id": "3f96950d5a6f",
       "title": "Funding cuts and repressive laws raise risk of new HIV epidemic, says UNAids - The Guardian",
       "published": "2026-06-12T09:32:00+00:00",
-      "summary": "Funding cuts and repressive laws raise risk of new HIV epidemic, says UNAids&nbsp;&nbsp;The GuardianDeputy Executive Director of UNAIDS Press Press&nbsp;&nbsp;UN MediaGlobal AIDS brief - United to end AIDS&nbsp;&nbsp;ReliefWebDavid Furnish warns politics is undoing decades of progress against AIDS&nbsp;&nbsp;PinkNews[Report] CHAI: HIV services are still falling. A year into the funding crisis, new data shows little recovery.&nbsp;&nbsp;European AIDS Treatment Group",
+      "summary": "Funding cuts and repressive laws raise risk of new HIV epidemic, says UNAids&nbsp;&nbsp;The GuardianDeputy Executive Director of UNAIDS Press Press&nbsp;&nbsp;UN MediaGlobal AIDS brief - United to end AIDS&nbsp;&nbsp;ReliefWebHIV Response Faces ‘Biggest Storm’ in Its History After Funding Nosedive&nbsp;&nbsp;Health Policy Watch[Report] CHAI: HIV services are still falling. A year into the funding crisis, new data shows little recovery.&nbsp;&nbsp;European AIDS Treatment Group",
       "sources": [
         {
           "name": "The Guardian",
@@ -453,7 +513,7 @@
       "id": "69b0b3a9ebd4",
       "title": "Scientists found the strength training sweet spot for a longer life - ScienceDaily",
       "published": "2026-06-12T04:48:06+00:00",
-      "summary": "Scientists found the strength training sweet spot for a longer life&nbsp;&nbsp;ScienceDailyTo Delay Death, Research Suggests Strength Training Just 1.5 Hours Each Week&nbsp;&nbsp;Outside MagazineWant to Live Longer? Science Says This Exercise Combination Is Key&nbsp;&nbsp;PreventionWant to Live Longer? Here's How Much Exercise You Should Do&nbsp;&nbsp;Health and MeScientists Reveal The Optimal Amount of Strength Training For a Longer Life&nbsp;&nbsp;ScienceAlert",
+      "summary": "Scientists found the strength training sweet spot for a longer life&nbsp;&nbsp;ScienceDailyA Doctor Recommends Doing This Twice a Week for Better Heart Health&nbsp;&nbsp;TODAY.comResistance training may boost longevity. But how much do you need?&nbsp;&nbsp;Scientific AmericanThe Anti-Aging Habit More People Are Curious About Right Now&nbsp;&nbsp;YahooTo Delay Death, Research Suggests Strength Training Just 1.5 Hours Each Week&nbsp;&nbsp;Outside Magazine",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -474,18 +534,6 @@
       ]
     },
     {
-      "id": "f0196c7960ee",
-      "title": "Popular joint pain supplement might increase Alzheimer's risk, study says - Medical Xpress",
-      "published": "2026-06-12T02:40:01+00:00",
-      "summary": "Popular joint pain supplement might increase Alzheimer's risk, study says&nbsp;&nbsp;Medical XpressHyperglycosylation is a metabolic driver of Alzheimer’s disease&nbsp;&nbsp;NaturePopular joint supplement glucosamine linked to faster Alzheimer’s progression&nbsp;&nbsp;ScienceDailyStudy links joint pain supplement to accelerating dementia&nbsp;&nbsp;UF HealthAlzheimer's May Be Worse for People Taking Popular Supplement&nbsp;&nbsp;MedPage Today",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYmVxbk9GVWlaeVJaZHdNaTZDdjgwdWxncDM3OGwxTHVqWlI0UHNqYVplQnItVXo4UGJoczU2LWEtd0k0d1Bta3ZTZDNHUXJFSlVQVTFPRk9MQzZraC1WMVdXM1laTzZCRHhTSk15amR3RmRwY1JMVDJrMzNrOEljaU1vc045RTF4TC1v?oc=5"
-        }
-      ]
-    },
-    {
       "id": "93a2d2b8a7c9",
       "title": "Geologists Went Looking For Gold. They Found Something Far Rarer. - ScienceAlert",
       "published": "2026-06-12T02:34:32+00:00",
@@ -501,11 +549,23 @@
       "id": "102070890ce5",
       "title": "Men encouraged to stay on top of screenings, preventive care - KSL TV 5",
       "published": "2026-06-12T02:31:40+00:00",
-      "summary": "Men encouraged to stay on top of screenings, preventive care&nbsp;&nbsp;KSL TV 5Man who avoided doctor for decade urges others to get regular checkups&nbsp;&nbsp;WKYTBaton Rouge General's Health Tip of the Week: How health overconfidence is hurting men&nbsp;&nbsp;Baton Rouge Business ReportMen’s Health Week 2026&nbsp;&nbsp;Business WalesGetting men to adopt healthier habits requires persistence, patience and public attention — but it can be done&nbsp;&nbsp;PhillyVoice",
+      "summary": "Men encouraged to stay on top of screenings, preventive care&nbsp;&nbsp;KSL TV 5Man who avoided doctor for decade urges others to get regular checkups&nbsp;&nbsp;WKYTIt's Men's Health Awareness Month&nbsp;&nbsp;AudacyMen’s Health Week 2026&nbsp;&nbsp;Business WalesGetting men to adopt healthier habits requires persistence, patience and public attention — but it can be done&nbsp;&nbsp;PhillyVoice",
       "sources": [
         {
           "name": "KSL TV 5",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaGtSdjJvZnlBb1hNVjNKV3VWbjdZaktSWngxcDFUaGU0MU9DQTYwVFM5UGhVcm8zQ0pRSjI1b1JzaWRlY1NObVlTTTc4UmhFRlY4TGc0Y1c5NURKaWRNT2FTM3g2bThyMFBXOVlMeDk1R3d0c1kyUTlMSGd0YTk3bHp1RS1IQ3hBeHJKVXNn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5d9efed2de89",
+      "title": "Depression isn’t just in the head: Scientists find altered genetic activity in white blood cells - PsyPost",
+      "published": "2026-06-12T02:23:27+00:00",
+      "summary": "Depression isn’t just in the head: Scientists find altered genetic activity in white blood cells&nbsp;&nbsp;PsyPost",
+      "sources": [
+        {
+          "name": "PsyPost",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa2MwMXh5c2w1RV9PU3kycVhpZ1VXM2o1cXBBcUlrTE1sRUxZLUlWWmRkNEh3azIzdzVwUnNWQndETjdxVmM5X3NyRHA2Rk14TUF3M0NJSTlobXF2UF9VUHFSWVJIU3lKU1kwUXFsX29xd2o2MTdoVjQ1U0NycHV2XzN2SGo2SU50YmYyOHBUTEdmUjB5cnFDSHZNeU9jYVR4S285Zk1EUzNuSjY4dDhOcjlJcnVIWjhfM3VZ?oc=5"
         }
       ]
     },
@@ -518,6 +578,30 @@
         {
           "name": "Phys.org",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4ySkxNbVRxMnNZSThGT254Mnhnb3RwakJ3dGdld2l2Z1ZXUFp6Q0Jvck05dGNNSUFlcTRNZTdsUkFhWVlZNUlnMlRIdldqUUM0aHdRNlBTeFY3bW9mTkRPRUF0dllKRW9rQWU1dFRmdVFaQ2dhc2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "07701fbe560f",
+      "title": "Meningitis B vaccine to be offered to thousands of young people in July - BBC",
+      "published": "2026-06-11T23:02:20+00:00",
+      "summary": "Meningitis B vaccine to be offered to thousands of young people in July&nbsp;&nbsp;BBCUK launches one-off MenB vaccination programme in wake of largest outbreak&nbsp;&nbsp;ReutersUK school leavers and new students to be offered meningitis B vaccine&nbsp;&nbsp;The GuardianNHS England commissions community pharmacies to deliver MenB vaccines to young people&nbsp;&nbsp;The Pharmaceutical JournalProtecting young people against MenB&nbsp;&nbsp;Wired-Gov",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtZHdHaXgtaHpMR3pIZTdjZTJIRER5LUxvZGhFVVcyYzQ2WnhDS0lUX3F6aVJrZmJvTV9uVC0xNGdteVFNVHp5RFh2dUh3MVEzRkZXbW5XTVlVQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "97917670a36c",
+      "title": "Lupus patients in England in remission after pioneering NHS trial of GM therapy - The Guardian",
+      "published": "2026-06-11T23:01:00+00:00",
+      "summary": "Lupus patients in England in remission after pioneering NHS trial of GM therapy&nbsp;&nbsp;The Guardian'I've never been this good' – revolutionary immune reset puts lupus in remission&nbsp;&nbsp;BBCGroundbreaking therapy could revolutionise treatment for lupus&nbsp;&nbsp;The IndependentFrom bedridden to skiing: Lupus patient's life transformed by cancer therapy in UK first&nbsp;&nbsp;upday NewsCAR T-cell therapy shows early promise in severe lupus | UCL News - UCL&nbsp;&nbsp;UCL | University Col",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYWhobGMtQWpQcl9ZNVVGOGhRRnNKd3h0T3RWcmFvNjZaMVVxbEhNRmE5SHU4MWxNdXM2akp1aXNFVHZidU9hTVROZXNZb0J0ZERmN3I2ODl4dUxfeGtnN3N4NFhnNVcwRkJjQmdDSEcwNm94a1N6TUVRWXpMUjdCYTk4eGVSRVdDang4bE5vRThxM1NTQUpFUkE4T2dYU0lqa3UtV09zSDFQTFRZU19KZzYzSHMzTk4tcDE2UWFRUExNMUJqS3U3VWd3?oc=5"
         }
       ]
     },
@@ -582,18 +666,6 @@
       ]
     },
     {
-      "id": "f161c6cbaa81",
-      "title": "Collagen vs Hyaluronic Acid: Which Is Best For Anti-Aging? - Vogue",
-      "published": "2026-06-11T20:59:11+00:00",
-      "summary": "Collagen vs Hyaluronic Acid: Which Is Best For Anti-Aging?&nbsp;&nbsp;VogueWhat Collagen Supplements Can Really Do for Your Skin and Joints&nbsp;&nbsp;Time MagazineWhich collagen will work best for you?&nbsp;&nbsp;Financial TimesThe biggest collagen study yet reveals what actually works&nbsp;&nbsp;ScienceDailyHealth Benefits of Collagen Supplementation&nbsp;&nbsp;Labroots",
-      "sources": [
-        {
-          "name": "Vogue",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14ejNwNGVMUGszS2hiTVBwaUpraWRzdkNCc0hUYlZZT0dva2VneW8xQ0NObjY2SXE1bzcyRDBra2s5Ym9EVDR0ejZZY0RJYlhFaTEyUEVtV1V4bU9tcmxrM3JyYmE2T0o0VHJpS0RR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2bcb3c66dcb7",
       "title": "Ancient squirrel poop from Arctic permafrost contains DNA from mammoths, bison, horses and big cats - Live Science",
       "published": "2026-06-11T20:40:57+00:00",
@@ -609,7 +681,7 @@
       "id": "351525de648f",
       "title": "Summer Challenge: Put Your Phone Away for Better Sleep - The New York Times",
       "published": "2026-06-11T20:36:25+00:00",
-      "summary": "Summer Challenge: Put Your Phone Away for Better Sleep&nbsp;&nbsp;The New York TimesDoomscrolling before bed? Oncologist shares how late-night screen use may ‘confuse’ your brain&nbsp;&nbsp;Hindustan TimesWhat Happens to Your Brain When You Get Too Much Late-Night Screen Time&nbsp;&nbsp;EatingWellBedtime smartphone use predicts overnight phone activity in teens, suggests study&nbsp;&nbsp;Medical DialoguesBedtime smartphone use triggers a ‘digital domino effect’ that disrupts teen sleep&nbsp;&nbs",
+      "summary": "Summer Challenge: Put Your Phone Away for Better Sleep&nbsp;&nbsp;The New York TimesDoomscrolling before bed? Oncologist shares how late-night screen use may ‘confuse’ your brain&nbsp;&nbsp;Hindustan TimesWhat Happens to Your Brain When You Get Too Much Late-Night Screen Time&nbsp;&nbsp;EatingWellBedtime smartphone use triggers a ‘digital domino effect’ that disrupts teen sleep&nbsp;&nbsp;Tech ExploristWhy scrolling on your phone before bed hurts your sleep more than you realize, according to ex",
       "sources": [
         {
           "name": "The New York Times",
@@ -633,7 +705,7 @@
       "id": "363f5583b904",
       "title": "CDC and Florida at odds over hantavirus cruise ship passenger’s quarantine - NBC News",
       "published": "2026-06-11T19:47:58+00:00",
-      "summary": "CDC and Florida at odds over hantavirus cruise ship passenger’s quarantine&nbsp;&nbsp;NBC NewsHantavirus update: 2 more cruise ship passengers leave National Quarantine Unit in Omaha&nbsp;&nbsp;WOWTHantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Public Health Dispute Between CDC, Florida&nbsp;&nbsp;TODAY.comDoctor quarantining at home after being monitored for hantavirus in Omaha&nbsp;&nbsp;KETVHantavirus Cruise Passenger Says She’s Being Held ‘Hostage’ In Nebraska Quarantine ",
+      "summary": "CDC and Florida at odds over hantavirus cruise ship passenger’s quarantine&nbsp;&nbsp;NBC NewsHantavirus update: 2 more cruise ship passengers leave National Quarantine Unit in Omaha&nbsp;&nbsp;WOWTHantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Public Health Dispute Between CDC, Florida&nbsp;&nbsp;TODAY.comHantavirus Cruise Passenger Says She’s Being Held ‘Hostage’ In Nebraska Quarantine (Latest Updates)&nbsp;&nbsp;ForbesDoctor quarantining at home after being monitored for h",
       "sources": [
         {
           "name": "NBC News",
@@ -693,7 +765,7 @@
       "id": "9de8fc06f37d",
       "title": "Teen Substance Use Driven by Sluggish Dopamine Systems - Neuroscience News",
       "published": "2026-06-11T19:04:40+00:00",
-      "summary": "Teen Substance Use Driven by Sluggish Dopamine Systems&nbsp;&nbsp;Neuroscience NewsDevelopmental variation in basal ganglia tissue iron, neurocognitive functioning, and impulsivity is associated with substance use trajectories in youth&nbsp;&nbsp;NatureHave A Risk-Taking Teen? This Brain Chemical Might Be Responsible, Researchers Say&nbsp;&nbsp;U.S. News & World ReportTeenage risk-taking linked to lower baseline dopamine levels&nbsp;&nbsp;News-MedicalBrain Iron, Impulsivity Link Youth Substance ",
+      "summary": "Teen Substance Use Driven by Sluggish Dopamine Systems&nbsp;&nbsp;Neuroscience NewsDevelopmental variation in basal ganglia tissue iron, neurocognitive functioning, and impulsivity is associated with substance use trajectories in youth&nbsp;&nbsp;NatureHave A Risk-Taking Teen? This Brain Chemical Might Be Responsible, Researchers Say&nbsp;&nbsp;U.S. News & World ReportLower Dopamine in Teen Brain Linked to Early Substance Use&nbsp;&nbsp;UPMCTeenage risk-taking linked to lower baseline dopamine l",
       "sources": [
         {
           "name": "Neuroscience News",
@@ -717,7 +789,7 @@
       "id": "635edac0db1a",
       "title": "Menopause hormone therapy: Demand rises but training gaps remain - 1News",
       "published": "2026-06-11T18:02:27+00:00",
-      "summary": "Menopause hormone therapy: Demand rises but training gaps remain&nbsp;&nbsp;1NewsBeyond Hot Flashes: What the FDA's Hormone Therapy Decision Means for Aging Skin&nbsp;&nbsp;MedscapeDemand for menopause hormone therapy is on the rise – but training gaps remain for doctors&nbsp;&nbsp;The ConversationThe Conversation Around Hormone Therapy for Women Is Changing. Here’s Why.&nbsp;&nbsp;AARPNew name reflects shift in how doctors approach menopause symptom management&nbsp;&nbsp;KJCT",
+      "summary": "Menopause hormone therapy: Demand rises but training gaps remain&nbsp;&nbsp;1NewsBeyond Hot Flashes: What the FDA's Hormone Therapy Decision Means for Aging Skin&nbsp;&nbsp;MedscapeThe Conversation Around Hormone Therapy for Women Is Changing. Here’s Why.&nbsp;&nbsp;AARPNew name reflects shift in how doctors approach menopause symptom management&nbsp;&nbsp;KJCT",
       "sources": [
         {
           "name": "1News",
@@ -789,7 +861,7 @@
       "id": "42944b7e416f",
       "title": "The midlife habits that could make or break your brain health long-term - The Washington Post",
       "published": "2026-06-11T16:00:00+00:00",
-      "summary": "The midlife habits that could make or break your brain health long-term&nbsp;&nbsp;The Washington PostThe Everyday Habits That Quietly Improve Cognitive Function&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness InformationI’m a neurosurgeon — 5 critical ways I keep my own brain healthy&nbsp;&nbsp;New York PostBrain feeling ‘rusty’ after 30? Neuroscientist shares 5 habits to stay sharp: ‘Meditation twice daily’&nbsp;&nbsp;Hindustan TimesStudy: It’s Never Too Late To Strengthen Cognit",
+      "summary": "The midlife habits that could make or break your brain health long-term&nbsp;&nbsp;The Washington PostThe Everyday Habits That Quietly Improve Cognitive Function&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness InformationBrain feeling ‘rusty’ after 30? Neuroscientist shares 5 habits to stay sharp: ‘Meditation twice daily’&nbsp;&nbsp;Hindustan TimesStudy: It’s Never Too Late To Strengthen Cognitive Capacity&nbsp;&nbsp;The University of Texas at DallasHealthy Families with Omni Famil",
       "sources": [
         {
           "name": "The Washington Post",
@@ -861,7 +933,7 @@
       "id": "86947bbd0a18",
       "title": "The first complex cells had genes from a complex mix of species - Ars Technica",
       "published": "2026-06-11T12:44:12+00:00",
-      "summary": "The first complex cells had genes from a complex mix of species&nbsp;&nbsp;Ars TechnicaGene ancestries reveal diverse microbial associations during eukaryogenesis&nbsp;&nbsp;NatureMicrobial alliances, not mitochondria alone, may have built first eukaryotic cells&nbsp;&nbsp;Phys.orgBSC: MareNostrum 5 Helps Uncover New Clues to the Origins of Complex Cells&nbsp;&nbsp;HPCwireOrigins of First Eukaryotes Linked to Contributions from Multiple Bacteria and Giant Viruses&nbsp;&nbsp;Genetic Engineering a",
+      "summary": "The first complex cells had genes from a complex mix of species&nbsp;&nbsp;Ars TechnicaGene ancestries reveal diverse microbial associations during eukaryogenesis&nbsp;&nbsp;NatureBSC: MareNostrum 5 Helps Uncover New Clues to the Origins of Complex Cells&nbsp;&nbsp;HPCwireMicrobial alliances, not mitochondria alone, may have built first eukaryotic cells&nbsp;&nbsp;Phys.orgOrigins of First Eukaryotes Linked to Contributions from Multiple Bacteria and Giant Viruses&nbsp;&nbsp;Genetic Engineering a",
       "sources": [
         {
           "name": "Ars Technica",
@@ -897,7 +969,7 @@
       "id": "09a4cfe7cb93",
       "title": "5 Daily Exercises That Restore Muscle Tone Faster Than Gym Workouts After 60 - Eat This Not That",
       "published": "2026-06-11T10:30:44+00:00",
-      "summary": "5 Daily Exercises That Restore Muscle Tone Faster Than Gym Workouts After 60&nbsp;&nbsp;Eat This Not ThatSarcopenia: The Silent Epidemic Surpassing Diabetes in Seniors&nbsp;&nbsp;streamlinefeed.co.ke",
+      "summary": "5 Daily Exercises That Restore Muscle Tone Faster Than Gym Workouts After 60&nbsp;&nbsp;Eat This Not ThatMuscle loss is more common than diabetes in old age. Here’s how to avoid it&nbsp;&nbsp;The AgeSarcopenia: The Silent Epidemic Surpassing Diabetes in Seniors&nbsp;&nbsp;streamlinefeed.co.ke",
       "sources": [
         {
           "name": "Eat This Not That",
@@ -914,30 +986,6 @@
         {
           "name": "IFLScience",
           "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNeGhWWmFxTWZpMm5XMTREUzdNZHpZYnp2empoUWRKUVh1a0xRR2dWNnFwS1BWenY0QU5nZENIcmdlSGVHME9wb0lNYVBFVWdQNTBQMEpqcW50Zy1yVXEwTExnZGFJYVVxeDVDcHo3TGtocjVnOWc2b2h1U0FfWmZrX0NqaURNQlQwNk9zVDh3aVRSQnZ6MUxQc2swc0RzbUlQUkt6cGtpQ3YzaFRCV3o0XzRjVDN3Z2p5MWdqVF9HTURBZnZFQ2dfcjhHNjlTcGRHYTBTT0ZQWGlaeU9pZktWQlM3NlByZHFrNUU5Z0Y0VVZySV9TVF9fcDI2TS1BTXB1LVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "23bd48209a53",
-      "title": "Damn the Risks, Pour Me Another Glass - by Mona Charen - The Bulwark",
-      "published": "2026-06-11T05:37:54+00:00",
-      "summary": "Damn the Risks, Pour Me Another Glass - by Mona Charen&nbsp;&nbsp;The BulwarkHealth Risks of Alcohol Accelerate After One Drink a Day, Study Finds&nbsp;&nbsp;The New York TimesNightly glass of wine may not be as harmless as many people think, study suggests&nbsp;&nbsp;Fox NewsWhat a study at odds with Trump officials’ health guidance found on alcohol limits&nbsp;&nbsp;The Washington PostCasual drinker? You still have a 1 in 25 risk of dying, study says&nbsp;&nbsp;USA Today",
-      "sources": [
-        {
-          "name": "The Bulwark",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMUQ5OGNXNmU1WHZpaGhqTmktaE5hVzcxSDFjRnpKQ2RPYTVScllLUGhGaXREZEtCRktSUXBEVEIyWUltMnFRd0R1R0k2NEMzMEREUDdmeXJGTFdVWlE3d2F4OXk5V1FDYzhjOXB2ZFAtMW1nZzEtQWxEUEVhcG1VS0Rtb0RrOWc5YzVvNlpKeXJHbm13V2FnaVB3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "700a7a4e7e2a",
-      "title": "Physicists Discover How Slime Mold 'Makes Decisions' Without a Brain - ScienceAlert",
-      "published": "2026-06-11T04:18:50+00:00",
-      "summary": "Physicists Discover How Slime Mold 'Makes Decisions' Without a Brain&nbsp;&nbsp;ScienceAlert",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTlQtVjJ1bVdmRkdsZXE3eU10anVKRlhkX2RBOG9mVnJ4WTJBejIzcnBUOEVaY1NaUmVNWWI4dFpfSHVMR2VPaWd2SU5BTTRqbmlmd09lOGpJSEt1a3Y2Yml4NE4wclh3UUZFWGV5ekJpNEdTVEhqT0dZTmhrWlU1T09QbWRNZjREc2VwVWJ2b1ZYZUtiVlhNVEM2UQ?oc=5"
         }
       ]
     },

@@ -1,9 +1,9 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-06-14T04:22:34.845687+00:00",
-  "total_fetched": 107,
-  "unique_count": 107,
-  "health_related_count": 65,
+  "fetched_at": "2026-06-14T09:39:33.869455+00:00",
+  "total_fetched": 112,
+  "unique_count": 112,
+  "health_related_count": 61,
   "news": [
     {
       "id": "2772af87f908",
@@ -21,7 +21,7 @@
       "id": "85913aa1c69b",
       "title": "Dogs and humans are more alike than we thought, study finds - Phys.org",
       "published": "2026-06-13T21:00:02+00:00",
-      "summary": "Dogs and humans are more alike than we thought, study finds&nbsp;&nbsp;Phys.orgDogs and humans are more alike than we thought&nbsp;&nbsp;futurity.orgCelebrating Dog 100 as Study on Canine Aging Continues to Break Ground&nbsp;&nbsp;NC State UniversityCould new anti-aging drugs extend your dog's life? Trials underway&nbsp;&nbsp;MSNSenior Dog With Dementia Makes a Valuable Contribution to Science of Aging&nbsp;&nbsp;Yahoo",
+      "summary": "Dogs and humans are more alike than we thought, study finds&nbsp;&nbsp;Phys.orgOne dog's impact on the science of aging&nbsp;&nbsp;YahooCelebrating Dog 100 as Study on Canine Aging Continues to Break Ground&nbsp;&nbsp;NC State UniversityCould new anti-aging drugs extend your dog's life? Trials underway&nbsp;&nbsp;The OklahomanSenior Dog With Dementia Makes a Valuable Contribution to Science of Aging&nbsp;&nbsp;AOL.com",
       "sources": [
         {
           "name": "Phys.org",
@@ -54,38 +54,50 @@
       ]
     },
     {
-      "id": "d89475d472b9",
-      "title": "Scientists Race to Test Treatments as Ebola Outbreak Widens - The New York Times",
-      "published": "2026-06-13T19:11:00+00:00",
-      "summary": "Scientists Race to Test Treatments as Ebola Outbreak Widens&nbsp;&nbsp;The New York TimesCEPI awards Public Health Vaccines US$1.9m to accelerate Bundibugyo ebolavirus vaccine&nbsp;&nbsp;CEPIOpinion | Vaccine research is essential to prevent Ebola’s spread&nbsp;&nbsp;The Boston GlobeSoligenix Applying for Vaccine Development Funding for Bundibugyo Ebola Vaccine&nbsp;&nbsp;PR NewswireIndia Steps Up Global Ebola Response With New Vaccine Candidate Amid Outbreak&nbsp;&nbsp;NDTV",
+      "id": "396ac69a5d02",
+      "title": "Vitamin C levels in blood plasma linked with brain connectivity and volume in older adults - Medical Xpress",
+      "published": "2026-06-13T18:00:01+00:00",
+      "summary": "Vitamin C levels in blood plasma linked with brain connectivity and volume in older adults&nbsp;&nbsp;Medical XpressStudy links low vitamin C levels in the blood plasma to reduced brain connectivity&nbsp;&nbsp;News-MedicalAging brain health: Vitamin C levels linked to gray matter volume&nbsp;&nbsp;Medical News TodayHigher Vitamin C Levels in Blood Linked to Healthier Aging Brains&nbsp;&nbsp;Inside Precision MedicineStudy finds vitamin C boosts brain health in older adults&nbsp;&nbsp;CBS 19 News",
       "sources": [
         {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRWtJdE8yeHd2dlpDLWF4SEc0VVVRVUhYYnY0bmlSSHdnbGw1S285UkdvNnVoWU1KM2JZclpteEI0dk5zdVpYTVYtSG14elNaMWJXcE42cC1NV2VlZTEzOEdVdlVVZk15MENIT2xmUF9RMWlubjBla2YxRDZzb3IzbUdXazZiQQ?oc=5"
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ0J5eUY5cm56Z3ZJOU9KTXMtMEsyTTBKN3NNdi1kWXpYRDdERjBwTElPdXpoUkZIaktvbHJKOVhoUWtpdzJRYVpHWTd4RTNmc2tqZklOTWNLd0FYLTFrU2lVWDk2SUZGU2xSQUVxS1VKSUItLUx4M1htcVM5bUthVWhfSQ?oc=5"
         }
       ]
     },
     {
-      "id": "4742a24a4c24",
-      "title": "Specialists Are Practically Begging People To Eat These 3 Foods That Actually Lower Dementia Risk - BuzzFeed",
-      "published": "2026-06-13T17:31:01+00:00",
-      "summary": "Specialists Are Practically Begging People To Eat These 3 Foods That Actually Lower Dementia Risk&nbsp;&nbsp;BuzzFeedThe 6 Best Foods for Brain Health&nbsp;&nbsp;Time MagazineFuel your mind: Why the MIND diet may be the perfect choice for National Fruit and Vegetable Month&nbsp;&nbsp;Nevada AppealDietary Approaches to Support Brain Health in Aging webinar set for June 25&nbsp;&nbsp;AgriLife TodayThese 7 plant-based foods may lower risk for Alzheimer's, new study shows&nbsp;&nbsp;MSN",
+      "id": "6831c5cb38b6",
+      "title": "The fight over America's vaccine future - Axios",
+      "published": "2026-06-13T17:45:21+00:00",
+      "summary": "The fight over America's vaccine future&nbsp;&nbsp;AxiosNew Federal Vaccine Recommendations Introduce Ambiguity and Could Lead to Coverage Headaches&nbsp;&nbsp;Georgetown UniversityThe Chaos of US Vaccine Policy: Helping Journalists Manage Confusion&nbsp;&nbsp;National Press FoundationThe State of US Vaccine Policy — Jun 11, 2026&nbsp;&nbsp;CIDRAP",
       "sources": [
         {
-          "name": "BuzzFeed",
+          "name": "Axios",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lMHNwWmlnUXpNWlFLNE1SNzBsSTBBdWcxbnFDTm9VVlJmTngyRkI3M0tSRmZOZGdqSFQ3WlZYWkZEdFNUVzVORHhWdzlMaVNKd3ZCZlo5cTBtUnRXc3RGYjNzVXRXUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f09c7a3b1da7",
+      "title": "Specialists Are Practically Begging People To Eat These 3 Foods That Actually Lower Dementia Risk - buzzfeed.com",
+      "published": "2026-06-13T17:31:01+00:00",
+      "summary": "Specialists Are Practically Begging People To Eat These 3 Foods That Actually Lower Dementia Risk&nbsp;&nbsp;buzzfeed.comThe 6 Best Foods for Brain Health&nbsp;&nbsp;Time MagazineDementia risk could be slashed by 30% by doing one thing when cooking&nbsp;&nbsp;MSNFuel your mind: Why the MIND diet may be the perfect choice for National Fruit and Vegetable Month&nbsp;&nbsp;Nevada AppealDietary Approaches to Support Brain Health in Aging webinar set for June 25&nbsp;&nbsp;AgriLife Today",
+      "sources": [
+        {
+          "name": "buzzfeed.com",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vaC1zREUwRWtwUFFsdzZjNHl0TV9jN3lGNEhLb09zUmlXeEFydG5jVTVCcGNZYmdmWVU3YUlTSERnS3RqanVDaXJDUjRQNWFGLUtscFJ0bERPNjF6LVdYT1hGZGlrTGpWUDhsSUoxY3lpN2RpUUdaZ0MxRF9TQQ?oc=5"
         }
       ]
     },
     {
-      "id": "998eade00b4c",
-      "title": "Deadly dog virus is spreading across Arizona. Veterinarians say it's preventable. - Yahoo",
-      "published": "2026-06-13T17:20:59+00:00",
-      "summary": "Deadly dog virus is spreading across Arizona. Veterinarians say it's preventable.&nbsp;&nbsp;Yahoo",
+      "id": "40b5e79ee660",
+      "title": "Afternoon Habits That Can Quietly Work Against Heart Health - EatingWell",
+      "published": "2026-06-13T17:00:00+00:00",
+      "summary": "Afternoon Habits That Can Quietly Work Against Heart Health&nbsp;&nbsp;EatingWell",
       "sources": [
         {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWlVsYW5zZ0NZWnZhUG84NnNtT3FkajlWS19JTE1mTDA5eWpKS1ZpN3dIMDN4NVFSMG9zUlFmdndsWE9RbUxnZmJ6UUdteWJPSEJXcnRWM2xGVjhGcE8zcmFBZVc5QWVTWWFtQlpDV19PcDJESEptN1pKclQ4ZGxQVl9aanpIYkMwd0RNdFBZY2JkUW8?oc=5"
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2b3pkREJwMkdIUjFPNjBvOHVPaDAzQ0hkT1VUazBFSHlWUjZPRHBzY1ZNYjlJcVl4NzcxVUEyeXVQdS1jNWd1Y0x3N25oOUNRZ3BiM1NPcE9nbnFhYjlzMnVrU20waUh3UXRHV2lzd05UVTNpOHQ1eEFvVHBZUQ?oc=5"
         }
       ]
     },
@@ -93,7 +105,7 @@
       "id": "a4e82144fbe4",
       "title": "Sugar-free, low-fat diet tied to insulin resistance in mouse study - Medical News Today",
       "published": "2026-06-13T15:53:29+00:00",
-      "summary": "Sugar-free, low-fat diet tied to insulin resistance in mouse study&nbsp;&nbsp;Medical News TodaySee more headlines & perspectives on Google News",
+      "summary": "Sugar-free, low-fat diet tied to insulin resistance in mouse study&nbsp;&nbsp;Medical News TodayGood news for sweet tooths: Going sugar-free can mess with your gut and metabolism: study&nbsp;&nbsp;New York PostScientists found a surprising problem with sugar-free diets&nbsp;&nbsp;ScienceDailyCould cutting out sugar backfire? ENDO 2026 data links sucrose-free diet to gut inflammation&nbsp;&nbsp;MDLinxSugar-Free Diets May Disrupt Gut Microbiome | Newswise&nbsp;&nbsp;Newswise",
       "sources": [
         {
           "name": "Medical News Today",
@@ -117,11 +129,23 @@
       "id": "363b173f2def",
       "title": "Ozempic Users Are Skimping Out on Exercise, Study Finds - Gizmodo",
       "published": "2026-06-13T14:30:05+00:00",
-      "summary": "Ozempic Users Are Skimping Out on Exercise, Study Finds&nbsp;&nbsp;GizmodoOzempic, Wegovy: Why People Using GLP-1s Are Less Likely to Exercise&nbsp;&nbsp;HealthlineThe 20-minute Ozempic workout — the 5 crucial strength exercises&nbsp;&nbsp;The TimesGLP-1 Weight Loss Can Mean Muscle Loss — Why Strength Training Matters More Than Ever&nbsp;&nbsp;Yahoo CreatorsGLP-1 Therapies Silence Spontaneous Physical Activity&nbsp;&nbsp;Neuroscience News",
+      "summary": "Ozempic Users Are Skimping Out on Exercise, Study Finds&nbsp;&nbsp;GizmodoOzempic, Wegovy: Why People Using GLP-1s Are Less Likely to Exercise&nbsp;&nbsp;HealthlineThe 20-minute Ozempic workout — the 5 crucial strength exercises&nbsp;&nbsp;The TimesPeople taking GLP-1 weight loss drugs like Ozempic started moving less&nbsp;&nbsp;ScienceDailyGLP-1 Therapies Silence Spontaneous Physical Activity&nbsp;&nbsp;Neuroscience News",
       "sources": [
         {
           "name": "Gizmodo",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY3VnT1VWRWtEeFk2bGpwV3M2RGxNUlRBTWlKbzlLLVB3NUhMbEpLbnp4Vk9YN1UteXVZYjUwS1pJSFZWQWdLdWN3RVpVMXhxSUdzcVNPUDFhVHhkYUU2WXpMZFN4alhRc3VkUGhLUGpZeHRpc1VFcEFtN0g2OWRlUThEYVE2cVNyeDNwb3VB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e1ff5e7f7c45",
+      "title": "Millions Take This Joint Supplement but Scientists Found a Concerning Alzheimer’s Link - SciTechDaily",
+      "published": "2026-06-13T14:21:38+00:00",
+      "summary": "Millions Take This Joint Supplement but Scientists Found a Concerning Alzheimer’s Link&nbsp;&nbsp;SciTechDailyPopular joint pain supplement might increase Alzheimer's risk, study says&nbsp;&nbsp;Medical XpressHyperglycosylation is a metabolic driver of Alzheimer’s disease&nbsp;&nbsp;NaturePopular joint supplement glucosamine linked to faster Alzheimer’s progression&nbsp;&nbsp;ScienceDailyStudy links joint pain supplement to accelerating dementia&nbsp;&nbsp;UF Health",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcjR2bUVIcVQ1OWdTdzNQXzZvZTJjLTd6Z3RNZkdLT0x0TEpTUW5zdGM1NmlIYmpmTlJFWE12OGYzd0gxQ1VVVDNna1Z6R3BDYWlrMXljMDVEQ3NNUUZudFo3b3JZTUw5VWZjWmY4elRFTTZSd1JkLW9Ld3BHSHV0cWY0OE0zejZuLTYxcXJSWlI0Sm96Y0dsTWJoY3NTclNhNk5YMEZpX25nUXk2YUJVOQ?oc=5"
         }
       ]
     },
@@ -162,6 +186,18 @@
       ]
     },
     {
+      "id": "6c24d94db19c",
+      "title": "Divorcees and widowed share concerning mental health trait, researchers find - Yahoo",
+      "published": "2026-06-13T13:00:56+00:00",
+      "summary": "Divorcees and widowed share concerning mental health trait, researchers find&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNUlkQmlwaTh6ZXFaeWlON2YzazdtVnJRTGV5MzFfeWFZWk5aYlFZanAya2JsUEU1aW5OcUFwRlo1NllwdTdVYkphRW1DQjNyU2NZaHpOUHRCN1F4RTBFWmZnekxPakM5NEgyamFUMkNJNm5IaVd2RElKMjIzR0x6XzBNUUJYRmljMW56dmRTanJ5ellodGxhNDVLaEpEbHFU?oc=5"
+        }
+      ]
+    },
+    {
       "id": "139034efd660",
       "title": "It’s not Ebola you need to be worried about with the World Cup. These are the real health risks. - NJ.com",
       "published": "2026-06-13T13:00:00+00:00",
@@ -174,10 +210,22 @@
       ]
     },
     {
+      "id": "d6b2b9805cff",
+      "title": "The #1 Nutrient Men over 40 Should Pay More Attention to, According to Dietitians - EatingWell",
+      "published": "2026-06-13T12:30:00+00:00",
+      "summary": "The #1 Nutrient Men over 40 Should Pay More Attention to, According to Dietitians&nbsp;&nbsp;EatingWellThe nutrients men over 50 are most likely to be lacking – and the best ways to get them&nbsp;&nbsp;mensfitness.co.ukMen’s Health: Why fatigue, brain fog and low motivation aren’t always “just getting older”&nbsp;&nbsp;Cross Timbers Gazette",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kUUQta2J4TmtYM0hwTlpRZ2l5bDBSU2FTcFBCczZxTUgzc21DTWMwZHJLOHltVUNLNXFSem1qVU5kMVZjTThhTW42LVEwZVluMl9jYnhLZ05weURSTkFVOVFneUs1T2N6bnlEVHFza1lOUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4349c5142e69",
       "title": "Doctors Inject Human Subjects With First Vaccine Designed by AI - Futurism",
       "published": "2026-06-13T12:15:00+00:00",
-      "summary": "Doctors Inject Human Subjects With First Vaccine Designed by AI&nbsp;&nbsp;FuturismNew ‘universal vaccine’ technology could protect us from future virus outbreaks&nbsp;&nbsp;University of CambridgeAI-designed 'universal vaccine' passes first human clinical trial, could prevent future pandemics&nbsp;&nbsp;Fox NewsWorld's first AI-designed vaccine developed by UK scientists enters human trials&nbsp;&nbsp;The Times of IndiaAI Vaccine Clears Human Trials, Handing Pharma a New Playbook&nbsp;&nbsp;PYM",
+      "summary": "Doctors Inject Human Subjects With First Vaccine Designed by AI&nbsp;&nbsp;FuturismNew ‘universal vaccine’ technology could protect us from future virus outbreaks&nbsp;&nbsp;University of CambridgeAI-designed 'universal vaccine' passes first human clinical trial, could prevent future pandemics&nbsp;&nbsp;Fox News'World-first' vaccine designed by artificial intelligence&nbsp;&nbsp;BBCEditorial: Skepticism—and success—matters on AI and vaccines&nbsp;&nbsp;C&amp;EN",
       "sources": [
         {
           "name": "Futurism",
@@ -249,7 +297,7 @@
       "id": "9f7f3d5be885",
       "title": "How Japanese scientists sent a real-life Transformer to the moon - Space",
       "published": "2026-06-13T10:00:00+00:00",
-      "summary": "How Japanese scientists sent a real-life Transformer to the moon&nbsp;&nbsp;SpaceSaturday Citations: JAXA collaboration with toy company TOMY; a new brain-computer interface; IBD solved&nbsp;&nbsp;Phys.orgMeet LEV-2, a baseball-sized and absurdly cute moon robot&nbsp;&nbsp;Scientific AmericanTwo Years Later, We’re Finally Learning How a Transformers-Inspired Rover Fared on the Moon&nbsp;&nbsp;GizmodoAdorable, ball-shaped robot 'crawled' across the moon during Japan's historic first lunar landing",
+      "summary": "How Japanese scientists sent a real-life Transformer to the moon&nbsp;&nbsp;SpaceSaturday Citations: JAXA collaboration with toy company TOMY; a new brain-computer interface; IBD solved&nbsp;&nbsp;Phys.orgMeet LEV-2, a baseball-sized and absurdly cute moon robot&nbsp;&nbsp;Scientific AmericanAdorable, ball-shaped robot 'crawled' across the moon during Japan's historic first lunar landing&nbsp;&nbsp;Live ScienceTiny ‘crawling’ robot solves Japan’s moon lander mystery&nbsp;&nbsp;The Indian Express",
       "sources": [
         {
           "name": "Space",
@@ -270,22 +318,10 @@
       ]
     },
     {
-      "id": "7101d09c0e57",
-      "title": "RFK Jr can be a crank, but he’s not wrong about Lyme disease - The Telegraph",
-      "published": "2026-06-13T07:00:00+00:00",
-      "summary": "RFK Jr can be a crank, but he’s not wrong about Lyme disease&nbsp;&nbsp;The TelegraphIs it safe for Americans to go into the woods today? | On Point with Meghna Chakrabarti&nbsp;&nbsp;WBURRich DiPentima: RFK, Jr., Off Base On Lyme Disease&nbsp;&nbsp;The Conway Daily Sun",
-      "sources": [
-        {
-          "name": "The Telegraph",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaldQYnJ5MDd0eDJiYUNRWk1jLURfV0VwUjNJb2pJakVkTDdYdURYNWgyRmtScnVKUFRORjVoRFJHR3hSVWZGNjUzTGE4UjYwVGU5TlhkQXZqTmFFY0Fkd2RmN2Qwa3dXZDJ0MGgzWmY4eUpBUnJwRXdDWVVFMU1TM2F6cmxBMkptMW1qRGZOWHVaeV9YTmNpNEtjYVpTUkRXX3RYR3B3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "489f4e92ca81",
       "title": "Five myths about prostate cancer, according to an oncologist - The Telegraph",
       "published": "2026-06-13T07:00:00+00:00",
-      "summary": "Five myths about prostate cancer, according to an oncologist&nbsp;&nbsp;The TelegraphJune is National Men's Health Month: Advancing prostate cancer treatment while preserving quality of life&nbsp;&nbsp;MyNorthwest.comWhat to know about prostate cancer&nbsp;&nbsp;inlander.comThe prostate cancer warning sign men are missing in the night, according to a urologist&nbsp;&nbsp;GB NewsLIVE CHAT With Doctors: Your Most-Asked Prostate Cancer Questions Answered&nbsp;&nbsp;Times Now",
+      "summary": "Five myths about prostate cancer, according to an oncologist&nbsp;&nbsp;The TelegraphEndocrinologist advises men to take PSA tests for early prostate cancer detection&nbsp;&nbsp;TheCable LifestyleLIVE CHAT With Doctors: Your Most-Asked Prostate Cancer Questions Answered&nbsp;&nbsp;Times NowNHS chiefs issue warning over four symptoms men should never ignore&nbsp;&nbsp;Manchester Evening NewsThe prostate cancer warning sign men are missing in the night, according to a urologist&nbsp;&nbsp;GB News",
       "sources": [
         {
           "name": "The Telegraph",
@@ -297,7 +333,7 @@
       "id": "08f6ad4451a9",
       "title": "How AI is reshaping stem cell therapy through cellular intelligence - The Jerusalem Post",
       "published": "2026-06-13T06:45:40+00:00",
-      "summary": "How AI is reshaping stem cell therapy through cellular intelligence&nbsp;&nbsp;The Jerusalem Post",
+      "summary": "How AI is reshaping stem cell therapy through cellular intelligence&nbsp;&nbsp;The Jerusalem PostHow much of a reality is AI-enabled biology?&nbsp;&nbsp;felixonline.co.uk",
       "sources": [
         {
           "name": "The Jerusalem Post",
@@ -318,14 +354,14 @@
       ]
     },
     {
-      "id": "ded879803c39",
-      "title": "Why Ebola came back — and a warning for the next pandemic - Financial Times",
-      "published": "2026-06-13T04:00:22+00:00",
-      "summary": "Why Ebola came back — and a warning for the next pandemic&nbsp;&nbsp;Financial TimesTighter controls introduced at Gannavaram Airport for international arrivals&nbsp;&nbsp;russpain.comEbola Virus Alert: Andhra Pradesh Intensifies Screening Measures&nbsp;&nbsp;NDTVEbola Scare in India: Three African Nationals Quarantined for 21 Days in Chhattisgarh’s Durg&nbsp;&nbsp;Times Now50 years of Ebola virus: Why, despite 'zero cases', low risk, 'take no chances' is India’s strategy&nbsp;&nbsp;The Federal",
+      "id": "2469675a3df0",
+      "title": "Trees may store less planet-heating carbon than hoped, study suggests - The Guardian",
+      "published": "2026-06-13T04:00:00+00:00",
+      "summary": "Trees may store less planet-heating carbon than hoped, study suggests&nbsp;&nbsp;The GuardianTrees may store less carbon than expected in the future&nbsp;&nbsp;Phys.orgIsraeli scientist: Climate predictions may misjudge forest carbon absorption&nbsp;&nbsp;JNS.orgPlants are absorbing more carbon, but not for the reason scientists expected&nbsp;&nbsp;Earth.comNew Research Indicates That in the Future, Trees May Store Less Carbon Than Expected&nbsp;&nbsp;Columbia University",
       "sources": [
         {
-          "name": "Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbGg1X3N4VHItTGJfS3FKSC1WQ2hPUUwyN2ZKTFZUSERiYnFqRmgzamRHR3poOXMxMEJ6NnNLbWJTX1pCeEczdTJRMmo1Z1JSVlBtd1RNVVN5c1ROeXRzWnkzRzh4dGhyZFIxLVNnV1lDaFRLaURyNHE5bWlSbVpGRnh6OUg?oc=5"
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY0RQc2R3QkVyT0wxeElHS3NiSmdTMXUwRlBBZmpCMlFtV0tsemRVT3pMNVVZbzlPaHVtaFU1dTZ0VGt5UGhDY3l2QVJqbnFScTI2QTFGRnFHa2xhSmVXQmJRVGhLbEdIQ0R1TUY4Rk1naW1xd1QzZ1lweW0wMVRWMGxMMFgxNFRwTFVZUUtTOTVZNWQ5bWt2RURR?oc=5"
         }
       ]
     },
@@ -338,18 +374,6 @@
         {
           "name": "Nature",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DaUQ5WmQ5V0g2dWxsdFdhaVVRVDh4aTJhamhSUGx0VndCTGFIa3h6RzBUTjN5d01HUXZGWHBKcURNWnFsUFM1U1EyNUhBUm02UE1xaW5IR0lxYm4yellz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "507157a2bb49",
-      "title": "A Supplement For Joint Pain Could Accelerate Alzheimer's Memory Loss - ScienceAlert",
-      "published": "2026-06-13T01:03:19+00:00",
-      "summary": "A Supplement For Joint Pain Could Accelerate Alzheimer's Memory Loss&nbsp;&nbsp;ScienceAlertPopular joint pain supplement might increase Alzheimer's risk, study says&nbsp;&nbsp;Medical XpressHyperglycosylation is a metabolic driver of Alzheimer’s disease&nbsp;&nbsp;NaturePopular joint supplement glucosamine linked to faster Alzheimer’s progression&nbsp;&nbsp;ScienceDailyStudy links joint pain supplement to accelerating dementia&nbsp;&nbsp;UF Health",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWDNHMVdvbnVMS01WVEZjdFotNmVKZENEYk5RaUhXRmVGUzVPY3g3Q3hQX0VQWE4wQWN4aE9TTnJFUzhOY2Y2S2F5aHRtUWJrS3Y5YUpBREtoeHh4a3IxcTBKdnpkWU9WZlkwaUVqUEtVU0FyWVVNdHZsNjJ0dTF6RU4ybTdRNTRkVV93d0JjNXNIZXRub2NHa25TMEk?oc=5"
         }
       ]
     },
@@ -393,7 +417,7 @@
       "id": "efddd1997e0f",
       "title": "Blood test can find thousands of genetic conditions in pregnancy, say scientists - The Guardian",
       "published": "2026-06-12T22:00:00+00:00",
-      "summary": "Blood test can find thousands of genetic conditions in pregnancy, say scientists&nbsp;&nbsp;The GuardianNoninvasive sequencing expands prenatal genetic screening capabilities&nbsp;&nbsp;News-MedicalMaternal Blood Test Allows Comprehensive Genetic Fetal Screening&nbsp;&nbsp;Inside Precision MedicineBreakthrough Non-Invasive Prenatal Test Matches Invasive Methods in&nbsp;&nbsp;Bioengineer.org",
+      "summary": "Blood test can find thousands of genetic conditions in pregnancy, say scientists&nbsp;&nbsp;The GuardianNoninvasive sequencing expands prenatal genetic screening capabilities&nbsp;&nbsp;News-MedicalMaternal Blood Test Allows Comprehensive Genetic Fetal Screening&nbsp;&nbsp;Inside Precision Medicine",
       "sources": [
         {
           "name": "The Guardian",
@@ -405,7 +429,7 @@
       "id": "d26818fdd800",
       "title": "Why tiny amounts of vitamin B12 matter more as we age - Medical Xpress",
       "published": "2026-06-12T20:40:03+00:00",
-      "summary": "Why tiny amounts of vitamin B12 matter more as we age&nbsp;&nbsp;Medical Xpress",
+      "summary": "Why tiny amounts of vitamin B12 matter more as we age&nbsp;&nbsp;Medical XpressSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "Medical Xpress",
@@ -450,22 +474,10 @@
       ]
     },
     {
-      "id": "fd6dc4fd8efe",
-      "title": "Californian Dies from Rare Disease After 'Trapping, Feeding and Breeding Wild Rats' in an RV - AOL.com",
-      "published": "2026-06-12T18:56:13+00:00",
-      "summary": "Californian Dies from Rare Disease After 'Trapping, Feeding and Breeding Wild Rats' in an RV&nbsp;&nbsp;AOL.comLeptospirosis claims one life in Berkeley, months after initial outbreak&nbsp;&nbsp;KTVUPerson living with nearly 200 rats dies of rare disease, Berkeley officials say&nbsp;&nbsp;SFGATEMan with leptospirosis died after breeding rats in RV, city says&nbsp;&nbsp;The Berkeley ScannerBerkeley health officials say 1 dead, 1 hospitalized after contracting leptospirosis from rats&nbsp;&nbsp;CB",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS3hvazRMY3hmcko5RWRUUXdVRWlEWHoxUnNrWmdCVnRUeUJabjhLdU01ZHZiZEJMNm0wN1lnOGt4d2REMnZHdU5GTzRNLU5DMExzUURyamlDdDZ1b3VFWFhScHJpWFVDZ19ScTdQSDVOUTJlWk15OFBNemR4QjRoZXliQzJsWk1ZeGc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c1cc48b9b4af",
       "title": "Fourth Person Infected by Emerging Tick-Bourne Disease - Yahoo",
       "published": "2026-06-12T18:56:09+00:00",
-      "summary": "Fourth Person Infected by Emerging Tick-Bourne Disease&nbsp;&nbsp;YahooExtremely rare tick-borne disease infects person in NorCal&nbsp;&nbsp;SFGATEExtremely Rare Tick-Borne Illness Infects Person in California&nbsp;&nbsp;People.comLittle-known spotted fever pathogen detected in California ticks&nbsp;&nbsp;LymeDisease.orgUltra Rare Tick-Borne Disease Found in California&nbsp;&nbsp;Newser",
+      "summary": "Fourth Person Infected by Emerging Tick-Bourne Disease&nbsp;&nbsp;YahooSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "Yahoo",
@@ -474,10 +486,22 @@
       ]
     },
     {
+      "id": "bcd86e3d84a5",
+      "title": "Californian Dies from Rare Disease After 'Trapping, Feeding and Breeding Wild Rats' in an RV - Yahoo",
+      "published": "2026-06-12T18:32:48+00:00",
+      "summary": "Californian Dies from Rare Disease After 'Trapping, Feeding and Breeding Wild Rats' in an RV&nbsp;&nbsp;YahooLeptospirosis claims one life in Berkeley, months after initial outbreak&nbsp;&nbsp;KTVUPerson living with nearly 200 rats dies of rare disease, Berkeley officials say&nbsp;&nbsp;SFGATELeptospirosis death in Berkeley: Residents were breeding rats, health officials say&nbsp;&nbsp;BerkeleysideMan with leptospirosis died after breeding rats in RV, city says&nbsp;&nbsp;The Berkeley Scanner",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcEJaUmlodDc2dWtGa0UwU01SZzVCSGdQenFsVzlJdHVUcTh1akh1LThCMS1RVXZLX2dEaUNWX3RQTGREajBCcVFORkN5NlFWSHVtSllFR05uQTYzdlI5blctMF9zUWt0NTdidG13QnBmQ2RBYmZLSVptS2oxeS1UNlR3aVpMSHhxUFFDREpDbTFTcXdKUXJxVlMtTjJiaVhkR0U0NU52MnU3WW1admowTWJVRktraldzOEs1U1huYTV4LWVIQlh6cDBUTDFhYlcydFVTRWFCeWNoV28?oc=5"
+        }
+      ]
+    },
+    {
       "id": "54b8450ae41e",
       "title": "Extraordinary Fossils Solve a 500-Million-Year Evolution Mystery - ScienceAlert",
       "published": "2026-06-12T18:04:42+00:00",
-      "summary": "Extraordinary Fossils Solve a 500-Million-Year Evolution Mystery&nbsp;&nbsp;ScienceAlertChinese researchers confirm Early Cambrian origin of bryozoans&nbsp;&nbsp;news.cgtn.comTiny fossils solve a decades-old mystery about early animal life&nbsp;&nbsp;Earth.comNew fossils confirm Early Cambrian origin of bryozoans&nbsp;&nbsp;bastillepost.comA long-standing puzzle regarding early animal existence is resolved by tiny fossils.&nbsp;&nbsp;vocal.media",
+      "summary": "Extraordinary Fossils Solve a 500-Million-Year Evolution Mystery&nbsp;&nbsp;ScienceAlertChinese researchers confirm Early Cambrian origin of bryozoans&nbsp;&nbsp;news.cgtn.comTiny fossils solve a decades-old mystery about early animal life&nbsp;&nbsp;Earth.comNew fossils confirm Early Cambrian origin of bryozoans&nbsp;&nbsp;巴士的報",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -501,7 +525,7 @@
       "id": "794376393375",
       "title": "Bay Area still battling 'extremely contagious' norovirus - SFGATE",
       "published": "2026-06-12T17:07:32+00:00",
-      "summary": "Bay Area still battling 'extremely contagious' norovirus&nbsp;&nbsp;SFGATEWhat to know about the ‘vomit bug’ that could ruin your summer vacation&nbsp;&nbsp;NJ.comA Very Contagious Virus Is on the Rise, but Doctors Say Doing This One Simple Thing Will Keep You Safe&nbsp;&nbsp;Women's HealthDATA DIFFERENCES: Wastewater scan says viruses on the rise; Hamilton Co Health Dept. disagrees&nbsp;&nbsp;Local 3 NewsThe Children's Museum of Green Bay's summer programs begin&nbsp;&nbsp;AOL.com",
+      "summary": "Bay Area still battling 'extremely contagious' norovirus&nbsp;&nbsp;SFGATEA Very Contagious Virus Is on the Rise, but Doctors Say Doing This One Simple Thing Will Keep You Safe&nbsp;&nbsp;Women's HealthWhat to know about the ‘vomit bug’ that could ruin your summer vacation&nbsp;&nbsp;NJ.comMead Johnson modernization project advances in Zeeland&nbsp;&nbsp;AOL.comDATA DIFFERENCES: Wastewater scan says viruses on the rise; Hamilton Co Health Dept. disagrees&nbsp;&nbsp;Local 3 News",
       "sources": [
         {
           "name": "SFGATE",
@@ -513,23 +537,11 @@
       "id": "bdfcd3c012a2",
       "title": "Treating pancreatic tumours may have revealed cancer’s master switch - The Economist",
       "published": "2026-06-12T16:43:29+00:00",
-      "summary": "Treating pancreatic tumours may have revealed cancer’s master switch&nbsp;&nbsp;The EconomistGeorgia hospitals test ‘game-changer’ pancreatic cancer drugs&nbsp;&nbsp;Atlanta Journal-ConstitutionBreakthrough pancreatic cancer drug nearly doubles survival in trial&nbsp;&nbsp;USA TodayDaraxonrasib’s Phase 3 Pancreatic Cancer Survival Data Might Change The Case For Investing In RVMD&nbsp;&nbsp;Yahoo FinanceWhat you should know about the newest treatment for pancreatic cancer&nbsp;&nbsp;WTNH.com",
+      "summary": "Treating pancreatic tumours may have revealed cancer’s master switch&nbsp;&nbsp;The EconomistGeorgia hospitals test ‘game-changer’ pancreatic cancer drugs&nbsp;&nbsp;AJC.comBreakthrough pancreatic cancer drug nearly doubles survival in trial&nbsp;&nbsp;USA TodayDaraxonrasib’s Phase 3 Pancreatic Cancer Survival Data Might Change The Case For Investing In RVMD&nbsp;&nbsp;Yahoo FinanceWhat you should know about the newest treatment for pancreatic cancer&nbsp;&nbsp;WTNH.com",
       "sources": [
         {
           "name": "The Economist",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQnVqMHB2aVdBeVRrd3d1UXQ4V285VTJ1MVFvZWh5M1o0UTJ1MThkd3I3cVdIVm4xUjZrTGFaZnA0ZjVIZXJlS09ROG5CWGlwYTFlaXI2N0FJLUhzWnloUVZLd1RlMEZZWHRZZUZHZ2puN0wwV1NUYXBUUy1BdGpIU3k5UkpEaWlIOWV6cVEzSUczS3J1UGtMU3h4dGZSdzh3OHFSWVlhT25GU2tpRkl3RFBMamZjUDhYUjJQNVU4OVV1ZUg0aEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "22de6cbd5076",
-      "title": "A new test claims to tell how well you’re ageing – and even when you’ll die. But I’d rather not know | Helen Pilcher - The Guardian",
-      "published": "2026-06-12T16:31:00+00:00",
-      "summary": "A new test claims to tell how well you’re ageing – and even when you’ll die. But I’d rather not know | Helen Pilcher&nbsp;&nbsp;The GuardianWhy Do Telomeres Shorten When a Cell Divides, and How Does It Affect Human Aging?&nbsp;&nbsp;CU Anschutz newsroom[Science Through the Cover] Harvard Medical School team builds RNA ‘transcriptome clock’ to predict human aging and lifespan&nbsp;&nbsp;동아사이언스A New Biological Clock Could Predict When You'll Probably Die&nbsp;&nbsp;ScienceAlertThe Mortality Algori",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQkNLRUw5ZEdlNUh4OEpvd3Rfem5OVG5HbGZRRmNia3hzU3NhWU1yMUg2Yzl5WHFjTlI1Z3RVX2pXWTRpMU1xR3g5Y0tHQmlaa1FsSFY1YVc0TEVmZWE2cDJXS0lIQ3hEVjJYSlFmT2p4bHlEVUdEZGNFdVlfT3Iyak1RZ19UaVd0ZGwyX1hheEc2SUJPT3R0RHd4blVWdDNvdVFkZW8xUEF1dHo4ZmxlcTRINTY?oc=5"
         }
       ]
     },
@@ -549,11 +561,23 @@
       "id": "aee1829ea5b5",
       "title": "Doctor shares 5 daily habits that can lower elevated liver enzymes and protect from fatty liver disease | Health - Hindustan Times",
       "published": "2026-06-12T15:45:40+00:00",
-      "summary": "Doctor shares 5 daily habits that can lower elevated liver enzymes and protect from fatty liver disease | Health&nbsp;&nbsp;Hindustan TimesFatty Liver cases are rising: Can weight loss, healthy eating, and simple lifestyle changes reverse the damage?&nbsp;&nbsp;The Times of IndiaHalf of young Indians may have fatty liver, reveals liver donor study by top surgeon&nbsp;&nbsp;The Indian ExpressZydus marks Global Fatty Liver Day with the launch of new campaign – ‘Liver Ki Suno’&nbsp;&nbsp;expresshea",
+      "summary": "Doctor shares 5 daily habits that can lower elevated liver enzymes and protect from fatty liver disease | Health&nbsp;&nbsp;Hindustan TimesFatty liver: How to protect your body's biochemical powerhouse&nbsp;&nbsp;The Economic TimesZydus marks Global Fatty Liver Day with the launch of new campaign – ‘Liver Ki Suno’&nbsp;&nbsp;expresshealthcare.inToday’s Global Fatty Liver Day events aim to boost awareness of SLD&nbsp;&nbsp;Liver Disease News\"Untreated Fatty Liver Can Lead to Liver Cancer; Normal ",
       "sources": [
         {
           "name": "Hindustan Times",
           "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSHFkT1ZrSFFoZFk2ZEpmdk5hVllySFc3VThZTk4yQTRjZUJsNkNzRmNKeG9ZVC1oczBxSmNaMEJjTUZ4dmRkTzlzR2NkM1ZvSTNIVVB4cEdsekx5VnExZW9tRzJranVPdkdRdS1SdTR5c1puN1g5X1A1OFBsV1loMVE3d19xNjVYM2F0RVJ6UG5oLUNuaThIS1E4bzFnU2hZLW1tb2dEcXRSWEZGaHFEbXZvVUhWVll3eXdCUXBqcElDLWlmODhhUDlTS3ZnUFRWQmJhZWp5bkRyLUpyS3FXcjdObHRlaW5lWVFSbEFIZHhma09mdnhaMWRPT0JBMF9DdnfSAYcCQVVfeXFMUDR4cUM3bmVJWUF4aDhMNkFOM1Zab1hTQ0cwQ3BFTWZxQVowSVpfdWtPMllUS1hsRVRNajZvTEVJUFN3OTNEWGt0TjhnclhIQlRYMTJXU0ZvTUF0Tm9iSElEWk9Ccno1UXhWSWZkdXhiOG9iLUNlTlJjVE1WbTNvSGExTWFhaHlxd0dXVExvMG5yVDEwei1na1U1Y2pfcE4wcVBKd09SUWNMRkp4NzZ6NmhCM003dmVyMV81al8tTThzd1loWFdMMHZaSDZreERKOFQwOE9wdl9Kdm4wQ2NNNnhDWk93UENOOVdjWVkxeHZWN2VwcWRwTWNvUzEyUFlMd1NSbHB5NVU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "accc2ce9e806",
+      "title": "We Really Can Multitask, New Brain Study Finds - WSJ",
+      "published": "2026-06-12T15:45:00+00:00",
+      "summary": "We Really Can Multitask, New Brain Study Finds&nbsp;&nbsp;WSJ",
+      "sources": [
+        {
+          "name": "WSJ",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX0hPaGxGN3VDRVVkd1IxdC1wZEtKQjhjUnhrY1YtUWQyalJCY1BwR2ZMSnlQWTFCXzRXX2FzWm1BRzRQWDk3dmYtSjM0RzZHeXJ5by1zWWE1X0lWSUYxckVaUnNGa3FaT1RHSGYzR25vZWp3VGQxQ292NjkwSERsbGVsb2l6Zw?oc=5"
         }
       ]
     },
@@ -594,18 +618,6 @@
       ]
     },
     {
-      "id": "a18c5917581a",
-      "title": "Satellite-boosting spacecraft inside air-launched rocket | Space photo of the day for June 12, 2026 - Space",
-      "published": "2026-06-12T14:00:00+00:00",
-      "summary": "Satellite-boosting spacecraft inside air-launched rocket | Space photo of the day for June 12, 2026&nbsp;&nbsp;SpaceNASA to Preview Katalyst Mission to Boost Swift Spacecraft’s Orbit&nbsp;&nbsp;NASA (.gov)Race against re-entry: Swift's would-be saviour straps itself to a rocket&nbsp;&nbsp;The RegisterNASA interested in Hubble reboost if costs can be reduced&nbsp;&nbsp;SpaceNewsThe Space Long-Liver 'Hubble' May Operate for Half a Century&nbsp;&nbsp;Inbox.eu",
-      "sources": [
-        {
-          "name": "Space",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeWNHelluWG1NXzFDbnBSVk5Sa2ZsTm9IVDRGZ3EtRVZBQTRkUVdhRnNibjJreU0xcEVkWFZpRDVqN1RsTmt3Rnc1SFVVa3NRT2VLTWVQaUFhcTk4ZGdOMm1va0FKcjR1bXdJbHJpdVM4WExOSHhGdlNtb0JzTm9YS3V0c0tUMmczYUUxbGlwSHhfaTJaRVd2N0JVTk4wUktwSktMSmlRWXVPQk5kSkEzdmx5RW5zaEdlOEllOTFIcllHMl92bFhrSmN2YVpfb3hhQmtJeFRJaVZuR3piSDVvbldHX0ZtVDd3TFRhTg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9d41c0279582",
       "title": "Bacterial cell division protein FtsZ complexes with a phage protein to activate bacterial immunity - Nature",
       "published": "2026-06-12T13:31:59+00:00",
@@ -621,7 +633,7 @@
       "id": "bb3534dd9c2a",
       "title": "4 Fruits to Help Reduce Heart Disease Risk, According to a Cardiologist - EatingWell",
       "published": "2026-06-12T13:30:00+00:00",
-      "summary": "4 Fruits to Help Reduce Heart Disease Risk, According to a Cardiologist&nbsp;&nbsp;EatingWellSpecific fruit choices boost flavanols for a healthier heart&nbsp;&nbsp;News-MedicalNot all fruits and vegetables are equal when it comes to heart health, our research shows&nbsp;&nbsp;The ConversationTop five-a-day foods new study says your heart needs&nbsp;&nbsp;BBCGreen tea, broad beans, berries — are you eating the best five-a-day?&nbsp;&nbsp;The Times",
+      "summary": "4 Fruits to Help Reduce Heart Disease Risk, According to a Cardiologist&nbsp;&nbsp;EatingWellSpecific fruit choices boost flavanols for a healthier heart&nbsp;&nbsp;News-MedicalNot all fruits and vegetables are equal when it comes to heart health, our research shows&nbsp;&nbsp;The ConversationTop five-a-day foods new study says your heart needs&nbsp;&nbsp;BBCEating 5 fruits and vegetables a day may not be enough for heart health, study finds&nbsp;&nbsp;Fox News",
       "sources": [
         {
           "name": "EatingWell",
@@ -630,22 +642,10 @@
       ]
     },
     {
-      "id": "ca4222460ced",
-      "title": "DNA Study Reveals That Space Permanently Changes The Human Body - Yahoo",
-      "published": "2026-06-12T13:17:00+00:00",
-      "summary": "DNA Study Reveals That Space Permanently Changes The Human Body&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcjJTazFHdk42UUJONnAwcHFHdGdrdlJxM2dCT0NkdVBWd3RLUS1zWU91WFZBTEtkeTlheGdQY2Y4YU1FSWtkbVlIYnprME44MVRWOHlwMlJ3OWRPeVJQdDZqUUZxOU44SVN2YVFycjFvNXllT3F2NVZGSmxDWGVVZjNGQ0oyOVoxTGF5REQ5SzJVMlkwVnhCNEJ3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c440c4c34cba",
       "title": "Ebola outbreak spreads to crowded displacement camp in Congo - Reuters",
       "published": "2026-06-12T13:09:20+00:00",
-      "summary": "Ebola outbreak spreads to crowded displacement camp in Congo&nbsp;&nbsp;ReutersEbola outbreak in DR Congo expands into large displacement camp&nbsp;&nbsp;CIDRAPCongo says number of confirmed Ebola cases rises to 710&nbsp;&nbsp;ReutersEbola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda&nbsp;&nbsp;World Health Organization (WHO)Alarm as Ebola spreads into new areas of DR Congo&nbsp;&nbsp;Al Jazeera",
+      "summary": "Ebola outbreak spreads to crowded displacement camp in Congo&nbsp;&nbsp;ReutersCongo says number of confirmed Ebola cases rises to 710&nbsp;&nbsp;ReutersEbola outbreak in DR Congo expands into large displacement camp&nbsp;&nbsp;CIDRAPEbola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda&nbsp;&nbsp;World Health Organization (WHO)Alarm as Ebola spreads into new areas of DR Congo&nbsp;&nbsp;Al Jazeera",
       "sources": [
         {
           "name": "Reuters",
@@ -662,6 +662,18 @@
         {
           "name": "San Diego Union-Tribune",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVE00XzBHdm8tVzBYVHM0TnFkaW9DSmhwWllxZTFfX1dpXzJNeUM1QWtHNEVtMHJ2bjlrYWRQdmM1bWxQTVJUUnl6T3NwbzBOQ1gxeUVkdGpWZy1tTndXbEpPNHhRb0tNNFF6YUNXZlBxUVFfVWI1eGw0UU05ckNUM2R0TVhjSGR3SmgtNjZvMXg4Zy1SaTRUX05ra0d0VEFRTWVpU0wxLXBjNUFkbnNUN0IzU1puNnVpaTdEY1Q5bmxYZ2R0aERYbEJWYmYxQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4efdd833ffdf",
+      "title": "Cardiologist shares this superfood for healthy ageing, brain and heart function: ‘Tiny food, but extraordinary benefits’ | Health - Hindustan Times",
+      "published": "2026-06-12T12:51:15+00:00",
+      "summary": "Cardiologist shares this superfood for healthy ageing, brain and heart function: ‘Tiny food, but extraordinary benefits’ | Health&nbsp;&nbsp;Hindustan Times",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNRlJiQmU3RnJ2eXFWUW1tRGdMaVpFel9pMXBWVXY5RUxCMENmT1UwMnBOSEs1b2MybW9wVGlYVWVsT1JSZHpuS1htQXFtdTZIYnlrZUU5YWdsQXVJbEpERkc3VUlERUVQdURJbUNHQml6ZkVFNVdpN2pYT1R6ckt0MDhGMWNqQVRmUHU1YmkyMWlvbHpVTlZwTTZJakdBa2lIVzJOWEZlOUZwM0RQOFVQaldTa2paMFFYTHBVeHZXaC13ME5tOG1sVDI2djhXYXJWRUJncEk2QXdXSGdJbUNKdndJUFI4c0tpb3k5cW9uYVpTOEJUSmtPMFdYSEUxZEl2QzdJNnM3cGlfbV9OU3p6Zi1R0gGXAkFVX3lxTE1TVk5uTG9ZWGYwSFNPb3BrVUY2N3I5RHZmcy1KeDRvUENKckNodEJKZVA1WFRNT1h3RFJXb0l1X3pEekFITU9tZ09Pa0RDLTdmOTM0SHJKeV9FcGY2bG9PMTA4YzBOR3lmaUt6LUs2alRuZlFsY2VYTm9pM3lCMHE3dEp4Z0ZoVUxVdW5hWkMxeWNvNkdGOWZxeThCaTdZZkMtd05PS2tFM3c0dUJLcVYydjhIVUE3MFdKX094b0lpZXlGc2xCUXowd0tQVFNlbTZDeE1mOE02UGoxU0RqVjdvSUZacUIxNzlwN2ptQnBXQV9ETFFzUlByS3pSeFZfR3Q5QlBJMGFTTi1oOXNmdmhuU2xXQW5XZw?oc=5"
         }
       ]
     },
@@ -702,30 +714,6 @@
       ]
     },
     {
-      "id": "b1c1076d003a",
-      "title": "Scientists Found a New Alzheimer's Trigger, And a Drug to Slow It in Mice - ScienceAlert",
-      "published": "2026-06-12T12:04:36+00:00",
-      "summary": "Scientists Found a New Alzheimer's Trigger, And a Drug to Slow It in Mice&nbsp;&nbsp;ScienceAlertSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT004SmtQMTlIVDFWejVDMXk0UWJ3dXR3Uld5ejRlQVRyMUZHbnhpNjZJOFZMVFBnUlpYcXJHYzA3d3QtU2paZjdTLWVNR3FjNHBSWS1ldHhnczJyN2tyNXlkNko2OWJ5RndKcUtaelNZVVlzenozZUFKZnN5RGl0ODg5dzBNd1dJd2oxR1VoTTFscVItMjhFbkpidGo0VFRZS3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "375425c50b62",
-      "title": "Aging brain health: Vitamin C levels linked to gray matter volume - Medical News Today",
-      "published": "2026-06-12T11:23:43+00:00",
-      "summary": "Aging brain health: Vitamin C levels linked to gray matter volume&nbsp;&nbsp;Medical News TodayStudy links low vitamin C levels in the blood plasma to reduced brain connectivity&nbsp;&nbsp;News-MedicalHigher Vitamin C Levels in Blood Linked to Healthier Aging Brains&nbsp;&nbsp;Inside Precision MedicineStudy finds vitamin C boosts brain health in older adults&nbsp;&nbsp;CBS 19 NewsThe surprising benefit of Vitamin C in old age&nbsp;&nbsp;The Independent",
-      "sources": [
-        {
-          "name": "Medical News Today",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVzRrMkFWZzZSRGpqMkxSSnRrRGJHZ3FqTmczTkc4ajFHRTRXWkJ0UnlwVGJ5N2ZoWUQ3UFNiMm5oODFfemlHVVFORjYyX1MtVmxpb1owa19yOXFyZ040OW9Oem85ZVdZUVVtVkRGOVIyOW5VRHFlcDIyMlRSUldxT1VMc3Y1NFNEbGJhR3IzdWZTdXZkOWNjbUNDWTFHMkUyel9Kcmx3bw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "83b3f4744539",
       "title": "'I'm a doctor - this is what I'd eat if I had high cholesterol' - RSVP Live",
       "published": "2026-06-12T09:52:27+00:00",
@@ -746,42 +734,6 @@
         {
           "name": "ProPublica",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEhZOEhvMklLLTFmYUpRTUhLVFFlMG1MMmFYMEFTdFBJZzZ2Q0xEY3VlZV95eTdCRjNZQ2tmV0RaMkZjZ1R1NW9YRmtBWTJpWHRKT281Z1RwR3lRWG5XR0U4RHhYeS1BVjU1Zl9JcmIwdWlhNGVvYnRJY3dybU9VWk9ZSE1pQUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1bf81711d20a",
-      "title": "Research Shows There Is a Specific Age When Your Strength and Fitness Start to Decline - Verywell Health",
-      "published": "2026-06-12T07:00:00+00:00",
-      "summary": "Research Shows There Is a Specific Age When Your Strength and Fitness Start to Decline&nbsp;&nbsp;Verywell HealthThe Exact Age Your Strength And Fitness Starts To Deteriorate&nbsp;&nbsp;Yahoo News New Zealand",
-      "sources": [
-        {
-          "name": "Verywell Health",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TZDFBd212Z2RDU3RWM0lnZk14ZUMzU0JDTzdvRmxnM1VCdlN3clhNVzMwb21VZEo0VTRXYVlwMUlLb2JNeno4RklUZzdMM0w3RDVlcDNNMG9taDRJQUgzRDFoS2ZSX0w2bGFwUWdtNnQxQVFIaV9iSWVDdzU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8e6c83793724",
-      "title": "Scientists Uncover Why Walking Gets Slower and More Exhausting As We Age - SciTechDaily",
-      "published": "2026-06-12T05:46:33+00:00",
-      "summary": "Scientists Uncover Why Walking Gets Slower and More Exhausting As We Age&nbsp;&nbsp;SciTechDailyFrom speed to stability: How aging changes the way we walk&nbsp;&nbsp;Medical XpressWhy walking gets difficult with age: New study points to the ankles&nbsp;&nbsp;The Indian ExpressTiny Walking Changes Could Slow Knee Arthritis Down&nbsp;&nbsp;Yahoo News CanadaHere’s Why Our Walking Gets Slower as We Age&nbsp;&nbsp;Nautilus | Science",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcDFqX3o2ZlRyTGh0bkdRNnA3QW9PWFB3V3gzM3AxSmRZSXNOVFU4M1VnX0ViWUFMbktscnhQd2d3NTlXYmN1Vm5MVGhEbXIzckdSRGRFV2ItMl9HYldhUEtWZWdURjRrbHI4UE1weWpTV2VHOTc4QlNJd21ULTc5U3d2MVRTckhzMnM5dlRZSTNSOXhIWUM2eWxyRzdSV28?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8c788fd72e76",
-      "title": "A Major Update Just Hit Cholesterol Guidelines – Here’s What Every Adult Needs To Know - SciTechDaily",
-      "published": "2026-06-12T04:36:29+00:00",
-      "summary": "A Major Update Just Hit Cholesterol Guidelines – Here’s What Every Adult Needs To Know&nbsp;&nbsp;SciTechDailyThe 2026 Lipid Guidelines: Key Takeaways for Primary Care&nbsp;&nbsp;MedscapeStaging the Heart: NLA and EAS Reveal a New Era of Precision Lipidology and Imaging&nbsp;&nbsp;Pharmacy TimesClosing the Cholesterol Gap&nbsp;&nbsp;Duke University School of MedicineConfused By Your Cholesterol Report? Here's What LDL And ApoB Really Mean&nbsp;&nbsp;Health and Me",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS0ZwQXIwVFJMN1JaT2JIQzhjX0taTy1BS01mRXFZcnlmQ2pyYUNhUnJqT2FGZWtUZDctRXV6VHhzaHkwSTREbmZieVB3YWVSUWJzWXlLeFh3LTktejNUUEI3cXY1MUJmV05PQVg3S3kxTGtQOWxWZzBCSDV3SDlXVUhvdGtyRGhwN1dMSEJ1SndwSUtDYUcyMVpVSnluUFUyVjNoSHNyanQ5dVZNRHc?oc=5"
         }
       ]
     }

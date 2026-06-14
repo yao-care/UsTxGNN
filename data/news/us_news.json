@@ -1,10 +1,70 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-06-14T09:39:33.869455+00:00",
-  "total_fetched": 112,
-  "unique_count": 112,
-  "health_related_count": 61,
+  "fetched_at": "2026-06-14T14:09:39.076213+00:00",
+  "total_fetched": 110,
+  "unique_count": 110,
+  "health_related_count": 60,
   "news": [
+    {
+      "id": "58564aed943c",
+      "title": "Column | Six things I did to rid my yard of mosquitoes when nothing else worked - The Washington Post",
+      "published": "2026-06-14T13:32:03+00:00",
+      "summary": "Column | Six things I did to rid my yard of mosquitoes when nothing else worked&nbsp;&nbsp;The Washington PostMosquito Management - WHIZ - Fox 5 / Marquee Broadcasting&nbsp;&nbsp;WHIZI Was Tired of Being Eaten Alive by Mosquitoes in the Backyard—Here's What Finally Worked&nbsp;&nbsp;Yahoo CreatorsHouston residents urged to take action on home mosquitoes&nbsp;&nbsp;CW39 HoustonFRIDAY HEALTH REPORT: Keeping yourself safe from mosquitoes in peak season&nbsp;&nbsp;WBRZ",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd3NTNVRnX2VFNlI4QnMtVFhmYndDMzRRZHk2aDJ2NzRXTzd3QWpPdGpvTlFnbEpPN3ZEUzVrZjlta2xOM0ZkQ0NTYVh6Sk1aakNZVVJJa2hRUHN3VU96S2hVOHRza1VxNjFxSkhDZGxYY3EwTURNRzl0RlBob1lyc1dJcGNIV1hMS3dKTXdBYWJnVmxENVRVQkM5V3o3eWtZZlYtUjJkMGtMcHlnSDN5ckE5R09oRGlP?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b844f7dd25e5",
+      "title": "Researchers are uncovering ADHD’s links to these other health conditions - The Washington Post",
+      "published": "2026-06-14T13:29:16+00:00",
+      "summary": "Researchers are uncovering ADHD’s links to these other health conditions&nbsp;&nbsp;The Washington Post",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdWdobHV1b0pJeVNjMU14ekxOUzlndzB2M2hoSE5tUy1MaGQ3X2pNb2d2RkJWUUl4MEJiUXdaTnptaDZidTZzNDhhckdvLV80RzFCQ3U5ODFwTXZKNHNvWVNGa1FULVdVRlRQcnJoYzdYUjhQNjk1eGJHRmhCWFFWclc5bW11VzhPbGVNbVdWZUZXRDlCLVhEMGdrMTJ1ZWpKMF93WlVB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "546ac7a2f0ba",
+      "title": "Dangerous hormone-disrupting chemicals found in US breast milk samples - The Guardian",
+      "published": "2026-06-14T12:01:00+00:00",
+      "summary": "Dangerous hormone-disrupting chemicals found in US breast milk samples&nbsp;&nbsp;The GuardianDetection of EDCs in Breast Milk and Infant Urine Up to Six Months Highlights Early Exposure Risks&nbsp;&nbsp;Bioengineer.orgEndocrine-disrupting chemicals found in breast milk, new study reveals&nbsp;&nbsp;The Times of IndiaEndocrine-disrupting chemicals found in breast milk and infant urine up to age 6 months&nbsp;&nbsp;Medical Xpress",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUlNjSFBHbEF5R1ZpdGc3V2tYTUVST094c3k0MGh2eWRRcVhEMmtXUDBfWjNfRHJNMEl3YU9BMC15LXc4TFAzalF0cXFVUXJ5Tkd5LWVmS3h3d0xUbUxxSUQwNnJmcS1QTnZJb2FhT1dGN1ZuTm5fOWQ2QWtVMkxaSnYxX1M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1f21048a198e",
+      "title": "Antidepressants and antipsychotics could serve as alternatives to opioids, study finds - The Guardian",
+      "published": "2026-06-14T12:01:00+00:00",
+      "summary": "Antidepressants and antipsychotics could serve as alternatives to opioids, study finds&nbsp;&nbsp;The Guardian",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX2hMMDI1RU5aOGx5dG55OEUwTy1pTkJpdklYR2NXYXJxN3JxckkxRlMxWDNEVS0wdGs3d0FzcXdWN3RNdHhxNnl0b3otOUdEYWx5ZFBscW1sN3hOak1XSnlCX3RTNFpsZ0dMcXNRX2FCaDJ6WkJ4SmZxcHo1MXBrc3NOZjRKeDRTc1FsWWNkSE5QNlZzTmYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "af960d3d76b8",
+      "title": "What to know about alpha-gal syndrome, the life-threatening meat allergy caused by tick bites - AP News",
+      "published": "2026-06-14T00:42:00+00:00",
+      "summary": "What to know about alpha-gal syndrome, the life-threatening meat allergy caused by tick bites&nbsp;&nbsp;AP NewsPotential new Missouri law would track tick-borne meat allergy affecting thousands&nbsp;&nbsp;KY3Tick-borne illness alpha-gal syndrome now considered public health threat in Mass.&nbsp;&nbsp;WGBHAlpha-Gal Legislation Unanimously Passes in the Assembly&nbsp;&nbsp;27eastWhat you need to know about the lone star tick&nbsp;&nbsp;Forest Preserve District of Will County",
+      "sources": [
+        {
+          "name": "AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUXB1bEF1aXAzSTVSWERFcGNoWUxZSmg0QWExMTNfcnM5LXozckVGRUYxZWdKRWFtYWZDa2kxZ1BCdGsyV0hYTGM1Z1JmdVNndVJxWndSNDNjMkRtZ2dtYkRIR1RSWmh3TkxDUmlmX3k3Qnl2MWNmUzd5QlNWdmNKMFppQ25jbGlJRldoQ2FUbUx4LXlBbkRxM01sWldNTGVNd1E?oc=5"
+        }
+      ]
+    },
     {
       "id": "2772af87f908",
       "title": "Global HIV prevention declined drastically after Trump aid cuts, U.N. finds - The Washington Post",
@@ -30,18 +90,6 @@
       ]
     },
     {
-      "id": "03e428c4a509",
-      "title": "We Asked Dietitians to Name the Healthiest Packaged Snack—They All Chose the Same One - AOL.com",
-      "published": "2026-06-13T19:52:35+00:00",
-      "summary": "We Asked Dietitians to Name the Healthiest Packaged Snack—They All Chose the Same One&nbsp;&nbsp;AOL.com",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS2ZmenpTVzdZckdLMGpPV3I4YXdtS1NHZG5uSnhCTEFVTWF0aWNndEsxUzNUdDV5ZEtFcXpRT0VzRHk3OXhiV1JOQ3ZUTi0xREIzVzdlV25BdllqSUxWX2FibUwtQllBOG92M2RhY0ZQenRYSkNwamNMdUZBQWlXbHo3QkUxRHFjU3hzb3RB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "de237318b0bd",
       "title": "You'd Never Guess This Subtle Sign Of A Stroke - AOL.com",
       "published": "2026-06-13T19:36:33+00:00",
@@ -57,7 +105,7 @@
       "id": "396ac69a5d02",
       "title": "Vitamin C levels in blood plasma linked with brain connectivity and volume in older adults - Medical Xpress",
       "published": "2026-06-13T18:00:01+00:00",
-      "summary": "Vitamin C levels in blood plasma linked with brain connectivity and volume in older adults&nbsp;&nbsp;Medical XpressStudy links low vitamin C levels in the blood plasma to reduced brain connectivity&nbsp;&nbsp;News-MedicalAging brain health: Vitamin C levels linked to gray matter volume&nbsp;&nbsp;Medical News TodayHigher Vitamin C Levels in Blood Linked to Healthier Aging Brains&nbsp;&nbsp;Inside Precision MedicineStudy finds vitamin C boosts brain health in older adults&nbsp;&nbsp;CBS 19 News",
+      "summary": "Vitamin C levels in blood plasma linked with brain connectivity and volume in older adults&nbsp;&nbsp;Medical XpressAging brain health: Vitamin C levels linked to gray matter volume&nbsp;&nbsp;Medical News TodayHigher Vitamin C Levels in Blood Linked to Healthier Aging Brains&nbsp;&nbsp;Inside Precision MedicineStudy finds vitamin C boosts brain health in older adults&nbsp;&nbsp;CBS 19 NewsThe surprising benefit of Vitamin C in old age&nbsp;&nbsp;The Independent",
       "sources": [
         {
           "name": "Medical Xpress",
@@ -68,7 +116,7 @@
     {
       "id": "6831c5cb38b6",
       "title": "The fight over America's vaccine future - Axios",
-      "published": "2026-06-13T17:45:21+00:00",
+      "published": "2026-06-13T17:45:44+00:00",
       "summary": "The fight over America's vaccine future&nbsp;&nbsp;AxiosNew Federal Vaccine Recommendations Introduce Ambiguity and Could Lead to Coverage Headaches&nbsp;&nbsp;Georgetown UniversityThe Chaos of US Vaccine Policy: Helping Journalists Manage Confusion&nbsp;&nbsp;National Press FoundationThe State of US Vaccine Policy — Jun 11, 2026&nbsp;&nbsp;CIDRAP",
       "sources": [
         {
@@ -105,7 +153,7 @@
       "id": "a4e82144fbe4",
       "title": "Sugar-free, low-fat diet tied to insulin resistance in mouse study - Medical News Today",
       "published": "2026-06-13T15:53:29+00:00",
-      "summary": "Sugar-free, low-fat diet tied to insulin resistance in mouse study&nbsp;&nbsp;Medical News TodayGood news for sweet tooths: Going sugar-free can mess with your gut and metabolism: study&nbsp;&nbsp;New York PostScientists found a surprising problem with sugar-free diets&nbsp;&nbsp;ScienceDailyCould cutting out sugar backfire? ENDO 2026 data links sucrose-free diet to gut inflammation&nbsp;&nbsp;MDLinxSugar-Free Diets May Disrupt Gut Microbiome | Newswise&nbsp;&nbsp;Newswise",
+      "summary": "Sugar-free, low-fat diet tied to insulin resistance in mouse study&nbsp;&nbsp;Medical News TodayGood news for sweet tooths: Going sugar-free can mess with your gut and metabolism: study&nbsp;&nbsp;New York PostCould cutting out sugar backfire? ENDO 2026 data links sucrose-free diet to gut inflammation&nbsp;&nbsp;MDLinxScientists found a surprising problem with sugar-free diets&nbsp;&nbsp;ScienceDailyStudy suggests removing sucrose may disrupt gut health&nbsp;&nbsp;سانا",
       "sources": [
         {
           "name": "Medical News Today",
@@ -129,7 +177,7 @@
       "id": "363b173f2def",
       "title": "Ozempic Users Are Skimping Out on Exercise, Study Finds - Gizmodo",
       "published": "2026-06-13T14:30:05+00:00",
-      "summary": "Ozempic Users Are Skimping Out on Exercise, Study Finds&nbsp;&nbsp;GizmodoOzempic, Wegovy: Why People Using GLP-1s Are Less Likely to Exercise&nbsp;&nbsp;HealthlineThe 20-minute Ozempic workout — the 5 crucial strength exercises&nbsp;&nbsp;The TimesPeople taking GLP-1 weight loss drugs like Ozempic started moving less&nbsp;&nbsp;ScienceDailyGLP-1 Therapies Silence Spontaneous Physical Activity&nbsp;&nbsp;Neuroscience News",
+      "summary": "Ozempic Users Are Skimping Out on Exercise, Study Finds&nbsp;&nbsp;GizmodoGLP-1 Therapies Silence Spontaneous Physical Activity&nbsp;&nbsp;Neuroscience NewsThe 20-minute Ozempic workout — the 5 crucial strength exercises&nbsp;&nbsp;The TimesOzempic, Wegovy: Why People Using GLP-1s Are Less Likely to Exercise&nbsp;&nbsp;HealthlinePeople taking GLP-1 weight loss drugs like Ozempic started moving less&nbsp;&nbsp;ScienceDaily",
       "sources": [
         {
           "name": "Gizmodo",
@@ -150,13 +198,13 @@
       ]
     },
     {
-      "id": "030b02603e96",
-      "title": "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - ScienceAlert",
+      "id": "51c2bc1482b1",
+      "title": "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection - sciencealert.com",
       "published": "2026-06-13T14:03:29+00:00",
-      "summary": "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection&nbsp;&nbsp;ScienceAlertBrushing your teeth in hospital could reduce the chance of catching pneumonia&nbsp;&nbsp;The ConversationA Simple Step With Big Impact: Oral Care Cuts Hospital Acquired Pneumonia Risk&nbsp;&nbsp;Anesthesiology NewsHAPPEN trial finds hospital-acquired pneumonia halves with increased oral care&nbsp;&nbsp;Avondale UniversityAUDIO: Can brushing your teeth have wider health benefits?&nbsp;&nbsp;Australian Broadc",
+      "summary": "Brushing Your Teeth Could Help Prevent a Deadly Hospital Infection&nbsp;&nbsp;sciencealert.comBrushing your teeth in hospital could reduce the chance of catching pneumonia&nbsp;&nbsp;The ConversationA Simple Step With Big Impact: Oral Care Cuts Hospital Acquired Pneumonia Risk&nbsp;&nbsp;Anesthesiology NewsHAPPEN trial finds hospital-acquired pneumonia halves with increased oral care&nbsp;&nbsp;Avondale UniversityAUDIO: Can brushing your teeth have wider health benefits?&nbsp;&nbsp;Australian Br",
       "sources": [
         {
-          "name": "ScienceAlert",
+          "name": "sciencealert.com",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNEItQVktM09QdWo5YjN5bWFIZVl5WHhLb1RDVEd4SDVmbVdnd1ZuYjZ1UU5Ub3RSdmJQYkl0bzZaZGc1SUc4Y3JzamxPOFBWZFdybW9XN3BRUWNDbjd0eklldTFPTWVhUjVFLTR1b25heVB6QVpyRjkwME9JNTkwYm1ySGpvYzR6Zk53NHhvZGUtTnYxVTlMWDJhUQ?oc=5"
         }
       ]
@@ -165,7 +213,7 @@
       "id": "835a53a99361",
       "title": "A New Path to Preventing Cancer - Ground Truths | Eric Topol",
       "published": "2026-06-13T14:03:17+00:00",
-      "summary": "A New Path to Preventing Cancer&nbsp;&nbsp;Ground Truths | Eric TopolNew techniques can predict and prevent lung cancer&nbsp;&nbsp;The EconomistCan lung cancer be prevented using a drug?&nbsp;&nbsp;The HinduRyan Schoenfeld: Mark Foundation-Supported Research Breaks Into the Mainstream&nbsp;&nbsp;OncodailyEarly Research Suggests a Path to Predict and Prevent Lung Cancer&nbsp;&nbsp;The New York Times",
+      "summary": "A New Path to Preventing Cancer&nbsp;&nbsp;Ground Truths | Eric TopolNew techniques can predict and prevent lung cancer&nbsp;&nbsp;The EconomistCan lung cancer be prevented using a drug?&nbsp;&nbsp;The HinduRyan Schoenfeld: Mark Foundation-Supported Research Breaks Into the Mainstream&nbsp;&nbsp;OncodailyNew blood test may spot lung cancer five years early: What patients need to know&nbsp;&nbsp;financialexpress.com",
       "sources": [
         {
           "name": "Ground Truths | Eric Topol",
@@ -186,6 +234,18 @@
       ]
     },
     {
+      "id": "67c922ef2626",
+      "title": "How the Best Drinks for Gut Health Can Improve Your Digestion (and Overall Health) - GQ",
+      "published": "2026-06-13T13:52:34+00:00",
+      "summary": "How the Best Drinks for Gut Health Can Improve Your Digestion (and Overall Health)&nbsp;&nbsp;GQ",
+      "sources": [
+        {
+          "name": "GQ",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nTU1Hemc5VHZua1N2UDJBUERsWlVsM1FNN1ZnT0dIWURqeEdjU0Zfb3AyS09vM2RWOFh5UnY2elE4OTJPRHdPcmNreEZjYUVwV0gyN3BFeHM0dlBqT2FWRW5xUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6c24d94db19c",
       "title": "Divorcees and widowed share concerning mental health trait, researchers find - Yahoo",
       "published": "2026-06-13T13:00:56+00:00",
@@ -201,7 +261,7 @@
       "id": "139034efd660",
       "title": "It’s not Ebola you need to be worried about with the World Cup. These are the real health risks. - NJ.com",
       "published": "2026-06-13T13:00:00+00:00",
-      "summary": "It’s not Ebola you need to be worried about with the World Cup. These are the real health risks.&nbsp;&nbsp;NJ.comThe summer may be defined by more than soccer&nbsp;&nbsp;The Boston GlobeThe World Cup Is Bringing Millions to the U.S. Should You Worry About Infectious Diseases?&nbsp;&nbsp;Time MagazineInfectious disease threats test public health as World Cup kicks off&nbsp;&nbsp;AxiosOpinion | As a fan, I'm excited for the World Cup. As a doctor, I'm worried.&nbsp;&nbsp;MS NOW",
+      "summary": "It’s not Ebola you need to be worried about with the World Cup. These are the real health risks.&nbsp;&nbsp;NJ.comThe summer may be defined by more than soccer&nbsp;&nbsp;The Boston GlobeThe ‘diseases of crowds’ experts say could be at the World Cup&nbsp;&nbsp;CIDRAPThe World Cup Is Bringing Millions to the U.S. Should You Worry About Infectious Diseases?&nbsp;&nbsp;Time MagazineOpinion | As a fan, I'm excited for the World Cup. As a doctor, I'm worried.&nbsp;&nbsp;MS NOW",
       "sources": [
         {
           "name": "NJ.com",
@@ -225,7 +285,7 @@
       "id": "4349c5142e69",
       "title": "Doctors Inject Human Subjects With First Vaccine Designed by AI - Futurism",
       "published": "2026-06-13T12:15:00+00:00",
-      "summary": "Doctors Inject Human Subjects With First Vaccine Designed by AI&nbsp;&nbsp;FuturismNew ‘universal vaccine’ technology could protect us from future virus outbreaks&nbsp;&nbsp;University of CambridgeAI-designed 'universal vaccine' passes first human clinical trial, could prevent future pandemics&nbsp;&nbsp;Fox News'World-first' vaccine designed by artificial intelligence&nbsp;&nbsp;BBCEditorial: Skepticism—and success—matters on AI and vaccines&nbsp;&nbsp;C&amp;EN",
+      "summary": "Doctors Inject Human Subjects With First Vaccine Designed by AI&nbsp;&nbsp;FuturismNew ‘universal vaccine’ technology could protect us from future virus outbreaks&nbsp;&nbsp;University of CambridgeAI-designed 'universal vaccine' passes first human clinical trial, could prevent future pandemics&nbsp;&nbsp;Fox News'World-first' vaccine designed by artificial intelligence&nbsp;&nbsp;BBCNew AI-Designed Universal Vaccine — What It Could Mean for Future Pandemics Before They Begin&nbsp;&nbsp;Discover ",
       "sources": [
         {
           "name": "Futurism",
@@ -234,10 +294,22 @@
       ]
     },
     {
+      "id": "9d703be30a49",
+      "title": "A mom's Stage IV cancer had no symptoms. An innovative surgery saved her life. - CBS News",
+      "published": "2026-06-13T12:00:00+00:00",
+      "summary": "A mom's Stage IV cancer had no symptoms. An innovative surgery saved her life.&nbsp;&nbsp;CBS News",
+      "sources": [
+        {
+          "name": "CBS News",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORnFJSXBsU1lfTkVBdjZjY3M4NDM4SjhQVlFjWlJhYTQweUhzQmVEZkxTeDBMSnh5REJacFVDa0dsNEUzQnFRVHdNTk43TWJQMFRFajF1MGhJeU1oUzkwSEN5RjdleXBWSWI1UC0yNFpSdktkN3JQVGNLS0MwVE93N3dmNTluR2ZBSlMxTVVVUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "71a5af8c6f06",
       "title": "'This might be the point of no return': Experts on the current measles outbreak and where we go from here - Live Science",
       "published": "2026-06-13T12:00:00+00:00",
-      "summary": "'This might be the point of no return': Experts on the current measles outbreak and where we go from here&nbsp;&nbsp;Live ScienceUS measles cases continue to climb, especially in Virginia&nbsp;&nbsp;CIDRAPMeasles has no treatments. Changing that may not be easy&nbsp;&nbsp;Science NewsWith Measles Roaring Back, the Search for a Treatment Is On&nbsp;&nbsp;The New York TimesU.S. Poised to Lose Measles Elimination Status as Utah Outbreak Nears One-Year Mark&nbsp;&nbsp;WSJ",
+      "summary": "'This might be the point of no return': Experts on the current measles outbreak and where we go from here&nbsp;&nbsp;Live ScienceUS measles cases continue to climb, especially in Virginia&nbsp;&nbsp;CIDRAPAnguished Parents, Crying Doctors: Life Amid Utah’s Measles Outbreak&nbsp;&nbsp;WIREDMeasles has no treatments. Changing that may not be easy&nbsp;&nbsp;Science NewsWith Measles Roaring Back, the Search for a Treatment Is On&nbsp;&nbsp;The New York Times",
       "sources": [
         {
           "name": "Live Science",
@@ -246,14 +318,14 @@
       ]
     },
     {
-      "id": "680dc02cd6a9",
-      "title": "The Best Morning Drink for High Blood Pressure, According to Dietitians - EatingWell",
-      "published": "2026-06-13T12:00:00+00:00",
-      "summary": "The Best Morning Drink for High Blood Pressure, According to Dietitians&nbsp;&nbsp;EatingWellSafe blood pressure reduction support thanks to 5 healthy morning drinks&nbsp;&nbsp;Laodong.vn",
+      "id": "84b7c91aebf8",
+      "title": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)",
+      "published": "2026-06-13T11:59:23+00:00",
+      "summary": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda&nbsp;&nbsp;World Health Organization (WHO)Health workers struggle to contain Ebola in Congo camps as distrust grows&nbsp;&nbsp;ReutersEbola outbreak in DR Congo expands into large displacement camp&nbsp;&nbsp;CIDRAPAlarm as Ebola spreads into new areas of DR Congo&nbsp;&nbsp;Al JazeeraDR Congo: Ebola spreads as agencies brace for child victims&nbsp;&nbsp;UN News",
       "sources": [
         {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYVBqNXdvSnlVXzRoaXdGcDZUWDNLRmtaZG5SclhXM2tpTjZZeFE3Rk50NzloOFJmbml4LW9EQWhISGF1Uk5peVhXZEw1WXZUSjV6cl9IRmxDc255UkFlUVVnRjBaNk9FUmtsczd1T3d1OURVVVlvdVAzUFdrZjdremtyNTI?oc=5"
+          "name": "World Health Organization (WHO)",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TNWhZeXdvbGdrVklkMDVWWUNfZ3lRSDVCcklxbGtjVm83WU1ZRFB5cnl2Q3NodUtHQm9Pa2x6bUg2bHhGdUJMNVljcWdWT3V4Nlc1bDBmZDF0VVRnMFVvVmo2OEhWdTlhd0tSQUZaMk5kUkdCSUlyZzZ3?oc=5"
         }
       ]
     },
@@ -266,18 +338,6 @@
         {
           "name": "USA Today",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdm9jREh0RUhYSHBhN2hoTmc5ME0wdGU3MV82RDVfTUZOeGtxWldUcjNUQmZDQVRyMElVdFY1djd2R2VVRXVWbnZMaTkwQzZXTVB2dF9SdE1IbzdDa1cybklLR2pUNEhua2o5WnVNbnVhM2pyVWNzZEtIcUY3RkpjODR6RHdwNmdOazFIeVdhWVI5aXM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "54cbabe1d789",
-      "title": "How much strength training do you really need to live longer? Not much - The Times of India",
-      "published": "2026-06-13T10:15:00+00:00",
-      "summary": "How much strength training do you really need to live longer? Not much&nbsp;&nbsp;The Times of IndiaScientists found the strength training sweet spot for a longer life&nbsp;&nbsp;ScienceDailyA Doctor Recommends Doing This Twice a Week for Better Heart Health&nbsp;&nbsp;TODAY.comTo Delay Death, Research Suggests Strength Training Just 1.5 Hours Each Week&nbsp;&nbsp;Outside MagazineThe Anti-Aging Habit More People Are Curious About Right Now&nbsp;&nbsp;Yahoo News Malaysia",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTTBJMm5ZN3lnNFhsX1J3VmNsb3dCRUkxa2puNHE4U3BsUFllM0dheFZNTEdjZndnd1VYYmRhVk4zUTBCV1QzRUUxaHdRN0Ezak1jLThsWGJXdG9sOHVYS2stSmZYMjY1MmlPYVFzNUZ1d2gtc1RNWGItY0pXNGxoUFhnZVZRaDJfOFd3TDItdmc4bzdCaTRuN25aLXZvZHJrNkx5NlRyY09KMWlzYVFzWGRTckhRTDR2Sm55ZkdFZDJzdC1RV1hLb3pacFp6VTAwSnJWMHJHN1Y4cXN5TWFGedIB5gFBVV95cUxQY3dGd21fSllIM241eEdXN19tLWNYX2FuMjAwRVNZdTliN3R6eTQ0azVIZkdCVDZfbGFyc2c1SG8xZF9EbEhHOWxXWFZDaFI0c3pWcUV1ckE0NmdsQTlUS09wYXRTR2xqUDdCTGF3SlZSMjg1VmdheFZsakNjNklRMlNCT1dhZmdqZC1lbUlMNUJDcVZVcHNZZDZ5REJkd2Q5YjNfSHlLbEVJUGlXNlZTSmF5Si1BbjNWSlp2X2pWV0lxSUo3WklKLUdielhqVENZOWx3WjNsZjVRWEd3aURtSG9XNHVaQQ?oc=5"
         }
       ]
     },
@@ -297,7 +357,7 @@
       "id": "9f7f3d5be885",
       "title": "How Japanese scientists sent a real-life Transformer to the moon - Space",
       "published": "2026-06-13T10:00:00+00:00",
-      "summary": "How Japanese scientists sent a real-life Transformer to the moon&nbsp;&nbsp;SpaceSaturday Citations: JAXA collaboration with toy company TOMY; a new brain-computer interface; IBD solved&nbsp;&nbsp;Phys.orgMeet LEV-2, a baseball-sized and absurdly cute moon robot&nbsp;&nbsp;Scientific AmericanAdorable, ball-shaped robot 'crawled' across the moon during Japan's historic first lunar landing&nbsp;&nbsp;Live ScienceTiny ‘crawling’ robot solves Japan’s moon lander mystery&nbsp;&nbsp;The Indian Express",
+      "summary": "How Japanese scientists sent a real-life Transformer to the moon&nbsp;&nbsp;SpaceSaturday Citations: JAXA collaboration with toy company TOMY; a new brain-computer interface; IBD solved&nbsp;&nbsp;Phys.orgMeet LEV-2, a baseball-sized and absurdly cute moon robot&nbsp;&nbsp;Scientific AmericanAdorable, ball-shaped robot 'crawled' across the moon during Japan's historic first lunar landing&nbsp;&nbsp;Live ScienceBaseball-sized robot explores Moon's surface and sends images back to Earth&nbsp;&nbsp",
       "sources": [
         {
           "name": "Space",
@@ -314,6 +374,18 @@
         {
           "name": "Inquirer.com",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNndjWF9faEV6U3dhQ29Ca3JKdVdreDVYQ3hYTmQzd2lURHhfQTg0eEVuZUxqYWlBLTdWU2RHYXNTZkNRYUR1Nk1GalZSX0I4Wl9LTUJsOXNWWnNJdmVjSW9vZjdZREhmaERRRXhRZVEtaUFNVklKTkxpZEJFYVY5V1Y2QlNCS3JHR1FiRnpqMEE5TlNxcDJpaFdKZDcxajQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7101d09c0e57",
+      "title": "RFK Jr can be a crank, but he’s not wrong about Lyme disease - The Telegraph",
+      "published": "2026-06-13T07:00:00+00:00",
+      "summary": "RFK Jr can be a crank, but he’s not wrong about Lyme disease&nbsp;&nbsp;The TelegraphIs it safe for Americans to go into the woods today? | On Point with Meghna Chakrabarti&nbsp;&nbsp;WBURRich DiPentima: RFK, Jr., Off Base On Lyme Disease&nbsp;&nbsp;The Conway Daily Sun",
+      "sources": [
+        {
+          "name": "The Telegraph",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaldQYnJ5MDd0eDJiYUNRWk1jLURfV0VwUjNJb2pJakVkTDdYdURYNWgyRmtScnVKUFRORjVoRFJHR3hSVWZGNjUzTGE4UjYwVGU5TlhkQXZqTmFFY0Fkd2RmN2Qwa3dXZDJ0MGgzWmY4eUpBUnJwRXdDWVVFMU1TM2F6cmxBMkptMW1qRGZOWHVaeV9YTmNpNEtjYVpTUkRXX3RYR3B3?oc=5"
         }
       ]
     },
@@ -350,6 +422,30 @@
         {
           "name": "SciTechDaily",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcUtzNU5xeXkwWm9hMXp1SXZmZXhzR1NlWHhjSVdOQkRZMlo4SlJGVXZWcHlMbXNBVFUyVHlpcXp1Ql94dHFIakZjMERvYV80NXhCVmNpVkNIMUp6andKWDV0OW4wWS14TjV5bWU5QVdjYWdFV2FpdEQtUndxTmg4cHZaOXJKWE5SMm1WSEJLaGJVN1RxNzZZb3FFbFJBMUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0f3b6e997ee9",
+      "title": "How toxic masculinity and TikTok could be giving you skin cancer - The Independent",
+      "published": "2026-06-13T05:00:00+00:00",
+      "summary": "How toxic masculinity and TikTok could be giving you skin cancer&nbsp;&nbsp;The IndependentMillions of Brits issued urgent skin cancer warning amid heatwave this weekend&nbsp;&nbsp;Largs and Millport News",
+      "sources": [
+        {
+          "name": "The Independent",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaVdYWTB4WUNIWmY0TG9uNGxsMUpZNUhxbW9EemlmUjBsWlIxR3VIQVI2WUZoRTJpY2h4NGdIMV9udmhwb1FBTlJSTmEyYkFFcmVpemJkd3oyVVAyYTlsTzdhTGJmRjBtNVRJandTZk41T3ExbnM2QWFWaVNVOS1zN0hNT3k0clFCTUhpbUdVR000NGs2TFhXeGE1OA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ded879803c39",
+      "title": "Why Ebola came back — and a warning for the next pandemic - Financial Times",
+      "published": "2026-06-13T04:01:25+00:00",
+      "summary": "Why Ebola came back — and a warning for the next pandemic&nbsp;&nbsp;Financial TimesThe World Is Still Reacting to Health Crises, That Has to Change – Global Health Otherwise&nbsp;&nbsp;OncodailyWhy disease outbreaks are becoming more frequent across the world&nbsp;&nbsp;FirstpostEbola Outbreak Exposes Need for Stronger Investment in Preparedness&nbsp;&nbsp;AIDS Healthcare FoundationSMCK experts urge Korea to step up Ebola response beyond its borders&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbGg1X3N4VHItTGJfS3FKSC1WQ2hPUUwyN2ZKTFZUSERiYnFqRmgzamRHR3poOXMxMEJ6NnNLbWJTX1pCeEczdTJRMmo1Z1JSVlBtd1RNVVN5c1ROeXRzWnkzRzh4dGhyZFIxLVNnV1lDaFRLaURyNHE5bWlSbVpGRnh6OUg?oc=5"
         }
       ]
     },
@@ -414,18 +510,6 @@
       ]
     },
     {
-      "id": "efddd1997e0f",
-      "title": "Blood test can find thousands of genetic conditions in pregnancy, say scientists - The Guardian",
-      "published": "2026-06-12T22:00:00+00:00",
-      "summary": "Blood test can find thousands of genetic conditions in pregnancy, say scientists&nbsp;&nbsp;The GuardianNoninvasive sequencing expands prenatal genetic screening capabilities&nbsp;&nbsp;News-MedicalMaternal Blood Test Allows Comprehensive Genetic Fetal Screening&nbsp;&nbsp;Inside Precision Medicine",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVlh1bXl0RTJuV3AxLVJ6b2lSSVRId2hGelVEcERwTk00TDdDUjdkdnl0bGRRUG1QZ3ZkMFFHM1pVejBvMzBBVkFubnpuQ3lOYVk4UVhxTmxsNzNsTFZBbnhNQ2xZM19YNUEzeTlPUlc2dmlTUEstQmp6OVd3bm44Xzhzb1VRdE5LZEFYckhSbVJQcWVoWXNqNUd5X3J3UjF0cEhVTGxTNlg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d26818fdd800",
       "title": "Why tiny amounts of vitamin B12 matter more as we age - Medical Xpress",
       "published": "2026-06-12T20:40:03+00:00",
@@ -453,7 +537,7 @@
       "id": "feddeee21d85",
       "title": "Could the secret to black hole formation be locked away in this record-breaking ancient quasar? - Space",
       "published": "2026-06-12T20:00:00+00:00",
-      "summary": "Could the secret to black hole formation be locked away in this record-breaking ancient quasar?&nbsp;&nbsp;SpaceMIT astronomers discover the earliest known flickering quasar&nbsp;&nbsp;MIT NewsDiscovery of quasar variability and early accretion disk signatures at cosmic dawn&nbsp;&nbsp;NatureEarliest Flickering Quasar Ever Seen Could Explain Monster Black Holes&nbsp;&nbsp;ScienceAlertThe Earliest Flickering Quasar Ever Found Just Revealed a Surprising Black Hole Secret&nbsp;&nbsp;ZME Science",
+      "summary": "Could the secret to black hole formation be locked away in this record-breaking ancient quasar?&nbsp;&nbsp;SpaceMIT astronomers discover the earliest known flickering quasar&nbsp;&nbsp;MIT NewsDiscovery of quasar variability and early accretion disk signatures at cosmic dawn&nbsp;&nbsp;NatureEarliest Flickering Quasar Ever Seen Could Explain Monster Black Holes&nbsp;&nbsp;sciencealert.comThe Earliest Flickering Quasar Ever Found Just Revealed a Surprising Black Hole Secret&nbsp;&nbsp;ZME Science",
       "sources": [
         {
           "name": "Space",
@@ -489,7 +573,7 @@
       "id": "bcd86e3d84a5",
       "title": "Californian Dies from Rare Disease After 'Trapping, Feeding and Breeding Wild Rats' in an RV - Yahoo",
       "published": "2026-06-12T18:32:48+00:00",
-      "summary": "Californian Dies from Rare Disease After 'Trapping, Feeding and Breeding Wild Rats' in an RV&nbsp;&nbsp;YahooLeptospirosis claims one life in Berkeley, months after initial outbreak&nbsp;&nbsp;KTVUPerson living with nearly 200 rats dies of rare disease, Berkeley officials say&nbsp;&nbsp;SFGATELeptospirosis death in Berkeley: Residents were breeding rats, health officials say&nbsp;&nbsp;BerkeleysideMan with leptospirosis died after breeding rats in RV, city says&nbsp;&nbsp;The Berkeley Scanner",
+      "summary": "Californian Dies from Rare Disease After 'Trapping, Feeding and Breeding Wild Rats' in an RV&nbsp;&nbsp;YahooBerkeley Resident Dies From Rare Rat-Borne Disease: Officials&nbsp;&nbsp;PatchLeptospirosis claims one life in Berkeley, months after initial outbreak&nbsp;&nbsp;KTVUPerson living with nearly 200 rats dies of rare disease, Berkeley officials say&nbsp;&nbsp;SFGATEMan with leptospirosis died after breeding rats in RV, city says&nbsp;&nbsp;The Berkeley Scanner",
       "sources": [
         {
           "name": "Yahoo",
@@ -498,13 +582,13 @@
       ]
     },
     {
-      "id": "54b8450ae41e",
-      "title": "Extraordinary Fossils Solve a 500-Million-Year Evolution Mystery - ScienceAlert",
+      "id": "6aa3c2ff26a8",
+      "title": "Extraordinary Fossils Solve a 500-Million-Year Evolution Mystery - sciencealert.com",
       "published": "2026-06-12T18:04:42+00:00",
-      "summary": "Extraordinary Fossils Solve a 500-Million-Year Evolution Mystery&nbsp;&nbsp;ScienceAlertChinese researchers confirm Early Cambrian origin of bryozoans&nbsp;&nbsp;news.cgtn.comTiny fossils solve a decades-old mystery about early animal life&nbsp;&nbsp;Earth.comNew fossils confirm Early Cambrian origin of bryozoans&nbsp;&nbsp;巴士的報",
+      "summary": "Extraordinary Fossils Solve a 500-Million-Year Evolution Mystery&nbsp;&nbsp;sciencealert.comChinese researchers confirm Early Cambrian origin of bryozoans&nbsp;&nbsp;news.cgtn.comTiny fossils solve a decades-old mystery about early animal life&nbsp;&nbsp;Earth.comNew fossils confirm Early Cambrian origin of bryozoans&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "ScienceAlert",
+          "name": "sciencealert.com",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZTFhaHF3dEZEMGlzaW5Rd19oTjRsUExYRHVHaE5aN0VGRTJhV1Jfbk5DVThYeUlJOE1OMnN1QUJ6VFFicUZyYWMteThqclZqaldQSnJyVkJtOEdpYklaajRxbWdZZEt5cjBkS1dVLVNXU1Q3aURRQk9hbmFEV1dkV3VoTDhYVFZxVGl3XzNtTDNGSGZhZGVmNw?oc=5"
         }
       ]
@@ -537,7 +621,7 @@
       "id": "bdfcd3c012a2",
       "title": "Treating pancreatic tumours may have revealed cancer’s master switch - The Economist",
       "published": "2026-06-12T16:43:29+00:00",
-      "summary": "Treating pancreatic tumours may have revealed cancer’s master switch&nbsp;&nbsp;The EconomistGeorgia hospitals test ‘game-changer’ pancreatic cancer drugs&nbsp;&nbsp;AJC.comBreakthrough pancreatic cancer drug nearly doubles survival in trial&nbsp;&nbsp;USA TodayDaraxonrasib’s Phase 3 Pancreatic Cancer Survival Data Might Change The Case For Investing In RVMD&nbsp;&nbsp;Yahoo FinanceWhat you should know about the newest treatment for pancreatic cancer&nbsp;&nbsp;WTNH.com",
+      "summary": "Treating pancreatic tumours may have revealed cancer’s master switch&nbsp;&nbsp;The EconomistGeorgia hospitals test ‘game-changer’ pancreatic cancer drugs&nbsp;&nbsp;Atlanta Journal-ConstitutionBreakthrough pancreatic cancer drug nearly doubles survival in trial&nbsp;&nbsp;USA TodayDaraxonrasib’s Phase 3 Pancreatic Cancer Survival Data Might Change The Case For Investing In RVMD&nbsp;&nbsp;Yahoo FinanceWhat you should know about the newest treatment for pancreatic cancer&nbsp;&nbsp;WTNH.com",
       "sources": [
         {
           "name": "The Economist",
@@ -549,7 +633,7 @@
       "id": "b663336afaba",
       "title": "Scientists Finally Solved the Mystery of How Venus Flytraps Snap Shut - Gizmodo",
       "published": "2026-06-12T16:20:24+00:00",
-      "summary": "Scientists Finally Solved the Mystery of How Venus Flytraps Snap Shut&nbsp;&nbsp;GizmodoScientists unlock the secret behind the Venus flytrap's snap&nbsp;&nbsp;ReutersThe Venus Flytrap Mystery That Vexed Darwin, Solved&nbsp;&nbsp;YahooScientists reveal surprising mechanism behind Venus flytrap’s rapid snap&nbsp;&nbsp;The GuardianResearchers uncover mechanism responsible for the world’s most famous carnivorous plant’s snapping jaw&nbsp;&nbsp;EL PAÍS English",
+      "summary": "Scientists Finally Solved the Mystery of How Venus Flytraps Snap Shut&nbsp;&nbsp;GizmodoScientists reveal surprising mechanism behind Venus flytrap’s rapid snap&nbsp;&nbsp;The GuardianResearchers uncover mechanism responsible for the world’s most famous carnivorous plant’s snapping jaw&nbsp;&nbsp;EL PAÍS EnglishHow does the Venus flytrap snap? Scientists crack a puzzle that confused even Charles Darwin&nbsp;&nbsp;The Times of India[Science Through the Cover] CNRS team explains Venus flytrap’s 0.",
       "sources": [
         {
           "name": "Gizmodo",
@@ -561,7 +645,7 @@
       "id": "aee1829ea5b5",
       "title": "Doctor shares 5 daily habits that can lower elevated liver enzymes and protect from fatty liver disease | Health - Hindustan Times",
       "published": "2026-06-12T15:45:40+00:00",
-      "summary": "Doctor shares 5 daily habits that can lower elevated liver enzymes and protect from fatty liver disease | Health&nbsp;&nbsp;Hindustan TimesFatty liver: How to protect your body's biochemical powerhouse&nbsp;&nbsp;The Economic TimesZydus marks Global Fatty Liver Day with the launch of new campaign – ‘Liver Ki Suno’&nbsp;&nbsp;expresshealthcare.inToday’s Global Fatty Liver Day events aim to boost awareness of SLD&nbsp;&nbsp;Liver Disease News\"Untreated Fatty Liver Can Lead to Liver Cancer; Normal ",
+      "summary": "Doctor shares 5 daily habits that can lower elevated liver enzymes and protect from fatty liver disease | Health&nbsp;&nbsp;Hindustan TimesHalf of young Indians may have fatty liver, reveals liver donor study by top surgeon&nbsp;&nbsp;The Indian ExpressZydus marks Global Fatty Liver Day with the launch of new campaign – ‘Liver Ki Suno’&nbsp;&nbsp;expresshealthcare.inToday’s Global Fatty Liver Day events aim to boost awareness of SLD&nbsp;&nbsp;Liver Disease NewsUnited Medical College Hospital ob",
       "sources": [
         {
           "name": "Hindustan Times",
@@ -570,22 +654,10 @@
       ]
     },
     {
-      "id": "accc2ce9e806",
-      "title": "We Really Can Multitask, New Brain Study Finds - WSJ",
-      "published": "2026-06-12T15:45:00+00:00",
-      "summary": "We Really Can Multitask, New Brain Study Finds&nbsp;&nbsp;WSJ",
-      "sources": [
-        {
-          "name": "WSJ",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX0hPaGxGN3VDRVVkd1IxdC1wZEtKQjhjUnhrY1YtUWQyalJCY1BwR2ZMSnlQWTFCXzRXX2FzWm1BRzRQWDk3dmYtSjM0RzZHeXJ5by1zWWE1X0lWSUYxckVaUnNGa3FaT1RHSGYzR25vZWp3VGQxQ292NjkwSERsbGVsb2l6Zw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5dcb5509bf88",
       "title": "NASA to Cover 34th SpaceX Resupply Mission Space Station Departure - NASA (.gov)",
       "published": "2026-06-12T15:33:53+00:00",
-      "summary": "NASA to Cover 34th SpaceX Resupply Mission Space Station Departure&nbsp;&nbsp;NASA (.gov)NASA to Broadcast SpaceX Dragon’s June 16 Departure; Coast Guard Issues Hazardous Window Alerts for Launch and Reentry&nbsp;&nbsp;Forth.NewsSpaceX Cargo Dragon set to depart ISS with scientific research samples&nbsp;&nbsp;Caliber.AzBotany and Biology Research Wrap Up Week as Dragon Preps for Earth Return&nbsp;&nbsp;NASA (.gov)",
+      "summary": "NASA to Cover 34th SpaceX Resupply Mission Space Station Departure&nbsp;&nbsp;NASA (.gov)SpaceX Cargo Dragon set to depart ISS with scientific research samples&nbsp;&nbsp;Caliber.AzBotany and Biology Research Wrap Up Week as Dragon Preps for Earth Return&nbsp;&nbsp;NASA (.gov)",
       "sources": [
         {
           "name": "NASA (.gov)",
@@ -594,10 +666,22 @@
       ]
     },
     {
+      "id": "65874963177a",
+      "title": "Not all fruits and vegetables are equal when it comes to heart health, our research shows - The Conversation",
+      "published": "2026-06-12T14:27:15+00:00",
+      "summary": "Not all fruits and vegetables are equal when it comes to heart health, our research shows&nbsp;&nbsp;The ConversationSpecific fruit choices boost flavanols for a healthier heart&nbsp;&nbsp;News-MedicalEating 5 fruits and vegetables a day may not be enough for heart health, study finds&nbsp;&nbsp;Fox NewsTop five-a-day foods new study says your heart needs&nbsp;&nbsp;BBCWhich Fruits, Vegetables Are Best for Heart Health?&nbsp;&nbsp;Healthline",
+      "sources": [
+        {
+          "name": "The Conversation",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOU1kLWlDbmhvaWZxVGJwd0Y0bmo2bG5ZMWFrejRtcWhteDZhRHMwT25YRTZOU2hYdEp0bWhtT29oRTlsMFM4VGdGZlE3Xy1Ta3BZenVQcDVpdUlsSk9rOVJxUHRLQnBXMGVmLWVhV0gyYTRVQkp6ZHU0T3A1TEhMUU84eFVKak1PWndEVjJEb3lZYnVhRXR0eGJMVzUxUGw1bHJuN05lUHBoZjlNeGRDa3d1cEFZS3BmUWJpZUt4UWs?oc=5"
+        }
+      ]
+    },
+    {
       "id": "eff97a56e028",
       "title": "Why birds ignore Newton: New theory could sharpen models of flocks, crowds and cells - Phys.org",
       "published": "2026-06-12T14:20:07+00:00",
-      "summary": "Why birds ignore Newton: New theory could sharpen models of flocks, crowds and cells&nbsp;&nbsp;Phys.orgHamiltonian description of non-reciprocal interactions&nbsp;&nbsp;NatureDresden Physicists Challenge Newton’s Action–Reaction Principle in Groundbreaking Study&nbsp;&nbsp;Bioengineer.org",
+      "summary": "Why birds ignore Newton: New theory could sharpen models of flocks, crowds and cells&nbsp;&nbsp;Phys.orgHamiltonian description of non-reciprocal interactions&nbsp;&nbsp;NaturePhysicists crack the puzzle of bird flocks with Newton-inspired twist&nbsp;&nbsp;Interesting EngineeringDresden Physicists Challenge Newton’s Action–Reaction Principle in Groundbreaking Study&nbsp;&nbsp;Bioengineer.orgIllustration Newton Reloaded: Dresden Physicists Go Beyond the Action–Reaction Principle [IMAGE]&nbsp;&nbs",
       "sources": [
         {
           "name": "Phys.org",
@@ -618,38 +702,14 @@
       ]
     },
     {
-      "id": "9d41c0279582",
-      "title": "Bacterial cell division protein FtsZ complexes with a phage protein to activate bacterial immunity - Nature",
-      "published": "2026-06-12T13:31:59+00:00",
-      "summary": "Bacterial cell division protein FtsZ complexes with a phage protein to activate bacterial immunity&nbsp;&nbsp;Nature",
+      "id": "25f0b11f8bfd",
+      "title": "Study: Pacific Islanders Appear To Have Most Ancient Human DNA On Earth - StudyFinds",
+      "published": "2026-06-12T14:04:04+00:00",
+      "summary": "Study: Pacific Islanders Appear To Have Most Ancient Human DNA On Earth&nbsp;&nbsp;StudyFindsSee more headlines & perspectives on Google News",
       "sources": [
         {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DU2dHWEw2MVIwd2RFcUx2VnFCYjNyS3lONnNpMGpVc0trbWdKN0stZ0lQU2pOdXFiSFBfWnVPWG1Xa1BOVWFucVVMbVl5RURnSEk2aTVxWG9EOFdqMkxF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bb3534dd9c2a",
-      "title": "4 Fruits to Help Reduce Heart Disease Risk, According to a Cardiologist - EatingWell",
-      "published": "2026-06-12T13:30:00+00:00",
-      "summary": "4 Fruits to Help Reduce Heart Disease Risk, According to a Cardiologist&nbsp;&nbsp;EatingWellSpecific fruit choices boost flavanols for a healthier heart&nbsp;&nbsp;News-MedicalNot all fruits and vegetables are equal when it comes to heart health, our research shows&nbsp;&nbsp;The ConversationTop five-a-day foods new study says your heart needs&nbsp;&nbsp;BBCEating 5 fruits and vegetables a day may not be enough for heart health, study finds&nbsp;&nbsp;Fox News",
-      "sources": [
-        {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN2M1WVdQdVFWOENHdHFqaWd6OUZmbU1LZlpiRUl6Z1VzR0VaNmJjejVVTVFjaWpWZDNzWnlyLVgyWFdfZmFjd1dTMUc5R0tkTlVFTnVNS3BBSldneHFaTDQ3NmU5a1JBek5MUVlNdmp5cTFEX0h0bjJSNHpwTjcxb1d4NDlmeC1Z?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c440c4c34cba",
-      "title": "Ebola outbreak spreads to crowded displacement camp in Congo - Reuters",
-      "published": "2026-06-12T13:09:20+00:00",
-      "summary": "Ebola outbreak spreads to crowded displacement camp in Congo&nbsp;&nbsp;ReutersCongo says number of confirmed Ebola cases rises to 710&nbsp;&nbsp;ReutersEbola outbreak in DR Congo expands into large displacement camp&nbsp;&nbsp;CIDRAPEbola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda&nbsp;&nbsp;World Health Organization (WHO)Alarm as Ebola spreads into new areas of DR Congo&nbsp;&nbsp;Al Jazeera",
-      "sources": [
-        {
-          "name": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTmFjZjl4WVIzdXh1dHBuVkoyLVp5ZVR6d0VXRnZMc0pmWFVLOXRsdUFRbEszN2k3dVpGZzEyZ3ZZcU1DUVYwRkxxaVQzclZkdEd5clAwaFpyQ1F2dFdZcElPams5Z3ZnWkFBOEQwTVBKVXlmNTVtbmFhNzdKYUxHNjhZSmszbnExUWxlMFJrdWZrVTBSdDltU2t2Q2pXRmFXNXdPTDlBd0pFdjRlUkhfazc4SkZJZlZxT3ExbnNEcVJCeHRC?oc=5"
+          "name": "StudyFinds",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QSDVHcVM3RDNTUGZRR2xYeXB1LUdBTDNNdGlhWnJNaUFHa2lqSXhsV29xU24wdkQxTkdPeU9STmprTnpPRjE0X2MwOWZkZ0d5b2xRUkZrZEhtdnJXT296WkViSC1hb25QMmNreHVjSlZFQQ?oc=5"
         }
       ]
     },
@@ -662,78 +722,6 @@
         {
           "name": "San Diego Union-Tribune",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVE00XzBHdm8tVzBYVHM0TnFkaW9DSmhwWllxZTFfX1dpXzJNeUM1QWtHNEVtMHJ2bjlrYWRQdmM1bWxQTVJUUnl6T3NwbzBOQ1gxeUVkdGpWZy1tTndXbEpPNHhRb0tNNFF6YUNXZlBxUVFfVWI1eGw0UU05ckNUM2R0TVhjSGR3SmgtNjZvMXg4Zy1SaTRUX05ra0d0VEFRTWVpU0wxLXBjNUFkbnNUN0IzU1puNnVpaTdEY1Q5bmxYZ2R0aERYbEJWYmYxQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4efdd833ffdf",
-      "title": "Cardiologist shares this superfood for healthy ageing, brain and heart function: ‘Tiny food, but extraordinary benefits’ | Health - Hindustan Times",
-      "published": "2026-06-12T12:51:15+00:00",
-      "summary": "Cardiologist shares this superfood for healthy ageing, brain and heart function: ‘Tiny food, but extraordinary benefits’ | Health&nbsp;&nbsp;Hindustan Times",
-      "sources": [
-        {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNRlJiQmU3RnJ2eXFWUW1tRGdMaVpFel9pMXBWVXY5RUxCMENmT1UwMnBOSEs1b2MybW9wVGlYVWVsT1JSZHpuS1htQXFtdTZIYnlrZUU5YWdsQXVJbEpERkc3VUlERUVQdURJbUNHQml6ZkVFNVdpN2pYT1R6ckt0MDhGMWNqQVRmUHU1YmkyMWlvbHpVTlZwTTZJakdBa2lIVzJOWEZlOUZwM0RQOFVQaldTa2paMFFYTHBVeHZXaC13ME5tOG1sVDI2djhXYXJWRUJncEk2QXdXSGdJbUNKdndJUFI4c0tpb3k5cW9uYVpTOEJUSmtPMFdYSEUxZEl2QzdJNnM3cGlfbV9OU3p6Zi1R0gGXAkFVX3lxTE1TVk5uTG9ZWGYwSFNPb3BrVUY2N3I5RHZmcy1KeDRvUENKckNodEJKZVA1WFRNT1h3RFJXb0l1X3pEekFITU9tZ09Pa0RDLTdmOTM0SHJKeV9FcGY2bG9PMTA4YzBOR3lmaUt6LUs2alRuZlFsY2VYTm9pM3lCMHE3dEp4Z0ZoVUxVdW5hWkMxeWNvNkdGOWZxeThCaTdZZkMtd05PS2tFM3c0dUJLcVYydjhIVUE3MFdKX094b0lpZXlGc2xCUXowd0tQVFNlbTZDeE1mOE02UGoxU0RqVjdvSUZacUIxNzlwN2ptQnBXQV9ETFFzUlByS3pSeFZfR3Q5QlBJMGFTTi1oOXNmdmhuU2xXQW5XZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "85cdfeb218fb",
-      "title": "Stanford scientists regrow lost cartilage and reverse arthritis in major breakthrough - ScienceDaily",
-      "published": "2026-06-12T12:49:19+00:00",
-      "summary": "Stanford scientists regrow lost cartilage and reverse arthritis in major breakthrough&nbsp;&nbsp;ScienceDailyStanford Restores Cartilage in Animal Tests: New Potential Therapy for Osteoarthritis&nbsp;&nbsp;La Voce di New York",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LQmVZd2QxY2NILU45cmZDY0VINmo2d1dfSzJZQjhseFZVaGt0LVdscXNNbHU4dFFaUDlZSVVDSDVxSlRzNTB2NTlwNEtRNTdXSlF4Q1B2MEdRMjBrR1lLNmVFU2xwbTI0Wm5adjZlWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "997e40f9a932",
-      "title": "Magic mushrooms and Alzheimer’s: what one remarkable case can tell us - The Conversation",
-      "published": "2026-06-12T12:37:24+00:00",
-      "summary": "Magic mushrooms and Alzheimer’s: what one remarkable case can tell us&nbsp;&nbsp;The ConversationLarge psilocybin dose briefly improved dementia in case study: What to know&nbsp;&nbsp;Medical News TodayHuge Psilocybin Dose Has Incredible Effect on Elderly Dementia Patient&nbsp;&nbsp;ScienceAlertWoman with advanced Alzheimer's regained speech and memories after taking magic mushrooms&nbsp;&nbsp;Fox NewsSingle high dose of psilocybin temporarily restores lost abilities in an 80-year-old Alzheimer'",
-      "sources": [
-        {
-          "name": "The Conversation",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2VPV3g3SVBLNzhVTFczZkJOVUhhRnNqWnBKaF82ZXFyYmhpbTR5XzdPNmZ1ek1BVEdHaDE4T0RPWkpvdTUtNWU2Vjh2NUlLSFNBVG53QmJBUWxEWDA0UkplNHdPU1ZGdWY4Q0dGVHNBRmRIdThsVmYzS0ZCdU12QVRwVkYyckZwc1VLTXpMbU9FUXhmVDRIZktRS0x2NmVMdEtMTA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "459f9c448a4f",
-      "title": "Millennial Hygiene Habits Boomers Just Don't Understand - Health Digest",
-      "published": "2026-06-12T12:30:00+00:00",
-      "summary": "Millennial Hygiene Habits Boomers Just Don't Understand&nbsp;&nbsp;Health Digest",
-      "sources": [
-        {
-          "name": "Health Digest",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbF9MYXp6YVFkNE9oWlRzNEp4RzlKLU9udlc4RExnZWZhN3BGRW9uSTN3Ykh0QlJDNDZPam10YUFscFBQRVEzSFZKb1RxU0lrNEIyWUpVbHVSVE11Qzh3c0JJRGZOVVJIQks0Z0kwUXh5dVpIZk9NaGJ5OC1YRFZLMFhERkFuNXJFVERBalhXT0k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "83b3f4744539",
-      "title": "'I'm a doctor - this is what I'd eat if I had high cholesterol' - RSVP Live",
-      "published": "2026-06-12T09:52:27+00:00",
-      "summary": "'I'm a doctor - this is what I'd eat if I had high cholesterol'&nbsp;&nbsp;RSVP LiveA Nutritionist Shares Her Best Tips for Cooking Dinners That Lower Cholesterol&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness InformationDietitians reveal top nutrient to eat more of if you want to lower cholesterol&nbsp;&nbsp;MSNDoctor shares four foods to 'keep in your kitchen' if you have high cholesterol&nbsp;&nbsp;Cambridge NewsDoctor shares 4 affordable supermarket foods to slash high cholest",
-      "sources": [
-        {
-          "name": "RSVP Live",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11VkdhUTMwU1BuUTdpTktwcjVDNUx0ZW80cEhWYWl2S2JFdXFwR0RDRmJaTUJ5QWtvSklaM2lYMFlHLVh4TUpOc3lMbHFrNnpGVE1HX3JHU2RJbE5TWDA3ekpJN0lCaW1TVktRMkZ4SGNqTTBF0gF6QVVfeXFMT2s5SnZ2LVJoc05kLXpfOTRteWRIM29XVVZvdmdGTWZ0WE9VT2JPTDRobl9EbW9INXVlb01pYjRUSkZwOW5DaUlsWWRwM1ZSRWx4UjZMcVVHX1JzVHc0Wmw2RllsWGd0LS0yakhQUlJwTzVtRUpTbE0wOGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "237b1a151b36",
-      "title": "A Popular Doctor Had Long Warned That Vitamin K Shots Are Risky for Newborns. Now He’s Changed His Tune. - ProPublica",
-      "published": "2026-06-12T09:00:00+00:00",
-      "summary": "A Popular Doctor Had Long Warned That Vitamin K Shots Are Risky for Newborns. Now He’s Changed His Tune.&nbsp;&nbsp;ProPublicaThis Phoenix doctor is seeing more refused vitamin K shot for newborns — and the consequences&nbsp;&nbsp;KJZZOpinion | What Vitamin K Shot Refusals Are Really Telling Us&nbsp;&nbsp;MedPage TodayPopular anti-vax doctor does 180 on newborn jab for ‘devastating’ fatal condition&nbsp;&nbsp;AOL.comViewpoint: Vaccine deniers are attacking a life-saving Vitamin K shot for newbor",
-      "sources": [
-        {
-          "name": "ProPublica",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEhZOEhvMklLLTFmYUpRTUhLVFFlMG1MMmFYMEFTdFBJZzZ2Q0xEY3VlZV95eTdCRjNZQ2tmV0RaMkZjZ1R1NW9YRmtBWTJpWHRKT281Z1RwR3lRWG5XR0U4RHhYeS1BVjU1Zl9JcmIwdWlhNGVvYnRJY3dybU9VWk9ZSE1pQUE?oc=5"
         }
       ]
     }

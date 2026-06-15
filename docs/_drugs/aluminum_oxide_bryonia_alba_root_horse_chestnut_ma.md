@@ -2,7 +2,7 @@
 layout: default
 title: Aluminum Oxide Bryonia Alba Root Horse Chestnut Ma
 parent: 僅模型預測 (L5)
-nav_order: 284
+nav_order: 298
 evidence_level: L5
 indication_count: 0
 ---

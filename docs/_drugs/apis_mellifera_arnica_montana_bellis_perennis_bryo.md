@@ -2,7 +2,7 @@
 layout: default
 title: Apis Mellifera Arnica Montana Bellis Perennis Bryo
 parent: 僅模型預測 (L5)
-nav_order: 359
+nav_order: 390
 evidence_level: L5
 indication_count: 0
 ---

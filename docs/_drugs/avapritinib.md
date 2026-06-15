@@ -2,7 +2,7 @@
 layout: default
 title: Avapritinib
 parent: 僅模型預測 (L5)
-nav_order: 388
+nav_order: 430
 evidence_level: L5
 indication_count: 10
 ---

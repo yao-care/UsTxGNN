@@ -2,7 +2,7 @@
 layout: default
 title: Arnica Montana Whole Arsenic Trioxide Avena Sativa
 parent: 僅模型預測 (L5)
-nav_order: 372
+nav_order: 411
 evidence_level: L5
 indication_count: 0
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Alpha Lipoic Acid Ammonium Bromide Ammonium Carbon
 parent: 僅模型預測 (L5)
-nav_order: 252
+nav_order: 261
 evidence_level: L5
 indication_count: 0
 ---

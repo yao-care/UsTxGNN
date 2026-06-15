@@ -2,7 +2,7 @@
 layout: default
 title: Arnica Montana Root Calcium Phosphate Dibasic Anhy
 parent: 僅模型預測 (L5)
-nav_order: 366
+nav_order: 405
 evidence_level: L5
 indication_count: 0
 ---

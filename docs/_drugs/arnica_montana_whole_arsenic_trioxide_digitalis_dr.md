@@ -2,7 +2,7 @@
 layout: default
 title: Arnica Montana Whole Arsenic Trioxide Digitalis Dr
 parent: 僅模型預測 (L5)
-nav_order: 375
+nav_order: 414
 evidence_level: L5
 indication_count: 0
 ---

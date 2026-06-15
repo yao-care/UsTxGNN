@@ -2,7 +2,7 @@
 layout: default
 title: Alpha -Tocopherol Beta -Carotene American Ginseng 
 parent: 僅模型預測 (L5)
-nav_order: 242
+nav_order: 251
 evidence_level: L5
 indication_count: 0
 ---

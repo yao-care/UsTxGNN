@@ -2,7 +2,7 @@
 layout: default
 title: Apis Mellifera Arnica Montana Atropa Belladonna Be
 parent: 僅模型預測 (L5)
-nav_order: 357
+nav_order: 388
 evidence_level: L5
 indication_count: 0
 ---

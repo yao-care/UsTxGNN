@@ -2,7 +2,7 @@
 layout: default
 title: Arnica Montana Magnesium Sulfate Unspecified Witch
 parent: 僅模型預測 (L5)
-nav_order: 361
+nav_order: 400
 evidence_level: L5
 indication_count: 0
 ---

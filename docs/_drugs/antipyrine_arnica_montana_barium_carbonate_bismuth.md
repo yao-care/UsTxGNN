@@ -2,7 +2,7 @@
 layout: default
 title: Antipyrine Arnica Montana Barium Carbonate Bismuth
 parent: 僅模型預測 (L5)
-nav_order: 336
+nav_order: 367
 evidence_level: L5
 indication_count: 0
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Anemone Hepatica Var Obtusa Antimony Potassium Tar
 parent: 僅模型預測 (L5)
-nav_order: 321
+nav_order: 352
 evidence_level: L5
 indication_count: 0
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Alpha Lipoic Acid Apis Mellifera Arnica Montana Wh
 parent: 僅模型預測 (L5)
-nav_order: 255
+nav_order: 264
 evidence_level: L5
 indication_count: 0
 ---

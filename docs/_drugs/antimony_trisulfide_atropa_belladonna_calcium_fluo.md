@@ -2,7 +2,7 @@
 layout: default
 title: Antimony Trisulfide Atropa Belladonna Calcium Fluo
 parent: 僅模型預測 (L5)
-nav_order: 323
+nav_order: 354
 evidence_level: L5
 indication_count: 0
 ---

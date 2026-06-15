@@ -2,7 +2,7 @@
 layout: default
 title: Apis Mellifera Arctium Lappa Root Arctostaphylos U
 parent: 僅模型預測 (L5)
-nav_order: 351
+nav_order: 382
 evidence_level: L5
 indication_count: 0
 ---

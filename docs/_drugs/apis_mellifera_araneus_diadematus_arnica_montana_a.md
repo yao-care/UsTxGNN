@@ -2,7 +2,7 @@
 layout: default
 title: Apis Mellifera Araneus Diadematus Arnica Montana A
 parent: 僅模型預測 (L5)
-nav_order: 347
+nav_order: 378
 evidence_level: L5
 indication_count: 0
 ---

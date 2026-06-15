@@ -2,7 +2,7 @@
 layout: default
 title: Apis Mellifera Araneus Diadematus Berberis Vulgari
 parent: 僅模型預測 (L5)
-nav_order: 350
+nav_order: 381
 evidence_level: L5
 indication_count: 0
 ---

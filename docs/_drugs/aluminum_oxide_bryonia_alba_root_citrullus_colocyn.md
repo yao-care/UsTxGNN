@@ -2,7 +2,7 @@
 layout: default
 title: Aluminum Oxide Bryonia Alba Root Citrullus Colocyn
 parent: 僅模型預測 (L5)
-nav_order: 281
+nav_order: 295
 evidence_level: L5
 indication_count: 0
 ---

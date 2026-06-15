@@ -2,7 +2,7 @@
 layout: default
 title: Bempedoic Acid
 parent: 僅模型預測 (L5)
-nav_order: 400
+nav_order: 442
 evidence_level: L5
 indication_count: 10
 ---

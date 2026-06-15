@@ -2,7 +2,7 @@
 layout: default
 title: Apis Mellifera Araneus Diadematus Atropa Belladonn
 parent: 僅模型預測 (L5)
-nav_order: 348
+nav_order: 379
 evidence_level: L5
 indication_count: 0
 ---

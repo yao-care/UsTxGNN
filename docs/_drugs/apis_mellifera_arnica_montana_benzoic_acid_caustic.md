@@ -2,7 +2,7 @@
 layout: default
 title: Apis Mellifera Arnica Montana Benzoic Acid Caustic
 parent: 僅模型預測 (L5)
-nav_order: 360
+nav_order: 391
 evidence_level: L5
 indication_count: 0
 ---

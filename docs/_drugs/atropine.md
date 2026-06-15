@@ -2,7 +2,7 @@
 layout: default
 title: Atropine
 parent: 僅模型預測 (L5)
-nav_order: 386
+nav_order: 428
 evidence_level: L5
 indication_count: 2
 ---

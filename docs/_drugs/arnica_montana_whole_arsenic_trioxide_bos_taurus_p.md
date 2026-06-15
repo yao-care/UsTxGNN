@@ -2,7 +2,7 @@
 layout: default
 title: Arnica Montana Whole Arsenic Trioxide Bos Taurus P
 parent: 僅模型預測 (L5)
-nav_order: 374
+nav_order: 413
 evidence_level: L5
 indication_count: 0
 ---

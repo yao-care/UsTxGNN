@@ -2,7 +2,7 @@
 layout: default
 title: Andrographis Paniculata Whole Baptisia Tinctoria R
 parent: 僅模型預測 (L5)
-nav_order: 320
+nav_order: 351
 evidence_level: L5
 indication_count: 0
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Eslicarbazepine
 parent: 僅模型預測 (L5)
-nav_order: 459
+nav_order: 530
 evidence_level: L5
 indication_count: 6
 ---

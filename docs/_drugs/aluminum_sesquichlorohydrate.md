@@ -2,7 +2,7 @@
 layout: default
 title: Aluminum Sesquichlorohydrate
 parent: 僅模型預測 (L5)
-nav_order: 292
+nav_order: 306
 evidence_level: L5
 indication_count: 0
 ---

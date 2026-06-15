@@ -2,7 +2,7 @@
 layout: default
 title: Alpha Lipoic Acid Cholesterol Cortisone Acetate Co
 parent: 僅模型預測 (L5)
-nav_order: 257
+nav_order: 266
 evidence_level: L5
 indication_count: 0
 ---

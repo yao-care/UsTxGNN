@@ -2,7 +2,7 @@
 layout: default
 title: Antimony Trisulfide Bay Leaf Frangula Alnus Bark J
 parent: 僅模型預測 (L5)
-nav_order: 325
+nav_order: 356
 evidence_level: L5
 indication_count: 0
 ---

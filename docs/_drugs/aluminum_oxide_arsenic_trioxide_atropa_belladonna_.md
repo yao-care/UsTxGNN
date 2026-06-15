@@ -2,7 +2,7 @@
 layout: default
 title: Aluminum Oxide Arsenic Trioxide Atropa Belladonna 
 parent: 僅模型預測 (L5)
-nav_order: 274
+nav_order: 288
 evidence_level: L5
 indication_count: 0
 ---

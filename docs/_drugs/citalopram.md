@@ -2,7 +2,7 @@
 layout: default
 title: Citalopram
 parent: 僅模型預測 (L5)
-nav_order: 448
+nav_order: 519
 evidence_level: L5
 indication_count: 5
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Antimony Trisulfide Bos Taurus Pancreas Corallium 
 parent: 僅模型預測 (L5)
-nav_order: 330
+nav_order: 361
 evidence_level: L5
 indication_count: 0
 ---

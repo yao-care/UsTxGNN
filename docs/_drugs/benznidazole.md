@@ -2,7 +2,7 @@
 layout: default
 title: Benznidazole
 parent: 僅模型預測 (L5)
-nav_order: 404
+nav_order: 446
 evidence_level: L5
 indication_count: 3
 ---

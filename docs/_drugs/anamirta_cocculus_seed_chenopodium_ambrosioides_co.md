@@ -2,7 +2,7 @@
 layout: default
 title: Anamirta Cocculus Seed Chenopodium Ambrosioides Co
 parent: 僅模型預測 (L5)
-nav_order: 307
+nav_order: 338
 evidence_level: L5
 indication_count: 0
 ---

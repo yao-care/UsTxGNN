@@ -2,7 +2,7 @@
 layout: default
 title: Arnica Montana Root Artemisia Cina Flower Atropa B
 parent: 僅模型預測 (L5)
-nav_order: 362
+nav_order: 401
 evidence_level: L5
 indication_count: 0
 ---

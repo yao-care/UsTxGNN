@@ -2,7 +2,7 @@
 layout: default
 title: Arnica Montana Whole Arsenic Tribromide Arsenic Tr
 parent: 僅模型預測 (L5)
-nav_order: 370
+nav_order: 409
 evidence_level: L5
 indication_count: 0
 ---

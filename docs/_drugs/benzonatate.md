@@ -2,7 +2,7 @@
 layout: default
 title: Benzonatate
 parent: 僅模型預測 (L5)
-nav_order: 407
+nav_order: 449
 evidence_level: L5
 indication_count: 2
 ---

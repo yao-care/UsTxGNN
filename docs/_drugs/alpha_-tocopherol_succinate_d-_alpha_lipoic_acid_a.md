@@ -2,7 +2,7 @@
 layout: default
 title: Alpha -Tocopherol Succinate D- Alpha Lipoic Acid A
 parent: 僅模型預測 (L5)
-nav_order: 249
+nav_order: 258
 evidence_level: L5
 indication_count: 0
 ---

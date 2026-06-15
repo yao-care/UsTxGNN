@@ -2,7 +2,7 @@
 layout: default
 title: Antimony Trisulfide Berberis Vulgaris Root Bark Br
 parent: 僅模型預測 (L5)
-nav_order: 327
+nav_order: 358
 evidence_level: L5
 indication_count: 0
 ---

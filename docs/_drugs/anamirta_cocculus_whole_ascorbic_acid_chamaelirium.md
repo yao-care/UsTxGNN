@@ -2,7 +2,7 @@
 layout: default
 title: Anamirta Cocculus Whole Ascorbic Acid Chamaelirium
 parent: 僅模型預測 (L5)
-nav_order: 312
+nav_order: 343
 evidence_level: L5
 indication_count: 0
 ---

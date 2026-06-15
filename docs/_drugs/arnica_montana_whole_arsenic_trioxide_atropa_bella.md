@@ -2,7 +2,7 @@
 layout: default
 title: Arnica Montana Whole Arsenic Trioxide Atropa Bella
 parent: 僅模型預測 (L5)
-nav_order: 371
+nav_order: 410
 evidence_level: L5
 indication_count: 0
 ---

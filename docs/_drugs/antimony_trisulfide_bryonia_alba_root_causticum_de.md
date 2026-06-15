@@ -2,7 +2,7 @@
 layout: default
 title: Antimony Trisulfide Bryonia Alba Root Causticum De
 parent: 僅模型預測 (L5)
-nav_order: 331
+nav_order: 362
 evidence_level: L5
 indication_count: 0
 ---

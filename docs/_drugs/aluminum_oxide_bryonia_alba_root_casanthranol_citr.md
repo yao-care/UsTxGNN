@@ -2,7 +2,7 @@
 layout: default
 title: Aluminum Oxide Bryonia Alba Root Casanthranol Citr
 parent: 僅模型預測 (L5)
-nav_order: 280
+nav_order: 294
 evidence_level: L5
 indication_count: 0
 ---

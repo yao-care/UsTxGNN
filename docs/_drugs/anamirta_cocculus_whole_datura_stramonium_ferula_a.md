@@ -2,7 +2,7 @@
 layout: default
 title: Anamirta Cocculus Whole Datura Stramonium Ferula A
 parent: 僅模型預測 (L5)
-nav_order: 313
+nav_order: 344
 evidence_level: L5
 indication_count: 0
 ---

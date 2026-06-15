@@ -2,7 +2,7 @@
 layout: default
 title: Alpha -Tocopherol Apple Cider Vinegar Arsenic Trio
 parent: 僅模型預測 (L5)
-nav_order: 235
+nav_order: 244
 evidence_level: L5
 indication_count: 0
 ---

@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-15",
-  "drug_count": 1459,
-  "indication_count": 1835,
+  "generated": "2026-06-16",
+  "drug_count": 1501,
+  "indication_count": 1860,
   "drugs": [
     {
       "name": "1 2-Distearoyl-Sn-Glycero-3-Phosphocholine Activat",
@@ -6779,6 +6779,200 @@
       "indications": []
     },
     {
+      "name": "Calcitriol",
+      "slug": "calcitriol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Camphor",
+      "slug": "camphor",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Canakinumab",
+      "slug": "canakinumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Hepatic Infarction | 99.86% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Hepatic Veno-Occlusive Disease | 99.82% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Peliosis Hepatis | 99.78% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Syndrome with Combined Immunodeficiency | 99.71% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Extracutaneous Mastocytoma | 99.35% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Monosomy X | 99.31% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Liver Angiosarcoma | 99.30% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Candesartan Cilexetil",
+      "slug": "candesartan_cilexetil",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Cantharidin",
+      "slug": "cantharidin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Capecitabine",
+      "slug": "capecitabine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Capmatinib",
+      "slug": "capmatinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Captopril",
+      "slug": "captopril",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Carbamazepine",
+      "slug": "carbamazepine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Carbinoxamine",
+      "slug": "carbinoxamine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Carboplatin",
+      "slug": "carboplatin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Carboprost Tromethamine",
+      "slug": "carboprost_tromethamine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Atypical Coarctation of Aorta | 99.99% | L5 | Hold | No mechanistic link; structural defect requiring surgery",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Aortic Malformation | 99.98% | L5 | Hold | Structural defect; 1 trial (C-grade, obstetric monitoring only)",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Migraine with Brainstem Aura | 99.97% | L5 | Hold | Cerebral vasospasm risk; no clinical data",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Migraine Disorder | 99.96% | L5 | Hold | COX inhibitors (not agonists) are standard; opposite direction",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Pulmonary Hypertension | 99.93% | L5 | **Hold ⚠️** | **Safety concern: PGF2α causes vasoconstriction—opposite to treatment goal**",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Non-syndromic Esophageal Malformation | 99.92% | L5 | Hold | Congenital structural defect; no mechanistic link",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Kyphoscoliotic Heart Disease | 99.92% | L5 | Hold | Mechanical etiology; bronchospasm AE may worsen respiratory function",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Amenorrhea | 99.89% | L5 | Research Question | Luteolytic/endometrial shedding mechanism has indirect relevance",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Esophageal Disease | 99.83% | L5 | Hold | Broad category; no specific therapeutic rationale",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Carfilzomib",
+      "slug": "carfilzomib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Carisoprodol",
+      "slug": "carisoprodol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Carteolol",
       "slug": "carteolol",
       "brands": [],
@@ -8410,6 +8604,276 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Clofarabine",
+      "slug": "clofarabine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Clomipramine",
+      "slug": "clomipramine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Clonazepam",
+      "slug": "clonazepam",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Clonidine",
+      "slug": "clonidine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Clopidogrel",
+      "slug": "clopidogrel",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Clotrimazole",
+      "slug": "clotrimazole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Clozapine",
+      "slug": "clozapine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Cocaine",
+      "slug": "cocaine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Codeine",
+      "slug": "codeine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Colchicine",
+      "slug": "colchicine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Collagenase Clostridium Histolyticum",
+      "slug": "collagenase_clostridium_histolyticum",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Conestat Alfa",
+      "slug": "conestat_alfa",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Cortisone",
+      "slug": "cortisone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Crizotinib",
+      "slug": "crizotinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Cupric Chloride",
+      "slug": "cupric_chloride",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Cyanocobalamin",
+      "slug": "cyanocobalamin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Cyclobenzaprine",
+      "slug": "cyclobenzaprine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Cyclopentolate",
+      "slug": "cyclopentolate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Cyclophosphamide",
+      "slug": "cyclophosphamide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Cycloserine",
+      "slug": "cycloserine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Cyclosporine",
+      "slug": "cyclosporine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Cyproheptadine",
+      "slug": "cyproheptadine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Cysteamine",
+      "slug": "cysteamine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Cysteine",
+      "slug": "cysteine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Cytarabine",
+      "slug": "cytarabine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Dacarbazine",
+      "slug": "dacarbazine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Dactinomycin",
+      "slug": "dactinomycin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Relapsing-remitting multiple sclerosis | 99.58% | **L5** | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Botryoid-type embryonal RMS of vagina | 99.54% | **L3** | Proceed with Guardrails",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Extrahepatic bile duct rhabdomyosarcoma | 99.49% | **L4** | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Embryonal extrahepatic bile duct RMS | 99.48% | **L5** | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Parameningeal embryonal rhabdomyosarcoma | 99.48% | **L1** ✓ | Proceed with Guardrails",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Prostate embryonal rhabdomyosarcoma | 99.46% | **L3** | Proceed with Guardrails",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Liver sarcoma | 99.42% | **L3** | Proceed with Guardrails",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Upper aerodigestive tract neoplasm | 99.16% | **L4** | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Head and neck cancer | 99.16% | **L3** | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Dalbavancin",
+      "slug": "dalbavancin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "CETUXIMAB",
@@ -44114,6 +44578,17 @@
       ]
     },
     {
+      "name": "Amenorrhea | 99.89% | L5 | Research Question | Luteolytic/endometrial shedding mechanism has indirect relevance",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Carboprost Tromethamine",
+          "slug": "carboprost_tromethamine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Ammonium cation | Inorganic ion",
       "drug_count": 1,
       "drugs": [
@@ -44186,6 +44661,17 @@
         {
           "drug": "Calaspargase Pegol",
           "slug": "calaspargase_pegol",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Aortic Malformation | 99.98% | L5 | Hold | Structural defect; 1 trial (C-grade, obstetric monitoring only)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Carboprost Tromethamine",
+          "slug": "carboprost_tromethamine",
           "score": 99.0
         }
       ]
@@ -44395,6 +44881,17 @@
         {
           "drug": "Activated Charcoal Apis Mellifera Arsenic Trioxide",
           "slug": "activated_charcoal_apis_mellifera_arsenic_trioxide",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Atypical Coarctation of Aorta | 99.99% | L5 | Hold | No mechanistic link; structural defect requiring surgery",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Carboprost Tromethamine",
+          "slug": "carboprost_tromethamine",
           "score": 99.0
         }
       ]
@@ -44650,6 +45147,17 @@
         {
           "drug": "2-Mercaptoethanol Borosilicate Glass Carbon Monoxi",
           "slug": "2-mercaptoethanol_borosilicate_glass_carbon_monoxi",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Botryoid-type embryonal RMS of vagina | 99.54% | **L3** | Proceed with Guardrails",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Dactinomycin",
+          "slug": "dactinomycin",
           "score": 99.0
         }
       ]
@@ -45542,6 +46050,17 @@
       ]
     },
     {
+      "name": "Embryonal extrahepatic bile duct RMS | 99.48% | **L5** | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Dactinomycin",
+          "slug": "dactinomycin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Epstein-Barr virus-positive diffuse large B-cell lymphoma of the elderly | TxGNN Knowledge Graph",
       "drug_count": 6,
       "drugs": [
@@ -45626,6 +46145,17 @@
       ]
     },
     {
+      "name": "Esophageal Disease | 99.83% | L5 | Hold | Broad category; no specific therapeutic rationale",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Carboprost Tromethamine",
+          "slug": "carboprost_tromethamine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Estrone | Endogenous estrogen",
       "drug_count": 1,
       "drugs": [
@@ -45665,6 +46195,28 @@
         {
           "drug": "DACTINOMYCIN",
           "slug": "db00970",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Extracutaneous Mastocytoma | 99.35% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Canakinumab",
+          "slug": "canakinumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Extrahepatic bile duct rhabdomyosarcoma | 99.49% | **L4** | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Dactinomycin",
+          "slug": "dactinomycin",
           "score": 99.0
         }
       ]
@@ -46122,12 +46674,45 @@
       ]
     },
     {
+      "name": "Head and neck cancer | 99.16% | **L3** | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Dactinomycin",
+          "slug": "dactinomycin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Heparin cofactor 2 deficiency | 99.24% | Mechanism direction reversed — asparaginase suppresses HCII synthesis, worsening not treating HCII deficiency",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Calaspargase Pegol",
           "slug": "calaspargase_pegol",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Hepatic Infarction | 99.86% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Canakinumab",
+          "slug": "canakinumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Hepatic Veno-Occlusive Disease | 99.82% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Canakinumab",
+          "slug": "canakinumab",
           "score": 99.0
         }
       ]
@@ -46751,6 +47336,17 @@
       ]
     },
     {
+      "name": "Kyphoscoliotic Heart Disease | 99.92% | L5 | Hold | Mechanical etiology; bronchospasm AE may worsen respiratory function",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Carboprost Tromethamine",
+          "slug": "carboprost_tromethamine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Lachesis Muta Venom | Snake venom / Homeopathic",
       "drug_count": 1,
       "drugs": [
@@ -46974,6 +47570,28 @@
       ]
     },
     {
+      "name": "Liver Angiosarcoma | 99.30% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Canakinumab",
+          "slug": "canakinumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Liver sarcoma | 99.42% | **L3** | Proceed with Guardrails",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Dactinomycin",
+          "slug": "dactinomycin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Lung occult squamous cell carcinoma | 99.99% | L4 | Research Question",
       "drug_count": 1,
       "drugs": [
@@ -47155,6 +47773,28 @@
       ]
     },
     {
+      "name": "Migraine Disorder | 99.96% | L5 | Hold | COX inhibitors (not agonists) are standard; opposite direction",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Carboprost Tromethamine",
+          "slug": "carboprost_tromethamine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Migraine with Brainstem Aura | 99.97% | L5 | Hold | Cerebral vasospasm risk; no clinical data",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Carboprost Tromethamine",
+          "slug": "carboprost_tromethamine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Mills syndrome",
       "drug_count": 2,
       "drugs": [
@@ -47167,6 +47807,17 @@
           "drug": "Avapritinib",
           "slug": "avapritinib",
           "score": 99.89
+        }
+      ]
+    },
+    {
+      "name": "Monosomy X | 99.31% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Canakinumab",
+          "slug": "canakinumab",
+          "score": 99.0
         }
       ]
     },
@@ -47322,6 +47973,17 @@
       ]
     },
     {
+      "name": "Non-syndromic Esophageal Malformation | 99.92% | L5 | Hold | Congenital structural defect; no mechanistic link",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Carboprost Tromethamine",
+          "slug": "carboprost_tromethamine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Norwegian scabies | TxGNN Knowledge Graph",
       "drug_count": 3,
       "drugs": [
@@ -47448,6 +48110,17 @@
         {
           "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aluminum Oxide",
           "slug": "2_3_7_8-tetrachlorodibenzo-p-dioxin_aluminum_oxide",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Parameningeal embryonal rhabdomyosarcoma | 99.48% | **L1** ✓ | Proceed with Guardrails",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Dactinomycin",
+          "slug": "dactinomycin",
           "score": 99.0
         }
       ]
@@ -47584,6 +48257,17 @@
         {
           "drug": "PYRETHRUM EXTRACT",
           "slug": "db11087",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Peliosis Hepatis | 99.78% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Canakinumab",
+          "slug": "canakinumab",
           "score": 99.0
         }
       ]
@@ -48014,6 +48698,17 @@
       ]
     },
     {
+      "name": "Prostate embryonal rhabdomyosarcoma | 99.46% | **L3** | Proceed with Guardrails",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Dactinomycin",
+          "slug": "dactinomycin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Proteus vulgaris | Homeopathic nosode (bacteria)",
       "drug_count": 1,
       "drugs": [
@@ -48099,6 +48794,17 @@
         {
           "drug": "Bleomycin",
           "slug": "bleomycin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Pulmonary Hypertension | 99.93% | L5 | **Hold ⚠️** | **Safety concern: PGF2α causes vasoconstriction—opposite to treatment goal**",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Carboprost Tromethamine",
+          "slug": "carboprost_tromethamine",
           "score": 99.0
         }
       ]
@@ -48240,6 +48946,17 @@
         {
           "drug": "Bismuth Subsalicylate",
           "slug": "bismuth_subsalicylate",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Relapsing-remitting multiple sclerosis | 99.58% | **L5** | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Dactinomycin",
+          "slug": "dactinomycin",
           "score": 99.0
         }
       ]
@@ -48694,6 +49411,17 @@
       ]
     },
     {
+      "name": "Syndrome with Combined Immunodeficiency | 99.71% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Canakinumab",
+          "slug": "canakinumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "T-cell leukemia | TxGNN Knowledge Graph",
       "drug_count": 1,
       "drugs": [
@@ -48943,6 +49671,17 @@
         {
           "drug": "Axitinib",
           "slug": "axitinib",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Upper aerodigestive tract neoplasm | 99.16% | **L4** | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Dactinomycin",
+          "slug": "dactinomycin",
           "score": 99.0
         }
       ]

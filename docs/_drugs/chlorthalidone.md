@@ -2,7 +2,7 @@
 layout: default
 title: Chlorthalidone
 parent: 僅模型預測 (L5)
-nav_order: 511
+nav_order: 524
 evidence_level: L5
 indication_count: 10
 ---

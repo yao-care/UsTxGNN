@@ -2,7 +2,7 @@
 layout: default
 title: Ceritinib
 parent: 僅模型預測 (L5)
-nav_order: 500
+nav_order: 513
 evidence_level: L5
 indication_count: 10
 ---

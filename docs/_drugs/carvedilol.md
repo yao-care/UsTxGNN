@@ -2,7 +2,7 @@
 layout: default
 title: Carvedilol
 parent: 僅模型預測 (L5)
-nav_order: 489
+nav_order: 502
 evidence_level: L5
 indication_count: 5
 ---

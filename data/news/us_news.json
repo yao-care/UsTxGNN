@@ -1,27 +1,39 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-06-19T15:25:53.419609+00:00",
-  "total_fetched": 124,
-  "unique_count": 124,
-  "health_related_count": 70,
+  "fetched_at": "2026-06-19T19:52:36.286161+00:00",
+  "total_fetched": 120,
+  "unique_count": 120,
+  "health_related_count": 67,
   "news": [
     {
-      "id": "1d4a41f2cd95",
-      "title": "New research links prenatal exposure to Pfas to later development of PMOS - The Guardian",
-      "published": "2026-06-19T15:07:00+00:00",
-      "summary": "New research links prenatal exposure to Pfas to later development of PMOS&nbsp;&nbsp;The Guardian",
+      "id": "d4d544c0ceac",
+      "title": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda - World Health Organization (WHO)",
+      "published": "2026-06-19T17:03:53+00:00",
+      "summary": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda&nbsp;&nbsp;World Health Organization (WHO)At least 30 deaths at Congo camp show Ebola could be spreading fast&nbsp;&nbsp;ReutersMore than 70 medics infected with Ebola as DRC outbreak spreads ‘fast’&nbsp;&nbsp;Al JazeeraEbola cases increase almost 40% in a week as death toll passes 200&nbsp;&nbsp;AP NewsDRC’s Ebola outbreak may be worst ever, Africa CDC says&nbsp;&nbsp;CNN",
       "sources": [
         {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTJlNkJWM2pvWlZFQzVXNlpTRjBuNkxmZ2pZbklQdnBReWxTZDU2UzBzcDFveGkwNGptQVlhS0U5dVpOZlFxWjJFczQ1UzNBMXZIdE5ydkFOdFFqTURzdklfRjZBZkd0blUwaG1mdjZvczhIOHV3bmZ1U05qa0dRMDFqWnVDZzZyZ3FyWDF4ektrdkwxQzlYc1dVNjFvUQ?oc=5"
+          "name": "World Health Organization (WHO)",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5Umw2eGtldzBPRTNuc18xQmpoYjVuVk12NHdwVVFIbUlTRG0wdDkzc2VxbndsME5fdUZQYjVUbi1DOGhSZW53ZzFkbF9NcHhBX0FpZmxQdFFYejJiYnBhZVF1dlhtalNia2g2ZV81QS1DeEZvcFE3OGF3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2e1b329b3907",
+      "title": "Guest Column | Facing cancer, I now understand the hidden lesson in my father’s final days - The Washington Post",
+      "published": "2026-06-19T16:00:00+00:00",
+      "summary": "Guest Column | Facing cancer, I now understand the hidden lesson in my father’s final days&nbsp;&nbsp;The Washington Post",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWTVlZmE2X3FfeDQ2ME1waERLWVNpV05Bb0pzcDBrZ3F6QlN6R2FsQjdjVUpMbm80SjQtRGQwdTROaGZ1cXlvcFc2N0FaVHp6TzROX3FydkhXVXo4NjNHSDFfcy1OQXcxNUhUcTA4WDVNYlprVVVTSjNMVnYxcmY3TEhYUEZpdENrX1c4YnJoWFBOcmhvWTE2aFVnYUdZWUJ5bzRHZ0QyVEt4cXI2eDdPNl9rSTlza0R6akVabktCNFJkdw?oc=5"
         }
       ]
     },
     {
       "id": "2c6bccf00a0b",
       "title": "Ebola in DR Congo: Six-year-old 'doing well' after armed men took her from hospital - BBC",
-      "published": "2026-06-19T14:10:00+00:00",
-      "summary": "Ebola in DR Congo: Six-year-old 'doing well' after armed men took her from hospital&nbsp;&nbsp;BBCArmed attackers remove Ebola patients from DRC clinic&nbsp;&nbsp;The NightlySix year-old, mother abducted from Ebola facility as transmission fears grow&nbsp;&nbsp;AnewZWhy Ebola Centers Are Under Attack&nbsp;&nbsp;SubstackSix-Year-Old Ebola Patient Found Safe After Hospital Abduction&nbsp;&nbsp;Oz Arab Media",
+      "published": "2026-06-19T14:45:57+00:00",
+      "summary": "Ebola in DR Congo: Six-year-old 'doing well' after armed men took her from hospital&nbsp;&nbsp;BBCSix-Year-Old Ebola Patient Found Safe After Hospital Abduction&nbsp;&nbsp;Oz Arab MediaArmed attackers remove Ebola patients from DRC clinic&nbsp;&nbsp;The NightlyWhy Ebola Centers Are Under Attack&nbsp;&nbsp;SubstackSix year-old, mother abducted from Ebola facility as transmission fears grow&nbsp;&nbsp;AnewZ",
       "sources": [
         {
           "name": "BBC",
@@ -30,14 +42,38 @@
       ]
     },
     {
-      "id": "0695ee679451",
-      "title": "Tick season is getting worse. Can managing deer help? - NPR",
-      "published": "2026-06-19T13:00:00+00:00",
-      "summary": "Tick season is getting worse. Can managing deer help?&nbsp;&nbsp;NPRTicks are spreading Lyme disease across America, but we can beat them. Here’s how.&nbsp;&nbsp;vox.com‘It is serious’: Tick-borne diseases surging nationwide&nbsp;&nbsp;WALBBrown: Ticks are on the rise in Minnesota ― and so are the diseases they carry&nbsp;&nbsp;Star TribuneER visits for tick bites are on the rise. How to avoid them & what to do if you find one on you&nbsp;&nbsp;News4JAX",
+      "id": "b9a121a9b15d",
+      "title": "These Award-Winning Science Photos Capture the Beauty—and Weirdness—of Research - Gizmodo",
+      "published": "2026-06-19T13:30:42+00:00",
+      "summary": "These Award-Winning Science Photos Capture the Beauty—and Weirdness—of Research&nbsp;&nbsp;GizmodoThis shot of conservationists soaring the skies with a flock of endangered birds just won a science photo competition&nbsp;&nbsp;Digital Camera World",
       "sources": [
         {
-          "name": "NPR",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrS0l4OG9GQXVUdE5icEU2UDVaTEdMdU9PSFowNzBlc0tXN3FnenJta296c0g2eGhNUnhRQnJWazU3S1NZcWx2NGU1c242ZGhVS3Byd3ZsendidkNfT1FQSHdPWWp6N214dVhqbWRXOThoVUdFRGEtdzVWb25BZw?oc=5"
+          "name": "Gizmodo",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT094cGVmNkVTRUs0amhvSXhZcnUtYmhyTVZ3TnZfeXJrM0VDQVNSOHNqSWs3bnhqalBDQkVhdXBSWVFBcG5KR202YXF0bTc4Snl4UHBDdi1iNHhoRXllWDBxeThHM3UxUUJ5NFZJVmhOQ2NhQURsUTFzSWZNN2l2YUpQNXoxam1PcFUxaVl6MXRZRXduRWxmblBWeXUwWndBWW14NkNlQmtZS3dGRlIw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "49f260b872e2",
+      "title": "‘Ghost fat’ is a surprising side effect of injectable weight-loss drugs - FOX4KC.com",
+      "published": "2026-06-19T12:51:59+00:00",
+      "summary": "‘Ghost fat’ is a surprising side effect of injectable weight-loss drugs&nbsp;&nbsp;FOX4KC.comSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "FOX4KC.com",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORndGMDZRemk1Ylk3OGlDRWhPNEFEUGhHMDFDUGpyd1AwU1FVQ2VpZGdNdl92THRaWnd1WlVHZmM4clI5aGh5YWl6cUk0LXZMREtCd3dtWnpZODRsb1psZDZXeW5tTDQxSWNSNzdfWW9fTU4xVVpxUElSN3JLX1hGNVVfSUY1TDZ4UmgyZTNXMEFwd0Y5ODVYZVBlY1pLM0YwMUxlak9B0gGrAUFVX3lxTE1TRThXYlIwSE11ZVJXX3E0YmVBcTZUU3VfSlM5Wjg2QjBoeUlSNXRJTlQwcjFxMjkwSHU0Sk40TVRUamZzSE5sYjk3U28tcXFab3FkUXItaWFXcGdRbTZaVnhaUXpvNE5hS2Y3VEhkUWV3bDduNzQwekJwWmZraUtsSzRjQWZuS1dRcGRfamVmbWJqSkozNDU3SXhrVUVaU1lRMzhodFFRQ1dudw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "29d333b1513f",
+      "title": "Legionnaires’ disease outbreak in Philadelphia in 1976 was mysterious and deadly – 50 years later, scientists know the cause but outbreaks continue - The Conversation",
+      "published": "2026-06-19T12:10:52+00:00",
+      "summary": "Legionnaires’ disease outbreak in Philadelphia in 1976 was mysterious and deadly – 50 years later, scientists know the cause but outbreaks continue&nbsp;&nbsp;The ConversationSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "The Conversation",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQMGdGaXRELTRyVG1qdFhFVGF2a1B3Q1lKTGlzVUlsQUNfVTFmQjVXSzJJYXFYY1ZCUDlLUTVnRkx1REhLbm5yZlFZcG1CZlBlcmg3VnVvSkpUTXVwSmhPSko2UnFxSHhnc2hHZW1tU0FfSmsyNnc0akpfQ3F4eXl4WU9OWnlVSlpYcjRRN2hVY1JkSHdXTTdaOW5ubjB3WTBscVpJNWcxNTBLV2F1eVNneVBZeHpKaWxrRHBFVmdBdnZHT00tRC1nR3RFQktvN2dJRm8wMFFRZVZvXzh0cDRKYno3Z251NVpFeklVUEc3ekdpajVCRXV4UGVnUWVQc3l4OVFXbVBkOFctZw?oc=5"
         }
       ]
     },
@@ -57,7 +93,7 @@
       "id": "949ac7777173",
       "title": "Could the HPV vaccine eliminate cervical cancer deaths? - Al Jazeera",
       "published": "2026-06-19T11:50:55+00:00",
-      "summary": "Could the HPV vaccine eliminate cervical cancer deaths?&nbsp;&nbsp;Al JazeeraYoung women now have 'close to zero' risk of cervical cancer death after HPV jab&nbsp;&nbsp;BBCCervical cancer deaths for vaccinated young women fall to zero in England: study&nbsp;&nbsp;CTV NewsHPV jabs cut risk of dying from cervical cancer before 30 to almost zero&nbsp;&nbsp;The GuardianCervical cancer deaths have plummeted thanks to HPV vaccine&nbsp;&nbsp;New Scientist",
+      "summary": "Could the HPV vaccine eliminate cervical cancer deaths?&nbsp;&nbsp;Al JazeeraHPV jab success boosting Sunderland cervical cancer charity&nbsp;&nbsp;BBCCervical cancer deaths for vaccinated young women fall to zero in England: study&nbsp;&nbsp;CTV NewsHPV jabs cut risk of dying from cervical cancer before 30 to almost zero&nbsp;&nbsp;The GuardianCervical cancer deaths have plummeted thanks to HPV vaccine&nbsp;&nbsp;New Scientist",
       "sources": [
         {
           "name": "Al Jazeera",
@@ -78,14 +114,38 @@
       ]
     },
     {
+      "id": "fbca8348727f",
+      "title": "Over-reliance on chatbots can diminish critical-thinking skills, study finds - The Guardian",
+      "published": "2026-06-19T11:02:00+00:00",
+      "summary": "Over-reliance on chatbots can diminish critical-thinking skills, study finds&nbsp;&nbsp;The Guardian",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeHhKeUpCUG1Zc2NBQUFVMHR5b0VTUmNRazBrX3h5ZGl2WkhiM21CZ3hqS053Y2pSanpfRWNFc1cydUZvRE12WkxPVFc1VjRoUnFHUHMyQ2RsZXBWQkNaMkFtVDJPZ0dEcG9Qd3B5UlNqdVMycGt4bGg2endwM29oaW9ucmphQmtR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9ceeb23939b8",
       "title": "A Signal of Future Alzheimer's May Be Hidden in Your Eyes - ScienceAlert",
       "published": "2026-06-19T11:01:34+00:00",
-      "summary": "A Signal of Future Alzheimer's May Be Hidden in Your Eyes&nbsp;&nbsp;ScienceAlertMulti-omic analysis of deep learning-derived phenotypes links ophthalmic imaging to cardiovascular and neurological traits&nbsp;&nbsp;NatureYour eyes could be predicting health problems long before you feel them&nbsp;&nbsp;The Times of IndiaRetinal photographs may reveal early Alzheimer's disease risk&nbsp;&nbsp;News-MedicalOCT-A Biomarkers Point to Early Changes in Alzheimer Disease, Cognitive Decline&nbsp;&nbsp;Op",
+      "summary": "A Signal of Future Alzheimer's May Be Hidden in Your Eyes&nbsp;&nbsp;ScienceAlertMulti-omic analysis of deep learning-derived phenotypes links ophthalmic imaging to cardiovascular and neurological traits&nbsp;&nbsp;NatureYour eyes could be predicting health problems long before you feel them&nbsp;&nbsp;The Times of IndiaAn Eye Test For Dementia? The Cheap, Routine Photo Predicting Alzheimer’s Early&nbsp;&nbsp;HuffPost UKOCT-A Biomarkers Point to Early Changes in Alzheimer Disease, Cognitive Decl",
       "sources": [
         {
           "name": "ScienceAlert",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOURSdkhvanFEUk5ucUlFazdwQnBIMUk4aXlrRE9ucV9MbUo2bGZBOGw1OVVvbzh5OHdoUm9rbk1yZmxnWWVWUXktX1oxNDZRNGtUeE1CYm93THNjakxCcm92cnNBNjY5bEgxX2pkbUtlNi0wSTVCSTlFazF0T0UtczZYZ0J3Y0VnUHg4dDItWE1WcEx3bTZ5VGZEMS03M1pMZnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e1e5a95314eb",
+      "title": "Deep learning reveals antimicrobial peptides within prions - Nature",
+      "published": "2026-06-19T10:50:06+00:00",
+      "summary": "Deep learning reveals antimicrobial peptides within prions&nbsp;&nbsp;NatureAI reveals unexpected source of antibiotic candidates in prion proteins&nbsp;&nbsp;Phys.orgAI tool could speed antibiotic development&nbsp;&nbsp;National Institutes of Health (.gov)Penn researchers develop predictive AI model for antibiotic discovery&nbsp;&nbsp;The Daily PennsylvanianAI Reveals Unexpected Source of Antibiotic Candidates in Prion Proteins | Newswise&nbsp;&nbsp;Newswise",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16UEJSZjhRN0I2aWxTQmhIOU0ybjZPTTlyRzVDTnNUOXliN0V4ZE1XNEs4dU5kbEJETVVjVVRXQmJuY3pKd0UzN0Vra3RxZE9MbDRDaFNyNDBfcmV4VmZN?oc=5"
         }
       ]
     },
@@ -98,6 +158,30 @@
         {
           "name": "New York Post",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOclB4ZHAxeXlrZUdqcFFWNUJuTjNOZThiN3k4d3VWeDdpNHlfd2FmaGFKdk16TmdEenVJbDRDaGdldkhxdmlsX21HOVlXQ3VPakpfZWg1dGNmSXIyQ1BRU09XN0Y5RDg4ZjZUVjczMFR4OHd4OXR2dzFRc0R2Y2VGWXVFUWhqcEcxNEgyRnRzOTN1aER3dkgzTF95WElmdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f41c2db59aaf",
+      "title": "'A completely different story': 300 million-year-old fossils reveal the first vertebrate land dwellers weren't what we thought, researchers claim - Live Science",
+      "published": "2026-06-19T10:26:37+00:00",
+      "summary": "'A completely different story': 300 million-year-old fossils reveal the first vertebrate land dwellers weren't what we thought, researchers claim&nbsp;&nbsp;Live ScienceA Vietnam Veteran Collected Fossils for 66 Years. One, Mislabeled 'Baby Lamprey,' Made Paleontologists Reconsider How Vertebrates Moved From Water to Land&nbsp;&nbsp;Smithsonian MagazineA textbook assumption about early land vertebrates may be wrong&nbsp;&nbsp;Science NewsFossilized babies of ancient crocodile-like predators upro",
+      "sources": [
+        {
+          "name": "Live Science",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOUHNRUHUtenhpOG1fVTlmejdQaWtmX0pycnpfOFlWZW9FbWtmaVExenJZdUN4Zl9TOXR4WldjNURpd3Bpa2hjR2VtZmxzT2l0Zk1rRGlfbXZBd0MzVWhoM1BoU2luYkFia3dFaE5MY0hJMXVrM2tZWjlORldQN0hYNUVRbWt1NUxnX0EyUlNjNzBwN1V1WlBIV2YzZDR1cV9ha25leFRiZFlpXzdDNEt6MUt1UmJ1RVp4RlpUeENSbVFWbmx2V1cxb0l1WHN4OGktZTJzV2dzU1hvS1dFS2pwamVLaGEteEtlSFBLQjJZaUx6TkF1SFo0cVJiR3lEYzNabkVrRloyVnZGVTdLZjRGZ0N0LTlLZWQxVnN0NQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "82e533140fd6",
+      "title": "A traveler with measles passed through LAX. Officials urge caution amid World Cup crowds - Los Angeles Times",
+      "published": "2026-06-19T10:00:00+00:00",
+      "summary": "A traveler with measles passed through LAX. Officials urge caution amid World Cup crowds&nbsp;&nbsp;Los Angeles TimesHealth officials warn about possible measles exposure at LAX, airport hotel&nbsp;&nbsp;KTLAMeasles case detected at SFO days before World Cup start&nbsp;&nbsp;SFGATELos Angeles County confirms sixth measles case of the year&nbsp;&nbsp;CBS NewsPublic Health Confirms Measles Case in LA County -&nbsp;&nbsp;Random Lengths News",
+      "sources": [
+        {
+          "name": "Los Angeles Times",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdG81Q3pCNHZwMV8tWE12Qk8tRUVKZ3JYa243aVpTSFZwSG5wX3pTR0ZwcFg2Mkl2OS1TS1FYdUVXODZ6M3dmRlB1MGtlN2JWNnQteldvUGZpNTdiTWgxRm40ZzYtaEhPQmE2NnlUWmlqd0w1czN1T0FfZUtPMmM1SVBkRml1bHpOYjN5RHFYY3k5OXJPZzJLYW14RDdyWmtwSlB3YmpCbUZMR2ZPVFhrUHk4cw?oc=5"
         }
       ]
     },
@@ -126,26 +210,38 @@
       ]
     },
     {
-      "id": "6dbd13aaa1a7",
-      "title": "‘Ghost fat’ is a surprising side effect of injectable weight-loss drugs - NewsNation",
-      "published": "2026-06-19T06:10:07+00:00",
-      "summary": "‘Ghost fat’ is a surprising side effect of injectable weight-loss drugs&nbsp;&nbsp;NewsNationSee more headlines & perspectives on Google News",
+      "id": "c528afc0acf5",
+      "title": "Thousands of baby seals died on two remote sub-Antarctic islands. Scientists now think they know why - CNN",
+      "published": "2026-06-19T05:40:18+00:00",
+      "summary": "Thousands of baby seals died on two remote sub-Antarctic islands. Scientists now think they know why&nbsp;&nbsp;CNNAustralia, last continent without H5 bird flu, detects first suspected case&nbsp;&nbsp;ReutersMore than 13,000 seal pups die on remote Australian island amid bird flu outbreak&nbsp;&nbsp;The GuardianFirst suspected case of deadly bird flu detected in Australia&nbsp;&nbsp;AFRBird flu kills more than 75% of baby seals on remote Australian island, study finds&nbsp;&nbsp;BBC",
       "sources": [
         {
-          "name": "NewsNation",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DWHF5ZG1VMVR3ZmQ0ZlhLVjg5U212YVRsTlZOQWhqUUFBWlpfbFo4SFJYSFhWLTNTLWtqalY0Vlk2SUZOSjdQRHZmaDBQSEFzZktGSnVOa0JMMXpXdjFiYlpxekwzR0pxdklQMTUtWjVBZnlLSThtT2pR0gF_QVVfeXFMTkpLZ0VhN0R4SXdYeHp4blVPQjY0NjZHTVNvUGVaVUowRVpOaHVINFYzajZVZDJVLXBYQXFjekdJSUg2NFlXRTc2OWk1SV8yaEtqVUNMcU96c29DalZUMFY5cW1pZ0ZoYzMxNzFXaUhvX1RZNktxYTdEMXpfS0NmSQ?oc=5"
+          "name": "CNN",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNl80RWI3YzJiMTU3UDBlWmxuVnhmdXRuWXlhSk9MMnVwaXRYZk9hRFc0QWNZNWhBWjVtNGwxMlFDMzhGdE44Y3ZhV29FVC02eWh3UzEtWVowXzlVZ1JIcUNpLUdGYUdfSmg1UjM0SS03SG5nUG1oY0pVTXk0QzlyeEFMRFVmUFhrSS02OG1ocE1wVVlITXJ5aWRQYnBPSTQyaWc?oc=5"
         }
       ]
     },
     {
-      "id": "a3e1785fc8f5",
-      "title": "Ebola patients flee treatment centres in Congo for food as hunger crisis deepens - The Straits Times",
-      "published": "2026-06-19T05:11:00+00:00",
-      "summary": "Ebola patients flee treatment centres in Congo for food as hunger crisis deepens&nbsp;&nbsp;The Straits TimesAt least 30 deaths at Congo camp show Ebola could be spreading fast&nbsp;&nbsp;ReutersEbola outbreak: 17 medics dead as Chinese medical team arrives in Democratic Republic of Congo&nbsp;&nbsp;Sky NewsDRC’s Ebola outbreak may be worst ever, Africa CDC says&nbsp;&nbsp;CNNEbola cases increase almost 40% in a week as death toll passes 200&nbsp;&nbsp;AP News",
+      "id": "938540e2cfd4",
+      "title": "Student, 18, Who Suffered Severe Burns from a House Fire Recovers After World-First Experimental Treatment - AOL.com",
+      "published": "2026-06-19T04:16:04+00:00",
+      "summary": "Student, 18, Who Suffered Severe Burns from a House Fire Recovers After World-First Experimental Treatment&nbsp;&nbsp;AOL.comSee more headlines & perspectives on Google News",
       "sources": [
         {
-          "name": "The Straits Times",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTXF4MThKQWRWVjdycUwzcUJyXy1samUyMTV5SVd2MnRlYmgzNUs3NUZFUU5HV1oyUDVoZ19iT0lMLWRFcHl1aE9ZQmU4T1lPU2FkbWI5WU03ZTMtTDM1M1BBakVjZ3pUWUlEZEw4TGIteFFQUnh3VktvNGluUkxaM2YzdV9iRFJKRVgxQ3dIdzdsUU9PN244UE1yY25KNTktZFd5a0ttZ242Nm9PaU9uaXQ5cUxUZw?oc=5"
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT0h4TThuX1dlLTEyOXNEQndOOHVjSmVfd3hGNDhvblF2eWlzaXJSaFUxelFpcDVIazZpWkE4RHhadWUxUDZ1dlFsMzM5cGJMLTdSc3RCc1hsUFBNWTMtM2tZczhMSHo5QlZhMDFDb1VyaUozaFQtVXpzcjVLREczNE13?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "767bd1eecaf4",
+      "title": "What if Time Isn’t Fundamental? Physicists Just Tested the Idea in the Lab - SciTechDaily",
+      "published": "2026-06-19T03:20:30+00:00",
+      "summary": "What if Time Isn’t Fundamental? Physicists Just Tested the Idea in the Lab&nbsp;&nbsp;SciTechDailyA Physicist Made a 'Mini Universe' in The Lab to Check Time Really Exists&nbsp;&nbsp;Yahoo090526_mini_uniserse-2 (IMAGE)&nbsp;&nbsp;EurekAlert!Scientist creates 'mini‑universe' to measure time without a clock | Study sheds light on time in quantum physics | Inshorts&nbsp;&nbsp;InshortsBose-Einstein Condensate Evolves Across 44 Cycles Of Recollapse&nbsp;&nbsp;Quantum Zeitgeist",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT0F5NkdhWG13ZDdxVU9zNjliTWZIWG02ejlGTHVIejNWOExLQ0ZwS3dneWVTd1ZDbUFsV1UzNDNOMmVoRFZDZ0VwMXM2YzVwWkM1T2dYMmpNd1pwWEVjWnVIOFlvdkhiMk5ESlp3d0ZfZmRKbHZKRVlSUmNFMmJXYUZNc0RjNUF5dUxubnZSRXJDeVJsY2Rvb0ViMkpsOWM?oc=5"
         }
       ]
     },
@@ -153,7 +249,7 @@
       "id": "74edde49bc31",
       "title": "\"Pink Planet\" is surrounded by salty clouds, researchers using Webb telescope find - CBS News",
       "published": "2026-06-19T01:49:00+00:00",
-      "summary": "\"Pink Planet\" is surrounded by salty clouds, researchers using Webb telescope find&nbsp;&nbsp;CBS News\"Pink Planet\" GJ504b Could Be First World With Clouds Made Of Salt, JWST Data Suggests&nbsp;&nbsp;IFLScienceJames Webb Space Telescope finds a salty surprise on famous 'Pink Planet'&nbsp;&nbsp;SpaceFamous ‘Pink Planet’ harbors a salty surprise&nbsp;&nbsp;Northwestern Now NewsThe Pink Planet is so weird, astronomers struggle to define it. And they've just found it's covered in salty clouds&nbsp;&",
+      "summary": "\"Pink Planet\" is surrounded by salty clouds, researchers using Webb telescope find&nbsp;&nbsp;CBS NewsJames Webb Space Telescope finds a salty surprise on famous 'Pink Planet'&nbsp;&nbsp;SpaceColdest Alien World We Have Ever Photographed Has Skies Full of Salt&nbsp;&nbsp;ScienceBlog.comFamous ‘Pink Planet’ harbors a salty surprise&nbsp;&nbsp;Northwestern Now NewsThe Pink Planet is so weird, astronomers struggle to define it. And they've just found it's covered in salty clouds&nbsp;&nbsp;BBC Sky ",
       "sources": [
         {
           "name": "CBS News",
@@ -165,7 +261,7 @@
       "id": "0583142f3e95",
       "title": "Deadly tick-borne disease that can cause brain damage spreading across the US - FOX Weather",
       "published": "2026-06-19T01:33:00+00:00",
-      "summary": "Deadly tick-borne disease that can cause brain damage spreading across the US&nbsp;&nbsp;FOX WeatherLocal man critically ill after rare tick bite&nbsp;&nbsp;WCVBNew Hampshire man hospitalized for weeks after contracting tick-borne illness&nbsp;&nbsp;WMURConcord NH man hospitalized with rare Powassan disease&nbsp;&nbsp;Concord MonitorMan hospitalized for weeks with tick-borne illness. What is Powassan virus?&nbsp;&nbsp;USA Today",
+      "summary": "Deadly tick-borne disease that can cause brain damage spreading across the US&nbsp;&nbsp;FOX WeatherRare tick-borne virus left New Hampshire man critically ill, \"nonverbal\"&nbsp;&nbsp;CBS NewsLittle-known tick bite disease leaves man nonverbal — what to know about the rising threat&nbsp;&nbsp;New York PostConcord NH man hospitalized with rare Powassan disease&nbsp;&nbsp;Concord MonitorNew Hampshire man hospitalized for weeks after contracting tick-borne illness&nbsp;&nbsp;WMUR",
       "sources": [
         {
           "name": "FOX Weather",
@@ -176,12 +272,24 @@
     {
       "id": "27ff997e0d76",
       "title": "The \"dad bod,\" explained by science - Axios",
-      "published": "2026-06-19T01:24:04+00:00",
+      "published": "2026-06-19T01:29:12+00:00",
       "summary": "The \"dad bod,\" explained by science&nbsp;&nbsp;AxiosOdds & Ends: June 12, 2026&nbsp;&nbsp;The Art of ManlinessThe ‘dad bod’ dilemma&nbsp;&nbsp;University of CaliforniaThe Role of Fathers in the Intergenerational Transmission of Obesity&nbsp;&nbsp;springermedicine.comHow dad’s obesity can pass on metabolic problems to their kids&nbsp;&nbsp;The Star",
       "sources": [
         {
           "name": "Axios",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tMU9GcVZlaThMaWRrT0hVeFRaVG9VdVNVRW9nOW9QR0VZRWdHbTdUMmctSXg5ZEt4c09LRms0bWRKR1BIdk12QlN6czM5dkVZSS1pbjQ5X0pVZkRO?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e3a96c958fe9",
+      "title": "Joint-Pain Supplement Tied to Faster Alzheimer's Progression - Newser",
+      "published": "2026-06-18T23:42:00+00:00",
+      "summary": "Joint-Pain Supplement Tied to Faster Alzheimer's Progression&nbsp;&nbsp;NewserA Popular Joint Pain Supplement May Actually Speed Up Dementia Progression&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness InformationNew research explores possible link between glucosamine supplements and Alzheimer’s&nbsp;&nbsp;WBAYGlucosamine may worsen Alzheimer’s by fueling abnormal brain glycosylation&nbsp;&nbsp;News-MedicalDementia: Joint pain supplement may speed progression&nbsp;&nbsp;Medical News",
+      "sources": [
+        {
+          "name": "Newser",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcFdXU3NIZ1lGLTc5MXlkTW9yTXRkSjJEdTZqTFpja2ZVMUlNQkFLRkVtNTNrbkgxeDN4SjNxYjRiTDItc0EtemVFTW1YWm1Lc0JCZE5pYTRqTHJjU1FhVXV3UWF6WW04VFNtaTJjTmNJMHNLR1I2V1FrbHJZbEFDZW53bGU0alY2Qngxc3pISE1jaVBmVjh5NmxwT0hzVmR6WFE?oc=5"
         }
       ]
     },
@@ -201,7 +309,7 @@
       "id": "3fc8ab424296",
       "title": "Bizarre videos claiming sunburns ‘aren’t dangerous’ are flooding TikTok, study warns - New York Post",
       "published": "2026-06-18T23:27:00+00:00",
-      "summary": "Bizarre videos claiming sunburns ‘aren’t dangerous’ are flooding TikTok, study warns&nbsp;&nbsp;New York PostOn TikTok, sunscreen misinformation goes viral&nbsp;&nbsp;NBC NewsWhy anti-sunscreen content is going viral on TikTok&nbsp;&nbsp;themercury.comTikTok Viewers Love Sunscreen Chemophobia&nbsp;&nbsp;science20.comTikTok videos that criticise sunscreen are minority, but attract disproportionate engagement&nbsp;&nbsp;Science Media Centre España",
+      "summary": "Bizarre videos claiming sunburns ‘aren’t dangerous’ are flooding TikTok, study warns&nbsp;&nbsp;New York PostOn TikTok, sunscreen misinformation goes viral&nbsp;&nbsp;NBC NewsHow toxic masculinity and ‘wellness’ influencers could be giving you skin cancer&nbsp;&nbsp;The IndependentWhy anti-sunscreen content is going viral on TikTok&nbsp;&nbsp;themercury.comWhy Sunscreen Misinformation Gets More Attention on TikTok&nbsp;&nbsp;Healthline",
       "sources": [
         {
           "name": "New York Post",
@@ -225,7 +333,7 @@
       "id": "2a29fcca5b53",
       "title": "What is The Healthiest Type of Olive Oil? The No. 1 Pick with the Most Benefits - TODAY.com",
       "published": "2026-06-18T20:19:00+00:00",
-      "summary": "What is The Healthiest Type of Olive Oil? The No. 1 Pick with the Most Benefits&nbsp;&nbsp;TODAY.comI Tried Daily Olive Oil Shots for Two Weeks: Here’s What I Learned About Its Benefits&nbsp;&nbsp;AOL.comWhy Nuts and Olive Oil Are Doing More for You Than You Think&nbsp;&nbsp;Yahoo‘I Took a Shot of Olive Oil Every Day for 2 Weeks—Here’s My Verdict on if It’s Worth It’&nbsp;&nbsp;Parade",
+      "summary": "What is The Healthiest Type of Olive Oil? The No. 1 Pick with the Most Benefits&nbsp;&nbsp;TODAY.comI Tried Daily Olive Oil Shots for Two Weeks: Here’s What I Learned About Its Benefits&nbsp;&nbsp;AOL.com‘I Took a Shot of Olive Oil Every Day for 2 Weeks—Here’s My Verdict on if It’s Worth It’&nbsp;&nbsp;Parade",
       "sources": [
         {
           "name": "TODAY.com",
@@ -237,11 +345,23 @@
       "id": "c5d7005cea99",
       "title": "Denisovan DNA influences the immune systems of modern Oceanians — but researchers aren't sure why - Live Science",
       "published": "2026-06-18T20:13:56+00:00",
-      "summary": "Denisovan DNA influences the immune systems of modern Oceanians — but researchers aren't sure why&nbsp;&nbsp;Live ScienceStudy finds Denisovan DNA still helping people in South Pacific region fight viruses today&nbsp;&nbsp;YahooPeople on These Pacific Islands Have the Most Ancient Genome of All Humans (and a Lot of Denisovan Genes)&nbsp;&nbsp;ZME ScienceGenomes from Oceania offer new clues to human evolution&nbsp;&nbsp;YaleNewsDenisovan DNA still switches genes on and off in humans&nbsp;&nbsp;Ea",
+      "summary": "Denisovan DNA influences the immune systems of modern Oceanians — but researchers aren't sure why&nbsp;&nbsp;Live ScienceSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "Live Science",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNY3pabFhEUGZ5Y0hlRGRFTG1RbzhWZTNOVXNHRmRDUmJOV3VZcU5CMUdLR3dMR094OW4weFZaM2g5U1RGV2JFYzc3YmstYXFuT1RVNjlaaHlfY3VGUEllMGpkNUFySUM2aEZvOVBpaHVlS1c2ZE8zX2ZxMXFHQWtCS3pMbVF1NnF1cVRnY1J1c2hFTU9xZHg4UE12VEVqZVBJMnFra0xleTlTMm8zSko1MHhNa2VCTXpiNlBaU2ZvSXBlQXJSM1FQMHZnbVktLXZQbXhrOGJPZGN5UkxRay1pc1dMN1c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bc2e1a28b8fe",
+      "title": "Ticks are spreading Lyme disease across America, but we can beat them. Here’s how. - vox.com",
+      "published": "2026-06-18T20:00:00+00:00",
+      "summary": "Ticks are spreading Lyme disease across America, but we can beat them. Here’s how.&nbsp;&nbsp;vox.comTick season is getting worse. Can managing deer help?&nbsp;&nbsp;NPR‘It is serious’: Tick-borne diseases surging nationwide&nbsp;&nbsp;WALBBrown: Ticks are on the rise in Minnesota ― and so are the diseases they carry&nbsp;&nbsp;Star TribuneBeware of ticks as summer activities begin&nbsp;&nbsp;KDRV",
+      "sources": [
+        {
+          "name": "vox.com",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORFlNU00tRjFwdDA3eVByUTFLdDlWU0FBVXBlWVFZNWpXZHdTQXk1N013cVFPemxnMkEyZzFrQURnOHBsVzc4bFNhb0JfYmhuSXNRaTN0X3hCMGJ2TkF2cGpsLTlNZGstdVRLeEVhSGhkYWprUGxGRVJURmU1SHNhTjU4SWQyS3N6UXhUY002UQ?oc=5"
         }
       ]
     },
@@ -261,7 +381,7 @@
       "id": "f2f1bf1ebe1f",
       "title": "Rare Lyme disease-causing strain spreads to new state: What to know - The Hill",
       "published": "2026-06-18T19:49:00+00:00",
-      "summary": "Rare Lyme disease-causing strain spreads to new state: What to know&nbsp;&nbsp;The HillRare Lyme Disease-Causing Bacteria Detected in New York Ticks for the First Time, CDC Reports&nbsp;&nbsp;People.comRare Lyme disease-causing bacteria detected in N.Y. for first time&nbsp;&nbsp;SILive.comRare case of Lyme disease detected in New York&nbsp;&nbsp;WPTZRare and potentially more serious Lyme disease bacteria found in New York ticks&nbsp;&nbsp;The Independent",
+      "summary": "Rare Lyme disease-causing strain spreads to new state: What to know&nbsp;&nbsp;The Hill",
       "sources": [
         {
           "name": "The Hill",
@@ -270,38 +390,26 @@
       ]
     },
     {
-      "id": "17e3e2809e2d",
-      "title": "Fossilized babies of ancient crocodile-like predators uproot understanding of how animals adapted to the land - Phys.org",
-      "published": "2026-06-18T18:00:04+00:00",
-      "summary": "Fossilized babies of ancient crocodile-like predators uproot understanding of how animals adapted to the land&nbsp;&nbsp;Phys.orgA Vietnam Veteran Collected Fossils for 66 Years. One, Mislabeled 'Baby Lamprey,' Made Paleontologists Reconsider How Vertebrates Moved From Water to Land&nbsp;&nbsp;Smithsonian MagazineA textbook assumption about early land vertebrates may be wrong&nbsp;&nbsp;Science NewsA New Fossil Discovery Just Rewrote 150 Years of Evolutionary Theory&nbsp;&nbsp;404 Media'A comple",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWmFseG9ETUlDTDZzXzhjMmJjcFB1LS1vVVZzcV95MlRPZFN1MmtNM2xUc3R3QVN3X0gyTHVwV2szLWpzTzd1TE9BdWNaa28xcXptV3RFVXE5RndUcmd0Tk1jZmVOR1h4b2xXaHFwNXZrR1FnSzRoaGs4RVJ5bkJxcUI2M1MyWFk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fecb3b9eff8a",
-      "title": "A Popular Joint Pain Supplement May Actually Speed Up Dementia Progression - Health: Trusted and Empathetic Health and Wellness Information",
-      "published": "2026-06-18T17:40:29+00:00",
-      "summary": "A Popular Joint Pain Supplement May Actually Speed Up Dementia Progression&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness InformationNew research explores possible link between glucosamine supplements and Alzheimer’s&nbsp;&nbsp;WBAYGlucosamine may worsen Alzheimer’s by fueling abnormal brain glycosylation&nbsp;&nbsp;News-MedicalDementia: Joint pain supplement may speed progression&nbsp;&nbsp;Medical News TodayNatural Products Association Responds to Study on Glucosamine Supplement",
-      "sources": [
-        {
-          "name": "Health: Trusted and Empathetic Health and Wellness Information",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2RE5HYms4eTlFYUFqQkFKeER3LV9fVV9LZDloVXVtMngzekdUYzhuNEE5aUxtdmprNEY1QlBZOGFUUEdsdTNycU5lQjdHRlBwZ2ItLTQydV9aU1VnWWoxV1hkR3RCekxEemprbDlXeUsxUEZvM2I1REpmSmI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c7eb5e3ca4c1",
-      "title": "The supplement industry's dirty secret: Why many supplements fail to deliver results - KSL News",
+      "id": "6d6906768a0c",
+      "title": "The supplement industry's dirty secret: Why many supplements fail to deliver results - KSL.com",
       "published": "2026-06-18T17:31:17+00:00",
-      "summary": "The supplement industry's dirty secret: Why many supplements fail to deliver results&nbsp;&nbsp;KSL News",
+      "summary": "The supplement industry's dirty secret: Why many supplements fail to deliver results&nbsp;&nbsp;KSL.com",
       "sources": [
         {
-          "name": "KSL News",
+          "name": "KSL.com",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcEhpa3pzZ1NjaGoySS0tSTkwRGNLQkhXaHB2bHQ0MXNLNHJWSFRZeVNwajFVTVRkRDZ2b0lFbzRrX2NWLVFWYUwtTFNWLVNheWlINXBQTTdnMUVyb2VvcHFOZ2VqVVlxNGNDNmt2QjdoMC00R3AyanRITE1jZHhoUHVmTFlZSW9jYzFHZm1lTEpEdGZfU2NfdDVfdFpZR1JPX3FQQ0pBdURkdE9YSFRSQm91bUFxZHVkc3NF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e24ee9dd1aa2",
+      "title": "Notes from the Field: Case of Legionnaires Disease ... - Centers for Disease Control and Prevention | CDC (.gov)",
+      "published": "2026-06-18T17:02:29+00:00",
+      "summary": "Notes from the Field: Case of Legionnaires Disease ...&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)",
+      "sources": [
+        {
+          "name": "Centers for Disease Control and Prevention | CDC (.gov)",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1INTJ0ZUx6SHZsV1hEWmx3TkJkYTIwLXhMenpyRk5SaWkwYkhLYllBdmt1VTV3NEN5RnBFSmhGVUZEMy0tY2JPN1VJd0ZxYVRBQ0Y5aTY1ZEI1eVo2NG1FbQ?oc=5"
         }
       ]
     },
@@ -330,6 +438,18 @@
       ]
     },
     {
+      "id": "53e1eb388767",
+      "title": "Could Lowering Inflammation Treat Depression? - The New York Times",
+      "published": "2026-06-18T15:00:04+00:00",
+      "summary": "Could Lowering Inflammation Treat Depression?&nbsp;&nbsp;The New York TimesSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQjFxZk9lbmpsV0poLWM3MXJ6aEYtU05iTlNVcXJVZ3FIU3VIWmFNbEwyaEVWZ0oxeHJwUmlsYlpMT2ppUnJaLXZBaUdZLUFOLWdaTWJBV0dMSlFNX2FtaC1nN0NrYnlERi1QZzRJWHcwMzZOUWhTNDJLRUtNWE9tdjZlcTg2akhMM1lF?oc=5"
+        }
+      ]
+    },
+    {
       "id": "858522cac544",
       "title": "South African scientists make breakthrough in decoding cancer’s most effective survival strategy - The Conversation",
       "published": "2026-06-18T14:38:06+00:00",
@@ -342,22 +462,10 @@
       ]
     },
     {
-      "id": "8b8727762ab4",
-      "title": "What Happens to Your Brain When You Combine Green Tea and Vitamin B3 - Verywell Health",
-      "published": "2026-06-18T14:21:22+00:00",
-      "summary": "What Happens to Your Brain When You Combine Green Tea and Vitamin B3&nbsp;&nbsp;Verywell Health",
-      "sources": [
-        {
-          "name": "Verywell Health",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYd1pxS1lJeUpPSXJkXzNQNFdINTVpdVdybUVCUUR6MzBnNmRBX2RfZVRsSHVWVXYzRlYtQ1IwQ1B5QTRzVGxNUVlFcDVHNmZXbG5hV0s5TlZ3TVlkYzdjT2I1alNkekZEOFZ6ZFI2cDB4WWM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a3c46cdbe8fd",
       "title": "Massive underground structure discovered beneath the Moon’s South Pole-Aitken basin - The Brighter Side of News",
       "published": "2026-06-18T14:07:00+00:00",
-      "summary": "Massive underground structure discovered beneath the Moon’s South Pole-Aitken basin&nbsp;&nbsp;The Brighter Side of NewsSwRI team uncovers clues about what future astronauts may find on the Moon&nbsp;&nbsp;EurekAlert!Scientists Say We Need to Prepare Astronauts for What They May Encounter Inside the Moon’s Oldest and Largest Crater&nbsp;&nbsp;The DebriefNew discovery reveals how the Moon’s largest and oldest crater formed&nbsp;&nbsp;The Brighter Side of News",
+      "summary": "Massive underground structure discovered beneath the Moon’s South Pole-Aitken basin&nbsp;&nbsp;The Brighter Side of NewsSwRI team uncovers clues about what future astronauts may find on the Moon&nbsp;&nbsp;EurekAlert!New discovery reveals how the Moon’s largest and oldest crater formed&nbsp;&nbsp;YahooScientists Say We Need to Prepare Astronauts for What They May Encounter Inside the Moon’s Oldest and Largest Crater&nbsp;&nbsp;The DebriefSPA Basin (IMAGE)&nbsp;&nbsp;EurekAlert!",
       "sources": [
         {
           "name": "The Brighter Side of News",
@@ -369,7 +477,7 @@
       "id": "14f7b67bcf87",
       "title": "AI helped diagnose 18 children whose rare diseases had stumped doctors - NBC News",
       "published": "2026-06-18T14:00:40+00:00",
-      "summary": "AI helped diagnose 18 children whose rare diseases had stumped doctors&nbsp;&nbsp;NBC NewsUsing AI to help physicians diagnose rare genetic diseases affecting children&nbsp;&nbsp;OpenAIAI Reasoning Model Helps Identify Leads for Rare Disease Diagnoses&nbsp;&nbsp;Clinical Lab ProductsDoctors Used AI To Diagnose 18 Kids With Rare Diseases That Puzzled Them&nbsp;&nbsp;iHeart😺 OpenAI found 18 rare diseases&nbsp;&nbsp;The Neuron",
+      "summary": "AI helped diagnose 18 children whose rare diseases had stumped doctors&nbsp;&nbsp;NBC NewsUsing AI to help physicians diagnose rare genetic diseases affecting children&nbsp;&nbsp;OpenAIAI Reasoning Model Helps Identify Leads for Rare Disease Diagnoses&nbsp;&nbsp;Clinical Lab Products😺 OpenAI found 18 rare diseases&nbsp;&nbsp;The NeuronHarvard And Boston Children's Use AI To Revisit Unsolved Genetic Cases&nbsp;&nbsp;Dataconomy",
       "sources": [
         {
           "name": "NBC News",
@@ -402,30 +510,6 @@
       ]
     },
     {
-      "id": "a7fe98a369af",
-      "title": "Dear Doctor: Is there a way to test for plastic particles (i.e., from water bottles) within the body? - OregonLive.com",
-      "published": "2026-06-18T13:00:00+00:00",
-      "summary": "Dear Doctor: Is there a way to test for plastic particles (i.e., from water bottles) within the body?&nbsp;&nbsp;OregonLive.comMicroplastics mapped in living tissue in fine detail for months&nbsp;&nbsp;Medical XpressLaser scans could map build-up of microplastics inside the body&nbsp;&nbsp;The TimesMy husband jokes about my microplastics mania, but it’s no laughing matter&nbsp;&nbsp;The TelegraphUCL photoacoustic imaging maps microplastics in living tissue&nbsp;&nbsp;Optics.org",
-      "sources": [
-        {
-          "name": "OregonLive.com",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORHlxckQ3blljVUFlXzh5dWtuSWM4US1nVm9ScmJJRUtzX2hHdHNYYlJ4WkRfbjhVQmlMTmNMVEpFVThfT1QteUFJa04yN2ZZOThFS0tNaWRXYXBTNnZKcmViMkJLUHp3VW8ydUhlM3ZJMEJ4THNCRW1Wbm1uTlB2bC1ZYlZfYjg4cjVqek1yaGhlUVpWNW9PMUFTeGw1bGJRU1g2WnZzNjQyQzhhYkduME1ET0dDYUl4V2I5RTg4ZUlrR05JYlRQUENMcHJJTjdwVlphdEZZa2nSAewBQVVfeXFMUHZ4VGhVZnE4YV96dDZadWtrSExjQ0xoajlYdHpJUkhEVXBCNS1qNUo5T0k3RzFXRmQwYjRPcDBrRjE4ZnVGaHZwN1lKX2FvUFRXbmg1SlhJN0hYb051emRNN0pfNTFSNzZ2bmNtMGNpQXRqaXhwWUZlYlNOTXdrRW9nY1duc3B3TUlHT3dWVUlmVndieFVzMGk5ZHJhWms4OWlVLXBDanNNQy1yNkNZZlY0OXkyNzBzTkRTV0VmZGFuNzB6T1QyT2xSZWEzbEgyR1BmeldKZHd1SU5Qd3JLS1A4aHhTaHV6ZExzWVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a039a3a21ac0",
-      "title": "Quartz countertops are driving a public health crisis in the US – 2 occupational health experts explain the surge of lung transplants and lawsuits - The Conversation",
-      "published": "2026-06-18T12:35:19+00:00",
-      "summary": "Quartz countertops are driving a public health crisis in the US – 2 occupational health experts explain the surge of lung transplants and lawsuits&nbsp;&nbsp;The ConversationSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "The Conversation",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQeDRYSTdoLXl0R2o4NjE3V19ERHJUZThma3pwZmlmbzN2SmJMN3FISzNjTlFPZGxPdDJVQjBveXQxXzR0QjFsZEJRN1dHYjQ5M2M5dDBXT0E1Z2Uyd1EwNjJvXzBfTDl4ajdwejM0eW9rb2RYZEZ0QThxTHAtdUZVaXlkWG5PTnlxb0dFX0dUNVR5Y0kyWVBTcUtWV3ZHWVRLTUVtMWtyaTFtQTl6dFlNTFM3N19SaHBBM284MWloUWthQlNQZjNDSVVYLWt0ZWhWX0tuRU91a1hOcng4WDRQOHNxODQxbkY1OW5qMGNkR0tnN3o2MG9ZZUlRTXU5enYyTmxJd0I3T2k0Y0k?oc=5"
-        }
-      ]
-    },
-    {
       "id": "01ea5f383e70",
       "title": "4 Things a Cardiologist Never Does Before 9 a.m. for His Own Heart Health - TODAY.com",
       "published": "2026-06-18T12:00:00+00:00",
@@ -434,6 +518,18 @@
         {
           "name": "TODAY.com",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNckVVaHBrc1gySDgyWFZLdldIUkJNRDdQXzI2cEpJMkM3eWoybGhsTWZiTDV1dmpvakxsZkVNWjdkN2o1S1R3UVBKSWF0Z3NuWG5rblE1WHR5YUVaM3VMVHpHRkJHZWlTbnhTaUtrcUNmOVRuX1hYa3AtNENxNWFVdVdiZzgwemtTYWUxT0RiTVk1ZUNCQUtsS1F3S21kUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bb3af55da86e",
+      "title": "Clean eating: why cutting sugar out of your diet might not be as healthy as it sounds – new study - The Conversation",
+      "published": "2026-06-18T11:41:11+00:00",
+      "summary": "Clean eating: why cutting sugar out of your diet might not be as healthy as it sounds – new study&nbsp;&nbsp;The ConversationZero sugar, more problems? Study reveals surprising gut health effects&nbsp;&nbsp;Fox NewsScientists found a surprising problem with sugar-free diets&nbsp;&nbsp;ScienceDailySugar-free, low-fat diet tied to insulin resistance in mouse study&nbsp;&nbsp;Medical News TodayNew study reveals hidden risk of going sugar-free&nbsp;&nbsp;The Independent",
+      "sources": [
+        {
+          "name": "The Conversation",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR0J1d25hS212R1M3YmJCY2NVTXZaclN4Y09fcVlOaEFXMnNhUFIySnJjdlpRYTVpZmRmbTRlcHJoaTRaY2EzclFPLV9ERVR4NDZNVUkzWkdJMzdUa1drT1B6c29DZE5OelB0ZTR1RmZoMWlEWko4VlM1dEE2MGUtdnFweGloZVRkS25abERiRHN2Rm5VdDFvd2tvNlF0UXlBcUxJSDgxRVd6RmhoeG1vdXV1aFJta0tMdnB1UHRHZ0VlTVI1WUNLNg?oc=5"
         }
       ]
     },
@@ -462,18 +558,6 @@
       ]
     },
     {
-      "id": "cf22a8f476dc",
-      "title": "Study ranks these 10 states as the worst for heart disease deaths - KTLA",
-      "published": "2026-06-18T11:17:55+00:00",
-      "summary": "Study ranks these 10 states as the worst for heart disease deaths&nbsp;&nbsp;KTLASee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "KTLA",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8weEl5Tk5zZ2xVZF9SRXN1cjVma0g2TEgxSGlISzFKU0c5Umd3RFctXzJxWHFhM1ZOejhFVDE4SERoTUxSb0Y2dnp0emhxNFdJQXR5VFFWUF83akFvTy1KRl9vTE9XbGhtS0ZDMVk1YVpCcm_SAXhBVV95cUxOTm5oQkQ4UEZXcWpGVUVjYlVVb3BSYTA3cExBWEpxa3JQTkEwbmRjM2lQZ3ptR3FUYXkyUV9FOWJkNFVlNG53cUxQYk9WRG5hYzlFQ3ZqaGVhRVM4Wll1MGd3MHl3SEVKRGFxVlRKM085SEQwdDhDcTM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5507764ab3a0",
       "title": "Hundreds of Mysterious Quakes Have Been Detected Deep Under Antarctica - ScienceAlert",
       "published": "2026-06-18T11:05:41+00:00",
@@ -482,6 +566,18 @@
         {
           "name": "ScienceAlert",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZFVVLWVVeHN6d09oZ1pfNUVYZHRQN0VYclpZczlqRGJIbzQwbE54T1YxczBuRDFvNEZKTDVtMzhSNlUzcTVPR0xfSUFDWGN1cVZCeGhWVmtjckl1V0Npb3Zkc0hpSTNZeHlDWHJVVUxoVjNCNV9OUEtVcENaN0FTODlFblJIYmUzR1hmV2pZWDZJR2lmRzdZeXdVYVI0anBs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1f8cb17ea3b0",
+      "title": "Hidden Damage From Youth May Explode Into Disease Later in Life - SciTechDaily",
+      "published": "2026-06-18T10:47:57+00:00",
+      "summary": "Hidden Damage From Youth May Explode Into Disease Later in Life&nbsp;&nbsp;SciTechDaily",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRVRzS2pqZ3FVQ21VZnJqTVVoSjRXN3ByNnh1MlZRVjZaU3owU2ZfVFlBT3JQZUNBd2JEZlhNTUxpZDF6aVVLOVpaMy1LYlZMa19WZjlXenJUend6ekZuX2xFYnJnREI2VjkxbzVwQ0FRTzNzUEhjanMyVXJ0RTAzejhrWHNNVGhhcDNYajZ5ZFRpNVU?oc=5"
         }
       ]
     },
@@ -513,7 +609,7 @@
       "id": "a3d0446897ba",
       "title": "Prediabetes: 3 lifestyle changes lower chronic disease risk by 21% - Medical News Today",
       "published": "2026-06-18T09:39:48+00:00",
-      "summary": "Prediabetes: 3 lifestyle changes lower chronic disease risk by 21%&nbsp;&nbsp;Medical News TodayPrediabetes diet: How to help prevent progression to diabetes&nbsp;&nbsp;Harvard HealthWinning strategy to prevent diabetes and related chronic diseases&nbsp;&nbsp;NPRFor adults with prediabetes, lifestyle intervention lowered risk of developing multiple chronic conditions&nbsp;&nbsp;National Institutes of Health (.gov)Reversing prediabetes cuts risk of deadly heart problems by 58%&nbsp;&nbsp;ScienceD",
+      "summary": "Prediabetes: 3 lifestyle changes lower chronic disease risk by 21%&nbsp;&nbsp;Medical News TodayTwo simple habits may outperform a popular longevity wonder drug: study&nbsp;&nbsp;AOL.comWinning strategy to prevent diabetes and related chronic diseases&nbsp;&nbsp;NPRPrediabetes diet: How to help prevent progression to diabetes&nbsp;&nbsp;Harvard HealthLong-Term Study Finds Lifestyle Intervention Reduces Risk of Multiple Chronic Diseases in Adults with Prediabetes&nbsp;&nbsp;Milken Institute Schoo",
       "sources": [
         {
           "name": "Medical News Today",
@@ -561,7 +657,7 @@
       "id": "bdc637b9440d",
       "title": "Researchers found 8 common food additives linked to high blood pressure and heart disease - ScienceDaily",
       "published": "2026-06-18T05:24:15+00:00",
-      "summary": "Researchers found 8 common food additives linked to high blood pressure and heart disease&nbsp;&nbsp;ScienceDaily8 Common Food Additives Linked to Heart Disease&nbsp;&nbsp;NewsweekEight Common Food Additives Linked to Heart Disease&nbsp;&nbsp;LabrootsScientists Link 8 Common Food Additives to Heart Disease Risk&nbsp;&nbsp;Gizmodo",
+      "summary": "Researchers found 8 common food additives linked to high blood pressure and heart disease&nbsp;&nbsp;ScienceDailyTackling cardiovascular risks of UPF addressed in recent ESC consensus statement&nbsp;&nbsp;Hospital Healthcare Europe8 Common Food Additives Linked to Heart Disease&nbsp;&nbsp;NewsweekEight Common Food Additives Linked to Heart Disease&nbsp;&nbsp;LabrootsScientists Link 8 Common Food Additives to Heart Disease Risk&nbsp;&nbsp;Gizmodo",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -606,26 +702,14 @@
       ]
     },
     {
-      "id": "7ddc3d2b17b1",
-      "title": "Ozempic and Wegovy linked to drop in violent behavior, study finds - NewsNation",
-      "published": "2026-06-17T23:21:10+00:00",
-      "summary": "Ozempic and Wegovy linked to drop in violent behavior, study finds&nbsp;&nbsp;NewsNationOzempic and Wegovy linked to surprising drop in violent behavior&nbsp;&nbsp;ScienceDailyCan GLP-1 Medications Blunt the Path to Violence?&nbsp;&nbsp;Neuroscience NewsScientists Find Intriguing Link Between Ozempic and Violent Behavior&nbsp;&nbsp;GizmodoThe Latest Ozempic Side Effect? It May Make You Less Violent&nbsp;&nbsp;Forbes",
+      "id": "78a9f84e644a",
+      "title": "A prototype differential atom interferometer for fundamental physics - Nature",
+      "published": "2026-06-17T23:15:24+00:00",
+      "summary": "A prototype differential atom interferometer for fundamental physics&nbsp;&nbsp;NatureQuantum sensor overcomes major obstacle in search for dark matter and gravitational waves&nbsp;&nbsp;Phys.orgImperial-Led AION Develops Quantum Gravitational Wave Hunt&nbsp;&nbsp;Quantum ZeitgeistUK quantum detector breakthrough advances gravitational wave research&nbsp;&nbsp;Innovation News NetworkQuantum Sensor Ambitions: A New Horizon for Utility Innovation&nbsp;&nbsp;POWER Magazine",
       "sources": [
         {
-          "name": "NewsNation",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU1hRQ2hEcTBnT1I5YmRKVG1kQmVua2FGM2JBOURzRDNUVGlXcTNIaFRRblE0RWQzN21JRzVoZjN6bjd0dWZuOUlJSlhFZjY2bGdYQkFVUzBwMTJXSEJsa3VKSVJ2clBpUFZ1dkRiVk90TWdpRHpLbnJ1em1yb01VV1J3WmhIUzDSAYwBQVVfeXFMTV9JM1k0VHlsSUZSTXF0bUU0R0FSLU1XTHhvRXI5a3NBOXVMaDBqR3Z2NkxJR2g4RkhBODJTbTJJY282QjdPUEJaS3pTSFpBY3lsLTluaUNwZVRuLTFWdDZuV2MzNFhiTlRmWDhEYlM5cjJoV3g0Rndjd2hRR3l0R3MtSWNCc0p2ZWRSNW4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2973b2ad8214",
-      "title": "Inside the push to keep RFK Jr.’s vaccine agenda alive - The Washington Post",
-      "published": "2026-06-17T22:16:10+00:00",
-      "summary": "Inside the push to keep RFK Jr.’s vaccine agenda alive&nbsp;&nbsp;The Washington PostHealth Brief: Behind the effort to cement RFK Jr.’s agenda&nbsp;&nbsp;The Washington PostMUST READ: WashPost: ‘Inside the push to keep RFK Jr.’s vaccine agenda alive’&nbsp;&nbsp;Protect Our CareInside the push to keep RFK Jr.'s vaccine agenda alive&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdVRla00yTTFMaTQ2cWF5bGh2Sld4NW9fRnZuTXM4a1pSWWd5bU80WmE4Z3BMeC1sd083MWhMN3N0V19PNG9RYnk2LXdHME9tMWZnWG5BQ1ZFeW5OeXBCOUdYUzVoN3JrYm1XU1FTR2FaMDc2WUktY1I4Y3oya1M4U3FySXJyeFREX1Y1MUpONEpFOGdDaW5MWnFNVQ?oc=5"
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5cXQ2N19lWnRjRHFMSTZpQnhOd1h1MFVfZEkzZlAzTnB4dEI3ck45X2tzNUJFcml6Y1ZfYWV1M3hGWXFERUp0VXNJblRqcDZUN3BtcVpmWm4yeEVKem9j?oc=5"
         }
       ]
     },
@@ -645,11 +729,23 @@
       "id": "a434c2a0d59a",
       "title": "Confined migration induces non-lethal DNA damage in developing neurons - Nature",
       "published": "2026-06-17T22:11:10+00:00",
-      "summary": "Confined migration induces non-lethal DNA damage in developing neurons&nbsp;&nbsp;NatureNewborn neurons routinely break then repair DNA during brain cortex formation, study reveals&nbsp;&nbsp;Medical XpressMigrating Nerve Cells Experience Routine, Repairable DNA Damage&nbsp;&nbsp;Neuroscience NewsConfined Migration Causes DNA Damage in Neurons&nbsp;&nbsp;Bioengineer.org",
+      "summary": "Confined migration induces non-lethal DNA damage in developing neurons&nbsp;&nbsp;NatureDeveloping brain cells routinely repair severe DNA damage during migration&nbsp;&nbsp;News-MedicalConfined Migration Causes DNA Damage in Neurons&nbsp;&nbsp;Bioengineer.orgMigrating Nerve Cells Experience Routine, Repairable DNA Damage&nbsp;&nbsp;Neuroscience News",
       "sources": [
         {
           "name": "Nature",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kZTBoR0lJdDFNWW90bmxJajVBMS1EUzgzZ3VaSW9XX3hiWjhDVENLT05TR3RFT1Z0bkN3dEZydVVYVjQwN1VNWEczaWF6ZEVJWWh5V0xGMk9FRTJPM2o0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d1f3f80abb8c",
+      "title": "Freezing brain damage in its tracks: cooling drugs limit stroke injury in mice - Nature",
+      "published": "2026-06-17T21:50:03+00:00",
+      "summary": "Freezing brain damage in its tracks: cooling drugs limit stroke injury in mice&nbsp;&nbsp;NatureHibernation-like cooling after stroke may reduce brain damage&nbsp;&nbsp;Medical XpressChilling the body with drugs could limit brain damage from stroke&nbsp;&nbsp;New ScientistScientists Put Stroke Patients on Ice—and It Might Protect Their Brains&nbsp;&nbsp;Gizmodo",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vZlhHc2oyWVRhRDJvSC1zeHlYSEt0dzFIQzhPN09fZjBwb3Y5MlltUDExZVVmVXpPZWpqSEJsU2QxQ0RSVk1tZWRUdmVNaTdSbVRzZVhNMDE2N2FUNXFN?oc=5"
         }
       ]
     },
@@ -669,7 +765,7 @@
       "id": "5ad58f0b3c47",
       "title": "Cortical development dynamics across autism spectrum disorder mouse models - Nature",
       "published": "2026-06-17T21:23:42+00:00",
-      "summary": "Cortical development dynamics across autism spectrum disorder mouse models&nbsp;&nbsp;NatureAutism-related genes may share common path during early brain development&nbsp;&nbsp;Medical XpressDecoding Patterns Amid Genetic Chaos&nbsp;&nbsp;Bioengineer.org",
+      "summary": "Cortical development dynamics across autism spectrum disorder mouse models&nbsp;&nbsp;NatureAutism Mutations Converge on Shared Early Brain Pathways&nbsp;&nbsp;Neuroscience NewsCortical Development Dynamics in Autism Models&nbsp;&nbsp;Bioengineer.orgAutism-related genes may share common path during early brain development&nbsp;&nbsp;Medical XpressDecoding Patterns Amid Genetic Chaos&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
           "name": "Nature",
@@ -681,7 +777,7 @@
       "id": "4c9a1d1ce3b3",
       "title": "Trial Drug Could Clear Toxic Alzheimer’s Proteins and Restore Memory - Newsweek",
       "published": "2026-06-17T20:40:00+00:00",
-      "summary": "Trial Drug Could Clear Toxic Alzheimer’s Proteins and Restore Memory&nbsp;&nbsp;NewsweekCopper-containing drug reduces toxic proteins in Alzheimer's, improves cognition, study suggests&nbsp;&nbsp;ETPharma.comResearch authors (IMAGE)&nbsp;&nbsp;EurekAlert!Copper-Based Drug Removes Toxic Brain Proteins&nbsp;&nbsp;YahooAlzheimer’s Research Takes Unexpected Turn Toward Copper&nbsp;&nbsp;StudyFinds",
+      "summary": "Trial Drug Could Clear Toxic Alzheimer’s Proteins and Restore Memory&nbsp;&nbsp;NewsweekCopper drug clears toxic Alzheimer’s proteins and restores memory&nbsp;&nbsp;ScienceDailyThis Copper Drug Clears Alzheimer’s Brain Toxins and Boosts Memory&nbsp;&nbsp;SciTechDailyResearch authors (IMAGE)&nbsp;&nbsp;EurekAlert!Alzheimer’s Research Takes Unexpected Turn Toward Copper&nbsp;&nbsp;StudyFinds",
       "sources": [
         {
           "name": "Newsweek",
@@ -690,14 +786,14 @@
       ]
     },
     {
-      "id": "4b7e0da5e22b",
-      "title": "World-first burn treatment helps Western student recover from injuries suffered in frat house fire - CBC",
-      "published": "2026-06-17T20:03:48+00:00",
-      "summary": "World-first burn treatment helps Western student recover from injuries suffered in frat house fire&nbsp;&nbsp;CBCWorld-first burn treatment with “absolutely remarkable” results performed at leading Canadian hospital&nbsp;&nbsp;Hamilton Health SciencesStudent, 18, Who Suffered Severe Burns from a House Fire Recovers After World-First Experimental Treatment&nbsp;&nbsp;People.comBurn experts treat woman injured during London, Ont. frat house fire using world-first biological treatment&nbsp;&nbsp;CT",
+      "id": "fe4cbb862dad",
+      "title": "Oncologists Urge Women Over 50 to Get Low-Dose CT Scans for Early Cancer Detection - AOL.com",
+      "published": "2026-06-17T20:29:56+00:00",
+      "summary": "Oncologists Urge Women Over 50 to Get Low-Dose CT Scans for Early Cancer Detection&nbsp;&nbsp;AOL.com",
       "sources": [
         {
-          "name": "CBC",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOa2VpYVJRdldIYXBBRTQ5VGc3VTZGRW5vNUhOOFp0SDUwVzhJWk1Ub0M2UHVnUkZpRlFOdExJM0U1dkh0TmsxU2QxQ3p0bm9tSWx1VC02a0YxRVlUVVk4blJSYlFCZGZKaE9iQVJiRlgwLXRrd01nbEF5QU9KN01EU3publRSNTg5ZzJIWnRpNGt5aF9hUEk1bkN2WlBfLTdOOU14c2RuOUgwLTU4eUhTVUlCTFNuazl2Q2kxdjNPR3AxUGs1U3E2Slo5WUlQWjdIX25CVTNDWFNQdDc1NG1N?oc=5"
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOZkxKTzFuXzFiVWJtcnFWbl9wTnppeW1QcDF6SXNFU21fWnQtc3Rxa2FoNGhSck1UbFZPc3pzYTQ2VHBHMmdidmR5bEJfWE45SlN5WktBQmk5X0pZc05uTzJQSmsyVG02d0lGS2pVWC1kdFJyQUZKUjNpTGtCd0k?oc=5"
         }
       ]
     },
@@ -710,138 +806,6 @@
         {
           "name": "Harvard Gazette",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVFF6YzNjYkRScTNFRkxZRXlVWW9ZRU9kWkhidnVYYVJfS0pEQWxWVDZqZnJneWF1Nnp6QjdmdUh4dnl5MkVtVjhGekdwVFVfemJQZ0pJUXgwc3ZTUEhWWGxKMUJmLXdpODJUQWpuaFAtTnNkUmFZR1V6eFBvcWZDQU90SlRpRS15WFN6TVR5X2VFWnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4cc4e6a40062",
-      "title": "Connecticut couple suing Yale New Haven Hospital in sepsis death of 1-year-old following ER visit - WTNH.com",
-      "published": "2026-06-17T18:48:59+00:00",
-      "summary": "Connecticut couple suing Yale New Haven Hospital in sepsis death of 1-year-old following ER visit&nbsp;&nbsp;WTNH.comFairfield Family Sues Yale New Haven Hospital Over Childs Death: Report&nbsp;&nbsp;PatchBoy, 1, 'ignored' by hospital staff sent home after 21 minutes to die in agony&nbsp;&nbsp;The Mirror USCT Parents Sue Yale New Haven Hospital After 1-Year-Old Dies Hours After ER Discharge&nbsp;&nbsp;dailyvoice.com'Drooping' 1-year-old 'rushed through' medical evaluation, sent home less than 25",
-      "sources": [
-        {
-          "name": "WTNH.com",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX0lUSXd4OGtZbVFBTGRZNEw0dzhEUGR2QUozdzNvQmdnV1hUUGlhRF9mdzdVX0tvYVl0LTdIa0VSUEE3SGhSWnpZdFFiVVJRaG5Qa3ZObm1Ea2VRWGpyTUl3ZF9RZ2FKMTdXX3ZKQmR0S2J5NG9vME1pRXBrUDBBa2pGN2Zud1B6MGJUX1hBUklsN0t0UDE2R0RTWXlHV3hlZjYwNnJPSHVlZHczbFpucnAyLTg4YmZxMTFJNFFOZlpDUUtXZXRzVlZ4Rm9LandDbVI0Y0RwOEhNS21GTFEw0gHkAUFVX3lxTE1Kd3YzVjJ3X0xTRWphM3ZNTFJic2pmZWVLSGJ5N0xpTkdiTmpzeDZFQzUwb0RRMzAycmRxU2lmOFNtTWp5TnhFTHZ6VDF1RzFlbnlsSHo1SHl2d0NQYlNyRmVXVEtHLVVQd3RfUnE5eWd3ZEtDaUlvcDI4NEZBS3RvNmlURlRlbDdMNk9HMklMbFJkcm8zVVlKb3h6cTB3a2tBaHJGT1p5cXBibkVIX09vT2pxZVBkdmxmTXZEajdVRmFjRnNXS0dvZTE4UGVZenY4aUdMSDV4TW4yNFdhWFJpaXdnMg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "568c0161bd5a",
-      "title": "Life-threatening meat allergy caused by tick bites is on the rise. Here’s what you should know - WRDW",
-      "published": "2026-06-17T18:06:00+00:00",
-      "summary": "Life-threatening meat allergy caused by tick bites is on the rise. Here’s what you should know&nbsp;&nbsp;WRDWSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "WRDW",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOckEwWTRKb2R3SXN2M213eG1pT05Ha0hfQlhEcVB3cV9iZmZzYUhCMlhYbUQ1Y241QUkwOGFPRzRNOGxiWVlfTzBZa3FscHBXdUpoclhEdFVqNlJXd1RtN0Nrclk1WTNWSlc2SUxOWFR2QUc5dFZaZTQ0VnpFNV9hODh4UTNmSHozSXNpZEk4WDhDNEhBcWFRSXlOemhzTkNjVjR5M0hVVzlsc1BtcUVZU3FISHQ5ME1ISkHSAc4BQVVfeXFMUEdpVEFlNDZsMDBKSDNaSEozNWpJSExqRHF3dTJ3bHZkS2hYeTlIR0pBVUNuN3JmV2RmZVhSNjBITjJiNVZ6LUp0U1ptcFlCVlhEVEtuSnB5ZXRRR2pLTy1GcXd1Y1NvZDFJemRBNEZ0WW5MWGRvX2RSUmRQUl9Ld2JJdVRPTFhFYkxuNVVSWmhzWWdKdlZnUkYyUlZjNHBVbDc0RVZLbXlmMTdxRGo3R196LXY1VHlua2hueWxwWE9xWEJMaHo1Z0llRFVFZ1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d50397c4d391",
-      "title": "NASA’s Fermi Mission Uncovers Possible Sibling Supernova Remnants - NASA Science (.gov)",
-      "published": "2026-06-17T17:15:00+00:00",
-      "summary": "NASA’s Fermi Mission Uncovers Possible Sibling Supernova Remnants&nbsp;&nbsp;NASA Science (.gov)Scientists discover remnants of Jellyfish Nebula’s ‘sibling’ supernova&nbsp;&nbsp;Scientific AmericanResearchers uncover evidence for sibling supernovas&nbsp;&nbsp;Stanford School of Humanities and SciencesScientists discover double supernova remnant&nbsp;&nbsp;Universe Space TechNASA’s Fermi mission reveals rare binary supernova pair&nbsp;&nbsp;MSN",
-      "sources": [
-        {
-          "name": "NASA Science (.gov)",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQW1uZElERHVKZTNXWmtPU0NsSmpteWJ0N3dRanJLZC05bnM4SEJVQy1aYnpsNzBVbFk4M2lEc1I0X3A3aUlEUUswcGhvc3BKRDFkRXBSSnV3NFJsbHFDTVVMVHB1M0thRnppXzdXSl93Rm1IcF93LUhiVzZ2UGFld3FYSFZfQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2550a3a7a283",
-      "title": "Taking A Break? Study Finds Why Many GLP-1 Users Stop And Restart Their Medication - NDTV",
-      "published": "2026-06-17T16:28:01+00:00",
-      "summary": "Taking A Break? Study Finds Why Many GLP-1 Users Stop And Restart Their Medication&nbsp;&nbsp;NDTVCould stopping and restarting GLP-1 drugs have side effects?&nbsp;&nbsp;NewsNationWhy weight regain after GLP-1s isn’t failure—it’s biology (and what you can do about it)&nbsp;&nbsp;Fit&amp;WellA new off-ramp from Ozempic and Wegovy?&nbsp;&nbsp;Longevity.TechnologyMore than half of patients who stop weight-loss drugs restart within a year&nbsp;&nbsp;The Pharmaceutical Journal",
-      "sources": [
-        {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWDNXMGwwNEl3dWUwR0o2TTJRazQzemc0V2xydmtQR0M4cy1oOVhNZ2xjRXBiNFI2eGZ4MkxiVmFWYmtGUEFMWDJsRmNUcHh6b2RnVzdLMllPTkpnWmR0Qldod19qRVZoNWJTV21xeUg2UDkwaFF0OUNpTTg0b1Rtci1NcnlOZklDYU5qRkJWU3huRXFyUTZFd2xhaDE0Y011aUsyM0dNN2YxTzRyRTVCMnJkVHIzTUZqQjRrRHZGZWlOOV91VGRhRlFVSU05WmZKRmfSAdoBQVVfeXFMUFpHSkh4VGpLNkZCaEdKUjV0X0FJaTUxX01IRHN1VGF3RTMzV0ZUcEhNVEpaR3dWNFgtQ01fVmdidjdkUmpwRDN4YU96RmNBZ3FVb2x0d0JOdXJ4b1hJeFV1MF9oWExpNGNoUGJqTzlnb1VLdkRxZEJSUkh4ak9oT056QVdCcTAyX1Frc3dTMFk4dklwcHU1NHpTbktzMTR0Wld1bUpGaXh6QjVKRDhZQ1JIVDQ5eEpCOUN2T2NDdzJBekgyd2plNXl1N0ZTYkFDT2M0NFFLXzUxUVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6c25ea5ef874",
-      "title": "Rare Neanderthal baby remains reveal growth patterns similar to modern humans and signs of metabolic disease - Archaeology News Online Magazine",
-      "published": "2026-06-17T16:26:06+00:00",
-      "summary": "Rare Neanderthal baby remains reveal growth patterns similar to modern humans and signs of metabolic disease&nbsp;&nbsp;Archaeology News Online MagazineBaby fossils reveal link between human and Neanderthal development&nbsp;&nbsp;Phys.orgNeanderthals Grew Very Fast After Birth, But Their Fetal Development Was Similar To That Of Modern Humans&nbsp;&nbsp;IFLScienceNeanderthal Fetus Grew Like a Human Baby, While Children’s Teeth May Show Earliest Metabolic Disease&nbsp;&nbsp;Discover Magazine",
-      "sources": [
-        {
-          "name": "Archaeology News Online Magazine",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQmpQU0c1TTVGejh0dkIwNjhQbkdqVHJfWW02OHJZdmxtZktCQjN5VmhBelVHdmhPMDVrNUo3Mmpjcno2SExfQURlRHRlejB6SkpXTGRERzV0YTY4ZjAtZGlEdEJHamJIR1oyU09yWHU0OEh5SjZmcE9zTXpuc2RsMGNn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1713fd0479fe",
-      "title": "Cockroach genomes are packed with DNA transferred by their endosymbiont bacterial partners - Phys.org",
-      "published": "2026-06-17T16:20:08+00:00",
-      "summary": "Cockroach genomes are packed with DNA transferred by their endosymbiont bacterial partners&nbsp;&nbsp;Phys.org",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMFl0T05HMUlwODU2bV9EOVNKcFN4QnBZdEJfY3VXV0xsZVF0blQ5VmlMaTREb1docXd6R3FZWHh2aWR0UVJWV21LLXhYdGdidkpYbk1hV19ZOXlQOHVSRmZOSDQtTi15dU81SV9SYU43Z29YZndKS2NWQVp4WHd3eDJLSmpqUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2d0d7d22fb53",
-      "title": "Why fermented foods are so good for your gut, and 5 ways to eat more of them - The Washington Post",
-      "published": "2026-06-17T16:00:00+00:00",
-      "summary": "Why fermented foods are so good for your gut, and 5 ways to eat more of them&nbsp;&nbsp;The Washington PostWhy Fermented Foods Are a MUST in 2026&nbsp;&nbsp;Black DoctorThe Surprising Food Linked to Better Energy After 40&nbsp;&nbsp;YahooFermented Foods vs. Fiber-Rich Foods: Which Matters More for Gut Health?&nbsp;&nbsp;EatingWell",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPckRMVXJMVVVsOWxrY3gyU1h4d1FkZXlqRS14TUNWMEU1YmNvR1IwYzBBQXhPN0F3Y21Gc2JWbXJfR0FBQzlheDcyRTdDcUg2SC1qbnhoQmNLR3VTRHZjNks4aGRIVnhmMGxtMnRsa0VwU2trUzM0Um5NeTFDZk5pcHBzUW9FZFQzdHMwZGJzcUNScGIyT3NYZ0JTN2ZDald4WW84d0l0TldIczZha3lSVA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "de652f76f0a8",
-      "title": "Why weight-loss drugs don’t work for some people - The Conversation",
-      "published": "2026-06-17T15:33:11+00:00",
-      "summary": "Why weight-loss drugs don’t work for some people&nbsp;&nbsp;The ConversationLosing weight with a GLP-1? Here's how to preserve your muscle mass.&nbsp;&nbsp;CBS News4 rules to Protect Muscle, Bones, and Brain Health When Using Ozempic&nbsp;&nbsp;ZOEYour GLP-1 medication: Building healthy habits for lasting results&nbsp;&nbsp;East Idaho NewsBeyond GLP-1s: The next chapter of obesity care&nbsp;&nbsp;EurekAlert!",
-      "sources": [
-        {
-          "name": "The Conversation",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZlpfdWxwZm5iN3VldGhyX29CSFRSaksteFRqVGpxV3BMQUh5R3k0QVRKSE1vQUZqemtaXzc2OXRoWWstalp0V2dYcDAxeHlGelo1bGlHM0NmOFpHc082UjBaSXF3ZndFREtkeHgtU1hvVjJIRE9td3Q4aENJMTU1dmxmSjlneUZrdXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7ba858307fe0",
-      "title": "Ariane 6 launches with more powerful boosters: a new record for Europe - European Space Agency",
-      "published": "2026-06-17T15:26:17+00:00",
-      "summary": "Ariane 6 launches with more powerful boosters: a new record for Europe&nbsp;&nbsp;European Space AgencyUpgraded Ariane 6 launches Amazon Leo satellites&nbsp;&nbsp;SpaceNewsEuropean rocket launches record-breaking mission with Amazon internet satellites (video)&nbsp;&nbsp;SpaceAmong the large new rockets Amazon was counting on, only Europe has delivered&nbsp;&nbsp;Ars TechnicaArianespace launches its heaviest payload to date with Amazon Leo flight&nbsp;&nbsp;Spaceflight Now",
-      "sources": [
-        {
-          "name": "European Space Agency",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX3NWWURRZ29IYjZ5c1RveXRUcHVydFMwT1dBS2ZrREQwTGpsMmNuckVsWGN3SzZST2tabEtUeTgxRDF4MDVSYVJpeW1oSk9vSXNwOTdhZ0ZBQllzZVBIWTVnZHdmTXZUR2RKM1BEbGw2LXo5UHpXckNxOXBmeU1zdmxLSTlGaXlVcmVFUnZpRWxPU3RGdndhMW9QNXpLWGpEOEk2N0NOZTFBMnlETUhVSzRwM2VDSU1tdVMzUTUwS3V1cVVLY00tbi1MV1JPQVk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d8418f94e5fe",
-      "title": "'They reliably chose the statistically more favorable option': A crow researcher explains how these winged geniuses process numbers, and what it could reveal about human math smarts - Live Science",
-      "published": "2026-06-17T15:20:27+00:00",
-      "summary": "'They reliably chose the statistically more favorable option': A crow researcher explains how these winged geniuses process numbers, and what it could reveal about human math smarts&nbsp;&nbsp;Live Science",
-      "sources": [
-        {
-          "name": "Live Science",
-          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQcVl4MHJ0cjZ6emtjN0t6RVBLMmloWXU2SWxWTFFUdW9Lcm5GYzRsQ1RyTWpfSWMwMF90ZGl4N1pyNng2YjdUY2V0dWdfWXBENlVvc2Fxa0l2UTdOTmJxeHRGTmpDajJ3YzZGZkRNYUxWWmswTUdveDVfTDV6R3Y3cHpFampPeFpWa1VqVHlQel9rWjExM2hOeE14RTlMSXBqVVhMZl8ydW9fb0tBYndPUFBITjItRnJuU3NEU2phSURZNE42bG55SHhwa3ppanFxZjF2dF9uTWJPNjVLTDlEM2QtMFliWlN3Um8wazF1dnQ0c3FWb2tRdEo0NnhTdTFtUnpsZ1JidGFuaW1CSmFmckNRRDV5M1pYbEdncVRQVUhmd3VhakJWcENYWFhGNHFnU1hOLUxwczB6SklYUFQ5dQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "61d6fde24c62",
-      "title": "Ozempic users may be making a major weight-loss mistake, new study suggests - AOL.com",
-      "published": "2026-06-17T13:30:08+00:00",
-      "summary": "Ozempic users may be making a major weight-loss mistake, new study suggests&nbsp;&nbsp;AOL.comPeople taking GLP-1 weight loss drugs like Ozempic started moving less&nbsp;&nbsp;ScienceDailyPeople on GLP-1 drugs appear to do less physical activity: study - National&nbsp;&nbsp;Global NewsOzempic, Wegovy: Why People Using GLP-1s Are Less Likely to Exercise&nbsp;&nbsp;HealthlineGLP-1 Therapies Silence Spontaneous Physical Activity&nbsp;&nbsp;Neuroscience News",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ET3MtLVBGWU9DbHdUejJQa0Naa09UWWZfYUhpSGlxbFhEMElOX05MU1FiVXJDLTgtcWNGZ2dVYkt6bFphY2hQYk9EZ1BJZXdSNVItSHBjWGhPdlB4TjczaFoyQUNxMFJranN4STB3eVExeXdGVlMzRWRRWlp0QWM?oc=5"
         }
       ]
     }

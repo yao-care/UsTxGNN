@@ -1,10 +1,22 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-06-20T03:58:22.828930+00:00",
-  "total_fetched": 120,
-  "unique_count": 120,
-  "health_related_count": 62,
+  "fetched_at": "2026-06-20T09:20:40.485703+00:00",
+  "total_fetched": 119,
+  "unique_count": 119,
+  "health_related_count": 65,
   "news": [
+    {
+      "id": "d2dc84cd4c4f",
+      "title": "Mourners bury a 6-month-old Ebola victim, marking third orphanage death as Congo outbreak spreads - ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-06-20T00:47:13+00:00",
+      "summary": "Mourners bury a 6-month-old Ebola victim, marking third orphanage death as Congo outbreak spreads&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosTwo babies from Congo orphanage die of Ebola, highlighting risk to children&nbsp;&nbsp;The Detroit NewsMourners bury a 6-month-old Ebola victim in the Congo outbreak’s third orphanage death&nbsp;&nbsp;The Boston GlobeMourners bury a 6-month-old Ebola victim in the Congo outbreak's third orphanage death&nbsp;&nbsp;Northeast Mississippi Daily ",
+      "sources": [
+        {
+          "name": "ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSzlnalFRN2FPQ2FUTmdkSF91dzh0Z04xbmpvd0hnSG9Ta0s1Z1lUblY0Qlh6VHRCZWZhbkpiRmE5Z0R2Qlh5YUJucjlwSzVyRmlaUnU1U3dRc2lrQXdHWmszU09ESUdKZFd5MjI1WWZBakc5ZVlESzJLVGlhRUZESTQ3cG9qYWVuMVdqZjhpWFZUbWo5ZEt3cGhaWVRiaGliSGh4Mnlselk5d9IBrwFBVV95cUxPaTd6YXdrRl95TFY3dm1mY2tCSWVVQlIyb3BZQm5VQTdNbGJRSXBBSENBY05MWTRSblJfbFZfRm85empKMmZQMllLUWYtSktha3RtVURiMHRkWVhkc2RwMmNtS1QtUkZUemJpY2FBeDRwVk90UGJBVDFBaGtodlgxOGh5SEhQdHEybGg1X09EMnBlNTExVERvb1d1UE5DWTQweUVIVjVEZDlNSlpGY2dZ?oc=5"
+        }
+      ]
+    },
     {
       "id": "a075c7cf6458",
       "title": "Measles-infected traveler may have exposed passengers at LAX and nearby hotel, health officials warn - Fox News",
@@ -18,14 +30,62 @@
       ]
     },
     {
+      "id": "14181dc4c016",
+      "title": "Research shows weight-loss drugs may also reduce cancer risk - PBS",
+      "published": "2026-06-19T22:40:36+00:00",
+      "summary": "Research shows weight-loss drugs may also reduce cancer risk&nbsp;&nbsp;PBSShould everyone be on GLP-1s? What the science really tells us about cancer prevention and other benefits&nbsp;&nbsp;CBCOntada Analysis Finds GLP-1 RA Use Linked to Improved Survival in Patients With Cancer&nbsp;&nbsp;AJMCGLP-1 drugs linked to major drop in pancreatic, colorectal cancer risk&nbsp;&nbsp;Medical News TodayASCO 2026 | GLP-1 receptor agonist use linked to lower breast cancer incidence&nbsp;&nbsp;springermedic",
+      "sources": [
+        {
+          "name": "PBS",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOUFLN1kwVWptekFlRWZsMzZKeURJdWt2SXdXU1FuUTUzamRQem9hRXZUOXY2dTJIS3AwV3FMbHlxdVhHczVfc3ZZU0tDVzQxbXVCSFBmTnRTT1pQRXhFaUtXakpPSEZ3ZG12UERxcExXNTlEZEZNT0tOTS1OMWV3R0M0M0JvSkN5OUR5R3dHcE5fTG1ZWWRoX2FR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ad78e480af98",
       "title": "A new study rewrites the history of the plague - NPR",
       "published": "2026-06-19T21:03:04+00:00",
-      "summary": "A new study rewrites the history of the plague&nbsp;&nbsp;NPRLethal plague outbreaks in Lake Baikal hunter-gatherers 5,500 years ago&nbsp;&nbsp;NatureA Deadly Outbreak of Plague, Nearly 5,000 Years Before the Black Death&nbsp;&nbsp;The New York TimesAncient DNA is rewriting the history of plague&nbsp;&nbsp;The EconomistAncient teeth from Siberia rewrite the plague’s timeline, dating back to over 5,500 years ago&nbsp;&nbsp;AP News",
+      "summary": "A new study rewrites the history of the plague&nbsp;&nbsp;NPRA Deadly Outbreak of Plague, Nearly 5,000 Years Before the Black Death&nbsp;&nbsp;The New York TimesAncient teeth from Siberia rewrite the plague’s timeline, dating back to over 5,500 years ago&nbsp;&nbsp;AP NewsAncient DNA is rewriting the history of plague&nbsp;&nbsp;The EconomistLethal plague outbreaks in Lake Baikal hunter-gatherers 5,500 years ago&nbsp;&nbsp;Nature",
       "sources": [
         {
           "name": "NPR",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWUliOVhmSUN4eDlKTVVHWnJTZHBZRkNLNTBZZkZJdE1rcjVNVnhpWDFTRTNXeDhGT0I4RU1RXzBMdjJJRExGNTdUbzM5SEFxWWdzREgxRWdyS0lHWmtPY2Myc3Q3ZlR5VG5mN3pWX2dNcTUtTFB2OW96ekpMRHhvcEY0THlHOS1ZMEFPdU54NEcwZjdWOXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6217892ca9fc",
+      "title": "Cockroaches Have Been Hiding a DNA Secret For Millions of Years - ScienceAlert",
+      "published": "2026-06-19T20:05:52+00:00",
+      "summary": "Cockroaches Have Been Hiding a DNA Secret For Millions of Years&nbsp;&nbsp;ScienceAlertCockroach genomes are packed with DNA transferred by their endosymbiont bacterial partners&nbsp;&nbsp;Phys.orgCockroaches scurry around with thousands of pieces of bacterial genomes&nbsp;&nbsp;Ars TechnicaCockroaches aren't just cockroaches: Their DNA contains traces of a 150-million-year-old bacterial partner&nbsp;&nbsp;The Times of India",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ19pVEV2MmQ1a1ZmRldqV1g2QTNZYko5bFdwZzMtQ2NkUjZid0NIb0hxUldNcy1zR2FkWUpYdTAwd0d4R2FFTHlPd2N6bFRZSFkwRkp4QmZuYjFjZWdIZFc1LVNuRG1RLXAxRlZpbTFvUFhiVFdoVHZlX1FlUktjaHlmbU5nZWw2RUd1elNpcUE4c0V4WlB3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2ebb307b8dd2",
+      "title": "The Sun may not engulf Earth after all, scientists say - Phys.org",
+      "published": "2026-06-19T19:40:02+00:00",
+      "summary": "The Sun may not engulf Earth after all, scientists say&nbsp;&nbsp;Phys.orgComplex life on Earth may last 500 million years longer than expected&nbsp;&nbsp;New ScientistThe real reason Earth escapes the dying sun gravity&nbsp;&nbsp;The News InternationalEarth may not be swallowed up by dying sun after all, say Belgian researchers&nbsp;&nbsp;The Brussels TimesGood news—we have extra time before the Sun ends life on Earth&nbsp;&nbsp;Ars Technica",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92WGxSejNCMUtEcy1TNExzVDlJaFJkVmQ4QllXYW85ZWZ2Y1A2dWdBMGo4VnpzRHFSZVROa0RfX3U4WlNFRVR3bXFzQll1WjBGM0xLX3c0RUJYWUM1T1pCaUV1TkU3SnNFWWNENnJmWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2e5355a11b2a",
+      "title": "More than 70 medics infected with Ebola as DRC outbreak spreads ‘fast’ - Al Jazeera",
+      "published": "2026-06-19T18:13:20+00:00",
+      "summary": "More than 70 medics infected with Ebola as DRC outbreak spreads ‘fast’&nbsp;&nbsp;Al JazeeraAt least 30 deaths at Congo camp show Ebola could be spreading fast&nbsp;&nbsp;ReutersEbola cases increase almost 40% in a week as death toll passes 200&nbsp;&nbsp;AP NewsEbola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda&nbsp;&nbsp;World Health Organization (WHO)Ebola Outbreak, DRC and Region, Situation Report #7, June 18, 2026&nbsp;&nbsp;ReliefWeb",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQUpGcUE0UXYwRGJOU3gyR3QxeEdIcER1eHhQZ05QRmFUZ0Vra3FSQjE4Z0JUS29pUWRqT2toYzA2cWdyWHh1UERIU1h4N0RwRE1GaHZET0tZWjZBWGdwcXpqRWQyVnp6S2Z0NnhDUFRPMUxzcFNlel9oRmR4YnFpdGRXejJPMzlBeTRCV0pKQ1FHMlR4TnBFbnF3TGloeUgtQjJKX3d1bFNTaWtacEHSAbMBQVVfeXFMTzhMc2ltSFZ0OUROdk9FOEdLa09YYTJpa2hDbmpzdlUzcGlKSlZYTnN2YXZkMGF6eXN4d1AyWjV4cjBxSnRrZ2VUWkZHeVEwNWMyUzU4dGZUZHBtdklNTW9OVjZvRGZFZk9vZ3BFSHJtTWU2cWtDZEY4c28wNWtiLVNEUUhkeE9JX1VOcGdpVG5fbnRLS0hSMTA1eFJ4ZEVzeXlGcWZmTUN2VjhTT2tUWTlORUE?oc=5"
         }
       ]
     },
@@ -42,38 +102,14 @@
       ]
     },
     {
-      "id": "35fe8130408f",
-      "title": "Trump admin seeks to roll back testosterone restrictions — why docs are conflicted - New York Post",
-      "published": "2026-06-19T16:23:00+00:00",
-      "summary": "Trump admin seeks to roll back testosterone restrictions — why docs are conflicted&nbsp;&nbsp;New York PostHHS Announces Requested Updates to Testosterone Therapy Product Labels&nbsp;&nbsp;HHS.govUS health department proposes testosterone therapy label updates&nbsp;&nbsp;ReutersTestosterone's Regulatory Reversal: Has the Evidence Finally Caught Up with Policy?&nbsp;&nbsp;trialsitenews.comRFK Jr. Moves to Lift Warning Labels on Testosterone Therapy&nbsp;&nbsp;Bloomberg.com",
-      "sources": [
-        {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNVR0b2FoampqaEZyNXFITXlsTmh4aHRJOUMtUzNKQkJ1RUVWOWpVSmJiaEp2U3huRUhtQ2RpZkhzR3lnZjdtRmt4S0haYW9rRjEtakprMDRXNTFRSmxMRkk5QmNJRm9WY0RQUlNiSm9kbUw3bkM1TkdwZWRfUHRDaXBkSU5wYlVqVk01LV9ibjZGNXlvbXQzekV4VzZRdDdSRmhNUU04SHdaYkU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2555b4f9310a",
       "title": "Non-surgical procedure may help relieve knee pain - WFMZ.com",
       "published": "2026-06-19T16:05:00+00:00",
-      "summary": "Non-surgical procedure may help relieve knee pain&nbsp;&nbsp;WFMZ.comNew procedure delivers lasting knee arthritis pain relief without surgery&nbsp;&nbsp;ScienceDailyInterventional treatment offers 'meaningful' alternative to surgery for osteoarthritis&nbsp;&nbsp;Radiology BusinessFor Chronic Knee Pain, Genicular Artery Embolization Provides a New Alternative&nbsp;&nbsp;CU Anschutz newsroomGAE effective for knee pain up to 12 months&nbsp;&nbsp;AuntMinnie",
+      "summary": "Non-surgical procedure may help relieve knee pain&nbsp;&nbsp;WFMZ.comNonsurgical procedure provides lasting relief for knee pain, finds study&nbsp;&nbsp;Medical XpressNew procedure delivers lasting knee arthritis pain relief without surgery&nbsp;&nbsp;ScienceDailyKnee Pain Suffered by Millions Can Be Eased Using New Non-Surgical Procedure&nbsp;&nbsp;Good News NetworkInterventional treatment offers 'meaningful' alternative to surgery for osteoarthritis&nbsp;&nbsp;Radiology Business",
       "sources": [
         {
           "name": "WFMZ.com",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRkVKR3cxdUZkMnFKaW9KLUwxalhIN3BvY3k2RmhyZm5TQVRMeHVxVVllendsYTJoTm1xS1dWQUNxMk50VEtCZkRIWGlIZ29JY2Fnck5ENkdpUS12dlV2aHpYbXNDMlM3RGdfT1hST2Rqb2ZCRFNEOGFtY1VmNk9HMTdhZmRobGVCbndZV0pPREVLRDc1NDVoMnNQclo4aGdMT3lhWGxTR1dnNmNUWU9ZaHBpeGJOQzdlcWpUbmtzT0t0dDByQ3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2e1b329b3907",
-      "title": "Guest Column | Facing cancer, I now understand the hidden lesson in my father’s final days - The Washington Post",
-      "published": "2026-06-19T16:00:00+00:00",
-      "summary": "Guest Column | Facing cancer, I now understand the hidden lesson in my father’s final days&nbsp;&nbsp;The Washington Post",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWTVlZmE2X3FfeDQ2ME1waERLWVNpV05Bb0pzcDBrZ3F6QlN6R2FsQjdjVUpMbm80SjQtRGQwdTROaGZ1cXlvcFc2N0FaVHp6TzROX3FydkhXVXo4NjNHSDFfcy1OQXcxNUhUcTA4WDVNYlprVVVTSjNMVnYxcmY3TEhYUEZpdENrX1c4YnJoWFBOcmhvWTE2aFVnYUdZWUJ5bzRHZ0QyVEt4cXI2eDdPNl9rSTlza0R6akVabktCNFJkdw?oc=5"
         }
       ]
     },
@@ -90,10 +126,22 @@
       ]
     },
     {
+      "id": "3412e29669e6",
+      "title": "A Physicist Made a 'Mini Universe' in The Lab to Check Time Really Exists - ScienceAlert",
+      "published": "2026-06-19T15:03:03+00:00",
+      "summary": "A Physicist Made a 'Mini Universe' in The Lab to Check Time Really Exists&nbsp;&nbsp;ScienceAlertScientist creates 'mini‑universe' to measure time without a clock&nbsp;&nbsp;Phys.orgBose-Einstein Condensate Evolves Across 44 Cycles Of Recollapse&nbsp;&nbsp;Quantum ZeitgeistNew Quantum Experiment Shows Time is Created by Moving Atomic Disorder&nbsp;&nbsp;AZoQuantumScientist creates 'mini‑universe' to measure time without a clock | Study sheds light on time in quantum physics | Inshorts&nbsp;&nbsp",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV1VnNUpMLUVhTUl6TkJxa2hGQzhpYUp5ZEQzMU8yZFJZNGRwdTlnY2c2QkJTM19JUFZhd1dndFI2Y0JONGZhSFU4MVc3TmxnLWlNczhPekdlNlM2R0dkY3RMd09IcjQ1OC1MLURVOTlHWEd4S3ZZSmd0SEdoNHByMXNoUjd4Q1lCNkhBMW1lRzFENlJBOGlJRFUxNG5KQjlwTUE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2c6bccf00a0b",
       "title": "Ebola in DR Congo: Six-year-old 'doing well' after armed men took her from hospital - BBC",
       "published": "2026-06-19T14:45:57+00:00",
-      "summary": "Ebola in DR Congo: Six-year-old 'doing well' after armed men took her from hospital&nbsp;&nbsp;BBCSearch for six-year-old Ebola patient after armed men storm DR Congo hospital&nbsp;&nbsp;YahooSix-Year-Old Ebola Patient Found Safe After Hospital Abduction&nbsp;&nbsp;Oz Arab MediaSix year-old, mother abducted from Ebola facility as transmission fears grow&nbsp;&nbsp;AnewZWhy Ebola Centers Are Under Attack&nbsp;&nbsp;Substack",
+      "summary": "Ebola in DR Congo: Six-year-old 'doing well' after armed men took her from hospital&nbsp;&nbsp;BBCSix-Year-Old Ebola Patient Found Safe After Hospital Abduction&nbsp;&nbsp;Oz Arab MediaWhy Ebola Centers Are Under Attack&nbsp;&nbsp;SubstackSix year-old, mother abducted from Ebola facility as transmission fears grow&nbsp;&nbsp;AnewZSearch for six-year-old Ebola patient after armed men storm DR Congo hospital&nbsp;&nbsp;BBC",
       "sources": [
         {
           "name": "BBC",
@@ -117,7 +165,7 @@
       "id": "086c4edd857c",
       "title": "4 Myths about Alzheimer’s You Need to Stop Believing - EatingWell",
       "published": "2026-06-19T14:36:50+00:00",
-      "summary": "4 Myths about Alzheimer’s You Need to Stop Believing&nbsp;&nbsp;EatingWellWell-Being Wednesday: Dementia: Early signs & when to seek care&nbsp;&nbsp;mynews4.comTelling Alzheimer’s apart from normal aging&nbsp;&nbsp;UT PhysiciansA doctor explains: What we know about Alzheimer's disease today?&nbsp;&nbsp;news.cgtn.comWVU Medicine specialist urges early evaluation for memory concerns&nbsp;&nbsp;WVU Medicine",
+      "summary": "4 Myths about Alzheimer’s You Need to Stop Believing&nbsp;&nbsp;EatingWellWell-Being Wednesday: Dementia: Early signs & when to seek care&nbsp;&nbsp;mynews4.comTelling Alzheimer’s apart from normal aging&nbsp;&nbsp;UT PhysiciansEarly detection is critical for Alzheimer’s patients&nbsp;&nbsp;KNOEA doctor explains: What we know about Alzheimer's disease today?&nbsp;&nbsp;news.cgtn.com",
       "sources": [
         {
           "name": "EatingWell",
@@ -138,6 +186,18 @@
       ]
     },
     {
+      "id": "186099159e9d",
+      "title": "Little-known tick bite disease leaves man nonverbal — what to know about the rising threat - New York Post",
+      "published": "2026-06-19T14:16:00+00:00",
+      "summary": "Little-known tick bite disease leaves man nonverbal — what to know about the rising threat&nbsp;&nbsp;New York PostConcord NH man hospitalized with rare Powassan disease&nbsp;&nbsp;Concord MonitorMan hospitalized for weeks with tick-borne illness. What is Powassan virus?&nbsp;&nbsp;USA TodayA rare virus, a common tick bite, and a prevention strategy that doesn’t protect us&nbsp;&nbsp;LymeDisease.orgTick Bite Leaves Healthy Outdoorsman on Life Support After He Contracts Incurable Powassan Virus&n",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMUJQWV9QSXlIa1hmVU85UkcwMFp3c3kyLVZ1NGFacTRrWngxbGJxWGs5c2NjMWRYbjBaM2ZHWWRVZHVUMEtaaHpRWUdUYTN5QXlsNy1pdTJHZ01NOHZ2ak5lc3Z6cklCS2lyWTkyejBtOUdITzJQb0pnaTVkZ2pVVngwcVlqZkJFR0hLSDVlTkV0NDhvaXVPVUlWMVM5M2I3czhqOEc4cGJ2UQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b9a121a9b15d",
       "title": "These Award-Winning Science Photos Capture the Beauty—and Weirdness—of Research - Gizmodo",
       "published": "2026-06-19T13:30:42+00:00",
@@ -146,6 +206,18 @@
         {
           "name": "Gizmodo",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT094cGVmNkVTRUs0amhvSXhZcnUtYmhyTVZ3TnZfeXJrM0VDQVNSOHNqSWs3bnhqalBDQkVhdXBSWVFBcG5KR202YXF0bTc4Snl4UHBDdi1iNHhoRXllWDBxeThHM3UxUUJ5NFZJVmhOQ2NhQURsUTFzSWZNN2l2YUpQNXoxam1PcFUxaVl6MXRZRXduRWxmblBWeXUwWndBWW14NkNlQmtZS3dGRlIw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "75386022ed8b",
+      "title": "A 50-year-old PT shares the 4 simple exercises you need to start strength training later in life – here's how to do them - Women's Health",
+      "published": "2026-06-19T13:13:09+00:00",
+      "summary": "A 50-year-old PT shares the 4 simple exercises you need to start strength training later in life – here's how to do them&nbsp;&nbsp;Women's HealthSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "Women's Health",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWnlvV0gxd2FENDA5djZXQVcwUlJhRkdyN1lsUXFsYnVYMEdWanEzZGt0aUl0Y21obVVONlVWalZzMFM3VnJKV1pjeUUtX05iaDZHQXhndDROQWtBczZoOFBzdzJWVWF1REY5R0tqeFJJbUV0M0Y1RlRSSEdWQzExSkZITEU5eTJmZWJLMDZjMWk0SWNPOTMzVVk2bGdfSjVqSEV4M2dBUQ?oc=5"
         }
       ]
     },
@@ -177,11 +249,23 @@
       "id": "0695ee679451",
       "title": "Tick season is getting worse. Can managing deer help? - NPR",
       "published": "2026-06-19T13:00:00+00:00",
-      "summary": "Tick season is getting worse. Can managing deer help?&nbsp;&nbsp;NPRTicks are spreading Lyme disease across America, but we can beat them. Here’s how.&nbsp;&nbsp;vox.com‘It is serious’: Tick-borne diseases surging nationwide&nbsp;&nbsp;WALBThink a tick bit your dog or cat? Here are symptoms to look for&nbsp;&nbsp;The HillLane County is seeing an uptick in ticks …. What might it mean?&nbsp;&nbsp;NPR for Oregonians",
+      "summary": "Tick season is getting worse. Can managing deer help?&nbsp;&nbsp;NPRKnow your ticks: Here’s how to spot the ones that carry Lyme and alpha-gal&nbsp;&nbsp;The Boston GlobeLane County is seeing an uptick in ticks …. What might it mean?&nbsp;&nbsp;NPR for Oregonians‘It is serious’: Tick-borne diseases surging nationwide&nbsp;&nbsp;WALBTicks are spreading Lyme disease across America, but we can beat them. Here’s how.&nbsp;&nbsp;vox.com",
       "sources": [
         {
           "name": "NPR",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrS0l4OG9GQXVUdE5icEU2UDVaTEdMdU9PSFowNzBlc0tXN3FnenJta296c0g2eGhNUnhRQnJWazU3S1NZcWx2NGU1c242ZGhVS3Byd3ZsendidkNfT1FQSHdPWWp6N214dVhqbWRXOThoVUdFRGEtdzVWb25BZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ba67e321951b",
+      "title": "Protein and Creatine Supplements Are No Longer Niche - Medscape",
+      "published": "2026-06-19T12:28:59+00:00",
+      "summary": "Protein and Creatine Supplements Are No Longer Niche&nbsp;&nbsp;MedscapeCreatine Benefits: What the Trending Supplement Can Do for Your Health&nbsp;&nbsp;GQDiary Of A CEO: w/ Dr. Darren Candow on Creatine (Transcript)&nbsp;&nbsp;The Singju PostCould gym booster creatine also be a weapon against cancer?&nbsp;&nbsp;YahooCreatine isn’t just for bodybuilders anymore. Here’s why everyone’s talking about it&nbsp;&nbsp;PerthNow",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3I3ZGt2VWxPQlVNNlNxajZpUkN4QkZOeDF6QkFyR2lmemktSGVJY0xsQWNPcTFjN0RQbkhOY2lKamVmYWpsSW51eGtMZ3ZaYU53NGd4c21YbGE2N1VmWEhuYVNXa1E5NDAySFc0RW51bE5scWlTb0JHYVNGR0hLSXBfZ0tqcnhRODYycnhuOW9UOG5BSXFRcktib0RPR2pjT2FUTQ?oc=5"
         }
       ]
     },
@@ -201,7 +285,7 @@
       "id": "949ac7777173",
       "title": "Could the HPV vaccine eliminate cervical cancer deaths? - Al Jazeera",
       "published": "2026-06-19T11:50:55+00:00",
-      "summary": "Could the HPV vaccine eliminate cervical cancer deaths?&nbsp;&nbsp;Al JazeeraYoung women now have 'close to zero' risk of cervical cancer death after HPV jab&nbsp;&nbsp;BBCCervical cancer deaths for vaccinated young women fall to zero in England: study&nbsp;&nbsp;CTV NewsHPV jabs cut risk of dying from cervical cancer before 30 to almost zero&nbsp;&nbsp;The GuardianCervical cancer deaths have plummeted thanks to HPV vaccine&nbsp;&nbsp;New Scientist",
+      "summary": "Could the HPV vaccine eliminate cervical cancer deaths?&nbsp;&nbsp;Al JazeeraYoung women now have 'close to zero' risk of cervical cancer death after HPV jab&nbsp;&nbsp;BBCResearchers say one childhood vaccine is preventing hundreds of cancer deaths&nbsp;&nbsp;Fast CompanyEngland got cervical cancer deaths down to zero in young women. What this means for India’s fight&nbsp;&nbsp;The Times of IndiaCervical cancer deaths for vaccinated young women fall to zero in England: study&nbsp;&nbsp;CTV News",
       "sources": [
         {
           "name": "Al Jazeera",
@@ -258,6 +342,18 @@
       ]
     },
     {
+      "id": "345c704aa1b9",
+      "title": "Estrogen levels in both the male and female brain may shape memory's resilience in face of stress - Live Science",
+      "published": "2026-06-19T10:49:00+00:00",
+      "summary": "Estrogen levels in both the male and female brain may shape memory's resilience in face of stress&nbsp;&nbsp;Live Science",
+      "sources": [
+        {
+          "name": "Live Science",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVEV4SF8tLVBhTFAyYUVHM3B4anZFa3VXc2t2WFlGX1BqMV9MZ2NEV004NjlJZlI3MGlHc0hHUjhncWpTY2xiM3JCUUI5Q3Rjb25vYWNJMTJWUkNlMjNFSElsLVVOUUx3dGQ3cWVnaW1YN3E1Q0VQSDB1cE9YT01UTEpNX0p4Zmhzbkd6bVZWWXJjdXBUZkdhV0FCVG11dnFHeXhlTjhtM09kcWxrSXBSeUFaenQ2MnVsRnJpY0sySm9oUExlS055TWh6OER2ZFlkd3ZaU0ZXelU4bWZ2?oc=5"
+        }
+      ]
+    },
+    {
       "id": "49b12752ade1",
       "title": "I’m an infectious disease doc — 5 way-too-common things people do that make me squirm - New York Post",
       "published": "2026-06-19T10:29:00+00:00",
@@ -273,7 +369,7 @@
       "id": "f41c2db59aaf",
       "title": "'A completely different story': 300 million-year-old fossils reveal the first vertebrate land dwellers weren't what we thought, researchers claim - Live Science",
       "published": "2026-06-19T10:26:37+00:00",
-      "summary": "'A completely different story': 300 million-year-old fossils reveal the first vertebrate land dwellers weren't what we thought, researchers claim&nbsp;&nbsp;Live ScienceA Vietnam Veteran Collected Fossils for 66 Years. One, Mislabeled 'Baby Lamprey,' Made Paleontologists Reconsider How Vertebrates Moved From Water to Land&nbsp;&nbsp;Smithsonian MagazineFossilized babies of ancient crocodile-like predators uproot understanding of how animals adapted to the land&nbsp;&nbsp;Phys.orgA textbook assum",
+      "summary": "'A completely different story': 300 million-year-old fossils reveal the first vertebrate land dwellers weren't what we thought, researchers claim&nbsp;&nbsp;Live ScienceEarth’s First Land Animals May Never Have Been Amphibian-Like After All&nbsp;&nbsp;Sci.NewsBaby crocodile-like fossils just blew up a long-held evolution theory&nbsp;&nbsp;Popular ScienceA textbook assumption about early land vertebrates may be wrong&nbsp;&nbsp;Science NewsFossilized babies of ancient crocodile-like predators upr",
       "sources": [
         {
           "name": "Live Science",
@@ -297,7 +393,7 @@
       "id": "763e2f7207d9",
       "title": "Australia, last continent without H5 bird flu, detects first suspected case - Reuters",
       "published": "2026-06-19T08:40:31+00:00",
-      "summary": "Australia, last continent without H5 bird flu, detects first suspected case&nbsp;&nbsp;ReutersThousands of baby seals died on two remote sub-Antarctic islands. Scientists now think they know why&nbsp;&nbsp;CNNAustralia confirms first case of H5N1 bird flu as virus reaches every continent&nbsp;&nbsp;BBCAustralia vows to rein in any H5N1 birdflu after confirming first case&nbsp;&nbsp;ReutersAustralia Detects H5 Bird Flu as Virus Reaches Every Continent&nbsp;&nbsp;Bloomberg.com",
+      "summary": "Australia, last continent without H5 bird flu, detects first suspected case&nbsp;&nbsp;ReutersThousands of baby seals died on two remote sub-Antarctic islands. Scientists now think they know why&nbsp;&nbsp;CNNAustralia's first case of deadly H5 bird flu officially confirmed.&nbsp;&nbsp;SMH.com.auAustralia confirms first case of H5N1 bird flu as virus reaches every continent&nbsp;&nbsp;BBCAustralia pledges action on H5N1 after bird flu case confirmed&nbsp;&nbsp;Al Jazeera",
       "sources": [
         {
           "name": "Reuters",
@@ -330,14 +426,14 @@
       ]
     },
     {
-      "id": "81df4f563cf6",
-      "title": "Know your ticks: Here’s how to spot the ones that carry Lyme and alpha-gal - The Boston Globe",
-      "published": "2026-06-19T05:30:00+00:00",
-      "summary": "Know your ticks: Here’s how to spot the ones that carry Lyme and alpha-gal&nbsp;&nbsp;The Boston GlobeLyme disease: symptoms, spread, prevention&nbsp;&nbsp;Royal College of NursingWinter’s snow cover contributes to explosion of ticks&nbsp;&nbsp;The ReminderThe Latest On Lyme Disease&nbsp;&nbsp;The PuristLyme disease cases can mimic neurological conditions&nbsp;&nbsp;fairfaxtimes.com",
+      "id": "e28add8611df",
+      "title": "This giant tropical fruit could help reverse gum disease damage - ScienceDaily",
+      "published": "2026-06-19T06:01:32+00:00",
+      "summary": "This giant tropical fruit could help reverse gum disease damage&nbsp;&nbsp;ScienceDaily",
       "sources": [
         {
-          "name": "The Boston Globe",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTEdUR0w0UDdwOUNYZXNXQ25ISGFUOXE4bElfaUdHVzMwYWk5WmVKLXFkbFRidktta2JuSmlZSzA2WkJ1OU94c0RKTmwyYy1XRWNITXI3dEIyYzlTb1YtUzBpMHlSZ2dCbUttWEkxUEZmbGN4Q3MwYVM3ZEZRbTBjX2J2UzV1VURHLTE0cW9nZExPUk10dTJDUGxFVnJxdw?oc=5"
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PaEVBQ296eGR2V251c0l4ZGpxRS1RdktIY2J0ZjU5WHk4a2puOWNKWFY5czFyMDhyRDVFTjhnazJKUnFvbXVrSkJCLTNILWhMUzdDNDA0Q2QtbHlRV2UwdFE1eW5VMFhkUlhpR2RXTQ?oc=5"
         }
       ]
     },
@@ -356,7 +452,7 @@
     {
       "id": "27ff997e0d76",
       "title": "The \"dad bod,\" explained by science - Axios",
-      "published": "2026-06-19T03:25:04+00:00",
+      "published": "2026-06-19T02:09:04+00:00",
       "summary": "The \"dad bod,\" explained by science&nbsp;&nbsp;AxiosOdds & Ends: June 12, 2026&nbsp;&nbsp;The Art of ManlinessThe ‘dad bod’ dilemma&nbsp;&nbsp;University of CaliforniaThe Role of Fathers in the Intergenerational Transmission of Obesity&nbsp;&nbsp;springermedicine.comHow dad’s obesity can pass on metabolic problems to their kids&nbsp;&nbsp;The Star",
       "sources": [
         {
@@ -369,23 +465,11 @@
       "id": "74edde49bc31",
       "title": "\"Pink Planet\" is surrounded by salty clouds, researchers using Webb telescope find - CBS News",
       "published": "2026-06-19T01:49:00+00:00",
-      "summary": "\"Pink Planet\" is surrounded by salty clouds, researchers using Webb telescope find&nbsp;&nbsp;CBS NewsThe Pink Planet is so weird, astronomers struggle to define it. And they've just found it's covered in salty clouds&nbsp;&nbsp;BBC Sky at Night Magazine\"Pink Planet\" GJ504b Could Be First World With Clouds Made Of Salt, JWST Data Suggests&nbsp;&nbsp;IFLScienceFamous 'Pink Planet' harbors a salty surprise&nbsp;&nbsp;Phys.orgPink Planet illustration (IMAGE)&nbsp;&nbsp;EurekAlert!",
+      "summary": "\"Pink Planet\" is surrounded by salty clouds, researchers using Webb telescope find&nbsp;&nbsp;CBS NewsThe Pink Planet is so weird, astronomers struggle to define it. And they've just found it's covered in salty clouds&nbsp;&nbsp;BBC Sky at Night Magazine\"Pink Planet\" GJ504b Could Be First World With Clouds Made Of Salt, JWST Data Suggests&nbsp;&nbsp;IFLScienceWebb telescope finds possible salt clouds on a pink alien world&nbsp;&nbsp;MashablePink Planet illustration (IMAGE)&nbsp;&nbsp;EurekAlert!",
       "sources": [
         {
           "name": "CBS News",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLNk9hODI2enFORkJGaXB6VVRmamxlMWhTdllYZG96d294Vks3a1I0N0hKREFaQnA4cmxodlRhLVd6MUpjSTJmb0dCM3JuUzZyUGY3TG45cEd5NkMxalh0TnkyM1kwM0VickI4YmZJeVpXeFdtX05IdWpxNjc1OVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0583142f3e95",
-      "title": "Deadly tick-borne disease that can cause brain damage spreading across the US - FOX Weather",
-      "published": "2026-06-19T01:33:00+00:00",
-      "summary": "Deadly tick-borne disease that can cause brain damage spreading across the US&nbsp;&nbsp;FOX WeatherLittle-known tick bite disease leaves man nonverbal — what to know about the rising threat&nbsp;&nbsp;New York PostConcord NH man hospitalized with rare Powassan disease&nbsp;&nbsp;Concord MonitorMan hospitalized for weeks with tick-borne illness. What is Powassan virus?&nbsp;&nbsp;USA TodayA rare virus, a common tick bite, and a prevention strategy that doesn’t protect us&nbsp;&nbsp;LymeDisease.o",
-      "sources": [
-        {
-          "name": "FOX Weather",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVWl6VS12c3VtMS11Zm1adU9QSmQ4SHRPcEdoRll5Y3ZMNXhCcG5CV0xlZ09LZFd3elFOZ3dNVXVXcUVGeXh1M3VxTjE2RVJjRktwQldYZ193VXNBZHhqYnpOR3U2U24wemljUHhXUXlmRjNaMTFOTEdveWxKZVNFWVQ0ZGhyeHNCQXV6LU9ZbmxuZTdvRHJqODNlQ3dUUdIBowFBVV95cUxNOEMyS1ZmLWFnaXBRQTNGTVhEX2w4UENOUXBVZVhOUEFFcjRiT0ZBRnRkMmNkelVPWWhpaTJlWXcxd2J4RVRGSjJaclZSQlhyd1RNb0pOQTJhWVFxOF9fUTZXQjd4Ny01ak5ZVXNrZjVCQU0xWFJ0ekdxUlZQajdNSE4yTUtGdVRKYjhIWnZtdFBKdzZMQWZrMzc1NW1TamJ5OTNN?oc=5"
         }
       ]
     },
@@ -405,7 +489,7 @@
       "id": "7c9dd10175a1",
       "title": "The omega-3 supplement you take may not be helping your brain - CNN",
       "published": "2026-06-18T23:30:25+00:00",
-      "summary": "The omega-3 supplement you take may not be helping your brain&nbsp;&nbsp;CNNFish oil supplements may not prevent Alzheimer's-related decline, clinical trial suggests&nbsp;&nbsp;Medical XpressDoes High-Dose Omega-3 Benefit Cognition in Older Adults?&nbsp;&nbsp;MedscapeFish Oil Reaches the Brain but Fails to Slow Alzheimer’s Decline&nbsp;&nbsp;ScienceBlog.comHeart healthy does not always mean brain safe: Omega-3 supplements linked to faster cognitive decline in older adults in a study&nbsp;&nbsp;O",
+      "summary": "The omega-3 supplement you take may not be helping your brain&nbsp;&nbsp;CNNFish oil supplements may not prevent Alzheimer's-related decline, clinical trial suggests&nbsp;&nbsp;Medical XpressTaking omega-3 supplement for better memory or cognition? Here's what new research found&nbsp;&nbsp;FirstpostDoes High-Dose Omega-3 Benefit Cognition in Older Adults?&nbsp;&nbsp;MedscapeFish Oil Reaches the Brain but Fails to Slow Alzheimer’s Decline&nbsp;&nbsp;ScienceBlog.com",
       "sources": [
         {
           "name": "CNN",
@@ -417,7 +501,7 @@
       "id": "3fc8ab424296",
       "title": "Bizarre videos claiming sunburns ‘aren’t dangerous’ are flooding TikTok, study warns - New York Post",
       "published": "2026-06-18T23:27:00+00:00",
-      "summary": "Bizarre videos claiming sunburns ‘aren’t dangerous’ are flooding TikTok, study warns&nbsp;&nbsp;New York PostOn TikTok, sunscreen misinformation goes viral&nbsp;&nbsp;NBC NewsHow toxic masculinity and ‘wellness’ influencers could be giving you skin cancer&nbsp;&nbsp;The IndependentWhy Sunscreen Misinformation Gets More Attention on TikTok&nbsp;&nbsp;HealthlineTikTok Viewers Love Sunscreen Chemophobia&nbsp;&nbsp;science20.com",
+      "summary": "Bizarre videos claiming sunburns ‘aren’t dangerous’ are flooding TikTok, study warns&nbsp;&nbsp;New York PostOn TikTok, sunscreen misinformation goes viral&nbsp;&nbsp;NBC NewsHow toxic masculinity and ‘wellness’ influencers could be giving you skin cancer&nbsp;&nbsp;The IndependentOur long national sunscreen nightmare is almost over&nbsp;&nbsp;The VergeWhy Sunscreen Misinformation Gets More Attention on TikTok&nbsp;&nbsp;Healthline",
       "sources": [
         {
           "name": "New York Post",
@@ -462,10 +546,22 @@
       ]
     },
     {
+      "id": "7fda8fe116d5",
+      "title": "Women’s Brains May Be More Vulnerable to Dementia Risk Factors Than Scientists Realized - SciTechDaily",
+      "published": "2026-06-18T21:31:05+00:00",
+      "summary": "Women’s Brains May Be More Vulnerable to Dementia Risk Factors Than Scientists Realized&nbsp;&nbsp;SciTechDailyUC San Diego researchers receive major grants as part of $50M effort to advance women’s brain health&nbsp;&nbsp;EurekAlert!UC San Diego grant could help doctors detect Alzhiemer’s earlier in women&nbsp;&nbsp;fox5sandiego.comUCSD Researchers Receive 2 Major Grants To Advance Womens Brain Health&nbsp;&nbsp;Patch",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV1VEQlhaVk9PRnFDa1dqTDAzcDNuTGJvY0ZzX1daa0JPZXpUSXkxOFMxY3dBNGJ0dVFpSmpPLUt6djlMU1VSejVoRVpvREdGR1d1NEVxSVAycmJFMm1qc2xYTDkzRXVYeDM0dUplV3JCeUVGNVZ0N2pOV1gxRko4VnBVdzF2dzFVR1h4VWlLVmNRVjNVN2VtMG1OTDI4X1NrckRoTkxWVjg3bXB3Y1lmVEpB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "baa6701c983c",
       "title": "Scientists Say We’ve Been Wrong About the Aging Brain - SciTechDaily",
       "published": "2026-06-18T20:56:04+00:00",
-      "summary": "Scientists Say We’ve Been Wrong About the Aging Brain&nbsp;&nbsp;SciTechDailyThe midlife habits that could make or break your brain health long-term&nbsp;&nbsp;The Washington PostAs a neuroscientist, these are my daily habits to ward off dementia&nbsp;&nbsp;The TelegraphThe secrets to keeping your brain sharp in old age&nbsp;&nbsp;New ScientistBronx Times Opinion | Protecting brain health: small steps can make a big difference&nbsp;&nbsp;Bronx Times",
+      "summary": "Scientists Say We’ve Been Wrong About the Aging Brain&nbsp;&nbsp;SciTechDailyThe secrets to keeping your brain sharp in old age&nbsp;&nbsp;New ScientistAs a neuroscientist, these are my daily habits to ward off dementia&nbsp;&nbsp;The TelegraphThe midlife habits that could make or break your brain health long-term&nbsp;&nbsp;The Washington PostBronx Times Opinion | Protecting brain health: small steps can make a big difference&nbsp;&nbsp;Bronx Times",
       "sources": [
         {
           "name": "SciTechDaily",
@@ -486,22 +582,10 @@
       ]
     },
     {
-      "id": "2a29fcca5b53",
-      "title": "What is The Healthiest Type of Olive Oil? The No. 1 Pick with the Most Benefits - TODAY.com",
-      "published": "2026-06-18T20:19:00+00:00",
-      "summary": "What is The Healthiest Type of Olive Oil? The No. 1 Pick with the Most Benefits&nbsp;&nbsp;TODAY.com‘I Took a Shot of Olive Oil Every Day for 2 Weeks—Here’s My Verdict on if It’s Worth It’&nbsp;&nbsp;ParadeI Tried Daily Olive Oil Shots for Two Weeks: Here’s What I Learned About Its Benefits&nbsp;&nbsp;AOL.com",
-      "sources": [
-        {
-          "name": "TODAY.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb196eDNPSXc3ZVBUdWktOWhIaHJEV2tiYlFfa2ZZcHd5NmlIc0UwZVBpbDdXQkxSYmE4alJQZHpxLTlsX2hBYUhqMHkydzlBMm9uY3l3TnJPdUQxQ3hrM3dtcGg1YnlpNC1Ib3QyTkJQN3NZTXJWQ0FBVEU0Yk1tUzI4dER2azhf?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c5d7005cea99",
       "title": "Denisovan DNA influences the immune systems of modern Oceanians — but researchers aren't sure why - Live Science",
       "published": "2026-06-18T20:13:56+00:00",
-      "summary": "Denisovan DNA influences the immune systems of modern Oceanians — but researchers aren't sure why&nbsp;&nbsp;Live SciencePeople on These Pacific Islands Have the Most Ancient Genome of All Humans (and a Lot of Denisovan Genes)&nbsp;&nbsp;ZME ScienceStudy finds Denisovan DNA still helping people in South Pacific region fight viruses today&nbsp;&nbsp;YahooGenomes from Oceania offer new clues to human evolution&nbsp;&nbsp;YaleNewsDenisovan DNA still switches genes on and off in humans&nbsp;&nbsp;Ea",
+      "summary": "Denisovan DNA influences the immune systems of modern Oceanians — but researchers aren't sure why&nbsp;&nbsp;Live SciencePeople on These Pacific Islands Have the Most Ancient Genome of All Humans (and a Lot of Denisovan Genes)&nbsp;&nbsp;ZME ScienceGenomes from Oceania offer new clues to human evolution&nbsp;&nbsp;YaleNewsDenisovan DNA still switches genes on and off in humans&nbsp;&nbsp;Earth.comStudy finds Denisovan DNA still helping people in South Pacific region fight viruses today&nbsp;&nbs",
       "sources": [
         {
           "name": "Live Science",
@@ -642,22 +726,10 @@
       ]
     },
     {
-      "id": "054fce1b5cc4",
-      "title": "Brain cancer diagnoses leave St. Lucie County families searching for answers, again - WPEC",
-      "published": "2026-06-18T11:31:31+00:00",
-      "summary": "Brain cancer diagnoses leave St. Lucie County families searching for answers, again&nbsp;&nbsp;WPEC",
-      "sources": [
-        {
-          "name": "WPEC",
-          "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNZzVGUlBkWF9HbGtXM0QtSmgyME14ZVV0cmVlTFBWWG52WHpHeTI3QXNJY0hZa19mVWJCNHU3RUN6NjhOekRxcnU4dnhycDlQdXF0SkpVYnFOTXo0TnIwRzcwenRKbm1tOElTRkZGX0E5YWY2ZTlqYk5pd2R1Q0xLTk9maHVfX1ZSTmdfRUFybzJ0WWw3MWpEMmxCSVFiSVJzUVFkTTI4RFpaa19qNmREcHhRTXFodGJXV3NYcXlpOVhWeld5cm9PRFlsQW52X2k0aDhtbVA1OEtFR0pUWkI3TnBxSk1FR1ZmZWNzVnp3eGVwTFBRbnZxQ25ZcWttUTVsY19vbDA5TE13a2xISnZRbV80bkF4M3ZWZWFKSVg4Y3JiU1VsaVVKYjhkcnU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "75baeea6e244",
       "title": "5 High-Fiber Fruits You Should Be Adding to Your Smoothies - EatingWell",
       "published": "2026-06-18T11:30:00+00:00",
-      "summary": "5 High-Fiber Fruits You Should Be Adding to Your Smoothies&nbsp;&nbsp;EatingWellEasy-to-find fiber alternatives to beans, good for health&nbsp;&nbsp;Laodong.vn",
+      "summary": "5 High-Fiber Fruits You Should Be Adding to Your Smoothies&nbsp;&nbsp;EatingWellBeat the bloat — 4 tips for increasing your fiber intake&nbsp;&nbsp;UCLA HealthFibremaxxing: The simple diet trend that could transform your gut health&nbsp;&nbsp;Starts at 60The Fiber Fix: The Simple Nutrition Upgrade That Changes Everything&nbsp;&nbsp;wfla.comHow much fibre is too much?&nbsp;&nbsp;FoodNavigator.com",
       "sources": [
         {
           "name": "EatingWell",
@@ -669,23 +741,11 @@
       "id": "472dddb3d303",
       "title": "Zero sugar, more problems? Study reveals surprising gut health effects - Fox News",
       "published": "2026-06-18T11:00:41+00:00",
-      "summary": "Zero sugar, more problems? Study reveals surprising gut health effects&nbsp;&nbsp;Fox NewsClean eating: why cutting sugar out of your diet might not be as healthy as it sounds – new study&nbsp;&nbsp;The ConversationScientists found a surprising problem with sugar-free diets&nbsp;&nbsp;ScienceDailySugar-free, low-fat diet tied to insulin resistance in mouse study&nbsp;&nbsp;Medical News TodayNew study reveals hidden risk of going sugar-free&nbsp;&nbsp;The Independent",
+      "summary": "Zero sugar, more problems? Study reveals surprising gut health effects&nbsp;&nbsp;Fox NewsSugar-Free Diets May Have a Hidden Side Effect, Study in Mice Suggests&nbsp;&nbsp;ScienceAlert",
       "sources": [
         {
           "name": "Fox News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ2JoUmcyMko2WUgzcFFYOUZiOGVQMG9BN0ZPNDlydjhaTm1McGFHeEtoS3hNVmdCeHZXTlVsdWVPV3NqOVJ6eU1mWUl3ZzlDSFJzOGN5RVJZV3M2NGlpSUtrSVNoQ2lRWkZTRWR0TGlZVjhqT1UtbFZaSU1IZzgyUm5PUVVTN0NtODZ0RkxaUEEtdmtUXzlFR2N30gGfAUFVX3lxTFBjZ3FCTy1qOEYzYW9rb29qZmJDRkdVMG0wQzYtRjRwajdGY0R5b2k0eUhYN2dBeEJCNGtSd2NicExJclpXYmN4ZjRUYUhnLVZta3Bod0JXbWdNZWs0UW9IMnlqU0ZFUW5fS2JYby02enltZmxoYTcyTnVVTG1Za3oxMDlqcDM2LUxneVpyaFJINjVMaDVlOG1YVWxjWGU5cw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1f8cb17ea3b0",
-      "title": "Hidden Damage From Youth May Explode Into Disease Later in Life - SciTechDaily",
-      "published": "2026-06-18T10:47:57+00:00",
-      "summary": "Hidden Damage From Youth May Explode Into Disease Later in Life&nbsp;&nbsp;SciTechDaily",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRVRzS2pqZ3FVQ21VZnJqTVVoSjRXN3ByNnh1MlZRVjZaU3owU2ZfVFlBT3JQZUNBd2JEZlhNTUxpZDF6aVVLOVpaMy1LYlZMa19WZjlXenJUend6ekZuX2xFYnJnREI2VjkxbzVwQ0FRTzNzUEhjanMyVXJ0RTAzejhrWHNNVGhhcDNYajZ5ZFRpNVU?oc=5"
         }
       ]
     },
@@ -705,7 +765,7 @@
       "id": "a3d0446897ba",
       "title": "Prediabetes: 3 lifestyle changes lower chronic disease risk by 21% - Medical News Today",
       "published": "2026-06-18T09:39:48+00:00",
-      "summary": "Prediabetes: 3 lifestyle changes lower chronic disease risk by 21%&nbsp;&nbsp;Medical News TodayPrediabetes diet: How to help prevent progression to diabetes&nbsp;&nbsp;Harvard HealthWinning strategy to prevent diabetes and related chronic diseases&nbsp;&nbsp;NPRFor adults with prediabetes, lifestyle intervention lowered risk of developing multiple chronic conditions&nbsp;&nbsp;National Institutes of Health (.gov)Reversing prediabetes cuts risk of deadly heart problems by 58%&nbsp;&nbsp;ScienceD",
+      "summary": "Prediabetes: 3 lifestyle changes lower chronic disease risk by 21%&nbsp;&nbsp;Medical News TodayWinning strategy to prevent diabetes and related chronic diseases&nbsp;&nbsp;NPRFor adults with prediabetes, lifestyle intervention lowered risk of developing multiple chronic conditions&nbsp;&nbsp;National Institutes of Health (.gov)Reversing prediabetes cuts risk of deadly heart problems by 58%&nbsp;&nbsp;ScienceDailyLifestyle Changes Can Reduce Your Risk For Multiple Chronic Diseases&nbsp;&nbsp;U.S",
       "sources": [
         {
           "name": "Medical News Today",
@@ -722,30 +782,6 @@
         {
           "name": "Yahoo",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDJyYkZsLUprd1FzMF9MTXpBVFBMaW1rZUZzR3FuZDg0ZFB3V3RObGhOQWVRejRMRGRlSGlvcm5RUGhjUjFPdkI4V09yZmxOanZVOTJ0NUNMaGY1dmtVWndQQmxlOVFJQWtVRzFrdm9WdUVqYllyUGhFeVFXcHYxN29OT0c3ckR2UVF2aXRhUkV1R3c1bkI4d2NB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "390efae72b64",
-      "title": "Rheumatologist Shares 4 Signs of Autoimmune Disease That Are ‘Easy To Miss’ - Newsweek",
-      "published": "2026-06-18T07:05:00+00:00",
-      "summary": "Rheumatologist Shares 4 Signs of Autoimmune Disease That Are ‘Easy To Miss’&nbsp;&nbsp;Newsweek",
-      "sources": [
-        {
-          "name": "Newsweek",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV3dOZTFiMzZTOEY2YXpyRkcyckVwU2xMaXBsMWM0NUMzMnhEdU5OVnN1dUlNRk9RRjlLMXFFZlIycGI2YVhrS2NiMXgyejk1MVhnMFVNcVJldktWazhKT0NvZG1iV0tvemZnOXlDa2VBNnRhb2VtM0tFdDN0NFlsUkxtNGhpVmNGa29JZFRXSkY2Q3hWaF9MNXhjRmxIOEJ3WHBjeHoxWVBkM1k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c4482329bbc7",
-      "title": "Doctor Exposes Shocking Studies On Women’s Health, And People Are Absolutely Furious - Bored Panda",
-      "published": "2026-06-18T07:00:32+00:00",
-      "summary": "Doctor Exposes Shocking Studies On Women’s Health, And People Are Absolutely Furious&nbsp;&nbsp;Bored Panda",
-      "sources": [
-        {
-          "name": "Bored Panda",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeExqdnNtaDM1WER3QUY0U1p2ZklSMkFXZk84WEpaV3ZfNmktTjFyUnFnTkF0THZJRU4tbkZJMHI0SURZdkZHUlJYZGlZV1BJRmJHbm1jZTdRSnlYZE0zMjFsSEFnZS1oak1qajB1RHZrRWxaRXdZM19ja0p4STBwcU1B?oc=5"
         }
       ]
     }

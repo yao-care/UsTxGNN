@@ -1,15 +1,51 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-06-21T09:54:08.385035+00:00",
-  "total_fetched": 120,
-  "unique_count": 120,
-  "health_related_count": 60,
+  "fetched_at": "2026-06-21T14:17:24.436406+00:00",
+  "total_fetched": 122,
+  "unique_count": 122,
+  "health_related_count": 62,
   "news": [
+    {
+      "id": "a7147cdafbb2",
+      "title": "Did Dementia Turn Small-Town Doctor Into a Predator? - Newser",
+      "published": "2026-06-21T11:04:00+00:00",
+      "summary": "Did Dementia Turn Small-Town Doctor Into a Predator?&nbsp;&nbsp;Newser",
+      "sources": [
+        {
+          "name": "Newser",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOUJGVTIwTmo1aTJZRWltbFd4Y3dLNlFpWFJsVUVDUExOMngzcl9GRmNpOE5OcTNEb3Z2Nll0SEk0LUROSjQ0ZGt4TDdHVDBJdlpTZnhGSEVTZmp5Qm0wMXdwc29DN3BJcGd5N252c1d0WFpXamtETlJLaDdqWmliM3BDSC1vUXlsWW5aNlQ5MjBuemZmUjB3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "37c6094cd4a0",
+      "title": "Can Sparkling Water Increase Your Risk Of Colorectal Cancer? - HuffPost",
+      "published": "2026-06-21T11:00:19+00:00",
+      "summary": "Can Sparkling Water Increase Your Risk Of Colorectal Cancer?&nbsp;&nbsp;HuffPost",
+      "sources": [
+        {
+          "name": "HuffPost",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV3g3MW13WHIwbm93RDR2enBHZDE2WnVFaXl3NmFzbHp3RG85MnM0ZWxsRkktUVZ1eS02ci1YNUI0VnhXN1Mtc243OUZoRlBLc3FnR3Nwd2tRN21IbEVOZ0paZmlCWlN1S0c5YVhiS3pXbDBlLXBXM3FMcDk4TEhYdWdVQkE0Nm0xVU1xMkhqUGh6QzZQNktWbHVYZGrSAaIBQVVfeXFMUGlmNnc5S3ZXU1h5bVowa1Vnbi1ieGExeEZob1E2RXFNSW0wYkZxLVc3SDgyT2FLVk1CY2JQX2FyQWFsQjVBZThTRWlWNWtiZTUybTRoRTR3bWJLWkpLM1RFUDNOcDhZTkpEWWlPMTV5QmNJdktiYmt6RlZ3alFiQlVabWJuWTBXY3NUZXV1cU54ZFFOUmFTQ3VnY2l3RFcya1hR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "08f9592303c9",
+      "title": "What to know about the temporary Medicare GLP-1 Bridge program - The Hill",
+      "published": "2026-06-21T10:00:00+00:00",
+      "summary": "What to know about the temporary Medicare GLP-1 Bridge program&nbsp;&nbsp;The HillMedicare launches pilot program expanding access to GLP-1 drugs&nbsp;&nbsp;NewsNationMedicare weight-loss drug coverage could overwhelm doctors&nbsp;&nbsp;AxiosHow to get weight-loss drugs through Medicare: CNY pharmacist details new program&nbsp;&nbsp;Syracuse.comMedicare's GLP-1 Program Looms; Chemicals in Breast Milk; Acromegaly Drug Rejected&nbsp;&nbsp;MedPage Today",
+      "sources": [
+        {
+          "name": "The Hill",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUUt4NHdCXzlnazlpdGdNNXZJS1RfYm5Xck9meTdmUS1GcEtGR1N1WURLYV85a2pmcnpVbFNxSzRZSV94ZGU5ZFRFWVBFcGNLNHMwRXgwdThpSnhEejNKdFE1a2ttMkkyUFgxSkEzRDV1TWM4QVlhZHFYNHgxUnJKWdIBhgFBVV95cUxNaGx2bmVCZjhQblc1RHY1b0VMTTg4NlBibFNqdFpqWlpHdUhZMmlZdnpqaXd5VVRhOGQyX3kwR0dOQ2h1THgwRGtFUmhvd3l2TkszMGtXYzRsMGxlV29qWVp4dEdHd0xyNUtpRGJNanM1MV9wY0JoQVNGYnZuNnJCdW5zNUhvZw?oc=5"
+        }
+      ]
+    },
     {
       "id": "6b649a9c5b98",
       "title": "H5N1 bird flu confirmed in Australia for the first time, meaning virus has now reached every continent - Fox News",
       "published": "2026-06-21T00:52:28+00:00",
-      "summary": "H5N1 bird flu confirmed in Australia for the first time, meaning virus has now reached every continent&nbsp;&nbsp;Fox NewsAustralia reports first suspected H5N1 case after virus found in two seabirds&nbsp;&nbsp;CNBC TV18",
+      "summary": "H5N1 bird flu confirmed in Australia for the first time, meaning virus has now reached every continent&nbsp;&nbsp;Fox NewsThousands of baby seals died on two remote sub-Antarctic islands. Scientists now think they know why&nbsp;&nbsp;CNNAustralia Was The Last Continent Without This Bird Flu. A Dead Skua Just Ended That&nbsp;&nbsp;Forbes‘A genuine wildlife emergency’: everything you need to know about the arrival of H5 bird flu in Australia&nbsp;&nbsp;The GuardianAustralia confirms first case of ",
       "sources": [
         {
           "name": "Fox News",
@@ -18,14 +54,14 @@
       ]
     },
     {
-      "id": "96ce2e257845",
-      "title": "Medicare launches pilot program expanding access to GLP-1 drugs - NewsNation",
-      "published": "2026-06-20T23:18:19+00:00",
-      "summary": "Medicare launches pilot program expanding access to GLP-1 drugs&nbsp;&nbsp;NewsNationMedicare weight-loss drug coverage could overwhelm doctors&nbsp;&nbsp;AxiosHow to get weight-loss drugs through Medicare: CNY pharmacist details new program&nbsp;&nbsp;Syracuse.comPharmalittle: We're reading about Medicare and obesity drugs, Germany's pricing plans, and more&nbsp;&nbsp;statnews.comMedicare's GLP-1 Program Looms; Chemicals in Breast Milk; Acromegaly Drug Rejected&nbsp;&nbsp;MedPage Today",
+      "id": "fa1521d9251b",
+      "title": "Frozen fruit and canned veg are cheap, but are they as healthy as fresh food? - Medical Xpress",
+      "published": "2026-06-21T00:30:01+00:00",
+      "summary": "Frozen fruit and canned veg are cheap, but are they as healthy as fresh food?&nbsp;&nbsp;Medical XpressSee more headlines & perspectives on Google News",
       "sources": [
         {
-          "name": "NewsNation",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb3FQUHdZV2ZtNHQyS2xRcjZlZTZtRDFtMEVvLXA0cXVNUFYxT2NyU3NSVm44S0FETGlORmw3Ny1xMnZXS0tfMzc4SHBlNF9oUmVHN2RIM2R5aGFIMUVKcGFxWFRuZkxDelE4WVF6MGVDRHEwR29BdDRvQ0NJSjVwRmJJMnp6WFk2Tk1j0gGQAUFVX3lxTE9WZEJTNS1oSzBMZWxKLV9FUWNYeEYyalY3aXVBVDM1MVdfOHg2T3BnbFVhSUU4NnJPWjg1UUpieUVhWHlyYkU3TkRkQ2JjRzI5SC15VnJILXJQTjZ4VkhmOHNvcFpqUFBRZ2ZtMWRRQ3NabkJTWEt0b0RvUFMtbGFsSUxsNnNGbkxJVmRiM210bQ?oc=5"
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sd1dycjhoa2U3Q01Rbm96c29JQ3psR1QxYi1ZeWJaaGdqeTF4TjliZ1ZneTk0VVJ5UnpBcVhqZFBzMnpzN29kSU9mcEJXQjZRbVFOZTk5aGt4VUJHNHVLNlNjbllkdGw5M0pUWHh1c0lnU1l6SUdIRVVFbUY0UQ?oc=5"
         }
       ]
     },
@@ -33,7 +69,7 @@
       "id": "6e954b832c9a",
       "title": "Suspected Ebola patient being treated at Haifa hospital after recent trip to DRC - The Times of Israel",
       "published": "2026-06-20T23:01:16+00:00",
-      "summary": "Suspected Ebola patient being treated at Haifa hospital after recent trip to DRC&nbsp;&nbsp;The Times of Israel2nd person hospitalized for possible Ebola after recent trip to DRC&nbsp;&nbsp;The Times of IsraelFirst Suspected Ebola Case in Israel Transferred to Isolation, Health Ministry Says&nbsp;&nbsp;HaaretzIsrael Reports Second Suspected Ebola Case In Traveler From Congo&nbsp;&nbsp;i24NEWSHealth Ministry monitors suspected Ebola case under isolation protocol&nbsp;&nbsp;The Jerusalem Post",
+      "summary": "Suspected Ebola patient being treated at Haifa hospital after recent trip to DRC&nbsp;&nbsp;The Times of IsraelSecond person suspected of Ebola put in isolation, health ministry says&nbsp;&nbsp;Haaretz2nd person hospitalized for possible Ebola after recent trip to DRC&nbsp;&nbsp;The Times of IsraelIsrael Reports Second Suspected Ebola Case In Traveler From Congo&nbsp;&nbsp;i24NEWSHealth Ministry monitors suspected Ebola case under isolation protocol&nbsp;&nbsp;The Jerusalem Post",
       "sources": [
         {
           "name": "The Times of Israel",
@@ -45,7 +81,7 @@
       "id": "81ec0e004679",
       "title": "Measles case confirmed in Maryland resident who passed through Dulles and DC clinic - WTOP",
       "published": "2026-06-20T22:42:46+00:00",
-      "summary": "Measles case confirmed in Maryland resident who passed through Dulles and DC clinic&nbsp;&nbsp;WTOPMeasles case reported at Dulles Airport, Adams Morgan clinic&nbsp;&nbsp;NBC4 WashingtonSouthside Virginia health officials urge precautions as measles outbreaks spread nearby&nbsp;&nbsp;WSETVDH continues to report new cases of measles in Buckingham&nbsp;&nbsp;CBS 19 NewsVDH reports another measles exposure in Northern Virginia amid outbreak in Buckingham County&nbsp;&nbsp;InsideNoVa.com",
+      "summary": "Measles case confirmed in Maryland resident who passed through Dulles and DC clinic&nbsp;&nbsp;WTOPMeasles case reported at Dulles Airport, Adams Morgan clinic&nbsp;&nbsp;NBC4 WashingtonMaryland resident with measles traveled through Dulles, DC clinic&nbsp;&nbsp;Baltimore SunSouthside Virginia health officials urge precautions as measles outbreaks spread nearby&nbsp;&nbsp;WSETVDH reports another measles exposure in Northern Virginia amid outbreak in Buckingham County&nbsp;&nbsp;InsideNoVa.com",
       "sources": [
         {
           "name": "WTOP",
@@ -57,7 +93,7 @@
       "id": "98dc93802d5d",
       "title": "6 Foods To Help Lower Blood Pressure Besides Pomegranate Juice - Health: Trusted and Empathetic Health and Wellness Information",
       "published": "2026-06-20T22:00:00+00:00",
-      "summary": "6 Foods To Help Lower Blood Pressure Besides Pomegranate Juice&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness InformationSee more headlines & perspectives on Google News",
+      "summary": "6 Foods To Help Lower Blood Pressure Besides Pomegranate Juice&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness Information3 Everyday Habits with More Blood Pressure Benefits Than Daily Walks&nbsp;&nbsp;EatingWellHigh blood pressure? Top nutritionist reveals the fruits, vegetables and seeds to add to your diet&nbsp;&nbsp;The Economic Times6 Canned Foods to Eat to Lower Blood Pressure, According to Dietitians&nbsp;&nbsp;Verywell HealthThe Best Breakfast Foods for High Blood Pressure,",
       "sources": [
         {
           "name": "Health: Trusted and Empathetic Health and Wellness Information",
@@ -90,6 +126,30 @@
       ]
     },
     {
+      "id": "acc61370567b",
+      "title": "Everyday Habit Changes Lowers Dementia Risk - Neuroscience News",
+      "published": "2026-06-20T18:50:36+00:00",
+      "summary": "Everyday Habit Changes Lowers Dementia Risk&nbsp;&nbsp;Neuroscience NewsFindings about older Michiganders and brain health (IMAGE)&nbsp;&nbsp;EurekAlert!Poll reveals gaps in brain health awareness among older adults&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "Neuroscience News",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zOEtPZEhaMi0xbE1TaVo2QmpqWEN1ZHRMbGNDVkVpZjI2Z3czcXhSM1ozRWhGOWR0OUh6ZEtEWThsb2VITW5NWFpkVnN1UGVLOXBsSFkweFBnV0lYa1NSaHZqSVhYSkZFRXR6bUlMTGNIcWI5aXdKUTBpRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "49480d61d58f",
+      "title": "'You kill the bacteria and heal the wound at the same time': Emerging nanotech could be the future of wound healing - Live Science",
+      "published": "2026-06-20T18:00:00+00:00",
+      "summary": "'You kill the bacteria and heal the wound at the same time': Emerging nanotech could be the future of wound healing&nbsp;&nbsp;Live ScienceResearchers Use Graphene Quantum Dots to Target Antibiotic-Resistant Bacteria&nbsp;&nbsp;The Quantum InsiderBiosynthesis of ecofriendly antibacterial nanoparticles with healing effects in a murine diabetic skin infection model&nbsp;&nbsp;NatureA new nanotech breakthrough could help heal dangerous wounds antibiotics can’t treat&nbsp;&nbsp;The Economic TimesSpi",
+      "sources": [
+        {
+          "name": "Live Science",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYkc0a21hdmw4ZDlBNVN4ekRzMDFWX05jMEh2YXhFaTh3ZGpqbm5UZ1oxN3ZQRV8xTEMtUEdYdS1JM2ZxOVFpRzF3TTBDNjV5WWQ5RVV4ekJET3dYMDBxMjI3QnM2TmI4RHdud05nUmZaS1lpVm9VRUpscXZUbXRiT1FaUk5WNnVINFEtcTFvUVJNcVpQWmZrLUZIaDMzNXpvaDN1YTBTbWNsZ2pCS1NvTnoxVzNiTkFXRDJWS1RtWVdqYVpVRU1OSnhpSGpkRXRMZEJ4YVFTQng3M2JZZUM2WQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "be1ba40f03e7",
       "title": "Why we should all be getting more sun: new book - New York Post",
       "published": "2026-06-20T18:00:00+00:00",
@@ -117,7 +177,7 @@
       "id": "52d4a8b883b4",
       "title": "What men should know about the US government’s latest move on testosterone therapy - CNN",
       "published": "2026-06-20T16:00:25+00:00",
-      "summary": "What men should know about the US government’s latest move on testosterone therapy&nbsp;&nbsp;CNNHHS Announces Requested Updates to Testosterone Therapy Product Labels&nbsp;&nbsp;HHS.govUS health department proposes testosterone therapy label updates&nbsp;&nbsp;ReutersTrump admin seeks to roll back testosterone restrictions — why docs are conflicted&nbsp;&nbsp;New York PostRFK Jr. Moves to Lift Warning Labels on Testosterone Therapy&nbsp;&nbsp;Bloomberg.com",
+      "summary": "What men should know about the US government’s latest move on testosterone therapy&nbsp;&nbsp;CNNHHS Announces Requested Updates to Testosterone Therapy Product Labels&nbsp;&nbsp;HHS.govUS health department proposes testosterone therapy label updates&nbsp;&nbsp;ReutersTrump admin seeks to roll back testosterone restrictions — why docs are conflicted&nbsp;&nbsp;New York PostRFK Jr. moves to lift warning labels on testosterone therapy&nbsp;&nbsp;The Daily Gazette",
       "sources": [
         {
           "name": "CNN",
@@ -138,10 +198,22 @@
       ]
     },
     {
+      "id": "8c2e57ecec7e",
+      "title": "5 Home Exercises That Restore Leg Strength Faster Than Gym Machines After 60 - Eat This Not That",
+      "published": "2026-06-20T15:02:37+00:00",
+      "summary": "5 Home Exercises That Restore Leg Strength Faster Than Gym Machines After 60&nbsp;&nbsp;Eat This Not ThatNo slowing down: Active aging is the new standard for life after 60&nbsp;&nbsp;WSB-TVHow to remain physically and mentally active&nbsp;&nbsp;Madison RecordStruggling With Balance As You Age? Experts Say There Might Be A Simple Solution.&nbsp;&nbsp;Yahoo“Simple activities are usually the most effective”—a doctor of physical therapy says these seven daily exercises will help maintain independen",
+      "sources": [
+        {
+          "name": "Eat This Not That",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84ZmUxd1JyR0lPU1dVQ1dIT0tYRDlUOXVoc0dhS3BxTHZqM1FqbEpBdmpsdmxzLWlqN1JpVFMwalkycGE3V2ItUmJYT1FfRlBSMWtlbUlfOVRSOTlCTG1hb3hMNDlRUlRFZmNROW4zQ3JWTEpvcmdVTw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "23fba8008446",
       "title": "Cancer patients are choosing ivermectin over chemo, and doctors are concerned - WOODTV.com",
       "published": "2026-06-20T15:00:00+00:00",
-      "summary": "Cancer patients are choosing ivermectin over chemo, and doctors are concerned&nbsp;&nbsp;WOODTV.comSome cancer patients turn to ivermectin despite lack of evidence it works for that purpose&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosMel Gibson Claimed Ivermectin Cured Cancer. Now Prescriptions of the Unproven Treatment Are Surging 160%&nbsp;&nbsp;People.comNurses Advised: ASCO Cautions Against Ivermectin and Fenbendazole Use&nbsp;&nbsp;Oncology Nursing NewsRising number of cancer",
+      "summary": "Cancer patients are choosing ivermectin over chemo, and doctors are concerned&nbsp;&nbsp;WOODTV.comMel Gibson Claimed Ivermectin Cured Cancer. Now Prescriptions of the Unproven Treatment Are Surging 160%&nbsp;&nbsp;YahooNurses Advised: ASCO Cautions Against Ivermectin and Fenbendazole Use&nbsp;&nbsp;Oncology Nursing NewsSome cancer patients turn to ivermectin despite lack of evidence it works for that purpose&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosRising number of cancer pati",
       "sources": [
         {
           "name": "WOODTV.com",
@@ -153,7 +225,7 @@
       "id": "c59ada3e4aef",
       "title": "The Actual Benefits of Intermittent Fasting, According to Experts - GQ",
       "published": "2026-06-20T14:53:28+00:00",
-      "summary": "The Actual Benefits of Intermittent Fasting, According to Experts&nbsp;&nbsp;GQNot so fast: Intermittent fasting isn't appetizing for everyone&nbsp;&nbsp;OSF HealthCareCan’t Stick to a Diet? Try Intermittent Fasting for Weight Loss | Newswise&nbsp;&nbsp;NewswiseIntermittent Fasting Is Better Than Counting Calories For Those Who Struggle To Lose Weight And Keep It Off: Study&nbsp;&nbsp;ETV Bharat",
+      "summary": "The Actual Benefits of Intermittent Fasting, According to Experts&nbsp;&nbsp;GQNot so fast: Intermittent fasting isn't appetizing for everyone&nbsp;&nbsp;OSF HealthCareIs intermittent fasting safe for everyone? Dietitian shares who should be careful&nbsp;&nbsp;Hindustan TimesCan’t Stick to a Diet? Try Intermittent Fasting for Weight Loss | Newswise&nbsp;&nbsp;NewswiseIntermittent Fasting Is Better Than Counting Calories For Those Who Struggle To Lose Weight And Keep It Off: Study&nbsp;&nbsp;ETV ",
       "sources": [
         {
           "name": "GQ",
@@ -174,10 +246,34 @@
       ]
     },
     {
+      "id": "cc13e88e5fca",
+      "title": "The scan may be clear, but the journey isn’t over: Doctors explain the untold reality of life after cancer - The Times of India",
+      "published": "2026-06-20T13:45:03+00:00",
+      "summary": "The scan may be clear, but the journey isn’t over: Doctors explain the untold reality of life after cancer&nbsp;&nbsp;The Times of IndiaAfter Breast Cancer Treatment, the Hardest Part Was Looking in the Mirror&nbsp;&nbsp;Katie Couric MediaWhat Happens After Breast Cancer Surgery? Why the Next Conversation Matters&nbsp;&nbsp;Flow SpaceLearning To Love the Body You’re Given Back After Breast Cancer&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQUHRjZmFQTmZVQ2gyNDdaT2hia0h6YjB1ZFpMVEpSaHpfajZkTXg4c0NFOXNiYWRPSndJVllpcThDMmsxUnJjVm1PNS1SYzdyMXFiTW5hUURiZUxjU3NwVUR0OFZNWjhtTmpZSGN1TjV4NDBodjZxR3ZFYzNramVJdlVMNWU1Q084bDFQZWdiSnktNWFOM0NzNFFEV1BkQUJzai1rS0x5dUxXZkd3WElMc3YtZjV5TDhZMHU2VGs2RGFJQ2JUY0lTckZjQm9JRnFvd1ZNUWIwMDBmZ3JuZXNzZlpjR1ZKTm50WW1kdDNZOG4tUkFyakRReFd1cFRraUsz0gGIAkFVX3lxTE5ObHR5d1c2Rl9iSkJDX1lMdF9fZE1Yc0MzWHhTa0RqLXlJTm90Skp4RURDY0IxaWdSMDRKMVhQcDhURURjU0xIZ1kzZlNUMEdfU21rTTV1RHpScE55bTd6amtSWEM2amZUWUpjSFhtQVNZYTB4MEo5eDMzcVM4a0hpSjUzN1pabkJ6WHVuOGdzUmRSLVVJcGtYR2JrTENrMUk2bFhsMWlGUE1hYnptY29kTHZ1NlNibUt6TmZuQ0pNamZUcnZFNjJQRjBDcS00NG1XOHdQeXAzWnp5YU9veXJIWUVNanVwbmZvdm51T193QXc1NjE1SmJ2RU52UWFWUjNoOUxKT2pSSw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "64f446fd2687",
+      "title": "Stroke survivor, retired firefighter reunites with hospital medical team that saved his life in Pomona - ABC7 Los Angeles",
+      "published": "2026-06-20T13:34:51+00:00",
+      "summary": "Stroke survivor, retired firefighter reunites with hospital medical team that saved his life in Pomona&nbsp;&nbsp;ABC7 Los Angeles",
+      "sources": [
+        {
+          "name": "ABC7 Los Angeles",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM1N5N1dTM1R2TmNDXzh2bmJLNFNXbDB1TGpvYlF3cHVJeWdNZ1FiVmJadTBaODQ4c1kzNVQzYmhFOXBkbnJ0ZmRXUEdqajI5VkMzZzVncWpyeVRXdHQ4R2duYUVJTkVCUmZKYTFBQzRabUR6MVhONDdpbWw2QllNdHRqcktkbGRFdE1xVmNzc1AwMnRmRWktc0JuZW5rTXBOY1VKX1N5eE42N3drdXdONVYwUHZIRnPSAbwBQVVfeXFMT2hnSWJDLURPdzNBR3pkbkdaTlpDdTI1YXphNE1YSmlsZjZsS0RxV0NWbWR4U3dDNkhRTExObjdVcjE3azJ4Ykt1M1VmQnp0YVlBVEdPRmRQOG9tcHJnMTRPcWdLT1NpV1VXOWNEeHREaXNtZ00wMllRb28xeVQ0R2htQmE2SlN3cTlDSGZ2Zi0ydF8xdmhlcV9MaEk4MFNrZVhZUmJYcEJiRVlpQ3hkWGU1dHhfdmxYcW9MeFc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4a32073893f6",
       "title": "Popular weight-loss drugs linked to unexpected male fertility benefit - Fox News",
       "published": "2026-06-20T13:00:32+00:00",
-      "summary": "Popular weight-loss drugs linked to unexpected male fertility benefit&nbsp;&nbsp;Fox NewsAnother possible benefit of GLP-1s? Improved male fertility&nbsp;&nbsp;CNNTestosterone levels normalise in 77% of men after obesity drug treatment, data show&nbsp;&nbsp;Новости GxPSemaglutide Obesity Drug Wegovy Increases Testosterone and Sperm Quality in Men&nbsp;&nbsp;동아사이언스Can GLP-1 Medications Affect Fertility? What Women Should Know&nbsp;&nbsp;Banner Health",
+      "summary": "Popular weight-loss drugs linked to unexpected male fertility benefit&nbsp;&nbsp;Fox NewsAnother possible benefit of GLP-1s? Improved male fertility&nbsp;&nbsp;CNNCan GLP-1s boost testosterone levels?&nbsp;&nbsp;Scientific AmericanGLP-1s Tied to Higher Risk for Dizziness, Fainting for Some&nbsp;&nbsp;MedscapeCan GLP-1 Medications Affect Fertility? What Women Should Know&nbsp;&nbsp;Banner Health",
       "sources": [
         {
           "name": "Fox News",
@@ -186,10 +282,22 @@
       ]
     },
     {
+      "id": "adac42f44f2b",
+      "title": "What Eating Fermented Foods Every Day Does to Your Body, According to Nutrition Experts - marthastewart.com",
+      "published": "2026-06-20T13:00:00+00:00",
+      "summary": "What Eating Fermented Foods Every Day Does to Your Body, According to Nutrition Experts&nbsp;&nbsp;marthastewart.comWhy fermented foods are so good for your gut, and 5 ways to eat more of them&nbsp;&nbsp;The Washington PostWant A Healthier Gut? Nutritionist Shares 3 Foods That Are Worth Every Penny&nbsp;&nbsp;NDTVFermented Foods vs. Fiber-Rich Foods: Which Matters More for Your Gut?&nbsp;&nbsp;EatingWellForget probiotic supplements: These 7 traditional foods nutritionists swear by for better dig",
+      "sources": [
+        {
+          "name": "marthastewart.com",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORXFaY3VzQ2szb3lxb1RQel8xOHFLenJBdW81aGd4MVlvdGN1aW0zNW0zVGdlR00xOVpYcHd6aG5mdmt4am11RlkyTWlhMkI3Wld0Ri1UNnFOcEtXYTdERWZvN0p4SE1ULXpWY29BbjY2Y3lPU05FUGZNZVRuMGZWQzJqeHRRTnF1dHdiSA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5c404bdd61ae",
       "title": "Humans May Soon Be Able to Regrow Body Parts—Including Fingers and Limbs—Thanks to a Groundbreaking Serum - Yahoo",
       "published": "2026-06-20T13:00:00+00:00",
-      "summary": "Humans May Soon Be Able to Regrow Body Parts—Including Fingers and Limbs—Thanks to a Groundbreaking Serum&nbsp;&nbsp;YahooHumans may have hidden regenerative powers&nbsp;&nbsp;ScienceDaily\"Once you show regeneration can be activated, it opens the door to new questions...\" Mammals – including us – could regrow limbs say scientists&nbsp;&nbsp;BBC Wildlife MagazineMammal Tissue Regeneration Activated: FGF2 and BMP2 Override Scarring in Mice&nbsp;&nbsp;Tech TimesScientists Discover Gene That One Day",
+      "summary": "Humans May Soon Be Able to Regrow Body Parts—Including Fingers and Limbs—Thanks to a Groundbreaking Serum&nbsp;&nbsp;YahooHumans may have hidden regenerative powers&nbsp;&nbsp;ScienceDaily\"Once you show regeneration can be activated, it opens the door to new questions...\" Mammals – including us – could regrow limbs say scientists&nbsp;&nbsp;BBC Wildlife MagazineHumans have hidden Wolverine-style healing powers, scientists say&nbsp;&nbsp;Daily ExpressScientists Discover Gene That One Day Could He",
       "sources": [
         {
           "name": "Yahoo",
@@ -206,6 +314,18 @@
         {
           "name": "New York Post",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNkR5QTR1VUQ5SzhTOWZodUQwal9DV0RhZ2ZHOGZkT3gyQy1lUkJubDR0cE55Y01BS05oQ0gzdDNEMk5YUmdnYTlERHE4aEVjM25FNDRWRVgyNWtmSHFtNC1KbGM2a0ZpVF82QkpCeFVOcGs2LWdrTkJucHlQTlVKcWRLQ3U3RW5XZmJhRW9Jb21YOEZWWmdEMjl0SlU1MEt0dVlxblFWUFhGWmEwSUctckxjamFZalROeHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "baf969634b54",
+      "title": "SpaceX Starfall Demo Flies Tuesday: Disk Capsule Bets on Orbital Manufacturing Scale - Tech Times",
+      "published": "2026-06-20T12:18:58+00:00",
+      "summary": "SpaceX Starfall Demo Flies Tuesday: Disk Capsule Bets on Orbital Manufacturing Scale&nbsp;&nbsp;Tech TimesStarfall Demo Mission&nbsp;&nbsp;SpaceXLast Mile of Space and Earth Rocket Package Delivery&nbsp;&nbsp;NextBigFuture.comSpaceX set to launch Starfall demo mission from Cape Canaveral Space Force Station&nbsp;&nbsp;WFTVDays Before Its IPO, SpaceX Just Got FAA Approval On a New Product That Could Change Space Forever&nbsp;&nbsp;AOL.com",
+      "sources": [
+        {
+          "name": "Tech Times",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdUJHZU9KSmQyclhDQ0Rid2VnaUFRbnpJZS1wZzd6UjY5cW1vZXBtcTlxRmI5dVVnWWZCMjNFT2ptX19UWnNaY1JzVGpWRlprbk1XdVJHa1hCRDE3NmR5NVpRTU11UDBscFpDZWxwVG1kTWREQ2xfODQwQktIelN3ZkVMSHBXQ01kU01QeURXaWpMYkUzRTlFbjQycVpMNW5MSlduTF9Za25abWN4Vm91bFpJYVhybzNYNDhqVDBvMHBtTHgyM2tpMzBrOWVGckNz?oc=5"
         }
       ]
     },
@@ -237,7 +357,7 @@
       "id": "21f517a3666c",
       "title": "You'd Never Guess This Subtle Sign Of A Stroke - HuffPost",
       "published": "2026-06-20T11:00:18+00:00",
-      "summary": "You'd Never Guess This Subtle Sign Of A Stroke&nbsp;&nbsp;HuffPostWe Tell People to ‘Know the Signs’ of Stroke. Then We Ignore Them.&nbsp;&nbsp;Law.comSSM Health urges residents to learn B.E.F.A.S.T. and call 911 at first stroke signs&nbsp;&nbsp;KRCGMetroWest Medical Center Promotes Stroke Awareness&nbsp;&nbsp;Framingham SourceThink you're having a stroke? Here's why you should call an ambulance&nbsp;&nbsp;SooToday.com",
+      "summary": "You'd Never Guess This Subtle Sign Of A Stroke&nbsp;&nbsp;HuffPostWe Tell People to ‘Know the Signs’ of Stroke. Then We Ignore Them.&nbsp;&nbsp;Law.comSSM Health urges residents to learn B.E.F.A.S.T. and call 911 at first stroke signs&nbsp;&nbsp;KRCGThink you're having a stroke? Here's why you should call an ambulance&nbsp;&nbsp;SooToday.comThis Silly Little Symptom Could Be Warning You Of A Stroke. Here's How To Tell.&nbsp;&nbsp;AOL.com",
       "sources": [
         {
           "name": "HuffPost",
@@ -273,7 +393,7 @@
       "id": "22d6c4783e5f",
       "title": "Saturn’s Icy Moon Is the Perfect Place to Settle, NASA Scientist Argues - Yahoo",
       "published": "2026-06-20T11:00:00+00:00",
-      "summary": "Saturn’s Icy Moon Is the Perfect Place to Settle, NASA Scientist Argues&nbsp;&nbsp;YahooA Titan among worlds&nbsp;&nbsp;The Planetary SocietyIn 2028, Americans will fly to Titan - Saturn's moon, where helium will be extracted&nbsp;&nbsp;Inbox.lvSaturn’s icy moon ideal place to settle, establish rest stop for trips into deep space: NASA&nbsp;&nbsp;New York PostNew Study Assesses Titan's Resources and their Potential Uses&nbsp;&nbsp;Universe Today",
+      "summary": "Saturn’s Icy Moon Is the Perfect Place to Settle, NASA Scientist Argues&nbsp;&nbsp;YahooSaturn’s icy moon ideal place to settle, establish rest stop for trips into deep space: NASA&nbsp;&nbsp;New York PostNew Study Assesses Titan's Resources and their Potential Uses&nbsp;&nbsp;Universe TodayA Titan among worlds&nbsp;&nbsp;The Planetary SocietyIn 2028, Americans will fly to Titan - Saturn's moon, where helium will be extracted&nbsp;&nbsp;Inbox.lv",
       "sources": [
         {
           "name": "Yahoo",
@@ -297,11 +417,23 @@
       "id": "f5459a95e933",
       "title": "Western Pa. families declining vitamin K shots, other preventive care for newborns - TribLIVE.com",
       "published": "2026-06-20T10:02:14+00:00",
-      "summary": "Western Pa. families declining vitamin K shots, other preventive care for newborns&nbsp;&nbsp;TribLIVE.comAre Parents More Likely to Refuse Vitamin K, HBV for Girls?&nbsp;&nbsp;MedscapeAlabama pediatrician says parents are refusing shot that prevents serious bleeding disorder&nbsp;&nbsp;WBRC 6 NewsWhy more male than female newborns may get the crucial vitamin K shot&nbsp;&nbsp;Science NewsRefusing the Vitamin K Shot After Birth Could Harm Your Baby&nbsp;&nbsp;American Council on Science and Heal",
+      "summary": "Western Pa. families declining vitamin K shots, other preventive care for newborns&nbsp;&nbsp;TribLIVE.comAre Parents More Likely to Refuse Vitamin K, HBV for Girls?&nbsp;&nbsp;MedscapeAlabama pediatrician says parents are refusing shot that prevents serious bleeding disorder&nbsp;&nbsp;WBRCWhy more male than female newborns may get the crucial vitamin K shot&nbsp;&nbsp;Science NewsRefusing the Vitamin K Shot After Birth Could Harm Your Baby&nbsp;&nbsp;American Council on Science and Health",
       "sources": [
         {
           "name": "TribLIVE.com",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbjRVRUFDTV9lbjVON2xLYlJHbHUzdm5yOHV3RzEwMGpXbjIxVjNnbVpVWVMxVVVxZDRIMUFmTkNvRDdZVGVId3FLNENCeW9oUGtZd0FEQ0tIeE13aFVibkRxZnI1aE1PV1plVXF1cVpXamg5VkpaNzhzcV9lT21qaWJfZHhyTDJtZW1hN042UndtaFh2ZWoxdUY0ZnZ2RWVJZXRlaDlmR2duZk1RSDJER0F3NEg0bDE3Rmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0ca4f5dba144",
+      "title": "Vitamin D supplements not working? 3 common mistakes people make, heart surgeon reveals - The Times of India",
+      "published": "2026-06-20T09:51:18+00:00",
+      "summary": "Vitamin D supplements not working? 3 common mistakes people make, heart surgeon reveals&nbsp;&nbsp;The Times of IndiaTaking vitamin D supplements but not seeing any difference in bloodwork? Cardiologist shares 3 mistakes people make&nbsp;&nbsp;Hindustan Times",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVGRUN1R2SVRSakxOT1FLX1ZweUJ4NzVyaUVGeWw2blR6TVJEZ1lJdGlrUVVYSHMzeWh1U2pmNENkWWFOOGJ5U0pHVks4NDJxYTAwV013TmxXMmMwbVhPSmdWOEVVNjJ2cVJXcngtNXcxbm5JRUlnblpxTU45bGlqNGJZNGZHNHJ1dTh1dWVwLVVLLXZ0MlRLT0tLQjhSSlEyTWRnNTFqbDZoNFNZVDMzeHpWMXhKRWlnbFNTSGxGY05uQmVUZzNpRGxIOWd2Y0Z1cTZsRFJwcVpJM2Z5RG5fT2V5V2hZNktpa2ZYeGFZVWtJV2Z40gH8AUFVX3lxTE15RzZDNkxpSE5mc21QenBpRjBsVWRDeW9YNlBRQUx1b3NXQlFlQW9UMFRlSlhLUzRXSkZKcnJUcXZwSmI3YURsaVZicXcyX0NxeGNrOVlyV0M4M1gxZzVrbWVIVGlicXFGWTNOTzhsVGZxMEhRdVBfSE1DTWh6RFhqY2tsZHhMZTVYdjNsVDA4OUhQbEF5ZWRBMXJFNE1Cd0dNT0lCNUVYalFZUldHY0h0cXNfOE9WVzlrbS1mVXZrY1NHY25VM3p4T2FrRFVvZlJRa1JReWVkTjlidG5pWm5nXzEwbU42U1c2cTVHQ0s0Nkxpa0VCM1BYdXBPTQ?oc=5"
         }
       ]
     },
@@ -321,7 +453,7 @@
       "id": "1ac004f50b56",
       "title": "AI model helps some patients get diagnoses after years of uncertainty: Study - ABC News - Breaking News, Latest News and Videos",
       "published": "2026-06-20T09:26:01+00:00",
-      "summary": "AI model helps some patients get diagnoses after years of uncertainty: Study&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosAI helped diagnose 18 children whose rare diseases had stumped doctors&nbsp;&nbsp;NBC NewsUsing AI to help physicians diagnose rare genetic diseases affecting children&nbsp;&nbsp;OpenAIAI solves 18 medical mysteries in ‘total game changer’ for patients&nbsp;&nbsp;The IndependentAI Reasoning Model Helps Identify Leads for Rare Disease Diagnoses&nbsp;&nbsp;Clinica",
+      "summary": "AI model helps some patients get diagnoses after years of uncertainty: Study&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosAI helped diagnose 18 children whose rare diseases had stumped doctors&nbsp;&nbsp;NBC NewsUsing AI to help physicians diagnose rare genetic diseases affecting children&nbsp;&nbsp;OpenAIAI solves 18 medical mysteries in ‘total game changer’ for patients&nbsp;&nbsp;The IndependentFans describe their experience in Boston for World Cup&nbsp;&nbsp;AOL.com",
       "sources": [
         {
           "name": "ABC News - Breaking News, Latest News and Videos",
@@ -338,6 +470,18 @@
         {
           "name": "ScienceAlert",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVTNLSDdsYWRjV3J5NzNGZGE4NXR0anhHS2x1Qk1ZWUh0ODNJMkVlaTh1MFpNSWw4VzdjU1d1aXFDNjVETEM5cmYtN0V4bEVoQ2tmazZlNDJvQ1Atelp3b01qNnVFak1Oc1VBT3BXLVhaSmltalljZ2tfVmw4WmI4NUN1djBKTEFENnJmVnJzbjh6bzJsMGFESXE2eThONHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "92e97009227b",
+      "title": "The alcohol damage you can reverse in midlife - The Telegraph",
+      "published": "2026-06-20T07:00:00+00:00",
+      "summary": "The alcohol damage you can reverse in midlife&nbsp;&nbsp;The TelegraphA clearer picture of drinking and disease&nbsp;&nbsp;Harvard GazetteAlcohol study sidelined by Trump health authorities gets published anyway&nbsp;&nbsp;Post and CourierA New Study Says No Amount of Alcohol Is Healthy&nbsp;&nbsp;106.3 The GrooveCasual drinker? You still have a 1 in 25 risk of dying, study says&nbsp;&nbsp;magicvalley.com",
+      "sources": [
+        {
+          "name": "The Telegraph",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMjI5WHhsbmNXVkNVb1R2WkNKWUNHQzZ5MzRsR3lmMi1tRl9uMXJCNzg2Y3NTejltSHZSMHctc3d4TWtkTDAya2VjZm81NENXWTBWZ0ZrX2g0ZDhkRk5IUmlBajVVTW9NTm5WcEYwMmZxbEtLeVZkekFvamV4R01uYkZtd1g0RzA4OGFRdUpVZ0dlLWRiMFpNdmdNYlNac1g2dE96VQ?oc=5"
         }
       ]
     },
@@ -381,7 +525,7 @@
       "id": "6cb14c2a760a",
       "title": "New Research Casts Doubt on a Go-To Supplement for Brain Health - inc.com",
       "published": "2026-06-20T01:32:04+00:00",
-      "summary": "New Research Casts Doubt on a Go-To Supplement for Brain Health&nbsp;&nbsp;inc.comThe omega-3 supplement you take may not be helping your brain&nbsp;&nbsp;CNNFish oil supplements may not prevent Alzheimer’s-related decline&nbsp;&nbsp;Keck Medicine of USCTaking omega-3 supplement for better memory or cognition? Here's what new research found&nbsp;&nbsp;FirstpostFish Oil Reaches the Brain but Fails to Slow Alzheimer’s Decline&nbsp;&nbsp;ScienceBlog.com",
+      "summary": "New Research Casts Doubt on a Go-To Supplement for Brain Health&nbsp;&nbsp;inc.comThe omega-3 supplement you take may not be helping your brain&nbsp;&nbsp;CNNFish oil supplements may not prevent Alzheimer’s-related decline&nbsp;&nbsp;Keck Medicine of USCTaking omega-3 supplement for better memory or cognition? Here's what new research found&nbsp;&nbsp;FirstpostUSC Study Finds Fish Oil Fails To Protect Aging Brains&nbsp;&nbsp;Evrim Ağacı",
       "sources": [
         {
           "name": "inc.com",
@@ -417,7 +561,7 @@
       "id": "ad78e480af98",
       "title": "A new study rewrites the history of the plague - NPR",
       "published": "2026-06-19T21:03:04+00:00",
-      "summary": "A new study rewrites the history of the plague&nbsp;&nbsp;NPRLethal plague outbreaks in Lake Baikal hunter-gatherers 5,500 years ago&nbsp;&nbsp;NatureAncient DNA is rewriting the history of plague&nbsp;&nbsp;The EconomistOldest-known plague outbreak came 5,500 years ago in Siberia&nbsp;&nbsp;ReutersNew Discovery That Hunter-Gatherer Children Died of Plague More Than Five Millennia Ago Sets Back the Date of the Earliest Outbreak&nbsp;&nbsp;Smithsonian Magazine",
+      "summary": "A new study rewrites the history of the plague&nbsp;&nbsp;NPRLethal plague outbreaks in Lake Baikal hunter-gatherers 5,500 years ago&nbsp;&nbsp;NatureAncient DNA is rewriting the history of plague&nbsp;&nbsp;The EconomistOldest-known plague outbreak came 5,500 years ago in Siberia&nbsp;&nbsp;ReutersNews - Earliest Plague Outbreak Identified in Siberia&nbsp;&nbsp;Archaeology Magazine",
       "sources": [
         {
           "name": "NPR",
@@ -429,7 +573,7 @@
       "id": "7f75ff7b65f1",
       "title": "Rare tick disease poses a danger in Minnesota lakes area - Duluth News Tribune",
       "published": "2026-06-19T21:00:00+00:00",
-      "summary": "Rare tick disease poses a danger in Minnesota lakes area&nbsp;&nbsp;Duluth News TribuneDeadly tick-borne disease that can cause brain damage spreading across the US&nbsp;&nbsp;FOX WeatherLocal man critically ill after rare tick bite&nbsp;&nbsp;WCVBConcord NH man hospitalized with rare Powassan disease&nbsp;&nbsp;Concord MonitorLittle-known tick bite disease leaves man nonverbal — what to know about the rising threat&nbsp;&nbsp;New York Post",
+      "summary": "Rare tick disease poses a danger in Minnesota lakes area&nbsp;&nbsp;Duluth News TribuneDeadly tick-borne disease that can cause brain damage spreading across the US&nbsp;&nbsp;FOX WeatherConcord NH man hospitalized with rare Powassan disease&nbsp;&nbsp;Concord MonitorLocal man critically ill after rare tick bite&nbsp;&nbsp;WCVBNew Hampshire man hospitalized for weeks after contracting tick-borne illness&nbsp;&nbsp;WMUR",
       "sources": [
         {
           "name": "Duluth News Tribune",
@@ -462,18 +606,6 @@
       ]
     },
     {
-      "id": "2ebb307b8dd2",
-      "title": "The Sun may not engulf Earth after all, scientists say - Phys.org",
-      "published": "2026-06-19T19:40:02+00:00",
-      "summary": "The Sun may not engulf Earth after all, scientists say&nbsp;&nbsp;Phys.orgGood news—we have extra time before the Sun ends life on Earth&nbsp;&nbsp;Ars TechnicaThe real reason Earth escapes the dying sun gravity&nbsp;&nbsp;The News InternationalSun may spare Earth and Mars, as study reverses course on death of our planet&nbsp;&nbsp;WIONScientists thought Earth would be swallowed by the sun, new research suggests it may not happen&nbsp;&nbsp;MSN",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92WGxSejNCMUtEcy1TNExzVDlJaFJkVmQ4QllXYW85ZWZ2Y1A2dWdBMGo4VnpzRHFSZVROa0RfX3U4WlNFRVR3bXFzQll1WjBGM0xLX3c0RUJYWUM1T1pCaUV1TkU3SnNFWWNENnJmWQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0eceb9952a4f",
       "title": "New Trigger for Alzheimer’s Disease May Have Been Found - Newsweek",
       "published": "2026-06-19T19:24:00+00:00",
@@ -489,7 +621,7 @@
       "id": "acdda3f86931",
       "title": "Measles case reported at LAX as global World Cup travel sparks fears of spread - New York Post",
       "published": "2026-06-19T19:19:00+00:00",
-      "summary": "Measles case reported at LAX as global World Cup travel sparks fears of spread&nbsp;&nbsp;New York PostA traveler with measles passed through LAX. Officials urge caution amid World Cup crowds&nbsp;&nbsp;Los Angeles TimesHealth officials warn about possible measles exposure at LAX, airport hotel&nbsp;&nbsp;KTLAMeasles-infected traveler may have exposed passengers at LAX and nearby hotel, health officials warn&nbsp;&nbsp;Fox NewsMeasles case detected at SFO days before World Cup start&nbsp;&nbsp;S",
+      "summary": "Measles case reported at LAX as global World Cup travel sparks fears of spread&nbsp;&nbsp;New York PostA traveler with measles passed through LAX. Officials urge caution amid World Cup crowds&nbsp;&nbsp;Los Angeles TimesHealth officials warn about possible measles exposure at LAX, airport hotel&nbsp;&nbsp;KTLAMeasles case detected at SFO days before World Cup start&nbsp;&nbsp;SFGATEPublic Health Confirms Measles Case in LA County -&nbsp;&nbsp;Random Lengths News",
       "sources": [
         {
           "name": "New York Post",
@@ -501,7 +633,7 @@
       "id": "d86305b960ee",
       "title": "The Surprising Reason Swimming Could Be Better for Your Heart Than Running - SciTechDaily",
       "published": "2026-06-19T19:08:23+00:00",
-      "summary": "The Surprising Reason Swimming Could Be Better for Your Heart Than Running&nbsp;&nbsp;SciTechDailyWhat happens to your body when you swim is more than cardio, and the hidden benefit is improved physical health and emotional regulation at the same time&nbsp;&nbsp;OkDiarioSwimming Shows Greater Heart Growth Benefits Than Running&nbsp;&nbsp;Daily BeirutThe ideal discipline for strengthening the heart and improving circulation… and it’s not walking or biking&nbsp;&nbsp;OkDiario",
+      "summary": "The Surprising Reason Swimming Could Be Better for Your Heart Than Running&nbsp;&nbsp;SciTechDailyWhat happens to your body when you swim is more than cardio, and the hidden benefit is improved physical health and emotional regulation at the same time&nbsp;&nbsp;OkDiarioThe ideal discipline for strengthening the heart and improving circulation… and it’s not walking or biking&nbsp;&nbsp;OkDiario",
       "sources": [
         {
           "name": "SciTechDaily",
@@ -513,7 +645,7 @@
       "id": "7c64f0c91962",
       "title": "Could Vitamin C Be the Secret to Keeping Your Brain Younger? - SciTechDaily",
       "published": "2026-06-19T18:33:24+00:00",
-      "summary": "Could Vitamin C Be the Secret to Keeping Your Brain Younger?&nbsp;&nbsp;SciTechDailyA common vitamin was linked to healthier brain networks in more than 2,000 older adults&nbsp;&nbsp;ZME SciencePeople Who Always Drink Orange Juice With Breakfast Have Stronger Brains As They Age&nbsp;&nbsp;YourTangoLow Vitamin C Levels Linked to Poorer Brain Health in Older Adults&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness InformationAdults With More Of This Vitamin Had Healthier Brain Scans, S",
+      "summary": "Could Vitamin C Be the Secret to Keeping Your Brain Younger?&nbsp;&nbsp;SciTechDailyScientists Say This 1 Vitamin May Protect Your Brain as You Age&nbsp;&nbsp;PreventionAdults With More Of This Vitamin Had Healthier Brain Scans, Study Finds&nbsp;&nbsp;MindBodyGreenA common vitamin was linked to healthier brain networks in more than 2,000 older adults&nbsp;&nbsp;ZME ScienceLow Vitamin C Levels Linked to Higher Dementia Risk, Study Finds&nbsp;&nbsp;Seoul Economic Daily",
       "sources": [
         {
           "name": "SciTechDaily",
@@ -522,22 +654,10 @@
       ]
     },
     {
-      "id": "2e5355a11b2a",
-      "title": "More than 70 medics infected with Ebola as DRC outbreak spreads ‘fast’ - Al Jazeera",
-      "published": "2026-06-19T18:13:20+00:00",
-      "summary": "More than 70 medics infected with Ebola as DRC outbreak spreads ‘fast’&nbsp;&nbsp;Al JazeeraEbola in DR Congo: One month on, scaled up response remains insufficient&nbsp;&nbsp;UN NewsAt least 30 deaths at Congo camp show Ebola could be spreading fast&nbsp;&nbsp;ReutersEbola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda&nbsp;&nbsp;World Health Organization (WHO)Death rate at camp in DR Congo spikes amid fears of Ebola spiralling&nbsp;&nbsp;Sky News",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQUpGcUE0UXYwRGJOU3gyR3QxeEdIcER1eHhQZ05QRmFUZ0Vra3FSQjE4Z0JUS29pUWRqT2toYzA2cWdyWHh1UERIU1h4N0RwRE1GaHZET0tZWjZBWGdwcXpqRWQyVnp6S2Z0NnhDUFRPMUxzcFNlel9oRmR4YnFpdGRXejJPMzlBeTRCV0pKQ1FHMlR4TnBFbnF3TGloeUgtQjJKX3d1bFNTaWtacEHSAbMBQVVfeXFMTzhMc2ltSFZ0OUROdk9FOEdLa09YYTJpa2hDbmpzdlUzcGlKSlZYTnN2YXZkMGF6eXN4d1AyWjV4cjBxSnRrZ2VUWkZHeVEwNWMyUzU4dGZUZHBtdklNTW9OVjZvRGZFZk9vZ3BFSHJtTWU2cWtDZEY4c28wNWtiLVNEUUhkeE9JX1VOcGdpVG5fbnRLS0hSMTA1eFJ4ZEVzeXlGcWZmTUN2VjhTT2tUWTlORUE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "873a1b20cae2",
       "title": "Scientists may have solved weight regain problem from GLP-1 drugs - NewsNation",
       "published": "2026-06-19T17:33:32+00:00",
-      "summary": "Scientists may have solved weight regain problem from GLP-1 drugs&nbsp;&nbsp;NewsNationTaking A Break? Study Finds Why Many GLP-1 Users Stop And Restart Their Medication&nbsp;&nbsp;NDTVMore than half of patients who stop weight-loss drugs restart within a year&nbsp;&nbsp;The Pharmaceutical JournalMany Patients Stop And Restart GLP-1 Meds, Study Finds&nbsp;&nbsp;U.S. News & World ReportMost Who Stop GLP-1 Drugs Like Ozempic Face the Same Fate—Expert Explains&nbsp;&nbsp;Yahoo Lifestyle Canada",
+      "summary": "Scientists may have solved weight regain problem from GLP-1 drugs&nbsp;&nbsp;NewsNationTaking A Break? Study Finds Why Many GLP-1 Users Stop And Restart Their Medication&nbsp;&nbsp;NDTVMany Patients Stop And Restart GLP-1 Meds, Study Finds&nbsp;&nbsp;U.S. News & World ReportMost Who Stop GLP-1 Drugs Like Ozempic Face the Same Fate—Expert Explains&nbsp;&nbsp;Yahoo Lifestyle CanadaStudy reveals frequent stop-and-start patterns with GLP-1 drugs&nbsp;&nbsp;News-Medical",
       "sources": [
         {
           "name": "NewsNation",
@@ -549,11 +669,23 @@
       "id": "2555b4f9310a",
       "title": "Non-surgical procedure may help relieve knee pain - WFMZ.com",
       "published": "2026-06-19T16:05:00+00:00",
-      "summary": "Non-surgical procedure may help relieve knee pain&nbsp;&nbsp;WFMZ.comNew procedure delivers lasting knee arthritis pain relief without surgery&nbsp;&nbsp;ScienceDailyInterventional treatment offers 'meaningful' alternative to surgery for osteoarthritis&nbsp;&nbsp;Radiology BusinessGAE effective for knee pain up to 12 months&nbsp;&nbsp;AuntMinnieMinimally Invasive Knee Procedure Linked To Lower Arthritis Pain Scores&nbsp;&nbsp;StudyFinds",
+      "summary": "Non-surgical procedure may help relieve knee pain&nbsp;&nbsp;WFMZ.comNew procedure delivers lasting knee arthritis pain relief without surgery&nbsp;&nbsp;ScienceDailyInterventional treatment offers 'meaningful' alternative to surgery for osteoarthritis&nbsp;&nbsp;Radiology BusinessFor Chronic Knee Pain, Genicular Artery Embolization Provides a New Alternative&nbsp;&nbsp;CU Anschutz newsroomGAE effective for knee pain up to 12 months&nbsp;&nbsp;AuntMinnie",
       "sources": [
         {
           "name": "WFMZ.com",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRkVKR3cxdUZkMnFKaW9KLUwxalhIN3BvY3k2RmhyZm5TQVRMeHVxVVllendsYTJoTm1xS1dWQUNxMk50VEtCZkRIWGlIZ29JY2Fnck5ENkdpUS12dlV2aHpYbXNDMlM3RGdfT1hST2Rqb2ZCRFNEOGFtY1VmNk9HMTdhZmRobGVCbndZV0pPREVLRDc1NDVoMnNQclo4aGdMT3lhWGxTR1dnNmNUWU9ZaHBpeGJOQzdlcWpUbmtzT0t0dDByQ3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8d3d5d244093",
+      "title": "Why Some People Are Natural Night Owls, According to Sleep Experts - marthastewart.com",
+      "published": "2026-06-19T16:00:00+00:00",
+      "summary": "Why Some People Are Natural Night Owls, According to Sleep Experts&nbsp;&nbsp;marthastewart.com4 Surprising Health Benefits of Being an Early Bird&nbsp;&nbsp;EatingWellWill getting up early make you more successful? Here’s the truth about morning productivity&nbsp;&nbsp;The IndependentWhy Some People Are Wired to Wake Up Early, According to Experts&nbsp;&nbsp;marthastewart.com",
+      "sources": [
+        {
+          "name": "marthastewart.com",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWnh6YWcycUZDa0hiNDJVcW1HeUlxN3FVU2I0MUFvaXBfMkZRMzBkdkdEYUNVMDg2OUVmeDIzYVF5UzFuLUw3SXlzZEpPZlMwTEMxTmhYd1l5THpoaGdmTjJfOTA0WURMc2hINlBPMnhoTlNuenlHWnY1X1ItYmRndXljdw?oc=5"
         }
       ]
     },
@@ -582,18 +714,6 @@
       ]
     },
     {
-      "id": "2568c21072c8",
-      "title": "Groundbreaking Copper Drug Could Boost Memory by 44 Percent, a Breakthrough in Treating Cognitive Decline - inc.com",
-      "published": "2026-06-19T15:06:01+00:00",
-      "summary": "Groundbreaking Copper Drug Could Boost Memory by 44 Percent, a Breakthrough in Treating Cognitive Decline&nbsp;&nbsp;inc.comCopper drug clears toxic Alzheimer’s proteins and restores memory&nbsp;&nbsp;ScienceDailyThis Copper Drug Clears Alzheimer’s Brain Toxins and Boosts Memory&nbsp;&nbsp;SciTechDailyResearch authors (IMAGE)&nbsp;&nbsp;EurekAlert!Alzheimer’s Research Takes Unexpected Turn Toward Copper&nbsp;&nbsp;StudyFinds",
-      "sources": [
-        {
-          "name": "inc.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbUNEckV3V3E0Y3dJUVl2MTdQTERoVUIwc05JeDJTb0F3a3JPQzhmV1UyYm8zMXpncGg1anpoLS1ybElyVWI2eDNXQ1dsTkxMbWFUTE41ZmZHZ2Mtd0NhQUhWejh4YUVHNndxMHJtbHZwS3pLVzctcXhYaVNrS3NHcldYQnp2NHNCXzJPOUhDRGpvY2MxaXloSXNESTBqcjRMb2ttOV93?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2c6bccf00a0b",
       "title": "Ebola in DR Congo: Six-year-old 'doing well' after armed men took her from hospital - BBC",
       "published": "2026-06-19T14:45:57+00:00",
@@ -609,7 +729,7 @@
       "id": "086c4edd857c",
       "title": "4 Myths about Alzheimer’s You Need to Stop Believing - EatingWell",
       "published": "2026-06-19T14:36:50+00:00",
-      "summary": "4 Myths about Alzheimer’s You Need to Stop Believing&nbsp;&nbsp;EatingWellJune is Alzheimer’s Awareness Month: Understand the risks, warning signs&nbsp;&nbsp;Pine Bluff CommercialWell-Being Wednesday: Dementia: Early signs & when to seek care&nbsp;&nbsp;mynews4.comUnderstanding Alzheimer’s disease and protecting brain health&nbsp;&nbsp;News and TribuneCould these small changes be Alzheimer’s? Doctors share the signs families often miss&nbsp;&nbsp;The Times of India",
+      "summary": "4 Myths about Alzheimer’s You Need to Stop Believing&nbsp;&nbsp;EatingWellJune is Alzheimer’s Awareness Month: Understand the risks, warning signs&nbsp;&nbsp;Pine Bluff CommercialWell-Being Wednesday: Dementia: Early signs & when to seek care&nbsp;&nbsp;mynews4.comTelling Alzheimer’s apart from normal aging&nbsp;&nbsp;UT PhysiciansWVU Medicine specialist urges early evaluation for memory concerns&nbsp;&nbsp;WVU Medicine",
       "sources": [
         {
           "name": "EatingWell",
@@ -626,102 +746,6 @@
         {
           "name": "WIRED",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpeW1NVWZ2YWJZSzV1aHoySV8zQTlMMGpNZnBWa2NOeUZndlp5VGw5UWpocjVNRTctVHptdkdiVl8teF9pSVdRclFheEhrUlhqMk9maGp5YWdSLTR4UVg5VGREVUFuN3p3ZklaVThtZ1J3bWlqdHRqbnc0TVg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "75386022ed8b",
-      "title": "A 50-year-old PT shares the 4 simple exercises you need to start strength training later in life – here's how to do them - Women's Health",
-      "published": "2026-06-19T13:13:09+00:00",
-      "summary": "A 50-year-old PT shares the 4 simple exercises you need to start strength training later in life – here's how to do them&nbsp;&nbsp;Women's HealthSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "Women's Health",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWnlvV0gxd2FENDA5djZXQVcwUlJhRkdyN1lsUXFsYnVYMEdWanEzZGt0aUl0Y21obVVONlVWalZzMFM3VnJKV1pjeUUtX05iaDZHQXhndDROQWtBczZoOFBzdzJWVWF1REY5R0tqeFJJbUV0M0Y1RlRSSEdWQzExSkZITEU5eTJmZWJLMDZjMWk0SWNPOTMzVVk2bGdfSjVqSEV4M2dBUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0695ee679451",
-      "title": "Tick season is getting worse. Can managing deer help? - NPR",
-      "published": "2026-06-19T13:00:00+00:00",
-      "summary": "Tick season is getting worse. Can managing deer help?&nbsp;&nbsp;NPRHow to keep ticks off your dog (and out of your home)&nbsp;&nbsp;Popular ScienceTicks are spreading Lyme disease across America, but we can beat them. Here’s how.&nbsp;&nbsp;vox.com‘It is serious’: Tick-borne diseases surging nationwide&nbsp;&nbsp;WALBKnow your ticks: Here’s how to spot the ones that carry Lyme and alpha-gal&nbsp;&nbsp;The Boston Globe",
-      "sources": [
-        {
-          "name": "NPR",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrS0l4OG9GQXVUdE5icEU2UDVaTEdMdU9PSFowNzBlc0tXN3FnenJta296c0g2eGhNUnhRQnJWazU3S1NZcWx2NGU1c242ZGhVS3Byd3ZsendidkNfT1FQSHdPWWp6N214dVhqbWRXOThoVUdFRGEtdzVWb25BZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ba67e321951b",
-      "title": "Protein and Creatine Supplements Are No Longer Niche - Medscape",
-      "published": "2026-06-19T12:28:59+00:00",
-      "summary": "Protein and Creatine Supplements Are No Longer Niche&nbsp;&nbsp;MedscapeCreatine Benefits: What the Trending Supplement Can Do for Your Health&nbsp;&nbsp;GQDiary Of A CEO: w/ Dr. Darren Candow on Creatine (Transcript)&nbsp;&nbsp;The Singju PostCould gym booster creatine also be a weapon against cancer?&nbsp;&nbsp;YahooCreatine isn’t just for bodybuilders anymore. Here’s why everyone’s talking about it&nbsp;&nbsp;PerthNow",
-      "sources": [
-        {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3I3ZGt2VWxPQlVNNlNxajZpUkN4QkZOeDF6QkFyR2lmemktSGVJY0xsQWNPcTFjN0RQbkhOY2lKamVmYWpsSW51eGtMZ3ZaYU53NGd4c21YbGE2N1VmWEhuYVNXa1E5NDAySFc0RW51bE5scWlTb0JHYVNGR0hLSXBfZ0tqcnhRODYycnhuOW9UOG5BSXFRcktib0RPR2pjT2FUTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5cf8cff7a458",
-      "title": "Doctors Say These Are the Top 5 Foods That Cause Inflammation - AOL.com",
-      "published": "2026-06-19T12:25:16+00:00",
-      "summary": "Doctors Say These Are the Top 5 Foods That Cause Inflammation&nbsp;&nbsp;AOL.comFoods That Can Trigger Inflammation&nbsp;&nbsp;NDTVNutrition to heal inflammation: Health coach shares 6 whole-foods recipes that can soothe your body from within&nbsp;&nbsp;Hindustan Times",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92ckJQU2xPeVlLaUwzaTZ1bHpiczRQZzVBRGZycWlVanRtZHBnOGlvMlk2YXpRLWRoRW9IWW5nTnUzWk05bEZTaWVsQzBjX2tBdnJOZHRpVFhpR1F4Zk5qUE5DTUxGY3lPZWhaOXBtZm1NUERFNEgzSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a97e38516dcd",
-      "title": "We Are Admittedly a Bit Startled by This Medical Case Report About Giving an Elderly Woman With Advanced Alzheimer's a Gigantic Dose of Psychedelic Mushrooms Just to See What Would Happen - Futurism",
-      "published": "2026-06-19T12:00:00+00:00",
-      "summary": "We Are Admittedly a Bit Startled by This Medical Case Report About Giving an Elderly Woman With Advanced Alzheimer's a Gigantic Dose of Psychedelic Mushrooms Just to See What Would Happen&nbsp;&nbsp;FuturismWoman with Advanced Alzheimer’s Disease Regains Speech, Mobility After Taking Magic Mushrooms: Report&nbsp;&nbsp;People.comA Woman With Alzheimer’s Spoke in Full Sentences After Taking Psilocybin, Case Study Says&nbsp;&nbsp;VICECould Psilocybin Offer A Glimpse Of Lost Function In Advanced Alz",
-      "sources": [
-        {
-          "name": "Futurism",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUGRtQWYxdWRfNFQtTWFiYlBmbG5KTGcxRmltaV9IY05zVk9aYU1GRDNZNGtHMnNjT3lOX3pWb0ExMUZXd2hXM09MbnJLQ2c2THNhNlNuN0N1aGY2TW5FV2toUkt3eGE5X1JRSE1Wb29VaXdVQ2kwbEo3cnMwX1UzcFlUTlhHbGsxYnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9ceeb23939b8",
-      "title": "A Signal of Future Alzheimer's May Be Hidden in Your Eyes - ScienceAlert",
-      "published": "2026-06-19T11:01:34+00:00",
-      "summary": "A Signal of Future Alzheimer's May Be Hidden in Your Eyes&nbsp;&nbsp;ScienceAlertMulti-omic analysis of deep learning-derived phenotypes links ophthalmic imaging to cardiovascular and neurological traits&nbsp;&nbsp;NatureRetinal Photos and AI Predict Early Alzheimer’s Risk&nbsp;&nbsp;Neuroscience NewsAn Eye Test For Dementia? The Cheap, Routine Photo Predicting Alzheimer’s Early&nbsp;&nbsp;HuffPost UKAI study explores the eye as a window to general health&nbsp;&nbsp;Trucknet UK",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOURSdkhvanFEUk5ucUlFazdwQnBIMUk4aXlrRE9ucV9MbUo2bGZBOGw1OVVvbzh5OHdoUm9rbk1yZmxnWWVWUXktX1oxNDZRNGtUeE1CYm93THNjakxCcm92cnNBNjY5bEgxX2pkbUtlNi0wSTVCSTlFazF0T0UtczZYZ0J3Y0VnUHg4dDItWE1WcEx3bTZ5VGZEMS03M1pMZnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e1e5a95314eb",
-      "title": "Deep learning reveals antimicrobial peptides within prions - Nature",
-      "published": "2026-06-19T10:50:06+00:00",
-      "summary": "Deep learning reveals antimicrobial peptides within prions&nbsp;&nbsp;NatureAI reveals unexpected source of antibiotic candidates in prion proteins&nbsp;&nbsp;Phys.orgAI tool could speed antibiotic development&nbsp;&nbsp;National Institutes of Health (.gov)Penn researchers develop predictive AI model for antibiotic discovery&nbsp;&nbsp;The Daily Pennsylvanian",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16UEJSZjhRN0I2aWxTQmhIOU0ybjZPTTlyRzVDTnNUOXliN0V4ZE1XNEs4dU5kbEJETVVjVVRXQmJuY3pKd0UzN0Vra3RxZE9MbDRDaFNyNDBfcmV4VmZN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f41c2db59aaf",
-      "title": "'A completely different story': 300 million-year-old fossils reveal the first vertebrate land dwellers weren't what we thought, researchers claim - Live Science",
-      "published": "2026-06-19T10:26:37+00:00",
-      "summary": "'A completely different story': 300 million-year-old fossils reveal the first vertebrate land dwellers weren't what we thought, researchers claim&nbsp;&nbsp;Live ScienceA Vietnam Veteran Collected Fossils for 66 Years. One, Mislabeled 'Baby Lamprey,' Made Paleontologists Reconsider How Vertebrates Moved From Water to Land&nbsp;&nbsp;Smithsonian MagazineA textbook assumption about early land vertebrates may be wrong&nbsp;&nbsp;Science NewsEarth’s First Land Animals May Never Have Been Amphibian-L",
-      "sources": [
-        {
-          "name": "Live Science",
-          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOUHNRUHUtenhpOG1fVTlmejdQaWtmX0pycnpfOFlWZW9FbWtmaVExenJZdUN4Zl9TOXR4WldjNURpd3Bpa2hjR2VtZmxzT2l0Zk1rRGlfbXZBd0MzVWhoM1BoU2luYkFia3dFaE5MY0hJMXVrM2tZWjlORldQN0hYNUVRbWt1NUxnX0EyUlNjNzBwN1V1WlBIV2YzZDR1cV9ha25leFRiZFlpXzdDNEt6MUt1UmJ1RVp4RlpUeENSbVFWbmx2V1cxb0l1WHN4OGktZTJzV2dzU1hvS1dFS2pwamVLaGEteEtlSFBLQjJZaUx6TkF1SFo0cVJiR3lEYzNabkVrRloyVnZGVTdLZjRGZ0N0LTlLZWQxVnN0NQ?oc=5"
         }
       ]
     }

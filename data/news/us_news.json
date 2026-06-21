@@ -1,15 +1,15 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-06-21T04:40:28.761479+00:00",
-  "total_fetched": 118,
-  "unique_count": 118,
+  "fetched_at": "2026-06-21T09:54:08.385035+00:00",
+  "total_fetched": 120,
+  "unique_count": 120,
   "health_related_count": 60,
   "news": [
     {
       "id": "6b649a9c5b98",
       "title": "H5N1 bird flu confirmed in Australia for the first time, meaning virus has now reached every continent - Fox News",
       "published": "2026-06-21T00:52:28+00:00",
-      "summary": "H5N1 bird flu confirmed in Australia for the first time, meaning virus has now reached every continent&nbsp;&nbsp;Fox NewsThousands of baby seals died on two remote sub-Antarctic islands. Scientists now think they know why&nbsp;&nbsp;CNNAustralia confirms first case of H5N1 bird flu as virus reaches every continent&nbsp;&nbsp;BBCVet's chance discovery of first H5 bird flu variant case during beach walk&nbsp;&nbsp;Australian Broadcasting CorporationAustralia Detects H5 Bird Flu as Virus Reaches E",
+      "summary": "H5N1 bird flu confirmed in Australia for the first time, meaning virus has now reached every continent&nbsp;&nbsp;Fox NewsAustralia reports first suspected H5N1 case after virus found in two seabirds&nbsp;&nbsp;CNBC TV18",
       "sources": [
         {
           "name": "Fox News",
@@ -18,10 +18,22 @@
       ]
     },
     {
+      "id": "96ce2e257845",
+      "title": "Medicare launches pilot program expanding access to GLP-1 drugs - NewsNation",
+      "published": "2026-06-20T23:18:19+00:00",
+      "summary": "Medicare launches pilot program expanding access to GLP-1 drugs&nbsp;&nbsp;NewsNationMedicare weight-loss drug coverage could overwhelm doctors&nbsp;&nbsp;AxiosHow to get weight-loss drugs through Medicare: CNY pharmacist details new program&nbsp;&nbsp;Syracuse.comPharmalittle: We're reading about Medicare and obesity drugs, Germany's pricing plans, and more&nbsp;&nbsp;statnews.comMedicare's GLP-1 Program Looms; Chemicals in Breast Milk; Acromegaly Drug Rejected&nbsp;&nbsp;MedPage Today",
+      "sources": [
+        {
+          "name": "NewsNation",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb3FQUHdZV2ZtNHQyS2xRcjZlZTZtRDFtMEVvLXA0cXVNUFYxT2NyU3NSVm44S0FETGlORmw3Ny1xMnZXS0tfMzc4SHBlNF9oUmVHN2RIM2R5aGFIMUVKcGFxWFRuZkxDelE4WVF6MGVDRHEwR29BdDRvQ0NJSjVwRmJJMnp6WFk2Tk1j0gGQAUFVX3lxTE9WZEJTNS1oSzBMZWxKLV9FUWNYeEYyalY3aXVBVDM1MVdfOHg2T3BnbFVhSUU4NnJPWjg1UUpieUVhWHlyYkU3TkRkQ2JjRzI5SC15VnJILXJQTjZ4VkhmOHNvcFpqUFBRZ2ZtMWRRQ3NabkJTWEt0b0RvUFMtbGFsSUxsNnNGbkxJVmRiM210bQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6e954b832c9a",
       "title": "Suspected Ebola patient being treated at Haifa hospital after recent trip to DRC - The Times of Israel",
       "published": "2026-06-20T23:01:16+00:00",
-      "summary": "Suspected Ebola patient being treated at Haifa hospital after recent trip to DRC&nbsp;&nbsp;The Times of IsraelFirst Suspected Ebola Case in Israel Transferred to Isolation, Health Ministry Says&nbsp;&nbsp;HaaretzHealth Ministry monitors suspected Ebola case under isolation protocol&nbsp;&nbsp;The Jerusalem PostIsrael checks suspected first Ebola case at Rambam hospital&nbsp;&nbsp;YnetnewsSuspected Ebola patient undergoes testing at Rambam Medical Center, results expected in days&nbsp;&nbsp;Yaho",
+      "summary": "Suspected Ebola patient being treated at Haifa hospital after recent trip to DRC&nbsp;&nbsp;The Times of Israel2nd person hospitalized for possible Ebola after recent trip to DRC&nbsp;&nbsp;The Times of IsraelFirst Suspected Ebola Case in Israel Transferred to Isolation, Health Ministry Says&nbsp;&nbsp;HaaretzIsrael Reports Second Suspected Ebola Case In Traveler From Congo&nbsp;&nbsp;i24NEWSHealth Ministry monitors suspected Ebola case under isolation protocol&nbsp;&nbsp;The Jerusalem Post",
       "sources": [
         {
           "name": "The Times of Israel",
@@ -42,6 +54,18 @@
       ]
     },
     {
+      "id": "98dc93802d5d",
+      "title": "6 Foods To Help Lower Blood Pressure Besides Pomegranate Juice - Health: Trusted and Empathetic Health and Wellness Information",
+      "published": "2026-06-20T22:00:00+00:00",
+      "summary": "6 Foods To Help Lower Blood Pressure Besides Pomegranate Juice&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness InformationSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "Health: Trusted and Empathetic Health and Wellness Information",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQjBVV1JkbEdGZ1UtR0tVekg4VC1JdjhVeExBUndWS1FNZURscTg1OGlFX3d3V3A2NGtmYVhEc1BzOF8yNXNRUWVGRjlPNURYbldTY1lXMUFyQ3h0czl2U2JTc3BOUGJwTzd1T3FJR0d4bjdWZVNTblk2WUpPVVVBbVRfaFZqUEFhX1J4VlBYTkJhQlk?oc=5"
+        }
+      ]
+    },
+    {
       "id": "067ec15a05d4",
       "title": "The 5 Best Cereals to Reduce Stroke Risk, According to Cardiologists and Dietitians - AOL.com",
       "published": "2026-06-20T20:31:49+00:00",
@@ -50,6 +74,30 @@
         {
           "name": "AOL.com",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rbFkxSVlsODNwMTVmQnN0dTBpV1Rpamd5SWZacXFqeHdOMDk4M1c3NFE2emlZNnJodmJ4NGEtS0JlMHRoX0hqVmpva3hiWVZrNHRlUG1NR3Ytc2ZWeXFBRlpucDNWTHpGdDZKZXBBaEU0UDVnMFdDU0pfOTY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4287608a96cc",
+      "title": "Three genes may link six mental disorders through shared biomarkers - Medical Xpress",
+      "published": "2026-06-20T19:20:01+00:00",
+      "summary": "Three genes may link six mental disorders through shared biomarkers&nbsp;&nbsp;Medical Xpress",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdUFicU9VM1Z2MG5PZjFaNzhGb3hLdi1kbGdXbFN1VXJGZmNWdUswNXN1cE9WamNxRVdsVjVCYk0zLXNHVkR2YmdUQVlFUE9kYTZYX2RTTGlsRmpaTUhzcEVKY0xBeU5WS0JkeHg2SnZna1VOUHZWcjBSR21XUkR2dkZGYThEbnBRU3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "be1ba40f03e7",
+      "title": "Why we should all be getting more sun: new book - New York Post",
+      "published": "2026-06-20T18:00:00+00:00",
+      "summary": "Why we should all be getting more sun: new book&nbsp;&nbsp;New York Post‘In Defense of Sunlight’ Review: A Star Is Scorned&nbsp;&nbsp;WSJTranscript of Rowan Jacobsen’s Interview: Joe Rogan Experience #2516&nbsp;&nbsp;The Singju PostBare Skin. Direct Sunlight. What Could Go Wrong? Maybe Less than You Think.&nbsp;&nbsp;Men's HealthCalais Author Rowan Jacobsen Shines a Light on the Sun&nbsp;&nbsp;Seven Days Vermont",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX2NKSGpHVy1OQTRPYThuYmdqNkxqN2FQWUpvdEtPLV91QTQtcklKenF3YV9YRGNDcnRwUUxsS0FCcUVHbE1WcjVGQ09ITDdkdG41Vi1US3hwNURWN2c3WkM2UEFHaFpUcFNFRGxDLUVHdlF0SVNaaEx2WUpNS0F4X2FqX1VXVUk4UjlVRw?oc=5"
         }
       ]
     },
@@ -78,10 +126,22 @@
       ]
     },
     {
+      "id": "675451b95e14",
+      "title": "Broccoli vs. Brussels Sprouts: Which Is Healthier? - Health: Trusted and Empathetic Health and Wellness Information",
+      "published": "2026-06-20T16:00:00+00:00",
+      "summary": "Broccoli vs. Brussels Sprouts: Which Is Healthier?&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness Information",
+      "sources": [
+        {
+          "name": "Health: Trusted and Empathetic Health and Wellness Information",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMC1HRXFhZkhSaE1mNHJmVHFCTl9LYmFoY0RqY2Yxd0lrdXY1aVg4amQ3ekI4T0pwMDk1NDl4d2FYbllGTmc1aE5aNmtQV29STnVPTUItZUxOcVZSYnRLWlAtYVBkZ1V4dURaTkxxaWFseHV2cWRYcHhVdVgyQjV1Q1hoYjl0WXpldGdXSXZsVGx5aGxWV3V3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "23fba8008446",
       "title": "Cancer patients are choosing ivermectin over chemo, and doctors are concerned - WOODTV.com",
       "published": "2026-06-20T15:00:00+00:00",
-      "summary": "Cancer patients are choosing ivermectin over chemo, and doctors are concerned&nbsp;&nbsp;WOODTV.comMel Gibson Claimed Ivermectin Cured Cancer. Now Prescriptions of the Unproven Treatment Are Surging 160%&nbsp;&nbsp;People.comNurses Advised: ASCO Cautions Against Ivermectin and Fenbendazole Use&nbsp;&nbsp;Oncology Nursing NewsSome cancer patients turn to ivermectin despite lack of evidence it works for that purpose&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosIvermectin back in the ",
+      "summary": "Cancer patients are choosing ivermectin over chemo, and doctors are concerned&nbsp;&nbsp;WOODTV.comSome cancer patients turn to ivermectin despite lack of evidence it works for that purpose&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosMel Gibson Claimed Ivermectin Cured Cancer. Now Prescriptions of the Unproven Treatment Are Surging 160%&nbsp;&nbsp;People.comNurses Advised: ASCO Cautions Against Ivermectin and Fenbendazole Use&nbsp;&nbsp;Oncology Nursing NewsRising number of cancer",
       "sources": [
         {
           "name": "WOODTV.com",
@@ -126,18 +186,6 @@
       ]
     },
     {
-      "id": "adac42f44f2b",
-      "title": "What Eating Fermented Foods Every Day Does to Your Body, According to Nutrition Experts - marthastewart.com",
-      "published": "2026-06-20T13:00:00+00:00",
-      "summary": "What Eating Fermented Foods Every Day Does to Your Body, According to Nutrition Experts&nbsp;&nbsp;marthastewart.comWhy fermented foods are so good for your gut, and 5 ways to eat more of them&nbsp;&nbsp;The Washington PostFermented Foods vs. Fiber-Rich Foods: Which Matters More for Gut Health?&nbsp;&nbsp;EatingWellWhy Fermented Foods Are a MUST in 2026&nbsp;&nbsp;Black DoctorThe Surprising Food Linked to Better Energy After 40&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "marthastewart.com",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORXFaY3VzQ2szb3lxb1RQel8xOHFLenJBdW81aGd4MVlvdGN1aW0zNW0zVGdlR00xOVpYcHd6aG5mdmt4am11RlkyTWlhMkI3Wld0Ri1UNnFOcEtXYTdERWZvN0p4SE1ULXpWY29BbjY2Y3lPU05FUGZNZVRuMGZWQzJqeHRRTnF1dHdiSA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5c404bdd61ae",
       "title": "Humans May Soon Be Able to Regrow Body Parts—Including Fingers and Limbs—Thanks to a Groundbreaking Serum - Yahoo",
       "published": "2026-06-20T13:00:00+00:00",
@@ -153,7 +201,7 @@
       "id": "2859e7a4c05b",
       "title": "Ozempic and Wegovy may strengthen bones in Type 2 diabetes patients, study finds - New York Post",
       "published": "2026-06-20T12:55:00+00:00",
-      "summary": "Ozempic and Wegovy may strengthen bones in Type 2 diabetes patients, study finds&nbsp;&nbsp;New York PostMore Weight Loss, Fewer Fractures? New Study Points to Semaglutide&nbsp;&nbsp;SciTechDailyOzempic Might Cut Risk Of Broken Bones, Study Says&nbsp;&nbsp;U.S. News & World ReportSemaglutide linked to lower bone fracture risk, suggests research&nbsp;&nbsp;Medical DialoguesDiabetes Patients on Semaglutide Had Fewer Fractures, Study Finds&nbsp;&nbsp;MedPage Today",
+      "summary": "Ozempic and Wegovy may strengthen bones in Type 2 diabetes patients, study finds&nbsp;&nbsp;New York PostMore Weight Loss, Fewer Fractures? New Study Points to Semaglutide&nbsp;&nbsp;SciTechDailyGLP-1s may aid bone health as well as weight loss in type 2 diabetes&nbsp;&nbsp;Medical News TodayOzempic Might Cut Risk Of Broken Bones, Study Says&nbsp;&nbsp;U.S. News & World ReportSemaglutide linked to lower bone fracture risk, suggests research&nbsp;&nbsp;Medical Dialogues",
       "sources": [
         {
           "name": "New York Post",
@@ -189,7 +237,7 @@
       "id": "21f517a3666c",
       "title": "You'd Never Guess This Subtle Sign Of A Stroke - HuffPost",
       "published": "2026-06-20T11:00:18+00:00",
-      "summary": "You'd Never Guess This Subtle Sign Of A Stroke&nbsp;&nbsp;HuffPostThink you're having a stroke? Here's why you should call an ambulance&nbsp;&nbsp;SooToday.comWe Tell People to ‘Know the Signs’ of Stroke. Then We Ignore Them.&nbsp;&nbsp;Law.comSSM Health urges residents to learn B.E.F.A.S.T. and call 911 at first stroke signs&nbsp;&nbsp;KRCGMetroWest Medical Center Promotes Stroke Awareness&nbsp;&nbsp;Framingham Source",
+      "summary": "You'd Never Guess This Subtle Sign Of A Stroke&nbsp;&nbsp;HuffPostWe Tell People to ‘Know the Signs’ of Stroke. Then We Ignore Them.&nbsp;&nbsp;Law.comSSM Health urges residents to learn B.E.F.A.S.T. and call 911 at first stroke signs&nbsp;&nbsp;KRCGMetroWest Medical Center Promotes Stroke Awareness&nbsp;&nbsp;Framingham SourceThink you're having a stroke? Here's why you should call an ambulance&nbsp;&nbsp;SooToday.com",
       "sources": [
         {
           "name": "HuffPost",
@@ -201,7 +249,7 @@
       "id": "3d83cba0c399",
       "title": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine - The Guardian",
       "published": "2026-06-20T11:00:00+00:00",
-      "summary": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine&nbsp;&nbsp;The GuardianKennedy Orders Woman to Stay in Hantavirus Quarantine, Despite C.D.C. Recommendation&nbsp;&nbsp;The New York TimesRFK Jr. orders American exposed to hantavirus to stay quarantined against her will&nbsp;&nbsp;USA TodayRFK Jr. Orders American Exposed to Hantavirus to Stay Quarantined Against Medical Advice&nbsp;&nbsp;WSJHantavirus cruise passenger says she’s being forced to quaranti",
+      "summary": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine&nbsp;&nbsp;The GuardianKennedy Orders Woman to Stay in Hantavirus Quarantine, Despite C.D.C. Recommendation&nbsp;&nbsp;The New York TimesRFK Jr. Orders American Exposed to Hantavirus to Stay Quarantined Against Medical Advice&nbsp;&nbsp;WSJHantavirus cruise passenger says she’s being forced to quarantine in Nebraska&nbsp;&nbsp;The Washington PostRFK Jr. orders American exposed to hantavirus to stay quar",
       "sources": [
         {
           "name": "The Guardian",
@@ -222,14 +270,14 @@
       ]
     },
     {
-      "id": "3c8e692098a3",
-      "title": "Saturn’s Icy Moon Is the Perfect Place to Settle, NASA Scientist Argues - Futurism",
+      "id": "22d6c4783e5f",
+      "title": "Saturn’s Icy Moon Is the Perfect Place to Settle, NASA Scientist Argues - Yahoo",
       "published": "2026-06-20T11:00:00+00:00",
-      "summary": "Saturn’s Icy Moon Is the Perfect Place to Settle, NASA Scientist Argues&nbsp;&nbsp;FuturismA Titan among worlds&nbsp;&nbsp;The Planetary SocietyIn 2028, Americans will fly to Titan - Saturn's moon, where helium will be extracted&nbsp;&nbsp;Inbox.lvSaturn’s icy moon ideal place to settle, establish rest stop for trips into deep space: NASA&nbsp;&nbsp;New York PostNew Study Assesses Titan's Resources and their Potential Uses&nbsp;&nbsp;Universe Today",
+      "summary": "Saturn’s Icy Moon Is the Perfect Place to Settle, NASA Scientist Argues&nbsp;&nbsp;YahooA Titan among worlds&nbsp;&nbsp;The Planetary SocietyIn 2028, Americans will fly to Titan - Saturn's moon, where helium will be extracted&nbsp;&nbsp;Inbox.lvSaturn’s icy moon ideal place to settle, establish rest stop for trips into deep space: NASA&nbsp;&nbsp;New York PostNew Study Assesses Titan's Resources and their Potential Uses&nbsp;&nbsp;Universe Today",
       "sources": [
         {
-          "name": "Futurism",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6YTVlYVhfaTdSZFp3bFJLVFlPY1o4NWJRVGNndjQtZ3pTRWxlYktlREZWa092UzYzS19IaW9Ma001aXhNYjZkb1BJc2dEZGFBaEFETUJ5X2hvYjlON0tKdjdUZW43ZWlXZ2h3bjRJNHlIYkF4aG1lSw?oc=5"
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN2RhTmt1dGtKNnBkbFZaUjBRNlMta3dTRHF5d1VpaDlmMm5falZISmU1ZzEtX2JwTDdLNENCbWZLOG8wc3BSQ0R3N2NQR0h4LTNrcVAzLWhUWEEzQWJkTzBSTEpGcU14WE4zUVZMVlhHS2N6NFc5SnpCUlFIM2YzN0pjRlJNcV82dEZORnBjOTZGUQ?oc=5"
         }
       ]
     },
@@ -249,23 +297,11 @@
       "id": "f5459a95e933",
       "title": "Western Pa. families declining vitamin K shots, other preventive care for newborns - TribLIVE.com",
       "published": "2026-06-20T10:02:14+00:00",
-      "summary": "Western Pa. families declining vitamin K shots, other preventive care for newborns&nbsp;&nbsp;TribLIVE.comAre Parents More Likely to Refuse Vitamin K, HBV for Girls?&nbsp;&nbsp;MedscapeAlabama pediatrician says parents are refusing shot that prevents serious bleeding disorder&nbsp;&nbsp;WBRCWhy more male than female newborns may get the crucial vitamin K shot&nbsp;&nbsp;Science NewsRefusing the Vitamin K Shot After Birth Could Harm Your Baby&nbsp;&nbsp;American Council on Science and Health",
+      "summary": "Western Pa. families declining vitamin K shots, other preventive care for newborns&nbsp;&nbsp;TribLIVE.comAre Parents More Likely to Refuse Vitamin K, HBV for Girls?&nbsp;&nbsp;MedscapeAlabama pediatrician says parents are refusing shot that prevents serious bleeding disorder&nbsp;&nbsp;WBRC 6 NewsWhy more male than female newborns may get the crucial vitamin K shot&nbsp;&nbsp;Science NewsRefusing the Vitamin K Shot After Birth Could Harm Your Baby&nbsp;&nbsp;American Council on Science and Heal",
       "sources": [
         {
           "name": "TribLIVE.com",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbjRVRUFDTV9lbjVON2xLYlJHbHUzdm5yOHV3RzEwMGpXbjIxVjNnbVpVWVMxVVVxZDRIMUFmTkNvRDdZVGVId3FLNENCeW9oUGtZd0FEQ0tIeE13aFVibkRxZnI1aE1PV1plVXF1cVpXamg5VkpaNzhzcV9lT21qaWJfZHhyTDJtZW1hN042UndtaFh2ZWoxdUY0ZnZ2RWVJZXRlaDlmR2duZk1RSDJER0F3NEg0bDE3Rmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "00f052ce908e",
-      "title": "Your Good Health: An injection is indicated for prostate cancer patient - Times Colonist",
-      "published": "2026-06-20T09:45:00+00:00",
-      "summary": "Your Good Health: An injection is indicated for prostate cancer patient&nbsp;&nbsp;Times ColonistSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "Times Colonist",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNenRhcmhvMExhSUVVT2JuNmlMZzg3dk9HbGNzM3ZxWkctYkFaYmRlZXJRUFJXNWFnOVNRLXZqZGI4VXdadTFQalNVX1A5WmtTb2pUZU9qNnVzWVJNWVZTTW10amRyZWRWY2ZWa2JOTlB1cEF2X0NCVTZnY2FvMTZYT1NTV2VkTUVBcE5RTGZaWjRwTXZCWkdVc0J5TEtDbE9YVDVrQnRnem9NZC10NFlDV19FM1c?oc=5"
         }
       ]
     },
@@ -297,23 +333,11 @@
       "id": "aa0a59313f52",
       "title": "Sugar-Free Diets May Have a Hidden Side Effect, Study in Mice Suggests - ScienceAlert",
       "published": "2026-06-20T08:01:34+00:00",
-      "summary": "Sugar-Free Diets May Have a Hidden Side Effect, Study in Mice Suggests&nbsp;&nbsp;ScienceAlertClean eating: why cutting sugar out of your diet might not be as healthy as it sounds – new study&nbsp;&nbsp;The ConversationSugar-free, low-fat diet tied to insulin resistance in mouse study&nbsp;&nbsp;Medical News TodayScientists found a surprising problem with sugar-free diets&nbsp;&nbsp;ScienceDailyNew study reveals hidden risk of going sugar-free&nbsp;&nbsp;The Independent",
+      "summary": "Sugar-Free Diets May Have a Hidden Side Effect, Study in Mice Suggests&nbsp;&nbsp;ScienceAlertClean eating: why cutting sugar out of your diet might not be as healthy as it sounds – new study&nbsp;&nbsp;The ConversationSugar-free, low-fat diet tied to insulin resistance in mouse study&nbsp;&nbsp;Medical News TodayScientists found a surprising problem with sugar-free diets&nbsp;&nbsp;ScienceDailyCutting sucrose from low-fat diet may disrupt gut microbiome, mouse study suggests&nbsp;&nbsp;Nutritio",
       "sources": [
         {
           "name": "ScienceAlert",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVTNLSDdsYWRjV3J5NzNGZGE4NXR0anhHS2x1Qk1ZWUh0ODNJMkVlaTh1MFpNSWw4VzdjU1d1aXFDNjVETEM5cmYtN0V4bEVoQ2tmazZlNDJvQ1Atelp3b01qNnVFak1Oc1VBT3BXLVhaSmltalljZ2tfVmw4WmI4NUN1djBKTEFENnJmVnJzbjh6bzJsMGFESXE2eThONHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d2dc84cd4c4f",
-      "title": "Mourners bury a 6-month-old Ebola victim, marking third orphanage death as Congo outbreak spreads - ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-06-20T06:50:57+00:00",
-      "summary": "Mourners bury a 6-month-old Ebola victim, marking third orphanage death as Congo outbreak spreads&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos'I buried my parents one day after the other' - Ebola mourners learn how to grieve safely&nbsp;&nbsp;BBCRed Cross in DRC workers bury six-month-old girl who died of Ebola&nbsp;&nbsp;africanews.comSix-month-old baby dies of Ebola as disease rips through Congo orphanage&nbsp;&nbsp;AOL.comThird baby dies in Ebola orphanage outbreak as cases rap",
-      "sources": [
-        {
-          "name": "ABC News - Breaking News, Latest News and Videos",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSzlnalFRN2FPQ2FUTmdkSF91dzh0Z04xbmpvd0hnSG9Ta0s1Z1lUblY0Qlh6VHRCZWZhbkpiRmE5Z0R2Qlh5YUJucjlwSzVyRmlaUnU1U3dRc2lrQXdHWmszU09ESUdKZFd5MjI1WWZBakc5ZVlESzJLVGlhRUZESTQ3cG9qYWVuMVdqZjhpWFZUbWo5ZEt3cGhaWVRiaGliSGh4Mnlselk5d9IBrwFBVV95cUxPaTd6YXdrRl95TFY3dm1mY2tCSWVVQlIyb3BZQm5VQTdNbGJRSXBBSENBY05MWTRSblJfbFZfRm85empKMmZQMllLUWYtSktha3RtVURiMHRkWVhkc2RwMmNtS1QtUkZUemJpY2FBeDRwVk90UGJBVDFBaGtodlgxOGh5SEhQdHEybGg1X09EMnBlNTExVERvb1d1UE5DWTQweUVIVjVEZDlNSlpGY2dZ?oc=5"
         }
       ]
     },
@@ -366,22 +390,10 @@
       ]
     },
     {
-      "id": "a075c7cf6458",
-      "title": "Measles-infected traveler may have exposed passengers at LAX and nearby hotel, health officials warn - Fox News",
-      "published": "2026-06-20T00:24:43+00:00",
-      "summary": "Measles-infected traveler may have exposed passengers at LAX and nearby hotel, health officials warn&nbsp;&nbsp;Fox NewsA traveler with measles passed through LAX. Officials urge caution amid World Cup crowds&nbsp;&nbsp;Los Angeles TimesHealth officials warn about possible measles exposure at LAX, airport hotel&nbsp;&nbsp;KTLAMeasles case detected at SFO days before World Cup start&nbsp;&nbsp;SFGATEPublic Health Confirms Measles Case in LA County -&nbsp;&nbsp;Random Lengths News",
-      "sources": [
-        {
-          "name": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONkgtalVpMWtob01GV2FvdV8xbjhPTi1idEJ3M20zTVpwMmdoYXhhTC1CeWp3YmNDWEhENGotQWZSdV9LSTlmYVNjbVRTWXNPd1FCZmJqaXdGUTF1UFBPQUZSdzJKSmdHblBuMmZ3aEZBTTk1ZGlhQUF3R0h3QVRhVXk4UUoxTkhvcFpZS1VQcDVZb3lDYWIxTElObmN0Q01JUUxBWDhSRDBfMnl4bG9hUllsME00SWtVOGfSAb8BQVVfeXFMT1ZvSjVXSi13RUpzVTRJc0dBSjFuNFBRRTBUT2x0akpGa0pMREo0cThIbHVQRVdHZnpMaDA4X04xUjh2NU5QQjVCcnNqNXR0cW5PUEJlSHZHUFRUbEVyMm44QXBhaHR5TVFaSlNEZmpxbDlMUmtwT2pVR01jZ3pfdE9yYnI2VnJLQjVMcE45WXJrSHlhUXc2bDBnMTUwLXFITUpUNmREc3FQTG1sNEdkLXIxdDNjLTVqRXhMYndaQ2c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "14181dc4c016",
       "title": "Research shows weight-loss drugs may also reduce cancer risk - PBS",
       "published": "2026-06-19T22:40:36+00:00",
-      "summary": "Research shows weight-loss drugs may also reduce cancer risk&nbsp;&nbsp;PBSShould everyone be on GLP-1s? What the science really tells us about cancer prevention and other benefits&nbsp;&nbsp;CBCOntada Analysis Finds GLP-1 RA Use Linked to Improved Survival in Patients With Cancer&nbsp;&nbsp;AJMCGLP-1s Tied to Lower Cancer Risk in Patients With Obesity&nbsp;&nbsp;MedscapeGLP-1 drugs linked to major drop in pancreatic, colorectal cancer risk&nbsp;&nbsp;Medical News Today",
+      "summary": "Research shows weight-loss drugs may also reduce cancer risk&nbsp;&nbsp;PBSShould everyone be on GLP-1s? What the science really tells us about cancer prevention and other benefits&nbsp;&nbsp;CBCOntada Analysis Finds GLP-1 RA Use Linked to Improved Survival in Patients With Cancer&nbsp;&nbsp;AJMCGLP-1s Tied to Lower Cancer Risk in Patients With Obesity&nbsp;&nbsp;MedscapeExploring the Weight Loss Potential of GLP-1 Agonists in Patients With Breast Cancer&nbsp;&nbsp;CancerNetwork",
       "sources": [
         {
           "name": "PBS",
@@ -405,7 +417,7 @@
       "id": "ad78e480af98",
       "title": "A new study rewrites the history of the plague - NPR",
       "published": "2026-06-19T21:03:04+00:00",
-      "summary": "A new study rewrites the history of the plague&nbsp;&nbsp;NPRLethal plague outbreaks in Lake Baikal hunter-gatherers 5,500 years ago&nbsp;&nbsp;NatureAncient DNA is rewriting the history of plague&nbsp;&nbsp;The EconomistA Deadly Outbreak of Plague, Nearly 5,000 Years Before the Black Death&nbsp;&nbsp;The New York TimesNew Discovery That Hunter-Gatherer Children Died of Plague More Than Five Millennia Ago Sets Back the Date of the Earliest Outbreak&nbsp;&nbsp;Smithsonian Magazine",
+      "summary": "A new study rewrites the history of the plague&nbsp;&nbsp;NPRLethal plague outbreaks in Lake Baikal hunter-gatherers 5,500 years ago&nbsp;&nbsp;NatureAncient DNA is rewriting the history of plague&nbsp;&nbsp;The EconomistOldest-known plague outbreak came 5,500 years ago in Siberia&nbsp;&nbsp;ReutersNew Discovery That Hunter-Gatherer Children Died of Plague More Than Five Millennia Ago Sets Back the Date of the Earliest Outbreak&nbsp;&nbsp;Smithsonian Magazine",
       "sources": [
         {
           "name": "NPR",
@@ -416,24 +428,12 @@
     {
       "id": "7f75ff7b65f1",
       "title": "Rare tick disease poses a danger in Minnesota lakes area - Duluth News Tribune",
-      "published": "2026-06-19T21:01:42+00:00",
+      "published": "2026-06-19T21:00:00+00:00",
       "summary": "Rare tick disease poses a danger in Minnesota lakes area&nbsp;&nbsp;Duluth News TribuneDeadly tick-borne disease that can cause brain damage spreading across the US&nbsp;&nbsp;FOX WeatherLocal man critically ill after rare tick bite&nbsp;&nbsp;WCVBConcord NH man hospitalized with rare Powassan disease&nbsp;&nbsp;Concord MonitorLittle-known tick bite disease leaves man nonverbal — what to know about the rising threat&nbsp;&nbsp;New York Post",
       "sources": [
         {
           "name": "Duluth News Tribune",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNHVGSk4wdFNlZlJtc1pRR3ZXN0FvNkpDWEc3U3ZSdVFJMzNkV3hKVXViQmFDbEhNb0RPQkowOUVNTlZ5V0Rtd1RDaTBGYm8yT1g0S1l1RmFwRXY0T0hNWVVrTmlXazhQUmtYY2NlaXhqcTdiTXU5SHpLYVJJb2F0aGZEZnpUWnRFdkNVYjVjamtLVGxzUGpURWFfdEVUOGhXRy0yUWtqbGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b1f4cd75935d",
-      "title": "Doctor warning for those taking sertraline, citalopram, escitalopram or fluoxetine - RSVP Live",
-      "published": "2026-06-19T20:51:11+00:00",
-      "summary": "Doctor warning for those taking sertraline, citalopram, escitalopram or fluoxetine&nbsp;&nbsp;RSVP LiveOn Your Side: Medical experts warn of medication risks as summer heat looms&nbsp;&nbsp;KY3Taking a GLP-1 Like Ozempic? These Health Risks Are Higher in the Heat&nbsp;&nbsp;AOL.comOn antidepressants? Doctors are warning of hot weather specific side effects to be careful of&nbsp;&nbsp;cosmopolitan.comSummer heat can reduce the effectiveness of medications&nbsp;&nbsp;WTOK",
-      "sources": [
-        {
-          "name": "RSVP Live",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY0pJRkpzcEdMQW1vWThsY25RZmtrVElQRjdRb2RLdEFSZjkwTnJ6QUFwZ2hGOEdfVFkwcG1hcndSRThzOGtBYW5VcTJwQVlpekZuTzNYZDZEbl92TVFSTFltOVZLUk1HNHdrZDRqblhpRzZuNjBOb1o5cG5xZWt5VC1fVjBMZFI3SzQ0?oc=5"
         }
       ]
     },
@@ -465,7 +465,7 @@
       "id": "2ebb307b8dd2",
       "title": "The Sun may not engulf Earth after all, scientists say - Phys.org",
       "published": "2026-06-19T19:40:02+00:00",
-      "summary": "The Sun may not engulf Earth after all, scientists say&nbsp;&nbsp;Phys.orgSun may spare Earth and Mars, as study reverses course on death of our planet&nbsp;&nbsp;WIONComplex life on Earth may last 500 million years longer than expected&nbsp;&nbsp;New ScientistThe real reason Earth escapes the dying sun gravity&nbsp;&nbsp;The News InternationalEarth might actually survive sun’s fiery death as new study overturns decades-old forecast&nbsp;&nbsp;Interesting Engineering",
+      "summary": "The Sun may not engulf Earth after all, scientists say&nbsp;&nbsp;Phys.orgGood news—we have extra time before the Sun ends life on Earth&nbsp;&nbsp;Ars TechnicaThe real reason Earth escapes the dying sun gravity&nbsp;&nbsp;The News InternationalSun may spare Earth and Mars, as study reverses course on death of our planet&nbsp;&nbsp;WIONScientists thought Earth would be swallowed by the sun, new research suggests it may not happen&nbsp;&nbsp;MSN",
       "sources": [
         {
           "name": "Phys.org",
@@ -482,6 +482,18 @@
         {
           "name": "Newsweek",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcnlTXy1mTzBkX2EzYWFNYUJ5bjBDQmNQWkkydzRDd25LN1dsRUs2ZXhHdWJEc0dGUUoxcEh0alBudmcySHRleTRSMmt2eVNpaTlVaXZBVkdDTDNjeUhRSDdtOUs0ajI5dlJMZGFSbWkyazQtREV1cW9odnBqQ1JJbmQzdEZ1V1Y4UENPM0RQMmFDUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "acdda3f86931",
+      "title": "Measles case reported at LAX as global World Cup travel sparks fears of spread - New York Post",
+      "published": "2026-06-19T19:19:00+00:00",
+      "summary": "Measles case reported at LAX as global World Cup travel sparks fears of spread&nbsp;&nbsp;New York PostA traveler with measles passed through LAX. Officials urge caution amid World Cup crowds&nbsp;&nbsp;Los Angeles TimesHealth officials warn about possible measles exposure at LAX, airport hotel&nbsp;&nbsp;KTLAMeasles-infected traveler may have exposed passengers at LAX and nearby hotel, health officials warn&nbsp;&nbsp;Fox NewsMeasles case detected at SFO days before World Cup start&nbsp;&nbsp;S",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNC0zYTU4SVVSX2tQRlNtWEZmeUNnV194VUQyblEtRVhJcG9XR01PbV9XakVNU21FS0NBVjFwQnVxNkFQYklQQlNncGJYdjRHWjM4SDNVX1d0YUE5cWtILTBNU01ZNGNjTDhxeEt3MjhxellVXzZzVWlqdDlOVjlLaTluR2ZPQllfR2NBZnIxRzhQaExYYTF4OERIWnhFd1hBZ0xLZkxaQVB1VUd4eXFGQWs0VzNHNGE0?oc=5"
         }
       ]
     },
@@ -513,7 +525,7 @@
       "id": "2e5355a11b2a",
       "title": "More than 70 medics infected with Ebola as DRC outbreak spreads ‘fast’ - Al Jazeera",
       "published": "2026-06-19T18:13:20+00:00",
-      "summary": "More than 70 medics infected with Ebola as DRC outbreak spreads ‘fast’&nbsp;&nbsp;Al JazeeraCongo says confirmed Ebola cases rise to 956, including 247 deaths&nbsp;&nbsp;ReutersEbola Outbreak in DRC and Uganda: Situation Report #4 (June 16, 2026)&nbsp;&nbsp;ReliefWebEbola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda&nbsp;&nbsp;World Health Organization (WHO)DR Congo: Efforts ramp up as Ebola outbreak accelerates beyond borders&nbsp;&nbsp;UN News",
+      "summary": "More than 70 medics infected with Ebola as DRC outbreak spreads ‘fast’&nbsp;&nbsp;Al JazeeraEbola in DR Congo: One month on, scaled up response remains insufficient&nbsp;&nbsp;UN NewsAt least 30 deaths at Congo camp show Ebola could be spreading fast&nbsp;&nbsp;ReutersEbola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda&nbsp;&nbsp;World Health Organization (WHO)Death rate at camp in DR Congo spikes amid fears of Ebola spiralling&nbsp;&nbsp;Sky News",
       "sources": [
         {
           "name": "Al Jazeera",
@@ -597,7 +609,7 @@
       "id": "086c4edd857c",
       "title": "4 Myths about Alzheimer’s You Need to Stop Believing - EatingWell",
       "published": "2026-06-19T14:36:50+00:00",
-      "summary": "4 Myths about Alzheimer’s You Need to Stop Believing&nbsp;&nbsp;EatingWellJune is Alzheimer’s Awareness Month: Understand the risks, warning signs&nbsp;&nbsp;Pine Bluff CommercialWell-Being Wednesday: Dementia: Early signs & when to seek care&nbsp;&nbsp;mynews4.comWVU Medicine specialist urges early evaluation for memory concerns&nbsp;&nbsp;WVU MedicineTelling Alzheimer’s apart from normal aging&nbsp;&nbsp;UT Physicians",
+      "summary": "4 Myths about Alzheimer’s You Need to Stop Believing&nbsp;&nbsp;EatingWellJune is Alzheimer’s Awareness Month: Understand the risks, warning signs&nbsp;&nbsp;Pine Bluff CommercialWell-Being Wednesday: Dementia: Early signs & when to seek care&nbsp;&nbsp;mynews4.comUnderstanding Alzheimer’s disease and protecting brain health&nbsp;&nbsp;News and TribuneCould these small changes be Alzheimer’s? Doctors share the signs families often miss&nbsp;&nbsp;The Times of India",
       "sources": [
         {
           "name": "EatingWell",
@@ -633,7 +645,7 @@
       "id": "0695ee679451",
       "title": "Tick season is getting worse. Can managing deer help? - NPR",
       "published": "2026-06-19T13:00:00+00:00",
-      "summary": "Tick season is getting worse. Can managing deer help?&nbsp;&nbsp;NPRKnow your ticks: Here’s how to spot the ones that carry Lyme and alpha-gal&nbsp;&nbsp;The Boston GlobeTicks are spreading Lyme disease across America, but we can beat them. Here’s how.&nbsp;&nbsp;vox.com‘It is serious’: Tick-borne diseases surging nationwide&nbsp;&nbsp;WALBLane County is seeing an uptick in ticks …. What might it mean?&nbsp;&nbsp;NPR for Oregonians",
+      "summary": "Tick season is getting worse. Can managing deer help?&nbsp;&nbsp;NPRHow to keep ticks off your dog (and out of your home)&nbsp;&nbsp;Popular ScienceTicks are spreading Lyme disease across America, but we can beat them. Here’s how.&nbsp;&nbsp;vox.com‘It is serious’: Tick-borne diseases surging nationwide&nbsp;&nbsp;WALBKnow your ticks: Here’s how to spot the ones that carry Lyme and alpha-gal&nbsp;&nbsp;The Boston Globe",
       "sources": [
         {
           "name": "NPR",
@@ -654,26 +666,26 @@
       ]
     },
     {
-      "id": "a97e38516dcd",
-      "title": "We Are Admittedly a Bit Startled by This Medical Case Report About Giving an Elderly Woman With Advanced Alzheimer's a Gigantic Dose of Psychedelic Mushrooms Just to See What Would Happen - Futurism",
-      "published": "2026-06-19T12:00:00+00:00",
-      "summary": "We Are Admittedly a Bit Startled by This Medical Case Report About Giving an Elderly Woman With Advanced Alzheimer's a Gigantic Dose of Psychedelic Mushrooms Just to See What Would Happen&nbsp;&nbsp;FuturismSee more headlines & perspectives on Google News",
+      "id": "5cf8cff7a458",
+      "title": "Doctors Say These Are the Top 5 Foods That Cause Inflammation - AOL.com",
+      "published": "2026-06-19T12:25:16+00:00",
+      "summary": "Doctors Say These Are the Top 5 Foods That Cause Inflammation&nbsp;&nbsp;AOL.comFoods That Can Trigger Inflammation&nbsp;&nbsp;NDTVNutrition to heal inflammation: Health coach shares 6 whole-foods recipes that can soothe your body from within&nbsp;&nbsp;Hindustan Times",
       "sources": [
         {
-          "name": "Futurism",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUGRtQWYxdWRfNFQtTWFiYlBmbG5KTGcxRmltaV9IY05zVk9aYU1GRDNZNGtHMnNjT3lOX3pWb0ExMUZXd2hXM09MbnJLQ2c2THNhNlNuN0N1aGY2TW5FV2toUkt3eGE5X1JRSE1Wb29VaXdVQ2kwbEo3cnMwX1UzcFlUTlhHbGsxYnc?oc=5"
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92ckJQU2xPeVlLaUwzaTZ1bHpiczRQZzVBRGZycWlVanRtZHBnOGlvMlk2YXpRLWRoRW9IWW5nTnUzWk05bEZTaWVsQzBjX2tBdnJOZHRpVFhpR1F4Zk5qUE5DTUxGY3lPZWhaOXBtZm1NUERFNEgzSQ?oc=5"
         }
       ]
     },
     {
-      "id": "632bddf10997",
-      "title": "A Surprising Discovery Challenges What Scientists Thought DNA Methylation Was For - SciTechDaily",
-      "published": "2026-06-19T11:54:21+00:00",
-      "summary": "A Surprising Discovery Challenges What Scientists Thought DNA Methylation Was For&nbsp;&nbsp;SciTechDaily",
+      "id": "a97e38516dcd",
+      "title": "We Are Admittedly a Bit Startled by This Medical Case Report About Giving an Elderly Woman With Advanced Alzheimer's a Gigantic Dose of Psychedelic Mushrooms Just to See What Would Happen - Futurism",
+      "published": "2026-06-19T12:00:00+00:00",
+      "summary": "We Are Admittedly a Bit Startled by This Medical Case Report About Giving an Elderly Woman With Advanced Alzheimer's a Gigantic Dose of Psychedelic Mushrooms Just to See What Would Happen&nbsp;&nbsp;FuturismWoman with Advanced Alzheimer’s Disease Regains Speech, Mobility After Taking Magic Mushrooms: Report&nbsp;&nbsp;People.comA Woman With Alzheimer’s Spoke in Full Sentences After Taking Psilocybin, Case Study Says&nbsp;&nbsp;VICECould Psilocybin Offer A Glimpse Of Lost Function In Advanced Alz",
       "sources": [
         {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQXpUQk0xUDlxdncyQmw2MnVCbGJZV0Rra2VxaFR3OWtabzNVWG9kcWhqNnNDbzV6YjNpSlVsM01DWUgwRzJWanAzaWFscmZlRS1UNzJZcTFTVmo5azFZemNDb2VuVlVQQzdubFZVZm04VDl1bXFGaGxMbHNzUmRJRFpNcXN5SkE3Y3hKZG54Z2ZPUTlQR1duQ1llbThYUjVRSEdGNkMtX0plWW8?oc=5"
+          "name": "Futurism",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUGRtQWYxdWRfNFQtTWFiYlBmbG5KTGcxRmltaV9IY05zVk9aYU1GRDNZNGtHMnNjT3lOX3pWb0ExMUZXd2hXM09MbnJLQ2c2THNhNlNuN0N1aGY2TW5FV2toUkt3eGE5X1JRSE1Wb29VaXdVQ2kwbEo3cnMwX1UzcFlUTlhHbGsxYnc?oc=5"
         }
       ]
     },
@@ -702,22 +714,10 @@
       ]
     },
     {
-      "id": "345c704aa1b9",
-      "title": "Estrogen levels in both the male and female brain may shape memory's resilience in face of stress - Live Science",
-      "published": "2026-06-19T10:49:00+00:00",
-      "summary": "Estrogen levels in both the male and female brain may shape memory's resilience in face of stress&nbsp;&nbsp;Live Science",
-      "sources": [
-        {
-          "name": "Live Science",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVEV4SF8tLVBhTFAyYUVHM3B4anZFa3VXc2t2WFlGX1BqMV9MZ2NEV004NjlJZlI3MGlHc0hHUjhncWpTY2xiM3JCUUI5Q3Rjb25vYWNJMTJWUkNlMjNFSElsLVVOUUx3dGQ3cWVnaW1YN3E1Q0VQSDB1cE9YT01UTEpNX0p4Zmhzbkd6bVZWWXJjdXBUZkdhV0FCVG11dnFHeXhlTjhtM09kcWxrSXBSeUFaenQ2MnVsRnJpY0sySm9oUExlS055TWh6OER2ZFlkd3ZaU0ZXelU4bWZ2?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f41c2db59aaf",
       "title": "'A completely different story': 300 million-year-old fossils reveal the first vertebrate land dwellers weren't what we thought, researchers claim - Live Science",
       "published": "2026-06-19T10:26:37+00:00",
-      "summary": "'A completely different story': 300 million-year-old fossils reveal the first vertebrate land dwellers weren't what we thought, researchers claim&nbsp;&nbsp;Live ScienceEarth’s First Land Animals May Never Have Been Amphibian-Like After All&nbsp;&nbsp;Sci.NewsBaby crocodile-like fossils just blew up a long-held evolution theory&nbsp;&nbsp;Popular ScienceFossilized babies of ancient crocodile-like predators uproot understanding of how animals adapted to the land&nbsp;&nbsp;Phys.orgHow New Fossil ",
+      "summary": "'A completely different story': 300 million-year-old fossils reveal the first vertebrate land dwellers weren't what we thought, researchers claim&nbsp;&nbsp;Live ScienceA Vietnam Veteran Collected Fossils for 66 Years. One, Mislabeled 'Baby Lamprey,' Made Paleontologists Reconsider How Vertebrates Moved From Water to Land&nbsp;&nbsp;Smithsonian MagazineA textbook assumption about early land vertebrates may be wrong&nbsp;&nbsp;Science NewsEarth’s First Land Animals May Never Have Been Amphibian-L",
       "sources": [
         {
           "name": "Live Science",

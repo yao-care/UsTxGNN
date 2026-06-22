@@ -1,19 +1,55 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-06-22T04:45:24.407958+00:00",
-  "total_fetched": 109,
-  "unique_count": 109,
-  "health_related_count": 59,
+  "fetched_at": "2026-06-22T12:09:46.693203+00:00",
+  "total_fetched": 113,
+  "unique_count": 113,
+  "health_related_count": 62,
   "news": [
     {
-      "id": "42611f5187d6",
-      "title": "How To Keep Ticks Out Of Your Yard This Summer - Southern Living",
-      "published": "2026-06-22T02:11:27+00:00",
-      "summary": "How To Keep Ticks Out Of Your Yard This Summer&nbsp;&nbsp;Southern LivingHow to keep ticks out of your yard and off your body&nbsp;&nbsp;Bangor Daily NewsDeter Ticks on Your Property With These 9 Smart Landscaping Tips&nbsp;&nbsp;bobvila.comLyme disease cases reported in Waterloo Region&nbsp;&nbsp;CTV NewsProvince reminds public to take precautions against tick bites this summer&nbsp;&nbsp;ElliotLakeToday.com",
+      "id": "1c9500362e8f",
+      "title": "Everyone talks about postpartum depression — beware these other mental health issues after childbirth - New York Post",
+      "published": "2026-06-22T10:17:00+00:00",
+      "summary": "Everyone talks about postpartum depression — beware these other mental health issues after childbirth&nbsp;&nbsp;New York PostBridging Gaps in Women’s Health: Preventing Perinatal Depression&nbsp;&nbsp;University of Utah Health Academic Medical CenterThe silent storm: unmasking postpartum depression, maternal, mental health care&nbsp;&nbsp;The Nation Newspaper",
       "sources": [
         {
-          "name": "Southern Living",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NZ1JYdmt5aUN5SnhYV2dtcVpGZ0F5SEJhREtMNlhqUUQ4b1NSUnh1cXRkVmFPMGI3eU1UZVNoQ0E0dmp1a2dlQmpKRTk0RjhoOHJ1azFFU1hCOGtrRUVuMnFIekcyeWlFbHNhMnNIdkhySjFTaGNIV3lBdWxubTg?oc=5"
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPakJtNTBkZGN0NzRuUF9MTjVrdjdtV1pmbmFTQ3h2SE1jWjZsWUM5YmpRMG9WakZrckRkeXMwQktUUVJXdVRZMmdNRFdSdS1EMUlsaE1NNVhIUGd5bVk5NGItRGd5UEkwU3pxWFhEaVVHb3N6VWdKb2FHSGE4QXZFVTBlbHZJdHV1WkRnd25KQWZJSFJhUV9BNDN4czVOYVVjSWlLOUR1ZUw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "47d1fafae6fe",
+      "title": "Daily 'fountain of youth' drink could lower dementia and diabetes risk - The Mirror",
+      "published": "2026-06-22T09:03:51+00:00",
+      "summary": "Daily 'fountain of youth' drink could lower dementia and diabetes risk&nbsp;&nbsp;The MirrorCoffee drinkers issued with dementia update - one method could raise cholesterol&nbsp;&nbsp;MSNCoffee can slash diabetes risk but one method could increase your cholesterol&nbsp;&nbsp;Wales OnlineA New Caffeine Study Has Us Revisiting a Classic Question: Is Coffee Good for You?&nbsp;&nbsp;Organic Authority",
+      "sources": [
+        {
+          "name": "The Mirror",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUmFDdUJoa2hza2hKd1Brbkd4MklDbzF1cFQ1Y1R5bTBwa0FPZTFOUkZ5WV94UDhwZUd2dkNPQjFBQWxIelllLWhtbTUxN2NRWTFCdnpfTWRsRzd5VWFDU2xpZHNCWUczdEFqU0FkdlQ1VWNHRDQyZkd2MlA3RFlKcHZkeE8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ad841610eba2",
+      "title": "Confirmed Ebola cases in Congo outbreak top 1,000 with 254 deaths, authorities say - ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-06-22T08:20:25+00:00",
+      "summary": "Confirmed Ebola cases in Congo outbreak top 1,000 with 254 deaths, authorities say&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosConfirmed Ebola cases in Congo top 1,000. More than a quarter have died, officials say&nbsp;&nbsp;CBS NewsEbola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda&nbsp;&nbsp;World Health Organization (WHO)More than 70 medics infected with Ebola as DRC outbreak spreads ‘fast’&nbsp;&nbsp;Al JazeeraCongo says confirmed Ebola cases r",
+      "sources": [
+        {
+          "name": "ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV1lIY2l2MThqOVg4dk9pTGxRbzJwVGpzUWxCeTVoeHBkbjNSQTBYdEJYLVh5Ujlwa1RmRmVqRW1PRFNZY0laZnN2NUNzUnREZWwzeGRTM2tDdXhWbGw5YnhzWGx5SHpPZHF4LWVkUjVBSndXMEx5UjlCV3hOd0pSLVIzSzZ4QTNuQmxhOEM5alozbjVzMjFpR1NGczdVaC1aVDBQTW530gGrAUFVX3lxTE0tTFNsay0zelN5NkxfdjVZZlJiSEl3VEYzRlVjemhfalZubmtlaEF1ZXRra2pQQkQ0bFVaVlRzbEh6OHVhNXZoRmFaUUV6LTF1SzBqTXR6ZzJ4a1VZYVFsU2dsc1B1MFBpaHBWdGcwUHFoRmZaOWduOVBHRTAteVE5WjIwemx0aWlRMmZuUE1TZTBHTEM4UHNRYUF3RXMzTENaVjVhZDJfbUlXOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "067ec15a05d4",
+      "title": "The 5 Best Cereals to Reduce Stroke Risk, According to Cardiologists and Dietitians - AOL.com",
+      "published": "2026-06-22T05:48:45+00:00",
+      "summary": "The 5 Best Cereals to Reduce Stroke Risk, According to Cardiologists and Dietitians&nbsp;&nbsp;AOL.com",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rbFkxSVlsODNwMTVmQnN0dTBpV1Rpamd5SWZacXFqeHdOMDk4M1c3NFE2emlZNnJodmJ4NGEtS0JlMHRoX0hqVmpva3hiWVZrNHRlUG1NR3Ytc2ZWeXFBRlpucDNWTHpGdDZKZXBBaEU0UDVnMFdDU0pfOTY?oc=5"
         }
       ]
     },
@@ -21,11 +57,23 @@
       "id": "114db1fd5357",
       "title": "4 Supplements That Can Damage Your Liver - EatingWell",
       "published": "2026-06-22T00:00:00+00:00",
-      "summary": "4 Supplements That Can Damage Your Liver&nbsp;&nbsp;EatingWellPopping a cocktail of supplements every day might be doing you more harm than good&nbsp;&nbsp;BBCTaking supplements every day? New research finds 1 in 5 liver damage cases linked to THIS common health habit&nbsp;&nbsp;The Times of IndiaNew research reveals 20% of liver damage cases are caused by one common habit&nbsp;&nbsp;Daily ExpressDoctor warns 'check label' if you're taking vitamin over distressing symptom&nbsp;&nbsp;Cambridge Ne",
+      "summary": "4 Supplements That Can Damage Your Liver&nbsp;&nbsp;EatingWellSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "EatingWell",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOcy03LW1Yd082WDUtajV5VlVOcXpFNGhqLXdTalNjWkFlVHE1eXE4YVlFZGRIdUVqcEFCQnlEMDhIVmNwOTAxUnotX2pCM2pjYm0yREFVdUtwN2tvZFlzal9qQW5hS2xvOXMybG4wd3ZFNDlINmhvd3JtOWJrVFU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f68eb95ec7d3",
+      "title": "GLP-1 drug tirzepatide may boost calorie-burning brown fat - NewsNation",
+      "published": "2026-06-21T23:54:23+00:00",
+      "summary": "GLP-1 drug tirzepatide may boost calorie-burning brown fat&nbsp;&nbsp;NewsNationSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "NewsNation",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1uSHh6WlN5eDBjcDBmY0NkWmYyaUp1V3BfMmU1QTczeXFfTzNvQTU4Y2VVeEQ4ckJmckluV2ljNU5BcDJGREtuMHd0MkI5dUFKRWhJaThMVVItNGxKMGp6eDUxbHNWM1BoOEluN1JrMWZfQ3fSAXhBVV95cUxOYU5ySVNuYTZPbVYwRWJESXpDWG1NeFhUOUNZNWhnTV9Kc0o5MmR2Tlp3cDlQal9fWnFSZVUtc3JoSlJ2cnZRMEZfb1g3WkJ3UHEzaWYyalJCbEJudmFDcGFleXN6TEp1d0sydEtGZ0FqS0Q0ZTgwQ1Y?oc=5"
         }
       ]
     },
@@ -45,11 +93,47 @@
       "id": "dc611a182777",
       "title": "You Can Do Something About Your Dementia Risk - Newser",
       "published": "2026-06-21T20:20:00+00:00",
-      "summary": "You Can Do Something About Your Dementia Risk&nbsp;&nbsp;NewserWe’re not as helpless against dementia as we think&nbsp;&nbsp;vox.comScientists Say This Surprising Thing May Reduce Your Risk of Alzheimer’s Disease&nbsp;&nbsp;PreventionShingles vaccine linked to lower dementia risk among older adults in nursing care&nbsp;&nbsp;Medical News TodayAn Open Letter to Acting Commissioner Diamantas: The FDA Needs a Regulatory Pathway for Vaccine-Based Dementia Prevention Trials Now&nbsp;&nbsp;The Clinica",
+      "summary": "You Can Do Something About Your Dementia Risk&nbsp;&nbsp;NewserScientists Say This Surprising Thing May Reduce Your Risk of Alzheimer’s Disease&nbsp;&nbsp;PreventionShingles vaccine linked to lower dementia risk among older adults in nursing care&nbsp;&nbsp;Medical News TodayAn Open Letter to Acting Commissioner Diamantas: The FDA Needs a Regulatory Pathway for Vaccine-Based Dementia Prevention Trials Now&nbsp;&nbsp;The Clinical Trial VanguardClinical briefs for Wednesday, June 17&nbsp;&nbsp;McK",
       "sources": [
         {
           "name": "Newser",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSmIzb0dtdXVVZl8ySTh3SUhQWG1CMVlzVVZTWlUxeXYwSXZORkFlZDFIX2xPd0Jac3lOYm1kSGlOWU1VX0JEVVJwMUNIY1lneHg5dlBLMG1wa2h1UVVUTWZzaTJ1dTVqbzRGS1RNNUxHd0ZWMDV2c254ZGFIZTd3YV9Gb29SVlZ3X3ppVlZ4QVYwMTVOOUllUkVNQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "14f5b3db372d",
+      "title": "These Lifestyle Changes Help Lower Your Risk of Chronic Disease For Decades - ScienceAlert",
+      "published": "2026-06-21T20:01:41+00:00",
+      "summary": "These Lifestyle Changes Help Lower Your Risk of Chronic Disease For Decades&nbsp;&nbsp;ScienceAlertPrediabetes: 3 lifestyle changes lower chronic disease risk by 21%&nbsp;&nbsp;Medical News TodayTwo simple habits may outperform a popular longevity wonder drug: study&nbsp;&nbsp;New York PostFor adults with prediabetes, lifestyle intervention lowered risk of developing multiple chronic conditions&nbsp;&nbsp;National Institutes of Health (.gov)What 21 Years Of Data Reveals About Preventing Chronic ",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU3BYb2cwZVhSTHhIQUVuMFI5WnZmWTZQMmpZQ0duY1pkNURDY3Z1UUhRT2xJTEpiOWFoMTVWS3paWnE1ZnItajU3dG9kbHVqNHpqcFR4YUdEem81RmVDeWFFZUFWeEdwRU9Td1JwZlV3QnFpVU45cFNaTHNwWmZMOWI2cXQwU1RPZXZ2NzBZOWpieFRPYUxWcHpaUUFmRk1vWXdwSVliaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "25a428d1785a",
+      "title": "Nanoscale CoAl design delivers 6 GPa strength with 15% plastic strain at room temperature - Phys.org",
+      "published": "2026-06-21T19:00:02+00:00",
+      "summary": "Nanoscale CoAl design delivers 6 GPa strength with 15% plastic strain at room temperature&nbsp;&nbsp;Phys.orgTesting an advanced structural material (IMAGE)&nbsp;&nbsp;EurekAlert!Cobalt aluminum intermetallic crystal structure (IMAGE)&nbsp;&nbsp;EurekAlert!High strength and plasticity in cobalt aluminum intermetallics (IMAGE)&nbsp;&nbsp;EurekAlert!",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iTEt2aGhPNC1pVTB5UUN1aEhIRHJHZ3ZDQkRPQnlPeE4teWExZ29qTzA1ZG1Bd2RfQ2M0OHhzNGE1YjBybXNKd2NpRUpQcW5fcHFQMTZWcVcwQUtDUnd2aVVaUlVSNlV0NkVCTWhVX01Vam1PdVpEeTN3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0bf278d3f738",
+      "title": "River Cleanup Employee Blames Cancer on the Work - Newser",
+      "published": "2026-06-21T18:25:00+00:00",
+      "summary": "River Cleanup Employee Blames Cancer on the Work&nbsp;&nbsp;Newser",
+      "sources": [
+        {
+          "name": "Newser",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMWREek8yNjlLck44R3JLMnZEYjlZQjZFWkVGcVV4MXR2NUhoNnFLYnBPR3FjZ0ZwVGJDVGoxeHFmM1JpTDlfYnVwdGwwb1FfRVZad3hzMWVsdlM5NlV3UXViMk51YXR0T25GNnY2TFRJV0ktMGNlLWFPX2QxQXhEdDRPVHNLVTNYZG9tek5wWm83NTg?oc=5"
         }
       ]
     },
@@ -66,14 +150,50 @@
       ]
     },
     {
+      "id": "4c5fa2402362",
+      "title": "Netizens spiral over IIT Roorkee’s cow urine study, findings reveal potential to fight Chikungunya virus - Deccan Herald",
+      "published": "2026-06-21T16:08:01+00:00",
+      "summary": "Netizens spiral over IIT Roorkee’s cow urine study, findings reveal potential to fight Chikungunya virus&nbsp;&nbsp;Deccan HeraldIIT Roorkee Scientists Identify Antiviral Compounds in Ayurvedic Cow Urine Distillate Against Chikungunya virus: Ancient Ayurvedic Remedy Meets Modern Virology&nbsp;&nbsp;PIBIIT Roorkee's anti-viral Gau Mutra post goes viral; internet locks horns over findings&nbsp;&nbsp;The Times of IndiaCow urine may fight chikungunya, says IIT Roorkee; internet reacts, 'It's time to",
+      "sources": [
+        {
+          "name": "Deccan Herald",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTVMtTnRxOVd6TXY1TUpFeEd1Zm9kenAxUUNRelRlSnlsQWd2YmtlWUdUV042Q3VqZElIeWZDYkdKVXdlUTlJVGMwTjZrT2J3UGFFd1pJWWRWY25YbXdmdHhwQ0VWblJ0allZc1c3bVZXam94alNDdHMwLVBZZnVjODJTN1VtbjB4bkx0NFp1QkZtMm9hUlRpMGliNUpWN1Z4RC1IZ2VkeV80TFVuMm1HM2NYS2VTNm5HT1FPTlBxaFpBLVJ0dEJkNzB0UU5mTjJCQTBqRUFRLUktdWxkNzctUmh1UmUyZzkzTEljV3dn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "182879cbb68e",
+      "title": "Chewing sugary gum after eating certain veggies is good for your heart: study - New York Post",
+      "published": "2026-06-21T16:06:00+00:00",
+      "summary": "Chewing sugary gum after eating certain veggies is good for your heart: study&nbsp;&nbsp;New York PostJuice from this vegetable lowers blood pressure within two weeks&nbsp;&nbsp;The Jerusalem PostHigh blood pressure? Try chewing bubblegum after eating beetroot&nbsp;&nbsp;The TelegraphHow chewing bubblegum and superfood vegetable at the same time can slash blood pressure and protect your heart&nbsp;&nbsp;The SunHigh blood pressure: 50p supermarket swap could do wonders for lowering your reading, ",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZk9LMjJBNzNvRlhPTHJiSzZQbzRtV1F2VkI2TVZoSFRKbW5ZakZaUW5NVExqOGpDckZtNFZ3VW5WV0htcXotdWtXTkpWWGt5bDBTUS0ya3lKbTc2amJzTEVLdUJpY3I2eU5sMzBVRjBTVlNiVVFsT05uTUp6eDNMcEJxN2dEY2hNSUpiZkNvRWdrMFkyR2ZFa0p2VS1wMmNMQ1E?oc=5"
+        }
+      ]
+    },
+    {
       "id": "fa1cd5994411",
       "title": "How much preventive health screening should I be getting? - The Guardian",
       "published": "2026-06-21T16:02:00+00:00",
-      "summary": "How much preventive health screening should I be getting?&nbsp;&nbsp;The Guardian",
+      "summary": "How much preventive health screening should I be getting?&nbsp;&nbsp;The GuardianAn ounce of prevention is worth a pound of cure&nbsp;&nbsp;The Robesonian, Lumberton, N.C.5 health screenings every adult should prioritise for a healthier future&nbsp;&nbsp;India Today",
       "sources": [
         {
           "name": "The Guardian",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sR1FTRm80a2FLa3ZsN21yRTRRS1hTVGI4MnptMmJNOGlvY0xSMk9LY3RvMFZNTzcwUHc4Vmp4MFNzd2I1S3FkZGtYV3FoS00wWFRZb09USDVWMUVud2F2VUMybjVEc2hPZ1BHTTFxbnlNY0dMZlljYjZjVDhBSHM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "549ff4afe2d1",
+      "title": "‘Albert Sabin’ Review: A Disease’s Lifetime Enemy - WSJ",
+      "published": "2026-06-21T15:59:00+00:00",
+      "summary": "‘Albert Sabin’ Review: A Disease’s Lifetime Enemy&nbsp;&nbsp;WSJ",
+      "sources": [
+        {
+          "name": "WSJ",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc0pHUUthV0dsUEJsQUNCbHNmWWNGRlpxekJOb0g1VjRmNlBtZ21aby1ITzY1R1YwTko2eFJ2Q1NXd2QwNjNiVjg4amZ2cHVkelBaUjNWb2lNenRrV3B2QldXT1FTbGVsa1FaV2tiMDZadHNWaVVmM2JPMlVrdGZGczQybXJOVnZoOGdHR3VqdXpyaXBjNFc1Rg?oc=5"
         }
       ]
     },
@@ -90,22 +210,10 @@
       ]
     },
     {
-      "id": "dd2a71fe64bc",
-      "title": "Dietician reveals the 'most dangerous time of the day' for diabetics and shares 5 simple ways to manage it | Health - Hindustan Times",
-      "published": "2026-06-21T15:31:41+00:00",
-      "summary": "Dietician reveals the 'most dangerous time of the day' for diabetics and shares 5 simple ways to manage it | Health&nbsp;&nbsp;Hindustan Times",
-      "sources": [
-        {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPLTVYRmtyUkgwRzhvUXRDNHktbVB0dEhMMVdaeDhjMUdGV1FpblV4YktxbGRTdFFobzhyN0Z4cHJoNWc3UWZaWEx1bnF4d2xES1VwbVFkMUcxYVJ2MmZ2ZXlienlERi1kWnBzMnF3QUpUUGhMLVBZQ3pzaGNtLUFqUDdyTlNLT0FhVDlBbkJWQ0x1a0RTb0xJWkhjMGZ5aHJjNWJoeHExQXhJTVRiTmswUnVSZGNUeGh1dm9zVEFKNDc1NjdscFViTEdPeThGSU52cmI3TDF6RGFoNmNLV2dHSjJJd0JRQlNIc2Z5UGxFRWl1VFp0Vi1CazI3WlpXNDdheW5Yd0trSlh0d9IBjwJBVV95cUxQZ3Q0bFE4NnIxY0xCeHpmNUdtRFN3SUZrWWUwbm9PUnhvRGxwdHVPaDl3WTNOd0VaZ19MREp5NE1KV0JjX0l0QUd4V2hyX05IQ0Vhbm9mY3JpOW1sbUJESUNvOGNNOFFrX1dORTV3Rm0wdjZwZ19MTS1KcGJ1cWZZVEJHOENqbWJ3emNNNGZJOWJjVzU4NWJHdWN0enVLQXdFN0J6MDdJZXVZOWc3bmFMUDhfT0JKWXA3OVd3ZDhfZXVQdGp0NE9QVm4wXzRaZGk5b1lVdS1vbUNZWjZvaDR1SGZzN2stdmV1TFVtVS1tRFE3aGxEUXlwRDN6Y3hJRFhiSDFuVlVnc1lZZ2RFTVZN?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b978d7cb7973",
       "title": "Early-onset cancers are on the rise. Knowing your family history is crucial. - Daily Kos",
       "published": "2026-06-21T15:00:00+00:00",
-      "summary": "Early-onset cancers are on the rise. Knowing your family history is crucial.&nbsp;&nbsp;Daily KosColon Cancer on the Rise&nbsp;&nbsp;Relevant RadioEpidemiology of Early-Onset Colorectal Cancer: A Systematic Review and Meta-Analysis of Incidence, Temporal Trends, and Associated Factors&nbsp;&nbsp;CureusOPINION: ASCO 2026 — Postulating under-50 cancer surge, GLP-1, computational oncology&nbsp;&nbsp;Franklin County Free PressProjected Colorectal Cancer Detection Rates in Adults Under Age 45&nbsp;&n",
+      "summary": "Early-onset cancers are on the rise. Knowing your family history is crucial.&nbsp;&nbsp;Daily Kos",
       "sources": [
         {
           "name": "Daily Kos",
@@ -126,6 +234,30 @@
       ]
     },
     {
+      "id": "67a427470517",
+      "title": "Second person hospitalized in Israel for possible Ebola after trip to DR Congo - The Times of Israel",
+      "published": "2026-06-21T13:49:00+00:00",
+      "summary": "Second person hospitalized in Israel for possible Ebola after trip to DR Congo&nbsp;&nbsp;The Times of IsraelSecond person suspected of Ebola put in isolation, health ministry says&nbsp;&nbsp;HaaretzIsrael Reports Second Suspected Ebola Case In Traveler From Congo&nbsp;&nbsp;i24NEWSHealth Ministry monitors suspected Ebola case under isolation protocol&nbsp;&nbsp;The Jerusalem PostSuspected Ebola patient undergoes testing at Rambam Medical Center, results expected in days&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "The Times of Israel",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM0lRWFQzcXNfdXV4TmZmZmtTdUVyUUlrUlZLT0xNVk9ZcmpLQmwzdGJqd3Q3WElDLTJIbEFheHlfZC1iUGRVMlpBUlUxbGdBaW1QNVU1Y3RIQXBOSm1tb3dqVUpRWjhsTTFTN0hQdHZDaTVjSDRXb2U5MnFkdzVhR1Q3QVczazAySWRhM3ZzS1FBSDRoTURHR0Ezc2VETTFVNzYtWUdDTmRXNzdXUEHSAbMBQVVfeXFMTjR3czdSMDJvc2JjVUFiT1Z2TnJLejRLUWdhY0VjX2ZqdVR2Y1NhVVRtZ2RTQ1AtNlpXR3Y1TUJrenhQclplRy1vVmt2cm90LVUxX0Y4Vk1QcVhQem5QXzZvY3NsdjhxWmx0Rk54S2p6Q21NU0lXNWgweENtNTFwVUdzN29XY1paN2p6YUNOR3BncEtzSUdPTlBzRGlRTm53Z0ZyZHAzUlU3VmYyZU1lY0QyaW8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cb88b059681a",
+      "title": "Clues to psilocybin's epigenetic effects on people with alcohol use disorder - Medical Xpress",
+      "published": "2026-06-21T13:20:01+00:00",
+      "summary": "Clues to psilocybin's epigenetic effects on people with alcohol use disorder&nbsp;&nbsp;Medical Xpress",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSGlzZFdGUzd6SFlUSEdQeHlTSnBlRWJ6dEdwYXZuemltUVdOR1J5bkhhaUdBUDhPWFV5bU12ZWxqNkRkdFF2M2VOY2JMS2tHZ0tEUjk3NDE3REhVeUJZcy1BRkhIZmRBNUtUM3djMDZDZ1kyYkwtalFCSDNMbG1PVkdxZF95MkwtSTh4WFNkaw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "86f49966657f",
       "title": "Tubulin prevents toxic brain protein clumps linked to Alzheimer’s and Parkinson’s - ScienceDaily",
       "published": "2026-06-21T13:09:59+00:00",
@@ -138,10 +270,22 @@
       ]
     },
     {
+      "id": "50c3c2329f8d",
+      "title": "3 Weekend Habits That Are Quietly Increasing Your Diabetes Risk - EatingWell",
+      "published": "2026-06-21T12:30:00+00:00",
+      "summary": "3 Weekend Habits That Are Quietly Increasing Your Diabetes Risk&nbsp;&nbsp;EatingWell",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORm95dVNtU0dEWlJZVHpiMGZ5WElUam1UMjZuVXM4Umt2OVNZQzNGZnB1c1gwSDdZSUVKT1NDRktTVjZHOVZIVmJmSGhIU2xZZXEzQnB4RDd1SkNIc0ZsOG5QTDJub1ZoX0E0ZXZYaFJsRFlSY3Zwa0I2Q0ZOazFfMXJSRnFabUZ0UW1HZko5UmcxNENHRmRrcE1EWUg5dw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7bb1fc4e5252",
       "title": "6 Canned Foods to Eat to Lower Blood Pressure, According to Dietitians - Verywell Health",
       "published": "2026-06-21T12:28:19+00:00",
-      "summary": "6 Canned Foods to Eat to Lower Blood Pressure, According to Dietitians&nbsp;&nbsp;Verywell HealthA dietitian’s guide to reducing the risk of high blood pressure and stroke&nbsp;&nbsp;Times of San DiegoHigh blood pressure? Top nutritionist reveals the fruits, vegetables and seeds to add to your diet&nbsp;&nbsp;The Economic Times3 Everyday Habits with More Blood Pressure Benefits Than Daily Walks&nbsp;&nbsp;EatingWellThe Best Breakfast Foods for High Blood Pressure, According to Dietitians&nbsp;&n",
+      "summary": "6 Canned Foods to Eat to Lower Blood Pressure, According to Dietitians&nbsp;&nbsp;Verywell HealthSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "Verywell Health",
@@ -153,23 +297,11 @@
       "id": "2755ad22059b",
       "title": "A mysterious gamma-ray stream comes from the Milky Way's center. Could dark matter have something to do with it? - Space",
       "published": "2026-06-21T12:00:00+00:00",
-      "summary": "A mysterious gamma-ray stream comes from the Milky Way's center. Could dark matter have something to do with it?&nbsp;&nbsp;SpaceDark Matter in the Center of the Milky Way Not Ruled Out | Newswise&nbsp;&nbsp;NewswiseA strange glow in the heart of the Milky Way may be dark matter&nbsp;&nbsp;The Brighter Side of NewsDark matter cannot be ruled out as cause of gamma ray glow at the Milky Way's center, machine learning shows&nbsp;&nbsp;Phys.org",
+      "summary": "A mysterious gamma-ray stream comes from the Milky Way's center. Could dark matter have something to do with it?&nbsp;&nbsp;SpaceDark matter cannot be ruled out as cause of gamma ray glow at the Milky Way's center, machine learning shows&nbsp;&nbsp;Phys.orgA strange glow in the heart of the Milky Way may be dark matter&nbsp;&nbsp;The Brighter Side of NewsDark Matter in the Center of the Milky Way Not Ruled Out | Newswise&nbsp;&nbsp;Newswise",
       "sources": [
         {
           "name": "Space",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPa0M2VzgyalpvaHBHMnFjUFpYWTQwbF9yMmhrcjIzNXptWUFXdlZSZGhaR2I2Tm5VclJ6amVLdFdPVHpyUDRCQWhldHlYZFMxdmw3aEZRSVY4LTNSQlptc1BONERJVkpHdlFoRmlZUlcwQkp2ZWhNeHhscTFnSF9IdkRTXzQzRE1XZ1NRWlJTWTVmQzVhdlVNWnJMU2NOQlMweTczdC1TMl9MX2Z2a1BKcERsUXd1b09yeW5VaGJ3RGNnMGhOWVlkWkJwS2JudW1xSXZpYXpjT2lybjJUb1BDSWNrb0JmR3R3NGpV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "64bd16c19757",
-      "title": "Scientists Say This 1 Vitamin May Protect Your Brain as You Age - AOL.com",
-      "published": "2026-06-21T11:42:41+00:00",
-      "summary": "Scientists Say This 1 Vitamin May Protect Your Brain as You Age&nbsp;&nbsp;AOL.comSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ3NRY1BGUFFjTFB6RDI0ME40dV9CZGxPcC1aT014bnpiaEltRFM4LVFhR0FCWjFtT2ptMExseHhYWmVDYkEzRXNVMDc0dlZkMXN0cnBQdzlUbE94QjZWRWVwMzRTZDVFRjBkOXVNQVRBQlpyQkVmV0JwVXVscTRnY2hR?oc=5"
         }
       ]
     },
@@ -182,6 +314,18 @@
         {
           "name": "Newser",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOUJGVTIwTmo1aTJZRWltbFd4Y3dLNlFpWFJsVUVDUExOMngzcl9GRmNpOE5OcTNEb3Z2Nll0SEk0LUROSjQ0ZGt4TDdHVDBJdlpTZnhGSEVTZmp5Qm0wMXdwc29DN3BJcGd5N252c1d0WFpXamtETlJLaDdqWmliM3BDSC1vUXlsWW5aNlQ5MjBuemZmUjB3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fee98ad12fc5",
+      "title": "The hantavirus quarantine is over. Here’s what cruise passengers and scientists learned. - NBC News",
+      "published": "2026-06-21T11:00:42+00:00",
+      "summary": "The hantavirus quarantine is over. Here’s what cruise passengers and scientists learned.&nbsp;&nbsp;NBC NewsHantavirus Quarantine Ends for 18 Americans Exposed on a Cruise Ship&nbsp;&nbsp;The New York TimesThe real reason a hantavirus disaster was averted | Letters&nbsp;&nbsp;The GuardianFreedom day: British passengers on ‘rat-virus’ cruise ship leave lockdown&nbsp;&nbsp;The TelegraphIrish survivor of Hantavirus cruise opens up about her terrifying ordeal&nbsp;&nbsp;Irish Independent",
+      "sources": [
+        {
+          "name": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNEZwUHVfQmFkOHZQc3J2c1czelU5Qm9nRUh1RTdiX3pmR1d0UFdwNk9WUnNRQ1E1U0dPa2dSSFVLT0NmNTV0Qm9VV0Exc1pCVC15dTRfUmltQkdnbXNqc0VCbGNkS0dqczZ5OWhnQjR1RnowWnhKODc5djYwejhRTFpTNmlvUnljVWttREtKQ0FZSXVOMEdXMUpFNHJGVXdNY056aEVUOEV6TkY3RHRUS20wRTFhaGJU?oc=5"
         }
       ]
     },
@@ -222,18 +366,6 @@
       ]
     },
     {
-      "id": "6abe0012b0b5",
-      "title": "Second person suspected of Ebola put in isolation, health ministry says - Haaretz",
-      "published": "2026-06-21T10:50:00+00:00",
-      "summary": "Second person suspected of Ebola put in isolation, health ministry says&nbsp;&nbsp;HaaretzSecond person hospitalized in Israel for possible Ebola after trip to DR Congo&nbsp;&nbsp;The Times of IsraelIsrael Reports Second Suspected Ebola Case In Traveler From Congo&nbsp;&nbsp;i24NEWSHealth Ministry monitors suspected Ebola case under isolation protocol&nbsp;&nbsp;The Jerusalem PostSuspected Ebola patient undergoes testing at Rambam Medical Center, results expected in days&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "Haaretz",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSXlfRXBKQ1F5eTRjX25uZUItOHctZEppZkIwUVVmLUVMRW9sV21IM3Q0Q0RXRjkyWERpcEhVZ3JWaVpZLUZMQU1IZjR0SUViSm9qQmQ4MU5DcHJzQUtib0toQTAyMUo2Z3ZpS1FNR3hSZWZsa1dsM0VDclZRZHBFTXo1QVZBRVo5dktXaHQ4OVhhVzctYTBzb25DRVlJanRHTndfd1AxQkhPRkdHelVzY05OekNWVUg0emxDREdBOUJzeWtRRmZINmZGYXEzeldrZmd6YmFSNW5FRTNqell4eE1jUHRnWXBmWTA3SmhfNGFpajZkSWl6Q3VjUnNuWHB2eGc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "63ad7152ca38",
       "title": "Healthy ageing doesn’t begin at 60: Doctor shares daily habits that can decide how well you’ll live later - The Times of India",
       "published": "2026-06-21T09:16:05+00:00",
@@ -242,18 +374,6 @@
         {
           "name": "The Times of India",
           "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaUdaa2JVR3U3WFFoX0dIVGNfM0JWQ2NmX0NRMmtheUFWR1I4RHE4U253eGtzQmlxb3VFcUMyOHNFSXZaNnk0OVoxb1VJQXQ5eUZWMFBCeXU3enI3ZnBHdDBYbGl5S3daZWF5YnVsbUVwaUFsblllVUNaYnRNTXBQQnc1SlltS0c5andKWUdUR3V4NGVGSGZZdkVES2VPdVZZVk1vUjI2YXhNWTFfbmFQREw2VzdZbkFFQndqY3R4YXpMd1JRZzVuSlQ0QlZVSEN0UzVGZDFBVFNOMkhiZUN1N2dxTHRxR2YxM2RIRTZmVi1UTENKZTJiTmJncUVvY0nSAYcCQVVfeXFMTlJLTl94anM2OWhCbnVfVVdqWllJNktpOXF3clpFcGExaUE4eXJxWE8tYjFkRWFlZWlXWVhJWDBUbTE5dGdYTndWU05ycHhsVjdYZzZxNG9aazhfNkFMSUVrc055NV9UZGRybWRBcFNGVkV4aHhWX01DbmdmcEh5VUxsdGZOc3p3Nml4ZGJabHhodU8zZDZJN1dxTmlGekN4MHBqaTBHQXVVWVBGMWRCQWU1SDhwZjEwQ2g3cUhzLWY1a2t4ajBQYXVNNHNoN3JTZTF3U2owMkVwam9YaE5LZVh4UjloRnQ4d21NY1M1NF9iTldQcHkzSkdoaVFWOEdsanlBVDZISFk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "47d1fafae6fe",
-      "title": "Daily 'fountain of youth' drink could lower dementia and diabetes risk - The Mirror",
-      "published": "2026-06-21T08:50:00+00:00",
-      "summary": "Daily 'fountain of youth' drink could lower dementia and diabetes risk&nbsp;&nbsp;The MirrorPopular drink has surprising effect on aging, science says&nbsp;&nbsp;PennLive.comCoffee Has So Many Benefits—Here Are the Best Ways to Brew and Store It&nbsp;&nbsp;EatingWellCoffee drinkers issued with dementia update - one method could raise cholesterol&nbsp;&nbsp;MSNCoffee can slash diabetes risk but one method could increase your cholesterol&nbsp;&nbsp;Wales Online",
-      "sources": [
-        {
-          "name": "The Mirror",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUmFDdUJoa2hza2hKd1Brbkd4MklDbzF1cFQ1Y1R5bTBwa0FPZTFOUkZ5WV94UDhwZUd2dkNPQjFBQWxIelllLWhtbTUxN2NRWTFCdnpfTWRsRzd5VWFDU2xpZHNCWUczdEFqU0FkdlQ1VWNHRDQyZkd2MlA3RFlKcHZkeE8?oc=5"
         }
       ]
     },
@@ -270,14 +390,26 @@
       ]
     },
     {
-      "id": "41554572ad30",
-      "title": "Health Division worried by high rates of STIs among young people in Tobago - Trinidad Guardian",
-      "published": "2026-06-21T06:21:34+00:00",
-      "summary": "Health Division worried by high rates of STIs among young people in Tobago&nbsp;&nbsp;Trinidad Guardian",
+      "id": "22d567455a89",
+      "title": "Life and science in orbit: China's Shenzhou-23 crew continues busy work - news.cgtn.com",
+      "published": "2026-06-21T07:43:34+00:00",
+      "summary": "Life and science in orbit: China's Shenzhou-23 crew continues busy work&nbsp;&nbsp;news.cgtn.comChina's Recent Rocket Launch Is The Next Step For Its 2030 Project&nbsp;&nbsp;Yahoo Life UKChina wants Shenzhou-23 to set a new human-spaceflight record, and the quiet message is that orbit is becoming an endurance contest&nbsp;&nbsp;OkDiarioHow China's Shenzhou-23 astronauts are farming rice 400 kilometres above Earth&nbsp;&nbsp;The Times of IndiaShenzhou XXIII crew conducts first in-orbit medical re",
       "sources": [
         {
-          "name": "Trinidad Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV094aXNwMnJmVzJKdFI5SmxGS1paSXJid1JrRVk1bG53Rm82Z0t6aGVFaFhKOG1FLW5sUDR4TUU0bDA1U0t3WEdYTFo3UnNEMmxsSXNSa3FiUjFqTnl2cUJTYU4xc1ZQYjUzNnFibC1YNTZ3MnppZmdXZ3BuTkhGNEoxNWtaXzV5cWZWWS14OWpCcl9GYk9rQm5MMmhhNzJXQXJSNGFzdG5aSjJBbllobWZrSzg1blg0TzJsZ2xNanJsUnJDVVp5MQ?oc=5"
+          "name": "news.cgtn.com",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM2hJc3dSa19EZGlEajFmRG5Zc19XZUl4ZS14MXBlMm11aFA4ZUUzaFZ6bFE2dXN6Z0sySThwanpWdjNWY2VjZjc5bTBZTjd6V2cycVBUbUg2R09MdjhvMTVweVZpM2FWMnQ4NTZfRGV4dFlKT01aVHFFb2J6akdoM3pqR2dYVm5UU0k2Zk1xeC1XWHNHNGZIeDU2Z2hYek5ITEdxRWFqaWhESnhPb0tsNHFQTkZLWWZKMVozaGxaWExHeXM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "42611f5187d6",
+      "title": "How To Keep Ticks Out Of Your Yard This Summer - Southern Living",
+      "published": "2026-06-21T07:00:00+00:00",
+      "summary": "How To Keep Ticks Out Of Your Yard This Summer&nbsp;&nbsp;Southern LivingHow to keep ticks out of your yard and off your body&nbsp;&nbsp;Bangor Daily NewsDeter Ticks on Your Property With These 9 Smart Landscaping Tips&nbsp;&nbsp;bobvila.comLyme disease cases reported in Waterloo Region&nbsp;&nbsp;CTV NewsAsk the lawn fertilizer & tick control expert Chris Wheeler: Why do we treat lawns and landscapes for Ticks?&nbsp;&nbsp;www.warwickadvertiser.com",
+      "sources": [
+        {
+          "name": "Southern Living",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NZ1JYdmt5aUN5SnhYV2dtcVpGZ0F5SEJhREtMNlhqUUQ4b1NSUnh1cXRkVmFPMGI3eU1UZVNoQ0E0dmp1a2dlQmpKRTk0RjhoOHJ1azFFU1hCOGtrRUVuMnFIekcyeWlFbHNhMnNIdkhySjFTaGNIV3lBdWxubTg?oc=5"
         }
       ]
     },
@@ -285,7 +417,7 @@
       "id": "4706ebf8c30b",
       "title": "Thawing Permafrost Not Only Emits CO2, It Absorbs it Too, Shows Landmark Study - Good News Network",
       "published": "2026-06-21T02:27:48+00:00",
-      "summary": "Thawing Permafrost Not Only Emits CO2, It Absorbs it Too, Shows Landmark Study&nbsp;&nbsp;Good News NetworkRock weathering can counteract river CO2 emissions induced by permafrost thaw&nbsp;&nbsp;NatureEarth’s permafrost could soon release hidden ‘deep carbon,’ supercharging warming&nbsp;&nbsp;YahooHow a new permafrost climate model fits a dangerous pattern in climate science&nbsp;&nbsp;R&amp;D WorldNorthern permafrost switches from carbon sink to carbon source earlier than thought in models inc",
+      "summary": "Thawing Permafrost Not Only Emits CO2, It Absorbs it Too, Shows Landmark Study&nbsp;&nbsp;Good News NetworkHidden geological process offsets carbon emissions from thawing permafrost&nbsp;&nbsp;ScienceDailyRock weathering can counteract river CO2 emissions induced by permafrost thaw&nbsp;&nbsp;NatureNorthern permafrost switches from carbon sink to carbon source earlier than thought in models including deep soil carbon&nbsp;&nbsp;Phys.orgHow a new permafrost climate model fits a dangerous pattern ",
       "sources": [
         {
           "name": "Good News Network",
@@ -294,22 +426,10 @@
       ]
     },
     {
-      "id": "6b649a9c5b98",
-      "title": "H5N1 bird flu confirmed in Australia for the first time, meaning virus has now reached every continent - Fox News",
-      "published": "2026-06-21T00:52:28+00:00",
-      "summary": "H5N1 bird flu confirmed in Australia for the first time, meaning virus has now reached every continent&nbsp;&nbsp;Fox NewsThousands of baby seals died on two remote sub-Antarctic islands. Scientists now think they know why&nbsp;&nbsp;CNNAustralia confirms first case of H5N1 bird flu as virus reaches every continent&nbsp;&nbsp;BBCWestern Australian poultry farms locked down after H5N1 bird flu discovered in wild birds&nbsp;&nbsp;The GuardianIngham's locks down WA operations after Australian H5 bi",
-      "sources": [
-        {
-          "name": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMTJFT3BKV25VYmhmaDR1ejR3aUt4WUczcjJhQ0JlRXBzdmEzbFh6MEpKaUtHTGtEcVZ0dXh5Wk9sazViN2tGRnl4V01vSWJZYnRtbG9vN1JXX0l3dUxlV25ReDdrTFpSYmY3bnpySHduTGdueHpFUWhXbWdCWk5kRUdfcjZCbWd3d1dNNTdpaVdxN0RkM3lVQ2pGY3NFRHZnQUVBNTd3NFhHcm1YSVlBRVhB0gG3AUFVX3lxTE9Ga0xEQ25icHFtN09TRW9CZWpCSHRwczhTRWc4cHlUMVlFendEc0l2ZnRIenZ5RVE3RUFQeEZoaVI4R2p4cndzWHQxaWotNlhGVTk4cjdXUlREU2Zvcm1vcnVMVjU4Uy1iaXdpU1FCUkIwUzlodkNjZ3J1NVZDUWZjUkF6XzhPX19kT3AyRU05ZF9sQ1ZQaXdzOS1OU0tSN01Gd2dRSWRmT2VMS0FTSFVRcktvdG1iaw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fa1521d9251b",
       "title": "Frozen fruit and canned veg are cheap, but are they as healthy as fresh food? - Medical Xpress",
       "published": "2026-06-21T00:30:01+00:00",
-      "summary": "Frozen fruit and canned veg are cheap, but are they as healthy as fresh food?&nbsp;&nbsp;Medical XpressNutritionists swear by these freezer staples—they help families live longer&nbsp;&nbsp;MSNAre Frozen Fruits & Vegetables As Healthy As Fresh?&nbsp;&nbsp;Slurrp",
+      "summary": "Frozen fruit and canned veg are cheap, but are they as healthy as fresh food?&nbsp;&nbsp;Medical XpressFrozen and Canned Produce Offer Nutritional Value Comparable to Fresh Options&nbsp;&nbsp;geneonline.comNutritionists swear by these freezer staples—they help families live longer&nbsp;&nbsp;MSN",
       "sources": [
         {
           "name": "Medical Xpress",
@@ -333,7 +453,7 @@
       "id": "81ec0e004679",
       "title": "Measles case confirmed in Maryland resident who passed through Dulles and DC clinic - WTOP",
       "published": "2026-06-20T22:42:46+00:00",
-      "summary": "Measles case confirmed in Maryland resident who passed through Dulles and DC clinic&nbsp;&nbsp;WTOPMeasles case reported at Dulles Airport, Adams Morgan clinic&nbsp;&nbsp;NBC4 WashingtonVDH reports another measles exposure in Northern Virginia amid outbreak in Buckingham County&nbsp;&nbsp;InsideNoVa.comMaryland resident with measles traveled through Dulles, DC clinic&nbsp;&nbsp;Baltimore SunAnother measles case confirmed in Maryland after resident returned from international trip&nbsp;&nbsp;theb",
+      "summary": "Measles case confirmed in Maryland resident who passed through Dulles and DC clinic&nbsp;&nbsp;WTOPMeasles case reported at Dulles Airport, Adams Morgan clinic&nbsp;&nbsp;NBC4 WashingtonVirginia health officials urge measles protection amid rising cases&nbsp;&nbsp;WAVY.comVDH reports another measles exposure in Northern Virginia amid outbreak in Buckingham County&nbsp;&nbsp;InsideNoVa.comAnother measles case confirmed in Maryland after resident returned from international trip&nbsp;&nbsp;thebann",
       "sources": [
         {
           "name": "WTOP",
@@ -342,14 +462,14 @@
       ]
     },
     {
-      "id": "067ec15a05d4",
-      "title": "The 5 Best Cereals to Reduce Stroke Risk, According to Cardiologists and Dietitians - AOL.com",
-      "published": "2026-06-20T20:31:49+00:00",
-      "summary": "The 5 Best Cereals to Reduce Stroke Risk, According to Cardiologists and Dietitians&nbsp;&nbsp;AOL.com",
+      "id": "f0a9a5867b1c",
+      "title": "Which GLP-1 works best? New meta-study puts them head-to-head - NewsNation",
+      "published": "2026-06-20T21:31:22+00:00",
+      "summary": "Which GLP-1 works best? New meta-study puts them head-to-head&nbsp;&nbsp;NewsNationSee more headlines & perspectives on Google News",
       "sources": [
         {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rbFkxSVlsODNwMTVmQnN0dTBpV1Rpamd5SWZacXFqeHdOMDk4M1c3NFE2emlZNnJodmJ4NGEtS0JlMHRoX0hqVmpva3hiWVZrNHRlUG1NR3Ytc2ZWeXFBRlpucDNWTHpGdDZKZXBBaEU0UDVnMFdDU0pfOTY?oc=5"
+          "name": "NewsNation",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FVkx0MFh2R1RLeTA5OVZ6eGFpVjdzZTZyZ1ZBOVNWSWhldXNpdFl5a1BNMVZJclVFd2J3VmlRa0dyZjR2SzN1Y0ZsTUV0TUlNS0UtVjVicFE1MGNjNzgtZ25NOHg2ZmpHdmfSAW9BVV95cUxPTmt6MmdYSkJ2S1VSOERpUkVCT1hQSkNsNkVfRTVzTUVKRWJ1WlJ6NGkyRXRlUUU2WlozRGxDVEdlRjg5SFlRUUE2SmotZDFRUXhNNzZHaktIdUg4UG9tOXVucGVLVUV1cExHVzc5bjA?oc=5"
         }
       ]
     },
@@ -393,7 +513,7 @@
       "id": "acc61370567b",
       "title": "Everyday Habit Changes Lowers Dementia Risk - Neuroscience News",
       "published": "2026-06-20T18:50:36+00:00",
-      "summary": "Everyday Habit Changes Lowers Dementia Risk&nbsp;&nbsp;Neuroscience NewsFindings about older Michiganders and brain health (IMAGE)&nbsp;&nbsp;EurekAlert!Poll reveals gaps in brain health awareness among older adults&nbsp;&nbsp;News-MedicalBrain Health and Dementia Resources&nbsp;&nbsp;AARP",
+      "summary": "Everyday Habit Changes Lowers Dementia Risk&nbsp;&nbsp;Neuroscience NewsMichigan’s aging brains need more protection, poll shows&nbsp;&nbsp;University of Michigan HealthBrain Health and Dementia Resources&nbsp;&nbsp;AARPFindings about older Michiganders and brain health (IMAGE)&nbsp;&nbsp;EurekAlert!",
       "sources": [
         {
           "name": "Neuroscience News",
@@ -417,7 +537,7 @@
       "id": "49480d61d58f",
       "title": "'You kill the bacteria and heal the wound at the same time': Emerging nanotech could be the future of wound healing - Live Science",
       "published": "2026-06-20T18:00:00+00:00",
-      "summary": "'You kill the bacteria and heal the wound at the same time': Emerging nanotech could be the future of wound healing&nbsp;&nbsp;Live ScienceResearchers Use Graphene Quantum Dots to Target Antibiotic-Resistant Bacteria&nbsp;&nbsp;The Quantum InsiderBiosynthesis of ecofriendly antibacterial nanoparticles with healing effects in a murine diabetic skin infection model&nbsp;&nbsp;NatureA new nanotech breakthrough could help heal dangerous wounds antibiotics can’t treat&nbsp;&nbsp;The Economic TimesSpi",
+      "summary": "'You kill the bacteria and heal the wound at the same time': Emerging nanotech could be the future of wound healing&nbsp;&nbsp;Live ScienceResearchers Use Graphene Quantum Dots to Target Antibiotic-Resistant Bacteria&nbsp;&nbsp;The Quantum InsiderA new nanotech breakthrough could help heal dangerous wounds antibiotics can’t treat&nbsp;&nbsp;The Economic TimesSpiky nanoparticles clear drug-resistant biofilms with ultrasound&nbsp;&nbsp;Nanowerk",
       "sources": [
         {
           "name": "Live Science",
@@ -441,7 +561,7 @@
       "id": "73d23c43c9b3",
       "title": "Misinformation about sunscreen is spreading on TikTok, researchers say - The Washington Post",
       "published": "2026-06-20T17:00:00+00:00",
-      "summary": "Misinformation about sunscreen is spreading on TikTok, researchers say&nbsp;&nbsp;The Washington PostOur long national sunscreen nightmare is almost over&nbsp;&nbsp;The VergeOn TikTok, sunscreen misinformation goes viral&nbsp;&nbsp;NBC NewsHow toxic masculinity and ‘wellness’ influencers could be giving you skin cancer&nbsp;&nbsp;The IndependentSunscreen Myths Draw TikTok Engagement&nbsp;&nbsp;Conexiant",
+      "summary": "Misinformation about sunscreen is spreading on TikTok, researchers say&nbsp;&nbsp;The Washington PostOur long national sunscreen nightmare is almost over&nbsp;&nbsp;The VergeOn TikTok, sunscreen misinformation goes viral&nbsp;&nbsp;NBC NewsSunscreen Myths Draw TikTok Engagement&nbsp;&nbsp;ConexiantWhy Sunscreen Misinformation Gets More Attention on TikTok&nbsp;&nbsp;Healthline",
       "sources": [
         {
           "name": "The Washington Post",
@@ -453,7 +573,7 @@
       "id": "52d4a8b883b4",
       "title": "What men should know about the US government’s latest move on testosterone therapy - CNN",
       "published": "2026-06-20T16:00:25+00:00",
-      "summary": "What men should know about the US government’s latest move on testosterone therapy&nbsp;&nbsp;CNNHHS Announces Requested Updates to Testosterone Therapy Product Labels&nbsp;&nbsp;HHS.govTrump admin seeks to roll back testosterone restrictions — why docs are conflicted&nbsp;&nbsp;New York PostRFK Jr. Moves to Lift Warning Labels on Testosterone Therapy&nbsp;&nbsp;Bloomberg.comTestosterone replacement therapy could soon get updated warning labels&nbsp;&nbsp;WCNC",
+      "summary": "What men should know about the US government’s latest move on testosterone therapy&nbsp;&nbsp;CNNHHS Announces Requested Updates to Testosterone Therapy Product Labels&nbsp;&nbsp;HHS.govTrump admin seeks to roll back testosterone restrictions — why docs are conflicted&nbsp;&nbsp;New York PostFDA Seeks Testosterone Label Changes After Evidence Review&nbsp;&nbsp;MyChesCoTestosterone replacement therapy could soon get updated warning labels&nbsp;&nbsp;WCNC",
       "sources": [
         {
           "name": "CNN",
@@ -477,7 +597,7 @@
       "id": "c59ada3e4aef",
       "title": "The Actual Benefits of Intermittent Fasting, According to Experts - GQ",
       "published": "2026-06-20T14:53:28+00:00",
-      "summary": "The Actual Benefits of Intermittent Fasting, According to Experts&nbsp;&nbsp;GQNot so fast: Intermittent fasting isn't appetizing for everyone&nbsp;&nbsp;OSF HealthCareIs intermittent fasting safe for everyone? Dietitian shares who should be careful&nbsp;&nbsp;Hindustan TimesCan’t Stick to a Diet? Try Intermittent Fasting for Weight Loss | Newswise&nbsp;&nbsp;NewswiseIntermittent Fasting Is Better Than Counting Calories For Those Who Struggle To Lose Weight And Keep It Off: Study&nbsp;&nbsp;ETV ",
+      "summary": "The Actual Benefits of Intermittent Fasting, According to Experts&nbsp;&nbsp;GQNot so fast: Intermittent fasting isn't appetizing for everyone&nbsp;&nbsp;OSF HealthCareIs intermittent fasting safe for everyone? Dietitian shares who should be careful&nbsp;&nbsp;Hindustan TimesIntermittent fasting matches calorie counting for weight loss&nbsp;&nbsp;Earth.comCan't stick to a diet? Try intermittent fasting for weight loss&nbsp;&nbsp;Medical Xpress",
       "sources": [
         {
           "name": "GQ",
@@ -489,7 +609,7 @@
       "id": "6bc1a1019114",
       "title": "4 Things to Avoid Every Day If You’re Watching Your Cholesterol - EatingWell",
       "published": "2026-06-20T14:30:00+00:00",
-      "summary": "4 Things to Avoid Every Day If You’re Watching Your Cholesterol&nbsp;&nbsp;EatingWellFour foods that could improve your cholesterol and boost heart health&nbsp;&nbsp;The IndependentThe Diet That May Lower Bad Cholesterol 'As Much As A Statin'&nbsp;&nbsp;HuffPost UKDietitians reveal top nutrient to eat more of if you want to lower cholesterol&nbsp;&nbsp;MSNNon-Statin Ways To Lower Your Cholesterol That Doctors Actually Recommend&nbsp;&nbsp;AOL.com",
+      "summary": "4 Things to Avoid Every Day If You’re Watching Your Cholesterol&nbsp;&nbsp;EatingWellFour foods that could improve your cholesterol and boost heart health&nbsp;&nbsp;The IndependentDietitians reveal top nutrient to eat more of if you want to lower cholesterol&nbsp;&nbsp;MSNNon-Statin Ways To Lower Your Cholesterol That Doctors Actually Recommend&nbsp;&nbsp;AOL.com",
       "sources": [
         {
           "name": "EatingWell",
@@ -522,18 +642,6 @@
       ]
     },
     {
-      "id": "cc13e88e5fca",
-      "title": "The scan may be clear, but the journey isn’t over: Doctors explain the untold reality of life after cancer - The Times of India",
-      "published": "2026-06-20T13:45:03+00:00",
-      "summary": "The scan may be clear, but the journey isn’t over: Doctors explain the untold reality of life after cancer&nbsp;&nbsp;The Times of India",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQUHRjZmFQTmZVQ2gyNDdaT2hia0h6YjB1ZFpMVEpSaHpfajZkTXg4c0NFOXNiYWRPSndJVllpcThDMmsxUnJjVm1PNS1SYzdyMXFiTW5hUURiZUxjU3NwVUR0OFZNWjhtTmpZSGN1TjV4NDBodjZxR3ZFYzNramVJdlVMNWU1Q084bDFQZWdiSnktNWFOM0NzNFFEV1BkQUJzai1rS0x5dUxXZkd3WElMc3YtZjV5TDhZMHU2VGs2RGFJQ2JUY0lTckZjQm9JRnFvd1ZNUWIwMDBmZ3JuZXNzZlpjR1ZKTm50WW1kdDNZOG4tUkFyakRReFd1cFRraUsz0gGIAkFVX3lxTE5ObHR5d1c2Rl9iSkJDX1lMdF9fZE1Yc0MzWHhTa0RqLXlJTm90Skp4RURDY0IxaWdSMDRKMVhQcDhURURjU0xIZ1kzZlNUMEdfU21rTTV1RHpScE55bTd6amtSWEM2amZUWUpjSFhtQVNZYTB4MEo5eDMzcVM4a0hpSjUzN1pabkJ6WHVuOGdzUmRSLVVJcGtYR2JrTENrMUk2bFhsMWlGUE1hYnptY29kTHZ1NlNibUt6TmZuQ0pNamZUcnZFNjJQRjBDcS00NG1XOHdQeXAzWnp5YU9veXJIWUVNanVwbmZvdm51T193QXc1NjE1SmJ2RU52UWFWUjNoOUxKT2pSSw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "64f446fd2687",
       "title": "Stroke survivor, retired firefighter reunites with hospital medical team that saved his life in Pomona - ABC7 Los Angeles",
       "published": "2026-06-20T13:34:51+00:00",
@@ -549,7 +657,7 @@
       "id": "4a32073893f6",
       "title": "Popular weight-loss drugs linked to unexpected male fertility benefit - Fox News",
       "published": "2026-06-20T13:00:32+00:00",
-      "summary": "Popular weight-loss drugs linked to unexpected male fertility benefit&nbsp;&nbsp;Fox NewsAnother possible benefit of GLP-1s? Improved male fertility&nbsp;&nbsp;CNNCan GLP-1s boost testosterone levels?&nbsp;&nbsp;Scientific AmericanGLP-1s Tied to Higher Risk for Dizziness, Fainting for Some&nbsp;&nbsp;MedscapeCan GLP-1 Medications Affect Fertility? What Women Should Know&nbsp;&nbsp;Banner Health",
+      "summary": "Popular weight-loss drugs linked to unexpected male fertility benefit&nbsp;&nbsp;Fox NewsAnother possible benefit of GLP-1s? Improved male fertility&nbsp;&nbsp;CNNCan GLP-1s boost testosterone levels?&nbsp;&nbsp;Scientific AmericanGLP-1s Tied to Higher Risk for Dizziness, Fainting for Some&nbsp;&nbsp;MedscapeWeight-loss drugs may also help boost men’s fertility, study finds&nbsp;&nbsp;The Independent",
       "sources": [
         {
           "name": "Fox News",
@@ -609,7 +717,7 @@
       "id": "21f517a3666c",
       "title": "You'd Never Guess This Subtle Sign Of A Stroke - HuffPost",
       "published": "2026-06-20T11:00:18+00:00",
-      "summary": "You'd Never Guess This Subtle Sign Of A Stroke&nbsp;&nbsp;HuffPostWe Tell People to ‘Know the Signs’ of Stroke. Then We Ignore Them.&nbsp;&nbsp;Law.comSSM Health urges residents to learn B.E.F.A.S.T. and call 911 at first stroke signs&nbsp;&nbsp;KRCGThink you're having a stroke? Here's why you should call an ambulance&nbsp;&nbsp;SooToday.comThis Silly Little Symptom Could Be Warning You Of A Stroke. Here's How To Tell.&nbsp;&nbsp;AOL.com",
+      "summary": "You'd Never Guess This Subtle Sign Of A Stroke&nbsp;&nbsp;HuffPostSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "HuffPost",
@@ -621,7 +729,7 @@
       "id": "3d83cba0c399",
       "title": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine - The Guardian",
       "published": "2026-06-20T11:00:00+00:00",
-      "summary": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine&nbsp;&nbsp;The GuardianRFK Jr. Orders American Exposed to Hantavirus to Stay Quarantined Against Medical Advice&nbsp;&nbsp;WSJKennedy Orders Woman to Stay in Hantavirus Quarantine, Despite C.D.C. Recommendation&nbsp;&nbsp;The New York TimesRFK Jr. orders passenger from hantavirus-stricken cruise to remain in quarantine in Nebraska, despite CDC recommendation&nbsp;&nbsp;CNNRFK Jr. overrules experts to ke",
+      "summary": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine&nbsp;&nbsp;The GuardianRFK Jr. Orders American Exposed to Hantavirus to Stay Quarantined Against Medical Advice&nbsp;&nbsp;WSJKennedy Orders Woman to Stay in Hantavirus Quarantine, Despite C.D.C. Recommendation&nbsp;&nbsp;The New York TimesTrump Administration Official Ignores His Own Experts and Forces a Healthy Woman into Quarantine&nbsp;&nbsp;blue NewsRFK Jr. overrules experts to keep hantavirus crui",
       "sources": [
         {
           "name": "The Guardian",
@@ -630,86 +738,14 @@
       ]
     },
     {
-      "id": "9de952addb91",
-      "title": "Woman Went for Routine Surgery, Ended up Losing Her Arm–Worse Was to Come - Newsweek",
+      "id": "e1ffd93b8f62",
+      "title": "Woman went for routine surgery, ended up losing her arm–Worse was to come - Yahoo",
       "published": "2026-06-20T11:00:00+00:00",
-      "summary": "Woman Went for Routine Surgery, Ended up Losing Her Arm–Worse Was to Come&nbsp;&nbsp;Newsweek",
+      "summary": "Woman went for routine surgery, ended up losing her arm–Worse was to come&nbsp;&nbsp;Yahoo",
       "sources": [
         {
-          "name": "Newsweek",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeFA1WUxsN3pRTDVfcVEzb1h6OXhWMnFhUDd4ZUhNOXVlM2hPUC1GMDNibFE0QTl2UWg1aGtFVTZPRlpsSWQ1NHM0LUYzS0U4RXh4TDlJLVExWDRDSlNkV1FzSTBwRk50ZjJQZnJ3WHcxRkJPN3FNTGIydFBJU00ya2t5TC0zcWRQM080?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f5459a95e933",
-      "title": "Western Pa. families declining vitamin K shots, other preventive care for newborns - TribLIVE.com",
-      "published": "2026-06-20T10:02:14+00:00",
-      "summary": "Western Pa. families declining vitamin K shots, other preventive care for newborns&nbsp;&nbsp;TribLIVE.comAre Parents More Likely to Refuse Vitamin K, HBV for Girls?&nbsp;&nbsp;MedscapeAlabama pediatrician says parents are refusing shot that prevents serious bleeding disorder&nbsp;&nbsp;WBRCWhy more male than female newborns may get the crucial vitamin K shot&nbsp;&nbsp;Science NewsRefusing the Vitamin K Shot After Birth Could Harm Your Baby&nbsp;&nbsp;American Council on Science and Health",
-      "sources": [
-        {
-          "name": "TribLIVE.com",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbjRVRUFDTV9lbjVON2xLYlJHbHUzdm5yOHV3RzEwMGpXbjIxVjNnbVpVWVMxVVVxZDRIMUFmTkNvRDdZVGVId3FLNENCeW9oUGtZd0FEQ0tIeE13aFVibkRxZnI1aE1PV1plVXF1cVpXamg5VkpaNzhzcV9lT21qaWJfZHhyTDJtZW1hN042UndtaFh2ZWoxdUY0ZnZ2RWVJZXRlaDlmR2duZk1RSDJER0F3NEg0bDE3Rmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c7cc23136f78",
-      "title": "Here’s How Tyrannosaurus Rex Ended up with Big Head, Small Arms - The Japan News",
-      "published": "2026-06-20T09:58:00+00:00",
-      "summary": "Here’s How Tyrannosaurus Rex Ended up with Big Head, Small Arms&nbsp;&nbsp;The Japan NewsThe secret power of T. rex arms finally revealed—and it’s terrifying&nbsp;&nbsp;Futura, le média qui explore le mondeWhy T. rex evolved tiny arms, new study reveals&nbsp;&nbsp;Türkiye TodayScientists Reveal the Shocking Truth Behind the T-rex’s Tiny Arms&nbsp;&nbsp;Futura, le média qui explore le mondeScientists Finally Reveal the Savage Truth Behind T. rex’s Tiny Arms&nbsp;&nbsp;Futura, le média qui explore",
-      "sources": [
-        {
-          "name": "The Japan News",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Xakx4R0N6UEdkVjk0REVUWmxwdjI1ejFxSjJLN0hsVk8zc3ROVHp1NDJBVk9MU092NVJ1Z19Wdlk0d2d3LU1iay1vNXVwMHRDdEN5LWR2bnh3SDJYMFRtRTNocWhrd0J2TXdVR0cwY3VyLWhWR1kwal9R?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0ca4f5dba144",
-      "title": "Vitamin D supplements not working? 3 common mistakes people make, heart surgeon reveals - The Times of India",
-      "published": "2026-06-20T09:51:18+00:00",
-      "summary": "Vitamin D supplements not working? 3 common mistakes people make, heart surgeon reveals&nbsp;&nbsp;The Times of IndiaThe Best Time to Take Vitamin D for Maximum Absorption, According to Health Experts&nbsp;&nbsp;EatingWellHow vitamin D supplements left a 26-year-old facing kidney failure&nbsp;&nbsp;The Indian ExpressPHCC Family Medicine Specialist highlights causes and risks of Vitamin D deficiency&nbsp;&nbsp;The Peninsula QatarIMA declares June 21 as ‘Vitamin D Day of India’ in collaboration wi",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVGRUN1R2SVRSakxOT1FLX1ZweUJ4NzVyaUVGeWw2blR6TVJEZ1lJdGlrUVVYSHMzeWh1U2pmNENkWWFOOGJ5U0pHVks4NDJxYTAwV013TmxXMmMwbVhPSmdWOEVVNjJ2cVJXcngtNXcxbm5JRUlnblpxTU45bGlqNGJZNGZHNHJ1dTh1dWVwLVVLLXZ0MlRLT0tLQjhSSlEyTWRnNTFqbDZoNFNZVDMzeHpWMXhKRWlnbFNTSGxGY05uQmVUZzNpRGxIOWd2Y0Z1cTZsRFJwcVpJM2Z5RG5fT2V5V2hZNktpa2ZYeGFZVWtJV2Z40gH8AUFVX3lxTE15RzZDNkxpSE5mc21QenBpRjBsVWRDeW9YNlBRQUx1b3NXQlFlQW9UMFRlSlhLUzRXSkZKcnJUcXZwSmI3YURsaVZicXcyX0NxeGNrOVlyV0M4M1gxZzVrbWVIVGlicXFGWTNOTzhsVGZxMEhRdVBfSE1DTWh6RFhqY2tsZHhMZTVYdjNsVDA4OUhQbEF5ZWRBMXJFNE1Cd0dNT0lCNUVYalFZUldHY0h0cXNfOE9WVzlrbS1mVXZrY1NHY25VM3p4T2FrRFVvZlJRa1JReWVkTjlidG5pWm5nXzEwbU42U1c2cTVHQ0s0Nkxpa0VCM1BYdXBPTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "85878ec6607f",
-      "title": "Largest Denisovan DNA study reveals ancient genes still active in Oceanian populations - Archaeology News Online Magazine",
-      "published": "2026-06-20T09:41:30+00:00",
-      "summary": "Largest Denisovan DNA study reveals ancient genes still active in Oceanian populations&nbsp;&nbsp;Archaeology News Online Magazine",
-      "sources": [
-        {
-          "name": "Archaeology News Online Magazine",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa1dTYnFnTE11anp5SUlINnprV3VsSkpGemV0SXRQY2FrekZUUWxqd2p3Z3pfa3pKR0dkRUNKOUI4bUNWNmdIR054MkIxajVEdV90dnZDQndaRFNncjg5Tko0VGNiQ29OVTg1TlR3YTlvcWt5c2d2V2MwSzJ2UFI5cU93?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aa0a59313f52",
-      "title": "Sugar-Free Diets May Have a Hidden Side Effect, Study in Mice Suggests - ScienceAlert",
-      "published": "2026-06-20T08:01:34+00:00",
-      "summary": "Sugar-Free Diets May Have a Hidden Side Effect, Study in Mice Suggests&nbsp;&nbsp;ScienceAlertClean eating: why cutting sugar out of your diet might not be as healthy as it sounds – new study&nbsp;&nbsp;The ConversationSugar-free, low-fat diet tied to insulin resistance in mouse study&nbsp;&nbsp;Medical News TodayScientists found a surprising problem with sugar-free diets&nbsp;&nbsp;ScienceDailyCutting sucrose from low-fat diet may disrupt gut microbiome, mouse study suggests&nbsp;&nbsp;Nutritio",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVTNLSDdsYWRjV3J5NzNGZGE4NXR0anhHS2x1Qk1ZWUh0ODNJMkVlaTh1MFpNSWw4VzdjU1d1aXFDNjVETEM5cmYtN0V4bEVoQ2tmazZlNDJvQ1Atelp3b01qNnVFak1Oc1VBT3BXLVhaSmltalljZ2tfVmw4WmI4NUN1djBKTEFENnJmVnJzbjh6bzJsMGFESXE2eThONHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "92e97009227b",
-      "title": "The alcohol damage you can reverse in midlife - The Telegraph",
-      "published": "2026-06-20T07:00:00+00:00",
-      "summary": "The alcohol damage you can reverse in midlife&nbsp;&nbsp;The TelegraphA clearer picture of drinking and disease&nbsp;&nbsp;Harvard GazetteAlcohol study sidelined by Trump health authorities gets published anyway&nbsp;&nbsp;Post and CourierA New Study Says No Amount of Alcohol Is Healthy&nbsp;&nbsp;106.3 The GrooveCasual drinker? You still have a 1 in 25 risk of dying, study says&nbsp;&nbsp;magicvalley.com",
-      "sources": [
-        {
-          "name": "The Telegraph",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMjI5WHhsbmNXVkNVb1R2WkNKWUNHQzZ5MzRsR3lmMi1tRl9uMXJCNzg2Y3NTejltSHZSMHctc3d4TWtkTDAya2VjZm81NENXWTBWZ0ZrX2g0ZDhkRk5IUmlBajVVTW9NTm5WcEYwMmZxbEtLeVZkekFvamV4R01uYkZtd1g0RzA4OGFRdUpVZ0dlLWRiMFpNdmdNYlNac1g2dE96VQ?oc=5"
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbnQxZk55Unk1SFdWdGZhR0xJQ0hJVGNTRVBCaHR2dS1QclJaME1fdkxTYXhWQWVuZ2pCRzVfeUZYTkF5N3YzaDF3RkpPVEJvczlMUWs4M09OS1BheDFsdjF6TzM3STBSUjR4Q1UzYTJuRmNhdEJ4bzdVVjYyeExhTTNjSi1wNlo2SmFhdHpwalA1OHpHQ1E?oc=5"
         }
       ]
     }

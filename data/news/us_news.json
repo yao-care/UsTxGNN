@@ -1,19 +1,139 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-06-23T09:46:36.177085+00:00",
-  "total_fetched": 126,
-  "unique_count": 126,
-  "health_related_count": 65,
+  "fetched_at": "2026-06-23T14:55:03.299702+00:00",
+  "total_fetched": 129,
+  "unique_count": 129,
+  "health_related_count": 74,
   "news": [
     {
-      "id": "adac42f44f2b",
-      "title": "What Eating Fermented Foods Every Day Does to Your Body, According to Nutrition Experts - marthastewart.com",
-      "published": "2026-06-23T08:04:52+00:00",
-      "summary": "What Eating Fermented Foods Every Day Does to Your Body, According to Nutrition Experts&nbsp;&nbsp;marthastewart.comWhy fermented foods are so good for your gut, and 5 ways to eat more of them&nbsp;&nbsp;The Washington PostWant A Healthier Gut? Nutritionist Shares 3 Foods That Are Worth Every Penny&nbsp;&nbsp;NDTVForget probiotic supplements: These 7 traditional foods nutritionists swear by for better digestion, immunity and a healthier gut&nbsp;&nbsp;The Times of India8 probiotic superfoods rec",
+      "id": "bc98d3fc63aa",
+      "title": "The 5 mosquito-borne diseases you’re most likely to get in the U.S. - The Washington Post",
+      "published": "2026-06-23T14:32:14+00:00",
+      "summary": "The 5 mosquito-borne diseases you’re most likely to get in the U.S.&nbsp;&nbsp;The Washington Post",
       "sources": [
         {
-          "name": "marthastewart.com",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORXFaY3VzQ2szb3lxb1RQel8xOHFLenJBdW81aGd4MVlvdGN1aW0zNW0zVGdlR00xOVpYcHd6aG5mdmt4am11RlkyTWlhMkI3Wld0Ri1UNnFOcEtXYTdERWZvN0p4SE1ULXpWY29BbjY2Y3lPU05FUGZNZVRuMGZWQzJqeHRRTnF1dHdiSA?oc=5"
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbXVfT2wwR1BBVEY2NTh0Um9JeDRDejRHRC1iTnRRRnAxT25Xb29VYTR6LWEtdmVOWFRBWDAwa3MyVzRrNElmN2V4QTdJS3lPR1BudEIxVXVXT1Y2Y05YVzhubzBlRnBvRm5ycTlmZ3lzb041eU8tYTYteWY1LVU0eEd2bV9acnRNd3pXdnVCbkRIN0RG?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "29d4709e015f",
+      "title": "I’m an oncologist — 5 cancer symptoms people dismiss as normal aging or stress - New York Post",
+      "published": "2026-06-23T13:43:00+00:00",
+      "summary": "I’m an oncologist — 5 cancer symptoms people dismiss as normal aging or stress&nbsp;&nbsp;New York Post",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOUcyd2d4RE1zQ2JmMDNwZHRSeGlSVF83VWZmN0VJT0RsUmVQX043eWpfT0lBQ1RHa3pnN2tPb0s4ZWtBVE5ZWEt6ak9jQ2tqVHV5TEpTTDRTZmVWYVcxME51akFJYzNERnhnN3JZLXJpY180VVlCN0t0UU1GUHFYMi0zRkR2VlY5TGg2S0VtZFNPRXhJOGVGQVNsSUY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "20340c64e0a4",
+      "title": "Column | Want a younger brain? Exercise in your 40s may help. - The Washington Post",
+      "published": "2026-06-23T13:31:54+00:00",
+      "summary": "Column | Want a younger brain? Exercise in your 40s may help.&nbsp;&nbsp;The Washington PostSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNFNTUTk4Q3dXT3liTzFOVjQ4eXBKZUpIRHQtc1VYd3NUZVlrbGJyRFl1UWtzVTY0ZXI2VVZRVUNSU2FQZjVfMXZlYW01eFFmdkFFT21ZaF85NXZDeEU0WFctTFhubTZCY0owRTctR0RuV0tONTQtbHNSRXRUMENVVXg5WVhYT1NJVzd3ZjFmQ0JXTVpyUVdsemFFRVB3VzhzdGhxVHRn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f62b79da728c",
+      "title": "No. 1 Mistake People Make When Buying Walking Shoes That Harms Foot Health - TODAY.com",
+      "published": "2026-06-23T12:00:00+00:00",
+      "summary": "No. 1 Mistake People Make When Buying Walking Shoes That Harms Foot Health&nbsp;&nbsp;TODAY.com",
+      "sources": [
+        {
+          "name": "TODAY.com",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPblNZektJbmhfMXNsN3NiWEthNTBiYTg5OWxQSEEwdXJIbGtJaC0zV2preThUYmZrMU80OEg3ZXNHb2FNVTRNbzlpYlBVdmw0NmtBbmpiemdlLXFkenU5cjc3ek9BS0NLckoxUGtGZV9IUWY3N3RyZ282dnJIS1M5SE1KOXRkeWVDZEVaSER2ZkR1Z3Vfa082WkxLV0RwM1BnXzltQ1dPUzF3eUxxQnJxclRzMnVTY3M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6335f2eed0e7",
+      "title": "SpaceX launches its 1st 'Starfall' reentry capsule in early morning Falcon 9 liftoff - Space",
+      "published": "2026-06-23T11:11:22+00:00",
+      "summary": "SpaceX launches its 1st 'Starfall' reentry capsule in early morning Falcon 9 liftoff&nbsp;&nbsp;SpaceSpaceX launches reentry capsule demo mission called ‘Starfall’&nbsp;&nbsp;Spaceflight NowWith Starfall, SpaceX eyes an edge in global cargo delivery from orbit&nbsp;&nbsp;Ars TechnicaSpaceX Launches Starfall Mission for In-Space Manufacturing&nbsp;&nbsp;BloombergSpaceX launch recap: Tuesday morning liftoff of Starfall capsule from Florida&nbsp;&nbsp;Florida Today",
+      "sources": [
+        {
+          "name": "Space",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUjZYcWU4SEZGTFV3OE05ZWEtVTFPLXA2MThrM01BdldGbGFLNG9zZXl1cGxXY1FpdkhleUFlcHpfVFYtQ1JKalpJM2R4ZWdVZWgtczdkYmpvNFR4T2JPdTNVcW1xQzJhWHItWHJBbUx4LTY3R2RnSXU0S05qay1oT0NDYkVqQzcyOTRrZkFId2xYY1RLbGJIYmd1Y1Iya1lXdFZldEVReTBwbXNZZTFDeXpqZzl2THhzdzVoamtaTFRpRThpZEpWR3lWU215T3JBTklXUExMMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9d0dfa55a0ac",
+      "title": "Want to age better? Researchers say 4-minute routine may help prevent dangerous falls - Fox News",
+      "published": "2026-06-23T11:00:50+00:00",
+      "summary": "Want to age better? Researchers say 4-minute routine may help prevent dangerous falls&nbsp;&nbsp;Fox NewsA doctor explains how to boost your longevity in just 4 minutes a day, with exercises you can do at home&nbsp;&nbsp;Business InsiderThis Is How Often To Move Your Body if You Want To Live Longer&nbsp;&nbsp;TODAY.comTake a Post-Meal Walk, Strengthen Your Knees—and 3 More Longevity Tips to Try&nbsp;&nbsp;Verywell Health“Simple activities are usually the most effective”—a doctor of physical ther",
+      "sources": [
+        {
+          "name": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcVpvX05fcE9OT2hxRmpjMEVWRDJrTGVfazlDNHlpbWltSWIxRTlfMnpkNkxGZDFucklvbF9LLThZM0lBamkweDhKTmUzQVVjanRONW1wWUo4SFI4R05SZ0g3ZkZjeE1HZml3d1hiTmc4bTA1VTZ5b3hCNjVCZDJoejNuTkpGZmxRNlBpeFdKMnVfZjY5R01BYnZjSmRXUW5TOGF4OVAwdFQ0bnVzV0NLY2Jn0gG3AUFVX3lxTFBkeXNkcUNtTG9ma0tfWThIUDlzX2g1R1RiVjBqSWltMWZtQWwwdDE1Vy15NEhGdVIwMloxTnI3czE5V1lQbFZTSXowNlpra3gxUmdDenJpcHJlZWltRGM0NkxDUndhRXBuczBFaFlUMWRhZTBaZGFvb1pYaVdLalJfOUFhdmF5X0hGeHRjdjA1ZjdHWVdOVlZPdVJnTlA5M2R0ZE9RbXNDbWZoZC01UGhjTHZ6RHRLUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ed38e39af63c",
+      "title": "Shocking side effect of blood pressure medication sent woman to the ER - New York Post",
+      "published": "2026-06-23T10:29:00+00:00",
+      "summary": "Shocking side effect of blood pressure medication sent woman to the ER&nbsp;&nbsp;New York Post",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT0hHaUxDSTZQZmhZVktaeWlFMTlvdDRkQ0dfbVB1Rkd0WDNHSndObmVsVS1kc1NRdncwWkFlaTV4TzNHaE9hdldXYlRJNGZtLXhYdVlLd0s3V0I0bTJoNmpwdXU0bldfbHNNWVVKQUpmUXVXa3IwbXVBRGpPd1BQeVk4VkJUZnpHRlZFZ1RkZ0lUZ3VFbl9fd2tOSnB1UTVUbFEydHN5SQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ca12998aaa0f",
+      "title": "Millions of Metformin drug users issued serious four day warning - LADbible",
+      "published": "2026-06-23T09:04:39+00:00",
+      "summary": "Millions of Metformin drug users issued serious four day warning&nbsp;&nbsp;LADbibleOn Your Side: Medical experts warn of medication risks as summer heat looms&nbsp;&nbsp;KY3UK heatwave: Five medications that can affect how your body regulates temperature&nbsp;&nbsp;The IndependentHealth warning for anyone taking Benadryl, Clarityn and Piriteze for hay fever&nbsp;&nbsp;Cambridge NewsBrits on Mounjaro issued heatwave warning as jabs can become 'less effective'&nbsp;&nbsp;Metro.co.uk",
+      "sources": [
+        {
+          "name": "LADbible",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYlpVZ2phWVM0UUtqdFhORHBlX0RiMDBsNkJya2lGTkJTZVZWdXpBeDJxbjBQMG90VzllRE95eEl4ay1pTmRZZm9nS2REYk9JTGdldEpXT3o0cThZSkZOQ0JlNGd2RkVSNlR6VE41VUxiNDc5dl9PS3RONE5OOTdOdzVSNG5SdGZwVzlxcFVWZlVEZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9221968876d8",
+      "title": "Tetanus cases are on the rise. A doctor explains what to know and how to protect yourself - CNN",
+      "published": "2026-06-23T09:00:25+00:00",
+      "summary": "Tetanus cases are on the rise. A doctor explains what to know and how to protect yourself&nbsp;&nbsp;CNNTetanus is a rare but dangerous disease. A doctor explains why experts are worried&nbsp;&nbsp;news8000.com",
+      "sources": [
+        {
+          "name": "CNN",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV2RTdmxyWUM2YUdTeGxSZEJlVkxyczRSeDBwb3NBUGRPall2dDluSUFEdmdLQzRqNzRadWJyV00zdy1BX3Q3cGJLZncxYTVEbXE0MGZZOWUwc0VBUTZjMGlULTA3cll3cy04T0lhWDJFWmI0dHA1cG1sN2NEVWhxZExjVVVlbkpUS3JMME9WYmg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a04f66c23886",
+      "title": "Naked mole rats almost never get cancer and routinely live more than thirty years — roughly ten times longer than any other rodent their size — and researchers in October 2025 finally identified one of the key mechanisms: a handful of tiny mutations in a singl - Space Daily",
+      "published": "2026-06-23T08:30:53+00:00",
+      "summary": "Naked mole rats almost never get cancer and routinely live more than thirty years — roughly ten times longer than any other rodent their size — and researchers in October 2025 finally identified one of the key mechanisms: a handful of tiny mutations in a singl&nbsp;&nbsp;Space Daily",
+      "sources": [
+        {
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQUFV5dE53QjFVRzZsOGJjaWNGU1V4RFk5ZjRNQWt1RGxHbzNiMzdkNjRxR1VyX1N4MmJLN0NrRWtQejdXQ2ZiTXdaUEFHZ2hEcTFuM1c5WFZWc2g0WEkyYl9XYkE0UV85MFMtRm9Ld1ZQc0l3UDZWWEVVTWkyMmNlcTNuNG1TRDdFWjRmVDNMQjljVlFVeHFRZ3l1bXdSaVF2LVYwTlZ5SDlUSHhNb25LX0tRVmlpYktidVJMaUdVLXAyT2lRbzgzclpXS2NWXzA4SmNVeHdXeTRvQXdkUFJET3h1ZllHZ2RYd1FJbFRnNjM4UU1aM0w1NlJ0ajE3NmlYSWJnZUFGczcxc082aUpvMFpuNi1IM2Y4YkM2R2Z3Q1dZZFpOWGRTRlk0NlNTZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e4cf31311012",
+      "title": "50 Days To A Total Solar Eclipse — Where And When To Experience It - Forbes",
+      "published": "2026-06-23T08:00:00+00:00",
+      "summary": "50 Days To A Total Solar Eclipse — Where And When To Experience It&nbsp;&nbsp;ForbesThe Next Solar Eclipse Is Delivering a Rare Treat: Totality at Sunset&nbsp;&nbsp;CNET55 Seconds of Total Darkness: Where in Europe to Best Observe the Solar Eclipse of 2026&nbsp;&nbsp;Inbox.euThe August eclipse boosts overnight stays in Lleida to 1.7 million&nbsp;&nbsp;apdnoticies.comPartial solar eclipse to be visible in some parts of the US this summer&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+      "sources": [
+        {
+          "name": "Forbes",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMnZ6Z2p1X0FPbkVUTVNKLUtlNGNHZGpHTTVYU0ZzQk9GOEtGcmtneEpqanF4WEcycmxpOG05akZBbnFYT0Q4UVFLRnFhUXhQdFpodDVSaVVqSWVnTW1DaXc0eC1WNnBVX2R5NS1qUmMyVzJoaGJzM3JSMjZiQ2psOWE3ei16RkMxZGoyaTlWdmpqbFVYZ3l3WVN5T3NjYUZDRHJYZzdOWENNeFFYOVhjYXZoanZYYlZaOE1xRm1PcWVBdk0?oc=5"
         }
       ]
     },
@@ -30,14 +150,38 @@
       ]
     },
     {
-      "id": "06525840c32a",
-      "title": "With Starfall, SpaceX eyes an edge in global cargo delivery from orbit - Ars Technica",
-      "published": "2026-06-23T05:25:35+00:00",
-      "summary": "With Starfall, SpaceX eyes an edge in global cargo delivery from orbit&nbsp;&nbsp;Ars TechnicaSpaceX launching its 1st 'Starfall' reentry capsule early on June 23: Watch it live&nbsp;&nbsp;SpaceSpaceX Readies First Starfall Mission for In-Space Manufacturing&nbsp;&nbsp;BloombergLive coverage: SpaceX to launch reentry capsule demo mission called ‘Starfall’&nbsp;&nbsp;Spaceflight NowSpaceX to launch mysterious Starfall capsule Tuesday morning from Florida. What to know before liftoff.&nbsp;&nbsp;F",
+      "id": "7680876c7713",
+      "title": "This emerging treatment is helping people avoid knee replacement surgery - ScienceDaily",
+      "published": "2026-06-23T03:07:02+00:00",
+      "summary": "This emerging treatment is helping people avoid knee replacement surgery&nbsp;&nbsp;ScienceDailyNon-surgical procedure may help relieve knee pain&nbsp;&nbsp;WFMZ.comNew procedure delivers lasting knee arthritis pain relief without surgery&nbsp;&nbsp;ScienceDailyNonsurgical procedure provides lasting relief for knee pain, finds study&nbsp;&nbsp;Medical XpressInterventional treatment offers 'meaningful' alternative to surgery for osteoarthritis&nbsp;&nbsp;Radiology Business",
       "sources": [
         {
-          "name": "Ars Technica",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnpDbl9fa2xGb2RGVl9OMG03WkM5alVkcVhZdVk4VjhRcFprWl9EbzVLTDFQOXZRaVJLcC1hOERPMkktbzNOWkQ0aFlGRDVnWU50MGY0ZFNEVURUN2ZWc1RQa1dFYTR4a1dUSWFyNE9ZdEZudkFZUmdRWnNWVEUtZC0wcF9jQVdWLWZZam1QT0FocWJBeGRwbm1xeTdyZ0E1b0dyQWJNeU93T004?oc=5"
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yZUR4cVZOVlZIWVZ4TVJQOTlMcUtRVDQyVjhBZmZ0SGVwUU5YZDNDZG9jVmp2ZF8zaHpFb19RckZuUUk1TUliaDd1elQwQjgwa0V4NnBqSGsyTmZaNU1YWk50Y1p3X0Z0S05lM01ORQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c12fcc725fa5",
+      "title": "Strength Training Is Linked to Longevity, 30-Year Study Finds - ScienceAlert",
+      "published": "2026-06-23T02:01:47+00:00",
+      "summary": "Strength Training Is Linked to Longevity, 30-Year Study Finds&nbsp;&nbsp;ScienceAlertStrength Training Linked to Lower CVD Risk in Women&nbsp;&nbsp;MedscapeColumn | This exercise ‘sweet spot’ is linked to greater longevity&nbsp;&nbsp;The Washington PostThis Is How Long You Should Strength Train Every Week to Live Longer&nbsp;&nbsp;GQStudy on Weekly Resistance Training Finds Sweet Spot for Heart Protection&nbsp;&nbsp;MedPage Today",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVEo2NHQxMlF3dVJsZ3Bsc1ZSWjVpOGNhN0JHd3F6Y2pwMUl3T0lQMmd1OXY2dC1nMzNSNHhSVUw5TExiODNvYVhIT050M3hicTY1NHZ4RGJESi1oRDhILXEwWHpNTmowbFVEbXNmbEJSQnhSTXhrZ01SRDc5ckRCVWZSYlB2YjMwZWtpaF9OMEpGaVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "daad7a4be062",
+      "title": "COVID Vaccine Linked to New Side Effect, Especially in Older Adults - Yahoo Life UK",
+      "published": "2026-06-23T01:30:00+00:00",
+      "summary": "COVID Vaccine Linked to New Side Effect, Especially in Older Adults&nbsp;&nbsp;Yahoo Life UKUpdated COVID vaccines cut risk of hospital care, heart complications, new data reveal&nbsp;&nbsp;CIDRAPCOVID-19 vaccine linked with lower risk of heart attack, stroke: Study&nbsp;&nbsp;The HillCovid vaccination cut risk of adverse heart events, large study finds&nbsp;&nbsp;statnews.comCOVID Shots Tied to Lower Risks of Heart Attack, Cardiac Death&nbsp;&nbsp;MedPage Today",
+      "sources": [
+        {
+          "name": "Yahoo Life UK",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jMy1qZl9jNDdQeFBKc0liQ19Ib0JFRGVzT1hxZlNqT0VYNkVBYy0tVDRMZi1OZ0s3cHJxN0gzVmN4aV9Hc1pWNkxnc1FtOTMtLWNOQTRWaE5jbFBDLW9HNV9JcmdWTktFekNiRFNmeFNBSHQzd0tGY0pzMVVZTjQ?oc=5"
         }
       ]
     },
@@ -54,18 +198,6 @@
       ]
     },
     {
-      "id": "1a9ed5c4bd13",
-      "title": "Teplizumab drug to delay type 1 diabetes to be rolled out on the NHS - BBC",
-      "published": "2026-06-22T23:44:41+00:00",
-      "summary": "Teplizumab drug to delay type 1 diabetes to be rolled out on the NHS&nbsp;&nbsp;BBCDrug that delays onset of type 1 diabetes approved in England and Wales&nbsp;&nbsp;The GuardianExperts hail ‘new age of diabetes treatment’ as drug approved on NHS&nbsp;&nbsp;The IndependentType 1 diabetes drug will delay onset by three years&nbsp;&nbsp;The TimesEngland Leads Europe In Reimbursing Sanofi’s Type 1 Diabetes Disease-Modifying Therapy Tzield&nbsp;&nbsp;Citeline News & Insights",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vVjRrall5Q2padGNxR0tGUnB1N2lBeko5bVNuSjNGUW51QlFtMHJzYkpMWmpncGFyd3Vwa2drS2h1SDJTb0V0WFRNWEp6UUZBNDBreU5lQy14dw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b9e136f00a7b",
       "title": "This Drink Could Help Lower Your Cholesterol After Menopause, New Study Says - EatingWell",
       "published": "2026-06-22T22:34:48+00:00",
@@ -78,14 +210,50 @@
       ]
     },
     {
-      "id": "ca12998aaa0f",
-      "title": "Millions of Metformin drug users issued serious four day warning - LADbible",
-      "published": "2026-06-22T22:20:42+00:00",
-      "summary": "Millions of Metformin drug users issued serious four day warning&nbsp;&nbsp;LADbibleOn Your Side: Medical experts warn of medication risks as summer heat looms&nbsp;&nbsp;KY3Can taking antidepressants during a heatwave put you at greater risk of heat stroke and dehydration?&nbsp;&nbsp;MSNA pharmacist warns that 5 common medications could put you at serious risk in the extreme heat hitting England and Wales. ⚠️☀️&nbsp;&nbsp;facebook.comPharmacist issues warning for bisoprolol, atenolol, and propr",
+      "id": "2af036ec1f51",
+      "title": "‘Surviving and Thriving at Altitude’: Summit doctor publishes book giving tips on high elevation health in Colorado’s mountains - SummitDaily.com",
+      "published": "2026-06-22T22:32:57+00:00",
+      "summary": "‘Surviving and Thriving at Altitude’: Summit doctor publishes book giving tips on high elevation health in Colorado’s mountains&nbsp;&nbsp;SummitDaily.com",
       "sources": [
         {
-          "name": "LADbible",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYlpVZ2phWVM0UUtqdFhORHBlX0RiMDBsNkJya2lGTkJTZVZWdXpBeDJxbjBQMG90VzllRE95eEl4ay1pTmRZZm9nS2REYk9JTGdldEpXT3o0cThZSkZOQ0JlNGd2RkVSNlR6VE41VUxiNDc5dl9PS3RONE5OOTdOdzVSNG5SdGZwVzlxcFVWZlVEZw?oc=5"
+          "name": "SummitDaily.com",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaExWTE04UTV6R3ppclFfZTIwMk1aWWtMaTZLU3hSNmxjeFptazRGM2IybWRXQW5rODZGS1N6eHFIYmZTSl9WX1F3UGFpLUJzekM2OF9iTXJQN3JWZG9jVnY1ZFloTGZyQV9tVDUyQzhibEpfMjFFT0FYLTJLY3h2WHdINXlfN3NfMGhWdUotdE4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f9709dec0136",
+      "title": "Tick that spreads meat allergy, flu-like symptoms has reached 3 Connecticut counties - WTNH.com",
+      "published": "2026-06-22T22:29:23+00:00",
+      "summary": "Tick that spreads meat allergy, flu-like symptoms has reached 3 Connecticut counties&nbsp;&nbsp;WTNH.comLane County is seeing an uptick in ticks …. What might it mean?&nbsp;&nbsp;NPR for OregoniansTick season is getting worse. Can managing deer help?&nbsp;&nbsp;NPRTicks are spreading Lyme disease across America, but we can beat them. Here’s how.&nbsp;&nbsp;vox.comAs ER visits for tick bites climb, here are the 4 most common ticks in Illinois&nbsp;&nbsp;NBC 5 Chicago",
+      "sources": [
+        {
+          "name": "WTNH.com",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeE9tR1NER3p1c1dVMnpFaWtKWEdxcWNDbTlLUnBfSWlIb0lnZ0syczJXZmtUQ3lFUzdpazFUY3NMZlNORmhlRWFxLXh0ZWZzVllHcWZEVUxSRl9UU0dKcXl1Ym5pTDF2TDF6T0pRU2taMkI5UFJHTjhMMkhnWXBZYUxtazBZbEsyQVByWG85djY5X1hBSUtNN1lrR0x4TGpVaG16Tm9BOE9GZExnbVdyY2hTNlY4SDhCeHZKRUNNRWtsak45ekFKSWtKOEvSAdIBQVVfeXFMTmVMcGp6ekNmWHNJTDBULW9HcHI0N0haWFQxdlk1WnZqYkQ4a3RjWnkzM1htWVMwTy1PQlVackU3dUlUWm9icHJyRlM1ZXlsYUtIdUhaY19YWEprZU9zQVpWd2lGSmVhQkNFM1VJTmF1eXdkQTRIWlkwRkpnNXMyb3pnR1RFbVZuSnBEUlFaNDk4ckloNEhYVWV3dHpxUUlyYXpwMEZLQmxzT05Ma1dGYmFSdDhFZ1ZDUlVkaU1FRDdUay1BdWp0TGtfd3N6enRkNk1R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "80dfb346348e",
+      "title": "Utah measles outbreak among largest, ‘definitely the longest,” health official says - Deseret News",
+      "published": "2026-06-22T21:36:21+00:00",
+      "summary": "Utah measles outbreak among largest, ‘definitely the longest,” health official says&nbsp;&nbsp;Deseret NewsSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "Deseret News",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONUIzSElEWWNxOTlsWWRDdi1fNzBEZTd0Z19aU3JXQXUtSFIxT1BFODdQQVhyOV9xZFIyeUx3Z0dUZVBqOTJ3WTdMYTM5ZDZJRTE2YXJHdkx4M1EtX0VFQWhacTJ2dlUxazg4QnRBV1BnZEQ4cTcxYW1JUm84cDFwYWdKWllzdWtzLS14aFNMc2VfRXhoYldXbjBySHFwYWZhVzhCT1pB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "65a7c513ef06",
+      "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska - AP News",
+      "published": "2026-06-22T21:21:51+00:00",
+      "summary": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska&nbsp;&nbsp;AP NewsHantavirus quarantine ends for Americans held for six weeks in Nebraska&nbsp;&nbsp;The GuardianHantavirus Quarantine Ends for 18 Americans Exposed on a Cruise Ship&nbsp;&nbsp;The New York TimesAll US passengers from hantavirus-hit ship return to home states&nbsp;&nbsp;ReutersHantavirus quarantine monitoring ends for M/V Hondius passengers at UNMC&nbsp;&nbsp;WOWT",
+      "sources": [
+        {
+          "name": "AP News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOWFTZ3l2OUljZ0ltZUMzWERTRExNb0FyaThWYWVtNW5oYkRUaEVRdS1vYmF3LWRyOE9HNGJHZUtDQjdYX21OdTdjV01ld1ZLTzJ0WlR1UE92Ty1XVXdHU3Y1Vlp0UFlsd3UtM2J2MXM0TmdXZHFmSURUNEFlbTBBWGRwLU0xdm9URllob3FjckhfVkdQeElzZw?oc=5"
         }
       ]
     },
@@ -93,7 +261,7 @@
       "id": "45c1645d6812",
       "title": "As Ebola cases hit 1,000, almost 3 million children and adolescents face rising risks in eastern DR Congo - Unicef",
       "published": "2026-06-22T21:04:19+00:00",
-      "summary": "As Ebola cases hit 1,000, almost 3 million children and adolescents face rising risks in eastern DR Congo&nbsp;&nbsp;UnicefCongo says confirmed Ebola cases rise to 1,048, including 267 deaths&nbsp;&nbsp;ReutersHow Bad Could the Ebola Outbreak Get? Latest on Testing, Tracing and Vaccines&nbsp;&nbsp;The New York TimesEbola cases in DRC surpass 1,000 as UNICEF warns millions of children at risk&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosEbola Cases Top 1,000 in Congo as Virus Infect",
+      "summary": "As Ebola cases hit 1,000, almost 3 million children and adolescents face rising risks in eastern DR Congo&nbsp;&nbsp;UnicefHow Bad Could the Ebola Outbreak Get? Latest on Testing, Tracing and Vaccines&nbsp;&nbsp;The New York TimesEbola outbreak in DR Congo tops 1,000 cases, at least 254 dead&nbsp;&nbsp;CIDRAPEbola cases in DRC surpass 1,000 as UNICEF warns millions of children at risk&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosCongo's Ebola outbreak has most cases in first month ",
       "sources": [
         {
           "name": "Unicef",
@@ -102,22 +270,10 @@
       ]
     },
     {
-      "id": "e7dc34bfa62a",
-      "title": "Doctors Thought It Was Asthma. A.I. Flagged a Serious Heart Problem. - The New York Times",
-      "published": "2026-06-22T21:00:06+00:00",
-      "summary": "Doctors Thought It Was Asthma. A.I. Flagged a Serious Heart Problem.&nbsp;&nbsp;The New York TimesA case of artificial intelligence-enhanced diagnostics leading to heart transplantation&nbsp;&nbsp;NatureA sweeping new AI to detect heart conditions is coming to OpenEvidence&nbsp;&nbsp;statnews.comUsing Artificial Intelligence to Detect Heart Disease Faster&nbsp;&nbsp;dicardiology.comArtificial intelligence model predicts risk of future stroke from 10-second ECG test&nbsp;&nbsp;Labmate-Online",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYUtTQS1taTZnZ3Vma2JIanZaOV80RTREV0d5NzdkbU9LdmZHYWdiM1AyZVJtOUJ4U2hMdG0xVW9GeElRMl9TWmItSmNVNzZibDlRQWJrdHVoSUhybTJ1QU5LbExIU25HejEyM0kzVEZaY3BiSkE5NHlla3Nmc1FpMUsxU1hRT053bHVN?oc=5"
-        }
-      ]
-    },
-    {
       "id": "78bc61264d1f",
       "title": "One underlying cause of inflammatory bowel disease pinpointed in new study - Live Science",
       "published": "2026-06-22T21:00:00+00:00",
-      "summary": "One underlying cause of inflammatory bowel disease pinpointed in new study&nbsp;&nbsp;Live ScienceScientists Uncover Cause of Inflammatory Bowel Disease Solving Decades-Old Mystery&nbsp;&nbsp;SciTechDailyGenetic marker may flag severe IBD earlier in some patients&nbsp;&nbsp;Medical XpressScientists Solve a 30-Year Mystery Behind Inflammatory Bowel Disease&nbsp;&nbsp;ScienceAlertCell-type-resolved genetic variation shapes inflammatory bowel disease risk&nbsp;&nbsp;Nature",
+      "summary": "One underlying cause of inflammatory bowel disease pinpointed in new study&nbsp;&nbsp;Live ScienceScientists Uncover Cause of Inflammatory Bowel Disease Solving Decades-Old Mystery&nbsp;&nbsp;SciTechDailyStudy of millions of cells reveals new way to understand genetic risk of disease&nbsp;&nbsp;Cambridge NetworkGenetic marker may flag severe IBD earlier in some patients&nbsp;&nbsp;Medical XpressScientists Solve a 30-Year Mystery Behind Inflammatory Bowel Disease&nbsp;&nbsp;ScienceAlert",
       "sources": [
         {
           "name": "Live Science",
@@ -153,7 +309,7 @@
       "id": "7d7b7bb1ce14",
       "title": "Dark energy is still accelerating the expansion of the universe, and astronomers are relieved. 'Thankfully, we have averted this crisis' - Space",
       "published": "2026-06-22T18:02:36+00:00",
-      "summary": "Dark energy is still accelerating the expansion of the universe, and astronomers are relieved. 'Thankfully, we have averted this crisis'&nbsp;&nbsp;SpaceCorrected Pantheon+ analysis of supernovae challenges accelerating universe claim&nbsp;&nbsp;Phys.orgQuantum ‘foam’ could hold key to cosmic expansion, says BITS Pilani study&nbsp;&nbsp;The Times of IndiaUniverse still expanding at accelerating rate: Study | Daily Sabah&nbsp;&nbsp;Daily SabahTata Institute Finds Universe Decelerating Via Superno",
+      "summary": "Dark energy is still accelerating the expansion of the universe, and astronomers are relieved. 'Thankfully, we have averted this crisis'&nbsp;&nbsp;SpaceCorrected Pantheon+ analysis of supernovae challenges accelerating universe claim&nbsp;&nbsp;Phys.orgQuantum ‘foam’ could hold key to cosmic expansion, says BITS Pilani study&nbsp;&nbsp;The Times of IndiaUniverse still expanding at accelerating rate: Study | Daily Sabah&nbsp;&nbsp;Daily SabahCosmic crisis averted as supernovae put dark energy ba",
       "sources": [
         {
           "name": "Space",
@@ -198,22 +354,10 @@
       ]
     },
     {
-      "id": "fa1cd5994411",
-      "title": "How much preventive health screening should I be getting? - The Guardian",
-      "published": "2026-06-22T17:07:00+00:00",
-      "summary": "How much preventive health screening should I be getting?&nbsp;&nbsp;The GuardianAn ounce of prevention is worth a pound of cure&nbsp;&nbsp;The Robesonian, Lumberton, N.C.5 health screenings every adult should prioritise for a healthier future&nbsp;&nbsp;India Today",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sR1FTRm80a2FLa3ZsN21yRTRRS1hTVGI4MnptMmJNOGlvY0xSMk9LY3RvMFZNTzcwUHc4Vmp4MFNzd2I1S3FkZGtYV3FoS00wWFRZb09USDVWMUVud2F2VUMybjVEc2hPZ1BHTTFxbnlNY0dMZlljYjZjVDhBSHM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f774f25e433d",
       "title": "Seattle scientists seek answers as colorectal cancer trends younger - The Seattle Times",
       "published": "2026-06-22T17:00:00+00:00",
-      "summary": "Seattle scientists seek answers as colorectal cancer trends younger&nbsp;&nbsp;The Seattle TimesBirth Factors Linked to Greater Early-Onset CRC Risk&nbsp;&nbsp;MedscapeEarly-Onset Cancers Are on the Rise. Knowing Your Family History Is Crucial.&nbsp;&nbsp;KFF Health NewsA Business Insider story links constipation to early colon cancer in a young person, and the warning is the symptom people normalize until it’s too late&nbsp;&nbsp;OkDiarioStudy identifies risk factors for early-onset colorectal ",
+      "summary": "Seattle scientists seek answers as colorectal cancer trends younger&nbsp;&nbsp;The Seattle TimesAnalysis reveals a rise in colorectal cancer among young adults in Germany, but still below US levels&nbsp;&nbsp;Medical XpressBirth Factors Linked to Greater Early-Onset CRC Risk&nbsp;&nbsp;MedscapeEarly-Onset Cancers Are on the Rise. Knowing Your Family History Is Crucial.&nbsp;&nbsp;KFF Health NewsStudy identifies risk factors for early-onset colorectal cancer&nbsp;&nbsp;News-Medical",
       "sources": [
         {
           "name": "The Seattle Times",
@@ -246,10 +390,34 @@
       ]
     },
     {
+      "id": "1f4d6367ce46",
+      "title": "Faster aging in younger generations linked to rise in early-onset cancer - WashU Medicine",
+      "published": "2026-06-22T16:17:06+00:00",
+      "summary": "Faster aging in younger generations linked to rise in early-onset cancer&nbsp;&nbsp;WashU MedicineBiological aging and generational shifts in early-onset cancer risk&nbsp;&nbsp;NatureUnder-50s age ‘faster than previous generations’ amid cancer surge&nbsp;&nbsp;The TimesUnder-50s face growing cancer risk because they 'age faster than their parents'&nbsp;&nbsp;The SunWhy more under-50s are being diagnosed with cancer than earlier generations&nbsp;&nbsp;The Independent",
+      "sources": [
+        {
+          "name": "WashU Medicine",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb09tcVUzdmlBM1B3S1lxLUx6VXQ4R19IVkRUSlNIbk9sMUIwckUyZmhYSDUtXzYwX21pbWY4cUFJS0VVRXFCclF2N2ZLb2Eta2hidjlrY0pfdVhad1pRbTRTdFZ4V3hRdUVUaVNKb2d3X1BWQ19xN3pza2d2eFp6RE1Eem04ZER4VEhManA5cjkyQ0xuQ0xoTTF1SHB4VFNNWDlvT0tId04?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a8669c504743",
+      "title": "Can Time Flow in Reverse? A Quantum Breakthrough Challenges Our Assumptions - SciTechDaily",
+      "published": "2026-06-22T16:12:06+00:00",
+      "summary": "Can Time Flow in Reverse? A Quantum Breakthrough Challenges Our Assumptions&nbsp;&nbsp;SciTechDaily",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdUdwWWpkb3Q0ZEx3NExtMjVKdS1acURwVmlka250ZFpDSEROS3lFMk15Qk11UmtZczFJcktyTnhlRGdOTzB4WGpTWVNfT3JCRnRPLV84UWtWMTNNbUF1NW53NXpZR3VfeWE0LVp6QmFkdFN4M21CbE55YWZTcTBuYmVjYUlGN25aR1ppWXhUZVNkbmdhbUd5eWRQLXJFZ3JmZ3c?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b57a45cf768f",
       "title": "Titan and Pluto exhibit the same mysterious spectral feature—and researchers can't figure out its origin - Phys.org",
       "published": "2026-06-22T16:00:04+00:00",
-      "summary": "Titan and Pluto exhibit the same mysterious spectral feature—and researchers can't figure out its origin&nbsp;&nbsp;Phys.org",
+      "summary": "Titan and Pluto exhibit the same mysterious spectral feature—and researchers can't figure out its origin&nbsp;&nbsp;Phys.orgWe've found a mysterious substance on Titan and Pluto&nbsp;&nbsp;New ScientistJames Webb Spots the Same Mystery Chemical Fingerprint on Titan and Pluto&nbsp;&nbsp;ZME ScienceMysterious substance found on Titan and Pluto could unlock secrets of alien chemistry&nbsp;&nbsp;MSN",
       "sources": [
         {
           "name": "Phys.org",
@@ -266,18 +434,6 @@
         {
           "name": "NJ.com",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM0pWRW9VQ0JPcldsMTljMjliZm1HOTlyVHlHZ1A2MmhTMHNLV2k3bG9oOVhMYUZSRHB4ZVNWNWMway1jSGxwbDBMaDlUQ1ZRb0VYUEFoZUQ1anpvd1NoZUhKZWw4clhQNU1vWEJGY01vOHFUMll3OXgyeEpkUng3Q203MWpIaFNlc0JzbXRvV0tORlpPNTBiNmJQdmFyQjlSeEI3LXRWSHB4LWphQTlFNHZyWjQwWXU0NzNicm4xSHlxNTdK?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1b33a532835d",
-      "title": "If you take blood pressure pills, you need to heed this warning - The Times",
-      "published": "2026-06-22T16:00:00+00:00",
-      "summary": "If you take blood pressure pills, you need to heed this warning&nbsp;&nbsp;The TimesRegulator warns doctors over delayed-onset angioedema linked to ACE inhibitors&nbsp;&nbsp;Doctors.net.ukMHRA issues drug safety update for ACE inhibitors&nbsp;&nbsp;Pharmacy MagazineMHRA issues drug safety warning over ACE inhibitor side effect&nbsp;&nbsp;The Pharmaceutical JournalMHRA updates ACE inhibitors’ angioedema risk&nbsp;&nbsp;Pharmacy Business",
-      "sources": [
-        {
-          "name": "The Times",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNejRZTWh1RVd3TXNFMkFFTThockNvcGw1Rk1QdGliYzRJaU90clpac3lOdnBlRTlXMUJ2Znh4MzI3YkJKdEJtUU9nRThsLW9LX3U0LVpCa244ZmlLcHRzcndaaEpJZjNIOVFmaExvTGprN2lEZ2p3RkkwSVlaNXFKWmFwR2treEZvVFgwYVEyNnA2WjNZQVRBTFBKd3RvUkNTR1R5QWdvbDRQWXhIOGVuUGlQVFQyeUVYSnFubi1vcWp3elVmVnJoN2FQcw?oc=5"
         }
       ]
     },
@@ -306,6 +462,30 @@
       ]
     },
     {
+      "id": "2c88030014ca",
+      "title": "Eatery with history of health department violations abruptly closes doors - 614NOW",
+      "published": "2026-06-22T15:20:50+00:00",
+      "summary": "Eatery with history of health department violations abruptly closes doors&nbsp;&nbsp;614NOW",
+      "sources": [
+        {
+          "name": "614NOW",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTHRqQ1ZjVTZub3RhcHlpNGpYeXlpOWpKT0p3WnBoNU9aM3V3Y3UxOGNKbnRTYUJHU3FuZXp2Yl80OHpaVFB4WUlBQWJpdEd0bmpqbUNCSUMwa2ZmZEFERnN4TWFHdmc1MzlTTTI1OE1PQ25KS0FkSUZsTUJadTZ5VVpjelJmX1pORlkwSndSb0ExWmRDelZiVm90aVFIQ2dSNGNNSU16eTNUak55?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f03bf83fe511",
+      "title": "Aerial begins in Fort Bend County after mosquito population grows to become public health emergency - ABC13 Houston",
+      "published": "2026-06-22T14:26:24+00:00",
+      "summary": "Aerial begins in Fort Bend County after mosquito population grows to become public health emergency&nbsp;&nbsp;ABC13 HoustonFort Bend County to conduct aerial mosquito spraying amid public health emergency&nbsp;&nbsp;Click2HoustonFort Bend County declares health emergency over mosquito outbreak&nbsp;&nbsp;Houston ChronicleFort Bend County declares public health emergency over mosquito surge&nbsp;&nbsp;KHOUCounty Judge Daniel Wong Declares Public Health Emergency to Support Mosquito Control Opera",
+      "sources": [
+        {
+          "name": "ABC13 Houston",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVXpRblNXc0xkNWFNOW96dS1DZG5tYXV6aElZbWk5ZnNoVmxPME9iSjJnTUtIeHVsOVpwNVp3eWdYZndDWkhacExLdlRUYlozc1hPbWpYM2JUTW5RUDFTT00ycTlhT2xBWDhtaGttbjk5NDdWZS0zMk9QaFBuRUdoUGdhVEN4WHFRZnY1Snk3ekVaTFdGLWRMQzRHbXZlUXhnenZmeUVTMnhfVmJvc09DaWhsNkdKd1l4WU1qQTR5QVRFNTgyTEl0ZU13?oc=5"
+        }
+      ]
+    },
+    {
       "id": "92432fdb6519",
       "title": "TikTok videos are feeding an ‘illicit subculture’ with risks of cancer and dementia, warns doc - New York Post",
       "published": "2026-06-22T14:19:00+00:00",
@@ -318,38 +498,26 @@
       ]
     },
     {
-      "id": "1a689a38881c",
-      "title": "People who lift weights live longer – new study - The Conversation",
-      "published": "2026-06-22T13:13:57+00:00",
-      "summary": "People who lift weights live longer – new study&nbsp;&nbsp;The ConversationThis Is How Long You Should Strength Train Every Week to Live Longer&nbsp;&nbsp;GQColumn | This exercise ‘sweet spot’ is linked to greater longevity&nbsp;&nbsp;The Washington PostStudy on Weekly Resistance Training Finds Sweet Spot for Heart Protection&nbsp;&nbsp;MedPage TodayStrength Training Linked to Lower CVD Risk in Women&nbsp;&nbsp;American College of Cardiology",
+      "id": "d69a83d5d702",
+      "title": "18 children had illnesses so rare doctors were stumped. AI gave them answers - The Independent",
+      "published": "2026-06-22T14:18:00+00:00",
+      "summary": "18 children had illnesses so rare doctors were stumped. AI gave them answers&nbsp;&nbsp;The IndependentUsing AI to help physicians diagnose rare genetic diseases affecting children&nbsp;&nbsp;OpenAIAI model helps some patients get diagnoses after years of uncertainty: Study&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosAI helped diagnose 18 children whose rare diseases had stumped doctors&nbsp;&nbsp;NBC News[Column] AI becomes a force multiplier in the fight against rare diseases&nb",
       "sources": [
         {
-          "name": "The Conversation",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUHpHMDNCRGYxbjFsTVBPZHJpdUM5aHZvdWtNbk5RcTNYYUtiRER5RHRUYzN0OTNMeGQyUklIZzV0QUhSem55WUVVTlhIZUdBTFZCOGJfWnNvcm9WdDZNOTFlMHdjRExUc1kzSDgtVG5qV24xclhQQWFJYXgxSFczc0FSbGZPaXc?oc=5"
+          "name": "The Independent",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVHUyZG9BRkFhSHlnV0pkM2RkN1dFWERMdUgtcHV4Q29ab1ZxNkV5dlZUeldTNC1SUGFrWFA1M1pQM05DM3JKSGZ0a055WUV1UEhWUUJIVG9vYW5uZ28xeUZaVlNXZzZVdGktUGRtZkJibUFDVnhJY3d2U21objUtVDE1OVhPaDJRaXRaTjZKUkktQ3pFZXJZdDR3?oc=5"
         }
       ]
     },
     {
-      "id": "65999c9ee728",
-      "title": "A Copper-Based Drug Clears Buildup of Alzheimer's Proteins in Mice - ScienceAlert",
-      "published": "2026-06-22T13:01:17+00:00",
-      "summary": "A Copper-Based Drug Clears Buildup of Alzheimer's Proteins in Mice&nbsp;&nbsp;ScienceAlertCopper drug clears toxic Alzheimer’s proteins and restores memory&nbsp;&nbsp;ScienceDailyLab trials prove copper therapy enhances cognitive function and spatial learning&nbsp;&nbsp;News-MedicalResearch authors (IMAGE)&nbsp;&nbsp;EurekAlert!Australian scientists find copper-based compound that restores memory in Alzheimer’s mice&nbsp;&nbsp;Новости GxP",
+      "id": "3b99e3424c59",
+      "title": "Do Collagen Supplements Really Work? Massive New Study Reveals the Truth - SciTechDaily",
+      "published": "2026-06-22T13:05:01+00:00",
+      "summary": "Do Collagen Supplements Really Work? Massive New Study Reveals the Truth&nbsp;&nbsp;SciTechDailyBone Broth vs Collagen Powder for Skin Support — Dermatologists and Dietitians Finally Weigh In&nbsp;&nbsp;YahooThe biggest study ever on collagen was just released - here are the benefits it actually found&nbsp;&nbsp;Woman & Home",
       "sources": [
         {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWGFWd1VtMFNpNzdoVjk5TUhPMmtlM0FEU2NhTEtPaXZiM3NoZHNKUTVtS2gtaHFyN1RYRzB3cy1lTG5mbjZLSFZNOG84eE5pUnEzNHVUb25uY2hfbktyNno3ZXdNRG9sc2R5Rm5IS1FiYjF6X01NdlRadWdOeUxVeDU3bFFQU3VFelJ3TEhLbDNza3IwbkZuWmRR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f9cd180fc15e",
-      "title": "Health clinic in St. Louis loses federal funding. CareSTL was already collapsing. - STLtoday.com",
-      "published": "2026-06-22T13:00:00+00:00",
-      "summary": "Health clinic in St. Louis loses federal funding. CareSTL was already collapsing.&nbsp;&nbsp;STLtoday.comDuring Pride Month, St. Louis patients and advocates focus on HIV care and the work that continues&nbsp;&nbsp;KSDKCareSTL Health says it will re-open soon&nbsp;&nbsp;First Alert 4",
-      "sources": [
-        {
-          "name": "STLtoday.com",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNkl5OXZ1NVJHVlRDS0VjVmdhUTNYSHIxWXpDeHVZUjRZZUVZSy1YeVdHc05HbUZ5M0JYd3FaaDdMMHBEWVVzcHg2LXlRNHc1WU5ULUgzdldSc0JVVE9qV1FEMzFzTGdRNTU0TEUzT1VVbDUteFF2RXpkWUk1SkFPNGRrZ29iazNnUGVkd3BCOHV6cF95elE?oc=5"
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONmNUTFVlcWl4UlAwY0NMMWtMWF9qbTBLMkMtc0VWakYtZG1JRENVd1BnN21WMkZQNkNaUk1DSGlfSVFvdXZBU2VLX2xOSzNkMkpBRFNzdTNxZG5PeEs1ZzdlbWNsM3Nfa0lHQ1JNWWJ4V1VaajZwTTlLLWRYMWJKNnhRek41T04wdFphUkxMNWZlaE5QaEhhOXZvUVd2dw?oc=5"
         }
       ]
     },
@@ -393,7 +561,7 @@
       "id": "096053cf9d6c",
       "title": "What if the secret to a healthier ageing brain has been sitting in your fruit bowl all along? Study finds - The Times of India",
       "published": "2026-06-22T12:24:05+00:00",
-      "summary": "What if the secret to a healthier ageing brain has been sitting in your fruit bowl all along? Study finds&nbsp;&nbsp;The Times of IndiaScientists Say This 1 Vitamin May Protect Your Brain as You Age&nbsp;&nbsp;PreventionVitamin C May Support Healthy Brain Ageing, Study Explains How&nbsp;&nbsp;NDTVLow Vitamin C Levels Linked to Higher Dementia Risk, Study Finds&nbsp;&nbsp;Seoul Economic DailyA common vitamin was linked to healthier brain networks in more than 2,000 older adults&nbsp;&nbsp;ZME Sci",
+      "summary": "What if the secret to a healthier ageing brain has been sitting in your fruit bowl all along? Study finds&nbsp;&nbsp;The Times of IndiaScientists Say This 1 Vitamin May Protect Your Brain as You Age&nbsp;&nbsp;PreventionAdults With More Of This Vitamin Had Healthier Brain Scans, Study Finds&nbsp;&nbsp;MindBodyGreenLow Vitamin C Levels Linked to Higher Dementia Risk, Study Finds&nbsp;&nbsp;Seoul Economic DailyA common vitamin was linked to healthier brain networks in more than 2,000 older adults&",
       "sources": [
         {
           "name": "The Times of India",
@@ -417,23 +585,11 @@
       "id": "4cd8e6c7a9d6",
       "title": "A New Treatment for Gray Hair? Researchers Are Working on an Innovative Approach - TODAY.com",
       "published": "2026-06-22T12:14:28+00:00",
-      "summary": "A New Treatment for Gray Hair? Researchers Are Working on an Innovative Approach&nbsp;&nbsp;TODAY.comSee more headlines & perspectives on Google News",
+      "summary": "A New Treatment for Gray Hair? Researchers Are Working on an Innovative Approach&nbsp;&nbsp;TODAY.comA 2017 Cancer Study Revealed a Surprising Anti-Aging Side Effect. Scientists Are Now Using It to Fight Gray Hair&nbsp;&nbsp;People.comResearchers explore immunotherapy to revive natural hair color&nbsp;&nbsp;WQADGreying hair and cancer protection link&nbsp;&nbsp;Her World SingaporeNew Study Sparks Hope That Gray Hair Might Not Be Permanent&nbsp;&nbsp;For Women First",
       "sources": [
         {
           "name": "TODAY.com",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTnRNbUhOUEcyazBpNlA3QlFXR3ZZYlU2bUFKZkFaYVl4UkZUSDU5b2NsZTBvRGJQaHdhZmVOZ3JPcEdUZFBuQ3RJLVd6UmczcjZEN01GYnNQbklJbXV3NmtuZ3N0WU82cUstLWg4QnhVZjN2Tm1uRnAwR1B2MkZYS1pxLXhOeVJiOGwxeS1OcUE4Y0I5em9zWE50bEU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "484b1ded34c7",
-      "title": "I’m a Dentist, Here’s One Thing That Can Prevent Gum Disease - Newsweek",
-      "published": "2026-06-22T12:04:00+00:00",
-      "summary": "I’m a Dentist, Here’s One Thing That Can Prevent Gum Disease&nbsp;&nbsp;Newsweek",
-      "sources": [
-        {
-          "name": "Newsweek",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaXltYzBpSWVpdG1jRzNjNDJqTVJfdGdJTlk4blJ4elZXVTlPUFpET2RxN3p5a0Rxb1c5cERJN3A4LWs2eHZVcnlnNDh0YlVQRURwQjhvdVdZSTg5NHl6RGFNZWg3ZnBiQjE5S1NUX1NCanhiRERCNG5GNFB3a182TElLZ3ZiZGUxMU1maDJZR3dIS2Y1SGc?oc=5"
         }
       ]
     },
@@ -465,7 +621,7 @@
       "id": "5fd0ac003621",
       "title": "Common Vaccine Linked to 24% Lower Dementia Risk in Major Study - ScienceAlert",
       "published": "2026-06-22T11:01:16+00:00",
-      "summary": "Common Vaccine Linked to 24% Lower Dementia Risk in Major Study&nbsp;&nbsp;ScienceAlertWe’re not as helpless against dementia as we think&nbsp;&nbsp;vox.comShingles vaccine linked to lower dementia risk among older adults in nursing care&nbsp;&nbsp;Medical News TodayScientists Say This Surprising Thing May Reduce Your Risk of Alzheimer’s Disease&nbsp;&nbsp;PreventionAn Open Letter to Acting Commissioner Diamantas: The FDA Needs a Regulatory Pathway for Vaccine-Based Dementia Prevention Trials No",
+      "summary": "Common Vaccine Linked to 24% Lower Dementia Risk in Major Study&nbsp;&nbsp;ScienceAlertShingles vaccine may protect against dementia&nbsp;&nbsp;CIDRAPScientists Say This Surprising Thing May Reduce Your Risk of Alzheimer’s Disease&nbsp;&nbsp;PreventionAn Open Letter to Acting Commissioner Diamantas: The FDA Needs a Regulatory Pathway for Vaccine-Based Dementia Prevention Trials Now&nbsp;&nbsp;The Clinical Trial VanguardClinical briefs for Wednesday, June 17&nbsp;&nbsp;McKnight's Long-Term Care N",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -489,7 +645,7 @@
       "id": "f9375c074119",
       "title": "Doctor Shares ABCDE Method To Tell Moles Apart From Skin Cancer - HuffPost UK",
       "published": "2026-06-22T11:00:13+00:00",
-      "summary": "Doctor Shares ABCDE Method To Tell Moles Apart From Skin Cancer&nbsp;&nbsp;HuffPost UKIt's Not Just Your Moles: The Skin Changes That Could Flag Cancer&nbsp;&nbsp;Yahoo News New ZealandDoctor explains skin cancer symptom that's 'not a mole'&nbsp;&nbsp;Wales OnlineNearly half of adults can't spot early signs of skin cancer&nbsp;&nbsp;Daily Star'I'm a doctor and there's an important skin cancer symptom that's not a mole'&nbsp;&nbsp;The Mirror",
+      "summary": "Doctor Shares ABCDE Method To Tell Moles Apart From Skin Cancer&nbsp;&nbsp;HuffPost UKIt's Not Just Your Moles: The Skin Changes That Could Flag Cancer&nbsp;&nbsp;Yahoo News New ZealandDoctor explains skin cancer symptom that's 'not a mole'&nbsp;&nbsp;Cambridge NewsNearly half of adults can't spot early signs of skin cancer&nbsp;&nbsp;Daily Star'I'm a doctor and there's an important skin cancer symptom that's not a mole'&nbsp;&nbsp;The Mirror",
       "sources": [
         {
           "name": "HuffPost UK",
@@ -510,6 +666,18 @@
       ]
     },
     {
+      "id": "9ff2ac91369e",
+      "title": "At This Camp, Everyone Knows What It Means to Have Breast Cancer - The New York Times",
+      "published": "2026-06-22T09:05:19+00:00",
+      "summary": "At This Camp, Everyone Knows What It Means to Have Breast Cancer&nbsp;&nbsp;The New York Times",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FeHdvUUg4QjhoX0dWQ3FGXzdWaWRCZWsydHJQVFZpRU5ZX3k1ZDVaTmdWdU1YcFMyaUgtR0FmMU5UcmExQTlXdjdJeU5mTENaTWQwemNHX0RPellMM2ZLRUtfS3VhX3pQamtaNldNM05VTE1lYS1YSUg1Z1lsdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "35a18d9a71d7",
       "title": "A blood test that screens for multiple types of cancer? It may be available soon - NPR",
       "published": "2026-06-22T08:51:07+00:00",
@@ -522,14 +690,14 @@
       ]
     },
     {
-      "id": "6e9482a908cf",
-      "title": "How oatmeal, avocado, peppermint oil may help treat diabetes - Medical News Today",
-      "published": "2026-06-22T08:28:09+00:00",
-      "summary": "How oatmeal, avocado, peppermint oil may help treat diabetes&nbsp;&nbsp;Medical News TodayType 2 diabetes: New studies highlight 3 helpful foods, natural remedies&nbsp;&nbsp;AOL.com",
+      "id": "adac42f44f2b",
+      "title": "What Eating Fermented Foods Every Day Does to Your Body, According to Nutrition Experts - marthastewart.com",
+      "published": "2026-06-22T07:00:00+00:00",
+      "summary": "What Eating Fermented Foods Every Day Does to Your Body, According to Nutrition Experts&nbsp;&nbsp;marthastewart.com8 Probiotic Superfoods Recommended by a Nutritionist to Support Gut Health&nbsp;&nbsp;VogueWhy fermented foods are so good for your gut, and 5 ways to eat more of them&nbsp;&nbsp;The Washington PostWant A Healthier Gut? Nutritionist Shares 3 Foods That Are Worth Every Penny&nbsp;&nbsp;NDTVForget probiotic supplements: These 7 traditional foods nutritionists swear by for better dige",
       "sources": [
         {
-          "name": "Medical News Today",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORTdTVUFnd05HQVFHaDRxeWNIREozN0FzZ2R3QnVDLWRUaVRlOFFQTVFIU1ZCYjRpc2poYlZxMnFIbmN1N053NEVxQmNaSnJ5M0tYRWx2cmxXMXYwbEduVzRZdkk1R2pKOFVfazdJWmFwOTB4cVpnOXR6bVR1VDZEeEQ0SGJ0SUZWZnRMWXdKUVlaR0dudkVkcG9fNmIyQ0hiamxUY082TFZFcWx3QVhMTFU5bS1PMWotcm96SlFR?oc=5"
+          "name": "marthastewart.com",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORXFaY3VzQ2szb3lxb1RQel8xOHFLenJBdW81aGd4MVlvdGN1aW0zNW0zVGdlR00xOVpYcHd6aG5mdmt4am11RlkyTWlhMkI3Wld0Ri1UNnFOcEtXYTdERWZvN0p4SE1ULXpWY29BbjY2Y3lPU05FUGZNZVRuMGZWQzJqeHRRTnF1dHdiSA?oc=5"
         }
       ]
     },
@@ -546,10 +714,22 @@
       ]
     },
     {
+      "id": "86f08711ca0b",
+      "title": "Chinese scientists unveil first 3D spatial single-cell atlas of lamprey brain, revealing 500-million-year-old secrets of vertebrate brain evolution - Global Times",
+      "published": "2026-06-22T06:05:00+00:00",
+      "summary": "Chinese scientists unveil first 3D spatial single-cell atlas of lamprey brain, revealing 500-million-year-old secrets of vertebrate brain evolution&nbsp;&nbsp;Global Times",
+      "sources": [
+        {
+          "name": "Global Times",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LaGI4UlRibWFVQklYSWRFY09ORk94YUc0aG05MGw0dGIzUkEzckR1bWlHWmtUdnl2ZTNoSlVmVFNDaW85UEZHYmJlRklPVE5TRktic3c2UElQU1FFMVhtWjNB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a71bc69d5430",
       "title": "For a decade the Pink Planet was too faint for any ground telescope to study — and when James Webb finally caught its spectrum, the best fit to the light was an atmosphere hazed with salt clouds - Space Daily",
       "published": "2026-06-22T06:00:53+00:00",
-      "summary": "For a decade the Pink Planet was too faint for any ground telescope to study — and when James Webb finally caught its spectrum, the best fit to the light was an atmosphere hazed with salt clouds&nbsp;&nbsp;Space Daily\"Pink Planet\" is surrounded by salty clouds, researchers using Webb telescope find&nbsp;&nbsp;CBS NewsJames Webb Space Telescope finds a salty surprise on famous 'Pink Planet'&nbsp;&nbsp;SpaceWebb telescope finds possible salt clouds on a pink alien world&nbsp;&nbsp;MashableScientis",
+      "summary": "For a decade the Pink Planet was too faint for any ground telescope to study — and when James Webb finally caught its spectrum, the best fit to the light was an atmosphere hazed with salt clouds&nbsp;&nbsp;Space Daily\"Pink Planet\" is surrounded by salty clouds, researchers using Webb telescope find&nbsp;&nbsp;CBS NewsWebb telescope finds possible salt clouds on a pink alien world&nbsp;&nbsp;MashableJames Webb Space Telescope finds a salty surprise on famous 'Pink Planet'&nbsp;&nbsp;SpaceMeet the",
       "sources": [
         {
           "name": "Space Daily",
@@ -558,14 +738,38 @@
       ]
     },
     {
-      "id": "834d363b18cb",
-      "title": "Bride Lies About Food At Her Wedding To Prove A Point But Only Gets Coworker’s Child Hospitalized - Bored Panda",
-      "published": "2026-06-22T03:22:25+00:00",
-      "summary": "Bride Lies About Food At Her Wedding To Prove A Point But Only Gets Coworker’s Child Hospitalized&nbsp;&nbsp;Bored Panda",
+      "id": "4f323c5c2f9f",
+      "title": "Africa can end Aids on its own terms. Will the world back us to finish the job? - The Guardian",
+      "published": "2026-06-22T06:00:00+00:00",
+      "summary": "Africa can end Aids on its own terms. Will the world back us to finish the job?&nbsp;&nbsp;The GuardianWorld at ‘perilous moment’ as leaders warn HIV gains are at risk&nbsp;&nbsp;UN NewsRemarks by Ms. Diene Keita, Executive Director, UNFPA at the UN High-Level Meeting on HIV/AIDS&nbsp;&nbsp;United Nations Population Fund‘Progress is Not Success,’ Warns UNAIDS at Start of Poorly Attended UN High-Level Meeting on HIV&nbsp;&nbsp;Health Policy WatchIndia reaffirms commitment to end AIDS by 2030 at U",
       "sources": [
         {
-          "name": "Bored Panda",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82YVI0ZlFBbUhWY3F2QkNRTHpiQ0pwcjZpMzd2dGE4Z3VUVkVsQ2VGX1BTQTNoQUltY05oMWJkXzFKNjNsRUdpYnNaRUptVm5xV19HNDMzMkFTZUstZ0h1ZUJpZEl6ZFJxeC03Q0JYYkw2UllsX05Ja0FsNDA?oc=5"
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMFFPTGdMb0hVcWRWM0tiS0N2T3M2LWozRDU2bzlJX3NKeGtHQzlHZVRkcmx0SWdmbGVQMENneHREWHFFN0hFQnFhVGJBbHFtN2ltREt2LVhJWU9rWl9BOXpZQ0tmZVY3ZTdxbkZkTFpSVU9tTzZ3UWdMeFVWekxZU05Jdk4yOV9tNEF3SVRzMW9NRHA3alFsekJySFNoVmI3TllVUG5icGdNNS1iNmhJVUZiZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8107941ee294",
+      "title": "T. rex took 40 years to reach full size, scientists find - ScienceDaily",
+      "published": "2026-06-22T04:33:35+00:00",
+      "summary": "T. rex took 40 years to reach full size, scientists find&nbsp;&nbsp;ScienceDailyT. rex may have needed up to 40 years to reach its full eight-ton size, and that slow-burn growth could help explain why the king of dinosaurs ruled for so long, as per scientists&nbsp;&nbsp;The Times of IndiaFrom birth to adulthood, T. rex took 40 years growing into an eight-ton giant, and scientists think that l&nbsp;&nbsp;The Economic TimesTyrannosaurus Rex Didn't Reach Full Size Until Age 40, New Study Reveals&nb",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTVFBKcmJ4TWVhRzA0eDdqWWkyV3pNRVdCUjZFRHZNblBrNUVCSUFNSUdqNWM4TldQVEUtNFlyb2poWll4YUhVX0E2NGtneDNfREswdWxnN0VXZDZHSkVSOWc1UFNqVnV6WlUwYkZmNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a23544dbc3bb",
+      "title": "Western Australian poultry farms locked down as second wild bird dies from H5N1 bird flu - The Guardian",
+      "published": "2026-06-22T02:45:00+00:00",
+      "summary": "Western Australian poultry farms locked down as second wild bird dies from H5N1 bird flu&nbsp;&nbsp;The GuardianThousands of baby seals died on two remote sub-Antarctic islands. Scientists now think they know why&nbsp;&nbsp;CNNBrown skuas and giant petrels rarely make landfall. When they were found in WA, scientists feared ‘bad news’ for wildlife&nbsp;&nbsp;The GuardianAustralia confirms first case of H5N1 bird flu as virus reaches every continent&nbsp;&nbsp;BBCDead birds to be tested for H5N1 b",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWU1FMm1maDlIVFVWMFdOMUozSlo5M2s4NmRtUm5rdm1XXzZvb0VfelU4a2luMGlSbjZuMGVRWll1M0RpeHBtX0psSWJUb1dNajBOWjBRQ0dydklXcWhSTDU3Q250aVNqcXlwaG5USDBXZlUzYVl1TDh0RGJ0OGtCbDVrMWg3YkRfaTNIMEJOWDRBdFRtMS13UFRQNllxdzFpSklVMFFySUxXelBaMkE?oc=5"
         }
       ]
     },
@@ -578,18 +782,6 @@
         {
           "name": "NewsNation",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOblVXdVRtYnZXYXdqaFRQLWNaRUpXWEt3cWhhVURyRjMtNURFNFJsUEFOWVN3SF9jZkU0Q0hYR3V6TVN6SVBpQTZ0WUtuYWFOa1NuU09VVmZLd0NyeWFmQUlkY2Q2VU5pWWpMOVUtNE9kNkNyZlhNQVZZckk1ME81Mm53Y3VjcllybVdLdnV5REtDSVHSAZgBQVVfeXFMTXRKc3A4U1YxMXg1eTVqTVhXWVZyM1pnVVhjVXMtVmJUTW4yLXdJR0U1aFlUYUk4bk1mbzVsQWNZaFc1RmxOMURsUlkyMW9DT3lia1pQUGxjRHJnbG45ZUQ4bTVEbVROOXFjX3RDR3RDQlI3eExSa0dTTWQ0cnVhLVUxLUpBejlZVTRDODh1MkticmcyY290NE4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "114db1fd5357",
-      "title": "4 Supplements That Can Damage Your Liver - EatingWell",
-      "published": "2026-06-22T00:00:00+00:00",
-      "summary": "4 Supplements That Can Damage Your Liver&nbsp;&nbsp;EatingWellSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOcy03LW1Yd082WDUtajV5VlVOcXpFNGhqLXdTalNjWkFlVHE1eXE4YVlFZGRIdUVqcEFCQnlEMDhIVmNwOTAxUnotX2pCM2pjYm0yREFVdUtwN2tvZFlzal9qQW5hS2xvOXMybG4wd3ZFNDlINmhvd3JtOWJrVFU?oc=5"
         }
       ]
     },
@@ -621,7 +813,7 @@
       "id": "428e421932d7",
       "title": "Rare tick disease poses a danger in north-central Minnesota - Pioneer Press",
       "published": "2026-06-21T20:09:06+00:00",
-      "summary": "Rare tick disease poses a danger in north-central Minnesota&nbsp;&nbsp;Pioneer PressDeadly tick-borne disease that can cause brain damage spreading across the US&nbsp;&nbsp;FOX WeatherRare tick disease poses a danger in Minnesota lakes area&nbsp;&nbsp;Duluth News TribuneA rare virus, a common tick bite, and a prevention strategy that doesn’t protect us&nbsp;&nbsp;LymeDisease.orgUnderstanding the Powassan, Ebola viruses&nbsp;&nbsp;WCVB",
+      "summary": "Rare tick disease poses a danger in north-central Minnesota&nbsp;&nbsp;Pioneer PressDeadly tick-borne disease that can cause brain damage spreading across the US&nbsp;&nbsp;FOX WeatherTick Bite Leaves Healthy Outdoorsman on Life Support After He Contracts Incurable Powassan Virus&nbsp;&nbsp;People.comNew Hampshire man hospitalized for weeks after contracting tick-borne illness&nbsp;&nbsp;WMURUnderstanding the Powassan, Ebola viruses&nbsp;&nbsp;WCVB",
       "sources": [
         {
           "name": "Pioneer Press",
@@ -633,7 +825,7 @@
       "id": "14f5b3db372d",
       "title": "These Lifestyle Changes Help Lower Your Risk of Chronic Disease For Decades - ScienceAlert",
       "published": "2026-06-21T20:01:41+00:00",
-      "summary": "These Lifestyle Changes Help Lower Your Risk of Chronic Disease For Decades&nbsp;&nbsp;ScienceAlertPrediabetes: 3 lifestyle changes lower chronic disease risk by 21%&nbsp;&nbsp;Medical News TodayTwo simple habits may outperform a popular longevity wonder drug: study&nbsp;&nbsp;New York PostHow Healthy Habits Can Help Prevent Multiple Chronic Diseases&nbsp;&nbsp;University of MiamiReversing prediabetes cuts risk of deadly heart problems by 58%&nbsp;&nbsp;ScienceDaily",
+      "summary": "These Lifestyle Changes Help Lower Your Risk of Chronic Disease For Decades&nbsp;&nbsp;ScienceAlertPrediabetes: 3 lifestyle changes lower chronic disease risk by 21%&nbsp;&nbsp;Medical News TodayTwo simple habits may outperform a popular longevity wonder drug: study&nbsp;&nbsp;New York PostWhat 21 Years Of Data Reveals About Preventing Chronic Disease For Those With Prediabetes&nbsp;&nbsp;MindBodyGreenLifestyle Intervention in Prediabetes Yields Decline in Multimorbidity&nbsp;&nbsp;Infectious Di",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -645,7 +837,7 @@
       "id": "6dccab40cf68",
       "title": "What to know about alpha-gal syndrome, the dangerous meat allergy caused by tick bites - WMUR",
       "published": "2026-06-21T19:04:00+00:00",
-      "summary": "What to know about alpha-gal syndrome, the dangerous meat allergy caused by tick bites&nbsp;&nbsp;WMURWhat to know about alpha-gal syndrome, the life-threatening meat allergy caused by tick bites&nbsp;&nbsp;AP NewsAssessing The Threat Of Lone Star Ticks And Alpha Gal Syndrome On Nantucket&nbsp;&nbsp;Nantucket CurrentTicks in South Dakota linked to meat allergy&nbsp;&nbsp;KELOLAND.comAlpha-gal awareness on the rise&nbsp;&nbsp;KFOR.com",
+      "summary": "What to know about alpha-gal syndrome, the dangerous meat allergy caused by tick bites&nbsp;&nbsp;WMURExperts hoping to find cure to alpha-gal syndrome as cases rise&nbsp;&nbsp;Spectrum News",
       "sources": [
         {
           "name": "WMUR",
@@ -693,95 +885,11 @@
       "id": "86f49966657f",
       "title": "Tubulin prevents toxic brain protein clumps linked to Alzheimer’s and Parkinson’s - ScienceDaily",
       "published": "2026-06-21T13:09:59+00:00",
-      "summary": "Tubulin prevents toxic brain protein clumps linked to Alzheimer’s and Parkinson’s&nbsp;&nbsp;ScienceDailyOne Protein May Prevent Brain Process Linked to Alzheimer’s and Parkinson’s&nbsp;&nbsp;Newsweek",
+      "summary": "Tubulin prevents toxic brain protein clumps linked to Alzheimer’s and Parkinson’s&nbsp;&nbsp;ScienceDailyFrom Labs to Life: Another Alzheimers Breakthrough&nbsp;&nbsp;The Times of IsraelOne Protein May Prevent Brain Process Linked to Alzheimer’s and Parkinson’s&nbsp;&nbsp;Newsweek",
       "sources": [
         {
           "name": "ScienceDaily",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43amtHdXVHX0hzRWpycFRUeUdnaVZZQm5uQjc3T0ZRUFR6YVRwT243X0ZGcHdQRnV4aTRHZDF2Z1hUOVRGc1BrSlR5UDl6ZktRbDFmS0NCLWtBUnZ3OTJDd2hrNlczaURETlpkTm5Tbw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7bb1fc4e5252",
-      "title": "6 Canned Foods to Eat to Lower Blood Pressure, According to Dietitians - Verywell Health",
-      "published": "2026-06-21T12:28:19+00:00",
-      "summary": "6 Canned Foods to Eat to Lower Blood Pressure, According to Dietitians&nbsp;&nbsp;Verywell Health3 Everyday Habits with More Blood Pressure Benefits Than Daily Walks&nbsp;&nbsp;EatingWellFoods high in sugar and salt that people with high blood pressure should avoid&nbsp;&nbsp;Laodong.vnHigh blood pressure? Top nutritionist reveals the fruits, vegetables and seeds to add to your diet&nbsp;&nbsp;The Economic TimesFruits That Are The Best Sources Of Potassium&nbsp;&nbsp;NDTV",
-      "sources": [
-        {
-          "name": "Verywell Health",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcEZ0dmxtRVJTNkRqWDNadjd5cFMxdUNfb1drRjJFbWR4RFJUYlNxMmZSdi13T2tHYVVoVXhBdjJmcWlBRW4xV25CMGliOG1tQnJLbGRhUnhoQXJPN0JNcmo3ZHo3TkZwVWpobUo2ZjRTNTVnUkFqTUxsdzBid0Nucmp3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8d417edbd57d",
-      "title": "Biological Clocks Reveal Hidden Factors That Speed Up Aging - ScienceAlert",
-      "published": "2026-06-21T12:01:35+00:00",
-      "summary": "Biological Clocks Reveal Hidden Factors That Speed Up Aging&nbsp;&nbsp;ScienceAlertAccording to science, these 5 free tests can reveal your true biological age without a single blood draw&nbsp;&nbsp;graziamagazine.comSemaglutide, omega-3s and diet shift epigenetic aging clocks in human studies&nbsp;&nbsp;News-MedicalIncreasing scientific interest in slowing down biological ageing&nbsp;&nbsp;The StarBiological Age Tests Reveal What Slows or Hastens Aging – But They’re Useful Only for Researchers,",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZkF1ZWE0TnBUZ3d2dkptaXRkLVR1TFR0RjRQUWljdHRLYXRwTGlSS093N3Zhb1B4SDk0ekt5M1JFdktySV9pUTQzeEdhQmhpMXFHUTF2N0poN09YdGRqMDdWZ2wtb0JMNmEwZmEyck9fQXFXYWtjVDdFRi01Q0dyYWh5U25TLW5GVkkybXVienVsUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e8e082c29c04",
-      "title": "Dementia May Have Turned Doctor Into a Predator - Newser",
-      "published": "2026-06-21T11:04:00+00:00",
-      "summary": "Dementia May Have Turned Doctor Into a Predator&nbsp;&nbsp;Newser",
-      "sources": [
-        {
-          "name": "Newser",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOUJGVTIwTmo1aTJZRWltbFd4Y3dLNlFpWFJsVUVDUExOMngzcl9GRmNpOE5OcTNEb3Z2Nll0SEk0LUROSjQ0ZGt4TDdHVDBJdlpTZnhGSEVTZmp5Qm0wMXdwc29DN3BJcGd5N252c1d0WFpXamtETlJLaDdqWmliM3BDSC1vUXlsWW5aNlQ5MjBuemZmUjB3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "37c6094cd4a0",
-      "title": "Can Sparkling Water Increase Your Risk Of Colorectal Cancer? - HuffPost",
-      "published": "2026-06-21T11:00:19+00:00",
-      "summary": "Can Sparkling Water Increase Your Risk Of Colorectal Cancer?&nbsp;&nbsp;HuffPost",
-      "sources": [
-        {
-          "name": "HuffPost",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV3g3MW13WHIwbm93RDR2enBHZDE2WnVFaXl3NmFzbHp3RG85MnM0ZWxsRkktUVZ1eS02ci1YNUI0VnhXN1Mtc243OUZoRlBLc3FnR3Nwd2tRN21IbEVOZ0paZmlCWlN1S0c5YVhiS3pXbDBlLXBXM3FMcDk4TEhYdWdVQkE0Nm0xVU1xMkhqUGh6QzZQNktWbHVYZGrSAaIBQVVfeXFMUGlmNnc5S3ZXU1h5bVowa1Vnbi1ieGExeEZob1E2RXFNSW0wYkZxLVc3SDgyT2FLVk1CY2JQX2FyQWFsQjVBZThTRWlWNWtiZTUybTRoRTR3bWJLWkpLM1RFUDNOcDhZTkpEWWlPMTV5QmNJdktiYmt6RlZ3alFiQlVabWJuWTBXY3NUZXV1cU54ZFFOUmFTQ3VnY2l3RFcya1hR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d0f89c44de3b",
-      "title": "Yale study finds nearly half of older adults improved with age - ScienceDaily",
-      "published": "2026-06-21T10:03:02+00:00",
-      "summary": "Yale study finds nearly half of older adults improved with age&nbsp;&nbsp;ScienceDailyLiving well at every age: proactive steps for health and independence&nbsp;&nbsp;Sterling Journal-AdvocateHow seniors can remain physically and mentally active&nbsp;&nbsp;Eagle-TribuneThe activities that will help you age better&nbsp;&nbsp;The Jerusalem PostYale Study Challenges Notion That Ageing Means Decline, Finds Older Adults Improve Over Time&nbsp;&nbsp;ETV Bharat",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KUFM2aTItMzNmRGJVeEZxTUJBRXVETTMzOWNOcEllRnVHTktHdXdtNUhkSkhwdkVYZEV1SmhHTExZM21nQTJPVWhGWm84SlZqUFRuTmg5LXhKNGJJOW9GSDZmengxRkhxZjRmUnlNdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "940f0b5301d0",
-      "title": "The notebooks Marie Curie used in her research remain radioactively contaminated more than a hundred years later. Some Curie papers have been found contaminated with radium-226, an isotope with a half-life of about 1,600 years, and original volumes ar - Space Daily",
-      "published": "2026-06-21T09:08:19+00:00",
-      "summary": "The notebooks Marie Curie used in her research remain radioactively contaminated more than a hundred years later. Some Curie papers have been found contaminated with radium-226, an isotope with a half-life of about 1,600 years, and original volumes ar&nbsp;&nbsp;Space Daily",
-      "sources": [
-        {
-          "name": "Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQQ3NBQ282d05MamZEUWJJb2NiZmhyd2NsS2JKWUxYNTZ5ZXdSck9COFlIVlAzZS12QnBuNGxURlRxWU80cFdJNXFrTE5vN3o1cEltTHlDUEQ4bjBEM1dZVTd6Nndxck1wVmRZc0NvZ05ZbGFoOFRDeFUtMTlneFJKeTY1b0pZd3ljU0Y2Tm9wRzFnXzg2cGd3cUkyb1hIbTE1ZG9uWEFnWGVHS3c4TGpybmpUQ3ZyLUdmYUZtUjdZZGM2SldYSmhWVmRUVnlUUzI2Si1ubTE0YWJFMEh2N2JpeXlwSG44Uy1ScW04Y1VZNzhFTTZBb2NPYTJvRTBlZTA0ZmVHV01Zd0w0ZnQxUGJoeEN4QTA2eHNfLTQtVFJJSGd6YW55cjZBTEtOV3NIT1hnbG1xRWdiNUpPcG5MZ0xEQkgwMUZoblE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "07d6b9cd42fe",
-      "title": "Are Cardiologists Against Statins? What Heart Doctors Really Think - AOL.com",
-      "published": "2026-06-18T15:20:33+00:00",
-      "summary": "Are Cardiologists Against Statins? What Heart Doctors Really Think&nbsp;&nbsp;AOL.comSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUUNHQkI3WUJPQzIxbm8zNGY0QnQ5bEhENWNWbDF1ZlduaW5DR2lVV3lUNTdlTmhXa2toNFBkeFp3VVA2NEVkMGNMMDdsc3BaRVBwc3Jwdi1QNlBhME9nZWREUkVHUWs0ZUdMSUNoNVdpb0ZIS2xPdHoyUWdPOVFudC1Lb1JIN0o3TUxn?oc=5"
         }
       ]
     }

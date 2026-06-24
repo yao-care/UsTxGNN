@@ -1,14 +1,14 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-06-24T09:35:39.543999+00:00",
+  "fetched_at": "2026-06-24T14:37:32.962095+00:00",
   "total_fetched": 140,
   "unique_count": 140,
-  "health_related_count": 75,
+  "health_related_count": 77,
   "news": [
     {
       "id": "45c1645d6812",
       "title": "As Ebola cases hit 1,000, almost 3 million children and adolescents face rising risks in eastern DR Congo - Unicef",
-      "published": "2026-06-24T08:23:35+00:00",
+      "published": "2026-06-24T14:26:04+00:00",
       "summary": "As Ebola cases hit 1,000, almost 3 million children and adolescents face rising risks in eastern DR Congo&nbsp;&nbsp;UnicefEbola cases in Congo reach highest first-month total of any outbreak, WHO says&nbsp;&nbsp;ReutersDid Trump's foreign aid cuts fuel the Ebola outbreak? : Short Wave&nbsp;&nbsp;NPREbola cases in DRC surpass 1,000 as UNICEF warns millions of children at risk&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosEbola disease caused by Bundibugyo virus, Democratic Republic ",
       "sources": [
         {
@@ -18,14 +18,38 @@
       ]
     },
     {
-      "id": "114db1fd5357",
-      "title": "4 Supplements That Can Damage Your Liver - EatingWell",
-      "published": "2026-06-24T07:08:11+00:00",
-      "summary": "4 Supplements That Can Damage Your Liver&nbsp;&nbsp;EatingWellSee more headlines & perspectives on Google News",
+      "id": "f66e35010a53",
+      "title": "Younger Adults May Be Aging Faster Than Previous Generations - ScienceAlert",
+      "published": "2026-06-24T07:19:38+00:00",
+      "summary": "Younger Adults May Be Aging Faster Than Previous Generations&nbsp;&nbsp;ScienceAlertFaster aging in younger generations linked to rise in early-onset cancer&nbsp;&nbsp;WashU MedicineAge fast, get cancer young: the ‘global surge’ hitting under-50s&nbsp;&nbsp;The TimesBiological aging and generational shifts in early-onset cancer risk&nbsp;&nbsp;NatureMillennials may not be aging as well as they think — study finds ’90s babies are aging faster, have higher cancer risk&nbsp;&nbsp;New York Post",
       "sources": [
         {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOcy03LW1Yd082WDUtajV5VlVOcXpFNGhqLXdTalNjWkFlVHE1eXE4YVlFZGRIdUVqcEFCQnlEMDhIVmNwOTAxUnotX2pCM2pjYm0yREFVdUtwN2tvZFlzal9qQW5hS2xvOXMybG4wd3ZFNDlINmhvd3JtOWJrVFU?oc=5"
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTGZ0d0I1MGR3QkRoSWxqTjZfc1FyN1pydUVqZEZjZzNFcTZVWmh6UTNvWU5XN25SdVlFOGxFUng5NHJ5QlNvY2xvYXAxY0NkVmVFLVJVNllLTlk0M05PSEp6aWMyaU1kUEtVajItRlY5Vk05UFhaTTVLR1dDV1hyY3ZSSFpvRURkZUdnRUpVQzJBYlk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ce9d6d801ac3",
+      "title": "SpaceX \"Starfall\" launches on secretive test flight - Axios",
+      "published": "2026-06-24T07:16:53+00:00",
+      "summary": "SpaceX \"Starfall\" launches on secretive test flight&nbsp;&nbsp;AxiosSpaceX launches reentry capsule demo mission called ‘Starfall’&nbsp;&nbsp;Spaceflight NowSpaceX's secretive plans to deliver cargo to Earth from space&nbsp;&nbsp;New ScientistSpaceX launches its 1st 'Starfall' reentry capsule in early morning Falcon 9 liftoff&nbsp;&nbsp;SpaceSpaceX to launch Starfall spacecraft from Florida. What time is liftoff?&nbsp;&nbsp;Florida Today",
+      "sources": [
+        {
+          "name": "Axios",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sSktVaXppRVRJVGV5YmRYbzU5RjU4eGI0YUhyVDh4NmtrSGdRenl0cW1Nd2h1LU1jR05lSS1taWNyTUVwQVVTMi1vRzdvZDZ6d0hUZG4yWTE3a3FN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "945583316bf5",
+      "title": "Five-minute walk offsets the harm of sitting too long - The Telegraph",
+      "published": "2026-06-24T05:00:00+00:00",
+      "summary": "Five-minute walk offsets the harm of sitting too long&nbsp;&nbsp;The TelegraphWant to feel happier at work? Take a five-minute walk&nbsp;&nbsp;BBCThe big health benefits of a short break away from your desk&nbsp;&nbsp;The TimesStudy Reveals Optimal Number of Daily Steps to Offset Sitting Down&nbsp;&nbsp;ScienceAlertEast Brunswick Resident Keith Diaz Shares Movement Breaks Research in TED Talk&nbsp;&nbsp;TAPinto",
+      "sources": [
+        {
+          "name": "The Telegraph",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR1VDaGlkek13SHlFOGVyTlpuZW5uWGQxNl9JeHhiLXpiMlN4Q01yYW5jMDJyWnNnVjNxTl9HSThJZVB0SkFoWjFDV2NPLVlERUZ0M2IzS1ZsLWZOYV8tZnVZQ1JlR1hLQUtVMEczaHpPLWN4TlNxR05ZS2RYZ0pyV0czTGlkSm1lbVRUOGczTUlkOWdBa1psMUJIYzZBZUNUTUR3SkZ3?oc=5"
         }
       ]
     },
@@ -38,18 +62,6 @@
         {
           "name": "The Guardian",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMVhVLUFrQkotUGt1dVRrdUJEcTg5aVZKeU5TejFha2stMlcyMTFBQUhqWVVvLU42T0tma2pEa2UzNDdDNmVfQTAtOS0tUjNUMmw5TFpOZk1NeG5QYm5kcVAzZjhubnJjMVFyb2hGZ3RmdTJjZVdrQVNJdVNmWVhhWDJKQkZITndIN2hR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ce9d6d801ac3",
-      "title": "SpaceX \"Starfall\" launches on secretive test flight - Axios",
-      "published": "2026-06-24T01:13:43+00:00",
-      "summary": "SpaceX \"Starfall\" launches on secretive test flight&nbsp;&nbsp;AxiosSpaceX launches reentry capsule demo mission called ‘Starfall’&nbsp;&nbsp;Spaceflight NowSpaceX's secretive plans to deliver cargo to Earth from space&nbsp;&nbsp;New ScientistSpaceX launches its 1st 'Starfall' reentry capsule in early morning Falcon 9 liftoff&nbsp;&nbsp;SpaceSpaceX to launch Starfall spacecraft from Florida. What time is liftoff?&nbsp;&nbsp;Florida Today",
-      "sources": [
-        {
-          "name": "Axios",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sSktVaXppRVRJVGV5YmRYbzU5RjU4eGI0YUhyVDh4NmtrSGdRenl0cW1Nd2h1LU1jR05lSS1taWNyTUVwQVVTMi1vRzdvZDZ6d0hUZG4yWTE3a3FN?oc=5"
         }
       ]
     },
@@ -102,14 +114,14 @@
       ]
     },
     {
-      "id": "17ad1e842fe1",
-      "title": "Earth’s oldest crater really is over 3 billion years old, new study confirms - The Conversation",
-      "published": "2026-06-23T22:02:58+00:00",
-      "summary": "Earth’s oldest crater really is over 3 billion years old, new study confirms&nbsp;&nbsp;The ConversationScientists in Australia find ‘smoking gun’ evidence of world’s oldest meteorite strike&nbsp;&nbsp;The GuardianAsteroid crater in Pilbara confirmed again as world's oldest&nbsp;&nbsp;Australian Broadcasting CorporationOldest known asteroid impact on Earth dated to 3 billion years&nbsp;&nbsp;Phys.org'Unequivocal evidence' of the age of Earth's oldest impact crater turns out to be off by half a b",
+      "id": "f2bce879319e",
+      "title": "Oldest known asteroid impact on Earth dated to 3 billion years - Phys.org",
+      "published": "2026-06-23T22:00:03+00:00",
+      "summary": "Oldest known asteroid impact on Earth dated to 3 billion years&nbsp;&nbsp;Phys.orgScientists in Australia find ‘smoking gun’ evidence of world’s oldest meteorite strike&nbsp;&nbsp;The GuardianAsteroid crater in Pilbara confirmed again as world's oldest&nbsp;&nbsp;Australian Broadcasting Corporation'Unequivocal evidence' of Earth's oldest impact crater turns out to be off by half a billion years&nbsp;&nbsp;Live ScienceWorld's Oldest Known Asteroid Crater Is 3 Billion Years Old, Study Confirms&nbs",
       "sources": [
         {
-          "name": "The Conversation",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTVV2SWc4UnExVloteUhDWk1Eb3ViNTV4SktWUlJMQWdYcWlkYy1ONmt2blVRUV9lRkxaVmU4elFMVDhXYl9ac2FlaE1IdjduZ3RvWmloT3VsMUczMEpWdXdyaUp5Smt4djk0UTFKZmtvQVRnRGs1SEhacFpIVTRPU0NJY3RKN2djVzA1Uk5ZZzBTWXhqVU1qRWtiV1VyVm9OTjZuRkJUX096TEhxV1E?oc=5"
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vN0QzdVRZd0RITDY0b2NVZV9DVUc5YWNpV2ZnSlI3UndjdVoxVEtoNmJ3aThWTTZoay1QWkFIQ3dQQmJxV2xUNmxxN2ZoQVRaSTdfTWpRTHo2ZTh0MjRQVXlESVVWdUhNSE8xVE80RzRlQ0JkMGZuaw?oc=5"
         }
       ]
     },
@@ -153,7 +165,7 @@
       "id": "1a2f2f976622",
       "title": "A lethal virus has been found among Utah’s wild rabbits. Here’s what to know. - The Salt Lake Tribune",
       "published": "2026-06-23T20:40:51+00:00",
-      "summary": "A lethal virus has been found among Utah’s wild rabbits. Here’s what to know.&nbsp;&nbsp;The Salt Lake TribuneHighly infectious rabbit disease confirmed in Utah: What experts say to look out for&nbsp;&nbsp;ABC4 UtahA highly infectious disease has been found in Utah's wild rabbit population again&nbsp;&nbsp;KSL NewsRabbit hemorrhagic disease recently confirmed in Summit, Tooele counties&nbsp;&nbsp;Utah Division of Wildlife Resources (.gov)A highly infectious disease has been found in Utah’s wild ",
+      "summary": "A lethal virus has been found among Utah’s wild rabbits. Here’s what to know.&nbsp;&nbsp;The Salt Lake TribuneHighly infectious rabbit disease confirmed in Utah: What experts say to look out for&nbsp;&nbsp;ABC4 UtahA highly infectious disease has been found in Utah's wild rabbit population again&nbsp;&nbsp;KSL.comRabbit hemorrhagic disease recently confirmed in Summit, Tooele counties&nbsp;&nbsp;Utah Division of Wildlife Resources (.gov)",
       "sources": [
         {
           "name": "The Salt Lake Tribune",
@@ -194,18 +206,6 @@
         {
           "name": "EatingWell",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONnMyS3dDejZMUkRFMUVaaC0tREh0NFRERGxyMjBRRlZ1VU53Tlo5aFc0LW9BQ1NBa1FPZkdmYUdyT0FOMDZLUlBPeDlzRnV1XzVXczRpZGJRb3JOelFPaXFxSWFEVW03aVBwck9PSm91WDdFaEZVeWRkU3BfdGtXa3FwMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f52aa98169a9",
-      "title": "Millennials may not be aging as well as they think — study finds ’90s babies are aging faster, have higher cancer risk - New York Post",
-      "published": "2026-06-23T18:24:00+00:00",
-      "summary": "Millennials may not be aging as well as they think — study finds ’90s babies are aging faster, have higher cancer risk&nbsp;&nbsp;New York PostFaster aging in younger generations linked to rise in early-onset cancer&nbsp;&nbsp;WashU MedicineAge fast, get cancer young: the ‘global surge’ hitting under-50s&nbsp;&nbsp;The TimesBiological aging and generational shifts in early-onset cancer risk&nbsp;&nbsp;NatureYounger Adults May Be Aging Faster Than Previous Generations&nbsp;&nbsp;ScienceAlert",
-      "sources": [
-        {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTVdINzNMSkF3S1RqQWRWaGh3bmlzZ2hPbDJhNGhKTzdjODVYay02eG5mX09WbGZnUFV3Smd5NWFwdU1qdm1OMnVPTUJWVGdqY0laSkJzaDI0M0g5Z3MyZ1pQMWFPOW8tNEtHV1ltX0oybUZKaFBMbnQxbVo3WkpiNVdQUXVGaEtJNDJfak8zc3dMdG82WkIzY1pPVGF2dGJTbUxZ?oc=5"
         }
       ]
     },
@@ -270,14 +270,14 @@
       ]
     },
     {
-      "id": "d2437082150a",
-      "title": "NASA wants to dump the ISS in the sea. Experts say the plan 'raises serious concerns for ocean health' - Space",
+      "id": "ca6020439195",
+      "title": "NASA wants to dump the ISS in the sea. Experts say the plan 'raises serious concerns for ocean health' - Yahoo",
       "published": "2026-06-23T16:00:00+00:00",
-      "summary": "NASA wants to dump the ISS in the sea. Experts say the plan 'raises serious concerns for ocean health'&nbsp;&nbsp;SpaceThe Next Outpost: NASA’s Plans for Replacing the Aging International Space Station&nbsp;&nbsp;U.S. Government Accountability Office (.gov)Downing the International Space Station: Current Plan Whips Up Worries by Ocean-health Group&nbsp;&nbsp;Inside Outer SpaceReport: De-orbiting the International Space Station – What are the Implications?&nbsp;&nbsp;Inside Outer Space",
+      "summary": "NASA wants to dump the ISS in the sea. Experts say the plan 'raises serious concerns for ocean health'&nbsp;&nbsp;YahooSee more headlines & perspectives on Google News",
       "sources": [
         {
-          "name": "Space",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMGkxQzhUTEZCemJFaTFFWXFjZWdDUklPRTM1VFc5M0puZUc2eVZ5VHV5enE3UjhUdVB2UEl4S2dQSlI2TEVxaTUzRzNXaGp5dzNoaWxNbzhIVmR3akE3NkhfWVB4eUVrNl8zTWhSMTlVc3J0ZzBpTGtJSjNRWF80SEVHWkxkVjl1czJEdklOQzRtd0ZDck55TlJWTWtQZ3Z6ZnRMVDF4U0dqbHlnVW1DelNFY1ZEQlJoX0N4N1NGSkplYTRpcnJRWWtlMk5LZ1Y2UXhpZFdUd0wxWEw5XzFaWjVYRHRZX1ZCVGRwUDVSZHNudnJqMWRmRFhWRQ?oc=5"
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb0ZXbXBoVF9vRExfTjViRVZvWUszWlplanVlb3BaS3BOUHdnLVFzQ0xYdDRBRGxyZHpncVpZcHZENFpSczlmQVRGOERrTzZiVVlQLTFvWEsxTlZKMEpXU2J6S2JjU0ZXYlhNQ1lPM1VKTExIZlNTV3M3R2pLUERvajZENFBCc2dyNVE?oc=5"
         }
       ]
     },
@@ -306,6 +306,18 @@
       ]
     },
     {
+      "id": "8c1bdad63f5f",
+      "title": "2 Nutrients You May Be Missing If You’re Tired All the Time - Verywell Health",
+      "published": "2026-06-23T15:15:00+00:00",
+      "summary": "2 Nutrients You May Be Missing If You’re Tired All the Time&nbsp;&nbsp;Verywell Health",
+      "sources": [
+        {
+          "name": "Verywell Health",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMVJSVU9Yck5Ob21VYnktVnotZzh1Z1p2R3RDaUhCOEFrM0JyTUczNktlcjMxLXROSDFsa3BNWjItaldsSVlva0xNVjdVamdWMnMwQkRUdmFNLS1jMFJTZkp6eEpFSlliSEhRcGpKWWwyTnJhRUttUXRQSkk0MG8tZ0xWWQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ebbe12ff64bc",
       "title": "9 Fruits Packed With Prebiotics That Support a Healthier Gut - TODAY.com",
       "published": "2026-06-23T15:04:01+00:00",
@@ -314,6 +326,18 @@
         {
           "name": "TODAY.com",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTmZlQlcxZ2dUdXcwdWFoZ3cza0s4ZEt4RW9VeVY2VFNGV1ZvN3pyaGNHdW50cnJPdVZxZF9HOHBVcExSeGFQdFJxeEFLdGt1dUEzcV9LTkdrY0xibzA0aUZWZmJzT19peFoxNnNJOU5HSmRhZnpHYlU3cm1hM085UDFTQzMyYmM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dc01073c0d02",
+      "title": "5 Drinks That Could Help Support Longevity, According to a Dietitian - Health: Trusted and Empathetic Health and Wellness Information",
+      "published": "2026-06-23T14:52:27+00:00",
+      "summary": "5 Drinks That Could Help Support Longevity, According to a Dietitian&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness Information",
+      "sources": [
+        {
+          "name": "Health: Trusted and Empathetic Health and Wellness Information",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SYnV1TmdwR194Ui10OHgtRkxvamwxYXM4U3J5YXlPLW1kcjZwZzRDMjZwdVQ4STdvc0ZMcTdTdDVfVnE3RVJvOUYwd0QtSjh3NWRSbjdNa1BiNm5UaGJnc2pDSVBBTGlFUjdJ?oc=5"
         }
       ]
     },
@@ -330,6 +354,18 @@
       ]
     },
     {
+      "id": "29d4709e015f",
+      "title": "I’m an oncologist — 5 cancer symptoms people dismiss as normal aging or stress - New York Post",
+      "published": "2026-06-23T13:43:00+00:00",
+      "summary": "I’m an oncologist — 5 cancer symptoms people dismiss as normal aging or stress&nbsp;&nbsp;New York Post",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOUcyd2d4RE1zQ2JmMDNwZHRSeGlSVF83VWZmN0VJT0RsUmVQX043eWpfT0lBQ1RHa3pnN2tPb0s4ZWtBVE5ZWEt6ak9jQ2tqVHV5TEpTTDRTZmVWYVcxME51akFJYzNERnhnN3JZLXJpY180VVlCN0t0UU1GUHFYMi0zRkR2VlY5TGg2S0VtZFNPRXhJOGVGQVNsSUY?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d98f7c75eccf",
       "title": "With Mass. cutting weight loss drug coverage, patients scramble to afford prescriptions - WBUR",
       "published": "2026-06-23T12:25:03+00:00",
@@ -338,6 +374,18 @@
         {
           "name": "WBUR",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN0xiUU13eE85enU1ZGhQWjFfUVZPNGxPV3E2Vjh0M05VQlY0VndIMzVSZ0RqZmhhbjVoLWlGUEoxQ1BtTWUwU29YMnhqWlFVU1NLdUNyYkxVanVRTDRxZnBNdTcydmRFdm5RdGdXb1BDT3F6MGZUV1RxNGRsNnc5R1paWHJCaWhtaE1wbFRTc0NvekE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "49a6fbdbdfdf",
+      "title": "Researchers at the University of California Riverside found in May 2026 that living systems distribute their amino acids more evenly than non-living chemistry does — a statistical pattern subtle enough that it went unnoticed for decades and powerful enough to - Space Daily",
+      "published": "2026-06-23T12:21:38+00:00",
+      "summary": "Researchers at the University of California Riverside found in May 2026 that living systems distribute their amino acids more evenly than non-living chemistry does — a statistical pattern subtle enough that it went unnoticed for decades and powerful enough to&nbsp;&nbsp;Space DailyContact? Groundbreaking Israeli method may soon detect life in outer space&nbsp;&nbsp;The Times of IsraelIsraeli, US scientists propose new approach to detect life on other worlds&nbsp;&nbsp;JNS",
+      "sources": [
+        {
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNQjhxOEtzNGVmTDlZU3dRV1Z2VEN2YWxhQWN2aTNpUnVtckw4X0VHenRlYzF6OU96SHJxWjVRcG1ad1J5dGhZVnYwZTdpd3l5alpKZVk5NlBwVXpDYUhGamkxcG5sbWs1LS1icm56SmZnRVJOUzI1YnM5U3JnN1NZeExBendXZ0wxQm1JOGtnRGVVVzRfZjB6NTJseFMtb05YNmwzakVxbGJRcDRTb19JcElqZ1ltTkx0enlIbzBtR2xuNWU1VVdoNE1ZR1otcmV0TFdtT2ZENVVUemRzckQ5ZUR5b1l4TmVxWjBONjVPcWVhOC1uemdySVJDcDU4WjhKeElGNFhpMThqaGcySXNaLUpTRFB0OG1FSmpnSkFBRzltaWVabVRfVlVSYzdKdHJ0ZWZaWS1janFjOW9L?oc=5"
         }
       ]
     },
@@ -534,10 +582,34 @@
       ]
     },
     {
+      "id": "c644fdf649f7",
+      "title": "Most of an octopus's brain cells live in its arms, not in its head — only about 8 percent of its 500 million neurons sit inside the central brain, with the rest spread across the eight arms and the optic lobes behind its eyes, in a body design some neuroscientists des - Space Daily",
+      "published": "2026-06-23T07:45:50+00:00",
+      "summary": "Most of an octopus's brain cells live in its arms, not in its head — only about 8 percent of its 500 million neurons sit inside the central brain, with the rest spread across the eight arms and the optic lobes behind its eyes, in a body design some neuroscientists des&nbsp;&nbsp;Space DailyThis shell-less ocean creature evolved 140 million years ago: Scientists say it is the closest thing to an alien on Earth&nbsp;&nbsp;The Times of IndiaThey have nine brains, three hearts and they dream: intera",
+      "sources": [
+        {
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPQ0JUVTBMYkZtVW95eGNNSFRaVEVhODdQeTJwMzFSbFV3Z2VFNUF1amprcDVPUGtFdHFFMzhEakZLYm85OC1JWG9meEhPSklUUjJTX2tpcElfVlRybjFCaGhWbDkxV2dTZW15emxoM3ZiOHlIalc0bDlGdnl3T3FVMUszcVEwRnFyZnZLVWZFV1gzT2k2UkJwWVVteFVvY2ZmT3B4aXdLRnRUWWttakg5SlEwVmhuMWQ1MGcxekFiZFhkV0RQbXBncmdqQTJQaFBndFNuWkphWG1pTlpxOEFPVUEyTU1YSjlhVFotY1d0X0k4RGxlTlQ4Z01Od1ZMSktVLXhvYng3R1IzR1ltU2hZUHdVRUt2QVVlRlNmNXo2a2RDa3FPZzZET3ZwSFh3elJQaWFJRGs4R0U?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "114db1fd5357",
+      "title": "4 Supplements That Can Damage Your Liver - EatingWell",
+      "published": "2026-06-23T07:00:00+00:00",
+      "summary": "4 Supplements That Can Damage Your Liver&nbsp;&nbsp;EatingWellSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOcy03LW1Yd082WDUtajV5VlVOcXpFNGhqLXdTalNjWkFlVHE1eXE4YVlFZGRIdUVqcEFCQnlEMDhIVmNwOTAxUnotX2pCM2pjYm0yREFVdUtwN2tvZFlzal9qQW5hS2xvOXMybG4wd3ZFNDlINmhvd3JtOWJrVFU?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ea92cb15bc02",
       "title": "Bird Flu Has Reached The Last Free Continent. Can We Stop Its Spread? - ScienceAlert",
       "published": "2026-06-23T05:01:22+00:00",
-      "summary": "Bird Flu Has Reached The Last Free Continent. Can We Stop Its Spread?&nbsp;&nbsp;ScienceAlertAustralia ramps up bird flu testing as second state reports case&nbsp;&nbsp;ReutersThousands of baby seals died on two remote sub-Antarctic islands. Scientists now think they know why&nbsp;&nbsp;CNNTasmanian devils, swift parrots, black swans: the animals at risk if bird flu takes off in Australia&nbsp;&nbsp;The GuardianDeadly bird flu discovered in second Australian state as virus found in SA&nbsp;&nbsp",
+      "summary": "Bird Flu Has Reached The Last Free Continent. Can We Stop Its Spread?&nbsp;&nbsp;ScienceAlertAustralia ramps up bird flu testing as second state reports case&nbsp;&nbsp;ReutersThousands of baby seals died on two remote sub-Antarctic islands. Scientists now think they know why&nbsp;&nbsp;CNNTasmanian devils, swift parrots, black swans: the animals at risk if bird flu takes off in Australia&nbsp;&nbsp;The GuardianDeadly bird flu discovered in second Australian state&nbsp;&nbsp;Australian Broadcast",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -633,7 +705,7 @@
       "id": "d921c84ab3ae",
       "title": "Human Ancestors May Have Used Fire Far Earlier Than We Thought, Study Reveals - ScienceAlert",
       "published": "2026-06-22T22:11:18+00:00",
-      "summary": "Human Ancestors May Have Used Fire Far Earlier Than We Thought, Study Reveals&nbsp;&nbsp;ScienceAlertIn African cave, Israeli and international scientists find signs of earliest use of fire&nbsp;&nbsp;The Times of IsraelHumans Were Using Fire Long Before Scientists Thought Possible, Study Says&nbsp;&nbsp;GizmodoStudy: New identification technique pushes back timeline of human fire use&nbsp;&nbsp;The Jerusalem PostWhen did man’s ancestors first learn to use fire?&nbsp;&nbsp;The Herald Palladium",
+      "summary": "Human Ancestors May Have Used Fire Far Earlier Than We Thought, Study Reveals&nbsp;&nbsp;ScienceAlertIn African cave, Israeli and international scientists find signs of earliest use of fire&nbsp;&nbsp;The Times of IsraelHumans Were Using Fire Long Before Scientists Thought Possible, Study Says&nbsp;&nbsp;GizmodoNew identification technique pushes back timeline of fire use to over a million years ago - study&nbsp;&nbsp;The Jerusalem PostAncient human ancestors may have first used fire 1.79 millio",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -686,6 +758,30 @@
         {
           "name": "Sci.News",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZHZiejBudE1mSDRRcXhDOHM3czNIclNMZTNLYzEyQzJzeXQ2YkxkT3pDc0NYWmZRcG9qclRJeDR3dFRJM2R5cEMzb0FWeDdJVmN2djB3V2ZTajYxcEtiWUxqaXpHX2R1XzNvdWhMYjJCcjZ6NHp6eDZUQTVyZ2ZwOXVELVFqUFJoQ1BhZTRFcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e7dc34bfa62a",
+      "title": "Doctors Thought It Was Asthma. A.I. Flagged a Serious Heart Problem. - The New York Times",
+      "published": "2026-06-22T21:00:06+00:00",
+      "summary": "Doctors Thought It Was Asthma. A.I. Flagged a Serious Heart Problem.&nbsp;&nbsp;The New York TimesA case of artificial intelligence-enhanced diagnostics leading to heart transplantation&nbsp;&nbsp;NaturePathway Labs Announces World's First FDA Clearance for Multicondition AI in Cardiology and Partnership with OpenEvidence&nbsp;&nbsp;Business WireA sweeping new AI to detect heart conditions is coming to OpenEvidence&nbsp;&nbsp;statnews.comNew York Times Features Cardiac AI Program Developed at NY",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYUtTQS1taTZnZ3Vma2JIanZaOV80RTREV0d5NzdkbU9LdmZHYWdiM1AyZVJtOUJ4U2hMdG0xVW9GeElRMl9TWmItSmNVNzZibDlRQWJrdHVoSUhybTJ1QU5LbExIU25HejEyM0kzVEZaY3BiSkE5NHlla3Nmc1FpMUsxU1hRT053bHVN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d7c6c7ee136c",
+      "title": "Prostate cancer blood test detects twice as many cases - The Telegraph",
+      "published": "2026-06-22T21:00:00+00:00",
+      "summary": "Prostate cancer blood test detects twice as many cases&nbsp;&nbsp;The TelegraphNew blood test detects more high-risk prostate cancer cases&nbsp;&nbsp;Medical XpressStockholm3 outperforms PSA for detecting significant prostate cancer&nbsp;&nbsp;2 Minute MedicineBlood-based testing could improve prostate cancer screening with MRI&nbsp;&nbsp;AuntMinnieMulticomponent Test Tops PSA for Clinically Significant Prostate Cancers&nbsp;&nbsp;MedPage Today",
+      "sources": [
+        {
+          "name": "The Telegraph",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPemJscUdSVWp3aTQzd3pSXzhtaGRtV2JBbXAtNERwQ1V2TE55Si14MXdCMW1TU3doSjdfa2kwNllvQjhlN1dmczkyZ0lqdGt2T051aF9LSFBSd3FCVU9laG0wUE1hTENWWDdidVNxUnhSSkl3ZmtsNEpMeXlPVVVFcE00ejRVOGt5cm8xd045Yl9fTXNfZzRZ?oc=5"
         }
       ]
     },
@@ -762,18 +858,6 @@
       ]
     },
     {
-      "id": "9bde23b3058c",
-      "title": "Guest Column | Ask a Vet: Can I catch a virus from my cat? - The Washington Post",
-      "published": "2026-06-22T17:00:00+00:00",
-      "summary": "Guest Column | Ask a Vet: Can I catch a virus from my cat?&nbsp;&nbsp;The Washington Post",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaktMUEpsSGw3dEhLRFdQS1dGVmVXWDJXMUZHejc1UFhYcnRCQkJEbUgxbzI3OGtJUlZwOWVKUjJkYUV2UFd0WTRQcWhfamJRLXFzUmdSdlpQa0l4dElYSGItbzZ6N25nUzlWRVdXeU5lQnBKcDJIbHdCall0R1dHSk5GVmtoWFB6SnEwYmpNQklYVjNYTHc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a8669c504743",
       "title": "Can Time Flow in Reverse? A Quantum Breakthrough Challenges Our Assumptions - SciTechDaily",
       "published": "2026-06-22T16:12:06+00:00",
@@ -830,66 +914,6 @@
         {
           "name": "Medical Xpress",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNREF0MFdfM1hkLWl5TWhaNml3Q1FkbFd5QmtYR01NalBCZFNOekxEdjdUNGx5MFJoUmlGRG1JMWVSX0JoTjBvWVFTS1BDVDlsQVRwNDFIS1lPVl9BOUY2aF9uYUZmZVhpa3UwcXFUYzFBeC1obW9qaHByaGVrTVltLV9rc1F6SWZ5NW1uWVY1TQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ca12998aaa0f",
-      "title": "Millions of Metformin drug users issued serious four day warning - LADbible",
-      "published": "2026-06-22T15:07:47+00:00",
-      "summary": "Millions of Metformin drug users issued serious four day warning&nbsp;&nbsp;LADbibleVERIFY: Summer heat can damage medications. Here's what happens when prescriptions get too hot&nbsp;&nbsp;KSDKUK heatwave: Five medications that can affect how your body regulates temperature&nbsp;&nbsp;The IndependentHealth warning for anyone taking Benadryl, Clarityn and Piriteze for hay fever&nbsp;&nbsp;Cambridge NewsBrits on Mounjaro issued heatwave warning as jabs can become 'less effective'&nbsp;&nbsp;Metro",
-      "sources": [
-        {
-          "name": "LADbible",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYlpVZ2phWVM0UUtqdFhORHBlX0RiMDBsNkJya2lGTkJTZVZWdXpBeDJxbjBQMG90VzllRE95eEl4ay1pTmRZZm9nS2REYk9JTGdldEpXT3o0cThZSkZOQ0JlNGd2RkVSNlR6VE41VUxiNDc5dl9PS3RONE5OOTdOdzVSNG5SdGZwVzlxcFVWZlVEZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "00fbc65ab995",
-      "title": "Bones communicate with the rest of the body to support overall health – here’s the science behind your skeleton - The Conversation",
-      "published": "2026-06-22T12:35:17+00:00",
-      "summary": "Bones communicate with the rest of the body to support overall health – here’s the science behind your skeleton&nbsp;&nbsp;The Conversation",
-      "sources": [
-        {
-          "name": "The Conversation",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMjlvQTJJZENua3p5ZU1PS2ZhRzJoRXNGek44TVdOZWxjM3pDQmRMQ0dzQm9SeGF5ODdPdGxheUtId2VvdWZSSUpqMjZIc3dFYnFST0dMd2N4MWRMbThMSlNSQjFiQVRQVFI2VkNobnZFWmxmWU5hZzJOZmpjeFkxMW15RjVOSUhGNnVVY0VLUVdyNDl3Y3l1Vmdra0kxcWJvdklVQ2doaHJHa2FNSGZaME1UanRxTERFNXFFa2ZGNEg2R041TVJnMFRvRExGMWN3Wko2TVFSQzkzRlk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1b7752d44c51",
-      "title": "8 things to know about the gut microbiome and keeping yours healthy - NPR",
-      "published": "2026-06-22T12:00:00+00:00",
-      "summary": "8 things to know about the gut microbiome and keeping yours healthy&nbsp;&nbsp;NPRSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "NPR",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KVkExNk1Gb0ZxczdEWDdFaTdwSk5kRVdjTGhoTVhYd3J3enRXNVNPTG5KOUZuY2ozMWg0Vm5pSzk3UGhibFJOZ2tjdk5VbExVV0NnbGV4dWZBYm5ENmNOOXdSR1Q1bDQ1SnUtNC1mbEZVbHFOdE5aVXdn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5fd0ac003621",
-      "title": "Common Vaccine Linked to 24% Lower Dementia Risk in Major Study - ScienceAlert",
-      "published": "2026-06-22T11:01:16+00:00",
-      "summary": "Common Vaccine Linked to 24% Lower Dementia Risk in Major Study&nbsp;&nbsp;ScienceAlertShingles vaccine may protect against dementia&nbsp;&nbsp;CIDRAPScientists Say This Surprising Thing May Reduce Your Risk of Alzheimer’s Disease&nbsp;&nbsp;PreventionWe’re not as helpless against dementia as we think&nbsp;&nbsp;vox.comAn Open Letter to Acting Commissioner Diamantas: The FDA Needs a Regulatory Pathway for Vaccine-Based Dementia Prevention Trials Now&nbsp;&nbsp;The Clinical Trial Vanguard",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU3VpR2hHY25rd2xrQTFsUGFlZnZnQVdTR2szS3JoQ3F2QkFXUUliWVYyLWY5SmdtU0w5Ujh4VVRBWVY4bHlPUDZmSThUT1V0UEEyVE9lLUFzRjZxX19hMmxlalJITUVGSVl2THEyWTZsNWtrUVpnM2I0LVNXOHFsdHVaQ1oxak1BSTc4Q3J6ZkZpdXRNeXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "22ec88bc39ff",
-      "title": "8 common food preservatives linked to higher risk of high blood pressure and heart disease - Fox News",
-      "published": "2026-06-22T11:00:33+00:00",
-      "summary": "8 common food preservatives linked to higher risk of high blood pressure and heart disease&nbsp;&nbsp;Fox NewsResearchers found 8 common food additives linked to high blood pressure and heart disease&nbsp;&nbsp;ScienceDailyMedical Bulletin 20/June/2026&nbsp;&nbsp;Medical DialoguesTackling cardiovascular risks of UPF addressed in recent ESC consensus statement&nbsp;&nbsp;Hospital Healthcare EuropeManaging Hypertension Symptoms? Why You Need To Avoid These 8 Common Preservatives&nbsp;&nbsp;NDTV",
-      "sources": [
-        {
-          "name": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVVF3QWItbkpfYV9vd3ZYeGF1R2pkOXJubE1GaDVKaWh2dERHaGF0ZXlab2NvZlBZZDJwZVM2U0F3VVU3TzFVcFl6andNRHZHWE5FUFVMd2NGOHhHeW5fR3h5Y250VzlHU3E5RUp4eHZHODhCYXNIQ0hzT1NlSHBtZ3FDeGZBbkxWN3l5a1otbjZwcWlRa09qM2VYQWdwelBjV3dEQVRzT2dQdmZCZ2hOZtIBtgFBVV95cUxOS1FDMnpZc3paZWxCVm9QY0dvZnZLNnFCUDZJcWJDTXRvdXo5QXdwWWdzdEZkeXNxSTJXN2xBNVA2MnFZZm13b0RwOFdxSGlCcHdSaGlvbUtqVngtcUxoN1F5U2ZuZjE5ckRxODZkMWlSY29oMDVTcW5UYXExcEFXX1J4ZENXZDl4ckxfLWVOZzZMS3BFQkV2TjNnNFRHc0NiN1VpSEF4YU9vWU01YUVWZUFTTFhldw?oc=5"
         }
       ]
     },

@@ -1,10 +1,22 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-06-25T03:53:08.646477+00:00",
-  "total_fetched": 128,
-  "unique_count": 128,
+  "fetched_at": "2026-06-25T09:27:01.533709+00:00",
+  "total_fetched": 127,
+  "unique_count": 127,
   "health_related_count": 64,
   "news": [
+    {
+      "id": "749624b7d7cc",
+      "title": "Ancient DNA Reveals a Genetic Surprise in The Last Neanderthals - ScienceAlert",
+      "published": "2026-06-25T01:24:41+00:00",
+      "summary": "Ancient DNA Reveals a Genetic Surprise in The Last Neanderthals&nbsp;&nbsp;ScienceAlertNew DNA study of Neanderthals bolsters suspicions of human-driven extinction&nbsp;&nbsp;EL PAÍS EnglishGenetic diversity of late Neanderthals in northwestern Europe&nbsp;&nbsp;NatureSome of the last Neanderthals were surprisingly genetically diverse&nbsp;&nbsp;New ScientistEurope’s last Neanderthals were genetically diverse and connected, study finds&nbsp;&nbsp;Archaeology News Online Magazine",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS1FIR0QyWllCM0NZUGtGb2R6ZWEySk9OS1AtYWVyX3lBaGRMenEtMlRyUW1CVjR5UXlwNUoyZ1hXbzZXZFBkdU5QYzlTdm5HVk5ZaU9aOF9HRG9zbExXUng1Wk1YMjlwdjZ4ZFBlbEVDbWc4UlZqZERlUnR3NnhMcjNGMjRyLWNpTmxSc2FyUzE4YnQ2S3Q0?oc=5"
+        }
+      ]
+    },
     {
       "id": "26bbce79ad45",
       "title": "Antibiotic cocktail made by soil bacteria can kill superbugs - Nature",
@@ -18,26 +30,26 @@
       ]
     },
     {
-      "id": "ccd9a71814d6",
-      "title": "Obesity cases rising fastest in young adults - BBC",
-      "published": "2026-06-24T23:11:14+00:00",
-      "summary": "Obesity cases rising fastest in young adults&nbsp;&nbsp;BBCEngland faces widening obesity inequalities across regions and communities&nbsp;&nbsp;News-MedicalSurge in Obesity Cases Among Young Adults Raises Health Concerns&nbsp;&nbsp;Oz Arab Media",
+      "id": "47af2d77de9a",
+      "title": "5 Carbs People with Heart Disease Should Be Eating, According to Dietitians - EatingWell",
+      "published": "2026-06-25T01:00:00+00:00",
+      "summary": "5 Carbs People with Heart Disease Should Be Eating, According to Dietitians&nbsp;&nbsp;EatingWell",
       "sources": [
         {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QSUp6MkJNb3g2aGZvRDhxdlNVRVN0Smp5dV9rTkp5Qk5wSFd5V0R2WGZxOU5ON1hzRnRZcXFjZHJaMlpBeHhkYU11eGpmSzROMUNpQVZ4NmY2Zw?oc=5"
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNnVKNHFoWTNxUUV3akI2aGhHVTR2Ym5CcUxLcmVNXzF5ZWdUR25XSDVNLU9UUEJCZ0xnUGZoRm12OXhZYi0xQ3htZEYtUWFONjl3QV8xWXd5dHRtUHBKbEtXN0hvUTBQMUNBbnZZU0NfdXJKeXRsODlmZDBqRkxrX1pmdXU?oc=5"
         }
       ]
     },
     {
-      "id": "2c817ec50262",
-      "title": "Genetic diversity of late Neanderthals in northwestern Europe - Nature",
-      "published": "2026-06-24T23:02:20+00:00",
-      "summary": "Genetic diversity of late Neanderthals in northwestern Europe&nbsp;&nbsp;NatureNew DNA study of Neanderthals bolsters suspicions of human-driven extinction&nbsp;&nbsp;EL PAÍS EnglishSome of the last Neanderthals were surprisingly genetically diverse&nbsp;&nbsp;New ScientistAncient DNA Reveals a Genetic Surprise in The Last Neanderthals&nbsp;&nbsp;YahooAncient DNA Of The Last Northwestern Neanderthals Shoots Down A Leading Theory Of Why They Went Extinct&nbsp;&nbsp;IFLScience",
+      "id": "5a8fa2de0dbd",
+      "title": "Measles case confirmed in person who traveled through Hollywood Burbank Airport - KTLA",
+      "published": "2026-06-25T00:09:26+00:00",
+      "summary": "Measles case confirmed in person who traveled through Hollywood Burbank Airport&nbsp;&nbsp;KTLAMeasles exposure reported at Hollywood Burbank Airport, county health officials say&nbsp;&nbsp;NBC Los AngelesMeasles-infected traveler may have exposed passengers at LAX and nearby hotel, health officials warn&nbsp;&nbsp;Fox NewsHealth Officials Warn of Measles Exposure at LAX&nbsp;&nbsp;MyNewsLA.comLos Angeles County confirms seventh measles case of the year&nbsp;&nbsp;CBS News",
       "sources": [
         {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPM2gtUFRvbTllT3piN29IeWhDSTZ0SXRvUWNxYS12TG1SSUVJekZEak1sZHBUWV9lSE9aSVEybkVzTE95b3JiWUhWVlQ2OTlWWVg2VHVZSmdmMlFxamE0?oc=5"
+          "name": "KTLA",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYXdsQTZ0OGNvcm5CTVhoQ2hIcFNmbDhkMU9fd0xUcFpnMUlLcF9DMktTdVJlOUc5M3pSaVRRbkZPZmdVblRTLXRFSUMtZUs4Zi15T2tjc2NOSXBkdV9IY2Rod1FhRDBuMkdjNHdaRHlrMkMzTFJRWkdJOEd0d3JCRml6NkJCWllRdUZWbGlqcVNUYzBOdk1R0gGcAUFVX3lxTE8wSW5qMktoMjM4ay1COGhKZk1YN3Q5VTFkZVpNVnZrNUlaYUdLZkNNei03clY0SHNqeDBTZG05VnktRi02LXpVSDJLYnZ6Rko1UDFWRGZYY2czVHA5ZG0tZ1J0dUMxbEF5eUV1TW96VGRISk5fQ2pRMnVJaFpkT016VVNrVnF5RVZQSklCRTluSG5ZTTV0enUydVMzTw?oc=5"
         }
       ]
     },
@@ -45,11 +57,23 @@
       "id": "f8b1799f9fad",
       "title": "An ECG biomarker for sudden cardiac death discovered with deep learning - Nature",
       "published": "2026-06-24T23:00:10+00:00",
-      "summary": "An ECG biomarker for sudden cardiac death discovered with deep learning&nbsp;&nbsp;NatureAI wades into a vexing medical mystery: What causes sudden cardiac death?&nbsp;&nbsp;statnews.comAI system detects sudden cardiac death risk, identifying thousands more patients annually&nbsp;&nbsp;Medical XpressDeep Learning Reveals ECG Sudden Death Marker&nbsp;&nbsp;Bioengineer.org",
+      "summary": "An ECG biomarker for sudden cardiac death discovered with deep learning&nbsp;&nbsp;NatureWith AI, researchers discover new way to detect sudden cardiac death risk&nbsp;&nbsp;University of California, BerkeleyAI wades into a vexing medical mystery: What causes sudden cardiac death?&nbsp;&nbsp;statnews.comDeep Learning Reveals ECG Sudden Death Marker&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
           "name": "Nature",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jUnhZZUROcVFMbmRGeFRnYm9MVzgza3d1S0NfTXdJdmVqR0gtVXJLM1ROYWE0ekV2RUg2ck40U0FLLWNvZTNmeVB4N0FLX09WZTlfeFhyYU5UY2ZNdnZR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0d638cd398ae",
+      "title": "10 early dementia warning signs everyone should know, according to the CDC - AOL.com",
+      "published": "2026-06-24T22:33:46+00:00",
+      "summary": "10 early dementia warning signs everyone should know, according to the CDC&nbsp;&nbsp;AOL.com",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ3hBUnNkNldlMWFiLVFPSHdkOVgxVjJXb2prbXJBWGZEVUxDZXltVG5wU2ZzeVhjaU16bjhsN0ZBaUNSbjdOM1FHbldselA5RlVGRGR2REtHdVdrSENFS2N0clFfejJQUUk4d2t6WTlyRE9SOUpNdjBjZDFLdGU5Tg?oc=5"
         }
       ]
     },
@@ -69,11 +93,23 @@
       "id": "b1a15fa405fe",
       "title": "This is the largest and most detailed image of our Milky Way — with over 60 million stars and 50 exoplanet systems - Space",
       "published": "2026-06-24T21:00:00+00:00",
-      "summary": "This is the largest and most detailed image of our Milky Way — with over 60 million stars and 50 exoplanet systems&nbsp;&nbsp;SpaceESA’s Euclid captures the Milky Way’s crowded heart&nbsp;&nbsp;European Space AgencyTelescope captures most detailed image yet of Milky Way's heart: \"Cosmic magnifying glass\"&nbsp;&nbsp;CBS NewsMillions of stars light up largest and most detailed shot of Milky Way’s centre&nbsp;&nbsp;The GuardianNew 60-Million-Star View Of Milky Way Opens Window For Exoplanet Hunting",
+      "summary": "This is the largest and most detailed image of our Milky Way — with over 60 million stars and 50 exoplanet systems&nbsp;&nbsp;SpaceESA’s Euclid captures the Milky Way’s crowded heart&nbsp;&nbsp;European Space AgencyMillions of stars light up largest and most detailed shot of Milky Way’s centre&nbsp;&nbsp;The GuardianTelescope captures most detailed image yet of Milky Way's heart: \"Cosmic magnifying glass\"&nbsp;&nbsp;CBS NewsEuclid View of Milky Way Heart Previews Core Survey by NASA’s Roman&nbsp",
       "sources": [
         {
           "name": "Space",
           "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMGZ2dFM1N19rQkdIWGsxNW5RckZGT0Q3WnBXNU56SHpEc0xwYUJHNmwxeUhPSmV1OGdFUkREb1JmN0NKcUpzaFRnTE1IT2M1ajEwSWNyajJuRnhYQ0Jqa0NVN3gzRWk2dm8xLWV2c3RxYmpZUTBmYnNjaU1vdnN3cGNBSl9tWTVnenF2ZVluWVVHSUk3cjJGd3dWZ0tDVVlZbFMyWnJGV3NlMmZrQWRhb3huaHMybEU5MXBBR2NzUjZpbmZNUjRRVXpIMDF3VV9MNk1tYUNQMUFXcWJWLU0wUE82RGVFUUhM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "82f511b226e0",
+      "title": "Grand Rapids oncologist says experimental pancreatic cancer drug showing promise in trials offers hope - WZZM13.com",
+      "published": "2026-06-24T20:10:00+00:00",
+      "summary": "Grand Rapids oncologist says experimental pancreatic cancer drug showing promise in trials offers hope&nbsp;&nbsp;WZZM13.comNew Drug Shows Survival Gains in Pancreatic Cancer&nbsp;&nbsp;AARPA new drug targets one of cancer’s master switches&nbsp;&nbsp;The EconomistFinding ways to ‘drug the undruggable’ diseases&nbsp;&nbsp;Harvard GazetteChattanooga doctor weighs in on new experimental drug for severe Pancreatic Cancer&nbsp;&nbsp;WTVC",
+      "sources": [
+        {
+          "name": "WZZM13.com",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPd2VSYmcwWlVSM19pR09acmtXckRra3RfenBhNy1OdExiRG9VemMtZGVqeWp6cm9wRFlwTktSa0dOUjJqeEVNbTJaX01XWVBHZEUtaE9TTG9hMDdvSHRPOURfUlZ5djBjdkdtRWYzR0NndmZTUUF2X3ZQT2tNLUNOSFZfUFpKSlFFZ1AzUy10dFprVXZmVjBZS0hsV2JxVXFHQ2JHTm5qaE9xZE1mcXl5U2g0cUhSRUdLR3pMcGNmNmpWWWIyaV91NHFGUnlxaUZva2MxVEF2eEljYk9LZ1M0UGJfcDI1c3ppZm9OYWtNUGxvTzRuTVh3SHl3V2cxd3BiY3Q3OXZfS2o3bGUwQ2gtRDl3?oc=5"
         }
       ]
     },
@@ -102,26 +138,26 @@
       ]
     },
     {
-      "id": "fa35988a7165",
-      "title": "U.S. provides experimental Ebola treatment for outbreak in Congo, bringing trials closer - NBC News",
-      "published": "2026-06-24T17:53:45+00:00",
-      "summary": "U.S. provides experimental Ebola treatment for outbreak in Congo, bringing trials closer&nbsp;&nbsp;NBC NewsMapp, Gilead antivirals to be deployed in DRC Ebola trial: WHO chief&nbsp;&nbsp;Fierce BiotechAs Ebola Cases Breach 1000, Trial Of Two Antiviral Treatments Due To Start Soon&nbsp;&nbsp;Health Policy WatchTrials of two Ebola treatments to start in DRC next week: WHO&nbsp;&nbsp;Medical XpressHHS has sent drug for Ebola clinical trial&nbsp;&nbsp;statnews.com",
+      "id": "6f5647d93330",
+      "title": "Three Las Vegas area ZIP codes report West Nile virus-positive mosquitoes - Las Vegas Sun",
+      "published": "2026-06-24T18:00:00+00:00",
+      "summary": "Three Las Vegas area ZIP codes report West Nile virus-positive mosquitoes&nbsp;&nbsp;Las Vegas SunFirst West Nile virus-positive mosquitoes reported in three Las Vegas ZIP codes&nbsp;&nbsp;FOX5 VegasMosquitoes in Clark County test positive for West Nile virus, health district reports&nbsp;&nbsp;KLAS 8 News NowWest Nile virus detected in Las Vegas mosquitoes; here's how to protect yourself this summer&nbsp;&nbsp;ktnv.comFirst mosquitoes test positive for West Nile virus in Clark County for season",
       "sources": [
         {
-          "name": "NBC News",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQXVWMkZfTUgxWUdSNWRnNkdvZS1vUExNY3owOFIyWUg1WW16M0VHOVhFLUtqbktILXF2OWdHc1BJRGExRVpacWYxYjNpMkl0dFllQXRXZFdPYnRBTDdSOGhYNlNwN3d3WUQ0Y3Z4MURGRHFfMGdnWFdRSDViSDV2TV9uT0Y4Z0RzemZFWU1iVDcwZUJTbW5SOTBVa211R0J3bHBod0xVSlZ1QzJ2bVE?oc=5"
+          "name": "Las Vegas Sun",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0tSZmI4bWN2VjZOU0QwS3cxV3JBb3JQQlN0REF2dGdLa1FJU2V4dGtqVTJ6UE0ycGU1RERjdGpWb0J6ZEFVbkVGcTZWbmE3NFRaX2hmWkRyR1oxS2hRa1N3RXJZYmRTUHFHelZkRmhqcWpWdnpFYWNVb1Bac193RmV1clZnTzZBM2hzS0VCQUhNeUgtak04?oc=5"
         }
       ]
     },
     {
-      "id": "1b643cbb7b47",
-      "title": "Why you should be brushing your teeth with your left hand to prevent dementia - New York Post",
-      "published": "2026-06-24T17:02:00+00:00",
-      "summary": "Why you should be brushing your teeth with your left hand to prevent dementia&nbsp;&nbsp;New York Post",
+      "id": "fa35988a7165",
+      "title": "U.S. provides experimental Ebola treatment for outbreak in Congo, bringing trials closer - NBC News",
+      "published": "2026-06-24T17:53:45+00:00",
+      "summary": "U.S. provides experimental Ebola treatment for outbreak in Congo, bringing trials closer&nbsp;&nbsp;NBC NewsMapp, Gilead antivirals to be deployed in DRC Ebola trial: WHO chief&nbsp;&nbsp;Fierce BiotechAs Ebola Cases Breach 1000, Trial Of Two Antiviral Treatments Due To Start Soon&nbsp;&nbsp;Health Policy WatchHHS has sent drug for Ebola clinical trial&nbsp;&nbsp;statnews.comWHO announces 2 trials of experimental drugs in Ebola outbreak&nbsp;&nbsp;CIDRAP",
       "sources": [
         {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT19HT2hqOE1hSWJNTnNndXE4X0gyZllhNFdpUHl5dXZXOVZRUFVZX3N2UWtPRTBRd01uWnJHVF91VTEzQ2pyTTRDZkc0N3hhSjJXY3RNNGhfWXNlOUJHbE5rT0dfaS11blF6OTJQeUQ1QXBUQ1J5c1JRYzB3UGhhYW1VbldaMVZ4R1ZCT21oaTZTNktjNEpRZll0X01qeFRjS2c?oc=5"
+          "name": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQXVWMkZfTUgxWUdSNWRnNkdvZS1vUExNY3owOFIyWUg1WW16M0VHOVhFLUtqbktILXF2OWdHc1BJRGExRVpacWYxYjNpMkl0dFllQXRXZFdPYnRBTDdSOGhYNlNwN3d3WUQ0Y3Z4MURGRHFfMGdnWFdRSDViSDV2TV9uT0Y4Z0RzemZFWU1iVDcwZUJTbW5SOTBVa211R0J3bHBod0xVSlZ1QzJ2bVE?oc=5"
         }
       ]
     },
@@ -165,7 +201,7 @@
       "id": "828d9e44fbcf",
       "title": "Yale study finds the secret to aging well over 65 - New York Post",
       "published": "2026-06-24T15:50:00+00:00",
-      "summary": "Yale study finds the secret to aging well over 65&nbsp;&nbsp;New York PostPeople Are Living Better at the End of Their Lives, New Study Finds&nbsp;&nbsp;Time MagazineYale study finds nearly half of older adults improved with age&nbsp;&nbsp;ScienceDailyStudy Finds Many Older Adults Will Improve Over Time–Depending on Their Mindset&nbsp;&nbsp;Good News Network‘Benjamin Button’ study finds health improves over time for people over 65&nbsp;&nbsp;deltanews.tv",
+      "summary": "Yale study finds the secret to aging well over 65&nbsp;&nbsp;New York PostPeople Are Living Better at the End of Their Lives, New Study Finds&nbsp;&nbsp;Time MagazineYale study finds nearly half of older adults improved with age&nbsp;&nbsp;ScienceDaily‘Benjamin Button’ study finds health improves over time for people over 65&nbsp;&nbsp;deltanews.tvStudy Finds Many Older Adults Will Improve Over Time–Depending on Their Mindset&nbsp;&nbsp;Good News Network",
       "sources": [
         {
           "name": "New York Post",
@@ -186,34 +222,10 @@
       ]
     },
     {
-      "id": "053234da4dba",
-      "title": "The Ebola Outbreak’s Central Mystery: Where Did This Virus Come From? - The New York Times",
-      "published": "2026-06-24T15:04:00+00:00",
-      "summary": "The Ebola Outbreak’s Central Mystery: Where Did This Virus Come From?&nbsp;&nbsp;The New York Times",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRkI3LUM1dS1OemZ6X2I0Zi1PQXFSR3h6T095VDJCOXlrOWg0bmZia0ktYXJWSGtVUVhhYkZQUTJCaTVhZ29Ock03NWVPVlF1Qk14aHZoSHkxSHdaZ0hlNUdPdktENWVlT2JBNWhQalg0cFdiWFVobmtXV3Z2cTNwU0g5Sk5GcW1G?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "eb967c736ea9",
-      "title": "'A weird result from an already weird hominin': Archaeologists discover all Homo naledi skeletons found in South African cave are female - Live Science",
-      "published": "2026-06-24T15:03:02+00:00",
-      "summary": "'A weird result from an already weird hominin': Archaeologists discover all Homo naledi skeletons found in South African cave are female&nbsp;&nbsp;Live ScienceThe most controversial fossil site in human evolution just got even more puzzling&nbsp;&nbsp;YahooStudy of ancient human relative reveals unexpected absence of male markers&nbsp;&nbsp;ERC'World's first single-sex space' revealed in ancient cave as 300,000-year-old fossils discovered&nbsp;&nbsp;GB NewsAncient tooth protein reveals 'all-fem",
-      "sources": [
-        {
-          "name": "Live Science",
-          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQZ2dGdGFqZXZHLUs4amlXRldFRllTX0pOMDc4a3BUOFQwaUg1eDRzX3VJTy00VFhvZUVTTER3OTdTM21TMU1STVZlLXktZGtLaXFUR3BscVVWWkoyZ3doYm5fWTdWVmE3M3RPQmZlREFSS2RQS0U2M2RWQ3RlcFZOaHZXMjRGRTVDQUJlZTZ6MEZLNVFFdEJEVjZVSGZENElxUDNldHJFQVJ6alZuZkV4T2F0TlViSXFBWVRnR1BmUWdIZzVJR2JTRTZvbnlldWR4R21YcEEtUWRDX1hVcnoxUFVOcW5iQk13eEtvWVdTcm5oakY2dVlDNHpJSEFiYnFuRG5PdjJJWG5veEs4bmdBblJQMEtfZnhT?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ec3f7ca030a0",
       "title": "Nature retracts provocative PD-1 study that tied lung cancer survival to treatment timing - Fierce Pharma",
       "published": "2026-06-24T15:00:00+00:00",
-      "summary": "Nature retracts provocative PD-1 study that tied lung cancer survival to treatment timing&nbsp;&nbsp;Fierce PharmaNature Retracts Cancer Study Linking Treatment Timing to Survival&nbsp;&nbsp;MedPage Today",
+      "summary": "Nature retracts provocative PD-1 study that tied lung cancer survival to treatment timing&nbsp;&nbsp;Fierce PharmaNature Retracts Cancer Study Suggesting Treatment Is Better Earlier in the Day&nbsp;&nbsp;MedPage Today",
       "sources": [
         {
           "name": "Fierce Pharma",
@@ -230,18 +242,6 @@
         {
           "name": "Health: Trusted and Empathetic Health and Wellness Information",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11Uk5QSE51a2pJTWJFSkNJZ2luWGp4LWdiTGdpakZNVWZ6ZnpjQU54UF92ajBnc2ZtMlpjZlc4T21DbXZIdDdJdEpNMVNqSWJEaGFwMU04b2ZYbUNFM3lFWHA5YWVfV0tJYkFHMEFEZHhMYUNCMWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4b9f8e2afab1",
-      "title": "First West Nile virus-positive mosquitoes reported in three Las Vegas ZIP codes - FOX5 Vegas",
-      "published": "2026-06-24T14:52:00+00:00",
-      "summary": "First West Nile virus-positive mosquitoes reported in three Las Vegas ZIP codes&nbsp;&nbsp;FOX5 VegasThree Las Vegas area ZIP codes report West Nile virus-positive mosquitoes&nbsp;&nbsp;Las Vegas SunMosquitoes in Clark County test positive for West Nile virus, health district reports&nbsp;&nbsp;KLAS 8 News NowLas Vegas mosquitoes test positive for West Nile virus&nbsp;&nbsp;reviewjournal.comFirst mosquitoes test positive for West Nile virus in Clark County for season&nbsp;&nbsp;KSNV",
-      "sources": [
-        {
-          "name": "FOX5 Vegas",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdnhoaWw1bmhTWXBKRjVjb1VhcXhUc2VfTW94bUk3U3QwaHVmdTQ5SXBvWF8xRDVMRlZxbXc0NlFaRjBrc2J4NmhMVGU4MUIzUm5oQjBqVTA5MXRhOHVEVUZtbHRoYndtbGl0RDhROUVVQzB1dzNYNVRmS2pIbHRMcFd5ZXhDYU81NEl0OGNCSzU5cTdKcWZveEFUTHNJMUtOT1BzRHZKRW7SAbwBQVVfeXFMTXlZejNTQ0MyUUUxbFdSNDdfcUw5UlBmdjZkOEhTRDQyYlowVUdkY3YwWTVYMTF4TDY0VFBXV0Q4cUVmU0pzUmpoVE5McWFpTjVjTEdYRXBtUXZQTS1yWEFOcVhOWGl5Nmp5ZlN6c2JFLS0xODNCblBfMVA5RUdTZW1zYXZQb3cxMUtfMzNjaGJNTkZ1b3c5WlhpX2JGLXFuOVYyU2JkZWlWc0RTdjliejdYSWFLeHEzR1dXRVE?oc=5"
         }
       ]
     },
@@ -270,22 +270,10 @@
       ]
     },
     {
-      "id": "9c245686d28a",
-      "title": "'Flesh-eating' bacteria threat spreads on Europe's beaches as seas warm - Euronews",
-      "published": "2026-06-24T12:01:13+00:00",
-      "summary": "'Flesh-eating' bacteria threat spreads on Europe's beaches as seas warm&nbsp;&nbsp;EuronewsVibrio cases confirmed in Gulf Coast waters&nbsp;&nbsp;fox10tv.comFlesh-Eating Bacteria in South Florida? What to Know.&nbsp;&nbsp;floridainjurylawyer-blawg.comTeen fights flesh-eating bacteria he got while swimming at park with siblings&nbsp;&nbsp;KCRGMSDH advises residents to remain vigilant against Vibrio bacteria&nbsp;&nbsp;Northeast Mississippi Daily Journal",
-      "sources": [
-        {
-          "name": "Euronews",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSFVHQWVJWElHZ29tSzZqSkMxTWY1SjdsM1pMa204WUV4VDFyZWxGRU82am9xQWhzbHZPNWN2VVBnUHVhSWxwTGx4Q3FwaFNxVWE0TTZfSjJPRG5zQjdJdlIyeU1fVUdoQmVqcU5GVmkzY0xJTExnc28yRWhpZHFrSk9zRWxpeGVwZ2ZYLU9ydk1EcEd2WFNZSG1OMjNDbjQ3X3RLblctUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3909ed76b86a",
       "title": "SpaceX launches secretive Starfall reentry demo mission - SpaceNews",
       "published": "2026-06-24T11:39:59+00:00",
-      "summary": "SpaceX launches secretive Starfall reentry demo mission&nbsp;&nbsp;SpaceNewsStarfall Demo Mission&nbsp;&nbsp;SpaceXSpaceX's secretive plans to deliver cargo to Earth from space&nbsp;&nbsp;New ScientistWith Starfall, SpaceX eyes an edge in global cargo delivery from orbit&nbsp;&nbsp;Ars TechnicaSpaceX Starfall Demo Provides Validation for Reentry Startups&nbsp;&nbsp;Payload Space",
+      "summary": "SpaceX launches secretive Starfall reentry demo mission&nbsp;&nbsp;SpaceNewsStarfall Demo Mission&nbsp;&nbsp;SpaceXSpaceX's secretive plans to deliver cargo to Earth from space&nbsp;&nbsp;New ScientistSpaceX Starfall Demo Provides Validation for Reentry Startups&nbsp;&nbsp;Payload SpaceWith Starfall, SpaceX eyes an edge in global cargo delivery from orbit&nbsp;&nbsp;Ars Technica",
       "sources": [
         {
           "name": "SpaceNews",
@@ -333,7 +321,7 @@
       "id": "8a7ad5f649ee",
       "title": "One common type of fat may increase diabetes risk, while another helps fight it - Fox News",
       "published": "2026-06-24T11:00:46+00:00",
-      "summary": "One common type of fat may increase diabetes risk, while another helps fight it&nbsp;&nbsp;Fox NewsOne common fat may fuel type 2 diabetes while another helps fight it&nbsp;&nbsp;ScienceDailyType 2 diabetes warning as scientists say the type of fat you eat may be driving your risk&nbsp;&nbsp;GB News",
+      "summary": "One common type of fat may increase diabetes risk, while another helps fight it&nbsp;&nbsp;Fox NewsSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "Fox News",
@@ -357,7 +345,7 @@
       "id": "7f80320a97f5",
       "title": "Maine reports first case of rare tick-borne disease this year - WGME",
       "published": "2026-06-24T10:59:01+00:00",
-      "summary": "Maine reports first case of rare tick-borne disease this year&nbsp;&nbsp;WGMEMaine reports 1st Powassan virus infection of 2026 in Penobscot County resident&nbsp;&nbsp;Bangor Daily NewsMaine CDC confirms first case of Powassan virus this year&nbsp;&nbsp;Maine PublicDeadly tick-borne disease that can cause brain damage spreading across the US&nbsp;&nbsp;FOX WeatherNew Hampshire man hospitalized for weeks after contracting tick-borne illness&nbsp;&nbsp;WMUR",
+      "summary": "Maine reports first case of rare tick-borne disease this year&nbsp;&nbsp;WGMEMaine CDC confirms first case of Powassan virus this year&nbsp;&nbsp;Maine PublicWhat’s driving New England’s tick boom? Here are key moments that led to the surge.&nbsp;&nbsp;The Boston GlobePowassan Virus: Symptoms, Transmission, Treatment & Prevention&nbsp;&nbsp;Tua SaúdeTick Invasion Among Worst In Past Decade, Reaches Maine, CDC Warns Public To Be On Alert&nbsp;&nbsp;The Maine Wire",
       "sources": [
         {
           "name": "WGME",
@@ -366,10 +354,22 @@
       ]
     },
     {
+      "id": "dec9600b0bd3",
+      "title": "Can wiggling your pinky really stop cognitive decline? - The Conversation",
+      "published": "2026-06-24T09:48:29+00:00",
+      "summary": "Can wiggling your pinky really stop cognitive decline?&nbsp;&nbsp;The Conversation10-second ‘hack’ to test for deadly disease&nbsp;&nbsp;News.com.au‘Pinky Time’ Is Trending as a Way to Boost Brain Health — Does It Work?&nbsp;&nbsp;Everyday HealthThis Hand Exercise Is Going Viral to Help Prevent Alzheimer's—Here's What Neurologists Think&nbsp;&nbsp;Good HousekeepingThis 5-Second Pinky Exercise To Reduce Dementia Is Going Viral — And Neurologists Have Thoughts&nbsp;&nbsp;AOL.com",
+      "sources": [
+        {
+          "name": "The Conversation",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVjlRYTNqdUU5WUtmN0phRGExRFRXekwtZ1M0d0hZYmlJZERLVmJtbWlLT0loWTNpcXp1SUR1NVJ2eThsSUpqLW5YemI4bVdUMUhUQXc5Rm9PanV2MVBfRk9DZzZaLUJHQWhmSWowaExtZkRTS3RrcVozVlBxbkM0bkJDMTRPWlZ5NzdoNTlhdzBUUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "87f8d319bd19",
       "title": "The Wearable Data Your Doctor Actually Wants - The New York Times",
       "published": "2026-06-24T09:01:25+00:00",
-      "summary": "The Wearable Data Your Doctor Actually Wants&nbsp;&nbsp;The New York TimesUnaddressed implications of the FDA’s 2026 guidance on wellness devices&nbsp;&nbsp;NatureWhat wearable AI means for the Next decade of Healthcare&nbsp;&nbsp;vocal.mediaWearables Evolve Into Preventive Healthcare Platforms&nbsp;&nbsp;Fitt InsiderFDA wearable health tech guidelines 2026: What London's fitness enthusiasts need to know about your smartwatch data&nbsp;&nbsp;London Daily News",
+      "summary": "The Wearable Data Your Doctor Actually Wants&nbsp;&nbsp;The New York TimesAt CMS, Oz Eyes Faster Tech Approvals and a 'Power to Convene'&nbsp;&nbsp;U.S. News & World ReportHealth Outcomes Data For Wearables Key To Medicare Coverage Expansion&nbsp;&nbsp;ForbesWhat wearable AI means for the Next decade of Healthcare&nbsp;&nbsp;vocal.mediaWearables Evolve Into Preventive Healthcare Platforms&nbsp;&nbsp;Fitt Insider",
       "sources": [
         {
           "name": "The New York Times",
@@ -381,7 +381,7 @@
       "id": "3dae4ef4210d",
       "title": "Inside the gold-mining town where the Ebola outbreak likely started - NPR",
       "published": "2026-06-24T09:00:00+00:00",
-      "summary": "Inside the gold-mining town where the Ebola outbreak likely started&nbsp;&nbsp;NPREbola cases in Congo reach highest first-month total of any outbreak, WHO says&nbsp;&nbsp;ReutersEbola cases in DRC surpass 1,000 as UNICEF warns millions of children at risk&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosEbola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda&nbsp;&nbsp;World Health Organization (WHO)How Bad Could the Ebola Outbreak Get? Latest on Testing, T",
+      "summary": "Inside the gold-mining town where the Ebola outbreak likely started&nbsp;&nbsp;NPRCongo says number of confirmed Ebola cases rises to 1,118&nbsp;&nbsp;ReutersEbola Epidemic in the DRC: Explainer&nbsp;&nbsp;Africa Center for Strategic StudiesWHO Director-General's opening remarks at the media briefing – 24 June 2026&nbsp;&nbsp;World Health Organization (WHO)How Bad Could the Ebola Outbreak Get? Latest on Testing, Tracing and Vaccines&nbsp;&nbsp;The New York Times",
       "sources": [
         {
           "name": "NPR",
@@ -393,7 +393,7 @@
       "id": "f66e35010a53",
       "title": "Younger Adults May Be Aging Faster Than Previous Generations - ScienceAlert",
       "published": "2026-06-24T07:19:38+00:00",
-      "summary": "Younger Adults May Be Aging Faster Than Previous Generations&nbsp;&nbsp;ScienceAlertBiological aging and generational shifts in early-onset cancer risk&nbsp;&nbsp;NatureAge fast, get cancer young: the ‘global surge’ hitting under-50s&nbsp;&nbsp;The TimesMillennials may not be aging as well as they think — study finds ’90s babies are aging faster, have higher cancer risk&nbsp;&nbsp;New York PostFaster aging in younger generations linked to rise in early-onset cancer&nbsp;&nbsp;WashU Medicine",
+      "summary": "Younger Adults May Be Aging Faster Than Previous Generations&nbsp;&nbsp;ScienceAlertBiological aging and generational shifts in early-onset cancer risk&nbsp;&nbsp;NatureFaster biological aging may explain rising early-onset cancers&nbsp;&nbsp;News-MedicalAge fast, get cancer young: the ‘global surge’ hitting under-50s&nbsp;&nbsp;The TimesFaster aging in younger generations linked to rise in early-onset cancer&nbsp;&nbsp;WashU Medicine",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -402,10 +402,22 @@
       ]
     },
     {
+      "id": "6ff14d540bc5",
+      "title": "Study challenges a common belief about vitamin D and sunlight - ScienceDaily",
+      "published": "2026-06-24T04:47:32+00:00",
+      "summary": "Study challenges a common belief about vitamin D and sunlight&nbsp;&nbsp;ScienceDailyVitamin D in India: Moving from deficiency talk to daily health action&nbsp;&nbsp;The Times of IndiaThe Sunshine Vitamin’s Hidden Power&nbsp;&nbsp;Deccan ChronicleWe’ve Been Wrong About Sunlight for Decades—Here’s What the Science Says&nbsp;&nbsp;inc.comMore screens, less sunshine: Why children are becoming vitamin D deficient&nbsp;&nbsp;India Today",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40dURza3dCRFhuN2tDS2s4V0tnWFJyVHpxR05PSzhBc2d4Ym01ZXBPcmFHSmxIYzBuTmN0b2pxcFNkbHpmRnhXREVjdXlBRkJXYVZFb3BZMWNSRTZjV25oQ3lOVWxBeEJMZmdxazYzdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "269ad06d3094",
       "title": "As cancer death rates plunge, clear disparities remain, new report says - NBC News",
       "published": "2026-06-24T04:01:00+00:00",
-      "summary": "As cancer death rates plunge, clear disparities remain, new report says&nbsp;&nbsp;NBC NewsCancer mortality falls 35% in the US since 1991, but some tumors are rising again&nbsp;&nbsp;DemócrataAACR report highlights unequal burden of cancer in the United States&nbsp;&nbsp;News-MedicalPhiladelphia cancer survivor's story sheds light on persisting racial disparities in new report&nbsp;&nbsp;CBS NewsKeck School of Medicine of USC faculty help lead national cancer disparities report&nbsp;&nbsp;Keck ",
+      "summary": "As cancer death rates plunge, clear disparities remain, new report says&nbsp;&nbsp;NBC NewsHaving survived colorectal cancer, this Philly woman is now speaking out against cancer disparities&nbsp;&nbsp;PhillyVoiceReport highlights progress and ongoing cancer challenges for Asian Americans&nbsp;&nbsp;Northwest Asian WeeklyRural areas lag behind in cancer treatment and prevention – even as rich, urban areas increasingly leave dying from cancer in the rearview&nbsp;&nbsp;The HinduKeck School of Med",
       "sources": [
         {
           "name": "NBC News",
@@ -417,7 +429,7 @@
       "id": "430447de37c7",
       "title": "Australia ramps up bird flu testing as second state reports case - Reuters",
       "published": "2026-06-24T02:38:00+00:00",
-      "summary": "Australia ramps up bird flu testing as second state reports case&nbsp;&nbsp;ReutersThousands of baby seals died on two remote sub-Antarctic islands. Scientists now think they know why&nbsp;&nbsp;CNNAustralia confirms first case of H5N1 bird flu as virus reaches every continent&nbsp;&nbsp;BBCWestern Australian poultry farms locked down as second wild bird dies from H5N1 bird flu&nbsp;&nbsp;The GuardianDeadly bird flu discovered in second Australian state&nbsp;&nbsp;Australian Broadcasting Corpora",
+      "summary": "Australia ramps up bird flu testing as second state reports case&nbsp;&nbsp;ReutersThousands of baby seals died on two remote sub-Antarctic islands. Scientists now think they know why&nbsp;&nbsp;CNNAustralia confirms first case of H5N1 bird flu as virus reaches every continent&nbsp;&nbsp;BBCBird flu has spread to two Australian states. Here’s how it could accelerate our extinction crisis&nbsp;&nbsp;The ConversationTasmanian devils, swift parrots, black swans: the animals at risk if bird flu take",
       "sources": [
         {
           "name": "Reuters",
@@ -462,14 +474,14 @@
       ]
     },
     {
-      "id": "f5a4dd63cbb2",
-      "title": "Most IVF ‘add-on’ treatments have no effect on fertility or remain unproven, study says - The Guardian",
-      "published": "2026-06-23T22:30:00+00:00",
-      "summary": "Most IVF ‘add-on’ treatments have no effect on fertility or remain unproven, study says&nbsp;&nbsp;The GuardianServices Sold to Boost I.V.F. Odds Backed by Little Evidence, Study Finds&nbsp;&nbsp;The New York TimesDo high-tech “addons” increase the chance that IVF will work?&nbsp;&nbsp;The EconomistMost IVF ‘add-ons’ don’t improve chances of having baby—largest evidence review finds. Only 3 may help&nbsp;&nbsp;ThePrintIVF add-ons are common in Australia, but there's no proof most work&nbsp;&nbsp",
+      "id": "b22c0dc4b75c",
+      "title": "Services Sold to Boost I.V.F. Odds Backed by Little Evidence, Study Finds - The New York Times",
+      "published": "2026-06-23T22:30:02+00:00",
+      "summary": "Services Sold to Boost I.V.F. Odds Backed by Little Evidence, Study Finds&nbsp;&nbsp;The New York TimesMost IVF ‘add-on’ treatments have no effect on fertility or remain unproven, study says&nbsp;&nbsp;The GuardianDo high-tech “addons” increase the chance that IVF will work?&nbsp;&nbsp;The EconomistNew review finds unnecessary financial strain on couples trying to conceive&nbsp;&nbsp;9NowIVF add-ons are common in Australia, but there's no proof most work&nbsp;&nbsp;Australian Broadcasting Corpor",
       "sources": [
         {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON1A1bTdlWTZSQlhjenJweVhrUDQ1RmppRkx3cGFvZm9uVnRYd3pPeHpHUHpqcWxZTVJwejZ0ZUN6ZzV6d1hmd3Z3cVBJc29qaW5lVVRWQ3hKN3FURnRUaFVXbk9VZWRVa1RsaFpfQXhPTXJuR1BmYWZwUXo4YlRLZm1ZOXQzX0JZaDVQSmlYdFBDdnllYXhhLUY0OC1CeXlwREdTaA?oc=5"
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPay11bjRmUS1fSE13SzhUNFhUcmxzSmg5cjhwSGdLWmxfdWFxZ2YwQ2tJVWdxcDZNdVp2QlpweURfd2x6b0ZNRS1UWVdGZzBDMlFUa1BsUDktXzdMdk9MaHJWdlZyS2kwSlVVUlFaa0pVUmw2cnJPUjVmUHhYYmtUdGdyTXlBQQ?oc=5"
         }
       ]
     },
@@ -482,6 +494,18 @@
         {
           "name": "Yahoo",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc0o0QkNsN2ctRHRIVUFBWENmbVhZbE13Vnpsb0tfeFh4N0ozYzI5SFBPT2txZDFTTEpTWm91VElKcUtBZmdaUkdURmFvelJYZWNiLWE4V3BXWEJ4N0d2NTlBVVJmOGw2OWRGMmZsUFNwZVZtSUxvY3FQc2RBZktTa0lTdGpiRTdDekZaN2ZmWnY2bkV6RDUwX2MxVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "099a3b84bdb8",
+      "title": "A highly infectious disease has been found in Utah's wild rabbit population again - KSL News",
+      "published": "2026-06-23T21:45:02+00:00",
+      "summary": "A highly infectious disease has been found in Utah's wild rabbit population again&nbsp;&nbsp;KSL NewsHighly infectious rabbit disease confirmed in Utah: What experts say to look out for&nbsp;&nbsp;ABC4 UtahA lethal virus has been found among Utah’s wild rabbits. Here’s what to know.&nbsp;&nbsp;The Salt Lake TribuneUtah wildlife officials confirm deadly rabbit disease in Summit County&nbsp;&nbsp;TownLift, Park City News",
+      "sources": [
+        {
+          "name": "KSL News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdXBvazlnRm9NTHgwc2p3dG5Ybm0xLWVacTdoRXAxQXdmRDFaaFpXYmdCQnNEZXBNOTdPcGRKdHFkYXdjT0NFbzJyQ1ZaMldrQ29pdnhmUUc2cEZhSzJEbDNZM1laSWl1YkhGSXo3cWhPZHpGZU9xY3R5Snh0Q09fbkRiV29yLUVSaGx5RlBucFF5WnFqcy1YcUxwMnQ5bl94RzlHM2ZTZjlJLTdLaUFJMUpmLVNKLWdU?oc=5"
         }
       ]
     },
@@ -510,18 +534,6 @@
       ]
     },
     {
-      "id": "1a2f2f976622",
-      "title": "A lethal virus has been found among Utah’s wild rabbits. Here’s what to know. - The Salt Lake Tribune",
-      "published": "2026-06-23T20:40:51+00:00",
-      "summary": "A lethal virus has been found among Utah’s wild rabbits. Here’s what to know.&nbsp;&nbsp;The Salt Lake TribuneHighly infectious rabbit disease confirmed in Utah: What experts say to look out for&nbsp;&nbsp;ABC4 UtahA highly infectious disease has been found in Utah's wild rabbit population again&nbsp;&nbsp;KSL NewsUtah wildlife officials confirm deadly rabbit disease in Summit County&nbsp;&nbsp;TownLift, Park City News",
-      "sources": [
-        {
-          "name": "The Salt Lake Tribune",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMXdPTWVaS085ZTM1SHpvT2lZS3BPcm1zMHRnTkVqMkNPenR6OFh3bDc3TnZvMzJKa0NKaWtMQUZJeEs5QTNRLWpSZ2ZNZXk3Z0JxV3JscjVucjBqWldOX016UXNJRUJ1WGpteHJPNlhzTUJNN2JhVng1N25YMTczRHM2anR4MlVOMkpFdg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5d8ba9142830",
       "title": "Israeli breakthrough: man addicted to painkillers detoxes in 20 minutes with sound waves - Ynetnews",
       "published": "2026-06-23T19:28:43+00:00",
@@ -542,6 +554,18 @@
         {
           "name": "Space Daily",
           "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOcXMzdXA1R19KT19wdGhfSUVzbkh5R1d3ZWNqM2I2c2lHc1hyaWpJZXhXenl3b2JYd0d0YWh4T01iNi1CZWpDY21GcmhCa0ZIMHZKSTBHdk5ud0lkLTQ1OWJ1LVo2UzJuMVNiM3ZSS3JNVC10T3NqWXpHY2h6bkhITEo5Vl9Pd3BTRlFlbG92aC1WUF9Sa3JfUXVBTjZMOEhKVzdhSHF6TEJWaVRuYlV5a24xSXplYW0xS3BpMFRGQ2xVRWkyZFBQVUZVZkd2V2ViYVBNS2xYTGJWU2x2X2pJUzdJSk45Q2VlRnVsQWp6RHB0b0ZoeGlvWEJWM1NlcW5fUm1SR21RblRjN1YxcWtDcmZTZV9QcUFJNmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c00d11e35cee",
+      "title": "Alzheimer’s disease: Omega-3 DHA supplements may not reduce risk - Medical News Today",
+      "published": "2026-06-23T17:17:55+00:00",
+      "summary": "Alzheimer’s disease: Omega-3 DHA supplements may not reduce risk&nbsp;&nbsp;Medical News TodayThe omega-3 supplement you take may not be helping your brain&nbsp;&nbsp;CNNFish oil supplements may not prevent Alzheimer’s-related decline&nbsp;&nbsp;Keck Medicine of USCDoes High-Dose Omega-3 Benefit Cognition in Older Adults?&nbsp;&nbsp;MedscapeTaking omega-3 supplement for better memory or cognition? Here's what new research found&nbsp;&nbsp;Firstpost",
+      "sources": [
+        {
+          "name": "Medical News Today",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVVFaNlJJcG9LRk1HX0NPemFnX25CRi16YUJ1R0p6RXd5NDE4Z2J1eGhxZnY1UFdscURiUWlNODV6Mk5qX0hkVXU4ZkRrd3o5ZEFwNTcwZkpncXk5NkNyVVJZZ0dtRkJPZEJKV2RxdDNfYWpuOVJvdlhZQjBKcXBJcnluY0I4eThTNTdvZXhXc2N6Si1KUmlIMngyWkpZZV9nUzN6c1lqNA?oc=5"
         }
       ]
     },
@@ -585,7 +609,7 @@
       "id": "e974b6da71fc",
       "title": "Amino acid-supplemented ‘longevity diet’ linked to longer healthy lifespan - USC Today",
       "published": "2026-06-23T16:11:00+00:00",
-      "summary": "Amino acid-supplemented ‘longevity diet’ linked to longer healthy lifespan&nbsp;&nbsp;USC TodayLow-Protein, Amino Acid-Supplemented ‘Longevity Diet’ Tied to Extended&nbsp;&nbsp;Bioengineer.org",
+      "summary": "Amino acid-supplemented ‘longevity diet’ linked to longer healthy lifespan&nbsp;&nbsp;USC TodayModified Mediterranean Diet Extends Healthy Lifespan in Mice: Study&nbsp;&nbsp;Sci.NewsThe Longevity Trend Women Are Suddenly Trying&nbsp;&nbsp;YahooLow-Protein, Amino Acid-Supplemented ‘Longevity Diet’ Tied to Extended&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
           "name": "USC Today",
@@ -597,23 +621,11 @@
       "id": "20340c64e0a4",
       "title": "Column | Want a younger brain? Exercise in your 40s may help. - The Washington Post",
       "published": "2026-06-23T16:00:00+00:00",
-      "summary": "Column | Want a younger brain? Exercise in your 40s may help.&nbsp;&nbsp;The Washington PostYour brain can be trained, much like your muscles – a neurologist explains how to boost your brain health&nbsp;&nbsp;Index-JournalHow Exercise Supports Memory – and How Scientists Hope to Replicate Its Benefits&nbsp;&nbsp;National Institutes of Health (.gov)Brain Health Is the New Fitness Frontier. Here’s Where to Start.&nbsp;&nbsp;Men's FitnessBrain Health Is the New Fitness Frontier. Here's Where to Sta",
+      "summary": "Column | Want a younger brain? Exercise in your 40s may help.&nbsp;&nbsp;The Washington PostYour brain can be trained, much like your muscles – a neurologist explains how to boost your brain health&nbsp;&nbsp;Index-JournalPsychology says people who solve crosswords and puzzles every day aren't just passing time, they may be tr&nbsp;&nbsp;The Economic TimesHow Exercise Supports Memory – and How Scientists Hope to Replicate Its Benefits&nbsp;&nbsp;National Institutes of Health (.gov)Twelve weeks o",
       "sources": [
         {
           "name": "The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNFNTUTk4Q3dXT3liTzFOVjQ4eXBKZUpIRHQtc1VYd3NUZVlrbGJyRFl1UWtzVTY0ZXI2VVZRVUNSU2FQZjVfMXZlYW01eFFmdkFFT21ZaF85NXZDeEU0WFctTFhubTZCY0owRTctR0RuV0tONTQtbHNSRXRUMENVVXg5WVhYT1NJVzd3ZjFmQ0JXTVpyUVdsemFFRVB3VzhzdGhxVHRn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d2437082150a",
-      "title": "NASA wants to dump the ISS in the sea. Experts say the plan 'raises serious concerns for ocean health' - Space",
-      "published": "2026-06-23T16:00:00+00:00",
-      "summary": "NASA wants to dump the ISS in the sea. Experts say the plan 'raises serious concerns for ocean health'&nbsp;&nbsp;SpaceNASA plans to crash the ISS into the Pacific Ocean: Experts raise concerns for marine ecosystems' health&nbsp;&nbsp;The Times of IndiaThe Next Outpost: NASA’s Plans for Replacing the Aging International Space Station&nbsp;&nbsp;U.S. Government Accountability Office (.gov)What will happen to the International Space Station in 2030?&nbsp;&nbsp;Business TodayNASA's Race to Replace ",
-      "sources": [
-        {
-          "name": "Space",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMGkxQzhUTEZCemJFaTFFWXFjZWdDUklPRTM1VFc5M0puZUc2eVZ5VHV5enE3UjhUdVB2UEl4S2dQSlI2TEVxaTUzRzNXaGp5dzNoaWxNbzhIVmR3akE3NkhfWVB4eUVrNl8zTWhSMTlVc3J0ZzBpTGtJSjNRWF80SEVHWkxkVjl1czJEdklOQzRtd0ZDck55TlJWTWtQZ3Z6ZnRMVDF4U0dqbHlnVW1DelNFY1ZEQlJoX0N4N1NGSkplYTRpcnJRWWtlMk5LZ1Y2UXhpZFdUd0wxWEw5XzFaWjVYRHRZX1ZCVGRwUDVSZHNudnJqMWRmRFhWRQ?oc=5"
         }
       ]
     },
@@ -642,6 +654,18 @@
       ]
     },
     {
+      "id": "62b3e2bc4ff8",
+      "title": "Dementia risk linked to eating 1 type of food, research shows - The Mirror",
+      "published": "2026-06-23T14:31:00+00:00",
+      "summary": "Dementia risk linked to eating 1 type of food, research shows&nbsp;&nbsp;The MirrorHow your diet choices affect your dementia risk | Opinion&nbsp;&nbsp;OakridgerNew Research Links Ultra-Processed Foods to Higher Dementia Risk&nbsp;&nbsp;9and10News.comHow Just an Extra Bag of Chips a Day Is Aging Your Brain and Shortening Your Attention Span&nbsp;&nbsp;inc.comUltra-Processed Foods May Raise Parkinson's Risk 2.5-Fold, Studies Find&nbsp;&nbsp;Seoul Economic Daily",
+      "sources": [
+        {
+          "name": "The Mirror",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMEhDWmphSFBJUkdaNy1DTjRrSURfM2VVQ0d3a2lXbmZSSjNNUXV2bjkwNS1na21YVUhKUTAwMDNwZVhVeldNcnZzMVpHT3E5cW5pc1lNZE9xWGMyNEUxcm5uZ0lZMEg1N2E2X1ljSmF3T3FvV2VNMVVvS2NnX2pkStIBhgFBVV95cUxPU3RmWVRoWWUzVkZyaWlKY09LQm5EVjFiSGlydUM0NVpBOE14WUtVMW54SVdRVEJUVlZzMWdwaXpjM3pCTFltcDkyQ0ZZanM0THdxeXlpc0NQZmZFOXotbmtHWnV6R3hUTDN1X3V6NHRtOHhPa040QkdTV0hTcVBpTFBpR3hFdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "48b14b40a820",
       "title": "Your Taste For Onions May Reveal Something About Your Future Health - ScienceAlert",
       "published": "2026-06-23T13:01:24+00:00",
@@ -650,18 +674,6 @@
         {
           "name": "ScienceAlert",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUkRKVnI5UG9qUUl5R2FqM1BVbUdRVnJvdldYMFhnSTVxVkk2SU4teHFsNmZBVnVscFl1RXBBRFNVcXExX195dFRibWZIMUJYQnNDUGZEN25waVZuRkhmZWtWSHozZ1dlZDBILXVfT3VkdWF2eG9SQkZ4V1dVX3MyVGhkTXZ1U1BxTXQ0NnZjRHNQTDYxVjRpX1llYkk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d98f7c75eccf",
-      "title": "With Mass. cutting weight loss drug coverage, patients scramble to afford prescriptions - WBUR",
-      "published": "2026-06-23T12:25:03+00:00",
-      "summary": "With Mass. cutting weight loss drug coverage, patients scramble to afford prescriptions&nbsp;&nbsp;WBURTrouble getting weight loss drugs covered by insurance? Here's what to know&nbsp;&nbsp;NPRThe economics of obesity drugs: Reimbursement, pricing power, and the next healthcare cost debate&nbsp;&nbsp;StockhouseOzempic has waged a war on America’s junk food. Disrupting a trillion-dollar industry&nbsp;&nbsp;ThePrintLess Volume, More Premium: Post-Ozempic Economics Are Killing The Quantity Model&nb",
-      "sources": [
-        {
-          "name": "WBUR",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN0xiUU13eE85enU1ZGhQWjFfUVZPNGxPV3E2Vjh0M05VQlY0VndIMzVSZ0RqZmhhbjVoLWlGUEoxQ1BtTWUwU29YMnhqWlFVU1NLdUNyYkxVanVRTDRxZnBNdTcydmRFdm5RdGdXb1BDT3F6MGZUV1RxNGRsNnc5R1paWHJCaWhtaE1wbFRTc0NvekE?oc=5"
         }
       ]
     },
@@ -726,6 +738,30 @@
       ]
     },
     {
+      "id": "b4c2bc36cc45",
+      "title": "Exercise and Stress: Do High-Intensity Workouts Spike Cortisol Levels? - The New York Times",
+      "published": "2026-06-23T09:01:44+00:00",
+      "summary": "Exercise and Stress: Do High-Intensity Workouts Spike Cortisol Levels?&nbsp;&nbsp;The New York TimesExperts reveal how cortisol actually supports your workouts and recovery&nbsp;&nbsp;MSNThese 2 Habits Could Be Spiking Your Cortisol More Than You Realize&nbsp;&nbsp;EatingWellHow HIIT Workouts Can Unexpectedly Raise Your Cortisol Levels, According to Experts&nbsp;&nbsp;AOL.comThe ‘Healthy’ Habit That’s Silently Raising Your Cortisol, According to Endocrinologists&nbsp;&nbsp;Parade",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOUtXY21GbXRuMllJU3RudFo1ZnZzazZLV2hPSlBrYllPVGxGZVZtMHpNZkx1NEpfU291clBRdmlmRnRrSXRPUVVyMUxzdGw1TE1WY0kwY3o5OE9KRFVTYlN0RXdBSV9yNGNnQ21ucnMxTmthUHdoaWR4ZlEwTDVGcHU4RHp6WDhY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "927673c81983",
+      "title": "Trouble getting weight loss drugs covered by insurance? Here's what to know - NPR",
+      "published": "2026-06-23T09:00:00+00:00",
+      "summary": "Trouble getting weight loss drugs covered by insurance? Here's what to know&nbsp;&nbsp;NPRWith Mass. cutting weight loss drug coverage, patients scramble to afford prescriptions&nbsp;&nbsp;WBURThe economics of obesity drugs: Reimbursement, pricing power, and the next healthcare cost debate&nbsp;&nbsp;StockhouseOzempic has waged a war on America’s junk food. Disrupting a trillion-dollar industry&nbsp;&nbsp;ThePrintLess Volume, More Premium: Post-Ozempic Economics Are Killing The Quantity Model&nb",
+      "sources": [
+        {
+          "name": "NPR",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVUlFNEhQVlNGY04yUGotYkxzWWgtdnVaRUliWWJQdk4zSFZ1ZkFxcmQ1RG1FN0lTQTUwUVBVU29tUE9HamVVcXQ3Vjhvd0JQQjFHV19CNElMWlNyZmpaNnk0dGFGRmRSd3FYa1l0SjBSSm5vSHpwbmlwc2lndXYxVnBPMmJkbmM?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f145c9263292",
       "title": "Researchers explore immunotherapy to revive natural hair color - WCNC",
       "published": "2026-06-23T09:00:00+00:00",
@@ -734,42 +770,6 @@
         {
           "name": "WCNC",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQX2ZKSm9zTGcyUm9rRTg5WlhqSTExQ3RMNUpsUUp2SURhRHNGOTJ3LWUyOFBGcGI2WHBmU2tQdUFqVndaZ1dMS0VrblFiR3NjRXN0RjFBZHRjWU1Da25nMlBpcnhDcWs5RXI4eGMyeWdrc3FhLTJYaVNuZFlRbFRvZC0wenZ1LU5KaVRJdDJYUW1jOHYtblQzbHhXTml1cTI4cDU0QmlYU3RWTXZZeEl2TFAtZUhRNHFyN1hSTElXNmtfZDJsaDBqQzNULTFhdVAxa0UtYnd1ZktWTnlXSnFLcEpB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9b7db3890668",
-      "title": "One Protein May Prevent Brain Process Linked to Alzheimer’s and Parkinson’s - Newsweek",
-      "published": "2026-06-23T08:45:00+00:00",
-      "summary": "One Protein May Prevent Brain Process Linked to Alzheimer’s and Parkinson’s&nbsp;&nbsp;NewsweekTubulin prevents toxic brain protein clumps linked to Alzheimer’s and Parkinson’s&nbsp;&nbsp;ScienceDailyFrom Labs to Life: Another Alzheimers Breakthrough&nbsp;&nbsp;The Times of IsraelBaylor College of Medicine Scientists Find Tubulin Protein Prevents Tau and Alpha-Synuclein Clumping in Alzheimer's and Parkinson's&nbsp;&nbsp;Medical Daily",
-      "sources": [
-        {
-          "name": "Newsweek",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZC0wREhpU1hLN3g2QWJxaTktY1JYVllRM29jU2Y1UUxqTGlrYVVxN3duVVRCclhlQlNyM2d0bE1wcUU5aEF2WjVpeG1WNWVfZTkzZzl2YmJDeDdxUG4wYnZHMFYzdHdocWZOU04yc1p2el85QV85UWEtaG1CYnJvY0hhLTRqRUtPM09IcDMwXzI0WjNPUUFQc21tcWxxNUZ1WWJMbXhsX3g3emc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "114db1fd5357",
-      "title": "4 Supplements That Can Damage Your Liver - EatingWell",
-      "published": "2026-06-23T07:00:00+00:00",
-      "summary": "4 Supplements That Can Damage Your Liver&nbsp;&nbsp;EatingWellSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOcy03LW1Yd082WDUtajV5VlVOcXpFNGhqLXdTalNjWkFlVHE1eXE4YVlFZGRIdUVqcEFCQnlEMDhIVmNwOTAxUnotX2pCM2pjYm0yREFVdUtwN2tvZFlzal9qQW5hS2xvOXMybG4wd3ZFNDlINmhvd3JtOWJrVFU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7680876c7713",
-      "title": "This emerging treatment is helping people avoid knee replacement surgery - ScienceDaily",
-      "published": "2026-06-23T03:07:02+00:00",
-      "summary": "This emerging treatment is helping people avoid knee replacement surgery&nbsp;&nbsp;ScienceDailyFor Chronic Knee Pain, Genicular Artery Embolization Provides a New Alternative&nbsp;&nbsp;CU Anschutz newsroomNonsurgical Procedure Provides Lasting Relief for Knee Pain&nbsp;&nbsp;Ortho Spine NewsNot Ready for a Knee Replacement? A Minimally Invasive Procedure May Ease Chronic Pain Without Joint Replacement&nbsp;&nbsp;Discover MagazineNextBioMedical Applies for New Medical Technology Evaluation of G",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yZUR4cVZOVlZIWVZ4TVJQOTlMcUtRVDQyVjhBZmZ0SGVwUU5YZDNDZG9jVmp2ZF8zaHpFb19RckZuUUk1TUliaDd1elQwQjgwa0V4NnBqSGsyTmZaNU1YWk50Y1p3X0Z0S05lM01ORQ?oc=5"
         }
       ]
     }

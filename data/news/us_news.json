@@ -1,15 +1,63 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-06-25T09:27:01.533709+00:00",
-  "total_fetched": 127,
-  "unique_count": 127,
-  "health_related_count": 64,
+  "fetched_at": "2026-06-25T14:38:15.983802+00:00",
+  "total_fetched": 118,
+  "unique_count": 118,
+  "health_related_count": 59,
   "news": [
+    {
+      "id": "5072d349103c",
+      "title": "After a brain injury, he found purpose fixing bikes no one else would bother with - The Washington Post",
+      "published": "2026-06-25T13:41:02+00:00",
+      "summary": "After a brain injury, he found purpose fixing bikes no one else would bother with&nbsp;&nbsp;The Washington Post",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTy1OLUExSTRURnpzaWlENWFsRjBWUHBpWE5hSTBxb1p4WEJHcWxtN0E3MnQyRHJzcXpUdzdhOUQ5TGdRa2k3eUp4MkpkY3d4SlV6dzZvQUw0Y01CS01KSGdfY09la3BIZXBJMndoZzVDdWhhenlMNnRDTE5XN2ZrZzNuMkQ2bkhuYVphb1BxZHdDNjQydGRUWC1BX05NNGhWd2xWRTdRME5MVHdvYTF0cVFyV0FDM1hIZVVj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f6c5d0eb153a",
+      "title": "Latest COVID vaccine may have unexpected health benefit, study suggests - Fox News",
+      "published": "2026-06-25T11:00:26+00:00",
+      "summary": "Latest COVID vaccine may have unexpected health benefit, study suggests&nbsp;&nbsp;Fox NewsSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmtkdE1nN21HVUxaT2pxUWYxa1lQUDQxSGlVVU5DYVlmVERhcF9CbjktZVJpOURmLURTeEFRQm5idWR3d1VyLWd3VXMzUEhjY1ZPVTNCX0p2S3RwemZESVNFaFV2SjllbmpGT1l1aW15VEtLYUdoZVZ6TzlFYUIyZ21DcnRUTlF6RXZzdHpvR04zdXFMUll6bjc2Y1FIeVlNZ1HSAacBQVVfeXFMUE1mY2F6YkVYZzJaampROGZwQzBBck83YTJPZ20xSndIVlpZdkwzTmFfY0RaUWlUZlhEZmlFdmJQNjdTZ185Ykp1VHBiYXhXQW90Sl9QQzNJOEJwWlB6cElVRmtmOHpLanJRTjlBZks5TVFIVF9HNzhUUjdhQjRVMGxlLW5tTEdjc04wVFVjOUFfa05wSTk2ekZ3M3BSRFl1TE9jSjd5TkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f62148029b75",
+      "title": "These Beloved Snacks Are Linked To An Increased Dementia Risk. Here's What Doctors Want You To Know. - HuffPost",
+      "published": "2026-06-25T11:00:17+00:00",
+      "summary": "These Beloved Snacks Are Linked To An Increased Dementia Risk. Here's What Doctors Want You To Know.&nbsp;&nbsp;HuffPostSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "HuffPost",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMVhieWxvdXBrTEd5ZEFtNGVoMl8zanhLODhlU3d5czdjbUNzZlA4QTVZZlZoZUNZRng4eElrT0FETG5oOFJzWWQ1bHY0WFItbGc4MEoybXVPUGsyaEZxMWh1YnpvaXB5eURocVB0Q0FRbWp5c0pDZnlIQ3NFaVVBY2hRWGwwbG1meFFwLWtmSzMzTlNKOXUtenBB0gGfAUFVX3lxTE1GaUg0dV9uSmlEMzNWLXhFbUNocmpMeVkxWXNxdW54RzY2c3FQYktJd0RyNmhJWjROdU5EaGxWUWNkRTIyLWE3NHJCTmRXS1lkSVFFRzU5ZTA5c01oQmhTZ0w3dWNYRXBlcVlYUnVoZ3B4YnpQVEZ5Y2RFVzc2Yld5SjNrVzRxQmVHWUhqamFyN1Q5MWpMYWRrQWMzUmJQNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "41a09b5b0689",
+      "title": "The Subtle Physical Clue That Could Indicate Your Dog Has Dementia - ScienceAlert",
+      "published": "2026-06-25T05:04:41+00:00",
+      "summary": "The Subtle Physical Clue That Could Indicate Your Dog Has Dementia&nbsp;&nbsp;ScienceAlertPaws for thought: Short strides might indicate doggy dementia&nbsp;&nbsp;ScimexA Dog’s Shortening Front Stride Can Signal Dementia Before the Memory Goes&nbsp;&nbsp;ScienceBlog.comIf your dog’s steps are getting shorter, it could be an early warning sign of dementia – here’s what vets want you to watch for&nbsp;&nbsp;Starts at 60",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU1E0TmdLbEZfOEt4WmpzXzViLTNqRTcxWVJ4bkhkeEM3cFFCTUJ0cVR1RUF3bXlqYXZXZU5rcWVSVlhSQlVSZ05Da01fek1JMFk5aXJLN1NxaV9yNmszT0tjR0VuUF9wajc4cHI5TjQ5SmlTOFpWWklVeXpzWFczVllnVmN1ckptcjNzZ3R1NlVibkFpalFKaFNiSQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "749624b7d7cc",
       "title": "Ancient DNA Reveals a Genetic Surprise in The Last Neanderthals - ScienceAlert",
       "published": "2026-06-25T01:24:41+00:00",
-      "summary": "Ancient DNA Reveals a Genetic Surprise in The Last Neanderthals&nbsp;&nbsp;ScienceAlertNew DNA study of Neanderthals bolsters suspicions of human-driven extinction&nbsp;&nbsp;EL PAÍS EnglishGenetic diversity of late Neanderthals in northwestern Europe&nbsp;&nbsp;NatureSome of the last Neanderthals were surprisingly genetically diverse&nbsp;&nbsp;New ScientistEurope’s last Neanderthals were genetically diverse and connected, study finds&nbsp;&nbsp;Archaeology News Online Magazine",
+      "summary": "Ancient DNA Reveals a Genetic Surprise in The Last Neanderthals&nbsp;&nbsp;ScienceAlertGenetic diversity of late Neanderthals in northwestern Europe&nbsp;&nbsp;NatureNew DNA study of Neanderthals bolsters suspicions of human-driven extinction&nbsp;&nbsp;EL PAÍS EnglishSome of the last Neanderthals were surprisingly genetically diverse&nbsp;&nbsp;New ScientistEurope’s last Neanderthals were genetically diverse and connected, study finds&nbsp;&nbsp;Archaeology News Online Magazine",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -21,7 +69,7 @@
       "id": "26bbce79ad45",
       "title": "Antibiotic cocktail made by soil bacteria can kill superbugs - Nature",
       "published": "2026-06-25T01:01:37+00:00",
-      "summary": "Antibiotic cocktail made by soil bacteria can kill superbugs&nbsp;&nbsp;NatureA Streptomyces megacluster encodes synergistic biotin-targeting antibiotics&nbsp;&nbsp;NatureManikomycin: YouTube Sensation or Just An Overhyped Antibiotic&nbsp;&nbsp;American Council on Science and HealthLandmark study reveals ‘megacluster’ of bacterial genes behind arsenal of potent antibiotics&nbsp;&nbsp;Faculty of Health Sciences - McMaster UniversityNew antibiotic targets a hidden weak spot in drug-resistant bacte",
+      "summary": "Antibiotic cocktail made by soil bacteria can kill superbugs&nbsp;&nbsp;NatureA Streptomyces megacluster encodes synergistic biotin-targeting antibiotics&nbsp;&nbsp;NatureManikomycin: YouTube Sensation or Just An Overhyped Antibiotic&nbsp;&nbsp;American Council on Science and HealthNew antibiotic targets a hidden weak spot in drug-resistant bacteria&nbsp;&nbsp;Earth.comLandmark study reveals ‘megacluster’ of bacterial genes behind arsenal of potent antibiotics&nbsp;&nbsp;Faculty of Health Scienc",
       "sources": [
         {
           "name": "Nature",
@@ -45,7 +93,7 @@
       "id": "5a8fa2de0dbd",
       "title": "Measles case confirmed in person who traveled through Hollywood Burbank Airport - KTLA",
       "published": "2026-06-25T00:09:26+00:00",
-      "summary": "Measles case confirmed in person who traveled through Hollywood Burbank Airport&nbsp;&nbsp;KTLAMeasles exposure reported at Hollywood Burbank Airport, county health officials say&nbsp;&nbsp;NBC Los AngelesMeasles-infected traveler may have exposed passengers at LAX and nearby hotel, health officials warn&nbsp;&nbsp;Fox NewsHealth Officials Warn of Measles Exposure at LAX&nbsp;&nbsp;MyNewsLA.comLos Angeles County confirms seventh measles case of the year&nbsp;&nbsp;CBS News",
+      "summary": "Measles case confirmed in person who traveled through Hollywood Burbank Airport&nbsp;&nbsp;KTLA7th measles case&nbsp;&nbsp;laist.comMeasles-infected traveler may have exposed passengers at LAX and nearby hotel, health officials warn&nbsp;&nbsp;Fox NewsYou may have been exposed to measles at these LA locations in June&nbsp;&nbsp;USA TodayLos Angeles County confirms seventh measles case of the year&nbsp;&nbsp;CBS News",
       "sources": [
         {
           "name": "KTLA",
@@ -78,10 +126,22 @@
       ]
     },
     {
+      "id": "ab11f649a707",
+      "title": "For decades, scientists repeated as established fact that bacteria in the human body outnumber human cells ten to one — a 2016 study by the Weizmann Institute of Science reviewed the original source and found the actual ratio is closer to 1:1, making the figu - Space Daily",
+      "published": "2026-06-24T22:00:49+00:00",
+      "summary": "For decades, scientists repeated as established fact that bacteria in the human body outnumber human cells ten to one — a 2016 study by the Weizmann Institute of Science reviewed the original source and found the actual ratio is closer to 1:1, making the figu&nbsp;&nbsp;Space Daily",
+      "sources": [
+        {
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPZzhObG4zUl9vM2NGZTd3NTZyMVFuNU1QOWlHYTJfZ0xHUnBsdXU1dEdqX1MtZ2RZRnl1S2tFc0oxalpxQy02UjJWbGJHSGlMU3ROVUpVOV9qdy1td3JQTktOTzlwRDRidkJJcHJ4b01oczVROVU3d0lqN3ZTVVhPTlU3UHZENzB4ZjVUNE5KQVpJZjlTeUxXLUMydThsNzVuOXJ6VTlBbG9kaWpJdU1MNnppdTVWN3J6c1JmYU00UGF2SkdiLW54UlUzVGxMX3NLUHkwWlR0Ty1hX0Q5LTlnakhFVUNzWUdkRHdZLTRfNkRMaktHMllYVDZXSWdkNWU0dW1iRzQyenQ1M19XYUlBZC1qRXpBWWNMLWpqLVR5WV9GS0FXd3ByUFZvZWFlR3ZXTklUNjdId3lpUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3551b2c84d0f",
       "title": "US ends hantavirus outbreak response with no answers on draconian quarantines - Ars Technica",
       "published": "2026-06-24T21:28:39+00:00",
-      "summary": "US ends hantavirus outbreak response with no answers on draconian quarantines&nbsp;&nbsp;Ars TechnicaThe hantavirus quarantine is over. Here’s what cruise passengers and scientists learned.&nbsp;&nbsp;NBC NewsExclusive | CDC Ends Hantavirus Response as U.S. Outbreak Risk Diminishes&nbsp;&nbsp;WSJUS public health agency concludes hantavirus response as outbreak eases&nbsp;&nbsp;Al JazeeraHantavirus quarantine ends for Americans held for six weeks in Nebraska&nbsp;&nbsp;The Guardian",
+      "summary": "US ends hantavirus outbreak response with no answers on draconian quarantines&nbsp;&nbsp;Ars TechnicaThe hantavirus quarantine is over. Here’s what cruise passengers and scientists learned.&nbsp;&nbsp;NBC NewsExclusive | CDC Ends Hantavirus Response as U.S. Outbreak Risk Diminishes&nbsp;&nbsp;WSJHantavirus quarantine ends for Americans held for six weeks in Nebraska&nbsp;&nbsp;The GuardianDeadly Hantavirus outbreak should end on 2 July, WHO says&nbsp;&nbsp;Euronews.com",
       "sources": [
         {
           "name": "Ars Technica",
@@ -93,7 +153,7 @@
       "id": "b1a15fa405fe",
       "title": "This is the largest and most detailed image of our Milky Way — with over 60 million stars and 50 exoplanet systems - Space",
       "published": "2026-06-24T21:00:00+00:00",
-      "summary": "This is the largest and most detailed image of our Milky Way — with over 60 million stars and 50 exoplanet systems&nbsp;&nbsp;SpaceESA’s Euclid captures the Milky Way’s crowded heart&nbsp;&nbsp;European Space AgencyMillions of stars light up largest and most detailed shot of Milky Way’s centre&nbsp;&nbsp;The GuardianTelescope captures most detailed image yet of Milky Way's heart: \"Cosmic magnifying glass\"&nbsp;&nbsp;CBS NewsEuclid View of Milky Way Heart Previews Core Survey by NASA’s Roman&nbsp",
+      "summary": "This is the largest and most detailed image of our Milky Way — with over 60 million stars and 50 exoplanet systems&nbsp;&nbsp;SpaceESA’s Euclid captures the Milky Way’s crowded heart&nbsp;&nbsp;European Space AgencyTelescope captures most detailed image yet of Milky Way's heart: \"Cosmic magnifying glass\"&nbsp;&nbsp;CBS NewsMillions of stars light up largest and most detailed shot of Milky Way’s centre&nbsp;&nbsp;The GuardianEuclid View of Milky Way Heart Previews Core Survey by NASA’s Roman&nbsp",
       "sources": [
         {
           "name": "Space",
@@ -105,7 +165,7 @@
       "id": "82f511b226e0",
       "title": "Grand Rapids oncologist says experimental pancreatic cancer drug showing promise in trials offers hope - WZZM13.com",
       "published": "2026-06-24T20:10:00+00:00",
-      "summary": "Grand Rapids oncologist says experimental pancreatic cancer drug showing promise in trials offers hope&nbsp;&nbsp;WZZM13.comNew Drug Shows Survival Gains in Pancreatic Cancer&nbsp;&nbsp;AARPA new drug targets one of cancer’s master switches&nbsp;&nbsp;The EconomistFinding ways to ‘drug the undruggable’ diseases&nbsp;&nbsp;Harvard GazetteChattanooga doctor weighs in on new experimental drug for severe Pancreatic Cancer&nbsp;&nbsp;WTVC",
+      "summary": "Grand Rapids oncologist says experimental pancreatic cancer drug showing promise in trials offers hope&nbsp;&nbsp;WZZM13.comNew Drug Shows Survival Gains in Pancreatic Cancer&nbsp;&nbsp;AARPFinding ways to ‘drug the undruggable’ diseases&nbsp;&nbsp;Harvard GazetteChattanooga doctor weighs in on new experimental drug for severe Pancreatic Cancer&nbsp;&nbsp;WTVCNew drug could double survival time in patients with advanced pancreatic cancer&nbsp;&nbsp;News-Medical",
       "sources": [
         {
           "name": "WZZM13.com",
@@ -114,10 +174,22 @@
       ]
     },
     {
+      "id": "e3c84084c9b1",
+      "title": "Uneven cerebellum aging may partly explain why some older adults stay mentally sharp - Medical Xpress",
+      "published": "2026-06-24T19:40:05+00:00",
+      "summary": "Uneven cerebellum aging may partly explain why some older adults stay mentally sharp&nbsp;&nbsp;Medical XpressThe ‘little brain’ may give the aging mind a big boost&nbsp;&nbsp;Science NewsAuthor Correction: Cerebellar aging is spatially heterogeneous and supports cognitive resilience in later life&nbsp;&nbsp;NatureCerebellar Aging Impairs Balance, Cognitive Functions in Elderly&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMnA0X3dSNC1SdGJ3ZDBvQ3h2NXpueU9ydl9kRUNJOXdFV0NQZGY5T2hpV1BqQXRWd2VJd2dVMGZ4UThKR1J2N0VzS0xlSjZTWE90Q2kxc2dqUlFxQzd3OUFJSFJMVVRGVVBzcnN3d05hMDFkZ2dXdmlIeEZ6bzlDU0hMdlFJT0U?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1f12b7669b0a",
       "title": "What was in the COVID-19 vaccine study CDC withheld? - Deseret News",
       "published": "2026-06-24T19:24:06+00:00",
-      "summary": "What was in the COVID-19 vaccine study CDC withheld?&nbsp;&nbsp;Deseret NewsCDC’s chief blocked a covid vaccine study. Now it’s in a top medical journal.&nbsp;&nbsp;The Washington PostCovid vaccine study the acting CDC director blocked is published in an outside journal&nbsp;&nbsp;NBC NewsStudy suggests 2025-26 COVID vaccine cuts emergency, urgent care visits by half&nbsp;&nbsp;CIDRAPCOVID Vaccine Efficacy Study, Initially Blocked from CDC Journal, Published Elsewhere&nbsp;&nbsp;People.com",
+      "summary": "What was in the COVID-19 vaccine study CDC withheld?&nbsp;&nbsp;Deseret NewsCovid vaccine study the acting CDC director blocked is published in an outside journal&nbsp;&nbsp;NBC NewsStudy suggests 2025-26 COVID vaccine cuts emergency, urgent care visits by half&nbsp;&nbsp;CIDRAPCOVID Vaccine Efficacy Study, Initially Blocked from CDC Journal, Published Elsewhere&nbsp;&nbsp;People.comCDC’s chief blocked a covid vaccine study. Now it’s in a top medical journal.&nbsp;&nbsp;The Washington Post",
       "sources": [
         {
           "name": "Deseret News",
@@ -129,7 +201,7 @@
       "id": "31d4e1cda707",
       "title": "Micro-workouts: how to get fitter and healthier in 5 minutes - The Times",
       "published": "2026-06-24T19:00:00+00:00",
-      "summary": "Micro-workouts: how to get fitter and healthier in 5 minutes&nbsp;&nbsp;The TimesWant to feel happier at work? Take a five-minute walk&nbsp;&nbsp;BBCFive-minute walk offsets the harm of sitting too long&nbsp;&nbsp;The TelegraphHow I used public radio to recruit 20,000 participants for a peer-reviewed study on walking breaks&nbsp;&nbsp;statnews.comSitting at your desk all day? Get up and get moving!&nbsp;&nbsp;Baylor College of Medicine Blog Network -",
+      "summary": "Micro-workouts: how to get fitter and healthier in 5 minutes&nbsp;&nbsp;The TimesEven 5-Minute Movement Breaks Can Boost Your Mood And Fight Fatigue&nbsp;&nbsp;U.S. News & World ReportWant to feel happier at work? Take a five-minute walk&nbsp;&nbsp;BBCFive-minute walk offsets the harm of sitting too long&nbsp;&nbsp;The TelegraphHow I used public radio to recruit 20,000 participants for a peer-reviewed study on walking breaks&nbsp;&nbsp;statnews.com",
       "sources": [
         {
           "name": "The Times",
@@ -141,7 +213,7 @@
       "id": "6f5647d93330",
       "title": "Three Las Vegas area ZIP codes report West Nile virus-positive mosquitoes - Las Vegas Sun",
       "published": "2026-06-24T18:00:00+00:00",
-      "summary": "Three Las Vegas area ZIP codes report West Nile virus-positive mosquitoes&nbsp;&nbsp;Las Vegas SunFirst West Nile virus-positive mosquitoes reported in three Las Vegas ZIP codes&nbsp;&nbsp;FOX5 VegasMosquitoes in Clark County test positive for West Nile virus, health district reports&nbsp;&nbsp;KLAS 8 News NowWest Nile virus detected in Las Vegas mosquitoes; here's how to protect yourself this summer&nbsp;&nbsp;ktnv.comFirst mosquitoes test positive for West Nile virus in Clark County for season",
+      "summary": "Three Las Vegas area ZIP codes report West Nile virus-positive mosquitoes&nbsp;&nbsp;Las Vegas SunFirst West Nile virus-positive mosquitoes reported in three Las Vegas ZIP codes&nbsp;&nbsp;FOX5 VegasMosquitoes collected in three different Las Vegas ZIP codes test positive for West Nile virus&nbsp;&nbsp;ktnv.comMosquitoes in Clark County test positive for West Nile virus, health district reports&nbsp;&nbsp;KLAS 8 News NowFirst mosquitoes test positive for West Nile virus in Clark County for seaso",
       "sources": [
         {
           "name": "Las Vegas Sun",
@@ -153,11 +225,23 @@
       "id": "fa35988a7165",
       "title": "U.S. provides experimental Ebola treatment for outbreak in Congo, bringing trials closer - NBC News",
       "published": "2026-06-24T17:53:45+00:00",
-      "summary": "U.S. provides experimental Ebola treatment for outbreak in Congo, bringing trials closer&nbsp;&nbsp;NBC NewsMapp, Gilead antivirals to be deployed in DRC Ebola trial: WHO chief&nbsp;&nbsp;Fierce BiotechAs Ebola Cases Breach 1000, Trial Of Two Antiviral Treatments Due To Start Soon&nbsp;&nbsp;Health Policy WatchHHS has sent drug for Ebola clinical trial&nbsp;&nbsp;statnews.comWHO announces 2 trials of experimental drugs in Ebola outbreak&nbsp;&nbsp;CIDRAP",
+      "summary": "U.S. provides experimental Ebola treatment for outbreak in Congo, bringing trials closer&nbsp;&nbsp;NBC NewsUS provides Ebola treatment for outbreak in Congo, bringing trials closer&nbsp;&nbsp;ReutersMapp, Gilead antivirals to be deployed in DRC Ebola trial: WHO chief&nbsp;&nbsp;Fierce BiotechAs Ebola Cases Breach 1000, Trial Of Two Antiviral Treatments Due To Start Soon&nbsp;&nbsp;Health Policy WatchHHS has sent drug for Ebola clinical trial&nbsp;&nbsp;statnews.com",
       "sources": [
         {
           "name": "NBC News",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQXVWMkZfTUgxWUdSNWRnNkdvZS1vUExNY3owOFIyWUg1WW16M0VHOVhFLUtqbktILXF2OWdHc1BJRGExRVpacWYxYjNpMkl0dFllQXRXZFdPYnRBTDdSOGhYNlNwN3d3WUQ0Y3Z4MURGRHFfMGdnWFdRSDViSDV2TV9uT0Y4Z0RzemZFWU1iVDcwZUJTbW5SOTBVa211R0J3bHBod0xVSlZ1QzJ2bVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1b643cbb7b47",
+      "title": "Why you should be brushing your teeth with your left hand to prevent dementia - New York Post",
+      "published": "2026-06-24T17:02:00+00:00",
+      "summary": "Why you should be brushing your teeth with your left hand to prevent dementia&nbsp;&nbsp;New York Post",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT19HT2hqOE1hSWJNTnNndXE4X0gyZllhNFdpUHl5dXZXOVZRUFVZX3N2UWtPRTBRd01uWnJHVF91VTEzQ2pyTTRDZkc0N3hhSjJXY3RNNGhfWXNlOUJHbE5rT0dfaS11blF6OTJQeUQ1QXBUQ1J5c1JRYzB3UGhhYW1VbldaMVZ4R1ZCT21oaTZTNktjNEpRZll0X01qeFRjS2c?oc=5"
         }
       ]
     },
@@ -174,18 +258,6 @@
       ]
     },
     {
-      "id": "e4ec647c2574",
-      "title": "'Rat infestation' at Austin hospital forces kitchen closure, more cleaning - Austin American-Statesman",
-      "published": "2026-06-24T16:59:51+00:00",
-      "summary": "'Rat infestation' at Austin hospital forces kitchen closure, more cleaning&nbsp;&nbsp;Austin American-Statesman",
-      "sources": [
-        {
-          "name": "Austin American-Statesman",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMkJrQzdpWTNaYVc0OVVuTlh3ZUp4OGUxVU9talBoZnEwX2ttM3lpUWxMM2E5TkpsYnU3VDlBSElCQmJJSWNVUVhiNmZiaWlpYmQxendON0Q0ZUpTczZhY0F4QVZGelZfNVJFYTRUa29LaXkxQjl4WVZCNUFLZUJ6bnZHWlcyelp5TDRES2lQbnFhTVUwUTh1a3pHVWRyZjRNdXlDZjNBOA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "795f69078952",
       "title": "People With Eating Disorders Are Misusing Ozempic - Gizmodo",
       "published": "2026-06-24T16:05:05+00:00",
@@ -198,10 +270,22 @@
       ]
     },
     {
+      "id": "0a07b17d3e2d",
+      "title": "WHO says Congo's Ebola outbreak still fast-moving and health workers under threat - Reuters",
+      "published": "2026-06-24T15:51:45+00:00",
+      "summary": "WHO says Congo's Ebola outbreak still fast-moving and health workers under threat&nbsp;&nbsp;ReutersInside the gold-mining town where the Ebola outbreak likely started&nbsp;&nbsp;NPRWHO Director-General's opening remarks at the media briefing – 24 June 2026&nbsp;&nbsp;World Health Organization (WHO)Ebola in DR Congo sees record first-month caseload&nbsp;&nbsp;DW.comHow Bad Could the Ebola Outbreak Get? Here Are 5 Key Factors.&nbsp;&nbsp;The New York Times",
+      "sources": [
+        {
+          "name": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdy1nb0NWdVRUVDBDdVhRY3RMMm43eUxaTVNaUHZsM3BBTEd1ZGVNN1ZTcWQ1aU1RY25mV1ZSRHdsVTFiZk5rTjhlLU50TGMxdGVKbDJ0R3lKZWRLMGlpdG1temY1MUNMaTVjcXZaWUszLW1xQV9fa21wWEJyRXU0RWdVWndTRDFPdm9JdXhTbTd3R0RodE1EcDIwZFJYQW5vT25xdjBXQm1yNDFYbTVZYnJnNnR3NEM1bTR3UHVobVl1ejJRVHpYNFZWQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "828d9e44fbcf",
       "title": "Yale study finds the secret to aging well over 65 - New York Post",
       "published": "2026-06-24T15:50:00+00:00",
-      "summary": "Yale study finds the secret to aging well over 65&nbsp;&nbsp;New York PostPeople Are Living Better at the End of Their Lives, New Study Finds&nbsp;&nbsp;Time MagazineYale study finds nearly half of older adults improved with age&nbsp;&nbsp;ScienceDaily‘Benjamin Button’ study finds health improves over time for people over 65&nbsp;&nbsp;deltanews.tvStudy Finds Many Older Adults Will Improve Over Time–Depending on Their Mindset&nbsp;&nbsp;Good News Network",
+      "summary": "Yale study finds the secret to aging well over 65&nbsp;&nbsp;New York PostSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "New York Post",
@@ -222,10 +306,22 @@
       ]
     },
     {
+      "id": "053234da4dba",
+      "title": "The Ebola Outbreak’s Central Mystery: Where Did This Virus Come From? - The New York Times",
+      "published": "2026-06-24T15:04:00+00:00",
+      "summary": "The Ebola Outbreak’s Central Mystery: Where Did This Virus Come From?&nbsp;&nbsp;The New York TimesEbola Scientists Lack Access to Virus Samples Behind Congo’s Largest Bundibugyo Outbreak&nbsp;&nbsp;Bloomberg.comEbola Virus Sample Eludes Scientists Racing to Find Treatments&nbsp;&nbsp;Bloomberg Law News",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRkI3LUM1dS1OemZ6X2I0Zi1PQXFSR3h6T095VDJCOXlrOWg0bmZia0ktYXJWSGtVUVhhYkZQUTJCaTVhZ29Ock03NWVPVlF1Qk14aHZoSHkxSHdaZ0hlNUdPdktENWVlT2JBNWhQalg0cFdiWFVobmtXV3Z2cTNwU0g5Sk5GcW1G?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ec3f7ca030a0",
       "title": "Nature retracts provocative PD-1 study that tied lung cancer survival to treatment timing - Fierce Pharma",
       "published": "2026-06-24T15:00:00+00:00",
-      "summary": "Nature retracts provocative PD-1 study that tied lung cancer survival to treatment timing&nbsp;&nbsp;Fierce PharmaNature Retracts Cancer Study Suggesting Treatment Is Better Earlier in the Day&nbsp;&nbsp;MedPage Today",
+      "summary": "Nature retracts provocative PD-1 study that tied lung cancer survival to treatment timing&nbsp;&nbsp;Fierce PharmaPaolo Tarantino: Nature Medicine Retracts Debated Study on Early Morning Immunotherapy Benefits&nbsp;&nbsp;OncodailyNature Retracts Cancer Study Suggesting Treatment Is Better Earlier in the Day&nbsp;&nbsp;MedPage Today",
       "sources": [
         {
           "name": "Fierce Pharma",
@@ -242,6 +338,18 @@
         {
           "name": "Health: Trusted and Empathetic Health and Wellness Information",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11Uk5QSE51a2pJTWJFSkNJZ2luWGp4LWdiTGdpakZNVWZ6ZnpjQU54UF92ajBnc2ZtMlpjZlc4T21DbXZIdDdJdEpNMVNqSWJEaGFwMU04b2ZYbUNFM3lFWHA5YWVfV0tJYkFHMEFEZHhMYUNCMWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a33fea6547f9",
+      "title": "CIDRAP Op-Ed: Call it what it is—the US has lost its hold on measles elimination - CIDRAP",
+      "published": "2026-06-24T13:16:54+00:00",
+      "summary": "CIDRAP Op-Ed: Call it what it is—the US has lost its hold on measles elimination&nbsp;&nbsp;CIDRAPFAQs Amid the Ongoing US Measles Outbreaks&nbsp;&nbsp;Pharmacy TimesDr. Danny Lewis Jr. speaks on: A Disease We Beat Is Back: What the 2026 Measles Surge Should Teach Us&nbsp;&nbsp;Markets HeraldMeasles Cases Are Climbing. Here’s How to Protect Your Kids&nbsp;&nbsp;njfamily.comUS tops 2,100 measles cases so far this year, putting it on track to surpass 2025 total&nbsp;&nbsp;CIDRAP",
+      "sources": [
+        {
+          "name": "CIDRAP",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcVNBVm84Y1BNN053Si1OblBjWHF6YjNwWHczT1Ixc1JkMm5nLUlvV0FHWGlzVkY3UWhDYWltRXdiRWNGMlZCTmlwejBVY3ZtNENySWo3eTZzTFJNQWYxdlA1WHJSd3NBSFJ5eW5tRnZVRVhxR3Q0VnB1V1VrVEE5WllRQXdDdUtYOWRCOVpqak11V055XzNGX0RHcktaVUFHT0ZXZVlwTQ?oc=5"
         }
       ]
     },
@@ -270,22 +378,10 @@
       ]
     },
     {
-      "id": "3909ed76b86a",
-      "title": "SpaceX launches secretive Starfall reentry demo mission - SpaceNews",
-      "published": "2026-06-24T11:39:59+00:00",
-      "summary": "SpaceX launches secretive Starfall reentry demo mission&nbsp;&nbsp;SpaceNewsStarfall Demo Mission&nbsp;&nbsp;SpaceXSpaceX's secretive plans to deliver cargo to Earth from space&nbsp;&nbsp;New ScientistSpaceX Starfall Demo Provides Validation for Reentry Startups&nbsp;&nbsp;Payload SpaceWith Starfall, SpaceX eyes an edge in global cargo delivery from orbit&nbsp;&nbsp;Ars Technica",
-      "sources": [
-        {
-          "name": "SpaceNews",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOXRuS3FaOE1JQ2tFZzNUUmdfTV9QdGMyZ3ZHOUJVLTZTRWNiOW5HRnVHdHBqc1pDWU0tRGtBRVRzclJWb1JIS1ctbXdyT2xDN1VQVWtNLUZ0cGgwdTN4Y2hRanZ6X0ROckt5UzhxOW0teDdhZWpEQm1xa2RtZVBkcWxaSi0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c2ba589e3f41",
       "title": "21 Dangerous Wellness Trends Health Experts Say People Need To Stop Falling For - Yahoo Lifestyle Canada",
       "published": "2026-06-24T11:31:02+00:00",
-      "summary": "21 Dangerous Wellness Trends Health Experts Say People Need To Stop Falling For&nbsp;&nbsp;Yahoo Lifestyle CanadaHealth Watch: Sense of smell, pets and stress, and tax-maxxing&nbsp;&nbsp;KTVNDoctors Are Sharing The Wildly Concerning Trends That Are Landing People In The Hospital&nbsp;&nbsp;BuzzFeed55 Doctors Reveal The Health Problems Showing Up More Than Ever Before&nbsp;&nbsp;Bored Panda",
+      "summary": "21 Dangerous Wellness Trends Health Experts Say People Need To Stop Falling For&nbsp;&nbsp;Yahoo Lifestyle CanadaDoctors Are Sharing The Wildly Concerning Trends That Are Landing People In The Hospital&nbsp;&nbsp;BuzzFeed5 Risky Wellness Trends Doctors Want You to Avoid&nbsp;&nbsp;Verywell HealthHealth Experts Are Calling Out The 21 Wellness Trends People Should Seriously Stop Falling For&nbsp;&nbsp;BuzzFeed",
       "sources": [
         {
           "name": "Yahoo Lifestyle Canada",
@@ -297,23 +393,11 @@
       "id": "b0982d9dae76",
       "title": "How many minutes of exercise do you need per week? Study reveals surprising answer - Ynetnews",
       "published": "2026-06-24T11:12:27+00:00",
-      "summary": "How many minutes of exercise do you need per week? Study reveals surprising answer&nbsp;&nbsp;YnetnewsColumn | This exercise ‘sweet spot’ is linked to greater longevity&nbsp;&nbsp;The Washington PostThis Is How Long You Should Strength Train Every Week to Live Longer&nbsp;&nbsp;GQStrength Training Linked to Lower CVD Risk in Women&nbsp;&nbsp;MedscapeStrength training linked to lower risk of death, research finds&nbsp;&nbsp;95.5 WSB",
+      "summary": "How many minutes of exercise do you need per week? Study reveals surprising answer&nbsp;&nbsp;YnetnewsPeople who lift weights live longer – new study&nbsp;&nbsp;The ConversationThis Is How Long You Should Strength Train Every Week to Live Longer&nbsp;&nbsp;GQStrength training linked to lower risk of death, research finds&nbsp;&nbsp;95.5 WSBResistance Training for 2 Hours a Week Associated With Lower Mortality Risk&nbsp;&nbsp;mykxlg.com",
       "sources": [
         {
           "name": "Ynetnews",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TR3NVdUE5bFh2c19XSFEwc1A0U0MzWVpKc0R2VHN6NXJ6Ylo4UG9mMGs3Vkh5Q2NXd3NFajRpWjlsSWM4SGJzYnlIZmxQTy1nUVBydXlqMGhxU1NhNzQ3YWRsRkprNWNER3ZVazJB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3094dd789ab2",
-      "title": "Dietitians Say These 6 Greens Can Help Support a Healthier Gut - Food & Wine",
-      "published": "2026-06-24T11:01:00+00:00",
-      "summary": "Dietitians Say These 6 Greens Can Help Support a Healthier Gut&nbsp;&nbsp;Food & Wine",
-      "sources": [
-        {
-          "name": "Food & Wine",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQnFRZzBWa0MyYTdGakZSTWIwX3BubTZqZHRZWjRmX2pBV3JGSm9KRGRZLUdJRWF3ckgxdVlSeDRYYk1RMndmSUZub2lkY1p6bU5xZ0F0YUlfVTBNY0xPdlNuYndzMmJfOGI1MWdyZzhkVkl3Yll1YzFLeURGcllwRjBJMFo1UFVGSTVRdU5xTW8?oc=5"
         }
       ]
     },
@@ -333,7 +417,7 @@
       "id": "98a6218d4f2c",
       "title": "This disease is more expensive than cancer and heart disease combined. And it’s only going to get worse. - MarketWatch",
       "published": "2026-06-24T11:00:00+00:00",
-      "summary": "This disease is more expensive than cancer and heart disease combined. And it’s only going to get worse.&nbsp;&nbsp;MarketWatchDementia could cost US $818 billion in 2026, with unpaid care driving burden&nbsp;&nbsp;Medical XpressUSC Study Puts 2026 Dementia Cost at $818 Billion&nbsp;&nbsp;MyNewsLA.com",
+      "summary": "This disease is more expensive than cancer and heart disease combined. And it’s only going to get worse.&nbsp;&nbsp;MarketWatchDementia Will Cost the U.S. $818 Billion in 2026, USC-Led Study Finds&nbsp;&nbsp;USC SchaefferStudy Shows Dementia Could Cost US $818 Billion - Grey Matters Shares How GUIDE Program May Offer Financial Respite Help&nbsp;&nbsp;EIN PresswireUS dementia expenses will total $818 billion in 2026, study finds&nbsp;&nbsp;McKnight's Long-Term Care NewsUSC Study Puts 2026 Dementi",
       "sources": [
         {
           "name": "MarketWatch",
@@ -357,7 +441,7 @@
       "id": "dec9600b0bd3",
       "title": "Can wiggling your pinky really stop cognitive decline? - The Conversation",
       "published": "2026-06-24T09:48:29+00:00",
-      "summary": "Can wiggling your pinky really stop cognitive decline?&nbsp;&nbsp;The Conversation10-second ‘hack’ to test for deadly disease&nbsp;&nbsp;News.com.au‘Pinky Time’ Is Trending as a Way to Boost Brain Health — Does It Work?&nbsp;&nbsp;Everyday HealthThis Hand Exercise Is Going Viral to Help Prevent Alzheimer's—Here's What Neurologists Think&nbsp;&nbsp;Good HousekeepingThis 5-Second Pinky Exercise To Reduce Dementia Is Going Viral — And Neurologists Have Thoughts&nbsp;&nbsp;AOL.com",
+      "summary": "Can wiggling your pinky really stop cognitive decline?&nbsp;&nbsp;The Conversation10-second ‘hack’ to test for deadly disease&nbsp;&nbsp;News.com.au‘Pinky Time’ Is Trending as a Way to Boost Brain Health — Does It Work?&nbsp;&nbsp;Everyday Health10-second finger test you can do anywhere can reveal your risk of dementia&nbsp;&nbsp;LADbible",
       "sources": [
         {
           "name": "The Conversation",
@@ -369,23 +453,11 @@
       "id": "87f8d319bd19",
       "title": "The Wearable Data Your Doctor Actually Wants - The New York Times",
       "published": "2026-06-24T09:01:25+00:00",
-      "summary": "The Wearable Data Your Doctor Actually Wants&nbsp;&nbsp;The New York TimesAt CMS, Oz Eyes Faster Tech Approvals and a 'Power to Convene'&nbsp;&nbsp;U.S. News & World ReportHealth Outcomes Data For Wearables Key To Medicare Coverage Expansion&nbsp;&nbsp;ForbesWhat wearable AI means for the Next decade of Healthcare&nbsp;&nbsp;vocal.mediaWearables Evolve Into Preventive Healthcare Platforms&nbsp;&nbsp;Fitt Insider",
+      "summary": "The Wearable Data Your Doctor Actually Wants&nbsp;&nbsp;The New York TimesAt CMS, Oz Eyes Faster Tech Approvals and a 'Power to Convene'&nbsp;&nbsp;U.S. News & World ReportWhat wearable AI means for the Next decade of Healthcare&nbsp;&nbsp;vocal.mediaWearables Evolve Into Preventive Healthcare Platforms&nbsp;&nbsp;Fitt InsiderHow to use patient wearable data in cardiology visits&nbsp;&nbsp;KevinMD.com",
       "sources": [
         {
           "name": "The New York Times",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRTM4MjV3SmlSblRjU2NSXzVMWjc2X0FySzNiRDJ6cTJZWXNkajhZVUM0bVhpYldiNHQ0SEVzSXRtd1dJM3ZUaU1McVRoUTF4VFctLWNWcEd2Wm8yRmNZM3Y5c0pTNGlCQnhsTUdrVFJPWXpRX2FxLUdBcUxkdU1wOGxLMjg2a2JNZnlBQ293?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3dae4ef4210d",
-      "title": "Inside the gold-mining town where the Ebola outbreak likely started - NPR",
-      "published": "2026-06-24T09:00:00+00:00",
-      "summary": "Inside the gold-mining town where the Ebola outbreak likely started&nbsp;&nbsp;NPRCongo says number of confirmed Ebola cases rises to 1,118&nbsp;&nbsp;ReutersEbola Epidemic in the DRC: Explainer&nbsp;&nbsp;Africa Center for Strategic StudiesWHO Director-General's opening remarks at the media briefing – 24 June 2026&nbsp;&nbsp;World Health Organization (WHO)How Bad Could the Ebola Outbreak Get? Latest on Testing, Tracing and Vaccines&nbsp;&nbsp;The New York Times",
-      "sources": [
-        {
-          "name": "NPR",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaWVNQ0U4a2dsWjEtcElWMXNZZVhOVG5EQVV0YWdaekFEaWpOcDZfQ0xEX1IxYVo0Mkh6dElPOXZaRlZuR3lISlBvWWRUa19hUmJyUTZxcmZNak1UZTNXVmxIUFhYLWdXeVZPRFFaSmZUZm93ODhlT1N0dEZQNGRFVDBaY05obFZpNVhNaVJ5NnZOVUI5Q0w5bzhLMmlWUmQt?oc=5"
         }
       ]
     },
@@ -402,18 +474,6 @@
       ]
     },
     {
-      "id": "6ff14d540bc5",
-      "title": "Study challenges a common belief about vitamin D and sunlight - ScienceDaily",
-      "published": "2026-06-24T04:47:32+00:00",
-      "summary": "Study challenges a common belief about vitamin D and sunlight&nbsp;&nbsp;ScienceDailyVitamin D in India: Moving from deficiency talk to daily health action&nbsp;&nbsp;The Times of IndiaThe Sunshine Vitamin’s Hidden Power&nbsp;&nbsp;Deccan ChronicleWe’ve Been Wrong About Sunlight for Decades—Here’s What the Science Says&nbsp;&nbsp;inc.comMore screens, less sunshine: Why children are becoming vitamin D deficient&nbsp;&nbsp;India Today",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40dURza3dCRFhuN2tDS2s4V0tnWFJyVHpxR05PSzhBc2d4Ym01ZXBPcmFHSmxIYzBuTmN0b2pxcFNkbHpmRnhXREVjdXlBRkJXYVZFb3BZMWNSRTZjV25oQ3lOVWxBeEJMZmdxazYzdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "269ad06d3094",
       "title": "As cancer death rates plunge, clear disparities remain, new report says - NBC News",
       "published": "2026-06-24T04:01:00+00:00",
@@ -422,18 +482,6 @@
         {
           "name": "NBC News",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZmVTUXhWNUpwWUlnaFZScl9jeEgxSl9YOTZwOEtnNjJLVXlNdEsxYllqQS1pR093akJobzA1dmhWVjRfQkcxTnMwUkQ0U0lkNEh3emt0dlVNWUZKTUIwdEFzdklxWTlISTBRTkNrbXJ4MGNzcVhBeGVPWDFfNHRSbEQtS0stV3ZEX0FTcV9sNl9jeE1sVWdSeklocjdIWGFfME96LTdJT3hFNF9rRld6N3VaVEowdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "430447de37c7",
-      "title": "Australia ramps up bird flu testing as second state reports case - Reuters",
-      "published": "2026-06-24T02:38:00+00:00",
-      "summary": "Australia ramps up bird flu testing as second state reports case&nbsp;&nbsp;ReutersThousands of baby seals died on two remote sub-Antarctic islands. Scientists now think they know why&nbsp;&nbsp;CNNAustralia confirms first case of H5N1 bird flu as virus reaches every continent&nbsp;&nbsp;BBCBird flu has spread to two Australian states. Here’s how it could accelerate our extinction crisis&nbsp;&nbsp;The ConversationTasmanian devils, swift parrots, black swans: the animals at risk if bird flu take",
-      "sources": [
-        {
-          "name": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZjMya3lmMVlZT0xVZE9WdkN0LUpiZ2JjSkloc21SbFgzeTV2c1NGRml2dVRUQl95REU3V2VneTc1akg0YXU4YmhhbkROYy1WYkRTbURJTDQyUWtYQXZScG1jSzFsUU1yT3RySjdZRXJhYmZqMU5uUlRjdS13djNfang2U3VmcHUwazRVSGZNVUZTZGVkQnZoLWJBS3g0b1JlV28xUkZyd082aXI1ZWswcjZ1bjFvSUk5bHJUQklFSS1EOUthSURLYjZnX1dfZ1A0RFd6MXFjeWVQODBZWDJ4dQ?oc=5"
         }
       ]
     },
@@ -453,7 +501,7 @@
       "id": "7dedf4421caa",
       "title": "One Stage of Sleep Seems Critical For Reducing The Risk of Dementia - ScienceAlert",
       "published": "2026-06-23T23:39:37+00:00",
-      "summary": "One Stage of Sleep Seems Critical For Reducing The Risk of Dementia&nbsp;&nbsp;ScienceAlert3 common sleep habits may be tied to brain aging signs&nbsp;&nbsp;futurity.orgThink 8 Hours of Sleep Is the Best for Your Cognitive Health? A New Study Suggests Otherwise&nbsp;&nbsp;inc.comThese 3 Common Sleep Habits May Be Aging Your Brain Faster&nbsp;&nbsp;SciTechDailySleep Habits Can Influence Effects of Alzheimer’s Disease Risk Genes&nbsp;&nbsp;Inside Precision Medicine",
+      "summary": "One Stage of Sleep Seems Critical For Reducing The Risk of Dementia&nbsp;&nbsp;ScienceAlert3 common sleep habits may be tied to brain aging signs&nbsp;&nbsp;futurity.orgStrange Sleep Changes? Why Experts Say It Could Signal Early Dementia&nbsp;&nbsp;Futura, le média qui explore le mondeLosing just 1% sleep at this stage may raise dementia risk, study finds&nbsp;&nbsp;The Times of IndiaThese 3 Common Sleep Habits May Be Aging Your Brain Faster&nbsp;&nbsp;SciTechDaily",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -474,22 +522,10 @@
       ]
     },
     {
-      "id": "b22c0dc4b75c",
-      "title": "Services Sold to Boost I.V.F. Odds Backed by Little Evidence, Study Finds - The New York Times",
-      "published": "2026-06-23T22:30:02+00:00",
-      "summary": "Services Sold to Boost I.V.F. Odds Backed by Little Evidence, Study Finds&nbsp;&nbsp;The New York TimesMost IVF ‘add-on’ treatments have no effect on fertility or remain unproven, study says&nbsp;&nbsp;The GuardianDo high-tech “addons” increase the chance that IVF will work?&nbsp;&nbsp;The EconomistNew review finds unnecessary financial strain on couples trying to conceive&nbsp;&nbsp;9NowIVF add-ons are common in Australia, but there's no proof most work&nbsp;&nbsp;Australian Broadcasting Corpor",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPay11bjRmUS1fSE13SzhUNFhUcmxzSmg5cjhwSGdLWmxfdWFxZ2YwQ2tJVWdxcDZNdVp2QlpweURfd2x6b0ZNRS1UWVdGZzBDMlFUa1BsUDktXzdMdk9MaHJWdlZyS2kwSlVVUlFaa0pVUmw2cnJPUjVmUHhYYmtUdGdyTXlBQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f2ca720a9116",
       "title": "Scientists begin first trial to reverse human aging - Yahoo",
       "published": "2026-06-23T22:27:50+00:00",
-      "summary": "Scientists begin first trial to reverse human aging&nbsp;&nbsp;YahooTurning Back the (Biological) Clock&nbsp;&nbsp;theSkimmScientists test first-ever therapy to make human cells young again&nbsp;&nbsp;NewsNationFirst ‘cell rejuvenation’ therapy in humans: Can ageing finally be treated?&nbsp;&nbsp;The Times of IndiaLongevity Science Splits Between Promising Research and “Miracle” Claims&nbsp;&nbsp;tovima.com",
+      "summary": "Scientists begin first trial to reverse human aging&nbsp;&nbsp;YahooTurning Back the (Biological) Clock&nbsp;&nbsp;theSkimmScientists test first-ever therapy to make human cells young again&nbsp;&nbsp;NewsNationLongevity Science Splits Between Promising Research and “Miracle” Claims&nbsp;&nbsp;tovima.comFirst ‘cell rejuvenation’ therapy in humans: Can ageing finally be treated?&nbsp;&nbsp;The Times of India",
       "sources": [
         {
           "name": "Yahoo",
@@ -498,13 +534,13 @@
       ]
     },
     {
-      "id": "099a3b84bdb8",
-      "title": "A highly infectious disease has been found in Utah's wild rabbit population again - KSL News",
+      "id": "be2fa5c7293e",
+      "title": "A highly infectious disease has been found in Utah's wild rabbit population again - KSL.com",
       "published": "2026-06-23T21:45:02+00:00",
-      "summary": "A highly infectious disease has been found in Utah's wild rabbit population again&nbsp;&nbsp;KSL NewsHighly infectious rabbit disease confirmed in Utah: What experts say to look out for&nbsp;&nbsp;ABC4 UtahA lethal virus has been found among Utah’s wild rabbits. Here’s what to know.&nbsp;&nbsp;The Salt Lake TribuneUtah wildlife officials confirm deadly rabbit disease in Summit County&nbsp;&nbsp;TownLift, Park City News",
+      "summary": "A highly infectious disease has been found in Utah's wild rabbit population again&nbsp;&nbsp;KSL.comHighly infectious rabbit disease confirmed in Utah: What experts say to look out for&nbsp;&nbsp;ABC4 UtahA lethal virus has been found among Utah’s wild rabbits. Here’s what to know.&nbsp;&nbsp;The Salt Lake TribuneSummit County hunters warned; deadly disease confirmed in Kamas wild rabbits&nbsp;&nbsp;KPCWRabbit hemorrhagic disease recently confirmed in Summit, Tooele counties&nbsp;&nbsp;Utah Divi",
       "sources": [
         {
-          "name": "KSL News",
+          "name": "KSL.com",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdXBvazlnRm9NTHgwc2p3dG5Ybm0xLWVacTdoRXAxQXdmRDFaaFpXYmdCQnNEZXBNOTdPcGRKdHFkYXdjT0NFbzJyQ1ZaMldrQ29pdnhmUUc2cEZhSzJEbDNZM1laSWl1YkhGSXo3cWhPZHpGZU9xY3R5Snh0Q09fbkRiV29yLUVSaGx5RlBucFF5WnFqcy1YcUxwMnQ5bl94RzlHM2ZTZjlJLTdLaUFJMUpmLVNKLWdU?oc=5"
         }
       ]
@@ -518,6 +554,18 @@
         {
           "name": "Neuroscience News",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZNW1BeWthWllIWW9JSTFwd0w3SEwxb3JNMDlEdVF3eTV3R2N5QkE2ejhJMmo1R1hSY0FjZTdEOVJReWpSQWtOUkY0Yi11WXlGWEhyTUZWWHdUM09zNXFDSHNsQkh4ZllyVUstZHkyekNrYmZvMmZZczBhNnVkZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "10241f5415f1",
+      "title": "Popular pain supplement linked to faster Alzheimer’s decline — and death - AOL.com",
+      "published": "2026-06-23T20:59:13+00:00",
+      "summary": "Popular pain supplement linked to faster Alzheimer’s decline — and death&nbsp;&nbsp;AOL.comSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNanE5dlE0QmMwN2dtUFZFZC1DTVhMMEdfY0pweXNNYjBjQXduN0ZqRTNmemc4VEV4X1I1ajZ2VktrM1lac3VzMmVpSGhkVWRxVy1fVHJiSDJzWkdoU0VJZElleHduOVlyU3dwTExFYnU4bVZnQV9EU3o3dnpoQTd2UHFxRWZIbk1T?oc=5"
         }
       ]
     },
@@ -561,7 +609,7 @@
       "id": "c00d11e35cee",
       "title": "Alzheimer’s disease: Omega-3 DHA supplements may not reduce risk - Medical News Today",
       "published": "2026-06-23T17:17:55+00:00",
-      "summary": "Alzheimer’s disease: Omega-3 DHA supplements may not reduce risk&nbsp;&nbsp;Medical News TodayThe omega-3 supplement you take may not be helping your brain&nbsp;&nbsp;CNNFish oil supplements may not prevent Alzheimer’s-related decline&nbsp;&nbsp;Keck Medicine of USCDoes High-Dose Omega-3 Benefit Cognition in Older Adults?&nbsp;&nbsp;MedscapeTaking omega-3 supplement for better memory or cognition? Here's what new research found&nbsp;&nbsp;Firstpost",
+      "summary": "Alzheimer’s disease: Omega-3 DHA supplements may not reduce risk&nbsp;&nbsp;Medical News TodayThe omega-3 supplement you take may not be helping your brain&nbsp;&nbsp;CNNFish oil supplements may not prevent Alzheimer’s-related decline&nbsp;&nbsp;Keck Medicine of USCFish oil, DHA may not help improve your memory or cognition, study finds&nbsp;&nbsp;WZTVDoes High-Dose Omega-3 Benefit Cognition in Older Adults?&nbsp;&nbsp;Medscape",
       "sources": [
         {
           "name": "Medical News Today",
@@ -594,18 +642,6 @@
       ]
     },
     {
-      "id": "d0f767d5d6d6",
-      "title": "Popular pain supplement linked to faster Alzheimer’s decline — and death - New York Post",
-      "published": "2026-06-23T16:23:00+00:00",
-      "summary": "Popular pain supplement linked to faster Alzheimer’s decline — and death&nbsp;&nbsp;New York PostA Popular Joint Pain Supplement May Actually Speed Up Dementia Progression&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness InformationGlucosamine supplements may speed memory loss from Alzheimer’s, new research shows&nbsp;&nbsp;hellocare.com.auA common joint supplement may hide a risk for vulnerable brains&nbsp;&nbsp;Earth.comNatural Products Association Responds to Study on Glucosamine",
-      "sources": [
-        {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcDFKSXoxeFhleHI1Vi0yX0J6Z0hZUW1PQkItNlVBd0hrc25lSzFIYm5wSVo1dUx5NndTdDJZZ2IwTzFueGxfNVlWR1lmSXgyeTJ1LVE2Ym84UTA3VHlIdENaM0VqVjFjdnhnSHRQLWRzb3Z1aEtHNFBVcXRkTS1NeVVHWEVXV1p4NGphUjdpbEROMlZCeXVrREJwMjNYXzA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e974b6da71fc",
       "title": "Amino acid-supplemented ‘longevity diet’ linked to longer healthy lifespan - USC Today",
       "published": "2026-06-23T16:11:00+00:00",
@@ -621,7 +657,7 @@
       "id": "20340c64e0a4",
       "title": "Column | Want a younger brain? Exercise in your 40s may help. - The Washington Post",
       "published": "2026-06-23T16:00:00+00:00",
-      "summary": "Column | Want a younger brain? Exercise in your 40s may help.&nbsp;&nbsp;The Washington PostYour brain can be trained, much like your muscles – a neurologist explains how to boost your brain health&nbsp;&nbsp;Index-JournalPsychology says people who solve crosswords and puzzles every day aren't just passing time, they may be tr&nbsp;&nbsp;The Economic TimesHow Exercise Supports Memory – and How Scientists Hope to Replicate Its Benefits&nbsp;&nbsp;National Institutes of Health (.gov)Twelve weeks o",
+      "summary": "Column | Want a younger brain? Exercise in your 40s may help.&nbsp;&nbsp;The Washington PostYour brain can be trained, much like your muscles – a neurologist explains how to boost your brain health&nbsp;&nbsp;Index-JournalPsychology says people who solve crosswords and puzzles every day aren't just passing time, they may be tr&nbsp;&nbsp;The Economic TimesTwelve weeks of cycling, three days a week, and 23 sedentary volunteers: the same level of exertion multiplied BDNF release, but the big surpr",
       "sources": [
         {
           "name": "The Washington Post",
@@ -630,10 +666,34 @@
       ]
     },
     {
+      "id": "d2437082150a",
+      "title": "NASA wants to dump the ISS in the sea. Experts say the plan 'raises serious concerns for ocean health' - Space",
+      "published": "2026-06-23T16:00:00+00:00",
+      "summary": "NASA wants to dump the ISS in the sea. Experts say the plan 'raises serious concerns for ocean health'&nbsp;&nbsp;SpaceNASA plans to crash the ISS into the Pacific Ocean: Experts raise concerns for marine ecosystems' health&nbsp;&nbsp;The Times of IndiaThe Next Outpost: NASA’s Plans for Replacing the Aging International Space Station&nbsp;&nbsp;U.S. Government Accountability Office (.gov)Downing the International Space Station: Current Plan Whips Up Worries by Ocean-health Group&nbsp;&nbsp;Insid",
+      "sources": [
+        {
+          "name": "Space",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMGkxQzhUTEZCemJFaTFFWXFjZWdDUklPRTM1VFc5M0puZUc2eVZ5VHV5enE3UjhUdVB2UEl4S2dQSlI2TEVxaTUzRzNXaGp5dzNoaWxNbzhIVmR3akE3NkhfWVB4eUVrNl8zTWhSMTlVc3J0ZzBpTGtJSjNRWF80SEVHWkxkVjl1czJEdklOQzRtd0ZDck55TlJWTWtQZ3Z6ZnRMVDF4U0dqbHlnVW1DelNFY1ZEQlJoX0N4N1NGSkplYTRpcnJRWWtlMk5LZ1Y2UXhpZFdUd0wxWEw5XzFaWjVYRHRZX1ZCVGRwUDVSZHNudnJqMWRmRFhWRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1a5e1237f84f",
+      "title": "Ebola Symptoms in Current Outbreak May Be Milder Than in Previous Ones - The New York Times",
+      "published": "2026-06-23T15:31:22+00:00",
+      "summary": "Ebola Symptoms in Current Outbreak May Be Milder Than in Previous Ones&nbsp;&nbsp;The New York TimesEbola Outbreak: The Unusual Symptoms Seen In Patients Infected With Bundibugyo&nbsp;&nbsp;Health and Me",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JenlQUlVRWHdNTDA3TDduR2dGRzU1a0tmMUdRUmt2cnFDQnU2dVJHRm1OWk1MR25ZeWhudlNFSGlMcDRITTFxWl9KWXdHXzBZR1hDTi1FaWlxUmFNWkpCVEE2dUtBRGhsS2ZvN01vcUxMZk1ycWJaVDJYMmk?oc=5"
+        }
+      ]
+    },
+    {
       "id": "59f3603e7163",
       "title": "Williamson County mosquitoes test positive for West Nile virus as health officials urge precautions - KVUE",
       "published": "2026-06-23T15:28:00+00:00",
-      "summary": "Williamson County mosquitoes test positive for West Nile virus as health officials urge precautions&nbsp;&nbsp;KVUEWilliamson County mosquito trap positive for West Nile virus&nbsp;&nbsp;KXAN AustinWest Nile virus found in Wichita Falls mosquitoes&nbsp;&nbsp;Times Record NewsWest Nile confirmed in Canton, officials urge residents to 'fight the bite'&nbsp;&nbsp;Spectrum NewsCook County Officials Urge Protection Against West Nile Virus This Summer During National Mosquito Control Awareness Week&nb",
+      "summary": "Williamson County mosquitoes test positive for West Nile virus as health officials urge precautions&nbsp;&nbsp;KVUEWilliamson County mosquito trap positive for West Nile virus&nbsp;&nbsp;KXAN AustinWest Nile confirmed in Canton, officials urge residents to 'fight the bite'&nbsp;&nbsp;Spectrum NewsWest Nile virus found in Wichita Falls mosquitoes&nbsp;&nbsp;Times Record NewsCook County Officials Urge Protection Against West Nile Virus This Summer During National Mosquito Control Awareness Week&nb",
       "sources": [
         {
           "name": "KVUE",
@@ -642,134 +702,14 @@
       ]
     },
     {
-      "id": "8c1bdad63f5f",
-      "title": "2 Nutrients You May Be Missing If You’re Tired All the Time - Verywell Health",
-      "published": "2026-06-23T15:15:00+00:00",
-      "summary": "2 Nutrients You May Be Missing If You’re Tired All the Time&nbsp;&nbsp;Verywell HealthAlways exhausted? Endocrinologist explains why your constant fatigue is actually a warning sign&nbsp;&nbsp;Hindustan Times#1 Nutrient Linked to Healthy Aging That Most Americans Aren’t Getting Enough Of&nbsp;&nbsp;Yahoo",
+      "id": "ebbe12ff64bc",
+      "title": "9 Fruits Packed With Prebiotics That Support a Healthier Gut - TODAY.com",
+      "published": "2026-06-23T15:04:01+00:00",
+      "summary": "9 Fruits Packed With Prebiotics That Support a Healthier Gut&nbsp;&nbsp;TODAY.comThe Best Fruit for Better Gut Health, According to Dietitians&nbsp;&nbsp;AOL.com",
       "sources": [
         {
-          "name": "Verywell Health",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMVJSVU9Yck5Ob21VYnktVnotZzh1Z1p2R3RDaUhCOEFrM0JyTUczNktlcjMxLXROSDFsa3BNWjItaldsSVlva0xNVjdVamdWMnMwQkRUdmFNLS1jMFJTZkp6eEpFSlliSEhRcGpKWWwyTnJhRUttUXRQSkk0MG8tZ0xWWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "62b3e2bc4ff8",
-      "title": "Dementia risk linked to eating 1 type of food, research shows - The Mirror",
-      "published": "2026-06-23T14:31:00+00:00",
-      "summary": "Dementia risk linked to eating 1 type of food, research shows&nbsp;&nbsp;The MirrorHow your diet choices affect your dementia risk | Opinion&nbsp;&nbsp;OakridgerNew Research Links Ultra-Processed Foods to Higher Dementia Risk&nbsp;&nbsp;9and10News.comHow Just an Extra Bag of Chips a Day Is Aging Your Brain and Shortening Your Attention Span&nbsp;&nbsp;inc.comUltra-Processed Foods May Raise Parkinson's Risk 2.5-Fold, Studies Find&nbsp;&nbsp;Seoul Economic Daily",
-      "sources": [
-        {
-          "name": "The Mirror",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMEhDWmphSFBJUkdaNy1DTjRrSURfM2VVQ0d3a2lXbmZSSjNNUXV2bjkwNS1na21YVUhKUTAwMDNwZVhVeldNcnZzMVpHT3E5cW5pc1lNZE9xWGMyNEUxcm5uZ0lZMEg1N2E2X1ljSmF3T3FvV2VNMVVvS2NnX2pkStIBhgFBVV95cUxPU3RmWVRoWWUzVkZyaWlKY09LQm5EVjFiSGlydUM0NVpBOE14WUtVMW54SVdRVEJUVlZzMWdwaXpjM3pCTFltcDkyQ0ZZanM0THdxeXlpc0NQZmZFOXotbmtHWnV6R3hUTDN1X3V6NHRtOHhPa040QkdTV0hTcVBpTFBpR3hFdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "48b14b40a820",
-      "title": "Your Taste For Onions May Reveal Something About Your Future Health - ScienceAlert",
-      "published": "2026-06-23T13:01:24+00:00",
-      "summary": "Your Taste For Onions May Reveal Something About Your Future Health&nbsp;&nbsp;ScienceAlertMonell Center Study Finds Genetic Variations in Taste and Smell Influence Diet and Health&nbsp;&nbsp;Bioengineer.orgTaste and smell genes could help explain how diet influences disease risk&nbsp;&nbsp;Medical XpressOnion Preference Linked to Lower Diabetes Risk in UK Study&nbsp;&nbsp;Daily BeirutDNA Variations Linked to Food Preference May Shape Our Health&nbsp;&nbsp;Technology Networks",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUkRKVnI5UG9qUUl5R2FqM1BVbUdRVnJvdldYMFhnSTVxVkk2SU4teHFsNmZBVnVscFl1RXBBRFNVcXExX195dFRibWZIMUJYQnNDUGZEN25waVZuRkhmZWtWSHozZ1dlZDBILXVfT3VkdWF2eG9SQkZ4V1dVX3MyVGhkTXZ1U1BxTXQ0NnZjRHNQTDYxVjRpX1llYkk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4cfc552205c5",
-      "title": "Tetanus is a rare but dangerous disease. A doctor explains why experts are worried - Yahoo",
-      "published": "2026-06-23T11:52:54+00:00",
-      "summary": "Tetanus is a rare but dangerous disease. A doctor explains why experts are worried&nbsp;&nbsp;YahooSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWxYNXp1c3NSc2JxQ0czRjZhZ1JfYlZlNHJMeFdqSmhRc3NGZTJxWGx4UmVwQ3d6cUNWTWVZZ3lsOXhia1RnQnZvYXNzVjRqYnlxeE9VRkFtd3RtclNPYXdRRkY1aFVudnBPano4bXhBRFA1aXRuZ056YVlCS3dTWkdPeW9OaWtDWGFFMXcwRmZDMnNiODU0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4cd24344969b",
-      "title": "Why Does the Heart Rarely Develop Cancer? - Medscape",
-      "published": "2026-06-23T11:52:28+00:00",
-      "summary": "Why Does the Heart Rarely Develop Cancer?&nbsp;&nbsp;Medscape",
-      "sources": [
-        {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV3RfQWZ5OXJETktOVWZ2VUtGR3JVNm9QUXpRZF9oeVhUb3RxTkhyS01hU3hKX081aHB6Y1ZWV0FnSjVhYjdzWEJTXzdfWWVmRnV4dzFxY21fUjRyellUemVwRk5ySXllaXhWYVBaeWN0N3BRLVQtNUZ1NkRDUko1STI0bjZiYkw4SDRJV2M2MA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9d0dfa55a0ac",
-      "title": "Want to age better? Researchers say 4-minute routine may help prevent dangerous falls - Fox News",
-      "published": "2026-06-23T11:00:50+00:00",
-      "summary": "Want to age better? Researchers say 4-minute routine may help prevent dangerous falls&nbsp;&nbsp;Fox NewsA doctor explains how to boost your longevity in just 4 minutes a day, with exercises you can do at home&nbsp;&nbsp;Business InsiderThis is the one exercise a barre and Pilates instructor recommends to improve your balance and stability as you age&nbsp;&nbsp;Fit&amp;Well\"This 25-minute routine will build your confidence and independence\"—a trainer who specializes in working with seniors share",
-      "sources": [
-        {
-          "name": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcVpvX05fcE9OT2hxRmpjMEVWRDJrTGVfazlDNHlpbWltSWIxRTlfMnpkNkxGZDFucklvbF9LLThZM0lBamkweDhKTmUzQVVjanRONW1wWUo4SFI4R05SZ0g3ZkZjeE1HZml3d1hiTmc4bTA1VTZ5b3hCNjVCZDJoejNuTkpGZmxRNlBpeFdKMnVfZjY5R01BYnZjSmRXUW5TOGF4OVAwdFQ0bnVzV0NLY2Jn0gG3AUFVX3lxTFBkeXNkcUNtTG9ma0tfWThIUDlzX2g1R1RiVjBqSWltMWZtQWwwdDE1Vy15NEhGdVIwMloxTnI3czE5V1lQbFZTSXowNlpra3gxUmdDenJpcHJlZWltRGM0NkxDUndhRXBuczBFaFlUMWRhZTBaZGFvb1pYaVdLalJfOUFhdmF5X0hGeHRjdjA1ZjdHWVdOVlZPdVJnTlA5M2R0ZE9RbXNDbWZoZC01UGhjTHZ6RHRLUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2df194e00881",
-      "title": "Humans May Have Always Been Able to Regenerate Body Parts–Scar Tissue Just Gets in the Way - Good News Network",
-      "published": "2026-06-23T11:00:43+00:00",
-      "summary": "Humans May Have Always Been Able to Regenerate Body Parts–Scar Tissue Just Gets in the Way&nbsp;&nbsp;Good News NetworkHumans may have hidden regenerative powers&nbsp;&nbsp;ScienceDaily\"Once you show regeneration can be activated, it opens the door to new questions...\" Mammals – including us – could regrow limbs say scientists&nbsp;&nbsp;BBC Wildlife MagazineScientists Discover Gene That One Day Could Help Humans Regrow Lost Limbs&nbsp;&nbsp;ColombiaOne.comFrom Lab to Life: Humans Have Regenerat",
-      "sources": [
-        {
-          "name": "Good News Network",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVTJEcEJHTkFibHk2anB1MTdiQ2p3dW1GN0dOWkQtR2p2QkMxd3hocXpjazQ1YW9BYnYyVVNITHN6b2FtZE1qX1BzTU8zN2xrbUlLNV9kTEtkcE1ib29xVkxvQkRyenVGUUZLcDd3LVRVNWR4MXF6OFVqME1kbi1kZERlRjVna0ZVZGVSa3Y3UlB5S0NPLTh6Y1RBMWNhTTJ1R2ZRdTNMUGJXVzd3YzhJTW9UbFhFUGROdjRyZ2VJbEk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "de7389c87ab5",
-      "title": "Vitamin D and calcium supplements may not protect against bone fractures, large new study suggests - The Conversation",
-      "published": "2026-06-23T10:05:09+00:00",
-      "summary": "Vitamin D and calcium supplements may not protect against bone fractures, large new study suggests&nbsp;&nbsp;The ConversationCalcium, Vitamin D, and the Fragile Promise of Stronger Bones&nbsp;&nbsp;American Council on Science and HealthCalcium and vitamin D supplements do little to prevent falls and fractures, study suggests&nbsp;&nbsp;The Globe and MailMost older adults gain little from calcium and vitamin D supplements, despite decades of bone health advice&nbsp;&nbsp;Earth.comMillions take c",
-      "sources": [
-        {
-          "name": "The Conversation",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLTdYTnZzSUR2UlpUVlRQTlZGZUhyM3hiQ1BqQ3JUVEZSVEpBLV96YUF1dmpQRmh5bmxYZ3ZvMmtNN1piUndlbVBtd0Y2ZGlJb1c1TzdsMDNISXU2QnBaMERpTGpkUWw4TnVWQ2FYNEU0U3lHNVM2Q2xPX05NRHk2dlR6bzZzWXZaamxOX0ZoSG5icklaMW9tU2JCdnl4YzVFOUtLZkVDUmhKU19mUjRHTktJXzRKeVNlanZlT0hIUEV3UTF3MUxKR1pfNGk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b4c2bc36cc45",
-      "title": "Exercise and Stress: Do High-Intensity Workouts Spike Cortisol Levels? - The New York Times",
-      "published": "2026-06-23T09:01:44+00:00",
-      "summary": "Exercise and Stress: Do High-Intensity Workouts Spike Cortisol Levels?&nbsp;&nbsp;The New York TimesExperts reveal how cortisol actually supports your workouts and recovery&nbsp;&nbsp;MSNThese 2 Habits Could Be Spiking Your Cortisol More Than You Realize&nbsp;&nbsp;EatingWellHow HIIT Workouts Can Unexpectedly Raise Your Cortisol Levels, According to Experts&nbsp;&nbsp;AOL.comThe ‘Healthy’ Habit That’s Silently Raising Your Cortisol, According to Endocrinologists&nbsp;&nbsp;Parade",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOUtXY21GbXRuMllJU3RudFo1ZnZzazZLV2hPSlBrYllPVGxGZVZtMHpNZkx1NEpfU291clBRdmlmRnRrSXRPUVVyMUxzdGw1TE1WY0kwY3o5OE9KRFVTYlN0RXdBSV9yNGNnQ21ucnMxTmthUHdoaWR4ZlEwTDVGcHU4RHp6WDhY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "927673c81983",
-      "title": "Trouble getting weight loss drugs covered by insurance? Here's what to know - NPR",
-      "published": "2026-06-23T09:00:00+00:00",
-      "summary": "Trouble getting weight loss drugs covered by insurance? Here's what to know&nbsp;&nbsp;NPRWith Mass. cutting weight loss drug coverage, patients scramble to afford prescriptions&nbsp;&nbsp;WBURThe economics of obesity drugs: Reimbursement, pricing power, and the next healthcare cost debate&nbsp;&nbsp;StockhouseOzempic has waged a war on America’s junk food. Disrupting a trillion-dollar industry&nbsp;&nbsp;ThePrintLess Volume, More Premium: Post-Ozempic Economics Are Killing The Quantity Model&nb",
-      "sources": [
-        {
-          "name": "NPR",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVUlFNEhQVlNGY04yUGotYkxzWWgtdnVaRUliWWJQdk4zSFZ1ZkFxcmQ1RG1FN0lTQTUwUVBVU29tUE9HamVVcXQ3Vjhvd0JQQjFHV19CNElMWlNyZmpaNnk0dGFGRmRSd3FYa1l0SjBSSm5vSHpwbmlwc2lndXYxVnBPMmJkbmM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f145c9263292",
-      "title": "Researchers explore immunotherapy to revive natural hair color - WCNC",
-      "published": "2026-06-23T09:00:00+00:00",
-      "summary": "Researchers explore immunotherapy to revive natural hair color&nbsp;&nbsp;WCNCSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "WCNC",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQX2ZKSm9zTGcyUm9rRTg5WlhqSTExQ3RMNUpsUUp2SURhRHNGOTJ3LWUyOFBGcGI2WHBmU2tQdUFqVndaZ1dMS0VrblFiR3NjRXN0RjFBZHRjWU1Da25nMlBpcnhDcWs5RXI4eGMyeWdrc3FhLTJYaVNuZFlRbFRvZC0wenZ1LU5KaVRJdDJYUW1jOHYtblQzbHhXTml1cTI4cDU0QmlYU3RWTXZZeEl2TFAtZUhRNHFyN1hSTElXNmtfZDJsaDBqQzNULTFhdVAxa0UtYnd1ZktWTnlXSnFLcEpB?oc=5"
+          "name": "TODAY.com",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTmZlQlcxZ2dUdXcwdWFoZ3cza0s4ZEt4RW9VeVY2VFNGV1ZvN3pyaGNHdW50cnJPdVZxZF9HOHBVcExSeGFQdFJxeEFLdGt1dUEzcV9LTkdrY0xibzA0aUZWZmJzT19peFoxNnNJOU5HSmRhZnpHYlU3cm1hM085UDFTQzMyYmM?oc=5"
         }
       ]
     }

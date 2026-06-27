@@ -1,19 +1,103 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-06-27T08:39:37.328359+00:00",
-  "total_fetched": 127,
-  "unique_count": 127,
-  "health_related_count": 63,
+  "fetched_at": "2026-06-27T13:48:34.054005+00:00",
+  "total_fetched": 124,
+  "unique_count": 124,
+  "health_related_count": 64,
   "news": [
+    {
+      "id": "c3fcbd63732f",
+      "title": "Green bananas aren't necessarily bad — experts explain the hidden health perk - Fox News",
+      "published": "2026-06-27T12:00:08+00:00",
+      "summary": "Green bananas aren't necessarily bad — experts explain the hidden health perk&nbsp;&nbsp;Fox News",
+      "sources": [
+        {
+          "name": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT3BOQklRY19KV254Ny1GOG15cjJrbW5DN0dRQ3RtelBzbnRxYVdSMWw1N3dDVWwxWmd3SDVmRDRta1RmS3pQbkRUYnAyaHN3S1NGQkFMS3VFRXZOb0V4R0pZdVRER3d1T3ZlU2JDMzFqbi1XeWp1blFMU2hsUXR1WG8yRlEwM3ROMGdIS0NmRHkxeXZuZktpYXRHcGxNQ2pmN2MtNzdTRkvSAa4BQVVfeXFMTkZjaXNZVFE1VE9LU0ViZDBxc3ZhVjczcWM4S2NrVXZGR1BFUGVQRnJTaG9jckdRRFBsUnh4c1RMcE9IdXRfZFpyTnlHdEN1cnRRb1dGSUxMOGk1Ry1OWEVhN0Q1ejNKbXRCMjhJdUhMa3lrTEFzTkxzdnE2Qy1sVGxvdmpVRVZycTR1elVMNVhVLXl2eU9ZY2o3c3pLS3dtbjdhWlFWX1VLWkZGOHdR?oc=5"
+        }
+      ]
+    },
     {
       "id": "47af2d77de9a",
       "title": "5 Carbs People with Heart Disease Should Be Eating, According to Dietitians - EatingWell",
-      "published": "2026-06-27T07:43:13+00:00",
+      "published": "2026-06-27T10:43:42+00:00",
       "summary": "5 Carbs People with Heart Disease Should Be Eating, According to Dietitians&nbsp;&nbsp;EatingWell",
       "sources": [
         {
           "name": "EatingWell",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNnVKNHFoWTNxUUV3akI2aGhHVTR2Ym5CcUxLcmVNXzF5ZWdUR25XSDVNLU9UUEJCZ0xnUGZoRm12OXhZYi0xQ3htZEYtUWFONjl3QV8xWXd5dHRtUHBKbEtXN0hvUTBQMUNBbnZZU0NfdXJKeXRsODlmZDBqRkxrX1pmdXU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fbb029d50db3",
+      "title": "If a Lyme disease vaccine gets approved, how would it go over? We asked hunters - NPR",
+      "published": "2026-06-27T10:30:00+00:00",
+      "summary": "If a Lyme disease vaccine gets approved, how would it go over? We asked hunters&nbsp;&nbsp;NPR",
+      "sources": [
+        {
+          "name": "NPR",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObDRici1obWltTkNwTHM3Ukl0S2F3RlFkM2RYQlBOTU1tVFFEUVNWc3kxYmJXT3VFSGFHYk5ITFNUODg0Uy13ajk4UHBIMnJZTUIzcDVzbW90VzQ4VmRRRG54R2JpYTBoaGQzU0RsMnZDalhkQ05Bc21sSkVfa0tucUYtaHZRaTc2QWNCNk5melJjb2s?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "caca523ea3cf",
+      "title": "A chef-turned nutrition scientist eats 30g of fiber a day. She shared her go-to breakfast, lunch, and dinner. - Business Insider",
+      "published": "2026-06-27T09:52:28+00:00",
+      "summary": "A chef-turned nutrition scientist eats 30g of fiber a day. She shared her go-to breakfast, lunch, and dinner.&nbsp;&nbsp;Business Insider‘Fibremaxxing with avocado and beans’: Try this gastroenterologist-approved recipe to hit your daily fibre goals&nbsp;&nbsp;Hindustan TimesWhy You Need To Eat Fibre Daily&nbsp;&nbsp;NDTVTanya Zuckerbrot on Fiber as a Superpower for Lifelong Health&nbsp;&nbsp;Future of Personal Health -Why fiber is important – and how to get enough&nbsp;&nbsp;UCLA Health",
+      "sources": [
+        {
+          "name": "Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOakZoMk1OSndkck5heXVTVFdZWlFkdTM5YzZNN0M0am1QWnU1UUNLUHF1clA4NUg3bEFrUWdVV0VhdE5OUVRxMTdKVG1RMGRJMXFYSl8wWG1HZTNlV0w2cEhKU2ctWUlDbkN3NlNxOHBCX1NaallxOTI4STJ1QXdadjI3bnp6T2thLUZmWUFoanV4cldVVWg5TnJoVUtxNEZISWw0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aa668e79aadb",
+      "title": "Latest COVID vaccine may have unexpected health benefit, study suggests - New York Post",
+      "published": "2026-06-27T09:51:00+00:00",
+      "summary": "Latest COVID vaccine may have unexpected health benefit, study suggests&nbsp;&nbsp;New York PostSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRDFFMVNaMmVXcXhMZ28tNVdTRU96dHpfSGVKYW9fYy1LYXdOeGtRQVNUTU9jMng3R1FTT2pxT2lZSG5tZERYN25wVG4wWlo3YlJMQ0M4NldpWDJsekQwNzhEVnhUYmJCYnlUcTdXVHdEazBZeEU3cVFPa3NYV1ZReU5nbWtXQmtja2YxNFdxb2pCU3VqakVBbnJFN0wxYmhOMERIa3BtcUlGQW1kY0dYeTJ6NFdvajJHUjN3Sw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e9b01a22a782",
+      "title": "A cardiologist said 3 foods that seem healthy could be harming your heart - Business Insider",
+      "published": "2026-06-27T09:36:00+00:00",
+      "summary": "A cardiologist said 3 foods that seem healthy could be harming your heart&nbsp;&nbsp;Business InsiderThe ‘Healthy’ Breakfast Staple That’s Silently Raising Your Blood Pressure, According to Cardiologists&nbsp;&nbsp;Parade",
+      "sources": [
+        {
+          "name": "Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbzA1RXdjYlRscjRfOEc5S29PN0R2SjRJdmxXUEduSTBNRlNENlB6TEN0UWtoTWc4VS1XbHpqT091NFNPZ2VTNmhIZV9Gd1FGcVJ6VHJpeDlSeTZlUnEtTGowSFBCRnRYSGk0dHNsUy05WldGQnNJd1c0LU1OeXdaUGF4dHQxSWtOVTlOZFA5allCeU4yVXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f48269bc9381",
+      "title": "Volunteers Are Risking Their Lives to Stop Ebola. They Aren’t Always Welcome. - The New York Times",
+      "published": "2026-06-27T09:01:25+00:00",
+      "summary": "Volunteers Are Risking Their Lives to Stop Ebola. They Aren’t Always Welcome.&nbsp;&nbsp;The New York TimesIn the shadow of Ebola: Scenes from the outbreak's frontlines&nbsp;&nbsp;ReutersEbola: Health workers battle virus and stigma&nbsp;&nbsp;africanews.comSpreading awareness on the frontlines of Ebola response&nbsp;&nbsp;YahooDoctor treating Ebola patients describes challenges health workers face at home and treatment center&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbU9aczZDMWVYS3RjWEFHOWJQY3VJM3p1cUxaZ3dkR2MwREVjVldtd0Z2YjczWUYwcmFFd085QzNmZEd1NXlobnNiTzIxMktOY2gybjBueHd0dTE0TW5XU0JUdllidlpGZDFqUFpyU0lrYndWMHhHNjBSdWZOcjVXNG5YeDdTTUNPQkdVQnpMbm9mdmpzTDR3T3Q1XzJjUm5pQ2Vr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "47501052ec91",
+      "title": "In 2018, low Earth orbit still had months of margin: if satellites stopped dodging one another, researchers estimate it could take 164 days before a catastrophic collision. By 2025, after the rise of megaconstellations, that margin had collapsed to just 5.5 days. - Space Daily",
+      "published": "2026-06-27T02:30:13+00:00",
+      "summary": "In 2018, low Earth orbit still had months of margin: if satellites stopped dodging one another, researchers estimate it could take 164 days before a catastrophic collision. By 2025, after the rise of megaconstellations, that margin had collapsed to just 5.5 days.&nbsp;&nbsp;Space Daily",
+      "sources": [
+        {
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPb1RpazE2S3czVVhYdTRDZEI0Z2F0YjZHZ2JfNmROZGNIWE8yNW1CQ25hZmhOS1dZSGxVQnl6dTJqeHBuRk9ETXFLaTA2STktOHE4Y3o2TmZwUDdSa2xUbDRNWk4xWmNzVHg4am1LX0FYYkpJU3Vpb0V1cHJnSGY5OF9Qdlk1Sl9PWjcxeUMzYkZ2VVIxblRoNTFpazV4OGtvTUF4S19KWldwOWFrLUdLd2lHMndOQ01kRmRmYVNfTkIyMlRySF9uNWlNRENWWjVHb3lEUHRxMkU2bU5McjlyMHVENmFqYmNGRUZENUdPYXNGeEJUZV85Ry1zVVJURF9BQm11MGdVcG02VGZxdXo4VWRGRnV0ME44dGF5ZFdaNUN1TjJjVWhQVi1FajIwQldmSDRuYnZKSmRKakhCS2J3V1pR?oc=5"
         }
       ]
     },
@@ -54,10 +138,22 @@
       ]
     },
     {
+      "id": "70e154881bdc",
+      "title": "This 5-Minute Daily Habit Could Significantly Lower Your Stroke Risk, New Study Says - EatingWell",
+      "published": "2026-06-26T23:00:00+00:00",
+      "summary": "This 5-Minute Daily Habit Could Significantly Lower Your Stroke Risk, New Study Says&nbsp;&nbsp;EatingWellSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aRlFjQXp3UTZ0ZW1LeUFMU0toZTRUQUs5UUJRaTU5bnE3a0Q1QVN0di1xYUtCQ0c0cnZ5SkRycnVmN09TQ1dxY01GdDBQcWkyTUFHYTZTODlBclFCSXlRem5CM2Fablk4YTlQek9tSzJqVk1pV2dKQ0x2MDJwT1k?oc=5"
+        }
+      ]
+    },
+    {
       "id": "885728a87186",
       "title": "US starts vaccine effort for Ebola Bundibugyo as outbreak spreads - Reuters",
       "published": "2026-06-26T22:09:43+00:00",
-      "summary": "US starts vaccine effort for Ebola Bundibugyo as outbreak spreads&nbsp;&nbsp;ReutersWHO announces 2 trials of experimental drugs in Ebola outbreak&nbsp;&nbsp;CIDRAPMapp, Gilead antivirals to be deployed in DRC Ebola trial: WHO chief&nbsp;&nbsp;Fierce BiotechUS to ship experimental Ebola therapy to DRC and Uganda as outbreak worsens By Reuters&nbsp;&nbsp;Investing.comWashington sends experimental treatment and tests to Africa to contain the \"Bundibugyo Ebola\" outbreak&nbsp;&nbsp;صوت الإمارات",
+      "summary": "US starts vaccine effort for Ebola Bundibugyo as outbreak spreads&nbsp;&nbsp;ReutersU.S. provides experimental Ebola treatment for outbreak in Congo, bringing trials closer&nbsp;&nbsp;NBC NewsMapp, Gilead antivirals to be deployed in DRC Ebola trial: WHO chief&nbsp;&nbsp;Fierce BiotechWHO announces 2 trials of experimental drugs in Ebola outbreak&nbsp;&nbsp;CIDRAPWashington sends experimental treatment and tests to Africa to contain the \"Bundibugyo Ebola\" outbreak&nbsp;&nbsp;صوت الإمارات",
       "sources": [
         {
           "name": "Reuters",
@@ -90,18 +186,6 @@
       ]
     },
     {
-      "id": "1d1f733a1d92",
-      "title": "What Happens to Your Blood Sugar When You Take Fish Oil Supplements? - Health: Trusted and Empathetic Health and Wellness Information",
-      "published": "2026-06-26T20:11:35+00:00",
-      "summary": "What Happens to Your Blood Sugar When You Take Fish Oil Supplements?&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness Information",
-      "sources": [
-        {
-          "name": "Health: Trusted and Empathetic Health and Wellness Information",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqeldrRUppXzFUbHZJandES3oxSHJ5clN5ems0QW1Yc0oyUENwN1RwMi0waGNwX1FZYmhZbmpjNDNxVHhHQ2RyOGJXaW1OYjloWEI3UkJnZXFtVWpzV2RHTVJLUWVRaHAxTHJiWDNRWHU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "df396cac9fb1",
       "title": "Rhode Island man diagnosed with Powassan disease - WJAR",
       "published": "2026-06-26T19:40:42+00:00",
@@ -126,10 +210,22 @@
       ]
     },
     {
+      "id": "60f326068dc2",
+      "title": "CDC elevates Ebola response to highest level - The Hill",
+      "published": "2026-06-26T19:16:00+00:00",
+      "summary": "CDC elevates Ebola response to highest level&nbsp;&nbsp;The HillUS CDC raises Ebola outbreak response to highest level&nbsp;&nbsp;ReutersCDC raises Ebola Congo outbreak response to highest level, Reuters reports&nbsp;&nbsp;TipRanksUS activates highest-level response to Ebola outbreak&nbsp;&nbsp;Medical XpressCDC increases response level to Ebola outbreak&nbsp;&nbsp;upi.com",
+      "sources": [
+        {
+          "name": "The Hill",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xaFlUYzNXRUxZRWVlblZ5RE5kTFJzdVFHeUtkMnR2X0hrWjB0RkwwSWlTSVRJcE5fdW9ZNTVlSlBvTTZjS1UxTWFVaE9OS2tsM1VZZmh0QmQwZjRkOGQ2SjFPbEVaMUktMk5lamFURF9sTk93LWI5NWw3VEbSAYIBQVVfeXFMT0lRYVBjTGJqN29jNTNPMjYwbDhGb3Y2NkNHeGtUS0xUSXRwUExra0pveW9NbWxaNVZVN04yVWZTNGpUZzRCMzZzVGwyVG9rd1pJRHhVZlZBb1NYLVNIOHVHTHZzTEVVaFpIdmRmcl9tc1hIRGJwLUREMEd5OG1HYVhpUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7577ccc9702b",
       "title": "Doctors warn of severe adult measles cases as Lancaster County outbreak grows - LancasterOnline",
       "published": "2026-06-26T19:00:00+00:00",
-      "summary": "Doctors warn of severe adult measles cases as Lancaster County outbreak grows&nbsp;&nbsp;LancasterOnlinePennsylvania’s Health Secretary unveils plan to combat measles outbreaks&nbsp;&nbsp;ABC27Measles detected in two more counties in Pennsylvania as health department recommends early vaccination&nbsp;&nbsp;Inquirer.comNew measles case reported in York County as outbreak grows in south central Pa.&nbsp;&nbsp;FOX43Officials provide update on state's response to measles outbreak&nbsp;&nbsp;WGAL",
+      "summary": "Doctors warn of severe adult measles cases as Lancaster County outbreak grows&nbsp;&nbsp;LancasterOnlinePennsylvania’s Health Secretary unveils plan to combat measles outbreaks&nbsp;&nbsp;ABC27Measles detected in two more counties in Pennsylvania as health department recommends early vaccination&nbsp;&nbsp;Inquirer.comOfficials provide update on state's response to measles outbreak&nbsp;&nbsp;WGALNew measles case reported in York County as outbreak grows in south central Pa.&nbsp;&nbsp;fox43.com",
       "sources": [
         {
           "name": "LancasterOnline",
@@ -165,7 +261,7 @@
       "id": "3d216806a8dd",
       "title": "Exclusive | Mom gets groundbreaking mastectomy from a $2M robot named Carol - New York Post",
       "published": "2026-06-26T17:26:00+00:00",
-      "summary": "Exclusive | Mom gets groundbreaking mastectomy from a $2M robot named Carol&nbsp;&nbsp;New York PostMoraga mom is U.S. pioneer to undergo breakthrough robotic breast cancer surgery&nbsp;&nbsp;KTVUAtlantiCare offers robotic nipple-sparing mastectomy with minimally invasive approach&nbsp;&nbsp;ROI-NJMom gets groundbreaking mastectomy from a $2M robot named Carol — and went to the beach with a tiny scar weeks later&nbsp;&nbsp;AOL.com",
+      "summary": "Exclusive | Mom gets groundbreaking mastectomy from a $2M robot named Carol&nbsp;&nbsp;New York PostMoraga mom is U.S. pioneer to undergo breakthrough robotic breast cancer surgery&nbsp;&nbsp;KTVUAtlantic City, NJ Area Hospital First In Tri-States To Offer This&nbsp;&nbsp;WPG Talk Radio 95.5 FMAtlantiCare offers robotic nipple-sparing mastectomy with minimally invasive approach&nbsp;&nbsp;ROI-NJMom gets groundbreaking mastectomy from a $2M robot named Carol — and went to the beach with a tiny sc",
       "sources": [
         {
           "name": "New York Post",
@@ -177,7 +273,7 @@
       "id": "54add42d6777",
       "title": "Alzheimer's: Anti-inflammatory diet may help reduce risk by up to 29% - Medical News Today",
       "published": "2026-06-26T17:17:14+00:00",
-      "summary": "Alzheimer's: Anti-inflammatory diet may help reduce risk by up to 29%&nbsp;&nbsp;Medical News TodayDementia Risk Lower With Anti-Inflammatory Diet Even With Alzheimer's Biomarkers&nbsp;&nbsp;MedPage TodayThe Best Diet For Brain Health Is Probably Not What You Think&nbsp;&nbsp;ScienceAlertWhich diet — and exact foods — are great for preventing dementia: study&nbsp;&nbsp;New York PostA healthy diet may still make a difference for people at higher risk of dementia&nbsp;&nbsp;The Conversation",
+      "summary": "Alzheimer's: Anti-inflammatory diet may help reduce risk by up to 29%&nbsp;&nbsp;Medical News TodayThe Best Diet For Brain Health Is Probably Not What You Think&nbsp;&nbsp;ScienceAlertWhich diet — and exact foods — are great for preventing dementia: study&nbsp;&nbsp;New York PostA healthy diet may still make a difference for people at higher risk of dementia&nbsp;&nbsp;The ConversationPreventing Alzheimer's&nbsp;&nbsp;AG INFORMATION NETWORK OF THE WEST",
       "sources": [
         {
           "name": "Medical News Today",
@@ -198,10 +294,22 @@
       ]
     },
     {
+      "id": "71c4db917e77",
+      "title": "Common Laxative May Help Reverse Depression-Related Brain Fog - SciTechDaily",
+      "published": "2026-06-26T15:53:35+00:00",
+      "summary": "Common Laxative May Help Reverse Depression-Related Brain Fog&nbsp;&nbsp;SciTechDaily",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY1lCZ25QUXVJeXJBNkpkZzREcnZmcmtCMVJnakNXcUdMMGNxMVJYbTNVZ1h0SDdFSTRxZ2FEU29vWGlzenBzVGhidFNDemVqSWEyMnh0ZXItWGhEUGpzSVA3b0NicnBMczBxNi14Uk5JUGstU3BQaVBmOVFlMHVGdFNTbVRkdHB0aHVnQU9vekE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "eab12cc0602e",
       "title": "Mosquitos carrying West Nile virus found in three Twin Cities counties - Star Tribune",
       "published": "2026-06-26T15:27:10+00:00",
-      "summary": "Mosquitos carrying West Nile virus found in three Twin Cities counties&nbsp;&nbsp;Star TribuneWest Nile virus detected in mosquitoes in 3 Minnesota counties&nbsp;&nbsp;FOX 9 Minneapolis-St. PaulWest Nile detected in Hennepin, Ramsey and Dakota County mosquitoes&nbsp;&nbsp;5 EYEWITNESS NEWSMosquitos in Twin Cities test positive for West Nile virus&nbsp;&nbsp;kare11.comWest Nile Virus showing up in The Twin Cities&nbsp;&nbsp;Willmar Radio",
+      "summary": "Mosquitos carrying West Nile virus found in three Twin Cities counties&nbsp;&nbsp;Star TribuneWest Nile virus detected in mosquitoes in 3 Minnesota counties&nbsp;&nbsp;FOX 9 Minneapolis-St. PaulWest Nile detected in Hennepin, Ramsey and Dakota County mosquitoes&nbsp;&nbsp;5 EYEWITNESS NEWSMosquitos in Twin Cities test positive for West Nile virus&nbsp;&nbsp;kare11.comMosquitos in Minnesota test positive for West Nile Virus for the first time this summer&nbsp;&nbsp;MPR News",
       "sources": [
         {
           "name": "Star Tribune",
@@ -237,7 +345,7 @@
       "id": "8b6865b76686",
       "title": "European heatwave's unlikely accomplice: an ocean 'cold blob' - Yahoo",
       "published": "2026-06-26T12:23:08+00:00",
-      "summary": "European heatwave's unlikely accomplice: an ocean 'cold blob'&nbsp;&nbsp;YahooAMOC response to historical freshwater increase&nbsp;&nbsp;NatureA strange ‘cold blob’ in the Atlantic could be a sign of trouble&nbsp;&nbsp;The WeekGulf Stream goes Canadian: It’s happened before and it could again&nbsp;&nbsp;The Weather NetworkNorth Atlantic Warm Hole Correlated With Europe Heat Risk; Expect Repeat in July and August&nbsp;&nbsp;Climate Impact Company",
+      "summary": "European heatwave's unlikely accomplice: an ocean 'cold blob'&nbsp;&nbsp;YahooA Giant Ocean System That Keeps Europe Warm Is Weakening&nbsp;&nbsp;News18North Atlantic Warm Hole Correlated With Europe Heat Risk; Expect Repeat in July and August&nbsp;&nbsp;Climate Impact CompanyAMOC response to historical freshwater increase&nbsp;&nbsp;NatureGulf Stream goes Canadian: It’s happened before and it could again&nbsp;&nbsp;The Weather Network",
       "sources": [
         {
           "name": "Yahoo",
@@ -261,11 +369,23 @@
       "id": "0e9eb68ea679",
       "title": "Whereabouts of nearly 300 people with Ebola unknown in DR Congo - The Guardian",
       "published": "2026-06-26T11:55:00+00:00",
-      "summary": "Whereabouts of nearly 300 people with Ebola unknown in DR Congo&nbsp;&nbsp;The GuardianInside the gold-mining town where the Ebola outbreak likely started&nbsp;&nbsp;NPRCongo Ebola Crisis: Contact Tracing Is Dangerously Behind, Officials Warn&nbsp;&nbsp;The New York TimesEbola Outbreak, DRC and Region, Situation Report #8, June 24, 2026&nbsp;&nbsp;ReliefWebAs Ebola cases hit 1,000, almost 3 million children and adolescents face rising risks in eastern DR Congo&nbsp;&nbsp;Unicef",
+      "summary": "Whereabouts of nearly 300 people with Ebola unknown in DR Congo&nbsp;&nbsp;The GuardianInside the gold-mining town where the Ebola outbreak likely started&nbsp;&nbsp;NPREbola Outbreak, DRC and Region, Situation Report #8, June 24, 2026&nbsp;&nbsp;ReliefWebAs Ebola cases hit 1,000, almost 3 million children and adolescents face rising risks in eastern DR Congo&nbsp;&nbsp;UNICEFCongo says number of confirmed Ebola cases rises to 1,155&nbsp;&nbsp;Reuters",
       "sources": [
         {
           "name": "The Guardian",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEtpZmhhTUM2aEo1a2h3bXdCNFVwaFBrajgxR3huZ2VoTWZNeTZPVjdxTVpFN0ZsY0hmNVBvWmJuUlN3NWpRM1h0cHM2cEszT3NGU0tFeXYzZFNFM05nX2w0RnlXSWtIelRwM0JzcHZaY1JQcGpYSTJweC1BZWtiWHc3N3JmQ2taODEyV0FBTkt5X0lUSjUyMDF5QnhEQmZ1UTZLQTNVelg5TXFPV0pCa0d3ME5lTUpF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d2fead5184cd",
+      "title": "Stress Can Physically Alter Your Blood's Structure, Study Reveals - ScienceAlert",
+      "published": "2026-06-26T11:04:48+00:00",
+      "summary": "Stress Can Physically Alter Your Blood's Structure, Study Reveals&nbsp;&nbsp;ScienceAlertHealthwatch: How stress can impact your health&nbsp;&nbsp;WSLSChronic stress does not stay in the mind, and seven body systems can start showing the pressure before people connect the dots&nbsp;&nbsp;OkDiarioCan Chronic Stress Shrink Your Brain? Expert Weighs In&nbsp;&nbsp;OnlymyhealthHow Chronic Stress Quietly Rewires Your Body&nbsp;&nbsp;Mega Doctor News",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPelJLd0RpMTJJZEJYNGhVSVhNZkV6QnJJTUF1dDZXWk1UdzdraWJNT3FERllfVVZHQlhCNDE4SloxOGkzNGdxVVdLcDZkRFpFTko5VVFUNEJVYkxDaGdDZ0RkU0NrRW80a2dYbDg3eGZkamY0SjhpRkVkdFc5Tks1cFJTRlEzSG1nb3BQNVpSMWFGcUNDcGIw?oc=5"
         }
       ]
     },
@@ -309,7 +429,7 @@
       "id": "ed7834818d91",
       "title": "An 80-year-old woman with advanced Alzheimer's regained speech and mobility after taking psilocybin - PsyPost",
       "published": "2026-06-26T10:17:37+00:00",
-      "summary": "An 80-year-old woman with advanced Alzheimer's regained speech and mobility after taking psilocybin&nbsp;&nbsp;PsyPostWoman with Alzheimer's starts conversing again after taking psilocybin&nbsp;&nbsp;New ScientistA Research Hypothesis, Not A Treatment Recommendation: Marcos Lago on the Viral Psilocybin for Alzheimer's Case Report&nbsp;&nbsp;Psychedelic AlphaA Woman With Advanced Alzheimer’s Took Magic Mushrooms and Started Speaking Again&nbsp;&nbsp;ZME ScienceA Woman With Alzheimer’s Spoke in Fu",
+      "summary": "An 80-year-old woman with advanced Alzheimer's regained speech and mobility after taking psilocybin&nbsp;&nbsp;PsyPostWoman with Alzheimer's starts conversing again after taking psilocybin&nbsp;&nbsp;New ScientistA Research Hypothesis, Not A Treatment Recommendation: Marcos Lago on the Viral Psilocybin for Alzheimer's Case Report&nbsp;&nbsp;Psychedelic AlphaWoman with Alzheimer’s shows improvements after taking magic mushrooms in single-person study&nbsp;&nbsp;CTV NewsSevere Alzheimer’s: what ha",
       "sources": [
         {
           "name": "PsyPost",
@@ -321,7 +441,7 @@
       "id": "8474b8a29bb2",
       "title": "Scientists find evidence of vast hidden magma systems inside Mars - Phys.org",
       "published": "2026-06-26T09:00:04+00:00",
-      "summary": "Scientists find evidence of vast hidden magma systems inside Mars&nbsp;&nbsp;Phys.orgSeismic evidence for a melt-depleted lower crust and transcrustal magmatism on Mars&nbsp;&nbsp;NatureRumbles Deep Inside Mars Hint at a Vast, Ancient Magma System&nbsp;&nbsp;ScienceAlertThe New Seismic Discovery Beneath the Surface of Mars&nbsp;&nbsp;YahooScientists find huge ‘magma systems’ inside Mars&nbsp;&nbsp;The Independent",
+      "summary": "Scientists find evidence of vast hidden magma systems inside Mars&nbsp;&nbsp;Phys.orgSeismic evidence for a melt-depleted lower crust and transcrustal magmatism on Mars&nbsp;&nbsp;NatureRumbles Deep Inside Mars Hint at a Vast, Ancient Magma System&nbsp;&nbsp;ScienceAlertAncient Mars Hosted Complex Deep-Earth Volcanism&nbsp;&nbsp;LabrootsThe New Seismic Discovery Beneath the Surface of Mars&nbsp;&nbsp;Nautilus | Science",
       "sources": [
         {
           "name": "Phys.org",
@@ -333,7 +453,7 @@
       "id": "373aff016590",
       "title": "A Russian module called Zvezda has been venting the space station's air through cracks since 2019 — losing nearly 2 kilograms a day before NASA auditors flagged it the highest safety risk aboard - Space Daily",
       "published": "2026-06-26T08:37:05+00:00",
-      "summary": "A Russian module called Zvezda has been venting the space station's air through cracks since 2019 — losing nearly 2 kilograms a day before NASA auditors flagged it the highest safety risk aboard&nbsp;&nbsp;Space DailyCracks in the International Space Station are causing air leaks – how much longer can it remain habitable?&nbsp;&nbsp;The ConversationWhat Happens If Russia Shuts The Door On Their Leaky ISS Module?&nbsp;&nbsp;HackadayTension Flared on Space Station as Russia Threatened to Drill and",
+      "summary": "A Russian module called Zvezda has been venting the space station's air through cracks since 2019 — losing nearly 2 kilograms a day before NASA auditors flagged it the highest safety risk aboard&nbsp;&nbsp;Space Daily",
       "sources": [
         {
           "name": "Space Daily",
@@ -342,10 +462,22 @@
       ]
     },
     {
+      "id": "6f95b3c095d0",
+      "title": "Jails are the frontline in fielding dangerous new type of drug withdrawal - statnews.com",
+      "published": "2026-06-26T08:32:45+00:00",
+      "summary": "Jails are the frontline in fielding dangerous new type of drug withdrawal&nbsp;&nbsp;statnews.com",
+      "sources": [
+        {
+          "name": "statnews.com",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWDdQYnhHeS1aTE12SUs2LXIzQmVhYi1GSHJtbXN5Mll0eTBrcmlRcFJCMlFZZDV2Vkc4VXRGSkIwNHcwVC1rNVc1NmNYcDh0b0lUQzJBZDlCc2xGcGlOYkpFY05uUnNZZXZLTTloVUJnd1djeDJKS3ZoWVlEcHJkbXhjeTVvY1E?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d391bb5ebabc",
       "title": "Vitamin D, calcium may not be as helpful for strong bones as thought - Medical News Today",
       "published": "2026-06-26T08:27:13+00:00",
-      "summary": "Vitamin D, calcium may not be as helpful for strong bones as thought&nbsp;&nbsp;Medical News TodayCalcium and vitamin D supplements do little to prevent falls and fractures, study suggests&nbsp;&nbsp;The Globe and MailNew study challenges one of the most common bone health habits&nbsp;&nbsp;The IndependentScientists Say These Bone Health Supplements Don’t Actually Lower Risk of Falls or Fractures&nbsp;&nbsp;PreventionStudy: Calcium, vitamin D fail to reduce risk of fractures, falls&nbsp;&nbsp;Mc",
+      "summary": "Vitamin D, calcium may not be as helpful for strong bones as thought&nbsp;&nbsp;Medical News TodayPopular Bone Supplements May Not Prevent Fractures, Major Review Finds&nbsp;&nbsp;ScienceAlertCalcium and vitamin D supplements do little to prevent falls and fractures, study suggests&nbsp;&nbsp;The Globe and MailStudy: Calcium, vitamin D fail to reduce risk of fractures, falls&nbsp;&nbsp;McKnight's Long-Term Care NewsScientists Say These Bone Health Supplements Don’t Actually Lower Risk of Falls o",
       "sources": [
         {
           "name": "Medical News Today",
@@ -378,22 +510,10 @@
       ]
     },
     {
-      "id": "8b0659b53004",
-      "title": "Parasite Affecting 1 in 3 People Is a Serious Risk to Human Health, Scientists Warn - ScienceAlert",
-      "published": "2026-06-26T05:19:47+00:00",
-      "summary": "Parasite Affecting 1 in 3 People Is a Serious Risk to Human Health, Scientists Warn&nbsp;&nbsp;ScienceAlertThis Cat Parasite Infects Billions of People. Scientists Say We’ve Been Underestimating It&nbsp;&nbsp;GizmodoExperts urge neglected tropical disease status for ocular toxoplasmosis&nbsp;&nbsp;News-MedicalToxoplasmosis: The Global NTD Push&nbsp;&nbsp;Scientific FrontlineScientists Warn WHO: Cat-Linked Parasite Infects One-Third of Global Population, Poses Risks to Vision, Pregnancy, and Neur",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQnFNRW94emMyazBXNkRxMW1TS2hxd1p6WThDVl81SXF6ZzFHc0NjNU1Qa2ZsdmtIZmRFbGJ2S3M3MkgtdVV5dGs3ZHl4WFllMjNDd2NkNVNNbEtpUzktQ2Z6Qzh2TGU4NW5iYXV0OGZ6LXBvVEZUeFFGVlRMYnFUVktoaVlYU2ZGTk9hcUw1aWw2aG5Fd2o0Smh3c01SRzJON0FodC1vY3JOZ3NUc0NJNw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d0de039e4c10",
       "title": "What went right this week: the good news that matters - Positive News",
       "published": "2026-06-26T05:09:45+00:00",
-      "summary": "What went right this week: the good news that matters&nbsp;&nbsp;Positive NewsHPV jabs cut risk of dying from cervical cancer before 30 to almost zero&nbsp;&nbsp;The GuardianHPV vaccine: Your questions answered as cervical cancer deaths fall to zero in women under 24&nbsp;&nbsp;BBCDeaths from this cancer can now be virtually eliminated&nbsp;&nbsp;National GeographicCervical cancer deaths have plummeted thanks to HPV vaccine&nbsp;&nbsp;New Scientist",
+      "summary": "What went right this week: the good news that matters&nbsp;&nbsp;Positive NewsDeaths from this cancer can now be virtually eliminated&nbsp;&nbsp;National GeographicYoung women now have 'close to zero' risk of cervical cancer death after HPV jab&nbsp;&nbsp;BBCHPV jabs cut risk of dying from cervical cancer before 30 to almost zero&nbsp;&nbsp;The GuardianThe HPV vaccine works—but only if we keep trusting it&nbsp;&nbsp;Medical Xpress",
       "sources": [
         {
           "name": "Positive News",
@@ -402,13 +522,13 @@
       ]
     },
     {
-      "id": "4ec95471a7b0",
-      "title": "What to know about intermittent fasting - KSL News",
+      "id": "c4602a6d4b66",
+      "title": "What to know about intermittent fasting - KSL.com",
       "published": "2026-06-26T02:30:36+00:00",
-      "summary": "What to know about intermittent fasting&nbsp;&nbsp;KSL NewsIntermittent Fasting vs. Calorie Count: Which Is Best for Weight Loss?&nbsp;&nbsp;HealthlineThe diet that can reduce ‘food noise’ and alleviate stress&nbsp;&nbsp;Discover SWNSIs intermittent fasting safe for everyone? Dietitian shares who should be careful&nbsp;&nbsp;Hindustan TimesVideo: What to know about intermittent fasting&nbsp;&nbsp;KSLTV.com",
+      "summary": "What to know about intermittent fasting&nbsp;&nbsp;KSL.comIntermittent Fasting vs. Calorie Count: Which Is Best for Weight Loss?&nbsp;&nbsp;HealthlineThe diet that can reduce ‘food noise’ and alleviate stress&nbsp;&nbsp;Discover SWNSIs intermittent fasting safe for everyone? Dietitian shares who should be careful&nbsp;&nbsp;Hindustan TimesVideo: What to know about intermittent fasting&nbsp;&nbsp;KSLTV.com",
       "sources": [
         {
-          "name": "KSL News",
+          "name": "KSL.com",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWmNaaDJUZ05JYzVuQmlBZ0h5eDM4eUw3MUlBQlpWSEpUWEUwMW92N0JyZVJHcjQycnRZdURiWjVNYlBGM3VCcXk0V0ZadzI1WGZWQlZXU1drcV95dXJFZmZGU1FKd1MtSkZEWS03STh2S3JIYy1JRUFRZXJPU09UbFNn?oc=5"
         }
       ]
@@ -417,7 +537,7 @@
       "id": "3bb6a9b714ea",
       "title": "Humans And Apes Have Laughed The Same Way For Millions of Years, Study Suggests - ScienceAlert",
       "published": "2026-06-26T02:04:47+00:00",
-      "summary": "Humans And Apes Have Laughed The Same Way For Millions of Years, Study Suggests&nbsp;&nbsp;ScienceAlertRhythm and timing in laughter reveal that human vocal plasticity falls on a hominid continuum | Communications Biology&nbsp;&nbsp;NatureTo Reveal the Rhythmic Roots of Laughter, Just Tickle an Ape&nbsp;&nbsp;The New York TimesGet a load of this: Humans and great apes share similar giggles&nbsp;&nbsp;AP NewsScientists Tickled Gorillas And Found A 15-Million-Year-Old Clue To How Humans Learned Sp",
+      "summary": "Humans And Apes Have Laughed The Same Way For Millions of Years, Study Suggests&nbsp;&nbsp;ScienceAlertRhythm and timing in laughter reveal that human vocal plasticity falls on a hominid continuum | Communications Biology&nbsp;&nbsp;NatureTo Reveal the Rhythmic Roots of Laughter, Just Tickle an Ape&nbsp;&nbsp;The New York TimesScientists Tickled Gorillas And Found A 15-Million-Year-Old Clue To How Humans Learned Speech&nbsp;&nbsp;ForbesWhat an ape’s laugh can teach us about human language&nbsp;&",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -477,7 +597,7 @@
       "id": "06bd782ee5a3",
       "title": "Long-Term Iron Accumulation Strips Neurons of Disease Resilience - Neuroscience News",
       "published": "2026-06-25T21:31:26+00:00",
-      "summary": "Long-Term Iron Accumulation Strips Neurons of Disease Resilience&nbsp;&nbsp;Neuroscience NewsIron accumulation in the brain may contribute to neurodegeneration&nbsp;&nbsp;Medical XpressIron In The Brain May Secretly Disable Neurons Long Before They Die, Study Finds&nbsp;&nbsp;StudyFindsExcess iron weakens brain neuron defences: Study&nbsp;&nbsp;Awaz The Voice",
+      "summary": "Long-Term Iron Accumulation Strips Neurons of Disease Resilience&nbsp;&nbsp;Neuroscience NewsIron accumulation in the brain may contribute to neurodegeneration&nbsp;&nbsp;Medical XpressKashmiri Scientist Discovers ‘Chronoferroptosis’ A Cellular State Linked to Alzheimer’s, Parkinson’s&nbsp;&nbsp;Kashmir LifeExcess iron accumulation weakens neuron defences, increase vulnerability to stressors: Study&nbsp;&nbsp;ET HealthWorldIron In The Brain May Secretly Disable Neurons Long Before They Die, Stud",
       "sources": [
         {
           "name": "Neuroscience News",
@@ -513,7 +633,7 @@
       "id": "c304c6bab413",
       "title": "Medical Journal Retracts Study Claiming Cancer Therapy Is More Effective When Given in the Morning - The New York Times",
       "published": "2026-06-25T19:29:29+00:00",
-      "summary": "Medical Journal Retracts Study Claiming Cancer Therapy Is More Effective When Given in the Morning&nbsp;&nbsp;The New York TimesNature retracts provocative PD-1 study that tied lung cancer survival to treatment timing&nbsp;&nbsp;Fierce PharmaRetraction of high-profile paper on cancer drug timing could hand ammo to China hawks&nbsp;&nbsp;Endpoints NewsDiscussions Around Retraction of Debated Study on Early Morning Immunotherapy Benefits&nbsp;&nbsp;OncodailyHigh-profile retraction tests confidence",
+      "summary": "Medical Journal Retracts Study Claiming Cancer Therapy Is More Effective When Given in the Morning&nbsp;&nbsp;The New York TimesWeekend reads: A tsunami of misleading medical studies; retraction calls cancer therapy timing into question; a closer look at Max Planck’s retractions&nbsp;&nbsp;Retraction WatchNature retracts provocative PD-1 study that tied lung cancer survival to treatment timing&nbsp;&nbsp;Fierce PharmaRetraction of high-profile paper on cancer drug timing could hand ammo to China",
       "sources": [
         {
           "name": "The New York Times",
@@ -525,7 +645,7 @@
       "id": "c52ff9e6eadc",
       "title": "Younger Generations Are Aging Faster – and It May Be Fueling a Surge in Cancer - SciTechDaily",
       "published": "2026-06-25T19:22:21+00:00",
-      "summary": "Younger Generations Are Aging Faster – and It May Be Fueling a Surge in Cancer&nbsp;&nbsp;SciTechDailyFaster aging in younger generations linked to rise in early-onset cancer&nbsp;&nbsp;WashU MedicineBiological aging and generational shifts in early-onset cancer risk&nbsp;&nbsp;NatureFaster biological aging may explain rising early-onset cancers&nbsp;&nbsp;News-MedicalAge fast, get cancer young: the ‘global surge’ hitting under-50s&nbsp;&nbsp;The Times",
+      "summary": "Younger Generations Are Aging Faster – and It May Be Fueling a Surge in Cancer&nbsp;&nbsp;SciTechDailyFaster aging in younger generations linked to rise in early-onset cancer&nbsp;&nbsp;WashU MedicineBiological aging and generational shifts in early-onset cancer risk&nbsp;&nbsp;NatureFaster biological aging may explain rising early-onset cancers&nbsp;&nbsp;News-MedicalStudy: Gen-Z and Millennials Are Aging Faster Than Their Parents—With Alarming Health Consequences&nbsp;&nbsp;inc.com",
       "sources": [
         {
           "name": "SciTechDaily",
@@ -546,18 +666,6 @@
       ]
     },
     {
-      "id": "b6467685701b",
-      "title": "A 'direct wave' from colliding black holes reveals signature of a whirlpool in spacetime - Phys.org",
-      "published": "2026-06-25T19:00:10+00:00",
-      "summary": "A 'direct wave' from colliding black holes reveals signature of a whirlpool in spacetime&nbsp;&nbsp;Phys.orgBlack hole's 'point of no escape' studied with the loudest gravitational waves ever heard&nbsp;&nbsp;SpaceGW250114 reveals signatures of post-merger black-hole horizon&nbsp;&nbsp;NatureResearchers Detect “Frame Dragging” Around Merging Black Holes | Newswise&nbsp;&nbsp;NewswiseScientists find a way to study the event horizon where light and sound are swallowed for eternity&nbsp;&nbsp;ANU R",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqT25Vb3NyRW5jY2dtbG5PNFRBVHFObm5wbWhlTW5IaVA0V04xcXRrWW9vRUJUenBYa29IU2xNZ0Mxd0xBdkl4TTRWQXZqWFNSTkF3ZVQyblZWRndXeGtMTC1UdGxaMy1YTy1kOTdrRkEyZnVaSC03eE82WEZLdW8?oc=5"
-        }
-      ]
-    },
-    {
       "id": "165cf4bfff4b",
       "title": "The universe should look the same in all directions at large scales, but DESI data suggest otherwise - Phys.org",
       "published": "2026-06-25T16:50:01+00:00",
@@ -573,7 +681,7 @@
       "id": "911fad895332",
       "title": "World’s most contagious disease found at busy California airport - Yahoo",
       "published": "2026-06-25T16:42:54+00:00",
-      "summary": "World’s most contagious disease found at busy California airport&nbsp;&nbsp;YahooWere you at Burbank Airport on June 17? LA County is warning of measles exposure&nbsp;&nbsp;LAistMeasles exposure reported at Hollywood Burbank Airport, county health officials say&nbsp;&nbsp;NBC Los AngelesMeasles Outbreak: New Case Confirmed In LA County&nbsp;&nbsp;PatchMeasles case confirmed in person who traveled through Hollywood Burbank Airport&nbsp;&nbsp;KTLA",
+      "summary": "World’s most contagious disease found at busy California airport&nbsp;&nbsp;YahooMeasles case confirmed in person who traveled through Hollywood Burbank Airport&nbsp;&nbsp;KTLAMeasles exposure reported at Hollywood Burbank Airport, county health officials say&nbsp;&nbsp;NBC Los AngelesWere you at Burbank Airport on June 17? LA County is warning of measles exposure&nbsp;&nbsp;LAistPublic Health confirms measles case in LA County&nbsp;&nbsp;Santa Clarita Valley Signal",
       "sources": [
         {
           "name": "Yahoo",
@@ -642,6 +750,18 @@
       ]
     },
     {
+      "id": "b861c2aae4c7",
+      "title": "Shenandoah National Park Warns of \"Severe\" Norovirus Outbreak on the Appalachian Trail - The Trek",
+      "published": "2026-06-25T14:25:57+00:00",
+      "summary": "Shenandoah National Park Warns of \"Severe\" Norovirus Outbreak on the Appalachian Trail&nbsp;&nbsp;The Trek",
+      "sources": [
+        {
+          "name": "The Trek",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU3pDelhDNW5WR0R3REJCUUFlUFBwbDhLaXdUazR1Vm00T2JXeEt2Q0dHMG92QkxvbzVfaWg1c2xEdGxZeEhBd1I2dzkxSjYxSlpFcDM3MURhcDdWQ1JJaFpabk1xLUZzZkxNN0l4bWFPQlJYTUx3dHdHbm1IUzhYRlZYa3hNS25WTFN3dEptTlNxNVBlYUFBNjczMnFFazRnNU9VQzRtV041RExsZ3pWSDZ3VDJsNTRCN1lPalRCWQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "52d5f960f85f",
       "title": "BIO 2026: How a gut feeling transformed cancer treatment forever - Fierce Biotech",
       "published": "2026-06-25T13:23:37+00:00",
@@ -650,114 +770,6 @@
         {
           "name": "Fierce Biotech",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc1k3X0d3dHcwMFdnOURzempLbUdOWG5CYXlfWVdlS3RXc2w2QUcxazd1SV9ZaHBycmdWeGt2dWpNS1VybmwxdzBjNVI5cnd5bTRzUTh5M0l5VTl6TnNWVzhrVkZuQms1Y0pYZkpMc01kbUF2X09GZERIeUZqc25IUk93ZmQweTJNLVQxWm1mQUM3clFLRGp6T1ZR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f6c5d0eb153a",
-      "title": "Latest COVID vaccine may have unexpected health benefit, study suggests - Fox News",
-      "published": "2026-06-25T11:00:26+00:00",
-      "summary": "Latest COVID vaccine may have unexpected health benefit, study suggests&nbsp;&nbsp;Fox NewsCOVID Vaccine Linked to New Side Effect, Especially in Older Adults&nbsp;&nbsp;Yahoo Lifestyle CanadaUpdated COVID vaccines cut risk of hospital care, heart complications, new data reveal&nbsp;&nbsp;CIDRAPDo Updated COVID Boosters Still Work? CIDRAP Says Yes. The Evidence Says: It Depends.&nbsp;&nbsp;trialsitenews.comCOVID Vaccine Tied to Lower Risk of Heart Attack&nbsp;&nbsp;EMJ",
-      "sources": [
-        {
-          "name": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmtkdE1nN21HVUxaT2pxUWYxa1lQUDQxSGlVVU5DYVlmVERhcF9CbjktZVJpOURmLURTeEFRQm5idWR3d1VyLWd3VXMzUEhjY1ZPVTNCX0p2S3RwemZESVNFaFV2SjllbmpGT1l1aW15VEtLYUdoZVZ6TzlFYUIyZ21DcnRUTlF6RXZzdHpvR04zdXFMUll6bjc2Y1FIeVlNZ1HSAacBQVVfeXFMUE1mY2F6YkVYZzJaampROGZwQzBBck83YTJPZ20xSndIVlpZdkwzTmFfY0RaUWlUZlhEZmlFdmJQNjdTZ185Ykp1VHBiYXhXQW90Sl9QQzNJOEJwWlB6cElVRmtmOHpLanJRTjlBZks5TVFIVF9HNzhUUjdhQjRVMGxlLW5tTEdjc04wVFVjOUFfa05wSTk2ekZ3M3BSRFl1TE9jSjd5TkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f62148029b75",
-      "title": "These Beloved Snacks Are Linked To An Increased Dementia Risk. Here's What Doctors Want You To Know. - HuffPost",
-      "published": "2026-06-25T11:00:17+00:00",
-      "summary": "These Beloved Snacks Are Linked To An Increased Dementia Risk. Here's What Doctors Want You To Know.&nbsp;&nbsp;HuffPostHarvard study links ultra-processed foods to higher rates of cognitive decline, dementia&nbsp;&nbsp;Harvard HealthUltra-processed foods linked to lower memory and concentration in young adults&nbsp;&nbsp;PsyPostDementia risk linked to eating 1 type of food, research shows&nbsp;&nbsp;The MirrorHow Just an Extra Bag of Chips a Day Is Aging Your Brain and Shortening Your Attention",
-      "sources": [
-        {
-          "name": "HuffPost",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMVhieWxvdXBrTEd5ZEFtNGVoMl8zanhLODhlU3d5czdjbUNzZlA4QTVZZlZoZUNZRng4eElrT0FETG5oOFJzWWQ1bHY0WFItbGc4MEoybXVPUGsyaEZxMWh1YnpvaXB5eURocVB0Q0FRbWp5c0pDZnlIQ3NFaVVBY2hRWGwwbG1meFFwLWtmSzMzTlNKOXUtenBB0gGfAUFVX3lxTE1GaUg0dV9uSmlEMzNWLXhFbUNocmpMeVkxWXNxdW54RzY2c3FQYktJd0RyNmhJWjROdU5EaGxWUWNkRTIyLWE3NHJCTmRXS1lkSVFFRzU5ZTA5c01oQmhTZ0w3dWNYRXBlcVlYUnVoZ3B4YnpQVEZ5Y2RFVzc2Yld5SjNrVzRxQmVHWUhqamFyN1Q5MWpMYWRrQWMzUmJQNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1e9fd5e3da81",
-      "title": "Shingles Vaccine Linked to 24% Lower Dementia Risk in Older Adults - SciTechDaily",
-      "published": "2026-06-25T10:42:32+00:00",
-      "summary": "Shingles Vaccine Linked to 24% Lower Dementia Risk in Older Adults&nbsp;&nbsp;SciTechDailyCommon vaccine shows 24% lower dementia risk – US study&nbsp;&nbsp;Juta MedicalBriefCommon Vaccine Linked to 24% Lower Dementia Risk in Major Study&nbsp;&nbsp;ScienceAlert",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRUFGdXBoZXR6akN4MXU3cmVzM3ZlaVZDRmhlNzJMZnlUanFrSWtRY3Yzb05oVTZ5cFB5dm9qQy1Oa1l6aXd3Z29GRm1WUEl0b1hoZVFudjFDUHN0VElmQ0FRdEtCbVhYZ1ZyZDlxUTE3N3lkTm1wZ2gxazc0NkxPTlpGcE5BX29DRHNRWUdyRDF6a0dnTGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "76135aa979b6",
-      "title": "SpaceX has quietly launched a spacecraft almost no one knew existed - Euronews",
-      "published": "2026-06-25T10:42:12+00:00",
-      "summary": "SpaceX has quietly launched a spacecraft almost no one knew existed&nbsp;&nbsp;EuronewsWhat is Starfall? A look at SpaceX's mysterious new return capsule&nbsp;&nbsp;SpaceStarfall Demo Mission&nbsp;&nbsp;SpaceXWith Starfall, SpaceX eyes an edge in global cargo delivery from orbit&nbsp;&nbsp;Ars TechnicaSpaceX Starfall Demo Provides Validation for Reentry Startups&nbsp;&nbsp;Payload Space",
-      "sources": [
-        {
-          "name": "Euronews",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObnptYmc5QjR0UEpvb0tSUVRrWkNBT1ZZU21ySThYa1FDVDhMMWQyOUQzZDNoVFA2X0lkWUQ3RjFna2wwRnl3NEhwWGhmRE0zLXN1Rktnck5vN3ZJUzVLUmMwaFFfaHFSSGRrdGlkcUQtV1JNNWRMX1FkY181RU1ZNkFJMENwdVZvaldod2JwQmpJU3ZZa3lGVHBhSWQwdXZ2THIwQWZQYkRmdzJF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1ca746cb7c1f",
-      "title": "Milky Way's Heart Shines Like a Diamond in Record-Breaking New Photos - ScienceAlert",
-      "published": "2026-06-25T10:00:26+00:00",
-      "summary": "Milky Way's Heart Shines Like a Diamond in Record-Breaking New Photos&nbsp;&nbsp;ScienceAlertESA’s Euclid captures the Milky Way’s crowded heart&nbsp;&nbsp;European Space AgencyTelescope captures most detailed image yet of Milky Way's heart: \"Cosmic magnifying glass\"&nbsp;&nbsp;CBS NewsMillions of stars light up largest and most detailed shot of Milky Way’s centre&nbsp;&nbsp;The GuardianEuclid Sees Heart of Milky Way&nbsp;&nbsp;NASA (.gov)",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdlRjdFhHOXBIb0RaTmhvbGY4Sk5XTEdBclZpdU81R1VzZHpmMlNqTnl3RGJ3NmFSMlVwWmhUcVdOeTcyMDd0SmoySG9jNENhcGU3amhjWERyaVROM1VOcHRRME1EZ1VCM002cjFDTFNIT005eHR1UXFpeDhXRUZUbjBEckRHdkZpaVpqWGM1SF9HbnprSUxoTEVLendtdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e33e2ae2d3a6",
-      "title": "The blood metabolome of brain health in midlife and influences of genes, microbiome and exposome - Nature",
-      "published": "2026-06-25T09:17:32+00:00",
-      "summary": "The blood metabolome of brain health in midlife and influences of genes, microbiome and exposome&nbsp;&nbsp;NaturePoor metabolic health can age the brain even in young people, finds new large-scale study&nbsp;&nbsp;Medical XpressBlood metabolites reveal lifestyle links to brain health before dementia&nbsp;&nbsp;News-MedicalPoor Metabolic Health Linked to Reduced Brain Blood Flow&nbsp;&nbsp;Men's FitnessMetabolism and aging shape the brain differently, with women showing greater cognitive effects",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rOUU4TTVvYkR3MlU4MENyRzNnaVFjSjVOYmdIVnJNNy11aGFLRFk2ZE9wbVhHVGhNWWx5aE1OQ2VwY0haWmVVeWNBQU12cHJYTTIwWEdIRGJTX1pvdk5Z?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "24a2f209fe16",
-      "title": "Fermented Food: Does Eating Kimchi or Sauerkraut Have Health Benefits? - The New York Times",
-      "published": "2026-06-25T09:01:03+00:00",
-      "summary": "Fermented Food: Does Eating Kimchi or Sauerkraut Have Health Benefits?&nbsp;&nbsp;The New York TimesSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb0kxOEpMX1dpYXFTbkJEXzlQUGRvTHpqRkpPSmxZbXpVV3huUHJ1ZmZROHNnUUZydjFFMW9Vb0s5YWxrTHkzSVNIbzN0aVJSV09wMmVjcm5MWjVZOTExNVY4bkpqc3BXQnVsaDM4OE4yVzUxbUEtaUtRczJhVkdOelM5VkFvZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ccfbc51f240e",
-      "title": "Benefits of finerenone treatment across chronic kidney disease aetiologies - Nature",
-      "published": "2026-06-25T08:53:19+00:00",
-      "summary": "Benefits of finerenone treatment across chronic kidney disease aetiologies&nbsp;&nbsp;NatureFinerenone Reduces Cardiovascular, Kidney Events Among Patients with T2D, CKD&nbsp;&nbsp;Drug TopicsFinerenone Shows Potential to Preserve Kidney Function in Glomerular Diseases: FIND-CKD trial analysis&nbsp;&nbsp;Medical DialoguesFinerenone Improves Cardiovascular, Kidney, and CKM Outcomes among diabetics with CKD: JAMA&nbsp;&nbsp;Medical Dialogues",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PS043OW5BYmtBMmxULVZoUmlrZjJTTHVycmdKR3ExWUw3Qko5OFd0RHZPUkR2cnc1dEd0b09BcV84eGc2MXFBUURMQWdjeVpmUzlISnZMZnZJVjBjeFpR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f40df1e19e6b",
-      "title": "How to Get 25 Grams of Protein Every Day - AARP",
-      "published": "2026-06-25T07:00:00+00:00",
-      "summary": "How to Get 25 Grams of Protein Every Day&nbsp;&nbsp;AARPScientists say most people need more protein than current guidelines suggest&nbsp;&nbsp;ScienceDailyProtein push grows among Americans as influencers, gym trends shape diets&nbsp;&nbsp;WTVCSigns You Should Eat More Protein&nbsp;&nbsp;NDTVMore Protein Plus More Exercise Lengthens Healthspan&nbsp;&nbsp;Labroots",
-      "sources": [
-        {
-          "name": "AARP",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTWdFX2EtYm41N055RkVrSnRkUnJ2YUdvdEJLN2U0QkpQQnIzWVF0ckNvbWZCeHhwZGdVZnh2WGhuTVUzR09DWGFBb2p3WTZra1poa0V2VnoyaXhEOGpGdFREdmc4MEJBN0JTZWN4S0pBUjlVOWF0a214a0VmaXl4TlF0Y3JkY2VxR3N2Tg?oc=5"
         }
       ]
     }

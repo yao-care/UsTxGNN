@@ -1,15 +1,99 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-06-28T08:56:29.869995+00:00",
+  "fetched_at": "2026-06-28T13:52:45.342806+00:00",
   "total_fetched": 119,
   "unique_count": 119,
-  "health_related_count": 58,
+  "health_related_count": 61,
   "news": [
+    {
+      "id": "70890f36d7b1",
+      "title": "Here are the at-home medical items nurses swear by - The Washington Post",
+      "published": "2026-06-28T13:32:02+00:00",
+      "summary": "Here are the at-home medical items nurses swear by&nbsp;&nbsp;The Washington Post",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORmgyTE1sbkdnU0tlWG9PZ0lhdENTYS1oTXF5QWpEcFU1ZnhVTkFCNUFIVjd3aWMtdktLcFRfcW1Fc2N4QU8zbkNvbVprVzVocFh5c3EwSnpYb2hzZ2RFYWpOZGotSVNxODBQUGV6TlNtcnhONWxlMVp6Z3JVMGxTdk9fcEJDT0xlSDgtVjIwS2gtT0RGbUN2aV9fRE9PbTRWWUI0VTRKV1NSU2lw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "44c12eacea5e",
+      "title": "This rare tick-borne disease is on the rise in the U.S. - The Washington Post",
+      "published": "2026-06-28T13:04:01+00:00",
+      "summary": "This rare tick-borne disease is on the rise in the U.S.&nbsp;&nbsp;The Washington PostRhode Island man diagnosed with Powassan disease&nbsp;&nbsp;WJARRIDOH Confirms Case of Rare Tick-Borne Viral Infection (Powassan),…&nbsp;&nbsp;Go Local ProvRI man contracts rare tick-borne ‘Powassan’ virus&nbsp;&nbsp;WPRI.comMaine CDC confirms first case of Powassan virus this year&nbsp;&nbsp;Maine Public",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ3R2ZFZlZTJHRkszZGZTUWV2cDk2YjJSa05qdXZuZUpBaFZrNnczRE9QcjJYNl9BT0lyTENoQU1idDg1VHMwQ3dsdmhKS3ZFeGxRSDJCeXdRQVVILXF6LXp5Z2dFRUV4V2o4Y0ZoQ3lTcFc0eW51RUJ0MGpzc1JXNlkzT3pUa3lJanh3LUZR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "810a8efe35a0",
+      "title": "Shingles vaccine may also offer protection against dementia, studies increasingly show - NBC News",
+      "published": "2026-06-28T10:30:00+00:00",
+      "summary": "Shingles vaccine may also offer protection against dementia, studies increasingly show&nbsp;&nbsp;NBC NewsFour easy ways to live longer&nbsp;&nbsp;vox.comA Shot Against Forgetting&nbsp;&nbsp;The Times of IsraelShingles Vaccine Linked to 24% Lower Dementia Risk in Older Adults&nbsp;&nbsp;SciTechDailyDr. Jeffrey Kopin: Get shingles vaccine if you are over 50&nbsp;&nbsp;WGN Radio 720",
+      "sources": [
+        {
+          "name": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNallBSDBBcFk4S2I3VU5VN0xhQW5KVjBKZ2JwZWp5UnZCeTZrbjR0N0Z2Mm85SHlrU0VWa2c5QTZRMF8wN2loQzdqWXBZc2JXaEVIMHZCWXRCVkRHcWZielE3OEI4VlI3U3VaandONG1iYXRHWTlBQzRKeHF4WkpFSHkzYXZBalNneE0yQklPR2lQTEFGWjh1cHNaOHM0RV9SWnpDbmVWamthbkx5cUluSUJ3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1ee67239d527",
+      "title": "Younger people are ageing faster biologically, study finds - Euronews",
+      "published": "2026-06-28T05:00:10+00:00",
+      "summary": "Younger people are ageing faster biologically, study finds&nbsp;&nbsp;EuronewsBiological aging and generational shifts in early-onset cancer risk&nbsp;&nbsp;NatureFaster aging in younger generations linked to rise in early-onset cancer&nbsp;&nbsp;WashU MedicineStudy: Gen-Z and Millennials Are Aging Faster Than Their Parents—With Alarming Health Consequences&nbsp;&nbsp;inc.comRise in cancer in younger adults may be explained by faster 'biological aging,' early study hints&nbsp;&nbsp;Live Science",
+      "sources": [
+        {
+          "name": "Euronews",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN0FaYXdMV0hsdmItbTV6MzVQQWJsRGlFWExlN051LWlEMU1hUHZjVHNzcXg2a09KcGVJaFgtVnVUTTNYbnNYNUVuTGp6NldCOEhGS3lGRVNSQktoY2NET3JVRDJITFJIYUZNLXFZQkEzS1QxMmljVUN4Y1BRTFAtZkc0N0xNT2RDWXlHajZuUWt1SFdwOGJkdlE2SldPbEtHQVhqOHU1aW0taXcxN3J3WF9ReGQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "332d3a577cc7",
+      "title": "Drones Used to Fight Mosquitoes as Dengue Fever Surges in Sri Lanka - The New York Times",
+      "published": "2026-06-28T04:00:06+00:00",
+      "summary": "Drones Used to Fight Mosquitoes as Dengue Fever Surges in Sri Lanka&nbsp;&nbsp;The New York Times51,049 Dengue Cases Reported in 2026 , New Circular Prepared To Strengthen Dengue Control Measures Across Sri Lanka&nbsp;&nbsp;NewsfirstHealth experts reject PM’s claims linking dengue surge to ‘new strain’&nbsp;&nbsp;Daily Mirror - Sri LankaMatara emerges as dengue hotspot in Southern Province&nbsp;&nbsp;Ada DeranaSri Lanka dengue total tops 52,000&nbsp;&nbsp;Outbreak News Today",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbFg0RWZUYjdRTW8ycnhkUzlSbzdrWndLNGhoTUpWYVJpYWdyZzRCU2d6a01XRnhoWFlZZXdIYS0xd2gwa1lyT0V5a1NZNEVCQzJ6V1BiU0stMDRiclJFT3FjbHhEZzNXX2JKaF8yQUtOMmQwWURYRlpheXliRXRaeVQyV21USHZDZ3E1SmVRdExFWjZCdzE4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "df2bbceb2098",
+      "title": "Endocrinologists Share 5 Habits to Break for Healthier Blood Sugar - EatingWell",
+      "published": "2026-06-28T01:00:00+00:00",
+      "summary": "Endocrinologists Share 5 Habits to Break for Healthier Blood Sugar&nbsp;&nbsp;EatingWellSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRWZDWlFYY0FyWWRfaVk0QTdhWEFGLVhxNkIwSTV4TzNOZUN3MnBXdlFpLXQ5U2FOZVJEWUNKVU0xYWU4eGMzY09VZVAzMF82aFRqOElNY01hY1EzRUsyNU9COUh5YjVFSzBRRVgxdjVmbW1PLXB2NFctZFdxaXNOZXRwZm9PSmxobUYzZ3F3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "41504ddfe41b",
+      "title": "Complex life may have started before Earth had much oxygen at all. A University of Bristol-led Nature study found that the ancient archaeal lineage behind all plants, animals and fungi began developing complex cellular machinery in anoxic oceans almost 2.9 - Space Daily",
+      "published": "2026-06-28T00:31:32+00:00",
+      "summary": "Complex life may have started before Earth had much oxygen at all. A University of Bristol-led Nature study found that the ancient archaeal lineage behind all plants, animals and fungi began developing complex cellular machinery in anoxic oceans almost 2.9&nbsp;&nbsp;Space DailyLiving rocks hidden in Australia's salty waters intrigue scientists by revealing how microbes helped transform Earth's atmosphere 2.4 billion years ago.&nbsp;&nbsp;CPG Click Petróleo e Gás",
+      "sources": [
+        {
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNZHVONG01VXZ2QVJTR2dZUXFVbG5odWtZMGpFSnZMXzNKU1NGa0VzRzhhRExjMzlzZUE1b2J3dTRhbmVoc3RBNE1lSVVYUEwxZEVSR2RGY0QtZURfUTRMRm9Tamw4LURGTFB3dWJPb0JiemVreHc3NGU0bjk3N1hKWGZuZGpUeHFQampIZ081YlFCMnNEcmFxSmlzejJTUjJ4Yy1ic1dZREVSMjd2cFgtT3VwV3lKbXV3OG91ZURRZWFSLUs1bWRPNXZMeWVxQnFqOWJlZnNjcl80UGVDcWM0V2I0VUQ3N09uSmZoRlhCSUtmUG1HNmRoZ2VEMUZNQm5naVEtcFlMa3YxQzlPMzBXeTkyb0NIREJLRGZXOVJhYUdnU2NyN09odFppdnYzQjJJcm9Kam9jVk5pU29QTlBYMW1fWjEyejg?oc=5"
+        }
+      ]
+    },
     {
       "id": "10241f5415f1",
       "title": "Popular pain supplement linked to faster Alzheimer’s decline — and death - AOL.com",
       "published": "2026-06-27T23:09:25+00:00",
-      "summary": "Popular pain supplement linked to faster Alzheimer’s decline — and death&nbsp;&nbsp;AOL.comSee more headlines & perspectives on Google News",
+      "summary": "Popular pain supplement linked to faster Alzheimer’s decline — and death&nbsp;&nbsp;AOL.comMillions Take Glucosamine for Joint Health—But Does It Work?&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness InformationA common joint supplement may hide a risk for vulnerable brains&nbsp;&nbsp;Earth.comStudy links joint pain supplement to accelerating dementia&nbsp;&nbsp;NZ OpticsPopular joint supplement linked to dementia, death risk&nbsp;&nbsp;MSN",
       "sources": [
         {
           "name": "AOL.com",
@@ -18,14 +102,26 @@
       ]
     },
     {
-      "id": "6ae1cc1d346a",
+      "id": "22d0da283d77",
       "title": "Arizona health officials investigate suspected pneumonic plague case - AZ Family",
       "published": "2026-06-27T21:22:00+00:00",
       "summary": "Arizona health officials investigate suspected pneumonic plague case&nbsp;&nbsp;AZ Family",
       "sources": [
         {
           "name": "AZ Family",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQS11WF91cTdFc2puenNSMjFBUzNYclI2QkdiREN0UjFsVUY4SGJNUnk3T3F1RHZ3RXZzQzBndHNEUTRBSjFMVkhockRYU3lULXB4YTg3bWFGMVJ4Rk5YMWU0eVpsbXZZSUgxeDJxM05rcHprQXE4dWs3SGNwd0xvVldHU2Yxc1VUb2NOZTl1Mnl1TldXZFkwbGh6dERzQWdUa011OGZOQTY?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQS11WF91cTdFc2puenNSMjFBUzNYclI2QkdiREN0UjFsVUY4SGJNUnk3T3F1RHZ3RXZzQzBndHNEUTRBSjFMVkhockRYU3lULXB4YTg3bWFGMVJ4Rk5YMWU0eVpsbXZZSUgxeDJxM05rcHprQXE4dWs3SGNwd0xvVldHU2Yxc1VUb2NOZTl1Mnl1TldXZFkwbGh6dERzQWdUa011OGZOQTbSAbwBQVVfeXFMTWY0NndLOFp6M0V4UEgyMlotTkN2SUxSSjFTclV5NDNFNk4wcmhHbXpzSjF4U3NPMV96QmdrMUJVMWczZTNORXowdFhDbW1iQ1NWVGt3dnlkemdyQTBIY2V1d25MZ1Vxb29LS0l3MGVSYlR1dlZ1ZGplYVFmRnBmeVVuVVZoUy1rMnJKV0pGU1FlVUQ3X0dEZExzUzZuVE15TlllbWZwdnMyc094QVpaM2Q5Q1c4Z1l3dmN6amk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7a2d43b49646",
+      "title": "Peptide alternative to antibiotics could combat antimicrobial resistance crisis - Phys.org",
+      "published": "2026-06-27T21:00:03+00:00",
+      "summary": "Peptide alternative to antibiotics could combat antimicrobial resistance crisis&nbsp;&nbsp;Phys.orgData-driven surrogates of rational design enable antimicrobial peptide optimization&nbsp;&nbsp;NaturePeptide Breakthrough: New Hope Against Superbugs&nbsp;&nbsp;Mirage News",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT2doNW1acUxJRXE5ZlJ3cm8tUTJVU00yWjRrSUl4eHl4OENzelFYRXJvVHRzQnp2am9Wd3Nua0lsRFNPclhULWc3TW1fR1NvLUsxVDJLV3hNME5aVWZZMkE1S29uS1czS19SbTczYlBZX21icFBLNnRCdTZsZ2RaandTakV6Sk5Eamp1ZnpoaTQ?oc=5"
         }
       ]
     },
@@ -33,7 +129,7 @@
       "id": "98a6218d4f2c",
       "title": "This disease is more expensive than cancer and heart disease combined. And it’s only going to get worse. - MarketWatch",
       "published": "2026-06-27T19:30:00+00:00",
-      "summary": "This disease is more expensive than cancer and heart disease combined. And it’s only going to get worse.&nbsp;&nbsp;MarketWatchDementia costs America $818 billion a year, and families pay most of the price&nbsp;&nbsp;Earth.comUSC Study Puts 2026 Dementia Cost at $818 Billion&nbsp;&nbsp;Pasadena NowCost of care for dementia patients reaches $818B&nbsp;&nbsp;AudacyDementia will cost the US $818 billion in 2026&nbsp;&nbsp;McKnight's Senior Living",
+      "summary": "This disease is more expensive than cancer and heart disease combined. And it’s only going to get worse.&nbsp;&nbsp;MarketWatchDementia Costs Expected to Hit $818 Billion This Year, USC Study Finds&nbsp;&nbsp;westsidecurrent.comDementia costs America $818 billion a year, and families pay most of the price&nbsp;&nbsp;Earth.comCost of care for dementia patients reaches $818B&nbsp;&nbsp;AudacyDementia Will Cost the U.S. $800 Billion in 2026 Alone&nbsp;&nbsp;Newsweek",
       "sources": [
         {
           "name": "MarketWatch",
@@ -42,10 +138,46 @@
       ]
     },
     {
+      "id": "b64b1737f228",
+      "title": "Scratching that bug bite might feel good at first but science explains why it's a bad idea - Medical Xpress",
+      "published": "2026-06-27T19:28:31+00:00",
+      "summary": "Scratching that bug bite might feel good at first but science explains why it's a bad idea&nbsp;&nbsp;Medical XpressSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UbTU5UDE1R1RDUjd6eHJTZnNSV0ZIR0JuM0JNelE2T2lCWDhMYlQ5Ny1oRUNUTnE3cEZoZ1Z4dHlaTnYxcVhULVZ6dDg1MG1DaTBDVlVja2kyNldaczNVWTlNWG14NFVKcmJuTW9rTTg5SlZ2dXJoeA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f48269bc9381",
+      "title": "Volunteers Are Risking Their Lives to Stop Ebola. They Aren’t Always Welcome. - The New York Times",
+      "published": "2026-06-27T19:09:30+00:00",
+      "summary": "Volunteers Are Risking Their Lives to Stop Ebola. They Aren’t Always Welcome.&nbsp;&nbsp;The New York TimesIn the shadow of Ebola: Scenes from the outbreak's frontlines&nbsp;&nbsp;ReutersSpreading awareness on the frontlines of Ebola response&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbU9aczZDMWVYS3RjWEFHOWJQY3VJM3p1cUxaZ3dkR2MwREVjVldtd0Z2YjczWUYwcmFFd085QzNmZEd1NXlobnNiTzIxMktOY2gybjBueHd0dTE0TW5XU0JUdllidlpGZDFqUFpyU0lrYndWMHhHNjBSdWZOcjVXNG5YeDdTTUNPQkdVQnpMbm9mdmpzTDR3T3Q1XzJjUm5pQ2Vr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b59413b64406",
+      "title": "Scientists Think They’ve Uncovered the 15-Million-Year-Old Origin of Laughter - 404 Media",
+      "published": "2026-06-27T17:04:27+00:00",
+      "summary": "Scientists Think They’ve Uncovered the 15-Million-Year-Old Origin of Laughter&nbsp;&nbsp;404 MediaRhythm and timing in laughter reveal that human vocal plasticity falls on a hominid continuum | Communications Biology&nbsp;&nbsp;NatureTo Reveal the Rhythmic Roots of Laughter, Just Tickle an Ape&nbsp;&nbsp;The New York TimesResearchers tickle gorillas, other apes and find out they giggle&nbsp;&nbsp;Los Angeles TimesWhat an ape’s laugh can teach us about human language&nbsp;&nbsp;National Geographi",
+      "sources": [
+        {
+          "name": "404 Media",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV3hSaV81SFh0dmc0WkljSlVzRld5NjJpVXBuZ2FuZUd0akVoemdXNnEtZzV3bjVIN3FGUFNSRzNVejZXY2lzeE9pd2huM0k5a1RmSzhKbEtWVm9ZeHZmUms3eTBZVjZwZkpZZnF2THpwMnMzVTFpN1JfR3FpZWs4YnZHOGppc0tfdEFPejNjOXlPZ2cyRkl5M3F4YzFWRTZGek4w?oc=5"
+        }
+      ]
+    },
+    {
       "id": "50b6ca50fdbd",
       "title": "Cardiovascular Disease: 2 Hours Strength Training Lowers Risk by 20% - Healthline",
       "published": "2026-06-27T16:09:18+00:00",
-      "summary": "Cardiovascular Disease: 2 Hours Strength Training Lowers Risk by 20%&nbsp;&nbsp;HealthlineJust Exercising for a Total of Three Hours Each Week Can Help You Live Longer, Study Says&nbsp;&nbsp;Outside MagazineAdding 2 hours of strength training a week may lower women’s heart attack risk by 44%&nbsp;&nbsp;Medical News TodayResistance Training Linked to Lower CVD Risk in Women&nbsp;&nbsp;Infectious Disease AdvisorArnold Schwarzenegger Shares the ‘Strength Training Sweet Spot’ for a Longer Life&nbsp;",
+      "summary": "Cardiovascular Disease: 2 Hours Strength Training Lowers Risk by 20%&nbsp;&nbsp;HealthlineJust Exercising for a Total of Three Hours Each Week Can Help You Live Longer, Study Says&nbsp;&nbsp;Outside MagazineResistance Training Linked to Lower CVD Risk in Women&nbsp;&nbsp;Infectious Disease AdvisorArnold Schwarzenegger Shares the ‘Strength Training Sweet Spot’ for a Longer Life&nbsp;&nbsp;Fitness VoltGain the Strength for a Healthier Life&nbsp;&nbsp;Oprah Daily",
       "sources": [
         {
           "name": "Healthline",
@@ -66,6 +198,18 @@
       ]
     },
     {
+      "id": "33293b0d0e1d",
+      "title": "4 Foods and Drinks With More Calcium Than Yogurt - Health: Trusted and Empathetic Health and Wellness Information",
+      "published": "2026-06-27T16:04:28+00:00",
+      "summary": "4 Foods and Drinks With More Calcium Than Yogurt&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness Information7 high-calcium drinks that can beat a glass of milk&nbsp;&nbsp;TheHealthSiteInclude milk in your diet: Building bones for life&nbsp;&nbsp;Knysna-Plett Herald",
+      "sources": [
+        {
+          "name": "Health: Trusted and Empathetic Health and Wellness Information",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VVVdCeUltcTYxWE01dF92OEczZEhJX245aFhxYndKVW5FM21PSFdudVp4Qm5QZlk4SkFkdWc4NGtqSDFuZGlyTTVpZ1g2bXZUYTNudEUxMXpLc1hnamRkZHlDcjVwcUtVZG5ydUtNdlVzVm9reUE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c39f2b107840",
       "title": "The #1 Snack for Better Gut Health, Recommended by a Gastroenterologist - EatingWell",
       "published": "2026-06-27T16:02:59+00:00",
@@ -74,6 +218,18 @@
         {
           "name": "EatingWell",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pYThFLU0ybUFTQXdhUG5lTlRYUjVqYjYxVzBSMkt4SUtubEtSaHpzSlp4WWVuVC1mUUN3b0JMRVM1X3dxalMzcWpSTWRlMEgtTnFPWmJSRVNIQkE2ajJsdC1nenBOcHptZTZZU3BB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "637ab27c7470",
+      "title": "Large MRI analysis uncovers brain-region thinning tied to depression - Medical Xpress",
+      "published": "2026-06-27T16:00:04+00:00",
+      "summary": "Large MRI analysis uncovers brain-region thinning tied to depression&nbsp;&nbsp;Medical XpressChronic depression alters the way how brain networks communicate among themselves&nbsp;&nbsp;Agência FAPESPYOUR MENTAL HEALTH: Depression: biological does not mean untreatable&nbsp;&nbsp;The Southern StarScience finds why people with depression feel so stuck – their brain may be 'entrapping' them&nbsp;&nbsp;Deccan Herald",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQURRWFF4WTJZeXd0cjJnVmRqVlJxUWo1SEtXMXdTTG4zVkNLQUFFcWNXaC01eThLbXphT1B6VUJyWTRvTXlvd29lSExETkVMQ0N4VFU4NG1OTzVzOUNIQUVRbXVCajZ0d3hTMlM1WWtHV0ozVFhBbklhaGxqQ0stWUVDTQ?oc=5"
         }
       ]
     },
@@ -117,7 +273,7 @@
       "id": "02dd105f1c6d",
       "title": "New blood test detects 90% of aggressive prostate cancer cases, beating current screenings - Fox News",
       "published": "2026-06-27T13:00:46+00:00",
-      "summary": "New blood test detects 90% of aggressive prostate cancer cases, beating current screenings&nbsp;&nbsp;Fox NewsProstate cancer blood test detects twice as many cases&nbsp;&nbsp;The TelegraphPioneering screening test offers potential to find more aggressive prostate cancers&nbsp;&nbsp;The Manila TimesAdam B. Weiner: Can Stockholm3 Outperform PSA for Prostate Cancer Screening?&nbsp;&nbsp;OncodailyA new, safer way to check for prostate cancer is now available locally&nbsp;&nbsp;Boise State Public Ra",
+      "summary": "New blood test detects 90% of aggressive prostate cancer cases, beating current screenings&nbsp;&nbsp;Fox NewsProstate cancer blood test detects twice as many cases&nbsp;&nbsp;The TelegraphPioneering screening test offers potential to find more aggressive prostate cancers&nbsp;&nbsp;The Manila TimesAdam B. Weiner: Can Stockholm3 Outperform PSA for Prostate Cancer Screening?&nbsp;&nbsp;OncodailyNext-Generation Blood Test Improves Detection of Aggressive Prostate Cancer&nbsp;&nbsp;HealthDay",
       "sources": [
         {
           "name": "Fox News",
@@ -141,7 +297,7 @@
       "id": "6fee5fc44f11",
       "title": "Louisiana Notches a Sickle Cell First - Newser",
       "published": "2026-06-27T12:10:00+00:00",
-      "summary": "Louisiana Notches a Sickle Cell First&nbsp;&nbsp;NewserLouisiana man becomes first in region functionally cured of sickle cell disease&nbsp;&nbsp;The GuardianGene therapy cures metro New Orleans man of sickle cell, clears path for dream of becoming pilot&nbsp;&nbsp;Verite NewsDaniel Cressy infront of the Manning Family Children's canc.jpg&nbsp;&nbsp;The AdvocateMan, 23, Declared Cured of Sickle Cell Disease After Previously Being Hospitalized 6 to 12 Times a Year (Exclusive)&nbsp;&nbsp;People.co",
+      "summary": "Louisiana Notches a Sickle Cell First&nbsp;&nbsp;NewserLouisiana man becomes first in region functionally cured of sickle cell disease&nbsp;&nbsp;The GuardianThese Are the Medical Miracles Trump Could Take Away&nbsp;&nbsp;The BulwarkDaniel Cressy infront of the Manning Family Children's canc.jpg&nbsp;&nbsp;The AdvocateMan, 23, Declared Cured of Sickle Cell Disease After Previously Being Hospitalized 6 to 12 Times a Year (Exclusive)&nbsp;&nbsp;People.com",
       "sources": [
         {
           "name": "Newser",
@@ -270,26 +426,14 @@
       ]
     },
     {
-      "id": "e9b01a22a782",
-      "title": "A cardiologist said 3 foods that seem healthy could be harming your heart - Business Insider",
-      "published": "2026-06-27T09:36:00+00:00",
-      "summary": "A cardiologist said 3 foods that seem healthy could be harming your heart&nbsp;&nbsp;Business InsiderThe ‘Healthy’ Breakfast Staple That’s Silently Raising Your Blood Pressure, According to Cardiologists&nbsp;&nbsp;Parade",
+      "id": "8081594e765c",
+      "title": "3 new studies point to promising ways to reduce stroke risk - Medical News Today",
+      "published": "2026-06-27T09:17:14+00:00",
+      "summary": "3 new studies point to promising ways to reduce stroke risk&nbsp;&nbsp;Medical News TodaySee more headlines & perspectives on Google News",
       "sources": [
         {
-          "name": "Business Insider",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbzA1RXdjYlRscjRfOEc5S29PN0R2SjRJdmxXUEduSTBNRlNENlB6TEN0UWtoTWc4VS1XbHpqT091NFNPZ2VTNmhIZV9Gd1FGcVJ6VHJpeDlSeTZlUnEtTGowSFBCRnRYSGk0dHNsUy05WldGQnNJd1c0LU1OeXdaUGF4dHQxSWtOVTlOZFA5allCeU4yVXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f48269bc9381",
-      "title": "Volunteers Are Risking Their Lives to Stop Ebola. They Aren’t Always Welcome. - The New York Times",
-      "published": "2026-06-27T09:01:26+00:00",
-      "summary": "Volunteers Are Risking Their Lives to Stop Ebola. They Aren’t Always Welcome.&nbsp;&nbsp;The New York TimesIn the shadow of Ebola: Scenes from the outbreak's frontlines&nbsp;&nbsp;ReutersSpreading awareness on the frontlines of Ebola response&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbU9aczZDMWVYS3RjWEFHOWJQY3VJM3p1cUxaZ3dkR2MwREVjVldtd0Z2YjczWUYwcmFFd085QzNmZEd1NXlobnNiTzIxMktOY2gybjBueHd0dTE0TW5XU0JUdllidlpGZDFqUFpyU0lrYndWMHhHNjBSdWZOcjVXNG5YeDdTTUNPQkdVQnpMbm9mdmpzTDR3T3Q1XzJjUm5pQ2Vr?oc=5"
+          "name": "Medical News Today",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVjUtRDZUcnNaal81dWhrZmsxTzBzV3N0c1I2NXhZZmJEYmowV1N3bDNORVlldllsVXlPd0RTZ214QlA4VnV2aklocHlLeGNEQ2FqRmJDZ0tPdHJfbUJzdDRIcDctVG5IUWV2VWxnZjdod1pBNC1yUUVSNFowNWttaEF5R2JpODBIM3MwaWZBNzNLX0xsZ3dRcW9OMA?oc=5"
         }
       ]
     },
@@ -297,7 +441,7 @@
       "id": "7392d62fec36",
       "title": "New procedure treats hard-to-manage high blood pressure - WJAR",
       "published": "2026-06-27T06:07:25+00:00",
-      "summary": "New procedure treats hard-to-manage high blood pressure&nbsp;&nbsp;WJARHEALTH FIRST: New advancements in high blood pressure treatment&nbsp;&nbsp;WECTPleiotropic effects of renal denervation beyond blood pressure reduction&nbsp;&nbsp;NatureDHR Health Bringing Innovative Renal 2 Denervation Treatment to Patients in South Texas&nbsp;&nbsp;Mega Doctor NewsNew nerve-targeting procedure offers hope for high blood pressure sufferers&nbsp;&nbsp;WSB-TV",
+      "summary": "New procedure treats hard-to-manage high blood pressure&nbsp;&nbsp;WJARHEALTH FIRST: New advancements in high blood pressure treatment&nbsp;&nbsp;WECT | TV6Pleiotropic effects of renal denervation beyond blood pressure reduction&nbsp;&nbsp;NatureDHR Health Bringing Innovative Renal 2 Denervation Treatment to Patients in South Texas&nbsp;&nbsp;Mega Doctor NewsNew nerve-targeting procedure offers hope for high blood pressure sufferers&nbsp;&nbsp;WSB-TV",
       "sources": [
         {
           "name": "WJAR",
@@ -309,11 +453,23 @@
       "id": "916d63f10b78",
       "title": "A Generation Overlooked: The ADHD Diagnosis Gap Among Over-65s - HuffPost UK",
       "published": "2026-06-27T05:00:17+00:00",
-      "summary": "A Generation Overlooked: The ADHD Diagnosis Gap Among Over-65s&nbsp;&nbsp;HuffPost UKSee more headlines & perspectives on Google News",
+      "summary": "A Generation Overlooked: The ADHD Diagnosis Gap Among Over-65s&nbsp;&nbsp;HuffPost UKThink your parent is neurodivergent? Here’s what you need to know&nbsp;&nbsp;The GuardianUnderstanding ADHD, autism and other conditions in older adults&nbsp;&nbsp;KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
       "sources": [
         {
           "name": "HuffPost UK",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbWkxTUx1Szg2ZzI0VXBtQTF5U0VIOEV5d0VuTzZGbG8tRjFGVFN1SzdycXFhb01PZEZIclIxZjE4VFg3LXZqVWRTTE5jOWlQbmpSZHhFSDNRRVNCcHlsZWp6cmxIamVSdGp5NGRSaHEzSFltZ3RUQXRaM21TeUowcDlSWlY1RjdfaTY3bVJtYnNyV1J4T2JYM0d30gGgAUFVX3lxTFA2ckEtdVBIMkRKQU55LWhNc0JzZW01bE15SlVuaDdNYVA3SG80djFGMGhjbmFWbHhuc0pUR3Q2bkxVenVVZ1JUUVB3SWgtRmRIcFZlS1NZaHNrejBibVdDT05lS1ZJNUhReGQ1enUydjJYQUhLQVgxcnVGMktQb25KX2NNR0lvOGoxWU1Zakd1RkI5VWFzRDR3eXRNZXFGeHk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e3cff6c82ffd",
+      "title": "Greenwood father urges others not to ignore warning signs one year after rare medical emergency - WTHR",
+      "published": "2026-06-27T03:47:00+00:00",
+      "summary": "Greenwood father urges others not to ignore warning signs one year after rare medical emergency&nbsp;&nbsp;WTHR",
+      "sources": [
+        {
+          "name": "WTHR",
+          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQd1hSd2lEeWttdnpJSnRnb3dHMGpGa05nRjlBRjBCZVl1bkNkWE1CclFoU0hWQjJXTGMweGhTSGREbWNCenFUV3VrYVFPV0syVXdUdGxmeTNSZGZkVGxYb2VQRlB0cU1aallNWDMzTHJ6bmRhVGhmbDVLQ1prYi05OHJHa2hiWHpfOHNaTGdrOGhVYVJPTUxSTVdjNVlsLVJMZXpSX1FuMG1UemVRYlNaaTBzWm9RZXVuQW45dW9BanlpbE9jQktmM2EzTVFvSEdCZ05RQXJTNlVLQjNCc1RCQjR5T2syOVZSWkRuWERWSHFmRzBQRlBEWVZfdzBqNExkOTkycDJSZVczbGoxLWxDVkdhQU1lMmtsRkNMc0VXc0JPekxsYkFOVw?oc=5"
         }
       ]
     },
@@ -350,18 +506,6 @@
         {
           "name": "Space Daily",
           "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNUVRxeFIxN3JnczM0V2VKVG5WOGxPQ2NPZ3ZXUElkdUJCVUFHcWlieF9IcDNucVp2dUc2blhSaXNYYTg3MzJQV3NuN2swSjAzTWxoUlRKcjdQR2U5YzVHbmZjYWxGM1p2eDl6QlBFMjZFcWtuOF93VHRiZjZIOXRCZ2RNVk9tem1pVXVLRGpMbjc4cnRRTklLZ2dZME8zNUJSZHJ5N3BsbktYVlFBa2dCNThqVE1NdmJMakNBZlEwZTdVMGhjXzZtLXlkbEFqMWJpTU81eXZlbVZUb1EwMlIyb096RjhEbTJQTjdnbFphNUtlT2dpa2JuakRib241QmpabHpSLWVVQzB1azdYTG16Q3BodW1TUkVtNmxTR3k4em9QYW5fNjNEb18wTXczcEZBUzVVZ1d4djI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4a5c121e1c27",
-      "title": "RI man contracts rare tick-borne ‘Powassan’ virus - WPRI.com",
-      "published": "2026-06-27T00:44:26+00:00",
-      "summary": "RI man contracts rare tick-borne ‘Powassan’ virus&nbsp;&nbsp;WPRI.comRhode Island man diagnosed with Powassan disease&nbsp;&nbsp;WJARRIDOH Confirms Case of Rare Tick-Borne Viral Infection (Powassan),…&nbsp;&nbsp;Go Local ProvMaine CDC confirms first case of Powassan virus this year&nbsp;&nbsp;Maine PublicWhat’s driving New England’s tick boom? Tracing key moments that led to the surge.&nbsp;&nbsp;The Boston Globe",
-      "sources": [
-        {
-          "name": "WPRI.com",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQmc1blpCX1l2NVE3M0Q5Z0pVeTZrUUN0dUJRc25mdUxEUGFxUFhsYmhLVUVuclhBWVczZjhnM3FqSFlOWHJ0TzRyeHlnc2hTaUpia1ZZSGVfSzlONGxHTUM4TEN1ekpxMkxvbThlSUptV282a3c2RnRqZ29UQmpYT3RR0gGHAUFVX3lxTE5RX1ZHQUJVZmx3eF9Da0QweWY1cjNSeVFlN09VcHhSQWU5OUdBT3ZNeUlEa3lyUkU5YlRBeEpLeHZ0M21QbXRNeXUtTElpcXV1VHU4aTMtTW1WNzZ5ellsUW9tbFZDUXhQOXBiYmpzeHdzek5oUTBKRnpJa0FGcXc4QVcwdmlLTQ?oc=5"
         }
       ]
     },
@@ -417,7 +561,7 @@
       "id": "885728a87186",
       "title": "US starts vaccine effort for Ebola Bundibugyo as outbreak spreads - Reuters",
       "published": "2026-06-26T22:09:43+00:00",
-      "summary": "US starts vaccine effort for Ebola Bundibugyo as outbreak spreads&nbsp;&nbsp;ReutersMapp, Gilead antivirals to be deployed in DRC Ebola trial: WHO chief&nbsp;&nbsp;Fierce BiotechWHO announces 2 trials of experimental drugs in Ebola outbreak&nbsp;&nbsp;CIDRAPWashington sends experimental treatment and tests to Africa to contain the \"Bundibugyo Ebola\" outbreak&nbsp;&nbsp;صوت الإماراتUS to provide new experimental Ebola drug&nbsp;&nbsp;Semafor",
+      "summary": "US starts vaccine effort for Ebola Bundibugyo as outbreak spreads&nbsp;&nbsp;ReutersMapp, Gilead antivirals to be deployed in DRC Ebola trial: WHO chief&nbsp;&nbsp;Fierce BiotechWHO announces 2 trials of experimental drugs in Ebola outbreak&nbsp;&nbsp;CIDRAPAs Ebola Cases Breach 1000, Trial Of Two Antiviral Treatments Due To Start Soon&nbsp;&nbsp;Health Policy WatchWashington sends experimental treatment and tests to Africa to contain the \"Bundibugyo Ebola\" outbreak&nbsp;&nbsp;صوت الإمارات",
       "sources": [
         {
           "name": "Reuters",
@@ -429,7 +573,7 @@
       "id": "4208db015e51",
       "title": "Tick-related emergency room visits surge across Virginia - WVIR",
       "published": "2026-06-26T22:07:00+00:00",
-      "summary": "Tick-related emergency room visits surge across Virginia&nbsp;&nbsp;WVIRHow to keep ticks out of your yard — and off of you&nbsp;&nbsp;WHYYTick bite ER visits rise as patients question testing costs&nbsp;&nbsp;WCAXER Visits for Tick Bites Are Surging to Decade-High Levels. How To Protect Yourself&nbsp;&nbsp;TODAY.comThe Rising Threat Of Tick-Borne Diseases In America—Here’s What To Know&nbsp;&nbsp;Forbes",
+      "summary": "Tick-related emergency room visits surge across Virginia&nbsp;&nbsp;WVIRHow to keep ticks out of your yard — and off of you&nbsp;&nbsp;WHYYHow To Keep Ticks Out Of Your Yard This Summer&nbsp;&nbsp;Southern LivingThe Rising Threat Of Tick-Borne Diseases In America—Here’s What To Know&nbsp;&nbsp;ForbesER Visits for Tick Bites Are Surging to Decade-High Levels. How To Protect Yourself&nbsp;&nbsp;TODAY.com",
       "sources": [
         {
           "name": "WVIR",
@@ -465,7 +609,7 @@
       "id": "1a780d5a507f",
       "title": "The Race to Build the Next Generation of Weight Loss Pills Is Heating Up - Gizmodo",
       "published": "2026-06-26T20:15:28+00:00",
-      "summary": "The Race to Build the Next Generation of Weight Loss Pills Is Heating Up&nbsp;&nbsp;GizmodoNew oral GLP-1 drug delivers up to 12% weight loss in 36 weeks&nbsp;&nbsp;Medical XpressCan Eli Lilly (NYSE:LLY) GLP-1 Pill Reshape The Conversation?&nbsp;&nbsp;Kalkine MediaOral Orforglipron for Obesity Management&nbsp;&nbsp;Drug TopicsNew Trial Shows Oral GLP-1 Aleniglipron May Be the Future&nbsp;&nbsp;Men's Fitness",
+      "summary": "The Race to Build the Next Generation of Weight Loss Pills Is Heating Up&nbsp;&nbsp;GizmodoOral GLP-1 pill delivers nearly 12 percent weight loss in 36 weeks, study finds&nbsp;&nbsp;The HillOral Orforglipron for Obesity Management&nbsp;&nbsp;Drug TopicsBeyond Injections: The Rise of Oral GLP-1 Therapy&nbsp;&nbsp;Pharmacy TimesNew Trial Shows Oral GLP-1 Aleniglipron May Be the Future&nbsp;&nbsp;Men's Fitness",
       "sources": [
         {
           "name": "Gizmodo",
@@ -486,14 +630,14 @@
       ]
     },
     {
-      "id": "7577ccc9702b",
-      "title": "Doctors warn of severe adult measles cases as Lancaster County outbreak grows - LancasterOnline",
-      "published": "2026-06-26T19:00:00+00:00",
-      "summary": "Doctors warn of severe adult measles cases as Lancaster County outbreak grows&nbsp;&nbsp;LancasterOnlineLingering distrust, low vaccine rates threaten containment of Lancaster measles outbreak&nbsp;&nbsp;Pittsburgh Post-GazettePennsylvania health officials address measles outbreak: ‘We will not slow down until this ... is over.’&nbsp;&nbsp;Inquirer.comPennsylvania’s Health Secretary unveils plan to combat measles outbreaks&nbsp;&nbsp;ABC27Officials provide update on state's response to measles o",
+      "id": "ed79e321f28b",
+      "title": "US CDC raises Ebola outbreak response to highest level - Reuters",
+      "published": "2026-06-26T18:34:33+00:00",
+      "summary": "US CDC raises Ebola outbreak response to highest level&nbsp;&nbsp;ReutersEbola Outbreak Could Become Largest Ever, Africa’s C.D.C. Warns&nbsp;&nbsp;The New York TimesEbola Outbreak, DRC and Region, Situation Report #8, June 24, 2026&nbsp;&nbsp;ReliefWebWHO Director-General's opening remarks at the media briefing – 24 June 2026&nbsp;&nbsp;World Health Organization (WHO)CDC elevates Ebola response to highest level&nbsp;&nbsp;The Hill",
       "sources": [
         {
-          "name": "LancasterOnline",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOaFZGa0IxWVJWejhuMHhkQlo2bzlkbkJrek4teTdkR0Y2M1ZUbTRQZi1hWnAxR01ENlBQSHJZcGFrQzExblVUUWk4d184b1p4OGl6Q3lVbVdzU3A0Ynp2a1QtSVZPRW5lVkxrZWZuZ3lRR1dxRFVOdlpnVU9yZHJtWVc0cy1qeGp4MnhLN3NvZFRSaUZKWVRLSjhKamV0SmF3WlZHM1o4cjZuWEVjVUh3Z3RZMjV2bnliMDBJUHFXYmtoOEN2UnQzYmZkRTJKMGIzazdwWkx6WWRSWnpiSm5FVFEyc0FNZDlXS2lwaTJtXzF0T0VnNlYtVTVrUQ?oc=5"
+          "name": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSmVlNlBOc2NRalkzTTJQMFUyMFlfVm45UXVjUk96YVdBdlZNTURvczhsbWhPSVd5ZVF1TjlBdGVmQUlWVVhmWXJOLW9wOTNhV25vZzRwMVl1WmVYWk9CNXRMSjJpdnl2VDNocVlqUDNIdTRKMjRscERyNlREN1YxTmhOT3cxSlFBZElZOThEUEdVT1g4bWppV0lxM2Y0U0VNVGg5OF83SmpCNWJha2hDOEZ0VExWOTRpTHJPbWFZWF9OcV9kdWZhZHhMbDlZdnBkQ0Z6bVowWlV4LTg4bXBqMQ?oc=5"
         }
       ]
     },
@@ -522,10 +666,22 @@
       ]
     },
     {
+      "id": "3d216806a8dd",
+      "title": "Exclusive | Mom gets groundbreaking mastectomy from a $2M robot named Carol - New York Post",
+      "published": "2026-06-26T17:26:00+00:00",
+      "summary": "Exclusive | Mom gets groundbreaking mastectomy from a $2M robot named Carol&nbsp;&nbsp;New York PostMoraga mom is U.S. pioneer to undergo breakthrough robotic breast cancer surgery&nbsp;&nbsp;KTVUAtlantic City, NJ Area Hospital First In Tri-States To Offer This&nbsp;&nbsp;WPG Talk Radio 95.5 FMAtlantiCare offers robotic nipple-sparing mastectomy with minimally invasive approach&nbsp;&nbsp;ROI-NJMom gets groundbreaking mastectomy from a $2M robot named Carol — and went to the beach with a tiny sc",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQanM0VFFReFVqSXA5T19oaGJvQXBxY1pteUpTUVNueG5EQlRrUTBrcmgta0R4VjJrTG9mQTdnSmpuUUJWY0dBTjhJTE11ZkoxcklRR0tPaW0wenktZHhlQmZSSTdNNjI5SXVIR1FpbnlRd3YzLWpQemdTd0tFMW5TeXk0akdMRXg3emh3eTV6azNxb1I5ZmJXc1p2NGlpdmFtbFE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "54add42d6777",
       "title": "Alzheimer's: Anti-inflammatory diet may help reduce risk by up to 29% - Medical News Today",
       "published": "2026-06-26T17:17:14+00:00",
-      "summary": "Alzheimer's: Anti-inflammatory diet may help reduce risk by up to 29%&nbsp;&nbsp;Medical News TodayDementia Risk Lower With Anti-Inflammatory Diet Even With Alzheimer's Biomarkers&nbsp;&nbsp;MedPage TodayA healthy diet may still make a difference for people at higher risk of dementia&nbsp;&nbsp;The ConversationWhich diet — and exact foods — are great for preventing dementia: study&nbsp;&nbsp;New York PostBrain-boosting foods: Hyderabad neurologist explains why coffee and dark chocolate make the ",
+      "summary": "Alzheimer's: Anti-inflammatory diet may help reduce risk by up to 29%&nbsp;&nbsp;Medical News TodayDementia Risk Lower With Anti-Inflammatory Diet Even With Alzheimer's Biomarkers&nbsp;&nbsp;MedPage TodayA healthy diet may still make a difference for people at higher risk of dementia&nbsp;&nbsp;The ConversationBrain-boosting foods: Hyderabad neurologist explains why coffee and dark chocolate make the list, why coconut oil, ghee as a 'brain tonic' and detox juices don't&nbsp;&nbsp;The Times of In",
       "sources": [
         {
           "name": "Medical News Today",
@@ -558,46 +714,10 @@
       ]
     },
     {
-      "id": "eab12cc0602e",
-      "title": "Mosquitos carrying West Nile virus found in three Twin Cities counties - Star Tribune",
-      "published": "2026-06-26T15:27:10+00:00",
-      "summary": "Mosquitos carrying West Nile virus found in three Twin Cities counties&nbsp;&nbsp;Star TribuneSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "Star Tribune",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbFlGQU53aUtNRElJdUNFMzY0T0RQdGQ4UEszQi0xaWhINmw3eUtReWxHZG9jcF9McGtIeW9wNGN3bGlOZmZDOG92VlJmZEo5VHZTc3RrN05lbWhvOGpGYkRKUjM5eU9JWUlFeE96cXJzQ3VOaDBZdGhwb2VzcU5sWmtQLTktZjRqLThUT0F0bnktb2hhQlJzMWIyOGRSaGQ1VlJEdTVWRnhhMUg4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f06667b07bd0",
-      "title": "Most Women Aren't Buying The Most Effective Drug For Period Pain, Study Suggests - ScienceAlert",
-      "published": "2026-06-26T15:04:49+00:00",
-      "summary": "Most Women Aren't Buying The Most Effective Drug For Period Pain, Study Suggests&nbsp;&nbsp;ScienceAlertExperts say timing matters when taking painkillers for period cramps&nbsp;&nbsp;The IndependentWomen told they could be using 'wrong' painkillers during their period&nbsp;&nbsp;The MirrorBBC doctor's ibuprofen and paracetamol alert for women with period pains&nbsp;&nbsp;Wales Online",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR0tUeGpXYzduUEd1SmJJbmowUUZzc1hHcGI3bnZ3Ylk0QldMOGFVbkY5NllSQ0NEX08yUS1fYTZhcGZKZ1JPazIzUkp5ZThtcU1rMGNjbDRndnFVZzUtd0ZEdGxBbkM2cnEwcnZrcVgydlp2SVotRlgtVHZwVC16Q0FpQTZwRVJvOEU2YV9tTVV6TllUeElpWk44alM0N2QtTk1WbHBxM2hVVVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6f92a973f462",
-      "title": "A single origin story for the Milky Way's most mysterious stars - Phys.org",
-      "published": "2026-06-26T13:20:01+00:00",
-      "summary": "A single origin story for the Milky Way's most mysterious stars&nbsp;&nbsp;Phys.orgHidden black hole could explain mystery at the heart of our galaxy&nbsp;&nbsp;New ScientistScientists thought they knew what's lurking at the centre of our Galaxy. But they may have been completely wrong this whole time&nbsp;&nbsp;BBC Sky at Night MagazineScientists believed they understood what might be at the center of our galaxy. However, they might have been entirely mistaken the entire time.&nbsp;&nbsp;vocal.",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGQU5wNE02WUd1QURSLUpkWHRqekpwQW1ILWFFdjJJRGx3SkZXS0dudVQ2TXBQWDdSSUtFMFJxaU5MNk5UZHB3Y0tSZFZKZFRWWXpVSzNFblhsa0dyVUNHQ0xoM1pTdU1EM1JJanB5a1o?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5b4045968617",
       "title": "Low Testosterone Is Linked to a Higher Risk of Cancer, Study Finds - ScienceAlert",
       "published": "2026-06-26T13:04:49+00:00",
-      "summary": "Low Testosterone Is Linked to a Higher Risk of Cancer, Study Finds&nbsp;&nbsp;ScienceAlertLow testosterone linked to cancer risk in men&nbsp;&nbsp;Medical XpressMen with low testosterone more likely to die from cancer&nbsp;&nbsp;The West Australian",
+      "summary": "Low Testosterone Is Linked to a Higher Risk of Cancer, Study Finds&nbsp;&nbsp;ScienceAlertLow testosterone linked to cancer risk in men&nbsp;&nbsp;UWA",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -606,94 +726,10 @@
       ]
     },
     {
-      "id": "d2fead5184cd",
-      "title": "Stress Can Physically Alter Your Blood's Structure, Study Reveals - ScienceAlert",
-      "published": "2026-06-26T11:04:48+00:00",
-      "summary": "Stress Can Physically Alter Your Blood's Structure, Study Reveals&nbsp;&nbsp;ScienceAlertChronic stress does not stay in the mind, and seven body systems can start showing the pressure before people connect the dots&nbsp;&nbsp;OkDiarioHealthwatch: How stress can impact your health&nbsp;&nbsp;WSLSRewire Your Body’s Stress Response in as Little as 5 Minutes a Day&nbsp;&nbsp;Woman's WorldUnder Pressure: Stress can impact every facet of health, so coping strategies are vital&nbsp;&nbsp;Newsbug.info",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPelJLd0RpMTJJZEJYNGhVSVhNZkV6QnJJTUF1dDZXWk1UdzdraWJNT3FERllfVVZHQlhCNDE4SloxOGkzNGdxVVdLcDZkRFpFTko5VVFUNEJVYkxDaGdDZ0RkU0NrRW80a2dYbDg3eGZkamY0SjhpRkVkdFc5Tks1cFJTRlEzSG1nb3BQNVpSMWFGcUNDcGIw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "78e79a0c6ab9",
-      "title": "The Best Vegetable for Metabolic Health, According to an Endocrinologist - EatingWell",
-      "published": "2026-06-26T11:00:00+00:00",
-      "summary": "The Best Vegetable for Metabolic Health, According to an Endocrinologist&nbsp;&nbsp;EatingWell",
-      "sources": [
-        {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWGFEM2xJQWdCVUZYSUpfMGdaZlhCbm5taHJ3a0dGdTZxemx1YkI4X2p0cGNZREt0dGxCVGhaX0RjOUE4OWZNbkIwSjZuRk1ESkdLWFJuX2NfeHZlUUgyOWxESGV3RXphbTVDYU1KbEp1eF9DWVJiUHExdllScjU0WQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d6ebbe1f6537",
-      "title": "SpaceX won a NASA contract worth up to $843 million to build a single machine whose only job is to drag the space station out of orbit and into the Pacific Ocean - Space Daily",
-      "published": "2026-06-26T10:45:29+00:00",
-      "summary": "SpaceX won a NASA contract worth up to $843 million to build a single machine whose only job is to drag the space station out of orbit and into the Pacific Ocean&nbsp;&nbsp;Space DailyNASA wants to dump the ISS in the sea. Experts say the plan 'raises serious concerns for ocean health'&nbsp;&nbsp;SpaceNASA plans to crash the ISS into the Pacific Ocean: Experts raise concerns for marine ecosystems' health&nbsp;&nbsp;The Times of IndiaExperts Concerned About Plan to Destroy International Space Sta",
-      "sources": [
-        {
-          "name": "Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPODd3dHBxeFpZMW1JZ24yVDBkQWRvcGFuRzJLazRsM2gwSHplenp1cGRPaGpEX2RoRF9zSE5LTTN0S2hfNTBqVlNCdUNiOUtCUHVVdVQ4WE1uaXg2RzF5dW1VRUVtaU1QeUVZRFIxb0ZCRk9tQmZ1YkVlTGotUEkwLVJTTHlPYVlyalE1QWtKblNMSnhmc0J6NE9OOXhwaU9uY1ROVTZra19ieHhjRnQyOFlqSEROTWl5bWFiOHB5cHdsS2l1ajJIblh4LVVwcm55eG4tTE9PTTd3VjJkT2lyS1FSYXY2aHU1bFVIMFJ3MjluSVFibGZyUkRNbFRFSGI1ODhkNjRFUWVHTmJzY0lpbC0ya2l2eVU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ed7834818d91",
-      "title": "An 80-year-old woman with advanced Alzheimer's regained speech and mobility after taking psilocybin - PsyPost",
-      "published": "2026-06-26T10:17:37+00:00",
-      "summary": "An 80-year-old woman with advanced Alzheimer's regained speech and mobility after taking psilocybin&nbsp;&nbsp;PsyPostWoman with Alzheimer's starts conversing again after taking psilocybin&nbsp;&nbsp;New ScientistWoman with Alzheimer’s shows improvements after taking magic mushrooms in single-person study&nbsp;&nbsp;CTV NewsA Research Hypothesis, Not A Treatment Recommendation: Marcos Lago on the Viral Psilocybin for Alzheimer's Case Report&nbsp;&nbsp;Psychedelic AlphaSevere Alzheimer’s: what ha",
-      "sources": [
-        {
-          "name": "PsyPost",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVkV2eVVEcWpRYS1kMlFsOG55ODN4V1ZpaHVOLTZqUXJIeUhHMXBUY0FacVFNV3VNeUdIYXhyZkd2TnRWU1lhWVJDMDNFblRubHd6Y2hldVFPcDVLNTc4MDZIRHBVbE9fVGVRWFVtMFVsSWhuZk54blUxQ2x4VWVVV1piVmg4RVdiUlpYRlVkaVlaaFpyU2MxYlhBb3d4VEZPcmtvcHB5cXk3aFdPVFhwQUJMeDlvd3d2WkxOSEdEMzU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "959ca0b8025d",
-      "title": "How a 'copper economy' helps fungi and bacteria build stubborn biofilms - Phys.org",
-      "published": "2026-06-26T09:00:06+00:00",
-      "summary": "How a 'copper economy' helps fungi and bacteria build stubborn biofilms&nbsp;&nbsp;Phys.org",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GS0N3dmg5d3lkMFhxNWZQUHFPNmlMU3Q4MHc2bzlBWVhGVWtIakpGVkN4OW5pbnZXU0g5ZlpqTmEzcEhLZThTdVhBb2ZsNDVZU1VXNl9DSGNxU2VDM0Z2NUJmMGZQMlhKUFFGc1Vha0QyOEdzUE1oa3lzcGlWZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6f95b3c095d0",
-      "title": "Jails are the frontline in fielding dangerous new type of drug withdrawal - statnews.com",
-      "published": "2026-06-26T08:32:45+00:00",
-      "summary": "Jails are the frontline in fielding dangerous new type of drug withdrawal&nbsp;&nbsp;statnews.com",
-      "sources": [
-        {
-          "name": "statnews.com",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWDdQYnhHeS1aTE12SUs2LXIzQmVhYi1GSHJtbXN5Mll0eTBrcmlRcFJCMlFZZDV2Vkc4VXRGSkIwNHcwVC1rNVc1NmNYcDh0b0lUQzJBZDlCc2xGcGlOYkpFY05uUnNZZXZLTTloVUJnd1djeDJKS3ZoWVlEcHJkbXhjeTVvY1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d391bb5ebabc",
-      "title": "Vitamin D, calcium may not be as helpful for strong bones as thought - Medical News Today",
-      "published": "2026-06-26T08:27:13+00:00",
-      "summary": "Vitamin D, calcium may not be as helpful for strong bones as thought&nbsp;&nbsp;Medical News TodayVitamin D and calcium supplements may not protect against bone fractures, large new study suggests&nbsp;&nbsp;The ConversationCalcium and vitamin D supplements do little to prevent falls and fractures, study suggests&nbsp;&nbsp;The Globe and MailDespite decades of advise on bone health, the majority of older persons benefit little from calcium and vitamin D supplementation.&nbsp;&nbsp;vocal.mediaStu",
-      "sources": [
-        {
-          "name": "Medical News Today",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeUpWd3lmaHhaY1hPSzFkOWZUYTFDQ3JtRzFYSGF2THpHenVMdEVkRElSZjdVY2RfU0Q1VWctaXdIZVRTakMxUkpmYklMbUdZUGNzZkRNNS1zQl93S09TMm52VHJmTGdfM0tFTmlkLTh2RW9KS1lnbm9ocWhra2NyNUxMRzF0VmpfakRXSkdxUWlhY1JnQWZzdkdwUEtfMHNHUWxlS1VieW9DTHNTOTNBN21jTU55bzZRaFVyMzRhX1Q?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b161da82a40f",
       "title": "You Don’t Actually Need to Get 10,000 Steps per Day. Here’s How Much You Should Walk, According to Experts - AOL.com",
       "published": "2026-06-26T00:18:54+00:00",
-      "summary": "You Don’t Actually Need to Get 10,000 Steps per Day. Here’s How Much You Should Walk, According to Experts&nbsp;&nbsp;AOL.comI Ditched My 10k Step Count Goal and Tried Intuitive Walking&nbsp;&nbsp;Marie Claire UKIs 10,000 Steps a Day Actually Based on Science? Here’s What the Research Says&nbsp;&nbsp;Men's FitnessThe number of steps per day needed to neutralize the harm of sedentary work has been named&nbsp;&nbsp;Baku.wsThis number of steps a day can reduce risk of death, diseases, analysis find",
+      "summary": "You Don’t Actually Need to Get 10,000 Steps per Day. Here’s How Much You Should Walk, According to Experts&nbsp;&nbsp;AOL.comIs 10,000 Steps a Day Actually Based on Science? Here’s What the Research Says&nbsp;&nbsp;Men's FitnessI Ditched My 10k Step Count Goal and Tried Intuitive Walking&nbsp;&nbsp;Marie Claire UKDoctors settle the debate on how many steps a day you should take - it's not 10,000&nbsp;&nbsp;Daily ExpressThis number of steps a day can reduce risk of death, diseases, analysis finds",
       "sources": [
         {
           "name": "AOL.com",

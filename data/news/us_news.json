@@ -1,15 +1,39 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-06-28T13:52:45.342806+00:00",
-  "total_fetched": 119,
-  "unique_count": 119,
+  "fetched_at": "2026-06-28T19:24:53.383761+00:00",
+  "total_fetched": 110,
+  "unique_count": 109,
   "health_related_count": 61,
   "news": [
     {
-      "id": "70890f36d7b1",
-      "title": "Here are the at-home medical items nurses swear by - The Washington Post",
-      "published": "2026-06-28T13:32:02+00:00",
-      "summary": "Here are the at-home medical items nurses swear by&nbsp;&nbsp;The Washington Post",
+      "id": "8f5f51f1fa3e",
+      "title": "Lingering distrust, low vaccine rates threaten containment of Lancaster measles outbreak - Pittsburgh Post-Gazette",
+      "published": "2026-06-28T18:29:26+00:00",
+      "summary": "Lingering distrust, low vaccine rates threaten containment of Lancaster measles outbreak&nbsp;&nbsp;Pittsburgh Post-GazetteDoctors warn of severe adult measles cases as Lancaster County outbreak grows&nbsp;&nbsp;LancasterOnlinePennsylvania measles outbreak grows to 72 cases among children and adults&nbsp;&nbsp;WHYYPennsylvania health officials address measles outbreak: ‘We will not slow down until this ... is over.’&nbsp;&nbsp;Inquirer.comState health officials monitor measles spread in Pennsylv",
+      "sources": [
+        {
+          "name": "Pittsburgh Post-Gazette",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVVBzSTNMamNuX05nd3l6U09zQ2pudjZGcnE5MWppYjVld2x3MzdMVEUyR21iSmY0b05vaWlNSC1pelBJTlB2TjZpUFhpRWV3dTZaQzRPOEtwWlYxcXF4M1dwQ2ZNWjBBWFNXWFhDVWRQNGxhMlVxYjEzSGpiV09ucDBXZVlPSFg1Wm5QWEhXWFNEUV9QenZxWUtiTmJBZWRRNE5TX0RHcnB3VjE3cTNZSUxiT1RQSng4S0xmNkRmakJTeGphQ2hfcg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5c61b6836db2",
+      "title": "The low-cal dessert that’s good for your gut health, eases joint pain — and can fight aging - New York Post",
+      "published": "2026-06-28T16:17:00+00:00",
+      "summary": "The low-cal dessert that’s good for your gut health, eases joint pain — and can fight aging&nbsp;&nbsp;New York Post",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSm9aU1BXSFUydHFqNVFpZ1lXT1NTMEktbkJReTd0bUROVDVjQ2haZ0I2bHY2UlpFQ3VPVzBaQ1FFUnExUERwT0RyMzVmOVN3SzhZVFd3Z2tOVG84S2xnQmVSWm1TdEpQaFgzUFFHaE5Gd2lqYmRfejFxOGk1eGZtUWtPeFNES1FUTmQybjJtdENRNWF0VWRiMy00THJtNXJqY2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d2edf892303c",
+      "title": "We asked nurses. Here are the at-home medical items they swear by - The Washington Post",
+      "published": "2026-06-28T16:00:00+00:00",
+      "summary": "We asked nurses. Here are the at-home medical items they swear by&nbsp;&nbsp;The Washington Post",
       "sources": [
         {
           "name": "The Washington Post",
@@ -18,14 +42,26 @@
       ]
     },
     {
-      "id": "44c12eacea5e",
-      "title": "This rare tick-borne disease is on the rise in the U.S. - The Washington Post",
-      "published": "2026-06-28T13:04:01+00:00",
-      "summary": "This rare tick-borne disease is on the rise in the U.S.&nbsp;&nbsp;The Washington PostRhode Island man diagnosed with Powassan disease&nbsp;&nbsp;WJARRIDOH Confirms Case of Rare Tick-Borne Viral Infection (Powassan),…&nbsp;&nbsp;Go Local ProvRI man contracts rare tick-borne ‘Powassan’ virus&nbsp;&nbsp;WPRI.comMaine CDC confirms first case of Powassan virus this year&nbsp;&nbsp;Maine Public",
+      "id": "4668062e13cf",
+      "title": "These Are the Medical Miracles Trump Could Take Away - The Bulwark",
+      "published": "2026-06-28T11:03:43+00:00",
+      "summary": "These Are the Medical Miracles Trump Could Take Away&nbsp;&nbsp;The BulwarkLouisiana man becomes first in region functionally cured of sickle cell disease&nbsp;&nbsp;The GuardianNew Orleans man becomes first in Louisiana functionally cured of sickle cell disease&nbsp;&nbsp;fox8live.comDaniel Cressy Bell Ringing&nbsp;&nbsp;NOLA.comHistoric Gene Therapy Gives Young Louisiana Man a New Shot at Life&nbsp;&nbsp;Capital B News",
       "sources": [
         {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ3R2ZFZlZTJHRkszZGZTUWV2cDk2YjJSa05qdXZuZUpBaFZrNnczRE9QcjJYNl9BT0lyTENoQU1idDg1VHMwQ3dsdmhKS3ZFeGxRSDJCeXdRQVVILXF6LXp5Z2dFRUV4V2o4Y0ZoQ3lTcFc0eW51RUJ0MGpzc1JXNlkzT3pUa3lJanh3LUZR?oc=5"
+          "name": "The Bulwark",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkZFR6VHRYa0RROUR6YTUwaTh2a093YTlNTVJqanM5SHh1S2N0T054VXg4UTdyQlhLamp0SG9MZW5tRDh4M2I1Y3Y5bVoyM2licGxDbFV1MFZOc0lManBEbEVLVHlGN19JQ1k0T0FNOU0xYm8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f98cbe1d4353",
+      "title": "Scientists Translated Brain Signals Into Movies With Surprising Accuracy - SciTechDaily",
+      "published": "2026-06-28T10:54:40+00:00",
+      "summary": "Scientists Translated Brain Signals Into Movies With Surprising Accuracy&nbsp;&nbsp;SciTechDaily",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVHFfVnU2TVZ0RjNBVzNPN1I2ejhsODZoSEpFdU55b0pqTVdtR24tb0FLdTI1T0ZYVlkwZTJ4ZkxudFE4WmZBRUJSRks5VWkzdzE4THRYcnMydG5tTXlpbC0taEc1YjA5UkhVZ1ZjRDNLbms4ZzhzZkFKY0xSYnhncFJvTW1LU1JRSWFhQ2txMFlwWnF6VzNrVFVGZHJYUWc?oc=5"
         }
       ]
     },
@@ -33,7 +69,7 @@
       "id": "810a8efe35a0",
       "title": "Shingles vaccine may also offer protection against dementia, studies increasingly show - NBC News",
       "published": "2026-06-28T10:30:00+00:00",
-      "summary": "Shingles vaccine may also offer protection against dementia, studies increasingly show&nbsp;&nbsp;NBC NewsFour easy ways to live longer&nbsp;&nbsp;vox.comA Shot Against Forgetting&nbsp;&nbsp;The Times of IsraelShingles Vaccine Linked to 24% Lower Dementia Risk in Older Adults&nbsp;&nbsp;SciTechDailyDr. Jeffrey Kopin: Get shingles vaccine if you are over 50&nbsp;&nbsp;WGN Radio 720",
+      "summary": "Shingles vaccine may also offer protection against dementia, studies increasingly show&nbsp;&nbsp;NBC NewsFour easy ways to live longer&nbsp;&nbsp;vox.comA Shot Against Forgetting&nbsp;&nbsp;The Times of IsraelShingles Vaccine Linked to 24% Lower Dementia Risk in Older Adults&nbsp;&nbsp;SciTechDailyNew Study Suggests Shingles Vaccination May Be Associated with Reduced Dementia Risk in Older Adults&nbsp;&nbsp;PR Newswire",
       "sources": [
         {
           "name": "NBC News",
@@ -42,14 +78,62 @@
       ]
     },
     {
+      "id": "f1d20e7d0d17",
+      "title": "Eggs score 10/10, quinoa just 4/10: Dietitian rates 9 popular protein sources and reveals which ones are worth eating | Health - Hindustan Times",
+      "published": "2026-06-28T10:20:22+00:00",
+      "summary": "Eggs score 10/10, quinoa just 4/10: Dietitian rates 9 popular protein sources and reveals which ones are worth eating | Health&nbsp;&nbsp;Hindustan TimesWe Asked a Dietitian What to Eat for Muscle Growth—One Food Stood Out&nbsp;&nbsp;Verywell Health6 Dietitian-Approved High-Protein Foods That Are Less Than $5 Per Serving&nbsp;&nbsp;EatingWell14 High-Protein Foods That No One Asked For&nbsp;&nbsp;The Takeout6 Delicious Ways to Add More Protein to Your Meals, According to Experts&nbsp;&nbsp;Vogue",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNc1htdWpVWVhFeENhbXotUUlYbjhKd01jQ0p2TEExdXNwYWJYOTZvZDgyck4wbjNQOWxrekJlT0RkcEJXWVNydnlqekFJeVUtNkRwejFEbVo4MnBPNndvdU5XUW5CXzREWll2UU1lRHZHTzl0alk0UjdDNkVneC1VNzdIeDV2RENKODVZM0lUZlJmRmR4cjJqNHBPOHpjbmNySUQwZlZDN3o1X1pNeTAyWUVRaFlUdnR5TTM2cEJkeW9kM3N6NGVkWHloeDJTS1Vwbl8tbEFMaUZFZm01MDRYSjU2TFlFQzZjbElpZWpOT1ZMUjFFeE1uN21HcXFJUl9nWGRLUDk2enF0N0NaWGxyUjln0gGXAkFVX3lxTE4yR25saHBRWF9SRnhRZjgwcVVyaDQ4anNKQmlYNVRNdXBqS0Y0bkxWcXhUNlF3SnZPaGNCcE52d2Z4MzQtay10N1pUS1hRa0IwZGVuN0NrOVQ1RDJEMEZYZExhSnFWbE9VemNYSlBXTXR5MUU0RHY1UUJWRDRSNDFxYkp5V2VOV1BSSmc1Yzktazh2bXdfQzBDSEhQYXFIREthNFZsbE8yWjVlN1pXTXE2X3g5S2xEZ0llczNSZWV2V2ZRT3hHTHBPVnVKNjFQQVVlTHRGRUsxZ2pUZGwxVzFLRlNoR1lwYkw1YnJOZElVazR0OUVvcV9CVTJYcGZMVkJwcVVia3daUENBUGRndUowM2tKMUxiVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fed1f3ee2706",
+      "title": "Sister Mary, a Catholic nun who belonged to the School Sisters of Notre Dame and died at 101 with her memory and reasoning fully intact, was one of 678 nuns enrolled in a 30-year study of brain aging by the American researcher David Snowdon — and her - Space Daily",
+      "published": "2026-06-28T10:15:22+00:00",
+      "summary": "Sister Mary, a Catholic nun who belonged to the School Sisters of Notre Dame and died at 101 with her memory and reasoning fully intact, was one of 678 nuns enrolled in a 30-year study of brain aging by the American researcher David Snowdon — and her&nbsp;&nbsp;Space Daily",
+      "sources": [
+        {
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOZlZ1ZUdwUW5MQktQQzhQdm02UzRNRWdVQzJ4NHlKUFFKME4tM19MaWNGcXkyVmVpdEFvQjdDelprRlltN1FOV2lPZ05TZnZOV3V6OFlXUTQzeTltUnRnZTNKbVNIcDAwb0tkT25PTk5hM2djcnZselJ2VExDUl9Gbks3S1pqOEZYRV9aN2o4a0F5aXZxUGtKUzBWWThneFYyU0lPTDRCZFBiYnFKVTROVkFLYXNnZTlxOWluLTJKOHA5ZGhKbURWVE9UQXRIbkZYcHJfVDVROEd1a254cXowTHZnX1JzS2NiakwwWVZ0cDI5VGJWRDdVYXYxd1hadmlZY3J2dWdDX3B1WHR1U3pIWGhfbDk2ZHJFSGpxdDBHNEJMcWQ1eGxsZFpaV3Q0T3lqUmNja3pIaGtWUDZVR1pjN2lCVVNsQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c4ad74f8270a",
+      "title": "This Is the Most Detailed Image Yet of the Milky Way’s Center - WIRED",
+      "published": "2026-06-28T09:30:00+00:00",
+      "summary": "This Is the Most Detailed Image Yet of the Milky Way’s Center&nbsp;&nbsp;WIREDESA’s Euclid captures the Milky Way’s crowded heart&nbsp;&nbsp;European Space AgencyMillions of stars light up largest and most detailed shot of Milky Way’s centre&nbsp;&nbsp;The GuardianSee the Most Detailed Photo of the Milky Way's Heart Ever Taken in Visible Light, Which Will Help Astronomers Hunt for Exoplanets&nbsp;&nbsp;Smithsonian MagazineEuclid View of Milky Way Heart Previews Core Survey by NASA’s Roman&nbsp;&",
+      "sources": [
+        {
+          "name": "WIRED",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeDRvRUJDRFl1MUdTSlF2YnRmOXZDWjRMaktoczBVLWpCMFZTMFA4WmxINm5MVzMxclRSWGpMeGd6T1AxYTJFUDhHcXZXMmJDbWgwS0xEbzZ3WTJQVWtYbVhJSEE5ZW0zWlowWF85eUFEa3U1MHBoUnVlcFh1WER0Y0p0cXZfQnpxaDhYUHF0SXlSYUE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1ee67239d527",
       "title": "Younger people are ageing faster biologically, study finds - Euronews",
       "published": "2026-06-28T05:00:10+00:00",
-      "summary": "Younger people are ageing faster biologically, study finds&nbsp;&nbsp;EuronewsBiological aging and generational shifts in early-onset cancer risk&nbsp;&nbsp;NatureFaster aging in younger generations linked to rise in early-onset cancer&nbsp;&nbsp;WashU MedicineStudy: Gen-Z and Millennials Are Aging Faster Than Their Parents—With Alarming Health Consequences&nbsp;&nbsp;inc.comRise in cancer in younger adults may be explained by faster 'biological aging,' early study hints&nbsp;&nbsp;Live Science",
+      "summary": "Younger people are ageing faster biologically, study finds&nbsp;&nbsp;EuronewsBiological aging and generational shifts in early-onset cancer risk&nbsp;&nbsp;NatureYounger Adults May Be Aging Faster Than Previous Generations&nbsp;&nbsp;ScienceAlertStudy: Gen-Z and Millennials Are Aging Faster Than Their Parents—With Alarming Health Consequences&nbsp;&nbsp;inc.comRise in cancer in younger adults may be explained by faster 'biological aging,' early study hints&nbsp;&nbsp;Live Science",
       "sources": [
         {
           "name": "Euronews",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN0FaYXdMV0hsdmItbTV6MzVQQWJsRGlFWExlN051LWlEMU1hUHZjVHNzcXg2a09KcGVJaFgtVnVUTTNYbnNYNUVuTGp6NldCOEhGS3lGRVNSQktoY2NET3JVRDJITFJIYUZNLXFZQkEzS1QxMmljVUN4Y1BRTFAtZkc0N0xNT2RDWXlHajZuUWt1SFdwOGJkdlE2SldPbEtHQVhqOHU1aW0taXcxN3J3WF9ReGQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ea79db536d41",
+      "title": "A tick virus now surging in New England can be traced back to an Ontario 4-year-old's death in 1958 - Yahoo",
+      "published": "2026-06-28T04:19:00+00:00",
+      "summary": "A tick virus now surging in New England can be traced back to an Ontario 4-year-old's death in 1958&nbsp;&nbsp;YahooRhode Island man diagnosed with Powassan disease&nbsp;&nbsp;WJARRIDOH Confirms Case of Rare Tick-Borne Viral Infection (Powassan),…&nbsp;&nbsp;Go Local ProvRI man contracts rare tick-borne ‘Powassan’ virus&nbsp;&nbsp;WPRI.comMaine CDC confirms first case of Powassan virus this year&nbsp;&nbsp;Maine Public",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaGN2X2QzZW83VTlucGwzZFNUalJjd3FpNEhhVmhCZFFDcE03d3NXOS1DNGpvYUVRWDlrWDRHUTlQczNHU0QwWmdMc2x1cGdzUjROdEFfeW5rV3lQZEtFNG5udkJ3ejJSTmM1NVgyUjVBZ1RFNi1XNjhwNHBsVG9yZDBCMVZGdnhvYXhtVnVjZkYtOXM?oc=5"
         }
       ]
     },
@@ -90,6 +174,30 @@
       ]
     },
     {
+      "id": "e58fc8583547",
+      "title": "Suspected brain cancer turns out to be pork tapeworm infestation - Boing Boing",
+      "published": "2026-06-28T00:31:14+00:00",
+      "summary": "Suspected brain cancer turns out to be pork tapeworm infestation&nbsp;&nbsp;Boing BoingWorms in Spanish man's brain puzzle doctors as no clear cause is revealed&nbsp;&nbsp;WIONDoctors suspected man had brain cancer. He actually had worms.&nbsp;&nbsp;Ars Technica",
+      "sources": [
+        {
+          "name": "Boing Boing",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWXNRQ2E5YnRnQnJiWkx4VUNuenhYVHNmVlpKa1JQTHkyTFZDU2tpcHJQaEI4Mldwd201eUtlUm1YWmw3SzA2Q0xhTll1NWdvMS1CR2RqYjlwMndFY0VaM3EwZVJhLXk3RjYtTzh6NDFMZDJ5eHZHVGcxLVhXTGdSM19fUDdoR2dOdVVCLTlBSmNfd2ZpQ3NvTkpSVVhnY2NELTZEWUZ30gGrAUFVX3lxTFBHcTRhN2stLUxUeVVqamRLandLUnZZSmVQM1R0b0RmN2dYLWtpWU5qaGx4RnJUZEtiMVZMVWlUNnItZWVWR3hLaGZYeFlpV1VIWktiTGFOdXBfVE5VZm1pa2ttcUFyRXlFNldPLVAxbE9ETWhDcER3ZWgxSFhFLTg2UF92SFZxV0w2Q0tlZmNRcWc5VXQ1QVdPU1pta1dXc0dNbG1MQW0ycU5BOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6682289ad855",
+      "title": "After 7-year-old's fight with brain cancer, Cleveland family advocates for blood donations - WTVC",
+      "published": "2026-06-27T23:51:54+00:00",
+      "summary": "After 7-year-old's fight with brain cancer, Cleveland family advocates for blood donations&nbsp;&nbsp;WTVC",
+      "sources": [
+        {
+          "name": "WTVC",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPcjFTVmRUbkp6Y3NmdWtROTlITmhPSGJibl9EaG5UWVp0S3d0eUhDZ25iS01uZmlvUmRLTFRvU2RHNWlXbmIyQS00S2hTSUhVem92MDhWcDFnY2p4aGI4UnRnenYxU3lkTTU3YktvMDZWSExOUjRaTG85LTc4eGR3bVRLZzEySTVrUkM2RlRnb3VEVnZUSlNNVHlDQmREVUx2b3N6bmJXS1E5VzVUOEJnYmhTLXlPdndPQnBma01lUXhpZkR5cndidmJMZ1NueEpwNUxoVHRJSVNZZ0hMb2hUaUNhbXM2TENkbFFsZlFWdzRqVTFmYkJqQUFvdXlQZEFxbFd6ZWFiX0xRQVgw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "10241f5415f1",
       "title": "Popular pain supplement linked to faster Alzheimer’s decline — and death - AOL.com",
       "published": "2026-06-27T23:09:25+00:00",
@@ -98,6 +206,18 @@
         {
           "name": "AOL.com",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNanE5dlE0QmMwN2dtUFZFZC1DTVhMMEdfY0pweXNNYjBjQXduN0ZqRTNmemc4VEV4X1I1ajZ2VktrM1lac3VzMmVpSGhkVWRxVy1fVHJiSDJzWkdoU0VJZElleHduOVlyU3dwTExFYnU4bVZnQV9EU3o3dnpoQTd2UHFxRWZIbk1T?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "16c2536ffe56",
+      "title": "New vitamin B12 therapy shows promise against deadly brain cancer - ScienceDaily",
+      "published": "2026-06-27T22:39:56+00:00",
+      "summary": "New vitamin B12 therapy shows promise against deadly brain cancer&nbsp;&nbsp;ScienceDailyHigh doses of vitamin B3 could help in fight against deadly brain cancer, study finds&nbsp;&nbsp;The Cool DownA common vitamin may help the immune system fight a deadly brain cancer&nbsp;&nbsp;Earth.comCan Vitamin B3 Help Fight This Deadly Brain Cancer? Here's What A New Study Suggests&nbsp;&nbsp;NDTVThis new vitamin B12 therapy shows promise against deadly brain cancer: Study&nbsp;&nbsp;Gulf News",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85NnRyV2poNU5kU1VVeGd2QnFXbVYzdi1YakZUaENqQi1SbnlYcDZZck90SkItb1Q2SG1VSTluTEdnSG1YSS1rZDRpMUo4OExDbnRfSEdfYkUxcWdGSHVXQU5hU1p6VG4zaVZLdUJWOA?oc=5"
         }
       ]
     },
@@ -138,26 +258,14 @@
       ]
     },
     {
-      "id": "b64b1737f228",
-      "title": "Scratching that bug bite might feel good at first but science explains why it's a bad idea - Medical Xpress",
-      "published": "2026-06-27T19:28:31+00:00",
-      "summary": "Scratching that bug bite might feel good at first but science explains why it's a bad idea&nbsp;&nbsp;Medical XpressSee more headlines & perspectives on Google News",
+      "id": "78654420484e",
+      "title": "Newly identified fossil sheds light on evolutionary history of saber-toothed cats - Phys.org",
+      "published": "2026-06-27T18:00:01+00:00",
+      "summary": "Newly identified fossil sheds light on evolutionary history of saber-toothed cats&nbsp;&nbsp;Phys.orgMislabeled saber-toothed cat fossil spent over 50 years hidden in a drawer&nbsp;&nbsp;Popular ScienceBerkeley: Discovery Of Feline Skull Sparks New Research Into Evolution Of Saber-Toothed Cats&nbsp;&nbsp;SFGATEScientists just found an early sabre-toothed cat hiding in a New York museum drawer&nbsp;&nbsp;The Times of IndiaUC Berkeley feline fossil find sheds new light on evolution of saber-toothe",
       "sources": [
         {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UbTU5UDE1R1RDUjd6eHJTZnNSV0ZIR0JuM0JNelE2T2lCWDhMYlQ5Ny1oRUNUTnE3cEZoZ1Z4dHlaTnYxcVhULVZ6dDg1MG1DaTBDVlVja2kyNldaczNVWTlNWG14NFVKcmJuTW9rTTg5SlZ2dXJoeA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f48269bc9381",
-      "title": "Volunteers Are Risking Their Lives to Stop Ebola. They Aren’t Always Welcome. - The New York Times",
-      "published": "2026-06-27T19:09:30+00:00",
-      "summary": "Volunteers Are Risking Their Lives to Stop Ebola. They Aren’t Always Welcome.&nbsp;&nbsp;The New York TimesIn the shadow of Ebola: Scenes from the outbreak's frontlines&nbsp;&nbsp;ReutersSpreading awareness on the frontlines of Ebola response&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbU9aczZDMWVYS3RjWEFHOWJQY3VJM3p1cUxaZ3dkR2MwREVjVldtd0Z2YjczWUYwcmFFd085QzNmZEd1NXlobnNiTzIxMktOY2gybjBueHd0dTE0TW5XU0JUdllidlpGZDFqUFpyU0lrYndWMHhHNjBSdWZOcjVXNG5YeDdTTUNPQkdVQnpMbm9mdmpzTDR3T3Q1XzJjUm5pQ2Vr?oc=5"
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGVi1uc3k2Q293RTBzeEY5NnhqTXk5dlFhamU4RVRSdnBtTTRrNUJfQkxmZmg2UWJxblRwWGdrZmlxX3RrWnBTZTNfTWtOaVJDdWN3OXdSM0ZkVHJiUm5PWTNkSjZ4cFFzMlR1RVNoVXYxdUpiZ0JQbzBwTTJacnc?oc=5"
         }
       ]
     },
@@ -165,7 +273,7 @@
       "id": "b59413b64406",
       "title": "Scientists Think They’ve Uncovered the 15-Million-Year-Old Origin of Laughter - 404 Media",
       "published": "2026-06-27T17:04:27+00:00",
-      "summary": "Scientists Think They’ve Uncovered the 15-Million-Year-Old Origin of Laughter&nbsp;&nbsp;404 MediaRhythm and timing in laughter reveal that human vocal plasticity falls on a hominid continuum | Communications Biology&nbsp;&nbsp;NatureTo Reveal the Rhythmic Roots of Laughter, Just Tickle an Ape&nbsp;&nbsp;The New York TimesResearchers tickle gorillas, other apes and find out they giggle&nbsp;&nbsp;Los Angeles TimesWhat an ape’s laugh can teach us about human language&nbsp;&nbsp;National Geographi",
+      "summary": "Scientists Think They’ve Uncovered the 15-Million-Year-Old Origin of Laughter&nbsp;&nbsp;404 MediaRhythm and timing in laughter reveal that human vocal plasticity falls on a hominid continuum | Communications Biology&nbsp;&nbsp;NatureResearchers tickle gorillas, other apes and find out they giggle&nbsp;&nbsp;Los Angeles TimesTo Reveal the Rhythmic Roots of Laughter, Just Tickle an Ape&nbsp;&nbsp;The New York TimesWhat an ape’s laugh can teach us about human language&nbsp;&nbsp;National Geographi",
       "sources": [
         {
           "name": "404 Media",
@@ -174,14 +282,14 @@
       ]
     },
     {
-      "id": "50b6ca50fdbd",
-      "title": "Cardiovascular Disease: 2 Hours Strength Training Lowers Risk by 20% - Healthline",
-      "published": "2026-06-27T16:09:18+00:00",
-      "summary": "Cardiovascular Disease: 2 Hours Strength Training Lowers Risk by 20%&nbsp;&nbsp;HealthlineJust Exercising for a Total of Three Hours Each Week Can Help You Live Longer, Study Says&nbsp;&nbsp;Outside MagazineResistance Training Linked to Lower CVD Risk in Women&nbsp;&nbsp;Infectious Disease AdvisorArnold Schwarzenegger Shares the ‘Strength Training Sweet Spot’ for a Longer Life&nbsp;&nbsp;Fitness VoltGain the Strength for a Healthier Life&nbsp;&nbsp;Oprah Daily",
+      "id": "9386c8ff26d7",
+      "title": "Parenting habit up to 6 months could protect kids against ADHD symptoms later - New York Post",
+      "published": "2026-06-27T16:11:00+00:00",
+      "summary": "Parenting habit up to 6 months could protect kids against ADHD symptoms later&nbsp;&nbsp;New York PostSee more headlines & perspectives on Google News",
       "sources": [
         {
-          "name": "Healthline",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXduRjlNQlJlaUtVT2NkdkFXU2o5TzVFUmlMUm1wOFVCd2FiZUpxbTAxS1JuOXdYSGV5RTZwaFItQjBoeDlMMVIxa3BZeFJiU3pvaE5ybFJrN0Z1dnQ2aVE3VU54TDBVYjh4dmNqR25PZ2lYNjhwazh3ZDY3T0hYaWdvaExNX2JSRlVtb0ZDUFhZQkRUeldtR0gtM2Q?oc=5"
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTWpSQ0RNTmYyOGxXRnBlRzhWbkpUTzZjVDVjNVBYWklTMnp3VE85RDhlc1hTRUl5cWNHMGpHamV2RXc2ZnphdnliV3FwVERuZEhXNEVad2lseWwtSjdQM1NrSlA5d3ZqZURLM2VwZFJIVXJjaEM4VlZUQW1nSXA5ekpRNlk3V2JYdnZNSDJ1b3VRSTlWUVJ3ZlNWN0lYQzd4YVE?oc=5"
         }
       ]
     },
@@ -189,23 +297,11 @@
       "id": "fb881c6a5de0",
       "title": "Jamestown Canyon virus detected in Exeter - WMUR",
       "published": "2026-06-27T16:09:00+00:00",
-      "summary": "Jamestown Canyon virus detected in Exeter&nbsp;&nbsp;WMURJamestown Canyon virus detected in Charlotte&nbsp;&nbsp;WCAXMosquitoes in Charlotte test positive for Jamestown Canyon Virus&nbsp;&nbsp;MyChamplainValley.comFirst mosquito-borne virus in Vermont of the year found&nbsp;&nbsp;WAMCVT Headlines: Mosquitoes in Charlotte test positive for Jamestown Canyon Virus&nbsp;&nbsp;Vermont Daily Chronicle",
+      "summary": "Jamestown Canyon virus detected in Exeter&nbsp;&nbsp;WMURJamestown Canyon virus detected in Charlotte&nbsp;&nbsp;WCAXMosquitoes in Charlotte test positive for Jamestown Canyon Virus&nbsp;&nbsp;MyChamplainValley.comHow mosquito traps catch EEE and West Nile before Vermonters get sick&nbsp;&nbsp;Burlington Free PressFirst mosquito-borne virus in Vermont of the year found&nbsp;&nbsp;WAMC",
       "sources": [
         {
           "name": "WMUR",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcFF5M3JuMmtFYjU2Z1hwdzJuczNjVzI1bldNNHlGMXlLalY0emV4Q1k4TUVWLS1mTEVycHAyenpkczN6dmJRTWtrb2I4dE8xeVNhOUFOZFh3dWpIQTdqTXZGVFhrRDlqNllyUWFsTDhnUU8yd0hHZmlGdW9XdWdFaUp6bHlYZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "33293b0d0e1d",
-      "title": "4 Foods and Drinks With More Calcium Than Yogurt - Health: Trusted and Empathetic Health and Wellness Information",
-      "published": "2026-06-27T16:04:28+00:00",
-      "summary": "4 Foods and Drinks With More Calcium Than Yogurt&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness Information7 high-calcium drinks that can beat a glass of milk&nbsp;&nbsp;TheHealthSiteInclude milk in your diet: Building bones for life&nbsp;&nbsp;Knysna-Plett Herald",
-      "sources": [
-        {
-          "name": "Health: Trusted and Empathetic Health and Wellness Information",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VVVdCeUltcTYxWE01dF92OEczZEhJX245aFhxYndKVW5FM21PSFdudVp4Qm5QZlk4SkFkdWc4NGtqSDFuZGlyTTVpZ1g2bXZUYTNudEUxMXpLc1hnamRkZHlDcjVwcUtVZG5ydUtNdlVzVm9reUE?oc=5"
         }
       ]
     },
@@ -273,7 +369,7 @@
       "id": "02dd105f1c6d",
       "title": "New blood test detects 90% of aggressive prostate cancer cases, beating current screenings - Fox News",
       "published": "2026-06-27T13:00:46+00:00",
-      "summary": "New blood test detects 90% of aggressive prostate cancer cases, beating current screenings&nbsp;&nbsp;Fox NewsProstate cancer blood test detects twice as many cases&nbsp;&nbsp;The TelegraphPioneering screening test offers potential to find more aggressive prostate cancers&nbsp;&nbsp;The Manila TimesAdam B. Weiner: Can Stockholm3 Outperform PSA for Prostate Cancer Screening?&nbsp;&nbsp;OncodailyNext-Generation Blood Test Improves Detection of Aggressive Prostate Cancer&nbsp;&nbsp;HealthDay",
+      "summary": "New blood test detects 90% of aggressive prostate cancer cases, beating current screenings&nbsp;&nbsp;Fox NewsPioneering screening test offers potential to find more aggressive prostate cancers&nbsp;&nbsp;The Manila TimesAdam B. Weiner: Can Stockholm3 Outperform PSA for Prostate Cancer Screening?&nbsp;&nbsp;OncodailyIndo-NZ researchers explore DNA-based approach to improve prostate cancer detection&nbsp;&nbsp;BioSpectrum AsiaProstate cancer blood test detects twice as many cases&nbsp;&nbsp;The T",
       "sources": [
         {
           "name": "Fox News",
@@ -285,23 +381,11 @@
       "id": "d92669994696",
       "title": "Lamprey brain atlas reveals 450-million-year blueprint of vertebrate brains - Phys.org",
       "published": "2026-06-27T13:00:01+00:00",
-      "summary": "Lamprey brain atlas reveals 450-million-year blueprint of vertebrate brains&nbsp;&nbsp;Phys.org[Science Through Covers] Lamprey ‘living fossil’ reveals secrets of vertebrate brain evolution over 500 million years&nbsp;&nbsp;동아사이언스Scientists Map \"living fossil\" Lamprey Brain, Shedding Light on Vertebrate Evolution&nbsp;&nbsp;Chinese Academy of Sciences (CAS)Science cover study suggests vertebrate ancestors had complex brains 500 million years ago&nbsp;&nbsp;news.cgtn.comChinese scientists unveil ",
+      "summary": "Lamprey brain atlas reveals 450-million-year blueprint of vertebrate brains&nbsp;&nbsp;Phys.org[Science Through Covers] Lamprey ‘living fossil’ reveals secrets of vertebrate brain evolution over 500 million years&nbsp;&nbsp;동아사이언스Science cover study suggests vertebrate ancestors had complex brains 500 million years ago&nbsp;&nbsp;news.cgtn.comScientists Map \"living fossil\" Lamprey Brain, Shedding Light on Vertebrate Evolution&nbsp;&nbsp;Chinese Academy of Sciences (CAS)Chinese scientists unveil ",
       "sources": [
         {
           "name": "Phys.org",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xdlJFbUwtV2tOQUhHREZnaW1nZVJSVlNqTGp0UXpjYmdsMkl4dGxGT0hvVkJ2d2NLZWs4b3hmSkZYTEM1TmJHX05GV3pZNC0wZDNYaDVFZEQtV3NlU1YzQTJPU2pQMUwtRldkRWVBUWNiNzBCRUtTbVFn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6fee5fc44f11",
-      "title": "Louisiana Notches a Sickle Cell First - Newser",
-      "published": "2026-06-27T12:10:00+00:00",
-      "summary": "Louisiana Notches a Sickle Cell First&nbsp;&nbsp;NewserLouisiana man becomes first in region functionally cured of sickle cell disease&nbsp;&nbsp;The GuardianThese Are the Medical Miracles Trump Could Take Away&nbsp;&nbsp;The BulwarkDaniel Cressy infront of the Manning Family Children's canc.jpg&nbsp;&nbsp;The AdvocateMan, 23, Declared Cured of Sickle Cell Disease After Previously Being Hospitalized 6 to 12 Times a Year (Exclusive)&nbsp;&nbsp;People.com",
-      "sources": [
-        {
-          "name": "Newser",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRk1UTVZmaGFRd3FWdzZvNFZ0SDFoa256WVRISUt5bERkTm5XemQwOVVsOXlfY2ROQy1SUVB1cV9lTVhhMWRtM0tRWmpUcHNBM0JUanhrN2xfT2VINEhsenQ5ZUUzeFJJMVJzM2NUa05DU0NreW1BUGtmdnhlbWh5eTBMeEI?oc=5"
         }
       ]
     },
@@ -333,7 +417,7 @@
       "id": "05f33d40ca03",
       "title": "U.S. may have lost a ‘crown jewel’ of public health, experts say - San Francisco Chronicle",
       "published": "2026-06-27T11:00:54+00:00",
-      "summary": "U.S. may have lost a ‘crown jewel’ of public health, experts say&nbsp;&nbsp;San Francisco ChronicleTwo new reports highlight obstacles to containing US measles outbreaks&nbsp;&nbsp;CIDRAPThe biggest summer illness threat&nbsp;&nbsp;Peoriatimes.comMeasles, whooping cough spike amid low vaccination rates&nbsp;&nbsp;Jacksonville Journal-CourierFAQs Amid the Ongoing US Measles Outbreaks&nbsp;&nbsp;Pharmacy Times",
+      "summary": "U.S. may have lost a ‘crown jewel’ of public health, experts say&nbsp;&nbsp;San Francisco ChronicleTwo new reports highlight obstacles to containing US measles outbreaks&nbsp;&nbsp;CIDRAPThe biggest summer illness threat&nbsp;&nbsp;Peoriatimes.comMeasles, whooping cough spike amid low vaccination rates&nbsp;&nbsp;Jacksonville Journal-CourierMeasles case in the Lowcountry: What we know&nbsp;&nbsp;WSAV-TV",
       "sources": [
         {
           "name": "San Francisco Chronicle",
@@ -438,10 +522,58 @@
       ]
     },
     {
+      "id": "f48269bc9381",
+      "title": "Volunteers Are Risking Their Lives to Stop Ebola. They Aren’t Always Welcome. - The New York Times",
+      "published": "2026-06-27T09:01:26+00:00",
+      "summary": "Volunteers Are Risking Their Lives to Stop Ebola. They Aren’t Always Welcome.&nbsp;&nbsp;The New York TimesIn the shadow of Ebola: Scenes from the outbreak's frontlines&nbsp;&nbsp;ReutersSpreading awareness on the frontlines of Ebola response&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbU9aczZDMWVYS3RjWEFHOWJQY3VJM3p1cUxaZ3dkR2MwREVjVldtd0Z2YjczWUYwcmFFd085QzNmZEd1NXlobnNiTzIxMktOY2gybjBueHd0dTE0TW5XU0JUdllidlpGZDFqUFpyU0lrYndWMHhHNjBSdWZOcjVXNG5YeDdTTUNPQkdVQnpMbm9mdmpzTDR3T3Q1XzJjUm5pQ2Vr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b97612e88a39",
+      "title": "Woman with Alzheimer’s shows improvements after taking magic mushrooms in single-person study - CTV News",
+      "published": "2026-06-27T09:00:00+00:00",
+      "summary": "Woman with Alzheimer’s shows improvements after taking magic mushrooms in single-person study&nbsp;&nbsp;CTV NewsWoman with Alzheimer's starts conversing again after taking psilocybin&nbsp;&nbsp;New ScientistA Research Hypothesis, Not A Treatment Recommendation: Marcos Lago on the Viral Psilocybin for Alzheimer's Case Report&nbsp;&nbsp;Psychedelic AlphaSevere Alzheimer’s: what happened after a dose of psilocybin surprised researchers&nbsp;&nbsp;Futura, le média qui explore le mondeAn 80-year-old",
+      "sources": [
+        {
+          "name": "CTV News",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNl9lTkpHaDRncVJ6dWNZTHJEODAtaHdrMU0wM3hjMUlfUzJjX0NNV1VxR3gyMWlaakpvN20wWHNPdGJZNV9fTjQ3RWFoMW5DOUwyY2t1VkhsbmYtRFZiT3BtbVluTUFSZ0l5ZURNakhuOEZzLWkzZXJZMlhsZHJsYkhGVkdxWHJiSzR2eEhLV0ZJeEQ4R212MnYwVU1CMWlMVW9HWC11Y19JQUJRY190ZktyN3VGa1B5MFg0ZllmNlVEYjJVMGxsRWpHMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "29e1a40c87e1",
+      "title": "The Best Diet For Brain Health Is Probably Not What You Think - ScienceAlert",
+      "published": "2026-06-27T08:04:50+00:00",
+      "summary": "The Best Diet For Brain Health Is Probably Not What You Think&nbsp;&nbsp;ScienceAlertAlzheimer's: Anti-inflammatory diet may help reduce risk by up to 29%&nbsp;&nbsp;Medical News TodayDementia Risk Lower With Anti-Inflammatory Diet Even With Alzheimer's Biomarkers&nbsp;&nbsp;MedPage TodayA healthy diet may still make a difference for people at higher risk of dementia&nbsp;&nbsp;The ConversationBrain-boosting foods: Hyderabad neurologist explains why coffee and dark chocolate make the list, why c",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSnNUbWhvYXFwazBWakNfOUJ3dFBvUVpXTFBoa3cyNUZUS0M2aHlBZ3AzanYxQUoxQnJ4aDcxaHlPcTdRdmY1VmQ1dDhZR29vazZBRXB5ejl1MUJZbHJYWWtPSHBPU2FKV1REZDRDVGN5aGJOTGRmbWJrMTl4ZDJ2WjFmU1EtVGIycmdhNFJneExkLVVn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "286b5c17cead",
+      "title": "Screen time can damage under-twos’ development, landmark study suggests - The Guardian",
+      "published": "2026-06-27T07:17:00+00:00",
+      "summary": "Screen time can damage under-twos’ development, landmark study suggests&nbsp;&nbsp;The GuardianBabies should have no intentional screen time, review says&nbsp;&nbsp;The TimesEarly screen time may impact subsequent academic performance and working memory&nbsp;&nbsp;News-MedicalTruth about kids and screen time: What experts recommend&nbsp;&nbsp;RBC-UkraineExperts warn of rampant ‘popcorn brain’ generation due to excessive screen exposure&nbsp;&nbsp;The Vibes",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOenVzNGZCLVF0WExrUFN4NHVid3lYMWJCUV9MRFpUY05zejdsaTEzdC1FRUFtVndRTFBvN0FIeXJNWnFiempaTzRtWElDdl9wakQ5THJhamVjcDl0ZFRRZGRndGVtd3luaFBEV0lZRTFBa2FEVTYwcEJlY0puM1pDRVpmS0ZDTEE1eGhQTDZadDZwVjFoaXROOFZqaw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7392d62fec36",
       "title": "New procedure treats hard-to-manage high blood pressure - WJAR",
       "published": "2026-06-27T06:07:25+00:00",
-      "summary": "New procedure treats hard-to-manage high blood pressure&nbsp;&nbsp;WJARHEALTH FIRST: New advancements in high blood pressure treatment&nbsp;&nbsp;WECT | TV6Pleiotropic effects of renal denervation beyond blood pressure reduction&nbsp;&nbsp;NatureDHR Health Bringing Innovative Renal 2 Denervation Treatment to Patients in South Texas&nbsp;&nbsp;Mega Doctor NewsNew nerve-targeting procedure offers hope for high blood pressure sufferers&nbsp;&nbsp;WSB-TV",
+      "summary": "New procedure treats hard-to-manage high blood pressure&nbsp;&nbsp;WJARHEALTH FIRST: New advancements in high blood pressure treatment&nbsp;&nbsp;WECTPleiotropic effects of renal denervation beyond blood pressure reduction&nbsp;&nbsp;NatureDHR Health Bringing Innovative Renal 2 Denervation Treatment to Patients in South Texas&nbsp;&nbsp;Mega Doctor NewsNew nerve-targeting procedure offers hope for high blood pressure sufferers&nbsp;&nbsp;WSB-TV",
       "sources": [
         {
           "name": "WJAR",
@@ -474,30 +606,6 @@
       ]
     },
     {
-      "id": "5d442d075b08",
-      "title": "We tend to think quantum tunnelling is a subatomic curiosity, but in 1984 and 1985 physicists at UC Berkeley showed that a superconducting electrical circuit big enough to hold in your hand could tunnel from one state to another — a discovery that won the 20 - Space Daily",
-      "published": "2026-06-27T03:30:33+00:00",
-      "summary": "We tend to think quantum tunnelling is a subatomic curiosity, but in 1984 and 1985 physicists at UC Berkeley showed that a superconducting electrical circuit big enough to hold in your hand could tunnel from one state to another — a discovery that won the 20&nbsp;&nbsp;Space Daily",
-      "sources": [
-        {
-          "name": "Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOU3Q5V29SZy1fcERzanFGY2JRaVE5ME5WVEhhWTI0S182WkJnc1BKWl9tcVphVnNLanA2cl9Pc19IREV5cEJ6NW5TWXVtbHJxWU9kWHlyZlFHY3FybHJ0T1JVR0VrWm9seko4ZzFycUVyY0NobVB2RnUwNW8tTmJqWUFKaUVoNzQyS1psTjJQbjJTNE9CVUkwbTdRUmVHTXZkUVE2d29mTXlzTTNFTGx0andRMW5SbldxbzJJbkgzZ3NBeElDRGFmc2N6b3BGcnRBNXl3Z193TFYxci1EU1RmS0hxT3ZVUXZPVXpqTEZCdy1sd0Q3eFhFQVJpWXpYQ2p1eDdkTUdzNXRkSEF2bWxPRGJRdWMxX1FDMTRDNExtVWlMM1gxVTdTLTZXMjNCSWwtQUNTV2l2aW1DNUtLSW5qOWlnWV9MWlk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "47501052ec91",
-      "title": "In 2018, low Earth orbit still had months of margin: if satellites stopped dodging one another, researchers estimate it could take 164 days before a catastrophic collision. By 2025, after the rise of megaconstellations, that margin had collapsed to just 5.5 days. - Space Daily",
-      "published": "2026-06-27T02:30:13+00:00",
-      "summary": "In 2018, low Earth orbit still had months of margin: if satellites stopped dodging one another, researchers estimate it could take 164 days before a catastrophic collision. By 2025, after the rise of megaconstellations, that margin had collapsed to just 5.5 days.&nbsp;&nbsp;Space Daily",
-      "sources": [
-        {
-          "name": "Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPb1RpazE2S3czVVhYdTRDZEI0Z2F0YjZHZ2JfNmROZGNIWE8yNW1CQ25hZmhOS1dZSGxVQnl6dTJqeHBuRk9ETXFLaTA2STktOHE4Y3o2TmZwUDdSa2xUbDRNWk4xWmNzVHg4am1LX0FYYkpJU3Vpb0V1cHJnSGY5OF9Qdlk1Sl9PWjcxeUMzYkZ2VVIxblRoNTFpazV4OGtvTUF4S19KWldwOWFrLUdLd2lHMndOQ01kRmRmYVNfTkIyMlRySF9uNWlNRENWWjVHb3lEUHRxMkU2bU5McjlyMHVENmFqYmNGRUZENUdPYXNGeEJUZV85Ry1zVVJURF9BQm11MGdVcG02VGZxdXo4VWRGRnV0ME44dGF5ZFdaNUN1TjJjVWhQVi1FajIwQldmSDRuYnZKSmRKakhCS2J3V1pR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4249e6bdcc8d",
       "title": "A bowhead whale can live for more than 200 years, yet it appears unusually resistant to cancer — and its genome carries genetic changes that may help explain why. Researchers have found signs of enhanced DNA repair in bowhead cells, turning one of the - Space Daily",
       "published": "2026-06-27T01:30:30+00:00",
@@ -513,7 +621,7 @@
       "id": "adf743ecb231",
       "title": "In 1977, Ann Druyan recorded an hour of her brainwaves and heartbeat just two days after she and Carl Sagan agreed to marry, and NASA pressed that compressed minute onto Voyager's Golden Record as a private love letter now more than 25 billion kilome - Space Daily",
       "published": "2026-06-26T23:30:33+00:00",
-      "summary": "In 1977, Ann Druyan recorded an hour of her brainwaves and heartbeat just two days after she and Carl Sagan agreed to marry, and NASA pressed that compressed minute onto Voyager's Golden Record as a private love letter now more than 25 billion kilome&nbsp;&nbsp;Space DailyWhoever finds the Voyager Golden Record will know exactly how long it has been drifting, because the scientists who built it pressed a small sample of uranium into the cover — a built-in clock that keeps time for roughly a bill",
+      "summary": "In 1977, Ann Druyan recorded an hour of her brainwaves and heartbeat just two days after she and Carl Sagan agreed to marry, and NASA pressed that compressed minute onto Voyager's Golden Record as a private love letter now more than 25 billion kilome&nbsp;&nbsp;Space Daily",
       "sources": [
         {
           "name": "Space Daily",
@@ -561,7 +669,7 @@
       "id": "885728a87186",
       "title": "US starts vaccine effort for Ebola Bundibugyo as outbreak spreads - Reuters",
       "published": "2026-06-26T22:09:43+00:00",
-      "summary": "US starts vaccine effort for Ebola Bundibugyo as outbreak spreads&nbsp;&nbsp;ReutersMapp, Gilead antivirals to be deployed in DRC Ebola trial: WHO chief&nbsp;&nbsp;Fierce BiotechWHO announces 2 trials of experimental drugs in Ebola outbreak&nbsp;&nbsp;CIDRAPAs Ebola Cases Breach 1000, Trial Of Two Antiviral Treatments Due To Start Soon&nbsp;&nbsp;Health Policy WatchWashington sends experimental treatment and tests to Africa to contain the \"Bundibugyo Ebola\" outbreak&nbsp;&nbsp;صوت الإمارات",
+      "summary": "US starts vaccine effort for Ebola Bundibugyo as outbreak spreads&nbsp;&nbsp;ReutersMapp, Gilead antivirals to be deployed in DRC Ebola trial: WHO chief&nbsp;&nbsp;Fierce BiotechWHO announces 2 trials of experimental drugs in Ebola outbreak&nbsp;&nbsp;CIDRAPUS to ship experimental Ebola therapy to DRC and Uganda as outbreak worsens&nbsp;&nbsp;WDEZUS to provide new experimental Ebola drug&nbsp;&nbsp;Semafor",
       "sources": [
         {
           "name": "Reuters",
@@ -573,7 +681,7 @@
       "id": "4208db015e51",
       "title": "Tick-related emergency room visits surge across Virginia - WVIR",
       "published": "2026-06-26T22:07:00+00:00",
-      "summary": "Tick-related emergency room visits surge across Virginia&nbsp;&nbsp;WVIRHow to keep ticks out of your yard — and off of you&nbsp;&nbsp;WHYYHow To Keep Ticks Out Of Your Yard This Summer&nbsp;&nbsp;Southern LivingThe Rising Threat Of Tick-Borne Diseases In America—Here’s What To Know&nbsp;&nbsp;ForbesER Visits for Tick Bites Are Surging to Decade-High Levels. How To Protect Yourself&nbsp;&nbsp;TODAY.com",
+      "summary": "Tick-related emergency room visits surge across Virginia&nbsp;&nbsp;WVIRHow to keep ticks out of your yard — and off of you&nbsp;&nbsp;WHYYER Visits for Tick Bites Are Surging to Decade-High Levels. How To Protect Yourself&nbsp;&nbsp;TODAY.comThe Rising Threat Of Tick-Borne Diseases In America—Here’s What To Know&nbsp;&nbsp;ForbesBe Mindful of Ticks This Summer&nbsp;&nbsp;KCII Radio",
       "sources": [
         {
           "name": "WVIR",
@@ -594,22 +702,10 @@
       ]
     },
     {
-      "id": "109688063624",
-      "title": "Doctors suspected man had brain cancer. He actually had worms. - Ars Technica",
-      "published": "2026-06-26T21:43:57+00:00",
-      "summary": "Doctors suspected man had brain cancer. He actually had worms.&nbsp;&nbsp;Ars TechnicaSuspected brain cancer turns out to be pork tapeworm infestation&nbsp;&nbsp;Boing BoingWorms in Spanish man's brain puzzle doctors as no clear cause is revealed&nbsp;&nbsp;WION",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTjFlQjZmY0UzeDVKMUxjX2RWZ29yWHlzRXF3bWwzNnFqak93cGRWc0EweVEwalNJc1p3dFVYSmZBSGUwajQxMF8tNzBmN0NoSWd3b0RRNlNDU0JCNHdEdlVFNUNyYkRxbElVdzE2YmFkSWxKbTRtenF1YmFrMWthWmNhaTh0VU9MRjdfemgteGQ5clpFal82VkVWeld3U1RFWGc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1a780d5a507f",
       "title": "The Race to Build the Next Generation of Weight Loss Pills Is Heating Up - Gizmodo",
       "published": "2026-06-26T20:15:28+00:00",
-      "summary": "The Race to Build the Next Generation of Weight Loss Pills Is Heating Up&nbsp;&nbsp;GizmodoOral GLP-1 pill delivers nearly 12 percent weight loss in 36 weeks, study finds&nbsp;&nbsp;The HillOral Orforglipron for Obesity Management&nbsp;&nbsp;Drug TopicsBeyond Injections: The Rise of Oral GLP-1 Therapy&nbsp;&nbsp;Pharmacy TimesNew Trial Shows Oral GLP-1 Aleniglipron May Be the Future&nbsp;&nbsp;Men's Fitness",
+      "summary": "The Race to Build the Next Generation of Weight Loss Pills Is Heating Up&nbsp;&nbsp;GizmodoOral GLP-1 pill delivers nearly 12 percent weight loss in 36 weeks, study finds&nbsp;&nbsp;The HillNew oral GLP-1 drug delivers up to 12% weight loss in 36 weeks&nbsp;&nbsp;Medical XpressOral Orforglipron for Obesity Management&nbsp;&nbsp;Drug TopicsNew Trial Shows Oral GLP-1 Aleniglipron May Be the Future&nbsp;&nbsp;Men's Fitness",
       "sources": [
         {
           "name": "Gizmodo",
@@ -626,102 +722,6 @@
         {
           "name": "Health: Trusted and Empathetic Health and Wellness Information",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hakJmYl9feloxWm1PRnZlaGJUUGt0REk2WHhyWGRxOEU1VHR5WmFKOGxvU2Nnek1JVFNxYTkxVTRCdHE4RW96dUN1djFZalVtZjNuT2l2cjdVQmo5NE9xbDN5YkFsdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ed79e321f28b",
-      "title": "US CDC raises Ebola outbreak response to highest level - Reuters",
-      "published": "2026-06-26T18:34:33+00:00",
-      "summary": "US CDC raises Ebola outbreak response to highest level&nbsp;&nbsp;ReutersEbola Outbreak Could Become Largest Ever, Africa’s C.D.C. Warns&nbsp;&nbsp;The New York TimesEbola Outbreak, DRC and Region, Situation Report #8, June 24, 2026&nbsp;&nbsp;ReliefWebWHO Director-General's opening remarks at the media briefing – 24 June 2026&nbsp;&nbsp;World Health Organization (WHO)CDC elevates Ebola response to highest level&nbsp;&nbsp;The Hill",
-      "sources": [
-        {
-          "name": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSmVlNlBOc2NRalkzTTJQMFUyMFlfVm45UXVjUk96YVdBdlZNTURvczhsbWhPSVd5ZVF1TjlBdGVmQUlWVVhmWXJOLW9wOTNhV25vZzRwMVl1WmVYWk9CNXRMSjJpdnl2VDNocVlqUDNIdTRKMjRscERyNlREN1YxTmhOT3cxSlFBZElZOThEUEdVT1g4bWppV0lxM2Y0U0VNVGg5OF83SmpCNWJha2hDOEZ0VExWOTRpTHJPbWFZWF9OcV9kdWZhZHhMbDlZdnBkQ0Z6bVowWlV4LTg4bXBqMQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9dc343d34a34",
-      "title": "One Specific Blood Protein Can Identify Dementia Risk Decades Before Diagnosis - ScienceAlert",
-      "published": "2026-06-26T18:04:49+00:00",
-      "summary": "One Specific Blood Protein Can Identify Dementia Risk Decades Before Diagnosis&nbsp;&nbsp;ScienceAlertSECmeres outperform extracellular vesicles as potential blood RNA biomarkers for Alzheimer’s disease&nbsp;&nbsp;NatureNew FDA-Approved Blood Tests Can Detect Alzheimer's Before Symptoms Worsen, but Access Remains Limited&nbsp;&nbsp;Medical DailyElecsys pTau 217 blood test from Roche Holding AG - CE-marked Alzheimer’s diagnosis moves to plasm&nbsp;&nbsp;Ad-hoc-news.deDetecting Alzheimer's disease",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZEVVcGpNcjRiQU8zNEpSczBmUERSbmNmbU5naFBDMVpUWjZja0F1ZElpOWVMSDhVN2RzQ1MweFJRRFFEMnJfUVJJRGVLUXpZd0tjOTgybklNZXlNUE1Td1Y1RndTUDRKX19TUkY3MURnZGRaSGtlYVlfbmJIeUFYZVNvaGVPa09ndWZBOHNNYnE2X0xzV0ZqOTNaQnVoSXlINzQwSDU5eUxxQjg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "51ea24a2d476",
-      "title": "Antibiotic \"megacluster\" discovery provides new strategy to fight superbugs - Ars Technica",
-      "published": "2026-06-26T17:46:07+00:00",
-      "summary": "Antibiotic \"megacluster\" discovery provides new strategy to fight superbugs&nbsp;&nbsp;Ars TechnicaA Streptomyces megacluster encodes synergistic biotin-targeting antibiotics&nbsp;&nbsp;NatureStreptomyces antibiotic ‘megacluster’ targets biotin to combat drug-resistant infections&nbsp;&nbsp;Drug Target ReviewNew antibiotic targets a hidden weak spot in drug-resistant bacteria&nbsp;&nbsp;Earth.comGene Cluster Produces Multiple Antibiotics to Combat Drug Resistance&nbsp;&nbsp;respiratory-therapy.c",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa05MZ2dyZm1Cd3Q3WTRTRHNyLW9lN0xXcTRSRTNvbWdoZDlJbk9vRVdtRHdXNTNYQTVkQ29FdnFSendmYXhBODdzVC1rYV80YUg0T3p0VWptSU1Nd0ViZVpuSXRaRDBJcU1xYS1RVnBDWGNuSWRJb1pYSExYNEFvbEVHZGg0S2RMRkFCR1VKSmRVM0FVQmNPMWFxX1c2Wkk4TVRQTm1OWklxMzVPVjVxT21fOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3d216806a8dd",
-      "title": "Exclusive | Mom gets groundbreaking mastectomy from a $2M robot named Carol - New York Post",
-      "published": "2026-06-26T17:26:00+00:00",
-      "summary": "Exclusive | Mom gets groundbreaking mastectomy from a $2M robot named Carol&nbsp;&nbsp;New York PostMoraga mom is U.S. pioneer to undergo breakthrough robotic breast cancer surgery&nbsp;&nbsp;KTVUAtlantic City, NJ Area Hospital First In Tri-States To Offer This&nbsp;&nbsp;WPG Talk Radio 95.5 FMAtlantiCare offers robotic nipple-sparing mastectomy with minimally invasive approach&nbsp;&nbsp;ROI-NJMom gets groundbreaking mastectomy from a $2M robot named Carol — and went to the beach with a tiny sc",
-      "sources": [
-        {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQanM0VFFReFVqSXA5T19oaGJvQXBxY1pteUpTUVNueG5EQlRrUTBrcmgta0R4VjJrTG9mQTdnSmpuUUJWY0dBTjhJTE11ZkoxcklRR0tPaW0wenktZHhlQmZSSTdNNjI5SXVIR1FpbnlRd3YzLWpQemdTd0tFMW5TeXk0akdMRXg3emh3eTV6azNxb1I5ZmJXc1p2NGlpdmFtbFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "54add42d6777",
-      "title": "Alzheimer's: Anti-inflammatory diet may help reduce risk by up to 29% - Medical News Today",
-      "published": "2026-06-26T17:17:14+00:00",
-      "summary": "Alzheimer's: Anti-inflammatory diet may help reduce risk by up to 29%&nbsp;&nbsp;Medical News TodayDementia Risk Lower With Anti-Inflammatory Diet Even With Alzheimer's Biomarkers&nbsp;&nbsp;MedPage TodayA healthy diet may still make a difference for people at higher risk of dementia&nbsp;&nbsp;The ConversationBrain-boosting foods: Hyderabad neurologist explains why coffee and dark chocolate make the list, why coconut oil, ghee as a 'brain tonic' and detox juices don't&nbsp;&nbsp;The Times of In",
-      "sources": [
-        {
-          "name": "Medical News Today",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLXBaY1c2RUduUlhnbWNlSmNCZ2s1Wlc4WkZaX1lHNW5oUHdPV192QWJET3JodzhDMTNzTEN5SERlenU5MDRZMGx2UV9RM3ZOSmFKN3YxdXFzT2t4U3l0bXFQV3JJREtFbGZVbnlfR1h0a3JuOFRMTmpkaEZ1MXhRdjJVZmdIUWllenYyUVduZ0lRQmFiRDhxVzRCNEdreTVYVHJ4X3pNVUJJdUE1YjctVUUxbw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a7152804c5f3",
-      "title": "CRISPR’s next act: the companies editing the epigenome to treat disease - Nature",
-      "published": "2026-06-26T16:06:50+00:00",
-      "summary": "CRISPR’s next act: the companies editing the epigenome to treat disease&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKZDFacjk0MUd1ODBOY1pKT3FCRVY1UlRHYVVuTTZwa2RLeFN5dkNCTW5KZWVXenBBTkNENmkxSE83QmJxVmtqUTNhVnJHR3c2OFdjRUdnT1d1RF84cUpN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "71c4db917e77",
-      "title": "Common Laxative May Help Reverse Depression-Related Brain Fog - SciTechDaily",
-      "published": "2026-06-26T15:53:35+00:00",
-      "summary": "Common Laxative May Help Reverse Depression-Related Brain Fog&nbsp;&nbsp;SciTechDaily",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY1lCZ25QUXVJeXJBNkpkZzREcnZmcmtCMVJnakNXcUdMMGNxMVJYbTNVZ1h0SDdFSTRxZ2FEU29vWGlzenBzVGhidFNDemVqSWEyMnh0ZXItWGhEUGpzSVA3b0NicnBMczBxNi14Uk5JUGstU3BQaVBmOVFlMHVGdFNTbVRkdHB0aHVnQU9vekE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5b4045968617",
-      "title": "Low Testosterone Is Linked to a Higher Risk of Cancer, Study Finds - ScienceAlert",
-      "published": "2026-06-26T13:04:49+00:00",
-      "summary": "Low Testosterone Is Linked to a Higher Risk of Cancer, Study Finds&nbsp;&nbsp;ScienceAlertLow testosterone linked to cancer risk in men&nbsp;&nbsp;UWA",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVFk5ZWJRNGRhZ3duRlZ0TmRzQ1JEaGhpUFBhd1Yycm5ZSkwxWTVKamFZN2NmM0J1c3d3SkZfUU96YUZTQkxBcWtJQm10LXRoaWFabGFWWWxlSlVVeVlScVA0UDdSVVcyVXdpelBGR1hUTENpTDgtc3NmdHkyQVJQUjdDWldPenQwYUtBbVdHdC1WRUFCVkFTMnpn?oc=5"
         }
       ]
     },

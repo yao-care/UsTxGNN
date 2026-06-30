@@ -1,10 +1,34 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-06-30T09:41:59.603084+00:00",
-  "total_fetched": 115,
-  "unique_count": 115,
-  "health_related_count": 55,
+  "fetched_at": "2026-06-30T14:25:11.766505+00:00",
+  "total_fetched": 114,
+  "unique_count": 114,
+  "health_related_count": 56,
   "news": [
+    {
+      "id": "c85aee6679a3",
+      "title": "Scientists discover possible link between 9/11 and accelerated aging - Fox News",
+      "published": "2026-06-30T11:00:58+00:00",
+      "summary": "Scientists discover possible link between 9/11 and accelerated aging&nbsp;&nbsp;Fox NewsStony Brook study reveals new link between PTSD and aging in Ground Zero workers&nbsp;&nbsp;NewsdayFaster aging, chronic disease linked to WTC responders with PTSD&nbsp;&nbsp;Medical Xpress",
+      "sources": [
+        {
+          "name": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOanpIaFpuYnVhZGJMVkMzMEdMM0ZWS09UWDNPa01PYkMwMlllbG5YNGhzODB1SkxXRTc3XzN1aFhVX2FXMVBlMVE0M1IxZnRqVzZ4RXhuWmJrd1hhOFZaeGNrZjlFT1dIZDFBUHpSbWhxbkVXZWttX2RJNlRVaGFIT3VBanpSMkZHWFV2NV9Nd2d5Zm1XTmhmbDd3UdIBoAFBVV95cUxPVGpnUjRzZUlHNmxzME9DNDNDX3A5dzZyOE1QSzRTSFhwSUp1elRkWlowRmt3TFdBZExKVWN4amctYXRSNW54c0oyNE8zMUZDbmZYS19JWlZyeHdKVnI3TC1sdnYtU1dnc29HS1dVZXczS1BveDYtVUV5RVBxZFM4TW1jdVBGUFlCbU03US1zb0VuZmpOOXFiYXV3RmZaZ0Z6?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8f764f1578b5",
+      "title": "6-Year-Old Girl Bitten by Rabid Bat While Climbing Tree Outside Her Family’s Wisconsin Home - Yahoo",
+      "published": "2026-06-30T10:09:42+00:00",
+      "summary": "6-Year-Old Girl Bitten by Rabid Bat While Climbing Tree Outside Her Family’s Wisconsin Home&nbsp;&nbsp;YahooCache County bat tests positive for rabies&nbsp;&nbsp;Cache Valley DailyRabid bat bites 6-year-old girl in Shawano County&nbsp;&nbsp;Channel 3000Wisconsin 6-year-old recovering after rabid bat attack&nbsp;&nbsp;WISNRabid bat confirmed in Adrian, Lenawee County health officials warn of exposure risks and reporting requirements&nbsp;&nbsp;WTOL",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR1ZLbUpLTnZ5Z3pFTG9qNWxtaDZTSDZmblItV1hkRmF6X1JFcGpZY196UGxGU2U0SVB3Z3ZJS0RIeUk0cG1Yb2xkbHg3VmJIMWs5NjB6QU55TTlnb3kwVnBsM0hhNGV4T3hBUU5VMXJ6amJJRU1wN0ZOM2EzWDZVMUgtaw?oc=5"
+        }
+      ]
+    },
     {
       "id": "e2df873c9d88",
       "title": "8 Effective Ways to Prevent Mosquito Bites, According to Entomologists - marthastewart.com",
@@ -18,26 +42,38 @@
       ]
     },
     {
-      "id": "30a9319816c6",
-      "title": "Fish Oil vs. Cod Liver Oil Supplements: Which Is Better for Heart Health? - EatingWell",
-      "published": "2026-06-30T08:14:19+00:00",
-      "summary": "Fish Oil vs. Cod Liver Oil Supplements: Which Is Better for Heart Health?&nbsp;&nbsp;EatingWell",
+      "id": "68cf712ed8be",
+      "title": "Scientists may have finally found how Alzheimer's spreads through the brain - ScienceDaily",
+      "published": "2026-06-30T07:22:02+00:00",
+      "summary": "Scientists may have finally found how Alzheimer's spreads through the brain&nbsp;&nbsp;ScienceDailyArc Protein Found to Spread Toxic Tau in Alzheimer’s&nbsp;&nbsp;Neuroscience NewsBrain Messenger Protein May Help Tau Spread in Alzheimer’s Disease&nbsp;&nbsp;Inside Precision MedicineHow A Rogue Tau Protein Drives Destruction — and How it Might be Stopped | Newswise&nbsp;&nbsp;NewswiseHow a Brain Messenger Protein Drives Progression of Alzheimer’s Disease&nbsp;&nbsp;University of Utah Health",
       "sources": [
         {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZTA5SzNTR3BzWTN1QVVmakVnNktVeEQwbG9NZjJnOGdPZmw5MjA0NWdqQklaWVE1MzIzNWFqX0dtZHlZVk1jcV9TeWpnZjNSSDJoYXJYb05QUHl3Zkw0SWc0bUFISHdqM0RCTzgyUWd3amZjT2R6MW84TjR2aE5wMkRRTXc4ZzhPY3d3X2t3?oc=5"
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hWGtNQzY1SWEzUTlvOHdETXpjLWlBY3Q4RG1OVnBVT2VhLUpfeHlUYmdrVkk2d0laSHJja3UtWjFsNzhqTWlwOENQZmRCVEZZVnI3SWhuQnJIbk11cFR1REt6cHdFbVQ1NlcxR1c4Zw?oc=5"
         }
       ]
     },
     {
-      "id": "df2bbceb2098",
-      "title": "Endocrinologists Share 5 Habits to Break for Healthier Blood Sugar - EatingWell",
-      "published": "2026-06-30T06:58:09+00:00",
-      "summary": "Endocrinologists Share 5 Habits to Break for Healthier Blood Sugar&nbsp;&nbsp;EatingWell",
+      "id": "afd0913eed2f",
+      "title": "We Asked 4 Heart-Health Experts About the Best Way to Lower Blood Pressure—and They All Said the Same Thing - EatingWell",
+      "published": "2026-06-30T05:30:00+00:00",
+      "summary": "We Asked 4 Heart-Health Experts About the Best Way to Lower Blood Pressure—and They All Said the Same Thing&nbsp;&nbsp;EatingWell",
       "sources": [
         {
           "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRWZDWlFYY0FyWWRfaVk0QTdhWEFGLVhxNkIwSTV4TzNOZUN3MnBXdlFpLXQ5U2FOZVJEWUNKVU0xYWU4eGMzY09VZVAzMF82aFRqOElNY01hY1EzRUsyNU9COUh5YjVFSzBRRVgxdjVmbW1PLXB2NFctZFdxaXNOZXRwZm9PSmxobUYzZ3F3?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNHE1LTVUYnFHVkdaQURQXzYtQmFYaHZVUUs2RjZTcTNjYk5Cb2hkY3NYcFpIQUxBejBnM0N5QzRZMDF1YWhiRHJUaWdFQ1BjNEgxNU91MS1hWjFLc0cyNXppVG9CUkNxdTRpdXo2aEw0ZFlfRVJocWl5X01PT3VEelRpRWNaRFBIZEdFUC1MZDQtQnBVWkJ2dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9af7cd7b6670",
+      "title": "Tejano singer warns of West Nile dangers after mosquito bite leaves him in wheelchair - Click2Houston",
+      "published": "2026-06-30T03:12:53+00:00",
+      "summary": "Tejano singer warns of West Nile dangers after mosquito bite leaves him in wheelchair&nbsp;&nbsp;Click2HoustonFight continues against increase in mosquitoes&nbsp;&nbsp;YahooHouston Methodist West Hospital Experts Warn of Mosquito Risks After Fort Bend Declares Health Emergency&nbsp;&nbsp;Covering Katy News",
+      "sources": [
+        {
+          "name": "Click2Houston",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUVp2cGRHbENXVWVFaWpfdHJnQlJkQTF6Nzh3NUwzaG15dGxBM3Rjd2J4X2xDZkFRVzRNQm1sMzBUSnVNZGRxbVJwVjJUdDhNejE4OUI5MERzeTAyVDdWVGg2Q0hPM3BCTHNudUc2c2h3akxVR1FXSzZ5azU3Tkt6TWQzY3EwcTh0eVpkVVRGdlJ1VHdtMTRURjd5ckRhU1RHclBLWFR1bHR4ZjdfdWtoT3k1a0JyQno0MGZtWTVHbUxnNTNYaktBVXNqb2dUbElJY0ZfYjdjdEQ4T1o0aW9TREtKQ01pbkE2Y0tSb1hCd2JMb1MxTWJCN3c2YkpQUQ?oc=5"
         }
       ]
     },
@@ -54,6 +90,18 @@
       ]
     },
     {
+      "id": "6a8d68b94e4f",
+      "title": "Cyclosporiasis cases on the rise in Monroe County, health officials say - FOX 2 Detroit",
+      "published": "2026-06-30T00:39:49+00:00",
+      "summary": "Cyclosporiasis cases on the rise in Monroe County, health officials say&nbsp;&nbsp;FOX 2 DetroitA Parasite Found in Contaminated Food Is Spreading Across Michigan as Health Officials Issue Warning&nbsp;&nbsp;People.comCases of Cyclosporiasis confirmed in Monroe County -- here’s what to know&nbsp;&nbsp;ClickOnDetroit | WDIV Local 4Monroe County Health Department reports multiple cases of parasite-caused intestinal illness&nbsp;&nbsp;WTVGMonroe County Health Department investigating cluster of cyc",
+      "sources": [
+        {
+          "name": "FOX 2 Detroit",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU1NMQUVNajJtaVRQa1NLSUZwaDFEa2ZFS2tYLUxyaUc4TWVBM2oxSzZOaGxVU0RIN3luWm5KSDhLOE5ha3pxekU4UHJRaVJzUno2TmxQV1RxNkFPWVo0RWdhVnRhaUNfTUFrU1JNOU15ZWtDeTZpTEpvajZWVE5uQ1YxdnNwVTU3V2V3bDVva3FhN1YwdFNYa9IBngFBVV95cUxOMzYwQVVhaTNMWGs0eGotSDVtSE5UV2RZd00xNU9NdXktZEQ1Q08wMkhmeThPeEcyaWdRSExBVEhSLW16RE5nQ0xfTkZCcUJKTEhQUFBVRDdjVW1PSENicUxWbU1maXcxVzhNTEUxZm1Wc1lhZEdNaWFVckk3TndOTkYyQ0l6SW5JTUUweG05MXotMVNRcUc4WXJkc1JNdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3053a59b6f43",
       "title": "West Nile virus detected in Davis County mosquitoes - KSL News",
       "published": "2026-06-29T22:46:13+00:00",
@@ -66,14 +114,14 @@
       ]
     },
     {
-      "id": "7a85be0a55e8",
-      "title": "Graphene can hold multiple states of superconductivity, a new study finds - Phys.org",
-      "published": "2026-06-29T22:40:01+00:00",
-      "summary": "Graphene can hold multiple states of superconductivity, a new study finds&nbsp;&nbsp;Phys.org",
+      "id": "e29dc941f89d",
+      "title": "Fish oil supplements no match for Alzheimer's risk, new study finds - USA Today",
+      "published": "2026-06-29T22:37:00+00:00",
+      "summary": "Fish oil supplements no match for Alzheimer's risk, new study finds&nbsp;&nbsp;USA TodayMillions take omega-3 fish oil for brain health but a new study found no benefit&nbsp;&nbsp;ScienceDailyFish oil, DHA may not help improve your memory or cognition, study finds&nbsp;&nbsp;WZTVNew Research Questions Whether Omega-3 Supplements Help Prevent Dementia&nbsp;&nbsp;新住民全球新聞網High-dose DHA reaches the brain but fails to protect memory&nbsp;&nbsp;News-Medical",
       "sources": [
         {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbXdNZ0xRZ3hNUEpCbjBoVVZoam82cjB2M1dxaWx2ZEV0X3ducUJJQk1MNGVKVzJsR0RQVnZoQ2ktOGZwdVVKaXoxWnM2aTZNeXNFV2UxWW5HZ0V1bmUzQUFLWjBzSjl0MEt1dW9RVmt0bnlPa21QTzB1dGNiSGFrLVY3dw?oc=5"
+          "name": "USA Today",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSVNwSnBsZlVuUXNIdDlLdnYxWGN6Y2ZxX1cwVWUyUy1YTlBsTUdRd0g1ZmxoUWFBaFlrTEVCcWFJdGZkVnhqOTIwQ1ZTNWN6ZzVFYWxGVlBpNGk3ZFFSSExNeU90LVNkNkl0NHJUT0kzWlpwZzdaNmE4c3dpQzlwdjdrVmZlMGhQMDdJa1VYbDZSZVJtYzJjZWgzWkNqbmlobmlNZExCbXNMY2doYzQzeU9ORDMtWWx6?oc=5"
         }
       ]
     },
@@ -81,11 +129,23 @@
       "id": "29eb46e2352f",
       "title": "Too much screentime for young kids will harm their ability to properly learn later, study reveals - New York Post",
       "published": "2026-06-29T22:36:00+00:00",
-      "summary": "Too much screentime for young kids will harm their ability to properly learn later, study reveals&nbsp;&nbsp;New York PostBabies should have no intentional screen time, review says&nbsp;&nbsp;The TimesScreen time can damage under-twos’ development, landmark study suggests&nbsp;&nbsp;The GuardianEarly screen time may impact subsequent academic performance and working memory&nbsp;&nbsp;News-MedicalWorld Social Media Day: Experts Warn Against Rising Mobile Phone Addiction In Children&nbsp;&nbsp;ETV",
+      "summary": "Too much screentime for young kids will harm their ability to properly learn later, study reveals&nbsp;&nbsp;New York PostScreen time can damage under-twos’ development, landmark study suggests&nbsp;&nbsp;The GuardianBabies should have no intentional screen time, review says&nbsp;&nbsp;The TimesEarly screen time may impact subsequent academic performance and working memory&nbsp;&nbsp;News-MedicalWorld Social Media Day: Experts Warn Against Rising Mobile Phone Addiction In Children&nbsp;&nbsp;ETV",
       "sources": [
         {
           "name": "New York Post",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVkpodGlZQzd1N2JyaFNWckt6WUFSYVBDSXE0NzY2OFY2Q016ZVBtaUwzbDdqYVEzbzdOYVo4dWQ1ZUdDQ0FHZDBQcjV0bTlGd3dROUZsRUx2d1JYUlZGZHoyaGRlSjQwSHdXRWxMeFdCTVNlaUtDZWliWW16ckJMcnlxMEpiaTFXQ0oteGlhbDZlVS1SWnFkRmpTeV9QRTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5c417218f0cb",
+      "title": "Disturbing Case Study Shows Why You Should Never Use a Massage Gun Near Your Eyes - ScienceAlert",
+      "published": "2026-06-29T21:49:59+00:00",
+      "summary": "Disturbing Case Study Shows Why You Should Never Use a Massage Gun Near Your Eyes&nbsp;&nbsp;ScienceAlertMassage Gun Eye Injury: Retinal Tears, Detachment&nbsp;&nbsp;MedPage TodayCase report warns of eye damage from massage guns&nbsp;&nbsp;CTV NewsMassage Gun Eye Injury: Scottish Man's Retinal Damage&nbsp;&nbsp;Daily BeirutPSA: Don’t Use a Massage Gun . . . on Your Eyeballs&nbsp;&nbsp;Hits 96 | WDOD-FM",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRmU3bWIySmg1UVMxaGVNRW00c0FUTEhIbUFiS3J5MC1LUFFUQ3hna1dVVTFZWm1KMDJ0SkJDUGZVb1JGSVF2NVd3T0RMVUR1OW92Z1VIdFJqSDRYYkpZU0tzaFF6eWJrcDBoVllYMzN3RnBZV3RKcWZQRDcwbzl5M092ZHRlc1pfV0VENEYySlAtX25GTFJpNjB4R2hBX25HV1E?oc=5"
         }
       ]
     },
@@ -117,7 +177,7 @@
       "id": "b2dcf546fec0",
       "title": "Rare tick-borne virus turns deadly fast as US cases reach record high, experts warn - Fox News",
       "published": "2026-06-29T20:40:04+00:00",
-      "summary": "Rare tick-borne virus turns deadly fast as US cases reach record high, experts warn&nbsp;&nbsp;Fox NewsSee more headlines & perspectives on Google News",
+      "summary": "Rare tick-borne virus turns deadly fast as US cases reach record high, experts warn&nbsp;&nbsp;Fox NewsThis rare tick-borne disease is on the rise in the U.S.&nbsp;&nbsp;The Washington PostRIDOH Confirms Case of Rare Tick-Borne Viral Infection (Powassan),…&nbsp;&nbsp;Go Local ProvMaine CDC confirms first case of Powassan virus this year&nbsp;&nbsp;Maine PublicTick-borne illness has gained a foothold in New England. Here’s how.&nbsp;&nbsp;The Boston Globe",
       "sources": [
         {
           "name": "Fox News",
@@ -126,26 +186,26 @@
       ]
     },
     {
-      "id": "57da631779b7",
-      "title": "6-year-old girl bitten by rabid bat in Wisconsin, family says - ABC7 Chicago",
-      "published": "2026-06-29T19:46:07+00:00",
-      "summary": "6-year-old girl bitten by rabid bat in Wisconsin, family says&nbsp;&nbsp;ABC7 ChicagoRabid bat bites 6-year-old girl in Shawano County&nbsp;&nbsp;Channel 3000Wisconsin 6-year-old recovering after rabid bat attack&nbsp;&nbsp;WISNRabid bat confirmed in Adrian, Lenawee County health officials warn of exposure risks and reporting requirements&nbsp;&nbsp;WTOLBat tests positive for rabies in Cache County, prompting health warnings&nbsp;&nbsp;ABC4 Utah",
+      "id": "83d2e9f98d86",
+      "title": "The Ozone Hole’s Earliest Cause Wasn’t CFCs After All - Gizmodo",
+      "published": "2026-06-29T20:30:15+00:00",
+      "summary": "The Ozone Hole’s Earliest Cause Wasn’t CFCs After All&nbsp;&nbsp;GizmodoOzone depletion began decades before discovery of ozone hole, scientists find&nbsp;&nbsp;Phys.orgOzone loss was a thing even before CFCs were widely used&nbsp;&nbsp;Ars TechnicaOzone hole: Ozone layer damage began much earlier and by other substances&nbsp;&nbsp;heise onlineScientists Reveal Early Signs of Ozone Depletion as Far Back as 1957&nbsp;&nbsp;The Times of India",
       "sources": [
         {
-          "name": "ABC7 Chicago",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObjkzbWFMX2dPWnlEM0o3SVM5dUI3Y0xqSlVYWG1IZjlDYTNuMmxJZ2dzYk1EOWVudTZVUngzeks4YXRYSXYtMEQ4eDJfT19KX19ncTJySTV0c1h5amgtQ25kaVVranBJUU9SWlNIbnNia0hpUTJwVUpkb2c1WXZNemFiM3ZlTlJzcEoxSHdFUjV5eGtCU0J2emRubzRuQkU5Y1gzUw?oc=5"
+          "name": "Gizmodo",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObmRUMGVwM1h6amJCektvMGNxcEhPX2Y2RkEtR2FVd01JTUJTMlJ4MDROU2ZCSElXT3MtV2dXeG16OTA2WlBCUDlEdTBlM0prWnBzMFNTbTBXdXQ4WElhX1phbGZRVVFQaWZOMXF0b1lOYVJ0Zmljdl9mNjhacW9YYmZnT3JfN1pDLVE?oc=5"
         }
       ]
     },
     {
-      "id": "414ef2d8c1e4",
-      "title": "Cases of Cyclosporiasis confirmed in Monroe County -- here’s what to know - ClickOnDetroit | WDIV Local 4",
-      "published": "2026-06-29T19:21:59+00:00",
-      "summary": "Cases of Cyclosporiasis confirmed in Monroe County -- here’s what to know&nbsp;&nbsp;ClickOnDetroit | WDIV Local 4A Parasite Found in Contaminated Food Is Spreading Across Michigan as Health Officials Issue Warning&nbsp;&nbsp;People.comCyclosporiasis cases on the rise in Monroe County, health officials say&nbsp;&nbsp;FOX 2 DetroitMonroe County Health Department reports multiple cases of parasite-caused intestinal illness&nbsp;&nbsp;WTVGMonroe County Health Department investigating cluster of cyc",
+      "id": "78c9dfce8245",
+      "title": "Weight Loss Drugs May Also Be Longevity Drugs, Researchers Say - AOL.com",
+      "published": "2026-06-29T18:53:57+00:00",
+      "summary": "Weight Loss Drugs May Also Be Longevity Drugs, Researchers Say&nbsp;&nbsp;AOL.comCould GLP-1 Drugs Help You Live Longer?&nbsp;&nbsp;The New York TimesCan Ozempic Slow Down Aging? Scientists Identify Surprising New Benefits of Weight-Loss Drugs&nbsp;&nbsp;inc.comCould Weight Loss Drugs Also Be Longevity Drugs? Here's What New Research Found&nbsp;&nbsp;Yahoo Health",
       "sources": [
         {
-          "name": "ClickOnDetroit | WDIV Local 4",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbXVHZkFuVzBSZzBmUjViZkM1eEc2UXlfMUtRMHRDSG1tYjNxWGUyMXVaNzhWSzhLUkdtNzB5UUxCOTVQMVl1MTZIS21VZm5XdGc5MzVFbE9MSnV6Znp1cFE0SjRGeXBva1lOWlJZX1RSQlRMelE0LUIwa2lQenlZdGl1OXRIVmJFLWVFRThkQUpKVVc2bFZmV3ZXa1pUOG5lMEdxc2lHWWxJVWJkcGpNeWZ5aE9Vd3BsTTU4c010alY?oc=5"
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNazdLOFRLVnFvYXdNVmlKczVNLVktUmQ4NnBLTGM4X1NNbmRJN3ZjYlJHR29fWVdVNUhZRmdOUDFrVkRnYUs0eWdhclhQa19pUDdtRmhmME9kUDk3ZV9KOUloZVk3YlNrRFR0MjJSaXNUbUNlWHMzQVhSelJ1dGM5RQ?oc=5"
         }
       ]
     },
@@ -186,22 +246,10 @@
       ]
     },
     {
-      "id": "49e88fcf9119",
-      "title": "Medicare pushes end-of-life discussions in hospitals - Axios",
-      "published": "2026-06-29T17:17:54+00:00",
-      "summary": "Medicare pushes end-of-life discussions in hospitals&nbsp;&nbsp;Axios",
-      "sources": [
-        {
-          "name": "Axios",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdmpiSkhTVlRUWFBSVGlobjRLREVxNlZuNVJFQnZlX0FBRWp4cFN2cDBjYVMwMjNndF9scE9PX3B3YlVpNVJxckhYYkRWajdIR21adG9CVjlfUjV4ZktOT2tUclE3WXEyeTZ2RWZ4ZnFsa1FIQnlyamZwamU5Q0otdg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c134f58d6a28",
       "title": "In October 2024, a team of Chinese researchers at Peking University reported that a 25-year-old woman who had lived with Type 1 diabetes since childhood stopped needing insulin injections within 75 days of receiving an experimental stem cell transplant ge - Space Daily",
       "published": "2026-06-29T17:15:29+00:00",
-      "summary": "In October 2024, a team of Chinese researchers at Peking University reported that a 25-year-old woman who had lived with Type 1 diabetes since childhood stopped needing insulin injections within 75 days of receiving an experimental stem cell transplant ge&nbsp;&nbsp;Space DailyAsk the doctors: Readers respond&nbsp;&nbsp;The Spokesman-ReviewCould Stem Cell Therapy Change Type 1 Diabetes Forever? Preparing for the Next Era of Care&nbsp;&nbsp;Diabetes In Control",
+      "summary": "In October 2024, a team of Chinese researchers at Peking University reported that a 25-year-old woman who had lived with Type 1 diabetes since childhood stopped needing insulin injections within 75 days of receiving an experimental stem cell transplant ge&nbsp;&nbsp;Space DailyAsk the doctors: Readers respond&nbsp;&nbsp;The Spokesman-ReviewCould Stem Cell Therapy Change Type 1 Diabetes Forever? Preparing for the Next Era of Care&nbsp;&nbsp;Diabetes In ControlType one diabetes trial shows promisi",
       "sources": [
         {
           "name": "Space Daily",
@@ -222,6 +270,18 @@
       ]
     },
     {
+      "id": "cbeee4f565b9",
+      "title": "Missourians urged to take precautions against tick-borne illnesses during outdoor activities - KSDK",
+      "published": "2026-06-29T16:30:00+00:00",
+      "summary": "Missourians urged to take precautions against tick-borne illnesses during outdoor activities&nbsp;&nbsp;KSDKTick-related emergency room visits surge across Virginia&nbsp;&nbsp;WVIRHow to keep ticks out of your yard — and off of you&nbsp;&nbsp;WHYYLyme disease is on the rise in Vermont. Here’s how to protect yourself and still enjoy the outdoors&nbsp;&nbsp;VTDiggerTicks are a growing problem, no matter where you live&nbsp;&nbsp;NCPR: North Country Public Radio",
+      "sources": [
+        {
+          "name": "KSDK",
+          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPN011MERteF9vLXVtWjl5MDlEX1psZlNUZVBXU011aENfWHQ4Uk10MWFPc3RjVEVJOTJwV29qRy0yVEJYZlRzZmNTWDVHQUsyaEhvZlhreVQ1ekdBNy1LWldvdEFYdWJBTTJSRHZZMndVYThMc2FyaWlVMXJJRFYxUXk3clU3M0o3VFZpbjUtdmVpd01GaUl3RU9ZN1owcmFEajBCVWNfbC0ySEFNdVNSdTg4eHVyak82MTM0R0lsdUd3QVFQRWt3V0gwRmwybVI4aHFsTTZ2ckpMMGtaYlIyOXotVWtxWktrRkh4aXRNc25pdmRtSjQzOVFTYXZVN016a1Y2dUZSa0J6U0JiUHB2YUtZUXJNUG83QVk3ZjZua0QxOXhSdWd0VkpsVQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0dd82b26b193",
       "title": "Tiny Antarctic sea creature could be key to treating melanoma, researchers say - The Guardian",
       "published": "2026-06-29T16:29:00+00:00",
@@ -234,10 +294,22 @@
       ]
     },
     {
+      "id": "63452aa1c79b",
+      "title": "Light-activated compound kills antibiotic-resistant bacteria by turning its own defense enzyme against it - Phys.org",
+      "published": "2026-06-29T16:20:06+00:00",
+      "summary": "Light-activated compound kills antibiotic-resistant bacteria by turning its own defense enzyme against it&nbsp;&nbsp;Phys.org",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdlBZeEM0RjlUdklUMmRfR1BxdzZfazFjZ0MzbzRvb3dLdkk0Q0x1dHRPWEdITWdLdjZSVkR5UWRSQzRaTjBaVUxSQ2FNVjBvTFl4TUxEbzRmTE9idjI0eDZPeXJZamdVZ0pxam44ZUlSOHNuUDdIaFNNM09jV1FHV05pQTBhX2Jp?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8e8b149f13fc",
       "title": "Earth Could Survive the Sun’s Bloated Death Stage, But There’s a Catch - Gizmodo",
       "published": "2026-06-29T16:15:24+00:00",
-      "summary": "Earth Could Survive the Sun’s Bloated Death Stage, But There’s a Catch&nbsp;&nbsp;GizmodoWill Earth survive the red giant sun? New research suggests yes&nbsp;&nbsp;EarthSkyEarth Might Not Be Engulfed By The Sun In 5 Billion Years After All&nbsp;&nbsp;IFLScience☀️ Will Earth survive the end of the Sun?&nbsp;&nbsp;Techno-Science.netCan Earth survive the Sun's death? The odds just improved&nbsp;&nbsp;Earth.com",
+      "summary": "Earth Could Survive the Sun’s Bloated Death Stage, But There’s a Catch&nbsp;&nbsp;Gizmodo'The fate of Earth depends on a delicate balance': Our planet may survive the death of the sun after all, n...&nbsp;&nbsp;YahooWill Earth survive the red giant sun? New research suggests yes&nbsp;&nbsp;EarthSkyGood News! The Sun Might Not Eat Earth After All, According to New Simulations.&nbsp;&nbsp;VICEEarth Might Not Be Engulfed By The Sun In 5 Billion Years After All&nbsp;&nbsp;IFLScience",
       "sources": [
         {
           "name": "Gizmodo",
@@ -249,7 +321,7 @@
       "id": "6447c9576c0f",
       "title": "Man’s Suspected Brain Cancer Turns Out to Be Something Much Creepier - Gizmodo",
       "published": "2026-06-29T14:50:00+00:00",
-      "summary": "Man’s Suspected Brain Cancer Turns Out to Be Something Much Creepier&nbsp;&nbsp;GizmodoDoctors thought man had brain cancer — they found live tapeworms instead&nbsp;&nbsp;Fox NewsDoctors Suspected Brain Cancer In Spanish Man With Chronic Headaches. Scans Revealed Otherwise&nbsp;&nbsp;NDTVDoctors suspected man had brain cancer. He actually had worms.&nbsp;&nbsp;Ars TechnicaSuspected brain cancer turns out to be pork tapeworm infestation&nbsp;&nbsp;Boing Boing",
+      "summary": "Man’s Suspected Brain Cancer Turns Out to Be Something Much Creepier&nbsp;&nbsp;GizmodoDoctors thought man had brain cancer — they found live tapeworms instead&nbsp;&nbsp;Fox NewsDoctors Suspected Brain Cancer In Spanish Man With Chronic Headaches. Scans Revealed Otherwise&nbsp;&nbsp;NDTVDoctors Thought a Man Had a Brain Tumor. It Turned Out His Head Was Full of Worms.&nbsp;&nbsp;VICEDoctors suspected man had brain cancer. He actually had worms.&nbsp;&nbsp;Ars Technica",
       "sources": [
         {
           "name": "Gizmodo",
@@ -270,10 +342,22 @@
       ]
     },
     {
+      "id": "b83518c44a17",
+      "title": "Even If You Eat Enough Veggies, You’re Probably Missing This Brain-Protecting Nutrient - inc.com",
+      "published": "2026-06-29T13:55:35+00:00",
+      "summary": "Even If You Eat Enough Veggies, You’re Probably Missing This Brain-Protecting Nutrient&nbsp;&nbsp;inc.com2 Foods You Should Be Eating for Better Heart Health, According to Research&nbsp;&nbsp;EatingWellHeart doctor names 4 best fruits to lower heart disease risk&nbsp;&nbsp;The MirrorThis is the fruit found to be most effective for preventing heart attacks&nbsp;&nbsp;The Jerusalem PostNot all 5-a-day foods are created equal – scientists say these 10 are best for heart health&nbsp;&nbsp;Yahoo Life",
+      "sources": [
+        {
+          "name": "inc.com",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUmdlT0RYckdTZ1RLTG5aTGFyYzhMZ0VGcmVRRGJZV0l4NW9wdmN1RTVYYV9XLWRqM0EtakRoZ08yNDRORmE3Y1V4UVFiVkpMQ3UxVDVuaFlrTzlWaW9jQWZiN3FVWUt3d2JWSHR4MGc0cFo4OUluUlVNbU9JeDd2c3pHUXJxeTE1QW1zaU1pbmV3VUc5US1UZ3VKSVp0c3dla2RUWGFVX0VSZUFadzlzdTJEbFgydVoxdlNNUlVsbnlJeW9YYjNmeHlB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d657834a4532",
       "title": "Longer breastfeeding linked to lower ADHD in kids, study finds - Euronews.com",
       "published": "2026-06-29T13:35:26+00:00",
-      "summary": "Longer breastfeeding linked to lower ADHD in kids, study finds&nbsp;&nbsp;Euronews.comBreastfeeding could protect child from ADHD symptoms, study suggests&nbsp;&nbsp;Deccan HeraldParenting habit up to 6 months could protect kids against ADHD symptoms later&nbsp;&nbsp;New York PostBreastfeeding Linked to Reduced ADHD Symptoms&nbsp;&nbsp;Neuroscience NewsBreastfeeding up to six months linked to lower ADHD risk&nbsp;&nbsp;News-Medical",
+      "summary": "Longer breastfeeding linked to lower ADHD in kids, study finds&nbsp;&nbsp;Euronews.comParenting habit up to 6 months could protect kids against ADHD symptoms later&nbsp;&nbsp;New York PostBreastfeeding Might Lower ADHD Risk, Study Finds&nbsp;&nbsp;U.S. News & World ReportLonger breastfeeding links to fewer ADHD symptoms in children&nbsp;&nbsp;News-MedicalBreastfeeding could protect child from ADHD symptoms, study suggests&nbsp;&nbsp;ET HealthWorld",
       "sources": [
         {
           "name": "Euronews.com",
@@ -297,11 +381,23 @@
       "id": "52aac9eff5ac",
       "title": "AHA/ACC/ESC/WHF Expert Consensus Document in Collaboration with HFSA, HFA and JHFS: Second Universal Definition of Heart Failure (2026) - professional.heart.org",
       "published": "2026-06-29T12:58:24+00:00",
-      "summary": "AHA/ACC/ESC/WHF Expert Consensus Document in Collaboration with HFSA, HFA and JHFS: Second Universal Definition of Heart Failure (2026)&nbsp;&nbsp;professional.heart.orgUpdated Global Definition of HF Aims to Improve Prevention, Diagnosis and Treatment&nbsp;&nbsp;American College of CardiologyUpdated Global Heart Failure Definition Aims to Enhance Early Detection and Personalized Care&nbsp;&nbsp;citybuzz -Global experts update heart failure definition to improve prevention, diagnosis and care&nb",
+      "summary": "AHA/ACC/ESC/WHF Expert Consensus Document in Collaboration with HFSA, HFA and JHFS: Second Universal Definition of Heart Failure (2026)&nbsp;&nbsp;professional.heart.orgGlobal experts update heart failure definition to improve prevention, diagnosis and care&nbsp;&nbsp;www.heart.orgUpdated Global Definition of HF Aims to Improve Prevention, Diagnosis and Treatment&nbsp;&nbsp;American College of CardiologyUpdated Global Heart Failure Definition Aims to Enhance Early Detection and Personalized Care",
       "sources": [
         {
           "name": "professional.heart.org",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaHlvYkFJaGJTVXpOa3B5dHQyZURvTjFLVVUyZmVSV3FFODdveXNLX0xBcWxhd1pHNFB1Q0FYWFJiaUtlQ3NFQW9MRWFqcjZLQWcyREZpbkdDN0RUVjc1a3ZLSFAyUDFNOUlHaml5eGRaTElQNTZHbDNfMWJ2SzJhb3dyaFRweVR2RlJGZjhseU5MaGhQcXlCckRuUU9SVk5DV1d4dVQ1REoxUmpwVFFMOWxCblZ0VEN6Y0FHVXNONA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2d320974a455",
+      "title": "Liver Health Is the Latest Wellness Obsession - Business Insider",
+      "published": "2026-06-29T12:36:00+00:00",
+      "summary": "Liver Health Is the Latest Wellness Obsession&nbsp;&nbsp;Business InsiderDr. Susnina’s Liver Health Diet: Foods to Prevent Disease&nbsp;&nbsp;Daily Beirut",
+      "sources": [
+        {
+          "name": "Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTktVeFFoa3FwTG1iaDhEbHowdEZoSFhCbUFTeGtEQzBVX2lwbjlwUXRydHlMc3pMZVduTERHelctZ2t1ZzhKN3RjSEtua3pQcjZLYVVTc1hneW9RZzVZVDFtNjJ3M2FmWjljOTFUNWZZQ2JJRFVOZUNib1V3Vi1QRVJvZzNTRi02T1UyTVJCelg3QnJRbElqdVZTeks5d0xZSHRnTWpUa28tZExlNnc?oc=5"
         }
       ]
     },
@@ -326,18 +422,6 @@
         {
           "name": "TODAY.com",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcExMUTNTQnRjWXhBSHIwMUhvNVVoTHROWWpnUlJZa0p3UUgzMDg3TmJlb0pkMDJKS0NraUowLWhhVHhiZmFPSGJqUHNxS0FpN0cxVkcwUlVjaUgzZFBGdWFhZkRTXzQxV2RoQ00xWUduTHFaZzlIQzVJbmk4NFhiM2p3dWstOTVNZ3U5MS14WFhGYUUyeHBmVUVGem85ZS1LNjI2bUpnMkExa0Z5TWxxVEowSWxPWlJRcXJmRnN1dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cb0c0404b4ce",
-      "title": "Giant exoplanet may hold a magnetic grip on its host star - Phys.org",
-      "published": "2026-06-29T11:40:01+00:00",
-      "summary": "Giant exoplanet may hold a magnetic grip on its host star&nbsp;&nbsp;Phys.orgThe Strongest Evidence To Date Of A Magnetic Field On An Exoplanet&nbsp;&nbsp;Astrobiology WebPlanet orbits so close to its star that their magnetic fields connect&nbsp;&nbsp;Ars TechnicaThe Hottest Known Exoplanets May Hold Clues to Planetary Habitability&nbsp;&nbsp;SciTechDailyA study reveals the strongest evidence to date of a magnetic field on an exoplanet&nbsp;&nbsp;Consejo Superior de Investigaciones Científicas",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MbVRlQmowM0dTM2hGSko1RTNfRFNRMjZQV1NENkkza0ZQZVpiNmpacTJZVlZyVkwwa1F3ZThFRW1wbm5WWkZGdldLRFgzTS1kWUU1RzZUV3cyNFliQUlTSlg1RDVIQmhlakhQVl9xZi1BdWJUYk4tZw?oc=5"
         }
       ]
     },
@@ -378,18 +462,6 @@
       ]
     },
     {
-      "id": "5d9b3132a7c2",
-      "title": "Could GLP-1 Drugs Help You Live Longer? - The New York Times",
-      "published": "2026-06-29T09:02:53+00:00",
-      "summary": "Could GLP-1 Drugs Help You Live Longer?&nbsp;&nbsp;The New York TimesCan Ozempic Slow Down Aging? Scientists Identify Surprising New Benefits of Weight-Loss Drugs&nbsp;&nbsp;inc.comCould Weight Loss Drugs Also Be Longevity Drugs? Here's What New Research Found&nbsp;&nbsp;Yahoo HealthWeight Loss Drugs May Also Be Longevity Drugs, Researchers Say&nbsp;&nbsp;AOL.com",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11WDc1cHBRa3ptdTduS2o5X2tTeGdzMHpHbld1TUxNOFZDdXpvMnltYmwwMWFMU3dWVmpTbjRreDhXMGh4emhlODgxdlhyUHZFQnNlSDRyVzlPUXRGUXdwLTlPbUlpMVlVbnh0TjIyU3JBaHZWY0U5NmJJTU1nQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2ecc7ea81bf4",
       "title": "People are taking allergy and heartburn pills for PMS. Could it work? - NPR",
       "published": "2026-06-29T09:00:00+00:00",
@@ -405,7 +477,7 @@
       "id": "4edf229463fc",
       "title": "As weight loss drugs like Ozempic spread, Louisiana doctors, researchers help answer big questions - The Advocate",
       "published": "2026-06-29T09:00:00+00:00",
-      "summary": "As weight loss drugs like Ozempic spread, Louisiana doctors, researchers help answer big questions&nbsp;&nbsp;The AdvocateGLP-1s 101: What the science says about weight loss, side effects, safety&nbsp;&nbsp;Stanford MedicineWhat GLP-1s Are Teaching Us About Compulsive Behavior&nbsp;&nbsp;MedscapeGLP-1s took drug compounding to a new level. Empower Pharmacy cashed in.&nbsp;&nbsp;Houston ChroniclePens to pills: what oral GLP-1s change at the bench&nbsp;&nbsp;drugdiscoverytrends.com",
+      "summary": "As weight loss drugs like Ozempic spread, Louisiana doctors, researchers help answer big questions&nbsp;&nbsp;The AdvocateGLP-1s 101: What the science says about weight loss, side effects, safety&nbsp;&nbsp;Stanford MedicineWhat GLP-1s Are Teaching Us About Compulsive Behavior&nbsp;&nbsp;MedscapeGLP-1s took drug compounding to a new level. Empower Pharmacy cashed in.&nbsp;&nbsp;Houston ChronicleObesity drugs after the gold rush&nbsp;&nbsp;The Pharma Letter",
       "sources": [
         {
           "name": "The Advocate",
@@ -414,14 +486,38 @@
       ]
     },
     {
-      "id": "29e53c2fe953",
-      "title": "Millions take omega-3 fish oil for brain health but a new study found no benefit - ScienceDaily",
-      "published": "2026-06-29T07:23:55+00:00",
-      "summary": "Millions take omega-3 fish oil for brain health but a new study found no benefit&nbsp;&nbsp;ScienceDailyFish oil, DHA may not help improve your memory or cognition, study finds&nbsp;&nbsp;WZTVFish oil supplements no match for Alzheimer's risk, new study finds&nbsp;&nbsp;USA TodayFish Oil Offers No Cognitive Benefit, Trial Finds&nbsp;&nbsp;LabrootsDoes fish oil reduce Alzheimer’s risk? What a new US study says&nbsp;&nbsp;ThePrint",
+      "id": "30a9319816c6",
+      "title": "Fish Oil vs. Cod Liver Oil Supplements: Which Is Better for Heart Health? - EatingWell",
+      "published": "2026-06-29T07:00:00+00:00",
+      "summary": "Fish Oil vs. Cod Liver Oil Supplements: Which Is Better for Heart Health?&nbsp;&nbsp;EatingWell",
       "sources": [
         {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tazlKa3hZd01OWkRFdXJKQTlqNExIeTdvUlJDdGU3MUxCaTZFc3hIUmhRQlZXTnVLSW1YNXk2WUFEOFpsdjZnelU1QjhzcWJvZkZPX3YyT0tYX0hoMkdCamE0bnlIQmdILUVFdl8wbw?oc=5"
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZTA5SzNTR3BzWTN1QVVmakVnNktVeEQwbG9NZjJnOGdPZmw5MjA0NWdqQklaWVE1MzIzNWFqX0dtZHlZVk1jcV9TeWpnZjNSSDJoYXJYb05QUHl3Zkw0SWc0bUFISHdqM0RCTzgyUWd3amZjT2R6MW84TjR2aE5wMkRRTXc4ZzhPY3d3X2t3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "df2bbceb2098",
+      "title": "Endocrinologists Share 5 Habits to Break for Healthier Blood Sugar - EatingWell",
+      "published": "2026-06-29T07:00:00+00:00",
+      "summary": "Endocrinologists Share 5 Habits to Break for Healthier Blood Sugar&nbsp;&nbsp;EatingWellSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRWZDWlFYY0FyWWRfaVk0QTdhWEFGLVhxNkIwSTV4TzNOZUN3MnBXdlFpLXQ5U2FOZVJEWUNKVU0xYWU4eGMzY09VZVAzMF82aFRqOElNY01hY1EzRUsyNU9COUh5YjVFSzBRRVgxdjVmbW1PLXB2NFctZFdxaXNOZXRwZm9PSmxobUYzZ3F3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "766bd7776da7",
+      "title": "Rabies Death: Ontario Child Dies in First Locally Acquired Case Since 1967 - ScienceAlert",
+      "published": "2026-06-29T06:39:18+00:00",
+      "summary": "Rabies Death: Ontario Child Dies in First Locally Acquired Case Since 1967&nbsp;&nbsp;ScienceAlert2 years ago a boy died of rabies from a bat. Doctors are reminding the public to be aware&nbsp;&nbsp;CBCFatal rabies case underscores need for immediate preventive treatment&nbsp;&nbsp;News-MedicalOntario boy died after a bat sat on his face. There were no visible bites&nbsp;&nbsp;National PostCanada rabies case follow-up: Boy awakens with bat on face&nbsp;&nbsp;Outbreak News Today",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc09ucUszVjd3T09wNU81RTZJQ1FmNi1WWWhBQmVrdkdocEh3QVRXVXhFSHM1cjltVW5fdmxVb2t0a3U4Rl96VVZPckNUa1MzMWx5cG8tYldvdWxYU3A4Q1I2LWp0anlQUnlrYlloZW9DeDd6aDlTcFEzZTRDZnFnOE5ucUFIVFZYNFg1MUxzeEkzLXhrRGk3clROV2Q4LWhVXzY0?oc=5"
         }
       ]
     },
@@ -438,14 +534,14 @@
       ]
     },
     {
-      "id": "7de0c5e6376e",
-      "title": "Taking vitamin D and calcium every day? Doctors reveal why supplements may not protect bones the way many believe - The Times of India",
-      "published": "2026-06-28T23:30:00+00:00",
-      "summary": "Taking vitamin D and calcium every day? Doctors reveal why supplements may not protect bones the way many believe&nbsp;&nbsp;The Times of IndiaVitamin D, calcium may not be as helpful for strong bones as thought&nbsp;&nbsp;Medical News TodayPopular Bone Supplements May Not Prevent Fractures, Major Review Finds&nbsp;&nbsp;ScienceAlertCalcium and vitamin D supplements do little to prevent falls and fractures, study suggests&nbsp;&nbsp;The Globe and MailCalcium and vitamin D are being questioned fo",
+      "id": "e2bdd3488efa",
+      "title": "There’s a terrifying uptick in tick-borne illnesses. Hope may finally be on the horizon. - The Boston Globe",
+      "published": "2026-06-29T05:30:00+00:00",
+      "summary": "There’s a terrifying uptick in tick-borne illnesses. Hope may finally be on the horizon.&nbsp;&nbsp;The Boston GlobeUniversity of Nevada, Reno leads tick control and vaccine research&nbsp;&nbsp;University of Nevada, RenoIf a Lyme disease vaccine gets approved, how would it go over? We asked hunters&nbsp;&nbsp;WOSU Public MediaOne Health strategies are needed to control tick-borne disease&nbsp;&nbsp;DVM360Bug season has arrived. How are Philly and Jersey fighting ticks and mosquito-borne diseases",
       "sources": [
         {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNNHV5OTA4S2h4WW5JbWhxa1kxT210bnA5VVJYdlBfQkgxcklUNUl0aE50UHMxMUZveVFmVE5KYmNvNGhlcDg0cVdIdkJhY2stUklRYXY4QmFmLVhPeTl0VC1XdXVydkNrZzRXSXpOYUlhOTY1alZnRW5fVnpNM3hvREVhZmN0QjVCZmEwSEMxUXFIR2VZUGxacmJPUzBzYlJKVFp3S3dDcFNFUHFraFVRaXNxampiaDk2eDNRVllqSWtPdjdXSUJjb3gxckpCN3J3aVRaLWMtbnA1aXNaSXIyN2FnaFE5UXlYQkJFMmtGcloya1FVWERGb241WXp2MUExYTM4cEs0NElFSlBq?oc=5"
+          "name": "The Boston Globe",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV1ZTS2ZiMnU2UXpPeEhXLTlpWENBUnRxcHU0MFpkTUhGLXJpRjFleXViWkVsc2pUaE43VnVnYjBIYjlUc3ZjcjhZUnhLYXdkMzJPUG9MYUJsYkVEUzNQMVpweWM4UHgyQ2ZUajlMZkdDUlpFcktibllaM0twSDJEbUNjX2I3Y0Q0S09yYw?oc=5"
         }
       ]
     },
@@ -462,38 +558,14 @@
       ]
     },
     {
-      "id": "da74cc0880a6",
-      "title": "KosAbility: Ticks and TBDs increasing while a new vaccine offers hope for those who will use it - Daily Kos",
-      "published": "2026-06-28T23:00:00+00:00",
-      "summary": "KosAbility: Ticks and TBDs increasing while a new vaccine offers hope for those who will use it&nbsp;&nbsp;Daily KosTick-related emergency room visits surge across Virginia&nbsp;&nbsp;WVIRHow to keep ticks out of your yard — and off of you&nbsp;&nbsp;WHYYLyme disease is on the rise in Vermont. Here’s how to protect yourself and still enjoy the outdoors&nbsp;&nbsp;VTDiggerMissourians urged to take precautions against tick-borne illnesses during outdoor activities&nbsp;&nbsp;KSDK",
-      "sources": [
-        {
-          "name": "Daily Kos",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTNGlMc0lFa3NxVWk1T180ZnlOSWF1ZklfZnZtOWU3aGhHdTlpeTdPaXlEUlRQNThUMVJ2NWVXZHdQTFBIZmlVV3VDTUt3d0V4X3NWdFVXb2dXcTVSTmlZdHptRnUxaXBGT3BGdU83WDFvN2xYYy13OUlpaDVXeFk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fea9428742c8",
       "title": "Some medications can make it harder for your body to handle extreme heat, experts say - news8000.com",
       "published": "2026-06-28T22:39:00+00:00",
-      "summary": "Some medications can make it harder for your body to handle extreme heat, experts say&nbsp;&nbsp;news8000.comUrgent warning for anyone using anti-depressants, insulin or inhalers this summer&nbsp;&nbsp;The MirrorUKHSA warning to anyone taking Citalopram, Fluoxetine, Sertraline and Paroxetine&nbsp;&nbsp;Cambridge NewsExtreme Heat Can Turn Common Medications Into Health Risks, MSU Doctor Warns&nbsp;&nbsp;East Lansing InfoYour medication may make you more sensitive to heat this week&nbsp;&nbsp;WZZM",
+      "summary": "Some medications can make it harder for your body to handle extreme heat, experts say&nbsp;&nbsp;news8000.comUrgent warning for anyone using anti-depressants, insulin or inhalers this summer&nbsp;&nbsp;The MirrorUKHSA warning to anyone taking Citalopram, Fluoxetine, Sertraline and Paroxetine&nbsp;&nbsp;Cambridge NewsSoutheast Wisconsin heat wave brings warning for medication users&nbsp;&nbsp;FOX6 News MilwaukeeExtreme Heat Can Turn Common Medications Into Health Risks, MSU Doctor Warns&nbsp;&nbs",
       "sources": [
         {
           "name": "news8000.com",
           "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOT0tnOHhhaHhmdHRhdTRERm1UWWk2TW5JejN6SEZBQTFkMWNmYmlod3ZObDV1d3Z4blk3cGJlX3JPRVRkN29vek9mVEV2ZnBSSFFQaU5KRlpfdVhKY09FVUVsU2xrZ05vYXkyR1RHYkpXbHg5dTNISHlUWHlmQW5FSEhRX0NYb21kUmY0Nm9kb1dkdlVUa04wYXpUZTJmd2s0a3RWSXJVcHpFREg2TGp1eElmVVFBbEFqNjZUSW9VOHFRclhCU0YtbU5JOWdySDBia01xNE1lUXQyNW1uVDBkUGN4ZEdEbXplM1lsLWxNMWJoMlI0cWRaU0pWMS1CUjdFVFBEam1JQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "70ee17a58e6e",
-      "title": "60 million stars shine in Euclid telescope's new image of the Milky Way - Boing Boing",
-      "published": "2026-06-28T21:02:05+00:00",
-      "summary": "60 million stars shine in Euclid telescope's new image of the Milky Way&nbsp;&nbsp;Boing BoingESA’s Euclid captures the Milky Way’s crowded heart&nbsp;&nbsp;European Space AgencyThis Is the Most Detailed Image Yet of the Milky Way’s Center&nbsp;&nbsp;WIREDMillions of stars light up largest and most detailed shot of Milky Way’s centre&nbsp;&nbsp;The GuardianEuclid Sees Heart of Milky Way&nbsp;&nbsp;NASA (.gov)",
-      "sources": [
-        {
-          "name": "Boing Boing",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaFRJTGxIbmpabDNjWmU0SkVRYTM0RzJXcmJ3eER4SUtNR2tyTnR1RmdaYzNGbU5tZGlJTlJySDdfdzRhYW1IM1pLU2x2WWwwRTlzR1RCelA2b0NFZkJyeGFSbzBjQkNHZGhBWUtxYjhkVTJCZVMtNkMxN3BUeW9TQ0pXRUdvUE5mMlhaRWZ4NUk5XzMyajdjdWxLQnVFNDVnUmYzRE9uUUJsdmtITWfSAbMBQVVfeXFMTnNTOUdTQUo3ZVhtXzctT1JUT0Z3WEQ5amgxMTE3aW15Mk9PTS1xd18wNC1DbVhjSnRET0VmMEFlUW9mNTh0bFlqb2ozZjhFazgyUEJtazk4bVhXV05DVXVlbFJRVlFlc1FRLVhMaVBJalRCUG9xbFcyRzN5d1VYLVBBN3lMNkVmVG9oY0o1V3ZYYW82WVJGTHdMWWF6OXQtVlVXMTgwX3hZSnlORXEtcWJKWTQ?oc=5"
         }
       ]
     },
@@ -518,18 +590,6 @@
         {
           "name": "Medical Xpress",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQanlKemdmY29LVnAtTmdaNG5TVU5rd2xqU0JBdllWTkxHTERySkUyY1laeGZHejRuZVNhd2xmSE0xVTV3WHJkOTNIRk5EVkNBRGhldlBrdFpIRUJ1RG8xNF9KRXJXaFNsd1dCWnpJRmV1R0syMUdFUTl6M0RNU1RQZWJWMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d274aa9241f5",
-      "title": "Going through menopause? Vital therapy slashes risk of low bone density by 69% - New York Post",
-      "published": "2026-06-28T18:00:00+00:00",
-      "summary": "Going through menopause? Vital therapy slashes risk of low bone density by 69%&nbsp;&nbsp;New York Post",
-      "sources": [
-        {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMU85Z2VyLVlfdnVlRXF5STJsLW96c2pyeFhsTVd0bVM4dHVDQ0R5WWFkWEZKZ1A5N1hHWkt6SHRNaUFrZnAxVzFpVlVhT3dwM3Q0RWJmZHNMczd3andRc2xmb1N5RWNfQnRVTm5wbjlNV0FMbFRfOWRiY2NSeF9pRUtFUDlwSFVmZEtqSlFiN3c0cEFJTUtaSmJ5ekpmdw?oc=5"
         }
       ]
     },
@@ -594,6 +654,18 @@
       ]
     },
     {
+      "id": "32fbe2d91a42",
+      "title": "SpaceX Just Tested a Secret Cargo Delivery Vehicle That Could Ship Goods Anywhere on Earth From Space. Here's What Investors Should Know. - The Motley Fool",
+      "published": "2026-06-28T14:55:00+00:00",
+      "summary": "SpaceX Just Tested a Secret Cargo Delivery Vehicle That Could Ship Goods Anywhere on Earth From Space. Here's What Investors Should Know.&nbsp;&nbsp;The Motley FoolSpaceX's Starfall Could Open a Brand-New Revenue Stream Beyond Rockets and Starlink. Is That Enough to Change the Bull Case?&nbsp;&nbsp;Yahoo FinanceSpaceX launches its 1st 'Starfall' reentry capsule in early morning Falcon 9 liftoff&nbsp;&nbsp;SpaceWith Starfall, SpaceX eyes an edge in global cargo delivery from orbit&nbsp;&nbsp;Ars ",
+      "sources": [
+        {
+          "name": "The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVWNfaWF6UkVzX0JPbGpfLUVhVXFhYkxfMWg5ZF9abUZzTWlIYXVtcHpGLWNVQUtVVlRnZElQZ05IZ25CUVE3azVma3lFNGE1TXk5RmZZRm1yc3JSN0Q1Tmg4SUViNjhnU0JBNThnbTlhZE5IemtBMWJUdEZTQUVBMWhBZ1dHQWNwb1ZwZWhrM2k1VncyazF0bA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "926115bc281f",
       "title": "Reproduction affects health—and so does biological sex - Medical Xpress",
       "published": "2026-06-28T14:30:01+00:00",
@@ -602,66 +674,6 @@
         {
           "name": "Medical Xpress",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSHh3SzFoZEpPQU5ObmxndVNzUl9JWU85d1p0Q3VrOEdSOFhsSDVDdFEwTlNaRTFpREI0OXlwbk1sU21iSzIwOVdyb20zVjctZU1JYVdrMk90b2wzRTVfWll0WDBhS2E5dUxTYVRYTWRpZ2Y3c01nVEpoYmVNVnI5MmtHSW51Sm5qSHR3R0J1MA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "173b21bc1353",
-      "title": "Rise in cancer in younger adults may be explained by faster 'biological aging,' early study hints - Live Science",
-      "published": "2026-06-28T12:00:00+00:00",
-      "summary": "Rise in cancer in younger adults may be explained by faster 'biological aging,' early study hints&nbsp;&nbsp;Live ScienceYounger people are ageing faster biologically, study finds&nbsp;&nbsp;Euronews.comBiological aging and generational shifts in early-onset cancer risk&nbsp;&nbsp;NatureYounger Adults May Be Aging Faster Than Previous Generations&nbsp;&nbsp;ScienceAlertFaster aging in younger generations linked to rise in early-onset cancer&nbsp;&nbsp;WashU Medicine",
-      "sources": [
-        {
-          "name": "Live Science",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZDNVNzlYZzQyYldmdUwtaFR2TWFtM0JCbFAyQ3JHckNPb0R2b0ZaN1VSQWhYend4bVdOcU4xSW5vMjZHZVA4TmtQc1djRk05RzhLM3JjVmNfWlAzUG5YM1Ffc3JVV0dGUDlyazdteGdINFgwdkx6WUo1Qjg0ckVGaXpsaERMRWpuZ2NyV0RoYkc3QjVHNWRLNXVnamFmMGx5Zlc1cVpPNVROblJLdlZRNGNrUEc2M1M0Skkta2JUY1BOZ2Jpa2JOdm0teWlrbHBVTkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8621441ece67",
-      "title": "Slow Breathing Can Rewire Your Brain and Change the Choices You Make - SciTechDaily",
-      "published": "2026-06-28T11:29:03+00:00",
-      "summary": "Slow Breathing Can Rewire Your Brain and Change the Choices You Make&nbsp;&nbsp;SciTechDaily",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaEYtQnJ3eGJ5emRNbDFVNlRvSjMzaFFnVWwzT19sWVV2N2dfZjAtLW1PZVNVNWRfeVNJNkRQalFoSmUtWUJudktFYm1XdFJtemZYUmNMMnM3dkdEQWdkWV9ZdTdBVXdEVzd4MXJHamFfaGdqQlFoTEFLUGxWeVVCOTRIaVp6SG5adTh4eld1Qy16dk1Rc3hoRllB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7050412bd64b",
-      "title": "Can 30 seconds of exercise actually make a difference? Here’s what experts say - San Francisco Chronicle",
-      "published": "2026-06-28T11:00:56+00:00",
-      "summary": "Can 30 seconds of exercise actually make a difference? Here’s what experts say&nbsp;&nbsp;San Francisco ChronicleStudy finds exercise 'snacks' may be just what you need, better than the gym&nbsp;&nbsp;standardmedia.co.keFit with just five minutes’ exercise a day? I don’t believe it | Devi Sridhar&nbsp;&nbsp;The GuardianAre 1-minute workouts creating a fitness myth? Why they’re not a shortcut to real health&nbsp;&nbsp;theweek.inNo gym required: the under-5-minute daily habit science links to a lo",
-      "sources": [
-        {
-          "name": "San Francisco Chronicle",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc0ttUzhfdHliclRTRXFOMVBiczRDY20zTm0zTW5LZ0MzTXl4Z01fblVDRGNoMzdybl9ZZTBMc0JpLUtzNzFaQjdnSTZ6UW91MWFPVTZpd3ZxamwzY0hWLWlNUkRJa0ZFWW1ZNmxOTjRvcWhIdklDRkFxUmY1SGtYNnpZNEJSblpzdEd2VkV1bkxCRmRGWlNTYjRBaTZDSDA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "810a8efe35a0",
-      "title": "Shingles vaccine may also offer protection against dementia, studies increasingly show - NBC News",
-      "published": "2026-06-28T10:30:41+00:00",
-      "summary": "Shingles vaccine may also offer protection against dementia, studies increasingly show&nbsp;&nbsp;NBC NewsFour easy ways to live longer&nbsp;&nbsp;vox.comShingles Vaccine Linked to 24% Lower Dementia Risk in Older Adults&nbsp;&nbsp;SciTechDailyA Shot Against Forgetting&nbsp;&nbsp;The Times of IsraelResearchers discover a possible link between the shingles vaccine and dementia prevention&nbsp;&nbsp;95.5 WSB",
-      "sources": [
-        {
-          "name": "NBC News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNallBSDBBcFk4S2I3VU5VN0xhQW5KVjBKZ2JwZWp5UnZCeTZrbjR0N0Z2Mm85SHlrU0VWa2c5QTZRMF8wN2loQzdqWXBZc2JXaEVIMHZCWXRCVkRHcWZielE3OEI4VlI3U3VaandONG1iYXRHWTlBQzRKeHF4WkpFSHkzYXZBalNneE0yQklPR2lQTEFGWjh1cHNaOHM0RV9SWnpDbmVWamthbkx5cUluSUJ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "da111d06c8fb",
-      "title": "What watching the sunset really does for your health - BBC",
-      "published": "2026-06-28T10:00:00+00:00",
-      "summary": "What watching the sunset really does for your health&nbsp;&nbsp;BBCMorning light exposure in the first hour after waking shapes cortisol and alertness for the hours that follow — and most people in modern built environments are not getting it&nbsp;&nbsp;Space DailyMorning Sunlight Is the Ultimate Wellness Amenity: Here’s How to Get More of It&nbsp;&nbsp;Mansion Global",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTHd1eDFwaDhfTjNHRzV0NzlnUW0td1NfOFk4X3lMcGZYQXkzOHlHa0N1TXg0TDNmLUIwYWxVVDAxT0I5Y1dkZWZqZDVPbktTTGlWYnVlLXFYTGlTbURLOEdCMFF0WXFTSnpBbGxGdVFoZVVxSUtNOElob2E5V0JjS2xEYVlKNTRNSUg5V1lkVXZiMzR1cS1Id2ZsTkxpbW8yWEtfaHE5Wm95ZUFSelljLW1zN0M?oc=5"
         }
       ]
     }

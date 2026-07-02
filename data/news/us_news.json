@@ -1,43 +1,91 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-07-02T09:17:06.093969+00:00",
+  "fetched_at": "2026-07-02T14:08:01.109754+00:00",
   "total_fetched": 140,
   "unique_count": 140,
-  "health_related_count": 65,
+  "health_related_count": 66,
   "news": [
     {
-      "id": "afd0913eed2f",
-      "title": "We Asked 4 Heart-Health Experts About the Best Way to Lower Blood Pressure—and They All Said the Same Thing - EatingWell",
-      "published": "2026-07-02T06:55:48+00:00",
-      "summary": "We Asked 4 Heart-Health Experts About the Best Way to Lower Blood Pressure—and They All Said the Same Thing&nbsp;&nbsp;EatingWell",
+      "id": "b9dcf5804055",
+      "title": "4 surprising (and evidence-based) health benefits of drinking coffee - The Washington Post",
+      "published": "2026-07-02T13:31:49+00:00",
+      "summary": "4 surprising (and evidence-based) health benefits of drinking coffee&nbsp;&nbsp;The Washington PostYour daily coffee intake may cut your risk for liver disease&nbsp;&nbsp;CNNCoffee Lovers and Their Livers Can Celebrate, Study Suggests&nbsp;&nbsp;MedPage TodayNew biological clues behind coffee's benefit to liver health&nbsp;&nbsp;Medical XpressSix ways drinking coffee is good for your health&nbsp;&nbsp;The Times",
       "sources": [
         {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNHE1LTVUYnFHVkdaQURQXzYtQmFYaHZVUUs2RjZTcTNjYk5Cb2hkY3NYcFpIQUxBejBnM0N5QzRZMDF1YWhiRHJUaWdFQ1BjNEgxNU91MS1hWjFLc0cyNXppVG9CUkNxdTRpdXo2aEw0ZFlfRVJocWl5X01PT3VEelRpRWNaRFBIZEdFUC1MZDQtQnBVWkJ2dw?oc=5"
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdnNCdDdPdmI1QXVTMjB3OUlEUGVDRHdheVVUYjc2SE0xVnVDbHc1WWlmMjd0WjBpeVo5UEFVQXlrc042UXBFMnR4UFBjUTJYcEdRd1FPN0pxQkgwUERTQ245bE5hN1RKaE5iQnlqQ2hxRjVSN1hQZnlsRHNhM2JvNHJjd19SYXIySU9wQmNoQVpTNlBxeU5r?oc=5"
         }
       ]
     },
     {
-      "id": "2bff95f2a290",
-      "title": "Boy dies from rabies after waking up to bat on his face - NewsNation",
-      "published": "2026-07-02T05:31:05+00:00",
-      "summary": "Boy dies from rabies after waking up to bat on his face&nbsp;&nbsp;NewsNationCanadian boy, 11, dies of rabies after waking to bat on his face&nbsp;&nbsp;BBCCanadian boy, 11, died from rabies after waking up with bat on his mouth&nbsp;&nbsp;CNNFatal rabies case underscores need for immediate preventive treatment&nbsp;&nbsp;News-MedicalRabies Death: Ontario Child Dies in First Locally Acquired Case Since 1967&nbsp;&nbsp;ScienceAlert",
+      "id": "360cbbaf87ab",
+      "title": "Cheap Daily Supplements May Boost Brain Functions in Older People - ScienceAlert",
+      "published": "2026-07-02T12:01:41+00:00",
+      "summary": "Cheap Daily Supplements May Boost Brain Functions in Older People&nbsp;&nbsp;ScienceAlert",
       "sources": [
         {
-          "name": "NewsNation",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51ZDVEX2dMcUdGMVVIUG5TN01BNUUxWG4wdEF6bjluRjlkaEN5VDBscnVxZnV3SXNabF91dTBBN1FkVDViaWNZLVh0WG5uT2JacXlQR2kzVDRudlVZZUlXN0VrelNDa0FRYzBNY2hTc9IBdEFVX3lxTE55ZnBfMzJZUWJ2NnRTWGpqZUtHYW5qUllJNkg5NTEtWGJNTHFiQ1ZpeHVUYjJaOFM2LWk2X2p4UlR3bHZORWt1MjZrekEtY042ZWNUOUU3eWFkUVRmdDZtQVFCZWdWR0F2MzM0MlY4R3VTbzAy?oc=5"
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNkpwcG5pRlpZOVhPbExDMUxFcExNUDBaV3hDcXI1U25LNGp6cUhQalpJa2xUeHp6dklYNUNnWmtLelpCZGlrWkkyVEFsT1hGSUhETHdlVUd2dTI1WG5weXZGQU01YUtoQmtIek9zUHkxUWEtdTR3dTFESDJRSHJ5dENwZkxoT21FT2RBTFVmU0t6NDhuaFhYVmp3?oc=5"
         }
       ]
     },
     {
-      "id": "a619ecd77d28",
-      "title": "A Philly woman knew something was wrong. It took 4 ER visits to find her cancer - WHYY",
-      "published": "2026-07-02T05:17:52+00:00",
-      "summary": "A Philly woman knew something was wrong. It took 4 ER visits to find her cancer&nbsp;&nbsp;WHYY",
+      "id": "db84beea41b4",
+      "title": "Parasitic illness cases are spiking: The symptoms to watch for, including ‘explosive’ diarrhea - FOX 8 News",
+      "published": "2026-07-02T11:30:13+00:00",
+      "summary": "Parasitic illness cases are spiking: The symptoms to watch for, including ‘explosive’ diarrhea&nbsp;&nbsp;FOX 8 News‘Explosive Diarrhea Parasite’ Is on the Rise in the US. These States Have the Most Cases, CDC Says&nbsp;&nbsp;TODAY.com'Large and growing' cyclopsoriasis outbreak hits 21 Michigan counties&nbsp;&nbsp;Detroit Free PressCDC seeks source of parasitic outbreak linked to ‘explosive’ diarrhea in multiple states&nbsp;&nbsp;The HillMichigan health officials warn of ‘large and growing outbr",
       "sources": [
         {
-          "name": "WHYY",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcE1ESlFHeEhYUjlucWQxdmUxTDV3aUduS1ZxRXRLNjhETHZ3b211SXQxbTNzMkJJSDY2aWNjRG9McUVReXZiUzBUaGd4dGdvT3FDaE1UWVZSMnNwVGQ0d0t1TnpOeVhQTW1YUXpLQ2ozdFB5REYwbkZSVDRudllBZmN3?oc=5"
+          "name": "FOX 8 News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNanJSMHBkZVFYVEpJZnN1NDk5d21uTUk1ZXRoWTMyMEQzTG90SjB4bFRhMTNpV3NtNDZjQXJSMEdBbzNrV0E5VVBwcTBDTFJzTV94ZU5YOHFUTVppZFlKanpWRmpEOTY5bzZRb1EzOEZrcy1PVTloUkJWSXRzUTJ6LVBZcDVIYmpOSjBTMFNPelVTRm82WktKR2J6dHFwS0dZZDBfRjBjMmQxZG9jZENlUW9JMNIBuAFBVV95cUxQdHVnaGw4WmFhcENqOGdYczFDY1VMMWktdkFHVWoxYjlMcW1EWm0wNXItX3EyM1ZTV0hmT1RIakRHeVI2bmpMLUJ3eWFKNm5KTkxveHBmRkNYdHNyQmU1ZldLUDdEWjBvSVJBWWNDczRxWkEwNnZYSlExdEx4NlB1LWpidnpkLVJpNVY2eUdnUlJsbUM2RHhGanEtUDRDM3JKWUllQmJnaTJtNjRabDRTSUQ2TGd4bjFC?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e8ff772fd544",
+      "title": "‘Super movers’ have half the risk of brain decline in old age — even if their brains show signs of dementia - New York Post",
+      "published": "2026-07-02T10:28:00+00:00",
+      "summary": "‘Super movers’ have half the risk of brain decline in old age — even if their brains show signs of dementia&nbsp;&nbsp;New York Post",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRktIaV8wTjREZmtmZzN3Zkx4c2wyRmVnLWZOMV9ONFk5M0JHd2tnVmx1S3FJZjNrOE4tTzdRUVBYcXZ2U0RrT3ZmUGZ3Nmt6bmVjNEtNN1ZsNXI3UzZJc0RTLU9TN1F3TWR1Zm1OM0dKTm1SZ2ZOMzBpTzNYd2dQU3U5YkZKZ3VmWGxNbzlxaXhBekxi?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8803d1f430a3",
+      "title": "Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak - The Guardian",
+      "published": "2026-07-02T09:00:00+00:00",
+      "summary": "Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak&nbsp;&nbsp;The GuardianThe Ebola Outbreak’s Central Mystery: Where Did This Virus Come From?&nbsp;&nbsp;The New York TimesWhat makes Ebola one of the world's deadliest viruses?&nbsp;&nbsp;ScienceNorway",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSS1mdnVBd1ZXdGk0dWNSSGtmWmwyOVlZM0ltclpEeDkxQURkNTdjRS1PeHE3Y3ZFUC16S3FiY0l5T1JjRkF2MGJxdGI5MlYzOXQzdjBicml1bnpLMzB3Z0dGTjRHbHRydWRvMXJ0OXdkSVh2cVo4TV84SWQ5MktiMGhadU9uRFR3eHdab0lJamM2cUlsZGx3bF9rZ0VlUHg4MWdsUy1GZkltaEpER3p4V0JkTVZ4dzVhR0xkUHZXYXFLZ1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6550896068c0",
+      "title": "Sudden craving of 3 foods 'could be early sign of dementia' - The Mirror",
+      "published": "2026-07-02T08:47:08+00:00",
+      "summary": "Sudden craving of 3 foods 'could be early sign of dementia'&nbsp;&nbsp;The Mirror",
+      "sources": [
+        {
+          "name": "The Mirror",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uRURQdmdBYVE0MUxhb1hxVkZWd3F1cHhhREwxSGhOXzh0cmZiRnV0a2hlWVR2ME40alhVb3ZINUtwZGsxbUlXTUk2bHlsSDZ4WlNoRE9pa1lJZVBFMXRpYmlwZnBVamFyb3NoMzRSNXFnVEhObzRiWWpYUklLUU3SAYQBQVVfeXFMT0JlZXF6TkMzWWRHNTA5Vzg2ZnBSWUkxLWJObHpkVVZicTRUUl9ma3VFUlpraHUzdGkyVERlcldKTnM4UzJNek1pWTV3bTlnOFA4WHFLN1VhNEc5ZklkcGtzY0NTbFZycGNaSjc5UlNXR0VMYnVpWFJSaWx0b2hFRU9FUERw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b19f98f1d850",
+      "title": "Statins helping people with obesity match those of healthy weight on key metrics, study finds - The Guardian",
+      "published": "2026-07-02T08:24:00+00:00",
+      "summary": "Statins helping people with obesity match those of healthy weight on key metrics, study finds&nbsp;&nbsp;The GuardianStatins ‘cut heart risk gap between obese and slim adults’&nbsp;&nbsp;The TimesStatins and blood pressure drugs changing health risks of obesity, study suggests&nbsp;&nbsp;STATObese over-40s have similar heart risk to those who are slim&nbsp;&nbsp;The TelegraphOlder Folks With Obesity Now Often Metabolically Similar to Those With Normal BMI&nbsp;&nbsp;MedPage Today",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2hBN0RKbWphV1NKeFpoYmI3dVU2d091dDlvLV9CT2xESERMR0c2ZTJyX1FsT3VSODhBYXBmcmRDU0hTYlAzZ2RKTWhCdFZPNGJwY0I2SkctUDdCMkkzSHFMejlVSEtOV19YNFFUZkVURHFfOGhmdTk5YV9zT0ZKemNWcjhWT3hQSUpjandlQW5QTVRLNFQyY2NEMXZEM2RCdXhQemQ2N3ozaXlFTW02Vm1MbTM?oc=5"
         }
       ]
     },
@@ -50,6 +98,18 @@
         {
           "name": "The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMng0ZkdjblJPV2tETlA0R2RUbWxtU0x5X3JGWVB2Q1VZcFNnY3BoaVRQUXQ4SHg4QXZsN3hWQnhPaHJJNnVjRTIwZDRwTjlRaTRkbTdzeW1xZ0tIdS1MNVdydl9iWEJVVzBUODFnMG92elQwNmNVbXJFN1lPUW16QWJQVlVBdkpPUUhtZldmOE14X09KekdPZTZFTTczQ29vUzhaelF5LWpZMU5hZVp0RVZJeEdPaU4wTkVTUE1uUS1VbUozaEdlXzlqMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ba6b45b0756c",
+      "title": "UK woman’s trip to India left her with ‘38 parasites in brain’: Lowri Denman shares story of her battle w - The Times of India",
+      "published": "2026-07-02T02:36:00+00:00",
+      "summary": "UK woman’s trip to India left her with ‘38 parasites in brain’: Lowri Denman shares story of her battle w&nbsp;&nbsp;The Times of IndiaA trip to India left me with 38 parasites in my brain&nbsp;&nbsp;BBCI came back from India with 38 brain parasites – here’s what happened next&nbsp;&nbsp;The Independent38 Parasites Found In UK Woman's Brain After Her Trip To India: What Is Neurocysticercosis?&nbsp;&nbsp;NDTVGot 38 parasites in brain after India visit, says UK woman. 3 facts and a question&nbsp;&",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNb2Y5ekJjQ2o1NE5Rcm5XNE5nU2hPejRUT1Z6ZlNkakNrbC1fX0FJQ2V0SHVkVUF0a3p3UkxQdE43Nk1ybk1NX1ZHVVRSYkZrLXRjOHRkYXZteXczektVR1h4aVBDcjBSTW9aaHRpZUZsNUl4dk1mdFM0Vi1aRHlkQUlhNWFNb0RYS29NSHNWczRsV0l4akZHUDhNNW5GWEgyMnFWN3BLb1JYLTFfM0VTSFZRVXRLQzlNOHdlNmprdEJ0WjBGRTBTbjFwNVlIRWF3bmtLTU1mRXJLY2YtU3puS1lWS1BiLS1TSG52b1RIcERlS2cwTjRpX3ZuZnhCLW9PR3JvdWwwSHI5YkR6LUlMS2JZNzRjSlBnVnZGdE5XVWE3Z2pTcTc3MNIBrgJBVV95cUxOdFRJUDJFR0FkaDVrRmVZTEQ3Sm9yRHVLaWxQTTNWZWtxblR4SHlxWlFTMEtwQl94QjdKaWFGbXJEajhPa1BERm9wN0Z6blNBeEh3NWxTWUtLRVNHeDVJSDhXZGpsQVE3VHVGdk9xcmtHODBvcTEyajdfc3h5TGkwdkM4NHZORGFBazkyX0tPYU5PM1k0VWNaaDhyTExFWVFtYW5jUkpHeHVqdEFPQjAwdVBUeDFYcU91a3ROVXJSZHpTcEpVNXpNRzNwNksxS0tjNV85N2pFN2xQOEFNWGxZVjVCTEZkRHltbm9BMTU5NldHbmgwaDBHelMyaGVNYzNtQTljS19kOEFyLWpqMURXZ1FaN3duOEI5bUN3MVFnYjZyajQta0NhVThMT240Zw?oc=5"
         }
       ]
     },
@@ -69,7 +129,7 @@
       "id": "b48caaeafe76",
       "title": "Identification of cross-stage, cross-species malaria CD8+ T cell antigens - Nature",
       "published": "2026-07-02T00:18:44+00:00",
-      "summary": "Identification of cross-stage, cross-species malaria CD8+ T cell antigens&nbsp;&nbsp;NatureStudy reveals path for universal vaccine against malaria&nbsp;&nbsp;OHSU News",
+      "summary": "Identification of cross-stage, cross-species malaria CD8+ T cell antigens&nbsp;&nbsp;NatureStudy reveals path for universal vaccine against malaria&nbsp;&nbsp;OHSU NewsCross-Stage, Cross-Species Malaria CD8+ T Cell Antigens Identified&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
           "name": "Nature",
@@ -105,7 +165,7 @@
       "id": "583a1cc5ebcb",
       "title": "Dual tumour–myeloid targeting of glioblastoma with GPNMB CAR-T cells - Nature",
       "published": "2026-07-01T23:01:17+00:00",
-      "summary": "Dual tumour–myeloid targeting of glioblastoma with GPNMB CAR-T cells&nbsp;&nbsp;NatureImmunotherapy Strategy Shows Promise for Deadly Brain Cancer&nbsp;&nbsp;Northwestern UniversityCytokine-armoured CAR T therapy shows promise against aggressive glioblastoma&nbsp;&nbsp;Labmate-OnlineMcMaster-Developed Immunotherapy Strategy Targets Aggressive Brain Tumours and Their Fuel | Newswise&nbsp;&nbsp;NewswiseCAR-T cell therapy shows potential to eliminate aggressive glioblastoma&nbsp;&nbsp;News-Medical",
+      "summary": "Dual tumour–myeloid targeting of glioblastoma with GPNMB CAR-T cells&nbsp;&nbsp;NatureDeadliest brain cancer could be treated with immunotherapy&nbsp;&nbsp;The TelegraphMcMaster-Developed Immunotherapy Strategy Targets Aggressive Brain Tumours and Their Fuel | Newswise&nbsp;&nbsp;NewswiseCytokine-armoured CAR T therapy shows promise against aggressive glioblastoma&nbsp;&nbsp;Labmate-OnlineCAR-T cell therapy shows potential to eliminate aggressive glioblastoma&nbsp;&nbsp;News-Medical",
       "sources": [
         {
           "name": "Nature",
@@ -114,10 +174,22 @@
       ]
     },
     {
+      "id": "f359e33f5b0d",
+      "title": "Hidden for decades, hospital superbug built resistance in waves, peaking in the mid‑2000s - Phys.org",
+      "published": "2026-07-01T23:00:03+00:00",
+      "summary": "Hidden for decades, hospital superbug built resistance in waves, peaking in the mid‑2000s&nbsp;&nbsp;Phys.org",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mT1dOYWpBcVdraXdLRjBvQlFhbHRCNmxoanQ3ZUhaQU5fTlBYaFNMOEl5OXpBaGJRWXVaYzFBNDI2RUdFNGllVk1jY083SC1KYXZONUQ0SFVuUS1rel9mNzN2T2pHRTRyYlZKVi1VOTZfNmFwOVlwU19Xek1tQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a8d206ddbac1",
       "title": "Steatosis shapes prognosis-defining liver metastasis heterogeneity in CRC - Nature",
       "published": "2026-07-01T22:49:04+00:00",
-      "summary": "Steatosis shapes prognosis-defining liver metastasis heterogeneity in CRC&nbsp;&nbsp;Nature",
+      "summary": "Steatosis shapes prognosis-defining liver metastasis heterogeneity in CRC&nbsp;&nbsp;NatureFatty liver drives a more dangerous form of colorectal cancer spread, study reveals&nbsp;&nbsp;Medical XpressSteatosis Drives Liver Metastasis Diversity in CRC&nbsp;&nbsp;Bioengineer.orgFatty Liver Accelerates Aggressive Cancer Metastasis&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
           "name": "Nature",
@@ -129,7 +201,7 @@
       "id": "4cb52da22b3f",
       "title": "What’s really in a hotdog? Nutrition experts explain - The Guardian",
       "published": "2026-07-01T20:56:00+00:00",
-      "summary": "What’s really in a hotdog? Nutrition experts explain&nbsp;&nbsp;The GuardianAmericans Are in the Dark About the Dangers of Hot Dogs, Survey Finds&nbsp;&nbsp;GizmodoFourth of July warning: 9 out of 10 Americans are unaware of hot dog health risks&nbsp;&nbsp;The Brighter Side of News",
+      "summary": "What’s really in a hotdog? Nutrition experts explain&nbsp;&nbsp;The GuardianAmericans Are in the Dark About the Dangers of Hot Dogs, Survey Finds&nbsp;&nbsp;GizmodoFourth of July warning: 9 out of 10 Americans are unaware of hot dog health risks&nbsp;&nbsp;The Brighter Side of NewsNew U.S. Poll: Almost 9 out of 10 Adults Don’t Know Risks of Eating Hot Dogs&nbsp;&nbsp;Physicians Committee for Responsible Medicine",
       "sources": [
         {
           "name": "The Guardian",
@@ -141,7 +213,7 @@
       "id": "7c69520d4332",
       "title": "Your guide to identifying some of the most common ticks found in the US - FOX Weather",
       "published": "2026-07-01T20:31:00+00:00",
-      "summary": "Your guide to identifying some of the most common ticks found in the US&nbsp;&nbsp;FOX WeatherTick Season is in Full Swing — Here’s What You Need to Know This Summer&nbsp;&nbsp;Barnstable County (.gov)Maryland Tick Season Is Here: How To Avoid Bites, Spot Lyme Disease And Know When To See A Doctor&nbsp;&nbsp;The BayNetDr. Amanda Ritvo’s tick talk on how to stay safe this summer&nbsp;&nbsp;ItemliveTicks are a growing problem, no matter where you live&nbsp;&nbsp;NCPR: North Country Public Radio",
+      "summary": "Your guide to identifying some of the most common ticks found in the US&nbsp;&nbsp;FOX WeatherMaryland Tick Season Is Here: How To Avoid Bites, Spot Lyme Disease And Know When To See A Doctor&nbsp;&nbsp;The BayNetTick Season is in Full Swing — Here’s What You Need to Know This Summer&nbsp;&nbsp;Barnstable County (.gov)Tick bite hospital visits spike as officials amplify alarms&nbsp;&nbsp;The Concord BridgeWorsening tick activity may be new normal, state officials say&nbsp;&nbsp;The Charlotte New",
       "sources": [
         {
           "name": "FOX Weather",
@@ -177,7 +249,7 @@
       "id": "06eb877e02e8",
       "title": "The link between hot weather and kidney stones - The Washington Post",
       "published": "2026-07-01T20:00:00+00:00",
-      "summary": "The link between hot weather and kidney stones&nbsp;&nbsp;The Washington PostWhy more young Indians have kidney stones this summer&nbsp;&nbsp;India TodayDoctor shares early signs of kidney stones that should not be ignored; lists risk factors and preventive measures&nbsp;&nbsp;Hindustan TimesKidney stone care available year-round&nbsp;&nbsp;KRCGWhy kidney stone cases rise sharply in summer & how to protect yourself&nbsp;&nbsp;The Sentinel - of this Land, for its People",
+      "summary": "The link between hot weather and kidney stones&nbsp;&nbsp;The Washington PostSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "The Washington Post",
@@ -198,38 +270,38 @@
       ]
     },
     {
-      "id": "c5c2239d5f51",
-      "title": "TESS just found a planet in a new way—and more may be hiding in its eight years of data - Phys.org",
-      "published": "2026-07-01T19:21:57+00:00",
-      "summary": "TESS just found a planet in a new way—and more may be hiding in its eight years of data&nbsp;&nbsp;Phys.orgNASA’s TESS Mission Finds Planetary System in New Way&nbsp;&nbsp;NASA Science (.gov)'8,000 candidate exoplanets': NASA's TESS is hiding mind-boggling space secrets in its 8-year data&nbsp;&nbsp;WIONTexas Tech physicist helps confirm distant ‘super Jupiter’ using NASA satellite in new way&nbsp;&nbsp;fox34.comTexas Tech Researcher Part of Team That Finds Planet in New Way&nbsp;&nbsp;Texas Tec",
+      "id": "6835e193d6f0",
+      "title": "‘The greatest cosmic movie ever made’: Historic telescope kicks off an unprecedented survey - CNN",
+      "published": "2026-07-01T19:29:28+00:00",
+      "summary": "‘The greatest cosmic movie ever made’: Historic telescope kicks off an unprecedented survey&nbsp;&nbsp;CNNLSST begins full operations with key contributions from Japanese researchers and engineers&nbsp;&nbsp;Phys.orgA giant telescope goes on a decade-long search for dark matter&nbsp;&nbsp;The Washington PostThe Vera Rubin Telescope Begins Surveying Our Cosmos&nbsp;&nbsp;The New York TimesOcean of Stars&nbsp;&nbsp;Rubin Observatory",
       "sources": [
         {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SeEw5SFdFRl93eXlxd3VWQ0s1QmVWY2lNVkxFTTNIZTQ5b254c1pXMk9hUDJuMjZYRE5YNkI2cjNibklSczZScE9OYVozNVJSTmpxanQ0cFZoeFhxOFFCSndR?oc=5"
+          "name": "CNN",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORHVoNG8zLV84QjBvYy0xUU1fY0h4ZTVsZjYzMFdBUzB0ZkM5YnhIZXp0NkJBel9ZNFEzcFgwRFFvQS02UlE5QTFwN3h6TVR4dHc0bDBjQ1MzZlNlaGp4NkpqcnVPYVd5U29QbFNrLWR5VmhyMGFTT0JIUnRhUnN4MDJzRUpTMUtwcTk5QU5n?oc=5"
         }
       ]
     },
     {
-      "id": "406bda91d730",
-      "title": "Creatine for Depression: Study Shows Promising Results for Symptoms - Healthline",
-      "published": "2026-07-01T19:18:27+00:00",
-      "summary": "Creatine for Depression: Study Shows Promising Results for Symptoms&nbsp;&nbsp;HealthlineScientists say creatine may help fight depression&nbsp;&nbsp;ScienceDailyNew Review Finds Creatine Shows Promise for Depression With Major Caveats&nbsp;&nbsp;ZME ScienceThis popular fitness supplement may help fight depression&nbsp;&nbsp;NewsweekCan creatine treat depression? Review reveals mixed findings&nbsp;&nbsp;Nutrition Insight",
+      "id": "acbb1e821ea8",
+      "title": "Heat wave warning: Common medications that can increase your risk of heat illness - ClickOnDetroit | WDIV Local 4",
+      "published": "2026-07-01T19:00:27+00:00",
+      "summary": "Heat wave warning: Common medications that can increase your risk of heat illness&nbsp;&nbsp;ClickOnDetroit | WDIV Local 4See more headlines & perspectives on Google News",
       "sources": [
         {
-          "name": "Healthline",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPelg5QmY2RXJXNUszd2RpQ1psM3NoV0Z1ZVJGZG5KU2VaQm0wU19pY3BQbDA5dnVlNjN6dDZkODdzdU1TMUhfNlBtQ2pSS3VKMTJ0RGQ2STRvdC1mSER4ZWxST0RQVjNrZTV0d0FLU1lzVDY4Z0JyWlUzY1ZRYmdiZDdPdTMzZWFXNzNYX09oUUtuV2d0?oc=5"
+          "name": "ClickOnDetroit | WDIV Local 4",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMFNHNVdaem4wQW1rRDYxVEdiVHBjZl9QMVNmRlZnNTdPMUVGWFVqSXZQcDFOeU03ampIcVYxRDZWdnF2cFk3VDdEeXlhaWdSQTU0X3QyTnFERmlPNTNla2JkaHItb1E1UW9Hc1Z5NHFZS205bTFqcjNMVEdaVXV2Mi04RExCbXJ4Z2FiNG9oNWtPU1dHQkc3ckI4MWpGZl80TXdVcWhXWW9fcmUwYjJST0xvd243Q3QwSlQ0Y0k3UnZPdnlXUnlxMzlvMjhFVkE?oc=5"
         }
       ]
     },
     {
-      "id": "4d8c9c45ed0c",
-      "title": "Are Weight-Loss Drugs Also Longevity Drugs? - The New York Times",
-      "published": "2026-07-01T18:23:00+00:00",
-      "summary": "Are Weight-Loss Drugs Also Longevity Drugs?&nbsp;&nbsp;The New York TimesGLP-1 drugs could slow down ageing in people with HIV, US study says&nbsp;&nbsp;ThePrintCan Ozempic Slow Down Aging? Scientists Identify Surprising New Benefits of Weight-Loss Drugs&nbsp;&nbsp;inc.comCan Ozempic-Like GLP-1 Drugs Slow Aging, Boost Longevity?&nbsp;&nbsp;Health and MeCould Weight Loss Drugs Also Be Longevity Drugs? Here's What New Research Found&nbsp;&nbsp;Yahoo Health",
+      "id": "427834c86b56",
+      "title": "A Brazilian researcher just found a 153-day route to Mars inside a file that asteroid trackers had already discarded as too rough to use, and it raises a reasonable question about what else is in the bin - Space Daily",
+      "published": "2026-07-01T19:00:17+00:00",
+      "summary": "A Brazilian researcher just found a 153-day route to Mars inside a file that asteroid trackers had already discarded as too rough to use, and it raises a reasonable question about what else is in the bin&nbsp;&nbsp;Space Daily",
       "sources": [
         {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11WDc1cHBRa3ptdTduS2o5X2tTeGdzMHpHbld1TUxNOFZDdXpvMnltYmwwMWFMU3dWVmpTbjRreDhXMGh4emhlODgxdlhyUHZFQnNlSDRyVzlPUXRGUXdwLTlPbUlpMVlVbnh0TjIyU3JBaHZWY0U5NmJJTU1nQQ?oc=5"
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNdDE3RHVta3NwNUl5ZkVuXzNRa21YNEhkcnhpRFpKTFFMdXNsT2ZaYWJjVnphLXdMZ255VUstNnJUcXFXMzRBVzhxemNENGFhN1daTDdKTnZtVURCYjQydW5EV3duRXd3VHVDRHZ0bGQyLXp5MWxCNFM5QUdYOVZkOE94aWxnX21yZ1BzUGIzV3doV2tfTU5TNy01eWlpcGgtRUhubEJwSHlaY3NuaC1kS3N2bm1sQ1gyRFVNaXBSNFlLV3JiZ09PdEtubDZDOTZpcHowNmZGbEZqT2F6SjBfMkM0WHdscjFpa1oyV1lubWhLa2dFQmdqRVJFcUVWcURFU2oxbmpyWjVBZ2xGOWxFMHNpQ2hyVTJVbHMzdUwtaGFFaTB5?oc=5"
         }
       ]
     },
@@ -237,7 +309,7 @@
       "id": "b43b93528866",
       "title": "‘World’s most contagious disease’ on track for highest US cases in 35 years — doc warns: ‘We are allowing it to spread’ - New York Post",
       "published": "2026-07-01T17:25:00+00:00",
-      "summary": "‘World’s most contagious disease’ on track for highest US cases in 35 years — doc warns: ‘We are allowing it to spread’&nbsp;&nbsp;New York PostMeasles Guidance for Gastroenterologists and Hepatologists&nbsp;&nbsp;Gastroenterology & Endoscopy News",
+      "summary": "‘World’s most contagious disease’ on track for highest US cases in 35 years — doc warns: ‘We are allowing it to spread’&nbsp;&nbsp;New York PostThe United States Could Officially Lose Its Measles-Free Status by November 2026&nbsp;&nbsp;Medical DailyMeasles Cases Surpass 2000 in 2026, Threatening US Elimination Status&nbsp;&nbsp;Drug TopicsExperts Say the U.S. Has Already Lost Measles Elimination in Substance, if Not Yet on Paper&nbsp;&nbsp;Medical Daily",
       "sources": [
         {
           "name": "New York Post",
@@ -246,38 +318,26 @@
       ]
     },
     {
-      "id": "01bc6bca7e2a",
-      "title": "Uganda finds isolated Marburg virus case, Africa CDC says - Reuters",
-      "published": "2026-07-01T17:11:16+00:00",
-      "summary": "Uganda finds isolated Marburg virus case, Africa CDC says&nbsp;&nbsp;ReutersSuspected Marburg outbreak in Uganda prompts US alert&nbsp;&nbsp;The TelegraphEbola deaths in Africa top 400 as Uganda reports death of child from Marburg&nbsp;&nbsp;CIDRAPIsolated Marburg Virus Case Confirmed in Uganda&nbsp;&nbsp;DevdiscourseUganda Reports Child Death From Marburg Virus Disease: How to Prevent Infection&nbsp;&nbsp;Health and Me",
+      "id": "2357690b6bd9",
+      "title": "Planned 1.7 million satellites 'devastating' for astronomy, study says - Euronews",
+      "published": "2026-07-01T16:42:33+00:00",
+      "summary": "Planned 1.7 million satellites 'devastating' for astronomy, study says&nbsp;&nbsp;EuronewsThe growing number of satellites in orbit could soon make telescopes obsolete. 'For astronomy, this would obviously be catastrophic'&nbsp;&nbsp;Space\"Beyond the limit\": one million satellites and mirrors in space pose grave threat to the night sky&nbsp;&nbsp;ESO.org“Basically, It Kills The Telescopes” - Satellite Proposals Could Spell Doom For Astronomy And The Night Sky&nbsp;&nbsp;IFLScienceAstronomers Den",
       "sources": [
         {
-          "name": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYnE5dWdkeVJ4b3FqWC1jdG1UYXl6NTFfaUtLWDlwNFJjU2hvUHpKWFpkd0UyQXVObkttRndNVGpSbG5QaDVMUU9SdUI0amplZ1JzMGZ4QzV2WEJjeGFaVzdJMk56NU0tY191RVBQVENBRk1ZakJvb0FXX1BtZlZVOGt1VmRyLUIwaUVWalZvU01ORFJLakY4QlJZeFUxMm1ibWF1VUVub3BnVTdtZ01Ha3ZlYXpfd0lfdDRkTFoyVk5KdmtQV1JLcUk4NlJrTmw0WFE?oc=5"
+          "name": "Euronews",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUF9HUE9oRTExQmVidjNQQ1lkdjdKTEFIdV92dTRWSkJWY0ZDNG1PaUFONHRPczFjSEJrdWNGRU5TODY3dXJBbTUydFd0Q19kUXJSckt5NFVGMG5FUWVrZUJGb1BKSENLVjl1YXR5WGVhTnAtMjBHajYwaUNrSW5nZjdZTGY1TEp4UDVMMnduc2w1akJmdTVxeGpNblhiMFF3LVRTODZrN1dhekQtR3lzdEQ5UWJPbDN6S1lzdQ?oc=5"
         }
       ]
     },
     {
-      "id": "3018037a0e0e",
-      "title": "The growing number of satellites in orbit could soon make telescopes obsolete. 'For astronomy, this would obviously be catastrophic' - Space",
-      "published": "2026-07-01T16:56:49+00:00",
-      "summary": "The growing number of satellites in orbit could soon make telescopes obsolete. 'For astronomy, this would obviously be catastrophic'&nbsp;&nbsp;Space\"Beyond the limit\": one million satellites and mirrors in space pose grave threat to the night sky&nbsp;&nbsp;ESO.orgPlanned 1.7 million satellites 'devastating' for astronomy, study says&nbsp;&nbsp;Euronews10,00,000 satellites in space: Scientists warn how it could change the night sky&nbsp;&nbsp;India Today“Basically, It Kills The Telescopes” - Sa",
+      "id": "86d4d84b1e0f",
+      "title": "The complex truth about trust in science - Nature",
+      "published": "2026-07-01T16:41:43+00:00",
+      "summary": "The complex truth about trust in science&nbsp;&nbsp;NatureDistrust In Science Isn’t New—We Mistook Silence For Trust&nbsp;&nbsp;ForbesUS Republican Supporters Erode Trust in Science Amid Political Polarization&nbsp;&nbsp;동아사이언스From Congo to America, familiar distrust in public health | Opinion&nbsp;&nbsp;Sun SentinelFrom Linchpin to Lever — Part 1: Measuring Trust in Public Health&nbsp;&nbsp;Kansas Health Institute",
       "sources": [
         {
-          "name": "Space",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUWJVd3hrYUtyaHFSNkVjMXhJb1JsUTFoRGFFX0M2UUpudGsxZzVJcUQ2UDIxejc2dnNLZ0VRRldmWTFzSGpSOE9LaEtoaUQ3a2dKRDVpbTZpcGZFb0NiYkNvRndmUzhZeURvQndSWVVtVFJKbHdnY1RWYVBjelA0SjU5TGpHUVlQYXlkSXFXOU8wTkt3SlY2Uk5NYUEwMFkyY3BRSnZuQ05DYUhJejBxVlZFTW5VNmpfQlVyY093ai1HQzF2V3dMOEVBZFp6UEh1ZWd4T21rSGFhU0FyakhNTnJYamN2R1ZjbFM2TWRBaWszdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "110e5779c697",
-      "title": "What Happens to Acid Reflux When You Take Probiotics? - Verywell Health",
-      "published": "2026-07-01T16:08:58+00:00",
-      "summary": "What Happens to Acid Reflux When You Take Probiotics?&nbsp;&nbsp;Verywell Health",
-      "sources": [
-        {
-          "name": "Verywell Health",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12WWhpQVZVV09KZG1hbWxPTmtrRmZqVHF0VGs2ZURuNTYtWnZQNFlsaXgzc3BPMnZMUWxIQWRkRTJmTlVCNXRLWG9iamQ2RUcwWDAzMGVzWHF1YmVYUnp3Q2MyZDlwRExCNHFnUUhEaUp3cGlUZjM1dmZfWQ?oc=5"
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XUHZjQjRpR3RzdTBDQWhiN0VlWGZPVzRZVUU1QjN0ajJDSWV1UHkwZjY4dEoyQTZIVWJzS1VKOVFLTGU3S0daaHVoZWNxYmFlQUlkRTI3eURkTlNaTlc4?oc=5"
         }
       ]
     },
@@ -294,22 +354,10 @@
       ]
     },
     {
-      "id": "a7226259f5de",
-      "title": "Six ways to put the public at the heart of science and policy - Nature",
-      "published": "2026-07-01T15:57:39+00:00",
-      "summary": "Six ways to put the public at the heart of science and policy&nbsp;&nbsp;NatureDistrust In Science Isn’t New—We Mistook Silence For Trust&nbsp;&nbsp;ForbesUS Republican Supporters Erode Trust in Science Amid Political Polarization&nbsp;&nbsp;동아사이언스From Congo to America, familiar distrust in public health | Opinion&nbsp;&nbsp;Sun SentinelFrom Linchpin to Lever — Part 1: Measuring Trust in Public Health&nbsp;&nbsp;Kansas Health Institute",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAybjJaTFFOeU9Bak0zZWFEVWFZVnpQM1hNNWpfYWl3amNzaHlNcmhlYjl6TDB5eVNFRzNOTmVvMXl3SXVyZERLYnBUc05lbEE1dUVPV3RqY2tmXy14X1ZB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c6bfa586cfbd",
       "title": "Scientists Discover How Alzheimer’s May Spread in Brain—And Way to Slow It - Newsweek",
       "published": "2026-07-01T15:46:00+00:00",
-      "summary": "Scientists Discover How Alzheimer’s May Spread in Brain—And Way to Slow It&nbsp;&nbsp;NewsweekScientists may have finally found how Alzheimer's spreads through the brain&nbsp;&nbsp;ScienceDailyHow A Rogue Tau Protein Drives Destruction — and How it Might be Stopped&nbsp;&nbsp;HHMIArc Protein May Help Toxic Tau Move Across Brain Cells&nbsp;&nbsp;Technology NetworksBrain Messenger Protein May Help Tau Spread in Alzheimer’s Disease&nbsp;&nbsp;Inside Precision Medicine",
+      "summary": "Scientists Discover How Alzheimer’s May Spread in Brain—And Way to Slow It&nbsp;&nbsp;NewsweekScientists may have finally found how Alzheimer's spreads through the brain&nbsp;&nbsp;ScienceDailyHow A Rogue Tau Protein Drives Destruction — and How it Might be Stopped&nbsp;&nbsp;HHMITau uncovered: Alzheimer’s diagnosis and treatment&nbsp;&nbsp;Scientist LiveArc Protein May Help Toxic Tau Move Across Brain Cells&nbsp;&nbsp;Technology Networks",
       "sources": [
         {
           "name": "Newsweek",
@@ -318,10 +366,22 @@
       ]
     },
     {
+      "id": "56cb18567054",
+      "title": "Paper mill cancer studies get double the number of citations as genuine papers - Nature",
+      "published": "2026-07-01T15:43:53+00:00",
+      "summary": "Paper mill cancer studies get double the number of citations as genuine papers&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nMFlIcnlHeHgwUGVZV1RsTTJzQk5LNFZFNTR2Rk5uQjJwcWE5MzhIanJGZERlWUtGeEladmxEOFR1bnRQRWFtS2ZxZGRhc19fWHBkZWdhWHZYR1UzdDlr?oc=5"
+        }
+      ]
+    },
+    {
       "id": "58f2404ff289",
       "title": "6-year-old girl bitten by rabid bat while playing outside her Wisconsin home, family says - NBC News",
       "published": "2026-07-01T15:17:00+00:00",
-      "summary": "6-year-old girl bitten by rabid bat while playing outside her Wisconsin home, family says&nbsp;&nbsp;NBC News6-year-old Shawano County girl bit by bat with rabies, getting vaccine&nbsp;&nbsp;Milwaukee Journal Sentinel6-Year-Old Girl Bitten by Rabid Bat While Climbing Tree Outside Her Family’s Wisconsin Home&nbsp;&nbsp;People.comBenton County reports first rabies case of the year in infected bat&nbsp;&nbsp;OregonLive.comFamily says 6-year-old bitten by rabid bat outside Wisconsin home&nbsp;&nbsp;",
+      "summary": "6-year-old girl bitten by rabid bat while playing outside her Wisconsin home, family says&nbsp;&nbsp;NBC News6-year-old Shawano County girl bit by bat with rabies, getting vaccine&nbsp;&nbsp;Milwaukee Journal SentinelBenton County reports first rabies case of the year in infected bat&nbsp;&nbsp;OregonLive.comFamily says 6-year-old bitten by rabid bat outside Wisconsin home&nbsp;&nbsp;USA TodayCache County bat tests positive for rabies&nbsp;&nbsp;Cache Valley Daily",
       "sources": [
         {
           "name": "NBC News",
@@ -330,14 +390,26 @@
       ]
     },
     {
-      "id": "de1c6955f921",
-      "title": "Your daily coffee intake may cut your risk for liver disease - CNN",
-      "published": "2026-07-01T15:01:49+00:00",
-      "summary": "Your daily coffee intake may cut your risk for liver disease&nbsp;&nbsp;CNNSix ways drinking coffee is good for your health&nbsp;&nbsp;The TimesWanna help your liver out? Keep drinking coffee, seriously&nbsp;&nbsp;The IndependentCoffee Lovers and Their Livers Can Celebrate, Study Suggests&nbsp;&nbsp;MedPage Today4 surprising (and evidence-based) health benefits of drinking coffee&nbsp;&nbsp;The Washington Post",
+      "id": "be2c27a9d50c",
+      "title": "Scientists can now study the event horizons of black holes - The Economist",
+      "published": "2026-07-01T14:12:22+00:00",
+      "summary": "Scientists can now study the event horizons of black holes&nbsp;&nbsp;The EconomistGW250114 reveals signatures of post-merger black-hole horizon&nbsp;&nbsp;NatureIn January 2025, the loudest gravitational wave ever recorded hid a second signal nobody knew how to read — and a decade after the first detection, it has just given physicists the spin rate of a black hole's event horizon&nbsp;&nbsp;Space DailyListening to the One Place That Swallows Everything&nbsp;&nbsp;Universe Today“Almost Impossib",
       "sources": [
         {
-          "name": "CNN",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ3pCM2xaZWlJS3hsZnZHUjZ0VVlRbXR6UHZiWlIyZHd3UE5UV2RNSlVjTVloOGFfR2ZZeFNYdWtKWjVlTW9FbWwwQmliVzNKQVFOUFBLOTRPVlVqWXRMY2lNWDM4em4wSHdsQTRqanhPLWJvZnd1dEJacWZTQjk3SDRtakpOWEZaamdz?oc=5"
+          "name": "The Economist",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV2FiTDFEVU15TkRpa29GZXVwZjFwUEZxeldkYkJVb2Y0Qno4d25nQkg0VWJ2T2xhNXZrT1VmczB0b3NGbnhPUjMyTDl1aldrRmp3c1Q1SFU4Q3Jsdl94S1d6SnJleDZKa1Z6QkhKVUZzUnBiX2tYdWt4RmtLNjhKaUZRanRXWTQzVm9tNE9tOFRpeUFLcG9DX2ttYlFzZWxncXhjZVlUZVRIcDk2OUtNM09BVV9EdjVtOWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "90b8043090fe",
+      "title": "400-year-old painting reveals a bat's secret diet - Phys.org",
+      "published": "2026-07-01T14:00:04+00:00",
+      "summary": "400-year-old painting reveals a bat's secret diet&nbsp;&nbsp;Phys.orgA 400-Year-Old Painting Caught Bats Eating Birds Before Science Did&nbsp;&nbsp;ScienceAlertA discovery about this bat’s diet was hiding in a Renaissance painting&nbsp;&nbsp;Science NewsEvidence of Recently Discovered Bat Behavior Found Hiding in Plain Sight in Renaissance Painting&nbsp;&nbsp;Nautilus | ScienceScientists solved a bat mystery hidden in a Renaissance Painting&nbsp;&nbsp;Tech Explorist",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vODhoTXNUUzhlU0VSbzV3TGljNEZXU0hzdU5HRmN0X2NUMUdQZ0l0em5GSVlMcXJWek42Ynotb1hoc0ZYMF9rRFBhMDlxa3V3RmY2aWdlMDBSSlRYaE4yeHo1RUdWVV9XaVJN?oc=5"
         }
       ]
     },
@@ -362,6 +434,18 @@
         {
           "name": "Live Science",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcVAwQXJ6Ym1QZk9VMHBDZHNUaE9ldFRyazQ0MWMwbXAwRnJZRjYyQWJxV2gxaXRWeldsNkxIY1lLY1gxOWNicHRFblpBbGVaMzBkQ0xMcGF0bGp2VXJVejNYWGR2U1p2cVpydzBsalVaYVgzTEtuLXY4bC1EZmhXeHcxQmlSTWJmNnZDM0VROHVTeDVaaUdNOUZTd2puWW9CMFp6QTZB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ae102200fe31",
+      "title": "What made trees possible? New research points to drought - Phys.org",
+      "published": "2026-07-01T13:20:03+00:00",
+      "summary": "What made trees possible? New research points to drought&nbsp;&nbsp;Phys.org",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xWEp0OUZydjh3LVJWWW5mRV9JRmU0ZkVhdG1fYXBmZXZ6UzJMX1RQdGFjcW9JZ0xWVlIyNExRbHBGR0dNbWdwOUVjR2I4bUJXcFVxZFNKaHcyUml6?oc=5"
         }
       ]
     },
@@ -402,14 +486,14 @@
       ]
     },
     {
-      "id": "a04163427e6e",
-      "title": "Peptide hype is at an all-time high – I found out the truth - The Independent",
-      "published": "2026-07-01T11:42:00+00:00",
-      "summary": "Peptide hype is at an all-time high – I found out the truth&nbsp;&nbsp;The IndependentThe hidden risks of grey-market peptides – why women face greater danger&nbsp;&nbsp;The ConversationPeptides are everywhere in health and beauty, but does the science actually back up the claims?&nbsp;&nbsp;Scripps NewsFrom GLP-1s to Insulin: What to Know About Peptides&nbsp;&nbsp;NewYork-Presbyterian50% of peptide users are taking compounds not approved for human use. Most don't know it&nbsp;&nbsp;cbs19news.co",
+      "id": "9b4946eff0c6",
+      "title": "Doctors warn swimmers about risk of flesh-eating bacteria in Houston-area beaches, lakes, and ponds - Click2Houston",
+      "published": "2026-07-01T11:31:20+00:00",
+      "summary": "Doctors warn swimmers about risk of flesh-eating bacteria in Houston-area beaches, lakes, and ponds&nbsp;&nbsp;Click2HoustonNew disease threats follow Trump administration's health program cuts&nbsp;&nbsp;CBS NewsBeachgoers warned of flesh-eating bacteria ahead of July 4&nbsp;&nbsp;KHON2Mobile County health officials warn of bacteria in coastal waters ahead of the holiday&nbsp;&nbsp;WKRGSouth MS man fighting for his life after swimming, fishing in Coast waterways&nbsp;&nbsp;Sun Herald",
       "sources": [
         {
-          "name": "The Independent",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU04tRVFKY0gxQ1h5UGtFc0RubUVmM2NpTkRaNGdUNDZlZG8tdTZEWUVxYWJoczJ1OGVZdklucGxRZjZBUzl3a2NLUFlPR01qbXFneUxmMEJUckR2UU5McTdTaGZveGxoWXRSSjV4U1AtMlZkUHltek9ndFZXcHNrMEJqdUFOTVl1WjZ0Mi1JTUlMMmppWGw2M0ZQV0pqTEhVd2NGQjRIdjAzTktxa2M0ZkFRZ052cjZRNDlF?oc=5"
+          "name": "Click2Houston",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWWlJU0hQd3ZrSUNMbUs2YXIwZlBKVzV1blRLM1ZZbkZuaWlfdnhuamFUd0ZUTVpvVkNGWTZONEg3MkVHR0YtdnBGNVo5WWNBdV82V19Wek01S2tyb3NYUkNuQk01cHcxM1JJdkczcnJUMjVVSE10ZUN4UE9GVlNfNWFzcEtzS0M0N2daWHlVel9TOEJ2WEplMkJxN241a0JWQWF6a0xTaVF6WjBFNGE0TkNWVExFOUVZSUFaSl95RDJVRVFFT3liUHh4SjVnWklTWEc4TzFnSVBEUVJGa0FSWVBaRWI?oc=5"
         }
       ]
     },
@@ -417,7 +501,7 @@
       "id": "534868c9d2bc",
       "title": "Scientists find no link between Tylenol and autism, again, after Trump warning - Ars Technica",
       "published": "2026-07-01T11:01:38+00:00",
-      "summary": "Scientists find no link between Tylenol and autism, again, after Trump warning&nbsp;&nbsp;Ars TechnicaAcetaminophen in pregnancy shows no link to autism or ADHD, again&nbsp;&nbsp;Science NewsShould pregnant women worry about taking Tylenol? 20-year sibling-matched study finds no link to autism or ADHD&nbsp;&nbsp;Medical XpressStudy Suggests No Link Between Prenatal Tylenol and Risks for Autism, ADHD&nbsp;&nbsp;MedPage TodayAcetaminophen Cleared of Autism and ADHD Pregnancy Risks&nbsp;&nbsp;Neuro",
+      "summary": "Scientists find no link between Tylenol and autism, again, after Trump warning&nbsp;&nbsp;Ars TechnicaShould pregnant women worry about taking Tylenol? 20-year sibling-matched study finds no link to autism or ADHD&nbsp;&nbsp;Medical XpressAcetaminophen in pregnancy shows no link to autism or ADHD, again&nbsp;&nbsp;Science NewsStudy Suggests No Link Between Prenatal Tylenol and Risks for Autism, ADHD&nbsp;&nbsp;MedPage TodayAcetaminophen Cleared of Autism and ADHD Pregnancy Risks&nbsp;&nbsp;Neuro",
       "sources": [
         {
           "name": "Ars Technica",
@@ -429,7 +513,7 @@
       "id": "e7d1091233cf",
       "title": "Largest and Most Detailed Picture Taken of Milky Way's Center–With Millions of Stars and Thousands of Worlds - Good News Network",
       "published": "2026-07-01T11:00:23+00:00",
-      "summary": "Largest and Most Detailed Picture Taken of Milky Way's Center–With Millions of Stars and Thousands of Worlds&nbsp;&nbsp;Good News NetworkEuclid’s view of our galaxy’s bulge&nbsp;&nbsp;European Space AgencyThis Is the Most Detailed Image Yet of the Milky Way’s Center&nbsp;&nbsp;WIREDScan More than 60 Million Stars in the Most Detailed Photo of the Milky Way Ever Taken&nbsp;&nbsp;thisiscolossal.comTelescope captures most detailed image yet of Milky Way's heart: \"Cosmic magnifying glass\"&nbsp;&nbsp",
+      "summary": "Largest and Most Detailed Picture Taken of Milky Way's Center–With Millions of Stars and Thousands of Worlds&nbsp;&nbsp;Good News NetworkEuclid’s view of our galaxy’s bulge&nbsp;&nbsp;European Space AgencyEuclid Sees Heart of Milky Way&nbsp;&nbsp;NASA (.gov)Scan More than 60 Million Stars in the Most Detailed Photo of the Milky Way Ever Taken&nbsp;&nbsp;thisiscolossal.comThis Is the Most Detailed Image Yet of the Milky Way’s Center&nbsp;&nbsp;WIRED",
       "sources": [
         {
           "name": "Good News Network",
@@ -438,10 +522,22 @@
       ]
     },
     {
+      "id": "de3e5e87aa60",
+      "title": "These five simple exercises could lower your risk of a heart attack - AOL.com",
+      "published": "2026-07-01T10:39:08+00:00",
+      "summary": "These five simple exercises could lower your risk of a heart attack&nbsp;&nbsp;AOL.comThe chest and back exercises to help reduce heart attack risk&nbsp;&nbsp;The TelegraphI’m a personal trainer. These five exercises could reduce your risk of a heart attack&nbsp;&nbsp;The IndependentPeople with strong chest and back less likely to have a heart attack, analysis suggests&nbsp;&nbsp;The GuardianMoobs linked to ‘58% higher risk of heart attack in 10 years’ in ‘fascinating’ study&nbsp;&nbsp;The Sun",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZk42SDVDWlNUaFZteGZ6LVc4WE5UVFJwS19Wa3pYWVdNd3dwRlFqQWtoT003YzZnS0xlcTBfcVcyQWJ2c1owSlV6MkQ0NnRDSk11dXptZEY3cDlnOXAzaFFqeTlRVXIyV2J6OEE3ZjdVa0t4V2t2dmtfalZaUEFWaWVuaw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4dd288e4588e",
       "title": "Tips and tools for navigating hearing loss - Psyche",
       "published": "2026-07-01T10:00:00+00:00",
-      "summary": "Tips and tools for navigating hearing loss&nbsp;&nbsp;PsycheHearing loss: How and why it breaks down the ability to communicate&nbsp;&nbsp;Telegraph IndiaProtect your hearing. Protect your brain.&nbsp;&nbsp;TRICARE Newsroom (.mil)Why hearing loss is emerging as one of the most preventable warning signals of future dementia risk&nbsp;&nbsp;Miami HeraldDr. Kadie Nausha Shares Expert Advice on Hearing Health and Common Ear Conditions&nbsp;&nbsp;Palm Springs Life",
+      "summary": "Tips and tools for navigating hearing loss&nbsp;&nbsp;PsycheResearch uncovered a surprising health factor that increases dementia risk, and you can prevent it&nbsp;&nbsp;Fort Worth Star-TelegramHearing loss: How and why it breaks down the ability to communicate&nbsp;&nbsp;Telegraph IndiaDr. Kadie Nausha Shares Expert Advice on Hearing Health and Common Ear Conditions&nbsp;&nbsp;Palm Springs LifeOhio Seniors Are Overlooking the Health Risks of Hearing Loss&nbsp;&nbsp;The Herald Journal",
       "sources": [
         {
           "name": "Psyche",
@@ -450,38 +546,38 @@
       ]
     },
     {
-      "id": "71a7ebf4b543",
-      "title": "Weak hands and blurry vision: Is your tech giving you 'phone body'? - BBC",
-      "published": "2026-07-01T10:00:00+00:00",
-      "summary": "Weak hands and blurry vision: Is your tech giving you 'phone body'?&nbsp;&nbsp;BBCThe 'tech neck' time bomb: why 43 million young Americans could cripple U.S. health care within a generation&nbsp;&nbsp;Fortune",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWGN0TC1wLW5aRHhyUl9OZkJaaG1tcVJtV05oNlYwNHFWc3l0OVVoRlBlSmFfdTdXZnl0cTRRd3Z6dHI2clcyRG1NcEpKYktpV0tBYVR2VTdKZWlIMUgxSDNZNDhxZngxdDBKUkM0MUFXSXQ0NXB5cXg4Z2pSS0Jyb0xsd2E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f20fe9ee835c",
-      "title": "New disease threats follow Trump administration's health program cuts - CBS News",
+      "id": "6746c1c99127",
+      "title": "Sweating has some health benefits – but detoxing isn't the main one - USA Today",
       "published": "2026-07-01T09:00:00+00:00",
-      "summary": "New disease threats follow Trump administration's health program cuts&nbsp;&nbsp;CBS News",
+      "summary": "Sweating has some health benefits – but detoxing isn't the main one&nbsp;&nbsp;USA Today",
       "sources": [
         {
-          "name": "CBS News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTEt6TnpCV1ZGczFpb21vTXdMTXBrMzUxZ19uUVlScmFtRVJQVGxPN3FkZ1otZkJzT3BTZm92X0FTMGt3ZUtnWHpYRUw3Zkd1ck44VFBmU1lBQndFM0oxY1psQzRJMkhpZHg0eVhkTHI4a0JzZHdKUUVac0RCa1RzYXpvVjI1Z2JDNU5tWkRRYw?oc=5"
+          "name": "USA Today",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOElnNExqTE5NUFFpTkFxMHItVWhtREdJX1JHYVU2eDZtcWhLSTRRWVowbWZiYUxIakpULUZBRkRDd1czbnNjdVFqdWtjVTJqNTJhMlpZM3B6OWJldy1lazR5Unh3UzVKS2g2THBWTldYOTBidUFUR21URms5Q1FEMXFCZGJiNVhnWU5wYnZsa0VOeWFaV3lVRUdKaEdDTzF5MHc?oc=5"
         }
       ]
     },
     {
-      "id": "930986b0f194",
-      "title": "A trip to India left me with 38 parasites in my brain - BBC",
-      "published": "2026-07-01T08:40:45+00:00",
-      "summary": "A trip to India left me with 38 parasites in my brain&nbsp;&nbsp;BBCI came back from India with 38 brain parasites – here’s what happened next&nbsp;&nbsp;The IndependentUK woman’s trip to India left her with ‘38 parasites in brain’: Lowri Denman shares story of her battle with neurocysticercosis&nbsp;&nbsp;The Times of IndiaWoman left with 38 brain parasites years after foreign trip and passing massive tapeworm&nbsp;&nbsp;Daily Star38 parasites found in a British woman’s brain after years of no ",
+      "id": "dc38ec20429a",
+      "title": "Women with irregular periods should be checked for PMOS, NHS says - The Guardian",
+      "published": "2026-07-01T08:36:00+00:00",
+      "summary": "Women with irregular periods should be checked for PMOS, NHS says&nbsp;&nbsp;The GuardianWomen with PMOS should have yearly NHS checks, says health watchdog&nbsp;&nbsp;BBCLakeway endocrinologist says PCOS rename to PMOS could improve patient care&nbsp;&nbsp;Community ImpactNew draft PMOS guideline recommends annual review and could mean quicker diagnosis&nbsp;&nbsp;Wired-GovNICE issues first UK guidance for PMOS treatment&nbsp;&nbsp;The Pharmaceutical Journal",
       "sources": [
         {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55UHZoZFh4OExueUoxcEJuZ1hXdDhuYTlJcVd2R3VzMEo1TnlLQmhSVTk5VUNIeVRvVXFMMEstZDR2Z0Zfb2VEcFNPWTdJMFZYTXNFTmp5ay1Xdw?oc=5"
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdVE2bUd6c0FKSmVFVmMzNHRNaG1SUHZoWUN5VHV2UWgyX1FEZmNscmd6YW55emJUd1J6TTVKQ2o2TWV4SnJRR3hpVDFHdFB0V294YXY5V3o3NXBVWmh2ME15SUNMSzBUVDFyNUhmV2lFOXRKUlBBR01odkExXzVrbVN0QWs0SXNNWklta1FmMW1MYTRKd2NJYXZiZUNhSjJMbElzUlBUaG84dWJqTjlOdElR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4d8c9c45ed0c",
+      "title": "Are Weight-Loss Drugs Also Longevity Drugs? - The New York Times",
+      "published": "2026-07-01T07:00:00+00:00",
+      "summary": "Are Weight-Loss Drugs Also Longevity Drugs?&nbsp;&nbsp;The New York TimesGLP-1 drugs could slow down ageing in people with HIV, US study says&nbsp;&nbsp;ThePrintCan Ozempic Slow Down Aging? Scientists Identify Surprising New Benefits of Weight-Loss Drugs&nbsp;&nbsp;inc.comCan Ozempic-Like GLP-1 Drugs Slow Aging, Boost Longevity?&nbsp;&nbsp;Health and MeCould Weight Loss Drugs Also Be Longevity Drugs? Here's What New Research Found&nbsp;&nbsp;Yahoo Health",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11WDc1cHBRa3ptdTduS2o5X2tTeGdzMHpHbld1TUxNOFZDdXpvMnltYmwwMWFMU3dWVmpTbjRreDhXMGh4emhlODgxdlhyUHZFQnNlSDRyVzlPUXRGUXdwLTlPbUlpMVlVbnh0TjIyU3JBaHZWY0U5NmJJTU1nQQ?oc=5"
         }
       ]
     },
@@ -489,11 +585,23 @@
       "id": "3208defc2345",
       "title": "Scientists discover a surprising link between vitamin C and brain health - ScienceDaily",
       "published": "2026-07-01T05:24:28+00:00",
-      "summary": "Scientists discover a surprising link between vitamin C and brain health&nbsp;&nbsp;ScienceDailyHigher vitamin C may support brain health in ageing&nbsp;&nbsp;Bangladesh PostVitamin C levels in blood plasma linked with brain connectivity and volume in older adults: Study&nbsp;&nbsp;Medical DialoguesStudy links higher vitamin C levels to better brain health in older adults&nbsp;&nbsp;The Business StandardLow vitamin C levels may reveal subtle changes in the brain&nbsp;&nbsp;Earth.com",
+      "summary": "Scientists discover a surprising link between vitamin C and brain health&nbsp;&nbsp;ScienceDailyVitamin C levels in blood plasma linked with brain connectivity and volume in older adults: Study&nbsp;&nbsp;Medical DialoguesStudy links higher vitamin C levels to better brain health in older adults&nbsp;&nbsp;The Business StandardLow vitamin C levels may reveal subtle changes in the brain&nbsp;&nbsp;Earth.comStudy links higher Vitamin C levels to better brain structure in older adults&nbsp;&nbsp;El",
       "sources": [
         {
           "name": "ScienceDaily",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuaUYwRDZWTTV6ZERaNnNLRHFadVBhbGhDTmVCSHJXTHhBM2lnQWJSOHM5am1NQVlPS0xPcDNBTEw0cC1QdlNEa0xxTzV2dFJkZkJlVkRmdEFfWnVUSjVLTmNpVnQwMW5vS3hzSjVuVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "59342de2ac94",
+      "title": "​Working out as an older adult: Study finds ‘only one workout’ that sheds fat without losing muscle​ - The Times of India",
+      "published": "2026-07-01T04:51:31+00:00",
+      "summary": "​Working out as an older adult: Study finds ‘only one workout’ that sheds fat without losing muscle​&nbsp;&nbsp;The Times of IndiaOnly one workout helped older adults lose fat without losing muscle&nbsp;&nbsp;ScienceDailyStudy: this workout is the sweet spot for losing fat without sacrificing muscle – and Elsa Pataky is a fan&nbsp;&nbsp;Women's Health",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSmo0NTA5LXJVTDAyb3NBcWRITUg4R2tiVFdjLXNsZlBERmR0RXdsQlZncWxFbFJSV2lib3BHNHM4b0owZVlJZ0l4dU4tYmpkbjdsUVl6ZVZpcEg3QVplSHBjQnJ5N1NQYzBldTE0TG9fYm9ZRkhuQ0ZPVFRWRnFqOVVZRV85a3ZSU3pYTVFZZUtZMzU3UjVUbEE2eXhUOTd1V2V5TjVQaktSOU5ETmtKc3dfS1hrSFFQWmc4SE1WenBad1NkcDFGcEtiQUZQY2dJMWtwYk0ydHJIQWVVSl9UZGdtMW9iWVpiR2xxWXZZM0dHWkNhNHVTU3g4enNfcVBJcWfSAYoCQVVfeXFMTk9LemdhMEpwVUZtMThCWm42YWZzcnJFSk56T0JBQVN2VUxUaTNTVWpGR0RLNmw2SGF3RzQ2OHFTOFdsajFvZktfTm51ODZodTUta1hFMzJDcFhkMUpQcFhEWHBmUnI0dU5PUk50Y0JMYkYwbTRBNjJ3STJZckk1QXBfU00yTjlJWWZsT2RwY0wzYU1xMk5tdG9oRFhubDlPMUhBcldIM09WNTdqRWF4YWFVakpMVE1QUkI5TGc5WXk5ajQ5WVBZVjIyRzJJekZnaVg3QVAxb0trWmJRUEdpMVZiRC1OMGU1S0RFZHJISTZZVlFlWmpIc0RSY0VwR1ltY3BWY1ZrSkg5VUE?oc=5"
         }
       ]
     },
@@ -510,18 +618,6 @@
       ]
     },
     {
-      "id": "454344a9c7bc",
-      "title": "A rare dinosaur fossil from Antarctica is found tucked away in a drawer - KSL News",
-      "published": "2026-07-01T02:35:49+00:00",
-      "summary": "A rare dinosaur fossil from Antarctica is found tucked away in a drawer&nbsp;&nbsp;KSL NewsFirst ever dinosaur fossil discovered on Antarctica identified as a titanosaur&nbsp;&nbsp;Natural History MuseumAntarctica's first ever dinosaur bone discovered in a drawer&nbsp;&nbsp;BBCTwo Scientists Found a Bone in Antarctica in 1985. It Took 41 Years to Realize What They'd Actually Discovered&nbsp;&nbsp;ScienceAlert83-Million-Year-Old Fossil Rewrites Timeline of Antarctica’s First Dinosaur Discovery&nb",
-      "sources": [
-        {
-          "name": "KSL News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS2lXNHpXc29VWDNwekt3bThiNnA5dU1yOUlkYmtkVFJwbTQ1UmZxV0R1M2FMZVpxQUhuSXlaUVpadEo4NVVRcWpGbEZ3cm0yU0ZSaHNaNkR2RDRFT25PLW9XQjZBNWJLcVY3a0tWdmVaQ1B4WXNSbWw2a0Y2UU9VYWxPcmI2UEpLVVdabEZ1UnZDYzFzajd3MzJHM0NGLXhIejBFX3FZanI2SkdU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "416a15368489",
       "title": "Blood Falls: Antarctica's Most Unsettling Waterfall Hides an Ancient World Beneath The Ice - Yahoo",
       "published": "2026-07-01T02:03:00+00:00",
@@ -534,14 +630,14 @@
       ]
     },
     {
-      "id": "5bb94b5bd9bf",
-      "title": "Iowa State study looks at menopause's impact on the brain - KCCI",
-      "published": "2026-06-30T23:30:00+00:00",
-      "summary": "Iowa State study looks at menopause's impact on the brain&nbsp;&nbsp;KCCI",
+      "id": "f5a6f3e5b900",
+      "title": "Cardiologist Reveals the Essential Omega-3 Supplement for Heart Health - AOL.com",
+      "published": "2026-07-01T02:00:16+00:00",
+      "summary": "Cardiologist Reveals the Essential Omega-3 Supplement for Heart Health&nbsp;&nbsp;AOL.com",
       "sources": [
         {
-          "name": "KCCI",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVNQckwteUdyUVprSTA5TEI3Ym1QS2ppUWtzaWQ5aHB6ZW9qWkstOEw1b3BFbk51Vi1BYXR1MVZNdTBWTUNsVGJQd3o2RXFMeVo5azYxR01FWHlSVElaMTFMSGE5RlVSRGwxa1JaV1F6R2VJd1otemh6SVFydmc0T2VVLUJVYlBGblM0WHBMYks2eGduSHpKUlRyR3gwbHJpSE5fY1lxckY?oc=5"
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeHdGZ3BMNGEzUzhKOUs1dEZZREFpVWhSWkpWOXg1N0pxRFpSdzdqQll3QjZKeDdBalJOblN2VUYxOHl5cHRnQnZHUGFFYy1fazZmb1QtQXF6SmcyeGpmOXpxWWlRUkZ5YUFPVmZCM19JelNZWlNlUEFOVjdDZDJiOWNtc3U4U1Bjb3c?oc=5"
         }
       ]
     },
@@ -561,7 +657,7 @@
       "id": "947a7cb4b7f2",
       "title": "Hand Dominance Is Driven by Practice, Not Birth - Neuroscience News",
       "published": "2026-06-30T22:29:18+00:00",
-      "summary": "Hand Dominance Is Driven by Practice, Not Birth&nbsp;&nbsp;Neuroscience NewsYour dominant hand is made, not born&nbsp;&nbsp;Santa Fe InstituteStudy explains why your dominant hand is better at everyday tasks&nbsp;&nbsp;UCLA HealthUCLA Study Finds Hand Dominance Results from Predictive Brain Models Rather Than Mechanical Superiority&nbsp;&nbsp;geneonline.comWhy your dominant hand seems better at almost everything&nbsp;&nbsp;Earth.com",
+      "summary": "Hand Dominance Is Driven by Practice, Not Birth&nbsp;&nbsp;Neuroscience NewsYour dominant hand is made, not born&nbsp;&nbsp;Santa Fe InstituteWhy Are You Right- Or Left-Handed? Experiments Suggest Surprisingly Simple Explanation&nbsp;&nbsp;U.S. News & World ReportDominant Hand Skill Linked More to Practice Than Brain Wiring&nbsp;&nbsp;Technology NetworksHand Dominance Isn’t Biology, New Study Finds, It’s Practice&nbsp;&nbsp;StudyFinds",
       "sources": [
         {
           "name": "Neuroscience News",
@@ -594,22 +690,10 @@
       ]
     },
     {
-      "id": "0d8c0e215261",
-      "title": "Super-deep diamond discovery may rewrite Earth's role in preserving the building blocks of life - Phys.org",
-      "published": "2026-06-30T20:40:04+00:00",
-      "summary": "Super-deep diamond discovery may rewrite Earth's role in preserving the building blocks of life&nbsp;&nbsp;Phys.org",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91ZE42NDZiWV9kNzlpejJVR0JEbGNpeU9NSml1NzlSRjdIQlo2R0JNajI0bkpVN0lWQ3NVeDQ1dmR1eHBaRUtMRFg4cTd0MC15Vk9pZmo4TC1rbGVfN3FWLUhQWnFvSEpoV2dYbkZXX2JfbDJEZTFVZE5uOA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7e4e7c70d790",
       "title": "Rare but dangerous tick-borne virus on the rise in US - KRQE",
       "published": "2026-06-30T20:38:01+00:00",
-      "summary": "Rare but dangerous tick-borne virus on the rise in US&nbsp;&nbsp;KRQEThis rare tick-borne disease is on the rise in the U.S.&nbsp;&nbsp;The Washington PostRhode Island man diagnosed with Powassan disease&nbsp;&nbsp;WJARRare but dangerous tick-borne virus on the rise in the U.S.&nbsp;&nbsp;KTLARare tick-borne virus turns deadly fast as US cases reach record high, experts warn&nbsp;&nbsp;Fox News",
+      "summary": "Rare but dangerous tick-borne virus on the rise in US&nbsp;&nbsp;KRQEThis rare tick-borne disease is on the rise in the U.S.&nbsp;&nbsp;The Washington PostRare but dangerous tick-borne virus on the rise in the U.S.&nbsp;&nbsp;KTLARhode Island man diagnosed with Powassan disease&nbsp;&nbsp;WJARRare tick-borne virus turns deadly fast as US cases reach record high, experts warn&nbsp;&nbsp;Fox News",
       "sources": [
         {
           "name": "KRQE",
@@ -630,14 +714,14 @@
       ]
     },
     {
-      "id": "dd31962d0100",
-      "title": "Frequent AI chatbot users more likely to believe anti-vaccine myths, poll finds - The Guardian",
-      "published": "2026-06-30T19:25:00+00:00",
-      "summary": "Frequent AI chatbot users more likely to believe anti-vaccine myths, poll finds&nbsp;&nbsp;The GuardianThe ongoing impact of U.S. vaccine hesitancy&nbsp;&nbsp;The Washington PostKFF Tracking Poll on Health Information and Trust: Update on Common Vaccine Myths&nbsp;&nbsp;KFFNew US poll identifies large ‘malleable middle’ on vaccine misinformation&nbsp;&nbsp;CIDRAPWhen It Comes to Vaccines and Autism, It Is User Error Not AI Disinformation&nbsp;&nbsp;American Enterprise Institute - AEI",
+      "id": "5f175eb844da",
+      "title": "The sunburns that can change your life: Experts say just 5 can double cancer risk - The Independent",
+      "published": "2026-06-30T19:18:00+00:00",
+      "summary": "The sunburns that can change your life: Experts say just 5 can double cancer risk&nbsp;&nbsp;The IndependentWhat doctors want patients to know about sunburns&nbsp;&nbsp;American Medical Association | AMAWhy Even One Sunburn Matters for Older Adults&nbsp;&nbsp;AOL.comWhat you don’t know about sunburns can really hurt you&nbsp;&nbsp;The Weather ChannelLong-term risks of your kids getting sunburned&nbsp;&nbsp;Magzter",
       "sources": [
         {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcG1RYzhsWFo0R0lmQld6SXF2Q3l3WmdnX2VwU2x1Q2g2RHp1dXNQWmFRTktPNGpCdVVTc25uRlI2SjA3WXVPNlVMMDVSQjFMU0V1Q3ZPeXdQUktCYm1QNldZcjRyMjdpZHFib1MweVN2a1FYNnVuZmhHRGl5UjhBOVZhZG1tVTNhYTdBZWRhNURkaDA?oc=5"
+          "name": "The Independent",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVll0MEZYZGJ5Rjk0Z2xOUnNQYnMxa0ZtT1ZnVUZoQVhlZE5XcXowbzBvb3QzVThfT0lIZ3VLbGd0N0tXRUJ0cFd0OXRHLXdOSHJxTzJEOGJvSWNzZUlFT3BweEMwa1YyV1IxNzZjUm9SVzhsUF94UTA1VGxydHBlN1p1aXVzaWFhYUNUaUhxZ0VxZkhhSloyNVF1Y2lDei1mY0c1cF90aWJjOWZ2Wnc?oc=5"
         }
       ]
     },
@@ -657,7 +741,7 @@
       "id": "771f8e7766aa",
       "title": "New Yale study challenges one of aging’s biggest myths - Ynetnews",
       "published": "2026-06-30T16:59:00+00:00",
-      "summary": "New Yale study challenges one of aging’s biggest myths&nbsp;&nbsp;YnetnewsOpinion | Most people are thinking about aging all wrong&nbsp;&nbsp;The Washington Post‘Such individuals aren’t outliers’&nbsp;&nbsp;YahooA Yale study found that how you think about getting older may add 7.5 years to your life, more than exercise and more than not smoking&nbsp;&nbsp;Space DailyBy the Numbers: Wealthy Americans and older adults have more positive views of aging&nbsp;&nbsp;American Psychological Association ",
+      "summary": "New Yale study challenges one of aging’s biggest myths&nbsp;&nbsp;YnetnewsOpinion | Most people are thinking about aging all wrong&nbsp;&nbsp;The Washington PostA Yale study found that how you think about getting older may add 7.5 years to your life, more than exercise and more than not smoking&nbsp;&nbsp;Space DailyLiving better, not just longer&nbsp;&nbsp;The Christian Science Monitor‘Such individuals aren’t outliers’&nbsp;&nbsp;The Week",
       "sources": [
         {
           "name": "Ynetnews",
@@ -669,7 +753,7 @@
       "id": "94ea331efeba",
       "title": "A dietitian and professional track coach shares her 3 tips for building muscle and losing fat - Business Insider",
       "published": "2026-06-30T16:25:00+00:00",
-      "summary": "A dietitian and professional track coach shares her 3 tips for building muscle and losing fat&nbsp;&nbsp;Business InsiderHow to Get 25 Grams of Protein Every Meal&nbsp;&nbsp;AARP6 Ways Your Body Can Change After Starting a High-Protein Diet&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness InformationGrowing Interest in Protein for Fitness and Weight Loss Driven by Evolving Research, Says Peter Embiricos&nbsp;&nbsp;Yahoo FinanceBROC explains: The protein obsession&nbsp;&nbsp;Baton Ro",
+      "summary": "A dietitian and professional track coach shares her 3 tips for building muscle and losing fat&nbsp;&nbsp;Business InsiderHow to Get 25 Grams of Protein Every Meal&nbsp;&nbsp;AARP6 Ways Your Body Can Change After Starting a High-Protein Diet&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness InformationWhat’s driving the protein surge?&nbsp;&nbsp;FoodNavigator-USA.comGrowing Interest in Protein for Fitness and Weight Loss Driven by Evolving Research, Says Peter Embiricos&nbsp;&nbsp;Yah",
       "sources": [
         {
           "name": "Business Insider",
@@ -690,6 +774,18 @@
       ]
     },
     {
+      "id": "dab90870df3c",
+      "title": "Marburg outbreak is reported in Uganda, threatening to complicate Ebola response in region - STAT",
+      "published": "2026-06-30T16:03:43+00:00",
+      "summary": "Marburg outbreak is reported in Uganda, threatening to complicate Ebola response in region&nbsp;&nbsp;STATSuspected Marburg outbreak in Uganda prompts US alert&nbsp;&nbsp;The TelegraphEbola deaths in Africa top 400 as Uganda reports death of child from Marburg&nbsp;&nbsp;CIDRAPIsolated Marburg Virus Case Confirmed in Uganda&nbsp;&nbsp;DevdiscourseMarburg virus outbreak in Uganda?&nbsp;&nbsp;Outbreak News Today",
+      "sources": [
+        {
+          "name": "STAT",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV3d3X1JLc2lxbUZXUDVGT0FHZ2g3ODdqbmNJTEJtM0U3UWdkUllvWUlFY1poajREMXdvNXFtWnVacGw5NHdFX051Nk95Rk1qUTBDaHV2eU1wT3V0c3RKa09SVkdxZVpLb212YmZIZHNZU0gybWJFdUE3eUFyYlJJaVBWdnkwZE1ZY0RwRw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7d0ff3b69e36",
       "title": "Vaccination elicits HIV broadly neutralizing antibodies in primates - Nature",
       "published": "2026-06-30T15:46:59+00:00",
@@ -698,90 +794,6 @@
         {
           "name": "Nature",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zNzVyYmE1QjRsd3JPRDJhUEFnT3NSWHIteUo5cTZZM251b0FfVVV6a3NHa2ppZjFjQ2tnMkYzYVJrZHA1M09PNG5qQnNrTDFjeldpRGUzd05kVl9FWTJB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1105e7fc02a9",
-      "title": "A 400-Year-Old Painting Caught Bats Eating Birds Before Science Did - ScienceAlert",
-      "published": "2026-06-30T15:13:48+00:00",
-      "summary": "A 400-Year-Old Painting Caught Bats Eating Birds Before Science Did&nbsp;&nbsp;ScienceAlert400-year-old painting reveals a bat's secret diet&nbsp;&nbsp;Phys.orgA discovery about this bat’s diet was hiding in a Renaissance painting&nbsp;&nbsp;Science NewsScientists solved a bat mystery hidden in a Renaissance Painting&nbsp;&nbsp;Tech ExploristEvidence of Recently Discovered Bat Behavior Found Hiding in Plain Sight in Renaissance Painting&nbsp;&nbsp;Nautilus | Science",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMU42UjF3S3ZoTUpZMDQzTDFZemhVMEI3ZUZiSlBvZ3hhTnkwbXdDcFJLV1cwQl9oNEpTUFZRa1pzZC1aQllhZWJ3bFg4UFgyWElMeng5Q3RvQUpDMlJXbUdoX3hhT1JqT0ZTRm5MOUFVMG5UM0hCemhfaXR1Tnlxb2RqU0RzeDFpWHZ2LVl5SQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fa541ca7536a",
-      "title": "People with strong chest and back less likely to have a heart attack, analysis suggests - The Guardian",
-      "published": "2026-06-30T14:00:00+00:00",
-      "summary": "People with strong chest and back less likely to have a heart attack, analysis suggests&nbsp;&nbsp;The GuardianThe chest and back exercises to help reduce heart attack risk&nbsp;&nbsp;The TelegraphMoobs linked to ‘58% higher risk of heart attack in 10 years’ in ‘fascinating’ study&nbsp;&nbsp;The SunThe ‘Heartsavers’: How strong chest and back muscles (and THESE workouts) may lower heart attack risk&nbsp;&nbsp;The Times of IndiaLow muscle density on coronary CT linked to heart risk&nbsp;&nbsp;Aun",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdlBPX2s0NjBKUGxfZEdDcTNscFd1aG9SanRyV2pDMFdxUEFFUFBMYmppSDZuck1Fa0tEcWx2MHR0bTlQTHJnaDdyOE5sVG9hT19BRkp2Um9JLXhGdUxWdGJMYmVzbmR6TW5zcUd5OWU0aWU0V0hDeHRGeUhHQm9MVDBBVExmTWd5VlJBZUxhMmFoRDFCd1YxSHVWVmNvVEhI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "097b0c631195",
-      "title": "N.I.H. Announces World’s Largest Integrated Health Database - The New York Times",
-      "published": "2026-06-30T13:00:06+00:00",
-      "summary": "N.I.H. Announces World’s Largest Integrated Health Database&nbsp;&nbsp;The New York TimesNIH's All of Us Research Program is now the largest integrated genomics and health database in the world&nbsp;&nbsp;National Institutes of Health (NIH) | (.gov)All of Us tests a new approach to collect real-world data for research&nbsp;&nbsp;STATNIH launches “All of Us” database&nbsp;&nbsp;YahooNIH’s ‘All of Us’ database could signal new era of healthcare&nbsp;&nbsp;NewsNation",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMXJ4QW9OS19ybFJvUWtmQmwtcDNSR2d6cDJkRHhPWXNVSlV6Q1NPYld1N1QxcVA0YWYtd25GMmk2Q281N20wVmVzemM0NFF2anpxWGU0VFZNcm5kenc4TDhzNE4tcXlNbXVPNTAtLVA3LXp6TGdqOU0wbGM3eW9zUXZjQ2g1TWhnNUdyVDFRZ0tneG9ndzJhU1FVVDg3LVJPM0VyWGxn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9dc9516a217e",
-      "title": "New screening tool may detect more dangerous prostate cancers than PSA testing alone - Medical News Today",
-      "published": "2026-06-30T12:47:29+00:00",
-      "summary": "New screening tool may detect more dangerous prostate cancers than PSA testing alone&nbsp;&nbsp;Medical News TodayNew blood test detects 90% of aggressive prostate cancer cases, beating current screenings&nbsp;&nbsp;Fox NewsHow new tests can help catch prostate cancer early, image cancerous tissue&nbsp;&nbsp;Baltimore SunStockholm3 Blood Test Detects More High-Risk Prostate Cancers Early&nbsp;&nbsp;Inside Precision MedicineNew Advances in Prostate Cancer Detection and Management&nbsp;&nbsp;SYNLA",
-      "sources": [
-        {
-          "name": "Medical News Today",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTmQtUEcwQ24yVlRmczNWWjNiMEtSZGdyRUdGQnUxeFY1SURTNjkwVG9MMUF5a2tYWDR2UnV0Tnd2czY0ZS11R3pDbGhKNnBnRkxaSHdjZV9RNHJLNlo4NkwyMlM2S0kxX252U3MyWkF1MzNycVRIaEtDQTAyQnVoQ0pYaVFQQ185dk0xTGpqWkUwTVRvQVhLSEhvWV9ldTM5M1hnVnRTTVFJWklneGMtdGZzN1Fnempja2hXaDg2Q2FQWTVO?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9648f41f70ca",
-      "title": "Scientists Find Hidden 'Focus Switch' in The Brain – And It May Hold Clues to ADHD - ScienceAlert",
-      "published": "2026-06-30T10:34:59+00:00",
-      "summary": "Scientists Find Hidden 'Focus Switch' in The Brain – And It May Hold Clues to ADHD&nbsp;&nbsp;ScienceAlert",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNamctRGZ3eTRSY3BGUGszTkRkMmxnWDRPaDR6QWdVU1hZNmdTbUI2ZlJjOVg5S2RqbXlsTHJFQTAxOFlvR2d5N1hNSWxGMkdQYmZkTE8wcjFLSllTbDd0UmRlX2gzTEFWcmZJUEpXbkVMUTZkZW55S1J3Vi1oRFJ1WWR5ejcwOXZ2NFNXUnFzUlUwSy1Kdlh4MUgwQXhZZVRla1JRSmhyS050QXFydW1IUTMwdnpQVEQ1SVhPTF9DcHhFSDRHVmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "645f94a59ce0",
-      "title": "A Clue To Alzheimer’s Could Show Up As Early As 45 - HuffPost UK",
-      "published": "2026-06-30T09:32:13+00:00",
-      "summary": "A Clue To Alzheimer’s Could Show Up As Early As 45&nbsp;&nbsp;HuffPost UK‘Midlife is the time’: why dementia prevention should start in your 40s&nbsp;&nbsp;South China Morning PostNew Strategies in Brain Health&nbsp;&nbsp;AARPWhy People in Their 40s and 50s Are Getting Serious About Cognitive Health&nbsp;&nbsp;San Francisco ExaminerDoctorSpeak: Simple ways to defy dementia&nbsp;&nbsp;The Tribune",
-      "sources": [
-        {
-          "name": "HuffPost UK",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRVRtMk84NE1xcVVUQnB5OWFkXzdTM1BDeF9SS3ktTFkwazdDRWoyeXJQOTEyMXFmWGhEbnFnOTB5NDdVVzdtWXdMeFdjMFdCbFBBN1daU3lOWkdHWlI0Qk15N29XNTliNHNGN2N6WFREZ2JpbGF6WHFIdkRhOWE2S3hYVl9QdF9SWm8weWNkRmbSAZcBQVVfeXFMT3FKQkdqcGtiX0o3M1MxZnZlTXNycmlwY09zY2JMR1lkbF9obXpDNGxNU2hPMDk5UHc2MncyTUZUcHgtbll4UWtfWm8tWUlNblpVV3daSC1iWXdPbnp6TzYwc0pyaE5QQ3BQcE5fQlViSDZleUN4cUlwb3FqaWFfRGJnbFBxci0yVmxEU2hRdVJZdmFyVGhuSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e2aeb6a149de",
-      "title": "Scientists think life could exist on Venus - but came from Earth - Metro.co.uk",
-      "published": "2026-06-30T08:19:00+00:00",
-      "summary": "Scientists think life could exist on Venus - but came from Earth&nbsp;&nbsp;Metro.co.ukEarth may have been seeding Venus with life for billions of years&nbsp;&nbsp;ScienceDailyScientists say Earth Impacts May Have Delivered Microbes to the Clouds of Venus&nbsp;&nbsp;ZME ScienceScientists think life could exist on Venus – but came from Earth&nbsp;&nbsp;MSN",
-      "sources": [
-        {
-          "name": "Metro.co.uk",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUW5YS1oyOFZZM0dCamhDbWJJNkZNcTdWZHpFWW9tbFNXaU9qT1RPUkRuWnJqOVphd1QxVktweWVlM1dXM210SThFYWxKYjVjbkNjdDRVU3c2bWZCd2RvelNoVmkyempEbzFSUWNFMGNvWGtMTV9MS19vcTdJRjU3RjRxZDk1YzF5eHc5T19n?oc=5"
         }
       ]
     }

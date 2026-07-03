@@ -1,15 +1,39 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-07-03T03:32:54.623855+00:00",
-  "total_fetched": 129,
-  "unique_count": 129,
-  "health_related_count": 67,
+  "fetched_at": "2026-07-03T09:22:32.009544+00:00",
+  "total_fetched": 125,
+  "unique_count": 125,
+  "health_related_count": 59,
   "news": [
+    {
+      "id": "9bac2baf832f",
+      "title": "Pharmacist warns of heat risks for people on common medications - KCCI",
+      "published": "2026-07-03T02:26:00+00:00",
+      "summary": "Pharmacist warns of heat risks for people on common medications&nbsp;&nbsp;KCCIDangerous heat, medications: How hot weather impacts you if taking Selective Serotonin Reuptake Inhibitors, SSRIs&nbsp;&nbsp;ABC11 NewsHeat wave warning: Common medications that can increase your risk of heat illness&nbsp;&nbsp;ClickOnDetroit | WDIV Local 4SSRIs and heat: what antidepressants do to your body in extreme temperatures&nbsp;&nbsp;WAFBMHRA Issues Advice on Protecting Diabetes Medication in Extreme Heat&nbs",
+      "sources": [
+        {
+          "name": "KCCI",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR1Q5QzJzV0NCb3VLazN5MWdfSk9pNzJxT0JNdjkxcTIwejBPMldtdXZ4ajRVdWUtRmF1WmpWaUtvbER2dm1QeGxnNnZSdWx2T3NTMVZLaDhTSnUtTFkwZk90ZDE5ckhUaXhMUkdUV1E4VjRXLUZNZGxLakJzcXNremZyZU0tZjB1TVFCY2JyTkdlcWZrLUstZW1BUHp3TmV4U3Zz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c4e13b8ce765",
+      "title": "Legionnaires’ disease outbreak in 2 NYC neighborhoods puts health officials on high alert - New York Post",
+      "published": "2026-07-03T02:18:00+00:00",
+      "summary": "Legionnaires’ disease outbreak in 2 NYC neighborhoods puts health officials on high alert&nbsp;&nbsp;New York PostTwo cases of Legionnaires' disease prompt Upper East Side investigation in New York City&nbsp;&nbsp;ABC7 New YorkLegionella bacteria confirmed in East Village housing complex water supply&nbsp;&nbsp;GothamistHealth officials investigate Legionnaires’ disease cases on the Upper East Side&nbsp;&nbsp;PIX112 Sickened By Legionnaires Disease On The UES, Officials Say&nbsp;&nbsp;Patch",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZFVaZENxRDBvMnJBUGdpV0xPaHB2TTRRSHcyb0xtNGZpMEhDMTl0dzl6UHRGbFhvaDBlMUtobkNzVkJlZ1hrOEE4Y2VVMlZ5V05mZk5JX0NURlJLcjZaRGxlRGRadG1DeGxoVGlicDlhbGVIWU5GWk1QcU1CWE1CcEFyZ2JFcFVaVkZzcVVsM0QteklhUW1hcklLSWRka0JkalFNZTZuQ2drdlBSUWxoSENBQTg3ZDkteEE?oc=5"
+        }
+      ]
+    },
     {
       "id": "b74fc880ea93",
       "title": "From birth until death: how the ethnicity pain gap follows people through life - The Guardian",
       "published": "2026-07-03T01:30:00+00:00",
-      "summary": "From birth until death: how the ethnicity pain gap follows people through life&nbsp;&nbsp;The GuardianEthnicity pain gap: the epidural failed and no one believed me – I could feel everything&nbsp;&nbsp;The GuardianWomen from minority backgrounds in UK less likely to receive epidurals, research finds&nbsp;&nbsp;The Guardian",
+      "summary": "From birth until death: how the ethnicity pain gap follows people through life&nbsp;&nbsp;The GuardianEthnicity pain gap: the epidural failed and no one believed me – I could feel everything&nbsp;&nbsp;The GuardianRacial Gaps in Cancer Pain Management Persist in Community Care: Ila Sruti, MPH&nbsp;&nbsp;AJMCWomen from minority backgrounds in UK less likely to receive epidurals, research finds&nbsp;&nbsp;The Guardian",
       "sources": [
         {
           "name": "The Guardian",
@@ -18,10 +42,22 @@
       ]
     },
     {
+      "id": "f02c544568d2",
+      "title": "Inland Empire city latest in SoCal to detect West Nile virus in mosquito samples - KTLA",
+      "published": "2026-07-03T00:07:32+00:00",
+      "summary": "Inland Empire city latest in SoCal to detect West Nile virus in mosquito samples&nbsp;&nbsp;KTLAFirst human case of West Nile detected in Sacramento County, health officials say&nbsp;&nbsp;Sacramento BeeHealth officials confirm first human case of West Nile virus in Sacramento County this year&nbsp;&nbsp;KCRAWest Nile Mosquito Invasion Off-The-Charts In OC: What To Know&nbsp;&nbsp;PatchHealth officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach&nbsp;&nbsp;Los ",
+      "sources": [
+        {
+          "name": "KTLA",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLXB0dVJGTTVMa19kdmZ5Q3RkYWh6M3dUdkI1cW55cHV5eDFGNE1jTnNoRVZESF9hdF9POW1yanhZLThiMHhvUzhiV2tEWVJjeTJRWURRTUdMOXdVMUtnbFVWNUhtWkt6ckpuSTZBV195dTVsS2Rkb2I3MlRPcW5BRkFXWmhlVE1YdDNkMElwU0QybVVrNlctNm10eEZ6QVZwdGtQTU9QNFEyRGF4Rl9wTllqSTPSAboBQVVfeXFMUEJ1eDY4X1I0LU84VlZvTlcwQ0FDbU04OVJLSVk2SDZLTnpFQ3RyV1dvSHQ4NF9Mc1lwZnVhanFxUlNickpVN0hqdGhUNUcyYjByOFFkTHBILUpsR0FtRUtERl93UTY0QjExemsxMkhlZm9wRWhkLXg0WVllRHprVFRhcGZXc01WTEQ4OHVhTFdSdkRBeW40bWRpeVkwV1B3VXFFN0FiS3lEa3pqXzEyMFRfcW8wQkp0eU9n?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6e4057dd08ae",
       "title": "Doctor: ‘Don’t panic’ as Michigan tracks cyclosporiasis outbreak - WOODTV.com",
       "published": "2026-07-02T23:49:15+00:00",
-      "summary": "Doctor: ‘Don’t panic’ as Michigan tracks cyclosporiasis outbreak&nbsp;&nbsp;WOODTV.comClusters of Severe Stomach Illness Reported Across the U.S.&nbsp;&nbsp;The New York Times‘Explosive’ diarrhea illness reported across US. See map of affected states&nbsp;&nbsp;USA Today'Large and growing' parasitic infection outbreak spreading in Michigan, health officials say&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosCyclospora cases are rising in Texas and the parasite hiding in your produce ",
+      "summary": "Doctor: ‘Don’t panic’ as Michigan tracks cyclosporiasis outbreak&nbsp;&nbsp;WOODTV.comClusters of Severe Stomach Illness Reported Across the U.S.&nbsp;&nbsp;The New York Times‘Explosive diarrhea parasite’ sickens 170 in Michigan, hospitalizes at least 20 nationwide&nbsp;&nbsp;NBC News‘Explosive’ diarrhea illness reported across US. See map of affected states&nbsp;&nbsp;USA Today'Large and growing' parasitic infection outbreak spreading in Michigan, health officials say&nbsp;&nbsp;ABC News - Brea",
       "sources": [
         {
           "name": "WOODTV.com",
@@ -57,7 +93,7 @@
       "id": "f41725977841",
       "title": "Early, intense West Nile season may signal a severe year for the mosquito-borne illness, CDC says - CNN",
       "published": "2026-07-02T21:41:37+00:00",
-      "summary": "Early, intense West Nile season may signal a severe year for the mosquito-borne illness, CDC says&nbsp;&nbsp;CNNCDC Encourages Americans to Stay Mosquito Bite-Free during America's 250th Independence Day holiday weekend&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)US sees earliest start to West Nile virus season and most cases by late June since 2004&nbsp;&nbsp;CIDRAPWest Nile virus cases hit 22-year spike. Here’s where activity is highest in US&nbsp;&nbsp;The HillWest Nile ",
+      "summary": "Early, intense West Nile season may signal a severe year for the mosquito-borne illness, CDC says&nbsp;&nbsp;CNNCDC Encourages Americans to Stay Mosquito Bite-Free during America's 250th Independence Day holiday weekend&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)West Nile virus is surging earlier than it has in decades. Here’s how to protect yourself.&nbsp;&nbsp;The Washington PostUS sees earliest start to West Nile virus season and most cases by late June since 2004&nbsp;",
       "sources": [
         {
           "name": "CNN",
@@ -69,7 +105,7 @@
       "id": "f25cd94914fa",
       "title": "Ebola treatments trial begins in the Democratic Republic of Congo - BBC",
       "published": "2026-07-02T21:21:36+00:00",
-      "summary": "Ebola treatments trial begins in the Democratic Republic of Congo&nbsp;&nbsp;BBCTrial for Bundibugyo Ebola treatment starts in DRC, WHO says&nbsp;&nbsp;ReutersResearchers launch study on Ebola treatments as Congo outbreak worsens&nbsp;&nbsp;AP NewsPatient enrolment begins in a scientific trial to identify the first effective treatments for Bundibugyo virus disease&nbsp;&nbsp;World Health Organization (WHO)Clinical trial for Ebola therapies begins in DR Congo&nbsp;&nbsp;CIDRAP",
+      "summary": "Ebola treatments trial begins in the Democratic Republic of Congo&nbsp;&nbsp;BBCTrial for Bundibugyo Ebola treatment starts in DRC, WHO says&nbsp;&nbsp;ReutersClinical trial for Ebola therapies begins in DR Congo&nbsp;&nbsp;CIDRAPResearchers launch study on Ebola treatments as Congo outbreak worsens&nbsp;&nbsp;AP NewsPatient enrolment begins in a scientific trial to identify the first effective treatments for Bundibugyo virus disease&nbsp;&nbsp;World Health Organization (WHO)",
       "sources": [
         {
           "name": "BBC",
@@ -105,7 +141,7 @@
       "id": "62e033b92376",
       "title": "Quality of Muscles, Not Size, Lowers Heart Attack Risk - Newser",
       "published": "2026-07-02T18:42:00+00:00",
-      "summary": "Quality of Muscles, Not Size, Lowers Heart Attack Risk&nbsp;&nbsp;NewserPeople with strong chest and back less likely to have a heart attack, analysis suggests&nbsp;&nbsp;The GuardianThe chest and back exercises to help reduce heart attack risk&nbsp;&nbsp;The TelegraphMoobs linked to ‘58% higher risk of heart attack in 10 years’ in ‘fascinating’ study&nbsp;&nbsp;The SunThe ‘Heartsavers’: How strong chest and back muscles (and THESE workouts) may lower heart attack risk&nbsp;&nbsp;The Times of In",
+      "summary": "Quality of Muscles, Not Size, Lowers Heart Attack Risk&nbsp;&nbsp;NewserPeople with strong chest and back less likely to have a heart attack, analysis suggests&nbsp;&nbsp;The GuardianThe chest and back exercises to help reduce heart attack risk&nbsp;&nbsp;The Telegraph50-year-olds with a lower risk of heart attacks may have one thing in common, new study reveals&nbsp;&nbsp;Woman & HomeI’m a personal trainer. These five exercises could reduce your risk of a heart attack&nbsp;&nbsp;The Independent",
       "sources": [
         {
           "name": "Newser",
@@ -126,18 +162,6 @@
       ]
     },
     {
-      "id": "4838cdb09d17",
-      "title": "You Gotta Get Up to Get Your Cancer Risk Down, New Study Finds - Gizmodo",
-      "published": "2026-07-02T18:00:20+00:00",
-      "summary": "You Gotta Get Up to Get Your Cancer Risk Down, New Study Finds&nbsp;&nbsp;GizmodoSitting for more than 30 minutes at a time linked to higher risk of cancer death&nbsp;&nbsp;The GuardianLong sitting bouts linked to increased cancer risk&nbsp;&nbsp;Medical XpressSitting for more than half an hour daily increases risk of cancer death&nbsp;&nbsp;The TelegraphProlonged Sitting One Extra Hour Raises Cancer Mortality Risk by 9%&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ2xBX3VBVlhqME9lblh3WHI2NUdxekFIQTNaOV9lZi01cjFNeVN4enBBbVVISUVyS2tBUGhiTFZKZ3ByanozZmE2TUlzRUVkaDNUdnA1TFQtQTF3SGpfMUwtYVlVOUlUdDl0amliZDRCMjBxMXNnS2JmckxZZUFYTDJHcVhXSVVHam1kbTN0dWlqRTNCYTE0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7265ed74487d",
       "title": "Beachgoers warned of flesh-eating bacteria ahead of July 4 - NewsNation",
       "published": "2026-07-02T17:27:57+00:00",
@@ -150,14 +174,14 @@
       ]
     },
     {
-      "id": "35a30cedc5dd",
-      "title": "Tick season is expected to be worse than normal as ER visits rise in much of the U.S. - CBS News",
-      "published": "2026-07-02T16:34:29+00:00",
-      "summary": "Tick season is expected to be worse than normal as ER visits rise in much of the U.S.&nbsp;&nbsp;CBS NewsYour guide to identifying some of the most common ticks found in the US&nbsp;&nbsp;FOX WeatherTick Season is in Full Swing — Here’s What You Need to Know This Summer&nbsp;&nbsp;Barnstable County (.gov)Tick-borne illnesses on the rise in West Virginia; health officials urge extra precautions&nbsp;&nbsp;WOWK 13 NewsWarmer temps bring soaring tick populations. Here’s how to stay safe from Lyme d",
+      "id": "ef65d7cba4f1",
+      "title": "‘The silence was the worst part’: after culling his entire flock, US poultry farmer now fears bird flu - The Guardian",
+      "published": "2026-07-02T16:48:00+00:00",
+      "summary": "‘The silence was the worst part’: after culling his entire flock, US poultry farmer now fears bird flu&nbsp;&nbsp;The GuardianWill bird flu become the next pandemic? What comes next for backyard flocks and the people near them&nbsp;&nbsp;Miami HeraldBackyard chicken owners are starting to worry about the quiet return of the avian influenza. Here’s why&nbsp;&nbsp;Yahoo HealthH9N2, H5N1, and H5N2 Are All Being Monitored for Human Risk — Here Is the Honest State of Avian Flu in 2026&nbsp;&nbsp;Medi",
       "sources": [
         {
-          "name": "CBS News",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOemVIZVdjWjRDRU1rRC1VN0RCYVRqb2gtc1JXazVnWWhyUnNEX1h1VnBhS1F2RHNuTXFlWFRDeWdmWlpRNm1KWVlJWXVDMmdvZnFvYWhWY3JfanlmUjBra2l6TUxyTDMzVXVoY3hBNE9tS2FiRm82M1kxS2ZOWHVUeGxxZlA4dU0?oc=5"
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EVXdPMUJPZWd2cUZfMFJhWnA2allobENuTXJaeXlXdUpWMFg0a2FjNHNvd3B2eUpUbjd1ZVFrWWRBQm92YUVtdG5XYTk4SHFuRnNtNVRJNndPbDFOT09adXJzdUUyRmNfd1BEVzZLN21tbFdydDQ0dg?oc=5"
         }
       ]
     },
@@ -165,7 +189,7 @@
       "id": "f5be77dcd0ca",
       "title": "Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages - Ars Technica",
       "published": "2026-07-02T16:30:37+00:00",
-      "summary": "Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages&nbsp;&nbsp;Ars TechnicaEbola deaths in Africa top 400 as Uganda reports death of child from Marburg&nbsp;&nbsp;CIDRAPHealth Alert: Health Alert: U.S. Embassy Kampala (June 29, 2026)&nbsp;&nbsp;U.S. Embassy in Uganda (.gov)Marburg outbreak is reported in Uganda, threatening to complicate Ebola response in region&nbsp;&nbsp;STATAfrica CDC says Uganda found isolated Marburg case&nbsp;&nbsp;CNBC Africa",
+      "summary": "Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages&nbsp;&nbsp;Ars TechnicaMarburg outbreak is reported in Uganda, threatening to complicate Ebola response in region&nbsp;&nbsp;STATEbola deaths in Africa top 400 as Uganda reports death of child from Marburg&nbsp;&nbsp;CIDRAPHealth Alert: Health Alert: U.S. Embassy Kampala (June 29, 2026)&nbsp;&nbsp;U.S. Embassy in Uganda (.gov)Africa CDC says Uganda found isolated Marburg case&nbsp;&nbsp;CNBC Africa",
       "sources": [
         {
           "name": "Ars Technica",
@@ -177,23 +201,11 @@
       "id": "b9dcf5804055",
       "title": "4 surprising (and evidence-based) health benefits of drinking coffee - The Washington Post",
       "published": "2026-07-02T16:00:00+00:00",
-      "summary": "4 surprising (and evidence-based) health benefits of drinking coffee&nbsp;&nbsp;The Washington PostYour daily coffee intake may cut your risk for liver disease&nbsp;&nbsp;CNNCoffee Lovers and Their Livers Can Celebrate, Study Suggests&nbsp;&nbsp;MedPage TodayReport says coffee may lower risks of liver disease&nbsp;&nbsp;CBS NewsWanna help your liver out? Keep drinking coffee, seriously&nbsp;&nbsp;The Independent",
+      "summary": "4 surprising (and evidence-based) health benefits of drinking coffee&nbsp;&nbsp;The Washington PostYour daily coffee intake may cut your risk for liver disease&nbsp;&nbsp;CNNCoffee Lovers and Their Livers Can Celebrate, Study Suggests&nbsp;&nbsp;MedPage TodayWanna help your liver out? Keep drinking coffee, seriously&nbsp;&nbsp;The IndependentHot cars, holiday hazards and coffee's surprising liver boost&nbsp;&nbsp;KING5.com",
       "sources": [
         {
           "name": "The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdnNCdDdPdmI1QXVTMjB3OUlEUGVDRHdheVVUYjc2SE0xVnVDbHc1WWlmMjd0WjBpeVo5UEFVQXlrc042UXBFMnR4UFBjUTJYcEdRd1FPN0pxQkgwUERTQ245bE5hN1RKaE5iQnlqQ2hxRjVSN1hQZnlsRHNhM2JvNHJjd19SYXIySU9wQmNoQVpTNlBxeU5r?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "59342de2ac94",
-      "title": "​Working out as an older adult: Study finds ‘only one workout’ that sheds fat without losing muscle​ - The Times of India",
-      "published": "2026-07-02T15:12:00+00:00",
-      "summary": "​Working out as an older adult: Study finds ‘only one workout’ that sheds fat without losing muscle​&nbsp;&nbsp;The Times of IndiaSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSmo0NTA5LXJVTDAyb3NBcWRITUg4R2tiVFdjLXNsZlBERmR0RXdsQlZncWxFbFJSV2lib3BHNHM4b0owZVlJZ0l4dU4tYmpkbjdsUVl6ZVZpcEg3QVplSHBjQnJ5N1NQYzBldTE0TG9fYm9ZRkhuQ0ZPVFRWRnFqOVVZRV85a3ZSU3pYTVFZZUtZMzU3UjVUbEE2eXhUOTd1V2V5TjVQaktSOU5ETmtKc3dfS1hrSFFQWmc4SE1WenBad1NkcDFGcEtiQUZQY2dJMWtwYk0ydHJIQWVVSl9UZGdtMW9iWVpiR2xxWXZZM0dHWkNhNHVTU3g4enNfcVBJcWfSAYoCQVVfeXFMTk9LemdhMEpwVUZtMThCWm42YWZzcnJFSk56T0JBQVN2VUxUaTNTVWpGR0RLNmw2SGF3RzQ2OHFTOFdsajFvZktfTm51ODZodTUta1hFMzJDcFhkMUpQcFhEWHBmUnI0dU5PUk50Y0JMYkYwbTRBNjJ3STJZckk1QXBfU00yTjlJWWZsT2RwY0wzYU1xMk5tdG9oRFhubDlPMUhBcldIM09WNTdqRWF4YWFVakpMVE1QUkI5TGc5WXk5ajQ5WVBZVjIyRzJJekZnaVg3QVAxb0trWmJRUEdpMVZiRC1OMGU1S0RFZHJISTZZVlFlWmpIc0RSY0VwR1ltY3BWY1ZrSkg5VUE?oc=5"
         }
       ]
     },
@@ -213,7 +225,7 @@
       "id": "4bd34d77e7ac",
       "title": "Doctors explain what really happens when you stop taking Ozempic and other GLP-1 drugs - Yahoo Health",
       "published": "2026-07-02T14:22:37+00:00",
-      "summary": "Doctors explain what really happens when you stop taking Ozempic and other GLP-1 drugs&nbsp;&nbsp;Yahoo HealthLife after the shot: Weighing in when you stop obesity injections&nbsp;&nbsp;The Daniel Island News",
+      "summary": "Doctors explain what really happens when you stop taking Ozempic and other GLP-1 drugs&nbsp;&nbsp;Yahoo HealthPost-cessation Weight Regain After Weight Management Medications: A Systematic Review and Meta-Analysis&nbsp;&nbsp;CureusLife after the shot: Weighing in when you stop obesity injections&nbsp;&nbsp;The Daniel Island News",
       "sources": [
         {
           "name": "Yahoo Health",
@@ -249,7 +261,7 @@
       "id": "53ac8d53cd6d",
       "title": "Alcohol is one of the most dangerous drugs, yet its presence is ubiquitous in social settings and celebrations - The Conversation",
       "published": "2026-07-02T12:48:08+00:00",
-      "summary": "Alcohol is one of the most dangerous drugs, yet its presence is ubiquitous in social settings and celebrations&nbsp;&nbsp;The ConversationAlcohol’s Health Myth Is Over. How to Tell Patients&nbsp;&nbsp;MedscapeA New Lancet Study Reveals That Even One Drink Could Cause Cancer | Vantage on Firstpost&nbsp;&nbsp;FirstpostInternational Alcohol Control Online Symposium Held: Focusing on Global and Low- and Middle-Income Country Response Strategies&nbsp;&nbsp;Yahoo FinanceInternational Alcohol Control O",
+      "summary": "Alcohol is one of the most dangerous drugs, yet its presence is ubiquitous in social settings and celebrations&nbsp;&nbsp;The ConversationAlcohol’s Health Myth Is Over. How to Tell Patients&nbsp;&nbsp;MedscapeContributor: Alcohol should be stigmatized like smoking&nbsp;&nbsp;Los Angeles TimesNo safe level of alcohol? Major study links even moderate drinking to higher cancer risk&nbsp;&nbsp;FirstpostInternational Alcohol Control Online Symposium Held: Focusing on Global and Low- and Middle-Income",
       "sources": [
         {
           "name": "The Conversation",
@@ -258,14 +270,62 @@
       ]
     },
     {
+      "id": "b8c2da6616a4",
+      "title": "Why Do Humans Have Grey Hair? A Biologist Explains What’s Happening - Forbes",
+      "published": "2026-07-02T12:00:12+00:00",
+      "summary": "Why Do Humans Have Grey Hair? A Biologist Explains What’s Happening&nbsp;&nbsp;ForbesHow to delay grey hair naturally: 5 science-backed hacks&nbsp;&nbsp;Indulge ExpressGrey hair in your 20s, poor memory in your 30s? Neurologists explain whether chronic stress is making you age faster&nbsp;&nbsp;Hindustan Times'Why am I seeing grey hair in my 20s?' Expert explains the real causes of premature greying&nbsp;&nbsp;TheHealthSite",
+      "sources": [
+        {
+          "name": "Forbes",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbnZxc0JwYVJvbUVYODg1RzFTSEs3NzJSWjZqekZJUVl5ckk1S3F3aVljYWE3N3dCVGhZRGtscmc3VW9RNGZBbDZnUVZ1M19XcnBpMktEZ3AteXZBcVZkb2hGYWY3dDctZTNxY1NhNkZETDdNZWk2cVRudFo1b2hUc1hDendDR3l3bEs1Nl9zQXFpRGIzeF9LR2JlZXhZa19UQktuVDJoVDlnRVEwaGI4QWt6YmZRNXNxd2dn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "75cf5c138bc6",
+      "title": "5 of America's greatest medical breakthroughs revealed as the nation marks 250 years - Fox News",
+      "published": "2026-07-02T11:00:47+00:00",
+      "summary": "5 of America's greatest medical breakthroughs revealed as the nation marks 250 years&nbsp;&nbsp;Fox NewsHonoring the Unwavering Spirit of Our Nation, Hospitals and Caregivers&nbsp;&nbsp;American Hospital AssociationMedical care in the 13 colonies before the American Revolution&nbsp;&nbsp;West Virginia Press AssociationUNMC highlights 250 years of America’s independence&nbsp;&nbsp;University of Nebraska Medical CenterU.S. health care at 250; fireworks sent 13,000 to the ED; few know hot dogs' ris",
+      "sources": [
+        {
+          "name": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdHJ3NTgweUYyU2JTSFhzVkozMGZXUnZZeFdlNEE4OElDV0p2dlFoR0YwLV9CX1g2QUszWi1qbmVScWN0Y0JOajByVFltUnlWQ1NvQjdRRXQ1eHFZRHVIMjE3bjFYRXROZFpvMUQtUTlDWWpnWWljR2hhUVBTSUFqd2JyT0JGb0lZeXIzeGlNR05yMnF5T0RFTkhCVWUzdVRXM2pHdDNlWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b6bbeac8c9c6",
+      "title": "Another Thing for Millennial Women to Stress Over - The Cut",
+      "published": "2026-07-02T11:00:23+00:00",
+      "summary": "Another Thing for Millennial Women to Stress Over&nbsp;&nbsp;The CutDoctor urges shingles vaccine for elderly; expert explains blood sugar link&nbsp;&nbsp;The Indian Express",
+      "sources": [
+        {
+          "name": "The Cut",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tYm5WM2R4eW0zSGZfV2NrUlREY2Q1MTNMdzlVVVF0SWJTSWRqbTBrSGJIbWY1UEhjRUpOVVNxaGg5M2ZqN3RiODRPZjh3S0VyYWVhYWxsWnB3WkdiUDZLMWNRVFhxQ3UybUF4VVJn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e8ff772fd544",
       "title": "‘Super movers’ have half the risk of brain decline in old age — even if their brains show signs of dementia - New York Post",
       "published": "2026-07-02T10:28:00+00:00",
-      "summary": "‘Super movers’ have half the risk of brain decline in old age — even if their brains show signs of dementia&nbsp;&nbsp;New York Post",
+      "summary": "‘Super movers’ have half the risk of brain decline in old age — even if their brains show signs of dementia&nbsp;&nbsp;New York PostSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "New York Post",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRktIaV8wTjREZmtmZzN3Zkx4c2wyRmVnLWZOMV9ONFk5M0JHd2tnVmx1S3FJZjNrOE4tTzdRUVBYcXZ2U0RrT3ZmUGZ3Nmt6bmVjNEtNN1ZsNXI3UzZJc0RTLU9TN1F3TWR1Zm1OM0dKTm1SZ2ZOMzBpTzNYd2dQU3U5YkZKZ3VmWGxNbzlxaXhBekxi?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "82e6e6b3ef4a",
+      "title": "Ancient DNA reveals malaria killed the Medici brothers, not poison - Archaeology News Online Magazine",
+      "published": "2026-07-02T09:44:38+00:00",
+      "summary": "Ancient DNA reveals malaria killed the Medici brothers, not poison&nbsp;&nbsp;Archaeology News Online MagazineAncient-DNA analysis solves 500-year-old mystery of what killed 2 Medici brothers&nbsp;&nbsp;Live ScienceMedici brothers’ murder mystery solved as new research rules out poison theory&nbsp;&nbsp;New York PostMedici brothers' remains reveal Renaissance-era malaria strains, closing the book on a murder mystery&nbsp;&nbsp;Phys.orgNews - Malaria-Causing Protozoa Detected in Medici Remains&nb",
+      "sources": [
+        {
+          "name": "Archaeology News Online Magazine",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanVnalV1R25RYnBndXVIdUdMRXJ4ZlBMZTlmOGY0aUgtQTN2QXBLbmNUWkpuUm9VZGdLRUhtZGRyQll0MWk3S2UyVXgxQ1BWYm5oT1dWanJTRDZZRlpUcE1WS1IxOXhES01SQUdObEtCa0ZEYi1tcVVZWnFSVFIta08yNlNHTEpT?oc=5"
         }
       ]
     },
@@ -297,7 +357,7 @@
       "id": "8270f0becd98",
       "title": "On the front line of Congo’s Ebola outbreak - Al Jazeera",
       "published": "2026-07-02T06:22:37+00:00",
-      "summary": "On the front line of Congo’s Ebola outbreak&nbsp;&nbsp;Al Jazeera'It takes a lot of courage': DR Congo health workers battle Ebola&nbsp;&nbsp;NPREbola Outbreak, DRC and Region, Situation Report #9, July 1, 2026&nbsp;&nbsp;ReliefWebAmid Ebola Outbreak, Congo Pastors Pray and Fight Misinformation&nbsp;&nbsp;Christianity TodayStories from the epicenter of the Ebola outbreak&nbsp;&nbsp;AP News",
+      "summary": "On the front line of Congo’s Ebola outbreak&nbsp;&nbsp;Al Jazeera'It takes a lot of courage': DR Congo health workers battle Ebola&nbsp;&nbsp;NPRDR Congo Ebola outbreak tops 400 deaths as virus reaches major city&nbsp;&nbsp;Le Monde.frA Risky Burial in the Heart of an Ebola Outbreak&nbsp;&nbsp;The New York TimesEbola Outbreak, DRC and Region, Situation Report #9, July 1, 2026&nbsp;&nbsp;ReliefWeb",
       "sources": [
         {
           "name": "Al Jazeera",
@@ -314,18 +374,6 @@
         {
           "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0OUk2azVsd3E2NVk0ak5RSzJ1dWFWM3FVbUg5MUZwZ2d5dTFENVV0QWNsTkxaNVJublFsSldIUzhYWFFwa2ZMaDQ1anpXUjFYUTlfazFYZmRzUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "da2c5ec64dec",
-      "title": "These longevity exercises are going viral—and why a physical therapist recommends them for stability and fall prevention - Fit&Well",
-      "published": "2026-07-02T05:06:41+00:00",
-      "summary": "These longevity exercises are going viral—and why a physical therapist recommends them for stability and fall prevention&nbsp;&nbsp;Fit&amp;WellFour Minutes a Day May Be All It Takes to Build Strength After 65&nbsp;&nbsp;Katie Couric MediaLet's Talk: Strength, balance and preventing falls getting older&nbsp;&nbsp;Age UKFour-minute daily exercise boosts strength and mobility in older adults&nbsp;&nbsp;Yahoo HealthForget 'No Pain, No Gain.' After 50, Exercise Has a New Goal&nbsp;&nbsp;U.S. News - ",
-      "sources": [
-        {
-          "name": "Fit&Well",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNzNQRHhFeHMtSVBUb0RLMzE1b2tLV3FNdjRjSGp2LWlLQ0pRaHZRZDJtMlJaaVl1Sy1ZX19kUmFLQlVuWVJpU1FTaGRRZnl0R2FBMnp6WHFzUUhPRFFYbXNYbWRaQ3J3U1A0dVpYa0ZTcFJIOE8xOU91aHBKTTh5Sm1rcm9RMGpiNHloRng2Y3QxSXBWbUVReTdKQ3dkSDcxREdsQWVSTV9zeTNlWU1FaExxSGEwWkVaLThrRC1FbmpNYi1Ma05fdHdldFBXZk5oS2F0NXBTUEdYWFNzLVQ4TE1ZdkFhZVJaLTZ3RTRTZ0ZpM0FtTTdiZ2M0b2RNTEk?oc=5"
         }
       ]
     },
@@ -378,18 +426,6 @@
       ]
     },
     {
-      "id": "5a4c6c2422bc",
-      "title": "West Nile virus detected in mosquitoes from these 8 Orange County cities - KTLA",
-      "published": "2026-07-01T23:15:52+00:00",
-      "summary": "West Nile virus detected in mosquitoes from these 8 Orange County cities&nbsp;&nbsp;KTLAFirst human case of West Nile detected in Sacramento County, health officials say&nbsp;&nbsp;Sacramento BeeInland Empire city latest in SoCal to detect West Nile virus in mosquito samples&nbsp;&nbsp;KTLAHealth officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach&nbsp;&nbsp;Los Angeles TimesWest Nile found in mosquitoes in Costa Mesa and Westminster&nbsp;&nbsp;NBC Los Angele",
-      "sources": [
-        {
-          "name": "KTLA",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUjU3YTA5a3lYY19XUWNsZW0xN0dOSWppM2t4ZTFla2ZFYXNZb2I3UmFoYUR5VkRpbjBSTDJUbFFUc2hiOHFnU3FXOHFDT1FZZUFLUHJEbWIyYTJPOEVzNjFPRFpFczc0NENzUHdYNUFMM2xvZUNBSzluXzdMb1h0YnRrVzFtUjVldWlZ0gGQAUFVX3lxTFBYaUxSQWN0UmpLaDdhY1hKTks4R0xNcjA5cWhIVU9MTWdZdjZEaXFITy12UnUzU25aSTRyd2RaRmZCQzZqWEM3eEh0XzJfaGdVVF8tbFI0TlZESEF2TDRQNFJmQ1UxSmwyS3lUT3lrTG1sSHJyUFp1U2ZaSUxrRnFXYVhtRmNMM2VDb2VMVTRuVg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "583a1cc5ebcb",
       "title": "Dual tumour–myeloid targeting of glioblastoma with GPNMB CAR-T cells - Nature",
       "published": "2026-07-01T23:01:17+00:00",
@@ -417,7 +453,7 @@
       "id": "a8d206ddbac1",
       "title": "Steatosis shapes prognosis-defining liver metastasis heterogeneity in CRC - Nature",
       "published": "2026-07-01T22:49:04+00:00",
-      "summary": "Steatosis shapes prognosis-defining liver metastasis heterogeneity in CRC&nbsp;&nbsp;NatureFatty liver drives a more dangerous form of colorectal cancer spread, study reveals&nbsp;&nbsp;Medical XpressSteatosis Drives Liver Metastasis Diversity in CRC&nbsp;&nbsp;Bioengineer.orgFatty Liver Accelerates Aggressive Cancer Metastasis&nbsp;&nbsp;Bioengineer.org",
+      "summary": "Steatosis shapes prognosis-defining liver metastasis heterogeneity in CRC&nbsp;&nbsp;NatureFatty Liver Can Fuel the Most Aggressive Form of Metastatic Colorectal Cancer&nbsp;&nbsp;Technology NetworksSteatosis Drives Liver Metastasis Diversity in CRC&nbsp;&nbsp;Bioengineer.orgFatty Liver Accelerates Aggressive Cancer Metastasis&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
           "name": "Nature",
@@ -438,30 +474,6 @@
       ]
     },
     {
-      "id": "4cb52da22b3f",
-      "title": "What’s really in a hotdog? Nutrition experts explain - The Guardian",
-      "published": "2026-07-01T20:56:00+00:00",
-      "summary": "What’s really in a hotdog? Nutrition experts explain&nbsp;&nbsp;The GuardianThe surprising history behind America's longest running hot dog stand&nbsp;&nbsp;National GeographicAmericans love hot dogs, but here's why it's best to consume them on occasion&nbsp;&nbsp;PhillyVoiceFourth of July warning: 9 out of 10 Americans are unaware of hot dog health risks&nbsp;&nbsp;The Brighter Side of NewsAmerican Objects The Hot Dog&nbsp;&nbsp;The Lufkin Daily News",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNVQ5V0c1c0ZFeTdQOGQzakNpSFQycWNQNHY2djFJb08yT3BjUmJPaGNmQUkzb2xlTmY4X0pKSFpGSGJTdFg4RkNSSnpZWVI2cExYM2JwakV0ZGJ0SlZsVG0tXzEyT1pibFl3QW02d3ZsZXJoeGhneGlTOU83VHFQMnNXbk9ZcF9K?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dc21d72e3111",
-      "title": "Ancient-DNA analysis solves 500-year-old mystery of what killed 2 Medici brothers - Live Science",
-      "published": "2026-07-01T20:50:26+00:00",
-      "summary": "Ancient-DNA analysis solves 500-year-old mystery of what killed 2 Medici brothers&nbsp;&nbsp;Live ScienceMedici brothers’ murder mystery solved as new research rules out poison theory&nbsp;&nbsp;New York PostMedici brothers' remains reveal Renaissance-era malaria strains, closing the book on a murder mystery&nbsp;&nbsp;Phys.orgNews - Malaria-Causing Protozoa Detected in Medici Remains&nbsp;&nbsp;Archaeology MagazineScientists finally know how Italy’s Renaissance-era Medici brothers died&nbsp;&nb",
-      "sources": [
-        {
-          "name": "Live Science",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMTlSNXdPemwzTkFvOUpaNEtUMHFnU1I3b1R4M19ZVmtweTluaHhhUDc4Mk9LMVFBcUkteVpBNzA5bUQ2bG40QUNVSDc5QlJPbjVUcWpra1ZZc040N240RnlIM1F3M3B6NFE2LUt6Q0Z0OU9QWVhrV1BYeVNYbUlac054NnFjX1hBT2NhY09xUk14V2R0eHlpTjVka2FmcGRqc3F3Mlh5OV9kakVRMXBPd3p6eEJKcy1SQk51TDdR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6c4763b7ed6e",
       "title": "Company Plans to Drop 600,000 Bacteria-Infected Mosquitoes into DC This Summer - Gizmodo",
       "published": "2026-07-01T20:25:29+00:00",
@@ -477,7 +489,7 @@
       "id": "d56444a4d72c",
       "title": "West Nile virus detected in southern state as health officials warn residents about mosquitoes - Fox News",
       "published": "2026-07-01T20:06:15+00:00",
-      "summary": "West Nile virus detected in southern state as health officials warn residents about mosquitoes&nbsp;&nbsp;Fox NewsWest Nile Virus detected in Davidson County for the first time in 2026&nbsp;&nbsp;WKRN News 2Mississippi confirms first human West Nile virus case of the year in Hancock County&nbsp;&nbsp;WLOXDelta In a Minute 7-2&nbsp;&nbsp;deltanews.tvWest Nile virus detected in Nashville mosquitoes for first time in 2026&nbsp;&nbsp;News Channel 5 Nashville",
+      "summary": "West Nile virus detected in southern state as health officials warn residents about mosquitoes&nbsp;&nbsp;Fox NewsWest Nile Virus detected in Davidson County for the first time in 2026&nbsp;&nbsp;WKRN News 2Mississippi confirms first human West Nile virus case of the year in Hancock County&nbsp;&nbsp;WLOXDelta In a Minute 7-2&nbsp;&nbsp;deltanews.tvHealth professionals offer tips on preventing exposure to West Nile Virus&nbsp;&nbsp;WDAM-TV",
       "sources": [
         {
           "name": "Fox News",
@@ -501,23 +513,11 @@
       "id": "4909a846816c",
       "title": "New Review Finds Creatine Shows Promise for Depression With Major Caveats - ZME Science",
       "published": "2026-07-01T19:07:22+00:00",
-      "summary": "New Review Finds Creatine Shows Promise for Depression With Major Caveats&nbsp;&nbsp;ZME ScienceCreatine for Depression: Study Shows Promising Results for Symptoms&nbsp;&nbsp;HealthlineScientists say creatine may help fight depression&nbsp;&nbsp;ScienceDailyThe 13p-a-day supp to turbocharge weight loss and beat brain fog & depression&nbsp;&nbsp;The SunCan creatine treat depression? Review reveals mixed findings&nbsp;&nbsp;Nutrition Insight",
+      "summary": "New Review Finds Creatine Shows Promise for Depression With Major Caveats&nbsp;&nbsp;ZME ScienceCreatine for Depression: Study Shows Promising Results for Symptoms&nbsp;&nbsp;HealthlineScientists say creatine may help fight depression&nbsp;&nbsp;ScienceDailyThe 13p-a-day supp to turbocharge weight loss and beat brain fog & depression&nbsp;&nbsp;The SunCreatine May Have Mental Health Benefits&nbsp;&nbsp;Labroots",
       "sources": [
         {
           "name": "ZME Science",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNTJ6bldZTXFRZ3BqUmM5WkRnUWNvbG8xY0NBT3VyQmRMWVQxQjRIQ3V6dTJRY21CeXIxMmNHZ29zSnBnMnNQUWE5RWpDTW9xUG8xX1FySEZmbV8yY2N1dzlidGI1czJKRk42Qm5obXNmTFRtMGo0UTBRbjd0bTZrNGl5WHBxTFVkbVVsODliUTdPeXQzNFFNTFlCc0JBdEtsSTJPV2dieXlMSExZSkh0a1QtaTF0UUZIdXhOTThfNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "acbb1e821ea8",
-      "title": "Heat wave warning: Common medications that can increase your risk of heat illness - ClickOnDetroit | WDIV Local 4",
-      "published": "2026-07-01T19:00:27+00:00",
-      "summary": "Heat wave warning: Common medications that can increase your risk of heat illness&nbsp;&nbsp;ClickOnDetroit | WDIV Local 4Dangerous heat, medications: How hot weather impacts you if taking Selective Serotonin Reuptake Inhibitors, SSRIs&nbsp;&nbsp;ABC11 NewsSSRIs and heat: what antidepressants do to your body in extreme temperatures&nbsp;&nbsp;WAFBPharmacist warns of heat risks for people on common medications&nbsp;&nbsp;KCCIMHRA Issues Advice on Protecting Diabetes Medication in Extreme Heat&nbs",
-      "sources": [
-        {
-          "name": "ClickOnDetroit | WDIV Local 4",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMFNHNVdaem4wQW1rRDYxVEdiVHBjZl9QMVNmRlZnNTdPMUVGWFVqSXZQcDFOeU03ampIcVYxRDZWdnF2cFk3VDdEeXlhaWdSQTU0X3QyTnFERmlPNTNla2JkaHItb1E1UW9Hc1Z5NHFZS205bTFqcjNMVEdaVXV2Mi04RExCbXJ4Z2FiNG9oNWtPU1dHQkc3ckI4MWpGZl80TXdVcWhXWW9fcmUwYjJST0xvd243Q3QwSlQ0Y0k3UnZPdnlXUnlxMzlvMjhFVkE?oc=5"
         }
       ]
     },
@@ -530,18 +530,6 @@
         {
           "name": "Space Daily",
           "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNdDE3RHVta3NwNUl5ZkVuXzNRa21YNEhkcnhpRFpKTFFMdXNsT2ZaYWJjVnphLXdMZ255VUstNnJUcXFXMzRBVzhxemNENGFhN1daTDdKTnZtVURCYjQydW5EV3duRXd3VHVDRHZ0bGQyLXp5MWxCNFM5QUdYOVZkOE94aWxnX21yZ1BzUGIzV3doV2tfTU5TNy01eWlpcGgtRUhubEJwSHlaY3NuaC1kS3N2bm1sQ1gyRFVNaXBSNFlLV3JiZ09PdEtubDZDOTZpcHowNmZGbEZqT2F6SjBfMkM0WHdscjFpa1oyV1lubWhLa2dFQmdqRVJFcUVWcURFU2oxbmpyWjVBZ2xGOWxFMHNpQ2hyVTJVbHMzdUwtaGFFaTB5?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f6128aace7dc",
-      "title": "Genome-wide association studies of infant and toddler temperament in European and multi-ancestry populations - Nature",
-      "published": "2026-07-01T18:26:50+00:00",
-      "summary": "Genome-wide association studies of infant and toddler temperament in European and multi-ancestry populations&nbsp;&nbsp;NatureGenetic markers for ADHD influence early toddler activity levels&nbsp;&nbsp;News-MedicalToddler Temperament Is Genetic—And Linked to ADHD and Autism&nbsp;&nbsp;Technology NetworksGenetic differences affecting infant's activity also associated with ADHD, study finds&nbsp;&nbsp;ET HealthWorld",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5djRIWWJlVEN5cnpNeTlmYWxPSUlFVUdhMFVEUEp4Tm0wZXloMWR0SDF0SW5Mel9Sa3k4Z3hPS0dGQWNvdnJGWGgzSlVjYTZyVm8wRkNzTUUtN3hwWnFR?oc=5"
         }
       ]
     },
@@ -561,7 +549,7 @@
       "id": "3018037a0e0e",
       "title": "The growing number of satellites in orbit could soon make telescopes obsolete. 'For astronomy, this would obviously be catastrophic' - Space",
       "published": "2026-07-01T16:56:49+00:00",
-      "summary": "The growing number of satellites in orbit could soon make telescopes obsolete. 'For astronomy, this would obviously be catastrophic'&nbsp;&nbsp;Space\"Beyond the limit\": one million satellites and mirrors in space pose grave threat to the night sky&nbsp;&nbsp;ESO.org“Basically, It Kills The Telescopes” - Satellite Proposals Could Spell Doom For Astronomy And The Night Sky&nbsp;&nbsp;IFLScienceESO Study Finds That No More Than 100,000 Satellites Should Orbit Earth&nbsp;&nbsp;GizmodoPlanned 1.7 mil",
+      "summary": "The growing number of satellites in orbit could soon make telescopes obsolete. 'For astronomy, this would obviously be catastrophic'&nbsp;&nbsp;Space\"Beyond the limit\": one million satellites and mirrors in space pose grave threat to the night sky&nbsp;&nbsp;ESO.org“Basically, It Kills The Telescopes” - Satellite Proposals Could Spell Doom For Astronomy And The Night Sky&nbsp;&nbsp;IFLScienceESO Study Finds That No More Than 100,000 Satellites Should Orbit Earth&nbsp;&nbsp;Gizmodo1.7 Million Sat",
       "sources": [
         {
           "name": "Space",
@@ -582,22 +570,10 @@
       ]
     },
     {
-      "id": "ef65d7cba4f1",
-      "title": "‘The silence was the worst part’: after culling his entire flock, US poultry farmer now fears bird flu - The Guardian",
-      "published": "2026-07-01T16:31:00+00:00",
-      "summary": "‘The silence was the worst part’: after culling his entire flock, US poultry farmer now fears bird flu&nbsp;&nbsp;The GuardianWill bird flu become the next pandemic? What comes next for backyard flocks and the people near them&nbsp;&nbsp;Miami HeraldBackyard chicken owners are starting to worry about the quiet return of the avian influenza. Here’s why&nbsp;&nbsp;Yahoo HealthH9N2, H5N1, and H5N2 Are All Being Monitored for Human Risk — Here Is the Honest State of Avian Flu in 2026&nbsp;&nbsp;Medi",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EVXdPMUJPZWd2cUZfMFJhWnA2allobENuTXJaeXlXdUpWMFg0a2FjNHNvd3B2eUpUbjd1ZVFrWWRBQm92YUVtdG5XYTk4SHFuRnNtNVRJNndPbDFOT09adXJzdUUyRmNfd1BEVzZLN21tbFdydDQ0dg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "78bc71ee1f5e",
       "title": "Common Sleep Supplement May Also Ease Chronic Musculoskeletal Pain, Study Suggests - Sci.News",
       "published": "2026-07-01T16:27:38+00:00",
-      "summary": "Common Sleep Supplement May Also Ease Chronic Musculoskeletal Pain, Study Suggests&nbsp;&nbsp;Sci.NewsMelatonin: Popular Sleep Aid May Also Help Relieve Chronic Pain&nbsp;&nbsp;HealthlineThe over-the-counter sleep aid that could fight pain and inflammation&nbsp;&nbsp;AFRMelatonin may safely reduce chronic musculoskeletal pain, study finds&nbsp;&nbsp;News-MedicalMelatonin may be more than a sleep aid; it also may help relieve chronic pain&nbsp;&nbsp;PhillyVoice",
+      "summary": "Common Sleep Supplement May Also Ease Chronic Musculoskeletal Pain, Study Suggests&nbsp;&nbsp;Sci.NewsMelatonin: Popular Sleep Aid May Also Help Relieve Chronic Pain&nbsp;&nbsp;HealthlineThe over-the-counter sleep aid that could fight pain and inflammation&nbsp;&nbsp;AFRMelatonin may be more than a sleep aid; it also may help relieve chronic pain&nbsp;&nbsp;PhillyVoiceMelatonin May Reduce Musculoskeletal Pain and Improve Sleep&nbsp;&nbsp;Pharmacy Times",
       "sources": [
         {
           "name": "Sci.News",
@@ -633,7 +609,7 @@
       "id": "58f2404ff289",
       "title": "6-year-old girl bitten by rabid bat while playing outside her Wisconsin home, family says - NBC News",
       "published": "2026-07-01T15:17:00+00:00",
-      "summary": "6-year-old girl bitten by rabid bat while playing outside her Wisconsin home, family says&nbsp;&nbsp;NBC News6-year-old Shawano County girl bit by bat with rabies, getting vaccine&nbsp;&nbsp;Milwaukee Journal Sentinel6-Year-Old Girl Bitten by Rabid Bat While Climbing Tree Outside Her Family’s Wisconsin Home&nbsp;&nbsp;YahooAmerican Girl, 6, Bitten by Rabid Bat&nbsp;&nbsp;thedailybeast.comBenton County reports first rabies case of the year in infected bat&nbsp;&nbsp;OregonLive.com",
+      "summary": "6-year-old girl bitten by rabid bat while playing outside her Wisconsin home, family says&nbsp;&nbsp;NBC News6-year-old Shawano County girl bit by bat with rabies, getting vaccine&nbsp;&nbsp;Milwaukee Journal Sentinel6-Year-Old Girl Bitten by Rabid Bat While Climbing Tree Outside Her Family’s Wisconsin Home&nbsp;&nbsp;YahooBenton County reports first rabies case of the year in infected bat&nbsp;&nbsp;OregonLive.comAmerican Girl, 6, Bitten by Rabid Bat&nbsp;&nbsp;The Daily Beast",
       "sources": [
         {
           "name": "NBC News",
@@ -657,7 +633,7 @@
       "id": "e80f1fe53f8d",
       "title": "Megalodon’s legendary life revealed by fossil rediscovery - The Conversation",
       "published": "2026-07-01T14:10:04+00:00",
-      "summary": "Megalodon’s legendary life revealed by fossil rediscovery&nbsp;&nbsp;The ConversationMegalodon's Terrifying True Size Confirmed By Rediscovered Fossil&nbsp;&nbsp;ScienceAlertHow Big Was Megalodon? Salvaged Shark Fossil Solidifies 80-Foot Monster&nbsp;&nbsp;SURFER MagazineMegalodon fossil confirms true size of massive shark&nbsp;&nbsp;The IndependentA Long-Lost Megalodon Fossil Found, The Strange Minds That May Exist in the Universe, and a Blood Test That Could Detect Over 50 Types of Cancer&nbsp",
+      "summary": "Megalodon’s legendary life revealed by fossil rediscovery&nbsp;&nbsp;The ConversationMegalodon's Terrifying True Size Confirmed By Rediscovered Fossil&nbsp;&nbsp;ScienceAlertHow Big Could Megalodon Really Get? Rediscovered Fossils Reopen The Debate&nbsp;&nbsp;ForbesMegalodon fossil confirms true size of massive shark&nbsp;&nbsp;The IndependentHow Big Was Megalodon? Salvaged Shark Fossil Solidifies 80-Foot Monster&nbsp;&nbsp;SURFER Magazine",
       "sources": [
         {
           "name": "The Conversation",
@@ -678,14 +654,14 @@
       ]
     },
     {
-      "id": "66c7ff7705a4",
-      "title": "Study suggests life on Earth has around 1.8 billion years left — but the biosphere might evolve to survive even longer - Live Science",
+      "id": "53ebd3ede0db",
+      "title": "Study suggests life on Earth has around 1.8 billion years left — but the biosphere might evolve to survive... - Yahoo",
       "published": "2026-07-01T13:55:14+00:00",
-      "summary": "Study suggests life on Earth has around 1.8 billion years left — but the biosphere might evolve to survive even longer&nbsp;&nbsp;Live ScienceStudy predicts when the last plants on Earth will die&nbsp;&nbsp;New AtlasHow long can plants survive on Earth? New model suggests up to 2 billion more years&nbsp;&nbsp;Phys.orgHow Long Will Life on Earth Last? A New Calculation Extends the Timeline to 1.8 Billion Years or More if We Can Modify the Planet’s Orbit&nbsp;&nbsp;La Brújula VerdeMaximum Lifetime",
+      "summary": "Study suggests life on Earth has around 1.8 billion years left — but the biosphere might evolve to survive...&nbsp;&nbsp;YahooStudy suggests life on Earth has around 1.8 billion years left — but the biosphere might evolve to survive even longer&nbsp;&nbsp;Live ScienceStudy predicts when the last plants on Earth will die&nbsp;&nbsp;New AtlasHow long can plants survive on Earth? New model suggests up to 2 billion more years&nbsp;&nbsp;Phys.orgHow Long Will Life on Earth Last? A New Calculation Ext",
       "sources": [
         {
-          "name": "Live Science",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcVAwQXJ6Ym1QZk9VMHBDZHNUaE9ldFRyazQ0MWMwbXAwRnJZRjYyQWJxV2gxaXRWeldsNkxIY1lLY1gxOWNicHRFblpBbGVaMzBkQ0xMcGF0bGp2VXJVejNYWGR2U1p2cVpydzBsalVaYVgzTEtuLXY4bC1EZmhXeHcxQmlSTWJmNnZDM0VROHVTeDVaaUdNOUZTd2puWW9CMFp6QTZB?oc=5"
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTHFFZHFMdHNfWkZNWVdjbzFQZTVfejVOeDY2bXl0Zm16UGtaVFlValBwbjk4ekp5WHozM2NBUG9kUERoUTIzQmtHNHFHbUJyMlBzWndaV09PZThsRnRMYkk4UENoWXRrM1FfT0dFQTVpWF81RENsM1B4UXJQY1NGTXNERmRzeDA3NmFHYmY5MW5rQlhqQ3c?oc=5"
         }
       ]
     },
@@ -714,34 +690,10 @@
       ]
     },
     {
-      "id": "897a679b6ef7",
-      "title": "8 Fruits That Fight Inflammation and Support Gut Health - Vogue",
-      "published": "2026-07-01T12:00:00+00:00",
-      "summary": "8 Fruits That Fight Inflammation and Support Gut Health&nbsp;&nbsp;Vogue9 Fruits Packed With Prebiotics That Support a Healthier Gut&nbsp;&nbsp;TODAY.com6 Anti-Inflammatory Fruits That Help Maintain Gut Health, According to Harvard&nbsp;&nbsp;Vogue Arabia6 anti-inflammatory fruits that support a healthy gut microbiome, according to Harvard&nbsp;&nbsp;Vogue Adria",
-      "sources": [
-        {
-          "name": "Vogue",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91VnUySjdBUzZYMktqcFhwcEt4OWhTTEFnMTdYZTkzcllwQkM2TnYyZTJlNWNpSzBNYnRNS0kyeEM2b2gtaUVEcXo5OUVWSmVORF9xdzNZMEUwNUpZWTBjc3U0SnRjS1lnRE9FSFptdk5NTFNTMEwwa2s2SVB5QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a04163427e6e",
-      "title": "Peptide hype is at an all-time high – I found out the truth - The Independent",
-      "published": "2026-07-01T11:42:00+00:00",
-      "summary": "Peptide hype is at an all-time high – I found out the truth&nbsp;&nbsp;The IndependentPeptides are everywhere in health and beauty, but does the science actually back up the claims?&nbsp;&nbsp;Scripps NewsThe hidden risks of grey-market peptides – why women face greater danger&nbsp;&nbsp;The ConversationPeptides 101: Why gay men are turning to black-market injectables to build muscle&nbsp;&nbsp;out.comPeptides Become The Latest Wellness Trend&nbsp;&nbsp;TheFutureParty",
-      "sources": [
-        {
-          "name": "The Independent",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU04tRVFKY0gxQ1h5UGtFc0RubUVmM2NpTkRaNGdUNDZlZG8tdTZEWUVxYWJoczJ1OGVZdklucGxRZjZBUzl3a2NLUFlPR01qbXFneUxmMEJUckR2UU5McTdTaGZveGxoWXRSSjV4U1AtMlZkUHltek9ndFZXcHNrMEJqdUFOTVl1WjZ0Mi1JTUlMMmppWGw2M0ZQV0pqTEhVd2NGQjRIdjAzTktxa2M0ZkFRZ052cjZRNDlF?oc=5"
-        }
-      ]
-    },
-    {
       "id": "534868c9d2bc",
       "title": "Scientists find no link between Tylenol and autism, again, after Trump warning - Ars Technica",
       "published": "2026-07-01T11:01:38+00:00",
-      "summary": "Scientists find no link between Tylenol and autism, again, after Trump warning&nbsp;&nbsp;Ars TechnicaShould pregnant women worry about taking Tylenol? 20-year sibling-matched study finds no link to autism or ADHD&nbsp;&nbsp;Medical XpressAcetaminophen Cleared of Autism and ADHD Pregnancy Risks&nbsp;&nbsp;Neuroscience NewsPrenatal paracetamol use does not increase child neurodevelopmental risks&nbsp;&nbsp;News-MedicalTrump’s Tylenol Claims Debunked by Study of 700,000 Families&nbsp;&nbsp;Newswee",
+      "summary": "Scientists find no link between Tylenol and autism, again, after Trump warning&nbsp;&nbsp;Ars TechnicaShould pregnant women worry about taking Tylenol? 20-year sibling-matched study finds no link to autism or ADHD&nbsp;&nbsp;Medical XpressAcetaminophen Cleared of Autism and ADHD Pregnancy Risks&nbsp;&nbsp;Neuroscience NewsDoes Paracetamol Cause ADHD, Autism? New JAMA Study Offers A Definite Answer&nbsp;&nbsp;NDTVAcetaminophen in pregnancy shows no link to autism or ADHD, again&nbsp;&nbsp;Science",
       "sources": [
         {
           "name": "Ars Technica",
@@ -758,54 +710,6 @@
         {
           "name": "Good News Network",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRUtJcmhESVEyeF9aSWU3NHA4VEdOVGRfOElKZ3pQNUFLa0ZZVjBxT0Q3TW8tam01cjFUMWNLQTAyVDBpY1UteTI0dWNLZlkyMFIyanBDTHNMMUk1TDR4QTdBYTRoR0dtQUZrbHplSndmdFJ1a2FkeE1CXzFQZkdaYVE4TGpJdFp3b29UZVVzTkF4S3kwT3pFdElVcTkxU3pOTVJkaG5WUHV3RmdJRjloV3FZUm9sSXRSbFluaUxpOVppUFozVkhEMjliZGYxcnVHN2FXQnNXVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dc38ec20429a",
-      "title": "Women with irregular periods should be checked for PMOS, NHS says - The Guardian",
-      "published": "2026-07-01T08:36:00+00:00",
-      "summary": "Women with irregular periods should be checked for PMOS, NHS says&nbsp;&nbsp;The GuardianWomen with PMOS should have yearly NHS checks, says health watchdog&nbsp;&nbsp;BBCLakeway endocrinologist says PCOS rename to PMOS could improve patient care&nbsp;&nbsp;Community ImpactNew draft PMOS guideline recommends annual review and could mean quicker diagnosis&nbsp;&nbsp;Wired-GovPCOS Has a New Name: What the Change to PMOS Means for Women’s Health&nbsp;&nbsp;Lehigh Valley Health Network",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdVE2bUd6c0FKSmVFVmMzNHRNaG1SUHZoWUN5VHV2UWgyX1FEZmNscmd6YW55emJUd1J6TTVKQ2o2TWV4SnJRR3hpVDFHdFB0V294YXY5V3o3NXBVWmh2ME15SUNMSzBUVDFyNUhmV2lFOXRKUlBBR01odkExXzVrbVN0QWs0SXNNWklta1FmMW1MYTRKd2NJYXZiZUNhSjJMbElzUlBUaG84dWJqTjlOdElR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4d8c9c45ed0c",
-      "title": "Are Weight-Loss Drugs Also Longevity Drugs? - The New York Times",
-      "published": "2026-07-01T07:00:00+00:00",
-      "summary": "Are Weight-Loss Drugs Also Longevity Drugs?&nbsp;&nbsp;The New York TimesGLP-1 drugs could slow down ageing in people with HIV, US study says&nbsp;&nbsp;ThePrintCan Ozempic Slow Down Aging? Scientists Identify Surprising New Benefits of Weight-Loss Drugs&nbsp;&nbsp;inc.comCan Ozempic-Like GLP-1 Drugs Slow Aging, Boost Longevity?&nbsp;&nbsp;Health and MeCould Weight Loss Drugs Also Be Longevity Drugs? Here's What New Research Found&nbsp;&nbsp;Yahoo Health",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11WDc1cHBRa3ptdTduS2o5X2tTeGdzMHpHbld1TUxNOFZDdXpvMnltYmwwMWFMU3dWVmpTbjRreDhXMGh4emhlODgxdlhyUHZFQnNlSDRyVzlPUXRGUXdwLTlPbUlpMVlVbnh0TjIyU3JBaHZWY0U5NmJJTU1nQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "13d648630fd0",
-      "title": "Sleep protects complex neural networks from drifting into states of permanent instability - News-Medical",
-      "published": "2026-07-01T06:34:00+00:00",
-      "summary": "Sleep protects complex neural networks from drifting into states of permanent instability&nbsp;&nbsp;News-MedicalA new synthesis recasts sleep as a resilience mechanism for the brain, with lessons for artificial intelligence&nbsp;&nbsp;EurekAlert!Can AI Help Us Sleep Better? New Research Suggests It Can&nbsp;&nbsp;Vera Health",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdm0telVNTUxkMnFNUXBkMFh1c1hZNHZHeEhGX0EzUENxd0t1V0tyaVBLRTNoMlM2UGJYT0NLa1luMXlNTFV1OFl1Ymx3M3pfck42bGZpRVFDNWFyRGJWeHdhT0hxeFVOWTV5aDJjMEFaZm1BdFo4b2pGYW84TUFlTmQ1MXFkdTJxN3F6R19nWEpzSEZzUFlSWmlLY25qcTBwTTByN0NlSXlCZExwVy1RdEZBQ0hIOXBrenU1bDFrbjJLZC1faVI1bEt4aUpVNjh1Q3o4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3fb9f56763c7",
-      "title": "Ovaries Appear to Develop an Incredible Second Role After Menopause - ScienceAlert",
-      "published": "2026-07-01T04:03:53+00:00",
-      "summary": "Ovaries Appear to Develop an Incredible Second Role After Menopause&nbsp;&nbsp;ScienceAlertOvaries Might Take on an Immune Function After Menopause&nbsp;&nbsp;Nautilus | ScienceWhat do ovaries do after menopause? New US study says they make a career shift&nbsp;&nbsp;ThePrintDo ovaries take on a new immunity role after menopause?&nbsp;&nbsp;India TodayThe ovaries may play a 'second role' even after a woman goes through menopause.&nbsp;&nbsp;GIGAZINE",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT2U0N1hlWGU1eVYwNUdZb3ZJYnE5U2QtTy12UThuczFrNi1hVnJkcnNEM2MxYXVTZmNmZmFMVE1XS21nazktdWdDc3dvOEVzc2NiYUhFX3hnblJTcGo5ZXpWSWtDSUpoU081eTJFbzNRMnhfanBBOU1BMDRSZ0IxRV91MFZ0cU03VTZKR1NBc1RacDZzbHBfWlRlOW4?oc=5"
         }
       ]
     }

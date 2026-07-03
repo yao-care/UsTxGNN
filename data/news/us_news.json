@@ -1,15 +1,135 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-07-03T09:22:32.009544+00:00",
-  "total_fetched": 125,
-  "unique_count": 125,
-  "health_related_count": 59,
+  "fetched_at": "2026-07-03T14:12:21.658619+00:00",
+  "total_fetched": 132,
+  "unique_count": 132,
+  "health_related_count": 67,
   "news": [
+    {
+      "id": "8f05751f775d",
+      "title": "What your feet are trying to tell you about your health - The Washington Post",
+      "published": "2026-07-03T13:34:14+00:00",
+      "summary": "What your feet are trying to tell you about your health&nbsp;&nbsp;The Washington Post",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQm96cnBrN1cyZlJ1YkVibUJhNWNkZEE3Mm5qNURfWTQ4azE2Y2JySE42VEpfQ0FaV1lBblBfcGZuVnFGelM5ZU5NUU1hT3BiaWgzcHQ5cEZFRWRrSWppRE84Z1dhdHp4d0RDb1ZvZEpoOVdkdnFrMENycExFX3NwSmJUaGdfU2ZXTW1lbmJjTFdNY3Njd1NwemJwUGgwMlJGRjRVN1o4Nk1yeVJ0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "99c8eae7ce60",
+      "title": "I said yes to an Alzheimer’s blood test. Then I panicked. - The Washington Post",
+      "published": "2026-07-03T13:32:11+00:00",
+      "summary": "I said yes to an Alzheimer’s blood test. Then I panicked.&nbsp;&nbsp;The Washington PostBlood-based circular RNAs for early diagnosis of Alzheimer’s disease&nbsp;&nbsp;NatureA blood protein can flag dementia risk decades before symptoms appear&nbsp;&nbsp;Medical XpressNew ‘SECmere’ blood test could spot Alzheimer’s-related changes sooner&nbsp;&nbsp;Medical News TodayCircular Genomics Unveils Its CircPATH™ Platform Following Landmark Nature Medicine Study Demonstrating Breakthrough Performance in",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObFNSb2hOTXFUeHNzbDlEMmlXQWI3eEtoY1hmUnZ1VkZzTjVvVUloNE1UOE95V01HNHVzUnFpV2lwa2Y5OHkwYjYxemNOZUNYVFJEeDUxd0N2Nlp1MlRZRzBiZzlCZjRiZ2d3V01wWWZZVEt4MkJlUGFuVTBoem1VZnZsZmNkYS15alhvS3dYekNqOXB0OXplWVJIbGpTSUJyamRfdXVn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f3fc137762f5",
+      "title": "The diet that’s proven to lower blood pressure and prevent dementia - AOL.com",
+      "published": "2026-07-03T11:37:27+00:00",
+      "summary": "The diet that’s proven to lower blood pressure and prevent dementia&nbsp;&nbsp;AOL.comSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUkVDdnNwYVZMM2hhTHpjOVhNMTBSeU5lT1NIWEVGVndrbloyZHNNbnFJOGotTzB1REpfRGN6U3lzbVo1NE5aZ3k4VFJMRmlWSzJhLTQ4SmVfUWlMVERlUFlCTUJDUkRjYWhKaGUwZkxka3REanVNR1hzV2xEbUtGWS1R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4a5a016ffd28",
+      "title": "Deadly drug-resistant fungal infections rising in the U.S. - NBC News",
+      "published": "2026-07-03T10:30:40+00:00",
+      "summary": "Deadly drug-resistant fungal infections rising in the U.S.&nbsp;&nbsp;NBC NewsSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOalZYenZiNkl3aUlPZnVodnMydFVNUm82VnJ1MERGeFpnV1YxQW9TRzQ2c1FMTFZ1b19xS21OZl9Rby1OSGVrT04xdlNrMzZhdWVJaW54TUZ1eTkxdmR1a0dIdWRHRmI0alktYnR5SzdpdTBHTndqRVFRYUlZZ0VpOTZ0bkJ4Z3BYZ05IRkdTWU5FRWZFOUFxZ2Ztcmt0QlZSU3F0M2ZRVXc5LXhvWGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f25cd94914fa",
+      "title": "Ebola treatments trial begins in the Democratic Republic of Congo - BBC",
+      "published": "2026-07-03T10:11:14+00:00",
+      "summary": "Ebola treatments trial begins in the Democratic Republic of Congo&nbsp;&nbsp;BBCTrial for Bundibugyo Ebola treatment starts in DRC, WHO says&nbsp;&nbsp;ReutersClinical trial for Ebola therapies begins in DR Congo&nbsp;&nbsp;CIDRAPResearchers launch study on Ebola treatments as Congo outbreak worsens&nbsp;&nbsp;AP NewsPatient enrolment begins in a scientific trial to identify the first effective treatments for Bundibugyo virus disease&nbsp;&nbsp;World Health Organization (WHO)",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EMkwyajNLRTlSMExaaWZvZnBGWGpqZjVMR0FtUE01dnZFUWxmMHc4SzVMRm9ZYnd6Ti1ZdlNNRGpzUVpuZWlFbjFpakg4WTlySUdVQ19HdWx1QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e12c3be948c8",
+      "title": "RFK Jr. has promoted using beef tallow over seed oils but the animal fat may not be healthier, some cardiologists say - ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-07-03T09:38:44+00:00",
+      "summary": "RFK Jr. has promoted using beef tallow over seed oils but the animal fat may not be healthier, some cardiologists say&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosBeef tallow, seed oils, and full-fat dairy: Are any of them heart-healthy?&nbsp;&nbsp;Harvard HealthSeed Oils&nbsp;&nbsp;New Orleans MagazineAre seed oils actually bad for you? Here’s why the anti-UPF trend may have got it wrong&nbsp;&nbsp;Vegan Food & LivingRFK Jr. has promoted beef tallow over seed oils. The animal fat ",
+      "sources": [
+        {
+          "name": "ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZzVIdFo4NVJLdF9oMUFiV3RTeGdYZnZOYlk2T01DNHRwZnhnYWN5N2xFbVVTYWFFb2RBSmdUVTZ5SklpWVRaSDN6ZzJXb3dRaGJQQloyZUZHcFZmYUMwT1JCVVRkRGNGNE51cXFldzZzQjMyWlBFQ0J4cVBJMGtxWC1TdDA4eVBjYThYcWwwNkNNUEFY0gGaAUFVX3lxTFBoRXU4YlBrYWNWWHlrb2RidU02NGdjRWFFQXNNWllhaDc1OTlJUk5ybWxkNWZIVGt5N08tWXlBcXctWUdJaWRIWjZwUUJ2WmhyR05aaXpjNGNZNWprTTNVREk5NkJGT2JEMXBWRlVyUEU3OWRvSTVmSWswWW9CQkpBMEJQdkxHbGlsdlVySWZlVXJYeFlfY3haeUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e249e2c72fea",
+      "title": "News of disease outbreaks can warp our brains in strange and subtle ways - BBC",
+      "published": "2026-07-03T09:01:05+00:00",
+      "summary": "News of disease outbreaks can warp our brains in strange and subtle ways&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTS15Mm9mNDduWVlXWDVyZ2NaQng3OTQ3alFrb2tOTUVNRGNTR0JXQ25sYzBxZlNwSGsxZGJvODdNWTd3Ylk0VHFzZlVZbkFKWTNNdE9KeHNnd2FicVo5bTg1TUhVWW9qcFY5TnQzR3VZUHAwMmY1LUdFOHFhN3Nmbk44NWdfcW1kVXJ5QkJPVHVWZWN5RjdiSGtPVVl0dmM5OGZ0dnRjVkM4WjA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aa5786065a2c",
+      "title": "Early signs of dementia: 4 warning symptoms that may appear before memory loss - The Mirror",
+      "published": "2026-07-03T08:59:00+00:00",
+      "summary": "Early signs of dementia: 4 warning symptoms that may appear before memory loss&nbsp;&nbsp;The MirrorCognitive flexibility problems may arise months before memory impairment in Alzheimer's&nbsp;&nbsp;Medical XpressNatalie Morales Shares Key Signs of Alzheimer’s and Importance of Early Action&nbsp;&nbsp;AOL.comAlzheimer’s Warning Signs Emerge Decades Early&nbsp;&nbsp;Antigua Observer NewspaperWichita neuropsychologist discusses Alzheimer’s warning signs&nbsp;&nbsp;KSN-TV",
+      "sources": [
+        {
+          "name": "The Mirror",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeHAzeDUyYjU0by11VlIyQVdUODRqQmxfNWdWMkN5RnEySXFzdFhfS3RIQTNQdEFtZHZYaDV2U2xUaERIM3l4SHN2NmZDTHJyUDlnTXgwdHVvOVFlN19aUDZzY2NoaDlWSjFVdVJHNzF0R1phLWhPdVQtOHQtMDBoRXp30gGHAUFVX3lxTFBieUpScE95c1lwdVluQ1BIc0FKV1k3WW5OMHQ5eElXbm1tZWVqcUtlaXlGVEZXOXUydmJScUt2TmdLTzA0ODBpZkQ1cUhrWnpNZFUxSDVDRHhIX0ZaSVJUVHhWNVVpLUN5aFRHUkdLWDZWdFZKQmRUcTVDUGdPNlNfRXJHbDJKMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "68f75eb3cb25",
+      "title": "‘Explosive diarrhea parasite’ sickens 170 in Michigan, hospitalizes at least 20 nationwide - NBC News",
+      "published": "2026-07-03T08:04:57+00:00",
+      "summary": "‘Explosive diarrhea parasite’ sickens 170 in Michigan, hospitalizes at least 20 nationwide&nbsp;&nbsp;NBC NewsClusters of Severe Stomach Illness Reported Across the U.S.&nbsp;&nbsp;The New York TimesNFL Legend Dies at 68 After Cancer Battle&nbsp;&nbsp;The Daily Beast‘Explosive’ diarrhea illness reported across US. See map of affected states&nbsp;&nbsp;USA TodayNumber of cases of parasite infection causing diarrhea explode in Ohio&nbsp;&nbsp;The Detroit News",
+      "sources": [
+        {
+          "name": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTXFCQXlZTlNfeXBWVnlKRnZ2RTlJSlJsNmo5aFMzSmZoQWxmZXdtSEZmM3o5V2k0NmJQYnlxcnkydkZoRDRhYXdxQS1FVDZCM1FvS1lXczdTaktEU09GeVhWTVhxcmthbkJ5RkM5XzlFNldYSWZuMy1uby03d1hzaThoZVF2RDU0SGhweWh3S21LNHVGRUJ4NzhVVDBhaklLYmY2aHd1bXpYdk5NTjduM1VYVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "59e4b6d95c70",
+      "title": "Health officials warn beachgoers of flesh-eating bacteria ahead of July 4; What you need to know - AL.com",
+      "published": "2026-07-03T03:16:00+00:00",
+      "summary": "Health officials warn beachgoers of flesh-eating bacteria ahead of July 4; What you need to know&nbsp;&nbsp;AL.comSouth MS man fighting for his life after swimming, fishing in Coast waterways&nbsp;&nbsp;Sun HeraldNew disease threats follow Trump administration's health program cuts&nbsp;&nbsp;CBS NewsDoctors warn swimmers about risk of flesh-eating bacteria in Houston-area beaches, lakes, and ponds&nbsp;&nbsp;Click2HoustonMS Coast man fighting to save his leg contracts flesh-eating bacteria on a",
+      "sources": [
+        {
+          "name": "AL.com",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY2hsY1B5SndXaHlqNVBFdjllTkFlSUNLNmZUb3dlcjhOejhrVkpaWW04aGNRSUVZcFdBdmlkUmlmZVZZR3pYbUF6dWt0NGFnTFlFd1d5YXVRdC1GN3JiREg1b19JbzJHM29kb0pkUUdycGFxR1A1RFdXNWxYelU0UDNQbWdQYmR3b3p1b0RBM0djWnlXUk5ndENpdGtzNEx5VUlBRDg5bmtDQkhBdkI2eWxyRDR6NmpRejh4ZzM2VjBNR1Q5TXNOT3JqR0fSAeABQVVfeXFMUGZDRTFPYVVBZEFYbFBsd0VoM3hjby02MGxkOVM0a0c5Z2dvSUVkRWxHM084NHhkQmdWalptX25rZFhmSGg2NE5kNkt2cERQWHQtX1g4dE9MLUx1V0RsSnlVTjhLZHJldzRhMy00a1ZITXVzYzhTaWNhZVdqbElnS1FZTjNWVTEzaUFSeERMalJQaG1kb2xZYk1zajlNVjFjbldnRmNEbnZQbmpfcmlGU3BnQng4OHRkMVotYzJqRUNfT1M5TVctVDg4LU5wTUk4dWQ5OVRRVXdfeVZQeUI1MnE?oc=5"
+        }
+      ]
+    },
     {
       "id": "9bac2baf832f",
       "title": "Pharmacist warns of heat risks for people on common medications - KCCI",
       "published": "2026-07-03T02:26:00+00:00",
-      "summary": "Pharmacist warns of heat risks for people on common medications&nbsp;&nbsp;KCCIDangerous heat, medications: How hot weather impacts you if taking Selective Serotonin Reuptake Inhibitors, SSRIs&nbsp;&nbsp;ABC11 NewsHeat wave warning: Common medications that can increase your risk of heat illness&nbsp;&nbsp;ClickOnDetroit | WDIV Local 4SSRIs and heat: what antidepressants do to your body in extreme temperatures&nbsp;&nbsp;WAFBMHRA Issues Advice on Protecting Diabetes Medication in Extreme Heat&nbs",
+      "summary": "Pharmacist warns of heat risks for people on common medications&nbsp;&nbsp;KCCIDangerous heat, medications: How hot weather impacts you if taking Selective Serotonin Reuptake Inhibitors, SSRIs&nbsp;&nbsp;ABC11 NewsHeat wave warning: Common medications that can increase your risk of heat illness&nbsp;&nbsp;ClickOnDetroit | WDIV Local 4SSRIs and heat: what antidepressants do to your body in extreme temperatures&nbsp;&nbsp;WAFBDoctors warn of risks of some medications during heatwaves&nbsp;&nbsp;Th",
       "sources": [
         {
           "name": "KCCI",
@@ -21,7 +141,7 @@
       "id": "c4e13b8ce765",
       "title": "Legionnaires’ disease outbreak in 2 NYC neighborhoods puts health officials on high alert - New York Post",
       "published": "2026-07-03T02:18:00+00:00",
-      "summary": "Legionnaires’ disease outbreak in 2 NYC neighborhoods puts health officials on high alert&nbsp;&nbsp;New York PostTwo cases of Legionnaires' disease prompt Upper East Side investigation in New York City&nbsp;&nbsp;ABC7 New YorkLegionella bacteria confirmed in East Village housing complex water supply&nbsp;&nbsp;GothamistHealth officials investigate Legionnaires’ disease cases on the Upper East Side&nbsp;&nbsp;PIX112 Sickened By Legionnaires Disease On The UES, Officials Say&nbsp;&nbsp;Patch",
+      "summary": "Legionnaires’ disease outbreak in 2 NYC neighborhoods puts health officials on high alert&nbsp;&nbsp;New York PostTwo cases of Legionnaires' disease prompt Upper East Side investigation in New York City&nbsp;&nbsp;ABC7 New YorkLegionella bacteria confirmed in East Village housing complex water supply&nbsp;&nbsp;GothamistLegionella Bacteria Found In NYC Apartment Water System&nbsp;&nbsp;PatchHealth officials investigate Legionnaires’ disease cases on the Upper East Side&nbsp;&nbsp;PIX11",
       "sources": [
         {
           "name": "New York Post",
@@ -30,14 +150,14 @@
       ]
     },
     {
-      "id": "b74fc880ea93",
-      "title": "From birth until death: how the ethnicity pain gap follows people through life - The Guardian",
-      "published": "2026-07-03T01:30:00+00:00",
-      "summary": "From birth until death: how the ethnicity pain gap follows people through life&nbsp;&nbsp;The GuardianEthnicity pain gap: the epidural failed and no one believed me – I could feel everything&nbsp;&nbsp;The GuardianRacial Gaps in Cancer Pain Management Persist in Community Care: Ila Sruti, MPH&nbsp;&nbsp;AJMCWomen from minority backgrounds in UK less likely to receive epidurals, research finds&nbsp;&nbsp;The Guardian",
+      "id": "89d98a8473d1",
+      "title": "\"These lethal 20cm thorns cause severe puncture wounds & painful infections.\" The tree that's still armed against monsters last seen 12,000 years ago - BBC Wildlife Magazine",
+      "published": "2026-07-03T01:40:51+00:00",
+      "summary": "\"These lethal 20cm thorns cause severe puncture wounds & painful infections.\" The tree that's still armed against monsters last seen 12,000 years ago&nbsp;&nbsp;BBC Wildlife Magazine",
       "sources": [
         {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSHdKQzBQTXNET09wUF9JSWVNRjZuXzY3SnEzZ3ZMejJfRXRnRWl4Y1RWaDJ4Ynk2NGxnZGctVHE1QnEyQ25feHFLLWdVcmtwZFRaem5WRzM3WjRVTnVaTFB5am9BSWRNQlBkLW03R0hmQ0pOWU1oSGR4Y2pOSUhDZmtMc3hxMl9ha3JKS1U3QjBWMTJhak5oZDhUN3dvSmdqTm5CcjQwZklRb0UyMnZ1UUR5cmRKWldUcG94OEhSUjhyWEU?oc=5"
+          "name": "BBC Wildlife Magazine",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BS29TWXZENlV1T1RGTjZUMXhRd0FmcE4yU1JhTnlDWnF1ZkhKVkF0RGtNRFFnaTk1aEkxdFJrWGd3NDdMUDVtYk13WU9RWlUwZEVpbG1Ud25HSjIyQTdOcEc4dHlMbHpuYmx1V19OOGUxbFdObUdZ?oc=5"
         }
       ]
     },
@@ -45,7 +165,7 @@
       "id": "f02c544568d2",
       "title": "Inland Empire city latest in SoCal to detect West Nile virus in mosquito samples - KTLA",
       "published": "2026-07-03T00:07:32+00:00",
-      "summary": "Inland Empire city latest in SoCal to detect West Nile virus in mosquito samples&nbsp;&nbsp;KTLAFirst human case of West Nile detected in Sacramento County, health officials say&nbsp;&nbsp;Sacramento BeeHealth officials confirm first human case of West Nile virus in Sacramento County this year&nbsp;&nbsp;KCRAWest Nile Mosquito Invasion Off-The-Charts In OC: What To Know&nbsp;&nbsp;PatchHealth officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach&nbsp;&nbsp;Los ",
+      "summary": "Inland Empire city latest in SoCal to detect West Nile virus in mosquito samples&nbsp;&nbsp;KTLAFirst human case of West Nile detected in Sacramento County, health officials say&nbsp;&nbsp;Sacramento BeeHealth officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach&nbsp;&nbsp;Los Angeles TimesWest Nile found in mosquitoes in Costa Mesa and Westminster&nbsp;&nbsp;NBC Los AngelesHealth officials confirm first human case of West Nile virus in Sacramento County this ",
       "sources": [
         {
           "name": "KTLA",
@@ -54,34 +174,10 @@
       ]
     },
     {
-      "id": "6e4057dd08ae",
-      "title": "Doctor: ‘Don’t panic’ as Michigan tracks cyclosporiasis outbreak - WOODTV.com",
-      "published": "2026-07-02T23:49:15+00:00",
-      "summary": "Doctor: ‘Don’t panic’ as Michigan tracks cyclosporiasis outbreak&nbsp;&nbsp;WOODTV.comClusters of Severe Stomach Illness Reported Across the U.S.&nbsp;&nbsp;The New York Times‘Explosive diarrhea parasite’ sickens 170 in Michigan, hospitalizes at least 20 nationwide&nbsp;&nbsp;NBC News‘Explosive’ diarrhea illness reported across US. See map of affected states&nbsp;&nbsp;USA Today'Large and growing' parasitic infection outbreak spreading in Michigan, health officials say&nbsp;&nbsp;ABC News - Brea",
-      "sources": [
-        {
-          "name": "WOODTV.com",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdGl5SXEzYTBVYVJ4a1czSDdtTEVWSkpNS0U2N3pRY2J2T3JrSFdDOUZXejZDby03MWF6anhpRHZDY25sZHhRckI1amtMYl9oRHM3LVR1ejBOWExYd2tYbTE5aVZhakVfdnZGcjJ0YkVPUklmNDdvNC0xRzctQ1VvZHI1TmpyU2x1dUR5enVWV1EybFlLc2tGUjQtZjIxWTVyTW55UtIBqgFBVV95cUxQeWFpU1FzMmN3N1RYdm1KY2s0QURYbTk4el9zLThpSGJrOHpDWTFTX2Nhc1hpaVRRUndsbFhNMURFbGlkckc5WHl2bE8wQXp3eDhZYUpPbHo2a1ZvbGdld1lEQkVMNG5QcnlQclZVdGJiVXRRTVpvY242M1Zuc2xwSzQ3T2htV2lNR19naWtEc0tOejJwM0loVjRJdW9tUk53UXVockdUTkY3Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b6dcdd895641",
-      "title": "11-year-old boy dies of rabies in Canada after waking to find bat on his face in the middle of the night - NBC News",
-      "published": "2026-07-02T23:42:39+00:00",
-      "summary": "11-year-old boy dies of rabies in Canada after waking to find bat on his face in the middle of the night&nbsp;&nbsp;NBC NewsCanadian boy, 11, dies of rabies after waking to bat on his face&nbsp;&nbsp;BBCCanadian boy, 11, died from rabies after waking up with bat on his mouth&nbsp;&nbsp;CNNRabid Animals Are Attacking Children. Why Does Lifesaving Treatment Cost So Much?&nbsp;&nbsp;People.comCanadian boy dies of rabies after waking to find bat on his face&nbsp;&nbsp;The Guardian",
-      "sources": [
-        {
-          "name": "NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMURBY2tuemo4TmlheEdoX0NwQnp3anVmMlo0Q3pFSUNEeHlEM1gyd3JFZXBLaXlFOTc1dGFnUTJ4UlRBYnRRSTM2eGYwRTJvX0pJb1pRTUlOVE1WX3Z4LWpKUS1RajVMdmtTUlFicXNoR3d0ektNdzNVVzNrQXFDMUNxQXJHeDZVOXMtQmtORnEzU2FtWG1EZk16SDZRSkRyLTBIbGVmSll1UUtOYklzb2I3Zw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0a23a0348801",
       "title": "Deadly MV Hondius Hantavirus Outbreak Is Over, W.H.O. Says - The New York Times",
       "published": "2026-07-02T22:25:48+00:00",
-      "summary": "Deadly MV Hondius Hantavirus Outbreak Is Over, W.H.O. Says&nbsp;&nbsp;The New York TimesHantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosWHO declares hantavirus outbreak linked to cruise ship over&nbsp;&nbsp;The GuardianWHO declares cruise-linked hantavirus outbreak officially over&nbsp;&nbsp;Al JazeeraHantavirus Cruise Ship Outbreak Officially Over After 13 Infected, 3 Dead&nbsp;&nbsp;Forbes",
+      "summary": "Deadly MV Hondius Hantavirus Outbreak Is Over, W.H.O. Says&nbsp;&nbsp;The New York TimesHantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosWHO declares hantavirus outbreak linked to cruise ship over&nbsp;&nbsp;The GuardianWHO Director-General's opening remarks at the media briefing – 2 July 2026&nbsp;&nbsp;World Health Organization (WHO)Hantavirus Cruise Ship Outbreak Officially Over After 13 Infe",
       "sources": [
         {
           "name": "The New York Times",
@@ -90,38 +186,26 @@
       ]
     },
     {
+      "id": "fa2db65024fe",
+      "title": "Physicists Discover Superconducting States That Get Stronger Under Conditions Meant to Kill Them - ScienceAlert",
+      "published": "2026-07-02T22:04:16+00:00",
+      "summary": "Physicists Discover Superconducting States That Get Stronger Under Conditions Meant to Kill Them&nbsp;&nbsp;ScienceAlertGraphene can hold multiple states of superconductivity, a new study finds&nbsp;&nbsp;Phys.orgMultiple superconducting states discovered in Graphene&nbsp;&nbsp;Tech Explorist",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX00zY2E2YXdZMER6eTVaLVJ0ZDZXQjJuVTVHM0JZZmtVOThQeHlJUGRrallJMHlBYkFIczRkTTRPTDJMTTlkQ2ZIWjVMVUdOaWNFbTBHR0tkVjZSSUF0cDc4aTVFeWVXbDBlUzlFcE5QN2F1Y01rT2huenpOd0g1ZFNXWEp4eER3cXJrbGNRZjVrUDNoaExzSEd4cV8?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f41725977841",
       "title": "Early, intense West Nile season may signal a severe year for the mosquito-borne illness, CDC says - CNN",
       "published": "2026-07-02T21:41:37+00:00",
-      "summary": "Early, intense West Nile season may signal a severe year for the mosquito-borne illness, CDC says&nbsp;&nbsp;CNNCDC Encourages Americans to Stay Mosquito Bite-Free during America's 250th Independence Day holiday weekend&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)West Nile virus is surging earlier than it has in decades. Here’s how to protect yourself.&nbsp;&nbsp;The Washington PostUS sees earliest start to West Nile virus season and most cases by late June since 2004&nbsp;",
+      "summary": "Early, intense West Nile season may signal a severe year for the mosquito-borne illness, CDC says&nbsp;&nbsp;CNNCDC Encourages Americans to Stay Mosquito Bite-Free during America's 250th Independence Day holiday weekend&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)Record number of West Nile virus cases since 2004, CDC warns ahead of holiday weekend&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosWest Nile virus cases hit 22-year spike. Here’s where activity is hig",
       "sources": [
         {
           "name": "CNN",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSW9jdDNYV0thNnVFV2l2N3ljekM1WGF2UGd1eEV6bmhNR0QtbDdYQWdUZTZySVpUcnJrX3dsQkVDM25QSElQTlZYVTg3cWxtVzlfOG1TMTlmaTN3ZDAyQVlFUnAtbFJiMG0yNXZvZXBvT0RfblZBYjlQdEJTc1lpMQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f25cd94914fa",
-      "title": "Ebola treatments trial begins in the Democratic Republic of Congo - BBC",
-      "published": "2026-07-02T21:21:36+00:00",
-      "summary": "Ebola treatments trial begins in the Democratic Republic of Congo&nbsp;&nbsp;BBCTrial for Bundibugyo Ebola treatment starts in DRC, WHO says&nbsp;&nbsp;ReutersClinical trial for Ebola therapies begins in DR Congo&nbsp;&nbsp;CIDRAPResearchers launch study on Ebola treatments as Congo outbreak worsens&nbsp;&nbsp;AP NewsPatient enrolment begins in a scientific trial to identify the first effective treatments for Bundibugyo virus disease&nbsp;&nbsp;World Health Organization (WHO)",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EMkwyajNLRTlSMExaaWZvZnBGWGpqZjVMR0FtUE01dnZFUWxmMHc4SzVMRm9ZYnd6Ti1ZdlNNRGpzUVpuZWlFbjFpakg4WTlySUdVQ19HdWx1QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "df09fd5d0b0e",
-      "title": "US death rate at record low: CDC data - The Hill",
-      "published": "2026-07-02T20:30:00+00:00",
-      "summary": "US death rate at record low: CDC data&nbsp;&nbsp;The HillUS life expectancy on track to reach record high as death rate falls to record low in 2025&nbsp;&nbsp;CNNA drop in fatal overdoses helps push the U.S. death rate to a record low&nbsp;&nbsp;The Washington PostUS death rate falls to lowest on record — after massive plunges in two major killers&nbsp;&nbsp;New York PostUS provisional mortality rate falls 4.6% in 2025, flu deaths rise&nbsp;&nbsp;Reuters",
-      "sources": [
-        {
-          "name": "The Hill",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSXBpY2Jnb2NkX1FFb2RRMmczbC0xNGlhcVN3RXdnczhEd1NXeVZ1TDFzZWYwcDFmRUJWbDlBRVl0UHlmZ3Jya3NOTUFENkxiOThJWGpodjJIQVg5U25aZ1hzYl9ldjIxQ3h1MW5mNVVDLWJjNVMzZlIyV3lSdlMwcmRB0gGHAUFVX3lxTE9LT0plTXdvNzdHMlNBVUlwSFYyUGx3ZHBpUlRUWE9GVnVZN2FTVGk5Zk5mbmhfQS1fYlpfQnVrUUdvRGxBRlF5TjlWYlRfNEkwUmFrYmN4Unoza3NXVXVMTnpCZUZUV2J4WlpKZjBaOVV5eXp0dkhEaHFmaXQ4N1BrVGFVZWc3aw?oc=5"
         }
       ]
     },
@@ -153,23 +237,11 @@
       "id": "4e4a977c23fb",
       "title": "A Sea Anemone Uses CARDIB to Fight Viruses—and It’s Even More Bizarre Than It Sounds - Gizmodo",
       "published": "2026-07-02T18:30:35+00:00",
-      "summary": "A Sea Anemone Uses CARDIB to Fight Viruses—and It’s Even More Bizarre Than It Sounds&nbsp;&nbsp;GizmodoAn ancient anthozoan protein reveals an alternative evolutionary path of antiviral signalling&nbsp;&nbsp;NatureScientists discover a completely different way to fight viruses&nbsp;&nbsp;ScienceDailyNew Study Debunks Myth of a Universal Antiviral System in Animals&nbsp;&nbsp;inkorr.comSea anemone flips a human antiviral strategy on its head&nbsp;&nbsp;EurekAlert!",
+      "summary": "A Sea Anemone Uses CARDIB to Fight Viruses—and It’s Even More Bizarre Than It Sounds&nbsp;&nbsp;GizmodoScientists discover a completely different way to fight viruses&nbsp;&nbsp;ScienceDailyNew Study Debunks Myth of a Universal Antiviral System in Animals&nbsp;&nbsp;inkorr.com",
       "sources": [
         {
           "name": "Gizmodo",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2lSOWI4WElraXgwVDcwTElIek1EdVFWRmNjY2JqbkdHNTlrS215US1lOS1hajM3b2treWZ6UjRPbU5qS29EUzN2MmNhMmhUa3VrT2RGYk94RHB5NWh3cHNqcjE0N21ZemNKTlJFdmF6YW5NNXhKZWJzeDlWeXNXbUhYZEJtMGkzb2ZtckFDTGQ3dlpzTlJuay1aeWZoYzEzRXY2OFViVUdLUU16RGNzWmtyZmk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7265ed74487d",
-      "title": "Beachgoers warned of flesh-eating bacteria ahead of July 4 - NewsNation",
-      "published": "2026-07-02T17:27:57+00:00",
-      "summary": "Beachgoers warned of flesh-eating bacteria ahead of July 4&nbsp;&nbsp;NewsNationNew disease threats follow Trump administration's health program cuts&nbsp;&nbsp;CBS NewsDoctors warn swimmers about risk of flesh-eating bacteria in Houston-area beaches, lakes, and ponds&nbsp;&nbsp;Click2HoustonMS Coast man fighting to save his leg contracts flesh-eating bacteria on a ‘typical day’ fishing&nbsp;&nbsp;NOLA.comSouth MS man fighting for his life after swimming, fishing in Coast waterways&nbsp;&nbsp;Su",
-      "sources": [
-        {
-          "name": "NewsNation",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVVhVRDI4T09qUl91RGltLUxKZHNnblQ1MnhlVEQ2M1B0ZWZGbUlJSmxvZTJXRDBtTWpQb09OdnE5eTk5TkRPbW83MUtkTHl6VzdQU0JjTm8yVWc1ODZCRmlaRzBDcDd0MUdrLU42QVBscWhMcU4tQW1mLUFFc1lxNE5PX2_SAYoBQVVfeXFMTXpIWFVQd2tEUUhKbUpVc285azYyUUxQUHJCSFJTdjlVQy1GQ0ZNNXo3WTFfT3dISUl2VFRYdU9HUU5sel9XaGNYZTVKSWV2WTIwYVNKVXptWGU1RFhqQXhlZWc5d3E3SzF4M1Y4YTY0YkxEY3dHSDFwU0t5MTB2b3p5V0tnTkpGRGtB?oc=5"
         }
       ]
     },
@@ -186,10 +258,22 @@
       ]
     },
     {
+      "id": "35a30cedc5dd",
+      "title": "Tick season is expected to be worse than normal as ER visits rise in much of the U.S. - CBS News",
+      "published": "2026-07-02T16:34:29+00:00",
+      "summary": "Tick season is expected to be worse than normal as ER visits rise in much of the U.S.&nbsp;&nbsp;CBS NewsYour guide to identifying some of the most common ticks found in the US&nbsp;&nbsp;FOX WeatherTick Season is in Full Swing — Here’s What You Need to Know This Summer&nbsp;&nbsp;Barnstable County (.gov)Tick-borne illnesses on the rise in West Virginia; health officials urge extra precautions&nbsp;&nbsp;WOWK 13 NewsFound a Tick? Here Are the 6 Things You Should Do Next&nbsp;&nbsp;NewYork-Presby",
+      "sources": [
+        {
+          "name": "CBS News",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOemVIZVdjWjRDRU1rRC1VN0RCYVRqb2gtc1JXazVnWWhyUnNEX1h1VnBhS1F2RHNuTXFlWFRDeWdmWlpRNm1KWVlJWXVDMmdvZnFvYWhWY3JfanlmUjBra2l6TUxyTDMzVXVoY3hBNE9tS2FiRm82M1kxS2ZOWHVUeGxxZlA4dU0?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f5be77dcd0ca",
       "title": "Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages - Ars Technica",
       "published": "2026-07-02T16:30:37+00:00",
-      "summary": "Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages&nbsp;&nbsp;Ars TechnicaMarburg outbreak is reported in Uganda, threatening to complicate Ebola response in region&nbsp;&nbsp;STATEbola deaths in Africa top 400 as Uganda reports death of child from Marburg&nbsp;&nbsp;CIDRAPHealth Alert: Health Alert: U.S. Embassy Kampala (June 29, 2026)&nbsp;&nbsp;U.S. Embassy in Uganda (.gov)Africa CDC says Uganda found isolated Marburg case&nbsp;&nbsp;CNBC Africa",
+      "summary": "Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages&nbsp;&nbsp;Ars TechnicaMarburg outbreak is reported in Uganda, threatening to complicate Ebola response in region&nbsp;&nbsp;STATEbola deaths in Africa top 400 as Uganda reports death of child from Marburg&nbsp;&nbsp;CIDRAPHealth Alert: Health Alert: U.S. Embassy Kampala (June 29, 2026)&nbsp;&nbsp;U.S. Embassy in Uganda (.gov)One-year-old dies of Marburg in Uganda&nbsp;&nbsp;The Telegraph",
       "sources": [
         {
           "name": "Ars Technica",
@@ -201,23 +285,11 @@
       "id": "b9dcf5804055",
       "title": "4 surprising (and evidence-based) health benefits of drinking coffee - The Washington Post",
       "published": "2026-07-02T16:00:00+00:00",
-      "summary": "4 surprising (and evidence-based) health benefits of drinking coffee&nbsp;&nbsp;The Washington PostYour daily coffee intake may cut your risk for liver disease&nbsp;&nbsp;CNNCoffee Lovers and Their Livers Can Celebrate, Study Suggests&nbsp;&nbsp;MedPage TodayWanna help your liver out? Keep drinking coffee, seriously&nbsp;&nbsp;The IndependentHot cars, holiday hazards and coffee's surprising liver boost&nbsp;&nbsp;KING5.com",
+      "summary": "4 surprising (and evidence-based) health benefits of drinking coffee&nbsp;&nbsp;The Washington PostYour daily coffee intake may cut your risk for liver disease&nbsp;&nbsp;CNNCoffee Lovers and Their Livers Can Celebrate, Study Suggests&nbsp;&nbsp;MedPage TodayYour morning coffee could be protecting your liver, study says&nbsp;&nbsp;EuronewsCoffee May Offer Significant Liver Health Benefits, Large Study Suggests&nbsp;&nbsp;Everyday Health",
       "sources": [
         {
           "name": "The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdnNCdDdPdmI1QXVTMjB3OUlEUGVDRHdheVVUYjc2SE0xVnVDbHc1WWlmMjd0WjBpeVo5UEFVQXlrc042UXBFMnR4UFBjUTJYcEdRd1FPN0pxQkgwUERTQ245bE5hN1RKaE5iQnlqQ2hxRjVSN1hQZnlsRHNhM2JvNHJjd19SYXIySU9wQmNoQVpTNlBxeU5r?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "36c6e7608f2e",
-      "title": "The 5 Best Canned Foods to Reduce Your Risk of Colorectal Cancer, Recommended by Dietitians - EatingWell",
-      "published": "2026-07-02T15:00:00+00:00",
-      "summary": "The 5 Best Canned Foods to Reduce Your Risk of Colorectal Cancer, Recommended by Dietitians&nbsp;&nbsp;EatingWellSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONzRFZmRJbng0bVUtTjIzMUY1eTZVQmlRVV9BMk9ZdzNxZUx3SW9BNkdLVFYzbS1vN2QtN1Q4a2ZfbTZlaE11LXFqX2U5QThrNU94aWtPTnVWWkF4cE8yUHl6SjdERnhaSC1yeXZhcFJtUnR6RmFrcHBKMXBsTTZYZWFfY2hxOVNDYmo5cnJqLW52SzZyQ09OdEVB?oc=5"
         }
       ]
     },
@@ -246,14 +318,26 @@
       ]
     },
     {
-      "id": "c659a00de882",
-      "title": "The deadliest animal you could encounter in a national park probably isn’t a bone-crushing, 300kg apex predator – it’s something much more surprising - BBC Wildlife Magazine",
-      "published": "2026-07-02T14:15:21+00:00",
-      "summary": "The deadliest animal you could encounter in a national park probably isn’t a bone-crushing, 300kg apex predator – it’s something much more surprising&nbsp;&nbsp;BBC Wildlife MagazineThe animal behind most aggressive wildlife encounters may surprise you&nbsp;&nbsp;Science NewsQuiet outings linked to more frequent dangerous wildlife encounters&nbsp;&nbsp;Phys.orgHow to Not Get Mauled on Your Hike This Summer&nbsp;&nbsp;Nautilus | ScienceUniversity of York Study Identifies Factors Driving Human-Wil",
+      "id": "21cd8c291db9",
+      "title": "Analog gravity advance offers new insights into Hawking radiation from black holes - Phys.org",
+      "published": "2026-07-02T13:40:03+00:00",
+      "summary": "Analog gravity advance offers new insights into Hawking radiation from black holes&nbsp;&nbsp;Phys.orgBackreaction of stimulated Hawking radiation in an optical analogue&nbsp;&nbsp;NatureHawking Radiation Breakthrough: These Black Hole Emissions Could Reveal Quantum Gravity&nbsp;&nbsp;The DebriefBackreaction of Stimulated Hawking Radiation Revealed&nbsp;&nbsp;Bioengineer.orgHawking radiation breakthrough offers new insight into black hole physics&nbsp;&nbsp;Innovation News Network",
       "sources": [
         {
-          "name": "BBC Wildlife Magazine",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQWx0RGxpR1prZndhVVRQdjh3R3I3cDZDcFI2aUdEMW0tY2dhUDAzOW1LcXItcjlVUmljaXcyNHNMLW5YdzloTjhHMjNkSVFvZWFCdlJSZkhiNEpRNV9TOFRaMUx2Tm5YM2pOXzBpaHFMUVpIb0Q1V3ZEQUktQjlpV25qVEk0LUV6N0xpRlJIRFY4TlJNY3BpV1h1Qk1IMHRFd1I5Q2N5Uy0?oc=5"
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RVWVueVdheUVVejVWVURVdkhoRWpBeFVfXzVMYVVELS02eFg2VnE3aE45Qk1FY0NJbWw5dUNER3Budi1xN3pwNjJaSGZ6d1lpZEloUlpBNjBON2kxRkVPbUo5MjlJNzByTzdUY3I4UEJWQ0k5QXFOaVZITld1dmM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ee4299945e09",
+      "title": "Common mucus-clearing treatments don't help ICU patients breathe easier and may cause harm, clinical trial finds - Medical Xpress",
+      "published": "2026-07-02T13:20:01+00:00",
+      "summary": "Common mucus-clearing treatments don't help ICU patients breathe easier and may cause harm, clinical trial finds&nbsp;&nbsp;Medical Xpress",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRGFPWGtjQ05BUXlxbnFiU3UtZDNybTJDQWw4VkR3aDViV18xQVgyQS03VDllVUN1QzA4N1R1ZWRQY0pucEs2aURNY2licEpmbWtfZkNoVXVzUW0wbkw0Wk53Ml95cVhuMEdZX3Z3UVZ6OGw1SXJCWHNXcUZEWXptMzRB?oc=5"
         }
       ]
     },
@@ -261,7 +345,7 @@
       "id": "53ac8d53cd6d",
       "title": "Alcohol is one of the most dangerous drugs, yet its presence is ubiquitous in social settings and celebrations - The Conversation",
       "published": "2026-07-02T12:48:08+00:00",
-      "summary": "Alcohol is one of the most dangerous drugs, yet its presence is ubiquitous in social settings and celebrations&nbsp;&nbsp;The ConversationAlcohol’s Health Myth Is Over. How to Tell Patients&nbsp;&nbsp;MedscapeContributor: Alcohol should be stigmatized like smoking&nbsp;&nbsp;Los Angeles TimesNo safe level of alcohol? Major study links even moderate drinking to higher cancer risk&nbsp;&nbsp;FirstpostInternational Alcohol Control Online Symposium Held: Focusing on Global and Low- and Middle-Income",
+      "summary": "Alcohol is one of the most dangerous drugs, yet its presence is ubiquitous in social settings and celebrations&nbsp;&nbsp;The ConversationAlcohol’s Health Myth Is Over. How to Tell Patients&nbsp;&nbsp;MedscapeContributor: Alcohol should be stigmatized like smoking&nbsp;&nbsp;Los Angeles TimesThis is what happens to your body when you quit drinking alcohol&nbsp;&nbsp;The IndependentNo safe level of alcohol? Major study links even moderate drinking to higher cancer risk&nbsp;&nbsp;Firstpost",
       "sources": [
         {
           "name": "The Conversation",
@@ -278,18 +362,6 @@
         {
           "name": "Forbes",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbnZxc0JwYVJvbUVYODg1RzFTSEs3NzJSWjZqekZJUVl5ckk1S3F3aVljYWE3N3dCVGhZRGtscmc3VW9RNGZBbDZnUVZ1M19XcnBpMktEZ3AteXZBcVZkb2hGYWY3dDctZTNxY1NhNkZETDdNZWk2cVRudFo1b2hUc1hDendDR3l3bEs1Nl9zQXFpRGIzeF9LR2JlZXhZa19UQktuVDJoVDlnRVEwaGI4QWt6YmZRNXNxd2dn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "75cf5c138bc6",
-      "title": "5 of America's greatest medical breakthroughs revealed as the nation marks 250 years - Fox News",
-      "published": "2026-07-02T11:00:47+00:00",
-      "summary": "5 of America's greatest medical breakthroughs revealed as the nation marks 250 years&nbsp;&nbsp;Fox NewsHonoring the Unwavering Spirit of Our Nation, Hospitals and Caregivers&nbsp;&nbsp;American Hospital AssociationMedical care in the 13 colonies before the American Revolution&nbsp;&nbsp;West Virginia Press AssociationUNMC highlights 250 years of America’s independence&nbsp;&nbsp;University of Nebraska Medical CenterU.S. health care at 250; fireworks sent 13,000 to the ED; few know hot dogs' ris",
-      "sources": [
-        {
-          "name": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdHJ3NTgweUYyU2JTSFhzVkozMGZXUnZZeFdlNEE4OElDV0p2dlFoR0YwLV9CX1g2QUszWi1qbmVScWN0Y0JOajByVFltUnlWQ1NvQjdRRXQ1eHFZRHVIMjE3bjFYRXROZFpvMUQtUTlDWWpnWWljR2hhUVBTSUFqd2JyT0JGb0lZeXIzeGlNR05yMnF5T0RFTkhCVWUzdVRXM2pHdDNlWQ?oc=5"
         }
       ]
     },
@@ -318,6 +390,18 @@
       ]
     },
     {
+      "id": "3cdae3daade6",
+      "title": "Drug Stops 90% of Pancreatic Cancer Migration in Lab Tests - ScienceAlert",
+      "published": "2026-07-02T10:01:36+00:00",
+      "summary": "Drug Stops 90% of Pancreatic Cancer Migration in Lab Tests&nbsp;&nbsp;ScienceAlertScientists discover an unexpected way to make pancreatic cancer cells self-destruct&nbsp;&nbsp;ScienceDailyScientists Found an Unexpected Way to Make Pancreatic Cancer Cells Destroy Themselves&nbsp;&nbsp;Medical Daily",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaEFlVFFKenMzbm1qdHFlNTBKbmg1SDBHUUNHblE5ejlTVUFPaXJoY3pmdnQ1VUUzYUlTdmdDcjNyLUNST0JYa0RrZmZJMkFRMGJQelBTejY4YV9xSmQxNkFVZzRxRl9kVm83MGRrZlE3YXhWU2tMRjU3eTNZNHlhQU9HYWEycUJOMTFfdUp5dHVUbkk5LVJXTUUxLTI5OVlYazM4?oc=5"
+        }
+      ]
+    },
+    {
       "id": "82e6e6b3ef4a",
       "title": "Ancient DNA reveals malaria killed the Medici brothers, not poison - Archaeology News Online Magazine",
       "published": "2026-07-02T09:44:38+00:00",
@@ -333,35 +417,11 @@
       "id": "b19f98f1d850",
       "title": "Statins helping people with obesity match those of healthy weight on key metrics, study finds - The Guardian",
       "published": "2026-07-02T08:24:00+00:00",
-      "summary": "Statins helping people with obesity match those of healthy weight on key metrics, study finds&nbsp;&nbsp;The GuardianStatins and blood pressure drugs changing health risks of obesity, study suggests&nbsp;&nbsp;STATStatins ‘cut heart risk gap between obese and slim adults’&nbsp;&nbsp;The TimesObese over-40s have similar heart risk to those who are slim&nbsp;&nbsp;The TelegraphOlder Folks With Obesity Now Often Metabolically Similar to Those With Normal BMI&nbsp;&nbsp;MedPage Today",
+      "summary": "Statins helping people with obesity match those of healthy weight on key metrics, study finds&nbsp;&nbsp;The GuardianStatins and blood pressure drugs changing health risks of obesity, study suggests&nbsp;&nbsp;STATStatins ‘cut heart risk gap between obese and slim adults’&nbsp;&nbsp;The TimesWhy obese adults are catching up on heart health – and why it’s not the full story&nbsp;&nbsp;India TodayObese over-40s have similar heart risk to those who are slim&nbsp;&nbsp;The Telegraph",
       "sources": [
         {
           "name": "The Guardian",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2hBN0RKbWphV1NKeFpoYmI3dVU2d091dDlvLV9CT2xESERMR0c2ZTJyX1FsT3VSODhBYXBmcmRDU0hTYlAzZ2RKTWhCdFZPNGJwY0I2SkctUDdCMkkzSHFMejlVSEtOV19YNFFUZkVURHFfOGhmdTk5YV9zT0ZKemNWcjhWT3hQSUpjandlQW5QTVRLNFQyY2NEMXZEM2RCdXhQemQ2N3ozaXlFTW02Vm1MbTM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f3fc137762f5",
-      "title": "The diet that’s proven to lower blood pressure and prevent dementia - AOL.com",
-      "published": "2026-07-02T07:00:00+00:00",
-      "summary": "The diet that’s proven to lower blood pressure and prevent dementia&nbsp;&nbsp;AOL.comSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUkVDdnNwYVZMM2hhTHpjOVhNMTBSeU5lT1NIWEVGVndrbloyZHNNbnFJOGotTzB1REpfRGN6U3lzbVo1NE5aZ3k4VFJMRmlWSzJhLTQ4SmVfUWlMVERlUFlCTUJDUkRjYWhKaGUwZkxka3REanVNR1hzV2xEbUtGWS1R?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8270f0becd98",
-      "title": "On the front line of Congo’s Ebola outbreak - Al Jazeera",
-      "published": "2026-07-02T06:22:37+00:00",
-      "summary": "On the front line of Congo’s Ebola outbreak&nbsp;&nbsp;Al Jazeera'It takes a lot of courage': DR Congo health workers battle Ebola&nbsp;&nbsp;NPRDR Congo Ebola outbreak tops 400 deaths as virus reaches major city&nbsp;&nbsp;Le Monde.frA Risky Burial in the Heart of an Ebola Outbreak&nbsp;&nbsp;The New York TimesEbola Outbreak, DRC and Region, Situation Report #9, July 1, 2026&nbsp;&nbsp;ReliefWeb",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZk9uZXpSWUthbFctbHZBZXM4c2lkRXk1TTk3LTN1TTlZb2dzSjJ1dm1DUDVqWFJ4OXB5eDA5Qmk4SG05cUY0THRQMmFWbEs2TWpJbHVMQlp4cUxKUXc2a0NteUZXUGw0TGFqVm1XWndrdkhZemE0ZnBVR2t2TV9vZXRxc09uR1phUVVNb2Z2cWXSAZYBQVVfeXFMTjhFMjB2QnhGX3hJOGtoQW9LWkNWWG5tMU5RU041TXE0X3BwMHhrUjhsVmtHUWZBRTJKNlNYVjdhT3F2am1hZUVKWXlBNlByX2kwbTlRbUR2ZHBpLU1oc3Z6dkdiY1dxWEhsOWgzUzVrNFZhWVJJbkRwU2xoeUFPVzRvdHBsS1BXUzh2QzhaaWU0Yk5LMDFB?oc=5"
         }
       ]
     },
@@ -374,6 +434,54 @@
         {
           "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0OUk2azVsd3E2NVk0ak5RSzJ1dWFWM3FVbUg5MUZwZ2d5dTFENVV0QWNsTkxaNVJublFsSldIUzhYWFFwa2ZMaDQ1anpXUjFYUTlfazFYZmRzUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6295537097cd",
+      "title": "Stories from the epicenter of the Ebola outbreak - AP News",
+      "published": "2026-07-02T05:15:00+00:00",
+      "summary": "Stories from the epicenter of the Ebola outbreak&nbsp;&nbsp;AP News'It takes a lot of courage': DR Congo health workers battle Ebola&nbsp;&nbsp;NPRDR Congo Ebola outbreak tops 400 deaths as virus reaches major city&nbsp;&nbsp;Le Monde.frEbola Outbreak, DRC and Region, Situation Report #9, July 1, 2026&nbsp;&nbsp;ReliefWebA Risky Burial in the Heart of an Ebola Outbreak&nbsp;&nbsp;The New York Times",
+      "sources": [
+        {
+          "name": "AP News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObEQ2dW81X0ZQbVBLbnMxWktFMVVrb2ZWZk9ya1JKQkxGTDllTFJSdFJNT21MdXJMSHNqYWllMUJhWVN4ZmdQc1JkZHlHVElCTEx0VGNCcm9ReTBjR3hNYTYxVGs1QkZ6eWJhTVRDOHAtQ3dpeC04RzNxT3drdUxVaXZ3ZldMeGVXUXVHbzJsc0g3aUk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "da2c5ec64dec",
+      "title": "These longevity exercises are going viral—and why a physical therapist recommends them for stability and fall prevention - Fit&Well",
+      "published": "2026-07-02T05:00:00+00:00",
+      "summary": "These longevity exercises are going viral—and why a physical therapist recommends them for stability and fall prevention&nbsp;&nbsp;Fit&amp;WellFour Minutes a Day May Be All It Takes to Build Strength After 65&nbsp;&nbsp;Katie Couric MediaLet's Talk: Strength, balance and preventing falls getting older&nbsp;&nbsp;Age UKFour-minute daily exercise boosts strength and mobility in older adults&nbsp;&nbsp;Yahoo HealthForget 'No Pain, No Gain.' After 50, Exercise Has a New Goal&nbsp;&nbsp;U.S. News - ",
+      "sources": [
+        {
+          "name": "Fit&Well",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNzNQRHhFeHMtSVBUb0RLMzE1b2tLV3FNdjRjSGp2LWlLQ0pRaHZRZDJtMlJaaVl1Sy1ZX19kUmFLQlVuWVJpU1FTaGRRZnl0R2FBMnp6WHFzUUhPRFFYbXNYbWRaQ3J3U1A0dVpYa0ZTcFJIOE8xOU91aHBKTTh5Sm1rcm9RMGpiNHloRng2Y3QxSXBWbUVReTdKQ3dkSDcxREdsQWVSTV9zeTNlWU1FaExxSGEwWkVaLThrRC1FbmpNYi1Ma05fdHdldFBXZk5oS2F0NXBTUEdYWFNzLVQ4TE1ZdkFhZVJaLTZ3RTRTZ0ZpM0FtTTdiZ2M0b2RNTEk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0fc214b82be2",
+      "title": "Quiet outings linked to more frequent dangerous wildlife encounters - Phys.org",
+      "published": "2026-07-02T04:00:02+00:00",
+      "summary": "Quiet outings linked to more frequent dangerous wildlife encounters&nbsp;&nbsp;Phys.orgThe deadliest animal you could encounter in a national park probably isn’t a bone-crushing, 300kg apex predator – it’s something much more surprising&nbsp;&nbsp;BBC Wildlife MagazineThe animal behind most aggressive wildlife encounters may surprise you&nbsp;&nbsp;Science NewsHow to Not Get Mauled on Your Hike This Summer&nbsp;&nbsp;Nautilus | ScienceUniversity of York Study Identifies Factors Driving Human-Wil",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14Mlg0V1JjYXZ2NzNYTG1xMk1hSnhubHZ3amtMdTdHYTB5U2VKTW9jT1VqYkxadEVrbVhCZFN1ekZuMFdPY2twWFRsd2xYX3VTTHRXR3A5czNIeDQwcUo0ellZMTVaSlhEZWVKUnJYeTVXb0lzTmd1NFZnZjRZQmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7dddada2fe45",
+      "title": "Single Injection Reverses Osteoarthritis in Animals in Just 4 Weeks - ScienceAlert",
+      "published": "2026-07-02T02:01:36+00:00",
+      "summary": "Single Injection Reverses Osteoarthritis in Animals in Just 4 Weeks&nbsp;&nbsp;ScienceAlertOne injection reversed osteoarthritis in weeks&nbsp;&nbsp;ScienceDailyNew treatment could help millions avoid joint replacement surgery&nbsp;&nbsp;The Eastleigh VoiceBreakthrough osteoarthritis jab may repair damaged cartilage | Tap to know more | Inshorts&nbsp;&nbsp;InshortsScientists develop a single injection that can reverse chronic osteoarthritis in just four weeks&nbsp;&nbsp;The Economic Times",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa1dsd3kyZUFqdUJRTVFIZDZvZlFXSGZmWTlCcVFFdjgwNVZ2ZExoRm44RGxOa1R3ZV9UcC1sUjJHY2NHbWo5em1kOFVuYmdoQmJ2dFhQdEdaclA0Y3JwQ043dW56aHpreFhpTWdSc2t6TkJybkswcjhfN3FKQXhNLUNRZVd4Z3l2cnJCR25Kb0phZUxFMEJ0Nkc2YXE?oc=5"
         }
       ]
     },
@@ -462,14 +570,26 @@
       ]
     },
     {
-      "id": "2b5e1423ebac",
-      "title": "Life-threatening fungal infection that can live on surfaces for weeks is rising in the US - Yahoo",
-      "published": "2026-07-01T21:02:04+00:00",
-      "summary": "Life-threatening fungal infection that can live on surfaces for weeks is rising in the US&nbsp;&nbsp;YahooSee more headlines & perspectives on Google News",
+      "id": "577b47105dbe",
+      "title": "Tattoos Affect Your Immune System in Ways Scientists Are Just Beginning to Understand - Yahoo Health",
+      "published": "2026-07-01T22:00:00+00:00",
+      "summary": "Tattoos Affect Your Immune System in Ways Scientists Are Just Beginning to Understand&nbsp;&nbsp;Yahoo HealthSee more headlines & perspectives on Google News",
       "sources": [
         {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSzVtLXQ1cFlwU3hIb1JXeXZSekxMZnZFVjNuc1BudllkWEk1VXJKRjBrR3RvYUxTdXBsVXJHZkRXYlIzTjBaVnFaX21aeEdIYWRxUTEzV0FHOFdWN0lNZXFrenZ5cUh1SExFR0NMSE5FeE9TSlRubmVJektYQmhnWXA2RGZaU0dRdWQweXBjWnMyZXVrUHAwT081NF9Kdw?oc=5"
+          "name": "Yahoo Health",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMEgwSlZ6dWRwM3Y2TmlIREFKSy1xS09LNzhXeXlsdGd1TkJuSWFSeF96dkNmeUVHX3NBZ1pTOUd4eHJNY3NmbTVhNE1fSGZCdGIzdEp4NFpSZlJ6NUtHc3ZXb1FEb25TNTEteDl2STlBdDBtRGpJSHJHYzdTcGVHU1BqcFVzamViRlVJQUpyN19FZ0NhcjQ5dFQ4cG5oZ2hZWWtTREc2V252UTJxblE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0a050acdbffd",
+      "title": "Slow Maternal Response Time Linked to ADHD in Kids - Neuroscience News",
+      "published": "2026-07-01T20:55:42+00:00",
+      "summary": "Slow Maternal Response Time Linked to ADHD in Kids&nbsp;&nbsp;Neuroscience NewsPrompt Responses From Mom Might Lower A Baby's Risk Of Childhood Mental Health Problems&nbsp;&nbsp;U.S. News & World ReportHow quickly moms respond to babies may predict mental health&nbsp;&nbsp;Earth.comMoms' responsiveness to their babies may predict later childhood psychiatric disorders&nbsp;&nbsp;Medical XpressMoms’ responsiveness to their babies may predict later childhood psychiatric disorders&nbsp;&nbsp;EurekAl",
+      "sources": [
+        {
+          "name": "Neuroscience News",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaGJZcWYxTXl2RXJ1eHlGclVGNVcxNF8wX0pZVUJaeHFWd3Yyc3Q5R0YzZHJUWG5TV2pfSlpoUTFaRTl5U2tnYVV2bW1Vcm93M203ZEoxOUUxZHZudi13UHB1Y2NKUHh2QjVuT2hNSjljeUM2MEQ0RWVaREZ3SWdFcUZn?oc=5"
         }
       ]
     },
@@ -482,6 +602,18 @@
         {
           "name": "Gizmodo",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWlVCZTFVbGF5WkJkVGtYc0ZTQ0pIeW1oc2JHd2szRkdlQW9ZamFVR3pRWmFrUHYzNThRWjlLcnhneUhRRVZjMnhya1pRdVZ0UG1PWC1qdzhHZEtWVWdhRHo3OXI2N21SWmNJTkxsQzUyRkZ1djFBcGNLVVcwYU1jR2YtRUZoUkpUMm5wZlpkUE9hUUJRLUV2VS1ZV2I3X19wVDRxLUVwOXQxYVFB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "73ea6fd7ee18",
+      "title": "Your teen’s friends can increase their risk of mental health disorders — but not in the way you think - New York Post",
+      "published": "2026-07-01T20:20:00+00:00",
+      "summary": "Your teen’s friends can increase their risk of mental health disorders — but not in the way you think&nbsp;&nbsp;New York PostSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaUN3QUhGZVU1cnNkY3NycWZaTHExSUtJUnVZU09fZUk2cHQtMFM1NklKY1FKaGw1bkR0Q0dxaE1UQUNicjlyUmttcFNfOFpqbHhNR1k5NmF0N0p6YlJId1VIZWZmQ3hCNE9vYVJsVFQzV1BFXzR1S1MzeTJZNGYtT1ZKZDJOb2lvX29vTkxhWTd6OHo3XzZ3UHI5cjFyS0RUMUhGSEpKdm5CYzNVMWJaTzNR?oc=5"
         }
       ]
     },
@@ -549,7 +681,7 @@
       "id": "3018037a0e0e",
       "title": "The growing number of satellites in orbit could soon make telescopes obsolete. 'For astronomy, this would obviously be catastrophic' - Space",
       "published": "2026-07-01T16:56:49+00:00",
-      "summary": "The growing number of satellites in orbit could soon make telescopes obsolete. 'For astronomy, this would obviously be catastrophic'&nbsp;&nbsp;Space\"Beyond the limit\": one million satellites and mirrors in space pose grave threat to the night sky&nbsp;&nbsp;ESO.org“Basically, It Kills The Telescopes” - Satellite Proposals Could Spell Doom For Astronomy And The Night Sky&nbsp;&nbsp;IFLScienceESO Study Finds That No More Than 100,000 Satellites Should Orbit Earth&nbsp;&nbsp;Gizmodo1.7 Million Sat",
+      "summary": "The growing number of satellites in orbit could soon make telescopes obsolete. 'For astronomy, this would obviously be catastrophic'&nbsp;&nbsp;Space\"Beyond the limit\": one million satellites and mirrors in space pose grave threat to the night sky&nbsp;&nbsp;ESO.orgESO Study Finds That No More Than 100,000 Satellites Should Orbit Earth&nbsp;&nbsp;Gizmodo1.7 Million Satellites Will Have ‘Devastating Consequences,’ Study Says&nbsp;&nbsp;ForbesPlanned 1.7 million satellites 'devastating' for astron",
       "sources": [
         {
           "name": "Space",
@@ -582,6 +714,18 @@
       ]
     },
     {
+      "id": "27522bb83e51",
+      "title": "A greener approach to the Mediterranean diet may benefit heart health - Medical News Today",
+      "published": "2026-07-01T16:09:39+00:00",
+      "summary": "A greener approach to the Mediterranean diet may benefit heart health&nbsp;&nbsp;Medical News TodayGreen Mediterranean diet may benefit health more than traditional Mediterranean diet&nbsp;&nbsp;AOL.com",
+      "sources": [
+        {
+          "name": "Medical News Today",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNnE2RkQzQ0lrb2NMcmxkdkFoSThMN19lV2VwRXFUYnlnUFl6UWRKQjYteWo2ZTRYLW04RnZoeFdLdDZ6enloM24zMGFRMXJmWjJ3eVVnaW1rLVRad3BzX1cxME1vYll1Z1NjSmRTV1JRaFFiNXI2ZE9WSlRrd1RiWG1yZGdCMjk2TUg1VllaMENza09EWXlMUUE1YkFLUUhKRVJDYmxnU3VBdTloSWFJWndB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c6bfa586cfbd",
       "title": "Scientists Discover How Alzheimer’s May Spread in Brain—And Way to Slow It - Newsweek",
       "published": "2026-07-01T15:46:00+00:00",
@@ -609,7 +753,7 @@
       "id": "58f2404ff289",
       "title": "6-year-old girl bitten by rabid bat while playing outside her Wisconsin home, family says - NBC News",
       "published": "2026-07-01T15:17:00+00:00",
-      "summary": "6-year-old girl bitten by rabid bat while playing outside her Wisconsin home, family says&nbsp;&nbsp;NBC News6-year-old Shawano County girl bit by bat with rabies, getting vaccine&nbsp;&nbsp;Milwaukee Journal Sentinel6-Year-Old Girl Bitten by Rabid Bat While Climbing Tree Outside Her Family’s Wisconsin Home&nbsp;&nbsp;YahooBenton County reports first rabies case of the year in infected bat&nbsp;&nbsp;OregonLive.comAmerican Girl, 6, Bitten by Rabid Bat&nbsp;&nbsp;The Daily Beast",
+      "summary": "6-year-old girl bitten by rabid bat while playing outside her Wisconsin home, family says&nbsp;&nbsp;NBC News6-year-old Shawano County girl bit by bat with rabies, getting vaccine&nbsp;&nbsp;Milwaukee Journal Sentinel6-Year-Old Girl Bitten by Rabid Bat While Climbing Tree Outside Her Family’s Wisconsin Home&nbsp;&nbsp;People.comAmerican Girl, 6, Bitten by Rabid Bat&nbsp;&nbsp;The Daily BeastBenton County reports first rabies case of the year in infected bat&nbsp;&nbsp;OregonLive.com",
       "sources": [
         {
           "name": "NBC News",
@@ -621,7 +765,7 @@
       "id": "be2c27a9d50c",
       "title": "Scientists can now study the event horizons of black holes - The Economist",
       "published": "2026-07-01T14:12:22+00:00",
-      "summary": "Scientists can now study the event horizons of black holes&nbsp;&nbsp;The EconomistGW250114 reveals signatures of post-merger black-hole horizon&nbsp;&nbsp;NatureAstronomers Just Heard the \"Last Sound\" a Black Hole Made&nbsp;&nbsp;ZME ScienceIn January 2025, the loudest gravitational wave ever recorded hid a second signal nobody knew how to read — and a decade after the first detection, it has just given physicists the spin rate of a black hole's event horizon&nbsp;&nbsp;Space Daily“Almost Impos",
+      "summary": "Scientists can now study the event horizons of black holes&nbsp;&nbsp;The EconomistAstronomers Just Heard the \"Last Sound\" a Black Hole Made&nbsp;&nbsp;ZME ScienceIn January 2025, the loudest gravitational wave ever recorded hid a second signal nobody knew how to read — and a decade after the first detection, it has just given physicists the spin rate of a black hole's event horizon&nbsp;&nbsp;Space DailyWhat happens at the edge of a black hole? Astronomers may be close to finding out&nbsp;&nbsp",
       "sources": [
         {
           "name": "The Economist",
@@ -633,7 +777,7 @@
       "id": "e80f1fe53f8d",
       "title": "Megalodon’s legendary life revealed by fossil rediscovery - The Conversation",
       "published": "2026-07-01T14:10:04+00:00",
-      "summary": "Megalodon’s legendary life revealed by fossil rediscovery&nbsp;&nbsp;The ConversationMegalodon's Terrifying True Size Confirmed By Rediscovered Fossil&nbsp;&nbsp;ScienceAlertHow Big Could Megalodon Really Get? Rediscovered Fossils Reopen The Debate&nbsp;&nbsp;ForbesMegalodon fossil confirms true size of massive shark&nbsp;&nbsp;The IndependentHow Big Was Megalodon? Salvaged Shark Fossil Solidifies 80-Foot Monster&nbsp;&nbsp;SURFER Magazine",
+      "summary": "Megalodon’s legendary life revealed by fossil rediscovery&nbsp;&nbsp;The ConversationMegalodon's Terrifying True Size Confirmed By Rediscovered Fossil&nbsp;&nbsp;ScienceAlertHow Big Could Megalodon Really Get? Rediscovered Fossils Reopen The Debate&nbsp;&nbsp;ForbesMegalodon fossil confirms true size of massive shark&nbsp;&nbsp;YahooHow Big Was Megalodon? Salvaged Shark Fossil Solidifies 80-Foot Monster&nbsp;&nbsp;SURFER Magazine",
       "sources": [
         {
           "name": "The Conversation",
@@ -654,18 +798,6 @@
       ]
     },
     {
-      "id": "53ebd3ede0db",
-      "title": "Study suggests life on Earth has around 1.8 billion years left — but the biosphere might evolve to survive... - Yahoo",
-      "published": "2026-07-01T13:55:14+00:00",
-      "summary": "Study suggests life on Earth has around 1.8 billion years left — but the biosphere might evolve to survive...&nbsp;&nbsp;YahooStudy suggests life on Earth has around 1.8 billion years left — but the biosphere might evolve to survive even longer&nbsp;&nbsp;Live ScienceStudy predicts when the last plants on Earth will die&nbsp;&nbsp;New AtlasHow long can plants survive on Earth? New model suggests up to 2 billion more years&nbsp;&nbsp;Phys.orgHow Long Will Life on Earth Last? A New Calculation Ext",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTHFFZHFMdHNfWkZNWVdjbzFQZTVfejVOeDY2bXl0Zm16UGtaVFlValBwbjk4ekp5WHozM2NBUG9kUERoUTIzQmtHNHFHbUJyMlBzWndaV09PZThsRnRMYkk4UENoWXRrM1FfT0dFQTVpWF81RENsM1B4UXJQY1NGTXNERmRzeDA3NmFHYmY5MW5rQlhqQ3c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "79ca3b3a7ba9",
       "title": "CIDRAP Op-Ed: The wrong cure—how the new federal Lyme plan validates a diagnosis that often isn't there - CIDRAP",
       "published": "2026-07-01T13:04:28+00:00",
@@ -674,42 +806,6 @@
         {
           "name": "CIDRAP",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGdzNm1USF9XMjBiMGFseDRqal9EemRoSWJoZXRINzRNS1ROVXRfMU5RTzZiRVNzdWRhazNNRFBxNlc0RG9YejlpcHpjQTQxOXJxZEd3WFJnLUUyZFBYQUhBR0RCeVVyUDdidTBCekpxNFN0c1NEd3o0bl9JWkk5MzNWUVhKX045TkJOdDMzZ1hsWEVkRnFTZ3ZFdlp4d0x3VFIyc21qOVY2MjFENzlUNGdUS3lDV2NVaXBtd0tmMHV3N0d4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7602d9ea5b1f",
-      "title": "PSA levels alone may not reflect prostate cancer growth - Cornell Chronicle",
-      "published": "2026-07-01T13:00:00+00:00",
-      "summary": "PSA levels alone may not reflect prostate cancer growth&nbsp;&nbsp;Cornell Chronicle",
-      "sources": [
-        {
-          "name": "Cornell Chronicle",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRVhmbmxhLXBXNFN0cEJULXhUTEdHdVhDMUZDd0NDZVVFN0sxYURQVHJmeUlZWjRhVy12amhGemNZVFVyZFZsVzdHS0VhdnBmdl9XMlNTR3FLbEg2aHFGTHpxNVZuZlNjU2hzTDEzNElKSk12VU84a2xhT3NreVZ0WFIzaUNmMnM4NlFDaWlDbHdLeVdOcE1IYmhqOHo?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "534868c9d2bc",
-      "title": "Scientists find no link between Tylenol and autism, again, after Trump warning - Ars Technica",
-      "published": "2026-07-01T11:01:38+00:00",
-      "summary": "Scientists find no link between Tylenol and autism, again, after Trump warning&nbsp;&nbsp;Ars TechnicaShould pregnant women worry about taking Tylenol? 20-year sibling-matched study finds no link to autism or ADHD&nbsp;&nbsp;Medical XpressAcetaminophen Cleared of Autism and ADHD Pregnancy Risks&nbsp;&nbsp;Neuroscience NewsDoes Paracetamol Cause ADHD, Autism? New JAMA Study Offers A Definite Answer&nbsp;&nbsp;NDTVAcetaminophen in pregnancy shows no link to autism or ADHD, again&nbsp;&nbsp;Science",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVmlVUGtFdmV6U21ZeFpVX2ZQTnNOUHZhdmFQM3pRUHdQUEhheEtpREppOV9jcUdaaDI2UWc0S3J6M1d1eHpfX0tJcTNsT0UwSzdWazF0d3FzNThTdlVOeHFfLWxfblVJS3BBZEsxVm0tdmVQOWZfdlk0T0FwNmtwOGpqbWZQemV0Nm90WkdMVW1ndTJacUppZ0E5WE8tb3VBWlN6SDRlRHRNRUxpNTNINmgtMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e7d1091233cf",
-      "title": "Largest and Most Detailed Picture Taken of Milky Way's Center–With Millions of Stars and Thousands of Worlds - Good News Network",
-      "published": "2026-07-01T11:00:23+00:00",
-      "summary": "Largest and Most Detailed Picture Taken of Milky Way's Center–With Millions of Stars and Thousands of Worlds&nbsp;&nbsp;Good News NetworkESA’s Euclid captures the Milky Way’s crowded heart&nbsp;&nbsp;European Space AgencyMillions of stars light up largest and most detailed shot of Milky Way’s centre&nbsp;&nbsp;The GuardianThis is the largest and most detailed image of our Milky Way — with over 60 million stars and 50 exoplanet systems&nbsp;&nbsp;SpaceScan More than 60 Million Stars in the Most D",
-      "sources": [
-        {
-          "name": "Good News Network",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRUtJcmhESVEyeF9aSWU3NHA4VEdOVGRfOElKZ3pQNUFLa0ZZVjBxT0Q3TW8tam01cjFUMWNLQTAyVDBpY1UteTI0dWNLZlkyMFIyanBDTHNMMUk1TDR4QTdBYTRoR0dtQUZrbHplSndmdFJ1a2FkeE1CXzFQZkdaYVE4TGpJdFp3b29UZVVzTkF4S3kwT3pFdElVcTkxU3pOTVJkaG5WUHV3RmdJRjloV3FZUm9sSXRSbFluaUxpOVppUFozVkhEMjliZGYxcnVHN2FXQnNXVQ?oc=5"
         }
       ]
     }

@@ -1,31 +1,55 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-07-04T03:25:34.867251+00:00",
-  "total_fetched": 129,
-  "unique_count": 129,
-  "health_related_count": 64,
+  "fetched_at": "2026-07-04T08:41:11.618050+00:00",
+  "total_fetched": 134,
+  "unique_count": 134,
+  "health_related_count": 65,
   "news": [
+    {
+      "id": "03604eca96b8",
+      "title": "Physicists Simulated a Black Hole in a Lab. Then It Started to 'Evaporate'. - ScienceAlert",
+      "published": "2026-07-04T02:04:50+00:00",
+      "summary": "Physicists Simulated a Black Hole in a Lab. Then It Started to 'Evaporate'.&nbsp;&nbsp;ScienceAlertAnalog gravity advance offers new insights into Hawking radiation from black holes&nbsp;&nbsp;Phys.orgBackreaction of stimulated Hawking radiation in an optical analogue&nbsp;&nbsp;NatureScientists Make Major Black Hole Discovery That Could Explain Stephen Hawking's Greatest Mystery&nbsp;&nbsp;NDTVHawking Radiation Breakthrough: These Black Hole Emissions Could Reveal Quantum Gravity&nbsp;&nbsp;The",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNEgzRlJQQkpILU5wVDRib0RMUmdlbmZOVnZzS1ZuT0dwZFBFblNQYnNIWTVnUHF4NGp1anh5dmFCbU1XVE5WdzRZZWJaWGR2eE9FeGNnZU4xS0ExSGRESkFNX0E4Z2NmUWFPYTlZWjEtLXRaZkdhSGxsWWhPWmV5czAzb1RsRy1qUHdGSmZqNm92RUx3bXRyTThzaTBITXkyVlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "61309035db2b",
+      "title": "In 1610, Galileo spotted a small, smooth moon circling Jupiter and wrote it down; four hundred years later, scientists confirmed it likely holds the largest ocean in the solar system, buried under ice and never once touched by sunlight - Space Daily",
+      "published": "2026-07-04T00:45:46+00:00",
+      "summary": "In 1610, Galileo spotted a small, smooth moon circling Jupiter and wrote it down; four hundred years later, scientists confirmed it likely holds the largest ocean in the solar system, buried under ice and never once touched by sunlight&nbsp;&nbsp;Space DailyEuropa’s Ice Shell Secrets Unlocked by Ground Radar Study&nbsp;&nbsp;Universe TodayRadar Echoes From Europa Reveal Secrets Beneath the Ice&nbsp;&nbsp;Astrobiology WebGround-based radar reveals secrets of Europa’s icy shell&nbsp;&nbsp;Universe",
+      "sources": [
+        {
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQblRkY2NjSHZOS1drR1VsV294N1BvZmRfbUhaN3g3cDYyazdvNzlzS1pHUDVCdHpweUJQaTJvakN2VnB5ZElfU2Y3VXlxYUVJV3phQ1BJUThBRG0yOG54cVhVamROc1U5ZHpFVFlEU01JNFRQbndkMFVhXzdOM1lVZ05UU3B3bE9ScF9GcjhidzBrcWxHZzRJLUdIZTkyRUxCd1Z5Tm1POW1zY0Y1Z1dGQkNIaVFoc3J3SUJGSWY5c1lMQmI2eVp0a1JLTG42emNoRmduOTQzd2U5bHN2VV94WEVqX3U0SFFmZ1FfeTcwdEk5X3FYM1BKNWJ2OEJBVFFqUDk2MWtYNm90TW95d29jM1FaTHVjTVlBa2FuYTZqUndlM21OVDRDUXRfRVZlZ01YQVRHOEs5RjJxV2dfVWlmeGdQcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5eab59bf588e",
+      "title": "Vagus Nerve Stimulation Improves Severe Depression by 70%, Major US Trial Finds - ScienceAlert",
+      "published": "2026-07-03T22:04:31+00:00",
+      "summary": "Vagus Nerve Stimulation Improves Severe Depression by 70%, Major US Trial Finds&nbsp;&nbsp;ScienceAlert",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ01WSS1UVHh0c3hXQVFzbDJMZ1NyR09lZFJZNDJUZzltRTNxdzB5cU9XZWQ2ZF9QTFJrUk5RRzJFMFBTbVlqbzVPTHFtOXY0TnVMMms5Qm9obGhYX25nS19nNEFxYU1mQmkwdXdXcTh6V0k3a040LWxiVVIxQmhpMTVZekRiQnRtQUE3SnpCMGp0TnZfcE1FanBoQzRmWGc0eFNnMXZzcjZxM0NCVFZNVnRvYw?oc=5"
+        }
+      ]
+    },
     {
       "id": "10a3c5488671",
       "title": "Doctors Say There’s An Undeniable Link Between Eye Health And Dementia. Here’s What You Need To Know. - AOL.com",
-      "published": "2026-07-03T22:50:16+00:00",
+      "published": "2026-07-03T21:58:38+00:00",
       "summary": "Doctors Say There’s An Undeniable Link Between Eye Health And Dementia. Here’s What You Need To Know.&nbsp;&nbsp;AOL.comSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "AOL.com",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYVNoLXgtOGxXQW5DSEZfVDNTNU5YbWtKYmN5bkFMQWFYbG9CTFRKdjZwRHRNdjdURlh6WXlXQnJXdjFxZV9VOXhGTHRTc2YweGxhdjdnWWRoSWcxQUMtQTJOWlRyOTl1anlZZnpnSWhrZ21aY29hOTZoT2NQd0hyZjEtN1BpenF4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2fd6f95fc9a3",
-      "title": "CDC investigates parasite that’s caused cases of ‘explosive’ diarrhea in 18 US states - The Guardian",
-      "published": "2026-07-03T21:15:00+00:00",
-      "summary": "CDC investigates parasite that’s caused cases of ‘explosive’ diarrhea in 18 US states&nbsp;&nbsp;The GuardianDiarrhea-causing parasite that can contaminate raw produce causing misery across several states&nbsp;&nbsp;CNNClusters of Severe Stomach Illness Reported Across the U.S.&nbsp;&nbsp;The New York Times'Large and growing' parasitic infection reported in 17 states, including Pa. and NJ&nbsp;&nbsp;6abc PhiladelphiaNumber of cases of parasite infection causing diarrhea explode in Ohio&nbsp;&nbs",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeHBvcDZoUTBLaE9FbDNvLUI2dW92QVJIX01qVzdKNGM0cXJOZkhUdTRHVExfQ1h2SnBQeE4zc3ZfZkp1cDQzN25OOGNOdzNVVUhpYmdyTm5XSFR5Z0k3WHgzUVh4UDV5TzBMTUgwTjJnT1QzY2V6Q3d6ZTBnU2FnSk5ERnBtb1gydHpsRmt1djRHM21YRHZr?oc=5"
         }
       ]
     },
@@ -42,10 +66,34 @@
       ]
     },
     {
+      "id": "a71dcd95f292",
+      "title": "Mammals use the same underlying system—preserved through evolution—to process smells - Phys.org",
+      "published": "2026-07-03T18:00:06+00:00",
+      "summary": "Mammals use the same underlying system—preserved through evolution—to process smells&nbsp;&nbsp;Phys.orgHumans and Mice Share Identical Brain Wiring for Smell&nbsp;&nbsp;Neuroscience News",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hVzljM2dJZVdFLTBHRXUwR2ZwVDlPTk9kekplYl9SQjlPZWJqdlhNY3kyRk43aUtmMzNZUHVpSWFRSS16TDc5WU1GWUVrZ0lPR2k5c2g4ejIyNC1xWUNNRVV0bmFodU1EcEI3aE84ZlA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "154fa4bfacbe",
+      "title": "Mountain lions moved into a tiny Californian preserve. What happened next astounded scientists - BBC Wildlife Magazine",
+      "published": "2026-07-03T16:22:00+00:00",
+      "summary": "Mountain lions moved into a tiny Californian preserve. What happened next astounded scientists&nbsp;&nbsp;BBC Wildlife MagazineOne mountain lion changed the food web in a California suburb, study finds&nbsp;&nbsp;news - MongabayWhen mountain lions began appearing more often on trail cameras at a small California nature preserve, coyotes and deer shifted away from nighttime activity, and the woody plants those deer used to eat increased sixty four fold&nbsp;&nbsp;Space DailyMountain lions changed",
+      "sources": [
+        {
+          "name": "BBC Wildlife Magazine",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZk4tSW5qNDhGNEtRanM0djdZSmEyUnEzQkhuWFEzbGRMTThLR1lEU0hXMXRWTmx2ci1VY3lNdkRFSXRMU2FpVkZjbWVwazZjU1ZMcnRhNmFaYWtoaG9FRDdEY201ZDVKaWlhWjVWaFgxaWtScGJtbC1rQ0hWZ3c2Zl8wQmpPZ2UxV1VheURDTEdwR2FPYjZQeUJYSjhuUnVRYlE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "99c8eae7ce60",
       "title": "I said yes to an Alzheimer’s blood test. Then I panicked. - The Washington Post",
       "published": "2026-07-03T16:00:00+00:00",
-      "summary": "I said yes to an Alzheimer’s blood test. Then I panicked.&nbsp;&nbsp;The Washington PostBlood-based circular RNAs for early diagnosis of Alzheimer’s disease&nbsp;&nbsp;NatureA blood protein can flag dementia risk decades before symptoms appear&nbsp;&nbsp;Medical XpressNew ‘SECmere’ blood test could spot Alzheimer’s-related changes sooner&nbsp;&nbsp;Medical News TodayLighting up the way to faster, cheaper diagnosis of Alzheimer's disease&nbsp;&nbsp;Alzheimer's Society",
+      "summary": "I said yes to an Alzheimer’s blood test. Then I panicked.&nbsp;&nbsp;The Washington PostA blood protein can flag dementia risk decades before symptoms appear&nbsp;&nbsp;Medical XpressBlood-based circular RNAs for early diagnosis of Alzheimer’s disease&nbsp;&nbsp;NatureWhat Blood Tests Could Mean for Early Alzheimer’s Detection&nbsp;&nbsp;Being PatientLighting up the way to faster, cheaper diagnosis of Alzheimer's disease&nbsp;&nbsp;Alzheimer's Society",
       "sources": [
         {
           "name": "The Washington Post",
@@ -66,18 +114,6 @@
       ]
     },
     {
-      "id": "fc907dba2380",
-      "title": "How little exercise can you get away with? - The Economist",
-      "published": "2026-07-03T15:34:30+00:00",
-      "summary": "How little exercise can you get away with?&nbsp;&nbsp;The EconomistEven in very small amounts, exercise has positive effects on health.&nbsp;&nbsp;observatoireprevention.orgCan 30 seconds of exercise actually make a difference? Here’s what experts say&nbsp;&nbsp;San Francisco ChronicleHealthy SA: Even if you think your heart is healthy, you need to be screened&nbsp;&nbsp;kens5.comWhat happened when I exercised for 10 hours a week to boost my heart health&nbsp;&nbsp;The Telegraph",
-      "sources": [
-        {
-          "name": "The Economist",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOWVZS2MtSENWN2ctT3J3T3VoSEJfc1F1U2h2ejVJcVJWOXBySDJoNmJrS2NTVUFSS2VTM2l1U3RFRk56UnRBTVVMcXlCN3NxbVM0Z1FXOHFUU2h5dUFEemRMbTBtVjBNaW9MMnN2cXc1MGY2Zzd4eEhvRlB4bUdjSkd4eGNodGJNeXZGYmNQQ1hvQXE2VWNfWHNpMDl0eDl0SGlr?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9363edef0669",
       "title": "Researchers found that on days people did more small kind things for others, the usual toll of stress on their mood and mental health tended to be noticeably softened - Space Daily",
       "published": "2026-07-03T15:00:30+00:00",
@@ -90,14 +126,14 @@
       ]
     },
     {
-      "id": "4c6df1a41194",
-      "title": "Scientists discover giant fan-shaped structure beneath Antarctica's ice sheet: The hidden structure rewri - The Times of India",
-      "published": "2026-07-03T14:10:00+00:00",
-      "summary": "Scientists discover giant fan-shaped structure beneath Antarctica's ice sheet: The hidden structure rewri&nbsp;&nbsp;The Times of IndiaScientists have detected a giant fan-shaped structure buried beneath the East Antarctic Ice Sheet, suggesting the frozen continent may be hiding the geological scars of the breakup that helped separate Antarctica from Australia&nbsp;&nbsp;Space DailyScientists Stunned by Discovery of Massive Structure Hidden Beneath Antarctica&nbsp;&nbsp;Futura, le média qui expl",
+      "id": "f1bd2cfac5e3",
+      "title": "Vibrant discovery: Unique, salty clouds found on iconic 'Pink Planet' - FOX Weather",
+      "published": "2026-07-03T14:00:00+00:00",
+      "summary": "Vibrant discovery: Unique, salty clouds found on iconic 'Pink Planet'&nbsp;&nbsp;FOX Weather‘Pink Planet’ surrounded by salty clouds: study&nbsp;&nbsp;NewsNationNASA uncovers decade-old mystery surrounding the 'pink planet'&nbsp;&nbsp;Báo VietNamNetJames Webb uncovers exotic salt clouds on a mysterious pink world&nbsp;&nbsp;ScienceDailySalty Clouds aren’t the only strange thing about this object in space : Short Wave&nbsp;&nbsp;NPR",
       "sources": [
         {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQWXJqcE9UUXJMcklZX2xJRTV1UXg1WlRrbF85R1JrQnpaZlRBNlYxMEdsLVpFbHNUQXlZMS1zYXBpTGotU2VrLTUyRmN5V1pXay1xamRCTGZWenE4T2Njai1EV1EyRzBWay1SODZ5S0FRVlZJTDltTGt5TmVzU3Q5eWhEV3JwTXBZUVdFd3JVeENmSzhscEw5T3pydF9LUFV3ZVZFdDlkQWF5b1BpeXJlMnRGMVkwTnQtMlVDVm5BWFZzQ1ZtWWFHSFROVnpkdXF1Zk4ya25Ta3VfX2pTSS1zWDZQc25WLXEwanlxa2xlWjd2NWMxcjdiMVpwcmlMSTBYOUtfOWx0a3dhZW9mQ0xiWlRTdWpSTmoxdWZlYlVnanUzZ1BJV1hN0gGsAkFVX3lxTE5MRGM5TE5ObHUySG0td1phQlh3Wjl0SmxLR1ZRc1RLUGtIODA1MFBDd2cwTTMxQXBRc3BqR29rMDA1SWNwREQwdnBRNnJHemE3YzF2Z042cWpGemlSSmdBQnJSRU5QeWx0RHVGTXk0cXlRUlF3MEtZeFU1aEhNMllkZVN4X055emliaDJOeG5GckVzZFlNTmo3dXQ5THZhQUtwTVladFhfbTlHXzFQQjJOb2UtRGVtbUNSWmVXY1FDNWJaVkpRM0JYNnljV0FDdXNCLXNtOHNJcWxRMEVkRHpCSE1OYjJ3d3JzOGtPNW1HaktBNE52S01fR2Zxd3VDcnhMUzhtc3p0LWNwbEV3TlZqRGRXNjVUUFZDNEZzN0pabFhCblJHNUhjSjVqTw?oc=5"
+          "name": "FOX Weather",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV2NEbktsQU80NjBiNHNUdWNTbXU5d0dmZ3NiY1ZUajFKTnNfd0h6bHRRdlpZMDUxYWNNR0ZBQzdoRlVKZ1NnWlcxSTF6RThqTUFJcDdGWU4xSlFCbFJVNGJibVFodzA2OXdnbmp0WEpXejFGSUw2UU5JNURlQVF1N3c0MjRYa2NaRU1F0gGQAUFVX3lxTE5vRkExdjVLUHZlemVtSHZIdHlmdEZNUnI2Tjc4T3ExZzdfT0pJOUttUGJUSm9IaFlOaVhNMHBkbnAyeXdYTnZzbGZZZE9Ga2QtRVFhNVFaZGR1WnpzZkVWZDN6TDBDaG9xcVJSZlBUemNiM3cxZGhaV3JtTW1YRWU1OXJTaTc1UjJrWDZQLXc3ZQ?oc=5"
         }
       ]
     },
@@ -141,11 +177,23 @@
       "id": "e0f87615a3b0",
       "title": "Think Taking Omega-3 Fish Oil Supplements Boosts Memory and Helps Avoid Alzheimer's? A New Study Proves Otherwise - inc.com",
       "published": "2026-07-03T13:40:35+00:00",
-      "summary": "Think Taking Omega-3 Fish Oil Supplements Boosts Memory and Helps Avoid Alzheimer's? A New Study Proves Otherwise&nbsp;&nbsp;inc.comMillions take omega-3 fish oil for brain health but a new study found no benefit&nbsp;&nbsp;ScienceDailyFish oil supplements no match for Alzheimer's risk, new study finds&nbsp;&nbsp;USA TodayIt's not the fish oil pill that protects you from dementia–a new study reveals the one thing that actually matters for your brain&nbsp;&nbsp;OkDiarioIs Fish Brain Food? | News ",
+      "summary": "Think Taking Omega-3 Fish Oil Supplements Boosts Memory and Helps Avoid Alzheimer's? A New Study Proves Otherwise&nbsp;&nbsp;inc.comMillions take omega-3 fish oil for brain health but a new study found no benefit&nbsp;&nbsp;ScienceDailyIt's not the fish oil pill that protects you from dementia–a new study reveals the one thing that actually matters for your brain&nbsp;&nbsp;OkDiarioFish oil, DHA may not help improve your memory or cognition, study finds&nbsp;&nbsp;WZTVIs Fish Brain Food? | News ",
       "sources": [
         {
           "name": "inc.com",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQ2h0ZEJqczNUajhJV2FsXzhOUHl5QmtJUXhfYzhRUW82bUp4Y2FHWnd0SUFJdmd6aE80V0VDZnVjNVBYYTdiSzhTTUdyd3NpQTFsek1aSmgya1hZak1jYm9KR2I0WmhYbkFDakxHUnBPc0dVd0hUOGFLdzFkS0hucUNqOTMxc1o2cTdfRGplSkpwaVA4bFJRUVpUdnY3NmpieXhJejdOajgtM3M3RDc0eUVndEh1bE5qNnktS3JrY0RMODZWQk9Kd3ZvMEcxYk14ZHhYa1dobGhqaWlyc2xjbHF5SWZaUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f7e0487ee5f4",
+      "title": "How a new fungal genome-editing tool could open fresh paths to cancer treatments - Phys.org",
+      "published": "2026-07-03T13:40:03+00:00",
+      "summary": "How a new fungal genome-editing tool could open fresh paths to cancer treatments&nbsp;&nbsp;Phys.orgPrime editing for precise genome engineering and modulation of fungal metabolism&nbsp;&nbsp;NatureFungal sample (IMAGE)&nbsp;&nbsp;EurekAlert!Fungal Gene-Editing Breakthrough Yields 3 Novel Anti-Cancer Candidates&nbsp;&nbsp;Tech TimesUnlocking the chemical potential of filamentous fungi using prime editing&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45WExLQTQ5REFZZ3cyZWtmUGszTkZjSF9Td3JOM0tjSWV1YnpZRE1GSGR5bzdEbFliaG9NRHdnRGFKQ3duRTZPaXE2V2NvT3dpRWxVQU5QanQzU1BYenlHd19HVUxxeXRNaHJsbk1lOE5BVU0?oc=5"
         }
       ]
     },
@@ -165,11 +213,35 @@
       "id": "0fb23bc10499",
       "title": "Dangerous Tick-Spread Disease, Which Can Transmit Just 15 Minutes After Contact, Is Rising in the U.S. — Here's What to Know - Yahoo News Canada",
       "published": "2026-07-03T12:41:24+00:00",
-      "summary": "Dangerous Tick-Spread Disease, Which Can Transmit Just 15 Minutes After Contact, Is Rising in the U.S. — Here's What to Know&nbsp;&nbsp;Yahoo News CanadaRare but dangerous tick-borne virus on the rise in US&nbsp;&nbsp;KRQEThis rare tick-borne disease is on the rise in the U.S.&nbsp;&nbsp;The Washington PostDangerous Tick-Spread Disease, Powassan virus, Spreading in the U.S.: What to Know&nbsp;&nbsp;People.comRhode Island man diagnosed with Powassan disease&nbsp;&nbsp;WJAR",
+      "summary": "Dangerous Tick-Spread Disease, Which Can Transmit Just 15 Minutes After Contact, Is Rising in the U.S. — Here's What to Know&nbsp;&nbsp;Yahoo News CanadaRare but dangerous tick-borne virus on the rise in US&nbsp;&nbsp;KRQEDangerous Tick-Spread Disease, Powassan virus, Spreading in the U.S.: What to Know&nbsp;&nbsp;People.comRhode Island man diagnosed with Powassan disease&nbsp;&nbsp;WJARThis rare tick-borne disease is on the rise in the U.S.&nbsp;&nbsp;The Washington Post",
       "sources": [
         {
           "name": "Yahoo News Canada",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb1VISTluNzQ3N0ZkUDVSUGxTaUlPQ1hacFdOc3FTYTl1ZkJVTGppN2Y5T0VDMjFadFVxTmFEUFpqSlBKdFI3T0t3WGN5SGQ0dWZLU0Vhd1BRY3Fldlpvcnd4ejU2b2tJNUhCeU9RdkZ1azZFUEI0cEhSSFBGRDZvY1diU09QZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b45e8ac20ecd",
+      "title": "Memory Loss May Not Be the Earliest Sign of Alzheimer’s - Nautilus | Science",
+      "published": "2026-07-03T12:00:00+00:00",
+      "summary": "Memory Loss May Not Be the Earliest Sign of Alzheimer’s&nbsp;&nbsp;Nautilus | ScienceAlzheimer’s May Affect Flexibility Before Memory Loss Appears&nbsp;&nbsp;Technology Networks4 early warning signs of dementia that no one should ignore&nbsp;&nbsp;Irish MirrorAlzheimer’s Warning Signs Emerge Decades Early&nbsp;&nbsp;Antigua Observer NewspaperWichita neuropsychologist discusses Alzheimer’s warning signs&nbsp;&nbsp;KSN.com",
+      "sources": [
+        {
+          "name": "Nautilus | Science",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPazl6VTBhOVVhdU4wMXNXeldPYWlQWnVqUkhFLUZnbEpUN0xxNHhaUloyckxkLTJnWWdqdkJMUElSX3czXy1HdmN2RmhTVU5lRWs2R3pOWkRzVEItTXpFLVdYU3Z3dzdhSk1qNXMwZTJBSEUzMzc5T0lZRW1YendTZHA4VU1YUHM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e93982a9733c",
+      "title": "Why Antarctica froze millions of years before the Arctic – new research - The Conversation",
+      "published": "2026-07-03T11:48:03+00:00",
+      "summary": "Why Antarctica froze millions of years before the Arctic – new research&nbsp;&nbsp;The ConversationScientists uncover why Antarctica became engulfed by ice millions of years before the Arctic&nbsp;&nbsp;Phys.orgHere's why the South Pole froze over before the North Pole&nbsp;&nbsp;ReutersThe Breakup of Gondwana Over 100 Million Years Ago May Be Why Antarctica Has Ice Today&nbsp;&nbsp;eos.orgCracking the Ice: Unveiling the Mysteries of Antarctic Glaciation&nbsp;&nbsp;Devdiscourse",
+      "sources": [
+        {
+          "name": "The Conversation",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTDJCS2g5V01VQi1wTGNPUVNnNzk2am44emM2a3B3NVRoWmdMY0FnZXh0clFDTldIT1ZwLThXdGtya1VEdXlpQThneHJDWGFZd1VFM1hNWUNHdTg2T3dGamJleGd2X0NGR1NfRGNvMnVpZEtMeXd5NXdlODczS0U0ZFlob29mYXFMeVBYVjctZUtNVjM3ZzVocXktc2h1NGRSNzVHR0FDNA?oc=5"
         }
       ]
     },
@@ -222,18 +294,6 @@
       ]
     },
     {
-      "id": "f25cd94914fa",
-      "title": "Ebola treatments trial begins in the Democratic Republic of Congo - BBC",
-      "published": "2026-07-03T10:11:14+00:00",
-      "summary": "Ebola treatments trial begins in the Democratic Republic of Congo&nbsp;&nbsp;BBCResearchers launch study on Ebola treatments as Congo outbreak worsens&nbsp;&nbsp;AP NewsTrial for Bundibugyo Ebola treatment starts in DRC, WHO says&nbsp;&nbsp;ReutersClinical trial for Ebola therapies begins in DR Congo&nbsp;&nbsp;CIDRAPPatient enrolment begins in a scientific trial to identify the first effective treatments for Bundibugyo virus disease&nbsp;&nbsp;World Health Organization (WHO)",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EMkwyajNLRTlSMExaaWZvZnBGWGpqZjVMR0FtUE01dnZFUWxmMHc4SzVMRm9ZYnd6Ti1ZdlNNRGpzUVpuZWlFbjFpakg4WTlySUdVQ19HdWx1QQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e885dbf61b09",
       "title": "Commentary: It's not just vaccines — from infancy to adolescence, Republicans are waging war on children's health - Los Angeles Times",
       "published": "2026-07-03T10:00:00+00:00",
@@ -282,18 +342,6 @@
       ]
     },
     {
-      "id": "aa5786065a2c",
-      "title": "Early signs of dementia: 4 warning symptoms that may appear before memory loss - The Mirror",
-      "published": "2026-07-03T08:59:00+00:00",
-      "summary": "Early signs of dementia: 4 warning symptoms that may appear before memory loss&nbsp;&nbsp;The MirrorAlzheimer’s May Affect Flexibility Before Memory Loss Appears&nbsp;&nbsp;Technology Networks4 early warning signs of dementia that no one should ignore&nbsp;&nbsp;Irish MirrorAlzheimer’s Warning Signs Emerge Decades Early&nbsp;&nbsp;Antigua Observer NewspaperWichita neuropsychologist discusses Alzheimer’s warning signs&nbsp;&nbsp;KSN-TV",
-      "sources": [
-        {
-          "name": "The Mirror",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeHAzeDUyYjU0by11VlIyQVdUODRqQmxfNWdWMkN5RnEySXFzdFhfS3RIQTNQdEFtZHZYaDV2U2xUaERIM3l4SHN2NmZDTHJyUDlnTXgwdHVvOVFlN19aUDZzY2NoaDlWSjFVdVJHNzF0R1phLWhPdVQtOHQtMDBoRXp30gGHAUFVX3lxTFBieUpScE95c1lwdVluQ1BIc0FKV1k3WW5OMHQ5eElXbm1tZWVqcUtlaXlGVEZXOXUydmJScUt2TmdLTzA0ODBpZkQ1cUhrWnpNZFUxSDVDRHhIX0ZaSVJUVHhWNVVpLUN5aFRHUkdLWDZWdFZKQmRUcTVDUGdPNlNfRXJHbDJKMA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "702875f32f9b",
       "title": "The real cause of a common stroke may have been missed for decades - ScienceDaily",
       "published": "2026-07-03T08:44:34+00:00",
@@ -309,23 +357,11 @@
       "id": "59e4b6d95c70",
       "title": "Health officials warn beachgoers of flesh-eating bacteria ahead of July 4; What you need to know - AL.com",
       "published": "2026-07-03T03:16:00+00:00",
-      "summary": "Health officials warn beachgoers of flesh-eating bacteria ahead of July 4; What you need to know&nbsp;&nbsp;AL.comNew disease threats follow Trump administration's health program cuts&nbsp;&nbsp;CBS NewsMS Coast man fighting to save his leg contracts flesh-eating bacteria on a ‘typical day’ fishing&nbsp;&nbsp;NOLA.comDoctors warn swimmers about risk of flesh-eating bacteria in Houston-area beaches, lakes, and ponds&nbsp;&nbsp;Click2HoustonBeachgoers warned of flesh-eating bacteria ahead of July ",
+      "summary": "Health officials warn beachgoers of flesh-eating bacteria ahead of July 4; What you need to know&nbsp;&nbsp;AL.comNew disease threats follow Trump administration's health program cuts&nbsp;&nbsp;CBS NewsMS Coast man fighting to save his leg contracts flesh-eating bacteria on a ‘typical day’ fishing&nbsp;&nbsp;NOLA.comDoctors warn swimmers about risk of flesh-eating bacteria in Houston-area beaches, lakes, and ponds&nbsp;&nbsp;Click2HoustonHealth Officials Warn of Flesh-Eating Bacteria Ahead of t",
       "sources": [
         {
           "name": "AL.com",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY2hsY1B5SndXaHlqNVBFdjllTkFlSUNLNmZUb3dlcjhOejhrVkpaWW04aGNRSUVZcFdBdmlkUmlmZVZZR3pYbUF6dWt0NGFnTFlFd1d5YXVRdC1GN3JiREg1b19JbzJHM29kb0pkUUdycGFxR1A1RFdXNWxYelU0UDNQbWdQYmR3b3p1b0RBM0djWnlXUk5ndENpdGtzNEx5VUlBRDg5bmtDQkhBdkI2eWxyRDR6NmpRejh4ZzM2VjBNR1Q5TXNOT3JqR0fSAeABQVVfeXFMUGZDRTFPYVVBZEFYbFBsd0VoM3hjby02MGxkOVM0a0c5Z2dvSUVkRWxHM084NHhkQmdWalptX25rZFhmSGg2NE5kNkt2cERQWHQtX1g4dE9MLUx1V0RsSnlVTjhLZHJldzRhMy00a1ZITXVzYzhTaWNhZVdqbElnS1FZTjNWVTEzaUFSeERMalJQaG1kb2xZYk1zajlNVjFjbldnRmNEbnZQbmpfcmlGU3BnQng4OHRkMVotYzJqRUNfT1M5TVctVDg4LU5wTUk4dWQ5OVRRVXdfeVZQeUI1MnE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9337a4cc64f3",
-      "title": "Stronger than Ozempic. Not exactly legal. ‘Reta’ has entered the chat. - The Washington Post",
-      "published": "2026-07-03T02:41:47+00:00",
-      "summary": "Stronger than Ozempic. Not exactly legal. ‘Reta’ has entered the chat.&nbsp;&nbsp;The Washington PostWhat a Brooklyn bodega reveals about the craze for an experimental weight-loss drug&nbsp;&nbsp;CBS NewsThe weight loss ‘quick fix’ driving a wave of hospitalisations&nbsp;&nbsp;AFR'Godzilla' fat jab linked to liver damage as unlicensed drug turns users yellow&nbsp;&nbsp;The Sun\"Here for the peptides\": Unapproved weight-loss drug sold at Brooklyn bodega&nbsp;&nbsp;AOL.com",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVUs3ZzBvSmZJTElsT0h2ME5aa2J5V0NqZ2dvUGhNUnRLb2ZCLVJHVjdtUm1EajVodzRqRFE1eGxuUGp0RTJVSHF2bGJKdTVhbjFLX21wNzZyd1d5WWs3OHZUMFBLeDFDSkNBQ2lIVkhsMG5zcGh6Vzg4T1JPOC1ZTmtVNW1JbmNsM3hHeU1rSEo0OTNST1BHMzQxTm85cEk?oc=5"
         }
       ]
     },
@@ -345,7 +381,7 @@
       "id": "c4e13b8ce765",
       "title": "Legionnaires’ disease outbreak in 2 NYC neighborhoods puts health officials on high alert - New York Post",
       "published": "2026-07-03T02:18:00+00:00",
-      "summary": "Legionnaires’ disease outbreak in 2 NYC neighborhoods puts health officials on high alert&nbsp;&nbsp;New York PostTwo cases of Legionnaires' disease prompt Upper East Side investigation in New York City&nbsp;&nbsp;ABC7 New York10 Legionnaires' disease cases on NYC's Upper East Side under investigation, health officials say&nbsp;&nbsp;CBS NewsTwo stricken with Legionnaires Disease on Upper East Side, cluster investigated: NYC health officials&nbsp;&nbsp;New York Daily NewsLegionnaire’s Disease De",
+      "summary": "Legionnaires’ disease outbreak in 2 NYC neighborhoods puts health officials on high alert&nbsp;&nbsp;New York PostTwo cases of Legionnaires' disease prompt Upper East Side investigation in New York City&nbsp;&nbsp;ABC7 New YorkTwo stricken with Legionnaires Disease on Upper East Side, cluster investigated: NYC health officials&nbsp;&nbsp;New York Daily NewsLegionnaire’s Disease Detected in East Village Housing Complex&nbsp;&nbsp;OurTownNY.comHealth officials investigate Legionnaires’ disease cas",
       "sources": [
         {
           "name": "New York Post",
@@ -366,18 +402,6 @@
       ]
     },
     {
-      "id": "80d97ad713aa",
-      "title": "First-of-Its-Kind Lupus Treatment Significantly Reduces Symptoms in Mice - ScienceAlert",
-      "published": "2026-07-03T01:34:17+00:00",
-      "summary": "First-of-Its-Kind Lupus Treatment Significantly Reduces Symptoms in Mice&nbsp;&nbsp;ScienceAlertMicrobiome Research Points to Potential Lupus Treatment&nbsp;&nbsp;Technology NetworksUT Health San Antonio researchers may have found another way to treat lupus patients&nbsp;&nbsp;MSN",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcDVLNmRtOWZQR0lCOXcyT1Raa3EtZURHUUw0ajJOLXZCb2w3d2NjODFNOUZkWHEwRi1ocFRheWdNUVFkdXMtS05DY25FV2lvZThIWTBmbkZMVF80SUR2eUpCZ1VTb3laOE1EaG9tcjZwVkhKSEdyZ2I5QzNYalVsN0dDZHN6R0MxMHVaR2hVb3RzS1VITjBhMjgwMXJZNzZhZHE0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c86f2528e300",
       "title": "Measles confirmed in Teton County, Wyoming, as summer crowds flock to parks - East Idaho News",
       "published": "2026-07-03T01:00:00+00:00",
@@ -386,30 +410,6 @@
         {
           "name": "East Idaho News",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOGxMWUVCUmFibi1WOUZuNHJTRGZfaHFHYmd4MG14UDRHVzFaVlZzaHhScjdlcGJ3RUxqQUV3OXNFNFAxaHZ3bVVvTzZ4NDdqYWZUNF8wR3pBeld0VHNFc19seUdQaHJqdGJiV3ZqblRoWUUzZGcxaVdkSVdBSHZEOHA4QUM1VlY4cHY5R21VZU9qNmJNNnlsVENsT2NscEZCb2tpa0h0U2ZDS1gySVUzLVZn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f02c544568d2",
-      "title": "Inland Empire city latest in SoCal to detect West Nile virus in mosquito samples - KTLA",
-      "published": "2026-07-03T00:07:32+00:00",
-      "summary": "Inland Empire city latest in SoCal to detect West Nile virus in mosquito samples&nbsp;&nbsp;KTLAFirst human case of West Nile detected in Sacramento County, health officials say&nbsp;&nbsp;Sacramento BeeMore mosquitoes found infected with West Nile in Orange County, now in 10 cities&nbsp;&nbsp;Orange County RegisterHealth officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach&nbsp;&nbsp;Los Angeles TimesWest Nile Virus confirmed in Butte County, officials urge r",
-      "sources": [
-        {
-          "name": "KTLA",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLXB0dVJGTTVMa19kdmZ5Q3RkYWh6M3dUdkI1cW55cHV5eDFGNE1jTnNoRVZESF9hdF9POW1yanhZLThiMHhvUzhiV2tEWVJjeTJRWURRTUdMOXdVMUtnbFVWNUhtWkt6ckpuSTZBV195dTVsS2Rkb2I3MlRPcW5BRkFXWmhlVE1YdDNkMElwU0QybVVrNlctNm10eEZ6QVZwdGtQTU9QNFEyRGF4Rl9wTllqSTPSAboBQVVfeXFMUEJ1eDY4X1I0LU84VlZvTlcwQ0FDbU04OVJLSVk2SDZLTnpFQ3RyV1dvSHQ4NF9Mc1lwZnVhanFxUlNickpVN0hqdGhUNUcyYjByOFFkTHBILUpsR0FtRUtERl93UTY0QjExemsxMkhlZm9wRWhkLXg0WVllRHprVFRhcGZXc01WTEQ4OHVhTFdSdkRBeW40bWRpeVkwV1B3VXFFN0FiS3lEa3pqXzEyMFRfcW8wQkp0eU9n?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0a23a0348801",
-      "title": "Deadly MV Hondius Hantavirus Outbreak Is Over, W.H.O. Says - The New York Times",
-      "published": "2026-07-02T22:25:48+00:00",
-      "summary": "Deadly MV Hondius Hantavirus Outbreak Is Over, W.H.O. Says&nbsp;&nbsp;The New York TimesWHO declares hantavirus outbreak linked to cruise ship over&nbsp;&nbsp;The GuardianHantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosTaking the world’s temperature: WHO chief spotlights global health emergencies&nbsp;&nbsp;UN NewsHantavirus Cruise Ship Outbreak Officially Over After 13 Infected, 3 Dead&nbsp;&n",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmVrTGtjYlRSMFlxWkVfUjBqRUxxU09RXzhzUEtoXzdGSlRwMXI0bUJxaGpBM3FJTGxjWkR4cXhGUjV3TngxcVU1NkpWMmVTcTlHN1dwekZ3T0NnaURUMnV2SG9BM19sdG1raTdPWnZQanpKTkdqV1BBRFVzT0ZJTzZrVGZwWV9RSGJob1JrWWpqUQ?oc=5"
         }
       ]
     },
@@ -426,6 +426,18 @@
       ]
     },
     {
+      "id": "0a23a0348801",
+      "title": "Deadly MV Hondius Hantavirus Outbreak Is Over, W.H.O. Says - The New York Times",
+      "published": "2026-07-02T22:00:43+00:00",
+      "summary": "Deadly MV Hondius Hantavirus Outbreak Is Over, W.H.O. Says&nbsp;&nbsp;The New York TimesHantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosWHO declares hantavirus outbreak linked to cruise ship over&nbsp;&nbsp;The GuardianWHO declares cruise-linked hantavirus outbreak officially over&nbsp;&nbsp;Al JazeeraHantavirus Cruise Ship Outbreak Officially Over After 13 Infected, 3 Dead&nbsp;&nbsp;Forbes",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmVrTGtjYlRSMFlxWkVfUjBqRUxxU09RXzhzUEtoXzdGSlRwMXI0bUJxaGpBM3FJTGxjWkR4cXhGUjV3TngxcVU1NkpWMmVTcTlHN1dwekZ3T0NnaURUMnV2SG9BM19sdG1raTdPWnZQanpKTkdqV1BBRFVzT0ZJTzZrVGZwWV9RSGJob1JrWWpqUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f41725977841",
       "title": "Early, intense West Nile season may signal a severe year for the mosquito-borne illness, CDC says - CNN",
       "published": "2026-07-02T21:41:37+00:00",
@@ -434,18 +446,6 @@
         {
           "name": "CNN",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSW9jdDNYV0thNnVFV2l2N3ljekM1WGF2UGd1eEV6bmhNR0QtbDdYQWdUZTZySVpUcnJrX3dsQkVDM25QSElQTlZYVTg3cWxtVzlfOG1TMTlmaTN3ZDAyQVlFUnAtbFJiMG0yNXZvZXBvT0RfblZBYjlQdEJTc1lpMQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4a0ddb42f22f",
-      "title": "600,000 mosquitos are being dropped around Washington DC to kill off blood-sucking pests - The Independent",
-      "published": "2026-07-02T21:32:00+00:00",
-      "summary": "600,000 mosquitos are being dropped around Washington DC to kill off blood-sucking pests&nbsp;&nbsp;The IndependentWhy a company is releasing 600,000 Wolbachia-infected mosquitoes in the DC region&nbsp;&nbsp;WTOPCompany Plans to Drop 600,000 Bacteria-Infected Mosquitoes into DC This Summer&nbsp;&nbsp;GizmodoGTA VI left the box?, Google's mosquito project, and more...&nbsp;&nbsp;FinshotsImportant reason why Washington DC set to release 600,000 mosquitoes across city&nbsp;&nbsp;Daily Star",
-      "sources": [
-        {
-          "name": "The Independent",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMVJ5ZEtHNUZJMTg0NlJXdDhFSUJFYVlxaHZ0LTEtZU83REc4NUo3dF9idGFNZU1RTkVaOGotTFFES09rMGlxYjV5RUUxdVhub1ltQjg0ZldpR1ljck12a0pPVlVacVB4VWtsNHN1M1o2NndGMDR1S2c3T3VjemI2MFpTWGN6UzIwdk9Temlnazc1MHhSc1gtRUFR?oc=5"
         }
       ]
     },
@@ -465,7 +465,7 @@
       "id": "f3b3143a7963",
       "title": "Social Media Recalibrates How the Brain Values Mental Effort - Neuroscience News",
       "published": "2026-07-02T20:47:53+00:00",
-      "summary": "Social Media Recalibrates How the Brain Values Mental Effort&nbsp;&nbsp;Neuroscience NewsInstant digital rewards may make hard thinking feel less worthwhile&nbsp;&nbsp;Phys.orgIs your phone altering your brain? Yes, but it's not that simple&nbsp;&nbsp;RTE.ieAn effort recalibration framework for digital media use and cognition&nbsp;&nbsp;Nature",
+      "summary": "Social Media Recalibrates How the Brain Values Mental Effort&nbsp;&nbsp;Neuroscience NewsAn effort recalibration framework for digital media use and cognition&nbsp;&nbsp;NatureHow the internet is rewiring our brains&nbsp;&nbsp;The Daily StarInstant digital rewards may make hard thinking feel less worthwhile&nbsp;&nbsp;Phys.org",
       "sources": [
         {
           "name": "Neuroscience News",
@@ -474,10 +474,22 @@
       ]
     },
     {
+      "id": "1788ff295719",
+      "title": "Sitting for more than 30 minutes at a time linked to higher risk of cancer death - The Guardian",
+      "published": "2026-07-02T20:08:00+00:00",
+      "summary": "Sitting for more than 30 minutes at a time linked to higher risk of cancer death&nbsp;&nbsp;The GuardianCancer: Why every extra hour of uninterrupted sitting may raise risk&nbsp;&nbsp;Medical News TodaySitting or Reclining for More Than 30 Minutes at a Time Every Day May Increase Cancer Risk, New Study Finds&nbsp;&nbsp;People.comLong sitting bouts linked to increased cancer risk&nbsp;&nbsp;Medical XpressStudy Warns on Sedentary Behavior and Cancer Mortality&nbsp;&nbsp;MedPage Today",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSS1PMjJqeWdIOWxyTUZaRkhOTlZhY05kZFRQenQ1NGVDemNaT1lBX1VkWW9ucG1neVFpVGVOVUV4ZXQ1VHFHN0ttMVdMX0RNc29ubTlnenFtTlk5V0hrX0VmTUZQcktmVG1MNEM3TWFOcTU4eVM2ampvZ0hzQmFlTzJYUzE2WVphd3ZaWWFZakU?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e2b5b82444d1",
       "title": "Is grey hair reversible? Scientists are putting color back into strands - New York Post",
       "published": "2026-07-02T19:54:00+00:00",
-      "summary": "Is grey hair reversible? Scientists are putting color back into strands&nbsp;&nbsp;New York PostWhy Do Humans Have Grey Hair? A Biologist Explains What’s Happening&nbsp;&nbsp;ForbesVitamin, mineral deficiency linked to premature gray hair, research shows&nbsp;&nbsp;The Times of IndiaHow to delay grey hair naturally: 5 science-backed hacks&nbsp;&nbsp;Indulge Express'Why am I seeing grey hair in my 20s?' Expert explains the real causes of premature greying&nbsp;&nbsp;TheHealthSite",
+      "summary": "Is grey hair reversible? Scientists are putting color back into strands&nbsp;&nbsp;New York PostWhy Do Humans Have Grey Hair? A Biologist Explains What’s Happening&nbsp;&nbsp;ForbesVitamin, mineral deficiency linked to premature gray hair, research shows&nbsp;&nbsp;The Times of IndiaHow to delay grey hair naturally: 5 science-backed hacks&nbsp;&nbsp;Indulge Express",
       "sources": [
         {
           "name": "New York Post",
@@ -513,7 +525,7 @@
       "id": "62e033b92376",
       "title": "Quality of Muscles, Not Size, Lowers Heart Attack Risk - Newser",
       "published": "2026-07-02T18:42:00+00:00",
-      "summary": "Quality of Muscles, Not Size, Lowers Heart Attack Risk&nbsp;&nbsp;NewserPeople with strong chest and back less likely to have a heart attack, analysis suggests&nbsp;&nbsp;The GuardianThe chest and back exercises to help reduce heart attack risk&nbsp;&nbsp;The TelegraphMoobs linked to ‘58% higher risk of heart attack in 10 years’ in ‘fascinating’ study&nbsp;&nbsp;The SunThe ‘Heartsavers’: How strong chest and back muscles (and THESE workouts) may lower heart attack risk&nbsp;&nbsp;The Times of In",
+      "summary": "Quality of Muscles, Not Size, Lowers Heart Attack Risk&nbsp;&nbsp;NewserPeople with strong chest and back less likely to have a heart attack, analysis suggests&nbsp;&nbsp;The GuardianThe chest and back exercises to help reduce heart attack risk&nbsp;&nbsp;The TelegraphLow muscle density on coronary CT linked to heart risk&nbsp;&nbsp;AuntMinnieI’m a personal trainer. These five exercises could reduce your risk of a heart attack&nbsp;&nbsp;The Independent",
       "sources": [
         {
           "name": "Newser",
@@ -558,18 +570,6 @@
       ]
     },
     {
-      "id": "c52eec39868f",
-      "title": "Imaging mass cytometry reveals functional and immunological changes during type 1 diabetes progression in human pancreata - Nature",
-      "published": "2026-07-02T17:10:32+00:00",
-      "summary": "Imaging mass cytometry reveals functional and immunological changes during type 1 diabetes progression in human pancreata&nbsp;&nbsp;NatureUnlocking diabetes’ secrets: Pediatric organ donors help map a path to a cure and prevention&nbsp;&nbsp;Vanderbilt Health NewsA spatial atlas of pancreatic remodelling in type 1 diabetes&nbsp;&nbsp;NatureMapping histologic and functional maturation of human endocrine pancreas across early postnatal periods&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9peElaQWs5ajVPdG14MEtBNzNVQ2ZiRVc2VGNQczVMeW9XZFR5Z1BEemlEN3JfZmJsUHgydW4wZzVCbFFCTmxTQWhNLUV0YVk1OFE1Tk9lWm9wUFR2WnpN?oc=5"
-        }
-      ]
-    },
-    {
       "id": "35a30cedc5dd",
       "title": "Tick season is expected to be worse than normal as ER visits rise in much of the U.S. - CBS News",
       "published": "2026-07-02T16:34:29+00:00",
@@ -585,11 +585,23 @@
       "id": "f5be77dcd0ca",
       "title": "Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages - Ars Technica",
       "published": "2026-07-02T16:30:37+00:00",
-      "summary": "Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages&nbsp;&nbsp;Ars TechnicaEbola deaths in Africa top 400 as Uganda reports death of child from Marburg&nbsp;&nbsp;CIDRAPMarburg outbreak is reported in Uganda, threatening to complicate Ebola response in region&nbsp;&nbsp;STATHealth Alert: Health Alert: U.S. Embassy Kampala (June 29, 2026)&nbsp;&nbsp;U.S. Embassy in Uganda (.gov)One-year-old dies of Marburg in Uganda&nbsp;&nbsp;The Telegraph",
+      "summary": "Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages&nbsp;&nbsp;Ars TechnicaMarburg outbreak is reported in Uganda, threatening to complicate Ebola response in region&nbsp;&nbsp;STATEbola deaths in Africa top 400 as Uganda reports death of child from Marburg&nbsp;&nbsp;CIDRAPHealth Alert: Health Alert: U.S. Embassy Kampala (June 29, 2026)&nbsp;&nbsp;U.S. Embassy in Uganda (.gov)One-year-old dies of Marburg in Uganda&nbsp;&nbsp;The Telegraph",
       "sources": [
         {
           "name": "Ars Technica",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU3dPbTA3Wl8tUnBEZEVMaXNJOVhpb2VCMmMzY0RjajRfZURWREUxWThFWTRJWlpNV0ZrWUxYVXBTV19COEFJVUIybXIxOW5vZ0NDeXBmTDh4c1Jfdng3a215eDBuRF9vVU1XTFdvSEtORm1odHdnQm5UWnhaTFJKWTNKVlo2b2JGQmF1bWRIdVVFVEI1Mk5WdnFyNzhZeVBxTlJZNmxWd281Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "30a7907e9294",
+      "title": "Researchers launch study on Ebola treatments as Congo outbreak worsens - AP News",
+      "published": "2026-07-02T16:25:00+00:00",
+      "summary": "Researchers launch study on Ebola treatments as Congo outbreak worsens&nbsp;&nbsp;AP NewsPatient enrolment begins in a scientific trial to identify the first effective treatments for Bundibugyo virus disease&nbsp;&nbsp;World Health Organization (WHO)Trial for Bundibugyo Ebola treatment starts in DRC, WHO says&nbsp;&nbsp;ReutersEbola treatments trial begins in the Democratic Republic of Congo&nbsp;&nbsp;BBCClinical trial for Ebola therapies begins in DR Congo&nbsp;&nbsp;CIDRAP",
+      "sources": [
+        {
+          "name": "AP News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNmwwT2tQZjJqVmNHRVVubHZFR2VRZXV5V3FTNGVFQkZHNWYtdi1HdmNtTmx3RGliTXBWN21IeFRXaTYtYTZaQ3NpeE9zNW92R3dYemh4MlcwOWVDZ0w1V0RjRzN6S1p5RjNONzNJRkZZSHA1ZFZIeWFuYVozbHFPb21VNGZlOGpZdDBoVU54YnJKSHFOS0NJUE9OMnVIRnZkYVE?oc=5"
         }
       ]
     },
@@ -642,14 +654,14 @@
       ]
     },
     {
-      "id": "21cd8c291db9",
-      "title": "Analog gravity advance offers new insights into Hawking radiation from black holes - Phys.org",
-      "published": "2026-07-02T13:40:03+00:00",
-      "summary": "Analog gravity advance offers new insights into Hawking radiation from black holes&nbsp;&nbsp;Phys.orgPhysicists Simulated a Black Hole in a Lab. Then It Started to 'Evaporate'.&nbsp;&nbsp;ScienceAlertBackreaction of stimulated Hawking radiation in an optical analogue&nbsp;&nbsp;NatureHawking Radiation Breakthrough: These Black Hole Emissions Could Reveal Quantum Gravity&nbsp;&nbsp;The DebriefBackreaction of Stimulated Hawking Radiation Revealed&nbsp;&nbsp;Bioengineer.org",
+      "id": "1029f37962cb",
+      "title": "What a Brooklyn bodega reveals about the craze for an experimental weight-loss drug - CBS News",
+      "published": "2026-07-02T14:00:00+00:00",
+      "summary": "What a Brooklyn bodega reveals about the craze for an experimental weight-loss drug&nbsp;&nbsp;CBS NewsStronger than Ozempic. Not exactly legal. ‘Reta’ has entered the chat.&nbsp;&nbsp;The Washington PostThe weight loss ‘quick fix’ driving a wave of hospitalisations&nbsp;&nbsp;AFR'Godzilla' fat jab linked to liver damage as unlicensed drug turns users yellow&nbsp;&nbsp;The Sun\"Here for the peptides\": Unapproved weight-loss drug sold at Brooklyn bodega&nbsp;&nbsp;AOL.com",
       "sources": [
         {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RVWVueVdheUVVejVWVURVdkhoRWpBeFVfXzVMYVVELS02eFg2VnE3aE45Qk1FY0NJbWw5dUNER3Budi1xN3pwNjJaSGZ6d1lpZEloUlpBNjBON2kxRkVPbUo5MjlJNzByTzdUY3I4UEJWQ0k5QXFOaVZITld1dmM?oc=5"
+          "name": "CBS News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNGJtX1FvcVg2dGJuX1ZvOFNsMDNnRDNXczVnWnltV3Z6M2FnUDE0T1A2ZVJER3d5MXNEUVlJNnhjcURoNGZGYjQ5OUFfTHMyaXA3MTNoeWV4Vk5GVUxVSXRCaTUtOGR4OUVGdlQxUVloRlRyU2VKVUIyUkJFWF9iS21xUl80YnNsUllPc0U5czBfd0QydzRZeQ?oc=5"
         }
       ]
     },

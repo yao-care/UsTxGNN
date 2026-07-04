@@ -1,15 +1,63 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-07-04T08:41:11.618050+00:00",
-  "total_fetched": 134,
-  "unique_count": 134,
-  "health_related_count": 65,
+  "fetched_at": "2026-07-04T13:39:03.721045+00:00",
+  "total_fetched": 130,
+  "unique_count": 130,
+  "health_related_count": 62,
   "news": [
+    {
+      "id": "f3fc137762f5",
+      "title": "The diet that’s proven to lower blood pressure and prevent dementia - AOL.com",
+      "published": "2026-07-04T11:46:20+00:00",
+      "summary": "The diet that’s proven to lower blood pressure and prevent dementia&nbsp;&nbsp;AOL.comSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUkVDdnNwYVZMM2hhTHpjOVhNMTBSeU5lT1NIWEVGVndrbloyZHNNbnFJOGotTzB1REpfRGN6U3lzbVo1NE5aZ3k4VFJMRmlWSzJhLTQ4SmVfUWlMVERlUFlCTUJDUkRjYWhKaGUwZkxka3REanVNR1hzV2xEbUtGWS1R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3b757ae3c6d0",
+      "title": "Heart surgeon says dangerous habit 'damages every organ' in body - Mirror",
+      "published": "2026-07-04T09:45:00+00:00",
+      "summary": "Heart surgeon says dangerous habit 'damages every organ' in body&nbsp;&nbsp;MirrorCardiologist Shares The One Drink He Would Never Have In His Fridge, And Maybe You Shouldn’t Either&nbsp;&nbsp;AOL.comSurgeon says bad habit held by millions is 'single most dangerous thing' for body&nbsp;&nbsp;Wales OnlineHeart surgeon calls soft drinks 'liquid death' and a 'big no-no' for heart health&nbsp;&nbsp;MSNHeart surgeon says drink popular in Ireland is 'liquid death' and a 'big no-no' for heart health&nb",
+      "sources": [
+        {
+          "name": "Mirror",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEVMSWQwQzQ4a2JhUUNVTnppczZjY2dRMXZCSUc5aVV3VXB1VGxHT3p3eFBTcjhqVld3SXlnRjh4REhKTGRMVUkwRXJ5azk2Z0NwbnNLTVlteFpWVHVaaldPd1M5clV4TEZhOTN4RENNaHlnOUYtZWRTMWFMU1M1ZFRPbWt6Q3PSAYwBQVVfeXFMTmg3WmFUX1BOV24zNTk4eGNjQU5RMmRRV3M0OFJMZnNoWnF0cjlKRFNFRDFCMXFrcGFJQk9OQzlyMzFjc0RiZ3RNNlNTMGp6VTltczJHbGF4ck04bEgwZEptYWpNNlVNTlVjODFUR2ZTQ29oOG1tNVRlTFhPRXdFb3Bhd0dPMG02elBGamE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "046542b89598",
+      "title": "What to know about cyclosporiasis as Michigan health officials investigate 300+ cases in outbreak - ClickOnDetroit | WDIV Local 4",
+      "published": "2026-07-04T09:00:01+00:00",
+      "summary": "What to know about cyclosporiasis as Michigan health officials investigate 300+ cases in outbreak&nbsp;&nbsp;ClickOnDetroit | WDIV Local 4Diarrhea-causing parasite that can contaminate raw produce causing misery across several states&nbsp;&nbsp;CNNClusters of Severe Stomach Illness Reported Across the U.S.&nbsp;&nbsp;The New York Times'Large and growing' parasitic infection reported in 17 states, including Pa. and NJ&nbsp;&nbsp;6abc PhiladelphiaMore than 60 North Carolina cases tied to parasite ",
+      "sources": [
+        {
+          "name": "ClickOnDetroit | WDIV Local 4",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOXzBlTjhpT0Ntdi1KOENlRVZQOThhOFo0N3FqdWdNcGhxWFNwNlJQR0xINklPSTVvT19vWDdMVms3RWpIa3BwajkxN1RnNHRJalczQV9XbTVnWVBJTklMd3ZyaTRRajlEeksxTjlzN0VvRTVqUzN1b2lobEJlLUdTUGpHR2Y4aGhKaVNHN3dNdmdVZTh4SGh0V0hYRnFrWEFRcVUtdzJjRHVPekVOanpSd3hOeDMwUkduRDlFdFpFNk9vdFQ3LTRpUkpkY3VCampKWHN4NnlUMkJidW9kUE4zUFBwVko?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bb2fdcb247b3",
+      "title": "People Who Like This 1 Food Have Lower Risk of Diabetes and Hypertension, Doctors Say - AOL.com",
+      "published": "2026-07-04T08:40:17+00:00",
+      "summary": "People Who Like This 1 Food Have Lower Risk of Diabetes and Hypertension, Doctors Say&nbsp;&nbsp;AOL.com",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxQ2lnT0QySUh2em1weDlPS0hwUmpPSG94em1NTmNvWEdNSlB1cnZOemRmZ01nNEdpcDh3QjlHbzEyNzFMbEdjMHRzVkV6UXJZdENsUjIyVU9CQnRwakpMSEdST3FYOUFQV3N2SURkWVZhUHBnVzVz?oc=5"
+        }
+      ]
+    },
     {
       "id": "03604eca96b8",
       "title": "Physicists Simulated a Black Hole in a Lab. Then It Started to 'Evaporate'. - ScienceAlert",
       "published": "2026-07-04T02:04:50+00:00",
-      "summary": "Physicists Simulated a Black Hole in a Lab. Then It Started to 'Evaporate'.&nbsp;&nbsp;ScienceAlertAnalog gravity advance offers new insights into Hawking radiation from black holes&nbsp;&nbsp;Phys.orgBackreaction of stimulated Hawking radiation in an optical analogue&nbsp;&nbsp;NatureScientists Make Major Black Hole Discovery That Could Explain Stephen Hawking's Greatest Mystery&nbsp;&nbsp;NDTVHawking Radiation Breakthrough: These Black Hole Emissions Could Reveal Quantum Gravity&nbsp;&nbsp;The",
+      "summary": "Physicists Simulated a Black Hole in a Lab. Then It Started to 'Evaporate'.&nbsp;&nbsp;ScienceAlertBackreaction of stimulated Hawking radiation in an optical analogue&nbsp;&nbsp;NatureHawking radiation breakthrough offers new insight into black hole physics&nbsp;&nbsp;Innovation News NetworkScientists Make Major Black Hole Discovery That Could Explain Stephen Hawking's Greatest Mystery&nbsp;&nbsp;NDTVBackreaction of Stimulated Hawking Radiation Revealed&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -30,6 +78,30 @@
       ]
     },
     {
+      "id": "29dc9c985d01",
+      "title": "Salt clouds discovered on iconic 'Pink Planet' as scientists finally get a good look at frosty orb - New York Post",
+      "published": "2026-07-03T22:30:00+00:00",
+      "summary": "Salt clouds discovered on iconic 'Pink Planet' as scientists finally get a good look at frosty orb&nbsp;&nbsp;New York PostVibrant discovery: Unique, salty clouds found on iconic 'Pink Planet'&nbsp;&nbsp;FOX Weather‘Pink Planet’ surrounded by salty clouds: study&nbsp;&nbsp;NewsNationNASA uncovers decade-old mystery surrounding the 'pink planet'&nbsp;&nbsp;Báo VietNamNetJames Webb uncovers exotic salt clouds on a mysterious pink world&nbsp;&nbsp;ScienceDaily",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeE1HazNUOUxUaGlJQndjVlgyejludzB3bVE0RHMxT3hIZFp1MERPUjludTQ5VVNhNzhLMjl6ZW1DYmdmS29mQVVGN3BkMDdBWmRNXzRiRlJORVk5NXNPbWJxQU9JdHpNWUQ5MUZxb1U0X2d0OTJSYkJFdEhLMFZWc1FYTDdpdU5ZVktOSUl2TUliZkFsX1ZVczk3WWs5WFQ5SUJLdG1HOTNyMWs2X2UzMU9KVkpNeFdaWG83bmUzZV9hUVp3NmFLdkNlbVMxRWxFSGFxZg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "da8c357af185",
+      "title": "A New Study into Dark Matter in the Bullet Cluster Could Disprove its Existence - Universe Today",
+      "published": "2026-07-03T22:21:00+00:00",
+      "summary": "A New Study into Dark Matter in the Bullet Cluster Could Disprove its Existence&nbsp;&nbsp;Universe Today",
+      "sources": [
+        {
+          "name": "Universe Today",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQV9URWJraER5a1dITEh6eHRKVENpNlEtWFBPZm5EYUpEbENsMWhsWE1wMjdLTnVza3FjVzZac25FcU15S1NTTmhFVmw5b1FEOUxOY3BvOVdjdXR5NjIxMllMWF9pRjViVmJBWmV0clB5OFhwT251aDhjSlRzQW9zLXZsUTZyZjU5Y2pKOUtMRmw2RTNVeHFoT09HQkpMUjZuVVdSZFVXa0M5bldCSmVrbnYtWlhMWDdzSmc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5eab59bf588e",
       "title": "Vagus Nerve Stimulation Improves Severe Depression by 70%, Major US Trial Finds - ScienceAlert",
       "published": "2026-07-03T22:04:31+00:00",
@@ -42,14 +114,26 @@
       ]
     },
     {
-      "id": "10a3c5488671",
-      "title": "Doctors Say There’s An Undeniable Link Between Eye Health And Dementia. Here’s What You Need To Know. - AOL.com",
-      "published": "2026-07-03T21:58:38+00:00",
-      "summary": "Doctors Say There’s An Undeniable Link Between Eye Health And Dementia. Here’s What You Need To Know.&nbsp;&nbsp;AOL.comSee more headlines & perspectives on Google News",
+      "id": "9f2afe05729d",
+      "title": "30-Minute Dinners to Improve Your Gut Health (Weekly Plan & Shopping List!) - EatingWell",
+      "published": "2026-07-03T21:00:00+00:00",
+      "summary": "30-Minute Dinners to Improve Your Gut Health (Weekly Plan & Shopping List!)&nbsp;&nbsp;EatingWell7 traditional Indian foods that can naturally improve your gut health, according to nutritionist&nbsp;&nbsp;The Times of IndiaI’m a Dietitian—Here’s What I Do Every Day to Keep My Gut Healthy&nbsp;&nbsp;NewsweekYour Healthy Life&nbsp;&nbsp;City LifestyleThe Best Foods for Better Gut Health, According to Nutrition Experts&nbsp;&nbsp;Yahoo Health",
       "sources": [
         {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYVNoLXgtOGxXQW5DSEZfVDNTNU5YbWtKYmN5bkFMQWFYbG9CTFRKdjZwRHRNdjdURlh6WXlXQnJXdjFxZV9VOXhGTHRTc2YweGxhdjdnWWRoSWcxQUMtQTJOWlRyOTl1anlZZnpnSWhrZ21aY29hOTZoT2NQd0hyZjEtN1BpenF4?oc=5"
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQlVlbWd1Q1dVMlVCX2NiNUFrTmpoN21vczQ0WlA4TlBwS3BDYVdIMkw0d1dqdlkyc3gwMWY1Q0tXUUs0VTVtamRsQUhoUGNqbUNhbmhER1hvTXRERFpQS3lHdWx2R2c1Q2xZNEJuTXg2SU9MT3JjWVZ0NUMzd1g3Ymh3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e5f10bd91e26",
+      "title": "US Life Expectancy On Track To Reach Record High - Slashdot",
+      "published": "2026-07-03T19:03:59+00:00",
+      "summary": "US Life Expectancy On Track To Reach Record High&nbsp;&nbsp;SlashdotWhy Americans are living longer again&nbsp;&nbsp;vox.comA drop in fatal overdoses helps push the U.S. death rate to a record low&nbsp;&nbsp;The Washington PostUS death rate at record low: CDC data&nbsp;&nbsp;The HillUS death rate falls to lowest on record — after massive plunges in two major killers&nbsp;&nbsp;New York Post",
+      "sources": [
+        {
+          "name": "Slashdot",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcU1zd3FWV0VBaWtLSmRTUU92aXY5S0FxSE00ZXo5bDMxT2lVaEZsYXdWRDFYYmVCR0JmN2h2YTlQcFpXcUNEem1hN1VtYWdtZklKVHV1UzFqaE90RmdRVW9BVEhjcGRRMXU4emc4VEtBNUNBMmZlNE9SUERJaHdQWnJTSnR2aURZU3dSdzBNenZYN0lWaHdXZkZ0YzE?oc=5"
         }
       ]
     },
@@ -126,18 +210,6 @@
       ]
     },
     {
-      "id": "f1bd2cfac5e3",
-      "title": "Vibrant discovery: Unique, salty clouds found on iconic 'Pink Planet' - FOX Weather",
-      "published": "2026-07-03T14:00:00+00:00",
-      "summary": "Vibrant discovery: Unique, salty clouds found on iconic 'Pink Planet'&nbsp;&nbsp;FOX Weather‘Pink Planet’ surrounded by salty clouds: study&nbsp;&nbsp;NewsNationNASA uncovers decade-old mystery surrounding the 'pink planet'&nbsp;&nbsp;Báo VietNamNetJames Webb uncovers exotic salt clouds on a mysterious pink world&nbsp;&nbsp;ScienceDailySalty Clouds aren’t the only strange thing about this object in space : Short Wave&nbsp;&nbsp;NPR",
-      "sources": [
-        {
-          "name": "FOX Weather",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV2NEbktsQU80NjBiNHNUdWNTbXU5d0dmZ3NiY1ZUajFKTnNfd0h6bHRRdlpZMDUxYWNNR0ZBQzdoRlVKZ1NnWlcxSTF6RThqTUFJcDdGWU4xSlFCbFJVNGJibVFodzA2OXdnbmp0WEpXejFGSUw2UU5JNURlQVF1N3c0MjRYa2NaRU1F0gGQAUFVX3lxTE5vRkExdjVLUHZlemVtSHZIdHlmdEZNUnI2Tjc4T3ExZzdfT0pJOUttUGJUSm9IaFlOaVhNMHBkbnAyeXdYTnZzbGZZZE9Ga2QtRVFhNVFaZGR1WnpzZkVWZDN6TDBDaG9xcVJSZlBUemNiM3cxZGhaV3JtTW1YRWU1OXJTaTc1UjJrWDZQLXc3ZQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "febe2723152f",
       "title": "Rocket Report: Indian startup nears first launch; SpaceX’s millenary milestone - Ars Technica",
       "published": "2026-07-03T13:55:35+00:00",
@@ -153,7 +225,7 @@
       "id": "9b1fec8a98a1",
       "title": "Sea level doesn’t rise at the same rate everywhere – we mapped where Antarctica’s ice melt would have the biggest impact - Yahoo News UK",
       "published": "2026-07-03T13:50:05+00:00",
-      "summary": "Sea level doesn’t rise at the same rate everywhere – we mapped where Antarctica’s ice melt would have the biggest impact&nbsp;&nbsp;Yahoo News UKTurning the Threat to a Distant Glacier into a Local Story Through Data Visualization&nbsp;&nbsp;Global Investigative Journalism Network (GIJN)Scientists Sound the Alarm: Antarctic Discovery Is More Disturbing Than Anyone Feared&nbsp;&nbsp;Futura, le média qui explore le mondeTwice a day the tide lifts a glacier the size of Florida, and satellites just ",
+      "summary": "Sea level doesn’t rise at the same rate everywhere – we mapped where Antarctica’s ice melt would have the biggest impact&nbsp;&nbsp;Yahoo News UKScientists Sound the Alarm: Antarctic Discovery Is More Disturbing Than Anyone Feared&nbsp;&nbsp;Futura, le média qui explore le mondeTurning the Threat to a Distant Glacier into a Local Story Through Data Visualization&nbsp;&nbsp;Global Investigative Journalism Network (GIJN)Antarctica is missing 2 million sq km of sea ice, scientists say the impact ma",
       "sources": [
         {
           "name": "Yahoo News UK",
@@ -162,14 +234,14 @@
       ]
     },
     {
-      "id": "bd489c59d894",
-      "title": "7 traditional Indian foods that can naturally improve your gut health, according to nutritionist - The Times of India",
-      "published": "2026-07-03T13:49:59+00:00",
-      "summary": "7 traditional Indian foods that can naturally improve your gut health, according to nutritionist&nbsp;&nbsp;The Times of IndiaI’m a Dietitian—Here’s What I Do Every Day to Keep My Gut Healthy&nbsp;&nbsp;Newsweek30-Minute Dinners to Improve Your Gut Health (Weekly Plan & Shopping List!)&nbsp;&nbsp;EatingWellYour Healthy Life&nbsp;&nbsp;City LifestyleThe Best Foods for Better Gut Health, According to Nutrition Experts&nbsp;&nbsp;Yahoo Health",
+      "id": "a15a3616d94a",
+      "title": "5 Everyday Foods That Keep Showing Up In Heart Doctors’ Warning Lists, And It’s Not A Coincidence - Bored Panda",
+      "published": "2026-07-03T13:43:22+00:00",
+      "summary": "5 Everyday Foods That Keep Showing Up In Heart Doctors’ Warning Lists, And It’s Not A Coincidence&nbsp;&nbsp;Bored PandaA cardiologist said 3 foods that seem healthy could be harming your heart&nbsp;&nbsp;Business Insider8 Mistakes Cardiologists Say Could Be Wrecking Your Heart Health&nbsp;&nbsp;AOL.comCardiologist says high-protein protein shakes, smoothies, and snacks can harm your heart&nbsp;&nbsp;Moneycontrol.comExpert highlight essential ways to maintain heart health&nbsp;&nbsp;Jang",
       "sources": [
         {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQLUV4Vlc5ZzZWM3M4NnE0SWx6TFBQQW5OWWRwSFJIMUgtMWxDeHlzTmRFNW8tQkJvUUZzakJOTHlrcDdtdlZHeFFjaXFtZ09KLW5aQlJsOUdtSk1fVWM0MllmYV9QbFVaWThlWExoMDd4SUVJaWVCRDFadGJuNmpIUU95SG5QSjhaVWc4bmswNkNHZHJHUS15aDhPSEhmbk1vZGlINFhrYjMxRGItSW12TVVkX0xjWnJ1dzFGQW5oUzVXNkV4bExDZmI3X2ZGS0hjVUN1Znp0NzZQTF95dWtPLWRHampHYnZHUlIyTzExTk1CQ3FGRHc?oc=5"
+          "name": "Bored Panda",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKNkRCQ0MwZGNZeHNURF9XS3dTMmV3NjMtS2lxemJCQ3c2V1paclVsTjhRMVMxeWxwV3NqQlJyMlN3ZzlMQlhzTW8tZUVQNVZ0X2xEMGpMaWMyd2NRa0pGZk5PTmhiaHFnbGVnc0xyMkk3Zw?oc=5"
         }
       ]
     },
@@ -177,7 +249,7 @@
       "id": "e0f87615a3b0",
       "title": "Think Taking Omega-3 Fish Oil Supplements Boosts Memory and Helps Avoid Alzheimer's? A New Study Proves Otherwise - inc.com",
       "published": "2026-07-03T13:40:35+00:00",
-      "summary": "Think Taking Omega-3 Fish Oil Supplements Boosts Memory and Helps Avoid Alzheimer's? A New Study Proves Otherwise&nbsp;&nbsp;inc.comMillions take omega-3 fish oil for brain health but a new study found no benefit&nbsp;&nbsp;ScienceDailyIt's not the fish oil pill that protects you from dementia–a new study reveals the one thing that actually matters for your brain&nbsp;&nbsp;OkDiarioFish oil, DHA may not help improve your memory or cognition, study finds&nbsp;&nbsp;WZTVIs Fish Brain Food? | News ",
+      "summary": "Think Taking Omega-3 Fish Oil Supplements Boosts Memory and Helps Avoid Alzheimer's? A New Study Proves Otherwise&nbsp;&nbsp;inc.comMillions take omega-3 fish oil for brain health but a new study found no benefit&nbsp;&nbsp;ScienceDailyFish oil supplements no match for Alzheimer's risk, new study finds&nbsp;&nbsp;USA TodayCould We Have Been Wrong About Fish Oil and Brain Health? New Study Raises Major Questions&nbsp;&nbsp;SciTechDailyIs Fish Brain Food? | News & Stories | DHMC and Clinics&nbsp;&",
       "sources": [
         {
           "name": "inc.com",
@@ -189,7 +261,7 @@
       "id": "f7e0487ee5f4",
       "title": "How a new fungal genome-editing tool could open fresh paths to cancer treatments - Phys.org",
       "published": "2026-07-03T13:40:03+00:00",
-      "summary": "How a new fungal genome-editing tool could open fresh paths to cancer treatments&nbsp;&nbsp;Phys.orgPrime editing for precise genome engineering and modulation of fungal metabolism&nbsp;&nbsp;NatureFungal sample (IMAGE)&nbsp;&nbsp;EurekAlert!Fungal Gene-Editing Breakthrough Yields 3 Novel Anti-Cancer Candidates&nbsp;&nbsp;Tech TimesUnlocking the chemical potential of filamentous fungi using prime editing&nbsp;&nbsp;Nature",
+      "summary": "How a new fungal genome-editing tool could open fresh paths to cancer treatments&nbsp;&nbsp;Phys.orgPrime editing for precise genome engineering and modulation of fungal metabolism&nbsp;&nbsp;NatureFungal sample (IMAGE)&nbsp;&nbsp;EurekAlert!Fungal Gene-Editing Breakthrough Yields 3 Novel Anti-Cancer Candidates&nbsp;&nbsp;Tech TimesFungal chemicals could become powerful new cancer medicines&nbsp;&nbsp;Earth.com",
       "sources": [
         {
           "name": "Phys.org",
@@ -198,22 +270,10 @@
       ]
     },
     {
-      "id": "31c18f5fcd2d",
-      "title": "Heart surgeon says dangerous habit 'damages every organ' in body - The Mirror",
-      "published": "2026-07-03T13:34:00+00:00",
-      "summary": "Heart surgeon says dangerous habit 'damages every organ' in body&nbsp;&nbsp;The MirrorCardiologist Shares The One Drink He Would Never Have In His Fridge, And Maybe You Shouldn’t Either&nbsp;&nbsp;AOL.comSurgeon says bad habit held by millions is 'single most dangerous thing' for body&nbsp;&nbsp;Wales OnlineHeart surgeon calls soft drinks 'liquid death' and a 'big no-no' for heart health&nbsp;&nbsp;MSNHeart surgeon says drink popular in Ireland is 'liquid death' and a 'big no-no' for heart healt",
-      "sources": [
-        {
-          "name": "The Mirror",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEVMSWQwQzQ4a2JhUUNVTnppczZjY2dRMXZCSUc5aVV3VXB1VGxHT3p3eFBTcjhqVld3SXlnRjh4REhKTGRMVUkwRXJ5azk2Z0NwbnNLTVlteFpWVHVaaldPd1M5clV4TEZhOTN4RENNaHlnOUYtZWRTMWFMU1M1ZFRPbWt6Q3PSAYwBQVVfeXFMTmg3WmFUX1BOV24zNTk4eGNjQU5RMmRRV3M0OFJMZnNoWnF0cjlKRFNFRDFCMXFrcGFJQk9OQzlyMzFjc0RiZ3RNNlNTMGp6VTltczJHbGF4ck04bEgwZEptYWpNNlVNTlVjODFUR2ZTQ29oOG1tNVRlTFhPRXdFb3Bhd0dPMG02elBGamE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0fb23bc10499",
       "title": "Dangerous Tick-Spread Disease, Which Can Transmit Just 15 Minutes After Contact, Is Rising in the U.S. — Here's What to Know - Yahoo News Canada",
       "published": "2026-07-03T12:41:24+00:00",
-      "summary": "Dangerous Tick-Spread Disease, Which Can Transmit Just 15 Minutes After Contact, Is Rising in the U.S. — Here's What to Know&nbsp;&nbsp;Yahoo News CanadaRare but dangerous tick-borne virus on the rise in US&nbsp;&nbsp;KRQEDangerous Tick-Spread Disease, Powassan virus, Spreading in the U.S.: What to Know&nbsp;&nbsp;People.comRhode Island man diagnosed with Powassan disease&nbsp;&nbsp;WJARThis rare tick-borne disease is on the rise in the U.S.&nbsp;&nbsp;The Washington Post",
+      "summary": "Dangerous Tick-Spread Disease, Which Can Transmit Just 15 Minutes After Contact, Is Rising in the U.S. — Here's What to Know&nbsp;&nbsp;Yahoo News CanadaRare but dangerous tick-borne virus on the rise in US&nbsp;&nbsp;KRQEDangerous Tick-Spread Disease, Powassan virus, Spreading in the U.S.: What to Know&nbsp;&nbsp;People.comRhode Island man diagnosed with Powassan disease&nbsp;&nbsp;WJARWhile still rare, CDC reports rise in deadly tickborne illness&nbsp;&nbsp;Healio",
       "sources": [
         {
           "name": "Yahoo News Canada",
@@ -246,14 +306,38 @@
       ]
     },
     {
-      "id": "0b76d4aec829",
-      "title": "What killed Americans in 1776? The answer is dramatically different from today - Fox News",
-      "published": "2026-07-03T11:00:38+00:00",
-      "summary": "What killed Americans in 1776? The answer is dramatically different from today&nbsp;&nbsp;Fox NewsMedical care in the 13 colonies before the American Revolution&nbsp;&nbsp;West Virginia Press AssociationHonoring the Unwavering Spirit of Our Nation, Hospitals and Caregivers&nbsp;&nbsp;American Hospital Association5 of America's greatest medical breakthroughs revealed as the nation marks 250 years&nbsp;&nbsp;FOX 13 Tampa BayUNMC highlights 250 years of America’s independence&nbsp;&nbsp;University ",
+      "id": "af92403c8877",
+      "title": "Doctors warn that diabetic kidney damage often has no symptoms: These everyday habits can help lower the risk - The Times of India",
+      "published": "2026-07-03T11:27:35+00:00",
+      "summary": "Doctors warn that diabetic kidney damage often has no symptoms: These everyday habits can help lower the risk&nbsp;&nbsp;The Times of India",
       "sources": [
         {
-          "name": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ0luTnpraUVfN3dKZWpVR1R1aDFJRXNsRmxVcWRoX241bnlYMW5Fbi1UZG5Odk5GNFNyT2RsZjZScTlaTldYYlpYWGpaQXpGdFdRVXNUckJhTUlQeTJDSGhRZ2NnVXBMdWZUTGZONnpReWZ2TUZtNHNrT1hLT3k2NGhfcHZUc0o1N3lMUEh6U1drNV9ESTJPVtIBngFBVV95cUxQU2pUUUU2Ylk4a25VREV3NGo5QXoxSEhwQXJ3cy1tS0J4ZndLM0R3a1RTWGFWVm5FbXEyZmVPV2hQWDlPSUVmMWFhRGJyaHoxWFJrLS13NVpQUFZTTDRqU1Ytc2YyeXk2UzgtOFVNaHhXSWhKaUJRNGxIbThpVk90czR5NWdkX3BncGZOYUhwdkkwWVlTakdKZDVQbWNYdw?oc=5"
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWExhT2U2RUNsaUFQWmdhaEVrSnQ3Zm4teDlxRW9icmZpUE1PWjQ0VTJNN3JDYXZZVWpyR18wQi1pS002WkdBQmxfcTRaTWRaN0c4cTBSWXhTaFN1ZWxDUGlxWjl1MzdGZVZXRkF1SGVySDEwLWxXS3B2cnJ0bWxjUXYyY0VyR2tiNk1yQVVRQWRjVjRvN2VWOFhSTi1jTndoVW5SNHgxcFExRWM3Q0xhQmtYaGJ3Mm1kSVB3Wnc4QklneVBkbGJOVHdTSjZNcFN3NG4td0t3N1Z2SEtnNlJRWkxPRENFYnAzOTJrcmVNYmxObHZ2QWRqX29sS1Q4bVNiQnljQ3NZQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "328bc5a0bd86",
+      "title": "What killed Americans in 1776? The answer is dramatically different from today - Yahoo Health",
+      "published": "2026-07-03T11:00:38+00:00",
+      "summary": "What killed Americans in 1776? The answer is dramatically different from today&nbsp;&nbsp;Yahoo HealthSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "Yahoo Health",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaDJVZ1JoQTl4ekgwUjBjZjctYkM5czAyLTE5R3FFM21seUZZUWNSZ0pEYkNSdHNEbTNkU0ZESWRvd3hROF9TZDczYUczakVleUdmV2pjNHNJZEo1NmhzQnM5VVYzZmpNR0hXMDRTV3RtZ1RfWlBKYU4ydm9qSkQtVlp4RXVmSDB5SE8yZjdRU01lQ0o0Qk41bVkzRlZJUVVybWFVZE93LW1vdUdN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cad1a4560642",
+      "title": "Eating one food 'twice a week' cuts high cholesterol and protects heart health - Mirror",
+      "published": "2026-07-03T10:58:13+00:00",
+      "summary": "Eating one food 'twice a week' cuts high cholesterol and protects heart health&nbsp;&nbsp;MirrorI’m a dietitian — this is how to lower your cholesterol in 30 days&nbsp;&nbsp;Herald SunReducing your fat intake? Doctor warns of common mistake undoing your low-cholesterol diet&nbsp;&nbsp;GB NewsDoctor shares habits that may naturally help lower ‘bad’ cholesterol&nbsp;&nbsp;The Indian ExpressSimple diet swap could lower 'bad' cholesterol by 15% within just four weeks, doctor says&nbsp;&nbsp;GB News",
+      "sources": [
+        {
+          "name": "Mirror",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PYmJ5eXVndlVZS2NqTG9keUdQczNJdzhFZ0ZyRG1RQ2JseGtLTjluZ19pMUVXdnk1ems4MHhsdmV6NGI1Rm55Ml9vMHFvVWEwT0dsZnRnSVJTdGFpX2lseXQtMkxNYkVVLS1XMXo5MzZmSEMwMEQyUTZfRW7SAYIBQVVfeXFMTXBCbFQtVXBPak1mM04xenpNMV9hUjdKSEdwNlZvSHF0RUZfUndRRzJxaV95bHZoZGRyWGdvdThrY2FfdmctYndZM044QVdadlg4c191dFFXY1gzRGxGU3g5MUpxU2hBcjVyZEVFWFhiVW40QUFyc1VfMTAzcDQ1c2RyQQ?oc=5"
         }
       ]
     },
@@ -261,23 +345,11 @@
       "id": "4a5a016ffd28",
       "title": "Deadly drug-resistant fungal infections rising in the U.S. - NBC News",
       "published": "2026-07-03T10:30:40+00:00",
-      "summary": "Deadly drug-resistant fungal infections rising in the U.S.&nbsp;&nbsp;NBC NewsSee more headlines & perspectives on Google News",
+      "summary": "Deadly drug-resistant fungal infections rising in the U.S.&nbsp;&nbsp;NBC NewsA Drug-Resistant Fungus Is Spreading Through American Hospitals&nbsp;&nbsp;ForbesLife-threatening fungal infection that can live on surfaces for weeks is rising in the US&nbsp;&nbsp;The IndependentA perfect storm in the era of global warming—the convergence between thermotolerant fungi and altered immunity&nbsp;&nbsp;Avian Flu DiaryCandida auris infections rising in US | Tap to know more | Inshorts&nbsp;&nbsp;Inshorts",
       "sources": [
         {
           "name": "NBC News",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOalZYenZiNkl3aUlPZnVodnMydFVNUm82VnJ1MERGeFpnV1YxQW9TRzQ2c1FMTFZ1b19xS21OZl9Rby1OSGVrT04xdlNrMzZhdWVJaW54TUZ1eTkxdmR1a0dIdWRHRmI0alktYnR5SzdpdTBHTndqRVFRYUlZZ0VpOTZ0bkJ4Z3BYZ05IRkdTWU5FRWZFOUFxZ2Ztcmt0QlZSU3F0M2ZRVXc5LXhvWGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9444808c1d6c",
-      "title": "People Who Like This 1 Food Have Lower Risk of Diabetes and Hypertension, Doctors Say - Prevention",
-      "published": "2026-07-03T10:27:00+00:00",
-      "summary": "People Who Like This 1 Food Have Lower Risk of Diabetes and Hypertension, Doctors Say&nbsp;&nbsp;Prevention",
-      "sources": [
-        {
-          "name": "Prevention",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR3hsRDBueEpkaHJud3ZWTmNnTzhMRnVpa0RFZTg2ZmhPU2ZnNi1qTDV0YWlGVXBlS1IwSE1leU9PX1dvZE52OGJMZXNaQVQ3QjVObnNwU1BkLU5JcnItc05aUkhPenU1aXVVck1QV2g2aXJ5enB1TFpfcVhiSjdNTzRKdVBURGgzUDFELTFB?oc=5"
         }
       ]
     },
@@ -294,6 +366,18 @@
       ]
     },
     {
+      "id": "f25cd94914fa",
+      "title": "Ebola treatments trial begins in the Democratic Republic of Congo - BBC",
+      "published": "2026-07-03T10:11:14+00:00",
+      "summary": "Ebola treatments trial begins in the Democratic Republic of Congo&nbsp;&nbsp;BBCResearchers launch study on Ebola treatments as Congo outbreak worsens&nbsp;&nbsp;AP NewsTrial for Bundibugyo Ebola treatment starts in DRC, WHO says&nbsp;&nbsp;ReutersPatient enrolment begins in a scientific trial to identify the first effective treatments for Bundibugyo virus disease&nbsp;&nbsp;World Health Organization (WHO)Clinical trial for Ebola therapies begins in DR Congo&nbsp;&nbsp;CIDRAP",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EMkwyajNLRTlSMExaaWZvZnBGWGpqZjVMR0FtUE01dnZFUWxmMHc4SzVMRm9ZYnd6Ti1ZdlNNRGpzUVpuZWlFbjFpakg4WTlySUdVQ19HdWx1QQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e885dbf61b09",
       "title": "Commentary: It's not just vaccines — from infancy to adolescence, Republicans are waging war on children's health - Los Angeles Times",
       "published": "2026-07-03T10:00:00+00:00",
@@ -306,22 +390,10 @@
       ]
     },
     {
-      "id": "e249e2c72fea",
-      "title": "News of disease outbreaks can warp our brains in strange and subtle ways - BBC",
-      "published": "2026-07-03T10:00:00+00:00",
-      "summary": "News of disease outbreaks can warp our brains in strange and subtle ways&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTS15Mm9mNDduWVlXWDVyZ2NaQng3OTQ3alFrb2tOTUVNRGNTR0JXQ25sYzBxZlNwSGsxZGJvODdNWTd3Ylk0VHFzZlVZbkFKWTNNdE9KeHNnd2FicVo5bTg1TUhVWW9qcFY5TnQzR3VZUHAwMmY1LUdFOHFhN3Nmbk44NWdfcW1kVXJ5QkJPVHVWZWN5RjdiSGtPVVl0dmM5OGZ0dnRjVkM4WjA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e12c3be948c8",
       "title": "RFK Jr. has promoted using beef tallow over seed oils but the animal fat may not be healthier, some cardiologists say - ABC News - Breaking News, Latest News and Videos",
       "published": "2026-07-03T09:38:44+00:00",
-      "summary": "RFK Jr. has promoted using beef tallow over seed oils but the animal fat may not be healthier, some cardiologists say&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosBeef tallow, seed oils, and full-fat dairy: Are any of them heart-healthy?&nbsp;&nbsp;Harvard HealthSeed Oils&nbsp;&nbsp;New Orleans MagazineAre seed oils actually bad for you? Here’s why the anti-UPF trend may have got it wrong&nbsp;&nbsp;Vegan Food & LivingRFK Jr. has promoted beef tallow over seed oils. The animal fat ",
+      "summary": "RFK Jr. has promoted using beef tallow over seed oils but the animal fat may not be healthier, some cardiologists say&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosBeef tallow, seed oils, and full-fat dairy: Are any of them heart-healthy?&nbsp;&nbsp;Harvard HealthAre seed oils actually bad for you? Here’s why the anti-UPF trend may have got it wrong&nbsp;&nbsp;Vegan Food & LivingSeed Oils&nbsp;&nbsp;New Orleans MagazineRFK Jr. has promoted beef tallow over seed oils. The animal fat ",
       "sources": [
         {
           "name": "ABC News - Breaking News, Latest News and Videos",
@@ -350,6 +422,18 @@
         {
           "name": "ScienceDaily",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHV0stVlJPVkRITlRkRTA4MWZ3c2ltMThBZk55RWNGb0dtUUh0QmFiOXBUd2FIUmNMa1pVMHlvZHJLUWlLVHVjQjk0V05sSzg4UDdhanc2WkF4Wk9LWThzUUwxTlVPWUVmOGphLVVkVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "41be89afd5d1",
+      "title": "Sudden craving of 3 foods 'could be early sign of dementia' - Mirror",
+      "published": "2026-07-03T08:44:00+00:00",
+      "summary": "Sudden craving of 3 foods 'could be early sign of dementia'&nbsp;&nbsp;Mirror",
+      "sources": [
+        {
+          "name": "Mirror",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uRURQdmdBYVE0MUxhb1hxVkZWd3F1cHhhREwxSGhOXzh0cmZiRnV0a2hlWVR2ME40alhVb3ZINUtwZGsxbUlXTUk2bHlsSDZ4WlNoRE9pa1lJZVBFMXRpYmlwZnBVamFyb3NoMzRSNXFnVEhObzRiWWpYUklLUU3SAYQBQVVfeXFMT0JlZXF6TkMzWWRHNTA5Vzg2ZnBSWUkxLWJObHpkVVZicTRUUl9ma3VFUlpraHUzdGkyVERlcldKTnM4UzJNek1pWTV3bTlnOFA4WHFLN1VhNEc5ZklkcGtzY0NTbFZycGNaSjc5UlNXR0VMYnVpWFJSaWx0b2hFRU9FUERw?oc=5"
         }
       ]
     },
@@ -402,14 +486,14 @@
       ]
     },
     {
-      "id": "c86f2528e300",
-      "title": "Measles confirmed in Teton County, Wyoming, as summer crowds flock to parks - East Idaho News",
-      "published": "2026-07-03T01:00:00+00:00",
-      "summary": "Measles confirmed in Teton County, Wyoming, as summer crowds flock to parks&nbsp;&nbsp;East Idaho NewsMeasles confirmed in Teton County as summer crowds flock to parks&nbsp;&nbsp;WyoFileFirst measles case reported in Teton County&nbsp;&nbsp;Jackson Hole News&amp;GuideHealth Officials Have Confirmed a Case of Measles in Teton County&nbsp;&nbsp;KPVIWyoming's second measles case: Check these locations&nbsp;&nbsp;Casper Star-Tribune",
+      "id": "80d97ad713aa",
+      "title": "First-of-Its-Kind Lupus Treatment Significantly Reduces Symptoms in Mice - ScienceAlert",
+      "published": "2026-07-03T01:34:17+00:00",
+      "summary": "First-of-Its-Kind Lupus Treatment Significantly Reduces Symptoms in Mice&nbsp;&nbsp;ScienceAlertUT Health San Antonio researchers may have found another way to treat lupus patients&nbsp;&nbsp;MSN",
       "sources": [
         {
-          "name": "East Idaho News",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOGxMWUVCUmFibi1WOUZuNHJTRGZfaHFHYmd4MG14UDRHVzFaVlZzaHhScjdlcGJ3RUxqQUV3OXNFNFAxaHZ3bVVvTzZ4NDdqYWZUNF8wR3pBeld0VHNFc19seUdQaHJqdGJiV3ZqblRoWUUzZGcxaVdkSVdBSHZEOHA4QUM1VlY4cHY5R21VZU9qNmJNNnlsVENsT2NscEZCb2tpa0h0U2ZDS1gySVUzLVZn?oc=5"
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcDVLNmRtOWZQR0lCOXcyT1Raa3EtZURHUUw0ajJOLXZCb2w3d2NjODFNOUZkWHEwRi1ocFRheWdNUVFkdXMtS05DY25FV2lvZThIWTBmbkZMVF80SUR2eUpCZ1VTb3laOE1EaG9tcjZwVkhKSEdyZ2I5QzNYalVsN0dDZHN6R0MxMHVaR2hVb3RzS1VITjBhMjgwMXJZNzZhZHE0?oc=5"
         }
       ]
     },
@@ -429,7 +513,7 @@
       "id": "0a23a0348801",
       "title": "Deadly MV Hondius Hantavirus Outbreak Is Over, W.H.O. Says - The New York Times",
       "published": "2026-07-02T22:00:43+00:00",
-      "summary": "Deadly MV Hondius Hantavirus Outbreak Is Over, W.H.O. Says&nbsp;&nbsp;The New York TimesHantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosWHO declares hantavirus outbreak linked to cruise ship over&nbsp;&nbsp;The GuardianWHO declares cruise-linked hantavirus outbreak officially over&nbsp;&nbsp;Al JazeeraHantavirus Cruise Ship Outbreak Officially Over After 13 Infected, 3 Dead&nbsp;&nbsp;Forbes",
+      "summary": "Deadly MV Hondius Hantavirus Outbreak Is Over, W.H.O. Says&nbsp;&nbsp;The New York TimesWHO declares hantavirus outbreak linked to cruise ship over&nbsp;&nbsp;The GuardianHantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosTaking the world’s temperature: WHO chief spotlights global health emergencies&nbsp;&nbsp;UN NewsHantavirus Cruise Ship Outbreak Officially Over After 13 Infected, 3 Dead&nbsp;&n",
       "sources": [
         {
           "name": "The New York Times",
@@ -441,7 +525,7 @@
       "id": "f41725977841",
       "title": "Early, intense West Nile season may signal a severe year for the mosquito-borne illness, CDC says - CNN",
       "published": "2026-07-02T21:41:37+00:00",
-      "summary": "Early, intense West Nile season may signal a severe year for the mosquito-borne illness, CDC says&nbsp;&nbsp;CNNCDC Encourages Americans to Stay Mosquito Bite-Free during America's 250th Independence Day holiday weekend&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)West Nile virus cases hit 22-year spike. Here’s where activity is highest in US&nbsp;&nbsp;The HillWest Nile virus season hitting strong and early: ways to stay safe during holiday weekend&nbsp;&nbsp;KCBDCDC warns ",
+      "summary": "Early, intense West Nile season may signal a severe year for the mosquito-borne illness, CDC says&nbsp;&nbsp;CNNWest Nile virus cases hit 22-year spike. Here’s where activity is highest in US&nbsp;&nbsp;The HillCDC warns of worst West Nile virus start since 2004 ahead of Fourth of July&nbsp;&nbsp;WILXCDC Encourages Americans to Stay Mosquito Bite-Free during America's 250th Independence Day holiday weekend&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)West Nile virus season h",
       "sources": [
         {
           "name": "CNN",
@@ -453,7 +537,7 @@
       "id": "aee722da4903",
       "title": "How Heat Affects the Brain - The New York Times",
       "published": "2026-07-02T21:03:50+00:00",
-      "summary": "How Heat Affects the Brain&nbsp;&nbsp;The New York TimesReduced sunshine linked to higher demand for mental health care&nbsp;&nbsp;News-MedicalHeatwaves and Air Pollution Increase Brain Stress and Dementia Risk&nbsp;&nbsp;동아사이언스How is the heat dome affecting your mental health?&nbsp;&nbsp;WGN Radio 720Do you get brain fog during the summer heat? Here's why — and how to overcome it&nbsp;&nbsp;Irish Examiner",
+      "summary": "How Heat Affects the Brain&nbsp;&nbsp;The New York TimesReduced sunshine linked to higher demand for mental health care&nbsp;&nbsp;News-MedicalHeatwaves and Air Pollution Increase Brain Stress and Dementia Risk&nbsp;&nbsp;동아사이언스How is the heat dome affecting your mental health?&nbsp;&nbsp;WGN Radio 720Think Your Team Can Work Through a Heat Wave? This Shocking Brain Statistic Says Otherwise&nbsp;&nbsp;inc.com",
       "sources": [
         {
           "name": "The New York Times",
@@ -465,7 +549,7 @@
       "id": "f3b3143a7963",
       "title": "Social Media Recalibrates How the Brain Values Mental Effort - Neuroscience News",
       "published": "2026-07-02T20:47:53+00:00",
-      "summary": "Social Media Recalibrates How the Brain Values Mental Effort&nbsp;&nbsp;Neuroscience NewsAn effort recalibration framework for digital media use and cognition&nbsp;&nbsp;NatureHow the internet is rewiring our brains&nbsp;&nbsp;The Daily StarInstant digital rewards may make hard thinking feel less worthwhile&nbsp;&nbsp;Phys.org",
+      "summary": "Social Media Recalibrates How the Brain Values Mental Effort&nbsp;&nbsp;Neuroscience NewsAn effort recalibration framework for digital media use and cognition&nbsp;&nbsp;NatureHow Social Media Affects Brain? | How the internet is rewiring our brains&nbsp;&nbsp;The Daily StarInstant digital rewards may make hard thinking feel less worthwhile&nbsp;&nbsp;Phys.org",
       "sources": [
         {
           "name": "Neuroscience News",
@@ -477,11 +561,23 @@
       "id": "1788ff295719",
       "title": "Sitting for more than 30 minutes at a time linked to higher risk of cancer death - The Guardian",
       "published": "2026-07-02T20:08:00+00:00",
-      "summary": "Sitting for more than 30 minutes at a time linked to higher risk of cancer death&nbsp;&nbsp;The GuardianCancer: Why every extra hour of uninterrupted sitting may raise risk&nbsp;&nbsp;Medical News TodaySitting or Reclining for More Than 30 Minutes at a Time Every Day May Increase Cancer Risk, New Study Finds&nbsp;&nbsp;People.comLong sitting bouts linked to increased cancer risk&nbsp;&nbsp;Medical XpressStudy Warns on Sedentary Behavior and Cancer Mortality&nbsp;&nbsp;MedPage Today",
+      "summary": "Sitting for more than 30 minutes at a time linked to higher risk of cancer death&nbsp;&nbsp;The GuardianCancer: Why every extra hour of uninterrupted sitting may raise risk&nbsp;&nbsp;Medical News TodaySitting or Reclining for More Than 30 Minutes at a Time Every Day May Increase Cancer Risk, New Study Finds&nbsp;&nbsp;People.comBrief breaks during each hour of sedentary behaviour are associated with a lower risk of death from cancer&nbsp;&nbsp;Science Media Centre EspañaLong sitting bouts linke",
       "sources": [
         {
           "name": "The Guardian",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSS1PMjJqeWdIOWxyTUZaRkhOTlZhY05kZFRQenQ1NGVDemNaT1lBX1VkWW9ucG1neVFpVGVOVUV4ZXQ1VHFHN0ttMVdMX0RNc29ubTlnenFtTlk5V0hrX0VmTUZQcktmVG1MNEM3TWFOcTU4eVM2ampvZ0hzQmFlTzJYUzE2WVphd3ZaWWFZakU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "39f57be9ae0c",
+      "title": "Mites Live on Your Face And, in a Horrifying Turn of Events, They're Starting to Merge With Humans - ScienceAlert",
+      "published": "2026-07-02T20:04:16+00:00",
+      "summary": "Mites Live on Your Face And, in a Horrifying Turn of Events, They're Starting to Merge With Humans&nbsp;&nbsp;ScienceAlertThis microscopic creature has lived on your face for years; now scientists say it's almost out of genes&nbsp;&nbsp;The Times of IndiaCommon Belief About Face Mites Debunked by New Genetic Research&nbsp;&nbsp;inkorr.com",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ0VzT2dRUWZuS1lMSlZMZmZRTE1VbEVuZDhFQk1RZFJLd29id3U2WUdneWxMcVd0NmRGWXJLZ2djZWQ1eUpOZml3ckdVcWQ2YmtxMFZyeG1ISS0tUnhTdk5nUGRLdjQtdm5iQUZJQW9uY2dUY1BTMUJMTGtZSTBCSmMwckI1YzVCR1lJNDZUSTFlMzBsdlVFRg?oc=5"
         }
       ]
     },
@@ -501,7 +597,7 @@
       "id": "d86d3016b552",
       "title": "Lesion-covered squirrels with potentially life-threatening virus popping up in backyards across US - FOX Weather",
       "published": "2026-07-02T19:05:00+00:00",
-      "summary": "Lesion-covered squirrels with potentially life-threatening virus popping up in backyards across US&nbsp;&nbsp;FOX WeatherHorrifying plague of 'zombie squirrels' with oozing tumors invade US gardens&nbsp;&nbsp;AOL.comZombie Squirrels Spotted in People’s Backyards Across United States&nbsp;&nbsp;Wide Open CountryGrotesque ‘zombie squirrels’ with oozing warts spotted roaming through US backyards&nbsp;&nbsp;New York Post‘Zombie’ squirrels with oozing warts are found in several states in peoples’ bac",
+      "summary": "Lesion-covered squirrels with potentially life-threatening virus popping up in backyards across US&nbsp;&nbsp;FOX WeatherSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "FOX Weather",
@@ -510,22 +606,10 @@
       ]
     },
     {
-      "id": "88ef921d4886",
-      "title": "All the Ohio beaches with toxic algal blooms, high bacteria levels - The Columbus Dispatch",
-      "published": "2026-07-02T18:46:00+00:00",
-      "summary": "All the Ohio beaches with toxic algal blooms, high bacteria levels&nbsp;&nbsp;The Columbus Dispatch",
-      "sources": [
-        {
-          "name": "The Columbus Dispatch",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMVNpWmVjZHI5akY3Q1ZqYmJ1X3VLRVA3a3FyeTJPOFlXS1JIcUJJR0doNFdWSWp2bnVuajVueE13Q2ZwRDRHbUZhNjFPYUdMNURwcnhMZlc1OS11S2REUjdfellEZTl2c2tXTFJCd0JZTjlMLVFwRnBsM1FPQUF3X3ZvMVhKaVlDei1nd1NIWVhURkJCUkdJTlhWa3pSOEhmdHFUOWlvSGVlUzQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "62e033b92376",
       "title": "Quality of Muscles, Not Size, Lowers Heart Attack Risk - Newser",
       "published": "2026-07-02T18:42:00+00:00",
-      "summary": "Quality of Muscles, Not Size, Lowers Heart Attack Risk&nbsp;&nbsp;NewserPeople with strong chest and back less likely to have a heart attack, analysis suggests&nbsp;&nbsp;The GuardianThe chest and back exercises to help reduce heart attack risk&nbsp;&nbsp;The TelegraphLow muscle density on coronary CT linked to heart risk&nbsp;&nbsp;AuntMinnieI’m a personal trainer. These five exercises could reduce your risk of a heart attack&nbsp;&nbsp;The Independent",
+      "summary": "Quality of Muscles, Not Size, Lowers Heart Attack Risk&nbsp;&nbsp;NewserPeople with strong chest and back less likely to have a heart attack, analysis suggests&nbsp;&nbsp;The GuardianI’m a personal trainer. These five exercises could reduce your risk of a heart attack&nbsp;&nbsp;The IndependentLow muscle density on coronary CT linked to heart risk&nbsp;&nbsp;AuntMinnieAI spots hidden heart attack risk in routine chest scans, study finds&nbsp;&nbsp;t2ONLINE",
       "sources": [
         {
           "name": "Newser",
@@ -561,7 +645,7 @@
       "id": "e74b2121ccdf",
       "title": "More people than thought may be at risk for red meat allergy caused by ticks - NBC News",
       "published": "2026-07-02T17:41:38+00:00",
-      "summary": "More people than thought may be at risk for red meat allergy caused by ticks&nbsp;&nbsp;NBC NewsNew study reveals Missouri is among states with a 24% prevalence of alpha-gal antibodies&nbsp;&nbsp;KBIAhealth Lone Star Tick - Amblyomma americanum&nbsp;&nbsp;West NewsmagazineTick Safety in the Woods: Understanding Alpha-gal Syndrome and Other Risks of Tick Bites&nbsp;&nbsp;Forest Resources AssociationTick bites are surging in the US this year. Here’s what to know.&nbsp;&nbsp;News From The States",
+      "summary": "More people than thought may be at risk for red meat allergy caused by ticks&nbsp;&nbsp;NBC NewsSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "NBC News",
@@ -573,7 +657,7 @@
       "id": "35a30cedc5dd",
       "title": "Tick season is expected to be worse than normal as ER visits rise in much of the U.S. - CBS News",
       "published": "2026-07-02T16:34:29+00:00",
-      "summary": "Tick season is expected to be worse than normal as ER visits rise in much of the U.S.&nbsp;&nbsp;CBS NewsYour guide to identifying some of the most common ticks found in the US&nbsp;&nbsp;FOX WeatherMore tick bites are happening closer to home&nbsp;&nbsp;WTAETick-borne illnesses on the rise in West Virginia; health officials urge extra precautions&nbsp;&nbsp;WOWK 13 NewsHealth officials offer tick safety tips as summer outdoor season ramps up&nbsp;&nbsp;KKCO 11 News",
+      "summary": "Tick season is expected to be worse than normal as ER visits rise in much of the U.S.&nbsp;&nbsp;CBS NewsYour guide to identifying some of the most common ticks found in the US&nbsp;&nbsp;FOX WeatherWarmer temps bring soaring tick populations. How to stay safe from Lyme disease&nbsp;&nbsp;Hartford CourantMore tick bites are happening closer to home&nbsp;&nbsp;WTAEHealth officials offer tick safety tips as summer outdoor season ramps up&nbsp;&nbsp;KKCO 11 News",
       "sources": [
         {
           "name": "CBS News",
@@ -585,7 +669,7 @@
       "id": "f5be77dcd0ca",
       "title": "Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages - Ars Technica",
       "published": "2026-07-02T16:30:37+00:00",
-      "summary": "Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages&nbsp;&nbsp;Ars TechnicaMarburg outbreak is reported in Uganda, threatening to complicate Ebola response in region&nbsp;&nbsp;STATEbola deaths in Africa top 400 as Uganda reports death of child from Marburg&nbsp;&nbsp;CIDRAPHealth Alert: Health Alert: U.S. Embassy Kampala (June 29, 2026)&nbsp;&nbsp;U.S. Embassy in Uganda (.gov)One-year-old dies of Marburg in Uganda&nbsp;&nbsp;The Telegraph",
+      "summary": "Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages&nbsp;&nbsp;Ars TechnicaMarburg outbreak is reported in Uganda, threatening to complicate Ebola response in region&nbsp;&nbsp;STATEbola deaths in Africa top 400 as Uganda reports death of child from Marburg&nbsp;&nbsp;CIDRAPHealth Alert: Health Alert: U.S. Embassy Kampala (June 29, 2026)&nbsp;&nbsp;U.S. Embassy in Uganda (.gov)Ebola vs Marburg Virus: Could These Infections Cause The Next Pandemic?&nbsp;&nbsp;NDTV",
       "sources": [
         {
           "name": "Ars Technica",
@@ -594,22 +678,10 @@
       ]
     },
     {
-      "id": "30a7907e9294",
-      "title": "Researchers launch study on Ebola treatments as Congo outbreak worsens - AP News",
-      "published": "2026-07-02T16:25:00+00:00",
-      "summary": "Researchers launch study on Ebola treatments as Congo outbreak worsens&nbsp;&nbsp;AP NewsPatient enrolment begins in a scientific trial to identify the first effective treatments for Bundibugyo virus disease&nbsp;&nbsp;World Health Organization (WHO)Trial for Bundibugyo Ebola treatment starts in DRC, WHO says&nbsp;&nbsp;ReutersEbola treatments trial begins in the Democratic Republic of Congo&nbsp;&nbsp;BBCClinical trial for Ebola therapies begins in DR Congo&nbsp;&nbsp;CIDRAP",
-      "sources": [
-        {
-          "name": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNmwwT2tQZjJqVmNHRVVubHZFR2VRZXV5V3FTNGVFQkZHNWYtdi1HdmNtTmx3RGliTXBWN21IeFRXaTYtYTZaQ3NpeE9zNW92R3dYemh4MlcwOWVDZ0w1V0RjRzN6S1p5RjNONzNJRkZZSHA1ZFZIeWFuYVozbHFPb21VNGZlOGpZdDBoVU54YnJKSHFOS0NJUE9OMnVIRnZkYVE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b9dcf5804055",
       "title": "4 surprising (and evidence-based) health benefits of drinking coffee - The Washington Post",
       "published": "2026-07-02T16:00:00+00:00",
-      "summary": "4 surprising (and evidence-based) health benefits of drinking coffee&nbsp;&nbsp;The Washington PostYour daily coffee intake may cut your risk for liver disease&nbsp;&nbsp;CNNCoffee Lovers and Their Livers Can Celebrate, Study Suggests&nbsp;&nbsp;MedPage TodayYour morning coffee could be protecting your liver, study says&nbsp;&nbsp;EuronewsCoffee May Offer Significant Liver Health Benefits, Large Study Suggests&nbsp;&nbsp;Everyday Health",
+      "summary": "4 surprising (and evidence-based) health benefits of drinking coffee&nbsp;&nbsp;The Washington PostYour daily coffee intake may cut your risk for liver disease&nbsp;&nbsp;CNNCoffee Lovers and Their Livers Can Celebrate, Study Suggests&nbsp;&nbsp;MedPage TodayYour morning coffee could be protecting your liver, study says&nbsp;&nbsp;EuronewsStudy finds correlations between coffee and decrease in certain liver disease&nbsp;&nbsp;WPSD Local 6",
       "sources": [
         {
           "name": "The Washington Post",
@@ -674,114 +746,6 @@
         {
           "name": "Medical Xpress",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRGFPWGtjQ05BUXlxbnFiU3UtZDNybTJDQWw4VkR3aDViV18xQVgyQS03VDllVUN1QzA4N1R1ZWRQY0pucEs2aURNY2licEpmbWtfZkNoVXVzUW0wbkw0Wk53Ml95cVhuMEdZX3Z3UVZ6OGw1SXJCWHNXcUZEWXptMzRB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "53ac8d53cd6d",
-      "title": "Alcohol is one of the most dangerous drugs, yet its presence is ubiquitous in social settings and celebrations - The Conversation",
-      "published": "2026-07-02T12:48:08+00:00",
-      "summary": "Alcohol is one of the most dangerous drugs, yet its presence is ubiquitous in social settings and celebrations&nbsp;&nbsp;The ConversationAlcohol’s Health Myth Is Over. How to Tell Patients&nbsp;&nbsp;MedscapeContributor: Alcohol should be stigmatized like smoking&nbsp;&nbsp;Los Angeles TimesThis is what happens to your body when you quit drinking alcohol&nbsp;&nbsp;The IndependentNo safe level of alcohol? Major study links even moderate drinking to higher cancer risk&nbsp;&nbsp;Firstpost",
-      "sources": [
-        {
-          "name": "The Conversation",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQTNkYTZJTzhMTWJmR2FZYUZEUzhkamxMbGdBV1UyanlUV0ozWHNfaC1SNFFMemJJNzlhOVdZZUg2ZHdaeHRHSnJMUDVNWWRjM05MNU9RZmRiSzR0QUNpbjNsOUpWYnVWSG9haXV0VlRwMzlnM24zY2U0elN5T0NIYTJwclVEdmR5QV9JMHFsZE1mS2g0dko4czhrWGQtNzB2TFkyZk5tR2kwUFQybHFrai12ZGFnQVN0Zkl6bjRBV2lQVUxRTG1ZSnlCUjJxNnBLMlhoTFlzbEdLU0I4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f89310f22fc3",
-      "title": "Eight-hour eating window sustains long-term weight loss - News-Medical",
-      "published": "2026-07-02T11:33:00+00:00",
-      "summary": "Eight-hour eating window sustains long-term weight loss&nbsp;&nbsp;News-MedicalIntermittent fasting maintains long-term weight loss, regardless of meal timing, study shows&nbsp;&nbsp;Medical XpressIntermittent Fasting vs. Calorie Count: Which Is Best for Weight Loss?&nbsp;&nbsp;HealthlineScientists Say Intermittent Fasting Could Make Weight Loss Easier&nbsp;&nbsp;SciTechDailyNot so fast: Intermittent fasting isn't appetizing for everyone&nbsp;&nbsp;OSF HealthCare",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONHFvNHl0dFg1ZGhJZWt0dDN3LXVzZjhrUm5zb1JEZ0pCUXc0V1BjVDJRMUN2cDhmU25GQjRQb3RSeENTVHBkRWt3NjQtbkdRQjdRczlrandwMG5pX1B2RlBVTVVieWRXODNTTlc3dmxZS01qUnplaTljUjNfeDhFWm9OaGhXVnVDVVlUcXpubDJSN2pEOG95c2o4Y2d6YkRLWHF3cVpB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b6bbeac8c9c6",
-      "title": "Another Thing for Millennial Women to Stress Over - The Cut",
-      "published": "2026-07-02T11:00:23+00:00",
-      "summary": "Another Thing for Millennial Women to Stress Over&nbsp;&nbsp;The CutDoctor urges shingles vaccine for elderly; expert explains blood sugar link&nbsp;&nbsp;The Indian Express",
-      "sources": [
-        {
-          "name": "The Cut",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tYm5WM2R4eW0zSGZfV2NrUlREY2Q1MTNMdzlVVVF0SWJTSWRqbTBrSGJIbWY1UEhjRUpOVVNxaGg5M2ZqN3RiODRPZjh3S0VyYWVhYWxsWnB3WkdiUDZLMWNRVFhxQ3UybUF4VVJn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e8ff772fd544",
-      "title": "‘Super movers’ have half the risk of brain decline in old age — even if their brains show signs of dementia - New York Post",
-      "published": "2026-07-02T10:28:00+00:00",
-      "summary": "‘Super movers’ have half the risk of brain decline in old age — even if their brains show signs of dementia&nbsp;&nbsp;New York PostSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRktIaV8wTjREZmtmZzN3Zkx4c2wyRmVnLWZOMV9ONFk5M0JHd2tnVmx1S3FJZjNrOE4tTzdRUVBYcXZ2U0RrT3ZmUGZ3Nmt6bmVjNEtNN1ZsNXI3UzZJc0RTLU9TN1F3TWR1Zm1OM0dKTm1SZ2ZOMzBpTzNYd2dQU3U5YkZKZ3VmWGxNbzlxaXhBekxi?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3cdae3daade6",
-      "title": "Drug Stops 90% of Pancreatic Cancer Migration in Lab Tests - ScienceAlert",
-      "published": "2026-07-02T10:01:36+00:00",
-      "summary": "Drug Stops 90% of Pancreatic Cancer Migration in Lab Tests&nbsp;&nbsp;ScienceAlertScientists discover an unexpected way to make pancreatic cancer cells self-destruct&nbsp;&nbsp;ScienceDailyScientists Found an Unexpected Way to Make Pancreatic Cancer Cells Destroy Themselves&nbsp;&nbsp;Medical DailyCancer cell migration blocked by 90% in pancreatic tumors, researchers discover&nbsp;&nbsp;inkorr.com",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaEFlVFFKenMzbm1qdHFlNTBKbmg1SDBHUUNHblE5ejlTVUFPaXJoY3pmdnQ1VUUzYUlTdmdDcjNyLUNST0JYa0RrZmZJMkFRMGJQelBTejY4YV9xSmQxNkFVZzRxRl9kVm83MGRrZlE3YXhWU2tMRjU3eTNZNHlhQU9HYWEycUJOMTFfdUp5dHVUbkk5LVJXTUUxLTI5OVlYazM4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9b2b1034d68c",
-      "title": "GLP-1s for Addiction: Are We There Yet? - Medscape",
-      "published": "2026-07-02T09:42:34+00:00",
-      "summary": "GLP-1s for Addiction: Are We There Yet?&nbsp;&nbsp;MedscapeHow drugs like Ozempic could help with addiction&nbsp;&nbsp;RNZCan GLP-1 Drugs Help You Drink Less Alcohol? Here’s What The Latest Research Says&nbsp;&nbsp;News18",
-      "sources": [
-        {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQmhGRUFGaG13SDFZRVhBMTllVVV1MV9zaDNaVEhEYUw1YUJCTGdhWUp5RTFkZkpkbFlscWYtYkNTSFhmcmo1NC1qb3ZqbFlSYzgyaW9JbUtmVEVwT1VPUURWejFZZFBfWkU4a1l5RUp1OEhCMU54YkYyLUpmNnhDNWVYWFIwZGM1dkxn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8803d1f430a3",
-      "title": "Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak - The Guardian",
-      "published": "2026-07-02T09:00:00+00:00",
-      "summary": "Understanding Ebola’s wildlife origins is crucial to preventing next big outbreak&nbsp;&nbsp;The GuardianEbola Returns: How We Can Fight Back&nbsp;&nbsp;Time MagazineWhat Ebola and Marburg are teaching us about the next pandemic&nbsp;&nbsp;STATEbola response highlights value of African science&nbsp;&nbsp;SciDev.Net2026 Ebola outbreak: Key facts, symptoms and why it’s driving hunger in Africa&nbsp;&nbsp;UN World Food Programme",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSS1mdnVBd1ZXdGk0dWNSSGtmWmwyOVlZM0ltclpEeDkxQURkNTdjRS1PeHE3Y3ZFUC16S3FiY0l5T1JjRkF2MGJxdGI5MlYzOXQzdjBicml1bnpLMzB3Z0dGTjRHbHRydWRvMXJ0OXdkSVh2cVo4TV84SWQ5MktiMGhadU9uRFR3eHdab0lJamM2cUlsZGx3bF9rZ0VlUHg4MWdsUy1GZkltaEpER3p4V0JkTVZ4dzVhR0xkUHZXYXFLZ1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b19f98f1d850",
-      "title": "Statins helping people with obesity match those of healthy weight on key metrics, study finds - The Guardian",
-      "published": "2026-07-02T08:24:00+00:00",
-      "summary": "Statins helping people with obesity match those of healthy weight on key metrics, study finds&nbsp;&nbsp;The GuardianStatins and blood pressure drugs changing health risks of obesity, study suggests&nbsp;&nbsp;STATStatins ‘cut heart risk gap between obese and slim adults’&nbsp;&nbsp;The TimesWhy obese adults are catching up on heart health – and why it’s not the full story&nbsp;&nbsp;India TodayObese adults have similar blood pressure and cholesterol to those at healthy weight – study&nbsp;&nbsp",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2hBN0RKbWphV1NKeFpoYmI3dVU2d091dDlvLV9CT2xESERMR0c2ZTJyX1FsT3VSODhBYXBmcmRDU0hTYlAzZ2RKTWhCdFZPNGJwY0I2SkctUDdCMkkzSHFMejlVSEtOV19YNFFUZkVURHFfOGhmdTk5YV9zT0ZKemNWcjhWT3hQSUpjandlQW5QTVRLNFQyY2NEMXZEM2RCdXhQemQ2N3ozaXlFTW02Vm1MbTM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f3fc137762f5",
-      "title": "The diet that’s proven to lower blood pressure and prevent dementia - AOL.com",
-      "published": "2026-07-02T07:00:00+00:00",
-      "summary": "The diet that’s proven to lower blood pressure and prevent dementia&nbsp;&nbsp;AOL.comSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUkVDdnNwYVZMM2hhTHpjOVhNMTBSeU5lT1NIWEVGVndrbloyZHNNbnFJOGotTzB1REpfRGN6U3lzbVo1NE5aZ3k4VFJMRmlWSzJhLTQ4SmVfUWlMVERlUFlCTUJDUkRjYWhKaGUwZkxka3REanVNR1hzV2xEbUtGWS1R?oc=5"
         }
       ]
     }

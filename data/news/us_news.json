@@ -1,38 +1,38 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-07-06T15:38:58.603919+00:00",
-  "total_fetched": 135,
-  "unique_count": 135,
-  "health_related_count": 63,
+  "fetched_at": "2026-07-06T20:01:25.705181+00:00",
+  "total_fetched": 140,
+  "unique_count": 139,
+  "health_related_count": 64,
   "news": [
     {
-      "id": "3a521f7c61c5",
-      "title": "Column | Why does cancer seem so common right now? An oncologist explains. - The Washington Post",
-      "published": "2026-07-06T15:02:06+00:00",
-      "summary": "Column | Why does cancer seem so common right now? An oncologist explains.&nbsp;&nbsp;The Washington PostAACR Cancer Disparities Progress Report Mortality Rates Improve But Care Inequities Persist&nbsp;&nbsp;The ASCO Post",
+      "id": "da76fb853445",
+      "title": "Biohacker Bryan Johnson discloses 'incurable' illness. What is it? - USA Today",
+      "published": "2026-07-06T18:56:00+00:00",
+      "summary": "Biohacker Bryan Johnson discloses 'incurable' illness. What is it?&nbsp;&nbsp;USA TodayBryan Johnson’s quest to beat aging hits a new obstacle&nbsp;&nbsp;Crain's Chicago BusinessThis longevity guru is trying to live forever. It may have made him sick&nbsp;&nbsp;AFRBiohacker hoping to live to 160 reveals alarming diagnosis: 'My stomach is eating itself'&nbsp;&nbsp;Fox NewsBiohacker Bryan Johnson Reveals He Has a Chronic Autoimmune Disease: ‘My Stomach Is Eating Itself’&nbsp;&nbsp;People.com",
       "sources": [
         {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUW40eW5vY0hiUnJoLVE5TkpPemp6WXFRbHQwUWdmYklUcWFXYXlZY0wzMGhlVzRlZXB2R1F2ZmQ5Z29rS1V2VDJxeUstdFVjdHh0RzZOcWpWOU9RYkVjbFB1d1lDVThoSEhxMmpHUDF3ZEtrWWh1SGtRUlREV1JXLXFOaUs1NTk2VDRvanB5TW5tSWNWYm1jMy1CbEhKb0VyczN4RWxTOA?oc=5"
+          "name": "USA Today",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWC1abVBBc0JyVnRJWU02bWV6djBKS2hWZllNSGw1NWRTUTJNY2pyT3BjdWQ2QWNib1BHUzFJMGdDV0EwcVJKODdCMU80S3h2WDRUUDctMlk1MkpBZlNpcWRobnZtU1pDY2tNQnB3a3JWSjI5eWlvRDFIUW9wNnJTY1p6MlptLUE2aHdnWlpRSC05VlRLZ3pvUEpsRExxNU5tQ1dqNHFoOXJiRUg0Y0NJNldRV1F2WTdsUnlsSHBEQU1pVkhRMzhz?oc=5"
         }
       ]
     },
     {
-      "id": "324ed82c3e2a",
-      "title": "Biohacker Bryan Johnson reveals he has incurable disease amid mission to ‘defeat death’ - The Independent",
-      "published": "2026-07-06T14:30:00+00:00",
-      "summary": "Biohacker Bryan Johnson reveals he has incurable disease amid mission to ‘defeat death’&nbsp;&nbsp;The IndependentThis longevity guru is trying to live forever. It may have made him sick&nbsp;&nbsp;AFR'My stomach is eating itself': Biohacker Bryan Johnson reveals he has autoimmune disease&nbsp;&nbsp;CNA LifestyleBiohacker who took 100 pills a day to 'live forever' now diagnosed with incurable disease&nbsp;&nbsp;The MirrorWhat is Autoimmune Gastritis, the condition biohacker Bryan Johnson is batt",
+      "id": "8f3dd9f3c7ab",
+      "title": "Evidence-Backed Benefits Of Drinking Coffee Revealed In New Report - dailyvoice.com",
+      "published": "2026-07-06T18:42:46+00:00",
+      "summary": "Evidence-Backed Benefits Of Drinking Coffee Revealed In New Report&nbsp;&nbsp;dailyvoice.com4 surprising (and evidence-based) health benefits of drinking coffee&nbsp;&nbsp;The Washington PostYour daily coffee intake may cut your risk for liver disease&nbsp;&nbsp;CNNCoffee Lovers and Their Livers Can Celebrate, Study Suggests&nbsp;&nbsp;MedPage TodayNew biological clues behind coffee's benefit to liver health&nbsp;&nbsp;Medical Xpress",
       "sources": [
         {
-          "name": "The Independent",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVW12bW5MRUFoOTJXMm9OSEFxRjZqQ0V0dWs5am1ORmZqWDhuRE9UMlZoSEczVVE5Uy1UaUllV0VkSnRUVjBCSkdnVjVrSDkxOWxoeWNoVmczR3BpbWppWks4eWVmUGhscDM0MzMyaXNzMVhGT245MUdhTFJ5enlXOUo0aGRrX1pzUjhaaUxDMjl6eWNnSkFuMnNIUUg?oc=5"
+          "name": "dailyvoice.com",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTzJ1d2ZoT2hwTElXODRMdFptQlB1RVVpcms2Z0ZVTWR4aUh3am4tQ1ZaY3JYZXM5TE1iYTRzb296c3pXc09oNWtFWTBMajgtelN1Q3V0YUNQUGN0SFJvWVM3b0JZS01qNXk0emxZcVFveGRGdklGM2NheVNyNFppOXFkbldUcnFRUEZwLXNOWDliZ1lTMUhQVWhwUGFSdzQ?oc=5"
         }
       ]
     },
     {
       "id": "b4960e6dd670",
       "title": "Oncologists Warn: Ditch Talc-Based Powders to Lower Cancer Risk - AOL.com",
-      "published": "2026-07-06T12:53:41+00:00",
+      "published": "2026-07-06T18:38:21+00:00",
       "summary": "Oncologists Warn: Ditch Talc-Based Powders to Lower Cancer Risk&nbsp;&nbsp;AOL.comSee more headlines & perspectives on Google News",
       "sources": [
         {
@@ -42,26 +42,146 @@
       ]
     },
     {
-      "id": "fe489c644869",
-      "title": "Ebola deaths in Congo top 500 as health workers threaten to strike - AP News",
-      "published": "2026-07-06T12:52:00+00:00",
-      "summary": "Ebola deaths in Congo top 500 as health workers threaten to strike&nbsp;&nbsp;AP NewsCongo says confirmed Ebola cases rise to 1,561, including 506 deaths&nbsp;&nbsp;Reuters'It takes a lot of courage': DR Congo health workers battle Ebola&nbsp;&nbsp;NPREbola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda&nbsp;&nbsp;World Health Organization (WHO)A Risky Burial in the Heart of an Ebola Outbreak&nbsp;&nbsp;The New York Times",
+      "id": "140c62d96090",
+      "title": "I built a house for my dad with dementia to live in with us. When his health declined, it cost $120,000 to support him. - Business Insider",
+      "published": "2026-07-06T17:11:16+00:00",
+      "summary": "I built a house for my dad with dementia to live in with us. When his health declined, it cost $120,000 to support him.&nbsp;&nbsp;Business Insider",
       "sources": [
         {
-          "name": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaW5jSFZCR1pPVEQzbHR1MWRGZ2htQ2pORFV1Y2RUcE13bXRoTjBQd293MFdXWW9vOGRFbXBISm9FTEttTlUwREtkZlJpVTQxRDlhNWdsNjVjZ2N4czF5X1VOeTVfelA3RmRaUjlUbTVINTNqLUFDdkJXRjF2RHhnbGZXYkY3RTdkczF4TE5zUzB6MGdJa1hrTTUxbjE1WmpEdFhBcnZNMDRzQQ?oc=5"
+          "name": "Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMW9lX0hVeV9FUmtJbzZpcE9MTUhOM3pSaWZFY1lXa2h1SlgwV0FCYmFjcWhHNklFaGlVLWVZTmVFbTRtcGZCemxNYk0wNXRBMTRjbjg5TGlyak8xRm9qdUdrUXR4eGE4SDZkNXE0XzhlY0lrRzRUbUF2U3NjZTRSa3NLckJUWkE?oc=5"
         }
       ]
     },
     {
-      "id": "8f3dd9f3c7ab",
-      "title": "Evidence-Backed Benefits Of Drinking Coffee Revealed In New Report - dailyvoice.com",
-      "published": "2026-07-06T12:36:47+00:00",
-      "summary": "Evidence-Backed Benefits Of Drinking Coffee Revealed In New Report&nbsp;&nbsp;dailyvoice.com4 surprising (and evidence-based) health benefits of drinking coffee&nbsp;&nbsp;The Washington PostYour daily coffee intake may cut your risk for liver disease&nbsp;&nbsp;CNNCoffee Lovers and Their Livers Can Celebrate, Study Suggests&nbsp;&nbsp;MedPage TodayNew biological clues behind coffee's benefit to liver health&nbsp;&nbsp;Medical Xpress",
+      "id": "52871c431b31",
+      "title": "Researchers make breakthrough discovery about fast-spreading invasive fern - Yahoo",
+      "published": "2026-07-06T16:44:00+00:00",
+      "summary": "Researchers make breakthrough discovery about fast-spreading invasive fern&nbsp;&nbsp;YahooSee more headlines & perspectives on Google News",
       "sources": [
         {
-          "name": "dailyvoice.com",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTzJ1d2ZoT2hwTElXODRMdFptQlB1RVVpcms2Z0ZVTWR4aUh3am4tQ1ZaY3JYZXM5TE1iYTRzb296c3pXc09oNWtFWTBMajgtelN1Q3V0YUNQUGN0SFJvWVM3b0JZS01qNXk0emxZcVFveGRGdklGM2NheVNyNFppOXFkbldUcnFRUEZwLXNOWDliZ1lTMUhQVWhwUGFSdzQ?oc=5"
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc2VydUswR3kyVHJ2eVR4MjdndGkzZGNFbjBVWHl6VWFyUE0zNVpNakJqcGRnLWg4V18tN2hXOUlEWlUzcGNwdlR1cWxXX2c5b1VKcXllbFhuSTFfU3R5MjVEWUNNNGpMdFNtck5TZzBqVkxMZUg4NUVSQ0Nqam1rS1hKM1lrYTN4NGZwWkdaZUV1SWNtV0w3WmFkRnNfVXZLNmJhalR1b00xQnpM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b42d57bf71ac",
+      "title": "Stanley M. Gartler, Pioneer in Cancer Research, Dies at 102 - The New York Times",
+      "published": "2026-07-06T16:23:55+00:00",
+      "summary": "Stanley M. Gartler, Pioneer in Cancer Research, Dies at 102&nbsp;&nbsp;The New York Times",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NN190MlhUMzI1OTZyQ3RfNjB2Rjd3YjFPRFk4SUx0QmJPbEdtUGQtS3p3VVhVZk5xUnhJQmhtaU5tNEdIT0g4UEszVTJ4bUlOdHhtTHBzOEtPbGczdy1nOUJkT0NrNzNGUTE2UHQ0eHBkMlA5dDdUdmRn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5117a92e4799",
+      "title": "Legionnaire’s Outbreak Hits Upper East Side—Central Park Visitors Should Monitor For Symptoms - Forbes",
+      "published": "2026-07-06T16:21:27+00:00",
+      "summary": "Legionnaire’s Outbreak Hits Upper East Side—Central Park Visitors Should Monitor For Symptoms&nbsp;&nbsp;ForbesOver two dozen sickened in growing cluster of Le­gion­naires' disease on Upper East Side&nbsp;&nbsp;Spectrum News NY1Legionnaires’ cluster grows on the Upper East Side: Health Department&nbsp;&nbsp;PIX11How does Legionnaires' disease spread? What to know on NYC outbreak&nbsp;&nbsp;USA TodayUpper East Side Legionnaires’ cases rise to 14&nbsp;&nbsp;amNewYork",
+      "sources": [
+        {
+          "name": "Forbes",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObE5QQzBoT1pzYlgzUHZFdnBJdjVQSi1MOE8wSjZVX2RrLTVzdUtGTTI3bjIxZzM3ZnJCMjNzbE1FbGEyd19MSU9XcnVCblA2c3JhYWx4UGVOdzN2N0dkMXI3aFRoaFA5dldLdFlrR29DRDQ2RzhFOXU0YURkbFRLN1lNU3FBWkZtd3c2VndZd1FoTER6ZFJHeS1adWcxdVhUNHlUWDBrcHFzb1IyUVJvRWRBOEZBVHpR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "39986b632c5e",
+      "title": "5 Fruits High in Potassium That Lower Blood Pressure - Verywell Health",
+      "published": "2026-07-06T16:05:44+00:00",
+      "summary": "5 Fruits High in Potassium That Lower Blood Pressure&nbsp;&nbsp;Verywell HealthGo bananas for good nutrition&nbsp;&nbsp;The Tribune",
+      "sources": [
+        {
+          "name": "Verywell Health",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSzYxUU9QZEhtSzlDLW5fVlpfUW82YTNyRFh3Z01NdjNvNUxOR0tqdEQ4b1ZpdnBzREtUQmdlVjRqT3FJUEJpYVRTaU5ocDlzVkVoTkVSQ214UDd6UTJlSm5PQUZqbVIta3V4TUxLcGhtVjE0T3BfOURnalc2MHVCTzM0dEFQT05nOVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3a521f7c61c5",
+      "title": "Column | Why does cancer seem so common right now? An oncologist explains. - The Washington Post",
+      "published": "2026-07-06T16:00:00+00:00",
+      "summary": "Column | Why does cancer seem so common right now? An oncologist explains.&nbsp;&nbsp;The Washington PostAACR Cancer Disparities Progress Report Mortality Rates Improve But Care Inequities Persist&nbsp;&nbsp;The ASCO Post",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUW40eW5vY0hiUnJoLVE5TkpPemp6WXFRbHQwUWdmYklUcWFXYXlZY0wzMGhlVzRlZXB2R1F2ZmQ5Z29rS1V2VDJxeUstdFVjdHh0RzZOcWpWOU9RYkVjbFB1d1lDVThoSEhxMmpHUDF3ZEtrWWh1SGtRUlREV1JXLXFOaUs1NTk2VDRvanB5TW5tSWNWYm1jMy1CbEhKb0VyczN4RWxTOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "012e31809927",
+      "title": "Why U.S. measles outbreaks have grown harder to extinguish - The Washington Post",
+      "published": "2026-07-06T16:00:00+00:00",
+      "summary": "Why U.S. measles outbreaks have grown harder to extinguish&nbsp;&nbsp;The Washington Post‘World’s most contagious disease’ on track for highest US cases in 35 years — doc warns: ‘We are allowing it to spread’&nbsp;&nbsp;New York PostInside the largest US measles outbreak in decades: Records reveal spread in vaccine-hesitant community&nbsp;&nbsp;cbs19news.comMeasles Guidance for Gastroenterologists and Hepatologists&nbsp;&nbsp;Gastroenterology & Endoscopy News‘Irreparable Harm’ Under RFK Jr.: Mea",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnRWTW5ZU3dmUTZNNWppTnFDTFk5b2tQUmltdEZLYVkwME1yUkJ4QWN2aWhBZGVyUzBzQVNMblI4NzlJNl9raWdUcUtpVmk4SnRxRlo2THZiOHhRQlVpVkZ4cnVNS1NmdXQ5YkNxQlBHVmRua3U0aGt5MzdNNkNWMk4yREMwQnU0NWtXRjZVWHJkS2Q4OTdKLW92enJmQmV2ejd6X25B?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "822415c8453a",
+      "title": "Cyclosporiasis outbreak: Michigan health officials provide more tips on prevention as cases rise - ClickOnDetroit | WDIV Local 4",
+      "published": "2026-07-06T15:12:20+00:00",
+      "summary": "Cyclosporiasis outbreak: Michigan health officials provide more tips on prevention as cases rise&nbsp;&nbsp;ClickOnDetroit | WDIV Local 4Clusters of Severe Stomach Illness Reported Across the U.S.&nbsp;&nbsp;The New York TimesCases of parasitic infection growing in 2 states: Health officials&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosExplosive diarrhea? Here's what to know about Cyclospora&nbsp;&nbsp;WRALCentral Ohio sees several cases of illness that causes explosive diarrhea&nb",
+      "sources": [
+        {
+          "name": "ClickOnDetroit | WDIV Local 4",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSVZ4Vzl2UTdvdThuVHpLcm9NMGlKeEtKM3RCNmFLN2ZRcV93TVJQMk9BYUtDSldSUF90NjlJYWhKRU54aDVydXF3R2lQelZmdE01aVRTNTdJSXBOX01lZWVXTS1kZUhJZlJ5QVlRMEVrbzBTMVJsTk12UXZHczZ1ZGxzcUNlUkViTUZvb0NuZTZvYkxjb09Qa2taV0RQUGhBdGd4WmktOUtDMHVFeC1MMktpbmJIdmhhTzc2ODZick93MmZzY0Rid0t0akNLYW42enlKd0FxdmJlaWFpQkVIdGZyTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "11a153eb5bd6",
+      "title": "Researchers Reveal the Power of ‘Quantum Proofs’ - Quanta Magazine",
+      "published": "2026-07-06T14:33:51+00:00",
+      "summary": "Researchers Reveal the Power of ‘Quantum Proofs’&nbsp;&nbsp;Quanta Magazine",
+      "sources": [
+        {
+          "name": "Quanta Magazine",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVDg4M3R2VXRDQnJKOHpNbXNNcXdPVnRhYUhjeWpUVGxCMU9BMzVVZ2VWbmpET3dac1k0eTFKRnZjQnZZYU05ckpKYmZoZEFRcHF1em8yUkc1U2t3WkdmVjZqYm93VkhDX2NONE0taVdoNjJ3RDhwR3pNb1hJUEtJZm9ZTFVqV05mcU9KWWVqZU0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a740115388c4",
+      "title": "How Much Sunlight Do You Need for Healthy Vitamin D Levels? - Verywell Health",
+      "published": "2026-07-06T14:05:44+00:00",
+      "summary": "How Much Sunlight Do You Need for Healthy Vitamin D Levels?&nbsp;&nbsp;Verywell HealthYour questions answered on vitamin D, food safety and garden produce&nbsp;&nbsp;The Seattle TimesVitamin D isn't really a vitamin: Here’s why&nbsp;&nbsp;Dayton Daily NewsSun Exposure During Summer Not Enough To Maintain Vitamin D Levels: Study&nbsp;&nbsp;NDTVLow Vitamin D Persists Year-Round in Northern Britain&nbsp;&nbsp;Conexiant",
+      "sources": [
+        {
+          "name": "Verywell Health",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd2JpaTRPQnBSdWpTUzFwZWw1S1RLaVhYWUotV3U0dEYtdDkxNUtZaDVWWW92ek16akRfbDZ3Vkc0UXdWYXlXZ2s1NzhDcVF2bFVSSjdBODVSN3h3ZTVUb2FMdXZZbTlHRmJYdm1nNTN0SF9nZnZjbUEyOUdFU19DVGpFSHp3NERTc0dLd21zUzdTckJUdmVqc2VEOUtrOUU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "da69eb2822c1",
+      "title": "Ebola deaths in Congo top 500 as health workers threaten to strike - ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-07-06T13:51:38+00:00",
+      "summary": "Ebola deaths in Congo top 500 as health workers threaten to strike&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos'It takes a lot of courage': DR Congo health workers battle Ebola&nbsp;&nbsp;NPREbola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda&nbsp;&nbsp;World Health Organization (WHO)Congo says confirmed Ebola cases rise to 1,561, including 506 deaths&nbsp;&nbsp;ReutersA Risky Burial in the Heart of an Ebola Outbreak&nbsp;&nbsp;The New York Times",
+      "sources": [
+        {
+          "name": "ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVGZmUTVQZ2xzWHlac3FDel91V1VFdnBfQ1R3S0NlWWpoak4zNkVZMXFKSy1oYmJCa1ZyXzM0cThaTGp1UVJZRDBPc2F1Z0tRMG9wZlY2MkdKVXJlTmNuY0dHdzRKQ2c2MHhVWlNyaDFOYWgxZXRuSWgxLWtod1AwNU9BMEFpTVVWb2xZQ01WZm55ZDYzb2tuUThiTVIxQdIBowFBVV95cUxQZXRLcTNic1RGSTBCS0o2TjZXdzhucS1xSENJLXR5bWhjTE1HZV9sWkMzRjJsa0pkTG1SYTcxS0dqamlsd3dTNmpvdV9kWVdrWXFLMzdfUTFqRVBpcXYwdlh5LWFpazdZS21LT0NhN3NKRk1NWDdiSnVHYUl0OHZYNGdoVWZVLWJOQWhvUExLZmpkUVF6ZkJMX25uYmRfeWRIQXhB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f8668ef07cc8",
+      "title": "For the first time, scientists have recovered ancient DNA left behind on cave walls and rock art, opening - The Times of India",
+      "published": "2026-07-06T12:34:00+00:00",
+      "summary": "For the first time, scientists have recovered ancient DNA left behind on cave walls and rock art, opening&nbsp;&nbsp;The Times of IndiaIn a Scientific First, Researchers Recovered Ancient DNA That Humans Left Behind on Rock Art and Cave Walls&nbsp;&nbsp;Smithsonian MagazineScientists Recover Ancient Human DNA from Cave Walls&nbsp;&nbsp;Sci.NewsHow Spanish cave paintings changed the story of art before modern humans reached Europe&nbsp;&nbsp;The Times of IndiaHuman DNA survived in caves for thous",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQbzc5RWpfc2l1M0NRS3E1NkNrcTJmZDZoZ2sxNWljTHk4WlpjVi1Ra2stRVdIOGc3S21mOWs4NTJYc05id1luRW9MTG9DcTVCWE9ZTkJudnpNUXAxSzFiM1Fyc3dxMUxJNjAybU9hWC1JSXc2QWRMdUhWckEyZFRUM3pwTmJJaHV2UGhTZGcwclNJeDZCSVBiNGpQUTlodnpHVnJrQkZZR3NzV184SDVCMGw1VHpMb3dfTXFiWTlQRGhDOWN5RDFERDJkWF9LMFcxV3Bkb0dJRVVFTU9VZG80YWhJbUF4UlJEWWVULUFTc3p2aTB3eUxLUUstM1VOTnJhdWktZGtMVjRTc3RjS3ZGaUhZUlR0bll4dDN0b3VlT1ItTDZQMFd2YWREdEI0cWVpRi15UExmeDhBdWU3SFJLbGhlWHhmODViUVB1cFhiNHJxc2c3c3c1R2VsNXRYMUNDRHdqZTQ4aGJDOVHSAfACQVVfeXFMUG95OG9XeWJ5dkZSQWhHRklZa09SUEUtYzBhR256OTdkOVBlZTRLUHNENUNwRVBqdUQ4Y3ZJRURaaHUtVndzck1uY0pfakhaY3VUNkE3NEg3OUM1MkgzQmpJQ1RSa092SGlzUGg3SGN6RVBlUWRrSjhZYWs3REFHQzFPZmJrZlY5V05SRmlvQWEyV1pzcEoxQWY4M1pVN1J5Z1JrRVNkTXB0TmFuWmw5ckhDM1pxN3NIcWxSQk1CU20yRzRnOURUajBodUJXSEZBYW5SZnVZcDBxS1VZb1dtZkxhNVVvbkxrZ1RKRHAxWmYyQm9hUE5VM01POTlmbG0tcWJwTFVXZDFFRTFBZFhQdThEei02QUJiS0R3MURaREVSaE1GRHpZbVpYUFg1dEdPbkM4cldWUzdFcWdTeGlQRXlpN0dGbEE0cHVNNENDOE96V3FGaUY4OGczc0Q5SGhEZW9KamRlMW5rUGZINVFiMW4?oc=5"
         }
       ]
     },
@@ -78,6 +198,18 @@
       ]
     },
     {
+      "id": "a9eb8f1560d5",
+      "title": "Thomas J. O’Connor Animal Control and Adoption Center closed to the public due to virus outbreaks - WWLP",
+      "published": "2026-07-06T11:16:47+00:00",
+      "summary": "Thomas J. O’Connor Animal Control and Adoption Center closed to the public due to virus outbreaks&nbsp;&nbsp;WWLPTJO closes temporarily amid parvovirus outbreak&nbsp;&nbsp;Western Mass NewsWestern Mass. shelter lands vet partnership amid virus outbreak&nbsp;&nbsp;MassLiveWestern Mass. shelter suspends animal adoptions over contagious disease outbreak&nbsp;&nbsp;YahooSpringfield Animal Shelter closed due to virus outbreak&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "WWLP",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPT29rakxsRVEzVEp4MnpfQnh1eU1qQnRIWGRxSTNIZUJ0dV84dWYwS1NCVnVHVEVrem56T3ZCblAwSmpZS2EtV0FxS2EycFhQTTZHNkFtVHA3Vzg3d0FRb0l0SXdpVzZxT05xamhtQVpsQVFEajZsZC1PbHRobW55aDJrTVNYbWZIRHJKTTF6T1BnX0Ixb29UdG1pYUJZRXJNWmhWNGtVMVdfaFA5TXl5ZEJ0dmlDQWYwVGJfYjV4ak12c2RUMlZyd3RkdThlX0dMX201djdiNl9FUlBSREF1NV9n0gHnAUFVX3lxTFBzekk5TXRCQzJicHZzTkhlQnpUcFNDS0FmNGdqT19weFBSbUlEUDAxVHdadWZodE9TS1RxLUhnX1ZwaEZVeGI5THd6MmNQV2E5dUpqSWdnNGhTOTBzOGQ1Nnd4cFR1b0dpc2xwRVE2SWExUjlUQmtnNzJKUDlUdXQyRW5LNjY0NFJneklfUGhXTWxVTEpoSW9Lb0laaWJMUDFIaUI5RzN3RzJxT3JIb0FhN29WVFdUS0xvM0h3WmlhRTJrNXdCYTdPaVdlQ0JXQU1kWlMtai0wQnZOc0JaNktmaTJYSzdQUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a48da7c2bc45",
       "title": "Doctors say 8 forgotten habits could help fight stress, obesity and chronic disease - Fox News",
       "published": "2026-07-06T11:00:48+00:00",
@@ -90,14 +222,14 @@
       ]
     },
     {
-      "id": "0898af62800a",
-      "title": "Euclid telescope spots oldest quasars ever discovered, adding to \"perplexing\" space mystery - CBS News",
-      "published": "2026-07-06T10:44:00+00:00",
-      "summary": "Euclid telescope spots oldest quasars ever discovered, adding to \"perplexing\" space mystery&nbsp;&nbsp;CBS NewsEuclid discovers the most ancient quasars in the universe&nbsp;&nbsp;Phys.orgEuropean space telescope Euclid spots oldest quasars yet&nbsp;&nbsp;DW.comDiscovery of the Most Ancient Supermassive Black Holes at Cosmic Dawn&nbsp;&nbsp;すばる望遠鏡Locations of the 31 new Euclid quasars&nbsp;&nbsp;European Space Agency",
+      "id": "8828b548ed85",
+      "title": "Protein discovery could help burn fat without losing muscle - NewsNation",
+      "published": "2026-07-06T11:00:23+00:00",
+      "summary": "Protein discovery could help burn fat without losing muscle&nbsp;&nbsp;NewsNationTurning Off One Protein Made Mice Immune to Obesity. Scientists Just Tested It on Human Cells&nbsp;&nbsp;ScienceAlertScientists discover a protein switch that burns fat and blocks new fat cells&nbsp;&nbsp;ScienceDailyScientists discover ‘fat metabolism switch’ in human cells for first time&nbsp;&nbsp;JangScientists may have found what controls whether your body stores or burns fat&nbsp;&nbsp;MSN",
       "sources": [
         {
-          "name": "CBS News",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOEtKLTFwdzZFUXJIbGZOdW5VYjlOZ054RDBVZk1jVlhkUlU3eW4xQm1OVlR2aElzdTJDOVVtMmZpMF9wanIwSnZLVWVhdzA0al9qZHV0V2JUM3kxcGllV3I4YmlqVXU5VUJyZnFJVVQxMDh0OWpZaXpteHlYVGdreXpFMA?oc=5"
+          "name": "NewsNation",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT3JmMU84RmpQYzhNbGY3MnMzYjdPV3l4LUxkeFJtRUlTT3BMQ2FOclBDMXVCSGhPUllDOGlvaEFSbE4xZk1nako0cWFTdGo5LTZZMTBrNEZwdGt2WGQ5RjdDM0NIX1hjNVJteEt6VUdSRmU0MlRONW0wQTludEUxdktpYTlhQdIBiwFBVV95cUxPWVUtcURjbWNnWTZkWGhzajJEeHJtSEd4SlRBYVMyd04wSTBCV1NpcUtfMEVTYXdyVkVtV09jYWxZZDFlV21OZVZBaHFYZzRDWFhBVS1rR1h1OUhyX3ROS2MyQzhjX1BMZHdFXzJBOHBXNElrbFVoY1lMZ1dqOG9jT0hlM1RFYTRTU2xZ?oc=5"
         }
       ]
     },
@@ -117,7 +249,7 @@
       "id": "204b9ab9f3cf",
       "title": "Is testosterone replacement a fix for the blahs of aging? - NBC News",
       "published": "2026-07-06T10:00:00+00:00",
-      "summary": "Is testosterone replacement a fix for the blahs of aging?&nbsp;&nbsp;NBC NewsHelen L. Bernie, DO, MPH, on counseling patients through TRT and prostate cancer uncertainty&nbsp;&nbsp;Urology TimesTrump Easing Testosterone Restrictions Sparks Health Warnings Over Radical Plan To Pump Up Men's Declining Hormone Levels&nbsp;&nbsp;International Business Times UKGovernment Moves to Ease Testosterone Therapy Warnings&nbsp;&nbsp;communityvoiceks.com",
+      "summary": "Is testosterone replacement a fix for the blahs of aging?&nbsp;&nbsp;NBC NewsHelen L. Bernie, DO, MPH, on counseling patients through TRT and prostate cancer uncertainty&nbsp;&nbsp;Urology TimesTestosterone Therapy Comes With Major Warning Labels, and the FDA Wants That to Change&nbsp;&nbsp;Discover MagazineTrump Easing Testosterone Restrictions Sparks Health Warnings Over Radical Plan To Pump Up Men's Declining Hormone Levels&nbsp;&nbsp;International Business Times UKGovernment Moves to Ease Te",
       "sources": [
         {
           "name": "NBC News",
@@ -150,14 +282,14 @@
       ]
     },
     {
-      "id": "10199e2d3e3d",
-      "title": "These Medicare beneficiaries thought their drug plan was free. Then they lost it - NPR",
-      "published": "2026-07-06T09:00:00+00:00",
-      "summary": "These Medicare beneficiaries thought their drug plan was free. Then they lost it&nbsp;&nbsp;NPR",
+      "id": "e2fff5e99ea6",
+      "title": "A New Study Says There's More to Eating Fruits and Vegetables Than Counting Servings - Food & Wine",
+      "published": "2026-07-06T08:03:00+00:00",
+      "summary": "A New Study Says There's More to Eating Fruits and Vegetables Than Counting Servings&nbsp;&nbsp;Food & WineEven If You Eat Enough Veggies, You’re Probably Missing This Brain-Protecting Nutrient&nbsp;&nbsp;inc.comHealth Benefits Of Green Tea&nbsp;&nbsp;NDTVCommon drink cuts cholesterol and you should have four cups a day&nbsp;&nbsp;The MirrorGreen tea beats most fruits for this heart-healthy ingredient&nbsp;&nbsp;rrdailyherald.com",
       "sources": [
         {
-          "name": "NPR",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONnI3akttbjlZXzFkR1RTckdRejZ2YjJ5Sl9oLUVwcmE5dThEaU5Eb0tobVZYMld1dlVKTEpTcFpqRkR0cGJHdDJfbUVUMGdOZTVyME5TQXUySVFzeTZVX29fUzhxS29BOXYxRGhwMHhjQzJMamRoWlpjaG41UXdnLVlPVTJLemRKSXlRRUhvVzU5NE9X?oc=5"
+          "name": "Food & Wine",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYktLX1dHM2syQkV0THZtbTlLRlB1UmxYWU5xN0JNdzl6eThXSzhvX1BvSldzQnVpTnBBWTdsVHM3bl9FY0pfUGloNUtlYi0xNUd0T3V4MC1aTEZYR1dZRDZJWllMTFJoZEQ4QWlZcnIwcldvNkVzYWVzWFpqNkl3bElwRWNDc0FlbmRKbEVObGg5OW1FT2stYlhBRnlkdnJZdkRtVndkamRvTUFs?oc=5"
         }
       ]
     },
@@ -174,22 +306,10 @@
       ]
     },
     {
-      "id": "4ee03863f79a",
-      "title": "‘Our body’s priority is to survive’: How toxic relationships are affecting your physical health - The Independent",
-      "published": "2026-07-06T07:11:00+00:00",
-      "summary": "‘Our body’s priority is to survive’: How toxic relationships are affecting your physical health&nbsp;&nbsp;The Independent",
-      "sources": [
-        {
-          "name": "The Independent",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR0dXZ0Z1NFdTaUVadVpRZ3dnWWlYQnk4OEFRUmRJZHJOZHFXcXJnQV81eVVkOVdsZGZmVmF3R05YYWZ6U0doT25aMk5hdTZFOG1Zck9NMWY2aXRudEtjaE1pU1FlOU5PcWNKUWJyYTljU3lLT1NTN2FjV2VhTWlSYXcweGZlRkdTWFg3aEljTVJsUlp3d3diWDRKZlIwbk5XQmxENFNHNEVzdjBZSm9GM0dMQU1rOEU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "96301fe226f5",
       "title": "Six signs you’re in the chronic stress danger zone, without realising it - The Telegraph",
       "published": "2026-07-06T06:00:00+00:00",
-      "summary": "Six signs you’re in the chronic stress danger zone, without realising it&nbsp;&nbsp;The TelegraphExpert Awareness: The Impact of Modern Stress on Your Brain&nbsp;&nbsp;The Tribune",
+      "summary": "Six signs you’re in the chronic stress danger zone, without realising it&nbsp;&nbsp;The TelegraphExpert Awareness: The Impact of Modern Stress on Your Brain&nbsp;&nbsp;indiagazette.com",
       "sources": [
         {
           "name": "The Telegraph",
@@ -210,18 +330,6 @@
       ]
     },
     {
-      "id": "aa2ca180f52f",
-      "title": "Turning Off One Protein Made Mice Immune to Obesity. Scientists Just Tested It on Human Cells - ScienceAlert",
-      "published": "2026-07-06T05:00:09+00:00",
-      "summary": "Turning Off One Protein Made Mice Immune to Obesity. Scientists Just Tested It on Human Cells&nbsp;&nbsp;ScienceAlertScientists discover a protein switch that burns fat and blocks new fat cells&nbsp;&nbsp;ScienceDailyProtein discovery could help burn fat without losing muscle&nbsp;&nbsp;NewsNationScientists discover ‘fat metabolism switch’ in human cells for first time&nbsp;&nbsp;JangScientists may have found what controls whether your body stores or burns fat&nbsp;&nbsp;MSN",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdjI0ZGN0SktJa0FodXlQakxycV9rbzN5aHVabVBLcFdHZk1RMGtwWlFaZnZ0dGVVNHhuNDVvOU9uVjZaOWNLb2RCZG9uaGFpV1NmZE9vVXgtS1hpaFN4dHlLb2dlbks1bUtKbUF2ZDE3aEFXNG5EdUhGUVBfZ1dpcTJLeWZuZy1OTGpaTjF4N2tRc18wd0RIdDJSdnVvdW5Y?oc=5"
-        }
-      ]
-    },
-    {
       "id": "bd83cde8da62",
       "title": "Ebola outbreak containment hampered by USAID closure, experts say - CNBC",
       "published": "2026-07-06T05:00:01+00:00",
@@ -234,18 +342,6 @@
       ]
     },
     {
-      "id": "fde6bca73d0b",
-      "title": "5 simple habits for heart that can actually protect your arteries and prevent plaque build up - The Times of India",
-      "published": "2026-07-06T04:44:00+00:00",
-      "summary": "5 simple habits for heart that can actually protect your arteries and prevent plaque build up&nbsp;&nbsp;The Times of IndiaEveryday Habits Key to Heart Health, Not Just Supplements&nbsp;&nbsp;India News NetworkIs your heart healthy? How to protect it at every age&nbsp;&nbsp;The TimesFrom juice cleanses and supplements to wearable gadgets: Cardiologist explains which wellness trends benefit your heart&nbsp;&nbsp;Hindustan TimesSpecialist Dietitian Outlines Why Heart Health Matters At Every Age&nb",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbVZaR1dvWjE3TzU5ZGZCYU4wajUtbGdnSnYwVFZRUE1nVFpqZGVmZVI5ZkFwQXNQX25wSjBQZFA3YV9FWEdxUVQ0ZHdnS1l1YkZaLUJLYnNwdDRvaktCanBQRV9SWTUtR1oyTUdoamF3ZTJtOVFNWTVkTVM1NjJYSFlCcld1cWdlRUN4UU03TWFfeko3ZFlRcXRzUElmdnFQTk5PTkpFY0FHSFBDUTlqanlhRDlCNG4yV3VmTU5NR2VhSjI1SDlqVWd4dmZTS25HZ2lYUV9ZakhWXzdzQU4tLUVCVmpvYm1HQ2xOamkwMDhVVjZIMkNxN1NQcTJVd2c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "946d45b8e77b",
       "title": "Harvard gastroenterologist reveals 7 silent symptoms of pancreatic cancer everyone should know - The Times of India",
       "published": "2026-07-06T04:40:00+00:00",
@@ -254,18 +350,6 @@
         {
           "name": "The Times of India",
           "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQXzRUT05CMW50VHBWWktCcEpEU0V6aXZjVWxMbUktVnNOMk5iM19xLVNIVHlSdWotUVZqdmJUSkVJWWdKbEhaQXpSZExNTlJ5VXk4RUlBWWxYT1JQd2V5b01mR1JnaWZ1QWo0LUZTOFJDY0hkRGJtMjVWTDZ2d29sM2p2UjdmVW1vLTQtOHQ0UWZ2eHg2YTUwVU1OUk1LODNCeWRsZEhWOGxiMmd3d2tiMF83NkZJc1F3Vjl2MFRnVUFoNlNDUmwtVlNtRHBxbE5vQ2o3VDFlSHF6Rklua1Bjd1FKSDh6aEFad180ejIxTmtVVk1a?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e7e2d833c117",
-      "title": "NYC health officials warn Central Park visitors after Legionnaires’ outbreak grows on Upper East Side - Fox News",
-      "published": "2026-07-06T01:19:21+00:00",
-      "summary": "NYC health officials warn Central Park visitors after Legionnaires’ outbreak grows on Upper East Side&nbsp;&nbsp;Fox NewsOver two dozen sickened in growing cluster of Le­gion­naires' disease on Upper East Side&nbsp;&nbsp;Spectrum News NY1Is Legionnaires' disease fatal? What to know as NYC reports outbreak&nbsp;&nbsp;USA TodayUpper East Side Legionnaires' cases now at 14, NYC health department says&nbsp;&nbsp;ABC7 New YorkUpper East Side Legionnaires’ cases rise to 14&nbsp;&nbsp;amNewYork",
-      "sources": [
-        {
-          "name": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTHNCaFRyNWI1T1NObXRQZ0o2VUIwVzlpZXpLOVJNWFREMllTYTVVUjc3d3M2UWJOVlZQYWxZcmZKRHYzbXlJZU5kSDVETzVCeWVERmNmTUlvdl9EdFZQWGF5VnhmV1BzcmtLazhuWTMwWFFxUEdHYmpqWlY4a0d4bGNEcGZYQzlJS0gwTzFjZTFrZVpzQi1yY2E0anlndE8zSTR2Wnc5dlMtbDhWdUJfQXFCVVkyRVliWFHSAb8BQVVfeXFMTVNkZkRwTl9FMmRmbmYyRy1pOXZmZGVMbWRmZWI4cG1ZclNwTkRFeUg1Rm45TE9xcFlQZ0ViRDJHYXB4dDRtVXJ5NDlvcGhLaFBwN2tfdko5emF6YUV3c0ZpOHNMT0VLNWh0ZENuWTdlZjRnS1N0VFRySTdJNEU1dTlHdUVKdTJtM05kS1VzNVhmV0tyZWRfMHZEN2Izc2lPallXRmJHUEJHMmVFaEFfNk1iU0VqNkJsa2NyVzExeDQ?oc=5"
         }
       ]
     },
@@ -294,6 +378,30 @@
       ]
     },
     {
+      "id": "cc16a36d3c31",
+      "title": "An island of calm at the violent heart of the galaxy - Phys.org",
+      "published": "2026-07-05T21:30:01+00:00",
+      "summary": "An island of calm at the violent heart of the galaxy&nbsp;&nbsp;Phys.org",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlVXQwME43Zmtzc0lPeFE0WkhtYkRlLWNtSlFaenNjUk9ETV9rZ2F3QVZMYlZId1NMdzRUanNGM1NmTXBwR05Pbi1aeE4tOU95RUtsaHZKRHQxVjFma2RTbWJQLXdsMDdFU1hscktGNGVaUVVyZXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d4579c77b4b6",
+      "title": "Nearby \"Super Earth\" Could Host Life After All - Universe Today",
+      "published": "2026-07-05T20:19:00+00:00",
+      "summary": "Nearby \"Super Earth\" Could Host Life After All&nbsp;&nbsp;Universe TodayAstronomers discover a potentially habitable planet just 25 light-years away. 'This one is exciting'&nbsp;&nbsp;SpaceUC Irvine astronomers discover a new Earth-like exoplanet&nbsp;&nbsp;UC Irvine NewsScientists discover an Earth-like planet right next door&nbsp;&nbsp;YahooAlien life on nearby 'super Earth' much likelier than we thought, study claims&nbsp;&nbsp;Live Science",
+      "sources": [
+        {
+          "name": "Universe Today",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVU9oS284QXJUVmp0TGY1enA2QXBTMnlVWlZ3UXVKc1J0cUhtMWtNQm9ySkZNSVlGM1hCQ0EwVXk5SVcxMWJmQ1ZtRTU2QTN0dnQxczI2XzVaR2tFTGxhOXpSWGtxY0lfamhJWHhlbTg2cWxyR1RJUjBNOTVmUk5haC1PQmFVOVhpUTVN?oc=5"
+        }
+      ]
+    },
+    {
       "id": "511ebeded942",
       "title": "Seeing Bacteria, Nanoprisms, And More With An Atomic Force Microscope - Hackaday",
       "published": "2026-07-05T20:00:00+00:00",
@@ -309,7 +417,7 @@
       "id": "df8088bdffa7",
       "title": "Scientists discover an infuriating thing ovaries may start doing after menopause: study - New York Post",
       "published": "2026-07-05T19:35:00+00:00",
-      "summary": "Scientists discover an infuriating thing ovaries may start doing after menopause: study&nbsp;&nbsp;New York PostOvaries may take on job in immune system after their tenure as reproductive organs&nbsp;&nbsp;Medical XpressOvaries Appear to Develop an Incredible Second Role After Menopause&nbsp;&nbsp;ScienceAlertYour Ovaries Start Aging Before Menopause — It Affects More Than Fertility&nbsp;&nbsp;MindBodyGreenWhat do ovaries do after menopause? New US study says they make a career shift&nbsp;&nbsp;",
+      "summary": "Scientists discover an infuriating thing ovaries may start doing after menopause: study&nbsp;&nbsp;New York PostOvaries may take on job in immune system after their tenure as reproductive organs&nbsp;&nbsp;Medical XpressOvaries Appear to Develop an Incredible Second Role After Menopause&nbsp;&nbsp;ScienceAlertYour Ovaries Start Aging Before Menopause — It Affects More Than Fertility&nbsp;&nbsp;MindBodyGreenDo ovaries take on a new immunity role after menopause?&nbsp;&nbsp;India Today",
       "sources": [
         {
           "name": "New York Post",
@@ -318,22 +426,10 @@
       ]
     },
     {
-      "id": "8131bd941e98",
-      "title": "Reported cases of cyclosporiasis rise to 572 in Michigan - WILX",
-      "published": "2026-07-05T18:09:00+00:00",
-      "summary": "Reported cases of cyclosporiasis rise to 572 in Michigan&nbsp;&nbsp;WILXClusters of Severe Stomach Illness Reported Across the U.S.&nbsp;&nbsp;The New York TimesMichigan health official breaks down scope of fast-moving cyclosporiasis outbreak&nbsp;&nbsp;ClickOnDetroit | WDIV Local 4‘Explosive’ diarrhea illness reported across US. See map of affected states&nbsp;&nbsp;USA TodayCyclospora parasite cases surge in Michigan, with reports in other states including Wisconsin&nbsp;&nbsp;WBAY",
-      "sources": [
-        {
-          "name": "WILX",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVFQxdG83djhYTFBvT3lUYzlrUlpJWl9FQ3FpUU1sM3ZkVnI3ZnJDWEk2aVQ0cUR0cW13N0pzTnRXY19tcHc4bGs0SEItY1dQZkhhYWo1dGw2RUJ4TEc5b0d0emowNEg1N3FubDQ0VDRMcjE5eTJRTkp6ckpFX3otMkJJRVY3N2PSAZsBQVVfeXFMUEZGNkNFc2RBb20xZ3ZIYnZ5ZXRDYUVxVVRhZm1SN3p2NFVkaFIxbEZBMXVBNEJ4a3dTSmk1bDduRUhFRkF5eS1yYUhsV19yT1JJVG1TUHBjLW9XSlhjYVpuaFl4S1M5M0pCVi1sMXNmdTVKS3AtMWM3S0ZySWczVTVfelRmSlF5Zm1wdDBLeGxkU19lZTNTLTBDS0E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c7a393c97ca5",
       "title": "Study at Georgia university finds new health benefits from common flower - WSB-TV",
       "published": "2026-07-05T18:01:56+00:00",
-      "summary": "Study at Georgia university finds new health benefits from common flower&nbsp;&nbsp;WSB-TVUGA study finds marigolds could become a new plant protein&nbsp;&nbsp;Online AthensMarigold Petals May Contain as Much Protein as Some Grains, Plus the Amino Acid Behind Umami&nbsp;&nbsp;Discover MagazineThe next trendy dietary superfood could already be in your garden&nbsp;&nbsp;YahooCommon garden flower could become the next plant-based protein&nbsp;&nbsp;Earth.com",
+      "summary": "Study at Georgia university finds new health benefits from common flower&nbsp;&nbsp;WSB-TVCould marigolds become a new plant-based protein? UGA researchers see promise in edible flowers&nbsp;&nbsp;CBS NewsMarigold Petals May Contain as Much Protein as Some Grains, Plus the Amino Acid Behind Umami&nbsp;&nbsp;Discover MagazineThe next trendy dietary superfood could already be in your garden&nbsp;&nbsp;YahooCommon garden flower could become the next plant-based protein&nbsp;&nbsp;Earth.com",
       "sources": [
         {
           "name": "WSB-TV",
@@ -354,22 +450,10 @@
       ]
     },
     {
-      "id": "f91f5311af5a",
-      "title": "Vitamin D deficiency 6 'leg and skin' signs - including 'symptom sitting in chair' - RSVP Live",
-      "published": "2026-07-05T16:03:42+00:00",
-      "summary": "Vitamin D deficiency 6 'leg and skin' signs - including 'symptom sitting in chair'&nbsp;&nbsp;RSVP LiveVitamin D isn't really a vitamin: Here’s why&nbsp;&nbsp;Dayton Daily NewsHow Much Sunlight Do You Need for Healthy Vitamin D Levels?&nbsp;&nbsp;Verywell HealthLow Vitamin D Persists Year-Round in Northern Britain&nbsp;&nbsp;ConexiantI Live in Portland and My Vitamin D Levels Are a Disaster—Here’s the Fix&nbsp;&nbsp;Camille Styles",
-      "sources": [
-        {
-          "name": "RSVP Live",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6bWtLLVZRby0wdGhENE9taUdHQWFQakF6S3NHbFhEUm12N19xXzhpa0I2d0ttUXBWQk54OElLdm1OZmNSMDRoWXNUclhhLVRHSkJMSFZwRDd0ODVxaDF5YzBxZkJqcmxzRmNSVHItWi1RWW9XTGlmZ2RQTdIBgAFBVV95cUxOYUxVcXFmWWY3b0VaNHV0eDdkMEJIdXBqWWdkbEd4ZEpNNDdBYzBLc19KSm5Qa09vcVNhWHo4SFJSN3licU5FRmlrdmZWUnc1YjVBZ0Q5dVdNZV9VbHhzam53R1dkZ19uY0V1dTR3Q3FSVzNIODVuQVlscXM1bFBrRA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1de109ed0d6f",
       "title": "We Asked a Pharmacist Why Magnesium Can Make You Feel Tired - Verywell Health",
       "published": "2026-07-05T16:00:00+00:00",
-      "summary": "We Asked a Pharmacist Why Magnesium Can Make You Feel Tired&nbsp;&nbsp;Verywell HealthI Took Magnesium for 30 Days to Help Improve My Sleep—Here’s What Happened&nbsp;&nbsp;EatingWell",
+      "summary": "We Asked a Pharmacist Why Magnesium Can Make You Feel Tired&nbsp;&nbsp;Verywell HealthI Took Magnesium for 30 Days to Help Improve My Sleep—Here’s What Happened&nbsp;&nbsp;EatingWellMagnesium may help sleep in specific cases, but the timing and expectations matter more than the bedtime shortcut itself&nbsp;&nbsp;OkDiarioWe Asked Sleep Specialists the Supplement They Actually Recommend for a Better Night’s Sleep&nbsp;&nbsp;AOL.com",
       "sources": [
         {
           "name": "Verywell Health",
@@ -393,23 +477,11 @@
       "id": "9c3cb1ebc6ef",
       "title": "Huge Survey Finds the Truth About What mRNA Vaccines Do to the Human Body - Futurism",
       "published": "2026-07-05T15:02:00+00:00",
-      "summary": "Huge Survey Finds the Truth About What mRNA Vaccines Do to the Human Body&nbsp;&nbsp;FuturismBillions of doses later: Global review confirms mRNA vaccines are safe, effective and full of promise&nbsp;&nbsp;UBC NewsBillions of mRNA vaccine doses’ review underpins their effectiveness&nbsp;&nbsp;EuronewsWhat came after Covid could reshape medicine&nbsp;&nbsp;Courthouse NewsmRNA vaccines safe and effective, confirms Lancet review&nbsp;&nbsp;Gavi, the Vaccine Alliance",
+      "summary": "Huge Survey Finds the Truth About What mRNA Vaccines Do to the Human Body&nbsp;&nbsp;FuturismBillions of doses later: Global review confirms mRNA vaccines are safe, effective and full of promise&nbsp;&nbsp;UBC NewsBillions of mRNA vaccine doses’ review underpins their effectiveness&nbsp;&nbsp;Euronews.comWhat came after Covid could reshape medicine&nbsp;&nbsp;Courthouse NewsmRNA vaccines safe and effective, confirms Lancet review&nbsp;&nbsp;Gavi, the Vaccine Alliance",
       "sources": [
         {
           "name": "Futurism",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MQ0RsdUQxWVdRUFcwdHVwQWkzV05ycFNxT1lRUkhnUGxpRWhRaE5BRUltaXRvbFJ3S0toUWdDaDBwZkp0OXhMX1JVWHg3VEd6NzhxVnpxVmNKQWZRM0oyOFlKQ1ZJa25M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "83efb795f3ff",
-      "title": "Is it normal forgetfulness or Alzheimer's disease? Doctor reveals the warning signs you should never ignore - The Times of India",
-      "published": "2026-07-05T14:59:11+00:00",
-      "summary": "Is it normal forgetfulness or Alzheimer's disease? Doctor reveals the warning signs you should never ignore&nbsp;&nbsp;The Times of India4 early warning signs of dementia that no one should ignore&nbsp;&nbsp;Irish MirrorFour early dementia warning signs that can appear before memory loss&nbsp;&nbsp;North Wales LiveEarly signs of dementia: 4 warning symptoms that may appear before memory loss&nbsp;&nbsp;The Mirror",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQlBMLU5vWjlVTjhTNkZOUnprc1FUdzdneFdmVU9rUlNYRnZLRjR0RmV6TVhQSXZ2Uzh6WTl6QVdVX3BZeHBlcGlpWWFfcHNpMlhtSTVzOWJNWVhXTUlUN2t3X3h2dVBKcU9YZktCSjZ2MnBpVFdNaHlsb1lmSkhuWHlzc2R6QkNXSjU4Q1R4TGJkMGpMaW5nd1JmNEdRNF9IaVBqaTc5dExTWUpadzBEZVBUOG4yZjRMN3dUQlg0b01CRmd4cUNhRGF0UUhhQzVrNmVWZ00zcHBNYnZDelVMb0RyZW1vRUI0U2hLMTIwZ2ZRRmt3RzdQTkhWbmdJamhIRkpV?oc=5"
         }
       ]
     },
@@ -441,7 +513,7 @@
       "id": "9ad33b27d6cd",
       "title": "It’s brain-eating amoeba season. Here’s how to protect yourself - WFRV Local 5",
       "published": "2026-07-05T14:00:00+00:00",
-      "summary": "It’s brain-eating amoeba season. Here’s how to protect yourself&nbsp;&nbsp;WFRV Local 5Is that swimming hole safe? How to dodge amoebas and other nasties&nbsp;&nbsp;The Waco Bridge",
+      "summary": "It’s brain-eating amoeba season. Here’s how to protect yourself&nbsp;&nbsp;WFRV Local 5Is that swimming hole safe? How to dodge amoebas and other nasties&nbsp;&nbsp;The Waco BridgeDeadly Brain-Eating Amoeba Season Returns To New York&nbsp;&nbsp;Hudson Valley Post",
       "sources": [
         {
           "name": "WFRV Local 5",
@@ -450,10 +522,22 @@
       ]
     },
     {
+      "id": "9e8cec77f09f",
+      "title": "Residents in Congo cling to hope as Ebola treatment trial begins - Politico",
+      "published": "2026-07-05T13:55:00+00:00",
+      "summary": "Residents in Congo cling to hope as Ebola treatment trial begins&nbsp;&nbsp;PoliticoPatient enrolment begins in a scientific trial to identify the first effective treatments for Bundibugyo virus disease&nbsp;&nbsp;World Health Organization (WHO)Residents in eastern Congo cling to hope as a new Ebola treatment trial begins&nbsp;&nbsp;AP NewsEbola treatment trial begins in Congo as outbreak continues to grow&nbsp;&nbsp;ABC News & Headlines – Australian Broadcasting CorporationTrial for Bundibugyo ",
+      "sources": [
+        {
+          "name": "Politico",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa21yWFVqazl2NG1kOUZHdGt3dkhxUUVCUnNDZmNPaWJ1eFlfV3FPRWdCYUFORlFoSmQ2V2IxaG1LREVhbjV1QlNONUxkOFNJMHdtUFo1UmUwcXlCd1R1NXpQNHdCaXE4Z1BIeHBsUnFnSVBMdVB2Y0pBOEl3SnhUOXQzN3dyQ1hRcUFvTVluMGs1Nm1xOHgxM2dHb0Vvc1JTcWJWaVlVbmU1aWg5Wk04dWNiVXA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "48a8592c536c",
       "title": "The #1 Snack to Eat for Kidney Health - EatingWell",
       "published": "2026-07-05T13:30:00+00:00",
-      "summary": "The #1 Snack to Eat for Kidney Health&nbsp;&nbsp;EatingWellDoctors warn that diabetic kidney damage often has no symptoms: These everyday habits can help lower the risk&nbsp;&nbsp;The Times of India",
+      "summary": "The #1 Snack to Eat for Kidney Health&nbsp;&nbsp;EatingWellDoctors warn that diabetic kidney damage often has no symptoms: These everyday habits can help lower the risk&nbsp;&nbsp;The Times of IndiaDoctor shares lifestyle habits that can protect your kidneys explains why balanced hydration is essential&nbsp;&nbsp;TheHealthSite",
       "sources": [
         {
           "name": "EatingWell",
@@ -489,11 +573,23 @@
       "id": "2ec9f15daa6c",
       "title": "High cholesterol often has no symptoms, says AHA: These 10 guidelines could help protect your heart - The Times of India",
       "published": "2026-07-05T12:30:04+00:00",
-      "summary": "High cholesterol often has no symptoms, says AHA: These 10 guidelines could help protect your heart&nbsp;&nbsp;The Times of IndiaNew cholesterol guidelines stress earlier screening&nbsp;&nbsp;Spectrum News2026 Dyslipidemia Guidelines Redefine Treatment, Monitoring Strategies, With Roger Blumenthal, MD&nbsp;&nbsp;HCPLive",
+      "summary": "High cholesterol often has no symptoms, says AHA: These 10 guidelines could help protect your heart&nbsp;&nbsp;The Times of India2026 Dyslipidemia Guidelines Redefine Treatment, Monitoring Strategies, With Roger Blumenthal, MD&nbsp;&nbsp;HCPLiveNew cholesterol guidelines stress earlier screening&nbsp;&nbsp;Spectrum News",
       "sources": [
         {
           "name": "The Times of India",
           "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSWFvU1BmZ3BHVGNRZUllZkp3NVU3ZDJMVkJzbmY0U01vd1lHb1lrLWl0cXE1a0JGNHNVTWs0UVFzcnZxczVPRUwyLXhkM2pJWDR3dmxCbHpoOUIwbFlfVWtXcW91VjJGZExiTnJYdkVWRzFTM2t0NWEwR3NLb0RRSnBjY3pqRjFMSXpRSzlHU2xuaFF1Q3JjWE9ZOEt0UnBWN0w1cm1Od1B5RG8wQkYwZS02c2c3M0VpNWJTZWE5WUlVbXhxeDJuSVB5UWJ6SmUtZGMtOUkwNG9Fb0stRFBfU0k4cWkwa1NzZmVfNDByaEVTNGlISGlxaQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a235667fa194",
+      "title": "5 Foods Men Should Eat Every Week for Better Cholesterol - EatingWell",
+      "published": "2026-07-05T12:30:00+00:00",
+      "summary": "5 Foods Men Should Eat Every Week for Better Cholesterol&nbsp;&nbsp;EatingWellEating one food 'twice a week' may help combat high cholesterol and boost heart health, expert says&nbsp;&nbsp;Irish MirrorReducing your fat intake? Doctor warns of common mistake undoing your low-cholesterol diet&nbsp;&nbsp;GB NewsDoctor shares habits that may naturally help lower ‘bad’ cholesterol&nbsp;&nbsp;The Indian ExpressEating one food 'twice a week' cuts high cholesterol and protects heart health&nbsp;&nbsp;Th",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbUxDYzBYcGpXQ2UzZXVZOE9TbFp2TFpuN2FLOHpmS3lWWXJITlRMN0psbHpnX2I3REJXaEhJSUZoVl9Hay14ZGhZV1d2dXctN1pPaG5FR3pCV1ctSzNJZmFuYWNLeTNiUmhQWGtYU09BWjRXRHJWT0lPWTExXzV5TzM1SkhBWmFRMERkQkpfZXAtcnBQ?oc=5"
         }
       ]
     },
@@ -549,7 +645,7 @@
       "id": "6b3c26352987",
       "title": "In 2010, a Brigham Young University psychologist named Julianne Holt-Lunstad analyzed 148 separate studies of 300,000 people to compare the mortality risks of various lifestyle factors — and found that chronic loneliness increases a person's risk of dying e - Silicon Canals",
       "published": "2026-07-05T10:30:42+00:00",
-      "summary": "In 2010, a Brigham Young University psychologist named Julianne Holt-Lunstad analyzed 148 separate studies of 300,000 people to compare the mortality risks of various lifestyle factors — and found that chronic loneliness increases a person's risk of dying e&nbsp;&nbsp;Silicon CanalsHow Relationships Feed Your Brain&nbsp;&nbsp;GOODNET - Gateway to Doing GoodHow Building Social Connections Can Impact Your Health&nbsp;&nbsp;Central Oregon Daily",
+      "summary": "In 2010, a Brigham Young University psychologist named Julianne Holt-Lunstad analyzed 148 separate studies of 300,000 people to compare the mortality risks of various lifestyle factors — and found that chronic loneliness increases a person's risk of dying e&nbsp;&nbsp;Silicon CanalsHow Relationships Feed Your Brain&nbsp;&nbsp;GOODNET - Gateway to Doing GoodWhy quality social connections matter for introverts’ health&nbsp;&nbsp;CT InsiderSocial living linked to longer lifespan in humans and other",
       "sources": [
         {
           "name": "Silicon Canals",
@@ -561,7 +657,7 @@
       "id": "f0f855dc8807",
       "title": "Fish Oil Supplements May Not Help Stave Off Dementia After All - WIRED",
       "published": "2026-07-05T10:00:00+00:00",
-      "summary": "Fish Oil Supplements May Not Help Stave Off Dementia After All&nbsp;&nbsp;WIREDCould We Have Been Wrong About Fish Oil and Brain Health? New Study Raises Major Questions&nbsp;&nbsp;SciTechDailyClinical trial challenges omega-3 claims for cognitive function and Alzheimer’s risk&nbsp;&nbsp;Nutrition InsightIs Fish Brain Food? | News & Stories | DHMC and Clinics&nbsp;&nbsp;dartmouth-hitchcock.orgFish oil supplements no match for Alzheimer's risk, new study finds&nbsp;&nbsp;USA Today",
+      "summary": "Fish Oil Supplements May Not Help Stave Off Dementia After All&nbsp;&nbsp;WIREDCould We Have Been Wrong About Fish Oil and Brain Health? New Study Raises Major Questions&nbsp;&nbsp;SciTechDailyMillions take omega-3 fish oil for brain health but a new study found no benefit&nbsp;&nbsp;ScienceDailyClinical trial challenges omega-3 claims for cognitive function and Alzheimer’s risk&nbsp;&nbsp;Nutrition InsightIs Fish Brain Food? | News & Stories | DHMC and Clinics&nbsp;&nbsp;dartmouth-hitchcock.org",
       "sources": [
         {
           "name": "WIRED",
@@ -597,23 +693,11 @@
       "id": "5f8c5e8aeeab",
       "title": "Scientists discover the deep sleep circuit that builds muscle, burns fat, and boosts the brain - ScienceDaily",
       "published": "2026-07-05T07:39:33+00:00",
-      "summary": "Scientists discover the deep sleep circuit that builds muscle, burns fat, and boosts the brain&nbsp;&nbsp;ScienceDailyYou will never sleep late at night after knowing what happens during deep sleep&nbsp;&nbsp;Moneycontrol.comStudy reveals how deep sleep and growth hormone work together to boost health&nbsp;&nbsp;The Eastleigh VoiceA Brain Circuit May Build Muscle And Boost Cognition As We Sleep&nbsp;&nbsp;HuffPost UKScientists Discover Brain's Deep Sleep Circuit That May Boost Fat Loss And Muscl",
+      "summary": "Scientists discover the deep sleep circuit that builds muscle, burns fat, and boosts the brain&nbsp;&nbsp;ScienceDailyYou will never sleep late at night after knowing what happens during deep sleep&nbsp;&nbsp;Moneycontrol.comWhat Happens To Growth Hormone While You Sleep?&nbsp;&nbsp;RTTNewsStudy reveals how deep sleep and growth hormone work together to boost health&nbsp;&nbsp;The Eastleigh VoiceA Brain Circuit May Build Muscle And Boost Cognition As We Sleep&nbsp;&nbsp;HuffPost UK",
       "sources": [
         {
           "name": "ScienceDaily",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wX21xelM3NDFfelhoZ25IejVYQ2ZCQmg1eVJubGZIQlhzYm44SFpTdlRZOFo0aXV0RzhEUk5WMUFWT2xSQkxRX0JDTkF4ZDhKZ21jdjZaVFNDRkhvUHpibFpSdkhPODJYZXFJUWdjVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2765c251afd7",
-      "title": "Over 40? These Are the Sunscreens Dermatologists Actually Recommend - graziamagazine.com",
-      "published": "2026-07-05T07:34:33+00:00",
-      "summary": "Over 40? These Are the Sunscreens Dermatologists Actually Recommend&nbsp;&nbsp;graziamagazine.comI’ve Tested Hundreds of Sunscreens. This Tinted Moisturizer Is an Essential Part of My Daily Routine.&nbsp;&nbsp;The New York Times5 things to know about sunscreen, according to a skin cancer expert&nbsp;&nbsp;New Scientist8 common sunscreen mistakes upping your risk of deadly melanoma&nbsp;&nbsp;New York PostSunscreen 101: The rules of reapplication, what ‘SPF’ really means and more&nbsp;&nbsp;Vogue",
-      "sources": [
-        {
-          "name": "graziamagazine.com",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb3ZqbFdjYWRpWnFMTzVEWmdhdEdVa3BnUXY3b1Bidkk4ejV0WW1oVWpqSEw1OGVTRkFxaEc4WmRkWFVQUnlGVEktSkVQMHJVQ3FCVjl0c3M3enZ1bnFteThEZDNsQTljdkRfRnlwXy1fZ0hfZmhpYm4tYWhTZnZiRWZWYXV3SVEzWE9FUUVUMUZINWd6b1hubXVmcXIwR1pOYi1mMmRFWUwwZHkySW9WemRB?oc=5"
         }
       ]
     },
@@ -642,30 +726,6 @@
       ]
     },
     {
-      "id": "b725ce3af9d0",
-      "title": "Residents in eastern Congo cling to hope as a new Ebola treatment trial begins - AP News",
-      "published": "2026-07-05T05:11:00+00:00",
-      "summary": "Residents in eastern Congo cling to hope as a new Ebola treatment trial begins&nbsp;&nbsp;AP NewsResidents in Congo cling to hope as Ebola treatment trial begins&nbsp;&nbsp;PoliticoPatient enrolment begins in a scientific trial to identify the first effective treatments for Bundibugyo virus disease&nbsp;&nbsp;World Health Organization (WHO)Ebola treatment trial begins in Congo as outbreak continues to grow&nbsp;&nbsp;ABC News & Headlines – Australian Broadcasting CorporationThe race for an Ebola",
-      "sources": [
-        {
-          "name": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOW4xWVlFc1dzLXBNU0VQQ3VXZ0s0QVpJT2IxRjA5OVpKNW5qbUcwdXZlTnQwYlJ1cnY0cTNNSEJvNXE2bkR3UU5lbldsRmRscF9KZ1RZUWh0Yi1Zd2Z5cFBjZUY0S1VkR19FYUNNeDBTUEh1UENBNGlKWjNzazEyNE9Dd3oyVW9rYmp4ZFEtMFc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "caba98de625b",
-      "title": "Experts are sure UPFs are poisoning us – here is what to remove from your diet now - The Independent",
-      "published": "2026-07-05T05:00:00+00:00",
-      "summary": "Experts are sure UPFs are poisoning us – here is what to remove from your diet now&nbsp;&nbsp;The IndependentThe evidence against “ultra-processed” foods is weaker than you think&nbsp;&nbsp;vox.comDoctor names 1 food linked to worst health outcomes, especially death&nbsp;&nbsp;The MirrorProcessed Foods: Vital or Detrimental? - HERALD EXPRESS | News in Cordillera and Northern Luzon&nbsp;&nbsp;baguioheraldexpressonline.comKathy Kolasa: Improving diet quality is more important than cutting UPFs&nbs",
-      "sources": [
-        {
-          "name": "The Independent",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSlBvS3BzbWFidXM0RW5QeXRwSXRqN2RHYXV6emQxWUVHaExaVVU3azVaZVFOWmJnOUYxLW1WejU0X1BSUWpKVUtvS0cxX3NvUWdwR2hudXRNRUE5VnVuSE5UNF9pRGlQaG42VkNMdHVSWlpsYlBJNzJjemY3UlhMWG5tQUtmM2NKLVdGd1NTNFB0bDNzNHF4OEN0TGpmV1pC?oc=5"
-        }
-      ]
-    },
-    {
       "id": "44d5695973e3",
       "title": "For much of the past century, scientists believed dinosaurs were already in decline when the asteroid struck 66 million years ago — but a 2025 study published in Science found fossils in New Mexico showing they were flourishing in diverse, thriving ecosyste - Space Daily",
       "published": "2026-07-05T01:30:53+00:00",
@@ -690,22 +750,10 @@
       ]
     },
     {
-      "id": "06db8f4eb044",
-      "title": "Planned 1.7 million satellites 'devastating' for astronomy: Study - Phys.org",
-      "published": "2026-07-04T22:20:01+00:00",
-      "summary": "Planned 1.7 million satellites 'devastating' for astronomy: Study&nbsp;&nbsp;Phys.org\"Beyond the limit\": one million satellites and mirrors in space pose grave threat to the night sky&nbsp;&nbsp;ESO.orgScientists say Elon Musk’s orbital data centers could blind Earth’s biggest telescopes&nbsp;&nbsp;Fast CompanyThe growing number of satellites in orbit could soon make telescopes obsolete. 'For astronomy, this would obviously be catastrophic'&nbsp;&nbsp;Space“Basically, It Kills The Telescopes” - ",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdTRwZ2YtUS1zckZ5ZlFOVVBJdnpDUy1hcnNpanRwSVZ1dnJvRUI3YXAyRmd0bG5QaEdKZUJ6Vy1vYW5aNHl3TDgyb1RGcXllemFWWFlzVWdmcjBHNWpKcGJRZmxHNUdXd3NWRExDWnRaM2lTakRXS2Z5Sl9mNEd3Zw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "102b157dfa56",
       "title": "In Anticipation of New Horizons Entering Interstellar Space, Researchers are Developing a Solar Wind Forecasting Method - Universe Today",
       "published": "2026-07-04T22:16:00+00:00",
-      "summary": "In Anticipation of New Horizons Entering Interstellar Space, Researchers are Developing a Solar Wind Forecasting Method&nbsp;&nbsp;Universe Today",
+      "summary": "In Anticipation of New Horizons Entering Interstellar Space, Researchers are Developing a Solar Wind Forecasting Method&nbsp;&nbsp;Universe TodayWhen Will NASA'S New Horizons Leave The Solar System? New Research Might Have The Answer&nbsp;&nbsp;IFLScienceNASA’s New Horizons May Reach One of Space’s Greatest Frontiers Much Sooner Than Expected&nbsp;&nbsp;NewswavNew Horizons Watches the Solar Wind as it Slows Down&nbsp;&nbsp;Universe Today",
       "sources": [
         {
           "name": "Universe Today",
@@ -722,42 +770,6 @@
         {
           "name": "Chron",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbEhXVTJzMUxIT0liOU1xWkRkYmRONDUwZHBYb21jRDR2Y0prRnJJWEtGVGtpVlk2N0ZiQXhUNW9TRHJNdVZKZXFwVnNONFdZMGpMNXdHSGpFc2F5WEdqc1NZcmRKYTNIWGpDQk9rMnFoY2xSaURJWVdYdFQ1WWxnOWNvVTlmWkx5RnFaV3dnOE9tZzhzWkJSSnhlLW1Udk5JTU53?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f354ea96e47a",
-      "title": "Erectile Dysfunction Can Be a Warning Sign of a Serious Heart Issue, Experts Warn - ScienceAlert",
-      "published": "2026-07-04T20:04:32+00:00",
-      "summary": "Erectile Dysfunction Can Be a Warning Sign of a Serious Heart Issue, Experts Warn&nbsp;&nbsp;ScienceAlert",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVnUteEZqTnNtNThrbl8zcFdwSDFIWHc4V1dqUEQ2bGFmMm5BYjRCSExxMjhQRmJFRFRoU1VtaVZ3b19tb3pTZm1paVRrOUdZMFhiclVfU2tsQWZZYmc4NFpCLTlzdXpRYURQV1ZMOV83TnFOM3VZaWFkcmZiUTQ1YmhkdHhCcWN0eFNsY0JIejNpWjdFMng2bFR3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b42d57bf71ac",
-      "title": "Stanley M. Gartler, Pioneer in Cancer Research, Dies at 102 - The New York Times",
-      "published": "2026-07-04T19:31:22+00:00",
-      "summary": "Stanley M. Gartler, Pioneer in Cancer Research, Dies at 102&nbsp;&nbsp;The New York Times",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NN190MlhUMzI1OTZyQ3RfNjB2Rjd3YjFPRFk4SUx0QmJPbEdtUGQtS3p3VVhVZk5xUnhJQmhtaU5tNEdIT0g4UEszVTJ4bUlOdHhtTHBzOEtPbGczdy1nOUJkT0NrNzNGUTE2UHQ0eHBkMlA5dDdUdmRn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5ff410ce3bd7",
-      "title": "3 \"Bad\" Snacks That Actually Support Heart Health - EatingWell",
-      "published": "2026-07-04T17:00:00+00:00",
-      "summary": "3 \"Bad\" Snacks That Actually Support Heart Health&nbsp;&nbsp;EatingWell",
-      "sources": [
-        {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1cDlldDVnVHF5ZzdfVkNLMGtDUng2OHM0Ty1JUEcyb0NZS1dJOHVwMVdDdDJ5YzZBa25STnJFOFY2eHNwT1VKZk1LTkJ0YW9sRU9HdzhvdWw3ODdsRjVUd2VTb0tDOUtiV0ltRU13TTVGNnAtRTN5aHNWbHM?oc=5"
         }
       ]
     }

@@ -1,19 +1,55 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-07-09T03:34:08.600480+00:00",
+  "fetched_at": "2026-07-09T09:44:40.195796+00:00",
   "total_fetched": 110,
-  "unique_count": 109,
+  "unique_count": 110,
   "health_related_count": 55,
   "news": [
     {
       "id": "c177c4ff5d64",
       "title": "Cancer cases worldwide are expected to soar in the coming decades, a report finds. Here’s why. - The Washington Post",
       "published": "2026-07-09T02:43:21+00:00",
-      "summary": "Cancer cases worldwide are expected to soar in the coming decades, a report finds. Here’s why.&nbsp;&nbsp;The Washington PostCancer cases expected to soar worldwide, WHO report finds&nbsp;&nbsp;The GuardianCancer cases worldwide will soar in the coming decades, a report finds. Here’s why.&nbsp;&nbsp;The Detroit NewsCancer cases could nearly double by 2050 without urgent action, WHO warns&nbsp;&nbsp;UN NewsWHO calls for urgent action as new cancer cases are projected to nearly double by 2050&nbsp",
+      "summary": "Cancer cases worldwide are expected to soar in the coming decades, a report finds. Here’s why.&nbsp;&nbsp;The Washington PostCancer cases expected to soar worldwide, WHO report finds&nbsp;&nbsp;The GuardianWHO calls for urgent action as new cancer cases are projected to nearly double by 2050&nbsp;&nbsp;World Health Organization (WHO)Cancer cases could nearly double by 2050 without urgent action, WHO warns&nbsp;&nbsp;UN NewsDoctor warns of ‘cancer tsunami’ as WHO projects sharp rise in cases by 2",
       "sources": [
         {
           "name": "The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZWFqRTdqdjI4b1JhMTV4U2dIY0RWdXhpTE90VVZCZU9MSkd0WjlKM212b2Vnb3k1cmg0N0s2Y2pXY1h5SGp4cDVhSjc1WDlheTMxMFVnUFN2bXl1S0YxZEZmRUVpbVFsYVgxYzkwQWI4aERSaWNpRnFNM3BZbkltY3JISXlZUzlyaWx5VEstREZiQVh3cUVzUmRmX2FKTjdKMmUwUWZDU1RIQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "58368fcf6453",
+      "title": "Norton warns parasitic infection causing 'explosive' diarrhea is on the rise in Kentucky - WLKY",
+      "published": "2026-07-09T02:34:00+00:00",
+      "summary": "Norton warns parasitic infection causing 'explosive' diarrhea is on the rise in Kentucky&nbsp;&nbsp;WLKYWhat to know about cyclospora, the gut-churning parasite causing illness in several states, and how to avoid it&nbsp;&nbsp;CNN'Explosive' diarrhea parasite sickens more than 1,000 in U.S. Should Canadians be concerned? | CBC News&nbsp;&nbsp;CBCHow to Stay Safe From the Severe Stomach Bug That’s Going Around&nbsp;&nbsp;The New York TimesMultistate outbreak of foodborne parasitic illness reaches",
+      "sources": [
+        {
+          "name": "WLKY",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObGRQZVY2R2g3Q2ZkbWJwNWV6NEN4NUJEejAyNmJ1dzNHelFjc29HemJ4RXA1d1BDUVRNMUNEMFU2a01QNHktVHlTTnFuQW5jaEZCM1NSYTFOM29KLTkwaG1YTENCc0FOUmdPaFB3Nk01MjFnSXN3OTM4TkF0cGp5cWo2VlNvOXBON0s5NDNB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "008bec7b04cc",
+      "title": "New York City health officials search for source of Upper East Side Legionnaires' outbreak linked to 36 cases - ABC7 New York",
+      "published": "2026-07-09T02:19:48+00:00",
+      "summary": "New York City health officials search for source of Upper East Side Legionnaires' outbreak linked to 36 cases&nbsp;&nbsp;ABC7 New YorkLegionnaires’ disease outbreak: 28 New Yorkers now sick as city expands public health response to Upper East Side crisis&nbsp;&nbsp;amNewYorkMayor vows disclosure of UES buildings that test positive for Legionella contamination&nbsp;&nbsp;GothamistSevere pneumonia outbreak on Upper East Side expands as NYC probe continues&nbsp;&nbsp;NBC New YorkUpper East Side Leg",
+      "sources": [
+        {
+          "name": "ABC7 New York",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ3lRS0QwMTZiRVAtT1NjckNxc1pHelhaVVRTVzdldDN6cTYzNVVIaGhUUFBWVWZ4R1lnbUR4ZWFtVUluWVdpQ2NndU1fSzZIWjkxV3FSV0I3LVN1RHFWQUZHZnNfVzZNVE5zRG5BQmVDNUtDc0RhLUtYdU9rT0dCM2pSeUNFNmVTbWpUVXpzeGszSTFqVVR5MGRheEV3Y21iV2U0Z3d6bXNCb1ZpV1hsU3Q4MldwNk56M1hSdUFuV2VYNWZiSGVSbkhIeFTSAdIBQVVfeXFMUFNISk53c2J3Uzh1Szh6eThHTXpiUXNMUXVfU2d4WHlnUlUxQ1UxSmlnS1dvOE1EMlhKQUl6Z2taWTE5N05TaUxkUWhJTnlhckFwSTlEUUlFMm82Uzg0V3RyYmRETHdxUnU0OXg2dFpXUi13VjJFRjJPdEFiak9fUkhZSHhNbXZVVFJsT2I4WnlMZG9zN0E5QlhfTkd5NWpkTVdQaUtrV1BLUkxrRGRISjZmWWVtZ3ltZl9ZUlFNd2NCWGlkWkVPVXZmMFZ2cmtSR1VR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7fa8e9395bf0",
+      "title": "Octopus Brains Defy a Long-Held Rule About Why Animals Evolve Intelligence - ScienceAlert",
+      "published": "2026-07-09T01:17:18+00:00",
+      "summary": "Octopus Brains Defy a Long-Held Rule About Why Animals Evolve Intelligence&nbsp;&nbsp;ScienceAlert",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSERPZDBUbFAtbG1hMjlfQlJUem50alBxQXRVTUV1blpEQ3c0TTVHdENVT3BsWGdEVlJEQllTaDU3M2VyRWtHbVNoVklZTG83QkhCeVRmZWJJYmh0NU9peDJ0VHduU0tPNUNzZDNpcHJubVp4QzF2NGxfenByX0JyNGlmY3VaekFlRGdxSl8welVyM2R0Rnk4c2dXM0hwV2NC?oc=5"
         }
       ]
     },
@@ -30,26 +66,38 @@
       ]
     },
     {
-      "id": "58368fcf6453",
-      "title": "Norton warns parasitic infection causing 'explosive' diarrhea is on the rise in Kentucky - WLKY",
-      "published": "2026-07-08T23:14:00+00:00",
-      "summary": "Norton warns parasitic infection causing 'explosive' diarrhea is on the rise in Kentucky&nbsp;&nbsp;WLKYWhat to know about cyclospora, the gut-churning parasite causing illness in several states, and how to avoid it&nbsp;&nbsp;CNN‘Explosive’ diarrhea-causing parasite surging in Midwest, CDC says no risk in Bay Area&nbsp;&nbsp;KRON4How to Stay Safe From the Severe Stomach Bug That’s Going Around&nbsp;&nbsp;The New York TimesCyclosporiasis outbreaks: What to know about the foodborne illness and sy",
+      "id": "1cf6c0ff76f4",
+      "title": "In nearly seventy years of deep-sea exploration, researchers compiled 43,681 submersible dive records — and found that humans have visually observed less than 0.001% of the deep seafloor, an area roughly the size of Rhode Island, according to a Science - Space Daily",
+      "published": "2026-07-08T23:30:03+00:00",
+      "summary": "In nearly seventy years of deep-sea exploration, researchers compiled 43,681 submersible dive records — and found that humans have visually observed less than 0.001% of the deep seafloor, an area roughly the size of Rhode Island, according to a Science&nbsp;&nbsp;Space DailyThe Vessel That Never Sleeps&nbsp;&nbsp;Geo Week NewsLess than 30% of Earth’s ocean floor has been mapped while scientists still have clearer high-resolution data of Mars than most of the seabed covering our own planet&nbsp;&",
       "sources": [
         {
-          "name": "WLKY",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObGRQZVY2R2g3Q2ZkbWJwNWV6NEN4NUJEejAyNmJ1dzNHelFjc29HemJ4RXA1d1BDUVRNMUNEMFU2a01QNHktVHlTTnFuQW5jaEZCM1NSYTFOM29KLTkwaG1YTENCc0FOUmdPaFB3Nk01MjFnSXN3OTM4TkF0cGp5cWo2VlNvOXBON0s5NDNB?oc=5"
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOOW1Dc1MzU3oxdDUzUzJwWmtGTk05OVhZM2l4cjQzZDNBM0ZfSlFJcDQtWTd6VEVxZFlaaUpFam9Bak5BV0xiTEgwMXdXWUNfVmM5WVVwQU50UG9sUU5qV2ZIYUZPSEQ5MGNYTldPTkt0TktFRGlmQWhSeVNmZGg3OFVzUmFSd1ppeEhxLUZ3dDZNblNzbkxaLUl1RVAtMzY0NXRkTXhVWjJHNGpoM0IyRFJMOGY2cExrU1djVnBDWHNaNnhMV0s2bHJPbVhIdnljNkdVMGNla2JOYnZDd29RczVaU2gyU09Zek1zTnRWYVNOYzNFcEp0R0FzVlhTRzEwbkw3UUZEWXFyTUwwck1oOXRHN2VDNHZNd1lwNl9wVlV2RnBXN1VjOWROczRKLTRDMTUtX09pUkE?oc=5"
         }
       ]
     },
     {
-      "id": "9e5570b94378",
-      "title": "Children keep dying in a country that made huge progress on measles - BBC",
-      "published": "2026-07-08T22:03:05+00:00",
-      "summary": "Children keep dying in a country that made huge progress on measles&nbsp;&nbsp;BBCWhy Bangladesh is still failing to protect children from infectious diseases&nbsp;&nbsp;The Daily Star819 more suspected measles cases, one death recorded in 24hrs&nbsp;&nbsp;daily-sun.comBangladesh reports 3 more suspected measles deaths, toll reaches 745&nbsp;&nbsp;United News of BangladeshMeasles outbreak: Death toll 742 as one child dies in 24 hours&nbsp;&nbsp;Dhaka Tribune",
+      "id": "989f0d5944fa",
+      "title": "I'm a Longevity Doctor. Bryan Johnson's Diagnosis Reminds Us That Longevity Isn't About Perfection. - Outside Magazine",
+      "published": "2026-07-08T21:53:25+00:00",
+      "summary": "I'm a Longevity Doctor. Bryan Johnson's Diagnosis Reminds Us That Longevity Isn't About Perfection.&nbsp;&nbsp;Outside MagazineBryan Johnson’s chronic disease is notoriously difficult to diagnose&nbsp;&nbsp;STATHow did Bryan Johnson end up with an autoimmune disease?&nbsp;&nbsp;Northeastern Global NewsBiohacker Bryan Johnson says he has incurable disease: ‘My stomach is eating itself’&nbsp;&nbsp;Global NewsA woman who has autoimmune gastritis, the same condition as Bryan Johnson, shares what it'",
+      "sources": [
+        {
+          "name": "Outside Magazine",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZjA5bzZuR0RLRHptQ1VIR3VDZUNWRmp3R0hlVFNHcF9SeWpiX0E1UkotMEZFZnk0Qnp1ZndpTnljVi1CV2dfSF9Bd2xmZ0xGcFpaZDlURFdXTjFYUDZWQ0RhT3RzVkpQaEVPU2RsNmRrR3BCSUZpNm9Xcjk1MlJrMU5Bc3Iwblk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1a8214402f4e",
+      "title": "MenB vaccine offers men no protection from gonorrhoea, claims major study - BBC",
+      "published": "2026-07-08T21:06:53+00:00",
+      "summary": "MenB vaccine offers men no protection from gonorrhoea, claims major study&nbsp;&nbsp;BBC",
       "sources": [
         {
           "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Vb0Nybjk0aEl5LUZZYzZjY1FsbFRkd2JxcFFQUTJWbG1RUUxWZm92WVhVckw0Y2RBUEhJT19TVDM5c3Rzd3NCVkxJWTVDZnlqdDduUkdqRG5QZw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NNVNWM0hfNXNMeTVvbWloY1plNExyOHRxYk1hUTRvSHQzWHNKc1R0YW14ei13QXB6c3VlZS02WUVvNlQxelBya3ZLQld3aGJKZVJMaElCVjUyQQ?oc=5"
         }
       ]
     },
@@ -62,6 +110,18 @@
         {
           "name": "ScienceAlert",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM0tJWjRtMVVVcGxDcF9YZlF4ZDI2VEdFRWx4WEdJWGpUQTJ0LWxFX0VUZ0ZnOGNobmdLcDZHeElXRHRTVzRCd3Y5Vm9OM3M1RlloWHdzVHFScGF2X0c3M2YzNEdoSTFqcUdKa2xhWFZoVC1UcWRDbnNPWjJhQzZpSm5qbEJkcVJCeFFla0RBdUYwUkh1ZWZCdEQ3X1hFTjd6MzdrUUsyUDVtWFFsY1BYSlVXRHBoNFBZbW5JTw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "edd55eadf365",
+      "title": "Ebola workers strike as CDC head says agency’s response will last months - CIDRAP",
+      "published": "2026-07-08T20:37:18+00:00",
+      "summary": "Ebola workers strike as CDC head says agency’s response will last months&nbsp;&nbsp;CIDRAPEbola deaths in Congo top 500 as health workers threaten to strike&nbsp;&nbsp;AP NewsEbola death toll in Congo reaches 600, as new cases suspected in previously unaffected province&nbsp;&nbsp;The Seattle TimesSome health workers in Congo's Ebola outbreak go on strike over pay issues as deaths near 600&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosCongo says number of confirmed Ebola cases rises",
+      "sources": [
+        {
+          "name": "CIDRAP",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU1Bd1I2bVF5c0dDa0JDZF9fVUZPeU9QYnFPUjBNWGp1cFlWM1k2WHpzLV9OeEN6VHRnMGdPclVWbWtjT0E3eEl1SV92QzVjUmZSNUVRRmRRdWhLM1FEdlJvOVFsa3M1WEVyZ0dhOVNpTG41NXdkU3VHc1h2SndISW9xV213UDV6Snl4TndTODNTX2ZLY1lMSHNPZjk1aEJRY052RGpkT1M?oc=5"
         }
       ]
     },
@@ -81,7 +141,7 @@
       "id": "147b8fcf41ca",
       "title": "Fish Oil Pills May Not Boost Brain Health After All - Newser",
       "published": "2026-07-08T20:15:00+00:00",
-      "summary": "Fish Oil Pills May Not Boost Brain Health After All&nbsp;&nbsp;NewserAre Omega-3 Supplements Actually Good for Your Brain?&nbsp;&nbsp;The New York TimesFish Oil Supplements May Not Help Stave Off Dementia After All&nbsp;&nbsp;WIREDMillions take omega-3 fish oil for brain health but a new study found no benefit&nbsp;&nbsp;ScienceDailyDementia and omega-3 supplements: Do fish oil supplements really help in brain health? New study has stark revelations&nbsp;&nbsp;The Times of India",
+      "summary": "Fish Oil Pills May Not Boost Brain Health After All&nbsp;&nbsp;NewserAre Omega-3 Supplements Actually Good for Your Brain?&nbsp;&nbsp;The New York TimesFish Oil Supplements May Not Help Stave Off Dementia After All&nbsp;&nbsp;WIREDDementia and omega-3 supplements: Do fish oil supplements really help in brain health? New study has stark revelations&nbsp;&nbsp;The Times of IndiaDocosahexaenoic acid supplement does not improve cognitive performance&nbsp;&nbsp;Medical Xpress",
       "sources": [
         {
           "name": "Newser",
@@ -105,7 +165,7 @@
       "id": "f44a83d653b8",
       "title": "New study suggests Earth could escape the sun's fiery demise however humanity's fate remains sealed - FOX Weather",
       "published": "2026-07-08T19:05:00+00:00",
-      "summary": "New study suggests Earth could escape the sun's fiery demise however humanity's fate remains sealed&nbsp;&nbsp;FOX WeatherEarth may survive the sun's death after all, new study suggests&nbsp;&nbsp;SpaceGood News! Turns Out the Earth Will Never Be Swallowed by the Sun&nbsp;&nbsp;WIREDAerosols and hydrocarbons in the atmosphere of a white dwarf planet&nbsp;&nbsp;NatureA Jupiter-sized planet outlived its dying star, and NASA’s Webb has now read its atmosphere — the first ever detected on a world or",
+      "summary": "New study suggests Earth could escape the sun's fiery demise however humanity's fate remains sealed&nbsp;&nbsp;FOX WeatherEarth may survive the sun's death after all, new study suggests&nbsp;&nbsp;SpaceGood News! Turns Out the Earth Will Never Be Swallowed by the Sun&nbsp;&nbsp;WIREDAstronomers scrutinize exoplanet that survived the death of its star&nbsp;&nbsp;ReutersNASA’s Webb Studies How Planet Survived Death of its Star&nbsp;&nbsp;NASA Science (.gov)",
       "sources": [
         {
           "name": "FOX Weather",
@@ -114,10 +174,22 @@
       ]
     },
     {
+      "id": "0fb702022428",
+      "title": "NASA’s Pluto Probe Is Finally Approaching a Major Boundary of Deep Space - Gizmodo",
+      "published": "2026-07-08T18:30:02+00:00",
+      "summary": "NASA’s Pluto Probe Is Finally Approaching a Major Boundary of Deep Space&nbsp;&nbsp;GizmodoNASA’s New Horizons Spacecraft Wakes from Hibernation in Good Health&nbsp;&nbsp;NASA Science (.gov)NASA's New Horizons probe just woke up from hibernation 6 billion miles away beyond Pluto. What's it doing out there?&nbsp;&nbsp;SpaceNew Horizons Watches the Solar Wind as it Slows Down&nbsp;&nbsp;Universe TodayNASA's New Horizons probe awakens after long hibernation near Pluto&nbsp;&nbsp;upi.com",
+      "sources": [
+        {
+          "name": "Gizmodo",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbUJDNDZ5b1p0dXlMU1h6Z1d2NlFjdm4xVkxmWGdnYXBMMEhjdWdZeTljZF9hS0RPZ0ZadHczTUM0aG01YjdwVEtCVTZFaUZJSmNhQ21YVTFfVjRQUU9iY0JQTktHRFhsV045Mlo3S1F0c0tTSmxwWXF3MGUwSjhNV3UybGI4NU14YXFINzBhckdacnU4RGluRHNYMkJrcXo0SDdIeA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "037923db9421",
       "title": "Dimming the Sun Would Help Lower the Risks of El Niño. No, Really - WIRED",
       "published": "2026-07-08T18:00:00+00:00",
-      "summary": "Dimming the Sun Would Help Lower the Risks of El Niño. No, Really&nbsp;&nbsp;WIREDAnother Super El Niño is brewing. Scientists are looking at a controversial solution to squash them&nbsp;&nbsp;CNNCan geoengineering blunt El Niño’s fury?&nbsp;&nbsp;Science NewsSeeding clouds with seawater could prevent a super El Niño&nbsp;&nbsp;New ScientistScientists Say This Climate Hack Could Stop El Niño Before It Starts&nbsp;&nbsp;Gizmodo",
+      "summary": "Dimming the Sun Would Help Lower the Risks of El Niño. No, Really&nbsp;&nbsp;WIREDAnother Super El Niño is brewing. Scientists are looking at a controversial solution to squash them&nbsp;&nbsp;CNNCan geoengineering blunt El Niño’s fury?&nbsp;&nbsp;Science NewsSeeding clouds with seawater could prevent a super El Niño&nbsp;&nbsp;New ScientistCould geoengineering work to tamp down super El Niños?&nbsp;&nbsp;Phys.org",
       "sources": [
         {
           "name": "WIRED",
@@ -129,7 +201,7 @@
       "id": "43f838c765a6",
       "title": "Our Bacteria Are Talking. We’ve Just Begun to Understand What They’re Saying. - The New York Times",
       "published": "2026-07-08T17:07:26+00:00",
-      "summary": "Our Bacteria Are Talking. We’ve Just Begun to Understand What They’re Saying.&nbsp;&nbsp;The New York TimesFrom Reactive to Predictive: What the Gut Microbiome Reveals&nbsp;&nbsp;Mexico Business NewsUniversity of Southampton: Unlocking the links between gut, brain and immune health&nbsp;&nbsp;Russell GroupHarpswell Naturalist: Trust your gut&nbsp;&nbsp;The Harpswell AnchorThese 2 Probiotic Strains Were Linked To Better Mood & Neuroplasticity&nbsp;&nbsp;MindBodyGreen",
+      "summary": "Our Bacteria Are Talking. We’ve Just Begun to Understand What They’re Saying.&nbsp;&nbsp;The New York TimesUniversity of Southampton: Unlocking the links between gut, brain and immune health&nbsp;&nbsp;Russell GroupFrom Reactive to Predictive: What the Gut Microbiome Reveals&nbsp;&nbsp;Mexico Business NewsHarpswell Naturalist: Trust your gut&nbsp;&nbsp;The Harpswell AnchorThese 2 Probiotic Strains Were Linked To Better Mood & Neuroplasticity&nbsp;&nbsp;MindBodyGreen",
       "sources": [
         {
           "name": "The New York Times",
@@ -138,10 +210,22 @@
       ]
     },
     {
+      "id": "5f4c2eb01b03",
+      "title": "Neuropathologist not guilty of research misconduct, says university probe - The Transmitter",
+      "published": "2026-07-08T16:59:59+00:00",
+      "summary": "Neuropathologist not guilty of research misconduct, says university probe&nbsp;&nbsp;The Transmitter",
+      "sources": [
+        {
+          "name": "The Transmitter",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZDhDUUpzT09xWTNoOTRFRkZhYzEzbnF1bS02c0RfSDdONndDNzAweDJudWZ4emo2ZUlzaDQ5ajFucFFsZzV4WWpTZG5PcUxoYUhMRUNLc0xweld5MTdfRXhBWWlUcG5tN3pySnVTd3lWb3VSSkxRbjFiRHFkbEpZQTdCVGtzUXJYLThTV1UyNTNvVFhoMjRYZXJzcE5tSGQwd0dqYkFSZ2FTZTU2R1JsQ2lNWS1fdVJKNFE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "49dd334063a8",
       "title": "Are you getting the right cholesterol test? Millions may not be, study says - USA Today",
       "published": "2026-07-08T16:50:00+00:00",
-      "summary": "Are you getting the right cholesterol test? Millions may not be, study says&nbsp;&nbsp;USA TodayMillions may be getting the wrong cholesterol test&nbsp;&nbsp;ScienceDailyAre You Getting The Wrong Cholesterol Test? Study Says Your Standard Test May Miss Heart Attack Risks&nbsp;&nbsp;NDTVThink your cholesterol is normal? apoB testing may tell a different story&nbsp;&nbsp;The Indian ExpressStudy suggests ApoB blood test may improve heart disease risk assessment&nbsp;&nbsp;سانا",
+      "summary": "Are you getting the right cholesterol test? Millions may not be, study says&nbsp;&nbsp;USA TodayMillions may be getting the wrong cholesterol test&nbsp;&nbsp;ScienceDailyAre You Getting The Wrong Cholesterol Test? Study Says Your Standard Test May Miss Heart Attack Risks&nbsp;&nbsp;NDTVThink your cholesterol is normal? apoB testing may tell a different story&nbsp;&nbsp;The Indian ExpressLongevity expert and founder shares the three important heart numbers nobody talks about&nbsp;&nbsp;The Times ",
       "sources": [
         {
           "name": "USA Today",
@@ -150,22 +234,10 @@
       ]
     },
     {
-      "id": "25b0bd070597",
-      "title": "Upper East Side Legionnaires’ Outbreak Source Remains Unknown - Bloomberg.com",
-      "published": "2026-07-08T16:17:28+00:00",
-      "summary": "Upper East Side Legionnaires’ Outbreak Source Remains Unknown&nbsp;&nbsp;Bloomberg.comNew York City health officials search for source of Upper East Side Legionnaires' outbreak linked to 28 cases&nbsp;&nbsp;ABC7 New YorkOfficials inestigataing Legionnaires’ disease outbreak on Upper East Side&nbsp;&nbsp;FOX 5 New YorkSevere pneumonia outbreak on Upper East Side expands as NYC probe continues&nbsp;&nbsp;NBC New YorkLegionnaires’ disease outbreak: 28 New Yorkers now sick as city expands public hea",
-      "sources": [
-        {
-          "name": "Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdFFMYmcxelBJdlRFRE9fQW1XOTkyNnh5YldjZ0VFYWxfOHpRQW92UzdkUTNxdDRZeklac1RWVE5BZ1VQVFJBYTlHUHZPNXBOVlBvNzN1U19QS2pEYS10Y01LeXlHTGVhTG51cDRJX20wM1NQRmluR0w3dWc5N1c1cGVCeWtwNjhRUGpJeUFXY1hYZHVieDhQZHotTzBram1kdXN4dVlYWGJsaEIwbHpqNw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d7f55aa4735f",
       "title": "Why a gene-editing breakthrough has some experts worried - CNN",
       "published": "2026-07-08T16:15:55+00:00",
-      "summary": "Why a gene-editing breakthrough has some experts worried&nbsp;&nbsp;CNNLandmark study unveils new genetic screen for understanding human development&nbsp;&nbsp;EurekAlert!Closing the gap between discovery and care&nbsp;&nbsp;Healthcare TodayScientists demonstrate precise embryo gene editing, warn on risks&nbsp;&nbsp;Межа. Новини України.Technical milestone or designer baby obsession: Latest gene-editing advance reignites a familiar ethical debate&nbsp;&nbsp;Genetic Literacy Project",
+      "summary": "Why a gene-editing breakthrough has some experts worried&nbsp;&nbsp;CNNThe Guardian view on gene-edited humans: darker uses must be acknowledged alongside medical ones | Editorial&nbsp;&nbsp;The GuardianNew Genetic Screen Advances Understanding of Human Development&nbsp;&nbsp;Bioengineer.orgClosing the gap between discovery and care&nbsp;&nbsp;Healthcare TodayLandmark study unveils new genetic screen for understanding human development&nbsp;&nbsp;EurekAlert!",
       "sources": [
         {
           "name": "CNN",
@@ -174,14 +246,26 @@
       ]
     },
     {
-      "id": "99b406a5a49e",
-      "title": "Bryan Johnson’s chronic disease is notoriously difficult to diagnose - STAT",
-      "published": "2026-07-08T16:13:58+00:00",
-      "summary": "Bryan Johnson’s chronic disease is notoriously difficult to diagnose&nbsp;&nbsp;STATHow did Bryan Johnson end up with an autoimmune disease?&nbsp;&nbsp;Northeastern Global NewsBiohacker Bryan Johnson says he has incurable disease: ‘My stomach is eating itself’&nbsp;&nbsp;Global NewsI'm a Longevity Doctor. Bryan Johnson's Diagnosis Reminds Us That Longevity Isn't About Perfection.&nbsp;&nbsp;Outside MagazineA woman who has autoimmune gastritis, the same condition as Bryan Johnson, shares what it'",
+      "id": "669a5f5ac58c",
+      "title": "Hypoxia rescues complex 1-associated disease caused by proteostatic defects - Nature",
+      "published": "2026-07-08T16:06:25+00:00",
+      "summary": "Hypoxia rescues complex 1-associated disease caused by proteostatic defects&nbsp;&nbsp;Nature",
       "sources": [
         {
-          "name": "STAT",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUlFQRHFkYWdDZkNSelloQ1E1Nm9xM3VkUzhiX1RUMkp4aVVzM1hRSWRfVEhucWFNai1TVFlRNWF2RzNfakc3ZkhoMk1TSGtkZFNoZEhwNjJTOEhXSGt0bDFLYm42LXRPQVVCX0ZwMU1RT0xpWTFienR1aFpGWkdhM0NGbXEtOEpqOVBrWmR0ZEtRNTcyeEE?oc=5"
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLcXpsOHVRT19QWDJnOUc0WXNaR0QzYWQyRzFialFJUnp2UVdabXE1azZKWnhJVjhMWmJkR2pobWYzVnJmWXg2SnR6MUowd1RKRm5CU0h1a0dZTUdiVFRN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f5cb60f88ef2",
+      "title": "We Asked a Doctor Whether Daily Creatine Is Safe Long Term - Verywell Health",
+      "published": "2026-07-08T16:02:42+00:00",
+      "summary": "We Asked a Doctor Whether Daily Creatine Is Safe Long Term&nbsp;&nbsp;Verywell HealthWhat Are the Limitations in Scientific Literature About the Impacts of Creatine on Women?&nbsp;&nbsp;Nutritional OutlookNational Creatine Day: Why One of the Most Researched Supplements Still Deserves the Spotlight&nbsp;&nbsp;BOXROXShould you be taking creatine? Here's what the science says&nbsp;&nbsp;Yahoo Health",
+      "sources": [
+        {
+          "name": "Verywell Health",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oMVZfVGtqeWV3dDRyU2NPV0I5c3RKb3RESUlBdEVTUGhydkkzZVBCenJwOUNiZHkyUkZ1VmpQVjlUejg2N1NCc2h2b2VlakJQNGoydzhiRDU2R2UxdldMVjhxRkhVWENrMGwyTC0xZmppTklBTzRQNA?oc=5"
         }
       ]
     },
@@ -210,14 +294,26 @@
       ]
     },
     {
-      "id": "842678adbc83",
-      "title": "New research suggests brain health can be measurably improved at any age - PsyPost",
-      "published": "2026-07-08T14:14:25+00:00",
-      "summary": "New research suggests brain health can be measurably improved at any age&nbsp;&nbsp;PsyPostThink It's Just Aging? A Neurologist Reveals the Brain Health Warning Signs to Never Ignore&nbsp;&nbsp;Men's JournalAsk an Alzheimer’s Researcher: Key Insights on Slowing Cognitive Decline&nbsp;&nbsp;Yahoo HealthThe 4 Habits a Neurologist Does to Keep His Brain Healthy&nbsp;&nbsp;AOL.comThe Everyday Choices that Support Brain Health&nbsp;&nbsp;AARP",
+      "id": "ab35ce6972a4",
+      "title": "Ancient feeding-related neuropeptides regulate alloparenting in ants - Nature",
+      "published": "2026-07-08T15:22:35+00:00",
+      "summary": "Ancient feeding-related neuropeptides regulate alloparenting in ants&nbsp;&nbsp;NatureAncient Neuropeptides Shape Modern Ant Parental Care&nbsp;&nbsp;the-scientist.comResearchers may have discovered how parenting behavior evolved in ants&nbsp;&nbsp;EurekAlert!Ancient Neuropeptides Control Alloparental Behavior in Ants&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
-          "name": "PsyPost",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZm5yNmxsSk56cDFkWGpUTGo3M3Bkbmo3c25NMzM3Zk1MQVcyR1RRVFJTWEo3aEpaOV9CMlFKZmduV2pJMmxTazJFRGxRcDRYRXZYNF9VQnQ4bXdEb0tXR1B5U0NYZVJCOVQ0NS12ak55UzhwRnZYZ0JaRjlWa0lVY3RHYjVBaUE5NnM1b2pnSFc5SUFPdmpXQ0liR3hIUQ?oc=5"
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43X0x3TGZBM0FSVE5qajFnamhtcnJmT0EzaG5UTi1jNFluTUhWM29Ta0oxbmIzanctaFdqYnNkMFIwRTNJQWxZeE5DbTQzUlppejNMSUlNQmFnTnhEMThz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2a4fe790bf92",
+      "title": "The last American in an iron lung dies at 78 - WFLA",
+      "published": "2026-07-08T14:19:55+00:00",
+      "summary": "The last American in an iron lung dies at 78&nbsp;&nbsp;WFLASee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "WFLA",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRlM1dnZLMEN0Q21EckN3cTBrTmtuMFhlN2pPaG9aYU9xUjlZQ25BT21lY1Btb1UtLXlIZVVHclFrZVFsd3pkczROTDZtQWhEWDh3YThpQnl6UGFvaVdEbmUycERwOVJxTkVXcXJ3dVVhMWF4dVl2UDVoQWt0c21rT3J6RVp6dkXSAYwBQVVfeXFMTUZGVUhEcmVMazUtLU1zNm5QaGpKN1ZkN21KeTJLVU5wdDlLM2g5emwyMmdsUlEzVkFoNGUzZlRHQUxNdzVQRHcySVk2UURCanA2SUhZdHdDbEFUR0dJeFFQaUVaOC1vc09tdFRsUkFoMlJDaWNlVVJUc29lTjlnQ3BjZXdFWnAzTnFGaDM?oc=5"
         }
       ]
     },
@@ -246,6 +342,18 @@
       ]
     },
     {
+      "id": "c87215299ed6",
+      "title": "Smelling chocolate could make your leg day workout easier, even on an empty stomach - Earth.com",
+      "published": "2026-07-08T12:17:34+00:00",
+      "summary": "Smelling chocolate could make your leg day workout easier, even on an empty stomach&nbsp;&nbsp;Earth.comThe smell of dark chocolate could make a leg workout easier, even on an empty stomach&nbsp;&nbsp;Medical XpressThe secret to weight-lifting ... smelling chocolate&nbsp;&nbsp;The TelegraphHow chocolate could be the key to better gym performance&nbsp;&nbsp;The IndependentChocolate can set you up for a better workout … just don’t eat it&nbsp;&nbsp;The Times",
+      "sources": [
+        {
+          "name": "Earth.com",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVGZFTktsTzNDTU4zWGxoLUF4Sm1sb2dlVjN6em4wV3J1LS1XeUwwUjV0bTkzU1AySFpsTjZfUG1scTlSTjZKTDJLaFdjeVdHeHppWWxCUDZKOTVpNWhWTVMyTVFsQTByeGFIcndjRW9DZl94dkNDLVBlVEZ6ZV9KSEFseWtZSlVhOFdqRmdtdWRseDg3RUhEZG5SWjdDQ1phV1BoTTRtQ2FOZ3JwUDdF?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8872f9dcd4a1",
       "title": "The ‘Big Sign’ of Melanoma and Skin Cancer Symptoms a Dermatologist Monitors in Herself - TODAY.com",
       "published": "2026-07-08T12:06:04+00:00",
@@ -261,7 +369,7 @@
       "id": "6e6dd940df5c",
       "title": "Humans And Neanderthals Shared a Culture For 20,000 Years, Cave Discovery Suggests - ScienceAlert",
       "published": "2026-07-08T12:00:40+00:00",
-      "summary": "Humans And Neanderthals Shared a Culture For 20,000 Years, Cave Discovery Suggests&nbsp;&nbsp;ScienceAlertUnlikely cave discovery suggests Neanderthals and humans shared a common culture&nbsp;&nbsp;CNNArtefacts hint at cultural exchange between Neanderthals and humans&nbsp;&nbsp;New ScientistCave finds reveal modern humans and Neanderthals may have shared long-term cultural continuity&nbsp;&nbsp;Phys.orgNeanderthals and modern humans may have shared culture 59,000 years ago in Turkey, study find",
+      "summary": "Humans And Neanderthals Shared a Culture For 20,000 Years, Cave Discovery Suggests&nbsp;&nbsp;ScienceAlertUnlikely cave discovery suggests Neanderthals and humans shared a common culture&nbsp;&nbsp;CNNAncient Turkish Cave Reveals Neanderthals and Homo sapiens Shared Same Way of Life&nbsp;&nbsp;Sci.NewsArtefacts hint at cultural exchange between Neanderthals and humans&nbsp;&nbsp;New ScientistNeanderthals and modern humans may have shared culture 59,000 years ago in Turkey, study finds&nbsp;&nbsp",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -270,14 +378,14 @@
       ]
     },
     {
-      "id": "58193a1b8055",
-      "title": "NASA's New Horizons probe just woke up from hibernation 6 billion miles away beyond Pluto. What's it doing out there? - Space",
-      "published": "2026-07-08T11:45:53+00:00",
-      "summary": "NASA's New Horizons probe just woke up from hibernation 6 billion miles away beyond Pluto. What's it doing out there?&nbsp;&nbsp;SpaceNASA’s New Horizons Spacecraft Wakes from Hibernation in Good Health&nbsp;&nbsp;NASA Science (.gov)NASA's New Horizons probe awakens after long hibernation near Pluto&nbsp;&nbsp;upi.comIn Anticipation of New Horizons Entering Interstellar Space, Researchers are Developing a Solar Wind Forecasting Method&nbsp;&nbsp;Universe TodayNASA’s Pluto Probe Is Finally Approa",
+      "id": "20220af3b942",
+      "title": "West Nile is spreading faster than it has in 20 years. Here’s how to keep yourself safe - Los Angeles Times",
+      "published": "2026-07-08T12:00:00+00:00",
+      "summary": "West Nile is spreading faster than it has in 20 years. Here’s how to keep yourself safe&nbsp;&nbsp;Los Angeles TimesCDC Encourages Americans to Stay Mosquito Bite-Free during America's 250th Independence Day holiday weekend&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)West Nile Virus Activity Climbs in 2026, Primarily Impacting Arizona&nbsp;&nbsp;Drug TopicsWest Nile virus season gets late start in Tulare County&nbsp;&nbsp;Visalia Times-DeltaEarly, intense West Nile season m",
       "sources": [
         {
-          "name": "Space",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQYzV5dmY4dUlfN0xyNmVhRzljYmctUjNlV0R1MFdUTDFDTW5idkktbXg1M0dBSDFwMjIzUklMM2hzeHFPZWs0Mjc0bHExWDVpTjBlNTU0d0lNaE95bE1VU2ltZUxXTHRYeWhjLVR1dFE5VktkRlN0RHFWNXQyTE43bDhxSVAyRnJKN2ZHUGRrYzI3N3JiR04zU1dfMkFBMXpWME0xdUNLMGdkdlhCN3ZFWURTTnVzc1pQY3ZQQVMyaTNJdEtLdGc5RHZyRmZGMTZneG1EaXZWVE8yZVY4ZGU3QjhFc1JmajlzUzU2NDhZUEp6TWR5NEZKcnk0NHBjeU1rbFE?oc=5"
+          "name": "Los Angeles Times",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTmtlMUt2VVBZOUZKbk43LTNvWkU4V2psZ3ZZNEd4bDBIbGlJaWYzMHFHNkpzZWY3aDVaa0VWdVNLWlhsaGhqcU5sczRDTjFiSHNCTFJ2UUZRSTVvY1BQc3lJR2dTZ0VVenR4aFBPNWtWLVpIRVRuSDB6Yk81SWRXazdSQWd3M3VuSnVsbDhHSzVjVlJudTBTd19GYlN1SmVIclJEZTlDZVF4VExMM2ROUTQ0RVF3YTBnUWF3YlA3ZVVkdkhkYTl5TlFpWGNDODJfVVJZ?oc=5"
         }
       ]
     },
@@ -354,42 +462,6 @@
       ]
     },
     {
-      "id": "d6477bf460f3",
-      "title": "As Parents Reject Vitamin K Shots, Some Babies Develop Devastating Bleeding - The New York Times",
-      "published": "2026-07-08T09:00:17+00:00",
-      "summary": "As Parents Reject Vitamin K Shots, Some Babies Develop Devastating Bleeding&nbsp;&nbsp;The New York TimesPress Release: Kim Schrier, Angela Alsobrooks Call for CDC Action on Vitamin K Refusal Rates&nbsp;&nbsp;Quiver QuantitativeReducing Vitamin K Refusals&nbsp;&nbsp;Children's Hospital Association",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVGF2b0pvdGIwTEhrV3FsdWViUmNMMHk1NWlBOTlUM2pqVFVNckY4NTU0NEVyV1ZWX3NSZnBXWjBSSnFCQmdqcXlXaGhKaUY1WGdaZGJ4c0R2eE9oSHpQdzFZQy1UQ3hnemNhYjRSMDYwZHFYQ29iU0V2TXhaQVA4MDVKQ1F4X0Vs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "805afdc5f177",
-      "title": "Some health workers in Congo's Ebola outbreak go on strike over pay issues as deaths near 600 - AP News",
-      "published": "2026-07-08T07:39:00+00:00",
-      "summary": "Some health workers in Congo's Ebola outbreak go on strike over pay issues as deaths near 600&nbsp;&nbsp;AP NewsEbola workers strike as CDC head says agency’s response will last months&nbsp;&nbsp;CIDRAPConfirmed Ebola deaths in DR Congo hit 600&nbsp;&nbsp;Al JazeeraEbola outbreak in Congo still spreading, WHO says&nbsp;&nbsp;ReutersEbola outbreak containment hampered by USAID closure, experts say&nbsp;&nbsp;CNBC",
-      "sources": [
-        {
-          "name": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbUwtS25qTEFrUXgtaF9OSzlsWXRBcFJPZUl6ZV8tU2pKRG10ZDcyNzcwLUhKdXpEQ3g2V3B1N29RMG9lV19YbXkxSzNSOU56a1cwUTd6d3pFeENaREkwdzBaSEZhTDdCMDBRZ0NUWldNSkU0RkdsUlhndFNPV2o2NVd2S0Nmd0FuZ09WWG1Fb2QxUU16eXJhcGJMb2RKVG1FREZZbVQ2TTFub3oy?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d1e4caa1b54b",
-      "title": "Astronomers perplexed by new James Webb Space Telescope photos unveiling secrets of a galaxy 11 million lig... - Yahoo",
-      "published": "2026-07-08T07:15:00+00:00",
-      "summary": "Astronomers perplexed by new James Webb Space Telescope photos unveiling secrets of a galaxy 11 million lig...&nbsp;&nbsp;YahooNASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision&nbsp;&nbsp;NASA Science (.gov)James Webb Space Telescope celebrates its 4th birthday with stunning image of a galaxy crash site&nbsp;&nbsp;SpaceWebb uncovers dust-shrouded heart of Centaurus A after galaxy clash 2 billion years ago&nbsp;&nbsp;Phys.orgGalaxy Mergers Aren't Always Obvious&nbsp;&nbsp;Universe Toda",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYllUOFE2R3RBWGk3ai1CcWNPajNjOXliRE1VU1FYQTh3bDk1QlctLWI1a0Fhb1RHZmk3bVVsVkxBZG1Vb1NEaUJFdlpfbGk1N21Udi04NkNpWHR6em1pSzF5R3RmSExFRmZmakdfaktIaGF1ZVcwcG1MdEVUdll2ODc1ejNEUEVnZVRLUUVRVFBrTkpYay0zcnZEdlk3dw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7243a687fa30",
       "title": "Brain tumors: New vaccine offers patients hope for more time - DW.com",
       "published": "2026-07-08T05:29:53+00:00",
@@ -414,14 +486,14 @@
       ]
     },
     {
-      "id": "2b56b83cc220",
-      "title": "New Jurassic Fossil Reveals How Birds Lost Their Dinosaur Tails - Sci.News",
-      "published": "2026-07-07T22:09:24+00:00",
-      "summary": "New Jurassic Fossil Reveals How Birds Lost Their Dinosaur Tails&nbsp;&nbsp;Sci.NewsTiny Jurassic bird reveals a key step in bird evolution&nbsp;&nbsp;Phys.orgHow Did Birds Evolve Their Tail? New Species Of Dinosaur From China Is Showing Us How&nbsp;&nbsp;IFLScienceScientists discover 149-million-year-old world's smallest long-tailed bird fossil revealing how modern birds evolved&nbsp;&nbsp;The Times of IndiaChinese researchers reveal missing link in evolution of birds' tails&nbsp;&nbsp;TV BRICS",
+      "id": "82bb500f10e9",
+      "title": "Could Creatine Boost More Than Muscles? It May Also Help Depression - SciTechDaily",
+      "published": "2026-07-08T03:26:56+00:00",
+      "summary": "Could Creatine Boost More Than Muscles? It May Also Help Depression&nbsp;&nbsp;SciTechDailyScientists say creatine may help fight depression: Here's what new research reveals&nbsp;&nbsp;TheHealthSiteFrom muscle to mind: how creatine is redefining the science of depression&nbsp;&nbsp;Nursing TimesCan Creatine Help Treat Depression? A New Review Weighs the Evidence&nbsp;&nbsp;Technology NetworksCreatine shows promise for depression, but the evidence is not yet settled&nbsp;&nbsp;Medical Dialogues",
       "sources": [
         {
-          "name": "Sci.News",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrUlJuUkd0ZmRkU3ktakE1d3U0TGFpYkFycjBwOTMxajNsUjAzSWpWTk5pdGFWUG1pQndWbHQ1cWozakQxbUdtcjNfR0ZDU2xMbVRQN0hSNER0NTBRdk8zN1BDakdXTnRZeWpkTmtWNA?oc=5"
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMnl1Umh4aUdSY29Jc3hGU1VERHg5QXU2bk9GX1VkX1BVc1YwaEpqanZzaE5PYnVnVzg5ekpXbDg1aU4yWWJTRlhtaHB2RWpzb0d4Q1dibUltU2VmT2M2Snc5d3lxM3hBMGNscGRUSXZ0QlplV1hXc2ExR01YbmlNU2xLOVM4V29CYndqcVZvYTlGYTBBcWx3?oc=5"
         }
       ]
     },
@@ -441,23 +513,11 @@
       "id": "d15be57942e1",
       "title": "San Diego confirms first locally acquired case of Chagas disease spread by the kissing bug - cbs8.com",
       "published": "2026-07-07T20:07:00+00:00",
-      "summary": "San Diego confirms first locally acquired case of Chagas disease spread by the kissing bug&nbsp;&nbsp;cbs8.comCounty Health Officials Report First Locally Acquired Chagas Case&nbsp;&nbsp;San Diego County News CenterRoutine blood testing reveals county’s first case of locally acquired Chagas disease&nbsp;&nbsp;San Diego Union-TribuneCase of deadly 'kissing bug' found in California -- and sufferers may not even know they have it&nbsp;&nbsp;New York PostSan Diego confirms first local Chagas infecti",
+      "summary": "San Diego confirms first locally acquired case of Chagas disease spread by the kissing bug&nbsp;&nbsp;cbs8.comCounty Health Officials Report First Locally Acquired Chagas Case&nbsp;&nbsp;San Diego County News CenterRoutine blood testing reveals county’s first case of locally acquired Chagas disease&nbsp;&nbsp;San Diego Union-TribuneSan Diego confirms first local Chagas infection. Expert says ‘be smart’&nbsp;&nbsp;SFGATESan Diego reports first locally acquired ‘kissing bug’ disease case&nbsp;&nbs",
       "sources": [
         {
           "name": "cbs8.com",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZUZnTnhJZ0FkX2hPQ0JTMm1zSWQzdTVZVjd2ZjB5eUgza2NMSUk3bkdDN3VqYUo2blZwTXpBRDAwbHpkdExCeXRPNEhBOHpTMW55YTBxckFILWo0M0Z1bjBNVG9TLVZWLVlSQWttcFdkdTBlelNLY2wta3pCRWZqRmtYSS1LemhpSVdyMVFSdzZkQ0d1NDF4TERVNmdYZGVpYldJSDlqb1pGamRmUkRvUkFRWW91TWs3M1U5QndlTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ed56e7874b58",
-      "title": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds - The Guardian",
-      "published": "2026-07-07T19:11:00+00:00",
-      "summary": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds&nbsp;&nbsp;The GuardianCatnip lotion works as well as DEET at repelling mosquitoes, study finds&nbsp;&nbsp;USA TodayCatnip lotion is as effective as DEET at repelling mosquitoes, study says&nbsp;&nbsp;PhillyVoiceDitch DEET: Study Finds An Herbal Lotion Just As Effective For Mosquitos&nbsp;&nbsp;House DigestResearchers develop low-cost catnip mosquito repellent for rural Uganda&nbsp;&nbsp;News-Medical",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeE5QR0NPSjRXQVFWTDB3bVpiY1FLOTNfV1dMeGQxZllGeTJHRllOYXgtam1RSjBBdHJtV3dLYjFsaXJBNG9VSkQ1ZkIyQmttcXNxQWE1VkZ1dEZUY29wM3ZMRDRLejVaQ19qaDRNR0pKdWVLbjBET3loT01jWHdZRVVwcnBzc29NNlM3bXRnWHF0VGVGenFnMng1QmdKRW1nb3c1QTFXdmRfMEptRDJxd1VxSnZIWW5faEFtbHBVZjNlV2c1b1JkMA?oc=5"
         }
       ]
     },
@@ -486,22 +546,10 @@
       ]
     },
     {
-      "id": "7fcc1ab63067",
-      "title": "What to know about the safety of this popular supplement for arthritis - The Washington Post",
-      "published": "2026-07-07T16:00:00+00:00",
-      "summary": "What to know about the safety of this popular supplement for arthritis&nbsp;&nbsp;The Washington PostGlucosamine tied to higher dementia progression, death risk&nbsp;&nbsp;MSNA Common Joint Supplement Is Now Tied to Faster Dementia Progression — Are You at Risk?&nbsp;&nbsp;Money Talks NewsZorba Paster: Supplement for joint health probably not helpful for dementia&nbsp;&nbsp;Kenosha News",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUEF3VVdOLWNBbEpLV0F3SkR3b3NoaHVTOExTamRoaUxIa2JLVWxTSW4zbjZlX2x5MW1xSWZ1OFJhZkpWdXlaSjloSEdXd1UyMXF3WjZtSXZuY2xRc0VZTElNb1ZGeS1tVGtCY2JjNHBOX0E4Z2J2YWp1a0RGYUd3eVZ4X0JNR1doZ0tTMkpCdDI1aDBuSzc0Ri0zUFdXclNISnBHcGswSWFLdktKZWhPM2tQaWlxdmlSeDVVRkhpZTVhZ00?oc=5"
-        }
-      ]
-    },
-    {
       "id": "792d2fdd3bbb",
       "title": "I’m a doctor — the 4 ‘embarrassing’ symptoms I wish men would stop hiding - New York Post",
       "published": "2026-07-07T15:59:00+00:00",
-      "summary": "I’m a doctor — the 4 ‘embarrassing’ symptoms I wish men would stop hiding&nbsp;&nbsp;New York PostMen More Likely To Be Diagnosed With Advanced Cancer&nbsp;&nbsp;U.S. News & World ReportMen in the US more often diagnosed with late-stage cancers than women&nbsp;&nbsp;Bioengineer.orgMen more likely than women to be diagnosed with late-stage cancer study finds&nbsp;&nbsp;TheHealthSiteFor Many Cancer Types, Men Are More Likely Than Women to Be Diagnosed at a Later Stage&nbsp;&nbsp;American Associati",
+      "summary": "I’m a doctor — the 4 ‘embarrassing’ symptoms I wish men would stop hiding&nbsp;&nbsp;New York PostMen More Likely To Be Diagnosed With Advanced Cancer&nbsp;&nbsp;U.S. News & World ReportMen more likely than women to be diagnosed with late-stage cancer study finds&nbsp;&nbsp;TheHealthSiteMen Are Far More Likely To Be Diagnosed With Late-Stage Cancers Than Women, Finds Study&nbsp;&nbsp;NDTVFor Many Cancer Types, Men Are More Likely Than Women to Be Diagnosed at a Later Stage&nbsp;&nbsp;American As",
       "sources": [
         {
           "name": "New York Post",
@@ -525,7 +573,7 @@
       "id": "4e8d3d51a9e4",
       "title": "Self-generated hydrogel ejects bacterial cells for localized biofilm dispersion - Nature",
       "published": "2026-07-07T15:36:36+00:00",
-      "summary": "Self-generated hydrogel ejects bacterial cells for localized biofilm dispersion&nbsp;&nbsp;NatureDiscovery opens new way to defeat drug-resistant bacteria&nbsp;&nbsp;EuronewsEject! Bacteria Discovered with the Ability to Jettison Cells as a Survival Mechanism&nbsp;&nbsp;UC San Diego TodayWhen a Biofilm is in Danger, It Can Hit the Eject Button&nbsp;&nbsp;LabrootsBacteria Jettison Dying Cells as a Survival Mechanism&nbsp;&nbsp;Labcompare",
+      "summary": "Self-generated hydrogel ejects bacterial cells for localized biofilm dispersion&nbsp;&nbsp;NatureDiscovery opens new way to defeat drug-resistant bacteria&nbsp;&nbsp;Euronews.comEject! Bacteria Discovered with the Ability to Jettison Cells as a Survival Mechanism&nbsp;&nbsp;UC San Diego TodayWhen a Biofilm is in Danger, It Can Hit the Eject Button&nbsp;&nbsp;LabrootsBacteria Jettison Dying Cells as a Survival Mechanism&nbsp;&nbsp;Labcompare",
       "sources": [
         {
           "name": "Nature",
@@ -549,23 +597,11 @@
       "id": "2db42e85e141",
       "title": "The First AI‑Designed Vaccine Has Been Tested in People. Here’s What Happened. - SingularityHub",
       "published": "2026-07-07T14:00:00+00:00",
-      "summary": "The First AI‑Designed Vaccine Has Been Tested in People. Here’s What Happened.&nbsp;&nbsp;SingularityHubDigital Vaccines and AI Reframe Disease Prevention&nbsp;&nbsp;Let's Data ScienceArtificial intelligence could usher in a new era of vaccine development&nbsp;&nbsp;CIDRAPWorld’s first AI-designed vaccine explained&nbsp;&nbsp;Genetic Literacy Project",
+      "summary": "The First AI‑Designed Vaccine Has Been Tested in People. Here’s What Happened.&nbsp;&nbsp;SingularityHubArtificial intelligence could usher in a new era of vaccine development&nbsp;&nbsp;CIDRAPWorld’s first AI-designed vaccine explained&nbsp;&nbsp;Genetic Literacy Project",
       "sources": [
         {
           "name": "SingularityHub",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdmRoZHkyemluSS1MUDFqTktsaXlVUGpMTmJicy1sdkduOTY3STFHVTdLZVdUV2Foa0NVNVdNVFNkUmkzSVcwbWFwZGs3UG91NmJPUkNSeHJoWWVsRDNIRVpOTVpFTVpENFFSSVY5ZlFJYTI1SG1GZXp2OFE0R2FadnQtZDlOZGVxYml6dkl0Z0IybXZZbkJva1hXcDZuNlc1TjNKaWpZWVk4TjBuWWlRUTBPcDZBWUZxcVJHQi1faw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0c98ede59226",
-      "title": "How to avoid dementia — what the science really says - Nature",
-      "published": "2026-07-07T13:25:36+00:00",
-      "summary": "How to avoid dementia — what the science really says&nbsp;&nbsp;Nature10 Science-Backed Ways to Cut Your Risk of Alzheimer’s&nbsp;&nbsp;Money Talks NewsMillions of dementia cases could be avoided, but personalized education is the key to actual change&nbsp;&nbsp;PsyPostDefying dementia: Kentucky health specialist says nearly half of all cases are preventable&nbsp;&nbsp;LEX 18 NewsThe 4 Daily Habits a Neurologist Wants You to Start Doing Now to Lower Your Risk of Brain Decline&nbsp;&nbsp;Men's Jo",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14cENRdmdmSExDZS1BNmRTckVRT1k2bjQ3bkJHeGpzZzFjcnFpVnF5d2gtSFJMMjBBdU80Z1JnRmJZdDg3WjFIQmNyaUhKMzlwaVhUcm9PYmlueTU2eGM4?oc=5"
         }
       ]
     },
@@ -597,7 +633,7 @@
       "id": "06ecd80a7db7",
       "title": "There's no treatment designed for the Ebola strain ravaging DRC. But now there's hope - NPR",
       "published": "2026-07-07T12:51:59+00:00",
-      "summary": "There's no treatment designed for the Ebola strain ravaging DRC. But now there's hope&nbsp;&nbsp;NPRPatient enrolment begins in a scientific trial to identify the first effective treatments for Bundibugyo virus disease&nbsp;&nbsp;World Health Organization (WHO)Residents in eastern Congo cling to hope as a new Ebola treatment trial begins&nbsp;&nbsp;AP NewsTrial for Bundibugyo Ebola treatment starts in DRC, WHO says&nbsp;&nbsp;ReutersClinical trials begin in DRC epicenter of Bundibugyo strain of ",
+      "summary": "There's no treatment designed for the Ebola strain ravaging DRC. But now there's hope&nbsp;&nbsp;NPRPatient enrolment begins in a scientific trial to identify the first effective treatments for Bundibugyo virus disease&nbsp;&nbsp;World Health Organization (WHO)Residents in eastern Congo cling to hope as a new Ebola treatment trial begins&nbsp;&nbsp;AP NewsTrial for Bundibugyo Ebola treatment starts in DRC, WHO says&nbsp;&nbsp;ReutersEbola Trials&nbsp;&nbsp;goSkagit",
       "sources": [
         {
           "name": "NPR",
@@ -606,26 +642,14 @@
       ]
     },
     {
-      "id": "6a66e531248d",
-      "title": "We tend to think of Jupiter as permanently giant, but a 2025 study found it used to be twice its current size, with a magnetic field 50 times more powerful, and it is still quietly shrinking by about 2 centimetres every year - Space Daily",
-      "published": "2026-07-07T12:37:06+00:00",
-      "summary": "We tend to think of Jupiter as permanently giant, but a 2025 study found it used to be twice its current size, with a magnetic field 50 times more powerful, and it is still quietly shrinking by about 2 centimetres every year&nbsp;&nbsp;Space Daily",
+      "id": "24928c9175d7",
+      "title": "Experienced birdwatchers were found to have denser, more structurally complex brain tissue in regions linked to attention and perception, and when shown birds they had never seen before, those same regions activated most strongly - Space Daily",
+      "published": "2026-07-07T11:30:24+00:00",
+      "summary": "Experienced birdwatchers were found to have denser, more structurally complex brain tissue in regions linked to attention and perception, and when shown birds they had never seen before, those same regions activated most strongly&nbsp;&nbsp;Space Daily",
       "sources": [
         {
           "name": "Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOT19odjF3X0dqd200UHZLenpKUnJicHZUUW1qRHYtQ0QtU3J4RGFZVFhfQ3RDQzVoUGl4V0FsMHdFbEJqZ0lURmhHRm1hQUxWVjNKUlVUQ3k4Vml0ZHRpek5xNW82Q0NCSDA3TVNZNWZlQk1EZTFIem5XVFRDUjJHZkpEWHFDcVQzOEpBa2lxV0tIX2RtQUhsVEEteHBranlQSmZwbEJzOGVSSzNDRGRhSnYySnVGZ2FvbFd5TE14SUtnWkwxTmdGZ1Q5YlhDcmVKSFg0MlFUejVhRkpUMUQwZ0tnR1hBMUx3enY5VXlmcDl0amFham1sYnRUbDBJRDRwMHUyVWhidU56cjFhbXRtTDJQREtHdEdJSjZYMVJQNmkxUXliS0FtVnNOQk5GdmMtWFgtZzBZTEFNU1NZWGhac2tIbFc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1e099a03a7ee",
-      "title": "Common gym supplement could help fight depression, new research suggests - Fox News",
-      "published": "2026-07-07T11:00:58+00:00",
-      "summary": "Common gym supplement could help fight depression, new research suggests&nbsp;&nbsp;Fox NewsScientists say creatine may help fight depression&nbsp;&nbsp;ScienceDailyCould Creatine Boost More Than Muscles? It May Also Help Depression&nbsp;&nbsp;SciTechDailyCreatine for Depression: Study Shows Promising Results for Symptoms&nbsp;&nbsp;HealthlineFrom muscle to mind: how creatine is redefining the science of depression&nbsp;&nbsp;Nursing Times",
-      "sources": [
-        {
-          "name": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUEdWTUNwTWlZUWtoVUNvRmFUMW1HSzRjUldpZXdpNzZPVUt5b00tYnp5WFhyaTlXcnJlUl9hWnFhQklfQ1lWT3lEZHRzUkl3U0VELTFXNXVZN0F2T3pORUd2Nl90eDdFWURqNWpXY3ZkbTJ0YmE5NENfMFhLbWFPSmlZR3Vra1A0LTF0d08wUjJKalFmUExqaFpEbFLSAaIBQVVfeXFMT1lvU0RwSS1VUy1RckFJZ1gxWWpzckZvLTlndHZDYmpsc0pYcUlaUFB5aW14ZGlSTm5SampZYTdTdG00bE5Cbk5mUC1zTjFXaEk2LTZlUVRteXVLWE4yMXJXS2hBWUhjZ0dqaXVldEJIQTFwSno5NDdqVVkzLWVZWXRaTm54Zzl0OVM2R21ELWRtMmVoblJlckIxMmNsTUxHTkFR?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOYmZYWnZadUd4Y21hSkdjZjhUcVVCcEx0bGp3cHZ4SFZKWG9QV0xPMHE5QlAwcVhzOUpHWDBkNUhuUXg5ZGdjM1RQcUEtWGVxZU9mZ1ByYkFObEFROFJJOGhmWC1VTGZwMkYzWGw1NmVVeWNnQUtLLUZYMG1MaFJadE54Q2dySlN5YXU0LVZrWmRYV2FBcXFjRlhJY0xhWm5kemRZSGliSHFZZmJzdExlTVZrdlFya2Z0N1dNbXRydy1jUVJrVW5UaWljcWhZcVd5cW15R2tWNU9TU19KNXFUbmtUamRqU1pPWVBab3M2eEtkd01CYUFWc0VIVl9wRDliYkY4YUJoTmFlbkNhNHNhZVZRYTJkVDBkSmlheDBnSjVrYWhsVWYyLURodW9hOHRKenZV?oc=5"
         }
       ]
     },
@@ -638,30 +662,6 @@
         {
           "name": "HuffPost",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNjFEc191OFBhYWdwQ19RQkdSSjlPcWc2eTA4aWdNWTdZVkcwNHpBSU5fWllYbnp5Wk5odUc1dU5mLWpWVmhpYnZKY2ZHMHlvWUpHZXU3UlpMYWtfTEZ3cjBlNTdVVHg2dEE3MmhJWnNvYjhmd3NqN3dwZWRhbnlzZk9JLVFKcnhaWEY5aDdKTmwyTWVmLVVVeXZHM3R5QdIBowFBVV95cUxPOVJhSUZPTjJodW05TUZ0V0w3QXJabkxkYkxBNHJOTWRwbnVnenBpN0ExY1Q0ZUFiOThPSVVaalE3UkdCSHVKQUNnVE50OUU1LU4xT1hDMFdJVWFQZEVTR0NYVWYxMUJQd0VUZnljNDMwT3VWcm5qandUOUdTT1lOaVFDMzBtVlpvdjR0bTU2czhqcnotRjhvVjdueTRKRUlidmZj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "434cb71a9cf6",
-      "title": "Two tests GPs can soon offer to help spot endometriosis - BBC",
-      "published": "2026-07-07T09:16:09+00:00",
-      "summary": "Two tests GPs can soon offer to help spot endometriosis&nbsp;&nbsp;BBCEndometriosis could be diagnosed by blood test, research suggests&nbsp;&nbsp;BBCEndometriosis Can Be Diagnosed Using a Rapid Saliva Test in ‘Game-Changing’ Development&nbsp;&nbsp;People.comRapid endometriosis tests to be made available on NHS in England and Wales&nbsp;&nbsp;The GuardianThe endometriosis ‘hormone fingerprint’ that will pave the way for rapid diagnosis&nbsp;&nbsp;The Independent",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3NDQzdFRZNnd5R3I1U2hMTU05NThONi1VRE1qNmVSc3BETzNYaE9WcUNQVUNYQzMyLWE2cTZrSDdnU0otOFNYYjlpdkttX3RKaVIxSm92NEtJZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "df974e53bade",
-      "title": "Famous study in error: the Universe isn’t anisotropic - Big Think",
-      "published": "2026-07-07T06:00:00+00:00",
-      "summary": "Famous study in error: the Universe isn’t anisotropic&nbsp;&nbsp;Big ThinkWhat if the Universe Isn’t as Uniform as Scientists Think?&nbsp;&nbsp;WIREDScientists thought the universe was uniform. New evidence says otherwise&nbsp;&nbsp;ScienceDaily🔭 The uniform universe? A fundamental principle of cosmology disproven by observation&nbsp;&nbsp;Techno-Science.net",
-      "sources": [
-        {
-          "name": "Big Think",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HS0FTTlF2QWMyZS0xZVN0WmQ4S1ZYRTFPSE1VTXFmcUVlSXUxdUhzQ2hjNzhTWFVobk5halg4TWdnc3JiSnM3eFBIWWZyRzZCRnVBTmg5ek11R3NWaU1FZDlseWlBVGFPdWV5WVBlR0VCZTRGNTdKNGhad1QwQQ?oc=5"
         }
       ]
     }

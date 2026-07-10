@@ -1,15 +1,51 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-07-09T19:49:46.547455+00:00",
-  "total_fetched": 103,
-  "unique_count": 103,
-  "health_related_count": 46,
+  "fetched_at": "2026-07-10T03:35:49.780018+00:00",
+  "total_fetched": 105,
+  "unique_count": 105,
+  "health_related_count": 48,
   "news": [
+    {
+      "id": "7be64221ef0c",
+      "title": "What to know about 'explosive diarrhoea' parasite outbreak in US - BBC",
+      "published": "2026-07-09T23:45:03+00:00",
+      "summary": "What to know about 'explosive diarrhoea' parasite outbreak in US&nbsp;&nbsp;BBCHow to Stay Safe From Cyclospora, a Parasite Causing Severe Intestinal Illness&nbsp;&nbsp;The New York TimesHamilton County reports 13 cases of intestinal illness spread through produce&nbsp;&nbsp;WLWTAn outbreak of diarrhea caused by a parasite has hit at least 1,400 people. Here’s how to stay safe&nbsp;&nbsp;CNNCyclosporiasis symptoms, treatment and how it's spread: Everything to know about the intestinal parasitic ",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40Q3BOWlY4MS1reHp0OHNZSHExU1Z3UnBHVHRMcnlsbE93TkxjaC1VSUkzYk1vek1UUjg3T2xxUnczQWRqaUhDNmR6Ykt0djFfYWtVbHZ4MUptZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cf518d366429",
+      "title": "Long Island nurse who made $1.5M selling fake COVID vaccine cards slapped with $544K fine - New York Post",
+      "published": "2026-07-09T22:50:00+00:00",
+      "summary": "Long Island nurse who made $1.5M selling fake COVID vaccine cards slapped with $544K fine&nbsp;&nbsp;New York PostJulie DeVuono, former nurse practitioner, gets historic $544,000 state penalty for falsifying pediatric vaccine records&nbsp;&nbsp;NewsdayFormer Suffolk nurse who falsified COVID-19 vaccine cards hit with historic $544K state penalty&nbsp;&nbsp;News12 | Long IslandFormer N.Y. Nurse Who Faked Childhood Vaccination Records for Over 160 Students Faces Record-Breaking Fine&nbsp;&nbsp;Peo",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMmVMRHNtMGppUzBTOHo3MkpsU1ZfQ251T201UEZMcXotNU94YVdGZlJRTjE2OUlmanQ1N0t3MHRMMlZ2NXByNDJDdjI3WG1GN1FkRmlRZ0gzVEV6ZEFCWGhlMU91dnN3QUlJeXUyN2ZvVTdYQW9wZXJBWElpY3ZuZUxsUlZkbEtZRWRLX2ZBY2lNc3BIRTdpc0l3amtqMWVJTHg4WGl0TVJBQlhrTEF6OXZJOEVsME5SVk5rSU1Kc1ZUMTA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d880538d0749",
+      "title": "A Human Habitat at The Bottom of The Ocean Is Now Operational. Take a Look Inside - ScienceAlert",
+      "published": "2026-07-09T20:02:22+00:00",
+      "summary": "A Human Habitat at The Bottom of The Ocean Is Now Operational. Take a Look Inside&nbsp;&nbsp;ScienceAlertFirst new open-ocean subsea research habitat in 40 years launched&nbsp;&nbsp;New ScientistGoing DEEP: ‘Vanguard’ takes the plunge&nbsp;&nbsp;Maritime JournalUnderwater research lab installed in the Florida Keys&nbsp;&nbsp;Popular ScienceNew subsea habitat deployed off the Florida Keys embarks on several missions&nbsp;&nbsp;Keys Weekly Newspapers",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbnVsU1lTR3dGb2RsVjhHREl6cTNpMEpQWGFLdnRsVGs2Tktyd0NuNHNhZWE4cXdodmx6Wk12NEpmVjVaRU56VDB1dWZCYTUyWnR2ZGYzOWQxWFpKM05DQlE2Wldzc3hWeXV1VlNZUmRYQ0t0RzdaaE5pRHA5ekxBWnJPaGFQckgwQkpLUzZoS3JRVk5hbDZOTk9MSzIzUkJfNGNDaXFSWUpuZGR4bU9xRXdR?oc=5"
+        }
+      ]
+    },
     {
       "id": "cd86f24ebaf3",
       "title": "In Congo, health workers fighting Ebola go on strike after months without pay - The Washington Post",
       "published": "2026-07-09T18:59:56+00:00",
-      "summary": "In Congo, health workers fighting Ebola go on strike after months without pay&nbsp;&nbsp;The Washington PostEbola workers strike as CDC head says agency’s response will last months&nbsp;&nbsp;CIDRAPEbola Outbreak, DRC and Region, Situation Report #10, July 8, 2026&nbsp;&nbsp;ReliefWebConfirmed Ebola deaths in DR Congo hit 600&nbsp;&nbsp;Al JazeeraEbola death toll in Congo reaches 600, as new cases suspected in previously unaffected province&nbsp;&nbsp;ABC News - Breaking News, Latest News and Vi",
+      "summary": "In Congo, health workers fighting Ebola go on strike after months without pay&nbsp;&nbsp;The Washington PostEbola Outbreak, DRC and Region, Situation Report #10, July 8, 2026&nbsp;&nbsp;ReliefWebEbola workers strike as CDC head says agency’s response will last months&nbsp;&nbsp;CIDRAPConfirmed Ebola deaths in DR Congo hit 600&nbsp;&nbsp;Al JazeeraCongo Ebola response workers protest over pay&nbsp;&nbsp;Reuters",
       "sources": [
         {
           "name": "The Washington Post",
@@ -18,26 +54,50 @@
       ]
     },
     {
-      "id": "07400a0cb801",
-      "title": "Nearly 300 cases of cyclosporiasis reported in NYC, additional 121 across state, health officials say - CBS News",
-      "published": "2026-07-09T18:22:55+00:00",
-      "summary": "Nearly 300 cases of cyclosporiasis reported in NYC, additional 121 across state, health officials say&nbsp;&nbsp;CBS NewsHow to Stay Safe From the Severe Stomach Bug That’s Going Around&nbsp;&nbsp;The New York TimesGut-wrecking stomach illness hits Pennsylvania&nbsp;&nbsp;AxiosAn outbreak of diarrhea caused by a parasite has hit at least 1,400 people. Here’s how to stay safe&nbsp;&nbsp;CNNCyclospora, a stomach-churning parasite, has reached Mass. Here’s what to know.&nbsp;&nbsp;The Boston Globe",
+      "id": "2b23b7dbe6e6",
+      "title": "NASA seeks research volunteers to spend a year on a simulated mission to Mars or the Moon - FOX Weather",
+      "published": "2026-07-09T18:22:00+00:00",
+      "summary": "NASA seeks research volunteers to spend a year on a simulated mission to Mars or the Moon&nbsp;&nbsp;FOX WeatherNASA Seeks Volunteers for Yearlong Simulated Mission to Moon, Mars&nbsp;&nbsp;NASA (.gov)Sick of Earth? NASA is recruiting volunteers for a yearlong Moon and Mars simulation&nbsp;&nbsp;CNNNASA seeks volunteers for yearlong simulated moon and Mars deep space missions&nbsp;&nbsp;YahooNASA needs volunteers to spend a year locked in a Mars simulation&nbsp;&nbsp;Scientific American",
       "sources": [
         {
-          "name": "CBS News",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLb0lwUWZUbTE2UW9LM3RzR085NnMxQXp0bDJJd0dwRXpwLXJJaEFfTGY4SVNjSjFvYVN3dTd4enNfVXh3MF9BdklrMHdrdjVJME4yMk9ZTWUtbm4yRFYxbm02YlJsOXlkVzRmalJYaDl2MzE2?oc=5"
+          "name": "FOX Weather",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSmFWcEZLNTg0ZTZ2a2xXUVc4d0JwNXJqdDViN0JzVF9iWm10OGFJT3NLVmpZYVdaaTBsWkJxcHZiZ1E1Smtvek5ENjdzOGVIQW1XVVg2UHZ2dk9jU3NxU2R4c1BhN0trb213d2RnTGdGck5STmZIM1MzYXlzZGxFTmU2bGtfN3U3RzV1SWwybHd3UHEtMktveTZvOE95NXl5OGtaeGx1X0pYelNo0gGyAUFVX3lxTE56S1JYaEhxTzVtanVtRWFQNUlzSDJSRU5GTjVES21wOW1qeGZYUDhkSkpvQ092VDRaamd5Ym5PeUZHa013ejBkWEc4ZkhtdkpKZmcxai1Yc2FEZmxYbWZzYzNCc0E3dVlWOVBwNGNQcTdGeXBLQW5TUklVRlh4MXdWY014MUQ1VjJJTUFGRFBWWWtPMTdxWGZwRTBhRUx6RFg0dVhfMEdyQjgtSDZsWklReHc?oc=5"
         }
       ]
     },
     {
-      "id": "eb5ecc264444",
-      "title": "Scientists Say We Should Nuke Dangerous Asteroids—Just Not the Way You Think - Gizmodo",
-      "published": "2026-07-09T14:55:56+00:00",
-      "summary": "Scientists Say We Should Nuke Dangerous Asteroids—Just Not the Way You Think&nbsp;&nbsp;GizmodoChinese scientists find the best way to nuke an asteroid on its way to impact Earth&nbsp;&nbsp;SpaceThe nuclear option: Scientists reveal how atomic blasts could save Earth from asteroids&nbsp;&nbsp;YahooNuking asteroid from inside better than surface blast: Study | Researchers said they tested both methods | Inshorts&nbsp;&nbsp;InshortsChina's Plan to Prevent Giant Asteroids from Hitting Earth Involve",
+      "id": "6353829f4e7b",
+      "title": "Learning What Substance Is Suspected of Causing Alzheimer's May Throw You Into an Existential Crisis - Futurism",
+      "published": "2026-07-09T17:45:06+00:00",
+      "summary": "Learning What Substance Is Suspected of Causing Alzheimer's May Throw You Into an Existential Crisis&nbsp;&nbsp;FuturismA common chemical from car tires might disrupt human brain cells and promote dementia&nbsp;&nbsp;PsyPostRoadway to the Brain? Alzheimer’s Linked to Notorious Tire Chemical&nbsp;&nbsp;StudyFindsVehicle tire wear pollution linked to Alzheimer’s risk - impacting over 30 million people globally&nbsp;&nbsp;The Brighter Side of NewsCommon Tire Chemical May Raise Alzheimer’s Risk, Stu",
       "sources": [
         {
-          "name": "Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVHI1UnRhVVpOM2txdy1SckNoR1lBRUpYb1RPZ3RpYWRLNDE5TjZGdUVTQ2M5WXNnc3M3TTNWbWtIc2ZoX0lVREdUZjZnQ2puOTlKcjRRSUlPYWZqN0lUbkRvejhvdHhxMXEzZnJLVXVqbHY1cFZxb2VUTHcwOGkxdHNROFQ0Si1tOHJBTGJxcDBCWnNGMlBHZzZyTE83LTdyMmdkN0swVF9nZDA?oc=5"
+          "name": "Futurism",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZVU2VmV3UExrRE1qZnVzaWpKeEFINXB4T204RktzYUFZQm44Y2UydTA5OE9mby1zZ3ZCMU5tNVZaMDRLOW9rd2ttRkJwMjl6XzgzV0hXVDBPMzduVG5xVWswMzc0Tno2NXhvLWNyTkQzQ3JEUFRvZjktSFEzbUlpLWdXVG5lMlZPQUlVUXYwSFJxTkwtV2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "57f0abe3da1e",
+      "title": "Brits' Plan in 1788 to Stop Smallpox May Have Backfired - Newser",
+      "published": "2026-07-09T17:16:00+00:00",
+      "summary": "Brits' Plan in 1788 to Stop Smallpox May Have Backfired&nbsp;&nbsp;NewserSmallpox Scabs That British Doctors Used to Inoculate Patients May Have Introduced the Deadly Disease to Australia, New Research Suggests&nbsp;&nbsp;Smithsonian MagazineSmallpox in colonial Australia&nbsp;&nbsp;NatureSydney’s 1789 smallpox epidemic came from the First Fleet and killed up to 220,000 Indigenous Australians: new research&nbsp;&nbsp;The ConversationModeling reveals Sydney's 1789 smallpox outbreak killed as many",
+      "sources": [
+        {
+          "name": "Newser",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRy0xQ0ptRkFCMXpfRVZTdFZjck03WVJJczdFckYxVzN3N1FaNGdjeFVIWEhCd0FWQm41S2k5UEF0SkY1TFJrX1ZUU20yak5ndXBNSU5pbmZ5T2FFd1VKc2J6RFV6TGNHcmJ2RGU0QkxQcHNzN0pjNlhKMnJlaEViZmg2N19IRXQ0bE9vQTV4enRUd054bzk4bGU4aC1lQ2YtOXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6ac30886a576",
+      "title": "WHO: Global Cancer Cases May Surge Almost 70% by 2050 - Newser",
+      "published": "2026-07-09T15:15:00+00:00",
+      "summary": "WHO: Global Cancer Cases May Surge Almost 70% by 2050&nbsp;&nbsp;NewserCancer cases worldwide are expected to soar in the coming decades, a report finds. Here’s why.&nbsp;&nbsp;The Washington PostCancer cases expected to soar worldwide, WHO report finds&nbsp;&nbsp;The GuardianGlobal breast cancer survival estimates in 2017–2021 to advance the WHO Global Breast Cancer Initiative&nbsp;&nbsp;NatureDoctor warns of ‘cancer tsunami’ as WHO projects sharp rise in cases by 2050&nbsp;&nbsp;Global News",
+      "sources": [
+        {
+          "name": "Newser",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ3B3U3Bfb0V2dVZ3bnJYU0RBSFpaWXFJQ0pwZ2V3VFdfTTJFSmNFNlh6LTVBeENvUElNNUgtckJJUlJla0ZpZzFoTkd5UTktOGhnZHk3eHQ4R19vcGRrRHlQQ0pEYTlWX3lyak1TSnlEYWhobDVhTGFyWnpjLUJRTXFsTVZGTmdHcDUweVJlNWVUREpuYVpB?oc=5"
         }
       ]
     },
@@ -45,7 +105,7 @@
       "id": "f44c5d25b00d",
       "title": "Legionnaires’ outbreak rocks New York as experts warn of rising climate threat - The Guardian",
       "published": "2026-07-09T14:44:00+00:00",
-      "summary": "Legionnaires’ outbreak rocks New York as experts warn of rising climate threat&nbsp;&nbsp;The GuardianSevere Upper East Side pneumonia outbreak expands again as NYC probe continues&nbsp;&nbsp;NBC New YorkWe mapped every UES cooling tower in the area affected by NYC’s latest Legionnaires’ outbreak&nbsp;&nbsp;GothamistNew York City health officials search for source of Upper East Side Legionnaires' outbreak linked to 36 cases&nbsp;&nbsp;ABC7 New YorkLegionnaires’ outbreak continues to spread&nbsp;",
+      "summary": "Legionnaires’ outbreak rocks New York as experts warn of rising climate threat&nbsp;&nbsp;The GuardianLegionnaires' disease outbreak Upper East Side: Testing reveals buildings possibly linked to cluster&nbsp;&nbsp;ABC7 New YorkSevere Upper East Side pneumonia outbreak expands again as NYC probe continues&nbsp;&nbsp;NBC New YorkUpper East Side Legionnaires' disease cluster rises to 36 cases as cooling tower testing continues&nbsp;&nbsp;CBS NewsCity identifies ‘buildings of interest’ in Legionnair",
       "sources": [
         {
           "name": "The Guardian",
@@ -54,10 +114,22 @@
       ]
     },
     {
+      "id": "24d2b4b1119e",
+      "title": "90 percent of U.S. adults have this syndrome — but most have never heard of it - Yahoo",
+      "published": "2026-07-09T14:02:54+00:00",
+      "summary": "90 percent of U.S. adults have this syndrome — but most have never heard of it&nbsp;&nbsp;YahooFirst ever guidelines released to screen for condition that impacts 9 in 10 Americans&nbsp;&nbsp;The IndependentFrom PMOS to CKM: The silent metabolic crisis behind new disease names&nbsp;&nbsp;The Indian ExpressCardiovascular–kidney–metabolic syndrome: a comprehensive review of pathophysiology, epidemiology, diagnosis, and management&nbsp;&nbsp;springermedicine.comCKM Guidelines: A Nephrologist’s Pers",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOX0hya3pzOFo4U3lKT3BSMVJKOUJYSlZiLUVkVDBXM0p5UTVOc3pid3d1WkZDWmFXX2wwUlFhUTd6OXZLZ1hxb0ZCWTI0NnkwSklZUnk5cE9hT3N0cUZUVk1rQkFLekxZREpCZHYxeWxxTlRtT0F5ZGRDMnpFaW52eHg5Wks2VzJCaXFfXzVqRXhTcWpjLXVNVVNBRzh3aGJSQkdaQ19Kb2xkZkJCTnFzUWZRcVp6YkIyWDVwaEZxN1V6UFNRT2VjZExqUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b7618d24c25b",
       "title": "Strength Training These 3 Muscles Will Lead to the Biggest Heart Health Benefits, Doctor Says - TODAY.com",
       "published": "2026-07-09T12:00:00+00:00",
-      "summary": "Strength Training These 3 Muscles Will Lead to the Biggest Heart Health Benefits, Doctor Says&nbsp;&nbsp;TODAY.comStrong chest and back muscles linked to lower risk of a heart attack&nbsp;&nbsp;News-MedicalI’m a personal trainer. These five exercises could reduce your risk of a heart attack&nbsp;&nbsp;The IndependentMoobs linked to ‘58% higher risk of heart attack in 10 years’ in ‘fascinating’ study&nbsp;&nbsp;The SunThe ‘Heartsavers’: How strong chest and back muscles (and THESE workouts) may l",
+      "summary": "Strength Training These 3 Muscles Will Lead to the Biggest Heart Health Benefits, Doctor Says&nbsp;&nbsp;TODAY.comStrong chest and back muscles linked to lower risk of a heart attack&nbsp;&nbsp;News-MedicalI’m a personal trainer. These five exercises could reduce your risk of a heart attack&nbsp;&nbsp;The IndependentThe ‘Heartsavers’: How strong chest and back muscles (and THESE workouts) may lower heart attack risk&nbsp;&nbsp;The Times of IndiaThe condition of your chest and back muscles can af",
       "sources": [
         {
           "name": "TODAY.com",
@@ -66,26 +138,50 @@
       ]
     },
     {
-      "id": "cf147ce94202",
-      "title": "The cheap supplement that scientists now believe helps fight cancer - The Independent",
-      "published": "2026-07-09T09:03:00+00:00",
-      "summary": "The cheap supplement that scientists now believe helps fight cancer&nbsp;&nbsp;The IndependentCreatine doesn't just build muscle. It may also help fight cancer&nbsp;&nbsp;ScienceDailyThis Popular Fitness Supplement May Also Help The Body Battle Cancer, Finds New Study&nbsp;&nbsp;NDTV🔬 Creatine, a surprise effect on cancer?&nbsp;&nbsp;Techno-Science.netThis Popular Workout Supplement May Give Cancer Immunotherapy a Big Boost&nbsp;&nbsp;SciTechDaily",
+      "id": "085ad8ba6dce",
+      "title": "Sexually transmitted diarrhoea spreading rapidly among gay men in UK - PinkNews",
+      "published": "2026-07-09T10:58:56+00:00",
+      "summary": "Sexually transmitted diarrhoea spreading rapidly among gay men in UK&nbsp;&nbsp;PinkNewsSexually transmitted gut infection shigella a 'distinct public health threat' to UK, experts warn&nbsp;&nbsp;Sky NewsSexually transmitted diarrhoea spreading rapidly among some networks of gay men in the UK, study finds&nbsp;&nbsp;University of CambridgeSexually transmitted diarrhoea is spreading in the UK; 70% resistant to antibiotics: Who's at risk and what are the symptoms&nbsp;&nbsp;The Times of IndiaUK s",
       "sources": [
         {
-          "name": "The Independent",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbmQtSUJ6RndVN1N3ZmtOZlB6eWU0bGNkLUN1LVlUWVdCR1hFaGNzR1lKQnR4eks2bjJHOHJEWndQN1VrQUpiV3lwU2doNU5MOGIzWFhzRkROZkUwcHlBQnMwWHJLV1FJZXppWGw2UVQ1Ym1ORGVLTWZMYWVNUU5IbVR1bkgtcEc5Q1c2bFl3UFN3UWpCQjZqS3FsdHRRZw?oc=5"
+          "name": "PinkNews",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRlgtSF9BbDYtWG5lczNLNkNBdEk0UGVQb3psLWI4d0xfa2Q0NlFxZG9sRmQ0TFNxMW9aRnVZdjZZVDZwbktaMjV1UDVlUlBFR1RNRnEtUlg0ZTdrRjBoNkVHcV9pdkdSZXRQSVJsVXdlMWk1X2UzQTlVSG1mMkdmbTlGZktuOVJ2eDdUTkZGSDdtNVFoNFg3VnJqSDM2Sm1S?oc=5"
         }
       ]
     },
     {
-      "id": "91bd565bd991",
-      "title": "First-Ever Footage of Haunting Barreleye Fish Captured Deep Beneath The Atlantic - ScienceAlert",
-      "published": "2026-07-09T08:02:20+00:00",
-      "summary": "First-Ever Footage of Haunting Barreleye Fish Captured Deep Beneath The Atlantic&nbsp;&nbsp;ScienceAlertScientists Travel to Unexplored Area of Atlantic Ocean and Photograph Bizarre Deep-Sea Creatures&nbsp;&nbsp;PetaPixelSubsea Hydrothermal Vents Discovered in the Doldrums Region&nbsp;&nbsp;Marine Technology NewsExpedition led by MBARI researchers reveals remarkable, and rare, form of deep-sea hydrothermal vents&nbsp;&nbsp;MBARIDoldrums Fracture Zone Expedition Uncovers Dual Vent Fields&nbsp;&nb",
+      "id": "47c4939f69b5",
+      "title": "An Illegal Injectable Tanning Drug Is Trending on TikTok – And It May Be Giving People Risky Moles - ScienceAlert",
+      "published": "2026-07-09T10:02:09+00:00",
+      "summary": "An Illegal Injectable Tanning Drug Is Trending on TikTok – And It May Be Giving People Risky Moles&nbsp;&nbsp;ScienceAlertSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHpLbnh6OEVVRHdkVGhHZEp2WUE2TkdibkV2LWNLM2pQMEdfQnEzUjRPWnp5T04yOW5qUml3dFF2V1FqU2xXcmEzeXRMWFJjc3dVc0JudmVzUnpVVFpTWGtEVHBCcEMxLUdZbEptTWRLbU9RYjN2Z01UOU9EMUM1UFZ1bFFnZnBwa1hQbzdtbGpPeEg5SWt4alJfZk1yVnNCbmhnejlBTjI4M0NnTUE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWEE5djJkUEtmNDAxbzh5VlFNVGIyRTlrbFh5WEFDTnJkd2twMHpFd1g0Q0hKNDBiQWNMMjY2UkctU3ZDaUsyT3MtX3E0M082SUU2V1VGcGhPeU5sem1zV194b3VjcVhzUEdOemxuOTdoUWhPc0gwWmJ5Q3pHNHB6MjFrLXRNbEZVTjVNSmFHRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "def15fcda4f4",
+      "title": "Scientists Travel to Unexplored Area of Atlantic Ocean and Photograph Bizarre Deep-Sea Creatures - PetaPixel",
+      "published": "2026-07-09T09:46:48+00:00",
+      "summary": "Scientists Travel to Unexplored Area of Atlantic Ocean and Photograph Bizarre Deep-Sea Creatures&nbsp;&nbsp;PetaPixelSubsea Hydrothermal Vents Discovered in the Doldrums Region&nbsp;&nbsp;Marine Technology NewsExpedition led by MBARI researchers reveals remarkable, and rare, form of deep-sea hydrothermal vents&nbsp;&nbsp;MBARI13,123 feet below Atlantic, in the Doldrums, an eerie creature is seen for the first time&nbsp;&nbsp;WIONDoldrums Fracture Zone Expedition Uncovers Dual Vent Fields&nbsp;&n",
+      "sources": [
+        {
+          "name": "PetaPixel",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUjZ6ZU5ZNk94VTRkeDRLSE05YXBYRmhCV3VPby0tZjZFVWN2cWRKUWVoRVhLMHVoRGlXVm9tZWt0TmNXV21sYmhwc2VybGFoWVFDWkNvUVAxd1R0VXJlaTlQSE9zbEVNVElOQTVma3FfZkV5YUZSNE1nTTU2cXhDM1VBVzRWc3E3THJCQ3FnNHVENGkzeDV3TUVWRGhORlF6WUVvSHI3UzQ5Mm1DQUEwYXVwcXY4ZTlwaGQzLVpKSDExdWRiVHZ0VXRB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cc9d1ffc355f",
+      "title": "NASA's New Horizons spacecraft reaches 6 billion miles from Earth - Mashable",
+      "published": "2026-07-09T09:09:00+00:00",
+      "summary": "NASA's New Horizons spacecraft reaches 6 billion miles from Earth&nbsp;&nbsp;MashableNASA's New Horizons probe just woke up from hibernation 6 billion miles away beyond Pluto. What's it doing out there?&nbsp;&nbsp;SpaceIn Anticipation of New Horizons Entering Interstellar Space, Researchers are Developing a Solar Wind Forecasting Method&nbsp;&nbsp;Universe TodayNASA’s Pluto Probe Is Finally Approaching a Major Boundary of Deep Space&nbsp;&nbsp;GizmodoNew Horizons Wakes Up, Prepares for 'Terminat",
+      "sources": [
+        {
+          "name": "Mashable",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsTVE0MXp5SkNuNG1IS2dRMTV1ZlZISDE2cjFDS2ZYYmdlbGxUQUZwVmhMRlNSMjhiVlBhdDQ5aVJ1Q0VLTnZETktFZktXemhLVGU2dndOdklVMUo0UWRHd3UyTDhsUQ?oc=5"
         }
       ]
     },
@@ -102,14 +198,38 @@
       ]
     },
     {
+      "id": "1f67e4d0c37f",
+      "title": "The smell of dark chocolate could make a leg workout easier, even on an empty stomach - Medical Xpress",
+      "published": "2026-07-09T04:00:01+00:00",
+      "summary": "The smell of dark chocolate could make a leg workout easier, even on an empty stomach&nbsp;&nbsp;Medical XpressSniffing chocolate could make your leg day workout easier, even on an empty stomach&nbsp;&nbsp;FrontiersWhy you should sniff (but not eat) chocolate at the gym — and which kind is better&nbsp;&nbsp;New York PostSmelling Chocolate May Help Boost Workouts, Reduce Hunger&nbsp;&nbsp;HealthlineSniffing this sweet treat ‘tricks the system’ to improve your workout, study reveals&nbsp;&nbsp;AL.",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeF9md2RfV1E5OV9vUHpTZm1pYXB2c3h0SjloQTlaWktFelhndjlmaUxpMEc2MlNfRllYV2prVDBKZXVZRGlRSTZpRURlZUtLY1loLXZlM1FGQ1JWeTVydUplUk5GM1pUeUlnOGcxR1o4SVdoQ09sTHBFbVlRdXQ3VkJtRQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "38f5fd077cd2",
       "title": "﻿Iowa's first measles case of 2026 reflects a changing reality for doctors, health officials - KCCI",
       "published": "2026-07-09T03:25:00+00:00",
-      "summary": "﻿Iowa's first measles case of 2026 reflects a changing reality for doctors, health officials&nbsp;&nbsp;KCCIMap shows central Iowa locations where you may have been exposed to measles&nbsp;&nbsp;KCCIEastern Iowa doctor urges residents to check vaccination status after state’s first measles case confirmed&nbsp;&nbsp;KCRGMeasles Case Confirmed in Polk County&nbsp;&nbsp;Polk County Iowa (.gov)First Iowa measles case of 2026 confirmed; state identifies exposure locations&nbsp;&nbsp;KGAN",
+      "summary": "﻿Iowa's first measles case of 2026 reflects a changing reality for doctors, health officials&nbsp;&nbsp;KCCIMap shows central Iowa locations where you may have been exposed to measles&nbsp;&nbsp;KCCIFirst measles case of year confirmed in Iowa resident, potential exposure locations released&nbsp;&nbsp;KTTC | Rochester, MNMeasles Case Confirmed in Polk County&nbsp;&nbsp;Polk County Iowa (.gov)First Iowa measles case of 2026 confirmed by HHS&nbsp;&nbsp;The Des Moines Register",
       "sources": [
         {
           "name": "KCCI",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQWF1cnVmTGlTUXlRYUR1bE4wR3UweG0yakRzLUt5NGU2aHlLOVBZQ3U5Y1hqY0tLRjBkbXkzRTBmbUlXazB6WFNwT3VwVFVZWW9yTzNLM2NJeTBWNnVPNzZ6cVl4elRWUVFaWkZaeEQzNkkxQzVqcUVtdm5fOXI0TnVjSDg5Z1NJaWNYSE8zZkNDdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "42dbc75b8f24",
+      "title": "Tiny silica particles wiped out aggressive prostate cancer in mice - ScienceDaily",
+      "published": "2026-07-09T02:20:33+00:00",
+      "summary": "Tiny silica particles wiped out aggressive prostate cancer in mice&nbsp;&nbsp;ScienceDailyCornell’s Silica Nanoparticles Wiped Out Prostate Cancer in Mice&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45U3MzZGk1N3dRZW10VUo1NzFPSHRULUE1WDk0R2wtZkdzN3BjWVpfRUx5NS1yNl8yX0JjZHE5OFVjWEg0c1ZuX1V2TVFkQ1RPZUhPVnVQVXgyTngxSnRjUFRWUTRNNEJuVGJQRGwxQQ?oc=5"
         }
       ]
     },
@@ -141,7 +261,7 @@
       "id": "849fd2f2d271",
       "title": "UK girl, 12, underwent six grueling –and unnecessary — rounds of chemo after misdiagnosis - New York Post",
       "published": "2026-07-09T00:33:00+00:00",
-      "summary": "UK girl, 12, underwent six grueling –and unnecessary — rounds of chemo after misdiagnosis&nbsp;&nbsp;New York PostGirl, 12, Underwent 6 Rounds of Unnecessary Chemotherapy After Misdiagnosis&nbsp;&nbsp;People.comChild put through six rounds of chemotherapy after misdiagnosis&nbsp;&nbsp;The Telegraph'My daughter is a ticking time bomb after doctors misdiagnosed her for years'&nbsp;&nbsp;My London12-year-old put through six rounds of chemo after years of misdiagnosis; now she is wheelchair-bound an",
+      "summary": "UK girl, 12, underwent six grueling –and unnecessary — rounds of chemo after misdiagnosis&nbsp;&nbsp;New York PostGirl, 12, Underwent 6 Rounds of Unnecessary Chemotherapy After Misdiagnosis&nbsp;&nbsp;People.comChild put through six rounds of chemotherapy after misdiagnosis&nbsp;&nbsp;The TelegraphThis is little Faye Condon. She was just seven-years-old when she was misdiagnosed and incorrectly endured six rounds of gruelling chemotherapy. 💔😱 Faye was five when specialists categorically told her",
       "sources": [
         {
           "name": "New York Post",
@@ -174,6 +294,18 @@
       ]
     },
     {
+      "id": "989f0d5944fa",
+      "title": "I'm a Longevity Doctor. Bryan Johnson's Diagnosis Reminds Us That Longevity Isn't About Perfection. - Outside Magazine",
+      "published": "2026-07-08T21:53:25+00:00",
+      "summary": "I'm a Longevity Doctor. Bryan Johnson's Diagnosis Reminds Us That Longevity Isn't About Perfection.&nbsp;&nbsp;Outside MagazineBryan Johnson’s chronic disease is notoriously difficult to diagnose&nbsp;&nbsp;STATHow did Bryan Johnson end up with an autoimmune disease?&nbsp;&nbsp;Northeastern Global NewsBiohacker Bryan Johnson discloses 'incurable' illness. What is it?&nbsp;&nbsp;USA TodayA woman who has autoimmune gastritis, the same condition as Bryan Johnson, shares what it's like to live with ",
+      "sources": [
+        {
+          "name": "Outside Magazine",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZjA5bzZuR0RLRHptQ1VIR3VDZUNWRmp3R0hlVFNHcF9SeWpiX0E1UkotMEZFZnk0Qnp1ZndpTnljVi1CV2dfSF9Bd2xmZ0xGcFpaZDlURFdXTjFYUDZWQ0RhT3RzVkpQaEVPU2RsNmRrR3BCSUZpNm9Xcjk1MlJrMU5Bc3Iwblk?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1a8214402f4e",
       "title": "MenB vaccine offers men no protection from gonorrhoea, claims major study - BBC",
       "published": "2026-07-08T21:06:53+00:00",
@@ -186,22 +318,10 @@
       ]
     },
     {
-      "id": "6a3b8cbbc662",
-      "title": "In a First, Chronic Fatigue Syndrome Linked to The Brain's Clearing System - ScienceAlert",
-      "published": "2026-07-08T21:02:07+00:00",
-      "summary": "In a First, Chronic Fatigue Syndrome Linked to The Brain's Clearing System&nbsp;&nbsp;ScienceAlertBrain’s waste-clearing ability impaired in ME/CFS patients&nbsp;&nbsp;Griffith UniversityThe hidden brain killer&nbsp;&nbsp;Trinidad Express NewspapersMedical Breakthrough: Faulty \"Sewage System\" Identified in Brains of Chronic Fatigue Patients&nbsp;&nbsp;صوت الإماراتBrain Scans Reveal Why ME/CFS Causes Brain Fog&nbsp;&nbsp;Yahoo Health",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM0tJWjRtMVVVcGxDcF9YZlF4ZDI2VEdFRWx4WEdJWGpUQTJ0LWxFX0VUZ0ZnOGNobmdLcDZHeElXRHRTVzRCd3Y5Vm9OM3M1RlloWHdzVHFScGF2X0c3M2YzNEdoSTFqcUdKa2xhWFZoVC1UcWRDbnNPWjJhQzZpSm5qbEJkcVJCeFFla0RBdUYwUkh1ZWZCdEQ3X1hFTjd6MzdrUUsyUDVtWFFsY1BYSlVXRHBoNFBZbW5JTw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "04eba54edd21",
       "title": "West Nile virus detected in mosquitoes from 13 Orange County cities - KTLA",
       "published": "2026-07-08T20:32:10+00:00",
-      "summary": "West Nile virus detected in mosquitoes from 13 Orange County cities&nbsp;&nbsp;KTLAOC uses multiple tools to fight booming mosquito population&nbsp;&nbsp;Spectrum NewsTest showing infected mosquitoes underscores West Nile risks in county&nbsp;&nbsp;Ventura County StarYolo County mosquito sample tests positive for West Nile&nbsp;&nbsp;KCRAVentura County detects first West Nile virus-positive mosquitoes of 2026&nbsp;&nbsp;NBC Los Angeles",
+      "summary": "West Nile virus detected in mosquitoes from 13 Orange County cities&nbsp;&nbsp;KTLAMore mosquitoes found infected with West Nile in Orange County, now in 10 cities&nbsp;&nbsp;Orange County RegisterOC uses multiple tools to fight booming mosquito population&nbsp;&nbsp;Spectrum NewsMosquito sample in Yolo County tests positive for West Nile virus&nbsp;&nbsp;YahooWest Nile Virus Detected in Ventura County Mosquito Sample For The First Time This Year&nbsp;&nbsp;News Channel 3-12",
       "sources": [
         {
           "name": "KTLA",
@@ -213,23 +333,11 @@
       "id": "147b8fcf41ca",
       "title": "Fish Oil Pills May Not Boost Brain Health After All - Newser",
       "published": "2026-07-08T20:15:00+00:00",
-      "summary": "Fish Oil Pills May Not Boost Brain Health After All&nbsp;&nbsp;Newser",
+      "summary": "Fish Oil Pills May Not Boost Brain Health After All&nbsp;&nbsp;NewserAre omega-3 supplements actually good for your brain?&nbsp;&nbsp;The Seattle TimesFish Oil Supplements May Not Help Stave Off Dementia After All&nbsp;&nbsp;WIREDCould We Have Been Wrong About Fish Oil and Brain Health? New Study Raises Major Questions&nbsp;&nbsp;SciTechDailyDementia and omega-3 supplements: Do fish oil supplements really help in brain health? New study has stark revelations&nbsp;&nbsp;The Times of India",
       "sources": [
         {
           "name": "Newser",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNclZrTTYzaFlOcGhYMDdjS19pWF9oYWNFQmQ4VTBMZGE5ZXhlNk1GNVNlYW9oUUpNMmtFRlRQTDduNl9fY3B6d2tSN2wzQ3VqS05WU253eW1DSGwtcWR3QjlyU0RMc1UwNjZZLVVlQXZPdHhTWVhUSUdZSmpaMTlQc05ycnY4cGZiMkl0T1FnaEdrSnN3WE53?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "29a28639263e",
-      "title": "Cancer cases to double in next 25 years, WHO warns, as science can’t keep up with the costs - The Independent",
-      "published": "2026-07-08T19:37:00+00:00",
-      "summary": "Cancer cases to double in next 25 years, WHO warns, as science can’t keep up with the costs&nbsp;&nbsp;The IndependentWHO calls for urgent action as new cancer cases are projected to nearly double by 2050&nbsp;&nbsp;World Health Organization (WHO)Cancer cases worldwide are expected to soar in the coming decades, a report finds. Here’s why.&nbsp;&nbsp;The Washington PostCancer cases expected to soar worldwide, WHO report finds&nbsp;&nbsp;The GuardianGlobal breast cancer survival estimates in 2017",
-      "sources": [
-        {
-          "name": "The Independent",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa21pRFlTMU1zN21rV19DUTJrV0JkdTJjNDNJaWlGN2x1ZXpucThCU0U0ZDdKRTh3U3p6cGg5YnQ1TmJ3Q043SjZ4T0VvRkhuUTM1Wk5lVU1HMTE4bnhLWU1TRG84R052UXpQZUdFRU83dU1sb3VMYkVETE9ZUDU5QmExWUFYUHdYYVhkRU9aNU5pS2c?oc=5"
         }
       ]
     },
@@ -242,6 +350,18 @@
         {
           "name": "FOX Weather",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb01zMF9rMVBuWkRyamRRb3owdDBVb0RqVjFRLUYtR2tBQXk1MjB1aEhqbWsxWXdLTTVqVG5BRUN6T1JST0pxeXg3T2h6RlFVd0Y1U1hfZ0lSZ0UyOGg0OEhNZ0I2YzQtVXJTbkM5WXRfa2w0TDVGOHBjUURWVWtIbkZ6Zl9QYnhBYTdteTB6aU5NUGRPaWQ3OUdEbi1pdGfSAaQBQVVfeXFMTzRncXNKdjUwNkpUdWEwS1VWU0NHNkVKUllUbUhCRHJ6VXJRRVBTXzVBOHR2SEowRFN3bkZ1ZzNRQ1FrcC04VlJqQXlyM3N5eGJPdDN0Skw1QUtUdlNZOFl1WXBNek9hMDJWUmRzWXVTaWZCZXU5YlZCSEg0N21vLUVGM0lpa3dlMmtaQ0c2Y3ZYLXVzOGFObjI5RWN3bURHTDBqb3o?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "adb2927c8914",
+      "title": "The Branching Dendrite Secret Behind Human Cognitive Superiority - Neuroscience News",
+      "published": "2026-07-08T18:17:45+00:00",
+      "summary": "The Branching Dendrite Secret Behind Human Cognitive Superiority&nbsp;&nbsp;Neuroscience NewsHuman brain cells may be far more powerful computers than scientists thought&nbsp;&nbsp;The Brighter Side of News",
+      "sources": [
+        {
+          "name": "Neuroscience News",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JVWFsQWZkRjNfdnFlc0s5YTk5YWMzWGNCQ3VhWWhZckpwNm1mQlZyWGRodS02Z2tZcnlaZ2FBVDg3MkxzUXktRTRYWEdxend2TG9TYlhLYnhQX09XaHVCSmZYbDJqNndaMGhFQkFOQlNINGg3U00zS3Bn?oc=5"
         }
       ]
     },
@@ -261,23 +381,11 @@
       "id": "037923db9421",
       "title": "Dimming the Sun Would Help Lower the Risks of El Niño. No, Really - WIRED",
       "published": "2026-07-08T18:00:00+00:00",
-      "summary": "Dimming the Sun Would Help Lower the Risks of El Niño. No, Really&nbsp;&nbsp;WIREDAnother Super El Niño is brewing. Scientists are looking at a controversial solution to squash them&nbsp;&nbsp;CNNCan geoengineering blunt El Niño’s fury?&nbsp;&nbsp;Science NewsCould We Mitigate Super El Niños by Artificially Changing the Climate? A New Study Indicates Yes&nbsp;&nbsp;Smithsonian MagazineSeeding clouds with seawater could prevent a super El Niño&nbsp;&nbsp;New Scientist",
+      "summary": "Dimming the Sun Would Help Lower the Risks of El Niño. No, Really&nbsp;&nbsp;WIREDAnother Super El Niño is brewing. Scientists are looking at a controversial solution to squash them&nbsp;&nbsp;CNNCould geoengineering work to tamp down super El Niños?&nbsp;&nbsp;Phys.orgCan geoengineering blunt El Niño’s fury?&nbsp;&nbsp;Science NewsSeeding clouds with seawater could prevent a super El Niño&nbsp;&nbsp;New Scientist",
       "sources": [
         {
           "name": "WIRED",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xU1lDdmUwdUZLOTN6R2oxZVFzTHJ6TFNocEtOblBtQWFKeTJuaThNaWtkSVNrelk1bXdCb2sxeDg2ZnUtZEFKR2xWTjdGWHlXd2JEcFdfVTRPUGFsSHlBWmhOYjQ5M1ViVXhjak9yS1RkSXhqbnJ2NjRpTGVSQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "05afa52f1f89",
-      "title": "NASA's New Horizons probe awakens after long hibernation near Pluto - upi.com",
-      "published": "2026-07-08T17:18:18+00:00",
-      "summary": "NASA's New Horizons probe awakens after long hibernation near Pluto&nbsp;&nbsp;upi.comNASA's New Horizons probe just woke up from hibernation 6 billion miles away beyond Pluto. What's it doing out there?&nbsp;&nbsp;SpaceNASA’s New Horizons Spacecraft Wakes from Hibernation in Good Health&nbsp;&nbsp;NASA Science (.gov)New Horizons Watches the Solar Wind as it Slows Down&nbsp;&nbsp;Universe TodayNASA's New Horizons spacecraft reaches 6 billion miles from Earth&nbsp;&nbsp;Mashable",
-      "sources": [
-        {
-          "name": "upi.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ0JZWkxoMjJoMjRQRlRhWDhPNVZQVXZVbWdsZXp1bWt0YVd5YmZPX3hRcmVLb3pOYzEzWU1oazBSbG0tZ1hqTV9SOEMwR2EzMjJmcXJJVUlockpaQ2I1MmdxWEdmTkpNVTFzR21Dc0ctdkZpTUhQUy1mTjRFbUZCRkhVZVdDdzZM0gGOAUFVX3lxTE45V1RpclhnMVlXTkd1d1VRNUo5U0ROeTJ3RnROal9FejQxSmZrM29NNGluS1ZOMGFDTTFqalByRzRzMHFncGpkQUVoOWwtVEw1Z0pKRHhZRWJyWExpaGlkT2lUYnFwNkt0bTE0dU9BV1h0ZGlkVjdRNDU4S1RoYmVMekY5cWNhZDFIRERvTUE?oc=5"
         }
       ]
     },
@@ -294,14 +402,26 @@
       ]
     },
     {
-      "id": "99b406a5a49e",
-      "title": "Bryan Johnson’s chronic disease is notoriously difficult to diagnose - STAT",
-      "published": "2026-07-08T16:13:58+00:00",
-      "summary": "Bryan Johnson’s chronic disease is notoriously difficult to diagnose&nbsp;&nbsp;STATHow did Bryan Johnson end up with an autoimmune disease?&nbsp;&nbsp;Northeastern Global NewsI'm a Longevity Doctor. Bryan Johnson's Diagnosis Reminds Us That Longevity Isn't About Perfection.&nbsp;&nbsp;Outside MagazineBiohacker Bryan Johnson says he has incurable disease: ‘My stomach is eating itself’&nbsp;&nbsp;Global NewsA woman who has autoimmune gastritis, the same condition as Bryan Johnson, shares what it'",
+      "id": "f2d0d4a8eab4",
+      "title": "Last American polio survivor in an iron lung dies at 78 - KXAN Austin",
+      "published": "2026-07-08T16:35:18+00:00",
+      "summary": "Last American polio survivor in an iron lung dies at 78&nbsp;&nbsp;KXAN AustinSee more headlines & perspectives on Google News",
       "sources": [
         {
-          "name": "STAT",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUlFQRHFkYWdDZkNSelloQ1E1Nm9xM3VkUzhiX1RUMkp4aVVzM1hRSWRfVEhucWFNai1TVFlRNWF2RzNfakc3ZkhoMk1TSGtkZFNoZEhwNjJTOEhXSGt0bDFLYm42LXRPQVVCX0ZwMU1RT0xpWTFienR1aFpGWkdhM0NGbXEtOEpqOVBrWmR0ZEtRNTcyeEE?oc=5"
+          "name": "KXAN Austin",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVDQtaDd4bU1tRldqeXY3UDZURVAyWkJwT2hNVUl5b29vTmRudXJMNVplMzlrNDRGaHZVTUc2SWZ6MzhYTEhDQ0NhSU1pQ0xPZjZNZXlocGw1UUEtRzF1NzBkM1pyVlM0VTF3QmpTZlUxcEtLMUJNY29PUnRlUVh5am5SMHpaUkJVYU5RNmgzbXdjcUnSAZgBQVVfeXFMT1k3UlFPWUhvdjNrYXdqSVY0d1hENUR4X1B0elc1YzVqd3JLQWZvdE5aWkEyTC1HZWM0ZlY1TjVVcjlhLWVsanFLa1JUMEE0c0J6RzlRR2laMi0yV3dBcjY1OVhFOHQ2LTZjaEttRUVKYWNjMmRGdWNka2FMMEd5Y3N5WTdqUDRCMHRsMEhEemJUMTVjV1BCaGo?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d7f55aa4735f",
+      "title": "Why a gene-editing breakthrough has some experts worried - CNN",
+      "published": "2026-07-08T16:15:55+00:00",
+      "summary": "Why a gene-editing breakthrough has some experts worried&nbsp;&nbsp;CNNThe Guardian view on gene-edited humans: darker uses must be acknowledged alongside medical ones | Editorial&nbsp;&nbsp;The GuardianClosing the gap between discovery and care&nbsp;&nbsp;Healthcare TodayGenetically Modified Babies Near Reality, But Ethics Debate Continues&nbsp;&nbsp;La Voce di New YorkHuman Embryo Gene Editing Shows Promise, Faces Ethical Hurdles&nbsp;&nbsp;Ratopati",
+      "sources": [
+        {
+          "name": "CNN",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BT2NoSWF3VU54cmg2ZnZQbnNBVkFVUFQtRXJYM1hBOUMzZmZxaFZHSE5VSGFhYi1YdWhIelZEV0hzM2tUZ3QyMjNNMWl6YURETnN6SWpUaC1wdllVWTZsWTVQemdFdUtNS21rVFpnbUptZw?oc=5"
         }
       ]
     },
@@ -309,7 +429,7 @@
       "id": "897663e6da7f",
       "title": "Chromatin landscape and epigenetic heterogeneity of acute myeloid leukaemia - Nature",
       "published": "2026-07-08T16:08:20+00:00",
-      "summary": "Chromatin landscape and epigenetic heterogeneity of acute myeloid leukaemia&nbsp;&nbsp;NatureEpigenetic mapping provides deeper insight into leukemia&nbsp;&nbsp;Medical XpressEpigenetic Variation Shapes Chromatin in Acute Myeloid Leukemia&nbsp;&nbsp;Bioengineer.orgA genomic and epigenomic lens into the biology of acute lymphoblastic leukaemia&nbsp;&nbsp;NatureGenomic and Epigenomic Insights into Acute Lymphoblastic Leukemia&nbsp;&nbsp;Bioengineer.org",
+      "summary": "Chromatin landscape and epigenetic heterogeneity of acute myeloid leukaemia&nbsp;&nbsp;NatureDecoding the epigenome that shapes Leukeamia diversity&nbsp;&nbsp;EurekAlert!Epigenetic mapping provides deeper insight into leukemia&nbsp;&nbsp;Medical XpressEpigenomic Analysis Uncovers New AML Subgroups and Drug Sensitivities&nbsp;&nbsp;Genetic Engineering and Biotechnology NewsUnraveling the Epigenome Behind Leukemia Diversity&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
           "name": "Nature",
@@ -330,14 +450,14 @@
       ]
     },
     {
-      "id": "f5cb60f88ef2",
-      "title": "We Asked a Doctor Whether Daily Creatine Is Safe Long Term - Verywell Health",
-      "published": "2026-07-08T16:02:42+00:00",
-      "summary": "We Asked a Doctor Whether Daily Creatine Is Safe Long Term&nbsp;&nbsp;Verywell HealthYou Don't Need to Be a Bodybuilder to Take Creatine&nbsp;&nbsp;WIRED Middle EastNational Creatine Day: Why One of the Most Researched Supplements Still Deserves the Spotlight&nbsp;&nbsp;BOXROXShould you be taking creatine? Here's what the science says&nbsp;&nbsp;Yahoo Health",
+      "id": "3e6fc15996a5",
+      "title": "Aneuploidy selects for the acquisition of driver genes in breast cancer - Nature",
+      "published": "2026-07-08T15:36:13+00:00",
+      "summary": "Aneuploidy selects for the acquisition of driver genes in breast cancer&nbsp;&nbsp;NatureA long‑standing mystery in the deadliest breast cancer just yielded 81 new treatment targets&nbsp;&nbsp;Medical XpressSinai Health Mouse Study Has Identified 90 Genes Driving Basal-Like Breast Cancer, 81 of Which Had not Previously Been Linked to the Disease&nbsp;&nbsp;EurekAlert!Aneuploidy Drives Acquisition of Key Genes in Breast Cancer Progression&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
-          "name": "Verywell Health",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oMVZfVGtqeWV3dDRyU2NPV0I5c3RKb3RESUlBdEVTUGhydkkzZVBCenJwOUNiZHkyUkZ1VmpQVjlUejg2N1NCc2h2b2VlakJQNGoydzhiRDU2R2UxdldMVjhxRkhVWENrMGwyTC0xZmppTklBTzRQNA?oc=5"
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82LWJYYnlQWVY1T0lKUmp2OHk2MElhUDZqRUNzanJpMXZPX3dMUXZnNWwya2dsRUpaaU85VkFVWjRZM0dEMzRzNTJTMVhESlJFQWJzX0dMZHQ2VGpnbFZZ?oc=5"
         }
       ]
     },
@@ -350,18 +470,6 @@
         {
           "name": "Nature",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3MnZ5VW54a0RGa05ObEtsVlF5MUItc25BT3JjallQbUxDbTVfcU1HZFRvSm9oZ285OU1WcnR6NmhWWllrZENyV21jS0t2T1d3am1faUFnejB0Q3Q1ZDRn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "25a346f7e548",
-      "title": "Non-genotoxic transplantation and in vivo selection through epitope editing - Nature",
-      "published": "2026-07-08T15:36:12+00:00",
-      "summary": "Non-genotoxic transplantation and in vivo selection through epitope editing&nbsp;&nbsp;NatureChemotherapy-Free Bone Marrow Transplants Move Closer to Reality&nbsp;&nbsp;the-scientist.comGene Therapy Improves Stem Cell Transplant Success&nbsp;&nbsp;LabrootsGenome-edited stem cells dodge antibodies, raising hope for chemo-free transplants&nbsp;&nbsp;Medical XpressEpitope Editing Enables Safe Transplantation and In Vivo Cell Selection&nbsp;&nbsp;Bioengineer.org",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjcTNoMVNneDktNWwwLUNvZFE4Vkc3NFRFR0tyc0Q5ZXJpXzFyRE95cXVjVmR1ZWV6RktyTEU1QXAyZTIxWmNlZWFoOFJHRENrMnZkVlVZMUg2Sy1VQ3hZ?oc=5"
         }
       ]
     },
@@ -390,22 +498,10 @@
       ]
     },
     {
-      "id": "6ab0f360fdcc",
-      "title": "Creating synthetic life in a lab? SpudCell falls short of the goal, but raises even more useful questions - The Conversation",
-      "published": "2026-07-08T12:46:14+00:00",
-      "summary": "Creating synthetic life in a lab? SpudCell falls short of the goal, but raises even more useful questions&nbsp;&nbsp;The ConversationWorld’s first synthetic cell with a complete life cycle could revolutionize biological engineering&nbsp;&nbsp;University of Minnesota Twin CitiesSpudCell: Scientists Made a Cell With Most of the Hallmarks of Life. Here’s What to Know.&nbsp;&nbsp;The New York TimesReaders Write: U scientist’s discovery, Karen Clark, state flag, the midterms, Angie Craig&nbsp;&nbsp;S",
-      "sources": [
-        {
-          "name": "The Conversation",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQX1dQdl9yeEhtTVkyQ29tRlg3YUVZaTlvN01Nbzc3VU9takRQSWJWa1NXUGxrTmMxQVVTRlNmRnJzTGxiOGJjYlNOaG1GdURTVzJEVThBX3o5R0MzdGNYM1J2ZWJxSkdIYU5CS19RMjZLWlhDdzhfOUwwdmVJMVFSV2N3cXBiampMdjRrMGNvcjAtS0RiOWZVOXlzOFBZdmt4OTRfbFVTMnlGNVk3aWw2UkFxRmM0SnlaX3BrMkNOcXAwSTVSZVp4dkgwWkZuOXROcC1idQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6e6dd940df5c",
       "title": "Humans And Neanderthals Shared a Culture For 20,000 Years, Cave Discovery Suggests - ScienceAlert",
       "published": "2026-07-08T12:00:40+00:00",
-      "summary": "Humans And Neanderthals Shared a Culture For 20,000 Years, Cave Discovery Suggests&nbsp;&nbsp;ScienceAlertUnlikely cave discovery suggests Neanderthals and humans shared a common culture&nbsp;&nbsp;CNNAncient Turkish Cave Reveals Neanderthals and Homo sapiens Shared Same Way of Life&nbsp;&nbsp;Sci.NewsArtefacts hint at cultural exchange between Neanderthals and humans&nbsp;&nbsp;New ScientistNeanderthals and modern humans may have shared culture 59,000 years ago in Turkey, study finds&nbsp;&nbsp",
+      "summary": "Humans And Neanderthals Shared a Culture For 20,000 Years, Cave Discovery Suggests&nbsp;&nbsp;ScienceAlertUnlikely cave discovery suggests Neanderthals and humans shared a common culture&nbsp;&nbsp;CNNAncient Turkish Cave Reveals Neanderthals and Homo sapiens Shared Same Way of Life&nbsp;&nbsp;Sci.NewsDid our modern human ancestors and Neanderthals share a common culture?&nbsp;&nbsp;Scientific AmericanArtefacts hint at cultural exchange between Neanderthals and humans&nbsp;&nbsp;New Scientist",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -417,7 +513,7 @@
       "id": "20220af3b942",
       "title": "West Nile is spreading faster than it has in 20 years. Here’s how to keep yourself safe - Los Angeles Times",
       "published": "2026-07-08T12:00:00+00:00",
-      "summary": "West Nile is spreading faster than it has in 20 years. Here’s how to keep yourself safe&nbsp;&nbsp;Los Angeles TimesCDC Encourages Americans to Stay Mosquito Bite-Free during America's 250th Independence Day holiday weekend&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)Nebraska Health Officials Urge Vigilance as West Nile Virus Season Begins&nbsp;&nbsp;North Platte PostWest Nile virus season gets late start in Tulare County&nbsp;&nbsp;Visalia Times-DeltaWest Nile Virus Activi",
+      "summary": "West Nile is spreading faster than it has in 20 years. Here’s how to keep yourself safe&nbsp;&nbsp;Los Angeles TimesCDC Encourages Americans to Stay Mosquito Bite-Free during America's 250th Independence Day holiday weekend&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)West Nile Virus Activity Climbs in 2026, Primarily Impacting Arizona&nbsp;&nbsp;Drug TopicsWest Nile virus season gets late start in Tulare County&nbsp;&nbsp;Visalia Times-DeltaWest Nile virus season comes earl",
       "sources": [
         {
           "name": "Los Angeles Times",
@@ -429,7 +525,7 @@
       "id": "ed4d5588a52f",
       "title": "Doctors Say This 'Embarrassing' Symptom Could Be A Warning Sign Of Colorectal Cancer - HuffPost",
       "published": "2026-07-08T11:00:17+00:00",
-      "summary": "Doctors Say This 'Embarrassing' Symptom Could Be A Warning Sign Of Colorectal Cancer&nbsp;&nbsp;HuffPostDoctors say this awkward symptom deserves immediate attention&nbsp;&nbsp;Cleveland.comOnce a Disease for People Over 65, Doctors are Seeing a Surge in Cases Among Millennials and Gen Z&nbsp;&nbsp;Men's HealthScientists Warn: Colorectal Cancer Is Rising Fast in Younger Adults, Reversing Decades of Progress&nbsp;&nbsp;SciTechDailyBowel cancer at 36: Aussie mother shares warning as cases rise in ",
+      "summary": "Doctors Say This 'Embarrassing' Symptom Could Be A Warning Sign Of Colorectal Cancer&nbsp;&nbsp;HuffPostOnce a Disease for People Over 65, Doctors are Seeing a Surge in Cases Among Millennials and Gen Z&nbsp;&nbsp;Men's HealthScientists Warn: Colorectal Cancer Is Rising Fast in Younger Adults, Reversing Decades of Progress&nbsp;&nbsp;SciTechDailyYou’re not too young for bowel cancer&nbsp;&nbsp;ScitechDoctors say this awkward symptom deserves immediate attention&nbsp;&nbsp;Cleveland.com",
       "sources": [
         {
           "name": "HuffPost",
@@ -441,35 +537,11 @@
       "id": "70c0ead0a5f9",
       "title": "One walking habit could signal a healthier brain after 80, scientists say - Fox News",
       "published": "2026-07-08T11:00:15+00:00",
-      "summary": "One walking habit could signal a healthier brain after 80, scientists say&nbsp;&nbsp;Fox NewsOlder adults who walk faster may cut their risk of cognitive decline by half&nbsp;&nbsp;Medical News TodayFast walkers in their 80s cut their risk of cognitive decline by half, a study finds&nbsp;&nbsp;NPR‘Super movers’ have half the risk of brain decline in old age — even if their brains show signs of dementia&nbsp;&nbsp;New York PostStudy: 80-Year-Olds Who Walked at This Speed Were Less Dementia-Prone&",
+      "summary": "One walking habit could signal a healthier brain after 80, scientists say&nbsp;&nbsp;Fox NewsFast walkers in their 80s cut their risk of cognitive decline by half, a study finds&nbsp;&nbsp;NPRAging brain: Walking faster may slash cognitive decline risk by 50%&nbsp;&nbsp;Medical News Today‘Super movers’ have half the risk of brain decline in old age — even if their brains show signs of dementia&nbsp;&nbsp;New York PostStudy: 80-Year-Olds Who Walked at This Speed Were Less Dementia-Prone&nbsp;&nbs",
       "sources": [
         {
           "name": "Fox News",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc0RkUlZ3MUI3bG1WYmdGS3VvSkQtaGJJOU9jNDVVXzgxb1BSOFJZeENlNjl5WktsVEs0ZXdJaktBTjNaWDZjak1NVTZ1SWk0ZDJ3VUpTWUR3ajlURW1LdWFPTktRMm5obDRiOFdPeVBqdFYxX0lwMGtMYjE0U3ZUbThvc0ljR3hLNnJNbG1sYXRMOHJMbFHSAZsBQVVfeXFMUG1iU0U3MWJPdkRGemRERDBiUDM4aG9KWU9nYldTdTA4Q0Q3alNJZkgydUVLWm9aY3IxZ3h2ZkJUZmJTazZoVUxnbENNY2FkdUp1clo1alY3MTBtNEpsYl8wX1JjYm11YTRNMjY3UnhDejV3VjU2RmNGTXN3OG9LTUZwV3pMRmdnYXRxWWx1X182bXBBUlVKZ3FlNU0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cdeea16e7101",
-      "title": "The 7 Best Berries for Your Health, Ranked by Dietitians - Food & Wine",
-      "published": "2026-07-08T11:00:00+00:00",
-      "summary": "The 7 Best Berries for Your Health, Ranked by Dietitians&nbsp;&nbsp;Food & WineHow to ‘Upgrade’ Your Fats for Heart Health and the Fat You Should ‘Never’ Eat, Doctor Says&nbsp;&nbsp;TODAY.comChoose Smart Fats, Not No Fats&nbsp;&nbsp;HospiBuzNutrition Meet Promotes Healthier Cooking Choices&nbsp;&nbsp;The Hans IndiaThe 5 Healthiest Fats You Can Eat&nbsp;&nbsp;AOL.com",
-      "sources": [
-        {
-          "name": "Food & Wine",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zVk0xQWFPNjhSbzdqSTVHdGt1NmZHbERLX2Y5R1A1RnhUWTg5eko4eXFpVEN0VlpNNW1uVlcxYTNfSmJDM3VRSHgtYUdkS0Y2YVFRYkkwTHVrWVJSQ0ttbnRJbzE0SDJVVi1BdTJGcw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1f1195a94ace",
-      "title": "Liver Steatosis Common in Women Referred for PMOS - Medscape",
-      "published": "2026-07-08T10:26:14+00:00",
-      "summary": "Liver Steatosis Common in Women Referred for PMOS&nbsp;&nbsp;Medscape",
-      "sources": [
-        {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMXRuZlQySEpBVW9IQnM4bmZXa3lWVXkyOXd4dUo0SGxLb2hEWEhTenVVXzY5R0RIYXNHdVVteWdteGFib18xNlg3N1JKRGp6bmF0MFJ3WEotNGtqM3VoeXZvdWNwOXdYVUEydXktRms2cXdFV0Iza0NhSmJXbHYtQU9WTk5DZ05TWFRLUnNUbG0wUld3TURqaUhSSy11UEVVNFIwVExDSQ?oc=5"
         }
       ]
     },
@@ -482,30 +554,6 @@
         {
           "name": "The Conversation",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVFZtN3BwUXlQTXJMVHdqQjRiY1hiLXVfTEhNRm5sUy1rYkVla2tUaVlCYzB1UnFjNllubVlLcWRzNEtTNy0yaHdCLVppby1DTkxicWx0cGhUcTNfTlk0eHIyUW1nSDhJSG0yMnpZd3RzeGFKZjlYbFdqQUpYcHhXVHotd3Zuakg4UWVKVWpUdC1RTkI1aXYxNVBKZ1A3U1pvNERtemJWUGlaTkFGaE9JT083d3I?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c10d50b552ef",
-      "title": "A fossil older than dinosaurs by 200 million years has preserved something incredibly rare - The Times of India",
-      "published": "2026-07-08T10:00:00+00:00",
-      "summary": "A fossil older than dinosaurs by 200 million years has preserved something incredibly rare&nbsp;&nbsp;The Times of IndiaPaleontologists make 'one in a million' discovery of soft tissue preserved in 450-million-year-old fossil&nbsp;&nbsp;Phys.orgScientists Find Super-Rare Soft Tissue Fossil From 450-Million-Year-Old Sea Creature&nbsp;&nbsp;GizmodoAstonishing 450-Million-Year-Old Fossil Preserving Soft Tissue Is \"One In A Million\"&nbsp;&nbsp;IFLScienceAstonishingly Well-Preserved Soft Tissues Disc",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeUxKTWdON1pxTmJpWXpmN1F1Z3Nxa1BYQjk2WkRUbm9kbFRuXzhEbDdWS1BDdlNOYVRNVlpkcjhHT0FDQUhwbUdVd19oZ0hIWThDMTJaNFN5RDBMN2htMkZyNXZsVllBc1E3bUczMko3dnBoTG9fcVpBSzNtOHdEbzRuVFhkcU9FUWVCQnM5dWFOS2c2YnhNZW1Ldks1TktQd1ZMVlZGZUVaY015aWxDMFpldUppOE1wUS1OeU5nU0I1cHFSdEVDcmMteWR3R09LS0UtenlwZFJmQXBCZGs2M3FOZmNkQ0ZHdTFOdmxvNzBqd9IB9wFBVV95cUxQMVFXSVRzaHZWd3V2TmVUZ1EyRHZidXI5NTZSUm5lNlJyMXM1dGM2azYtcFZ5b3RuU2p6aFg4c1VkeWpSR1ZEMHlua09CTHRCZ3RndDRsR0VJTDdVd2FVZXY4bGNuejF0RV9DOXZmRmtnUzQzbzJNLWk0TmNxdzd3WXFRcGlvTHpiUVJZZS1aTm9Zbm5tVERreXlJeWlUNU4xMEcwVEhoQ1J5NnU5aThBcUw3ODVDZzlScGpjVVI5Z1QtQ2w1QXdnRWpvQ1VMd25kMERvVUYyX2dWeXVzaWtwVTFqVmJxV20yYWF1WEVPTlFvUWlfX3NZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4366e8c30ebd",
-      "title": "What happens to your brain in space? - BBC",
-      "published": "2026-07-08T09:06:01+00:00",
-      "summary": "What happens to your brain in space?&nbsp;&nbsp;BBCBrain scans of ISS astronauts show the organ quietly re-weighting its own senses during six months in orbit — turning down the silent inner ear and leaning almost entirely on the eyes to build a world with no down&nbsp;&nbsp;Space DailyWhat happens to our brain in space? The surprising truth discovered by scientists&nbsp;&nbsp;Zamin.uzRepeat Space Missions Do Not Appear to Worsen Eye or Brain Structural Changes: JAMA&nbsp;&nbsp;Medical Dialogues",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWnRhekwzUlU1SG5kLUhNVDA5clZVU29wNXQxZE9RRzRjc3NtWmZDa3JKYjhyWlVCNnlBb1BzMEtGNmZBMXc1MEE1NjhtTW1hZEhvWGVEU3lZay1qcXg0M1BxUUFfX2Ric2pTZFNGaVlxeGtMajBudy1pdFNFdHpxNHZhOTRwZw?oc=5"
         }
       ]
     },
@@ -525,35 +573,11 @@
       "id": "d1e4caa1b54b",
       "title": "Astronomers perplexed by new James Webb Space Telescope photos unveiling secrets of a galaxy 11 million lig... - Yahoo",
       "published": "2026-07-08T07:15:00+00:00",
-      "summary": "Astronomers perplexed by new James Webb Space Telescope photos unveiling secrets of a galaxy 11 million lig...&nbsp;&nbsp;YahooNASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision&nbsp;&nbsp;NASA Science (.gov)\"Red monsters\" in space: why these ancient galaxies shatter scientists’ beliefs&nbsp;&nbsp;Futura, le média qui explore le mondeJames Webb Space Telescope celebrates its 4th birthday with stunning image of a galaxy crash site&nbsp;&nbsp;SpaceWebb Reveals Hidden Heart of Centaurus A",
+      "summary": "Astronomers perplexed by new James Webb Space Telescope photos unveiling secrets of a galaxy 11 million lig...&nbsp;&nbsp;YahooJames Webb Space Telescope celebrates its 4th birthday with stunning image of a galaxy crash site&nbsp;&nbsp;SpaceWhen Galaxies Clash&nbsp;&nbsp;Nautilus | ScienceWebb Reveals Hidden Heart of Centaurus A&nbsp;&nbsp;Sci.NewsWebb reveals millions of stars in nearby galaxy&nbsp;&nbsp;European Space Agency",
       "sources": [
         {
           "name": "Yahoo",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYllUOFE2R3RBWGk3ai1CcWNPajNjOXliRE1VU1FYQTh3bDk1QlctLWI1a0Fhb1RHZmk3bVVsVkxBZG1Vb1NEaUJFdlpfbGk1N21Udi04NkNpWHR6em1pSzF5R3RmSExFRmZmakdfaktIaGF1ZVcwcG1MdEVUdll2ODc1ejNEUEVnZVRLUUVRVFBrTkpYay0zcnZEdlk3dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "82bb500f10e9",
-      "title": "Could Creatine Boost More Than Muscles? It May Also Help Depression - SciTechDaily",
-      "published": "2026-07-08T03:26:56+00:00",
-      "summary": "Could Creatine Boost More Than Muscles? It May Also Help Depression&nbsp;&nbsp;SciTechDailySee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMnl1Umh4aUdSY29Jc3hGU1VERHg5QXU2bk9GX1VkX1BVc1YwaEpqanZzaE5PYnVnVzg5ekpXbDg1aU4yWWJTRlhtaHB2RWpzb0d4Q1dibUltU2VmT2M2Snc5d3lxM3hBMGNscGRUSXZ0QlplV1hXc2ExR01YbmlNU2xLOVM4V29CYndqcVZvYTlGYTBBcWx3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d15be57942e1",
-      "title": "San Diego confirms first locally acquired case of Chagas disease spread by the kissing bug - cbs8.com",
-      "published": "2026-07-07T20:07:00+00:00",
-      "summary": "San Diego confirms first locally acquired case of Chagas disease spread by the kissing bug&nbsp;&nbsp;cbs8.comThis US region sees its first locally acquired 'kissing bug' disease case&nbsp;&nbsp;USA TodayCounty Health Officials Report First Locally Acquired Chagas Case&nbsp;&nbsp;San Diego County News CenterRoutine blood testing reveals county’s first case of locally acquired Chagas disease&nbsp;&nbsp;San Diego Union-TribuneSan Diego confirms first local Chagas infection. Expert says ‘be smart’&",
-      "sources": [
-        {
-          "name": "cbs8.com",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZUZnTnhJZ0FkX2hPQ0JTMm1zSWQzdTVZVjd2ZjB5eUgza2NMSUk3bkdDN3VqYUo2blZwTXpBRDAwbHpkdExCeXRPNEhBOHpTMW55YTBxckFILWo0M0Z1bjBNVG9TLVZWLVlSQWttcFdkdTBlelNLY2wta3pCRWZqRmtYSS1LemhpSVdyMVFSdzZkQ0d1NDF4TERVNmdYZGVpYldJSDlqb1pGamRmUkRvUkFRWW91TWs3M1U5QndlTQ?oc=5"
         }
       ]
     }

@@ -1,26 +1,38 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-07-10T14:33:14.998888+00:00",
-  "total_fetched": 106,
-  "unique_count": 106,
-  "health_related_count": 50,
+  "fetched_at": "2026-07-10T19:36:37.223987+00:00",
+  "total_fetched": 95,
+  "unique_count": 95,
+  "health_related_count": 43,
   "news": [
     {
-      "id": "cc9d1ffc355f",
-      "title": "NASA's New Horizons spacecraft reaches 6 billion miles from Earth - Mashable",
-      "published": "2026-07-10T13:43:29+00:00",
-      "summary": "NASA's New Horizons spacecraft reaches 6 billion miles from Earth&nbsp;&nbsp;MashableNASA's New Horizons probe just woke up from hibernation 6 billion miles away beyond Pluto. What's it doing out there?&nbsp;&nbsp;SpaceNASA’s New Horizons Spacecraft Wakes from Hibernation in Good Health&nbsp;&nbsp;NASA Science (.gov)NASA's New Horizons probe awakens after long hibernation near Pluto&nbsp;&nbsp;YahooA NASA satellite just woke up from hibernation in deep space. Here is what it can tell us&nbsp;&nb",
+      "id": "57d5ebe16f23",
+      "title": "Dozens hospitalized with cyclosporiasis as cases of gastrointestinal illness spike in 31 states - NBC News",
+      "published": "2026-07-10T16:29:15+00:00",
+      "summary": "Dozens hospitalized with cyclosporiasis as cases of gastrointestinal illness spike in 31 states&nbsp;&nbsp;NBC NewsWhy we don’t know what food is spreading the parasite sickening thousands&nbsp;&nbsp;The Washington PostCyclosporiasis cases are spreading across the U.S. — here’s how to protect your family and reduce risk of infection&nbsp;&nbsp;NBC NewsMap tracks spread of 'explosive' diarrhea outbreak. How to prevent infection&nbsp;&nbsp;USA TodayUS Cyclospora cases mount as CDC lags on tracking",
       "sources": [
         {
-          "name": "Mashable",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsTVE0MXp5SkNuNG1IS2dRMTV1ZlZISDE2cjFDS2ZYYmdlbGxUQUZwVmhMRlNSMjhiVlBhdDQ5aVJ1Q0VLTnZETktFZktXemhLVGU2dndOdklVMUo0UWRHd3UyTDhsUQ?oc=5"
+          "name": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWi15R3ZrcHczUENUbzFzNmliUXFrV0ZqQUR6clU0SkNhRnVuREFHWk9INzdERHJUZVBpSnZRbkViSWxNV0kzcUhyQWR2cGc5VEExcG5FVzMwdGZORWlEMXZlWUsxWjRsMXBxNU9JWDM2RnMtcFZnODh4WlRDWFMxeTd3TlZNTVlCNXdURHlrb1Ayc1RUS0RNMEQ2bzROeVJrTXZDSU5CUnk5SGwzVWxBYTdnZW1wbnE3bjY4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0b7201f7d448",
+      "title": "Legionnaires' outbreak hits New York as officials rush to test water towers - BBC",
+      "published": "2026-07-10T16:06:54+00:00",
+      "summary": "Legionnaires' outbreak hits New York as officials rush to test water towers&nbsp;&nbsp;BBCNYC Legionnaires' outbreak: 31 cooling towers among list of buildings linked to cluster on Upper East Side&nbsp;&nbsp;ABC7 New YorkWe mapped every UES cooling tower in the area affected by NYC’s latest Legionnaires’ outbreak&nbsp;&nbsp;GothamistWhy NYC council speaker and Health Department are at odds over Legionnaires outbreak&nbsp;&nbsp;NBC New YorkBacteria that causes Legionnaires’ disease found in Gugge",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85TG1PX1ZxSmk0N0pCY0pSVWdWRTVFbG9JanlvOENWOEdvVDVUZ20tb1dnWkxPT3FfUFkyT2lKSUJqWV9LX3Z6UUlKdDlaa1VEajF4VWdBM05tQQ?oc=5"
         }
       ]
     },
     {
       "id": "1d576aae6826",
       "title": "They met while being treated for brain injuries. Now they’re getting married. - The Washington Post",
-      "published": "2026-07-10T13:32:15+00:00",
+      "published": "2026-07-10T16:00:00+00:00",
       "summary": "They met while being treated for brain injuries. Now they’re getting married.&nbsp;&nbsp;The Washington Post",
       "sources": [
         {
@@ -30,14 +42,110 @@
       ]
     },
     {
+      "id": "7df04477e55f",
+      "title": "Listeria outbreak connected to Tampa restaurant, health officials say - WFLA",
+      "published": "2026-07-10T15:02:01+00:00",
+      "summary": "Listeria outbreak connected to Tampa restaurant, health officials say&nbsp;&nbsp;WFLAFive People, One China Buffet, and a Listeria Strain the State Found Right on the Counter&nbsp;&nbsp;Marler BlogListeria outbreak tied to Tampa buffet: Florida DOH&nbsp;&nbsp;Tampa Bay 28Listeria outbreak linked to Tampa restaurant&nbsp;&nbsp;wtsp.com",
+      "sources": [
+        {
+          "name": "WFLA",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRHBxTDVhVXFUd2t5SW9kN1RqZ0xobEdYb3Z6U0Z2bGxjYVp5MEpsZldTYkU4djZiQ29tR2d5ZGpyUDBodXpGZE1SdGM3dkZ5SG9RRnVOVkdfVVhVamMtRGZWUTRYMWJwSjRUNEV4NGhzQjNHY1ZPQlowRDhxYlZRRHZWbHdvQkloVGUzTnJRLU1KbHV1YU1LQko1aEY4ZzFWSGo5U21LZnhKVVUyakRtaXJrRDdiZ9IBuwFBVV95cUxQYmhCOGh4enduTVQyMUhfT2RDdzZ2NE5CZkZZZmlzUS1rQ0diNmEydWpUa0FNZ0lXeFRtVXpnc2RXcFZZLWdJajEyY2M5eUlyd2l1bThkUVJBYVpoRWlYaUstSXk1MFZmSXZnZloxcmZWMHQwMXBEX3BQTHlDbDVRYnFFQ18tQzFqcXBLUFlNQUpKMldVd0pLRW1ZNDBNQ1hKSmxjU2pzMTJzUGtqcDlDRm1FR1pGUFlENXp3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "784e0927cc03",
+      "title": "Lina Hidalgo sidelined by unexpected 'kissing disease' diagnosis - Chron",
+      "published": "2026-07-10T14:28:48+00:00",
+      "summary": "Lina Hidalgo sidelined by unexpected 'kissing disease' diagnosis&nbsp;&nbsp;ChronHarris County Judge Lina Hidalgo says she has mono, will scale back public appearances&nbsp;&nbsp;Click2HoustonHarris County Judge Lina Hidalgo stepping back from public events after mono diagnosis&nbsp;&nbsp;FOX 26 HoustonHarris County Judge Lina Hidalgo says she has mono, plans limited public appearances&nbsp;&nbsp;KHOUHarris County Judge Lina Hidalgo says mono diagnosis will limit public outings&nbsp;&nbsp;Housto",
+      "sources": [
+        {
+          "name": "Chron",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc2tLR2lnTm1NSXowSTJrbXlfanhWTnpXOWd0ZUxCUjBrYUhlRzJDenpyV3BzaFkwYTljYW9rWThiVnZaWVhfLXhxT09YSmZpX2NpQlJUQ0tkcEhXaVBNbC00Q0ZnQWJqeWRBYXg2N0RVY01FdHoycE1qdGFSQTFmU3gybE9HWkRld1RzX1ZWVkRHN2M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bf76cbaba692",
+      "title": "Trees May Not Slow Climate Change as Much as Scientists Thought - Gizmodo",
+      "published": "2026-07-10T14:10:29+00:00",
+      "summary": "Trees May Not Slow Climate Change as Much as Scientists Thought&nbsp;&nbsp;GizmodoTrees keep absorbing carbon long after they stop growing&nbsp;&nbsp;ScienceDailyCornell study finds climate models may overestimate forest carbon storage by up to 30% due to heat-slowed tree growth&nbsp;&nbsp;Energies Media",
+      "sources": [
+        {
+          "name": "Gizmodo",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZWtQNVRhRkNXbW1hUC1kVV8ybFd2WnZhQjY5b0g2UjZzTXNPTWNZekxvc21tVE01bVJrZmtLRWxmc18wN2k1UnFiQjdLWnJnWHFXRkFtSHZNbDd4dGttUUl3bGZtbnVxYjZ2NzMzT21GclgyVzk4a1hVMlVDSW9lS1AyY2laSTJRMFRFaEhpam1XMTFibU9UcVN3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2e27d5952e94",
       "title": "'Mitch' protein that could change the future of weight loss and fat burning - New York Post",
       "published": "2026-07-10T12:29:00+00:00",
-      "summary": "'Mitch' protein that could change the future of weight loss and fat burning&nbsp;&nbsp;New York PostStudy identifies key mechanism regulating how cells use fat to generate energy&nbsp;&nbsp;Phys.orgScientists discover a protein switch that burns fat and blocks new fat cells&nbsp;&nbsp;ScienceDailyTurning Off a Protein Called ‘Mitch’ Made Mice Virtually Immune to Obesity. Scientists Just Tested It In Human Cells&nbsp;&nbsp;ZME ScienceProtein discovery could help burn fat without losing muscle&nbs",
+      "summary": "'Mitch' protein that could change the future of weight loss and fat burning&nbsp;&nbsp;New York PostStudy identifies key mechanism regulating how cells use fat to generate energy&nbsp;&nbsp;Phys.orgScientists discover a protein switch that burns fat and blocks new fat cells&nbsp;&nbsp;ScienceDailyTurning Off One Protein Made Mice Immune to Obesity. Scientists Just Tested It on Human Cells&nbsp;&nbsp;ScienceAlertScientists find the 'off switch' that could stop your body from storing fat&nbsp;&nbs",
       "sources": [
         {
           "name": "New York Post",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTTdpZFRrS2w0Ml9OR2k0UVZlOVZwNGFiOVpWRGV2Qm84NVF0LTFHdG5GbWZ4SEE3OXhxQjZ4TXJsNzQ4by1YbUF6SVF6V3RCN1loT1Z6Y2l3dFY5eEhZc29uT0U1QVl6M3MxUkpZaEpGOVlVa2dWeXQtbzV6VjN0UkVQWDVoYjZlREdyaTFXQVpZYUxleTdYbEs4aFZ3N2d5WTdmTlNXOGw0UU8tRWZBYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "676022a00ca3",
+      "title": "Bacteria turn dissolved uranium into stable compound in 130 days, study finds - Phys.org",
+      "published": "2026-07-10T12:20:10+00:00",
+      "summary": "Bacteria turn dissolved uranium into stable compound in 130 days, study finds&nbsp;&nbsp;Phys.org",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQakl6aEJoUW5xNElhaHlUdU52d0V0QmJROG1tWVhBdC1LVXBRbkZBODJ4cWhLVnp3RlVnb0xxUF9HNDRUVnByNDduRjAyZ1d3VWJJdFVFUktnalN6SHVaV1BjUjBNeXNRTkZZRWQtMHVheEZacFd4OXQwMTFlSURKeVFXVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f25c0277b90c",
+      "title": "Coffee may have powerful effect on liver health, major study suggests - Fox News",
+      "published": "2026-07-10T11:00:40+00:00",
+      "summary": "Coffee may have powerful effect on liver health, major study suggests&nbsp;&nbsp;Fox News5 Cups of Coffee Daily May Lower Your Liver Disease, Cancer Risk By 47%&nbsp;&nbsp;HealthlineThe Best Morning Drink for Better Liver Health, According to Dietitians&nbsp;&nbsp;EatingWellWhy Drinking 5 Cups Of Coffee A Day Might Be The Ultimate Shield For Your Liver&nbsp;&nbsp;NDTV5 daily cups of coffee linked to significant drops in cirrhosis, liver cancer risks&nbsp;&nbsp;Medical News Today",
+      "sources": [
+        {
+          "name": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT2J1NXJFU2p0UmFIRjZDbzBQVS01N1A1NUpDYkdERFNsMUpLYkJfZGpTeWZpNkY5NW9aV09oYlBQRDNnQVV0bmhRbkVYb2g3TWw2c0c5SEJvdkVaaHQ0eDJucDFPTUFNaXVpZVAwWE0wa2NxNjVzUTRxbGpKYUNxaWJTYlBrWk4wTmkxTkM1S3pvMnVydnlhM0cxWHLSAaIBQVVfeXFMT1FhaWxnMGxkcU1PVUNtX1c4eGtTTXBFWnZIWlVCR2ZYZ2JxdjA0YVBYcVhpQTV2SXFXOXdIQUdnTmdNdUpMS0NUaTFPbktTRXZhdjZ1a0kxS1RVcXJlWW9nZ3pGZFhibFhpeTRtT1ZoRklyRnVnUjVIUWpwTTBvb2pPM2xLWjhaTkJEdHprd2RianZ3VG4ybXlwUDQ2c25JeVNn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c5c3af75ed46",
+      "title": "Scientists Expected One Result From Alcohol and Alzheimer’s—They Found Another - Newsweek",
+      "published": "2026-07-10T10:53:00+00:00",
+      "summary": "Scientists Expected One Result From Alcohol and Alzheimer’s—They Found Another&nbsp;&nbsp;NewsweekAlcohol drives opposite brain circuit changes in amyloid and tau Alzheimer's models&nbsp;&nbsp;Medical XpressAlcohol Consumption Alters Plasticity in Pre-Frontal Cortex&nbsp;&nbsp;European Medical JournalAlcohol Alters Brain Flexibility Based on Hidden Dementia Markings&nbsp;&nbsp;Neuroscience NewsChronic alcohol use alters Alzheimer's brain circuits differently based on underlying pathology&nbsp;&n",
+      "sources": [
+        {
+          "name": "Newsweek",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTkpYcDAxanJZT1lneWZkLXJEUjZEdWsyeDdaS0hKejNYNlRjOVBkM2F3QlQxdUZKZDk5Ukw0T3MyQ0szWm5TTFROTl9iaFRLQ0EyZXR2WXhSd0tleU8xY1YyOHcxY045d0NmT0ZyUWNrRTdOUk5VS0tsWk1oTmxUR2pLeEpzWEttRnFyQ29sSTVEeDkwVnpjbEN0TFNnTDdlTENKYVVBeW5ueHc2R2I2MA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8cd71a86e68a",
+      "title": "A supermassive black hole called RBH-1, weighing at least ten million Suns, appears to have been flung from its galaxy and is now racing through space at nearly 1,000 kilometres per second, leaving a 200,000-light-year wake of newborn stars - Space Daily",
+      "published": "2026-07-10T10:45:25+00:00",
+      "summary": "A supermassive black hole called RBH-1, weighing at least ten million Suns, appears to have been flung from its galaxy and is now racing through space at nearly 1,000 kilometres per second, leaving a 200,000-light-year wake of newborn stars&nbsp;&nbsp;Space Daily",
+      "sources": [
+        {
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNdS1TVzJxMWZSR2MyeUVwUklzZGgxWmx1bGlpYkJqNUdZOFZmTkgzNHB4WW8ySjZTLXJPUWFkdmJWSmpnRzBwRlMxY1pNa2d2ZFg1ckRVZHZrS0dWZ2VMeHBuZXNibGNINUtWMTM1RGJTUTNFOUhvWFgzblQzc1dJLU9pQWU4M203Q1U3NjlLMlotZnhlQ2VKN3doamFlQU5kUDgxaHhCYTlUWVZOU0ptZHdHQ0p3XzFTdDZ0X0RTSl9DdWhoM2lLZWhTM1A5RnhpUEIzT0JmUVkxR1RhZ0hTZjNXQUxuV1NZUEQ3N1BqVzdJZkR5aHNBV2hEellnMS1nU3d1YzltaktJNkl6T0pKdDZmV25SUGMxRUZ2Ujd4eDA1TWE4R3k3TVVtMUxtVk1ONFhZUjFtTC1NdmxVclZKWUlCOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "938372781bbe",
+      "title": "Astronomers believe the Milky Way may contain billions, perhaps even trillions, of rogue planets drifting without close stars — and a 2026 study found one 9,800 light-years away that was likely born in a planetary system before being thrown into the dark - Space Daily",
+      "published": "2026-07-10T10:15:48+00:00",
+      "summary": "Astronomers believe the Milky Way may contain billions, perhaps even trillions, of rogue planets drifting without close stars — and a 2026 study found one 9,800 light-years away that was likely born in a planetary system before being thrown into the dark&nbsp;&nbsp;Space Daily",
+      "sources": [
+        {
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPeUhIS29WN2pkdUFjdVBOQjNCVk16bDFmcnAxdE1pNlVWeUNLTUxPT05Hd3JzdFp0dlhPa3VFLUFveThCdlF4SnA3cVVnWXh5RnBEaTdIWUx0Z2hNWmpnc0pCVUlST3lidkFEaEdObTRTU0hYV00xZVJad0FFTXh2RTJNamZTRU52VVRQT250akRGaGZmckRSV2hVang1RHBPeGVodmpxbWxhaUttNkJDRnNvQlhZRGR2QmlBMTRNd1hvVDAyVzBYNGZJU0VPUTFwZjFSRVpab1laQVVwWlVBcTBySGQzV3ZiSFBtWTQ5RGVBZ0QyeXFhNW1rVHZGSGdrVVQyc3d1NVZmRXJSX2xqbmd3eHI1cVJSbXZmTFpWYXY0Mnd1a0dtX2hqWnRLMm5EakRPbUdpUmw?oc=5"
         }
       ]
     },
@@ -54,26 +162,26 @@
       ]
     },
     {
-      "id": "444fa7a134f5",
-      "title": "An intestinal parasite is causing ‘explosive’ diarrhea in Pa. and N.J. Here’s what to know about cyclospora - WHYY",
-      "published": "2026-07-10T09:17:31+00:00",
-      "summary": "An intestinal parasite is causing ‘explosive’ diarrhea in Pa. and N.J. Here’s what to know about cyclospora&nbsp;&nbsp;WHYYWhy we don’t know what food is spreading the parasite sickening thousands&nbsp;&nbsp;The Washington PostKansas reports 22 cases of parasite that causes explosive diarrhea&nbsp;&nbsp;KCTVHow to Stay Safe From Cyclospora, a Parasite Causing Severe Intestinal Illness&nbsp;&nbsp;The New York TimesDiagnosed with cyclosporiasis, mom of 3 shares symptoms that have 'lingered and lin",
-      "sources": [
-        {
-          "name": "WHYY",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZGdBVVF6RGExWnViMzNYVS1QOC1BbVc5VTdBcW1rQnFVNGpBa2RTQXVaczB4aUo4UVlQeURIZFY0VVAwSk1PV2lKN3VNVkRxa2hDdWktTnJSTkJBOGZVOHVnUktyWGVLTHBRWmtBb2JzNHR0Zmo4N1VPME92MENheTJQZVVoZjNva0k3WHMwc09RakU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "410bb9ee7a84",
       "title": "Lawmakers Call for CDC to Track Vitamin K Shot Refusals, Cite ProPublica Report - ProPublica",
       "published": "2026-07-10T09:00:00+00:00",
-      "summary": "Lawmakers Call for CDC to Track Vitamin K Shot Refusals, Cite ProPublica Report&nbsp;&nbsp;ProPublicaAs Parents Reject Vitamin K Shots, Some Babies Develop Devastating Bleeding&nbsp;&nbsp;The New York TimesLack of documented prophylactic vitamin K administration in newborns: incidence, predictors, and bleeding outcomes in a large healthcare network population&nbsp;&nbsp;nature.comNewborns Missing Vitamin K Shots Linked to Bleeding Risks and Predictors&nbsp;&nbsp;Bioengineer.orgPress Release: Kim",
+      "summary": "Lawmakers Call for CDC to Track Vitamin K Shot Refusals, Cite ProPublica Report&nbsp;&nbsp;ProPublicaAs Parents Reject Vitamin K Shots, Some Babies Develop Devastating Bleeding&nbsp;&nbsp;The New York TimesNewborns Missing Vitamin K Shots Linked to Bleeding Risks and Predictors&nbsp;&nbsp;Bioengineer.orgU.S. Rep. Schrier pushes CDC to track impacts of newborn vitamin K refusal&nbsp;&nbsp;Seattle's ChildPress Release: Kim Schrier, Angela Alsobrooks Call for CDC Action on Vitamin K Refusal Rates&n",
       "sources": [
         {
           "name": "ProPublica",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xUmdTU09VeEMzOFloLWlFRHVMd01jeDQ0bkVIdUlQOEhkUWdPd2VoYWoxbGdwaWpuSEV3QWNEc0g4M0tCYU1uRmE3TkJPbUREQTVWelROcldTZHVKSVNZeGthNjcweXE0R29IdTljeWY5VnVfbnQ3SGY4VUc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ac7ac7ee5923",
+      "title": "Ebola death toll reaches 600, as new cases suspected in other parts of Congo - NPR",
+      "published": "2026-07-10T06:33:38+00:00",
+      "summary": "Ebola death toll reaches 600, as new cases suspected in other parts of Congo&nbsp;&nbsp;NPRCongo Ebola outbreak still spreading largely undetected, WHO official says&nbsp;&nbsp;ReutersIn Congo, health workers fighting Ebola go on strike after months without pay&nbsp;&nbsp;The Washington PostConfirmed Ebola deaths in DR Congo hit 600&nbsp;&nbsp;Al JazeeraWorld must move faster on Ebola response for DR Congo: UN relief chief&nbsp;&nbsp;UN News",
+      "sources": [
+        {
+          "name": "NPR",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YNTlUVDdaRHR0U3BHd096MTJCbU91NDZ3WmxJR3oxbzUzMmprd3pNeW1vUjd5ZU5paW9vSUlaaGFUZ0Zib2lQODl2b2tKY3pzeUxRb2h6elh4ckgtWVNWZTJ4N3h1cWlmSmJQUzhRNTA?oc=5"
         }
       ]
     },
@@ -90,10 +198,22 @@
       ]
     },
     {
+      "id": "06d75127b284",
+      "title": "First ever guidelines released to screen for condition that impacts 9 in 10 Americans - The Independent",
+      "published": "2026-07-10T01:15:00+00:00",
+      "summary": "First ever guidelines released to screen for condition that impacts 9 in 10 Americans&nbsp;&nbsp;The IndependentFrom PMOS to CKM: The silent metabolic crisis behind new disease names&nbsp;&nbsp;The Indian ExpressNHANES Data Point to Subpar Treatment of Risk Factors in CKM Syndrome&nbsp;&nbsp;TCTMD.comRoughly 9 in 10 U.S. adults — about the same number of people estimated to have it — have never heard of cardiovascular-kidney-metabolic syndrome. Read about the symptoms and stages here: https://wa",
+      "sources": [
+        {
+          "name": "The Independent",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdU85enRkNUl1amJFYWp6RU5jRWhiMTdYWWduQUsyMW0zZ2dFdXl3UElTNDZFNkh1cGppUEMwWHJRWUtIcXcwMF9QNEtldVFRLVk3b3pWWjFvWlJNRy1RNElvT1JOMDRhR3VOT0hVVFNaLW1xUS0wMTVWaGRFZDlBOFNxQkx6MUtTSVU3Wkd4M3BkcWtGSWdEM1VxRnZsdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "cf518d366429",
       "title": "Long Island nurse who made $1.5M selling fake COVID vaccine cards slapped with $544K fine - New York Post",
       "published": "2026-07-09T22:50:00+00:00",
-      "summary": "Long Island nurse who made $1.5M selling fake COVID vaccine cards slapped with $544K fine&nbsp;&nbsp;New York PostJulie DeVuono, former nurse practitioner, gets historic $544,000 state penalty for falsifying pediatric vaccine records&nbsp;&nbsp;NewsdayFormer N.Y. Nurse Who Faked Childhood Vaccination Records for Over 160 Students Faces Record-Breaking Fine&nbsp;&nbsp;People.comEx-nurse hit with record $544k fine over falsifying children's' vaccination records&nbsp;&nbsp;WKRCAmityville Nurse’s Fa",
+      "summary": "Long Island nurse who made $1.5M selling fake COVID vaccine cards slapped with $544K fine&nbsp;&nbsp;New York PostJulie DeVuono, former nurse practitioner, gets historic $544,000 state penalty for falsifying pediatric vaccine records&nbsp;&nbsp;NewsdayFake Vaccine Records for 162 Children? Historic Penalty Highlights Hidden Public Health Risks Beyond COVID-19&nbsp;&nbsp;Medical DailyRecord penalty follows high-profile COVID-19 vaccine card scheme&nbsp;&nbsp;Cleveland.comEx-nurse hit with record ",
       "sources": [
         {
           "name": "New York Post",
@@ -105,23 +225,11 @@
       "id": "d1afc362e06d",
       "title": "Fast Walkers Could Cut Their Risk of Cognitive Decline in Half, New Study Finds - EatingWell",
       "published": "2026-07-09T22:23:48+00:00",
-      "summary": "Fast Walkers Could Cut Their Risk of Cognitive Decline in Half, New Study Finds&nbsp;&nbsp;EatingWellOlder adults who walk faster may cut their risk of cognitive decline by half&nbsp;&nbsp;Medical News TodayFast walkers in their 80s cut their risk of cognitive decline by half, a study finds&nbsp;&nbsp;NPROne walking habit could signal a healthier brain after 80, scientists say&nbsp;&nbsp;Fox NewsStudy: 80-Year-Olds Who Walked at This Speed Were Less Dementia-Prone&nbsp;&nbsp;The Healthy @Reader'",
+      "summary": "Fast Walkers Could Cut Their Risk of Cognitive Decline in Half, New Study Finds&nbsp;&nbsp;EatingWellOlder adults who walk faster may cut their risk of cognitive decline by half&nbsp;&nbsp;Medical News TodayOne walking habit could signal a healthier brain after 80, scientists say&nbsp;&nbsp;Fox NewsFast walkers in their 80s cut their risk of cognitive decline by half, a study finds&nbsp;&nbsp;NPRStudy: 80-Year-Olds Who Walked at This Speed Were Less Dementia-Prone&nbsp;&nbsp;The Healthy @Reader'",
       "sources": [
         {
           "name": "EatingWell",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yX01SNUc2LW5tYjJMRmxuR2dSMnM4RVZSVmRua0Q0bUJUWTAwTTVmNGpGby1HUmtKX19sSmhUMXdNQzNiMUtRWlljMWRoUnJJR1RxMGM0UnIzNVJkTkc5ellNVHMycDQ1R1FNbEd2c2FSYmpnZGFIQkFhRjM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a25bf3150325",
-      "title": "Legionnaires' disease outbreak Upper East Side: Testing reveals buildings possibly linked to cluster - ABC7 New York",
-      "published": "2026-07-09T21:24:16+00:00",
-      "summary": "Legionnaires' disease outbreak Upper East Side: Testing reveals buildings possibly linked to cluster&nbsp;&nbsp;ABC7 New YorkOfficials to release list of buildings linked to Legionnaires' outbreak on Upper East Side&nbsp;&nbsp;ABC7 New YorkExclusive | Over half the cooling towers in NYC Legionnaires’ outbreak area issued violations in recent months: records&nbsp;&nbsp;New York PostWe mapped every UES cooling tower in the area affected by NYC’s latest Legionnaires’ outbreak&nbsp;&nbsp;GothamistSe",
-      "sources": [
-        {
-          "name": "ABC7 New York",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeWxEOXNPWE9UVnhoOUwzUmhWTm5CcmN4VklqVDJBRDBOQ1BkMVZvTkZNQWhFNDJyWWtuekJrSTZsTDdmanVLbVY0Nm5ndElIMTlvWm1YS2o2WVJ4ZWRSWHlkaDd4RnhtUklFSHU3U3JsUzlJQi0yN2dLRmhWVnZiYmtHdUZucjVxR1BoZkdDcUVqVTJWSUExSjJYVmxPdGpBeWRLS2l0YXppSGdtR2xHZ2MtckZSR0ZYQXA3c2tobkwyVktDenRuSdIBzgFBVV95cUxOcEtDVi1zLVFzZm9ZRk1HUGFBd3RWUGJwcnh3VXpmalRjbU5oS2xPQ2NIR2NMd0JTMTNsSWg2am5rR243bG5iM1Y2NGJQZ3kyemZxcUpaZm9wYTZEOGlrTkNjeWdkR2JuLXlmUF9OTzdtLTZlRU5CdGY4SHZPWnVyRWphX0hFNWRZRVdENUs5Tmh4b2V1YWQ4V0VMTkJFN3htcE9BYUpKYUtYRDlnTzAyQktIbHNxUklYZG8wZkxWcGdaeWlSeGJGUEhXLTVZQQ?oc=5"
         }
       ]
     },
@@ -141,7 +249,7 @@
       "id": "ea6f47d20591",
       "title": "Pennsylvania measles cases surpass 100, now spreading in 7 counties - Pittsburgh Post-Gazette",
       "published": "2026-07-09T19:24:32+00:00",
-      "summary": "Pennsylvania measles cases surpass 100, now spreading in 7 counties&nbsp;&nbsp;Pittsburgh Post-Gazette7 new measles cases in Lancaster County in the past week&nbsp;&nbsp;LancasterOnlineMeasles cases surpass 100 in Pa.&nbsp;&nbsp;WFMZ.comDE health officials 'on pins and needles' after measles cases in PA&nbsp;&nbsp;The News Journal2 more measles cases were confirmed in Chester County&nbsp;&nbsp;Inquirer.com",
+      "summary": "Pennsylvania measles cases surpass 100, now spreading in 7 counties&nbsp;&nbsp;Pittsburgh Post-GazetteMeasles cases surpass 100 in Pa.&nbsp;&nbsp;WFMZ.com7 new measles cases in Lancaster County in the past week&nbsp;&nbsp;LancasterOnlineDE health officials 'on pins and needles' after measles cases in PA&nbsp;&nbsp;Delawareonline.com2 more measles cases were confirmed in Chester County&nbsp;&nbsp;Inquirer.com",
       "sources": [
         {
           "name": "Pittsburgh Post-Gazette",
@@ -150,10 +258,22 @@
       ]
     },
     {
+      "id": "b66148321061",
+      "title": "This US region sees its first locally acquired 'kissing bug' disease case - USA Today",
+      "published": "2026-07-09T19:18:00+00:00",
+      "summary": "This US region sees its first locally acquired 'kissing bug' disease case&nbsp;&nbsp;USA TodayCounty Health Officials Report First Locally Acquired Chagas Case&nbsp;&nbsp;San Diego County News CenterRoutine blood testing reveals county’s first case of locally acquired Chagas disease&nbsp;&nbsp;San Diego Union-TribuneSan Diego confirms first local Chagas infection. Expert says ‘be smart’&nbsp;&nbsp;SFGATECase of deadly 'kissing bug' found in California -- and sufferers may not even know they have",
+      "sources": [
+        {
+          "name": "USA Today",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZm9Wb3I4NVBCUWpVR2pNbzlLbFpkcHI3eHE2UTl0OThCbUFHQ1RGSFFwQzJQNTMtZ2pRcnpIdjJXNEVmU29ObVZPT1VwT3JYaVRhWnpfS29NdWNyX2hTNTNCUTNabmdSekQwSTVVbFdwSXI1RFFvWTBtbmE0M3Q2bEFlbHRmSk12cGVzY2dXWEpac1BINVNxNmowQWVnTlhLSzJFbkk1eHRETllwcjI4?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2b23b7dbe6e6",
       "title": "NASA seeks research volunteers to spend a year on a simulated mission to Mars or the Moon - FOX Weather",
       "published": "2026-07-09T18:22:00+00:00",
-      "summary": "NASA seeks research volunteers to spend a year on a simulated mission to Mars or the Moon&nbsp;&nbsp;FOX WeatherNASA Seeks Volunteers for Yearlong Simulated Mission to Moon, Mars&nbsp;&nbsp;NASA (.gov)Sick of Earth? NASA is recruiting volunteers for a yearlong Moon and Mars simulation&nbsp;&nbsp;CNNNASA needs volunteers to spend a year locked in a Mars simulation&nbsp;&nbsp;Scientific AmericanNASA wants volunteers for space simulation&nbsp;&nbsp;AOL.com",
+      "summary": "NASA seeks research volunteers to spend a year on a simulated mission to Mars or the Moon&nbsp;&nbsp;FOX WeatherNASA Seeks Volunteers for Yearlong Simulated Mission to Moon, Mars&nbsp;&nbsp;NASA (.gov)Sick of Earth? NASA is recruiting volunteers for a yearlong Moon and Mars simulation&nbsp;&nbsp;CNNNASA Is Recruiting Volunteers For A Year-Long Simulation Of Deep-Space Travel To Mars&nbsp;&nbsp;IFLScienceYou can spend a year in a simulated space habitat for NASA. Here's how&nbsp;&nbsp;USA Today",
       "sources": [
         {
           "name": "FOX Weather",
@@ -165,7 +285,7 @@
       "id": "94cf49386c5e",
       "title": "High‑altitude mouse found near 7,000 meters may redefine mammal survival limits - Phys.org",
       "published": "2026-07-09T18:00:01+00:00",
-      "summary": "High‑altitude mouse found near 7,000 meters may redefine mammal survival limits&nbsp;&nbsp;Phys.orgStudy sheds light on how mountaineering mice survive extreme environments&nbsp;&nbsp;Nebraska TodayHow a tiny Andean mouse survives 22,110-foot peaks, where oxygen is thin, temperatures plunge below freezing, and poisonous plants fill its diet&nbsp;&nbsp;The Times of IndiaAndes mouse conquers extreme altitude by turbocharging breath and burning fat - CHOSUNBIZ&nbsp;&nbsp;ChosunbizHow the Andean Lea",
+      "summary": "High‑altitude mouse found near 7,000 meters may redefine mammal survival limits&nbsp;&nbsp;Phys.orgTiny But Mighty: How A Species Of Mouse Can Survive At Higher Altitudes Than Any Other Mammal&nbsp;&nbsp;IFLScienceThis tiny mouse survives 7,000 metres on volcanoe where no mammal can stay alive: Scientists are investigating one of nature's greatest mysteries&nbsp;&nbsp;The Times of IndiaStudy sheds light on how mountaineering mice survive extreme environments&nbsp;&nbsp;Nebraska TodayAndean leaf-",
       "sources": [
         {
           "name": "Phys.org",
@@ -189,11 +309,23 @@
       "id": "57f0abe3da1e",
       "title": "Brits' Plan in 1788 to Stop Smallpox May Have Backfired - Newser",
       "published": "2026-07-09T17:16:00+00:00",
-      "summary": "Brits' Plan in 1788 to Stop Smallpox May Have Backfired&nbsp;&nbsp;NewserSmallpox Scabs That British Doctors Used to Inoculate Patients May Have Introduced the Deadly Disease to Australia, New Research Suggests&nbsp;&nbsp;Smithsonian MagazineStochastic models indicate rapid smallpox spread and mass mortality of Indigenous Australians after colonial exposure&nbsp;&nbsp;nature.comSydney’s 1789 smallpox epidemic came from the First Fleet and killed up to 220,000 Indigenous Australians: new research",
+      "summary": "Brits' Plan in 1788 to Stop Smallpox May Have Backfired&nbsp;&nbsp;NewserSmallpox Scabs That British Doctors Used to Inoculate Patients May Have Introduced the Deadly Disease to Australia, New Research Suggests&nbsp;&nbsp;Smithsonian MagazineStochastic models indicate rapid smallpox spread and mass mortality of Indigenous Australians after colonial exposure&nbsp;&nbsp;NatureSydney’s 1789 smallpox epidemic came from the First Fleet and killed up to 220,000 Indigenous Australians: new research&nbs",
       "sources": [
         {
           "name": "Newser",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRy0xQ0ptRkFCMXpfRVZTdFZjck03WVJJczdFckYxVzN3N1FaNGdjeFVIWEhCd0FWQm41S2k5UEF0SkY1TFJrX1ZUU20yak5ndXBNSU5pbmZ5T2FFd1VKc2J6RFV6TGNHcmJ2RGU0QkxQcHNzN0pjNlhKMnJlaEViZmg2N19IRXQ0bE9vQTV4enRUd054bzk4bGU4aC1lQ2YtOXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4f1fab10e40d",
+      "title": "Scientists' plan to halt rare El Niño heatwave may trigger something unstoppable - The Mirror US",
+      "published": "2026-07-09T16:42:00+00:00",
+      "summary": "Scientists' plan to halt rare El Niño heatwave may trigger something unstoppable&nbsp;&nbsp;The Mirror USAnother Super El Niño is brewing. Scientists are looking at a controversial solution to squash them&nbsp;&nbsp;CNNCould We Mitigate Super El Niños by Artificially Changing the Climate? A New Study Indicates Yes&nbsp;&nbsp;Smithsonian MagazineDimming the Sun Would Help Lower the Risks of El Niño. No, Really&nbsp;&nbsp;WIREDCould geoengineering work to tamp down super El Niños?&nbsp;&nbsp;Phys.",
+      "sources": [
+        {
+          "name": "The Mirror US",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JWFFhRjNVcnF0QlN2WkRPT2xPSGxLZkRGUVQ2M0hRSkxtcklLckxZT1VJcmNVNmtBOU42UDhUamN2dzEwX2NjcmFNeU9DT1JudlhoWENVdW9keUxLcDdNVEpaZTdUU3p4cm9rQXNuaWxYeVNTUlc1MmdoV0TSAYIBQVVfeXFMT20yTVNwenhUSTBKZ3J6emViYUt1V3hQdE9CYy0xaXpfX2daX3FOb2REX01IZ0I1ZTVLdV8xZUh5TXpDTVFaMHMyVVo4OWlMMWh5Wlg0dktoR05wRHRxWHpZVGd1aUU5QTlmdXBmRmNMN2p4YVhGbmxKRkR0SWw5UFZadw?oc=5"
         }
       ]
     },
@@ -210,22 +342,10 @@
       ]
     },
     {
-      "id": "7131ace0fa60",
-      "title": "Ebola death toll in Congo reaches 600, as new cases suspected in previously unaffected provinces - AP News",
-      "published": "2026-07-09T14:50:00+00:00",
-      "summary": "Ebola death toll in Congo reaches 600, as new cases suspected in previously unaffected provinces&nbsp;&nbsp;AP NewsEbola death toll reaches 600, as new cases suspected in other parts of Congo&nbsp;&nbsp;NPRCongo Ebola outbreak still spreading largely undetected, WHO official says&nbsp;&nbsp;ReutersIn Congo, health workers fighting Ebola go on strike after months without pay&nbsp;&nbsp;The Washington PostConfirmed Ebola deaths in DR Congo hit 600&nbsp;&nbsp;Al Jazeera",
-      "sources": [
-        {
-          "name": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR29iWlF0S0pDSU1IeW9YN3VlaDhSMW5PS1JoV3BZc1Z6czN6OGtkRk9fb3YzYzFPWUVMOWd2dHVXTVpoaXd6OE5DNnRMRmhOTnBQNC0wVGZwU1ZSa21Jemg5THBGZXc4N0s5cGRWRVhHR0ozME9HRjZrTE5sTkE0OUF6UFZfLXQ0NUlvS1UwZkU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7d7ae9b5f6f0",
       "title": "Persistent vision problems after COVID linked to ongoing inflammation, nerve damage - CIDRAP",
       "published": "2026-07-09T13:43:13+00:00",
-      "summary": "Persistent vision problems after COVID linked to ongoing inflammation, nerve damage&nbsp;&nbsp;CIDRAPLong-term ocular symptoms following COVID-19 linked to immune dysregulation, dysautonomia and peripheral neuropathy&nbsp;&nbsp;nature.comEye problems after COVID-19 can now be explained&nbsp;&nbsp;EurekAlert!Study links mild Covid to hidden long-term eye damage&nbsp;&nbsp;MSN",
+      "summary": "Persistent vision problems after COVID linked to ongoing inflammation, nerve damage&nbsp;&nbsp;CIDRAPLong-term ocular symptoms following COVID-19 linked to immune dysregulation, dysautonomia and peripheral neuropathy&nbsp;&nbsp;NatureEye problems after COVID-19 can now be explained&nbsp;&nbsp;EurekAlert!Mild COVID Can Lead To Long-Term Hidden Eye Problems&nbsp;&nbsp;U.S. News & World ReportStudy links mild Covid to hidden long-term eye damage&nbsp;&nbsp;MSN",
       "sources": [
         {
           "name": "CIDRAP",
@@ -234,14 +354,14 @@
       ]
     },
     {
-      "id": "eb315c72e07c",
-      "title": "Brain scans of ISS astronauts show the organ quietly re-weighting its own senses during six months in orbit — turning down the silent inner ear and leaning almost entirely on the eyes to build a world with no down - Space Daily",
-      "published": "2026-07-09T11:30:41+00:00",
-      "summary": "Brain scans of ISS astronauts show the organ quietly re-weighting its own senses during six months in orbit — turning down the silent inner ear and leaning almost entirely on the eyes to build a world with no down&nbsp;&nbsp;Space DailySee more headlines & perspectives on Google News",
+      "id": "f00df301245b",
+      "title": "Ozempic Face, Blindness Claims, And Billions In Potential Damages: The GLP-1 Reckoning - Dallas Express",
+      "published": "2026-07-09T12:01:22+00:00",
+      "summary": "Ozempic Face, Blindness Claims, And Billions In Potential Damages: The GLP-1 Reckoning&nbsp;&nbsp;Dallas ExpressHow GLP-1s Changed One Woman’s Battle With Bulimia&nbsp;&nbsp;WSJOzempic Games&nbsp;&nbsp;The New Indian ExpressYour Brain on GLP-1s: What We're Learning About the Mental Side&nbsp;&nbsp;Psychology TodayThe Ozempic Freak-Out That’s Missing The Point&nbsp;&nbsp;The Daily Wire",
       "sources": [
         {
-          "name": "Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQYm9GSjk3V25zLTBSVVdINXE3bUl0VHhSM09jeC1wX216bnJybHBLa04xLVZpcFFRRDlaMzZxdkppT2RwRHJLNFA5eFhPSURsT2FGeGF5SXM0TlEyRVBTZ3RrNENmUVN3ODk5dWlscG1fcVV0bnpvS2xQUUduRDRldXQtZW9rSXE5V0dyV0tKQjh3eTdwZTdlSlVPZnY2YXpBd3c1OFg0VkhBZzhSVG1wT1FHd3hYUnl3Vi1CZzRHRkowandlMjN2LW0ydWsydnlEa3BVd2JUYnlDYzV6SEU5cXpEalpQZTlGaWFYQWZBWl9GNHNjQTNZZWpJN2pBTXpiMFhsQkF6OVo3Mm1XazNCMEN6c3UtTDNLdVdRV3hCNDVhS0tldnRDaDcwd2Z5bktadk9GN2Z4cU44Xy1ZYWlyY0tLZDhFcjQ?oc=5"
+          "name": "Dallas Express",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT0ZWV3FVcTFKeGVKOGo1MFdzNDBJa1BCbjV4UDJVS2MyT1RoaFZZV1plM0RNaGQyX19pVER4dmxuT0xzQVQyc1ZJQ3h3anFMYVpPQzc5ejdBb1JoVlQxTllrYlJMQlhZR0JVS3hpbW5nbmNCRXdGTGJRNjU2NWFrdmdvMnFDQklNS0hLMUhXalp1Q2EyZTM5SjdlWkxjYU8tWlZQNWNUblk1RVdfRWtxYk42dENLMTVVQXprNzRrcXMtVkVFeVE?oc=5"
         }
       ]
     },
@@ -249,7 +369,7 @@
       "id": "085ad8ba6dce",
       "title": "Sexually transmitted diarrhoea spreading rapidly among gay men in UK - PinkNews",
       "published": "2026-07-09T10:58:56+00:00",
-      "summary": "Sexually transmitted diarrhoea spreading rapidly among gay men in UK&nbsp;&nbsp;PinkNewsUK study finds increased sexual transmission of shigellosis&nbsp;&nbsp;CIDRAPSexually transmitted gut infection shigella a 'distinct public health threat' to UK, experts warn&nbsp;&nbsp;Sky NewsSexually transmitted diarrhoea is spreading in the UK; 70% resistant to antibiotics: Who's at risk and what are the symptoms&nbsp;&nbsp;The Times of IndiaRed-flag symptoms of sexually-transmitted tummy bug surging NOW…",
+      "summary": "Sexually transmitted diarrhoea spreading rapidly among gay men in UK&nbsp;&nbsp;PinkNewsUK study finds increased sexual transmission of shigellosis&nbsp;&nbsp;CIDRAPSexually transmitted gut infection shigella a 'distinct public health threat' to UK, experts warn&nbsp;&nbsp;Sky NewsSexually transmitted diarrhoea spreading rapidly among some networks of gay men in the UK, study finds&nbsp;&nbsp;University of CambridgeSexually transmitted diarrhoea is spreading in the UK; 70% resistant to antibioti",
       "sources": [
         {
           "name": "PinkNews",
@@ -272,7 +392,7 @@
     {
       "id": "ba24226e966b",
       "title": "Is This the End of Booze? - derekthompson.org",
-      "published": "2026-07-09T10:03:44+00:00",
+      "published": "2026-07-09T10:05:45+00:00",
       "summary": "Is This the End of Booze?&nbsp;&nbsp;derekthompson.orgHow alcohol may lead to cancer, brain damage, early death: Latest evidence&nbsp;&nbsp;Medical News TodayCT researchers find treatment for alcohol use disorder can reverse harmful brain effects&nbsp;&nbsp;Hartford CourantBlood pressure and cholesterol lowered by 'cutting out one drink' a day say scientists&nbsp;&nbsp;The MirrorHeart surgeon explains how alcohol affects the heart: Weakens cardiac muscles, increases blood pressure…&nbsp;&nbsp;Hi",
       "sources": [
         {
@@ -294,14 +414,14 @@
       ]
     },
     {
-      "id": "91bd565bd991",
-      "title": "First-Ever Footage of Haunting Barreleye Fish Captured Deep Beneath The Atlantic - ScienceAlert",
-      "published": "2026-07-09T08:02:20+00:00",
-      "summary": "First-Ever Footage of Haunting Barreleye Fish Captured Deep Beneath The Atlantic&nbsp;&nbsp;ScienceAlertScientists Travel to Unexplored Area of Atlantic Ocean and Photograph Bizarre Deep-Sea Creatures&nbsp;&nbsp;PetaPixel“The fish’s brain, nervous systems and internal workings of the head are visible.” Meet the see-through deep-sea dweller&nbsp;&nbsp;BBC Wildlife MagazineSubsea Hydrothermal Vents Discovered in the Doldrums Region&nbsp;&nbsp;Marine Technology NewsPacific barreleye fish: The deep-",
+      "id": "883e7ae4f3f1",
+      "title": "Martha Lillard, last American using iron lung, dies in Shawnee - KOSU",
+      "published": "2026-07-09T09:00:00+00:00",
+      "summary": "Martha Lillard, last American using iron lung, dies in Shawnee&nbsp;&nbsp;KOSULast U.S. Polio Survivor in an Iron Lung Dies After the Machine Began to Break Down and No One Could Repair It&nbsp;&nbsp;People.comOklahoma woman, the last American in an iron lung, dies at 78&nbsp;&nbsp;KFORLast American polio survivor in an iron lung dies at 78&nbsp;&nbsp;KRON4Martha Lillard, last American to use iron lung, dies at 78&nbsp;&nbsp;WSOC TV",
       "sources": [
         {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHpLbnh6OEVVRHdkVGhHZEp2WUE2TkdibkV2LWNLM2pQMEdfQnEzUjRPWnp5T04yOW5qUml3dFF2V1FqU2xXcmEzeXRMWFJjc3dVc0JudmVzUnpVVFpTWGtEVHBCcEMxLUdZbEptTWRLbU9RYjN2Z01UOU9EMUM1UFZ1bFFnZnBwa1hQbzdtbGpPeEg5SWt4alJfZk1yVnNCbmhnejlBTjI4M0NnTUE?oc=5"
+          "name": "KOSU",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XeFA3MU1xY1Z5Y1RqQXVSMFhCU0U2TkJWY0g0UE5vNUFhaGl0WHhTSVhQajVHUVpCLXNSNXFaM1JqVWVhc3ZndDEtbW1ZcTdsS3Y2TTMtVS1yWlo4d3dv?oc=5"
         }
       ]
     },
@@ -314,30 +434,6 @@
         {
           "name": "ScienceDaily",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01VmtveXJIRjh3ZVdoQ0dvazM5LXJScTIwWUE5QjQ2UExNWms2UXRrYy1BcmxBNDNtQzNnd3IzV1R1TDk3cWZtdXU4M3dlZkpwSFFORERlVHFBM2thOGRUQXNsTEtyMHoydEI1bHFNZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1f67e4d0c37f",
-      "title": "The smell of dark chocolate could make a leg workout easier, even on an empty stomach - Medical Xpress",
-      "published": "2026-07-09T04:00:01+00:00",
-      "summary": "The smell of dark chocolate could make a leg workout easier, even on an empty stomach&nbsp;&nbsp;Medical XpressSniffing chocolate could make your leg day workout easier, even on an empty stomach&nbsp;&nbsp;FrontiersYou might want to try adding this treat to your workout routine&nbsp;&nbsp;Deseret NewsWhy you should sniff (but not eat) chocolate at the gym — and which kind is better&nbsp;&nbsp;New York PostThe secret to weight-lifting ... smelling chocolate&nbsp;&nbsp;The Telegraph",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeF9md2RfV1E5OV9vUHpTZm1pYXB2c3h0SjloQTlaWktFelhndjlmaUxpMEc2MlNfRllYV2prVDBKZXVZRGlRSTZpRURlZUtLY1loLXZlM1FGQ1JWeTVydUplUk5GM1pUeUlnOGcxR1o4SVdoQ09sTHBFbVlRdXQ3VkJtRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "38f5fd077cd2",
-      "title": "﻿Iowa's first measles case of 2026 reflects a changing reality for doctors, health officials - KCCI",
-      "published": "2026-07-09T03:25:00+00:00",
-      "summary": "﻿Iowa's first measles case of 2026 reflects a changing reality for doctors, health officials&nbsp;&nbsp;KCCIPolk County testing dozens for measles after a vaccinated resident is infected&nbsp;&nbsp;KCCIMeasles Case Confirmed in Polk County&nbsp;&nbsp;Polk County Iowa (.gov)Eastern Iowa doctor urges residents to check vaccination status after state’s first measles case confirmed&nbsp;&nbsp;KCRGFirst measles case of year confirmed in Iowa resident, potential exposure locations released&nbsp;&nbsp;",
-      "sources": [
-        {
-          "name": "KCCI",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQWF1cnVmTGlTUXlRYUR1bE4wR3UweG0yakRzLUt5NGU2aHlLOVBZQ3U5Y1hqY0tLRjBkbXkzRTBmbUlXazB6WFNwT3VwVFVZWW9yTzNLM2NJeTBWNnVPNzZ6cVl4elRWUVFaWkZaeEQzNkkxQzVqcUVtdm5fOXI0TnVjSDg5Z1NJaWNYSE8zZkNDdw?oc=5"
         }
       ]
     },
@@ -369,7 +465,7 @@
       "id": "236e015dc168",
       "title": "Ladera Ranch families concerned after several children diagnosed with rare cancer - NBC Los Angeles",
       "published": "2026-07-09T00:46:15+00:00",
-      "summary": "Ladera Ranch families concerned after several children diagnosed with rare cancer&nbsp;&nbsp;NBC Los Angeles1 Teen Dies, 5 Other Kids Sickened in Rare Cancer Cluster: ‘Something Must Be Causing It, Right?’&nbsp;&nbsp;People.comCluster of extremely rare cancer cases suddenly strikes kids in wealthy SoCal city&nbsp;&nbsp;New York Post",
+      "summary": "Ladera Ranch families concerned after several children diagnosed with rare cancer&nbsp;&nbsp;NBC Los AngelesSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "NBC Los Angeles",
@@ -393,7 +489,7 @@
       "id": "1cf6c0ff76f4",
       "title": "In nearly seventy years of deep-sea exploration, researchers compiled 43,681 submersible dive records — and found that humans have visually observed less than 0.001% of the deep seafloor, an area roughly the size of Rhode Island, according to a Science - Space Daily",
       "published": "2026-07-08T23:30:03+00:00",
-      "summary": "In nearly seventy years of deep-sea exploration, researchers compiled 43,681 submersible dive records — and found that humans have visually observed less than 0.001% of the deep seafloor, an area roughly the size of Rhode Island, according to a Science&nbsp;&nbsp;Space DailyThe Vessel That Never Sleeps&nbsp;&nbsp;Geo Week NewsLess than 30% of Earth’s ocean floor has been mapped while scientists still have clearer high-resolution data of Mars than most of the seabed covering our own planet&nbsp;&",
+      "summary": "In nearly seventy years of deep-sea exploration, researchers compiled 43,681 submersible dive records — and found that humans have visually observed less than 0.001% of the deep seafloor, an area roughly the size of Rhode Island, according to a Science&nbsp;&nbsp;Space DailyThe Vessel That Never Sleeps&nbsp;&nbsp;Geo Week NewsHere’s Why: The ocean is way deeper than you think&nbsp;&nbsp;WZZM13.comLess than 30% of Earth’s ocean floor has been mapped while scientists still have clearer high-resolu",
       "sources": [
         {
           "name": "Space Daily",
@@ -402,38 +498,14 @@
       ]
     },
     {
-      "id": "d16625a974d7",
-      "title": "Alcohol Alters Brain Flexibility Based on Hidden Dementia Markings - Neuroscience News",
-      "published": "2026-07-08T21:58:33+00:00",
-      "summary": "Alcohol Alters Brain Flexibility Based on Hidden Dementia Markings&nbsp;&nbsp;Neuroscience NewsAlcohol drives opposite brain circuit changes in amyloid and tau Alzheimer's models&nbsp;&nbsp;Medical XpressScientists Expected One Result From Alcohol and Alzheimer’s—They Found Another&nbsp;&nbsp;NewsweekDrinking to cope with stress may permanently rewire your brain&nbsp;&nbsp;ScienceDailyAlcohol Intoxication, Stress in Adolescence Linked with Long-Term Impairments | Newswise&nbsp;&nbsp;Newswise",
-      "sources": [
-        {
-          "name": "Neuroscience News",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54LVpLaXJTWXFkQmpJX0ZuUnhOY0xnX3NuejFCaVRqemZtRFBwSjdGQmxsOEZqSVJXM3gweWpMTUtMT044cE5oT3kxYjJnWkw4VVJKNVFIdzMzbW1VMkc5bmZxeWRCOHlBR3RUcE5rbm8wY0lG?oc=5"
-        }
-      ]
-    },
-    {
       "id": "989f0d5944fa",
       "title": "I'm a Longevity Doctor. Bryan Johnson's Diagnosis Reminds Us That Longevity Isn't About Perfection. - Outside Magazine",
       "published": "2026-07-08T21:53:25+00:00",
-      "summary": "I'm a Longevity Doctor. Bryan Johnson's Diagnosis Reminds Us That Longevity Isn't About Perfection.&nbsp;&nbsp;Outside MagazineBryan Johnson’s chronic disease is notoriously difficult to diagnose&nbsp;&nbsp;STATHow did Bryan Johnson end up with an autoimmune disease?&nbsp;&nbsp;Northeastern Global NewsBiohacker Bryan Johnson discloses 'incurable' illness. What is it?&nbsp;&nbsp;USA TodayA woman who has autoimmune gastritis, the same condition as Bryan Johnson, shares what it's like to live with ",
+      "summary": "I'm a Longevity Doctor. Bryan Johnson's Diagnosis Reminds Us That Longevity Isn't About Perfection.&nbsp;&nbsp;Outside MagazineBryan Johnson’s chronic disease is notoriously difficult to diagnose&nbsp;&nbsp;STATEmpathy for the optimizers&nbsp;&nbsp;The VergeHow did Bryan Johnson end up with an autoimmune disease?&nbsp;&nbsp;Northeastern Global NewsA woman who has autoimmune gastritis, the same condition as Bryan Johnson, shares what it's like to live with it&nbsp;&nbsp;Business Insider",
       "sources": [
         {
           "name": "Outside Magazine",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZjA5bzZuR0RLRHptQ1VIR3VDZUNWRmp3R0hlVFNHcF9SeWpiX0E1UkotMEZFZnk0Qnp1ZndpTnljVi1CV2dfSF9Bd2xmZ0xGcFpaZDlURFdXTjFYUDZWQ0RhT3RzVkpQaEVPU2RsNmRrR3BCSUZpNm9Xcjk1MlJrMU5Bc3Iwblk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "04eba54edd21",
-      "title": "West Nile virus detected in mosquitoes from 13 Orange County cities - KTLA",
-      "published": "2026-07-08T20:32:10+00:00",
-      "summary": "West Nile virus detected in mosquitoes from 13 Orange County cities&nbsp;&nbsp;KTLAOC uses multiple tools to fight booming mosquito population&nbsp;&nbsp;Spectrum NewsTest showing infected mosquitoes underscores West Nile risks in county&nbsp;&nbsp;Ventura County StarAmid national surge, officials find 1st West Nile mosquito sample in Yolo County&nbsp;&nbsp;Sacramento BeeFirst West Nile virus-positive mosquitoes of the year detected in Placer County&nbsp;&nbsp;ABC10",
-      "sources": [
-        {
-          "name": "KTLA",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMzM0Q0k0Z0RYdU1xaEJlTTJqZUJzZmZiY0ZUd0doMjVMcFd5WmY2X2NrTjRFN2tYc2VVX0M1Q2MwOElZYUI1dm5ORi0yX2hfa04zeDhVbXBHbkd6QXNJdFdDcnpERkE2NEFsaEFha0NKZHRIR1lYNXYzd2JneTBEYmhmMzJoeER4TkVCOFpleUhqNnRpVS03MWQ0eFhuNmFQOW1Z0gGoAUFVX3lxTE1HTUxyMGZmc1lSSHNEdnI0VGhiN25rMER0aG1vRVlLeGlIQWhCaTVFSTVSdWhiOUs2ZU92Um1UZHR4Q1hRY3JrNWdPUnVGdFpleWlTRVd1NVZfczk5cmoyajl0ZDJuX2czOHd1OW9ReU80QWRqTFp0eWNzd09MMER6ZWZuR2FfazNvdjN4Z1hoeENYTHBtZTl0V3BuMWlHSlNQZFNaQnZuYw?oc=5"
         }
       ]
     },
@@ -446,162 +518,6 @@
         {
           "name": "Newser",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNclZrTTYzaFlOcGhYMDdjS19pWF9oYWNFQmQ4VTBMZGE5ZXhlNk1GNVNlYW9oUUpNMmtFRlRQTDduNl9fY3B6d2tSN2wzQ3VqS05WU253eW1DSGwtcWR3QjlyU0RMc1UwNjZZLVVlQXZPdHhTWVhUSUdZSmpaMTlQc05ycnY4cGZiMkl0T1FnaEdrSnN3WE53?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "edd9c9402eb2",
-      "title": "Scientists Say This Climate Hack Could Stop El Niño Before It Starts - Gizmodo",
-      "published": "2026-07-08T19:20:48+00:00",
-      "summary": "Scientists Say This Climate Hack Could Stop El Niño Before It Starts&nbsp;&nbsp;GizmodoAnother Super El Niño is brewing. Scientists are looking at a controversial solution to squash them&nbsp;&nbsp;CNNDimming the Sun Would Help Lower the Risks of El Niño. No, Really&nbsp;&nbsp;WIREDCould geoengineering work to tamp down super El Niños?&nbsp;&nbsp;Phys.orgSeeding clouds with seawater could prevent a super El Niño&nbsp;&nbsp;New Scientist",
-      "sources": [
-        {
-          "name": "Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaThuejBsVmFIQ3d6M2FQelJDMk9EczZWaHdZc0RTeFRpZ3pyX21UdmdhVVNJXzh6T2pwVVNtRXJvdmhPMjBPMDh5YW56bVc1cGg5YzAyVEFVa1E5V1RTXzAzaVpuNG82RlZ4d2VWZTJ4NGt0OXN5TU5CUzhDUTl3LWtkZjYwU04xSDA0Mko4ZnduMERybnpVVHdCVER1Rk52?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f44a83d653b8",
-      "title": "New study suggests Earth could escape the sun's fiery demise however humanity's fate remains sealed - FOX Weather",
-      "published": "2026-07-08T19:05:00+00:00",
-      "summary": "New study suggests Earth could escape the sun's fiery demise however humanity's fate remains sealed&nbsp;&nbsp;FOX WeatherEarth may survive the sun's death after all, new study suggests&nbsp;&nbsp;SpaceGood News! Turns Out the Earth Will Never Be Swallowed by the Sun&nbsp;&nbsp;WIREDEarth could escape being swallowed by the dying Sun, scientists say&nbsp;&nbsp;TweakTownWill the Sun swallow Earth? New study offers surprising answer&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "FOX Weather",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb01zMF9rMVBuWkRyamRRb3owdDBVb0RqVjFRLUYtR2tBQXk1MjB1aEhqbWsxWXdLTTVqVG5BRUN6T1JST0pxeXg3T2h6RlFVd0Y1U1hfZ0lSZ0UyOGg0OEhNZ0I2YzQtVXJTbkM5WXRfa2w0TDVGOHBjUURWVWtIbkZ6Zl9QYnhBYTdteTB6aU5NUGRPaWQ3OUdEbi1pdGfSAaQBQVVfeXFMTzRncXNKdjUwNkpUdWEwS1VWU0NHNkVKUllUbUhCRHJ6VXJRRVBTXzVBOHR2SEowRFN3bkZ1ZzNRQ1FrcC04VlJqQXlyM3N5eGJPdDN0Skw1QUtUdlNZOFl1WXBNek9hMDJWUmRzWXVTaWZCZXU5YlZCSEg0N21vLUVGM0lpa3dlMmtaQ0c2Y3ZYLXVzOGFObjI5RWN3bURHTDBqb3o?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "adb2927c8914",
-      "title": "The Branching Dendrite Secret Behind Human Cognitive Superiority - Neuroscience News",
-      "published": "2026-07-08T18:17:45+00:00",
-      "summary": "The Branching Dendrite Secret Behind Human Cognitive Superiority&nbsp;&nbsp;Neuroscience NewsHuman brain cells may be far more powerful computers than scientists thought&nbsp;&nbsp;The Brighter Side of News",
-      "sources": [
-        {
-          "name": "Neuroscience News",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JVWFsQWZkRjNfdnFlc0s5YTk5YWMzWGNCQ3VhWWhZckpwNm1mQlZyWGRodS02Z2tZcnlaZ2FBVDg3MkxzUXktRTRYWEdxend2TG9TYlhLYnhQX09XaHVCSmZYbDJqNndaMGhFQkFOQlNINGg3U00zS3Bn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "68bb6dd90f6f",
-      "title": "Scientists find gas emissions from rocks may have contributed to ancient climate swings, mass extinctions - Phys.org",
-      "published": "2026-07-08T18:00:06+00:00",
-      "summary": "Scientists find gas emissions from rocks may have contributed to ancient climate swings, mass extinctions&nbsp;&nbsp;Phys.orgResearchers (IMAGE)&nbsp;&nbsp;EurekAlert!Ancient Climate Shift: Earth's Rocks Emitting Greenhouse Gases Linked to Mass Extinctions&nbsp;&nbsp;The Times of India",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVFlkMDdKbXpreTlxanJOcHJ4OFBlNUFYMzBpVHJNcEE3ZkVuMnR4S1RSOXUyOGc0d1IwSWhrX1hvSUpBN0RaUFcyNmdBQUZXVE44aE5YT01WQ1VOam5zMWhXUUlSaFZpbUdWaEN5eXlXa0w5WWdSaXFvNHpIbmJkRE1ESWtlUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "010f91f271a8",
-      "title": "From the lab to the moon: Lunar cement alternative survives 6 months on ISS and returned stronger in some tests - Phys.org",
-      "published": "2026-07-08T17:00:03+00:00",
-      "summary": "From the lab to the moon: Lunar cement alternative survives 6 months on ISS and returned stronger in some tests&nbsp;&nbsp;Phys.orgExclusive: Lunar Forge Unveils Plans to Build Lunar Infrastructure Out of Dust&nbsp;&nbsp;Payload SpaceAssessing the cementitious reactivity of lunar and Martian regolith simulants for extraterrestrial construction&nbsp;&nbsp;nature.comISS test finds that moon dust could be effective as a lunar building material&nbsp;&nbsp;The Brighter Side of NewsSpace Station tests",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJUl9aRzJJRkdMcW9aQWNZTy1HaHp0QWhjSFBIYUI0VmhNNU53anl4RGpLVHJzTUUwbjNOb2pkWHhBZ18tYk1oNWd0aFlnaHkxNnUzWXVmLTIydjJWZ01ETHlnTnc5RWFOdGY5YVd4U3Zydnk5eUIw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5f4c2eb01b03",
-      "title": "Neuropathologist not guilty of research misconduct, says university probe - The Transmitter",
-      "published": "2026-07-08T16:59:59+00:00",
-      "summary": "Neuropathologist not guilty of research misconduct, says university probe&nbsp;&nbsp;The Transmitter",
-      "sources": [
-        {
-          "name": "The Transmitter",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZDhDUUpzT09xWTNoOTRFRkZhYzEzbnF1bS02c0RfSDdONndDNzAweDJudWZ4emo2ZUlzaDQ5ajFucFFsZzV4WWpTZG5PcUxoYUhMRUNLc0xweld5MTdfRXhBWWlUcG5tN3pySnVTd3lWb3VSSkxRbjFiRHFkbEpZQTdCVGtzUXJYLThTV1UyNTNvVFhoMjRYZXJzcE5tSGQwd0dqYkFSZ2FTZTU2R1JsQ2lNWS1fdVJKNFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f2d0d4a8eab4",
-      "title": "Last American polio survivor in an iron lung dies at 78 - KXAN Austin",
-      "published": "2026-07-08T16:35:18+00:00",
-      "summary": "Last American polio survivor in an iron lung dies at 78&nbsp;&nbsp;KXAN AustinSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "KXAN Austin",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVDQtaDd4bU1tRldqeXY3UDZURVAyWkJwT2hNVUl5b29vTmRudXJMNVplMzlrNDRGaHZVTUc2SWZ6MzhYTEhDQ0NhSU1pQ0xPZjZNZXlocGw1UUEtRzF1NzBkM1pyVlM0VTF3QmpTZlUxcEtLMUJNY29PUnRlUVh5am5SMHpaUkJVYU5RNmgzbXdjcUnSAZgBQVVfeXFMT1k3UlFPWUhvdjNrYXdqSVY0d1hENUR4X1B0elc1YzVqd3JLQWZvdE5aWkEyTC1HZWM0ZlY1TjVVcjlhLWVsanFLa1JUMEE0c0J6RzlRR2laMi0yV3dBcjY1OVhFOHQ2LTZjaEttRUVKYWNjMmRGdWNka2FMMEd5Y3N5WTdqUDRCMHRsMEhEemJUMTVjV1BCaGo?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b32cefff1801",
-      "title": "Verification of the Outer Space Treaty with cosmic protons - nature.com",
-      "published": "2026-07-08T16:24:42+00:00",
-      "summary": "Verification of the Outer Space Treaty with cosmic protons&nbsp;&nbsp;nature.comMIT researcher proposes a way to detect nuclear weapons in space&nbsp;&nbsp;MIT NewsNew satellite system could detect nukes in space&nbsp;&nbsp;Popular ScienceScientist proposes tiny satellites to sniff out nuclear weapons in space&nbsp;&nbsp;Financial TimesThis Is How Nuclear Weapon Detection Could Work in Space&nbsp;&nbsp;ScienceAlert",
-      "sources": [
-        {
-          "name": "nature.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xVTRlUy12VGFJaUNqeWpfZW4tQUxyY3ItV3F4TVY3dF90anlOWUNwN3Vod0RKNUNGOUtqUWVFY2RvYjF3MnM4Q25hajNPeF91MGVpb2VTb0RPWElLNnZR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d7f55aa4735f",
-      "title": "Why a gene-editing breakthrough has some experts worried - CNN",
-      "published": "2026-07-08T16:15:55+00:00",
-      "summary": "Why a gene-editing breakthrough has some experts worried&nbsp;&nbsp;CNNThe Guardian view on gene-edited humans: darker uses must be acknowledged alongside medical ones | Editorial&nbsp;&nbsp;The GuardianClosing the gap between discovery and care&nbsp;&nbsp;Healthcare TodayGenetically Modified Babies Near Reality, But Ethics Debate Continues&nbsp;&nbsp;La Voce di New YorkHuman Embryo Gene Editing Shows Promise, Faces Ethical Hurdles&nbsp;&nbsp;Ratopati",
-      "sources": [
-        {
-          "name": "CNN",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BT2NoSWF3VU54cmg2ZnZQbnNBVkFVUFQtRXJYM1hBOUMzZmZxaFZHSE5VSGFhYi1YdWhIelZEV0hzM2tUZ3QyMjNNMWl6YURETnN6SWpUaC1wdllVWTZsWTVQemdFdUtNS21rVFpnbUptZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "56b9928b284f",
-      "title": "Tiny 60,000-neuron ant brains reveal how parental care evolved from feeding circuits - Phys.org",
-      "published": "2026-07-08T16:10:01+00:00",
-      "summary": "Tiny 60,000-neuron ant brains reveal how parental care evolved from feeding circuits&nbsp;&nbsp;Phys.orgAncient feeding-related neuropeptides regulate alloparenting in ants&nbsp;&nbsp;nature.comAncient Neuropeptides Shape Modern Ant Parental Care&nbsp;&nbsp;the-scientist.comResearchers may have discovered how parenting behavior evolved in ants&nbsp;&nbsp;EurekAlert!Ancient Neuropeptides Control Alloparental Behavior in Ants&nbsp;&nbsp;Bioengineer.org",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5X2VmRlRvN2VJcHBLRG1uUzVJRy11aHVDS0N4OGNfdFVYblBLOXR6RWQ2UzVaLUg1dFhTOFFKaEhDQTlHbjdBRHRyWGZRUEZ6UkNDY0tacUxGdVJpSjJvNDFCUVJ2U1dlSms1dWxGRVJPUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fbcb1cc112ea",
-      "title": "Aneuploidy selects for the acquisition of driver genes in breast cancer - nature.com",
-      "published": "2026-07-08T15:36:13+00:00",
-      "summary": "Aneuploidy selects for the acquisition of driver genes in breast cancer&nbsp;&nbsp;nature.comA long‑standing mystery in the deadliest breast cancer just yielded 81 new treatment targets&nbsp;&nbsp;Medical XpressSinai Health Mouse Study Has Identified 90 Genes Driving Basal-Like Breast Cancer, 81 of Which Had not Previously Been Linked to the Disease&nbsp;&nbsp;EurekAlert!A Key Clue in the Cancer Mystery..! Has an Answer to a Long-Standing Question Finally Been Found?&nbsp;&nbsp;Telugu TimesAneup",
-      "sources": [
-        {
-          "name": "nature.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82LWJYYnlQWVY1T0lKUmp2OHk2MElhUDZqRUNzanJpMXZPX3dMUXZnNWwya2dsRUpaaU85VkFVWjRZM0dEMzRzNTJTMVhESlJFQWJzX0dMZHQ2VGpnbFZZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a57b1a0bcef7",
-      "title": "Diet–microbiome synergy underlies obesity-associated immunotherapy efficacy - nature.com",
-      "published": "2026-07-08T15:36:13+00:00",
-      "summary": "Diet–microbiome synergy underlies obesity-associated immunotherapy efficacy&nbsp;&nbsp;nature.com",
-      "sources": [
-        {
-          "name": "nature.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3MnZ5VW54a0RGa05ObEtsVlF5MUItc25BT3JjallQbUxDbTVfcU1HZFRvSm9oZ285OU1WcnR6NmhWWllrZENyV21jS0t2T1d3am1faUFnejB0Q3Q1ZDRn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a3a77ff235af",
-      "title": "'What we found was striking': Physicists detect new kind of signal from a black hole's 'point of no return' - Yahoo",
-      "published": "2026-07-08T14:05:57+00:00",
-      "summary": "'What we found was striking': Physicists detect new kind of signal from a black hole's 'point of no return'&nbsp;&nbsp;YahooAmerica pioneered gravitational wave research. Now it may leave it behind.&nbsp;&nbsp;Big Think'What we found was striking': Physicists detect new kind of gravitational wave signal from a black hole's event horizon&nbsp;&nbsp;Live ScienceNever-before-heard 'point of no return' signal in black hole 'could change everything'&nbsp;&nbsp;Daily Star",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZkVYdjRjQ0xWLUN5MWp6MFAwRV9pOTdPSFl2RG9WRDhFYVpjbWpBNHhnTUM1QTlveFBaZ1k0dUFVVFdKaFA4em5tS3lSSUZkVHFONHBCTFZ4UVRkNTVXQmpsSGJTanBYd3BDVjNsc20yQVU1aEN4OEh4QThrOHdMRldMdnFabHllUXdFZzlNdHVUM19oaFpuSk9odFA3dw?oc=5"
         }
       ]
     }

@@ -1,14 +1,14 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-07-11T02:51:02.782323+00:00",
-  "total_fetched": 98,
-  "unique_count": 98,
-  "health_related_count": 45,
+  "fetched_at": "2026-07-11T08:00:08.603584+00:00",
+  "total_fetched": 100,
+  "unique_count": 100,
+  "health_related_count": 46,
   "news": [
     {
       "id": "9fa0525b1a1a",
       "title": "Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma - AP News",
-      "published": "2026-07-11T00:58:00+00:00",
+      "published": "2026-07-11T04:14:00+00:00",
       "summary": "Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma&nbsp;&nbsp;AP NewsSee more headlines & perspectives on Google News",
       "sources": [
         {
@@ -18,14 +18,50 @@
       ]
     },
     {
-      "id": "7be64221ef0c",
-      "title": "What to know about 'explosive diarrhoea' parasite outbreak in US - BBC",
-      "published": "2026-07-10T22:09:07+00:00",
-      "summary": "What to know about 'explosive diarrhoea' parasite outbreak in US&nbsp;&nbsp;BBCWhy we don’t know what food is spreading the parasite sickening thousands&nbsp;&nbsp;The Washington Post'Explosive diarrhea' parasitic infection continues to spread&nbsp;&nbsp;FOX 9 Minneapolis-St. PaulWhat you need to know about the cyclosporiasis outbreak&nbsp;&nbsp;PBSParasite Causing Severe Diarrhea Spreads in Midwest, NYC&nbsp;&nbsp;Bloomberg.com",
+      "id": "0b7201f7d448",
+      "title": "Legionnaires' outbreak hits New York as officials rush to test water towers - BBC",
+      "published": "2026-07-11T01:37:02+00:00",
+      "summary": "Legionnaires' outbreak hits New York as officials rush to test water towers&nbsp;&nbsp;BBCNYC Legionnaires' outbreak: 31 cooling towers test positive for Legionella&nbsp;&nbsp;ABC7 New YorkWe mapped every UES cooling tower in the area affected by NYC’s latest Legionnaires’ outbreak&nbsp;&nbsp;GothamistWhy NYC council speaker and Health Department are at odds over Legionnaires outbreak&nbsp;&nbsp;NBC New YorkLegionnaires’ disease outbreak: Guggenheim Museum among 31 UES buildings with cooling tow",
       "sources": [
         {
           "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40Q3BOWlY4MS1reHp0OHNZSHExU1Z3UnBHVHRMcnlsbE93TkxjaC1VSUkzYk1vek1UUjg3T2xxUnczQWRqaUhDNmR6Ykt0djFfYWtVbHZ4MUptZw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85TG1PX1ZxSmk0N0pCY0pSVWdWRTVFbG9JanlvOENWOEdvVDVUZ20tb1dnWkxPT3FfUFkyT2lKSUJqWV9LX3Z6UUlKdDlaa1VEajF4VWdBM05tQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c2fbe2873a2f",
+      "title": "Julie DeVuono, former nurse practitioner, gets historic $544,000 state penalty for falsifying pediatric vaccine records - Newsday",
+      "published": "2026-07-10T23:01:58+00:00",
+      "summary": "Julie DeVuono, former nurse practitioner, gets historic $544,000 state penalty for falsifying pediatric vaccine records&nbsp;&nbsp;NewsdayFormer N.Y. Nurse Who Faked Childhood Vaccination Records for Over 160 Students Faces Record-Breaking Fine&nbsp;&nbsp;People.comLong Island nurse who made $1.5M selling fake COVID vaccine cards slapped with $544K fine&nbsp;&nbsp;New York PostEx-nurse hit with record $544k fine over falsifying children's vaccination records&nbsp;&nbsp;WKRCShe Sold Fake COVID Va",
+      "sources": [
+        {
+          "name": "Newsday",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc18yUGpOa0JaZWVFUHE3X1RYWGZTQkxBbUp4M1d5N2lsejFjVklCQmNUWXk5OUVPLW5sdXlXOFFMNFczazYyX0hnTkppSU81ZFdSQ290YUNhNE9tdGt4RXRabjN5ZjVWZlRjcG9FajRrUGFUYmphN3gxdlBGWEI2U0gwN1U3SVdiNE1yM0N4Wk1qVzZiMzJvanFfVG9fcUVjX3dEb24wN1lxa05SUXk0Zl9NdXI1UnJHTVFNTw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "20558e987773",
+      "title": "Taking Omega-3 for Your Brain Health? A New Study Says There Are Better Options - EatingWell",
+      "published": "2026-07-10T23:00:00+00:00",
+      "summary": "Taking Omega-3 for Your Brain Health? A New Study Says There Are Better Options&nbsp;&nbsp;EatingWellAre Omega-3 Supplements Actually Good for Your Brain?&nbsp;&nbsp;The New York TimesFish Oil Supplements May Not Help Stave Off Dementia After All&nbsp;&nbsp;WIREDFish Oil Supplements Failed to Prevent or Slow Cognitive Decline in Trial&nbsp;&nbsp;Being PatientDocosahexaenoic Acid Supplement Does Not Improve Cognitive Performance&nbsp;&nbsp;Neurology Advisor",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0MnFveUZmZ21GSFQ1WE9aLXlsTU9kQ0ZkSlhQaEtudTNHOV85RW5TMHhyRFY1MDZVSkduOGFtNmhnVGNTdmp3aTNWeEJuNTNpZlZLTGEzaDMtWV8xV21RWVpleGs3VmdybUF5aEVyVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "28eea567b93d",
+      "title": "Dark energy flips its sign, but the Hubble tension refuses to budge - Phys.org",
+      "published": "2026-07-10T21:40:01+00:00",
+      "summary": "Dark energy flips its sign, but the Hubble tension refuses to budge&nbsp;&nbsp;Phys.orgAstronomers Use a Neutron Star Merger to Measure Cosmic Expansion&nbsp;&nbsp;Universe TodayDark Energy Survey Data Hints At Non-Constant Expansion&nbsp;&nbsp;Quantum ZeitgeistYes, the Universe’s Expansion Is Still Accelerating, Researchers Say&nbsp;&nbsp;The Japan News",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EMEgzZUtCZHl4WXpKbEpZOTRrUTNUYzRGQU9iYnJpWDctbzlabUUzY3NHZDlxQ19NRlM1N1JmYXFUOTFZdHh4SlhhbU9NLXdkaDZBR21QOHB3TzEwaG1OMFhBNWJmMFZPUlp6ZEIwZW81aHJKM2c?oc=5"
         }
       ]
     },
@@ -90,18 +126,6 @@
       ]
     },
     {
-      "id": "688971610bb7",
-      "title": "Bryan Johnson Says an Incurable Autoimmune Disease Has Changed His Longevity Mission - Yahoo",
-      "published": "2026-07-10T17:15:49+00:00",
-      "summary": "Bryan Johnson Says an Incurable Autoimmune Disease Has Changed His Longevity Mission&nbsp;&nbsp;YahooBryan Johnson’s chronic disease is notoriously difficult to diagnose&nbsp;&nbsp;STATHow did Bryan Johnson end up with an autoimmune disease?&nbsp;&nbsp;Northeastern Global NewsBryan Johnson’s quest to beat aging hits a new obstacle&nbsp;&nbsp;Crain's Chicago BusinessI'm a Longevity Doctor. Bryan Johnson's Diagnosis Reminds Us That Longevity Isn't About Perfection.&nbsp;&nbsp;Outside Magazine",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWh5UjNZT2JqRkZiZ3NvbXhHYjNrOVR5TXZuN2lGdFFhNlFkcG1STFNzTThYcFZYR3VjbUVfR1d0NVY4Uzk4cVlSRTdNQ1I2UHU4Z294cDNaSkFlNGFMV2xFYXVfT25UNWdaVnVuWUJlNVU5TTB4elZ6Sm9zcnVjeVd6SVF1VHNrcXU1enZVSlIxc1hUamJvQWJuZHI3Uzg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "98fd85b0a4fb",
       "title": "We assumed water had to be delivered to planets by comets or asteroids — but a 2025 Nature study found that sub-Neptunes, the most common type of planet in the galaxy, can forge their own oceans by reacting hydrogen atmospheres with molten rock deep - Space Daily",
       "published": "2026-07-10T15:30:13+00:00",
@@ -117,7 +141,7 @@
       "id": "57c40134b2b3",
       "title": "Ticks Are on the Move. Here Are the Risks in Your Region. - The New York Times",
       "published": "2026-07-10T15:22:39+00:00",
-      "summary": "Ticks Are on the Move. Here Are the Risks in Your Region.&nbsp;&nbsp;The New York TimesExperts in Dubuque offer advice as tick bites rise nationally&nbsp;&nbsp;TelegraphHerald.comLyme disease cases in Michigan up sixfold as tick populations grow&nbsp;&nbsp;WILXThe U.S. is seeing one of the worst tick seasons on record. Here’s how Tennessee doctors recommend safely removing a tick&nbsp;&nbsp;Action News 5Tiny tick bites can cause big health problems – these tips can help&nbsp;&nbsp;EWG",
+      "summary": "Ticks Are on the Move. Here Are the Risks in Your Region.&nbsp;&nbsp;The New York TimesExperts in Dubuque offer advice as tick bites rise nationally&nbsp;&nbsp;TelegraphHerald.comThe U.S. is seeing one of the worst tick seasons on record. Here’s how Tennessee doctors recommend safely removing a tick&nbsp;&nbsp;Action News 5Nursing, microbiology professors offer tick bite prevention tips&nbsp;&nbsp;News at IUTiny tick bites can cause big health problems – these tips can help&nbsp;&nbsp;EWG",
       "sources": [
         {
           "name": "The New York Times",
@@ -129,7 +153,7 @@
       "id": "784e0927cc03",
       "title": "Lina Hidalgo sidelined by unexpected 'kissing disease' diagnosis - Chron",
       "published": "2026-07-10T14:28:48+00:00",
-      "summary": "Lina Hidalgo sidelined by unexpected 'kissing disease' diagnosis&nbsp;&nbsp;ChronJudge Lina Hidalgo announces she won't be available in coming weeks due to mono diagnosis&nbsp;&nbsp;ABC13 HoustonHarris County Judge Lina Hidalgo says she has mono, will scale back public appearances&nbsp;&nbsp;Click2HoustonHarris County Judge Lina Hidalgo says mono diagnosis will limit public outings&nbsp;&nbsp;Houston ChronicleHarris County Judge Lina Hidalgo says she has mono, plans limited public appearances&nb",
+      "summary": "Lina Hidalgo sidelined by unexpected 'kissing disease' diagnosis&nbsp;&nbsp;ChronHarris County Judge Lina Hidalgo says she has mono, will scale back public appearances&nbsp;&nbsp;Click2HoustonJudge Lina Hidalgo announces she won't be available in coming weeks due to mono diagnosis&nbsp;&nbsp;ABC13 HoustonHarris County Judge Lina Hidalgo stepping back from public events after mono diagnosis&nbsp;&nbsp;FOX 26 HoustonHarris County Judge Lina Hidalgo says she has mono, plans limited public appearanc",
       "sources": [
         {
           "name": "Chron",
@@ -150,10 +174,22 @@
       ]
     },
     {
-      "id": "72e40299d315",
-      "title": "Common Virus Triggers Parkinson's-Like Brain Damage in Mice - ScienceAlert",
+      "id": "c168150025ee",
+      "title": "2 common drugs may offer short-term improvements in long-COVID-related fatigue - CIDRAP",
+      "published": "2026-07-10T13:58:28+00:00",
+      "summary": "2 common drugs may offer short-term improvements in long-COVID-related fatigue&nbsp;&nbsp;CIDRAPCommon Drugs Basically Flunk for Long COVID Fatigue&nbsp;&nbsp;MedPage TodayHealth news round-up: 'landmark' long COVID trial results and are contraceptives linked to brain tumours?&nbsp;&nbsp;The Pharmaceutical JournalAntihistamines show modest benefits for long Covid fatigue treatment&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "CIDRAP",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS2JrbDJLT0pSaHo0VVNXZi1LdkNYbXhRVnRqeUxJa193N1ViUG1hRjJwN0plcTBJb0taOUFLTjBtRXJJbkNsa1NIamF2YkNNQjZleGpNOGdpb3R4UHNVU0x2YmVHMkx4WUJwVHo3UXh0OW9vWkRUZ2g1amdjTTJjd1NxZktycEJWUVVfTXc1TXVRS0pxOG96WEhCOVZmX3VJS1g4WWJSdHAyZ2d0MGhlaQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9b959bde0401",
+      "title": "Common Virus Can Trigger Parkinson's-Like Brain Damage in Mice - ScienceAlert",
       "published": "2026-07-10T13:02:43+00:00",
-      "summary": "Common Virus Triggers Parkinson's-Like Brain Damage in Mice&nbsp;&nbsp;ScienceAlert",
+      "summary": "Common Virus Can Trigger Parkinson's-Like Brain Damage in Mice&nbsp;&nbsp;ScienceAlert",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -198,14 +234,26 @@
       ]
     },
     {
-      "id": "73dc9abe4d83",
-      "title": "The Best Morning Drink for Better Liver Health, According to Dietitians - EatingWell",
-      "published": "2026-07-10T12:00:00+00:00",
-      "summary": "The Best Morning Drink for Better Liver Health, According to Dietitians&nbsp;&nbsp;EatingWell5 Cups of Coffee Daily May Lower Your Liver Disease, Cancer Risk By 47%&nbsp;&nbsp;HealthlineCoffee may have powerful effect on liver health, major study suggests&nbsp;&nbsp;Fox News5 daily cups of coffee linked to significant drops in cirrhosis, liver cancer risks&nbsp;&nbsp;Medical News TodayWhy Drinking 5 Cups Of Coffee A Day Might Be The Ultimate Shield For Your Liver&nbsp;&nbsp;NDTV",
+      "id": "24f99d84c040",
+      "title": "Scientists Discover a Sign of Dementia up to 15 Years Before Diagnosis - Newsweek",
+      "published": "2026-07-10T12:12:00+00:00",
+      "summary": "Scientists Discover a Sign of Dementia up to 15 Years Before Diagnosis&nbsp;&nbsp;NewsweekCan a blood test predict dementia? 4 latest studies show promise&nbsp;&nbsp;Medical News TodayThe New Frontier in the Fight Against Alzheimer's&nbsp;&nbsp;Al Día NewsBlood Biomarkers and Cognitive Testing Improve Prediction of Early Alzheimer’s Decline&nbsp;&nbsp;University of MiamiBlood-based Biomarker for Alzheimer's Disease Market to Reach&nbsp;&nbsp;openPR.com",
       "sources": [
         {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVBUUXpLSFRuemhYUkRXNlVlVlBXZVp3N3pqckxOLWFncW5ISGVubTc0eDZNRmJ3b2ljVXhmVGZqQ0o2WFExVjFRZ2lLaEhvY2k0dWFiTTU1dmZ6VmhiQlB1REJ6Wjd5R0NpbGxob1lLaGVEUHd4TGxUN0RkaGxqVGxtd2s?oc=5"
+          "name": "Newsweek",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcW9Na0JsMHh3N2NMc3pwVzdkY0wxS05Xb2Y0SUExVGpkSlhQcVNWc1FaZmRVTDI0cWkyWEtlcTk4X0ZEXzEzLWRTakJUWE90QWcwTk9OOVc0QjdMeU1fajdULW0zUF9xck5yWTFDYUNTVEl6LVR1RElnWU9VUlYwTzlEUkZ2R3RRV3hXTkNodFBGS0dxTWZacw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f25c0277b90c",
+      "title": "Coffee may have powerful effect on liver health, major study suggests - Fox News",
+      "published": "2026-07-10T11:00:40+00:00",
+      "summary": "Coffee may have powerful effect on liver health, major study suggests&nbsp;&nbsp;Fox NewsCoffee: 5 Cups a Day May Lower Your Liver Disease, Cancer Risk&nbsp;&nbsp;HealthlineThe Best Morning Drink for Better Liver Health, According to Dietitians&nbsp;&nbsp;EatingWell5 daily cups of coffee linked to significant drops in cirrhosis, liver cancer risks&nbsp;&nbsp;Medical News TodayWhy Drinking 5 Cups Of Coffee A Day Might Be The Ultimate Shield For Your Liver&nbsp;&nbsp;NDTV",
+      "sources": [
+        {
+          "name": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT2J1NXJFU2p0UmFIRjZDbzBQVS01N1A1NUpDYkdERFNsMUpLYkJfZGpTeWZpNkY5NW9aV09oYlBQRDNnQVV0bmhRbkVYb2g3TWw2c0c5SEJvdkVaaHQ0eDJucDFPTUFNaXVpZVAwWE0wa2NxNjVzUTRxbGpKYUNxaWJTYlBrWk4wTmkxTkM1S3pvMnVydnlhM0cxWHLSAaIBQVVfeXFMT1FhaWxnMGxkcU1PVUNtX1c4eGtTTXBFWnZIWlVCR2ZYZ2JxdjA0YVBYcVhpQTV2SXFXOXdIQUdnTmdNdUpMS0NUaTFPbktTRXZhdjZ1a0kxS1RVcXJlWW9nZ3pGZFhibFhpeTRtT1ZoRklyRnVnUjVIUWpwTTBvb2pPM2xLWjhaTkJEdHprd2RianZ3VG4ybXlwUDQ2c25JeVNn?oc=5"
         }
       ]
     },
@@ -258,18 +306,6 @@
       ]
     },
     {
-      "id": "b7953642bf96",
-      "title": "NYC Legionnaires' outbreak: 31 cooling towers test positive for Legionella - ABC7 New York",
-      "published": "2026-07-10T10:38:46+00:00",
-      "summary": "NYC Legionnaires' outbreak: 31 cooling towers test positive for Legionella&nbsp;&nbsp;ABC7 New YorkGuggenheim Museum among 31 addresses linked to Upper East Side Legionnaires' outbreak&nbsp;&nbsp;NBC New YorkWe mapped every UES cooling tower in the area affected by NYC’s latest Legionnaires’ outbreak&nbsp;&nbsp;GothamistNYC Finds Legionnaires’ Bacteria in 31 Upper East Side Buildings&nbsp;&nbsp;Bloomberg.comLegionnaires' outbreak hits New York as officials rush to test water towers&nbsp;&nbsp;BB",
-      "sources": [
-        {
-          "name": "ABC7 New York",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1lIQkxUZWdrSnpCTUhWSWIwZVNrUTBpMFZxTWxjNW93LUFJQnpCckN1Q2lKb0xoVnBOOWFVMkc4cFo5aXdrdUNHUHh2OTN2Nm82SFZoUnZWWms4N0RBOVVoZ1JQVjZfZlE2WkJ1Qi1xWmhYMUNKU0F4NkFRX3pXT2g4TVByVEdSSjNRREowZUNrX1BacGlMRG1JZ2lPZlBMYmZRZVFyemxNT3NYZzgxUtIBtgFBVV95cUxPVkZIRkdCaEZXSTlhV0MzNWpYNmZvVTNMRFZGWHNLTE05LUoyMkotOVpWdU5yUk9YRm8zbHVJUjdSaVVrNk90a3VqSE8tb3lOS0ZiS0VzeURYUURoZWszdTcwSmRZU052ekZXT215ZDN6WHpKLVhPZHlrZjBKTUpadEcxN1UxT3NYYnlqOXNJZTV4UGM4REU2UXhFanp3MC04U0pXRFdpOTJmdUcyUzhaYU9aSWpwZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "938372781bbe",
       "title": "Astronomers believe the Milky Way may contain billions, perhaps even trillions, of rogue planets drifting without close stars — and a 2026 study found one 9,800 light-years away that was likely born in a planetary system before being thrown into the dark - Space Daily",
       "published": "2026-07-10T10:15:48+00:00",
@@ -306,10 +342,22 @@
       ]
     },
     {
+      "id": "fdb3bba2f1da",
+      "title": "Japanese scientists identify neural mechanism that may explain why we dislike people - The Japan Times",
+      "published": "2026-07-10T08:58:00+00:00",
+      "summary": "Japanese scientists identify neural mechanism that may explain why we dislike people&nbsp;&nbsp;The Japan TimesFrom friend to foe: How the brain updates feelings toward others&nbsp;&nbsp;The TransmitterNew Brain Circuit Rewrites Emotional Bonds After Betrayal, Leaves Memory Intact&nbsp;&nbsp;Tech TimesJapan Study Unravels Brain Mechanism behind Feeling Hate&nbsp;&nbsp;nippon.comUniversity of Tokyo Manipulates \"Disgust\" with Light: Mouse Experiments Decode Brain Circuitry, Paving Way for Depressi",
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYjdFTGZ1enpTYm82MU43NXhKTHJOM1BiaHNXYnJKNlFJalMtUWd6OWFpcE1TcUM4dlBrVE4yOTlxZkVhZDBoZ29GWXhwRFZfeHNmR1Jyd3RQNDdDVDdKbTNyVjJVTUxZa0o0XzI1YmxyeHpsa3dNN1QxVVdOZlBTckYycjNYZHNERDBRN1h6SVFWc00?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ac7ac7ee5923",
       "title": "Ebola death toll reaches 600, as new cases suspected in other parts of Congo - NPR",
       "published": "2026-07-10T06:33:38+00:00",
-      "summary": "Ebola death toll reaches 600, as new cases suspected in other parts of Congo&nbsp;&nbsp;NPREbola outbreak is 'fastest-growing ever' after 600 deaths, Africa CDC says&nbsp;&nbsp;ABC News & Headlines – Australian Broadcasting CorporationEbola workers strike as CDC head says agency’s response will last months&nbsp;&nbsp;CIDRAPIn Congo, health workers fighting Ebola go on strike after months without pay&nbsp;&nbsp;The Washington PostCongo Ebola outbreak still spreading largely undetected, WHO offici",
+      "summary": "Ebola death toll reaches 600, as new cases suspected in other parts of Congo&nbsp;&nbsp;NPRIn Congo, health workers fighting Ebola go on strike after months without pay&nbsp;&nbsp;The Washington PostEbola outbreak remains out of control, spreads at record speed in the DRC&nbsp;&nbsp;Le Monde.frEbola outbreak is 'fastest-growing ever' after 600 deaths, Africa CDC says&nbsp;&nbsp;ABC News & Headlines – Australian Broadcasting CorporationEbola Outbreak, DRC and Region, Situation Report #10, July 8,",
       "sources": [
         {
           "name": "NPR",
@@ -318,14 +366,14 @@
       ]
     },
     {
-      "id": "4ea6573f66a4",
-      "title": "Pioneering treatment saves identical twins from rare pregnancy condition - BBC",
-      "published": "2026-07-10T01:37:23+00:00",
-      "summary": "Pioneering treatment saves identical twins from rare pregnancy condition&nbsp;&nbsp;BBCSee more headlines & perspectives on Google News",
+      "id": "32be1ee222de",
+      "title": "Pioneering treatment saves identical twins from rare pregnancy condition - Yahoo News Canada",
+      "published": "2026-07-10T01:37:00+00:00",
+      "summary": "Pioneering treatment saves identical twins from rare pregnancy condition&nbsp;&nbsp;Yahoo News CanadaSee more headlines & perspectives on Google News",
       "sources": [
         {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuMVRZQk1uYXlsZDRzNWZ1dkNwMjJYbWVyaGYxcWRWaWJucEsyYVBMb2lUTlNmUUN1cUZPUzN1QTNEeWwtcC1ObThSTVI5b21VOHJFX3p5RnpNUQ?oc=5"
+          "name": "Yahoo News Canada",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUklIdUN2bHRIY25rRk5yNnhyTlF1ZmtrWkFPQ3IxQjVGdjR4RFFMQVVyMkt3dlhpME1FX28wQU1SOXJrRXJSNEJYQUZQeWtuc1Zibzk2VnZmajZhX0NxRXFHVVgyek9tRmdSWFBwbE1QR25WU3AzSEVIOEo2d3ltMS1zd2ZoT3diSVJj?oc=5"
         }
       ]
     },
@@ -342,14 +390,14 @@
       ]
     },
     {
-      "id": "c2fbe2873a2f",
-      "title": "Julie DeVuono, former nurse practitioner, gets historic $544,000 state penalty for falsifying pediatric vaccine records - Newsday",
-      "published": "2026-07-09T23:01:50+00:00",
-      "summary": "Julie DeVuono, former nurse practitioner, gets historic $544,000 state penalty for falsifying pediatric vaccine records&nbsp;&nbsp;NewsdayFormer N.Y. Nurse Who Faked Childhood Vaccination Records for Over 160 Students Faces Record-Breaking Fine&nbsp;&nbsp;People.comLong Island nurse who made $1.5M selling fake COVID vaccine cards slapped with $544K fine&nbsp;&nbsp;New York PostShe Sold Fake COVID Vaccine Cards, New York Just Added a $544K Penalty&nbsp;&nbsp;YahooEx-nurse hit with record $544k fi",
+      "id": "12fb0a906a3e",
+      "title": "GLP-1 Weight Loss Drug Use Triples, as Obesity Declines - Newser",
+      "published": "2026-07-09T23:34:00+00:00",
+      "summary": "GLP-1 Weight Loss Drug Use Triples, as Obesity Declines&nbsp;&nbsp;NewserIn U.S., GLP-1 Usage Reaches New High&nbsp;&nbsp;Gallup NewsMore Americans Than Ever Are Taking Weight-Loss Drugs&nbsp;&nbsp;The New York TimesGLP-1 drug popularity is outpacing the science, Madison doctor says&nbsp;&nbsp;The Cap TimesNumber of Americans taking GLP-1s for weight loss hits record high: Survey&nbsp;&nbsp;The Hill",
       "sources": [
         {
-          "name": "Newsday",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc18yUGpOa0JaZWVFUHE3X1RYWGZTQkxBbUp4M1d5N2lsejFjVklCQmNUWXk5OUVPLW5sdXlXOFFMNFczazYyX0hnTkppSU81ZFdSQ290YUNhNE9tdGt4RXRabjN5ZjVWZlRjcG9FajRrUGFUYmphN3gxdlBGWEI2U0gwN1U3SVdiNE1yM0N4Wk1qVzZiMzJvanFfVG9fcUVjX3dEb24wN1lxa05SUXk0Zl9NdXI1UnJHTVFNTw?oc=5"
+          "name": "Newser",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbWl1MkhBOTdNeTBmX2YwOUgxS09jeHNaaDlodnFyOVFSdHF3TUtpdzFFQ0N6cVdxcFlnLVZrM1dzdllzWV9sVEU3cXNPUVp5RGFWRHQxdjl1YjlOaDVPSXVrTUJrYTg0Yy1JVVY5dy1aWjFoQUR0Mm5zMzkzT3JVdmNNYnJVVDVpUXYzRDNaZEh1SVBHcXo1SnRfVQ?oc=5"
         }
       ]
     },
@@ -357,7 +405,7 @@
       "id": "d1afc362e06d",
       "title": "Fast Walkers Could Cut Their Risk of Cognitive Decline in Half, New Study Finds - EatingWell",
       "published": "2026-07-09T22:23:48+00:00",
-      "summary": "Fast Walkers Could Cut Their Risk of Cognitive Decline in Half, New Study Finds&nbsp;&nbsp;EatingWellFast walkers in their 80s cut their risk of cognitive decline by half, a study finds&nbsp;&nbsp;NPROne walking habit could signal a healthier brain after 80, scientists say&nbsp;&nbsp;Fox NewsOlder adults who walk faster may cut their risk of cognitive decline by half&nbsp;&nbsp;Medical News TodayDoing This One Daily Habit Differently Could Protect Your Brain as You Age&nbsp;&nbsp;Yahoo Health",
+      "summary": "Fast Walkers Could Cut Their Risk of Cognitive Decline in Half, New Study Finds&nbsp;&nbsp;EatingWellFast walkers in their 80s cut their risk of cognitive decline by half, a study finds&nbsp;&nbsp;NPROne walking habit could signal a healthier brain after 80, scientists say&nbsp;&nbsp;Fox NewsOlder adults who walk faster may cut their risk of cognitive decline by half&nbsp;&nbsp;Medical News Today‘Super movers’ have half the risk of brain decline in old age — even if their brains show signs of de",
       "sources": [
         {
           "name": "EatingWell",
@@ -369,7 +417,7 @@
       "id": "d880538d0749",
       "title": "A Human Habitat at The Bottom of The Ocean Is Now Operational. Take a Look Inside - ScienceAlert",
       "published": "2026-07-09T20:02:22+00:00",
-      "summary": "A Human Habitat at The Bottom of The Ocean Is Now Operational. Take a Look Inside&nbsp;&nbsp;ScienceAlertDEEP begins first trial of Vanguard undersea habitat at 17 metres with four crew&nbsp;&nbsp;디지털투데이New subsea habitat deployed off the Florida Keys embarks on several missions&nbsp;&nbsp;Keys Weekly Newspapers",
+      "summary": "A Human Habitat at The Bottom of The Ocean Is Now Operational. Take a Look Inside&nbsp;&nbsp;ScienceAlertDEEP installs subsea habitat in Florida Keys for long-duration research&nbsp;&nbsp;WorkBoatDEEP begins first trial of Vanguard undersea habitat at 17 metres with four crew&nbsp;&nbsp;디지털투데이Human habitats built on the ocean floor will soon become operational. What is the meaning of living on the ocean floor?&nbsp;&nbsp;GIGAZINENew subsea habitat deployed off the Florida Keys embarks on several",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -405,7 +453,7 @@
       "id": "f3462de0298a",
       "title": "How Infrasound Rewires Ear Mechanics - Neuroscience News",
       "published": "2026-07-09T18:46:14+00:00",
-      "summary": "How Infrasound Rewires Ear Mechanics&nbsp;&nbsp;Neuroscience NewsHere’s Why Some Humans Can Hear Super Low-Frequency Sounds&nbsp;&nbsp;Nautilus | ScienceWhy some people are more bothered by low-frequency sounds&nbsp;&nbsp;Medical XpressWhy are some people more sensitive to low-frequency noise&nbsp;&nbsp;Tech Explorist",
+      "summary": "How Infrasound Rewires Ear Mechanics&nbsp;&nbsp;Neuroscience NewsWhy some people are more bothered by low-frequency sounds&nbsp;&nbsp;Medical XpressHere’s Why Some Humans Can Hear Super Low-Frequency Sounds&nbsp;&nbsp;Nautilus | ScienceWhy are some people more sensitive to low-frequency noise&nbsp;&nbsp;Tech Explorist",
       "sources": [
         {
           "name": "Neuroscience News",
@@ -426,6 +474,18 @@
       ]
     },
     {
+      "id": "ba6dc5d2d741",
+      "title": "Scientists discover molecular mechanism behind anesthesia-induced unconsciousness - News-Medical",
+      "published": "2026-07-09T18:10:00+00:00",
+      "summary": "Scientists discover molecular mechanism behind anesthesia-induced unconsciousness&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeEk5QkFPTHY3UHllNkRwN1JpOXZWRVBUTEF2aXlUMDMtVDczeHR0UjZ6Z2FWY2E4bmY3T21zalRYUUUwdzNHQXZFVjI1R2tURGZIWHhzRi05UXNHQy12YzZOR3FkLU5CNWlMRm9PRkJLQ3ZhWVItT2Q0ZEszbkF4S3d0WExfMWRka2FLcjlCRVRxMmkyU1poOXBYZHZtV0pDNWk4cXhCRktUSVY5YWpLNEZrQ052aGZaLVRUbnlsZTRfUDFtQ0p4OA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "90b1814ff0bc",
       "title": "Birdlike robot swims underwater, then flaps into flight without paddling - Tech Xplore",
       "published": "2026-07-09T18:00:12+00:00",
@@ -438,26 +498,14 @@
       ]
     },
     {
-      "id": "57f0abe3da1e",
-      "title": "Brits' Plan in 1788 to Stop Smallpox May Have Backfired - Newser",
-      "published": "2026-07-09T17:16:00+00:00",
-      "summary": "Brits' Plan in 1788 to Stop Smallpox May Have Backfired&nbsp;&nbsp;NewserSmallpox Scabs That British Doctors Used to Inoculate Patients May Have Introduced the Deadly Disease to Australia, New Research Suggests&nbsp;&nbsp;Smithsonian MagazineStochastic models indicate rapid smallpox spread and mass mortality of Indigenous Australians after colonial exposure&nbsp;&nbsp;NatureSydney’s 1789 smallpox epidemic came from the First Fleet and killed up to 220,000 Indigenous Australians: new research&nbs",
+      "id": "6353829f4e7b",
+      "title": "Learning What Substance Is Suspected of Causing Alzheimer's May Throw You Into an Existential Crisis - Futurism",
+      "published": "2026-07-09T17:45:06+00:00",
+      "summary": "Learning What Substance Is Suspected of Causing Alzheimer's May Throw You Into an Existential Crisis&nbsp;&nbsp;FuturismA Chemical From Car Tires May Be Linked to Alzheimer’s, New Study Suggests&nbsp;&nbsp;VICETire Chemical Tied to Alzheimer’s Risk&nbsp;&nbsp;Indianweb2.comRoadway to the Brain? Alzheimer’s Linked to Notorious Tire Chemical&nbsp;&nbsp;StudyFindsA common chemical from car tires might disrupt human brain cells and promote dementia&nbsp;&nbsp;PsyPost",
       "sources": [
         {
-          "name": "Newser",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRy0xQ0ptRkFCMXpfRVZTdFZjck03WVJJczdFckYxVzN3N1FaNGdjeFVIWEhCd0FWQm41S2k5UEF0SkY1TFJrX1ZUU20yak5ndXBNSU5pbmZ5T2FFd1VKc2J6RFV6TGNHcmJ2RGU0QkxQcHNzN0pjNlhKMnJlaEViZmg2N19IRXQ0bE9vQTV4enRUd054bzk4bGU4aC1lQ2YtOXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4f1fab10e40d",
-      "title": "Scientists' plan to halt rare El Niño heatwave may trigger something unstoppable - The Mirror US",
-      "published": "2026-07-09T16:42:00+00:00",
-      "summary": "Scientists' plan to halt rare El Niño heatwave may trigger something unstoppable&nbsp;&nbsp;The Mirror USAnother Super El Niño is brewing. Scientists are looking at a controversial solution to squash them&nbsp;&nbsp;CNNCan geoengineering blunt El Niño’s fury?&nbsp;&nbsp;Science NewsSeeding clouds with seawater could prevent a super El Niño&nbsp;&nbsp;New ScientistDimming the Sun Would Help Lower the Risks of El Niño. No, Really&nbsp;&nbsp;WIRED",
-      "sources": [
-        {
-          "name": "The Mirror US",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JWFFhRjNVcnF0QlN2WkRPT2xPSGxLZkRGUVQ2M0hRSkxtcklLckxZT1VJcmNVNmtBOU42UDhUamN2dzEwX2NjcmFNeU9DT1JudlhoWENVdW9keUxLcDdNVEpaZTdUU3p4cm9rQXNuaWxYeVNTUlc1MmdoV0TSAYIBQVVfeXFMT20yTVNwenhUSTBKZ3J6emViYUt1V3hQdE9CYy0xaXpfX2daX3FOb2REX01IZ0I1ZTVLdV8xZUh5TXpDTVFaMHMyVVo4OWlMMWh5Wlg0dktoR05wRHRxWHpZVGd1aUU5QTlmdXBmRmNMN2p4YVhGbmxKRkR0SWw5UFZadw?oc=5"
+          "name": "Futurism",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZVU2VmV3UExrRE1qZnVzaWpKeEFINXB4T204RktzYUFZQm44Y2UydTA5OE9mby1zZ3ZCMU5tNVZaMDRLOW9rd2ttRkJwMjl6XzgzV0hXVDBPMzduVG5xVWswMzc0Tno2NXhvLWNyTkQzQ3JEUFRvZjktSFEzbUlpLWdXVG5lMlZPQUlVUXYwSFJxTkwtV2c?oc=5"
         }
       ]
     },
@@ -465,7 +513,7 @@
       "id": "1e546e97f7e6",
       "title": "Prehistoric cave discoveries hint at shared culture between Neanderthals and humans - Yahoo",
       "published": "2026-07-09T14:56:26+00:00",
-      "summary": "Prehistoric cave discoveries hint at shared culture between Neanderthals and humans&nbsp;&nbsp;YahooUnlikely cave discovery suggests Neanderthals and humans shared a common culture&nbsp;&nbsp;CNNAncient Turkish Cave Reveals Neanderthals and Homo sapiens Shared Same Way of Life&nbsp;&nbsp;Sci.NewsNews - Modern Humans and Neanderthals May Have Shared Culture&nbsp;&nbsp;Archaeology MagazineArtefacts hint at cultural exchange between Neanderthals and humans&nbsp;&nbsp;New Scientist",
+      "summary": "Prehistoric cave discoveries hint at shared culture between Neanderthals and humans&nbsp;&nbsp;YahooUnlikely cave discovery suggests Neanderthals and humans shared a common culture&nbsp;&nbsp;CNNAncient Turkish Cave Reveals Neanderthals and Homo sapiens Shared Same Way of Life&nbsp;&nbsp;Sci.NewsNews - Modern Humans and Neanderthals May Have Shared Culture&nbsp;&nbsp;Archaeology MagazineDid our modern human ancestors and Neanderthals share a common culture?&nbsp;&nbsp;Scientific American",
       "sources": [
         {
           "name": "Yahoo",
@@ -486,18 +534,6 @@
       ]
     },
     {
-      "id": "69e7dc85f679",
-      "title": "Genomic epidemiology of the ongoing 2026 Bundibugyo Virus Disease outbreak in the Democratic Republic of the Congo - Virological",
-      "published": "2026-07-09T10:56:23+00:00",
-      "summary": "Genomic epidemiology of the ongoing 2026 Bundibugyo Virus Disease outbreak in the Democratic Republic of the Congo&nbsp;&nbsp;VirologicalAfrica Has Faced a Rare Ebola Outbreak for Months. Here’s What to Know.&nbsp;&nbsp;Council on Foreign RelationsBeyond the virus: How social science shapes the response to Ebola outbreaks&nbsp;&nbsp;Case Western Reserve UniversityEbola Crisis Explained&nbsp;&nbsp;USA for UNHCRThe Fight Against Ebola Is a Logistics Challenge as Much as a Medical One&nbsp;&nbsp;fu",
-      "sources": [
-        {
-          "name": "Virological",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQX3p3bmw1WlhMWUJ3VVNwMHBOVU5ONW5Nb2ZKQlRxN1ZLbFRaZ0ZrQVJNLXAyMHo0dElUN3dYb2hOWTdWLWRBeG14clRrQUJGMkJDMmpWd3dmVi1rblhqRmNsVldkZlA0VnE5UDdlTnpFR2lHS0tSdlpnU2dlekVKMms2Smw5c2JDSHBnaVhteXg3UlhWc2IyXzBPakxpYmVyVlVQcUE4bzYwT21ZQ1k4alNOMzEzM3JhUUttMmZrM1dEOFhZYlVnc2R3QUtkLU5MX2tGVUx0QjViRGVnV0E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ba24226e966b",
       "title": "Is This the End of Booze? - derekthompson.org",
       "published": "2026-07-09T10:05:45+00:00",
@@ -513,35 +549,11 @@
       "id": "67b0319414df",
       "title": "Staffing the moon base: How many astronauts should live in NASA's lunar outpost? - Space",
       "published": "2026-07-09T10:00:00+00:00",
-      "summary": "Staffing the moon base: How many astronauts should live in NASA's lunar outpost?&nbsp;&nbsp;SpaceNASA Is Calling on Industry to Build Its Lunar Infrastructure&nbsp;&nbsp;Universe TodayFancy living on the moon? NASA says it's working on making it a reality&nbsp;&nbsp;NewsweekGiant Leap: Moon Base Research Poised to Transform Building on Earth&nbsp;&nbsp;The Urban DeveloperSOM Presents Vision of Lunar Settlements at the 2021 Venice Architecture Biennale&nbsp;&nbsp;ArchDaily",
+      "summary": "Staffing the moon base: How many astronauts should live in NASA's lunar outpost?&nbsp;&nbsp;SpaceNASA Is Calling on Industry to Build Its Lunar Infrastructure&nbsp;&nbsp;Universe TodayGiant Leap: Moon Base Research Poised to Transform Building on Earth&nbsp;&nbsp;The Urban DeveloperSOM Presents Vision of Lunar Settlements at the 2021 Venice Architecture Biennale&nbsp;&nbsp;ArchDailyFancy living on the moon? NASA says it's working on making it a reality&nbsp;&nbsp;Newsweek",
       "sources": [
         {
           "name": "Space",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPak4zb3Z1VFdXeDdDYnpFcXNaV1BITDI3ekhzeVluNTJQbjRpUHpoUkxhWlFncTBVV21rTUh3blhsQ2ljNHVzSkF0bkxiVEF1eWxzWnNCb3ZnRndsa2FPXzg3UFZPMnVoY1FUTDdtcmg3WEFlRk9xSUQzWGk5TlhzWjRDV2ZjZWM5Ry1OVjFqd1oxMHRBaUJ1NmJTYXp2azMtZVIzU0xGYlhrOEZEVFY1ZlBqTGM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8114d11c418a",
-      "title": "A vitamin A discovery is changing what scientists know about vision - ScienceDaily",
-      "published": "2026-07-09T05:17:33+00:00",
-      "summary": "A vitamin A discovery is changing what scientists know about vision&nbsp;&nbsp;ScienceDaily",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01VmtveXJIRjh3ZVdoQ0dvazM5LXJScTIwWUE5QjQ2UExNWms2UXRrYy1BcmxBNDNtQzNnd3IzV1R1TDk3cWZtdXU4M3dlZkpwSFFORERlVHFBM2thOGRUQXNsTEtyMHoydEI1bHFNZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c177c4ff5d64",
-      "title": "Cancer cases worldwide are expected to soar in the coming decades, a report finds. Here’s why. - The Washington Post",
-      "published": "2026-07-09T02:43:21+00:00",
-      "summary": "Cancer cases worldwide are expected to soar in the coming decades, a report finds. Here’s why.&nbsp;&nbsp;The Washington PostCancer cases expected to soar worldwide, WHO report finds&nbsp;&nbsp;The GuardianGlobal cancer statistics 2024: GLOBOCAN estimates of incidence and mortality worldwide for 34 cancers in 186 countries&nbsp;&nbsp;IARC – INTERNATIONAL AGENCY FOR RESEARCH ON CANCERA Tough Prognosis&nbsp;&nbsp;theSkimmCancer cases to nearly double in 25 years, health org warns&nbsp;&nbsp;Audacy",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZWFqRTdqdjI4b1JhMTV4U2dIY0RWdXhpTE90VVZCZU9MSkd0WjlKM212b2Vnb3k1cmg0N0s2Y2pXY1h5SGp4cDVhSjc1WDlheTMxMFVnUFN2bXl1S0YxZEZmRUVpbVFsYVgxYzkwQWI4aERSaWNpRnFNM3BZbkltY3JISXlZUzlyaWx5VEstREZiQVh3cUVzUmRmX2FKTjdKMmUwUWZDU1RIQQ?oc=5"
         }
       ]
     }

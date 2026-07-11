@@ -1,10 +1,34 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-07-11T08:00:08.603584+00:00",
-  "total_fetched": 100,
-  "unique_count": 100,
-  "health_related_count": 46,
+  "fetched_at": "2026-07-11T13:25:14.639384+00:00",
+  "total_fetched": 106,
+  "unique_count": 106,
+  "health_related_count": 49,
   "news": [
+    {
+      "id": "827cbc213c89",
+      "title": "A mom's headaches and nausea were dismissed as pregnancy symptoms. She had a brain tumor. - CBS News",
+      "published": "2026-07-11T12:23:30+00:00",
+      "summary": "A mom's headaches and nausea were dismissed as pregnancy symptoms. She had a brain tumor.&nbsp;&nbsp;CBS News",
+      "sources": [
+        {
+          "name": "CBS News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTFlCOGJqb0FNR0RMVU9ZNUxNekFwbkhQRzVMcUp5NlFIdkZxS1ZJX0Rod2VuNUlTX0U0clBuVzVDcnRKYlhjUXZnelVRVmN0WGlZa3k5N2dFNktwNWJadzBCVjNySVhvTDhHS25mRnJlN2Q1QzI3RGZ1dWJaTlBqRUxYeVVNdjd5QlplaU5DV3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ecfaeff1e394",
+      "title": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo - The New York Times",
+      "published": "2026-07-11T11:17:18+00:00",
+      "summary": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo&nbsp;&nbsp;The New York TimesUS citizen working in DR Congo tests positive for Ebola&nbsp;&nbsp;CNNUS citizen in Congo tests positive for Ebola virus, US CDC says&nbsp;&nbsp;ReutersSecond US citizen contracts Ebola in Congo amid deadly outbreak&nbsp;&nbsp;YahooU.S. citizen working in Congo tests positive for Ebola; outbreak still spreading largely undetected, says WHO official&nbsp;&nbsp;The Hindu",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb2FDV3FqMTJEU05fb1FvcDVXN2ZpQnBZWEs4Q0p1SWVQenlBTEhlY203dWtZQ3J0RXBSUEYwVTlPcC1vNUprdzlMQWVRZm5iN1E3Z3RtNkRwMEphZ1J6SHRBWVhfaUVsVDJCTkJaNDZaT0JJaklQMnhGRjVDY0F1dktDM0VWSWNmRk5CNVdRNmY?oc=5"
+        }
+      ]
+    },
     {
       "id": "9fa0525b1a1a",
       "title": "Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma - AP News",
@@ -21,7 +45,7 @@
       "id": "0b7201f7d448",
       "title": "Legionnaires' outbreak hits New York as officials rush to test water towers - BBC",
       "published": "2026-07-11T01:37:02+00:00",
-      "summary": "Legionnaires' outbreak hits New York as officials rush to test water towers&nbsp;&nbsp;BBCNYC Legionnaires' outbreak: 31 cooling towers test positive for Legionella&nbsp;&nbsp;ABC7 New YorkWe mapped every UES cooling tower in the area affected by NYC’s latest Legionnaires’ outbreak&nbsp;&nbsp;GothamistWhy NYC council speaker and Health Department are at odds over Legionnaires outbreak&nbsp;&nbsp;NBC New YorkLegionnaires’ disease outbreak: Guggenheim Museum among 31 UES buildings with cooling tow",
+      "summary": "Legionnaires' outbreak hits New York as officials rush to test water towers&nbsp;&nbsp;BBCLegionnaires’ disease outbreak: Guggenheim Museum among 31 UES buildings with cooling towers that contained illness-causing bacteria&nbsp;&nbsp;amNewYorkThese NYC buildings have tested positive for Legionella: officials&nbsp;&nbsp;PIX11Why NYC council speaker and Health Department are at odds over Legionnaires outbreak&nbsp;&nbsp;NBC New York31 buildings test positive for Legionella bacteria on Manhattan’s ",
       "sources": [
         {
           "name": "BBC",
@@ -30,14 +54,26 @@
       ]
     },
     {
-      "id": "c2fbe2873a2f",
-      "title": "Julie DeVuono, former nurse practitioner, gets historic $544,000 state penalty for falsifying pediatric vaccine records - Newsday",
-      "published": "2026-07-10T23:01:58+00:00",
-      "summary": "Julie DeVuono, former nurse practitioner, gets historic $544,000 state penalty for falsifying pediatric vaccine records&nbsp;&nbsp;NewsdayFormer N.Y. Nurse Who Faked Childhood Vaccination Records for Over 160 Students Faces Record-Breaking Fine&nbsp;&nbsp;People.comLong Island nurse who made $1.5M selling fake COVID vaccine cards slapped with $544K fine&nbsp;&nbsp;New York PostEx-nurse hit with record $544k fine over falsifying children's vaccination records&nbsp;&nbsp;WKRCShe Sold Fake COVID Va",
+      "id": "da98dc1eb230",
+      "title": "We tend to assume life needs a star to begin, but a 2025 study found that some moons carried into deep space by planets expelled during supernova explosions could preserve subsurface oceans for billions of years — heated not by sunlight, but by the repeat - Space Daily",
+      "published": "2026-07-11T01:30:06+00:00",
+      "summary": "We tend to assume life needs a star to begin, but a 2025 study found that some moons carried into deep space by planets expelled during supernova explosions could preserve subsurface oceans for billions of years — heated not by sunlight, but by the repeat&nbsp;&nbsp;Space DailyAstronomers believe the Milky Way may contain billions, perhaps even trillions, of rogue planets drifting without close stars — and a 2026 study found one 9,800 light-years away that was likely born in a planetary system b",
       "sources": [
         {
-          "name": "Newsday",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc18yUGpOa0JaZWVFUHE3X1RYWGZTQkxBbUp4M1d5N2lsejFjVklCQmNUWXk5OUVPLW5sdXlXOFFMNFczazYyX0hnTkppSU81ZFdSQ290YUNhNE9tdGt4RXRabjN5ZjVWZlRjcG9FajRrUGFUYmphN3gxdlBGWEI2U0gwN1U3SVdiNE1yM0N4Wk1qVzZiMzJvanFfVG9fcUVjX3dEb24wN1lxa05SUXk0Zl9NdXI1UnJHTVFNTw?oc=5"
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPMXZ5c25fYktlU3VRd1pySF9XWkRfT1F1NVhyV0xqQ0xMUjRlNGIxb0NVY3NKNlowTDRqcTlEQ3BMU2dvS0lPa3U3MkFHSzc0UGFHVzFfYklmQktZSE9UMWY0QWhTSTZsM2t4MEVXTlA5WGVnZGtBdEVHSXBPZ0QwLXY3ZFRQMFA5Nlc5bGRqYmVRNnBzUk9ONmxpU0h0MUdwd0tmeVdVY2EwUUhuMjllczdva2dJczR6MWNpWjZSbnpiU0JkNE90YjMzZWhCbGdjQ0ViY1prbWRHMnJUdk5QYThMWEtIQWZlYWtFTFlqNl9VdUJqRFlPYXVVYTlkUnpHcFJReV9ra2hfMkZNWFZaWHhCZDl2TGx2MHVacWhQXzJocXRzeXZFbzlDbDBLRjMwalQzd3Vzc3VtR0REdEtmQVV1VTYzMjQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2289eb8580f3",
+      "title": "The real-life 'Hobbits' survived on an Indonesian island for thousands of years, until a long drought may - The Times of India",
+      "published": "2026-07-11T00:39:00+00:00",
+      "summary": "The real-life 'Hobbits' survived on an Indonesian island for thousands of years, until a long drought may&nbsp;&nbsp;The Times of India‘Hobbits’ likely scavenged dragons’ kills&nbsp;&nbsp;Science NewsHobbit-like human relatives may have been on a less advanced evolutionary path&nbsp;&nbsp;CNNFlores Hobbits’ eating habits offer clues about their evolutionary past&nbsp;&nbsp;Ars TechnicaHomo floresiensis was a scavenger, not a hunter, and did not control fire, fossil study finds&nbsp;&nbsp;Archaeo",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQbU92Z2I2bUF3VUh6c0tIcWdwck52THhYZ2ZRZ2dPSFZlNkc3VVBYTW9MSm41Z0tqS0lLUENEcXVhajd3UTBXQ0xTMEFaWHJEY3V0bXBPM3R0NFhXLTRRUGdEUGJfQXR1S3ZhWnhWdHZ1T1hZa2d4WG1fd3hSNmVNNFk1MER4WjBnNk1xbl9YQUFZZTJoenVKb25vNkFaalNNZVAyMUI5ZkF2UmxMOTliRHEyeS01M2RjS1lXV01mR3RlMXVUa0hHeXdNNWZNU0tkN2M5TTBpeVJxMmp1LVRsenZYVmFabVFjRFJ2THZLUk0ySUkxeVdTUG9JMzVpanJmc3E5clZoaXU4Y2wtOHBMOElUeVVkMFp5bGMwMGlzTmZVamlidlNUMUo4TDd6QdIBswJBVV95cUxNZmJOZVk1Zi1fUXd4V1NzQnNBWDU5M3FXbEp5UGlWZFBXc3dveXJaQVM1LUNtRnh5MWxob2tETkU5QV8zN1dsUzBDSDRzYkg2Smt4RWs0QkU1aHlac0Z5M0VRR2hHeGhDX0ExSllnaU16Vlo3cElWR3F5elVWVHRWcmhubkVDNzUxS1k3UDBzc0h4UkdfNVlVbTNUQmlqTTVGRU9rQzdYMkJhazllM3VfLW1Tc2c4SXZrMEJpVklSNDk5eTBFa09KSG9tc0xzbkVSMkJKcWRXTkctZ0RmMlBTZWxVamwtaTVJUUkwTXViOF80THozN1prOWs0VEQwUk5MbmlKMFdzSXdhdXFlWUdmNVlKQjl3czdreWV1TkdKRl9fVzN3aEtHVUJHOWptTVphSnlB?oc=5"
         }
       ]
     },
@@ -54,14 +90,26 @@
       ]
     },
     {
-      "id": "28eea567b93d",
-      "title": "Dark energy flips its sign, but the Hubble tension refuses to budge - Phys.org",
-      "published": "2026-07-10T21:40:01+00:00",
-      "summary": "Dark energy flips its sign, but the Hubble tension refuses to budge&nbsp;&nbsp;Phys.orgAstronomers Use a Neutron Star Merger to Measure Cosmic Expansion&nbsp;&nbsp;Universe TodayDark Energy Survey Data Hints At Non-Constant Expansion&nbsp;&nbsp;Quantum ZeitgeistYes, the Universe’s Expansion Is Still Accelerating, Researchers Say&nbsp;&nbsp;The Japan News",
+      "id": "368fb8292110",
+      "title": "Textbooks May Need Rewriting After Researchers Debunk a Core Chemistry Concept - SciTechDaily",
+      "published": "2026-07-10T20:55:17+00:00",
+      "summary": "Textbooks May Need Rewriting After Researchers Debunk a Core Chemistry Concept&nbsp;&nbsp;SciTechDaily",
       "sources": [
         {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EMEgzZUtCZHl4WXpKbEpZOTRrUTNUYzRGQU9iYnJpWDctbzlabUUzY3NHZDlxQ19NRlM1N1JmYXFUOTFZdHh4SlhhbU9NLXdkaDZBR21QOHB3TzEwaG1OMFhBNWJmMFZPUlp6ZEIwZW81aHJKM2c?oc=5"
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdm9LQVptbE51a2dSTk9IU29YbVd6NjBjZndMQm9UN1JkVDBwaTFDWFZ3TkEtcllUYVdNNVI0MlA0MDFvYWFLcXNMQmVrU01xNVNudlZrYTVfMUFyb3g0RFdHWVdJbUZ0N0Vhek9nV3NSZk81b1NBME9HOXRpcVlYM29uSDFyRmNSSXpLUE9qZ0FsZmNrTG1DLXhKdTVMQkxraWdmSDVJUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ddfe652e2fe5",
+      "title": "Jamestown Canyon virus found in mosquitoes in Salem, Fremont - WMUR",
+      "published": "2026-07-10T20:35:00+00:00",
+      "summary": "Jamestown Canyon virus found in mosquitoes in Salem, Fremont&nbsp;&nbsp;WMURJamestown Canyon virus detected in Lincoln mosquitoes as Nebraska health officials urge pr&nbsp;&nbsp;KHGI",
+      "sources": [
+        {
+          "name": "WMUR",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM3NXN0dQR1VtUlZJRUJSYmNGQnExMFYtOXd5VXlkTGZOZVpza25TM2V3WDlhclVOZzU3eFFVdDdjY29rV18wRmd2TFQxM3VfQVhuLVo4NDg3WWVhWk54VDY0bTI5N1Z6S0FNcDBWaDRiZnllSVBDSmRrQTZWTWhXRjVTQl91OXpMMnBWUzRn?oc=5"
         }
       ]
     },
@@ -126,6 +174,30 @@
       ]
     },
     {
+      "id": "688971610bb7",
+      "title": "Bryan Johnson Says an Incurable Autoimmune Disease Has Changed His Longevity Mission - Yahoo",
+      "published": "2026-07-10T17:15:49+00:00",
+      "summary": "Bryan Johnson Says an Incurable Autoimmune Disease Has Changed His Longevity Mission&nbsp;&nbsp;YahooHow did Bryan Johnson end up with an autoimmune disease?&nbsp;&nbsp;Northeastern Global NewsBryan Johnson’s chronic disease is notoriously difficult to diagnose&nbsp;&nbsp;STATBryan Johnson’s quest to beat aging hits a new obstacle&nbsp;&nbsp;Crain's Chicago BusinessI'm a Longevity Doctor. Bryan Johnson's Diagnosis Reminds Us That Longevity Isn't About Perfection.&nbsp;&nbsp;Outside Magazine",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWh5UjNZT2JqRkZiZ3NvbXhHYjNrOVR5TXZuN2lGdFFhNlFkcG1STFNzTThYcFZYR3VjbUVfR1d0NVY4Uzk4cVlSRTdNQ1I2UHU4Z294cDNaSkFlNGFMV2xFYXVfT25UNWdaVnVuWUJlNVU5TTB4elZ6Sm9zcnVjeVd6SVF1VHNrcXU1enZVSlIxc1hUamJvQWJuZHI3Uzg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "29b77221f54c",
+      "title": "Astronomers Use a Neutron Star Merger to Measure Cosmic Expansion - Universe Today",
+      "published": "2026-07-10T17:05:00+00:00",
+      "summary": "Astronomers Use a Neutron Star Merger to Measure Cosmic Expansion&nbsp;&nbsp;Universe TodayDark energy flips its sign, but the Hubble tension refuses to budge&nbsp;&nbsp;Phys.orgDark Energy Survey Data Hints At Non-Constant Expansion&nbsp;&nbsp;Quantum ZeitgeistYes, the Universe’s Expansion Is Still Accelerating, Researchers Say&nbsp;&nbsp;The Japan News",
+      "sources": [
+        {
+          "name": "Universe Today",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTC11MGRGdHNOYlZxaXBSNG5yWFdXM1EteEZwVkIyQlpaRXp2M2dFQXUwdDZlRHhfTlpVV0QwbkJDQjBHZmF5aVYwTkQ4SUQ3aGxXNV80d1RaUjFzbVpMZWxMbzBiSkM5RUIyNlhEdG5aUHZsdUZoQ21ZMDZ0dzNmeVU4MmtIZGItcXlVQjhfYTNXaFBva3hiWWVJaU5Eem12OGppb1FvSQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "98fd85b0a4fb",
       "title": "We assumed water had to be delivered to planets by comets or asteroids — but a 2025 Nature study found that sub-Neptunes, the most common type of planet in the galaxy, can forge their own oceans by reacting hydrogen atmospheres with molten rock deep - Space Daily",
       "published": "2026-07-10T15:30:13+00:00",
@@ -186,10 +258,10 @@
       ]
     },
     {
-      "id": "9b959bde0401",
-      "title": "Common Virus Can Trigger Parkinson's-Like Brain Damage in Mice - ScienceAlert",
+      "id": "72e40299d315",
+      "title": "Common Virus Triggers Parkinson's-Like Brain Damage in Mice - ScienceAlert",
       "published": "2026-07-10T13:02:43+00:00",
-      "summary": "Common Virus Can Trigger Parkinson's-Like Brain Damage in Mice&nbsp;&nbsp;ScienceAlert",
+      "summary": "Common Virus Triggers Parkinson's-Like Brain Damage in Mice&nbsp;&nbsp;ScienceAlert",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -246,14 +318,14 @@
       ]
     },
     {
-      "id": "f25c0277b90c",
-      "title": "Coffee may have powerful effect on liver health, major study suggests - Fox News",
-      "published": "2026-07-10T11:00:40+00:00",
-      "summary": "Coffee may have powerful effect on liver health, major study suggests&nbsp;&nbsp;Fox NewsCoffee: 5 Cups a Day May Lower Your Liver Disease, Cancer Risk&nbsp;&nbsp;HealthlineThe Best Morning Drink for Better Liver Health, According to Dietitians&nbsp;&nbsp;EatingWell5 daily cups of coffee linked to significant drops in cirrhosis, liver cancer risks&nbsp;&nbsp;Medical News TodayWhy Drinking 5 Cups Of Coffee A Day Might Be The Ultimate Shield For Your Liver&nbsp;&nbsp;NDTV",
+      "id": "73dc9abe4d83",
+      "title": "The Best Morning Drink for Better Liver Health, According to Dietitians - EatingWell",
+      "published": "2026-07-10T12:00:00+00:00",
+      "summary": "The Best Morning Drink for Better Liver Health, According to Dietitians&nbsp;&nbsp;EatingWellCoffee: 5 Cups a Day May Lower Your Liver Disease, Cancer Risk&nbsp;&nbsp;HealthlineCoffee may have powerful effect on liver health, major study suggests&nbsp;&nbsp;Fox NewsSix ways drinking coffee is good for your health&nbsp;&nbsp;The Times5 daily cups of coffee linked to significant drops in cirrhosis, liver cancer risks&nbsp;&nbsp;Medical News Today",
       "sources": [
         {
-          "name": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT2J1NXJFU2p0UmFIRjZDbzBQVS01N1A1NUpDYkdERFNsMUpLYkJfZGpTeWZpNkY5NW9aV09oYlBQRDNnQVV0bmhRbkVYb2g3TWw2c0c5SEJvdkVaaHQ0eDJucDFPTUFNaXVpZVAwWE0wa2NxNjVzUTRxbGpKYUNxaWJTYlBrWk4wTmkxTkM1S3pvMnVydnlhM0cxWHLSAaIBQVVfeXFMT1FhaWxnMGxkcU1PVUNtX1c4eGtTTXBFWnZIWlVCR2ZYZ2JxdjA0YVBYcVhpQTV2SXFXOXdIQUdnTmdNdUpMS0NUaTFPbktTRXZhdjZ1a0kxS1RVcXJlWW9nZ3pGZFhibFhpeTRtT1ZoRklyRnVnUjVIUWpwTTBvb2pPM2xLWjhaTkJEdHprd2RianZ3VG4ybXlwUDQ2c25JeVNn?oc=5"
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVBUUXpLSFRuemhYUkRXNlVlVlBXZVp3N3pqckxOLWFncW5ISGVubTc0eDZNRmJ3b2ljVXhmVGZqQ0o2WFExVjFRZ2lLaEhvY2k0dWFiTTU1dmZ6VmhiQlB1REJ6Wjd5R0NpbGxob1lLaGVEUHd4TGxUN0RkaGxqVGxtd2s?oc=5"
         }
       ]
     },
@@ -282,18 +354,6 @@
       ]
     },
     {
-      "id": "fc0a2fa1f52f",
-      "title": "The “Hobbits” Mysteriously Disappeared 50,000 Years Ago – Scientists Have Revealed What Happened to Their Home - SciTechDaily",
-      "published": "2026-07-10T10:45:40+00:00",
-      "summary": "The “Hobbits” Mysteriously Disappeared 50,000 Years Ago – Scientists Have Revealed What Happened to Their Home&nbsp;&nbsp;SciTechDailyFlores Hobbits’ eating habits offer clues about their evolutionary past&nbsp;&nbsp;Ars TechnicaHobbit-like human relatives may have been on a less advanced evolutionary path&nbsp;&nbsp;CNNHomo floresiensis was a scavenger, not a hunter, and did not control fire, fossil study finds&nbsp;&nbsp;Archaeology News Online MagazineOur ancient ‘hobbit’ cousins ate dragon l",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQelRTaGpCMXpBcEZwX0ZRdzd2ajF4T1poZGRuY1ZwVXpYdjBfU3dTR2p5MG1lSk9JT0s3Q1hSdGdjOTdMXzFCUUYxSENjVGhaZmlDZkoxb28zVFFlRGZoa0UwRk5CWThjZS1rMkNjcjJ1VklwVWhRQUEzZkxPSG1XUl9FOFZMckFnM3NuSzZXelZqdHdIM3VjR0ROQzl3Uy1pWDJzVlFVeVQ1c1dUQ1lCUnBnVnhvZ2U3cUU1RjhNa2Rnb3RmeHlmRXdEdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8cd71a86e68a",
       "title": "A supermassive black hole called RBH-1, weighing at least ten million Suns, appears to have been flung from its galaxy and is now racing through space at nearly 1,000 kilometres per second, leaving a 200,000-light-year wake of newborn stars - Space Daily",
       "published": "2026-07-10T10:45:25+00:00",
@@ -302,18 +362,6 @@
         {
           "name": "Space Daily",
           "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNdS1TVzJxMWZSR2MyeUVwUklzZGgxWmx1bGlpYkJqNUdZOFZmTkgzNHB4WW8ySjZTLXJPUWFkdmJWSmpnRzBwRlMxY1pNa2d2ZFg1ckRVZHZrS0dWZ2VMeHBuZXNibGNINUtWMTM1RGJTUTNFOUhvWFgzblQzc1dJLU9pQWU4M203Q1U3NjlLMlotZnhlQ2VKN3doamFlQU5kUDgxaHhCYTlUWVZOU0ptZHdHQ0p3XzFTdDZ0X0RTSl9DdWhoM2lLZWhTM1A5RnhpUEIzT0JmUVkxR1RhZ0hTZjNXQUxuV1NZUEQ3N1BqVzdJZkR5aHNBV2hEellnMS1nU3d1YzltaktJNkl6T0pKdDZmV25SUGMxRUZ2Ujd4eDA1TWE4R3k3TVVtMUxtVk1ONFhZUjFtTC1NdmxVclZKWUlCOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "938372781bbe",
-      "title": "Astronomers believe the Milky Way may contain billions, perhaps even trillions, of rogue planets drifting without close stars — and a 2026 study found one 9,800 light-years away that was likely born in a planetary system before being thrown into the dark - Space Daily",
-      "published": "2026-07-10T10:15:48+00:00",
-      "summary": "Astronomers believe the Milky Way may contain billions, perhaps even trillions, of rogue planets drifting without close stars — and a 2026 study found one 9,800 light-years away that was likely born in a planetary system before being thrown into the dark&nbsp;&nbsp;Space DailyWe tend to assume life needs a star to begin, but a 2025 study found that some moons carried into deep space by planets expelled during supernova explosions could preserve subsurface oceans for billions of years — heated no",
-      "sources": [
-        {
-          "name": "Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPeUhIS29WN2pkdUFjdVBOQjNCVk16bDFmcnAxdE1pNlVWeUNLTUxPT05Hd3JzdFp0dlhPa3VFLUFveThCdlF4SnA3cVVnWXh5RnBEaTdIWUx0Z2hNWmpnc0pCVUlST3lidkFEaEdObTRTU0hYV00xZVJad0FFTXh2RTJNamZTRU52VVRQT250akRGaGZmckRSV2hVang1RHBPeGVodmpxbWxhaUttNkJDRnNvQlhZRGR2QmlBMTRNd1hvVDAyVzBYNGZJU0VPUTFwZjFSRVpab1laQVVwWlVBcTBySGQzV3ZiSFBtWTQ5RGVBZ0QyeXFhNW1rVHZGSGdrVVQyc3d1NVZmRXJSX2xqbmd3eHI1cVJSbXZmTFpWYXY0Mnd1a0dtX2hqWnRLMm5EakRPbUdpUmw?oc=5"
         }
       ]
     },
@@ -357,7 +405,7 @@
       "id": "ac7ac7ee5923",
       "title": "Ebola death toll reaches 600, as new cases suspected in other parts of Congo - NPR",
       "published": "2026-07-10T06:33:38+00:00",
-      "summary": "Ebola death toll reaches 600, as new cases suspected in other parts of Congo&nbsp;&nbsp;NPRIn Congo, health workers fighting Ebola go on strike after months without pay&nbsp;&nbsp;The Washington PostEbola outbreak remains out of control, spreads at record speed in the DRC&nbsp;&nbsp;Le Monde.frEbola outbreak is 'fastest-growing ever' after 600 deaths, Africa CDC says&nbsp;&nbsp;ABC News & Headlines – Australian Broadcasting CorporationEbola Outbreak, DRC and Region, Situation Report #10, July 8,",
+      "summary": "Ebola death toll reaches 600, as new cases suspected in other parts of Congo&nbsp;&nbsp;NPRIn Congo, health workers fighting Ebola go on strike after months without pay&nbsp;&nbsp;The Washington PostGenomic epidemiology of the ongoing 2026 Bundibugyo Virus Disease outbreak in the Democratic Republic of the Congo&nbsp;&nbsp;VirologicalEbola outbreak is 'fastest-growing ever' after 600 deaths, Africa CDC says&nbsp;&nbsp;ABC News & Headlines – Australian Broadcasting CorporationEbola Outbreak, DRC ",
       "sources": [
         {
           "name": "NPR",
@@ -390,26 +438,26 @@
       ]
     },
     {
-      "id": "12fb0a906a3e",
-      "title": "GLP-1 Weight Loss Drug Use Triples, as Obesity Declines - Newser",
-      "published": "2026-07-09T23:34:00+00:00",
-      "summary": "GLP-1 Weight Loss Drug Use Triples, as Obesity Declines&nbsp;&nbsp;NewserIn U.S., GLP-1 Usage Reaches New High&nbsp;&nbsp;Gallup NewsMore Americans Than Ever Are Taking Weight-Loss Drugs&nbsp;&nbsp;The New York TimesGLP-1 drug popularity is outpacing the science, Madison doctor says&nbsp;&nbsp;The Cap TimesNumber of Americans taking GLP-1s for weight loss hits record high: Survey&nbsp;&nbsp;The Hill",
+      "id": "c2fbe2873a2f",
+      "title": "Julie DeVuono, former nurse practitioner, gets historic $544,000 state penalty for falsifying pediatric vaccine records - Newsday",
+      "published": "2026-07-09T23:01:50+00:00",
+      "summary": "Julie DeVuono, former nurse practitioner, gets historic $544,000 state penalty for falsifying pediatric vaccine records&nbsp;&nbsp;NewsdayFormer N.Y. Nurse Who Faked Childhood Vaccination Records for Over 160 Students Faces Record-Breaking Fine&nbsp;&nbsp;People.comLong Island nurse who made $1.5M selling fake COVID vaccine cards slapped with $544K fine&nbsp;&nbsp;New York PostAmityville Nurse’s Fake Vaccine Scheme Leads To Record Fine From Health Department&nbsp;&nbsp;DailyVoice.comEx-nurse hit",
       "sources": [
         {
-          "name": "Newser",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbWl1MkhBOTdNeTBmX2YwOUgxS09jeHNaaDlodnFyOVFSdHF3TUtpdzFFQ0N6cVdxcFlnLVZrM1dzdllzWV9sVEU3cXNPUVp5RGFWRHQxdjl1YjlOaDVPSXVrTUJrYTg0Yy1JVVY5dy1aWjFoQUR0Mm5zMzkzT3JVdmNNYnJVVDVpUXYzRDNaZEh1SVBHcXo1SnRfVQ?oc=5"
+          "name": "Newsday",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc18yUGpOa0JaZWVFUHE3X1RYWGZTQkxBbUp4M1d5N2lsejFjVklCQmNUWXk5OUVPLW5sdXlXOFFMNFczazYyX0hnTkppSU81ZFdSQ290YUNhNE9tdGt4RXRabjN5ZjVWZlRjcG9FajRrUGFUYmphN3gxdlBGWEI2U0gwN1U3SVdiNE1yM0N4Wk1qVzZiMzJvanFfVG9fcUVjX3dEb24wN1lxa05SUXk0Zl9NdXI1UnJHTVFNTw?oc=5"
         }
       ]
     },
     {
-      "id": "d1afc362e06d",
-      "title": "Fast Walkers Could Cut Their Risk of Cognitive Decline in Half, New Study Finds - EatingWell",
-      "published": "2026-07-09T22:23:48+00:00",
-      "summary": "Fast Walkers Could Cut Their Risk of Cognitive Decline in Half, New Study Finds&nbsp;&nbsp;EatingWellFast walkers in their 80s cut their risk of cognitive decline by half, a study finds&nbsp;&nbsp;NPROne walking habit could signal a healthier brain after 80, scientists say&nbsp;&nbsp;Fox NewsOlder adults who walk faster may cut their risk of cognitive decline by half&nbsp;&nbsp;Medical News Today‘Super movers’ have half the risk of brain decline in old age — even if their brains show signs of de",
+      "id": "cc6e0848d801",
+      "title": "Joseph Fraumeni, 93, Dies; Helped Discover Genetic Link to Cancer - The New York Times",
+      "published": "2026-07-09T20:54:49+00:00",
+      "summary": "Joseph Fraumeni, 93, Dies; Helped Discover Genetic Link to Cancer&nbsp;&nbsp;The New York Times",
       "sources": [
         {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yX01SNUc2LW5tYjJMRmxuR2dSMnM4RVZSVmRua0Q0bUJUWTAwTTVmNGpGby1HUmtKX19sSmhUMXdNQzNiMUtRWlljMWRoUnJJR1RxMGM0UnIzNVJkTkc5ellNVHMycDQ1R1FNbEd2c2FSYmpnZGFIQkFhRjM?oc=5"
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBScGhUbjh0bDBvU2M2YmhycUFCNWd6LUhWMGpoU0hSWi1WQjU5Vnd5a3lvdmk4ZGJ3YnFjWjZINWU1dlVrcUdlRk5IU1dGN1RBbGRsb2RYcUxoNmU3TVZOMHp6d05TZy1abHYtLUhsWE90VHVEbnBR?oc=5"
         }
       ]
     },
@@ -429,7 +477,7 @@
       "id": "ea6f47d20591",
       "title": "Pennsylvania measles cases surpass 100, now spreading in 7 counties - Pittsburgh Post-Gazette",
       "published": "2026-07-09T19:24:32+00:00",
-      "summary": "Pennsylvania measles cases surpass 100, now spreading in 7 counties&nbsp;&nbsp;Pittsburgh Post-GazetteMeasles cases surpass 100 in Pa.&nbsp;&nbsp;WFMZ.com7 new measles cases in Lancaster County in the past week&nbsp;&nbsp;LancasterOnlineDE health officials 'on pins and needles' after measles cases in PA&nbsp;&nbsp;Delawareonline.com2 more measles cases were confirmed in Chester County&nbsp;&nbsp;Inquirer.com",
+      "summary": "Pennsylvania measles cases surpass 100, now spreading in 7 counties&nbsp;&nbsp;Pittsburgh Post-GazetteMeasles cases surpass 100 in Pa.&nbsp;&nbsp;WFMZ.comDE health officials 'on pins and needles' after measles cases in PA&nbsp;&nbsp;Delawareonline.com7 new measles cases in Lancaster County in the past week&nbsp;&nbsp;LancasterOnline2 more measles cases were confirmed in Chester County&nbsp;&nbsp;Inquirer.com",
       "sources": [
         {
           "name": "Pittsburgh Post-Gazette",
@@ -465,7 +513,7 @@
       "id": "2b23b7dbe6e6",
       "title": "NASA seeks research volunteers to spend a year on a simulated mission to Mars or the Moon - FOX Weather",
       "published": "2026-07-09T18:22:00+00:00",
-      "summary": "NASA seeks research volunteers to spend a year on a simulated mission to Mars or the Moon&nbsp;&nbsp;FOX WeatherSick of Earth? NASA is recruiting volunteers for a yearlong Moon and Mars simulation&nbsp;&nbsp;CNNNASA Seeks Volunteers for Yearlong Simulated Mission to Moon, Mars&nbsp;&nbsp;NASA (.gov)NASA looking for volunteers to live in simulated space habitat for a year&nbsp;&nbsp;KHOUNASA needs volunteers to spend a year locked in a Mars simulation&nbsp;&nbsp;Scientific American",
+      "summary": "NASA seeks research volunteers to spend a year on a simulated mission to Mars or the Moon&nbsp;&nbsp;FOX WeatherSick of Earth? NASA is recruiting volunteers for a yearlong Moon and Mars simulation&nbsp;&nbsp;CNNNASA Seeks Volunteers For Out-Of-This-World Experience – Apply Now&nbsp;&nbsp;YahooNASA Seeks Volunteers for Yearlong Simulated Mission to Moon, Mars&nbsp;&nbsp;NASA (.gov)NASA looking for volunteers to live in simulated space habitat for a year&nbsp;&nbsp;KHOU",
       "sources": [
         {
           "name": "FOX Weather",
@@ -498,14 +546,26 @@
       ]
     },
     {
-      "id": "6353829f4e7b",
-      "title": "Learning What Substance Is Suspected of Causing Alzheimer's May Throw You Into an Existential Crisis - Futurism",
-      "published": "2026-07-09T17:45:06+00:00",
-      "summary": "Learning What Substance Is Suspected of Causing Alzheimer's May Throw You Into an Existential Crisis&nbsp;&nbsp;FuturismA Chemical From Car Tires May Be Linked to Alzheimer’s, New Study Suggests&nbsp;&nbsp;VICETire Chemical Tied to Alzheimer’s Risk&nbsp;&nbsp;Indianweb2.comRoadway to the Brain? Alzheimer’s Linked to Notorious Tire Chemical&nbsp;&nbsp;StudyFindsA common chemical from car tires might disrupt human brain cells and promote dementia&nbsp;&nbsp;PsyPost",
+      "id": "94cf49386c5e",
+      "title": "High‑altitude mouse found near 7,000 meters may redefine mammal survival limits - Phys.org",
+      "published": "2026-07-09T18:00:01+00:00",
+      "summary": "High‑altitude mouse found near 7,000 meters may redefine mammal survival limits&nbsp;&nbsp;Phys.orgThis tiny mouse thrives where humans can barely breathe&nbsp;&nbsp;CBCScientists uncover secrets of tiny Andean mouse living on the world's highest peaks&nbsp;&nbsp;Malay MailStudy sheds light on how mountaineering mice survive extreme environments&nbsp;&nbsp;Nebraska TodayOU Researcher Provides Insights on Survival of World’s Highest Dwelling Mammal&nbsp;&nbsp;The University of Oklahoma",
       "sources": [
         {
-          "name": "Futurism",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZVU2VmV3UExrRE1qZnVzaWpKeEFINXB4T204RktzYUFZQm44Y2UydTA5OE9mby1zZ3ZCMU5tNVZaMDRLOW9rd2ttRkJwMjl6XzgzV0hXVDBPMzduVG5xVWswMzc0Tno2NXhvLWNyTkQzQ3JEUFRvZjktSFEzbUlpLWdXVG5lMlZPQUlVUXYwSFJxTkwtV2c?oc=5"
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjTFhiRGc1dU5ZcVQ2YTJyNEM0Y1NNOVlGczU1U04tS3lTcHNZWGdJelNLbF8tbzgtNERGVE5ZWGVHY3YtWjdPcnpHNDVoNWxjSnQwdmtRTzlKeHlRam42Y1M4ZTlud1pQRFpQUEk1ekRKUHYwWUM3OWZQN2Q?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4f1fab10e40d",
+      "title": "Scientists' plan to halt rare El Niño heatwave may trigger something unstoppable - The Mirror US",
+      "published": "2026-07-09T16:42:00+00:00",
+      "summary": "Scientists' plan to halt rare El Niño heatwave may trigger something unstoppable&nbsp;&nbsp;The Mirror USAnother Super El Niño is brewing. Scientists are looking at a controversial solution to squash them&nbsp;&nbsp;CNNSeeding clouds with seawater could prevent a super El Niño&nbsp;&nbsp;New ScientistCan geoengineering blunt El Niño’s fury?&nbsp;&nbsp;Science NewsGeoengineering the Super El Niño: Study Looks at Cloud Brightening to Ease the Pain&nbsp;&nbsp;The Inertia",
+      "sources": [
+        {
+          "name": "The Mirror US",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JWFFhRjNVcnF0QlN2WkRPT2xPSGxLZkRGUVQ2M0hRSkxtcklLckxZT1VJcmNVNmtBOU42UDhUamN2dzEwX2NjcmFNeU9DT1JudlhoWENVdW9keUxLcDdNVEpaZTdUU3p4cm9rQXNuaWxYeVNTUlc1MmdoV0TSAYIBQVVfeXFMT20yTVNwenhUSTBKZ3J6emViYUt1V3hQdE9CYy0xaXpfX2daX3FOb2REX01IZ0I1ZTVLdV8xZUh5TXpDTVFaMHMyVVo4OWlMMWh5Wlg0dktoR05wRHRxWHpZVGd1aUU5QTlmdXBmRmNMN2p4YVhGbmxKRkR0SWw5UFZadw?oc=5"
         }
       ]
     },
@@ -530,30 +590,6 @@
         {
           "name": "CIDRAP",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOW1jSzAzN2JCMXlkTGNzSHJwWFQ5ZnZyUVdfT0hlOTVxbHJmVVV2X2RaSUFjUDkxY2NDbmN6RVA0MkRuTmNLZ05ldkp6MWpQdGdtRzV2T2hLaTlzMEkxYmFSa3NEVjFUbzNqVmhVbUMwVzNLTGhqTzhjM1lzdlNfM1JGc3RBeV9Jc2dxOG1CSU5kUDhfVUlobEZ5bXlIRW5ORnVFVGliTXlab3pQd0FtemZEc01iQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ba24226e966b",
-      "title": "Is This the End of Booze? - derekthompson.org",
-      "published": "2026-07-09T10:05:45+00:00",
-      "summary": "Is This the End of Booze?&nbsp;&nbsp;derekthompson.orgHow alcohol may lead to cancer, brain damage, early death: Latest evidence&nbsp;&nbsp;Medical News TodayBlood pressure and cholesterol lowered by 'cutting out one drink' a day say scientists&nbsp;&nbsp;The MirrorCardiologists Warn Against a Popular Drink to Protect Heart Health&nbsp;&nbsp;Men's JournalCT researchers find treatment for alcohol use disorder can reverse harmful brain effects&nbsp;&nbsp;Hartford Courant",
-      "sources": [
-        {
-          "name": "derekthompson.org",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tZzBjZ3BnNlI5SWNSN1BQMGlQU1c4RExiYlJTX3MwX1c4Q1hJYWFRMkdTNkJudlc0WjlPRXJUS3QzbXI0SWp5ZzdjRzhZTUMzRXY2VmRXUFoybFBibzd2M0d3OVBMQXVIVEFZYjhDa29oSUU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "67b0319414df",
-      "title": "Staffing the moon base: How many astronauts should live in NASA's lunar outpost? - Space",
-      "published": "2026-07-09T10:00:00+00:00",
-      "summary": "Staffing the moon base: How many astronauts should live in NASA's lunar outpost?&nbsp;&nbsp;SpaceNASA Is Calling on Industry to Build Its Lunar Infrastructure&nbsp;&nbsp;Universe TodayGiant Leap: Moon Base Research Poised to Transform Building on Earth&nbsp;&nbsp;The Urban DeveloperSOM Presents Vision of Lunar Settlements at the 2021 Venice Architecture Biennale&nbsp;&nbsp;ArchDailyFancy living on the moon? NASA says it's working on making it a reality&nbsp;&nbsp;Newsweek",
-      "sources": [
-        {
-          "name": "Space",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPak4zb3Z1VFdXeDdDYnpFcXNaV1BITDI3ekhzeVluNTJQbjRpUHpoUkxhWlFncTBVV21rTUh3blhsQ2ljNHVzSkF0bkxiVEF1eWxzWnNCb3ZnRndsa2FPXzg3UFZPMnVoY1FUTDdtcmg3WEFlRk9xSUQzWGk5TlhzWjRDV2ZjZWM5Ry1OVjFqd1oxMHRBaUJ1NmJTYXp2azMtZVIzU0xGYlhrOEZEVFY1ZlBqTGM?oc=5"
         }
       ]
     }

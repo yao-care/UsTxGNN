@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-16",
-  "drug_count": 1501,
-  "indication_count": 1860,
+  "generated": "2026-07-13",
+  "drug_count": 1567,
+  "indication_count": 1894,
   "drugs": [
     {
       "name": "1 2-Distearoyl-Sn-Glycero-3-Phosphocholine Activat",
@@ -8870,6 +8870,78 @@
     {
       "name": "Dalbavancin",
       "slug": "dalbavancin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Dalteparin",
+      "slug": "dalteparin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Danazol",
+      "slug": "danazol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Dantrolene",
+      "slug": "dantrolene",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Dapsone",
+      "slug": "dapsone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Daptomycin",
+      "slug": "daptomycin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Darolutamide",
+      "slug": "darolutamide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Darunavir",
+      "slug": "darunavir",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Dasatinib",
+      "slug": "dasatinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Daunorubicin",
+      "slug": "daunorubicin",
       "brands": [],
       "original": "",
       "level": "L5",
@@ -43667,6 +43739,295 @@
       ]
     },
     {
+      "name": "Deanol",
+      "slug": "deanol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Decitabine",
+      "slug": "decitabine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Deferasirox",
+      "slug": "deferasirox",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Deferiprone",
+      "slug": "deferiprone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Defibrotide",
+      "slug": "defibrotide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Demeclocycline",
+      "slug": "demeclocycline",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Denileukin Diftitox",
+      "slug": "denileukin_diftitox",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Deoxycholic Acid",
+      "slug": "deoxycholic_acid",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Desipramine",
+      "slug": "desipramine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Desloratadine",
+      "slug": "desloratadine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Desmopressin",
+      "slug": "desmopressin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Desonide",
+      "slug": "desonide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Desoximetasone",
+      "slug": "desoximetasone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Desvenlafaxine",
+      "slug": "desvenlafaxine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Dexamethasone",
+      "slug": "dexamethasone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Dexbrompheniramine",
+      "slug": "dexbrompheniramine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Dexchlorpheniramine",
+      "slug": "dexchlorpheniramine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Dexlansoprazole",
+      "slug": "dexlansoprazole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Dexmedetomidine",
+      "slug": "dexmedetomidine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Dexmethylphenidate",
+      "slug": "dexmethylphenidate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Dexpanthenol",
+      "slug": "dexpanthenol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Dexrazoxane",
+      "slug": "dexrazoxane",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Dextroamphetamine",
+      "slug": "dextroamphetamine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Dextromethorphan",
+      "slug": "dextromethorphan",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Diazepam",
+      "slug": "diazepam",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Diazoxide",
+      "slug": "diazoxide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Diclofenac",
+      "slug": "diclofenac",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Dicyclomine",
+      "slug": "dicyclomine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Diethylpropion",
+      "slug": "diethylpropion",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Diethyltoluamide",
+      "slug": "diethyltoluamide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Insomnia | 99.67% | No GABAergic / adenosine mechanism; known CNS stimulant toxicity contradicts prediction",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "ADHD, inattentive type | 99.57% | Weak AChE inhibition does not address dopamine/NE deficit; cholinergic crisis risk",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Specific developmental disorder | 99.44% | Animal data shows DEET impairs neurodevelopment — negative direction from therapeutic target",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Factor 5 excess / thrombosis | 99.16% | No coagulation factor V modulation; likely coagulation-node cluster artifact",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Antithrombin deficiency type 2 | 99.16% | Score differs from rank 4 by only 0.00002; cluster artifact confirmed",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Heparin cofactor 2 deficiency | 99.12% | Third consecutive coagulation disorder; score convergence ≈ 0.0004 across all three",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Migraine disorder | 99.07% | TRPA1 activation is a nociceptive stimulus — may aggravate rather than relieve migraine",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "ADHD (broad diagnostic code) | 99.06% | Duplicate of rank 2 from ontology node split; score gap of 0.005 further reduces confidence",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Diflunisal",
+      "slug": "diflunisal",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Erenumab",
       "slug": "erenumab",
       "brands": [],
@@ -43932,6 +44293,347 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Tamoxifen",
+      "slug": "tamoxifen",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tamsulosin",
+      "slug": "tamsulosin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tapentadol",
+      "slug": "tapentadol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tasimelteon",
+      "slug": "tasimelteon",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tazarotene",
+      "slug": "tazarotene",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Technetium Tc-99M Sestamibi",
+      "slug": "technetium_tc-99m_sestamibi",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tecovirimat",
+      "slug": "tecovirimat",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Hordeolum (stye) | L5 / Hold | Staphylococcal bacterial eye infection; tecovirimat has zero antibacterial activity",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Vibrio infectious disease | L5 / Hold | Gram-negative bacterial infection; mechanism is completely unrelated",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Klebsiella infectious disease | L5 / Hold | Gram-negative bacterial sepsis; scoring saturation artifact",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Noma | L5 / Hold | Polymicrobial bacterial oral necrotizing infection; no mechanism",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Lumpy skin disease | L5 / Hold | Capripoxvirus disease in cattle — non-human indication, outside drug repurposing scope",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Idiopathic severe pneumococcemia | L5 / Hold | Pneumococcal bacteremia; completely unrelated mechanism",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Phlebotomus fever | L5 / Hold | Caused by an RNA phlebovirus; tecovirimat exclusively targets DNA poxviruses",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Telavancin",
+      "slug": "telavancin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Telmisartan",
+      "slug": "telmisartan",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Telotristat Ethyl",
+      "slug": "telotristat_ethyl",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Temazepam",
+      "slug": "temazepam",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Temozolomide",
+      "slug": "temozolomide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Teprotumumab",
+      "slug": "teprotumumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Monosomy X | 99.79% | **Hold** | IGF-1R already deficient in 45,X; inhibition is counterindicated and opposes GH therapy",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Esophageal varices with bleeding | 99.64% | Research Question | Indirect pathway: IGF-1R → hepatic stellate cell activation → fibrosis → portal hypertension; no mechanism for acute hemorrhage",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Esophageal varices without bleeding | 99.64% | Research Question | Same indirect pathway; preventive framing slightly more plausible but lacks any evidence",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Mixed gonadal dysgenesis | 99.50% | **Hold** | Developmental disorder driven by chromosomal anomaly; IGF-1R inhibition during development is counterindicated",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Mitochondrial OXPHOS disorder (nuclear DNA) | 99.44% | **Hold** | IGF-1R inhibition suppresses PI3K/AKT/mTOR → impairs mitochondrial biogenesis; directly worsens the target pathology",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Turner syndrome (structural X anomaly) | 99.37% | **Hold** | Identical counterindication to monosomy X; structural anomaly variant does not change the logic",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Mosaic monosomy X | 99.37% | **Hold** | Milder 45,X/46,XX phenotype, but the same mechanistic counterindication applies",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Sex chromosome DSD | 99.34% | **Hold** | Broad developmental category; IGF-1R inhibition has no therapeutic rationale in sex-determination disorders",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Varicose disease | 99.33% | Research Question | Biologically plausible: IGF-1R drives VSMC proliferation and venous wall remodeling; warranting basic science inquiry only",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "X chromosome number anomaly | 99.32% | **Hold** | Parent ontology concept of the Turner group; same mechanistic counterindication propagated by disease ontology hierarchy",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Terazosin",
+      "slug": "terazosin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Hypotrichosis simplex of the scalp | 99.97% | L5 | S0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Congenital hypotrichosis milia | 99.97% | L5 | S0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Diffuse alopecia areata | 99.96% | L5 | S0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Alopecia | 99.95% | L4 | S0 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Migraine disorder | 99.92% | L3 | S1 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Migraine with brainstem aura | 99.91% | L4 | S1 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Ambras type hypertrichosis universalis congenita | 99.65% | L5 | S0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Manic bipolar affective disorder | 99.55% | L5 | S0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Kyphoscoliotic heart disease | 99.49% | L5 | S0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Terbutaline",
+      "slug": "terbutaline",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Terconazole",
+      "slug": "terconazole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Teriflunomide",
+      "slug": "teriflunomide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Teriparatide",
+      "slug": "teriparatide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Terlipressin",
+      "slug": "terlipressin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tetrabenazine",
+      "slug": "tetrabenazine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tetracaine",
+      "slug": "tetracaine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tetracycline",
+      "slug": "tetracycline",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Theophylline",
+      "slug": "theophylline",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Thiamine",
+      "slug": "thiamine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Thioridazine",
+      "slug": "thioridazine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Thiothixene",
+      "slug": "thiothixene",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     }
   ],
   "indications": [
@@ -44200,6 +44902,28 @@
         {
           "drug": "OSILODROSTAT",
           "slug": "db11837",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "ADHD (broad diagnostic code) | 99.06% | Duplicate of rank 2 from ontology node split; score gap of 0.005 further reduces confidence",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Diethyltoluamide",
+          "slug": "diethyltoluamide",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "ADHD, inattentive type | 99.57% | Weak AChE inhibition does not address dopamine/NE deficit; cholinergic crisis risk",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Diethyltoluamide",
+          "slug": "diethyltoluamide",
           "score": 99.0
         }
       ]
@@ -44513,6 +45237,17 @@
       ]
     },
     {
+      "name": "Alopecia | 99.95% | L4 | S0 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Terazosin",
+          "slug": "terazosin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Aluminum oxide | Industrial abrasive / excipient",
       "drug_count": 1,
       "drugs": [
@@ -44574,6 +45309,17 @@
           "drug": "Cevimeline",
           "slug": "cevimeline",
           "score": 99.08
+        }
+      ]
+    },
+    {
+      "name": "Ambras type hypertrichosis universalis congenita | 99.65% | L5 | S0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Terazosin",
+          "slug": "terazosin",
+          "score": 99.0
         }
       ]
     },
@@ -44650,6 +45396,17 @@
         {
           "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aluminum Oxide",
           "slug": "2_3_7_8-tetrachlorodibenzo-p-dioxin_aluminum_oxide",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Antithrombin deficiency type 2 | 99.16% | Score differs from rank 4 by only 0.00002; cluster artifact confirmed",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Diethyltoluamide",
+          "slug": "diethyltoluamide",
           "score": 99.0
         }
       ]
@@ -45633,6 +46390,17 @@
       ]
     },
     {
+      "name": "Congenital hypotrichosis milia | 99.97% | L5 | S0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Terazosin",
+          "slug": "terazosin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Conjunctivitis | 99.04% | L4 | Research Question | Historical use in gonococcal conjunctivitis; topical antibiotics are first-line; no systemic ampicillin RCT",
       "drug_count": 1,
       "drugs": [
@@ -45919,6 +46687,17 @@
       ]
     },
     {
+      "name": "Diffuse alopecia areata | 99.96% | L5 | S0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Terazosin",
+          "slug": "terazosin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Diffuse alopecia areata | 99.99% | L4 | Research Question | Indirect support from NCT05600673 and PMID 35278027 (AT/AU); needs dedicated prospective trial",
       "drug_count": 1,
       "drugs": [
@@ -46156,6 +46935,28 @@
       ]
     },
     {
+      "name": "Esophageal varices with bleeding | 99.64% | Research Question | Indirect pathway: IGF-1R → hepatic stellate cell activation → fibrosis → portal hypertension; no mechanism for acute hemorrhage",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Teprotumumab",
+          "slug": "teprotumumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Esophageal varices without bleeding | 99.64% | Research Question | Same indirect pathway; preventive framing slightly more plausible but lacks any evidence",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Teprotumumab",
+          "slug": "teprotumumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Estrone | Endogenous estrogen",
       "drug_count": 1,
       "drugs": [
@@ -46228,6 +47029,17 @@
         {
           "drug": "MIGALASTAT",
           "slug": "db05018",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Factor 5 excess / thrombosis | 99.16% | No coagulation factor V modulation; likely coagulation-node cluster artifact",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Diethyltoluamide",
+          "slug": "diethyltoluamide",
           "score": 99.0
         }
       ]
@@ -46685,6 +47497,17 @@
       ]
     },
     {
+      "name": "Heparin cofactor 2 deficiency | 99.12% | Third consecutive coagulation disorder; score convergence ≈ 0.0004 across all three",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Diethyltoluamide",
+          "slug": "diethyltoluamide",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Heparin cofactor 2 deficiency | 99.24% | Mechanism direction reversed — asparaginase suppresses HCII synthesis, worsening not treating HCII deficiency",
       "drug_count": 1,
       "drugs": [
@@ -46879,6 +47702,17 @@
       ]
     },
     {
+      "name": "Hordeolum (stye) | L5 / Hold | Staphylococcal bacterial eye infection; tecovirimat has zero antibacterial activity",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tecovirimat",
+          "slug": "tecovirimat",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Huntington disease | TxGNN Knowledge Graph",
       "drug_count": 2,
       "drugs": [
@@ -47015,6 +47849,17 @@
       ]
     },
     {
+      "name": "Hypotrichosis simplex of the scalp | 99.97% | L5 | S0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Terazosin",
+          "slug": "terazosin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Hypotrichosis simplex of the scalp | 99.99% | L5 | Research Question | Biologically plausible (direct extension of eyelash approval); no dedicated trials yet; warrants pilot study",
       "drug_count": 1,
       "drugs": [
@@ -47063,6 +47908,17 @@
       ]
     },
     {
+      "name": "Idiopathic severe pneumococcemia | L5 / Hold | Pneumococcal bacteremia; completely unrelated mechanism",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tecovirimat",
+          "slug": "tecovirimat",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "IgG4-related sclerosing cholangitis | TxGNN Knowledge Graph",
       "drug_count": 3,
       "drugs": [
@@ -47101,6 +47957,17 @@
         {
           "drug": "Bempedoic Acid",
           "slug": "bempedoic_acid",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Insomnia | 99.67% | No GABAergic / adenosine mechanism; known CNS stimulant toxicity contradicts prediction",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Diethyltoluamide",
+          "slug": "diethyltoluamide",
           "score": 99.0
         }
       ]
@@ -47278,6 +48145,17 @@
       ]
     },
     {
+      "name": "Klebsiella infectious disease | L5 / Hold | Gram-negative bacterial sepsis; scoring saturation artifact",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tecovirimat",
+          "slug": "tecovirimat",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Klebsiella pneumonia | TxGNN Knowledge Graph",
       "drug_count": 2,
       "drugs": [
@@ -47342,6 +48220,17 @@
         {
           "drug": "Carboprost Tromethamine",
           "slug": "carboprost_tromethamine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Kyphoscoliotic heart disease | 99.49% | L5 | S0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Terazosin",
+          "slug": "terazosin",
           "score": 99.0
         }
       ]
@@ -47592,6 +48481,17 @@
       ]
     },
     {
+      "name": "Lumpy skin disease | L5 / Hold | Capripoxvirus disease in cattle — non-human indication, outside drug repurposing scope",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tecovirimat",
+          "slug": "tecovirimat",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Lung occult squamous cell carcinoma | 99.99% | L4 | Research Question",
       "drug_count": 1,
       "drugs": [
@@ -47713,6 +48613,17 @@
       ]
     },
     {
+      "name": "Manic bipolar affective disorder | 99.55% | L5 | S0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Terazosin",
+          "slug": "terazosin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Marfan syndrome | TxGNN Knowledge Graph",
       "drug_count": 1,
       "drugs": [
@@ -47784,12 +48695,45 @@
       ]
     },
     {
+      "name": "Migraine disorder | 99.07% | TRPA1 activation is a nociceptive stimulus — may aggravate rather than relieve migraine",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Diethyltoluamide",
+          "slug": "diethyltoluamide",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Migraine disorder | 99.92% | L3 | S1 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Terazosin",
+          "slug": "terazosin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Migraine with Brainstem Aura | 99.97% | L5 | Hold | Cerebral vasospasm risk; no clinical data",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Carboprost Tromethamine",
           "slug": "carboprost_tromethamine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Migraine with brainstem aura | 99.91% | L4 | S1 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Terazosin",
+          "slug": "terazosin",
           "score": 99.0
         }
       ]
@@ -47811,6 +48755,28 @@
       ]
     },
     {
+      "name": "Mitochondrial OXPHOS disorder (nuclear DNA) | 99.44% | **Hold** | IGF-1R inhibition suppresses PI3K/AKT/mTOR → impairs mitochondrial biogenesis; directly worsens the target pathology",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Teprotumumab",
+          "slug": "teprotumumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Mixed gonadal dysgenesis | 99.50% | **Hold** | Developmental disorder driven by chromosomal anomaly; IGF-1R inhibition during development is counterindicated",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Teprotumumab",
+          "slug": "teprotumumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Monosomy X | 99.31% | L5 | Hold",
       "drug_count": 1,
       "drugs": [
@@ -47822,12 +48788,34 @@
       ]
     },
     {
+      "name": "Monosomy X | 99.79% | **Hold** | IGF-1R already deficient in 45,X; inhibition is counterindicated and opposes GH therapy",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Teprotumumab",
+          "slug": "teprotumumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Morella Cerifera Root Bark | Botanical (bayberry)",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Activated Charcoal Arsenic Triiodide Arsenic Triox",
           "slug": "activated_charcoal_arsenic_triiodide_arsenic_triox",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Mosaic monosomy X | 99.37% | **Hold** | Milder 45,X/46,XX phenotype, but the same mechanistic counterindication applies",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Teprotumumab",
+          "slug": "teprotumumab",
           "score": 99.0
         }
       ]
@@ -47957,6 +48945,17 @@
         {
           "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aconitum Napel",
           "slug": "2_3_7_8-tetrachlorodibenzo-p-dioxin_aconitum_napel",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Noma | L5 / Hold | Polymicrobial bacterial oral necrotizing infection; no mechanism",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tecovirimat",
+          "slug": "tecovirimat",
           "score": 99.0
         }
       ]
@@ -48375,6 +49374,17 @@
         {
           "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aluminum Oxide",
           "slug": "2_3_7_8-tetrachlorodibenzo-p-dioxin_aluminum_oxide",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Phlebotomus fever | L5 / Hold | Caused by an RNA phlebovirus; tecovirimat exclusively targets DNA poxviruses",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tecovirimat",
+          "slug": "tecovirimat",
           "score": 99.0
         }
       ]
@@ -49197,6 +50207,17 @@
       ]
     },
     {
+      "name": "Sex chromosome DSD | 99.34% | **Hold** | Broad developmental category; IGF-1R inhibition has no therapeutic rationale in sex-determination disorders",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Teprotumumab",
+          "slug": "teprotumumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Sezary syndrome",
       "drug_count": 1,
       "drugs": [
@@ -49280,6 +50301,17 @@
         {
           "drug": "Apis Mellifera Arctium Lappa Root Arctostaphylos U",
           "slug": "apis_mellifera_arctium_lappa_root_arctostaphylos_u",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Specific developmental disorder | 99.44% | Animal data shows DEET impairs neurodevelopment — negative direction from therapeutic target",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Diethyltoluamide",
+          "slug": "diethyltoluamide",
           "score": 99.0
         }
       ]
@@ -49643,6 +50675,17 @@
       ]
     },
     {
+      "name": "Turner syndrome (structural X anomaly) | 99.37% | **Hold** | Identical counterindication to monosomy X; structural anomaly variant does not change the logic",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Teprotumumab",
+          "slug": "teprotumumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Turpentine（松節油） | 泌尿道（歷史用途）；具刺激性",
       "drug_count": 1,
       "drugs": [
@@ -49757,6 +50800,17 @@
       ]
     },
     {
+      "name": "Varicose disease | 99.33% | Research Question | Biologically plausible: IGF-1R drives VSMC proliferation and venous wall remodeling; warranting basic science inquiry only",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Teprotumumab",
+          "slug": "teprotumumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Vein Disease | 99.06% | L4 | Research Question",
       "drug_count": 1,
       "drugs": [
@@ -49774,6 +50828,17 @@
         {
           "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aconitum Napel",
           "slug": "2_3_7_8-tetrachlorodibenzo-p-dioxin_aconitum_napel",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Vibrio infectious disease | L5 / Hold | Gram-negative bacterial infection; mechanism is completely unrelated",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tecovirimat",
+          "slug": "tecovirimat",
           "score": 99.0
         }
       ]
@@ -49899,6 +50964,17 @@
         {
           "drug": "SEBELIPASE ALFA",
           "slug": "db11563",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "X chromosome number anomaly | 99.32% | **Hold** | Parent ontology concept of the Turner group; same mechanistic counterindication propagated by disease ontology hierarchy",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Teprotumumab",
+          "slug": "teprotumumab",
           "score": 99.0
         }
       ]

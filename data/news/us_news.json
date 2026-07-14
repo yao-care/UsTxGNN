@@ -1,43 +1,55 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-07-14T13:49:31.364259+00:00",
-  "total_fetched": 124,
-  "unique_count": 123,
-  "health_related_count": 56,
+  "fetched_at": "2026-07-14T19:23:07.688265+00:00",
+  "total_fetched": 92,
+  "unique_count": 92,
+  "health_related_count": 33,
   "news": [
     {
-      "id": "27b2f2bd060d",
-      "title": "Your coffee habit may be making your liver healthier - The Washington Post",
-      "published": "2026-07-14T13:47:18+00:00",
-      "summary": "Your coffee habit may be making your liver healthier&nbsp;&nbsp;The Washington PostCoffee May Protect the Liver in More Ways Than Scientists Realized&nbsp;&nbsp;SciTechDailyThe Best Morning Drink for Better Liver Health, According to Dietitians&nbsp;&nbsp;EatingWellCoffee may have powerful effect on liver health, major study suggests&nbsp;&nbsp;Fox NewsWhat Really Happens When You Drink Coffee Every Day, According to Dietitians&nbsp;&nbsp;Real Simple",
+      "id": "8057115193ad",
+      "title": "A sugar key to the origins of life has been discovered in interstellar space - CNN",
+      "published": "2026-07-14T16:59:52+00:00",
+      "summary": "A sugar key to the origins of life has been discovered in interstellar space&nbsp;&nbsp;CNNA sweet discovery: Astronomers say sugar is lurking in the space between stars&nbsp;&nbsp;PBSA Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy&nbsp;&nbsp;The New York TimesDetection of a four-carbon sugar in interstellar space&nbsp;&nbsp;NatureSpace jam: astronomers detect ‘raspberry sugar’ on dust cloud in Milky Way&nbsp;&nbsp;The Guardian",
       "sources": [
         {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeGtwdlZPRkRWczNlVVpmTHp2NnM1MU9nX1VCUmI5UWhaOHlZMkJJckV4VllTdVRaVGE1SXJKanItTUs4M2lycXQ5SU1GTlpORGNBTE54Sk5kMGNJdE41VnJLOTVvaWp4QTlFXzI4bFlVWGpnYWdoYnBIb1FEZ3FkVjR5c1lDNUNVbVdIdGVORnA5aGo1U0pjRjlaVnNudnBSRWc?oc=5"
+          "name": "CNN",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlMnN0cGV6M1VOY2M5UlJLaW9vYzBtQnFuZnpQcW1jNEpjcnQ4RTBWa0Rfc3EzMXVRR2R6eWc2a0ljTnYwc05MMXRnVmx6bFF0MXRaQVp1bEZFMXN3MWxFS2xVeUduTzJpTGU3dVFuMGpKX01kM0RGT0NuQ24?oc=5"
         }
       ]
     },
     {
-      "id": "178956f55cfa",
-      "title": "Physicists Have Argued Over This Problem Since 1883. It May Now Be Solved. - The New York Times",
-      "published": "2026-07-14T12:57:04+00:00",
-      "summary": "Physicists Have Argued Over This Problem Since 1883. It May Now Be Solved.&nbsp;&nbsp;The New York TimesSolution to Feynman’s reverse sprinkler puzzle also applies to “silly sprinklers”&nbsp;&nbsp;Ars Technica'Silly sprinklers' put in reverse to further unravel decades-old physics puzzle&nbsp;&nbsp;Phys.orgNYU Researchers Identify Physical Mechanisms Behind Reverse Sprinkler Motion&nbsp;&nbsp;geneonline.comFeynman’s Famous Physics Problem of a Sprinkler Running in Reverse has a Surprising New So",
+      "id": "33dee0f48d40",
+      "title": "These Look Like Ordinary X-Rays. They’re Not - Gizmodo",
+      "published": "2026-07-14T14:00:33+00:00",
+      "summary": "These Look Like Ordinary X-Rays. They’re Not&nbsp;&nbsp;Gizmodo1st-ever X-rays in space offer hope for possible patients headed to the moon&nbsp;&nbsp;SpaceAstronauts take first X-rays in space&nbsp;&nbsp;Popular ScienceMedical X-rays taken in space for the first time&nbsp;&nbsp;The Elkhart TruthFirst human x-rays in space deemed diagnostic&nbsp;&nbsp;AuntMinnie",
+      "sources": [
+        {
+          "name": "Gizmodo",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY2Vwd2VPekZyZVRidUhqZ0NBcnBWS3hjX04tTVZ5UDZMNkNLM3BaMUdEWGdxRnRySFpqYS1ZMUxCRDJYbWFFaEd5UE5Dek1wMVlHajlsQ1VkbEJyT2s2QjdabGx4QTRJeU5XWkZQdE5GZk9MZ3NOUjBzS2JRZkRzR1JIUFNUOWJNU3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d3c2c3857b7c",
+      "title": "WHO warns DR Congo Ebola outbreak may be double the official tally - Al Jazeera",
+      "published": "2026-07-14T13:12:48+00:00",
+      "summary": "WHO warns DR Congo Ebola outbreak may be double the official tally&nbsp;&nbsp;Al JazeeraWHO says it has less than half funding needed to fight Ebola&nbsp;&nbsp;ReutersWorkers at an Ebola treatment center in Congo strike over unpaid salaries and bonuses&nbsp;&nbsp;AP NewsThe Ebola epidemic is getting out of control&nbsp;&nbsp;The Economist‘This is a fire’: DRC Ebola outbreak is fastest-growing ever, warns WHO&nbsp;&nbsp;UN News",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYzQ2SHNBSnZudVNkQmpENnNmb1A0WmZqTWl5dmVocmxycjU4TVBFU1IxYTdlaHBLLWFDdXRVajhVR0FZUUFQRmFqaGQ3UWVMS2NhUE1kSG95MTRINDVSZ2NYMVd4a1JITS1EdWJvSDNwTlBnZURjVVVWMVBCTTY0VkgtX0ZTM0lVb2hPRk5KWTl3N0xTU1ljc1BCMnd4NGZ0VWw3X1YyZENockXSAbABQVVfeXFMT0FkcVRGOTllcVJsQ3Q1alJ3bzBGNXU0UjFzelFnT2V6a05sbEY0NHpmU0RhWWE3UVdfaHZCTUw5RXdrYUJMYldRODhrOWZWUW9RZHp1anVfMXBpbnl1Y0JFQUF1SVVsQzROT1lYcFloUmVLelNXY29XZlBiZ0duWEFMYzdrTVMwbUZ3eVhVa0dwTXRfSndDZlgtWklna2h0M0prQUhwN3AtcVUzU0pNd1Y?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d1946dd3a298",
+      "title": "Researchers Claim to Have Solved the Perplexing ‘Reverse Sprinkler’ Problem That Stumped Feynman - The New York Times",
+      "published": "2026-07-14T12:57:05+00:00",
+      "summary": "Researchers Claim to Have Solved the Perplexing ‘Reverse Sprinkler’ Problem That Stumped Feynman&nbsp;&nbsp;The New York TimesSolution to Feynman’s reverse sprinkler puzzle also applies to “silly sprinklers”&nbsp;&nbsp;Ars Technica'Silly sprinklers' put in reverse to further unravel decades-old physics puzzle&nbsp;&nbsp;Phys.orgNYU Researchers Identify Physical Mechanisms Behind Reverse Sprinkler Motion&nbsp;&nbsp;geneonline.comFeynman’s Famous Physics Problem of a Sprinkler Running in Reverse h",
       "sources": [
         {
           "name": "The New York Times",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSV9vYXNTeFhZREd2aDd4OGNSV3VBbEgtaGFsWk8wSE1ad3BfaFozdUZfRElyYi1Ed0NWSDc1aTNDMk1lZHNBNzlPY3lGeF9HblZzSkNBOEJxM3Q0X3kxdnRyTGZ2S09KU0l1Y3JCQ2FsQ3dET1NtdWVKTngtYnBLemIzdm5QUkZv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2bd7f1ea4f4e",
-      "title": "In a sweet discovery, astronomers find sugar lurking in the space between stars - NBC News",
-      "published": "2026-07-14T12:37:03+00:00",
-      "summary": "In a sweet discovery, astronomers find sugar lurking in the space between stars&nbsp;&nbsp;NBC NewsDetection of a four-carbon sugar in interstellar space&nbsp;&nbsp;NatureFirst 'true sugar' molecule found in interstellar space could reshape what we know of life's origins&nbsp;&nbsp;starlust.orgScientists detect sugar molecule in a cloud about 26,700 light-years away in the centre of the Milky Way for the first time&nbsp;&nbsp;The Times of IndiaSweet! Scientists find raspberry sugar in interstell",
-      "sources": [
-        {
-          "name": "NBC News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMWJQVDFPckZGSzFKVXZLYThMcmFhMEtNX2d2Ym40OUl4d3VaUTZZLUNraFFFT0YtRVpDWElISmphdHJ0UUFzTmp4RjdhTmtTdzlCM2JhQ1FFLVpuaGhvaW9KN0tGRG9WY1ByQTdNVW95OVlpU3FrcnRvWm9XNnd0d1dWbnBlX1R1My1jSGZqZHBzRUNkNzlNaFVET1pnQU1FcGRpQ0JCd01ScVk?oc=5"
         }
       ]
     },
@@ -54,26 +66,38 @@
       ]
     },
     {
-      "id": "0cbefe29c636",
-      "title": "Salad greens, lettuce ‘possible source’ of cyclosporiasis parasite: Officials - NewsNation",
-      "published": "2026-07-14T10:52:28+00:00",
-      "summary": "Salad greens, lettuce ‘possible source’ of cyclosporiasis parasite: Officials&nbsp;&nbsp;NewsNation‘Lettuce or Salad Greens’ Identified as Potential Source of Cyclospora Outbreak&nbsp;&nbsp;The New York TimesThe foods most likely to carry diarrhea-causing parasite cyclospora (and which are safe)&nbsp;&nbsp;The HillMichigan says diarrhea outbreak may be linked to lettuce, salad greens as cases rise above 3,000&nbsp;&nbsp;CNNCyclosporiasis in Utah? State health officials say no diarrhea outbreak c",
+      "id": "8c25394b81cf",
+      "title": "Frame-dragging observations validate Einstein yet again - Phys.org",
+      "published": "2026-07-14T11:30:01+00:00",
+      "summary": "Frame-dragging observations validate Einstein yet again&nbsp;&nbsp;Phys.orgAn orbiting disco ball gave Einstein’s theory its most precise test yet&nbsp;&nbsp;Ars TechnicaLARES-2 satellite measures frame-dragging effect around the Earth&nbsp;&nbsp;NatureArmenian scientist co-authors Nature study confirming Einstein’s theory with record precision&nbsp;&nbsp;Public Radio of ArmeniaScientists just confirmed Einstein’s greatest theory—again&nbsp;&nbsp;Scientific American",
       "sources": [
         {
-          "name": "NewsNation",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMzJXSV9YQ1BhalFpSFdsUk9weEx2OVdPR0lndTVERjVTbVNJeEtWSlVSZ0ZfOEhNRU5kRTRhejJDT3JtbEJIN3l5ZzZ6b2ViQTlCY3ZwdVI4Q2s5WF91WS1GUTh6TVE3Y0k5NW5MTXowT19zcHdacGtFSFVLUEo5dmdDU1MzNGFCU0YwajJ3dXNXVXhEMkRiQmN30gGfAUFVX3lxTE9yQWRRcFZrTWRhMGZJTjJsVDVIUGlUT2NkWVBaNmtRSWg5c09Xa0xhUUlvSlp3LURfZF9uUnFxU3REbUpqY2F6YzBTTWNIZFdIWWpaNHR2YmRBYnRQZnp2bG5CN0VlWnJucWxaSDNzb0dPVkZtZmFsMTN3dW41RkZjTEJqaTRqVm1tdjRxRTI2cHh0NVowMGtfNS0ySmZ2SQ?oc=5"
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CYVB2MFdyU2ZRZG9mblZWLU9Ib2M5ZjZUXzVJTnR5VDZvdzNGUTktcVRTSTluaWRxVEs5WEtqNGg1VE96S3pVdkRwZ0g5SlJ4TURSMzhCYUtJTHBwODhySUhB?oc=5"
         }
       ]
     },
     {
-      "id": "cd408969bedf",
-      "title": "The bugs are getting worse - CNN",
-      "published": "2026-07-14T09:00:25+00:00",
-      "summary": "The bugs are getting worse&nbsp;&nbsp;CNNTicks and mosquitoes expand ranges, health officials warn of rising infections&nbsp;&nbsp;Межа. Новини України.GUEST VIEWS: What's bugging us now?&nbsp;&nbsp;McAlester News-CapitalEDITORIAL: What's bugging us now?&nbsp;&nbsp;Enidnews.com",
+      "id": "a6a0374860d0",
+      "title": "'Vanishingly Rare' Discovery: T. Rex Hatchlings Were Smaller Than a Cat And Born by The Dozen - ScienceAlert",
+      "published": "2026-07-14T10:03:30+00:00",
+      "summary": "'Vanishingly Rare' Discovery: T. Rex Hatchlings Were Smaller Than a Cat And Born by The Dozen&nbsp;&nbsp;ScienceAlert",
       "sources": [
         {
-          "name": "CNN",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IQjhCMTBWX2dOcU13VDE4NDZONnNONURoMHN5Z0pGUGZPdHh2Sld4bEUtUzZMM3oyZHlkQ0plZWxoeVA0UlJCbGFyUVJqRnl1TENURi0weGNsMDJZakJud3A4dEZ5LXBkeU5Sdk5MMHpJMExoV2lnMzlHdw?oc=5"
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOWdRUVd4a0xkeDR4UlpROTllOU5iM3JZNTFWZFlmYW1MQXJPMzUySkZFUUlxUTB0TDRTSjBVbndGN1F6VEFoVFItR25XNkktcVJDWmYtYV9HTWhfUDdkSnRnTklua2ZET3IxQjlkemZsVmZQNDJIWUxrVWtiMzYyd04xS3NsbVRwb1QtYVBXaEtjSGpBTzFYQVkwOWRDLWJOV1VnQmljQUk0QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "469ad62ba548",
+      "title": "Good at maths and into jazz: Nine extraordinary things you probably didn't know about sharks - BBC",
+      "published": "2026-07-14T09:06:50+00:00",
+      "summary": "Good at maths and into jazz: Nine extraordinary things you probably didn't know about sharks&nbsp;&nbsp;BBCWorld Shark Day Highlights Whale Shark's Importance to Red Sea Ecosystem Health&nbsp;&nbsp;وكالة الأنباء السعوديةDiving into the World of Sharks with National Geographic and Scholastic’s Discovery Fair&nbsp;&nbsp;Scholastic Kids PressHow Sharks Quietly Keep Oceans Alive and Humans Safe&nbsp;&nbsp;Business TodayThe Real Shark Week Story Isn’t Attacks, It’s How Rare They Are&nbsp;&nbsp;A-Z An",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMVk5QWRsNWM4OThpTEJzQ3dydkFNSjJSTnkybWh5b0sxUzktWjlDWFB5SkNDRDR1U1lBTVA1Z01iNHhJSzA5RXh6em5ON2xBZG9CX0Z5V1ZFNEFSTE9lQlJHWFhmanJfSTdkYnNCNnVtbGpMTHNWRHRJajhvWENUZFZBUm41dEdrejAyaEFrbHFWRTVPYkRwN0dGSW1vNEFuZ2FpMmYwTXdpZw?oc=5"
         }
       ]
     },
@@ -81,7 +105,7 @@
       "id": "90d100df2b7b",
       "title": "New York Is Having a Legionnaires’ Outbreak. Here’s What to Know. - The New York Times",
       "published": "2026-07-14T07:00:08+00:00",
-      "summary": "New York Is Having a Legionnaires’ Outbreak. Here’s What to Know.&nbsp;&nbsp;The New York TimesShould Washington DC be worried about Legionnaire's outbreak in NYC?&nbsp;&nbsp;USA TodayAdditional cooling towers test positive for Legionella bacteria&nbsp;&nbsp;Spectrum News NY1UWS Building’s Hot Water System Tests Positive for Legionella Bacteria, Memo Shows&nbsp;&nbsp;West Side RagNYC Legionnaires’ outbreak grows to 59 cases; 15 people currently hospitalized&nbsp;&nbsp;FOX 5 New York",
+      "summary": "New York Is Having a Legionnaires’ Outbreak. Here’s What to Know.&nbsp;&nbsp;The New York TimesHas Washington DC had a Legionnaires' disease outbreak before?&nbsp;&nbsp;USA TodayAdditional cooling towers test positive for Legionella bacteria&nbsp;&nbsp;Spectrum News NY1Legionnaires' disease outbreak on Upper East Side expands again: What to know&nbsp;&nbsp;NBC New YorkUWS Building’s Hot Water System Tests Positive for Legionella Bacteria, Memo Shows&nbsp;&nbsp;West Side Rag",
       "sources": [
         {
           "name": "The New York Times",
@@ -90,74 +114,26 @@
       ]
     },
     {
-      "id": "cc6d8e0b7d63",
-      "title": "Researchers link Long COVID to another virus | NHK WORLD-JAPAN News - nhk.or.jp",
-      "published": "2026-07-14T06:52:49+00:00",
-      "summary": "Researchers link Long COVID to another virus | NHK WORLD-JAPAN News&nbsp;&nbsp;nhk.or.jpLong COVID patients are told symptoms are in their head – here’s how to change the narrative&nbsp;&nbsp;The ConversationNew Data on Long COVID, Vaccine Effectiveness, Kidney Risk, Household Transmission, and Influenza Vaccine Coadministration&nbsp;&nbsp;Consultant360Long covid: What we now know about its causes and possible treatments&nbsp;&nbsp;New ScientistLong COVID still sidelines local patients; Providen",
+      "id": "931aae6af0c3",
+      "title": "Hours each day in an iron lung kept her breathing, her will to live kept her alive - BBC",
+      "published": "2026-07-14T02:20:14+00:00",
+      "summary": "Hours each day in an iron lung kept her breathing, her will to live kept her alive&nbsp;&nbsp;BBCMartha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma&nbsp;&nbsp;CNNOklahoma woman, the last American in an iron lung, dies at 78&nbsp;&nbsp;KFOR.comMartha Lillard, last known US polio survivor using iron lung, dies aged 78&nbsp;&nbsp;The GuardianLast U.S. Polio Survivor in an Iron Lung Dies After the Machine Started to Break Down and They Couldn’t Find Anyone to Repair It&nbs",
       "sources": [
         {
-          "name": "nhk.or.jp",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKT1VrM0dSS21yZFQ2SFJuWHN2b1FPbWdPbEtFRkI3TDdFLUY2ZjZXbXZUQV9XUGl4NUlNLVZjeXFqa0NUWUJBYmVlTVVtcVpZaG9rYklRc1hoc0ZObFFuZ2VB?oc=5"
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYM0pMVjFlSThGWUp4eXJhUlIyMlAtaktobktoT1BuTFluNUNjaFV1RDNtUEdFR0Y1X3hJLWVBM0E5MjZoRS1kY3pramhPc2F4V1B0TGpXclFIUQ?oc=5"
         }
       ]
     },
     {
-      "id": "17fe213d496c",
-      "title": "Agitation in Dementia Can Be Helped by Medical Cannabis, Study Suggests - The New York Times",
-      "published": "2026-07-14T04:01:06+00:00",
-      "summary": "Agitation in Dementia Can Be Helped by Medical Cannabis, Study Suggests&nbsp;&nbsp;The New York TimesCannabis-derived treatment eases agitation in hospice-eligible dementia patients, trial finds&nbsp;&nbsp;Medical XpressNine out of 10 elderly dementia sufferers become less agitated after marijuana treatment, study finds&nbsp;&nbsp;The IndependentTHC/CBD Shows Promise for Treating Agitation in Late-Stage Alzheimer’s&nbsp;&nbsp;Being PatientMediPharm Labs Announces Positive Phase II LiBBY Trial Re",
+      "id": "b991100ca11c",
+      "title": "Dead stars in our cosmic backyard: Astronomers spot four white dwarfs hiding under our noses - Phys.org",
+      "published": "2026-07-14T00:00:01+00:00",
+      "summary": "Dead stars in our cosmic backyard: Astronomers spot four white dwarfs hiding under our noses&nbsp;&nbsp;Phys.orgFour New Dead Stars Discovered In The Solar Neighborhood, Within Just 65 Light-Years Of Earth&nbsp;&nbsp;IFLScienceAstronomers' surprise at discovery of new stars&nbsp;&nbsp;BBCHubble uncovers four hidden dead stars near the Sun&nbsp;&nbsp;Earth.comAstronomers Discover Four New White Dwarfs in Solar Neighborhood&nbsp;&nbsp;Sci.News",
       "sources": [
         {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWDREVldjbmxSMDgwTEZwRXk5azFSTTBDS1BDdVpZRDc3VVFCU0hnYV9uVExNbzM4VE1CZlAzalQ5MVZtSFlKYmxwQ1hDRFlJSEwyaHFIdkJBYk14aFB1dXVCUXFENFdPb2xlSlBFc0R6XzJ4UHRKOWZzYU1RVjlubzhKc1g4dDgxZFBzQTRXUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c54ed7db6dff",
-      "title": "Workers at an Ebola treatment center in Congo strike over unpaid salaries and bonuses - AP News",
-      "published": "2026-07-14T03:31:00+00:00",
-      "summary": "Workers at an Ebola treatment center in Congo strike over unpaid salaries and bonuses&nbsp;&nbsp;AP NewsSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR2R5YzBsQ3o2U25zMU03d2pUcHVPazY4Q3J6SWhmeDdvQ1VWMHlDS1h1X0FnZ05UWFF1QVl5TlluOHc5bkE0N1czVzVpdGpybE0zS2RISUlkQWowZ3hLRTdMM0F5U3FXUUlZN1RpN1BKQXEtV29DUV9qZnN4dlVjLXh6U2ZvRkRYRGtPaGNlNHN1TWdDRkM1OU1mNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5575c97d8055",
-      "title": "EXCLUSIVE: US to block citizens in Congo from immediate travel home, citing Ebola - Reuters",
-      "published": "2026-07-14T02:20:00+00:00",
-      "summary": "EXCLUSIVE: US to block citizens in Congo from immediate travel home, citing Ebola&nbsp;&nbsp;ReutersSecond American infected with Ebola is responding well to treatment in Germany&nbsp;&nbsp;The Washington Post2nd American infected with Ebola in DRC evacuated to Germany, WHO chief says&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosUS citizen working in DR Congo tests positive for Ebola&nbsp;&nbsp;CNNSecond American diagnosed with Ebola in Congo outbreak&nbsp;&nbsp;NewsNation",
-      "sources": [
-        {
-          "name": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbEtrSnpzTGVmWThxejNXSkxxTmsxUWRTWHpJRFdFSlBNeElOXzdDQTh1bklEUjlNNHZTVG1iOEtLdkU1T2VOQXN1QVNWZ0E2Y09YaUJISVVIRmQ4V0RQUTdEYUVRZHo4QmllSmFNNmhoNTZud041YjBvMm9NZldHRWRTYW5VVEI4UU9tXzgwR3F5dkhZOFoyWGd0Vl9rZUVuZVlIZWF1dVFZc3dPLURNbXlmcFVhWWpxcUtlaDVTcU8yU09qakVkQW5B?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cf2b94c95836",
-      "title": "Hours each day in an iron lung kept her breathing, her will to live kept her alive - Yahoo News Canada",
-      "published": "2026-07-14T02:20:00+00:00",
-      "summary": "Hours each day in an iron lung kept her breathing, her will to live kept her alive&nbsp;&nbsp;Yahoo News CanadaSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "Yahoo News Canada",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XQkstVVRueGJqblJpQVhpbjNtVWtwLTEtZV9kOHRWTDNMWk55NEg4ZnpvQzliUVNGN3RobFBRLVdVdUt2b0d4UzVCYUVaQVRwOThCS3NoQ3NwMkFuRjhCSGtNbjBDd0xDT0w3MEZYNnlJS00?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4f1c67586509",
-      "title": "OHA identifies 3 Providence hospitals as measles exposure sites - KOIN.com",
-      "published": "2026-07-14T00:53:36+00:00",
-      "summary": "OHA identifies 3 Providence hospitals as measles exposure sites&nbsp;&nbsp;KOIN.comOHA lists new Portland-area measles exposure sites at Providence clinics and ERs&nbsp;&nbsp;KATUNew measles exposure sites identified in Oregon after lull&nbsp;&nbsp;OregonLive.com3 Providence locations identified as measles exposure sites in Multnomah, Clackamas counties&nbsp;&nbsp;KPTVOregon health officials identify 3 Providence locations as measles exposure sites&nbsp;&nbsp;KGW",
-      "sources": [
-        {
-          "name": "KOIN.com",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY1l6Yy1vRlVVc3RXR0V3NzdtRlY0VW1XTk1RcjhDSVBvN3RpSWNRLThTTFpOOURUU01welJPQjRadkdNMU44Mkdhdi03NGc3TXN2U3VEcnpKeFd3V21vanlGQUl3T1ZHbWE2SkU0dW8ybVBGN3ZxaExzbnlQVExEbnhuSmI1U2VBUFZZOUUwSFpHakJyNTRMTHcxNHBhd9IBowFBVV95cUxQX1NyVnJyME1UaE1YNzRnUWNZT3lVZWJPM1RyRW5xR1A1bEJLajFONHpjbGowcklWNTZsRE41X1BsT3F4ZGd2SFJHZ1plOUJoRXI1M01zTWY0ejdHSm1BUWVOOHlMcEk2WTM2RU5yWDFDM2lPc1hiXzNVRG9Sd0pULVNpRkZRM1BPdDB0NlluenZwQVdub3Nka3FKZDc0dEEtU0pV?oc=5"
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZUXc2bEdkWjlWeUk0cmh4ci1BZWRZZW5ndVFvbF9WSXlYRlI1T3ZTRzcyRGZiOHI4azk4NGlyc2RpSXljUFYyODlmcG5iSm9qUkpXQTdxcWlTWXpwZ0lNdEQ0LUJjck1qMkRWRjg1YW9CLWwwTWlORnZKUHpfQQ?oc=5"
         }
       ]
     },
@@ -170,6 +146,18 @@
         {
           "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5RDFtcUpoc2E0aGI4Nm1QaXlkVzN5blhrQVQ4RllLSnNGbXlweDh6YU1QcGhfd3JTZUp6QWJ0ZnlBdlFScHdFYktrMmduMTROMWxaXzdHR3Z6Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1bcf95c27bbd",
+      "title": "Researchers froze the simplest amino acid to nearly minus 260°C and bombarded it with radiation that mimics cosmic rays — and it formed peptides, the building blocks of proteins, under conditions that exist before stars and planets are born - Space Daily",
+      "published": "2026-07-13T22:30:49+00:00",
+      "summary": "Researchers froze the simplest amino acid to nearly minus 260°C and bombarded it with radiation that mimics cosmic rays — and it formed peptides, the building blocks of proteins, under conditions that exist before stars and planets are born&nbsp;&nbsp;Space Daily",
+      "sources": [
+        {
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTk81empTanRmSkl0aFM3bjUzNVRwVHVZd3dZdlFXeGNVUmVuU1lFZzZyWFZRa3o2b01hcThZZGVRNTZiSlQ2VE8xc0JwSDN0VmpvQVJxYmlhYXp6czhMOGtUZmdTRkt2TFozbjlnNUVuamN6ODBBWXlpSFZtbmp4b015RVh2TUJ5d3BPNWRLbkwxZw?oc=5"
         }
       ]
     },
@@ -213,23 +201,11 @@
       "id": "f7cda2283d69",
       "title": "Research Says This Skincare Step Is The Most Important For Fighting Wrinkles—And Most People Skip It - Women's Health",
       "published": "2026-07-13T19:14:00+00:00",
-      "summary": "Research Says This Skincare Step Is The Most Important For Fighting Wrinkles—And Most People Skip It&nbsp;&nbsp;Women's HealthThe anti-aging secret that every dermatologist wants you to know&nbsp;&nbsp;VCU HealthOur sun-soaked lifestyle is leading to this skin aging issue, dermatologists say&nbsp;&nbsp;Miami Herald",
+      "summary": "Research Says This Skincare Step Is The Most Important For Fighting Wrinkles—And Most People Skip It&nbsp;&nbsp;Women's HealthSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "Women's Health",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVjh4M2t2RzhoOEJoRDF0d1phb1Z0M2ZpU3lxWjZORERXQklLMGVYbHFlbVJmM1pTZEdaRThkRGxDMTNVM29vSVpHYmxjczZ2ZEZEaDNrS3NFR0NUczRkSEdmOHFXM2VmRlFfcEpYZkJMeTdiNXl2MTc2NXJLcDZLR3gtb2M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cf2086966363",
-      "title": "Scientists Reveal Humans Are Smart to Skip Cannibalism - Newser",
-      "published": "2026-07-13T18:17:00+00:00",
-      "summary": "Scientists Reveal Humans Are Smart to Skip Cannibalism&nbsp;&nbsp;NewserScientists Did the Math on Cannibalism. Apparently Eating Other People Is Not Good for Your Health&nbsp;&nbsp;ZME ScienceHumans Contain Around 32,376 Calories Worth Of Meat, So Why Don't We Eat People?&nbsp;&nbsp;IFLScienceCannibalism Is Bad for You, According to Researchers Who Actually Studied It&nbsp;&nbsp;VICEScientists expose gruesome reality of cannibalism as eating human flesh unleashes fatal illness&nbsp;&nbsp;Daily ",
-      "sources": [
-        {
-          "name": "Newser",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVjRyalVpNEZVWTIwMzVCNmRPdDdpT1FLY1NFb3lWejk3WUxXZENneWFQYmRGRnl0R2V0Y0VlQ1RGUmIzYkZEX3M2MmZzMGZFaE40VVJEaHM4bDdRdjlsMzRxUGFpcWhCS2ZzQlFFaHpzYTZaNUtFaWkzenFDTTZwRjlQTmZyd1FZZzVGSg?oc=5"
         }
       ]
     },
@@ -249,7 +225,7 @@
       "id": "14c11c031024",
       "title": "Dementia study replicates promising outcomes following risk-reduction strategies - STAT",
       "published": "2026-07-13T16:51:25+00:00",
-      "summary": "Dementia study replicates promising outcomes following risk-reduction strategies&nbsp;&nbsp;STATHealthy eating habits may protect your brain as you age&nbsp;&nbsp;CNNTwo-year lifestyle program improves older adults' cognition 55% more, trial finds&nbsp;&nbsp;Medical XpressMajor international trial finds healthy behaviors help brain health in older adults&nbsp;&nbsp;NBC NewsLow-inflammation diet can cut dementia risk by almost 30%. Here’s how&nbsp;&nbsp;South China Morning Post",
+      "summary": "Dementia study replicates promising outcomes following risk-reduction strategies&nbsp;&nbsp;STATMajor international trial finds healthy behaviors help brain health in older adults&nbsp;&nbsp;NBC NewsTwo-year lifestyle program improves older adults' cognition 55% more, trial finds&nbsp;&nbsp;Medical XpressLow-inflammation diet can cut dementia risk by almost 30%. Here’s how&nbsp;&nbsp;South China Morning PostHealthy eating habits may protect your brain as you age&nbsp;&nbsp;CNN",
       "sources": [
         {
           "name": "STAT",
@@ -258,50 +234,14 @@
       ]
     },
     {
-      "id": "877eb11d5726",
-      "title": "This Everyday Drink Might Supercharge Weight Loss in a Surprising Way, Research Finds - AOL.com",
-      "published": "2026-07-13T16:36:14+00:00",
-      "summary": "This Everyday Drink Might Supercharge Weight Loss in a Surprising Way, Research Finds&nbsp;&nbsp;AOL.com",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT3dpQklKVjI3OU01YUZ0UVlNRUNTNnNxcEFjTmZDaEFfMkpELUx0R0JwTXpJalNJeXNybHBaYkU2VmgxaTVpQ2c1QkgwemRCNkRQQW1WWmVfcV9rX0p2aWprRFhJajE2OEdLQXR2UG5pZ1NOQm4xQlJYZ3FNeXZpY01IU2xabEp6ejZr?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6316923b34f7",
       "title": "Cancer rates are expected to nearly double in the next 24 years - New York Post",
       "published": "2026-07-13T15:54:00+00:00",
-      "summary": "Cancer rates are expected to nearly double in the next 24 years&nbsp;&nbsp;New York PostWHO calls for urgent action as new cancer cases are projected to nearly double by 2050&nbsp;&nbsp;World Health Organization (WHO)Cancer cases expected to soar worldwide, WHO report finds&nbsp;&nbsp;The GuardianCancer cases worldwide are expected to soar in the coming decades, a report finds. Here’s why.&nbsp;&nbsp;The Washington PostCancer cases to double in next 25 years, WHO warns, as science can’t keep up ",
+      "summary": "Cancer rates are expected to nearly double in the next 24 years&nbsp;&nbsp;New York PostWHO calls for urgent action as new cancer cases are projected to nearly double by 2050&nbsp;&nbsp;World Health Organization (WHO)Cancer cases expected to soar worldwide, WHO report finds&nbsp;&nbsp;The GuardianCancer Cases Are Expected to Nearly Double by 2050, Warns the WHO. Low-Income Countries Will Be Disproportionately Affected&nbsp;&nbsp;Smithsonian MagazineCancer cases worldwide are expected to soar in ",
       "sources": [
         {
           "name": "New York Post",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRFdCQldGQ1gtX2lESTJiZk1Xbk9sN0ItRTJMNTRzMWFBaVhxY0ZFT2I4NXE5RWZRMkI3Mk9Nay1IeVBSb3hCR3JWWTBjQ1JGbmJiVjgydC12SDZucmJvNDU2bjBqZ0dZSVNhWHRha0FyaS11ZGwxM2tyWDFfVDN6WENkaXdUcDVXNUJzbDAyZkxsWEpSdU0wM1EwZllobS1EeVV3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "84e0b5d9b299",
-      "title": "Common Knee Surgery Often Hurts More Than Helps - Newser",
-      "published": "2026-07-13T13:30:00+00:00",
-      "summary": "Common Knee Surgery Often Hurts More Than Helps&nbsp;&nbsp;NewserCommon knee surgery may do more harm than good: \"I don't know how I would defend this procedure\"&nbsp;&nbsp;CBS NewsKnee pain? Ragged cartilage? Research suggests surgery's not the best answer&nbsp;&nbsp;Inquirer.comCommon knee surgery may do more harm than good, 10-year study shows&nbsp;&nbsp;AOL.com",
-      "sources": [
-        {
-          "name": "Newser",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWDhuYzJpRDNEUnUtNDYxQWFPX1dacGFfcjhINHJCZkVNaVlCVFYwLVRzSmMwSGhvNHdiWnJ5anRrOFNobjJKWWIwODBtOXUtQzd0ckhKSXZXOEozclBvNjhURkV0RXpNU3Qtci1GRGRnUlEyOUVQcURuUE9lVEFUR3pPYmd2Q0J5UUF2NkM0RDJhZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "57769683d91c",
-      "title": "Irritable patients’ impact on emergency department doctors uncovered by UMass Amherst study - WWLP",
-      "published": "2026-07-13T13:17:49+00:00",
-      "summary": "Irritable patients’ impact on emergency department doctors uncovered by UMass Amherst study&nbsp;&nbsp;WWLPDisruptive ER patients get the same good care as their cooperative counterparts—but at what price?&nbsp;&nbsp;HealthExecIrritability is good for no one in a medical setting. (IMAGE)&nbsp;&nbsp;EurekAlert!Emergency doctors are stressed out—and patient irritation plays a significant role&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "WWLP",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdWttbFZONmFaajhEc00wemVuSGp1R0FHaC1wVVhJWE13WmVlT2l0bk9UdmVLQUxaa0FoeW1QcXJZakFXaFJhc1dFR3FTY05FRlBUcU1mVzBkR3hoX1pmazJPRTA0R2hCV3BVWm5Samt4U2JxdzZNcmM3c1dUb0tONFZFWHZMWGNpLWhZdk42RXFoUzVvQnJEN3laeW9vN0E0NmZwYlRLYTNOTWxjY3k2Z3lWc1RuMm5UVDlBeDl2d0hjN2J2dlc2eVVoYkdnREtfTmM2b1Mwc1lOcXJhaFHSAeMBQVVfeXFMTVBKeGtTRXl2dUZnMm9jXzliOTBSQndtOHE0VjlvMnFidDRvamYyOFhaSm5BanlEaEs1N2F4T3NzeExjS2FUSXU0OFFiMWpyVFlhQVN0X1FaR0V3dkwyNG1ld29EY1p1aktoX2VSOUMyb2tyUGlidG9pLUloOXRyNkF2UEhMd0RDTGxjSVpVYUJvM2gzNWo2QVp4d3JPbFNIZ3FzRTJwNzdoaG5URE4zd0NwVlhJTVlqSm55MG1pLUxFbTlEU2N1bE9GVk91S1lVVFN1Qk1mTmJWdDlVQjh2VkdLNHc?oc=5"
         }
       ]
     },
@@ -321,7 +261,7 @@
       "id": "d976cc6ac197",
       "title": "‘Ozempic feet:’ the latest side effect among GLP-1 users, doctors warn - WFLA",
       "published": "2026-07-13T12:54:44+00:00",
-      "summary": "‘Ozempic feet:’ the latest side effect among GLP-1 users, doctors warn&nbsp;&nbsp;WFLAA Podiatrist Explains \"Ozempic Feet,\" the GLP 1 Side Effect Nobody Warned You About&nbsp;&nbsp;Yahoo CreatorsThe Newest Frontier for GLP-1s: Clearing Skin Disease&nbsp;&nbsp;MedscapeWeight Loss Success Brings Unexpected Foot Health Questions as GLP-1 Medications Continue to Grow in Popularity&nbsp;&nbsp;Grants Pass TribuneDoctors Across the Country Are Warning GLP-1 Users About \"Ozempic Feet\": What It Is and Wh",
+      "summary": "‘Ozempic feet:’ the latest side effect among GLP-1 users, doctors warn&nbsp;&nbsp;WFLASee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "WFLA",
@@ -345,35 +285,11 @@
       "id": "965ab016dabb",
       "title": "Can Ozempic prevent cancer? A doctor explains why the headlines are easy to misread - The Conversation",
       "published": "2026-07-13T12:05:32+00:00",
-      "summary": "Can Ozempic prevent cancer? A doctor explains why the headlines are easy to misread&nbsp;&nbsp;The ConversationGLP-1s: Cannes, culture and lessons from oncology&nbsp;&nbsp;EMJGLP-1 Drugs Are Now Being Tested Alongside Chemotherapy in Cancer Patients&nbsp;&nbsp;Medical DailyBeyond Weight Loss: The Expanding Role of GLP-1s in Oncology&nbsp;&nbsp;MedscapeRisk of pancreatic cancer associated with GLP-1 receptor agonist therapy&nbsp;&nbsp;Nature",
+      "summary": "Can Ozempic prevent cancer? A doctor explains why the headlines are easy to misread&nbsp;&nbsp;The ConversationGLP-1s: Cannes, culture and lessons from oncology&nbsp;&nbsp;EMJGLP-1 Drugs Are Now Being Tested Alongside Chemotherapy in Cancer Patients&nbsp;&nbsp;Medical DailyGLP-1s: Weight Loss and Survival in Breast Cancer Recovery&nbsp;&nbsp;Cure TodayBeyond Weight Loss: The Expanding Role of GLP-1s in Oncology&nbsp;&nbsp;Medscape",
       "sources": [
         {
           "name": "The Conversation",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZzQzZGNMbUl4amlrd2xZRlh4OTYzTjBwamJHUXRLYVJEaktkTjVBRUdNRzJvblZxT3JCMkItN1RvaktLUlNxWE9SODZ2ay05cXV6MHRoX25yUGFObk5xOXNRZlkzX0dGYWlURVJPOERfTFUxZTEzLXdaM1V6RHlXa2EwRXVUVjNObktCNk9Cc0dvODJnZkJHYUtrSUtYRzlwRVNjY1U1blg4bkIxYTdORUV1ay1TV2ox?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "efd881849e42",
-      "title": "Earth’s inner core is an iron-rich ball as hot as the surface of the Sun, kept solid only because the crushing pressure of the entire planet raises the temperature at which iron can melt - Space Daily",
-      "published": "2026-07-13T11:30:24+00:00",
-      "summary": "Earth’s inner core is an iron-rich ball as hot as the surface of the Sun, kept solid only because the crushing pressure of the entire planet raises the temperature at which iron can melt&nbsp;&nbsp;Space DailyEarth’s inner core is not rock but a sphere of solid iron-rich metal, smaller than the Moon yet probably more massive. As the planet gradually loses heat, liquid metal freezes onto its surface, expanding it by roughly a millimetre each year.&nbsp;&nbsp;Space DailyAcademia Sinica - Research ",
-      "sources": [
-        {
-          "name": "Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR0VMYTBRVmsyMnpwY2xwUXRPaXVEOUktM0doUHZBU0xnQXZOcmwtRUtNTjlKSDVWTFJFYlRFekI2eHRaQnRZd1B3Y284VXFIREFUcE5XNXRsYjUxNUctNi02TDA5RWFtNG94LThLYl91Qk1xb2RQdzRzTnFiUFIxWWxsRFROZGxSc2dkUlN1ZWNENG43djhkanpsSloyUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8bb6564b369f",
-      "title": "The surprising health benefits of having orange hair - Yahoo",
-      "published": "2026-07-13T10:39:27+00:00",
-      "summary": "The surprising health benefits of having orange hair&nbsp;&nbsp;YahooSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQUZFZHJnbTY1d0FJaFNEa3IyUjNsZzJOOUFfMUoya3ppdng1NU5td2dBc3ZFMUl6Q3BDclhYdHVGYkZJV0MzUFQ0N2M2d1VMTkNWSUIySXA2cjcxLVNVY1VMbDdEMWw2azJvX0YwNXZ6ZVRnS0oxMzgyTDRtVTFmSmZ6VlJJZkV0b2xqbEdFT2tZRHk4OHFtNU5qaFp0cm1X?oc=5"
         }
       ]
     },
@@ -390,18 +306,6 @@
       ]
     },
     {
-      "id": "74df5e454972",
-      "title": "Why Do Statins Hurt Muscles? Scientists May Finally Have an Answer - SciTechDaily",
-      "published": "2026-07-13T10:22:54+00:00",
-      "summary": "Why Do Statins Hurt Muscles? Scientists May Finally Have an Answer&nbsp;&nbsp;SciTechDailyResearchers uncover possible cause of muscle pain from widely used cholesterol medication&nbsp;&nbsp;Medical XpressEveryday drugs: The great statins debate&nbsp;&nbsp;New ScientistFor Most People, Risk for Serious Muscle Disorders From Statins Is Low&nbsp;&nbsp;Neurology AdvisorNew research reshapes statin safety and prescribing outlook&nbsp;&nbsp;MSN",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWFRKYmZpdFdjM1d2ZzAxTFRsdFhhZXJlM2FWN3M4Qm5jWU5QeEFLODlaVEY0Rnh6ZWRxOGdVSkd0MEV1V3BLMjU1THcwU1pVQzZ4aU1EUFdvaWU4UjlRYV9vZHd3UUVwMDBPNGlodXlocVd4U1VMWlVBbkZPRXJWWkJXOUNMX1NjYTlaZExJaC1ncVNUaFE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "df79c8be113d",
       "title": "Scientists develop a groundbreaking vaccine that outsmarts illicit fentanyl analogs - PsyPost",
       "published": "2026-07-13T10:15:27+00:00",
@@ -414,22 +318,10 @@
       ]
     },
     {
-      "id": "02a2dffee255",
-      "title": "Why tick bites are surging in the US this year - Salina Post",
-      "published": "2026-07-13T10:15:04+00:00",
-      "summary": "Why tick bites are surging in the US this year&nbsp;&nbsp;Salina PostTicks Are on the Move. Here Are the Risks in Your Region.&nbsp;&nbsp;The New York TimesThe ticks you may find in your state, and the diseases they can carry&nbsp;&nbsp;The HillExperts in Dubuque offer advice as tick bites rise nationally&nbsp;&nbsp;TelegraphHerald.comSimple ways to stop ticks from ruining your summer&nbsp;&nbsp;DelmarvaNow.com",
-      "sources": [
-        {
-          "name": "Salina Post",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1cFZ3V09CajBKTkNiVUl3eHBxemU2b1R1NXJLcW9SdzNqNFFDNklzWHNOSnJkcENRcmFUeXZHSE9XT0xqQXhXTjV3TG5MVDBkWllkN1J5eVh1RW9UMDhTVTdfR054S1daNEtZdEFJZ0VyU0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ffce895a9426",
-      "title": "Chronic Constipation May Be a Gut-Brain Disorder, Scientists Say - ScienceAlert",
+      "id": "306ae0c61a54",
+      "title": "Constipation May Be More Than a Simple Digestion Problem, Scientists Say - ScienceAlert",
       "published": "2026-07-13T10:03:17+00:00",
-      "summary": "Chronic Constipation May Be a Gut-Brain Disorder, Scientists Say&nbsp;&nbsp;ScienceAlertThe Surprising Connection Between Gut Health and Stress—and How to Support Both&nbsp;&nbsp;Real SimpleChronic Constipation May Begin When Gut Bacteria Disrupt the Intestinal Nervous System&nbsp;&nbsp;Discover MagazineChronic constipation may be caused by interactions between the enteric nervous system and the gut microbiota.&nbsp;&nbsp;GIGAZINEStruggling with constipation? Two bacteria in your gut microbiota ",
+      "summary": "Constipation May Be More Than a Simple Digestion Problem, Scientists Say&nbsp;&nbsp;ScienceAlertChronic Constipation May Begin When Gut Bacteria Disrupt the Intestinal Nervous System&nbsp;&nbsp;Discover MagazineThe gut and brain are in constant two-way communication — and scientists now see many cases of chronic constipation as a disorder of that signalling, not simply a problem of digestion&nbsp;&nbsp;Space DailyChronic constipation may be caused by interactions between the enteric nervous syst",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -450,18 +342,6 @@
       ]
     },
     {
-      "id": "a6ebeb5e82f7",
-      "title": "Oxford begins first human trial of Bundibugyo Ebola vaccine - Reuters",
-      "published": "2026-07-13T09:47:20+00:00",
-      "summary": "Oxford begins first human trial of Bundibugyo Ebola vaccine&nbsp;&nbsp;ReutersUK starts first vaccine trial, eight weeks into Ebola emergency&nbsp;&nbsp;BBCHuman trials of new Ebola vaccine set to begin in UK&nbsp;&nbsp;Sky NewsCEPI-backed Bundibugyo ebolavirus vaccine trial launched by Oxford Vaccine Group&nbsp;&nbsp;CEPIThe Ugandan city where the race for a new Ebola vaccine will be won or lost&nbsp;&nbsp;The Telegraph",
-      "sources": [
-        {
-          "name": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMkhIQTk3MUtkM250eWtrelhHSFVmSjVwWDZoUzJFb2dnMDU1YUwybVJ1Y1psaEhhOWZQWldqbDRZMzJzRkFwRUpjQy1TOFR6blJfREl1LXM5V1Zvano0Z2syT2t2WkNoZ0pwaWNuaFR5d0xpdGhrVFJDRVZ0UnJmNDQ3TElCUnliR3p5VkZmWkF2c1ctQ01DZXFVT1lRaXZwcml3RHlEaXhrNXlhWHJ5LTJfb0NKV3RBd0NwWUFCV0JCZEgwdU4w?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0495a7a7425f",
       "title": "Eat your ice cream for a long, healthy life? This doctor says so - NPR",
       "published": "2026-07-13T09:00:00+00:00",
@@ -477,7 +357,7 @@
       "id": "751489d8155a",
       "title": "A breakthrough in pancreatic cancer has experts excited — and braced for what’s to come - STAT",
       "published": "2026-07-13T08:31:03+00:00",
-      "summary": "A breakthrough in pancreatic cancer has experts excited — and braced for what’s to come&nbsp;&nbsp;STATThe pill bringing new hope to patients with pancreatic cancer | On Point with Meghna Chakrabarti&nbsp;&nbsp;WBUREMA fast tracks review of a medicine for metastatic pancreatic cancer&nbsp;&nbsp;European Medicines Agency (EMA)A new cancer treatment is hailed as a breakthrough, but Canadians don’t have access to it. Here’s why.&nbsp;&nbsp;CTV NewsPashtoon Kasi։ Good Morning America Highlights New ",
+      "summary": "A breakthrough in pancreatic cancer has experts excited — and braced for what’s to come&nbsp;&nbsp;STATThe pill bringing new hope to patients with pancreatic cancer | On Point with Meghna Chakrabarti&nbsp;&nbsp;WBURA new cancer treatment is hailed as a breakthrough, but Canadians don’t have access to it. Here’s why.&nbsp;&nbsp;CTV NewsEMA fast tracks review of a medicine for metastatic pancreatic cancer&nbsp;&nbsp;European Medicines Agency (EMA)Zoldonrasib Combinations Show Compelling Antitumor ",
       "sources": [
         {
           "name": "STAT",
@@ -486,38 +366,14 @@
       ]
     },
     {
-      "id": "93eb6940ca8a",
-      "title": "A Drug Already Proven Safe in Humans Just Reduced Multiple Signs of Alzheimer's in Mice - Yahoo",
-      "published": "2026-07-13T05:24:00+00:00",
-      "summary": "A Drug Already Proven Safe in Humans Just Reduced Multiple Signs of Alzheimer's in Mice&nbsp;&nbsp;YahooSee more headlines & perspectives on Google News",
+      "id": "7dd5734d8e8b",
+      "title": "'I went for an eye test and was told I had cancer' - BBC",
+      "published": "2026-07-13T05:04:40+00:00",
+      "summary": "'I went for an eye test and was told I had cancer'&nbsp;&nbsp;BBC",
       "sources": [
         {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUWFYaWpweGFDNEc3aVlQMjVLNm5odnFEQjBZVmhJLTQ5WGRxa19GcTRFeEdoUC01UGhiRi1TQUlyNVBGcDAwdUcxYW1Ea29Xekk2RGFQUll5eGlUS0hOR2FfLWhydzJDTG12ZmNRWUEtTXVkcWJ4dkxzVk5KTVg5Z2ctNDNnc1JoSjFYY0tsX1F6VXdfb3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e04d47f36eef",
-      "title": "Scientists discover a hidden heart valve risk linked to gum disease - ScienceDaily",
-      "published": "2026-07-13T04:54:06+00:00",
-      "summary": "Scientists discover a hidden heart valve risk linked to gum disease&nbsp;&nbsp;ScienceDailyBacteria from gum disease may cause inflammation, harden heart valves&nbsp;&nbsp;Medical XpressBleeding gums may be doing more than harming your teeth: Scientists discover a link between gum disease bacteria and a serious heart valve condition&nbsp;&nbsp;The Times of IndiaTreating Gum Disease Could Prevent Most Common Heart Valve Disease&nbsp;&nbsp;Inside Precision MedicineGum Disease Bacteria Found to Har",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJRXE3UFNBajA5M0pfdlpvbFNvR1UxMzBMakVRdHQwVldjdVFBZW0zVjAtZWNtZ19NTWFYaW5WUDFZNTdNRWw0WjR6WTRGWmg0NjZIQUkwWkk3OThYZ1R3M01ZbGJGaDdYeUZxN2xfZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8818493841e0",
-      "title": "Low-protein ‘longevity diet’ helped mice live healthier, leaner lives: Study - NewsNation",
-      "published": "2026-07-13T00:40:24+00:00",
-      "summary": "Low-protein ‘longevity diet’ helped mice live healthier, leaner lives: Study&nbsp;&nbsp;NewsNationScientists found a longevity diet that helped mice eat more and lose fat&nbsp;&nbsp;ScienceDailyThe ‘longevity diet’ that can increase natural GLP-1 and reduce body fat: study&nbsp;&nbsp;New York PostHow to live longer: Could too much protein be bad for healthy ageing? Scientists uncover a surprising link&nbsp;&nbsp;GB NewsBetter than Ozempic? THIS ‘longevity diet’ could boost natural GLP-1 and help",
-      "sources": [
-        {
-          "name": "NewsNation",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NLW90OGhXbk1SVzJNSUFLZURFWloxRHZDc1gxSlFfNHdRQXVzbGRadkhLMWgwMG1YOTdfOVljX1R0NHVUejA0bnZ0WlhsdW9LVGRfMFFxV0JKRVlTNDMzSy1YOTAyTzFMV0I5aTBnc0JkRnZxel9JZU5NTDBqUdIBgwFBVV95cUxQVDMyZE11dEpTUW9xQXltUFo4WmxKQU1Wd19zR2tCeXdaWXZ4OU9OZlpRbGNudmRPMDFTc0l6NWZXc2h1dmY3WWd2blA4TzFNMXdZUWdWNkkzTjN1bzdQM0FJSjA5VzNsRTZjZVBmcDBwemJZUDlIN3hZMUZHT1ljN1kzWQ?oc=5"
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UMlFfQkk0bTczMjM4VEw2bXg5Q2hjdUV0TlVteTZ6cjc1VmJnWUJpZE5rMHJ5S2dqSG1qalY4cU54WDlMRFppUkhLV196UV8yLW1odVFPcVVhdw?oc=5"
         }
       ]
     },
@@ -534,18 +390,6 @@
       ]
     },
     {
-      "id": "58bd49afb615",
-      "title": "Researchers Identify Age of Fertility Wall for Women - Newser",
-      "published": "2026-07-12T21:14:00+00:00",
-      "summary": "Researchers Identify Age of Fertility Wall for Women&nbsp;&nbsp;NewserWomen hit fertility tipping point at 49 - even with young donor eggs&nbsp;&nbsp;BBC\"I had a baby solo at 50 - despite science saying 49 is too old to conceive\"&nbsp;&nbsp;YahooUterine aging linked to poorer pregnancy outcomes after 49 despite donor eggs&nbsp;&nbsp;Medical XpressDonor Eggs Do Not Fully Negate Aging’s Effects on Fertility&nbsp;&nbsp;Medscape",
-      "sources": [
-        {
-          "name": "Newser",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY0N1ajB4Z1A1dVg3UlhEZmdDY0JEdmxDXzk1N3RwMlR6bzFKZGtRZkxTZ0d0bUF2RU5ORnA0UUZ5d0pLemNBaFFkcjdVM1dSWjFTMVc4U3djV0R5aHJpaDc3Xy1hWmxEWFpCVVRqWnhBeS1Mb1IzMUZaWmx3cHNKTC01LUdQbUhYdEJ1LVM2ZkhGMEFkc0VV?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f3428f73e126",
       "title": "Tiny magnetic 'flowers' could expand how researchers image spintronic materials under stronger fields - Phys.org",
       "published": "2026-07-12T21:00:03+00:00",
@@ -554,126 +398,6 @@
         {
           "name": "Phys.org",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWlg3OXdrUlg0REJmbWptX2s3M2s5UTNZZk9tU183U0hGazl3NmxfSmZMbnYwb3B4TlEtY2xoUmhhSklQV1I2OENuRGJkUi1zVUxNVE1wZjFuM1lGNmxPcDNXR2tKU216RXpGYkFoZ25WNW5iYjdrbEljN2cyUTVCQw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "476321b5d2f7",
-      "title": "Exclusive | Extremely rare cancer striking kids in rich SoCal city takes worrying turn — as possible cause emerges - New York Post",
-      "published": "2026-07-12T19:45:00+00:00",
-      "summary": "Exclusive | Extremely rare cancer striking kids in rich SoCal city takes worrying turn — as possible cause emerges&nbsp;&nbsp;New York PostLadera Ranch families concerned after several children diagnosed with rare cancer&nbsp;&nbsp;NBC Los Angeles1 Teen Dies, 5 Other Kids Sickened in Rare Cancer Cluster: ‘Something Must Be Causing It, Right?’&nbsp;&nbsp;People.comRare disease is striking rich California kids and people should avoid the possible cause&nbsp;&nbsp;latination.com6 Children In Califo",
-      "sources": [
-        {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNUJ6amtWVXJUcXJWRk9DRXFhUmo3eUpGUWxsb2JjTEE5ZGZzTjZlUXZpeW9LZnA2bUU1NmRQV0dIai1kTURtUkh1WGFuSnJyTW1KcVg1bEU3MUpyeUZOcWJJVW9iMDVBQk5NS2VmcU1Cc1N3UVI1bmtoZEFRRVlyR1daMjltT3AxM0xqUEJyMlJzMlNlVTdUVHhzNExuTEJQWkFvU2p5VU9GQndIR1dnNGNYUlIxM0Z2Z1lvR3piMTRGaWlMdzd6TUoyZG5QckVXX3FfWTln?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9b39057c0b4e",
-      "title": "Person with measles traveled through Philadelphia International Airport on Fourth of July, officials say - CBS News",
-      "published": "2026-07-12T19:42:22+00:00",
-      "summary": "Person with measles traveled through Philadelphia International Airport on Fourth of July, officials say&nbsp;&nbsp;CBS NewsHealth officials warn of potential measles exposure at Philadelphia International Airport&nbsp;&nbsp;6abc PhiladelphiaWhat are measles? Officials tracking exposure in Philadelphia&nbsp;&nbsp;USA TodayHealth officials warn of measles exposure at PHL Airport on July 4th&nbsp;&nbsp;NBC10 PhiladelphiaWhat to know about lateste measles exposure in Philadelphia&nbsp;&nbsp;AOL.com",
-      "sources": [
-        {
-          "name": "CBS News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTXFEbGhDZDZTYVMwajZEb0wzTE5Vb3V6ZW1qSHhKNDRNZHlqMl9RRGJNdk9yZk9oVmJxU2ZwcVB5ODlWVnZycnY1bmVUNDh6X01zOXhsbUdMVHdCWnJ0UFVyck9nMmd1N01xRGZ0djZPQnVaM3h1ZGoyeENkbXU4LXpnRkY0SlVaY25jMUFSWUhrSHp4bW9mSVpveDVaNk4wRmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ea5d20952cac",
-      "title": "It’s not just Depo-Provera — study links 5 more birth control drugs to brain tumor risk - New York Post",
-      "published": "2026-07-12T19:09:00+00:00",
-      "summary": "It’s not just Depo-Provera — study links 5 more birth control drugs to brain tumor risk&nbsp;&nbsp;New York PostMeeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 6-9 July 2026&nbsp;&nbsp;European Medicines Agency (EMA)Common Hormonal Contraceptive Linked to Risk of Rare Brain Tumor&nbsp;&nbsp;ScienceAlert‘I have an inoperable brain tumour after having the contraceptive jab’&nbsp;&nbsp;The IndependentEU warns of brain tumour risk with some contraceptives&nbsp;&nbsp;ph",
-      "sources": [
-        {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeDNLQ2ZnRUk5QnhraXlISXdqSVgwSDJHQk14RzRtWGNTY3JzTWREQ25jOWZvejBMMl9pNmVFV1lRWER2b3JtaGxWYTlmQnJlMzFlWDd2bFFIR1hpaFdCV1cxWkhyRU53a0hETUF6MHFXcG1ObDZac0JHMUE3c21HY0c2MENyMGI2TVJOWWVsVDl2cFlQY1hrMFVFUUk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5ce790c021b2",
-      "title": "Creatine May Do More Than Boost Muscle Performance - Newser",
-      "published": "2026-07-12T18:45:00+00:00",
-      "summary": "Creatine May Do More Than Boost Muscle Performance&nbsp;&nbsp;NewserCreatine doesn't just build muscle. It may also help fight cancer&nbsp;&nbsp;ScienceDailyCommon Gym Supplement Could Help Fight Cancer, Study Finds&nbsp;&nbsp;NewsweekNew study reveals creatine has unexpected positive side effect on health&nbsp;&nbsp;ladbible.comThe Most Popular Gym Supplement May Also Help Immune Cells Fight Cancer, UCLA Study Finds&nbsp;&nbsp;Medical Daily",
-      "sources": [
-        {
-          "name": "Newser",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSnBTQ3ViYWlvUDJNbmFPVDNjUk5nLU81Nl9aRW1aRmhjX3JqRE9sOFJKV0xRem5lMVF4NERpU1UyS2dvZ1pHTUFQSWlUQzhJV1RtSmMzWF9IWDRoWFo2bnY0RU9hRnAwc0FpNGFfUS03dEI0anhRQ1VNUVhlWlYxN0tvNnNMcVFfcTVudmxGaE51RTJVVVVCOWNSdG1hZmpubE1wRjhB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "eb181450aa1d",
-      "title": "State health officials warn of potential measles exposure locations after second recorded case in Tennessee - WKRN News 2",
-      "published": "2026-07-12T17:59:10+00:00",
-      "summary": "State health officials warn of potential measles exposure locations after second recorded case in Tennessee&nbsp;&nbsp;WKRN News 2Health officials confirm Nashville’s first measles case of 2026&nbsp;&nbsp;WKRN News 2Nashville health officials warn of possible measles exposure after second confirmed case&nbsp;&nbsp;WZTVMiddle Tennessee measles cases prompt health officials to warn residents about exposure sites&nbsp;&nbsp;News Channel 5 NashvilleTennesseans exposed to measles at numerous location",
-      "sources": [
-        {
-          "name": "WKRN News 2",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWERiSVpVM2Z4YllRSzVYeG1CMUowUUVNU3FZZEItTHlrWnk1Y1V2cDhLeVBBT3FZTzJBakg3Y0o4U2pqbG9kOVFITE1kbWdLanNIME5lSmpVWFJLUDhYakh2UW5NS2REQTVBRmRDS19lUThBNUIxWXNwTzlQNW1wd0IyNkM0d9IBiwFBVV95cUxOT3ZNV0Mtbl95TmRyOWVzVDZ6Rk9TbG1xRnUzNllRRUk2QThlTmk1UnFPZUtiekdHWGcxWU9YbDQ0dTZhcjZyR2tCdTZHZk5rcHBoM00tVC1aMkt2QWZZM3J6RzdXTlVuVzdCY3NCaTFvamk0Y3laOGRLcklyWW80aDBCMFBnak1Qa2hj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "997f3f51025b",
-      "title": "Medicine is Moving From Calendars to Clocks - Ground Truths | Eric Topol",
-      "published": "2026-07-12T17:25:03+00:00",
-      "summary": "Medicine is Moving From Calendars to Clocks&nbsp;&nbsp;Ground Truths | Eric TopolBiological aging clocks in health and disease&nbsp;&nbsp;NatureGenetic LifeSpan Co-Authors Peer-Reviewed Article on Biological Age and the Future of Longevity Medicine&nbsp;&nbsp;The National Law ReviewYour passport says 54. Your body could be 40...or 70. Here's how to discover your real biological age&nbsp;&nbsp;mensfitness.co.uk",
-      "sources": [
-        {
-          "name": "Ground Truths | Eric Topol",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52dW9JbDBJOXZ0elFhVzA5anc2S29aaFRYR0dOcUhTSkkzb3NRSGF0TDhCZGtpTjdvZWhkVWFDRVYtUGZlbVc5cXo3bTlfaEZFYzUwTl92X3pnakZYN0dNMmVxSUw4d2Z1TVo5aDVDOVRCRG9t?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "32e6b6c72999",
-      "title": "New study challenges a long-held assumption about human childbirth - The Brighter Side of News",
-      "published": "2026-07-12T16:07:00+00:00",
-      "summary": "New study challenges a long-held assumption about human childbirth&nbsp;&nbsp;The Brighter Side of News",
-      "sources": [
-        {
-          "name": "The Brighter Side of News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTGZtSFpnbGFDalFzb0t5b0lDTjhpVW9sRFRyMGI2UlFvVFV1LWNYbnJSN0UzWUxUQXRxWnNBdUhVV2M2Qm9vcXhjTnp1bllLdEwzNVhCNDRiMnRsMUZHQmRsNnEzZmwxZ0ROMWZUaXZ1OFdLM2piVFdaaTBVLTByUUVNaXlVR1RmN1VMdjcyalpadHZJeGh3MnJSSEpCWVlvcTRyU0cxZjY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3aeb0e277952",
-      "title": "Popular workout supplement could help with depression: ‘MANY MOVING PARTS’ - Toronto Sun",
-      "published": "2026-07-12T15:05:32+00:00",
-      "summary": "Popular workout supplement could help with depression: ‘MANY MOVING PARTS’&nbsp;&nbsp;Toronto SunSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "Toronto Sun",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcHdUWnRSaUNGQVl4Z2EtNmpHdUZDb3NJQXdxOXlfekhmazhLRUFsRU9aRS00LWhrbnlMV1ZNNzE0WldTWEFBMUsxYnMwZTBlSkFfMlJtTVFJSlVmQTQ2bkJxTklNWmFvc1FtUDlBT0RCOU13S0xudmNROEdxOWhTZTlxUkVMSXlmNzdpU19lZVRoUzVJTEJ6YkRxRkM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "56c79fba87d3",
-      "title": "Oncologist Reveals the One Condiment Linked to Increased Cancer Risk - Yahoo Health",
-      "published": "2026-07-12T14:50:00+00:00",
-      "summary": "Oncologist Reveals the One Condiment Linked to Increased Cancer Risk&nbsp;&nbsp;Yahoo Health",
-      "sources": [
-        {
-          "name": "Yahoo Health",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdWQ2TlB5Z2FCVURqbF95X3BDSTNNaXpMN3NsNVhEd2FvTGoteUFRTTR6TUVCNU1Ld01TTll3aU5SUE5LTzlXZlVBWEppUzR0SE9ERUFpY3k2TVVta1V5WHFjQmhGdXZ4VmtiaExhOG5wUjFCck1tQTFHY0NUUk42MG4yVXNVNnpLZFJPZk9xSF8xN21qSGpxSVVyZGx0R0VlUVJ0cU1udnM0Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d6ea019eab53",
-      "title": "When Italian and German researchers modeled a square-meter array of 1,482 neodymium magnets, the simulation showed roughly a fifth of incoming low-energy solar protons being deflected — suggesting a potential way for deep-space crews to reduce som - Space Daily",
-      "published": "2026-07-12T13:55:30+00:00",
-      "summary": "When Italian and German researchers modeled a square-meter array of 1,482 neodymium magnets, the simulation showed roughly a fifth of incoming low-energy solar protons being deflected — suggesting a potential way for deep-space crews to reduce som&nbsp;&nbsp;Space DailyCould Permanent Magnets Protect Astronauts from Solar Storms?&nbsp;&nbsp;Universe TodayCan permanent magnets protect astronauts from solar storms?&nbsp;&nbsp;Universe Space Tech",
-      "sources": [
-        {
-          "name": "Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQTC1zVzJaTTZRUk40eXJVXzgzczlld2ljVFJFX2hPTG1rSzlRSkRFZXFjb0QzMmROaHhNeThkeFNiX3dlZzVxNUVpQjVuR3ZtT3IwdV90WXVacThRdjZzT19sbEhqMXcwcVE2YWEwYkJfbmFPcWsxNU5iLUQ4X0p5dy1MWE9yVG1OTUFlMThyX2VQSy1YSFBvUkxQU0lieHF3UGVvV0dzX0RvendXdUc5OVlaaUYxTllrUkJZTHZCbGExajZ3S3lvY2FCWXZTd01kUU5QV216QXpRQU9DWlBtMzFudm9kVHdsd0NkWlpqNC04WTVaN2tyLTUtQlBXM01WUEJ4S1ZybU1KQ3FYUTB3dmp2b1RKX2JFeUh0NGZaMzgtUEZrOF83ZDBjRWZGQ1Rla3c?oc=5"
         }
       ]
     }

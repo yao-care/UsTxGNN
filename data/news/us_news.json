@@ -1,15 +1,27 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-07-15T13:48:30.353361+00:00",
+  "fetched_at": "2026-07-15T19:15:26.001655+00:00",
   "total_fetched": 75,
   "unique_count": 75,
-  "health_related_count": 25,
+  "health_related_count": 24,
   "news": [
+    {
+      "id": "9c8eddc34bcd",
+      "title": "Michigan continues to lead US in cyclosporiasis cases: The latest data - Detroit Free Press",
+      "published": "2026-07-15T18:21:00+00:00",
+      "summary": "Michigan continues to lead US in cyclosporiasis cases: The latest data&nbsp;&nbsp;Detroit Free PressOpinion | How Freaked Out Should You Be About the Nightmare Stomach Bug?&nbsp;&nbsp;The New York TimesWhat to know about cyclosporiasis, the intestinal illness hitting the U.S.&nbsp;&nbsp;NPRThe Explosive Diarrhea Outbreak Is About to Get Much Bigger&nbsp;&nbsp;WIREDExplosive diarrhea-causing parasite cases rise in Connecticut, health officials say&nbsp;&nbsp;WFSB",
+      "sources": [
+        {
+          "name": "Detroit Free Press",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa19sdmxSTms0NDVoN213cGM2WGJHS1VYMm5ZTHdEd3dMeEdIdU1LMVQzSG9VdXhkQVNmZklTaktzekVERlkxQkVSZVNBQ0FHdHBUdERWM0NkY05SQmkyWEhOLVhYbHJLQ05vZUJYVzFHa25uMTYwRGdVbFZqTFVYa081OEM0SERvZWhfeUp1djNXZF9tQ3NUQUJJRmRHMVpWTkdXRHJVdUx1SlMxQXhKUWZPQlVPTjVibEZIQ1J3?oc=5"
+        }
+      ]
+    },
     {
       "id": "2a55acc65f4a",
       "title": "Number of UES buildings with positive Legionella tests more than doubles since preliminary findings - Gothamist",
-      "published": "2026-07-15T12:24:00+00:00",
-      "summary": "Number of UES buildings with positive Legionella tests more than doubles since preliminary findings&nbsp;&nbsp;GothamistDozens of New York cooling towers test positive for Legionnaires’ bacteria as outbreak reaches 60 cases&nbsp;&nbsp;CNNNew cases slow in NYC Legionnaires’ disease outbreak; Met museum among buildings with positive tests&nbsp;&nbsp;NBC NewsUpper East Side Legionnaires' outbreak: 76 buildings test positive for Legionella bacteria in preliminary testing&nbsp;&nbsp;ABC7 New YorkLegi",
+      "published": "2026-07-15T15:58:00+00:00",
+      "summary": "Number of UES buildings with positive Legionella tests more than doubles since preliminary findings&nbsp;&nbsp;GothamistDozens of New York cooling towers test positive for Legionnaires’ bacteria as outbreak reaches 60 cases&nbsp;&nbsp;CNNLegionnaires' outbreak: 76 buildings ordered to clean cooling towers, including the Met&nbsp;&nbsp;ABC7 New YorkNew York Is Having a Legionnaires’ Outbreak. Here’s What to Know.&nbsp;&nbsp;The New York TimesLegionnaires' outbreak grows to 63 cases on Upper East ",
       "sources": [
         {
           "name": "Gothamist",
@@ -18,14 +30,38 @@
       ]
     },
     {
-      "id": "888839b6b8a2",
-      "title": "Cyclospora Cases Rise Rapidly, With No Source Yet Confirmed - The New York Times",
-      "published": "2026-07-15T09:02:19+00:00",
-      "summary": "Cyclospora Cases Rise Rapidly, With No Source Yet Confirmed&nbsp;&nbsp;The New York TimesHow much did CDC cuts really impact this cyclosporiasis outbreak?&nbsp;&nbsp;The Washington PostCyclosporiasis Outbreak with Unknown Source&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)The Explosive Diarrhea Outbreak Is About to Get Much Bigger&nbsp;&nbsp;WIREDAs the outbreak of diarrhea caused by a parasite grows, here’s what’s safe to eat and what to avoid&nbsp;&nbsp;CNN",
+      "id": "657d54cb7636",
+      "title": "A Bayesian framework for longitudinal EHR and genetic discovery - Nature",
+      "published": "2026-07-15T15:35:32+00:00",
+      "summary": "A Bayesian framework for longitudinal EHR and genetic discovery&nbsp;&nbsp;NatureScared you’ll get heart disease or breast cancer? New tool by MGH, Dana-Farber predicts risks for 300-plus sicknesses.&nbsp;&nbsp;The Boston GlobeAI Model Predicts 348 Diseases from Electronic Health Record, Genetics&nbsp;&nbsp;Inside Precision MedicineModel Forecasts Diseases From Patient Data&nbsp;&nbsp;Mirage NewsNew Model Predicts 900 Diseases From Real Records&nbsp;&nbsp;Digital Health Wire",
       "sources": [
         {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ1hXa3RUX3RkMXAyVTdpeE9UdWNaM1hTNXNlLUM0RzJwV18xTGFQZ2FoSm9sR0hQdEVuOTFJc1VfX21FWFI4bThuR292eWdIRl9HWFRuRkFXUmlabjlJNG9VaWV3cHVsZnlwVHM2UHNPT1lDUndsUDU1elprN1JLM25mMA?oc=5"
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6ZzBfVmNfN2ZCSVFMOFhoVXFFdmtTTXdQeXotajZhSV9rVnRNQ1haY3c4RFNoRVJOdTN4WWI3cEJ5MEZZU1BDVFdyNy1DdlpjME1xakNLOE5fVGFWclI0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "de4e941d80e3",
+      "title": "A new stellar census strengthens the case for a 13.8-billion-year-old universe - Phys.org",
+      "published": "2026-07-15T11:30:03+00:00",
+      "summary": "A new stellar census strengthens the case for a 13.8-billion-year-old universe&nbsp;&nbsp;Phys.orgThe Oldest Stars in the Galaxy Just Weighed In on One of Cosmology's Biggest Arguments&nbsp;&nbsp;Universe TodayDuke cosmologist builds camera for telescope to research the early universe&nbsp;&nbsp;Spectrum NewsAstronomers are Hunting Down the Elusive Population III Stars&nbsp;&nbsp;Universe Today",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fSnFXa3B4SFFPc0pVN0hheHVMVTNsVGs1VzQ2ZEgwVDl1WFp6Ykc0WHlUY0tnTjEwWmh5alctc3JLd2ViOVZ2a1lRUV9ObDREQkVkU0RIWDQ0WUNDY3pXYVJ1Ym96V2Y1ZU5KYWt2ZEdIcU1tR0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f7c2aa48334f",
+      "title": "Going to Museums and Movies May Slow Aging, Study Finds - StudyFinds",
+      "published": "2026-07-15T06:14:54+00:00",
+      "summary": "Going to Museums and Movies May Slow Aging, Study Finds&nbsp;&nbsp;StudyFindsGoing to museums, movies, and theater may help your body stay younger&nbsp;&nbsp;ScienceDailyGoing to the cinema, theater or a museum may slow down physiological aging&nbsp;&nbsp;Medical XpressThe surprising activities that can slow biological ageing and have a similar impact to exercise&nbsp;&nbsp;The IndependentWhy the secret to eternal youth might be a trip to an art gallery&nbsp;&nbsp;The Times",
+      "sources": [
+        {
+          "name": "StudyFinds",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMC14SUdwSV9keUMwaGU3Y2xsNzgzNkNHa2lTcF9SMlJIQm43UGlFVHB3d0tYbXVJcHdtWnJnQm1CandvanlQaElKY2R3akIwTkVmNEF3UTZrT3RUY3dJSWJrOUQtVGdkZDQtaUg0Z0N5VFNBMWp4VWFwLVRLUXc3M0lXR1c?oc=5"
         }
       ]
     },
@@ -33,7 +69,7 @@
       "id": "80e8bf65734a",
       "title": "Ebola is spreading faster in eastern Congo than it can be tracked, as deaths pass 700 - NPR",
       "published": "2026-07-15T05:39:55+00:00",
-      "summary": "Ebola is spreading faster in eastern Congo than it can be tracked, as deaths pass 700&nbsp;&nbsp;NPRWhy the fastest-growing Ebola outbreak in history is becoming more challenging&nbsp;&nbsp;AP NewsMore health workers go on strike as confirmed Ebola cases in Congo top 2,000, including 754 deaths&nbsp;&nbsp;NBC News‘This is a fire’: DRC Ebola outbreak is fastest-growing ever, warns WHO&nbsp;&nbsp;UN NewsMore health workers strike as Ebola cases in Congo exceed 2,000, including 754 deaths&nbsp;&nbs",
+      "summary": "Ebola is spreading faster in eastern Congo than it can be tracked, as deaths pass 700&nbsp;&nbsp;NPRWhy the fastest-growing Ebola outbreak in history is becoming more challenging&nbsp;&nbsp;AP NewsDRC Ebola cases surpass 2,000 as more health workers begin strike&nbsp;&nbsp;Al JazeeraEbola deaths double in two weeks as WHO warns virus is outrunning response&nbsp;&nbsp;The Straits TimesMore health workers strike as Ebola cases in Congo exceed 2,000, including 754 deaths&nbsp;&nbsp;ABC News - Break",
       "sources": [
         {
           "name": "NPR",
@@ -45,7 +81,7 @@
       "id": "808752fe79dd",
       "title": "Study shows a blood test can help identify healthy people at high risk for Alzheimer's disease - AP News",
       "published": "2026-07-15T04:05:00+00:00",
-      "summary": "Study shows a blood test can help identify healthy people at high risk for Alzheimer's disease&nbsp;&nbsp;AP NewsSee more headlines & perspectives on Google News",
+      "summary": "Study shows a blood test can help identify healthy people at high risk for Alzheimer's disease&nbsp;&nbsp;AP NewsAlzheimer’s Blood Tests Offer New Promise to Diagnose and Predict the Disease&nbsp;&nbsp;The New York TimesImplications of expansion of Alzheimer's biomarker testing for patients, families and policy&nbsp;&nbsp;Medical XpressNew Alzheimer’s blood test may be promising but is not yet ready for widespread use&nbsp;&nbsp;CNNImprovements in Alzheimer’s testing could make diagnostics more ",
       "sources": [
         {
           "name": "AP News",
@@ -54,22 +90,34 @@
       ]
     },
     {
-      "id": "dd72c77fc277",
-      "title": "'Surprising and exciting': U. astronomers harness NASA telescopes for black hole discovery - KSL.com",
+      "id": "e9e718c28d90",
+      "title": "'Surprising and exciting': U. astronomers harness NASA telescopes for black hole discovery - KSL News",
       "published": "2026-07-15T03:06:48+00:00",
-      "summary": "'Surprising and exciting': U. astronomers harness NASA telescopes for black hole discovery&nbsp;&nbsp;KSL.comNASA Telescopes Find Hidden Black Hole Lurking Among 10 Million Ancient Stars&nbsp;&nbsp;Men's Journal",
+      "summary": "'Surprising and exciting': U. astronomers harness NASA telescopes for black hole discovery&nbsp;&nbsp;KSL NewsNASA’s Hubble Discovers First of Star Cluster’s Missing Black Holes&nbsp;&nbsp;NASA Science (.gov)A Missing Black Hole Was Found Hiding in a Giant Star Cluster. Astronomers Think There Could Be Thousands More&nbsp;&nbsp;GizmodoThe 1st of 10,000 'missing' black holes in the Omega Centauri star cluster has been found&nbsp;&nbsp;SpaceNASA’s Hubble reveals a black hole hiding inside a massiv",
       "sources": [
         {
-          "name": "KSL.com",
+          "name": "KSL News",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMG1qT1ZUZE5ncmVhVDl3eG9iVTdyT1YxV19FT3B2X2ZXSktuQmgwcXU4RUlQaGtBX0d4VDQ4YUd2ZFdFNHJlQlVlZUNNVTBwUHZaRWpVVDUxWm93MWVkTkN5ZXNCZjR0NEpiWDJZdngxcTlpNlhlZVFvaUdXbUZKUTFDb1d5d0ZRU2xHY2hPbG43S19jUk5mTmVSaXBicVJHc0JYLUVfSzJRcktNVWhlUlBFOUlMZFFTa0lRWlYyZ3g?oc=5"
         }
       ]
     },
     {
-      "id": "056cf5611bb4",
-      "title": "I smoked cannabis for nearly 20 years. Here’s what I wish I knew at 13. - The Washington Post",
+      "id": "f60b99ff3a10",
+      "title": "Beneath Europa’s fractured ice may be an ocean containing more liquid water than all of Earth’s oceans combined, kept warm in complete darkness by the gravitational pull of Jupiter - Space Daily",
+      "published": "2026-07-15T02:00:11+00:00",
+      "summary": "Beneath Europa’s fractured ice may be an ocean containing more liquid water than all of Earth’s oceans combined, kept warm in complete darkness by the gravitational pull of Jupiter&nbsp;&nbsp;Space DailyScientists searching for alien life are looking ever further out, to Europa, a moon of Jupiter hiding an ocean beneath its ice that could resemble the dark seas where life survives on Earth&nbsp;&nbsp;Space DailyA 2026 study found that Jupiter's ocean moon Europa may have a geologically quiet sea",
+      "sources": [
+        {
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcDNEQjVtS3lfQWZvWmJhM3lJSVFPdmpFSndRTGEtT0lyRFZCQnh1YjF6UHZWZHY4T3FqOGtGQm9NX19rZnp6SFdJZVRUZ3k5OUpIWWoycW90QW95d2dCcTN0QVl2aGc2T21Na2JzbVFEM1B3N1ZHY3NFV0x1OVpNX1lxTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ce6bf95ec7d3",
+      "title": "Guest Column | I smoked cannabis for nearly 20 years. Here’s what I wish I knew at 13. - The Washington Post",
       "published": "2026-07-15T01:38:44+00:00",
-      "summary": "I smoked cannabis for nearly 20 years. Here’s what I wish I knew at 13.&nbsp;&nbsp;The Washington PostOpinion: Legal weed doesn't mean harmless&nbsp;&nbsp;CT MirrorWhat Happens in the Brain When Cannabis Is Used Every Day&nbsp;&nbsp;Psychology TodayCannabis: Will you still be okay long after the high fades away?&nbsp;&nbsp;SAPeopleHigh stakes for teens&nbsp;&nbsp;Johns Hopkins University",
+      "summary": "Guest Column | I smoked cannabis for nearly 20 years. Here’s what I wish I knew at 13.&nbsp;&nbsp;The Washington PostOpinion: Legal weed doesn't mean harmless&nbsp;&nbsp;CT MirrorWhat Happens in the Brain When Cannabis Is Used Every Day&nbsp;&nbsp;Psychology TodayCannabis: Will you still be okay long after the high fades away?&nbsp;&nbsp;SAPeopleHigh stakes for teens&nbsp;&nbsp;Johns Hopkins University",
       "sources": [
         {
           "name": "The Washington Post",
@@ -78,14 +126,26 @@
       ]
     },
     {
-      "id": "8d9eb049dc84",
-      "title": "After record heat, could the Atlantic make Britain's weather even more extreme? - BBC",
-      "published": "2026-07-14T23:08:13+00:00",
-      "summary": "After record heat, could the Atlantic make Britain's weather even more extreme?&nbsp;&nbsp;BBCWhat Cold Water In The North Atlantic Means For Hurricane Season&nbsp;&nbsp;SURFER MagazinePacific icebergs can weaken one of Earth's most important ocean currents&nbsp;&nbsp;Earth.comPacific Ocean meltwater poses unexpected threat to AMOC, study says&nbsp;&nbsp;Oceanographic MagazineNorth Atlantic 'cold blob' signals slowdown in key ocean currents&nbsp;&nbsp;Big News Network.com",
+      "id": "fef710845621",
+      "title": "Astronauts Have Taken The First Human X‑Rays in Space - ScienceAlert",
+      "published": "2026-07-15T01:29:25+00:00",
+      "summary": "Astronauts Have Taken The First Human X‑Rays in Space&nbsp;&nbsp;ScienceAlert1st-ever X-rays in space offer hope for possible patients headed to the moon&nbsp;&nbsp;SpaceAstronauts take first X-rays in space&nbsp;&nbsp;Popular ScienceSee the first x-rays of humans taken in space&nbsp;&nbsp;Scientific AmericanHow The First Medical X-rays In Space Could Not Only Save Astronauts, But Lead To Better Medicines For Us On Earth&nbsp;&nbsp;IFLScience",
       "sources": [
         {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lWFFZYWtGMnhtU01fcXluNGt4bUxLQUtWS1RYQmdmUnJ5aHp1SkZUS2hRaGFPVGtTQnRnZjA0dHNMc3ZRcUVPNERvalJmVHNHbTY3d3FZMmxDUQ?oc=5"
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUDN4OE9BOFltRV9nV3d6WDh6TnJFZjREc0xZYlo0R1UwT2lEUEN5VFJ4TlhJQmN1OE4ySmVwOUlpcmJVMzJZdkRtaEFwTzMxbkNRMlJjdGtqTEVJYlVmUXJPR0dSVEtYckI3dmE3ZnJjdTNKRzVoSDdLR1BDcVFvMDlCR25ZLTk1SHZ4dDdwZ1Zzb0kzMmhCeEtydExTbllEV2VmcnFzT1NjeUU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bf239c7d91a4",
+      "title": "Seals have a unique superpower in their ears, and we finally know how it evolved - The Conversation",
+      "published": "2026-07-14T23:03:32+00:00",
+      "summary": "Seals have a unique superpower in their ears, and we finally know how it evolved&nbsp;&nbsp;The ConversationSeals filter sound through blood-filled tissue to hear underwater, study reveals&nbsp;&nbsp;Phys.orgAcoustic superheroes: how seals mastered hearing on land and at sea&nbsp;&nbsp;Medianet News HubScientists solve mystery of how seals hear in air and underwater&nbsp;&nbsp;Oceanographic Magazine",
+      "sources": [
+        {
+          "name": "The Conversation",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOakc5UUUwR3JVZFp4NnpjRUE1cTdKaTcyU1ZxMFNEV1RiOFdiaGJSbjhKREFzdGs1ZUNIRVBHd29BbTNRVkJackNOcjVZSVZiNWlqa0hfYi1PSUVJR1BHN0QwR2VDanFqdjRpdEU0elpvY3lHNjhFemp0cVZhd3Vqb2NhOWlqRXB4RGJKVElsSVZDWUVFcmZleHNEVXNJSnFmLU1DVHR6bnV2dEZzYS1iZWhTSVo?oc=5"
         }
       ]
     },
@@ -93,7 +153,7 @@
       "id": "2a5c9a508e94",
       "title": "Astronomers uncover the earliest known signs of galaxy-building in action - Phys.org",
       "published": "2026-07-14T23:00:07+00:00",
-      "summary": "Astronomers uncover the earliest known signs of galaxy-building in action&nbsp;&nbsp;Phys.orgNot clumpy, chaotic but earliest galaxies were remarkably organised, discovery shows&nbsp;&nbsp;The Indian ExpressThe nuclear disk changes our understanding of galactic evolution&nbsp;&nbsp;Universe Space TechWhen did the first galaxies form? Earlier than we thought possible&nbsp;&nbsp;New ScientistJames Webb has caught at least five galaxies colliding about 800 million years after the Big Bang, flinging",
+      "summary": "Astronomers uncover the earliest known signs of galaxy-building in action&nbsp;&nbsp;Phys.orgNot clumpy, chaotic but earliest galaxies were remarkably organised, discovery shows&nbsp;&nbsp;The Indian ExpressThe oldest nuclear disk changes our understanding of the evolution of galaxies&nbsp;&nbsp;Universe Space TechWhen did the first galaxies form? Earlier than we thought possible&nbsp;&nbsp;New ScientistJames Webb has caught at least five galaxies colliding about 800 million years after the Big ",
       "sources": [
         {
           "name": "Phys.org",
@@ -102,14 +162,26 @@
       ]
     },
     {
-      "id": "acc369534c72",
-      "title": "The Oldest Stars in the Galaxy Just Weighed In on One of Cosmology's Biggest Arguments - Universe Today",
-      "published": "2026-07-14T22:11:00+00:00",
-      "summary": "The Oldest Stars in the Galaxy Just Weighed In on One of Cosmology's Biggest Arguments&nbsp;&nbsp;Universe TodayA new stellar census strengthens the case for a 13.8-billion-year-old universe&nbsp;&nbsp;Phys.orgDuke cosmologist builds camera for telescope to research the early universe&nbsp;&nbsp;Spectrum NewsAstronomers are Hunting Down the Elusive Population III Stars&nbsp;&nbsp;Universe Today",
+      "id": "d1946dd3a298",
+      "title": "Researchers Claim to Have Solved the Perplexing ‘Reverse Sprinkler’ Problem That Stumped Feynman - The New York Times",
+      "published": "2026-07-14T20:39:53+00:00",
+      "summary": "Researchers Claim to Have Solved the Perplexing ‘Reverse Sprinkler’ Problem That Stumped Feynman&nbsp;&nbsp;The New York TimesSolution to Feynman’s reverse sprinkler puzzle also applies to “silly sprinklers”&nbsp;&nbsp;Ars Technica'Silly sprinklers' put in reverse to further unravel decades-old physics puzzle&nbsp;&nbsp;Phys.orgNYU Researchers Identify Physical Mechanisms Behind Reverse Sprinkler Motion&nbsp;&nbsp;geneonline.comFeynman’s Famous Physics Problem of a Sprinkler Running in Reverse h",
       "sources": [
         {
-          "name": "Universe Today",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZC1QNUpNRC1KazhLM3RqNWtCcTlNLTZlRHNSUkJSeUVoRHkxSW9veHFaVlFWVC1GZC1BYlRCbmN4V190a3YwZFB6Qi1yaTh6UkpaMndpTFRsd1p2S3Nqc2ZEOVZDdlhoN29Md0V2RTRTTEo4eVl4VWV6SWl4RXZnUk80WDlaVkVPTkhMWEp1NTAwZVBOX3dIZlltNGFXOUVqVWpnTDlBeVRENjZRRlJDQWRsYkhRVnZpTWRiMlVRdDBKQQ?oc=5"
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSV9vYXNTeFhZREd2aDd4OGNSV3VBbEgtaGFsWk8wSE1ad3BfaFozdUZfRElyYi1Ed0NWSDc1aTNDMk1lZHNBNzlPY3lGeF9HblZzSkNBOEJxM3Q0X3kxdnRyTGZ2S09KU0l1Y3JCQ2FsQ3dET1NtdWVKTngtYnBLemIzdm5QUkZv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9b465e6695b1",
+      "title": "The Amygdala Predicts Teen Isolation Years in Advance - Neuroscience News",
+      "published": "2026-07-14T20:23:53+00:00",
+      "summary": "The Amygdala Predicts Teen Isolation Years in Advance&nbsp;&nbsp;Neuroscience NewsCan a Preteen’s Reaction to a Face Predict Their Future Social Lives?&nbsp;&nbsp;NautilusTeen brains can predict their social lives years later&nbsp;&nbsp;Earth.comAdolescent Brain Responses to Faces Could Forecast Social Development&nbsp;&nbsp;Bioengineer.orgHow an adolescent's brain reacts to faces may predict their social future&nbsp;&nbsp;Medical Xpress",
+      "sources": [
+        {
+          "name": "Neuroscience News",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jbFpvNXA2VzhUR191WUlTalFoNUE1OXh3N1ZDa2NVTkd0cmpnQlcwMURGRy1rLW1SVHV6T0hMOG1YVnVNOHpUeWE2emY0OHBhWklKUnVBdWQzck5ESFBlQ3NLaFZLaVo2MWFuU0VCUzJFcTQ?oc=5"
         }
       ]
     },
@@ -129,7 +201,7 @@
       "id": "8057115193ad",
       "title": "A sugar key to the origins of life has been discovered in interstellar space - CNN",
       "published": "2026-07-14T16:59:52+00:00",
-      "summary": "A sugar key to the origins of life has been discovered in interstellar space&nbsp;&nbsp;CNNA Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy&nbsp;&nbsp;The New York TimesDetection of a four-carbon sugar in interstellar space&nbsp;&nbsp;NatureIn a sweet discovery, astronomers find sugar lurking in the space between stars&nbsp;&nbsp;NBC NewsSpace jam: astronomers detect ‘raspberry sugar’ on dust cloud in Milky Way&nbsp;&nbsp;The Guardian",
+      "summary": "A sugar key to the origins of life has been discovered in interstellar space&nbsp;&nbsp;CNNRaspberry sugar spotted in interstellar space, a sweet discovery that could reveal clues about life's origins&nbsp;&nbsp;SpaceA Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy&nbsp;&nbsp;The New York TimesSpace jam: astronomers detect ‘raspberry sugar’ on dust cloud in Milky Way&nbsp;&nbsp;The GuardianIn a sweet discovery, astronomers find sugar lurking in the space between stars&nbsp;&nbsp;NBC Ne",
       "sources": [
         {
           "name": "CNN",
@@ -138,26 +210,14 @@
       ]
     },
     {
-      "id": "a823fff6f49e",
-      "title": "Secretive Silicon Valley Startup Tries to Quash Interview, Says It’s Definitely Not Working on Growing Brain-Free \"Organ Sacks\" - Futurism",
-      "published": "2026-07-14T16:52:58+00:00",
-      "summary": "Secretive Silicon Valley Startup Tries to Quash Interview, Says It’s Definitely Not Working on Growing Brain-Free \"Organ Sacks\"&nbsp;&nbsp;Futurism",
+      "id": "9e70001fb8d1",
+      "title": "Weird Mountains on Pluto’s Largest Moon Charon Reveals a Surprising Past - Gizmodo",
+      "published": "2026-07-14T15:15:44+00:00",
+      "summary": "Weird Mountains on Pluto’s Largest Moon Charon Reveals a Surprising Past&nbsp;&nbsp;GizmodoEarly tidal despinning history recorded in the tectonics of Oz Terra, Charon&nbsp;&nbsp;NatureThe spin of Pluto's moon, Charon, may be slowing down&nbsp;&nbsp;Phys.orgPluto's Moon Charon Shows Signs Of \"Despinning\", New Study Finds&nbsp;&nbsp;NDTVAncient tectonic scars reveal how Pluto’s moon Charon slowed its spin&nbsp;&nbsp;Departement Erd-​ und Planetenwissenschaften",
       "sources": [
         {
-          "name": "Futurism",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVDF4U0Z5T1ZqM1JHVVdieEEyS2dEMWtVM1daRG93WldHTGx1eHV3emhhVkUtMEtwZTRERlNPRVYxVk03N2F3SnNtakltSEpBY00xRkhXVlBTbUhQdXk2MkxZcll3YXg5eG5UQXFuMXpQZEhnckxkbXRvRlRqdVFlSzYzeGpkNUVLamNOaThEZXlTVE9y?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7230bd9645bf",
-      "title": "A new paper argues that Earth's gravity is a hidden anchor for consciousness — and that losing it in orbit loosens the mind in a way that echoes psychedelics - Space Daily",
-      "published": "2026-07-14T14:30:01+00:00",
-      "summary": "A new paper argues that Earth's gravity is a hidden anchor for consciousness — and that losing it in orbit loosens the mind in a way that echoes psychedelics&nbsp;&nbsp;Space DailyWhat happens to your brain in space?&nbsp;&nbsp;BBCScientists Say Gravity Has Been Holding Your Consciousness Together&nbsp;&nbsp;Popular MechanicsAstronauts returning from long missions can initially struggle to stand, walk, and judge the weight of ordinary objects — because the brain must relearn a gravitational worl",
-      "sources": [
-        {
-          "name": "Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQbjZ4akU1T0Jjb05ab2tIcWNMVHFNSi1kVVhrSU53akJXS1BzYXc5ei1WZW83U0xwR3lWb3VrLXFlRVh4Sm9RQV9XY1ZXS3NMak5xMFg3b205V3lsTmJrR1gtZHhuZUw4OWo0WktUNFR0TUF6Ulk5M2VPYl9oOUVLZlY5XzctWFRRR0tqTmRVVE04c2ZTY0tlTDJKUjZmZXFmdG0xcGVnUVhPUWcyLXlZTHdzYkZnNUlhbFY4Ry1RbXdMcUZTTlh1SjlkR01QNEd1eEo2Um5fUFp3d2o2SzhwMUJPTU1Hc1Q0TDVoTDhnOUxnSWlFaWJaMzJEYVVlSnY3bDZZR3FZNnl3VHZhMXc?oc=5"
+          "name": "Gizmodo",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbHl3TWZ6WUlEQWJ4Ykl6dXZwa0lYMFRyYXZJRXJHMUdfQll4X0V4SFNtNWhvbmtESHV1U0p2akg4OVFXZVlxcUxvb1IxRGRJclQtRzhpeHVZa1d0M3pBWDlJcGRtdFltUWc0UXJ2eVA0MUhKcWF4MWhURThVVHdvVjRxVGc3R0dYRmp3UzJGbVVxRldLSjhoU2RRZ0dVbDM0SU5FYg?oc=5"
         }
       ]
     },
@@ -201,7 +261,7 @@
       "id": "8c25394b81cf",
       "title": "Frame-dragging observations validate Einstein yet again - Phys.org",
       "published": "2026-07-14T11:30:01+00:00",
-      "summary": "Frame-dragging observations validate Einstein yet again&nbsp;&nbsp;Phys.orgLARES-2 satellite measures frame-dragging effect around the Earth&nbsp;&nbsp;NatureResearchers, including Armenian scientist, achieve unprecedented precision in measuring frame-dragging effect&nbsp;&nbsp;ArmenpressScientists just confirmed Einstein’s greatest theory—again&nbsp;&nbsp;Scientific AmericanArmenian Scientist Behind Historic Discovery Confirming Einstein’s Theory of Relativity&nbsp;&nbsp;The Armenian Report",
+      "summary": "Frame-dragging observations validate Einstein yet again&nbsp;&nbsp;Phys.orgLARES-2 satellite measures frame-dragging effect around the Earth&nbsp;&nbsp;NatureArmenian Scientist Co-Authors Study Confirming Einstein’s Theory with Record Precision&nbsp;&nbsp;Asbarez.comScientists just confirmed Einstein’s greatest theory—again&nbsp;&nbsp;Scientific AmericanAn orbiting disco ball gave Einstein’s theory its most precise test yet&nbsp;&nbsp;Ars Technica",
       "sources": [
         {
           "name": "Phys.org",
@@ -230,78 +290,6 @@
         {
           "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMVk5QWRsNWM4OThpTEJzQ3dydkFNSjJSTnkybWh5b0sxUzktWjlDWFB5SkNDRDR1U1lBTVA1Z01iNHhJSzA5RXh6em5ON2xBZG9CX0Z5V1ZFNEFSTE9lQlJHWFhmanJfSTdkYnNCNnVtbGpMTHNWRHRJajhvWENUZFZBUm41dEdrejAyaEFrbHFWRTVPYkRwN0dGSW1vNEFuZ2FpMmYwTXdpZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b991100ca11c",
-      "title": "Dead stars in our cosmic backyard: Astronomers spot four white dwarfs hiding under our noses - Phys.org",
-      "published": "2026-07-14T00:00:01+00:00",
-      "summary": "Dead stars in our cosmic backyard: Astronomers spot four white dwarfs hiding under our noses&nbsp;&nbsp;Phys.orgScientists spot 4 superdense stellar corpses hiding behind their red dwarf companions&nbsp;&nbsp;SpaceAstronomers Discover Four New White Dwarfs in Solar Neighborhood&nbsp;&nbsp;Sci.NewsHubble uncovers four hidden dead stars near the Sun&nbsp;&nbsp;Earth.comAstronomers' surprise at discovery of new stars&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZUXc2bEdkWjlWeUk0cmh4ci1BZWRZZW5ndVFvbF9WSXlYRlI1T3ZTRzcyRGZiOHI4azk4NGlyc2RpSXljUFYyODlmcG5iSm9qUkpXQTdxcWlTWXpwZ0lNdEQ0LUJjck1qMkRWRjg1YW9CLWwwTWlORnZKUHpfQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1bcf95c27bbd",
-      "title": "Researchers froze the simplest amino acid to nearly minus 260°C and bombarded it with radiation that mimics cosmic rays — and it formed peptides, the building blocks of proteins, under conditions that exist before stars and planets are born - Space Daily",
-      "published": "2026-07-13T22:30:49+00:00",
-      "summary": "Researchers froze the simplest amino acid to nearly minus 260°C and bombarded it with radiation that mimics cosmic rays — and it formed peptides, the building blocks of proteins, under conditions that exist before stars and planets are born&nbsp;&nbsp;Space Daily",
-      "sources": [
-        {
-          "name": "Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTk81empTanRmSkl0aFM3bjUzNVRwVHVZd3dZdlFXeGNVUmVuU1lFZzZyWFZRa3o2b01hcThZZGVRNTZiSlQ2VE8xc0JwSDN0VmpvQVJxYmlhYXp6czhMOGtUZmdTRkt2TFozbjlnNUVuamN6ODBBWXlpSFZtbmp4b015RVh2TUJ5d3BPNWRLbkwxZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0b04d613a870",
-      "title": "Solution to Feynman’s reverse sprinkler puzzle also applies to “silly sprinklers” - Ars Technica",
-      "published": "2026-07-13T19:00:47+00:00",
-      "summary": "Solution to Feynman’s reverse sprinkler puzzle also applies to “silly sprinklers”&nbsp;&nbsp;Ars TechnicaResearchers Claim to Have Solved the Perplexing ‘Reverse Sprinkler’ Problem That Stumped Feynman&nbsp;&nbsp;The New York Times'Silly sprinklers' put in reverse to further unravel decades-old physics puzzle&nbsp;&nbsp;Phys.orgNYU Researchers Identify Physical Mechanisms Behind Reverse Sprinkler Motion&nbsp;&nbsp;geneonline.comFeynman’s Famous Physics Problem of a Sprinkler Running in Reverse h",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNWozdFg0c015dHJEeDZOd21jcnhfOWpRclgxQU5wM2U4ekNzUEtUOHQ4TFNfZ1dBeEx5ZUhpQnMydGNjSV9FU08xUERuNGhkRm90dks4ODBYTTV1ZmRqSENXNTIyX00zenpyc3Q2NzY3MVNoSERCVDJ3X1VUenJ0OEVDLW14dUJPdTZjMTlUcU9fX2VmRVh2bk1qTnhBRkc4RDZsbWk0YkdVZ1c0WVNGc0FES0wxMEdva29z?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b259853cba2a",
-      "title": "Spatial mapping and senolytic targeting of senescent and disease-associated microglia in aged mouse brain white matter - Nature",
-      "published": "2026-07-13T18:29:56+00:00",
-      "summary": "Spatial mapping and senolytic targeting of senescent and disease-associated microglia in aged mouse brain white matter&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0WG5zWlBRTHQ1MG9ZSm5zdlRncUIzMlBUVlJTXzB6eFhlZFh0MHI1TGxsb2pzZUlqOWpZREN5U3RpdWI5NHNZUXVSOFF5VDgzaHBuY0l3a3JjVEJzdjJv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2d982049162a",
-      "title": "Study links sea level to Earth's carbon thermostat - Phys.org",
-      "published": "2026-07-13T12:40:06+00:00",
-      "summary": "Study links sea level to Earth's carbon thermostat&nbsp;&nbsp;Phys.org",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WMzNBNy00ZXRXZDdhZnVoVHpuSlZRaVlScUFBRWtwb09aeE8tUGJiVzVZZ21neXJ1Z1hQUFM0Q1Z5OG90eGQzcUI3X3plVUJ6cnBaVDBFMUVOd2UzZ3RXWHJXWEhKSzFJZ1ZiM2lnQVJzSl9hWnBn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c2864cceda39",
-      "title": "Scientists discovered the brain doesn't make decisions the way we thought - ScienceDaily",
-      "published": "2026-07-13T12:14:13+00:00",
-      "summary": "Scientists discovered the brain doesn't make decisions the way we thought&nbsp;&nbsp;ScienceDailyBrain Makes Decisions Far Earlier Than Scientists Thought: Challenge for AI Design&nbsp;&nbsp;Tech Times",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0aUJndlhFMjJqU29FeThiOHRUcHJ3a3R3dG9kRnBSdV9oUldtcDdHemJ4S2hhYzRFQnVKZ2dCVV9kNlVhY2pNQnVxcDNUY2psd25FdzR0c1NCVFFhWE1MY3dQeThLVHdRYVJFdE1Rbw?oc=5"
         }
       ]
     }

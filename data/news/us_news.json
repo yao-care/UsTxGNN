@@ -1,31 +1,43 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-07-15T02:41:24.733340+00:00",
-  "total_fetched": 76,
-  "unique_count": 76,
-  "health_related_count": 24,
+  "fetched_at": "2026-07-15T08:17:46.353610+00:00",
+  "total_fetched": 77,
+  "unique_count": 77,
+  "health_related_count": 25,
   "news": [
     {
-      "id": "0cbefe29c636",
-      "title": "Salad greens, lettuce ‘possible source’ of cyclosporiasis parasite: Officials - NewsNation",
-      "published": "2026-07-15T00:20:26+00:00",
-      "summary": "Salad greens, lettuce ‘possible source’ of cyclosporiasis parasite: Officials&nbsp;&nbsp;NewsNationCyclosporiasis Outbreak with Unknown Source&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)Mass. won't see as many Cyclospora cases as Midwest, Tufts doc says&nbsp;&nbsp;WCVBOutbreak of diarrhea from parasite expands to more states as US cases soar beyond last year’s level&nbsp;&nbsp;CNNWhat to know about cyclosporiasis, the intestinal illness hitting the U.S.&nbsp;&nbsp;NPR",
+      "id": "3c1f87d6f051",
+      "title": "Hamilton County health officials report more cyclosporiasis cases - WLWT",
+      "published": "2026-07-15T03:21:00+00:00",
+      "summary": "Hamilton County health officials report more cyclosporiasis cases&nbsp;&nbsp;WLWTOutbreak of diarrhea from parasite expands to more states as US cases soar beyond last year’s level&nbsp;&nbsp;CNNDiarrhoea-inducing Cyclospora outbreak spreads across US&nbsp;&nbsp;ABC News & Headlines – Australian Broadcasting CorporationCyclosporiasis Outbreak with Unknown Source&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)Health Officials Zero In on Lettuce in Explosive-Diarrhea Outbreak Pr",
       "sources": [
         {
-          "name": "NewsNation",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMzJXSV9YQ1BhalFpSFdsUk9weEx2OVdPR0lndTVERjVTbVNJeEtWSlVSZ0ZfOEhNRU5kRTRhejJDT3JtbEJIN3l5ZzZ6b2ViQTlCY3ZwdVI4Q2s5WF91WS1GUTh6TVE3Y0k5NW5MTXowT19zcHdacGtFSFVLUEo5dmdDU1MzNGFCU0YwajJ3dXNXVXhEMkRiQmN30gGfAUFVX3lxTE9yQWRRcFZrTWRhMGZJTjJsVDVIUGlUT2NkWVBaNmtRSWg5c09Xa0xhUUlvSlp3LURfZF9uUnFxU3REbUpqY2F6YzBTTWNIZFdIWWpaNHR2YmRBYnRQZnp2bG5CN0VlWnJucWxaSDNzb0dPVkZtZmFsMTN3dW41RkZjTEJqaTRqVm1tdjRxRTI2cHh0NVowMGtfNS0ySmZ2SQ?oc=5"
+          "name": "WLWT",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU1RLV2xWblRFVVQxWnVldTR0M2F5blBlYWhoZUJYSEpUd1hFYzF4cEo2YjAxN0t0Wm5GU1VQVlhOYTFTbU12aW5hX1drQkF0SnFRYml6UDUxUGRTWDI5ZXhHOGZpZFYtOGFVMzd2blJHcW41R3FTSlpicWJ3anA4Wi1DTXJlejE5ancwUV9vM3k0SEN6YW5FMQ?oc=5"
         }
       ]
     },
     {
-      "id": "90d100df2b7b",
-      "title": "New York Is Having a Legionnaires’ Outbreak. Here’s What to Know. - The New York Times",
-      "published": "2026-07-14T23:45:52+00:00",
-      "summary": "New York Is Having a Legionnaires’ Outbreak. Here’s What to Know.&nbsp;&nbsp;The New York TimesUpper East Side Legionnaires' outbreak: 76 buildings test positive for Legionella bacteria in preliminary testing&nbsp;&nbsp;ABC7 New YorkDozens of New York cooling towers test positive for Legionnaires’ bacteria as outbreak reaches 60 cases&nbsp;&nbsp;CNNNew diagnoses slow in NYC Legionnaires’ disease outbreak; source still unclear&nbsp;&nbsp;AP News76 UES Buildings Test Positive For Legionella: See N",
+      "id": "dd72c77fc277",
+      "title": "'Surprising and exciting': U. astronomers harness NASA telescopes for black hole discovery - KSL.com",
+      "published": "2026-07-15T03:06:48+00:00",
+      "summary": "'Surprising and exciting': U. astronomers harness NASA telescopes for black hole discovery&nbsp;&nbsp;KSL.comNASA’s Hubble Discovers First of Star Cluster’s Missing Black Holes&nbsp;&nbsp;NASA Science (.gov)The 1st of 10,000 'missing' black holes in the Omega Centauri star cluster has been found&nbsp;&nbsp;SpaceHubble discovers first of star cluster’s missing black holes&nbsp;&nbsp;ESA/HubbleNASA’s Hubble reveals a black hole hiding inside a massive star cluster in the Milky Way&nbsp;&nbsp;Scien",
       "sources": [
         {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcGtENS1KbGFNbkdLWk4zS2VPMGlCZXVEQzFzWlRfRHhrNjY3RUF5cGNqM19mck5fLUFqV3JpNUNwWXQ5LW5EaTlLV1ppa01LLUhjcUVEN1EzRDdkV21LSFNqcjZfNFdGT0lLNnZLNDlmd2tQQUFya0RoVU5MZXZ6YWk4VVRjTUlZemh5bFdoWQ?oc=5"
+          "name": "KSL.com",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMG1qT1ZUZE5ncmVhVDl3eG9iVTdyT1YxV19FT3B2X2ZXSktuQmgwcXU4RUlQaGtBX0d4VDQ4YUd2ZFdFNHJlQlVlZUNNVTBwUHZaRWpVVDUxWm93MWVkTkN5ZXNCZjR0NEpiWDJZdngxcTlpNlhlZVFvaUdXbUZKUTFDb1d5d0ZRU2xHY2hPbG43S19jUk5mTmVSaXBicVJHc0JYLUVfSzJRcktNVWhlUlBFOUlMZFFTa0lRWlYyZ3g?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "056cf5611bb4",
+      "title": "I smoked cannabis for nearly 20 years. Here’s what I wish I knew at 13. - The Washington Post",
+      "published": "2026-07-15T01:38:44+00:00",
+      "summary": "I smoked cannabis for nearly 20 years. Here’s what I wish I knew at 13.&nbsp;&nbsp;The Washington PostOpinion: Legal weed doesn't mean harmless&nbsp;&nbsp;CT MirrorWhat Happens in the Brain When Cannabis Is Used Every Day&nbsp;&nbsp;Psychology TodayAdolescents with cannabis use disorder have higher risks for later development of psychiatric disorders&nbsp;&nbsp;Medical XpressTeen Marijuana Use Linked To Mental Illness&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcF9pb0RNMVFqOXczQ19RZWo1U1VVRWg1ZFFIMFVkMFpIZGN4cDR6ZmNDczR5YlVvenFjcWlucjJKZ3c5dEtBUjBXbVh0ejYyYll1REgyRkVGQkd2c01nZklIdXlVNW1iLUljeV9sT2h5Y0JYdHpqZTdCNUo1WVFPbEtNdjZ1bWVpTmVHTlFaN0QwdG85eVBZajV0WmtfaldxWUFLUDVqaWJRLUlFbEpHXzE5bw?oc=5"
         }
       ]
     },
@@ -33,11 +45,23 @@
       "id": "8d9eb049dc84",
       "title": "After record heat, could the Atlantic make Britain's weather even more extreme? - BBC",
       "published": "2026-07-14T23:08:13+00:00",
-      "summary": "After record heat, could the Atlantic make Britain's weather even more extreme?&nbsp;&nbsp;BBCWhat Cold Water In The North Atlantic Means For Hurricane Season&nbsp;&nbsp;SURFER MagazinePacific Ocean meltwater poses unexpected threat to AMOC, study says&nbsp;&nbsp;Oceanographic MagazineEarth’s Climate Artery Is Slowly Collapsing, Study Warns of Global Consequences&nbsp;&nbsp;ShiaWavesPacific icebergs can weaken one of Earth's most important ocean currents&nbsp;&nbsp;Earth.com",
+      "summary": "After record heat, could the Atlantic make Britain's weather even more extreme?&nbsp;&nbsp;BBCWhat Cold Water In The North Atlantic Means For Hurricane Season&nbsp;&nbsp;SURFER MagazinePacific icebergs can weaken one of Earth's most important ocean currents&nbsp;&nbsp;Earth.comPacific Ocean meltwater poses unexpected threat to AMOC, study says&nbsp;&nbsp;Oceanographic MagazineNorth Atlantic 'cold blob' signals slowdown in key ocean currents&nbsp;&nbsp;Big News Network.com",
       "sources": [
         {
           "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lWFFZYWtGMnhtU01fcXluNGt4bUxLQUtWS1RYQmdmUnJ5aHp1SkZUS2hRaGFPVGtTQnRnZjA0dHNMc3ZRcUVPNERvalJmVHNHbTY3d3FZMmxDUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "29b2e72df28a",
+      "title": "76 UES Buildings Test Positive For Legionella: See New List - Patch",
+      "published": "2026-07-14T20:55:30+00:00",
+      "summary": "76 UES Buildings Test Positive For Legionella: See New List&nbsp;&nbsp;PatchUpper East Side Legionnaires' outbreak: 76 buildings test positive for Legionella bacteria in preliminary testing&nbsp;&nbsp;ABC7 New YorkNumber of UES buildings with positive Legionella tests more than doubles since preliminary findings&nbsp;&nbsp;GothamistLegionnaires' outbreak grows to 63 cases on Upper East Side&nbsp;&nbsp;Spectrum News NY1New York Is Having a Legionnaires’ Outbreak. Here’s What to Know.&nbsp;&nbsp;T",
+      "sources": [
+        {
+          "name": "Patch",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQzdDaGl3bmNLLXRhT1A0M21PeV83amVGZ2JQUUdaZ2t5emk3d255SjIwNk4xejIteEltTWZaZDVBVGoxQXo1Vkc2VGxqc3NzSTBKN0dCb1BSTTc1ZUUtUnFRWGdPejlDTkV3aXE4MHJtZHpab2xGV2s5VHJ5T3FDYkpUTGRoOVppZEx4dm9INmtsS3pqTGxSZ2dqUkVpeFNYWnQwQtIBugFBVV95cUxNQ2VPX2NwcU45N3RUdXB0R3JOX29tcE9hUnJwb05vNk5pa1NiZWhiaWlaMFlTbGN6R04weWw4MFJwbnEwbmE5ZjBFdUxoSy16QmNWM3RYbl9zZXJHM2l5U04xMHZqUjhwRUtIWTNqRTFNc1RNMHljSW9vQzNsNHl0Z19wWW1hRjJCeklvQm4wX0stLW5aUTM4VkJxNmppSG9qQ2Z2MnhZM0otZXVNcTh0akhMS2VPZjZYcEE?oc=5"
         }
       ]
     },
@@ -66,22 +90,10 @@
       ]
     },
     {
-      "id": "43c8a01d3a85",
-      "title": "1st-ever X-rays in space offer hope for possible patients headed to the moon - Space",
-      "published": "2026-07-14T18:00:00+00:00",
-      "summary": "1st-ever X-rays in space offer hope for possible patients headed to the moon&nbsp;&nbsp;SpaceAstronauts Have Taken The First Human X‑Rays in Space&nbsp;&nbsp;ScienceAlertThese Look Like Ordinary X-Rays. They’re Not&nbsp;&nbsp;GizmodoMedical X-rays taken in space for the first time&nbsp;&nbsp;The Elkhart TruthAstronauts take first X-rays in space&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "Space",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQa0hXQXlHZWQ5TFczRy1QcFRLZDNjR3J3Y0FULTFmeFczRnZPS2xpUnhMQmZ0N1NPRkhDUXliNXAzVVpvenhJR2dIbmlybGlkRXNzUy1VX3A4QzRLWnphLXJLWkV4b2xuQWZyMWFnTUdJZG9QV1hmTmlObmxmVC1UX0tfNnlSTHVEMEhWYmw4SnZXRkQ4TS0waUI4Y1RGNFNMWDJ4Mm15LThKSjMwanZJLUFYT1JkaEtQMFlSWUlkZU85Mm5jcWVwRFp0VUtmYmM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8057115193ad",
       "title": "A sugar key to the origins of life has been discovered in interstellar space - CNN",
       "published": "2026-07-14T16:59:52+00:00",
-      "summary": "A sugar key to the origins of life has been discovered in interstellar space&nbsp;&nbsp;CNNA Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy&nbsp;&nbsp;The New York TimesDetection of a four-carbon sugar in interstellar space&nbsp;&nbsp;NatureSpace jam: astronomers detect ‘raspberry sugar’ on dust cloud in Milky Way&nbsp;&nbsp;The GuardianIn a sweet discovery, astronomers find sugar lurking in the space between stars&nbsp;&nbsp;NBC News",
+      "summary": "A sugar key to the origins of life has been discovered in interstellar space&nbsp;&nbsp;CNNA Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy&nbsp;&nbsp;The New York TimesDetection of a four-carbon sugar in interstellar space&nbsp;&nbsp;NatureIn a sweet discovery, astronomers find sugar lurking in the space between stars&nbsp;&nbsp;NBC NewsSpace jam: astronomers detect ‘raspberry sugar’ on dust cloud in Milky Way&nbsp;&nbsp;The Guardian",
       "sources": [
         {
           "name": "CNN",
@@ -117,7 +129,7 @@
       "id": "4d1d127dcda3",
       "title": "In 2023, seismologists at the Australian National University, reading the echoes of earthquakes ringing back and forth through the whole planet, confirmed Earth hides an innermost core inside its inner core, a distinct iron ball roughly 1,300 kilometres across w - Space Daily",
       "published": "2026-07-14T12:57:01+00:00",
-      "summary": "In 2023, seismologists at the Australian National University, reading the echoes of earthquakes ringing back and forth through the whole planet, confirmed Earth hides an innermost core inside its inner core, a distinct iron ball roughly 1,300 kilometres across w&nbsp;&nbsp;Space DailyAcademia Sinica - Research Findings | Earth’s mantle locally heats up our planet’s core&nbsp;&nbsp;sinica.edu.twEarth’s inner core is not rock but a sphere of solid iron-rich metal, smaller than the Moon yet probabl",
+      "summary": "In 2023, seismologists at the Australian National University, reading the echoes of earthquakes ringing back and forth through the whole planet, confirmed Earth hides an innermost core inside its inner core, a distinct iron ball roughly 1,300 kilometres across w&nbsp;&nbsp;Space DailyAcademia Sinica - Research Findings | Earth’s mantle locally heats up our planet’s core&nbsp;&nbsp;sinica.edu.twEarth’s inner core is an iron-rich ball as hot as the surface of the Sun, kept solid only because the c",
       "sources": [
         {
           "name": "Space Daily",
@@ -141,7 +153,7 @@
       "id": "280e86f67d11",
       "title": "Your Dominant Hand Isn't Actually Hard-Wired, New Study Suggests - ScienceAlert",
       "published": "2026-07-14T12:03:30+00:00",
-      "summary": "Your Dominant Hand Isn't Actually Hard-Wired, New Study Suggests&nbsp;&nbsp;ScienceAlertYour dominant hand may not be born-in: A study that taped people’s elbows shut found both sides quickly learned to write, hinting practice is what makes one hand better&nbsp;&nbsp;The Times of IndiaDominant hand excels through practice rather than brain advantage&nbsp;&nbsp;News-Medical",
+      "summary": "Your Dominant Hand Isn't Actually Hard-Wired, New Study Suggests&nbsp;&nbsp;ScienceAlertYour dominant hand may not be born-in: A study that taped people’s elbows shut found both sides quickly learned to write, hinting practice is what makes one hand better&nbsp;&nbsp;The Times of IndiaBeing able to write easily with your dominant hand may not be something you're born with, but rather the result of 'lifelong practice.'&nbsp;&nbsp;GIGAZINEDominant hand excels through practice rather than brain adv",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -165,7 +177,7 @@
       "id": "8c25394b81cf",
       "title": "Frame-dragging observations validate Einstein yet again - Phys.org",
       "published": "2026-07-14T11:30:01+00:00",
-      "summary": "Frame-dragging observations validate Einstein yet again&nbsp;&nbsp;Phys.orgAn orbiting disco ball gave Einstein’s theory its most precise test yet&nbsp;&nbsp;Ars TechnicaLARES-2 satellite measures frame-dragging effect around the Earth&nbsp;&nbsp;NatureArmenian scientist co-authors Nature study confirming Einstein’s theory with record precision&nbsp;&nbsp;Public Radio of ArmeniaScientists just confirmed Einstein’s greatest theory—again&nbsp;&nbsp;Scientific American",
+      "summary": "Frame-dragging observations validate Einstein yet again&nbsp;&nbsp;Phys.orgAn orbiting disco ball gave Einstein’s theory its most precise test yet&nbsp;&nbsp;Ars TechnicaLARES-2 satellite measures frame-dragging effect around the Earth&nbsp;&nbsp;NatureArmenian Scientist Behind Historic Discovery Confirming Einstein’s Theory of Relativity&nbsp;&nbsp;The Armenian ReportScientists just confirmed Einstein’s greatest theory—again&nbsp;&nbsp;Scientific American",
       "sources": [
         {
           "name": "Phys.org",
@@ -198,18 +210,6 @@
       ]
     },
     {
-      "id": "c54ed7db6dff",
-      "title": "Workers at an Ebola treatment center in Congo strike over unpaid salaries and bonuses - AP News",
-      "published": "2026-07-14T03:31:00+00:00",
-      "summary": "Workers at an Ebola treatment center in Congo strike over unpaid salaries and bonuses&nbsp;&nbsp;AP News‘This is a fire’: DRC Ebola outbreak is fastest-growing ever, warns WHO&nbsp;&nbsp;UN NewsWHO warns DR Congo Ebola outbreak may be double the official tally&nbsp;&nbsp;Al JazeeraThe Ebola epidemic is getting out of control&nbsp;&nbsp;The EconomistWHO says it has less than half funding needed to fight Ebola&nbsp;&nbsp;Reuters",
-      "sources": [
-        {
-          "name": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR2R5YzBsQ3o2U25zMU03d2pUcHVPazY4Q3J6SWhmeDdvQ1VWMHlDS1h1X0FnZ05UWFF1QVl5TlluOHc5bkE0N1czVzVpdGpybE0zS2RISUlkQWowZ3hLRTdMM0F5U3FXUUlZN1RpN1BKQXEtV29DUV9qZnN4dlVjLXh6U2ZvRkRYRGtPaGNlNHN1TWdDRkM1OU1mNA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1bcf95c27bbd",
       "title": "Researchers froze the simplest amino acid to nearly minus 260°C and bombarded it with radiation that mimics cosmic rays — and it formed peptides, the building blocks of proteins, under conditions that exist before stars and planets are born - Space Daily",
       "published": "2026-07-13T22:30:49+00:00",
@@ -225,7 +225,7 @@
       "id": "5a7c27b2bc05",
       "title": "The rare and dangerous heart condition tied to Lindsey Graham's death - Axios",
       "published": "2026-07-13T21:01:13+00:00",
-      "summary": "The rare and dangerous heart condition tied to Lindsey Graham's death&nbsp;&nbsp;AxiosMadison researchers studying aortic dissection that killed Sen. Lindsey Graham&nbsp;&nbsp;WMTV 15 NEWS‘Death was at my door,’ Arkansan shares story of surviving aortic dissection&nbsp;&nbsp;FOX16.comWhat you should know about aortic dissection&nbsp;&nbsp;News4JAXAortic dissection: Symptoms and who's at risk for this medical emergency&nbsp;&nbsp;WJAR",
+      "summary": "The rare and dangerous heart condition tied to Lindsey Graham's death&nbsp;&nbsp;AxiosMadison researchers studying aortic dissection that killed Sen. Lindsey Graham&nbsp;&nbsp;WMTV 15 NEWS‘Death was at my door,’ Arkansan shares story of surviving aortic dissection&nbsp;&nbsp;FOX16.comWhat you should know about aortic dissection&nbsp;&nbsp;News4JAXExpert Available: What to Know About Aortic Dissection | Newswise&nbsp;&nbsp;Newswise",
       "sources": [
         {
           "name": "Axios",
@@ -234,14 +234,26 @@
       ]
     },
     {
-      "id": "71f30882ebbc",
-      "title": "Pigeons’ shifting gaze could help drones navigate more like birds: UBC study - CBC",
-      "published": "2026-07-13T13:00:00+00:00",
-      "summary": "Pigeons’ shifting gaze could help drones navigate more like birds: UBC study&nbsp;&nbsp;CBCWhy researchers gave pigeons tiny backpacks&nbsp;&nbsp;Popular ScienceHow camera-equipped homing pigeons could improve robotic vision in flight&nbsp;&nbsp;UBC NewsThese pigeon cameras could help create smarter drone cameras, say researchers&nbsp;&nbsp;Digital Camera WorldUBC study finds pigeons move their eyes in flight to read surroundings&nbsp;&nbsp;동아사이언스",
+      "id": "b259853cba2a",
+      "title": "Spatial mapping and senolytic targeting of senescent and disease-associated microglia in aged mouse brain white matter - Nature",
+      "published": "2026-07-13T18:29:56+00:00",
+      "summary": "Spatial mapping and senolytic targeting of senescent and disease-associated microglia in aged mouse brain white matter&nbsp;&nbsp;Nature",
       "sources": [
         {
-          "name": "CBC",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQajM3S0szckxMd3pDM3RlWUVIZzZDUEZLcDdYVmhOazc1Z2M1SlpWd19ZVVp5SEdEa0JHZGZfVWdlTmNGZF9SS0FBQ1VHTkpjUzRlOHE0cTE5cDJoMWpObkV5a3hyNXpBUllBMVNQbXg3Y21rLUw1WDdiYkItNWZNY2I4MzRHSFo5LVQ3TmVRNjdoQlNNUnRoNlB1MW5LRmQtX3dkTTNTNmFaLWE2?oc=5"
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0WG5zWlBRTHQ1MG9ZSm5zdlRncUIzMlBUVlJTXzB6eFhlZFh0MHI1TGxsb2pzZUlqOWpZREN5U3RpdWI5NHNZUXVSOFF5VDgzaHBuY0l3a3JjVEJzdjJv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0f56c4b71ef8",
+      "title": "Why the fastest-growing Ebola outbreak in history is becoming more challenging - AP News",
+      "published": "2026-07-13T17:51:00+00:00",
+      "summary": "Why the fastest-growing Ebola outbreak in history is becoming more challenging&nbsp;&nbsp;AP NewsEbola is spreading faster in eastern Congo than it can be tracked, as deaths pass 700&nbsp;&nbsp;NPREbola Deaths Double in Two Weeks as WHO Warns Virus Is Outrunning Response&nbsp;&nbsp;Bloomberg.comEbola outbreak much larger than official figures, WHO says&nbsp;&nbsp;DW.com‘This is a fire’: DRC Ebola outbreak is fastest-growing ever, warns WHO&nbsp;&nbsp;UN News",
+      "sources": [
+        {
+          "name": "AP News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZzFkRjZCbGVpa3I2ZFg2bFYyUVBkbFZLMFVFc3RYNEZkams0NVhYYjk0UjMxclBoeWdXRHRZeWVvSFlpSEZhdlBabHRkZHpXcFo2c1JHMDlzaVZwbnAwT05kcmttdTdKUGZzOWk5LWJUQVIyemxUOTNOZTZEcVd1ektXWmNjMGJXQzlMVFhuTVNab0h0T2M3dkFHYjA2Zw?oc=5"
         }
       ]
     },
@@ -270,6 +282,18 @@
       ]
     },
     {
+      "id": "c2864cceda39",
+      "title": "Scientists discovered the brain doesn't make decisions the way we thought - ScienceDaily",
+      "published": "2026-07-13T12:14:13+00:00",
+      "summary": "Scientists discovered the brain doesn't make decisions the way we thought&nbsp;&nbsp;ScienceDailyBrain Makes Decisions Far Earlier Than Scientists Thought: Challenge for AI Design&nbsp;&nbsp;Tech Times",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0aUJndlhFMjJqU29FeThiOHRUcHJ3a3R3dG9kRnBSdV9oUldtcDdHemJ4S2hhYzRFQnVKZ2dCVV9kNlVhY2pNQnVxcDNUY2psd25FdzR0c1NCVFFhWE1MY3dQeThLVHdRYVJFdE1Rbw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a1c8c695edaa",
       "title": "The surprising health benefits of having orange hair - Yahoo News Canada",
       "published": "2026-07-13T10:39:27+00:00",
@@ -278,18 +302,6 @@
         {
           "name": "Yahoo News Canada",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQXZDbC1MdUlIZjdrSWpJREJzLUhOc1ZxbC1vVWM3YTJyQzN5V3VqQ0U2MnZzbDZPeEJxWkRESWY0QjBqT3VQRnlYakl1Qkc4alVsdlBYLTlQaUNOTGdvQWM4OTBvSHZkYXVTLXQwU3BQbmYzRUhDLXNyVlltX2doY2RZVkozbnE2?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0c94208d3568",
-      "title": "‘Disappointed’: Cochrane journal asked researchers to publish article, then retracted it for conflicts - Retraction Watch",
-      "published": "2026-07-13T10:00:00+00:00",
-      "summary": "‘Disappointed’: Cochrane journal asked researchers to publish article, then retracted it for conflicts&nbsp;&nbsp;Retraction Watch",
-      "sources": [
-        {
-          "name": "Retraction Watch",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWFdTWjBHSkpJdGJqMnI5Q1ZJbXhPdjJ6OUx0U2gwdExZaWNhQ1hkRE16Vy1Gc1B4TmIxY1dmLVBqa3VTUmJWbVBPM0FJcjhxaUxFR09rTVRGUmhORnJsR0VxbEJEUjJTR25mdEo2MlpISTVsZlhRV1YzQ21WZ3cyME5jZmpncE5rcUMzSmF6Nk1jM0JxamFFTGlkNENNLXFpWXZUNHFqaHlhTEVFNHFiVGRsSVFIMHJkMW42UmphWDUzb3FNS0VOZEhnblFGT1l0X1pHSA?oc=5"
         }
       ]
     }

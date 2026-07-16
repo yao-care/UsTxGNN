@@ -1,14 +1,38 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-07-16T13:59:01.415730+00:00",
-  "total_fetched": 109,
-  "unique_count": 109,
-  "health_related_count": 43,
+  "fetched_at": "2026-07-16T19:15:28.051138+00:00",
+  "total_fetched": 110,
+  "unique_count": 110,
+  "health_related_count": 48,
   "news": [
+    {
+      "id": "be9d56535dc4",
+      "title": "Astronomers Find an Atmosphere on a Nearby Earthlike Planet - The New York Times",
+      "published": "2026-07-16T18:27:28+00:00",
+      "summary": "Astronomers Find an Atmosphere on a Nearby Earthlike Planet&nbsp;&nbsp;The New York TimesEarth-like exoplanet could have life-supporting water on its surface&nbsp;&nbsp;The GuardianWe’ve seen helium baked off a rocky exoplanet’s atmosphere&nbsp;&nbsp;Ars TechnicaScientists Discover Planet Has Everything to Host ‘Earth-Like Life’ In Breakthrough&nbsp;&nbsp;404 MediaIncredible Atmosphere Detection In Habitable-Zone Rocky Exoplanet Located Just 49 Light-Years Away&nbsp;&nbsp;IFLScience",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb2VrM0JicFZGM3VUbkktY1l3eXJjVkxVeWtuaER0UzRPNVU0Zk9RMk1zdUhoOXktQjFjN0U3MkdvYXFob3ZrbHFkS2JkcWZRX1dtWVlOTFVIN0QyS2NEdTJqbEdSMXBTaVNaaElWN2V4ZXZ1dzc1UFdCb1dNc25CVS1ueEY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fb420f2c7d0c",
+      "title": "How bad is wildfire smoke? Graphics show how toxic air affects your health - USA Today",
+      "published": "2026-07-16T17:44:00+00:00",
+      "summary": "How bad is wildfire smoke? Graphics show how toxic air affects your health&nbsp;&nbsp;USA TodayWildfire smoke isn't just a breathing problem, cardiologists say it's a heart problem too&nbsp;&nbsp;WSTMHow to keep kids, seniors and pets safe from wildfire smoke&nbsp;&nbsp;USA TodayHealth effects from smoky conditions — and how Long Islanders can protect themselves&nbsp;&nbsp;NewsdayAmerican Heart Association warning: Here’s what those impacted by wildfire smoke need to know&nbsp;&nbsp;ClickOnDetro",
+      "sources": [
+        {
+          "name": "USA Today",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMzNOUzljcThTVkFnVjFXWDA0dEl5N3ZuNFpyTzJPbjQ0cUltYnJMd2M0T3Z3N21UM21OdHVqNjh4Q2VCVlQtaVBXaW9KSzcxdmNGLWh6N0ZhWWYyX3RIRXplRGJNdmF1cFczLTBVTG9zcm1hSlBJZmk4cTVva01lelF5cjJCanR3b2lCTHNKX0lGWkt5NTM3SHJxM2ZNcllsR2JWNEJtVmQ4UQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "8f645dfd4b22",
       "title": "Patients who suffer heart attack have more micro and nanoplastic in their blood - European Society of Cardiology",
-      "published": "2026-07-16T13:07:26+00:00",
+      "published": "2026-07-16T16:08:04+00:00",
       "summary": "Patients who suffer heart attack have more micro and nanoplastic in their blood&nbsp;&nbsp;European Society of CardiologySee more headlines & perspectives on Google News",
       "sources": [
         {
@@ -18,10 +42,46 @@
       ]
     },
     {
+      "id": "7f321d6847c5",
+      "title": "Meteorite that crashed into New Jersey home contains \"alien world chemistry,\" scientists say - CBS News",
+      "published": "2026-07-16T14:26:00+00:00",
+      "summary": "Meteorite that crashed into New Jersey home contains \"alien world chemistry,\" scientists say&nbsp;&nbsp;CBS NewsMeteorite that crashed into a New Jersey home is a rare solar system fragment&nbsp;&nbsp;CNNNew Jersey Couple Aids Meteorite Discovery After it Crashes Through Their Roof&nbsp;&nbsp;The New York TimesNASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids&nbsp;&nbsp;NASA Science (.gov)Meteorite that crashed through New Jersey house could hold the clues to life's origins&nbs",
+      "sources": [
+        {
+          "name": "CBS News",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42T1JGSGItdkd3Z3dpaTRud0pXZDZRRnM5WDJQa1d1QUFRY0hvRnEzQlYwX21GMndLZFYyRWY0aUs2Sktoakpqb0trdG41TmZFeEdZdjRMTDhSOEdGM2ZPRFU0V1FZekMwVHctTmpLOGxfR21wRFRmRFZRVnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f6bdb1df1520",
+      "title": "Cyclospora outbreak: Hamilton County reports additional cases - WLWT",
+      "published": "2026-07-16T13:20:12+00:00",
+      "summary": "Cyclospora outbreak: Hamilton County reports additional cases&nbsp;&nbsp;WLWTAs the outbreak of diarrhea caused by a parasite grows, here’s what’s safe to eat and what to avoid&nbsp;&nbsp;CNNCyclospora cases in Massachusetts are at normal levels, officials say&nbsp;&nbsp;The Boston GlobeCyclospora Outbreak: What to Know About Symptoms and Food Safety&nbsp;&nbsp;The New York TimesCases rise of severe diarrhea parasite in Virginia&nbsp;&nbsp;WAVY.com",
+      "sources": [
+        {
+          "name": "WLWT",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY1RwOXZnc1RTUGRMUUkwVzlOUEk1cHlVWHJLUENxdkU3ZjdhUEFtOFdLdndEQlMyejY5aWNoeVFMdzVvN1NjNWJJZExpNnJjNkUzWHFkdnBYOVZSeFA0WGMtZGgwNVdzYjA2UXp1c0UtM0FveXZ3Z08wZ1BJREZ2ZmpGcnRkWXRXY2gySw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d5647cb03da4",
+      "title": "She Used Weight-Loss Drugs From a Telehealth Company, Then a GLP-1 Overdose Sent Her to the ER - TODAY.com",
+      "published": "2026-07-16T12:00:42+00:00",
+      "summary": "She Used Weight-Loss Drugs From a Telehealth Company, Then a GLP-1 Overdose Sent Her to the ER&nbsp;&nbsp;TODAY.comThe Ozempic and Wegovy mistake sending thousands to poison control&nbsp;&nbsp;ScienceDailyInside Look at Concerns Around Weight Loss Drug Overdoses&nbsp;&nbsp;Yahoo61 surprising ways weight-loss drugs can change your body&nbsp;&nbsp;BBC Science Focus MagazineData Show Rise in GLP-1 Poison Center Calls Tied to Dosing Errors&nbsp;&nbsp;Drug Topics",
+      "sources": [
+        {
+          "name": "TODAY.com",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZFpHQ1FwTU5teGNVaHFSUTIwLXpHT2lKT09vWXN1QWNwVEZtb2VYQ2JOaDU4b1h6WnVhNDVGMnNiMDc2allRenBxRHRHbG5hMDFmM3ZLdWxFU2phM3JyOHRoMGdsR2M1bmtvWG9kRU9FOEtTYW5icGlFUE9lVXlBeUFicDVHMmZRQjlJc2ZWVUpuaEwtRlBNd1lHV3U?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b3f4ad3b7158",
       "title": "Skin Issues Can Signal Heart Problems. Dermatologist Reveals the No. 1 Sign to Look For - TODAY.com",
-      "published": "2026-07-16T12:00:00+00:00",
-      "summary": "Skin Issues Can Signal Heart Problems. Dermatologist Reveals the No. 1 Sign to Look For&nbsp;&nbsp;TODAY.com",
+      "published": "2026-07-16T12:00:41+00:00",
+      "summary": "Skin Issues Can Signal Heart Problems. Dermatologist Reveals the No. 1 Sign to Look For&nbsp;&nbsp;TODAY.comTell Me Why skin health matters more than you think&nbsp;&nbsp;Gulf NewsWhat Your Skin Could Be Telling You About Your Health&nbsp;&nbsp;YahooWhat Does Skin Longevity Really Mean?&nbsp;&nbsp;newbeauty.com",
       "sources": [
         {
           "name": "TODAY.com",
@@ -30,10 +90,22 @@
       ]
     },
     {
+      "id": "4c0630a5ad2d",
+      "title": "Why do astronauts’ bodies waste away? Space-station study points to mitochondria - Nature",
+      "published": "2026-07-16T11:30:39+00:00",
+      "summary": "Why do astronauts’ bodies waste away? Space-station study points to mitochondria&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qLXg4ckhZM0xpd29fSTZBb2t0ZGd1c21Da3ZxdTRfWERuSHNJaENzQl9aNTdEc2JpblI3Mk9tUHhFdlVRZUlvVWVnUDFNcnAzNEU2YnlWUVFhS0NyN1g0?oc=5"
+        }
+      ]
+    },
+    {
       "id": "82155e9e4037",
       "title": "NASA spacecraft wakes up to continue groundbreaking mission beyond Pluto - CNN",
       "published": "2026-07-16T11:30:25+00:00",
-      "summary": "NASA spacecraft wakes up to continue groundbreaking mission beyond Pluto&nbsp;&nbsp;CNNNASA’s New Horizons Spacecraft Wakes from Hibernation in Good Health&nbsp;&nbsp;NASA Science (.gov)NASA's New Horizons probe just woke up from hibernation 6 billion miles away beyond Pluto. What's it doing out there?&nbsp;&nbsp;SpaceNASA's New Horizons spacecraft reaches 6 billion miles from Earth&nbsp;&nbsp;MashableNew Horizons wakes from hibernation and sends Kuiper Belt data&nbsp;&nbsp;Межа. Новини України.",
+      "summary": "NASA spacecraft wakes up to continue groundbreaking mission beyond Pluto&nbsp;&nbsp;CNNNASA’s New Horizons Spacecraft Wakes from Hibernation in Good Health&nbsp;&nbsp;NASA Science (.gov)NASA's New Horizons probe just woke up from hibernation 6 billion miles away beyond Pluto. What's it doing out there?&nbsp;&nbsp;SpaceA NASA satellite just woke up from hibernation in deep space. Here is what it can tell us&nbsp;&nbsp;The IndependentNew Horizons wakes from hibernation and sends Kuiper Belt data&n",
       "sources": [
         {
           "name": "CNN",
@@ -42,62 +114,74 @@
       ]
     },
     {
-      "id": "c404cf9f42d4",
-      "title": "Study shows a blood test can help identify healthy people at high risk for Alzheimer's disease - ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-07-16T10:35:44+00:00",
-      "summary": "Study shows a blood test can help identify healthy people at high risk for Alzheimer's disease&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosSee more headlines & perspectives on Google News",
+      "id": "38f9a3b8b50f",
+      "title": "Astronomers Have Found a Sugar Molecule in Deep Space for the First Time Ever - WIRED",
+      "published": "2026-07-16T09:30:00+00:00",
+      "summary": "Astronomers Have Found a Sugar Molecule in Deep Space for the First Time Ever&nbsp;&nbsp;WIREDDetection of a four-carbon sugar in interstellar space&nbsp;&nbsp;NatureA Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy&nbsp;&nbsp;The New York TimesA sugar key to the origins of life has been discovered in interstellar space&nbsp;&nbsp;CNNRaspberry sugar spotted in interstellar space, a sweet discovery that could reveal clues about life's origins&nbsp;&nbsp;Space",
       "sources": [
         {
-          "name": "ABC News - Breaking News, Latest News and Videos",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUGR3M1dFR1dhZjI5a0FnTGN3cTBEZTlWWGVQbDc5SHFHYVpCcTFITEJHSVVDLVM0OEJPNm1jMmFCWjR4OW9FSzF5N0M3b3lucWpMT2Vwdm90RjBleDBMTVpGQzNjbW44S0JBWmVIRDJxX2ExZnhSazBPSnRMZDVzVXFTcC1QZkg3OU9zZkhyUTJJd1FDYi1Mczh0NzR6ZFnSAaQBQVVfeXFMUC1Kam1EOU9FSW41eFlpOGI1NlZSdzR2Q2pMTWdPTjJBdHlsTllGTkkwWVN2ckxlTUxJSVJWRFRDaFFOMEVTdVRYUjVsZzR5RDZnLWpUdDZFOGhvcHQ1WjJYZGRRN1RTMUZUNERFamZUdG9lR0pJenJ3X0lhRHRvejJmSVZIYnJJMlFpdXQ3OXlOLVZNTHpVY2lJSXo5Ylh5a21uMnU?oc=5"
+          "name": "WIRED",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcHUtQ2JSdTFwRjZ2YldCZWpHVnB2a0ZFb2VCOUJ5ODFoNlBsZzBzM3Z6SkU4ZVBLSWJvV21xbkkwRUY1YW5HaXJQbktKTGNRbHlkb0JhRG8tajB0NUd1S25ydzJkUWlCUlNUVkk2TnR2bXF3eTJiT1A4MTFURjJCdg?oc=5"
         }
       ]
     },
     {
-      "id": "ff73cf40464d",
-      "title": "Geriatrician reveals the habit the healthiest people over 80 always avoid - New York Post",
-      "published": "2026-07-16T10:29:00+00:00",
-      "summary": "Geriatrician reveals the habit the healthiest people over 80 always avoid&nbsp;&nbsp;New York Post",
+      "id": "5584e465a05a",
+      "title": "US approves deployment of giant space mirror to illuminate Earth after dark - Dezeen",
+      "published": "2026-07-16T08:30:00+00:00",
+      "summary": "US approves deployment of giant space mirror to illuminate Earth after dark&nbsp;&nbsp;DezeenU.S. approval of a controversial satellite has scientists asking: Who’s really in charge of space?&nbsp;&nbsp;Scientific AmericanObservers Beware: Reflect Orbital’s Space Mirrors Approved for Launch&nbsp;&nbsp;Sky & TelescopeFCC approves first Reflect Orbital satellite&nbsp;&nbsp;SpaceNewsThe US Approves Launch of Mirror Satellite That Can Reflect Sunlight and Illuminate the Earth at Night&nbsp;&nbsp;WIR",
       "sources": [
         {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTWtpQUpKYzUzN1NtTlhqb1F0b0ZFeG16cFJyUUd3WEhuS1EycEk2N3JHWnVIQXo0TGVjUU5XenpqY3BCaVExQUFNT1lEX2ZPV29ZM0tMS1NvUGdsVGtxbEtZYU9zTjFHbEhrQTBnaktJem1WZ2h5X2JGWWJfT1lrckpDc2VZZ2J4SmhSWHNSTzZva0cxUW41SjRnUkpLMkliWlZJclhNM1FtR3RxX0NGaw?oc=5"
+          "name": "Dezeen",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd2k5UkVPR1lqRHV4d3lPOERTemNUemNsU3h1TTI1ZVpzc0FTcm81YXd0dkFCaHBEdUFqMTdVaXRwbVpUbmQ0YUNzb2taaEd4VnJ4QjVXY0pQV2hDMHVFdU1CTVY3ZDRCTFhab0dWTXBYUVlJVWRfMGh3ODJiM3haZzln?oc=5"
         }
       ]
     },
     {
-      "id": "42092a690214",
-      "title": "What is cyclospora? Diarrhoea symptoms, foods linked to US outbreak - Al Jazeera",
-      "published": "2026-07-16T10:22:14+00:00",
-      "summary": "What is cyclospora? Diarrhoea symptoms, foods linked to US outbreak&nbsp;&nbsp;Al JazeeraAs the outbreak of diarrhea caused by a parasite grows, here’s what’s safe to eat and what to avoid&nbsp;&nbsp;CNNGut-wrecking stomach bug is showing up in Kansas&nbsp;&nbsp;AxiosCyclospora Outbreak: What to Know About Symptoms and Food Safety&nbsp;&nbsp;The New York TimesAre locally-grown fruits and vegetables safe from cyclospora? Experts explain&nbsp;&nbsp;USA Today",
+      "id": "346c2569738c",
+      "title": "Ketogenic diet mediates intestinal tumorigenesis through lipids not ketones - Nature",
+      "published": "2026-07-15T22:24:46+00:00",
+      "summary": "Ketogenic diet mediates intestinal tumorigenesis through lipids not ketones&nbsp;&nbsp;NatureKetogenic diets may increase cancer risk in the small intestine&nbsp;&nbsp;MIT NewsCould The Keto Diet Be Fueling Cancer? New Study Challenges Popular Theory&nbsp;&nbsp;sciencealert.comThe keto diet might increase your small intestine cancer risk: study&nbsp;&nbsp;New York PostCould the keto diet be increasing your cancer risk?&nbsp;&nbsp;WNCT",
       "sources": [
         {
-          "name": "Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeDlYdUVOTGlfeHp1bTQ3WnpzMFprN3RoVmtSVmdkb2R0dThvaFJSejdPZkJrOGhDbk5Ub2w3emNhcFZldVBlUmt4QVhCdi1WZktzc0JvZjdOeEdfcU9NSVdoeDAybnVOZFJDeTBhY05UWEh3SmprTGFvYkZjS1ZfTkZ5aEtwdUJoWTl4RDRFWWlrcE1ZN1Znc0xLX0gtMUpVT3lhNWc3TlV3d9IBrwFBVV95cUxPUTRmSWZfTHdYbGYyWjFyOXdXOWVkT2pLc0ZDT2kzTkpVZ3NXTWdSaGg4M3pZRzNSMkZ4SjZhdm1rSVc2SVVqRk8zUl8wQVQ0ckVKTjlzRlNuTkMtRFdhTTlaWVlJQmNxUC1NOEFuZ2c4MTZSem9RYUd5TmNlOTM5UjYzQjNIckNEOGcybHpWdUhXSlgzRU02Ry1IVUxCQXBBU0k3ME0xbVNMSWVSMkEw?oc=5"
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxTFFWSVppZU9PV0JYTHZERzFIMUZaZk9zTFRESExuU3FQMVlGcHBKYWRpS0NsNHpOYnltV3VYSHdhN3M4RTBpR1VLR2JERTJjZWczMy1NX25wNVhhcUZF?oc=5"
         }
       ]
     },
     {
-      "id": "5c1a9fb34343",
-      "title": "Meteorite that crashed into a New Jersey home is a rare solar system fragment - CNN",
-      "published": "2026-07-15T22:25:30+00:00",
-      "summary": "Meteorite that crashed into a New Jersey home is a rare solar system fragment&nbsp;&nbsp;CNNNew Jersey Couple Aids Meteorite Discovery After it Crashes Through Their Roof&nbsp;&nbsp;The New York TimesMeteorite that crashed through New Jersey house could hold the clues to life's origins&nbsp;&nbsp;SpaceAlien World Chemistry Found Inside Meteorite That Struck New Jersey home&nbsp;&nbsp;SETINASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids&nbsp;&nbsp;NASA Science (.gov)",
+      "id": "ff03f21246d6",
+      "title": "Maestros of healing: How 'good' immune cells help regenerate spinal cord injuries - Medical Xpress",
+      "published": "2026-07-15T22:20:01+00:00",
+      "summary": "Maestros of healing: How 'good' immune cells help regenerate spinal cord injuries&nbsp;&nbsp;Medical Xpress",
       "sources": [
         {
-          "name": "CNN",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41NFFEVktQOWFzUC1EZm5WNlBtQWxucFRvRnVhSFJEeW1OS2NQbDN4M0ZzNVlQLUVqU0YtQm9wc1daaFYzckRCVmlxc1BfMXUyLWRTQkZnWDh0bUY1X1FQdUUtSThHY3ZVLUVoLTJLczI4TWFGQ19DWUJGLVlkZw?oc=5"
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbmlsTTRVR2M4ZFUwMGpvcU1qMGo5eHFNRURSenJnTjBiblh1ZWkyS1FkeVBUbDdBNHNiODV6ZENnbV80eWszRWRYYVpqdTRBYmh1OWZGX3pMYnpWV0FPREFfbGNPYVc5bWNSWFpoMXdQd2VIVkF5WXhXWGFOY1hlQ3ZpamVRakdT?oc=5"
         }
       ]
     },
     {
-      "id": "2a55acc65f4a",
-      "title": "Number of UES buildings with positive Legionella tests more than doubles since preliminary findings - Gothamist",
-      "published": "2026-07-15T21:22:00+00:00",
-      "summary": "Number of UES buildings with positive Legionella tests more than doubles since preliminary findings&nbsp;&nbsp;GothamistUpper East Side Legionnaires' outbreak: 76 buildings test positive for Legionella bacteria in preliminary testing&nbsp;&nbsp;ABC7 New YorkDozens of New York cooling towers test positive for Legionnaires’ bacteria as outbreak reaches 63 cases&nbsp;&nbsp;CNNThe Met, Guggenheim, schools, banks and more test positive for Legionella&nbsp;&nbsp;PIX11New York Is Having a Legionnaires’",
+      "id": "9abf8e0308af",
+      "title": "Reducing ultra-processed foods could prevent thousands of heart disease deaths, study suggests - The Guardian",
+      "published": "2026-07-15T22:01:00+00:00",
+      "summary": "Reducing ultra-processed foods could prevent thousands of heart disease deaths, study suggests&nbsp;&nbsp;The Guardian‘I’m a dietitian – 17 realistic food swaps I make to eat fewer UPFs’&nbsp;&nbsp;Women's HealthUltra-processed foods ‘may be linked to a quarter of heart disease’&nbsp;&nbsp;The TelegraphHalving ultra-processed food intake could prevent thousands of deaths, researchers say&nbsp;&nbsp;The IndependentAround a third of all heart related deaths and disease may be due to ultraprocessed",
       "sources": [
         {
-          "name": "Gothamist",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbWhCR3FZUTVkVDhhXzVfOFh5YldjQ1VISkItZ0JXeWJrMGh6ZDNQRmFwMEpHY1d0alZUZkFVMUJiRU5WQnFUazVFY18yR2RhSW5zREpRalVlNmpLN2Y0am9YR0k0MnFJVjdmYXdCdzVSNW9Teko0Vmd1aDVuN09oakNfeFFOQ3dfQlhJb0dvMXd5N1d3ZGFaWjhyV3ZMR1k2MnMtanY2Q1BWXy10MUZoQ3JvTHRMUWZfQ01oeDB4WG1uY1F0?oc=5"
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZlJWRUEyMW9oRTktZ3Z0ZkR6cTFfaVVVcm8wVjl5NXZxMnlFVFdFWFBocWdsb1NZQks2TnBQbHFCX3pQOXhPY0Q2bmdpUkpPQzdab0JqS0NhOUJDQmZpXzNCbFJsTXNSN0ZXQ2dSZHVDM2NpVkhoWEg3b0Juc3NVbTZnTGU1NWI1Y3p5RG9PUWNEVUtOR1VUaTZodVA2ZjZMZ2tpVjZMTDNCZjl3eGdrMGdWbm5GUVBRVWt5RU5zT3NuM0thNnpJMklULWIxOEg4QWFfV2RuNms?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8e55a55c6cfa",
+      "title": "Food supplements could help bees cope with climate crisis, research suggests - The Guardian",
+      "published": "2026-07-15T20:09:00+00:00",
+      "summary": "Food supplements could help bees cope with climate crisis, research suggests&nbsp;&nbsp;The GuardianSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSXNWSmpfdHc2YVJ0NmtZenp4WnJhQVFXWnZ5aUVKRVFWQ0s5OEp4Q2t1ak16eVhyM3FGR2JXZFdsWlNDNjJrMWZEU2ZaZnd0cUpQRzA3Y3dmN3NiM2h2QnNhOGhaeTgwNi10a0FNTy1ZMEVQTmhKSUJLUTRNblk5MnBiSlJxSk1xMHNYNnJwd3RpdTRhbmJsYkpPMnlpemRPdGdKQkNwVlZscDBwZlE?oc=5"
         }
       ]
     },
@@ -105,7 +189,7 @@
       "id": "704e357657b1",
       "title": "Biologists pinpoint how common virus triggers multiple sclerosis - Nature",
       "published": "2026-07-15T19:35:48+00:00",
-      "summary": "Biologists pinpoint how common virus triggers multiple sclerosis&nbsp;&nbsp;NatureFrom ‘kissing disease’ to MS: Harvard study uncovers how a common virus triggers multiple sclerosis&nbsp;&nbsp;The Boston GlobeNew study untangles how Epstein-Barr viral infection triggers immune response in multiple sclerosis&nbsp;&nbsp;STATBest treatment for multiple sclerosis may be antivirals&nbsp;&nbsp;New ScientistNew research identifies EBV antigen targets for MS therapies&nbsp;&nbsp;BioWorld News",
+      "summary": "Biologists pinpoint how common virus triggers multiple sclerosis&nbsp;&nbsp;NatureFrom ‘kissing disease’ to MS: Harvard study uncovers how a common virus triggers multiple sclerosis&nbsp;&nbsp;The Boston GlobeNew study untangles how Epstein-Barr viral infection triggers immune response in multiple sclerosis&nbsp;&nbsp;STATBest treatment for multiple sclerosis may be antivirals&nbsp;&nbsp;New ScientistVirus Response Insights Offer MS Treatment Hope&nbsp;&nbsp;Inside Precision Medicine",
       "sources": [
         {
           "name": "Nature",
@@ -117,7 +201,7 @@
       "id": "89d13d3eab28",
       "title": "Former smokers who vape face higher lung cancer and death risks, study finds - Ynetnews",
       "published": "2026-07-15T19:13:22+00:00",
-      "summary": "Former smokers who vape face higher lung cancer and death risks, study finds&nbsp;&nbsp;YnetnewsWhat science shows about e-cigarette risks&nbsp;&nbsp;AxiosE-cigarette Regulatory Gaps and Substance Use Recovery&nbsp;&nbsp;Psychology TodayThe Hidden Chemicals Lurking in E-Cigarettes&nbsp;&nbsp;Mega Doctor News",
+      "summary": "Former smokers who vape face higher lung cancer and death risks, study finds&nbsp;&nbsp;YnetnewsE-cigarette Regulatory Gaps and Substance Use Recovery&nbsp;&nbsp;Psychology TodayThe Hidden Chemicals Lurking in E-Cigarettes&nbsp;&nbsp;Mega Doctor NewsWhat science shows about e-cigarette risks&nbsp;&nbsp;Axios",
       "sources": [
         {
           "name": "Ynetnews",
@@ -126,10 +210,22 @@
       ]
     },
     {
+      "id": "0eb04b5f2d5f",
+      "title": "Blood Test Accurately Predicts Five-Year Alzheimer’s Risk - Neuroscience News",
+      "published": "2026-07-15T18:42:36+00:00",
+      "summary": "Blood Test Accurately Predicts Five-Year Alzheimer’s Risk&nbsp;&nbsp;Neuroscience NewsAlzheimer’s Blood Tests Offer New Promise to Diagnose and Predict the Disease&nbsp;&nbsp;The New York TimesNew Alzheimer’s blood test may be promising but is not yet ready for widespread use&nbsp;&nbsp;CNNImprovements in Alzheimer’s testing could make diagnostics more accessible, informative&nbsp;&nbsp;STATStudy shows a blood test can help identify healthy people at high risk for Alzheimer's disease&nbsp;&nbsp;",
+      "sources": [
+        {
+          "name": "Neuroscience News",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GRnlPY2l1cjY5bW5vaFdkcmhNVjJEOTRnemJuX3JOTjJrR2JmWjlKcnhjeXJrOVJneThoc3Fia3Ayek04THVpd2hwMVJ0SkxtLWdvdlBfN1MxZFVGTE1UVmFkbjZWejdOZ05kVjRSMUhpcEo3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "347b14fc1357",
       "title": "T. rex babies were born ready to run and feed themselves - Phys.org",
       "published": "2026-07-15T18:40:03+00:00",
-      "summary": "T. rex babies were born ready to run and feed themselves&nbsp;&nbsp;Phys.org'Vanishingly Rare' Discovery: T. Rex Hatchlings Were Smaller Than a Cat And Born by The Dozen&nbsp;&nbsp;sciencealert.comRare fossils suggest baby tyrannosaurs were active soon after hatching, walking early and possibly hunting small vertebrates with limited parental care&nbsp;&nbsp;The Times of IndiaBaby T. rex were out of the nest and hunting early&nbsp;&nbsp;news.okstate.eduBaby T. rex bones found stashed in museum dr",
+      "summary": "T. rex babies were born ready to run and feed themselves&nbsp;&nbsp;Phys.orgSmall, Cheap, and Full of Teeth: Baby Tyrannosaurs Were Plentiful and Precocious&nbsp;&nbsp;Yahoo'Vanishingly Rare' Discovery: T. Rex Hatchlings Were Smaller Than a Cat And Born by The Dozen&nbsp;&nbsp;sciencealert.comRare fossils suggest baby tyrannosaurs were active soon after hatching, walking early and possibly hunting small vertebrates with limited parental care&nbsp;&nbsp;The Times of IndiaBaby T. rex were out of t",
       "sources": [
         {
           "name": "Phys.org",
@@ -138,14 +234,26 @@
       ]
     },
     {
-      "id": "9393b600f3fe",
-      "title": "Raspberry sugar spotted in interstellar space, a sweet discovery that could reveal clues about life's origins - Space",
-      "published": "2026-07-15T17:09:32+00:00",
-      "summary": "Raspberry sugar spotted in interstellar space, a sweet discovery that could reveal clues about life's origins&nbsp;&nbsp;SpaceA sugar key to the origins of life has been discovered in interstellar space&nbsp;&nbsp;CNNAstronomers Have Found a Sugar Molecule in Deep Space for the First Time Ever&nbsp;&nbsp;WIREDA Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy&nbsp;&nbsp;The New York TimesDetection of a four-carbon sugar in interstellar space&nbsp;&nbsp;Nature",
+      "id": "ff5d7f233c03",
+      "title": "A Sensible New Yorker’s Guide to Legionella Season - Curbed",
+      "published": "2026-07-15T18:31:01+00:00",
+      "summary": "A Sensible New Yorker’s Guide to Legionella Season&nbsp;&nbsp;CurbedLegionnaires' outbreak: 76 buildings ordered to clean cooling towers, including the Met&nbsp;&nbsp;ABC7 New YorkThe Met, Guggenheim, schools, banks and more test positive for Legionella&nbsp;&nbsp;PIX11UWS Building’s Hot Water System Tests Positive for Legionella Bacteria, Memo Shows&nbsp;&nbsp;West Side RagNew York officials find Legionella in 76 cooling towers as cases hit 63&nbsp;&nbsp;CIDRAP",
       "sources": [
         {
-          "name": "Space",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVWNNRXM4eWx3VjhxYjVTME1LMHVwa3c2dC1BRkVEelUtTHV6VGFjd0wyWDlKRTJRb293bjdTQXgwa3REVG5GNENMM1FsXzJSci1iR1NiQVBWM1ZHdWRMMHYxNk5ncVljemhORXoweXlOVmYzalBZbGlKbU5sZ2plWlB5bXBXeEUxRW5fQjljYnlTeUlDT2dJRVJyUE9mNWFxVjNFSjUyZ1Z5X1hmXzdhZUhLUGxVX1huLW5pZnExNEZ2OFlsUHRFTzNBZkQyRC1hLUZENDB3?oc=5"
+          "name": "Curbed",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ25tV2s0UTRhUEI1dktPZmVETHNaaWc5d256czZnSlVjZGd6XzJ2YWZLQ3NHSHNEck1xczNmbVFNdE1FZFdlZHk4cmdQWndhVTU2c3FROHpvR1BrUTlLNDh5WGxhbzA0aEQwd1dVS3d3U0JLbjJhanFSSW1mTF9sUVlwcHN1MVFRR2QwbUR3X1RQT1J1T0Jz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2c1088f884da",
+      "title": "A Missing Black Hole Was Found Hiding in a Giant Star Cluster. Astronomers Think There Could Be Thousands More - Gizmodo",
+      "published": "2026-07-15T17:15:43+00:00",
+      "summary": "A Missing Black Hole Was Found Hiding in a Giant Star Cluster. Astronomers Think There Could Be Thousands More&nbsp;&nbsp;GizmodoNASA’s Hubble reveals a black hole hiding inside a massive star cluster in the Milky Way&nbsp;&nbsp;Scientific American'Surprising and exciting': U. astronomers harness NASA telescopes for black hole discovery&nbsp;&nbsp;KSL.comNASA’s Hubble Discovers First of Star Cluster’s Missing Black Holes&nbsp;&nbsp;NASA Science (.gov)The 1st of 10,000 'missing' black holes in th",
+      "sources": [
+        {
+          "name": "Gizmodo",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQWZPaHVSYnNIRmhTWXp4VXMwRGJjTjJhNHlTX0NjcmRrVWxHWW5YaWRFaXc0NlpWY05IOEF4b0JFUUx1eGdjWE1hdE85VGxqVy02dERqbDhXSDkyVjNISmxVMEpaUHlGRG1ESElNWEtwcDhaejVVTXdpeGt5SkFSX09zcUJJaWhsVE9CQUFKUVpSQ0xTbjdEMUMyd3NIXzBzYnY1djlIbERrand2VlA0WmxrVFBxV0dpSGx1UWtnRHlSQ0Y3eG1DUU56a2tJelBGNlZXeUtKbw?oc=5"
         }
       ]
     },
@@ -153,7 +261,7 @@
       "id": "27fe00aa9c18",
       "title": "First Human X-Rays Captured In Space Mark Major Breakthrough For Astronaut Health - NDTV",
       "published": "2026-07-15T16:23:05+00:00",
-      "summary": "First Human X-Rays Captured In Space Mark Major Breakthrough For Astronaut Health&nbsp;&nbsp;NDTV1st-ever X-rays in space offer hope for possible patients headed to the moon&nbsp;&nbsp;SpaceIn March 2025, four rookie astronauts on SpaceX's Fram2 polar mission carried a portable X-ray machine into orbit, and three of them, after just four hours of preflight training, produced the first diagnostic radiographs ever taken in space, imaging each other an&nbsp;&nbsp;Space DailySee the first x-rays of ",
+      "summary": "First Human X-Rays Captured In Space Mark Major Breakthrough For Astronaut Health&nbsp;&nbsp;NDTV1st-ever X-rays in space offer hope for possible patients headed to the moon&nbsp;&nbsp;SpaceSee the first x-rays of humans taken in space&nbsp;&nbsp;Scientific AmericanIn March 2025, four rookie astronauts on SpaceX's Fram2 polar mission carried a portable X-ray machine into orbit, and three of them, after just four hours of preflight training, produced the first diagnostic radiographs ever taken in",
       "sources": [
         {
           "name": "NDTV",
@@ -162,14 +270,14 @@
       ]
     },
     {
-      "id": "cf9a46f2eb8c",
-      "title": "If you have arthritis, these activities may lower hip-replacement risk - The Washington Post",
-      "published": "2026-07-15T16:00:00+00:00",
-      "summary": "If you have arthritis, these activities may lower hip-replacement risk&nbsp;&nbsp;The Washington Post",
+      "id": "c3ceeb29af2a",
+      "title": "More health workers strike as Ebola cases in Congo exceed 2,000, including 754 deaths - AP News",
+      "published": "2026-07-15T16:13:00+00:00",
+      "summary": "More health workers strike as Ebola cases in Congo exceed 2,000, including 754 deaths&nbsp;&nbsp;AP NewsSee more headlines & perspectives on Google News",
       "sources": [
         {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUEVVaUdRbGZzZ0c5aFBXbXdwbjVZUk5SczZTM3RIblNSeDlnTU0yZWo1V1B4Y2V5MlNqYlJJYVpZdW1hOTI2WHhnLUxISzE5enBmZUJjN0IxZEo5MXV6STByRXZzNVpCSDdBdkJWU3JJakFZT283VEdKMGxxOFdMQkJUUnBRSVlwX0xOMDdIV09kRVp5aF95X1NMNmNtc2poZ29udWpvVXNDNjI0ZzJWbk5Vb2ZWS3ZtLXNVQg?oc=5"
+          "name": "AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN25mbGtRWE41clEwTkJBaDVkTE5XZVNFSDhXU0puWjlHRXh0aWgwNEtfRklIS3ctaHprMHd1bnd2TDdiSVQzNEppRDAzc3lZS0RSNVlYSkI4VEV2RlJmbFlvNHJVREg0MDY4UUZQUjZOSmIyVm83TmxTMUtENWhnRzI5dFhOdjloSEFhVDNPdkdGcU1CTEhBYTAtYw?oc=5"
         }
       ]
     },
@@ -186,14 +294,26 @@
       ]
     },
     {
-      "id": "199104383182",
-      "title": "Modular in vivo antibody–ADC click to reverse drug resistance in tumours - Nature",
+      "id": "2ec4e01e7460",
+      "title": "Cell-type signatures of Alzheimer’s disease shared across population groups - Nature",
       "published": "2026-07-15T15:35:32+00:00",
-      "summary": "Modular in vivo antibody–ADC click to reverse drug resistance in tumours&nbsp;&nbsp;NatureSee more headlines & perspectives on Google News",
+      "summary": "Cell-type signatures of Alzheimer’s disease shared across population groups&nbsp;&nbsp;Nature",
       "sources": [
         {
           "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RRXZYcVFMRkhTbWxrcC00V2p4ZzRVdlVZVFdUSlZBWGNkSnFSaDg2VFlwZ1MzVW9UZkozTGZrYjY2XzJCYjFEeGZYUEdiVmZvOUkzUlVqdGR5Z1BaeF80?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BV0N2a3dSRkQ2NE1PZUF3ZlVBbFgxZ0FIN2FqR2tST3dmeW5vVl9CVkNsUkpOX0RnclloamtON2RVY3V1UUkyVjBhQWFBWFhwOWhudmY1UVVLQmdvSkZR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4a65f0ac4c99",
+      "title": "New tool makes immune therapy more effective in prostate cancer - Medical Xpress",
+      "published": "2026-07-15T15:20:04+00:00",
+      "summary": "New tool makes immune therapy more effective in prostate cancer&nbsp;&nbsp;Medical Xpress",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSm1CMjVxLTVOQTFaX2RYTWxDaktZNFhGMEViTmMyTjYyTy04M0FfdmJScHNHazVHTjhRZDkwN2JyTkZjZ2VKYTZ3N2VYRmVSM3dhR0gxQXhMX210ZHZkWklLSzZROVNYQmVzX1NadEZ4VEVULVZCZDZiT1dCWHBhWE1yRkNDOFFOMFE?oc=5"
         }
       ]
     },
@@ -213,23 +333,11 @@
       "id": "d6d46eb10262",
       "title": "Asteroid with unexplained orbital shift turns out to be a 'dark comet' - Phys.org",
       "published": "2026-07-15T15:11:43+00:00",
-      "summary": "Asteroid with unexplained orbital shift turns out to be a 'dark comet'&nbsp;&nbsp;Phys.orgNon-gravitational acceleration indicative of cometary activity of near-Earth object&nbsp;&nbsp;Nature‘Dark comet’ discovery may explain strange interstellar visitor: Study&nbsp;&nbsp;NewsNation",
+      "summary": "Asteroid with unexplained orbital shift turns out to be a 'dark comet'&nbsp;&nbsp;Phys.orgNASA Study Finds Near-Earth Asteroid Is Actually Comet&nbsp;&nbsp;NASA (.gov)Non-gravitational acceleration indicative of cometary activity of near-Earth object&nbsp;&nbsp;Nature‘Dark comet’ discovery may explain strange interstellar visitor: Study&nbsp;&nbsp;NewsNationAn ‘Asteroid’ Tracked Since 1998 Made an Unexplained Orbital Shift—Now Astronomers Say It’s Something Far More Mysterious&nbsp;&nbsp;The Deb",
       "sources": [
         {
           "name": "Phys.org",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wSF9CSFMwR3RHNE41LU51RjVCc2t6WkZleWZ4cGlYdUlnQ01jaFVyZnFYX2wtZm8wWGFJMHBpREF6Ym1nUll3a01EdGtPT3JzdXEtMzdoQWNnZ3IzU2lhRTRBN2huMHVjWE1JcFhvbGx0d2dQcGRhVFF0Y21yWFk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1b69388ac011",
-      "title": "Could The Keto Diet Be Fueling Cancer? New Study Challenges Popular Theory - sciencealert.com",
-      "published": "2026-07-15T15:01:55+00:00",
-      "summary": "Could The Keto Diet Be Fueling Cancer? New Study Challenges Popular Theory&nbsp;&nbsp;sciencealert.comKetogenic diet mediates intestinal tumorigenesis through lipids not ketones&nbsp;&nbsp;NatureKetogenic diets may increase cancer risk in the small intestine&nbsp;&nbsp;MIT NewsThe keto diet might increase your small intestine cancer risk: study&nbsp;&nbsp;New York Post🍴 The ketogenic diet could promote certain tumors&nbsp;&nbsp;Techno-Science.net",
-      "sources": [
-        {
-          "name": "sciencealert.com",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVjNDeWJDNUczUlgtUkRMUDdrOXJIVGk5eTJ0dkVmUzh3QnQ2TnhHX1dhbU95c1hCN2J5aWgtbnVpcGUwQ2VQZ3lVeHhYR1hJUTV2YVV4SkkxczBsU1h4Ni14N3FBNTZNNmV4cXN3WVI1THNPektPeV9RLWdZeEpoTVZSSHZvZVNkVWhvemRlazVRTUJnTEFqckpfSVFod2o5VF81Yw?oc=5"
         }
       ]
     },
@@ -242,6 +350,18 @@
         {
           "name": "EatingWell",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBIYWFvb0gtUEZpaEdjVE9rNkZxVFUzOFVRNFB1SFY0VXZKX3ItWnhlZk1PRXNzamhGdWxIREJZSzZ2Y1h5Q0p4MUNZQnpVd2hVZ282X1QzTHJOeHhmZXFDWnJqRDRISFVIU2RuSlMxc3ljaEZOdkFFeXNjOXQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a27c62601b2f",
+      "title": "Up to 45% of dementia risk can be prevented, delayed: WHO - CTV News",
+      "published": "2026-07-15T14:05:49+00:00",
+      "summary": "Up to 45% of dementia risk can be prevented, delayed: WHO&nbsp;&nbsp;CTV NewsNew WHO guidelines: up to 45% of dementia risk could be prevented or delayed&nbsp;&nbsp;World Health Organization (WHO)New guidance offers hope for reducing the global toll of dementia&nbsp;&nbsp;UN NewsCould high cholesterol be a dementia driver you’re overlooking? 14 biggest risk factors revealed&nbsp;&nbsp;Fort Worth Star-TelegramDementia: We may prevent 50% of cases by understanding risk factors&nbsp;&nbsp;Medical N",
+      "sources": [
+        {
+          "name": "CTV News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMlAxQ1duaVUxdURWeG9Hclpqd0ZGcTZKaHZRdTNOLXhWUzJoVUY1OEhSS0pDMGU0cXpWckw0eTZNS1g3bWgtYi1YRzk0Ymo0NlhZZ3g5MUdWTzN1SDJtamM3eW56dEZIRF9QemR4SUpFN1MtR3BKTGx6cGZGZzlTUm5ua29ud3RFMjdJYWlwQklsVHVtS0hiWA?oc=5"
         }
       ]
     },
@@ -270,14 +390,14 @@
       ]
     },
     {
-      "id": "37fb2832df2e",
-      "title": "A 1971 prediction by Stephen Hawking just came true with a cosmic collision 1.3 billion light-years away: - The Times of India",
-      "published": "2026-07-15T09:25:00+00:00",
-      "summary": "A 1971 prediction by Stephen Hawking just came true with a cosmic collision 1.3 billion light-years away:&nbsp;&nbsp;The Times of IndiaAstronomers decode the ‘ringing’ of black holes&nbsp;&nbsp;Tech ExploristGravitational waves: We are about to hear echoes in the fabric of space for the first time&nbsp;&nbsp;New ScientistSuper-loud gravitational waves offer a new way to study black hole event horizons&nbsp;&nbsp;Physics WorldStrange gravitational waves may reveal dark matter near merging black h",
+      "id": "aefff6064491",
+      "title": "Healthcare Workers Are Sounding The Alarm On 28 Concerning Trends They're Seeing More Often - BuzzFeed",
+      "published": "2026-07-15T09:16:04+00:00",
+      "summary": "Healthcare Workers Are Sounding The Alarm On 28 Concerning Trends They're Seeing More Often&nbsp;&nbsp;BuzzFeed",
       "sources": [
         {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQRF96S2cwWUdkTWFheHI0NWowT1dSYldYRV9uNU9KVXk4ZFN5Vmp2YllqcThic1RmaG9HTWx5bTV4RFdqUThsenlMT0xqODBmQmpXNThvSVpBR0FaeXNObmJiSlhvS2VxVktEYUZORUlHbloyRnFyX296MjJuRDJnVVV5QnZpZnowYXVway05VnRDM3pQamNIazd1WmFxSEdrS3BjQW1LT2JYWmw4dm9RaWZCRXo5clhJaGh4eWllY2VWdkdvZmxaXzhoQXZKQy1kYmZHS01URVhFT2dxazJ2V3YydWRiakNuSHBxX1FHd2lFdG1qR3ljZ3NvZkF2SFRUMlRVdXZ6TnNIM0F3YXluZkdncHg1TU1pZTBYVXpfN1BCbUgxR3JwcHB1a09FRVBJd2xaWFVBSFh5M1RBMVBN0gHEAkFVX3lxTE9OR3p0S2hob2NPZkw2czVaRjZsd3dyVXNpWmdHNTRnV3htaWZja0pwVEs2a0c2VUdVRWdRYjQ5cTY4MGVSdGVndlFqYi1IQVFxSGRUM3AxZERIXzRnc1V1SDhrYnVoQkxyRnpWandmT21aUG9lMGFhdWhTbzlrSmtNY210aGdia2M5dzFrV040UmdQeHF0TThwQkxzOXNuVE5aS21GRXBwZUNnLVdPVzJhU0dLLURjVEZTOXRxUWNXX25DM18xTXFVZWNMSU05X25EQzMwY0ZqOHE4V0FiazJKa0dJd2RPUWd1YjdwNlczZmdqQWpqN21aVTdKWnp5S1V6a1pGX2JBWF9iZzZWY0xlT1NfVzhuVGloTDBvQ2lqVW96VkQ1bWkxMjdyUzBvSVVzMHktMjJLaVBxWTRuTzlUaDZUWQ?oc=5"
+          "name": "BuzzFeed",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzMWJhQ2E4akQ0aTZ0RzJkRFRfQlJLSldnLXYyQkVNQjc2blE1aXd3TmJWUzN3T1hXR0hFNjdkcUZrSVpES3ZKdDZfbUNGR3AydzhrWEx5ZHVFN1BkbGtFS2NpSWg?oc=5"
         }
       ]
     },
@@ -306,38 +426,26 @@
       ]
     },
     {
-      "id": "cb3af5b9946e",
-      "title": "More health workers strike as Ebola cases in Congo exceed 2,000, including 754 deaths - Yahoo",
-      "published": "2026-07-15T08:03:22+00:00",
-      "summary": "More health workers strike as Ebola cases in Congo exceed 2,000, including 754 deaths&nbsp;&nbsp;YahooSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLVg0cVR5YTdOSXJFM0JpWkdncUVPSnNzOUVjalk1SFlZbUNpcmJrVkdiS3RONnhTUU5MM3BvSmlIb1BRRnY0YjZIVXdCSDVuTnlEaDdDZEZ4bGtVVVRSTjA2OVpVRnFlRXRGZkdpLW1Fb1ZzVC1pcnIzeXRxUlpsNlpIdV9rLXQxb3FfZA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8eaceebb7b48",
-      "title": "Major Alzheimer's breakthrough as new drug could stop disease - Daily Express",
-      "published": "2026-07-15T07:10:00+00:00",
-      "summary": "Major Alzheimer's breakthrough as new drug could stop disease&nbsp;&nbsp;Daily ExpressNew Alzheimer’s drug could stop disease&nbsp;&nbsp;The TelegraphRoche to Test Brainshuttle Therapy in Bid to Prevent Alzheimer’s&nbsp;&nbsp;Bloomberg.comAlzheimer's stole pieces of our lives. A new treatment is giving us a fighting chance&nbsp;&nbsp;Fox NewsHow One Pompano Beach Grandfather is Protecting His Future with a Groundbreaking New Alzheimer’s Treatment&nbsp;&nbsp;Florida Hospital News and Healthcare R",
-      "sources": [
-        {
-          "name": "Daily Express",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMHRLLW1VeHk5akRlbmNfOTdXc2thVDdMMEdlOUltRnAtUE5YM01OeXIya25oUjh5YVNrRS14VEh6TDd3MmpqRndSUVllYXpvSnRDSUFzc1E3a3VLcFFRT29Oa1hBZ19rZTVZOWZ5MFoycXBUenNpZ1d1dEFGTkNNeEV3WnhIVF9ONll1eXJoVTAwbV810gGaAUFVX3lxTFBjR2tIb25nam9HRTRUWVNobm5DbVBoOTNuWmpPakVZOTJ5dmthWENUNnpfVkdRU3l0Z05YLWQ2d2Izbks3MkM0WmdpUWRib1F6RDJpRG5RSzBmdmtmSjRLakwxZlpqZUZITllUWVdDVkIxRWJ3N2hDRms3VFIxWGJuN1R4US1ndG85ckFrUWgwaXhPU0x5cGJrOHc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f7c2aa48334f",
       "title": "Going to Museums and Movies May Slow Aging, Study Finds - StudyFinds",
       "published": "2026-07-15T06:14:54+00:00",
-      "summary": "Going to Museums and Movies May Slow Aging, Study Finds&nbsp;&nbsp;StudyFindsGoing to museums, movies, and theater may help your body stay younger&nbsp;&nbsp;ScienceDailyCinema trips and museum visits ‘could slow biological ageing’ – study&nbsp;&nbsp;YahooWhy seeing that play or exhibition helps us to age well&nbsp;&nbsp;The TimesCultural engagement linked to slower physiological aging in older adults&nbsp;&nbsp;News-Medical",
+      "summary": "Going to Museums and Movies May Slow Aging, Study Finds&nbsp;&nbsp;StudyFindsGoing to museums, movies, and theater may help your body stay younger&nbsp;&nbsp;ScienceDailySlowing aging: Could going to theaters, museums keep the body younger?&nbsp;&nbsp;Medical News TodayThe surprising activities that can slow biological ageing and have a similar impact to exercise&nbsp;&nbsp;The IndependentWhy seeing that play or exhibition helps us to age well&nbsp;&nbsp;The Times",
       "sources": [
         {
           "name": "StudyFinds",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMC14SUdwSV9keUMwaGU3Y2xsNzgzNkNHa2lTcF9SMlJIQm43UGlFVHB3d0tYbXVJcHdtWnJnQm1CandvanlQaElKY2R3akIwTkVmNEF3UTZrT3RUY3dJSWJrOUQtVGdkZDQtaUg0Z0N5VFNBMWp4VWFwLVRLUXc3M0lXR1c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2819773b8ac0",
+      "title": "'I dreaded bedtime before new sleep apnoea treatment' - BBC",
+      "published": "2026-07-15T05:52:33+00:00",
+      "summary": "'I dreaded bedtime before new sleep apnoea treatment'&nbsp;&nbsp;BBCSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FT29MTV9ZbWNjeXRmTmdGbklxZ2RocHh2OXI2NEpaVHJYSXFiLTBLLWpwM2ZhR3dDeDRsTDFkYl9hYTJlYTZnNVVkbGdITmlZVkdkbDlIZDRwZw?oc=5"
         }
       ]
     },
@@ -362,18 +470,6 @@
         {
           "name": "sciencealert.com",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMjNPRlVnZ200bFNWdzVZdEo5ZmFYdzhsR29VMHV6X0xkUERhRGM1anU0c0hoajFDTUJRVnY5Z0RqaXpuVmYwcDFJU2JReXQxb1RRUExuZXRoTHF5RkVhblI2TEEwbDk1cEVyLUFRdEVCN05JY0dxNjNaZFdCYnVXcEZGM09QNUNEQURxOEZNZkhMeG8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e9e718c28d90",
-      "title": "'Surprising and exciting': U. astronomers harness NASA telescopes for black hole discovery - KSL News",
-      "published": "2026-07-15T03:06:48+00:00",
-      "summary": "'Surprising and exciting': U. astronomers harness NASA telescopes for black hole discovery&nbsp;&nbsp;KSL NewsNASA’s Hubble reveals a black hole hiding inside a massive star cluster in the Milky Way&nbsp;&nbsp;Scientific AmericanNASA’s Hubble Discovers First of Star Cluster’s Missing Black Holes&nbsp;&nbsp;NASA Science (.gov)The 1st of 10,000 'missing' black holes in the Omega Centauri star cluster has been found&nbsp;&nbsp;SpaceAstronomers find a needle in a haystack 18,000 light-years away&nbs",
-      "sources": [
-        {
-          "name": "KSL News",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMG1qT1ZUZE5ncmVhVDl3eG9iVTdyT1YxV19FT3B2X2ZXSktuQmgwcXU4RUlQaGtBX0d4VDQ4YUd2ZFdFNHJlQlVlZUNNVTBwUHZaRWpVVDUxWm93MWVkTkN5ZXNCZjR0NEpiWDJZdngxcTlpNlhlZVFvaUdXbUZKUTFDb1d5d0ZRU2xHY2hPbG43S19jUk5mTmVSaXBicVJHc0JYLUVfSzJRcktNVWhlUlBFOUlMZFFTa0lRWlYyZ3g?oc=5"
         }
       ]
     },
@@ -405,7 +501,7 @@
       "id": "2a5c9a508e94",
       "title": "Astronomers uncover the earliest known signs of galaxy-building in action - Phys.org",
       "published": "2026-07-14T23:00:07+00:00",
-      "summary": "Astronomers uncover the earliest known signs of galaxy-building in action&nbsp;&nbsp;Phys.orgNot clumpy, chaotic but earliest galaxies were remarkably organised, discovery shows&nbsp;&nbsp;The Indian ExpressThe oldest nuclear disk changes our understanding of the evolution of galaxies&nbsp;&nbsp;Universe Space TechJames Webb has caught at least five galaxies colliding about 800 million years after the Big Bang, flinging heavy elements out into space far earlier than any model predicted — evidenc",
+      "summary": "Astronomers uncover the earliest known signs of galaxy-building in action&nbsp;&nbsp;Phys.orgThe oldest nuclear disk changes our understanding of the evolution of galaxies&nbsp;&nbsp;Universe Space TechNot clumpy, chaotic but earliest galaxies were remarkably organised, discovery shows&nbsp;&nbsp;The Indian ExpressJames Webb has caught at least five galaxies colliding about 800 million years after the Big Bang, flinging heavy elements out into space far earlier than any model predicted — evidenc",
       "sources": [
         {
           "name": "Phys.org",
@@ -417,7 +513,7 @@
       "id": "e800075c2245",
       "title": "57 Days After Ebola Declaration, a Medical Milestone - Newser",
       "published": "2026-07-14T22:46:00+00:00",
-      "summary": "57 Days After Ebola Declaration, a Medical Milestone&nbsp;&nbsp;NewserCEPI-backed Ebola vaccine set to enter phase 1 trials&nbsp;&nbsp;Fierce BiotechOxford begins first human trial of Bundibugyo Ebola vaccine&nbsp;&nbsp;ReutersThe Ugandan city where the race for a new Ebola vaccine will be won or lost&nbsp;&nbsp;The TelegraphFirst Human Trial of Bundibugyo Ebola Vaccine Begins as Congo Outbreak Continues&nbsp;&nbsp;Bloomberg.com",
+      "summary": "57 Days After Ebola Declaration, a Medical Milestone&nbsp;&nbsp;NewserCEPI-backed Ebola vaccine set to enter phase 1 trials&nbsp;&nbsp;Fierce BiotechOxford begins first human trial of Bundibugyo Ebola vaccine&nbsp;&nbsp;ReutersThe Ugandan city where the race for a new Ebola vaccine will be won or lost&nbsp;&nbsp;The TelegraphUniversity of Oxford launches trial of new vaccine for rare deadly virus&nbsp;&nbsp;Oxford Mail",
       "sources": [
         {
           "name": "Newser",
@@ -438,26 +534,14 @@
       ]
     },
     {
-      "id": "41df57ade7fc",
-      "title": "New Israeli ultrasound procedure offers hope for enlarged prostate - Ynetnews",
-      "published": "2026-07-14T20:54:00+00:00",
-      "summary": "New Israeli ultrasound procedure offers hope for enlarged prostate&nbsp;&nbsp;YnetnewsInnovative treatment offers relief for urinary, sexual incontinence&nbsp;&nbsp;aol.comCovenant Health expands AI-powered prostate treatment&nbsp;&nbsp;crossville-chronicle.comNew Procedure Brings Relief to Patients with Enlarged Prostate&nbsp;&nbsp;Baptist HealthWeighing the options for treating an enlarged prostate&nbsp;&nbsp;6abc Philadelphia",
+      "id": "781b0181c996",
+      "title": "New Alzheimer’s drug could stop disease - The Telegraph",
+      "published": "2026-07-14T20:00:00+00:00",
+      "summary": "New Alzheimer’s drug could stop disease&nbsp;&nbsp;The TelegraphRoche to Test Brainshuttle Therapy in Bid to Prevent Alzheimer’s&nbsp;&nbsp;Bloomberg.comNext generation Alzheimer’s drug reduces risk of serious brain bleeds&nbsp;&nbsp;New ScientistAlzheimer's stole pieces of our lives. A new treatment is giving us a fighting chance&nbsp;&nbsp;Fox NewsHow One Pompano Beach Grandfather is Protecting His Future with a Groundbreaking New Alzheimer’s Treatment&nbsp;&nbsp;Florida Hospital News and Heal",
       "sources": [
         {
-          "name": "Ynetnews",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TUHZTVWRUZlduZllFVEFMWkgzNjFBdXpjTWFkQ25yWHRKLTU0Qk81Yi13Y0ZGX3N6eWtoWjNUZnM1UmJscHhEZTBRU0N3Y3I2ck1FMGtNZEw3TTN1MXJSVjd1eGZGOWI0bXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9b465e6695b1",
-      "title": "The Amygdala Predicts Teen Isolation Years in Advance - Neuroscience News",
-      "published": "2026-07-14T20:23:53+00:00",
-      "summary": "The Amygdala Predicts Teen Isolation Years in Advance&nbsp;&nbsp;Neuroscience NewsCan a Preteen’s Reaction to a Face Predict Their Future Social Lives?&nbsp;&nbsp;NautilusTeen brains can predict their social lives years later&nbsp;&nbsp;Earth.comAdolescent Brain Responses to Faces Could Forecast Social Development&nbsp;&nbsp;Bioengineer.orgHow an adolescent's brain reacts to faces may predict their social future&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "Neuroscience News",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jbFpvNXA2VzhUR191WUlTalFoNUE1OXh3N1ZDa2NVTkd0cmpnQlcwMURGRy1rLW1SVHV6T0hMOG1YVnVNOHpUeWE2emY0OHBhWklKUnVBdWQzck5ESFBlQ3NLaFZLaVo2MWFuU0VCUzJFcTQ?oc=5"
+          "name": "The Telegraph",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZEo5RzVZTnNkZHU1bUR0TWtkSTJQTnJJbHV6RFBpLUdUbjQtY0R6MFpaS3NkR0pKMnY1RHdhYnN2WHBOTEpRX0NsREtpMm1qeFZJSzljd3Y5OVdTcXowUmtkUUhURnVIR0tpVXJzS2h4aVZuS0JJNEJBTVUxRTRUM0o4Z2VabldqNmcw?oc=5"
         }
       ]
     },
@@ -474,6 +558,18 @@
       ]
     },
     {
+      "id": "2215f789f128",
+      "title": "Imaging study reveals widespread brain connection loss in schizophrenia - Medical Xpress",
+      "published": "2026-07-14T19:20:05+00:00",
+      "summary": "Imaging study reveals widespread brain connection loss in schizophrenia&nbsp;&nbsp;Medical XpressBrain Scans Reveal a Network Origin Point for Schizophrenia&nbsp;&nbsp;Neuroscience NewsPET imaging reveals widespread brain receptor deficits in schizophrenia&nbsp;&nbsp;News-MedicalImaging Study Finds Widespread Brain Connectivity Loss in Schizophrenia&nbsp;&nbsp;Bioengineer.orgNew Study Reveals Powerful New Method Can Distinguish Schizophrenia from Healthy Using Brain SPECT Imaging&nbsp;&nbsp;Yaho",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWTVkN1A5RU5WanpjTENLZVd4MnRJWmprRFU2d2lta3pOSTlma3cyaDFUdHdFNzVjRHNsZmNKNlRiZWRpd3JUbHdaUjhUQTZKSWZxRlIybmVSRTh3eE1FQ2pBeHU4QnEyVFphX1VFOXUxZWNSejJoT0YwekE4YkdidDRmRTBuMFlZ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f08a248ff63d",
       "title": "Mature eye cells turn back into stem cells after injury, mouse study finds - Medical Xpress",
       "published": "2026-07-14T19:00:03+00:00",
@@ -482,42 +578,6 @@
         {
           "name": "Medical Xpress",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zX2I5UWlYMkhiQ1VIRHVLaEgzbTMzalZ2cy1xRmJPSmRwbHNRQXRldV9qaFRLRk9TMXhsT2NZVFFzLS1RSWVrYkNYR21mczZROS1rM0lBOUtydmNhY3RMT04zZXg4dTNKdkVRbnUxU1ZWLXd0SXNFZzFGWGY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2f0e01a82e59",
-      "title": "Tick-borne parasite killing cats in Kansas City metro, veterinarians warn - KCTV",
-      "published": "2026-07-14T16:16:00+00:00",
-      "summary": "Tick-borne parasite killing cats in Kansas City metro, veterinarians warn&nbsp;&nbsp;KCTVCat dies from rare tick-borne disease as Kansas City vets see more cases&nbsp;&nbsp;FOX4KC.comHeads up, cat owners: This deadly tick-borne disease has been found in Kansas City&nbsp;&nbsp;KMBCKansas City veterinarian issues warning to pet owners after cat dies from tick-borne illness&nbsp;&nbsp;KAKEBobcat fever: Veterinarians emphasize year-round tick control for cats as cases climb in Oklahoma&nbsp;&nbsp;DV",
-      "sources": [
-        {
-          "name": "KCTV",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTUJqdEYzbWJHcXBtZ1VuNjRTSV8zajlQeVRUNnZidnVSRXduQ19xazE2ZGJ0TzdLS1pnUXNsNTI1WTFkV0lfV1N0UHdMeVZlbFFDXzN2QTQ1NWVLZHYxYnpNNVZjT1U5blRwQUxsbVJQVzlPVlV3RXJEZ0VLMW1sUldPdWxDandkdlhjVVJ2amFXWTY3ZzhRbEFDUWJnc29BV3kw0gG3AUFVX3lxTFBOMzNTRG5zR1M4RFoxZE1JMjh5cVR4SUxhZ05kNlZPYTZSdUhaOTVsYWRTSGZhQ0J0UmptVG9KRDMxU21QQXVTOUFJTjl3U1J4SnZZTXVUWjlfcVFNY0t0d1dubGttYmRYTG1lcGVmamoxMDFVX1NtTGRqd25WMV9aTDRsTldVY1YyMGR4SWdldkRVakFibkNQOE1veG1qai1wY1RrRGV4Tm9XMmxlMkxnemU5V2czYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "097ca530d133",
-      "title": "Just 12 weeks of intermittent fasting may help sustain weight loss a year later: study - Medical News Today",
-      "published": "2026-07-14T15:49:44+00:00",
-      "summary": "Just 12 weeks of intermittent fasting may help sustain weight loss a year later: study&nbsp;&nbsp;Medical News TodayIntermittent Fasting Benefits May Last Long After the Diet Ends&nbsp;&nbsp;SciTechDailyTime Restricted Eating Fails to Show Benefits Beyond of Weight Loss&nbsp;&nbsp;EMJ16:8 Intermittent Hunger Maintains 16 Hours of Hunger a Day to Lose WeightFasting has become a popul..&nbsp;&nbsp;매일경제This Method May Rival Calorie-Counting for Weight Loss—and Require Less Mental Effort&nbsp;&nbsp;",
-      "sources": [
-        {
-          "name": "Medical News Today",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWVlUaGRDMnM5cjM3dUhNQmJFNlhaUXh3LVNqVFF2Wk5fU3V1Qm5vU0RLQXdLYmpOQ1F4NGM5a2ZPX3hJQllhWXRxaXIzSGNhd1JjbVhOVmtnWk1DZUlHek1Ha0JvSmJuM1l2V09rRjRMV3YxZGsyM0Vfc2UyYVBBSTB2N2tVMVVTcTdtajc3MTJVOWttUnMzTnpFZkJtRFItRE4wbGt2TGJzOG80dzNXRUFqbnFTT2tqcmJEU0d3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "00237981e2d8",
-      "title": "U.S. Embassy Issues Health Alert For Iconic Beach Destination - Travel Off Path",
-      "published": "2026-07-14T15:16:46+00:00",
-      "summary": "U.S. Embassy Issues Health Alert For Iconic Beach Destination&nbsp;&nbsp;Travel Off PathCosta Rica: Chikungunya outbreak in Playa Langosta, Santa Cruz&nbsp;&nbsp;Outbreak News TodayU.S. Embassy Issues Health Alert for Travelers Visiting Popular Beach Paradise&nbsp;&nbsp;parade.comHealth Alert – U.S. Embassy San Jose, Costa Rica (July 13, 2026)&nbsp;&nbsp;U.S. Embassy in Costa Rica (.gov)Is Your Dream Vacation Safe? The Urgent Mosquito Outbreak Forcing Travelers to Rethink Tropical Getaways Now!&",
-      "sources": [
-        {
-          "name": "Travel Off Path",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzBXZGxuZXBoeENkd0xnNUI2SVh1ZDVBRDVLWkxXYzJtOUZBaHhieWVzT3F6RGU5dm9HbG45cDU1a0ZqdV9Sa1lhZzJkcUNWbnp5Z0ptbmRHSnpsVW1UYXA2N1pGSjBaTFN4TWRGeDNuVTViTmxZeGhiWEY0eUNPalZ6RVM4YlBoRVM2R1c1aklfUWUyMXc?oc=5"
         }
       ]
     }

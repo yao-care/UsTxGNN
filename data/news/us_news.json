@@ -1,31 +1,103 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-07-15T19:15:26.001655+00:00",
-  "total_fetched": 75,
-  "unique_count": 75,
-  "health_related_count": 24,
+  "fetched_at": "2026-07-16T02:48:03.677020+00:00",
+  "total_fetched": 79,
+  "unique_count": 79,
+  "health_related_count": 23,
   "news": [
     {
-      "id": "9c8eddc34bcd",
-      "title": "Michigan continues to lead US in cyclosporiasis cases: The latest data - Detroit Free Press",
-      "published": "2026-07-15T18:21:00+00:00",
-      "summary": "Michigan continues to lead US in cyclosporiasis cases: The latest data&nbsp;&nbsp;Detroit Free PressOpinion | How Freaked Out Should You Be About the Nightmare Stomach Bug?&nbsp;&nbsp;The New York TimesWhat to know about cyclosporiasis, the intestinal illness hitting the U.S.&nbsp;&nbsp;NPRThe Explosive Diarrhea Outbreak Is About to Get Much Bigger&nbsp;&nbsp;WIREDExplosive diarrhea-causing parasite cases rise in Connecticut, health officials say&nbsp;&nbsp;WFSB",
+      "id": "5c1a9fb34343",
+      "title": "Meteorite that crashed into a New Jersey home is a rare solar system fragment - CNN",
+      "published": "2026-07-15T22:25:30+00:00",
+      "summary": "Meteorite that crashed into a New Jersey home is a rare solar system fragment&nbsp;&nbsp;CNNNew Jersey Couple Aids Meteorite Discovery After it Crashes Through Their Roof&nbsp;&nbsp;The New York TimesMeteorite that crashed through New Jersey house could hold the clues to life's origins&nbsp;&nbsp;SpaceAlien World Chemistry Found Inside Meteorite That Struck New Jersey home&nbsp;&nbsp;SETINASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids&nbsp;&nbsp;NASA Science (.gov)",
       "sources": [
         {
-          "name": "Detroit Free Press",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa19sdmxSTms0NDVoN213cGM2WGJHS1VYMm5ZTHdEd3dMeEdIdU1LMVQzSG9VdXhkQVNmZklTaktzekVERlkxQkVSZVNBQ0FHdHBUdERWM0NkY05SQmkyWEhOLVhYbHJLQ05vZUJYVzFHa25uMTYwRGdVbFZqTFVYa081OEM0SERvZWhfeUp1djNXZF9tQ3NUQUJJRmRHMVpWTkdXRHJVdUx1SlMxQXhKUWZPQlVPTjVibEZIQ1J3?oc=5"
+          "name": "CNN",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41NFFEVktQOWFzUC1EZm5WNlBtQWxucFRvRnVhSFJEeW1OS2NQbDN4M0ZzNVlQLUVqU0YtQm9wc1daaFYzckRCVmlxc1BfMXUyLWRTQkZnWDh0bUY1X1FQdUUtSThHY3ZVLUVoLTJLczI4TWFGQ19DWUJGLVlkZw?oc=5"
         }
       ]
     },
     {
-      "id": "2a55acc65f4a",
-      "title": "Number of UES buildings with positive Legionella tests more than doubles since preliminary findings - Gothamist",
-      "published": "2026-07-15T15:58:00+00:00",
-      "summary": "Number of UES buildings with positive Legionella tests more than doubles since preliminary findings&nbsp;&nbsp;GothamistDozens of New York cooling towers test positive for Legionnaires’ bacteria as outbreak reaches 60 cases&nbsp;&nbsp;CNNLegionnaires' outbreak: 76 buildings ordered to clean cooling towers, including the Met&nbsp;&nbsp;ABC7 New YorkNew York Is Having a Legionnaires’ Outbreak. Here’s What to Know.&nbsp;&nbsp;The New York TimesLegionnaires' outbreak grows to 63 cases on Upper East ",
+      "id": "929f10674b7b",
+      "title": "Cyclospora in Maryland: Cases more than double since last week - WBAL-TV",
+      "published": "2026-07-15T22:23:00+00:00",
+      "summary": "Cyclospora in Maryland: Cases more than double since last week&nbsp;&nbsp;WBAL-TVAs the outbreak of diarrhea caused by a parasite grows, here’s what’s safe to eat and what to avoid&nbsp;&nbsp;CNNCyclospora and water: Triangle health experts weigh in&nbsp;&nbsp;CBS 17Cyclosporiasis Outbreak with Unknown Source&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)Cases rise of severe diarrhea parasite in Virginia&nbsp;&nbsp;WAVY.com",
       "sources": [
         {
-          "name": "Gothamist",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbWhCR3FZUTVkVDhhXzVfOFh5YldjQ1VISkItZ0JXeWJrMGh6ZDNQRmFwMEpHY1d0alZUZkFVMUJiRU5WQnFUazVFY18yR2RhSW5zREpRalVlNmpLN2Y0am9YR0k0MnFJVjdmYXdCdzVSNW9Teko0Vmd1aDVuN09oakNfeFFOQ3dfQlhJb0dvMXd5N1d3ZGFaWjhyV3ZMR1k2MnMtanY2Q1BWXy10MUZoQ3JvTHRMUWZfQ01oeDB4WG1uY1F0?oc=5"
+          "name": "WBAL-TV",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkNXXzdpV3BQWVNLMW9TMC14aTJUd256MEtYOVVRejU4SVlOSnpTTmZQVTJNVEI3Um9yNTFxN2ZFc3BMdExfQTg1Wk1jQmJrWDdVaFg3dG5TaHlUS2huVXlhVXVFOUQ3Y2wwRjJmLXZRZ1c4NkZCYWhfNWxZUmpjRlYtczBTZ1pUTUhRZ2JNbWoyQ2dDcURfQ0N1Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d1946dd3a298",
+      "title": "Researchers Claim to Have Solved the Perplexing ‘Reverse Sprinkler’ Problem That Stumped Feynman - The New York Times",
+      "published": "2026-07-15T21:22:00+00:00",
+      "summary": "Researchers Claim to Have Solved the Perplexing ‘Reverse Sprinkler’ Problem That Stumped Feynman&nbsp;&nbsp;The New York TimesSolution to Feynman’s reverse sprinkler puzzle also applies to “silly sprinklers”&nbsp;&nbsp;Ars Technica'Silly sprinklers' put in reverse to further unravel decades-old physics puzzle&nbsp;&nbsp;Phys.orgNYU Researchers Identify Physical Mechanisms Behind Reverse Sprinkler Motion&nbsp;&nbsp;geneonline.comFeynman’s Famous Physics Problem of a Sprinkler Running in Reverse h",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSV9vYXNTeFhZREd2aDd4OGNSV3VBbEgtaGFsWk8wSE1ad3BfaFozdUZfRElyYi1Ed0NWSDc1aTNDMk1lZHNBNzlPY3lGeF9HblZzSkNBOEJxM3Q0X3kxdnRyTGZ2S09KU0l1Y3JCQ2FsQ3dET1NtdWVKTngtYnBLemIzdm5QUkZv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "704e357657b1",
+      "title": "Biologists pinpoint how common virus triggers multiple sclerosis - Nature",
+      "published": "2026-07-15T19:35:48+00:00",
+      "summary": "Biologists pinpoint how common virus triggers multiple sclerosis&nbsp;&nbsp;NatureFrom ‘kissing disease’ to MS: Harvard study uncovers how a common virus triggers multiple sclerosis&nbsp;&nbsp;The Boston GlobeBest treatment for multiple sclerosis may be antivirals&nbsp;&nbsp;New ScientistNew study untangles how Epstein-Barr viral infection triggers immune response in multiple sclerosis&nbsp;&nbsp;STATEpstein-Barr virus components linked to the development of multiple sclerosis have been identifi",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsdkczV3FKZkRVY3B2ZzJBd3JKalMzZFBDRFYwMWdBamcyeEo0bUswd0NYMXpPX01fN2FOb3BBNzh4MzdxNnBzTk9uU3BqaWh2SmhtNVdYbWQzcWx1aDQ4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f032386ddecd",
+      "title": "How naked mole-rat queens stop rivals reproducing - Nature",
+      "published": "2026-07-15T19:31:58+00:00",
+      "summary": "How naked mole-rat queens stop rivals reproducing&nbsp;&nbsp;NatureA queen odour mediates reproductive suppression in a eusocial mammal&nbsp;&nbsp;NatureQueen’s powerful smell suppresses rivals in naked mole rat colonies&nbsp;&nbsp;New ScientistNaked mole-rat queens produce an odorous chemical that ensures that only they can reproduce&nbsp;&nbsp;Phys.orgNew Study: Naked Mole Rats Create Their Own Smell of Colony Success&nbsp;&nbsp;AOL.com",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tXzVBQ1pGWW43dE1MS0VtcWUyX0F5ZXpVMWo5ekttck1XczRlSmlUSWRtOWVwWGFtT3AyV2l5LW43dVJIZWpWQVprTUhJSjlCY2NFMjdob082SWZHUHF3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9393b600f3fe",
+      "title": "Raspberry sugar spotted in interstellar space, a sweet discovery that could reveal clues about life's origins - Space",
+      "published": "2026-07-15T17:09:32+00:00",
+      "summary": "Raspberry sugar spotted in interstellar space, a sweet discovery that could reveal clues about life's origins&nbsp;&nbsp;SpaceA sugar key to the origins of life has been discovered in interstellar space&nbsp;&nbsp;CNNA Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy&nbsp;&nbsp;The New York TimesSpace jam: astronomers detect ‘raspberry sugar’ on dust cloud in Milky Way&nbsp;&nbsp;The GuardianIn a sweet discovery, astronomers find sugar lurking in the space between stars&nbsp;&nbsp;NBC Ne",
+      "sources": [
+        {
+          "name": "Space",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVWNNRXM4eWx3VjhxYjVTME1LMHVwa3c2dC1BRkVEelUtTHV6VGFjd0wyWDlKRTJRb293bjdTQXgwa3REVG5GNENMM1FsXzJSci1iR1NiQVBWM1ZHdWRMMHYxNk5ncVljemhORXoweXlOVmYzalBZbGlKbU5sZ2plWlB5bXBXeEUxRW5fQjljYnlTeUlDT2dJRVJyUE9mNWFxVjNFSjUyZ1Z5X1hmXzdhZUhLUGxVX1huLW5pZnExNEZ2OFlsUHRFTzNBZkQyRC1hLUZENDB3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "27fe00aa9c18",
+      "title": "First Human X-Rays Captured In Space Mark Major Breakthrough For Astronaut Health - NDTV",
+      "published": "2026-07-15T16:23:05+00:00",
+      "summary": "First Human X-Rays Captured In Space Mark Major Breakthrough For Astronaut Health&nbsp;&nbsp;NDTV1st-ever X-rays in space offer hope for possible patients headed to the moon&nbsp;&nbsp;SpaceSee the first x-rays of humans taken in space&nbsp;&nbsp;Scientific AmericanAstronauts Have Taken The First Human X‑Rays in Space&nbsp;&nbsp;ScienceAlertThese Look Like Ordinary X-Rays. They’re Not&nbsp;&nbsp;Gizmodo",
+      "sources": [
+        {
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLVMxT1g0QUI5eEY4am9nVWRwaTFQWUNIcGRNVVN3VUZ6Rlhka3labFpkeGkxM3dQOWFwM3dSQkItVW8xTU5icDVMYTBjWWsxblpLOGxDazN1SlM1dnFEeGNCZFFYQWhmdGZaYlg5U0NMYkxsRzFENGptOTdUbkc0c2xuNkNpNWh6UjZTa1lkYWp2T2NCUllQd3N4RGEtLTRTM0tXUGE1YlhIcjJDN3FURW03QWxlYmvSAb8BQVVfeXFMT0Q2N0VGTmU5Qjk1MGFwWHBENDhNOWdQczkwWUlDT3hDcERzZ2xlaXY5NktNVlJNS3MyRHNRbGFOMFJmdHY0NW90Mm9lak5hQVRaWHRNLXVtOUJFLXBrVVVYNXQxS2RPZ255c2FzeExFcGhnMTl0MDRqTjdDUjI0YXlXVDQ1d0c2OUxxRFVXTHNpRC11alJsMU44V1NRUUhBS2JTRkFBQ2lyLTliNW0tLUlQbzdNcTllWTZpaDZ0U2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c3ceeb29af2a",
+      "title": "More health workers strike as Ebola cases in Congo exceed 2,000, including 754 deaths - AP News",
+      "published": "2026-07-15T16:13:00+00:00",
+      "summary": "More health workers strike as Ebola cases in Congo exceed 2,000, including 754 deaths&nbsp;&nbsp;AP NewsSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "AP News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN25mbGtRWE41clEwTkJBaDVkTE5XZVNFSDhXU0puWjlHRXh0aWgwNEtfRklIS3ctaHprMHd1bnd2TDdiSVQzNEppRDAzc3lZS0RSNVlYSkI4VEV2RlJmbFlvNHJVREg0MDY4UUZQUjZOSmIyVm83TmxTMUtENWhnRzI5dFhOdjloSEFhVDNPdkdGcU1CTEhBYTAtYw?oc=5"
         }
       ]
     },
@@ -42,50 +114,38 @@
       ]
     },
     {
-      "id": "de4e941d80e3",
-      "title": "A new stellar census strengthens the case for a 13.8-billion-year-old universe - Phys.org",
-      "published": "2026-07-15T11:30:03+00:00",
-      "summary": "A new stellar census strengthens the case for a 13.8-billion-year-old universe&nbsp;&nbsp;Phys.orgThe Oldest Stars in the Galaxy Just Weighed In on One of Cosmology's Biggest Arguments&nbsp;&nbsp;Universe TodayDuke cosmologist builds camera for telescope to research the early universe&nbsp;&nbsp;Spectrum NewsAstronomers are Hunting Down the Elusive Population III Stars&nbsp;&nbsp;Universe Today",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fSnFXa3B4SFFPc0pVN0hheHVMVTNsVGs1VzQ2ZEgwVDl1WFp6Ykc0WHlUY0tnTjEwWmh5alctc3JLd2ViOVZ2a1lRUV9ObDREQkVkU0RIWDQ0WUNDY3pXYVJ1Ym96V2Y1ZU5KYWt2ZEdIcU1tR0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f7c2aa48334f",
-      "title": "Going to Museums and Movies May Slow Aging, Study Finds - StudyFinds",
-      "published": "2026-07-15T06:14:54+00:00",
-      "summary": "Going to Museums and Movies May Slow Aging, Study Finds&nbsp;&nbsp;StudyFindsGoing to museums, movies, and theater may help your body stay younger&nbsp;&nbsp;ScienceDailyGoing to the cinema, theater or a museum may slow down physiological aging&nbsp;&nbsp;Medical XpressThe surprising activities that can slow biological ageing and have a similar impact to exercise&nbsp;&nbsp;The IndependentWhy the secret to eternal youth might be a trip to an art gallery&nbsp;&nbsp;The Times",
-      "sources": [
-        {
-          "name": "StudyFinds",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMC14SUdwSV9keUMwaGU3Y2xsNzgzNkNHa2lTcF9SMlJIQm43UGlFVHB3d0tYbXVJcHdtWnJnQm1CandvanlQaElKY2R3akIwTkVmNEF3UTZrT3RUY3dJSWJrOUQtVGdkZDQtaUg0Z0N5VFNBMWp4VWFwLVRLUXc3M0lXR1c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "80e8bf65734a",
-      "title": "Ebola is spreading faster in eastern Congo than it can be tracked, as deaths pass 700 - NPR",
-      "published": "2026-07-15T05:39:55+00:00",
-      "summary": "Ebola is spreading faster in eastern Congo than it can be tracked, as deaths pass 700&nbsp;&nbsp;NPRWhy the fastest-growing Ebola outbreak in history is becoming more challenging&nbsp;&nbsp;AP NewsDRC Ebola cases surpass 2,000 as more health workers begin strike&nbsp;&nbsp;Al JazeeraEbola deaths double in two weeks as WHO warns virus is outrunning response&nbsp;&nbsp;The Straits TimesMore health workers strike as Ebola cases in Congo exceed 2,000, including 754 deaths&nbsp;&nbsp;ABC News - Break",
+      "id": "d01614750bcf",
+      "title": "Cancer disparities researchers say federal funding changes have disrupted their work - NPR",
+      "published": "2026-07-15T15:16:35+00:00",
+      "summary": "Cancer disparities researchers say federal funding changes have disrupted their work&nbsp;&nbsp;NPRAACR Cancer Disparities Progress Report 2026 Media Coverage | Newsroom | AACR&nbsp;&nbsp;American Association for Cancer Research (AACR)Column: Cancer patient hopes amid research funding cuts&nbsp;&nbsp;Valley News",
       "sources": [
         {
           "name": "NPR",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45VkJQV1ZKX0xpSjQ5SG9ZNjIxRUFiamtHZk5EeE9nVm5hQ3RoeHBIbUtIN0tIZnVvMFRfaEJreHFXVHl5b0Z2aGppaDZYZzhnZnpzbXVXVHZoUFhEcjh5Zk1PRGQwYTJ5bGc4Rmt3?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPelI2R1UtTDc5QnV0YUFHY0lWMWMwSVdneHptZ2Jhd1FId0NMZDZhNFdrOGE3b0RqbXppaUdYQ0lzSl9nMlVGcFpRQjF4VllPMElJdzA4akY5c3gtZ2RZUk1BdGp4dnZqQ0N2NW1SQU5wM0Z0QmxzRWlyS3JoRHdyUzUxRVYtUC13U1pUVjk4aU1zbVlPSFN5SDVYYlEtcktCUzRJN3RR?oc=5"
         }
       ]
     },
     {
-      "id": "808752fe79dd",
-      "title": "Study shows a blood test can help identify healthy people at high risk for Alzheimer's disease - AP News",
-      "published": "2026-07-15T04:05:00+00:00",
-      "summary": "Study shows a blood test can help identify healthy people at high risk for Alzheimer's disease&nbsp;&nbsp;AP NewsAlzheimer’s Blood Tests Offer New Promise to Diagnose and Predict the Disease&nbsp;&nbsp;The New York TimesImplications of expansion of Alzheimer's biomarker testing for patients, families and policy&nbsp;&nbsp;Medical XpressNew Alzheimer’s blood test may be promising but is not yet ready for widespread use&nbsp;&nbsp;CNNImprovements in Alzheimer’s testing could make diagnostics more ",
+      "id": "cb7a1900b4df",
+      "title": "Alzheimer's blood test may predict who's likely to develop symptoms in 5 to 10 years - CBS News",
+      "published": "2026-07-15T11:40:00+00:00",
+      "summary": "Alzheimer's blood test may predict who's likely to develop symptoms in 5 to 10 years&nbsp;&nbsp;CBS NewsNew Alzheimer’s blood test may be promising but is not yet ready for widespread use&nbsp;&nbsp;CNNAlzheimer’s Blood Tests Offer New Promise to Diagnose and Predict the Disease&nbsp;&nbsp;The New York TimesStudy shows a blood test can help identify healthy people at high risk for Alzheimer's disease&nbsp;&nbsp;AP NewsBlood-based test can predict risk of developing symptoms of Alzheimer's up to ",
       "sources": [
         {
-          "name": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQXzRDZElnSVBYRHFXU2ZqbFMteFdkcXN5ejJoTk80XzRHRXl4Tm5KdDBiT3FIcG53d2Q1VlJzcUU3TGh3UXpKbWtNRGdEa2pNZTRuSm1XLTlDN0F5ckVLdXJ5endySFFVUWRlU0FFb01xZ25iUjViMGJkNnlaeFVNc095OVllRU04SzZ4VFE4dFBoZWUteTlFNA?oc=5"
+          "name": "CBS News",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40X0VabVhFa01RWkhnN1hHa09OanU1OWhwdTR4aGZBb3htZlJNd1RBNGxVLW15Qk9HdmEwT3dTdzBFb3FMZXJZQkgzNzBrNzFYaTlDYWhCWnlrMU5ONjBJLTBOcWhXT1hiRThNUURtWkozcE0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a3edc24c9d07",
+      "title": "Loneliness strongly linked to poorer mental health and well-being, study finds - Medical Xpress",
+      "published": "2026-07-15T09:00:10+00:00",
+      "summary": "Loneliness strongly linked to poorer mental health and well-being, study finds&nbsp;&nbsp;Medical XpressInvestigating relationships between loneliness, social isolation and health&nbsp;&nbsp;NatureLoneliness Directly Causes Poor Mental Health&nbsp;&nbsp;Neuroscience NewsYou need to make more friends: WHO says lack of connection can increase risk of stroke, heart diseases by 30%&nbsp;&nbsp;Deccan HeraldFraming loneliness as a medical issue hinders societal responsibility&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOWFvVmJGVFV2NXVBTEJ2VTE2MlNvdjZmdnFQTmZJaHkybHJ4X19RQ291NVV3b2ZpeFFkTkg2U3dSdjdFSlhEd0M4am81bHBLckRKU1V4N2g2TUNHNWV4eEVTcW5wSFVQSWl0cHIwUHIxdmMzeDdFMkQ1YVh6NWRqZnJyTnJNdFdpVkhzRA?oc=5"
         }
       ]
     },
@@ -93,7 +153,7 @@
       "id": "e9e718c28d90",
       "title": "'Surprising and exciting': U. astronomers harness NASA telescopes for black hole discovery - KSL News",
       "published": "2026-07-15T03:06:48+00:00",
-      "summary": "'Surprising and exciting': U. astronomers harness NASA telescopes for black hole discovery&nbsp;&nbsp;KSL NewsNASA’s Hubble Discovers First of Star Cluster’s Missing Black Holes&nbsp;&nbsp;NASA Science (.gov)A Missing Black Hole Was Found Hiding in a Giant Star Cluster. Astronomers Think There Could Be Thousands More&nbsp;&nbsp;GizmodoThe 1st of 10,000 'missing' black holes in the Omega Centauri star cluster has been found&nbsp;&nbsp;SpaceNASA’s Hubble reveals a black hole hiding inside a massiv",
+      "summary": "'Surprising and exciting': U. astronomers harness NASA telescopes for black hole discovery&nbsp;&nbsp;KSL NewsNASA’s Hubble Discovers First of Star Cluster’s Missing Black Holes&nbsp;&nbsp;NASA Science (.gov)NASA’s Hubble reveals a black hole hiding inside a massive star cluster in the Milky Way&nbsp;&nbsp;Scientific AmericanThe 1st of 10,000 'missing' black holes in the Omega Centauri star cluster has been found&nbsp;&nbsp;SpaceA Missing Black Hole Was Found Hiding in a Giant Star Cluster. Astr",
       "sources": [
         {
           "name": "KSL News",
@@ -114,26 +174,14 @@
       ]
     },
     {
-      "id": "ce6bf95ec7d3",
-      "title": "Guest Column | I smoked cannabis for nearly 20 years. Here’s what I wish I knew at 13. - The Washington Post",
-      "published": "2026-07-15T01:38:44+00:00",
-      "summary": "Guest Column | I smoked cannabis for nearly 20 years. Here’s what I wish I knew at 13.&nbsp;&nbsp;The Washington PostOpinion: Legal weed doesn't mean harmless&nbsp;&nbsp;CT MirrorWhat Happens in the Brain When Cannabis Is Used Every Day&nbsp;&nbsp;Psychology TodayCannabis: Will you still be okay long after the high fades away?&nbsp;&nbsp;SAPeopleHigh stakes for teens&nbsp;&nbsp;Johns Hopkins University",
+      "id": "2a55acc65f4a",
+      "title": "Number of UES buildings with positive Legionella tests more than doubles since preliminary findings - Gothamist",
+      "published": "2026-07-14T23:39:00+00:00",
+      "summary": "Number of UES buildings with positive Legionella tests more than doubles since preliminary findings&nbsp;&nbsp;GothamistUpper East Side Legionnaires' outbreak: 76 buildings test positive for Legionella bacteria in preliminary testing&nbsp;&nbsp;ABC7 New YorkDozens of New York cooling towers test positive for Legionnaires’ bacteria as outbreak reaches 63 cases&nbsp;&nbsp;CNNLegionnaires' outbreak slows as NYC continues cleaning cooling towers&nbsp;&nbsp;Spectrum News NY1New York Is Having a Legio",
       "sources": [
         {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcF9pb0RNMVFqOXczQ19RZWo1U1VVRWg1ZFFIMFVkMFpIZGN4cDR6ZmNDczR5YlVvenFjcWlucjJKZ3c5dEtBUjBXbVh0ejYyYll1REgyRkVGQkd2c01nZklIdXlVNW1iLUljeV9sT2h5Y0JYdHpqZTdCNUo1WVFPbEtNdjZ1bWVpTmVHTlFaN0QwdG85eVBZajV0WmtfaldxWUFLUDVqaWJRLUlFbEpHXzE5bw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fef710845621",
-      "title": "Astronauts Have Taken The First Human X‑Rays in Space - ScienceAlert",
-      "published": "2026-07-15T01:29:25+00:00",
-      "summary": "Astronauts Have Taken The First Human X‑Rays in Space&nbsp;&nbsp;ScienceAlert1st-ever X-rays in space offer hope for possible patients headed to the moon&nbsp;&nbsp;SpaceAstronauts take first X-rays in space&nbsp;&nbsp;Popular ScienceSee the first x-rays of humans taken in space&nbsp;&nbsp;Scientific AmericanHow The First Medical X-rays In Space Could Not Only Save Astronauts, But Lead To Better Medicines For Us On Earth&nbsp;&nbsp;IFLScience",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUDN4OE9BOFltRV9nV3d6WDh6TnJFZjREc0xZYlo0R1UwT2lEUEN5VFJ4TlhJQmN1OE4ySmVwOUlpcmJVMzJZdkRtaEFwTzMxbkNRMlJjdGtqTEVJYlVmUXJPR0dSVEtYckI3dmE3ZnJjdTNKRzVoSDdLR1BDcVFvMDlCR25ZLTk1SHZ4dDdwZ1Zzb0kzMmhCeEtydExTbllEV2VmcnFzT1NjeUU?oc=5"
+          "name": "Gothamist",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbWhCR3FZUTVkVDhhXzVfOFh5YldjQ1VISkItZ0JXeWJrMGh6ZDNQRmFwMEpHY1d0alZUZkFVMUJiRU5WQnFUazVFY18yR2RhSW5zREpRalVlNmpLN2Y0am9YR0k0MnFJVjdmYXdCdzVSNW9Teko0Vmd1aDVuN09oakNfeFFOQ3dfQlhJb0dvMXd5N1d3ZGFaWjhyV3ZMR1k2MnMtanY2Q1BWXy10MUZoQ3JvTHRMUWZfQ01oeDB4WG1uY1F0?oc=5"
         }
       ]
     },
@@ -141,7 +189,7 @@
       "id": "bf239c7d91a4",
       "title": "Seals have a unique superpower in their ears, and we finally know how it evolved - The Conversation",
       "published": "2026-07-14T23:03:32+00:00",
-      "summary": "Seals have a unique superpower in their ears, and we finally know how it evolved&nbsp;&nbsp;The ConversationSeals filter sound through blood-filled tissue to hear underwater, study reveals&nbsp;&nbsp;Phys.orgAcoustic superheroes: how seals mastered hearing on land and at sea&nbsp;&nbsp;Medianet News HubScientists solve mystery of how seals hear in air and underwater&nbsp;&nbsp;Oceanographic Magazine",
+      "summary": "Seals have a unique superpower in their ears, and we finally know how it evolved&nbsp;&nbsp;The ConversationAcoustic superheroes: how seals mastered hearing on land and at sea&nbsp;&nbsp;Medianet News HubScientists solve mystery of how seals hear in air and underwater&nbsp;&nbsp;Oceanographic MagazineSeals filter sound through blood-filled tissue to hear underwater, study reveals&nbsp;&nbsp;Phys.org",
       "sources": [
         {
           "name": "The Conversation",
@@ -162,18 +210,6 @@
       ]
     },
     {
-      "id": "d1946dd3a298",
-      "title": "Researchers Claim to Have Solved the Perplexing ‘Reverse Sprinkler’ Problem That Stumped Feynman - The New York Times",
-      "published": "2026-07-14T20:39:53+00:00",
-      "summary": "Researchers Claim to Have Solved the Perplexing ‘Reverse Sprinkler’ Problem That Stumped Feynman&nbsp;&nbsp;The New York TimesSolution to Feynman’s reverse sprinkler puzzle also applies to “silly sprinklers”&nbsp;&nbsp;Ars Technica'Silly sprinklers' put in reverse to further unravel decades-old physics puzzle&nbsp;&nbsp;Phys.orgNYU Researchers Identify Physical Mechanisms Behind Reverse Sprinkler Motion&nbsp;&nbsp;geneonline.comFeynman’s Famous Physics Problem of a Sprinkler Running in Reverse h",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSV9vYXNTeFhZREd2aDd4OGNSV3VBbEgtaGFsWk8wSE1ad3BfaFozdUZfRElyYi1Ed0NWSDc1aTNDMk1lZHNBNzlPY3lGeF9HblZzSkNBOEJxM3Q0X3kxdnRyTGZ2S09KU0l1Y3JCQ2FsQ3dET1NtdWVKTngtYnBLemIzdm5QUkZv?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9b465e6695b1",
       "title": "The Amygdala Predicts Teen Isolation Years in Advance - Neuroscience News",
       "published": "2026-07-14T20:23:53+00:00",
@@ -182,42 +218,6 @@
         {
           "name": "Neuroscience News",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jbFpvNXA2VzhUR191WUlTalFoNUE1OXh3N1ZDa2NVTkd0cmpnQlcwMURGRy1rLW1SVHV6T0hMOG1YVnVNOHpUeWE2emY0OHBhWklKUnVBdWQzck5ESFBlQ3NLaFZLaVo2MWFuU0VCUzJFcTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f08a248ff63d",
-      "title": "Mature eye cells turn back into stem cells after injury, mouse study finds - Medical Xpress",
-      "published": "2026-07-14T19:00:03+00:00",
-      "summary": "Mature eye cells turn back into stem cells after injury, mouse study finds&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zX2I5UWlYMkhiQ1VIRHVLaEgzbTMzalZ2cy1xRmJPSmRwbHNRQXRldV9qaFRLRk9TMXhsT2NZVFFzLS1RSWVrYkNYR21mczZROS1rM0lBOUtydmNhY3RMT04zZXg4dTNKdkVRbnUxU1ZWLXd0SXNFZzFGWGY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8057115193ad",
-      "title": "A sugar key to the origins of life has been discovered in interstellar space - CNN",
-      "published": "2026-07-14T16:59:52+00:00",
-      "summary": "A sugar key to the origins of life has been discovered in interstellar space&nbsp;&nbsp;CNNRaspberry sugar spotted in interstellar space, a sweet discovery that could reveal clues about life's origins&nbsp;&nbsp;SpaceA Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy&nbsp;&nbsp;The New York TimesSpace jam: astronomers detect ‘raspberry sugar’ on dust cloud in Milky Way&nbsp;&nbsp;The GuardianIn a sweet discovery, astronomers find sugar lurking in the space between stars&nbsp;&nbsp;NBC Ne",
-      "sources": [
-        {
-          "name": "CNN",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlMnN0cGV6M1VOY2M5UlJLaW9vYzBtQnFuZnpQcW1jNEpjcnQ4RTBWa0Rfc3EzMXVRR2R6eWc2a0ljTnYwc05MMXRnVmx6bFF0MXRaQVp1bEZFMXN3MWxFS2xVeUduTzJpTGU3dVFuMGpKX01kM0RGT0NuQ24?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9e70001fb8d1",
-      "title": "Weird Mountains on Pluto’s Largest Moon Charon Reveals a Surprising Past - Gizmodo",
-      "published": "2026-07-14T15:15:44+00:00",
-      "summary": "Weird Mountains on Pluto’s Largest Moon Charon Reveals a Surprising Past&nbsp;&nbsp;GizmodoEarly tidal despinning history recorded in the tectonics of Oz Terra, Charon&nbsp;&nbsp;NatureThe spin of Pluto's moon, Charon, may be slowing down&nbsp;&nbsp;Phys.orgPluto's Moon Charon Shows Signs Of \"Despinning\", New Study Finds&nbsp;&nbsp;NDTVAncient tectonic scars reveal how Pluto’s moon Charon slowed its spin&nbsp;&nbsp;Departement Erd-​ und Planetenwissenschaften",
-      "sources": [
-        {
-          "name": "Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbHl3TWZ6WUlEQWJ4Ykl6dXZwa0lYMFRyYXZJRXJHMUdfQll4X0V4SFNtNWhvbmtESHV1U0p2akg4OVFXZVlxcUxvb1IxRGRJclQtRzhpeHVZa1d0M3pBWDlJcGRtdFltUWc0UXJ2eVA0MUhKcWF4MWhURThVVHdvVjRxVGc3R0dYRmp3UzJGbVVxRldLSjhoU2RRZ0dVbDM0SU5FYg?oc=5"
         }
       ]
     },
@@ -266,18 +266,6 @@
         {
           "name": "Phys.org",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CYVB2MFdyU2ZRZG9mblZWLU9Ib2M5ZjZUXzVJTnR5VDZvdzNGUTktcVRTSTluaWRxVEs5WEtqNGg1VE96S3pVdkRwZ0g5SlJ4TURSMzhCYUtJTHBwODhySUhB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a6a0374860d0",
-      "title": "'Vanishingly Rare' Discovery: T. Rex Hatchlings Were Smaller Than a Cat And Born by The Dozen - ScienceAlert",
-      "published": "2026-07-14T10:03:30+00:00",
-      "summary": "'Vanishingly Rare' Discovery: T. Rex Hatchlings Were Smaller Than a Cat And Born by The Dozen&nbsp;&nbsp;ScienceAlert",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOWdRUVd4a0xkeDR4UlpROTllOU5iM3JZNTFWZFlmYW1MQXJPMzUySkZFUUlxUTB0TDRTSjBVbndGN1F6VEFoVFItR25XNkktcVJDWmYtYV9HTWhfUDdkSnRnTklua2ZET3IxQjlkemZsVmZQNDJIWUxrVWtiMzYyd04xS3NsbVRwb1QtYVBXaEtjSGpBTzFYQVkwOWRDLWJOV1VnQmljQUk0QQ?oc=5"
         }
       ]
     },

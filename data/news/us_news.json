@@ -1,19 +1,55 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-07-17T08:13:46.014421+00:00",
-  "total_fetched": 94,
-  "unique_count": 94,
-  "health_related_count": 32,
+  "fetched_at": "2026-07-17T13:44:05.917900+00:00",
+  "total_fetched": 100,
+  "unique_count": 100,
+  "health_related_count": 42,
   "news": [
     {
-      "id": "f423bcab6857",
-      "title": "A Pitt professor breaks down what to know about the diarrhea-causing cyclosporiasis - Pittsburgh Post-Gazette",
-      "published": "2026-07-17T06:28:34+00:00",
-      "summary": "A Pitt professor breaks down what to know about the diarrhea-causing cyclosporiasis&nbsp;&nbsp;Pittsburgh Post-GazetteDomestically Acquired Cyclosporiasis Cases in Multiple U.S. States, 2026 | HAN&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)How Portland restaurants are responding to the cyclosporiasis outbreak&nbsp;&nbsp;The Portland Press HeraldCyclospora Outbreak: What to Know About Symptoms and Food Safety&nbsp;&nbsp;The New York TimesNo, You Shouldn’t Avoid Fruits and V",
+      "id": "94cc3276b84a",
+      "title": "FDA raised conflict of interest concerns ahead of new peptide panel - The Washington Post",
+      "published": "2026-07-17T13:35:46+00:00",
+      "summary": "FDA raised conflict of interest concerns ahead of new peptide panel&nbsp;&nbsp;The Washington PostWhat Are Peptides? The Viral Health Trend, Explained&nbsp;&nbsp;Mental FlossPeptides: Miracle Molecules or Marketing Hype?&nbsp;&nbsp;KQEDPeptides Take Center Stage at FDA’s Critical Stakeholder Meeting&nbsp;&nbsp;The National Law ReviewAsk the Expert: Peptides, sponsored by Untamed Health&nbsp;&nbsp;inRegister",
       "sources": [
         {
-          "name": "Pittsburgh Post-Gazette",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS0duWThEa201dXdMSDhGSGRCbi1iSlR3UVZ0WUUwS0dZNmVLTjMyTk5CSVRTaU9FSUFBN2RlOExKSVJHY0ZueFhlTWp6QWVQOTBOemx6X3dJamh5NmdMLWZhdTNRakxxaUpNNUlybVpTXy1JWTdvaUI4NllmUlFLcVltbG93MWZZcDFVRlFSUWVoTEd4SVRrZFd0cnBtc0ZzV19GTGZn?oc=5"
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSzYxZU5FbDhpa3pUQ2VqZmZ3N3ltc3lWZVIxRjA0UGRuRHVXbVp3RmNFVHc2SmFTSGxFd2NFTnprTVZfbk1zWmRTMzhpV0lWQ1c3QkdGelZKUjR5YU5sNE1keU4weHRGY0JwTjF0M1dYTlB2RHFJcHBBMjZ4M3U0YnBhMk1MZEFuejEtTUg5cGNzVlpfQUoxV21CdEFURlFhWDgtTk5IdTlRQTdTeklTXw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a9ff9fca6e82",
+      "title": "What does Code Red air quality mean? Weather Talk explains - WBAL-TV",
+      "published": "2026-07-17T13:27:00+00:00",
+      "summary": "What does Code Red air quality mean? Weather Talk explains&nbsp;&nbsp;WBAL-TVHow AQI works and impacts running, golfing, outdoor exercise amid wildfire smoke&nbsp;&nbsp;Yahoo SportsWhat Happens to Your Lungs at Every Air Quality Level&nbsp;&nbsp;Health News HubBeyond the Lungs: Air Pollution's Impact | Newswise&nbsp;&nbsp;NewswiseHow to read the Air Quality Index (AQI) scale, and how it can help you stay safe from wildfire smoke&nbsp;&nbsp;Business Insider",
+      "sources": [
+        {
+          "name": "WBAL-TV",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SQ2NLLTRfMmo3TGtzeFZ3LUpzcHlEd3JUMkFHUkViWXVPQTRnOENDMFh6emVxOWJBdmV2WG84c2tRdXVEOUtzcUJVNkJmdm1FLXBWalpSQnN2X0ZBd0RNNTd1TF83ZWR3di1FcXBvblhRSG02eGZN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5a5429c26528",
+      "title": "Doctors reveal hidden danger for some Ozempic, Wegovy users with brain disorders - New York Post",
+      "published": "2026-07-17T10:01:00+00:00",
+      "summary": "Doctors reveal hidden danger for some Ozempic, Wegovy users with brain disorders&nbsp;&nbsp;New York PostSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON1Z4c1hydWR6WjB2SlcxSHhSemVOdlhKVTM4ZV9aQUdISmpfYUtjMFliTUxVd0dEUzFtQXMxVmhWWjNOTFJEVTBCd0xHZ2k4eDZLZ3dwTzJhU2NGSTA0OHI3M05pQzJ6Zml6M3c0SmVIOUJXaUMwRVBJN2xmeTBkSm1HZmxWSmtLeTNZMC1aczdsSy1hX3Rmd2lmN0hJOHhrb0V4MFNWR3ZxZkd4Uy1WSVFXTjczWTd4VXVkbElhMVI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "da327eb0ac11",
+      "title": "Scientists looked at Antarctica from the air. What they saw has them worried - BBC Wildlife Magazine",
+      "published": "2026-07-17T09:01:46+00:00",
+      "summary": "Scientists looked at Antarctica from the air. What they saw has them worried&nbsp;&nbsp;BBC Wildlife MagazineThe color of penguin poo: Satellites reveal the chilling truth of global warming's impact on an iconic polar species&nbsp;&nbsp;UC Santa Cruz - NewsDue to climate change: Satellite images reveal penguins' dietary shift&nbsp;&nbsp;heise onlineStony Brook researchers using NASA satellite images to study diet of Adélie penguins in Antarctica&nbsp;&nbsp;NewsdaySatellite Images of Pengiun Poo ",
+      "sources": [
+        {
+          "name": "BBC Wildlife Magazine",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS1U2aGdUSWNPR1ZDMmNQalJIeGZ3SHkzSmR5X2FEQXBqUGpBQXhfR0hWR01ZODJmU2h2eEdQYjI5SUZ0OGcycUR3UnlHR3hlczY3S0FoTkZyWlNHVkNocXJlYzlDRGx3eE1CQnFETXd1c0IwX3M5Y1JGTk9lMmhZeGsxaEhkVG82dGc?oc=5"
         }
       ]
     },
@@ -30,10 +66,22 @@
       ]
     },
     {
+      "id": "f6bdb1df1520",
+      "title": "Cyclospora outbreak: Hamilton County reports additional cases - WLWT",
+      "published": "2026-07-16T23:14:00+00:00",
+      "summary": "Cyclospora outbreak: Hamilton County reports additional cases&nbsp;&nbsp;WLWTCyclospora Outbreak: What to Know About Symptoms and Food Safety&nbsp;&nbsp;The New York TimesWhat to know about cyclosporiasis cases in D.C., Maryland and Virginia&nbsp;&nbsp;The Washington PostHere’s what Mainers need to know about the parasite contaminating fresh produce&nbsp;&nbsp;The Portland Press HeraldAre locally grown fruits and vegetables safe from cyclospora? Experts explain&nbsp;&nbsp;USA Today",
+      "sources": [
+        {
+          "name": "WLWT",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY1RwOXZnc1RTUGRMUUkwVzlOUEk1cHlVWHJLUENxdkU3ZjdhUEFtOFdLdndEQlMyejY5aWNoeVFMdzVvN1NjNWJJZExpNnJjNkUzWHFkdnBYOVZSeFA0WGMtZGgwNVdzYjA2UXp1c0UtM0FveXZ3Z08wZ1BJREZ2ZmpGcnRkWXRXY2gySw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8cc25bebdf23",
       "title": "Ebola spreading more quickly in DRC, while Uganda is close to being virus-free - Al Jazeera",
       "published": "2026-07-16T22:30:36+00:00",
-      "summary": "Ebola spreading more quickly in DRC, while Uganda is close to being virus-free&nbsp;&nbsp;Al JazeeraThe Ebola epidemic is getting out of control&nbsp;&nbsp;The EconomistWhy the fastest-growing Ebola outbreak in history is becoming more challenging&nbsp;&nbsp;AP NewsEbola deaths double in two weeks as WHO warns virus is outrunning response&nbsp;&nbsp;The Straits TimesEbola is spreading faster in eastern Congo than it can be tracked, as deaths pass 700&nbsp;&nbsp;ABC News - Breaking News, Latest N",
+      "summary": "Ebola spreading more quickly in DRC, while Uganda is close to being virus-free&nbsp;&nbsp;Al JazeeraTransport of dead bodies within Congo risks further Ebola spread, UN agency warns&nbsp;&nbsp;ReutersDRC Ebola cases surpass 2,000 as more health workers begin strike&nbsp;&nbsp;Al JazeeraWHO warns DR Congo Ebola outbreak is outpacing response as Uganda reaches milestone&nbsp;&nbsp;UN NewsEbola 'spreading faster than any previous outbreak' in DR Congo, WHO warns&nbsp;&nbsp;France 24",
       "sources": [
         {
           "name": "Al Jazeera",
@@ -45,7 +93,7 @@
       "id": "6a4668217dc6",
       "title": "Dementia Prevention Guidelines Updated—Here’s What Changed - Newsweek",
       "published": "2026-07-16T21:29:00+00:00",
-      "summary": "Dementia Prevention Guidelines Updated—Here’s What Changed&nbsp;&nbsp;NewsweekNew WHO guidelines: up to 45% of dementia risk could be prevented or delayed&nbsp;&nbsp;World Health Organization (WHO)Long-term exposure to air pollution could lead to dementia, warns WHO&nbsp;&nbsp;The Times of IndiaNew guidance offers hope for reducing the global toll of dementia&nbsp;&nbsp;UN NewsWHO chief says dementia among ‘greatest health challenges’ of our time&nbsp;&nbsp;A News",
+      "summary": "Dementia Prevention Guidelines Updated—Here’s What Changed&nbsp;&nbsp;NewsweekNew WHO guidelines: up to 45% of dementia risk could be prevented or delayed&nbsp;&nbsp;World Health Organization (WHO)Long-term exposure to air pollution could lead to dementia, warns WHO&nbsp;&nbsp;The Times of IndiaNew guidance offers hope for reducing the global toll of dementia&nbsp;&nbsp;UN NewsCould high cholesterol be a dementia driver you’re overlooking? 14 biggest risk factors revealed&nbsp;&nbsp;Fort Worth S",
       "sources": [
         {
           "name": "Newsweek",
@@ -57,11 +105,35 @@
       "id": "682bfc1a6832",
       "title": "New Jersey home meteorite fragments contain 'extraterrestrial' amino acids - 6abc Philadelphia",
       "published": "2026-07-16T20:52:06+00:00",
-      "summary": "New Jersey home meteorite fragments contain 'extraterrestrial' amino acids&nbsp;&nbsp;6abc PhiladelphiaMeteorite that crashed into a New Jersey home is a rare solar system fragment&nbsp;&nbsp;CNNMeteorite that crashed through New Jersey house could hold the clues to life's origins&nbsp;&nbsp;SpaceMeteorite that crashed into New Jersey home contains \"alien world chemistry,\" scientists say&nbsp;&nbsp;CBS NewsNew Jersey Couple Aids Meteorite Discovery After it Crashes Through Their Roof&nbsp;&nbsp;",
+      "summary": "New Jersey home meteorite fragments contain 'extraterrestrial' amino acids&nbsp;&nbsp;6abc PhiladelphiaMeteorite that crashed into New Jersey home contains \"alien world chemistry,\" scientists say&nbsp;&nbsp;CBS NewsNew Jersey Couple Aids Meteorite Discovery After it Crashes Through Their Roof&nbsp;&nbsp;The New York TimesThis Meteorite Crashed Into a New Jersey Home in 2024. Now, Scientists Say It Contains Some of the Building Blocks of Life&nbsp;&nbsp;Smithsonian MagazineMeteorite that crashed ",
       "sources": [
         {
           "name": "6abc Philadelphia",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa0xKQzN0THU0TXMwX2YwRFFLY2xIeXBFd1pHamtNa0ZFckhzenhLbU9zQWI2NHRTSWpuQzZzN2JoSnlEVHBwX2tDd2NVM2JjaWZDWmx6RGNSVFNndkhHWVM4dEh0MmJscGlhS09KV0J6Zmh3a1hTWkhpcVo0cWw2NHU1enNJUjFhQTEyeHMzT1BhdDVnVXc3M2ZxVUZNU0hVMnNrSWVaTdIBrAFBVV95cUxQdWtkWGFiMmZKRFZ6V2dEOU94SUt3Q1p3Z2R2dHVxLWdTbzY4NlYyanp6X2NQWWZUR0tfeVNBSENUMHlVSUdjR2FvTXEzeVc2NlJNZVVOTnloTHlBZGJtVFRvOTRHZHI3RWtIbVpjNld2SW9BYzRIUW5kb28xTmtnNXdrUS1DT2h5bnlaNHBBazRxUFdCWE9MVjNCbkctMkV5MnN4REc0d21ZUDVn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d8982c3e4619",
+      "title": "Graphene nanoribbons survive gamma radiation, revealing potential sensors for fusion reactors - Phys.org",
+      "published": "2026-07-16T20:23:15+00:00",
+      "summary": "Graphene nanoribbons survive gamma radiation, revealing potential sensors for fusion reactors&nbsp;&nbsp;Phys.orgQuantum materials discovery could advance electronics for extreme environments&nbsp;&nbsp;The University of ArizonaGraphene Nanoribbons for Extreme Radiation Sensors&nbsp;&nbsp;Scientific FrontlineQuantum materials breakthrough may enable electronics in extreme environments&nbsp;&nbsp;Bioengineer.org",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdjdTR21Ob2tnUXNYYlJRU0dwYU1IYjdBNTd5cTR1YWtQZnpsbFdiTy00UnpvUXJ6OGFzWkplMEU0b1NSeHlTZUpjenNXVTl4TnVpaHBsUHI3WmRZeTh1TmNRR1RldVRfRGdkVk1QS0tvbjRWdF9UNEZjeUVwVnkyV252MGpsZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "67566a44361d",
+      "title": "Brain implant helps paralysed man to feed himself and drink from cup - The Guardian",
+      "published": "2026-07-16T19:32:00+00:00",
+      "summary": "Brain implant helps paralysed man to feed himself and drink from cup&nbsp;&nbsp;The GuardianParalysed man regains hand function through novel brain technology&nbsp;&nbsp;Financial TimesA neuroprosthesis for restoring hand movement and sensation in a person with complete tetraplegia&nbsp;&nbsp;NatureParalyzed Man Feels Sensation Again With Brain Stimulation Device&nbsp;&nbsp;the-scientist.comNeurostimulation restores feeling in paralysed hand for months after&nbsp;&nbsp;New Scientist",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZVFwcnBjZUxWSjYwaV9RTVpmYXRWdm1KQ2NhbWlxVE9aM0NVSkh3NjRQQWQteDJPRHVGX2FPdnBpZjEyRHZoN2RZN2hVZkRibkJtb1E2TkRyZU5zV0YtQXZrLThXd0I3am5nallBM3BrTno4ZjNlV2VIQkRMcmExOEMxVk9aUXBub0hUN3JJLU9tNEdOZXZTQkQyWk5LYmU1eHlZQ2JTWXBfbVNLR2JlYURCSlZVMWNs?oc=5"
         }
       ]
     },
@@ -78,6 +150,18 @@
       ]
     },
     {
+      "id": "40d5c633a77c",
+      "title": "Astronomers discover 1st atmosphere around a rocky Earth-like planet in the habitable zone - Space",
+      "published": "2026-07-16T18:00:00+00:00",
+      "summary": "Astronomers discover 1st atmosphere around a rocky Earth-like planet in the habitable zone&nbsp;&nbsp;SpaceAstronomers Find an Atmosphere on a Nearby Earthlike Planet&nbsp;&nbsp;The New York TimesEarth-like exoplanet found to have an atmosphere&nbsp;&nbsp;The GuardianScientists Discover a Planet With the Most Earth-like Conditions Yet&nbsp;&nbsp;Time MagazineFirst Atmosphere Detected on a Terrestrial World&nbsp;&nbsp;Sky & Telescope",
+      "sources": [
+        {
+          "name": "Space",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSjZhU0VuQ2RuTzlycFBtZ0drMjhMV3l6Q1lham9fU1BESGVsbzFvMjlaOWR3WEp3a3AwTV9VZHFNN1E3bkljRUhSbUNtZ3JveWtXbl9jc1JNN25XR2p4YjZaNU1KcDJiRXJJdGdXYjBJTm5WVXdmV1lIR05ZMjF2YmJPUW00QUdvdnE0dFNNTjJSNVhSdnZ1LTdtWDQ0elZXUzF3YXhvN1EzT24tTmMyUTJ5bklxSUZ5Y0ZUc2gzOWFyRl9jclhQSFlpSEpNZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0611fa0f1735",
       "title": "Nobel Laureate Jennifer Doudna enters AI protein design arena - Fierce Biotech",
       "published": "2026-07-16T18:00:00+00:00",
@@ -90,6 +174,18 @@
       ]
     },
     {
+      "id": "99e6395ac376",
+      "title": "Long Sleep Hours Link to Elevated Alzheimer’s Blood Protein - Neuroscience News",
+      "published": "2026-07-16T17:27:15+00:00",
+      "summary": "Long Sleep Hours Link to Elevated Alzheimer’s Blood Protein&nbsp;&nbsp;Neuroscience NewsPoor sleep alters brain communication networks differently across adult lifespan&nbsp;&nbsp;News-MedicalUT Health San Antonio study links sleeping long hours with higher levels of an Alzheimer’s-related protein&nbsp;&nbsp;UT Health San AntonioScientists Discover a Surprising Link Between Sleep, Genes, and Alzheimer’s&nbsp;&nbsp;SciTechDailyPoor sleep affects brains differently. Especially older women&nbsp;&nb",
+      "sources": [
+        {
+          "name": "Neuroscience News",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xbFdkZTBJaUVwbGVvLWdSZ3N4a1Q0R0JQeGp0STk5aHFBNlJvd281RHFkS2NvSlZzakdLMmxiaXVpejYwN25YTFItZnZuWGlkRVRsU3V6d2lMMjBzMmlXSnMwc3NBOTZmRUMzMzVXRGNYdHczZURSTjdB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2b8aa9a758a1",
       "title": "Even Chemical Bonds Obey Einstein’s Relativity - Hackaday",
       "published": "2026-07-16T17:00:00+00:00",
@@ -98,6 +194,18 @@
         {
           "name": "Hackaday",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS0YzR3NZWkEtZ0hUOFZSMHFnTmxhYTBGWGxvdWFhZkE1QmhNVkVhTGpudTM4LW54UzNIVV9sb01aZUM3OUJ4RFBWcjNNdGZ3YURZR2d4bUVZZXFWd2gwSnFQZDZTTklHRml4SnU1T3NSWndZNFo3d2FNdHhVU1VlY1J2eUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f26310a47705",
+      "title": "The US military will now test for ‘low T.’ Here’s what your testosterone levels actually tell you - CNN",
+      "published": "2026-07-16T16:58:38+00:00",
+      "summary": "The US military will now test for ‘low T.’ Here’s what your testosterone levels actually tell you&nbsp;&nbsp;CNNOpinion | The testosterone craze fuels fear — not masculinity&nbsp;&nbsp;The Washington PostTestosterone, fatherhood, and what it means for masculinity&nbsp;&nbsp;American Institute for Boys and Men | AIBMWhy everyone is suddenly talking about testosterone – even in the White House&nbsp;&nbsp;The i PaperLow testosterone in men: symptoms, risks and what to do&nbsp;&nbsp;Irish Independen",
+      "sources": [
+        {
+          "name": "CNN",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV29KVldpWDBvYlVha1BKaklhRDE5NnBEeWZmQm8td0VIbTZHdm5DNVBuUEduTUtyNHI4RTB0QlFqUEk4aUFjQ0hab0ZGSW1rT0VPVjhXNTNTZTNVTzRLcXZ3VXZxZ3VmaW9WOEN6ZFJHenlYNk9ETExlbV9ObkRnZjNseTdxQ2xhZVZ4d210MXhkS0gz?oc=5"
         }
       ]
     },
@@ -126,10 +234,22 @@
       ]
     },
     {
+      "id": "8f5203c58f23",
+      "title": "Scientists Used Sugar to 'Trojan Horse' a Cancer Killer Into The Brain - ScienceAlert",
+      "published": "2026-07-16T12:39:33+00:00",
+      "summary": "Scientists Used Sugar to 'Trojan Horse' a Cancer Killer Into The Brain&nbsp;&nbsp;ScienceAlertThis sugar-coated therapy boosted survival against deadly brain cancer by 50% in mice&nbsp;&nbsp;ScienceDailyBreakthrough Brain Cancer Treatment Uses Sugar To Outsmart the Blood-Brain Barrier&nbsp;&nbsp;SciTechDaily",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZEs4ZTh3T2x5LUVZRUJkUk9KOEpvT2xFNk82QzJSQ19oT2ZZT0VRWldvbTlWamZYMkc1SEpiSmQxMFlFTllGNTdtQjE0S1RTMm90VmZheFRiUTRZUFVSanRJVVpnRDI2cjhBQXgyRHBwcFNuT2prY0R2dDQyY2ZWUzZTVnpveTdaZWV4TUVqRHhuTXkx?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3a39c59281a5",
       "title": "How to avoid tick bites in your yard or while hiking in the woods, and what to do if one starts feasting on you - The Conversation",
       "published": "2026-07-16T12:21:17+00:00",
-      "summary": "How to avoid tick bites in your yard or while hiking in the woods, and what to do if one starts feasting on you&nbsp;&nbsp;The ConversationTick-Related Diseases Are on the Rise. You Need Only One Repellent for Your Whole Family.&nbsp;&nbsp;The New York TimesExperts advise caution with tick numbers high in Northeast&nbsp;&nbsp;NBC New YorkThe ticks you may find in your state, and the diseases they can carry&nbsp;&nbsp;The HillIdentification and Treatment Methods for Tick Control&nbsp;&nbsp;Pest C",
+      "summary": "How to avoid tick bites in your yard or while hiking in the woods, and what to do if one starts feasting on you&nbsp;&nbsp;The ConversationTick-Related Diseases Are on the Rise. You Need Only One Repellent for Your Whole Family.&nbsp;&nbsp;The New York TimesThe ticks you may find in your state, and the diseases they can carry&nbsp;&nbsp;The HillExperts advise caution with tick numbers high in Northeast&nbsp;&nbsp;NBC New YorkIt’s peak tick season | Outdoorsy Newsletter&nbsp;&nbsp;Inquirer.com",
       "sources": [
         {
           "name": "The Conversation",
@@ -141,7 +261,7 @@
       "id": "b747b5a1cc23",
       "title": "Four first-time astronauts with only four hours of training took the first diagnostic X-rays ever captured on human beings in orbit, and radiologists on the ground judged the images clinically usable enough to catch a fracture a quarter-million miles from the neare - Space Daily",
       "published": "2026-07-16T12:01:26+00:00",
-      "summary": "Four first-time astronauts with only four hours of training took the first diagnostic X-rays ever captured on human beings in orbit, and radiologists on the ground judged the images clinically usable enough to catch a fracture a quarter-million miles from the neare&nbsp;&nbsp;Space DailySee the first x-rays of humans taken in space&nbsp;&nbsp;Scientific AmericanIn March 2025, four rookie astronauts on SpaceX's Fram2 polar mission carried a portable X-ray machine into orbit, and three of them, af",
+      "summary": "Four first-time astronauts with only four hours of training took the first diagnostic X-rays ever captured on human beings in orbit, and radiologists on the ground judged the images clinically usable enough to catch a fracture a quarter-million miles from the neare&nbsp;&nbsp;Space Daily1st-ever X-rays in space offer hope for possible patients headed to the moon&nbsp;&nbsp;SpaceIn March 2025, four rookie astronauts on SpaceX's Fram2 polar mission carried a portable X-ray machine into orbit, and ",
       "sources": [
         {
           "name": "Space Daily",
@@ -174,6 +294,18 @@
       ]
     },
     {
+      "id": "a9dc0e71d567",
+      "title": "Scientists show how sweeteners slow the growth of certain gut bacteria - News-Medical",
+      "published": "2026-07-16T11:39:00+00:00",
+      "summary": "Scientists show how sweeteners slow the growth of certain gut bacteria&nbsp;&nbsp;News-MedicalGut health, metabolism, disrupted by sweeteners – US review&nbsp;&nbsp;Juta MedicalBriefStudy finds sweeteners may alter gut bacteria in lab tests&nbsp;&nbsp;XinhuaScientists tested 39 sweeteners and found unexpected gut effects&nbsp;&nbsp;ScienceDailyMixing Sweeteners and Antidepressants Could Be Quietly Altering Your Microbiome&nbsp;&nbsp;Technology Networks",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVUFLOWxRdnNOWkVzSEVPVjdIVWxJdTdIcnFtdGpuYU5pV19keER1NExvR2IwODNHZmZLTTlpMzNrMzZHNmtOMGprcVlJeGxGbEl4LUNoTmJZSkdOWlNfTktJV1BIaFJuSFBHc3ZUNU1tdXlOcW5KTnhHRFF3a000OVdjbWZJUklHR3VQTmhwSUhfUWYtRDVoNzQxajdqVTJwRTRmcGdXYXU5YnY1Um5IUG5IZHNhMTYzRGc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4c0630a5ad2d",
       "title": "Why do astronauts’ bodies waste away? Space-station study points to mitochondria - Nature",
       "published": "2026-07-16T11:30:39+00:00",
@@ -198,10 +330,22 @@
       ]
     },
     {
+      "id": "38f9a3b8b50f",
+      "title": "Astronomers Have Found a Sugar Molecule in Deep Space for the First Time Ever - WIRED",
+      "published": "2026-07-16T09:30:00+00:00",
+      "summary": "Astronomers Have Found a Sugar Molecule in Deep Space for the First Time Ever&nbsp;&nbsp;WIREDDetection of a four-carbon sugar in interstellar space&nbsp;&nbsp;NatureA Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy&nbsp;&nbsp;The New York TimesA sugar key to the origins of life has been discovered in interstellar space&nbsp;&nbsp;CNNIn a sweet discovery, astronomers find sugar lurking in the space between stars&nbsp;&nbsp;AP News",
+      "sources": [
+        {
+          "name": "WIRED",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcHUtQ2JSdTFwRjZ2YldCZWpHVnB2a0ZFb2VCOUJ5ODFoNlBsZzBzM3Z6SkU4ZVBLSWJvV21xbkkwRUY1YW5HaXJQbktKTGNRbHlkb0JhRG8tajB0NUd1S25ydzJkUWlCUlNUVkk2TnR2bXF3eTJiT1A4MTFURjJCdg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4e76b4c7a05e",
       "title": "A Vaccine to Prevent Pancreatic Cancer in High-risk Individuals Was Safe and Elicited Durable Immune Responses - American Association for Cancer Research (AACR)",
       "published": "2026-07-16T05:01:32+00:00",
-      "summary": "A Vaccine to Prevent Pancreatic Cancer in High-risk Individuals Was Safe and Elicited Durable Immune Responses&nbsp;&nbsp;American Association for Cancer Research (AACR)Safe vaccine triggers durable immune responses to prevent pancreatic cancer in high-risk people&nbsp;&nbsp;Bioengineer.orgAnirban Maitra։ KRAS-Targeted Vaccine Feasibility in High-Risk Individuals for Pancreatic Cancer&nbsp;&nbsp;OncodailyFrom Treatment to Prevention: How Vaccines Are Reshaping the Fight Against Pancreatic Cancer",
+      "summary": "A Vaccine to Prevent Pancreatic Cancer in High-risk Individuals Was Safe and Elicited Durable Immune Responses&nbsp;&nbsp;American Association for Cancer Research (AACR)HOMETOWN HEALTH: New vaccine could prevent pancreatic cancer in high risk patients&nbsp;&nbsp;WDBJ7Anirban Maitra։ KRAS-Targeted Vaccine Feasibility in High-Risk Individuals for Pancreatic Cancer&nbsp;&nbsp;OncodailyFrom Treatment to Prevention: How Vaccines Are Reshaping the Fight Against Pancreatic Cancer&nbsp;&nbsp;American As",
       "sources": [
         {
           "name": "American Association for Cancer Research (AACR)",
@@ -213,7 +357,7 @@
       "id": "346c2569738c",
       "title": "Ketogenic diet mediates intestinal tumorigenesis through lipids not ketones - Nature",
       "published": "2026-07-15T22:24:46+00:00",
-      "summary": "Ketogenic diet mediates intestinal tumorigenesis through lipids not ketones&nbsp;&nbsp;NatureCould The Keto Diet Be Fueling Cancer? New Study Challenges Popular Theory&nbsp;&nbsp;ScienceAlert🍴 The ketogenic diet could promote certain tumors&nbsp;&nbsp;Techno-Science.netThe keto diet might increase your small intestine cancer risk: study&nbsp;&nbsp;New York PostCould the keto diet be increasing your cancer risk?&nbsp;&nbsp;WNCT",
+      "summary": "Ketogenic diet mediates intestinal tumorigenesis through lipids not ketones&nbsp;&nbsp;NatureScientists Fed Mice a Keto Diet – And Got Completely Contrasting Cancer Results in The Same Animal&nbsp;&nbsp;ScienceAlertThe keto diet might increase your small intestine cancer risk: study&nbsp;&nbsp;New York PostCould the keto diet be increasing your cancer risk?&nbsp;&nbsp;WNCTKeto Lovers, Read This: New Study Says Your Diet Might Be Feeding Cancer&nbsp;&nbsp;Vocal",
       "sources": [
         {
           "name": "Nature",
@@ -258,22 +402,10 @@
       ]
     },
     {
-      "id": "89d13d3eab28",
-      "title": "Former smokers who vape face higher lung cancer and death risks, study finds - Ynetnews",
-      "published": "2026-07-15T19:13:22+00:00",
-      "summary": "Former smokers who vape face higher lung cancer and death risks, study finds&nbsp;&nbsp;YnetnewsE-cigarette Regulatory Gaps and Substance Use Recovery&nbsp;&nbsp;Psychology TodayThe Hidden Chemicals Lurking in E-Cigarettes&nbsp;&nbsp;Mega Doctor NewsWhat science shows about e-cigarette risks&nbsp;&nbsp;Axios",
-      "sources": [
-        {
-          "name": "Ynetnews",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiMm4teVYwOEtNaGhTNkYzU2dYaTVNTDIxSzNmTzl5VWtNNXlyYWctSFVUc19uNDQtUWlXd1dOTUpxZTVYMzVoUUIyUl9wc3V5clVGZ3RiU2RGa0FFYkEtVzZsY3RIQ3QtX0E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0eb04b5f2d5f",
       "title": "Blood Test Accurately Predicts Five-Year Alzheimer’s Risk - Neuroscience News",
       "published": "2026-07-15T18:42:36+00:00",
-      "summary": "Blood Test Accurately Predicts Five-Year Alzheimer’s Risk&nbsp;&nbsp;Neuroscience NewsAlzheimer’s Blood Tests Offer New Promise to Diagnose and Predict the Disease&nbsp;&nbsp;The New York TimesNew Alzheimer’s blood test may be promising but is not yet ready for widespread use&nbsp;&nbsp;CNNImprovements in Alzheimer’s testing could make diagnostics more accessible, informative&nbsp;&nbsp;STATBlood Test Could Diagnose Alzheimer’s and Predict Symptoms 5 to 10 Years Before They Begin&nbsp;&nbsp;Peop",
+      "summary": "Blood Test Accurately Predicts Five-Year Alzheimer’s Risk&nbsp;&nbsp;Neuroscience NewsAlzheimer’s Blood Tests Offer New Promise to Diagnose and Predict the Disease&nbsp;&nbsp;The New York TimesBlood Test May Predict Alzheimer's Symptoms Up to a Decade Early&nbsp;&nbsp;MedPage TodayNew Alzheimer’s blood test may be promising but is not yet ready for widespread use&nbsp;&nbsp;CNNImprovements in Alzheimer’s testing could make diagnostics more accessible, informative&nbsp;&nbsp;STAT",
       "sources": [
         {
           "name": "Neuroscience News",
@@ -285,7 +417,7 @@
       "id": "347b14fc1357",
       "title": "T. rex babies were born ready to run and feed themselves - Phys.org",
       "published": "2026-07-15T18:40:03+00:00",
-      "summary": "T. rex babies were born ready to run and feed themselves&nbsp;&nbsp;Phys.orgSmall, Cheap, and Full of Teeth: Baby Tyrannosaurs Were Plentiful and Precocious&nbsp;&nbsp;Yahoo'Vanishingly Rare' Discovery: T. Rex Hatchlings Were Smaller Than a Cat And Born by The Dozen&nbsp;&nbsp;ScienceAlertRare fossils suggest baby tyrannosaurs were active soon after hatching, walking early and possibly hunting small vertebrates with limited parental care&nbsp;&nbsp;The Times of IndiaBaby T. rex were out of the n",
+      "summary": "T. rex babies were born ready to run and feed themselves&nbsp;&nbsp;Phys.orgNewly-Hatched T. Rex Babies Came Out Of The Egg Ready To Chase Their Own Food&nbsp;&nbsp;IFLScience'Vanishingly Rare' Discovery: T. Rex Hatchlings Were Smaller Than a Cat And Born by The Dozen&nbsp;&nbsp;ScienceAlertSmall, Cheap, and Full of Teeth: Baby Tyrannosaurs Were Plentiful and Precocious&nbsp;&nbsp;NautilusRare fossils suggest baby tyrannosaurs were active soon after hatching, walking early and possibly hunting s",
       "sources": [
         {
           "name": "Phys.org",
@@ -309,11 +441,23 @@
       "id": "9e778d4fa8d5",
       "title": "New study reveals editorial trends at top science journals - Phys.org",
       "published": "2026-07-15T18:00:30+00:00",
-      "summary": "New study reveals editorial trends at top science journals&nbsp;&nbsp;Phys.orgSee more headlines & perspectives on Google News",
+      "summary": "New study reveals editorial trends at top science journals&nbsp;&nbsp;Phys.orgChinese authors far less likely to be published in top journals&nbsp;&nbsp;Times Higher EducationSweeping Analysis Opens ‘Black Box’ of Academic Publishing | Newswise&nbsp;&nbsp;NewswiseSweeping analysis shows prestige, topic and location matter most to get research published&nbsp;&nbsp;Phys.org",
       "sources": [
         {
           "name": "Phys.org",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONEdJZFNzUjJGZGxwQkJWSE15YXVFUGpkeFNpZUFjSzhLOXg4VHdfVnltY0Fpd0ItbGU4NGRrcGlqMmt3bnZyQWpLMVp5TXhDeGFWMzFjVWxkeV9TcHc1U1BQdUpGQmY3TXo1bFpIOWJJRnBQRk1HWHllVmNkNUVUblh3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "21f4f238a5c5",
+      "title": "My Mother Had Alzheimer’s. That’s Why I Started a GLP-1 at 48 - Medscape",
+      "published": "2026-07-15T17:48:49+00:00",
+      "summary": "My Mother Had Alzheimer’s. That’s Why I Started a GLP-1 at 48&nbsp;&nbsp;Medscape",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSEtqVko0TGV1RFhYUVA0NW5yYUZDTm1rOFJ4X3lBZEhUZHZvY0s4SUFYN19oZ0VTdHFvSUVNTU94Z2xfQTZLNHFSVUFnQ0VZd182dUxhQUp6QnotRHF5MmQ5TkZKM1l2SkJGcU5MVDJZU2Zua1RoWU0tUUUyUDhQdjJYUmFhUUdZaE5uZlpILVVHUDN1Si1wUXNoN2FxdGxQ?oc=5"
         }
       ]
     },
@@ -357,35 +501,11 @@
       "id": "0f402134b282",
       "title": "Losing Just 80 Minutes of Sleep Could Cause Weight Gain, New Study Finds - EatingWell",
       "published": "2026-07-15T14:57:06+00:00",
-      "summary": "Losing Just 80 Minutes of Sleep Could Cause Weight Gain, New Study Finds&nbsp;&nbsp;EatingWellLosing just 80 minutes of sleep a night could make you gain weight&nbsp;&nbsp;ScienceDailySleep on this: How staying up for FIFA World Cup games could make you fat&nbsp;&nbsp;FirstpostLost Sleep Leads to Weight Gain&nbsp;&nbsp;LabrootsThe common sleep mistake that could be affecting your health&nbsp;&nbsp;Telegraph and Argus",
+      "summary": "Losing Just 80 Minutes of Sleep Could Cause Weight Gain, New Study Finds&nbsp;&nbsp;EatingWellThe common sleep mistake that could be affecting your health&nbsp;&nbsp;Telegraph and ArgusLost Sleep Leads to Weight Gain&nbsp;&nbsp;LabrootsLet Me Help: Poor sleep linked to weight gain&nbsp;&nbsp;News Channel 5 NashvilleGetting Less Sleep Than You Think You Need? Here Is What Six Weeks of Mild Sleep Loss Does to Your Body&nbsp;&nbsp;Medical Daily",
       "sources": [
         {
           "name": "EatingWell",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBIYWFvb0gtUEZpaEdjVE9rNkZxVFUzOFVRNFB1SFY0VXZKX3ItWnhlZk1PRXNzamhGdWxIREJZSzZ2Y1h5Q0p4MUNZQnpVd2hVZ282X1QzTHJOeHhmZXFDWnJqRDRISFVIU2RuSlMxc3ljaEZOdkFFeXNjOXQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c79f502274ea",
-      "title": "Could vitamin B3 prevent silent thief from stealing vision? New study finds protective effects against glaucoma - Medical Xpress",
-      "published": "2026-07-15T13:40:07+00:00",
-      "summary": "Could vitamin B3 prevent silent thief from stealing vision? New study finds protective effects against glaucoma&nbsp;&nbsp;Medical XpressHigh Eye Pressure? Vitamin B3 May Shield Against Glaucoma&nbsp;&nbsp;MedscapeVitamin B3 Cuts Glaucoma Risk by Two-Thirds in Largest Real-World Study&nbsp;&nbsp;Tech Times",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93TlJuMWxrRDZpTGdpMDVnYmltUE5KTHR5WUQ0MVZHSnk5WjZzUkRrbm9yU3J6VnJhVldaeEJCbHR0cy02N005dGs0RmFvX2xUNGh3eFRJaHdLNFY0dkFWczFYQy1GZlBEWnh0dThRSEczQWhCeGxhQmxnNkwySlU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8ff81794e90c",
-      "title": "The Epicenter of Drug Deaths in America Is Shifting West - The New York Times",
-      "published": "2026-07-15T09:01:37+00:00",
-      "summary": "The Epicenter of Drug Deaths in America Is Shifting West&nbsp;&nbsp;The New York Times",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcVRGNzRlRHVDVEplM1dIQVdxa2F4SHhjcUtjaDJ3bFN4VFU1bGtDV0hVaGNFRlBGN0ZjaURJQjRJbmNDYTBMNkhNV0dHejVial9wOVAyUmx0UkFNQlpKMjMxdHJkaXRaQUtNaDZjejFxTW5PUmg3SVpId2M0aXlDcXN2aUMyYVlWNjJuVEJIRjM?oc=5"
         }
       ]
     }

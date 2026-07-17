@@ -1,19 +1,55 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-07-17T02:50:34.824562+00:00",
-  "total_fetched": 102,
-  "unique_count": 102,
-  "health_related_count": 41,
+  "fetched_at": "2026-07-17T08:13:46.014421+00:00",
+  "total_fetched": 94,
+  "unique_count": 94,
+  "health_related_count": 32,
   "news": [
     {
-      "id": "f6bdb1df1520",
-      "title": "Cyclospora outbreak: Hamilton County reports additional cases - WLWT",
-      "published": "2026-07-16T23:14:00+00:00",
-      "summary": "Cyclospora outbreak: Hamilton County reports additional cases&nbsp;&nbsp;WLWTCyclospora Outbreak: What to Know About Symptoms and Food Safety&nbsp;&nbsp;The New York TimesCases rise of severe diarrhea parasite in Virginia&nbsp;&nbsp;WAVY.comIt’s The Water, Not Produce, Likely Driving Cyclospora Outbreaks&nbsp;&nbsp;ForbesWisconsin reports 61 cyclosporiasis cases, mostly from international travel&nbsp;&nbsp;Channel 3000",
+      "id": "f423bcab6857",
+      "title": "A Pitt professor breaks down what to know about the diarrhea-causing cyclosporiasis - Pittsburgh Post-Gazette",
+      "published": "2026-07-17T06:28:34+00:00",
+      "summary": "A Pitt professor breaks down what to know about the diarrhea-causing cyclosporiasis&nbsp;&nbsp;Pittsburgh Post-GazetteDomestically Acquired Cyclosporiasis Cases in Multiple U.S. States, 2026 | HAN&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)How Portland restaurants are responding to the cyclosporiasis outbreak&nbsp;&nbsp;The Portland Press HeraldCyclospora Outbreak: What to Know About Symptoms and Food Safety&nbsp;&nbsp;The New York TimesNo, You Shouldn’t Avoid Fruits and V",
       "sources": [
         {
-          "name": "WLWT",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY1RwOXZnc1RTUGRMUUkwVzlOUEk1cHlVWHJLUENxdkU3ZjdhUEFtOFdLdndEQlMyejY5aWNoeVFMdzVvN1NjNWJJZExpNnJjNkUzWHFkdnBYOVZSeFA0WGMtZGgwNVdzYjA2UXp1c0UtM0FveXZ3Z08wZ1BJREZ2ZmpGcnRkWXRXY2gySw?oc=5"
+          "name": "Pittsburgh Post-Gazette",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS0duWThEa201dXdMSDhGSGRCbi1iSlR3UVZ0WUUwS0dZNmVLTjMyTk5CSVRTaU9FSUFBN2RlOExKSVJHY0ZueFhlTWp6QWVQOTBOemx6X3dJamh5NmdMLWZhdTNRakxxaUpNNUlybVpTXy1JWTdvaUI4NllmUlFLcVltbG93MWZZcDFVRlFSUWVoTEd4SVRrZFd0cnBtc0ZzV19GTGZn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "24d52d5cff87",
+      "title": "Exclusive | Bill Essayli calls for investigation after rare cancer diagnoses rattle Orange County families - New York Post",
+      "published": "2026-07-17T00:18:00+00:00",
+      "summary": "Exclusive | Bill Essayli calls for investigation after rare cancer diagnoses rattle Orange County families&nbsp;&nbsp;New York PostChild cancer cases in and near Ladera Ranch spark calls for toxic pesticides ban&nbsp;&nbsp;NBC Los Angeles6 Children In California Community Diagnosed With Ewing Sarcoma, Sparking Fears Of Cancer Cluster&nbsp;&nbsp;VINnews1 Teen Dies, 5 Other Kids Sickened in Rare Cancer Cluster: ‘Something Must Be Causing It, Right?’&nbsp;&nbsp;People.comExtremely rare cancer strik",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMUxHbVgtNkxXUVFJdnBqQ3RkZzI2MFlGMktmSE1pMFE4UEZ2VWlZcDBHUnhtajlZTkxTWF9fRW8wbEl3UlJkcFdOY2FfU1Q2RmxGTGRVbGdGZmpRSGQzOWFPQnBodGJQYV9oejhCMTdIc2NVelplaTd6WkVwdVJ5d0JRV001N0FmYmxTbGZ5UjM4ajNPM25DdllYT1draGxOczRrOU9FNFFueFNRVXU0R2l2TW4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8cc25bebdf23",
+      "title": "Ebola spreading more quickly in DRC, while Uganda is close to being virus-free - Al Jazeera",
+      "published": "2026-07-16T22:30:36+00:00",
+      "summary": "Ebola spreading more quickly in DRC, while Uganda is close to being virus-free&nbsp;&nbsp;Al JazeeraThe Ebola epidemic is getting out of control&nbsp;&nbsp;The EconomistWhy the fastest-growing Ebola outbreak in history is becoming more challenging&nbsp;&nbsp;AP NewsEbola deaths double in two weeks as WHO warns virus is outrunning response&nbsp;&nbsp;The Straits TimesEbola is spreading faster in eastern Congo than it can be tracked, as deaths pass 700&nbsp;&nbsp;ABC News - Breaking News, Latest N",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVnRzOU1mYjVsbDN3QzQ3UlZlcm1LZEdCQ05IeTduWkRCbW5KYTJSaW5GZ0ZkVWtOTDFRQmhxNE1MQVp6TG5vOU1qWEhwOWh0Y0Y1OUZrVVNzVDlyU1BfQUNKRUNxT3dvVWItajkyX1BKOURCZVZhUW5zdXh6LVhzQzZBQVhiSkdKbVFZbXhPZVFLODdvMmh5OGc4NWN2bWI3aEJUR1E0ZmtncUNqU0pNdkJaaVd4Y2NWbEHSAb8BQVVfeXFMUElwRG45b25GV3FMcGZmMTFxcDljQmtEenRQMnJuM2ZYN1FpVE1IVUllbGpuczlabmFYZEhaTkY1X3BhUTJVMnl0WVdUNzd1VTZyMy10Wk1WOVRlT3ZIOXptNDgzUjFrVmdTN3F4MGNzeEhmLUNnUm5EMUJqSHVETjQ3SjM3MWtuZFhJZDZlSTg1UHR0ZEtLQ05MVmphSnRpQ19IUkpSNHptOVQ0RE9rb2RzZUpxeG93a0hCaV9QU0k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6a4668217dc6",
+      "title": "Dementia Prevention Guidelines Updated—Here’s What Changed - Newsweek",
+      "published": "2026-07-16T21:29:00+00:00",
+      "summary": "Dementia Prevention Guidelines Updated—Here’s What Changed&nbsp;&nbsp;NewsweekNew WHO guidelines: up to 45% of dementia risk could be prevented or delayed&nbsp;&nbsp;World Health Organization (WHO)Long-term exposure to air pollution could lead to dementia, warns WHO&nbsp;&nbsp;The Times of IndiaNew guidance offers hope for reducing the global toll of dementia&nbsp;&nbsp;UN NewsWHO chief says dementia among ‘greatest health challenges’ of our time&nbsp;&nbsp;A News",
+      "sources": [
+        {
+          "name": "Newsweek",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdnF6NENLaUFVdThyR09sY3htWnAtWWtkVmE3MEJpcTBTQXpoYkpheXZEVzNuTlFTTlVJd1BrekRETGo0Nk1HX1dTZVdvRjh0Q0pqX212NHFnWTRhWk9HNmpNeDB0MHVZY3RMMWpNNjBXMDRzbldVTXpPVlBxQzdyWGxkSnNjcXpac3RiU0pKem03eFdkNFE?oc=5"
         }
       ]
     },
@@ -21,7 +57,7 @@
       "id": "682bfc1a6832",
       "title": "New Jersey home meteorite fragments contain 'extraterrestrial' amino acids - 6abc Philadelphia",
       "published": "2026-07-16T20:52:06+00:00",
-      "summary": "New Jersey home meteorite fragments contain 'extraterrestrial' amino acids&nbsp;&nbsp;6abc PhiladelphiaMeteorite that crashed into a New Jersey home is a rare solar system fragment&nbsp;&nbsp;CNNMeteorite that crashed into New Jersey home contains \"alien world chemistry,\" scientists say&nbsp;&nbsp;CBS NewsThis Meteorite Crashed Into a New Jersey Home in 2024. Now, Scientists Say It Contains Some of the Building Blocks of Life&nbsp;&nbsp;Smithsonian MagazineMeteorite that crashed through New Jers",
+      "summary": "New Jersey home meteorite fragments contain 'extraterrestrial' amino acids&nbsp;&nbsp;6abc PhiladelphiaMeteorite that crashed into a New Jersey home is a rare solar system fragment&nbsp;&nbsp;CNNMeteorite that crashed through New Jersey house could hold the clues to life's origins&nbsp;&nbsp;SpaceMeteorite that crashed into New Jersey home contains \"alien world chemistry,\" scientists say&nbsp;&nbsp;CBS NewsNew Jersey Couple Aids Meteorite Discovery After it Crashes Through Their Roof&nbsp;&nbsp;",
       "sources": [
         {
           "name": "6abc Philadelphia",
@@ -38,18 +74,6 @@
         {
           "name": "Fortune",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QMFprQTdsWFFveWdRaG9NNm13cFh1R2FRbEphMXRIdmRMRG1VUXBvWUpCYy1PYnE5d1BNdDBuYTdpS1BxX3pPdnA4SUdqX2F0R245UUdOWlZ2cHE0UGl5Q1UwbmM5N1pmNWg4Wmsta2xXY3l6S3JYTnJWYWtCMnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a348aee021bd",
-      "title": "Second rare cancer strain emerges as Southern California cluster grows - New York Post",
-      "published": "2026-07-16T18:49:00+00:00",
-      "summary": "Second rare cancer strain emerges as Southern California cluster grows&nbsp;&nbsp;New York PostChild cancer cases in and near Ladera Ranch spark calls for toxic pesticides ban&nbsp;&nbsp;NBC Los Angeles1 Teen Dies, 5 Other Kids Sickened in Rare Cancer Cluster: ‘Something Must Be Causing It, Right?’&nbsp;&nbsp;People.comExclusive | Bill Essayli calls for investigation after rare cancer diagnoses rattle Orange County families&nbsp;&nbsp;New York Post6 Children In California Community Diagnosed Wit",
-      "sources": [
-        {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUWotVWdrSGVXd2s0QkkyclBGLVFSM3Nxb19MLVpQQXhBSUlfQkNudU1sNnVYd05paDZ4UFB4eHBxWm5VRnFGX0x1dk1PX1Y3enVOMXdDVndkUlMzTFFLaVZXSVhqb0dROHNRLTh5U05ENW95YjZsODBLdndUSGlPTy1aRV90Y0plMGZ2dG5TRnNZeUJ4dGYweURsSkN6VWQzX2F6WnFtam9BeHp6VGc?oc=5"
         }
       ]
     },
@@ -86,6 +110,18 @@
         {
           "name": "The Times of India",
           "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQaGFHNHJ3Uk1wcTBvUkZneW5lQlpJVFp6X2lDNEtib1RFd0VRZWhmWk1PNzA4Sk05M2hqUmtyRXVWZDg5cjVYR1NhcGJybHhQemhVV21pdEI2aC12R1lYRXpiTjFpRVM1QzU1ZlA4T3hWbWFmWDFRZEc0WlBiR2pCTmdUcEFKV0dZamU1NXBpSWxQQTZaMHNrV3dEbWdmRU1GUFl5NlNrVFptTmwwY01WQllQTzBIRGU0T1d5cXJEMEctNFZCXzlwck52S3NreG5Mb0pkM1VUbjZydENid2FrSjJ6SjJHN0RvdFJiN2ZZb0JKbVBqNUtpSU9vTUFwYnQtUk9vM1YwaVFiNTZSWjhfcm1MRWVmRXU1NC1KaXItZzRjRGtVR25LM08wYllaTGl2Q2Y2b0NHTjNwdnYtWFhrYWJsRzFIVGpHMUJZWnluaE0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d1b2df2da622",
+      "title": "Listening to 'ringing' black holes unlocks future gravitational-wave astronomy - Phys.org",
+      "published": "2026-07-16T14:10:01+00:00",
+      "summary": "Listening to 'ringing' black holes unlocks future gravitational-wave astronomy&nbsp;&nbsp;Phys.orgSuper-loud gravitational waves offer a new way to study black hole event horizons&nbsp;&nbsp;Physics WorldGravitational waves: We are about to hear echoes in the fabric of space for the first time&nbsp;&nbsp;New ScientistStrange gravitational waves may reveal dark matter near merging black holes&nbsp;&nbsp;The Brighter Side of NewsAstronomers decode the ‘ringing’ of black holes&nbsp;&nbsp;Tech Explo",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUTNRc1pTdlN5WUZ2aWdTRHBWX2EwdU1ERkFVQ01tOUY3SFI0TE5hRXdrdUJDWVBONjNMaEpRZzVvZFYwZjB3b1c5LTl0dHJfOVpsNFYwTHByQ0hYSEpBR2hwbVNJbzNBQThtZE1FZTlFS3JJaGN3Y3dEY0NLazY5QzMxRQ?oc=5"
         }
       ]
     },
@@ -162,22 +198,10 @@
       ]
     },
     {
-      "id": "5584e465a05a",
-      "title": "US approves deployment of giant space mirror to illuminate Earth after dark - Dezeen",
-      "published": "2026-07-16T08:30:00+00:00",
-      "summary": "US approves deployment of giant space mirror to illuminate Earth after dark&nbsp;&nbsp;DezeenOpinion | Goodbye Darkness, My Old Friend&nbsp;&nbsp;WSJU.S. approval of a controversial satellite has scientists asking: Who’s really in charge of space?&nbsp;&nbsp;Scientific AmericanThe US Approves Launch of Mirror Satellite That Can Reflect Sunlight and Illuminate the Earth at Night&nbsp;&nbsp;WIREDFCC approves startup’s space mirror to reflect sunlight to dark parts of Earth&nbsp;&nbsp;The Hill",
-      "sources": [
-        {
-          "name": "Dezeen",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd2k5UkVPR1lqRHV4d3lPOERTemNUemNsU3h1TTI1ZVpzc0FTcm81YXd0dkFCaHBEdUFqMTdVaXRwbVpUbmQ0YUNzb2taaEd4VnJ4QjVXY0pQV2hDMHVFdU1CTVY3ZDRCTFhab0dWTXBYUVlJVWRfMGh3ODJiM3haZzln?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4e76b4c7a05e",
       "title": "A Vaccine to Prevent Pancreatic Cancer in High-risk Individuals Was Safe and Elicited Durable Immune Responses - American Association for Cancer Research (AACR)",
       "published": "2026-07-16T05:01:32+00:00",
-      "summary": "A Vaccine to Prevent Pancreatic Cancer in High-risk Individuals Was Safe and Elicited Durable Immune Responses&nbsp;&nbsp;American Association for Cancer Research (AACR)From Treatment to Prevention: How Vaccines Are Reshaping the Fight Against Pancreatic Cancer&nbsp;&nbsp;American Association for Cancer Research (AACR)Anirban Maitra։ KRAS-Targeted Vaccine Feasibility in High-Risk Individuals for Pancreatic Cancer&nbsp;&nbsp;OncodailyExperimental KRAS Vaccine Generates Immune Response Against Pan",
+      "summary": "A Vaccine to Prevent Pancreatic Cancer in High-risk Individuals Was Safe and Elicited Durable Immune Responses&nbsp;&nbsp;American Association for Cancer Research (AACR)Safe vaccine triggers durable immune responses to prevent pancreatic cancer in high-risk people&nbsp;&nbsp;Bioengineer.orgAnirban Maitra։ KRAS-Targeted Vaccine Feasibility in High-Risk Individuals for Pancreatic Cancer&nbsp;&nbsp;OncodailyFrom Treatment to Prevention: How Vaccines Are Reshaping the Fight Against Pancreatic Cancer",
       "sources": [
         {
           "name": "American Association for Cancer Research (AACR)",
@@ -186,22 +210,10 @@
       ]
     },
     {
-      "id": "7a66118696f2",
-      "title": "Case of cyclosporiasis confirmed in Hawaii visitor - Hawaii News Now",
-      "published": "2026-07-16T01:54:00+00:00",
-      "summary": "Case of cyclosporiasis confirmed in Hawaii visitor&nbsp;&nbsp;Hawaii News NowHawaii officials confirm cyclospora case in visitor; say risk to residents is low&nbsp;&nbsp;Honolulu Star-AdvertiserShop locally to help prevent the bringing the national cyclosporiasis outbreak to Hawaii&nbsp;&nbsp;KITVOne cyclospora case confirmed in Hawaii, but risk remains low&nbsp;&nbsp;KHON2Cyclosporiasis confirmed in Hawaii visitor&nbsp;&nbsp;Spectrum News",
-      "sources": [
-        {
-          "name": "Hawaii News Now",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbnpQMDAyMEgxR1JUUzNjSm9OcFBwRlhYUTFHZWRZVl9nbF9VbG1zUnZVa1dZSU1meXpSMWpmRkRjcGx5djdKOWI4dXJsY3FuVTVOMjRmQ0d3Y25WUWlDLWRCdGFkOThxMzl6ZFBZN3ZHNzBlS09LR3hDcWx6Vy1KaTQ0bmhKeGhzMU1XNU5zWdIBowFBVV95cUxNS3lVVTdlVXBPOGJvVFhnZFRUeVRhRjJ2NkRFaG8tcGRfYzhTMzJkN0U1YTNnbEZTNUJYYnpVTkh4d0xfMEYtRVVvcDR4VkNENjd5dDRxWVFleXdxQjlsQzNEVktJVm1iZVpSNHRsUXUwWkJ3WjBqVTFaTzJNMDd1dUk0NWo4TTViN3o5Rm1MVkZudjNiSlRwQmFFSDhPY3VKVWdR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "346c2569738c",
       "title": "Ketogenic diet mediates intestinal tumorigenesis through lipids not ketones - Nature",
       "published": "2026-07-15T22:24:46+00:00",
-      "summary": "Ketogenic diet mediates intestinal tumorigenesis through lipids not ketones&nbsp;&nbsp;NatureKetogenic diets may increase cancer risk in the small intestine&nbsp;&nbsp;MIT NewsCould The Keto Diet Be Fueling Cancer? New Study Challenges Popular Theory&nbsp;&nbsp;ScienceAlert🍴 The ketogenic diet could promote certain tumors&nbsp;&nbsp;Techno-Science.netThe keto diet might increase your small intestine cancer risk: study&nbsp;&nbsp;New York Post",
+      "summary": "Ketogenic diet mediates intestinal tumorigenesis through lipids not ketones&nbsp;&nbsp;NatureCould The Keto Diet Be Fueling Cancer? New Study Challenges Popular Theory&nbsp;&nbsp;ScienceAlert🍴 The ketogenic diet could promote certain tumors&nbsp;&nbsp;Techno-Science.netThe keto diet might increase your small intestine cancer risk: study&nbsp;&nbsp;New York PostCould the keto diet be increasing your cancer risk?&nbsp;&nbsp;WNCT",
       "sources": [
         {
           "name": "Nature",
@@ -218,18 +230,6 @@
         {
           "name": "Medical Xpress",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbmlsTTRVR2M4ZFUwMGpvcU1qMGo5eHFNRURSenJnTjBiblh1ZWkyS1FkeVBUbDdBNHNiODV6ZENnbV80eWszRWRYYVpqdTRBYmh1OWZGX3pMYnpWV0FPREFfbGNPYVc5bWNSWFpoMXdQd2VIVkF5WXhXWGFOY1hlQ3ZpamVRakdT?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9abf8e0308af",
-      "title": "Reducing ultra-processed foods could prevent thousands of heart disease deaths, study suggests - The Guardian",
-      "published": "2026-07-15T22:01:00+00:00",
-      "summary": "Reducing ultra-processed foods could prevent thousands of heart disease deaths, study suggests&nbsp;&nbsp;The GuardianCutting ultra-processed food consumption by half prevents thousands of deaths&nbsp;&nbsp;The IndependentUltra-processed foods ‘may be linked to a quarter of heart disease’&nbsp;&nbsp;The TelegraphThe everyday foods in your shopping basket scientists say may be linked to a quarter of heart disease&nbsp;&nbsp;GB News‘I’m a dietitian – 17 realistic food swaps I make to eat fewer UPF",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZlJWRUEyMW9oRTktZ3Z0ZkR6cTFfaVVVcm8wVjl5NXZxMnlFVFdFWFBocWdsb1NZQks2TnBQbHFCX3pQOXhPY0Q2bmdpUkpPQzdab0JqS0NhOUJDQmZpXzNCbFJsTXNSN0ZXQ2dSZHVDM2NpVkhoWEg3b0Juc3NVbTZnTGU1NWI1Y3p5RG9PUWNEVUtOR1VUaTZodVA2ZjZMZ2tpVjZMTDNCZjl3eGdrMGdWbm5GUVBRVWt5RU5zT3NuM0thNnpJMklULWIxOEg4QWFfV2RuNms?oc=5"
         }
       ]
     },
@@ -254,18 +254,6 @@
         {
           "name": "The Guardian",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSXNWSmpfdHc2YVJ0NmtZenp4WnJhQVFXWnZ5aUVKRVFWQ0s5OEp4Q2t1ak16eVhyM3FGR2JXZFdsWlNDNjJrMWZEU2ZaZnd0cUpQRzA3Y3dmN3NiM2h2QnNhOGhaeTgwNi10a0FNTy1ZMEVQTmhKSUJLUTRNblk5MnBiSlJxSk1xMHNYNnJwd3RpdTRhbmJsYkpPMnlpemRPdGdKQkNwVlZscDBwZlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "704e357657b1",
-      "title": "Biologists pinpoint how common virus triggers multiple sclerosis - Nature",
-      "published": "2026-07-15T19:35:48+00:00",
-      "summary": "Biologists pinpoint how common virus triggers multiple sclerosis&nbsp;&nbsp;NatureFrom ‘kissing disease’ to MS: Harvard study uncovers how a common virus triggers multiple sclerosis&nbsp;&nbsp;The Boston GlobeNew study untangles how Epstein-Barr viral infection triggers immune response in multiple sclerosis&nbsp;&nbsp;STATBest treatment for multiple sclerosis may be antivirals&nbsp;&nbsp;New ScientistVirus Response Insights Offer MS Treatment Hope&nbsp;&nbsp;Inside Precision Medicine",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsdkczV3FKZkRVY3B2ZzJBd3JKalMzZFBDRFYwMWdBamcyeEo0bUswd0NYMXpPX01fN2FOb3BBNzh4MzdxNnBzTk9uU3BqaWh2SmhtNVdYbWQzcWx1aDQ4?oc=5"
         }
       ]
     },
@@ -306,14 +294,14 @@
       ]
     },
     {
-      "id": "ff5d7f233c03",
-      "title": "A Sensible New Yorker’s Guide to Legionella Season - Curbed",
-      "published": "2026-07-15T18:31:01+00:00",
-      "summary": "A Sensible New Yorker’s Guide to Legionella Season&nbsp;&nbsp;CurbedLegionnaires' outbreak: 76 buildings ordered to clean cooling towers, including the Met&nbsp;&nbsp;ABC7 New YorkThe Met, Guggenheim, schools, banks and more test positive for Legionella&nbsp;&nbsp;PIX11New cases slow in NYC Legionnaires’ disease outbreak; Met museum among buildings with positive tests&nbsp;&nbsp;NBC NewsUWS Building’s Hot Water System Tests Positive for Legionella Bacteria, Memo Shows&nbsp;&nbsp;West Side Rag",
+      "id": "53cea56fb8ce",
+      "title": "New study untangles how Epstein-Barr viral infection triggers immune response in multiple sclerosis - STAT",
+      "published": "2026-07-15T18:19:07+00:00",
+      "summary": "New study untangles how Epstein-Barr viral infection triggers immune response in multiple sclerosis&nbsp;&nbsp;STATFrom ‘kissing disease’ to MS: Harvard study uncovers how a common virus triggers multiple sclerosis&nbsp;&nbsp;The Boston GlobeBest treatment for multiple sclerosis may be antivirals&nbsp;&nbsp;New ScientistVirus Response Insights Offer MS Treatment Hope&nbsp;&nbsp;Inside Precision MedicineNew research identifies EBV antigen targets for MS therapies&nbsp;&nbsp;BioWorld News",
       "sources": [
         {
-          "name": "Curbed",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ25tV2s0UTRhUEI1dktPZmVETHNaaWc5d256czZnSlVjZGd6XzJ2YWZLQ3NHSHNEck1xczNmbVFNdE1FZFdlZHk4cmdQWndhVTU2c3FROHpvR1BrUTlLNDh5WGxhbzA0aEQwd1dVS3d3U0JLbjJhanFSSW1mTF9sUVlwcHN1MVFRR2QwbUR3X1RQT1J1T0Jz?oc=5"
+          "name": "STAT",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVzdlc0YxZ0lPeEQ5LTQtb2NfNU1sRnZQcV91ZHZNTjhTQ1BPNDZLcVZlYks0ZW41Zm9SS2lZYV9sQm9WTkVSZG1WbTR6NGFzUW9iS0M4YUczVE5MMWRfczA5bXVpd0ktSWpvbDMzYm1ibDl5Ykt3cVEyM29lNUJSamxMMUZucXQ2MU5wMHZudDh0M2pQM3BsYzlmMnJRaXlvbFE?oc=5"
         }
       ]
     },
@@ -326,18 +314,6 @@
         {
           "name": "Phys.org",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONEdJZFNzUjJGZGxwQkJWSE15YXVFUGpkeFNpZUFjSzhLOXg4VHdfVnltY0Fpd0ItbGU4NGRrcGlqMmt3bnZyQWpLMVp5TXhDeGFWMzFjVWxkeV9TcHc1U1BQdUpGQmY3TXo1bFpIOWJJRnBQRk1HWHllVmNkNUVUblh3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c3ceeb29af2a",
-      "title": "More health workers strike as Ebola cases in Congo exceed 2,000, including 754 deaths - AP News",
-      "published": "2026-07-15T16:13:00+00:00",
-      "summary": "More health workers strike as Ebola cases in Congo exceed 2,000, including 754 deaths&nbsp;&nbsp;AP NewsThe Ebola epidemic is getting out of control&nbsp;&nbsp;The EconomistEbola spreading more quickly in DRC, while Uganda is close to being virus-free&nbsp;&nbsp;Al JazeeraEbola is spreading faster in eastern Congo than it can be tracked, as deaths pass 700&nbsp;&nbsp;NPR‘This is a fire’: DRC Ebola outbreak is fastest-growing ever, warns WHO&nbsp;&nbsp;UN News",
-      "sources": [
-        {
-          "name": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN25mbGtRWE41clEwTkJBaDVkTE5XZVNFSDhXU0puWjlHRXh0aWgwNEtfRklIS3ctaHprMHd1bnd2TDdiSVQzNEppRDAzc3lZS0RSNVlYSkI4VEV2RlJmbFlvNHJVREg0MDY4UUZQUjZOSmIyVm83TmxTMUtENWhnRzI5dFhOdjloSEFhVDNPdkdGcU1CTEhBYTAtYw?oc=5"
         }
       ]
     },
@@ -378,38 +354,14 @@
       ]
     },
     {
-      "id": "d01614750bcf",
-      "title": "Cancer disparities researchers say federal funding changes have disrupted their work - NPR",
-      "published": "2026-07-15T15:16:35+00:00",
-      "summary": "Cancer disparities researchers say federal funding changes have disrupted their work&nbsp;&nbsp;NPR",
-      "sources": [
-        {
-          "name": "NPR",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPelI2R1UtTDc5QnV0YUFHY0lWMWMwSVdneHptZ2Jhd1FId0NMZDZhNFdrOGE3b0RqbXppaUdYQ0lzSl9nMlVGcFpRQjF4VllPMElJdzA4akY5c3gtZ2RZUk1BdGp4dnZqQ0N2NW1SQU5wM0Z0QmxzRWlyS3JoRHdyUzUxRVYtUC13U1pUVjk4aU1zbVlPSFN5SDVYYlEtcktCUzRJN3RR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0f402134b282",
       "title": "Losing Just 80 Minutes of Sleep Could Cause Weight Gain, New Study Finds - EatingWell",
       "published": "2026-07-15T14:57:06+00:00",
-      "summary": "Losing Just 80 Minutes of Sleep Could Cause Weight Gain, New Study Finds&nbsp;&nbsp;EatingWellLosing just 80 minutes of sleep a night could make you gain weight&nbsp;&nbsp;ScienceDailySleep on this: How staying up for FIFA World Cup games could make you fat&nbsp;&nbsp;FirstpostWeight gain from losing just 78 minutes of sleep a night – US study&nbsp;&nbsp;Juta MedicalBriefLose sleep, gain weight: how chronic sleep loss can add 0.5kg every 6 weeks&nbsp;&nbsp;South China Morning Post",
+      "summary": "Losing Just 80 Minutes of Sleep Could Cause Weight Gain, New Study Finds&nbsp;&nbsp;EatingWellLosing just 80 minutes of sleep a night could make you gain weight&nbsp;&nbsp;ScienceDailySleep on this: How staying up for FIFA World Cup games could make you fat&nbsp;&nbsp;FirstpostLost Sleep Leads to Weight Gain&nbsp;&nbsp;LabrootsThe common sleep mistake that could be affecting your health&nbsp;&nbsp;Telegraph and Argus",
       "sources": [
         {
           "name": "EatingWell",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBIYWFvb0gtUEZpaEdjVE9rNkZxVFUzOFVRNFB1SFY0VXZKX3ItWnhlZk1PRXNzamhGdWxIREJZSzZ2Y1h5Q0p4MUNZQnpVd2hVZ282X1QzTHJOeHhmZXFDWnJqRDRISFVIU2RuSlMxc3ljaEZOdkFFeXNjOXQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a27c62601b2f",
-      "title": "Up to 45% of dementia risk can be prevented, delayed: WHO - CTV News",
-      "published": "2026-07-15T14:05:49+00:00",
-      "summary": "Up to 45% of dementia risk can be prevented, delayed: WHO&nbsp;&nbsp;CTV NewsNew WHO guidelines: up to 45% of dementia risk could be prevented or delayed&nbsp;&nbsp;World Health Organization (WHO)New guidance offers hope for reducing the global toll of dementia&nbsp;&nbsp;UN NewsDementia: We may prevent 50% of cases by understanding risk factors&nbsp;&nbsp;Medical News TodayLong-term exposure to air pollution could lead to dementia, warns WHO&nbsp;&nbsp;The Times of India",
-      "sources": [
-        {
-          "name": "CTV News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMlAxQ1duaVUxdURWeG9Hclpqd0ZGcTZKaHZRdTNOLXhWUzJoVUY1OEhSS0pDMGU0cXpWckw0eTZNS1g3bWgtYi1YRzk0Ymo0NlhZZ3g5MUdWTzN1SDJtamM3eW56dEZIRF9QemR4SUpFN1MtR3BKTGx6cGZGZzlTUm5ua29ud3RFMjdJYWlwQklsVHVtS0hiWA?oc=5"
         }
       ]
     },
@@ -426,74 +378,14 @@
       ]
     },
     {
-      "id": "aefff6064491",
-      "title": "Healthcare Workers Are Sounding The Alarm On 28 Concerning Trends They're Seeing More Often - BuzzFeed",
-      "published": "2026-07-15T09:16:04+00:00",
-      "summary": "Healthcare Workers Are Sounding The Alarm On 28 Concerning Trends They're Seeing More Often&nbsp;&nbsp;BuzzFeed",
+      "id": "8ff81794e90c",
+      "title": "The Epicenter of Drug Deaths in America Is Shifting West - The New York Times",
+      "published": "2026-07-15T09:01:37+00:00",
+      "summary": "The Epicenter of Drug Deaths in America Is Shifting West&nbsp;&nbsp;The New York Times",
       "sources": [
         {
-          "name": "BuzzFeed",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzMWJhQ2E4akQ0aTZ0RzJkRFRfQlJLSldnLXYyQkVNQjc2blE1aXd3TmJWUzN3T1hXR0hFNjdkcUZrSVpES3ZKdDZfbUNGR3AydzhrWEx5ZHVFN1BkbGtFS2NpSWg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "47367626937c",
-      "title": "A new biotech startup tries to tackle obesity, but not in the way you might expect - STAT",
-      "published": "2026-07-15T08:34:41+00:00",
-      "summary": "A new biotech startup tries to tackle obesity, but not in the way you might expect&nbsp;&nbsp;STAT",
-      "sources": [
-        {
-          "name": "STAT",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQVlOb3NMMUo5aXRjS0Q3UVY3MGZad0x4WVhIaHY0ZTU0MTR0bGpVcHJudlhvYXlWZDlkeTVGMFVuTkpOdHBLZ29iakFEUEJaTDJCLUhxUVRxLVk4ckdPM2YtOW11d2phUHk2NDdtNm5CSzdSc1B1NWlIVXJwNXkya1Y4eE5XZUhqNDRZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "41df57ade7fc",
-      "title": "New Israeli ultrasound procedure offers hope for enlarged prostate - Ynetnews",
-      "published": "2026-07-15T06:54:31+00:00",
-      "summary": "New Israeli ultrasound procedure offers hope for enlarged prostate&nbsp;&nbsp;YnetnewsEYE ON HEALTH: Erlanger Offers New Treatment for Enlarged Prostates&nbsp;&nbsp;Local 3 NewsInnovative treatment offers relief for urinary, sexual incontinence&nbsp;&nbsp;AOL.comNew Procedure Brings Relief to Patients with Enlarged Prostate&nbsp;&nbsp;Baptist HealthIsraeli innovation could transform treatment for millions living with enlarged prostate&nbsp;&nbsp;JNS.org",
-      "sources": [
-        {
-          "name": "Ynetnews",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TUHZTVWRUZlduZllFVEFMWkgzNjFBdXpjTWFkQ25yWHRKLTU0Qk81Yi13Y0ZGX3N6eWtoWjNUZnM1UmJscHhEZTBRU0N3Y3I2ck1FMGtNZEw3TTN1MXJSVjd1eGZGOWI0bXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f7c2aa48334f",
-      "title": "Going to Museums and Movies May Slow Aging, Study Finds - StudyFinds",
-      "published": "2026-07-15T06:14:54+00:00",
-      "summary": "Going to Museums and Movies May Slow Aging, Study Finds&nbsp;&nbsp;StudyFindsGoing to the Theatre Might Keep Your Body Younger, Study Shows&nbsp;&nbsp;BroadwayWorldGoing to museums, movies, and theater may help your body stay younger&nbsp;&nbsp;ScienceDailyWhy seeing that play or exhibition helps us to age well&nbsp;&nbsp;The TimesGoing to the theater has been linked to a slower rate of aging: the difference reached three years&nbsp;&nbsp;logos-pres.md",
-      "sources": [
-        {
-          "name": "StudyFinds",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMC14SUdwSV9keUMwaGU3Y2xsNzgzNkNHa2lTcF9SMlJIQm43UGlFVHB3d0tYbXVJcHdtWnJnQm1CandvanlQaElKY2R3akIwTkVmNEF3UTZrT3RUY3dJSWJrOUQtVGdkZDQtaUg0Z0N5VFNBMWp4VWFwLVRLUXc3M0lXR1c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2819773b8ac0",
-      "title": "'I dreaded bedtime before new sleep apnoea treatment' - BBC",
-      "published": "2026-07-15T05:52:33+00:00",
-      "summary": "'I dreaded bedtime before new sleep apnoea treatment'&nbsp;&nbsp;BBCSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FT29MTV9ZbWNjeXRmTmdGbklxZ2RocHh2OXI2NEpaVHJYSXFiLTBLLWpwM2ZhR3dDeDRsTDFkYl9hYTJlYTZnNVVkbGdITmlZVkdkbDlIZDRwZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "67f48ce3c476",
-      "title": "'Ghost Poops' Say A Lot About Your Gut Health, According To Doctors - HuffPost UK",
-      "published": "2026-07-15T05:30:17+00:00",
-      "summary": "'Ghost Poops' Say A Lot About Your Gut Health, According To Doctors&nbsp;&nbsp;HuffPost UK",
-      "sources": [
-        {
-          "name": "HuffPost UK",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNmhoSWlOVGJoYjFhVjNfZ09IX2xfRFNqRDN4dDJmVF9lWjhSM3RXX2kxalc1TmZrLUI0cXZwSWNCa3Q5Z3VneHEtMWY4ckdfSEQ5dDNSZDZwaHZLTXp2NUdCRjd5aUJ0UFVrbUdKTFlydFh2bmRHMDA5Y0hCNHpWaVhleGNfTFJQTGVzMDlCWEFkZw?oc=5"
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcVRGNzRlRHVDVEplM1dIQVdxa2F4SHhjcUtjaDJ3bFN4VFU1bGtDV0hVaGNFRlBGN0ZjaURJQjRJbmNDYTBMNkhNV0dHejVial9wOVAyUmx0UkFNQlpKMjMxdHJkaXRaQUtNaDZjejFxTW5PUmg3SVpId2M0aXlDcXN2aUMyYVlWNjJuVEJIRjM?oc=5"
         }
       ]
     }

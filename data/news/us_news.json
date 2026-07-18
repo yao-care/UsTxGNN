@@ -1,19 +1,79 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-07-17T19:14:24.649721+00:00",
-  "total_fetched": 102,
-  "unique_count": 102,
-  "health_related_count": 46,
+  "fetched_at": "2026-07-18T02:42:58.309663+00:00",
+  "total_fetched": 105,
+  "unique_count": 105,
+  "health_related_count": 51,
   "news": [
     {
-      "id": "b0c8fa1c5f00",
-      "title": "New study links ADHD symptoms in boys and addictive social media use - The Washington Post",
-      "published": "2026-07-17T18:32:21+00:00",
-      "summary": "New study links ADHD symptoms in boys and addictive social media use&nbsp;&nbsp;The Washington Post",
+      "id": "3f0b0554e685",
+      "title": "There are more cases of Cyclosporiasis that have been reported in Mississippi. - WAPT",
+      "published": "2026-07-17T23:47:00+00:00",
+      "summary": "There are more cases of Cyclosporiasis that have been reported in Mississippi.&nbsp;&nbsp;WAPTDomestically Acquired Cyclosporiasis Cases in Multiple U.S. States, 2026 | HAN&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)Missouri cyclospora cases go up as outbreak linked to alleged supplier from St. Louis E. coli scare&nbsp;&nbsp;STLPRWhat to Know About the Cyclosporiasis Outbreak and How to Stay Safe&nbsp;&nbsp;WSJAlaska reports 5 cases of parasitic disease that has sickened t",
       "sources": [
         {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWjBNSm5WRVZiSDJEakJ4V3hleWdObGJnREJveEtlUWNvM2lSS0I1UUk2VEVJZ2ZCa3VRUmFlemlOQ29YSmRSMEdFUWM3M2hWVFJ6cDBmNFpfMmw3UW82OWRnVkZZNkVkQ01nQllzNnNwajUzMHZlb3pPcUF1azd4WkNTbWJ5c3NOOXZuV1RLVTgyeUJMUUFwUFF6WGlYUFZBN01la2llSkFyMU03ODZnSw?oc=5"
+          "name": "WAPT",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeGNtVDQ5UFpGWGdxd0VkNUZ4T3pfUEx3N0dmWDdJOGpuWm9WUFRCS0ZnckUweWFhUUtybnFrY2xRTnNWM2NBWVZoeDJYRkF5V0hrQXlWS2dLMVJBRXNONE9zeE9GSTFlTXF1d3F1Wk5OLXVvVVc5UzVQenF1TjVuZ0N2SkRSNDJfVUktdFVjNUlmc3dYZ3hITF8zVUtYNFcyZ0hlOHNJV2tTQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "529c2f29885d",
+      "title": "One person dies amid legionnaires’ disease outbreak in New York City - The Guardian",
+      "published": "2026-07-17T23:46:00+00:00",
+      "summary": "One person dies amid legionnaires’ disease outbreak in New York City&nbsp;&nbsp;The GuardianLegionnaires' outbreak: First death reported in connection to Upper East Side cluster; 67 cases total&nbsp;&nbsp;ABC7 New YorkOne death reported in New York City Legionnaires’ disease cluster&nbsp;&nbsp;CNNFirst Patient Dies of Legionnaires’ Disease After New York Outbreak&nbsp;&nbsp;The New York TimesFirst death reported from Legionnaires' outbreak on Upper East Side, Health Dept. says&nbsp;&nbsp;NBC New",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnBkcEF2eDZzQXI2ZFo3SjRjUi1FLUhEOE5pX1RNSGk0NGRrczBfR0I1WHlNMHhzZHoxR0JEOEhUaTZQSHpzanZBY0VSMHRGM3g2MFNFSndBX0E1LXNLTVJHZlhydWtmazJsYnA1bjRSM0diWE9fdEZUcWN4QmFERmp2QlhRdlZLN3dzVU5sN2lscUR5WGRVdmloMzNSYzMwT2wtT1RhUVFTV0k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ec810c7d52f6",
+      "title": "Health officials warn of measles exposures at Tempe Marketplace, Surprise Walmart - AZ Family",
+      "published": "2026-07-17T21:40:00+00:00",
+      "summary": "Health officials warn of measles exposures at Tempe Marketplace, Surprise Walmart&nbsp;&nbsp;AZ FamilyMaricopa County confirms more measles cases. Were you exposed?&nbsp;&nbsp;azcentral.com and The Arizona RepublicMeasles: Multiple new cases reported in Maricopa County&nbsp;&nbsp;FOX 10 PhoenixNew cluster of measles cases identified in Maricopa County&nbsp;&nbsp;YahooPima County investigating Measles case&nbsp;&nbsp;KOLD",
+      "sources": [
+        {
+          "name": "AZ Family",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOekpUVmhudmFyR0tUT1NBREtoRTZfM2VJNE4yODlOX2pXUnl1RndnTUVaT3JrTnlvYmNQUVFGQ25OTEM2a0llVmhPQV9uV0ljYVhSMGRIZGFwNnM1SEN4cS1LVGE4X3RDT041UnhVTWszZDBrUE5idXlqWVZvMmhvYm9lNFFLLXhtUzRkbUhQenlqMGI4Ul9lZVBQd1h1NUJ0YTZNY1ZDNjRha1lsMm1PYQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1c65ac259242",
+      "title": "Ritzy SoCal city rocked by rare cancer outbreak suspends use of chemical landscaping products - Yahoo",
+      "published": "2026-07-17T21:28:55+00:00",
+      "summary": "Ritzy SoCal city rocked by rare cancer outbreak suspends use of chemical landscaping products&nbsp;&nbsp;YahooSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS2dUbm1HcmFWZk1SU1FLZHI4dGZKdUwwV0lTWFgxdE15cjRqZGNfeFdYMFhqa01FOVZScFo2elFYaXhuUDRnTEZLSUdnbFY3OFptMm5pSkxFTUM2SHcta1pPbFpjTF94eFdNN3JIRXNDLTNDQ3ZfdGhZTGRRQ3ZWTzJyOVExVXlLbXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "02d7cfc7f4a2",
+      "title": "Drug-Resistant Gonorrhea Spreading Inside Europe, Health Officials Warn - StudyFinds",
+      "published": "2026-07-17T21:11:17+00:00",
+      "summary": "Drug-Resistant Gonorrhea Spreading Inside Europe, Health Officials Warn&nbsp;&nbsp;StudyFindsDrug-resistant Gonorrhea on the Rise in Europe&nbsp;&nbsp;LabcompareUrgent warning over surge in antibiotic-resistant 'super' STI across Europe - UK cases DOUBLE in a year&nbsp;&nbsp;The Sun",
+      "sources": [
+        {
+          "name": "StudyFinds",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRGtZNlNUOVNHcEt0NkJjMDJqMm50Q2tPclF4Q0p5Ukd1LTR5UkI4Zi1zVWlURWcwQ0p0R2Z4WkdUVXRWQi1xTUZ1ZGk5QWJPYk9sX0xEZElGU3NuSWh2RGdTWTZHWV84LXpxNnFEc21rUWN3ZFZlM1pTWV9Ba1hWRkQ5Nmp0bEZnRlBCdGJNTzhpUHMxcXdVVDJB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1bdb2a46772d",
+      "title": "Meteorite that crashed into New Jersey home contains building blocks of life, astronomers say - ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-07-17T20:32:32+00:00",
+      "summary": "Meteorite that crashed into New Jersey home contains building blocks of life, astronomers say&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosAlien World Chemistry Found Inside Meteorite That Struck New Jersey home&nbsp;&nbsp;SETINew Jersey home meteorite fragments contain 'extraterrestrial' amino acids&nbsp;&nbsp;6abc PhiladelphiaA meteorite that crashed into a New Jersey home contained ‘alien world chemistry,’ a new study says&nbsp;&nbsp;Inquirer.comMeteorite that landed in New Jers",
+      "sources": [
+        {
+          "name": "ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMVRmZGlaMVBkNVBORFcwQmtub2NEeDFlVVdNTVkzYWZ0dGN2ZGh6a0VZR3NHUHU0Y2VUQ2N1Wk01Z0ZMazBMTXk1cTRMdDRSNkZCeThLR1hOdFREWkRieEY4NWZpMWRHZXJtTFkyVFNOaldOYXRyckNmZDQwMTZ5aHdQSE9uRkxXWW1xVm1vOHFpclppalM0cl9ScVBHX2lnZUHSAacBQVVfeXFMTXk0aXEtTkhxVHpPNlZmNk1fcks1YVRwUjA4TlBnYkpRbENHUHdUbUFpd0FMakpSdmRDZW9UWElHel9VZ3hTQ1BFLU1GdUVTWVgxeXNLdEdsVUY2T1dUN3FaeFhLOXlaa3J2N216dXhZd09LUFVXOENMUzE1d0xZVm1acWo0aGd6d21iaTQtbVdMOWdpeVdVN2s4TklHLWstZkJOMlBac3M?oc=5"
         }
       ]
     },
@@ -30,38 +90,14 @@
       ]
     },
     {
-      "id": "23af3e5f94b3",
-      "title": "No, You Shouldn’t Avoid Fruits and Vegetables Due to Cyclospora - Consumer Reports",
-      "published": "2026-07-17T15:46:03+00:00",
-      "summary": "No, You Shouldn’t Avoid Fruits and Vegetables Due to Cyclospora&nbsp;&nbsp;Consumer ReportsAs the outbreak of diarrhea caused by a parasite grows, here’s what’s safe to eat and what to avoid&nbsp;&nbsp;CNNCyclospora outbreak: What Washington residents need to know&nbsp;&nbsp;AxiosDomestically Acquired Cyclosporiasis Cases in Multiple U.S. States, 2026 | HAN&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)What to Know About the Cyclosporiasis Outbreak and How to Stay Safe&nbsp;&",
-      "sources": [
-        {
-          "name": "Consumer Reports",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTWdEUHV5a2xOOXZlRHNIUC1yQVhtSnk4RzF5LURocnNiY3hPZzZOTU5jVXFIT3Z4NmRwOWVQNjNjdkxlQkZ3OWE2V0huV2NRM1FDMWJuYlVXWWN2cm82MTdBaWlOYmdEZE41bDF2dWE0bDh0d0VVNDlWdUpuNFo4S2NwU0sxcEVWSUlxUHd2dV9aVlFra0c2VVU2STg3bnVNWF82LUJnLUJpRVp2OENHZEkzN0xRU000eVRIMDFOYw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a9ff9fca6e82",
       "title": "What does Code Red air quality mean? Weather Talk explains - WBAL-TV",
       "published": "2026-07-17T15:39:00+00:00",
-      "summary": "What does Code Red air quality mean? Weather Talk explains&nbsp;&nbsp;WBAL-TVHow Does Air Quality Affect Our Health?&nbsp;&nbsp;University of RochesterHow to read the Air Quality Index (AQI) scale, and how it can help you stay safe from wildfire smoke&nbsp;&nbsp;Business InsiderBeyond the Lungs: Air Pollution's Impact | Newswise&nbsp;&nbsp;NewswiseWhat Happens to Your Lungs at Every Air Quality Level&nbsp;&nbsp;Hartford HealthCare",
+      "summary": "What does Code Red air quality mean? Weather Talk explains&nbsp;&nbsp;WBAL-TVHow Does Air Quality Affect Our Health?&nbsp;&nbsp;University of RochesterAir Quality Index: What do the numbers mean?&nbsp;&nbsp;6abc PhiladelphiaImproving Air Quality Indices for Personalized Health Warnings from Pollution Exposure&nbsp;&nbsp;HCP LiveKeeping your pets safe when air quality is poor&nbsp;&nbsp;The Weather Network",
       "sources": [
         {
           "name": "WBAL-TV",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SQ2NLLTRfMmo3TGtzeFZ3LUpzcHlEd3JUMkFHUkViWXVPQTRnOENDMFh6emVxOWJBdmV2WG84c2tRdXVEOUtzcUJVNkJmdm1FLXBWalpSQnN2X0ZBd0RNNTd1TF83ZWR3di1FcXBvblhRSG02eGZN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ea02c519cbd4",
-      "title": "Measles cases in 2026 are set to surpass last year's total. Here's why - ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-07-17T14:17:18+00:00",
-      "summary": "Measles cases in 2026 are set to surpass last year's total. Here's why&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos‘We’re kind of disease detective,’ says Polk County epidemiologist&nbsp;&nbsp;KCCIExperts Warn of Health Risks, Stress Vaccines Amid Measles Resurgence&nbsp;&nbsp;American Community MediaMost measles patients who sought care at Prisma Health in South Carolina were kids&nbsp;&nbsp;CIDRAPMeasles Cases to Break 35-Year Record in U.S., Johns Hopkins Expert Available | New",
-      "sources": [
-        {
-          "name": "ABC News - Breaking News, Latest News and Videos",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTkZhYzdPU2RXVGxsUVIwTmFsd2VHbDRnNlZpZVJ4em53M0J6UTQzek5VYUd6eFg2WEZPeUhNeTl3Sl8wN1JkNjc0ZkIyN3pBeXdQWDVaZ2trYnd4d1owOE8tOTNQVGtPQ2JsLU5iRzB0a2dkeFRBTFZKSHI4dWlqbFNua3k2b0tMSndKZnE4X0p0Z9IBlwFBVV95cUxNMTdwcml0TEp4OXhMZXVHaG96MDBEVHJvQmZkaUZFc056MEladC1TbmJ2MUhSdThXWE1EVS1qYXc1dkRLNjZCa25QSFd6OVFpVUVLRGN2Wkk0UVBWU2NITzVsWGNfUjlPaExNUGtiUE1rUnpLc2NYeFVfb1VRV0d6S0hvbkxlWVFSU0R0SE0tN2JlTVI4Unk0?oc=5"
         }
       ]
     },
@@ -78,6 +114,42 @@
       ]
     },
     {
+      "id": "cbfec5b3a254",
+      "title": "Pancreatic Cancer Vaccine Triggers Immune Response Before Tumors Develop - Inside Precision Medicine",
+      "published": "2026-07-17T13:37:15+00:00",
+      "summary": "Pancreatic Cancer Vaccine Triggers Immune Response Before Tumors Develop&nbsp;&nbsp;Inside Precision MedicineSandra Misale: Intercepting PDAC in High-risk Individuals by KRAS-Targeting Vaccine&nbsp;&nbsp;OncodailyFrom Treatment to Prevention: How Vaccines Are Reshaping the Fight Against Pancreatic Cancer&nbsp;&nbsp;American Association for Cancer Research (AACR)Johns Hopkins-Developed KRAS Vaccine Shows Durable Immune Response in Pancreatic Cancer Prevention Trial&nbsp;&nbsp;BioPharm Internation",
+      "sources": [
+        {
+          "name": "Inside Precision Medicine",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZk1OZ0RWNGIzdDNudC1mVHJoaXJNa3hTdzJpMzVEYWs0ZnZXVE9CUFRlUVZlZTItenlhdjlCN29kTG5aQVVRSzI5eXVHdndYaUM2dkdxZlgxWDgxUlZrbGp6NFI1cmNQTE84SlB4Smx5YXdrWE9DUkk3aGNtZ3BxY3N1V3JFd2Vqa0J3cU5lVk14UTZsakxtTnF0emxZOEhqZ3ppX1cxQlI4enMtZ3pnZ205QUlDMjE3Tl9WS0I3RkZqRnFxeW9MRg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a9487b41dcd6",
+      "title": "Found: a rocky exoplanet with an atmosphere — could it host life? - Nature",
+      "published": "2026-07-17T13:37:00+00:00",
+      "summary": "Found: a rocky exoplanet with an atmosphere — could it host life?&nbsp;&nbsp;NatureFirst atmosphere found on Earth-like planet in habitable zone of distant star&nbsp;&nbsp;BBCAstronomers Find an Atmosphere on a Nearby Earthlike Planet&nbsp;&nbsp;The New York TimesFirst Atmosphere Detected on a Terrestrial World&nbsp;&nbsp;Sky & TelescopeFirst atmosphere detected on a habitable-zone rocky world&nbsp;&nbsp;Center for Astrophysics | Harvard & Smithsonian",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tekxLd0MzT0hxOGhfTFZ3OU1JMnNUdG9yeVA5eVFFR1hRWnZBQW5NS0NBYnFwaG9BUmo3UlVNb29hd2kzQXdUcUFtNDJWakZYOHRoUVNRdXQ4QlZWTzNn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ea3f5c88cfa6",
+      "title": "Dietitians Share 5 Plant-Based Proteins That Can Help Lower Blood Pressure - Verywell Health",
+      "published": "2026-07-17T12:07:23+00:00",
+      "summary": "Dietitians Share 5 Plant-Based Proteins That Can Help Lower Blood Pressure&nbsp;&nbsp;Verywell Health",
+      "sources": [
+        {
+          "name": "Verywell Health",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbU5VQjBiNkk1QnZMeVRQWmpuempZR2xiRkdtdFplOE9NNExjeGxzREphNzA2d0RXYng2VC1CWHFFQTJqQjg1TFJTVGhLYk02bjNkeERmX0t6d21CTGktNWliLVlUZ1RMTGxHUmZvV2JQUnNTNFpZdEYxUWozWmZ2WDQ0YnZjNFhS?oc=5"
+        }
+      ]
+    },
+    {
       "id": "252800424576",
       "title": "New Fossil Study Challenges the Classic Story of Human Evolution - SciTechDaily",
       "published": "2026-07-17T11:51:25+00:00",
@@ -90,38 +162,26 @@
       ]
     },
     {
-      "id": "819058436d9a",
-      "title": "A tick-borne disease has no warning rash and doctors say it's spreading across the U.S. - Newsweek",
+      "id": "12983ec87d13",
+      "title": "How a plant-based wound dressing could fight infections - BBC",
+      "published": "2026-07-17T10:54:31+00:00",
+      "summary": "How a plant-based wound dressing could fight infections&nbsp;&nbsp;BBCSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tdzJrUEpSeUxqZHVaR3lXLW1QTjNyaXlPZjAyWWllSGowQ2lXNDNtNC04al80dXF4elZMSFd5VVpFeGIwR29tMXhSWG9vdXI4ZjgwcTRrbHlwZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3b5ebdd3f4d9",
+      "title": "A Tick-Borne Disease With No Warning Rash Is Spreading Across the U.S. - Newsweek",
       "published": "2026-07-17T10:47:00+00:00",
-      "summary": "A tick-borne disease has no warning rash and doctors say it's spreading across the U.S.&nbsp;&nbsp;Newsweek‘It was horrible’: Ontario man warns of tick-borne illness after 10-day hospital stay&nbsp;&nbsp;Global NewsDoctors Warn Of A Tickborne Disease You've Perhaps Never Heard Of Spreading In Parts Of North America&nbsp;&nbsp;IFLScienceDoctors in eastern Canada urged to consider new diagnosis as tick-borne fevers rise&nbsp;&nbsp;Yahoo HealthTick-borne anaplasmosis and myocarditis in eastern Onta",
+      "summary": "A Tick-Borne Disease With No Warning Rash Is Spreading Across the U.S.&nbsp;&nbsp;Newsweek‘It was horrible’: Ontario man warns of tick-borne illness after 10-day hospital stay&nbsp;&nbsp;Global NewsAnaplasmosis cases on the rise in Kingston&nbsp;&nbsp;Yahoo News CanadaRising tick-borne disease in Canada can trigger heart inflammation&nbsp;&nbsp;News-MedicalTick-borne anaplasmosis and myocarditis in eastern Ontario&nbsp;&nbsp;CMAJ | Journal",
       "sources": [
         {
           "name": "Newsweek",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWnc2aVBoNHdJSGhRdzVKakNEM1djRTl5ZDVMci1QSWtpeXAtaDUwVUVad0ZaREVGMVcxYjdzYXU2S1RoVUFCc3dINW4xcXZLTTBjQUNnUUFQTVpUa1RxaDhia28xUWNjUWRFdUxnUWhlUmMzRjBNTWhmc3FONGZfYmFLMmxCWnZrNFdNUA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ff49fbdfecd6",
-      "title": "Prostate cancer treatment with fewer side effects 'as effective as radiotherapy and surgery' - Sky News",
-      "published": "2026-07-17T10:44:27+00:00",
-      "summary": "Prostate cancer treatment with fewer side effects 'as effective as radiotherapy and surgery'&nbsp;&nbsp;Sky NewsProstate cancer trial using focal therapy has fewer side effects&nbsp;&nbsp;BBCProstate cancer treatment used by Clarkson cuts risk of side effects&nbsp;&nbsp;The TelegraphProstate cancer treatment used by Jeremy Clarkson as effective as radiotherapy&nbsp;&nbsp;The IndependentNew study shows focal therapy effectively treats prostate cancer, keeping patients cancer free ten years after ",
-      "sources": [
-        {
-          "name": "Sky News",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZzR0SHdEUkJFUW55ZmRNbVEzdEkxNnBIUlhDREEtMUxrZm1vVWpEY1pFajZmdUJvR2V3dWdFY2gwWmhIUEtELV9TYjRBSExUTUNLUnFGZEw5TGktSGxlU2VWQXRUNk1Vd3JXODVjY2FTWmQzVzAxVTFyRGFKNFdacmtmby1yLTdPQndpMHpNX0xVQWZOR2FyS0Z3a0dpTllwOVBXQTZ0UUI0d2o1VWVYTkFtdnZCVEZoRk5DOG90LUl1ZHdG?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f13c21ac7cf6",
-      "title": "Chemistry From Another World Found in The Famous Hillsborough Meteorite - ScienceAlert",
-      "published": "2026-07-17T10:02:29+00:00",
-      "summary": "Chemistry From Another World Found in The Famous Hillsborough Meteorite&nbsp;&nbsp;ScienceAlertAlien World Chemistry Found Inside Meteorite That Struck New Jersey home&nbsp;&nbsp;SETIA meteorite that crashed into a New Jersey home contained ‘alien world chemistry,’ a new study says&nbsp;&nbsp;Inquirer.comNew Jersey home meteorite fragments contain 'extraterrestrial' amino acids&nbsp;&nbsp;6abc PhiladelphiaMeteorite that crashed into New Jersey home contains \"alien world chemistry,\" scientists sa",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcTRxWVRzMzlLV1laX0U3WGpQMk1XYTl1amJkcVJ1c3lJaThjUnMxOWtObEVfdTVIZHlabUlJSVN6QnhOTHhTdmpqcVdpeTVXeGpzWG50MTQtNnVUWk43dmN3S2U0dlp4UzUtLUVQMUhXcFpPOThXQ0JFNWlkQ3JaVThtbGJybldJVzdicS03a0VsZEtvWG54U2M1b3NMUGh6eVE?oc=5"
         }
       ]
     },
@@ -153,7 +213,7 @@
       "id": "4dfd6bd17865",
       "title": "CRISPR gets a power boost from AI-designed ‘molecular scissors’ - Nature",
       "published": "2026-07-17T09:24:36+00:00",
-      "summary": "CRISPR gets a power boost from AI-designed ‘molecular scissors’&nbsp;&nbsp;NatureNobel Laureate Jennifer Doudna enters AI protein design arena&nbsp;&nbsp;Fierce BiotechAI‑designed gene‑editing enzymes expand the CRISPR toolbox&nbsp;&nbsp;Phys.orgAI-designed nucleases build on nature’s design&nbsp;&nbsp;Chemical & Engineering NewsA Synthetic Nuclease Boosts CRISPR Editing Efficiency&nbsp;&nbsp;the-scientist.com",
+      "summary": "CRISPR gets a power boost from AI-designed ‘molecular scissors’&nbsp;&nbsp;NatureAI‑designed gene‑editing enzymes expand the CRISPR toolbox&nbsp;&nbsp;Phys.orgNobel Laureate Jennifer Doudna enters AI protein design arena&nbsp;&nbsp;Fierce BiotechAI-designed nucleases build on nature’s design&nbsp;&nbsp;Chemical & Engineering NewsA Synthetic Nuclease Boosts CRISPR Editing Efficiency&nbsp;&nbsp;the-scientist.com",
       "sources": [
         {
           "name": "Nature",
@@ -162,34 +222,10 @@
       ]
     },
     {
-      "id": "da327eb0ac11",
-      "title": "Scientists looked at Antarctica from the air. What they saw has them worried - BBC Wildlife Magazine",
-      "published": "2026-07-17T09:01:46+00:00",
-      "summary": "Scientists looked at Antarctica from the air. What they saw has them worried&nbsp;&nbsp;BBC Wildlife MagazineThe color of penguin poo: Satellites reveal the chilling truth of global warming's impact on an iconic polar species&nbsp;&nbsp;UC Santa Cruz - NewsDue to climate change: Satellite images reveal penguins' dietary shift&nbsp;&nbsp;heise onlineStony Brook researchers using NASA satellite images to study diet of Adélie penguins in Antarctica&nbsp;&nbsp;NewsdaySatellite Images of Pengiun Poo ",
-      "sources": [
-        {
-          "name": "BBC Wildlife Magazine",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS1U2aGdUSWNPR1ZDMmNQalJIeGZ3SHkzSmR5X2FEQXBqUGpBQXhfR0hWR01ZODJmU2h2eEdQYjI5SUZ0OGcycUR3UnlHR3hlczY3S0FoTkZyWlNHVkNocXJlYzlDRGx3eE1CQnFETXd1c0IwX3M5Y1JGTk9lMmhZeGsxaEhkVG82dGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7c49454094c2",
-      "title": "Scientists tested 39 sweeteners and found unexpected gut effects - ScienceDaily",
-      "published": "2026-07-17T09:00:24+00:00",
-      "summary": "Scientists tested 39 sweeteners and found unexpected gut effects&nbsp;&nbsp;ScienceDailyScientists show how sweeteners slow the growth of certain gut bacteria&nbsp;&nbsp;News-MedicalMixing Sweeteners and Antidepressants Could Be Quietly Altering Your Microbiome&nbsp;&nbsp;Technology NetworksArtificial sweeteners may mess up your metabolism&nbsp;&nbsp;FuturityThese common sweeteners could be silently damaging gut, study finds&nbsp;&nbsp;Newsweek",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90MVdmdzRCWDZrMFVUVEpRZ1ctYm9sTnVGanYxZE9TcEwxd3JYaDRNMTlhdVNra1ZiVDJZQk51OGhLVDctaEVPUzR6QVJ0b0hJelNaYVR4WUNhOGJaUllEY1NvdUR6TTBtdEMtYnNMYw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c88f80ee1d51",
       "title": "Does stopping a GLP-1 really doom you to regain all the weight? - NBC News",
-      "published": "2026-07-17T09:00:00+00:00",
-      "summary": "Does stopping a GLP-1 really doom you to regain all the weight?&nbsp;&nbsp;NBC NewsHow to improve metabolic health with, without, or after GLP-1s | Senior Living | covnews.com&nbsp;&nbsp;The Covington NewsStopping Ozempic or Wegovy Leads to Nearly 2 Pounds of Weight Regain Per Month, Largest Review Finds&nbsp;&nbsp;Medical Daily",
+      "published": "2026-07-17T09:00:41+00:00",
+      "summary": "Does stopping a GLP-1 really doom you to regain all the weight?&nbsp;&nbsp;NBC NewsStopping Ozempic or Wegovy Leads to Nearly 2 Pounds of Weight Regain Per Month, Largest Review Finds&nbsp;&nbsp;Medical DailyWeight-loss jabs may create a new kind of yo-yo dieting&nbsp;&nbsp;Yahoo News UK",
       "sources": [
         {
           "name": "NBC News",
@@ -198,10 +234,82 @@
       ]
     },
     {
+      "id": "7c49454094c2",
+      "title": "Scientists tested 39 sweeteners and found unexpected gut effects - ScienceDaily",
+      "published": "2026-07-17T09:00:24+00:00",
+      "summary": "Scientists tested 39 sweeteners and found unexpected gut effects&nbsp;&nbsp;ScienceDailyScientists show how sweeteners slow the growth of certain gut bacteria&nbsp;&nbsp;News-MedicalCould a Common Antidepressant and Sweetener Combo Be Quietly Fighting Gut Bacteria?&nbsp;&nbsp;StudyFindsMixing Sweeteners and Antidepressants Could Be Quietly Altering Your Microbiome&nbsp;&nbsp;Technology NetworksStudy finds sweeteners may alter gut bacteria in lab tests&nbsp;&nbsp;NST Online",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90MVdmdzRCWDZrMFVUVEpRZ1ctYm9sTnVGanYxZE9TcEwxd3JYaDRNMTlhdVNra1ZiVDJZQk51OGhLVDctaEVPUzR6QVJ0b0hJelNaYVR4WUNhOGJaUllEY1NvdUR6TTBtdEMtYnNMYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0f2fcc8a1c7f",
+      "title": "New Alzheimer's drug repairs DNA damage and reduces brain inflammation - ScienceDaily",
+      "published": "2026-07-17T04:21:21+00:00",
+      "summary": "New Alzheimer's drug repairs DNA damage and reduces brain inflammation&nbsp;&nbsp;ScienceDailyA Drug Already Proven Safe in Humans Just Reduced Multiple Signs of Alzheimer's in Mice&nbsp;&nbsp;ScienceAlertKCL-286 targets multiple Alzheimer’s pathways in preclinical study&nbsp;&nbsp;Drug Target ReviewScientists find drug that may fight Alzheimer’s on multiple fronts&nbsp;&nbsp;MSNThis one drug may reverse brain damage in ways scientists never thought was possible!&nbsp;&nbsp;The Times of India",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMYWFvclNFazI0cFVKRk00dUhjMjZvRU1IRHFtR2VKSG8zbG16OEFiTFdIa2hnSkloaHRCS1dPZlFZQkpLZ2xLZGNZRjlaemZYTWxQaFhlT3RKR0dTU1QxZTV5SHU1WGtXWGIzQjdpcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6c1dca66c70f",
+      "title": "From doctor to patient: Retired radiologist undergoes robotic surgery for prostate cancer - KSL.com",
+      "published": "2026-07-17T01:49:32+00:00",
+      "summary": "From doctor to patient: Retired radiologist undergoes robotic surgery for prostate cancer&nbsp;&nbsp;KSL.comDoctors warn against delayed diagnosis as prostate cancer cases rise&nbsp;&nbsp;expresshealthcare.inEarly detection, robotic surgery changing prostate cancer care: Expert&nbsp;&nbsp;The Times of IndiaUrologist Dr Sashiraj Singh lists 3 everyday symptoms of prostate cancer; shares when to seek expert care&nbsp;&nbsp;Hindustan TimesUrologists say the prostate cancer symptom most men over 50 ",
+      "sources": [
+        {
+          "name": "KSL.com",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNXBKdFRuVmpLTmZmMmxtRXFYb3pRRnY2Z3RxaGpBeTlfZjVHcThGMmJXdWxraDFCcjNxOU5tQzVvbElVNTFfdGt4UFNmUEd1eXlYMFdMdlRseTNCWkNqOTBGRFk4bHdtX3plVm9idWc0ZnAwNF9fcnJQREhHaXlBS0pQNURNSEl5Tk5MWXB3TjVRVXBqYlZJMnp0a2xuSzdyazZ6Sll4c0pWRTFNQjRlODZBU1Bib01xXzM1emZwZmVpTHM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "291c3b8ab94f",
+      "title": "Common Mouth Bacteria May Trigger Dangerous Calcium Buildup in the Heart - SciTechDaily",
+      "published": "2026-07-17T00:51:37+00:00",
+      "summary": "Common Mouth Bacteria May Trigger Dangerous Calcium Buildup in the Heart&nbsp;&nbsp;SciTechDailyBacteria from gum disease may cause inflammation, harden heart valves&nbsp;&nbsp;www.heart.orgScientists discover a hidden heart valve risk linked to gum disease&nbsp;&nbsp;ScienceDailyBleeding gums may be doing more than harming your teeth: Scientists discover a link between gum disease bacteria and a serious heart valve condition&nbsp;&nbsp;The Times of IndiaGum Disease Bacteria Found in Calcified A",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWmhaOXI1SGRQcGFyMkhOOUk3aHhfLWVGbmhjVUNtMkdrWF9lUE55WDVjSVU5S1VGLURfb2dvMVdEYzRXYUY4RFVCczh6aXZzalN3emFVaTQ1N3dySF9ReURJSlNuLVhydjRqa3FvQ3lSWndYd0ZrUE5wUk1XN3NOM1cwalBhWldVaTk5TWw1b1NqVE05MHZpOVYyOUxqWTA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "729f2c0d94c6",
+      "title": "Cyclosporiasis case in Fresno County not linked to outbreak, officials say - ABC30 Fresno",
+      "published": "2026-07-17T00:34:04+00:00",
+      "summary": "Cyclosporiasis case in Fresno County not linked to outbreak, officials say&nbsp;&nbsp;ABC30 FresnoFresno County confirms a cyclosporiasis case, health officials say&nbsp;&nbsp;yourcentralvalley.comTehama County warns residents as nationwide Cyclospora outbreak spreads to California&nbsp;&nbsp;KRCRCyclosporiasis case in Merced County confirmed by health officials&nbsp;&nbsp;ABC30 FresnoHealth Officials Report No Cyclosporiasis Outbreak in Santa Barbara County&nbsp;&nbsp;Noozhawk",
+      "sources": [
+        {
+          "name": "ABC30 Fresno",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXRFanVaakd5TFI2RFk2d19Ca29nU0s0OXJOaFlac3phU2wzUXZWcEs3WFNZOVB5Nm1kVUttMk9QWm4yX3AtYUdIakdaYzRsWnZxWllFYnU0dzVCXzRGclB2NV95Rm5KRGdCcEtPanpxaExUcy1ZR1JGcXZxUWUzOFUwZ2xDeVFBeGk2aHl4WEFIS1JPZUdLOVh6b3pDLUtGc2fSAacBQVVfeXFMTjdJck5xdWNnMUluU0ZGMnU2WjhHUGdQV1RHbDBBX3VmeVFyaEUwT0N5dHQxOHA4TXJqdnQwUEVRX0FZMi1JMHZvaU51Y3pzaU5udGNoeGZMQWRHU1ZORmZTZzZqcW0yRmZSSHZLNEc0Y09CbENlVlNGTFJfT1RZY053V1NzU1hQb3F1RmVjZ24waWZBNTRlbnNoNlVSalpsb3VEVktqaEU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ffd72f397068",
+      "title": "Prostate cancer trial using focal therapy has fewer side effects - BBC",
+      "published": "2026-07-16T23:36:40+00:00",
+      "summary": "Prostate cancer trial using focal therapy has fewer side effects&nbsp;&nbsp;BBCProstate cancer treatment used by Clarkson cuts risk of side effects&nbsp;&nbsp;The TelegraphProstate cancer treatment with fewer side effects 'as effective as radiotherapy and surgery'&nbsp;&nbsp;Sky NewsMinimally-invasive prostate cancer treatment used by Clarkson has fewer side effects&nbsp;&nbsp;The IndependentA New Chapter in Prostate Cancer Care: How Focal Cryotherapy Is Changing the Game&nbsp;&nbsp;Cure Today",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QSUR1UVRGZlpENjFYckRwbENNOExUa1dwajZhdVg3cXlWaENZaXRTNG9YSDhabnNUWF9Rc1RTNEdLa0xOU0NNczBvbGoyVGNmQ0RzbGxFU2ZpZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8cc25bebdf23",
       "title": "Ebola spreading more quickly in DRC, while Uganda is close to being virus-free - Al Jazeera",
       "published": "2026-07-16T22:30:36+00:00",
-      "summary": "Ebola spreading more quickly in DRC, while Uganda is close to being virus-free&nbsp;&nbsp;Al JazeeraWHO warns DR Congo Ebola outbreak is outpacing response as Uganda reaches milestone&nbsp;&nbsp;UN NewsDRC Ebola cases surpass 2,000 as more health workers begin strike&nbsp;&nbsp;Al JazeeraTransport of dead bodies within Congo risks further Ebola spread, UN agency warns&nbsp;&nbsp;ReutersEbola 'spreading faster than any previous outbreak' in DR Congo, WHO warns&nbsp;&nbsp;France 24",
+      "summary": "Ebola spreading more quickly in DRC, while Uganda is close to being virus-free&nbsp;&nbsp;Al JazeeraMore health workers strike as Ebola cases in Congo exceed 2,000, including 754 deaths&nbsp;&nbsp;AP NewsWHO warns DR Congo Ebola outbreak is outpacing response as Uganda reaches milestone&nbsp;&nbsp;UN NewsTransport of dead bodies within Congo risks further Ebola spread, UN agency warns&nbsp;&nbsp;ReutersEbola 'spreading faster than any previous outbreak' in DR Congo, WHO warns&nbsp;&nbsp;France 2",
       "sources": [
         {
           "name": "Al Jazeera",
@@ -213,11 +321,35 @@
       "id": "93633ad17283",
       "title": "Near-Earth asteroid turns out to be something unusual, NASA finds - KTLA",
       "published": "2026-07-16T21:29:18+00:00",
-      "summary": "Near-Earth asteroid turns out to be something unusual, NASA finds&nbsp;&nbsp;KTLANear-Earth asteroid not an asteroid at all&nbsp;&nbsp;Popular ScienceNASA Study Finds Near-Earth Asteroid Is Actually Comet&nbsp;&nbsp;NASA (.gov)Non-gravitational acceleration indicative of cometary activity of near-Earth object&nbsp;&nbsp;NatureAsteroid with unexplained orbital shift turns out to be a 'dark comet'&nbsp;&nbsp;Phys.org",
+      "summary": "Near-Earth asteroid turns out to be something unusual, NASA finds&nbsp;&nbsp;KTLANASA Study Finds Near-Earth Asteroid Is Actually Comet&nbsp;&nbsp;NASA (.gov)Near-Earth asteroid not an asteroid at all&nbsp;&nbsp;Popular ScienceNon-gravitational acceleration indicative of cometary activity of near-Earth object&nbsp;&nbsp;NatureAsteroid with unexplained orbital shift turns out to be a 'dark comet'&nbsp;&nbsp;Phys.org",
       "sources": [
         {
           "name": "KTLA",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcEUyZzlQdlNwS21IWlhWM3V2ZVpNVzRmUGUxS3FFaHVTQTh3cHZQUlZhYWc2VkpDcmVLMHh2VmZzVWxuaXl4ejZKaFpQYWl5enB5bldqVWNrUDJBVXRrZmh3QWs1cUs3N05lSVdQbGc5VG56T1NhVm5wUEJIVGNtblpscG8zcHhrelVRVVhUSzVWenhYanZwamFUcnRaSThF0gGmAUFVX3lxTE95YUJJcVFwVVQ5X21Nbk1KUVVlVWZHSGpXT1ZPTEZvYlV2ZXZaZWF5N1ZxTF9kc1ZZbzFoS2dqMjNiXy1JSDV4RjVMREE2QlFzUXhsMDBfckZ6aV84RlkxTWg0WmlJOEpabkdTWFZtSVl2eE52ak9Xa1RRa2lfSzZLZmlad20xcWs0Z0s5a1FrSFc3VDNxUk04eW5TME1EWTV6N3V3Tmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "95e1c0c90a16",
+      "title": "Marked Safe From the Parasite: 6 Delicious Foods With More Fiber Than Spinach - Vogue",
+      "published": "2026-07-16T21:24:53+00:00",
+      "summary": "Marked Safe From the Parasite: 6 Delicious Foods With More Fiber Than Spinach&nbsp;&nbsp;Vogue5 Easy Ways to Get 10 Grams of Fiber at Breakfast&nbsp;&nbsp;EatingWellWe’re finally uncovering fibre’s remarkable benefits for body and mind&nbsp;&nbsp;New ScientistFive fibre-packed foods to add to your summer diet&nbsp;&nbsp;The Globe and MailThe #1 Fiber-Rich Breakfast Registered Dietitians Swear By for Better Gut Health&nbsp;&nbsp;Yahoo Life UK",
+      "sources": [
+        {
+          "name": "Vogue",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVXhOaFh2RFVMNFRYVzBUMER3X1ZfU184czVzMFJIQnFmQkVyWXZnZEZSck1FR1RmbFp5bXBIcXJMbTAzZkJGazhuUDl2TEJHNFB4dzJDcGs2bU9fN3hjczBwWTAyUTlMV1I2SkZLTlh0ZHNpVUlVbDJ5RUU4b0xaNnd3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8d55c57db549",
+      "title": "Kids with deadliest brain cancers survive years after breakthrough cell therapy - New York Post",
+      "published": "2026-07-16T20:50:00+00:00",
+      "summary": "Kids with deadliest brain cancers survive years after breakthrough cell therapy&nbsp;&nbsp;New York PostFour children with terminal brain cancer saved by new cell therapy&nbsp;&nbsp;New ScientistMiguel Bronchud: New Promising Results of Cellular Immunity Therapy in Incurable Brain Cancer of Children&nbsp;&nbsp;OncodailyNew autologous T cell therapy offers hope for children with brain tumors&nbsp;&nbsp;Drug Discovery NewsTerminal Brain Cancer Has Killed Kids for Decades. Four Survived This Cell T",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOak1scUdsSUdINXRINUI0b08tQlFWLTdyTXBqSEx2d1FEQUdyVmp3dF9DS2dSZVQ4TFBHRVlWalFCZWo4dkt1d0d5QmdBX1JyM3BfeFR5cVNXRl9ZMTVxRWQ3TndJWUwzNTNFR2VtVVFjZ0tEbTZ6WmZHWmMxbkUtVzUwYjJNRVg1OWdUUW0xVnJTeHB4Z0ZTSm41VEdCZ3M4SWE2MjhlektRWjF2TnNRTDNNZi0xblkw?oc=5"
         }
       ]
     },
@@ -234,14 +366,14 @@
       ]
     },
     {
-      "id": "7aee7d83b252",
-      "title": "Only 12% of testosterone prescriptions are medically necessary — and Trump wants to make that ratio even smaller - Fortune",
-      "published": "2026-07-16T19:18:00+00:00",
-      "summary": "Only 12% of testosterone prescriptions are medically necessary — and Trump wants to make that ratio even smaller&nbsp;&nbsp;FortuneSee more headlines & perspectives on Google News",
+      "id": "8208b8a27fff",
+      "title": "Implant helps paralyzed man to feed himself and drink from a cup - Medical Xpress",
+      "published": "2026-07-16T20:00:01+00:00",
+      "summary": "Implant helps paralyzed man to feed himself and drink from a cup&nbsp;&nbsp;Medical XpressA neuroprosthesis for restoring hand movement and sensation in a person with complete tetraplegia&nbsp;&nbsp;NatureNeurostimulation restores feeling in paralysed hand for months after&nbsp;&nbsp;New ScientistParalyzed Man Feels Sensation Again With Brain Stimulation Device&nbsp;&nbsp;the-scientist.comBrain implant helps paralysed man to feed himself and drink from cup&nbsp;&nbsp;The Guardian",
       "sources": [
         {
-          "name": "Fortune",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QMFprQTdsWFFveWdRaG9NNm13cFh1R2FRbEphMXRIdmRMRG1VUXBvWUpCYy1PYnE5d1BNdDBuYTdpS1BxX3pPdnA4SUdqX2F0R245UUdOWlZ2cHE0UGl5Q1UwbmM5N1pmNWg4Wmsta2xXY3l6S3JYTnJWYWtCMnc?oc=5"
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SaVZGUXlNMm5PZ0llc0ZWQzNQRXlYdWthQXJHSXZMY1NqZmg4UlhBdklrRlJqS3V3aHhLMXRJRVRRODBoYWtmSXdnQXBfcmN4dmNQS1FyWWNnQmZyZ2lqWEk2QzJoVEFjV2dSMllRSEdkVFE?oc=5"
         }
       ]
     },
@@ -261,7 +393,7 @@
       "id": "2c32b2ac134e",
       "title": "2 People Exposed to Rabid Raccoon in Whitesboro - WKTV",
       "published": "2026-07-16T18:56:00+00:00",
-      "summary": "2 People Exposed to Rabid Raccoon in Whitesboro&nbsp;&nbsp;WKTVRaccoon Tests Positive for Rabies in St. Lawrence County; Eighth Case This Year&nbsp;&nbsp;WWNYRaccoon tests positive for rabies in Whitesboro&nbsp;&nbsp;AOL.comFranklin County’s third rabies case reported&nbsp;&nbsp;The Malone TelegramRaccoon in Otsego County tests positive for rabies, health department confirms&nbsp;&nbsp;WBNG",
+      "summary": "2 People Exposed to Rabid Raccoon in Whitesboro&nbsp;&nbsp;WKTVFranklin County’s third rabies case reported&nbsp;&nbsp;The Malone TelegramRaccoon is eighth animal to test positive for rabies in St. Lawrence County&nbsp;&nbsp;nny360.comRaccoon in Otsego County tests positive for rabies, health department confirms&nbsp;&nbsp;WBNGRaccoon Tests Positive for Rabies in St. Lawrence County; Eighth Case This Year&nbsp;&nbsp;WWNY",
       "sources": [
         {
           "name": "WKTV",
@@ -270,34 +402,10 @@
       ]
     },
     {
-      "id": "0407ecad3d81",
-      "title": "Second rare cancer strain emerges as Southern California cluster grows - Yahoo",
-      "published": "2026-07-16T18:49:21+00:00",
-      "summary": "Second rare cancer strain emerges as Southern California cluster grows&nbsp;&nbsp;YahooSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcEZ1Vm5PeTJxZUlOdVlCTkNuWFF2bkxITVA1bHJLcGZZYkdCUjlSY3BJTFpGS1dQWDhkSjZ4bEZqcUxTNjFBZURDN1JHY1ZUNXhPMXpDZm1jYTd4emprQUM3dGxkb3hvQWc5QkxadUFhOGl6MGlCSzZtYWZNWUUySnp5M19JdlZ5Q2NyMm1WUjZGV0lSWVl3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "23fc3e1782cd",
-      "title": "Two cases of ‘explosive diarrhea’ parasite confirmed in Knox County - WATE 6 On Your Side",
-      "published": "2026-07-16T18:44:24+00:00",
-      "summary": "Two cases of ‘explosive diarrhea’ parasite confirmed in Knox County&nbsp;&nbsp;WATE 6 On Your SideHealth officials confirm two Cyclospora cases in Knox County amid multi-state outbreak&nbsp;&nbsp;Knox PagesCounty Monitoring Shows No Local Cyclosporiasis Outbreaks, Food Safety Recommended&nbsp;&nbsp;San Diego County News CenterErie County reports seven cases of cyclosporiasis amid outbreak&nbsp;&nbsp;Erie Times-News9 Cyclospora cases identified in Adams County; investigation underway&nbsp;&nbsp;W",
-      "sources": [
-        {
-          "name": "WATE 6 On Your Side",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTE1ib05OUGR4N0JhNG1RTndSc1h5d3VYc1ZSV1NrRTRsRXlkMjNHQzRfbGVfLWxjcW9wUUdRQmQwN2FtRTZZd3RKcGwydS1xOWpDTHV0b3h1cUhMZGdtTkdXaVFYQ0tTemprNHhWSGlndG8wX2hPRUxNdU9DRzMwSVdR0gGHAUFVX3lxTFBnSGxVWXR0Uk5vRWo2NF90eTllSEsweEF3bkQwdjB3X1Rwb2VtNDVnbndqN1N6ZlA3VFJURGQ1YWkzbmZRV2VPc1FBWWRfdG9Fa05aclZFNUlhcUprWUhWNUF2V1JmTjVaa0xCaTF2SW43MUhtNjByeTQ0VHNwemVUY0VLRjc5QQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8373ac16fe74",
       "title": "Breakdown of immune cells' interaction is key driver in aging, study finds - Medical Xpress",
       "published": "2026-07-16T18:00:04+00:00",
-      "summary": "Breakdown of immune cells' interaction is key driver in aging, study finds&nbsp;&nbsp;Medical XpressAge-associated decline of Lamtor5 drives immunosenescence and systemic aging via cGAS-mediated paracrine inflammation&nbsp;&nbsp;NatureTweaking a Macrophage Receptor Staves Off Aging in Mice&nbsp;&nbsp;the-scientist.comStudy maps how macrophages age across different body tissues&nbsp;&nbsp;News-MedicalMacrophage Receptor Blockade Reverses Multi-Organ Aging&nbsp;&nbsp;Neuroscience News",
+      "summary": "Breakdown of immune cells' interaction is key driver in aging, study finds&nbsp;&nbsp;Medical XpressAge-associated decline of Lamtor5 drives immunosenescence and systemic aging via cGAS-mediated paracrine inflammation&nbsp;&nbsp;NatureTweaking a Macrophage Receptor Staves Off Aging in Mice&nbsp;&nbsp;the-scientist.comStudy maps how macrophages age across different body tissues&nbsp;&nbsp;News-MedicalOne immune cell could hold the key to slower aging&nbsp;&nbsp;Earth.com",
       "sources": [
         {
           "name": "Medical Xpress",
@@ -354,26 +462,14 @@
       ]
     },
     {
-      "id": "0d1b053af217",
-      "title": "The US military will now test for ‘low T.’ Here’s what your testosterone levels actually tell you - CNN",
-      "published": "2026-07-16T16:58:38+00:00",
-      "summary": "The US military will now test for ‘low T.’ Here’s what your testosterone levels actually tell you&nbsp;&nbsp;CNNOpinion | The testosterone craze fuels fear — not masculinity&nbsp;&nbsp;The Washington PostAvera Medical Minute: Understanding low testosterone&nbsp;&nbsp;Dakota News NowTestosterone, fatherhood, and what it means for masculinity&nbsp;&nbsp;American Institute for Boys and Men | AIBMWhy everyone is suddenly talking about testosterone – even in the White House&nbsp;&nbsp;The i Paper",
+      "id": "62c2d25447a6",
+      "title": "Why the Mediterranean diet is so good for you, and 5 easy ways to try it - The Washington Post",
+      "published": "2026-07-16T16:00:00+00:00",
+      "summary": "Why the Mediterranean diet is so good for you, and 5 easy ways to try it&nbsp;&nbsp;The Washington PostIs olive good for your heart? Heart surgeon Dr Jeremy London shares how it affects risk of heart attacks and stroke&nbsp;&nbsp;Hindustan TimesMediterranean diet: We're finally working out why this diet is so good for us&nbsp;&nbsp;New ScientistEverything olive oil can do for your heart, gut and brain health&nbsp;&nbsp;Vogue IndiaWhat Eating Olive Oil Does for Your Body—and the Best Ways to Use ",
       "sources": [
         {
-          "name": "CNN",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNVFscF8wcjFlUmUtZ0h0MDVFelRQbV9HUDU5M0ljSEFRVG5YX2Q2QkU1OV9DTmM2MU5kMEpMWExtVmxhZGFraGNyTEZRdU90MXJCYm1YZU5ZeUZEVTR0WllLdVpYMWRzbWM4cW5XNFl2ZWNiM0ZiZVlrNF9aanNmRDViZXkzeUNSVEtqMHB0Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "701e979cb92a",
-      "title": "Paralysed man regains hand function through novel brain technology - Financial Times",
-      "published": "2026-07-16T15:00:30+00:00",
-      "summary": "Paralysed man regains hand function through novel brain technology&nbsp;&nbsp;Financial TimesA neuroprosthesis for restoring hand movement and sensation in a person with complete tetraplegia&nbsp;&nbsp;NatureParalyzed Man Feels Sensation Again With Brain Stimulation Device&nbsp;&nbsp;the-scientist.comNeurostimulation restores feeling in paralysed hand for months after&nbsp;&nbsp;New ScientistImplant helps paralyzed man to feed himself and drink from a cup&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORzg2azROZHUzcWVoS2N4OHFFZlVNOFRxTmQ2VGZ0bGg3WVg0M0tOSlo4dFN0S2ZKNm5rWVh1ZTZKNloxZ1YxdHhlZ0h1N3VhOXlyWXZIdUhQRDFYV04xWTZkQnBMTTJYUlRyR3FaUUxQWDhwU3VGZ3FXRVU2dHo5UjZ1MXo?oc=5"
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOUY1SUoyVlpCM3d3YUtYMGo1TG96RHdrY1RmZTNMN05KMlNXYU5BZDdTTDlJOXM4WUFodmJSam5jZi11RG9UZVU5c0ktRzBjcS1Mcm1uQ2ZVbXZFMkN2aFZVajNBUS04RlRPcjZwNXpTZFoyeU04dE9UTHB3OFZpN0psMk9ncDRGZWJ3R1d5a1ZxNmdZT2UtNTB3ZmFZQVBtMHAxb3YwTzBtV3lyRnc?oc=5"
         }
       ]
     },
@@ -386,6 +482,18 @@
         {
           "name": "Phys.org",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUTNRc1pTdlN5WUZ2aWdTRHBWX2EwdU1ERkFVQ01tOUY3SFI0TE5hRXdrdUJDWVBONjNMaEpRZzVvZFYwZjB3b1c5LTl0dHJfOVpsNFYwTHByQ0hYSEpBR2hwbVNJbzNBQThtZE1FZTlFS3JJaGN3Y3dEY0NLazY5QzMxRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "614e778553a5",
+      "title": "Microplastics documented for first time in deep-sea ecosystems - Oceanographic Magazine",
+      "published": "2026-07-16T13:25:56+00:00",
+      "summary": "Microplastics documented for first time in deep-sea ecosystems&nbsp;&nbsp;Oceanographic MagazineMicroplastics have reached one of Earth’s most isolated ecosystems: Indian Ocean animals carried up to 14.7 times more particles than Pacific specimens&nbsp;&nbsp;The Times of IndiaMicroplastics reach even 2,000 meters below the ocean surface, study finds&nbsp;&nbsp;Phys.orgMicroplastics Found In 92% Of Hydrothermal Vent Animals 2 Kilometers Deep On The Ocean Floor&nbsp;&nbsp;IFLScienceMicroplastics F",
+      "sources": [
+        {
+          "name": "Oceanographic Magazine",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVWd2UGwwSVBjWFBDeEMzTWxmWVlsQXdTRWlzdnNUV2hlVHNyV1VBbC1LUThETWZMdXJ1S1hib0tWaXZ6M0FlZEhMRDU2OW9PU2RYSFpVN3lHYXZPd0N2cHo3OUJwWnVvNWE5Zm5mQzV5U1ZzVlNZQVhSMllHWDBKdlhGdGtkZDZITHBkcEwySE5URXN1UXVpTVNYdVRVaDR1VmJxQQ?oc=5"
         }
       ]
     },
@@ -414,10 +522,22 @@
       ]
     },
     {
+      "id": "6c768658103e",
+      "title": "Melatonin may help ease chronic muscle and joint pain, new study suggests - The Conversation",
+      "published": "2026-07-16T12:43:23+00:00",
+      "summary": "Melatonin may help ease chronic muscle and joint pain, new study suggests&nbsp;&nbsp;The ConversationSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "The Conversation",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYzJWWDA5WC16Vy1JYW4yXzRVT1Z5ajB3bV9BTmhTbThVMV9zajZxUE9NWUJ4Q1ZWV3pjcTZ0bi1FTXpCWTVZeG81V0k0NC05VWlFTWM0MFN3NW5LNVJwZ3Q2V0lZbVhQYkhNaTI4VGdOUjNBdVVHV0FBcEZlejdpMmNIZmg4R3VWX1A1MDNVZnJacVNVMVFQbTAwZWFidktDWU1VSS1GXzJISUE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3a39c59281a5",
       "title": "How to avoid tick bites in your yard or while hiking in the woods, and what to do if one starts feasting on you - The Conversation",
       "published": "2026-07-16T12:21:17+00:00",
-      "summary": "How to avoid tick bites in your yard or while hiking in the woods, and what to do if one starts feasting on you&nbsp;&nbsp;The ConversationTick-Related Diseases Are on the Rise. You Need Only One Repellent for Your Whole Family.&nbsp;&nbsp;The New York TimesExperts advise caution with tick numbers high in Northeast&nbsp;&nbsp;NBC New YorkThe ticks you may find in your state, and the diseases they can carry&nbsp;&nbsp;The HillTick season is getting longer. So is the list of states trying to keep ",
+      "summary": "How to avoid tick bites in your yard or while hiking in the woods, and what to do if one starts feasting on you&nbsp;&nbsp;The ConversationTick season is getting longer. So is the list of states trying to keep up.&nbsp;&nbsp;KAKETick-Related Diseases Are on the Rise. You Need Only One Repellent for Your Whole Family.&nbsp;&nbsp;The New York TimesThe dos and don’ts of removing a tick&nbsp;&nbsp;Popular ScienceWhy the tick population is increasing — and diseases are spreading — in different areas&",
       "sources": [
         {
           "name": "The Conversation",
@@ -441,7 +561,7 @@
       "id": "d5647cb03da4",
       "title": "She Used Weight-Loss Drugs From a Telehealth Company, Then a GLP-1 Overdose Sent Her to the ER - TODAY.com",
       "published": "2026-07-16T12:00:42+00:00",
-      "summary": "She Used Weight-Loss Drugs From a Telehealth Company, Then a GLP-1 Overdose Sent Her to the ER&nbsp;&nbsp;TODAY.comWoman Hospitalized, Vomiting Every 20 Minutes After GLP-1 Overdose: ‘I Wouldn’t Put That On My Worst Enemy’&nbsp;&nbsp;People.comThe Ozempic and Wegovy mistake sending thousands to poison control&nbsp;&nbsp;ScienceDailyWeight loss drug linked to more poison control calls, UT San Antonio re­searchers say&nbsp;&nbsp;Spectrum NewsGLP-1 Overdose Sends 54-Year-Old Woman to Hospital&nbsp;",
+      "summary": "She Used Weight-Loss Drugs From a Telehealth Company, Then a GLP-1 Overdose Sent Her to the ER&nbsp;&nbsp;TODAY.comWoman Hospitalized, Vomiting Every 20 Minutes After GLP-1 Overdose: ‘I Wouldn’t Put That On My Worst Enemy’&nbsp;&nbsp;People.comThe Ozempic and Wegovy mistake sending thousands to poison control&nbsp;&nbsp;ScienceDailyGLP-1 Overdose Sends 54-Year-Old Woman to Hospital&nbsp;&nbsp;The Daily BeastData Show Rise in GLP-1 Poison Center Calls Tied to Dosing Errors&nbsp;&nbsp;Drug Topics",
       "sources": [
         {
           "name": "TODAY.com",
@@ -453,11 +573,23 @@
       "id": "b3f4ad3b7158",
       "title": "Skin Issues Can Signal Heart Problems. Dermatologist Reveals the No. 1 Sign to Look For - TODAY.com",
       "published": "2026-07-16T12:00:41+00:00",
-      "summary": "Skin Issues Can Signal Heart Problems. Dermatologist Reveals the No. 1 Sign to Look For&nbsp;&nbsp;TODAY.comTell Me Why skin health matters more than you think&nbsp;&nbsp;Gulf NewsWhat Your Skin Could Be Telling You About Your Health&nbsp;&nbsp;YahooWhat Does Skin Longevity Really Mean?&nbsp;&nbsp;newbeauty.comSkin Issues Can Signal Heart Problems. Here’s the No. 1 Sign to Watch For&nbsp;&nbsp;AOL.com",
+      "summary": "Skin Issues Can Signal Heart Problems. Dermatologist Reveals the No. 1 Sign to Look For&nbsp;&nbsp;TODAY.comTell Me Why skin health matters more than you think&nbsp;&nbsp;Gulf NewsWhat Your Skin Could Be Telling You About Your Health&nbsp;&nbsp;YahooWhat Does Skin Longevity Really Mean?&nbsp;&nbsp;NewBeautySkin Issues Can Signal Heart Problems. Here’s the No. 1 Sign to Watch For&nbsp;&nbsp;AOL.com",
       "sources": [
         {
           "name": "TODAY.com",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdHNVUkhidzBsU2gwam5CeHV0dHlBd05aRnpzcTBpeG8zQjFXNWZfdUdKNnQyQk9ITFp5V1R0ZGtidFR2NFlnbzM2cnhhRVlyMkZTN3E1YkRnVklLMHc3QnFJcUdpbjdaWEl3UEp3R21JVUVRQ2ctNUY3UlBKZmhZX3g2eFlUNUVwUU9CcU1YNWFZRi1lVkljbVN0QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "22400559831f",
+      "title": "Oregon officials keep eye out for dangerous new opioid found in other parts of the country - OregonLive.com",
+      "published": "2026-07-16T12:00:00+00:00",
+      "summary": "Oregon officials keep eye out for dangerous new opioid found in other parts of the country&nbsp;&nbsp;OregonLive.comCychlorphine, a drug 10 times stronger than fentanyl, showing up in North Louisiana street pills&nbsp;&nbsp;KSLANew synthetic opioid cychlorphine appearing on Ohio streets, researcher warns&nbsp;&nbsp;Cleveland 19 NewsNLCL warns of drug it says is 10x more powerful than fentanyl&nbsp;&nbsp;louisianaradionetwork.comMid July update: Cychlorphine now confirmed in 7 North Louisiana par",
+      "sources": [
+        {
+          "name": "OregonLive.com",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaXlLZlBWRzdLZVhkN3Z2WmViWGFmUVJGRzhfQUFUQVRHVzFjVW92SXE5SEVHaGZKV0ZPV0ZDblJPcnVaajFXT0NfZ00yc3IxVDhmNk00Tjh2QzNnWXVIUVJwQ3BkMzhpc1BQLVdBa3dCcDhoR0UzMzJDTy1lV2llTkxUdjBLN3NITUItRmc5NVFfWlM0RTFwcnRLUzBfNV9rckNLSW0tRHhvSUZLRlFZYm9kbWZBLTRaMHRCY29WdXByay10cVZKYUk2WWZrSlJXeVhucXRB?oc=5"
         }
       ]
     },
@@ -474,86 +606,14 @@
       ]
     },
     {
-      "id": "4e76b4c7a05e",
-      "title": "A Vaccine to Prevent Pancreatic Cancer in High-risk Individuals Was Safe and Elicited Durable Immune Responses - American Association for Cancer Research (AACR)",
-      "published": "2026-07-16T05:01:32+00:00",
-      "summary": "A Vaccine to Prevent Pancreatic Cancer in High-risk Individuals Was Safe and Elicited Durable Immune Responses&nbsp;&nbsp;American Association for Cancer Research (AACR)Sandra Misale: Intercepting PDAC in High-risk Individuals by KRAS-Targeting Vaccine&nbsp;&nbsp;OncodailyHOMETOWN HEALTH: New vaccine could prevent pancreatic cancer in high risk patients&nbsp;&nbsp;WDBJ7From Treatment to Prevention: How Vaccines Are Reshaping the Fight Against Pancreatic Cancer&nbsp;&nbsp;American Association for",
+      "id": "2b84a6a5123c",
+      "title": "Strength training over decades linked to longer life - Harvard Health",
+      "published": "2026-07-16T04:00:00+00:00",
+      "summary": "Strength training over decades linked to longer life&nbsp;&nbsp;Harvard Health\"Muscle is worth its weight in gold:\" Life Time Experts Share Their Top Strength Training Tips for Women - Jul 17, 2026&nbsp;&nbsp;Life Time Healthy Way of LifeDiverse Exercise Routines Outperform Single Types in Mortality Reduction&nbsp;&nbsp;조선일보Why women should do strength training: Science-backed benefits for heart health, menopause, osteoporosis and mental well-being&nbsp;&nbsp;The Times of IndiaStrength training ",
       "sources": [
         {
-          "name": "American Association for Cancer Research (AACR)",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZThtdHd4RGZzMHh3Xzk5eF8tcC1sYjRxeUhvc091c3EtQ21vc3l6bUw4T2w2MnRHQS05dEQ1c1BzQlJUWUtEeHhpWFljRURtZng4WUo5Q29rQmtfSlJ1ODNKOExjRUlqVEphVTQxV3FwRWFSN2NGQ1VfUVdEV2cxN1pJN0FXUWpnNU5HVFJWc19uTVZLQjBBTmFRam94S3liMEJ1dmNDcWpkQmloYm5Rel81eVFJVDJuellodUk3Z20yOEVsaEhaZ0E1NjhUTlc2UzNoLVJxYzFhUXk1Z3lVYXNhM1hoYWtYVEdfZlh3Rko2bGxjTFBxU042TkgtaTA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c562e57a38ac",
-      "title": "Fears for New Zealand’s native species as first bird flu case emerges - The Guardian",
-      "published": "2026-07-16T02:26:00+00:00",
-      "summary": "Fears for New Zealand’s native species as first bird flu case emerges&nbsp;&nbsp;The GuardianCan your cat give you bird flu? What experts say about human risk and the likelihood that bird flu will cause a pandemic.&nbsp;&nbsp;UCHealthSecond New Zealand bird flu case confirmed in Wairarapa hawk&nbsp;&nbsp;StuffNative bird tests positive for bird flu – Expert Reaction&nbsp;&nbsp;Science Media CentreBird flu has reached New Zealand – what this means and what comes next&nbsp;&nbsp;The Conversation",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbTJMbWRCRy05d3NBM1dpSDZHWDQtQThSMXBtRVNUZkYwSTh0azFTUEFpYU1ja3J1eDZnWXpNSy1wR0pqZ1ZaMWE1RFFmZzB6SktHcVNRMDRfbTFEM0x2Y0cxc2g5UmF6N1o3QXhxeVFkaE9iRHp2TktLS1JkOHZienRmcG1UTHJDZ1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "346c2569738c",
-      "title": "Ketogenic diet mediates intestinal tumorigenesis through lipids not ketones - Nature",
-      "published": "2026-07-15T22:24:46+00:00",
-      "summary": "Ketogenic diet mediates intestinal tumorigenesis through lipids not ketones&nbsp;&nbsp;NatureScientists Fed Mice a Keto Diet – And Got Completely Contrasting Cancer Results in The Same Animal&nbsp;&nbsp;ScienceAlertThe keto diet might increase your small intestine cancer risk: study&nbsp;&nbsp;New York PostCould the keto diet be increasing your cancer risk?&nbsp;&nbsp;WNCTKeto Lovers, Read This: New Study Says Your Diet Might Be Feeding Cancer&nbsp;&nbsp;Vocal",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxTFFWSVppZU9PV0JYTHZERzFIMUZaZk9zTFRESExuU3FQMVlGcHBKYWRpS0NsNHpOYnltV3VYSHdhN3M4RTBpR1VLR2JERTJjZWczMy1NX25wNVhhcUZF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ff03f21246d6",
-      "title": "Maestros of healing: How 'good' immune cells help regenerate spinal cord injuries - Medical Xpress",
-      "published": "2026-07-15T22:20:01+00:00",
-      "summary": "Maestros of healing: How 'good' immune cells help regenerate spinal cord injuries&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbmlsTTRVR2M4ZFUwMGpvcU1qMGo5eHFNRURSenJnTjBiblh1ZWkyS1FkeVBUbDdBNHNiODV6ZENnbV80eWszRWRYYVpqdTRBYmh1OWZGX3pMYnpWV0FPREFfbGNPYVc5bWNSWFpoMXdQd2VIVkF5WXhXWGFOY1hlQ3ZpamVRakdT?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2eeecba0f6e1",
-      "title": "Greater gliders not as great at gliding as thought – but still look like magic carpets, experts say - The Guardian",
-      "published": "2026-07-15T21:09:00+00:00",
-      "summary": "Greater gliders not as great at gliding as thought – but still look like magic carpets, experts say&nbsp;&nbsp;The GuardianGreater Gliders’ Gliding Skills Are Overrated, Although The Researcher Maintains “They’re Greatest In My Heart”&nbsp;&nbsp;IFLScienceOne mistaken sighting created an enduring myth about this Aussie animal&nbsp;&nbsp;SBSNot the greatest glider: First study puts Australia's biggest glider to the test&nbsp;&nbsp;Phys.org",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdGZqYXdJeXJZMVh3dEVfN0JoaWFoVnNYRHlWTEs4WUJqMFhKRktYUjFsNjEtSXNTX0pBM1ZGYjNtUExqUzlZNjVQZGFxcll4ZWNtZGNqQ3A3X2U2V0F1cXprQnR3WVlEQ3RhYklvYkg3RHVUNU1LVHVvTkk3cXlzLUZ5OEVvb1hF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "100c188da243",
-      "title": "Scientists Have Identified a Key Driver of Age-Related Cognitive Decline - SciTechDaily",
-      "published": "2026-07-15T20:56:01+00:00",
-      "summary": "Scientists Have Identified a Key Driver of Age-Related Cognitive Decline&nbsp;&nbsp;SciTechDailyChinese scientists reveal how aging weakens the brain's protective barrier&nbsp;&nbsp;news.cgtn.com",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdjR4UV9nTHlaeEVsZC1jTTdHSjl1djRhd0dGNUJnQy1ZSS1nWTgyTGVNYmxINzJEcWo3QUhxdFgybnRLMWNJcHV4V3REVzVyY25VamZUZk45LXlvRHJZZmhwQ3cwUmxpaU9ZM095aXFYYV9GNFB2Wkg0VXBOcDhxS2RvYWxBNkxERUljRkduTUhISXNGTTdydjgtaXJtRkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8e55a55c6cfa",
-      "title": "Food supplements could help bees cope with climate crisis, research suggests - The Guardian",
-      "published": "2026-07-15T20:09:00+00:00",
-      "summary": "Food supplements could help bees cope with climate crisis, research suggests&nbsp;&nbsp;The GuardianSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSXNWSmpfdHc2YVJ0NmtZenp4WnJhQVFXWnZ5aUVKRVFWQ0s5OEp4Q2t1ak16eVhyM3FGR2JXZFdsWlNDNjJrMWZEU2ZaZnd0cUpQRzA3Y3dmN3NiM2h2QnNhOGhaeTgwNi10a0FNTy1ZMEVQTmhKSUJLUTRNblk5MnBiSlJxSk1xMHNYNnJwd3RpdTRhbmJsYkpPMnlpemRPdGdKQkNwVlZscDBwZlE?oc=5"
+          "name": "Harvard Health",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOczJqTVIzMFViOFd0V0JWTWJDWmswanJGbGVNV2RCUEU0SHJFVmx0VHZhYWxBUnBITmc0TXpyNlcyZVNTRGtvd2ZTVzBWWm14dHRqTC1NcHFqWW5KamJBZTRELWxKdmxpNDJYMk9uQ1ZxNWpKel9YcllfZVM0WnRld2dteXJQa240LTNEdlZvemJ3dUdtbEFnM0ZMaDlSNElWcjcwZkF5TQ?oc=5"
         }
       ]
     }

@@ -1,19 +1,19 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-07-18T02:42:58.309663+00:00",
-  "total_fetched": 105,
-  "unique_count": 105,
-  "health_related_count": 51,
+  "fetched_at": "2026-07-18T07:55:32.661203+00:00",
+  "total_fetched": 119,
+  "unique_count": 119,
+  "health_related_count": 52,
   "news": [
     {
-      "id": "3f0b0554e685",
-      "title": "There are more cases of Cyclosporiasis that have been reported in Mississippi. - WAPT",
-      "published": "2026-07-17T23:47:00+00:00",
-      "summary": "There are more cases of Cyclosporiasis that have been reported in Mississippi.&nbsp;&nbsp;WAPTDomestically Acquired Cyclosporiasis Cases in Multiple U.S. States, 2026 | HAN&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)Missouri cyclospora cases go up as outbreak linked to alleged supplier from St. Louis E. coli scare&nbsp;&nbsp;STLPRWhat to Know About the Cyclosporiasis Outbreak and How to Stay Safe&nbsp;&nbsp;WSJAlaska reports 5 cases of parasitic disease that has sickened t",
+      "id": "6b81b36fd928",
+      "title": "Map: ‘Explosive diarrhea’ parasite outbreak by state - NewsNation",
+      "published": "2026-07-18T03:31:23+00:00",
+      "summary": "Map: ‘Explosive diarrhea’ parasite outbreak by state&nbsp;&nbsp;NewsNationDomestically Acquired Cyclosporiasis Cases in Multiple U.S. States, 2026 | HAN&nbsp;&nbsp;Centers for Disease Control and Prevention | CDC (.gov)What to Know About the Cyclosporiasis Outbreak and How to Stay Safe&nbsp;&nbsp;WSJOpinion | Cyclospora cases are spreading. Why don’t we know more about it?&nbsp;&nbsp;MS NOWTracing Cyclospora: NC cases not connected to Taco Bell lettuce, source of bug still TBD&nbsp;&nbsp;WRAL",
       "sources": [
         {
-          "name": "WAPT",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeGNtVDQ5UFpGWGdxd0VkNUZ4T3pfUEx3N0dmWDdJOGpuWm9WUFRCS0ZnckUweWFhUUtybnFrY2xRTnNWM2NBWVZoeDJYRkF5V0hrQXlWS2dLMVJBRXNONE9zeE9GSTFlTXF1d3F1Wk5OLXVvVVc5UzVQenF1TjVuZ0N2SkRSNDJfVUktdFVjNUlmc3dYZ3hITF8zVUtYNFcyZ0hlOHNJV2tTQQ?oc=5"
+          "name": "NewsNation",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb3N0X19vTWo1ZWtEWEZ6UWlpNTVXU3E3M0Yxa2lsM0FlSUVPdjlEN0VrV1k2ZmNwZERpQzJJZVJyYjZxWGlaQUF1bEJhZDFTcHBUZnBMVFpUWUV0R2Y2Y0RBc1U0WmtJb2hTR05hLWlKNlBnR0txR1NobkE1QklDazd1ZUFlUEHSAYwBQVVfeXFMUFNDOEpfanhaTGkxUTF2N0I3dFd6OURWa1VCTnlrRFhIcHJOdFdaQjNWbEJnTzZnQVdEeGU3c1RxTjVOaWtKdldYREFXdHV6bDN0ZEVoWGpRNURpbHBBZmNxeXBmUURUeUNUZmFzc2hxWVVCYmhmaUZ0WWQ1b3FKbjBxd0xVVjZwbHd3bXY?oc=5"
         }
       ]
     },
@@ -21,7 +21,7 @@
       "id": "529c2f29885d",
       "title": "One person dies amid legionnaires’ disease outbreak in New York City - The Guardian",
       "published": "2026-07-17T23:46:00+00:00",
-      "summary": "One person dies amid legionnaires’ disease outbreak in New York City&nbsp;&nbsp;The GuardianLegionnaires' outbreak: First death reported in connection to Upper East Side cluster; 67 cases total&nbsp;&nbsp;ABC7 New YorkOne death reported in New York City Legionnaires’ disease cluster&nbsp;&nbsp;CNNFirst Patient Dies of Legionnaires’ Disease After New York Outbreak&nbsp;&nbsp;The New York TimesFirst death reported from Legionnaires' outbreak on Upper East Side, Health Dept. says&nbsp;&nbsp;NBC New",
+      "summary": "One person dies amid legionnaires’ disease outbreak in New York City&nbsp;&nbsp;The GuardianLegionnaires' outbreak: First death reported in connection to Upper East Side cluster; 67 cases total&nbsp;&nbsp;ABC7 New YorkOne death reported in New York City Legionnaires’ disease cluster&nbsp;&nbsp;CNNUWS Building’s Hot Water System Tests Positive for Legionella Bacteria, Memo Shows&nbsp;&nbsp;West Side RagLegionnaires’ Outbreak Turns Deadly on New York’s Upper East Side&nbsp;&nbsp;Bloomberg.com",
       "sources": [
         {
           "name": "The Guardian",
@@ -30,14 +30,50 @@
       ]
     },
     {
-      "id": "ec810c7d52f6",
+      "id": "3c66dcbb3a44",
+      "title": "Family outraged after teen left to discover her HIV diagnosis through online portal - The Independent",
+      "published": "2026-07-17T23:16:00+00:00",
+      "summary": "Family outraged after teen left to discover her HIV diagnosis through online portal&nbsp;&nbsp;The Independent",
+      "sources": [
+        {
+          "name": "The Independent",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU3l5bm41b2tudkYxU2h0N2V3TGZ5dkMxbml3TDdfbU90b3dLUGhRUUI4RkFDejZFSktXdWVWZlhkME5neDVSUWJ0eGc2WW9seENaVWhlODl2XzlwSXJ3cXY4QW9vc21NX2JieWdlbkRhcGtRYk5IX1o0bTFPam16QXdNMXZCc243TDRWZHdIdDc1ZFpLNDVOUTFJWVhGSkp1cGNwZl9ldV9Idw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b0c8fa1c5f00",
+      "title": "New study links ADHD symptoms in boys and addictive social media use - The Washington Post",
+      "published": "2026-07-17T22:00:00+00:00",
+      "summary": "New study links ADHD symptoms in boys and addictive social media use&nbsp;&nbsp;The Washington PostA new study suggests that addictive social media use among adolescent boys could contribute to worsening ADHD symptoms. Read more here: https://wapo.st/3T2Ylhu&nbsp;&nbsp;facebook.comBoys' Social Media Use Tied to Rising ADHD Symptoms&nbsp;&nbsp;Newser",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWjBNSm5WRVZiSDJEakJ4V3hleWdObGJnREJveEtlUWNvM2lSS0I1UUk2VEVJZ2ZCa3VRUmFlemlOQ29YSmRSMEdFUWM3M2hWVFJ6cDBmNFpfMmw3UW82OWRnVkZZNkVkQ01nQllzNnNwajUzMHZlb3pPcUF1azd4WkNTbWJ5c3NOOXZuV1RLVTgyeUJMUUFwUFF6WGlYUFZBN01la2llSkFyMU03ODZnSw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4a0e4f9b6f8a",
+      "title": "Two animals test positive for rabies in South Carolina counties - WYFF",
+      "published": "2026-07-17T21:59:00+00:00",
+      "summary": "Two animals test positive for rabies in South Carolina counties&nbsp;&nbsp;WYFFRabid fox confirmed in Georgetown County; person, dog exposed&nbsp;&nbsp;WPDEDPH: Dog exposed to rabid raccoon in Greenwood County&nbsp;&nbsp;FOX Carolina NewsHealth officials warn of rabid fox in Georgetown area&nbsp;&nbsp;WMBFDog quarantined after rabies exposure in Greenwood County: SCDPH&nbsp;&nbsp;WSPA 7NEWS",
+      "sources": [
+        {
+          "name": "WYFF",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcElGbVROZjlmZnRHdzZiYzFKRmg5U0Y4aC1lamlPODBFdjdaVUFDalZWeV8xbXRFTklCalZxZXpMY2U0VkNMTk1wSmJKdE1jVm1kOW85TVQ2QXVHQlhlVWRLRGJyUHJIdkVsTEhnM2dCVXhrSW5JZkZRbXU4QVRzVmpUeDJtRTgw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "04a26eca8f22",
       "title": "Health officials warn of measles exposures at Tempe Marketplace, Surprise Walmart - AZ Family",
       "published": "2026-07-17T21:40:00+00:00",
-      "summary": "Health officials warn of measles exposures at Tempe Marketplace, Surprise Walmart&nbsp;&nbsp;AZ FamilyMaricopa County confirms more measles cases. Were you exposed?&nbsp;&nbsp;azcentral.com and The Arizona RepublicMeasles: Multiple new cases reported in Maricopa County&nbsp;&nbsp;FOX 10 PhoenixNew cluster of measles cases identified in Maricopa County&nbsp;&nbsp;YahooPima County investigating Measles case&nbsp;&nbsp;KOLD",
+      "summary": "Health officials warn of measles exposures at Tempe Marketplace, Surprise Walmart&nbsp;&nbsp;AZ FamilyMaricopa County confirms more measles cases. Were you exposed?&nbsp;&nbsp;azcentral.com and The Arizona RepublicMeasles: Multiple new cases reported in Maricopa County&nbsp;&nbsp;FOX 10 PhoenixMaricopa County identifies new measle case clusters in Tempe, Surprise&nbsp;&nbsp;yourvalley.netPima County investigating Measles case&nbsp;&nbsp;KOLD",
       "sources": [
         {
           "name": "AZ Family",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOekpUVmhudmFyR0tUT1NBREtoRTZfM2VJNE4yODlOX2pXUnl1RndnTUVaT3JrTnlvYmNQUVFGQ25OTEM2a0llVmhPQV9uV0ljYVhSMGRIZGFwNnM1SEN4cS1LVGE4X3RDT041UnhVTWszZDBrUE5idXlqWVZvMmhvYm9lNFFLLXhtUzRkbUhQenlqMGI4Ul9lZVBQd1h1NUJ0YTZNY1ZDNjRha1lsMm1PYQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOekpUVmhudmFyR0tUT1NBREtoRTZfM2VJNE4yODlOX2pXUnl1RndnTUVaT3JrTnlvYmNQUVFGQ25OTEM2a0llVmhPQV9uV0ljYVhSMGRIZGFwNnM1SEN4cS1LVGE4X3RDT041UnhVTWszZDBrUE5idXlqWVZvMmhvYm9lNFFLLXhtUzRkbUhQenlqMGI4Ul9lZVBQd1h1NUJ0YTZNY1ZDNjRha1lsMm1PYdIBxAFBVV95cUxOWEF4SldKZC0zZU52d05Cd1FHNml5OF9LRnRRZWtRdHhIdWtCVWhJUmRRY3lLaURscGZuLTRnVjEta1lNc1NyWmIxMVBjdGpsd3JGeEMxMzBRY3JLc3ExODN2VFlmUS1NYUZQU2drdkxqdVg2Q2VubGJtZ3U1ZHFocEdTVXdoWnFER0hqeEFHRDAyZGdIYVNWUGR5Vks1eDctdC1JMHBFQ3pDZ05OMzdmSUNnc2w5dWNDVVdwTXBiN25jMGhC?oc=5"
         }
       ]
     },
@@ -69,11 +105,59 @@
       "id": "1bdb2a46772d",
       "title": "Meteorite that crashed into New Jersey home contains building blocks of life, astronomers say - ABC News - Breaking News, Latest News and Videos",
       "published": "2026-07-17T20:32:32+00:00",
-      "summary": "Meteorite that crashed into New Jersey home contains building blocks of life, astronomers say&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosAlien World Chemistry Found Inside Meteorite That Struck New Jersey home&nbsp;&nbsp;SETINew Jersey home meteorite fragments contain 'extraterrestrial' amino acids&nbsp;&nbsp;6abc PhiladelphiaA meteorite that crashed into a New Jersey home contained ‘alien world chemistry,’ a new study says&nbsp;&nbsp;Inquirer.comMeteorite that landed in New Jers",
+      "summary": "Meteorite that crashed into New Jersey home contains building blocks of life, astronomers say&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosAlien World Chemistry Found Inside Meteorite That Struck New Jersey home&nbsp;&nbsp;SETINew Jersey home meteorite fragments contain 'extraterrestrial' amino acids&nbsp;&nbsp;6abc PhiladelphiaIt’s a Treasure to Science. Too Bad It Came Through Their Roof.&nbsp;&nbsp;The New York TimesA meteorite that crashed into a New Jersey home contained ‘alie",
       "sources": [
         {
           "name": "ABC News - Breaking News, Latest News and Videos",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMVRmZGlaMVBkNVBORFcwQmtub2NEeDFlVVdNTVkzYWZ0dGN2ZGh6a0VZR3NHUHU0Y2VUQ2N1Wk01Z0ZMazBMTXk1cTRMdDRSNkZCeThLR1hOdFREWkRieEY4NWZpMWRHZXJtTFkyVFNOaldOYXRyckNmZDQwMTZ5aHdQSE9uRkxXWW1xVm1vOHFpclppalM0cl9ScVBHX2lnZUHSAacBQVVfeXFMTXk0aXEtTkhxVHpPNlZmNk1fcks1YVRwUjA4TlBnYkpRbENHUHdUbUFpd0FMakpSdmRDZW9UWElHel9VZ3hTQ1BFLU1GdUVTWVgxeXNLdEdsVUY2T1dUN3FaeFhLOXlaa3J2N216dXhZd09LUFVXOENMUzE1d0xZVm1acWo0aGd6d21iaTQtbVdMOWdpeVdVN2s4TklHLWstZkJOMlBac3M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8818441ba69c",
+      "title": "One Fungus Has Caused More Extinctions Than Any Other Infectious Disease. Some Toads Have Found a Way to Survive It - ScienceAlert",
+      "published": "2026-07-17T20:02:29+00:00",
+      "summary": "One Fungus Has Caused More Extinctions Than Any Other Infectious Disease. Some Toads Have Found a Way to Survive It&nbsp;&nbsp;ScienceAlertEarly maturation of host antimicrobial peptide defences is associated with host–pathogen coexistence&nbsp;&nbsp;NatureConnection between forests and rivers strengthens amphibians’ microbiome and protects them against a lethal fungus&nbsp;&nbsp;Agência FAPESPMystery of why some toads survive deadly fungus revealed&nbsp;&nbsp;Phys.orgScientists finally solved w",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd0ZRY2djOXV0Q2NWZEpSdkRfSjlkRU9DZVdCQzVyZHUwaWJBOE81eG1uMEpEakZlVEotQ25KUjVlSUotdHVPcHZuZ1A3clBfZlR0TVJCWGV2NE9NTDJ4dms1aHduV3V6UHQzbHBMUE1qQzRSeGxxTTJMdF80bG9qdllWNWxLSWVEcW82UXB4V2JuajlGQmNjUE1STUhGVVg2am00UEl4UFV0V1NuVVBDRTAwMV9fNnVFTmlreVowaWJLaW9aV0Zaem1xWGtZTk82MGplRGNrLTFCR0k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c0feb5aa1d15",
+      "title": "Underwater oxygen loss threatens earth's stability, researchers warn - Phys.org",
+      "published": "2026-07-17T18:20:01+00:00",
+      "summary": "Underwater oxygen loss threatens earth's stability, researchers warn&nbsp;&nbsp;Phys.org",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mYU5oelZ5eHl5SzZSRmRpdUNvcUgtNDVWU1NYSWZtWXNMWi1uMFFCMmdBd3M2UFZjVEtCdkNhc2lZLUZtbktrYjByS0R4ZmU0ejdaN2hvSUhQRVBucjB6bzlxNjV3WFFkRWVtV1ZzalRxeXVoaUlaX3BXRjJqZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "86dfc42ee73e",
+      "title": "What people look at most reflects their brains' specialization - Medical Xpress",
+      "published": "2026-07-17T17:00:37+00:00",
+      "summary": "What people look at most reflects their brains' specialization&nbsp;&nbsp;Medical XpressYour 'attentional fingerprint': New study finds unique gazes&nbsp;&nbsp;Valley NewsYour Gaze Has a Signature&nbsp;&nbsp;DartmouthWhat catches your eye in new places could identify you&nbsp;&nbsp;Earth.com",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03WXRiamM0ZlQ4MWNJZHdVWERpVWtIclJOUWxmXzhZa1BUT3RaV2JOb3IwVTBkM3hGOWprd25mdkwwaklGOWVranJ0MC1JYmxLMXNLZWhXLWI4aHRzbTNoWmJjQkxELXdLYjFNeWpDTnUxamcwQXhtS1dUcHk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b6cb7df20cb4",
+      "title": "AI‑designed gene‑editing enzymes expand the CRISPR toolbox - Phys.org",
+      "published": "2026-07-17T16:59:19+00:00",
+      "summary": "AI‑designed gene‑editing enzymes expand the CRISPR toolbox&nbsp;&nbsp;Phys.orgNobel Laureate Jennifer Doudna enters AI protein design arena&nbsp;&nbsp;Fierce BiotechAI-designed nucleases build on nature’s design&nbsp;&nbsp;Chemical & Engineering NewsA Synthetic Nuclease Boosts CRISPR Editing Efficiency&nbsp;&nbsp;the-scientist.comAI-Designed Synthetic CRISPR-Like Nucleases Show Activity in Cells&nbsp;&nbsp;Genetic Engineering and Biotechnology News",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaHBEVi0tRjY0N2VNem52Y2FJYnNpT3BUaHhtSGtYXzRXcFU0MjM2cThzNWRUOWtfdmcyRUIzTm5pNXVKemlWTFRtNzE2RVBhVHMxcGFGTXVhalRJLUlWbjRZVkhvcVU2QjBVTXVxS3hyLUdSUll6RHNldmk1QTEzaTNkMzNxY2s?oc=5"
         }
       ]
     },
@@ -90,10 +174,22 @@
       ]
     },
     {
+      "id": "ae43d5b85d4b",
+      "title": "The leading risk factor for cancer – and it’s not smoking, alcohol or the sun - The Independent",
+      "published": "2026-07-17T15:53:00+00:00",
+      "summary": "The leading risk factor for cancer – and it’s not smoking, alcohol or the sun&nbsp;&nbsp;The Independent",
+      "sources": [
+        {
+          "name": "The Independent",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRTVTNWROa1VVd3NuR2tSM2Jpd1dRaWJ4bHdZVTNmVDZaSVJRVk1UcjZHVXBFMDFGdzRYVnhoVERESHVhN3JZMWJ0bVJSemloRXhVaUEwa19sY2k4NjdoTFJVNWF6X3FWdy14bDJ0UW1ycXlzUS1mak1oQnZBQmoxN1dneE5YcVFvUE13MDNNSTU5R3hhdmExR0laOXRoQm95dE4wVUQ0NExFQjRWQmdibEZMLWY?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a9ff9fca6e82",
       "title": "What does Code Red air quality mean? Weather Talk explains - WBAL-TV",
       "published": "2026-07-17T15:39:00+00:00",
-      "summary": "What does Code Red air quality mean? Weather Talk explains&nbsp;&nbsp;WBAL-TVHow Does Air Quality Affect Our Health?&nbsp;&nbsp;University of RochesterAir Quality Index: What do the numbers mean?&nbsp;&nbsp;6abc PhiladelphiaImproving Air Quality Indices for Personalized Health Warnings from Pollution Exposure&nbsp;&nbsp;HCP LiveKeeping your pets safe when air quality is poor&nbsp;&nbsp;The Weather Network",
+      "summary": "What does Code Red air quality mean? Weather Talk explains&nbsp;&nbsp;WBAL-TVHow Does Air Quality Affect Our Health?&nbsp;&nbsp;University of RochesterAir Quality Index: What do the numbers mean?&nbsp;&nbsp;6abc PhiladelphiaUnderstanding the Air Quality Index: What Each Color Means for Your Health&nbsp;&nbsp;YahooImproving Air Quality Indices for Personalized Health Warnings from Pollution Exposure&nbsp;&nbsp;HCP Live",
       "sources": [
         {
           "name": "WBAL-TV",
@@ -102,10 +198,46 @@
       ]
     },
     {
+      "id": "b00854aadc1b",
+      "title": "Still in the dark: effects of sex differences on statin-associated diabetes risk - Nature",
+      "published": "2026-07-17T14:35:43+00:00",
+      "summary": "Still in the dark: effects of sex differences on statin-associated diabetes risk&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nOXh2aXJZak1vUFE2Z0hIc3hiMVlmbUxMNWRTZFAzTTdRdUdjalgyNXhNb3A0cXJhd2tyd3pBcTF1YUtEU0s0TzNxdm9GYkpZZEtsaHZXaFd0YmJES1Aw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "caa2f8c19b63",
+      "title": "Graphene nanoribbons can withstand extreme environments, could be used in fusion reactors - Interesting Engineering",
+      "published": "2026-07-17T14:34:00+00:00",
+      "summary": "Graphene nanoribbons can withstand extreme environments, could be used in fusion reactors&nbsp;&nbsp;Interesting EngineeringGraphene nanoribbons survive gamma radiation, revealing potential sensors for fusion reactors&nbsp;&nbsp;Phys.orgQuantum materials discovery could advance electronics for extreme environments&nbsp;&nbsp;The University of ArizonaQuantum materials breakthrough may enable electronics in extreme environments&nbsp;&nbsp;Bioengineer.org",
+      "sources": [
+        {
+          "name": "Interesting Engineering",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQTdBOVBwNEFyY09YcXNCM0s0Q3VESkFQVmphbWozbF9PVlhVUWNUUEFDX2FvS1VHamVUc3NURXg2amhBS0lvdVdHM0ZfRTI4YzI2ZzBIWWpvZldBc2hBdnV0NFhGRWZ0eGpZRFctYkZZcHJvbldoMFFDRzNFeENBdU9DQ0pFb3JXZHQ3bGtObDN4RC1CN2M0VmNkMnNZWVNyQ1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "50e7753e4929",
+      "title": "What Happens to Your Liver When You Take Vitamin D Supplements Every Day - Verywell Health",
+      "published": "2026-07-17T14:09:23+00:00",
+      "summary": "What Happens to Your Liver When You Take Vitamin D Supplements Every Day&nbsp;&nbsp;Verywell Health",
+      "sources": [
+        {
+          "name": "Verywell Health",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ydHJyc0wwS004SVF4Y2RZajhSXzRDQ0Q0V1FfYmJINThkakVrWXVXX1RwelFaWWlXUjJOQk1zcFdKSkNlTDFTRVBBajhmRUxHRVJTSmMwTVp4SlpHUjFxU3dPNXdqVnZrSG9wVC1DMFg1SlpX?oc=5"
+        }
+      ]
+    },
+    {
       "id": "24ae6aac96d6",
       "title": "WHO dementia prevention guidelines update: What changed? - Medical News Today",
       "published": "2026-07-17T13:39:09+00:00",
-      "summary": "WHO dementia prevention guidelines update: What changed?&nbsp;&nbsp;Medical News TodayNew guidance offers hope for reducing the global toll of dementia&nbsp;&nbsp;UN NewsNew WHO guidelines: up to 45% of dementia risk could be prevented or delayed&nbsp;&nbsp;World Health Organization (WHO)Long-term exposure to air pollution could lead to dementia, warns WHO&nbsp;&nbsp;The Times of IndiaWHO updates dementia guidance: a new risk factor, supplements to avoid and a hearing loss must&nbsp;&nbsp;New Yo",
+      "summary": "WHO dementia prevention guidelines update: What changed?&nbsp;&nbsp;Medical News TodayNew guidance offers hope for reducing the global toll of dementia&nbsp;&nbsp;UN NewsLong-term exposure to air pollution could lead to dementia, warns WHO&nbsp;&nbsp;The Times of IndiaNew WHO guidelines: up to 45% of dementia risk could be prevented or delayed&nbsp;&nbsp;World Health Organization (WHO)WHO updates dementia guidance: a new risk factor, supplements to avoid and a hearing loss must&nbsp;&nbsp;New Yo",
       "sources": [
         {
           "name": "Medical News Today",
@@ -117,23 +249,11 @@
       "id": "cbfec5b3a254",
       "title": "Pancreatic Cancer Vaccine Triggers Immune Response Before Tumors Develop - Inside Precision Medicine",
       "published": "2026-07-17T13:37:15+00:00",
-      "summary": "Pancreatic Cancer Vaccine Triggers Immune Response Before Tumors Develop&nbsp;&nbsp;Inside Precision MedicineSandra Misale: Intercepting PDAC in High-risk Individuals by KRAS-Targeting Vaccine&nbsp;&nbsp;OncodailyFrom Treatment to Prevention: How Vaccines Are Reshaping the Fight Against Pancreatic Cancer&nbsp;&nbsp;American Association for Cancer Research (AACR)Johns Hopkins-Developed KRAS Vaccine Shows Durable Immune Response in Pancreatic Cancer Prevention Trial&nbsp;&nbsp;BioPharm Internation",
+      "summary": "Pancreatic Cancer Vaccine Triggers Immune Response Before Tumors Develop&nbsp;&nbsp;Inside Precision MedicineHOMETOWN HEALTH: New vaccine could prevent pancreatic cancer in high risk patients&nbsp;&nbsp;WDBJ7Sandra Misale: Intercepting PDAC in High-risk Individuals by KRAS-Targeting Vaccine&nbsp;&nbsp;OncodailyFrom Treatment to Prevention: How Vaccines Are Reshaping the Fight Against Pancreatic Cancer&nbsp;&nbsp;American Association for Cancer Research (AACR)Johns Hopkins-Developed KRAS Vaccine ",
       "sources": [
         {
           "name": "Inside Precision Medicine",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZk1OZ0RWNGIzdDNudC1mVHJoaXJNa3hTdzJpMzVEYWs0ZnZXVE9CUFRlUVZlZTItenlhdjlCN29kTG5aQVVRSzI5eXVHdndYaUM2dkdxZlgxWDgxUlZrbGp6NFI1cmNQTE84SlB4Smx5YXdrWE9DUkk3aGNtZ3BxY3N1V3JFd2Vqa0J3cU5lVk14UTZsakxtTnF0emxZOEhqZ3ppX1cxQlI4enMtZ3pnZ205QUlDMjE3Tl9WS0I3RkZqRnFxeW9MRg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a9487b41dcd6",
-      "title": "Found: a rocky exoplanet with an atmosphere — could it host life? - Nature",
-      "published": "2026-07-17T13:37:00+00:00",
-      "summary": "Found: a rocky exoplanet with an atmosphere — could it host life?&nbsp;&nbsp;NatureFirst atmosphere found on Earth-like planet in habitable zone of distant star&nbsp;&nbsp;BBCAstronomers Find an Atmosphere on a Nearby Earthlike Planet&nbsp;&nbsp;The New York TimesFirst Atmosphere Detected on a Terrestrial World&nbsp;&nbsp;Sky & TelescopeFirst atmosphere detected on a habitable-zone rocky world&nbsp;&nbsp;Center for Astrophysics | Harvard & Smithsonian",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tekxLd0MzT0hxOGhfTFZ3OU1JMnNUdG9yeVA5eVFFR1hRWnZBQW5NS0NBYnFwaG9BUmo3UlVNb29hd2kzQXdUcUFtNDJWakZYOHRoUVNRdXQ4QlZWTzNn?oc=5"
         }
       ]
     },
@@ -174,10 +294,10 @@
       ]
     },
     {
-      "id": "3b5ebdd3f4d9",
-      "title": "A Tick-Borne Disease With No Warning Rash Is Spreading Across the U.S. - Newsweek",
+      "id": "819058436d9a",
+      "title": "A tick-borne disease has no warning rash and doctors say it's spreading across the U.S. - Newsweek",
       "published": "2026-07-17T10:47:00+00:00",
-      "summary": "A Tick-Borne Disease With No Warning Rash Is Spreading Across the U.S.&nbsp;&nbsp;Newsweek‘It was horrible’: Ontario man warns of tick-borne illness after 10-day hospital stay&nbsp;&nbsp;Global NewsAnaplasmosis cases on the rise in Kingston&nbsp;&nbsp;Yahoo News CanadaRising tick-borne disease in Canada can trigger heart inflammation&nbsp;&nbsp;News-MedicalTick-borne anaplasmosis and myocarditis in eastern Ontario&nbsp;&nbsp;CMAJ | Journal",
+      "summary": "A tick-borne disease has no warning rash and doctors say it's spreading across the U.S.&nbsp;&nbsp;Newsweek‘It was horrible’: Ontario man warns of tick-borne illness after 10-day hospital stay&nbsp;&nbsp;Global NewsAnaplasmosis cases on the rise in Kingston&nbsp;&nbsp;Yahoo News CanadaRising tick-borne disease in Canada can trigger heart inflammation&nbsp;&nbsp;News-MedicalTick-borne anaplasmosis and myocarditis in eastern Ontario&nbsp;&nbsp;CMAJ | Journal",
       "sources": [
         {
           "name": "Newsweek",
@@ -201,23 +321,11 @@
       "id": "82d3b1394dfc",
       "title": "Are we underestimating the threat of solar storms? A 'once-in-a-thousand-year' disaster is worth considering, scientists say - Space",
       "published": "2026-07-17T10:00:00+00:00",
-      "summary": "Are we underestimating the threat of solar storms? A 'once-in-a-thousand-year' disaster is worth considering, scientists say&nbsp;&nbsp;SpaceNew NASA Study Says Possibly No Limit to Solar Storm Effects&nbsp;&nbsp;NASA Science (.gov)Regression to the mean can explain saturation of geomagnetic storms&nbsp;&nbsp;NatureSolar storms could be even worse than we thought, scientists warn&nbsp;&nbsp;The IndependentPower grids face unexpected slow-burn threat from solar storms&nbsp;&nbsp;The Hindu",
+      "summary": "Are we underestimating the threat of solar storms? A 'once-in-a-thousand-year' disaster is worth considering, scientists say&nbsp;&nbsp;SpaceRegression to the mean can explain saturation of geomagnetic storms&nbsp;&nbsp;NatureNew NASA Study Says Possibly No Limit to Solar Storm Effects&nbsp;&nbsp;NASA Science (.gov)Solar storms could be even worse than we thought, scientists warn&nbsp;&nbsp;The IndependentPower grids face unexpected slow-burn threat from solar storms&nbsp;&nbsp;The Hindu",
       "sources": [
         {
           "name": "Space",
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQX2VULTBxbWtqT2FYb0REa3dGSUpmekxFcDh1MF9PdzFPX0Fua0c0SlVkblF2SzBPY243SGk0cjdMZ2dqQ0dzTVJBZ1dlXzdFRk9fVWJXazFXS2ZUUGV5SXdPUXdHNVdCaUt4U0NpN0tTWGctblRfN0hmUkRtZHVqbzZBM1pTZkVqeXVUVWtVSDI5c3BOOFNhcjBvLUJ2eUl1N1NzVC1NZWJPU1pPWUFBWDdZZlJXQVdKcDNDcDdJOVEtSUhvQlVuWmRmWlJQS0RTOTB4c1ZmRm5hNE15NFFGSC1HVW9NdGw5S3NRdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4dfd6bd17865",
-      "title": "CRISPR gets a power boost from AI-designed ‘molecular scissors’ - Nature",
-      "published": "2026-07-17T09:24:36+00:00",
-      "summary": "CRISPR gets a power boost from AI-designed ‘molecular scissors’&nbsp;&nbsp;NatureAI‑designed gene‑editing enzymes expand the CRISPR toolbox&nbsp;&nbsp;Phys.orgNobel Laureate Jennifer Doudna enters AI protein design arena&nbsp;&nbsp;Fierce BiotechAI-designed nucleases build on nature’s design&nbsp;&nbsp;Chemical & Engineering NewsA Synthetic Nuclease Boosts CRISPR Editing Efficiency&nbsp;&nbsp;the-scientist.com",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ETGRTVU5GbGgyT1JDVDZiQi1oSnlhT0NXbzFEVVp1cmVhSnVzbTJWWndXOTRKWmVobTZhak5OSXc4c1lHNnU1SV9OcHhXaE5QZEh0dDUtWmZGRU9EcDZr?oc=5"
         }
       ]
     },
@@ -237,7 +345,7 @@
       "id": "7c49454094c2",
       "title": "Scientists tested 39 sweeteners and found unexpected gut effects - ScienceDaily",
       "published": "2026-07-17T09:00:24+00:00",
-      "summary": "Scientists tested 39 sweeteners and found unexpected gut effects&nbsp;&nbsp;ScienceDailyScientists show how sweeteners slow the growth of certain gut bacteria&nbsp;&nbsp;News-MedicalCould a Common Antidepressant and Sweetener Combo Be Quietly Fighting Gut Bacteria?&nbsp;&nbsp;StudyFindsMixing Sweeteners and Antidepressants Could Be Quietly Altering Your Microbiome&nbsp;&nbsp;Technology NetworksStudy finds sweeteners may alter gut bacteria in lab tests&nbsp;&nbsp;NST Online",
+      "summary": "Scientists tested 39 sweeteners and found unexpected gut effects&nbsp;&nbsp;ScienceDailyScientists show how sweeteners slow the growth of certain gut bacteria&nbsp;&nbsp;News-MedicalStudy finds sweeteners may alter gut bacteria in lab tests&nbsp;&nbsp;NST OnlineCould a Common Antidepressant and Sweetener Combo Be Quietly Fighting Gut Bacteria?&nbsp;&nbsp;StudyFindsThese common sweeteners could be silently damaging gut, study finds&nbsp;&nbsp;Newsweek",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -246,25 +354,49 @@
       ]
     },
     {
-      "id": "0f2fcc8a1c7f",
-      "title": "New Alzheimer's drug repairs DNA damage and reduces brain inflammation - ScienceDaily",
-      "published": "2026-07-17T04:21:21+00:00",
-      "summary": "New Alzheimer's drug repairs DNA damage and reduces brain inflammation&nbsp;&nbsp;ScienceDailyA Drug Already Proven Safe in Humans Just Reduced Multiple Signs of Alzheimer's in Mice&nbsp;&nbsp;ScienceAlertKCL-286 targets multiple Alzheimer’s pathways in preclinical study&nbsp;&nbsp;Drug Target ReviewScientists find drug that may fight Alzheimer’s on multiple fronts&nbsp;&nbsp;MSNThis one drug may reverse brain damage in ways scientists never thought was possible!&nbsp;&nbsp;The Times of India",
+      "id": "7db885be61a2",
+      "title": "Microplastics have reached one of Earth’s most isolated ecosystems: Indian Ocean animals carried up to 14 - The Times of India",
+      "published": "2026-07-17T08:34:00+00:00",
+      "summary": "Microplastics have reached one of Earth’s most isolated ecosystems: Indian Ocean animals carried up to 14&nbsp;&nbsp;The Times of IndiaMicroplastics documented for first time in deep-sea ecosystems&nbsp;&nbsp;Oceanographic MagazineMicroplastics reach even 2,000 meters below the ocean surface, study finds&nbsp;&nbsp;Phys.orgMicroplastics Found In 92% Of Hydrothermal Vent Animals 2 Kilometers Deep On The Ocean Floor&nbsp;&nbsp;IFLScienceMicroplastics Found 2,000 Meters Deep in Hydrothermal Vent An",
       "sources": [
         {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMYWFvclNFazI0cFVKRk00dUhjMjZvRU1IRHFtR2VKSG8zbG16OEFiTFdIa2hnSkloaHRCS1dPZlFZQkpLZ2xLZGNZRjlaemZYTWxQaFhlT3RKR0dTU1QxZTV5SHU1WGtXWGIzQjdpcw?oc=5"
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPS0daSWRHdVJPQVpaRWpMU1hKZVQ1N0pYZG1LRnZCVG1TU3lmT3U0VnZMMkduSWt4a1NvYkdJWURUMHdQZEMyLTM0R0RHbjJJNEFkWENoQTRpSG5Hanhqa3I5ekpyOE5oeUptazNqS3hrRGVkZkplWnVqYkVCdTUxc3haR2tLY3BfWEV5N3pUZXY1eHZHNDVreDF2UjlLR0t0Tnk4VlhSYmJZdnl2UU5raVdqUmt4X010b3gwUlAyR1NEbHhnTHo0ZDI2bVRGd3ZYTjBTZVdiM3Z3bUxHS2hkeFh2aTQ2eWNlNldDT0xUaGdQTlZWa3hhY1hXVzU2cTRPWWc4cnVFX3ZlSHpzcnBKZEk2UmZEVXVWbVByZ3oyenZSQkRuSlhhMXU2aUNCanl3SFhz0gG4AkFVX3lxTE1GZUFHeVZMVGZLdVd1bDNuRzNMeFRBTDdRSzBWTFExVVVJaUhJanZCUXVUa1U2c09wTlFNLXlPNEZtTnpabDNmRUhyZ3IwdGxyTmxsNktXOWJ0YURjMFA1Tl80SF9hYVlhUjdqRTZyclRFNUhLNnNWNkN3aThhWVE0V1hxQlctYTBvemduMEIyM2ZPS0ZpRERpdGYwazFEZFZ5cFRDdlcxZDlIU3I5YlpqOVlaeENxR09kcU9LSTdZa25HbmFpUy1uWUI2RmhuZ2RtcHhXRE83V1V3eDVFc19xRXU2M0liLVpxX1V0ZWo2YjlncWc1c3lvbHhwVUthYUgzMTF6YzA5S2t2SWk1N0ptSVdVNlQ1THJZZFZFU0JBbkhCNWl0Q0NMSndjVTFaQ3I4and5b2hrTw?oc=5"
         }
       ]
     },
     {
-      "id": "6c1dca66c70f",
-      "title": "From doctor to patient: Retired radiologist undergoes robotic surgery for prostate cancer - KSL.com",
-      "published": "2026-07-17T01:49:32+00:00",
-      "summary": "From doctor to patient: Retired radiologist undergoes robotic surgery for prostate cancer&nbsp;&nbsp;KSL.comDoctors warn against delayed diagnosis as prostate cancer cases rise&nbsp;&nbsp;expresshealthcare.inEarly detection, robotic surgery changing prostate cancer care: Expert&nbsp;&nbsp;The Times of IndiaUrologist Dr Sashiraj Singh lists 3 everyday symptoms of prostate cancer; shares when to seek expert care&nbsp;&nbsp;Hindustan TimesUrologists say the prostate cancer symptom most men over 50 ",
+      "id": "896991413525",
+      "title": "Scientists Finally Solve How Common Gut Bacteria Triggers Colon Cancer - Newsweek",
+      "published": "2026-07-17T08:05:00+00:00",
+      "summary": "Scientists Finally Solve How Common Gut Bacteria Triggers Colon Cancer&nbsp;&nbsp;Newsweek",
       "sources": [
         {
-          "name": "KSL.com",
+          "name": "Newsweek",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVk9UNDhaV0hCUFFGaGJaWkNHM0lDQkw0cjVob0plNnc2bTZNalRVbUJ1MjVqWFNwM04xY3lVMjF3WVJYcVZYcDltbTRIQjFqREpIVlNXZ3hjMGFWc2hCSnZUbTRwQ1FWbUhPN05xMUhVTFZKa2twVkFaVVRSbHJ3bi1OYnRMRWtiUVJtRFVIN0FYV3M2RUVDLWZCckNVQUthMEdzY3hfcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c846122ff740",
+      "title": "'Footprint of Death': Entirely New Way Viruses Spread Has Been Discovered - ScienceAlert",
+      "published": "2026-07-17T08:02:29+00:00",
+      "summary": "'Footprint of Death': Entirely New Way Viruses Spread Has Been Discovered&nbsp;&nbsp;ScienceAlert",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVDhHQmdNRi1DekJnY3g4ZEMxa3hFejQ4a3FuUTJqbjhrMUpXZm5lNlIzcEt5TUVMOFpKVWFZTnJaczNoWFdDSF9xa2hjUnZRcjhXbkZzeTNIWFpvZGtpZGlrSHlsQ0ZUMW0wNVpBdUU5QkxEMEUyQm1LM0ZET0lxLUF4ekpFdW5DS3ZWZ3lBR2hvZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "26e698e347d8",
+      "title": "From doctor to patient: Retired radiologist undergoes robotic surgery for prostate cancer - KSL News",
+      "published": "2026-07-17T01:49:32+00:00",
+      "summary": "From doctor to patient: Retired radiologist undergoes robotic surgery for prostate cancer&nbsp;&nbsp;KSL NewsDoctors warn against delayed diagnosis as prostate cancer cases rise&nbsp;&nbsp;expresshealthcare.inEarly detection, robotic surgery changing prostate cancer care: Expert&nbsp;&nbsp;The Times of IndiaUrologist Dr Sashiraj Singh lists 3 everyday symptoms of prostate cancer; shares when to seek expert care&nbsp;&nbsp;Hindustan TimesUrologists say the prostate cancer symptom most men over 50",
+      "sources": [
+        {
+          "name": "KSL News",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNXBKdFRuVmpLTmZmMmxtRXFYb3pRRnY2Z3RxaGpBeTlfZjVHcThGMmJXdWxraDFCcjNxOU5tQzVvbElVNTFfdGt4UFNmUEd1eXlYMFdMdlRseTNCWkNqOTBGRFk4bHdtX3plVm9idWc0ZnAwNF9fcnJQREhHaXlBS0pQNURNSEl5Tk5MWXB3TjVRVXBqYlZJMnp0a2xuSzdyazZ6Sll4c0pWRTFNQjRlODZBU1Bib01xXzM1emZwZmVpTHM?oc=5"
         }
       ]
@@ -282,18 +414,6 @@
       ]
     },
     {
-      "id": "729f2c0d94c6",
-      "title": "Cyclosporiasis case in Fresno County not linked to outbreak, officials say - ABC30 Fresno",
-      "published": "2026-07-17T00:34:04+00:00",
-      "summary": "Cyclosporiasis case in Fresno County not linked to outbreak, officials say&nbsp;&nbsp;ABC30 FresnoFresno County confirms a cyclosporiasis case, health officials say&nbsp;&nbsp;yourcentralvalley.comTehama County warns residents as nationwide Cyclospora outbreak spreads to California&nbsp;&nbsp;KRCRCyclosporiasis case in Merced County confirmed by health officials&nbsp;&nbsp;ABC30 FresnoHealth Officials Report No Cyclosporiasis Outbreak in Santa Barbara County&nbsp;&nbsp;Noozhawk",
-      "sources": [
-        {
-          "name": "ABC30 Fresno",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXRFanVaakd5TFI2RFk2d19Ca29nU0s0OXJOaFlac3phU2wzUXZWcEs3WFNZOVB5Nm1kVUttMk9QWm4yX3AtYUdIakdaYzRsWnZxWllFYnU0dzVCXzRGclB2NV95Rm5KRGdCcEtPanpxaExUcy1ZR1JGcXZxUWUzOFUwZ2xDeVFBeGk2aHl4WEFIS1JPZUdLOVh6b3pDLUtGc2fSAacBQVVfeXFMTjdJck5xdWNnMUluU0ZGMnU2WjhHUGdQV1RHbDBBX3VmeVFyaEUwT0N5dHQxOHA4TXJqdnQwUEVRX0FZMi1JMHZvaU51Y3pzaU5udGNoeGZMQWRHU1ZORmZTZzZqcW0yRmZSSHZLNEc0Y09CbENlVlNGTFJfT1RZY053V1NzU1hQb3F1RmVjZ24waWZBNTRlbnNoNlVSalpsb3VEVktqaEU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ffd72f397068",
       "title": "Prostate cancer trial using focal therapy has fewer side effects - BBC",
       "published": "2026-07-16T23:36:40+00:00",
@@ -302,18 +422,6 @@
         {
           "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QSUR1UVRGZlpENjFYckRwbENNOExUa1dwajZhdVg3cXlWaENZaXRTNG9YSDhabnNUWF9Rc1RTNEdLa0xOU0NNczBvbGoyVGNmQ0RzbGxFU2ZpZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8cc25bebdf23",
-      "title": "Ebola spreading more quickly in DRC, while Uganda is close to being virus-free - Al Jazeera",
-      "published": "2026-07-16T22:30:36+00:00",
-      "summary": "Ebola spreading more quickly in DRC, while Uganda is close to being virus-free&nbsp;&nbsp;Al JazeeraMore health workers strike as Ebola cases in Congo exceed 2,000, including 754 deaths&nbsp;&nbsp;AP NewsWHO warns DR Congo Ebola outbreak is outpacing response as Uganda reaches milestone&nbsp;&nbsp;UN NewsTransport of dead bodies within Congo risks further Ebola spread, UN agency warns&nbsp;&nbsp;ReutersEbola 'spreading faster than any previous outbreak' in DR Congo, WHO warns&nbsp;&nbsp;France 2",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVnRzOU1mYjVsbDN3QzQ3UlZlcm1LZEdCQ05IeTduWkRCbW5KYTJSaW5GZ0ZkVWtOTDFRQmhxNE1MQVp6TG5vOU1qWEhwOWh0Y0Y1OUZrVVNzVDlyU1BfQUNKRUNxT3dvVWItajkyX1BKOURCZVZhUW5zdXh6LVhzQzZBQVhiSkdKbVFZbXhPZVFLODdvMmh5OGc4NWN2bWI3aEJUR1E0ZmtncUNqU0pNdkJaaVd4Y2NWbEHSAb8BQVVfeXFMUElwRG45b25GV3FMcGZmMTFxcDljQmtEenRQMnJuM2ZYN1FpVE1IVUllbGpuczlabmFYZEhaTkY1X3BhUTJVMnl0WVdUNzd1VTZyMy10Wk1WOVRlT3ZIOXptNDgzUjFrVmdTN3F4MGNzeEhmLUNnUm5EMUJqSHVETjQ3SjM3MWtuZFhJZDZlSTg1UHR0ZEtLQ05MVmphSnRpQ19IUkpSNHptOVQ0RE9rb2RzZUpxeG93a0hCaV9QU0k?oc=5"
         }
       ]
     },
@@ -338,30 +446,6 @@
         {
           "name": "Vogue",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVXhOaFh2RFVMNFRYVzBUMER3X1ZfU184czVzMFJIQnFmQkVyWXZnZEZSck1FR1RmbFp5bXBIcXJMbTAzZkJGazhuUDl2TEJHNFB4dzJDcGs2bU9fN3hjczBwWTAyUTlMV1I2SkZLTlh0ZHNpVUlVbDJ5RUU4b0xaNnd3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8d55c57db549",
-      "title": "Kids with deadliest brain cancers survive years after breakthrough cell therapy - New York Post",
-      "published": "2026-07-16T20:50:00+00:00",
-      "summary": "Kids with deadliest brain cancers survive years after breakthrough cell therapy&nbsp;&nbsp;New York PostFour children with terminal brain cancer saved by new cell therapy&nbsp;&nbsp;New ScientistMiguel Bronchud: New Promising Results of Cellular Immunity Therapy in Incurable Brain Cancer of Children&nbsp;&nbsp;OncodailyNew autologous T cell therapy offers hope for children with brain tumors&nbsp;&nbsp;Drug Discovery NewsTerminal Brain Cancer Has Killed Kids for Decades. Four Survived This Cell T",
-      "sources": [
-        {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOak1scUdsSUdINXRINUI0b08tQlFWLTdyTXBqSEx2d1FEQUdyVmp3dF9DS2dSZVQ4TFBHRVlWalFCZWo4dkt1d0d5QmdBX1JyM3BfeFR5cVNXRl9ZMTVxRWQ3TndJWUwzNTNFR2VtVVFjZ0tEbTZ6WmZHWmMxbkUtVzUwYjJNRVg1OWdUUW0xVnJTeHB4Z0ZTSm41VEdCZ3M4SWE2MjhlektRWjF2TnNRTDNNZi0xblkw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d8982c3e4619",
-      "title": "Graphene nanoribbons survive gamma radiation, revealing potential sensors for fusion reactors - Phys.org",
-      "published": "2026-07-16T20:23:15+00:00",
-      "summary": "Graphene nanoribbons survive gamma radiation, revealing potential sensors for fusion reactors&nbsp;&nbsp;Phys.orgQuantum materials discovery could advance electronics for extreme environments&nbsp;&nbsp;The University of ArizonaQuantum materials breakthrough may enable electronics in extreme environments&nbsp;&nbsp;Bioengineer.orgGraphene nanoribbons can withstand extreme environments, could be used in fusion reactors&nbsp;&nbsp;Interesting Engineering",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdjdTR21Ob2tnUXNYYlJRU0dwYU1IYjdBNTd5cTR1YWtQZnpsbFdiTy00UnpvUXJ6OGFzWkplMEU0b1NSeHlTZUpjenNXVTl4TnVpaHBsUHI3WmRZeTh1TmNRR1RldVRfRGdkVk1QS0tvbjRWdF9UNEZjeUVwVnkyV252MGpsZw?oc=5"
         }
       ]
     },
@@ -405,7 +489,7 @@
       "id": "8373ac16fe74",
       "title": "Breakdown of immune cells' interaction is key driver in aging, study finds - Medical Xpress",
       "published": "2026-07-16T18:00:04+00:00",
-      "summary": "Breakdown of immune cells' interaction is key driver in aging, study finds&nbsp;&nbsp;Medical XpressAge-associated decline of Lamtor5 drives immunosenescence and systemic aging via cGAS-mediated paracrine inflammation&nbsp;&nbsp;NatureTweaking a Macrophage Receptor Staves Off Aging in Mice&nbsp;&nbsp;the-scientist.comStudy maps how macrophages age across different body tissues&nbsp;&nbsp;News-MedicalOne immune cell could hold the key to slower aging&nbsp;&nbsp;Earth.com",
+      "summary": "Breakdown of immune cells' interaction is key driver in aging, study finds&nbsp;&nbsp;Medical XpressAge-associated decline of Lamtor5 drives immunosenescence and systemic aging via cGAS-mediated paracrine inflammation&nbsp;&nbsp;NatureTweaking a Macrophage Receptor Staves Off Aging in Mice&nbsp;&nbsp;the-scientist.comOne immune cell could hold the key to slower aging&nbsp;&nbsp;Earth.comStudy maps how macrophages age across different body tissues&nbsp;&nbsp;News-Medical",
       "sources": [
         {
           "name": "Medical Xpress",
@@ -462,18 +546,6 @@
       ]
     },
     {
-      "id": "62c2d25447a6",
-      "title": "Why the Mediterranean diet is so good for you, and 5 easy ways to try it - The Washington Post",
-      "published": "2026-07-16T16:00:00+00:00",
-      "summary": "Why the Mediterranean diet is so good for you, and 5 easy ways to try it&nbsp;&nbsp;The Washington PostIs olive good for your heart? Heart surgeon Dr Jeremy London shares how it affects risk of heart attacks and stroke&nbsp;&nbsp;Hindustan TimesMediterranean diet: We're finally working out why this diet is so good for us&nbsp;&nbsp;New ScientistEverything olive oil can do for your heart, gut and brain health&nbsp;&nbsp;Vogue IndiaWhat Eating Olive Oil Does for Your Body—and the Best Ways to Use ",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOUY1SUoyVlpCM3d3YUtYMGo1TG96RHdrY1RmZTNMN05KMlNXYU5BZDdTTDlJOXM4WUFodmJSam5jZi11RG9UZVU5c0ktRzBjcS1Mcm1uQ2ZVbXZFMkN2aFZVajNBUS04RlRPcjZwNXpTZFoyeU04dE9UTHB3OFZpN0psMk9ncDRGZWJ3R1d5a1ZxNmdZT2UtNTB3ZmFZQVBtMHAxb3YwTzBtV3lyRnc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d1b2df2da622",
       "title": "Listening to 'ringing' black holes unlocks future gravitational-wave astronomy - Phys.org",
       "published": "2026-07-16T14:10:01+00:00",
@@ -482,30 +554,6 @@
         {
           "name": "Phys.org",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUTNRc1pTdlN5WUZ2aWdTRHBWX2EwdU1ERkFVQ01tOUY3SFI0TE5hRXdrdUJDWVBONjNMaEpRZzVvZFYwZjB3b1c5LTl0dHJfOVpsNFYwTHByQ0hYSEpBR2hwbVNJbzNBQThtZE1FZTlFS3JJaGN3Y3dEY0NLazY5QzMxRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "614e778553a5",
-      "title": "Microplastics documented for first time in deep-sea ecosystems - Oceanographic Magazine",
-      "published": "2026-07-16T13:25:56+00:00",
-      "summary": "Microplastics documented for first time in deep-sea ecosystems&nbsp;&nbsp;Oceanographic MagazineMicroplastics have reached one of Earth’s most isolated ecosystems: Indian Ocean animals carried up to 14.7 times more particles than Pacific specimens&nbsp;&nbsp;The Times of IndiaMicroplastics reach even 2,000 meters below the ocean surface, study finds&nbsp;&nbsp;Phys.orgMicroplastics Found In 92% Of Hydrothermal Vent Animals 2 Kilometers Deep On The Ocean Floor&nbsp;&nbsp;IFLScienceMicroplastics F",
-      "sources": [
-        {
-          "name": "Oceanographic Magazine",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVWd2UGwwSVBjWFBDeEMzTWxmWVlsQXdTRWlzdnNUV2hlVHNyV1VBbC1LUThETWZMdXJ1S1hib0tWaXZ6M0FlZEhMRDU2OW9PU2RYSFpVN3lHYXZPd0N2cHo3OUJwWnVvNWE5Zm5mQzV5U1ZzVlNZQVhSMllHWDBKdlhGdGtkZDZITHBkcEwySE5URXN1UXVpTVNYdVRVaDR1VmJxQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "19dda2cfb34c",
-      "title": "Would You Like Sugar With Your Stars? Sugar Detected in Interstellar Space for the First Time - Good News Network",
-      "published": "2026-07-16T13:00:24+00:00",
-      "summary": "Would You Like Sugar With Your Stars? Sugar Detected in Interstellar Space for the First Time&nbsp;&nbsp;Good News NetworkDetection of a four-carbon sugar in interstellar space&nbsp;&nbsp;NatureA Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy&nbsp;&nbsp;The New York TimesA sugar key to the origins of life has been discovered in interstellar space&nbsp;&nbsp;CNNRaspberry sugar spotted in interstellar space, a sweet discovery that could reveal clues about life's origins&nbsp;&nbsp;Space",
-      "sources": [
-        {
-          "name": "Good News Network",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMmVSTDVCZ1ZibEhsVzdXbDFweVZfcC1ydVhiaVdhOEhubURvMWhoRXlkb2lOZk8yM3kwMzVzcC1kWXBWeFJGN0tpczZtT2V1eWh4b0VpZGFNenA2ZFhTWDU3UDNldGlvZFFfVkFFeFg0UjkwZWl6SU81MjNxQUh3M0R1eF8yRGhYNGxQRmk3ejZxd3NTcjhSLXJranhKdW9YUThPRVY2N3hWNHA5NEZ6N0VCSlE1LUdRZ2VmNXRWWGxxZVE?oc=5"
         }
       ]
     },
@@ -522,22 +570,10 @@
       ]
     },
     {
-      "id": "6c768658103e",
-      "title": "Melatonin may help ease chronic muscle and joint pain, new study suggests - The Conversation",
-      "published": "2026-07-16T12:43:23+00:00",
-      "summary": "Melatonin may help ease chronic muscle and joint pain, new study suggests&nbsp;&nbsp;The ConversationSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "The Conversation",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYzJWWDA5WC16Vy1JYW4yXzRVT1Z5ajB3bV9BTmhTbThVMV9zajZxUE9NWUJ4Q1ZWV3pjcTZ0bi1FTXpCWTVZeG81V0k0NC05VWlFTWM0MFN3NW5LNVJwZ3Q2V0lZbVhQYkhNaTI4VGdOUjNBdVVHV0FBcEZlejdpMmNIZmg4R3VWX1A1MDNVZnJacVNVMVFQbTAwZWFidktDWU1VSS1GXzJISUE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3a39c59281a5",
       "title": "How to avoid tick bites in your yard or while hiking in the woods, and what to do if one starts feasting on you - The Conversation",
       "published": "2026-07-16T12:21:17+00:00",
-      "summary": "How to avoid tick bites in your yard or while hiking in the woods, and what to do if one starts feasting on you&nbsp;&nbsp;The ConversationTick season is getting longer. So is the list of states trying to keep up.&nbsp;&nbsp;KAKETick-Related Diseases Are on the Rise. You Need Only One Repellent for Your Whole Family.&nbsp;&nbsp;The New York TimesThe dos and don’ts of removing a tick&nbsp;&nbsp;Popular ScienceWhy the tick population is increasing — and diseases are spreading — in different areas&",
+      "summary": "How to avoid tick bites in your yard or while hiking in the woods, and what to do if one starts feasting on you&nbsp;&nbsp;The ConversationTick-Related Diseases Are on the Rise. You Need Only One Repellent for Your Whole Family.&nbsp;&nbsp;The New York TimesThe ticks you may find in your state, and the diseases they can carry&nbsp;&nbsp;The HillIdentification and Treatment Methods for Tick Control&nbsp;&nbsp;Pest Control TechnologyTick season is getting longer. So is the list of states trying to",
       "sources": [
         {
           "name": "The Conversation",
@@ -549,7 +585,7 @@
       "id": "b747b5a1cc23",
       "title": "Four first-time astronauts with only four hours of training took the first diagnostic X-rays ever captured on human beings in orbit, and radiologists on the ground judged the images clinically usable enough to catch a fracture a quarter-million miles from the neare - Space Daily",
       "published": "2026-07-16T12:01:26+00:00",
-      "summary": "Four first-time astronauts with only four hours of training took the first diagnostic X-rays ever captured on human beings in orbit, and radiologists on the ground judged the images clinically usable enough to catch a fracture a quarter-million miles from the neare&nbsp;&nbsp;Space Daily1st-ever X-rays in space offer hope for possible patients headed to the moon&nbsp;&nbsp;SpaceSee the first x-rays of humans taken in space&nbsp;&nbsp;Scientific AmericanAstronauts Have Taken The First Human X‑Ray",
+      "summary": "Four first-time astronauts with only four hours of training took the first diagnostic X-rays ever captured on human beings in orbit, and radiologists on the ground judged the images clinically usable enough to catch a fracture a quarter-million miles from the neare&nbsp;&nbsp;Space Daily1st-ever X-rays in space offer hope for possible patients headed to the moon&nbsp;&nbsp;SpaceAstronauts take first X-rays in space&nbsp;&nbsp;YahooSee the first x-rays of humans taken in space&nbsp;&nbsp;Scientif",
       "sources": [
         {
           "name": "Space Daily",
@@ -582,18 +618,6 @@
       ]
     },
     {
-      "id": "22400559831f",
-      "title": "Oregon officials keep eye out for dangerous new opioid found in other parts of the country - OregonLive.com",
-      "published": "2026-07-16T12:00:00+00:00",
-      "summary": "Oregon officials keep eye out for dangerous new opioid found in other parts of the country&nbsp;&nbsp;OregonLive.comCychlorphine, a drug 10 times stronger than fentanyl, showing up in North Louisiana street pills&nbsp;&nbsp;KSLANew synthetic opioid cychlorphine appearing on Ohio streets, researcher warns&nbsp;&nbsp;Cleveland 19 NewsNLCL warns of drug it says is 10x more powerful than fentanyl&nbsp;&nbsp;louisianaradionetwork.comMid July update: Cychlorphine now confirmed in 7 North Louisiana par",
-      "sources": [
-        {
-          "name": "OregonLive.com",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaXlLZlBWRzdLZVhkN3Z2WmViWGFmUVJGRzhfQUFUQVRHVzFjVW92SXE5SEVHaGZKV0ZPV0ZDblJPcnVaajFXT0NfZ00yc3IxVDhmNk00Tjh2QzNnWXVIUVJwQ3BkMzhpc1BQLVdBa3dCcDhoR0UzMzJDTy1lV2llTkxUdjBLN3NITUItRmc5NVFfWlM0RTFwcnRLUzBfNV9rckNLSW0tRHhvSUZLRlFZYm9kbWZBLTRaMHRCY29WdXByay10cVZKYUk2WWZrSlJXeVhucXRB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4c0630a5ad2d",
       "title": "Why do astronauts’ bodies waste away? Space-station study points to mitochondria - Nature",
       "published": "2026-07-16T11:30:39+00:00",
@@ -602,18 +626,6 @@
         {
           "name": "Nature",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qLXg4ckhZM0xpd29fSTZBb2t0ZGd1c21Da3ZxdTRfWERuSHNJaENzQl9aNTdEc2JpblI3Mk9tUHhFdlVRZUlvVWVnUDFNcnAzNEU2YnlWUVFhS0NyN1g0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2b84a6a5123c",
-      "title": "Strength training over decades linked to longer life - Harvard Health",
-      "published": "2026-07-16T04:00:00+00:00",
-      "summary": "Strength training over decades linked to longer life&nbsp;&nbsp;Harvard Health\"Muscle is worth its weight in gold:\" Life Time Experts Share Their Top Strength Training Tips for Women - Jul 17, 2026&nbsp;&nbsp;Life Time Healthy Way of LifeDiverse Exercise Routines Outperform Single Types in Mortality Reduction&nbsp;&nbsp;조선일보Why women should do strength training: Science-backed benefits for heart health, menopause, osteoporosis and mental well-being&nbsp;&nbsp;The Times of IndiaStrength training ",
-      "sources": [
-        {
-          "name": "Harvard Health",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOczJqTVIzMFViOFd0V0JWTWJDWmswanJGbGVNV2RCUEU0SHJFVmx0VHZhYWxBUnBITmc0TXpyNlcyZVNTRGtvd2ZTVzBWWm14dHRqTC1NcHFqWW5KamJBZTRELWxKdmxpNDJYMk9uQ1ZxNWpKel9YcllfZVM0WnRld2dteXJQa240LTNEdlZvemJ3dUdtbEFnM0ZMaDlSNElWcjcwZkF5TQ?oc=5"
         }
       ]
     }

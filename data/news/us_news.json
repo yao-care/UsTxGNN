@@ -1,15 +1,27 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-07-19T02:56:59.345364+00:00",
-  "total_fetched": 130,
-  "unique_count": 130,
-  "health_related_count": 68,
+  "fetched_at": "2026-07-19T08:22:59.270380+00:00",
+  "total_fetched": 125,
+  "unique_count": 125,
+  "health_related_count": 59,
   "news": [
+    {
+      "id": "810d3edf4fac",
+      "title": "Utah podcaster diagnosed with cancer aims to give back after 'overwhelming' community support - KSL.com",
+      "published": "2026-07-19T03:04:35+00:00",
+      "summary": "Utah podcaster diagnosed with cancer aims to give back after 'overwhelming' community support&nbsp;&nbsp;KSL.com",
+      "sources": [
+        {
+          "name": "KSL.com",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ2xUbGVIUlpxdThxcE43UUpkdE9rS3ZXNzdVN0pGN1doQ2hiNlQtNW14dEZaT01hWGtCb3l1V25TTFY3Vkk0MVdvb0tXS3NZWjd5UzFtaWMtYkE4amRIN0dzODFRMEN6TGxSVUpRN3NJVlY0NVZtU3c2VGJGYUVzV2hVd21tckg4YXktMVBFNGpodl9rak40b01jY0cxZ3VUNnRacGJZVmszV2lDbzMxS2Mwb3hFeDUzRTVjajJoNjRUOUUyeEVN?oc=5"
+        }
+      ]
+    },
     {
       "id": "2e385f1ad96f",
       "title": "A Major Ocean Current Is On The Verge of Collapse. Scientists Say The Effects May Reach California - ScienceAlert",
       "published": "2026-07-19T00:02:33+00:00",
-      "summary": "A Major Ocean Current Is On The Verge of Collapse. Scientists Say The Effects May Reach California&nbsp;&nbsp;ScienceAlertAfter record heat, could the Atlantic make Britain's weather even more extreme?&nbsp;&nbsp;BBCPacific Ocean meltwater poses unexpected threat to AMOC, study says&nbsp;&nbsp;Oceanographic MagazineWhat Cold Water In The North Atlantic Means For Hurricane Season&nbsp;&nbsp;SURFER MagazineHow a hidden shift in the Atlantic could rewire the seasons&nbsp;&nbsp;The Times of India",
+      "summary": "A Major Ocean Current Is On The Verge of Collapse. Scientists Say The Effects May Reach California&nbsp;&nbsp;ScienceAlertAfter record heat, could the Atlantic make Britain's weather even more extreme?&nbsp;&nbsp;BBCPacific Ocean meltwater poses unexpected threat to AMOC, study says&nbsp;&nbsp;Oceanographic MagazineWhat Cold Water In The North Atlantic Means For Hurricane Season&nbsp;&nbsp;SURFER MagazineCitizens Addressing our Changing Climate: Shifts in ocean currents due to climate change&nbs",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -33,7 +45,7 @@
       "id": "520a1750c91d",
       "title": "Trump’s deep public health cuts hinder response to record US cyclosporiasis outbreak - The Guardian",
       "published": "2026-07-18T21:21:00+00:00",
-      "summary": "Trump’s deep public health cuts hinder response to record US cyclosporiasis outbreak&nbsp;&nbsp;The GuardianNo, You Shouldn’t Avoid Fruits and Vegetables Due to Cyclospora&nbsp;&nbsp;Consumer ReportsAs cyclosporiasis cases rise, western NC shoppers take extra precautions with produce&nbsp;&nbsp;WLOSWhat to Know About the Cyclosporiasis Outbreak and How to Stay Safe&nbsp;&nbsp;WSJAlabama Department of Public Health confirms 21 cases of Cyclosporiasis in the state&nbsp;&nbsp;CBS 42",
+      "summary": "Trump’s deep public health cuts hinder response to record US cyclosporiasis outbreak&nbsp;&nbsp;The GuardianAs the outbreak of diarrhea caused by a parasite grows, here’s what’s safe to eat and what to avoid&nbsp;&nbsp;CNNNo, You Shouldn’t Avoid Fruits and Vegetables Due to Cyclospora&nbsp;&nbsp;Consumer ReportsChicago man recovering from diarrhea-causing parasite said it sent him to ER&nbsp;&nbsp;NBC 5 ChicagoAlabama Department of Public Health confirms 21 cases of Cyclosporiasis in the state&n",
       "sources": [
         {
           "name": "The Guardian",
@@ -54,6 +66,18 @@
       ]
     },
     {
+      "id": "32db26a6fd3d",
+      "title": "Low-cal sweeteners can change gut bacteria — especially if you’re on a popular antidepressant - New York Post",
+      "published": "2026-07-18T18:29:00+00:00",
+      "summary": "Low-cal sweeteners can change gut bacteria — especially if you’re on a popular antidepressant&nbsp;&nbsp;New York PostScientists tested 39 sweeteners and found unexpected gut effects&nbsp;&nbsp;ScienceDailyMixing Sweeteners and Antidepressants Could Be Quietly Altering Your Microbiome&nbsp;&nbsp;Technology NetworksCould a Common Antidepressant and Sweetener Combo Be Quietly Fighting Gut Bacteria?&nbsp;&nbsp;StudyFindsScientists Find Surprising Link Between Popular Sugar Substitutes and Poor Heal",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVU5WM04tU19yQk1RcVhkZDZnZ1I4N0JtdzcxMGhwblk5eTdhWFhacXRsbWVGWmNtaGowZFloUWRhd1lZSzBfaEZGejVwalRfamlXcVRzRmJ6NnB6ZXAxVFFTanRjcTc0YmYwSHh2LUU2Ung1cWxubThHV2ZYQ3MxVTNPWDhKZUU?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ba9cc178a863",
       "title": "Heavy TV Watching Systematically Shrinks Your Brain - Neuroscience News",
       "published": "2026-07-18T17:14:49+00:00",
@@ -69,7 +93,7 @@
       "id": "a87756101f30",
       "title": "Safety fears limit Ebola response in Congo, with more than 12 attacks recorded - AP News",
       "published": "2026-07-18T17:02:05+00:00",
-      "summary": "Safety fears limit Ebola response in Congo, with more than 12 attacks recorded&nbsp;&nbsp;AP NewsWHO warns DR Congo Ebola outbreak is outpacing response as Uganda reaches milestone&nbsp;&nbsp;UN NewsThe Ebola epidemic is getting out of control&nbsp;&nbsp;The Economist‘Walking Ebola’ Helps Explain Why Congo’s Outbreak Is So Hard to Stop — and How to Treat It&nbsp;&nbsp;Bloomberg.comEbola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda&nbsp;&nbsp;World Health Organiza",
+      "summary": "Safety fears limit Ebola response in Congo, with more than 12 attacks recorded&nbsp;&nbsp;AP NewsWHO warns DR Congo Ebola outbreak is outpacing response as Uganda reaches milestone&nbsp;&nbsp;UN News‘Walking Ebola’ Helps Explain Why Congo’s Outbreak Is So Hard to Stop — and How to Treat It&nbsp;&nbsp;Bloomberg.comEbola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda&nbsp;&nbsp;World Health Organization (WHO)Ebola is not abating&nbsp;&nbsp;The Economist",
       "sources": [
         {
           "name": "AP News",
@@ -93,7 +117,7 @@
       "id": "526a9a1948e2",
       "title": "1 dead in Upper East Side Legionnaires' outbreak - Gothamist",
       "published": "2026-07-18T15:26:00+00:00",
-      "summary": "1 dead in Upper East Side Legionnaires' outbreak&nbsp;&nbsp;GothamistLegionnaires' outbreak: First death reported in connection to Upper East Side cluster; 67 cases total&nbsp;&nbsp;ABC7 New York1 dead in NYC Legionnaires' disease outbreak and over 70 cases confirmed&nbsp;&nbsp;USA TodayFirst death reported from Legionnaires' outbreak on Upper East Side, Health Dept. says&nbsp;&nbsp;NBC New YorkDeath Toll Rises To 2 In UES Legionnaires Outbreak, Lawyer Says&nbsp;&nbsp;Patch",
+      "summary": "1 dead in Upper East Side Legionnaires' outbreak&nbsp;&nbsp;GothamistOne death reported in New York City Legionnaires’ disease cluster&nbsp;&nbsp;CNNFirst Patient Dies of Legionnaires’ Disease After New York Outbreak&nbsp;&nbsp;The New York TimesDeath Toll Rises To 2 In UES Legionnaires Outbreak, Lawyer Says&nbsp;&nbsp;PatchFirst death reported in Legionnaires’ disease outbreak in New York City&nbsp;&nbsp;AP News",
       "sources": [
         {
           "name": "Gothamist",
@@ -110,6 +134,18 @@
         {
           "name": "Medical Xpress",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOUlEblUxYVpYbkZ1MXAyckZSZ2huYkFPa3FkMlhXSlVlbFVyd2MwSXpOVjNBeE9JcGt5NEk5bzdfVzROUlgtNzQ2SGVDYXFDQjNWXzVDdmlteUMxQ0NRU2dpV2tDODlEdHhPbXl6R21NZUM0eDFadWFydnJLWjNuWWc0LTZEQWZDSGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "557dfac7b937",
+      "title": "You may be ageing your brain without knowing it: Neurologists reveal how poor sleep and everyday habits could affect memory and cognitive health - The Times of India",
+      "published": "2026-07-18T14:34:20+00:00",
+      "summary": "You may be ageing your brain without knowing it: Neurologists reveal how poor sleep and everyday habits could affect memory and cognitive health&nbsp;&nbsp;The Times of IndiaLong Sleep Hours Link to Elevated Alzheimer’s Blood Protein&nbsp;&nbsp;Neuroscience NewsPoor sleep alters brain communication networks differently across adult lifespan&nbsp;&nbsp;News-MedicalScientists Discover a Surprising Link Between Sleep, Genes, and Alzheimer’s&nbsp;&nbsp;SciTechDailySleep disorders don't just exhaust ",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNQ0loMzFjRjBpSGt3SGZkMmJVV3FmNFBINF94VjVCbC1rOU5lbmM1Q1E4b3hpSmZRdzlsdXRJQmVVb3NzRmU5YXUwMWd3SkkzU0RQai1vOWZXcXhZcU5lSTFkZkJUekQ3aWF6eE1mWS1zRFdOTC1wSEtOODA1b2lHNjgxUElYUjZ5dnk2bGpxZmM3dTZBUHpWUjJQaTZmRHI3bGZObkN4Q015cDg0UWtUN3BZNzVvMTB1Uk5vaTRTcVBoU3ZqbnhuR3FndkZsaUdUaDctWkFIaEpWX3BrR2MwMHVYODIzSTBsMkx2cjFHSTNscUJzN0FsYXJ0SGpzZURIYkhrT2EwSE5kQWszekRoVE41ZllpSzBpbDYxNEJqZlc4MlBYRkVNa2lZbUQyNG42R29vSElR0gG-AkFVX3lxTE5uRHUxRnVIOURIZ2tZLVcza3RZQXRrYlU3eEthU2lxMThnZ2FuYTREalB0cXY3bC01ekRMOU9SeVRELWlGQU9mWmRBQjJGdHd1TnlIQ2tzOE9nNGV6MGotT1NSWnpKZnRURzJ4Q2VrbG95ajJfZTNEMnRJZUFyY05jUE5aWHBBSUl6NFAwemxJVVFTZXUtR2FJRVVfQ0t2aGt2ZU9uUkVYNkFoT1d2a0ZaWTdVSzdLT0FqNXZrWkU2MlNXaGhNbG9aY1ZBM3E2NWtEODhCOTI0N2k4Q0M0cGx6VWtVSTZPVnBLbVdwWGd5U1RMX25ZTTNLSEo1WW9TVkVZNnM5Zmk5U0RGaXItTnZ1Z3I3UEVmaVgySnk2M3R3TFprWHhfUEdjclE2MW93UXNnWE5HdWJ0dWtHblc3UQ?oc=5"
         }
       ]
     },
@@ -174,6 +210,18 @@
       ]
     },
     {
+      "id": "ced01aaaa073",
+      "title": "Could the body’s immune ‘garbage trucks’ point to a way to slow aging? - San Francisco Chronicle",
+      "published": "2026-07-18T11:18:41+00:00",
+      "summary": "Could the body’s immune ‘garbage trucks’ point to a way to slow aging?&nbsp;&nbsp;San Francisco ChronicleBreakdown of immune cells' interaction is key driver in aging, study finds&nbsp;&nbsp;Medical XpressStudy maps how macrophages age across different body tissues&nbsp;&nbsp;News-MedicalTweaking a Macrophage Receptor Staves Off Aging in Mice&nbsp;&nbsp;the-scientist.comAge-associated decline of Lamtor5 drives immunosenescence and systemic aging via cGAS-mediated paracrine inflammation&nbsp;&nbs",
+      "sources": [
+        {
+          "name": "San Francisco Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcjU2dG1iMmJTYWo4SUNPcF9ONTRwNWd3QktfYWhhTUoxdVFzb1dRcUtVQkdyTm5vREtYa2hhdE8xalRIVHVLc2NCcS1CX25NMFJDZlVCSnpjd09oT1ZiTDE3c0IxVHFxSnA0YmFwZWZjX3JNM0FmTkl4NmJMUDVHbTc3NnY2VTBMblF5MDFBOUJ6RUx4YVlub3VuN1N3Mk8tTGs0?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3f43186612bb",
       "title": "Erie County reports first Cyclospora case as outbreak investigation grows - WGRZ",
       "published": "2026-07-18T11:06:00+00:00",
@@ -234,18 +282,6 @@
       ]
     },
     {
-      "id": "b7a9bfb158ce",
-      "title": "Bad News: All This Summer Sun Likely Won't Fix Your Vitamin D Levels, Study Finds - ScienceAlert",
-      "published": "2026-07-18T08:02:29+00:00",
-      "summary": "Bad News: All This Summer Sun Likely Won't Fix Your Vitamin D Levels, Study Finds&nbsp;&nbsp;ScienceAlertVitamin D Deficiency Affects 80% Of Indians: Expert Suggests You Avoid These Mistakes&nbsp;&nbsp;NDTVFeeling cranky? These nutrient deficiencies could be to blame.&nbsp;&nbsp;Yahoo CreatorsShine a light on vitamin D&nbsp;&nbsp;The Rome News-TribuneMost Indians get enough sun; so why is vitamin D deficiency still so common? Expert explains the overlooked reasons&nbsp;&nbsp;The Times of India",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZDlTSzM2U3M4aTItdVdLUG9iZThOMWlmTjJrY1JmZXc4UW5GQUk2X3ZXcjB5YW1oeDNBQzRKN09CcTQ1V1Q1enNJT0tSQ0c1SXFPWUIwbTlIQjI5N1VRdy02UERLZ2N3dkEtVGFhWFVYV3U3bVJ1T1dqaVBCSUNCSE9FblFzYnJPLW5qNGlxN1lQdHc0X04tdjBEaTBoSHFqWUhxWQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b77266a47c78",
       "title": "I’m a personal trainer for seniors — everyone after 50 should be doing these 5 bodyweight moves to improve strength and mobility - Tom's Guide",
       "published": "2026-07-18T07:30:00+00:00",
@@ -294,14 +330,14 @@
       ]
     },
     {
-      "id": "53f99ad42f72",
-      "title": "Sun Fanglin, Chinese scientist who paved way for new cancer drugs, dies at 58 - South China Morning Post",
-      "published": "2026-07-18T01:00:07+00:00",
-      "summary": "Sun Fanglin, Chinese scientist who paved way for new cancer drugs, dies at 58&nbsp;&nbsp;South China Morning Post",
+      "id": "c7f77420939d",
+      "title": "'So many blessings have come our way' | Community rallies around Crawford County teen facing cancer battle - WMAZ",
+      "published": "2026-07-18T02:06:00+00:00",
+      "summary": "'So many blessings have come our way' | Community rallies around Crawford County teen facing cancer battle&nbsp;&nbsp;WMAZ",
       "sources": [
         {
-          "name": "South China Morning Post",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORGpXYWZUMlRjQ0o4YTN6YnVlZ1RLOFNUZ2MyWkFiZUt5U1B0V3YtcjBuTTNzT1ljQTljdW5Sck0ybkxWTmxCQ3d6T2dRNFlsb0ZxbU9MRVV6X05JVDFuWE8wUHBhdm5TTEM4a2kwNGVnQV8ycFU5ZHNWRmk4MzQzaW1OcXEtQjd2SFlkanphTWxHczJ1dGNURW51cElBZndqNzd2YzJPUkdoQVZ1aEhObzVpWVNIcVRUeVpNZEFhQ0FqMnlfdGVrc9IByAFBVV95cUxNczRJRVVoTUNlT3l4VlFYeEZ3a1JJUE4wNjZ3M2tyblpqcnlKZDdxVzZWTEtTNGV4bk5fNnhFc3VBVWV5VG1BRjVvSmppT01GR3NENm5vLUFDSEhxUnJmYkxoUWRxR1dNa3NPallISk0wRjdNWkdnNTZtV0pRVFhOZXk0V0pJMUpoZWJtaUs0X29BeFBFUWxiU09qMXpmeEEyVWdhSnVwSWVnRUhkWkJCTXRxc2w0V2FlaEJXVzdwa3VXdkVpWXFLMA?oc=5"
+          "name": "WMAZ",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRjFXRFRzVmVYa01aQWNILXNSQjZDa212YjNDc3dMRVlJRVFRWTl5LWVtRTU5aFQzMHdoa3RWVUFDVENlMjZOXzd3RG83aFZCcVk5UlN6dWFtaG5pbXFhSWdlWkJqcGdGTmpLRElQUVN0dGt2R3UxYjdmQW4xMTd3VDR1QkF6M3I4NFhXQkZPeVlzZGpPZkZjeU8yOXJLMUloT0RGTW5aRXdpZFV1b2tXOFRta0JfM1ROWTJYNFptMEhGbHA5eGt2TDVVRnBUR3pUdTNWTWhWaVlvSXA0dXVodDVTSGVxR0h6OGNqaUtNRHlxOGNsOEE?oc=5"
         }
       ]
     },
@@ -333,7 +369,7 @@
       "id": "661a22fb0f83",
       "title": "Researchers just uncovered more about the asteroid that killed the dinosaurs 66 million years ago - The Independent",
       "published": "2026-07-17T22:19:00+00:00",
-      "summary": "Researchers just uncovered more about the asteroid that killed the dinosaurs 66 million years ago&nbsp;&nbsp;The IndependentScientists Unveil the Rare Composition of the Dinosaur-Killing Chicxulub Meteorite&nbsp;&nbsp;The Yucatan TimesDinosaurs May Have Been Wiped Out by ‘Oddball’ Space Rock&nbsp;&nbsp;Sci.NewsNickel Fingerprints Reveal What the Asteroid That Killed the Dinosaurs Was Made Of&nbsp;&nbsp;ZME ScienceThe asteroid that killed the dinosaurs was more odd than expected&nbsp;&nbsp;The Br",
+      "summary": "Researchers just uncovered more about the asteroid that killed the dinosaurs 66 million years ago&nbsp;&nbsp;The IndependentDinosaurs May Have Been Wiped Out by ‘Oddball’ Space Rock&nbsp;&nbsp;Sci.NewsThe Dinosaur-Killing Asteroid May Have Came From a Rare Class of Meteorites&nbsp;&nbsp;Discover MagazineResearchers identify class of 'oddball' meteorite that killed the dinosaurs&nbsp;&nbsp;Phys.orgThe Dinosaur Extinction Was More Complicated Than You Think&nbsp;&nbsp;New Scientist",
       "sources": [
         {
           "name": "The Independent",
@@ -342,38 +378,14 @@
       ]
     },
     {
-      "id": "97284d875b74",
-      "title": "How different types of exercise impact mood and brain chemistry - PsyPost",
-      "published": "2026-07-17T22:17:36+00:00",
-      "summary": "How different types of exercise impact mood and brain chemistry&nbsp;&nbsp;PsyPostThese daily habits secretly shield your brain and heart from major diseases&nbsp;&nbsp;Futura, le média qui explore le mondeHow exercise keeps our brains healthy as we age&nbsp;&nbsp;Medical XpressExercise in Your 30s and 40s May Help Keep the Brain Young&nbsp;&nbsp;Fisher Center for Alzheimer's Research FoundationResearch Suggests This Fun, Free Workout Protects Your Brain as You Age—Even More Than Other Types of ",
+      "id": "b0c8fa1c5f00",
+      "title": "New study links ADHD symptoms in boys and addictive social media use - The Washington Post",
+      "published": "2026-07-17T22:00:00+00:00",
+      "summary": "New study links ADHD symptoms in boys and addictive social media use&nbsp;&nbsp;The Washington PostTeens who can't control social media use more likely to develop ADHD symptoms&nbsp;&nbsp;The Eastleigh VoiceA new study suggests that addictive social media use among adolescent boys could contribute to worsening ADHD symptoms. Read more here: https://wapo.st/3T2Ylhu&nbsp;&nbsp;facebook.comBoys' Social Media Use Tied to Rising ADHD Symptoms&nbsp;&nbsp;Newser",
       "sources": [
         {
-          "name": "PsyPost",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm9Iam1XU2dPekNxUHZ3UklLTG5laWZocjZ3dHl3VGYzRTZPeFZVNTJuUWYxNUhJNS1PQ0F5RGJacC1xbm5EZkRRenNEXzhsRzlZLUhGWVIxMG5ncFNMT3BkS05HSjdZaEJNbnp6VWVSTGFqa0xWOUQxbFBlYUhWX0czcWlJUjd1aFFWdl9yOHBJZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "04a26eca8f22",
-      "title": "Health officials warn of measles exposures at Tempe Marketplace, Surprise Walmart - AZ Family",
-      "published": "2026-07-17T21:40:00+00:00",
-      "summary": "Health officials warn of measles exposures at Tempe Marketplace, Surprise Walmart&nbsp;&nbsp;AZ FamilyPima County investigating Measles case&nbsp;&nbsp;KOLDNew cluster of measles cases identified in Maricopa County&nbsp;&nbsp;12NewsValley has 7 new measles cases: Where you may have been exposed&nbsp;&nbsp;Phoenix New TimesMaricopa County identifies new measles clusters in Tempe, Surprise&nbsp;&nbsp;yourvalley.net",
-      "sources": [
-        {
-          "name": "AZ Family",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOekpUVmhudmFyR0tUT1NBREtoRTZfM2VJNE4yODlOX2pXUnl1RndnTUVaT3JrTnlvYmNQUVFGQ25OTEM2a0llVmhPQV9uV0ljYVhSMGRIZGFwNnM1SEN4cS1LVGE4X3RDT041UnhVTWszZDBrUE5idXlqWVZvMmhvYm9lNFFLLXhtUzRkbUhQenlqMGI4Ul9lZVBQd1h1NUJ0YTZNY1ZDNjRha1lsMm1PYdIBxAFBVV95cUxOWEF4SldKZC0zZU52d05Cd1FHNml5OF9LRnRRZWtRdHhIdWtCVWhJUmRRY3lLaURscGZuLTRnVjEta1lNc1NyWmIxMVBjdGpsd3JGeEMxMzBRY3JLc3ExODN2VFlmUS1NYUZQU2drdkxqdVg2Q2VubGJtZ3U1ZHFocEdTVXdoWnFER0hqeEFHRDAyZGdIYVNWUGR5Vks1eDctdC1JMHBFQ3pDZ05OMzdmSUNnc2w5dWNDVVdwTXBiN25jMGhC?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9a85e6e41676",
-      "title": "ECT Reprograms Adult Neurons into a Youthful State - Neuroscience News",
-      "published": "2026-07-17T21:13:33+00:00",
-      "summary": "ECT Reprograms Adult Neurons into a Youthful State&nbsp;&nbsp;Neuroscience NewsECT-like stimulation unlocks lasting immature-like state in adult mouse neurons&nbsp;&nbsp;Medical XpressRepetitive Neuronal Stimulation Reprograms Mature Neurons Into Immature States&nbsp;&nbsp;Bioengineer.org",
-      "sources": [
-        {
-          "name": "Neuroscience News",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zNkVoT0lwR1hXbmRWV1Y5aFJJUWQtSC1kNms2X2I3UnRrSGNvcF91a0RuUVk5cFRoTW5ZdnlSY1d2MV9GQTNVc0FYSTZSNUhTQnVLUC01NV9YUVNiMzNwSmVkNDF3NXRHWmpZUXB4X1VMQQ?oc=5"
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWjBNSm5WRVZiSDJEakJ4V3hleWdObGJnREJveEtlUWNvM2lSS0I1UUk2VEVJZ2ZCa3VRUmFlemlOQ29YSmRSMEdFUWM3M2hWVFJ6cDBmNFpfMmw3UW82OWRnVkZZNkVkQ01nQllzNnNwajUzMHZlb3pPcUF1azd4WkNTbWJ5c3NOOXZuV1RLVTgyeUJMUUFwUFF6WGlYUFZBN01la2llSkFyMU03ODZnSw?oc=5"
         }
       ]
     },
@@ -422,18 +434,6 @@
         {
           "name": "Yahoo Health",
           "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSUo2ZFlsVS1EcnZXUFdYUERyR1h4aHFkZ2tVVGtRZktwa2ppNEloZldGS1YxY1NlSTFVMWZFbG84NUd5dFQyZmxKRHp0RmkwZ09DajMtRExnVlZZRjN0em5mN2YzbDJORVZOcGFubm1OUFBxUncxaUNhNzZLaHh1OXJwMkVQR011N1lTblVIQlpyODhQWmU3b3dHQllIelJZRmhodDFGMUJfMnR5cUgtLXozS2hMT3B6WnRITy1vSkpfZDVYbnctam83OV9yb2NmYkUybHVsVUZxTnhkZ0pjOHJYcVNLdElP?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1bdb2a46772d",
-      "title": "Meteorite that crashed into New Jersey home contains building blocks of life, astronomers say - ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-07-17T20:32:32+00:00",
-      "summary": "Meteorite that crashed into New Jersey home contains building blocks of life, astronomers say&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosAlien World Chemistry Found Inside Meteorite That Struck New Jersey home&nbsp;&nbsp;SETIMeteorite that crashed into New Jersey home contains \"alien world chemistry,\" scientists say&nbsp;&nbsp;CBS NewsA meteorite that crashed into a New Jersey home contained ‘alien world chemistry,’ a new study says&nbsp;&nbsp;Inquirer.comChemistry From Another W",
-      "sources": [
-        {
-          "name": "ABC News - Breaking News, Latest News and Videos",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMVRmZGlaMVBkNVBORFcwQmtub2NEeDFlVVdNTVkzYWZ0dGN2ZGh6a0VZR3NHUHU0Y2VUQ2N1Wk01Z0ZMazBMTXk1cTRMdDRSNkZCeThLR1hOdFREWkRieEY4NWZpMWRHZXJtTFkyVFNOaldOYXRyckNmZDQwMTZ5aHdQSE9uRkxXWW1xVm1vOHFpclppalM0cl9ScVBHX2lnZUHSAacBQVVfeXFMTXk0aXEtTkhxVHpPNlZmNk1fcks1YVRwUjA4TlBnYkpRbENHUHdUbUFpd0FMakpSdmRDZW9UWElHel9VZ3hTQ1BFLU1GdUVTWVgxeXNLdEdsVUY2T1dUN3FaeFhLOXlaa3J2N216dXhZd09LUFVXOENMUzE1d0xZVm1acWo0aGd6d21iaTQtbVdMOWdpeVdVN2s4TklHLWstZkJOMlBac3M?oc=5"
         }
       ]
     },
@@ -513,7 +513,7 @@
       "id": "81bdfa5e60d4",
       "title": "Brain implant lets a paralyzed man feed himself and pet his dog - Boing Boing",
       "published": "2026-07-17T18:03:11+00:00",
-      "summary": "Brain implant lets a paralyzed man feed himself and pet his dog&nbsp;&nbsp;Boing BoingA neuroprosthesis for restoring hand movement and sensation in a person with complete tetraplegia&nbsp;&nbsp;NatureImplant helps paralyzed man to feed himself and drink from a cup&nbsp;&nbsp;Medical XpressParalyzed Man Feels Sensation Again With Brain Stimulation Device&nbsp;&nbsp;the-scientist.comParalysed man regains hand function through novel brain technology&nbsp;&nbsp;Financial Times",
+      "summary": "Brain implant lets a paralyzed man feed himself and pet his dog&nbsp;&nbsp;Boing BoingParalyzed Man Feels Sensation Again With Brain Stimulation Device&nbsp;&nbsp;the-scientist.comA neuroprosthesis for restoring hand movement and sensation in a person with complete tetraplegia&nbsp;&nbsp;NatureImplant helps paralyzed man to feed himself and drink from a cup&nbsp;&nbsp;Medical XpressNeurostimulation restores feeling in paralysed hand for months after&nbsp;&nbsp;New Scientist",
       "sources": [
         {
           "name": "Boing Boing",
@@ -522,22 +522,10 @@
       ]
     },
     {
-      "id": "6d8135527891",
-      "title": "Your brain can track two voices at the same time - Boing Boing",
-      "published": "2026-07-17T17:54:34+00:00",
-      "summary": "Your brain can track two voices at the same time&nbsp;&nbsp;Boing BoingAre you listening to me? Well, kinda… Research shows people can track more than one conversation at once&nbsp;&nbsp;Medical XpressBrain Can Process Two Conversations at Once&nbsp;&nbsp;Neuroscience NewsSome People Are Better at Eavesdropping Than Others&nbsp;&nbsp;NautilusThe secret to successful eavesdropping: Trinity College study shows how we do it&nbsp;&nbsp;The Irish Times",
-      "sources": [
-        {
-          "name": "Boing Boing",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqamQ0Q0pXYmlHdksxN1JWM1VtaFBRWTFGLVBFbTJycmJqeDAzTUhGR0xZM1hjSFBzck9MMzMxUE4yRllrS2RGa1gzTWtsWEF0c0pWLWtZTVdDWmZGRm5XREQ0YzJ4ZkpaNWxJ0gFwQVVfeXFMTl95WEJKR0xybUREVkh3WnVRVmp1cmdPZjhiSGFPM2RhMHYzUHJlZ0xScDRRaUxZekZyUUUzSnc3cHE5dUVMZWFwZU0zb2VVN2FtZWgxRWpaV2RueHNvOXRBZmxEMXAzVFQ5czc5RmxpUw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "86dfc42ee73e",
       "title": "What people look at most reflects their brains' specialization - Medical Xpress",
       "published": "2026-07-17T17:00:37+00:00",
-      "summary": "What people look at most reflects their brains' specialization&nbsp;&nbsp;Medical XpressYour 'attentional fingerprint': New study finds unique gazes&nbsp;&nbsp;Valley NewsYour Gaze Has a Signature&nbsp;&nbsp;Dartmouth",
+      "summary": "What people look at most reflects their brains' specialization&nbsp;&nbsp;Medical XpressYour 'attentional fingerprint': New study finds unique gazes&nbsp;&nbsp;Valley NewsYour Gaze Has a Signature&nbsp;&nbsp;DartmouthWhat catches your eye in new places could identify you&nbsp;&nbsp;Earth.com",
       "sources": [
         {
           "name": "Medical Xpress",
@@ -554,18 +542,6 @@
         {
           "name": "Phys.org",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaHBEVi0tRjY0N2VNem52Y2FJYnNpT3BUaHhtSGtYXzRXcFU0MjM2cThzNWRUOWtfdmcyRUIzTm5pNXVKemlWTFRtNzE2RVBhVHMxcGFGTXVhalRJLUlWbjRZVkhvcVU2QjBVTXVxS3hyLUdSUll6RHNldmk1QTEzaTNkMzNxY2s?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4059b865a367",
-      "title": "New Research Reveals How Humans Could Live Up to 156 Years - Newsweek",
-      "published": "2026-07-17T16:16:00+00:00",
-      "summary": "New Research Reveals How Humans Could Live Up to 156 Years&nbsp;&nbsp;Newsweek",
-      "sources": [
-        {
-          "name": "Newsweek",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRzBOM2tsSkpydXRyU3J1V2tpV0NlRFdrMlRpaUFscFZOeUxzbjRDVk53WWlaTVhYeG1LTHNlRzVMMFlVSHB4STJsUmpRQ0dRd0wzYzB4MVV2RUxSTDI1QVNSdWdxN1hKbXlfMm56TUpTS2dTSlFkajhpRFJlemI1NVZuS0ltM0dDVUFTUg?oc=5"
         }
       ]
     },
@@ -606,18 +582,6 @@
       ]
     },
     {
-      "id": "ff64b7fbc18f",
-      "title": "‘It was horrible’: Ontario man warns of tick-borne illness after 10-day hospital stay - Global News",
-      "published": "2026-07-17T15:35:36+00:00",
-      "summary": "‘It was horrible’: Ontario man warns of tick-borne illness after 10-day hospital stay&nbsp;&nbsp;Global NewsA Tick-Borne Disease With No Warning Rash Is Spreading Across the U.S.&nbsp;&nbsp;NewsweekDoctors Warn Of A Tickborne Disease You've Perhaps Never Heard Of Spreading In Parts Of North America&nbsp;&nbsp;IFLScienceTicks in Canada on the rise&nbsp;&nbsp;CP24Rising tick-borne disease in Canada can trigger heart inflammation&nbsp;&nbsp;News-Medical",
-      "sources": [
-        {
-          "name": "Global News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSWw2N2tGODFvV2E3aklsN2FkcnRiSTdUdzNMdE1FTGFPb3NtRlVCSlBkRFNUVUNmUHdjSWZTVWRDaHBWb3k2MjhJLUl2WlZmeUYwMUJXR0tYX0dES0F1c0J2UUJFb2E3Q0x5SG9kZ2RWZkNVN3BDS04wUWVQVnJYVVdWbWQ5bDZGWG1YXzEtTFg4SWsxd1AzVDF5YTBid1pYUXc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6b7d9ba5ad31",
       "title": "Two hours of sleep restored: Researchers make Alzheimer's breakthrough - Medical Xpress",
       "published": "2026-07-17T15:20:01+00:00",
@@ -626,18 +590,6 @@
         {
           "name": "Medical Xpress",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sNnpFcHlnSDJGQkVtT2NMWjQ4T295eFlOazJXRjM4azlRYmNHaGJnRmN3Z3hXVnFhYWVfelZyaEpMWkZtbFc5bVZoM3c0S1pDQ2x6SklkbmhXYW4tTzNIcWczSUZ0bVh0Q2VXeGtKbnlBZVhtRUhYQWRHdmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "caa2f8c19b63",
-      "title": "Graphene nanoribbons can withstand extreme environments, could be used in fusion reactors - Interesting Engineering",
-      "published": "2026-07-17T14:34:00+00:00",
-      "summary": "Graphene nanoribbons can withstand extreme environments, could be used in fusion reactors&nbsp;&nbsp;Interesting EngineeringGraphene nanoribbons survive gamma radiation, revealing potential sensors for fusion reactors&nbsp;&nbsp;Phys.orgQuantum materials discovery could advance electronics for extreme environments&nbsp;&nbsp;The University of ArizonaQuantum materials breakthrough may enable electronics in extreme environments&nbsp;&nbsp;Bioengineer.org",
-      "sources": [
-        {
-          "name": "Interesting Engineering",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQTdBOVBwNEFyY09YcXNCM0s0Q3VESkFQVmphbWozbF9PVlhVUWNUUEFDX2FvS1VHamVUc3NURXg2amhBS0lvdVdHM0ZfRTI4YzI2ZzBIWWpvZldBc2hBdnV0NFhGRWZ0eGpZRFctYkZZcHJvbldoMFFDRzNFeENBdU9DQ0pFb3JXZHQ3bGtObDN4RC1CN2M0VmNkMnNZWVNyQ1E?oc=5"
         }
       ]
     },
@@ -678,6 +630,18 @@
       ]
     },
     {
+      "id": "40ffdbcb947d",
+      "title": "The Best Time to Take Vitamin D for Optimal Sleep and Health - Verywell Health",
+      "published": "2026-07-17T13:17:38+00:00",
+      "summary": "The Best Time to Take Vitamin D for Optimal Sleep and Health&nbsp;&nbsp;Verywell Health",
+      "sources": [
+        {
+          "name": "Verywell Health",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05WW9ydUFhR1RzWW9PUkFVcXVMRTFLeU1yMUxCQWdaWHZpaUZzUEpKS0h0N3J1YnFHcXB4ZjI1SU5OUEtfNlhNNFhTZFJWbDJldklLRWR4YXpvUG5SWHlVTVBDVXA1Q1BkanJ4MzZkMGRWNHpzYWJ4V0MxS1c5aW8?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b656b057a4ca",
       "title": "Dr. Roach on how to combat chronic kidney disease - The Detroit News",
       "published": "2026-07-17T12:59:00+00:00",
@@ -714,30 +678,6 @@
       ]
     },
     {
-      "id": "9e63be8be1c2",
-      "title": "The No. 1 Most Effective Gut Health Test, According to a GI Doctor - TODAY.com",
-      "published": "2026-07-17T12:00:00+00:00",
-      "summary": "The No. 1 Most Effective Gut Health Test, According to a GI Doctor&nbsp;&nbsp;TODAY.com",
-      "sources": [
-        {
-          "name": "TODAY.com",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTF9rWGROVnI0aUZvdGlnUnZYclMxYTd3eTIyZS1zUTJZeDVxTjJjM3o2ZjZCcldGOGVhbXdUc0RhM1N1cXQ1MGoycUtnMUtnSzNfZVFsUUNDdy0zOGdacDFPVWhrQkIwbXhSd2E2bXZsUllKVjNmZWRndXg3eTlqajJTSml1NXJaMEp3UV9taU42R3M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "252800424576",
-      "title": "New Fossil Study Challenges the Classic Story of Human Evolution - SciTechDaily",
-      "published": "2026-07-17T11:51:25+00:00",
-      "summary": "New Fossil Study Challenges the Classic Story of Human Evolution&nbsp;&nbsp;SciTechDailyScience Journal: Humans’ Big Brains Evolved “For No Particular Reason”?&nbsp;&nbsp;mindmatters.ai",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMmxyN2J4SVFzT0poNnZmdTJSRDhveU5fUDFqcmlncVlJY0Q2YjhSQTFXeXFidk54bGszc3QzYUhQSFpQa0MwMnJTbjJWcGJyV2ptSG4zY2hqVExkVWllUXkydmYxOXgwdkVfcnBHTWpTMms4Z1o4RUN6bmd2WXdFbTVvNzhFdzdULTIzMlU3bXlad3hX?oc=5"
-        }
-      ]
-    },
-    {
       "id": "baa688f78de6",
       "title": "New body index aims to move beyond BMI and works for babies too - Medical Xpress",
       "published": "2026-07-17T11:50:02+00:00",
@@ -762,30 +702,6 @@
       ]
     },
     {
-      "id": "12983ec87d13",
-      "title": "How a plant-based wound dressing could fight infections - BBC",
-      "published": "2026-07-17T10:54:31+00:00",
-      "summary": "How a plant-based wound dressing could fight infections&nbsp;&nbsp;BBCSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tdzJrUEpSeUxqZHVaR3lXLW1QTjNyaXlPZjAyWWllSGowQ2lXNDNtNC04al80dXF4elZMSFd5VVpFeGIwR29tMXhSWG9vdXI4ZjgwcTRrbHlwZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "560bb6fc8175",
-      "title": "The deep ocean is changing our climate far faster than we realised - Oceanographic Magazine",
-      "published": "2026-07-17T10:36:00+00:00",
-      "summary": "The deep ocean is changing our climate far faster than we realised&nbsp;&nbsp;Oceanographic MagazineScientists Unravel the Fast-Moving ‘Butterfly Effect’ of the Deep Ocean&nbsp;&nbsp;UC San Diego TodayTiny waves in the deep ocean can affect the climate thousands of kilometres away&nbsp;&nbsp;ANU College of Science and MedicineClimatic reach of small-scale turbulence in the ocean interior&nbsp;&nbsp;NatureTiny ocean swirls could change how scientists predict global warming&nbsp;&nbsp;Earth.com",
-      "sources": [
-        {
-          "name": "Oceanographic Magazine",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOHI4dm1PN0U3Z1pDelQtVDN4Vmk4bzhsY2R3Y0stN2hVOFZEV0FYZ0dFQUF5c20zakVaM3o0ZEpDWlg5dmtxWl96TFRGLUhaRHI2YmVzVXFlVDBjMUhTamVDc2RuMWNaakNrVElTZ2l6a2tzWUV1MmZJWFdrbWxGQlZ4TURsVmNCcG1BektHV0o0TXl4aEJMQ3lvZHNwMTFMV1VNOG1nU3BnQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c88f80ee1d51",
       "title": "Does stopping a GLP-1 really doom you to regain all the weight? - NBC News",
       "published": "2026-07-17T09:00:41+00:00",
@@ -794,30 +710,6 @@
         {
           "name": "NBC News",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMExIVkNzY2Q0b0I3SmZ4dklQU2N6MXRabDdzaTRpaDVsdHBLNVVhSVVMUUVsQUs1Rmk5c0xZMEZFNVZfUURuR050UF81ZDZ3Y2VxS25wVkdBdEdwVHBRRWJvbE1kS1FxaENBSHpDS1FCYVJQcG1GbVZkdnl1SFE4WFVaeUtHWV91WFl1ZGZlMTlPNmxzMW54REV0SUVhLXBkbXZ3Y2xMYzhtazlEanZ6Ulc2Z1Y?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7c49454094c2",
-      "title": "Scientists tested 39 sweeteners and found unexpected gut effects - ScienceDaily",
-      "published": "2026-07-17T09:00:24+00:00",
-      "summary": "Scientists tested 39 sweeteners and found unexpected gut effects&nbsp;&nbsp;ScienceDailyMixing Sweeteners and Antidepressants Could Be Quietly Altering Your Microbiome&nbsp;&nbsp;Technology NetworksCould a Common Antidepressant and Sweetener Combo Be Quietly Fighting Gut Bacteria?&nbsp;&nbsp;StudyFindsLow-cal sweeteners can change gut bacteria — especially if you’re on a popular antidepressant&nbsp;&nbsp;New York PostScientists Find Surprising Link Between Popular Sugar Substitutes and Poor Heal",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90MVdmdzRCWDZrMFVUVEpRZ1ctYm9sTnVGanYxZE9TcEwxd3JYaDRNMTlhdVNra1ZiVDJZQk51OGhLVDctaEVPUzR6QVJ0b0hJelNaYVR4WUNhOGJaUllEY1NvdUR6TTBtdEMtYnNMYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7db885be61a2",
-      "title": "Microplastics have reached one of Earth’s most isolated ecosystems: Indian Ocean animals carried up to 14 - The Times of India",
-      "published": "2026-07-17T08:34:00+00:00",
-      "summary": "Microplastics have reached one of Earth’s most isolated ecosystems: Indian Ocean animals carried up to 14&nbsp;&nbsp;The Times of IndiaMicroplastics documented for first time in deep-sea ecosystems&nbsp;&nbsp;Oceanographic MagazineMicroplastics reach even 2,000 meters below the ocean surface, study finds&nbsp;&nbsp;Phys.orgMicroplastics Found In 92% Of Hydrothermal Vent Animals 2 Kilometers Deep On The Ocean Floor&nbsp;&nbsp;IFLScienceMicroplastics Found 2,000 Meters Deep in Hydrothermal Vent An",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPS0daSWRHdVJPQVpaRWpMU1hKZVQ1N0pYZG1LRnZCVG1TU3lmT3U0VnZMMkduSWt4a1NvYkdJWURUMHdQZEMyLTM0R0RHbjJJNEFkWENoQTRpSG5Hanhqa3I5ekpyOE5oeUptazNqS3hrRGVkZkplWnVqYkVCdTUxc3haR2tLY3BfWEV5N3pUZXY1eHZHNDVreDF2UjlLR0t0Tnk4VlhSYmJZdnl2UU5raVdqUmt4X010b3gwUlAyR1NEbHhnTHo0ZDI2bVRGd3ZYTjBTZVdiM3Z3bUxHS2hkeFh2aTQ2eWNlNldDT0xUaGdQTlZWa3hhY1hXVzU2cTRPWWc4cnVFX3ZlSHpzcnBKZEk2UmZEVXVWbVByZ3oyenZSQkRuSlhhMXU2aUNCanl3SFhz0gG4AkFVX3lxTE1GZUFHeVZMVGZLdVd1bDNuRzNMeFRBTDdRSzBWTFExVVVJaUhJanZCUXVUa1U2c09wTlFNLXlPNEZtTnpabDNmRUhyZ3IwdGxyTmxsNktXOWJ0YURjMFA1Tl80SF9hYVlhUjdqRTZyclRFNUhLNnNWNkN3aThhWVE0V1hxQlctYTBvemduMEIyM2ZPS0ZpRERpdGYwazFEZFZ5cFRDdlcxZDlIU3I5YlpqOVlaeENxR09kcU9LSTdZa25HbmFpUy1uWUI2RmhuZ2RtcHhXRE83V1V3eDVFc19xRXU2M0liLVpxX1V0ZWo2YjlncWc1c3lvbHhwVUthYUgzMTF6YzA5S2t2SWk1N0ptSVdVNlQ1THJZZFZFU0JBbkhCNWl0Q0NMSndjVTFaQ3I4and5b2hrTw?oc=5"
         }
       ]
     }

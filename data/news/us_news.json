@@ -1,19 +1,91 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-07-19T19:09:52.193579+00:00",
-  "total_fetched": 122,
-  "unique_count": 122,
-  "health_related_count": 56,
+  "fetched_at": "2026-07-20T03:26:25.616937+00:00",
+  "total_fetched": 124,
+  "unique_count": 124,
+  "health_related_count": 63,
   "news": [
     {
-      "id": "34325f9c90aa",
-      "title": "Second person dies in legionnaires’ disease outbreak in New York City - The Guardian",
-      "published": "2026-07-19T16:51:00+00:00",
-      "summary": "Second person dies in legionnaires’ disease outbreak in New York City&nbsp;&nbsp;The GuardianFirst death reported in Upper East Side Legionnaires' disease outbreak as cases rise to 67&nbsp;&nbsp;Fox News2nd death reported in Upper East Side Legionnaires' disease cluster, health officials say&nbsp;&nbsp;CBS NewsSecond person dies in Manhattan Legionnaires' cluster&nbsp;&nbsp;GothamistLegionnaires' outbreak: 2nd victim to die in UES cluster was Air Force veteran, businessman&nbsp;&nbsp;ABC7 New Yo",
+      "id": "c9ce228f9977",
+      "title": "Geologists have taught for decades that rivers needed plants to form their distinctive S-shaped meanders, but Stanford University researchers published a study in August 2025 showing that rivers were carving those curves long before vegetation existed on la - Space Daily",
+      "published": "2026-07-20T01:46:19+00:00",
+      "summary": "Geologists have taught for decades that rivers needed plants to form their distinctive S-shaped meanders, but Stanford University researchers published a study in August 2025 showing that rivers were carving those curves long before vegetation existed on la&nbsp;&nbsp;Space Daily",
       "sources": [
         {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZW5aTVdab25VQVZrbUx2Ym9SVmpBR0ZlQTBseHRfODhWamtXTGNraGxPQkIydjFiZENvYTZqR085QmxPNm9meFFzSEk0Q0NaQ1hoT0dfMUZoTlF3UU04b3I5Rm4yZEQ5OWF0cVZVRFFYM0dNWW12dHpyRlFaWTFlRm4tZTJEVi1XSmhBRnVhNEQ0ZWc?oc=5"
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44blRuc0kwNEhTaGpCcG9HSVMxTktKQW9tWUNxbzZwVUtvUEc2XzJqNkl1cUhlUEctalNQaEVGM3lUZnFnUXdOaVh6ZWIzY1dacUhBZ2Q2dDRIRW14bzlCdlpNSFctano2R1FJZjdrXzVqU0FJRlI2eWRGNWdtRlk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ab2dcfc4f9e2",
+      "title": "Sweeteners may slow down growth of gut bacteria - NewsNation",
+      "published": "2026-07-20T00:55:55+00:00",
+      "summary": "Sweeteners may slow down growth of gut bacteria&nbsp;&nbsp;NewsNationScientists tested 39 sweeteners and found unexpected gut effects&nbsp;&nbsp;ScienceDailyMixing Sweeteners and Antidepressants Could Be Quietly Altering Your Microbiome&nbsp;&nbsp;Technology NetworksScientists Find Surprising Link Between Popular Sugar Substitutes and Poor Health&nbsp;&nbsp;PreventionLow-cal sweeteners can change gut bacteria — especially if you’re on a popular antidepressant&nbsp;&nbsp;New York Post",
+      "sources": [
+        {
+          "name": "NewsNation",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUlBGeF9wV2NHUDN5dDdWcEVialNSZkdMaXUzZ29Vek1hUTQzLTZSUkEyRDBrNjcxenVRRVFEUHNFN05GQ1IxNEVkTWlsZC14UjRySk1HcThualVIU3FpSmY2dkY4STZLaEVXN0NMb0VZbUVCX2Fmdm11NkVXQ0F0NmpxVXQtTGRYZHfSAY8BQVVfeXFMUFhnS3RDLUNKVXlhTWVGRi1kU1p3XzNjZ0JZcTVpeFVDS1dlUGpWdmVHSWtnMTVPeFVVNnljUlV2bllweUtWZENJVENPZEpMQmgwMlQ4NWUwMDEzSm5abWstNHJMUEIza3BLLU81dXoybGVWQnpYMDNzMXlfMy11NUVkYlFBUDNyUU1kMHEzaHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "96c3c03e8c68",
+      "title": "3rd person dies from Legionnaires' disease in New York City - ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-07-20T00:34:13+00:00",
+      "summary": "3rd person dies from Legionnaires' disease in New York City&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosTwo More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan&nbsp;&nbsp;The New York TimesLegionnaires' outbreak: 2nd victim to die in UES cluster was Air Force veteran, businessman&nbsp;&nbsp;ABC7 New YorkThree deaths reported in New York City Legionnaires’ disease cluster&nbsp;&nbsp;CNNFirst death reported in Upper East Side Legionnaires' disease outbreak as cases r",
+      "sources": [
+        {
+          "name": "ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeGxTQnVDVDNXSHV6dmNhck1MTUZ1a3k5OXhHdDluNURVWUc1cktpazRzYmJkYlFzXzM1djEtY0Zjdl8zMnh1RXdua05aVWUxanhNcUluN1FkUThtU2dYX2pyOGwwWE5sS0pHdFdHR01QeDR0WjZiSzNKR2x6ckYyYTRWUmRMSlU4ZkNDRy11QWM2UG9VR01R0gGcAUFVX3lxTE0yekQ0d2M2QkNvbmt6czhnSVU3ekw0NW5xTmxFVG80S2psZWdvSlV3U2dZTDh5bGdQN2RudVNWNUVrd2tOM3RXMjNPM09CYlY5YnJkc2ViajNoT09PdDFjSkVWZ2kzSlVzQlBrc1hmVV9XNnlGN2VpVmtvb0c4ZW16djYwZ0paZ2tRM0lfdzlUaTFqdHlQOTdmeWRWdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e58f5ad4e192",
+      "title": "Malaria Vaccine's Achilles' Heel: Its 4th Dose - Newser",
+      "published": "2026-07-19T22:00:00+00:00",
+      "summary": "Malaria Vaccine's Achilles' Heel: Its 4th Dose&nbsp;&nbsp;NewserSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "Newser",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWTJsVlpXRHlPWmd0VjdJdldTdmZmYW5UaGw0MkhOY2RSZmw4WXl6MUF1REZWZDNMa2VPcTlNdmktZzFUQk1scDl2WmJ1aXhmSDlfSjg5YktfU3liRnpxSFMwUHo0dmFlV2RNd1lReWp0WGw1UlhQYTVOTG00STlwZ2psYVYySUNBbXVISF9xME1mMUN6UFhVWHpHelF2cWh3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8e99d8a51b22",
+      "title": "Misery in the Epicenter of Cyclospora: ‘A Baseball Bat to Your Abdomen’ - The New York Times",
+      "published": "2026-07-19T20:44:26+00:00",
+      "summary": "Misery in the Epicenter of Cyclospora: ‘A Baseball Bat to Your Abdomen’&nbsp;&nbsp;The New York TimesSo you think you caught cyclospora, the diarrhea-causing parasite. Here’s what to do next&nbsp;&nbsp;CNNAlabama Department of Public Health confirms 21 cases of Cyclosporiasis in the state&nbsp;&nbsp;CBS 42Eau Claire farmers market vendor says produce-washing steps help keep food safe amid Cyclospora&nbsp;&nbsp;WEAUChicago man recovering from diarrhea-causing parasite said it sent him to ER&nbsp;",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84eWpWQmZrRXpBUEllZER5MGl2ckZCMDFNc19rekpNVndRU0pBdlAzaUFxMFRfaGxrYjNncjJOZ2t3TzhvZ056ZHpIX004QXVtbzVlbm5nT1d6aXNfWVI4b2NUQTR0ZU1xWlg3LUpGYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d80906c0b464",
+      "title": "An avocado a day keeps the doctor away: new study - New York Post",
+      "published": "2026-07-19T19:39:00+00:00",
+      "summary": "An avocado a day keeps the doctor away: new study&nbsp;&nbsp;New York PostHow 1 avocado a day may help reduce heart disease risk&nbsp;&nbsp;Medical News TodayHere’s Exactly What Happens to Your Blood Pressure When You Eat Avocados&nbsp;&nbsp;AOL.comPopular breakfast food could lower 'bad' cholesterol and reduce heart disease risk&nbsp;&nbsp;The MirrorWhat Happens To Your Body When You Eat An Avocado Every Day&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTThyUHp5VFBRUmM4NlhZM25fUDVKVE9uSVR1Q21ERzh1RHB3ODd0Z083YVd2YUhCS0E4NGtNTlhfR2tBUVd6UlhvMm5uWkdzcDRCX3pEcFhVMjVvU3Utajgxa3ExTEJvbmJHak1rTVE5SjJrSUVwdnZacjVpZ0dSd1Q5ZXZqNGE0QzRhMnFNYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2fef4b5cbc74",
+      "title": "You don't have to drink alcohol to damage your liver: Doctor reveals 9 unexpected factors that could be putting it at risk - The Times of India",
+      "published": "2026-07-19T18:25:33+00:00",
+      "summary": "You don't have to drink alcohol to damage your liver: Doctor reveals 9 unexpected factors that could be putting it at risk&nbsp;&nbsp;The Times of IndiaGastroenterologist Dr Joseph Salhab warns ‘Not all liver disease is caused by alcohol’; shares 8 biggest risk factors&nbsp;&nbsp;Hindustan Times",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQNXEtWF9jMW0xVWZJSUxfZFVTQXRwR3lUcDRVWkc4dTdYcVVwNElUbXlCbURTbXQxZEhHRG9lMlI4ZXhOMlg5aXBJS3p3YUR5MG9lb0laem1xUnhYeDJpS1ByeHRVb25mRV9CTFVKd3VYNFVLdlZlTnpjTnJ0UktZRjdaRjUzWGFxS3oxcXZKTERZSWRjSHZVVU9wSGI2N2UwcHlvTjJNcl9ManpUYUlqTUtWTzhZbE1HS2VCLTNSYjJCVGJoMVY2enlXTHE1RVFGQ1hxMGhiSl9FTVBIY1c1OTJPcXE0VDFZbnNOVW0wQVFFdjBKTHB6RWoyZ3JyQWJlWlB2V2V1NFdkTVhiS0lSRm9xRDZ0THfSAZ8CQVVfeXFMUFE2Tm1QTmloNzVMR0djNVU3Yndlc1ozd3p1ZWVCeGxtOFpoWnpFZU1YcXRlMGkxc1pmNHVIV2pTcDI3THozUG92RGJReFF1R09PWkh2OWozMWd2SlYwZXNHMG5RM2N2TTE5QUlwaEVENnVrVlU3NGZseTA4Y0M2Ym8tUXBOa3pYUXhjcG94ckVuRnVhODlpZG9tLWlxNnpXZzJONVVKeFhSMXV4bjc5NUhqSkFrbXBmT3BNUUVramg3bzdjRmQ1N0VSWDlsRG5MWXl3OUtONjdUdTFPcHVRMTRsY3U2dFhQWHM1eHhnX280QU0xdVNQNjBKcV9XUkhobkZDR0RtQWtNbTZlTVQ0MWFPMFNJVDNhYU03aUtad3M?oc=5"
         }
       ]
     },
@@ -33,7 +105,7 @@
       "id": "cfe0000986c1",
       "title": "24 GLP-1 Users Reveal The Good, The Bad, And The Shocking Side Effects - Yahoo Lifestyle Singapore",
       "published": "2026-07-19T14:30:02+00:00",
-      "summary": "24 GLP-1 Users Reveal The Good, The Bad, And The Shocking Side Effects&nbsp;&nbsp;Yahoo Lifestyle SingaporeOzempic nation: America’s GLP-1 use nearly quadruples in just two years&nbsp;&nbsp;New York PostInternet searches on weight-loss medications have increased 25-fold since the launch of GLP-1 drugs&nbsp;&nbsp;Medical XpressHolistic Lifestyle Changes Crucial for Effective GLP-1 Therapy&nbsp;&nbsp;Drug TopicsThe GLP-1 disclosure dilemma: Should you tell a date you’re using Ozempic for weight lo",
+      "summary": "24 GLP-1 Users Reveal The Good, The Bad, And The Shocking Side Effects&nbsp;&nbsp;Yahoo Lifestyle SingaporeInternet searches on weight-loss medications have increased 25-fold since the launch of GLP-1 drugs&nbsp;&nbsp;Medical XpressOzempic nation: America’s GLP-1 use nearly quadruples in just two years&nbsp;&nbsp;New York PostHolistic Lifestyle Changes Crucial for Effective GLP-1 Therapy&nbsp;&nbsp;Drug TopicsWATCH: Conversations exploring the evolving GLP-1 landscape&nbsp;&nbsp;Axios",
       "sources": [
         {
           "name": "Yahoo Lifestyle Singapore",
@@ -66,14 +138,38 @@
       ]
     },
     {
-      "id": "95204e40d365",
-      "title": "Scientists Studying Earth's Flowering Plants Issue a Stark Warning to Humanity - ScienceAlert",
-      "published": "2026-07-19T12:02:37+00:00",
-      "summary": "Scientists Studying Earth's Flowering Plants Issue a Stark Warning to Humanity&nbsp;&nbsp;ScienceAlert",
+      "id": "5ff4ae2ff1b9",
+      "title": "Robot doesn't perform the surgery: Cardiac surgeon debunks the biggest myths around robotic heart surgery - The Times of India",
+      "published": "2026-07-19T12:22:00+00:00",
+      "summary": "Robot doesn't perform the surgery: Cardiac surgeon debunks the biggest myths around robotic heart surgery&nbsp;&nbsp;The Times of IndiaSurgery and the limits of the robotic ideal&nbsp;&nbsp;Engelsberg IdeasAI Won't Replace Surgeons, But It Is Making Surgery Smarter, Safer And More Precise&nbsp;&nbsp;ETV Bharat",
       "sources": [
         {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPclNtNWNPb2JfSnVYMC04MVg4aTRWUU1ncUdaVTQ2LVlhTFZWSzQ4RnAyU0lpcG5GQllKdzB0QUFrbUFObzhlOEVKckFCZTlxOGtzZWtuSkVVNnlwRTk2S004emVxeWJfLWdFQVQ5aEpqeWdiSFgxZklhVXpScDFRYjg2UnoyeGZfVm1RaGFLMUVITS1TX1o0Mko3cU82dy1RYW9GYzJoOFN5dw?oc=5"
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPbWo3RTZwQ1plS2lEZ2hqeVNfUWoxeWh0QzJfR0JVSU9PMTBuRVgwUV9aaUZtNUhoMUxtazU4NUZ2R0pBMGVncGR2SlJ5T2R2bVQzMjYtWDdtb2Rxa0FMd1IyaVJxRld0a1NOSGlqS0NjV1UyZ1QtZER3XzltcXVDX1VNUWJoSENjZmZpTDhDMXdSeWdaR2MzT1RmSWtlWHZKaE43S2RIeWlkcGc3aDdnZzhpLWJ6a0VZMlR3dG5oM2NrQTVZMGdWOFB2NVZZNldSVjZkMmhuTl9JTXhDajBKMzJqWWJhX3N4eFoyV3NsZkREU0FGNFJkbFRPWG9qOHd3RXfSAYcCQVVfeXFMTnhCU2tydmJUbWcyU19XcXZBZVlTV3p1ZEFXNDc0Wlg2eWpySzMyc0ZNbTUtemd3dHlSNmZYVFVNblJ6NExmVlREcEh1RDc3X0RsaERoZWpyanB3WkRwM2hia3pNM0RVV2FRa0FZNjcxX3hqVVl2d2p3TmpIN2EwMlM4VGZ6S2hiUUpNWW5QQzdoX25IRXZPbFpFUVRXaGZXcDA5RTZCN1pOVGt1Sm1zX05YWlpVSzE3NzF3RmZ2ZWxIX1dNbjNZRzZXMERLbV9WVjB0TXNCREtQRi1rQjcwN09KNWh5V0hCcDlCb09EaFlrM1BhVlNKRXROalNuNTgyb1dia3U3TUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c5f6730aebe1",
+      "title": "Physicists Just Turned a Black Hole Energy Theory Into Reality - SciTechDaily",
+      "published": "2026-07-19T12:18:51+00:00",
+      "summary": "Physicists Just Turned a Black Hole Energy Theory Into Reality&nbsp;&nbsp;SciTechDailyResearchers Prove Black Hole Theory in a Laboratory Setting&nbsp;&nbsp;Universe Today🌀 Physicists extract energy from a 'black hole' in the lab&nbsp;&nbsp;Techno-ScienceRecreating the 'Stealing Energy from a Black Hole' Thought Experiment on a Tabletop: How an Electronic Circuit Overturned the Principles of Wave Amplification&nbsp;&nbsp;XenoSpectrumScientists recreate black hole energy effect in lab&nbsp;&nbsp;",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQakU2eUY2cHBBZ0RBM0s2M3dmaXl4VjdBWGI4M0hsUkNpNmQxSUZNMTl6SEhBMTNDQXdUZHpSa202T0ZBcnBmZzY4RnRlYXBSdlJqYkhQQVYydUU0X2M3ZjNLN1d0NW9EVDhRQ0M2bkUya21JU2p3Z2R4dEF2aWE2NUFkX3pZRkFCTmctd21xbUhpdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ba76f98ae7ba",
+      "title": "Plants that make real dairy protein? Scientists discover an unexpected shortcut - Phys.org",
+      "published": "2026-07-19T12:00:01+00:00",
+      "summary": "Plants that make real dairy protein? Scientists discover an unexpected shortcut&nbsp;&nbsp;Phys.orgBovine Casein Grown in Plant Seeds Reaches 1.26% Protein Yield in Miruku-Linked Study&nbsp;&nbsp;Cultivated XDairy proteins from plants: Scientists unlock seed biotechnology for cow-free casein&nbsp;&nbsp;Food Ingredients FirstCan Plants Make Dairy Protein Without Cows? New Study Comes Close&nbsp;&nbsp;StudyFindsDairy without cows? Plants can produce a key milk protein&nbsp;&nbsp;Earth.com",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYXNVZk9nV182RWdSNzdpMG1PSG5keHp3WDMzN2Z1LXJWSTI0MGoyQ1RFSG5LelhtWUZIQ01zOV9fbG5jLVdPYlQzdmFTbUplUVhzM0RMMFZ1VVF4aTEwdUVlTGZMWGtLUWRSaVF2MFZRY0MwQ3BOT1M3cWM0Rzc4WQ?oc=5"
         }
       ]
     },
@@ -98,6 +194,30 @@
         {
           "name": "Space",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObUdCNDhxU3B4NmhzT0lOY255dklXNk0teUZOT1p4TDhTTGdLUldHd0VhcFBNSlQ0amdVQ3NDM3h3R2xLMmE3eVhLcXJYclJ1Q1BVRWtQMEszNFM5ZGpFbWlGZ0pCNmIwdWdzWnBhS1pJNlQ1UnVtMllNQThJM053NDdGSUdncEl4emZmNjhlZzE5cWd1X0hJMFl4MXFIZjBMdV93Rjh6eVAxeWVjNi1XRzdR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a00b0fbb3278",
+      "title": "Scientists Studying Earth's Flowering Plants Issue a Stark Warning to Humanity - Yahoo",
+      "published": "2026-07-19T12:00:00+00:00",
+      "summary": "Scientists Studying Earth's Flowering Plants Issue a Stark Warning to Humanity&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWjdZMHdKSzJLek9aamFyT2FLUDk2VEwteVlvTTJtWC04QlBYZ3FnTWdYZ2x6M25EM3RyV283RGtsT01uU0o1eXhKRm9mVzdPOFg4VjZxY1FFWGIyTkFJM2VOVmZnTXROSEd6Y0NtbHZZQ1ZkNm5DNE5EWXJxWVFHclI3RTJ0V2JtaXBTdGZFalk5OTZXWDFfOEtIdU1EMFQ3MTltLQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "73b78a6ceb57",
+      "title": "Breast Cancer Survivor Shares What Her Hair Looks Like After Chemotherapy - NDTV",
+      "published": "2026-07-19T11:42:04+00:00",
+      "summary": "Breast Cancer Survivor Shares What Her Hair Looks Like After Chemotherapy&nbsp;&nbsp;NDTV",
+      "sources": [
+        {
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTWItSW1ZeGs4dGx1cG9fZlNvWGxMTWtTb2VVUUdXY19OY2pIdkFJbUZmdVktUmdYam5tWU1vc0JxX2pRc1VIMnNwTEhBYjM2MlJCTzVWd1FxYjhEeEN5clQzUXVsT09OYjBJaS1FazhGSUN6RXpwSmxWZTRRV0U2VnJubWE5QVFTbXFuT0h4RUZ1M3dXZXVvczZENjZ3bDZmZDB2d2FoMTFoYk0zUTNiMENTd9IBuwFBVV95cUxNTjlkWnZ4ZFlfQ3JaZ01saFdOSHZrVGJxNzV5X2szQ2FnU0QxM3dOSUcwd0RwRHV6aXcyY19nMEZISDVtOFcyT1BSOWg2anJDU1BjNDhoaG5TTlFHeEVUTHQxWmxvdno0eDBCbUhqNFRPcHhlajN3MUF4WDQ1NzMtMEV0Sl93WDJzU3RlYjBfQnozQkZjLXRpLUh0ZXRxclM0b3Z6WU5Tb1k5R21nQzlieXdRRWhSVHpRVjZv?oc=5"
         }
       ]
     },
@@ -129,7 +249,7 @@
       "id": "f288376bd6bd",
       "title": "Eliminating These 3 Foods From Your Diet Can Be A Game-Changer For Heart Health - HuffPost",
       "published": "2026-07-19T11:23:52+00:00",
-      "summary": "Eliminating These 3 Foods From Your Diet Can Be A Game-Changer For Heart Health&nbsp;&nbsp;HuffPostThe No. 1 Plant-Based Protein to Boost Heart Health, According to a Dietitian&nbsp;&nbsp;TODAY.comA Cardiologist and Dietitian Recommend These High-Protein Snacks for Better Heart Health&nbsp;&nbsp;PreventionA Cardiologist and Dietitian Reveal the Number-1 Snack for Heart Health&nbsp;&nbsp;Yahoo Health7 Heart-Healthy Foods to Eat in July, According to Dietitians&nbsp;&nbsp;EatingWell",
+      "summary": "Eliminating These 3 Foods From Your Diet Can Be A Game-Changer For Heart Health&nbsp;&nbsp;HuffPostThe No. 1 Plant-Based Protein to Boost Heart Health, According to a Dietitian&nbsp;&nbsp;TODAY.com5 Common Foods Heart Health Experts Rarely Eat—and Why&nbsp;&nbsp;AOL.com9 Steps for a Lifetime of Heart-Healthy Eating&nbsp;&nbsp;The Atlanta Voice7 Heart-Healthy Foods to Eat in July, According to Dietitians&nbsp;&nbsp;EatingWell",
       "sources": [
         {
           "name": "HuffPost",
@@ -138,14 +258,38 @@
       ]
     },
     {
-      "id": "9a3ffbd79d55",
-      "title": "10 Everyday Habits That Are Harming Your Longevity The Most - HuffPost",
-      "published": "2026-07-19T11:00:17+00:00",
-      "summary": "10 Everyday Habits That Are Harming Your Longevity The Most&nbsp;&nbsp;HuffPostExperts Say This Habit Might Be Aging You More Than You Think&nbsp;&nbsp;Yahoo Health",
+      "id": "4e9543619ed7",
+      "title": "My financial planner convinced me to be tested for prostate cancer. It turns out I had it - CBC",
+      "published": "2026-07-19T11:00:00+00:00",
+      "summary": "My financial planner convinced me to be tested for prostate cancer. It turns out I had it&nbsp;&nbsp;CBC",
       "sources": [
         {
-          "name": "HuffPost",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQkxKSEJLQ1V3RndzeE5XVWpTazhzMVdqRWpBZFI0cUdIVHRxLXZrR0VSdXhTZHpIb2R0LXhKOFM2Uk9EMFNfeWE4dlZqVGhPRE1EOGpHZHJaNkZrZVF4MmJidkNRdjBqZVNyNDN5a3IyRmltLXdhLU5tMWF3VThJYzNod3dzRkhKNURua1Rja3k5bGNmcFYzdml0a0F2b3BZaW1fWTNlN1N4eERPMFAtV0ZLSHRzWWVXWkVj0gHAAUFVX3lxTE5PV2JidHRmTVJYLWRIVzhLc0VSTWtpM1NPcUZjdzVHaWx1OHJvVm1mZ19mbXBCMUszTWgtR29ZS09xZWNSbzBTM0dHNk1VQ2NUcjZsSjJ5cXAyR2lLNWN2cU8ydUFkakM2WjllYlZvOXhxN2NxbDJhNHpoVkxDOHVmX0xyRFlZelVRa3FLdERiWWJVSGxMcWZ0M25zM0tzTGRXZ1dhWG5SOFctZEhsbFNwQUpQZ01Za1Q3bGdLMTB2dQ?oc=5"
+          "name": "CBC",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZUo4di1vRTdWZ0dlQVNuNDVGOUdnRHRUcy05dGw4a29ZSWoxeEF2bXRmaE9IcmFEenhEb2lCQllLd0UxdlNBS1NlVkwzOThVWUg3NXNNMXRDWVd1U3BrOGdtYm1qdXY5d250TlFDVlpNcUo0QkpKU2hOSUFpYS1XenJOUTk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e8fdbc3f34f7",
+      "title": "Cells from your mother likely infiltrated your brain in the womb, and they could survive for decades, study reveals - Live Science",
+      "published": "2026-07-19T11:00:00+00:00",
+      "summary": "Cells from your mother likely infiltrated your brain in the womb, and they could survive for decades, study reveals&nbsp;&nbsp;Live Science",
+      "sources": [
+        {
+          "name": "Live Science",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOa1pmYUg4NVl2QTJ0UjZyUW1PUllJS2xhTm1CWXlFMlNuUnV5QUw0aWpURnRXSVQ4NkdzQnRrX3dsU29oMW1MYWtKMmlkMUVtQ2QwN2xXRjZDX0xpei1vcHgzZnR3dEtZdFFienkzcTd6U1d3ajBqeUlKWXJSNVJ4dTVrZmpNX0EyWG1ZOElmN1BHc1VpcXBEUU0tXzM0ZkViQ2JQalNOb1RnZkt1RjcwbzZhVzdScTNacGc0c0lEX3BzZmJmdjMtUkMzVXRCUjdfMVlYbHJ2aTl5YXJrV2dhbEhXVXMtcjhVRGgxUGRR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "05fd93fd5132",
+      "title": "My Mom Has Alzheimer's, and Her Long-Term Care Has Cost $400,000 - Business Insider",
+      "published": "2026-07-19T10:42:00+00:00",
+      "summary": "My Mom Has Alzheimer's, and Her Long-Term Care Has Cost $400,000&nbsp;&nbsp;Business Insider",
+      "sources": [
+        {
+          "name": "Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYkdGcFRGMkQ2YVJjRXZpZTlfTkdjRmFDYTA3Tkoxa2FkaVRieGVpbElVWGVFUl9vMVJFblkxUF8weU9hbE4yRmZYN1ZhUkpRNzlIV2Y1ZEd5TGxNUWFxRnN2TjNKMElOYVRuM0l4QjZDNkJDa2RiMmtrWUo0QWJ6RTNPeS1nX1k?oc=5"
         }
       ]
     },
@@ -153,7 +297,7 @@
       "id": "e8f31f002ded",
       "title": "The First Room-Temperature Quantum Material of Its Kind Is Spun From Atoms of Gold - ScienceAlert",
       "published": "2026-07-19T10:02:36+00:00",
-      "summary": "The First Room-Temperature Quantum Material of Its Kind Is Spun From Atoms of Gold&nbsp;&nbsp;ScienceAlertQuantum statistical plasmonic metacrystals&nbsp;&nbsp;NatureGold Nanoantennas Sort Quantum Light Like a Semiconductor Sorts Electrons&nbsp;&nbsp;Tech TimesResearchers Create Room-Temperature Quantum Material That Filters Light by Its Quantum Statistics&nbsp;&nbsp;The Quantum InsiderPhysicists create first room-temperature quantum material&nbsp;&nbsp;Phys.org",
+      "summary": "The First Room-Temperature Quantum Material of Its Kind Is Spun From Atoms of Gold&nbsp;&nbsp;ScienceAlertQuantum statistical plasmonic metacrystals&nbsp;&nbsp;NatureLSU physicists create first room-temperature quantum material&nbsp;&nbsp;Louisiana State UniversityGold Nanoantennas Sort Quantum Light Like a Semiconductor Sorts Electrons&nbsp;&nbsp;Tech TimesFirst Successful Development of Room-Temperature Quantum Materials: A Major Leap for Quantum Computers and Solar Cells?&nbsp;&nbsp;XenoSpect",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -170,6 +314,30 @@
         {
           "name": "TribLIVE.com",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQzdPYmpoOGZRYWZJVmV1OGlJU21Ld19VVkRybURuSXhlWGJyZi03aXBTalMyNndLUkxwdjY2SlZrcVROTzdNR20wTHc2aFBhckpzWjZpdGhiN0hmektjQWdnZEMyUTBwZkV0Sl80Q0xINlFIYVZsOTRyWFc4N2gwaUVTc1dwbXFmZFJRaEowZDlmMVR1bDRuczFHOVRZejNIbXo2SUpvQ2U0cDFMTEJLTHM5Tkhzdkkt?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "26637ef5e325",
+      "title": "Coffee may help the body fight stress and aging through a hidden cellular switch - ScienceDaily",
+      "published": "2026-07-19T09:19:43+00:00",
+      "summary": "Coffee may help the body fight stress and aging through a hidden cellular switch&nbsp;&nbsp;ScienceDailyDrinking Coffee Can Actually Help Reduce Stress, Here's the Scientific Explanation&nbsp;&nbsp;VOI.IDCoffee found to have startling effect on aging, says new study&nbsp;&nbsp;MSNCoffee consumption linked to slower cellular aging in people with severe mental illness&nbsp;&nbsp;PsyPost",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50SWJkSXpuNS1WZ2NoQnVTZjRmYkpVWlpDaDFvSnZ3Xzhkb1N1T1FncHRlRDY0NWZXS3JnN1RtWjBJVWJGa0VBWEx4STZnUXZjNmRoU3pZYUlYcFBWS2djcFNfdGlyWjlnM0ZHYmxodw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e55edbf163cd",
+      "title": "Weight loss drugs may improve job prospects and dating odds for one group - New York Post",
+      "published": "2026-07-19T09:10:00+00:00",
+      "summary": "Weight loss drugs may improve job prospects and dating odds for one group&nbsp;&nbsp;New York PostSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMHNrZ2F4d3gxamVRWkVGekFTMDNNNXdERjlva0JlZUxFT1dhN0ZYaFI4dU9kOTRWSHg0bnpmVndvbldTZnptdmlqX3JNbGdmQURTT0JtclR2aWhyUW90M0RqckUyODg3MWRLeThENjUzcVhLNXNXVVJQR1BXaTg2SDJTMjRGTjlOMmZuZTAzbzdRaGFVdEducy1la2h2SjEzamNUbUp3aWROZ0VXNlZ1ZGVkV0pQcXpo?oc=5"
         }
       ]
     },
@@ -198,14 +366,14 @@
       ]
     },
     {
-      "id": "c9ce228f9977",
-      "title": "Geologists have taught for decades that rivers needed plants to form their distinctive S-shaped meanders, but Stanford University researchers published a study in August 2025 showing that rivers were carving those curves long before vegetation existed on la - Space Daily",
-      "published": "2026-07-19T05:30:51+00:00",
-      "summary": "Geologists have taught for decades that rivers needed plants to form their distinctive S-shaped meanders, but Stanford University researchers published a study in August 2025 showing that rivers were carving those curves long before vegetation existed on la&nbsp;&nbsp;Space Daily",
+      "id": "99db79375fc8",
+      "title": "Scientists identify the rare meteorite that killed the dinosaurs 66 million years ago - ScienceDaily",
+      "published": "2026-07-19T04:23:51+00:00",
+      "summary": "Scientists identify the rare meteorite that killed the dinosaurs 66 million years ago&nbsp;&nbsp;ScienceDailyDinosaurs May Have Been Wiped Out by ‘Oddball’ Space Rock&nbsp;&nbsp;Sci.NewsResearchers identify class of “oddball” meteorite that killed the dinosaurs&nbsp;&nbsp;The University of British ColumbiaNickel Fingerprints Reveal What the Asteroid That Killed the Dinosaurs Was Made Of&nbsp;&nbsp;ZME ScienceThe asteroid that killed the dinosaurs was more odd than expected&nbsp;&nbsp;The Brighte",
       "sources": [
         {
-          "name": "Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44blRuc0kwNEhTaGpCcG9HSVMxTktKQW9tWUNxbzZwVUtvUEc2XzJqNkl1cUhlUEctalNQaEVGM3lUZnFnUXdOaVh6ZWIzY1dacUhBZ2Q2dDRIRW14bzlCdlpNSFctano2R1FJZjdrXzVqU0FJRlI2eWRGNWdtRlk?oc=5"
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aYXg3QWs0Y0dheWtPTzlaN1B0ZFd5THYyenF4NmtlUzU4LWN6TUUxMUo2Ri1oQUh0S0MwOXh6Rm0wdEE2ak5ldENjVnlTczJPd0tNSW0yUlZJbm10VDh3LU56SGxjVkJpNklRY0NuWQ?oc=5"
         }
       ]
     },
@@ -225,7 +393,7 @@
       "id": "3aa337f07f7a",
       "title": "Henrico warns residents of feline parvo virus outbreak - WRIC ABC 8News",
       "published": "2026-07-19T01:16:15+00:00",
-      "summary": "Henrico warns residents of feline parvo virus outbreak&nbsp;&nbsp;WRIC ABC 8News",
+      "summary": "Henrico warns residents of feline parvo virus outbreak&nbsp;&nbsp;WRIC ABC 8NewsFeline parvovirus outbreak reported in Henrico neighborhood&nbsp;&nbsp;WWBTPolice warn of feline parvo outbreak in Glen Allen neighborhood&nbsp;&nbsp;WTVR.com",
       "sources": [
         {
           "name": "WRIC ABC 8News",
@@ -234,10 +402,46 @@
       ]
     },
     {
+      "id": "7d6f29f1d14e",
+      "title": "These Galveston critters are carrying a dangerous disease - Chron",
+      "published": "2026-07-19T01:07:26+00:00",
+      "summary": "These Galveston critters are carrying a dangerous disease&nbsp;&nbsp;Chron",
+      "sources": [
+        {
+          "name": "Chron",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQVN5X09sVHpNSXNLZmtIMmZGa1F3RUVueXRoVV9rYXJ1UkRTVTBqN3lMMlJjdDViekRiOEM3SFJiODNxYTIxbzAwQXJOd2ZxZE1EeFl1dDg0QTRRbW53T3dDS0Y1aURwcjdha2xPVm5vMW42S0hWLTgwR1QtZkUwNlRZd2lDZHBuQlRuU3RhNUY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2e385f1ad96f",
+      "title": "A Major Ocean Current Is On The Verge of Collapse. Scientists Say The Effects May Reach California - ScienceAlert",
+      "published": "2026-07-19T00:02:33+00:00",
+      "summary": "A Major Ocean Current Is On The Verge of Collapse. Scientists Say The Effects May Reach California&nbsp;&nbsp;ScienceAlertWhat Cold Water In The North Atlantic Means For Hurricane Season&nbsp;&nbsp;SURFER MagazinePacific Ocean meltwater poses unexpected threat to AMOC, study says&nbsp;&nbsp;Oceanographic MagazineAfter record heat, could the Atlantic make Britain's weather even more extreme?&nbsp;&nbsp;BBCCitizens Addressing our Changing Climate: Shifts in ocean currents due to climate change&nbs",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbzFFSUlvcFdSbEFldFpyZ0FNN1oxeE4tTHRQUWpsX0tRc21ENGtTN2hveHd4bzdQX1RGUktMTndwSXR0clB6V2c0b1Nydi1PTHBRWEJFZHN1RG1YMEF0SnBrTnBQNzBNSm4zRWc1eUdkSUZ4TEs0bmpPbWV2dDlibVBzZzZIVDhzaXlEQ2d1d2k1M2FQNnBpMU5fci1sZWFPMnFPM0VTWXotQzljcXM0RQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "75c2d6760137",
+      "title": "New Alzheimer's blood test predicts who is likely to develop dementia in 5 to 10 years - AOL.com",
+      "published": "2026-07-18T22:51:36+00:00",
+      "summary": "New Alzheimer's blood test predicts who is likely to develop dementia in 5 to 10 years&nbsp;&nbsp;AOL.comSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd0t2ZzlCMm5tQXczZnNJMVltSmdGM09xNGYxVEowaDY0Z3RkV3hITzgwZnhWWmp1WHNGZHU0TGNwbWpkZGJLVTBrakxxN0VBNks4YTdiR2t0b1RGMGF0NzNFZFk4NDZMUmliWTJRV1dKUFFXdW5lTGxVNGZWTm1iclpKbkYtdGRR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5ca52fbee7cf",
       "title": "Health officials demand access to Aurora ICE facility over tuberculosis case - KDVR",
       "published": "2026-07-18T22:37:33+00:00",
-      "summary": "Health officials demand access to Aurora ICE facility over tuberculosis case&nbsp;&nbsp;KDVRColorado health official gives Aurora detention center until Friday to open doors to inspectors in tuberculosis probe&nbsp;&nbsp;The Denver PostTuberculosis outbreak at Colorado ICE jail sickens at least 12 detainees&nbsp;&nbsp;The GuardianInvestigation into possible tuberculosis spread at Aurora ICE facility blocked by private company, health officials say&nbsp;&nbsp;The Colorado SunPressure on Colorado ",
+      "summary": "Health officials demand access to Aurora ICE facility over tuberculosis case&nbsp;&nbsp;KDVRPressure on Colorado AG to force Aurora ICE detention center to allow a tuberculosis investigation&nbsp;&nbsp;Colorado Public RadioTuberculosis outbreak at Colorado ICE jail sickens at least 12 detainees&nbsp;&nbsp;The GuardianColorado health official gives Aurora detention center until Friday to open doors to inspectors in tuberculosis probe&nbsp;&nbsp;The Denver PostInvestigation into possible tuberculo",
       "sources": [
         {
           "name": "KDVR",
@@ -249,7 +453,7 @@
       "id": "73a22312bd99",
       "title": "Leading oncologist reveals 6 habits that could promote longevity and reduce your risk of chronic illness - Fox News",
       "published": "2026-07-18T22:13:53+00:00",
-      "summary": "Leading oncologist reveals 6 habits that could promote longevity and reduce your risk of chronic illness&nbsp;&nbsp;Fox NewsEat your ice cream for a long, healthy life? This doctor says so&nbsp;&nbsp;NPRA Healthy Aging Expert’s No. 1 Favorite Social Activity to Boost Longevity and Overall Wellbeing&nbsp;&nbsp;TODAY.comThe ‘ice cream paradox’ — how the treat can actually be good for your health&nbsp;&nbsp;New York PostTop oncologist: Stop obsessing over ‘wellness’ and enjoy health benefits of ice",
+      "summary": "Leading oncologist reveals 6 habits that could promote longevity and reduce your risk of chronic illness&nbsp;&nbsp;Fox NewsEat your ice cream for a long, healthy life? This doctor says so&nbsp;&nbsp;NPRThe ‘ice cream paradox’ — how the treat can actually be good for your health&nbsp;&nbsp;New York PostA Healthy Aging Expert’s No. 1 Favorite Social Activity to Boost Longevity and Overall Wellbeing&nbsp;&nbsp;TODAY.comTop oncologist: Stop obsessing over ‘wellness’ and enjoy health benefits of ice",
       "sources": [
         {
           "name": "Fox News",
@@ -258,14 +462,14 @@
       ]
     },
     {
-      "id": "2a6e081f9017",
-      "title": "New Alzheimer's blood test predicts who is likely to develop dementia in 5 to 10 years - Fox News",
-      "published": "2026-07-18T20:27:48+00:00",
-      "summary": "New Alzheimer's blood test predicts who is likely to develop dementia in 5 to 10 years&nbsp;&nbsp;Fox NewsAlzheimer’s Blood Tests Offer New Promise to Diagnose and Predict the Disease&nbsp;&nbsp;The New York TimesNew Alzheimer’s blood test may be promising but is not yet ready for widespread use&nbsp;&nbsp;CNNAlzheimer's research: Could a blood test help predict a person's risk for developing the disease?&nbsp;&nbsp;ABC7 New YorkBlood test could help identify people at high risk for Alzheimer’s ",
+      "id": "61a1dfd14204",
+      "title": "A Researcher Was Excluded From an Overseas Conference Trip, And When They Complained, the University Cancelled Everyone's Trip - TwistedSifter",
+      "published": "2026-07-18T22:01:37+00:00",
+      "summary": "A Researcher Was Excluded From an Overseas Conference Trip, And When They Complained, the University Cancelled Everyone's Trip&nbsp;&nbsp;TwistedSifter",
       "sources": [
         {
-          "name": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTEtJR2ltdC1lWFg3Z3FFRHlFWHcwVnFWczVvTmNHOWlmX0FuczN2Y1VqZ0hobmM5U3pGT1dpOFQzSmowNzhaZU41MERzeDdRNFdrd0NBSUducGRnTktBTV9qNGZYNy13Z2dpUGtrWUNUSFQtajZ1N2dCSDFEOTZ0a2pjelMyRHhtcV9FOUh6cjN6eDN3aVFnbdIBngFBVV95cUxQMUlFbkNxbGt2UmVtQXVuR2V5dTdOTWM3SGNiV0pRS3BvejRKblpBU2xCWmJ2cXZ1dkdVLS1Lc25oWnJ0dWJLLWdOTXFJUTlFNFZvR0NyLTNHRWFJNzQyOWtBbzBOckxjbS1Cb1JwTzZrdGdQV3M3OWJ1cUJ6c2liVkdrOVpsdEJqcEI3WUVwQURDV09VUmZ1Zm1wQ0dOdw?oc=5"
+          "name": "TwistedSifter",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQ0QyM1dIVURRQnNyU2I5VElQMWROZ3YtTkE1MFdVSHNrVHg5V3ZGbE02djRPQ2dQM1lVbG0zcDR6aERTMmliRjl2d1ZfVUNNNC1fNGF5c3E0Tm9qeUs2RjMta1VOcGN0Zmp0OTNvbERiVmtKblBiSEV1b2N4VHc3TmFqQV9WVXhhVHlVQTFfWmQ3cUc2QjUwdWtvYUxJN080ZmUzYkFPYS1JZjhVbmQwRWxjV3NCUmh6QTBiVlNzZVMtek5KRnBROGk0bURYLVUyd1BRQkdad1NMdThTa3RaN0lvX1FoTVI4Zk1yTzBUQQ?oc=5"
         }
       ]
     },
@@ -294,22 +498,10 @@
       ]
     },
     {
-      "id": "589caaa27ee4",
-      "title": "Rare cancers in six children prompt pesticide investigation in CA suburb - The Independent",
-      "published": "2026-07-18T19:04:00+00:00",
-      "summary": "Rare cancers in six children prompt pesticide investigation in CA suburb&nbsp;&nbsp;The IndependentHealth officials to investigate Ladera Ranch child cancer cases&nbsp;&nbsp;Orange County RegisterAs More Cases of Rare Cancer in Children from California Town Are Reported, Parents Say ‘This Is Not Random’&nbsp;&nbsp;People.comRitzy SoCal city rocked by rare cancer outbreak suspends use of chemical landscaping products&nbsp;&nbsp;New York PostRare child cancer cases in Orange County should be inves",
-      "sources": [
-        {
-          "name": "The Independent",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZVlaTHJWa1J4cWY2bXg1UUM3MFFIcEdaZWxtdno3TDRXQXd2bkVETjhfNGNfYmhnbWRrOHFLeVR5UDROdFdkSnFBRElrMldmdGZEUzc1VHR4bDJNQUhFaERjTXlzaEpIMUJUbXVRaXNRRDRSS3ZORC1XOEU2UVo5UnhzLTRhcWh2d1pOdUF0UUhNVEFXX0RYT2pmczBBdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4fd3b99b5e87",
       "title": "NASA's Psyche mission delivers Mars flyby data, time-lapse video - Phys.org",
       "published": "2026-07-18T18:51:26+00:00",
-      "summary": "NASA's Psyche mission delivers Mars flyby data, time-lapse video&nbsp;&nbsp;Phys.orgThe Growing Crescent of Mars as NASA’s Psyche Mission Approaches&nbsp;&nbsp;NASA Science (.gov)NASA's Psyche Captures Martian Surface Details&nbsp;&nbsp;Mirage NewsNASA’s Psyche mission tests LLNL-built gamma-ray sensor on Mars flyby | Newswise&nbsp;&nbsp;NewswiseNASA’s Psyche Mission Captures Crescents and Surface Details During Recent Martian Flyby&nbsp;&nbsp;The Debrief",
+      "summary": "NASA's Psyche mission delivers Mars flyby data, time-lapse video&nbsp;&nbsp;Phys.orgNASA’s Psyche Mission Images Details of Martian Surface During Flyby&nbsp;&nbsp;NASA Science (.gov)JPL Releases Psyche Images And Video Of Mars&nbsp;&nbsp;Orbital TodayNASA’s Psyche mission tests LLNL-built gamma-ray sensor on Mars flyby | Newswise&nbsp;&nbsp;NewswiseNASA’s Psyche Mission Captures Crescents and Surface Details During Recent Martian Flyby&nbsp;&nbsp;The Debrief",
       "sources": [
         {
           "name": "Phys.org",
@@ -318,38 +510,14 @@
       ]
     },
     {
-      "id": "32db26a6fd3d",
-      "title": "Low-cal sweeteners can change gut bacteria — especially if you’re on a popular antidepressant - New York Post",
-      "published": "2026-07-18T18:29:00+00:00",
-      "summary": "Low-cal sweeteners can change gut bacteria — especially if you’re on a popular antidepressant&nbsp;&nbsp;New York PostScientists tested 39 sweeteners and found unexpected gut effects&nbsp;&nbsp;ScienceDailyMixing Sweeteners and Antidepressants Could Be Quietly Altering Your Microbiome&nbsp;&nbsp;Technology NetworksScientists Find Surprising Link Between Popular Sugar Substitutes and Poor Health&nbsp;&nbsp;PreventionCould a Common Antidepressant and Sweetener Combo Be Quietly Fighting Gut Bacteri",
-      "sources": [
-        {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVU5WM04tU19yQk1RcVhkZDZnZ1I4N0JtdzcxMGhwblk5eTdhWFhacXRsbWVGWmNtaGowZFloUWRhd1lZSzBfaEZGejVwalRfamlXcVRzRmJ6NnB6ZXAxVFFTanRjcTc0YmYwSHh2LUU2Ung1cWxubThHV2ZYQ3MxVTNPWDhKZUU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ba9cc178a863",
       "title": "Heavy TV Watching Systematically Shrinks Your Brain - Neuroscience News",
       "published": "2026-07-18T17:14:49+00:00",
-      "summary": "Heavy TV Watching Systematically Shrinks Your Brain&nbsp;&nbsp;Neuroscience NewsHeavy TV watching associated with smaller brain structures, study finds&nbsp;&nbsp;Medical XpressTurns out Mom was right: Watching too much TV may be shrinking your brain, says study&nbsp;&nbsp;The Times of IndiaWatching too much TV among 40-60 year olds linked to smaller brain structures later in life&nbsp;&nbsp;The Eastleigh VoiceStudy Links Heavy TV Watching to Smaller Brain Structures&nbsp;&nbsp;Bioengineer.org",
+      "summary": "Heavy TV Watching Systematically Shrinks Your Brain&nbsp;&nbsp;Neuroscience NewsHeavy TV watching associated with smaller brain structures, study finds&nbsp;&nbsp;USC DornsifeBrain scans reveal the hidden neurological cost of passive TV watching&nbsp;&nbsp;PsyPostTurns out Mom was right: Watching too much TV may be shrinking your brain, says study&nbsp;&nbsp;The Times of IndiaWatching too much TV among 40-60 year olds linked to smaller brain structures later in life&nbsp;&nbsp;The Eastleigh Voic",
       "sources": [
         {
           "name": "Neuroscience News",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42ejVYWTA5WU5lcHpWc0NIZTF4eFN0a2F2ckFWbTQzNjB2cFdSd2VUOUFjT0c1SFQtak53OXR3Mk9TYk9YSlVnRzFEQ2ZpZXBIb0pIZjlKUFBvbHNVV1o4alhtLXFPVE1EaXJYNmYySFY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a87756101f30",
-      "title": "Safety fears limit Ebola response in Congo, with more than 12 attacks recorded - AP News",
-      "published": "2026-07-18T17:02:05+00:00",
-      "summary": "Safety fears limit Ebola response in Congo, with more than 12 attacks recorded&nbsp;&nbsp;AP NewsSafety fears limit Ebola response in Congo, with more than 12 attacks on health facilities and workers recorded&nbsp;&nbsp;PBSEbola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda&nbsp;&nbsp;World Health Organization (WHO)WHO warns DR Congo Ebola outbreak is outpacing response as Uganda reaches milestone&nbsp;&nbsp;UN NewsEbola is not abating&nbsp;&nbsp;The Economist",
-      "sources": [
-        {
-          "name": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMmhpRkFVWVM5Z1hvQ3BCcmpEdzFPRXZnaFd6WFVqWW1WRE1xT3k4YVlTRThrRTFZSWZ4azk0aDQ0OUdRU1V2S2NEWW5zVjhXWWhPQlFmbUwweUg4ei1LNXVkYzlYeFFscHo4ak5xeVUtM3h6WTROdm1zMEFtUlJuMUI0NEhXRTJTMTJ5MUhNX1dJQU1mZGtSd21GaXZaLWw5dExSeXRXdDY?oc=5"
         }
       ]
     },
@@ -366,6 +534,42 @@
       ]
     },
     {
+      "id": "3d3fdf6e192a",
+      "title": "Think cataracts only happen after 60? Doctor warns that diabetes is making this eye condition appear decades earlier - The Times of India",
+      "published": "2026-07-18T16:57:28+00:00",
+      "summary": "Think cataracts only happen after 60? Doctor warns that diabetes is making this eye condition appear decades earlier&nbsp;&nbsp;The Times of IndiaDoctors say the cloudy vision you blame on age could be a leading cause of blindness that 94 million people already have&nbsp;&nbsp;OkDiario",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPdWtPY0pVLXJ3a0lvLTJRTmNVRUhuMXkxd0NGMlIxZXFfTThpUnJlVHRweDRzR0x6MmtfdzVsSkdfLUdLQnZMTGo5MlZ1cGplbElPZ294YlVNMGNPRFQtSXRzTUYwN0V6VmtIb0ZfZE4wU0JPVHNpODR0VHBjaWR0R0NRenktc0p1bEhIZ0FiYUxVeHVQNXk5S1ZnUFZ3UnJtQi12dUIwejVHMzZCTVVteWJfakxaWGdyWGc1VUpYSVJfUFYwSmJRNjR1RkJOMWJ0RnpRa2lSUWVoQWRZWmRnRnBGUFFwaXNnYi1hR0NLdHkxeXc0TnM0RjRnU0VyemF2Y0o1UF9MTC1EOEdmU2FlSdIBmAJBVV95cUxNU1hDUWpLb0VMSWlCUlZUeDYwVXVmVkU4SUJZbU16c2VWNU9GZlBBUWlCd0s1UEktQXNhUDM5MVlBMVBzWjFCbEJ5eHpfYVlCRUFHSVE5cWNZUzBvb2hMdUJreFBBd3M5THRTX3RNbnY5STBYdFNlbk1vSXNCODZKUmV2S2FHRXF3anlnMEFhRjBYaG1OVXF5UHRsbmNSQU13REFVZmI1ckpfMDRwVk1DdTA0cUF1Z1luTm15LWhXUlk2YzV3OGZhaF9PMlFHSVVPVjNiOWVtUUcwQWhGSmhSdzBJbVJldldkcV92bTk1VVRCdFFkVk50Y1pJdzc3OVNrRV8zUHhiX0NicUwwckFMV0Z2NlZSS1df?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3e5a67f84bca",
+      "title": "What your walking speed reveals about your risk of heart disease and dementia - The Independent",
+      "published": "2026-07-18T15:09:00+00:00",
+      "summary": "What your walking speed reveals about your risk of heart disease and dementia&nbsp;&nbsp;The IndependentJust 3,000 Steps a Day May Help Protect the Brain From Alzheimer’s&nbsp;&nbsp;SciTechDailyWant to Boost Your Brain Health? A Neurologist Says to Change This 1 Thing About Your Daily Walk&nbsp;&nbsp;inc.comDoctor Explains Why 'Super Movers' in Their 80s Are 50 Percent Less Likely to Experience Cognitive Decline&nbsp;&nbsp;Yahoo CreatorsFAST WALKERS SEE SLOWER COGNITIVE DECLINE&nbsp;&nbsp;PressR",
+      "sources": [
+        {
+          "name": "The Independent",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1Ffb0FfUC1oNU1WTzBWN1BRQmlONlB6czVGM1k5dHhwR2hGZ0NveEd2VHEwb2V1cU9JWGE5bXdycWlBN1VUenBLOXUzUk9TS3RYdjNEZGMzVWFOanBVUWw5eEcwaFAwcXBRcnVzLXhfcjZtd1JlUmc2LVQ5QmFYd3VSMlZfVkJBWWh0dUQ0YzN1QUl2NGRxZXdadi1MQkZaQ1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "52398b12282b",
+      "title": "Why a Single Sun‑Reflecting Satellite Has Scientists Sounding the Alarm - Yahoo",
+      "published": "2026-07-18T15:00:25+00:00",
+      "summary": "Why a Single Sun‑Reflecting Satellite Has Scientists Sounding the Alarm&nbsp;&nbsp;YahooOpinion | Goodbye Darkness, My Old Friend&nbsp;&nbsp;WSJFCC Approves First Launch for Space Reflector Constellation&nbsp;&nbsp;Universe TodayObservers Beware: Reflect Orbital’s Space Mirrors Approved for Launch&nbsp;&nbsp;Sky & TelescopeU.S. approval of a controversial satellite has scientists asking: Who’s really in charge of space?&nbsp;&nbsp;Scientific American",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNTBxY0J3WnJSS19LWHZ0MTBFWWJJa0thbngwMlgtOGo0S0xtTXZGUHY0REIwR0ZFUHNDU01qeUcwa19iNW41Ym5tOWJ2V3hEazJ2Sng2NkFzTEVvTWc2YmNiOVN2bFRtbGI0cEZrUHQxS1o1VDFRSWxIdzB0d202UkIwcXF1NlNBLVBVX1c3OFRMdVVfMjJLR2pR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7f49e8219001",
       "title": "New study sheds light on how Epstein-Barr virus may contribute to multiple sclerosis - Medical Xpress",
       "published": "2026-07-18T14:40:02+00:00",
@@ -378,10 +582,46 @@
       ]
     },
     {
+      "id": "725cd7cab857",
+      "title": "What causes male infertility? Dr Sanjay Prakash J shares common factors and when to get tested | Health - Hindustan Times",
+      "published": "2026-07-18T14:14:28+00:00",
+      "summary": "What causes male infertility? Dr Sanjay Prakash J shares common factors and when to get tested | Health&nbsp;&nbsp;Hindustan TimesHow male infertility has been overlooked&nbsp;&nbsp;The Naked ScientistsScientists Abuzz About Sperm Biomarkers&nbsp;&nbsp;Medical News Bulletin",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcXRESmlTXzdpRUlKR2FJWXFTYXVuR3poZFZHenVZTHBTeWFhdGJnOTRRMmRLMF9vSGktSUl5YUp2MDZJdVhZbFhwOEN6eDhia1dsZkoxNlMtRWdYQUhlQnFnMmN4eUVSUnJzQnBHZ3VhVi1kemtrNXB1S0plWXJtb0hyOWZ4YnlTMnBBdnA0TE81LU9nRzdHdE5zMXFETEoxSjFHUXlmRTY2cUdhSVg5eFZWbHhVSFVBaW04LWdxTkUyZ2lQaGMwdUw5MWsxX1RLdFQ2QTFXcDBXSnpVbEs5TFNfcVdLVTVjOEozWWtJRnY3Z0lK0gH6AUFVX3lxTE5yZW9BcE5qT3NaTUNRM0NBeGJRXzFzQmxIbHh3aDJ3eV9KU2tPSzZJQkZRb2daTHN4RUg5cWtqWmJHVlEyMHJXM0RVRzRjTloyUWpIUzNTemdpQXhzS2RiTnFRc19TNFBNWjBsNW5FeHJkc2RFQVFnSXRhbFpkTDRiTjZQY2x0dkFwS09VM2RxNFcyOVFyZFFrX1JaWmRoNmZydmRLb3Q0NE5Rdy1LSU1zcFFsc0xVU1FybVBLMUdoSUY1RFpRVmk1aTM5SUl5NW02UkYweS1oV29XcGV5QlVEOFdoazZXd1loc1BDVEt6UXZ2eWRKTkxUQUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0b7a619aa8df",
+      "title": "After rare cancer diagnosis, North Huntingdon woman shares journey to help others - TribLIVE.com",
+      "published": "2026-07-18T14:03:35+00:00",
+      "summary": "After rare cancer diagnosis, North Huntingdon woman shares journey to help others&nbsp;&nbsp;TribLIVE.com",
+      "sources": [
+        {
+          "name": "TribLIVE.com",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZDhuUDF2NGhCXzRVclZ5MUZMel9kb1hRelZSejFfbjdFU2ppVzgtT2IzUm9CdkpxT1dXODhCVDJjSk9YSnpnaXduRGZvdUhEY0llY1FaMlMyY0J2VUNXcFNNcGl4enA1VG9ZeWFoM3hlN1E4T3pXbFprQkhfeWZDYW0xQkRPRnlVUTZWY3U1aTZWczl1VC1oWTFZdFBMZFV1WlFMeXJRQWtrMElCbkkwZVFVb05GQ1V0R09waTNR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "699af7d4de70",
+      "title": "Scientists Spent 55 Years Studying Centenarians to Reveal The Secret to Living to 100 - ScienceAlert",
+      "published": "2026-07-18T14:02:27+00:00",
+      "summary": "Scientists Spent 55 Years Studying Centenarians to Reveal The Secret to Living to 100&nbsp;&nbsp;ScienceAlert",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONjBmcmpldG5fbXZxX2pENzdDVjhCOFI4YzVQQlc5MkxncVlNa011YXA4V1ZpazVSNlZfTDlGVUdfTzIyRzhsczFhVXAwNmwyZXFPNDVJTW1CQ2tnY292Ml8xSmVEVVlGeC1tcm91RE9jcER4T3cyOEtrc2p1dnZ5OTdHaXNaVWh1UkI0Vy1femtQWnpXQ2dfQWtfLVdKT01OVHRndzBiMWlJX2x2M1Fkb1pjYmZ1NEJ3S2dzZkVIY25Vc00ydzN0R0t1UlRLbGNaZWhr?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e4ad32421ff9",
       "title": "Popular sugar substitutes linked to faster brain aging - ScienceDaily",
       "published": "2026-07-18T13:59:54+00:00",
-      "summary": "Popular sugar substitutes linked to faster brain aging&nbsp;&nbsp;ScienceDailyThis Common Drink May Be Harming Your Brain&nbsp;&nbsp;EatingWell",
+      "summary": "Popular sugar substitutes linked to faster brain aging&nbsp;&nbsp;ScienceDailySee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -402,18 +642,6 @@
       ]
     },
     {
-      "id": "0baa49701326",
-      "title": "Weight-loss drugs may improve job prospects and dating odds for one group - Fox News",
-      "published": "2026-07-18T13:00:50+00:00",
-      "summary": "Weight-loss drugs may improve job prospects and dating odds for one group&nbsp;&nbsp;Fox NewsGLP-1s Good for Marriage Prospects? RFK Jr.'s Diabetes Ads Axed; CGMs for Toddlers&nbsp;&nbsp;MedPage TodayWeight-loss drugs didn't improve mental health or job prospects&nbsp;&nbsp;AxiosStudy Links GLP-1 Weight Loss to Better Job and Dating Prospects&nbsp;&nbsp;NewBeautyWeight loss drugs may improve job prospects and dating odds for one group&nbsp;&nbsp;New York Post",
-      "sources": [
-        {
-          "name": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeVBHQ3kyZklPMV9jcG83akU1SHdvRVNhT3EzSWtTVjUzazhKOHBzOW14R1g3MzdNc0Y4NGJnanZiWHZtTUw1YXBXalljTWJHLWJIa2JYaWx0SnJyaTVQNVlfQ3hBMjk5UkpGVi0ybFA5dS1jMk4zamMxdU9ZMUgyeFd0Rlc5RGExaUhUQ0tnRDRrSXdMZnNXN2RJSHXSAaIBQVVfeXFMTkJFb1ZPYUNnYW9jV1JvWlJnRnJUYXpvem0xbV9Ya1BiV1lZS2ZRNWw4NnlCcDZQZXZ5OHVpRnZlM0U0RlAwcmowTXB3Nmp5QnZ0cUFzdjJ6eE9Gam0yZHVTZG9TOGFaWjN5d1lJdWk0REVyOW9OZ3diNnNGQnFnbG5BYnJLeXpqNF9mS1Nld2E4eHNQNWhiUktSTE5EZV9kMXJ3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "58d23fc74ac6",
       "title": "Researchers extracted water directly from lunar soil in July 2025 and used sunlight to convert it into breathable oxygen and rocket fuel — cutting out any need to ship water from Earth, where a single gallon costs an estimated $83,000 to launch - Space Daily",
       "published": "2026-07-18T12:30:13+00:00",
@@ -429,7 +657,7 @@
       "id": "759cd5081811",
       "title": "Intermittent fasting helped people keep weight off for a year - ScienceDaily",
       "published": "2026-07-18T12:01:18+00:00",
-      "summary": "Intermittent fasting helped people keep weight off for a year&nbsp;&nbsp;ScienceDailyIntermittent Fasting Benefits May Last Long After the Diet Ends&nbsp;&nbsp;SciTechDailyTime Restricted Eating Fails to Show Benefits Beyond of Weight Loss&nbsp;&nbsp;EMJJust 12 weeks of intermittent fasting may help sustain weight loss a year later: study&nbsp;&nbsp;Medical News TodayDoes intermittent fasting work?&nbsp;&nbsp;Harvard Health",
+      "summary": "Intermittent fasting helped people keep weight off for a year&nbsp;&nbsp;ScienceDailyIntermittent Fasting Benefits May Last Long After the Diet Ends&nbsp;&nbsp;SciTechDailyTime Restricted Eating Fails to Show Benefits Beyond Weight Loss&nbsp;&nbsp;EMJJust 12 weeks of intermittent fasting may help sustain weight loss a year later: study&nbsp;&nbsp;Medical News TodayDoes intermittent fasting work?&nbsp;&nbsp;Harvard Health",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -438,14 +666,14 @@
       ]
     },
     {
-      "id": "ced01aaaa073",
-      "title": "Could the body’s immune ‘garbage trucks’ point to a way to slow aging? - San Francisco Chronicle",
-      "published": "2026-07-18T11:18:41+00:00",
-      "summary": "Could the body’s immune ‘garbage trucks’ point to a way to slow aging?&nbsp;&nbsp;San Francisco ChronicleMacrophage Receptor Blockade Reverses Multi-Organ Aging&nbsp;&nbsp;Neuroscience NewsScientists discover how macrophages age differently throughout the body&nbsp;&nbsp;Medical XpressOrgan Aging Linked to Breakdown in Immune Cell Interaction and Senescent Neutrophil Clearance&nbsp;&nbsp;Genetic Engineering and Biotechnology NewsOne immune cell could hold the key to slower aging&nbsp;&nbsp;Earth",
+      "id": "a31fb5f91cad",
+      "title": "Trying to lose belly fat? Nutritionist reveals the eating mistakes that promote insulin resistance | Health - Hindustan Times",
+      "published": "2026-07-18T12:01:03+00:00",
+      "summary": "Trying to lose belly fat? Nutritionist reveals the eating mistakes that promote insulin resistance | Health&nbsp;&nbsp;Hindustan TimesFrom ‘posture pouches’ to smoking - 5 hidden causes of belly fat aside from diet and simple tips to trim your tummy&nbsp;&nbsp;The Sun'I'm a dietitian - the real reason your belly fat won't shift has little to do with diet or exercise'&nbsp;&nbsp;GB NewsFitness coach Devin Physique says endless crunches won't burn belly fat; here's what works instead&nbsp;&nbsp;Hi",
       "sources": [
         {
-          "name": "San Francisco Chronicle",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcjU2dG1iMmJTYWo4SUNPcF9ONTRwNWd3QktfYWhhTUoxdVFzb1dRcUtVQkdyTm5vREtYa2hhdE8xalRIVHVLc2NCcS1CX25NMFJDZlVCSnpjd09oT1ZiTDE3c0IxVHFxSnA0YmFwZWZjX3JNM0FmTkl4NmJMUDVHbTc3NnY2VTBMblF5MDFBOUJ6RUx4YVlub3VuN1N3Mk8tTGs0?oc=5"
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWTFkREU5a0YyQmhwUkkwMFNPUkw5NWZGWFBhWXRJRnBISWYxUlI5WjlwMFhkWnY5UGtFUnREa1R0X2JDSmwxTmU5cFNZWnAxSDdIUDMwRE82eEJJN3h2NWUzNnVIWDdBblFwQURCdlN0SzhiNURDWl8tSDhqWkNhNEJTWGx0Vm42VWZKTjk4U00zcUU4emxmckhvWWJZQ1p1bmR2SlN5UFV0VDVmYkZMbkZsS0lDMmpGVS1WSF9SRXhGVVpyZHZUX2oxdkR5b0pESFdZYVNEckpsTU1KX1MxTUdIMTlDdDNGRGxNaDNtVUtLWF9RVFhVV1p30gH_AUFVX3lxTE9FOWRLc3ZydkpreDdkUEwzZDZxbjZQZGl5Vk5saUJUWlN4Y0lwajR1ZU9uY244SWJfS2FKTzFUdHlvZ0hYYVJJMVliRWhVSWk0WHhNY0hFMUFOaVh0QjlqNEVuaXZsUG43eWxwUC1BWF9UR05UYURLaVNNZnVFZEpFQUphOTNfYnoyaWFoMkNIN0lwZG4yaTROUUdGRnBrWjhMMWQ4UzVSVmZkeGJvbnNicnRmQnhweHhfcnR6djUwU2tOd3FuXzFybzZsN2VkdkRqYWlSTGFVaU42NktwdDFmTGJxWmRlMS1heno3R0VSQWoyREc4NzFnT2dNbE8tSQ?oc=5"
         }
       ]
     },
@@ -477,7 +705,7 @@
       "id": "f3347890f0ec",
       "title": "You’ll Never Guess What Tasty Molecule Astronomers Just Detected In Space - Futurism",
       "published": "2026-07-18T09:30:00+00:00",
-      "summary": "You’ll Never Guess What Tasty Molecule Astronomers Just Detected In Space&nbsp;&nbsp;FuturismA sweet discovery: Astronomers say sugar is lurking in the space between stars&nbsp;&nbsp;PBSDetection of a four-carbon sugar in interstellar space&nbsp;&nbsp;NatureA sugar key to the origins of life has been discovered in interstellar space&nbsp;&nbsp;CNNA Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy&nbsp;&nbsp;The New York Times",
+      "summary": "You’ll Never Guess What Tasty Molecule Astronomers Just Detected In Space&nbsp;&nbsp;FuturismDetection of a four-carbon sugar in interstellar space&nbsp;&nbsp;NatureA sweet discovery: Astronomers say sugar is lurking in the space between stars&nbsp;&nbsp;PBSA sugar key to the origins of life has been discovered in interstellar space&nbsp;&nbsp;CNNA Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy&nbsp;&nbsp;The New York Times",
       "sources": [
         {
           "name": "Futurism",
@@ -498,6 +726,30 @@
       ]
     },
     {
+      "id": "b7a9bfb158ce",
+      "title": "Bad News: All This Summer Sun Likely Won't Fix Your Vitamin D Levels, Study Finds - ScienceAlert",
+      "published": "2026-07-18T08:02:29+00:00",
+      "summary": "Bad News: All This Summer Sun Likely Won't Fix Your Vitamin D Levels, Study Finds&nbsp;&nbsp;ScienceAlertVitamin D Deficiency Affects 80% Of Indians: Expert Suggests You Avoid These Mistakes&nbsp;&nbsp;NDTVShine a light on vitamin D&nbsp;&nbsp;The Rome News-TribuneStudy warns vitamin D deficiency remains widespread despite summer sun&nbsp;&nbsp;Caliber.AzDoctors say low vitamin D is more common than you think, yet the signs you keep ignoring often hide behind everyday tiredness&nbsp;&nbsp;OkDiar",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZDlTSzM2U3M4aTItdVdLUG9iZThOMWlmTjJrY1JmZXc4UW5GQUk2X3ZXcjB5YW1oeDNBQzRKN09CcTQ1V1Q1enNJT0tSQ0c1SXFPWUIwbTlIQjI5N1VRdy02UERLZ2N3dkEtVGFhWFVYV3U3bVJ1T1dqaVBCSUNCSE9FblFzYnJPLW5qNGlxN1lQdHc0X04tdjBEaTBoSHFqWUhxWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0c39ed9f9252",
+      "title": "Too many Britons are too fat to work – and smartphones are the problem - The Telegraph",
+      "published": "2026-07-18T08:00:00+00:00",
+      "summary": "Too many Britons are too fat to work – and smartphones are the problem&nbsp;&nbsp;The TelegraphBeing obese can make you more likely to be unemployed&nbsp;&nbsp;Medical XpressObesity weighing down UK workforce study&nbsp;&nbsp;Big News Network.comWeight problems are keeping more than 600,000 Britons out of work, study finds - NATIONAL NEWS&nbsp;&nbsp;The Redditch StandardMore Than 600,000 People In UK Unable To Work Due To Obesity, Study Finds&nbsp;&nbsp;Menafn",
+      "sources": [
+        {
+          "name": "The Telegraph",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3FXU1FTS3pPcnBFM2N0Z3JSeWlGS0loT1V4Z3o3ZURETXA3RXhHSFQ2LXN3ZUo1dWh2ZWgwY3YxbEFOSnFWa1o4Mk9EVWllTXRleC1MUHQ4djhUeUZBSU1KZWZjdTJwMS1uZU5HbUZOdDZwREZOZFUyUWQ0YW1QWHctNnJaZUk?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b77266a47c78",
       "title": "I’m a personal trainer for seniors — everyone after 50 should be doing these 5 bodyweight moves to improve strength and mobility - Tom's Guide",
       "published": "2026-07-18T07:30:00+00:00",
@@ -506,174 +758,6 @@
         {
           "name": "Tom's Guide",
           "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTVRzdTZPWXcybU9RMG5wUk10aUF4VlZwaTNaODlCaEo5ZjQyRmkzUmRlOHRlbE9OZ3hXQmR4Z1JEc1lPNzA1dFU3YTJJaDlucHREOEdTNDQ5VkR3anlWOWU1V3V5cEM3WF9vSE1Iai0tTW9rNGRzNTJndDM1YzhQV2FFY2wtV3lCUGdIWDV2WXUxLUFQZTNucmlIOFVIYlJPRjFJMXBXdnBOOGZ5MW1admR0M0pwV2R6Q1B1WFlObUU5MDU1MmdzV2xoMmp4ZDBVdDZXUFpXdTU0ejdVdVE4dmVXdVZYdFhOS0txNmFPMWY1RlJjTjdGZEtWSC01UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "19bf607edca1",
-      "title": "Children of Holocaust survivors face higher schizophrenia risk, Israeli study finds - The Jerusalem Post",
-      "published": "2026-07-18T04:12:10+00:00",
-      "summary": "Children of Holocaust survivors face higher schizophrenia risk, Israeli study finds&nbsp;&nbsp;The Jerusalem PostNew study: Children of female Holocaust survivors face higher schizophrenia risk&nbsp;&nbsp;Haaretz",
-      "sources": [
-        {
-          "name": "The Jerusalem Post",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5teUgzZEtiOGE4RFRZUlBFVzZCalU0ei1rck5USy1RLTNMSklqbnBlQ3ItdXNYZzY5TWhXVjZ5V3RpUjBTY1phWi0zVFc1azBZTEUwdDE5QnlBTVRQZWhseWxJMEhyWFdySVJKeDJUb0lWSlRxSFRZUXRWeFQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5242662aa62a",
-      "title": "Rabid horse costing Montgomery County thousands of dollars in life-saving vaccines - WRGB",
-      "published": "2026-07-18T02:42:31+00:00",
-      "summary": "Rabid horse costing Montgomery County thousands of dollars in life-saving vaccines&nbsp;&nbsp;WRGB",
-      "sources": [
-        {
-          "name": "WRGB",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdU82R3duVGQ0enF6UEpYaEVmUTJzZUpZMlJ6aW91clM3bS1QXzZUUGg5dDc0NEE5X2x0Znd1QVpWYW1zcmVwWEpMNUMwM0J6YmN3NVpYSi1OQWs5a1N2ck42ZTR2T0t1UTc2d3JNSWVqYjJyN2FacmdKQ00yTHI4RVg3X0ZMZU53NnRBQ1ZPZ3BoaFFzbi1USG5ucUpRdjJxVzRBWVBiejhJUml0UFFJVTdCM0ZHOEU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "be5773bb913e",
-      "title": "Mediterranean diet may activate tiny proteins that protect the heart and brain - ScienceDaily",
-      "published": "2026-07-18T02:25:45+00:00",
-      "summary": "Mediterranean diet may activate tiny proteins that protect the heart and brain&nbsp;&nbsp;ScienceDailyWhy the Mediterranean diet is so good for you, and 5 easy ways to try it&nbsp;&nbsp;The Washington PostPopular diet trend could boost mental health among older adults, study finds&nbsp;&nbsp;Fox NewsMediterranean diet: We're finally working out why this diet is so good for us&nbsp;&nbsp;New ScientistResearchers Uncover a Surprising Benefit of the Mediterranean Diet&nbsp;&nbsp;inc.com",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tcVphYkxUWVhPM0xrWFZPLThUN0dnelFqZldmWWMzUUswYUlLRHpPUm5WNVJIbjJKX0FSemwwTkxVdXJ3V001MEVRWWVWcXQ3U0JmcWxjeEh4SG5vWmotdTN0Ul9MTFVEZ2x6cFlJWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c7f77420939d",
-      "title": "'So many blessings have come our way' | Community rallies around Crawford County teen facing cancer battle - WMAZ",
-      "published": "2026-07-18T02:06:00+00:00",
-      "summary": "'So many blessings have come our way' | Community rallies around Crawford County teen facing cancer battle&nbsp;&nbsp;WMAZThis New Bedford Family Is Facing a Heartbreaking Battle With Cancer&nbsp;&nbsp;FUN 107",
-      "sources": [
-        {
-          "name": "WMAZ",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRjFXRFRzVmVYa01aQWNILXNSQjZDa212YjNDc3dMRVlJRVFRWTl5LWVtRTU5aFQzMHdoa3RWVUFDVENlMjZOXzd3RG83aFZCcVk5UlN6dWFtaG5pbXFhSWdlWkJqcGdGTmpLRElQUVN0dGt2R3UxYjdmQW4xMTd3VDR1QkF6M3I4NFhXQkZPeVlzZGpPZkZjeU8yOXJLMUloT0RGTW5aRXdpZFV1b2tXOFRta0JfM1ROWTJYNFptMEhGbHA5eGt2TDVVRnBUR3pUdTNWTWhWaVlvSXA0dXVodDVTSGVxR0h6OGNqaUtNRHlxOGNsOEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bede26604e05",
-      "title": "Roseville ER doctor suffers stroke on way to work, saved by his own team - CBS News",
-      "published": "2026-07-18T00:41:51+00:00",
-      "summary": "Roseville ER doctor suffers stroke on way to work, saved by his own team&nbsp;&nbsp;CBS News",
-      "sources": [
-        {
-          "name": "CBS News",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT3VfcjJmNTZkeVR0aFNpQ21KNmpPRWJwVFBXUXlJUmlmLURlc2JjdEJfVDBTaUFVWEhFNThvLV9zcF9lLTNBRDB0T2QwSWFMb2t6TWhJZy1YeEpYclJCRjNVMV9FNnhaRVQyekFBY0M0ZWRwQUw3UXdLeHJTRzh5cHdkNXJNUGNV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3c66dcbb3a44",
-      "title": "Family outraged after teen left to discover her HIV diagnosis through online portal - The Independent",
-      "published": "2026-07-17T23:16:00+00:00",
-      "summary": "Family outraged after teen left to discover her HIV diagnosis through online portal&nbsp;&nbsp;The Independent",
-      "sources": [
-        {
-          "name": "The Independent",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU3l5bm41b2tudkYxU2h0N2V3TGZ5dkMxbml3TDdfbU90b3dLUGhRUUI4RkFDejZFSktXdWVWZlhkME5neDVSUWJ0eGc2WW9seENaVWhlODl2XzlwSXJ3cXY4QW9vc21NX2JieWdlbkRhcGtRYk5IX1o0bTFPam16QXdNMXZCc243TDRWZHdIdDc1ZFpLNDVOUTFJWVhGSkp1cGNwZl9ldV9Idw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b0c8fa1c5f00",
-      "title": "New study links ADHD symptoms in boys and addictive social media use - The Washington Post",
-      "published": "2026-07-17T22:00:00+00:00",
-      "summary": "New study links ADHD symptoms in boys and addictive social media use&nbsp;&nbsp;The Washington PostTeens who can't control social media use more likely to develop ADHD symptoms&nbsp;&nbsp;The Eastleigh VoiceA new study suggests that addictive social media use among adolescent boys could contribute to worsening ADHD symptoms. Read more here: https://wapo.st/3T2Ylhu&nbsp;&nbsp;facebook.comBoys' Social Media Use Tied to Rising ADHD Symptoms&nbsp;&nbsp;Newser",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWjBNSm5WRVZiSDJEakJ4V3hleWdObGJnREJveEtlUWNvM2lSS0I1UUk2VEVJZ2ZCa3VRUmFlemlOQ29YSmRSMEdFUWM3M2hWVFJ6cDBmNFpfMmw3UW82OWRnVkZZNkVkQ01nQllzNnNwajUzMHZlb3pPcUF1azd4WkNTbWJ5c3NOOXZuV1RLVTgyeUJMUUFwUFF6WGlYUFZBN01la2llSkFyMU03ODZnSw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9a85e6e41676",
-      "title": "ECT Reprograms Adult Neurons into a Youthful State - Neuroscience News",
-      "published": "2026-07-17T21:13:33+00:00",
-      "summary": "ECT Reprograms Adult Neurons into a Youthful State&nbsp;&nbsp;Neuroscience NewsBRAIN STIMULATION-INDUCED NUCLEAR REPROGRAMMING. (IMAGE)&nbsp;&nbsp;EurekAlert!ECT-like stimulation unlocks lasting immature-like state in adult mouse neurons&nbsp;&nbsp;Medical XpressRepetitive Neuronal Stimulation Reprograms Mature Neurons Into Immature States&nbsp;&nbsp;Bioengineer.org",
-      "sources": [
-        {
-          "name": "Neuroscience News",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zNkVoT0lwR1hXbmRWV1Y5aFJJUWQtSC1kNms2X2I3UnRrSGNvcF91a0RuUVk5cFRoTW5ZdnlSY1d2MV9GQTNVc0FYSTZSNUhTQnVLUC01NV9YUVNiMzNwSmVkNDF3NXRHWmpZUXB4X1VMQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "02d7cfc7f4a2",
-      "title": "Drug-Resistant Gonorrhea Spreading Inside Europe, Health Officials Warn - StudyFinds",
-      "published": "2026-07-17T21:11:17+00:00",
-      "summary": "Drug-Resistant Gonorrhea Spreading Inside Europe, Health Officials Warn&nbsp;&nbsp;StudyFindsWarning issued as UK cases of untreatable ‘super’ STI double in one year&nbsp;&nbsp;LADbibleDrug-resistant Gonorrhea on the Rise in Europe&nbsp;&nbsp;LabcompareUrgent warning over surge in antibiotic-resistant 'super' STI across Europe - UK cases DOUBLE in a year&nbsp;&nbsp;The Sun",
-      "sources": [
-        {
-          "name": "StudyFinds",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRGtZNlNUOVNHcEt0NkJjMDJqMm50Q2tPclF4Q0p5Ukd1LTR5UkI4Zi1zVWlURWcwQ0p0R2Z4WkdUVXRWQi1xTUZ1ZGk5QWJPYk9sX0xEZElGU3NuSWh2RGdTWTZHWV84LXpxNnFEc21rUWN3ZFZlM1pTWV9Ba1hWRkQ5Nmp0bEZnRlBCdGJNTzhpUHMxcXdVVDJB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1eae4e3d2775",
-      "title": "Hypoglossal nerve stimulation for obstructive sleep apnea shows downstream health benefits - Medical Xpress",
-      "published": "2026-07-17T20:40:01+00:00",
-      "summary": "Hypoglossal nerve stimulation for obstructive sleep apnea shows downstream health benefits&nbsp;&nbsp;Medical Xpress'I dreaded bedtime before new sleep apnoea treatment'&nbsp;&nbsp;BBCNew implant offers hope for thousands with sleep apnoea&nbsp;&nbsp;Health Tech WorldNerve Stimulation for Sleep Apnea Linked to Some Long-Term Heart Benefits&nbsp;&nbsp;MedPage TodayLife-changing alternative to CPAP now available to sleep apnoea patients&nbsp;&nbsp;Yahoo News UK",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdVhiaGFPcmdKRGlWMzAtQmd0WDRwS2xRcklpUTJoQy1fdnFxUHBJRnNSVkRJUm1uMlJSWWpyUHdXZUtILVBuU1M0VDczVnQtN1hOSkQzUFVZVkF2N0lVTVFpb0x0UVMtSDdJbFUwbVVwTGZ6ZGh4Y1RrMXp6eWdGTXJhcmdsRUU0c19wOVVXNWRkSWkt?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "df5c1e07d232",
-      "title": "Creatine and protein powder: Should you stack them? Experts explain - Yahoo Health",
-      "published": "2026-07-17T20:37:41+00:00",
-      "summary": "Creatine and protein powder: Should you stack them? Experts explain&nbsp;&nbsp;Yahoo Health",
-      "sources": [
-        {
-          "name": "Yahoo Health",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSUo2ZFlsVS1EcnZXUFdYUERyR1h4aHFkZ2tVVGtRZktwa2ppNEloZldGS1YxY1NlSTFVMWZFbG84NUd5dFQyZmxKRHp0RmkwZ09DajMtRExnVlZZRjN0em5mN2YzbDJORVZOcGFubm1OUFBxUncxaUNhNzZLaHh1OXJwMkVQR011N1lTblVIQlpyODhQWmU3b3dHQllIelJZRmhodDFGMUJfMnR5cUgtLXozS2hMT3B6WnRITy1vSkpfZDVYbnctam83OV9yb2NmYkUybHVsVUZxTnhkZ0pjOHJYcVNLdElP?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8818441ba69c",
-      "title": "One Fungus Has Caused More Extinctions Than Any Other Infectious Disease. Some Toads Have Found a Way to Survive It - ScienceAlert",
-      "published": "2026-07-17T20:02:29+00:00",
-      "summary": "One Fungus Has Caused More Extinctions Than Any Other Infectious Disease. Some Toads Have Found a Way to Survive It&nbsp;&nbsp;ScienceAlertEarly maturation of host antimicrobial peptide defences is associated with host–pathogen coexistence&nbsp;&nbsp;NatureMystery of why some toads survive deadly fungus revealed&nbsp;&nbsp;Phys.orgScientists finally solved why some frogs survive a deadly fungus&nbsp;&nbsp;ScienceDailyWhy some toads survive a deadly fungus while others disappear&nbsp;&nbsp;Earth.",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd0ZRY2djOXV0Q2NWZEpSdkRfSjlkRU9DZVdCQzVyZHUwaWJBOE81eG1uMEpEakZlVEotQ25KUjVlSUotdHVPcHZuZ1A3clBfZlR0TVJCWGV2NE9NTDJ4dms1aHduV3V6UHQzbHBMUE1qQzRSeGxxTTJMdF80bG9qdllWNWxLSWVEcW82UXB4V2JuajlGQmNjUE1STUhGVVg2am00UEl4UFV0V1NuVVBDRTAwMV9fNnVFTmlreVowaWJLaW9aV0Zaem1xWGtZTk82MGplRGNrLTFCR0k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6e43c21bb9d3",
-      "title": "Controversies: Hormone Replacement Therapy in Patients With Osteoporosis - Medscape",
-      "published": "2026-07-17T19:48:13+00:00",
-      "summary": "Controversies: Hormone Replacement Therapy in Patients With Osteoporosis&nbsp;&nbsp;Medscape",
-      "sources": [
-        {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZnlFOC1TN1JKeUljT3VMUlJqUzN1dmg2NmJNd1RaanFRTG5GWTE5bnYtOWpzRUgwdmxlUjVYVjU0aGU3ZXRmTXdVc3A0eXRLUHpwUmRSTGJzLXhDS0prUXJJSVZhdE9BOFlpV2JXSU1WNmtvTlBBSGx6OHhCSExMTVVOVXYyUzB2VjlVc0hpWnNtTFNjTnFuSUdaNDVwT3lYZWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3666c6c1c5d9",
-      "title": "New imaging method tracks cancer from whole body to individual cells - Medical Xpress",
-      "published": "2026-07-17T19:40:04+00:00",
-      "summary": "New imaging method tracks cancer from whole body to individual cells&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNTNMWExvT1J0dlVnTm5MaUJVaEFNVFdtNG51Z1J2OGZLRTZTN2JfS0NfdldfT0J1ZHZWc05nX011WDZDTXp4Y3UwMV9OYURTdkttZkFQR0sxeDhISS1zaEE3MVQ2SkUxU0NSTm4xTTU5aEkzMXZGNGZXVlNDMWl2QWhJWQ?oc=5"
         }
       ]
     }

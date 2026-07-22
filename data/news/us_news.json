@@ -1,15 +1,27 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-07-21T19:27:22.376482+00:00",
-  "total_fetched": 139,
-  "unique_count": 139,
-  "health_related_count": 69,
+  "fetched_at": "2026-07-22T02:51:06.221155+00:00",
+  "total_fetched": 140,
+  "unique_count": 140,
+  "health_related_count": 68,
   "news": [
     {
-      "id": "ccab4c9abe13",
-      "title": "4th person dies from Legionnaires' disease in New York City: Health officials - ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-07-21T18:49:51+00:00",
-      "summary": "4th person dies from Legionnaires' disease in New York City: Health officials&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosFourth death confirmed in NYC Legionnaires' disease outbreak&nbsp;&nbsp;NBC New YorkFamily of 88-year-old Legionnaires' victim plans lawsuit as outbreak death toll reaches 4&nbsp;&nbsp;ABC7 New YorkNYC scrambled to recruit, onboard new cooling tower inspectors before deadly Legionnaires’ outbreak&nbsp;&nbsp;GothamistTwo More Patients Die in Outbreak of Legionna",
+      "id": "569093839743",
+      "title": "U.S. measles cases hit 35-year record with months left in 2026 - The Washington Post",
+      "published": "2026-07-22T02:35:04+00:00",
+      "summary": "U.S. measles cases hit 35-year record with months left in 2026&nbsp;&nbsp;The Washington PostU.S. measles cases surpass last year's total: Tracker&nbsp;&nbsp;AxiosCovid-19 waking up, Cyclospora marches on, and measles is close to hitting a milestone&nbsp;&nbsp;Your Local EpidemiologistRegional: Bay Area Authorities Urge Vaccination To Prevent Measles Outbreak&nbsp;&nbsp;SFGATEWill vaccine boosters be necessary as measles spreads nationwide?&nbsp;&nbsp;San Diego Union-Tribune",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNHA1ZlpjRnE2SEl5MHRKZlhTMy1aN0lRT1lKZ240bUt1YkJxLXN6WVN5OTBXa2lCSU9kU1JRQXFodWlDVGJwY1NhenZCcGVrMzlDY1VaMWNPeEc2QnBqQ1lxdFBfQXJWQWlYVFFhWnZwM3VYM25zWG1oV2JlZUk3aU01eDBVWFNiLUF1TVN4RS0tZzNJNDQxNkVVLWQ4QTc1WUlIdGJFRDNYR00?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "81dc2b850e01",
+      "title": "5th person dies from Legionnaires' disease in New York City: Health officials - ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-07-22T00:37:05+00:00",
+      "summary": "5th person dies from Legionnaires' disease in New York City: Health officials&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosFourth death confirmed in NYC Legionnaires' disease outbreak&nbsp;&nbsp;NBC New York5th person dies in Legionnaires’ disease outbreak in New York City&nbsp;&nbsp;AP NewsFamily of 88-year-old Legionnaires' victim plans lawsuit as outbreak death toll reaches 5&nbsp;&nbsp;ABC7 New YorkFifth person dies in Legionnaires' disease outbreak in NYC neighborhood&nbsp;&nb",
       "sources": [
         {
           "name": "ABC News - Breaking News, Latest News and Videos",
@@ -18,10 +30,82 @@
       ]
     },
     {
+      "id": "b085d5aafe37",
+      "title": "Great Apes kiss and cuddle to keep the peace, says study - BBC",
+      "published": "2026-07-21T23:48:38+00:00",
+      "summary": "Great Apes kiss and cuddle to keep the peace, says study&nbsp;&nbsp;BBCSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvQ3VXOU5QYTZxRjE4TnhiV3lEZjVDTmdWbFJPd2c1RWtBM3ZBNUhKM0dsT3JlNC1kNjZ4TGdROXNQcDRBdjRGVGp5UEJCa0NtNU5leFhKNkFvdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d5e8336ab6a7",
+      "title": "Rabid bat found near zoo restaurant sparks urgent public health warning: 'Extremely serious' - Fox News",
+      "published": "2026-07-21T22:35:27+00:00",
+      "summary": "Rabid bat found near zoo restaurant sparks urgent public health warning: 'Extremely serious'&nbsp;&nbsp;Fox NewsSan Diego Zoo on Alert After Unexpected Animal Discovery at Popular Restaurant&nbsp;&nbsp;parade.comWild Bat Found at Safari Park Tests Positive for Rabies&nbsp;&nbsp;San Diego County News CenterRabies-Infected Bat Found At San Diego Zoo Safari Park&nbsp;&nbsp;PatchBat found at at San Diego Zoo Safari Park tests positive for rabies&nbsp;&nbsp;Times of San Diego",
+      "sources": [
+        {
+          "name": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYVJ0UnpzRGRmRjJMY2V5TXM4MllVc0lFb2JRT3k2LXB0MFFfWTNfc0xnNkpKMzRYVEF2LThJcXFlU1ZPTy12clJBbG5EdnYtdUx3XzNBay1PTGVkVWdaQkR3cEJ5Tk9fVUZhaGF0Z0UzQk81Tm00NVBHMDNNYWhFUGhtNEJDUVp4TDZHNl9oRnAyZXFqbFNPMldyWEpFYjJjd0ZVZnNxZFVDb1dyMFh30gG0AUFVX3lxTE14WTNWTkdVaG8xWnlhMTJtYzRnem45SWpEcnBKSndZMnItTHBlQTlpM2wwbWdfZzdIVDRZZDMxX0FjcWJHNUY3VVl1Y2xLTGFBcEZVNW4waFpqaW9IT0R4aFF1NF9ERzVtN1gyZFFzSlBUVmNLSmxPbURpWU5MWXFxRTNKc0xaelZJMEhEN21PRGJveXpxek40TXV0VjNkcHljZ0FEaVVhQ0NvU2k2c090NDR5bA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "091dd4705db5",
+      "title": "8 Low-Sugar Fruits That Support Healthy Blood Sugar - Verywell Health",
+      "published": "2026-07-21T19:35:07+00:00",
+      "summary": "8 Low-Sugar Fruits That Support Healthy Blood Sugar&nbsp;&nbsp;Verywell HealthGrapes Vs. Apples: Dietitians Reveal Which Is Better for Blood Sugar&nbsp;&nbsp;PreventionWhat Happens to Your Blood Sugar When You Eat Fruit&nbsp;&nbsp;EatingWellStrawberries Vs. Bananas: Which Fruit Is Better for Blood Sugar?&nbsp;&nbsp;AOL.com",
+      "sources": [
+        {
+          "name": "Verywell Health",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5QTJsYTBaazVnVlZybDJ1empQVDZXdHhqN3hnV3pzdXg0ZTg3eUpGNlQyUWNmZndYVmpJdDBTdlVLU1VMQkJqTEdjMTRScDlzVE4wSDRIdWs5b2NjMUtmd2c2d05vQUk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ff582e049abc",
+      "title": "GLP-1 drugs linked to 17% drop in worker sick leave, new economic study finds - CBS News",
+      "published": "2026-07-21T17:54:00+00:00",
+      "summary": "GLP-1 drugs linked to 17% drop in worker sick leave, new economic study finds&nbsp;&nbsp;CBS NewsWeight-loss drugs may improve job prospects and dating odds for one group&nbsp;&nbsp;Fox NewsWomen more likely to marry, land jobs after taking GLP-1s&nbsp;&nbsp;Harvard UniversityWeight-loss drugs didn't improve mental health or job prospects&nbsp;&nbsp;AxiosCould GLP-1 Weight Loss Drugs Help People Take Fewer Sick Days? New Study Says So&nbsp;&nbsp;Health and Me",
+      "sources": [
+        {
+          "name": "CBS News",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FMlkwcHNVZ1h4MHJ2OFFoanNLQUQ4ZVJYRjRrS2xYX3NwMGREVVRwR01BbXZvRThteThIYl9sSWVYTmV5NkgyMVZDTDhXVzAyREpER2tFYUhqSzJ5ellhVnVuaFhTT2YzVW4xX2l0QUhBdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ce870d0e315e",
+      "title": "Naked mole-rat queens use a chemical signal to suppress fertility in rivals - Ars Technica",
+      "published": "2026-07-21T17:51:52+00:00",
+      "summary": "Naked mole-rat queens use a chemical signal to suppress fertility in rivals&nbsp;&nbsp;Ars TechnicaA queen odour mediates reproductive suppression in a eusocial mammal&nbsp;&nbsp;NatureNaked Mole-Rat Queens Emit a Special Scent to Stop Their Rivals From Reproducing, a New Study Suggests&nbsp;&nbsp;Smithsonian MagazineQueen’s powerful smell suppresses rivals in naked mole rat colonies&nbsp;&nbsp;New ScientistNaked mole-rat queens produce an odorous chemical that ensures that only they can reprodu",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNk1PUy15ZUZPaUoyZEROai16VXdFYlFhRGdySFBPQlZIc2VKb1FVV1A0Wm9maG4wb0FkSTJlWDhOa1lkRzdVaUVPZWp6bVpidXg2RFpBaE96TnB2eXllM1QwYXEzRXk1azdWc2RpSkpObWFkdVVDQ05zSUFsbU4wQ2JDa0xJcmxTV2s3SjRoSjZzLVJGUllKeG56VVVGYm0xS1hQYmdB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7b9a6d787e04",
+      "title": "A 44-year-old mom felt out of breath while talking. It turns out she had stage 4 lung cancer, despite never smoking. - Business Insider",
+      "published": "2026-07-21T17:50:00+00:00",
+      "summary": "A 44-year-old mom felt out of breath while talking. It turns out she had stage 4 lung cancer, despite never smoking.&nbsp;&nbsp;Business Insider",
+      "sources": [
+        {
+          "name": "Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc0JBajdhVHgtcjNndlVyUGxKbHlzc2t1b2kycXhxS29fdkxaRkJaUE85NGlFdkk3QllFSGNYZ1NTRjg1bVI5UTJvdXg0dk5SNlV2N0ItZUVpZFNEeVF3LThuZmFBeldSZkNKRlFEX0JZR3BQZXpWeld3NWZ1SzBlZUJNWnhZMGNyZ3RaWGxCdndfQmJ3ZDhlUGNn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "edd2a5432a71",
       "title": "Middle-aged TV watchers hit with urgent warning as California study unveils ominous brain risk - New York Post",
       "published": "2026-07-21T17:46:00+00:00",
-      "summary": "Middle-aged TV watchers hit with urgent warning as California study unveils ominous brain risk&nbsp;&nbsp;New York PostHeavy TV watching associated with smaller brain structures, study finds&nbsp;&nbsp;Medical XpressScientists say one everyday habit may be quietly shrinking your brain&nbsp;&nbsp;Fast CompanyBrain scans reveal the hidden neurological cost of passive TV watching&nbsp;&nbsp;PsyPostStudy links frequent TV watching to brain changes later in life&nbsp;&nbsp;CTV News",
+      "summary": "Middle-aged TV watchers hit with urgent warning as California study unveils ominous brain risk&nbsp;&nbsp;New York PostHeavy TV watching associated with smaller brain structures, study finds&nbsp;&nbsp;Medical XpressWatching too much TV in midlife may shrink the brain&nbsp;&nbsp;ScienceDailyScientists say one everyday habit may be quietly shrinking your brain&nbsp;&nbsp;Fast CompanyBrain scans reveal the hidden neurological cost of passive TV watching&nbsp;&nbsp;PsyPost",
       "sources": [
         {
           "name": "New York Post",
@@ -30,14 +114,50 @@
       ]
     },
     {
-      "id": "a485edddf0a4",
-      "title": "6 dementia symptoms that can show up years before a diagnosis - The Washington Post",
-      "published": "2026-07-21T16:00:00+00:00",
-      "summary": "6 dementia symptoms that can show up years before a diagnosis&nbsp;&nbsp;The Washington PostCan’t find your keys? Read this:&nbsp;&nbsp;Knox TN Today",
+      "id": "9e7e64921020",
+      "title": "New study links artificial sweeteners to faster memory decline - USA Today",
+      "published": "2026-07-21T17:37:00+00:00",
+      "summary": "New study links artificial sweeteners to faster memory decline&nbsp;&nbsp;USA TodayPopular sugar substitutes linked to faster brain aging&nbsp;&nbsp;ScienceDailyArtificial Sweeteners Linked to Faster Cognitive Decline Over Time: Study&nbsp;&nbsp;People.comSugar, Soda, and Mental Illness&nbsp;&nbsp;Psychology TodayHigher consumption of sweeteners linked to decline in memory&nbsp;&nbsp;The Hill",
       "sources": [
         {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTE0tQjEtVUhFUEctclZWcGQ4X0NNNEY5c0Rfd0VnT2xPQThycTVSanRueUtZOFhTMWVhQ3AxWHZuQXVDTlJraXFXQkYtSk1lclN4dWJrZ0tIMTc2WFdLekpQZVRWZmJEVUpRaEM3UC1PSEZWd3NpR04zNUR5Uk9Wd3J1bC1vbEJqN09Ca3QySkZmQnVMcHdfNS1zMkhWNENHZXh1Q2lwVmU5YVFUbUx3?oc=5"
+          "name": "USA Today",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeDYwcWhjdHVxTXRZbko3WlM2RTFCcHU4aE8yWXM2Q2pIUTlhZTh1UXJob1RJcVBGWnk5TXNvcjh1Q3ZqRy01M3FneWkwNW9zUVR5c1pHZ1ctNGZnQ0RyX05DdFJrM1FFQW1iMlVZZTNGdjEzdFpEdjdDemlyRlF0a2hLUURhQW1RLXV2cVFWOXoySnY2UWNMc01fZWgwSFA2SkY3eFczR2RrQ0ZrNlJmZEIzUUZ3VXRldllJSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "24e8d8b605ad",
+      "title": "Genetic trade-offs in fertility and longevity explain the maintenance of disease-associated alleles in humans - Nature",
+      "published": "2026-07-21T16:48:39+00:00",
+      "summary": "Genetic trade-offs in fertility and longevity explain the maintenance of disease-associated alleles in humans&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWeVEwVXhIWjcxekFaR2VOSzlHRkxsOC12bnFCV1VCeFZzX1Vnem1kLVNlYlJLWU4xallJalJJTTBZQmZ3eGttZ1A2c0JhaDlwOHZrV2xjYko5OEhnRmxR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6e9a04979fa4",
+      "title": "Thymulin restrains age-associated myeloid inflammation and enhances cancer immunotherapy - Nature",
+      "published": "2026-07-21T16:32:36+00:00",
+      "summary": "Thymulin restrains age-associated myeloid inflammation and enhances cancer immunotherapy&nbsp;&nbsp;NatureThis tiny, forgotten organ could help us live longer, healthier&nbsp;&nbsp;Scientific AmericanThymus-derived hormone may suppress age-related inflammation and boost cancer therapy&nbsp;&nbsp;Medical XpressMarcel van den Brink: Renewed Interest in Thymus Biology Reflects a Broader Shift in Medicine&nbsp;&nbsp;OncodailyScientists May Have Discovered How to Reverse Chronic Inflammation&nbsp;&nb",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xeTFUZjl0c3FuNWdkYlhjTXJOMFRXYjZuNUlfcU9MZnczMFFyd3VVYXlQWWM0Qm8tcHdrMHQ1ZnRsdmRvZXE1Ri1KeEluSWUtRGZxT1FnT1FzSHFIcjZV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7d13f86db198",
+      "title": "US actions harm global efforts to prevent and treat HIV in dozens of countries, new report says - AP News",
+      "published": "2026-07-21T16:02:00+00:00",
+      "summary": "US actions harm global efforts to prevent and treat HIV in dozens of countries, new report says&nbsp;&nbsp;AP News1,700 H.I.V. Treatment Sites Closed After Trump Aid Cuts, a Study Finds&nbsp;&nbsp;The New York TimesTrump’s HIV funding cuts having ‘severe and devastating’ impact around the world&nbsp;&nbsp;The GuardianHow the culture war came for condoms, PrEP, and HIV testing&nbsp;&nbsp;vox.comUS funding cuts deal blow to global HIV treatment: Report&nbsp;&nbsp;Al Jazeera",
+      "sources": [
+        {
+          "name": "AP News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSFpjVEZsNi1ydG5idEpUWFJ0dEFVYlZldnhDVk9lbnVZajJ4ZDBHTWN1NU0wcnF1MG9Vd2k5R2NiU2JpRTZoYXBEU0N1T1h4UjJKdDE1RnBBUlR2WkZManFDTUdWU3VrSFpjQjhYWkZjR2tid1Q2S0wyVThsLUg5bmhpcWw0Mll6Y1VSeTBXSkk?oc=5"
         }
       ]
     },
@@ -69,35 +189,11 @@
       "id": "6a269fca56c4",
       "title": "Coffee lovers can take heart: Up to 5 cups a day appears safe for most adults, experts say - Fox News",
       "published": "2026-07-21T14:45:37+00:00",
-      "summary": "Coffee lovers can take heart: Up to 5 cups a day appears safe for most adults, experts say&nbsp;&nbsp;Fox NewsFive Cups of Coffee a Day Is Fine for Most Adults, Heart Association Says&nbsp;&nbsp;WSJCoffee and heart health: How many cups of caffeinated coffee are safe to drink each day?&nbsp;&nbsp;www.heart.orgDrinking multiple cups of coffee may help lower heart disease risk, doctors say&nbsp;&nbsp;Dallas News5 cups of coffee a day is fine for most adults, heart association says&nbsp;&nbsp;KCRA",
+      "summary": "Coffee lovers can take heart: Up to 5 cups a day appears safe for most adults, experts say&nbsp;&nbsp;Fox NewsFive Cups of Coffee a Day Is Fine for Most Adults, Heart Association Says&nbsp;&nbsp;WSJCaffeine and Cardiovascular Disease&nbsp;&nbsp;professional.heart.orgHere's how much coffee is safe to drink every day, research says&nbsp;&nbsp;USA TodayAHA Finally Comes Out in Favor of Coffee&nbsp;&nbsp;Medscape",
       "sources": [
         {
           "name": "Fox News",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORGRNZGswRmMyMGd3cjlQVXlZTmw2b0sxVy1qREwyeEh3SDZPVmFYWFJkRGFzQXJjeVJxNGlIVWtaMTNfV0hVTENEVklDYmNnWUlfRGxMZVpFQTJZMVVQT2RyWXE0cENLQk5wVmFnc3FHVXlFZk5YTE5RTDZKUWoyNjZsOXY5dDVDd0NnS2NfdnBNSlZPdTNQa3VlODFadHJjQXc0VTlLU2NFRERrSUlIUEdyUUjSAboBQVVfeXFMUEYtbU1nZ2llWDdaemRyRHBRMjVia3N2ckpSTEMwWnVtcTBfSEIxYlNIYlViTF9pQXR6Q1NJbjNFT3p3ekdRSzNYY2V5eEpfM250TVp0eUEyamFtNmlublFKNVNmS0hXMGRSVGp3b3RIdEdVYk9zRVhiNVBMbURnejNod1BHWFoxZmxXREhNcjA4a2M1ZWFHZVZjX3pIQkh6VlE0VHFGb3RBMFotc0NHV0pCM2Y1S1ZxM2Zn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f01bfb0d45f8",
-      "title": "6 popular sugar substitutes linked to faster brain aging: study - New York Post",
-      "published": "2026-07-21T14:18:00+00:00",
-      "summary": "6 popular sugar substitutes linked to faster brain aging: study&nbsp;&nbsp;New York PostHigher consumption of sweeteners linked to decline in memory&nbsp;&nbsp;The HillArtificial Sweeteners Linked to Faster Cognitive Decline Over Time: Study&nbsp;&nbsp;People.comSugar, Soda, and Mental Illness&nbsp;&nbsp;Psychology TodayNew study links artificial sweeteners to faster memory decline&nbsp;&nbsp;USA Today",
-      "sources": [
-        {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ0dCZ3BlQjRZNjEwZEpZbnhoY3ZxMXotTjFYQWxjakJ0OVNjX1BZNnJOZDIzbWIwQW1XdGR3cHRyQnJVZF9EVnV3Y0dnbC1CRXBxdVF3ZFlDX04tbnNKUXpZSWlfVEJJUFJkT1JoQUl1ODBHOFk1Z2NBQUF1Z0VzN1hXOVZGeDRrb0xXWFVwdHBmbmFRRVVBVjRKZzBHRzJ6OEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f30c1b403ec0",
-      "title": "1,700 H.I.V. Treatment Sites Closed After Trump Aid Cuts, a Study Finds - The New York Times",
-      "published": "2026-07-21T14:00:06+00:00",
-      "summary": "1,700 H.I.V. Treatment Sites Closed After Trump Aid Cuts, a Study Finds&nbsp;&nbsp;The New York TimesHow the culture war came for condoms, PrEP, and HIV testing&nbsp;&nbsp;vox.comTrump’s HIV funding cuts having ‘severe and devastating’ impact around the world&nbsp;&nbsp;The GuardianFewer children got US-backed HIV treatment after aid cuts, study finds&nbsp;&nbsp;ReutersUS actions harm global efforts to prevent and treat HIV in dozens of countries, new report says&nbsp;&nbsp;AP News",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUaTFReU8wZ1MtNjNwWnBhcXJnenRpYS1qNGNLa2kxYlhQTzZLM1R2ZTNtVWFHMmhKT3RuZnRDVFNwb05kclVkU1k4WHhUV0s2dm5CQWl5Rkt0cHNLNmRzaURWVUQ5Um9HczM3NWliVUF5eHRrMXZj?oc=5"
         }
       ]
     },
@@ -110,6 +206,18 @@
         {
           "name": "Verywell Health",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzRVaU5mUWZUSUJHYlhQTmhqU2dfdjA5ejROQVVGU2JIOE1QT1NJQlJCQ0tXeVJQejZTN2NaOWUzaUlVdHRyMzFVV3p0cWdsdl9LcHpWN05oam1DSnltOU5xcmhnSTdxN3kxVVpSSDdEbTJGQjNDa1RXZHRpOXB1NEpB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e75989bc6009",
+      "title": "Science Says This Workout Can Make Your Body 8 Years Younger. A Trainer Explains How to Do It - Yahoo Health",
+      "published": "2026-07-21T13:26:18+00:00",
+      "summary": "Science Says This Workout Can Make Your Body 8 Years Younger. A Trainer Explains How to Do It&nbsp;&nbsp;Yahoo Health'I'm stronger at 61 than I was at 40': How this strength coach builds upper-body muscle in her 60s&nbsp;&nbsp;Women's HealthI asked an expert who works with seniors to recommend three exercises for the over-50s to build lifelong functional strength—here’s what he said&nbsp;&nbsp;Fit&amp;WellI asked a personal trainer for 5 bodyweight moves to help my parents build strength and sta",
+      "sources": [
+        {
+          "name": "Yahoo Health",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTG5PRE93NVppM3JJZlpIVTVUSXA0X3dTR09CMXB2Qzc4b3VITWRvc0dabEZmTktzdUZjdi01Y0M1eW5vZFN2UThwUEwyNWZrcGhzZjl3S29FT0tUbktjUXU2ZWw0OEd6STNMd1VYM3VEdTVIZjRPNzhhS0R2TGdqNkFwa2ctR0tfcmY3RXJoWEtKSmQ4SENsUWpBZVk3eVYyTEdFQQ?oc=5"
         }
       ]
     },
@@ -129,7 +237,7 @@
       "id": "0827a35d14c3",
       "title": "Scientists Believed This Near-Earth Object Was an Asteroid for 28 Years. They Were Wrong - Gizmodo",
       "published": "2026-07-21T11:30:45+00:00",
-      "summary": "Scientists Believed This Near-Earth Object Was an Asteroid for 28 Years. They Were Wrong&nbsp;&nbsp;GizmodoNASA Study Finds Near-Earth Asteroid Is Actually Comet&nbsp;&nbsp;NASA (.gov)Near-Earth asteroid not an asteroid at all&nbsp;&nbsp;Popular ScienceA Dark Comet Was Hiding Right Under Our Noses And Got Just 2 Million Miles From Earth&nbsp;&nbsp;IFLScienceAstronomers Catch a \"Dark Comet\" Red-Handed&nbsp;&nbsp;Universe Today",
+      "summary": "Scientists Believed This Near-Earth Object Was an Asteroid for 28 Years. They Were Wrong&nbsp;&nbsp;GizmodoNASA Study Finds Near-Earth Asteroid Is Actually Comet&nbsp;&nbsp;NASA (.gov)Near-Earth asteroid not an asteroid at all&nbsp;&nbsp;Popular ScienceA Dark Comet Was Hiding Right Under Our Noses And Got Just 2 Million Miles From Earth&nbsp;&nbsp;IFLSciencePuzzling Near-Earth Asteroid Turns Out to Be Comet with Weak Tail&nbsp;&nbsp;Sci.News",
       "sources": [
         {
           "name": "Gizmodo",
@@ -141,11 +249,23 @@
       "id": "476b5007889b",
       "title": "Experimental drug shows 'phenomenal' results fighting California's Valley fever - SFGATE",
       "published": "2026-07-21T11:07:19+00:00",
-      "summary": "Experimental drug shows 'phenomenal' results fighting California's Valley fever&nbsp;&nbsp;SFGATE",
+      "summary": "Experimental drug shows 'phenomenal' results fighting California's Valley fever&nbsp;&nbsp;SFGATENovel antifungal shows promise for patients with refractory disseminated coccidioidomycosis&nbsp;&nbsp;2 Minute MedicineNovel Antifungal Shows Activity in Valley Fever&nbsp;&nbsp;MedPage TodayNovel Antifungal Drug Shows Promise in Some Patients with Valley Fever | Newswise&nbsp;&nbsp;Newswise",
       "sources": [
         {
           "name": "SFGATE",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcUMwUU9fNld6OEV1TGJ4TXg5YkI3akNDZW9fVkdSaDVuYjgtd0lvNWVmMVVsdDlzWDdnVTd0dEpqRTZCOUhHSzBkYnFCWnV2Zk5QV0l3Zkk3WTdHN21XRW05YVdEVGlVclhmLWNHXzFoc2E1TFctQ3lIbVUwMFltZg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "18e95155ba6b",
+      "title": "Coral Reef Long Presumed Dead Is Rediscovered ‘Teeming with Life’ Off Coast of Africa - Good News Network",
+      "published": "2026-07-21T11:00:43+00:00",
+      "summary": "Coral Reef Long Presumed Dead Is Rediscovered ‘Teeming with Life’ Off Coast of Africa&nbsp;&nbsp;Good News NetworkLong Presumed Dead, a Thriving Coral Reef Is Discovered in West Africa&nbsp;&nbsp;Yale E360After More Than 60 Years Presumed-Dead A Coral Reef Is Alive and Thriving Off The Coast Of Benin&nbsp;&nbsp;IFLScience“It Was a Mix of Excitement and Disbelief”: When Scientists Sent Deep-Sea Rovers to Confirm a 1960s Theory, They Made a Surprising Discovery&nbsp;&nbsp;The Debrief‘Dead’ coral r",
+      "sources": [
+        {
+          "name": "Good News Network",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNHFTaWFNNjFxU21Zbk90dXo3YklOQ21obzF3SFFzMVhiN3JmaC1rbHF2TS16OWMzU1l3WUFxTDNtYllrQldRSm1CQ25Ob243N0kyb3l3VE8wajVNRy00RHB0bk54VUpBNXBlMFZZWFM2eWh5VldjcGlKdnNtSXM4d043UzNQeEdSNlFMSlBlZC1nTDhWMGN1NlVjYlJReVhXV29yUTlFOW1nZDlXX1Z3MXZTcUM1TEU?oc=5"
         }
       ]
     },
@@ -174,30 +294,6 @@
       ]
     },
     {
-      "id": "24a674487358",
-      "title": "Covid-19 waking up, Cyclospora marches on, and measles is close to hitting a milestone - Your Local Epidemiologist",
-      "published": "2026-07-21T10:30:49+00:00",
-      "summary": "Covid-19 waking up, Cyclospora marches on, and measles is close to hitting a milestone&nbsp;&nbsp;Your Local EpidemiologistWill vaccine boosters be necessary as measles spreads nationwide?&nbsp;&nbsp;The Mercury NewsUS measles cases set to surpass last year’s record high – and it’s only July&nbsp;&nbsp;The IndependentGa. vaccination rates fall below level needed to stop measles spread&nbsp;&nbsp;WRDWThe US is on pace for its worst measles year in decades. Here’s where the DMV stands&nbsp;&nbsp;D",
-      "sources": [
-        {
-          "name": "Your Local Epidemiologist",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZU1ZeVJYOG1yNUYxVnZlSElPOXdoRUJvVndiX0h1WjdLRkdvSFZtOTlKYXViazA2Y1V1YjBnblNvTkp6WF9OX2wxN0ZPVnN2VnZ2NHM5TkpQd3g2QlBZdm9Oc21LX1JtZ2FFZVdZN2FHMFl1UDVVRzJUTDd4dXF4VXBWbFFwWWVuMmhmTA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "08c3fc988f08",
-      "title": "The #1 Breakfast for Gut Health, Recommended by Gut Experts - EatingWell",
-      "published": "2026-07-21T10:03:10+00:00",
-      "summary": "The #1 Breakfast for Gut Health, Recommended by Gut Experts&nbsp;&nbsp;EatingWellSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlTmhaQ2IwbzdjOWlvTVd0VThkOFZQdldILThWOUg5SGZNZndTZG1nMnZ1UGk3ZV9pQ0JMcmZiSlVBcnllRXMzVUpQcF9MeGI0YUFHcVoya2Q2cG4tSmhXRm5FUFk3WHl0d1dfMGVB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b4b05cd6e70a",
       "title": "Exclusive: Medical student in Nepal behind busy research factory - Retraction Watch",
       "published": "2026-07-21T10:00:00+00:00",
@@ -206,6 +302,18 @@
         {
           "name": "Retraction Watch",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdG9QZjhpQXk4QVNCcHpxeTFMNDhJZVRFWFljemRWZXNyVE56aGtzRXg4MXItU0FzbEJ1X0NXNzlmVHNva1BfR1Nid1FxX2M2YU5aMmwxX3FzQzlqM0FpYzlROFduWVZmRDNCdkE3cGp3MGZ5WkNGM2c0WE5sTGVfMjJLQkhsbzB3ODdlXzdncjdjUGZITm1nMUlCQ1V0ZjlLY0dWMXJn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a5c9d611c2ae",
+      "title": "Antibiotic-resistant bacteria increasingly leaving children vulnerable to common infections, global study finds - The Guardian",
+      "published": "2026-07-21T09:14:00+00:00",
+      "summary": "Antibiotic-resistant bacteria increasingly leaving children vulnerable to common infections, global study finds&nbsp;&nbsp;The GuardianAntibiotic resistance is a growing problem, but solutions do exist – expert Q&amp;A&nbsp;&nbsp;The ConversationLast-line antibiotics at risk as children's resistance rises&nbsp;&nbsp;Medical XpressA secret weapon against superbugs&nbsp;&nbsp;Cold Spring Harbor LaboratoryOutsmarting Superbugs: From Brewing to Biofilms&nbsp;&nbsp;Georgia State University News",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWEZ3WWNwWnZBaW5GZFk5dlNQLWl3RzhYSC14MURaWmFzc0t4VTlOOS1SUWxjdkMzQmJselBveWh2Rng0VnQ0aTRSYjYtTEJYSk1FQm5RRnB1aHB3UkZjT0RVWUk2Z0Q4V0x1aFJlakVSQnZ4WmlWUmVyamIwVkNQbm12STZGWE9IYi1mSkRlbm1YX1JCd2tYODlYTTRJQ3ZIbEllSExoV0t5Z3V1NHhqUUZqSFhnbmZ0MTdhcTlaQndvVUJoUFZVUVB1ZnlQM25VQ3hEblAzVGhBTUlkODlnOVQtZGhmZW9fZDgweF9taFA0cEJrTlNuWA?oc=5"
         }
       ]
     },
@@ -234,6 +342,30 @@
       ]
     },
     {
+      "id": "29be52fd2d41",
+      "title": "Can You ‘Catch’ Dementia From Your Spouse? - StudyFinds",
+      "published": "2026-07-21T09:00:06+00:00",
+      "summary": "Can You ‘Catch’ Dementia From Your Spouse?&nbsp;&nbsp;StudyFindsShared lifestyle might be clue to why some couples have higher dementia risk&nbsp;&nbsp;ABC News & Headlines – Australian Broadcasting CorporationDementia Marriage Study&nbsp;&nbsp;YahooOne Partner's Dementia May Predict the Other's Future Risk&nbsp;&nbsp;MedPage TodayYour dementia risk is higher if your spouse has it – but it’s more than shared lifestyle&nbsp;&nbsp;The Conversation",
+      "sources": [
+        {
+          "name": "StudyFinds",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR3lHM1lzMlRMeUFzdHRwQU5tazZISHJSTDFzd2dkODU4ZWJlVm9kM3JxcllnVC1SUklfODY2cHZDU0tfcXBaMEZyaG1QTjNtYjdJQzJ4dmRuYWo0enQ2VG5NTjU0YWNYdDNEY1kycmJfNzY2TUVCeVIzVDFwSlZxUW9acG40bFppazR6T2g4aw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3c3ca8e23b5d",
+      "title": "6 dementia symptoms that can show up years before a diagnosis - Yahoo",
+      "published": "2026-07-21T09:00:00+00:00",
+      "summary": "6 dementia symptoms that can show up years before a diagnosis&nbsp;&nbsp;YahooSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQjVHc3NtNHoyYWpZaVZrV2lYVjYyNVA2VzBlNDhaNzZhSTdMSUExNTNZYjEzSUpSNGd1Nk5zMDBScUpnbGdEajloOTAzXzVzb2d1MzlkVnlZbGhsb1FVR2dhZTl4azNrdnZ0Mi1uamVMWGZUeWE4bHRjYkliSTJiSVRrOF9nQU1DVkxXdXpGX3pYTlh6WkFLSWc2TVd4dnlveGlNOXo4NDJ4ejlqNGFHd0NWSVk2TXN4?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4b7a80ffa50d",
       "title": "One of the world's oldest orbicular granites is in India: The 2.56-billion-year-old Pichhore rock is baff - The Times of India",
       "published": "2026-07-21T08:46:00+00:00",
@@ -258,10 +390,34 @@
       ]
     },
     {
+      "id": "178956f55cfa",
+      "title": "Physicists Have Argued Over This Problem Since 1883. It May Now Be Solved. - The New York Times",
+      "published": "2026-07-21T02:49:00+00:00",
+      "summary": "Physicists Have Argued Over This Problem Since 1883. It May Now Be Solved.&nbsp;&nbsp;The New York Times“Silly sprinklers” help scientists finally solve Feynman’s famous sprinkler mystery&nbsp;&nbsp;ScienceDailyFeynman Sprinkler Problem Solved: Momentum Flux, Not Fluid Swirl, Spins Both Ways&nbsp;&nbsp;Tech TimesMines researcher helps put “silly sprinklers” in reverse to unravel decades-old physics puzzle&nbsp;&nbsp;Mines NewsroomScientists used children’s ‘silly sprinklers’ to solve a physics p",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSV9vYXNTeFhZREd2aDd4OGNSV3VBbEgtaGFsWk8wSE1ad3BfaFozdUZfRElyYi1Ed0NWSDc1aTNDMk1lZHNBNzlPY3lGeF9HblZzSkNBOEJxM3Q0X3kxdnRyTGZ2S09KU0l1Y3JCQ2FsQ3dET1NtdWVKTngtYnBLemIzdm5QUkZv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "10b4aff8c31a",
+      "title": "Mecklenburg County officials urge residents to take precautions after West Nile virus detected in mosquitoes - WBTV",
+      "published": "2026-07-21T02:38:00+00:00",
+      "summary": "Mecklenburg County officials urge residents to take precautions after West Nile virus detected in mosquitoes&nbsp;&nbsp;WBTVWest Nile virus detected in Mecklenburg County mosquitoes&nbsp;&nbsp;WCNCWest Nile virus has been identified in Mecklenburg mosquitoes&nbsp;&nbsp;Charlotte ObserverWest Nile virus detected in Lowcountry mosquitoes&nbsp;&nbsp;Live 5 NewsWest Nile virus detected in South Carolina mosquitoes&nbsp;&nbsp;WYFF",
+      "sources": [
+        {
+          "name": "WBTV",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOek5BOTVkM1QwN19rU25YbjNaNlNBN2gwVGY0NVUweFlOOEFBMVdVSTlXSkVycmJvQWVsVG1kSk42MXVBVEUzeVVxdVpHZEsyWVIxR1NheE0wZTJ5dnl1UjBpak01Q0toOTRXcFFJeVBLRXRZQkRMSXhtMWVtWFpnVzBtTHJUMEx0OEgtdmxOdDAwRF83QTJ3S1BKZ2g3enNxZVEwMXN1Ykc3TXRYU2tid29SVlNfVHBKZkZKR2xxYTRMVEN4V1JvRGRqcVR0Rjla0gHkAUFVX3lxTFBFU0xUSG9oeTQwclE1SDlrOElrQXVVYVNFdmxJbDktWUJEeVdWZUtkSXFNdUotM1Q0NDRPVTRvWE9XNkVDc2xmaEhwdnVTWHJ6c2M1TmpNdklpbGRHMGF5X2RYM2tJdDAxaXM4cEE0SVhUb0g3UnRLV3lYcXpfaXBRREFvNWMtRFlEc1JRTlkyemlfMjhsUWhScnh5czVFRXAyNHcwdF9LamF6MGFZU25vRll6bHh2RUFFd3paZ1l3azRaSE1wSE44S3o4ZWItT2dPbnBtMXFCOWtKRzl6cUJtRzlGWA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "14e9dbf6cd02",
       "title": "New antibody drug stops aggressive prostate cancer from spreading - ScienceDaily",
       "published": "2026-07-21T02:25:48+00:00",
-      "summary": "New antibody drug stops aggressive prostate cancer from spreading&nbsp;&nbsp;ScienceDailyJarad Martin: NINJA Prostate Cancer Trial Completes Recruitment With 472 Participants&nbsp;&nbsp;OncodailyResearchers Develop a Fully Human Antibody That Halted Aggressive Prostate Cancer Growth and Spread in Lab Models&nbsp;&nbsp;Medical DailyA new generation of prostate cancer drugs is raising hope—here’s why&nbsp;&nbsp;Futura, le média qui explore le mondeResearchers Uncover a Promising New Way To Stop Pr",
+      "summary": "New antibody drug stops aggressive prostate cancer from spreading&nbsp;&nbsp;ScienceDailyJarad Martin: NINJA Prostate Cancer Trial Completes Recruitment With 472 Participants&nbsp;&nbsp;OncodailyResearchers Develop a Fully Human Antibody That Halted Aggressive Prostate Cancer Growth and Spread in Lab Models&nbsp;&nbsp;Medical DailyA new generation of prostate cancer drugs is raising hope—here’s why&nbsp;&nbsp;Futura, le média qui explore le mondeScientists develop drug that could slow growth of ",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -282,26 +438,50 @@
       ]
     },
     {
-      "id": "bb707f6f929c",
-      "title": "Brain tumor found during preventive scan puts full-body MRIs back in the spotlight - Fox News",
+      "id": "8b78d1e824c1",
+      "title": "Brain tumor found during preventive scan puts full-body MRIs back in the spotlight - Yahoo Health",
       "published": "2026-07-20T22:18:54+00:00",
-      "summary": "Brain tumor found during preventive scan puts full-body MRIs back in the spotlight&nbsp;&nbsp;Fox News",
+      "summary": "Brain tumor found during preventive scan puts full-body MRIs back in the spotlight&nbsp;&nbsp;Yahoo Health",
       "sources": [
         {
-          "name": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOWlvYUlRamFkRVhkcThPc25QZnlXRXRoZmI5YVB0a3liU1NNb29rSGhsc195RmFOTkNwaTROaFJUSl9hampGMHJRUGZGRExCendTXzdpUWdnN2NGbG1vWkVUQ0NHZjIwRmRORXlZVllpMnhjQy1DZ29wQjdnSzdPZkY0Rlg3MEtJaURQMmZqZ08zVnVCQ3kxajZETVR1WGVSWkF6SzdURjJVZ9IBrwFBVV95cUxOY2dVd085ZU03MTRDNmhuZXEwN1VkTmkyajMxTnUtN2d0UVRwNG5kbkdfeFBpa2dPMmNMMjZlWGdTVVkzMl93UGR0OXZZaUQ5ZGlHU2lMUTlUd001NjZKeWpTYlJDZFctc2lCNW1CRE1MR3V6dl9peWh4cjdzWV92dnlPdTZaNGt0ZWJkbGY1Sk1LeEFMX3JhcnhjSFlxSFpzQTJxQXBqd2RpeDhLMXZV?oc=5"
+          "name": "Yahoo Health",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUzdyN2oxOEZvNDl2TGFZVkFYM29IU2otMGV4TXVnRXRZbHJpMjVsTzBkSkQ3VXV0X3VpX2t3T2pvSlFVNUxYOU1lem9qN25EeUhaeWVaX1ZSTFdYMjhWUDZlUFE0My16dDJqaFZvSWNFTzRzMVUyU0I0VG1RbXJxRGplWjUtd0pRc3RpVnRpbXd2OFJUd0ZIWW9xLURKREtyTWRqeg?oc=5"
         }
       ]
     },
     {
-      "id": "33c0de94ebb7",
-      "title": "Earth’s Oceans Are Rapidly Losing Oxygen. It Could Destabilize the Planet - Gizmodo",
-      "published": "2026-07-20T20:50:38+00:00",
-      "summary": "Earth’s Oceans Are Rapidly Losing Oxygen. It Could Destabilize the Planet&nbsp;&nbsp;GizmodoOxygen \"disappearing\" from earth's waters at alarming rate, scientists warn&nbsp;&nbsp;Oceanographic MagazineEarth’s waters are quietly running out of oxygen, scientists warn&nbsp;&nbsp;ScienceDailyUnderwater oxygen loss threatens earth's stability, researchers warn&nbsp;&nbsp;Phys.orgOxygen is vanishing from Earth’s waters&nbsp;&nbsp;Tech Explorist",
+      "id": "c9f60584c6e6",
+      "title": "An avocado a day reduces bad cholesterol particles, heart disease risk in adults with obesity, study says - LiveNOW from FOX",
+      "published": "2026-07-20T21:20:36+00:00",
+      "summary": "An avocado a day reduces bad cholesterol particles, heart disease risk in adults with obesity, study says&nbsp;&nbsp;LiveNOW from FOXHow 1 avocado a day may help reduce heart disease risk&nbsp;&nbsp;Medical News TodayAn avocado a day keeps the doctor away: new study&nbsp;&nbsp;New York PostHeart Disease: Eating an Avocado a Day May Lower Your Risk&nbsp;&nbsp;Healthline16 things that actually happen when you eat avocado every day&nbsp;&nbsp;Totally The Bomb",
       "sources": [
         {
-          "name": "Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeWZXbTJvS0JFT3IyZmRhU0VtdFNubzY3MHhvRkRnWEp4STF6Ykt4ZXRZdVkwVVgtVVJObHhvaUpwSG5EZVFHSlVSM0NweW1BaTJ5RmFuZzJlU1ZYMmdyWU0tVHV3R1ZDNWdzdERnSExJeUxEbGtFTmhuclpFV2kxYWNteldFOVIydlpUSFlVVHNLZ3ZGcWFzRG5yZ1IzZmRvM2ZRVw?oc=5"
+          "name": "LiveNOW from FOX",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeTZ1RXlOS3BMYm5WbVM0aENhcEY0U3U1dm1POER5MWRDS1FVc29fdlprV3BEV19iN0FGR3pJNkNzSWRpN2RBTnNrc0Q1TTBIanVwTnNmcjRob3FRUXZaMHpqRDJfWkhhQzZkclROWm05cC1JQVI1QWhwRmJEVmpMMkVJZTQ3NFFaTzM4SU41a2YxSW15Q190UzJSZldYZGIwXzNYVk5MMTk5c3M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a363e08d3bf6",
+      "title": "One of the oldest psychedelics meets modern brain imaging - Northeastern Global News",
+      "published": "2026-07-20T20:57:17+00:00",
+      "summary": "One of the oldest psychedelics meets modern brain imaging&nbsp;&nbsp;Northeastern Global News",
+      "sources": [
+        {
+          "name": "Northeastern Global News",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82Y1VnOUdvZHJGT1hzTDdmWm5YeU12aHUwMzE1XzJCNEptNTJLeTdpX0dkbE5LQWVpSGhlRExoY2pZWk5KWkVIMWItLTV6WDYtWEZMOW5JeFdmNnBuaFVKYmNfVDhJY2NDemlLdjVWSVBXYmxnVG5n?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dac6884807f6",
+      "title": "Louisville resident tests positive for West Nile virus - WDRB",
+      "published": "2026-07-20T20:33:00+00:00",
+      "summary": "Louisville resident tests positive for West Nile virus&nbsp;&nbsp;WDRBLouisville health department confirms human case of West Nile virus&nbsp;&nbsp;WLKYMosquitoes in Arnold test positive for West Nile virus&nbsp;&nbsp;Leader PublicationsFirst confirmed West Nile virus case in Louisville prompts mosquito fogging Monday&nbsp;&nbsp;YahooUofL Health officials talk prevention, preparation for West Nile Virus&nbsp;&nbsp;WAVE News",
+      "sources": [
+        {
+          "name": "WDRB",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRU45czRfRTc1aUI3RUVEYW9FMDcwOF9MNTBTckdOUjNTOURZZExqcjc0S0JESDJvVnE0SDZ5NC1pTGI3TTZuSUtDbk1iZzdyeklJZnB4LUd4Q3BzWlNmYUJhTGJXbGxNUzMwT0hMb212YXJXdUtONF82RFBnOWRTV2xmckN5TW5hWmVJQjBrY0QzY3pzdVUwbjNjb1dyOURvMmNTQTQtNFhjV29jMG5jY1dfSmFOMnBYLWRqeG1MblJlc1g5VHlvMVN3?oc=5"
         }
       ]
     },
@@ -309,7 +489,7 @@
       "id": "ee9fd00d8bc2",
       "title": "6 fun activities that can slow aging, according to science — it’s good news for Broadway fans - New York Post",
       "published": "2026-07-20T19:22:00+00:00",
-      "summary": "6 fun activities that can slow aging, according to science — it’s good news for Broadway fans&nbsp;&nbsp;New York PostCould That Museum Visit Help You Live Longer?&nbsp;&nbsp;WSJSlowing aging: Could going to theaters, museums keep the body younger?&nbsp;&nbsp;Medical News TodayVisit a museum to help slow aging, nap between 1 and 3 p.m. and uncross your legs — plus 6 more health tips to help you have a great week&nbsp;&nbsp;Yahoo Health'Your Friday movie night is basically medicine': Neurologist ",
+      "summary": "6 fun activities that can slow aging, according to science — it’s good news for Broadway fans&nbsp;&nbsp;New York PostVisit a museum to help slow aging, nap between 1 and 3 p.m. and uncross your legs — plus 6 more health tips to help you have a great week&nbsp;&nbsp;Yahoo HealthGoing to museums, movies, and theater may help your body stay younger&nbsp;&nbsp;ScienceDailyCould That Museum Visit Help You Live Longer?&nbsp;&nbsp;WSJ'Your Friday movie night is basically medicine': Neurologist cites s",
       "sources": [
         {
           "name": "New York Post",
@@ -318,22 +498,10 @@
       ]
     },
     {
-      "id": "2ab5e40f848f",
-      "title": "Even Mild Sleep Deprivation May Lead to Weight Gain - WIRED",
-      "published": "2026-07-20T19:06:00+00:00",
-      "summary": "Even Mild Sleep Deprivation May Lead to Weight Gain&nbsp;&nbsp;WIREDHow Sleep Affects Metabolism and Weight&nbsp;&nbsp;Psychology TodayResearchers at Columbia University in the U.S. have published a study showing that a lack of sleep f..&nbsp;&nbsp;매일경제Regular sleep loss can lead to weight gain and health risks, study finds&nbsp;&nbsp;Sur in EnglishLosing Just a Little Sleep May Affect Your Weight More Than You Think&nbsp;&nbsp;Health: Trusted and Empathetic Health and Wellness Information",
-      "sources": [
-        {
-          "name": "WIRED",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTTZXWjRZT1pNRnVsVGEwZEs5MTQ5UTJqRmJXZEt0M3lBQW1lRE9xNUk4NTdDbzBnTXBTdXZsbWJFenpxR1pWS1FONEFQajJ1a2E3R2ZOZS1yYkZYeW9xakd3Y213czVGdmJLa1lNWi1mRlhiblBEdmdMVGVtemYyX1hiTnN6X3M?oc=5"
-        }
-      ]
-    },
-    {
       "id": "84585d284982",
       "title": "The Sewer Knows What You Ate - The New York Times",
       "published": "2026-07-20T19:00:06+00:00",
-      "summary": "The Sewer Knows What You Ate&nbsp;&nbsp;The New York TimesWhat wastewater says about what we eat and who we are&nbsp;&nbsp;Duke School of MedicineThe Future of Nutrition Research May Run Through the Sewer&nbsp;&nbsp;The University of North Carolina at Chapel HillWastewater reveals what entire communities are really eating&nbsp;&nbsp;Earth.com",
+      "summary": "The Sewer Knows What You Ate&nbsp;&nbsp;The New York TimesBeer, beans and seafood: Wastewater exposes hidden maps of community diets&nbsp;&nbsp;Medical XpressWastewater reveals what entire communities are really eating&nbsp;&nbsp;Earth.comThe Future of Nutrition Research May Run Through the Sewer&nbsp;&nbsp;The University of North Carolina at Chapel Hill",
       "sources": [
         {
           "name": "The New York Times",
@@ -378,18 +546,6 @@
       ]
     },
     {
-      "id": "f8f920703a65",
-      "title": "West Nile virus found in Mecklenburg County mosquitoes: How to protect yourself - WBTV",
-      "published": "2026-07-20T18:18:00+00:00",
-      "summary": "West Nile virus found in Mecklenburg County mosquitoes: How to protect yourself&nbsp;&nbsp;WBTVMecklenburg County officials urge residents to take precautions after West Nile virus detected in mosquitoes&nbsp;&nbsp;WBTVWest Nile virus detected in Mecklenburg County mosquitoes&nbsp;&nbsp;WCNCWest Nile virus has been identified in Mecklenburg mosquitoes&nbsp;&nbsp;Charlotte ObserverWest Nile virus detected in Lowcountry mosquitoes&nbsp;&nbsp;Live 5 News",
-      "sources": [
-        {
-          "name": "WBTV",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNODYxRWtaWU1JTVlITkNBc2RzMmR5MlhlRmFPQVlWbmZ3QWdHLVFreHYzMHdSMDRHTThldzlPTkNCZW5fWDVvNFh3clhIRjBlRWdkNFdwX0ZiSjdoaGRpa3NDVzJ4d2xWdl8wd2JvQ2xMck5WZUlFYkZ1WW9yQktkQk9TSlFHZTdGUlVZX1BCcU1FTzZXRDZRTnlxYnFUam9LbWpTcXRpVmnSAbwBQVVfeXFMTmxsbzBhbEg3eHNoN0FjNUNOeWZlRk9uenNFcHU1VG1mNE5KZjdFZkt3Yl9tYW5ydVpXTGNwSlRUWC1yRDFXWldxTnNZbk9QUVJ2T2hMcFFUMEFacTF2S08ySkhVbm1QMExfU3dXS0xfUVJFTTRCREZ2WmtsS3ItdTlWUm1qdlR2VjdUX3ZMd2ZsbVhQRG1HbVBPMmhSVXFibUowN3dFNFZYSmV5U2NBNDU4MV9KNklHZVJJOFQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e20a0a31de45",
       "title": "'If only people knew what a tick could do' - the deadly meat allergy caused by tick bites - BBC",
       "published": "2026-07-20T18:01:00+00:00",
@@ -414,10 +570,22 @@
       ]
     },
     {
+      "id": "51d8b150d178",
+      "title": "New Guideline Will Shift Statins to Younger and Lower-Risk U.S. Adults - MedPage Today",
+      "published": "2026-07-20T17:34:08+00:00",
+      "summary": "New Guideline Will Shift Statins to Younger and Lower-Risk U.S. Adults&nbsp;&nbsp;MedPage TodayIs your cholesterol too high based on latest guidelines?&nbsp;&nbsp;Harvard GazetteMore than half of U.S. adults now eligible for statin therapy under new cholesterol guidelines&nbsp;&nbsp;Cardiovascular BusinessNew Dyslipidemia Guidelines Reveal Significant Gap in LDL-C and LLT Treatment Goals&nbsp;&nbsp;HCP LiveNew CVD Risk Tool Boosts Women’s Risk, Lowers Risk for Some Black Adults&nbsp;&nbsp;Inside",
+      "sources": [
+        {
+          "name": "MedPage Today",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BWnREa1hrWFUxbHlBLXF2ZkZPSm1HQTF3THdhb1hrZkdFcTdITnFaT2ZaWHFNaHhXM25zbFdrYm5jTU91S29GU0oyZDFLUlJ4cmJfRWwxd3ZqMnpVVFNGTmMyZWtwVUhESWJj?oc=5"
+        }
+      ]
+    },
+    {
       "id": "72693cc9c796",
       "title": "Researchers Used Two Telescopes to Discover a Planet Hidden In Plain Sight - PetaPixel",
       "published": "2026-07-20T17:28:49+00:00",
-      "summary": "Researchers Used Two Telescopes to Discover a Planet Hidden In Plain Sight&nbsp;&nbsp;PetaPixelNASA’s Webb Discovers Hidden Planet in Famous Star System&nbsp;&nbsp;NASA Science (.gov)Faint new planet is revealed around a young star after a decade in hiding&nbsp;&nbsp;AP NewsAstronomers Discover and Directly Image Third Planet in Beta Pictoris System&nbsp;&nbsp;Sci.News“We weren’t looking for a new planet.” This is one of the most photographed planetary systems, but a faint planet still hid in 11",
+      "summary": "Researchers Used Two Telescopes to Discover a Planet Hidden In Plain Sight&nbsp;&nbsp;PetaPixelNASA’s Webb Discovers Hidden Planet in Famous Star System&nbsp;&nbsp;NASA Science (.gov)Astronomers Discover and Directly Image Third Planet in Beta Pictoris System&nbsp;&nbsp;Sci.NewsFaint new planet is revealed around a young star after a decade in hiding&nbsp;&nbsp;AP News“We weren’t looking for a new planet.” This is one of the most photographed planetary systems, but a faint planet still hid in 11",
       "sources": [
         {
           "name": "PetaPixel",
@@ -426,10 +594,22 @@
       ]
     },
     {
+      "id": "e6451b25249d",
+      "title": "Dinosaur skull remains found in campground belong to T. rex 'great-uncle,' Alberta study shows - CBC",
+      "published": "2026-07-20T17:00:38+00:00",
+      "summary": "Dinosaur skull remains found in campground belong to T. rex 'great-uncle,' Alberta study shows&nbsp;&nbsp;CBC",
+      "sources": [
+        {
+          "name": "CBC",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM0tfS2hYdDVXeFNHMnVXQ1VfRGo2ODJOSEpQbGpBSzk1Zzlzcm5IaGd5R1BjN3E0N0E2ajdSVkVqYV9NQ3JoZUFXSmxBc0VMUzRmMDI1eWIybGltaWlMWUxldXBvVEZlUHZyX2lnWXU0UWtZbUdRa1NWaDZ5ZFo0ZFpjWkdaSXZuMHdCMw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "fa52bde82364",
       "title": "Plasma proteome profiling identified biomarkers for the differential diagnosis and molecular staging of neurodegenerative dementias - Nature",
       "published": "2026-07-20T16:32:37+00:00",
-      "summary": "Plasma proteome profiling identified biomarkers for the differential diagnosis and molecular staging of neurodegenerative dementias&nbsp;&nbsp;NatureAlzheimer’s Blood Tests Offer New Promise to Diagnose and Predict the Disease&nbsp;&nbsp;The New York TimesNew Alzheimer’s blood test may be promising but is not yet ready for widespread use&nbsp;&nbsp;CNNAlzheimer's research: Could a blood test help predict a person's risk for developing the disease?&nbsp;&nbsp;ABC7 New YorkBuilding the Foundation ",
+      "summary": "Plasma proteome profiling identified biomarkers for the differential diagnosis and molecular staging of neurodegenerative dementias&nbsp;&nbsp;NatureAlzheimer’s Blood Tests Offer New Promise to Diagnose and Predict the Disease&nbsp;&nbsp;The New York TimesNew Alzheimer’s blood test may be promising but is not yet ready for widespread use&nbsp;&nbsp;CNNNew Alzheimer's blood test predicts who is likely to develop dementia in 5 to 10 years&nbsp;&nbsp;Fox NewsBuilding the Foundation for Earlier Alzh",
       "sources": [
         {
           "name": "Nature",
@@ -441,23 +621,11 @@
       "id": "90c858b810f8",
       "title": "Ebola death toll rises to 930, as outbreak spreads at record pace - Financial Times",
       "published": "2026-07-20T16:24:37+00:00",
-      "summary": "Ebola death toll rises to 930, as outbreak spreads at record pace&nbsp;&nbsp;Financial TimesAt least 930 people have died in Congo's Ebola outbreak&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosEbola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda&nbsp;&nbsp;World Health Organization (WHO)Ebola death toll in DRC surges to at least 930 as outbreak continues spread&nbsp;&nbsp;Al JazeeraEbola deaths in DR Congo rise to 930 amid attacks on health workers&nb",
+      "summary": "Ebola death toll rises to 930, as outbreak spreads at record pace&nbsp;&nbsp;Financial TimesAt least 930 people have died in Congo's Ebola outbreak&nbsp;&nbsp;NPREbola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda&nbsp;&nbsp;World Health Organization (WHO)Ebola death toll in DRC surges to at least 930 as outbreak continues spread&nbsp;&nbsp;Al JazeeraEbola deaths in DR Congo rise to 930 amid attacks on health workers&nbsp;&nbsp;Sky News",
       "sources": [
         {
           "name": "Financial Times",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNejVEek9ROE8tZGM3eGtyMXl2TncteVlvbU1RRDRyeGItdFdwY3JCX21MOFRNZElwU1lSRGp1S0ZLUnh1SGNnVW1qOFVmLXlTckszNEU3bEVXQ0dJcVAtWVlSWmV3dFhzMDlXRVhuWWtFLV90V2pHUjdkbUpsNVRkejFPQVI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "598179d2eea3",
-      "title": "Mapping in-cell protein contact sites reveals hijacking of paraspeckles during influenza A virus infection - Nature",
-      "published": "2026-07-20T16:20:41+00:00",
-      "summary": "Mapping in-cell protein contact sites reveals hijacking of paraspeckles during influenza A virus infection&nbsp;&nbsp;NatureScientists map how the flu virus rewires the human cell from the inside&nbsp;&nbsp;Phys.orgGerman biologists map how influenza virus hijacks human cells&nbsp;&nbsp;Новости GxPNew molecular map reveals how the flu virus hijacks human cells&nbsp;&nbsp;ScienceDailyEMBL Maps Influenza Virus Rewiring of Human Cells&nbsp;&nbsp;Zenopa",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oQWJBUjAtWWIxeGJxVHB2Mm5UU0Z1amZWNE9sLUNXclRHRGQ1WFFINHdkODd2Z3c3RWNsRGZTTDhkWHdmd2UzMmRNNDMzdnFaTW1pZU44TUlnSzBXNDEw?oc=5"
         }
       ]
     },
@@ -498,14 +666,14 @@
       ]
     },
     {
-      "id": "8eb063bc0cc1",
-      "title": "Astronomers Found the Sun’s Missing Silver Hiding in Plain Sight - Gizmodo",
-      "published": "2026-07-20T15:25:23+00:00",
-      "summary": "Astronomers Found the Sun’s Missing Silver Hiding in Plain Sight&nbsp;&nbsp;GizmodoThe Case of the Sun's Missing Silver&nbsp;&nbsp;Universe TodayAstronomers were wrong about the amount of silver contained in the Sun&nbsp;&nbsp;Universe Space TechStudy finds the Sun contains 55% more silver than previously estimated&nbsp;&nbsp;MilliyetOur Sun was missing its silver. Scientists finally know what went wrong&nbsp;&nbsp;WION",
+      "id": "a3465083f604",
+      "title": "They Used GLP-1s to Lose Weight. They Ended Up in Treatment for Anorexia. - WSJ",
+      "published": "2026-07-20T15:03:00+00:00",
+      "summary": "They Used GLP-1s to Lose Weight. They Ended Up in Treatment for Anorexia.&nbsp;&nbsp;WSJSee more headlines & perspectives on Google News",
       "sources": [
         {
-          "name": "Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbUxYN25FRFFOM3pJdHI3a3F4Tk9sVVJHLXR1ZUxYeHpVWERDQmlJeFpnOW8wVzRKYXZmMVlmbU1QTHVMaVpMR013eHpDT3RzWV9waXBhajl5emllVWJOZnBxcU0tTHB1am95dEhNb3ZZTnY2REhNSlAyV0VMdk5ibnBLOGJyU0tCbGp6ckxiX2dzbGVWZGttOTd3?oc=5"
+          "name": "WSJ",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xZ1JQUGk0b2dLMVBjRi1qX3RNNElzblgyakJVaTJxMEZibWZHNW5rcjBZdkdOWGpxNTZfUDZGNUllZ1ZmQlpCTnVVNm1ocGlVd2t4aWV2RXVwTXgwZWtLei13M3dPRnFwZHBLSi1qOXoxUDg4Z0pUQVJEY0syanc?oc=5"
         }
       ]
     },
@@ -522,62 +690,14 @@
       ]
     },
     {
-      "id": "d52d65dd6eac",
-      "title": "This GLP-1 retreat changed how I think about weight loss - USA Today",
-      "published": "2026-07-20T14:46:00+00:00",
-      "summary": "This GLP-1 retreat changed how I think about weight loss&nbsp;&nbsp;USA TodayUnderstanding the psychological impact of weight stigma on patients with obesity&nbsp;&nbsp;HealioOzempic-like drugs have more benefits to the body than just losing weight, meta-analysis shows&nbsp;&nbsp;Medical XpressLive event on safety on compounded GLP-1s&nbsp;&nbsp;Partnership for Safe MedicinesWhat to know about weight loss drugs&nbsp;&nbsp;ABC7 Chicago",
-      "sources": [
-        {
-          "name": "USA Today",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSEtLT1psY3NWS3B1S1ZxMWpsSEhMYnRxN2hjS2FiRmJVYzh3WU5LcnhDNEhOQTVjMzUxdVMwcElHenlsdktSakI2WFJZc3FBdnlPU1Z3R3g3SEd6Z0V2WllXOXMxWkc1Y1RxVkNtYTNVRTlnS1R0RmhtTEE4WTl6TnIySTlZM1NDZFpzN0NVWDdadXZQNGtoRnNuYy1aUXR5Rm9mRE1WakZpbUE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d3a2a38ed1e6",
       "title": "Sweeteners may slow down growth of gut bacteria, researchers say - WSYR",
       "published": "2026-07-20T14:23:36+00:00",
-      "summary": "Sweeteners may slow down growth of gut bacteria, researchers say&nbsp;&nbsp;WSYRScientists tested 39 sweeteners and found unexpected gut effects&nbsp;&nbsp;ScienceDailySweeteners may slow down growth of gut bacteria&nbsp;&nbsp;The HillMixing Sweeteners and Antidepressants Could Be Quietly Altering Your Microbiome&nbsp;&nbsp;Technology NetworksArtificial Sweeteners May Impair the Growth of Gut Microbes&nbsp;&nbsp;Labroots",
+      "summary": "Sweeteners may slow down growth of gut bacteria, researchers say&nbsp;&nbsp;WSYRMixing Sweeteners and Antidepressants Could Be Quietly Altering Your Microbiome&nbsp;&nbsp;Technology NetworksScientists Find Surprising Link Between Popular Sugar Substitutes and Poor Health&nbsp;&nbsp;PreventionScientists tested 39 sweeteners and found unexpected gut effects&nbsp;&nbsp;ScienceDailyLow-cal sweeteners can change gut bacteria — especially if you’re on a popular antidepressant&nbsp;&nbsp;New York Post",
       "sources": [
         {
           "name": "WSYR",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMmtrVDI2aDBmRmVpQ29vRVpLTXRPS0NhaWdfNlBkN2hnT1REV0tnWE1UMzRUbU1fZlpDc25RRmFnX2dhczNNanBMV2lzRnBDdTdqZkZLby0zWk0wV1NucUFWTlNmNjZsaEY1Vmw1d2tMNmE4Nm82NzJDZVROR3BPU0UyenVxUDJjbFVrVTlHSzU5aEJZVFk3UkhXR0dnWHJNd2h0bTl30gGrAUFVX3lxTE8ycmlSZTlTRjVRWmxIVjJZdUEweVltSEI5MnVWZUZUQjdmMlN3XzJqcXlyV2NGRXB0WFM1RnFRb2lHcTczNkVLVjFUXzRFSnREeFo4c05jX2xOSFU2Q1FYYTlxalN1ZmJfYWtkRUxWeHdtOF9mMk5aSFlWWVItX0lMRXV5TUpQeHRhMG1EblNzMmF5V3BERExSaHZ3dFFRNkJwc0J6T2hIWERLNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1ef376d14523",
-      "title": "Meteorite that crashed into NJ home holds building blocks of life, scientists say - Fox News",
-      "published": "2026-07-20T14:04:28+00:00",
-      "summary": "Meteorite that crashed into NJ home holds building blocks of life, scientists say&nbsp;&nbsp;Fox NewsAlien World Chemistry Found Inside Meteorite That Struck New Jersey home&nbsp;&nbsp;SETIMeteorite that crashed into New Jersey home contains building blocks of life, astronomers say&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosMeteorite that crashed into a New Jersey home contains ‘extraterrestrial’ amino acids&nbsp;&nbsp;CNN‘Alien world chemistry' discovered in New Jersey meteorite",
-      "sources": [
-        {
-          "name": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSE5BNDQtTkNtd3JSRkpvUkxFVHVTYkFxWWgxQWhGMy1yZDZZOGlja25zeWRwTEhkdFFqeEw0ZkJhNmJwQ3VENTRzYUFVWWg0Y1lxSHJQYUtKaVF6TXRLZFBEM0RRSFUtblMyY3Izejh4OVZ3SHVtNy1jSE12VUpqMlFxTlVqRUZIbG9SMk15WE5pS3RSelRsckFzbUl3bEHSAaQBQVVfeXFMT1hVLUpYRjItMVMxUjRkZlNwSnpGWnRyRW9EWGdVcUFDVFduaHN6NlFXQ2xQNmhvRUpMOWtfV1YwbHJMSURiTnRyRmRud25Zc1lJNkQwUS1UX1hJN0NqTHFBbTdfUUhhcmxFQllJX0RhLVJoUlF6VFp6WnpoWXNrLUk2R0tWOWNqWDJOVmd4ZHBXMk9SRm9qTF8zc1dPN3RZSEs1blU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "89143f61a8fd",
-      "title": "Scientists reveal protein that could reverse damage from Alzheimer’s disease - The Independent",
-      "published": "2026-07-20T13:33:00+00:00",
-      "summary": "Scientists reveal protein that could reverse damage from Alzheimer’s disease&nbsp;&nbsp;The IndependentScientists discover a protein that protects the brain from Alzheimer’s damage&nbsp;&nbsp;ScienceDailyScientists Discover the Brain Protein That Helps Alzheimer’s Spread Through the Brain&nbsp;&nbsp;SciTechDailyAlzheimer’s Defense Protein SORLA Discovered by Scientists&nbsp;&nbsp;inkorr.comProtein Protects Against Tau Tangles, Synaptic Loss in Mouse Model of Tauopathy&nbsp;&nbsp;Genetic Engineer",
-      "sources": [
-        {
-          "name": "The Independent",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSFpJS1M1bU9vOXRXZ1pvT0JYM3JTakZid2lXQXkwTE1UUV9DMVZvenVMQWkzNzYxVk1yU3JQQklWWEQ5TGw0ZkFJdUREdXNTT2w5NDVldnBJZndDYVNVZ2tmaTZHTGZuYlVUOTdFVEZ3dnZjUlZnRlBTbmFNTmhfYmdvSkk1Nm9BMGZHQTAtcDFlQ0pPR2hqclhxd3E3QUoxa0NJM0FTZ0M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2993658402dc",
-      "title": "Highly sensitive people don’t actually have sharper senses, study finds - PsyPost",
-      "published": "2026-07-20T13:17:38+00:00",
-      "summary": "Highly sensitive people don’t actually have sharper senses, study finds&nbsp;&nbsp;PsyPost",
-      "sources": [
-        {
-          "name": "PsyPost",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcGp2cVJoZ2VIYmU5YXp0akFUQ3JDaU5QcTJlV3hkWXE3V0NPQXowYkZfYnJTVDB6Sk9iRzFkc0JwdFRPOUlibDI4ZmYtczk2YlkwSUQ1Z0R0dmRjdnBHTTJPOF9oZThYeGhaak1oMVhHUHRUUjJtdFo4UE9GdXUtY3RORVdHam11Zy1kTGJMdmpNRndWTkQzNkN3?oc=5"
         }
       ]
     },
@@ -594,30 +714,6 @@
       ]
     },
     {
-      "id": "3e33d3c439e8",
-      "title": "Mosquito season is here, in case your ankles haven't noticed. How humans are fighting back - LAist",
-      "published": "2026-07-20T12:00:00+00:00",
-      "summary": "Mosquito season is here, in case your ankles haven't noticed. How humans are fighting back&nbsp;&nbsp;LAistVery ill L.A. County person found to have West Nile amid explosion of virus activity nationwide&nbsp;&nbsp;Los Angeles TimesWhat You Need to Know About West Nile Virus&nbsp;&nbsp;Spokane Regional Health DistrictWest Nile Virus Cases Hit New High: Where NJ Is At Risk&nbsp;&nbsp;PatchPublic Health reports 1st human case of West Nile virus in 2026&nbsp;&nbsp;Santa Clarita Valley Signal",
-      "sources": [
-        {
-          "name": "LAist",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV2QtQ3J1UW85bjRSXy1rOFlCTlE1Zmp3OGpYdUFiZDF5bWd1VklZNEs5UExscFlnTllXY1FrMjA3THItZmVqUjNyQmFpTlRlaEUxc3pyS1J2bWlqQkdILTF0U2tzdE5ja2M2QUt1YXNDQ2VhamNNS1c2WWtNaTkxN2lnbU1vRmV3UWhzX2hLZDQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b5365a0c18f3",
-      "title": "The First Thing a Dietitian Looks at on a Nutrition Label to See If a Food Is Healthy - TODAY.com",
-      "published": "2026-07-20T12:00:00+00:00",
-      "summary": "The First Thing a Dietitian Looks at on a Nutrition Label to See If a Food Is Healthy&nbsp;&nbsp;TODAY.com",
-      "sources": [
-        {
-          "name": "TODAY.com",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQmo2QUNYbkZfVFoyWWszZ0FGb19kQjUxVzNUa09RaDdBZFhXaS1Wa3ZXdk5PZnJqUGU2X0FBbHhnSzZDZlI4ZkZSTTJuTlBYY19Ga05VMDdZekM0Vk8zalNfb2hubmJxMXBXdmt3ZFluNHNVU09MTDdMOGNub0tfUFlNcTJ5RHVDN2FyYnZIb2hpUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6d46cb26f657",
       "title": "Researchers advance tech that could help scientists detect habitable worlds beyond our solar system - Phys.org",
       "published": "2026-07-20T11:40:01+00:00",
@@ -630,18 +726,6 @@
       ]
     },
     {
-      "id": "3350841fdc64",
-      "title": "Life Has Life Been Found on Mars? - Kyiv Post",
-      "published": "2026-07-20T11:23:35+00:00",
-      "summary": "Life Has Life Been Found on Mars?&nbsp;&nbsp;Kyiv PostChina could be first to bring samples back from Mars&nbsp;&nbsp;The Globe and MailPurdue researcher discusses discovery of organic molecules on Mars&nbsp;&nbsp;WBIW",
-      "sources": [
-        {
-          "name": "Kyiv Post",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yOV9BTTZ5VFp6bG5IX1ctZ3g0QjZ3Vm1LTWlGRHRXY19DbjBEQzB3dXZkNzdzS1dkYThBSmpEUUp3Sm9kWVVjWHp1UQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "97a726b0b21d",
       "title": "Doctors Explain Why Strokes Are More Common In The Morning — And The Warning Signs You Should Never Ignore - HuffPost",
       "published": "2026-07-20T11:00:17+00:00",
@@ -650,30 +734,6 @@
         {
           "name": "HuffPost",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeDFuVDFjMzBXTng0WXdNeTAwOXFBOFFNei1WcGd5UzY2MXFTMGJxemg0ak9KcXYwcjI5T20yakF5YUhlemZfaUZSeHp2alZZTXd5SmxxZnFlckY0RWJ5b2xPRVJWRHhqNDEzV2V3TlFuQnZ1dkF6SGg4bDYwTHVZb21paXVPR1poU0VVakd30gGTAUFVX3lxTFBhQjZTMm9yN2JTM2h4cG9veEIxbWt6SVdEblp1YVZLMktTM25VTmZxN3puYmFrcEhNWnFTVjNlblZMSHE2U05QdlpZajBESkZDOEZISGs4UWhoWGJOOHRhV1hwZGdUWTAwUTNXQVNNUkJSTTJQUVlpX1JfQk96b2pfWFB1MTZha1J6RngzWjlFdk5HNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "083416be1d09",
-      "title": "‘A great tragedy’: $10.5M settlement reached after doctors missed N.J. lawyer’s lung cancer - NJ.com",
-      "published": "2026-07-20T11:00:00+00:00",
-      "summary": "‘A great tragedy’: $10.5M settlement reached after doctors missed N.J. lawyer’s lung cancer&nbsp;&nbsp;NJ.com",
-      "sources": [
-        {
-          "name": "NJ.com",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeFlIOTJlUmhPV2tOMW81Uk84ZVdITDY1MXQ3LW5jMno1cG9JR2hkYXUwZjlkNmFOUUF3al9XRnNfckE0YUNycG83NU1OQ0NmOUd0cUw3VWV1aWtRLUdRQWhFLW5Dd2VNczM5ZDJVck9GMHlObnROMjBSZlk4UHI2QjB0M1c2OXVLSjdWRWZ6dkI3ektkMGZ3bkY2RnU3ZDhRSHNITWRQTHAxaGQxUXBmd1pSc012dUlYOW8xbjRR0gHSAUFVX3lxTFBxMHVYS21OVlBOUnMxR3BiZXJEUkxDUGFjU1JCWlVjOEZzSFpmTnh4VmN5ODV3T19wRFN4NG5fbHlVN3JxLUlBSkplUnJfOFRXM0NZZEVSNTNYOEZIWUxYSi10bWYxTjAwVUduVTVmRk5FMHFEREljUTNkMlo2dVNhZzRHWGRteUs5ZGZOQUp6MHpCNmMtRk1yTTdscndldFlRM3lNbEhkTjl3aU16N1dGXy1iZjlEVjRQT1lpNm9JNmxGY1hlSV9za0Q2NHJlZEJVdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "161febb233f2",
-      "title": "Benin's presumed-dead coral reef rediscovered teeming with life - Oceanographic Magazine",
-      "published": "2026-07-20T10:51:42+00:00",
-      "summary": "Benin's presumed-dead coral reef rediscovered teeming with life&nbsp;&nbsp;Oceanographic MagazineLong Presumed Dead, a Thriving Coral Reef Is Discovered in West Africa&nbsp;&nbsp;Yale E360After More Than 60 Years Presumed-Dead A Coral Reef Is Alive and Thriving Off The Coast Of Benin&nbsp;&nbsp;IFLScience“It Was a Mix of Excitement and Disbelief”: When Scientists Sent Deep-Sea Rovers to Confirm a 1960s Theory, They Made a Surprising Discovery&nbsp;&nbsp;The DebriefCoral Reef Long Presumed Dead I",
-      "sources": [
-        {
-          "name": "Oceanographic Magazine",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbWE4MEo1OUlJSG9NeklYeVc1UEpqajJKc2toRHlEQW5UQ2d4YWZXbDVmZWlOa3hHMG1BUUItbzBVcGMzR21QZWR4YWJNMWFBRDR1NUplOFozSWs1dG9HZEtub1hRRTRMYm1wR01BQ2U4UTZaVDF4WkFnSWFHZzZEUGhpYkZOeHNHRklNR181amdIWjlucVdTd1VfbjlMWmZsQk5lMkxn?oc=5"
         }
       ]
     },
@@ -702,14 +762,14 @@
       ]
     },
     {
-      "id": "da0d5fecdeaa",
-      "title": "The Best Genetic Risk Tools Don’t Work Equally for Everyone - The New York Times",
-      "published": "2026-07-20T09:01:32+00:00",
-      "summary": "The Best Genetic Risk Tools Don’t Work Equally for Everyone&nbsp;&nbsp;The New York Times",
+      "id": "0825618fb1ca",
+      "title": "Scientists map how the flu virus rewires the human cell from the inside - Phys.org",
+      "published": "2026-07-20T09:00:04+00:00",
+      "summary": "Scientists map how the flu virus rewires the human cell from the inside&nbsp;&nbsp;Phys.orgMapping in-cell protein contact sites reveals hijacking of paraspeckles during influenza A virus infection&nbsp;&nbsp;NatureGerman biologists map how influenza virus hijacks human cells&nbsp;&nbsp;Новости GxPNew molecular map reveals how the flu virus hijacks human cells&nbsp;&nbsp;ScienceDailyEMBL Maps Influenza Virus Rewiring of Human Cells&nbsp;&nbsp;Zenopa",
       "sources": [
         {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOR0lmbUwtem5iVThONjNiZGY1eTdEMHppb0lBQXhEWFJtcnZhVnI2b0l4aUk0cHZiekRZTXc2dWxQRnNsZ0ZUV0hHSElfclYzZzVEbHZHSV9GM2FaOE5DY094dDlGcmp1UTAtTmRIOXdNVVdQSVVqLWFoU2xBd0pqNE03cWdsQQ?oc=5"
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaZ29nVHNJV0M1UVFSQi0xdGUwNzc2c2cydV8zLXg5cmlyRzYtTjJpNkR0Mk1IaThmcVZpcWdqb3l2TDhoQjhEa0JfQmNiTzhfbE1uenZsYW8yUkxZUVFidk9Id1VOQWhTWUh5TEpnUHNqVkJXb0FtWA?oc=5"
         }
       ]
     },
@@ -717,7 +777,7 @@
       "id": "611b5506e722",
       "title": "Medici ruler ‘killed with arsenic’ may have died from malaria - The Times",
       "published": "2026-07-20T08:25:51+00:00",
-      "summary": "Medici ruler ‘killed with arsenic’ may have died from malaria&nbsp;&nbsp;The TimesMedici family murder mystery may be solved after over 400 years with new DNA analysis&nbsp;&nbsp;CNNScientists link malaria to deaths of Francesco I de’ Medici and Bianca Cappello&nbsp;&nbsp;Межа. Новини України.Ancient DNA Finally Solves a 16th-Century Murder Mystery&nbsp;&nbsp;ScienceAlertArchaeology breakthrough: Scientists uncover shock cause of death for infamous Renaissance ruler&nbsp;&nbsp;GB News",
+      "summary": "Medici ruler ‘killed with arsenic’ may have died from malaria&nbsp;&nbsp;The TimesMedici family murder mystery may be solved after over 400 years with new DNA analysis&nbsp;&nbsp;CNNScientists link malaria to deaths of Francesco I de’ Medici and Bianca Cappello&nbsp;&nbsp;Межа. Новини України.Archaeology breakthrough: Scientists uncover shock cause of death for infamous Renaissance ruler&nbsp;&nbsp;GB NewsAncient DNA Finally Solves a 16th-Century Murder Mystery&nbsp;&nbsp;ScienceAlert",
       "sources": [
         {
           "name": "The Times",
@@ -726,34 +786,10 @@
       ]
     },
     {
-      "id": "178956f55cfa",
-      "title": "Physicists Have Argued Over This Problem Since 1883. It May Now Be Solved. - The New York Times",
-      "published": "2026-07-20T07:00:00+00:00",
-      "summary": "Physicists Have Argued Over This Problem Since 1883. It May Now Be Solved.&nbsp;&nbsp;The New York Times“Silly sprinklers” help scientists finally solve Feynman’s famous sprinkler mystery&nbsp;&nbsp;ScienceDailyFeynman Sprinkler Problem Solved: Momentum Flux, Not Fluid Swirl, Spins Both Ways&nbsp;&nbsp;Tech TimesMines researcher helps put “silly sprinklers” in reverse to unravel decades-old physics puzzle&nbsp;&nbsp;Mines NewsroomScientists used children’s ‘silly sprinklers’ to solve a physics p",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSV9vYXNTeFhZREd2aDd4OGNSV3VBbEgtaGFsWk8wSE1ad3BfaFozdUZfRElyYi1Ed0NWSDc1aTNDMk1lZHNBNzlPY3lGeF9HblZzSkNBOEJxM3Q0X3kxdnRyTGZ2S09KU0l1Y3JCQ2FsQ3dET1NtdWVKTngtYnBLemIzdm5QUkZv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d03ef770f136",
-      "title": "Spending more time in bright daylight could transform your sleep, according to new study - New York Post",
-      "published": "2026-07-20T06:46:00+00:00",
-      "summary": "Spending more time in bright daylight could transform your sleep, according to new study&nbsp;&nbsp;New York PostSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcTlPVWxtbDlvSW1IeGxDbDl4Q2VsbEhZWC1JWkQ3ZGtodUo4cXBtZkZGYnRlbVBxT0lqN1Ayb3c4UVR2UFJEdGY1bTlwcVJPUFdJZndtM1hOS2VWZGlNZHpTcU5laDczc0xQTkpIYTlmdGR3M1N3UHJlTHl2ek90VDY0ZXluN0t4LUZ0WUhuVjJCaXlhZmVMRkFOZDdVZHNMWl9WRWJYMXZmVHBrbTJMd3VEcllTdHFUellTNFF0SFh5cW8?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2fb1af1f88ee",
       "title": "Filtered coffee links to slower biological aging while instant coffee shows the opposite - News-Medical",
       "published": "2026-07-20T04:30:00+00:00",
-      "summary": "Filtered coffee links to slower biological aging while instant coffee shows the opposite&nbsp;&nbsp;News-MedicalCoffee may help the body fight stress and aging through a hidden cellular switch&nbsp;&nbsp;ScienceDailyOne Type Of Coffee Seems To Slow Ageing – But Another May Speed It Up&nbsp;&nbsp;HuffPost UKScientists Find That Compounds in Coffee May Activate a Cellular Aging Defense System Beyond Caffeine&nbsp;&nbsp;inklInstant vs filtered coffee: Which one affects how fast you age?&nbsp;&nbsp;",
+      "summary": "Filtered coffee links to slower biological aging while instant coffee shows the opposite&nbsp;&nbsp;News-MedicalCoffee may help the body fight stress and aging through a hidden cellular switch&nbsp;&nbsp;ScienceDailyOne Type Of Coffee Seems To Slow Ageing – But Another May Speed It Up&nbsp;&nbsp;HuffPost UKCoffee's biggest health secret may not be the caffeine, study finds&nbsp;&nbsp;NewsweekInstant vs filtered coffee: Which one affects how fast you age?&nbsp;&nbsp;Deccan Herald",
       "sources": [
         {
           "name": "News-Medical",
@@ -777,59 +813,11 @@
       "id": "3bab52ab3b79",
       "title": "WHO says almost half of dementia cases ‘preventable’ with new health guidelines - 7NEWS",
       "published": "2026-07-20T03:59:00+00:00",
-      "summary": "WHO says almost half of dementia cases ‘preventable’ with new health guidelines&nbsp;&nbsp;7NEWS6 Dementia Risk Factors You Can Change&nbsp;&nbsp;Time MagazineNew WHO guidelines: up to 45% of dementia risk could be prevented or delayed&nbsp;&nbsp;World Health Organization (WHO)New Dementia Prevention Guidelines Released&nbsp;&nbsp;MedPage TodayWHO dementia prevention guidelines update: What changed?&nbsp;&nbsp;Medical News Today",
+      "summary": "WHO says almost half of dementia cases ‘preventable’ with new health guidelines&nbsp;&nbsp;7NEWS6 Dementia Risk Factors You Can Change&nbsp;&nbsp;Time MagazineNew Dementia Prevention Guidelines Released&nbsp;&nbsp;MedPage TodayNew WHO guidelines: up to 45% of dementia risk could be prevented or delayed&nbsp;&nbsp;World Health Organization (WHO)WHO dementia prevention guidelines update: What changed?&nbsp;&nbsp;Medical News Today",
       "sources": [
         {
           "name": "7NEWS",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSExVaUhQUGE5a0dTT2NUWmxGbjNuRDZFT0tvVnViSERUZkFLV21PeVZQem1uVGM1MlhSNVFxbE9iRU5rdEpmaGZvR3VkbXplUFZMLTNaQ3ZHTEpVUGxybnlfdnlnSTJXLVlpZnlsYzhzZzdFT1MtaFhPSWFPNkw0eXdObUF2N2VNZm13MDA3RWM5RG1oQzJNWjZDSVlXS2hoZDBwUENTSG51ZDV3enhRZDIzSjnSAboBQVVfeXFMTV9WQ1lKcC1Rd0FtaUZackM2dFlqTnJ4N0JqV3pPSUxKVjlyU3M0ckhKNzVXbVVaOGxnanotMUk2SDRHQnFUcTl6dUFaUDNBbDNZb2dQMHhXOVVsZm9IcDE5MWN5djVkR2FIYVRDMGhmd21EalJYLW5oZk5UWExSU0hCSnRLR05pR2tBYVJTbjM5RnJvUmVkTDM5X1BYZER2YmY2dTNCSDdZdGdKdzlsUS1nZjdEa0FjQ053?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1670e5bc7baf",
-      "title": "Seattle breakthrough offers Spokane boy relief from rare hunger condition - KREM",
-      "published": "2026-07-19T22:10:00+00:00",
-      "summary": "Seattle breakthrough offers Spokane boy relief from rare hunger condition&nbsp;&nbsp;KREMFDA approves new therapy for obesity caused by brain injury&nbsp;&nbsp;NR TimesSetmelanotide cuts BMI in hypothalamic obesity trial&nbsp;&nbsp;the limbic‘Back to living life’: Spokane boy finds treatment to constant hunger caused by brain damage&nbsp;&nbsp;The Spokesman-ReviewSetmelanotide in Patients With Acquired Hypothalamic Obesity From Brain Tumors&nbsp;&nbsp;The ASCO Post",
-      "sources": [
-        {
-          "name": "KREM",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdUVZY0NjY3hjeXBxcDFvX2ZZejFyXzg0T2FYMUhyN1R6Z2Q4ZzVvUzZ5NjFfYzdkZGFKelhBam1hTjFoaW8xanlaYjlDbG1zTThUNFRUaHRKT2k1QXJPTFNPYlJtekFOLXdyM1Z4Q0VRYW0wWE5oT1B5UjU4cE1iMmtQV1VfdHVJbjczenk1U0VDRkVYRHVTQ19uT25rbWNUUlZMa2diUHptRzM2MHBDM19zeWJCNFRLY1NUV0F4M19wVUZYaDNMeGwyc0wyQmo2T3hfRmN2ZW9VQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fafffb56ac85",
-      "title": "How Flossing Impacts More Than Just Your Oral Health—What to Know - Real Simple",
-      "published": "2026-07-19T20:30:00+00:00",
-      "summary": "How Flossing Impacts More Than Just Your Oral Health—What to Know&nbsp;&nbsp;Real SimpleSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "Real Simple",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8ycDJhdVduUFRtRG5vdkYteVkxSFB4REZLdk04UnFmcHlpbGNTeDBNRnpGNVdaVU1mWmU5SEZycFJFLVE2ZjJYV1liVWVRQ21fZFFpc0NqX04zeDVDY2M4OUJiS0NZTmZrSDV6aW05SGpIZS0zNTVv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d80906c0b464",
-      "title": "An avocado a day keeps the doctor away: new study - New York Post",
-      "published": "2026-07-19T19:39:00+00:00",
-      "summary": "An avocado a day keeps the doctor away: new study&nbsp;&nbsp;New York PostHow 1 avocado a day may help reduce heart disease risk&nbsp;&nbsp;Medical News TodayAn avocado a day reduces bad cholesterol particles, heart disease risk in adults with obesity, study says&nbsp;&nbsp;LiveNOW from FOXCardiologists Named the Fruit That Helps Protect the Heart&nbsp;&nbsp;Inbox.euThe surprising connection between avocado and cognitive function&nbsp;&nbsp;The Jerusalem Post",
-      "sources": [
-        {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTThyUHp5VFBRUmM4NlhZM25fUDVKVE9uSVR1Q21ERzh1RHB3ODd0Z083YVd2YUhCS0E4NGtNTlhfR2tBUVd6UlhvMm5uWkdzcDRCX3pEcFhVMjVvU3Utajgxa3ExTEJvbmJHak1rTVE5SjJrSUVwdnZacjVpZ0dSd1Q5ZXZqNGE0QzRhMnFNYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "408aaad1ba03",
-      "title": "Samples reveal how Earth slows solar wind striking moon's near side - Phys.org",
-      "published": "2026-07-19T19:00:02+00:00",
-      "summary": "Samples reveal how Earth slows solar wind striking moon's near side&nbsp;&nbsp;Phys.orgChina’s Chang’e-6 reveals why solar wind hits the Moon’s two sides differently&nbsp;&nbsp;ScienceDailyEarth's magnetic shield slows the solar wind hitting the Moon&nbsp;&nbsp;Earth.comDeeper solar wind penetration on the Moon’s farside from noble gas records&nbsp;&nbsp;NatureEarth's Magnetosphere a Natural \"speed governor\", Chinese Study Reveals&nbsp;&nbsp;Chinese Academy of Sciences (CAS)",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjcTRNSzQ4c0NLS2Q4TmtjZUh3bW5kSERVbzdTTnhBU2xiYWZ1YldkcHNUOGF0VEhPbF9VRzVDNGFtNHZ1S19yZnF4VUczYU5KcHV6dnNHZWpBSWhJMGYtRW5xYkFidVJSUEZXMFUtVUl4Sjl4?oc=5"
         }
       ]
     }

@@ -1,43 +1,91 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-07-24T08:30:41.377637+00:00",
-  "total_fetched": 134,
-  "unique_count": 134,
-  "health_related_count": 61,
+  "fetched_at": "2026-07-24T13:49:32.441839+00:00",
+  "total_fetched": 138,
+  "unique_count": 138,
+  "health_related_count": 67,
   "news": [
     {
-      "id": "276184ab3ad7",
-      "title": "A Beaver County man is part of a clinical trial for a brain implant that collapses the time usually needed between surgery and radiation - Pittsburgh Post-Gazette",
-      "published": "2026-07-24T07:30:34+00:00",
-      "summary": "A Beaver County man is part of a clinical trial for a brain implant that collapses the time usually needed between surgery and radiation&nbsp;&nbsp;Pittsburgh Post-GazetteOHSU is first in Oregon to implant device in brain to treat tumor&nbsp;&nbsp;OHSU NewsPaving New ROADS in the Treatment of Brain Metastases With Implanted Tile-Based Radiation Therapy&nbsp;&nbsp;The ASCO PostBallad Health introduces GammaTile therapy for brain cancer patients&nbsp;&nbsp;Elizabethton StarGammaTile Redefines Post",
+      "id": "3e977ebcd7cd",
+      "title": "5 surprisingly simple ways to enjoy your vacation more - The Washington Post",
+      "published": "2026-07-24T13:38:10+00:00",
+      "summary": "5 surprisingly simple ways to enjoy your vacation more&nbsp;&nbsp;The Washington PostHow to maximise the mental health benefits of your vacation&nbsp;&nbsp;New ScientistPsychology says taking more short holidays may make you happier than one long vacation&nbsp;&nbsp;The Times of India",
       "sources": [
         {
-          "name": "Pittsburgh Post-Gazette",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaHBqQnBhb2tQc19EaWRVc0JURWt3NU05b1V4djAyc1VWZEN1cndycDB4UGY0R1pPUEotMnpLUWZsdmJaRllDSDU1eU4wTmNqYVVCVDduZkNodWdTM0xBR1pBTmtqMUk3cUFQQ0swUmlRQ2tBRUdoTVlSeTJYWDNubEhsM2lBMDVzaTRTam01Y05wdUhISXVIY2pJOFY?oc=5"
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPakk0azZkLTZRZWQySnNfRHM3Y0ljbzJyNkppVU1veUpkT2NLbVJPZzk4MS1WZE5hWGtGczhSMFlIa3RMaTdMRW5sMjk4YmswZXVCUnZJRkFzSkVjTlFaM1BwY1lwb0N0YVFpU0txQ21ZOHZoQV9yM2pkYXRNOWgwNHNZY0w2R2NfN3FqU0pRcDR5Q1dBcnBzMmFlc2tTYlBBTHZYbzYxRQ?oc=5"
         }
       ]
     },
     {
-      "id": "3032c5af5bce",
-      "title": "Dietitians Share 5 Nutrients You Need More of as You Age - Verywell Health",
-      "published": "2026-07-24T07:13:45+00:00",
-      "summary": "Dietitians Share 5 Nutrients You Need More of as You Age&nbsp;&nbsp;Verywell HealthHere’s what you need to know when prepping meals for older relatives&nbsp;&nbsp;The Washington PostHow nutritional needs change with age&nbsp;&nbsp;Terrell Tribune",
+      "id": "1f72d9942828",
+      "title": "As measles cases reach record highs, see your school’s vaccine rates - The Washington Post",
+      "published": "2026-07-24T13:32:36+00:00",
+      "summary": "As measles cases reach record highs, see your school’s vaccine rates&nbsp;&nbsp;The Washington PostMeasles surges dramatically in California among children and young adults&nbsp;&nbsp;Los Angeles TimesMeasles surge is threatening even highly vaccinated West Coast regions, officials say&nbsp;&nbsp;San Francisco ChronicleCovid-19 waking up, Cyclospora marches on, and measles is close to hitting a milestone&nbsp;&nbsp;Your Local EpidemiologistMeasles cases reach 35-year high&nbsp;&nbsp;The Hill",
       "sources": [
         {
-          "name": "Verywell Health",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVEs5cVZmWU9VbzlDLXpEeXRyQ1ZnN21TRkUxSmh5ZU93NjNLV2RudzV2a1pVaEo5ckJSSWFCWGJKa1FIcWpoMmxuOXlGTkVfeHVuX3dTNTBaeG0wQ2h1NjRyTFlwTDkxUlhOeDUzeG9NQ0xkb2duWHhRUUo1eUZNRw?oc=5"
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMmJzQUNYUjZuTFFTWDhRSENIdmRmZTA0dzlHTjZkbktmUnRvN0FpdTFZYkF6WG9raEluSUZxdldSNTRlRC1ld1FZSlA5ZjhGRWdwZ1JVUF90UTljd0g0TTJMYmJUWHJtNWtDc3RPMmdlTWthc2dBUWZuOEhneWVGZW5ERy1HVGUwUXdSMjNjMjF6S1BBODFtT1dhek9MbVFzU1kwMm1rdzhIRV9jMmF0UnpxYw?oc=5"
         }
       ]
     },
     {
-      "id": "e1a18f358e71",
-      "title": "The 5 Best Fruits for Better Brain Health, According to Experts - EatingWell",
-      "published": "2026-07-24T05:44:15+00:00",
-      "summary": "The 5 Best Fruits for Better Brain Health, According to Experts&nbsp;&nbsp;EatingWellSee more headlines & perspectives on Google News",
+      "id": "a3fa9c025b2e",
+      "title": "The latest science points to good news for your caffeine habit - The Washington Post",
+      "published": "2026-07-24T12:27:43+00:00",
+      "summary": "The latest science points to good news for your caffeine habit&nbsp;&nbsp;The Washington PostCoffee and heart health: How many cups of caffeinated coffee are safe to drink each day?&nbsp;&nbsp;www.heart.orgAmerican Heart Association Weighs In on Coffee Drinking&nbsp;&nbsp;MedPage TodayAmerican Heart Association to Coffee Fans: Go Ahead and Have 5 Cups a Day (as Long as You Also Do This)&nbsp;&nbsp;inc.comThe American Heart Association has a new number for daily coffee—and a warning if you go ove",
       "sources": [
         {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RalNoUzFHcmtKR0k1NERxbEdDaGhnbENPSDB5WVVRVnlGemhXRzlHc2sxOENKRmlGUFVnd0tiOFh4d2lFWlZfWlFWdnF5eUllTkZXZmtVbTJjR2VrSC1wQWxDTTFuc2d5TXFzMUNUVGFxQQ?oc=5"
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTDN4RTBiZ2xJb216MWlqNS13X0hEZnFETHIyMzlKcVcyU2tpSG1BSzN3aGFqb2tpZjVhLUEwM1djSW9XQ0QzUGlobzhmck5YNEtjRWVXYUFFUEtaMnEzMFNkM3E4UjA0akE0Y3pnbzhFSnRTYkFleXlxREd2bVotTkZWckdjY0hWOUZVRXVEeVJjYzZHeWlxUDN5WF8yTHhoNHdjT21B?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "58d16d900569",
+      "title": "‘Forever chemicals’ linked to gut inflammation in children after early exposure - The Guardian",
+      "published": "2026-07-24T11:01:00+00:00",
+      "summary": "‘Forever chemicals’ linked to gut inflammation in children after early exposure&nbsp;&nbsp;The GuardianEarly PFAS exposure linked to increased intestinal inflammation in children&nbsp;&nbsp;Innovation News NetworkMount Sinai Study Links Early-Life Exposure to PFAS (\"Forever Chemicals\") With Childhood Intestinal Inflammation&nbsp;&nbsp;Mount SinaiEarly PFAS exposure linked to childhood intestinal inflammation&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb0ZnampYRlkybmF6TFEtbXdMcENkLUUtdXhlQi1YS1E4WHo1SVFDN2ZDdVY2SzBJZGFRbnJpaTFwQjV6RE54M095OE5iVnNlUTlDanlLYkhEY3pWS3FNMldQZWJrU2ItOHlaQ1FpaUM3WGh1WjA3bmhKVnY2amFmTm1XT0R1QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5373f37c7cd2",
+      "title": "Does this disappearing organ hold the secret of longevity? - Al Jazeera",
+      "published": "2026-07-24T10:15:21+00:00",
+      "summary": "Does this disappearing organ hold the secret of longevity?&nbsp;&nbsp;Al JazeeraThymus hormone identified as key player in reversing age-related inflammation&nbsp;&nbsp;News-MedicalThymulin restrains age-associated myeloid inflammation and enhances cancer immunotherapy&nbsp;&nbsp;NatureScientists May Have Discovered How to Reverse Chronic Inflammation&nbsp;&nbsp;inc.comScientists May Have Found a Natural Defense Against Aging. There’s a Catch&nbsp;&nbsp;Newsweek",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNVJDWXNVSWViRFNGRkVqRlFzNzZsWDdla2dUa201NE9TSFk1ZUM5RWcwbUVTY25PQ0JleXZSdFVVUzRtNHk2X3BhSUg4Y0d4MmhYcnFpZkxzUnFIcVdIc2phVG1tcTVINkY5cmRlbnNGWV9lVHdWeHhZMGdISFVoaVVCRzJiUFY2OWdUcjh0SmdNdGhKREJ2bGRWMGZycnfSAaQBQVVfeXFMTjJORnAxMW82Z05kaFQ3WFYtVVhCSDljREprWXdtUHZDTmZQS24wWHFqbnFfcW91ZmREOHMyeG9WbzZ0UnZ4Y0xXSjlrOVFBa2o0WDNvZkRIZFR1Ni11N1p2dU1TbUlZcXJBdXNlVzNaSlBFZlF2clpFRlJBOVRTdkxzMk1LMFEtMzkwcWw1MW1VNHNhcmxiandmSUZGT0FZQk5HRDc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "337d2515e18b",
+      "title": "'It's not just an inconvenience': We've underestimated the health impacts of heavy periods - BBC",
+      "published": "2026-07-24T09:12:17+00:00",
+      "summary": "'It's not just an inconvenience': We've underestimated the health impacts of heavy periods&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHFJVXR6WGVOUUJpTHpYRTJBMjZ4ZTlNNzFhTjV3Z1NNaEV4TmF5ZFNWaE9Eak9lYXY2bmpGQVpFWndkWTZ0ZGhyS3YyN1NnUHAzbE4zdFhLM3A1eVZ6WTRrdllyVDk0bDRNWkpYeHpwalVkSVRTNkJXR0pieEJfQ2EyWmF4enZ3QWJXcEp4QlFxaFViZm1pckw1cVVUOXNoSVVjb0ZkdDk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d5d57e2fe246",
+      "title": "Woman may be only person in Utah diagnosed with rare, deadly disease - KUTV",
+      "published": "2026-07-24T04:01:31+00:00",
+      "summary": "Woman may be only person in Utah diagnosed with rare, deadly disease&nbsp;&nbsp;KUTV",
+      "sources": [
+        {
+          "name": "KUTV",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaXhQeS1DWlpIR2tCbVlWZWlaNXBpRjJoMklaX0I2WlhHVHlhV3FWWmFpODVHNXNxUUFSTG9CNVFvUVh1aXBtbnBkVDZGM0M2QmtJdTIteGZYSlRZVlExMnJ2LUZvazdlTHBSMWFDaF9KMjE5RjJLYkVFdUUyTl9qZ1BGQWF0U0REZ01EN0MwZ1diNVVndk5DUGRWMA?oc=5"
         }
       ]
     },
@@ -45,7 +93,7 @@
       "id": "09d00cdce55a",
       "title": "‘There’s no salary’: DRC health workers tell of hardship as Ebola spreads - Al Jazeera",
       "published": "2026-07-24T02:14:30+00:00",
-      "summary": "‘There’s no salary’: DRC health workers tell of hardship as Ebola spreads&nbsp;&nbsp;Al JazeeraBy the Numbers: This year’s Ebola outbreak has spread faster than the worst on record&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos‘We Will All Die From Ebola Here’: Virus Stalks Crowded Camps in Congo&nbsp;&nbsp;The New York TimesCongo: Ebola deaths increase to over 1,000&nbsp;&nbsp;DW.com“No One Knows When It Will End”: A Doctor on the Ebola Emergency&nbsp;&nbsp;The New Yorker",
+      "summary": "‘There’s no salary’: DRC health workers tell of hardship as Ebola spreads&nbsp;&nbsp;Al JazeeraBy the Numbers: This year’s Ebola outbreak has spread faster than the worst on record&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosWhat experts are saying as Ebola outbreak in Congo and Uganda kills more than 1,000 people&nbsp;&nbsp;PBS‘We Will All Die From Ebola Here’: Virus Stalks Crowded Camps in Congo&nbsp;&nbsp;The New York Times“No One Knows When It Will End”: A Doctor on the Ebola ",
       "sources": [
         {
           "name": "Al Jazeera",
@@ -54,10 +102,22 @@
       ]
     },
     {
+      "id": "24c01d080990",
+      "title": "CDC: ‘Disease detectives’ to investigate cyclosporiasis cases in Ohio - FOX 8 News",
+      "published": "2026-07-24T01:52:11+00:00",
+      "summary": "CDC: ‘Disease detectives’ to investigate cyclosporiasis cases in Ohio&nbsp;&nbsp;FOX 8 NewsOhio cyclospora cases double in a week as CDC sends investigators&nbsp;&nbsp;WLWTOhio cyclosporiasis cases surge to 2,576 in growing outbreak&nbsp;&nbsp;Cleveland.comVendors notice changes in food orders as Ohio cases of cyclosporiasis double&nbsp;&nbsp;10TVStark County's cyclosporiasis parasite cases jump again, nearly double&nbsp;&nbsp;Canton Repository",
+      "sources": [
+        {
+          "name": "FOX 8 News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWW0xZWRZMGhyeFR0WVVhMFBOclBuQzVBTEZxR2doemlPSFRPR2RSWWVrdHY5cS1iZXZhZmZzeHdWUUpFSGtrLUVCTll4cWlwazE2RlVGZWJUaTFDcmJxNnpaVE1Ud0I4cUZpWGUxeDk5T1I1czQ0Qm96ak5sVnV3cDU1TWR6ZzJabjFnM1FsSDlyek3SAZgBQVVfeXFMUDZBNXpjNW12LW9GUmNULVhMeVZoNF9pMjdyNVdCcjhvbkZPSTNMNndEWEdmUzhhWnlMUmRRamRISm5YeXdLVUVwWDVYNUJOZFR5MmNfWF9Db0R0d0Qxb1JMeXgyZTRxU203NnlSMjZBWWg5NFAwOXVueWhDZS1GQ3Y3THFGWEVsU3M5SXBaX05UVjBVQmlIMXI?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1e93e67993cd",
       "title": "Avian flu impacting milk production at Weber County dairies, officials declare emergency - KSL.com",
       "published": "2026-07-24T01:31:47+00:00",
-      "summary": "Avian flu impacting milk production at Weber County dairies, officials declare emergency&nbsp;&nbsp;KSL.comRisk for H5 bird flu in dairy cattle remains low&nbsp;&nbsp;countryman.com.auBird flu eases in Idaho dairy herds&nbsp;&nbsp;Capital PressH5N1 Bird Flu Has Now Hit Over 1,166 U.S. Dairy Herds Across 19 States, With Idaho Leading the Nation&nbsp;&nbsp;Medical Daily",
+      "summary": "Avian flu impacting milk production at Weber County dairies, officials declare emergency&nbsp;&nbsp;KSL.comRisk for H5 bird flu in dairy cattle remains low&nbsp;&nbsp;countryman.com.auBird flu eases in Idaho dairy herds&nbsp;&nbsp;Capital PressH5N1 Bird Flu Has Now Hit Over 1,166 U.S. Dairy Herds Across 19 States, With Idaho Leading the Nation&nbsp;&nbsp;Medical DailyRegional Emergency: Weber County Declares Emergency As Avian Flu Slashes Utah Milk Production&nbsp;&nbsp;en.edairynews.com",
       "sources": [
         {
           "name": "KSL.com",
@@ -81,11 +141,23 @@
       "id": "86d8c6aaaeb7",
       "title": "A Beaverton trampoline park is Oregon's latest measles exposure site - KGW",
       "published": "2026-07-24T01:00:00+00:00",
-      "summary": "A Beaverton trampoline park is Oregon's latest measles exposure site&nbsp;&nbsp;KGWBeaverton trampoline park latest Portland area measles exposure site&nbsp;&nbsp;KOIN.comLimited cooperation in some measles cases is making the virus harder to contain in Oregon&nbsp;&nbsp;Oregon Public Broadcasting - OPBBeaverton trampoline park identified as measles exposure site&nbsp;&nbsp;KPTVMeasles exposure reported at Beaverton Sky Zone trampoline park&nbsp;&nbsp;OregonLive.com",
+      "summary": "A Beaverton trampoline park is Oregon's latest measles exposure site&nbsp;&nbsp;KGWLimited cooperation in some measles cases is making the virus harder to contain in Oregon&nbsp;&nbsp;Oregon Public Broadcasting - OPBMeasles exposure at Beaverton trampoline park last Saturday, Oregon Health officials say&nbsp;&nbsp;KATUBeaverton trampoline park identified as measles exposure site&nbsp;&nbsp;KPTVBeaverton trampoline park latest Portland area measles exposure site&nbsp;&nbsp;KOIN.com",
       "sources": [
         {
           "name": "KGW",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMkJ4WEFud1U2WjBTbllpZWR3WEVmbGVaLW9EVEZLdHVKSmFhb2I1cFZJdDNmNUJLZlRPTHlwZDBSZ1BQY3FoSVQtZXZPM2E1R0RjcmVYalF4YnkyZ1ZvN0VWNVZxMlc5YkdMUGQxbU5mckZIMHRqYWlzYXFGNERKQ294RWdvOXJWcF9ONENCSmhYdUIwWUNMaDlDX0EzS0JHek40WHB5ZFkwRnVzUU5zdzlDS3ViaXVrOGplZlFsay1Jbjk4aFQyQWVueF8zckxqU3NwQ3lrYlhZQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ca2aae1843fa",
+      "title": "A Wild Parasite Makes Ants Live 10x Longer And Tricks Others Into Worshipping Them - ScienceAlert",
+      "published": "2026-07-24T00:59:21+00:00",
+      "summary": "A Wild Parasite Makes Ants Live 10x Longer And Tricks Others Into Worshipping Them&nbsp;&nbsp;ScienceAlertTapeworm hijacks worker ants, giving them queen-like metabolism and longer lives&nbsp;&nbsp;Phys.orgTapeworm discovered that makes its host live 10 times longer and prompts them to receive ‘royal treatment’&nbsp;&nbsp;The IndependentA worker ant of the species Temnothorx nylanderi infected with the tapeworm Anomotaenia brevis, recognizable by its yellowish coloration, alongside an uninfected",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRmEtZURGMUdYNmx3YVNDOHpkVEwtUTY0RTg2QnBBUkRXMnN4TmlCUjJvZm1kQ3N2ZmtSSVNndlFjVUk4QUNrNUZoX1I3VVI3OXhNb1JMTkF1am9uRXA2RlhZcUxIVWstZUJlbzBENDE3TTZZTXl0UUwyTWdDbUptMWV1Qm1aeU4tZmpyX3dTU3lwY1htN0pSOHRQcVdnM0lMNDNFUEdMbkx1NTk4Wm5VaHdOSXBEZlJmQ1JwQTc4akptX25jVm5NSjlJXzdzbU9J?oc=5"
         }
       ]
     },
@@ -114,10 +186,22 @@
       ]
     },
     {
+      "id": "b96640284071",
+      "title": "NASA telescope uncovers hidden planet using revolutionary method after years of cosmic hide-and-seek - FOX Weather",
+      "published": "2026-07-23T22:56:00+00:00",
+      "summary": "NASA telescope uncovers hidden planet using revolutionary method after years of cosmic hide-and-seek&nbsp;&nbsp;FOX WeatherNASA’s Webb Discovers Hidden Planet in Famous Star System&nbsp;&nbsp;NASA Science (.gov)NASA's Webb telescope wasn't looking for a new planet around Beta Pictoris — it was studying a known one — and found a giant world, Beta Pictoris d, lurking 63 light-years away inside a debris disk that had blocked every conventional search for more than a&nbsp;&nbsp;Space DailyFaint new ",
+      "sources": [
+        {
+          "name": "FOX Weather",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdXhrMXdDYzlPRVFLVjZseVhSaFlJb3ZZcUphQjBOQjdKTU8wTDFiZmpwY0Rqdk1zeVB5d1YtOERnTzJmSnBDei15SGlNdFlqY2JxdFl6cFNWSEhVclBIQVJjNDd6S19WWDFMYjdCV2Q5ZHlEeW1nSkJielAyQzFrMXFJRGVxWTA5MmtN?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0b06ebb2eedb",
       "title": "Researchers tag 42 sleeping giants in Arctic Circle – and make breathtaking discovery - BBC Wildlife Magazine",
       "published": "2026-07-23T22:00:00+00:00",
-      "summary": "Researchers tag 42 sleeping giants in Arctic Circle – and make breathtaking discovery&nbsp;&nbsp;BBC Wildlife MagazineSperm whales blow bubbles to achieve restful, vertical sleep&nbsp;&nbsp;Phys.orgBlowing bubbles helps vertical sperm whales sleep soundly&nbsp;&nbsp;The TimesSecrets of how sperm whales sleep revealed&nbsp;&nbsp;The TelegraphSperm Whale rest vertically (IMAGE)&nbsp;&nbsp;EurekAlert!",
+      "summary": "Researchers tag 42 sleeping giants in Arctic Circle – and make breathtaking discovery&nbsp;&nbsp;BBC Wildlife MagazineSperm whales blow bubbles to achieve restful, vertical sleep&nbsp;&nbsp;Phys.orgHow Do Sperm Whales Keep Their Massive, Wax-Filled Heads Beneath the Waves as They Sleep?&nbsp;&nbsp;YahooSperm whales release bubbles to regulate buoyancy and sleep floating vertically, scientists discover&nbsp;&nbsp;Sky NewsBlowing bubbles helps vertical sperm whales sleep soundly&nbsp;&nbsp;The Tim",
       "sources": [
         {
           "name": "BBC Wildlife Magazine",
@@ -150,10 +234,22 @@
       ]
     },
     {
+      "id": "2518a2b9035e",
+      "title": "Rabid bat confirmed in Painesville, first in Lake County since 2022 - FOX 8 News",
+      "published": "2026-07-23T19:56:45+00:00",
+      "summary": "Rabid bat confirmed in Painesville, first in Lake County since 2022&nbsp;&nbsp;FOX 8 NewsRabid bat found inside Painesville home&nbsp;&nbsp;Cleveland 19 NewsLake County General Health District issues warning after rabid bat found in Painesville home&nbsp;&nbsp;WKYCLake County confirms first rabid bat in four years after Painesville case&nbsp;&nbsp;Cleveland.comLake County confirms first rabid bat in 4 years&nbsp;&nbsp;Spectrum News",
+      "sources": [
+        {
+          "name": "FOX 8 News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU1VZMl9xYkR3VVZxbnB0ZndKaENhYl9Bc21hUlZkdDlBVVA1bHcxZm5pMmY4aGdPb1JvRDlNTHV3Rlh3SmI2QW9SeHlTZTVWaUw5WkNjbWpVNXZzaUVjM2tESGNPLXZRcm5JYVc3MEhPYldFaDhRZkxjRWVKZ0tjUHZyMUlkOS10X1ZxWE51al84WFXSAZgBQVVfeXFMUEVVMWtGbGtVUGUwZmlkS1oyLVdEWHFwaWpDQ2l2b1hadk5IXzlBQm5RR0VDVEowQXl3VkR4OEY3UXU2OUhRbEFnVjVaQlI4LTFCN1BmMUFVX3hMNjA0aFZnZ2RZUWgwYktpOGVmU0tTVmVVN1VKekFmX2VRbEowaHBHSk0yQUpjaDBvRm5ZQ3BMOHBHcWstODY?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3c7080498a50",
       "title": "Microplastics detected in most heart attack patients' blood in startling new study - Fox News",
       "published": "2026-07-23T19:23:54+00:00",
-      "summary": "Microplastics detected in most heart attack patients' blood in startling new study&nbsp;&nbsp;Fox NewsDo patients who suffer heart attack have more micro and nanoplastic in their blood? New study assessed&nbsp;&nbsp;The ConversationHealth Rounds: Environmental plastic may be cardiac risk factor, study suggests&nbsp;&nbsp;WTVBMicroplastics Found in 84% of Serious Heart Attack Patients&nbsp;&nbsp;SciTechDailyThe Emerging Link Between Microplastics and Heart Disease&nbsp;&nbsp;Time Magazine",
+      "summary": "Microplastics detected in most heart attack patients' blood in startling new study&nbsp;&nbsp;Fox NewsDo patients who suffer heart attack have more micro and nanoplastic in their blood? New study assessed&nbsp;&nbsp;The ConversationSTEMI Patients Are Awash in Microplastics&nbsp;&nbsp;MedscapeMicroplastics Found in 84% of Serious Heart Attack Patients&nbsp;&nbsp;SciTechDailyScientists Found That 84% Of Severe Heart Attack Patients Had This In Their Arteries&nbsp;&nbsp;MindBodyGreen",
       "sources": [
         {
           "name": "Fox News",
@@ -162,10 +258,34 @@
       ]
     },
     {
+      "id": "0d6ec0c175dc",
+      "title": "NASA's Perseverance rover finds the strongest evidence yet of ancient life on Mars - Earth.com",
+      "published": "2026-07-23T19:19:18+00:00",
+      "summary": "NASA's Perseverance rover finds the strongest evidence yet of ancient life on Mars&nbsp;&nbsp;Earth.comSomewhere in the dried bed of an ancient Martian river, the Perseverance rover has been drilling into rocks for more than four years — and last June, NASA scientists announced that two of them contain the same complex carbon-based molecules that form th&nbsp;&nbsp;Space DailyPurdue researcher discusses discovery of organic molecules on Mars&nbsp;&nbsp;WBIW",
+      "sources": [
+        {
+          "name": "Earth.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQjJuNzRwYldKMmVENjZDZ1hJSTNqR01BVTRMN2J4Z25RVnJrRE5UTG5wUWxKUDlKcm9UR1FPSWVqSUxBNjFmTFJGWktnY2tfY2sxSnQ2bjRIam10RDRQenBMdEVtZFcwMWNkTDZOSXhBY1B0bzRLckJoM3VTMUJubkhvd3hQYmltU2tOTTJhS0RITG1UMUV5cXJ6Mmg0azAtR3dKWUEzdzMtaS10OEdzelBERjY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4f3f44381eaa",
+      "title": "First-known freshwater contagious cancer spreading among catfish in Vermont lake - FOX Weather",
+      "published": "2026-07-23T19:13:00+00:00",
+      "summary": "First-known freshwater contagious cancer spreading among catfish in Vermont lake&nbsp;&nbsp;FOX WeatherBrown bullhead catfish melanoma represents a novel transmissible cancer&nbsp;&nbsp;NatureDeep in This Lake, a Contagious Cancer Is Spreading&nbsp;&nbsp;The New York TimesMore Like Parasites Than Tumors: Vermont Scientists Discover Transmissible Cancer in Catfish&nbsp;&nbsp;University of VermontScientists confirm rare 'parasite-like' cancer in bullhead from Lake Memphremagog&nbsp;&nbsp;Vermont P",
+      "sources": [
+        {
+          "name": "FOX Weather",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ0xJMmo0SVNPQnUxS1I1enZJazJxN19UeTl5dnlIS3JFenhRTm5nZGxLczdtTUNmZUY0SGFDS2RYWGN5eTFrOHNDTFFDMGdLZHNqSFJ2VDdtZWxCdGJrVXl4OHpoV25LVjloZ3ByUFRSNzJsQUFHYjUwTTZmRlZoVGFDdEhuSVFsbWNjZHhOdUt5S1FBN19TMTcwOFNNWlRhdHJPT1FrckfSAa4BQVVfeXFMT2ZQeUc4N3F5RlEtRVEtS2tnS3V4VXdkMU45ZXNkUXFCUzgtS2FWZVl4VjJYcDJQbmxhWkpZdEpDbV9TODh5U3gtRk9mMXpnRXZtUC1uTlppQzFfbkNvLTdBZ2tFQ21iTng5cU5WdG5lNzhIWENSTW1wMExubGk5bjhFMmxBd3h3UUlJTG90S3hxakJLWU1SNUUxaUVxUGpfUUJoVlFtNjlYX1h6NTdR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "341f24418eaa",
       "title": "Horrifying effects of rare cancer killing children in elite California enclave revealed by experts - Yahoo",
       "published": "2026-07-23T18:19:32+00:00",
-      "summary": "Horrifying effects of rare cancer killing children in elite California enclave revealed by experts&nbsp;&nbsp;YahooSouthern California suburb alarmed as ‘exceptionally rare’ cancer sickens multiple children&nbsp;&nbsp;The GuardianLadera Ranch residents, public officials call for halt to pesticide use&nbsp;&nbsp;Orange County RegisterChild cancer cases in Orange County community elicit strong concerns, demand for federal investigation&nbsp;&nbsp;CBS NewsOC families share experiences of rare cance",
+      "summary": "Horrifying effects of rare cancer killing children in elite California enclave revealed by experts&nbsp;&nbsp;YahooSouthern California suburb alarmed as ‘exceptionally rare’ cancer sickens multiple children&nbsp;&nbsp;The GuardianLadera Ranch residents, public officials call for halt to pesticide use&nbsp;&nbsp;Orange County RegisterLadera Ranch cluster of child cancer cases prompts residents to speak out at town hall&nbsp;&nbsp;ABC7 Los AngelesOC families share experiences of rare cancer as lin",
       "sources": [
         {
           "name": "Yahoo",
@@ -201,7 +321,7 @@
       "id": "e0270c1d8596",
       "title": "Dermatologist Reveals The Major Red Flag On Your Skin That Could Signal Heart Problems - Bored Panda",
       "published": "2026-07-23T16:59:22+00:00",
-      "summary": "Dermatologist Reveals The Major Red Flag On Your Skin That Could Signal Heart Problems&nbsp;&nbsp;Bored PandaSee more headlines & perspectives on Google News",
+      "summary": "Dermatologist Reveals The Major Red Flag On Your Skin That Could Signal Heart Problems&nbsp;&nbsp;Bored PandaBurden of myocardial dysfunction elevated for individuals with psoriasis&nbsp;&nbsp;Medical XpressSkin Issues Can Signal Heart Problems. Dermatologist Reveals the No. 1 Sign to Look For&nbsp;&nbsp;TODAY.comSkin calls to the heart: a common thread links the condition to the risk of arrhythmias and heart attacks&nbsp;&nbsp;Il Sole 24 OREWhat Healthy Skin Can Tell You About Overall Health&nb",
       "sources": [
         {
           "name": "Bored Panda",
@@ -246,14 +366,38 @@
       ]
     },
     {
+      "id": "cbc5679de133",
+      "title": "MAP UPDATE: 50 buildings in Manhattan outbreak zone test positive for live bacteria - NBC New York",
+      "published": "2026-07-23T14:43:20+00:00",
+      "summary": "MAP UPDATE: 50 buildings in Manhattan outbreak zone test positive for live bacteria&nbsp;&nbsp;NBC New York5 dead, 82 sick in Upper East Side Legionnaires’ disease outbreak&nbsp;&nbsp;GothamistMamdani battles politics tied to Legionnaires', failed Israeli PM arrest threat&nbsp;&nbsp;Spectrum News NY1Legionnaires disease NYC: Council speaker Menin blames Mayor Mamdani administration as death toll rises to 5&nbsp;&nbsp;ABC7 New YorkLegionnaires’ tragedy warns US voters that unserious leaders can b",
+      "sources": [
+        {
+          "name": "NBC New York",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZDJKZ2FBLXpicTlIMnZtWjBzd3VyS1FqUnpYcVlBTDBUdnhaN3hXeTZqcHpJZ3hxaS1GQ3BMTWI1TW4tLW83dlBvempKZk04TGZNTHVxd3A2NUJJWDZIUlZ5YmRYMDNhT0ozQnBINXNLVWtWNDJ3dnpQUWRINzRHRjRidDNZVnozR0sxVmt2dWJHTWQtM3RCRkNiSG43NExVRkdLdE5CTkxzb3N0SDNqckxsRHRVbF9RUWR3UktpZ9IBxwFBVV95cUxNOTlqcmFOcVlpcEhyWDRtREdUX1lVbFM2STl4SzlvbGxIMmhUVlV3OVlPRzRDR2FmVlFOckstYzFUSS1xYlhKMEdibWoyMFhIQ1JkWlluNTc1ZEhXOFhuU3BVVTh6VnhvWWVyWUJpRFFmbVpacVE3aGRqVDNFQWpCSGZHbjMxSjQzaDAzamJkaUMwTG5FUUZwbF8yNDRodUZ1cHJ3TlBpZFdUeWhBV09QTzBLbGVfd2tweTNiX19YWTB6aTRnUEVR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "92cf4d2a5bbc",
       "title": "How the heart's 'little brain' helps it function and protects it against stress - Medical Xpress",
       "published": "2026-07-23T14:28:55+00:00",
-      "summary": "How the heart's 'little brain' helps it function and protects it against stress&nbsp;&nbsp;Medical XpressScientists discover a surprising 'brain' hidden inside the heart: Formed by neurons, it controls the heartbeat and protects the organ during stressful situations&nbsp;&nbsp;The Times of IndiaTwo heart nerve cell types sustain cardiac stability in mice&nbsp;&nbsp;News-MedicalOur Heart Has A 'Little Brain'. New Study Reveals How It May Protect Us During Stress&nbsp;&nbsp;News18Scientists Discov",
+      "summary": "How the heart's 'little brain' helps it function and protects it against stress&nbsp;&nbsp;Medical XpressTwo heart nerve cell types sustain cardiac stability in mice&nbsp;&nbsp;News-MedicalScientists discover a surprising 'brain' hidden inside the heart: Formed by neurons, it controls the heartbeat and protects the organ during stressful situations&nbsp;&nbsp;The Times of IndiaOur Heart Has A 'Little Brain'. New Study Reveals How It May Protect Us During Stress&nbsp;&nbsp;News18Scientists discov",
       "sources": [
         {
           "name": "Medical Xpress",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nLU43akhlVEJWaUR4SnNCVWpTbkJCM1VNY2ZqYXpDQ1BVU1VGOFpUMHBlVXprTlludGpmc2hYR1RycFNfdi10NkliY1pPT0VFNnNqR0Rwc0lRVEE0dkNXVTFmbUg0cE9fYkxSaHRIRTc3NjNxUW5hb0NsYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "276184ab3ad7",
+      "title": "A Beaver County man is part of a clinical trial for a brain implant that collapses the time usually needed between surgery and radiation - Pittsburgh Post-Gazette",
+      "published": "2026-07-23T14:18:07+00:00",
+      "summary": "A Beaver County man is part of a clinical trial for a brain implant that collapses the time usually needed between surgery and radiation&nbsp;&nbsp;Pittsburgh Post-GazetteOHSU is first in Oregon to implant device in brain to treat tumor&nbsp;&nbsp;OHSU NewsPaving New ROADS in the Treatment of Brain Metastases With Implanted Tile-Based Radiation Therapy&nbsp;&nbsp;The ASCO PostBallad Health introduces GammaTile therapy for brain cancer patients&nbsp;&nbsp;Elizabethton StarGammaTile Redefines Post",
+      "sources": [
+        {
+          "name": "Pittsburgh Post-Gazette",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaHBqQnBhb2tQc19EaWRVc0JURWt3NU05b1V4djAyc1VWZEN1cndycDB4UGY0R1pPUEotMnpLUWZsdmJaRllDSDU1eU4wTmNqYVVCVDduZkNodWdTM0xBR1pBTmtqMUk3cUFQQ0swUmlRQ2tBRUdoTVlSeTJYWDNubEhsM2lBMDVzaTRTam01Y05wdUhISXVIY2pJOFY?oc=5"
         }
       ]
     },
@@ -273,7 +417,7 @@
       "id": "c9ab569dace9",
       "title": "Dinosaur-era fossil provides insight into snake evolution - Reuters",
       "published": "2026-07-23T14:05:29+00:00",
-      "summary": "Dinosaur-era fossil provides insight into snake evolution&nbsp;&nbsp;ReutersExceptional brain and ecological diversity in the earliest snakes&nbsp;&nbsp;NatureA rare 3-D snake fossil is ssspilling sssecrets of its unusual lifestyle&nbsp;&nbsp;Science NewsUnraveling Secrets: The Evolutionary Journey of Tametara Snakes&nbsp;&nbsp;Devdiscourse80‑million‑year‑old snake fossil sheds light on why lizards lost their limbs and started slithering&nbsp;&nbsp;Phys.org",
+      "summary": "Dinosaur-era fossil provides insight into snake evolution&nbsp;&nbsp;ReutersExceptional brain and ecological diversity in the earliest snakes&nbsp;&nbsp;NatureA rare 3-D snake fossil is ssspilling sssecrets of its unusual lifestyle&nbsp;&nbsp;Science NewsDid Early Snakes Burrow, Swim or Crawl? 80‑Million‑Year‑Old Fossil Suggests: All Three&nbsp;&nbsp;Sci.NewsA stunning discovery from the Cretaceous period: an 85-million-year-old snake fossil redraws the history of reptiles&nbsp;&nbsp;صوت الإمارا",
       "sources": [
         {
           "name": "Reuters",
@@ -309,7 +453,7 @@
       "id": "79e9b6b0b4fe",
       "title": "Humans could theoretically live up to 156 years, study says - KTLA",
       "published": "2026-07-23T13:04:10+00:00",
-      "summary": "Humans could theoretically live up to 156 years, study says&nbsp;&nbsp;KTLAScientists reveal maximum age humans could live to if we can cure ageing&nbsp;&nbsp;The IndependentUltimate Limit of The Human Lifespan May Be Identified, Study Suggests&nbsp;&nbsp;ScienceAlertNew Research Reveals How Humans Could Live Up to 156 Years&nbsp;&nbsp;NewsweekTwo Anti-Aging Studies Fuel 250-Year Claims and Crypto’s Longevity Bet&nbsp;&nbsp;Cryptonews.net",
+      "summary": "Humans could theoretically live up to 156 years, study says&nbsp;&nbsp;KTLAScientists reveal maximum age humans could live to if we can cure ageing&nbsp;&nbsp;The IndependentUltimate Limit of The Human Lifespan May Be Identified, Study Suggests&nbsp;&nbsp;ScienceAlertNew Research Reveals How Humans Could Live Up to 156 Years&nbsp;&nbsp;NewsweekThe absolute longest humans could live — even if we beat aging: study&nbsp;&nbsp;New York Post",
       "sources": [
         {
           "name": "KTLA",
@@ -330,22 +474,10 @@
       ]
     },
     {
-      "id": "27a79e2c0002",
-      "title": "American Heart Association to Coffee Fans: Go Ahead and Have 5 Cups a Day (as Long as You Also Do This) - inc.com",
-      "published": "2026-07-23T12:57:44+00:00",
-      "summary": "American Heart Association to Coffee Fans: Go Ahead and Have 5 Cups a Day (as Long as You Also Do This)&nbsp;&nbsp;inc.comCoffee and heart health: How many cups of caffeinated coffee are safe to drink each day?&nbsp;&nbsp;www.heart.orgAHA Finally Comes Out in Favor of Coffee&nbsp;&nbsp;MedscapeFive Cups of Coffee a Day Is Fine for Most Adults, Heart Association Says&nbsp;&nbsp;WSJThe American Heart Association has a new number for daily coffee—and a warning if you go over it&nbsp;&nbsp;Fortune",
-      "sources": [
-        {
-          "name": "inc.com",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWEMxMUlHM3hpdmZhNTAyell2ak1qNGFDeE9ybVhIdTRaRXF0LVdDSFVLa3hidWJNRWswNVBIbzBTemh2ei04ZlR6cDl4b1dMSkhiU2M5TW81TVp2UjZGUXc4OTVOT21ROXpPNURtWDVFSEIzN2lSOTJkdWNaNk9hRGFXdlhKUXhkV25WRGRXSzUtVklCVldTTDZNS1BrSXRCNGFMVVVMLUN2ZmxBSms3LWlxRlBuSlM3UDhWa0ZRcUtxTmgzdW1kQlN6YzNIMTRORXZxYTRlQXR1Skk4MlRn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c6442ff47bc8",
       "title": "Risk of Parkinson’s disease may increase with prolonged exposure to road traffic noise - The Guardian",
       "published": "2026-07-23T12:56:00+00:00",
-      "summary": "Risk of Parkinson’s disease may increase with prolonged exposure to road traffic noise&nbsp;&nbsp;The GuardianLiving in a neighborhood with traffic noise may increase Parkinson's disease risk over time&nbsp;&nbsp;Medical XpressLiving near noisy traffic could increase Parkinson’s risk, study finds&nbsp;&nbsp;Euronews.comScience Links Traffic Noise To Higher Risks Of Parkinson’s And Poorer Brain Health&nbsp;&nbsp;Luxurious MagazineTraffic noise may increase Parkinson’s risk, study suggests&nbsp;&n",
+      "summary": "Risk of Parkinson’s disease may increase with prolonged exposure to road traffic noise&nbsp;&nbsp;The GuardianLiving in a neighborhood with traffic noise may increase Parkinson's disease risk over time&nbsp;&nbsp;Medical XpressScience Links Traffic Noise To Higher Risks Of Parkinson’s And Poorer Brain Health&nbsp;&nbsp;Luxurious MagazineLink found between road traffic noise and Parkinson's disease | The Guardian - newspaper&nbsp;&nbsp;MagzterTraffic noise may increase Parkinson’s risk, study sug",
       "sources": [
         {
           "name": "The Guardian",
@@ -357,7 +489,7 @@
       "id": "9de207fb2f53",
       "title": "Popular childhood drinks may raise blood pressure decades later - ScienceDaily",
       "published": "2026-07-23T12:36:29+00:00",
-      "summary": "Popular childhood drinks may raise blood pressure decades later&nbsp;&nbsp;ScienceDailyHarvard study: Early sweet-drink habits tied to high blood pressure later in life&nbsp;&nbsp;Harvard HealthSkipping soda now may help kids avoid high blood pressure later&nbsp;&nbsp;Safety+Health MagazineSugary Drinks in Childhood Linked to Adult Hypertension&nbsp;&nbsp;Mirage News",
+      "summary": "Popular childhood drinks may raise blood pressure decades later&nbsp;&nbsp;ScienceDailyHarvard study: Early sweet-drink habits tied to high blood pressure later in life&nbsp;&nbsp;Harvard HealthSkipping soda now may help kids avoid high blood pressure later&nbsp;&nbsp;Safety+Health MagazineChildhood Sweet-Drink Habits Linked to High Blood Pressure Later in Life&nbsp;&nbsp;Technology NetworksScientist issues blood pressure warning for popular children’s drinks&nbsp;&nbsp;Yahoo News UK",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -369,7 +501,7 @@
       "id": "65abdd9b0160",
       "title": "Delaware confirms first case of cyclosporiasis amid parasitic infection - 6abc Philadelphia",
       "published": "2026-07-23T12:36:23+00:00",
-      "summary": "Delaware confirms first case of cyclosporiasis amid parasitic infection&nbsp;&nbsp;6abc Philadelphia11 cyclosporiasis cases confirmed in Shelby County, health officials say&nbsp;&nbsp;WREG.comErie County reports another rise in cyclosporiasis cases&nbsp;&nbsp;Erie Times-NewsThe latest on cyclosporiasis in Hamilton County and across the U.S.&nbsp;&nbsp;WVXUShelby County cyclosporiasis cases rise to 11&nbsp;&nbsp;Action News 5",
+      "summary": "Delaware confirms first case of cyclosporiasis amid parasitic infection&nbsp;&nbsp;6abc Philadelphia11 cyclosporiasis cases confirmed in Shelby County, health officials say&nbsp;&nbsp;WREG.comThe latest on cyclosporiasis in Hamilton County and across the U.S.&nbsp;&nbsp;WVXUErie County reports another rise in cyclosporiasis cases&nbsp;&nbsp;Erie Times-NewsShelby County cyclosporiasis cases rise to 11&nbsp;&nbsp;Action News 5",
       "sources": [
         {
           "name": "6abc Philadelphia",
@@ -381,7 +513,7 @@
       "id": "7a3fa447bc2a",
       "title": "GLP-1 drugs linked to “low” but real risk of hair loss, study finds - Euronews.com",
       "published": "2026-07-23T12:15:28+00:00",
-      "summary": "GLP-1 drugs linked to “low” but real risk of hair loss, study finds&nbsp;&nbsp;Euronews.comHair loss with GLP-1 drugs is rare, but real, studies find&nbsp;&nbsp;ReutersHair loss risk goes up on GLP-1 drugs, BMJ study finds&nbsp;&nbsp;Global NewsOzempic may have a scary effect on your hair&nbsp;&nbsp;Fast CompanyWeight loss drugs linked to increased risk of hair loss, researchers say&nbsp;&nbsp;Sky News",
+      "summary": "GLP-1 drugs linked to “low” but real risk of hair loss, study finds&nbsp;&nbsp;Euronews.comWeight loss drugs linked to loss of hair in major new study&nbsp;&nbsp;The IndependentOzempic and Mounjaro linked to a surprising hair loss risk&nbsp;&nbsp;ScienceDailyLosing weight or losing hair? New research addresses the link between weight-loss drugs and hair loss&nbsp;&nbsp;The Times of IndiaMirrorlights: Hair loss with GLP-1 drugs is rare, but real, studies find&nbsp;&nbsp;Bangalore Mirror",
       "sources": [
         {
           "name": "Euronews.com",
@@ -393,11 +525,23 @@
       "id": "d482a0a40024",
       "title": "Simple Diet Change has the ‘Superpower’ to Lower LDL Cholesterol Naturally, Doctor says - TODAY.com",
       "published": "2026-07-23T12:00:00+00:00",
-      "summary": "Simple Diet Change has the ‘Superpower’ to Lower LDL Cholesterol Naturally, Doctor says&nbsp;&nbsp;TODAY.comHow much fiber do you need in a day? We asked a gastroenterologist.&nbsp;&nbsp;Popular ScienceFiber Innovation Goes Mainstream as Brands Close the Nutrition Gap&nbsp;&nbsp;Prepared FoodsAre you eating too much fiber?&nbsp;&nbsp;Harvard HealthFiber demand soars in GLP-1 companion products, synbiotic gummies & precision prebiotics&nbsp;&nbsp;Nutrition Insight",
+      "summary": "Simple Diet Change has the ‘Superpower’ to Lower LDL Cholesterol Naturally, Doctor says&nbsp;&nbsp;TODAY.comFiber 101: How to Increase Your Fiber Intake Without Overdoing It&nbsp;&nbsp;Everyday HealthAre you eating too much fiber?&nbsp;&nbsp;Harvard Health70% of US consumers boost fiber intake&nbsp;&nbsp;eMarketerFiber demand soars in GLP-1 companion products, synbiotic gummies & precision prebiotics&nbsp;&nbsp;Nutrition Insight",
       "sources": [
         {
           "name": "TODAY.com",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOWxtaUN1ZjEtSTF5YWp4NlljTkFpQ09xWXIybkRUMWV2Tzk5a1ZZeThKMGpzZkVmbmI5QWpfNFdHckdaTFFZTU1ldjA0SnV4bUctZjJrVkV4MEhiTDBvem83TUVBMU5SYXJIQV9PcUNSak9EY2pwM1NETC0ydWFEV2dxZTZWMmVkZHNsNjBaYk9PMnJuMG9VYQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a6dd0ed8b0bd",
+      "title": "Could Young Stem Cells Be the Key to Healthier Aging? - SciTechDaily",
+      "published": "2026-07-23T11:49:36+00:00",
+      "summary": "Could Young Stem Cells Be the Key to Healthier Aging?&nbsp;&nbsp;SciTechDailyHow we know that aging is a biological function, and why it matters&nbsp;&nbsp;ScienceBlog.comRejuvenation science: Rewinding biological clock works for mice, not yet for humans&nbsp;&nbsp;Piedmont Exedra",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOalk2OTJ3U2xRN2RPTk5xOXRwQ0tseUJpeFNDN1EwbDhSRUh1a0I2bTdGLUFadWZQNmZlUDZub0o3dGhWbTN0UVlGRzFFQXhDMm45SFVCTkdSQTRlU0lfQ3YwSTlBUjd1MDJWVmFXNnZRem0tYzZpY1pkX0t4N3M0WUZRNFM?oc=5"
         }
       ]
     },
@@ -417,7 +561,7 @@
       "id": "930b54d888c7",
       "title": "S.F. HIV groups ‘stunned’ by latest grant cuts after Trump vowed to ‘defeat AIDS’ - San Francisco Chronicle",
       "published": "2026-07-23T11:05:06+00:00",
-      "summary": "S.F. HIV groups ‘stunned’ by latest grant cuts after Trump vowed to ‘defeat AIDS’&nbsp;&nbsp;San Francisco Chronicle1,700 H.I.V. Treatment Sites Closed After Trump Aid Cuts, a Study Finds&nbsp;&nbsp;The New York TimesTaking the Pulse of PEPFAR&nbsp;&nbsp;amfAR, The Foundation for AIDS ResearchTrump administration puts kibosh on HIV prevention funding&nbsp;&nbsp;Roll CallUS actions harm global efforts to prevent and treat HIV in dozens of countries, new report says&nbsp;&nbsp;AP News",
+      "summary": "S.F. HIV groups ‘stunned’ by latest grant cuts after Trump vowed to ‘defeat AIDS’&nbsp;&nbsp;San Francisco ChronicleMinneapolis HIV prevention programs at risk with federal funding changes&nbsp;&nbsp;MPR News1,700 H.I.V. Treatment Sites Closed After Trump Aid Cuts, a Study Finds&nbsp;&nbsp;The New York TimesAliveness Project says it's losing $450K a year in HIV prevention funding as CDC ends community grant program&nbsp;&nbsp;CBS NewsTrump administration puts kibosh on HIV prevention funding&nbs",
       "sources": [
         {
           "name": "San Francisco Chronicle",
@@ -429,7 +573,7 @@
       "id": "e64a613b38ea",
       "title": "Brewer woman shares story of her husband’s death from Powassan infection - WABI",
       "published": "2026-07-23T10:29:00+00:00",
-      "summary": "Brewer woman shares story of her husband’s death from Powassan infection&nbsp;&nbsp;WABIMaine reports another case of rare tick-borne disease&nbsp;&nbsp;WGMEMaine woman shares story of her husband's death from Powassan infection&nbsp;&nbsp;WMTWThird case of Powassan virus confirmed in Maine this year&nbsp;&nbsp;Maine PublicAnother person in Maine sickened by the rare Powassan virus&nbsp;&nbsp;WMTW",
+      "summary": "Brewer woman shares story of her husband’s death from Powassan infection&nbsp;&nbsp;WABIMaine reports another case of rare tick-borne disease&nbsp;&nbsp;WGMEMaine woman shares story of her husband's death from Powassan infection&nbsp;&nbsp;WMTW3rd case of Powassan virus confirmed in Maine this year&nbsp;&nbsp;Bangor Daily NewsMaine reports 3rd Powassan virus case, this one in Lincoln County&nbsp;&nbsp;Outbreak News Today",
       "sources": [
         {
           "name": "WABI",
@@ -441,7 +585,7 @@
       "id": "7bc096b40255",
       "title": "More lone star ticks, which cause red meat allergy, show up in Wisconsin - Milwaukee Journal Sentinel",
       "published": "2026-07-23T10:03:00+00:00",
-      "summary": "More lone star ticks, which cause red meat allergy, show up in Wisconsin&nbsp;&nbsp;Milwaukee Journal SentinelBrown County warns of increasing tick and mosquito threats&nbsp;&nbsp;WFRV Local 5Amid summer surge, Wisconsin scientists need tick samples&nbsp;&nbsp;VernonReporterAggressive Lone Star Tick closing in on Wisconsin&nbsp;&nbsp;Madison 365",
+      "summary": "More lone star ticks, which cause red meat allergy, show up in Wisconsin&nbsp;&nbsp;Milwaukee Journal SentinelSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "Milwaukee Journal Sentinel",
@@ -477,7 +621,7 @@
       "id": "fc6188a88646",
       "title": "How to navigate the confusing world of artificial sweeteners - USA Today",
       "published": "2026-07-23T09:00:00+00:00",
-      "summary": "How to navigate the confusing world of artificial sweeteners&nbsp;&nbsp;USA TodayStudy finds some sweeteners can slow the growth of gut bacteria&nbsp;&nbsp;News-MedicalScientists tested 39 sweeteners and found unexpected gut effects&nbsp;&nbsp;ScienceDailyMixing Sweeteners and Antidepressants Could Be Quietly Altering Your Microbiome&nbsp;&nbsp;Technology NetworksScientists Find Surprising Link Between Popular Sugar Substitutes and Poor Health&nbsp;&nbsp;Prevention",
+      "summary": "How to navigate the confusing world of artificial sweeteners&nbsp;&nbsp;USA TodaySweeteners may slow down growth of gut bacteria&nbsp;&nbsp;NewsNationScientists tested 39 sweeteners and found unexpected gut effects&nbsp;&nbsp;ScienceDailyMixing Sweeteners and Antidepressants Could Be Quietly Altering Your Microbiome&nbsp;&nbsp;Technology NetworksStudy finds some sweeteners can slow the growth of gut bacteria&nbsp;&nbsp;News-Medical",
       "sources": [
         {
           "name": "USA Today",
@@ -501,7 +645,7 @@
       "id": "1676db6cd88d",
       "title": "NHS rolls out ‘life-changing’ drug to help multiple sclerosis patients walk - The Independent",
       "published": "2026-07-23T07:39:00+00:00",
-      "summary": "NHS rolls out ‘life-changing’ drug to help multiple sclerosis patients walk&nbsp;&nbsp;The Independent'Life-changing' MS drug to help people walk now on NHS in England&nbsp;&nbsp;BBC'Life-changing' drug to help MS patients walk available to thousands on NHS&nbsp;&nbsp;Sky NewsPeople with MS in England to be given fampridine as several generics gain MHRA approval&nbsp;&nbsp;The Pharmaceutical JournalAs patents expire, fampridine is cleared for NHS use in MS&nbsp;&nbsp;pharmaphorum",
+      "summary": "NHS rolls out ‘life-changing’ drug to help multiple sclerosis patients walk&nbsp;&nbsp;The Independent'Life-changing' MS drug to help people walk now on NHS in England&nbsp;&nbsp;BBC'Life-changing' drug to help MS patients walk available to thousands on NHS&nbsp;&nbsp;Sky NewsPeople with MS in England to be given fampridine as several generics gain MHRA approval&nbsp;&nbsp;The Pharmaceutical JournalThousands of people with MS will be able to access treatment to improve walking&nbsp;&nbsp;Open Ac",
       "sources": [
         {
           "name": "The Independent",
@@ -510,10 +654,22 @@
       ]
     },
     {
+      "id": "3032c5af5bce",
+      "title": "Dietitians Share 5 Nutrients You Need More of as You Age - Verywell Health",
+      "published": "2026-07-23T07:00:00+00:00",
+      "summary": "Dietitians Share 5 Nutrients You Need More of as You Age&nbsp;&nbsp;Verywell HealthHere’s what you need to know when prepping meals for older relatives&nbsp;&nbsp;The Washington PostHow nutritional needs change with age&nbsp;&nbsp;Terrell Tribune",
+      "sources": [
+        {
+          "name": "Verywell Health",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVEs5cVZmWU9VbzlDLXpEeXRyQ1ZnN21TRkUxSmh5ZU93NjNLV2RudzV2a1pVaEo5ckJSSWFCWGJKa1FIcWpoMmxuOXlGTkVfeHVuX3dTNTBaeG0wQ2h1NjRyTFlwTDkxUlhOeDUzeG9NQ0xkb2duWHhRUUo1eUZNRw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0958349fd2de",
       "title": "Department of Health confirms first case of Clade I mpox in Arizona but says public risk low - KTAR News 92.3 FM",
       "published": "2026-07-23T03:59:19+00:00",
-      "summary": "Department of Health confirms first case of Clade I mpox in Arizona but says public risk low&nbsp;&nbsp;KTAR News 92.3 FMMpox: Arizona reports case involving a new type of the virus&nbsp;&nbsp;FOX 10 PhoenixHealth officials track Arizona’s first travel-associated case of Clade I mpox&nbsp;&nbsp;AZ FamilyArizona confirms first case of deadlier mpox strain&nbsp;&nbsp;azcentral.com and The Arizona RepublicArizona reports first Clade I mpox case in resident with recent travel&nbsp;&nbsp;upi.com",
+      "summary": "Department of Health confirms first case of Clade I mpox in Arizona but says public risk low&nbsp;&nbsp;KTAR News 92.3 FMMpox: Arizona reports case involving a new type of the virus&nbsp;&nbsp;FOX 10 PhoenixArizona reports first Clade I mpox case in resident with recent travel&nbsp;&nbsp;upi.comHealth officials track Arizona’s first travel-associated case of Clade I mpox&nbsp;&nbsp;AZ FamilyArizona confirms first case of deadlier mpox strain; 'risk to public is low'&nbsp;&nbsp;Arizona Daily Star",
       "sources": [
         {
           "name": "KTAR News 92.3 FM",
@@ -546,22 +702,10 @@
       ]
     },
     {
-      "id": "fc211b3f8d06",
-      "title": "Experts reveal how to avoid deadly Legionnaires' disease as NYC outbreak kills 5 - Fox News",
-      "published": "2026-07-22T22:53:45+00:00",
-      "summary": "Experts reveal how to avoid deadly Legionnaires' disease as NYC outbreak kills 5&nbsp;&nbsp;Fox News5 dead, 82 sick in Upper East Side Legionnaires’ disease outbreak&nbsp;&nbsp;GothamistMamdani battles politics tied to Legionnaires', failed Israeli PM arrest threat&nbsp;&nbsp;Spectrum News NY1MAP UPDATE: 50 buildings in Manhattan outbreak zone test positive for live bacteria&nbsp;&nbsp;NBC New YorkLegionnaires disease NYC: Council speaker Menin blames Mayor Mamdani administration as death toll r",
-      "sources": [
-        {
-          "name": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM2xsUEFPMTFRVDBaaTdjSjRWYWd3eGNJUFA1QVp2ZmdDYi1MeHZIRWw4US15QklyQlh0aXZFUE1aX0c4dENYRWJNTENEcUZXaF9yVi1rSjhpQWRFUDMtckRINVRCc28yLXRhOGt4dWc1YU9DN1ZEMUJONVEwMFU5cVd5U0JjVFk2Nnk0aEQ0Y1FKdGtsRXd0NUljVW5RU0Q5MWfSAacBQVVfeXFMT2FWdElhLXdIVjRXeW45UXlKeDlQNENRX1EyNk9IMFpxZ3VOMFJlTmswUkZPc3dJbWtjYy1XcXJpS2JxLVlSWEVRVmJPSEVvOFNUQ0VrM0JNZFZnSUtJdUtDbVIzZGMtdGJ4Qk8taWlRdURWeWdKTFl0M0tEV0tFd3phQmdoc2Z6b19vaHpTbWREOGpaajZVR2JzRXRjR29NRHYwaDBfZDg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "076b2891d947",
       "title": "Center City Philadelphia dental office reopens after license suspension - 6abc Philadelphia",
       "published": "2026-07-22T22:20:46+00:00",
-      "summary": "Center City Philadelphia dental office reopens after license suspension&nbsp;&nbsp;6abc PhiladelphiaPhilly dental office reopens 2 months after HIV, hepatitis alert&nbsp;&nbsp;NBC10 PhiladelphiaRittenhouse Square dental office that closed due to unsanitary practices is set to reopen&nbsp;&nbsp;PhillyVoiceRittenhouse dental clinic reopens 2 months after patients warned of HIV, hepatitis risk&nbsp;&nbsp;AudacyPhiladelphia dental clinic reopens two months after patients were urged to get tested for",
+      "summary": "Center City Philadelphia dental office reopens after license suspension&nbsp;&nbsp;6abc PhiladelphiaPhiladelphia dentist flagged for unsanitary practices allowed to reopen with extra oversight&nbsp;&nbsp;CBS NewsPhilly dental office reopens 2 months after HIV, hepatitis alert&nbsp;&nbsp;NBC10 PhiladelphiaRittenhouse Square dental office that closed due to unsanitary practices is set to reopen&nbsp;&nbsp;PhillyVoiceRittenhouse dental clinic reopens 2 months after patients warned of HIV, hepatitis",
       "sources": [
         {
           "name": "6abc Philadelphia",
@@ -570,26 +714,14 @@
       ]
     },
     {
-      "id": "484705fa863c",
-      "title": "Brown bullhead catfish melanoma represents a novel transmissible cancer - Nature",
+      "id": "f21130135dce",
+      "title": "Planetary-mass exosatellite detected around the substellar companion of a star - Nature",
       "published": "2026-07-22T22:19:50+00:00",
-      "summary": "Brown bullhead catfish melanoma represents a novel transmissible cancer&nbsp;&nbsp;NatureDeep in This Lake, a Contagious Cancer Is Spreading&nbsp;&nbsp;The New York TimesScientists confirm rare 'parasite-like' cancer in bullhead from Lake Memphremagog&nbsp;&nbsp;Vermont PublicRare contagious cancer found in fish from Quebec and U.S. lakes&nbsp;&nbsp;CBCA strange transmissible cancer is spreading through the catfish in this lake&nbsp;&nbsp;NPR",
+      "summary": "Planetary-mass exosatellite detected around the substellar companion of a star&nbsp;&nbsp;NatureAstronomers Discover the First Known Moon Outside our Solar System—and What a Moon it Is&nbsp;&nbsp;YahooAstronomers may have found the first moon beyond our solar system&nbsp;&nbsp;The News International“That’s No Moon!”: Astronomers Vexed by “Super Weird” Moon-Like Object Without a Planet&nbsp;&nbsp;The DebriefScientists Edge Closer To First Exomoon Discovery&nbsp;&nbsp;Rediff",
       "sources": [
         {
           "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tdEVfRldXODg0bHBaT1BWRFdmUVF1cG4wVGJyTDdwRnpId0ZhSU1iTmZrYldvVmIyMjJNYk5CQTcteHJjbDdTWFhMb3M4a2hRbldpdGQxMmRUSkN6bGdR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5d8174ef17f2",
-      "title": "The planktonic microbiome of the Great Barrier Reef - Nature",
-      "published": "2026-07-22T22:19:50+00:00",
-      "summary": "The planktonic microbiome of the Great Barrier Reef&nbsp;&nbsp;NatureGreat Barrier Reef microbiome mapped as researchers discover 500 bacterial species previously unknown to science&nbsp;&nbsp;The GuardianGreat Barrier Reef microbiome map reveals more than 500 new bacterial species&nbsp;&nbsp;Phys.orgSeawater sampling Great Barrier Reef (IMAGE)&nbsp;&nbsp;EurekAlert!AIMS leads breakthrough discovery on the Great Barrier Reef&nbsp;&nbsp;Power 100",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Dam04b2JrdFIxQ3V3azN1QjVRbldjbGFGLVN0WnFzdHZXMmlFQmo5cDQ1a25rSDZDU0ZCYWNlMGpBanJVOGVPeWJTQnBXSkoweGJmcER3bkF5ZVFOdURZ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iNENMdmFOWkJ1NTRtMWZXVmRDa3dtQ25KYko3NzF1RkU3WE5VbmZfYjJURnN2eFJyUXRzY3VrZmdLNlpQYmJET19aekNlMnQ1WWQybWF6dmJFdkFweUlV?oc=5"
         }
       ]
     },
@@ -597,7 +729,7 @@
       "id": "2a240536d149",
       "title": "Paralyzed Man Can Feed Himself and Pet His Dog Again Thanks to Double Neural Bypass Surgery - Good News Network",
       "published": "2026-07-22T18:30:54+00:00",
-      "summary": "Paralyzed Man Can Feed Himself and Pet His Dog Again Thanks to Double Neural Bypass Surgery&nbsp;&nbsp;Good News NetworkA Man With Paralysis Has Regained Feeling and Movement in His Hands After an Experimental Brain Implant&nbsp;&nbsp;Smithsonian MagazineA neuroprosthesis for restoring hand movement and sensation in a person with complete tetraplegia&nbsp;&nbsp;NatureNeurostimulation restores feeling in paralysed hand for months after&nbsp;&nbsp;New ScientistScientists Restore the Sense of Touch",
+      "summary": "Paralyzed Man Can Feed Himself and Pet His Dog Again Thanks to Double Neural Bypass Surgery&nbsp;&nbsp;Good News NetworkA Man With Paralysis Has Regained Feeling and Movement in His Hands After an Experimental Brain Implant&nbsp;&nbsp;Smithsonian MagazineA neuroprosthesis for restoring hand movement and sensation in a person with complete tetraplegia&nbsp;&nbsp;NatureNeurostimulation restores feeling in paralysed hand for months after&nbsp;&nbsp;New ScientistNovel Neuromodulation System Restores",
       "sources": [
         {
           "name": "Good News Network",
@@ -618,22 +750,10 @@
       ]
     },
     {
-      "id": "3cd329f4c2d5",
-      "title": "CDC cuts leave US less prepared for disease outbreaks, former officials warn - The Guardian",
-      "published": "2026-07-22T17:14:00+00:00",
-      "summary": "CDC cuts leave US less prepared for disease outbreaks, former officials warn&nbsp;&nbsp;The GuardianSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYk9xeHl6Qlg3MVlNZTZDQ1ZwZTlZZWFGdXdMQkt5aTlIckhyU25ERFU3TlJaWDQyUVZReFRhbnV5Z0Jqb09MbDZuOVR1R0dQV1hwOFJxSHQwd0ZpYVNmTXg0dFZnbDdGN0FNSGprUjF5Um1UVmhvdU5MbF9tTlcxR29KN1pRbEhvZ0Y3dzBrbE9YbDJFSzgtanRQYXdSVEF0am5VT010aw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1297ee1a0a23",
       "title": "Column | GLP-1s benefit women in a way that no one is talking about - The Washington Post",
       "published": "2026-07-22T17:00:01+00:00",
-      "summary": "Column | GLP-1s benefit women in a way that no one is talking about&nbsp;&nbsp;The Washington PostWomen Are More Likely to Get a Job and Find a Partner While on GLP1s, New Study Suggests&nbsp;&nbsp;People.comWomen more likely to marry, land jobs after taking GLP-1s&nbsp;&nbsp;Harvard University",
+      "summary": "Column | GLP-1s benefit women in a way that no one is talking about&nbsp;&nbsp;The Washington PostWomen Are More Likely to Get a Job and Find a Partner While on GLP1s, New Study Suggests&nbsp;&nbsp;People.comWomen more likely to marry, land jobs after taking GLP-1s&nbsp;&nbsp;Harvard UniversityTell us: what impact have GLP-1s had on your relationships?&nbsp;&nbsp;AOL.com",
       "sources": [
         {
           "name": "The Washington Post",
@@ -642,38 +762,14 @@
       ]
     },
     {
-      "id": "0b42202a5e27",
-      "title": "If You Can Walk This Fast After 70, Your Brain Is Aging Slower Than 90% of Peers - Eat This Not That",
-      "published": "2026-07-22T16:30:15+00:00",
-      "summary": "If You Can Walk This Fast After 70, Your Brain Is Aging Slower Than 90% of Peers&nbsp;&nbsp;Eat This Not ThatFast-walking \"super-movers\" may have sharper brains as they age&nbsp;&nbsp;Harvard HealthFast walking and cognitive function; staying safe from wildfire smoke; birthday parties and COVID; plus other stories with Vanderbilt Health sources&nbsp;&nbsp;Vanderbilt Health News‘Supermover’ power: Study finds quick steps linked to cognitive health as you age&nbsp;&nbsp;CTV NewsHow Fast You Walk i",
-      "sources": [
-        {
-          "name": "Eat This Not That",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13bzVRaTVJekpqaEZ4a3RhRk5rQTczTVZvbE1jalZWYl85N0ZMdVRnVmZ6RVM0X2l5R0hCSEpybm5QQ3p5ZWx5MG00aFh5Tmh6Y08xcXMxa2xxN3RYYmZfQUtEa3RuUTJCU3lV?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d7be48795898",
       "title": "Column | Here’s what an expert on accidental falls does every day to prevent them - The Washington Post",
       "published": "2026-07-22T16:00:00+00:00",
-      "summary": "Column | Here’s what an expert on accidental falls does every day to prevent them&nbsp;&nbsp;The Washington PostBalance exercises help seniors stay steady&nbsp;&nbsp;WCNCSenior Scene: Falls are preventable medical events&nbsp;&nbsp;Belleville IntelligencerWorkout Wednesday: Improving your balance using simple items&nbsp;&nbsp;ABC30 Fresno",
+      "summary": "Column | Here’s what an expert on accidental falls does every day to prevent them&nbsp;&nbsp;The Washington PostBalance exercises help seniors stay steady&nbsp;&nbsp;WCNCThe Best Balance Exercise to Do After 40, According to Physical Therapists&nbsp;&nbsp;EatingWellWorkout Wednesday: Improving your balance using simple items&nbsp;&nbsp;ABC30 FresnoSenior Scene: Falls are preventable medical events&nbsp;&nbsp;Belleville Intelligencer",
       "sources": [
         {
           "name": "The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2YxM1JqUUJVM19PUFpZNFQxNHNSYTByZWFEU1o1RmY2V3A2SVFBVmdZNFZPVzRNVXZtT3RJekZzTE9KMFV6cTZiaGRLUkhkR3h5dUVlYUZzS2hCZmY0R19fWk5EaUE4ZmJkSjFtZ0NRUTMzQ0ZpajJiTlhlbFhpLTBzZXdCQVJqdEROZTBSUFFRdDdfQ1U4OG5KUVFCY1ZDdU5yeGtZVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fde1297072af",
-      "title": "Your husband (or wife) may increase your risk of dementia by up to 70% - New York Post",
-      "published": "2026-07-22T15:31:00+00:00",
-      "summary": "Your husband (or wife) may increase your risk of dementia by up to 70%&nbsp;&nbsp;New York PostThe shadow of shared lives&nbsp;&nbsp;Bangalore MirrorSpouses of people with dementia face up to 74% higher risk of the disease study finds&nbsp;&nbsp;TheHealthSiteSpouses of People With Dementia May Face Increased Dementia Risk: JAMA&nbsp;&nbsp;Medical DialoguesOne Partner's Dementia May Predict the Other's Future Risk&nbsp;&nbsp;MedPage Today",
-      "sources": [
-        {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZTZhUUI1bnc4M0VTRjc1NVVEVWducmp0Y1RRLXZiNjIwekdQcVVuV1BraFR2LW1hTnRRQUVGSW8yT2NnN1Y3eGpDZTYyaUVSM0pqeGNRTVUzYjRDRlJxbmNIR3NCNDRJTGpXQnV4b0hfMlF3Z2pxOG52QkVSZFlGcEVpWXlyN29GV0dyY2VOTTU0V212d05lYg?oc=5"
         }
       ]
     },
@@ -693,7 +789,7 @@
       "id": "6426442fb9cf",
       "title": "Pancreatic cancer vaccine shows promise in first human trial, preventing disease in high-risk patients - Fox News",
       "published": "2026-07-22T13:36:23+00:00",
-      "summary": "Pancreatic cancer vaccine shows promise in first human trial, preventing disease in high-risk patients&nbsp;&nbsp;Fox NewsExperimental KRAS Vaccine Generates Immune Response Against Pancreatic Cancer in People at High Risk&nbsp;&nbsp;Johns Hopkins MedicineA Pancreatic Cancer Vaccine Shows Promise in a Phase 1 Clinical Trial&nbsp;&nbsp;the-scientist.comPancreatic Cancer Vaccine Triggers Immune Response Before Tumors Develop&nbsp;&nbsp;Inside Precision MedicineAnna Berkenblit: An Encouraging Early",
+      "summary": "Pancreatic cancer vaccine shows promise in first human trial, preventing disease in high-risk patients&nbsp;&nbsp;Fox NewsExperimental KRAS Vaccine Generates Immune Response Against Pancreatic Cancer in People at High Risk&nbsp;&nbsp;Johns Hopkins MedicinePancreatic Cancer Vaccine Triggers Immune Response Before Tumors Develop&nbsp;&nbsp;Inside Precision MedicineA Pancreatic Cancer Vaccine Shows Promise in a Phase 1 Clinical Trial&nbsp;&nbsp;the-scientist.comNew Vaccine Shows 90% Success Rate In",
       "sources": [
         {
           "name": "Fox News",
@@ -710,30 +806,6 @@
         {
           "name": "Phys.org",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQam5VTkpzMlBZd0NnMVhxRlFqVDBUV1pNaWtJTHluV0ZiajQwM2RkQVNuM1RZOXhnNGhKRG9OdWhVdEZ2T1FpaFhOR0Npcl9kWW9UaDJCblFRN0xubHdvOHZmS1NQR1dreFQ5d2ZiSzM0RWZPMF9zRGl3VGIwZ1NHejlvakI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "38ca555a3df4",
-      "title": "Lipids in ovarian cancer ascites impair T cell activation by disrupting TCR dynamics - Nature",
-      "published": "2026-07-22T12:28:52+00:00",
-      "summary": "Lipids in ovarian cancer ascites impair T cell activation by disrupting TCR dynamics&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zN1FOUHBleEEyYktmczdvcnNweXgxR2NPY3JHT0xBdDU3QlRiNGFZY2I3QVBIOXNNaWs2M3JJcmIyaHlmUzZnZkRaLWdVODA1NHFPZDRiTGhQOTZpY3BR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9271865a4c33",
-      "title": "Lung cancer in nonsmokers: \"A women's health crisis\" - CBS News",
-      "published": "2026-07-22T11:15:00+00:00",
-      "summary": "Lung cancer in nonsmokers: \"A women's health crisis\"&nbsp;&nbsp;CBS NewsNon-smokers under 50 are getting lung cancer. What they eat raised a red flag&nbsp;&nbsp;NewsweekDoctor Shares 3 Ways to Lower Your Risk of Getting Lung Cancer&nbsp;&nbsp;YahooThe Hidden Environmental Toxicants Causing Lung Cancer In Young Non-Smokers&nbsp;&nbsp;NDTVWhy Are Healthy Young Nonsmokers Getting Lung Cancer?&nbsp;&nbsp;Men's Fitness",
-      "sources": [
-        {
-          "name": "CBS News",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQYjZRbWhqbTFFUTY4QUVDNC1EMjBsTUFxanZoQ3UwN29TYjI0aUJ0VktpTFFtQXNKbmpEd0NLWU9OS3pleEpKbUNNbmVadUNyWUZnZ1pHNUViT1g5MW1jT2p3RjNRRS1yTDI0?oc=5"
         }
       ]
     }

@@ -4,9 +4,6 @@
 title: "UsTxGNN Drug Repurposing Reports"
 description: "US FDA Drug Repurposing Predictions using TxGNN"
 
-author:
-  name: 藥提醒科技有限公司 (yao.care)
-  url: https://www.yao.care/
 url: "https://ustxgnn.yao.care"
 baseurl: ""
 lang: "en"
@@ -66,4 +63,5 @@ exclude:
   - node_modules
   - vendor
   - "*.template"
+
 

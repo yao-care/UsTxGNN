@@ -3,6 +3,10 @@
 # Basic settings
 title: "UsTxGNN Drug Repurposing Reports"
 description: "US FDA Drug Repurposing Predictions using TxGNN"
+
+author:
+  name: 藥提醒科技有限公司 (yao.care)
+  url: https://www.yao.care/
 url: "https://ustxgnn.yao.care"
 baseurl: ""
 lang: "en"
@@ -23,7 +27,7 @@ search:
   heading_level: 3
 
 # Footer
-footer_content: "Copyright &copy; 2026 UsTxGNN Project. For research purposes only."
+footer_content: "Copyright &copy; 2026 藥提醒科技有限公司 (yao.care). For research purposes only."
 
 # RSS Feed
 feed:
@@ -62,3 +66,4 @@ exclude:
   - node_modules
   - vendor
   - "*.template"
+

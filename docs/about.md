@@ -113,7 +113,7 @@ rare diseases."
 
 | Item | Value |
 |------|-------|
-| Drug reports | 1567 |
+| Drug reports | {{ site.drugs.size }} |
 | Regulatory authority | FDA |
 | Deployed sites | 30 countries / regions |
 

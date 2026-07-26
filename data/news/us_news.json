@@ -1,10 +1,106 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-07-26T08:29:48.141871+00:00",
-  "total_fetched": 120,
-  "unique_count": 120,
-  "health_related_count": 61,
+  "fetched_at": "2026-07-26T13:34:39.985927+00:00",
+  "total_fetched": 116,
+  "unique_count": 116,
+  "health_related_count": 58,
   "news": [
+    {
+      "id": "8d7cc8b1f918",
+      "title": "Why surgery patients should be honest about these 4 things - The Washington Post",
+      "published": "2026-07-26T12:45:10+00:00",
+      "summary": "Why surgery patients should be honest about these 4 things&nbsp;&nbsp;The Washington Post",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSG05dExJM2xDdHZYd1czUFBBSkdfLTBTZThpeGNFOWNPc0lFaGJUcFJxTy1kcmxud2YzejgxZTZIVV9SUnFjN2E1eGw2LUxfNVFGSFREem5Ja3lHUFV2VTdzLWwyV1BOMHJLZ0VJMW81bk5VdFlzME5Va1pHMVZBMDNmMVBpUTlvcU96czZ4bVZnelJ4Rmc5bXoxYXNOMi16S3cxMzBnTUJGaURUU29XWEFsWEI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2328498df720",
+      "title": "Bad News For Bingers: Watching Too Much TV Linked to Smaller Brain Volume - ScienceAlert",
+      "published": "2026-07-26T12:03:10+00:00",
+      "summary": "Bad News For Bingers: Watching Too Much TV Linked to Smaller Brain Volume&nbsp;&nbsp;ScienceAlertDistinct Brain Effects Associated With TV Viewing&nbsp;&nbsp;Technology NetworksMidlife TV binging linked to smaller brain structures, especially in men&nbsp;&nbsp;LiveNOW from FOXScientists Say TV May, In Fact, Rot Your Brain&nbsp;&nbsp;PreventionDoes Watching TV Really Rot Your Brain?&nbsp;&nbsp;Nautilus | Science",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTDI2dVQyOG1sNFI3N2xEekxRNUd6UzQyXzZnd1NzVXlhVWMzNFQ1QXVCRVVFQXVwR3Vqem85T0FDal9XQXVzZGxYSEJLcHY5Z0ZhdWZ3UGdqQnhqX29lN3V4MF8zcEk1YWtkaG5CYzVsT242Q052b0JMQko0cGdqYm9DZnYxMC1PRTVLaGxEelBhdTdjS1M3dmR6X2tsX1F5?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "478b7a192903",
+      "title": "RFK Jr urges Alzheimer’s screening but blunts key panel that could drive research - The Guardian",
+      "published": "2026-07-26T11:01:00+00:00",
+      "summary": "RFK Jr urges Alzheimer’s screening but blunts key panel that could drive research&nbsp;&nbsp;The Guardian",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeDVfLUV0cmZ0YWN6RFFFZDBNVkV0dkVqX3VfaUwyQl9NT0ZqMWdBNnRXTk1KTDdnSGdtM2hDSVZqcjcteDRKRkY1NFdqUmJxaVlvWnBLd05TOTFrb214YlhPUjBvTUNZWWQtdGplSDFUZDFObXNTWUdEUmx6d2l4TmJid3VnLVdGTzRkbmpjN0d1MllmblZjbXlGcHBnSW5J?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "338bf9c4d923",
+      "title": "Scientists discover 1st known likely transmissible cancer in wild catfish - ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-07-26T10:14:25+00:00",
+      "summary": "Scientists discover 1st known likely transmissible cancer in wild catfish&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosBrown bullhead catfish melanoma represents a novel transmissible cancer&nbsp;&nbsp;NatureScientists Discover The Fourth Transmissible Cancer Known To Science&nbsp;&nbsp;ForbesDeep in This Lake, a Contagious Cancer Is Spreading&nbsp;&nbsp;The New York TimesContagious Cancer Found in North American Catfish&nbsp;&nbsp;WIRED",
+      "sources": [
+        {
+          "name": "ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY3J2RFd5Rml2NmQyRVZReVUzVUJSRjZDRnpsaHkzRm9nZ0paektaekFzZzNLX2VJZjRoSkk1U3BuU1F6THh4UnIxM0J6UU1lX3ZEOFVNSTFJbnVGd0tpNms2RDM4MTdXYy0wYlVDZ05CWmUtdGZVdHZ4a3pMMGc2YV9VTjVmWWJwejF4QlFMaWI2LWE1STdOVTFmX0tsUjZiVm55ZnFB0gGrAUFVX3lxTE44VXJyRTE2U09obS03TFoySjI1bE1zaHBldy1SOVlqM1NXUGJYdzVvYmlnU0R0YVA3OEN6S2k1Y2F1SC1UNWpCRXZzejNTQ0o4dUxiOTNkSEpOY2pxclFZTEp0SVJ1Smp1X0Y3WmtuekNIZkFGVHRBRzlPc0xUSmdtSVo5elU0enJtWGVXaEtpSW9PWVlDRXJ0alRVMFpRWTNBaFdEM0VzM1Badw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9505636b59dd",
+      "title": "Doctors share what sleeping with a fan on does to your body and health - The Independent",
+      "published": "2026-07-26T09:28:00+00:00",
+      "summary": "Doctors share what sleeping with a fan on does to your body and health&nbsp;&nbsp;The Independent",
+      "sources": [
+        {
+          "name": "The Independent",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZlZQSmZ1R0Z6ODdzSHVueFVDQmJKZ3NBNDNqRFgxX0wyRXZhVkhDQmFEMFhkVE1jM0R4dmFVRVRFcmJablRDenR0TnVMbURLZXlUa1A4N25mdzV6b0RIaXlkdGlTa2YzdEVPUFdxWC1HSkg1QThjYXVxeDZJZWd3MmJiRmxJbnNRVXhZVFJxbVRfd2JUNWM2MVoyalV5OE4weFdPN2syN1lnVkZsWVk0NEJ2bw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "de6c849e5a3c",
+      "title": "Jupiter's moon Europa hides a saltwater ocean that may contain more than twice the water of all Earth's oceans combined, yet a new measurement puts 29 kilometres of solid ice above it, a barrier taller than three Mount Everests stacked end to end - Space Daily",
+      "published": "2026-07-26T07:30:08+00:00",
+      "summary": "Jupiter's moon Europa hides a saltwater ocean that may contain more than twice the water of all Earth's oceans combined, yet a new measurement puts 29 kilometres of solid ice above it, a barrier taller than three Mount Everests stacked end to end&nbsp;&nbsp;Space DailyWhy Europa's hidden ocean may be more difficult to reach than scientists thought&nbsp;&nbsp;Phys.orgStudy suggests Europa’s icy shell may block ocean water from reaching the surface&nbsp;&nbsp;Open Access GovernmentLimited direct f",
+      "sources": [
+        {
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUUVVNNDBXWnJQRHNFazhDSGE4cEVjUGcySFZNU2F1V2U2cW5Wejdzd2JmQld1RC1VQi1CWlNMc2tvLUFIcmQ5STZRZmJrTkJkcTdXMG9nYjBSMEZOSEx2Q0dGNEJBbjlSWlg0ODh4TDhkeE9jSnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d26be1bec4aa",
+      "title": "Why seven hours and 48 minutes is the sleep sweet spot - The Telegraph",
+      "published": "2026-07-26T06:00:00+00:00",
+      "summary": "Why seven hours and 48 minutes is the sleep sweet spot&nbsp;&nbsp;The TelegraphThis Common Sleep Habit Could Be Making You Gain Weight&nbsp;&nbsp;SciTechDailyEven Mild Sleep Deprivation May Lead to Weight Gain&nbsp;&nbsp;WIREDResearchers at Columbia University in the U.S. have published a study showing that a lack of sleep f..&nbsp;&nbsp;매일경제Regular sleep loss can lead to weight gain and health risks, study finds&nbsp;&nbsp;Sur in English",
+      "sources": [
+        {
+          "name": "The Telegraph",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM2lqcG90Q2tHbHNQWUtiajFkT1VvTmluNkVTeVMwaDVUMVVocS1ibGJEVmNXZmtHRTRmMTQ1Y2pZQWptNE9jN2Q5UlBLUi1xUDFzRjRiMlo1c0JsYkl0WloybTQtNE5ZSUpOeVJ4bnM3dE1Cdnd5bk5OblFBaWRMcEdxUDJCR083QWxKNDd5Nk1rdU0xeFAwQ0xYTmxjTkxy?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9e9ca129a02a",
+      "title": "Are we eating enough protein to age well? Why experts think no - Medical News Today",
+      "published": "2026-07-26T05:58:13+00:00",
+      "summary": "Are we eating enough protein to age well? Why experts think no&nbsp;&nbsp;Medical News TodayExperts review evidence behind updated protein intake recommendations&nbsp;&nbsp;News-MedicalProtein Intake and Cardiovascular Health: Separating Signal From Noise&nbsp;&nbsp;American College of CardiologyYes, It’s Possible to Get Too Much Protein. These Signs Mean It’s Time to Cut Back.&nbsp;&nbsp;PreventionWhy ‘just eat more protein’ isn’t an evidence-based nutrition strategy&nbsp;&nbsp;The Seattle Time",
+      "sources": [
+        {
+          "name": "Medical News Today",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZW1ONEtUdGRIQzNjVmVKUmFkRkgtRTdlc0hpUkpXSEVVZ29KZkxDRUhSZXFiTE81NUY0VzRYWFdtdkcxZm5RMXR1UGNqZVloTVBYeDdLMkFibVRJMmN4bkVEc2pkYkRJSnpDMWlac3V5TS1OVVVfeG1YQjBULTZ4UF9hT3dUdzZvRzFsWnlVVGs1bHVCcFBDUldySnA5MjN4ZFRz?oc=5"
+        }
+      ]
+    },
     {
       "id": "7be188d24213",
       "title": "Opinion | Cuts to anti-AIDS foreign aid take a toll in Africa - The Washington Post",
@@ -18,14 +114,14 @@
       ]
     },
     {
-      "id": "c4f409a01044",
-      "title": "More health workers strike as Ebola cases in Congo near 3,000, including over 1,300 deaths - ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-07-26T02:32:02+00:00",
-      "summary": "More health workers strike as Ebola cases in Congo near 3,000, including over 1,300 deaths&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosCongo says number of confirmed Ebola cases surpasses 3,000&nbsp;&nbsp;ReutersEbola deaths in DRC surge past 1,300 as virus ‘spreading like a wildfire’&nbsp;&nbsp;Al JazeeraEbola death toll in DR Congo surpasses 1,000&nbsp;&nbsp;NPR“No One Knows When It Will End”: A Doctor on the Ebola Emergency&nbsp;&nbsp;The New Yorker",
+      "id": "aeb36e7db0d6",
+      "title": "What Happens to Your Gut Health When You Eat Too Much Added Sugar - EatingWell",
+      "published": "2026-07-26T01:00:00+00:00",
+      "summary": "What Happens to Your Gut Health When You Eat Too Much Added Sugar&nbsp;&nbsp;EatingWellThe sugar you eat alone vs sugar hidden in desserts: Does your body treat them differently? Nutritionist explains&nbsp;&nbsp;The Times of India",
       "sources": [
         {
-          "name": "ABC News - Breaking News, Latest News and Videos",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNUNoRHhUbHo5OGgwaEw4SEhSUU96UkVEOE5YQlY4UVQ1anVOaFdKd2ROdzV5QXZsS2tQR0xMckV2dVJEbjB1Qi1WSjNLd01yMG9jQWZCMU1TRkduakZfSC14NnhNMW9CNW13Rkk2MFJndENpSUN6Zk9yNkRhQ1VOUmNCX240akdiNkxaNWl0QXljLU5jV3BGOWlGa1NvMkswRjFPamJJLXQ5TW000gGyAUFVX3lxTE9ZR0UyeVcyNmRqSW1hRmtQNGF6X3lTTS10YnR1LS13Wm9jcW5tTlRTTWhOTEFnWXBzRnV1YVRNSURqRF9pdHkwbGxXa2ZsSUVFdURINmxtd0YydXJydF9NRWpjc0FaX0JmWGtST3ZTdHVQVERCTjR5QllESHhrU1R4ZnhjWTM3WjV2Tm1yTWIwMlRTY2ZvZ1ktNjJuMTh5ck1lcFJobUl5MHRjVHducTZiYXc?oc=5"
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MalVVT0htY0h5WkZSUWNKT05EYjNGZnV6cXNZOEt6QjVRcVJWcFZEajVRdXNZc0I0dzlQbDRjWVhTTU5qNVRPSFdSVlpkZU84SkNkamlhZlZfQVAzbThrZTFrWTZQekVMN0x2Ti1lUQ?oc=5"
         }
       ]
     },
@@ -33,7 +129,7 @@
       "id": "f516475e18dd",
       "title": "Cyclospora cases in Allegheny County rise amid national outbreak - TribLIVE.com",
       "published": "2026-07-25T23:21:27+00:00",
-      "summary": "Cyclospora cases in Allegheny County rise amid national outbreak&nbsp;&nbsp;TribLIVE.comCyclosporiasis cases surge in Erie County&nbsp;&nbsp;yourerie.comDelaware confirms first case of cyclosporiasis amid parasitic infection&nbsp;&nbsp;6abc Philadelphia11 cyclosporiasis cases confirmed in Shelby County, health officials say&nbsp;&nbsp;WREG.comErie County reports another rise in cyclosporiasis cases&nbsp;&nbsp;Erie Times-News",
+      "summary": "Cyclospora cases in Allegheny County rise amid national outbreak&nbsp;&nbsp;TribLIVE.comCyclosporiasis cases surge in Erie County&nbsp;&nbsp;yourerie.comDelaware confirms first case of cyclosporiasis amid parasitic infection&nbsp;&nbsp;6abc Philadelphia11 cyclosporiasis cases confirmed in Shelby County, health officials say&nbsp;&nbsp;WREG.comLocal medical experts keeping an eye on the ongoing cyclospora outbreak&nbsp;&nbsp;Butler Eagle",
       "sources": [
         {
           "name": "TribLIVE.com",
@@ -54,10 +150,22 @@
       ]
     },
     {
+      "id": "0e476bd5e2cb",
+      "title": "Viral trend is a ‘red warning sign’ for young men, TPUSA spokesman warns - New York Post",
+      "published": "2026-07-25T22:12:00+00:00",
+      "summary": "Viral trend is a ‘red warning sign’ for young men, TPUSA spokesman warns&nbsp;&nbsp;New York PostTPUSA's Andrew Kolvet calls viral 'looksmaxxing' craze a 'red warning sign' for young men&nbsp;&nbsp;Fox NewsLooksmaxxing isn’t just a TikTok trend – it often reflects severe body image issues in boys and young men&nbsp;&nbsp;Michigan MedicineHow Looksmaxxing Pushes South Asian Men Toward Black Pill Ideology&nbsp;&nbsp;Center for the Study of Organized Hate (CSOH)What Is Looksmaxxing? The Mental Impa",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMU9fMHpUOThRR0VMT1ZZNXM2ejJjc3ZKQXlkZzhYbm1pZjUzT0x5Z1FuTkZlSC1RVnJIU2tZYkltbVBLOWN5YXNaMzJ5SHBxTWdTU0FfTmM4cWdkcWJGbjFCMXIybWtqdVBmOUl4RFF3TXk2LXRrUWNZX3QwRlU3bUg4MnpxNVRGNFB6R2xFTC16R2RYZVlWRFh6VUlCX1VFbGdKVkdhcGVNdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "cfecfac73756",
       "title": "Is COVID returning? Summer uptick of virus may have begun in California - Honolulu Star-Advertiser",
       "published": "2026-07-25T21:28:36+00:00",
-      "summary": "Is COVID returning? Summer uptick of virus may have begun in California&nbsp;&nbsp;Honolulu Star-AdvertiserSee more headlines & perspectives on Google News",
+      "summary": "Is COVID returning? Summer uptick of virus may have begun in California&nbsp;&nbsp;Honolulu Star-AdvertiserCOVID-19 is on the upswing in California. How bad will it get this summer?&nbsp;&nbsp;Los Angeles TimesCOVID-19 levels run high in Bay Area wastewater, prompting calls for precautions&nbsp;&nbsp;The Mercury News",
       "sources": [
         {
           "name": "Honolulu Star-Advertiser",
@@ -66,10 +174,22 @@
       ]
     },
     {
+      "id": "b8d90123ffa9",
+      "title": "Scientists Searching 6,000 Drugs For Anti-Aging Properties Found One Hiding in Plain Sight - ScienceAlert",
+      "published": "2026-07-25T20:03:39+00:00",
+      "summary": "Scientists Searching 6,000 Drugs For Anti-Aging Properties Found One Hiding in Plain Sight&nbsp;&nbsp;ScienceAlertSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUjVhcjVud3N4dURsdVVrWUt5dHZmdnNWNDA2MGltRFJGYWNFMm82WHVwTWtqd2w3Zy1iQlNHNk1sUlljWXZvejUwZFFlbW0wX25HN095QzRMTWlqWHVraGRBdm1OY2pWU0ZDYUtpeW5yYzJDOGtFNGlYUzZZZF9Tc25JRWxXWEVzeGVZbDUyQUVCd0pYS3pORDEwR1IxUU51OS1tbEI2cnJtVTVuSWpZN0N6b01WUmc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b0a5f5bdaade",
       "title": "Longer lives, worse health? Scientists uncover troubling trend across generations - Fox News",
       "published": "2026-07-25T19:50:50+00:00",
-      "summary": "Longer lives, worse health? Scientists uncover troubling trend across generations&nbsp;&nbsp;Fox NewsLiving longer, but not healthier. Study shows world is adding years to poor health&nbsp;&nbsp;The Times of IndiaPeople Living Longer, But Spending More Years With Illness And Disability&nbsp;&nbsp;U.S. News & World ReportAmericans spend 14 years living in poor health: Study | Tap to know more | Inshorts&nbsp;&nbsp;InshortsGlobal study reveals widening gap between lifespan and healthspan&nbsp;&nbs",
+      "summary": "Longer lives, worse health? Scientists uncover troubling trend across generations&nbsp;&nbsp;Fox NewsLiving longer, but not healthier. Study shows world is adding years to poor health&nbsp;&nbsp;The Times of IndiaModern Medicine Is Keeping Us Alive Longer, But That’s Not Necessarily a Good Thing&nbsp;&nbsp;VICEAmericans spend 14 years living in poor health: Study | Tap to know more | Inshorts&nbsp;&nbsp;InshortsGlobal study reveals widening gap between lifespan and healthspan&nbsp;&nbsp;News-Med",
       "sources": [
         {
           "name": "Fox News",
@@ -78,14 +198,14 @@
       ]
     },
     {
-      "id": "b2df98a0c43b",
-      "title": "The Best and Worst Habits for Your Liver - The New York Times",
-      "published": "2026-07-25T17:46:00+00:00",
-      "summary": "The Best and Worst Habits for Your Liver&nbsp;&nbsp;The New York TimesBiryani, alcohol and the organs that pay the price: What happens to liver and gut&nbsp;&nbsp;The South FirstYou don't have to drink alcohol to damage your liver: Doctor reveals 9 unexpected factors that could be putting it at risk&nbsp;&nbsp;The Times of IndiaTips To Reverse Grade 1 Fatty Liver Disease&nbsp;&nbsp;NDTV5 common things you use every day that could secretly damage your liver&nbsp;&nbsp;TheHealthSite",
+      "id": "6673373639af",
+      "title": "Ebola deaths in DRC surge past 1,300 as virus ‘spreading like a wildfire’ - Al Jazeera",
+      "published": "2026-07-25T18:30:02+00:00",
+      "summary": "Ebola deaths in DRC surge past 1,300 as virus ‘spreading like a wildfire’&nbsp;&nbsp;Al JazeeraCongo says number of confirmed Ebola cases surpasses 3,000&nbsp;&nbsp;ReutersMore health workers strike as Ebola cases in Congo near 3,000, including over 1,300 deaths&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosWhat experts are saying as Ebola outbreak in Congo and Uganda kills more than 1,000 people&nbsp;&nbsp;PBS“No One Knows When It Will End”: A Doctor on the Ebola Emergency&nbsp;&nb",
       "sources": [
         {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zYVlROWhqUTJsTF94ZHNwY0RKdXNudm5hQTlxZG5YTHRDZ3dwbzh5YlQ0VDJQZGFZUVJhS01UU3VYRlMzY29xWFE4RC1hMHl6SGVJcVE5MVBJVW1peEs4NVAyWDRwaTA2dnlYRV9Cdw?oc=5"
+          "name": "Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdkVVelBDZll6QXltZUNfaElyaTY5NmFjazZZYUdJMFYzVWdlUlpaNWszZjJVb2FsVXRJWFBMOFMweUthQjdndG5XNHdNYjJqalZ0UnBEbkhjb1hIcjRJTGdPSlVDRnJjZE5MSF9DaDRzVjVkaF9SdlBuUmIzbDBVYnhScG1kcE1sLTRjNDNjQ2xneVFMb2ZPRWF5VWFGSXNVTHBzZFdzaGJqdXdlRW5SatIBtgFBVV95cUxPQjFaQ1RFTnFxZGZQanBmT2dUZjNnS3RhTjRFcXFCaGZGMU5GVzZhdmVnWkZvVDQzRk1XWFVMMC1jOHNnZVNSQWFUNGgzclIxa0xpVVpoZmJNWkdBU29oemdSTnJGZ1Y5c29TTkVkVVo0bVdDZk1TSzBqdjhfUENhZTl3TG4xUmtvX0ZoX1dobUNyX3ExOW9wQzJfQUZzUjJfOG9UbWJidFAwcDNMMFlfUkUzZHhZQQ?oc=5"
         }
       ]
     },
@@ -105,7 +225,7 @@
       "id": "1779a0c322eb",
       "title": "Jokes about losing weight from explosive diarrhea underline an unhealthy obsession with thinness - CNN",
       "published": "2026-07-25T16:00:25+00:00",
-      "summary": "Jokes about losing weight from explosive diarrhea underline an unhealthy obsession with thinness&nbsp;&nbsp;CNNDoctors warn 'Cyclospora skinny' trend is risky&nbsp;&nbsp;FOX 10 PhoenixThere Are People Trying to Get the “Explosive Diarrhea” on Purpose. I Know Exactly What They’re Thinking.&nbsp;&nbsp;Slate MagazineInfluencers Are Promoting ‘Parasite-Free’ Grocery Hauls&nbsp;&nbsp;WSJCyclospora outbreaks rise in US as social media jokes normalize weight loss&nbsp;&nbsp;Межа. Новини України.",
+      "summary": "Jokes about losing weight from explosive diarrhea underline an unhealthy obsession with thinness&nbsp;&nbsp;CNNSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "CNN",
@@ -138,14 +258,14 @@
       ]
     },
     {
-      "id": "d7e64d92d3a7",
-      "title": "TPUSA's Andrew Kolvet calls viral 'looksmaxxing' craze a 'red warning sign' for young men - Fox News",
-      "published": "2026-07-25T14:00:31+00:00",
-      "summary": "TPUSA's Andrew Kolvet calls viral 'looksmaxxing' craze a 'red warning sign' for young men&nbsp;&nbsp;Fox NewsLooksmaxxing isn’t just a TikTok trend – it often reflects severe body image issues in boys and young men&nbsp;&nbsp;Michigan MedicineHow Looksmaxxing Pushes South Asian Men Toward Black Pill Ideology&nbsp;&nbsp;Center for the Study of Organized Hate (CSOH)What Is Looksmaxxing? The Mental Impact of 'Maxxing' Culture&nbsp;&nbsp;Yahoo HealthBroken Jaw, Shattered Confidence: How to Help Youn",
+      "id": "c81732b4f770",
+      "title": "Neurologists see these 8 brain health mistakes almost every day, and many people don't realise they're making them - The Times of India",
+      "published": "2026-07-25T14:02:11+00:00",
+      "summary": "Neurologists see these 8 brain health mistakes almost every day, and many people don't realise they're making them&nbsp;&nbsp;The Times of IndiaScientists Just Discovered Why Deep Sleep Is So Critical for Cognitive Performance&nbsp;&nbsp;inc.comQuality sleep key to protecting brain health amid rising screen time, say neurologists&nbsp;&nbsp;The HinduWhy You Wake Up Earlier As You Get Older&nbsp;&nbsp;Yahoo HealthPoor sleep may raise stroke and dementia risk: Expert | Tap to know more | Inshorts&",
       "sources": [
         {
-          "name": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWRfeFRBa244MjBBV2VQYVRIM2YtMTBRRmlNdjNpRGxaald0bzNDYjJVWThBWkhWcU5SRmZvTXFKU0xTb3N6YkVkTFQyZmNHYWJRYkk0YXI1bHc0WWdiOGZZY2tMdXBaSmZCQ0ZnWjBIcngtU1NIQW9mODRLdXVMYTVTR2NIUnRRVERVYVM1MjNaa2JMSDVoR3VqWHVMRFozdnhjbG93SkZyOW_SAbABQVVfeXFMTy0ydVJQc3dDV2hLYm4zbzlqX0t0aUpXZ1Nsdk9ucG9WRjZVLWNuSkxxbm85UXNwSHo0WTRQTWhnSGY1X3A5YlF2MUJxaTJtNnFGT05jUHRieTQ5ZVZBaEJhc2JXWUdrVGJjYUdaajN5aC1faDhpWUw0eldWMFlEWnAxQmdtMXhXaS1yWVBEV0h5dFFDdkR2dXFVeHhaWVg3WjlITk01aUZQUmp6bnB5Z0E?oc=5"
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPczV4R2tLbjJ4eTg2ZkxrMklIR1pLSF80WkNHVzdGdXE4UmRLdi1TVmVfTTlJdjcyVmltZGlQdE1hQU4zNHlGMGc1ZE5uQkh6TlVrNWlWcWlyNHViaE83X1ZuVjNVN1BRZm12R0xNVzFsdDlVWm1RZ3ZUSmd0UmFRelYtcTM3MVVRbVhGVGRQRFEtMlhNSDNsa3gxTzNzQUx0VG1iT250WkQ4SzVBUDlCclY0TmIxY3ZWNm9La3pSTVpvUEZSTHVhbXgwT0M0OGJ1NERldzlLaGhULTlfTjJuMzVZOHRxVUlyd2p0NjR6WEhhXzI2NW9VZ0VfRUY2ckFlUGhtUDA4amVEdnfSAZMCQVVfeXFMUDRCWm5xR1l5ZHctc19PRDBjOHczY01KdXY1bVVERmIzNjJSa1BvT0Z0QXZzWFZkSUF0eXBvVDdRSldLR2tXUHF4MWZBSDV5dWVPcjRjTm55d001bDhXQURKSWhWOWlFT1I1ZkFTZ0tZYVFzbThBVnIyNkxDRjAzN2VodENvWlRtMHhGZ3BhRnRFRXhfdzk5dG5OVUJuU25BRjF1Y2dTZE5jUVBxU0FzN0Z6Sm56WU52eUk1Z2thRXdvVGZxdnNic3ljbEc5MFVmNi1PNmkwcmJQZUNxYnpraXdoaEdYR25DdjczS2lPRl93MVhFUVR5ZWJfeFNmUS1FZTRGVEtUc2hyMVNWbHp1cDBVSUU?oc=5"
         }
       ]
     },
@@ -158,6 +278,18 @@
         {
           "name": "PsyPost",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYmtlYUtXQWgzTjJxb2hDNy1yenVHdjF0V2tRcmZYQ0szbzBleExyZDZQbXpMQ3dWcG5LaXhVdEZYMEZFSnhMUjVVMGdZVEp4N2daeENGbUxtd0lPOWVORmNEd0liaVRzandzWEJ2MGZLTm5YNGZicUZFRHhiN2dFVFNoaVZobURLT2ZFcnJYM2NzbDVFdERBcFlyM25ubU1LUUZYbTZmREI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3e203abeacbc",
+      "title": "'Fit Mom' did 'everything right' — then a colon cancer diagnosis changed her life - Fox News",
+      "published": "2026-07-25T13:00:18+00:00",
+      "summary": "'Fit Mom' did 'everything right' — then a colon cancer diagnosis changed her life&nbsp;&nbsp;Fox News",
+      "sources": [
+        {
+          "name": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVVEyT2dsRkh0UVFqbW9DNEJsSmQ1enhLTXpBN0VGUUROeU1hQ0ZsdFJ6UzRVczR4aWFXbzQ0TWRjT3d4TUJQRUZCRFdiUmROZEdsbkM5N0IwUG4wUzY2cFdfRHVXTEVYa2hsRDVpcURROEFhanpHcFhqWXlEYUNwdXhLajRIOWhGaV9XRWo5SXVSaTBHUEVsUkJfNDZtSXJ00gGmAUFVX3lxTE5OYVRGaG4zYko1S2NEVmx0YmwyMjlGQ2RWVTdaLXZ6T2hMMXF1R2JGYl9MU3VkRUxoQXFDbTJ6Y1dyVVdTTmMzTWY4MkZ5cXo2R1M2YXp4dEtIRUJYYXdjcHFabWg2cmllMDNQQ1NDakZ1eFBCTnpGdzFxY09HZm9UUVJkTmJ4U2JmT1NvdU5xRHA0a09nV0xhV0pidXppNlRfX1ZCZ3c?oc=5"
         }
       ]
     },
@@ -186,14 +318,14 @@
       ]
     },
     {
-      "id": "1a23e3feb612",
-      "title": "Grandfather with pancreatic cancer beats the odds with clinical trial - Yahoo",
+      "id": "647228c7b354",
+      "title": "A grandfather struggled with treatment for late-stage pancreatic cancer — until a clinical trial helped him beat the odds - CBS News",
       "published": "2026-07-25T12:05:18+00:00",
-      "summary": "Grandfather with pancreatic cancer beats the odds with clinical trial&nbsp;&nbsp;Yahoo",
+      "summary": "A grandfather struggled with treatment for late-stage pancreatic cancer — until a clinical trial helped him beat the odds&nbsp;&nbsp;CBS News",
       "sources": [
         {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObzdGNU9rQndhcnpCVm5oc0xJeVEtLVdtYnJFU1I5T3J0NlVnOVJEb3Y5U2NIcm1DUWVtejlDV2JLU2Z3am1ldmhVQkhpazNydHh0U2JMRlplWjBFampaRkhESkt0Y0VsMlBKQ1FzVU9Ha21EQXVkX0R6eVhka3hOb1EySGpCVFRrN0hiTngtNFJKdUZwNldtbGY3dzV2NGlH?oc=5"
+          "name": "CBS News",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQm9HODEzdVRTNDl5MUdaa250U2Z2c1Z5VXpjTWVEZ1YyWmdnVmdkV0FiWW5UUGNkSE4yYjcwTlBYZWxOUkQ5OWljOGNOb3pIeDhXM3R3dVhOYkVncm1keDdubXRIZm9rbHJhYm10VVJEbUhWbi0wNEwxcFROT0ZoVmN6d1BUUQ?oc=5"
         }
       ]
     },
@@ -282,14 +414,14 @@
       ]
     },
     {
-      "id": "0808bbce79e3",
-      "title": "Contagious Cancer Found in North American Catfish - WIRED",
+      "id": "622c7b5c232e",
+      "title": "How Many Electrolytes Should You Be Taking, and Can You Have Too Many? - WIRED",
       "published": "2026-07-25T09:00:00+00:00",
-      "summary": "Contagious Cancer Found in North American Catfish&nbsp;&nbsp;WIREDBrown bullhead catfish melanoma represents a novel transmissible cancer&nbsp;&nbsp;NatureScientists Discover The Fourth Transmissible Cancer Known To Science&nbsp;&nbsp;ForbesDeep in This Lake, a Contagious Cancer Is Spreading&nbsp;&nbsp;The New York TimesScientists discover 1st known likely transmissible cancer in wild catfish&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+      "summary": "How Many Electrolytes Should You Be Taking, and Can You Have Too Many?&nbsp;&nbsp;WIRED4 Electrolyte-Rich Drinks with Less Added Sugar Than Sports Drinks&nbsp;&nbsp;EatingWellThese 17 Foods Are Better for You Than Your Daily Electrolyte Powder, Dietitians Say&nbsp;&nbsp;TODAY.comWater Or Electrolytes? Biggest Hydration Mistakes First-Time HYROX Athletes Make&nbsp;&nbsp;Health and Me10 Electrolyte Imbalance Symptoms Doctors Want You to Know&nbsp;&nbsp;Yahoo Health",
       "sources": [
         {
           "name": "WIRED",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZEpYTU1UVmc4MjJGWG1IZ0o5RjhxbnNfUE8xaExJU3VzM3FWeE9lYkFOU1hic0ZvMHoySFlIS3VUdW5rVFBEczdybHptZ0ZqU2RWRTE1VVlTZHc5VU44UU9qanZDR1FpVU5xSm8xc2lMTW1aUGc3anN2d3ZUUGFqVUI2Ylg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMkJ5Nk52VFMwYUtUaUk4YlFVN2t1V1hSWDBsTWp5STZyTUR3TDZpRm5pY0ZBeVJYSnVuMHR0Tm5zbXBRQzNkLVZnVTBZb1Q3bnZFT1dmZWdDX2t1S21SZjZsa245ekEtY2xPZHhRbkx0S1hWSGxza1Vfd2g2MlFWMi1HS05ib0Nwb0RqOXRleWZmd3RPVnItcjV1VHNDZw?oc=5"
         }
       ]
     },
@@ -306,26 +438,26 @@
       ]
     },
     {
-      "id": "595d00b356a0",
-      "title": "Watching Too Much TV May Actually Rot Your Brain After All, Study Finds - ScienceAlert",
-      "published": "2026-07-25T08:03:38+00:00",
-      "summary": "Watching Too Much TV May Actually Rot Your Brain After All, Study Finds&nbsp;&nbsp;ScienceAlertDistinct Brain Effects Associated With TV Viewing&nbsp;&nbsp;Technology NetworksMidlife TV binging linked to smaller brain structures, especially in men&nbsp;&nbsp;LiveNOW from FOXIs too much television bad for our brains?&nbsp;&nbsp;The Herald PalladiumDoes Watching TV Really Rot Your Brain?&nbsp;&nbsp;Nautilus | Science",
+      "id": "b2df98a0c43b",
+      "title": "The Best and Worst Habits for Your Liver - The New York Times",
+      "published": "2026-07-25T07:00:00+00:00",
+      "summary": "The Best and Worst Habits for Your Liver&nbsp;&nbsp;The New York TimesBiryani, alcohol and the organs that pay the price: What happens to liver and gut&nbsp;&nbsp;The South FirstYou don't have to drink alcohol to damage your liver: Doctor reveals 9 unexpected factors that could be putting it at risk&nbsp;&nbsp;The Times of IndiaTips To Reverse Grade 1 Fatty Liver Disease&nbsp;&nbsp;NDTV5 common things you use every day that could secretly damage your liver&nbsp;&nbsp;TheHealthSite",
       "sources": [
         {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTDI2dVQyOG1sNFI3N2xEekxRNUd6UzQyXzZnd1NzVXlhVWMzNFQ1QXVCRVVFQXVwR3Vqem85T0FDal9XQXVzZGxYSEJLcHY5Z0ZhdWZ3UGdqQnhqX29lN3V4MF8zcEk1YWtkaG5CYzVsT242Q052b0JMQko0cGdqYm9DZnYxMC1PRTVLaGxEelBhdTdjS1M3dmR6X2tsX1F5?oc=5"
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zYVlROWhqUTJsTF94ZHNwY0RKdXNudm5hQTlxZG5YTHRDZ3dwbzh5YlQ0VDJQZGFZUVJhS01UU3VYRlMzY29xWFE4RC1hMHl6SGVJcVE5MVBJVW1peEs4NVAyWDRwaTA2dnlYRV9Cdw?oc=5"
         }
       ]
     },
     {
-      "id": "113b2fee3e41",
-      "title": "Experts review evidence behind updated protein intake recommendations - News-Medical",
-      "published": "2026-07-25T02:37:00+00:00",
-      "summary": "Experts review evidence behind updated protein intake recommendations&nbsp;&nbsp;News-MedicalProtein Intake and Cardiovascular Health: Separating Signal From Noise&nbsp;&nbsp;American College of CardiologyYes, It’s Possible to Get Too Much Protein. These Signs Mean It’s Time to Cut Back.&nbsp;&nbsp;PreventionWhy ‘just eat more protein’ isn’t an evidence-based nutrition strategy&nbsp;&nbsp;The Seattle TimesChia seeds in soda, protein in water. Why everyone is 'maxxing' their diets&nbsp;&nbsp;USA ",
+      "id": "4993beb68860",
+      "title": "Girl died after gene-editing treatment in China: Report - The Times of India",
+      "published": "2026-07-25T03:08:00+00:00",
+      "summary": "Girl died after gene-editing treatment in China: Report&nbsp;&nbsp;The Times of IndiaDeath of girl in Chinese gene-editing trial kept secret: Report&nbsp;&nbsp;Medical XpressFatal gene-editing trial in China raises ethics and oversight questions&nbsp;&nbsp;STATExclusive: A couple paid more than $800,000 for a gene-editing therapy for their daughter. She died, and it wasn’t made public&nbsp;&nbsp;Retraction WatchGirl, 6, Died After Experimental Gene-Editing Treatment in China: Science&nbsp;&nbsp;",
       "sources": [
         {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSzA0MXdkLVFxU1pxLUE1WnZyTFhkZ2JrRkhjTThvbFBpbFRGV1ptaXhBdkt2MUVaSzNKZkVMRnFha25iU1JKcUk5WmdWMHZ3ZVFjV0c5NmpoRWFNbTEtcTV5UWhabVJIMGF4VEtUN3lldV9DRmhWaEowSGtIbXJMLXZYWFRsQnc0Nmg0YWVmdWtjR1dZWmVod05zcDF1TVJ5QXNnWVpiRDV6UHNlNTl6UWFOX1kyX2Np?oc=5"
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRXU1LXNhT3RRb1ZPWmRGUFlmNjJ4YUEwbnNUbDJOUUg4c1lSbk81aFhIanNrUGk3Y3V3MGdNdWZzbTRIdkdWZ1dVd2pOeWgtUGtzRWFrODUxejNNV1UySklTdDQ0RHJXQnozUmlEcFIwRDZyM195My1Vbk9jZllPNmM4MGNaenBMRTN3MzdYenktUXVCaXhzWm1zVDJTMG9rUjlFcmFrYTViUmd4bmhFTmhFcWVxN0VnNnVLMkt4eFRuYThCa0tn0gHMAUFVX3lxTFBOb3RaRnlXdUQzLWl0TG51V0VDQUxWT1ZuU0YwLXRCanBVYzFLRmdVOVFnOE1xc2xmR2VoMlNheHlyelRRNUN6UjV5a2JUNW5RNzl6MzBUb1B4eFRmTTMzNUlzVlBuQVJpQ29fOV9WTkl2elp4Nkx2emFUekVZTmxCNXhrcjRvOHpsb05pSGM3S0pyelBKOGlIMEZIMW5MejlXbG5SR2RkNzVnZDVvTDliSWhKWnItVnk5TGJPYVJxUHBJTU9GaFBFYm9tVg?oc=5"
         }
       ]
     },
@@ -342,46 +474,10 @@
       ]
     },
     {
-      "id": "4183824b6f7d",
-      "title": "Heart disease in women: Women with THIS common hormonal condition are at higher risk, new study finds - The Times of India",
-      "published": "2026-07-25T01:25:26+00:00",
-      "summary": "Heart disease in women: Women with THIS common hormonal condition are at higher risk, new study finds&nbsp;&nbsp;The Times of IndiaFrom PCOS to PMOS: What the New Name Means for Patients&nbsp;&nbsp;SNJ TodayMedical Bulletin 24/July/2026&nbsp;&nbsp;Medical DialoguesOne in eight women globally affected by PMOS; Lancet study explains the reason for the name change&nbsp;&nbsp;theweek.inPMOS Linked to 4-Fold Atherosclerotic Heart Disease Risk in 2.5 Million US Women&nbsp;&nbsp;AJMC",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNHVjTDFHVTVNUzdkWmwwR2EtV0lyMEhIbG1BeGRPMkdxNWpxQi1lUThWMHlXY2p1emhrLUdTRHlscW5Yb0d1U3dNR1ZUSnpWRHIyWXRqdHFDbk5ucmtiRmNVR0xSV2tUcy1zTFZzX0xYU2NXVldiUkZWXzA4bFlMUzRNWEtJNmwzZHNJVFNPV2FNQU1KYU5CYU9wT19ycnNlNUt1YkhidDE3S1pmZWNocmRaRS1OV0M4Y1FMZUlUaXUtTTBLNEN3T3Z3QWVfYjZZT256b09TYXVyY2VPeEpseXBBVTgtaGZfbkFZR0JCN1l3R3NTQjJ0TndNVFQ4Z0lWVlMzOEZXNNIBjwJBVV95cUxQLVoybUZ4Y2NSTVZtVjMtRGRGQW5GbmpWMWtXR0ZxU2lPQ25vUmFtM1B2U0czbFp4d1BacTJvdTc0RVhURDBnczQwRFBhVUI5U255eG9MQjlkYUdHNUVyWFhHZU5oZFVob3BEZUVia05HRzA4YWZFUGdfcVBhZFgyTmU5WEQ0VTBoVzFFWmVxUUVYWkFPTVRkSWNWX1Nqa2tDRExROGdLMHRMdWlqU2o1TU5xbV9Na0wyYlVXMElfTUZlZFhOUHRiWkJuQlljM0tFQTVmMlBVUzVYbUR4aTBmTGFVbkpjTFQxX1MzcldHcEFaUExkS2dFUExVSmtBdlNSekdtbnV0bUltRWdPSjQw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f38865cad066",
-      "title": "First baby born at Fresno Kaiser birthing center returns 3 decades later to deliver her own son - ABC30 Fresno",
-      "published": "2026-07-25T00:55:11+00:00",
-      "summary": "First baby born at Fresno Kaiser birthing center returns 3 decades later to deliver her own son&nbsp;&nbsp;ABC30 Fresno",
-      "sources": [
-        {
-          "name": "ABC30 Fresno",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVXgzb3JTd0c4RDJOVmhaZXhXLU1ac2kyd0ViYlRfQXFJSjFuOXVHWldQZEo3b1Vvam55SWRNazVJN3B6anVuWjA4eHhXM3lKM3dFRi1yckp1X0hLaFlWZ0dtQWduS2FPbmR5RUdBN0M3cDdmczJWMVJmaElZdFI3VndkNURfREtzblRlbTZFdWUwWmZjeVlHY3dOY3dzNXdMdU5GandPRW1JYklQWFN0c1hpQXpkUkFTVlHSAb8BQVVfeXFMTjRBSVZ3R2dhNE5aYXpKZ094VU55c3FmZDFEZGhlNU9IN0ZVQ1dyUEFDNXN0c3lMQXVpUDRrT0VhaWpUZmdrNGlVR1dSVGViU1NWSlp5M0dIdjVVOXNJdnJnTFVWNHFHUUhTTm5HSktxSk1ta1ZHTWFCd1pFa0lwNTVVWHUyRXlncGM0QU81Z2FUeURDZncwRVV5eEJOdTJ2MzRtZUJVRFhHVWdhcDZyd1Y3VGFpOEYzUEhnNk43ZDA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "846927e6d306",
-      "title": "My Doctor Forced Me To Do Something Disturbing. It Kept Me From Seeking Further Medical Care For Years. - AOL.com",
-      "published": "2026-07-24T22:53:29+00:00",
-      "summary": "My Doctor Forced Me To Do Something Disturbing. It Kept Me From Seeking Further Medical Care For Years.&nbsp;&nbsp;AOL.com",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaDdiX3lrT3JsVE5OU0VCR0dycXpKdUV3Mml2allCOGJxX2sxXzBLcmFuTXRLa05sRXkxOU1IZUtnMXNKUndyNERUSVNXdEFwZE1jZW1tNnZwTE4zbWVycjdVWmFGRnhBVjNBZDlTbHFxVWdRY1E3ZlpRSHplWm81T1lWVUJEU2QyX3k4?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2024a563a01d",
       "title": "Bat with rabies lands on family’s table at a California restaurant - The Independent",
       "published": "2026-07-24T22:50:00+00:00",
-      "summary": "Bat with rabies lands on family’s table at a California restaurant&nbsp;&nbsp;The IndependentRabid Bat Startles Patrons at Vista Restaurant&nbsp;&nbsp;San Diego County News CenterHealth officials warn of rabies after bat lands on table at Vista restaurant&nbsp;&nbsp;NBC 7 San DiegoBat that dropped onto table at SoCal restaurant had rabies, officials say&nbsp;&nbsp;Los Angeles TimesRabid bat found near zoo restaurant sparks urgent public health warning: 'Extremely serious'&nbsp;&nbsp;Fox News",
+      "summary": "Bat with rabies lands on family’s table at a California restaurant&nbsp;&nbsp;The IndependentRabid Bat Startles Patrons at Vista Restaurant&nbsp;&nbsp;San Diego County News CenterBat that dropped onto table at SoCal restaurant had rabies, officials say&nbsp;&nbsp;Los Angeles TimesRabid bat found near zoo restaurant sparks urgent public health warning: 'Extremely serious'&nbsp;&nbsp;Fox NewsRabid Bat Lands on Table While Family Is Eating Lunch at Southern Calif. Restaurant&nbsp;&nbsp;People.com",
       "sources": [
         {
           "name": "The Independent",
@@ -405,23 +501,11 @@
       "id": "81d85da538ed",
       "title": "The ticks are winning - vox.com",
       "published": "2026-07-24T21:20:00+00:00",
-      "summary": "The ticks are winning&nbsp;&nbsp;vox.comThe Best Ways to Keep Ticks Out of Your Yard, According to Experts&nbsp;&nbsp;Good HousekeepingTick bites are on the rise in the US and UK. Here’s how to protect yourself&nbsp;&nbsp;The GuardianThe Tennessee Department of Health urges protection against tick and mosquito-borne diseases&nbsp;&nbsp;YahooTicks warning NC | Tick bites reach decade high; lyme disease, rocky mountain spotted fever can be transmitted to humans&nbsp;&nbsp;ABC11 News",
+      "summary": "The ticks are winning&nbsp;&nbsp;vox.comTick bites are on the rise in the US and UK. Here’s how to protect yourself&nbsp;&nbsp;The GuardianThe uptick in ticks&nbsp;&nbsp;The WeekTicks warning NC | Tick bites reach decade high; lyme disease, rocky mountain spotted fever can be transmitted to humans&nbsp;&nbsp;ABC11 NewsUnderstanding emerging tick-borne risks at Aberdeen Proving Ground [Image 3 of 3]&nbsp;&nbsp;DVIDS",
       "sources": [
         {
           "name": "vox.com",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QTmplVHQ4OU5SYjNYb1BXR252STQtallaR0VTSFZuX1VwYTVwSzNLMWRmaHJhdWludHF6c0k4S0hKVFl1ZzlUYUVtOU9rRWdNTTlCc0N1TXBOa180OGdlcUJUM1VGb3BDaHFDUVZodjBKdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "eac93dffba71",
-      "title": "One immunization may protect newborns against 2 serious diseases - CIDRAP",
-      "published": "2026-07-24T21:03:22+00:00",
-      "summary": "One immunization may protect newborns against 2 serious diseases&nbsp;&nbsp;CIDRAP",
-      "sources": [
-        {
-          "name": "CIDRAP",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcXlZTUdvUjd6QmxBQUFZOUhhTk5hZUNjaUJFSkpNV0xwdF9ueFAyX0xHYkNSSEZ2XzVROU40Sl9UcjIxRkRSeTFhNzhmUEZoVV9Dc1pnUHBWUEt6U2dxSnFvRG5ZdFJWcTFmX25SdXNKdHpsZ1prQjhrVXQzZ3kwSmFGbUl0aU11NFcxSTBkUFBLUi0yalBoOXQ4M2xnbkNWcGotLXltcU83MlZvSmsyeURpNzlIWFlzdGNFTXh2Y3A?oc=5"
         }
       ]
     },
@@ -453,7 +537,7 @@
       "id": "e2b1ffb8af57",
       "title": "This satellite image of a 'hummingbird' isn't what you think - USA Today",
       "published": "2026-07-24T20:03:00+00:00",
-      "summary": "This satellite image of a 'hummingbird' isn't what you think&nbsp;&nbsp;USA TodayUS-India Satellite Delivers Data, Reveals ‘Hummingbird’ in Antarctica&nbsp;&nbsp;NASA Jet Propulsion Laboratory (JPL) (.gov)Satellite spots a 'hummingbird' in Antarctica photo of the day for July 23, 2026&nbsp;&nbsp;space.comNISAR S-Band SAR Data Products Release&nbsp;&nbsp;ISRORadar Signals from US-India NISAR Satellite Turns an Antarctic Peak Into a Hummingbird&nbsp;&nbsp;TechEBlog -",
+      "summary": "This satellite image of a 'hummingbird' isn't what you think&nbsp;&nbsp;USA TodaySatellite spots a 'hummingbird' in Antarctica photo of the day for July 23, 2026&nbsp;&nbsp;space.comUS-India Satellite Delivers Data, Reveals ‘Hummingbird’ in Antarctica&nbsp;&nbsp;NASA Jet Propulsion Laboratory (JPL) (.gov)NASA-ISRO's NISAR satellite spots hummingbird-like formation in Antarctica | NASA also shared an optical-light image | Inshorts&nbsp;&nbsp;InshortsNISAR S-Band SAR Data Products Release&nbsp;&nb",
       "sources": [
         {
           "name": "USA Today",
@@ -522,26 +606,14 @@
       ]
     },
     {
-      "id": "4c9e0e07e56b",
-      "title": "An experimental gene therapy killed a 6-year-old girl in China. Her parents are seeking accountability. - Live Science",
-      "published": "2026-07-24T18:02:20+00:00",
-      "summary": "An experimental gene therapy killed a 6-year-old girl in China. Her parents are seeking accountability.&nbsp;&nbsp;Live ScienceDeath of girl in Chinese gene-editing trial kept secret: Report&nbsp;&nbsp;Medical XpressFatal gene-editing trial in China raises ethics and oversight questions&nbsp;&nbsp;STATExclusive: A couple paid more than $800,000 for a gene-editing therapy for their daughter. She died, and it wasn’t made public&nbsp;&nbsp;Retraction WatchGirl, 6, Died After Experimental Gene-Editi",
+      "id": "927b07a7ccbb",
+      "title": "Spontaneous changes in brain state influence the readiness to form memories, neuroscientists find - Medical Xpress",
+      "published": "2026-07-24T18:20:05+00:00",
+      "summary": "Spontaneous changes in brain state influence the readiness to form memories, neuroscientists find&nbsp;&nbsp;Medical Xpress",
       "sources": [
         {
-          "name": "Live Science",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOS2IyZUthN3JWSmFoWHdBU1hBdnJvYVlzWmQ5QUhBTzVVTmU0OUtRLWtXZFhXWlA3Q3lELUNMVFZmTmFOdVhwRkFNN0FHWlBZQ0tKSzF2VDlQbDlmWUVtUnktcXc2WWhDdlhqYVloNXNSLUZSNC1kQXRSUGIwS2tRSEVBUFYzR3BrYUhJX2g4b0dYdXhfTEdqb19ta2JiZVNFV3piQWxlRjFIN3kzYVcxdEEwenhrTndJSW9GM1hrZ0ZzRGNGemFhNzU4ZVJQRGk1MzI2MHo5T2w3QTBkUUhrZDJKUmc3VXMyMHgyYUhHamx3b2Y3ZXdTLWZIbmd5OXlfN20wZUc3c3ljTE0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ad5dc1a58fee",
-      "title": "Could the new limit for human life span be 190 years? - Medical News Today",
-      "published": "2026-07-24T18:02:12+00:00",
-      "summary": "Could the new limit for human life span be 190 years?&nbsp;&nbsp;Medical News TodayUltimate Limit of The Human Lifespan May Be Identified, Study Suggests&nbsp;&nbsp;ScienceAlertScientists reveal maximum age humans could live to if we can cure ageing&nbsp;&nbsp;The IndependentAging may not be the real reason humans die: This hidden DNA damage could decide how long you live; study suggests&nbsp;&nbsp;The Times of IndiaScience thought the human lifespan was 122 years. A new model says we could live",
-      "sources": [
-        {
-          "name": "Medical News Today",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdERLM2RSVFdjemVsV0x2SE8teUlRd3QyQjNGTUtvNXpRNmY2TUMwdUszWjJFV1ZnYlFhSk10NWh5MFlEanpQcU1MUms0STJIYTNzSjJkSE0yZFpDclJjWXhvY1BGekV1YzRCd0VTVmpsMHZvRTA2VVVNd2RuNURoQ1RHLUpIQUR4WlkydEd3S0xIdHZKY0hOS25sNUc5NGZqZmR4a2d0V2M4QWhucklxY1d5YkZmdno3?oc=5"
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSHVJT0xXbnhXV1NmTEJPRV8zSVBwQjVuSTNMbnktTjlCQk9rWWNQMFpKbDJ5VzlicTdjUXM0YUlrOTBMeFpZSzNsTDR1ZmlFR1NJUk1iVGwtX1ZWd2RjUmZSZERVb0xmYXZLS3I1enNaa2QtMlllcDhZZmtwVDZRY3pUNHQ4MzVCX0ZqZ19yUQ?oc=5"
         }
       ]
     },
@@ -558,18 +630,6 @@
       ]
     },
     {
-      "id": "dbd6774b671c",
-      "title": "Study Reveals Ongoing Natural Selection in Modern Humans - Neuroscience News",
-      "published": "2026-07-24T17:21:53+00:00",
-      "summary": "Study Reveals Ongoing Natural Selection in Modern Humans&nbsp;&nbsp;Neuroscience News",
-      "sources": [
-        {
-          "name": "Neuroscience News",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaUNxNFpMcXIxSVJrQnBaSkxRR0RRWTZNYUNJRGRYVGo4UEl2LUxxU2g0ZXR2TENqWjdGM3lEMEdfVkU5YXlIc29uMW9NTjFWWDNZRVVsbDhwWlg0NkFaRUR3UkE2MF9CNmctNm1PbERuV0xKdF9ZN05JTk1oODZUUm0yMA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "235e5ca2def1",
       "title": "Injectable biomaterial harnesses the immune system to promote brain repair after stroke - Medical Xpress",
       "published": "2026-07-24T17:00:05+00:00",
@@ -582,14 +642,14 @@
       ]
     },
     {
-      "id": "39724fef89f6",
-      "title": "Why Europa's hidden ocean may be more difficult to reach than scientists thought - Phys.org",
-      "published": "2026-07-24T16:00:03+00:00",
-      "summary": "Why Europa's hidden ocean may be more difficult to reach than scientists thought&nbsp;&nbsp;Phys.orgStudy suggests Europa’s icy shell may block ocean water from reaching the surface&nbsp;&nbsp;Open Access GovernmentJupiter's moon Europa hides a saltwater ocean that may contain more than twice the water of all Earth's oceans combined, yet a new measurement puts 29 kilometres of solid ice above it, a barrier taller than three Mount Everests stacked end to end&nbsp;&nbsp;Space DailyLimited direct f",
+      "id": "d816f6d08d41",
+      "title": "GLP-1 to ‘I do’: Harvard study finds spike in marriage after women lose weight - NewsNation",
+      "published": "2026-07-24T16:28:03+00:00",
+      "summary": "GLP-1 to ‘I do’: Harvard study finds spike in marriage after women lose weight&nbsp;&nbsp;NewsNationSee more headlines & perspectives on Google News",
       "sources": [
         {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc3VIc2trVHBzTGFHc3JVN1FRZERweG5XelZYSEpRakNZOURpUi1iQ05YbHNTaHVqdmFvQTJtc0FDVWlFZzhuRC0zX09ISFlzV0tMNFd6a3daV19LdUQ0S3ZvSi0xZ184TzExZDhWSFJlX0hIZmlfUlBreWplckhENA?oc=5"
+          "name": "NewsNation",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORjBTLXFMTER2Q0pRZy1BQVdkWV9CM1A2bWhtanJqTWJzSzhrVVloODBUTk5zYU1HTzJiWEtZR21yemQxcXBLeGtxaG43OXVKeXl4blozLVI4bjB2T0w1WFZYaWlkRDRtb0k0d2ZKVmhCZ0VnWTJ3a3RQeHZvN3pPeE55NFVxMTZu0gGOAUFVX3lxTE5SMWVqT1FNMkpPcGo5TGZJYlFPTkRiZkUxdm1HelBUa01DQ1NMUVYyNllpdkY0Z1JSZFVMSjZhdFNMa3NLZF9yeWF6LXZUaW84Z2MtVlRHQmlyaUVKc25nUlBDY2JrLUJBZmxCVmJuU0FnQ3BYSGpIdlpYV0ptanM5V284NEZfanhFSWlQWGc?oc=5"
         }
       ]
     },
@@ -606,22 +666,10 @@
       ]
     },
     {
-      "id": "e644931532e1",
-      "title": "Dietitians Suggest These 10 High-Protein Breakfasts That Keep You Satisfied and Energized Throughout the Day - Prevention",
-      "published": "2026-07-24T15:00:04+00:00",
-      "summary": "Dietitians Suggest These 10 High-Protein Breakfasts That Keep You Satisfied and Energized Throughout the Day&nbsp;&nbsp;PreventionHealthy breakfast ideas to support energy and metabolism&nbsp;&nbsp;Harvard HealthThe 7 Best Foods to Eat in the Morning for Steady Energy All Day&nbsp;&nbsp;Real Simple5 Keys To A Hormone-Supporting Breakfast, From An Endocrinologist&nbsp;&nbsp;Yahoo HealthNutrition Experts Recommend Swapping Protein Shakes for Whole Foods for Better Satiety&nbsp;&nbsp;AOL.com",
-      "sources": [
-        {
-          "name": "Prevention",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUTZPVVgwY1pyYllCS0FZbEZQSkNvb2RMYzdJRkJfRkRzeXpqbF9YTElYZXBEYlpiSUlVT3p6aklBVUJsVjhGOV9jVVJaN1h2NHl3V2E2WU1JbmhPR1dTYzJBd0Iya0hqZGFoMGhudTd1ME4yXzB1TWVtbkVzN3RtOWktbFBQalRHNHh5cHF3X3MtaWh0LUpOSy16TlM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "48f61cf5ddf0",
       "title": "First person gets new experimental vaccine for Ebola - BBC",
       "published": "2026-07-24T14:43:51+00:00",
-      "summary": "First person gets new experimental vaccine for Ebola&nbsp;&nbsp;BBCFirst volunteer vaccinated in the world's first Bundibugyo ebolavirus vaccine trial&nbsp;&nbsp;University of OxfordExisting vaccines induce antibody response against the Ebola virus that's driving Congo outbreak&nbsp;&nbsp;CIDRAPWHO Launches Clinical Trial of Two Experimental Ebola Treatments in DRC&nbsp;&nbsp;Global BiodefenseIs the licensed Zaire ebolavirus vaccine suitable to combat the current Bundibugyo ebolavirus outbreak?&",
+      "summary": "First person gets new experimental vaccine for Ebola&nbsp;&nbsp;BBCExisting vaccines induce antibody response against the Ebola virus that's driving Congo outbreak&nbsp;&nbsp;CIDRAPFirst volunteer vaccinated in the world's first Bundibugyo ebolavirus vaccine trial&nbsp;&nbsp;University of OxfordWHO Launches Clinical Trial of Two Experimental Ebola Treatments in DRC&nbsp;&nbsp;Global BiodefenseIs the licensed Zaire ebolavirus vaccine suitable to combat the current Bundibugyo ebolavirus outbreak?&",
       "sources": [
         {
           "name": "BBC",
@@ -650,90 +698,6 @@
         {
           "name": "The Independent",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd3lqVkxyMUQ2aV9tYldtMEJBemU2ZzFYWTBCQzVseGE4RzlUeWRqYmgwaHJIcTZaX1pnaWkwcno5ejZ4VE9YMng0NXVhSlRVQV9ZRHNoVEJES1hHTGhKNDF6OWJpVlV5bW9MZXlhREh3TUhZcmdELUZBenV2VG1LQTBLd3ZCbGZmdjlzNjFfc05KbUhfQVpiUVNEOGE4UWVJclRsUHpoX3U0SUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d8f0abc5092c",
-      "title": "The Benadryl Challenge isn’t going away – here’s how public health officials are trying to stop this deadly viral trend - The Conversation",
-      "published": "2026-07-24T12:43:12+00:00",
-      "summary": "The Benadryl Challenge isn’t going away – here’s how public health officials are trying to stop this deadly viral trend&nbsp;&nbsp;The ConversationSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "The Conversation",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNLVV6aDJkbTdQYlprcDVQd01TbGFiOXNRQzZjeHp4bVNTcTNSdElSSnl4aTRBdnM2Y3VGbWZmMjdzOFVSRnNQMW1xV3ptWUlTNkJmUmVablhLZFd1bG04aXZHeWRWNVdGRDRzMWdNREZtSHF5eHhHMzhVb1V1WXdZdVFveVdlUzd6Vk1TMUVqT21kbkZYcUQ1Z3dQREdkRWVSYzhhYUN5UlBkQS1ZRGp0SHVFN1RWcW9YSGgydWdNd3JHODVoRFhxYkN2RzJRX1RQOWZCYm04V0FXM0duQURLUVlIeGM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3faf9d6d9445",
-      "title": "Should We Be Concerned About Muscle Loss With GLP-1s? - Medscape",
-      "published": "2026-07-24T12:11:33+00:00",
-      "summary": "Should We Be Concerned About Muscle Loss With GLP-1s?&nbsp;&nbsp;MedscapeAmerica is embarking on a risky experiment with GLP-1s and aging&nbsp;&nbsp;Scientific AmericanZepbound: GLP-1s May Raise Frailty, Muscle Loss Risk in Older Adults&nbsp;&nbsp;HealthlineMillions of Older Americans Are Starting GLP-1 Drugs Under Medicare Without Age-Specific Safety Standards, Experts Say&nbsp;&nbsp;Medical DailyDr. Wallace Brucker Launches Medically Supervised GLP-1 Weight Loss Program in Las Vegas Built to P",
-      "sources": [
-        {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNblplUUlvclItTmZ1aG1Vb2FVOF83S3BlYm1wZTgtQWRsNlF0V29EZHRyTVZiQUU0RUtLanNlalVabEQyODFoVmdBLW00QWlXVmdPVFIybFo5dThxaklaZFQxTG1KRTczb21lMUVzSXZrM2d2VWktcGRhWEEwY0hLV1FfNXg2Nzc5eWFSUXUxM2o4Y05zUHIwajhfZXUyQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "24d6247698db",
-      "title": "The Best Balance Exercise to Do After 40, According to Physical Therapists - EatingWell",
-      "published": "2026-07-24T12:00:00+00:00",
-      "summary": "The Best Balance Exercise to Do After 40, According to Physical Therapists&nbsp;&nbsp;EatingWellColumn | Here’s what an expert on accidental falls does every day to prevent them&nbsp;&nbsp;The Washington PostBalance exercises help seniors stay steady&nbsp;&nbsp;WCNCSenior Scene: Falls are preventable medical events&nbsp;&nbsp;Belleville IntelligencerKatonah Village Library helps seniors stay on their feet&nbsp;&nbsp;Halston Media Group",
-      "sources": [
-        {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS2xEWC1FYTdhMlQtUFhOSHptaXd0S0pybXZVam1zVEVlT0JqSDIyRzRqVlFGUHdfXzlEcW5yM0tFVENuLWpSZWp4VFRSV05kZGt1U0NFMkd2d0dhOFZxWWpPNTJHNENsYTUtUzNpWWpldHI3dlJSSFVVZ2tSb0pSNGR3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ab8d53e515c0",
-      "title": "Distinct brain regions mediate regulation of food intake in response to GIPR agonism or antagonism - Nature",
-      "published": "2026-07-24T11:58:00+00:00",
-      "summary": "Distinct brain regions mediate regulation of food intake in response to GIPR agonism or antagonism&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSREpuY09BN3JaSTJBdC03WjgtMk9UR3FGY2p6SGZIdkRYTnhpNnNZN01VWmxEYWxVM3UwWDR3OTh3WldIOWw3VC00Qmp0OHJQRlAwNl8ydldWN2VOTk9z?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3b0d9d51dffa",
-      "title": "Researchers explore one of Africa’s deepest lakes – and found an unexpected creature lurking in its depths - BBC Wildlife Magazine",
-      "published": "2026-07-24T11:14:55+00:00",
-      "summary": "Researchers explore one of Africa’s deepest lakes – and found an unexpected creature lurking in its depths&nbsp;&nbsp;BBC Wildlife MagazineWhy don’t insects live in the ocean?&nbsp;&nbsp;YahooInsects survive 1,213 feet of pressure under water, defying physics&nbsp;&nbsp;Popular ScienceIn One of Africa’s Deepest Lakes, Scientists Have Found a Species No One Expected Swimming at Incredible Depths&nbsp;&nbsp;The DebriefInsect ‘submariners’ don’t implode at depth, leaving oceanic mystery unsolved&nb",
-      "sources": [
-        {
-          "name": "BBC Wildlife Magazine",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOXo5NVhJdFQwQmhDQjFWNTlkYXlzMFVUUS1Oa0x0WlVHdUczY0k1MXlZRTFrRkVXZWNlc290WlpVYUdWVkZaSHJzSU52dU10UTBTUzlOZHBST3hldEdiR0s3WXdMYjhWSXFaTHAxalZBWUdWaEZnaWw3NVNhaFUxcW5ZUzB2WjZUOEtMZGx4bHBEZnQzUmh5SkZON2JWNDNzTjBiSg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "16642903c137",
-      "title": "Does this disappearing organ hold the secret to longevity? - Al Jazeera",
-      "published": "2026-07-24T10:15:21+00:00",
-      "summary": "Does this disappearing organ hold the secret to longevity?&nbsp;&nbsp;Al JazeeraThymus hormone identified as key player in reversing age-related inflammation&nbsp;&nbsp;News-MedicalThymulin restrains age-associated myeloid inflammation and enhances cancer immunotherapy&nbsp;&nbsp;NatureMarcel van den Brink: Renewed Interest in Thymus Biology Reflects a Broader Shift in Medicine&nbsp;&nbsp;OncodailyScientists May Have Found a Natural Defense Against Aging. There’s a Catch&nbsp;&nbsp;Newsweek",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNVJDWXNVSWViRFNGRkVqRlFzNzZsWDdla2dUa201NE9TSFk1ZUM5RWcwbUVTY25PQ0JleXZSdFVVUzRtNHk2X3BhSUg4Y0d4MmhYcnFpZkxzUnFIcVdIc2phVG1tcTVINkY5cmRlbnNGWV9lVHdWeHhZMGdISFVoaVVCRzJiUFY2OWdUcjh0SmdNdGhKREJ2bGRWMGZycnfSAaQBQVVfeXFMTjJORnAxMW82Z05kaFQ3WFYtVVhCSDljREprWXdtUHZDTmZQS24wWHFqbnFfcW91ZmREOHMyeG9WbzZ0UnZ4Y0xXSjlrOVFBa2o0WDNvZkRIZFR1Ni11N1p2dU1TbUlZcXJBdXNlVzNaSlBFZlF2clpFRlJBOVRTdkxzMk1LMFEtMzkwcWw1MW1VNHNhcmxiandmSUZGT0FZQk5HRDc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "76454150cfc3",
-      "title": "Nearby 'super-Earth' may be habitable, researchers find - Dallas News",
-      "published": "2026-07-24T10:08:37+00:00",
-      "summary": "Nearby 'super-Earth' may be habitable, researchers find&nbsp;&nbsp;Dallas NewsClosest potentially habitable ‘super-Earth’ identified, about six times the Earth-Proxima Centauri distance depicted in The Wandering Earth: Chinese netizen&nbsp;&nbsp;Global Times",
-      "sources": [
-        {
-          "name": "Dallas News",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSF9DQUhBTlozek4wWjZfSExfamVfMlB1Z3k3bGxINkJsd2VrVHdyc3JScEM2U3lMTW40dUpYektBSDhmQkR4QXVGRkxHUlBJUFNqN1Z1QXNDWTl1bTd6WlZuLTRxdjRQSDJ5R3FOZEg5QWVWbVlWV2xiVlhCZmR2a2xORkJoNVUwd0lIVXVWM2JzWXBpYnNBU0dNVkdIc2M1TTV2N1BjSjZzSEpIMzZ1cHhDc1NYb2RISTlWMXBScV8tWW05amc?oc=5"
         }
       ]
     }

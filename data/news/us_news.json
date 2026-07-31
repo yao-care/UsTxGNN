@@ -1,26 +1,14 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-07-30T19:36:18.364458+00:00",
+  "fetched_at": "2026-07-31T03:16:16.071669+00:00",
   "total_fetched": 122,
   "unique_count": 122,
-  "health_related_count": 65,
+  "health_related_count": 63,
   "news": [
-    {
-      "id": "3a311192f270",
-      "title": "Older adults taking 5 or more prescription drugs face higher risk of death, study finds - Fox News",
-      "published": "2026-07-30T18:34:52+00:00",
-      "summary": "Older adults taking 5 or more prescription drugs face higher risk of death, study finds&nbsp;&nbsp;Fox News",
-      "sources": [
-        {
-          "name": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZjM0YlkxU1VlWUh0Y2g0d1pITjlwMUIzZU40c0E2MUVWcDl6U1dRZUdqTXpIQWU1SGpmMHRjVTRIYmtDNDRFUzBnLXVfVXI1emRkN2xUSW5CVVRXRzVXN0N4Yl9iWFppVjJHNXZkSnBsLXBoOXluZHBPbHpmNE94VFBPWDUyVkFYZDBuR2ZCdlNKdGdzWFJCeEVSbmR1aVdQaDY1WXp0X2ZCNEo1VHhoX3hNRFTSAboBQVVfeXFMTW52SnlsOWJ1dDlRN3BYWDZPNXl3aTFhRFBSeXJTSEtDRW5ySGZrdV9ub1Z0WXBBNWxtb3RKTWVPVlZiaXlWSnkwaTZ5aV9UNVVQRlV2Z3ZjYUQ0Q3E3cGNwdmZqYkFJTXVIU2NYeWFnX09hazJEa1JGSjBlaUFpX21ZQ3NpV1RXcHFLUUIxS09mRUdKc2dDSmxMd1hzemQ3WEVUcjFhSGU2cEx1UkU3cUpBWUFPeXlSTTNn?oc=5"
-        }
-      ]
-    },
     {
       "id": "16f6549b0c6d",
       "title": "New guidelines take aim at a syndrome impacting nearly 90% of U.S. adults - Pittsburgh Post-Gazette",
-      "published": "2026-07-30T18:32:40+00:00",
+      "published": "2026-07-31T02:14:26+00:00",
       "summary": "New guidelines take aim at a syndrome impacting nearly 90% of U.S. adults&nbsp;&nbsp;Pittsburgh Post-GazetteCKM Syndrome: Staging, Screening, and Treatment&nbsp;&nbsp;MedscapeHeart, Kidney & Metabolic Care: A Strategic Imperative for Health Systems&nbsp;&nbsp;MorningstarSmall Workflow Changes Close Big Gaps in CKM Screening&nbsp;&nbsp;The American Journal of Managed CareResearch connecting heart, kidneys, and metabolism leads to newly identified syndrome&nbsp;&nbsp;Kaiser Permanente Division of ",
       "sources": [
         {
@@ -30,33 +18,57 @@
       ]
     },
     {
-      "id": "c487cf08ed12",
-      "title": "A Daily GLP-1 Pill Could Curb Heavy Drinking - Gizmodo",
-      "published": "2026-07-30T16:45:04+00:00",
-      "summary": "A Daily GLP-1 Pill Could Curb Heavy Drinking&nbsp;&nbsp;GizmodoGLP-1 weight-loss drugs may cut drinking and alcohol cravings, new study finds&nbsp;&nbsp;UCHealthThe Drug Behind Ozempic And Wegovy Pills May Also Treat Alcohol Use Disorder, New Trial Finds&nbsp;&nbsp;ForbesVA launches trial to test GLP-1 medication for alcohol use disorder in veterans&nbsp;&nbsp;Military TimesCan Oral Semaglutide Reduce Alcohol Use? CU Anschutz Clinical Trial Shows Fewer Heavy Drinking Days&nbsp;&nbsp;PR Newswire",
+      "id": "702b803e4020",
+      "title": "Flea-borne typhus outbreak in Pico-Union prompts warning from LA County health officials - ABC7 Los Angeles",
+      "published": "2026-07-31T01:18:59+00:00",
+      "summary": "Flea-borne typhus outbreak in Pico-Union prompts warning from LA County health officials&nbsp;&nbsp;ABC7 Los AngelesHealth officials warn residents after flea-borne typhus outbreak in Pico-Union&nbsp;&nbsp;NBC Los AngelesTyphus Cases Reach All-Time High As New Outbreak Sickens 5 In LA County&nbsp;&nbsp;PatchLA County health officials issue warning due to flea-borne typhus outbreak in Pico-Union&nbsp;&nbsp;cbsnews.comPublic Health Reports Localized Outbreak Of Flea-Borne Typhus&nbsp;&nbsp;KHTS Ra",
       "sources": [
         {
-          "name": "Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQTdkOHhIcFQ5ekVsZDQxRW5vVG1TUzJGSTBWalUxR0tUMFlqN2h2WjVfVUt5TVhoaERFSlZZU0VxV1ZiOVBHSDhpeVNWRWNRbkd5WWVDdDdJVmh5MHplaDE2cVV1UG81UGU5bFBQYWhra1Awd0dxNlFLTlpUMzNqeA?oc=5"
+          "name": "ABC7 Los Angeles",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbm1kUExDOXpnS3ZELW9iUEJCT21iMGtlWEhyblNxZmZXVlNiNHJ6aVRwOS1LQWd2amdkQ1hKTVFEZWNUNmNUY0M2T2NGS0x3RHhFMS1zbjl0ZzZBcG5zVzd3UDNYNVQwaEVRZXZLajFtdGZONnRjX0xPUG8wanBwTjBkSHNOWS1xTy1oa1NZME5MRG01QnM0Tm42cEhsSktzeE9XMFhDalFta09CX2ZXQmln0gG3AUFVX3lxTFBaZ2R6VHVjd0gwMjktWHNDOXlhNWltbWZkM2VUYVRwYUhCLWh4MXlnYUdpS0NWM2Y4ZUtHZWk2YTYxZ2Q0LUxFelpVSFMxNmgxWlF4S1pZMndJSU5qQUxJZjlGMW5hMk93RTVyeEt3R19XdWdPVGN4RG5Mc1ljOUV3LUlRckFUcUhYa0VjdWtMbU45aFh3TWJZaEw3TXNOajJYYTlvUkZhV09sS3RPYWFDNHJmd3ZXNA?oc=5"
         }
       ]
     },
     {
-      "id": "c160ec127604",
-      "title": "She avoided cervical cancer screenings for 30 years. Her wife's death changed everything - USA Today",
-      "published": "2026-07-30T15:37:00+00:00",
-      "summary": "She avoided cervical cancer screenings for 30 years. Her wife's death changed everything&nbsp;&nbsp;USA Today",
+      "id": "af0c6143a11e",
+      "title": "‘Flesh-eating’ bacteria infections in Florida: 1 dead, 12 confirmed cases, health officials report - WPLG Local 10",
+      "published": "2026-07-30T23:16:53+00:00",
+      "summary": "‘Flesh-eating’ bacteria infections in Florida: 1 dead, 12 confirmed cases, health officials report&nbsp;&nbsp;WPLG Local 10Florida records first flesh-eating bacteria death of 2026&nbsp;&nbsp;WTHRFlorida Vibrio vulnificus cases rise to 12, with 1 death reported&nbsp;&nbsp;Tallahassee DemocratFirst flesh-eating bacteria death of 2026 recorded in this state&nbsp;&nbsp;USA TodayFlorida sees first death in 2026 from ‘flesh-eating' bacteria in Palm Beach County&nbsp;&nbsp;NBC 6 South Florida",
       "sources": [
         {
-          "name": "USA Today",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObGY4VV9aSkZiNjJuTEFncm1OMk5vdnMwTUstYW5RNW9sQ002STBzS3BfUjMwdHZFRDlrUXlKaHIxMTVfWkZaYXMtb2hHb1NOMXFiWEFDbW1oWmhEVkk0ZVF1eEJnSnA5X3VxMWhqVDRzb3N0bWxzQm05Z1d2endlajJZeFJsb1BpS25SdnlUZW1McC1YdExpTnNXdk1WdkV1dHpZS0lKLS1Ta01fMjZXbHRn?oc=5"
+          "name": "WPLG Local 10",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc3VXNjA1VVlfdlZhUXI3dGRQdm96ano0UlVlVGNVOW5qcUJjVkFYSDItRDhCLWM0bldtWTgyQUJRRXN6MUtVUEppRldPV3BqY19mU0x3bndfenZxN0NiUHVWbUdhcDdPeGpoUGQ4QU1vV3NON1RvaG9kaV9raEtqU2RrUUZyLURqakFJMnBhaTVJZk9ER2N2b0VXcF8tVy1obl9oMGM0R0pwc2xoMnVqYU8ycDZrWGd5UHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6e3c810ae5a7",
+      "title": "A 4,000-year-old disease is on the rise in Florida. Scientists say armadillos may be to blame - WYFF",
+      "published": "2026-07-30T19:04:00+00:00",
+      "summary": "A 4,000-year-old disease is on the rise in Florida. Scientists say armadillos may be to blame&nbsp;&nbsp;WYFFSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "WYFF",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGFxS280eDFBTmNBMkhpWTlRMHFKMmx4N0FLQUZuVF8zMGVvelIzd25OZDhvdHROaTdTWXpTZHVraHJhRFFiX2xZZWt1TS1aazJyMTRHcTRoc3dIc2VhSFoxRGtQMi1IRlhRc1RIWDZEbkROU2tTU3lmRXBlSjFuZC1RbVA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3a311192f270",
+      "title": "Older adults taking 5 or more prescription drugs face higher risk of death, study finds - Fox News",
+      "published": "2026-07-30T18:34:52+00:00",
+      "summary": "Older adults taking 5 or more prescription drugs face higher risk of death, study finds&nbsp;&nbsp;Fox NewsColumn: Socialization can help end polypharmacy among seniors&nbsp;&nbsp;The Virginian-PilotMore Prescriptions Tied to Higher Death Risk in Older Adults&nbsp;&nbsp;Medscape",
+      "sources": [
+        {
+          "name": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZjM0YlkxU1VlWUh0Y2g0d1pITjlwMUIzZU40c0E2MUVWcDl6U1dRZUdqTXpIQWU1SGpmMHRjVTRIYmtDNDRFUzBnLXVfVXI1emRkN2xUSW5CVVRXRzVXN0N4Yl9iWFppVjJHNXZkSnBsLXBoOXluZHBPbHpmNE94VFBPWDUyVkFYZDBuR2ZCdlNKdGdzWFJCeEVSbmR1aVdQaDY1WXp0X2ZCNEo1VHhoX3hNRFTSAboBQVVfeXFMTW52SnlsOWJ1dDlRN3BYWDZPNXl3aTFhRFBSeXJTSEtDRW5ySGZrdV9ub1Z0WXBBNWxtb3RKTWVPVlZiaXlWSnkwaTZ5aV9UNVVQRlV2Z3ZjYUQ0Q3E3cGNwdmZqYkFJTXVIU2NYeWFnX09hazJEa1JGSjBlaUFpX21ZQ3NpV1RXcHFLUUIxS09mRUdKc2dDSmxMd1hzemQ3WEVUcjFhSGU2cEx1UkU3cUpBWUFPeXlSTTNn?oc=5"
         }
       ]
     },
     {
       "id": "fb2b8f34559b",
       "title": "Former Officials Protest U.S. Plan to Defund Pan American Health Organization - The New York Times",
-      "published": "2026-07-30T15:14:51+00:00",
+      "published": "2026-07-30T18:25:39+00:00",
       "summary": "Former Officials Protest U.S. Plan to Defund Pan American Health Organization&nbsp;&nbsp;The New York Times",
       "sources": [
         {
@@ -66,13 +78,61 @@
       ]
     },
     {
-      "id": "1379c8607999",
-      "title": "First case of untreatable, potentially fatal Bourbon virus confirmed in New York - nypost.com",
-      "published": "2026-07-30T14:17:00+00:00",
-      "summary": "First case of untreatable, potentially fatal Bourbon virus confirmed in New York&nbsp;&nbsp;nypost.comAre more cases of deadly Bourbon virus on the horizon?&nbsp;&nbsp;The Independent\"It feeds on your blood for a week before you even notice – and then leaves behind a rare and life-threatening disease…\"&nbsp;&nbsp;BBC Wildlife MagazineRare Bourbon Virus Confirmed in New York for the First Time&nbsp;&nbsp;SciTechDailyNew Tick-Borne Virus Makes First Appearance in New York&nbsp;&nbsp;The East Hampt",
+      "id": "49e0e969f820",
+      "title": "The genomic identity of early smallpox in South America - Science | AAAS",
+      "published": "2026-07-30T18:01:36+00:00",
+      "summary": "The genomic identity of early smallpox in South America&nbsp;&nbsp;Science | AAAS‘This Is Very Strange’: Ancient Smallpox May Have Been Less Deadly&nbsp;&nbsp;The New York Times'Clear Evidence': Ancient DNA From Chilean Mummies Reveals Who Brought Smallpox to The Americas&nbsp;&nbsp;ScienceAlertSmallpox DNA in ancient Inca mummies shows virus came from Europe&nbsp;&nbsp;New ScientistAncient mummy DNA provides scientific evidence that colonization brought smallpox to the Americas&nbsp;&nbsp;AP Ne",
       "sources": [
         {
-          "name": "nypost.com",
+          "name": "Science | AAAS",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UWl9WR2lsSlB6bHpERFVEMEZ1M2diMGdMSmk2cU9TM0xNLXc3eGlmRlhpWnlKMjVkSXItTGd3MWlHbndJOGVRWEdSSm0tWS1pVGN4UWFqd2QzNjhJbmxaUg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aed49fa7ae31",
+      "title": "The bright nitrogen ice plain forming the left lobe of Pluto's heart has not a single impact crater anywhere on it, which tells planetary scientists the surface is being churned from below and completely replaced on a cycle short enough that parts of that ground ar - Space Daily",
+      "published": "2026-07-30T17:30:10+00:00",
+      "summary": "The bright nitrogen ice plain forming the left lobe of Pluto's heart has not a single impact crater anywhere on it, which tells planetary scientists the surface is being churned from below and completely replaced on a cycle short enough that parts of that ground ar&nbsp;&nbsp;Space Daily",
+      "sources": [
+        {
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa2M1SFllRC1ncHNESVc4LS0wUXlfTy1rZ0NxbHIta2xnT25RSlB0TURjMGR6VUI0alpYcGF2S3FESXY1dDdpalZrLTd5a3huY2tEUHdDcDZILUp3cEExWlE4N2llanoyNWRMUnRNNHdFVndlaEd0TzFmNFVLeVJDOUVRb3BoQlVa?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c487cf08ed12",
+      "title": "A Daily GLP-1 Pill Could Curb Heavy Drinking - Gizmodo",
+      "published": "2026-07-30T16:45:04+00:00",
+      "summary": "A Daily GLP-1 Pill Could Curb Heavy Drinking&nbsp;&nbsp;GizmodoVA to run trial of GLP-1 drug to treat alcohol abuse&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosVA launches trial to test GLP-1 medication for alcohol use disorder in veterans&nbsp;&nbsp;Military TimesGLP-1 weight-loss drugs may cut drinking and alcohol cravings, new study finds&nbsp;&nbsp;UCHealthThe Drug Behind Ozempic And Wegovy Pills May Also Treat Alcohol Use Disorder, New Trial Finds&nbsp;&nbsp;Forbes",
+      "sources": [
+        {
+          "name": "Gizmodo",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQTdkOHhIcFQ5ekVsZDQxRW5vVG1TUzJGSTBWalUxR0tUMFlqN2h2WjVfVUt5TVhoaERFSlZZU0VxV1ZiOVBHSDhpeVNWRWNRbkd5WWVDdDdJVmh5MHplaDE2cVV1UG81UGU5bFBQYWhra1Awd0dxNlFLTlpUMzNqeA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "31aeca6d9cf1",
+      "title": "Research Shows Eating 5 Eggs a Week Can Decrease Your Risk of Alzheimer’s By 27% - verywellhealth.com",
+      "published": "2026-07-30T16:26:09+00:00",
+      "summary": "Research Shows Eating 5 Eggs a Week Can Decrease Your Risk of Alzheimer’s By 27%&nbsp;&nbsp;verywellhealth.comAnti-inflammatory diet = lower risk for Alzheimers. 5 easy ways to eat more of these foods&nbsp;&nbsp;KSL.com",
+      "sources": [
+        {
+          "name": "verywellhealth.com",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOUdpd1lfTUZDQ1hsZDdoa3d1NGI4cURFS1ZlUXpqcUNpSl9qQTQ1S280cWUtSThnOTYwMFpBdU1lbTVnLVJOSWxIWHFmSU52N2xLc0N1cFhQdk9jQnNoX2pXaW8tWTcyMmVqZDdYYVgtZVJiazd2OUNvOGJ2N3V5N2FFcVU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b5a440d0d4ed",
+      "title": "First case of untreatable, potentially fatal Bourbon virus confirmed in New York - New York Post",
+      "published": "2026-07-30T14:17:00+00:00",
+      "summary": "First case of untreatable, potentially fatal Bourbon virus confirmed in New York&nbsp;&nbsp;New York Post\"It feeds on your blood for a week before you even notice – and then leaves behind a rare and life-threatening disease…\"&nbsp;&nbsp;BBC Wildlife MagazineThe Lone Star Tick Is Bringing Another Infection Concern | Newswise&nbsp;&nbsp;NewswiseRare Bourbon Virus Confirmed in New York for the First Time&nbsp;&nbsp;SciTechDailyNew Tick-Borne Virus Makes First Appearance in New York&nbsp;&nbsp;The E",
+      "sources": [
+        {
+          "name": "New York Post",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb3FWN1RUY2ZDT21qdkJUcjhRTVJtZ2FmblFDMjRENlQ3YVhLekhIdzVHMEFuU0YtX0VoMGlrWV9EXzJ1NlVEc3MtY2N5bkdIX2V6Z3ZZLXVPRWRrQWtqMkRsZ2NtNFN1STg3S09IYnV1LXhqXzdEU2J5WkJMd21hWWxNMTZNU2pQUlUwd3k3N1NqYXNWMWNpOTJ6b21IQ25SbU9zeTA1OEY?oc=5"
         }
       ]
@@ -81,7 +141,7 @@
       "id": "2a609b082945",
       "title": "'Kind of the first time we've had an estimate like this': first CDC study on mold finds it's much deadlier than we thought - Fortune",
       "published": "2026-07-30T13:40:00+00:00",
-      "summary": "'Kind of the first time we've had an estimate like this': first CDC study on mold finds it's much deadlier than we thought&nbsp;&nbsp;FortuneStudy suggests the threat of mold-associated illnesses may be underappreciated&nbsp;&nbsp;Decatur DailyInvasive Mold Disease Tied to High ICU and Ventilation Rates&nbsp;&nbsp;respiratory-therapy.comCDC Report Supports Evidence of Invasive Mold Disease&nbsp;&nbsp;Cleaning & Maintenance ManagementDeadly mold infections may be far more common than doctors real",
+      "summary": "'Kind of the first time we've had an estimate like this': first CDC study on mold finds it's much deadlier than we thought&nbsp;&nbsp;FortuneA New Study from the CDC Finds Mold-Related Infections Could Be More Severe Than Previously Estimated&nbsp;&nbsp;people.comDeadly mold infections may be far more common than doctors realized, CDC study finds&nbsp;&nbsp;The IndependentStudy suggests the threat of mold-associated illnesses may be underappreciated&nbsp;&nbsp;Decatur DailyCDC study warns threat",
       "sources": [
         {
           "name": "Fortune",
@@ -102,13 +162,13 @@
       ]
     },
     {
-      "id": "06648e817627",
-      "title": "Flawed studies linking hormone therapy to breast cancer made doctors reluctant to prescribe it for menopause relief – especially for breast cancer survivors - theconversation.com",
+      "id": "14b6262f5be1",
+      "title": "Flawed studies linking hormone therapy to breast cancer made doctors reluctant to prescribe it for menopause relief – especially for breast cancer survivors - The Conversation",
       "published": "2026-07-30T12:07:48+00:00",
-      "summary": "Flawed studies linking hormone therapy to breast cancer made doctors reluctant to prescribe it for menopause relief – especially for breast cancer survivors&nbsp;&nbsp;theconversation.comSee more headlines & perspectives on Google News",
+      "summary": "Flawed studies linking hormone therapy to breast cancer made doctors reluctant to prescribe it for menopause relief – especially for breast cancer survivors&nbsp;&nbsp;The ConversationSee more headlines & perspectives on Google News",
       "sources": [
         {
-          "name": "theconversation.com",
+          "name": "The Conversation",
           "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPYTBySkdhd0VWTWFjVEZIUHozYkxXN3owUGxKa3JXMGc0aHZiNHpxY0FTQlY2M1VrdlRFdWNpZE5ZQ0UxMHBzQndYQzR4QnM3eTFFWE1CZ3hPZmJod3hmdU5vQVcwSVVwSUFYUzdFSnZyYXhZNV83OUpFbHNDekNoQzEwcDJSeVhUTHNpalZBdm14ZnhWTVBhUmNjRU5SQU5ocFlIRld4cU1QYVlXMWstcllCUUVZd3pzVlRQN1YzeEYzSktfNW1qdmJBRDZ5TUY2ZUlGU19ONWJDLVJNWjRrcldRME0tcl9GdVlIUHE0eHQ1WnU1OE9qZ0lObEhvbVBVU1NpYnlFQzVEM0NRVFNvZnRIMUpUdVpP?oc=5"
         }
       ]
@@ -117,35 +177,11 @@
       "id": "9c6381a0755b",
       "title": "Is 1 Long Walk or Several Short Ones Better for Heart Health? Study Has Answer - TODAY.com",
       "published": "2026-07-30T12:00:00+00:00",
-      "summary": "Is 1 Long Walk or Several Short Ones Better for Heart Health? Study Has Answer&nbsp;&nbsp;TODAY.comOne long brisk walk may protect your brain from dementia and anxiety more than short walks put together&nbsp;&nbsp;Science XStudy shows walking daily improves longevity&nbsp;&nbsp;KOAT10,000 Steps: A Goal, Not a Rule&nbsp;&nbsp;Deccan ChronicleNot 10,000 steps for everyone - age decides how many steps you should do every day, study says&nbsp;&nbsp;uk.style.yahoo.com",
+      "summary": "Is 1 Long Walk or Several Short Ones Better for Heart Health? Study Has Answer&nbsp;&nbsp;TODAY.comStudy shows walking daily improves longevity&nbsp;&nbsp;KOAT10,000 Steps: A Goal, Not a Rule&nbsp;&nbsp;Deccan ChronicleNot 10,000 steps for everyone - age decides how many steps you should do every day, study says&nbsp;&nbsp;Yahoo Life UKDo you really need 10,000 steps a day? Here’s what the science says&nbsp;&nbsp;thepost.co.nz",
       "sources": [
         {
           "name": "TODAY.com",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaTZIWjdzTEpmYV9DQjJkc3N5TXRmQThFbTFwbFJnMkZYSDRteF95eDUtSzlKbFFkWlNhOEQ0dG9RWUZvRFZJdXRpNVp3MFBzWDRLNFJ6TjFoMGdhUk5NNHlVNkgwUHowY2xPRWZheGdidF83aXVhUExsWkZjSnRqRC1NTWJGYWU3WHlVTGJ5TWtpemNWdWVN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1f488820b8b9",
-      "title": "Biohacker Bryan Johnson posts girlfriend’s intense ‘menstrual cycle’ regimen - The Independent",
-      "published": "2026-07-30T11:47:00+00:00",
-      "summary": "Biohacker Bryan Johnson posts girlfriend’s intense ‘menstrual cycle’ regimen&nbsp;&nbsp;The IndependentBryan Johnson’s girlfriend is turning her body into a $2.6 million science experiment&nbsp;&nbsp;The IndependentBiohacker Bryan Johnson teases launch of 'techno tampon' to track girlfriend's periods&nbsp;&nbsp;Daily StarBiohacker Bryan Johnson posts girlfriend Kate Tolo’s rigorous ‘menstrual cycle’ regimen: ‘This is a world first for female health’&nbsp;&nbsp;AOL.com",
-      "sources": [
-        {
-          "name": "The Independent",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVFJFSWhNSXBQdUV4bHFnZlB1ZFprZ1lSRm12UWpKQktjSGphNV9qcjJOVUVOX2d4NkptZnpBTzdqT1dhTU0yWXJtcHFObF9fMG4xazhMM21KeWh6NUs2OUIxdGF5MEotTkxmekYtUWNCN29hZXhyVS1wRDBxZ2t3ZnZHYUo1WERCQk83cDlleXo4OUtVQzFWMDRuTGhQVkduRnRXOUMyT1ZtUk5yYzVCczRrOGw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "68a063f021fb",
-      "title": "5-year-old boy suddenly dies from rare disease on family vacation - KTLA",
-      "published": "2026-07-30T11:16:11+00:00",
-      "summary": "5-year-old boy suddenly dies from rare disease on family vacation&nbsp;&nbsp;KTLASee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "KTLA",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YUnRaUWI2a0tGTWRpaG1Pa2F0dVlIT212NmJtQ1dvSG54dllLVV9ndnU1YlNZQjJRTjZDb0VIb090UTdhaUhCaDFoeGZjSW9PTXVXOHZLN3NrVFF6by15MDFTY0RHRGcxeTRsMHBSTdIBdEFVX3lxTE9xVmxDeG5GR2g1aWRqb3NFanB5YlRtbFJPZUhJekVZVGVFZFNTS01qYmszSTRUdFZDTkVWSEZwS1pzZWJuN2VXTjFhUjYzNks5blFBV2cxMWtnN3JKMEk1NXNWZW1BV0ZWYWJuZi1PcC1nd0JX?oc=5"
         }
       ]
     },
@@ -165,7 +201,7 @@
       "id": "374ec1c17f5f",
       "title": "Daily eating habit linked to better brain health in older adults, new research suggests - Fox News",
       "published": "2026-07-30T11:00:05+00:00",
-      "summary": "Daily eating habit linked to better brain health in older adults, new research suggests&nbsp;&nbsp;Fox NewsThis eating habit could help boost brain health, study finds&nbsp;&nbsp;USA TodayScientists Tested an 8-Hour Eating Window and Found a Surprising Brain Benefit&nbsp;&nbsp;SciTechDailyEating within 8 hours may help keep the aging brain sharp&nbsp;&nbsp;ScienceDailyRestricted eating hours may reduce cognitive decline in older age, researchers find&nbsp;&nbsp;The Guardian",
+      "summary": "Daily eating habit linked to better brain health in older adults, new research suggests&nbsp;&nbsp;Fox NewsThis eating habit could help boost brain health, study finds&nbsp;&nbsp;USA TodayEating within 8 hours may help keep the aging brain sharp&nbsp;&nbsp;ScienceDailyScientists Tested an 8-Hour Eating Window and Found a Surprising Brain Benefit&nbsp;&nbsp;SciTechDailyRestricted eating hours may reduce cognitive decline in older age, researchers find&nbsp;&nbsp;The Guardian",
       "sources": [
         {
           "name": "Fox News",
@@ -174,26 +210,26 @@
       ]
     },
     {
-      "id": "5775163e7c13",
-      "title": "Rare disease spreads in Florida; doctors think one animal is to blame - Syracuse.com",
-      "published": "2026-07-30T10:44:00+00:00",
-      "summary": "Rare disease spreads in Florida; doctors think one animal is to blame&nbsp;&nbsp;Syracuse.comSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "Syracuse.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSFZSckhVTldNWDVHcE80eWp5UmpmZkYzRVRYSDk5RFdqOEVlZVo5VWtCalZOdUg4YjUydjlyeUpOMi1mM2xvYWh4WndyYUo5Uk5ISEVCMzZXYlB1SFZWckRxaVJIUzJEN2NxOVJ3UHU4MFI2ZXgwblREZkJMUkNkNF9QMHhWMjBpNnB5NVhUOWk4UHQ1UkVURmxPVERTZEZ6clUyeTEyYmZoYUpPdHdBekNBNzDSAcgBQVVfeXFMUENLQ0d4aS1IVDFCN3pydDczVEhlU0xyZ1VSNW1mNENxZ0VFSXZ5ZkZUZWZDWHBOem1yU19aRjU3SDlRWFNqZEFSYWtPNWE2MXNZYWFxeUFRYXF3UjdZZlZwa0dHNXpWRks2QTEzVGs1NG9nTlpqeVdDTkZEYkJKcnM1eVNwZVdtVzZuMWlabUlfWllXc2lNUTEwckczUlRMU0RYSFdCM3NfaHZsMzF5aHBFdzU0SFR4ZlVvWXF0ZlBNcmpIamkzUU0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0edff039854b",
       "title": "Liquid could be answer to stop cavities without drilling, study finds - The Hill",
       "published": "2026-07-30T10:32:00+00:00",
-      "summary": "Liquid could be answer to stop cavities without drilling, study finds&nbsp;&nbsp;The HillScientists find a simple way to stop cavities without drilling&nbsp;&nbsp;ScienceDailySilver diamine fluoride treatment could halt cavities without shots, drilling or sedation&nbsp;&nbsp;medicalxpress.comScientists say they’ve discovered a way to stop cavities—without drilling&nbsp;&nbsp;Fast CompanyNew liquid method might have US dentists dropping the drill to fix your cavity&nbsp;&nbsp;The Independent",
+      "summary": "Liquid could be answer to stop cavities without drilling, study finds&nbsp;&nbsp;The HillScientists find a simple way to stop cavities without drilling&nbsp;&nbsp;ScienceDailyNew liquid method might have US dentists dropping the drill to fix your cavity&nbsp;&nbsp;The IndependentSilver diamine fluoride treatment could halt cavities without shots, drilling or sedation&nbsp;&nbsp;Medical XpressScientists say they’ve discovered a way to stop cavities—without drilling&nbsp;&nbsp;Fast Company",
       "sources": [
         {
           "name": "The Hill",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMHJ6QWZjSTdYdGFwNXpHT3RDSFAyNmotTzBiNkQ3Z0V3LS1RZUhUTzdrZjFibEplcEZxa2h4Z213MmpDbVFDTThuTVJteFNCcGtDcWFvM2R6amlweV9ONnZRU0hJbmMyc1ZMTlF0YWhjRzR0b3h5X3RkM3dWLWRuZTF2MlN2d3VqN0hzc2E4Y0lqVlRNQ2dN0gGcAUFVX3lxTE1HVE1aY3l0RkV3LWZkZzVuY09nak5CVXBXUUFxdm14YS1VR21KRnpnYWRVR05nSlFuVGgwZ1VvVld1bG81N0Zub1hLQ2lPNWR5MGFQaG1TdVZNUTdWNGY4ZFBZQTdVeFRIWU1oS2JEbHlaRzBpcmhWNDAzUjZWZlNsR1p4TXhGQlR6dExLdnZEMm5fNm1KOWdEVHhwVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "77d4c7ea056d",
+      "title": "The Universe Was Sculpted in Invisible Matter - avi-loeb.medium.com",
+      "published": "2026-07-30T10:19:23+00:00",
+      "summary": "The Universe Was Sculpted in Invisible Matter&nbsp;&nbsp;avi-loeb.medium.comA decade of cosmic discovery | Waterloo News&nbsp;&nbsp;University of WaterlooThis cosmologist studies the invisible parts of the universe&nbsp;&nbsp;TAPintoScientists produce most extensive map yet of dark matter in northern skies&nbsp;&nbsp;The Globe and Mail",
+      "sources": [
+        {
+          "name": "avi-loeb.medium.com",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVk95ZlJiQnJwdkV1UTJ5UTNleUlRNzVYcFNIcjVYRHRydFlLdG93VmFuaEcyUl9udWZvZ2lzM2ZwR1dMX0hiU2FvQVNBN3MzenVqc2FNMFNzc0VlYUVuQVUxZ2xZRDF4VzlpbGZTYU1nTVNpS1Z4Z2pVblNiNTZqRGxiOHRwOG9GS1prdnAwWQ?oc=5"
         }
       ]
     },
@@ -225,23 +261,11 @@
       "id": "23a9e6640721",
       "title": "This disease was eradicated in the U.S. 26 years ago. Pa. saw 31 cases last week - PennLive.com",
       "published": "2026-07-30T09:03:00+00:00",
-      "summary": "This disease was eradicated in the U.S. 26 years ago. Pa. saw 31 cases last week&nbsp;&nbsp;PennLive.comMeasles Cases Hit New Record in U.S., as Vaccination Rates Wane&nbsp;&nbsp;The New York TimesMichigan health officials urge vaccinations as measles threat looms&nbsp;&nbsp;The Detroit NewsMeasles record (and hot questions), foodborne illness summer, Covid-19 summer wave, and more&nbsp;&nbsp;Your Local EpidemiologistOpinion | Americans deserve the truth about measles vaccines&nbsp;&nbsp;MS NOW",
+      "summary": "This disease was eradicated in the U.S. 26 years ago. Pa. saw 31 cases last week&nbsp;&nbsp;PennLive.comOpinion | Measles’s Communal Risk&nbsp;&nbsp;WSJMeasles Cases Hit New Record in U.S., as Vaccination Rates Wane&nbsp;&nbsp;The New York TimesMeasles record (and hot questions), foodborne illness summer, Covid-19 summer wave, and more&nbsp;&nbsp;Your Local EpidemiologistMeasles Cases in the U.S. Are at a 35-Year High&nbsp;&nbsp;Time Magazine",
       "sources": [
         {
           "name": "PennLive.com",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOC1sdUNHWnpIUWRhS1lTZEhnbVBGMGhQaDdQZzBQSWxPTkpvcjlWSnlfU19IWm85eExKWkk2cmRTSTVKSF82bkF0cnBPZXUtQzhJNXdkdEM5ZE8xX3ZsRGxRT3diVzlqWGdfMGpZakdCWEltNXRKcUg2c1ZVckQ2Y1hOblFxai13N2F5SFo2S3gxZnZDb1dhUkdad2lPdmpSU2RBUkZUM3pubWlFMWQwNmhOUm1JRFJpamduZXB3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3f86c2746ce2",
-      "title": "9 surprising habits cardiologists urge you to quit now - AOL.com",
-      "published": "2026-07-30T09:01:38+00:00",
-      "summary": "9 surprising habits cardiologists urge you to quit now&nbsp;&nbsp;AOL.com10 Surprising Things Cardiologists Want You to Stop Doing&nbsp;&nbsp;AOL.comThe everyday health hacks cardiologists use to reduce their risk of heart disease&nbsp;&nbsp;The IndependentI'm a cardiologist—these are 3 daily heart health habits I never skip&nbsp;&nbsp;NewsweekIgnoring oral hygiene and gum health? Cardiologist Dr Dmitry Yaranov shares 5 daily habits that are harming your heart&nbsp;&nbsp;Hindustan Times",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbFV6dC1LY0NMU0llb0xVVDJhelBsLWxZeTlnV1NWMTR2cTBTSll2UWlxVFBKQjVYMUowRGt5YVBSR1FyX1h4b1FOaElsazNZdzY3bFEzUWNqX3BwSldEOXpUWHRLZTdlcm8xS3dPODhTZjhNRDU4My03NzMyTDYzT0l1Mlg4QkpQV3c?oc=5"
         }
       ]
     },
@@ -258,14 +282,50 @@
       ]
     },
     {
-      "id": "c6491e366b74",
-      "title": "Pediatricians and health officials are sidestepping Trump's CDC on vaccine advice - npr.org",
+      "id": "807cc7e5046b",
+      "title": "Pediatricians and health officials are sidestepping Trump's CDC on vaccine advice - NPR",
       "published": "2026-07-30T09:00:00+00:00",
-      "summary": "Pediatricians and health officials are sidestepping Trump's CDC on vaccine advice&nbsp;&nbsp;npr.orgMost Aren't Confident in the CDC and FDA to Make Recommendations About Childhood Vaccine Schedules&nbsp;&nbsp;KFFAtlanta-based AMA President-Elect Sandra Fryhofer: ‘No Faith in CDC’&nbsp;&nbsp;WABE",
+      "summary": "Pediatricians and health officials are sidestepping Trump's CDC on vaccine advice&nbsp;&nbsp;NPRSee more headlines & perspectives on Google News",
       "sources": [
         {
-          "name": "npr.org",
+          "name": "NPR",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNk9OQkhHVW52Q0lDS2tzVlJLVmZqYnZ0MEJDZWd6cy1RS2pzRG1Jc0VjS0trcXMyVTdpUVVpZ1M1ZWQxU2NKSXZwT2xMa3ZJd0hiRlRaV3RwNUVQN2UyMXh3Qnh1di1Zcm5LWTFmTUVJRWJMbXg4LW13ODhlOGFLT1kzek1NREJ1LVlpaGtMU0tWSTFMQ1RHTFpHaXp5ODROck0yYmxQVGpfeGpHYnU1c2psOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e66a15eb7417",
+      "title": "Weight-loss joke turns serious as ‘cyclospora skinny’ trend fuels health warnings - New York Post",
+      "published": "2026-07-30T08:53:00+00:00",
+      "summary": "Weight-loss joke turns serious as ‘cyclospora skinny’ trend fuels health warnings&nbsp;&nbsp;New York PostJokes about losing weight from explosive diarrhea underline an unhealthy obsession with thinness&nbsp;&nbsp;CNNWeight-loss joke turns serious as 'cyclospora skinny' trend fuels health warnings&nbsp;&nbsp;Fox NewsDoctor warns against ‘cyclospora skinny’ trend&nbsp;&nbsp;YahooThere Are People Trying to Get the “Explosive Diarrhea” on Purpose. I Know Exactly What They’re Thinking.&nbsp;&nbsp;Sl",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaW94NnUtczRpSDFmblo2MXMxcDhPMk5GXzBoQ0xfOExEUUZ5a0hNMTZ4aUk5R1pNX2g0SmNib0dZSFozVThfeWpLRndMSi1XZ2tOVVR2ZDdnWnNVdnI5eG5MdHVyM3NCZ2RBTHdZLWhndnQ2NXNvN19oUTNENzRGQUVQTDNUMWFZSkZiLTJLVmF0Z0FGWDNESkprY0lyMXpSSU5vRHJ3YWkydjdHeWdnWDctVWpFLUdP?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2153ecf4e81b",
+      "title": "Brain Dramatically Remodels Its Cellular Composition, Starting in Midlife - ScienceAlert",
+      "published": "2026-07-30T08:03:38+00:00",
+      "summary": "Brain Dramatically Remodels Its Cellular Composition, Starting in Midlife&nbsp;&nbsp;ScienceAlertA hidden Alzheimer’s tipping point may decide who gets dementia&nbsp;&nbsp;ScienceDailySome Brains Survive Alzheimer’s Damage. Scientists Think They Know How&nbsp;&nbsp;NewsweekMidlife Brain Aging Linked to Immune Cell Remodeling, Blood-Brain Barrier Decline&nbsp;&nbsp;Genetic Engineering and Biotechnology NewsNIH NIA study links post‑50 hippocampal immune shifts to dementia&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQTRld0oxZG9mVUZmdlVRTkw0Rm1LcUZBaEx6MnBhcDV6MzVlRHhKQ0pEX1Z2Y1VUNGt4ZFI4R3FVSDVUWFNIX09rU05aeVpQZ2gzaDlDYWtFY0Q2OWFRTl9yU3pMcnVzWUN4OXZvM0l3TjAzRlB2ZU1ic3AzU3JUS2tyUTl4dXBTcHo3UXg1UDl0ZTA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "756deee93dbd",
+      "title": "Wrexham woman 'not ashamed' of genital herpes STI diagnosis - BBC",
+      "published": "2026-07-30T05:19:38+00:00",
+      "summary": "Wrexham woman 'not ashamed' of genital herpes STI diagnosis&nbsp;&nbsp;BBCSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBudm50anBnSnprZllmTFJINnk2blB4VVZFbUtESGxaRjNKdU03Smg2RWQwX1R2bzVqYzJjdlJVMTBuaWlJR2N4TFFzVTJOVWNVUEF5NWc3SmU0QQ?oc=5"
         }
       ]
     },
@@ -273,11 +333,23 @@
       "id": "930041feb278",
       "title": "Europe’s heatwaves are fuelling infectious diseases, agency warns - Euronews.com",
       "published": "2026-07-30T05:05:50+00:00",
-      "summary": "Europe’s heatwaves are fuelling infectious diseases, agency warns&nbsp;&nbsp;Euronews.comTropical Diseases Like Dengue Fever and Chikungunya Are on the Rise in Europe&nbsp;&nbsp;WIREDHow to avoid infections at the beach, pool or sea this summer&nbsp;&nbsp;Euronews.comFrom swimming in rivers to kiddie pools, here's what experts want you to know about summer germs&nbsp;&nbsp;Pittsburgh Post-GazetteHotter summers driving infectious disease risks across Europe, warns health agency&nbsp;&nbsp;The Bru",
+      "summary": "Europe’s heatwaves are fuelling infectious diseases, agency warns&nbsp;&nbsp;Euronews.comTropical Diseases Like Dengue Fever and Chikungunya Are on the Rise in Europe&nbsp;&nbsp;WIREDFrom swimming in rivers to kiddie pools, here's what experts want you to know about summer germs&nbsp;&nbsp;Pittsburgh Post-GazetteECDC Warns of Rising Vibrio Risk in European Waters Due to Warming Temperatures&nbsp;&nbsp;IndexBoxWHO: Europe Must Build Long-Term Heat-Health Resilience&nbsp;&nbsp;Healthcare Digital",
       "sources": [
         {
           "name": "Euronews.com",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOVdOeENJVjZBdW1pcEc3N0NjR050R3VCVThGekR5cmlGV3BndHFOSFgxejlJaEZqN0owV0pTbkF6eE9adWZrZ3JwXzNUYWhPMUJueTZ0dkRWMlF0R091bnl3S1RBTXR6MU9EdzFNUy1QQ3NIYmo1VnlwaXJhaDBGV25qQkNRZGo0OEd0S1RCeHY4bjVHMzRXbGpVbmRhRHBlT1E0alNkNmZyczlXR0VjeGk2WQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "94021b4736e3",
+      "title": "Wastewater in Anchorage signals warning about measles - adn.com",
+      "published": "2026-07-30T01:17:32+00:00",
+      "summary": "Wastewater in Anchorage signals warning about measles&nbsp;&nbsp;adn.comEvidence of measles virus found in Anchorage wastewater&nbsp;&nbsp;KTOOMeasles detected in Anchorage wastewater samples, officials say&nbsp;&nbsp;Your Alaska LinkMeasles virus detected in Anchorage wastewater; no recent human cases confirmed&nbsp;&nbsp;thealaskastory.comWastewater in Alaska’s largest city signals warning about measles&nbsp;&nbsp;Alaska Beacon",
+      "sources": [
+        {
+          "name": "adn.com",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUnNyVWlQRmluOURzdXp5QXBCNkVNYkFfZklwdzJHSGlpWkZpYllSUGc2alJQNkdZdG5ibGktV3hCVHlKdTdYR0RFeXZsLWZkcmV1LXBGLXBpcld0bzg5a3FZQm15NG1oX3FJeUltU01UYmdzX3pQNXBzSExOaWZhdXVGeWE0aUVYMDZvR2tXMFo2d1pLRGVFeGZGNUhIQmcyYy1LVi1lZmk4Mkk?oc=5"
         }
       ]
     },
@@ -294,26 +366,38 @@
       ]
     },
     {
-      "id": "6e334e830d29",
-      "title": "Wastewater in Anchorage signals warning about measles - Anchorage Daily News",
-      "published": "2026-07-30T00:16:56+00:00",
-      "summary": "Wastewater in Anchorage signals warning about measles&nbsp;&nbsp;Anchorage Daily NewsEvidence of measles virus found in Anchorage wastewater&nbsp;&nbsp;KTOOMeasles virus detected in Anchorage wastewater; no recent human cases confirmed&nbsp;&nbsp;Alaska StoryWastewater in Alaska’s largest city signals warning about measles&nbsp;&nbsp;Alaska Beacon",
+      "id": "863d5d1470b7",
+      "title": "Of all Upper East Side buildings to test positive for Legionella, this one had the most violations - NBC New York",
+      "published": "2026-07-30T00:57:59+00:00",
+      "summary": "Of all Upper East Side buildings to test positive for Legionella, this one had the most violations&nbsp;&nbsp;NBC New YorkLegionnaires' outbreak NYC: Seventh person dies in Upper East Side cluster&nbsp;&nbsp;ABC7 New YorkWhat does it take to get NYC buildings to test for disease-causing Legionella?&nbsp;&nbsp;GothamistTenants in NYC building haven't showered in months over Legionnaires' find, as some ask where's Mamdani?&nbsp;&nbsp;New York PostLegionnaires’ Disease Has Made a Home in New York C",
       "sources": [
         {
-          "name": "Anchorage Daily News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUnNyVWlQRmluOURzdXp5QXBCNkVNYkFfZklwdzJHSGlpWkZpYllSUGc2alJQNkdZdG5ibGktV3hCVHlKdTdYR0RFeXZsLWZkcmV1LXBGLXBpcld0bzg5a3FZQm15NG1oX3FJeUltU01UYmdzX3pQNXBzSExOaWZhdXVGeWE0aUVYMDZvR2tXMFo2d1pLRGVFeGZGNUhIQmcyYy1LVi1lZmk4Mkk?oc=5"
+          "name": "NBC New York",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV1BhWEFLd2NsWlNDT3liR1hIeThhMlNLTDMyMGxiSVpVNmJ2WG42Ry1YUkpUNlk4M0lMbUFLR2RRMW40bXQ1M2daMFlHYnVTOTRMT2Rram0wYzMxTHUxRTZaTkVjaUZPSUhZSWs1M284NWRqbEs3OXp6a093Y0Q5NmoxNFg2SmpBdFBYU3Z6MHktYV9RTXNTTldGZDhsa3NGa2dsbFVYWkZnME1WZmhR0gG3AUFVX3lxTE9tR2dIaFMwcFBIRDlYMmpJMEpqYUtxSkhCTmpxbkhKUk5RTFVoQzlzd2FBNGwxV3NvNFJzQU11RmR3TDYyM1o3QVlrbG1zVFVob2JkZXNzNHNYelhnRlhaQmtpSGRWNXFRWDlCa0dXaG1Gc2MzMUpxc1Q0cE45ZTJOMlJ4T2lmRmZVOTNoM0x2el80d0c5d0RqSl9NZGhmN3Z0RzVlX1RIU0ZBa25mZEpfb3BwYlYxVQ?oc=5"
         }
       ]
     },
     {
-      "id": "adea85c01c37",
-      "title": "Legionnaires’ Disease Has Made a Home in New York City. Here’s How. - The New York Times",
-      "published": "2026-07-30T00:00:00+00:00",
-      "summary": "Legionnaires’ Disease Has Made a Home in New York City. Here’s How.&nbsp;&nbsp;The New York TimesOf all Upper East Side buildings to test positive for Legionella, this one had the most violations&nbsp;&nbsp;NBC New YorkWhat does it take to get NYC buildings to test for disease-causing Legionella?&nbsp;&nbsp;Gothamist6th person dies from Legionnaires' disease in New York City: Health officials&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosLegionnaires' outbreak NYC: Sixth person dies",
+      "id": "77e6e241f2f8",
+      "title": "Pennsylvania Department of Health notifies residents of rabid kitten found in Hanover area - fox43.com",
+      "published": "2026-07-30T00:09:00+00:00",
+      "summary": "Pennsylvania Department of Health notifies residents of rabid kitten found in Hanover area&nbsp;&nbsp;fox43.com",
       "sources": [
         {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOC1VTV9EdWJZWnpScXhfVmR4UHcxUl9IYThBcUlVM1Zpa05wejFWNjJUUHVfbzFVXzVhb1BESE9wMVBQT2g5eGktM1FRSFJVeUlWNlJVMzhqdHNKYTQ4X2pSMWV1VmxVelpsd1NpWXA3VThIV3ZaSVpoSExFQjRiR3NEWW96MUhQVC1v?oc=5"
+          "name": "fox43.com",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPUkNjTUFJTF9xMVAxYzVHSkxkLXFVNlU0VG95X3VJdmJLeFdXSXNwWDNjSlJORWFjNjhaR3BZbUJBdzZod19VeWNEWXNaVFdXT3VrU2Z3NGlERFhSaTVKNEdNNGZFN2VEOHgtZWJHbmwyQ251eDlqYXNBZ1ZyY3FSM3pEQnk5UW1tbUtKdjMxTWtwRnlfOWpYbkMzMXBxQlViRTRCTzJMcGsyNWt1YVI4X2VmWFJGWTNUcEowMTNnTlVfT3ppcmJvTFR1VW1xRFhDTnR6RkxOQmUydWt4OExXT2htdk95ajlLQkZjbXpGcUI5bXIwU0lkYUVEUzROLWpnb3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "97819b0e424a",
+      "title": "For Utah’s fentanyl task force, these drug dealers have priority - fox13now.com",
+      "published": "2026-07-29T23:55:28+00:00",
+      "summary": "For Utah’s fentanyl task force, these drug dealers have priority&nbsp;&nbsp;fox13now.comEDITORIAL: Colorado’s fight against fentanyl continues&nbsp;&nbsp;Colorado Springs Gazette‘One pill can kill’: Even a single fentanyl-laced pill can be deadly, experts warn&nbsp;&nbsp;fox13now.comHow a rural Utah community hit hard by overdose deaths is responding to fentanyl&nbsp;&nbsp;fox13now.comIntroducing ‘Utah’s Fentanyl Fix’: A series exploring the deadly drug’s impact&nbsp;&nbsp;fox13now.com",
+      "sources": [
+        {
+          "name": "fox13now.com",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRXBtZ2hMc1JMY1Q1R3pBYkRmTWI5blk4bjFRRlZXNjM3UmpEdzJucjVOSmhhbElKR1NHUW85RWNvTHBaUWRlX3laX1dBaFpvbDIxY0NrcXFEenhMX1hMM1dtYi1GaFF4c19pRDRVaDVlNTBESWJ5Q0xfY2h3MjZBSlhtRVZUa0dmZ1BBdTVqdVRnOS1XYUFRR1Fpdmc?oc=5"
         }
       ]
     },
@@ -321,7 +405,7 @@
       "id": "5c8130a08956",
       "title": "Several cases of Legionnaires’ disease confirmed in Franklin County, health department reports - LEX 18 News",
       "published": "2026-07-29T23:48:04+00:00",
-      "summary": "Several cases of Legionnaires’ disease confirmed in Franklin County, health department reports&nbsp;&nbsp;LEX 18 NewsCases of Legionnaires’ disease reported in Franklin County&nbsp;&nbsp;WKYTMultiple cases of Legionnaires’ disease reported in Kentucky&nbsp;&nbsp;Lexington Herald LeaderHealth department investigating Legionnaires’ disease cases in Franklin County&nbsp;&nbsp;WAVE NewsFranklin County reports ‘several’ cases of Legionnaires’ disease: What to know&nbsp;&nbsp;FOX 56 News",
+      "summary": "Several cases of Legionnaires’ disease confirmed in Franklin County, health department reports&nbsp;&nbsp;LEX 18 NewsCases of Legionnaires’ disease reported in Franklin County&nbsp;&nbsp;WKYTMultiple cases of Legionnaires’ disease reported in Kentucky&nbsp;&nbsp;Lexington Herald LeaderFranklin County Health Department investigating several Legionnaires' disease cases in Franklin County&nbsp;&nbsp;State-JournalHealth department investigating Legionnaires’ disease cases in Franklin County&nbsp;&nb",
       "sources": [
         {
           "name": "LEX 18 News",
@@ -333,7 +417,7 @@
       "id": "c9ee841cfbbe",
       "title": "Daily multivitamin may help older adults stay independent - ScienceDaily",
       "published": "2026-07-29T23:46:01+00:00",
-      "summary": "Daily multivitamin may help older adults stay independent&nbsp;&nbsp;ScienceDailyCommon supplement linked to better everyday health in study of 16,000 older adults&nbsp;&nbsp;NewsweekA 3-Year Trial Found This Daily Supplement Supports Heart Health&nbsp;&nbsp;Yahoo HealthDaily Multivitamin May Help Older Adults Maintain Cardiovascular Function&nbsp;&nbsp;Inside Precision MedicineCan A Daily Multivitamin Help You Stay Active As You Age?&nbsp;&nbsp;U.S. News & World Report",
+      "summary": "Daily multivitamin may help older adults stay independent&nbsp;&nbsp;ScienceDailyCommon supplement linked to better everyday health in study of 16,000 older adults&nbsp;&nbsp;NewsweekA 3-Year Trial Found This Daily Supplement Supports Heart Health&nbsp;&nbsp;Yahoo HealthDaily Multivitamin May Help Older Adults Maintain Cardiovascular Function&nbsp;&nbsp;insideprecisionmedicine.comCan A Daily Multivitamin Help You Stay Active As You Age?&nbsp;&nbsp;U.S. News & World Report",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -342,14 +426,38 @@
       ]
     },
     {
-      "id": "a889ed0a0035",
-      "title": "Florida records first flesh-eating bacteria death of 2026 - WTHR",
-      "published": "2026-07-29T23:34:00+00:00",
-      "summary": "Florida records first flesh-eating bacteria death of 2026&nbsp;&nbsp;WTHRFlorida Vibrio vulnificus cases rise to 12, with 1 death reported&nbsp;&nbsp;Tallahassee DemocratFlesh-Eating Bacteria Cases Grow in Florida—What Are the Symptoms?&nbsp;&nbsp;NewsweekFirst 'Flesh-Eating Bacteria' Death Of The Year Reported In FL, Data Shows&nbsp;&nbsp;PatchCase tracker: Here is where flesh-eating bacteria cases have been reported in the US&nbsp;&nbsp;FOX Weather",
+      "id": "6ca9f6fae9bf",
+      "title": "Doctors warn of very serious Vibrio infection spreading in Chesapeake Bay - WBAL News Radio",
+      "published": "2026-07-29T22:55:40+00:00",
+      "summary": "Doctors warn of very serious Vibrio infection spreading in Chesapeake Bay&nbsp;&nbsp;WBAL News RadioSee more headlines & perspectives on Google News",
       "sources": [
         {
-          "name": "WTHR",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVlFCSFM1Z09sWDljaHNtVldoU1o3WWQ2cGhyOEl3QmNONGQ1dE1OWlVwbDlRcm1QWEFNaWg1ajhpeVh5a09lSkhFaUtqYzluTmU4RmJzdXhQMk5sMlBvUzhRV0tEVFVrMklCdUdWLV94VFdVS2ZiTEZJd1hETS1pR0phT2xrT1pzeFZtVmdjNEpsNVYxSmhVbHJaQXZPSjdmVEIxdkVNZmg0b25zbmRSbVFBMVZSZG15ZTlEeS16bi1MZDBJbDJKUnFLWmhzQVU?oc=5"
+          "name": "WBAL News Radio",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRFpNN1hydnV1UDhhUV9PNGN4dFRja2Y2ZThiSkp5dDMxQVYxaWtBVEdyNWpDYkVlcG5hZFZGZGlVZkJ1eUh3QTNSVGlqODY2NVhhQXUxbFU1UmZRQmdKbUNNSnlNZnRySFhiY2tGNXoxQUtTRXZPZmtxYXoxaDFiVy11Vzduamx5NTJUZ01faVFLVGIyQ1JTMEF3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "96b3ce0331d0",
+      "title": "Colorado is seeing a ‘significant increase’ in salmonella cases. Here’s what you should know. - Denver7",
+      "published": "2026-07-29T22:15:47+00:00",
+      "summary": "Colorado is seeing a ‘significant increase’ in salmonella cases. Here’s what you should know.&nbsp;&nbsp;Denver7Salmonella cases are surging in Colorado, health officials say&nbsp;&nbsp;9NewsCyclosporiasis and salmonella cases are rising in Colorado&nbsp;&nbsp;AxiosColorado public health officials alert Coloradans about ‘significant increase’ in Salmonella cases&nbsp;&nbsp;KKTVSalmonella Outbreak Doubles in Size, Source Still Unknown&nbsp;&nbsp;parade.com",
+      "sources": [
+        {
+          "name": "Denver7",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTXdtcVQxMTRhV0trUHRzdTNRREY3dHZWQjMtMWdIYmtnb2drS3RHM0RNTHFrMlNHWGxwRzI3YnpBeWlNQ19KVFlGOGtDUVhkM3R2VWNLNVdTQlp3d3ZxM2dmUTRfcFNOdGRZc19VeUV3a28yb3hhRVVneWlGblZHbEtsejJEN28ySVFhbTh5aHpiR2tEMkVDQlJ5d2VURWhGQndtV29EMGlxaFNUWHNsTVVWV2x0YzdVSWpQQ1FiVGp6anhBQ3l4SG1XZXplSWVkVnNXUnRIcl8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "47c4ccfb7318",
+      "title": "We Asked 4 Nutrition Experts the Best Dinner To Eat To Lower Blood Pressure and They All Said the Same Thing - AOL.com",
+      "published": "2026-07-29T21:55:00+00:00",
+      "summary": "We Asked 4 Nutrition Experts the Best Dinner To Eat To Lower Blood Pressure and They All Said the Same Thing&nbsp;&nbsp;AOL.comDoctors Say These Simple Daily Habits Can Help Lower Your Blood Pressure&nbsp;&nbsp;PreventionCardiologists reveal 7 best snacks for heart health&nbsp;&nbsp;RBC-UkraineBoosting Potassium Should be Part of Efforts to Reduce Sodium Intake | Newswise&nbsp;&nbsp;NewswiseCardiologist Swears by 2 Simple Snacks to Help Lower Blood Pressure and Support Heart Health&nbsp;&nbsp;Ya",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hV3R1dVFQN1lfN0RLcFdmRVVaaGNtZnBKT1JJN2pJQjVVN0ZRWHdJTnNCWHRYZmFLUWRuczFlN3hzSklibVMxeWt4aEdvdlVsXzQ3WXdyV2dwcXNiWDBhSFJWSmVBdXNkQmJ6cVVZMzhOdWNpcGJ6dWF3SXduenc?oc=5"
         }
       ]
     },
@@ -357,7 +465,7 @@
       "id": "1d342184f7e0",
       "title": "Florida's Surgeon General Blames a Debunked Abortion Vaccine Claim to Explain Measles Surge - Gizmodo",
       "published": "2026-07-29T21:10:53+00:00",
-      "summary": "Florida's Surgeon General Blames a Debunked Abortion Vaccine Claim to Explain Measles Surge&nbsp;&nbsp;GizmodoSurgeon General suggests high measles counts could be tied to abortion opposition&nbsp;&nbsp;Florida Phoenix‘Effective:’ Florida surgeon general talks measles vaccine amid spread&nbsp;&nbsp;WKMGFlorida Surgeon General Resurfaces Misleading Claims Connecting Measles Vaccines to Abortions&nbsp;&nbsp;YahooLadapo speculates abortion objections may be fueling measles outbreak&nbsp;&nbsp;Islan",
+      "summary": "Florida's Surgeon General Blames a Debunked Abortion Vaccine Claim to Explain Measles Surge&nbsp;&nbsp;GizmodoSurgeon General suggests high measles counts could be tied to abortion opposition&nbsp;&nbsp;Florida PhoenixFlorida ranks 5th in the country for the most measles cases&nbsp;&nbsp;Spectrum News 13‘Effective:’ Florida surgeon general talks measles vaccine amid spread&nbsp;&nbsp;WKMGFlorida Surgeon General Resurfaces Misleading Claims Connecting Measles Vaccines to Abortions&nbsp;&nbsp;Yaho",
       "sources": [
         {
           "name": "Gizmodo",
@@ -366,22 +474,10 @@
       ]
     },
     {
-      "id": "48bdc56b9aeb",
-      "title": "Can Blood Tests Predict ALS Before It Strikes? Here’s What Scientists Found - StudyFinds",
-      "published": "2026-07-29T21:08:06+00:00",
-      "summary": "Can Blood Tests Predict ALS Before It Strikes? Here’s What Scientists Found&nbsp;&nbsp;StudyFindsLongitudinal plasma proteomics predict phenoconversion to clinically manifest ALS&nbsp;&nbsp;NatureOne Simple Test May Detect ALS Years Before It Starts&nbsp;&nbsp;NewsweekNew blood-based biomarkers predict when ALS symptoms will emerge&nbsp;&nbsp;National Institutes of Health (NIH) | (.gov)Blood Protein Panel Predicts ALS Onset Years in Advance&nbsp;&nbsp;Labcompare",
-      "sources": [
-        {
-          "name": "StudyFinds",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOUhZNHMyTkZ5aXg4bk95aEhqQlVHajBHaFhSbGk5X3U5SjRxYWFXQzJXOWNzRDBYdHNfcDNJZWhJazFMYU5jeDdBQ2JvVkJqbEduQjdLYTdmSzRVVzNWcFJHOEQ4ODZ0dzhkcC00OWI4MmVNelViTUU1Ymhja3Z3Tzg3T1duYkpFVTBEMnpGbXJrMkFaam53MzQ3cGhoZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "98fcbeb62dea",
       "title": "Inflammation Keeps Us Alive. It's Also Making Us Sick. - The New York Times",
       "published": "2026-07-29T21:03:30+00:00",
-      "summary": "Inflammation Keeps Us Alive. It's Also Making Us Sick.&nbsp;&nbsp;The New York TimesChronic Inflammation Can Seriously Harm Your Health. These Simple, Science-Backed Habits Help Reduce It.&nbsp;&nbsp;Yahoo Health3 Truths & 1 Lie About Chronic Inflammation&nbsp;&nbsp;EatingWellSix things an immunologist wishes Kiwis understood about inflammation&nbsp;&nbsp;stuff.co.nz",
+      "summary": "Inflammation Keeps Us Alive. It's Also Making Us Sick.&nbsp;&nbsp;The New York TimesChronic Inflammation Can Seriously Harm Your Health. These Simple, Science-Backed Habits Help Reduce It.&nbsp;&nbsp;Yahoo Health3 Truths & 1 Lie About Chronic Inflammation&nbsp;&nbsp;EatingWellSix things an immunologist wishes Kiwis understood about inflammation&nbsp;&nbsp;Stuff",
       "sources": [
         {
           "name": "The New York Times",
@@ -390,46 +486,10 @@
       ]
     },
     {
-      "id": "dc56ba2d6a3f",
-      "title": "I refuse to feel ashamed of my genital herpes diagnosis - Yahoo Health",
-      "published": "2026-07-29T20:30:04+00:00",
-      "summary": "I refuse to feel ashamed of my genital herpes diagnosis&nbsp;&nbsp;Yahoo Health",
-      "sources": [
-        {
-          "name": "Yahoo Health",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUUdHd2tEMTkxS2RWSFRzXzZYVlNsT3dXM2NPY1kxRENnYzJnNmFuRndSTGRlbFdDbWEtbWd1b1lPT1JzMUFpRHVJQ0tiekpEeXJmWWVJdHQ5emZUeUpwZDU0endzZndkV0xtSmllc0xLUjR2cVB1SkFuVkN1b0NIR0M4WU1HNm80Unl4eldqM3lfOEZibU5wSkJuTHhXYXdSUVFqREhhV1pPVWM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e2744f9486f4",
-      "title": "Weight-loss joke turns serious as 'cyclospora skinny' trend fuels health warnings - Fox News",
-      "published": "2026-07-29T20:28:57+00:00",
-      "summary": "Weight-loss joke turns serious as 'cyclospora skinny' trend fuels health warnings&nbsp;&nbsp;Fox NewsJokes about losing weight from explosive diarrhea underline an unhealthy obsession with thinness&nbsp;&nbsp;CNNThere Are People Trying to Get the “Explosive Diarrhea” on Purpose. I Know Exactly What They’re Thinking.&nbsp;&nbsp;Slate Magazine‘Cyclospora skinny?’ Here’s why new weight-loss trend is dangerous&nbsp;&nbsp;Syracuse.comGetting Cyclospora Won’t Help You Lose Weight, Doctors Say&nbsp;&nb",
-      "sources": [
-        {
-          "name": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU1d6M3Z0Z0FEaGwwLV82NlZCOUtKV2xIYnZ3OGdJQ0RfQl8tQldoLTk0V0d1bEhkcVU0by04ODN6dldkX1dmOUczWEF5TklsZEU4UzJoRWY0alhlNC00b004WWJqN3pNWG5BdGVRczg0WmU0Z2RZOVl4RWFQNHpNa1p6aTBjQ2FzajlySk8zS2lOVUVhU0ZnVzJoVWtNcTYxSEd3VGV4S3YzejTSAbABQVVfeXFMT2JjX0Y1dUxIREpobnphRzBGVDJOOGZSRHFOZHVpZWxkc04yZkJLakdTMXdMOTNXQ0MtRlFCOGh5QlBkTHhlNmJrNy15bEd4NEtEOGtHTjlnNW5aVG1SZUlPMHFaTzdTOV8xOFI2ak9sOW9nVGliQTRTTEJSMEpoYlk0TEE2WjhBU2VNekxWSUYzMHdGM3VYUzhOSklKOEdCR1BsU194dVpQOWlRYmFCNE8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dfa0cac02ac5",
-      "title": "How Long Poop Stays in Your Body Could Have A Surprisingly Big Impact On Your Disease Risk - ScienceAlert",
-      "published": "2026-07-29T20:03:38+00:00",
-      "summary": "How Long Poop Stays in Your Body Could Have A Surprisingly Big Impact On Your Disease Risk&nbsp;&nbsp;ScienceAlert",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWW5BUm8tMUZBRkF6QjZFR01GSS1HNk52bjZPWjZvajZDT2FPUjNWTGlKR2o1TDJnVWhLcUlXcUtHU3RLY01rOUFDLW1QV0NWQmNadUZVQlc5VGFuX2Q5c2FjUE5nanY2RHp3MzNGYjRNMG5EUWFOZmFNZkNPb2JGQ1FleXIwbmc4LUlkLXJoRDU1Xy1fTVJUR29SeWRNRUdmNUNGMGJjMk5FeHlkbGxRcFMwbmJpbUNOV0NJb3FKLVQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "568d442d5e62",
       "title": "Limiting sugar before age two linked to better brain health - BBC",
       "published": "2026-07-29T20:02:45+00:00",
-      "summary": "Limiting sugar before age two linked to better brain health&nbsp;&nbsp;BBCLimiting Sugar Before Age 2 Reduces Risk of Dementia, Anxiety: Study&nbsp;&nbsp;People.comBritons conceived during sugar rationing had lower chance of dementia&nbsp;&nbsp;The TelegraphGiving babies less sugar could cut dementia risk, study finds&nbsp;&nbsp;The TimesLess sugar early in life may reduce the risk of Alzheimer's&nbsp;&nbsp;medicalxpress.com",
+      "summary": "Limiting sugar before age two linked to better brain health&nbsp;&nbsp;BBCSugar Rationing in Early Life Linked to Lower Dementia Risk Decades Later&nbsp;&nbsp;MedPage TodayLimiting Sugar Before Age 2 Reduces Risk of Dementia, Anxiety: Study&nbsp;&nbsp;people.comBritons conceived during sugar rationing had lower chance of dementia&nbsp;&nbsp;telegraph.co.ukLess sugar early in life may reduce the risk of Alzheimer's&nbsp;&nbsp;Medical Xpress",
       "sources": [
         {
           "name": "BBC",
@@ -450,49 +510,37 @@
       ]
     },
     {
-      "id": "e49ecf5d66b5",
-      "title": "Bay Area’s first human West Nile virus cases of 2026 confirmed in Santa Clara County - The Mercury News",
+      "id": "e6cfa262ac58",
+      "title": "Bay Area’s first human West Nile virus cases of 2026 confirmed in Santa Clara County - mercurynews.com",
       "published": "2026-07-29T18:50:05+00:00",
-      "summary": "Bay Area’s first human West Nile virus cases of 2026 confirmed in Santa Clara County&nbsp;&nbsp;The Mercury NewsSanta Clara County Has Its First 2 West Nile Virus Cases of 2026&nbsp;&nbsp;KQEDSanta Clara County reports first human West Nile Virus cases of the year&nbsp;&nbsp;KRON4Tulare County Warns of Two Mosquito Viruses at Once After Confirming Its First West Nile Case&nbsp;&nbsp;inklWest Nile Virus, Covid-19, Cyclospora, and hot days ahead in California&nbsp;&nbsp;Substack",
+      "summary": "Bay Area’s first human West Nile virus cases of 2026 confirmed in Santa Clara County&nbsp;&nbsp;mercurynews.comSanta Clara County Has Its First 2 West Nile Virus Cases of 2026&nbsp;&nbsp;KQEDTulare County Warns of Two Mosquito Viruses at Once After Confirming Its First West Nile Case&nbsp;&nbsp;inklSanta Clara County reports first human West Nile Virus cases of the year&nbsp;&nbsp;KRON4West Nile Virus, Covid-19, Cyclospora, and hot days ahead in California&nbsp;&nbsp;Substack",
       "sources": [
         {
-          "name": "The Mercury News",
+          "name": "mercurynews.com",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdmZEakE0bnZKV3FQdUtNVzNMWkluOHA0Y0pCR29ZZllfd1U5YnJETWxPWDJiQ2xJV2kzVDgyclJDdkp5NnVudHVyU3UtYmQyUFJxN2FTU2ZuOTkycDZGZ2ZYWFhUcTY5WXV0UmlPVHNKaDM0RjF0bXJUak5oQWdVMGIwU2Fzc3ZRNF85UU5scVl0WUtoaW42anVVSU95Q1XSAaQBQVVfeXFMUHBBX3ZVRHpibG9PZ0FNRWM5anY1Z1IxdG1hbEFEdkNqOXNKcFp0b2NLdU9uU096X3VJWmhneXczYmx0N1EwQ2pCTVhTV0FRLUhiSzIyNzV6bVpYb0NrcUZkZFhoUmVPSjFtNDIxUllYMkUyal9GTjdxRjQ3Sk5mOGIyS3BteDFvak9hS2JPVk1EaDRjb01lMkFfak5pZVBQUlItNGM?oc=5"
         }
       ]
     },
     {
-      "id": "0abb51019ba7",
-      "title": "‘Low tech’ chemotherapy nanoparticles show promise for deadly brain tumor recurrence - Fierce Biotech",
-      "published": "2026-07-29T18:30:00+00:00",
-      "summary": "‘Low tech’ chemotherapy nanoparticles show promise for deadly brain tumor recurrence&nbsp;&nbsp;Fierce Biotech",
+      "id": "9971acdadbf6",
+      "title": "“Tipping Point”: Ex-CDC Official Links Cyclospora & Measles Outbreaks to Trump’s Public Health Cuts - Democracy Now!",
+      "published": "2026-07-29T18:23:12+00:00",
+      "summary": "“Tipping Point”: Ex-CDC Official Links Cyclospora & Measles Outbreaks to Trump’s Public Health Cuts&nbsp;&nbsp;Democracy Now!Measles surge exposes bigger public health crisis, former CDC official warns&nbsp;&nbsp;MS NOWCDC cuts leave US less prepared for disease outbreaks, former officials warn | US healthcare&nbsp;&nbsp;The GuardianWhy are so many disease outbreaks popping up at once in US?&nbsp;&nbsp;NewsNationString of outbreaks tests US public health system amid funding cuts, vaccine resista",
       "sources": [
         {
-          "name": "Fierce Biotech",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdFJZeXhNZU5NZ2RCN3hNY2k4Wm9zblo5UlMxdVJGSUVqVHloSWQ1c0xtVkpsdEhJMUlCUTVlai1VSTNubWlZZV9UN21pQWV1bHlqSmllSHBZbm5PbTNtdTF5NVhoY0pYcjFhWENXOHVZSGdDLVEycTg0VmoyUm8wOVlLTi1weGd6a000aTlUZ2UyMjFLVnRoblRQYWpJQWl3LWVMVGxjMUoxTnJPczB3dlF5Y0pYQ0k?oc=5"
+          "name": "Democracy Now!",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zbWFibHhzWGh5Y1FrWXY2d1czcHFHVFJtVlFLQ21VOGRXTWl0RHN6eUFvNWdwc3hTU2N1MTJKeW5fNTZHdE1oTmFsMHgxbUxQakVlT252cy1nQzlTSnRGMHRpWQ?oc=5"
         }
       ]
     },
     {
-      "id": "6e90e0fdd57e",
-      "title": "These Drugs Save Lives, But Millions of Eligible Americans Aren’t Taking Them - Gizmodo",
-      "published": "2026-07-29T17:20:13+00:00",
-      "summary": "These Drugs Save Lives, But Millions of Eligible Americans Aren’t Taking Them&nbsp;&nbsp;Gizmodo1 in 3 US adults with high BP may meet meds criteria under 2025 guideline, study finds&nbsp;&nbsp;McKnight's Long-Term Care NewsIndependent study: Nearly 1 in 3 U.S. adults with high blood pressure may need medication&nbsp;&nbsp;www.heart.orgNearly 33% Adults In US May Need Blood Pressure Medication, Yet Most Go Untreated&nbsp;&nbsp;Health and MeWhat the New High Blood Pressure Warnings Mean for You&n",
-      "sources": [
-        {
-          "name": "Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ2tNZ3NiVlVvWkQ1b1BBMGUxc0FqNUhiZFd0U0I5M3VPRnM2RjROV3c1WTl5dHlmdmZFY1BHQ3hFUTczVWQ5c3o2YXUtQk9fUFgzck90Xy1lS3hwMFhIQnBmYzRKSUZsZEVFTEVIUzRta1J2b3RUSkNrT19xWXd4c3pZZU13UWlLM0o0NWg4bnFxUkZzR0VTV3JLWDJEYndpcUE0bi1QQlRudw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "705c05d33dd4",
-      "title": "6-year-old girl dies after parents paid $860K for experimental therapy that ‘shouldn’t have gone to trial’ - nypost.com",
+      "id": "d2df1675a1cc",
+      "title": "6-year-old girl dies after parents paid $860K for experimental therapy that ‘shouldn’t have gone to trial’ - New York Post",
       "published": "2026-07-29T16:44:00+00:00",
-      "summary": "6-year-old girl dies after parents paid $860K for experimental therapy that ‘shouldn’t have gone to trial’&nbsp;&nbsp;nypost.comScandal Exposes Limits of China’s Scientific Rise&nbsp;&nbsp;Foreign PolicyChina biotech sector fears policy backlash after girl dies in gene-editing trial&nbsp;&nbsp;South China Morning PostJournal, university investigations launched into gene-editing death following Science-Retraction Watch reporting&nbsp;&nbsp;Retraction WatchBrain-directed gene editing ends in death",
+      "summary": "6-year-old girl dies after parents paid $860K for experimental therapy that ‘shouldn’t have gone to trial’&nbsp;&nbsp;New York PostScandal Exposes Limits of China’s Scientific Rise&nbsp;&nbsp;Foreign PolicyChina biotech sector fears policy backlash after girl dies in gene-editing trial&nbsp;&nbsp;South China Morning PostJournal, university investigations launched into gene-editing death following Science-Retraction Watch reporting&nbsp;&nbsp;Retraction WatchIn China, the hidden death of 'Mei', a",
       "sources": [
         {
-          "name": "nypost.com",
+          "name": "New York Post",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTDJadHZYbXl5MlpBWTBHQkVIS0Z0S3hkZ2FTU215ZEtKeHFnR1BPMFRaUHdLTGpEanVjMk1XZ0tJMnpidF9uZFJWeUNaYU9ZZnloSHA3TTNOdFJldlV2NnB3YnlVd2RrY1BzQUtQR0JNNU5tQmJTRHYtaG4wY0JLanlQS3JqZkZOVzVYcV9aX0x6SmMwVGhPcVZPTFFiVm5rdGh6UmNuQ1g4Ylk?oc=5"
         }
       ]
@@ -501,7 +549,7 @@
       "id": "d77a2c9c2b60",
       "title": "After Centuries of Research, Betelgeuse Turns Out to Be Two Stars, Not One - ZME Science",
       "published": "2026-07-29T15:55:50+00:00",
-      "summary": "After Centuries of Research, Betelgeuse Turns Out to Be Two Stars, Not One&nbsp;&nbsp;ZME ScienceAstronomers observe companion star orbiting stellar giant Betelgeuse&nbsp;&nbsp;ReutersBetelgeuse, Betelgeuse! Astronomers capture clearest image yet of famous star's elusive companion&nbsp;&nbsp;SpaceAfter centuries of study, Betelgeuse is revealed to be two stars&nbsp;&nbsp;The TimesNew images reveal Betelgeuse’s buddy star&nbsp;&nbsp;sciencenews.org",
+      "summary": "After Centuries of Research, Betelgeuse Turns Out to Be Two Stars, Not One&nbsp;&nbsp;ZME ScienceAstronomers observe companion star orbiting stellar giant Betelgeuse&nbsp;&nbsp;ReutersBetelgeuse, Betelgeuse! Astronomers capture clearest image yet of famous star's elusive companion&nbsp;&nbsp;SpaceNew telescope images provide best evidence yet that the bright red star Betelgeuse is actually 2 stars in disguise&nbsp;&nbsp;Live ScienceNew images reveal Betelgeuse’s buddy star&nbsp;&nbsp;Science New",
       "sources": [
         {
           "name": "ZME Science",
@@ -522,22 +570,10 @@
       ]
     },
     {
-      "id": "0f65139e4b13",
-      "title": "The 15 Worst Foods for Your Heart, According to Experts - AOL.com",
-      "published": "2026-07-29T15:17:47+00:00",
-      "summary": "The 15 Worst Foods for Your Heart, According to Experts&nbsp;&nbsp;AOL.comSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0taFg4Nk5mUnhJSVdzcldFMU1Pd3R6SlpYNTBPSU12RnVRcXM3ejFQZU5lbTBsUGIzUTVkXzhaSW54czNBQnRNUkFLWDYyQnpIWFF0S25xM0NJRXJ1LUVlaWpxeFhEaUxxekdJaEZmano0ZGhJbWxobHZMTlY2cE0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "489b59b0a4ae",
       "title": "Most of Texas' cyclospora cases come from two regions. Here's where - Dallas News",
       "published": "2026-07-29T15:11:27+00:00",
-      "summary": "Most of Texas' cyclospora cases come from two regions. Here's where&nbsp;&nbsp;Dallas NewsGalveston County health officials confirm 14 cyclosporiasis cases, 4 other under investigation&nbsp;&nbsp;ABC13 HoustonTexas reports 123 cases of cyclospora with 90 in the Houston area&nbsp;&nbsp;click2houston.comCyclospora, typhus, alpha-gal: A San Antonio summer bug guide&nbsp;&nbsp;San Antonio ReportTexas wonders 'Will this give me cyclospora?' Is there an answer?&nbsp;&nbsp;Chron",
+      "summary": "Most of Texas' cyclospora cases come from two regions. Here's where&nbsp;&nbsp;Dallas NewsGalveston County health officials confirm 14 cyclosporiasis cases, 4 other under investigation&nbsp;&nbsp;ABC13 HoustonTexas reports 123 cases of cyclospora with 90 in the Houston area&nbsp;&nbsp;Click2HoustonCyclospora, typhus, alpha-gal: A San Antonio summer bug guide&nbsp;&nbsp;sanantonioreport.orgTexas wonders 'Will this give me cyclospora?' Is there an answer?&nbsp;&nbsp;Chron",
       "sources": [
         {
           "name": "Dallas News",
@@ -546,26 +582,50 @@
       ]
     },
     {
-      "id": "124197477c73",
-      "title": "Google Wants to Release 64 Million Bacteria-Infected Mosquitoes in Florida and California, Files For EPA Permit - Yahoo",
-      "published": "2026-07-29T15:00:00+00:00",
-      "summary": "Google Wants to Release 64 Million Bacteria-Infected Mosquitoes in Florida and California, Files For EPA Permit&nbsp;&nbsp;Yahoo‘Tired of humans playing God!’ Thousands react to plan to release 32M modified mosquitoes in Florida&nbsp;&nbsp;WKMGHow to defeat tropical diseases? California and Florida want to release 32 million mosquitoes&nbsp;&nbsp;Wodne Sprawy",
+      "id": "bcdeac6cc141",
+      "title": "Rational design of disordered proteins for sequence–function investigation - nature.com",
+      "published": "2026-07-29T15:06:27+00:00",
+      "summary": "Rational design of disordered proteins for sequence–function investigation&nbsp;&nbsp;nature.comGOOSE: Engineering Disordered Proteins&nbsp;&nbsp;Scientific FrontlineRational Design of Disordered Proteins Enables Sequence-Function Investigation&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNXzYtSWZGWEY0clBLeWtnYmVpSXBGVUZOaEYyaVZZY0lySFl5bnJJX3pBeGNKNGRyTUdEZ0lVemJBdkRKbGg3TU5BNWtqbVJxeXY2NG5YU1FNUi14RE9yWnRTMjVjcU1nbnlLNDZIUjhXVUUxMmZiaEEyY3pMTkc2cTNEa2phakQ3SGZQN2dDSFk0MW9U?oc=5"
+          "name": "nature.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yUW9VUlU0eUpIVjBRaW9RTjc3bVNKSlYteW9tOGNtQm1zb3RvU3VEaHNDaWJGZzJyVnQyU25TVXlwLURNYUduUldHZ1ZBUXJqN1pGMm1xZEVNTWI0M0g4?oc=5"
         }
       ]
     },
     {
-      "id": "db2e9cf0ce70",
-      "title": "Researchers find alarming rates of mental decline, warn of 'dementia crisis' in Newark area - Gothamist",
-      "published": "2026-07-29T14:34:00+00:00",
-      "summary": "Researchers find alarming rates of mental decline, warn of 'dementia crisis' in Newark area&nbsp;&nbsp;Gothamist",
+      "id": "2078ab08fa56",
+      "title": "Enzymatic glycosylation and amidation reshapes polyene bioactivity - nature.com",
+      "published": "2026-07-29T15:06:26+00:00",
+      "summary": "Enzymatic glycosylation and amidation reshapes polyene bioactivity&nbsp;&nbsp;nature.comUK researchers develop safer antifungal drugs to tackle drug-resistant infections&nbsp;&nbsp;Innovation News NetworkEnzymes open a new path to improve antifungal drugs&nbsp;&nbsp;C&amp;ENGenome Mining Points to Less Toxic, More Potent Polyene Antifungals in Mice&nbsp;&nbsp;Genetic Engineering and Biotechnology NewsNew antimicrobials may help combat deadly drug-resistant infections&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
-          "name": "Gothamist",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZGJhLVRYVHptUnE0bUV0WWVKT2pvYUg1Y2hEQjBjYnZ1Z1g1QmR4WVREM3JhWDJpRGdDaU4xeWFrRFZROXlVSHRQMmpQdVE1dUJvSUhEWUsxdTd0VkFtdkhWVy1vaWctWklYTWhzRGE5Y2ZubWIxTW9jRXh5MEJtRWxGM0FHNHhSVDRXN0tPMGllXzRfa2Rn?oc=5"
+          "name": "nature.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sREpSakN0U00yZW40YWdqRi1lQWVYS3pMWkhuVVUwUmNndVZjS1dNVmNBV1R4UnlPbXVUUnF1amUyclpzV3Fsc1VuRXUzSGVzTndlVmpQWElZdVhfaDA0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2f8628d0487a",
+      "title": "This Pregnancy Condition Spiked 73% in 8 Years - Newser",
+      "published": "2026-07-29T15:00:00+00:00",
+      "summary": "This Pregnancy Condition Spiked 73% in 8 Years&nbsp;&nbsp;NewserRates of High Blood Pressure Are Rising in Pregnant Women, Study Finds&nbsp;&nbsp;The New York TimesNew CDC data: High blood pressure during pregnancy is rising in every state&nbsp;&nbsp;AxiosFewer Texas Births, More Pregnancy Hypertension&nbsp;&nbsp;710 KURVHypertensive Disorders: A Postpartum Wake-up Call&nbsp;&nbsp;TulsaKids Magazine",
+      "sources": [
+        {
+          "name": "Newser",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmhwTEZmV2RNUnFNTU42LU52UWhWcjlXVGhHWUtWTHZFM1F2c29xdTJhVUtsNDAyV3EyTnk5WG5FdU91VW1TVTc1MVJXVWJSZVREcnFHaDYzbzFvWU9ENlNWZDVIQlRPTUdXdW9Sby1fWTVFSVk5M2VfVHRpT1hFM1FNcVQtMS1YTjJTUFdNX3o?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "99833651073b",
+      "title": "‘Our spark has gone’: The marriages ruined by Ozempic - telegraph.co.uk",
+      "published": "2026-07-29T15:00:00+00:00",
+      "summary": "‘Our spark has gone’: The marriages ruined by Ozempic&nbsp;&nbsp;telegraph.co.ukHow big is America’s “obesity penalty”?&nbsp;&nbsp;The EconomistColumn | GLP-1s benefit women in a way that no one is talking about&nbsp;&nbsp;The Washington PostGLP-1 drugs may hold few benefits beyond physical health, study finds&nbsp;&nbsp;Medical XpressMillions of people are losing weight using GLP-1s. How do the drugs affect their love lives?&nbsp;&nbsp;The Guardian",
+      "sources": [
+        {
+          "name": "telegraph.co.uk",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSFRhVDlzdlBxemdySHRlU3h3SGVCMks2TGxodWlEMGxWaTg4X1RuWDB2MEp1NUJPYzZhM2JJUU9saGhxSmRUQlh6NWhvcmpwQ284S1NsRWxJbGJod3dya05NNWxkSlRFQnhuZkhiZ1ZGUEtMZ01mRG9VX096WF9ZRG9DNmpHY2M?oc=5"
         }
       ]
     },
@@ -573,7 +633,7 @@
       "id": "c5d94b10b373",
       "title": "Black hole 'blast' reaches 300,000 light-years - Phys.org",
       "published": "2026-07-29T14:20:10+00:00",
-      "summary": "Black hole 'blast' reaches 300,000 light-years&nbsp;&nbsp;Phys.orgVigorous turbulence driven by quasar-mode feedback in a cluster core&nbsp;&nbsp;NatureThis Single Black Hole May Be Doing The Work Of Several Billion Exploding Stars&nbsp;&nbsp;StudyFindsSupermassive Black Hole Winds Span 300,000 Light-Years&nbsp;&nbsp;sflorg.com",
+      "summary": "Black hole 'blast' reaches 300,000 light-years&nbsp;&nbsp;Phys.orgVigorous turbulence driven by quasar-mode feedback in a cluster core&nbsp;&nbsp;nature.comThis Single Black Hole May Be Doing The Work Of Several Billion Exploding Stars&nbsp;&nbsp;StudyFindsSupermassive Black Hole Winds Span 300,000 Light-Years&nbsp;&nbsp;Scientific Frontline",
       "sources": [
         {
           "name": "Phys.org",
@@ -594,14 +654,14 @@
       ]
     },
     {
-      "id": "05694adc1311",
-      "title": "A tiny pill could beat the world’s biggest killer - vox.com",
-      "published": "2026-07-29T13:35:00+00:00",
-      "summary": "A tiny pill could beat the world’s biggest killer&nbsp;&nbsp;vox.comNewly approved pill cuts LDL cholesterol levels by more than half&nbsp;&nbsp;Harvard HealthNew Twice-Yearly Inclisiran Therapy Shows Major Reduction in LDL Cholesterol&nbsp;&nbsp;MedscapeNew cholesterol treatment could be 'game changer' for Spokane, says MultiCare cardiologist&nbsp;&nbsp;The Spokesman-ReviewI’m a cardiologist. I’m not sure the new cholesterol drug enlicitide is a game-changer&nbsp;&nbsp;STAT",
+      "id": "d39100d00004",
+      "title": "How mosquitoes are conquering the world — in four charts - nature.com",
+      "published": "2026-07-29T13:16:11+00:00",
+      "summary": "How mosquitoes are conquering the world — in four charts&nbsp;&nbsp;nature.comMosquito season is growing longer as temperatures rise&nbsp;&nbsp;WGMEMore Mosquito Disease Days in 95% of Major U.S. Cities&nbsp;&nbsp;Climate CentralClimate change is extending mosquito season, increasing disease risk in US cities&nbsp;&nbsp;13newsnow.comWarming temperatures linked to longer mosquito disease season, analysis finds&nbsp;&nbsp;WSMV",
       "sources": [
         {
-          "name": "vox.com",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRTlOWFk2STZDRl8tbGZPcm5nR3U1X1ZkQk9iODh6MFlZWFg0cVIzRGhiYVpqU0QzdlFrRk5oM2ZGTDBfRVZCS1I5blFtZml6SG15Y2s0c3pNd09IbFNSbEdUcXN2dUZISDFPRzlsT21ZSzQyb01FSTVPd0FUY3FER1ZGZkFNM25menZHWg?oc=5"
+          "name": "nature.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLaFY1aTFyVldsQXVES3dRUGdJSGYtdk04SHdWQVJYUExobDZ5NXRvWlg2cEh5OFNRcXEzQTlzM2hBSWR4VVhuMmttZVZSMWc1MENrVEV3TXg0MV9tM3V3?oc=5"
         }
       ]
     },
@@ -609,7 +669,7 @@
       "id": "e9bc23a42544",
       "title": "Researchers reverse autism-like symptoms in mice with one rapamycin dose - NewsNation",
       "published": "2026-07-29T13:08:10+00:00",
-      "summary": "Researchers reverse autism-like symptoms in mice with one rapamycin dose&nbsp;&nbsp;NewsNationSee more headlines & perspectives on Google News",
+      "summary": "Researchers reverse autism-like symptoms in mice with one rapamycin dose&nbsp;&nbsp;NewsNationAcute rapamycin treatment reveals distinct mechanisms of dysfunction in a maternal inflammation mouse model&nbsp;&nbsp;nature.comScientists Reversed Autism-Like Symptoms in Adult Mice Within Two Hours&nbsp;&nbsp;SciTechDailySingle Drug Dose Reversed Autism-Like Traits in Mice&nbsp;&nbsp;LabrootsDid scientists ‘reverse’ autism? Plus a measles milestone, e-bike injuries and gum health&nbsp;&nbsp;Straight ",
       "sources": [
         {
           "name": "NewsNation",
@@ -618,10 +678,22 @@
       ]
     },
     {
+      "id": "97a145184c6d",
+      "title": "A global food poisoning bug is getting worse. Scientists just found the culprit - Newsweek",
+      "published": "2026-07-29T12:59:00+00:00",
+      "summary": "A global food poisoning bug is getting worse. Scientists just found the culprit&nbsp;&nbsp;NewsweekIndustrial chicken farming drives evolution of foodborne bacteria strains&nbsp;&nbsp;News-MedicalIndustrial chicken farming accelerating spread of diarrhoea bacteria, study finds&nbsp;&nbsp;The GuardianHow 31 Billion Chickens Are Driving the Evolution of a Major Foodborne Pathogen&nbsp;&nbsp;Discover MagazineScientists analyze spread of Campylobacter&nbsp;&nbsp;foodsafetynews.com",
+      "sources": [
+        {
+          "name": "Newsweek",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZWpZc01MSWxZVUNmaFdrZEl6TVRMNktGVE56WHFYSzd2NXlVU3dSVXFwY2Q3Z3BLc3lDcGwwdVZHT1VnbzE2bXdfYmxTR1FlMnFuWDJQT0pHTE80NmhhTlRRNkIwSTczQ1VMQzBiZHJScG1xSTkxYjk0a0VoLXZ6M1hpTTJDc01GUEdacUhTaVhaQjlDcnVQcW16OUh5SzRGaEV2djJrNTZidjg4cHJOTFpn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ff9427cc4e99",
       "title": "Most ‘ovarian cancer’ isn’t. And that fact can save lives - The Seattle Times",
       "published": "2026-07-29T12:41:44+00:00",
-      "summary": "Most ‘ovarian cancer’ isn’t. And that fact can save lives&nbsp;&nbsp;The Seattle TimesMost ‘Ovarian Cancer’ Isn’t. And That Fact Can Save Lives.&nbsp;&nbsp;The New York Times‘Ovarian cancer’ is a misnomer as most fatal cases begin in the fallopian tubes?&nbsp;&nbsp;Hindustan TimesDeadliest ovarian cancers now believed to originate in fallopian tubes, physicians say.&nbsp;&nbsp;Yahoo News Canada",
+      "summary": "Most ‘ovarian cancer’ isn’t. And that fact can save lives&nbsp;&nbsp;The Seattle TimesMost ‘Ovarian Cancer’ Isn’t. And That Fact Can Save Lives.&nbsp;&nbsp;The New York TimesSpreading Awareness About Ovarian Cancer to Reduce the Risk – Break Through Cancer&nbsp;&nbsp;Oncodaily‘Ovarian cancer’ is a misnomer as most fatal cases begin in the fallopian tubes?&nbsp;&nbsp;hindustantimes.comDeadliest ovarian cancers now believed to originate in fallopian tubes, physicians say.&nbsp;&nbsp;Yahoo News Can",
       "sources": [
         {
           "name": "The Seattle Times",
@@ -630,14 +702,14 @@
       ]
     },
     {
-      "id": "9971acdadbf6",
-      "title": "“Tipping Point”: Ex-CDC Official Links Cyclospora & Measles Outbreaks to Trump’s Public Health Cuts - Democracy Now!",
-      "published": "2026-07-29T12:00:00+00:00",
-      "summary": "“Tipping Point”: Ex-CDC Official Links Cyclospora & Measles Outbreaks to Trump’s Public Health Cuts&nbsp;&nbsp;Democracy Now!Measles surge exposes bigger public health crisis, former CDC official warns&nbsp;&nbsp;MS NOWWhy are so many disease outbreaks popping up at once in US?&nbsp;&nbsp;NewsNationCDC cuts leave US less prepared for disease outbreaks, former officials warn | US healthcare&nbsp;&nbsp;The Guardian‘Infectious diseases never take a break’&nbsp;&nbsp;The Leadville Herald",
+      "id": "79039e406ae0",
+      "title": "What the New High Blood Pressure Warnings Mean for You - Yahoo",
+      "published": "2026-07-29T12:20:50+00:00",
+      "summary": "What the New High Blood Pressure Warnings Mean for You&nbsp;&nbsp;Yahoo1 in 3 US adults with high BP may meet meds criteria under 2025 guideline, study finds&nbsp;&nbsp;McKnight's Long-Term Care NewsThese Drugs Save Lives, But Millions of Eligible Americans Aren’t Taking Them&nbsp;&nbsp;GizmodoIndependent study: Nearly 1 in 3 U.S. adults with high blood pressure may need medication&nbsp;&nbsp;www.heart.orgNearly 33% Adults In US May Need Blood Pressure Medication, Yet Most Go Untreated&nbsp;&nbs",
       "sources": [
         {
-          "name": "Democracy Now!",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zbWFibHhzWGh5Y1FrWXY2d1czcHFHVFJtVlFLQ21VOGRXTWl0RHN6eUFvNWdwc3hTU2N1MTJKeW5fNTZHdE1oTmFsMHgxbUxQakVlT252cy1nQzlTSnRGMHRpWQ?oc=5"
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZzVUREhMd2prSHVhVzZ4Wkl5T2k2SWtZV28tRjdlN05JSGRCcjNGdDYzaTVsNUp6OGI3TGVnRE1jUFNGNG1EUU1ScTBrV2RLSnUtaHRjSUNNT3RiaDE2bG1XZk5xY01Ed3I2Tzl2dy1Yd0Jnd1dPeGVkbVZPN0JFWEMxdzlpOXZvZEE?oc=5"
         }
       ]
     },
@@ -645,23 +717,11 @@
       "id": "b2381ef1cc81",
       "title": "Scientists Discover a Vagus Nerve Signal That Links Food Directly to Memory Formation - ScienceAlert",
       "published": "2026-07-29T11:04:13+00:00",
-      "summary": "Scientists Discover a Vagus Nerve Signal That Links Food Directly to Memory Formation&nbsp;&nbsp;ScienceAlertThe gut's link to Parkinson's — and more takeaways from this week's \"Healthful\"&nbsp;&nbsp;CBS NewsYour gut may help your brain decide what to remember&nbsp;&nbsp;ScienceDailyThe stomach helps the brain form memories—this is how it may work&nbsp;&nbsp;medicalxpress.comThe food we eat can decide what the brain remembers, says new US study&nbsp;&nbsp;theprint.in",
+      "summary": "Scientists Discover a Vagus Nerve Signal That Links Food Directly to Memory Formation&nbsp;&nbsp;ScienceAlertYour gut may help your brain decide what to remember&nbsp;&nbsp;ScienceDailyThe gut's link to Parkinson's — and more takeaways from this week's \"Healthful\"&nbsp;&nbsp;cbsnews.comThe stomach helps the brain form memories—this is how it may work&nbsp;&nbsp;Medical XpressThe food we eat can decide what the brain remembers, says new US study&nbsp;&nbsp;ThePrint",
       "sources": [
         {
           "name": "ScienceAlert",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSGhxa1M5dDZFeWZ4UmJOcmt3LVlMRUhvdXpSNXNWTWh1M2l6ay1sdlNhSW04VWRGbVAxUkE5ZDJ0a0ZxdHJ1WktscHh6V3lCbEZVT0VfSVo4azh1LS1YNUU3N1lwbFdjdHNqb1Y0SnhrNmxsRnlUVDVsc1VsLVptREhONTlMY1pnTEdXcXEzcjU5dkJkRWNkQkJiYnlnaUFsSlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bd822728a600",
-      "title": "Scientists Can Now Spot Alzheimer’s 10 Years Before Symptoms — Here’s the Catch - Money Talks News",
-      "published": "2026-07-29T11:00:12+00:00",
-      "summary": "Scientists Can Now Spot Alzheimer’s 10 Years Before Symptoms — Here’s the Catch&nbsp;&nbsp;Money Talks NewsSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "Money Talks News",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLUVNWWgxMF9GYjBOOVNBUXpaZjZSSF9kS3BBVUdkRU1xRmpGR2RXMTVwUkwwSTY0cDVsTHN0R3EwNFpGYVNGQ1FNLWpYVWp3ZWMwNTFnNEdzUWZEc2Mya2VuZDNPbkpQaDExdnEtd1hFZ2x3YWRYNVduUURsTjBMdTd3SDRlZlcyZTgzWUVfcFJxYmVXUVVXMUJhTjY0MVJsYnV1eEx2QQ?oc=5"
         }
       ]
     },
@@ -678,22 +738,10 @@
       ]
     },
     {
-      "id": "15000903ff72",
-      "title": "New twist on the Einstein problem reveals unexpected physics - Phys.org",
-      "published": "2026-07-29T09:00:04+00:00",
-      "summary": "New twist on the Einstein problem reveals unexpected physics&nbsp;&nbsp;Phys.orgUniversity of Tokyo Researchers Apply Smith Hat Aperiodic Geometry to Optical Structures&nbsp;&nbsp;geneonline.comScientists unravel new physics after laser diffracts in chiral patters&nbsp;&nbsp;Interesting EngineeringNew Einstein puzzle variant uncovers surprising physics&nbsp;&nbsp;Bioengineer.orgScientists uncover new physics in a famous Einstein puzzle&nbsp;&nbsp;Tech Explorist",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdkpRWGp3MjNRQXNaT2RKTzZacjVteGpQbEFkbndRV1hjWDFMOXZKYlhGdjdGUGlfX2hodTFnd0swUVhYYzFCTGYzTHlEUzVqVFhDY2ZoMVlJcU5PbVlPOTZSVm1YZXJKY0t5dzZ2cHdIQ0JVOG5KcWlyX1JlU2tmM1RTdDU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8022e64748b3",
       "title": "Largest-Ever Genetic Study of Fibromyalgia Points to a Neurological Origin - Technology Networks",
       "published": "2026-07-29T08:44:11+00:00",
-      "summary": "Largest-Ever Genetic Study of Fibromyalgia Points to a Neurological Origin&nbsp;&nbsp;Technology NetworksThe genetic architecture of fibromyalgia across 2.5 million individuals&nbsp;&nbsp;NatureLarge Study Describes Genetic Underpinning of Fibromyalgia&nbsp;&nbsp;MedscapeNew genetic risk factors linked to chronic pain disorder in major study&nbsp;&nbsp;The IndependentScience Spotlight: HTT variant increases risk for fibromyalgia&nbsp;&nbsp;biocentury.com",
+      "summary": "Largest-Ever Genetic Study of Fibromyalgia Points to a Neurological Origin&nbsp;&nbsp;Technology NetworksThe genetic architecture of fibromyalgia across 2.5 million individuals&nbsp;&nbsp;nature.comLarge Study Describes Genetic Underpinning of Fibromyalgia&nbsp;&nbsp;MedscapeNew genetic risk factors linked to chronic pain disorder in major study&nbsp;&nbsp;The IndependentScience Spotlight: HTT variant increases risk for fibromyalgia&nbsp;&nbsp;biocentury.com",
       "sources": [
         {
           "name": "Technology Networks",
@@ -710,78 +758,6 @@
         {
           "name": "The Times of India",
           "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNd3FJTG5hSWpody1COW9aWXZQV3A5dHNLd0NSRU5lWW54eTJFYnFwaDJwQ1RiaWFtTU1QWW1rR2ZUb21TNklRN2tjNXNTQ1lhdVk3TXhJZTdKVjlnbnhtQ2l4bElkTi1VSldBMnNhUzBvbHdzRlYta0xEaE9hU3ZsdlBMaVE0Q2x4d2N1SGRUdXAwV2d4LVV4bXYwbndkTjFIV0JvaGJmSVJ6SnFYVmppdC1XRmJwZXF2N3Q4anpaNXVnbThQMjNxazZOWGNDNWxHLXFNRUxKdDctS1pYc1ZQcnlkXzViWVYxTWxCOFd5QU9HNVprUFpWc0djS3BhMHNRalNCd3BHbEwtaXZUZnREMk10aFNfRWpteFhQc0IxdzNBeEU3ZWlXUHpNeG1UckZG0gG2AkFVX3lxTE9OMnVpSlEtREUwdHc2S3FyU3lhRkY3TUFhTUpEQ3FJSWZnZ1FpWGhXdEVXMTlISlBCZE9waktLQ3FvaWh1WkY3TE84dkczQjEzR0ZmaWJyU256ckpZUHIxYmJyMTlQaFY0R3VpZ0NXUy1HTGVpZkVvNndEUW9iMVVNVXA5VnNtSlFhNlNTdTRiLUl0NlFkWXZKaG1NVTZFWV9Mc1R5V2plbHNvcGhTUXkyUFVlOTJWM0hqNUJsTGNhNjVuemdmSHlWOGYxOGZmZFc5dEJmMHpPLWZDUm94ZzVUbEpXNHU5bzlNejdvWkc0M01ETmNZSC1vWXN1S09BRHl6MEpnOExhZDZrLWRxcTVBN2tqbE5yYkdSNTBWWVBiSGlXU3Z0OFhTR0wwR2NlU0piOC1pb0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3450a4039e62",
-      "title": "Wrexham man's headache turns out to be terminal brain cancer - BBC",
-      "published": "2026-07-29T05:09:35+00:00",
-      "summary": "Wrexham man's headache turns out to be terminal brain cancer&nbsp;&nbsp;BBCMan, 34, Diagnosed with Incurable Brain Tumor After Experiencing 10-Day Migraine&nbsp;&nbsp;People.comMan Who Ignored Headaches Diagnosed With Terminal Brain Cancer, Says Wife's Instinct Saved His Life&nbsp;&nbsp;NDTVNorth Wales woman urges Senedd to act on brain cancer research after husband’s diagnosis&nbsp;&nbsp;Deeside.comWrexham woman urges Senedd action on outdated brain cancer treatment after husband’s diagnosis&nb",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81ZmN0djdtcmI4aGs3aTZyU1lsODQ0T2p0MHRUNkZZS1BWOWdNSjM0UmtfZ0xEVGxrYTlkaGJVNnlLRTNCSW5iSTFBV2xhRUFRTFhjMHlSeEVQZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ed4ebe028524",
-      "title": "Rates of High Blood Pressure Are Rising in Pregnant Women, Study Finds - The New York Times",
-      "published": "2026-07-29T04:01:25+00:00",
-      "summary": "Rates of High Blood Pressure Are Rising in Pregnant Women, Study Finds&nbsp;&nbsp;The New York TimesNew CDC data: High blood pressure during pregnancy is rising in every state&nbsp;&nbsp;AxiosFewer Texas Births, More Pregnancy Hypertension&nbsp;&nbsp;710 KURVThis Pregnancy Condition Spiked 73% in 8 Years&nbsp;&nbsp;NewserHypertensive Disorders: A Postpartum Wake-up Call&nbsp;&nbsp;TulsaKids Magazine",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5femVjUWUzRWZPa0U1WG5SdHlpOUJmOW1aMDIwMFl1dTV0ZXU3RHNlVFd2RzJUZXJpQnBhZWhNZmd5X1NCbHJ1YXktTmlFdFJwdGRLZUF6M1FIN3R1TmpoWUF2WlQ3X2NkbkFjVzdfZFFrUEt5d0Z2SDFNZTBzRzQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "20a346e417aa",
-      "title": "Salmonella cases are surging in Colorado, health officials say - 9News",
-      "published": "2026-07-29T01:41:00+00:00",
-      "summary": "Salmonella cases are surging in Colorado, health officials say&nbsp;&nbsp;9NewsCyclosporiasis and salmonella cases are rising in Colorado&nbsp;&nbsp;AxiosColorado public health officials alert Coloradans about ‘significant increase’ in Salmonella cases&nbsp;&nbsp;KKTVColorado is seeing a ‘significant increase’ in salmonella cases. Here’s what you should know.&nbsp;&nbsp;Denver7Colorado has double its normal salmonella cases in July&nbsp;&nbsp;The Denver Post",
-      "sources": [
-        {
-          "name": "9News",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMy1qcGlpY2RUTVU1QUpPQW10TTNMeUszcUZSLXVOaHNWSGhTOElUd0ZMS2xDRDVYZnNtQkY2aWZYaDd4bW03dzRpN0s2NjRHajhuNlVIVllQeUNNS3JSLWZEVVpPdC0zZWtmWVVRT3dvRmxPakRTaTRJZ2hJTk5WclJsTUY5RkdyU0pJVUcyOXNHS0haaVBuNk5kSjZ3eUVudkhKMG1HbXZDQ2J6U3p0eXh2UFlHUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9baa365a6f57",
-      "title": "Cassini was deliberately flown into Saturn in September 2017 while still working perfectly, because the alternative was letting a dying spacecraft carrying Earth bacteria eventually drift into Enceladus, a moon with a liquid ocean and hydrothermal vents on its fl - Space Daily",
-      "published": "2026-07-28T23:00:35+00:00",
-      "summary": "Cassini was deliberately flown into Saturn in September 2017 while still working perfectly, because the alternative was letting a dying spacecraft carrying Earth bacteria eventually drift into Enceladus, a moon with a liquid ocean and hydrothermal vents on its fl&nbsp;&nbsp;Space Daily",
-      "sources": [
-        {
-          "name": "Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByY2VZUnRHMEwyTkNPQjl5a2dfZXZTTGRsUkpOX2hYbTdOU3ZDam5WenNsRExyMDJMeTZxdzNMMmxwYTRJWm1WUHVWVEtISl92X18yMUNtYW9wd1RyTThkSHRCa1RleGY2OUdwNVVFN1JUVVowSVV1ZHpWYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f0cea5292650",
-      "title": "Father's diet before conception impacts baby's body composition - News-Medical",
-      "published": "2026-07-28T19:26:00+00:00",
-      "summary": "Father's diet before conception impacts baby's body composition&nbsp;&nbsp;News-MedicalStudy Shows Link Between What Fathers Eat and Baby’s Birth Weight&nbsp;&nbsp;uk.style.yahoo.comScientists studied what fathers eat before conception. It showed up in their babies&nbsp;&nbsp;NewsweekFathers’ Ultra-Processed Food Intake May Affect Babies’ Birth Weight and Size&nbsp;&nbsp;Bioengineer.org",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUWJXVTVjeFNJUWdHQmNOcjh2NC1jRXl4LXlOMG13clFIZnltbnBaelZmWjZQRE5rbW12Z3d6N19nMWp4d3czUVo1Z2NORWpCTHlUc1JYbkt0cFVWdkhVMHJJOU50ZlNraFhDZkNTT3Z2WWRhNlhUakNWcTBLLWl1Y1Yza2ZjTC1BaUZCNVZERlFYR2xwcDlMU204UDdFMkhHV3FJQnVVVjN2aXowanc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ecd188aab514",
-      "title": "Single molecule becomes quantum sensor for imaging proteins at nanoscale - Phys.org",
-      "published": "2026-07-28T19:00:06+00:00",
-      "summary": "Single molecule becomes quantum sensor for imaging proteins at nanoscale&nbsp;&nbsp;Phys.orgIQC researchers use single molecule as quantum sensor to map biomolecules&nbsp;&nbsp;Open Access GovernmentUsing a molecule as a quantum sensor&nbsp;&nbsp;University of WaterlooMolecular Quantum Sensor Beats Diamond Approach, Opening Path to Single-Protein Imaging&nbsp;&nbsp;Tech TimesUsing Molecule As Quantum Sensor&nbsp;&nbsp;Mirage News",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSDZkVW1UX1c4eklRUUhTcWpNX2F3OWtKVHJlUnQxdHZrdklJYTBGdVFBaGxFWVBxQ2xZdDA0a0Z2YVc3YmVMSklsSnFuLTVFNi1UUnFrQU9YeFhOVnNkWXlUYkpYbUZiNEJvUXIwM3hZM1hSYjd4MmhUVmZnQndPWA?oc=5"
         }
       ]
     }

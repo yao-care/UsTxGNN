@@ -1,19 +1,79 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-08-02T08:27:01.460200+00:00",
-  "total_fetched": 135,
-  "unique_count": 135,
-  "health_related_count": 65,
+  "fetched_at": "2026-08-02T13:26:30.906303+00:00",
+  "total_fetched": 134,
+  "unique_count": 134,
+  "health_related_count": 60,
   "news": [
     {
-      "id": "6dd21f2e81ee",
-      "title": "As measles has a record resurgence, doctors relive terror of last major US outbreak - The Independent",
-      "published": "2026-08-02T01:13:00+00:00",
-      "summary": "As measles has a record resurgence, doctors relive terror of last major US outbreak&nbsp;&nbsp;The IndependentMeasles outbreak intensifies across Pennsylvania&nbsp;&nbsp;Pittsburgh Post-GazetteTalking about the car wash (car wash, yeah), why there are so many and what it says about our lives [editorial]&nbsp;&nbsp;LancasterOnlineOpinion | Measles’s Communal Risk&nbsp;&nbsp;WSJAmerica’s new epidemic of measles and malaise&nbsp;&nbsp;The Hill",
+      "id": "f5c79e989159",
+      "title": "'Natural Protection From Asthma And Allergies': Scientists Isolate Bacteria Behind The Immune System Farm Effect - ScienceAlert",
+      "published": "2026-08-02T11:04:27+00:00",
+      "summary": "'Natural Protection From Asthma And Allergies': Scientists Isolate Bacteria Behind The Immune System Farm Effect&nbsp;&nbsp;ScienceAlertStudy identifies which bacteria trigger the 'farm effect' that makes children less prone to allergies&nbsp;&nbsp;Medical XpressStudy identifies cattle gut bacteria linked to lower asthma and allergy risk&nbsp;&nbsp;سانا",
       "sources": [
         {
-          "name": "The Independent",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTTItZ2JwQ3FuYXk5RWdHS3dqQVBYZks4TFVzcmkxZm9sRkhQQjQxRmNsSGZCZmdRV2MyeWFfalNscS1TU29sYTRoSkRPbUNIUmpubGx1dHNqa29zcGxxcUs3SUl5ZTEyMFpZazJPU2NSZ0xYbXBwWjBCMjk2TEpWanpaOGNnUjNiWXJVU2hQWGdSTlFhM21GLUpYeUszRzNW?oc=5"
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMjNTazNHU0tIWkZOMTJHVklNS2l2aXBYX3RacmRRR0RKZzZ1VHZ6QTNPTTRpakxNd3MtSlBGbk5CWTJvRm9FVHAzZTNOR1d6RkNXWVMtUzRjZUxrWUJNR0c3STV2S1dYOFU2VkNRenRVRUkxUlJ0SEJSYk4wRnh1b1RJcktta3pxUTJSRDJYY29WdWpVNU5qeWZCbUJjVGxpUUI3anNBN3VYd3lpOUY4eUoyMkdBWm1hUE9NUk40ZHBKNXFCR1htSll3eTRqdEl4dUt3OQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a81a464e2efa",
+      "title": "US officials focus on identification and rapid action as measles cases rise - The Guardian",
+      "published": "2026-08-02T11:00:00+00:00",
+      "summary": "US officials focus on identification and rapid action as measles cases rise&nbsp;&nbsp;The GuardianTalking about the car wash (car wash, yeah), why there are so many and what it says about our lives [editorial]&nbsp;&nbsp;LancasterOnlineMeasles outbreak intensifies across Pennsylvania&nbsp;&nbsp;post-gazette.comOpinion | Measles’s Communal Risk&nbsp;&nbsp;WSJAs measles has a record resurgence, doctors relive terror of last major US outbreak&nbsp;&nbsp;The Independent",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jQm41ZzFQaUVnQWx5b2w1dEpjbnZoME1seGxUSGFhVVRJbjFzUXZTX2pMeHpST0tib3lua1lwUzhacFBZakE2OVIxRTJqY2xqdWUwb0lBdkJuN05qMnM1enNCTFBuTHMzZGhsSl9oZzNIQW1LUjJZX2Q5QlZhUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9c16d6d1f9fe",
+      "title": "1 Subtle Sign Of A Heart Attack That Many People Often Ignore - AOL.com",
+      "published": "2026-08-02T10:43:17+00:00",
+      "summary": "1 Subtle Sign Of A Heart Attack That Many People Often Ignore&nbsp;&nbsp;AOL.comSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAydlFFRHVZNDd6UUNXUFhzMGJ1ODJmbWVVbFNZUW9WWExjeEpPdnRyZGlOQ0JwYlZPd29uVzRVU2VLRlh6WThscTIwbjFvUmUzSF81enN4QXpLX245aXotYUxRN0gtUW9oUktoVVVETExpSzNRMU9Tdlp3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "49f45f9219b5",
+      "title": "7 Best Cereals to Reduce Heart Disease Risk, According to Cardiologists & Dietitians - EatingWell",
+      "published": "2026-08-02T10:00:00+00:00",
+      "summary": "7 Best Cereals to Reduce Heart Disease Risk, According to Cardiologists & Dietitians&nbsp;&nbsp;EatingWell",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWdrS2hxRTRzeWxwQlZUU080Y3ZiMzRJM1FhTHlwZnVpMHdVQVQ3SHZqaHdtcU5vMFJ3Y1NDSmFtMTBBaGd0QjN1X2loZWJLbEdRTFBMNk9RS05CdkVGSUdlMGlVTWFOb19RTTBJRTF6ZGVzdW9rT0dLX203YzB0VEpIVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "44df6859f18b",
+      "title": "Eating less protein could slow aging, major review finds - ScienceDaily",
+      "published": "2026-08-02T04:53:49+00:00",
+      "summary": "Eating less protein could slow aging, major review finds&nbsp;&nbsp;ScienceDailyConsuming less protein could have greater health benefits and extend lifespan&nbsp;&nbsp;News-MedicalStudy suggests eating less protein could be key to healthy aging for most adults&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosCould eating less protein slow ageing?&nbsp;&nbsp;New ScientistLifelong restriction of dietary valine has sex-specific benefits for health and lifespan in mice&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuNDlGUVFuUEhxTzdTdjNMY2tCOXZOWGVJRk1kQWx5ZmpKYXNGUG9TQS1aOFRqNHVPSE1YcWVQa1lzemdnU25LSmpjclR1M0hyWC1hUXBxbmluVkphSVBnX1BRMHl6SWd4VU9fdTl0Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7fb328e6a460",
+      "title": "They Shared a Terminal Diagnosis—Then Demanded Their Son Shell Out $11K Every Month - TwistedSifter",
+      "published": "2026-08-02T03:37:23+00:00",
+      "summary": "They Shared a Terminal Diagnosis—Then Demanded Their Son Shell Out $11K Every Month&nbsp;&nbsp;TwistedSifter",
+      "sources": [
+        {
+          "name": "TwistedSifter",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMGVqb3pmUWVzSWcxQUs0VGY0WnNULXpEWGl4UEF5a0dHeDVYQ0JFZDBNelNyNThjeEN1M3Q0bjlfYVhONWw0RThEQmR6eE1icXloME02VmlsYWFqQ0EtdUtzZ0xJc0lBaGo3RV9LWXFtOG1RUnJVb2Z4VXpyYmtvbDZKVUQ4OTI3ZUFzVkMxVWZwN3Y0OG1uaTNtajZpcDF4ZzBYellSUFRkR2xBZnNCd2xkbFVra1ox?oc=5"
         }
       ]
     },
@@ -21,7 +81,7 @@
       "id": "3fc231d0b961",
       "title": "What is Bourbon Virus? Confirmed case in New York - AL.com",
       "published": "2026-08-01T23:38:00+00:00",
-      "summary": "What is Bourbon Virus? Confirmed case in New York&nbsp;&nbsp;AL.comFirst Case of Bourbon Virus, Which Is Untreatable and Potentially Fatal, Confirmed in New York&nbsp;&nbsp;People.comDoctor says cases of this deadly tick-borne virus may go undetected&nbsp;&nbsp;usatoday.comFirst case of rare, potentially fatal tickborne virus confirmed in New York state&nbsp;&nbsp;FOX WeatherRare, Untreatable Bourbon Virus In New York: Viral Disease With No Vaccine, No Cure Explained&nbsp;&nbsp;NDTV",
+      "summary": "What is Bourbon Virus? Confirmed case in New York&nbsp;&nbsp;AL.comFirst Case of Bourbon Virus, Which Is Untreatable and Potentially Fatal, Confirmed in New York&nbsp;&nbsp;People.comDoctor says cases of this deadly tick-borne virus may go undetected&nbsp;&nbsp;USA TodayFirst case of rare, potentially fatal tickborne virus confirmed in New York state&nbsp;&nbsp;foxweather.comPotentially Fatal Virus Discovered In Suffolk County, No Vaccine Or Treatment&nbsp;&nbsp;DailyVoice.com",
       "sources": [
         {
           "name": "AL.com",
@@ -33,7 +93,7 @@
       "id": "44424766f6b5",
       "title": "The warning signs are over: Australia now faces a devastating bird flu outbreak in wildlife - The Conversation",
       "published": "2026-08-01T22:38:08+00:00",
-      "summary": "The warning signs are over: Australia now faces a devastating bird flu outbreak in wildlife&nbsp;&nbsp;The ConversationFirst Australian mass mortality event suspected as deadly bird flu virus rapidly escalates among native birds&nbsp;&nbsp;The GuardianH5 bird flu testing underway for mass mortality of terns on SA island&nbsp;&nbsp;ABC News & Headlines – Australian Broadcasting Corporation‘Here to stay’: Troubling bird flu warning&nbsp;&nbsp;The AustralianAerial campaign to spot, map H5 bird flu ",
+      "summary": "The warning signs are over: Australia now faces a devastating bird flu outbreak in wildlife&nbsp;&nbsp;The ConversationFirst Australian mass mortality event suspected as deadly bird flu virus rapidly escalates among native birds&nbsp;&nbsp;The GuardianH5 bird flu testing underway for mass mortality of terns on SA island&nbsp;&nbsp;ABC News & Headlines – Australian Broadcasting CorporationDeadly bird flu strain in Australia: Which bird species usually carry avian influenza&nbsp;&nbsp;The Times of",
       "sources": [
         {
           "name": "The Conversation",
@@ -45,7 +105,7 @@
       "id": "1500d5205d73",
       "title": "Unusual metal oxide shows signs of magnetism under lattice strain in ultrathin layers - Phys.org",
       "published": "2026-08-01T18:40:01+00:00",
-      "summary": "Unusual metal oxide shows signs of magnetism under lattice strain in ultrathin layers&nbsp;&nbsp;Phys.orgScientists uncover a new form of magnetism in quantum materials&nbsp;&nbsp;Bioengineer.orgRice researchers discover new way to tune electron flow in altermagnet material&nbsp;&nbsp;news.rice.eduUS scientists reveal hidden magnetism in ultrathin quantum material&nbsp;&nbsp;Interesting EngineeringCould This Rewrite Memory Architecture? Rice University Discovers Unknown Magnetism&nbsp;&nbsp;Xeno",
+      "summary": "Unusual metal oxide shows signs of magnetism under lattice strain in ultrathin layers&nbsp;&nbsp;Phys.orgScientists uncover a new form of magnetism in quantum materials&nbsp;&nbsp;Bioengineer.orgRice researchers discover new way to tune electron flow in altermagnet material&nbsp;&nbsp;Rice UniversityUS scientists reveal hidden magnetism in ultrathin quantum material&nbsp;&nbsp;Interesting EngineeringCould This Rewrite Memory Architecture? Rice University Discovers Unknown Magnetism&nbsp;&nbsp;Xe",
       "sources": [
         {
           "name": "Phys.org",
@@ -69,7 +129,7 @@
       "id": "070a8cf0997c",
       "title": "Flesh-Eating Bacteria Tied to Popular Seafood Leaves 12 Sick, 1 Dead - Yahoo",
       "published": "2026-08-01T17:37:44+00:00",
-      "summary": "Flesh-Eating Bacteria Tied to Popular Seafood Leaves 12 Sick, 1 Dead&nbsp;&nbsp;YahooFirst flesh-eating bacteria death of 2026 recorded in this state&nbsp;&nbsp;usatoday.com‘Flesh-eating’ bacteria infections in Florida: 1 dead, 12 confirmed cases, health officials report&nbsp;&nbsp;WPLG Local 10Palm Beach County records Florida's first 2026 death from 'flesh-eating' bacteria&nbsp;&nbsp;WPECVibrio vulnificus Cases Rise Across Florida&nbsp;&nbsp;EMJ",
+      "summary": "Flesh-Eating Bacteria Tied to Popular Seafood Leaves 12 Sick, 1 Dead&nbsp;&nbsp;Yahoo‘Flesh-eating’ bacteria infections in Florida: 1 dead, 12 confirmed cases, health officials report&nbsp;&nbsp;WPLG Local 10First 'Flesh-Eating Bacteria' Death Of The Year Reported In FL, Data Shows&nbsp;&nbsp;PatchFlorida Vibrio vulnificus cases rise to 12, with 1 death reported&nbsp;&nbsp;Tallahassee DemocratFirst flesh-eating bacteria death of 2026 recorded in this state&nbsp;&nbsp;USA Today",
       "sources": [
         {
           "name": "Yahoo",
@@ -81,7 +141,7 @@
       "id": "d241aa3a7205",
       "title": "Brazil’s HIV advocates say they predicted USAID funding cuts: ‘We would see the trends’ - The Guardian",
       "published": "2026-08-01T16:22:00+00:00",
-      "summary": "Brazil’s HIV advocates say they predicted USAID funding cuts: ‘We would see the trends’&nbsp;&nbsp;The GuardianNew report reveals consequences of Trump administration's HIV/AIDS funding cuts&nbsp;&nbsp;PBSOpinion | Cuts to anti-AIDS foreign aid take a toll in Africa&nbsp;&nbsp;The Washington PostAmid U.S. funding cuts, the International AIDS Conference faces an uncertain future&nbsp;&nbsp;NPRLloyd Mulenga, M.B.Ch.B., Ph.D., on funding cuts and risk to prevention efforts| AIDS 2026&nbsp;&nbsp;Man",
+      "summary": "Brazil’s HIV advocates say they predicted USAID funding cuts: ‘We would see the trends’&nbsp;&nbsp;The GuardianNew report reveals consequences of Trump administration's HIV/AIDS funding cuts&nbsp;&nbsp;pbs.orgOpinion | Cuts to anti-AIDS foreign aid take a toll in Africa&nbsp;&nbsp;The Washington PostAmid U.S. funding cuts, the International AIDS Conference faces an uncertain future&nbsp;&nbsp;NPRLloyd Mulenga, M.B.Ch.B., Ph.D., on funding cuts and risk to prevention efforts| AIDS 2026&nbsp;&nbsp",
       "sources": [
         {
           "name": "The Guardian",
@@ -93,11 +153,23 @@
       "id": "7ed8e103a411",
       "title": "Ebola Bundibugyo strain outbreak worst ever in DR Congo, WHO says - BBC",
       "published": "2026-08-01T16:16:16+00:00",
-      "summary": "Ebola Bundibugyo strain outbreak worst ever in DR Congo, WHO says&nbsp;&nbsp;BBCDR Congo Ebola epidemic becomes world’s second largest outbreak&nbsp;&nbsp;Al JazeeraEbola outbreak in DRC the fastest growing in the history of the virus&nbsp;&nbsp;The GuardianEbola disease caused by Bundibugyo virus - Democratic Republic of the Congo&nbsp;&nbsp;World Health Organization (WHO)Fast-growing Ebola outbreak in DRC surges to second-largest on record&nbsp;&nbsp;CNN",
+      "summary": "Ebola Bundibugyo strain outbreak worst ever in DR Congo, WHO says&nbsp;&nbsp;BBCDR Congo Ebola epidemic becomes world’s second largest outbreak&nbsp;&nbsp;Al JazeeraEbola disease caused by Bundibugyo virus - Democratic Republic of the Congo&nbsp;&nbsp;World Health Organization (WHO)Ebola outbreak in DRC the fastest growing in the history of the virus&nbsp;&nbsp;The GuardianEbola Outbreak in Congo Becomes Country’s Largest on Record&nbsp;&nbsp;bloomberg.com",
       "sources": [
         {
           "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMlRXMTFSYkpLaDdURzA5cnF3V2p3U2hkcVNvejdaMjlhZkszb3NHd3RlTXoxSlk1cDV3dGdaTE1FX2J6TmtrdlRVS0tWQnJ2d0thY21UdXV3UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c646a9b2270f",
+      "title": "Baby has fat thighs and jelly belly? Dad’s diet may be to blame - New York Post",
+      "published": "2026-08-01T16:10:00+00:00",
+      "summary": "Baby has fat thighs and jelly belly? Dad’s diet may be to blame&nbsp;&nbsp;New York PostFather's diet before conception impacts baby's body composition&nbsp;&nbsp;News-MedicalWhat Dad Eats Before Conception May Influence Baby's Health&nbsp;&nbsp;U.S. News & World ReportMedical Bulletin 30/July/2026&nbsp;&nbsp;Medical DialoguesFathers who eat more processed foods may influence their baby's weight&nbsp;&nbsp;Earth.com",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWkRaa3hGZXdhTllOTmZyVzdUNEVHVENNeGpIazFELVoybHQxUk4wdG90d0Z1c19sbzNhRm52M2VJN25uQWlYbU4zZWFOcGEtVGthUTlPYXZwcWRKQzF3T2RTbFhTb3NTV1FPZFRacm5vUWtxLUpIbzliMGx4bTVCcDlkbFJHOFNCUXdmbzBOc0otOHNzWFlLLU1rZEJZVC1S?oc=5"
         }
       ]
     },
@@ -117,23 +189,11 @@
       "id": "1a983d5f3bea",
       "title": "Neurologists Warn This Everyday Noise Could Be Aging Your Brain - EatingWell",
       "published": "2026-08-01T14:00:00+00:00",
-      "summary": "Neurologists Warn This Everyday Noise Could Be Aging Your Brain&nbsp;&nbsp;EatingWellThe Guardian view on noise pollution: keep it down | Editorial&nbsp;&nbsp;The GuardianLiving near heavy traffic may raise Parkinson's disease risk&nbsp;&nbsp;qazinform.comWhat Your Home Faces Could Raise Your Parkinson’s Risk, Major Study Warns&nbsp;&nbsp;NewsweekCan traffic noise increase the risk of Parkinson's?&nbsp;&nbsp;Firstpost",
+      "summary": "Neurologists Warn This Everyday Noise Could Be Aging Your Brain&nbsp;&nbsp;EatingWell",
       "sources": [
         {
           "name": "EatingWell",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYVN3ZlNOLTA1cUdmWDZua2t1WmszZU5JWU5xVERCdmJ6dm1tdFNNLVJzNXU2VFl0Y2l4cW00N05XbEM4THo0aEtnX3JxUmhRYy0xRVROUURzOHNqRUtDVnZfRzlmS3RIZXI1ODZhUktmdXZhTzQxdGtJX2NjbnJ5N0V3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "14867abaca68",
-      "title": "Dinosaur-killing asteroid may have caused firestorms 17 times hotter than the thermal limit lethal to humans - space.com",
-      "published": "2026-08-01T14:00:00+00:00",
-      "summary": "Dinosaur-killing asteroid may have caused firestorms 17 times hotter than the thermal limit lethal to humans&nbsp;&nbsp;space.comThe Dino-Killing Asteroid Strike May Have Transformed Our Planet Into a Hellish Inferno, Charbroiling Most Creatures Within Hours&nbsp;&nbsp;Smithsonian MagazineDinosaurs died out within hours, new study suggests&nbsp;&nbsp;Popular ScienceDinosaur-Killing Asteroid Didn’t Just Strike Earth, Its Dust Cloud Cooked It&nbsp;&nbsp;Sci.NewsHeat and Smoke Impact Local Produce ",
-      "sources": [
-        {
-          "name": "space.com",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWEQxeU1CbVNzekFGT1RkeV9lNUZ4RzVHajF4WFV5bVdDQXh0cHBJLXNnc1pzWmlPUnBPaVZDX20tR1NJUFJ5SThxMzREb255Q1NEZndRVUk3SkZHSjlXVkhYWFQxclNNSEtZVF9QaVJENEZtY2lSWWtseWtWalVKdF9idDdYN3I5REU1Z0VTb0FudFR6eDhlQ0F3SFpqOU9rUkhGNHphbGtRbmpkTG9CS1FTV3U2SmdWeDNuYUVBcVhYM3MxVlQ4a3VCbWtrRm5DTUZKVEhjV1ROR2gza3AxVWNqbXM?oc=5"
         }
       ]
     },
@@ -189,7 +249,7 @@
       "id": "aa5ca5ec8028",
       "title": "Health officials urge mosquito precautions after dengue case confirmed in Miami-Dade County - WPLG Local 10",
       "published": "2026-08-01T11:46:26+00:00",
-      "summary": "Health officials urge mosquito precautions after dengue case confirmed in Miami-Dade County&nbsp;&nbsp;WPLG Local 10Health officials confirm case of dengue fever in Miami-Dade&nbsp;&nbsp;wsvn.comMosquito bite results in confirmed case of dengue fever in Hillsborough County&nbsp;&nbsp;WFLAFlorida reports 5 additional dengue cases in past week&nbsp;&nbsp;Outbreak News TodayDOH-Hillsborough Issues Mosquito-Borne Illness Alert&nbsp;&nbsp;Florida Department of Health in Hillsborough County (.gov)",
+      "summary": "Health officials urge mosquito precautions after dengue case confirmed in Miami-Dade County&nbsp;&nbsp;WPLG Local 10Health officials confirm case of dengue fever in Miami-Dade&nbsp;&nbsp;WSVNHillsborough County reports case of mosquito-borne dengue&nbsp;&nbsp;Tampa Bay TimesFlorida: 1st locally acquired dengue fever case of the year reported in Hillsborough County&nbsp;&nbsp;outbreaknewstoday.substack.comAerial mosquito spraying planned in South Tampa&nbsp;&nbsp;wtsp.com",
       "sources": [
         {
           "name": "WPLG Local 10",
@@ -222,25 +282,13 @@
       ]
     },
     {
-      "id": "08dbb0f6e412",
-      "title": "The Strange Origin of The Human Eye May Trace Back to a 600-Million-Year-Old 'Cyclops' - ScienceAlert",
-      "published": "2026-08-01T10:03:42+00:00",
-      "summary": "The Strange Origin of The Human Eye May Trace Back to a 600-Million-Year-Old 'Cyclops'&nbsp;&nbsp;ScienceAlertOrigin of Human Eyes Traced to 560-Million-Year-Old One-Eyed ‘Cyclops’&nbsp;&nbsp;ZME ScienceHumans have a 'third eye' in the brain: Study links it to a 600-million-year-old Cyclops ancestor&nbsp;&nbsp;The Economic TimesScientists trace origin of human eyes to ancient ‍‍`Cyclops-like‍‍` ancestor&nbsp;&nbsp;thereport.liveMind-Blowing Twist: Shocking Study Claims Human Eyes May Have Origin",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON3ZsWW9ncHh5M2dtVmMtc1VKZk84TU1DTThoUGpVZVZNWWtCY0VTeG9aSkVNTllZRElwT1Eyb3VqSXd5SEU4dDQyb1FfUzMzeklxaXJCNjRSd25pSGloY1hiWS1PNWc0MS1RdXFWZDU3XzlDS0h2ZnJkazRCdlE0XzNSVGstUk9IeFdsT0VpQ2Q3MGtEZlRuNUdKQ3hrX3VlbDlqZDY3TG9PNlltNHY4WmVyWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9e0d2b82f8c5",
-      "title": "The Legionnaires’ outbreak in Philly 50 years ago led to months of mystery — and gave the disease its name - Inquirer.com",
+      "id": "708b8e7b0801",
+      "title": "The Legionnaires’ outbreak in Philly 50 years ago led to months of mystery — and gave the disease its name - inquirer.com",
       "published": "2026-08-01T10:01:00+00:00",
-      "summary": "The Legionnaires’ outbreak in Philly 50 years ago led to months of mystery — and gave the disease its name&nbsp;&nbsp;Inquirer.com",
+      "summary": "The Legionnaires’ outbreak in Philly 50 years ago led to months of mystery — and gave the disease its name&nbsp;&nbsp;inquirer.com",
       "sources": [
         {
-          "name": "Inquirer.com",
+          "name": "inquirer.com",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZHdxekl0N2YyUkNwR1Z3TzZoM3BpR182dHgwRVppNXVyU3hndEtra1ZTUTFvZkFDd1QxSnRzRkREemhNcDVjYkVMSGpoa1dGX1dpSUtaZ0hJRERQbnRkUmY5ZXFlMWdObG50WU9qOE5BSkFBMVdZejRIVUNiTG9PX3NELWduYWtLb2lkVHZpQ2FoQjBsWkE?oc=5"
         }
       ]
@@ -249,7 +297,7 @@
       "id": "8a4dd4d8b5dc",
       "title": "Health Department confirms 4th case of cyclosporiasis in Hawaii - Honolulu Star-Advertiser",
       "published": "2026-08-01T09:11:27+00:00",
-      "summary": "Health Department confirms 4th case of cyclosporiasis in Hawaii&nbsp;&nbsp;Honolulu Star-AdvertiserFourth case of the intestinal illness cyclosporiasis confirmed in Hawaiʻi&nbsp;&nbsp;Big Island NowFourth case of cyclosporiasis confirmed in Hawaiʻi: DOH&nbsp;&nbsp;KHON2Here's what Hawaiʻi residents need to know about cyclosporiasis&nbsp;&nbsp;Hawaii Public RadioDOH confirms 4th travel-related cyclosporiasis case in Hawaii residents&nbsp;&nbsp;KITV",
+      "summary": "Health Department confirms 4th case of cyclosporiasis in Hawaii&nbsp;&nbsp;Honolulu Star-AdvertiserFourth case of the intestinal illness cyclosporiasis confirmed in Hawaiʻi&nbsp;&nbsp;Big Island NowFourth case of cyclosporiasis confirmed in Hawaiʻi: DOH&nbsp;&nbsp;KHON2Here's what Hawaiʻi residents need to know about cyclosporiasis&nbsp;&nbsp;Hawaii Public RadioDOH confirms 4th travel-related cyclosporiasis case in Hawaii residents&nbsp;&nbsp;kitv.com",
       "sources": [
         {
           "name": "Honolulu Star-Advertiser",
@@ -270,13 +318,13 @@
       ]
     },
     {
-      "id": "e1bbbe70c3da",
-      "title": "Saturn's moon Titan has rivers of liquid methane longer than the Nile's tributaries, but a 2025 Brown University study found that only 1.3% of those rivers form deltas — on Earth, nearly every river does, and nobody yet knows why Titan's don't - Space Daily",
+      "id": "f040db2ae62b",
+      "title": "Saturn's moon Titan has rivers of liquid methane longer than the Nile's tributaries, but a 2025 Brown University study found that only 1.3% of those rivers form deltas — on Earth, nearly every river does, and nobody yet knows why Titan's don't - spacedaily.com",
       "published": "2026-08-01T04:30:25+00:00",
-      "summary": "Saturn's moon Titan has rivers of liquid methane longer than the Nile's tributaries, but a 2025 Brown University study found that only 1.3% of those rivers form deltas — on Earth, nearly every river does, and nobody yet knows why Titan's don't&nbsp;&nbsp;Space DailyTitan experiences clouds, rain, rivers and changing seasons like Earth; Saturn’s 29-year journey around the Sun makes each season last more than seven Earth years&nbsp;&nbsp;The Times of IndiaAPOD: 2005 January 14 - Descent to Titan&n",
+      "summary": "Saturn's moon Titan has rivers of liquid methane longer than the Nile's tributaries, but a 2025 Brown University study found that only 1.3% of those rivers form deltas — on Earth, nearly every river does, and nobody yet knows why Titan's don't&nbsp;&nbsp;spacedaily.comTitan experiences clouds, rain, rivers and changing seasons like Earth; Saturn’s 29-year journey around the Sun makes each season last more than seven Earth years&nbsp;&nbsp;The Times of IndiaAPOD: 2005 January 14 - Descent to Tita",
       "sources": [
         {
-          "name": "Space Daily",
+          "name": "spacedaily.com",
           "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNNnJJQy1FYVF3ZmxsUUdpRUwwSmJHWGJBRnkxN3FTdlQ2aV9GSGM4cFlfQWxOem9GTVZJcmNXTFlra2puNjJIMWljb0hkYmNkRVp5SVYydlFidnVyVWJ3LVJxc3ZwUm43OV94M3BJRGxkVWQ1REYtcTI0OC03Y2FsWXNybG1raFdyeG54LUZfVmRseGFVMnRuZ29WdlhxVmZ5SnBpdXZsejFxSC1ma21UYUxVN1FRVW9lOWh6bHNVUTZTWGI3aDRwM0xsb2ZReWNjMHdObVNESE5QQXFaQ3BYYjgzYmNqbVp3amVDcjUzLTRDSEtKSVpHZEdJMHRKTU5Jd2otNlJMdWFNZlVCVkhqcWZNQWd0YWh4aUZ6ZVVVY3gwM2hwbmtIR0U5YjJBWC1tUmc?oc=5"
         }
       ]
@@ -297,7 +345,7 @@
       "id": "2dac68491a83",
       "title": "West Nile virus reported in Maryland - WUSA9",
       "published": "2026-08-01T02:48:00+00:00",
-      "summary": "West Nile virus reported in Maryland&nbsp;&nbsp;WUSA9Maryland confirms first human case of West Nile virus in 2026&nbsp;&nbsp;The Baltimore BannerMDH confirms first Maryland West Nile virus case of 2026&nbsp;&nbsp;WBFFMD Confirms 1st Human Case Of West Nile Virus Of 2026&nbsp;&nbsp;PatchMaryland reports first West Nile case of 2026&nbsp;&nbsp;WBAL-TV",
+      "summary": "West Nile virus reported in Maryland&nbsp;&nbsp;WUSA9Maryland confirms first human case of West Nile virus in 2026&nbsp;&nbsp;The Baltimore BannerMDH confirms first Maryland West Nile virus case of 2026&nbsp;&nbsp;WJLAMD Confirms 1st Human Case Of West Nile Virus Of 2026&nbsp;&nbsp;PatchMaryland reports first West Nile case of 2026&nbsp;&nbsp;WBAL-TV",
       "sources": [
         {
           "name": "WUSA9",
@@ -321,7 +369,7 @@
       "id": "2256758206d8",
       "title": "The Sun Contains More Silver Than Previously Estimated - ScienceAlert",
       "published": "2026-08-01T02:03:41+00:00",
-      "summary": "The Sun Contains More Silver Than Previously Estimated&nbsp;&nbsp;ScienceAlert☀️ The Sun contains 55% more silver than previously thought&nbsp;&nbsp;Techno-ScienceScientists find more silver in the sun. It gives a clue about cosmic events&nbsp;&nbsp;ThePrintWhy Does The Sun Contain 55% More Silver Than Scientists Thought?&nbsp;&nbsp;scienceabc.comStudy Reveals The Sun Contains More Silver Than Scientists Previously Thought&nbsp;&nbsp;NDTV",
+      "summary": "The Sun Contains More Silver Than Previously Estimated&nbsp;&nbsp;ScienceAlertScientists find more silver in the sun. It gives a clue about cosmic events&nbsp;&nbsp;ThePrintWhy Does The Sun Contain 55% More Silver Than Scientists Thought?&nbsp;&nbsp;ScienceABC☀️ The Sun contains 55% more silver than previously thought&nbsp;&nbsp;Techno-ScienceStudy Reveals The Sun Contains More Silver Than Scientists Previously Thought&nbsp;&nbsp;NDTV",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -345,7 +393,7 @@
       "id": "176c31a45912",
       "title": "Can a GLP-1 treat alcohol disorder? Veterans Affairs starts a study to find out. - The Washington Post",
       "published": "2026-08-01T01:32:46+00:00",
-      "summary": "Can a GLP-1 treat alcohol disorder? Veterans Affairs starts a study to find out.&nbsp;&nbsp;The Washington PostVeterans to test GLP-1 drugs as alcohol addiction treatment&nbsp;&nbsp;KTLAVA launches trial to test GLP-1 medication for alcohol use disorder in veterans&nbsp;&nbsp;Military TimesThe Drug Behind Ozempic And Wegovy Pills May Also Treat Alcohol Use Disorder, New Trial Finds&nbsp;&nbsp;ForbesVA announces launch of GLP-1 treatment to help veterans struggling with alcohol&nbsp;&nbsp;KATU",
+      "summary": "Can a GLP-1 treat alcohol disorder? Veterans Affairs starts a study to find out.&nbsp;&nbsp;The Washington PostVA announces launch of GLP-1 treatment to help veterans struggling with alcohol&nbsp;&nbsp;KATUVA launches trial to test GLP-1 medication for alcohol use disorder in veterans&nbsp;&nbsp;Military TimesVeterans to test GLP-1 drugs as alcohol addiction treatment&nbsp;&nbsp;KTLAThe Drug Behind Ozempic And Wegovy Pills May Also Treat Alcohol Use Disorder, New Trial Finds&nbsp;&nbsp;Forbes",
       "sources": [
         {
           "name": "The Washington Post",
@@ -381,11 +429,23 @@
       "id": "13f25a3fda28",
       "title": "Florida leprosy cases were at their recorded highest in 2025, state data shows - WFLA",
       "published": "2026-07-31T22:53:04+00:00",
-      "summary": "Florida leprosy cases were at their recorded highest in 2025, state data shows&nbsp;&nbsp;WFLAA 4,000-year-old disease is on the rise in this state thanks to armadillos&nbsp;&nbsp;usatoday.comArmadillos likely behind Florida’s increasing leprosy cases, but doctors say don't worry&nbsp;&nbsp;WUSFA 4,000-year-old disease is on the rise in Florida. Scientists say armadillos may be to blame&nbsp;&nbsp;WBAL-TVFlorida Is Seeing a Leprosy Surge, and Scientists Think These Creatures Are to Blame&nbsp;&n",
+      "summary": "Florida leprosy cases were at their recorded highest in 2025, state data shows&nbsp;&nbsp;WFLAA 4,000-year-old disease is on the rise in this state thanks to armadillos&nbsp;&nbsp;USA TodayArmadillos likely behind Florida’s increasing leprosy cases, but doctors say don't worry&nbsp;&nbsp;WUSFA 4,000-year-old disease is on the rise in Florida. Scientists say armadillos may be to blame&nbsp;&nbsp;WDSUFlorida Is Seeing a Leprosy Surge, and Scientists Think These Creatures Are to Blame&nbsp;&nbsp;Pe",
       "sources": [
         {
           "name": "WFLA",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd0ZyYmxIbGxkN3Q5VnoyaDRhOS1HTUhBaVB1aXJFaW80Z1FxSFBfQnljaExONWxQamRqSE9DUDhVNU5oelRxcWlmdnJMMEUyeHRKOWRUVjZlbHZTMlk1X1NOa2Z3Mzc3TVFIQmlHUk5sN2JqMUpra0dGVHhaR0hVOWlaMUdEa0p3UmExdDFMSXZoZ0RNQUZ2LUd1VU9pR0ZtaWc3NnBOMUlQZDNCTVZFLWVn0gG3AUFVX3lxTFBIY2szNFRBOEp3VVdETzdCTTdodnJTSDN2aDVHZXhPcm00ZW1XTW1ObXYyX2NiNFpfTzZ5V2F5RThJNWtMSk40SkZXYmluazlWRndBTmsxMEJHajNJT3BKMGhEbTl4RlF3MFV3Z1lNc2xscGRERVh4ejhvc24yVXZwSlF4amhfeGNtNVBWU0hfYUI1LVI4dUs0WGFPdmp6czBxREtBTFhoTGdpT2VYU2EtVmtGYWJRUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a918933a8f8d",
+      "title": "The avocado's sex life has run on the same schedule for 42 million years - boingboing.net",
+      "published": "2026-07-31T22:46:55+00:00",
+      "summary": "The avocado's sex life has run on the same schedule for 42 million years&nbsp;&nbsp;boingboing.netGroundbreaking discovery could remake California's avocado breeding&nbsp;&nbsp;SFGATEStudy Reveals How Avocados Reverse Sexes Throughout the Day&nbsp;&nbsp;ucdavis.eduCalifornia scientists find avocado gene that reveals flower type years before trees bloom&nbsp;&nbsp;YahooJeffrey Groh in greenhouse (IMAGE)&nbsp;&nbsp;EurekAlert!",
+      "sources": [
+        {
+          "name": "boingboing.net",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UYUJkMTVpZ0JDX05aTG1TZEM4cTRxZ2VqZnB6VDdoMTFTOExyRGdGcDN6OUtCRzVPMUdEWDRENVlZWnd0WnRmclRXSGJsN2QxYVU4enJHbUNfVVYtTVJfUkNPbEJ6eWZ0aVVONEtXRGhfeF9aam5ZY1pCTdIBgAFBVV95cUxPSjE3bkxGaDVrX2pHUFN4VzROX2tGTTBFRzBFaUU0Wm5qM2djOGl1eFV5TDNoRWY4NjdjUlJoS1ZoYUVZYzNNbG40M2w4WlV0UHF2WkRpU3JmSEtZdVFTRlFONzlEWlZwZWY0YTF1STlCRzY5TGR0cXl6Rm5IdFZ2bw?oc=5"
         }
       ]
     },
@@ -405,7 +465,7 @@
       "id": "014e1720974d",
       "title": "First human case of West Nile Virus confirmed in Cache County - Cache Valley Daily",
       "published": "2026-07-31T21:57:00+00:00",
-      "summary": "First human case of West Nile Virus confirmed in Cache County&nbsp;&nbsp;Cache Valley DailyWeather plays part in West Nile virus cases exploding in Utah mosquitoes&nbsp;&nbsp;FOX 13 News UtahSalt Lake County reports first West Nile virus case of 2026&nbsp;&nbsp;KSL.comUtah Mosquito Samples Testing Positive for West Nile Have Jumped From 39 to 296 in a Single Season&nbsp;&nbsp;medicaldaily.comWest Nile Virus confirmed in Logan&nbsp;&nbsp;The Herald Journal",
+      "summary": "First human case of West Nile Virus confirmed in Cache County&nbsp;&nbsp;Cache Valley DailyWeather plays part in West Nile virus cases exploding in Utah mosquitoes&nbsp;&nbsp;FOX 13 News UtahSalt Lake County reports first West Nile virus case of 2026&nbsp;&nbsp;KSL NewsUtah Mosquito Samples Testing Positive for West Nile Have Jumped From 39 to 296 in a Single Season&nbsp;&nbsp;Medical DailyWest Nile Virus confirmed in Logan&nbsp;&nbsp;The Herald Journal",
       "sources": [
         {
           "name": "Cache Valley Daily",
@@ -438,13 +498,13 @@
       ]
     },
     {
-      "id": "4f15ea70fea6",
-      "title": "The HIV shot that could change medicine is facing its biggest test: Getting to patients - businessinsider.com",
+      "id": "ba32dbeea77e",
+      "title": "The HIV shot that could change medicine is facing its biggest test: Getting to patients - Business Insider",
       "published": "2026-07-31T20:43:00+00:00",
-      "summary": "The HIV shot that could change medicine is facing its biggest test: Getting to patients&nbsp;&nbsp;businessinsider.comHIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts&nbsp;&nbsp;The GuardianCountries in Latin America and the Caribbean helped build the future of HIV prevention. But will they be able to benefit from it?&nbsp;&nbsp;UnitaidA Rocky Rollout&nbsp;&nbsp;Pulitzer CenterLong-Acting Lenacapavir Still Delivered Effective HIV PrEP After a Year&nbsp;&",
+      "summary": "The HIV shot that could change medicine is facing its biggest test: Getting to patients&nbsp;&nbsp;Business InsiderHIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts&nbsp;&nbsp;The GuardianCountries in Latin America and the Caribbean helped build the future of HIV prevention. But will they be able to benefit from it?&nbsp;&nbsp;UnitaidA Rocky Rollout&nbsp;&nbsp;Pulitzer Center[AIDS 2026] MedPage Today: Long-acting lenacapavir still delivered effective HIV ",
       "sources": [
         {
-          "name": "businessinsider.com",
+          "name": "Business Insider",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbXFRN2V6Q1F1TEdtdzZfX19jYm9xdl9IdlJvZ2RhM2J1UU5wdDFwV2Y2TVI2cFBUSEJzY2p3UHhBNkctX2d1T3pOa2VoSmZoa2tyNFloNEdlTWpyVjhPMzVBUDBfa3UwX0hTNFBxby1fNVY5Z2h4NW9wa2x0NzJVOU95UHFKSFRKN0toSFJsd0ZsNi0wWENfeUlzSXItaEk?oc=5"
         }
       ]
@@ -462,38 +522,50 @@
       ]
     },
     {
-      "id": "b79c27056315",
-      "title": "Many People Eat Too Much Protein, Researcher Warns—Here’s Why It Could Age You - Forbes",
-      "published": "2026-07-31T20:08:46+00:00",
-      "summary": "Many People Eat Too Much Protein, Researcher Warns—Here’s Why It Could Age You&nbsp;&nbsp;ForbesConsuming less protein could have greater health benefits and extend lifespan&nbsp;&nbsp;News-MedicalStudy suggests eating less protein could be key to healthy aging for most adults&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosCould eating less protein slow ageing?&nbsp;&nbsp;New ScientistLifelong restriction of dietary valine has sex-specific benefits for health and lifespan in mice&nbs",
+      "id": "88fc96b83481",
+      "title": "The 7 biggest health issues men are ignoring — including ‘one of the biggest threats’ - New York Post",
+      "published": "2026-07-31T20:22:00+00:00",
+      "summary": "The 7 biggest health issues men are ignoring — including ‘one of the biggest threats’&nbsp;&nbsp;New York Post",
       "sources": [
         {
-          "name": "Forbes",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSkFUcjJETFlZZ2RuenViUUY4UWFRVVF1TGtqZTBYZklxVV9EdU1MZDhRbDdUR0JVSUdXZkkxeVRnRjdHNU82S1d6QVNrQ2tBaDNaY0pybVZ3cDZVYmJyOXhVclZ1WGdWMzVHNEh5cnVXa09XZVljX3NqYjVUaGI3SXk1bDR5Z1hYTEYwMFJBWXpOSkJ1NzNOZ0JoTTVoanpsSGlwcHhLS1VMVkhWaFBCZFRfUVc4OGdrWjF6UFR5NVVXZw?oc=5"
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVWc0LVRFbHAxQ2JMQnB3cFZ4UFk4WnVIQmYzeHAzVEJlbWFrbEtwcnExS3JQaEZCN2FpTmN4VG9mUnVDMC1icGZRZV9QYXZTWEZBZkpwZ1MydnltOEdIT09LaVZ5UjZzMXI0TUZUcGRWRW1OejdDZGRrT2t5R2VHLTlkMEo1d2F1Umc?oc=5"
         }
       ]
     },
     {
-      "id": "25333a06d2f2",
-      "title": "The Risk of False-Negatives: Is Elon Musk the Most Accomplished Space Entrepreneur Since the Big… - Avi Loeb – Medium",
+      "id": "f5908bd5526e",
+      "title": "The Risk of False-Negatives: Is Elon Musk the Most Accomplished Space Entrepreneur Since the Big… - avi-loeb.medium.com",
       "published": "2026-07-31T19:59:16+00:00",
-      "summary": "The Risk of False-Negatives: Is Elon Musk the Most Accomplished Space Entrepreneur Since the Big…&nbsp;&nbsp;Avi Loeb – Medium",
+      "summary": "The Risk of False-Negatives: Is Elon Musk the Most Accomplished Space Entrepreneur Since the Big…&nbsp;&nbsp;avi-loeb.medium.com",
       "sources": [
         {
-          "name": "Avi Loeb – Medium",
+          "name": "avi-loeb.medium.com",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaV9uTXV3a1NGWjFxSDROSGZVYUVvdTUzTnh2N2FQOUIzcEh4ZzlaVmw1UkpfOGpXSUd3VUFRNUhNanVDVTg2bjduRy1sMzlOT1BwX0lVY0NtNjBSQmllNnNLN0V3b1lWd1JIc1ptaUR3eGQ4bVZTS1EyTDdFbGh4a2pVU2l5VVc4b0xNVXFPV0x0N0FRdzNyU09qX1RiLWpvSkpVT2hubU92LWZGNUtkUFlJbE81dDJTakROSmJKa3BBRHg0Vks4NkxtQkotRWMyZnc?oc=5"
         }
       ]
     },
     {
-      "id": "7e4dfc352781",
-      "title": "Vile flea-borne vomiting illness hits LA neighborhood as urgent warning issued - Yahoo",
-      "published": "2026-07-31T19:26:40+00:00",
-      "summary": "Vile flea-borne vomiting illness hits LA neighborhood as urgent warning issued&nbsp;&nbsp;YahooLA County health officials issue warning due to flea-borne typhus outbreak in Pico-Union&nbsp;&nbsp;CBS NewsTyphus Cases Reach All-Time High As New Outbreak Sickens 5 In LA County&nbsp;&nbsp;PatchFlea-borne typhus outbreak in Pico-Union prompts warning from LA County health officials&nbsp;&nbsp;ABC7 Los AngelesHealth officials warn residents after flea-borne typhus outbreak in Pico-Union&nbsp;&nbsp;NBC",
+      "id": "4b3d4bca055d",
+      "title": "Mamdani admin blasted for tone-deaf victory lap over deadly Legionnaire’s outbreak: ‘We’re just left to die’ - New York Post",
+      "published": "2026-07-31T19:29:00+00:00",
+      "summary": "Mamdani admin blasted for tone-deaf victory lap over deadly Legionnaire’s outbreak: ‘We’re just left to die’&nbsp;&nbsp;New York PostLegionnaires’ Disease Has Made a Home in New York City. Here’s How.&nbsp;&nbsp;The New York Times7th death confirmed in Manhattan Legionnaires' outbreak, matching total from 2025 outbreak&nbsp;&nbsp;NBC New YorkNYC Legionnaires' outbreak: New York City health department says UES cluster exposure has ended&nbsp;&nbsp;ABC7 New YorkNew York City Legionnaires’ disease ",
       "sources": [
         {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdzF0NGh3STdZTVBJdTdOamtwUnNJWHZVeEF4RlhOWWZsRjduN1NWUmtocTlKcDRfQi11YW1uTTZ0NEY5ZldESm9iWGNVdG1HZHdwU19keDgyNDh5bGhUSXUyeFBESC1tNHFGTlgzdmwtVmNjNmhnQ2hfOVRjWTVBeDBra3pvSkd3cERLMGJBcw?oc=5"
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORk9qXzAxR0xJeDZYTzJiM0JXaF9SZkNBUGZiS1R2d3B5bGo3M1VkcHhtcHRPeDlfVm44a1RDVy1DbTl4STlEWGRTcVl5ZFJGcjhobm0wVENmckh6eVJVXzk1Y2s3Szc4RTJvdHYySXdJc25oQlhmMm0wekVwTkxSWkFLMzR6d3YzZEFfWHQxSHNtRHJlbzVCaU5DaGFTMHNCMFhQclBNRnBCOU16TzdV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f37ba2da4aed",
+      "title": "Vile flea-borne vomiting illness hits LA neighborhood as urgent warning issued - New York Post",
+      "published": "2026-07-31T19:26:00+00:00",
+      "summary": "Vile flea-borne vomiting illness hits LA neighborhood as urgent warning issued&nbsp;&nbsp;New York PostLA County health officials issue warning due to flea-borne typhus outbreak in Pico-Union&nbsp;&nbsp;CBS NewsTyphus Cases Reach All-Time High As New Outbreak Sickens 5 In LA County&nbsp;&nbsp;PatchFlea-borne typhus outbreak in Pico-Union prompts warning from LA County health officials&nbsp;&nbsp;ABC7 Los AngelesHealth officials warn residents after flea-borne typhus outbreak in Pico-Union&nbsp;&",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV21nNHdRVUtEbXJPRW82aXYyQXNRSEN2czZBYUNYWUNoYTFaVHJaV2g2MEt5WHNZVWZ6RVhJdUFEOGNSbjdIRFdWNFR3WVNBajRVSHllTXB5THpmU0dHZHEwRjZRSGxyZlg1cW5CTnloMmNuaU5NOTBiOHJsVVRZVGZ4Q3dRYXZ2dnFicUNkQWM3ME81T2pnWWpCTkFRNDVSUlRMMDlub3R5cmN3MVNRcA?oc=5"
         }
       ]
     },
@@ -501,7 +573,7 @@
       "id": "e28c50d3fea8",
       "title": "Solar Storms Create a Risk for Mars Exploration Scientists Hadn’t Expected - Gizmodo",
       "published": "2026-07-31T19:10:44+00:00",
-      "summary": "Solar Storms Create a Risk for Mars Exploration Scientists Hadn’t Expected&nbsp;&nbsp;GizmodoMars' Double Storm Problem&nbsp;&nbsp;universetoday.com",
+      "summary": "Solar Storms Create a Risk for Mars Exploration Scientists Hadn’t Expected&nbsp;&nbsp;GizmodoMars' Double Storm Problem&nbsp;&nbsp;Universe Today",
       "sources": [
         {
           "name": "Gizmodo",
@@ -537,7 +609,7 @@
       "id": "fbb396ec3111",
       "title": "Your heart may be asking for help long before chest pain: 8 subtle signs cardiologists say you shouldn't - The Times of India",
       "published": "2026-07-31T17:30:00+00:00",
-      "summary": "Your heart may be asking for help long before chest pain: 8 subtle signs cardiologists say you shouldn't&nbsp;&nbsp;The Times of IndiaWhen the heart can't keep ip: What to know about heart failure&nbsp;&nbsp;IslanderNews.comVCU Health: Know the Signs of Heart Failure&nbsp;&nbsp;WTVR.comHeart problems don’t always come with a warning&nbsp;&nbsp;KARKKnow the warning signs of cardiovascular disease&nbsp;&nbsp;Fox 59",
+      "summary": "Your heart may be asking for help long before chest pain: 8 subtle signs cardiologists say you shouldn't&nbsp;&nbsp;The Times of IndiaWhen the heart can't keep ip: What to know about heart failure&nbsp;&nbsp;islandernews.comVCU Health: Know the Signs of Heart Failure&nbsp;&nbsp;WTVR.comHeart problems don’t always come with a warning&nbsp;&nbsp;kark.comKnow the warning signs of cardiovascular disease&nbsp;&nbsp;Fox 59",
       "sources": [
         {
           "name": "The Times of India",
@@ -558,14 +630,14 @@
       ]
     },
     {
-      "id": "edfd3840f910",
-      "title": "Legionnaires’ Outbreak on Upper East Side Is Over, N.Y.C. Officials Say - The New York Times",
-      "published": "2026-07-31T16:56:05+00:00",
-      "summary": "Legionnaires’ Outbreak on Upper East Side Is Over, N.Y.C. Officials Say&nbsp;&nbsp;The New York TimesNYC Legionnaires' outbreak: New York City health department says UES cluster exposure has ended&nbsp;&nbsp;ABC7 New York7th death confirmed in Manhattan Legionnaires' outbreak, matching total from 2025 outbreak&nbsp;&nbsp;NBC New YorkNew York City Legionnaires’ disease outbreak linked to 7 deaths is declared over&nbsp;&nbsp;CNNNYC says UES Legionnaires’ outbreak is over, after recording 7th death",
+      "id": "944f3260374f",
+      "title": "Hobbies can improve your health – here are four tips for choosing one - The Guardian",
+      "published": "2026-07-31T16:01:00+00:00",
+      "summary": "Hobbies can improve your health – here are four tips for choosing one&nbsp;&nbsp;The Guardian",
       "sources": [
         {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ0F1NVVJeGRpTXZkeEhDZHZRb2tVeHdYMk5TQjcwZDlBT2FZckNCR2lOUGYwTF9TdkFhQmpYOXlQMkZZT1lQVFpaQ1ZsTG5GbDY1WmY2aVFCeFJQa3lfaHE0aUdzOUdkMWNnZ2Flcmk1N1hCMVp4MnN0STVNcE5fYjlmajFoQQ?oc=5"
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRHdUeXJZdTJCU3pOTm14QkxOUzF1b014ejNjZ0p1eGxXZUJLNWhDNmQ0aG5LN0EwMFdaLUdLcXZRTnc0blROcGNUenFkTzVSa0pzZjlpZ2ZQX094VTFWUW02TDhSTk5oUWxKc21TM1dzams1c2l3TDdYbTdOWW5lU0p5Ui00QWc?oc=5"
         }
       ]
     },
@@ -582,18 +654,6 @@
       ]
     },
     {
-      "id": "791e8016a909",
-      "title": "Nonmotor Symptoms of Parkinson’s Disease - Medscape",
-      "published": "2026-07-31T15:46:39+00:00",
-      "summary": "Nonmotor Symptoms of Parkinson’s Disease&nbsp;&nbsp;Medscape",
-      "sources": [
-        {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNzc2M25zNzNybGltLWxzYzVZcGU1bGo2R1hEdnZlYWRpZ0k3cEFQcVRpbmtKZDdDaUVqYkF5ZWtLMzN2dXM4Mmd4cHpvakFLRzN6YnNBajlZc1lnYVpvU3E0LV9KQmFKRGowVXhTYTFYYWZVMjFfRnlzWThCZE96d0EwNTBRb19zb0Zya1BDUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6cd362d2605b",
       "title": "Northshore teen is raising awareness after her battle with mold-related illness - WDSU",
       "published": "2026-07-31T15:26:00+00:00",
@@ -606,38 +666,26 @@
       ]
     },
     {
-      "id": "06cfda5db9fc",
-      "title": "Why some women in menopause are taking testosterone to manage symptoms - Yahoo",
-      "published": "2026-07-31T15:13:56+00:00",
-      "summary": "Why some women in menopause are taking testosterone to manage symptoms&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa21oeFBETkw2ajNYaWM1dWJ2NXdFRExCbmdLOVRETWpSMWtyNTY4OTYyWjFtdm5oSTBfakVCVlNnQjZlMjU4aWZ3QVVXM1NEUlFwWGJENHJON2s2MExjQ2JBMzBGUHY2TFZ5cnJqNVd0aVhRekRySXdhUFJmcG9LVU93NjVpVFJNbjFiZFZfS1V0Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "55f440e47909",
-      "title": "Mummy DNA Shows Americas Can Thank Colonists for Smallpox - Newser",
+      "id": "b8f76d30caa7",
+      "title": "Mummy DNA Shows Americas Can Thank Colonists for Smallpox - newser.com",
       "published": "2026-07-31T14:14:00+00:00",
-      "summary": "Mummy DNA Shows Americas Can Thank Colonists for Smallpox&nbsp;&nbsp;Newser'Clear Evidence': Ancient DNA From Chilean Mummies Reveals Who Brought Smallpox to The Americas&nbsp;&nbsp;ScienceAlertSmallpox DNA in ancient Inca mummies shows virus came from Europe&nbsp;&nbsp;New ScientistAncient mummy DNA provides scientific evidence that colonization brought smallpox to the Americas&nbsp;&nbsp;AP NewsAncient DNA from Chilean mummies links smallpox to colonisation&nbsp;&nbsp;Euronews",
+      "summary": "Mummy DNA Shows Americas Can Thank Colonists for Smallpox&nbsp;&nbsp;newser.com'Clear Evidence': Ancient DNA From Chilean Mummies Reveals Who Brought Smallpox to The Americas&nbsp;&nbsp;ScienceAlertSmallpox DNA in ancient Inca mummies shows virus came from Europe&nbsp;&nbsp;New ScientistAncient mummy DNA provides scientific evidence that colonization brought smallpox to the Americas&nbsp;&nbsp;AP NewsAncient DNA from Chilean mummies links smallpox to colonisation&nbsp;&nbsp;Euronews.com",
       "sources": [
         {
-          "name": "Newser",
+          "name": "newser.com",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX1lTSlRRVktuUHRnVXZlODF6VmhzSzVzZld4Sk8tMW1vY0w4RkFDZTgyTWViV0VSUG16YUVpVXdQaG9rSHhUOEFDVWNOcVFZNk5DQjE1WEZrNlpWYTA1cnlxaFVHcFJnOGFJeHpoNE5YcEJaVTZQMjk2dHBrUWxnZ1EtTkNfUUJaZGg5UGlEeXhwdzkwWnNPa0ZQcw?oc=5"
         }
       ]
     },
     {
-      "id": "8f9559e10195",
-      "title": "Groundbreaking discovery could remake California's avocado breeding - SFGATE",
-      "published": "2026-07-31T14:09:45+00:00",
-      "summary": "Groundbreaking discovery could remake California's avocado breeding&nbsp;&nbsp;SFGATEStudy Reveals How Avocados Reverse Sexes Throughout the Day&nbsp;&nbsp;UC DavisCalifornia scientists find avocado gene that reveals flower type years before trees bloom&nbsp;&nbsp;YahooJeffrey Groh in greenhouse (IMAGE)&nbsp;&nbsp;EurekAlert!Avocado Trees Start The Day As One Sex And Switch To The Other In The Afternoon. We’ve Only Just Learned How&nbsp;&nbsp;iflscience.com",
+      "id": "bfd852074b17",
+      "title": "Artemis moonsuits take a dive photo of the day for July 31, 2026 - space.com",
+      "published": "2026-07-31T14:00:00+00:00",
+      "summary": "Artemis moonsuits take a dive photo of the day for July 31, 2026&nbsp;&nbsp;space.comNasa scientists dive underwater to prepare for humanity's return to the Moon&nbsp;&nbsp;India TodaySpace breakthrough: Nasa scientists dive underwater in preparation for next Artemis moon landing&nbsp;&nbsp;GB NewsArtemis moonsuits take a dive | Space photo of the day for July 31, 2026&nbsp;&nbsp;inkl",
       "sources": [
         {
-          "name": "SFGATE",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nUGh1ZG1CNTg0VEoxVDhyZkx4VDk5SGgtTUtyYWhyNXJYYTJHVEZIYm1KWXEwenlwcUFJa2xVb0hJRDc5VWtnekU2Vy1BT2RRMVMwUVdsMWhIUFU5SXF6MldGYzlsS3dXNkstU1AwWlM4c1I3UVdRZ2FmWWNHRVk?oc=5"
+          "name": "space.com",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObjVGcklURGY2RmJGYlpqMXVERE02eUxBQUhVQ3U3QkM2OTlTWGlTWnVQWU1DazNseDhrbWdhNDdHVjdEQ01pSGYxdGVmZ2VNWUIxTUdnQnVoYkpwald2bDVIN1Y5T19UT19sZ0FGRUdYQk83bWZYRTNWXy1Ha2ZscXpGUFd4d0RST2RaT1ZBYm1tSFZ3OGFVTHVwRDZKMG1vV3llTDBTRE1DbEFlNzd3WUNzbFMtaEVk?oc=5"
         }
       ]
     },
@@ -645,7 +693,7 @@
       "id": "6f98253ab752",
       "title": "One Childhood Diet Habit Was Linked to a 46% Lower Alzheimer’s Risk - Newsweek",
       "published": "2026-07-31T13:48:00+00:00",
-      "summary": "One Childhood Diet Habit Was Linked to a 46% Lower Alzheimer’s Risk&nbsp;&nbsp;NewsweekLimiting sugar before age two linked to better brain health&nbsp;&nbsp;BBCLimiting Sugar Before Age 2 Reduces Risk of Dementia, Anxiety: Study&nbsp;&nbsp;People.comLow-Sugar Diet Early in Life Linked to 46% Lower Alzheimer's Risk&nbsp;&nbsp;ScienceAlertLess sugar early in life may reduce the risk of Alzheimer's&nbsp;&nbsp;Medical Xpress",
+      "summary": "One Childhood Diet Habit Was Linked to a 46% Lower Alzheimer’s Risk&nbsp;&nbsp;NewsweekLimiting sugar before age two linked to better brain health&nbsp;&nbsp;BBCLimiting Sugar Before Age 2 Reduces Risk of Dementia, Anxiety: Study&nbsp;&nbsp;People.comLow-Sugar Diet Early in Life Linked to 46% Lower Alzheimer's Risk&nbsp;&nbsp;ScienceAlertLess sugar in early childhood associated with lower dementia risk&nbsp;&nbsp;Euronews.com",
       "sources": [
         {
           "name": "Newsweek",
@@ -657,7 +705,7 @@
       "id": "4ec4a2b7b7da",
       "title": "Experts say blood pressure guidelines are missing half the equation - ScienceDaily",
       "published": "2026-07-31T13:14:13+00:00",
-      "summary": "Experts say blood pressure guidelines are missing half the equation&nbsp;&nbsp;ScienceDailyExperts propose a new strategy to better control high blood pressure&nbsp;&nbsp;News-MedicalThe Best Snacks to Lower Blood Pressure, According to a Cardiologist&nbsp;&nbsp;AOL.comBoosting Potassium Should be Part of Efforts to Reduce Sodium Intake | Newswise&nbsp;&nbsp;NewswiseNew Report Calls for Combined Sodium-Potassium Strategy in Hypertension Management&nbsp;&nbsp;nutritionaloutlook.com",
+      "summary": "Experts say blood pressure guidelines are missing half the equation&nbsp;&nbsp;ScienceDailyExperts propose a new strategy to better control high blood pressure&nbsp;&nbsp;News-MedicalThe Best Snacks to Lower Blood Pressure, According to a Cardiologist&nbsp;&nbsp;AOL.comBoosting Potassium Should be Part of Efforts to Reduce Sodium Intake | Newswise&nbsp;&nbsp;NewswiseNew Report Calls for Combined Sodium-Potassium Strategy in Hypertension Management&nbsp;&nbsp;Nutritional Outlook",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -669,119 +717,11 @@
       "id": "2f026429c4cd",
       "title": "A Better Way to Manage Cholesterol Is Here. This is What to Do—and What to Ignore. - Men's Health",
       "published": "2026-07-31T13:00:00+00:00",
-      "summary": "A Better Way to Manage Cholesterol Is Here. This is What to Do—and What to Ignore.&nbsp;&nbsp;Men's HealthNew US guidelines may affect how young adults manage ‘bad’ cholesterol&nbsp;&nbsp;CNN2026 cholesterol guidelines: Why 1 in 3 adults are above safe limits&nbsp;&nbsp;Medical News TodayLDL Levels Still Unacceptably High for Many in the United States&nbsp;&nbsp;TCTMD.com87.5 Million US Adults Now Eligible for Statins Under New Guidelines&nbsp;&nbsp;Optometry Advisor",
+      "summary": "A Better Way to Manage Cholesterol Is Here. This is What to Do—and What to Ignore.&nbsp;&nbsp;Men's HealthNew US guidelines may affect how young adults manage ‘bad’ cholesterol&nbsp;&nbsp;CNNLDL Levels Still Unacceptably High for Many in the United States&nbsp;&nbsp;TCTMD.comNew Study Finds Millions Of American Might Be Eligible For Statins&nbsp;&nbsp;newjersey.news12.com2026 cholesterol guidelines: Why 1 in 3 adults are above safe limits&nbsp;&nbsp;Medical News Today",
       "sources": [
         {
           "name": "Men's Health",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQjhUQ0FjM0FQblJpRFBaX1JGWXpNbktRT1lUODZoTHpQS21PaUNBSzBtd21zcHVPVlpMczlJRWFhb3ZkNHV3X01GMjFUbWVaUnRkdGlWX3BONGYxX09WU0x2MkxuS0NGREllb0xKeW05U0tRVjVQR3JBdzQxa1NKelR6T1A3ZUR4QVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e24ce4f04caf",
-      "title": "This Harvard Study on Potatoes Shocked Experts. Should You Rethink Your Next Meal? - AOL.com",
-      "published": "2026-07-31T12:17:01+00:00",
-      "summary": "This Harvard Study on Potatoes Shocked Experts. Should You Rethink Your Next Meal?&nbsp;&nbsp;AOL.com",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWHp6SlR1cHB6ZGlyUjFtWUJYVFExcDZvcktoVEVtUVRac0lJVk9jVkNEU0Z1MmdodlN0bHdxRUM2NWlmNFZ0TkVDLXRpNUJ4OEJhaG0zdUxDMTFXMGgxZS1pbEQtak9yYWlOak1uSXZUN3Y1YVp5Qktucllmdno3U2VyU1lQeDczc0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3aa841c6fc0f",
-      "title": "Simplified Risk Score Predicts Coronary Calcium on CTA - Medscape",
-      "published": "2026-07-31T12:02:14+00:00",
-      "summary": "Simplified Risk Score Predicts Coronary Calcium on CTA&nbsp;&nbsp;Medscape",
-      "sources": [
-        {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNkVNbE91dy1rMzZzYS1HSmNERjRwUW52MFBNYWJjZ090ZHc1elp0bnAyaHVRczVDZjdXcUw0RllRVjBDdUVFNWZuSmw2aFNib0NLVVVWRFl4SWRITlE3cFhGSk8tTExJaEVuU1J2bnlWU1pNNFFnYWlxRXU3LWRDeGxOempzVHMyeWJldGgwUTNIYnA2WlpWU1R6Z2cydUg1c1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f6a95dccb0c5",
-      "title": "Mighty mitochondria: Scientists uncover new role for fighting bacterial infections, including drug-resistant superbugs - Medical Xpress",
-      "published": "2026-07-31T11:20:06+00:00",
-      "summary": "Mighty mitochondria: Scientists uncover new role for fighting bacterial infections, including drug-resistant superbugs&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeEdQNnlGdkVzbWhhTTlqdUh0ZU9PT29TNFBvcE8tSzlqUzNmdHZudWw4VGh0RnhFTGhtRWl2TGJtN1RSSmVNUlRJc2Z3V1dreE1sY3ZLMkp1UUpCRnQtLTI0ZUpJNEUyNHl1azZzZGh1ZjcxaFF6aXY0UG5ycWNNQjliT0xJajRvMGJ2NzVlbVo?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d7ee48084958",
-      "title": "What your walking speed may reveal about your brain health - San Francisco Chronicle",
-      "published": "2026-07-31T11:05:07+00:00",
-      "summary": "What your walking speed may reveal about your brain health&nbsp;&nbsp;San Francisco Chronicle",
-      "sources": [
-        {
-          "name": "San Francisco Chronicle",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZW1hcUp2bVYzZUV5WFFEUXhPOGJxalZCeWI4N3I5OC1HQVdMVXIwWGlYM3hEcDNwQWI2OU9JMmIyNGFhR0xnczBoNWxBVGw1UUhlZXM4dkF0alhkT3NjTWxad2E1VS1yWDZTamhtNUhPajcxdk4yNFVQNjA1SUs1b185aG90UlZuSjdwbUlCcXBqVjZTSHFFNTFtZmdubEpzc2VZY0RR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "096dc2f2dc35",
-      "title": "The Hidden Impact Of Trump's Public Health Cuts Is Starting To Appear — And Experts Say This Is Only The Beginning - Yahoo News Canada",
-      "published": "2026-07-31T11:00:17+00:00",
-      "summary": "The Hidden Impact Of Trump's Public Health Cuts Is Starting To Appear — And Experts Say This Is Only The Beginning&nbsp;&nbsp;Yahoo News CanadaSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "Yahoo News Canada",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX0UzSklyS2loRWVWQmRUSWJZWXMtT213TkpLN1JQenFuQnMwZDZwZVBhZkI3ZFh3MVFoVnBJaExESkVMR2JyS2ZDazBxdllqd0N6MHZlRmFldGxRWF85alYzMVVvaWlKUjhIU1BhV3NnaTdfc0xHaXdIT0R4QVpQcw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aa18640da8c2",
-      "title": "Lower Dementia Risk Is Linked to This Common Personality Trait—Are You One of the Lucky Ones? - Yahoo Health",
-      "published": "2026-07-31T11:00:00+00:00",
-      "summary": "Lower Dementia Risk Is Linked to This Common Personality Trait—Are You One of the Lucky Ones?&nbsp;&nbsp;Yahoo Health",
-      "sources": [
-        {
-          "name": "Yahoo Health",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTTB5RFpZQ3I1MTBnV1RqQm1VRl9sSVVrTEJVaU5VUjljOEZESEVrSS1QZE5NeGktRWs2OGQzYlB2NjdYVUp3a2p0Sm5FdG9UT1VNVVE3TldiM0MwX0RMTmxEZkxyWlBZMTZ3ZWJwM1pEY0pUT1RtVHF3c3ExeGVRNk1YQXFTYW8yRXBGQmVwYnlwM3FDb2MwN0QxWTJGXzIzRHlNYjFNMnl2WTA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b20f2ede5933",
-      "title": "End-to-end multimodal pathology foundation model with clinical dialogue - Nature",
-      "published": "2026-07-31T09:36:30+00:00",
-      "summary": "End-to-end multimodal pathology foundation model with clinical dialogue&nbsp;&nbsp;NatureCan AI become a trusted assistant for pathologists?&nbsp;&nbsp;EurekAlert!Benchmarking Vision and Pathology Foundation Models for Computational Pathology&nbsp;&nbsp;Bioengineer.org",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4aU5ITnRzejE4YkRfYkFacDNBWTVRM1hMeEVseUR6RG84UHpJbUgwS2hiZ0FWWm5GZzhobVQ4NnpRYmJEZk9lbEVzNkloMzFzaExiSl9ra2ZocUJ1Z0cw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dac229637b46",
-      "title": "Study shows prehistoric people targeted female mammoths - reuters.com",
-      "published": "2026-07-31T09:03:44+00:00",
-      "summary": "Study shows prehistoric people targeted female mammoths&nbsp;&nbsp;reuters.comIce Age Humans Mostly Killed Female Woolly Mammoths, Suggests Ancient DNA&nbsp;&nbsp;Smithsonian MagazineIce Age humans preferred hunting female woolly mammoths&nbsp;&nbsp;Popular ScienceWoolly mammoths butchered by humans were mostly female&nbsp;&nbsp;New ScientistWoolly Mammoth DNA Reveals Rare Sex Chromosome Combination, Astronomers Find Bizarre And Beautiful Planet-Wide Rings On Venus, And Much More This Week&nbsp;",
-      "sources": [
-        {
-          "name": "reuters.com",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUUxJSlF0VGg1Y0dQU0p6X2tGdEw3Y2lIbUJtdGh1MlI5b3YyUi1VcGlhYXNMNno2VWZGdXpzdFg2RzZDWm1OYUpZd0VYLXNNYVUyTmwzVE45LW1BaXMzbUQwaTZBbG1pdkNNR2tUdDg0SVNTR0theEJnUWNmc0wwcDQtSDZIbUw2Z250RlEzWDNHdkxoZlJKTXBlWDgzdEtN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5100e17d22a6",
-      "title": "We once praised the American Diabetes Association’s courage. How things have changed - STAT",
-      "published": "2026-07-31T08:30:31+00:00",
-      "summary": "We once praised the American Diabetes Association’s courage. How things have changed&nbsp;&nbsp;STATAmerican Diabetes Association, facing calls for resignations, asks for patience&nbsp;&nbsp;STAT",
-      "sources": [
-        {
-          "name": "STAT",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeHZ4ZXlLRjdWdzNVSURFcFNzRFJkeDhwRmhqUWVVcHFfQWF0Y2VsYzYtTU1iakswZG54YVY2Z1VPWWVnMjdyU2lnYlhXYXBvcFVobV83cFQwTjRtOGVyUGRTS1FCUEUxcDMzX0dyTERrdko2U3RPcFNIc05VeTZKNkk1UnNIX3ZkRUM1XzdGQ3dVaXJ6YlVhSG41TWI4dkU?oc=5"
         }
       ]
     }

@@ -1,8 +1,645 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-08-03T19:40:39.509139+00:00",
-  "total_fetched": 0,
-  "unique_count": 0,
-  "health_related_count": 0,
-  "news": []
+  "fetched_at": "2026-08-04T02:45:46.306865+00:00",
+  "total_fetched": 129,
+  "unique_count": 128,
+  "health_related_count": 53,
+  "news": [
+    {
+      "id": "da5d3aa392f9",
+      "title": "Walnuts vs. Almonds: Which Is Better for Your Heart Health? - EatingWell",
+      "published": "2026-08-04T01:42:20+00:00",
+      "summary": "Walnuts vs. Almonds: Which Is Better for Your Heart Health?&nbsp;&nbsp;EatingWell",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6TTNPR3pERDdGY1Y3cHA4R3lpanN5dWhoVFNHUlZ2UXJCclBVcm91MVhJMW5BcE42YmMxRGdwUXRaSWpDRWZLWWl6M1V0R0VZczVXRDNpQURQWEV5ZDkxeXhOeXdycjhwRmJEdlhKZUlub21GZ0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1b72cc9fc0d5",
+      "title": "Financial toll for young adult cancer survivors - Newsday",
+      "published": "2026-08-03T21:55:37+00:00",
+      "summary": "Financial toll for young adult cancer survivors&nbsp;&nbsp;Newsday",
+      "sources": [
+        {
+          "name": "Newsday",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb3IxYzRMM2tIYVpsQk9ucnVqazMyUTRLTV8ta280aWFfZVo3OHlzYUtoSUQwSEozWEJ5S0NuR1FFTmRRT1NSSDlYMFNtMFhFU1FQN3NmUjhYLUNtZlBnd2hTQ0hoLVh3OXI5a3FHa3E4QlRwZ1FUV3BjeXRuWUhlZlhVQjdiNzJJN0ZPWGZQYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4a46bb0fcd3a",
+      "title": "6 Things to Avoid After 5 P.M. to Help Reduce Alzheimer’s Risk, According to Dietitians - EatingWell",
+      "published": "2026-08-03T21:20:00+00:00",
+      "summary": "6 Things to Avoid After 5 P.M. to Help Reduce Alzheimer’s Risk, According to Dietitians&nbsp;&nbsp;EatingWell",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeWczaThUSTExaFExVjh0TEtzWGUzSFpfRXEtaWR2WHBISW10Z1ljQThEeVJRZ1dITEtRNXdWcmhIeTN3TWR3aFpNUEl5NzNJTEg1bHpGWldFTW9YVlFKREM4aXlvN19JZ2MtcDdXMUhYSFpFbTM3Smd3NVVwR01NSVIyQlhaT2FrTkFCSDh0eHZIR1JpV3hiUndOdm44QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "39e92e953752",
+      "title": "Chilean Mummies Prove Europeans Brought Smallpox to the Americas—But That’s Not All - Gizmodo",
+      "published": "2026-08-03T21:10:42+00:00",
+      "summary": "Chilean Mummies Prove Europeans Brought Smallpox to the Americas—But That’s Not All&nbsp;&nbsp;GizmodoSmallpox DNA is recovered from Spanish conquest-era Chilean mummies&nbsp;&nbsp;ReutersSmallpox DNA Hidden for Centuries in Mummies Found in Chile Suggests European Colonists Brought the Virus to the Americas&nbsp;&nbsp;Smithsonian MagazineAncient mummy DNA provides scientific evidence that colonization brought smallpox to the Americas&nbsp;&nbsp;Medical Xpress‘This Is Very Strange’: Ancient Smal",
+      "sources": [
+        {
+          "name": "Gizmodo",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWGhHOTU4aXM5WGZlUWxtdE5saVZoT2dpRTlZN29jeVk1SlNXWFNnQ1p1dXI1QzZHb2hxa1F6RDdITUlwRmpPZFVVSGlHdGxQcUZ5QWt5bFlzRnlfRDFQaVVhUG8zX3Yzei1JT3JEV0xZeUhpb1AzTmxiYVJzY2V6dzlWNFI3cDVCMUw0dlNmS096Sm5CZy13dVVNNzFfTWVBZjB4d0RNWnhxTFFZUXQzV05DVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2c1c23f6e55e",
+      "title": "The SpaceX Falcon Lunar Crash Is a Warning for Moon Bases - WIRED",
+      "published": "2026-08-03T19:58:00+00:00",
+      "summary": "The SpaceX Falcon Lunar Crash Is a Warning for Moon Bases&nbsp;&nbsp;WIREDOut-of-control SpaceX rocket set to smash into the Moon at 5,400mph and carve 90ft crater&nbsp;&nbsp;Daily StarNASA, SpaceX studying how to prevent future upper stage lunar collisions&nbsp;&nbsp;SpaceNewsA SpaceX rocket will crash into the moon this week. Why is it on a collision course?&nbsp;&nbsp;SpaceDefunct part of SpaceX Falcon 9 rocket will slam into the moon&nbsp;&nbsp;NPR",
+      "sources": [
+        {
+          "name": "WIRED",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaE0tR09IZ29UWHA3WW1VZGZXNHY0d1BmS1hKbDlZN0wycWd2bHBtN3I4a0QwbmVfWnpaeE1yWTNRY3ZTeGN0clczVlh4cnAyY3NEYnlHOE5mTjVRb3pHY0xMQlBpWjg4clk3MDg0TzNaaTVIU2tZYUpTOVNEaUxEazRwbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dfd9fa31f090",
+      "title": "Even Black Holes Can Get Indigestion. Unsurprisingly, Their Farts Are ‘Massive’ Expulsions of Gas - Gizmodo",
+      "published": "2026-08-03T19:55:05+00:00",
+      "summary": "Even Black Holes Can Get Indigestion. Unsurprisingly, Their Farts Are ‘Massive’ Expulsions of Gas&nbsp;&nbsp;GizmodoAstronomers watch a black hole's feeding frenzy end with a bad case of cosmic indigestion&nbsp;&nbsp;SpaceIt’s Becoming Clear Why Black Holes Never Run Out of Fuel&nbsp;&nbsp;WIREDBlack holes may spit out nearly as much matter as they swallow&nbsp;&nbsp;ScienceDailyStudy Provides One of the Most Detailed Optical Records of a Black Hole Eruption Cycle&nbsp;&nbsp;AZoQuantum",
+      "sources": [
+        {
+          "name": "Gizmodo",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMzQ1SmhBbi1UYUEtWVN0eEkzQzFhYWRSS3RSRDJZTjNrRnJCOURGV3lFZ0ZqQjVFSlFHN3JONzRRVk81aWtkaDhGUldSbTRVemh6QXBaS2QxeDZhTzlCTEV0VlpGbEt4czRGVzJQR1h6U1lEZFVFUGtJQWhWRDcxdXpJREhiUXpWaHZ2dTJacERTc29udm44X2Vxb3o4dmhpLUxNaHljM3A4MmxKeXR5eVVOMHBoWGlWT0VCbVNwZHJrdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "37cf52ef206e",
+      "title": "No link between MMR vaccination before age 2 and autism, large US study suggests - CIDRAP",
+      "published": "2026-08-03T19:30:00+00:00",
+      "summary": "No link between MMR vaccination before age 2 and autism, large US study suggests&nbsp;&nbsp;CIDRAP",
+      "sources": [
+        {
+          "name": "CIDRAP",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVFk4Nlp3enNJblA4LVhyOVFmeW1uSFl1VVJDZFVCZnJ3SE9fYmtyd3pDWFlXaXFvc0lPUWU4bXE1VDBBcHlsR1dKaEpjT1JWVzh3Ui1BYmZleWFXcjQ0WWVRMDk3N0w5cENRWGlRNXRLTV8xYkYzZEp0ZndjMVMwUldxeFprZGFuall0bXJqRk9EdDRIbHpkbktnSy0xT0R0Y3pOY2RBUVYzS0YxUlFlYUNBQ0NSQTdPSXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "16058a986845",
+      "title": "3 sun-safety mistakes you didn’t know you were making - washingtonpost.com",
+      "published": "2026-08-03T19:00:00+00:00",
+      "summary": "3 sun-safety mistakes you didn’t know you were making&nbsp;&nbsp;washingtonpost.comNavigating UV Safety, Photodamage, and Next-Gen Protection: A Q&amp;A With Kathleen Suozzi, MD&nbsp;&nbsp;Dermatology TimesRUGGED UV Safety and Skin Cancer Awareness Month: Check Your Skin for Changes&nbsp;&nbsp;PHCPProsDon’t get burned: What to know about sun protection&nbsp;&nbsp;Penn TodayAmerican Cancer Society Promotes Safe Sun Practices&nbsp;&nbsp;Santa Clarita Magazine",
+      "sources": [
+        {
+          "name": "washingtonpost.com",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa2xOYmVRajJoSmstaU9kQU9UVjdaQzNBV0dFR1hnd0dBZWhTbzhrcFM2V00yNkRzVFRkcXhyVTVQWlhsNDg3bmlubDNXX1g3SE9BTU5KRVc4ZGR1RDVsVlA0MkhXTk5TdGx5WWdmeUQwZlBvOXV6M3pOaTZaenpBMHF6elI4WkpNWmNuN3N6aGlpSUxqMXlkS0VZTDc5ZGFDMW9MTHhkbGY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dac66ae45323",
+      "title": "What to know about 'rabbit fever' amid 3 probable cases reported in New York - ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-08-03T18:03:08+00:00",
+      "summary": "What to know about 'rabbit fever' amid 3 probable cases reported in New York&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosWhat is rabbit fever? Cases of rare tick-borne illness reported on Long Island&nbsp;&nbsp;NBC New YorkTularemia on Long Island: 3 probable 'rabbit fever' cases in Suffolk County&nbsp;&nbsp;ABC7 New YorkWhat is rabbit fever? Disease you can catch mowing your lawn has infected 3 on Long Island&nbsp;&nbsp;New York PostThree cases of rare tick-borne disease ‘rabbit ",
+      "sources": [
+        {
+          "name": "ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTkhPcjVGOHlBLXU2M2Y0Zi1aekxjTjJOWlc4MHZEdmUtRkNwTjhhY2w4SFpjbmJqOS1iZXJFUnk5RGlUMW1ua2lONG8wS3dlbmVLdkpiS291SGxmYXpnaC0ycHlpTEVpRHYzMExGOTdHNmF4aG5peENFaTZIVHVPNlFDZ2hZa0NXMXU1X2k3SXQzc3NOM0o2ONIBngFBVV95cUxPc1J2U0hRazNETVBhTzE1RFpBWkFUREZzaXFxMkY5WV80anYwQ0g4emkzemtITGtCRzk3YzhONnNvZ2NFMzg4MGZETjZxUG91alRfM2lNbC11dTVvWXFmVlVIQ3FEdXZHN29Udl9Gc09ZbUlfS2NKUFJHa3RSdWh2YnRSZ3pyTjNRejRrb0JiX2NHeGxzSnlEdXhRdGU0dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ab856d9000a7",
+      "title": "Liquid Fluoride Can Stop Cavities Without Drilling, Major Trial Finds - Gizmodo",
+      "published": "2026-08-03T17:50:00+00:00",
+      "summary": "Liquid Fluoride Can Stop Cavities Without Drilling, Major Trial Finds&nbsp;&nbsp;GizmodoScientists find a simple way to stop cavities without drilling&nbsp;&nbsp;ScienceDailyLiquid could be answer to stop cavities without drilling, study finds&nbsp;&nbsp;KRON4Silver diamine fluoride treatment could halt cavities without shots, drilling or sedation&nbsp;&nbsp;Medical XpressMulti-center Study Shows Benefit of Drill-free Cavity Care for Kids&nbsp;&nbsp;New York University",
+      "sources": [
+        {
+          "name": "Gizmodo",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRmM4QnVKVnlOZXJwaXNwa2JuNjhZTGVxYWY2dzJPVk4wRF9yUDZpYU1UZW01SDB6clpjNGZ3RkktMk5IN3NhQ1RRYURMZmtqdWh3ZkpmLVZma3VBTkszREhWODBSSTBBQVNOb0NWdF9nSFBkTzFjenBtd281eVY4WTFVM29CdzlwNDl2ZUcxdlNrRmNQS2NWR0JEQnhkMGxO?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "864af3d228ec",
+      "title": "Mom-Of-Four Attacked By Spiders Biting Her Whole Body On Camping Trip, Now Fighting For Her Life In Hospital - Bored Panda",
+      "published": "2026-08-03T17:19:00+00:00",
+      "summary": "Mom-Of-Four Attacked By Spiders Biting Her Whole Body On Camping Trip, Now Fighting For Her Life In Hospital&nbsp;&nbsp;Bored PandaMum of four fighting for life after spider bite&nbsp;&nbsp;News.com.auMother of 4 Is Fighting for Her Life After Being Bitten by Multiple Spiders During Campfire with Her Family&nbsp;&nbsp;People.comGoddard mother says she's grateful to be alive after spider bite&nbsp;&nbsp;KAKEKansas mother may need liver transplant after suspected brown recluse bite at Cheney Lake&",
+      "sources": [
+        {
+          "name": "Bored Panda",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa2I3eFZRS1VKeHo4cHVFWTJHVGlOR2NtRVNqV1NpeDUwLWtiOW1qTlB1UFhCVGt4dlZfWDBxZXZUcEtiaWRsTUltLU9VZkFEWGl4NW5SUlFINGJlY1VBcjJVNzU5ZUdoMXlDYzktY2V6NWFQZS1hUGhjZ2VrdncyYjVJb1l6Y2RZNWljanFoVnRkLXFhMm9Tc2tVVGVvcXo3VXNaLTk1SQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d3c3d27ce493",
+      "title": "Column | What to know about cancer risk if it runs in your family - washingtonpost.com",
+      "published": "2026-08-03T17:00:00+00:00",
+      "summary": "Column | What to know about cancer risk if it runs in your family&nbsp;&nbsp;washingtonpost.com",
+      "sources": [
+        {
+          "name": "washingtonpost.com",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONC1XSEM2UWV2ZVBkeHJ1ZmU4RUVCM1NRUXJ5bWhUWE0tVTdrTUkzem5tVUFzQXo0QUY5Vk0tSUVHdG0xSWNsdV9Zc2NrbXA0OTJLZzhqNHRZWUlfOTFYa0F5cERYZ1lMQlpjYXo5NU9ncTV4VENqdVBMcTZSQVVJRWJHT0M4SDVuZTVwUnJ5Z0w4YVV2eU1sVXAxM0VJQXB0d0E1cQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "caf6a6144506",
+      "title": "Rare & untreatable Bourbon virus was first identified in KS. How to protect yourself - Wichita Eagle",
+      "published": "2026-08-03T16:58:00+00:00",
+      "summary": "Rare & untreatable Bourbon virus was first identified in KS. How to protect yourself&nbsp;&nbsp;Wichita EaglePossibly deadly virus confirmed in New York: What is the Bourbon virus?&nbsp;&nbsp;pix11.comBourbon virus in the Northeast: What to know about possibly deadly tick-borne virus&nbsp;&nbsp;FOX 29 PhiladelphiaFirst Case of Bourbon Virus, Which Is Untreatable and Potentially Fatal, Confirmed in New York&nbsp;&nbsp;People.comRare Tick Virus Is 'Just the Tip of the Iceberg,' Infectious Disease ",
+      "sources": [
+        {
+          "name": "Wichita Eagle",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96bzRwV2Z3OXAydlB1UVUtYlUzeUF0ck13aVZJc3ZXU2cwdUNjQlVFamxDS3E5WURkUlVlSVJndmw3cmZXVFAtcG12WXhUbEctbVhSRmQtS0E1Zl9kczFqd096azFBUdIBZkFVX3lxTE42RUV3ZzJTNFNYR2M5TnY5NnUxekE4eW9vRDJLRGtJUTI4dzhDR2tscm44WUE5TW1MNEZLdTVTSVZjeXVfNzJjb1NNN3VRM0U2TTFpWU8yQlBMSElRclRwQWk4SDJ5UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7ad76db13bce",
+      "title": "The once-weekly workout that burns nearly as much fat as exercising 3 times a week - New York Post",
+      "published": "2026-08-03T16:50:00+00:00",
+      "summary": "The once-weekly workout that burns nearly as much fat as exercising 3 times a week&nbsp;&nbsp;New York PostThis once-a-week workout may help cut belly fat, study shows&nbsp;&nbsp;ScienceDailyCan 75 Minutes Of Brisk Walking A Week Lower Belly Fat? Here Is What A New Study Says&nbsp;&nbsp;NDTVStudy Finds It's Total Exercise – Not Workout Frequency – That Matters Most for Fat Loss&nbsp;&nbsp;Men's HealthA study reveals that doing this one weekly workout can melt your belly fat!&nbsp;&nbsp;The Times",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZWZsNlpteXdSS1dEU0V4MUsxaEtQYm1FSWtUclNtSC00NTdjeU5GN215dnNseGtPQ1RFQ1h2VjV2T21xUTUzRHBnS3VvZUl2MWhzbExhM0FMNVMybnVyWXBFZmthWENOOGJXQ2JBLWQ2bUV5UVhsakhoOXdfUFotU0V1Zzg2STRLaXBkZlcya2h3bXZvQ25QOHc4RWNkc1RuZ2lManF3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c1a9b5897a37",
+      "title": "Think Cognitive Decline Is Inevitable? Scientists May Have Just Found a Way to Reverse Brain Aging - inc.com",
+      "published": "2026-08-03T16:07:40+00:00",
+      "summary": "Think Cognitive Decline Is Inevitable? Scientists May Have Just Found a Way to Reverse Brain Aging&nbsp;&nbsp;inc.com",
+      "sources": [
+        {
+          "name": "inc.com",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWG82dUZORHh6QlJ1YmIyUFNCcTVWZmZsbDkxZmhwSzZmU2U4MjdnNVFnaDFOY3BqdXpkVmtGb2E3ekM5VXRUZmtGYm1ZZEg5bHV1SmNmbXNQb3d0a0prU3MtdGhtVkt2X09Wa2tXaW43TkU1Y1lFRWc5YVM4QTlqTXR0OWJ0MmppcG9sQWw1NndvRXdJSElkSWJ4amlKTWVGTk8taDdlLXJ6Tk9fNjFnWjRvWXRUQklwVmt1RUJ5N1NRbmQ5YldhMEFFb2ozbG4zd1BSMQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9474f2cd9892",
+      "title": "America Getting Lesson in Consequences of Trump's War on Public Health as Rare Disease Outbreaks Ravage the Country - Futurism",
+      "published": "2026-08-03T16:00:00+00:00",
+      "summary": "America Getting Lesson in Consequences of Trump's War on Public Health as Rare Disease Outbreaks Ravage the Country&nbsp;&nbsp;FuturismThe Hidden Impact Of Trump's Public Health Cuts Is Starting To Appear — And Experts Say This Is Only The Beginning&nbsp;&nbsp;YahooMeasles surge exposes bigger public health crisis, former CDC official warns&nbsp;&nbsp;MS NOW“Tipping Point”: Ex-CDC Official Links Cyclospora & Measles Outbreaks to Trump’s Public Health Cuts&nbsp;&nbsp;Democracy Now!‘Infectious dis",
+      "sources": [
+        {
+          "name": "Futurism",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNWlyQ21Ma3lQTTc1WE9ReWxNV3NHTUo2eUpCYWRGZFVLcDZxZVRVU2xtLWFjYUNGZVhIRWdPblJmOU9BOW12MGxFMTVveVJiMWhRdzhoa0kzdXpKTm5sbkxueXJTN0hyYk56TDdCV3pTMENSZEtCTU1lUTBwRUFTQU0zSDVPZDhJUjl3NS1lck1lczYzM3JBOWNDMjh5R0VMX01MRi1mMWdTX3lXTTNOTG5B?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b14e32c5f949",
+      "title": "Scientists Say These Factors are What Really Age You—and They’re Probably Not What You Think - Women's Health",
+      "published": "2026-08-03T15:43:00+00:00",
+      "summary": "Scientists Say These Factors are What Really Age You—and They’re Probably Not What You Think&nbsp;&nbsp;Women's Health",
+      "sources": [
+        {
+          "name": "Women's Health",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNmhneFhpWGZWMHRJUmgwamNVdVpfWXVER3FKYk9vd2ZjWmtHaEtyblBMV0h3YW9CVGhMeWJVRXZrOEc3eXpVREhLWnloUGFhQjBBbEdOYTlRT0hZb1NnZ2l6VHdFLW5meHFzRUZDVGV6YUFCRFRwcGlQOUJVVzcxU0tfbmFPUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b181bd33cd98",
+      "title": "Somewhere in America lives a woman who genuinely cannot feel fear — a rare disease quietly dissolved the part of her brain that produces it, so when researchers put a tarantula in front of her she reached for it anyway, and when they led her through a haunt - spacedaily.com",
+      "published": "2026-08-03T14:30:20+00:00",
+      "summary": "Somewhere in America lives a woman who genuinely cannot feel fear — a rare disease quietly dissolved the part of her brain that produces it, so when researchers put a tarantula in front of her she reached for it anyway, and when they led her through a haunt&nbsp;&nbsp;spacedaily.com",
+      "sources": [
+        {
+          "name": "spacedaily.com",
+          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPa0JPa1hUX25SSXV1aXAzTnQydGdOeERzSEJYbFhQQS1OOGlOZmk0TnRudEFiN0pTcjdBODhEMWNSVFlZa3VJbUhKSlZEdHFXcF9kNWdETDh6UjBuMmh6UGdHcWRwdW1QSG9TQmVVR0x4U01tNTIxWmVfLTZ6cVd1Qno5eThmT1NfcnBTaDU2SWZRREl2c2JmWW5SSklFYlM1ZlVkRDFYcnZNenZNM00zaXBHWjJDQ2h0cFNoMGNPNVFLb1ptb0g1ZmotNnM5Tjc2c2VNUHFJeU1wT2pPQWZmLU9neGdULWVIbXdQWGpBdTVyblNaNVNFYUV6bmNyQjFlOU4xQWZFS3BnenMwUWNaUUxJMG9MM1BYQUtwV3VwN2RNRHpieDQ2REJsN1E0dE9TaUlBSUc2MjEwSGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8d36c8e53207",
+      "title": "'Poop pills' may ease insomnia by reprogramming the gut microbiome, early study hints - Live Science",
+      "published": "2026-08-03T14:10:00+00:00",
+      "summary": "'Poop pills' may ease insomnia by reprogramming the gut microbiome, early study hints&nbsp;&nbsp;Live ScienceFecal Transplant Tied to Improved Sleep in Chronic Insomnia&nbsp;&nbsp;MedscapeCan fecal microbe transplantation improve sleep in people with chronic insomnia?&nbsp;&nbsp;Medical Dialogues",
+      "sources": [
+        {
+          "name": "Live Science",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM3ZMbVpzQWlTS3RJTnRlQ0pEalJaMlBwdl9CeVAxZ2o2YUxKYWJrMFBWaUhXOWpxbGZBd0xYNVdFX3Yyc09qdEctSWdWUjdDaFhHSFpnekZ5QnRzTWF1TUJrdnBIZHV5TTJvMnN5OWZJbGhHVWw0ZHZWdUFHV08wWmV5OTRWR0RhTVNMQjVZUG5sVzJlaV9idloyakdOMWdrX0pPTU83X3V6d3E5TEhoSmxHeWJOcVpzZGwtYU9fTnU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b13b94102b31",
+      "title": "A simple supplement could help the immune system fight cancer and viruses - ScienceDaily",
+      "published": "2026-08-03T13:42:06+00:00",
+      "summary": "A simple supplement could help the immune system fight cancer and viruses&nbsp;&nbsp;ScienceDailyHow one amino acid might help fight colon cancer and infections&nbsp;&nbsp;Science NewsThis amino acid may help the body fight tumors and viral infections&nbsp;&nbsp;Medical XpressArginine Availability May Shape How Well T Cells See Tumors and Viruses&nbsp;&nbsp;Inside Precision MedicineAmino acid found in everyday foods shows potential against cancer, viral infections&nbsp;&nbsp;The Eastleigh Voice",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HWVU4NXJjSUg5X1NLamRyb0p0TVJJc3RDc1FHcEUzUHVjT00zU215M0ZKOTBqY3N5THNSM0d5MVA3bjBqa2o0d25vS1FMaXd4c0dTODB4QzBzTmFLRmlLOGE5T2Y2NGtDNFF4Q0ZNSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0bd659d8cc7b",
+      "title": "5 Protein Myths You Need to Stop Believing - EatingWell",
+      "published": "2026-08-03T13:00:00+00:00",
+      "summary": "5 Protein Myths You Need to Stop Believing&nbsp;&nbsp;EatingWellCan a high protein diet result in heart issues? Top doctors explain&nbsp;&nbsp;The Times of India5 Nutrition-Boosting Tips to Spread Protein Throughout the Day&nbsp;&nbsp;Montana StandardAre high-protein diets safe? What doctors want you to know&nbsp;&nbsp;firstpost.comAre we eating enough protein to age well? Why experts think no&nbsp;&nbsp;Medical News Today",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ05fVkV3UDZhakRmeUdDMW1SX0FBc1o1RDlCQ2YtaW5wenhyQ0VuNG5scTBLYXNCTlJONGZxVWxOd1pSak5uTWRpN1ZPVldIQ2NxRXNDZ0Y0dkljZVlObDkzZ2I0d0FXZVpoSHE2WmNqZmZDNjBlUWN6LUJvOTExcHV3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dfffb315617d",
+      "title": "Forget ‘proteinmaxxing’: less protein could help healthier ageing, new study suggests - Euronews.com",
+      "published": "2026-08-03T12:38:24+00:00",
+      "summary": "Forget ‘proteinmaxxing’: less protein could help healthier ageing, new study suggests&nbsp;&nbsp;Euronews.comLiving longer could hinge on one surprising dietary change, study review suggests&nbsp;&nbsp;Fox NewsEating less protein could slow aging, major review finds&nbsp;&nbsp;ScienceDailyStudy suggests eating less protein could be key to healthy aging for most adults&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosCould Eating Less Protein Help You Age Better and Live Longer?&nbsp;&n",
+      "sources": [
+        {
+          "name": "Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeTNfaksxM0lLaEhZdF8zV2NlZWU3YWJsaUljZHhBbmFFcDlWOTV2VTd3V1hjc1hrRDFkTTYyVUtRMlRIR1MtRUZnU3FrNXV3a3hVa29hM0pYbnI4Tjg2MVpXTWNURkFpYnhZZlNCVFI3TUdoT1pKc3hTMXAxTmZrb2VwWXVWbWdfUUZWOWhXQjFOUVVQSUFlRjJOWGQwd25nd2dvUVJ2Z3V3cVdWU1hrd2RRajZ1X015dVoybklWaGxFdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "68fa012bcc9e",
+      "title": "Aspen trees provide a natural buffer against wildfires, even as fire season intensifies, study shows - Live Science",
+      "published": "2026-08-03T12:00:00+00:00",
+      "summary": "Aspen trees provide a natural buffer against wildfires, even as fire season intensifies, study shows&nbsp;&nbsp;Live Science",
+      "sources": [
+        {
+          "name": "Live Science",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVm9jTHIwUUNoallOMTI4SzdoWjJvd25BVU1ERll2SXBwNG1FRy1YOVBOdXgyRmVMQXNFYnpZdTN2bHRrem5PVHBtelhxa1pVaklZU1dKWTI5aV9QVXVJalNld216VUN0dk53dzhxckJMcGVacC16N2kyclZIR3JhNWJ0Zktad241WXFyd1lZTWc1enpNRUY2Q2NzdGg5MXpBOTFWMVJoaG9zc2toNzYyWWRkVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "425bb9476375",
+      "title": "In world first, Israeli scientists find active ingredient in Viagra may stop cancer spread - timesofisrael.com",
+      "published": "2026-08-03T11:37:37+00:00",
+      "summary": "In world first, Israeli scientists find active ingredient in Viagra may stop cancer spread&nbsp;&nbsp;timesofisrael.comViagra Could Help Stop Cancer From Spreading&nbsp;&nbsp;Technology NetworksViagra May Block a Hidden Pathway Cancer Cells Need To Spread&nbsp;&nbsp;SciTechDailyCould An Erectile Dysfunction Pill Fight Cancer? New Study Shows Promising Potential | Health and Fitness News&nbsp;&nbsp;News18Can Viagra stop cancer spread? Early study offers fresh hope&nbsp;&nbsp;India Today",
+      "sources": [
+        {
+          "name": "timesofisrael.com",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGxYUUg3MGJ5bHNXYXBoNHIxNXlDZTF1N25Ma3FNeTM5Z3ZCNTEybTl0aC05cU9oZmpWcEpBa2FPb3pJaUpzTThnd0p3WUx2bjF1UF9rLUYyakdWcGtQY1Z6dE9VN1ZsYWZuZUM4bmp4ZG1lYzhHNmo0WEhhTXlpeHI0QzlSU0RCVTVfRmF0eWNnTFFhelppWEFxdHNYT3NRM1hvYm9qV3FFdGxWZm44bmVMaGVLbzROaHV1ddIBwgFBVV95cUxPMEN5bjBMS0VyUngxQUJRcDU3a0EtVW5RX0xhOFdsenJYcHR0Nml4NkE5bDF0OVZNUUNSdXB0YmczNk1JOEJ3Uzd4d2JoYWZ1ZXc2VHZVV290TWFfNENzMlRld2pVSHNYY2VRQnBTenhEWXZ6cm9EYVZXYml2b1pRaUxBS1VhNWQxQl9GaG1BUm96NGhtWHIxTWZGVFktUEZ2OXQwMS0yZk53T2ZkellHNTRacTdVTDFUaGVnS1AwWFVrUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "11f1f537475e",
+      "title": "Adults who take the same walk at the same time every evening may not be creatures of rigid habit; they may have found that repetition in the body can help the mind finally set something down - Silicon Canals",
+      "published": "2026-08-03T11:18:49+00:00",
+      "summary": "Adults who take the same walk at the same time every evening may not be creatures of rigid habit; they may have found that repetition in the body can help the mind finally set something down&nbsp;&nbsp;Silicon CanalsScientists find a simple routine linked to less pain and depression&nbsp;&nbsp;ScienceDailyDaily Routine Key To Good Health, Study Says&nbsp;&nbsp;U.S. News & World ReportResearchers suggest this daily habit can improve mental, physical health&nbsp;&nbsp;cp24.comUniversity Of Missour",
+      "sources": [
+        {
+          "name": "Silicon Canals",
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPM0NodklVVmMwRTdhQ3hzR3N6RXY1TFJxMjZ0dTYzRE1jOVZodm1oRlF6THFYcHl5RS1BVU5KSXdPMDNVUEctdHpFTU9tSF81TVJKV251OVRoampoYkJ0Y0tCV21TU3QyYzJPVU1peWpWWmlMSkQyT1dtZFVQcXdVMmR1SWVQSUVKWEFXOTdQZi0xYkY3U3A5Yy1FMWhGYXRudzBGeUh6aS02dGhQcHlpbVgzSERJTHE5UENWTUR2TWEwZzctelRXOG5SNnNGUGcyemN3a0N5X1NZUUZXNzA3YkJadDF3eW1ORDJSdWFncG5PX3lYalpYX09hOTBuQkM3Nk1odU9Sa0s3ZS14QktBakhkWUJheDRKT3pNbmg0dTA2SXcwaXQ4TXBRamRNOU1jZWZSalNLLVBiaHdhV0ZuQU5EWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d52ca9885e84",
+      "title": "After 4 cancer battles, Staten Island health leader calls for investigation into alarming rates - SILive.com",
+      "published": "2026-08-03T09:50:00+00:00",
+      "summary": "After 4 cancer battles, Staten Island health leader calls for investigation into alarming rates&nbsp;&nbsp;SILive.com",
+      "sources": [
+        {
+          "name": "SILive.com",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWFA4ak15ZTgyWm9QSUZxcWZ5akF3SVFWM2o1U29SdWlxdkJodmNWZ042NnM1NUV3YmhrOC12eVdOY3ZDRS1LVVl5Y19HM2gwQXhoRXNRZ0FVQXlPREVjY0lwNGdaeHd1cm5Tc3dhUkdGUUtXcFozMXZpNERCSmxtVk5nMVZsNnVBSm01eTZ3b1pJM1g5X1RtX0hLV0M5c18yRlpscG5OUGw2RmNiTEg2LWFuNVQwbmhuRzJ4OC1fREVlMzdFZHpEUUFoLUczaUJU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8bbbde0fd5a7",
+      "title": "Dr. Roach: Sixty-five-year old gets hospitalized due to hypercalcemia - detroitnews.com",
+      "published": "2026-08-03T09:03:00+00:00",
+      "summary": "Dr. Roach: Sixty-five-year old gets hospitalized due to hypercalcemia&nbsp;&nbsp;detroitnews.com",
+      "sources": [
+        {
+          "name": "detroitnews.com",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaGFGdDFFa3Vhd2Nhakgxa2JEZW5lTzE2ZUFhNi1pWTZ6SVF3SkFCTmhVNGVhNDk5bmIxcUxuSUo4eXFVTFdlZlU2LUktdWkwQmM5ak5nR0JORTBwMWRNaDFnMy12QWRFZE02akVLZmJVYl9wOTBJLXNObWlyaWtIRjRtcHY4aGpIYTBULWJLb195NEx5VUZBYS15S3B6UjBGYUYyLXpzUWZMYUpPQ3EwRFd5RFFiakl5dm53T1NENkRwOE5DY0Jic0pIM3BQY1hHb2pZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d1bfc5c032bc",
+      "title": "Ozempic is changing workplace etiquette — and making everyone uncomfortable - Business Insider",
+      "published": "2026-08-03T08:12:00+00:00",
+      "summary": "Ozempic is changing workplace etiquette — and making everyone uncomfortable&nbsp;&nbsp;Business InsiderExperts Say GLP-1 Usage May Affect Your Mental Health—Even if You’re Not on One&nbsp;&nbsp;Women's HealthThe prevalence of GLP-1s has opened a Pandora's box of conversations around bodies and what we put in them. Body talk has always popped up at the office. Maybe you've encountered the coworker who remarks that they could never eat a lunch that rich, or&nbsp;&nbsp;LinkedIn'My body is your wors",
+      "sources": [
+        {
+          "name": "Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUF80TzlxSnZuUnJvYVZYN25Fd3hsM0E0aTlPbk9BSXMzck9kTjY3NVR0VS1fZllvLWpvY1NDdzVoRXNfVzZSUmFlS1R6LVRmY0pLTFRTSG9zb0hsXzdqTTIydDVKUWVmTzJHWEVwRXVuSTBNaExsM090ZTBEczVJXzFMemxVbUZpakIxSzIxS1EyWEt5Z2pmX1I4QmJHRWtwLW92cTd4eUdTMlluZ0JINVBadw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a71243d7090d",
+      "title": "Cancer patient bought ticket for assisted death, then three injections stopped his suffering - ynetnews.com",
+      "published": "2026-08-03T06:55:34+00:00",
+      "summary": "Cancer patient bought ticket for assisted death, then three injections stopped his suffering&nbsp;&nbsp;ynetnews.com",
+      "sources": [
+        {
+          "name": "ynetnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0c3FLdHlQOUJOclpmOTVndDN3RFFLMHpvRURoa3k5bjBEUHdtakNoTjFUdnlobmFUcHE2Sl9VSHJ3c3hPNTFhZEsxZlNSU3Ribk9FalpBSllsR3VOSmpuY3JhbXM0MFMwcFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "69ccd885544c",
+      "title": "More pregnant women are dying in Congo as they avoid hospitals over Ebola - AP News",
+      "published": "2026-08-03T05:13:00+00:00",
+      "summary": "More pregnant women are dying in Congo as they avoid hospitals over Ebola&nbsp;&nbsp;AP NewsEbola disease caused by Bundibugyo virus - Democratic Republic of the Congo&nbsp;&nbsp;World Health Organization (WHO)Congo's Ebola outbreak is second-largest on record, latest data shows&nbsp;&nbsp;ReutersEbola outbreak in DRC the fastest growing in the history of the virus&nbsp;&nbsp;The GuardianDR Congo Ebola epidemic becomes world’s second largest outbreak&nbsp;&nbsp;Al Jazeera",
+      "sources": [
+        {
+          "name": "AP News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdTBDVVNZcGVsYWlVc2VLalJKVE9MUVlCMlRLblVBWVo5ZEVsQmNzRC04bU92NXFWQnp2X2x2MWt6N2FONU9qbEhqRjJsaHIzc0NTMnVkWGh5VGxxREhjakh1ZWQ2c080RjVzTkg3TWRRVGE2eWJwT3h0bktSQVdkelQyUERNU3p0THI2SXFsaGZveC04T2ZKdEktbnRYV1htNnVHSWxIT1MzMld3dTg4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e102e16b9909",
+      "title": "Study uncovers brain mechanism that drives sustained motivation - News-Medical",
+      "published": "2026-08-03T04:54:00+00:00",
+      "summary": "Study uncovers brain mechanism that drives sustained motivation&nbsp;&nbsp;News-MedicalNeural Mechanism Behind Goal-Directed Behavior Revealed&nbsp;&nbsp;Neuroscience NewsHow the Brain Sustains Motivation&nbsp;&nbsp;bioengineer.org",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX0NNMHowS21PUnBCbWItTHBpcWJ1MjNGRlg1TTk3WU9OM2JUY0MyMjgzdTU1VDFGWXNaSVB6VEFvaFFXT2JqZE9nVWR3VDNpM0Qzd2RmZURVdnUzcEFCenZSc3hPd0RWcUdIbWdtQVhXT3NTdkQ3WVhzSkRHVl9SdWZQMktlNE5pUk5jRHlTYnRrNUxoR1REbG91TXBRUnp3SFhRQU4zdlppTVdiamREWg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ef9dad638752",
+      "title": "Rhode Island raises West Nile virus risk to high as more mosquitoes test positive - FOX Weather",
+      "published": "2026-08-02T23:35:00+00:00",
+      "summary": "Rhode Island raises West Nile virus risk to high as more mosquitoes test positive&nbsp;&nbsp;FOX WeatherWest Nile virus detected in 3 RI communities, risk level now ‘high’&nbsp;&nbsp;WPRI.comWest Nile discovered in mosquito sample taken in North Providence&nbsp;&nbsp;The Valley BreezeDEM: West Nile Virus In Cranston, Avoid Bites&nbsp;&nbsp;WarwickPost.comRisk of West Nile Virus Climbing&nbsp;&nbsp;ecoRI News",
+      "sources": [
+        {
+          "name": "FOX Weather",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaHBtMExWX2hXa1liOXBkTkQ4NFpxRTdad0drX21BckVJcHBOQ3VwZGtiWjNXTl9jT1ZVdWgwYng0MUE0MDB1SkFiQXpRZjdtZmRRVzNzSXowZmRFdGRmUFNJTnVlbTlMc3FSbEFHYlFON1EzNE9aTEo1MUUtcnVmZ1c1NEVacmlGbEQxX3c3Z2TSAZYBQVVfeXFMT0RwRVJYVy0yaWV4R2JJNElxR1FuYWE1cGU5SUNWNkxxN0NReW9iSGZyV3FtVHlqSEhkazljZ3lwZ1pCS2lYaGY2WkxYTFZFUTZId08zb0pNNEsxV21HYnJqYnl5YkRveHF0dzFZLTdvWE5weXF3TUh1ZnQ2LTZob0VrMWg4SWsxTTNwdG5NdEQzbGR6TS1R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "12ef95bc5139",
+      "title": "GLP-1 drugs like Ozempic might help clear Alzheimer's disease plaques, new review suggests - PsyPost",
+      "published": "2026-08-02T22:18:33+00:00",
+      "summary": "GLP-1 drugs like Ozempic might help clear Alzheimer's disease plaques, new review suggests&nbsp;&nbsp;PsyPost",
+      "sources": [
+        {
+          "name": "PsyPost",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb3dNOWRWZjVXVk80UVlHQ083VGFYNU5XRTc4MGdlSEFlanlUeDNBTG1iTUZ6RW4tX2M1eklaaTFXbTFyMUxaS19iRjlqWkNWalNId3ZITHRVbVlISzl0bFQ1NHdLcm1WVjkxRy0zSWdvUkR5OGhZSjRYLUV5UnVmY1VKLWlCVW9ZTTMwQ25Gb29oa0JzbzU4bmhHUUNZU3VMeE9ZdjMwNDRGbTZxWEFfSUw1Yw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f5fccb1484f0",
+      "title": "Florida leprosy cases reached a record, see where cases are being reported - WEAR-TV",
+      "published": "2026-08-02T22:14:38+00:00",
+      "summary": "Florida leprosy cases reached a record, see where cases are being reported&nbsp;&nbsp;WEAR-TVA 4,000-year-old disease is on the rise in this state thanks to armadillos&nbsp;&nbsp;USA TodayBiblical disease feared for centuries has reached Ohio in 2026&nbsp;&nbsp;Cincinnati EnquirerA biblical disease is back with a vengeance in Florida — experts warn which animal is to blame&nbsp;&nbsp;New York PostFlorida Is Seeing a Leprosy Surge, and Scientists Think These Creatures Are to Blame&nbsp;&nbsp;Peop",
+      "sources": [
+        {
+          "name": "WEAR-TV",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTkxNcE5IS183OHVVZmtwSjFBZEJNRGRyUFRHYlIyRTJZVnZSekR3TzBzSWQ1U0w0U2JrS3JKSTRNY056UXpCYW1QSzlrYVJseWZsWkNWY1JfMGtJMHl2OVdDeWc2S1RmcGxHbGdEZDhQR2JOV05UYjdJZVFrSGpwQm9RMS12WGpoaVk3aVcwX3h2Yk9CUXJPV0wxcmR2d2VjNTRHMFhn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1d88e8f913bf",
+      "title": "A 25-year Northwestern study of people over 80 with memory as sharp as adults decades younger found that diet and exercise habits varied widely among them, but strong social connection was the one trait they consistently shared - Silicon Canals",
+      "published": "2026-08-02T21:46:16+00:00",
+      "summary": "A 25-year Northwestern study of people over 80 with memory as sharp as adults decades younger found that diet and exercise habits varied widely among them, but strong social connection was the one trait they consistently shared&nbsp;&nbsp;Silicon CanalsSuperAgers challenge the DNA destiny narrative&nbsp;&nbsp;Longevity.TechnologyPeople Over 80 with Great Memory Share This, Says Study&nbsp;&nbsp;The Healthy @Reader's DigestMemory Without the Genetic Head Start, a Fiber Fix for Achy Knees, and Why",
+      "sources": [
+        {
+          "name": "Silicon Canals",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX3BqektoQjU3XzVBdk1FOVhzOXpCNmpUa2JsVzhSempSbXlvLTJYMEMwVXluN0dkVjM2dXJ1UGR6QzIyZ3gxYVlsZHJtY0hxb0hlY1JJeUZmSDJpbVJkZnIzMHFLeVNlTGFjZ3NFVFRJOUVvR1NxSnVjMnNsX2RNWFZYc1hubVBhRlYzQW1R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3cb18846b32b",
+      "title": "A mystery virus started killing horses. Then humans. Was this the moment our coronavirus era began? - The Guardian",
+      "published": "2026-08-02T21:25:00+00:00",
+      "summary": "A mystery virus started killing horses. Then humans. Was this the moment our coronavirus era began?&nbsp;&nbsp;The Guardian",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNXRCTmItOThpcG5jNzByYjV4Ti10RmlSOHpvUE91R1VSRG53SGxHUWZyQUNvMTRhODJpaVJrRUQtcDVHZXBDbHpaTzVGcDc2dDJqYThsQzE1VTdzUVlCaVl5YVRZNGF5bVRMYWlRSFNmUXpVUWFNTXlWa0x0RXpicWE4bWtLeTByUVp2dVZrV28wOTk2TXg5RmZZd0ozN2FBaS1BUTRGWUliMHFNendTNzNGd2h2WHkxUjFWenU0eW8yQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fc8eee6ab070",
+      "title": "Early eating habits could have lasting effects on dementia risk, study suggests - Fox News",
+      "published": "2026-08-02T21:18:05+00:00",
+      "summary": "Early eating habits could have lasting effects on dementia risk, study suggests&nbsp;&nbsp;Fox NewsLimiting sugar before age two linked to better brain health&nbsp;&nbsp;BBCOne Childhood Diet Habit Was Linked to a 46% Lower Alzheimer’s Risk&nbsp;&nbsp;NewsweekHow to avoid the sugar hiding in your child’s ‘healthy’ diet&nbsp;&nbsp;The TimesSugar Rationing in Early Life May Reduce Dementia Risk by 23% - News and Statistics&nbsp;&nbsp;IndexBox",
+      "sources": [
+        {
+          "name": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR1kyQUs0bG5FU1FLUFBnU1hTbWZHcjMteVJiRmZjT2VuMXBWYkIzTkdVcDYwcTJfQ0pJUXZLcHhIVmJjelNzYlZGdWV2ZE1RQTl2STVqbVFMR2d0RkZxcnRDVGN6U21hUC03OFVqN0dDOVV2UzhEcm1yOVlkS2tfMkZqbVY2Z1d0RnotZjFwUEVuZVd1M0xQSW5XaXVtOWJhQmRNV0FPc2xlQdIBrwFBVV95cUxPamNIOHE4S01ET3ZuOHE2bHJFeFpZNWpUUFJKbTJTcXAtNkE2ZWViVGdqZkNfNTJQQTBxRF9lbzdGRVJ0MzgxSkY1RlNhSGpwanZQNi1tb1NtSnFxWWNQNzAxUFZxZEVSRVhYQ0owY2FXVlZONjQ4OTVVMzZ5bmJ1RUlTQm01djlYbVpXaHRHeXBkQVpVVjExM3R4UHZmQnllMlRObHE4QlBwZFZoUXlv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4e06054f23c2",
+      "title": "‘Flesh-eating’ bacteria death reported in Florida - WKBN.com",
+      "published": "2026-08-02T19:45:27+00:00",
+      "summary": "‘Flesh-eating’ bacteria death reported in Florida&nbsp;&nbsp;WKBN.comSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "WKBN.com",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY3pESmwyRnNqN1hQbFM3Z3lENlBla0RKTWxmWENkY2NZb1ZENTRkTzZkbV90Yi1UTmpnZG5YWnVYNG9FNkY3b2FOLWVGeU51SW15UDZXRlpCY0lEOWtjbm1XOFdBMEZlc3ZCb3RXYjJ0VFZPUlZNUi1nanIteGZfQjFBeTNnV3dpRy1kZGo3YWVvdVHSAZgBQVVfeXFMT2RveVFCcEN0ajNOci1rSEdmTXFncmgwN2hYUXI2TncwVWgxWGJvWHpVdkU2VnNhQk9uNDcxM0ZTTk1mOG1CenJKZlBkS0xOUGlkRm9yYThTclNRYl9tTUtIdEt0UmxxdHVnVy1QRzZzS2hHZzgtVDNUaFZkZEVtbkJYYWJZWk9ZSHlQVWtVamk3RmR3blNJX2w?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8c0d797d09d8",
+      "title": "Maryland reports 1st human case of West Nile virus this year - WTOP",
+      "published": "2026-08-02T19:33:30+00:00",
+      "summary": "Maryland reports 1st human case of West Nile virus this year&nbsp;&nbsp;WTOPWest Nile virus reported in Maryland&nbsp;&nbsp;WUSA9MD Confirms 1st Human Case Of West Nile Virus Of 2026&nbsp;&nbsp;PatchMaryland confirms first human case of West Nile virus in 2026&nbsp;&nbsp;The Baltimore BannerMaryland Confirms Its First West Nile Case of 2026 but Will Not Say Which County the Patient Lives In&nbsp;&nbsp;Medical Daily",
+      "sources": [
+        {
+          "name": "WTOP",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVFdmRDR1M3pxNDJ2RjFhazlzTnpreDNFTmRkOVVKNVlFMk1DcFJXS3V2YzBadFgyNTFEQUg2XzNRU3IwUHFwd09FZ0VpclVTcl85N2FXMldiSzNzbGt6b1NkZVVPcl9Ec2ZheGNUU1pLU0lIVFRHWWh4Wl9Gekg1RS1KOFRqNzRPMGZrZVAwS1ZMRmpmMUtFUWN2UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "982f4b2ccadd",
+      "title": "Kansas health officials warn of high West Nile virus risk statewide - KCTV",
+      "published": "2026-08-02T18:05:00+00:00",
+      "summary": "Kansas health officials warn of high West Nile virus risk statewide&nbsp;&nbsp;KCTVKansas at high risk of virus that can cause brain damage and death&nbsp;&nbsp;KSNT 27 NewsKansas West Nile Risk High: KDHE Issues Warning&nbsp;&nbsp;AudacyHow to protect yourself as Kansas faces high risk of West Nile virus&nbsp;&nbsp;KWCHKansas at high risk for mosquito transmitted West Nile virus: symptoms, prevention&nbsp;&nbsp;Kansas City Star",
+      "sources": [
+        {
+          "name": "KCTV",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQXzRNcjQyN3QtSW9MUkJjbFV0NXFia3F5Z092S0preFRaWDd3bS1XNjIwakswM2pPNnUwekRmQzV0RnhGUUEyb0tYMHJOZUdFZHJHc1B2b1UxSXNMQVYwcUplenk1X1dxM1hhSnF2c2x1NHVFRmRybjNVVFBWdHUtazd3UmFaRmplejJKbS0waW5sUWdXVndKSEhzVlQ0MWvSAbMBQVVfeXFMT09qbDRWdlhZWS1LcXRzX21HNkRDVnM3WTRLSjJkNnJMbTUzeXVVVHhZaXpqVEZUdnZ2Vl9RY3UzU1N0R2VPQlBtRndQOTc2UTNOSlBGbjl4d3dCTEdHd2ZjLV8zenlrTkpVSWVqOWJmMkN2ZEVnMGk2Ql9KazE4NFhGbk94dXJaUFZhckRYYU1wSFFwRnZoOXlpODI2c2xhOEdzOVplcU94dU5GMmE0ZlZtaWM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f5270ffb8090",
+      "title": "Scientists Tested 17 Human Artery Samples – And Found Microplastics in Every Single One - ScienceAlert",
+      "published": "2026-08-02T15:04:50+00:00",
+      "summary": "Scientists Tested 17 Human Artery Samples – And Found Microplastics in Every Single One&nbsp;&nbsp;ScienceAlertStudy finds alarming level of microplastics in heart attack patients’ blood&nbsp;&nbsp;The Hill84% of heart attack patients had this hiding in their arteries&nbsp;&nbsp;Yahoo CreatorsDr. Ed Domiguez speaks about research linking microplastics to heart attacks, autism symptom reversal in mice&nbsp;&nbsp;KLTV.comMicroplastics Are in Our Bodies. Are They Playing a Role in Heart Attacks?&nb",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdVlPaGlVdzNTVm9XTkcwRmktTlh4MDR3NkZNbXJzSjctbmpfb1YyRlprRGVCajY4aEcyOGR3TmdDaHpHanpjVld3NUVwVlJicXVqZkRuUmFYZzl3RkJoZk1tWW5pSjVrLVRyU3lycEVyVkUzLUliZk1iRDR2YjRpNkx4aXhrTHJzOGY5MllSSXVmelVfSEtuLXRKNEprc3FCbVUwQWhhanA5TDdSbmQ2Vl8wUGo?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aee96137faee",
+      "title": "Without this protein, damaged muscle turns to fat and scar tissue - ScienceDaily",
+      "published": "2026-08-02T13:25:31+00:00",
+      "summary": "Without this protein, damaged muscle turns to fat and scar tissue&nbsp;&nbsp;ScienceDailyTRF2 Preserves Muscle Stem Cell Identity and Drive Repair&nbsp;&nbsp;Neuroscience NewsChromosome-protecting protein may help explain muscle repair and the rarity of muscle cancers&nbsp;&nbsp;Medical XpressThis one protein prevents muscle from turning to fats&nbsp;&nbsp;The Times of IndiaTRF2 protein essential for muscle repair, prevents fat accumulation, study shows&nbsp;&nbsp;ISNA News Agency",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95aHJRZkU4eGRFUmZjaG1oaG8zVVhSWjVWMk16bVNIQkhHWE1qaExjSTEyRFQtMlVBLWpWRlZlSzRwNHdQaFViS3FCZlNxR0RCT0NEVDVxaGV5OTY5OXFobXNWckxnWmFyNFkxVWpyWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e856c88d8f62",
+      "title": "DESI side project reveals the spectra of disintegrated exoplanets - Phys.org",
+      "published": "2026-08-02T12:20:01+00:00",
+      "summary": "DESI side project reveals the spectra of disintegrated exoplanets&nbsp;&nbsp;Phys.orgWhite Dwarfs Eat More Planetary Debris Than Thought, But Magnetic Fields Hide It&nbsp;&nbsp;Universe TodayDESI Side Project Finds Destroyed Exoplanets Look Chemically Like Earth’s Neighborhood&nbsp;&nbsp;techtimes.com'Dead stars' may have surprisingly healthy appetites&nbsp;&nbsp;Phys.orgDead stars, big appetites: Scientists gain new insights into how white dwarfs devour metals&nbsp;&nbsp;starlust.org",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9udnIwejNReUg1dkNMRDM3eUF2NURpSFozNmIzT1ZVWDRyUGN5UzJUQWlNX2VzVWZ5R3NjYS1xSWtzYUJYeVhpQ2VuT1NSQzBuc1FBaDkxQ05iZ29XaVE3TVU5R3dsVjVqbUptcW5GYmZhNGl0alYwaGp6ZVpqZU0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "20a772b97137",
+      "title": "Could This Everyday Vegetable Help Protect Against Cancer? Here’s What Researchers Found - Food & Wine",
+      "published": "2026-08-02T12:01:00+00:00",
+      "summary": "Could This Everyday Vegetable Help Protect Against Cancer? Here’s What Researchers Found&nbsp;&nbsp;Food & Wine",
+      "sources": [
+        {
+          "name": "Food & Wine",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQXzBhTl9yQmIyU3ZHOVBpMnpaLXpfTy1jbE5QNTJjOEw0Rmh0ejNVcVdKeW5Pb3VtUnBKb2djVGJWLWc5MWJPbjFMZ0hZNTE0QnVrTGFzMlRpYjBlVjhnSTlJRGlGd0RsUG5NZzRWX0c2NW1EMS1zdGZLcHhublZZMUlRaGRKQzR3UEJMaVF1bktrUnQ4eVV2LTh5WHVZZ2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b9aebc4a4d0e",
+      "title": "The Best Time to Take Creatine for Brain Health - EatingWell",
+      "published": "2026-08-02T12:00:00+00:00",
+      "summary": "The Best Time to Take Creatine for Brain Health&nbsp;&nbsp;EatingWellSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWk4zeS0zRHRNV3hoTk5YQnhjMWZmZkZYbV9Nc0pTNUQ1UlNYb3VGd2ltRDlfMXE0VXFIVGpnU2VtRzB3YUo5YURkc0ZGa1FCa21OeUxXeDZDLU5UcXZkTWFlUW9zLXRkZjdoY0pINlROcDZYRFpiNWVBbjlJcDNmMDU1NmV2TjVYYkhF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f5c79e989159",
+      "title": "'Natural Protection From Asthma And Allergies': Scientists Isolate Bacteria Behind The Immune System Farm Effect - ScienceAlert",
+      "published": "2026-08-02T11:04:27+00:00",
+      "summary": "'Natural Protection From Asthma And Allergies': Scientists Isolate Bacteria Behind The Immune System Farm Effect&nbsp;&nbsp;ScienceAlertStudy identifies which bacteria trigger the 'farm effect' that makes children less prone to allergies&nbsp;&nbsp;Medical XpressStudy identifies cattle gut bacteria linked to lower asthma and allergy risk&nbsp;&nbsp;ساناAllergy-Reducing Bacteria are Identified&nbsp;&nbsp;Labroots",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMjNTazNHU0tIWkZOMTJHVklNS2l2aXBYX3RacmRRR0RKZzZ1VHZ6QTNPTTRpakxNd3MtSlBGbk5CWTJvRm9FVHAzZTNOR1d6RkNXWVMtUzRjZUxrWUJNR0c3STV2S1dYOFU2VkNRenRVRUkxUlJ0SEJSYk4wRnh1b1RJcktta3pxUTJSRDJYY29WdWpVNU5qeWZCbUJjVGxpUUI3anNBN3VYd3lpOUY4eUoyMkdBWm1hUE9NUk40ZHBKNXFCR1htSll3eTRqdEl4dUt3OQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4ea901103b4f",
+      "title": "If You're Doing This In Your Sleep, It's Time To See A Doctor - Yahoo Health",
+      "published": "2026-08-02T11:00:17+00:00",
+      "summary": "If You're Doing This In Your Sleep, It's Time To See A Doctor&nbsp;&nbsp;Yahoo HealthThe Sleep Apnea Symptoms in Women That Are Often Mistaken for Stress or Menopause&nbsp;&nbsp;Charlotte ObserverCan You Diagnose Sleep Apnea with an Over-the-Counter Test?&nbsp;&nbsp;GQHealthwatch: When snoring is a cause for concern&nbsp;&nbsp;WSLSThe Overlooked Sleep Disorder Affecting Millions of Women and the Subtle Signs They Shouldn’t Ignore&nbsp;&nbsp;Kansas City Star",
+      "sources": [
+        {
+          "name": "Yahoo Health",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEEtUEg3YmJpS05BWENsRTd4UmluY1JPODJtWHhfMEpuU1NmNDZhSDdTOXRfRmE0a1FOdERoUER2eGtkekd5eVFOcDdqcUJGcWhJLU8tLTBrSFdPcDF5SHdyMDh4LU04RTA2MkFxNno2N3cyOFlmZTdvV0NvY2VVMEpCd0w1WnpWY0c2MHVWd20xMjhh?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "349e46076e6f",
+      "title": "Hubble telescope takes one of the most detailed looks at neighboring Andromeda galaxy ever — Space photo of the week - Live Science",
+      "published": "2026-08-02T11:00:00+00:00",
+      "summary": "Hubble telescope takes one of the most detailed looks at neighboring Andromeda galaxy ever — Space photo of the week&nbsp;&nbsp;Live ScienceNASA’s Hubble Shows Star Formation in Andromeda Galaxy Winding Down&nbsp;&nbsp;NASA Science (.gov)Andromeda’s star formation is slowing down&nbsp;&nbsp;Astronomy MagazineMilky Way's neighbour Andromeda Galaxy losing its ability to form new stars: Study | Andromeda Galaxy is about 2.5 mn light-yrs away | Inshorts&nbsp;&nbsp;InshortsHere’s how you can take a l",
+      "sources": [
+        {
+          "name": "Live Science",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNERJbEIwZzFZWlZmZjUwMXBUWVRPNENOMzdMYWRxRTVUeThjREdXaEhzMkhxT1Zob1NhNE5telN4ZE5PZGNGTWtyczFuMHJIR0dzYURhc3dXU1hOSTY0dHI1NkxQcEZsSUptY2JVN0hkSktEdjlMM19lQ0toVkcyTm5YQ2xncWxiWFhHWlVfUzFla3FwUHlUaFpHNGNycEhleGIxd05tRDMtVnRWaUhnUU43YldEUE1lcS1mUFBFZFFXWmVZeEd1c25qR0ROLVpQT181TDE5SEJJQ0Jjcjl5eDFLOWpTLWpod3dRSG5Dcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "49f45f9219b5",
+      "title": "7 Best Cereals to Reduce Heart Disease Risk, According to Cardiologists & Dietitians - EatingWell",
+      "published": "2026-08-02T10:03:04+00:00",
+      "summary": "7 Best Cereals to Reduce Heart Disease Risk, According to Cardiologists & Dietitians&nbsp;&nbsp;EatingWell",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWdrS2hxRTRzeWxwQlZUU080Y3ZiMzRJM1FhTHlwZnVpMHdVQVQ3SHZqaHdtcU5vMFJ3Y1NDSmFtMTBBaGd0QjN1X2loZWJLbEdRTFBMNk9RS05CdkVGSUdlMGlVTWFOb19RTTBJRTF6ZGVzdW9rT0dLX203YzB0VEpIVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "34ee7d935412",
+      "title": "International research team to strengthen Guyana’s fight against leishmaniasis - Guyana Chronicle",
+      "published": "2026-08-02T09:15:15+00:00",
+      "summary": "International research team to strengthen Guyana’s fight against leishmaniasis&nbsp;&nbsp;Guyana Chronicle",
+      "sources": [
+        {
+          "name": "Guyana Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSG9WNmExN01PRGhsWW5ST0pRN1h1VDBsSjlYNVk4bWFCZFktekM2RkZRMG53dXhKM0o4UjBIU0pkMlI5Y0EtOHlrdkpJYXNjd1VjYldrNVV0YW1oQld1SFVNTHZKY1BrdGVPOGhNVVpEeHBjWlI4T1Q2N1Rid21PSmZBVWJYVGtIUmxILS1GTVlPdG5RX1d1WEYxM2l6MTNKeFljRDRFNGpxUzh3QXJVM1RCUUdCLVVx?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b334d2b6698e",
+      "title": "Make a lettuce-free salad, jump for 60 seconds and eat kiwi skin — plus 6 more health tips to help you have a great week - Yahoo Health",
+      "published": "2026-08-02T09:00:00+00:00",
+      "summary": "Make a lettuce-free salad, jump for 60 seconds and eat kiwi skin — plus 6 more health tips to help you have a great week&nbsp;&nbsp;Yahoo Health",
+      "sources": [
+        {
+          "name": "Yahoo Health",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNnFOZzA3MUJFSkFzeUJEcnJyN3k0WnRRR055MXpSVXhreVJhU2hFamM0NlNBMTdsMElUQzJfNlJORUtOSHVTNkZoSFZkaUJudGxLM2hhcmxOU0c0dnkwMUFxSzBwaUx0OW1FQ1pEOHJyX0t2ZGpRekIxeVFGeUltdzZQZ203eFRIMHUzMWxVWElWN2ViUzlmREttZmZrdnk2N1h5ZTlBZFc5QXpfOG9TZWhSN3BNWkdua2ZpT3E5TG9CVVFfVElQLVhHaTVDcmF0RzVmUjFyZUNRYUdDQks2WWY2MWdOZl9YdGNuclJFTGtSeGp5dEZJSmxn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2ae677457e74",
+      "title": "Columbia's Alzheimer's Research Center doctors look for disease's cause through groundbreaking research - ABC7 New York",
+      "published": "2026-08-02T07:00:00+00:00",
+      "summary": "Columbia's Alzheimer's Research Center doctors look for disease's cause through groundbreaking research&nbsp;&nbsp;ABC7 New York",
+      "sources": [
+        {
+          "name": "ABC7 New York",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZW5VMGNpcGd5aUQ2c3E2Y3RJMUp4bHNfT3ZsS0tGbzd4WWw5VEpPU3dQYTdxMXE3clJrUV9zdWIxLUdNcFU2clNHRGJGMVk0dUlGcEpaT21VOVFVMzl6ZXcwRkpOOGNaN0RDa1h2emtMUU9Pek9QZmxJOF9XZEhiMXhKWVFGZFNwR0VBRGlrMlhJOVNqU2lSVmtfTTZ3ZjV3ZGNPRzdIV29oTTFHRFpxdHB2QdIBuAFBVV95cUxPbnAxY3d2azdDSlpJcDdLWFM4VVhLcEE4dXZHRjRieWlGQWpLbXJaLXQzRHNRR0Y3VVFwWXlWX09tTlgtcEtVM3phVXJGanZGRm0wNDZUTkNDaUVVV09ZaklnWkx0SzdKRXhDSmNOMWY4UkpjbDhnOVROQTJuYWduMHRGWUVSbmRqT2FDYVYtSEdZTGt2ZzhBTnpEYktJV1h1RE9Sb29FLUlueTRsUHpWM0dydlFicHBR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "867e338074c0",
+      "title": "Scientists detect a sharp acceleration in global warming - ScienceDaily",
+      "published": "2026-08-02T02:19:49+00:00",
+      "summary": "Scientists detect a sharp acceleration in global warming&nbsp;&nbsp;ScienceDailyIs Global Warming Speeding Up? Scientists Say Earth's Heating Has Entered a Dangerous New Phase&nbsp;&nbsp;Open MagazineEarth is heating up faster than at any time in its history&nbsp;&nbsp;New ScientistEarth's warming rate has accelerated over past decade: Study | Tap to know more | Inshorts&nbsp;&nbsp;InshortsEarth Is Warming At Its Fastest Pace On Record, Study Says&nbsp;&nbsp;indica News",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wZHl3RC1BVzNCaWhwbUtKQXoyeWJTZHBJNjhGWmQyR0E0NjF0by1wZVdNbEIzQTJuZGZ4c0ZxWDBCYmp6a3RmeXVQREVBQUZpWkxQMFp3c21tX0ZmMEJjdHV3am9YYnczdExCTVY3MA?oc=5"
+        }
+      ]
+    }
+  ]
 }

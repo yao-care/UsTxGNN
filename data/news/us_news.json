@@ -1,15 +1,39 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-08-10T01:59:33.028974+00:00",
-  "total_fetched": 117,
+  "fetched_at": "2026-08-10T07:45:43.649109+00:00",
+  "total_fetched": 116,
   "unique_count": 116,
-  "health_related_count": 54,
+  "health_related_count": 55,
   "news": [
+    {
+      "id": "b11302b0b463",
+      "title": "Avoiding these three things could add 13 years of dementia-free life - Euronews",
+      "published": "2026-08-10T05:14:59+00:00",
+      "summary": "Avoiding these three things could add 13 years of dementia-free life&nbsp;&nbsp;EuronewsHow 3 health factors can help delay dementia for up to 13 years&nbsp;&nbsp;NBC NewsPreventing dementia | Healthy midlife habits could delay dementia by up to 13 years, study finds&nbsp;&nbsp;ABC11 NewsAvoiding 3 Things During Middle Age Is Linked to 13 More Years Without Dementia&nbsp;&nbsp;NYU Langone HealthNearly half of dementia cases may be linked to risks you can change&nbsp;&nbsp;ScienceDaily",
+      "sources": [
+        {
+          "name": "Euronews",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0tGSl9Nb3ltZjFLelg5WFBsTUFTWWpfalBiX1plNUJrLVlINW9yQ1ZON3VpNk9sTi13T3d2VksxTXM4c2lvd0xhUHdvSE45Tmw0QnVhR1FDcE5YZ3FPYVZpSUdZU1E4aEY1M21GdmxVdHNQa0tfbmlxWTVoTl9DSS1QSVJKemMyQVIweFVBTE5sS0w5UGdOVW52S3dHVzJTVll0T0pOanMxallBdTlSMThuNWFqZTA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "81d629aff6b2",
+      "title": "Long COVID Patients Have 18% Fewer Dopamine Nerve Endings, Brain Scans Reveal - ScienceAlert",
+      "published": "2026-08-10T01:27:08+00:00",
+      "summary": "Long COVID Patients Have 18% Fewer Dopamine Nerve Endings, Brain Scans Reveal&nbsp;&nbsp;ScienceAlert",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMm05M3pSY0hXcVQ2OXZuR2hzSG9qOXluUDlRMXZrOHozd3dRMjJtcWpaMEZTb3ZTTElRWUpETWZpcEJFckMyZXZzOUNiWVNpSThfNDZDUG5vbE16UmtRNXBORkpiMXJYWVpvSks2UmxRV0tMNVJMRUlPRmh2ZkszZm1PN2dRRmF1QUN1M1VkVzFjUGp0Q1RBNDF3?oc=5"
+        }
+      ]
+    },
     {
       "id": "230cdad42bfb",
       "title": "Human \"biology was never intended to handle\" ultraprocessed foods, former FDA head David Kessler warns - CBS News",
       "published": "2026-08-09T23:00:17+00:00",
-      "summary": "Human \"biology was never intended to handle\" ultraprocessed foods, former FDA head David Kessler warns&nbsp;&nbsp;CBS NewsUltra-Processed Foods: What Are They and Why Do We Eat Them&nbsp;&nbsp;MedscapeWhat Big Food really doesn’t want you to know about ultra-processed snacks&nbsp;&nbsp;BBC Science Focus Magazine6 ultra-processed foods Irish shoppers can eat guilt-free & why they're healthy&nbsp;&nbsp;The Irish SunSummer Friday: Health & Ultraprocessed Food & America's History with God&nbsp;&nbsp",
+      "summary": "Human \"biology was never intended to handle\" ultraprocessed foods, former FDA head David Kessler warns&nbsp;&nbsp;CBS NewsWhat Big Food really doesn’t want you to know about ultra-processed snacks&nbsp;&nbsp;BBC Science Focus MagazineUltra-Processed Foods: What Are They and Why Do We Eat Them&nbsp;&nbsp;Medscape6 ultra-processed foods Irish shoppers can eat guilt-free & why they're healthy&nbsp;&nbsp;The Irish SunSummer Friday: Health & Ultraprocessed Food & America's History with God&nbsp;&nbsp",
       "sources": [
         {
           "name": "CBS News",
@@ -18,38 +42,26 @@
       ]
     },
     {
-      "id": "94e9adda9ff3",
-      "title": "Dr. Maura L. Gillison, Who Linked Throat Cancers to HPV, Dies at 61 - The New York Times",
+      "id": "475ae98c38e8",
+      "title": "Dr. Maura L. Gillison, Who Linked Throat Cancers to HPV, Dies at 61 - nytimes.com",
       "published": "2026-08-09T21:29:45+00:00",
-      "summary": "Dr. Maura L. Gillison, Who Linked Throat Cancers to HPV, Dies at 61&nbsp;&nbsp;The New York Times",
+      "summary": "Dr. Maura L. Gillison, Who Linked Throat Cancers to HPV, Dies at 61&nbsp;&nbsp;nytimes.com",
       "sources": [
         {
-          "name": "The New York Times",
+          "name": "nytimes.com",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NQTlhRTQzakhFSEhJYjZrdUUzdVlfQ2tqMjJLTmUyTll0aFRRamtZUWtZOHpLWENuNFVXN2lQcUlWMzdpaGdsNkJwUnVleHBGRDVqYmR0X0FkN285SEh6MnFFdEVLdFJuTXNsVkZWSFNlbjBUVmFNeTlXbFo?oc=5"
         }
       ]
     },
     {
-      "id": "abfdb6f57c3f",
-      "title": "Experimental Alzheimer's Treatment Restores Two Hours of Sleep When Tested in Mice - ScienceAlert",
+      "id": "85f045bac0e5",
+      "title": "It's Not Amyloid Plaques Stealing Sleep in Alzheimer's – It's Immune Cells - ScienceAlert",
       "published": "2026-08-09T20:02:07+00:00",
-      "summary": "Experimental Alzheimer's Treatment Restores Two Hours of Sleep When Tested in Mice&nbsp;&nbsp;ScienceAlertHow glial cells may drive sleep disruption in Alzheimer’s disease&nbsp;&nbsp;Bioengineer.org",
+      "summary": "It's Not Amyloid Plaques Stealing Sleep in Alzheimer's – It's Immune Cells&nbsp;&nbsp;ScienceAlertHow glial cells may drive sleep disruption in Alzheimer’s disease&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
           "name": "ScienceAlert",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU014eHZBZ2pvb0pXZDFmUGRDNzY2SEx2UmU1eGhKUF9CYUVVRE54MDU0c2JnbjVmVEFFc3p3QmdKQlhaYUMxTnFfcnl1dTNtamg1M1E0cXdpRUZLVFRnVkxqSTlKYjlVaUUtb2gwNmlUS3ZHaXl0ekVfUzJQNUVvbXY5aDJpeDBKdHpXMGx2RVRUM0E3SUpZdDExQW14WWgzeFhQbVRvSDJKQ1BZS2hF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1f843866970e",
-      "title": "NIH Director Dr. Jay Bhattacharya says \"I trust the science\" on childhood vaccines amid measles outbreak - CBS News",
-      "published": "2026-08-09T19:41:00+00:00",
-      "summary": "NIH Director Dr. Jay Bhattacharya says \"I trust the science\" on childhood vaccines amid measles outbreak&nbsp;&nbsp;CBS News",
-      "sources": [
-        {
-          "name": "CBS News",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUTVphVGtlMUdBUEp5bEFfLWJfUGlSbVA5R3VpVjlqWm9KTjhoTzFDRVNBUmRNNVp5ZklGNDJRVllTRHU5OW92bnRISlVacFhjdExXazFQSjV2Mm4ydmg0amhFUFpucThVeUJYdk9tSQ?oc=5"
         }
       ]
     },
@@ -66,14 +78,50 @@
       ]
     },
     {
-      "id": "447555517f68",
-      "title": "Cardiologist names the one superfood that may help lower your cholesterol - RSVP Live",
-      "published": "2026-08-09T18:21:06+00:00",
-      "summary": "Cardiologist names the one superfood that may help lower your cholesterol&nbsp;&nbsp;RSVP LiveEating Avocado May Lower a Key Heart Disease Risk Marker, New Study Finds&nbsp;&nbsp;EatingWellAn avocado for breakfast reduces your heart disease risk&nbsp;&nbsp;wddty.comNot beetroot or berries – this surprising fruit could help lower heart disease risk, new study says&nbsp;&nbsp;Yahoo HealthEating one avocado a day may lower heart disease risk&nbsp;&nbsp;ScienceDaily",
+      "id": "173f09bec6a2",
+      "title": "The autism expert who says people are being misdiagnosed - The Times",
+      "published": "2026-08-09T19:00:00+00:00",
+      "summary": "The autism expert who says people are being misdiagnosed&nbsp;&nbsp;The TimesAutism spectrum disorder: has it lost its meaning and is it leading to misdiagnosis?&nbsp;&nbsp;Cambridge University Press & AssessmentHas the definition of autism become too broad to be useful?&nbsp;&nbsp;Medical XpressAutism Spectrum May Be Too Broad&nbsp;&nbsp;neurosciencenews.comIt’s Time to Stop Looking at Autism, ADHD, and Dyslexia in Isolation&nbsp;&nbsp;European Scientist",
       "sources": [
         {
-          "name": "RSVP Live",
+          "name": "The Times",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ0F5Sjd0eHlaemlZcGpsMV95cWdnZFJsN3hjSmJoMmlDMXI3Wk45YktESXBVTVhsZW9lNGtHbGRMdzdaN19qeEJ6MDM2THZEUDRfWjY3bm9ISi1WV2VCNTRzUzRrRkhCdWYtQUxFUmVPWlNuU0Y5bndpeXJMaV8zMWxOcTc3TGY4SnUwOEhMX0VET2RFeC1lQzFaUVoxR0xvLWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b0cf2b497c16",
+      "title": "Early snakes explored life underground, on land and at sea - Phys.org",
+      "published": "2026-08-09T18:40:01+00:00",
+      "summary": "Early snakes explored life underground, on land and at sea&nbsp;&nbsp;Phys.org80-million-year-old snake brain reveals a surprising evolutionary secret&nbsp;&nbsp;ScienceDaily80-million-year-old snake fossil rewrites the story of snake evolution&nbsp;&nbsp;The Brighter Side of NewsEarly snake Tametara mirim (IMAGE)&nbsp;&nbsp;eurekalert.orgPre-hiss-toric snake evolution&nbsp;&nbsp;PressReader",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrT2JmazBfdHFIYUgtUzNZVnhuVl8yVTdyUDdTLXNSRC1XUEJIS1BvSHFBdklLc0lhRzRGaVB4dHJoUkRhZjcxLWk2bXdkaWdzNGtRYUlsbVE1X2VLUTZZYnNMaTVJZmpsTm85VjR0Z0JJX1FGclpGOUtHVFoxQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6131b49fa0d6",
+      "title": "Cardiologist names the one superfood that may help lower your cholesterol - rsvplive.ie",
+      "published": "2026-08-09T18:21:06+00:00",
+      "summary": "Cardiologist names the one superfood that may help lower your cholesterol&nbsp;&nbsp;rsvplive.ieEating Avocado May Lower a Key Heart Disease Risk Marker, New Study Finds&nbsp;&nbsp;EatingWellAn avocado for breakfast reduces your heart disease risk&nbsp;&nbsp;wddty.comNot beetroot or berries – this surprising fruit could help lower heart disease risk, new study says&nbsp;&nbsp;Yahoo HealthEating one avocado a day may lower heart disease risk&nbsp;&nbsp;ScienceDaily",
+      "sources": [
+        {
+          "name": "rsvplive.ie",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLTdrdkJOczdDTzQyTEhxemsyQjVOR3JTZlpKMkN0cXMyZnhIY3hlcHBfU3J3Y3lDSlpYQlJRdUNpVW9rQURsVzlEbjZlM1lUT1o0MFpuVU1rVWI1eVAwSm55QnBWWDlfaEw5TFBjdTlxUERjcUhuUW94dElkMERfX3FYVHVRX1I2X3fSAY8BQVVfeXFMTV8yTVJhOUJ6WGQ5LVNjOGlDbXplTlJxVU5vZURfWWwzUk1jb25zXzdJZGZidENhM2F5UTJISDl1NFZYcWU4NHJaX0ZaTjlfck5kdDBYamZkb3VKMmNDQVR2V0ZPSGwyQXoxX1lUM2NMR1JCOXhMeWNvSF8tN3AyWWJocXQ3YS1XdWplRnhlalE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "042243f44882",
+      "title": "New catalyst with 75% less platinum promises to reduce the cost of hydrogen fuel cells - Phys.org",
+      "published": "2026-08-09T18:00:01+00:00",
+      "summary": "New catalyst with 75% less platinum promises to reduce the cost of hydrogen fuel cells&nbsp;&nbsp;Phys.orgRadial nanochannel-array carbon enables high-performance intermetallic fuel cell catalysts&nbsp;&nbsp;NatureNew fuel cell breakthrough could help power energy-hungry data centers&nbsp;&nbsp;ScienceDailyWashU fuel cell breakthrough targets data centers that keep draining the grid&nbsp;&nbsp;eGamers.ioPlatinum powers the future (IMAGE)&nbsp;&nbsp;eurekalert.org",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YWkFZUW93YUdtaU9yN0RadGhkM0R4V0x1YlBQMWFxWnQ0TlRTbWt1V1YyQWEzNXpHclhLbTlhV1Joei1vbXJNOEdVWEg4cHZSOUVJSlhNUXZfM0dJVUx6Q2tXbklLM01SYlJOc2FDamtYcVpzelVZaWRkcW4?oc=5"
         }
       ]
     },
@@ -81,7 +129,7 @@
       "id": "e90f175ccb8d",
       "title": "Florida reports another death from flesh-eating bacteria Vibrio vulnificus - WFLA",
       "published": "2026-08-09T17:57:55+00:00",
-      "summary": "Florida reports another death from flesh-eating bacteria Vibrio vulnificus&nbsp;&nbsp;WFLAOutbreak of Vibrio Vulnificus, a Flesh-Eating Bacteria, Kills 5 in Louisiana&nbsp;&nbsp;The New York TimesHealth officials urge caution for Gulf Coast beachgoers during surge of deadly bacterial infections&nbsp;&nbsp;WSB-TVLouisiana warns against flesh-eating bacteria after five deaths&nbsp;&nbsp;NBC NewsMarion County resident dies after contracting rare Vibrio infection, FDOH says&nbsp;&nbsp;WESH",
+      "summary": "Florida reports another death from flesh-eating bacteria Vibrio vulnificus&nbsp;&nbsp;WFLAOutbreak of Vibrio Vulnificus, a Flesh-Eating Bacteria, Kills 5 in Louisiana&nbsp;&nbsp;nytimes.comHealth officials urge caution for Gulf Coast beachgoers during surge of deadly bacterial infections&nbsp;&nbsp;PBSLouisiana warns against flesh-eating bacteria after five deaths&nbsp;&nbsp;NBC NewsMarion County resident dies after contracting rare Vibrio infection, FDOH says&nbsp;&nbsp;WESH",
       "sources": [
         {
           "name": "WFLA",
@@ -105,7 +153,7 @@
       "id": "761831684527",
       "title": "Experts just found a surprisingly easy way to improve your brain at any age - BBC Science Focus Magazine",
       "published": "2026-08-09T17:00:00+00:00",
-      "summary": "Experts just found a surprisingly easy way to improve your brain at any age&nbsp;&nbsp;BBC Science Focus MagazineThe new science of brain workouts, beyond Sudoku and crosswords&nbsp;&nbsp;The Washington PostDo this for 5 to 10 minutes a day to improve your brain at any age, new research shows&nbsp;&nbsp;Fast CompanyHow to rewire your brain: 10 simple habits backed by neuroscience&nbsp;&nbsp;YnetnewsThe ABC's of brain vitality&nbsp;&nbsp;Post and Courier",
+      "summary": "Experts just found a surprisingly easy way to improve your brain at any age&nbsp;&nbsp;BBC Science Focus MagazineThe new science of brain workouts, beyond Sudoku and crosswords&nbsp;&nbsp;The Washington PostI’m an Alzheimer’s Expert—These Are the 6 Things I Never Do&nbsp;&nbsp;NewsweekHow to rewire your brain: 10 simple habits backed by neuroscience&nbsp;&nbsp;YnetnewsThe ABC's of brain vitality&nbsp;&nbsp;Post and Courier",
       "sources": [
         {
           "name": "BBC Science Focus Magazine",
@@ -126,14 +174,50 @@
       ]
     },
     {
+      "id": "06f6a9913a06",
+      "title": "What makes you a mosquito magnet? Scientists tested 450 people to find out - Earth.com",
+      "published": "2026-08-09T16:00:18+00:00",
+      "summary": "What makes you a mosquito magnet? Scientists tested 450 people to find out&nbsp;&nbsp;Earth.comThis Week in Science: Mosquito Magnets, Bonus Benefits of GLP-1s, And More&nbsp;&nbsp;ScienceAlert'I'm being eaten alive!' This healthy habit is making you a magnet for mosquitoes - here's what to do instead&nbsp;&nbsp;Good HousekeepingMosquitoes too swipe ‘right’ on human of their choice—are you a perfect match?&nbsp;&nbsp;Deccan HeraldDoctors say mosquitoes do play favorites; here's why some people a",
+      "sources": [
+        {
+          "name": "Earth.com",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQVNNQmZTY0JxOV9KaWozTDFmOWl2aUQ3TGtNaDgycDJvdHJpRDFqN2F6UHRyS0dRS1ZiNmJZdThDUno1MlB1UnZqWVk1R2sxQy1iRkkzRUNJSTYxNWV6eHdoQ0dXUDIyN08zRGItWWEyc2NDQlFLTVpaWGNLY0pzRXpGTnd2Y0FicGhxalE5V3dIWWNfX3RWU1BjcWRUWXlBNU1j?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0ed18c1c32cc",
       "title": "Low-fat vegan diet cuts dietary energy density by nearly a third, helping explain weight loss - Medical Xpress",
       "published": "2026-08-09T15:40:02+00:00",
-      "summary": "Low-fat vegan diet cuts dietary energy density by nearly a third, helping explain weight loss&nbsp;&nbsp;Medical XpressScientists Find One Diet Cuts Calories Without Reducing How Much You Eat&nbsp;&nbsp;newsweek.comVegan diet ‘beats Ozempic’ for weight loss&nbsp;&nbsp;Female FirstLow-fat vegan diet helps people lose weight without cutting calories study finds&nbsp;&nbsp;TheHealthSiteStudy Points to How Vegan Diets May Aid in Weight Loss&nbsp;&nbsp;MedPage Today",
+      "summary": "Low-fat vegan diet cuts dietary energy density by nearly a third, helping explain weight loss&nbsp;&nbsp;Medical XpressScientists Find One Diet Cuts Calories Without Reducing How Much You Eat&nbsp;&nbsp;NewsweekVegan diet ‘beats Ozempic’ for weight loss&nbsp;&nbsp;Female FirstLow-fat vegan diet helps people lose weight without cutting calories study finds&nbsp;&nbsp;TheHealthSiteStudy Points to How Vegan Diets May Aid in Weight Loss&nbsp;&nbsp;MedPage Today",
       "sources": [
         {
           "name": "Medical Xpress",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jQ2xMamtwam5KdWFfZ0x3eDdvWVNxVTVoek4yeV9yZTF5Sk1UVlptVzRpM21IcjdaM19YN003aUxoNW9FNnJXNjNyZ3Z2Nl9saGhpVnZBNVdDa3U0SmdTeGRyRG9vclc4RXQwZXlhVnpvd20tSU85UGpzcndKQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "84ca417b845e",
+      "title": "Eating More of This Nutrient at Breakfast Could Make Your Whole Day Healthier, New Study Says - EatingWell",
+      "published": "2026-08-09T15:30:00+00:00",
+      "summary": "Eating More of This Nutrient at Breakfast Could Make Your Whole Day Healthier, New Study Says&nbsp;&nbsp;EatingWell",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcnJpbHFoVkNrRzQxM09FSlJSMmp3akpTLXdvT1RtNmNFLUJYNFN2anZhTHJEZTZPTzJfb25jTDNZZWRwVFZQeV83el9aUzUwV0VnMnpXTmRxendpTkpYVXZOdEtVa2FCLVU4cUo5ejVSeEFpQVRTT3VpQW5ROGRkRXpDSmc0dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "143b165adb87",
+      "title": "This Simple Daily Habit May Ease Pain and Depression - SciTechDaily",
+      "published": "2026-08-09T14:52:30+00:00",
+      "summary": "This Simple Daily Habit May Ease Pain and Depression&nbsp;&nbsp;SciTechDaily",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY3lRT09yUEthb2V3YzZfVmZnOV9oVWlrc0ZJVk8yQ0xDaU5ndGJZV3M2NnJqbGtCUWtRRjh1LXkyNWc0MWJaalFXWlN4TzVwSGl6eUU2Q0RvSXhOckFJNjJ2Ymw0YWF5cy1nNDVVelB3OHVVWDBubllGOTREQzdnVmpfYW4?oc=5"
         }
       ]
     },
@@ -153,7 +237,7 @@
       "id": "87ede2b7347f",
       "title": "Poop pills may be the future of treating peanut allergies: study - New York Post",
       "published": "2026-08-09T14:15:00+00:00",
-      "summary": "Poop pills may be the future of treating peanut allergies: study&nbsp;&nbsp;New York PostFecal transplant capsules may offer a new way to treat peanut allergy&nbsp;&nbsp;ZME ScienceSwallowing faecal capsules reduces peanut allergy in six adults&nbsp;&nbsp;New ScientistFecal transplant increases tolerance to peanuts sixfold in small food allergy trial&nbsp;&nbsp;fiercebiotech.comAdjusting gut bacteria may help with peanut allergies: Pilot study&nbsp;&nbsp;The Straits Times",
+      "summary": "Poop pills may be the future of treating peanut allergies: study&nbsp;&nbsp;New York PostFecal transplant capsules may offer a new way to treat peanut allergy&nbsp;&nbsp;ZME ScienceSwallowing faecal capsules reduces peanut allergy in six adults&nbsp;&nbsp;New ScientistFecal transplant increases tolerance to peanuts sixfold in small food allergy trial&nbsp;&nbsp;Fierce BiotechAdjusting gut bacteria may help with peanut allergies: Pilot study&nbsp;&nbsp;straitstimes.com",
       "sources": [
         {
           "name": "New York Post",
@@ -162,10 +246,22 @@
       ]
     },
     {
+      "id": "e2366142bc95",
+      "title": "New study finds bacterial infections affect about 1 in 20 hospitalized adults with firearm injuries - Medical Xpress",
+      "published": "2026-08-09T13:40:02+00:00",
+      "summary": "New study finds bacterial infections affect about 1 in 20 hospitalized adults with firearm injuries&nbsp;&nbsp;Medical XpressBacterial infections affect 1 in 20 adults hospitalized with firearm injuries&nbsp;&nbsp;Bioengineer.org",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdTk1dG5PNFllTmEzeDVlRGRUSnItMDc2dGJTWWdSaXlleE9hWm9DV25CY1ZWUGg0WGRrNi11aUh2VG5XRkZ0MEF1OWI1Vmp0cFBQMV9wZEIyYXNUZWVfY0J5dlVjYVI2Y09JTDJXOGcyLWNXeEw2VzEtdHlNUFpOQjNLakxGQTg3Mlo0cmtjcS1MN2ljUnc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3411ba32c39f",
       "title": "Fitness expert reveals one simple exercise for a stronger core — and it’s not a sit-up - Fox News",
       "published": "2026-08-09T13:00:09+00:00",
-      "summary": "Fitness expert reveals one simple exercise for a stronger core — and it’s not a sit-up&nbsp;&nbsp;Fox NewsThe 4 Best Core Workouts to Hit Your Abs From Every Angle&nbsp;&nbsp;GQ4 Core Exercises Fitness Experts Say Can Flatten Your Stomach Better Than Crunches&nbsp;&nbsp;Yahoo HealthYou don’t need any equipment to strengthen your deep core—just these three exercises&nbsp;&nbsp;Fit&amp;WellWant to get abs? This one easy yoga move is better than 100 sit-ups, according to experts&nbsp;&nbsp;Cosmopol",
+      "summary": "Fitness expert reveals one simple exercise for a stronger core — and it’s not a sit-up&nbsp;&nbsp;Fox NewsThe 4 Best Core Workouts to Hit Your Abs From Every Angle&nbsp;&nbsp;GQA personal trainer shares his four favorite core exercises to do with a medicine ball&nbsp;&nbsp;Fit&amp;WellWant to get abs? This one easy yoga move is better than 100 sit-ups, according to experts&nbsp;&nbsp;CosmopolitanThe flat stomach exercise that could be causing lower back pain&nbsp;&nbsp;InYourArea",
       "sources": [
         {
           "name": "Fox News",
@@ -177,7 +273,7 @@
       "id": "a53d0b05f4ff",
       "title": "For decades, we were told to choose low-fat dairy. New research says otherwise - ScienceDaily",
       "published": "2026-08-09T12:14:58+00:00",
-      "summary": "For decades, we were told to choose low-fat dairy. New research says otherwise&nbsp;&nbsp;ScienceDailyCheese-Lovers Unite: The Benefits of Full-Fat Dairy Documented in Study Without Cholesterol Rise or Weight Gain&nbsp;&nbsp;Good News NetworkFull-fat dairy cleared in new study challenging diet advice&nbsp;&nbsp;dairyreporter.comNew Research Questions Decades of Low-Fat Dairy Advice&nbsp;&nbsp;SciTechDailyThree Daily Servings of Full-Fat Dairy Did Not Worsen Cholesterol or Body Composition in a 1",
+      "summary": "For decades, we were told to choose low-fat dairy. New research says otherwise&nbsp;&nbsp;ScienceDailyWhy Full-Fat is Back in Favour&nbsp;&nbsp;MiNDFOODCheese Lovers Unite: The Benefits of Full-Fat Dairy Documented in Study Without Cholesterol Rise or Weight Gain&nbsp;&nbsp;Good News NetworkFull-Fat Dairy May Actually Be Healthy, Not Harm Weight or Cholesterol, Study Finds&nbsp;&nbsp;Health and MeNew Research Questions Decades of Low-Fat Dairy Advice&nbsp;&nbsp;SciTechDaily",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -189,7 +285,7 @@
       "id": "9f0551b71ffd",
       "title": "Patients in Illinois starting to receive experimental pancreatic cancer drug: ‘Game changer’ - Chicago Tribune",
       "published": "2026-08-09T11:00:17+00:00",
-      "summary": "Patients in Illinois starting to receive experimental pancreatic cancer drug: ‘Game changer’&nbsp;&nbsp;Chicago TribunePancreatic cancer drug now available in Cleveland offers new hope&nbsp;&nbsp;WKYCLetter to the editor: Good news for patients — and a reminder of what’s at stake&nbsp;&nbsp;NH Business ReviewBreakthrough Drug Brings Hope to Utah Grandfather with Pancreatic Cancer&nbsp;&nbsp;University of Utah HealthRecent advances in pancreatic cancer treatment&nbsp;&nbsp;South Carolina Public R",
+      "summary": "Patients in Illinois starting to receive experimental pancreatic cancer drug: ‘Game changer’&nbsp;&nbsp;Chicago TribunePancreatic cancer drug now available in Cleveland offers new hope&nbsp;&nbsp;WKYCLetter to the editor: Good news for patients — and a reminder of what’s at stake&nbsp;&nbsp;NH Business ReviewBreakthrough Drug Brings Hope to Utah Grandfather with Pancreatic Cancer&nbsp;&nbsp;University of Utah HealthNew drug delivers promising survival gains in pancreatic cancer&nbsp;&nbsp;News-M",
       "sources": [
         {
           "name": "Chicago Tribune",
@@ -198,14 +294,14 @@
       ]
     },
     {
-      "id": "9a68b28d76ad",
-      "title": "Want more dementia-free years? A new study points to 3 clues - MLive.com",
-      "published": "2026-08-09T10:00:00+00:00",
-      "summary": "Want more dementia-free years? A new study points to 3 clues&nbsp;&nbsp;MLive.comAvoiding these 3 risk factors might buy you 13 more dementia-free years&nbsp;&nbsp;The Washington PostHow 3 health factors can help delay dementia for up to 13 years&nbsp;&nbsp;NBC NewsPreventing dementia | Healthy midlife habits could delay dementia by up to 13 years, study finds&nbsp;&nbsp;ABC11 NewsAvoiding 3 Things During Middle Age Is Linked to 13 More Years Without Dementia&nbsp;&nbsp;nyulangone.org",
+      "id": "ca01f2abfb74",
+      "title": "\"I Drink Black Coffee Daily,\" Says Oncologist; 6 Reasons Why You Should Too - NDTV",
+      "published": "2026-08-09T10:54:23+00:00",
+      "summary": "\"I Drink Black Coffee Daily,\" Says Oncologist; 6 Reasons Why You Should Too&nbsp;&nbsp;NDTVHow much coffee is too much coffee for your health?&nbsp;&nbsp;The StarItalian Study Says Espresso and Moka Pot May Reduce This Liver Disease&nbsp;&nbsp;dailycoffeenews.comA Coffee A Day Keeps The Doctor Away?&nbsp;&nbsp;ForbesGood news for coffee drinkers in the latest research on coffee and caffeine consumption&nbsp;&nbsp;KERA News",
       "sources": [
         {
-          "name": "MLive.com",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNVFxQW1oT2ZPZXNjUnplaEZTSDlzZEFFRTlnTEo1TndDN3E0NVFwSFJBMlpHU3czNi1WYjJxU2prd1AxY2NjMHR5VmNsSktvNi1wNWpLTlpQa1JPcUVPTGJjcXlDeUFtS2JxM2xVd19JaFJQM2hlTW9xTU5RYmkwdHpZQ3pmWVlIendQOGxwUmlNUUo2cjFaamNHaEVNSGRX0gG0AUFVX3lxTE1NdEJxU2ZqOVgzUGxLYWJzTWxuYW9IZDNnc3BsSUZoSUcxR0w4M3hUeVVpTVBLWDFobklKMDFuWXVwVldLNldhQTNoYW8tb2hOdmJoN1ZxSWlnV0UzRHdGWGtuTlVnTEcybnhpSm9tZmZyaGpNTGVrRXhxdnBZVmNZZDlmMUNmRE8tQzJneHFKNlRCUE9BLWxxc0ttZTA0UFFDczg0a0RFYmJvY0RDSFVLMDluaw?oc=5"
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLXVwSFN4UFlnQ05zQ3l4NFhoVnpsMWFmMVcxbGJhYjRsQUlhODJxX1kxSjZtb0lVU295WFBjNnd2UUZ1REhvLXhxX0JTLTVCX05iMlJCc21DX3d1Mk5mcXM0bWk1d0o3dExIeEtBWlducjhwbm5RNE82Nk93bmJpRmNtNnJqdEd4ZmcxWW41WkF4NzVmZXlRREdjNDlmc3JJS2dza3BqOThGWnh5cWNlRTBrdTdUTjhoMkZtOU1LdjM?oc=5"
         }
       ]
     },
@@ -230,18 +326,6 @@
         {
           "name": "Tom's Guide",
           "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUm5EWGV3Tk9MQnpvXzFJbjE4aEFCOTVzREp0a0V0RU1QUTRqeUxjTHVDUktOWXhOZWtyYm9BRGJ4aEpjdUk4ZklZN0hWdWpoMHdiblBFWi1EUWJJeDVUSUx6NzRvS1h6bG9SSVZRMTV1ZTRHSUNSNVNtX3lGdVFVTXVxR0NPNmY3cVhOM3pHcVczNHJPMHJ2Z3owa3Q0SElFNXpLZzluVzdsWFBNXzhyLUVZVW04RGFZLWxEUzdCOElnZ19tZVVQOWNUZlRTTkZkdlpJYkRmMmlFQjR0Z0o4T21qZEZHbUpMNmV3NEtjZWFjSkJ2LV9XQg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9abacee06f16",
-      "title": "False claims about sunscreen gaining traction online - The Independent",
-      "published": "2026-08-09T09:10:00+00:00",
-      "summary": "False claims about sunscreen gaining traction online&nbsp;&nbsp;The IndependentWhy misguided influencers are wrong to ditch sunscreen during Europe’s record-breaking heatwave&nbsp;&nbsp;The IndependentNo, there's no proof sunscreen increases cancer risk&nbsp;&nbsp;France 24",
-      "sources": [
-        {
-          "name": "The Independent",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUmMzT2hOZWtIb1J6SHFyZ0hyaU9XY0x2a1RuQko2Y2NON1Jod1B5b3lzSlZJeGY3VHVBWmhBN1BBLUJmZlExM010Ymxrb0puaE1rNzUyVURBMDNYUHBPMC15R3EzNXNIQ0hjUDhQYnFXOG56NWJXcUxLZkgxRDVpYXpjV2wwZmRzQnQtZVRScHJHRmF3OFZVbjl3?oc=5"
         }
       ]
     },
@@ -297,7 +381,7 @@
       "id": "254a92fe5726",
       "title": "A Simple Change to Sleep Directly Boosts Academic Performance, Study Reveals - ScienceAlert",
       "published": "2026-08-09T02:02:57+00:00",
-      "summary": "A Simple Change to Sleep Directly Boosts Academic Performance, Study Reveals&nbsp;&nbsp;ScienceAlertSleep quality shapes teens' school performance, study finds&nbsp;&nbsp;Euronews.comStudy: Poor Sleep Shows Strongest Link To Teen Mental Health, Grades&nbsp;&nbsp;StudyFindsIncentives to Sleep Boost College Students’ Grades, New Study Finds | Newswise&nbsp;&nbsp;NewswiseWhat If Success Depends More on Sleep Than Talent?&nbsp;&nbsp;Innovators Magazine",
+      "summary": "A Simple Change to Sleep Directly Boosts Academic Performance, Study Reveals&nbsp;&nbsp;ScienceAlertStudy: Poor Sleep Shows Strongest Link To Teen Mental Health, Grades&nbsp;&nbsp;StudyFinds19 extra minutes of sleep helped students perform better in class, study finds&nbsp;&nbsp;The Indian ExpressThe late-night habit many students swear by: What researchers discovered may surprise you&nbsp;&nbsp;The Times of IndiaQuality sleep could help with school success&nbsp;&nbsp;whas11.com",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -309,7 +393,7 @@
       "id": "b5dd650fc38a",
       "title": "Scientists Say Eating Less Protein May Help You Live Longer - SciTechDaily",
       "published": "2026-08-09T01:18:44+00:00",
-      "summary": "Scientists Say Eating Less Protein May Help You Live Longer&nbsp;&nbsp;SciTechDailyCan Eating Less Protein Help You Live Longer? Studies Offer Clues&nbsp;&nbsp;healthline.comYou actually need less protein than you think, study suggests&nbsp;&nbsp;USA TodayLongevity and protein: Restricting 3 amino acids may help extend life&nbsp;&nbsp;Medical News TodayCould Eating Less Protein Help You Age Better and Live Longer?&nbsp;&nbsp;Time Magazine",
+      "summary": "Scientists Say Eating Less Protein May Help You Live Longer&nbsp;&nbsp;SciTechDailyCan Eating Less Protein Help You Live Longer? Studies Offer Clues&nbsp;&nbsp;HealthlineYou actually need less protein than you think, study suggests&nbsp;&nbsp;USA TodayEating less protein could slow aging, major review finds&nbsp;&nbsp;ScienceDailyCould Eating Less Protein Help You Age Better and Live Longer?&nbsp;&nbsp;Time Magazine",
       "sources": [
         {
           "name": "SciTechDaily",
@@ -318,14 +402,14 @@
       ]
     },
     {
-      "id": "388c374709c4",
-      "title": "What if The Brain Doesn't Create Consciousness? Scientist Proposes It Might Be The Fabric of Reality Itself - Yahoo",
-      "published": "2026-08-09T00:00:00+00:00",
-      "summary": "What if The Brain Doesn't Create Consciousness? Scientist Proposes It Might Be The Fabric of Reality Itself&nbsp;&nbsp;Yahoo",
+      "id": "4dd9986763d6",
+      "title": "What if The Brain Doesn't Create Consciousness? Scientist Proposes It Might Be The Fabric of Reality Itself - ScienceAlert",
+      "published": "2026-08-09T00:02:26+00:00",
+      "summary": "What if The Brain Doesn't Create Consciousness? Scientist Proposes It Might Be The Fabric of Reality Itself&nbsp;&nbsp;ScienceAlert",
       "sources": [
         {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVmJvMHkyb2czVWlQR2hiZVRhaENEeTk1UkFvVmQ4QU5SQlJId3BUSHVaQ082RjVSbDJPY1R1c1RydVRqYXFxSlNpV1ozbUxCZDE0eGhRY1ZHYnJCY3FBTS16OVBTM2JtZnktZmpPV2FFLWZxblZwVDZBd0kwbnBGZENlRnQyWnphaG04NVpfSnBCQnhJS2J6MFowOFRxX1RPNTJuQQ?oc=5"
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeFE1eWlXaVhoc3A4QThhYVBmQnNiQTBzbVFsUzR6YXNVVXR5Nm11OHdrUDJnall2Ri1zbzFzcDk0RlE4UzFvZWJaMkJqSU5YMElZX3I2NmwyVWNyaDZHWDhwWlRIS25RSmowYjN4cVd5bm5VV2ZGSnVUMVRXQWxFNzNybF83cHBXTlpja1J3RnQ4SmdENzRLNjhRSE0wSTBISy1TTW9haEpMN0RVZ2lLSEhQamhVSzVYTFkxVWV4RWg5SkNDV0NUdThLMENOS0E?oc=5"
         }
       ]
     },
@@ -333,7 +417,7 @@
       "id": "74a9ea2dec6b",
       "title": "How weight-loss medication is changing relationships with alcohol - BBC",
       "published": "2026-08-08T23:30:06+00:00",
-      "summary": "How weight-loss medication is changing relationships with alcohol&nbsp;&nbsp;BBCSemaglutide: A New Treatment Option for AUD?&nbsp;&nbsp;MedscapeOzempic Could Fight Addiction Too – Scientists Finally Know How&nbsp;&nbsp;SciTechDailyDurham VA joins national trial testing GLP-1 medications for alcohol use disorder&nbsp;&nbsp;ABC11 NewsA New Use for a Familiar Medication? | North Shore Journal | Two Harbors, Silver Bay & Lake Superior&nbsp;&nbsp;northshorejournal.co",
+      "summary": "How weight-loss medication is changing relationships with alcohol&nbsp;&nbsp;BBCSemaglutide: A New Treatment Option for AUD?&nbsp;&nbsp;MedscapeOzempic Could Fight Addiction Too – Scientists Finally Know How&nbsp;&nbsp;SciTechDailyCould GLP-1s curb problem drinking? Minneapolis VA is finding out&nbsp;&nbsp;Star TribuneCU Anschutz clinical trial finds GLP-1s help curb alcohol use disorder&nbsp;&nbsp;9News",
       "sources": [
         {
           "name": "BBC",
@@ -357,11 +441,23 @@
       "id": "68f24fabd43c",
       "title": "People With Dog Allergies Can Snuggle Up to These 2 Beagles - Newser",
       "published": "2026-08-08T21:25:00+00:00",
-      "summary": "People With Dog Allergies Can Snuggle Up to These 2 Beagles&nbsp;&nbsp;NewserGene-edited beagles may be future of allergy-free dogs, company claims&nbsp;&nbsp;USA TodayCRISPR used gene-editing to create a hypoallergenic beagle&nbsp;&nbsp;YahooGene-edited beagles may offer a future option for people with dog allergies&nbsp;&nbsp;Brooklyn EagleCould Dog Allergies Soon Be a Thing of the Past? Researchers Are Exploring a Surprising Solution&nbsp;&nbsp;pethelpful.com",
+      "summary": "People With Dog Allergies Can Snuggle Up to These 2 Beagles&nbsp;&nbsp;NewserGene-edited beagles may be future of allergy-free dogs, company claims&nbsp;&nbsp;USA TodayKindred Companion Sciences Unveils First Dogs Genetically Edited to Remove the Major Dog Allergen&nbsp;&nbsp;Business WireScientist uses gene-editing to breed dog that won’t trigger his allergies&nbsp;&nbsp;YahooGene-edited beagles may offer a future option for people with dog allergies&nbsp;&nbsp;Brooklyn Eagle",
       "sources": [
         {
           "name": "Newser",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbFd4WlNZYjZUQWxTakowVjNaTFpINnNlUk9CQkRJNVllVHloV0wxZ3B0MkR2S21KRUdhVjRkQkZVR1ZqVEh2a1lteUdYelVYOTBRQ0xCZGNQTGVxaWJnUEVQckk5QTBUS3NfdHdHTGp0dF9HM0lJQU05RGgxclZsd0tvdV9IWnp5R24wdl9kZ3VCV1dPR2hNNjFjUW5TNjR1Ukswdg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bcd1396daddf",
+      "title": "There's a Hidden Risk of Letting AI 'Discover' New Biology - ScienceAlert",
+      "published": "2026-08-08T21:01:36+00:00",
+      "summary": "There's a Hidden Risk of Letting AI 'Discover' New Biology&nbsp;&nbsp;ScienceAlert",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRU1qMkVBTXYyLVZ5bXFrWXFxUnMyTXVjRlk0VTFZR0pCakEybC1MYmhhcE4xeEpnb1huU2xkTGlyNmIxalpxV2k1Z1ROVmJRQ0dtVlZ2ak1HSmRGN2hfS0tXaDh0YkZDMEJyNENqZUdSQ3JRckkxanduM09UV2hLb0xleTJaLXhRY3c2clEzQkdPTEFRVkhkOUVn?oc=5"
         }
       ]
     },
@@ -393,7 +489,7 @@
       "id": "08dbd8075068",
       "title": "It's Not Just Mom's Diet: Father's Junk Food Habit May Shape His Unborn Baby - ScienceAlert",
       "published": "2026-08-08T19:01:38+00:00",
-      "summary": "It's Not Just Mom's Diet: Father's Junk Food Habit May Shape His Unborn Baby&nbsp;&nbsp;ScienceAlertStudy: A Father's Pre-Pregnancy Diet May Shape a Baby's Health...&nbsp;&nbsp;jordannews.joReady For Kids? Here’s Why Dads-To-Be Should Avoid Junk Food Before Conception&nbsp;&nbsp;StudyFindsWhy Dad’s Love for Chips Is to Blame for Baby’s Chubby Tummy&nbsp;&nbsp;NEWS.am STYLE",
+      "summary": "It's Not Just Mom's Diet: Father's Junk Food Habit May Shape His Unborn Baby&nbsp;&nbsp;ScienceAlertStudy: A Father's Pre-Pregnancy Diet May Shape a Baby's Health...&nbsp;&nbsp;jordannews.joReady For Kids? Here’s Why Dads-To-Be Should Avoid Junk Food Before Conception&nbsp;&nbsp;StudyFindsWhy Dad’s Love for Chips Is to Blame for Baby’s Chubby Tummy&nbsp;&nbsp;style.news.am",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -417,7 +513,7 @@
       "id": "35715fbde2ec",
       "title": "The sneaky kind of cholesterol that may be threatening your heart health - The Washington Post",
       "published": "2026-08-08T17:00:01+00:00",
-      "summary": "The sneaky kind of cholesterol that may be threatening your heart health&nbsp;&nbsp;The Washington PostWhy knowing your cholesterol numbers matters&nbsp;&nbsp;MessageMedia.coCholesterol: More Than Just a Number&nbsp;&nbsp;newswav.comWhy It is Important to Understand Dyslipidaemia&nbsp;&nbsp;TheWire.in",
+      "summary": "The sneaky kind of cholesterol that may be threatening your heart health&nbsp;&nbsp;The Washington PostCholesterol: More Than Just a Number&nbsp;&nbsp;NewswavWhy knowing your cholesterol numbers matters&nbsp;&nbsp;MessageMedia.co",
       "sources": [
         {
           "name": "The Washington Post",
@@ -426,10 +522,22 @@
       ]
     },
     {
+      "id": "12275cfe9f26",
+      "title": "7 inexpensive sources of fiber to add to your grocery list - The Washington Post",
+      "published": "2026-08-08T17:00:00+00:00",
+      "summary": "7 inexpensive sources of fiber to add to your grocery list&nbsp;&nbsp;The Washington PostFibermaxxing? Your microbes (and your health) say thanks.&nbsp;&nbsp;Knowable Magazine6 Foods with More Fiber Than a Slice of Whole-Grain Bread, According to Dietitians&nbsp;&nbsp;EatingWell5 Surprising Ways Eating More Fiber Can Backfire—and How to Avoid Them&nbsp;&nbsp;Real SimpleIs fibermixxing the new fibermaxxing?&nbsp;&nbsp;FoodNavigator.com",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZEh0cld3bjQ1bElCcGlMX0pLWHVYdmktdC1Bc2xiZ1NLY2poMi11eDJzLTV6MjNXSzMxQXo2R1hjYTJKSTRCSUg1bURkcVhYdXJOcjFoekNVTXFXNm9vMG9FX0ItRzNMdzRmMlJ1WUItVlNiQnZ0bUl4bzNQclhmWmxzUGV5WE5EM0hvSThMcHFQWU5HUnkyQWpheVU4ZjdBQk1z?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8b79fb52737c",
       "title": "The sharpest pictures ever taken of the Sun show it swirling - Boing Boing",
       "published": "2026-08-08T16:15:00+00:00",
-      "summary": "The sharpest pictures ever taken of the Sun show it swirling&nbsp;&nbsp;Boing BoingUbiquitous Kelvin–Helmholtz instabilities driving plasma mixing on the Sun&nbsp;&nbsp;NatureUnprecedented images reveal hidden process driving solar activity&nbsp;&nbsp;CNNNSF Inouye Solar Telescope Enables Major Discovery of a Hidden Solar Process - NSO&nbsp;&nbsp;NSO - National Solar ObservatoryTiny Vortices Discovered on the Sun’s Surface&nbsp;&nbsp;Max-Planck-Gesellschaft",
+      "summary": "The sharpest pictures ever taken of the Sun show it swirling&nbsp;&nbsp;Boing BoingUbiquitous Kelvin–Helmholtz instabilities driving plasma mixing on the Sun&nbsp;&nbsp;NatureUnprecedented images reveal hidden process driving solar activity&nbsp;&nbsp;CNNNSF Inouye Solar Telescope Enables Major Discovery of a Hidden Solar Process - NSO&nbsp;&nbsp;nso.eduTiny Vortices Discovered on the Sun’s Surface&nbsp;&nbsp;mpg.de",
       "sources": [
         {
           "name": "Boing Boing",
@@ -438,22 +546,10 @@
       ]
     },
     {
-      "id": "8f2eae0b543e",
-      "title": "Scientist Reveals Plan to Save Earth From Destruction by the Sun - Futurism",
-      "published": "2026-08-08T15:01:00+00:00",
-      "summary": "Scientist Reveals Plan to Save Earth From Destruction by the Sun&nbsp;&nbsp;FuturismHow to keep the Earth habitable when the sun dies&nbsp;&nbsp;phys.orgSunshades And Orbital Engineering: How Earth's Creatures Could Survive The End Of The Sun And Watch The Universe Die Out&nbsp;&nbsp;IFLScienceEarth Has a Billion Years Left. This Plan Could Stretch It to 9 Quadrillion&nbsp;&nbsp;GizmodoEarth faces cosmic deadline in a billion years. A researcher has a plan to keep us alive.&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "Futurism",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01N2NvNXdwS2ZUX0YwcnkwbGs4RTh6cDJjTzQ2ZTgxYWdWTl9ZdEtpdWhaNFVVVjFQTUxRRXdMTkZabVljWGx2ZXJNRFJxT21xUjVDSGM5WnZ1ZHdUR05OcU43SnI0Wkdjd3libmp3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7cf8209d3b20",
       "title": "How melatonin can mess with kids’ sleep — and may impact memory, learning and emotional development - New York Post",
       "published": "2026-08-08T14:36:00+00:00",
-      "summary": "How melatonin can mess with kids’ sleep — and may impact memory, learning and emotional development&nbsp;&nbsp;New York PostMelatonin use linked to less REM sleep in children&nbsp;&nbsp;Earth.comCommon Sleep Aid for Children Raises New Questions About Developing Brains&nbsp;&nbsp;University of MiamiMelatonin Use Not Associated With Major Changes in Children's Sleep Architecture: JAMA&nbsp;&nbsp;Medical DialoguesMelatonins Impact on Childrens Sleep Architecture&nbsp;&nbsp;Mirage News",
+      "summary": "How melatonin can mess with kids’ sleep — and may impact memory, learning and emotional development&nbsp;&nbsp;New York PostMelatonin use linked to less REM sleep in children&nbsp;&nbsp;Earth.comMelatonin Use Not Associated With Major Changes in Children's Sleep Architecture: JAMA&nbsp;&nbsp;Medical DialoguesMelatonins Impact on Childrens Sleep Architecture&nbsp;&nbsp;miragenews.comStudy Examines How Melatonin Affects Children’s Sleep Architecture&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
           "name": "New York Post",
@@ -462,50 +558,14 @@
       ]
     },
     {
-      "id": "b0efe0064148",
+      "id": "dbab41d1dd35",
       "title": "How to Go to Sleep Fast (and Stay Down for the Night) - GQ",
       "published": "2026-08-08T13:56:37+00:00",
-      "summary": "How to Go to Sleep Fast (and Stay Down for the Night)&nbsp;&nbsp;GQMelatonin vs. magnesium: Which is better for your sleep?&nbsp;&nbsp;The Washington PostThese 3 Science-Backed Sleep Habits Could Finally Help You Beat Chronic Insomnia, According to a Harvard Sleep Expert&nbsp;&nbsp;Men's JournalDid you know warm baths can help you fall asleep? Physician Dr Kunal Sood shares 4 tips to improve sleep quality&nbsp;&nbsp;Hindustan TimesLive Whole Health #329: A simple sleep routine for snoozing smart",
+      "summary": "How to Go to Sleep Fast (and Stay Down for the Night)&nbsp;&nbsp;GQMelatonin vs. magnesium: Which is better for your sleep?&nbsp;&nbsp;The Washington PostThree Ways to Beat Chronic Insomnia Without Medication Have Been Named&nbsp;&nbsp;Baku.wsDid you know warm baths can help you fall asleep? Physician Dr Kunal Sood shares 4 tips to improve sleep quality&nbsp;&nbsp;Hindustan TimesLive Whole Health #329: A simple sleep routine for snoozing smarter&nbsp;&nbsp;VA News (.gov)",
       "sources": [
         {
           "name": "GQ",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12dVpSNUZuNGVxQmZpeHh0NVAwMzI1TElLYl9lM1QtVmc0QlRqYV9DZjRuLWh5aWE3Z3lFNDFoNzlvZ0dyU3FWSzBpYVlGYS1JaGNEVDA4UGxQbkktT3ZJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d496b81cadea",
-      "title": "Across the US, 'the Ticks Are Winning' - Newser",
-      "published": "2026-08-08T13:50:00+00:00",
-      "summary": "Across the US, 'the Ticks Are Winning'&nbsp;&nbsp;NewserKill the Ticks&nbsp;&nbsp;The AtlanticTick season ramps up in Kentucky as experts warn of rising risks&nbsp;&nbsp;Eyewitness News (WEHT/WTVW)What doctors want patients to know about tickborne illnesses&nbsp;&nbsp;American Medical Association | AMAMy Husband Found an Unwelcome Visitor in Our Bed. It’s a Threat That’s Coming for All of Us.&nbsp;&nbsp;Slate Magazine",
-      "sources": [
-        {
-          "name": "Newser",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObVRmVlBkRHZaSDFNY0RlVnhZazVCcnZ6cGY5RlhORW9RSzNGYUJXcHRDLV9nYUR1cXVrZDViNWJxUXh6VVlfRXAwRmRmQ0JEODVMZWUxek5WeVYyYnVDWENfZ05pRUZ5UmdIQy1MTFZ0QmtmdHZXY2x5Q1lGUzFkQmxR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "04d420ab9242",
-      "title": "Study reveals prefrontal cortex can hinder learning more efficient behaviors - Medical Xpress",
-      "published": "2026-08-08T13:40:04+00:00",
-      "summary": "Study reveals prefrontal cortex can hinder learning more efficient behaviors&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUWlDNHlsaDRVNkFYbFM5d19iX0tzNUNwamhZV0Y0RGdjV2tUNHdtaWQtMVVSSGxmZFVSV2Nod25PTUFGWG81d0dPS3ZBczVkTmJWR0FITzI0WHF3X0dwYUUybkhlNmNyTWRUVEwxWWVOY2hKbVBaVWRoRkhJQVoyWVF5a2FNYVZnVENIODh5MA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2d851b96a36e",
-      "title": "Brain scans reveal widespread structural and functional changes in patients following COVID-19 infection - PsyPost",
-      "published": "2026-08-08T13:16:33+00:00",
-      "summary": "Brain scans reveal widespread structural and functional changes in patients following COVID-19 infection&nbsp;&nbsp;PsyPost",
-      "sources": [
-        {
-          "name": "PsyPost",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTGlrcXkwY3pwOGR2bkRDS1NzMEhrRnZETGtMaFhZeGJyVHZuQWREOWNzdmgwanRLRzlyWXRjbzRLNGJLcnZHNk5qZGlSWlFSRjFtOGp5Q3lZeWVVdVJKakVlOFlhM2tObW91ZGM4UzJ3bHJlM2wwYzNvSWNHZGtlemx6UEVYcjhlcUZ2Z1J3QnhaSWdsbVhpVnlqQzVxUm9ONGRtM0p3T0c?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MdGdSbXhCVkJOMVBxMERndmIxbjdjU2lvR2trR01NZ1Z3TGxMbHRIV2Y2ckxQLTFGWVpkbjBIaFUyQkJ6MzhWOFZvWlNGa3dDVTNpRA?oc=5"
         }
       ]
     },
@@ -534,22 +594,10 @@
       ]
     },
     {
-      "id": "f41611ed0999",
-      "title": "This Week in Science: Mosquito Magnets, Bonus Benefits of GLP-1s, And More - ScienceAlert",
-      "published": "2026-08-08T12:02:26+00:00",
-      "summary": "This Week in Science: Mosquito Magnets, Bonus Benefits of GLP-1s, And More&nbsp;&nbsp;ScienceAlert'I'm being eaten alive!' This healthy habit is making you a magnet for mosquitoes - here's what to do instead&nbsp;&nbsp;goodhousekeeping.comWhat makes you a mosquito magnet? Scientists tested 450 people to find out&nbsp;&nbsp;Earth.comMosquitoes too swipe ‘right’ on human of their choice—are you a perfect match?&nbsp;&nbsp;Deccan HeraldDoctors say mosquitoes do play favorites; here's why some peopl",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNWlCTldILTRWLTVLQVRKNHgyUl9UVmNQQThrVU5DaTlndzFmendkYUVsN3AyUzlzRnhNYjR2SV9qcUY2M2Z5aHlTWm9jd0Z2SlhxTlVoSkw2ZTZWaENGMVlGdk5aZFg0U0o0TlBHbzUxWTBES3pUb1F3YTAyQ2JWSHVCWjhZVG1aTTlnTm1OQUQtOWVCTlVtbkcyVG9MY1M5RGc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "101c9bca9a1b",
       "title": "The strange reason flu shots have been so hard to improve - vox.com",
       "published": "2026-08-08T12:00:00+00:00",
-      "summary": "The strange reason flu shots have been so hard to improve&nbsp;&nbsp;vox.comNew kind of flu shot is on the way as the FDA approves Moderna’s mRNA-based vaccine&nbsp;&nbsp;AP NewsA new flu vaccine geared to older people is coming soon&nbsp;&nbsp;NPRHere’s what the first mRNA flu vaccine could mean for flu season&nbsp;&nbsp;Science NewsOne year since Kennedy canceled mRNA vaccine projects, science shows how wrong he was&nbsp;&nbsp;STAT",
+      "summary": "The strange reason flu shots have been so hard to improve&nbsp;&nbsp;vox.comNew kind of flu shot is on the way as the FDA approves Moderna's mRNA-based vaccine&nbsp;&nbsp;PBSU.S. approves Moderna’s mRNA vaccine for flu—the first of its kind&nbsp;&nbsp;Scientific AmericanA new flu vaccine geared to older people is coming soon&nbsp;&nbsp;NPRHere’s what the first mRNA flu vaccine could mean for flu season&nbsp;&nbsp;Science News",
       "sources": [
         {
           "name": "vox.com",
@@ -570,22 +618,10 @@
       ]
     },
     {
-      "id": "561f057b8d7b",
-      "title": "COVID Cases Are Increasing In These Areas. Here’s What Experts Want You To Know. - HuffPost",
-      "published": "2026-08-08T11:00:18+00:00",
-      "summary": "COVID Cases Are Increasing In These Areas. Here’s What Experts Want You To Know.&nbsp;&nbsp;HuffPostCOVID levels are rising fast in the Bay Area as schools reopen&nbsp;&nbsp;San Francisco ChronicleCOVID-19 resurging in several regions, more mild&nbsp;&nbsp;WOAY-TVAmid Heatwave, COVID-19 Cases In CA Quadruple Within Weeks. Here's Why&nbsp;&nbsp;PatchCovid-19 infections show signs of increasing in the country and in North Carolina&nbsp;&nbsp;Enlace Latino NC",
-      "sources": [
-        {
-          "name": "HuffPost",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaWpOTnNQaFRPb25EQUQ2SjVHZjMwejU1WGF0QkJ5OHFpUnJMTk9EN19xU0JvODBoX2NvQ2lGTVE4QmVZUlBUMkZSVEVwMVctMDE4YlVpTFAyLVF4VUNHVVZNei04R1liQkFsdG5HaGR5NEdhRmxUdFRvOTRlbFk5RHZleDBubHNJNGZJeGcwQ3VGb3RwYmVvemVObjRPZmZWa3UtcUtodWdVTHI2UkFWdzdTb2ZURlAwNERQLTNqQ2Y3TzhZUUFZenVBV3BWYVFDZGsw0gHYAUFVX3lxTE54R0VISUdlYjV0bXdWNFc2UzBPTlFmcHRpT2tuYTdOeVZJT1VtRXl6ZUpLeHJhWHlkM05udlBCb2VLdjV0dWszSWZKV0ZrZEozVjlDNmJPQ1VNc0pnZ0dDVUNEb3dIYWdGUWFVR09BdjRVUXpxYTZqeTExclp2QWhXNVNJZGFoWjBkZ1I0SWw1aG5kaW5NOEdTbVFMYkpiTTc5UmNaLVhPYkVSa3R5cDBSY2tnNmRhR3pna3dkaHFsWFJ5WW9DZmdORlNKU0Eya2QtNFF1T2NFag?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d11cd5a11fcb",
       "title": "AI creates 16 new viruses that never existed in nature after learning DNA’s pattern from 9 trillion nucleot... - Yahoo",
       "published": "2026-08-08T11:00:00+00:00",
-      "summary": "AI creates 16 new viruses that never existed in nature after learning DNA’s pattern from 9 trillion nucleot...&nbsp;&nbsp;YahooThis A.I. Just Created Viruses Not Found in Nature&nbsp;&nbsp;The New York TimesVideo Manhunt underway in upstate New York&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosAI designs new virus not found in nature&nbsp;&nbsp;AxiosSafety fears as scientists make first viruses designed by AI&nbsp;&nbsp;The Guardian",
+      "summary": "AI creates 16 new viruses that never existed in nature after learning DNA’s pattern from 9 trillion nucleot...&nbsp;&nbsp;YahooThis A.I. Just Created Viruses Not Found in Nature&nbsp;&nbsp;nytimes.comVideo Manhunt underway in upstate New York&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosSafety fears as scientists make first viruses designed by AI&nbsp;&nbsp;theguardian.comArtificial Intelligence used to design brand new viruses&nbsp;&nbsp;BBC",
       "sources": [
         {
           "name": "Yahoo",
@@ -606,34 +642,10 @@
       ]
     },
     {
-      "id": "91cb9f8aa0d2",
-      "title": "How much coffee is too much coffee for your health? - thestar.com.my",
-      "published": "2026-08-08T10:06:00+00:00",
-      "summary": "How much coffee is too much coffee for your health?&nbsp;&nbsp;thestar.com.myCoffee isn’t the heart risk doctors once thought, with one big caveat&nbsp;&nbsp;ClickOnDetroit | WDIV Local 4\"I Drink Black Coffee Daily,\" Says Oncologist; 6 Reasons Why You Should Too&nbsp;&nbsp;NDTVItalian Study Says Espresso and Moka Pot May Reduce This Liver Disease&nbsp;&nbsp;Daily Coffee News by Roast MagazineA Coffee A Day Keeps The Doctor Away?&nbsp;&nbsp;Forbes",
-      "sources": [
-        {
-          "name": "thestar.com.my",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV1dFTHRqUmxjYW1VLWpSWFJyRnE2c1drLW9HeWVqTUliMktSUjBQNXpRYnRDUWVZMTR1ZUdkVUhsWTFlM2k3dFQ5VTc4TWQwbUY5dldMV1k5ODhKWEQ5bHBoeVR6OEJYcTJvald2RjlNT1RCN1Z4Vk1HSW5rSlF4UHNWMjhjcV9VVjV4a0FrM2dsck5lcDRDaTRNLXhYb0ZpZ1ZmMXFISjBiTjgzb0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bbbdfe77bea8",
-      "title": "Federal funds can't be used to give test strips to drug users, raising overdose fears - NPR",
-      "published": "2026-08-08T10:00:00+00:00",
-      "summary": "Federal funds can't be used to give test strips to drug users, raising overdose fears&nbsp;&nbsp;NPRSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "NPR",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORWRTWFl3N0h5QnBtS0F2VUZiZ0FpdnZ6ZEtZdncycWc4ZjJOMWtjTm80T2FFSzlzZWdKS2VNUVg1dGlJMXBfLVZlVklyQ25UXzNJZVlTb3MzT05FRWxVQm1NVzZkXzhRQWpmaUh1Q291T1RWYkJELTlSd0RxbTFJNDRIaGt2VW52cThWU2I5d1FVNVFOanFKdWNOeDdrRHZ2SlJwaG5SaXJrYXEzRnRZdnVXS3pQMEhIazl5WVNraUpxRzlYTkJZ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "877dc78522e4",
       "title": "How much protein do you need? Nutrition experts say there's a sweet spot - Business Insider",
       "published": "2026-08-08T09:30:00+00:00",
-      "summary": "How much protein do you need? Nutrition experts say there's a sweet spot&nbsp;&nbsp;Business Insider5 Protein Myths You Need to Stop Believing&nbsp;&nbsp;EatingWell5 Nutrition-Boosting Tips to Spread Protein Throughout the Day&nbsp;&nbsp;Montana StandardSimple Ways to Sneak More Protein Into Every Meal, According to Nutritionists&nbsp;&nbsp;aol.com7 Micro Habits to Get More Protein Every Day, According to Experts&nbsp;&nbsp;Everyday Health",
+      "summary": "How much protein do you need? Nutrition experts say there's a sweet spot&nbsp;&nbsp;Business Insider5 Protein Myths You Need to Stop Believing&nbsp;&nbsp;EatingWell5 Nutrition-Boosting Tips to Spread Protein Throughout the Day&nbsp;&nbsp;Montana StandardSimple Ways to Sneak More Protein Into Every Meal, According to Nutritionists&nbsp;&nbsp;AOL.com7 Micro Habits to Get More Protein Every Day, According to Experts&nbsp;&nbsp;everydayhealth.com",
       "sources": [
         {
           "name": "Business Insider",
@@ -645,7 +657,7 @@
       "id": "50e3b2634ad1",
       "title": "Avocados Switch Sex on a Daily Basis, And Researchers Finally Know How - ScienceAlert",
       "published": "2026-08-08T08:02:24+00:00",
-      "summary": "Avocados Switch Sex on a Daily Basis, And Researchers Finally Know How&nbsp;&nbsp;ScienceAlertBreakthrough on How Avocado Trees Change Sexes Could Cut Years From Breeding Cycle&nbsp;&nbsp;WSJUniversity Researchers Crack the Avocado Code to Boost Breeding Efficiency&nbsp;&nbsp;The PackerAvocado A & B Flower Types Revealed&nbsp;&nbsp;UC Agriculture and Natural ResourcesUCD study reveals how avocados reverse sexes throughout the day&nbsp;&nbsp;davisenterprise.com",
+      "summary": "Avocados Switch Sex on a Daily Basis, And Researchers Finally Know How&nbsp;&nbsp;ScienceAlertBreakthrough on How Avocado Trees Change Sexes Could Cut Years From Breeding Cycle&nbsp;&nbsp;WSJUniversity Researchers Crack the Avocado Code to Boost Breeding Efficiency&nbsp;&nbsp;The PackerAvocado A & B Flower Types Revealed&nbsp;&nbsp;UC Agriculture and Natural ResourcesGene Discovery Could Shave Years off Avocado Breeding&nbsp;&nbsp;Technology Networks",
       "sources": [
         {
           "name": "ScienceAlert",

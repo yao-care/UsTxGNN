@@ -1,31 +1,103 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-08-15T18:32:22.971660+00:00",
-  "total_fetched": 119,
-  "unique_count": 119,
-  "health_related_count": 57,
+  "fetched_at": "2026-08-16T01:26:39.200020+00:00",
+  "total_fetched": 117,
+  "unique_count": 117,
+  "health_related_count": 62,
   "news": [
     {
-      "id": "2ceb62103df8",
-      "title": "A Study Revealed Doing This Highly Enjoyable Activity Every Day Could Lower Your Dementia Risk - AOL.com",
-      "published": "2026-08-15T17:33:33+00:00",
-      "summary": "A Study Revealed Doing This Highly Enjoyable Activity Every Day Could Lower Your Dementia Risk&nbsp;&nbsp;AOL.comResearchers Are Calling Attention To 1 Common Activity That Can Reduce Dementia&nbsp;&nbsp;AOL.comThis $28 Gadget Makes It Easy To Listen To More Music — And That May Be Good For Your Brain Health&nbsp;&nbsp;HuffPostA Study Revealed Doing This Highly Enjoyable Activity Every Day Could Lower Your Dementia Risk By Nearly 40%&nbsp;&nbsp;HuffPost",
+      "id": "35c06a873f9c",
+      "title": "Everyday habit linked to dramatically lower risk of dying from heart disease - Fox News",
+      "published": "2026-08-15T20:12:05+00:00",
+      "summary": "Everyday habit linked to dramatically lower risk of dying from heart disease&nbsp;&nbsp;Fox NewsTaking the stairs may do this for your health, researchers say&nbsp;&nbsp;USA TodayTaking the stairs could protect your heart and help you live longer&nbsp;&nbsp;ScienceDailyTaking the stairs could cut risk of early death&nbsp;&nbsp;Medical XpressHeart disease: Climbing just 6 flights of stairs a day can lower risk&nbsp;&nbsp;Medical News Today",
       "sources": [
         {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX0ZNQnNMcHkwd3B2SGZ4U0liZzN0TC1MQ1J2eTdYRDRiRzdhNDVrMVNZblNTX01TUEg3Y2FkSFdVdHMxT2U4akxPeTUyTmtVOTN3U2ktMGZLdnB2ak01aUR3UW5KRG1BdDFpWjY4aVpQZGNCRXcxTDZSdEpoUHNzRXU3MGJGR1Zn?oc=5"
+          "name": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUVFMVGF3MVNjU0JtZEVzXzNKMDVhbTZJcE5RN09HQU9nT2x2TTlpVUdkVmExeXpGRVZadjlBQkVoMndyTWJpSTFIR0luOEp2WXZhVzlFRVJ3Y09jY0haREpZMFNmQzVwY3EyLWN4OE9rVW5WMWxsN2pZYUFBSnJ1Q3FDbEZhQWVRZm9HMVZ6akp5SzFWY2picnA2bGfSAaIBQVVfeXFMT0lsbVdTMVpFenFiR0d3TU01d1dNb18xbkdjUldDYlcyMzEtbHQ4THRjR0tBNXhKZUZ6UHRHdzJWOEs4NlBrTHN2RW5lRDBKVGhsRFVLV1pIS2NWR2lkdExfYjZnUnkyMW9qb3RhcUpIX2dhMGpfZFJuS01FNEFrTklucEhIR0xveno0Q1A4Ym9sbXNMX3FNZjZ2UVlMU2FsdVN3?oc=5"
         }
       ]
     },
     {
-      "id": "aca69dc9ff1f",
-      "title": "3 things people get wrong about postpartum psychosis - washingtonpost.com",
-      "published": "2026-08-15T17:00:00+00:00",
-      "summary": "3 things people get wrong about postpartum psychosis&nbsp;&nbsp;washingtonpost.comMotherhood and Women’s Mental Health: The Clancy Trial&nbsp;&nbsp;Psychology Today'Postpartum depression doesn't mean you're a bad mother': One mom's story of sadness, stigma, and getting support&nbsp;&nbsp;WGRZPostpartum psychosis misdiagnosis can delay urgent care&nbsp;&nbsp;KevinMD.comMany new moms have intrusive thoughts. That's not the same as postpartum psychosis.&nbsp;&nbsp;Business Insider",
+      "id": "16df3751e165",
+      "title": "US Cardiologists Issue New Guidelines For How to Manage Cholesterol - ScienceAlert",
+      "published": "2026-08-15T19:03:59+00:00",
+      "summary": "US Cardiologists Issue New Guidelines For How to Manage Cholesterol&nbsp;&nbsp;ScienceAlertThe sneaky kind of cholesterol that may be threatening your heart health&nbsp;&nbsp;The Washington PostLipoprotein(a): An FAQ on Awareness, Risk, and Screening Gaps&nbsp;&nbsp;The American Journal of Managed Care® (AJMC®)Your cholesterol is normal, but could your DNA still be putting you at risk of heart disease?&nbsp;&nbsp;The Times of IndiaLipoprotein(a) and Aspirin: A New Perspective on Aspirin for an E",
       "sources": [
         {
-          "name": "washingtonpost.com",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM2d0eTVuMkdxclprUkx3WUcwcHpwRDNoZVJqTnI4Q1BXLXczQm1fd3RsalNyN3dSMnZYN3B6N3VIeGhLckJIbXVVd2RBVDZrT1hSZmJKXzdVc2o0WVpZUjFvVkdSN1JUX3NEOWZmb2w3VGF2SVA4MjNDZ3Y3OWV4UWgwZ2FScVVhREJLLWhCNzV5LUo4dlBtNndzaw?oc=5"
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRTZxM2FMaUpQOGVIaTlzdHRkVEhKZzMzLUxreVY3OGZaeFhmZUdtaEFoMVZFUE4wNUJRYlVSVlRfbzMzbGwtaGh6ZmtMaXJ2Z1FZcXhYdW1ucm90OG9qMUxlbDNiREtiQ2VqNWV2TzBuRV9YY1JycV9iQll5U0JXSDlhT3ZwWEJjdWZIakU0aWRnakVibVhPY3dvMlI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7694db4b34d4",
+      "title": "Is Rotisserie Chicken Healthy? Here’s What Nutrition Experts Say - marthastewart.com",
+      "published": "2026-08-15T18:00:00+00:00",
+      "summary": "Is Rotisserie Chicken Healthy? Here’s What Nutrition Experts Say&nbsp;&nbsp;marthastewart.com",
+      "sources": [
+        {
+          "name": "marthastewart.com",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QZFlrWmJ1LVBmSGVKTlRVM1NNem5iTzFxd1FSdlpzMEJBWGczb09KVzNhT3RxU1dOYVlDLVRhY1RCT0Jhd01kUGNzRHNrMDNaa1ZSMkxHWUNSeWxRdDFoQThPRXcyWDllcUlMVzQzU0pDR2UzREVR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "004f8c6b6a92",
+      "title": "This Habit May Raise Your Mortality Risk by 24%, New Study Says - eatingwell.com",
+      "published": "2026-08-15T18:00:00+00:00",
+      "summary": "This Habit May Raise Your Mortality Risk by 24%, New Study Says&nbsp;&nbsp;eatingwell.comWine, beer, or spirits? Massive study finds a surprising health divide&nbsp;&nbsp;ScienceDailyA 30-year study found a surprising link between alcohol, survival and heart attack risk&nbsp;&nbsp;News-MedicalBeer, wine or liquor? Massive study reveals which was linked to lower death risk&nbsp;&nbsp;Fox NewsStudy Proves Wine Wins for Heart Health&nbsp;&nbsp;Wine-Searcher",
+      "sources": [
+        {
+          "name": "eatingwell.com",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxY2hvaTFZelFzSzlXbU5aSnFNX3doTjJ2dWRRcUJFZGFldHZrSkJDbkpVTnE5QlN1azlhUDVkUWRJM2lGYWpSaTMyeUNCSG4xSDNuZzRMMDlhcFhFRFpCaDFVTVM3MW5fdVNFTnRCemp1UXJzZ2pvS0tXNGNSQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "57b31e812a3a",
+      "title": "31 dead, nearly 600 ill due to lung disease linked to stone countertop exposure: study - WJAR",
+      "published": "2026-08-15T17:57:47+00:00",
+      "summary": "31 dead, nearly 600 ill due to lung disease linked to stone countertop exposure: study&nbsp;&nbsp;WJAR31 Dead, Nearly 600 Sickened from Silicosis Linked to Stone Countertop Exposure&nbsp;&nbsp;People.comHundreds of California stonecutters fall ill with deadly disease ‘for a product we do not need’&nbsp;&nbsp;Los Angeles TimesPublic Health Alerts: Silicosis among workers fabricating engineered stone (‘quartz’) countertops in California, 2019-2026&nbsp;&nbsp;CIDRAP31 Deaths Reported in Kitchen Cou",
+      "sources": [
+        {
+          "name": "WJAR",
+          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQQlJCdlI2M0JIMldUUmFDdmJVRnhDR3c5QXRtQnoxMWNpSUVJejY2bFpCcnQzOFRiWXlFcUZ3b3JmVHJqWVNITzNfSlhCT1dsV1o1bE9pYWJmU3VNc2pqYzNNbXhGQnVFVlZ1bWVRZ1Y5VEt6VHJXV0xKWFE2VjBxMFI1eTFFM2RsVndyWThJY1JzRFhWbGRoZTBFbzVtcjJsT1BCTW5rc0NiSUxsdnlIWmY0X1RMMDlBR0d2S2ZrUk9aZk9DTTl5V3MtdlBnZmFVZ29BcWpjaEluTm9FYmdnYmZPaGVtamRYa0JBRnhCZlFJcW1PRFBQVEFpdk5vSlB2c0tYMmx3bElJUkhGMXNSOVVKelZZeE1Rc0ZKNzhRQ3BEblA4Und3b20xdjdYVmJwb1QwUmp6YTlENm5neE9HVUlaVnNOMEhFM25LSTl2QldxRERady1KRXM3UWQ4WGxRVnN1eWNXaUtCWk9SRldNRkFLSzBWYVFoSV80RFJONHp5eHJzV3V2a0hSdDNnZTI5SGFSZ2U3VFFJdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b3d06b416f8d",
+      "title": "‘I was screaming’: Scientists shocked as dolphins filmed using shells to trap prey for the first time - New York Post",
+      "published": "2026-08-15T17:27:00+00:00",
+      "summary": "‘I was screaming’: Scientists shocked as dolphins filmed using shells to trap prey for the first time&nbsp;&nbsp;New York PostDolphins recorded using sea shells to catch fish for first time&nbsp;&nbsp;Oceanographic MagazineMORNING BUZZ: Australian researchers catch dolphins using seashells as tools to catch fish&nbsp;&nbsp;WCIV\"I started screaming.\" Scientists were filming dolphins in Australia, when this happened&nbsp;&nbsp;BBC Wildlife MagazineWatch: Australian Dolphin Filmed Catching Fish wit",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd0JjMXRzSlUxejBDQ0RtTGhmb1hub3IxOUlGWENEOXhBbnZxVEN3eW5uWG9Pd3YtUTlvSnN2MlFfZVVia0V4emIwVF80d1hacEppdF9wcGcwbHBHMS1odlhYSGZyQmNnSFZDb0c4WVJjVEI0NlYtWkNNUFpIY1FvblJudG9LWUI2eHpjbHByV0JPd0FV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "97fbe70aa037",
+      "title": "Want to protect your brain as you age? Neurologist Dr Arun Shah shares 3 lifestyle changes that may lower dementia risk | Health - Hindustan Times",
+      "published": "2026-08-15T15:35:03+00:00",
+      "summary": "Want to protect your brain as you age? Neurologist Dr Arun Shah shares 3 lifestyle changes that may lower dementia risk | Health&nbsp;&nbsp;Hindustan TimesAvoiding These 3 Health Risks in Midlife Linked to 13 More Years Without Dementia&nbsp;&nbsp;SciTechDailyScientists Reveal 3 Lifestyle Factors That May Delay Dementia by 12 Years&nbsp;&nbsp;Prevention3 Factors You Can Address Now to Lower Your Dementia Risk, According to a New Study&nbsp;&nbsp;eatingwell.comIn the fight against dementia, preve",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPWURrQUtVU2hsN195dEpRRXlZU0h2bW5xeWxZeFZBYXJCOGV5SDJscXN4UDlXWEI5aDhMUWM4YWFCYkRNdnkxU1BDaUNJNDNNb1BXclBsX0VObElDM0FSYXB5cnR4eUVhc1VEOEZEaTFYem5LMmt5cDkxUnFoWF9JQVY1T0ctVGdDZnh2Nld4QTZKQXBlZnE1NnQxMjBSRWpoOHVJd2VDVGczNFhoUGZKZmtWeGp0Q0FYd3U4RmQ5Vk51Q2dPeUFKejJNMFY0bEZZWkxjXzd3T1VpTVBZWXZJZUJyOGFNbTdwTGJ5Tk93ZzBDRmJrN3BCbms0UlVwRDRpQVZDTFRqZGRKdEJTci1UUWZJR3k4d9IBmwJBVV95cUxNRlE5cEFfelRsREJFWWE1aTNKV1FQaXpscy1kOExLVTROS1JzRDhub3hJMTJsLVN6Z1RtZkpKMUwxUldmaWgzR3VKVzFYcWRTcUZsY1Z1cnlUYXdnbUtjMXFNeFhEbHd0dFJFTlFCLVRkNTREX19Zcm5qUnBXZk93NlpHQ1VXMzBWRlI3TFJ0UTQwNkZxVUNOc2tDaGRFOUNpS1o2RXloTmg0aEVsUDhFR0pzNG15Uy0zWUdCMl9oeWNhU3VuSmlmSERGWWdpbWZZWXdBLTRkRWRrYl9RNkNzekFPS0pxd21GelluXzV6eTVKdkVSMGp6VFFqa19XLWxIZERFQl9jS0JwUEh4SHZIU0YydGRHNjVrNFdR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dea78edc3b33",
+      "title": "A squid pulled from a sperm whale's stomach during an Antarctic whaling expedition in 1955–56 sat overlooked in scientific collections for nearly 70 years — until researchers realised it wasn't just a new species, but an entirely new family of oceanic squid no o - Space Daily",
+      "published": "2026-08-15T15:30:00+00:00",
+      "summary": "A squid pulled from a sperm whale's stomach during an Antarctic whaling expedition in 1955–56 sat overlooked in scientific collections for nearly 70 years — until researchers realised it wasn't just a new species, but an entirely new family of oceanic squid no o&nbsp;&nbsp;Space Daily",
+      "sources": [
+        {
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aVUJDcjU0RDlHT3paWkVtSWdsMkVMQkhzbXpXdENxYkVCX2JCam5mUUFTWU42dHJQWHVKdTgyZVEtaEhoS0lJSUplR2tTZXBlOGQySVVtVXhSQ3FWSjJPNDhIQTZSZGNqc3pIMFQyalE2TmtsVlZzZ1pSdmNoUQ?oc=5"
         }
       ]
     },
@@ -42,13 +114,13 @@
       ]
     },
     {
-      "id": "a692cfea7b0d",
-      "title": "Is Protein Powder Bad For Your Long-Term Health? - gq.com",
+      "id": "1c6d97af6d66",
+      "title": "Is Protein Powder Bad For Your Long-Term Health? - GQ",
       "published": "2026-08-15T14:10:23+00:00",
-      "summary": "Is Protein Powder Bad For Your Long-Term Health?&nbsp;&nbsp;gq.comHow to Choose the Best Protein Powder for Your Goals&nbsp;&nbsp;WLUKProtein bars and powders: How to choose safer products and what ‘third-party tested’ means&nbsp;&nbsp;The Indian ExpressIs It Safe to Use Protein Powder Every Day? Dietitians Share the Facts&nbsp;&nbsp;Yahoo HealthAre protein supplements safe for teens?&nbsp;&nbsp;Minute Mirror",
+      "summary": "Is Protein Powder Bad For Your Long-Term Health?&nbsp;&nbsp;GQHow to Choose the Best Protein Powder for Your Goals&nbsp;&nbsp;WLUKProtein bars and powders: How to choose safer products and what ‘third-party tested’ means&nbsp;&nbsp;The Indian ExpressIs It Safe to Use Protein Powder Every Day? Dietitians Share the Facts&nbsp;&nbsp;Yahoo HealthAre protein supplements safe for teens?&nbsp;&nbsp;Minute Mirror",
       "sources": [
         {
-          "name": "gq.com",
+          "name": "GQ",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4ekliNlI4QUV0aVpadEdiVE9XemdmYnFwcHhRTkVQTUVObmtRWHozcHBSUU50MzVkV09KQkJudVpFenUxSk1UR2R0aG1tRXZFUnY1T1VzOS1pT21SMmlNbFFrb01BbkU0Y0NSQkRiNVJjR09jZWp4Q1lOSzlVd2M?oc=5"
         }
       ]
@@ -66,37 +138,37 @@
       ]
     },
     {
-      "id": "0fc444b66198",
-      "title": "What Happens to Your Kidneys When You Drink Coffee Every Day - EatingWell",
+      "id": "408caa7b9122",
+      "title": "What Happens to Your Kidneys When You Drink Coffee Every Day - eatingwell.com",
       "published": "2026-08-15T13:00:00+00:00",
-      "summary": "What Happens to Your Kidneys When You Drink Coffee Every Day&nbsp;&nbsp;EatingWell",
+      "summary": "What Happens to Your Kidneys When You Drink Coffee Every Day&nbsp;&nbsp;eatingwell.com",
       "sources": [
         {
-          "name": "EatingWell",
+          "name": "eatingwell.com",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwLVpQb20wVE01cVY1akVwSFRCdzNTdkpzakZmN2FpOHhQd3Q4X3ZNSzdwX2dXMEZPem5HUVIzZmcwOUItdkRKRm5JbFFZV0w0cXhIVElIU1BHeTdISmJXX2FxaEx3R3hEazFZVWlSYUlSd1poektRTWZn?oc=5"
         }
       ]
     },
     {
-      "id": "7e5ad8eb313a",
-      "title": "We Helped Create A $4 Million Gene Therapy For Our Son. Then We Had To Decide If We Should Give It To Him. - HuffPost",
-      "published": "2026-08-15T12:59:38+00:00",
-      "summary": "We Helped Create A $4 Million Gene Therapy For Our Son. Then We Had To Decide If We Should Give It To Him.&nbsp;&nbsp;HuffPost",
+      "id": "4068fc2ec83a",
+      "title": "The Best Time of Day to Walk When It’s Hot Outside - Verywell Health",
+      "published": "2026-08-15T12:25:11+00:00",
+      "summary": "The Best Time of Day to Walk When It’s Hot Outside&nbsp;&nbsp;Verywell Health",
       "sources": [
         {
-          "name": "HuffPost",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRjhPSU1CRGFYeW8tS1VwcjcySkQ3YjdTQ3hVc0JGSkxrdTF1S1RJMnVfNjVIQW1iejRGc1dqZG93Z1ItWVUtTzlJb3hmb1hHN0RMWGlxMVVSaGo4cFBJSGhXY01FS2ZoQmFESi16WW9IMVdhQmcxMEJIdGhSZUV3NHB6Wk9KSVBSalVmRnEzb3ZEQmtEYnNEbElOc0IwbU9HZGk4ekJLSzhFT1VTZjMw0gG0AUFVX3lxTE5hNjFTWEJLMkJLT3V6RWpldXVPb3FzeDN0UnVWVTltalhKTG5mUHVOQ0Y1dkVrSVo1bk5teGZUQUs4Skt0cVFJZzNvbVlETGtYTGV3SWp1ZGpCRzF2WmEwOVVfVG5mNnFiVG4zMlBKYnpsS1JWSV82d3lDT3UtRU5sTnI2NlNBT1psdDRXOFlQVEV4NTJpSUlhX1p4cElwUlJrU0RWLWNON3hvbGRNa1N5Ynpfag?oc=5"
+          "name": "Verywell Health",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTkZiU1ZYOTZ2bGlPSjNkNmc1czAzemNDdWxaSXhGTHM3VjExc1UtVWpsWkJzSDhCLU96S3pvMmhydnN3SjVnSHlmSlJlX3FWX1ZiNmo3azNkMGUxaTV2THZ5ZW5VWU1rWlZrXzBFUnRzZHZYSHBRS2NzNDRIQ2VYWFNCcw?oc=5"
         }
       ]
     },
     {
-      "id": "1d70b34daa5c",
-      "title": "3 Morning Habits That Can Support a Healthier Liver - EatingWell",
+      "id": "ec8231cdf33b",
+      "title": "3 Morning Habits That Can Support a Healthier Liver - eatingwell.com",
       "published": "2026-08-15T12:00:00+00:00",
-      "summary": "3 Morning Habits That Can Support a Healthier Liver&nbsp;&nbsp;EatingWellSix natural drinks protect a fatty liver when you take them on an empty stomach, and the order you drink them in matters&nbsp;&nbsp;OkDiarioAdded sugars convert to fat in the liver over time, Endeavor Health cardiologist warns&nbsp;&nbsp;WGN-TV5 Kitchen Staples That Help Reverse Fatty Liver Disease Naturally&nbsp;&nbsp;Woman's WorldOatmeal with whey protein and berries - 7 best breakfast and snack options for fatty liver fr",
+      "summary": "3 Morning Habits That Can Support a Healthier Liver&nbsp;&nbsp;eatingwell.comAdded sugars convert to fat in the liver over time, Endeavor Health cardiologist warns&nbsp;&nbsp;wgntv.comFatty liver disease isn't just caused by alcohol. What to know&nbsp;&nbsp;UnionLeader.comThe liver must work overloaded if these foods are used regularly&nbsp;&nbsp;Laodong.vnOatmeal with whey protein and berries - 7 best breakfast and snack options for fatty liver from Harvard doctor&nbsp;&nbsp;The Economic Times",
       "sources": [
         {
-          "name": "EatingWell",
+          "name": "eatingwell.com",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wc25uYXIyUHhfbnYxcW9fdmJGS2x2bWJXLU8wUExrX3ptS3hiTFloY0N4OXhkLWFBMXd1RUtLMktob1FzOXVjcjNkNHEzR0I2eUdPUk1pbTg2c1pmcjluc2JJdjJEMWI4TExFT1IwZ3NRa3lRYnc?oc=5"
         }
       ]
@@ -105,11 +177,23 @@
       "id": "68283a5b3b69",
       "title": "UCSF cannabis study finds unexpected heart rhythm results - San Francisco Chronicle",
       "published": "2026-08-15T11:59:19+00:00",
-      "summary": "UCSF cannabis study finds unexpected heart rhythm results&nbsp;&nbsp;San Francisco ChronicleUsing Cannabis? Could It Be Affecting Your Heart?&nbsp;&nbsp;uvahealth.comIs Cannabis Good for Your Heart?&nbsp;&nbsp;Nautilus | ScienceResearchers Try to Tie Cannabis to Irregular Heartbeats, Opposite Turns Out True&nbsp;&nbsp;medpagetoday.comUnexpected findings add new insight on cannabis and heart health&nbsp;&nbsp;Medical Xpress",
+      "summary": "UCSF cannabis study finds unexpected heart rhythm results&nbsp;&nbsp;San Francisco ChronicleScientists Tracked Cannabis Users’ Hearts Day by Day—One Finding Stood Out&nbsp;&nbsp;NewsweekUsing Cannabis? Could It Be Affecting Your Heart?&nbsp;&nbsp;UVA HealthResearchers Try to Tie Cannabis to Irregular Heartbeats, Opposite Turns Out True&nbsp;&nbsp;medpagetoday.comIs Cannabis Good for Your Heart?&nbsp;&nbsp;Nautilus | Science",
       "sources": [
         {
           "name": "San Francisco Chronicle",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSnE1YzE3YWV1bENUVVJLUm9DLW9YU1FjUHNZYm9yNUktWEoxMll4VUtKcWd0b2Y1bHpLc1RZMTljdHJDS01JUzdLR2pyd0pteDEyZWdXQldXOGowekVtQ2ZfWEI5VXd3cEVaU25pZ2l2ck92MU90dTc0RjZUUS10eFhfdTVOeVlBa1ZBcm84dDYtdzhnQlUyRDlNd1VaNDZSNjBpNWZR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eccb26878a20",
+      "title": "Congo's Ebola cases rising at record pace - DW.com",
+      "published": "2026-08-15T11:31:39+00:00",
+      "summary": "Congo's Ebola cases rising at record pace&nbsp;&nbsp;DW.comEbola outbreak caused by new ‘animal transmission’: What that means&nbsp;&nbsp;Al JazeeraExhausted health workers in Congo struggle to keep up as Ebola outpaces contact tracing&nbsp;&nbsp;AP NewsUN relief chief warns Ebola is outpacing the response in DRC&nbsp;&nbsp;OCHA‘Ebola is winning’: Epidemic now killing one person every 30 minutes&nbsp;&nbsp;news.un.org",
+      "sources": [
+        {
+          "name": "DW.com",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GS3F6ZzVRelRNVzQzNUkzbWNsV1pidHJKZm1HbDJ3MldYOUpMOFlmd2xYTmYyQlVRT04xOXlBanRyWkwtb2xRVU92bldQa2NwR3pxMTEzLWt2b0ZMQTJqdHplQlZaTUNEcVhnem9rS0tMMnFxMGNBd0U2SGg3QdIBfkFVX3lxTE9qbVlRazFtcUhHOXBMYlhMZHFjT0JYQjZqSnNaTElEdHZIdS1lSGZfTU1KcThZT0N3d2VPZ0xuR0ZKTmFSMWZDeUFiU2h2aTlPZzF5WlhCNmxCcmlOaTZlTmRVckRqUVFQMVNTUjY3V1VjMFUzaE9CV1ZhMjJuQQ?oc=5"
         }
       ]
     },
@@ -128,7 +212,7 @@
     {
       "id": "f5a6d9d75299",
       "title": "A top cancer doctor shares 4 bare minimum food rules to lower your chronic disease risk - Business Insider",
-      "published": "2026-08-15T09:30:15+00:00",
+      "published": "2026-08-15T09:30:00+00:00",
       "summary": "A top cancer doctor shares 4 bare minimum food rules to lower your chronic disease risk&nbsp;&nbsp;Business Insider",
       "sources": [
         {
@@ -141,7 +225,7 @@
       "id": "97b72f21922b",
       "title": "Diamond melting breakthrough could deliver 3x energy gain in laser-driven nuclear fusion - Interesting Engineering",
       "published": "2026-08-15T08:07:00+00:00",
-      "summary": "Diamond melting breakthrough could deliver 3x energy gain in laser-driven nuclear fusion&nbsp;&nbsp;Interesting EngineeringMelting diamond could unlock triple fusion gain and the secrets of ice-giant planets&nbsp;&nbsp;Lawrence Livermore National Laboratory (.gov)Scientists Melted a Diamond, And It Really Didn't Go The Way They Expected&nbsp;&nbsp;ScienceAlertDiamond Melts at 1 Trillion Pascals, With No Clear Signal of the BC8 Phase&nbsp;&nbsp;XenoSpectrumNew measurement of diamond phase change ",
+      "summary": "Diamond melting breakthrough could deliver 3x energy gain in laser-driven nuclear fusion&nbsp;&nbsp;Interesting EngineeringScientists Melted a Diamond, And It Really Didn't Go The Way They Expected&nbsp;&nbsp;ScienceAlertDiamond Melts at 1 Trillion Pascals, With No Clear Signal of the BC8 Phase&nbsp;&nbsp;XenoSpectrumNew measurement of diamond phase change could mean increased ICF energy gain&nbsp;&nbsp;American Nuclear Society -- ANSDiamond melts under extreme pressure, could triple fusion ener",
       "sources": [
         {
           "name": "Interesting Engineering",
@@ -162,25 +246,37 @@
       ]
     },
     {
-      "id": "2e16ca2df369",
-      "title": "Exhausted health workers in Congo struggle to keep up as Ebola outpaces contact tracing - AP News",
-      "published": "2026-08-15T05:31:00+00:00",
-      "summary": "Exhausted health workers in Congo struggle to keep up as Ebola outpaces contact tracing&nbsp;&nbsp;AP NewsEbola outbreak caused by new ‘animal transmission’: What that means&nbsp;&nbsp;Al JazeeraCongo Ebola outbreak on track to become deadliest in history&nbsp;&nbsp;PBS‘Ebola is winning’: Epidemic now killing one person every 30 minutes&nbsp;&nbsp;UN NewsUN relief chief warns Ebola is outpacing the response in DRC&nbsp;&nbsp;OCHA",
+      "id": "93c0b9feb95f",
+      "title": "Hypertension: Why boosting potassium may be key for control - Medical News Today",
+      "published": "2026-08-15T06:49:33+00:00",
+      "summary": "Hypertension: Why boosting potassium may be key for control&nbsp;&nbsp;Medical News TodayThe Number-1 Food to Lower Blood Pressure, According to Cardiologists&nbsp;&nbsp;Prevention8 Foods Men Should Eat Every Week for Better Blood Pressure&nbsp;&nbsp;eatingwell.comScientists Reveal 1 Nutrient That May Help Lower Blood Pressure&nbsp;&nbsp;Yahoo Health",
       "sources": [
         {
-          "name": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNkp4SWZma2xCbmZUVVdhS2FVWXl6bFJpcmgyc0J2Zi1KYlhLT3dId0FleHJvRXl4X3VZWWpLYUw4M3I4YkRrbjdpcVB5Ylg0dHhwalpya2hTaHNwLWw2T0xQZDNWUFgweGc3alFMX0E1SGktTkRSTHB3NmZ5VVZIUng5d3NBZElJc3U1RjBISGwtMTZzXzNuQnJuQmFMMGhpNXQ5ekxsODlqazJy?oc=5"
+          "name": "Medical News Today",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa0hKOHJKeWVRanVPZ0xPRnFCNVd5aDBCS25ud25neUM3QVduVWtYclB1S1VYTnZSNXRKSXdhRXJsRnFhWlpXZ0tBd0s4U29RVDFXRElWdkZlY1J1WGZHT2ZhbldPeXhINGt3VllKRE84OTRnTXBhZHY2R0s0cXNSZDhoeEJ2bFVwNk1Fc19EWlVoMWlpRmdkX2hvQzM2OWFuQ1NGcDhWMi1SRHdLZnhzV3RKU1dsRDFfZkJKRjNOajBvODYt?oc=5"
         }
       ]
     },
     {
-      "id": "c3061ee0f12c",
-      "title": "Opinion | AI can design new viruses. That’s not as scary as it sounds. - washingtonpost.com",
-      "published": "2026-08-15T02:04:28+00:00",
-      "summary": "Opinion | AI can design new viruses. That’s not as scary as it sounds.&nbsp;&nbsp;washingtonpost.comSafety fears as scientists make first viruses designed by AI&nbsp;&nbsp;The GuardianAI Can Now Make Deepfake Biological Viruses. We Are Not Prepared&nbsp;&nbsp;ForbesAI-created bacteriophage overcame resistant bacterial strains, but experts emphasize need for safeguards&nbsp;&nbsp;CIDRAPAI Designed Functional Viruses. But How New Were They?&nbsp;&nbsp;IEEE Spectrum",
+      "id": "582e9a189fc4",
+      "title": "Measles case confirmed in Madison County, what health officials are saying - WSTM",
+      "published": "2026-08-15T02:32:14+00:00",
+      "summary": "Measles case confirmed in Madison County, what health officials are saying&nbsp;&nbsp;WSTMMeasles cases confirmed in CNY&nbsp;&nbsp;WSYRMeasles case confirmed in Tioga County; contact tracing underway&nbsp;&nbsp;WBNGMeasles case confirmed in Seneca County&nbsp;&nbsp;13wham.comTompkins County urges measles vaccination as cases rise nearby amid changing federal guidance&nbsp;&nbsp;14850.com",
       "sources": [
         {
-          "name": "washingtonpost.com",
+          "name": "WSTM",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa2diVXZRcDk2SDZVZVFiRUFKV1dHRUl4Y0dwRWUyYkV1SEV5UzJYTHA3OERkVk1hSENIbjZfbFJQQ0ljazdwaFRuTUE2SEdjYjJMamlTeEg3YTFqcmxxLUc5YTdpWjBrT1A1bG1FUWJENDhHOTNPMVpRV1RWUHlDS2tjUFNzX3QwM1BkckxYc1NFbzI2TzJxTE5NV2J0VG5oWWgxbWhtSjRTYzA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dd08f05e00bc",
+      "title": "Opinion | AI can design new viruses. That’s not as scary as it sounds. - The Washington Post",
+      "published": "2026-08-15T02:04:28+00:00",
+      "summary": "Opinion | AI can design new viruses. That’s not as scary as it sounds.&nbsp;&nbsp;The Washington PostSafety fears as scientists make first viruses designed by AI&nbsp;&nbsp;The GuardianAI-created bacteriophage overcame resistant bacterial strains, but experts emphasize need for safeguards&nbsp;&nbsp;CIDRAPThe Latest Scary-Sounding AI Milestone: A Brand-New Virus&nbsp;&nbsp;WSJAI Designed Functional Viruses. But How New Were They?&nbsp;&nbsp;IEEE Spectrum",
+      "sources": [
+        {
+          "name": "The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUkRPNlhMTUhaZ21aNmU2ZWRqWlRyaE5rb0RGenpMTFp0MG5vb1BsT2prNlNZbG1lNmc3REc1X1Rlcm1RVGlIMFlUN0ZrbmU1RDdHRUhaN09pRmxaY1F3Z1BxX0dPWWh0cHd3cEtwRFJSOUpyLWJ3LUlacVVaa1MydjRzb293THM5MFdTVWVNcnRPdHlYTGw1QUZtVmE5eGtBWjdPeTJPaGNnLTB5VzFYbktkTHZaUnA4MHc?oc=5"
         }
       ]
@@ -201,7 +297,7 @@
       "id": "8abb32308fa9",
       "title": "Positive case of swine flu found in Ionia Co. resident - WOODTV.com",
       "published": "2026-08-15T01:11:00+00:00",
-      "summary": "Positive case of swine flu found in Ionia Co. resident&nbsp;&nbsp;WOODTV.comHuman case of H1N2 swine flu confirmed in Michigan resident after county youth fair&nbsp;&nbsp;clickondetroit.comKent County Youth Fair exhibitor tests positive for swine flu, health officials say&nbsp;&nbsp;WWMTIonia County resident has swine flu after exhibiting at youth fair&nbsp;&nbsp;Detroit Free PressHuman case of swine flu confirmed in exhibitor at Kent County Youth Fair&nbsp;&nbsp;MLive.com",
+      "summary": "Positive case of swine flu found in Ionia Co. resident&nbsp;&nbsp;WOODTV.comHuman case of H1N2 swine flu confirmed in Michigan resident after county youth fair&nbsp;&nbsp;ClickOnDetroit | WDIV Local 4Ionia County resident has swine flu after exhibiting at youth fair&nbsp;&nbsp;Detroit Free PressKent County Youth Fair exhibitor tests positive for swine flu, health officials say&nbsp;&nbsp;WWMTSwine flu found in Ionia County resident who was county fair exhibitor&nbsp;&nbsp;The Detroit News",
       "sources": [
         {
           "name": "WOODTV.com",
@@ -210,14 +306,26 @@
       ]
     },
     {
-      "id": "76345fedef53",
-      "title": "Hundreds of California quartz countertop workers developed an incurable lung condition. Dozens died - KCRA",
-      "published": "2026-08-14T23:32:00+00:00",
-      "summary": "Hundreds of California quartz countertop workers developed an incurable lung condition. Dozens died&nbsp;&nbsp;KCRA31 Dead, Nearly 600 Sickened from Silicosis Linked to Stone Countertop Exposure&nbsp;&nbsp;People.com31 dead, nearly 600 ill due to lung disease linked to stone countertop exposure: study&nbsp;&nbsp;KOMOHundreds of California stonecutters fall ill with deadly disease ‘for a product we do not need’&nbsp;&nbsp;Los Angeles TimesNew research documents growing silicosis epidemic among qu",
+      "id": "49ec3a414953",
+      "title": "The Surprising Foods That Could Help Lower Your Blood Pressure, According to a New Study - eatingwell.com",
+      "published": "2026-08-14T23:21:29+00:00",
+      "summary": "The Surprising Foods That Could Help Lower Your Blood Pressure, According to a New Study&nbsp;&nbsp;eatingwell.comFor decades, we were told to choose low-fat dairy. New research says otherwise&nbsp;&nbsp;ScienceDailyEating Full-Fat Dairy Improves Diet Quality Without Raising Cholesterol&nbsp;&nbsp;Technology NetworksWhy choosing low-fat dairy is not necessarily better for your health&nbsp;&nbsp;Al JazeeraFull-Fat Dairy May Be Healthier Than Previously Thought&nbsp;&nbsp;Labroots",
       "sources": [
         {
-          "name": "KCRA",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVk4xbU0tTkFnQmlnM2tNVzVYNWlpbTQwc2s1TmNpbFMxQWxsQmNXY2J3ZjJWS2lHTC1HUnh1NExWWGF6X0ZzS0VLdlJxNHl2NF9ETExlbWk4SXN5Qk5CeXd1bkJpejF4RkJzLU1FV1FDNnBOcXVRNmhvRjRHS2hDWlhOSDNRdEFCVUJFcw?oc=5"
+          "name": "eatingwell.com",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44a0xTcjZtaUZ4dnNfenhWTWZvTjllZGxEb3Zac3B1b2xkSFNpOXBlRUN5VXp4bnNNVzk0VXBVaXZMaFJfR0lEQ3EwVE9OQnQ1NzdfT1VLR3ZPUm9OS19aYmpjMjZBalprN1JWcnR2eGsxUkIxb2tn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "40fdfad6bc57",
+      "title": "Wilmington woman says ChatGPT tip led to thyroid cancer diagnosis and recovery - WCTI",
+      "published": "2026-08-14T22:46:15+00:00",
+      "summary": "Wilmington woman says ChatGPT tip led to thyroid cancer diagnosis and recovery&nbsp;&nbsp;WCTI",
+      "sources": [
+        {
+          "name": "WCTI",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaE10dUpRUFBoaEQxSUFLNDRnSjduZTVZWXVLeGl0bXljNVQ3TjNFakNocDFyR3E5QjVTcHE0cHhPbWZwVklKdmg2MTZsUGJDaDdIWTZqNWJDOGdfRzNvdkhfY2JHZE1CdTJLWlNQZE5DbXI4RU5FRjBINVNvaDRxNU05d213VFVlS3E3U3pvWXd5MWVuRG1JZUliWFdSTXgxN0I3VDVlYkI2R291?oc=5"
         }
       ]
     },
@@ -225,23 +333,11 @@
       "id": "dbdca0039ead",
       "title": "Ninth person dies from Legionnaires’ disease cluster in Upper East Side – surpassing last year’s Harlem outbreak death toll - New York Post",
       "published": "2026-08-14T21:51:00+00:00",
-      "summary": "Ninth person dies from Legionnaires’ disease cluster in Upper East Side – surpassing last year’s Harlem outbreak death toll&nbsp;&nbsp;New York PostNYC confirms 2 more Legionnaires' deaths in Upper East Side outbreak&nbsp;&nbsp;GothamistNYC Health Department announces two more deaths in Upper East Side Legionnaires' outbreak&nbsp;&nbsp;ABC7 New YorkNew York to Basel: Legionella testing expert warns UK must act on growing risk&nbsp;&nbsp;installeronline.co.ukFatal Legionnaires' Outbreak, E-Bike C",
+      "summary": "Ninth person dies from Legionnaires’ disease cluster in Upper East Side – surpassing last year’s Harlem outbreak death toll&nbsp;&nbsp;New York PostNYC confirms 2 more Legionnaires' deaths in Upper East Side outbreak&nbsp;&nbsp;GothamistNYC Health Department announces two more deaths in Upper East Side Legionnaires' outbreak&nbsp;&nbsp;ABC7 New York2 new Legionnaires’ deaths bring Upper East Side outbreak toll to 9&nbsp;&nbsp;New York Daily NewsLegionnaires’ death toll exceeds 2025 as council bi",
       "sources": [
         {
           "name": "New York Post",
           "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObkxsZ0k2aVpUdVFyTmlzYldtbXNIVHB4SHlqU3ViM2N4WjZMakF2eUZ3bTlNMkFkbHpRSUdTU3NGSGFDVWFHWGF0MTdjQ0RueTRsTWtNLTRidW5EWXJKTExnZ1hIelpKNWFYWG4wWTM3cWdwa2g0Nl9OM25PVnM2ZmJVYW9tUklqZy1CZ243TWZjZVFfUHNOMmQwZzd0MzRIU1ZMT1NsN2tkbk1OZUZkcmc2TTB6TTVNUVEwTk9DeEhyYUpXczAxMnlPQmZmNTdGLVlXLVpQdTZvRmc4eXgyZXZIdEh3Sjc1aGVUMllqYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "56406fbcd786",
-      "title": "Measles cases confirmed in CNY - WSYR",
-      "published": "2026-08-14T20:43:40+00:00",
-      "summary": "Measles cases confirmed in CNY&nbsp;&nbsp;WSYRMeasles case confirmed in Tioga County; contact tracing underway&nbsp;&nbsp;WBNGMeasles Case Confirmed in Seneca County Resident&nbsp;&nbsp;Finger Lakes Daily NewsMeasles case confirmed in Madison County, what health officials are saying&nbsp;&nbsp;WSTMMeasles Case Confirmed in Madison County&nbsp;&nbsp;WKTV",
-      "sources": [
-        {
-          "name": "WSYR",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54UmprOHMwODM4MzhiZFRiNkxEcDRRaWxFdVAwakpNcjVHaTVYaUxrY0UwN2c4eGQzekZUb25UOThKVWpFRm9KdFp4OVRURGRWOFZPcW1ZWER5bFZzemcxXzJhMUg1X0xKQVFzU0FWb2PSAXZBVV95cUxNWU9EN1EzdklocXc2UGJFOFY1V1pYbnpYOEhMQVdmZ1JpODQ1dnVRRFl5RkFEanNocmh2LUFVcHFyWFBDZXpvbndKb3VoMjlBTGRzU2cyR3JsYUFzYXVXSXljeGRQY3FQdk0zX0pWd0kzTXdOQUt3?oc=5"
         }
       ]
     },
@@ -258,25 +354,25 @@
       ]
     },
     {
-      "id": "6b75a76558f0",
-      "title": "Alzheimer's risk may be 35% lower with common menopause treatment, study finds - Fox News",
-      "published": "2026-08-14T20:00:40+00:00",
-      "summary": "Alzheimer's risk may be 35% lower with common menopause treatment, study finds&nbsp;&nbsp;Fox NewsStudy ties estrogen-based menopausal hormone therapy to lower Alzheimer’s risk&nbsp;&nbsp;med.stanford.eduAssociation Between Menopausal Hormone Therapy and Alzheimer Disease Neuropathology&nbsp;&nbsp;National Institutes of Health (NIH) | (.gov)Brain autopsies reveal fewer Alzheimer’s signs in woman who took menopause drug&nbsp;&nbsp;New York PostLater-life estrogen therapy associated with lower ris",
+      "id": "26303a6f5937",
+      "title": "Waist size is a powerful indicator of health risks, researchers find - Medical Xpress",
+      "published": "2026-08-14T19:20:02+00:00",
+      "summary": "Waist size is a powerful indicator of health risks, researchers find&nbsp;&nbsp;Medical XpressBelly fat may be a better predictor of heart disease risk than BMI, study finds&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosBelly Fat vs. BMI: Which Better Predicts Your Heart Disease Risk?&nbsp;&nbsp;HealthlineBMI Aside, Waist Size Matters for Cardiovascular Risks&nbsp;&nbsp;medpagetoday.comWaist size predicts heart disease risk better than body mass index&nbsp;&nbsp;News-Medical",
       "sources": [
         {
-          "name": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR2M3NVFTQktWaW5Pc3dMcWNwZnNfUnhtaGRnZlpwSHIzUjNUU1JmaTZ5aFdsWnl1WXRaQ2R1YlYyMm5wWmVkdGc3bHkxSjI5ekpHdVUzMExoX1hDRllScHcwX3ZBSnJUVVItNFZzeFZRcUZTUGtjbElZc0dpTkU1ekdzLXhXcHNBcUd5VExRUEVWSzZ6ZUM3dWFPYVNYVlpNUmY4RdIBqgFBVV95cUxQQm5Gd3F0S01iejNscTdTcDNEZEhQeGNadGJNV1VMRnVwMG1peUVOakkzeDRZZDFrNVdXaXF5YkUwb1R1elUyanVkNHMtRVFjdDVtRlNtMDJsdU5iWVBNM3QzWHdfYl9SaHBCLWxnZWM4cHBmNzk2b09jSzBBZnNDMldjQ3hBVUl2bENHOUd6RjdpWFpkLXFnLUpWd3Z0M3NFUXNRN0Y0Tk5oZw?oc=5"
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVkM3Wk84Vkp0Q2VtWVdpTXVxSHNhR0NCaGFlZnhUUWZaOWg0NHBMYldxMlZzM0NUUi1RWi1jSXdjcG1BQmJMTUlLd3k1akVHUGZfOFAwd21RWWJCbjMzTUgxNTV5TUF0WVc0TDRpVHBmRTY3eE1Nbm5oTkZvYzZQc0hTeTJhQU0?oc=5"
         }
       ]
     },
     {
-      "id": "e52827a640a9",
-      "title": "How Much Coffee Is Too Much? New Guidelines Reveal the Surprising Answer - AOL.com",
+      "id": "8e8d6ba54889",
+      "title": "How Much Coffee Is Too Much? New Guidelines Reveal the Surprising Answer - aol.com",
       "published": "2026-08-14T19:00:36+00:00",
-      "summary": "How Much Coffee Is Too Much? New Guidelines Reveal the Surprising Answer&nbsp;&nbsp;AOL.comHow healthy is coffee, really?&nbsp;&nbsp;Scientific AmericanThe coffee advice given to atrial fibrillation patients may deserve a rethink&nbsp;&nbsp;news-medical.netAmerican Heart Association to coffee fans: Go ahead and have 5 cups a day (as long as you also do this)&nbsp;&nbsp;Fast CompanyCoffee consumption linked to leaner body composition and sex-specific hormone patterns&nbsp;&nbsp;Medical Xpress",
+      "summary": "How Much Coffee Is Too Much? New Guidelines Reveal the Surprising Answer&nbsp;&nbsp;aol.comThe coffee advice given to atrial fibrillation patients may deserve a rethink&nbsp;&nbsp;News-MedicalHow healthy is coffee, really?&nbsp;&nbsp;Scientific AmericanAmerican Heart Association to coffee fans: Go ahead and have 5 cups a day (as long as you also do this)&nbsp;&nbsp;Fast CompanyHow much coffee is good for you? Here’s what new research says.&nbsp;&nbsp;AJC.com",
       "sources": [
         {
-          "name": "AOL.com",
+          "name": "aol.com",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbHN4R1pLVnVZV2ZDMER6U1FXdGpwX0t0YXYyblZvUnV6eWszZVlwNzVNN3VqWjlHTkRwQXB0MzB6TGxfdzhjOGw3aXh6WVRQQnVvVXRqNmtVZHM2bjVOTmg1Mlc5OTJRdWk1aHVZbEJBc0xteEUyRTlaTnlTTDVBdQ?oc=5"
         }
       ]
@@ -285,7 +381,7 @@
       "id": "80f52b170ecd",
       "title": "Youth-associated protein helps restore healthy function in immune cells in the aging brain - Medical Xpress",
       "published": "2026-08-14T19:00:04+00:00",
-      "summary": "Youth-associated protein helps restore healthy function in immune cells in the aging brain&nbsp;&nbsp;Medical XpressImmune cells flood into the aging brain, Stanford scientists discover&nbsp;&nbsp;ScienceDailyWhy Our Memory Slips After Age 50&nbsp;&nbsp;Ground Truths | Eric TopolYouth-associated protein TIMP2 regulates microglial state and function in healthy and aged mice&nbsp;&nbsp;NatureImmune cells cross blood-brain barrier during human aging&nbsp;&nbsp;National Institutes of Health (NIH) | ",
+      "summary": "Youth-associated protein helps restore healthy function in immune cells in the aging brain&nbsp;&nbsp;Medical XpressImmune cells flood into the aging brain, Stanford scientists discover&nbsp;&nbsp;ScienceDailyWhy Our Memory Slips After Age 50&nbsp;&nbsp;erictopol.substack.comYouth-associated protein TIMP2 regulates microglial state and function in healthy and aged mice&nbsp;&nbsp;NatureImmune cells cross blood-brain barrier during human aging&nbsp;&nbsp;National Institutes of Health (NIH) | (.go",
       "sources": [
         {
           "name": "Medical Xpress",
@@ -297,7 +393,7 @@
       "id": "97036cee656c",
       "title": "Scientists Tested 39 Artificial Sweeteners and Found Most Affected at Least One Gut Bacterium - ZME Science",
       "published": "2026-08-14T18:27:59+00:00",
-      "summary": "Scientists Tested 39 Artificial Sweeteners and Found Most Affected at Least One Gut Bacterium&nbsp;&nbsp;ZME ScienceFeinsinger column: Artificial sweeteners&nbsp;&nbsp;Post Independent🧠 This sweetener could disrupt brain vascularity&nbsp;&nbsp;Techno-ScienceSugar substitutes may do more harm than good&nbsp;&nbsp;Earth.comDiet soda could be harming your brain health: 62% thinking skills loss linked to artificial sweeteners ove&nbsp;&nbsp;The Economic Times",
+      "summary": "Scientists Tested 39 Artificial Sweeteners and Found Most Affected at Least One Gut Bacterium&nbsp;&nbsp;ZME ScienceFeinsinger column: Artificial sweeteners&nbsp;&nbsp;Post IndependentDiet soda could be harming your brain health: 62% thinking skills loss linked to artificial sweeteners ove&nbsp;&nbsp;The Economic TimesSugar substitutes may do more harm than good&nbsp;&nbsp;Earth.com",
       "sources": [
         {
           "name": "ZME Science",
@@ -309,7 +405,7 @@
       "id": "eb3cd1d9cf53",
       "title": "Researchers examine unanticipated benefits of GLP-1 medications - Medical Xpress",
       "published": "2026-08-14T18:20:01+00:00",
-      "summary": "Researchers examine unanticipated benefits of GLP-1 medications&nbsp;&nbsp;Medical XpressOzempic is not just a weight-loss story anymore&nbsp;&nbsp;vox.comWhat You Need to Know About the GLP-1 Economy&nbsp;&nbsp;The NationWeight loss drugs - can the demand be contained?&nbsp;&nbsp;RTE.ieOvercomplicated GLP-1 Guidelines May Discourage Prescribing&nbsp;&nbsp;Medscape",
+      "summary": "Researchers examine unanticipated benefits of GLP-1 medications&nbsp;&nbsp;Medical XpressOzempic is not just a weight-loss story anymore&nbsp;&nbsp;vox.comOvercomplicated GLP-1 Guidelines May Discourage Prescribing&nbsp;&nbsp;MedscapeWhat You Need to Know About the GLP-1 Economy&nbsp;&nbsp;The NationWeight loss drugs - can the demand be contained?&nbsp;&nbsp;RTE.ie",
       "sources": [
         {
           "name": "Medical Xpress",
@@ -330,14 +426,38 @@
       ]
     },
     {
-      "id": "21a7218111ef",
-      "title": "What are the symptoms of Zika virus and how long do they typically last? - Cleveland.com",
-      "published": "2026-08-14T17:14:00+00:00",
-      "summary": "What are the symptoms of Zika virus and how long do they typically last?&nbsp;&nbsp;Cleveland.com",
+      "id": "802d0ee3dc16",
+      "title": "Rabid bat found outside near Minnesota elementary school - Bring Me The News",
+      "published": "2026-08-14T17:35:30+00:00",
+      "summary": "Rabid bat found outside near Minnesota elementary school&nbsp;&nbsp;Bring Me The NewsBat inside Golden Valley home attacks other bat before testing positive for rabies&nbsp;&nbsp;5 EYEWITNESS NEWSRabid bat found among colony of bats living inside Golden Valley house&nbsp;&nbsp;Bring Me The NewsRabid bat found in Minnesota home after colony entered through fireplace gap&nbsp;&nbsp;The Cool DownHealth officials warn of rabid bat found near Lanesboro Elementary School&nbsp;&nbsp;KTTC | Rochester, M",
       "sources": [
         {
-          "name": "Cleveland.com",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdDh0aV9DUFpqWjh4OWRwT2t0WGduQjVYQlNXWkYxV0EyWExNclhfcjFhbUR1UHV4VjdqY2NYMEw3Wnl5eGdrMnNqN3d5TnQ2YVE5VEpwUFJZZmtMNkRKY2dSWmpSQlBtOUJsM2VWS3JLakQ5TmxJYnVMUzMzV1U5UFJjUW04cW5yVWZ6dzhFZ1hSdzlwZ1c5TE5rMFlMSFRrRUQyeUowejRZVll2Szk4bjNlRXQ4QdIBygFBVV95cUxNUmRrQU5kWlBicms0WTRsZ1pjSkp0UFpKSE5pVkgwa0cwaTluOE44S2pjeDBmcFNfRnBwc2M0cjFlRXhuU0JmSzk5S0Z5dkpwZWM1cHp1VHI1Qk0zSGFiYkRiVDdGSjFPV0hGNGU4TzNMWDhKc0NNQktwUFEzS04zbWlEX3RIcXVud2stTXQzOTY4OFFaZEpGQkoxVE5ack1VdUNmT1FHU2NKODhaaEE4bjQyS0NoRUIzNWg2bHFJd0swZ1dEZUl1SFJB?oc=5"
+          "name": "Bring Me The News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONWd1NU9ScS1Tb3pfb1V0WnB6RWFSeGF0eF9sVGJEcWk1ZHFVWnB3bWtBMENoamF0bTJIX3dKUWNiVVhJUlIxaHhyc2VrM2FvWHlyMWJOaHo1eUFPT0R1eG82dzZRLU0yNE0zUGQ1QnBOY1h1RlhXbUtUa1B5aW1lenRrb1V5d1ZyMloyUDFxUTFwT1hmVGN4X3RHTW9Gclk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "428287d5bbb5",
+      "title": "Social Media Is Making it Harder to Remember What We Look Like - Yahoo Health",
+      "published": "2026-08-14T17:14:08+00:00",
+      "summary": "Social Media Is Making it Harder to Remember What We Look Like&nbsp;&nbsp;Yahoo Health",
+      "sources": [
+        {
+          "name": "Yahoo Health",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeGhBdjMtcEFNMGJscjJ5RzV1SlBVUFE3cmxtQTEtX3pkcTZoOWY0X1hheWlmZVVOb0hpMmtDcXE0eHFmRmJBN1V2SnNiYUJVSHNxdW55UkRUSXB2R29qQ3Y2YjZqd2dwRW44Z2pMQXVnNktucG9naXRqdXlwTDd2d2Q0TWNkc2YwRjhxRHFNblhNblF3REdScllvLTdGSzdJT3pia24wUGdsWWRTV2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "66dd891e0271",
+      "title": "Elephants may have played surprising role in early human survival, study suggests - Fox News",
+      "published": "2026-08-14T17:10:38+00:00",
+      "summary": "Elephants may have played surprising role in early human survival, study suggests&nbsp;&nbsp;Fox News",
+      "sources": [
+        {
+          "name": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOelhUbUlNVHV0c3MxTXRtb0hCMHQ1UFdPUTZfOHlEeDFDUXJpQ3dlYmhtUFVMelFZakp5UktVWVh1TEo0U0VadzJSVlpQeGVrUzRXTEFNR3NPZWE1X085eE4wOWpyWExlY0RsTFh1Y0VkaFQySjBIak1qRVpRYXpubkkyWlFqYlh4d0RRaWZnaG9KUjB2OTA5YlRlLXJVdE9QTmFha0EwOWVDU2dqX254UEZB0gG3AUFVX3lxTE5KVkpNSUw4WWg0enpqcTBvQl84T2FyQWRSamg1ZDZXQkV3OGJvbldyb2pZRTd6cHljUTBMQl9SQTdoc2lLLXJkcm1OWER4bS1lckdtams4Q2I4bHpqbE1RRkxoMWFMUlN1YkwwZFowU0tOWjZwQlltZ3kxRFNfU3FMd1pGNzlGVjc2akdzSHEzUThfMjhwUlozTHNCR2swRDAteVJsd2wwYTFmZ3NvWTVwN0IwRjA0MA?oc=5"
         }
       ]
     },
@@ -357,11 +477,35 @@
       "id": "ae56bd5e7ce3",
       "title": "Is there a summer COVID-19 surge this year? Yep, it’s ramping up again - NPR",
       "published": "2026-08-14T16:37:54+00:00",
-      "summary": "Is there a summer COVID-19 surge this year? Yep, it’s ramping up again&nbsp;&nbsp;NPRSummer is now California’s COVID busy season as winter waves fade&nbsp;&nbsp;Los Angeles TimesMutated COVID-19 variant could be behind surge in SF virus levels&nbsp;&nbsp;SFGATEWastewater data shows COVID-19 surge in several Bay Area communities&nbsp;&nbsp;NBC Bay AreaIs Your Cold Actually COVID? What to Know as the Summer Surge Begins&nbsp;&nbsp;Everyday Health",
+      "summary": "Is there a summer COVID-19 surge this year? Yep, it’s ramping up again&nbsp;&nbsp;NPRMutated COVID-19 variant could be behind surge in SF virus levels&nbsp;&nbsp;SFGATEWastewater data shows COVID-19 surge in several Bay Area communities&nbsp;&nbsp;NBC Bay AreaSummer Surge Of COVID On US West Coast Driven By Mutated “Cicada” Variant&nbsp;&nbsp;IFLScienceIs Your Cold Actually COVID? What to Know as the Summer Surge Begins&nbsp;&nbsp;Everyday Health",
       "sources": [
         {
           "name": "NPR",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56cVVRdVNLNFZQamRMYWNRRUhnRGswWEJjQnZfdHRXMGczSHBWQ3JxeFktam1Sa2dRZU5mTXcxbzhXM3QybWQ1N2k5ek5RQjFYalBoSVduSFltZzNkampNb0lqWlNGYVRpVzdVd0VONjk4cURPcWZXbzMyZGNmVlU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b56f0ad7585a",
+      "title": "NJ reports first case of Zika virus in six years. Here's what to know. - Gothamist",
+      "published": "2026-08-14T16:23:44+00:00",
+      "summary": "NJ reports first case of Zika virus in six years. Here's what to know.&nbsp;&nbsp;GothamistA virus that terrified the world just resurfaced in the U.S.&nbsp;&nbsp;Cleveland.com1st Zika Case Since 2020 Confirmed In NJ&nbsp;&nbsp;PatchNew Jersey Reports First Case Of Zika Virus Since 2020&nbsp;&nbsp;News12 | New JerseyA Virus Many Forgot About Just Showed Up Again in the U.S.&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "Gothamist",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeGpTdjEtOGIwbUE0c085MlRkWmRJZHVlb0NTUUNLMWdpWXNBa3FGVzlZVlpRTFgwZVN6V0xqcllzbmlUX3otbHlBb2JHbTJrQ1VCOUhXU3BQWTFHV05nMkt3Y2s3OW1HZ0tfU3ZSNUdreUZiUkI2NjRWdXJ0Z3JIVFlEdVh2cFZMVi1POHdPMUVudHMyYVc5dkJ3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3f2893ef7fec",
+      "title": "Iceberg, romaine, kale: which salad greens are healthiest? - The Guardian",
+      "published": "2026-08-14T16:23:00+00:00",
+      "summary": "Iceberg, romaine, kale: which salad greens are healthiest?&nbsp;&nbsp;The Guardian",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT1lYU19rc2ppTHRjTTRqcTg5RVZzVHlId1J1YkhxWE9laGdEUFJjTms5czNCdkIwUjhLeVZ4LWVNb2NKRXU2SkhSMF9UTy1vUENScmtFR3ZLOTFSaTBNRXhzVS03ZElnYllwQjkzbFVhTnc4cnZaZ3ZsU3dJeHlPODllaXhiSi1zSzRRRlJoa2hiVWE4YXVCcVJR?oc=5"
         }
       ]
     },
@@ -378,26 +522,26 @@
       ]
     },
     {
-      "id": "ec7728f97297",
-      "title": "Life on Earth may have begun twice. A Science Advances study found that bacteria and archaea inherited one ancient genetic code but independently evolved the machinery needed to become free-living cells — leading the researchers to describe it as “one - spacedaily.com",
-      "published": "2026-08-14T15:31:19+00:00",
-      "summary": "Life on Earth may have begun twice. A Science Advances study found that bacteria and archaea inherited one ancient genetic code but independently evolved the machinery needed to become free-living cells — leading the researchers to describe it as “one&nbsp;&nbsp;spacedaily.comScientists find evidence for two origins of life on Earth&nbsp;&nbsp;ScienceDailyAll Life on Earth Comes From One Single Ancestor. And It's So Much Older Than We Thought.&nbsp;&nbsp;Popular MechanicsDid Cellular Life Begin ",
+      "id": "f0ec8205065e",
+      "title": "Brain autopsies reveal fewer Alzheimer’s signs in woman who took menopause drug - New York Post",
+      "published": "2026-08-14T15:39:00+00:00",
+      "summary": "Brain autopsies reveal fewer Alzheimer’s signs in woman who took menopause drug&nbsp;&nbsp;New York PostLater-life estrogen therapy associated with lower risk of developing dementia&nbsp;&nbsp;News-MedicalStudy ties estrogen-based menopausal hormone therapy to lower Alzheimer’s risk&nbsp;&nbsp;Stanford MedicineAssociation Between Menopausal Hormone Therapy and Alzheimer Disease Neuropathology&nbsp;&nbsp;National Institutes of Health (NIH) | (.gov)Alzheimer's risk may be 35% lower with common men",
       "sources": [
         {
-          "name": "spacedaily.com",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOWljM0Yyczdrejk2NHFTRnpUSng3Q0VmaG42bnJsR3ZiQXdYNFQyQ1Ztck1hQVlueDBiRVk0a1dZYllPTWg0WGFYcHRPRWRUazVJeTA2cHA5aHVGczdXcldFSDVuMjdQZkNFODluNkJ3aTJuRVhkaWw5ZTJ4Ui1QMkQ3MzR5OUcxN0xR?oc=5"
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObGpKY0Z5T1hLUlBXNFhxMEFwT2FCdmpYQ0dKRDZ0TFR1eHR2ZWR0a21mR0Z1RmlJVm5FVFBvdGRPWmFJVVFrNXBtSFVRb1JNZmllbG5UUmZVU2cwM0o2aTlQQmQxLW5sOXJCa3VNaU9vMUN0YVA2Q1d2d195WU9MaFdYbldaWVgteHRnRjJNU1VoUDg?oc=5"
         }
       ]
     },
     {
-      "id": "8f896aea05ab",
-      "title": "Problem Drinking Declines in the US - Newser",
-      "published": "2026-08-14T14:40:00+00:00",
-      "summary": "Problem Drinking Declines in the US&nbsp;&nbsp;NewserProblem Drinking in the U.S. Is on the Decline&nbsp;&nbsp;nytimes.comThe number of Americans who drink in a way that crosses the line into alcohol use disorder decreased by several million over five years, a survey found. https://nyti.ms/4ziuAd5&nbsp;&nbsp;facebook.comProblem drinking on the decline in the U.S.&nbsp;&nbsp;The Seattle TimesSubstance Use Disorders Decline but Treatment Gap Persists&nbsp;&nbsp;Medscape",
+      "id": "d494cdc49c21",
+      "title": "Life on Earth may have begun twice. A Science Advances study found that bacteria and archaea inherited one ancient genetic code but independently evolved the machinery needed to become free-living cells — leading the researchers to describe it as “one - Space Daily",
+      "published": "2026-08-14T15:31:19+00:00",
+      "summary": "Life on Earth may have begun twice. A Science Advances study found that bacteria and archaea inherited one ancient genetic code but independently evolved the machinery needed to become free-living cells — leading the researchers to describe it as “one&nbsp;&nbsp;Space DailyScientists find evidence for two origins of life on Earth&nbsp;&nbsp;ScienceDailyAll Life on Earth Comes From One Single Ancestor. And It's So Much Older Than We Thought.&nbsp;&nbsp;Popular MechanicsDid Cellular Life Begin Twi",
       "sources": [
         {
-          "name": "Newser",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMkpHUHkxVkpsR1U4aWdabGJBRkxiVWE3TWJMNDRjZFlib3lnWUhNcG1JSE1EMFpVa0VkUVZ5V0JMcVZiOTd6Wm9XMzB5Njd6Nm9ScFZmLWE4QmFXRi1BZW4wM2hsbkthUjVjR1NaOERtUDZwcW0tNTY5NDVyRjlpMWhB?oc=5"
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOWljM0Yyczdrejk2NHFTRnpUSng3Q0VmaG42bnJsR3ZiQXdYNFQyQ1Ztck1hQVlueDBiRVk0a1dZYllPTWg0WGFYcHRPRWRUazVJeTA2cHA5aHVGczdXcldFSDVuMjdQZkNFODluNkJ3aTJuRVhkaWw5ZTJ4Ui1QMkQ3MzR5OUcxN0xR?oc=5"
         }
       ]
     },
@@ -405,23 +549,11 @@
       "id": "10d3b404019f",
       "title": "Ticks that cause Lyme and other diseases have migrated south. Are doctors ready? - NBC News",
       "published": "2026-08-14T14:04:00+00:00",
-      "summary": "Ticks that cause Lyme and other diseases have migrated south. Are doctors ready?&nbsp;&nbsp;NBC NewsLyme disease is spreading into southern Appalachia, increasing the need for public education&nbsp;&nbsp;CIDRAPTick Populations Surge as the Climate Warms, and Farmers Bear the Brunt&nbsp;&nbsp;Civil EatsSpecial Report: War on Ticks&nbsp;&nbsp;highlandscurrent.orgSummer Marks Peak Season for Tick-Borne Diseases: How to Educate Patients&nbsp;&nbsp;dermatologyadvisor.com",
+      "summary": "Ticks that cause Lyme and other diseases have migrated south. Are doctors ready?&nbsp;&nbsp;NBC NewsLyme disease is spreading into southern Appalachia, increasing the need for public education&nbsp;&nbsp;CIDRAP“No Lyme in the South”? Latest CDC report says otherwise&nbsp;&nbsp;LymeDisease.orgNBC News Highlights UNC-Led Study About Lyme Disease in North Carolina&nbsp;&nbsp;UNC HealthAsheville Area Ticks Carry Lyme Bacteria at Northeast Levels, While Local Doctors Were Trained to Call It Rare&nbsp",
       "sources": [
         {
           "name": "NBC News",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcWNHMjFXM2VLVFNmTmcxLWRtemRKYWs5WUVyVU9QWnkxTjdXRjA4TWM4TGdKU1Uwai1GWGFUb2pWZHdTZ0phck1JSlNqZldjU1FpblRSUy1hU2w4dFB0aGxuQllnRVVMOENCNXFFWWdHVkd1c1FrUU5VUW1XM0FGOGFqcHhxU21aU21qOFdvUVZ5UUtDdVBXRG1rR05NUkN6dExQeFh1UjktdE96UmFkSw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9ca6d6e39640",
-      "title": "8 Foods Men Should Eat Every Week for Better Blood Pressure - EatingWell",
-      "published": "2026-08-14T14:00:00+00:00",
-      "summary": "8 Foods Men Should Eat Every Week for Better Blood Pressure&nbsp;&nbsp;EatingWellThe Number-1 Food to Lower Blood Pressure, According to Cardiologists&nbsp;&nbsp;PreventionScientists Reveal 1 Nutrient That May Help Lower Blood Pressure&nbsp;&nbsp;Yahoo Health",
-      "sources": [
-        {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY0VUU3ZlWHlPWEJzTTB1MzhQQUc5WlBOSTJPR0VWd3ptZ1dSaDBmMnQ1QlB4N3NjMkZZWENBckNGQjREajlvUWZTOEZ6ZEwtSXMyejFOM3lpWldCS21qb0pvM1d1NXpsSFhUUlU2UTlIZXp0aHdZa1RoWWhGWnpqWFlEai13aVRLOUE?oc=5"
         }
       ]
     },
@@ -441,11 +573,23 @@
       "id": "27502a08f5f7",
       "title": "Quitting alcohol changes the brain and can increase the risk of compulsive drinking – new research in mice - The Conversation",
       "published": "2026-08-14T12:37:19+00:00",
-      "summary": "Quitting alcohol changes the brain and can increase the risk of compulsive drinking – new research in mice&nbsp;&nbsp;The ConversationAlcohol Consumption and Risk of Dementia and Cognitive Decline: From Evidence to Prevention Strategies&nbsp;&nbsp;EMJStudy Finds Alcohol Abstinence Changes Brain, May Foster Relapse&nbsp;&nbsp;India News Network",
+      "summary": "Quitting alcohol changes the brain and can increase the risk of compulsive drinking – new research in mice&nbsp;&nbsp;The ConversationAlcohol Consumption and Risk of Dementia and Cognitive Decline: From Evidence to Prevention Strategies&nbsp;&nbsp;EMJAlcohol-induced brain damage continues even after quitting drinking&nbsp;&nbsp;Earth.comStudy Finds Alcohol Abstinence Changes Brain, May Foster Relapse&nbsp;&nbsp;India News Network",
       "sources": [
         {
           "name": "The Conversation",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeUtYREVFbmdIXzljLUlFaG13bDZjY0lDLTBKZk9sc2NHWjJSSmRLWURnV05EU3RDODVDbDRDTXdmVElPcWJOQTJMX1FyQVlfTTVxWXQ1Mm0zSVYtRmsyakJlbmF6NVFLMG9IQ1lOOVVUeTJ6Sm1rX3VfR3I4MENjMnFYZEdaR2JidkpnUFlPU2w1SjVHeHNpdmRzbF9uLTBvTG9NdElQNWtPa0FzQjZFOTVPOWUxT1E0aDlFTHVUbFVrTFgyaXhuWlNmeGJua1ZldmNZX0N3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "429df6d2465d",
+      "title": "A New Study Links 2 Midlife Health Habits to Slower Cognitive Decline - inc.com",
+      "published": "2026-08-14T12:12:20+00:00",
+      "summary": "A New Study Links 2 Midlife Health Habits to Slower Cognitive Decline&nbsp;&nbsp;inc.comExercise may help the aging brain “take out the trash”&nbsp;&nbsp;ScienceDaily30 Minutes, 3 Exercises: A Routine for an Aging Brain&nbsp;&nbsp;Nautilus | ScienceExercise and Dementia: Just 35 Minutes a Week May Reduce the Risk | Health Matters | NYP&nbsp;&nbsp;NewYork-PresbyterianOne tip to go: Exercise your brain&nbsp;&nbsp;Axios",
+      "sources": [
+        {
+          "name": "inc.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNzc3Q3RUUkNITUI5N3p1SUV3UUZuNF9GT3ZxaDRjUndtNE51ZGFKOFFvLUw0ZG9XTmE0cnZabzZLZzlZRzdyczczaElONkk3bWozTGF3TjNZVjNLLW5aRU1tZVdxOHVfMEc3MU94eU1fUFpzZDYxQ0N3ZEhjNmY1VEJvVFVFNW1kQTc3UmZZMEdTdHB5NWlIM21Wd1lFMWlwcHVPeHp0Z1FCaTNhYmpGd3NfYw?oc=5"
         }
       ]
     },
@@ -462,13 +606,13 @@
       ]
     },
     {
-      "id": "842ac7027942",
-      "title": "Geriatrician Says Her Healthiest Patients in Their 70s and Older All Avoid This 1 Thing - TODAY.com",
+      "id": "f65292dccbec",
+      "title": "Geriatrician Says Her Healthiest Patients in Their 70s and Older All Avoid This 1 Thing - today.com",
       "published": "2026-08-14T12:00:41+00:00",
-      "summary": "Geriatrician Says Her Healthiest Patients in Their 70s and Older All Avoid This 1 Thing&nbsp;&nbsp;TODAY.com",
+      "summary": "Geriatrician Says Her Healthiest Patients in Their 70s and Older All Avoid This 1 Thing&nbsp;&nbsp;today.com",
       "sources": [
         {
-          "name": "TODAY.com",
+          "name": "today.com",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUDZFVzhrVTRqMnlRak04UG1FNW1RNTZYY3dwTlFIRlMwdURPNTRVbDVKRmpGaFhoWlhYNlExdy1zVGFsdENtZVAybFE2R2c5VXNoQTdWMER2V1RIanlNQ0pQVDl4NVY5clQtdXlxUHR6cFdHQklaMlJKakZxM3FYdEdxOEtUcElpSk9uT2hBVWZxSWpvYnItYg?oc=5"
         }
       ]
@@ -489,7 +633,7 @@
       "id": "fa7b75b460dd",
       "title": "Foods Making Up Most Americans’ Diets Linked to Higher Prostate Cancer Risk - Newsweek",
       "published": "2026-08-14T11:37:00+00:00",
-      "summary": "Foods Making Up Most Americans’ Diets Linked to Higher Prostate Cancer Risk&nbsp;&nbsp;NewsweekUltra-Processed Foods Linked to Notably Higher Prostate Cancer Risks&nbsp;&nbsp;fau.eduJunk Food & Prostate Cancer; 'Office' Star's Stage IV Diagnosis; New Cancer Cluster?&nbsp;&nbsp;medpagetoday.comProcessed Foods Linked To Prostate Cancer Risk&nbsp;&nbsp;U.S. News & World ReportEating This Food Increases Men's Chances Of Prostate Cancer By As Much As 34%, According To US Researchers&nbsp;&nbsp;ETV Bh",
+      "summary": "Foods Making Up Most Americans’ Diets Linked to Higher Prostate Cancer Risk&nbsp;&nbsp;NewsweekUltra-Processed Foods Linked to Notably Higher Prostate Cancer Risks&nbsp;&nbsp;Florida Atlantic UniversityJunk Food & Prostate Cancer; 'Office' Star's Stage IV Diagnosis; New Cancer Cluster?&nbsp;&nbsp;medpagetoday.comProcessed Foods Linked To Prostate Cancer Risk&nbsp;&nbsp;U.S. News & World ReportHigher intake of ultra-processed food associated with increased prostate cancer risk&nbsp;&nbsp;Urology ",
       "sources": [
         {
           "name": "Newsweek",
@@ -501,7 +645,7 @@
       "id": "3f30f92e5fa1",
       "title": "‘Super movers’ are speed walking their way to better brain health - CNN",
       "published": "2026-08-14T11:00:29+00:00",
-      "summary": "‘Super movers’ are speed walking their way to better brain health&nbsp;&nbsp;CNNFast walkers in their eighties linked to lower dementia risk&nbsp;&nbsp;The TimesPhysical therapy faculty research cited in Washington Post article&nbsp;&nbsp;Elon UniversityHow Much Movement Does Your Aging Brain Really Need?&nbsp;&nbsp;MindBodyGreenDementia: Walking speed in your 80s linked to 50% lower risk of brain decline&nbsp;&nbsp;GB News",
+      "summary": "‘Super movers’ are speed walking their way to better brain health&nbsp;&nbsp;CNNFast walkers in their eighties linked to lower dementia risk&nbsp;&nbsp;The TimesPhysical therapy faculty research cited in Washington Post article&nbsp;&nbsp;Elon UniversityHow Much Movement Does Your Aging Brain Really Need?&nbsp;&nbsp;MindBodyGreenDementia: Walking speed in your 80s linked to 50% lower risk of brain decline&nbsp;&nbsp;gbnews.com",
       "sources": [
         {
           "name": "CNN",
@@ -510,14 +654,14 @@
       ]
     },
     {
-      "id": "d8ab64f42ba3",
-      "title": "Scientists Reveal 3 Lifestyle Factors That May Delay Dementia by 12 Years - Yahoo Health",
-      "published": "2026-08-14T10:26:00+00:00",
-      "summary": "Scientists Reveal 3 Lifestyle Factors That May Delay Dementia by 12 Years&nbsp;&nbsp;Yahoo HealthSee more headlines & perspectives on Google News",
+      "id": "455908fdda88",
+      "title": "Dr. Roach: High-dose statin appears to be too much for cholesterol patient - The Detroit News",
+      "published": "2026-08-14T10:15:00+00:00",
+      "summary": "Dr. Roach: High-dose statin appears to be too much for cholesterol patient&nbsp;&nbsp;The Detroit NewsWhat are statins — and why do so many people take them?&nbsp;&nbsp;Hood County NewsStatins: Benefits outweigh risks, landmark study finds&nbsp;&nbsp;Deccan HeraldWarning issued to millions on atorvastatin for high cholesterol&nbsp;&nbsp;AOL.co.uk",
       "sources": [
         {
-          "name": "Yahoo Health",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ3ltUUpLN2xwZENkQjdPOW1oV19NTVVaZjFyeTlFX0RwZ3FYQldIVmlFUUtoMWhzbFU2ekh4akdWQzl5Tk8tdjJVSGRwNGgwaEVIYUZYYjZIMTZLaDYyek5Iem9qanNEbkktdDBVS1RTYjJMUXNaT3FqYU5CNW9hUnB6Q2pUeUVXU2dncXZlLTY5RzBQaTZLZEp3dEo4NUhxRWJiWmxINnNyd1RGb1l0RC1jeDlma24waHFn?oc=5"
+          "name": "The Detroit News",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOM0xaR2RvdE9TZHFyWGtkLXVLNTdYOG52cV82cG1sWVJfd09TVVQxTkF1VzZSWHZDQ0JGUVgzZHluVEpYVmRzOUxGY3lhVmtrNWxXbktPNEloSjVGcGo2anpUZUNSb3J4dGlMRzBDd2RadDA1T1lMeDZLU3V0eFh4cWEyMkQzRUVVUE1tMEJDR2pLbEJuTXhiZEVOdXh5Q2dFOEFOSU15SWhEM2NqRzZobHFtb19GNkVkcDQ2YlJFcnVHOTRIeFpySGxIYzF6SE5hRjktU0VDcHpodw?oc=5"
         }
       ]
     },
@@ -537,11 +681,23 @@
       "id": "ab60348e708a",
       "title": "The FDA approved the first mRNA flu vaccine for use in older adults. Here’s what to know - CNN",
       "published": "2026-08-14T10:00:30+00:00",
-      "summary": "The FDA approved the first mRNA flu vaccine for use in older adults. Here’s what to know&nbsp;&nbsp;CNNSee more headlines & perspectives on Google News",
+      "summary": "The FDA approved the first mRNA flu vaccine for use in older adults. Here’s what to know&nbsp;&nbsp;CNNFor the First Time, an mRNA Flu Shot Will Be Available to Some People in the United States. Here's What You Should Know&nbsp;&nbsp;smithsonianmag.comStronger, faster, better: the new mRNA flu vaccine&nbsp;&nbsp;The WeekThere's a new flu vaccine on the market. Will it move the needle on reducing disease?&nbsp;&nbsp;Medical XpressA new flu shot for adults 50+: Here’s what to know&nbsp;&nbsp;Novan",
       "sources": [
         {
           "name": "CNN",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aQXM5elExaVF3UWREbF9QakVfVmlHTkwyZUtQVVlab3lPN0VfTkd6YlJJQVJPeVB5X0YyMy1pcmxHYUtCNXRVdndlb3dkUmcwdUJHMkh0d0xNeU0wei1xSVBZZlhiLVVrV3E5Qg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4cd1e5bed2a1",
+      "title": "Inside WIRED’s Brain Week - WIRED",
+      "published": "2026-08-14T10:00:00+00:00",
+      "summary": "Inside WIRED’s Brain Week&nbsp;&nbsp;WIREDWhen Your Brain Is in Your Arm&nbsp;&nbsp;WIREDHow does a soft-bodied ocean animal with no bones and no central command run its eight limbs semi-independently, keeping roughly two-thirds of its half-billion neurons out in the arms themselves?&nbsp;&nbsp;spacewar.com",
+      "sources": [
+        {
+          "name": "WIRED",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvZEJ3eWhYX19MZzU5aHRxSUc1N2ozUVdsaHVoTW1QdWdxeUJEMGd2cDlRd2NScDRxRzNXNDlaa2lQVGk0OU1SR1hsZw?oc=5"
         }
       ]
     },
@@ -558,134 +714,38 @@
       ]
     },
     {
-      "id": "d40689c0c5a0",
-      "title": "Billionaire Home Depot cofounder Bernie Marcus’ foundation donates nearly $30 million toward stem cell research for heart attacks - Yahoo",
+      "id": "65c1b473e1cb",
+      "title": "Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired - The New York Times",
       "published": "2026-08-14T07:00:00+00:00",
-      "summary": "Billionaire Home Depot cofounder Bernie Marcus’ foundation donates nearly $30 million toward stem cell research for heart attacks&nbsp;&nbsp;YahooMarcus Foundation donates nearly $30 million toward research for stem cell for heart attacks&nbsp;&nbsp;FortuneHuge philanthropic grant funds pioneering stem cell-based heart attack therapy&nbsp;&nbsp;news-medical.netHome Depot billionaire Bernie Marcus' foundation donates $28.7 million to stem cell research that could repair hearts damaged by heart at",
+      "summary": "Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired&nbsp;&nbsp;The New York TimesNASA Astronaut Mike Fincke Leaves NASA, Career Includes 4 Spaceflights&nbsp;&nbsp;NASA (.gov)Mike Fincke, longtime astronaut from Pittsburgh area, retires from NASA. But he has a new mission.&nbsp;&nbsp;Pittsburgh Post-GazetteNASA astronaut Mike Fincke leaves agency months after medical emergency in space&nbsp;&nbsp;CNNMike Fincke, a 30-year astronaut with experience across four spac",
       "sources": [
         {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcTAwM2c0Q0NEQ241Tkt3MG9ncnFfcFpRZmRPLVgybXJCS2Zrd1djbmFHUEtaeFRvemZFNDVSdExBR1MyblJ6RUpGOU1WZjBJdW9Qd1RSdjNENkxOOUZJY0dkN3lYZDZMRFlxMmhHdmlJNDdmYkdxYlA5eTZVTmdFYTBGVW5BeTdXVjBxczZ5YUgwM1RkMmdlWmRSUHJiNHM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b589e6897912",
-      "title": "Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired - nytimes.com",
-      "published": "2026-08-14T07:00:00+00:00",
-      "summary": "Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired&nbsp;&nbsp;nytimes.comNASA Astronaut Mike Fincke Leaves NASA, Career Includes 4 Spaceflights&nbsp;&nbsp;NASA (.gov)NASA astronaut Mike Fincke leaves agency months after medical emergency in space&nbsp;&nbsp;CNNMike Fincke, longtime astronaut from Pittsburgh area, retires from NASA. But he has a new mission.&nbsp;&nbsp;Pittsburgh Post-GazetteMike Fincke, a 30-year astronaut with experience across four spacecraft,",
-      "sources": [
-        {
-          "name": "nytimes.com",
+          "name": "The New York Times",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ0R5dTRLNzZhYmloRi1UNHdqRkRWUDdFWHc4dUZRaEg2MEdGNi1vNHdOc0xTLTJVaVV0X3puU0VIbWNyV3pfY3VrVmw1Z2pvTWpuTGRwOFFiUDRRSVJWYkhIRUVwV3pTc2tlc3NCZWdQODBHMjUtbGtwbmxHdmVWXzdFTQ?oc=5"
         }
       ]
     },
     {
-      "id": "b5c0a3e8301e",
-      "title": "A 30-year study found a surprising link between alcohol, survival and heart attack risk - news-medical.net",
-      "published": "2026-08-14T05:17:00+00:00",
-      "summary": "A 30-year study found a surprising link between alcohol, survival and heart attack risk&nbsp;&nbsp;news-medical.netWine, beer, or spirits? Massive study finds a surprising health divide&nbsp;&nbsp;ScienceDailyBeer, wine or liquor? Massive study reveals which was linked to lower death risk&nbsp;&nbsp;Fox NewsAlcohol Intake and Health: Where Does Risk Begin?&nbsp;&nbsp;NEJM ClinicianStudy Proves Wine Wins for Heart Health&nbsp;&nbsp;Wine-Searcher",
+      "id": "8c94d404f502",
+      "title": "I’m a physio to the over 50s – the seven signs you’re ageing well - inews.co.uk",
+      "published": "2026-08-14T06:00:00+00:00",
+      "summary": "I’m a physio to the over 50s – the seven signs you’re ageing well&nbsp;&nbsp;inews.co.ukThis One-Minute Test Can Predict How Well You're Aging&nbsp;&nbsp;Oprah DailyAcing a simple one-leg test could cut your risk of dying in half: study&nbsp;&nbsp;New York PostSimple Fitness Test Could Offer Clue About Life Expectancy In Older Adults&nbsp;&nbsp;DailyVoice.comThe One-Leg Test That Could Reveal Your Risk of Dying&nbsp;&nbsp;VICE",
       "sources": [
         {
-          "name": "news-medical.net",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOc1pBdUpPMk9jUjhOM2dBc1k0dXRHQUZuam5KU2MzMHZoVlJubFE1OEVCVzF3OF9fME9VS1NINzF3TnZXYk0yOTZ0SnBGbGJqeEI0TnlrTFV0Y2JEeU0yb21nRzJVWGxxYnBwVVlFMlBaTUJQdkl6TVJ4TUxXVTEyMnU5aVZRekFydE9GWGxEUkVXanJPaWl3VGRtV29Ua3lpcnBCQTZBSFpZbTVSaWl4VHhTRWg5T1NQZThLcHh0WDYzSmUxNjlEUW9ScTVsbXc?oc=5"
+          "name": "inews.co.uk",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSkJESnVLWkNiQ3ZSTEltb25LQ0E5VDkyQ0NGSV9fcEdBWlE3YlJfaHpNY0dNUlBLU01Qb3VYaVk0TVBkUzloMV94V2RQYXdxcXRXMVpBbkF2V08zczlvMDh1dXliS3p1b1gyVnhzMUVfV1JIcG9QRDBuQ0FHUVFYdW9BczItcUZzdW40?oc=5"
         }
       ]
     },
     {
-      "id": "3edf157774d4",
-      "title": "Cutting Meat And Dairy For Just a Few Weeks Can Alter Your Body's Chemistry - ScienceAlert",
-      "published": "2026-08-14T00:45:59+00:00",
-      "summary": "Cutting Meat And Dairy For Just a Few Weeks Can Alter Your Body's Chemistry&nbsp;&nbsp;ScienceAlertA Vegan Diet May Begin Changing Gene Activity in Just 4 Weeks&nbsp;&nbsp;SciTechDailyA New Study Shows 4 Weeks on This Diet Can Start Turning Back Your Biological Clock&nbsp;&nbsp;inc.comShort-Term Vegan Diet Linked To Lower Inflammation And Aging&nbsp;&nbsp;U.S. News & World ReportStudy Finds Cutting Meat And Following A Vegan Diet May Affect How Genes Work&nbsp;&nbsp;RTTNews",
+      "id": "931dafaeb277",
+      "title": "Aditya-L1: Indian solar mission's new findings throw light on enduring Sun mysteries - BBC",
+      "published": "2026-08-14T02:13:27+00:00",
+      "summary": "Aditya-L1: Indian solar mission's new findings throw light on enduring Sun mysteries&nbsp;&nbsp;BBCstem.io: Why is the Sun's atmosphere invisible until it's hidden?&nbsp;&nbsp;ButtondownWhy corona is too hot to handle: Indian researchers point to Sun’s magnetic dance&nbsp;&nbsp;Telegraph IndiaAditya-L1 Data Offers New Clues to Mystery of Sun’s Super-Hot Corona&nbsp;&nbsp;INDIA New England NewsThe Sun’s outer atmosphere is roughly 200 times hotter than its visible surface — millions of degrees ag",
       "sources": [
         {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORlpaWXRVR2NYMU5QeWdlcTBqeTB0Z003OG5rTDMyRS1kSjNYZk1ENmFhOUZkTkk3ajNodjI3WnBibl9uNWFBZkpMTERoZjRBSy02bFFkLXNyZ2xQSlUxdEFkaHBjc3Y3X2RDdkVKWE1Kb2lPd2xIS2paMHVqRUdoQlpOZHk0d1oySENEb1VYdlo3R3VDeUpSazBCeXB2dHIwQzNwSUlB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b1196102f53c",
-      "title": "US wait times for cancer surgeries are getting longer and longer - Ars Technica",
-      "published": "2026-08-13T22:17:29+00:00",
-      "summary": "US wait times for cancer surgeries are getting longer and longer&nbsp;&nbsp;Ars TechnicaCancer Patients Are Being Forced to Wait Longer Before Treatment: Study&nbsp;&nbsp;People.comUS cancer patients are facing longer waits for surgery - and the consequences are dire&nbsp;&nbsp;The IndependentCancer patients face longer wait times to begin treatment, according to new study&nbsp;&nbsp;The Boston GlobeCancer patients are waiting longer to start treatment than they did a decade ago, study finds&nbs",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS1hSZkRTT3lvczd2bDN2TjZyZWhiZkRTdThkWTQ4TlI0MkpnWXNhSEhDeEZHWmxLMV83TTBXZDdQTG43ZHRQdGFITkI1TEFoUEVHdjB5dVhOOUpjWWdpSG51cVlOQVRBaFJGTGhuQUpCMzlQWDRqdzUxTFBCOWJLR0dkcHNmbm81bWtjdHAyRmVFSnN6dzUyYTNzdThvNlJjQ0R4eGpKQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7227ffd2a6d1",
-      "title": "Astronomers use a trail of stars beyond the Milky Way to map a distant galaxy’s dark matter - CNN",
-      "published": "2026-08-13T20:59:49+00:00",
-      "summary": "Astronomers use a trail of stars beyond the Milky Way to map a distant galaxy’s dark matter&nbsp;&nbsp;CNNEvidence for the first globular cluster stellar stream beyond the Milky Way&nbsp;&nbsp;NatureA cosmic breadcrumb trail leads astronomers to a discovery in another galaxy&nbsp;&nbsp;KCCIA Rare Extragalactic Stellar Stream Reveals Hidden Dark Matter&nbsp;&nbsp;Universe TodayNASA's Hubble Telescope Discovers Faint Stellar Stream Outside Milky Way&nbsp;&nbsp;ndtv.com",
-      "sources": [
-        {
-          "name": "CNN",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWEM1M0VfUzZncVVFTVA5dmVXU3NjZXpnQmRvcGVHRGRUN1Q5Nm1EYjIzWjBOMk9FY3gwM3ZTLTBPckNtS0hTb3JwWWxDZ3QzcHRJRzRXR1o4VFRvNmNMWUxFQXMwZGhONW85bl9ScktXaUN2TEs2NmhTSmhqcWlKRXB0YmQtaVU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "67150c4a74b0",
-      "title": "Memory may not work how we thought, study of mice in artificial hibernation finds - Live Science",
-      "published": "2026-08-13T20:40:00+00:00",
-      "summary": "Memory may not work how we thought, study of mice in artificial hibernation finds&nbsp;&nbsp;Live Science‘Remarkable’ discovery upends our understanding of how brains store memories&nbsp;&nbsp;New ScientistMore than half of hippocampal synapses vanish, yet mouse memories remain intact&nbsp;&nbsp;Medical XpressMemories Mysteriously Survive After Brain Shutdown, And Scientists Don’t Know Why&nbsp;&nbsp;404 MediaArtificial hibernation unlocks long-held secrets of long-term memory&nbsp;&nbsp;BioTech",
-      "sources": [
-        {
-          "name": "Live Science",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYmVnOGZwSUx5ZU43aUVHNEZOVkRmdnpicGJRbUJaVmxOOVBybWNBQXFGVjZIY3BBb3FCOHhYeDZ4VlpndDUxOXFWMHJyZVRSTHExRHdlckN5RWs5bHZGR01ybEZUbmxpSXJ2Si0tNHlXOHBfOFdyZHYzYW1nX2c1NWlwNm9sVkw2S0FIcUNvTVFTT0FkcjV5b0pxUzBsc0ZFQ2kyMFlGeFpCSW01TTdxeDZ2QWpSNnJneFphMGEtWGx2V3pJWHBV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1fab51b3b040",
-      "title": "Here’s what we know about the VA’s new GLP-1 study - Task & Purpose",
-      "published": "2026-08-13T19:51:06+00:00",
-      "summary": "Here’s what we know about the VA’s new GLP-1 study&nbsp;&nbsp;Task & PurposeHow weight-loss medication is changing relationships with alcohol&nbsp;&nbsp;BBCMetro Atlanta vets could be some of the first to test GLP-1s for treating alcohol use disorder&nbsp;&nbsp;WSB-TVOzempic may have revealed the brain’s hidden “craving center”&nbsp;&nbsp;ScienceDailyCU Anschutz clinical trial finds GLP-1s help curb alcohol use disorder&nbsp;&nbsp;9News",
-      "sources": [
-        {
-          "name": "Task & Purpose",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14NEpCNGNyZ0lLRFZNSVRWRjNVQmpRd19VTjE0ZWxxWVU1SFZ5MVF5ZzA3RHVkejFLZjZMWEM2cU10NXY4bkVEN3NrNUwwbkgwaF82VGFHdkMzZ3gtbG1iWkRqZ3B6QU5zZzM1WndoaUpOUk0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1e285bb6c440",
-      "title": "Rare government plane spotted flying back to the US - SFGATE",
-      "published": "2026-08-13T19:41:55+00:00",
-      "summary": "Rare government plane spotted flying back to the US&nbsp;&nbsp;SFGATEAirborne observatory improves views of solar corona during cloud-covered eclipse&nbsp;&nbsp;Phys.orgHow Scientists Use Eclipses for Research&nbsp;&nbsp;nytimes.comNASA will chase the Aug. 12 total solar eclipse with balloons and a high-altitude jet&nbsp;&nbsp;SpaceItalian scientists ready new solar instrument for high-stakes eclipse test&nbsp;&nbsp;Reuters",
-      "sources": [
-        {
-          "name": "SFGATE",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03bURoOVFWc2h4TDN2VWpKaGFZdVZ1Z1d2SzFySXRfbXN4VEY2WE03Rmk0YUNjVGpyWWltR2VYX2p0MVl4NUlkMS1oSWdWR2pVemd3YXVOYmRxcFNYVWJJYmVjVGhHSTVXaHAzcWl5N255MzRjWkNGUzVBLUxRQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "46a9b6fbaa3f",
-      "title": "Stop treating ADHD as your identity - spiked-online.com",
-      "published": "2026-08-13T18:55:46+00:00",
-      "summary": "Stop treating ADHD as your identity&nbsp;&nbsp;spiked-online.comI’m a doctor — I was diagnosed with ADHD. Here’s why I don’t accept it&nbsp;&nbsp;The Times'A fine line between reducing stigma and trivialising conditions': Social media, self-diagnosis and the glamorization of ADHD&nbsp;&nbsp;Live ScienceWhat is ADHD? Common traits, misconceptions and tips for success&nbsp;&nbsp;Science News ExploresOverdiagnosed? Over Treated? Completely Made Up? What Experts Think About ADHD, And The Moral Panic",
-      "sources": [
-        {
-          "name": "spiked-online.com",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWGg0ZWROMEROTFF6V2tmUURJV2E0SVRvcWhhTlpiNDdNV2JmZ2ZkV1h1ZUNVakJHaGZfRjFwNjE5SXl5dmJXeFVMdm5CUFRPVmRzM1F5bFQxZm5GYjdYSl9iQkhBZ2Y4eV82V1ozNW1kZ2NRNGd2WkhDVVVJdjVpNVFMNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7b57c744f80f",
-      "title": "Travel Warning: Rare, flesh-eating bacteria kills at least 7 in 2 states - NJ.com",
-      "published": "2026-08-13T18:43:00+00:00",
-      "summary": "Travel Warning: Rare, flesh-eating bacteria kills at least 7 in 2 states&nbsp;&nbsp;NJ.comFlesh-eating bacteria is on the rise in Maryland. Here are some tips to avoid infection.&nbsp;&nbsp;CBS NewsAlabama Public Health officials issue warning over flesh-eating bacteria along Gulf Coast&nbsp;&nbsp;WSFADeaths from rare flesh-eating bacteria reported in these 2 states&nbsp;&nbsp;USA TodayVibrio on the rise as climate change warms the Chesapeake Bay&nbsp;&nbsp;marylandmatters.org",
-      "sources": [
-        {
-          "name": "NJ.com",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZHdKa3pneGF2WHBUdEIyX0MxQjBDRDlIdjY3aUVqYlQ2RUl3RWJFYnBJVm95UE5hVmZmcC1qUEdUWEdmdkw3Sktrb0pWODhGM1Z0MkdPZHVzWmN6NWZRQ29OZXcxSE9mdnEtOUVEeF84dDFDdzVjcE5rQUw3NjBabEZfVEJWSWVNSkZ5ak43d0UtRmpUcHFNVERxV045Ry1oeXpBM3N0M2NkcDjSAb8BQVVfeXFMTXM3S2h6U0NabTVHcWJ6eEVQblVBMDkzU19VUzAzeUJWX3NuUGt3TGYxMmlPLVlyZnVpWHVkRGF5MGJaUF9TVEpTNTBDRDVsRlk1aFE4YWdlN2JDbG0xREU5eEJvS25USURxbExSNmxpRVZQZ1NobmU5ZEpWV19EMHFhNVRPUjFsU1F1Um1zRGVva0ZGXzJ5Uk9oVWZyVXFpLUlEb3pEM3c2LXVrazhZNENOQ3VHUVpsVC1CejZFNFk?oc=5"
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JUDRPWnVvalF1RjZQaXBKcUpoUDRtTnROZWwzYWZiZ0ZaVzBoVmdfZzlIQlZIVERHbEQwendiOGVmS1NmVlFpQXgtMTFvNWwxaEtRUkFUOVJVZw?oc=5"
         }
       ]
     }

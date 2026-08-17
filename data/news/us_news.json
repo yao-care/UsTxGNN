@@ -1,27 +1,75 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-08-17T12:48:27.247387+00:00",
-  "total_fetched": 119,
-  "unique_count": 119,
-  "health_related_count": 57,
+  "fetched_at": "2026-08-17T18:41:55.829674+00:00",
+  "total_fetched": 114,
+  "unique_count": 114,
+  "health_related_count": 60,
   "news": [
     {
-      "id": "fae85cc7bf61",
-      "title": "Trump races to prepare for new strains of deadly viruses after cutting biosecurity experts - The Washington Post",
-      "published": "2026-08-17T12:03:40+00:00",
-      "summary": "Trump races to prepare for new strains of deadly viruses after cutting biosecurity experts&nbsp;&nbsp;The Washington PostA convergence of biological risks&nbsp;&nbsp;AxiosAI Can Design New Proteins. It’s Time to Build Real Biosecurity Guardrails&nbsp;&nbsp;The Nuclear Threat InitiativeFrom Lab Expertise to Chat Interface: The New Risk of Toxin-Level Attacks&nbsp;&nbsp;Global Network on Extremism and TechnologyHow AI Could Reshape Biological, Biosecurity Threats&nbsp;&nbsp;BankInfoSecurity",
+      "id": "1d70b34daa5c",
+      "title": "3 Morning Habits That Can Support a Healthier Liver - EatingWell",
+      "published": "2026-08-17T18:36:39+00:00",
+      "summary": "3 Morning Habits That Can Support a Healthier Liver&nbsp;&nbsp;EatingWellAdded sugars convert to fat in the liver over time, Endeavor Health cardiologist warns&nbsp;&nbsp;WGN-TVSix natural drinks protect a fatty liver when you take them on an empty stomach, and the order you drink them in matters&nbsp;&nbsp;okdiario.com5 Kitchen Staples That Help Reverse Fatty Liver Disease Naturally&nbsp;&nbsp;Woman's WorldWhat You Eat May Be Driving a Serious Liver Condition, Expert Says&nbsp;&nbsp;thesunpaper",
       "sources": [
         {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMHZUbjFwRHNPMUxVQlJwMDhpbEducThWOXpheml1Vm1ITVVwS0xSN3g3c0RNb1FxbjNZRlRORmVnb196WDZneHhmbFBwNGRTalRWVEs3WnptTnRpX0p6MVE3ZDZzbmNWRmd0aDJHRnJTUC1fbm9wRndtd1FKNEk4OE5xMWFXNEVmUmU2RFFOc3ZjcGxKdzVJZzJ4Qm1uZV9jdlV1SFlsUklVTk0xbFFodTdEcmg?oc=5"
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wc25uYXIyUHhfbnYxcW9fdmJGS2x2bWJXLU8wUExrX3ptS3hiTFloY0N4OXhkLWFBMXd1RUtLMktob1FzOXVjcjNkNHEzR0I2eUdPUk1pbTg2c1pmcjluc2JJdjJEMWI4TExFT1IwZ3NRa3lRYnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aeb16a9e7e17",
+      "title": "Drugmakers uninterested in Trump’s order to split up MMR vaccine - The Hill",
+      "published": "2026-08-17T17:00:00+00:00",
+      "summary": "Drugmakers uninterested in Trump’s order to split up MMR vaccine&nbsp;&nbsp;The HillLetters to the Editor | Aug. 17, 2026&nbsp;&nbsp;Inquirer.comOne Vaccine, Three Supply Chains: The Hidden Consequences of Splitting MMR&nbsp;&nbsp;Pharmaceutical CommerceMerck Stock (MRK): MMR Split Move Prolongs Cost Review, Delays Quick Revenue Gain&nbsp;&nbsp;TechStock²",
+      "sources": [
+        {
+          "name": "The Hill",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbEFLcnVsc3FHTW5Cek5tQkRUeHNDQXMyUkRCYUhKanJfcXBuYWRKSlQ1THVzVTFkbTVlWWk3OWFTRFpVRjRLeVpqQnNZUmVreERDZ2J3SzV0dC0yUXZNN3JOOU9QRTZfRHhGNjNaMFNiZ0lZTkJlMFAxRXFyTnZMWDlDRDZ4eU0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ed05c62ec26f",
+      "title": "Woman Who Lost a ‘Lot of My Leg’ to Flesh-Eating Bacteria Warns ‘Do Not Shave’ Before Going into Water: ‘It’s So Serious’ - Yahoo",
+      "published": "2026-08-17T15:11:37+00:00",
+      "summary": "Woman Who Lost a ‘Lot of My Leg’ to Flesh-Eating Bacteria Warns ‘Do Not Shave’ Before Going into Water: ‘It’s So Serious’&nbsp;&nbsp;YahooWoman Who Lost a ‘Lot of My Leg’ to Flesh-Eating Bacteria Shares Key Advice&nbsp;&nbsp;People.comShould you worry about ‘flesh-eating’ bacteria at the beach?&nbsp;&nbsp;NewsNation'Flesh-Eating' Bacteria: 7 Deaths Reported, Cases Rising on Gulf Coast&nbsp;&nbsp;HealthlineWoman loses much of lower leg from rare flesh-eating bacterial infection&nbsp;&nbsp;KATU",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd0JwZFRaWG15bHVjUFRkd1BkR2VBU3p4c1hyRzkwS2l5UkoxYlROLWwtaTJFTzVwUmJCaUtnWmNWaTQ2Wld6M2M3eDJrYlFTRm1OQnBmUmtTWFBuM1U1N2wzb3hoM2YwODRsVE4zYzFxaUtLV0lzVlpKYTlHdG12QzBmX3RRTzNCSlBR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "74d1e4fe7778",
+      "title": "Most Americans drink at least one soda a day. It's associated with this type of cancer - USA Today",
+      "published": "2026-08-17T15:00:24+00:00",
+      "summary": "Most Americans drink at least one soda a day. It's associated with this type of cancer&nbsp;&nbsp;USA TodaySee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "USA Today",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON0w3YXJabU9yWW1hRVBVS3E4Y0RqdWNmblVDSG5hSlpaQTgxUW81R0xnRWJBRWN0M3JiM3pZUXBhcXZvV1RudHdhYW5LQ2dxTzFiVG5QR1JWcTJlY3MxelFfR3J1LURBZl9xR204WVBXVlFPUXBILVZyaGc2a3hBdk42Z0h6S2M4UDlMWFJlSzVabklMcldvTE1jVlVVSzlqenFB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2ae593ff3fbe",
+      "title": "We Helped Create A $4 Million Gene Therapy For Our Son. Then We Had To Decide If We Should Give It To Him. - AOL.com",
+      "published": "2026-08-17T14:26:15+00:00",
+      "summary": "We Helped Create A $4 Million Gene Therapy For Our Son. Then We Had To Decide If We Should Give It To Him.&nbsp;&nbsp;AOL.com",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnN3FHMHhaUGcwbFROQzNwQzBvdm9qTlNlV2Z1RmluMWlkdEY1aWdfY0JUQVBvYVVUNldwcjBYNnZVZkFvXzdoNGlhSXdySlhSck5GTW9zZU5Ra1ltdnlXWFBpdVdYTUtUTVBJVENUZzhFczk3RTRFMFloT1U?oc=5"
         }
       ]
     },
     {
       "id": "4299c0fc084a",
       "title": "How ‘forensic fandom’ in Lindsay Clancy trial threaten postpartum psychosis awareness - The Guardian",
-      "published": "2026-08-17T11:14:00+00:00",
-      "summary": "How ‘forensic fandom’ in Lindsay Clancy trial threaten postpartum psychosis awareness&nbsp;&nbsp;The GuardianLindsay Clancy case: Survivor recounts postpartum psychosis&nbsp;&nbsp;NewsNationBillings mom's postpartum psychosis story takes new meaning during Clancy trial&nbsp;&nbsp;ktvq.comFather of Postpartum Psychosis Victim Urges Change Amid Lindsay Clancy Trial&nbsp;&nbsp;Yahoo‘Everything felt so real’: Mothers who experienced postpartum psychosis speak out amid Lindsay Clancy trial&nbsp;&nbsp",
+      "published": "2026-08-17T14:19:00+00:00",
+      "summary": "How ‘forensic fandom’ in Lindsay Clancy trial threaten postpartum psychosis awareness&nbsp;&nbsp;The GuardianFather of Postpartum Psychosis Victim Urges Change Amid Lindsay Clancy Trial&nbsp;&nbsp;YahooWhat can happen when women’s concerns are dismissed.&nbsp;&nbsp;Psychology Today‘Everything felt so real’: Mothers who experienced postpartum psychosis speak out amid Lindsay Clancy trial&nbsp;&nbsp;NBC NewsLindsay Clancy case: Survivor recounts postpartum psychosis&nbsp;&nbsp;NewsNation",
       "sources": [
         {
           "name": "The Guardian",
@@ -30,14 +78,110 @@
       ]
     },
     {
-      "id": "b403eff29901",
-      "title": "Hospitals say they found a tool to help reduce childbirth risks: wristbands - CNN",
-      "published": "2026-08-17T11:00:29+00:00",
-      "summary": "Hospitals say they found a tool to help reduce childbirth risks: wristbands&nbsp;&nbsp;CNNSee more headlines & perspectives on Google News",
+      "id": "c4573c5e454e",
+      "title": "Poop-maxxing: How a 30-year-old chart became a hot gut health trend - NBC News",
+      "published": "2026-08-17T14:00:41+00:00",
+      "summary": "Poop-maxxing: How a 30-year-old chart became a hot gut health trend&nbsp;&nbsp;NBC News",
       "sources": [
         {
-          "name": "CNN",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QdUFsOEhqcVFRMmNaX2lkQkNLQVJGSmFNMDN5N1hZSHdVQTlROG5QQmNQaVlSS2NoS0NZVjU3czBNcGt2VXBpVGp0N2RaNnlKbklna25UUkxDNHkwWVlNRmRHLXJ6OGI3blhBYzlPSFFPX0RsMmsybg?oc=5"
+          "name": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS1RNaWJKM3BVOEJ3enJvMEpBb1A5Y1dFeTlFcy1FVHpDWlBCYmxEaFplcVNQc1hVVkw5VV9kVWt0Z0NrdkpoVUc4V0lfMThxbUJpOER5QkQ1SjVTaDJ4LWRiaUN6WXcycmlacWRJejhUZmdSd0ZVQzJvNk8wa01PR0VycWQ5cjRlSVlOcC00YU9GNmxNcHZDYUhSZVRQQk9SQnlwTVRkeTJXQUhka3g0RHU2TGdBNDNzOWZsUg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "85aae2d8012f",
+      "title": "His pelvis was made for walking. Hers? Not so much, claims study of Neanderthal bones - The Times of Israel",
+      "published": "2026-08-17T13:23:16+00:00",
+      "summary": "His pelvis was made for walking. Hers? Not so much, claims study of Neanderthal bones&nbsp;&nbsp;The Times of Israel",
+      "sources": [
+        {
+          "name": "The Times of Israel",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ3ExVEYwcktEaUxmay1rN01vYjJJSC1iNDVKbWFKMWkwX0Nfb2RvQmlmUDBUaVpQYmpoYWlDN0t1aGZIWGF5aXktaFNwd1hZV1B1M2JRaUU2d251RU9yZVZmQXd0dUMyLVJ2MEJEZlpHaFRFQ0pTaTBEd3pXek80ZHp2VUVyWXAtUGZpTWNfSHY0TXBBOUxockt4NnMxWWhnV0xPbWNZRjZyc2tPRlBzVHJ0d9IBuAFBVV95cUxOMXNKMWVuNTU1T25Eb3JpS3Z6enpWd2VVNnBwM3ZETFo2cGsxaVBkelJLV3JKdnp4WmUzSEs3U3dMUUVTLUZOYjNlZzNHQVR1N01MamRaTmJwYkJYeXFiV2h2N3QzNVFTbzVEcS1tUTYyWkM0YXFkWi1mS3JscTA5LXhXdVBFSDlLaG5Oaldqb2E2TWRYNUZOX0ZPTmtJY3RUcU1VQ2RER1pCYmZxU3o1aTEtS0hsVVFj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f9fb5e237eba",
+      "title": "Congo’s fast-moving Ebola outbreak becomes the country’s worst with over 2,300 dead - AP News",
+      "published": "2026-08-17T13:23:00+00:00",
+      "summary": "Congo’s fast-moving Ebola outbreak becomes the country’s worst with over 2,300 dead&nbsp;&nbsp;AP NewsAs Ebola kills thousands in DRC, a perfect storm is making the virus hard to stop | Devi Sridhar&nbsp;&nbsp;The GuardianEbola outbreak becomes Congo’s worst on record, with over 2,300 dead&nbsp;&nbsp;NBC NewsEbola outbreak in DR Congo becomes deadliest in its history&nbsp;&nbsp;BBCEbola outbreak in DR Congo becomes deadliest in country’s history&nbsp;&nbsp;Al Jazeera",
+      "sources": [
+        {
+          "name": "AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNnFBNzZoaTBlT24wbF9PNWVEQWZjZWN3RFM3NTJwZWNJR0dVX1diOFpTLXRsb09Yc1hZVXRaVFFsRDNndTVseUxjMTladU1XbnFrc3Itc3ZXSXEwUnJ4TzZ4cW05V1N2R3JyYVRCNGlmYlIyZGhUWHI0X19EZTJ5S09aYVBUcFFRTmFoelBMTUZFUUFoOWwtWEJQRjRISmZBMTdNYWF0ZTM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "39d85afb6a14",
+      "title": "Her Boyfriend Got Mad She Wouldn’t Let His Friends Babysit Her Nieces—but She Refused to Risk the Kids’ Safety - TwistedSifter",
+      "published": "2026-08-17T13:15:21+00:00",
+      "summary": "Her Boyfriend Got Mad She Wouldn’t Let His Friends Babysit Her Nieces—but She Refused to Risk the Kids’ Safety&nbsp;&nbsp;TwistedSifter",
+      "sources": [
+        {
+          "name": "TwistedSifter",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNX3pudmRjcEZyNEF2X3d5M0FKYnlfbHJHbkNwX1k0VmVFZFZhUm1LZHowNXdZTy0zWmRGdy14cllLZ2J5YkR6Y3lqVjNxR084emZLWUpqbU5vRGI5NUdRbHZ2TzNxdV9MR3JqWmwwMjJGU1VjZEQ4blJSVVZSeDEwMDhuUEZ1YkxJYTRFNjhweVB5aHdaOS1fRV8xaWdJQzV2cnVPSTlLQnVBUU54dkZmeXVhanlPbGtydWQzeDFVV3NFZU0xTHZkeVpiSFo4RVdLcndxQVBLV1JQaHRRZnI3QlBhb2hVa0M2bzc0MUQtejhsbEFUQXpCVGFPejY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "be01d2c0150d",
+      "title": "Alzheimer’s research is latest casualty in Trump administration war against ‘DEI’ - The Guardian",
+      "published": "2026-08-17T12:18:00+00:00",
+      "summary": "Alzheimer’s research is latest casualty in Trump administration war against ‘DEI’&nbsp;&nbsp;The Guardian",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ0pVX0todlN6ZHlrRVpwS3VlaVVRcmlaeXhXUURFbzdaZTBOb29kYXVvMTJudGF5cnBPNHVrYTM4TDVKeklOdkFlWFlacnB5OWoyTGpselR6SHNYWWZRUHF6bmE4bDJLc2gzVU1qSXk5dC1mWE90MGFibGNjcS1hMWt5NjUxZGdyMmRXZnlUOWhoTFNJbHNST2kwQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "be8fda716569",
+      "title": "Long COVID Linked to Reactivated Viruses - newser.com",
+      "published": "2026-08-17T12:02:00+00:00",
+      "summary": "Long COVID Linked to Reactivated Viruses&nbsp;&nbsp;newser.comCOVID-19 awakens dormant viruses — and one is linked to long COVID&nbsp;&nbsp;Science DailyCovid-19 Can Reawaken Dormant Viruses in the Body, Which Might Worsen Symptoms of the Respiratory Illness, Study Suggests&nbsp;&nbsp;Smithsonian MagazineEpstein-Barr, herpes, long covid: Study discovers Covid-19 can reawaken dormant viruses in the body&nbsp;&nbsp;Deccan HeraldCould COVID-19 reawaken viruses hidden in the body?&nbsp;&nbsp;Gavi, t",
+      "sources": [
+        {
+          "name": "newser.com",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUHJQa2ZZeDlsMHJrZVU4LUhIZ0hVU1BOeVBQUnFDbDZ3SXcyQTJVMk9GRzhHNFBhdkpwUWkxMnAzYlotS0hhNzFQbURtb21lVXlPcWRkSWdadS1uZFh5Rlo1amh3dmFVcmFsNm94SUpkeUQ0OHFhVnVmcWxiMU9JbkhXQnQ1NDQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ebadbd470f64",
+      "title": "Feel the burn: 90% of people heal faster by focusing on their pain — Israeli study - The Times of Israel",
+      "published": "2026-08-17T12:01:16+00:00",
+      "summary": "Feel the burn: 90% of people heal faster by focusing on their pain — Israeli study&nbsp;&nbsp;The Times of IsraelVoluntary attention regulates acute immune responses in humans&nbsp;&nbsp;nature.comBar-Ilan University Study: Attention can regulate acute inflammation in humans&nbsp;&nbsp;EurekAlert!Your attention can influence your immune response, research finds&nbsp;&nbsp;Euronews.comCan Body Awareness Calm Inflammation? The Body-Mind Connection Gets A New Scientific Twist&nbsp;&nbsp;etvbharat.c",
+      "sources": [
+        {
+          "name": "The Times of Israel",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONGhKT2FQMXRLRDJHWWFZTkI5ZjZYRm9DNGRGY2syYnZSaW9mTUJhaHR1YnRGR1o2VGZ3NzN0Nm9kcG1GOXhMX04tZ3huTWRkdDc1QUc0Q0ZDbTk5UjhsekFTWnVVQTIzX1F3Z0I3T3ZhRlBLQUM0NGx5R2s3ZXZ0al9Pei1vRjU3X2RQRlNuVFBMNGhwSXhhdDhuMkdueDdBNFFENTFYb3lsT29hZGfSAbMBQVVfeXFMTzVtejZrV0Y5Yml0MlRuZzFaZnNxcWJLN1VXODlHSll1VVJEMnpjY3l4a0ZESnpNRTZRTVRBQ1JaUkdSUzQwY3pJUWd4UDJPQVJ3eDlCX0o2MWFSZFZUQnZLOHo4blRmbEd2OE1qMzFqZmFPQWVwb2NqOFFaaEpmLXc2bS0zdE45T0dZX2M3T21Rc3NqWXpaaDloSm9jZTh1NFFuWmF6ZG9JSGs5ZEQ4X05Mams?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4fd9269147eb",
+      "title": "Is it Long Island's worst tick season ever? How experts measure the problem. - Newsday",
+      "published": "2026-08-17T11:15:49+00:00",
+      "summary": "Is it Long Island's worst tick season ever? How experts measure the problem.&nbsp;&nbsp;NewsdayTick Populations Surge as the Climate Warms, and Farmers Bear the Brunt&nbsp;&nbsp;Civil EatsWarning issued as Lyme disease cases rise in US and Canada&nbsp;&nbsp;vettimes.comHow to avoid tick bites this summer&nbsp;&nbsp;Euronews.comCommon tick questions — and what one expert has to say about them&nbsp;&nbsp;anvil.gbtribune.com",
+      "sources": [
+        {
+          "name": "Newsday",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OZThfU2w1M3prMFJLS3MyZG9tZG5TYi1PSDU1RldKUjNHTmlrcERIdjhjY0RYUjI2OXF2dkZpczVmYjFYa05LYUQzRFVtUzQ0ZEFmSTF2RHoxemFKTXFjVzIxek5YUFVxbkVvbjJ0Yl9HbGMxQVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8b820715ca86",
+      "title": "How Louisiana’s New Surgeon General Wants to Transform Public Health - The New York Times",
+      "published": "2026-08-17T11:01:54+00:00",
+      "summary": "How Louisiana’s New Surgeon General Wants to Transform Public Health&nbsp;&nbsp;The New York TimesSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vR3IxOUVUbnB6QWRXbkh5TWp5ZWJNblNhUHNheTk4R3g5d1Rzd0lJWkhVRDIycmZmN2RlTXdWWHRjcUlWemwzWkp6WFduWm5wM1JYQzhDakVoeWN3azVLeE1TdTB3SnpmUFVUYVpFWWxIRk1ROXlBWjBzZmg0dw?oc=5"
         }
       ]
     },
@@ -54,6 +198,30 @@
       ]
     },
     {
+      "id": "ee624bee9251",
+      "title": "RNA is supposed to fall apart within hours, yet researchers have now read it from a mammoth frozen in Siberian permafrost 39,000 years ago — and the transcripts caught his muscle tissue in the middle of a stress response - Space Daily",
+      "published": "2026-08-17T10:11:06+00:00",
+      "summary": "RNA is supposed to fall apart within hours, yet researchers have now read it from a mammoth frozen in Siberian permafrost 39,000 years ago — and the transcripts caught his muscle tissue in the middle of a stress response&nbsp;&nbsp;Space Daily",
+      "sources": [
+        {
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOdDdHQ2NLemhfdE1DRzAwMTlNcG55Vkg5cWVpT3J4c3k1dXhVclhDa0pfWkxxUVR3T29IWmY2cENEUGVyNTh4aG9HaUV0bC1KaEg3S2UxemYwb0F4TThUc2FRamdKZ0xRM3lvTW5jbi00YVZFVzZGeVZ5YnU3c2o1cndUOGtaY204WmIyaFdQTlR1OGIzb25rZE8xUzJOT2xkVG91bDBxUU5pV1dMMTVuYm1hSFJ3UHpWOTVtODJIMzN5bENETzFSOTNRWkY5UjlGeW9NS3h4ZFg0SFNHWmJXcVB1Y3RNR0EtcnFndGhmMjR6dGtUMmk0VHVRRXZValQ4WGV1ay1DUmczcVRQQTEtNnZmOVpwc0lKWmNZaVlidVlzOEt2eDdqWnhnZDl2RWt6?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fe767c9cb002",
+      "title": "Lung cancer can stay silent for years: Who should get screened and why early detection matters - The Times of India",
+      "published": "2026-08-17T09:30:00+00:00",
+      "summary": "Lung cancer can stay silent for years: Who should get screened and why early detection matters&nbsp;&nbsp;The Times of IndiaDrew Moghanaki: Addressing Global Barriers to Lung Cancer Screening&nbsp;&nbsp;OncodailyTurning 60? Here’s why lung health checks matter and how they can help detect lung cancer earlier&nbsp;&nbsp;Hindustan TimesThe biggest opportunity to improve lung cancer survival isn’t a new drug&nbsp;&nbsp;Yahoo TechJing Liang: The Challenge of Detecting Lung Cancer Before It Spreads&n",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNm5ZUGxhamdTX0dBcExmWTFOWU1YQ3k3Q1VpQjBwdXd6QjhaSm03V2QzdUNrb21HY3piUGRsdkRaWXhWbU5samxJR242UHZFRU9VTklMYWxudTZRUjk2WFhQMWM0cl9lN09NNU02VGNvWGNFZWpfVThFZEREZ091Tkc0azFxTE1uWFFSOFFSTjZYdFN4b0dBaEdJYVpuSXBTUDUwRGdPaElWY1h0dC0xMG9pWVNwYkNjTXV5N1BhVDRxaW9tTjhjMWhiM0N5b1VJcFBoWFB4VXpUdU12UUROdExIM2NNU082UEVrQXpyYWROOFJJ0gH6AUFVX3lxTE80SFh3ZHhGeC1qRUpUZUNZWTVWWE16ZGJ0T1RZV3V5RHQtSGlWUXRBbWRaMUpLdmZpdXdHTDJJaGVrb0YxWDJTdHAxRmF4WnF1eWotcDNtS2RxdzQ4LVpIMjY3VUl2cEY5UjhoaENBX1V0MUd0OXVub01BbzNsS1Q5bV8xTkxRcEJnMVlGNllYQVVvZGVUdDJrN3dSeHlJb2ZVLTM0RU5NY0VfcDMwbmNuVlFtbDBqaW1ERmJkejlWaHIxM2cyUFVRejQ2MHRpYzlQUkJIZ0JsTHp4Wk9SN3dYT3E5Yy1DY05pVS1JY0x0SGVWdUpyaWZlLVE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f0a907e8efd9",
       "title": "Stanford neuroscientist seeks to crack the code of the human brain and our emotions - CNN",
       "published": "2026-08-17T09:19:34+00:00",
@@ -66,14 +234,26 @@
       ]
     },
     {
-      "id": "8b820715ca86",
-      "title": "How Louisiana’s New Surgeon General Wants to Transform Public Health - The New York Times",
-      "published": "2026-08-17T09:00:48+00:00",
-      "summary": "How Louisiana’s New Surgeon General Wants to Transform Public Health&nbsp;&nbsp;The New York TimesSee more headlines & perspectives on Google News",
+      "id": "c2e7ad14326d",
+      "title": "Dr. Roach: Man wants to treat arthritis with GAE, rather than knee surgery - The Detroit News",
+      "published": "2026-08-17T09:08:00+00:00",
+      "summary": "Dr. Roach: Man wants to treat arthritis with GAE, rather than knee surgery&nbsp;&nbsp;The Detroit News",
+      "sources": [
+        {
+          "name": "The Detroit News",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOUkwdjBSSHRNUGloVjVYbnBWaGsxdVQyOFEzZHNsd3UzYVo0OXlEYmxTa283eUtUU0FIc2JUOXlrSGFTR0hoMnFqNC16Smx1Sk5kMjNpMTN1dHdBcERqeHR6RC1PWGdvQXhEQlFDcWFuRFp3S0NxLUdHd0NsRUo5MnJEUUZrMHlVb2t6Wlp1eEszVXBhUF9zeDJ6cG5QUjJzWlZYVWZmTnBsdU1RbTBoNXdOeV9pb01aWmVfWXZPTERpUjJBelNBQXRoTWIzN1hSdTdOSmQtdU8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "62fcb6de10a2",
+      "title": "A Hopeless Diagnosis? Not for This Patient - The New York Times",
+      "published": "2026-08-17T09:01:50+00:00",
+      "summary": "A Hopeless Diagnosis? Not for This Patient&nbsp;&nbsp;The New York Times",
       "sources": [
         {
           "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vR3IxOUVUbnB6QWRXbkh5TWp5ZWJNblNhUHNheTk4R3g5d1Rzd0lJWkhVRDIycmZmN2RlTXdWWHRjcUlWemwzWkp6WFduWm5wM1JYQzhDakVoeWN3azVLeE1TdTB3SnpmUFVUYVpFWWxIRk1ROXlBWjBzZmg0dw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVUtXVjMwMjJWUktXQXc5cWlKckZOenE5bklmS0hyTXJGMUZDOXhfdGZRNUhlakc0SW9Oc2pPM01LNHRFb2hBRVkzQTFvMnJrT1FrMU44Y0hHNWV6Tlg3OGxiMlA5ZExzN0VmY28wSC1oZXh0WDZXanBBeG00STEwajYxbVRITzVQN1BSSEk2UGJ3UQ?oc=5"
         }
       ]
     },
@@ -81,7 +261,7 @@
       "id": "ad7b6e027ab8",
       "title": "There’s a New Link Between Gut Health and Alzheimer’s Disease - WIRED",
       "published": "2026-08-17T09:00:00+00:00",
-      "summary": "There’s a New Link Between Gut Health and Alzheimer’s Disease&nbsp;&nbsp;WIREDA new target in the gut for reducing Alzheimer's risk&nbsp;&nbsp;Medical XpressShock discovery: gut bacteria may hold the key to Alzheimer’s secrets&nbsp;&nbsp;Futura, le média qui explore le mondeGut Microbiota, Neuroinflammation, and Autonomic Dysfunction in Neurodegenerative Diseases: A Systematic Review of Mechanistic and Translational Evidence&nbsp;&nbsp;CureusYour Gut May Be Behind Age-Related Memory Loss—And New",
+      "summary": "There’s a New Link Between Gut Health and Alzheimer’s Disease&nbsp;&nbsp;WIREDA new target in the gut for reducing Alzheimer's risk&nbsp;&nbsp;Medical XpressShock discovery: gut bacteria may hold the key to Alzheimer’s secrets&nbsp;&nbsp;futura-sciences.comGut Microbiota, Neuroinflammation, and Autonomic Dysfunction in Neurodegenerative Diseases: A Systematic Review of Mechanistic and Translational Evidence&nbsp;&nbsp;CureusYour Gut May Be Behind Age-Related Memory Loss—And New Research Shows It",
       "sources": [
         {
           "name": "WIRED",
@@ -90,26 +270,38 @@
       ]
     },
     {
-      "id": "6741fc51b392",
-      "title": "HIV studies reveal promising treatment options - standardmedia.co.ke",
-      "published": "2026-08-17T06:28:47+00:00",
-      "summary": "HIV studies reveal promising treatment options&nbsp;&nbsp;standardmedia.co.ke'Big step forward' in HIV treatment celebrated&nbsp;&nbsp;BBCOnce-Weekly Oral ART Matches Daily ART for Viral Suppression&nbsp;&nbsp;MedscapeNew Monthly HIV Prevention Pill in Late-Stage Trials Could Provide a Giant Step Forward in Stopping New Infections&nbsp;&nbsp;POZHIV Kept in Check Without Daily Pills, Study Shows&nbsp;&nbsp;Denkstrom",
+      "id": "3d69a6174899",
+      "title": "The common brain disorder often dismissed as being ‘all in your head’ - The Independent",
+      "published": "2026-08-17T08:57:00+00:00",
+      "summary": "The common brain disorder often dismissed as being ‘all in your head’&nbsp;&nbsp;The IndependentOne of the most common brain disorders is one of the most misunderstood – how functional neurological disorder is both ‘all in your head’ and beyond it&nbsp;&nbsp;The Conversation",
       "sources": [
         {
-          "name": "standardmedia.co.ke",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMzBBZ3N1d0lVSWVib1FMU0VKNHQ0S3VkMlF4MkFhVVJEel9zaHR6Z3pMbE1SMi1pMURkSl9YdDZwcUk3dm0zYnF1QWhmQUJFUTRDZjU2T1ZPcThpRDlyZDV3SWF1eGNtbXY3N0VLZkx4XzFjRXFZQmdoaGtlMGZxVlFVMXYxY0VGQkJxcF91UE1IOEYtRlBLNlcxeHlRWEFISlJaZXJxM2p4cEpIME5WMW5JdFJoM3RjbWlF?oc=5"
+          "name": "The Independent",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdVk1MWhSUXZSN1V5LWpWSWg3QVRNMHVtSmFXc1BsUjU2a3hDaENwUHg0d3c5SXdxUFUxa3oxeE53WUROQTQyWDhxUWZ0WjlGcUZXSlhhRl96bk1TMllHTnNkVWVnbW9kMFRpWVpvUFBtQVJ0UThrWnlvelYxV1ppNExhbmk5WThDV1ZfNUpuUFdYLTNVdlpiSGRPamw4UDdaczYxQXJ4aGhjZW5nb3pSYjZuQ01ZY0dpcmgw?oc=5"
         }
       ]
     },
     {
-      "id": "42a8e5ab1d62",
-      "title": "Simple Fitness Test Could Offer Clue About Life Expectancy In Older Adults - dailyvoice.com",
-      "published": "2026-08-17T04:41:14+00:00",
-      "summary": "Simple Fitness Test Could Offer Clue About Life Expectancy In Older Adults&nbsp;&nbsp;dailyvoice.comAcing a simple one-leg test could cut your risk of dying in half: study&nbsp;&nbsp;New York PostHow well you balance and move may say more about longevity than you think&nbsp;&nbsp;News-Medical\"Try Standing on One Leg\"... 7 Simple Tests That May Help Predict Longevity in Old Age&nbsp;&nbsp;스포츠조선The One-Leg Test That Could Reveal Your Risk of Dying&nbsp;&nbsp;VICE",
+      "id": "ddd07fd43e30",
+      "title": "Scientists tracked kids for 8 years — the screen time result was unexpected - Science Daily",
+      "published": "2026-08-17T07:00:49+00:00",
+      "summary": "Scientists tracked kids for 8 years — the screen time result was unexpected&nbsp;&nbsp;Science DailyMore screen time in childhood associated with better cognitive processing in adolescence&nbsp;&nbsp;Medical XpressNorthern California softball players gave up smartphones for a month. A year later, they say the effects remain&nbsp;&nbsp;CBS NewsOklahoma doctor shares importance of setting screen time boundaries with children&nbsp;&nbsp;News 9Tips to get kids off devices&nbsp;&nbsp;timesdaily.com",
       "sources": [
         {
-          "name": "dailyvoice.com",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUDBRb0FpMUxlR1puWXJsN2FjbWNOVF82MjRsUHNvRVNuWDBwdExfTG8xc1RvTGo2bnRMRlBDdDJ6N3BleUdwZDRBcjBEWW9heWZHUlBUSFpXc2Rmc1pRMHUtWVNjV0ZUMXJUSE1FUFJIUWNvMnN3c3lQeFNXTDN5WHo1UW1FZ0ZUWVVHZF8td1ZOY0VKd3NzRVdtVl82am9vVEJfNnVJQkp6QQ?oc=5"
+          "name": "Science Daily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zN0xrUW9fRjE4T0VlV2t5c3dlV2JqdXdnaDkxMlJGLUcxaVV5eVIwbXlBYmdXN2l2cFJwTUVUa1ZGWUFHZTNxd0ZybjFHd3dGMUI2ckR5d1lxMmU0WXpoazJaOUttNTdNbkRObVNrSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6741fc51b392",
+      "title": "HIV studies reveal promising treatment options - standardmedia.co.ke",
+      "published": "2026-08-17T06:45:47+00:00",
+      "summary": "HIV studies reveal promising treatment options&nbsp;&nbsp;standardmedia.co.ke'Big step forward' in HIV treatment celebrated&nbsp;&nbsp;BBCOnce-Weekly Oral ART Matches Daily ART for Viral Suppression&nbsp;&nbsp;medscape.comNew Monthly HIV Prevention Pill in Late-Stage Trials Could Provide a Giant Step Forward in Stopping New Infections&nbsp;&nbsp;POZHIV Kept in Check Without Daily Pills, Study Shows&nbsp;&nbsp;Denkstrom",
+      "sources": [
+        {
+          "name": "standardmedia.co.ke",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMzBBZ3N1d0lVSWVib1FMU0VKNHQ0S3VkMlF4MkFhVVJEel9zaHR6Z3pMbE1SMi1pMURkSl9YdDZwcUk3dm0zYnF1QWhmQUJFUTRDZjU2T1ZPcThpRDlyZDV3SWF1eGNtbXY3N0VLZkx4XzFjRXFZQmdoaGtlMGZxVlFVMXYxY0VGQkJxcF91UE1IOEYtRlBLNlcxeHlRWEFISlJaZXJxM2p4cEpIME5WMW5JdFJoM3RjbWlF?oc=5"
         }
       ]
     },
@@ -126,14 +318,26 @@
       ]
     },
     {
-      "id": "13e66ba11aca",
-      "title": "Brain scans reveal lasting tissue and chemical changes in both long COVID and recovered patients - PsyPost",
-      "published": "2026-08-17T00:16:27+00:00",
-      "summary": "Brain scans reveal lasting tissue and chemical changes in both long COVID and recovered patients&nbsp;&nbsp;PsyPostRelative Brain Perfusion Differences in a Patient With Persistent Neurocognitive and Vestibular Symptoms Associated With Post-COVID-19 Condition: A Case Report&nbsp;&nbsp;CureusCanadian study finds COVID-19-related brain changes can persist for years&nbsp;&nbsp;ساناLong COVID Patients Have 18% Fewer Dopamine Nerve Endings, Brain Scans Reveal&nbsp;&nbsp;ScienceAlert",
+      "id": "68e03431067d",
+      "title": "Giant crocodylians dominated the food chain in Miocene South America, fossil evidence suggests - Phys.org",
+      "published": "2026-08-17T01:00:04+00:00",
+      "summary": "Giant crocodylians dominated the food chain in Miocene South America, fossil evidence suggests&nbsp;&nbsp;Phys.orgA Car-Sized Crocodile Hunted Ton-Sized Prey 12 Million Years Ago, Bite Marks Reveal&nbsp;&nbsp;StudyFindsGiant Crocodiles Once Preyed on Massive Mammals in South America&nbsp;&nbsp;sci.newsGiant crocodylians dominated the Miocene South American food chain&nbsp;&nbsp;openaccessgovernment.orgGiant crocodylians dominated the food chain in Miocene South America&nbsp;&nbsp;University of H",
       "sources": [
         {
-          "name": "PsyPost",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa2RhVUdoeGtOYVduYUptS2dIUk9mVnEzcFZsOWhzU19xLW5jZ2tUbTE4WUNZYmk1eWR0V01yOVlTdW50OUNnbHBLdEM4bDlySEpqSTVXVjN0NTRQMTduakM3ZFBrY3l4MWhSLXFVWS1DUHhCS1V6TWtxS29weFlPbFJQSmlRRG5IaWV5SlY5ZHdFY0w3MjlGcWVjNWVXRnlNX3RXdzRTUmM?oc=5"
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WT1JsT01OV3ZXUzlIZFpTN2tERFY2QWlpUkl0a2xHVTBOblZfbk96MERmNkN1Z1U5aTI5WHQwWkpQeEdRNzl6dzJYeUZIVlFCSXhjdjBqeE14NE9na21pZFdPa1dfREt3cGpUeF9IeUtlZE8tRWlqN2FwWmpzN0k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "306fec1f3dc1",
+      "title": "New Drug Turns Cancer’s Favorite Fuel Into a Deadly Weakness - SciTechDaily",
+      "published": "2026-08-17T00:44:54+00:00",
+      "summary": "New Drug Turns Cancer’s Favorite Fuel Into a Deadly Weakness&nbsp;&nbsp;SciTechDaily",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN0t1UnhJX3pBbmRsM19FNGhHVFVaZVdtZHNWdXpucV9CWklmVC1vYVRSOTRzZ09TSE9leDFoR3dVeVZQSEUxNExVR0F6d0FCdEtGRGFCTHdHS0d3UkEyWk41SW51aWpPWXFRcnNXMnB2LURuckxzYWVPQk9qeF9oZnVaNlZzeENOZHlBZkFB?oc=5"
         }
       ]
     },
@@ -141,7 +345,7 @@
       "id": "80b714eaea67",
       "title": "Your waistline could reveal a hidden heart risk your BMI misses, major study finds - Fox News",
       "published": "2026-08-16T20:24:01+00:00",
-      "summary": "Your waistline could reveal a hidden heart risk your BMI misses, major study finds&nbsp;&nbsp;Fox NewsBelly fat may be a better predictor of heart disease risk than BMI, study finds&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosWaist size is a powerful indicator of health risks, researchers find&nbsp;&nbsp;Medical XpressCentral Adiposity May Reclassify CVD Risk Beyond BMI&nbsp;&nbsp;MedscapeJust How Bad is BMI at Predicting CVD Risk?&nbsp;&nbsp;Cardiac Wire",
+      "summary": "Your waistline could reveal a hidden heart risk your BMI misses, major study finds&nbsp;&nbsp;Fox NewsBelly Fat Plays ‘Critical Role’ in Signaling Heart Disease Risk as Experts Call to ‘Abandon Sole Focus’ on BMI&nbsp;&nbsp;People.comWaist size is a powerful indicator of health risks, researchers find&nbsp;&nbsp;Medical XpressBelly fat may be a better predictor of heart disease risk than BMI, study finds&nbsp;&nbsp;Good Morning AmericaCentral Adiposity May Reclassify CVD Risk Beyond BMI&nbsp;&nb",
       "sources": [
         {
           "name": "Fox News",
@@ -150,10 +354,22 @@
       ]
     },
     {
+      "id": "549ea8c46934",
+      "title": "Exclusive | How a California dad is surviving the incurable disease caused by common kitchen item that’s killed dozens - New York Post",
+      "published": "2026-08-16T19:28:00+00:00",
+      "summary": "Exclusive | How a California dad is surviving the incurable disease caused by common kitchen item that’s killed dozens&nbsp;&nbsp;New York Post31 dead, nearly 600 ill due to lung disease linked to stone countertop exposure: study&nbsp;&nbsp;13wham.comHundreds of California quartz countertop workers developed an incurable lung condition. Dozens died&nbsp;&nbsp;KCRAArtificial Stone Containing Silica is Killing Workers. Will California Ban It?&nbsp;&nbsp;KQEDWhat Is Silicosis? What To Know As Hundr",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS1hLNFVKd055ZVYxdDgzRXp0SFVPczhjdmdGYlRjRXJUajRpc01oZkV2QmxkeEpMbU45WGtxNVB0ajdGZ1kzV0dhdDNWeFpqLWxzSnU1eUpKVE5oY1RIU01hRmwwdnVlV2RHUDdWSWltSUFsMS1rY1ZXcXRobzB6dTB3bjBGSnNxUXFUWUNDcTE5T3FNRWpnTmM2dFN2UFJvMzc1dEZjYnRpeWFJWU9mQmFWd0Jydw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "23574416dd85",
       "title": "Geisinger issues public warning following potential Measles exposure at Danville hospital - WNEP",
       "published": "2026-08-16T18:13:00+00:00",
-      "summary": "Geisinger issues public warning following potential Measles exposure at Danville hospital&nbsp;&nbsp;WNEPGeisinger Warns Of Possible Measles Exposure As Snyder Cases Rise |&nbsp;&nbsp;WKOK.comGeisinger Warns of Potential Measles Exposure at Danville Medical Center&nbsp;&nbsp;Skook NewsUPDATE Geisinger officials notify public of potential measles exposure at GMC&nbsp;&nbsp;The Daily ItemGeisinger notifies public of potential measles exposure&nbsp;&nbsp;28/22 News",
+      "summary": "Geisinger issues public warning following potential Measles exposure at Danville hospital&nbsp;&nbsp;WNEPGeisinger Warns Of Possible Measles Exposure As Snyder Cases Rise |&nbsp;&nbsp;WKOK.comGeisinger notifies public of potential measles exposure at Geisinger Medical Center&nbsp;&nbsp;The News-ItemUPDATE Geisinger officials notify public of potential measles exposure at GMC&nbsp;&nbsp;The Daily ItemGeisinger: Possible measles exposure at GMC campus, Danville.&nbsp;&nbsp;Audacy",
       "sources": [
         {
           "name": "WNEP",
@@ -162,25 +378,25 @@
       ]
     },
     {
-      "id": "61baa3a83ba9",
-      "title": "AI is finding sperm where doctors couldn’t - The Seattle Times",
+      "id": "75831da4f97a",
+      "title": "AI is finding sperm where doctors couldn’t - seattletimes.com",
       "published": "2026-08-16T18:00:02+00:00",
-      "summary": "AI is finding sperm where doctors couldn’t&nbsp;&nbsp;The Seattle TimesA.I. Is Finding Sperm Where Doctors Couldn’t&nbsp;&nbsp;The New York TimesCan AI pick the best embryo? How technology is changing IVF without replacing embryologists&nbsp;&nbsp;FirstpostA New Imaging Method Finds Sperm That Standard Laboratory Review Misses, with Limited Published Results So Far&nbsp;&nbsp;medicaldaily.com",
+      "summary": "AI is finding sperm where doctors couldn’t&nbsp;&nbsp;seattletimes.comA.I. Is Finding Sperm Where Doctors Couldn’t&nbsp;&nbsp;The New York TimesCan AI pick the best embryo? How technology is changing IVF without replacing embryologists&nbsp;&nbsp;FirstpostA New Imaging Method Finds Sperm That Standard Laboratory Review Misses, with Limited Published Results So Far&nbsp;&nbsp;Medical Daily",
       "sources": [
         {
-          "name": "The Seattle Times",
+          "name": "seattletimes.com",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZG56T016QjE3aFVQNkxnMmJyUXM2VEpIQUtZN2JHSWNhWGdnSmZveUs0cDlaRVh4S0hoenozbEljWFNOQTR3eHhKY3ZtRVl5VlQ4WVlUVl8xZXd5UE1MX2djZEVHTGpXclRrZUhTUFVRSkplU0d1QW9oNFFBckdDOWw3MUZNbEYxYUk2N29OdXloWXVaTVJr?oc=5"
         }
       ]
     },
     {
-      "id": "88c8fb1a2c65",
-      "title": "How menopause can impact mental health - wkbn.com",
+      "id": "1c9a1639a0de",
+      "title": "How menopause can impact mental health - WKBN.com",
       "published": "2026-08-16T17:38:15+00:00",
-      "summary": "How menopause can impact mental health&nbsp;&nbsp;wkbn.comBrain fog. Anxiety. Insomnia. Is perimenopause really to blame?&nbsp;&nbsp;The TimesFeeling hot and bothered? Exploring the link between hormones and mental health&nbsp;&nbsp;SowetanUAE Doctors Urge Women In 30S To Plan For Menopause As Study Says 94% Have Sleep Issues&nbsp;&nbsp;MenafnBurnout, Brain Fog and Poor Sleep? It Could Be Perimenopause&nbsp;&nbsp;inc.com",
+      "summary": "How menopause can impact mental health&nbsp;&nbsp;WKBN.comFeeling hot and bothered? Exploring the link between hormones and mental health&nbsp;&nbsp;SowetanBrain fog. Anxiety. Insomnia. Is perimenopause really to blame?&nbsp;&nbsp;The TimesMenopause taking toll on women’s emotional, social well-being: Study&nbsp;&nbsp;The Times of IndiaBipolar Disorder and Hormonal Triggers for Women in Perimenopause&nbsp;&nbsp;Everyday Health",
       "sources": [
         {
-          "name": "wkbn.com",
+          "name": "WKBN.com",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNREhDbnN0dkhUTlNLV09LeDVZR3RiNERyRU1pQnpnMzdBaUw2aTR1dnV4eXJ0TTdEMEpVYkJFNVdPS24xZnowcTNUVmtVbU8tYXNpOUVLZXVHVEN0cl9QVzNVdXV5bUFxX1ZMMkdBMVRtT1FDUVk2NUZfTzYwS20yTkxR0gGHAUFVX3lxTE1lQTRGbVJobkRBcEF5NTFwRmx1YV9vRVhQbkVzNlR3eTVtc0RyZjROYV8yVGdMcTBtUGVlSG1Pc2Z1bXRTekhNT1hkS2xldkRwRHZWaERDSjc0bkI2SDhrWkNqY0ZnQVlRU3lxeTBNRjRiOGRwQ25KZHlGWUpieFI4TnNDOW43QQ?oc=5"
         }
       ]
@@ -201,23 +417,11 @@
       "id": "725063aaf47d",
       "title": "COVID-19 Is Rising In America— Here’s What To Know About Vaccines, Xocova, Paxlovid And Pregnancy - Forbes",
       "published": "2026-08-16T16:10:35+00:00",
-      "summary": "COVID-19 Is Rising In America— Here’s What To Know About Vaccines, Xocova, Paxlovid And Pregnancy&nbsp;&nbsp;ForbesIs there a summer COVID-19 surge this year? Yep, it’s ramping up again&nbsp;&nbsp;NPRMutated COVID-19 variant could be behind surge in SF virus levels&nbsp;&nbsp;SFGATEWastewater data shows COVID-19 surge in several Bay Area communities&nbsp;&nbsp;NBC Bay AreaSummer Surge Of COVID On US West Coast Driven By Mutated “Cicada” Variant&nbsp;&nbsp;IFLScience",
+      "summary": "COVID-19 Is Rising In America— Here’s What To Know About Vaccines, Xocova, Paxlovid And Pregnancy&nbsp;&nbsp;ForbesIs there a summer COVID-19 surge this year? Yep, it’s ramping up again&nbsp;&nbsp;NPRCOVID-19 cases rising nationwide ahead of updated vaccine rollout&nbsp;&nbsp;10News.comSummer is now California’s COVID busy season as winter waves fade&nbsp;&nbsp;Los Angeles TimesMutated COVID-19 variant could be behind surge in SF virus levels&nbsp;&nbsp;SFGATE",
       "sources": [
         {
           "name": "Forbes",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLVNTVng0ZF9ZM1ozX0JHb1FuRHZnMDV0M1RndERhLVE1eHdLdWg4b2RXUDRxOTd3ekV3OUQwS25WdzBRdUxJQ1lpeWEyQ0FsdENmV0MtWDFTNmd1VjhOMWJ4SmlMbTRlTDZZUDZyMDZqc2dPdFBMaWNrT2RWdFc2NkQyZTVKTExNY1BDVndDR1pOMFNFN0RJTDRZN2M1Q1VSYWk5RmhLZERRVTRRNzRhSDBldmhMMXczMXB5TXBiUGZiei1WdHJrd1hFZ2c5UkZtZlZoV3FOYnpsbkQw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d1ec909ccb1c",
-      "title": "What Is Silicosis? What To Know As Hundreds Fall Ill From Stone Countertops - Newsweek",
-      "published": "2026-08-16T16:02:00+00:00",
-      "summary": "What Is Silicosis? What To Know As Hundreds Fall Ill From Stone Countertops&nbsp;&nbsp;NewsweekHundreds of California quartz countertop workers developed an incurable lung condition. Dozens died&nbsp;&nbsp;KCRAPublic Health Alerts: Silicosis among workers fabricating engineered stone (‘quartz’) countertops in California, 2019-2026&nbsp;&nbsp;CIDRAPExclusive | How a California dad is surviving the incurable disease caused by common kitchen item that’s killed dozens&nbsp;&nbsp;New York Post31 Deat",
-      "sources": [
-        {
-          "name": "Newsweek",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYlUtWWk1WHJ3WHFiNzlhbDJvT0pOSTlTd1dMM1BPWmRXM29CeV94OGdkcEszS1kzSGo4clRZMlRVOUhEM2hmYncwd1ZEOUd5b1BReGh5bkZtWThZaW9tUU5wOHZiZzR6QWhMWjY4cXMyelVuMzlMaXdIYWY2QmNaajI5THFQV3EzWUk3c1ZpSjI4U3pZeURaWFpGNWNRN3l0VENqSjFqeVhCWXB0?oc=5"
         }
       ]
     },
@@ -246,38 +450,38 @@
       ]
     },
     {
-      "id": "7aeab443f034",
-      "title": "Clarkson condemns decision to strip men of right to prostate cancer test - The Telegraph",
-      "published": "2026-08-16T14:50:00+00:00",
-      "summary": "Clarkson condemns decision to strip men of right to prostate cancer test&nbsp;&nbsp;The TelegraphMen ‘will lose right to prostate cancer tests’&nbsp;&nbsp;The TimesA Quiet Retirement Of A Patient's Right, And What It Reveals About Rationing By Stealth&nbsp;&nbsp;distilledpost.comUK Set To Implement Stricter Protocol For Prostate Cancer Testing; Who Is Eligible To Get Tested?&nbsp;&nbsp;Health and MeProstate cancer test rules under fire after letter update&nbsp;&nbsp;Daily Express",
+      "id": "14ec28b74dd4",
+      "title": "Einstein Probe catches rare X-ray flash from an exploding star - Phys.org",
+      "published": "2026-08-16T14:00:02+00:00",
+      "summary": "Einstein Probe catches rare X-ray flash from an exploding star&nbsp;&nbsp;Phys.orgWatching the First Moments in a Star's Death&nbsp;&nbsp;Universe TodayAstronomers caught the first sign of a star 30 times more massive than the Sun exploding, then tracked its supernova for nearly three months&nbsp;&nbsp;The Times of IndiaGamma-ray burst choked by star’s pre-death mass loss, new research shows&nbsp;&nbsp;eciks.orgAstronomers Caught a Star Exploding Almost the Instant It Began&nbsp;&nbsp;SciTechDai",
       "sources": [
         {
-          "name": "The Telegraph",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQekw2eXdzZlR6a0lmOWFNSldENGd2N0NoUXRtaWtwMjJYTi1hN2tkemRwMWc3YTd5aXpUUkg4Sk1sblBkeDFsYjZsV0Fscjk0bWxBQi1iRkxGcEQ1UEdReDJPMTBGOFZKa3I3VHl4QWsyV09VNC1MbERWRTk0LTNTSUZ5cG9rMDFWLUdVWmhn?oc=5"
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1URlVMSE92RmtlMzNiQVA4czA3cXhyX3NlOS05UUNxeGtSczBzMG5rbnRzY2R2dGJoX1dTTVExdXlmSENDcENfSUdhUnFfWjloTlBwSDZvM05iZ3EzQll2UkF2TDNHOC12ZkRkaXUwWFo?oc=5"
         }
       ]
     },
     {
-      "id": "b9482307d801",
-      "title": "What Happens to Your Bone Health When You Take Vitamin D With Calcium? - Verywell Health",
-      "published": "2026-08-16T13:22:41+00:00",
-      "summary": "What Happens to Your Bone Health When You Take Vitamin D With Calcium?&nbsp;&nbsp;Verywell Health",
-      "sources": [
-        {
-          "name": "Verywell Health",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzMnVxeDVLUndSa0VpVnhrQ3p3ZVFhUG1WVFRfRmJCQ0l3WnctTTdYSjZNREV5NmNqZ1pKYnRDc2s1cktJTEZYLURNT3QtNWtJRGs3MkM2N3gxWG1ocmN1NXNCaHFwQUJwbkl0TlBqWTMzREVqeFpRLQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f56115518800",
-      "title": "Earth's Chemistry Did Something Strange Right Before Its Biggest Mass Extinctions - ScienceAlert",
+      "id": "9fae80203f3a",
+      "title": "Earth's Chemistry Did Something Strange Right Before Its Biggest Mass Extinctions - sciencealert.com",
       "published": "2026-08-16T13:04:33+00:00",
-      "summary": "Earth's Chemistry Did Something Strange Right Before Its Biggest Mass Extinctions&nbsp;&nbsp;ScienceAlertStudy: Severe Environmental Changes Preceded the Five Largest Mass Extinctions in Earth's History&nbsp;&nbsp;وكالة صدى نيوزEvery mass extinction followed the same pattern, study finds&nbsp;&nbsp;Earth.comEarth’s mass extinctions may have continued long after volcanoes stopped erupting&nbsp;&nbsp;Earth.com",
+      "summary": "Earth's Chemistry Did Something Strange Right Before Its Biggest Mass Extinctions&nbsp;&nbsp;sciencealert.comStudy: Severe Environmental Changes Preceded the Five Largest Mass Extinctions in Earth's History&nbsp;&nbsp;وكالة صدى نيوزEarth’s mass extinctions may have continued long after volcanoes stopped erupting&nbsp;&nbsp;Earth.comEvery mass extinction followed the same pattern, study finds&nbsp;&nbsp;Earth.com",
       "sources": [
         {
-          "name": "ScienceAlert",
+          "name": "sciencealert.com",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUNPb3JLVXBvRXlHU09faDIxN2Z5Y0d4U1JTNDBiRldqcExXT01QcFA4OTNHelZ3Z1JULXVNNzZXSDMxM3doU3h4bTM0RUxuMkpzUGZlU245cVYwOVVxQmZOMGZpbm8xTlB4ZXIwVHZKZ1Myajcxb3ZmWm1kdGdaZTFCMHBUaW5fTTBwVG1UX1AxUmJRRG9EMHVmQUJpbmNyM0JGcnVzZ1pUZ0hxc1hzRA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d2a3a43acc08",
+      "title": "What Happens to Your Blood Pressure When You Drink Hibiscus Tea, According to Dietitians - EatingWell",
+      "published": "2026-08-16T13:00:00+00:00",
+      "summary": "What Happens to Your Blood Pressure When You Drink Hibiscus Tea, According to Dietitians&nbsp;&nbsp;EatingWellThe Best After-Dinner Drink If You Have High Blood Pressure&nbsp;&nbsp;EatingWellDietitians Explain If Soaking Chia Seeds in Hibiscus Tea Can Help Lower Blood Pressure&nbsp;&nbsp;Verywell Health5 supplements that may help support healthy blood pressure&nbsp;&nbsp;The Indian Express5 drinks with more blood pressure benefits than green tea — one is probably sitting in your fridge&nbsp;&nbs",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSHlZeVlwQXQzSHZ4cWlidHBUUnlCRFQzVmFINHhwYW5VTkJjSVA3TDNHcjViU0xxQXpsU3RSOU5tRU9lUThIRi01NGZnS0RwVVFpMVRmUi1hWmRGaGlFOUQ1ek5Gd2M1UEJoT3FzV3RFOTVJS1RUOHNxanoxUUpSUU5EOEV5dnpXN1RCalpwUkhZekxJYjU1U0FmYnJrZUJB?oc=5"
         }
       ]
     },
@@ -309,23 +513,11 @@
       "id": "c9b9660c4ea9",
       "title": "Study finds coffee linked to testosterone, body fat and metabolism, especially in men - WZTV",
       "published": "2026-08-16T12:04:45+00:00",
-      "summary": "Study finds coffee linked to testosterone, body fat and metabolism, especially in men&nbsp;&nbsp;WZTVThe coffee advice given to atrial fibrillation patients may deserve a rethink&nbsp;&nbsp;News-MedicalBeloved drink linked to less body fat and more muscle: study&nbsp;&nbsp;New York PostHow healthy is coffee, really?&nbsp;&nbsp;scientificamerican.comCoffee Drinkers Show Surprising Differences in Fat, Muscle, and Hormones&nbsp;&nbsp;SciTechDaily",
+      "summary": "Study finds coffee linked to testosterone, body fat and metabolism, especially in men&nbsp;&nbsp;WZTVBeloved drink linked to less body fat and more muscle: study&nbsp;&nbsp;New York PostHow healthy is coffee, really?&nbsp;&nbsp;Scientific AmericanCoffee Drinkers Show Surprising Differences in Fat, Muscle, and Hormones&nbsp;&nbsp;SciTechDailyHeart racing after morning coffee? Cardiologist shares 6 warning signs you should not ignore&nbsp;&nbsp;Hindustan Times",
       "sources": [
         {
           "name": "WZTV",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUnVNT1ZXejM2dUNfVTBXc3M0RzhjQm81eFJuZGVNTDRHYlRndkRZOUVFU1FpNjlaaFFFU3NLbWRMZ0FTOUMwNjIxOXpyaUh2WVNiTlRpMGdFaDhZSGZJRGJheU1GX3FGU29Za1h3Qko4T0d4UmdrYzJWYmlhSWFQX291Y1c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ea873c3fa052",
-      "title": "Why cancer, not cost of living, may be the biggest issue in Iowa’s midterm elections - The Guardian",
-      "published": "2026-08-16T12:00:00+00:00",
-      "summary": "Why cancer, not cost of living, may be the biggest issue in Iowa’s midterm elections&nbsp;&nbsp;The GuardianSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNekhoOFpENkxMUHR0QW5yMl9XQVdwUGpxZW1vUExteFhsNEFXeGhxQ0RGNTZQSnNwRkJGbFd0dlFQN2ZQcXR2YWRDU1cxajFVLWdpalEwalJkREtlbFZ0ejhJR3NoLUhIT0hzODJtaHlzd0lubTJyNDhSMkJQTlBIc3RrSHdVRXBSNVkzZURGNnVMcnUxTnc0?oc=5"
         }
       ]
     },
@@ -357,7 +549,7 @@
       "id": "c55fadbe42ee",
       "title": "Walking This Many Steps Per Day Can Cut Your Risk Of Early Death - HuffPost",
       "published": "2026-08-16T11:00:20+00:00",
-      "summary": "Walking This Many Steps Per Day Can Cut Your Risk Of Early Death&nbsp;&nbsp;HuffPostYou Don’t Need 10,000 Steps to Help Your Heart&nbsp;&nbsp;Time MagazineThink 10,000 Steps a Day Is the Magic Number for Brain Health? Research Suggests Otherwise&nbsp;&nbsp;inc.comDoes Walking Build Muscle, Burn Fat, or Both?&nbsp;&nbsp;GQWhen you walk changes the impact on your health&nbsp;&nbsp;Texarkana Gazette",
+      "summary": "Walking This Many Steps Per Day Can Cut Your Risk Of Early Death&nbsp;&nbsp;HuffPostYou Don’t Need 10,000 Steps to Help Your Heart&nbsp;&nbsp;Time MagazineThink 10,000 Steps a Day Is the Magic Number for Brain Health? Research Suggests Otherwise&nbsp;&nbsp;inc.comDoes Walking Build Muscle, Burn Fat, or Both?&nbsp;&nbsp;GQWalking Every Day Could Be One of the Best Things You Do for Your Health&nbsp;&nbsp;Style Rave",
       "sources": [
         {
           "name": "HuffPost",
@@ -366,25 +558,25 @@
       ]
     },
     {
-      "id": "74aaa729b476",
-      "title": "One Overlooked Part of Your Body May Be Driving Aging Everywhere Else - ScienceAlert",
+      "id": "32af940706fd",
+      "title": "One Overlooked Part of Your Body May Be Driving Aging Everywhere Else - sciencealert.com",
       "published": "2026-08-16T10:04:33+00:00",
-      "summary": "One Overlooked Part of Your Body May Be Driving Aging Everywhere Else&nbsp;&nbsp;ScienceAlertMaladaptive Trained Immunity May Drive Inflammaging Through Hematopoietic Stem Cells&nbsp;&nbsp;Bioengineer.orgAuthor Correction: Trained immunity connects aging hematopoietic stem cells with inflammation&nbsp;&nbsp;Bioengineer.org",
+      "summary": "One Overlooked Part of Your Body May Be Driving Aging Everywhere Else&nbsp;&nbsp;sciencealert.comAuthor Correction: Trained immunity connects aging hematopoietic stem cells with inflammation&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
-          "name": "ScienceAlert",
+          "name": "sciencealert.com",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVndkZU9mcVBGRTNfT0NNNV9JUlNmeE1tTG0zTHFpY0hNZm5FU0w4ZjFwS252dzZFTXVycnp2MkJ5dXRIU1B2M3hLVC1oR2VHU001dWVDQUc0cml0RERZcFlGWUF3b2ZjYUpud2FETDZvTVpqcENpNktSX3VaSlF0ZkN4dkk3LWJBVDNsekRvcnhyTUYzN0E?oc=5"
         }
       ]
     },
     {
-      "id": "415758558cfd",
-      "title": "Are mosquitoes, ticks and fleas turning California into a disease hotspot? - latimes.com",
+      "id": "1205b0cf75ed",
+      "title": "Are mosquitoes, ticks and fleas turning California into a disease hotspot? - Los Angeles Times",
       "published": "2026-08-16T10:00:00+00:00",
-      "summary": "Are mosquitoes, ticks and fleas turning California into a disease hotspot?&nbsp;&nbsp;latimes.com",
+      "summary": "Are mosquitoes, ticks and fleas turning California into a disease hotspot?&nbsp;&nbsp;Los Angeles Times",
       "sources": [
         {
-          "name": "latimes.com",
+          "name": "Los Angeles Times",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOenFNbUhzOWRtN2RucnJjNGhQdE9OdDh4V25wdTI5ejN2TVUyWi1JN2p1SWxZRkdVdmJVTDVhS3FfQXhhcEZFb1dvUHEyUU1SZVZsOUc4clZEandfZGNNYW1aMzdxZHBzcno5TTdFS0NKNENSUDVLR2x2VDVhV2xBSzVR?oc=5"
         }
       ]
@@ -405,7 +597,7 @@
       "id": "b9c43d998ba3",
       "title": "'This goes beyond showcasing technological soft power': China's new moon map signals bold space ambitions (video) - Space",
       "published": "2026-08-16T10:00:00+00:00",
-      "summary": "'This goes beyond showcasing technological soft power': China's new moon map signals bold space ambitions (video)&nbsp;&nbsp;SpaceNew advances in lunar soil research offer scientific evidence to unravel mystery of moon’s 'two faces'&nbsp;&nbsp;Global TimesChina has unveiled an updated geological map of the Moon&nbsp;&nbsp;UA.NEWSChinese scientists uncover new clue to Moon's two-face mystery in Chang'e-6 samples&nbsp;&nbsp;巴士的報China releases new geological map of Moon&nbsp;&nbsp;TV BRICS",
+      "summary": "'This goes beyond showcasing technological soft power': China's new moon map signals bold space ambitions (video)&nbsp;&nbsp;SpaceNew advances in lunar soil research offer scientific evidence to unravel mystery of moon’s 'two faces'&nbsp;&nbsp;Global TimesChina has unveiled an updated geological map of the Moon&nbsp;&nbsp;UA.NEWSChinese scientists uncover new clue to Moon's two-face mystery in Chang'e-6 samples&nbsp;&nbsp;bastillepost.comChina releases new geological map of Moon&nbsp;&nbsp;TV BR",
       "sources": [
         {
           "name": "Space",
@@ -414,50 +606,38 @@
       ]
     },
     {
-      "id": "af5df1137ba9",
-      "title": "Doctors Found a Parasite Eating a Man’s Liver. Then Traced How He Got It - Newsweek",
-      "published": "2026-08-16T08:15:00+00:00",
-      "summary": "Doctors Found a Parasite Eating a Man’s Liver. Then Traced How He Got It&nbsp;&nbsp;Newsweek",
+      "id": "e9932890c26a",
+      "title": "Simple Fitness Test Could Offer Clue About Life Expectancy In Older Adults - DailyVoice.com",
+      "published": "2026-08-16T07:00:00+00:00",
+      "summary": "Simple Fitness Test Could Offer Clue About Life Expectancy In Older Adults&nbsp;&nbsp;DailyVoice.comAcing a simple one-leg test could cut your risk of dying in half: study&nbsp;&nbsp;New York PostHow well you balance and move may say more about longevity than you think&nbsp;&nbsp;News-Medical\"Try Standing on One Leg\"... 7 Simple Tests That May Help Predict Longevity in Old Age&nbsp;&nbsp;스포츠조선The One-Leg Test That Could Reveal Your Risk of Dying&nbsp;&nbsp;VICE",
       "sources": [
         {
-          "name": "Newsweek",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMEZaRGM3OE13WWliN1F5ZV9fMUpSZ24xemNYQmJEalFNUzg0a3cwR2ZTMl9vZ2ctNWVkcGI0QURBQ3VHZENCc3NUc0hEODg2SWFQWkdQRnhnTl83VDluOTVzZ0pxNFR6X0NWVlpFSkdmb3Ryb1phOXN1X2xDN1lRbWpVY1hRYmhpQWtqVklobTNQbEpCWEdLRTlmZXl1Wm9NeXlBanRRSQ?oc=5"
+          "name": "DailyVoice.com",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUDBRb0FpMUxlR1puWXJsN2FjbWNOVF82MjRsUHNvRVNuWDBwdExfTG8xc1RvTGo2bnRMRlBDdDJ6N3BleUdwZDRBcjBEWW9heWZHUlBUSFpXc2Rmc1pRMHUtWVNjV0ZUMXJUSE1FUFJIUWNvMnN3c3lQeFNXTDN5WHo1UW1FZ0ZUWVVHZF8td1ZOY0VKd3NzRVdtVl82am9vVEJfNnVJQkp6QQ?oc=5"
         }
       ]
     },
     {
-      "id": "b6afea2c83f2",
-      "title": "Science or fiction? Shadowy ‘paper mills’ let you pay to be a published author – of fraudulent research - The Guardian",
-      "published": "2026-08-16T05:44:00+00:00",
-      "summary": "Science or fiction? Shadowy ‘paper mills’ let you pay to be a published author – of fraudulent research&nbsp;&nbsp;The Guardian",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdDVZazY5ZVJKZVJCQkpHb24xWUcxRTdlbWxOd2kteTNTb3IxTVNHcUNRZllpeVhlSGVyXzlrNmtKMjBSVXhUR2tTUHBLSjZSbmVFNkRSUEVBV3FwMWpLZjJLaFZtQktfUnd3b3dnVVc1TmtFcWVodjFZNUh5blVhWTROZ2dfQ0dpY2FfQldZU0RqNVRhR1l5S3FrV3VVTGswMGhkalJON3F2ZlRsczIwaUJBUVN3UkhyanBUQlcxR0E3enJROFpwRDc4ekd0dnoxaW02QXhsYjJaWFJaUGlZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ac95838110bd",
-      "title": "Erythritol: what the research really says - The Advocate",
+      "id": "390078cda617",
+      "title": "Machine Learning COFFIES “Hears” Sunspots Before We Can See Them - Hackaday",
       "published": "2026-08-16T05:00:00+00:00",
-      "summary": "Erythritol: what the research really says&nbsp;&nbsp;The Advocate",
+      "summary": "Machine Learning COFFIES “Hears” Sunspots Before We Can See Them&nbsp;&nbsp;HackadayNASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun&nbsp;&nbsp;NASA Science (.gov)New AI model detects hidden signs of solar eruptions hours before they emerge&nbsp;&nbsp;Phys.orgNASA develops AI to predict solar storms 12 hours before they appear | It'll also help improve space weather forecasts | Inshorts&nbsp;&nbsp;InshortsIIA researchers develop 3D model to forecast arrival of Coronal Mass E",
       "sources": [
         {
-          "name": "The Advocate",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWmk3TGZWYUE4WTVHczVyX2hVQ3piOUM5V01pYW5tMnozNGFYZThfWUNNY3M5ZXFacEZac3p4Q0t2cDh5R1NEaG9Jd1ZiZVd5cTFZN1JiWGp5WXNPaDVHSkszakVJLXkyVDQxUl92UzBQMmpfUG9lb1I0T19FWWJVdmYyV1hFaG9yU3Y0WVZSVVZCbFAtMENqMHpJX0szZ1V4VHVydHd0Zld0N0hsbzRwUW5yalpDTjBtMHJqRVI4LXhGMlBoQm9qekZtSWxMSWZ4X2VwekowTDhoNW5fNVdfQWlITHZyR294aVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d6e734d25128",
-      "title": "Machine Learning COFFIES “Hears” Sunspots Before We Can See Them - hackaday.com",
-      "published": "2026-08-16T05:00:00+00:00",
-      "summary": "Machine Learning COFFIES “Hears” Sunspots Before We Can See Them&nbsp;&nbsp;hackaday.comNASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun&nbsp;&nbsp;NASA Science (.gov)New AI Model Detects Hidden Signs of Solar Eruptions Hours Before They Emerge&nbsp;&nbsp;NJIT NewsNew computer model can help trace magnetic energy builds up & forecast impact of resulting CMEs&nbsp;&nbsp;PIBIIA researchers develop 3D model to forecast arrival of Coronal Mass Ejections&nbsp;&nbsp;The Hindu",
-      "sources": [
-        {
-          "name": "hackaday.com",
+          "name": "Hackaday",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXhZazN1SUI5U29oNnJkbDJGN2JWWHBYODVXYXJheXEtSWl5cXByWndYRXpJTWYwSjRCbFhsZlZYRU1kd1hSSnFNWDB3b0NMbHBYWXc3dDFIUHdDQXNNSnNhM3dJN2VjdUk3b0JZSkxweWRsRWZwNG55MDY0cGFwaUFzR3NTckprTmRlQlNUZnB5a2dQUVN1Mlh2WQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2958f8abd3e9",
+      "title": "Oncologist Warns: Never Ignore Unexplained Bleeding Before Age 40 - AOL.com",
+      "published": "2026-08-16T04:30:40+00:00",
+      "summary": "Oncologist Warns: Never Ignore Unexplained Bleeding Before Age 40&nbsp;&nbsp;AOL.comThe cancer symptoms people mistake for ageing or stress&nbsp;&nbsp;The TelegraphI’m a Gastroenterologist. These 3 Colon Cancer Symptoms Fool Most People&nbsp;&nbsp;NewsweekBowel cancer 'deadliest type for under-50s' and failing to improve - 4 signs&nbsp;&nbsp;The SunDoctor warns of three invisible cancer symptoms millions dismiss as getting older&nbsp;&nbsp;GB News",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeTVqcFlGY1l2blZvTTI1UC1lZkF2Qm5WQ3dUVHVpS0Z4cXpYamg1alZpVFkxMkVoa1NoSEtMeDFhYkFHQWR0RU5jMDdjVUFveU9BRDZFakRmT2dLbVRFbERYajFRRDB5UEY4bXNHazNaTUN1S21GdkhmeUVYX1NpUEpkVmQ0RzZXRkRWZG1n?oc=5"
         }
       ]
     },
@@ -477,7 +657,7 @@
       "id": "eeedd5dbd57d",
       "title": "Simple dinner time habit could help 'prevent diabetes' - Daily Express",
       "published": "2026-08-16T03:37:00+00:00",
-      "summary": "Simple dinner time habit could help 'prevent diabetes'&nbsp;&nbsp;Daily ExpressWe're getting mealtimes wrong - here's the best time to have dinner&nbsp;&nbsp;BBCThe Healthiest Time to Eat Dinner, According to Experts&nbsp;&nbsp;GQThe Best Time to Eat Dinner for Better Blood Sugar&nbsp;&nbsp;Verywell HealthWhy eating late at night can cause a blood sugar spike&nbsp;&nbsp;The Indian Express",
+      "summary": "Simple dinner time habit could help 'prevent diabetes'&nbsp;&nbsp;Daily ExpressWe're getting mealtimes wrong - here's the best time to have dinner&nbsp;&nbsp;BBCThe Best Time to Eat Dinner for Better Blood Sugar&nbsp;&nbsp;Verywell HealthThis Is the Best Time To Have Lunch for Better Metabolism, According to a Dietitian&nbsp;&nbsp;Health.comThe Healthiest Time to Eat Dinner, According to Experts&nbsp;&nbsp;GQ",
       "sources": [
         {
           "name": "Daily Express",
@@ -486,25 +666,49 @@
       ]
     },
     {
-      "id": "9d611192a27c",
-      "title": "A Specific Part of Your Brain Seems to Shrink If You Have Depression - ScienceAlert",
-      "published": "2026-08-16T00:03:59+00:00",
-      "summary": "A Specific Part of Your Brain Seems to Shrink If You Have Depression&nbsp;&nbsp;ScienceAlertSee more headlines & perspectives on Google News",
+      "id": "a497aefcc11d",
+      "title": "Medical Professionals Are Revealing Dark Secrets About Their Jobs That The Public Doesn't Know, And It's Unreal - BuzzFeed",
+      "published": "2026-08-16T02:01:05+00:00",
+      "summary": "Medical Professionals Are Revealing Dark Secrets About Their Jobs That The Public Doesn't Know, And It's Unreal&nbsp;&nbsp;BuzzFeed",
       "sources": [
         {
-          "name": "ScienceAlert",
+          "name": "BuzzFeed",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQakQxZkttdF9uUHhCRUdLZnZQazBTTnJlT0JLcFVHZDRlWTJ1UzMyQklqZHJtXy1ZendMVTBzOF9UWTB2amlqd3RnRlZ2VnZqQ2pPNzVaa1phS3RYSUdCZ0VMTlhzSWc0dGlvaEtVMDVsNGRURlFmX1lmOElobk82Vg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e292b2d86d79",
+      "title": "A Specific Part of Your Brain Seems to Shrink If You Have Depression - sciencealert.com",
+      "published": "2026-08-16T00:03:59+00:00",
+      "summary": "A Specific Part of Your Brain Seems to Shrink If You Have Depression&nbsp;&nbsp;sciencealert.comSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "sciencealert.com",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLU15UWxfTHRKQkFlX01Ba1VjaHVESmJ0clNZdEVNS1p1TE9nZ0MtQjR5ZDVXWGtmbUk1TnhpZlNDbnFzWnJVSFRJMXRjTW0zMVZSZGtBNWlZcWxIX2FmRUd0VXFqamJMUzhVcjZLRXZpb1hqbDl0c3A3OG53bVRJclJhNzdrdlZVcG1kSG1TUUdqTzdhbjV5TW5rNWx6RF9JYlBrYUhpMTVMRW0tYWNxN0Nvaw?oc=5"
         }
       ]
     },
     {
-      "id": "16df3751e165",
-      "title": "US Cardiologists Issue New Guidelines For How to Manage Cholesterol - ScienceAlert",
-      "published": "2026-08-15T19:03:59+00:00",
-      "summary": "US Cardiologists Issue New Guidelines For How to Manage Cholesterol&nbsp;&nbsp;ScienceAlertThe sneaky kind of cholesterol that may be threatening your heart health&nbsp;&nbsp;The Washington PostLipoprotein(a): An FAQ on Awareness, Risk, and Screening Gaps&nbsp;&nbsp;The American Journal of Managed CareNew cholesterol guidelines urge testing sooner, particularly for women&nbsp;&nbsp;WBAL-TVYour cholesterol is normal, but could your DNA still be putting you at risk of heart disease?&nbsp;&nbsp;The",
+      "id": "35c06a873f9c",
+      "title": "Everyday habit linked to dramatically lower risk of dying from heart disease - Fox News",
+      "published": "2026-08-15T20:12:05+00:00",
+      "summary": "Everyday habit linked to dramatically lower risk of dying from heart disease&nbsp;&nbsp;Fox NewsTaking the stairs could protect your heart and help you live longer&nbsp;&nbsp;Science DailyHeart disease: Climbing just 6 flights of stairs a day can lower risk&nbsp;&nbsp;Medical News TodayTaking the stairs may do this for your health, researchers say&nbsp;&nbsp;USA TodayTaking the stairs could cut risk of early death&nbsp;&nbsp;Medical Xpress",
       "sources": [
         {
-          "name": "ScienceAlert",
+          "name": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUVFMVGF3MVNjU0JtZEVzXzNKMDVhbTZJcE5RN09HQU9nT2x2TTlpVUdkVmExeXpGRVZadjlBQkVoMndyTWJpSTFIR0luOEp2WXZhVzlFRVJ3Y09jY0haREpZMFNmQzVwY3EyLWN4OE9rVW5WMWxsN2pZYUFBSnJ1Q3FDbEZhQWVRZm9HMVZ6akp5SzFWY2picnA2bGfSAaIBQVVfeXFMT0lsbVdTMVpFenFiR0d3TU01d1dNb18xbkdjUldDYlcyMzEtbHQ4THRjR0tBNXhKZUZ6UHRHdzJWOEs4NlBrTHN2RW5lRDBKVGhsRFVLV1pIS2NWR2lkdExfYjZnUnkyMW9qb3RhcUpIX2dhMGpfZFJuS01FNEFrTklucEhIR0xveno0Q1A4Ym9sbXNMX3FNZjZ2UVlMU2FsdVN3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "80acdd690b18",
+      "title": "US Cardiologists Issue New Guidelines For How to Manage Cholesterol - sciencealert.com",
+      "published": "2026-08-15T19:03:59+00:00",
+      "summary": "US Cardiologists Issue New Guidelines For How to Manage Cholesterol&nbsp;&nbsp;sciencealert.comWoman’s Doctor: New recommended guidelines for cholesterol&nbsp;&nbsp;WBAL News RadioNew Cholesterol Guidelines Urge People To Start Treatment Earlier&nbsp;&nbsp;RTTNews",
+      "sources": [
+        {
+          "name": "sciencealert.com",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRTZxM2FMaUpQOGVIaTlzdHRkVEhKZzMzLUxreVY3OGZaeFhmZUdtaEFoMVZFUE4wNUJRYlVSVlRfbzMzbGwtaGh6ZmtMaXJ2Z1FZcXhYdW1ucm90OG9qMUxlbDNiREtiQ2VqNWV2TzBuRV9YY1JycV9iQll5U0JXSDlhT3ZwWEJjdWZIakU0aWRnakVibVhPY3dvMlI?oc=5"
         }
       ]
@@ -518,174 +722,6 @@
         {
           "name": "Medical Xpress",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWjNjOU95ZHM5ZGRGTTgyRndEeFR2NGhhUzJmWXRhZ1lJT213ek5vTW96ZmlDamx4LVJuY1JremFuakx4WmtZcU1ld3ZISmFyWnBsSE1tcTRqOHhPOUZETjFHakp4NGhVdkdHbU4tdHBCSFU4SVl3MVpKNHMzSWNqbUFwR24?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "767e52b2268a",
-      "title": "This Habit May Raise Your Mortality Risk by 24%, New Study Says - EatingWell",
-      "published": "2026-08-15T18:00:00+00:00",
-      "summary": "This Habit May Raise Your Mortality Risk by 24%, New Study Says&nbsp;&nbsp;EatingWellA 30-year study found a surprising link between alcohol, survival and heart attack risk&nbsp;&nbsp;News-MedicalWine, beer, or spirits? Massive study finds a surprising health divide&nbsp;&nbsp;ScienceDailyStudy Proves Wine Wins for Heart Health&nbsp;&nbsp;Wine-SearcherWhat alcohol is consumed — not just how much — could impact health risks&nbsp;&nbsp;PhillyVoice",
-      "sources": [
-        {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxY2hvaTFZelFzSzlXbU5aSnFNX3doTjJ2dWRRcUJFZGFldHZrSkJDbkpVTnE5QlN1azlhUDVkUWRJM2lGYWpSaTMyeUNCSG4xSDNuZzRMMDlhcFhFRFpCaDFVTVM3MW5fdVNFTnRCemp1UXJzZ2pvS0tXNGNSQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7694db4b34d4",
-      "title": "Is Rotisserie Chicken Healthy? Here’s What Nutrition Experts Say - marthastewart.com",
-      "published": "2026-08-15T18:00:00+00:00",
-      "summary": "Is Rotisserie Chicken Healthy? Here’s What Nutrition Experts Say&nbsp;&nbsp;marthastewart.com",
-      "sources": [
-        {
-          "name": "marthastewart.com",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QZFlrWmJ1LVBmSGVKTlRVM1NNem5iTzFxd1FSdlpzMEJBWGczb09KVzNhT3RxU1dOYVlDLVRhY1RCT0Jhd01kUGNzRHNrMDNaa1ZSMkxHWUNSeWxRdDFoQThPRXcyWDllcUlMVzQzU0pDR2UzREVR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "01a08dafa803",
-      "title": "New obesity definitions reveal ill health more accurately than body mass index - Medical Xpress",
-      "published": "2026-08-15T17:20:01+00:00",
-      "summary": "New obesity definitions reveal ill health more accurately than body mass index&nbsp;&nbsp;Medical XpressSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlI0TGd1WHRQRmtRRVFCLUtnWTJib3VUbXd1eFRtMzJMVW1qZmdibUFwN1VxTmpxd1NpNFBWR0tZcFRSd1Vnb1NCalRfVGJGdEZHdEtnazFVb1k5TlVPSVZpR3lwWUV3YzNaZDUzeEdoQnFDV0FrcHR0VmhvR0xtbzFaM0NuRmIt?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e504c7723c0a",
-      "title": "Impact of chronic stress on the brain - wkbn.com",
-      "published": "2026-08-15T17:13:40+00:00",
-      "summary": "Impact of chronic stress on the brain&nbsp;&nbsp;wkbn.comSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "wkbn.com",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42MjFMU2Yxc182NDA2QThSbmFiWlhUS0FvZ2pEWHIzcmdhVnNDcG1tSTNGWFBDckhwbXRjRGtwYmZBTGh0T3czWEZ2MEFNckYtZkJ5eFUxei1SX3E2S2p6WTZpbE1RekhTal9YQnpHMnM4VENFZURlNdIBfkFVX3lxTE5CR1RWM3BGZkNTbnFwclVabFhYQmtBSm1KQmNhaVpmc1JhTnUxYjFfTllzUVdjcFpCZlBiZHNrYUFzVXRfeGRYZXpRNm8tcjBnOVp3TTJUczFEamlqZ3hxNS15WllsS3dVRC1Ubmw2OEp4R0JnM3lPUHZjSUQ1dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a9a8bdd8a1df",
-      "title": "5 Morning Leg Exercises That Restore Balance Faster Than Lunges After 65 - Eat This Not That",
-      "published": "2026-08-15T16:02:07+00:00",
-      "summary": "5 Morning Leg Exercises That Restore Balance Faster Than Lunges After 65&nbsp;&nbsp;Eat This Not ThatThe most useful exercise advice after 60 is not about doing more of one thing: the official guidelines and the falls research agree that combining aerobic movement with strength and, above all, balance training is what keeps older bodies capable and upright&nbsp;&nbsp;ScienceBlog.comSilver Stars Fitness: Attention NYC Men & Women 60+: Struggling To Improve Your Balance & Feel Like You're At Risk ",
-      "sources": [
-        {
-          "name": "Eat This Not That",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9lUW1TRVNzVWNuN0QxWDdsRHRLLVlUbVVxYjdSdU93N21rVW1nUHhRTXN2ajB2d1B0UHZfYlNoak55VDlqSTRfdEhVY2g0S2RlLUxOMG1ONEFwMlBEeHlKYjVUVDlyY2E5eXMyR0ZRYjZxMGk5UzBHVlNLMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dea78edc3b33",
-      "title": "A squid pulled from a sperm whale's stomach during an Antarctic whaling expedition in 1955–56 sat overlooked in scientific collections for nearly 70 years — until researchers realised it wasn't just a new species, but an entirely new family of oceanic squid no o - Space Daily",
-      "published": "2026-08-15T15:30:00+00:00",
-      "summary": "A squid pulled from a sperm whale's stomach during an Antarctic whaling expedition in 1955–56 sat overlooked in scientific collections for nearly 70 years — until researchers realised it wasn't just a new species, but an entirely new family of oceanic squid no o&nbsp;&nbsp;Space Daily",
-      "sources": [
-        {
-          "name": "Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aVUJDcjU0RDlHT3paWkVtSWdsMkVMQkhzbXpXdENxYkVCX2JCam5mUUFTWU42dHJQWHVKdTgyZVEtaEhoS0lJSUplR2tTZXBlOGQySVVtVXhSQ3FWSjJPNDhIQTZSZGNqc3pIMFQyalE2TmtsVlZzZ1pSdmNoUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "eccb5f4e0602",
-      "title": "‘Father of biohacking’ hints that highly-addictive drug could be the ‘next longevity breakthrough’ - New York Post",
-      "published": "2026-08-15T14:53:00+00:00",
-      "summary": "‘Father of biohacking’ hints that highly-addictive drug could be the ‘next longevity breakthrough’&nbsp;&nbsp;New York Post",
-      "sources": [
-        {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObVlkc1lIZEVFQ0ZLRm1STkFzTFVpQUlqeU0tT1NNMkNGRi1XOWNkeGxVSGE3ZTROamVqUmdDUlhDRVJXUWZONDBaSXpaLU9GTXZMNDFGSE5mTzFnQU5uVEszVjByQWlQaHBTM1lHLUtKRkpEZlBLeHVXa1AwdGROOFNPa3dfUEZPb1dTTGYxYXhUNHhOWmJQOU90c2JMM1U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4ede5edd59e4",
-      "title": "When gut microbes run low on fiber, they may start eating you - ScienceDaily",
-      "published": "2026-08-15T14:32:07+00:00",
-      "summary": "When gut microbes run low on fiber, they may start eating you&nbsp;&nbsp;ScienceDailyWrong diet can make your gut bacteria 'eat you': Feeding it the right food helps protect your body. Resear&nbsp;&nbsp;The Economic TimesShow 1483: Plant Power: Feed Your Gut and Fight Inflammation&nbsp;&nbsp;The People's Pharmacy",
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zVlJnbzNqYWFrelJweFdKZG1rMVl6cGJfYnFpOHpWVmgxamgtY2NhWmdWN1VEejNXQjM4TVhxeHZxblp2Umw3Q0d1UGpKT08tbFROYmNYanJLczdxMVlpSXNsQmdDNkFKQXlPdlNUaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1c6d97af6d66",
-      "title": "Is Protein Powder Bad For Your Long-Term Health? - GQ",
-      "published": "2026-08-15T14:10:23+00:00",
-      "summary": "Is Protein Powder Bad For Your Long-Term Health?&nbsp;&nbsp;GQSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "GQ",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4ekliNlI4QUV0aVpadEdiVE9XemdmYnFwcHhRTkVQTUVObmtRWHozcHBSUU50MzVkV09KQkJudVpFenUxSk1UR2R0aG1tRXZFUnY1T1VzOS1pT21SMmlNbFFrb01BbkU0Y0NSQkRiNVJjR09jZWp4Q1lOSzlVd2M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c3ffd80ade19",
-      "title": "Obesity drugs show early promise against the hormonal disorder PMOS, giving a suffering family hope - KSL News",
-      "published": "2026-08-15T13:54:49+00:00",
-      "summary": "Obesity drugs show early promise against the hormonal disorder PMOS, giving a suffering family hope&nbsp;&nbsp;KSL NewsSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "KSL News",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNN1lETVFKS1BvX0hfUHlrYmR5THpjMzRURFNWZjNNSUVyTlhWbUhwSkpFZmdKOVA1Mk5tTXh4RFVzUGFyNmpKQ0l6ZUU4QldES0lDbkFwb1lKQ1RWd2dRMk52ZTctT19mZ3JVVWI2Q2h0TXY1Wlk2YWZQd29lN29qb0N2ZHZGdFhTVHh1UVFobWJwVDlJUzUwdm9sWGlkLW1CNGtYcnJvVEVWejNUWHZCVHI1X1dnTWw0Y1dXSzRoQWNsMERZYmpzMHZZTEhmM2tl?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6f4fc5690199",
-      "title": "‘Poop Pills’ Show Promise for Severe Peanut Allergy, Early Research Shows - Healthline",
-      "published": "2026-08-15T13:43:55+00:00",
-      "summary": "‘Poop Pills’ Show Promise for Severe Peanut Allergy, Early Research Shows&nbsp;&nbsp;HealthlineFirst-of-Its-Kind Trial Against Food Allergies Yields 'Exciting' Results&nbsp;&nbsp;ScienceAlertFecal Transplant Raises Peanut Tolerance in Some Allergic Adults&nbsp;&nbsp;MedscapeQ&amp;A: Microbiota Transplantation Therapy Simplifies Dosing for Peanut Allergy&nbsp;&nbsp;HCPLivePoop could help treat peanut allergies, an early start to menopause and why you don't need to detox your liver&nbsp;&nbsp;wtsp",
-      "sources": [
-        {
-          "name": "Healthline",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd3ZKWWNzN2c5SUl1N1ZSc2pXdWQ2SnBRR25HWnVTMHZGbzFEYnQtZGNJQVJKMWFTX3c1QXliTzFOTmx2WkZOWWUyR0g2Q21jU1hZMUxjVU96c0tqV25Dd3BsZE1wcnVpeE9keU1UQzlVcXJSTVJrZXAxcnBWUXFjMU1qS1pGQloyMGRIOVU2N3RNVzgyZ09OdEFCSDEyLTMxZ0tLZFVhWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "93166fff6340",
-      "title": "Brain activity reveals how people juggle changing goals in real time - Medical Xpress",
-      "published": "2026-08-15T13:00:01+00:00",
-      "summary": "Brain activity reveals how people juggle changing goals in real time&nbsp;&nbsp;Medical XpressNeural basis of compositional control&nbsp;&nbsp;NatureNeuroscientists uncover a universal mechanism for human decision making&nbsp;&nbsp;PsyPost/Beyond Yes or No: How the Brain Navigates Between Competing Goals&nbsp;&nbsp;Texas Children'sYour brain makes decisions differently than you think&nbsp;&nbsp;Universiteit Leiden",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWHhZUkc2elFIa3owb0FfVExnRVZ6aVdXaDVKSGMteVEtanpLdmFwRkRMVFE0UTJBODNhSGtMbUlOSjBfRHN4dmdSZlhPSHkxSGc4LXNhRzc1UW93R0llYVhmc1RhV1ZqMzdoTE5fanhfN0J3QnNoakowMG9Za0VjQw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0fc444b66198",
-      "title": "What Happens to Your Kidneys When You Drink Coffee Every Day - EatingWell",
-      "published": "2026-08-15T13:00:00+00:00",
-      "summary": "What Happens to Your Kidneys When You Drink Coffee Every Day&nbsp;&nbsp;EatingWell",
-      "sources": [
-        {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwLVpQb20wVE01cVY1akVwSFRCdzNTdkpzakZmN2FpOHhQd3Q4X3ZNSzdwX2dXMEZPem5HUVIzZmcwOUItdkRKRm5JbFFZV0w0cXhIVElIU1BHeTdISmJXX2FxaEx3R3hEazFZVWlSYUlSd1poektRTWZn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1d70b34daa5c",
-      "title": "3 Morning Habits That Can Support a Healthier Liver - EatingWell",
-      "published": "2026-08-15T12:00:00+00:00",
-      "summary": "3 Morning Habits That Can Support a Healthier Liver&nbsp;&nbsp;EatingWellAdded sugars convert to fat in the liver over time, Endeavor Health cardiologist warns&nbsp;&nbsp;WGN-TVSix natural drinks protect a fatty liver when you take them on an empty stomach, and the order you drink them in matters&nbsp;&nbsp;okdiario.com5 Kitchen Staples That Help Reverse Fatty Liver Disease Naturally&nbsp;&nbsp;Woman's WorldLooking out for your liver&nbsp;&nbsp;PressReader",
-      "sources": [
-        {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wc25uYXIyUHhfbnYxcW9fdmJGS2x2bWJXLU8wUExrX3ptS3hiTFloY0N4OXhkLWFBMXd1RUtLMktob1FzOXVjcjNkNHEzR0I2eUdPUk1pbTg2c1pmcjluc2JJdjJEMWI4TExFT1IwZ3NRa3lRYnc?oc=5"
         }
       ]
     }

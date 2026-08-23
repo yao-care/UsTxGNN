@@ -1,19 +1,67 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-08-23T01:34:02.333853+00:00",
-  "total_fetched": 131,
-  "unique_count": 131,
-  "health_related_count": 61,
+  "fetched_at": "2026-08-23T06:44:07.245098+00:00",
+  "total_fetched": 137,
+  "unique_count": 137,
+  "health_related_count": 62,
   "news": [
+    {
+      "id": "3db171767882",
+      "title": "Titan is the only place besides Earth with stable liquid on its surface, a working weather cycle and complex organic chemistry — and now, according to 2025 NASA research, a plausible mechanism for building the first membrane around a primitive cell, without - Space Daily",
+      "published": "2026-08-23T00:09:41+00:00",
+      "summary": "Titan is the only place besides Earth with stable liquid on its surface, a working weather cycle and complex organic chemistry — and now, according to 2025 NASA research, a plausible mechanism for building the first membrane around a primitive cell, without&nbsp;&nbsp;Space Daily",
+      "sources": [
+        {
+          "name": "Space Daily",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkFIRFItNGZYU0RxUXU1VFhZQkptcHg2bURjOGZ3V1VKZ25SNENkWk9ZRi1aUjNSTGtqYXQ2RTRBZjF5YmU1MTIzNXpiWHhDc3dtQmpWS01XRERUN0pudFVCMm91c2EyNzF5M2FLT1IzZ1RuUlMwM2hoQlZIam5ocGJn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "741bea981eba",
+      "title": "Computer models pinpoint catalysts for replacing fossil-fueled ammonia production - Phys.org",
+      "published": "2026-08-22T21:00:04+00:00",
+      "summary": "Computer models pinpoint catalysts for replacing fossil-fueled ammonia production&nbsp;&nbsp;Phys.orgKorean researchers open path to room-temperature ammonia production without chemical additives&nbsp;&nbsp;헤럴드경제Researchers develop new method to find greener ammonia production catalysts faster&nbsp;&nbsp;Yahoo TechAmmonia as a Hydrogen Carrier: Advancing Zero-Emission Energy Solutions (IMAGE)&nbsp;&nbsp;EurekAlert!Ammonia as a hydrogen carrier: Advancing zero-emission energy solutions&nbsp;&nbsp",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNTJKLXpvUVk5WVEzRVVPYXg1ZldoTGRZVkJUUktLOHV0dWVFMVRjYlZwUmYwNThjNFpNWDBZaFpBaVFDa2k1ZlRYNmdDbG1JRXg2NmZ4QVpoa2dTZktDQVh3WHR1bEdzYndySEN6V3ZvbmtKWHM0SkxaWnAwaG9zYjlIRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "34bd2baa718f",
+      "title": "Dad, 66, Choked on a Cup of Tea and Lost Consciousness. It Led to Him Learning He Had Cancer - Yahoo",
+      "published": "2026-08-22T20:30:00+00:00",
+      "summary": "Dad, 66, Choked on a Cup of Tea and Lost Consciousness. It Led to Him Learning He Had Cancer&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaTlGN1ItMUV0MnJpRVZEdlZKenBNcHM2NGlKN0c1YXZCdU9qZGhLUGRqd2lmYnVnYjU3RW0tVGVaZWxYX1B3d0hGaW53NURUa3dzd1lCdDViRnJ3RWJlNk8wUWVOQW9hUTlkOTBKVXBVR3BtTmMtLWNmWjd6UzVQZjhuUQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "18d4307e8798",
       "title": "More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo - Al Jazeera",
       "published": "2026-08-22T19:47:56+00:00",
-      "summary": "More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo&nbsp;&nbsp;Al JazeeraCongo receives more than 16,000 doses of Ebola vaccine as it grapples with unprecedented outbreak&nbsp;&nbsp;AP NewsWHO and Africa CDC welcome the allocation of Ebola vaccines to the Democratic Republic of the Congo&nbsp;&nbsp;World Health Organization (WHO)Congo to receive 70,000 doses of Ervebo Ebola vaccine, which was effective in past outbreaks&nbsp;&nbsp;PBSEbola in DR Congo: Vaccine trial to start as",
+      "summary": "More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo&nbsp;&nbsp;Al JazeeraCongo receives more than 16,000 doses of Ebola vaccine as it grapples with unprecedented outbreak&nbsp;&nbsp;AP NewsWHO and Africa CDC welcome the allocation of Ebola vaccines to the Democratic Republic of the Congo&nbsp;&nbsp;World Health Organization (WHO)Congo set to receive 70,000 Ervebo vaccines to contain Ebola outbreak, WHO says&nbsp;&nbsp;ReutersEbola in DR Congo: Vaccine trial to start as WHO warn",
       "sources": [
         {
           "name": "Al Jazeera",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPXzlnRC1Qb2g1M1I2TmlKMS00cklEb0R0dGhSVVdiSFRTLXBHaHRhTVQ1YWFUR2F3bkF2YnpaZWE3dDQzZDhOdTFvclNTdk1zc2JzbUk5d0h5TzZSQUJMQWlfN2pqeS1YRjFGcnVkekp1ZUxucEt6NG5qRnNpc3J0dDJfbUdQNWFJV0FlQzJuN096d0wyUmlTVVVjRzBhU2hCX3JVb1oyUmVVVGt4Y0HSAbMBQVVfeXFMTXI3cnZZZUI4UE9Yc0ZRN1c2ZzZISEkwV0lhREdOcnBhZUlpS1d6QVBUazRzNDB2clVoZ3pKUUFPdHczQTcxSlZHV3Awc2Fzb3pPbWZGcjdleDZ2TmgzRVRTZjZhc2VWVzN1bm95MDUxMUx5dF9qX1FjM3lReTRkOUpPVEFMcE1NRmtnR3RSYjFiX2RZdHhzU0ktNDBITDlpNHlpeFpLdmVaVHMwcW9QQ0VYRE0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dd49c9ff0674",
+      "title": "Scientists are only just confirming that women’s menstrual cycles can affect how well drugs work - New York Post",
+      "published": "2026-08-22T19:33:00+00:00",
+      "summary": "Scientists are only just confirming that women’s menstrual cycles can affect how well drugs work&nbsp;&nbsp;New York Post",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTm9WUmVlWlZHb3RwcXlIZVRodHhzU1BYN0U5M3pfcE5YSXpWajdOYlZQNFd5cmZoUkZ1QUhYM290SFA0T3cxQTlNWXo1eUJ1YlZaSXV2NWQzdW4yRlUxaFVmYjQ3aGpPVm5CWUFubGZqOVRhaHhCVzJGMXNsSE5LWEo1U3dGM3lCYUszQ0dIZE5WZTU5S0l4bGV4ZnNxMkVabHhmYjgzRFY4ZjRwakVvdlpPVVM3b1lR?oc=5"
         }
       ]
     },
@@ -45,7 +93,7 @@
       "id": "47d6ed9c8d80",
       "title": "3rd person dies in Florida from flesh-eating bacteria: Department of Health - WFLA",
       "published": "2026-08-22T16:20:09+00:00",
-      "summary": "3rd person dies in Florida from flesh-eating bacteria: Department of Health&nbsp;&nbsp;WFLA‘Vibrio vulnificus is in Charleston Harbor’: Charleston researchers track bacteria, what doctors warn&nbsp;&nbsp;Live 5 NewsRare bacterial infection in Edgartown prompts warnings&nbsp;&nbsp;MV TimesHeath expert warns about ‘flesh-eating’ bacteria in the Gulf&nbsp;&nbsp;LiveNOW from FOXWorried about flesh-eating bacteria? These are the warning signs&nbsp;&nbsp;NewsNation",
+      "summary": "3rd person dies in Florida from flesh-eating bacteria: Department of Health&nbsp;&nbsp;WFLAWorried about flesh-eating bacteria? These are the warning signs&nbsp;&nbsp;WCBD News 2‘Vibrio vulnificus is in Charleston Harbor’: Charleston researchers track bacteria, what doctors warn&nbsp;&nbsp;Live 5 NewsRare bacterial infection in Edgartown prompts warnings&nbsp;&nbsp;MV TimesHeath expert warns about ‘flesh-eating’ bacteria in the Gulf&nbsp;&nbsp;LiveNOW from FOX",
       "sources": [
         {
           "name": "WFLA",
@@ -57,7 +105,7 @@
       "id": "edca7aef83dd",
       "title": "You want to join a clinical trial. Here’s what to know about the hurdles. - CNN",
       "published": "2026-08-22T16:00:30+00:00",
-      "summary": "You want to join a clinical trial. Here’s what to know about the hurdles.&nbsp;&nbsp;CNNWeighing the pros and cons of participating in a clinical trial&nbsp;&nbsp;Amyloidosis News TodayClinical Trials Face Recruitment Barriers as Patients Struggle With Travel and Out-of-Pocket Costs&nbsp;&nbsp;Межа. Новини України.Most Patients with Chronic Illness Would Join a Clinical Trial, but Two-Thirds Say Doctors Never Mention Them&nbsp;&nbsp;Medical DailyClinical trials need participants, are the rules a",
+      "summary": "You want to join a clinical trial. Here’s what to know about the hurdles.&nbsp;&nbsp;CNNWeighing the pros and cons of participating in a clinical trial&nbsp;&nbsp;Amyloidosis News TodayClinical Trials Face Recruitment Barriers as Patients Struggle With Travel and Out-of-Pocket Costs&nbsp;&nbsp;Межа. Новини України.Most Patients with Chronic Illness Would Join a Clinical Trial, but Two-Thirds Say Doctors Never Mention Them&nbsp;&nbsp;Medical DailyYou want to join a clinical trial. What to know ab",
       "sources": [
         {
           "name": "CNN",
@@ -81,7 +129,7 @@
       "id": "ca1e5759088d",
       "title": "Ruston family asks for prayers after 8-year-old diagnosed with brain-eating amoeba - WWLTV.com",
       "published": "2026-08-22T15:07:00+00:00",
-      "summary": "Ruston family asks for prayers after 8-year-old diagnosed with brain-eating amoeba&nbsp;&nbsp;WWLTV.comRuston child hospitalized with brain-eating amoeba&nbsp;&nbsp;Louisiana IlluminatorLouisiana confirms Naegleria fowleri brain infection in resident who swam in Lake Claiborne&nbsp;&nbsp;CIDRAPLouisiana Resident Hospitalized with 97% Fatal ‘Brain-Eating’ Infection After Swimming in Lake&nbsp;&nbsp;People.comPublic health officials urge caution after Lake Claiborne swimmer contracts brain-eating ",
+      "summary": "Ruston family asks for prayers after 8-year-old diagnosed with brain-eating amoeba&nbsp;&nbsp;WWLTV.comLouisiana confirms Naegleria fowleri brain infection in resident who swam in Lake Claiborne&nbsp;&nbsp;CIDRAPRuston child hospitalized with brain-eating amoeba&nbsp;&nbsp;Louisiana IlluminatorLouisiana Resident Hospitalized with 97% Fatal ‘Brain-Eating’ Infection After Swimming in Lake&nbsp;&nbsp;People.comMan in US Contracts Deadly Brain-Eating Amoeba While Swimming in Lake&nbsp;&nbsp;Around P",
       "sources": [
         {
           "name": "WWLTV.com",
@@ -165,7 +213,7 @@
       "id": "f511329030c9",
       "title": "COVID's annual summer wave is back. Here's what's behind it - USA Today",
       "published": "2026-08-22T12:02:00+00:00",
-      "summary": "COVID's annual summer wave is back. Here's what's behind it&nbsp;&nbsp;USA TodayThe traditional respiratory virus season hasn’t started, but Covid is already climbing&nbsp;&nbsp;CNNMap Shows Where COVID Cases Are Rising in Each State&nbsp;&nbsp;NewsweekIs There a Summer COVID Surge? With Cases Rising in Nearly Every State, Watch for These Symptoms&nbsp;&nbsp;TODAY.comIs there a summer COVID-19 surge this year? Yep, it’s ramping up again&nbsp;&nbsp;NPR",
+      "summary": "COVID's annual summer wave is back. Here's what's behind it&nbsp;&nbsp;USA TodayIs There a Summer COVID Surge? With Cases Rising in Nearly Every State, Watch for These Symptoms&nbsp;&nbsp;TODAY.comThe traditional respiratory virus season hasn’t started, but Covid is already climbing&nbsp;&nbsp;CNNMap Shows Where COVID Cases Are Rising in Each State&nbsp;&nbsp;NewsweekIs there a summer COVID-19 surge this year? Yep, it’s ramping up again&nbsp;&nbsp;NPR",
       "sources": [
         {
           "name": "USA Today",
@@ -234,6 +282,18 @@
       ]
     },
     {
+      "id": "a4f2863cc186",
+      "title": "Bat found in Livingston County tests positive for rabies, health officials warn residents - ClickOnDetroit | WDIV Local 4",
+      "published": "2026-08-22T09:00:01+00:00",
+      "summary": "Bat found in Livingston County tests positive for rabies, health officials warn residents&nbsp;&nbsp;ClickOnDetroit | WDIV Local 4See more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "ClickOnDetroit | WDIV Local 4",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObkZ1dzRXbkRpa0pnaXRnUlMzalczV3E3YW1MOW9oM2VOcWxVLThXUjNrWGJGQ2F6cHJzXzJVSjJab2Q1eDlvUkYxN01wSl9NR0N5X0NhZmJ4OTNfU2V0MjRFOUZYbTZhcFBIVWNQdzNsT1FROWd1YTgxV3VjQ0NVQUhqR19TTGYxcFk0dV9qZHZoRGRmSkRFb0t3dFZzZFI3NzFJRWVNNFFYNkFwUnlzMXp6Mjc5MGVheFNWTVI1NkNneE5oRF8weDFEcDBCTEJmcld0ZFgtXzhYUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "60afea6effdc",
       "title": "Is ‘proteinmaxxing’ for everyone? Cardiologist Dr Alok Chopra explains who should increase intake based on health goals | Health - Hindustan Times",
       "published": "2026-08-22T06:06:39+00:00",
@@ -242,18 +302,6 @@
         {
           "name": "Hindustan Times",
           "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNeEpBMVFvNEROemwyeDFVcnhuYlMxQWx5aVRfQzRMUVR5LUlOb25XMHJPeG80UXNoYVZKMTBQOHFZSmFuaWxXYWx1bDBqTmdDaFZDZThySFhiaTR5MDhndWNTSENTUlFOcEk3RHl6dXZWVTVvZFN1a0hHSzRkcXZiSlhpSkhiRXY0XzNqS1AwUHRXWkJyVk1IZEROdlNYRVhndjRvQWFKbXF2ZUdFNzlPeXRVUmt1VWI0RUN3MktnUEZINk44ZHVzNkNMcmIwSlh5amtObVpsbERvUlVzSTJCd2h4V3VFa09kUzNJYkd4R3JpTTV2ejJxa3B5RllXM3JnWGpGRzREYkJLaUMyY3JTZWZvVdIBmAJBVV95cUxNS0l4ZjdKeXJWUVBJdERSanNzbDlCSlh2TWw0WGZiNDBueDdXLUFUT3V5X0VXampUakJ5dlZNOUpPNm1vRGIwLWJMQkdMYlNBdjFYZDF5MXFIOElvT293aTBGdjJDUzRfMUJ5MUY3ZVBiLVlDdkVlRUViZVJuR1RIV0NqTWZGRDF0REZlaVhuYlFGQ2RucWFLZUVnRzhXbmp6OVphaVA5UUNCelBXU01SeVJvc3hLNFd3dEc3dW5vUmZmUjV2UzJLZXFsSHBSQlZHS0swdG9OUlg1UDBHM0ZwT2xZVHk4VXhqSEtydGVNNTRIbXZCc1lDTV9jeWNlT0p2Zm5GMzRLQTFialBObG01dkg3Zko1VG5J?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3e89f6bcd007",
-      "title": "How strength training can overhaul your health in just an hour a week - The Independent",
-      "published": "2026-08-22T05:00:00+00:00",
-      "summary": "How strength training can overhaul your health in just an hour a week&nbsp;&nbsp;The IndependentWeightlifting makes older women leaner, stronger and more mobile&nbsp;&nbsp;New ScientistStrength training can help you feel and think better as you age&nbsp;&nbsp;Vero NewsStrength training for 90 minutes a week cuts cardiovascular death risk by 19%, Researchers say&nbsp;&nbsp;Sacramento BeeScientists have found the ‘strength training’ sweet spot for a longer life – here’s the formula to follow&nbsp;",
-      "sources": [
-        {
-          "name": "The Independent",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdFFIaUtrWHpwUmUtbjdmVmhiSnFqR1N0SDRoOGtIR296MTlXMy1GWGk1OHRNeHAwVWRyTVJGbWxkZDdiOGNzbmF2OGplbWZCRkcyX0QtMlB4VHlPaGRsanJ5WVk5SWtGRjhuSGFldjZTUGJFZ21QVnpXOFczUm0zcVVCOVhJNFR1OXpVSV9qVHJmbVliRGZ4VEpNejBUcVRqckR2d19MMERZUWV0Nm1kOHd3?oc=5"
         }
       ]
     },
@@ -270,13 +318,25 @@
       ]
     },
     {
-      "id": "a0eedbd8d1e0",
-      "title": "Bloating isn't always harmless: What to know about gut health and when to seek help - KSL.com",
-      "published": "2026-08-22T03:24:19+00:00",
-      "summary": "Bloating isn't always harmless: What to know about gut health and when to seek help&nbsp;&nbsp;KSL.com",
+      "id": "95b3078a57da",
+      "title": "Los Angeles County reports first West Nile virus death of 2026 - ABC7 Los Angeles",
+      "published": "2026-08-22T04:09:15+00:00",
+      "summary": "Los Angeles County reports first West Nile virus death of 2026&nbsp;&nbsp;ABC7 Los AngelesFirst West Nile virus death of 2026 reported in Los Angeles County&nbsp;&nbsp;KTLAArizona leads nation in West Nile virus cases&nbsp;&nbsp;AZ FamilyDead of a mosquito bite: L.A. records West Nile fatality as California cases hit 5-year high&nbsp;&nbsp;Los Angeles TimesWhat you need to know about West Nile virus&nbsp;&nbsp;Scientific American",
       "sources": [
         {
-          "name": "KSL.com",
+          "name": "ABC7 Los Angeles",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdk9ZM3JlbjNzOGNSS1h2bV9DVGZaTVRiY0NFTkN3dDAyaFlkUE82R19zV0pUcE02UjJBMXlPRGE1MFZtQjB6V1ByXzRXNjBGUl8zNHp3SWFGbXV5QmRNWWJLWllIdXAzRHlxYUdvZ0tzZmZYTTdFUzdmYkNoaTlIQWZLZlBkOE10U3RnTlVqZzdoRjh5WVA4YUt30gGfAUFVX3lxTFBLYm5ucC1nYnJtNWZHWFdIWEdBemhmRkpVWFdqMEJHWEdJTDVmTUZqZTFiMmJlTm9wdTlZT1B4T0t5dEFReGRlUUtWYWhrUUtfYzM2Z1dPV2M1VXZleElMYnEwLU9aMXEtYVVnS3p0UVZwM0FoS3hleVNsdmJXVWhkbjhQZHphNFkwWlBMSVFVaWltSl9NLUVXSEdhVjJNSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c6754dd940bf",
+      "title": "Bloating isn't always harmless: What to know about gut health and when to seek help - KSL News",
+      "published": "2026-08-22T03:24:19+00:00",
+      "summary": "Bloating isn't always harmless: What to know about gut health and when to seek help&nbsp;&nbsp;KSL News",
+      "sources": [
+        {
+          "name": "KSL News",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQTRJbmxKajlKREY2eHMxbi1kLUw2S2NSaWhnWERsT2pzeTVMeGZMYTdGU09taXZ0NnotYXM0Ymo4bXBRYjJVaWRKeURaaFZid01kNXNUMjQtR2NnZkFVTXZWODFmdDU5UmJfelR1NzZkMWVRMHRNb1dyZkxGdk05MEllT2Q2QVpvc2E5QkxORG8tYlJfTFhFU21HREZSM05nWFhZc1RjTUU2cnVvMTg1UVBLdWxyMzRrX2c?oc=5"
         }
       ]
@@ -285,7 +345,7 @@
       "id": "440d86e80395",
       "title": "A Single Blood Sample May Reveal The Biological Age of Each of Your Organs - ScienceAlert",
       "published": "2026-08-22T02:00:14+00:00",
-      "summary": "A Single Blood Sample May Reveal The Biological Age of Each of Your Organs&nbsp;&nbsp;ScienceAlertTony Wyss-Coray Is Measuring Biological Age One Organ at a Time&nbsp;&nbsp;Time MagazineA single blood test could offer a glimpse of disease risk years in advance&nbsp;&nbsp;News-MedicalCells grow old at different rates, offering insight into cancer, neurodegeneration and aging&nbsp;&nbsp;BioTechniquesVero Advances Biological Age Testing With Organ-Specific Health Scores&nbsp;&nbsp;Fitt Insider",
+      "summary": "A Single Blood Sample May Reveal The Biological Age of Each of Your Organs&nbsp;&nbsp;ScienceAlertTony Wyss-Coray Is Measuring Biological Age One Organ at a Time&nbsp;&nbsp;Time MagazineA single blood test could offer a glimpse of disease risk years in advance&nbsp;&nbsp;News-MedicalCells grow old at different rates, offering insight into cancer, neurodegeneration and aging&nbsp;&nbsp;BioTechniquesCell Ageing Clocks From Blood Predict Alzheimer’s, ALS&nbsp;&nbsp;Zenopa",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -294,22 +354,10 @@
       ]
     },
     {
-      "id": "88d8ecf3fc56",
-      "title": "Your Stroke Risk May Be Increased by This Common Food - EatingWell",
-      "published": "2026-08-22T02:00:00+00:00",
-      "summary": "Your Stroke Risk May Be Increased by This Common Food&nbsp;&nbsp;EatingWell",
-      "sources": [
-        {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZHhBZTNZNjU0aUlPYkp2cGRzVGM5WXc2V2lPbXREMUk5UFRLMGFQMTc4U3VMMFBCN2V4WmdxVEJ1R1FLeFBqeFlicXVpZ0trY0hQMk1naHVGTmYyazNOdmllMjRIR1pESG54V1YyYkNHdHU5WG5kQmVBMldKV0RkMnNR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d9704245f625",
       "title": "Wyomissing mosquito sample tests positive for West Nile Virus in Berks County - WFMZ.com",
       "published": "2026-08-22T01:21:00+00:00",
-      "summary": "Wyomissing mosquito sample tests positive for West Nile Virus in Berks County&nbsp;&nbsp;WFMZ.comWest Nile virus detected in mosquitos in Lower Merion Township, Pennsylvania, health officials say&nbsp;&nbsp;6abc PhiladelphiaMosquitoes Test Positive For West Nile In Zelienople&nbsp;&nbsp;ButlerRadio.comWest Nile risk is high in Merced County. What you need to know&nbsp;&nbsp;Merced Sun-StarWest Nile virus found in Lancaster mosquito traps&nbsp;&nbsp;Lancaster Eagle-Gazette",
+      "summary": "Wyomissing mosquito sample tests positive for West Nile Virus in Berks County&nbsp;&nbsp;WFMZ.comMosquitoes Test Positive For West Nile In Zelienople&nbsp;&nbsp;ButlerRadio.comWest Nile virus detected in mosquitos in Lower Merion Township, Pennsylvania, health officials say&nbsp;&nbsp;6abc PhiladelphiaWest Nile virus detected in Worcester and Bolton&nbsp;&nbsp;The Worcester Telegram & GazetteWest Nile virus found in Lancaster mosquito traps&nbsp;&nbsp;Lancaster Eagle-Gazette",
       "sources": [
         {
           "name": "WFMZ.com",
@@ -321,11 +369,23 @@
       "id": "d05651020f93",
       "title": "8 Subtle Signs of Heart Attacks in Women Cardiologists Want You to Know - AOL.com",
       "published": "2026-08-22T00:46:46+00:00",
-      "summary": "8 Subtle Signs of Heart Attacks in Women Cardiologists Want You to Know&nbsp;&nbsp;AOL.comMost heart attacks show early signs—and they are easy to miss&nbsp;&nbsp;Futura, le média qui explore le mondeHeart attacks rarely come out of nowhere. 10 stories that tell you what to watch for&nbsp;&nbsp;The Times of India",
+      "summary": "8 Subtle Signs of Heart Attacks in Women Cardiologists Want You to Know&nbsp;&nbsp;AOL.com",
       "sources": [
         {
           "name": "AOL.com",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1FZkowc05Dck9wVVVWd1pVQml0Y2JSZkVCQ2Rra3F0QTRoaS1lcGVXS1NLa2ZyQjlkZjhZdW9kazh1MVp6THBpUzVJM1RfTGtPTWdvUERPSzB4QlFxSERiaEJKZGFzaFViRzhaaExUNDlENVRhcTlybi1xNUM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e25d1df903b6",
+      "title": "Iowa HHS adds to list of potential measles exposure locations - KCCI",
+      "published": "2026-08-22T00:27:00+00:00",
+      "summary": "Iowa HHS adds to list of potential measles exposure locations&nbsp;&nbsp;KCCIMap shows central, southern Iowa locations where you may have been exposed to measles&nbsp;&nbsp;KCCIIowa HHS confirms more measles cases in 2026 as outbreak spreads&nbsp;&nbsp;WHO13.comState health officials confirm 12 new measles cases in Iowa&nbsp;&nbsp;The Des Moines RegisterOttumwa Regional Health Center preps for measles as number of cases increase in Iowa&nbsp;&nbsp;KTVO",
+      "sources": [
+        {
+          "name": "KCCI",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZGNMenJsZnVOSjdyMlRuOEJ0S0R3T3NLZVNSdXB0b29JajY4WFpQQ2t1OGMxYlhvNUV4RHVKV0owSm0yZGdhUFRuQmxEQk8zU0oxZjBNVVgzblZscmd5T3JJTmFrbHM3cGN6bnpwYTZYRWJHYzhOOTlRbnkyVy1SN0l0a0pKckZvWjU2TmxYYmNVdjdMdkhF?oc=5"
         }
       ]
     },
@@ -354,18 +414,6 @@
       ]
     },
     {
-      "id": "cb6aa060af7d",
-      "title": "First West Nile virus death of 2026 reported in Los Angeles County - KTLA",
-      "published": "2026-08-21T22:44:49+00:00",
-      "summary": "First West Nile virus death of 2026 reported in Los Angeles County&nbsp;&nbsp;KTLAWhat you need to know about West Nile virus&nbsp;&nbsp;Scientific AmericanDead of a mosquito bite: L.A. records West Nile fatality as California cases hit 5-year high&nbsp;&nbsp;Los Angeles TimesArizona leads nation in West Nile virus cases&nbsp;&nbsp;AZ FamilyHigh number of mosquitoes expected this weekend due to recent flooding&nbsp;&nbsp;WEEK | 25 News Now",
-      "sources": [
-        {
-          "name": "KTLA",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRenJjYjZieS1VQkxhTTNMSGJvNTloQ2JVd3JCRGc4OXZ1UmRMWXJLM2U5WHJ6QTZIN0JKTk9yakFCOHowc1JqYmpkb0lnM3pGMVBCbER4RHhFNllIU2R2QS02Q2h3Y2RrYUlhSmlRcjNLRmxvQ0FNa9IBfkFVX3lxTFBLOTFsNjd1aS1JX21wX2tFbzhNTDAxS0ZLVGI3cDNGY1g0WjZndnRlY0VyRzFZWjVUbkJMN1M2aVc1eWZzaUlQVFlFMlh1TkRJN1d3Ym05UEUyVVlrYnNpbF8wVDhOV1RMR0dmODBqNVNfN0ZnQ2JsR2xiYlphZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "70862491d8c7",
       "title": "Scientists Warn of a Nearly 400% Increase in Toxic Liver Injuries – One Common Drug Leads the List - SciTechDaily",
       "published": "2026-08-21T22:15:17+00:00",
@@ -378,13 +426,25 @@
       ]
     },
     {
-      "id": "e613769399fe",
-      "title": "US health department seeks public feedback on vaccine guidelines after Trump order - KSL.com",
-      "published": "2026-08-21T21:34:05+00:00",
-      "summary": "US health department seeks public feedback on vaccine guidelines after Trump order&nbsp;&nbsp;KSL.comSee more headlines & perspectives on Google News",
+      "id": "c49a7fb7f33b",
+      "title": "80 Medical Professionals Share The Diagnoses That Made Their Stomachs Drop - boredpanda.com",
+      "published": "2026-08-21T22:02:05+00:00",
+      "summary": "80 Medical Professionals Share The Diagnoses That Made Their Stomachs Drop&nbsp;&nbsp;boredpanda.com",
       "sources": [
         {
-          "name": "KSL.com",
+          "name": "boredpanda.com",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHMzlSWGlxaF8tdW4teWNkX3h2U0d1cVp5MUNEbko3SmFwczV2WTBqYmVJTEhqWUJDS1FCMnNuYUIxRXo3WHV0QlF0TERWeXlvZFl2WTdJcUlEN3hRTUxPTjBaSU9GRTZiZENKV09CTWF3QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "47ef3879e9d4",
+      "title": "US health department seeks public feedback on vaccine guidelines after Trump order - KSL News",
+      "published": "2026-08-21T21:34:05+00:00",
+      "summary": "US health department seeks public feedback on vaccine guidelines after Trump order&nbsp;&nbsp;KSL NewsSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "KSL News",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWWlVc18xVmh3bEFyckhKYUd2eWQtbmFZbzRFc21mZDlZampSWFdUVThBcXNVeG5DNnU4dXNzSjAzN1htYnhfX2RocTEyUER2MU1YaEl3WXlVV29OQnFXVVExblE3eGRiTWI2VS1JNjBXb2VLd1Bmak5uQW5Kd2Z0eWNJX21nTVE0V05oTUxRNVBkaTd2b05rTXlaUHZmRUJWRVk1cFhibWtLOFdLd2ZxcHNCSFhvMGM?oc=5"
         }
       ]
@@ -429,7 +489,7 @@
       "id": "acf20c7742ed",
       "title": "Measles cases in southwest Wisconsin rise to 41, with 7 more cases probable - Channel 3000",
       "published": "2026-08-21T19:18:00+00:00",
-      "summary": "Measles cases in southwest Wisconsin rise to 41, with 7 more cases probable&nbsp;&nbsp;Channel 3000Measles outbreak grows to 41 confirmed cases in southwest Wisconsin&nbsp;&nbsp;KCRGWisconsin DHS reports measles cases rising in Grant, Iowa, and Lafayette counties&nbsp;&nbsp;WKOWWisconsin Department of Health Services provides update on measles outbreak in southwest Wisconsin&nbsp;&nbsp;WBAYMHP: Pedestrian killed in early-morning crash in Anaconda&nbsp;&nbsp;Billings Gazette",
+      "summary": "Measles cases in southwest Wisconsin rise to 41, with 7 more cases probable&nbsp;&nbsp;Channel 3000Measles outbreak grows to 41 confirmed cases in southwest Wisconsin&nbsp;&nbsp;KCRGWisconsin Department of Health Services provides update on measles outbreak in southwest Wisconsin&nbsp;&nbsp;WBAYWisconsin DHS reports measles cases rising in Grant, Iowa, and Lafayette counties&nbsp;&nbsp;WKOWMHP: Pedestrian killed in early-morning crash in Anaconda&nbsp;&nbsp;Billings Gazette",
       "sources": [
         {
           "name": "Channel 3000",
@@ -441,7 +501,7 @@
       "id": "5eab772ef7b0",
       "title": "Deadly drug-resistant ‘superbug’ is spreading in California. What to know - Sacramento Bee",
       "published": "2026-08-21T19:15:00+00:00",
-      "summary": "Deadly drug-resistant ‘superbug’ is spreading in California. What to know&nbsp;&nbsp;Sacramento BeeIntensive screening, infection control can contain C. auris&nbsp;&nbsp;UW Medicine | NewsroomA drug-resistant fungus is spreading in Kentucky. Here’s what we know&nbsp;&nbsp;Lexington Herald LeaderDeadly drug-resistant ‘superbug’ is spreading in Washington state. What to know&nbsp;&nbsp;Tacoma News TribunePotentially deadly fungus seen in North Carolina. What it is (Video)&nbsp;&nbsp;Merced Sun-Sta",
+      "summary": "Deadly drug-resistant ‘superbug’ is spreading in California. What to know&nbsp;&nbsp;Sacramento BeeDeadly drug-resistant ‘superbug’ is spreading in Washington state. What to know&nbsp;&nbsp;Tacoma News TribuneIntensive screening, infection control can contain C. auris&nbsp;&nbsp;UW Medicine | NewsroomA drug-resistant fungus is spreading in Kentucky. Here’s what we know&nbsp;&nbsp;Lexington Herald LeaderPotentially deadly fungus seen in North Carolina. What it is (Video)&nbsp;&nbsp;Merced Sun-Sta",
       "sources": [
         {
           "name": "Sacramento Bee",
@@ -453,7 +513,7 @@
       "id": "68e250877713",
       "title": "New ROOT method charts a path to reversing biological changes once thought irreversible - Phys.org",
       "published": "2026-08-21T19:00:04+00:00",
-      "summary": "New ROOT method charts a path to reversing biological changes once thought irreversible&nbsp;&nbsp;Phys.orgKAIST finds molecular lock that traps cells in cancer-like states&nbsp;&nbsp;Aju PressNew method could reverse abnormal cell states linked to aging and cancer&nbsp;&nbsp;NanowerkKAIST Develops 'Molecular Lock' Control Technology to Reverse Cancer and Aging Cells&nbsp;&nbsp;finance.biggo.com",
+      "summary": "New ROOT method charts a path to reversing biological changes once thought irreversible&nbsp;&nbsp;Phys.orgKAIST ROOT circuit reprograms cancer and aging cells to normal state&nbsp;&nbsp;동아사이언스KAIST finds molecular lock that traps cells in cancer-like states&nbsp;&nbsp;Aju PressNew method could reverse abnormal cell states linked to aging and cancer&nbsp;&nbsp;NanowerkKAIST Develops 'Molecular Lock' Control Technology to Reverse Cancer and Aging Cells&nbsp;&nbsp;finance.biggo.com",
       "sources": [
         {
           "name": "Phys.org",
@@ -474,14 +534,14 @@
       ]
     },
     {
-      "id": "1b7be73371b6",
-      "title": "Wild New Paper Claims Human Brain Doesn’t Produce Consciousness - Yahoo",
+      "id": "5dc9f3dbcdf4",
+      "title": "Wild New Paper Claims Human Brain Doesn’t Produce Consciousness - Futurism",
       "published": "2026-08-21T18:05:05+00:00",
-      "summary": "Wild New Paper Claims Human Brain Doesn’t Produce Consciousness&nbsp;&nbsp;YahooSee more headlines & perspectives on Google News",
+      "summary": "Wild New Paper Claims Human Brain Doesn’t Produce Consciousness&nbsp;&nbsp;FuturismConsciousness Leaves a Paper Trail&nbsp;&nbsp;Psychology TodayA Theory of Consciousness: What if the Brain Is a Filter?&nbsp;&nbsp;Science and Culture TodayA Whisper Beyond the Womb&nbsp;&nbsp;Guyana ChronicleScientist says only one thing truly exists: consciousness&nbsp;&nbsp;geekspin",
       "sources": [
         {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTDFtdWdSOVpacm9seElBbGg2ekpuMnpoQ0xGNlFsdzhtb2dhRmRzUHhFMDlPRndndHFvNFpieHhNZEplWGZ1bS1VcHNiTnA2TVZDN1pLb0pjUGF4RUtxM0lidGFtakUwM2dGRTlCaWIyRjZKaDdxaHlhaUZxTm1CYXN6aFZQUFVtbmxISjhQSHREQQ?oc=5"
+          "name": "Futurism",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQV81RkVreTJfR1p1WHdBRDR5ZFF5SElqS1YzcUxRbjkydFV3VVdldHFqRjV5Uzh2SmhnLUwxek1INnd2T1owWl8xSzdIdVNlVWMwUUdYRDFCbGpCcmpVR05NMnVDeGJJaXVtUWxrWkYzWVRUdmt6V2xZdjlhTG0wNDBOU20xUHlFRFJEeWlEWE1VTUY5alMtY1JlSzAxd1p0?oc=5"
         }
       ]
     },
@@ -501,7 +561,7 @@
       "id": "89eb538765d2",
       "title": "“I Fantasized About Getting Hit By A Car”: 25 New Mothers Share The PPD Warning Signs They Ignored, But Don’t Want Other Moms To - BuzzFeed",
       "published": "2026-08-21T17:46:02+00:00",
-      "summary": "“I Fantasized About Getting Hit By A Car”: 25 New Mothers Share The PPD Warning Signs They Ignored, But Don’t Want Other Moms To&nbsp;&nbsp;BuzzFeedCrouse Health expert explains the difference between ‘baby blues,’ postpartum depression and psychosis&nbsp;&nbsp;WSYRHow to get help for postpartum depression in the Mahoning Valley&nbsp;&nbsp;WFMJCHI Health Raises Awareness of Postpartum Depression&nbsp;&nbsp;KHGICan Dads Get Postpartum Depression? 8 Things Parents Should Know&nbsp;&nbsp;NewYork-Pr",
+      "summary": "“I Fantasized About Getting Hit By A Car”: 25 New Mothers Share The PPD Warning Signs They Ignored, But Don’t Want Other Moms To&nbsp;&nbsp;BuzzFeedCrouse Health expert explains the difference between ‘baby blues,’ postpartum depression and psychosis&nbsp;&nbsp;WSYRHow to get help for postpartum depression in the Mahoning Valley&nbsp;&nbsp;WFMJCHI Health Raises Awareness of Postpartum Depression&nbsp;&nbsp;KHGI18 Moms Share The Shockingly Brutal Postpartum Struggles Nobody Warned Them About&nbsp",
       "sources": [
         {
           "name": "BuzzFeed",
@@ -534,26 +594,14 @@
       ]
     },
     {
-      "id": "cc22d61d9eb9",
-      "title": "Rare South American Diseases Offer Clues on the Next Pandemic - The New York Times",
-      "published": "2026-08-21T16:06:45+00:00",
-      "summary": "Rare South American Diseases Offer Clues on the Next Pandemic&nbsp;&nbsp;The New York Times",
+      "id": "91ed40c94ed7",
+      "title": "Researchers Uncover New Lifestyle Factor That Could Affect Alzheimer’s Risk - Newsweek",
+      "published": "2026-08-21T16:10:00+00:00",
+      "summary": "Researchers Uncover New Lifestyle Factor That Could Affect Alzheimer’s Risk&nbsp;&nbsp;NewsweekColumn | Here’s how workplace activity may affect dementia risk&nbsp;&nbsp;The Washington PostNew dementia study reiterates the physical activity paradox — that not all exercise is beneficial&nbsp;&nbsp;PhillyVoiceNew dementia study challenges assumption that ‘every move counts’ for brain health&nbsp;&nbsp;The IndependentMost Physical Activity Is Tied to Lower Dementia Risk, but This Type May Raise It&",
       "sources": [
         {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbW9wSEttNDk2cGgyMTg1cVBrdnBwR3E1NmxyUk9ibnF3VFJPZ1Z5UnpIeEx5OTAtRjhWaTdUdlg0SlJoLU9KdV95QVl2TVpzQzByYXR4NVVISFRaSUk5aFFVWTBjTzFYOHdPNmtHRXFaZHB0bkhLcGtYM1N2ajRxUnZNaGFnTkdCMjNlY2EyVFpuZjFycmZJajV3QkpIUHZFamJnTkFLWXVFS0NK?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "49e65af3a9e9",
-      "title": "Column | Here’s how workplace activity may affect dementia risk - The Washington Post",
-      "published": "2026-08-21T16:00:00+00:00",
-      "summary": "Column | Here’s how workplace activity may affect dementia risk&nbsp;&nbsp;The Washington PostNew dementia study reiterates the physical activity paradox — that not all exercise is beneficial&nbsp;&nbsp;PhillyVoiceNew dementia study challenges assumption that ‘every move counts’ for brain health&nbsp;&nbsp;The IndependentMost Physical Activity Is Tied to Lower Dementia Risk, but This Type May Raise It&nbsp;&nbsp;MedPage TodayWhy you move — not just how often — could affect dementia risk — USC Ne",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT1FHMVdmMy12ZGtGUGVGRHJqdkRJQVN4eGp6bWVXeGtBWmdvdll4RjRuVXYtNXcwWFJkMmFlREQ3N01lVWgzYjY3RW9ycHBtc1JSYUlJQklSMGdrWS1objRUWkFPVVVLWTRQRERudHhrS3pyWEtCTmtVTmpiYnZINjFvUXpJdWJhalhPZUt4a3ZIbVdKTDBaXzdveTItMFZsVXEtS3VMUzFFYVl0a2xMMVU4X1c?oc=5"
+          "name": "Newsweek",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcWpYQjR2dHViLU91MWpodnBSa0puWF9NX2dIQm9GMU0wSUZ4Ym9PNi1CR2M4TTlDdHhzVG92bDlzd3U4ZVdkTHJrTGl5anRackNic0lGSFEzUm9kbENYdERDVlRlYVkwS1JkcGpSZkdYS1NBREFiVVJxdkVKQTJPREo5Q19WaFRCUzAyTkROZjRNejZqN0tVd2tsZ0RXbnduMlRYMkNHMWJMRDA5?oc=5"
         }
       ]
     },
@@ -609,7 +657,7 @@
       "id": "e7396e3f09a7",
       "title": "Drink Coffee To Burn Fat? Study Links Daily Brew To Lower Body Fat And More Muscle Mass - NDTV",
       "published": "2026-08-21T14:28:12+00:00",
-      "summary": "Drink Coffee To Burn Fat? Study Links Daily Brew To Lower Body Fat And More Muscle Mass&nbsp;&nbsp;NDTVCoffee drinkers have less fat, more muscle, and surprising hormone differences&nbsp;&nbsp;Science DailyMore coffee, higher testosterone? This study found a more complicated picture&nbsp;&nbsp;News-Medical​7 health benefits of drinking coffee that go beyond boosting energy; new study links the drink to less body fat and more muscle​&nbsp;&nbsp;The Times of IndiaCoffee intake tied to leaner fat-t",
+      "summary": "Drink Coffee To Burn Fat? Study Links Daily Brew To Lower Body Fat And More Muscle Mass&nbsp;&nbsp;NDTVCoffee intake tied to leaner fat-to-muscle ratio and improved insulin&nbsp;&nbsp;Medical News TodayCoffee drinkers have less fat, more muscle, and surprising hormone differences&nbsp;&nbsp;Science DailyMore coffee, higher testosterone? This study found a more complicated picture&nbsp;&nbsp;News-Medical​7 health benefits of drinking coffee that go beyond boosting energy; new study links the drin",
       "sources": [
         {
           "name": "NDTV",
@@ -666,18 +714,6 @@
       ]
     },
     {
-      "id": "e48bd891f356",
-      "title": "We put cottage cheese through an evidence check – and the health claims didn’t stack up - The Conversation",
-      "published": "2026-08-21T09:28:30+00:00",
-      "summary": "We put cottage cheese through an evidence check – and the health claims didn’t stack up&nbsp;&nbsp;The Conversation",
-      "sources": [
-        {
-          "name": "The Conversation",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRmZjSmc2N3VjTU5YTEptOV9UX1AzUDlOQm1FQkJsSE1rR2lUdDdmWW4tRGdkWjBHSFBaeFJKWllzTjY4b0VadF81RlNCWGd5Z1pZRTAzTDA3eGlvdUdqUE9wcE5rRTdzSmJCbk5fMG9sZWxtZzFNX3ctaUhISV9hcjNFV19xcVUyR2ZuRjdudk1HbUpzaEM0Zm93ekwydzZ3cjgtaVRYX1N1cDZadDlpblMtVUkxOTM2dk9N?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d7a30d41d50c",
       "title": "Focal therapy for localized prostate cancer has divided physicians. Will new data change minds? - STAT",
       "published": "2026-08-21T08:33:28+00:00",
@@ -702,38 +738,14 @@
       ]
     },
     {
-      "id": "d25a36ff53a6",
-      "title": "Chinese stem cell therapy reverses heart failure in 90% of patients, landmark trial finds - Yahoo",
+      "id": "2add04d612b3",
+      "title": "Chinese stem cell therapy reverses heart failure in 90% of patients, landmark trial finds - Yahoo News Canada",
       "published": "2026-08-21T06:46:00+00:00",
-      "summary": "Chinese stem cell therapy reverses heart failure in 90% of patients, landmark trial finds&nbsp;&nbsp;YahooSee more headlines & perspectives on Google News",
+      "summary": "Chinese stem cell therapy reverses heart failure in 90% of patients, landmark trial finds&nbsp;&nbsp;Yahoo News CanadaSee more headlines & perspectives on Google News",
       "sources": [
         {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaWtLWnhESmRDeHRFaTZsT3Y3cnVJNGdUVGtmMXktbDFGRFdQYlJ1YTRtMGp1dmgyY2RYTHhoWTVaa2FLdFVFOWJROG1jNE1SY0o4Y0tEQ3g0S0lfbzhqSG5ONVk4cGhYTlZLemh2Wk9namRxcmpGWktLR0t2cm1JWlRwc1B1bXl0dWpVNjFHTC1LbVQtc3p2Xw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "90effc66bc81",
-      "title": "Utah mom of five with Stage 4 lung cancer undergoes surgery, is on transplant list - KUTV",
-      "published": "2026-08-21T03:21:12+00:00",
-      "summary": "Utah mom of five with Stage 4 lung cancer undergoes surgery, is on transplant list&nbsp;&nbsp;KUTVSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "KUTV",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzVfS2t1Z0hpX19HUmdzUlgzTFQtX2t2dERiel96NENzYTVzZ3pZc0g0YUk1TWN0N1NnZEdQdlBqXzNTYmxhSEp1SjNkLU4zMTNpZWpMdFBSNkViaVg5X3Zod2RkQ2FvR3VGekVGYm82YlJBU1RUNk5DazFPSHNtQ1NYMk13VWI1d0N6NVBjdEtyOWd0cDBTQUpPa1hBRXdfZWJ3LTdnbGxvODJ4N1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1541e2f7d083",
-      "title": "Capillaries drive new collateral artery formation after heart blockage - News-Medical",
-      "published": "2026-08-21T02:44:00+00:00",
-      "summary": "Capillaries drive new collateral artery formation after heart blockage&nbsp;&nbsp;News-MedicalYour Heart Can Actually Build Its Own Bypass After a Heart Attack&nbsp;&nbsp;ScienceAlertResearchers from Shanghai and Hong Kong have described the mechanism by which blood flow to the heart is restored&nbsp;&nbsp;UA.NEWSHeart backup blood vessels grow from capillaries—not arteries&nbsp;&nbsp;Bioengineer.org",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVEZTZ21lQUVBVEZwdmE4RUFnTk1jWWpVQmtvdi1PSkZyU2RhNHNSWTl1SmVuMHFWUnFXa0xJS2V1Q3BVTml1eVg1bk1HUlZCbFFoSDNfa092ZHBfWW5UMmpocC1GNzFHc1pKNkZ6MjViSjdFcVRxTjc2Q05SWU4yZzA5MmNrdER6NEZUaWtkelJ0Q2RidUw5bWZDbVpaZjRMcDRaNkRubVdtYUV5cjN5UEx4VjRBbXMyX0E?oc=5"
+          "name": "Yahoo News Canada",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUHpsbFdpOVRuNGR1N2FOVW1XYkV4cG5iVTF1UkFCZ2VrWWhqN0piUUhoLVZIWV9ORFJScldKMTdwNjZxQUpjQU5kaTZyNFNoeFI3Q2h1NHBkWjhqSnpvSzNQcE56UTI0S3J4Q3ZoZGh6VUlfR1NpRHhGQlpsa3YyZQ?oc=5"
         }
       ]
     }

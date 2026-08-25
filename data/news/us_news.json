@@ -1,15 +1,63 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-08-25T01:22:42.587947+00:00",
-  "total_fetched": 120,
-  "unique_count": 120,
+  "fetched_at": "2026-08-25T06:52:04.239350+00:00",
+  "total_fetched": 123,
+  "unique_count": 123,
   "health_related_count": 58,
   "news": [
+    {
+      "id": "90d8b727b298",
+      "title": "Common Daily Vitamin Linked to 13% Cognitive Boost in Early Dementia, Study Shows - ScienceAlert",
+      "published": "2026-08-25T03:16:58+00:00",
+      "summary": "Common Daily Vitamin Linked to 13% Cognitive Boost in Early Dementia, Study Shows&nbsp;&nbsp;ScienceAlertHigh-dose vitamin D may improve cognition among those at risk of dementia, study finds&nbsp;&nbsp;Medical XpressThree ways to boost brain sharpness&nbsp;&nbsp;The TimesWith more than 7 million cases of Alzheimer's disease reported in the United States alone and the nu..&nbsp;&nbsp;매일경제This common vitamin was linked to 13% better cognitive scores&nbsp;&nbsp;Science Daily",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT2FNaXNMU2d2N2R3ZnpGTnFtZjhNUVhnYjhwSFBSY1ZNcGJsYzJJOG82Z0I4aVpRZUR0OUROYzFDUEQ3emZPZm5NbVV3VWFiX2VMU3YyY0x3SmJuQkJzNW5IdU1VQWxrMWFEZnhaMG5NNzJrNkdzMzB0TjlJZlBWVm8tM0M5YjBWSmJla20wVGg4VWIxSFM0UVFDTGtPZUxSVnljZWt5Y0NWTVBI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "63f524c5a8b7",
+      "title": "Can Alzheimer's Spread Through Blood Transfusions? Here's What We Know. - ScienceAlert",
+      "published": "2026-08-25T01:31:58+00:00",
+      "summary": "Can Alzheimer's Spread Through Blood Transfusions? Here's What We Know.&nbsp;&nbsp;ScienceAlertUCL review sparks call to probe amyloid beta transmission via transfusion - CHOSUNBIZ&nbsp;&nbsp;ChosunbizCan Amyloid Spread by Blood Transfusions? Early Research Prompts Closer Look.&nbsp;&nbsp;MedPage TodayCan we make blood transfusions safer by testing for proteins linked to strokes and Alzheimer's disease?&nbsp;&nbsp;Medical XpressCould screening proteins linked to stroke and Alzheimer’s make trans",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWDBZb0s3RUtRVjFWZUtzOUI3ME1lWE1POG5ZU2pRel9fWFBJdktQcWRhNjBWZTZvU285UlQzeVdrd0JwZUZXc0xLUXVhODlKcHpnY01vMjByaFZSOHJRblhRV0tza3JHLUJBN3pMLTlXQnFjckRfTWZodXlJWkpUTzdEa1ZUWUVqeUp0elNrM0huOURpRlNGSmVKQXM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a6e31ba04ac9",
+      "title": "Measles outbreak in southern Iowa expands to 17 cases, new potential exposure location added - KCCI",
+      "published": "2026-08-25T00:23:00+00:00",
+      "summary": "Measles outbreak in southern Iowa expands to 17 cases, new potential exposure location added&nbsp;&nbsp;KCCIIowa HHS identifies potential measles exposure locations&nbsp;&nbsp;KCRGUnityPoint urges parents to check kids’ vaccine status&nbsp;&nbsp;KCCI08192026-RFKVisit-1-sg.JPG&nbsp;&nbsp;TelegraphHerald.comFour new cases identified in Iowa measles outbreak&nbsp;&nbsp;thegazette.com",
+      "sources": [
+        {
+          "name": "KCCI",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTHhQQ1JXOFd2QWNvb3JHaW5XbTFfandKdHNOZVRWN2hjZkRwdGFYSXJsOU5qd3JjcjY0X2hYSzQtekNNQm5aNWp0MExrM1gtdElRbjNyYWhkVldXdFFUdEV1OFdMcm12ejRHN0Jtb2RsSlU5c1J3OHZQUUZhdURtQ25TWXNBclBTRU1Yci1POGl6dTVabE5OYUhDWV95Y0dmMlZF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "747601ae4ec8",
+      "title": "New fungal infection raises concern as cases spread in the U.S. - KESQ",
+      "published": "2026-08-24T22:59:48+00:00",
+      "summary": "New fungal infection raises concern as cases spread in the U.S.&nbsp;&nbsp;KESQ",
+      "sources": [
+        {
+          "name": "KESQ",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa1FTNzRVLUNWNnRYT0Q3aklhM0QyQUhyd2ZxcXhTb2hyY2IwazJMOVJUVUtJU3hiTkRSU09SSUdOcGFPOEt3b1lRR09xVVF1X3Bha0RtT2tMUDd4VWx6RHUzQVYwc1VSdUtYSE90NEFTcmZvSThaR1ZLamI0d3hvNjdvNjZ3SzBaSWhXb21PWEtoUDdpNUhiNXV3cjU?oc=5"
+        }
+      ]
+    },
     {
       "id": "3c545786058b",
       "title": "Louisiana Girl, 8, Dies After Contracting Rare Brain-Eating Amoeba - The New York Times",
       "published": "2026-08-24T22:49:02+00:00",
-      "summary": "Louisiana Girl, 8, Dies After Contracting Rare Brain-Eating Amoeba&nbsp;&nbsp;The New York Times8-year-old dies from rare brain-eating amoeba likely contracted while swimming in Louisiana lake&nbsp;&nbsp;CNN8-year-old girl dies from brain-eating amoeba&nbsp;&nbsp;WSB-TVRuston community rallies for 8-year-old fighting rare infection&nbsp;&nbsp;KNOE8-year-old girl dies from suspected brain-eating amoeba in Louisiana&nbsp;&nbsp;FOX Weather",
+      "summary": "Louisiana Girl, 8, Dies After Contracting Rare Brain-Eating Amoeba&nbsp;&nbsp;The New York Times8-year-old dies from rare brain-eating amoeba likely contracted while swimming in Louisiana lake&nbsp;&nbsp;CNNRuston community rallies for 8-year-old fighting rare infection&nbsp;&nbsp;KNOELouisiana resident contracts brain-eating amoeba. Here's what you need to know&nbsp;&nbsp;WDSU8-year-old Louisiana girl dies from rare brain-eating amoeba found in warm freshwater&nbsp;&nbsp;NBC News",
       "sources": [
         {
           "name": "The New York Times",
@@ -42,10 +90,22 @@
       ]
     },
     {
+      "id": "3d0b3a1373b1",
+      "title": "The universe is full of strange ‘little red dots’. A new study shines light on their real nature - The Conversation",
+      "published": "2026-08-24T20:14:54+00:00",
+      "summary": "The universe is full of strange ‘little red dots’. A new study shines light on their real nature&nbsp;&nbsp;The ConversationExtended components of little red dots in the rest-frame optical&nbsp;&nbsp;NatureJWST Image Trick Finally Reveals Compact Galaxies Around Mysterious Little Red Dots&nbsp;&nbsp;IFLScienceSince Webb discovered mysterious “little red dots” in 2022, astronomers have struggled to explain them; a galaxy seen 3.3 billion years after the Big Bang may finally reveal their hidden ev",
+      "sources": [
+        {
+          "name": "The Conversation",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX3BzaUhoazg5WnRWVDZNOFVmUjA5dUxHeEZSemlsWUs2NWVTbk5sc3hJNVFLQktqTFEzYlFKNE43MDdPelgzN3lIcC05NnpoUlNESzJtRlc0eVR4T19BWnp4OWlaWndFMFdNQjk4ME96ODVMakl0emlOakdnOUhrSVAtcUU0LWY3Z0hYdzV4SkRCdTdFY0lCV1RfVFZEU1RqLVVhY19vNnNESXlTLUFKd3BybDFGTGY1bmU1Tlo2NEhvWWljLWZR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0b9d56d9e4ea",
       "title": "The HPV Vaccine Isn’t Just Preventing Cervical Cancer, New Research Reveals - Gizmodo",
       "published": "2026-08-24T20:00:38+00:00",
-      "summary": "The HPV Vaccine Isn’t Just Preventing Cervical Cancer, New Research Reveals&nbsp;&nbsp;GizmodoCCHD: HPV Vaccine Named Vaccine Of The Month&nbsp;&nbsp;Taylorville Daily NewsExperts urge to administer HPV vaccines to prevent cervical cancer&nbsp;&nbsp;Bangladesh Sangbad Sangstha (BSS)HPV Vaccination Between Ages Nine and Twenty Six Was Linked to Sharply Fewer Throat Cancers in New Analysis&nbsp;&nbsp;Medical DailyPeople vaccinated against HPV have lower risk of head and neck cancer, study suggests",
+      "summary": "The HPV Vaccine Isn’t Just Preventing Cervical Cancer, New Research Reveals&nbsp;&nbsp;GizmodoExperts urge to administer HPV vaccines to prevent cervical cancer&nbsp;&nbsp;Bangladesh Sangbad Sangstha (BSS)CCHD: HPV Vaccine Named Vaccine Of The Month&nbsp;&nbsp;Taylorville Daily NewsHPV Vaccination Between Ages Nine and Twenty Six Was Linked to Sharply Fewer Throat Cancers in New Analysis&nbsp;&nbsp;Medical DailyHPV vaccine critical in fight against infectious disease, cancer&nbsp;&nbsp;Times Lea",
       "sources": [
         {
           "name": "Gizmodo",
@@ -66,10 +126,22 @@
       ]
     },
     {
+      "id": "47f176972cef",
+      "title": "3rd person dies from flesh-eating bacteria in Florida - The Hill",
+      "published": "2026-08-24T19:25:00+00:00",
+      "summary": "3rd person dies from flesh-eating bacteria in Florida&nbsp;&nbsp;The Hill3rd person dies in Florida from flesh-eating bacteria: Department of Health&nbsp;&nbsp;WFLA‘Vibrio vulnificus is in Charleston Harbor’: Charleston researchers track bacteria, what doctors warn&nbsp;&nbsp;Live 5 NewsRare bacterial infection in Edgartown prompts warnings&nbsp;&nbsp;MV TimesHeath expert warns about ‘flesh-eating’ bacteria in the Gulf&nbsp;&nbsp;LiveNOW from FOX",
+      "sources": [
+        {
+          "name": "The Hill",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTTFWa1A3cFpKZmRUeFJJVTBNSmdUZnpWUHpmZ1FCYW1UWlBvaGxtN0k5NGF2U0pYQk9aeWw1elVEaGlLbWRYTVY4cmJMUU9oZXo0SWZLWE5aLUJveTJTM1ZVbnMxM1RheF9zNF9OQWY0ZUM5SFhkREZhWXFHOXo2RS1pbWtPQWtCV1pqbG81N1Jtc003ZzFQV3FwN3jSAaIBQVVfeXFMT2ZiRkE5NXJZSFNTUWpMYVduQ1dqNjlEMHdjU2Y3NHFOc2NTTndjOHpWNENoNGpINDVvOEp5LUlsSi0tbFA4eWc5TnJLNm9ETHgyTXpCOVIxZUJGaU5iM2FnYVdvc2RjUDFObGxZMjBFVE5Ua2JDV3hzY3B0WlhCa3JHWXhTVFNqNF9Lemo2X2xROTVybVY3bGhyUlVMRU41endn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "fbbb2f72d7a3",
       "title": "Second human case of West Nile virus identified in Massachusetts - WCVB",
       "published": "2026-08-24T19:13:00+00:00",
-      "summary": "Second human case of West Nile virus identified in Massachusetts&nbsp;&nbsp;WCVBWest Nile risk 'high' as second human case turns up, health officials say&nbsp;&nbsp;WBURHalf of Berkshire County is now at moderate risk for West Nile virus. Here's what you need to know&nbsp;&nbsp;The Berkshire EagleWest Nile Deteccted in Franklin as State Issues Warning&nbsp;&nbsp;Franklin ObserverFirst human case of West Nile virus of the year confirmed in Mass.&nbsp;&nbsp;Boston.com",
+      "summary": "Second human case of West Nile virus identified in Massachusetts&nbsp;&nbsp;WCVBState’s second human case of West Nile virus this year reported in Middlesex County&nbsp;&nbsp;The Boston GlobeSecond West Nile virus case reported in Massachusetts&nbsp;&nbsp;AxiosWest Nile risk 'high' as second human case turns up, health officials say&nbsp;&nbsp;WBURHalf of Berkshire County is now at moderate risk for West Nile virus. Here's what you need to know&nbsp;&nbsp;The Berkshire Eagle",
       "sources": [
         {
           "name": "WCVB",
@@ -93,7 +165,7 @@
       "id": "b8e1a49b0936",
       "title": "Popular erectile dysfunction drug linked to eye disease that can cause irreversible vision loss - FOX 13 Tampa Bay",
       "published": "2026-08-24T18:06:29+00:00",
-      "summary": "Popular erectile dysfunction drug linked to eye disease that can cause irreversible vision loss&nbsp;&nbsp;FOX 13 Tampa BaySee more headlines & perspectives on Google News",
+      "summary": "Popular erectile dysfunction drug linked to eye disease that can cause irreversible vision loss&nbsp;&nbsp;FOX 13 Tampa BayPopular erection meds could make you go blind: study&nbsp;&nbsp;New York PostCialis Linked to Higher Glaucoma Risk in Large Study of Nearly 74,000 Men&nbsp;&nbsp;wowo.comScientists Uncover Worrying Link Between This Popular Erection Drug and Blindness&nbsp;&nbsp;GizmodoCommon erectile dysfunction drug linked to higher glaucoma risk, study finds&nbsp;&nbsp;KING5.com",
       "sources": [
         {
           "name": "FOX 13 Tampa Bay",
@@ -129,23 +201,11 @@
       "id": "4128cc77b1ec",
       "title": "Kindergarten vaccine exemptions increase in NH, across country - WMUR",
       "published": "2026-08-24T16:34:00+00:00",
-      "summary": "Kindergarten vaccine exemptions increase in NH, across country&nbsp;&nbsp;WMURUS kindergarten vaccination rates dip as exemptions hit record high&nbsp;&nbsp;The GuardianVaccine exemptions are increasing among North Carolina's kindergartners&nbsp;&nbsp;AxiosMore U.S. Parents Opting Children Out of Vaccine Requirements, C.D.C. Reports&nbsp;&nbsp;The New York TimesColorado schools reopen with measles vaccination rates below protective threshold&nbsp;&nbsp;Colorado Politics",
+      "summary": "Kindergarten vaccine exemptions increase in NH, across country&nbsp;&nbsp;WMURUS kindergarten vaccination rates dip as exemptions hit record high&nbsp;&nbsp;The GuardianMore U.S. Parents Opting Children Out of Vaccine Requirements, C.D.C. Reports&nbsp;&nbsp;The New York TimesRecord share of kindergartners missed required vaccines last year as Trump executive order takes aim at state mandates&nbsp;&nbsp;CNNColorado schools reopen with measles vaccination rates below protective threshold&nbsp;&nbs",
       "sources": [
         {
           "name": "WMUR",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWjdfaHJfRVJvUWtXTkpacFk1RHVnTEVsWkF1WDNSd2lobjZ3VW5kbmZ0aXlzb0JVZU9sd0lxbno0S0tjVFRjemotdmszN0t2R3F4NFZZNGhoUF9wR05hS2tBSU9nUkJaUmxxMGRzOEh2RW52eHRMdFJfRmdpcERFR2tEdjA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "36b81d19d2d8",
-      "title": "The breakfast mistake you shouldn’t make after age 40 — it can raise your risk of death by up to 29% - New York Post",
-      "published": "2026-08-24T16:32:00+00:00",
-      "summary": "The breakfast mistake you shouldn’t make after age 40 — it can raise your risk of death by up to 29%&nbsp;&nbsp;New York PostWhen you eat may matter as much as what you eat for longevity and heart health&nbsp;&nbsp;Medical XpressMassive Study Links The Time You Eat Breakfast to How Long You'll Live&nbsp;&nbsp;ScienceAlertThe Best Time to Eat for Gut Health&nbsp;&nbsp;VogueScientists find: meal timing affects weight loss more than diet composition&nbsp;&nbsp;Around Prague",
-      "sources": [
-        {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX2lqMUUxWTNmVlN0QUo1Tl9fSHFLX2R2SGZuOU9kS2o5dkJ4LW1YeHJYSXFOZndSOTFidkMtRk1SNTcxQlFIVWRrd2VCd09vNHVUOHFveWVXVjB1UndZUG1YNzJwREt4VlduWjNrcmE5LW9xT0tONGcxaGZIYXhDaV85TU1veGp3RC1XWWt0TnV4ZTJtLVJEMGlUREJGZUQ5T1JvX3NnaUM?oc=5"
         }
       ]
     },
@@ -158,18 +218,6 @@
         {
           "name": "Yahoo Health",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONWh5WGNGWFhEUjAtdDVhNkZWWlNHYzF5N0JKYkZUOC1tX092SktMX1JFY1hvS0U2TllVcnBxdWRBR2wtRFE3V0YxX0R6X3Fra0JXRW41MEpuV3lQdWV5Q3UyMzhmMUpyQ0gtMjA3Vlhiak1VSFR4UDRFVFdTQlJ3REJMbV80M3ZVRU9rVFJaNDVUVGZrX3BYNFBibFAxTzY5NDItRlFPVE5lVmw0QnlkOWZwRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bf128f9b6d67",
-      "title": "The Ruthless Efficiency of Ultrapotent Street Drugs - The New York Times",
-      "published": "2026-08-24T15:12:51+00:00",
-      "summary": "The Ruthless Efficiency of Ultrapotent Street Drugs&nbsp;&nbsp;The New York Times",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaWhHVGZ3R2VEeVFMaEwtX0tsUEhURlJVRWE2MUpybTBUVlU2Y2dPendIVERSdm5hYWZiSjlDNWhLU2JNY1B3Y3A3cHFGd1JPc3oySll2ZjFNLTl5c2xUNzZIWF9ENkhnR0RqWV9mcHBqQmEzMkRBX0VvRTh0dnF3UXc5YzlNczQ?oc=5"
         }
       ]
     },
@@ -210,14 +258,14 @@
       ]
     },
     {
-      "id": "686d86f226c6",
-      "title": "3rd person dies from flesh-eating bacteria in Florida - KTLA",
-      "published": "2026-08-24T13:42:08+00:00",
-      "summary": "3rd person dies from flesh-eating bacteria in Florida&nbsp;&nbsp;KTLA3rd person dies in Florida from flesh-eating bacteria: Department of Health&nbsp;&nbsp;WFLA‘Vibrio vulnificus is in Charleston Harbor’: Charleston researchers track bacteria, what doctors warn&nbsp;&nbsp;Live 5 NewsRare bacterial infection in Edgartown prompts warnings&nbsp;&nbsp;MV TimesHeath expert warns about ‘flesh-eating’ bacteria in the Gulf&nbsp;&nbsp;LiveNOW from FOX",
+      "id": "ea3a731247f2",
+      "title": "When you eat may matter as much as what you eat for longevity and heart health - Medical Xpress",
+      "published": "2026-08-24T13:42:19+00:00",
+      "summary": "When you eat may matter as much as what you eat for longevity and heart health&nbsp;&nbsp;Medical XpressThe breakfast mistake you shouldn’t make after age 40 — it can raise your risk of death by up to 29%&nbsp;&nbsp;New York PostMassive Study Links The Time You Eat Breakfast to How Long You'll Live&nbsp;&nbsp;ScienceAlertThe Best Time to Eat for Gut Health&nbsp;&nbsp;VogueScientists find: meal timing affects weight loss more than diet composition&nbsp;&nbsp;Around Prague",
       "sources": [
         {
-          "name": "KTLA",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb2xjM0tQZTBXZWhzU0NTOXcxaE1zSTkxb0xCbnVudG5oTnRtVXNnMlhBVFZKbWtZZGx0bE4yZEJtZGVPUE4wU3I4NVJMMDJJVVc2S0p5TXFCbUxqYUxSdnpkQmcxNnNuMTQwcGcyUjBxVUg1b3AxRGo1amFyT3JUZkZ30gGHAUFVX3lxTE5nYnU5X05mOHhXMjJqNW40Z0p6bUVSZ2Z1MVR6aXJzRV9zZk1aNGtfOHgyTndiM2JTRzdJbTN6Yzc5NllTSVNuZUQtei1TeGhOWVRQcDhSNUFreXh0b0hMejJBRWh3YTlxWUNNcl84Ny1CSHp1NjNqa2hZaGlnR2trYmkyQ0s0aw?oc=5"
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mQ3VpUFluNkJuVnNjUk5XM2ZXQVV5QWFqRnFqZ19ILWlEaW9IVmFMRGhTWkFXN2FqUTRBMllmLWpmRU1qMndvd3JDT096Mmdub01xRURjbnVYRWdqNks3VWxBWUxTZG04QW5jamZEX093TG9E?oc=5"
         }
       ]
     },
@@ -225,7 +273,7 @@
       "id": "6b585d5700d6",
       "title": "Congo’s Ebola outbreak records one of its highest weekly death tolls yet - AP News",
       "published": "2026-08-24T13:09:00+00:00",
-      "summary": "Congo’s Ebola outbreak records one of its highest weekly death tolls yet&nbsp;&nbsp;AP NewsAfter 100 days of the deadliest Ebola outbreak, it can be stopped. Here’s how&nbsp;&nbsp;The GuardianCongo receives more than 16,000 doses of Ebola vaccine as it grapples with unprecedented outbreak&nbsp;&nbsp;NBC NewsPope appeals for international aid for Ebola victims in DRC&nbsp;&nbsp;Vatican NewsCongo's Ebola outbreak records one of its highest weekly death tolls yet&nbsp;&nbsp;ABC News - Breaking News",
+      "summary": "Congo’s Ebola outbreak records one of its highest weekly death tolls yet&nbsp;&nbsp;AP NewsOver 5200 cases recorded as Democratic Republic of the Congo crosses 100 days since Ebola outbreak declaration&nbsp;&nbsp;WHO | Regional Office for AfricaAfter 100 days of the deadliest Ebola outbreak, it can be stopped. Here’s how&nbsp;&nbsp;The GuardianPope Leo urges global action to confront Congo's Ebola outbreak&nbsp;&nbsp;ReutersCongo receives more than 16,000 doses of Ebola vaccine as it grapples wi",
       "sources": [
         {
           "name": "AP News",
@@ -246,18 +294,6 @@
       ]
     },
     {
-      "id": "59e9464001d4",
-      "title": "We Asked 4 Oncologists the Healthiest Habit to Start Before 9 A.M.—They All Said the Same Thing - EatingWell",
-      "published": "2026-08-24T12:30:00+00:00",
-      "summary": "We Asked 4 Oncologists the Healthiest Habit to Start Before 9 A.M.—They All Said the Same Thing&nbsp;&nbsp;EatingWell",
-      "sources": [
-        {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcEhtXzJvV213NkhoS04tNm96M3NqMkdDc3FQRnEySk9LOE05dUhPbzZJTU5VbmNFOEpnLWJTVWRwTUtlWTVjbFZGRHZIZWtySjZiV0M4VXo3LXhWYnRiNzNoMGY5ZFRsWnhaUlR4RTIzWVhOMWRGeDFMRmlRMUxTU2R3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0e1478f11392",
       "title": "Intermittent fasting reveals gut-brain pathway that may reduce chronic pain - Medical Xpress",
       "published": "2026-08-24T12:00:01+00:00",
@@ -270,6 +306,42 @@
       ]
     },
     {
+      "id": "b95e2373f27b",
+      "title": "Too much or too little sleep may make your body age faster - Science Daily",
+      "published": "2026-08-24T11:33:31+00:00",
+      "summary": "Too much or too little sleep may make your body age faster&nbsp;&nbsp;Science DailySleep and the Aging Brain&nbsp;&nbsp;Florida WeeklyNew study reveals irregular sleep patterns accelerate biological aging&nbsp;&nbsp;The News InternationalResearch has shown that not only lack of sleep but also excessive sleep can accelerate aging of the&nbsp;&nbsp;매일경제",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBleUx0MlNCSnJ3X0RzMnRTaVRZbXpiTG1XWXh5c1ZSa24zQXFDZHRXdkdXOE45eWhwbnNmRVl4R3N5VzlxY1NVOEUzWWxFODVvXzdBbWNuNmVrNlk0RjgtZ0xpVU8wSkhXb2JNVldmOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e067f6a40af5",
+      "title": "This transplant surgery could save countless lives. Why aren’t we doing more of them? - vox.com",
+      "published": "2026-08-24T11:00:00+00:00",
+      "summary": "This transplant surgery could save countless lives. Why aren’t we doing more of them?&nbsp;&nbsp;vox.com",
+      "sources": [
+        {
+          "name": "vox.com",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMmpweGllRjlBY1BCTGpLeGlhUWZudWxmd2kxTXljOU5BSDJMWjBHOTJNNUR6WFpjUV9rbU5GYkp2d0xhdFJqelFzUUtld19VYzItdWxkcnd4WnA1U3V4d0NrbHplYmtYLWZlc1N6LW4wdHg4WkhMMHg0SVlkdkV2alNqdTFsWTJBTE5qaWNSck4wUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ace3e2d82698",
+      "title": "Screen time at ages 1 and 6 may matter more than parents realize - Science Daily",
+      "published": "2026-08-24T10:33:01+00:00",
+      "summary": "Screen time at ages 1 and 6 may matter more than parents realize&nbsp;&nbsp;Science DailyResearchers followed children for a decade to see whether screen time really mattered&nbsp;&nbsp;News-MedicalScientists tracked kids for 8 years — the screen time result was unexpected&nbsp;&nbsp;Science DailyResearchers in Finland tracked children's screen time for eight years, expecting to document the damage. The children who spent more hours on screens showed better cognitive processing as teenagers — a ",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NZWtoRkVfNS1GZENlNThkc29ocXlzOWEyejRvek50VXE2NWZEYnpIaEJJM3o4UURvS0c4bWtmS3lMUWlnNWlZSFd4VkkzWnAzTmhjRjI0ZnU1bE5RTTNrSHl2Ukd5cTlCdWpDajducw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "fc0a02ae5397",
       "title": "The surprisingly short amount of daily TV watching that can damage your brain: experts - New York Post",
       "published": "2026-08-24T10:29:00+00:00",
@@ -278,18 +350,6 @@
         {
           "name": "New York Post",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQkFDR1ZrSmkxNV92TGZNVTNBemFtcWJFT014ZzhEc05wVndKS0V4SVZ2T3FGX3dCODhKWHRkS0FsbzgxUnFyTUM0WnJPTDZmSmJ4bHFVNzdGVHhLaGd6bGU5ak5SV21rUllVUThnRzdmME51ZS04RUt3VlJTWnByWWYzdzh3OXNVUDJFNVY3dHN0aU1oc1hsWlRpZ2dySnRvQmt2VENJc20?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "af0392cb22f9",
-      "title": "Children make up half of mpox cases in Guinea-Bissau as epidemic spreads - The Guardian",
-      "published": "2026-08-24T10:11:00+00:00",
-      "summary": "Children make up half of mpox cases in Guinea-Bissau as epidemic spreads&nbsp;&nbsp;The GuardianGuinea-Bissau faces first mpox outbreak: UNICEF&nbsp;&nbsp;Medical XpressMpox Spreads in Guinea-Bissau, Half Of Suspected Cases Are Children&nbsp;&nbsp;Health and MeChildren account for half of suspected mpox cases in Guinea-Bissau&nbsp;&nbsp;UNICEFMpox Cases Raise Concern for Children in Guinea-Bissau&nbsp;&nbsp;fundsforNGOs News",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdHphMDVEZDB6MVB2RXdjQmU3UmMzQW1wNDRKTXg4Q21URldUcXRFOGpjZURjb2xIbHRqeFJpSkpMTG5oNzd3eXNvdFd4bFdoLVpKcklfOHVLS3FDNjNCVV9zQUxzU2s5V2RsYUM5ZW0waldXcHVoRjFMUlFsR01yVGp0cHY4VHZua2t0TEY0THRlU2pUMnEwMDBLa3Jlb2M2bWY5Uy14OXJGcnhaMm9kdVVuMERmTjZMUV9XWGE1RVRjWjhrYVJMZWM3Tm8tRGM?oc=5"
         }
       ]
     },
@@ -330,30 +390,6 @@
       ]
     },
     {
-      "id": "4fb7aea5f423",
-      "title": "Charity donates skincare to radiotherapy patients in Northampton - BBC",
-      "published": "2026-08-24T05:23:24+00:00",
-      "summary": "Charity donates skincare to radiotherapy patients in Northampton&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10TVRhYXhhZmtGcVFqWXdQSjV5THVZUXVyMS0wRENqVzZOYnU2ZXFPR2cxaWlLa2JFVDhpektXcXZibFBPTDI2LTdnRkR6MHFRTEthS3BLUzVVdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2be3284f1190",
-      "title": "This Habit Could Lower Your Risk of Heart-Related Death by 39%, Study Says - EatingWell",
-      "published": "2026-08-24T03:58:00+00:00",
-      "summary": "This Habit Could Lower Your Risk of Heart-Related Death by 39%, Study Says&nbsp;&nbsp;EatingWell'Practical and often overlooked' exercise can reduce your risk of an early death&nbsp;&nbsp;Asian ImageThis Simple Health Habit Could Lengthen Your Life, Scientists Say&nbsp;&nbsp;PreventionStudy Finds Climbing Stairs Often Reduce Heart Attacks That's Not Confined To Older Folk | Health and Fitness News&nbsp;&nbsp;News18Researchers Found A Health Benefit From Doing This Activity 6 Times A Day&nbsp;&nb",
-      "sources": [
-        {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQUnZXQ2FjRFJSZm9uSDlyMWpfUzlRalZOdFByb3M3ZjY2cVV5ZlVuSEVwS2pUZXUzVUZwYURXOUpuRERVSVh3aE9NdGhkNV93RTdiVktIQmt1YWNwLVlZWWhoZlVQZWJ2cXZIVWJUTnJFTUU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e966befbe144",
       "title": "40 “Healthy” Habits People Say We Should Probably Stop Glorifying - Bored Panda",
       "published": "2026-08-24T03:00:05+00:00",
@@ -366,14 +402,14 @@
       ]
     },
     {
-      "id": "2c1351c65366",
-      "title": "‘Poop pills’ may point to new peanut allergy treatment, study finds - LiveNOW from FOX",
-      "published": "2026-08-24T02:09:36+00:00",
-      "summary": "‘Poop pills’ may point to new peanut allergy treatment, study finds&nbsp;&nbsp;LiveNOW from FOXSee more headlines & perspectives on Google News",
+      "id": "1ee1e27a60ee",
+      "title": "Gut bacteria may unlock a hidden benefit of vegetables - Science Daily",
+      "published": "2026-08-24T02:50:28+00:00",
+      "summary": "Gut bacteria may unlock a hidden benefit of vegetables&nbsp;&nbsp;Science DailyGut Bacteria Reveal Link Between Diet and Cardiometabolic Health&nbsp;&nbsp;Inside Precision MedicineGut bacteria convert nitrate and iron into heart-protective molecules, research finds&nbsp;&nbsp;Nutrition InsightGut bacteria may transform spinach, beets and plant iron into protective compounds&nbsp;&nbsp;Medical XpressGut bacteria convert dietary nitrate and iron into protective molecules&nbsp;&nbsp;EurekAlert!",
       "sources": [
         {
-          "name": "LiveNOW from FOX",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcm93WUdneUZNRWYxeUZYSVUxRHM4RUFSYkV6MDZKdDJyN3prTV9xMXBTbV9EUFgtZ1loUC1OdWM3N1VnRUtSUUlrQjNGek8tRkJKOTVzeERyMk1fbjQ1b21aUkxxWmdlb1dycG5wVi14RWRyV1lxdThyQzRtZ0lPVkQ2TkJoUVI2NVh0blYyNE9kbkdLcjB2Nw?oc=5"
+          "name": "Science Daily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JUjY5RXpVS09qMTd6eVUyLVZoMExYaFpyeUJCd1QtV1Y4NE5VbXUwek1Rc0RWc3VodTJoOUVYaERFclFGdFo5LVFKWUZINHU2TzFUWDNyOWFUc3hnQl96Y0xnY2ZOZVlnVnVKNjFYRQ?oc=5"
         }
       ]
     },
@@ -414,18 +450,6 @@
       ]
     },
     {
-      "id": "6059698e21fc",
-      "title": "Pediatricians Expose The Dangerous Health Myths Parents Still Believe - Yahoo Health",
-      "published": "2026-08-24T00:31:00+00:00",
-      "summary": "Pediatricians Expose The Dangerous Health Myths Parents Still Believe&nbsp;&nbsp;Yahoo Health",
-      "sources": [
-        {
-          "name": "Yahoo Health",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa3IybXVJTWRIQkNraXpRQ19JMS1BNjJLTW82cDBDa3FXOXZGTnkxRHROV3lUVlVpZ2YzWXg3NXdsUFFFRUQtazlYd0V6NVN1T1NGNDRoclBXbXE1N0pNZ1JLWlJzRTNJYW5fMzE0VFFwLTNIYXlfRGUzS2NPSUJ4WjJ5WnZROTdZdVpkZUxOMTlaR1Zya0tCYVNOR2kyWXUxb001UlN2S2JYWENQRk1CNnNDWGxQY3JFYWpB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6934cea966f8",
       "title": "Falcon 9 booster B1067 was originally built around a goal of at least ten flights without major refurbishment. It has now launched and landed 36 times in barely five years—only three flights short of the 39 missions Space Shuttle Discovery accumulated across it - Space Daily",
       "published": "2026-08-23T23:37:10+00:00",
@@ -441,7 +465,7 @@
       "id": "b0ad910437bd",
       "title": "Doctors said I was too young to have endometriosis at 13 - I had to take morphine to cope - BBC",
       "published": "2026-08-23T23:14:04+00:00",
-      "summary": "Doctors said I was too young to have endometriosis at 13 - I had to take morphine to cope&nbsp;&nbsp;BBCWoman Had 2 Organs Removed Before Doctors Finally Diagnosed Her With Endometriosis: ‘It’s Ruined My Life’&nbsp;&nbsp;YahooThe Lost Years&nbsp;&nbsp;Enable MagazineStudy to tackle years-long delays in endometriosis diagnosis&nbsp;&nbsp;FemTech WorldTeenager’s Endometriosis Diagnosis Follows Years of Severe Pain&nbsp;&nbsp;Oz Arab Media",
+      "summary": "Doctors said I was too young to have endometriosis at 13 - I had to take morphine to cope&nbsp;&nbsp;BBCDoctors unnecessarily removed two of my organs before figuring out what was actually wrong with me&nbsp;&nbsp;New York PostThe Lost Years&nbsp;&nbsp;Enable MagazineStudy to tackle years-long delays in endometriosis diagnosis&nbsp;&nbsp;FemTech WorldMother spends seven years ‘back and forth’ to doctors with extreme pain before finally getting endometriosis diagnosis&nbsp;&nbsp;Yahoo Life UK",
       "sources": [
         {
           "name": "BBC",
@@ -486,18 +510,6 @@
       ]
     },
     {
-      "id": "271c4890eb21",
-      "title": "Is the US seeing a turning point in obesity rates? - DW.com",
-      "published": "2026-08-23T16:46:07+00:00",
-      "summary": "Is the US seeing a turning point in obesity rates?&nbsp;&nbsp;DW.comResearchers find new benefits, risks in GLP-1 weight loss drugs&nbsp;&nbsp;WAFBGLP-1 weight loss drugs help patients see health gains beyond diet, experts say&nbsp;&nbsp;WKRCHow GLP-1 weight-loss drugs are reshaping the healthcare industry&nbsp;&nbsp;Fox BusinessLosing weight fast at 65 is not the same as losing weight fast at 35.&nbsp;&nbsp;Psychology Today",
-      "sources": [
-        {
-          "name": "DW.com",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbFZFeV9SMTA2bWhkNjAtcF9UN2xzUkJkY29kazVpeWVxYmNKNFdQcm1Kd2g4ejBJaWlaNXpfeDUwTGtYLWlVamxTeVV4Z2JSVGp3ZUMxMEFfLXdkeVhBdXVwUDhJRkdFZUdwMExNY0hFWlYxVlRTRHNfSFRYNnFMbEJJNjIxWnBTSWfSAYoBQVVfeXFMUHYwdGhuMjNENzktWS1vRTRwLWFJSmdtMkt3MzNuQTMzMGJ4X243U2xOTXJTZGRMOWpHZ1hyYmh4UzltMUY5Tm9wMkNyanNFdXRHS2ZkV084VzkwRENOcW94TE5LVmIxNXVJRlllb0JOMTBWUWhQanZmelFibkFJdzFKMWw4a1YxaGRB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "59f2683ca142",
       "title": "Poop transplants could help insomniacs sleep better - New York Post",
       "published": "2026-08-23T16:36:00+00:00",
@@ -525,7 +537,7 @@
       "id": "927ca954e47b",
       "title": "Oxalate in spinach and almonds may worsen gut inflammation in IBD - Medical Xpress",
       "published": "2026-08-23T16:00:01+00:00",
-      "summary": "Oxalate in spinach and almonds may worsen gut inflammation in IBD&nbsp;&nbsp;Medical Xpress",
+      "summary": "Oxalate in spinach and almonds may worsen gut inflammation in IBD&nbsp;&nbsp;Medical XpressWhy oxalate matters&nbsp;&nbsp;Minute Mirror",
       "sources": [
         {
           "name": "Medical Xpress",
@@ -534,14 +546,38 @@
       ]
     },
     {
-      "id": "7fb069a2fb47",
-      "title": "New weight loss drug may burn fat without muscle loss seen in GLP-1 drugs - NewsNation",
-      "published": "2026-08-23T14:37:39+00:00",
-      "summary": "New weight loss drug may burn fat without muscle loss seen in GLP-1 drugs&nbsp;&nbsp;NewsNationExperimental compound helps burn fat without muscle loss&nbsp;&nbsp;Science DailyA promising new weight loss and diabetes treatment helps burn fat while keeping muscle&nbsp;&nbsp;University of California, BerkeleyResearchers Revive Decades-Old Drug to Fight Obesity&nbsp;&nbsp;Sci.NewsOzempic’s new rival? Meet TOFA, a molecule that ramps up fat burning without eating less&nbsp;&nbsp;ThePrint",
+      "id": "00d4b056cb68",
+      "title": "Here are the menopause symptoms doctors often don’t talk about - The Washington Post",
+      "published": "2026-08-23T16:00:00+00:00",
+      "summary": "Here are the menopause symptoms doctors often don’t talk about&nbsp;&nbsp;The Washington PostMany Women Still Unsure They're In Perimenopause. What Are the Signs?&nbsp;&nbsp;HealthlineMenopause is not just the end of periods: Doctor explains the 3 stages every woman should know&nbsp;&nbsp;The Times of IndiaGen X women are getting loud about perimenopause. It’s time someone calls out the b.s.&nbsp;&nbsp;UpworthyWhy India’s Menopause Conversation Needs To Go Beyond Awareness | Grazia India&nbsp;&n",
       "sources": [
         {
-          "name": "NewsNation",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMF9RU2hYODJmaXozN2pidUcxVnJFQUJlY1JnaENBZy1TZEdIaWYzMlB5WnAtMXhfcEk3UTRDeGJlR1N1WXZWY0FFcnVOTmNVdHp0MEFPWURHUmhxZEZRVEUtYXBtOXljcnFkQThaSG5iUDlWZ3J6ZzlXdW9Lek1RV3VUYWFWTjFkQko1Z0J4RlRnUHR30gGaAUFVX3lxTE1sV05iLXNxMGVZcGQwV1JkMGFiTXprNlBGZW9HNnpzajN4amRSWmVaQjJMaUhDckFNVXFGNjJ5X1hHYmtqSHVOaUFEWDZPLVNOMWdvVmQ3UGEtRzZLTEV6aU4wMXdEVldlRmhoRkVVcTBnYVBwQ29RZGR2Ti1pTnBuNnk1ZmZEZzUwZlp1dmRhS1RMMWg4VXdSOVE?oc=5"
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQzdmd1hyOFNtVGhDRnFYR3RlVEtwcWE2OTl4VG0ydjFjQTZPaURSSm1UM2poTHJNUV9jeUhUZk1pdjZwLW9aeTVCMkxudnRVdkhxNUxpQVZYS2FSSlp5Q05LcUVRSjhyNjNVY1d4RG9tUGJ3VzRCVVMwQV9SazNxa3RWcXpxcnJrbXNvYV9sQVdkTUtZSmdfdWFScWRIaDFJeHBmeVRESGpqZDFnUGJYdkZ2c2I?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "08c12d168888",
+      "title": "Think you need 10,000 steps a day? Science says otherwise - AZ Family",
+      "published": "2026-08-23T15:08:00+00:00",
+      "summary": "Think you need 10,000 steps a day? Science says otherwise&nbsp;&nbsp;AZ FamilyA meta-analysis of nearly 47,500 adults found that mortality risk kept falling as people took more daily steps, with the association levelling off at roughly 6,000 to 8,000 steps a day among adults aged 60 and older.&nbsp;&nbsp;Space Daily‘Walking is one of the most underrated things’: Geriatric doctor says you don't need to join a gym to start exercising&nbsp;&nbsp;Hindustan TimesWalking isn’t enough: this study revea",
+      "sources": [
+        {
+          "name": "AZ Family",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUi1iZ1Voak1WV2RJUFpIMmM5eFYyZ2JCVThTTFY4Z3FaOWpBTXZoR0tJZ2RCWmRqZU8wR21GQ2prTnVwbGE2RTlleXZYN0V1ZW5wa2ljQmtmalRKdnhKTjJaNURtMGRlWWNwU3dlcHRnUzZ6YnVtYTJwTVhXcmZncFBVbVV3VEZIVTF4WnJscmIxMUJ50gGoAUFVX3lxTFA2NVYxaHNnUGwzbmY3NGItX2MzNWNfQmZJTWI3NzNDRFB3MmcyajVoMks1V0RxMHNQVDBPdFBGNVNiRXFSM0lFaFVNbTk5ZXpUVE5QN08zSGZOcXR6NnVpcUF5eU5RNURTS2otVEl0dk9NMUhZTFdUUF9mRzE2WVRweWl5UFFBaU5GYjRPWDVQYTkwSXNaT19pRlc3V0hYRUJpaFVGc0lDeQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8e2843d565b0",
+      "title": "New weight loss drug may burn fat without muscle loss seen in GLP-1 drugs - Currently.com",
+      "published": "2026-08-23T14:37:33+00:00",
+      "summary": "New weight loss drug may burn fat without muscle loss seen in GLP-1 drugs&nbsp;&nbsp;Currently.comSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "Currently.com",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaWdYdURLLXYtVlRQUENJUjh3LUF4RDB6TWJqSTFWMmZaOEFMbkx5V2dkZnVHMHRTdmNZRXQ3M3o1RV9WbkpZUmJTN3R4c0FpYmMydGNHUzhSOUZGVUgzejNUd2NzcElpdzlXSFppdFJpUG9rNU1nN2R0MDlkR05wMjdn?oc=5"
         }
       ]
     },
@@ -549,7 +585,7 @@
       "id": "6d132b243369",
       "title": "US researchers achieve ‘first’ open-air quantum link across 13 miles in New York - Interesting Engineering",
       "published": "2026-08-23T14:03:00+00:00",
-      "summary": "US researchers achieve ‘first’ open-air quantum link across 13 miles in New York&nbsp;&nbsp;Interesting EngineeringNew free-space optical link adds a wireless component to the nation's longest quantum network&nbsp;&nbsp;Phys.orgStony Brook, Brookhaven Lab Researchers Demonstrate ‘Wireless’ Capability for Quantum Network&nbsp;&nbsp;SBU NewsQuantum network expansion at Stony Brook and Brookhaven&nbsp;&nbsp;NewsdayPhotons Fly Across Long Island in Quantum Breakthrough&nbsp;&nbsp;The South Shore Pre",
+      "summary": "US researchers achieve ‘first’ open-air quantum link across 13 miles in New York&nbsp;&nbsp;Interesting EngineeringNew free-space optical link adds a wireless component to the nation's longest quantum network&nbsp;&nbsp;Phys.orgStony Brook, Brookhaven Lab Researchers Demonstrate ‘Wireless’ Capability for Quantum Network&nbsp;&nbsp;SBU NewsBrookhaven, Stony Brook hit quantum milestone to advance innovation&nbsp;&nbsp;Long Island Business NewsPhotons Fly Across Long Island in Quantum Breakthrough&",
       "sources": [
         {
           "name": "Interesting Engineering",
@@ -606,26 +642,26 @@
       ]
     },
     {
-      "id": "24637d057edf",
-      "title": "COVID Is Spreading In These Regions Right Now — Here Are The Symptoms To Watch For - HuffPost",
+      "id": "c40d02682046",
+      "title": "COVID Is Spreading In These Regions Right Now — Here Are The Symptoms To Watch For - Yahoo Lifestyle Canada",
       "published": "2026-08-23T11:00:18+00:00",
-      "summary": "COVID Is Spreading In These Regions Right Now — Here Are The Symptoms To Watch For&nbsp;&nbsp;HuffPostThe traditional respiratory virus season hasn’t started, but Covid is already climbing&nbsp;&nbsp;CNNIs There a Summer COVID Surge? With Cases Rising in Nearly Every State, Watch for These Symptoms&nbsp;&nbsp;TODAY.comCOVID is ‘growing’ in nearly every state, CDC reports. Here’s where levels are highest&nbsp;&nbsp;The HillCOVID cases are on the rise nationwide ahead of cold and flu season&nbsp;&",
+      "summary": "COVID Is Spreading In These Regions Right Now — Here Are The Symptoms To Watch For&nbsp;&nbsp;Yahoo Lifestyle CanadaCOVID is ‘growing’ in nearly every state, CDC reports. Here’s where levels are highest&nbsp;&nbsp;The HillIs There a Summer COVID Surge? With Cases Rising in Nearly Every State, Watch for These Symptoms&nbsp;&nbsp;TODAY.comThe traditional respiratory virus season hasn’t started, but Covid is already climbing&nbsp;&nbsp;CNNCOVID cases are on the rise nationwide ahead of cold and flu",
       "sources": [
         {
-          "name": "HuffPost",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMjFNWDQ2bFBkQ0dGQlMyenRoYjR4U2RzV2F6RHE3TDRuU19jRmhuMnlpekZiY0hQMjFnZ3FJM0RqSm04MUtIVGsyYmRzSkc5SE9vOFJPaEdzcHVwcmRtZjR4bXJTbnpOTGIyNW4xMGtLUmVvVTlQUFBRa3dRdHhaSXI2dGxpMmN3ek1fdDZFS1RZeFc4dGJEdE1R0gGfAUFVX3lxTE84OFFJX0t3Sl9GMGNkZThyaDBtUkZJSnFqY3RsbVVxUEhaZ2JzNDFyWndSNXNfN0VlZmtHVC1LVEs1RTEyOVFtMDhSaURtanEwYzN2RVQ4MDJ3TXczZHlhLVRSRzBReXY3RmZtNll6ZktsWE1PbGRWcHNpN1RyaGM5TVl0TzR4VHhuMk12Y0dZX2R0Um9QSlotckM0d09EQQ?oc=5"
+          "name": "Yahoo Lifestyle Canada",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTmRoS0JXZ2FGUlMxWFRhTXNHYmM5SnI4NzRIRE05Z19LT05xR3ZSWDMzTHlGa005SkMybG5OQkF4ZkJOY1J1VTlLM3p6MjVqNG56S0ZEQ2t3VTR4Q0tNcUxTaGFOTWJxTE9vc0MxeGszTG1abm9aT2dXZVMzTnFfaXdWOFk?oc=5"
         }
       ]
     },
     {
-      "id": "5f3dbc096f4b",
-      "title": "These Babies Grew Up With Strict Sugar Limits. Decades Later, The Results Are Dramatic. - Yahoo Health",
-      "published": "2026-08-23T10:47:40+00:00",
-      "summary": "These Babies Grew Up With Strict Sugar Limits. Decades Later, The Results Are Dramatic.&nbsp;&nbsp;Yahoo HealthSee more headlines & perspectives on Google News",
+      "id": "4fd4dd9975a3",
+      "title": "These Babies Grew Up With Strict Sugar Limits. Decades Later, The Results Are Dramatic. - ScienceAlert",
+      "published": "2026-08-23T10:51:16+00:00",
+      "summary": "These Babies Grew Up With Strict Sugar Limits. Decades Later, The Results Are Dramatic.&nbsp;&nbsp;ScienceAlertA childhood shaped by sugar rationing was linked to mental health more than 50 years later&nbsp;&nbsp;News-MedicalBabies born under sugar rationing grew into adults with lower cancer risk&nbsp;&nbsp;The ConversationWhat You Ate Diet as a Baby Could Affect Your Risk of Dementia&nbsp;&nbsp;Food & WineEarly-Life Sugar Restriction Linked to Lower Adult Cancer Risk&nbsp;&nbsp;EMJ",
       "sources": [
         {
-          "name": "Yahoo Health",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYUFsV3k0b2FNckhjcXN5STFaZHpyOGNodzY2VU1oOVlCQXppSmR5QnEyUy1ka3RkSDN2NHgxbzNsZDUxdUhHZkNSQW8tZTEwV2hVdWR5VzBneXFwRW5ZOFY0eFRKSC02M3BxR05ZWF9YU2VBOEhIbXV0Y2tIVl83anhjbXVDWlJySXZzV2U4Q1BLN3Y5eG9xM1pBWVFjY2s?oc=5"
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZWZjV3BGM3NZUERrTHVhWmc0RlU3WFc4OVRhR05LRUR5Y0VFczlvdHlycTNDc0hYMGVaNl91NHFJWlAtT2l2VGRFZmdReUNVOG5ISldSd1J6S29OZ3hnQnV0OGh2dmlrSlhTOHgtRzc1NmpKeDNuNHZWNVNCNU5kYlZsbTRjSmVWQ2p0eFhOY3lmeDVYZ0xQYy11UG5HdnQ4WUo4b2xULTZudW81YWtrWWtadw?oc=5"
         }
       ]
     },
@@ -662,42 +698,6 @@
         {
           "name": "The Star",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeURhdFg1S2o1V3M2SWl5TXNDMHZUQlJNOE5IZUZiTUxjRDlwTk4xTWoya1R5c0xKMDF6bkNndjh3b01nSlRnOUJlMWZKWmFEZ1ZqN2d6LU0xWUZhQURtSzYyaDNkMVpHVnlWWkZYZ1dYeW85UThSeEFaZUEzTDRTdlVfa29PZXRGNGQ4eWxJeUQtZVlndlpsYUh6UW93RndxdTZKN2tvd1dsamI5aTRLWVd3ZnZENjc0NmlNLU1sYVZFVlRXdFZlREloLWpTSUsyZkt2bTRqUlN1SDRoTHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c5df8dee08f6",
-      "title": "The 4 Healthiest Fish To Eat for More Protein and Omega-3s - AOL.com",
-      "published": "2026-08-23T06:00:00+00:00",
-      "summary": "The 4 Healthiest Fish To Eat for More Protein and Omega-3s&nbsp;&nbsp;AOL.comWe Asked 3 Dietitians to Name the Healthiest Tinned Fish—They All Picked the Same One&nbsp;&nbsp;EatingWellBest Catch: The Healthiest Fish To Eat&nbsp;&nbsp;Cleveland Clinic Health EssentialsCanned tuna v tinned sardines: which is healthier?&nbsp;&nbsp;TasteThe High-Protein, Low-Mercury Seafood You're Probably Ignoring&nbsp;&nbsp;AOL.com",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pUkFvcUF5UUV6Vk12dnFrTTZtQ2JCUW5QZEtNc09MUWt0UmFRU2VWRHRoR3NFMk1Hc2pDeldIZFpJXzlvZ1hOY0tiM2NWTG80MHJIR1RqanIxM1ZhUzJGaEdSNTRUU3JUaW5PVUtCWHdCWlZRcGtTZWhR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7aa028578c04",
-      "title": "This common vitamin was linked to 13% better cognitive scores - Science Daily",
-      "published": "2026-08-23T04:32:58+00:00",
-      "summary": "This common vitamin was linked to 13% better cognitive scores&nbsp;&nbsp;Science DailyHigh-dose vitamin D may improve cognition among those at risk of dementia, study finds&nbsp;&nbsp;Medical XpressThree ways to boost brain sharpness&nbsp;&nbsp;The TimesThe Simple Nutrient Linked to a 13% Cognitive Boost&nbsp;&nbsp;ProHealth LongevityWith more than 7 million cases of Alzheimer's disease reported in the United States alone and the nu..&nbsp;&nbsp;매일경제",
-      "sources": [
-        {
-          "name": "Science Daily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jeXJlS2t5enNCUUtMTmlEbFIzdmgzMFF3bTZEbnk4QU9CSWFxTDlveE9CMUE0cEJWa2txejI1YlZkNkNmb3ZZdzNJVkp2NHRMbm41RkoxSFU1enRXUWhoSkxFRlQyNlNmUzVZZVk2dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3db171767882",
-      "title": "Titan is the only place besides Earth with stable liquid on its surface, a working weather cycle and complex organic chemistry — and now, according to 2025 NASA research, a plausible mechanism for building the first membrane around a primitive cell, without - Space Daily",
-      "published": "2026-08-23T00:09:41+00:00",
-      "summary": "Titan is the only place besides Earth with stable liquid on its surface, a working weather cycle and complex organic chemistry — and now, according to 2025 NASA research, a plausible mechanism for building the first membrane around a primitive cell, without&nbsp;&nbsp;Space Daily",
-      "sources": [
-        {
-          "name": "Space Daily",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVkFIRFItNGZYU0RxUXU1VFhZQkptcHg2bURjOGZ3V1VKZ25SNENkWk9ZRi1aUjNSTGtqYXQ2RTRBZjF5YmU1MTIzNXpiWHhDc3dtQmpWS01XRERUN0pudFVCMm91c2EyNzF5M2FLT1IzZ1RuUlMwM2hoQlZIam5ocGJn?oc=5"
         }
       ]
     }

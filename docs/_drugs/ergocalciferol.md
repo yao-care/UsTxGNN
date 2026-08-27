@@ -2,7 +2,7 @@
 layout: default
 title: Ergocalciferol
 parent: 僅模型預測 (L5)
-nav_order: 608
+nav_order: 667
 evidence_level: L5
 indication_count: 10
 ---

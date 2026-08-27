@@ -2,7 +2,7 @@
 layout: default
 title: Ertapenem
 parent: 僅模型預測 (L5)
-nav_order: 609
+nav_order: 668
 evidence_level: L5
 indication_count: 2
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Tetracaine
 parent: 僅模型預測 (L5)
-nav_order: 637
+nav_order: 987
 evidence_level: L5
 indication_count: 9
 ---

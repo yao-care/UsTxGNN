@@ -2,7 +2,7 @@
 layout: default
 title: Telotristat Ethyl
 parent: 僅模型預測 (L5)
-nav_order: 626
+nav_order: 976
 evidence_level: L5
 indication_count: 2
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Thiothixene
 parent: 僅模型預測 (L5)
-nav_order: 642
+nav_order: 992
 evidence_level: L5
 indication_count: 10
 ---

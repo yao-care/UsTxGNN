@@ -2,7 +2,7 @@
 layout: default
 title: Tecovirimat
 parent: 僅模型預測 (L5)
-nav_order: 623
+nav_order: 973
 evidence_level: L5
 indication_count: 10
 ---

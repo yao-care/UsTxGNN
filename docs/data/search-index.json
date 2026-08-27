@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-13",
-  "drug_count": 1567,
-  "indication_count": 1894,
+  "generated": "2026-08-27",
+  "drug_count": 1919,
+  "indication_count": 1980,
   "drugs": [
     {
       "name": "1 2-Distearoyl-Sn-Glycero-3-Phosphocholine Activat",
@@ -43795,6 +43795,14 @@
       "indications": []
     },
     {
+      "name": "Denosumab",
+      "slug": "denosumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Deoxycholic Acid",
       "slug": "deoxycholic_acid",
       "brands": [],
@@ -44022,6 +44030,591 @@
     {
       "name": "Diflunisal",
       "slug": "diflunisal",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Difluprednate",
+      "slug": "difluprednate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Familial adrenal hypoplasia w/ absent pituitary LH",
+          "score": 99.96,
+          "level": "L5"
+        },
+        {
+          "name": "Seborrheic keratosis",
+          "score": 99.96,
+          "level": "L5"
+        },
+        {
+          "name": "PAGOD syndrome",
+          "score": 99.93,
+          "level": "L5"
+        },
+        {
+          "name": "Vulvar inverted follicular keratosis",
+          "score": 99.92,
+          "level": "L5"
+        },
+        {
+          "name": "Adrenocortical insufficiency",
+          "score": 99.67,
+          "level": "L4"
+        },
+        {
+          "name": "Seborrheic dermatitis",
+          "score": 99.53,
+          "level": "L4"
+        },
+        {
+          "name": "46,XY disorder of sex development",
+          "score": 99.47,
+          "level": "L5"
+        },
+        {
+          "name": "Necrobiosis lipoidica",
+          "score": 99.24,
+          "level": "L4"
+        },
+        {
+          "name": "Nephrotic syndrome",
+          "score": 99.21,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Digoxin",
+      "slug": "digoxin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Diltiazem",
+      "slug": "diltiazem",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Dimenhydrinate",
+      "slug": "dimenhydrinate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Dinutuximab",
+      "slug": "dinutuximab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Diphenhydramine",
+      "slug": "diphenhydramine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Dipyridamole",
+      "slug": "dipyridamole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Diroximel Fumarate",
+      "slug": "diroximel_fumarate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Disopyramide",
+      "slug": "disopyramide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Dobutamine",
+      "slug": "dobutamine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Docetaxel",
+      "slug": "docetaxel",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Docusate",
+      "slug": "docusate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Dofetilide",
+      "slug": "dofetilide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Dolutegravir",
+      "slug": "dolutegravir",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Donepezil",
+      "slug": "donepezil",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Chronic tic disorder | 99.19% | L3 | S1 | Research Question | 5 publications, incl. an 18-week open-label dose-escalation study in children/adolescents (PMID 18343255) and preclinical Tourette-model data (PMID 14643839, 16045972)",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Extrapyramidal and movement disease | 99.16% | L3 | S1 | Hold | 4 publications, but evidence direction is mixed — a systematic review (PMID 40224553) documents AChEIs as a *cause* of movement disorders in Alzheimer's patients, opposing the predicted therapeutic direction",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Lingual-facial-buccal dyskinesia (tardive dyskinesia) | 99.02% | L3 | S2 | Research Question | 20 publications, including **2 Cochrane systematic reviews** on cholinergic drugs for antipsychotic-induced tardive dyskinesia (PMID 29553158, 12137608) — the most substantive evidence base in this batch",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Doravirine",
+      "slug": "doravirine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Dorzolamide",
+      "slug": "dorzolamide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Doxapram",
+      "slug": "doxapram",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Doxercalciferol",
+      "slug": "doxercalciferol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Doxorubicin",
+      "slug": "doxorubicin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Doxycycline",
+      "slug": "doxycycline",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Punctate epithelial keratoconjunctivitis | 99.94% | L4 | S0 | Hold | 1 case report; mechanistic link weak/negative",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Otitis externa | 99.90% | L4 | S0 | Hold | 6/7 literature items are veterinary (canine); no human trials",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Postinfectious vasculitis | 99.89% | L4 | S1 | Research Question | Plausible only if etiology is rickettsial (RMSF); case-report level only",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Post-bacterial disorder | 99.89% | **L1** | S3 | **Proceed with Guardrails** | Largely aggregates *established* doxycycline uses (Lyme/erythema migrans, tick-borne relapsing fever, STI PrEP/PEP) — closer to on-label than true repurposing",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Post-infectious syndrome | 99.89% | L2 | S2 | Research Question | Heterogeneous bucket (Q-fever fatigue syndrome, TB host-directed therapy, Kawasaki disease); needs sub-indication scoping",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Infective urethral stricture | 99.88% | L4 | S0 | Hold | Antibiotics can prevent but not treat established fibrotic stricture",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Chagas cardiomyopathy | 99.87% | L4 | S0 | Hold | Sole comparative study showed **no additive benefit** over benznidazole alone (negative finding)",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Infection-related hemolytic uremic syndrome | 99.87% | L5 | S0 | Hold | No clinical trials or literature; model prediction only; theoretical toxin-release risk with antibiotics in STEC-HUS",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Exposure keratitis | 99.79% | L4 | S0 | Hold | Likely poor disease-term mapping — exposure keratitis is mechanical/structural, not infectious",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Chronic gingivitis | 99.77% | **L2** | S2 | **Proceed with Guardrails** | Reflects sub-antimicrobial-dose doxycycline (SDD/Periostat), an MMP-inhibition mechanism already used clinically as a periodontal adjunct in some markets",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Dronabinol",
+      "slug": "dronabinol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Dronedarone",
+      "slug": "dronedarone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Droperidol",
+      "slug": "droperidol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Droxidopa",
+      "slug": "droxidopa",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Dulaglutide",
+      "slug": "dulaglutide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Duloxetine",
+      "slug": "duloxetine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Dupilumab",
+      "slug": "dupilumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Durvalumab",
+      "slug": "durvalumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Dutasteride",
+      "slug": "dutasteride",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Duvelisib",
+      "slug": "duvelisib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Dyclonine",
+      "slug": "dyclonine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ecallantide",
+      "slug": "ecallantide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Eculizumab",
+      "slug": "eculizumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Edaravone",
+      "slug": "edaravone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Efavirenz",
+      "slug": "efavirenz",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Eflornithine",
+      "slug": "eflornithine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Elafibranor",
+      "slug": "elafibranor",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Elagolix",
+      "slug": "elagolix",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Elapegademase",
+      "slug": "elapegademase",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Elosulfase Alfa",
+      "slug": "elosulfase_alfa",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Emapalumab",
+      "slug": "emapalumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Emicizumab",
+      "slug": "emicizumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Empagliflozin",
+      "slug": "empagliflozin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Emtricitabine",
+      "slug": "emtricitabine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Enalaprilat",
+      "slug": "enalaprilat",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Enfortumab Vedotin",
+      "slug": "enfortumab_vedotin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Enoxaparin",
+      "slug": "enoxaparin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Entacapone",
+      "slug": "entacapone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Entecavir",
+      "slug": "entecavir",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Enzalutamide",
+      "slug": "enzalutamide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ephedrine",
+      "slug": "ephedrine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Epinastine",
+      "slug": "epinastine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Epinephrine",
+      "slug": "epinephrine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Epirubicin",
+      "slug": "epirubicin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Eplerenone",
+      "slug": "eplerenone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Eptifibatide",
+      "slug": "eptifibatide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Eptinezumab",
+      "slug": "eptinezumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Erdafitinib",
+      "slug": "erdafitinib",
       "brands": [],
       "original": "",
       "level": "L5",
@@ -44293,6 +44886,2672 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Estradiol Cypionate",
+      "slug": "estradiol_cypionate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Estradiol Valerate",
+      "slug": "estradiol_valerate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Estriol",
+      "slug": "estriol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Estrone",
+      "slug": "estrone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Etanercept",
+      "slug": "etanercept",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Etelcalcetide",
+      "slug": "etelcalcetide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Eteplirsen",
+      "slug": "eteplirsen",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ethambutol",
+      "slug": "ethambutol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ethosuximide",
+      "slug": "ethosuximide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Etodolac",
+      "slug": "etodolac",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Etonogestrel",
+      "slug": "etonogestrel",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Etoposide",
+      "slug": "etoposide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Etravirine",
+      "slug": "etravirine",
+      "brands": [],
+      "original": "",
+      "level": "L1",
+      "indications": []
+    },
+    {
+      "name": "Everolimus",
+      "slug": "everolimus",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Evolocumab",
+      "slug": "evolocumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Exemestane",
+      "slug": "exemestane",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ezetimibe",
+      "slug": "ezetimibe",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Famciclovir",
+      "slug": "famciclovir",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Famotidine",
+      "slug": "famotidine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Febuxostat",
+      "slug": "febuxostat",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fedratinib",
+      "slug": "fedratinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Felbamate",
+      "slug": "felbamate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Felodipine",
+      "slug": "felodipine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fenbendazole",
+      "slug": "fenbendazole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fenfluramine",
+      "slug": "fenfluramine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fenofibrate",
+      "slug": "fenofibrate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fentanyl",
+      "slug": "fentanyl",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ferric Carboxymaltose",
+      "slug": "ferric_carboxymaltose",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ferric Maltol",
+      "slug": "ferric_maltol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ferumoxytol",
+      "slug": "ferumoxytol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fexofenadine",
+      "slug": "fexofenadine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fibrinogen Human",
+      "slug": "fibrinogen_human",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fidaxomicin",
+      "slug": "fidaxomicin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Filgrastim",
+      "slug": "filgrastim",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Finasteride",
+      "slug": "finasteride",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Flavoxate",
+      "slug": "flavoxate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "ADHD, inattentive type | 99.75% | L5 | Hold | Likely model noise — no CNS mechanism",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Irritable Bowel Syndrome | 99.74% | L5 | Research Question | Plausible smooth-muscle class analogy (vs. mebeverine/alverine); unverified",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Specific Developmental Disorder | 99.56% | L5 | Hold | Non-specific disease term, no mechanistic link",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "ADHD (general) | 99.39% | L5 | Hold | Same issue as rank 1",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Cauda Equina Syndrome | 99.27% | L5 | Hold | Surgical emergency; symptomatic overlap only",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Gastroduodenitis | 99.12% | L5 | Hold | Symptomatic overlap only, no disease-modifying link",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Peptic Ulcer Disease | 99.10% | L5 | Hold | Outdated anticholinergic-adjuvant rationale",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Flecainide",
+      "slug": "flecainide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Flortaucipir F-18",
+      "slug": "flortaucipir_f-18",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Floxuridine",
+      "slug": "floxuridine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fluconazole",
+      "slug": "fluconazole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Flucytosine",
+      "slug": "flucytosine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fludarabine",
+      "slug": "fludarabine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fludrocortisone",
+      "slug": "fludrocortisone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Flunisolide",
+      "slug": "flunisolide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fluocinolone Acetonide",
+      "slug": "fluocinolone_acetonide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fluocinonide",
+      "slug": "fluocinonide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fluorescein",
+      "slug": "fluorescein",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fluoroestradiol F-18",
+      "slug": "fluoroestradiol_f-18",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fluorometholone",
+      "slug": "fluorometholone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fluorouracil",
+      "slug": "fluorouracil",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fluoxetine",
+      "slug": "fluoxetine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fluphenazine",
+      "slug": "fluphenazine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Flurandrenolide",
+      "slug": "flurandrenolide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Flurazepam",
+      "slug": "flurazepam",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Flurbiprofen",
+      "slug": "flurbiprofen",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Flutamide",
+      "slug": "flutamide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fluticasone Furoate",
+      "slug": "fluticasone_furoate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fluvastatin",
+      "slug": "fluvastatin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fluvoxamine",
+      "slug": "fluvoxamine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Folic Acid",
+      "slug": "folic_acid",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fomepizole",
+      "slug": "fomepizole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Formaldehyde",
+      "slug": "formaldehyde",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Foscarnet",
+      "slug": "foscarnet",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fosfomycin",
+      "slug": "fosfomycin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fosinopril",
+      "slug": "fosinopril",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Malignant renovascular hypertension | 99.87% | Same ACEi rationale as rank 1, but ACEi use carries a known acute renal-failure risk in (especially bilateral) renal artery stenosis — a safety concern, not just an efficacy question.",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Pulmonary hypertension, unclear/multifactorial mechanism (WHO Group 5) | 99.87% | No established ACEi mechanism for this heterogeneous group; mechanistic link is weak.",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Pulmonary hypertension due to lung disease/hypoxia (WHO Group 3) | 99.87% | 20 literature hits returned, but on review all are basic hypoxia/neurodegeneration/oncology studies unrelated to fosinopril or this indication — a keyword-matching false positive, not real evidence.",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Braddock syndrome | 99.81% | A rare genetic disorder with no known link to ACE inhibition; likely a knowledge-graph embedding artifact rather than a real signal.",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Fosphenytoin",
+      "slug": "fosphenytoin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fostamatinib",
+      "slug": "fostamatinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fremanezumab",
+      "slug": "fremanezumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fulvestrant",
+      "slug": "fulvestrant",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Gadodiamide",
+      "slug": "gadodiamide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Galcanezumab",
+      "slug": "galcanezumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ganirelix",
+      "slug": "ganirelix",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Garlic",
+      "slug": "garlic",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Gefitinib",
+      "slug": "gefitinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Gemcitabine",
+      "slug": "gemcitabine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Gemfibrozil",
+      "slug": "gemfibrozil",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Gepirone",
+      "slug": "gepirone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Givosiran",
+      "slug": "givosiran",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Glatiramer",
+      "slug": "glatiramer",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Glimepiride",
+      "slug": "glimepiride",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Glucagon",
+      "slug": "glucagon",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Glucarpidase",
+      "slug": "glucarpidase",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Glycerin",
+      "slug": "glycerin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Glycine",
+      "slug": "glycine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Golimumab",
+      "slug": "golimumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Hypermobility of coccyx | 99.67% | L5 | S0 | Hold | Mechanically/structurally driven condition, not TNF-α-mediated; no trials or literature; likely a knowledge-graph false positive.",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Inflammatory spondylopathy | 99.66% | L1 | S3 | Proceed with Guardrails | Corresponds to ankylosing spondylitis/axial spondyloarthritis — an indication for which golimumab is already globally approved, with numerous completed Phase 3 RCTs (e.g. NCT00265083, NCT03270501). Not a novel hypothesis, but a strong candidate for Taiwan market entry.",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Kummell disease | 99.61% | L5 | S0 | Hold | Structural vertebral compression/avascular necrosis, not an autoimmune/inflammatory disease; no supporting evidence; likely knowledge-graph noise.",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Polyarticular juvenile rheumatoid arthritis | 99.59% | L1 | S3 | Proceed with Guardrails | Shares TNF-α-driven synovitis mechanism with adult RA; IV golimumab has completed Phase 3 support (GO-VIVA-type trial, NCT02277444), though the SC formulation trial (NCT01230827) was terminated without meeting its primary endpoint — formulation-specific efficacy differences should be tracked.",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Golodirsen",
+      "slug": "golodirsen",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Goserelin",
+      "slug": "goserelin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Granisetron",
+      "slug": "granisetron",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Griseofulvin",
+      "slug": "griseofulvin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Guaifenesin",
+      "slug": "guaifenesin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Guanfacine",
+      "slug": "guanfacine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Guselkumab",
+      "slug": "guselkumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Halcinonide",
+      "slug": "halcinonide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Haloperidol",
+      "slug": "haloperidol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Hemin",
+      "slug": "hemin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Heparin",
+      "slug": "heparin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Histidine",
+      "slug": "histidine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Histrelin",
+      "slug": "histrelin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Human C1-Esterase Inhibitor",
+      "slug": "human_c1-esterase_inhibitor",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Human Immunoglobulin G",
+      "slug": "human_immunoglobulin_g",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Hyaluronic Acid",
+      "slug": "hyaluronic_acid",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Hyaluronidase",
+      "slug": "hyaluronidase",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Hydrocortisone",
+      "slug": "hydrocortisone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Hydromorphone",
+      "slug": "hydromorphone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Pharyngitis (top score)",
+          "score": 99.81,
+          "level": "L4"
+        },
+        {
+          "name": "Allergic Urticaria",
+          "score": 99.81,
+          "level": "L5"
+        },
+        {
+          "name": "Nasal Cavity Disease",
+          "score": 99.8,
+          "level": "L5"
+        },
+        {
+          "name": "Acute Laryngopharyngitis",
+          "score": 99.75,
+          "level": "L5"
+        },
+        {
+          "name": "Trigeminal Autonomic Cephalalgia",
+          "score": 99.58,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Hydroquinone",
+      "slug": "hydroquinone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Hydroxocobalamin",
+      "slug": "hydroxocobalamin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Hydroxyprogesterone Caproate",
+      "slug": "hydroxyprogesterone_caproate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Hydroxyurea",
+      "slug": "hydroxyurea",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Hydroxyzine",
+      "slug": "hydroxyzine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Hyoscyamine",
+      "slug": "hyoscyamine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ibuprofen",
+      "slug": "ibuprofen",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Icatibant",
+      "slug": "icatibant",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Icosapent Ethyl",
+      "slug": "icosapent_ethyl",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Idelalisib",
+      "slug": "idelalisib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ifosfamide",
+      "slug": "ifosfamide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Iloperidone",
+      "slug": "iloperidone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Iloprost",
+      "slug": "iloprost",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Imiglucerase",
+      "slug": "imiglucerase",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Imipramine",
+      "slug": "imipramine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Imiquimod",
+      "slug": "imiquimod",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Inclisiran",
+      "slug": "inclisiran",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Indomethacin",
+      "slug": "indomethacin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Insulin Aspart",
+      "slug": "insulin_aspart",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Insulin Degludec",
+      "slug": "insulin_degludec",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Insulin Detemir",
+      "slug": "insulin_detemir",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Insulin Glargine",
+      "slug": "insulin_glargine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Insulin Glulisine",
+      "slug": "insulin_glulisine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Insulin Human",
+      "slug": "insulin_human",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Insulin Lispro",
+      "slug": "insulin_lispro",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Interferon Gamma-1B",
+      "slug": "interferon_gamma-1b",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Iodixanol",
+      "slug": "iodixanol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Iohexol",
+      "slug": "iohexol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Iopromide",
+      "slug": "iopromide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ioversol",
+      "slug": "ioversol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ipilimumab",
+      "slug": "ipilimumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Irbesartan",
+      "slug": "irbesartan",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Irinotecan",
+      "slug": "irinotecan",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Iron",
+      "slug": "iron",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Isavuconazonium",
+      "slug": "isavuconazonium",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Isoflurane",
+      "slug": "isoflurane",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Prinzmetal angina | 99.67% | L5 | S0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Tourette syndrome | 99.61% | L5 | S0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Manic bipolar affective disorder | 99.57% | L3 | S1 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Trichotillomania | 99.54% | L5 | S0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Dysthymic disorder | 99.27% | L5 | S0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Nephrogenic syndrome of inappropriate antidiuresis | 99.09% | L5 | S0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Migraine disorder | 99.06% | L4 | S1 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Isoniazid",
+      "slug": "isoniazid",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Isosorbide Dinitrate",
+      "slug": "isosorbide_dinitrate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Isosorbide Mononitrate",
+      "slug": "isosorbide_mononitrate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Isotretinoin",
+      "slug": "isotretinoin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Istradefylline",
+      "slug": "istradefylline",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Itraconazole",
+      "slug": "itraconazole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ivabradine",
+      "slug": "ivabradine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ivermectin",
+      "slug": "ivermectin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ivosidenib",
+      "slug": "ivosidenib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ixekizumab",
+      "slug": "ixekizumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ketamine",
+      "slug": "ketamine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ketoconazole",
+      "slug": "ketoconazole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ketoprofen",
+      "slug": "ketoprofen",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Labetalol",
+      "slug": "labetalol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lacosamide",
+      "slug": "lacosamide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lactulose",
+      "slug": "lactulose",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lamivudine",
+      "slug": "lamivudine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lamotrigine",
+      "slug": "lamotrigine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lanadelumab",
+      "slug": "lanadelumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Landiolol",
+      "slug": "landiolol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lanreotide",
+      "slug": "lanreotide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lansoprazole",
+      "slug": "lansoprazole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Laronidase",
+      "slug": "laronidase",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Larotrectinib",
+      "slug": "larotrectinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lasmiditan",
+      "slug": "lasmiditan",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Latanoprost",
+      "slug": "latanoprost",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Latanoprostene Bunod",
+      "slug": "latanoprostene_bunod",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lebrikizumab",
+      "slug": "lebrikizumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Leflunomide",
+      "slug": "leflunomide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lemborexant",
+      "slug": "lemborexant",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lenalidomide",
+      "slug": "lenalidomide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lenograstim",
+      "slug": "lenograstim",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lenvatinib",
+      "slug": "lenvatinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Letermovir",
+      "slug": "letermovir",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Letrozole",
+      "slug": "letrozole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Leuprolide",
+      "slug": "leuprolide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Levetiracetam",
+      "slug": "levetiracetam",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Levmetamfetamine",
+      "slug": "levmetamfetamine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Levobunolol",
+      "slug": "levobunolol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Levocarnitine",
+      "slug": "levocarnitine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome | 99.94% | L5 | Hold | No trials/literature; no plausible mechanism (this report's subject)",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Brain small vessel disease 1 with or without ocular anomalies | 99.94% | L5 | Hold | 19 PubMed hits are ocular-anomaly term mismatches (noise), not real evidence",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Diabetic nephropathy | 99.91% | L3 | Research Question | 2 trials (withdrawn/unknown status) + strong CPT1A/FAO mechanistic literature; no confirmatory RCT",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Rheumatoid arthritis | 99.87% | L2 | Research Question | Completed pilot RCT (n=15) + recruiting Phase 2 (n=60) + Phase 3 status-unknown (n=46); OCTN2/FAO mechanism",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Sclerosing cholangitis | 99.75% | L4 | Hold | Observational mitochondrial/lipid association only; no interventional data",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Gout | 99.74% | L4 | Hold | Shared SLC22/OCTN transporter association (Mendelian randomization) only; no carnitine interventional trials",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Brachydactyly-syndactyly syndrome | 99.66% | L5 | Hold | No evidence; rare skeletal dysplasia with no plausible mechanism",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Colobomatous microphthalmia-rhizomelic dysplasia syndrome | 99.63% | L5 | Hold | No evidence; rare congenital syndrome with no plausible mechanism",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Hypoalphalipoproteinemia | 99.45% | L4 | Hold | Association-only lipid/ABCA1 genetics literature; no interventional carnitine data",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Levodopa",
+      "slug": "levodopa",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Levofloxacin",
+      "slug": "levofloxacin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Levomilnacipran",
+      "slug": "levomilnacipran",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Benign paroxysmal torticollis of infancy | 99.53% | L5 | S0 | Hold (model itself flags as likely knowledge-graph noise)",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Agoraphobia | 99.53% | L4 | S1 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Dysthymic disorder | 99.24% | L4 | S1 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "**Melancholia** | 99.20% | L3 | S2 | **Proceed with Guardrails**",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Neurotic depression | 99.20% | L3 | S2 | Proceed with Guardrails",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Neurotic disorder | 99.19% | L5 | S0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Levonorgestrel",
+      "slug": "levonorgestrel",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Levothyroxine",
+      "slug": "levothyroxine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lidocaine",
+      "slug": "lidocaine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lifitegrast",
+      "slug": "lifitegrast",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Linaclotide",
+      "slug": "linaclotide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lincomycin",
+      "slug": "lincomycin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Liothyronine",
+      "slug": "liothyronine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lisinopril",
+      "slug": "lisinopril",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lithium Carbonate",
+      "slug": "lithium_carbonate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lofexidine",
+      "slug": "lofexidine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lomustine",
+      "slug": "lomustine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lonafarnib",
+      "slug": "lonafarnib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Loperamide",
+      "slug": "loperamide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lorazepam",
+      "slug": "lorazepam",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lorlatinib",
+      "slug": "lorlatinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Losartan",
+      "slug": "losartan",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Loteprednol Etabonate",
+      "slug": "loteprednol_etabonate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lovastatin",
+      "slug": "lovastatin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lubiprostone",
+      "slug": "lubiprostone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Luliconazole",
+      "slug": "luliconazole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lumateperone",
+      "slug": "lumateperone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lurasidone",
+      "slug": "lurasidone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lurbinectedin",
+      "slug": "lurbinectedin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lusutrombopag",
+      "slug": "lusutrombopag",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mafenide",
+      "slug": "mafenide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Magnesium Carbonate",
+      "slug": "magnesium_carbonate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Magnesium Salicylate",
+      "slug": "magnesium_salicylate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mannitol",
+      "slug": "mannitol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Maraviroc",
+      "slug": "maraviroc",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Multiple endocrine neoplasia | 99.82% | L5 | Hold | No known CCR5–MEN mechanistic link",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Acne (disease) | 99.76% | L5 | Hold | No known CCR5–acne link",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Primary cutaneous T-cell lymphoma | 99.72% | L4 | Hold | CTCL mainly involves CCR4, not CCR5; literature only tangential",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Pediatric SLE | 99.71% | L5 | Hold | CCR5Δ32/SLE link exists in general literature, but none cited here",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Primary cutaneous T-cell non-Hodgkin lymphoma | 99.50% | L4 | Hold | Duplicate of rank 3, same tangential citation",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Primary cutaneous B-cell lymphoma | 99.38% | L5 | Hold | No known mechanistic link",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Candidiasis | 99.28% | L4 | Hold | Cited literature describes candidiasis as an ART side effect, not a maraviroc treatment effect",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Complement component 4a deficiency | 99.24% | L5 | Hold | No known mechanistic link",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Cytomegalovirus infection | 99.23% | L4 | **Research Question** | CCR5's role in immune trafficking plausible in HIV/CMV co-infection, but evidence is indirect",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "HER2-positive breast carcinoma | 99.22% | L4 | **Research Question** | Strongest direct molecular rationale: CCL5 (CCR5's endogenous ligand) drives trastuzumab resistance via ERK — theoretically blockable by a CCR5 antagonist",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Margetuximab",
+      "slug": "margetuximab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mebendazole",
+      "slug": "mebendazole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mecamylamine",
+      "slug": "mecamylamine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mecasermin",
+      "slug": "mecasermin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mechlorethamine",
+      "slug": "mechlorethamine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Meclizine",
+      "slug": "meclizine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mefenamic Acid",
+      "slug": "mefenamic_acid",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Meloxicam",
+      "slug": "meloxicam",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Melphalan",
+      "slug": "melphalan",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Memantine",
+      "slug": "memantine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Meperidine",
+      "slug": "meperidine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mepivacaine",
+      "slug": "mepivacaine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mepolizumab",
+      "slug": "mepolizumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mercaptopurine",
+      "slug": "mercaptopurine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mercuric Iodide",
+      "slug": "mercuric_iodide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Meropenem",
+      "slug": "meropenem",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Metaxalone",
+      "slug": "metaxalone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Metformin",
+      "slug": "metformin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Methadone",
+      "slug": "methadone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Methazolamide",
+      "slug": "methazolamide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Methionine",
+      "slug": "methionine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Methocarbamol",
+      "slug": "methocarbamol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Irritable bowel syndrome | 99.98% | No known GI smooth-muscle mechanism",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Panuveitis | 99.96% | No anti-inflammatory/immune mechanism",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Anaphylaxis | 99.96% | 1 unrelated review (spider-bite management, incidental co-mention); no antihistamine/vasoactive mechanism",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Iris disease | 99.94% | No ocular mechanism",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Uveitis | 99.93% | No anti-inflammatory mechanism",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Ventricular tachycardia | 99.93% | 1 unrelated veterinary case report (lamotrigine toxicosis); no cardiac conduction mechanism",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Food-dependent exercise-induced anaphylaxis | 99.93% | No mast-cell mechanism",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Conjunctivitis | 99.93% | No antimicrobial/anti-inflammatory mechanism",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "\"Obsolete bundle branch block\" | 99.93% | Flagged as an obsolete disease-ontology term — likely knowledge-graph noise, not a real candidate",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Methohexital",
+      "slug": "methohexital",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Methotrexate",
+      "slug": "methotrexate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Methoxsalen",
+      "slug": "methoxsalen",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Methoxy Polyethylene Glycol-Epoetin Beta",
+      "slug": "methoxy_polyethylene_glycol-epoetin_beta",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Methsuximide",
+      "slug": "methsuximide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Methylene Blue",
+      "slug": "methylene_blue",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Bronchitis",
+          "score": 99.97,
+          "level": "L5"
+        },
+        {
+          "name": "Methemoglobinemia, Alpha Type",
+          "score": 99.36,
+          "level": "L3"
+        },
+        {
+          "name": "Methemoglobinemia due to Methemoglobin Reductase Deficiency",
+          "score": 99.36,
+          "level": "L4"
+        }
+      ]
+    },
+    {
+      "name": "Methylphenidate",
+      "slug": "methylphenidate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Methylprednisolone",
+      "slug": "methylprednisolone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Metoclopramide",
+      "slug": "metoclopramide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Metolazone",
+      "slug": "metolazone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Metreleptin",
+      "slug": "metreleptin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Metronidazole",
+      "slug": "metronidazole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Metyrapone",
+      "slug": "metyrapone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mexiletine",
+      "slug": "mexiletine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Micafungin",
+      "slug": "micafungin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Miconazole",
+      "slug": "miconazole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Midazolam",
+      "slug": "midazolam",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Midodrine",
+      "slug": "midodrine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Miglitol",
+      "slug": "miglitol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Miglustat",
+      "slug": "miglustat",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Milnacipran",
+      "slug": "milnacipran",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Miltefosine",
+      "slug": "miltefosine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Minocycline",
+      "slug": "minocycline",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Minoxidil",
+      "slug": "minoxidil",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mirtazapine",
+      "slug": "mirtazapine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Misoprostol",
+      "slug": "misoprostol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mitomycin",
+      "slug": "mitomycin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mitoxantrone",
+      "slug": "mitoxantrone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Modafinil",
+      "slug": "modafinil",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mogamulizumab",
+      "slug": "mogamulizumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Molindone",
+      "slug": "molindone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mometasone",
+      "slug": "mometasone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Montelukast",
+      "slug": "montelukast",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Morphine",
+      "slug": "morphine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Moxifloxacin",
+      "slug": "moxifloxacin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mupirocin",
+      "slug": "mupirocin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mycophenolate Mofetil",
+      "slug": "mycophenolate_mofetil",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mycophenolic Acid",
+      "slug": "mycophenolic_acid",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Nabilone",
+      "slug": "nabilone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Nabumetone",
+      "slug": "nabumetone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Nadolol",
+      "slug": "nadolol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Nafarelin",
+      "slug": "nafarelin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Naftifine",
+      "slug": "naftifine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Naphazoline",
+      "slug": "naphazoline",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Naproxen",
+      "slug": "naproxen",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Naratriptan",
+      "slug": "naratriptan",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Natalizumab",
+      "slug": "natalizumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Natamycin",
+      "slug": "natamycin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Nebivolol",
+      "slug": "nebivolol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Nefazodone",
+      "slug": "nefazodone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Nelarabine",
+      "slug": "nelarabine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Nepafenac",
+      "slug": "nepafenac",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Nevirapine",
+      "slug": "nevirapine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Niacin",
+      "slug": "niacin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Nicardipine",
+      "slug": "nicardipine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Nifurtimox",
+      "slug": "nifurtimox",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Nilotinib",
+      "slug": "nilotinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Nimodipine",
+      "slug": "nimodipine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Tamoxifen",
@@ -44638,6 +47897,17 @@
   ],
   "indications": [
     {
+      "name": "\"Obsolete bundle branch block\" | 99.93% | Flagged as an obsolete disease-ontology term — likely knowledge-graph noise, not a real candidate",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Methocarbamol",
+          "slug": "methocarbamol",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "**Bacterial arthritis** | **99.11%** | **L3** | **Proceed with Guardrails** | **Best actionable candidate**: documented efficacy for Lyme arthritis, Listeria arthritis, enterococcal arthritis; Phase 4 RCT (NCT04563325, 180 children, Denmark) supports oral therapy; must select susceptibility-guided cases",
       "drug_count": 1,
       "drugs": [
@@ -44655,6 +47925,17 @@
         {
           "drug": "Axitinib",
           "slug": "axitinib",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "**Melancholia** | 99.20% | L3 | S2 | **Proceed with Guardrails**",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Levomilnacipran",
+          "slug": "levomilnacipran",
           "score": 99.0
         }
       ]
@@ -44782,6 +48063,17 @@
           "drug": "Benzoyl Peroxide",
           "slug": "benzoyl_peroxide",
           "score": 99.43
+        }
+      ]
+    },
+    {
+      "name": "46,XY disorder of sex development",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Difluprednate",
+          "slug": "difluprednate",
+          "score": 99.47
         }
       ]
     },
@@ -44918,12 +48210,34 @@
       ]
     },
     {
+      "name": "ADHD (general) | 99.39% | L5 | Hold | Same issue as rank 1",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Flavoxate",
+          "slug": "flavoxate",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "ADHD, inattentive type | 99.57% | Weak AChE inhibition does not address dopamine/NE deficit; cholinergic crisis risk",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Diethyltoluamide",
           "slug": "diethyltoluamide",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "ADHD, inattentive type | 99.75% | L5 | Hold | Likely model noise — no CNS mechanism",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Flavoxate",
+          "slug": "flavoxate",
           "score": 99.0
         }
       ]
@@ -45096,6 +48410,17 @@
       ]
     },
     {
+      "name": "Acne (disease) | 99.76% | L5 | Hold | No known CCR5–acne link",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Maraviroc",
+          "slug": "maraviroc",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Aconitum napellus whole | Toxic botanical / Homeopathic ingredient",
       "drug_count": 1,
       "drugs": [
@@ -45182,6 +48507,17 @@
       ]
     },
     {
+      "name": "Acute Laryngopharyngitis",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Hydromorphone",
+          "slug": "hydromorphone",
+          "score": 99.75
+        }
+      ]
+    },
+    {
       "name": "Acute Laryngopharyngitis | 99.89% | L5 | Hold",
       "drug_count": 1,
       "drugs": [
@@ -45226,6 +48562,17 @@
       ]
     },
     {
+      "name": "Adrenocortical insufficiency",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Difluprednate",
+          "slug": "difluprednate",
+          "score": 99.67
+        }
+      ]
+    },
+    {
       "name": "Adult Astrocytic Tumour | 99.28% | L3 | Research Question",
       "drug_count": 1,
       "drugs": [
@@ -45233,6 +48580,28 @@
           "drug": "Bleomycin",
           "slug": "bleomycin",
           "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Agoraphobia | 99.53% | L4 | S1 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Levomilnacipran",
+          "slug": "levomilnacipran",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Allergic Urticaria",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Hydromorphone",
+          "slug": "hydromorphone",
+          "score": 99.81
         }
       ]
     },
@@ -45363,6 +48732,17 @@
         {
           "drug": "Activated Charcoal Anamirta Cocculus Seed Apis Mel",
           "slug": "activated_charcoal_anamirta_cocculus_seed_apis_mel",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Anaphylaxis | 99.96% | 1 unrelated review (spider-bite management, incidental co-mention); no antihistamine/vasoactive mechanism",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Methocarbamol",
+          "slug": "methocarbamol",
           "score": 99.0
         }
       ]
@@ -45654,6 +49034,17 @@
       ]
     },
     {
+      "name": "Autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome | 99.94% | L5 | Hold | No trials/literature; no plausible mechanism (this report's subject)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Levocarnitine",
+          "slug": "levocarnitine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "B-cell neoplasm | TxGNN Knowledge Graph",
       "drug_count": 19,
       "drugs": [
@@ -45832,6 +49223,17 @@
       ]
     },
     {
+      "name": "Benign paroxysmal torticollis of infancy | 99.53% | L5 | S0 | Hold (model itself flags as likely knowledge-graph noise)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Levomilnacipran",
+          "slug": "levomilnacipran",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Benzene | Industrial carcinogen",
       "drug_count": 1,
       "drugs": [
@@ -45920,6 +49322,17 @@
       ]
     },
     {
+      "name": "Brachydactyly-syndactyly syndrome | 99.66% | L5 | Hold | No evidence; rare skeletal dysplasia with no plausible mechanism",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Levocarnitine",
+          "slug": "levocarnitine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Braddock syndrome",
       "drug_count": 4,
       "drugs": [
@@ -45957,6 +49370,28 @@
       ]
     },
     {
+      "name": "Braddock syndrome | 99.81% | A rare genetic disorder with no known link to ACE inhibition; likely a knowledge-graph embedding artifact rather than a real signal.",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Fosinopril",
+          "slug": "fosinopril",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Brain small vessel disease 1 with or without ocular anomalies | 99.94% | L5 | Hold | 19 PubMed hits are ocular-anomaly term mismatches (noise), not real evidence",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Levocarnitine",
+          "slug": "levocarnitine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Brill-Zinsser disease | TxGNN Knowledge Graph",
       "drug_count": 1,
       "drugs": [
@@ -45964,6 +49399,17 @@
           "drug": "DOXYCYCLINE",
           "slug": "db00254",
           "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Bronchitis",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Methylene Blue",
+          "slug": "methylene_blue",
+          "score": 99.97
         }
       ]
     },
@@ -46082,6 +49528,17 @@
       ]
     },
     {
+      "name": "Candidiasis | 99.28% | L4 | Hold | Cited literature describes candidiasis as an ART side effect, not a maraviroc treatment effect",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Maraviroc",
+          "slug": "maraviroc",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Carbon Monoxide | Industrial gas",
       "drug_count": 1,
       "drugs": [
@@ -46142,6 +49599,17 @@
       ]
     },
     {
+      "name": "Cauda Equina Syndrome | 99.27% | L5 | Hold | Surgical emergency; symptomatic overlap only",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Flavoxate",
+          "slug": "flavoxate",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Chagas cardiomyopathy",
       "drug_count": 3,
       "drugs": [
@@ -46159,6 +49627,17 @@
           "drug": "Besifloxacin",
           "slug": "besifloxacin",
           "score": 99.16
+        }
+      ]
+    },
+    {
+      "name": "Chagas cardiomyopathy | 99.87% | L4 | S0 | Hold | Sole comparative study showed **no additive benefit** over benznidazole alone (negative finding)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Doxycycline",
+          "slug": "doxycycline",
+          "score": 99.0
         }
       ]
     },
@@ -46267,12 +49746,34 @@
       ]
     },
     {
+      "name": "Chronic gingivitis | 99.77% | **L2** | S2 | **Proceed with Guardrails** | Reflects sub-antimicrobial-dose doxycycline (SDD/Periostat), an MMP-inhibition mechanism already used clinically as a periodontal adjunct in some markets",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Doxycycline",
+          "slug": "doxycycline",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Chronic rhinosinusitis | 99.34% | L3 | Research Question | Indirect β-lactam evidence (amoxicillin-clavulanate studies); β-lactamase prevalence 50–80% limits plain ampicillin",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Ampicillin",
           "slug": "ampicillin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Chronic tic disorder | 99.19% | L3 | S1 | Research Question | 5 publications, incl. an 18-week open-label dose-escalation study in children/adolescents (PMID 18343255) and preclinical Tourette-model data (PMID 14643839, 16045972)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Donepezil",
+          "slug": "donepezil",
           "score": 99.0
         }
       ]
@@ -46368,6 +49869,28 @@
       ]
     },
     {
+      "name": "Colobomatous microphthalmia-rhizomelic dysplasia syndrome | 99.63% | L5 | Hold | No evidence; rare congenital syndrome with no plausible mechanism",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Levocarnitine",
+          "slug": "levocarnitine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Complement component 4a deficiency | 99.24% | L5 | Hold | No known mechanistic link",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Maraviroc",
+          "slug": "maraviroc",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Congenital Analbuminemia | 99.37% | L5 | Hold | ⚠️ Safety concern — high free-drug toxicity risk",
       "drug_count": 1,
       "drugs": [
@@ -46418,6 +49941,17 @@
         {
           "drug": "Bismuth Subsalicylate",
           "slug": "bismuth_subsalicylate",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Conjunctivitis | 99.93% | No antimicrobial/anti-inflammatory mechanism",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Methocarbamol",
+          "slug": "methocarbamol",
           "score": 99.0
         }
       ]
@@ -46596,6 +50130,17 @@
       ]
     },
     {
+      "name": "Cytomegalovirus infection | 99.23% | L4 | **Research Question** | CCR5's role in immune trafficking plausible in HIV/CMV co-infection, but evidence is indirect",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Maraviroc",
+          "slug": "maraviroc",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "D-Alpha-Tocopherol Acetate | Vitamin E",
       "drug_count": 1,
       "drugs": [
@@ -46629,6 +50174,17 @@
         {
           "drug": "Bimatoprost",
           "slug": "bimatoprost",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Diabetic nephropathy | 99.91% | L3 | Research Question | 2 trials (withdrawn/unknown status) + strong CPT1A/FAO mechanistic literature; no confirmatory RCT",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Levocarnitine",
+          "slug": "levocarnitine",
           "score": 99.0
         }
       ]
@@ -46769,6 +50325,28 @@
         {
           "drug": "GOLODIRSEN",
           "slug": "db15593",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Dysthymic disorder | 99.24% | L4 | S1 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Levomilnacipran",
+          "slug": "levomilnacipran",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Dysthymic disorder | 99.27% | L5 | S0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Isoflurane",
+          "slug": "isoflurane",
           "score": 99.0
         }
       ]
@@ -47001,6 +50579,17 @@
       ]
     },
     {
+      "name": "Exposure keratitis | 99.79% | L4 | S0 | Hold | Likely poor disease-term mapping — exposure keratitis is mechanical/structural, not infectious",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Doxycycline",
+          "slug": "doxycycline",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Extracutaneous Mastocytoma | 99.35% | L5 | Hold",
       "drug_count": 1,
       "drugs": [
@@ -47018,6 +50607,17 @@
         {
           "drug": "Dactinomycin",
           "slug": "dactinomycin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Extrapyramidal and movement disease | 99.16% | L3 | S1 | Hold | 4 publications, but evidence direction is mixed — a systematic review (PMID 40224553) documents AChEIs as a *cause* of movement disorders in Alzheimer's patients, opposing the predicted therapeutic direction",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Donepezil",
+          "slug": "donepezil",
           "score": 99.0
         }
       ]
@@ -47052,6 +50652,17 @@
           "drug": "Calaspargase Pegol",
           "slug": "calaspargase_pegol",
           "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Familial adrenal hypoplasia w/ absent pituitary LH",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Difluprednate",
+          "slug": "difluprednate",
+          "score": 99.96
         }
       ]
     },
@@ -47106,6 +50717,17 @@
         {
           "drug": "Alpha -Tocopherol Acetate D- Ascorbic Acid Choleca",
           "slug": "alpha_-tocopherol_acetate_d-_ascorbic_acid_choleca",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Food-dependent exercise-induced anaphylaxis | 99.93% | No mast-cell mechanism",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Methocarbamol",
+          "slug": "methocarbamol",
           "score": 99.0
         }
       ]
@@ -47166,6 +50788,17 @@
         {
           "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aluminum Oxide",
           "slug": "2_3_7_8-tetrachlorodibenzo-p-dioxin_aluminum_oxide",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Gastroduodenitis | 99.12% | L5 | Hold | Symptomatic overlap only, no disease-modifying link",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Flavoxate",
+          "slug": "flavoxate",
           "score": 99.0
         }
       ]
@@ -47350,6 +50983,17 @@
       ]
     },
     {
+      "name": "Gout | 99.74% | L4 | Hold | Shared SLC22/OCTN transporter association (Mendelian randomization) only; no carnitine interventional trials",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Levocarnitine",
+          "slug": "levocarnitine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Graphite | Homeopathic mineral",
       "drug_count": 1,
       "drugs": [
@@ -47393,6 +51037,17 @@
         {
           "drug": "PERTUZUMAB",
           "slug": "db06366",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "HER2-positive breast carcinoma | 99.22% | L4 | **Research Question** | Strongest direct molecular rationale: CCL5 (CCR5's endogenous ligand) drives trastuzumab resistance via ERK — theoretically blockable by a CCR5 antagonist",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Maraviroc",
+          "slug": "maraviroc",
           "score": 99.0
         }
       ]
@@ -47827,6 +51482,17 @@
       ]
     },
     {
+      "name": "Hypermobility of coccyx | 99.67% | L5 | S0 | Hold | Mechanically/structurally driven condition, not TNF-α-mediated; no trials or literature; likely a knowledge-graph false positive.",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Golimumab",
+          "slug": "golimumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Hyperthyroidism | No ACL–thyroid axis mechanistic link; KG topology artifact",
       "drug_count": 1,
       "drugs": [
@@ -47844,6 +51510,17 @@
         {
           "drug": "Bempedoic Acid",
           "slug": "bempedoic_acid",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Hypoalphalipoproteinemia | 99.45% | L4 | Hold | Association-only lipid/ABCA1 genetics literature; no interventional carnitine data",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Levocarnitine",
+          "slug": "levocarnitine",
           "score": 99.0
         }
       ]
@@ -47951,12 +51628,45 @@
       ]
     },
     {
+      "name": "Infection-related hemolytic uremic syndrome | 99.87% | L5 | S0 | Hold | No clinical trials or literature; model prediction only; theoretical toxin-release risk with antibiotics in STEC-HUS",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Doxycycline",
+          "slug": "doxycycline",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Infectious bovine rhinotracheitis | Veterinary disease; irrelevant to human repurposing",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Bempedoic Acid",
           "slug": "bempedoic_acid",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Infective urethral stricture | 99.88% | L4 | S0 | Hold | Antibiotics can prevent but not treat established fibrotic stricture",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Doxycycline",
+          "slug": "doxycycline",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Inflammatory spondylopathy | 99.66% | L1 | S3 | Proceed with Guardrails | Corresponds to ankylosing spondylitis/axial spondyloarthritis — an indication for which golimumab is already globally approved, with numerous completed Phase 3 RCTs (e.g. NCT00265083, NCT03270501). Not a novel hypothesis, but a strong candidate for Taiwan market entry.",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Golimumab",
+          "slug": "golimumab",
           "score": 99.0
         }
       ]
@@ -47995,12 +51705,45 @@
       ]
     },
     {
+      "name": "Iris disease | 99.94% | No ocular mechanism",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Methocarbamol",
+          "slug": "methocarbamol",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Iron Pentacarbonyl | Mineral — Iron",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Alpha -Tocopherol Acetate D- Ascorbic Acid Choleca",
           "slug": "alpha_-tocopherol_acetate_d-_ascorbic_acid_choleca",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Irritable Bowel Syndrome | 99.74% | L5 | Research Question | Plausible smooth-muscle class analogy (vs. mebeverine/alverine); unverified",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Flavoxate",
+          "slug": "flavoxate",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Irritable bowel syndrome | 99.98% | No known GI smooth-muscle mechanism",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Methocarbamol",
+          "slug": "methocarbamol",
           "score": 99.0
         }
       ]
@@ -48210,6 +51953,17 @@
           "drug": "Certolizumab Pegol",
           "slug": "certolizumab_pegol",
           "score": 99.7
+        }
+      ]
+    },
+    {
+      "name": "Kummell disease | 99.61% | L5 | S0 | Hold | Structural vertebral compression/avascular necrosis, not an autoimmune/inflammatory disease; no supporting evidence; likely knowledge-graph noise.",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Golimumab",
+          "slug": "golimumab",
+          "score": 99.0
         }
       ]
     },
@@ -48437,6 +52191,17 @@
       ]
     },
     {
+      "name": "Lingual-facial-buccal dyskinesia (tardive dyskinesia) | 99.02% | L3 | S2 | Research Question | 20 publications, including **2 Cochrane systematic reviews** on cholinergic drugs for antipsychotic-induced tardive dyskinesia (PMID 29553158, 12137608) — the most substantive evidence base in this batch",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Donepezil",
+          "slug": "donepezil",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Liposarcoma | 99.87% | L4 | 0 | 1 | Hold",
       "drug_count": 1,
       "drugs": [
@@ -48613,12 +52378,34 @@
       ]
     },
     {
+      "name": "Malignant renovascular hypertension | 99.87% | Same ACEi rationale as rank 1, but ACEi use carries a known acute renal-failure risk in (especially bilateral) renal artery stenosis — a safety concern, not just an efficacy question.",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Fosinopril",
+          "slug": "fosinopril",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Manic bipolar affective disorder | 99.55% | L5 | S0 | Hold",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Terazosin",
           "slug": "terazosin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Manic bipolar affective disorder | 99.57% | L3 | S1 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Isoflurane",
+          "slug": "isoflurane",
           "score": 99.0
         }
       ]
@@ -48662,6 +52449,28 @@
       ]
     },
     {
+      "name": "Methemoglobinemia due to Methemoglobin Reductase Deficiency",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Methylene Blue",
+          "slug": "methylene_blue",
+          "score": 99.36
+        }
+      ]
+    },
+    {
+      "name": "Methemoglobinemia, Alpha Type",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Methylene Blue",
+          "slug": "methylene_blue",
+          "score": 99.36
+        }
+      ]
+    },
+    {
       "name": "Methylcobalamin | Vitamin B12 analogue",
       "drug_count": 1,
       "drugs": [
@@ -48690,6 +52499,17 @@
         {
           "drug": "Carboprost Tromethamine",
           "slug": "carboprost_tromethamine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Migraine disorder | 99.06% | L4 | S1 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Isoflurane",
+          "slug": "isoflurane",
           "score": 99.0
         }
       ]
@@ -48821,6 +52641,17 @@
       ]
     },
     {
+      "name": "Multiple endocrine neoplasia | 99.82% | L5 | Hold | No known CCR5–MEN mechanistic link",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Maraviroc",
+          "slug": "maraviroc",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Multiple endocrine neoplasia | KG endocrine node clustering; no mechanistic link",
       "drug_count": 1,
       "drugs": [
@@ -48884,6 +52715,17 @@
       ]
     },
     {
+      "name": "Nasal Cavity Disease",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Hydromorphone",
+          "slug": "hydromorphone",
+          "score": 99.8
+        }
+      ]
+    },
+    {
       "name": "Nasal Cavity Disease | 99.91% | L4 | Hold",
       "drug_count": 1,
       "drugs": [
@@ -48891,6 +52733,17 @@
           "drug": "Caffeine",
           "slug": "caffeine",
           "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Necrobiosis lipoidica",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Difluprednate",
+          "slug": "difluprednate",
+          "score": 99.24
         }
       ]
     },
@@ -48906,12 +52759,56 @@
       ]
     },
     {
+      "name": "Nephrogenic syndrome of inappropriate antidiuresis | 99.09% | L5 | S0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Isoflurane",
+          "slug": "isoflurane",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Nephrotic syndrome",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Difluprednate",
+          "slug": "difluprednate",
+          "score": 99.21
+        }
+      ]
+    },
+    {
       "name": "Neuralgia | 99.34% | L3 | Research Question",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Caffeine",
           "slug": "caffeine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Neurotic depression | 99.20% | L3 | S2 | Proceed with Guardrails",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Levomilnacipran",
+          "slug": "levomilnacipran",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Neurotic disorder | 99.19% | L5 | S0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Levomilnacipran",
+          "slug": "levomilnacipran",
           "score": 99.0
         }
       ]
@@ -49070,6 +52967,17 @@
       ]
     },
     {
+      "name": "Otitis externa | 99.90% | L4 | S0 | Hold | 6/7 literature items are veterinary (canine); no human trials",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Doxycycline",
+          "slug": "doxycycline",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Ovarian myxoid liposarcoma | 99.84% | L5 | 0 | 0 | Hold",
       "drug_count": 1,
       "drugs": [
@@ -49081,12 +52989,34 @@
       ]
     },
     {
+      "name": "PAGOD syndrome",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Difluprednate",
+          "slug": "difluprednate",
+          "score": 99.93
+        }
+      ]
+    },
+    {
       "name": "Pancreatic adenosquamous carcinoma | 99.99% | L5 | Hold",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Cemiplimab",
           "slug": "cemiplimab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Panuveitis | 99.96% | No anti-inflammatory/immune mechanism",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Methocarbamol",
+          "slug": "methocarbamol",
           "score": 99.0
         }
       ]
@@ -49214,6 +53144,17 @@
       ]
     },
     {
+      "name": "Pediatric SLE | 99.71% | L5 | Hold | CCR5Δ32/SLE link exists in general literature, but none cited here",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Maraviroc",
+          "slug": "maraviroc",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Pediculus humanus capitis infestation | TxGNN Knowledge Graph",
       "drug_count": 5,
       "drugs": [
@@ -49267,6 +53208,17 @@
         {
           "drug": "Canakinumab",
           "slug": "canakinumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Peptic Ulcer Disease | 99.10% | L5 | Hold | Outdated anticholinergic-adjuvant rationale",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Flavoxate",
+          "slug": "flavoxate",
           "score": 99.0
         }
       ]
@@ -49353,6 +53305,17 @@
           "drug": "BENZOIC ACID",
           "slug": "db03793",
           "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Pharyngitis (top score)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Hydromorphone",
+          "slug": "hydromorphone",
+          "score": 99.81
         }
       ]
     },
@@ -49556,6 +53519,17 @@
       ]
     },
     {
+      "name": "Polyarticular juvenile rheumatoid arthritis | 99.59% | L1 | S3 | Proceed with Guardrails | Shares TNF-α-driven synovitis mechanism with adult RA; IV golimumab has completed Phase 3 support (GO-VIVA-type trial, NCT02277444), though the SC formulation trial (NCT01230827) was terminated without meeting its primary endpoint — formulation-specific efficacy differences should be tracked.",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Golimumab",
+          "slug": "golimumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Polyclonal Hyperviscosity Syndrome | 99.39% | L5 | Hold | No mechanistic link; KG algorithmic artefact",
       "drug_count": 1,
       "drugs": [
@@ -49611,6 +53585,39 @@
       ]
     },
     {
+      "name": "Post-bacterial disorder | 99.89% | **L1** | S3 | **Proceed with Guardrails** | Largely aggregates *established* doxycycline uses (Lyme/erythema migrans, tick-borne relapsing fever, STI PrEP/PEP) — closer to on-label than true repurposing",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Doxycycline",
+          "slug": "doxycycline",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Post-infectious syndrome | 99.89% | L2 | S2 | Research Question | Heterogeneous bucket (Q-fever fatigue syndrome, TB host-directed therapy, Kawasaki disease); needs sub-indication scoping",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Doxycycline",
+          "slug": "doxycycline",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Postinfectious vasculitis | 99.89% | L4 | S1 | Research Question | Plausible only if etiology is rickettsial (RMSF); case-report level only",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Doxycycline",
+          "slug": "doxycycline",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Potassium Iodide | Mineral — Iodine",
       "drug_count": 1,
       "drugs": [
@@ -49661,6 +53668,50 @@
         {
           "drug": "Bleomycin",
           "slug": "bleomycin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Primary cutaneous B-cell lymphoma | 99.38% | L5 | Hold | No known mechanistic link",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Maraviroc",
+          "slug": "maraviroc",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Primary cutaneous T-cell lymphoma | 99.72% | L4 | Hold | CTCL mainly involves CCR4, not CCR5; literature only tangential",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Maraviroc",
+          "slug": "maraviroc",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Primary cutaneous T-cell non-Hodgkin lymphoma | 99.50% | L4 | Hold | Duplicate of rank 3, same tangential citation",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Maraviroc",
+          "slug": "maraviroc",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Prinzmetal angina | 99.67% | L5 | S0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Isoflurane",
+          "slug": "isoflurane",
           "score": 99.0
         }
       ]
@@ -49831,6 +53882,17 @@
       ]
     },
     {
+      "name": "Pulmonary hypertension due to lung disease/hypoxia (WHO Group 3) | 99.87% | 20 literature hits returned, but on review all are basic hypoxia/neurodegeneration/oncology studies unrelated to fosinopril or this indication — a keyword-matching false positive, not real evidence.",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Fosinopril",
+          "slug": "fosinopril",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Pulmonary hypertension, lung disease/hypoxia | 99.81% | L5 | 0 | 20 (none relevant to amiloride) | Hold",
       "drug_count": 1,
       "drugs": [
@@ -49853,6 +53915,17 @@
       ]
     },
     {
+      "name": "Pulmonary hypertension, unclear/multifactorial mechanism (WHO Group 5) | 99.87% | No established ACEi mechanism for this heterogeneous group; mechanistic link is weak.",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Fosinopril",
+          "slug": "fosinopril",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Pulsatilla Vulgaris（白頭翁） | 泌尿道、婦科（順勢）",
       "drug_count": 1,
       "drugs": [
@@ -49870,6 +53943,17 @@
         {
           "drug": "Bismuth Subsalicylate",
           "slug": "bismuth_subsalicylate",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Punctate epithelial keratoconjunctivitis | 99.94% | L4 | S0 | Hold | 1 case report; mechanistic link weak/negative",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Doxycycline",
+          "slug": "doxycycline",
           "score": 99.0
         }
       ]
@@ -49994,6 +54078,17 @@
         {
           "drug": "RIVASTIGMINE",
           "slug": "db00989",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Rheumatoid arthritis | 99.87% | L2 | Research Question | Completed pilot RCT (n=15) + recruiting Phase 2 (n=60) + Phase 3 status-unknown (n=46); OCTN2/FAO mechanism",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Levocarnitine",
+          "slug": "levocarnitine",
           "score": 99.0
         }
       ]
@@ -50196,6 +54291,39 @@
       ]
     },
     {
+      "name": "Sclerosing cholangitis | 99.75% | L4 | Hold | Observational mitochondrial/lipid association only; no interventional data",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Levocarnitine",
+          "slug": "levocarnitine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Seborrheic dermatitis",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Difluprednate",
+          "slug": "difluprednate",
+          "score": 99.53
+        }
+      ]
+    },
+    {
+      "name": "Seborrheic keratosis",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Difluprednate",
+          "slug": "difluprednate",
+          "score": 99.96
+        }
+      ]
+    },
+    {
       "name": "Semecarpus anacardium juice | Botanical (marking nut, toxic resin)",
       "drug_count": 1,
       "drugs": [
@@ -50301,6 +54429,17 @@
         {
           "drug": "Apis Mellifera Arctium Lappa Root Arctostaphylos U",
           "slug": "apis_mellifera_arctium_lappa_root_arctostaphylos_u",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Specific Developmental Disorder | 99.56% | L5 | Hold | Non-specific disease term, no mechanistic link",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Flavoxate",
+          "slug": "flavoxate",
           "score": 99.0
         }
       ]
@@ -50600,6 +54739,17 @@
       ]
     },
     {
+      "name": "Tourette syndrome | 99.61% | L5 | S0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Isoflurane",
+          "slug": "isoflurane",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Tourette syndrome | TxGNN Knowledge Graph",
       "drug_count": 2,
       "drugs": [
@@ -50660,6 +54810,28 @@
           "drug": "DEXAMETHASONE",
           "slug": "db01234",
           "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Trichotillomania | 99.54% | L5 | S0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Isoflurane",
+          "slug": "isoflurane",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Trigeminal Autonomic Cephalalgia",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Hydromorphone",
+          "slug": "hydromorphone",
+          "score": 99.58
         }
       ]
     },
@@ -50800,6 +54972,17 @@
       ]
     },
     {
+      "name": "Uveitis | 99.93% | No anti-inflammatory mechanism",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Methocarbamol",
+          "slug": "methocarbamol",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Varicose disease | 99.33% | Research Question | Biologically plausible: IGF-1R drives VSMC proliferation and venous wall remodeling; warranting basic science inquiry only",
       "drug_count": 1,
       "drugs": [
@@ -50817,6 +55000,17 @@
         {
           "drug": "Caffeine",
           "slug": "caffeine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Ventricular tachycardia | 99.93% | 1 unrelated veterinary case report (lamotrigine toxicosis); no cardiac conduction mechanism",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Methocarbamol",
+          "slug": "methocarbamol",
           "score": 99.0
         }
       ]
@@ -50851,6 +55045,17 @@
           "drug": "7-Keto-Dehydroepiandrosterone Adenosine Triphospha",
           "slug": "7-keto-dehydroepiandrosterone_adenosine_triphospha",
           "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Vulvar inverted follicular keratosis",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Difluprednate",
+          "slug": "difluprednate",
+          "score": 99.92
         }
       ]
     },

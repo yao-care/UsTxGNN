@@ -1,15 +1,15 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-08-30T16:17:38.176824+00:00",
-  "total_fetched": 131,
-  "unique_count": 131,
-  "health_related_count": 59,
+  "fetched_at": "2026-08-30T20:44:46.946780+00:00",
+  "total_fetched": 130,
+  "unique_count": 130,
+  "health_related_count": 65,
   "news": [
     {
       "id": "d0e81194ddc5",
       "title": "How did nine children die in a 1991 Pennsylvania measles outbreak? - Pittsburgh Post-Gazette",
-      "published": "2026-08-30T15:29:40+00:00",
-      "summary": "How did nine children die in a 1991 Pennsylvania measles outbreak?&nbsp;&nbsp;Pittsburgh Post-GazetteA newborn baby was one of Pa.’s two measles-related deaths, state says as RFK Jr. questions whether they were ‘fabricated’&nbsp;&nbsp;Inquirer.comTwo Unvaccinated People Died From Measles in Pennsylvania, Officials Say&nbsp;&nbsp;The New York TimesAs a measles outbreak escalates in Pennsylvania’s Amish Country, exposures rattle people at risk&nbsp;&nbsp;CNNPolitical feud between Gov. Shapiro and ",
+      "published": "2026-08-30T20:00:20+00:00",
+      "summary": "How did nine children die in a 1991 Pennsylvania measles outbreak?&nbsp;&nbsp;Pittsburgh Post-GazetteOpinion | How Not to Announce a Measles Death&nbsp;&nbsp;The New York TimesA newborn baby was one of Pa.’s two measles-related deaths, state says as RFK Jr. questions whether they were ‘fabricated’&nbsp;&nbsp;Inquirer.comPolitical feud between Gov. Shapiro and Robert F. Kennedy Jr. erupts into high-stakes battle over vaccine safety&nbsp;&nbsp;Pittsburgh Post-GazettePregnant women among those sick",
       "sources": [
         {
           "name": "Pittsburgh Post-Gazette",
@@ -18,10 +18,22 @@
       ]
     },
     {
+      "id": "430f9c33ff18",
+      "title": "Statins can reduce dementia risk by up to 15%, long-term study suggests - The Guardian",
+      "published": "2026-08-30T19:03:00+00:00",
+      "summary": "Statins can reduce dementia risk by up to 15%, long-term study suggests&nbsp;&nbsp;The GuardianSTAREE: Statins Cut MACE Risk by 30% in Older Adults With No CVD History&nbsp;&nbsp;TCTMD.comEarly initiation of statins after diagnosis of type 2 diabetes associated with a lower risk of dementia&nbsp;&nbsp;Medical XpressSTAREE Trial: Atorvastatin Cuts Major CV Events by 30% in Older Adults, Driven Mainly by Nonfatal Events&nbsp;&nbsp;MedscapeStatins could cut dementia risk for millions&nbsp;&nbsp;The",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e080dad06dee",
       "title": "The screenings and other habits doctors recommend as early-onset cancers rise - The Washington Post",
-      "published": "2026-08-30T15:07:15+00:00",
-      "summary": "The screenings and other habits doctors recommend as early-onset cancers rise&nbsp;&nbsp;The Washington Post",
+      "published": "2026-08-30T18:44:41+00:00",
+      "summary": "The screenings and other habits doctors recommend as early-onset cancers rise&nbsp;&nbsp;The Washington PostWe’re getting cancer younger. Here’s how to reduce your risk&nbsp;&nbsp;The TelegraphYoung adults getting cancer: Is genetics playing a bigger role?&nbsp;&nbsp;theweek.inYounger Generations May Be Ageing Faster Than Their Parents, Raising Concerns About Earlier Cancer Risk&nbsp;&nbsp;Newswav",
       "sources": [
         {
           "name": "The Washington Post",
@@ -30,14 +42,26 @@
       ]
     },
     {
-      "id": "430f9c33ff18",
-      "title": "Statins can reduce dementia risk by up to 15%, long-term study suggests - The Guardian",
-      "published": "2026-08-30T14:03:00+00:00",
-      "summary": "Statins can reduce dementia risk by up to 15%, long-term study suggests&nbsp;&nbsp;The GuardianSTAREE: Statins Cut MACE Risk by 30% in Older Adults With No CVD History&nbsp;&nbsp;TCTMD.comSTAREE Trial: Atorvastatin Cuts Major CV Events by 30% in Older Adults, Driven Mainly by Nonfatal Events&nbsp;&nbsp;MedscapeStatins cut first heart attack and stroke risk 30% after age 70&nbsp;&nbsp;Medical XpressThis common medication cuts heart attack risk in older people&nbsp;&nbsp;SMH.com.au",
+      "id": "b0213bf1831a",
+      "title": "Possible measures exposure at Holiday Inn Express in Asheville - WRAL",
+      "published": "2026-08-30T18:15:37+00:00",
+      "summary": "Possible measures exposure at Holiday Inn Express in Asheville&nbsp;&nbsp;WRALPotential measles exposure reported at Asheville hotel, NCDHHS says&nbsp;&nbsp;WLOSMeasles case confirmed in Buncombe County, NCDHHS says&nbsp;&nbsp;WSPA 7NewsOfficials: Measles case reported in Asheville hotel&nbsp;&nbsp;FOX Carolina NewsHealth officials investigate possible measles exposure in Buncombe County&nbsp;&nbsp;ABC11 News",
       "sources": [
         {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU052c1R3OWVxcm5RenFDdGdIS3hwYm96dm1kYW56X2duc3VfV25XZDdZZW9FdmZHbm1fWHVPdVF0OWx5WVpkZW5qcmJBbkc3VDBMendrMnpQOVdqdjVYTUg2OTAzcGxmYTRmSkVJZWFCcElZVF9qTm9fdF81Wm9RTzN4c1FCQ2l3Nzg2QzVzMlRkV3RqSEZhTA?oc=5"
+          "name": "WRAL",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbUFFWjhCRnZyOGFIR2lOME9ialZOa1pveEc3b2pzRzdTQzM5X2k1SmhKcXhWaVctTWhGcG9YLWtWcjBESXduNUxvQUNyalpKU1NVektUWGRPVmFGVnlyUEpLOUhkV3A2aWNEbmdaUzRPQnJQM3o1Uksyd3ZnWmYzRzd0a3JXODJqc1lqbFpILWJFcFhWVThheUtLU3pxcHNn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d51daa5664d8",
+      "title": "Common supplements rival antibiotics for severe gum disease - Science Daily",
+      "published": "2026-08-30T14:35:54+00:00",
+      "summary": "Common supplements rival antibiotics for severe gum disease&nbsp;&nbsp;Science Daily",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MZk9QS0s0aGcwUmZPanRrZHZubnpxellteUtjR1dmTGZQVDVyT3luaFNQbnEweDZ6TWpGQVp2X0FaV2dGQTZkNzFia3lQYUF4VXdiS0hGcnYzMDNIc2tUZl9hWHJlY0FyUUtvVDAwTQ?oc=5"
         }
       ]
     },
@@ -54,6 +78,18 @@
       ]
     },
     {
+      "id": "8944e6e19d19",
+      "title": "Colorectal cancer is rising among younger adults. One woman’s story shows why screening matters - MLive.com",
+      "published": "2026-08-30T13:00:00+00:00",
+      "summary": "Colorectal cancer is rising among younger adults. One woman’s story shows why screening matters&nbsp;&nbsp;MLive.comHHS Sec RFK Jr.: \"We're Seeing An Explosion In All Cancers In Young People\"&nbsp;&nbsp;YahooFederal, bipartisan legislation promotes earlier screening of colorectal cancer&nbsp;&nbsp;WSFANicholas Hornstein: Distinct Molecular Features Across Age Groups in Colorectal Cancer&nbsp;&nbsp;OncodailyWe Asked a Doctor What Young Adults Should Know About Colorectal Cancer&nbsp;&nbsp;Verywel",
+      "sources": [
+        {
+          "name": "MLive.com",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVXdvQlR2c2VfelFrWHZaWXkwaDlqRWZ4eE13M0ZmdUFfeU9vZEhUYlc4S3JvdG9oR0RvdVc3SVRaQ0ZyMzZsZHZGa3NocldOVVlHeHNWZVp1enNIaFRUMjBwdHl4Ym1KX2Ztc2RDTzFTX0thYzJxT2ZMOHZLQVVubkpueHU1WmlLbTdGdDJtdkZNVEFjNzIyQkRiNVczT1I4eDEwYWNwRzR0Q0tyYkRwRlUwZlQtX2F4OHNSZm1YTTdmb1NNQWpqSW5vV0NkbGFtODR3SzJB0gHqAUFVX3lxTE1TN0hoc2FsWENHUElCY3dHTjZWV2N4cDl6SEtxRnBBR3c2b1p0LTQ2bV94eDVGamJaUDZkSzJ3Yms2NWMwcFhMVHNNN1dXYjlGaXYxaVRLa0JXWUNaTGZQWDVyTHJ0cURsQ1ZUckVhd2Eya216Y3dscWxHM3EtV1FJT0EweWNFeUV6ZTJzUTFuQk9jRGdBaEpFM1JMbzQ1Z3hFSDM3ZzktRHkxb3h6V1JLM0ZjUWtnX0dTdm9Bb21VcnJvWjZyMjVqMUVQWmFUTVNkV1lnay1JTzlnNkE4YzhfSjJ4TGsyWDI5dw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1de167023b3d",
       "title": "This Habit May Raise Dementia Risk by 43%, According to Research - EatingWell",
       "published": "2026-08-30T12:20:00+00:00",
@@ -62,6 +98,18 @@
         {
           "name": "EatingWell",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFZXd4NktrQ1ZHa0hTX1ZkcGNlVzVQQ25QREhLMFZLelhsOUN3RmthUVJGLU5GWDhiS1F1UUR3Uk80T0lTdzJOQ3g4bjctUXR5RzRZSkNYYm1tSDUxb0w5dm1WWjJuQUdNYUJhVG5B?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f07e83de4b37",
+      "title": "Arthritis drug restores 100% hair on 1 in 5 alopecia patients in global trial - South China Morning Post",
+      "published": "2026-08-30T12:00:09+00:00",
+      "summary": "Arthritis drug restores 100% hair on 1 in 5 alopecia patients in global trial&nbsp;&nbsp;South China Morning PostAlopecia: Common Arthritis Drug Shows Promise for Hair Regrowth&nbsp;&nbsp;HealthlineAlopecia areata: Rheumatoid arthritis drug may treat hair loss&nbsp;&nbsp;Medical News TodayRheumatoid arthritis drug also may help people with hair loss caused by severe alopecia&nbsp;&nbsp;PhillyVoiceQ&amp;A: Upadacitinib's Safety Profile and Role in Severe Alopecia Areata Care&nbsp;&nbsp;HCPLive",
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUmE5TTZCV19VdEI2RVNXdzVfQ25uVzVTTUhZYmFvdFo2eDZJcHFRV1dSUDFHSVJjQnVqRUFBb0d3SkFkZUNGcUZQVTVLZ2s0UWlsUVEwUVI4NzZILVp0OFVGQko3WlV3N0JWNWtBVGw2YS1yQUUyaE9RLUZSZ1RlUERPZWpRYlJXYWR3djlwRmVVWVFoVE5PcjZWQXJmWUZoMnZ1U1pZX0RvVUlGaVBkMkwxSFpxSUV4RHVIS0VDLXRjSjljeU5EbWdYWdIBywFBVV95cUxOQkkzRkdpdGwzenI4eExla0pmZTY4ZUZ3ek15NHVpMUJES3F2MDNKQUpZcmpUaDh4eXV0dzlqR05YMjRjNkVJMEJybmZqeUVOOXYwdlNlUk9lb1lBa0VyN2xwX0s3VkJCUGFsaGw3QnRXdG13TzJwLWRjVnBLbEE1WVY2M0NSVG5iU1RhMmhKRElnNk5mRGd5dlBUNmhtaXZ1a1Z0Tk5NSHFPRk1HZHU5NmVzNnRwWnZpV3BWLWRPSjZkUHRpalpMa0FfWQ?oc=5"
         }
       ]
     },
@@ -78,18 +126,6 @@
       ]
     },
     {
-      "id": "f61dd31894b0",
-      "title": "Sweetener used in Jam may be linked to increased strokes and heart attacks - The Independent",
-      "published": "2026-08-30T10:07:00+00:00",
-      "summary": "Sweetener used in Jam may be linked to increased strokes and heart attacks&nbsp;&nbsp;The IndependentSweetener used in chewing gum and jam linked to strokes and heart attacks&nbsp;&nbsp;The GuardianSweetener used in chewing gum may raise heart and stroke risk&nbsp;&nbsp;The TimesMillions use a sugar substitute—new research raises a heart health risk&nbsp;&nbsp;NewsweekHigher blood xylitol levels linked to risk of cardiovascular events&nbsp;&nbsp;UA.NEWS",
-      "sources": [
-        {
-          "name": "The Independent",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSjhzTDNXcXBfUXRDcWNzNEJULXFWMnI0b0VQLVRqV0VVYVQ0aFFzejZ1XzlXenhncUhFVHFXY1JKQ1g4WTBhbkhEWExNeGswM0V2cU9PMUlHT2t2N2lHY0g0ZG1hWkdjWUpoN1hiNHBBUTJkQzVkaVNFaVJDdFV5clhOZjdGMVNYTmhNb1VFekNyNXloRk9iT3ZUZmtuQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c23d1da124cd",
       "title": "A rare cancer stalks children in this wealthy O.C. suburb. Parents desperate to unlock mystery - Los Angeles Times",
       "published": "2026-08-30T10:00:00+00:00",
@@ -98,6 +134,18 @@
         {
           "name": "Los Angeles Times",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONUxyOXBGMDNJQlNTb1FXd29ydFRHWV9aYU5nTk55ZHFDOTlLemtNT0podk5sU05FQWdlUjhrVm1Bd2toR3ZVWEI4a0JIakdpQUpRWGZJSjNfMHU4RzZSb3c2VlJzcnk1QlpsaWt4UTZpd2hQRGZKbHBTWTc1Nnh3TFhsa0tFbG5tTjV2VWNONS1xLWhCbTJCMkQ2eGNMRlNQN2Z5OHgxbnFFY2xmalpV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "90e31b3a8ff8",
+      "title": "Scientists Create the Littlest Big Bang to Study the Universe’s Origins - WIRED",
+      "published": "2026-08-30T09:00:00+00:00",
+      "summary": "Scientists Create the Littlest Big Bang to Study the Universe’s Origins&nbsp;&nbsp;WIREDCERN’s ALICE reports smaller Big Bangs: oxygen and neon make quark-gluon plasma&nbsp;&nbsp;en.softonic.comOxygen collisions reveal how quark–gluon matter approaches equilibrium&nbsp;&nbsp;Phys.orgOxygen Collisions Show Quark-Gluon Matter Equilibrium&nbsp;&nbsp;Mirage News",
+      "sources": [
+        {
+          "name": "WIRED",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeFgySndNN2o2aTlkVk5tWHhTRndodUpzaVZ3RmVPMy1CUk1OaHZFRWtNcl9ZVlFaVUZwczJUWnY5dVVPNkR3LVNtdGU0U2stbHlXc3R6SVpOdmJCMU5xTkFSUkM4VzRndnk4Wl9MMF94VDB0TkNwaUNkQXIyc0kwMTBDYTh1OTlxbUIyN0tsUk1TZm5Q?oc=5"
         }
       ]
     },
@@ -129,7 +177,7 @@
       "id": "c92f9f56d153",
       "title": "Davidson County warns of rabies exposure after four goats test positive at Lexington petting zoo - WXII",
       "published": "2026-08-30T00:42:00+00:00",
-      "summary": "Davidson County warns of rabies exposure after four goats test positive at Lexington petting zoo&nbsp;&nbsp;WXIIBaby goats had rabies at NC petting zoo, attendees urged to contact health officials&nbsp;&nbsp;CNN4 rabid goats linked to traveling petting zoo that visited Durham County&nbsp;&nbsp;WRALRabies warnings issued in multiple Charlotte-area counties&nbsp;&nbsp;WCNCPetting zoo owner speaks out after goats were euthanized following rabies infection&nbsp;&nbsp;WSOC TV",
+      "summary": "Davidson County warns of rabies exposure after four goats test positive at Lexington petting zoo&nbsp;&nbsp;WXIIBaby goats had rabies at NC petting zoo, attendees urged to contact health officials&nbsp;&nbsp;CNN4 rabid goats linked to traveling petting zoo that visited Durham County&nbsp;&nbsp;WRALRabies outbreak at North Carolina mobile petting zoo triggers health warning&nbsp;&nbsp;WBTVRabies Exposure Confirmed at Boone Birthday Party, AppHealthCare Urges Attendees to Call&nbsp;&nbsp;WataugaOn",
       "sources": [
         {
           "name": "WXII",
@@ -141,7 +189,7 @@
       "id": "b14e165fe72d",
       "title": "3 states battling new measles outbreaks. What to know - USA Today",
       "published": "2026-08-30T00:32:00+00:00",
-      "summary": "3 states battling new measles outbreaks. What to know&nbsp;&nbsp;USA TodayWisconsin Dept. of Health Services reports ‘significant’ rise in measles cases&nbsp;&nbsp;KCRGAlmost 100 measles cases now tied to southwest Wisconsin outbreak&nbsp;&nbsp;Milwaukee Journal SentinelPotential measles exposure announced at Warren hospital&nbsp;&nbsp;WKBN.com92 confirmed, 6 probable measles cases in southwest Wisconsin&nbsp;&nbsp;Channel 3000",
+      "summary": "3 states battling new measles outbreaks. What to know&nbsp;&nbsp;USA TodayUW Health officials address measles vaccine misconceptions&nbsp;&nbsp;WBAYAlmost 100 measles cases now tied to southwest Wisconsin outbreak&nbsp;&nbsp;Milwaukee Journal Sentinel92 confirmed, 6 probable measles cases in southwest Wisconsin&nbsp;&nbsp;Channel 3000Wisconsin Dept. of Health Services reports ‘significant’ rise in measles cases&nbsp;&nbsp;KCRG",
       "sources": [
         {
           "name": "USA Today",
@@ -162,6 +210,18 @@
       ]
     },
     {
+      "id": "8675fa141663",
+      "title": "Unvaccinated adult tests positive for measles in Wayne County, heath department says - WTHR",
+      "published": "2026-08-29T21:32:00+00:00",
+      "summary": "Unvaccinated adult tests positive for measles in Wayne County, heath department says&nbsp;&nbsp;WTHRMeasles outbreak reaches 7 confirmed cases with 27 more suspected in Wayne County&nbsp;&nbsp;News 5 Cleveland WEWSWayne County reports 5 confirmed measles cases; another 29 cases suspected or probable&nbsp;&nbsp;FOX 8 NewsState health department confirms Wayne County resident has measles&nbsp;&nbsp;Pal-ItemFour measles cases diagnosed in Knox County&nbsp;&nbsp;Knox Pages",
+      "sources": [
+        {
+          "name": "WTHR",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcGtWVzhxQ2FHTzhEVlFJVHktbndrYjh5a0kyX1BTcVZVbWU4Y1djcF9TRzlTdXdjTHdPMmQ2clRpZVFKaGlhWnhGWUNtZ2tQckh6OHo4MGFkM3FVUTk1Z3FKakpfNnh0WUExbThkcnBOeWppU09jU2xaWUE1eTQ2NlFHYmR3SmpzZzhDVzFuYVFxRmNJd3Q2T3M3VWsxV0MxQlR0eWJ1MDM0LTRpOEYyd1FfcEFJX0w1UFlKVGFxVTBMYWk3TzZiS1pMekthZmRra3RHUHBkQ2JiN01rSlZfb1BwV1NfVXJGa2ljbWM3MWlnYVBYLUFVRF9hUktIQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f105c57f1017",
       "title": "The last woolly mammoths survived on Wrangel Island until about 4,000 years ago, and a 2024 genetic study found inbreeding had not doomed them to a slow decline — their population appears to have vanished suddenly, for reasons that remain unresolved - Space Daily",
       "published": "2026-08-29T20:00:35+00:00",
@@ -170,6 +230,18 @@
         {
           "name": "Space Daily",
           "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPZlNlRFoyUnBXTS1YWmtTcGRmcUxhZG0wMXpWZV9LS3FBXzhDcDEtSXo0Q1NFVF85U3AtaFBTLW54eHljN3pHSFlfVXV0cGtQWXhoenVqUmJ0dlZkVVZ6NmExUUdSQU8zWTg2cHN4Y0VUazZzUmNyVjRjVkdvZmNCelVIODNORXZGdFM5ekZqbkNiaG1GNjN1VVZIRUhIRzdoOHI1YmRqeEtHaGpydWFuUnhVZUdoSld3blEybndkVHQ1amltNmREdmxSb1h4TUFha1ppTmVaR0dSZHFwN2ZYVHB0M3c4eTlmU0JOU3NQcmxwOElPMzY4MnVEZWwxVzNHLTFsWi1JUGR1YVR1T0p4Qk5qRUktZTNicmhZVkw4TkdXZ3l6ektON21UOUJuS0U?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "42eb6650508b",
+      "title": "I’m a neurologist — the best stimulation for the brain isn’t what you think - New York Post",
+      "published": "2026-08-29T18:40:00+00:00",
+      "summary": "I’m a neurologist — the best stimulation for the brain isn’t what you think&nbsp;&nbsp;New York Post‘Help senior folk age with purpose’&nbsp;&nbsp;The StarIt May Be Easier To Strengthen Your Brain Than Scientists Once Thought&nbsp;&nbsp;MindBodyGreenA three-year online study involving 3,966 adults aged 19 to 94 found that a composite measure of cognitive clarity, emotional wellbeing and social connection could improve across adulthood — reinforcing that ageing does not eliminate the brain’s capa",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNekdjRUgtSllGQ2JlYUZHWi00MHNhUFZIRVF1cUJmaFNFQXI3dHFncXAzLXpVZGhmaVVBSzBpZkpUYzlNNzRndU1LQnVxUW9vN3ZHU09ZVlRUOWhZRGZDX0M5YlNzeG1FVGNzVUZZb1lmREpEc1ZLRFJYNkFTVXBwNDZXY0ZQNmFCZDM2d3EzODgwYkN0QVlUSUZyOHdkOGQ1MkZ4ZVZ0eUFGOG9HYUE?oc=5"
         }
       ]
     },
@@ -189,23 +261,11 @@
       "id": "1be398525752",
       "title": "6 sneaky signs of hearing loss and what you can do about it - The Washington Post",
       "published": "2026-08-29T17:00:01+00:00",
-      "summary": "6 sneaky signs of hearing loss and what you can do about it&nbsp;&nbsp;The Washington PostWhat You Can Do to Slow Hearing Loss as You Age, According to Experts&nbsp;&nbsp;health.comDementia risk 'can be halved' with simple health change – according to doctor&nbsp;&nbsp;The MirrorThe connection between hearing loss and dementia explained&nbsp;&nbsp;KOTA Territory NewsReduce dementia risk with doctor's 'number 1 tip' - and it's not brain exercises&nbsp;&nbsp;Wales Online",
+      "summary": "6 sneaky signs of hearing loss and what you can do about it&nbsp;&nbsp;The Washington PostWhat You Can Do to Slow Hearing Loss as You Age, According to Experts&nbsp;&nbsp;Health.comDementia risk 'can be halved' with simple health change – according to doctor&nbsp;&nbsp;Daily MirrorThe connection between hearing loss and dementia explained&nbsp;&nbsp;KOTA Territory NewsReduce dementia risk with doctor's 'number 1 tip' - and it's not brain exercises&nbsp;&nbsp;Wales Online",
       "sources": [
         {
           "name": "The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbmFWNnNLY3RMeGtadGJ5LVFZbDVXaWxpZ1FmZHdyenBtV0hhQkwwZTlKM2FGSlFvRVBrVDJBUjVQTmVoN1R3enBQcjh1SEc4SmlmZzRia2JaSGpiUkpRZ0UtZ1JZLWk5cXoxVEY1dUxyWXBxOVg0ZTlBNE9sc2taU01taHVwdTRjYU5mZWdoMXJ6NTdGdTN1Q0x1QzNzQTA1V0d3aWowaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9f28f0220116",
-      "title": "Studies reveal how instability may shape infant attention, brain activity and emotional regulation - Medical Xpress",
-      "published": "2026-08-29T16:31:53+00:00",
-      "summary": "Studies reveal how instability may shape infant attention, brain activity and emotional regulation&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa3NNNC03SXV0ZXJ3c3ZZY3pmMHItZl9FM1hWTjNRZ3dpdVVDdGFCX21fcmNRVWx2cjFXbldCSlY3LWJsSUMtVDFockN0ZVB2ckhuX2JmaVZKT0M5b2pyUnJBQ2tteHlLZGJYYWRGQ1d6UTNNQmxjdWVaTUg3NjJCRDc5NnVIS3VrRXJwRmtB?oc=5"
         }
       ]
     },
@@ -222,14 +282,14 @@
       ]
     },
     {
-      "id": "ac368bbeb043",
-      "title": "41-year-old hospitalized after horrifying DIY treatment for incontinence - New York Post",
-      "published": "2026-08-29T14:16:00+00:00",
-      "summary": "41-year-old hospitalized after horrifying DIY treatment for incontinence&nbsp;&nbsp;New York Post",
+      "id": "5dbc0389c95b",
+      "title": "Bat crawls into woman’s mouth as she sleeps - The Independent",
+      "published": "2026-08-29T14:38:00+00:00",
+      "summary": "Bat crawls into woman’s mouth as she sleeps&nbsp;&nbsp;The IndependentWoman wakes to find bat on her mouth: 'The bat is trying to get in my mouth'&nbsp;&nbsp;WCIV'There's a bat in my mouth’: Virginia doctor's bat nightmare goes viral&nbsp;&nbsp;WRALSleeping Woman Wakes To Bat In Her Mouth: Weird News & Oddities&nbsp;&nbsp;PatchGI Doc Awakes to Bat in Mouth; Stopped Farting? Uh-Oh; FDA Approves GERD Implant&nbsp;&nbsp;MedPage Today",
       "sources": [
         {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUFdaX2plemRFV3BWckdUV1lwTzdQc09scDNNeUhUSkVKQU1SZXV4M2VSaUp0SGJvSzV3OEFOelI4ZzROaU5KdC12VkdVUUtQaEZmVjBQbmFwcDhxMExCLVdOdDhkcGFTN0xfOS1wZy1veWNGQl9TQ2ppRXJZMnRwaWJLVlZzUFBXNWxqUnk1SFFtMWs0d3BBZzk4MFhxY1JGVlhveA?oc=5"
+          "name": "The Independent",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONElxSEQ0Z0JHSWUwelFvMGs1M2R4REdPaWhiYmhvRTl3dE9ieks4NHFyaW0za3luS0dqV2pNMTA0LVk2d0U1aU8wWW15WkowUG5LVURReUlYb1lrSUJJQ0czZWFVdDVYWXgzeTcxYnFtR3hqM1VRa1VlY0gwMHB5aURod1pPMlZOeEE?oc=5"
         }
       ]
     },
@@ -282,6 +342,18 @@
       ]
     },
     {
+      "id": "77061b6a4be3",
+      "title": "Long-term melatonin use linked to 90% higher heart failure risk - Science Daily",
+      "published": "2026-08-29T11:13:20+00:00",
+      "summary": "Long-term melatonin use linked to 90% higher heart failure risk&nbsp;&nbsp;Science Daily",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xM1BPUFk0QklyUTBQbEZLaExpSlpxUndPWlo4bzFLd1FSOUdWU1Y0MjM3VFIyWFZrVWNTNV9PR1VJUWFZNDhqUjBTMkpVSnJraGUwWGNqRkpnYV9mWnNXcVlSVDZIYnlXUVJRUWZRbw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0a5f90045cb3",
       "title": "The Most Common Issues Gen Xers Bring Up In Therapy - HuffPost",
       "published": "2026-08-29T11:00:18+00:00",
@@ -297,7 +369,7 @@
       "id": "a05009668711",
       "title": "Chinese researchers complete Earth-moon two-way laser link test - news.cgtn.com",
       "published": "2026-08-29T05:51:06+00:00",
-      "summary": "Chinese researchers complete Earth-moon two-way laser link test&nbsp;&nbsp;news.cgtn.comChina achieves 1st two-way laser communication ‘highway’ between Earth and the moon&nbsp;&nbsp;Global TimesChina tests high-speed laser communication between Earth and the Moon&nbsp;&nbsp;Zamin.uz",
+      "summary": "Chinese researchers complete Earth-moon two-way laser link test&nbsp;&nbsp;news.cgtn.comSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "news.cgtn.com",
@@ -330,22 +402,10 @@
       ]
     },
     {
-      "id": "9c14aa47634b",
-      "title": "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe? - WRAL",
-      "published": "2026-08-28T20:55:03+00:00",
-      "summary": "NC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe?&nbsp;&nbsp;WRALNorth Carolina teen critically ill from rare brain-eating amoeba found in freshwater, officials say&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos8-year-old dies from rare brain-eating amoeba likely contracted while swimming in Louisiana lake&nbsp;&nbsp;CNNA brain-eating amoeba has resurfaced in NC. Here’s what to know&nbsp;&nbsp;Charlotte ObserverSecond Child Infected",
-      "sources": [
-        {
-          "name": "WRAL",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUmpXRHNSRmt5OE9zVVBIWDVNUkYxakNuN1R6TG9QR0otQnJkNkJTR3dINlhGM3dtVk9HdTQtS01aS3VzeUhJMkVLRUItSXVJMmQ1d05QNGtLb3BoSndGZUdUMUYtV21GTzIySmJVR3JoMktyVGFDaUNMeWF2YTR5Nk5aOXBsMmF3WlpxRmp0T0doVlVBam1CQXl0eTJ2Y01oNGpFMHpNVzktUGZsUXFVM2Rhb1ZrUDFKbExwTTFybVhTQnlFV09TX1E1MXlIMTJmN2VMS0xaSEFOOXd1RlE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "18bcdb2072c8",
       "title": "Think 8 Hours of Sleep Is Best for Longevity? A Study of 23 Biological Aging Clocks Found a Different Answer - inc.com",
       "published": "2026-08-28T19:00:25+00:00",
-      "summary": "Think 8 Hours of Sleep Is Best for Longevity? A Study of 23 Biological Aging Clocks Found a Different Answer&nbsp;&nbsp;inc.comThe exact number of sleep hours that slows aging—are you getting it right?&nbsp;&nbsp;Futura, le média qui explore le mondeToo much or too little sleep may make your body age faster&nbsp;&nbsp;Science DailySleeping Too Much Speeds Up Biological Aging, Study Finds&nbsp;&nbsp;Seoul Economic Daily6 Tips to Improve Sleep for People Over 50&nbsp;&nbsp;Everyday Health",
+      "summary": "Think 8 Hours of Sleep Is Best for Longevity? A Study of 23 Biological Aging Clocks Found a Different Answer&nbsp;&nbsp;inc.comThe exact number of sleep hours that slows aging—are you getting it right?&nbsp;&nbsp;Futura, le média qui explore le mondeHow age can impact sleep quality&nbsp;&nbsp;WKBN.comSleeping Too Much Speeds Up Biological Aging, Study Finds&nbsp;&nbsp;Seoul Economic Daily6 Tips to Improve Sleep for People Over 50&nbsp;&nbsp;Everyday Health",
       "sources": [
         {
           "name": "inc.com",
@@ -369,7 +429,7 @@
       "id": "6c60cc47a62e",
       "title": "New heart attack definition promises better care for women - The Guardian",
       "published": "2026-08-28T17:00:00+00:00",
-      "summary": "New heart attack definition promises better care for women&nbsp;&nbsp;The GuardianHeart attack definition overhauled to save women’s lives&nbsp;&nbsp;The TimesMajor cardiac societies develop and publish a universal definition of myocardial infarction&nbsp;&nbsp;News-Medical​Heart attack in women: 7 things to know as new definition promises better care​&nbsp;&nbsp;The Times of IndiaNew Myocardial Infarction Definition Simplifies Diagnosis: ESC 2026&nbsp;&nbsp;EMJ",
+      "summary": "New heart attack definition promises better care for women&nbsp;&nbsp;The GuardianNew global definition of myocardial infarction aims to improve diagnosis, treatment and patient understanding&nbsp;&nbsp;Medical XpressHeart attack definition overhauled to save women’s lives&nbsp;&nbsp;The Times​Heart attack in women: 7 things to know as new definition promises better care​&nbsp;&nbsp;The Times of IndiaFifth Universal Definition of Myocardial Infarction (2026)&nbsp;&nbsp;professional.heart.org",
       "sources": [
         {
           "name": "The Guardian",
@@ -390,26 +450,26 @@
       ]
     },
     {
-      "id": "0f34e88c4e43",
-      "title": "Why are flesh-eating bacteria expanding beyond traditional hotspots? - WSYR",
-      "published": "2026-08-28T11:56:11+00:00",
-      "summary": "Why are flesh-eating bacteria expanding beyond traditional hotspots?&nbsp;&nbsp;WSYRSee more headlines & perspectives on Google News",
+      "id": "0d31ac186571",
+      "title": "1 Month of Eating Vegan May Reduce Inflammation and Slow Aging, Study Shows - Verywell Health",
+      "published": "2026-08-28T12:27:10+00:00",
+      "summary": "1 Month of Eating Vegan May Reduce Inflammation and Slow Aging, Study Shows&nbsp;&nbsp;Verywell HealthReckoning with food safety; how a vegan diet can impact inflammation&nbsp;&nbsp;KPBSA Short-Term Vegan Diet May Slow Biological Aging&nbsp;&nbsp;Technology NetworksVegan Diet Epigenetics Study Finds Changes in Just One Month&nbsp;&nbsp;Intelligent Living",
       "sources": [
         {
-          "name": "WSYR",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY2NXb0xKQWNmdm1tMUdGNFNRZDRZVTVvQ3N3WGp2djBldHZ3ZjI1ZUw0NjZaakl0T0tiTEpVRjNUWnkzcldPSTJ6OG8wUmJVNG5ZLTJXVEE0TDVXWU10cV9hZkZtSVptX01FanY4cGE2WERmRkN5am1XeXYyQUFWdUdKUmhCNTkwMXNXSWhqYmZqNlpDcllDU0dFZlFXR3dFY292TEs3TzF4T2fSAbABQVVfeXFMUFRBUEpacDl1NTF0QURpTEZTQWJOTU5vdkFGVXM1RS0tWWpUTG9lT0x2Yy11aWhkY0MyYmRGYlVmRk9vV0NTWFhid291WTNGRWFkWWdfLXRrS20zUXczYi1jOEdhS1VuUFNOTzdKN3ZxZGlPZm10OVVnMnFCUENwWWdGOWVwNGFNS3Q1WmFQY1RWZlBsLUxVR2hybjVJb2IxMGdIbTlaV1hWaUFjbm1WdXY?oc=5"
+          "name": "Verywell Health",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZEJWRmJTVThvNE1fa0c0bGV5MkE2ODIxSjBRb254b1JHVHRmOW1wdUN1b3U1SGtNRmxoLU5JM1hLS1A5N3VpWUMtb0tSelVzMDd6ZWNsYWxaOU5vMmlJODFsSXBUY2tpZGExVWh2blRMWW9EU2VjSC1uLU9kRkxPZGVvM21Oajg?oc=5"
         }
       ]
     },
     {
-      "id": "397b08905471",
-      "title": "Can Accelerated Salvage RT Improve Prostate Cancer Control? - Medscape",
-      "published": "2026-08-28T06:44:28+00:00",
-      "summary": "Can Accelerated Salvage RT Improve Prostate Cancer Control?&nbsp;&nbsp;Medscape",
+      "id": "b4cf0722cbfd",
+      "title": "COVID levels on the rise in 47 states, schools in 2 states close to slow the spread - Cleveland.com",
+      "published": "2026-08-28T12:00:00+00:00",
+      "summary": "COVID levels on the rise in 47 states, schools in 2 states close to slow the spread&nbsp;&nbsp;Cleveland.comCOVID levels increasing in 47 states; schools close in 2 states&nbsp;&nbsp;AL.comCOVID Cases are Rising Again. Here’s What to Know About the Summer Surge | Health Matters | NYP&nbsp;&nbsp;NewYork-PresbyterianCDC: COVID infections likely rising in 48 states as back-to-school season begins&nbsp;&nbsp;KRCGCovid-19 Cases Surge—Here’s What’s Different This Summer That Will Help&nbsp;&nbsp;Forbe",
       "sources": [
         {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZTVnMnY2bUFGSEdNRDNwOXNvUndFcDBNTnFTVk1KTXNWenFQYnBhSkRSZ2dscndTZDFCWHg3RThCTUZURlpUSEt1ZldmMXBnbnRzdkM0RHdxRk5GRU40a1NIdjlVM0FIcmt0LV9DMEJiNkNkNUVqT2FwU1ZjTjBpcFpjd242X1JuYW1FSm9yZGhCbzdxMGVtRW5DcjY2Y1Q5NGllX1E4NVNmNHZr?oc=5"
+          "name": "Cleveland.com",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRkx3M1VmSmVPWE1GeVR4a3ZhUllBR2w5NGx5MU9fXzJ5dHpPS0Ric216a1pzemU1T05PR0hlNE9aSHRweW16clR5R1RXc24zT2tLaXBMX21KcmNJaUQ3N0ZGRExsS3BYX3JMLUpoSmlYRVdlQjRTS3dPM21EcDBkZzZwVzVlQXZMMUlvYVZzdDlmMTRCVHdXdkl0OU1hWWl0RVBMSEtsd0pRbmk3OHpja2owUHowcHhlaVMtblRlSnE2TjFl0gHYAUFVX3lxTE5qZE1LNlNFdDh3Tk9DMkY5eTJZNklWQk03Sm1FUjV4aGRXZ0FlVzdXbnZHZnVrLVJCaVhKSW9MQmFZR28yVktud1JfZjFaVzY0Y1c3cU9aUDhqNkN6aE9OR0tXUmtoeXo2MDNBb0JiT0xDdGlILWFsVG11eTJoR1lENHNJZEc3a3BOdENUUnVPdUJ4R1plZGtqelFIaEo4UnZNLXZhbHBqaHFfdlQxVGtHRmJuSDU2ZmtqdUgxLU95cmRMUy0wZFZyNHhPa0FuLXhhM1RUajJkcA?oc=5"
         }
       ]
     },
@@ -429,7 +489,7 @@
       "id": "bcc13e666191",
       "title": "This Habit Could More Than Double Your Stomach Cancer Risk, New Study Says - EatingWell",
       "published": "2026-08-27T21:33:32+00:00",
-      "summary": "This Habit Could More Than Double Your Stomach Cancer Risk, New Study Says&nbsp;&nbsp;EatingWellCould consuming sugary drinks increase your risk for stomach cancer?&nbsp;&nbsp;Newstalk ZBThese Drinks Were Just Linked with 2.5 Higher Risk of G.I. Cancer in New Study&nbsp;&nbsp;The Healthy @Reader's DigestFizzy drink a day may double cancer risk&nbsp;&nbsp;Female FirstSugary beverages linked to doubled stomach cancer risk, landmark US study shows&nbsp;&nbsp;The Financial Express",
+      "summary": "This Habit Could More Than Double Your Stomach Cancer Risk, New Study Says&nbsp;&nbsp;EatingWellCould consuming sugary drinks increase your risk for stomach cancer?&nbsp;&nbsp;Newstalk ZBThese Drinks Were Just Linked with 2.5 Higher Risk of G.I. Cancer in New Study&nbsp;&nbsp;Yahoo HealthBeware! Sugary drinks will kill you. Or maybe not.&nbsp;&nbsp;American Council on Science and HealthFizzy drink a day may double cancer risk&nbsp;&nbsp;Female First",
       "sources": [
         {
           "name": "EatingWell",
@@ -453,23 +513,11 @@
       "id": "63a32e13252d",
       "title": "Cell therapy substantially reduces severe rheumatoid arthritis in first clinical trial - Medical Xpress",
       "published": "2026-08-27T20:40:03+00:00",
-      "summary": "Cell therapy substantially reduces severe rheumatoid arthritis in first clinical trial&nbsp;&nbsp;Medical XpressCD19 CAR T cell therapy for treatment-refractory seropositive rheumatoid arthritis: a phase 1 trial&nbsp;&nbsp;NatureOpinion: CAR Ts will only treat autoimmune diseases if we can scale delivery&nbsp;&nbsp;BioSpaceCAR T-Cell Therapy Puts Severe Rheumatoid Arthritis Into Remission in First Clinical Trial&nbsp;&nbsp;Genetic Engineering and Biotechnology NewsReading the COMPARE Phase 1 Dat",
+      "summary": "Cell therapy substantially reduces severe rheumatoid arthritis in first clinical trial&nbsp;&nbsp;Medical XpressA cancer therapy put severe rheumatoid arthritis into remission&nbsp;&nbsp;Science DailyCD19 CAR T cell therapy for treatment-refractory seropositive rheumatoid arthritis: a phase 1 trial&nbsp;&nbsp;NatureCAR T-Cell Therapy Puts Severe Rheumatoid Arthritis Into Remission in First Clinical Trial&nbsp;&nbsp;Genetic Engineering and Biotechnology NewsOpinion: CAR Ts will only treat autoimm",
       "sources": [
         {
           "name": "Medical Xpress",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNU96eGxwRVR3SE43bTZOMkkwZEZEM3czNmRRMTNKSXpzRTFjN1hQeHNlSC1nSHctUzkzTGNFNG5JZkk1UnZyVlVhZlYyeDhHeXo3VzAzWUdzaUdPanJlWEt5RkN4SlFuclg5bkNBZElIWlBtcVpyaXZwRGt6TWQ2TnhadzI1T25Fd2pkQXluMWFLdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9f51009c2b73",
-      "title": "Missed Blood Pressure Medication Doses May Wipe Out Heart Benefits - Yahoo Health",
-      "published": "2026-08-27T20:36:14+00:00",
-      "summary": "Missed Blood Pressure Medication Doses May Wipe Out Heart Benefits&nbsp;&nbsp;Yahoo HealthSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "Yahoo Health",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUnJ3VS1waFNaenVKdy1CQUJhWmtRYi1ScUo2d1doMWxXaG5teVpDR2FhcEJYbG0xQVZtQ0RWRkJER3VSWldXMFZza3RWem5aMXJ2RElpeS1HVFRzVVd2UjU3NEFPcEhwWXR5dHdWeXp1cU1CZGlNd3BFTTA0R3dKellmU0RON0RRcVo1NGY4blppXzV2U01DWmVJZDhIbi1IVm1PeE5tQjR6TW1yeWluajZiTQ?oc=5"
         }
       ]
     },
@@ -489,11 +537,23 @@
       "id": "3e2878809af0",
       "title": "Study of Brain Proteins Spurs Optimism for Autism Treatments - The New York Times",
       "published": "2026-08-27T18:00:07+00:00",
-      "summary": "Study of Brain Proteins Spurs Optimism for Autism Treatments&nbsp;&nbsp;The New York TimesLargest ever ‘map’ of autism may hold clues for new targeted therapies&nbsp;&nbsp;CNNAutism-linked variants rewire protein networks&nbsp;&nbsp;The TransmitterUCSF gets $46 million autism research grant from Sergey Brin-backed foundation&nbsp;&nbsp;San Francisco ChronicleResearch into protein interactions sheds new light on causes of autism&nbsp;&nbsp;Fierce Biotech",
+      "summary": "Study of Brain Proteins Spurs Optimism for Autism Treatments&nbsp;&nbsp;The New York TimesLargest ever ‘map’ of autism may hold clues for new targeted therapies&nbsp;&nbsp;CNNAutism-linked variants rewire protein networks&nbsp;&nbsp;The TransmitterUCSF gets $46 million autism research grant from Sergey Brin-backed foundation&nbsp;&nbsp;San Francisco ChronicleNew molecular map of brain could lead to targeted autism treatments, experts say&nbsp;&nbsp;wbbjtv.com",
       "sources": [
         {
           "name": "The New York Times",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84NmNvc0gzM3FtMk9wM3B0Q1gzdUZfci1fcHg5R00yZVpEcUtWd3VfSGt4N1FtR1VDMkxlSGlCS0Izc3JEcGhFQ01ZeFFnNUtqX3hwVXNYSTg3d0dBMzZvM05nODJTd1ZpMGU3SjZDWk1HV0U?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "10ad50ee54e5",
+      "title": "Millions use a sugar substitute—new research raises a heart health risk - Newsweek",
+      "published": "2026-08-27T13:58:00+00:00",
+      "summary": "Millions use a sugar substitute—new research raises a heart health risk&nbsp;&nbsp;NewsweekSweetener used in chewing gum and jam linked to strokes and heart attacks&nbsp;&nbsp;The GuardianSweetener used in chewing gum may raise heart and stroke risk&nbsp;&nbsp;The TimesHigher blood xylitol levels linked to risk of cardiovascular events&nbsp;&nbsp;UA.NEWSSweetener used in Jam may be linked to increased strokes and heart attacks&nbsp;&nbsp;The Independent",
+      "sources": [
+        {
+          "name": "Newsweek",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRERSMDA2ZkRPaDZSeFFZNU1LZWVEWGFBMWNQQTdDN0NlNWM5TzhiVFN3TDNJTkdTazlfbTQ2QzducXdNSkROeVJna0tFZkkxd3RNeWNhSENmSFRoa0FJdFdhRzBaY3p5a3hUcHBNZWxlVXNJSk5hUGgwU25yclc1S2Y3NXN4RV9sUjMwSDhJamtOT2JjbnNaZDlmRVVGdw?oc=5"
         }
       ]
     },
@@ -510,14 +570,14 @@
       ]
     },
     {
-      "id": "24e2e3f5e8ea",
-      "title": "COVID cases are up across US and patients report a new set of symptoms - AL.com",
-      "published": "2026-08-27T11:00:00+00:00",
-      "summary": "COVID cases are up across US and patients report a new set of symptoms&nbsp;&nbsp;AL.comCDC: COVID infections likely rising in 48 states as back-to-school season begins&nbsp;&nbsp;KRCGCOVID levels increasing in 47 states; schools close in 2 states&nbsp;&nbsp;AL.comCovid-19 Cases Surge—Here’s What’s Different This Summer That Will Help&nbsp;&nbsp;ForbesCOVID Cases are Rising Again. Here’s What to Know About the Summer Surge | Health Matters | NYP&nbsp;&nbsp;NewYork-Presbyterian",
+      "id": "ac60bca85132",
+      "title": "Patients are missing out on the cardiovascular benefits of blood pressure-lowering medicines, say researchers - Medical Xpress",
+      "published": "2026-08-27T11:00:02+00:00",
+      "summary": "Patients are missing out on the cardiovascular benefits of blood pressure-lowering medicines, say researchers&nbsp;&nbsp;Medical XpressMissed Blood Pressure Medication Doses May Wipe Out Heart Benefits&nbsp;&nbsp;Everyday HealthSticking To BP Meds Lowers Heart Risk, Study Finds&nbsp;&nbsp;U.S. News & World ReportLow Adherence Cuts Cardiovascular Benefit of Blood Pressure Therapy&nbsp;&nbsp;HCPLiveESC 2026: True impact of poor medicine adherence laid bare in hypertensive patients&nbsp;&nbsp;Pharm",
       "sources": [
         {
-          "name": "AL.com",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZXZrSXdRTTB1MHNvOUxFbThUOFlxTVJXVXdMY1hFcXhwTE1ZNWozcWE2Sy1zTlVLVVhQQnZjSVNZcVZDMG9QS2Y5Vi13aEVBX1BIM3ZkZWtkRmRfZ3BVVjJLU3JwV2l6UGx3QUxja3libVBLd1J5SllhWGVUbG02SHdIREJKbVFXRGg0Y1F0ZE41V3c1SUFxSTRPdGNVMkVLeWFvYnB2V25wdlhURVk0VG4wcDA1a0d6dmh5a9IB0AFBVV95cUxNam9KUzhyUUhmODJVM1Y0a1ZCOFRKRk1qMEdMMU9RaWR2VkVnR2Y1X2wyWTU5ellFRV8yOGJUbUQzQVdOQVV5QmM3c0JVT1lxUXhjRGVUenl6Ri0wa3BtRHlNZ2M0SHpzemhkQUpYUVhHMHl3TjlIakhsLUxnUWV3THNxb210MjlHaTliSXdZelBtS2NDdnNtMU1yV094NFFPVlZKbC1wX1NWSGdoTU0wT2I4dnE2bjhVVEZ0aFRDNm9XQ19ULVNGVTZxb2Z6V041?oc=5"
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSVE1XzVMLVZ5Wm9ZZG00U3NOX1M4TS0wcXBVaFQxZ1FrRHRnYktQdjgwM2ZGcjBERTI1STVUeUNaSnRSeUxsbXRoMFNqalVBMFhKSzhZaDQybGFTVDU0UFN2UzVVTjkybkR2VndUdGNodEtPUUltNHhtbnFmRnBCNzl1dkI3eFhzZE1CenoxaWJsaWRyV2c?oc=5"
         }
       ]
     },
@@ -537,7 +597,7 @@
       "id": "031e4db47cd8",
       "title": "First patient to have brain surgery with real-time AI assistance - BBC",
       "published": "2026-08-26T23:07:22+00:00",
-      "summary": "First patient to have brain surgery with real-time AI assistance&nbsp;&nbsp;BBCLondon neurosurgeons perform first successful AI-assisted operation to remove brain tumour&nbsp;&nbsp;The GuardianSurgeons use AI assistance to remove brain tumor in world first&nbsp;&nbsp;CGTNAI Makes History: First Live AI Assisted Brain Surgery&nbsp;&nbsp;GulteThe first AI-assisted brain surgery helped a man in the UK regain his eyesight. The surgery was a research trial, financed by the National Institute for Heal",
+      "summary": "First patient to have brain surgery with real-time AI assistance&nbsp;&nbsp;BBCLondon neurosurgeons perform first successful AI-assisted operation to remove brain tumour&nbsp;&nbsp;The GuardianDoctors Just Used AI to Perform Brain Surgery&nbsp;&nbsp;FuturismAI Makes History: First Live AI Assisted Brain Surgery&nbsp;&nbsp;GulteThe first AI-assisted brain surgery helped a man in the UK regain his eyesight. The surgery was a research trial, financed by the National Institute for Health and Care Re",
       "sources": [
         {
           "name": "BBC",
@@ -570,38 +630,26 @@
       ]
     },
     {
-      "id": "046aca2cd78a",
-      "title": "New Studies Link Menopause Hormone Therapy to Lower Alzheimer’s Risk - The New York Times",
-      "published": "2026-08-26T18:28:26+00:00",
-      "summary": "New Studies Link Menopause Hormone Therapy to Lower Alzheimer’s Risk&nbsp;&nbsp;The New York TimesIs there a ‘window of opportunity’ to prevent Alzheimer’s in women?&nbsp;&nbsp;Scientific AmericanDementia Risks Vary by Menopause Hormone Therapy Timing, Study Shows&nbsp;&nbsp;MedPage TodayThis Is the Best Age to Take HRT to Reduce the Risk of Dementia&nbsp;&nbsp;People.comWomen using HRT at lower risk of dementia, study suggests&nbsp;&nbsp;The Guardian",
+      "id": "2bf9f06bebd1",
+      "title": "This rare skin cancer is often mistaken for an itchy rash - The Washington Post",
+      "published": "2026-08-26T17:00:01+00:00",
+      "summary": "This rare skin cancer is often mistaken for an itchy rash&nbsp;&nbsp;The Washington Post",
       "sources": [
         {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVTIxVEVJbEFaMFN6N0tQaFFQRThlQ2UzR1dGUXRKZlZyekN0dmdZalRWU00zMFNsd2FPNkJWWmotYkhRaXQwbGg5QklVOWJiU1o4Nm9ESWZpbUVlQThscWVoVEFUUmo5a2RJOUtEQURwUWhnT0ZfVFVrMVc4aEVhS2MwOGJidE5ROFl5Y2pIUjlCTDA?oc=5"
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdzROQzd5Ql8wZTEyVWJJVVQwTThSRFNBZ0h2bHNFdUViUkIxTDhQbE1sZzM2VGN5MURJQ0hQX1BTYjUxOERDaGhQalZuenVUdjVQcVRiODktRm9tbjlYTXd4OXYxNTRZakQ4UjFMcWFqQVpuSlBkU0pNcGVOb2xkcmNPNDhiMk5kMXRFUG5YTEtwd2c?oc=5"
         }
       ]
     },
     {
-      "id": "cca1c2b1308a",
-      "title": "Alzheimer's Damage in Mice Reversed With Just Two Injections - ScienceAlert",
-      "published": "2026-08-26T15:01:01+00:00",
-      "summary": "Alzheimer's Damage in Mice Reversed With Just Two Injections&nbsp;&nbsp;ScienceAlertNanoparticles ease Alzheimer’s by making neurons from other cells&nbsp;&nbsp;New ScientistThis breakthrough molecule reversed memory loss in mice—can it do the same for us?&nbsp;&nbsp;Futura, le média qui explore le mondeNanoparticle Therapy Reverses Alzheimer’s Progression in Mice&nbsp;&nbsp;Sci.NewsScientists made a gel that turns brain cells into neurons, and it's already working in mice with Alzheimer's&nbsp;",
+      "id": "914f57ce1c9f",
+      "title": "Women using HRT at lower risk of dementia, study suggests - The Guardian",
+      "published": "2026-08-26T12:51:00+00:00",
+      "summary": "Women using HRT at lower risk of dementia, study suggests&nbsp;&nbsp;The GuardianIs there a ‘window of opportunity’ to prevent Alzheimer’s in women?&nbsp;&nbsp;Scientific AmericanNew Studies Link Menopause Hormone Therapy to Lower Alzheimer’s Risk&nbsp;&nbsp;The New York TimesHormone therapy was once linked to dementia. A huge study found it might lower risk — if you start early enough.&nbsp;&nbsp;Business InsiderThis Is the Best Age to Take HRT to Reduce the Risk of Dementia&nbsp;&nbsp;People.c",
       "sources": [
         {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNlVCdjlDMDFZSGdFSW9VSVNjaTctR2FuUmhNOEhXWFFNUm94TkxrV0k4Rl94d25qN21aLWFWbW02cW9ZMEZfWG1oTzg3ZG1maGJ4TkdvcnBmbmtoQ0IySzRpSXR5dUZYd3hCWUx0WmFkU21ORWx0ZUthUkNtX3FMWGlhMXNuSGoxYkF2RG1DQndzRTl1T2VNZTlmWW5SbEU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b93e3e3a1015",
-      "title": "Florida Moves to Let Children Attend School Without 4 Previously Required Vaccines - Currently.com",
-      "published": "2026-08-26T12:17:00+00:00",
-      "summary": "Florida Moves to Let Children Attend School Without 4 Previously Required Vaccines&nbsp;&nbsp;Currently.comSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "Currently.com",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ3N5ZUJNZndUa3FxazlkeE8xQlJ3OVBOOTZXUmRWR2pvRWpWZGJBS2hnX3F4S3dyWC1mNzh0cHdtbkpTMW5vZS1kd3k2VnBqNjNaQjdDUGJxaVZQOV9sNWhoOFJhaFBsMG9WZkdIZVNiT2Q4N0NsVl9MNDdfOE5qMGF1WUNfbnE5S0YtTQ?oc=5"
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX1BJSTZ5QjFLWFZ5NmM1OXdzWFlMNEJVMHVSVnBDXzVWVThfcExkNG5mMG81Q2h3S0hKa21DQnZLLU00dS1sX0h2ekFEVW00MV9LVzN1M0N4S01WcThtVTRFX282c0E2blQ3VGdzZUtDNy1TX1dpRFRubTFpM2pySi1Pa0x0clQ0M2ZV?oc=5"
         }
       ]
     },
@@ -609,7 +657,7 @@
       "id": "65b0bbce776b",
       "title": "An easy waist measurement may reveal more about longevity as you age than BMI - CNN",
       "published": "2026-08-26T12:00:29+00:00",
-      "summary": "An easy waist measurement may reveal more about longevity as you age than BMI&nbsp;&nbsp;CNNBeer belly or muffin top? Study reveals which type of fat is worse for our health&nbsp;&nbsp;The MirrorWaist size reveals health risks that BMI can miss&nbsp;&nbsp;Earth.comA higher BMI may help you live longer in later years – but there's a catch&nbsp;&nbsp;New AtlasCarrying Extra Weight? New Science Just Revealed Some Very Good News&nbsp;&nbsp;inc.com",
+      "summary": "An easy waist measurement may reveal more about longevity as you age than BMI&nbsp;&nbsp;CNNBeer belly or muffin top? Study reveals which type of fat is worse for our health&nbsp;&nbsp;Daily MirrorWaist size reveals health risks that BMI can miss&nbsp;&nbsp;Earth.comA higher BMI may help you live longer in later years – but there's a catch&nbsp;&nbsp;New AtlasCarrying Extra Weight? New Science Just Revealed Some Very Good News&nbsp;&nbsp;inc.com",
       "sources": [
         {
           "name": "CNN",
@@ -621,7 +669,7 @@
       "id": "5784a8837d6a",
       "title": "What you eat before age 2 may affect your health 70 years later - Science Daily",
       "published": "2026-08-26T11:32:41+00:00",
-      "summary": "What you eat before age 2 may affect your health 70 years later&nbsp;&nbsp;Science DailyA childhood shaped by sugar rationing was linked to mental health more than 50 years later&nbsp;&nbsp;News-MedicalThe sugar you ate as a baby may be affecting your health now, study finds&nbsp;&nbsp;WOODTV.comLess sugar early in life might decrease dementia risk&nbsp;&nbsp;Science NewsEating less of common ingredient early in life may slash cancer risk decades later&nbsp;&nbsp;Fox News",
+      "summary": "What you eat before age 2 may affect your health 70 years later&nbsp;&nbsp;Science DailyThe sugar you ate as a baby may be affecting your health now, study finds&nbsp;&nbsp;WOODTV.comA childhood shaped by sugar rationing was linked to mental health more than 50 years later&nbsp;&nbsp;News-MedicalEating less of common ingredient early in life may slash cancer risk decades later&nbsp;&nbsp;Fox NewsLess sugar early in life might decrease dementia risk&nbsp;&nbsp;Science News",
       "sources": [
         {
           "name": "Science Daily",
@@ -633,7 +681,7 @@
       "id": "24d19de19d5e",
       "title": "Running more effective for sleep loss than a short nap, study finds - AOL.com",
       "published": "2026-08-26T10:36:51+00:00",
-      "summary": "Running more effective for sleep loss than a short nap, study finds&nbsp;&nbsp;AOL.comRunning on 4 Hours of Sleep? This 20-Minute Fix Works Almost as Well as a Nap&nbsp;&nbsp;ScienceAlertScientists Uncover 2 Simple Ways to Protect Memory After a Poor Night’s Sleep&nbsp;&nbsp;PreventionWorkout or nap? Either can help your sleepless brain, study finds&nbsp;&nbsp;McGill UniversityHow Exercise May Protect A Leader’s Memory After Losing Sleep&nbsp;&nbsp;Forbes",
+      "summary": "Running more effective for sleep loss than a short nap, study finds&nbsp;&nbsp;AOL.comScientists Uncover 2 Simple Ways to Protect Memory After a Poor Night’s Sleep&nbsp;&nbsp;PreventionSleepless Night? A Workout or Nap May Give Your Brain a Boost&nbsp;&nbsp;HealthlineThe surprising way struggling sleepers can boost their energy levels&nbsp;&nbsp;The IndependentHow Exercise May Protect A Leader’s Memory After Losing Sleep&nbsp;&nbsp;Forbes",
       "sources": [
         {
           "name": "AOL.com",
@@ -657,7 +705,7 @@
       "id": "d08920ac6363",
       "title": "Trump administration quietly signals possible changes coming to childhood vaccine schedule - Yahoo",
       "published": "2026-08-25T16:48:00+00:00",
-      "summary": "Trump administration quietly signals possible changes coming to childhood vaccine schedule&nbsp;&nbsp;YahooTrump undercuts the triumph of new mRNA vaccines | Editorial&nbsp;&nbsp;The Seattle TimesDemocratic-aligned poll shows big majority of swing-seat voters support routine childhood vaccines&nbsp;&nbsp;Colorado PoliticsRFK Jr. may upend how vaccine recommendations are categorized&nbsp;&nbsp;Ars TechnicaDoctors and parents in Philly sound alarm on Trump’s vaccine order. Here’s why.&nbsp;&nbsp;T",
+      "summary": "Trump administration quietly signals possible changes coming to childhood vaccine schedule&nbsp;&nbsp;YahooTrump undercuts the triumph of new mRNA vaccines | Editorial&nbsp;&nbsp;The Seattle TimesWhat some doctors and parents in Philly are saying about Trump’s controversial vaccine order&nbsp;&nbsp;The Philadelphia TribuneDemocratic-aligned poll shows big majority of swing-seat voters support routine childhood vaccines&nbsp;&nbsp;Colorado PoliticsCalifornia maintains school vaccine rules despite",
       "sources": [
         {
           "name": "Yahoo",
@@ -666,14 +714,50 @@
       ]
     },
     {
-      "id": "470e7ca5a6be",
-      "title": "Common prescription drug delivers surprising results in hair-loss study - Cleveland.com",
-      "published": "2026-08-24T16:01:00+00:00",
-      "summary": "Common prescription drug delivers surprising results in hair-loss study&nbsp;&nbsp;Cleveland.comAlopecia: Common Arthritis Drug Shows Promise for Hair Regrowth&nbsp;&nbsp;HealthlineAlopecia areata: Rheumatoid arthritis drug may treat hair loss&nbsp;&nbsp;Medical News TodayRheumatoid arthritis drug also may help people with hair loss caused by severe alopecia&nbsp;&nbsp;PhillyVoiceArthritis drug restores 100% hair on 1 in 5 alopecia patients in global trial&nbsp;&nbsp;South China Morning Post",
+      "id": "d4cf9e24ff8e",
+      "title": "I’m A Doctor. This Harmful Reality Of American Health Care Is Becoming Normalized. - HuffPost",
+      "published": "2026-08-25T13:00:17+00:00",
+      "summary": "I’m A Doctor. This Harmful Reality Of American Health Care Is Becoming Normalized.&nbsp;&nbsp;HuffPost",
       "sources": [
         {
-          "name": "Cleveland.com",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPXzMydkFaVDZQanJoOUI1bEN0WGdkaDNaQm5faS1fd0N5M0lHVUdkNjJ6R1RDMDdtci1kcWxMZlhFX21JUnpiSXlMWlprbGZkN0xzMElwYkI2Ti1Mb0J2LXdxT1U3OVdoMms3TC1oYnU2MGpkaVNvaHRaaWlGcllBZTNETGJfczVLdk8xcXllRVdJZ3ZaQzAycHM5TkRXUG4zeThVWExWMzgydWI3UGlHTi13NVI2QdIBygFBVV95cUxQa3hPNklGRU1tczdlWl9sMFJjcHdkcmF2NWt0VGNwYkVFY1ctUjFBYWRnb0JvRWo1SV9oSEo1U3haMzhrVHVfX2MtZDBKODdRbnFtTzZLNWwteENuNW1sbG55Ymd0bXhMMG81cWNFbW9EV01jS0NmM21vRS0xNnRVTFJxQUs0dkpoUjZHeFpNY19yN011emsxZERNamZRWFlOdEtwZWVBRmh0d05DdmdxU1pJWG40UVRFV1RSVDl5b3ExRHo0ME9PVVpB?oc=5"
+          "name": "HuffPost",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWXR0c09nbi00U2lxdld0VTBOWXd3c2I4cWhxWmF3Q05wcDBFekpvQkJpa0tocHJjelJMRmh1a185eGp2VTYta3VkcVV2UUF6YTBjd0t2N1BFOEtJVUc3QXFEZTZrLUFlVDJERW9GTjlnNEtJTXVBdFlrRjhTUlJaUWNlSTVYVE5ndG5fN1JkaHF5dkJHS2ZrY1FuSk9jT1k0MDF1UEgwUzFBZEFxNkNOODJmSdIBuAFBVV95cUxPS2NCbG5PWDZybEZxanI5YXYzbWxMMlFsZ0hYQTNDOUJ2aGZjSER5ZElpZmlpUkI0U29va3JrOWRNSTlOczlJSUNIcjRmaUxoczlSaGpJZmJQUUZraUlyUURNM09ZMUhvd2JnbnI2ZUsyU0d2aDdyYjM5UzRKSl95cmtQOU5KMWVxN3hCWVY4MzFEME1FNXI1WDJJdHpLenR4VDV6eTBnY0ZDSFc0eEtDNzNRWHg5ZWdn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1ff79e0f5bd2",
+      "title": "Florida plans to drop 4 vaccine mandates, despite Trump support for some shots - Tampa Bay Times",
+      "published": "2026-08-25T02:26:33+00:00",
+      "summary": "Florida plans to drop 4 vaccine mandates, despite Trump support for some shots&nbsp;&nbsp;Tampa Bay TimesFlorida is willing to further jeopardize its children | Opinion&nbsp;&nbsp;Tallahassee DemocratFlorida’s Department of Health removes 4 vaccines from required list for public schools&nbsp;&nbsp;CIDRAPFlorida Seeks to Remove 4 Vaccines, Including Chickenpox, from School Requirements&nbsp;&nbsp;People.comFlorida Prepares to Roll Back School Vaccine Requirements&nbsp;&nbsp;News of the United Sta",
+      "sources": [
+        {
+          "name": "Tampa Bay Times",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUHdoV2h6TXl5cE5rNzhkZkhvWmFEZ0RFZ0I0RnlmS1BGWWtBQTZDTjB3VHQyU01EYkpqYUJuaXZ2bFNOeU4xeU90WHh0VnJRalBrR2l1d3dJdUtaczAzOUNwRGNSNXVfc3NFM044endtV2FkR0daYW5lbzNfRm0xY01zalgyajdjYll0Y1RWZU9fcmxpSGFYOHduUm9jaF9aTnVlUk85Wm5uSzlHMkVaYUVfeXVYT21jcXhmRUNsUVNSWWRa?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "566af7769813",
+      "title": "Measles Outbreak Declared In 3 MD Counties: What To Know - Patch",
+      "published": "2026-08-24T19:41:01+00:00",
+      "summary": "Measles Outbreak Declared In 3 MD Counties: What To Know&nbsp;&nbsp;PatchMaryland measles cases prompt renewed vaccination push from MoCo health officials&nbsp;&nbsp;Bethesda MagazinePages - Maryland Department of Health declares measles outbreak in three Maryland counties&nbsp;&nbsp;Maryland.govVaccination protections ‘teetering’ as state declares measles outbreaks in 3 counties&nbsp;&nbsp;Maryland MattersGet the Facts: Measles concerns as school starts&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "Patch",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMXc5SXYzSnlOSG1KU2x3cWxDdGJ4RmgxeUlCUllYUElFSS1UX3h6YmRzY09TSXhjNTl1T3N0TU9KTjNDSUhMUEVpU3ZXeUpFa3pLSmdHSmRZeTJqVGp6U3lfajZ2d2N2RzlHM000UEd3cWJsTFBWTzRwaUF2STA1UU41aW9XZWczNVc0TVdyTdIBqAFBVV95cUxOalhJMjRNT3dhTnJvVUZtVVJMMG1FdF9MWkF6d3JQVzJLN3piZF9jTGVtTjF6RUs4T0JHM1pKX1lXRmVXaGdDdjJzRjdjOUdBQkZab0kwVlp0OVBRU1hFZGtoemZudVJWdUQ5dk9yUk5nUERPZ0YwenlnN0NNUkVSdkJjRk0xSThEYVZxejBKTFlRWGJhTGtCMl9FRElNZER0enhkQUxyRVc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1d7492fa1b1e",
+      "title": "6 Easy Lifestyle Changes That May Help Prevent Alzheimer’s Disease - AOL.com",
+      "published": "2026-08-24T13:39:10+00:00",
+      "summary": "6 Easy Lifestyle Changes That May Help Prevent Alzheimer’s Disease&nbsp;&nbsp;AOL.comAsk the doctors: Healthy habits beat brain supplements fighting memory loss&nbsp;&nbsp;The Spokesman-Review5 Ways aging adults can improve memory and brain health&nbsp;&nbsp;Herald Community NewspapersLifestyle Habits That Improve Brain Health, According To Experts&nbsp;&nbsp;Yahoo HealthDaily brain health habits for better cognition&nbsp;&nbsp;Bowie News -",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TU2otUXlBQUg1bi1uSE82TGdwNms5YUlpQjE0eGlwQ09rWl9IeF8yVUVaUXFaOFEzU1NRQjY4MmFnbkFWSWw2MkVxdVRILWtENW9MY0FaUGEtQVk0TGhaTWhKRkJjM3UzRnlKMHYxaWdTR0tQblRPUVV2OGk?oc=5"
         }
       ]
     },
@@ -690,26 +774,14 @@
       ]
     },
     {
-      "id": "f9692668919e",
-      "title": "Byron Donalds Blames FL Measles Outbreak On ‘Rampant Illegal Immigration’ in Stunning Exchange With CBS’s Brennan - Yahoo",
-      "published": "2026-08-23T22:20:01+00:00",
-      "summary": "Byron Donalds Blames FL Measles Outbreak On ‘Rampant Illegal Immigration’ in Stunning Exchange With CBS’s Brennan&nbsp;&nbsp;YahooNo evidence illegal immigration caused US measles outbreaks&nbsp;&nbsp;PolitiFactTranscript: Rep. Byron Donalds on \"Face the Nation with Margaret Brennan,\" Aug. 23, 2026&nbsp;&nbsp;CBS NewsDonalds won’t rush to repeal Florida’s vaccine mandates, sides with parents' choice&nbsp;&nbsp;WPECByron Donalds plans to 'study' MMR, Polio vax rollbacks, 'engage' with Legislature",
+      "id": "5ea2221d4c14",
+      "title": "8-year-old dies from rare brain-eating amoeba likely contracted while swimming in Louisiana lake - CNN",
+      "published": "2026-08-24T06:36:06+00:00",
+      "summary": "8-year-old dies from rare brain-eating amoeba likely contracted while swimming in Louisiana lake&nbsp;&nbsp;CNNNC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe?&nbsp;&nbsp;WRALSecond Child Infected with Brain-Eating Amoeba Following Death of 8-Year-Old&nbsp;&nbsp;People.comA brain-eating amoeba has resurfaced in NC. Here’s what to know&nbsp;&nbsp;Charlotte ObserverNorth Carolina teen critically ill after contracting rare 'brain-eating amoeba' in",
       "sources": [
         {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOHdrZFByTXpMb0ZKTzFIOFVnM3NwemdFd3JjS2NCWHA3aVd6NHNZUi1KdDdJMnVXVnk3VGtBdGUwRjhER0tLaE51YTlseURWNDBZRUY3dTI3UkpNaEgxMFNlWE5tdUx0aTFSeHNnWVhGV2hHTDExbVhRLWYyM3ZqWVlmQW10bHM4Y3pTY0s5dGFHbm5jRlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fee15c3ddc25",
-      "title": "Unexpected GLP-1 side effect? Studies show the meds may help people with addictions - NewsNation",
-      "published": "2026-08-23T16:46:03+00:00",
-      "summary": "Unexpected GLP-1 side effect? Studies show the meds may help people with addictions&nbsp;&nbsp;NewsNationSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "NewsNation",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUXdTME11akVVc1cyRWFSbFN3VF9kcFpkOTUyRGRiOF9mOWZRaVRGLWZLblJ3QUpwZmhibS1fREJQZnRNd0VMaVVGdFVJWlpDS1FvM1k3WUNXWnJxaGdiTWhxcDZOTEk0MjBlUFlaNEFLd3JRUUhzdnVZVjFIbDA1MVNfYmlCRldlU1ctWU1oUjBMX3NNU20ycDVvbDluazBxYlAxeElkWE1mOHlaX0lYS2VVSjlmOGc4REgyRNIBwgFBVV95cUxOSW1HcHRxVnJiMDFveEEzWV9lVDFGbllZTjlxS3g2eU1JbEZtYlpFTXJDZDl4ZlVDTVFKakNlbGl5UjZWZDVGdHhtRWxhaHdDTVcyTk9wVUZYUlZ6NEh5SEI3Z012ZmxLWU40NnFmdnlkbXNYNWs2YWRRQmxDQm9WbmFfblJkckgyZHVGZjA3NFNDdzJFS2puaFl5QTV6UVZMbWFqVmotTkdrajJTYjg1bXRvalg0akl1bVZpSkZnYUVHdw?oc=5"
+          "name": "CNN",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaGlEWm9WS3hZOWs5LXJiNzRua0cwYnRQLUc4Z0ZTaldpOVdzUHJSTm9YQjBNVlNiYU15SEVqaG5odUpqZnNETW5xQ0FsLUJDNmYtYmlPc2ZtRVZ6c21OVzF3b1ZVVHJXOFNmOV9iZ2Uta0VuNENMWHFNT2x2SktOZWY1NEw0Zw?oc=5"
         }
       ]
     }

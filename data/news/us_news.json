@@ -1,15 +1,15 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-08-29T20:37:58.635711+00:00",
-  "total_fetched": 130,
-  "unique_count": 130,
-  "health_related_count": 64,
+  "fetched_at": "2026-08-30T04:24:17.472456+00:00",
+  "total_fetched": 125,
+  "unique_count": 125,
+  "health_related_count": 61,
   "news": [
     {
       "id": "4e65cf1e5706",
       "title": "Nancy Grace Roman Telescope live updates: Roman and Falcon Heavy delivered to launch pad - Space",
-      "published": "2026-08-29T19:12:06+00:00",
-      "summary": "Nancy Grace Roman Telescope live updates: Roman and Falcon Heavy delivered to launch pad&nbsp;&nbsp;SpaceA New Way of Seeing Alien Worlds&nbsp;&nbsp;The AtlanticHow the Nancy Grace Roman Telescope, NASA’s New Window Into the Universe, Came to Be&nbsp;&nbsp;The New York TimesRoman Space Telescope, NASA's next \"great observatory,\" poised for Sunday launch&nbsp;&nbsp;CBS NewsNASA Roman Arrives at Launch Pad, Mission Briefings Scheduled&nbsp;&nbsp;NASA Science (.gov)",
+      "published": "2026-08-30T04:12:18+00:00",
+      "summary": "Nancy Grace Roman Telescope live updates: Roman and Falcon Heavy delivered to launch pad&nbsp;&nbsp;SpaceInside the room where NASA built a groundbreaking tool to spot alien worlds&nbsp;&nbsp;CNNNASA Sets Coverage for Roman Space Telescope Launch from Florida&nbsp;&nbsp;NASA (.gov)NASA’s Nancy Grace Roman Telescope Promises a Breakthrough in Cosmic Exploration&nbsp;&nbsp;The New York TimesA New Way of Seeing Alien Worlds&nbsp;&nbsp;The Atlantic",
       "sources": [
         {
           "name": "Space",
@@ -18,26 +18,86 @@
       ]
     },
     {
-      "id": "df627d574620",
-      "title": "Multiple baby goats had rabies at North Carolina mobile petting zoo, attendees urged to contact local health officials - CNN",
-      "published": "2026-08-29T17:49:52+00:00",
-      "summary": "Multiple baby goats had rabies at North Carolina mobile petting zoo, attendees urged to contact local health officials&nbsp;&nbsp;CNNRabies warnings issued in multiple Charlotte-area counties&nbsp;&nbsp;WCNCDavidson County warns of rabies exposure after four goats test positive at Lexington petting zoo&nbsp;&nbsp;WXIIRabies outbreak at North Carolina mobile petting zoo triggers health warning&nbsp;&nbsp;WBTVFour baby goats test positive for rabies at NC petting zoo&nbsp;&nbsp;WRAL",
+      "id": "d6f702f1fb3f",
+      "title": "Statins can safely cut risk of heart attacks or strokes in healthy people aged over 70, world-first clinical trial shows - The Guardian",
+      "published": "2026-08-30T01:18:00+00:00",
+      "summary": "Statins can safely cut risk of heart attacks or strokes in healthy people aged over 70, world-first clinical trial shows&nbsp;&nbsp;The GuardianSee more headlines & perspectives on Google News",
       "sources": [
         {
-          "name": "CNN",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wdGE5S09kU0lFT0pwV3o3M2l1a3RCMmhDeHU2ZThmckl0bFV1UWFQaXBhSWJFMG82ZURSZHFmT0Q2cklhVGtvREM3NjlzVjRYLW5ndDBxVTlBazhpTk43T0FUYmdpNm5xMmN5YnBtOVFYdw?oc=5"
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSU9KdF9FVlc5ZEtpZnNIMXdBMm1YVjVwUW5ZSENxeVBmYWRldGlRVUJ1QzhaVHZnZGZ4UTZGWjRpSGxRSG5MRmNUYi1NSzd4ZkZGM21pa3BIblpjVEtNbzhpQWRyeG5Gdi1QSDBKVHhnY3ltRTlrcS0xYWJSbWV1OU9XTXd1ZTZYOUNGdm8weFlNS01fcURSRFdJWFVKYy15OWJnbG9ScjR5dWFIOEx2Qm10RTRWWWxROVE?oc=5"
         }
       ]
     },
     {
-      "id": "c405d0b3788a",
-      "title": "Pennsylvania commissioner accuses Shapiro of 'deceptive' measles death framing as RFK Jr blasts Dem governor - Fox News",
-      "published": "2026-08-29T17:07:53+00:00",
-      "summary": "Pennsylvania commissioner accuses Shapiro of 'deceptive' measles death framing as RFK Jr blasts Dem governor&nbsp;&nbsp;Fox NewsCoroner says baby with measles in Pennsylvania died of a ruptured spleen&nbsp;&nbsp;NBC NewsMeasles’ role in child’s death ignites fight between RFK Jr. and Pennsylvania governor&nbsp;&nbsp;The Washington PostAs a measles outbreak escalates in Pennsylvania’s Amish Country, exposures rattle people at risk&nbsp;&nbsp;CNNWhat We Know About Measles Deaths In Pennsylvania As",
+      "id": "b14e165fe72d",
+      "title": "3 states battling new measles outbreaks. What to know - USA Today",
+      "published": "2026-08-30T00:32:00+00:00",
+      "summary": "3 states battling new measles outbreaks. What to know&nbsp;&nbsp;USA TodayWisconsin Dept. of Health Services reports ‘significant’ rise in measles cases&nbsp;&nbsp;KCRGWisconsin measles outbreak grows to 92 cases in three counties&nbsp;&nbsp;WISNPotential measles exposure announced at Warren hospital&nbsp;&nbsp;WKBN.com92 confirmed, 6 probable measles cases in southwest Wisconsin&nbsp;&nbsp;Channel 3000",
       "sources": [
         {
-          "name": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQek1zVmdyanVXTzN5NE84SXNIeTZkeWtSSENlb3FFc2szMWFTalJxZVF1WVVmYThVZjBmR1VrbFJ1SzNsZWJSWllXNEE3aXV2eGRIMlJMNzczWWFvQnhQS1hoNVJMWlRhTmlJZDRvNVYzTEJYeEZabXhpbTh6aDNLalV4NHlRWjZmdmZ3SWdJbGloOVNjemJKZVhybEVHY3owMlRmc0piVEpOR1lTejM3S3hFSzZ0ODZyanRBcldXTjZUYmJsaW9PQUN0LWZ6Z9IB0wFBVV95cUxPVFl0NGJwbV9SREdCUFdsUy1xMHNhblZEa3JrTU96WmhfcVNpcFlDZzZYTm1EYmtMNFRJa2FMNEpHWGRNU2JIS1k2aEwtSmxmY1ZvWFlqYkx2dUk5MWNHQjZ5ZmRLbnlodjRkb1dmRzJCaEMxUFBvY0V1ejNNNUkyMHI2enVOay1NbGZxN1l0dVlIRlVhZTlxR05DOXlldUFLN0JIQ1RzUGNpcWhtOXgxY29BdE80eUZsR1pqT0FEZHNMMGJEcXVnT0ZZV3lJenp5WXQ0?oc=5"
+          "name": "USA Today",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSFRLRlY4QTQ5UW1IQlpYUkI5UVVyMTZSS2ttYm9BZFFJemtDMFNlNGlmV0xqdlVjQ2xoRUZQZzdRTmUyWkkwUWhUNHFBelhIbDdRRHpmb3VTTVZSVkk5MU5fbDlEZlNURmNNR3IzREs0SmdiZGhJYXZIUjVIRW1Yck9rOFNoNk9YTnROQXFCdjVHQ0dGX3JVbi1EbzBnaENRT3QxRWpkdGhrVTdKZ2NmWkRuYzZYSkc5SHZRU3VZY3VVd3dpWGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "497b6832b475",
+      "title": "Four baby goats at mobile petting zoo in North Carolina test positive for rabies - NBC News",
+      "published": "2026-08-29T22:37:52+00:00",
+      "summary": "Four baby goats at mobile petting zoo in North Carolina test positive for rabies&nbsp;&nbsp;NBC NewsBaby goats had rabies at NC petting zoo, attendees urged to contact health officials&nbsp;&nbsp;CNNNorth Carolina warns mobile petting zoo visitors of rabies exposure after baby goats test positive&nbsp;&nbsp;Fox News4 rabid goats linked to traveling petting zoo that visited Durham County&nbsp;&nbsp;WRALDavidson County warns of rabies exposure after four goats test positive at Lexington petting zo",
+      "sources": [
+        {
+          "name": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTkNGeUg4N2lvd0Z0SHFiMXNyTDgxTjZsdnE4dXRVbkFmcXNLenhTeGlzMVNtR045UXRWRFNITU13ZVl1TGtuQ1JNSDNNX21QSmtteHgyRW5EOFdfbzhva0RmOVRjSE9XeWJSZldYdzVlSzdQNmlTcjVXc3BHYWROYzEya3c0R2piUTlEelQ1anJVVGlkSEVIYlUyaGNlVDU2M3FYSnVjUU0yYUFfNHJkR3ZhMmp0Mm1Ma1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2cab9713e76f",
+      "title": "Adolescents report low regret and high satisfaction following gender-affirming chest surgery - PsyPost",
+      "published": "2026-08-29T20:16:49+00:00",
+      "summary": "Adolescents report low regret and high satisfaction following gender-affirming chest surgery&nbsp;&nbsp;PsyPost",
+      "sources": [
+        {
+          "name": "PsyPost",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYmc3ZGN4WW5vYnlWcFNpN3NfX0RoMzZUamNlM2ZRUEphSUlsWkdsZzRoNDd2X2FHZEk3ZlUyaU5ZRFhsR1VfWFdZTWx4ZHljZ0hUZGM1cFEwQ0M3LWlKYndEcDhESEtfbjJqYk4yWHdXTVNlNHZiU0MxM09JV3d4dmxxU25JSl9OanJIRXdaeXdBVWZkTGhoVWQwQ202VDR5WXRPdnFNQVI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fa8409b76771",
+      "title": "What We Know About Measles Deaths In Pennsylvania As RFK Jr. Cries Foul - Forbes",
+      "published": "2026-08-29T19:37:27+00:00",
+      "summary": "What We Know About Measles Deaths In Pennsylvania As RFK Jr. Cries Foul&nbsp;&nbsp;ForbesAs a measles outbreak escalates in Pennsylvania’s Amish Country, exposures rattle people at risk&nbsp;&nbsp;CNNCoroner says baby with measles in Pennsylvania died of a ruptured spleen&nbsp;&nbsp;NBC NewsMeasles’ role in child’s death ignites fight between RFK Jr. and Pennsylvania governor&nbsp;&nbsp;The Washington PostWhat We Know About Pennsylvania’s Two ‘Measles-Associated’ Deaths&nbsp;&nbsp;FactCheck.org",
+      "sources": [
+        {
+          "name": "Forbes",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaFV6R0p0SGRmNUM4a0NaYy1hUUtKcVphSm5BX1I0MHozeE9qTkNpanZOVFUtRy1lZ2QyS2tjbHROdHllZ0djTDl4TGJVZHQ1eFJjM2lGSFdwVUJZRl8xYkFIekNrUWx2S1RqaWdTTlNRS1NGa2lYZlNaeDlJQTItQURjNVNkc0tFdXRvSk5HUW9tQXMtcDd5NHF5eE9tWk90RUN2ZEdsS0ZMWXVISTZyMUN0U3k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e9ef214abca7",
+      "title": "Health alerts issued as cases of painful illness typically found in tropical countries spreads across Florida - FOX Weather",
+      "published": "2026-08-29T18:33:00+00:00",
+      "summary": "Health alerts issued as cases of painful illness typically found in tropical countries spreads across Florida&nbsp;&nbsp;FOX WeatherDengue cases rise in several Florida counties, CDC data shows&nbsp;&nbsp;ABC7 WWSBDengue fever cases rise in Tampa Bay as health officials target disease-carrying mos­quitoes&nbsp;&nbsp;Spectrum Bay News 9Did you know there’s a dengue virus outbreak in the Tampa Bay area? | Column&nbsp;&nbsp;Tampa Bay TimesCase of Dengue fever confirmed in Pasco County&nbsp;&nbsp;WF",
+      "sources": [
+        {
+          "name": "FOX Weather",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTTV5WWxaQ0xEMFJjbDlIZU0xeTAwRW8tVnFTMUo2Q0Utcm9JZXB0RzlpZS03Q2V6VnJmNndXVGZIYm9tNGhpa2lmOVpPaUlSVndNeVpkRWdiUzJUSVUtWS1wSERGdnY5c2tyQXNncjBPcTI5UXdpNXhNZ2VTekZidlNmdG42cWs1ZlJZNzcwX0ZyVk9QRlHSAZsBQVVfeXFMUFdJVEZJRGt2dzdtY2p1cVNlNUxacTB1WnRMSlhVc2t4aVRWUTE4RlBUbW1qeWx5TWJwUXg4R2tFWTN5MXQ2b29TTnRha0QtOFhReDdzUnBvb2VlRTcxVmhaTHNjVE5wa2R6U2k2RHF6VHB4YVh0c3FERVJfLUtReF8yZ0Rhb3NWXzktYUNaeG5hdV8xQmQ3d1V2NHM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f6cb523c4bb6",
+      "title": "The common heart attack symptom many women ignore - The Washington Post",
+      "published": "2026-08-29T17:00:01+00:00",
+      "summary": "The common heart attack symptom many women ignore&nbsp;&nbsp;The Washington Post50 years of heart: How listening to women changed the landscape of women’s heart health&nbsp;&nbsp;University of Ottawa Heart InstituteWhy women need to focus on heart health&nbsp;&nbsp;FamilyDoctor.orgHeart disease in women is often misunderstood: Doctor busts 5 myths that could delay diagnosis and treatment&nbsp;&nbsp;The Times of IndiaHeart Disease Targets Women—Circle of Red Takes Action&nbsp;&nbsp;Modern Luxury",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd2Mzc2VSb2RrbV9VWkNSV01XdVhFdjVVc01IY3VqY25Wcm9sYUV3LTFfNDQ0NnROMGphMlZHLXVBME5Pd21UUmhGMUdMM2FHYTlNSGluR3IydndEY1pvMG13akdBcjVHcW41M2JaWEFhOW9qTDBkSjVVZ0Y1d0hPZXp1Q2xiMFRlZm5hTnhzRDVSOVliQVBJUWRVejVtZw?oc=5"
         }
       ]
     },
@@ -45,11 +105,23 @@
       "id": "1be398525752",
       "title": "6 sneaky signs of hearing loss and what you can do about it - The Washington Post",
       "published": "2026-08-29T17:00:01+00:00",
-      "summary": "6 sneaky signs of hearing loss and what you can do about it&nbsp;&nbsp;The Washington PostWhat You Can Do to Slow Hearing Loss as You Age, According to Experts&nbsp;&nbsp;health.comHaving your hearing checked can give you a new lease of life&nbsp;&nbsp;The Irish TimesThe connection between hearing loss and dementia explained&nbsp;&nbsp;KOTA Territory NewsOnly 1 Percent of People Named This Risk Factor for Cognitive Decline. It’s Not Sleep, Diet, or Exercise&nbsp;&nbsp;inc.com",
+      "summary": "6 sneaky signs of hearing loss and what you can do about it&nbsp;&nbsp;The Washington PostWhat You Can Do to Slow Hearing Loss as You Age, According to Experts&nbsp;&nbsp;Health.comReduce dementia risk with doctor's 'number 1 tip' - and it's not brain exercises&nbsp;&nbsp;Wales OnlineThe connection between hearing loss and dementia explained&nbsp;&nbsp;KOTA Territory NewsAudiologists offer hearing-loss advice worth listening to&nbsp;&nbsp;presspubs.com",
       "sources": [
         {
           "name": "The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbmFWNnNLY3RMeGtadGJ5LVFZbDVXaWxpZ1FmZHdyenBtV0hhQkwwZTlKM2FGSlFvRVBrVDJBUjVQTmVoN1R3enBQcjh1SEc4SmlmZzRia2JaSGpiUkpRZ0UtZ1JZLWk5cXoxVEY1dUxyWXBxOVg0ZTlBNE9sc2taU01taHVwdTRjYU5mZWdoMXJ6NTdGdTN1Q0x1QzNzQTA1V0d3aWowaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9f28f0220116",
+      "title": "Studies reveal how instability may shape infant attention, brain activity and emotional regulation - Medical Xpress",
+      "published": "2026-08-29T16:31:53+00:00",
+      "summary": "Studies reveal how instability may shape infant attention, brain activity and emotional regulation&nbsp;&nbsp;Medical Xpress",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa3NNNC03SXV0ZXJ3c3ZZY3pmMHItZl9FM1hWTjNRZ3dpdVVDdGFCX21fcmNRVWx2cjFXbldCSlY3LWJsSUMtVDFockN0ZVB2ckhuX2JmaVZKT0M5b2pyUnJBQ2tteHlLZGJYYWRGQ1d6UTNNQmxjdWVaTUg3NjJCRDc5NnVIS3VrRXJwRmtB?oc=5"
         }
       ]
     },
@@ -66,6 +138,18 @@
       ]
     },
     {
+      "id": "1625825f3c2c",
+      "title": "Routine Surgery Had an Unexpected Effect On My Sex Life. Now I Might Lose the Perfect Girl Over It. - Slate",
+      "published": "2026-08-29T16:00:00+00:00",
+      "summary": "Routine Surgery Had an Unexpected Effect On My Sex Life. Now I Might Lose the Perfect Girl Over It.&nbsp;&nbsp;Slate",
+      "sources": [
+        {
+          "name": "Slate",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMWcxMDlOSlNwWmhiM0R2YVhFa01WbkRfVEFFRGkxVDI5QTBFc0pVVU5TYlFSTm0xUTFVZFIxUVJpTHNQTnFrMFhZV3ExeVhvWmdzX1Z1MmdRVlNrSmtnVWw4YnFLSDhtVk5Ja3VrdElNVGxHOVk4SC1yRERkc1hqdFF4WkxGNU9ZRjR5dk45aw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ac368bbeb043",
       "title": "41-year-old hospitalized after horrifying DIY treatment for incontinence - New York Post",
       "published": "2026-08-29T14:16:00+00:00",
@@ -78,6 +162,30 @@
       ]
     },
     {
+      "id": "c36657c3e28a",
+      "title": "Deep Sleep Brain Waves Offer Protection Against Alzheimer’s, Shows New Research - Good News Network",
+      "published": "2026-08-29T14:00:44+00:00",
+      "summary": "Deep Sleep Brain Waves Offer Protection Against Alzheimer’s, Shows New Research&nbsp;&nbsp;Good News NetworkYour sleep may be hiding an early clue to Alzheimer’s&nbsp;&nbsp;Science DailySleep Habits and Gene Variants Linked to Early Alzheimer’s Risk&nbsp;&nbsp;Sleep ReviewAlzheimer’s risk: These hidden \"local sleep\" waves may warn you years before symptoms&nbsp;&nbsp;Futura, le média qui explore le mondeHow To Update Your Sleep Patterns For Better Brain Health & Cognition&nbsp;&nbsp;MindBodyGree",
+      "sources": [
+        {
+          "name": "Good News Network",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOVRUU3ZaZWNCa2kxTFVXY1ZCSkJMSGFUVzlvSnZPSGhzMmdYZnQwLVRfN1c4Y1kxSkdSXzByTW1xVjNrY0FUQ2o3LTJKay05UUIzOWRSOGN2ZXY2QzZwbEoxWWt0a1BuRGZoSFFkaWJtWWRvZ1pYc2pqaF9pRUdNOXdQWU9tQjBidHBMNFFjbEtpOWZoTUVYcG54a0ZOUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cbe40ae925c7",
+      "title": "‘Hobbits’ walked more like humans than previously thought, study finds - Archaeology News Online Magazine",
+      "published": "2026-08-29T13:49:43+00:00",
+      "summary": "‘Hobbits’ walked more like humans than previously thought, study finds&nbsp;&nbsp;Archaeology News Online Magazine",
+      "sources": [
+        {
+          "name": "Archaeology News Online Magazine",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwdElodU4xaFQ1VUpLSDlQOVY2VTBKUVNLMnpERzZhdDI1TGo4VlVvbE5lSXg4Q0kxOVRKSDdaaWJqY0d6SUpuaXNRSUdHa2QyczE0SnBxdzMyRFA2TWl5cFVDbi1KQW41UWIwSEZWRTRXakJFVXc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "bd2f3497a742",
       "title": "Keto diet cut liver fat by 67% in a clinical trial - Science Daily",
       "published": "2026-08-29T13:33:28+00:00",
@@ -86,6 +194,18 @@
         {
           "name": "Science Daily",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1cEExbTMwTGljdmJDNVVWd0VzM2tBNGlsZFlzWVZRTE43NjZiYkkweEthUDVEakJUOGVsSFZUcnhvM29QYlRMVkNxdnZvNmZVc1g5bDRwSzFqeHlua19kdlUzUnZwZGJveUtBTEVDSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e78d3cd1f93e",
+      "title": "What Happens to Your Blood Sugar When You Take Ginger Supplements Regularly - Verywell Health",
+      "published": "2026-08-29T12:43:13+00:00",
+      "summary": "What Happens to Your Blood Sugar When You Take Ginger Supplements Regularly&nbsp;&nbsp;Verywell HealthHow does cinnamon affect blood sugar?&nbsp;&nbsp;USA TodayWhat Happens to Your Blood Sugar When You Drink Cinnamon and Ginger Tea&nbsp;&nbsp;Verywell Health",
+      "sources": [
+        {
+          "name": "Verywell Health",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CQmpNVFpqZjUxcW5iNU95bl90M1p4VnJ0elhWeUM1ZnRVRlNzd1B2MXF1RmdSSVk2R0Z6a0NLT2RORGIySjExY2pieVdtc0FkOGRWMG9RNjJwRDdocDZua1I4azBfZmhPbjRWbFdNNFh2QTRNR0gzeUczMVRGS1E?oc=5"
         }
       ]
     },
@@ -122,18 +242,6 @@
         {
           "name": "HuffPost",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNDl0Qm5CckFTVUtpTjFQWnJ4M2NfdU5ub2xXWGJCTmFxNjc1d3J3NnhIc3NpLTlhanlDZ0V2Q3lIRUFrZ2J3S2JIcjhfTzBLQnJUNUxTSm1ObHRVV1VKdWVrUV9UQWJFTGZuV1A0WVVoTHotUmh4bldRTVpRNUUzbTRYTVp4ckpTVk5XM1Z3SWJvY0dHc18xX0FmbnB3VHgtcFN6cDY4QzE3Z0hWZWg2VtIBtgFBVV95cUxPZi1RM2RPRVptQmZ2d2dydTNCRklTR19PckZGOEpVSFJjejRzZS1LLUstQkFWREYwTkN4cXBSb08tamUxd2VWOU5mS0dIcW5uTjA3dTJUM1lMMXBrZHo4V0ZxWUUxOGQ5YWJQZUpMbjlIcHc2SDhsZTA2bDI4V3pJa19qMXlJVURvUW01X290NjJETUhuUWlPbnhKU3I5MVJlTFJ5MEJIQ2g0MnI0MTlFdlk2QnpMUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d6f702f1fb3f",
-      "title": "Statins can safely cut risk of heart attacks or strokes in healthy people aged over 70, world-first clinical trial shows - The Guardian",
-      "published": "2026-08-29T10:27:00+00:00",
-      "summary": "Statins can safely cut risk of heart attacks or strokes in healthy people aged over 70, world-first clinical trial shows&nbsp;&nbsp;The GuardianSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSU9KdF9FVlc5ZEtpZnNIMXdBMm1YVjVwUW5ZSENxeVBmYWRldGlRVUJ1QzhaVHZnZGZ4UTZGWjRpSGxRSG5MRmNUYi1NSzd4ZkZGM21pa3BIblpjVEtNbzhpQWRyeG5Gdi1QSDBKVHhnY3ltRTlrcS0xYWJSbWV1OU9XTXd1ZTZYOUNGdm8weFlNS01fcURSRFdJWFVKYy15OWJnbG9ScjR5dWFIOEx2Qm10RTRWWWxROVE?oc=5"
         }
       ]
     },
@@ -186,50 +294,14 @@
       ]
     },
     {
-      "id": "ceb2435822a7",
-      "title": "Potential measles exposure announced at Warren hospital - WKBN.com",
-      "published": "2026-08-28T21:43:15+00:00",
-      "summary": "Potential measles exposure announced at Warren hospital&nbsp;&nbsp;WKBN.comWisconsin Dept. of Health Services reports ‘significant’ rise in measles cases&nbsp;&nbsp;KCRGAlmost 100 measles cases now tied to southwest Wisconsin outbreak&nbsp;&nbsp;Milwaukee Journal Sentinel92 confirmed, 6 probable measles cases in southwest Wisconsin&nbsp;&nbsp;Channel 300092 measles cases reported in southwestern Wisconsin outbreak&nbsp;&nbsp;WMTV 15 NEWS",
-      "sources": [
-        {
-          "name": "WKBN.com",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeTNxQUlycUtvWUtpclhEeHhKaVFnR1BKSk5ZMHg2MXJHMTBieXk1QnZPaTNqZzFKYVo3X1JtTGxlQXpiTlVueEY1T1hTVWp3VmxHamV3YkJQb1NDazRGVk5qMXZYMDc4am9PVDVidy1nU0FhX044eF8takxLWkxYM0V4ZXZMSzNGYlBBTURGWnRPcFY3VC1FUkw1ZldVUmFvUTMzLXJ2YnDSAa4BQVVfeXFMUDZBT1RzLXVTX2p5ZDVId1oxUkQ2SnR5S3FMVWs0eVk1WkliN1pGUWl4V1lpZnpqeVI3Q1lQR3dSdmdXS1BtYnpaVEZyX2QtV2ZwUkVHSDlJVlJDcE5TSWx1WUk2STh1dnNnWTFYdV9GZjRPaXRHMTIybGZ6SHhwMDl2VlR1Tm1TYWhHelFkNjlvRFpQRUxiZVlZdEFZV0IxOVZiVDBnWEdWUDZ6VzZn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "096ccbf222c5",
       "title": "Warming waters could expand brain-eating amoeba risk - WRAL",
       "published": "2026-08-28T21:07:59+00:00",
-      "summary": "Warming waters could expand brain-eating amoeba risk&nbsp;&nbsp;WRALNorth Carolina teen critically ill from rare brain-eating amoeba found in freshwater, officials say&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosNC teen has rare brain infection likely caused by swimming. Where did exposure happen? Are you safe?&nbsp;&nbsp;WRAL8-year-old dies from rare brain-eating amoeba likely contracted while swimming in Louisiana lake&nbsp;&nbsp;CNNNorth Carolina teen critically injured by rare",
+      "summary": "Warming waters could expand brain-eating amoeba risk&nbsp;&nbsp;WRALNorth Carolina teen critically ill from rare brain-eating amoeba found in freshwater, officials say&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosNCDHHS: Central NC teen infected with rare brain infection caused by amoeba&nbsp;&nbsp;WRAL8-year-old dies from rare brain-eating amoeba likely contracted while swimming in Louisiana lake&nbsp;&nbsp;CNNSecond Child Infected with Brain-Eating Amoeba Following Death of 8-Yea",
       "sources": [
         {
           "name": "WRAL",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbWgzcTFWX2pTU2I1LWF2MllKcXljTEVTbWtfTUF5RUpqODdGenFjekNhR25wdGNWTm55bkVod2tSVGt1bHhSamlQaVhUVnpvNFN5M042RldrUk9WTGpOTW04a3ZfYXBVYTY4X3N6RDJFazhVUG51Y3VrdEZ4VFpNQTlFRHNHUUtPRjV4WFVZNXQyczhINzRQWjRIRVd5QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d21ac51fc0c2",
-      "title": "What Happens to Your Brain When You Spend 20 Minutes Outside Every Morning - Real Simple",
-      "published": "2026-08-28T18:30:00+00:00",
-      "summary": "What Happens to Your Brain When You Spend 20 Minutes Outside Every Morning&nbsp;&nbsp;Real SimpleNature does something surprising to the brain beyond relieving stress&nbsp;&nbsp;Earth.comWhy We Say \"I Just Need Some Fresh Air\"—And What It Actually Does for Your Brain&nbsp;&nbsp;The Healthy @Reader's DigestSunshine May Be Good for the Brain&nbsp;&nbsp;Fisher Center for Alzheimer's Research Foundation",
-      "sources": [
-        {
-          "name": "Real Simple",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93aFVPQUNqNml6N3JVUEtOejdSLWtfM2c1dVN5NllfYTdVX2VlRlJCWVZYUmpUU1gzRzRFLVhFMzNZZWhlSXo4WDA5eEZ1VlNZRmd5VHV5T1hrLVBFTVRkZnBXWWpYR3JQcFBiQU8tc1ZaSUNnM3NPb2pyOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ab7402f51c4a",
-      "title": "Experimental weight loss pill boosts metabolism — but doesn’t make you eat less - New York Post",
-      "published": "2026-08-28T18:09:00+00:00",
-      "summary": "Experimental weight loss pill boosts metabolism — but doesn’t make you eat less&nbsp;&nbsp;New York PostExperimental Drug Makes Obese Mice Burn Fat Without Losing Muscle – Or Eating Less&nbsp;&nbsp;ScienceAlertCan an old molecule turn up the metabolic heat?&nbsp;&nbsp;Chemical & Engineering NewsGoodbye Ozempic? This Experimental Drug Could Burn Fat Without Muscle Loss | Health and Fitness News&nbsp;&nbsp;News18An old small molecule drug could fight obesity and keep lean muscle&nbsp;&nbsp;Drug Di",
-      "sources": [
-        {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUFQcldHU1dVR2JxVXNuLXdmTXZuTWRPRlVGTHAybUhLOV9nclhTelFQbXlKYUQwNHZGaVN4VHJ3c0xiWkk2ZXdLamhNb2xKaEZfa01XNFU2SlRvUzRqYzBaUHhQR0RmTDRpOVBNUFU2QVFxdkwtallzN2c4QkxLTnZER01jMDhWejF5Z1hNWWJsTzdWR0Nr?oc=5"
         }
       ]
     },
@@ -258,13 +330,13 @@
       ]
     },
     {
-      "id": "34919213c1a4",
-      "title": "7 Foods That Support Bone Density for Stronger Bones - health.com",
+      "id": "32bb79aa3c48",
+      "title": "7 Foods That Support Bone Density for Stronger Bones - Health.com",
       "published": "2026-08-28T16:15:00+00:00",
-      "summary": "7 Foods That Support Bone Density for Stronger Bones&nbsp;&nbsp;health.comStrong bones aren’t just about milk: 7 foods that help support bone density as you age&nbsp;&nbsp;The Times of IndiaThese 5 Everyday Foods Can Slash Your Fracture Risk by Up to 46%, According to Science&nbsp;&nbsp;graziamagazine.com",
+      "summary": "7 Foods That Support Bone Density for Stronger Bones&nbsp;&nbsp;Health.comStrong bones aren’t just about milk: 7 foods that help support bone density as you age&nbsp;&nbsp;The Times of IndiaThese 5 Everyday Foods Can Slash Your Fracture Risk by Up to 46%, According to Science&nbsp;&nbsp;graziamagazine.com",
       "sources": [
         {
-          "name": "health.com",
+          "name": "Health.com",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUM0p2SFZFTmkxOWRual9IOUdCa1JoZUxWcGRlSXdWdUozRkFFSWlnSWp6ZmFERC14S0cwNFp5eWU4dy1NYTNOZzZITE9YczFLS2k4RGJlaUNfTDVWMHFUUUN1cl9USEhyaEc3MWtjTU9nVkU?oc=5"
         }
       ]
@@ -297,7 +369,7 @@
       "id": "b79ce732236f",
       "title": "Researchers Find Shark Graveyard—in the Desert - Newser",
       "published": "2026-08-28T14:26:00+00:00",
-      "summary": "Researchers Find Shark Graveyard—in the Desert&nbsp;&nbsp;NewserAncient shark 'graveyard' uncovered in Egyptian desert&nbsp;&nbsp;Live ScienceEvidence of Ancient Sharks Found Buried in the Egyptian Desert&nbsp;&nbsp;Gizmodo‘Shark graveyard’ in Egypt's Western Desert reveals a lost tropical sea from the age of the dinosaurs&nbsp;&nbsp;The Brighter Side of NewsScientists Found an Ancient Shark Graveyard in the Egyptian Desert&nbsp;&nbsp;vice.com",
+      "summary": "Researchers Find Shark Graveyard—in the Desert&nbsp;&nbsp;NewserEvidence of Ancient Sharks Found Buried in the Egyptian Desert&nbsp;&nbsp;GizmodoEgypt's desert was rich marine ecosystem 145 mn yrs ago: Study | 'Five species found in the area for 1st time' | Inshorts&nbsp;&nbsp;InshortsPaleontologists Uncover a Graveyard of Ancient Sea ‘Monsters’ in the Sands of Egypt’s Deserts&nbsp;&nbsp;The DebriefAncient shark 'graveyard' uncovered in Egyptian desert&nbsp;&nbsp;Live Science",
       "sources": [
         {
           "name": "Newser",
@@ -318,38 +390,14 @@
       ]
     },
     {
-      "id": "c3e716c9cd6f",
-      "title": "‘Breakbone fever’ common in tropical countries is spreading in Florida - New York Post",
-      "published": "2026-08-28T14:01:00+00:00",
-      "summary": "‘Breakbone fever’ common in tropical countries is spreading in Florida&nbsp;&nbsp;New York PostDengue cases rise in several Florida counties, CDC data shows&nbsp;&nbsp;ABC7 WWSBDengue fever cases rise in Tampa Bay as health officials target disease-carrying mos­quitoes&nbsp;&nbsp;Spectrum Bay News 9Did you know there’s a dengue virus outbreak in the Tampa Bay area? | Column&nbsp;&nbsp;Tampa Bay TimesMosquito-Borne Dengue Case Confirmed In Pasco, Citrus, As Cases Rise In FL&nbsp;&nbsp;Patch",
-      "sources": [
-        {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLVd6UEI2N0dFLVZGMnphc1YyVlRuV0R1MDRTZVAwbXFmSU9VX1plU3doV0hKaWdnaVQ5N2tPelJIb3VTN0RJemRuSnRoSF9aSC04U3NoV3NJU0pRX25PcUhTcXp6TXUxSk1faTBrU3VudHYtX200WWVNeDRGeDhGQ1hldw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1e29c75e69bb",
       "title": "Maine waited years for a Lyme vaccine. RFK hobbled the panel needed for a smooth rollout - The Maine Monitor",
       "published": "2026-08-28T13:26:29+00:00",
-      "summary": "Maine waited years for a Lyme vaccine. RFK hobbled the panel needed for a smooth rollout&nbsp;&nbsp;The Maine MonitorSee more headlines & perspectives on Google News",
+      "summary": "Maine waited years for a Lyme vaccine. RFK hobbled the panel needed for a smooth rollout&nbsp;&nbsp;The Maine MonitorThe Bull Case For Pfizer (PFE) Could Change Following New COVID And Lyme Vaccine Milestones - Learn Why&nbsp;&nbsp;Yahoo FinanceAnswers to 3 questions about a potential Lyme vaccine&nbsp;&nbsp;newscentermaine.comPfizer (PFE) Starts EMA Review For Its Lyme Disease Vaccine&nbsp;&nbsp;Yahoo Finance",
       "sources": [
         {
           "name": "The Maine Monitor",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2ckgxZEkxM3ZsQm1TdUJNbWRNVXpkU1FJblFZLTRfMW5hY0xjQ09aSlBzaE1WWExaVmtUQzBjLU9wbXUxVHV2aVJGdFBFX3QxaHF5UWlLVGVnS0Z4X2YzNlczTU05Z29hdGF3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c789e1f557e8",
-      "title": "Traveler with measles may have exposed others at Reston locations - FFXnow",
-      "published": "2026-08-28T12:30:00+00:00",
-      "summary": "Traveler with measles may have exposed others at Reston locations&nbsp;&nbsp;FFXnowHealth officials warn of potential measles exposure in Northern Virginia&nbsp;&nbsp;WUSA9Measles exposure reported in N. Va., Alexandria health officials say&nbsp;&nbsp;ALXnowVDH: Person with measles reportedly traveled to Northern Virginia while infected&nbsp;&nbsp;WJLAMeasles Exposure Reported At 4 NoVA Businesses, Health Officials Say&nbsp;&nbsp;Patch",
-      "sources": [
-        {
-          "name": "FFXnow",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcFdYSk9GRnhWeUMwR3IyM29PMkcxc2psdnpfVEVGQVJ2VGU1ZXdqSHctTTJhclRLTlFXRmxYMUE4VzIxY0lVNTkzbHdJYUcyTVpSQ1hmcEo0Q2NYWUR3NkhEb0NrTU1mOWhCV1NMV1ZKVHBVRHMyVFNXU1ZtcldlcERMd212MmE0YlVobU5hTkRuN2VNdUQ4QXRwbC02VmFleHc?oc=5"
         }
       ]
     },
@@ -369,7 +417,7 @@
       "id": "0f34e88c4e43",
       "title": "Why are flesh-eating bacteria expanding beyond traditional hotspots? - WSYR",
       "published": "2026-08-28T11:56:11+00:00",
-      "summary": "Why are flesh-eating bacteria expanding beyond traditional hotspots?&nbsp;&nbsp;WSYRFlorida Man Survives Flesh-Eating Bacteria After 101 Days in the Hospital: ‘I Got a Second Chance’&nbsp;&nbsp;People.comEighth person dies from flesh-eating bacteria in Gulf Coast states&nbsp;&nbsp;The Independent‘Flesh-eating' bacteria linked to 3 deaths in Florida this year&nbsp;&nbsp;NBC 6 South Florida'Flesh-eating’ bacteria claims third Florida victim this year&nbsp;&nbsp;WPEC",
+      "summary": "Why are flesh-eating bacteria expanding beyond traditional hotspots?&nbsp;&nbsp;WSYRSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "WSYR",
@@ -390,26 +438,14 @@
       ]
     },
     {
-      "id": "185ea0685129",
-      "title": "You Can Get Your Flu Shot Right Now, Despite The Government's Radio Silence - HuffPost",
-      "published": "2026-08-28T11:00:17+00:00",
-      "summary": "You Can Get Your Flu Shot Right Now, Despite The Government's Radio Silence&nbsp;&nbsp;HuffPostLee Health: Plan for your flu vaccine now&nbsp;&nbsp;Naples Daily NewsEDITORIAL | Flu Shots: CDC recommends immunizations starting Sept. 1&nbsp;&nbsp;Texarkana GazetteHow early is too early to get my flu shot in Washington state? What experts say&nbsp;&nbsp;Tacoma News TribuneWhy You Need a Flu Shot Every Year, Even If You’re Healthy&nbsp;&nbsp;West Tennessee Healthcare",
+      "id": "daeab30fcac9",
+      "title": "Common vaccine linked to 24% lower dementia risk in older adults - Fox News",
+      "published": "2026-08-28T11:00:35+00:00",
+      "summary": "Common vaccine linked to 24% lower dementia risk in older adults&nbsp;&nbsp;Fox NewsRecombinant shingles vaccination and the risk of cardiovascular events&nbsp;&nbsp;NatureThe US switch in shingles vaccines revealed an unexpected heart health pattern&nbsp;&nbsp;News-MedicalNewer shingles vaccine linked to lower heart disease risk, ‘natural experiment’ shows&nbsp;&nbsp;STATThere’s a Vaccine That Could Lower Your Risk of Heart Attack—and Most People Aren’t Getting It&nbsp;&nbsp;Prevention",
       "sources": [
         {
-          "name": "HuffPost",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRlk2ZTZwRDhnVk9sVnFKeXJXbzFqNXZmd1VZQmxMbXZaeTJRMVFWVXBsRGdvUzdsVThkeXpIM1I4djV0WF9XLWtVQ29TQ3NtX3JObjBMTnVxNEVtSEVaLXI2MjJuMC1fejM0VVMxd1RWT0p1MEdIMG1abzc0dnhpNU5HZkphSkVTR3hFUtIBkgFBVV95cUxPMDdPOXdFWUJGU3JoTmJFdlc3RDdTT19Help5WU00eGRDdW91VkhoNXZzUHFncWplX21VTC12MG11Y0I5Rm5HdG5MZEdDVU1pRVVDRk13ZHFQREwxV0tfeGw1V2IteXJTaGVBVkROVFhWdGZ6ckg3WWhKWnRmdnpoRkc5aE5fdWUyX21DSlVwU3JlZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1f603c72fe63",
-      "title": "A $1,205 MRI was preapproved by insurance. The patient was still on the hook for almost all of it - Yahoo Finance",
-      "published": "2026-08-28T10:30:00+00:00",
-      "summary": "A $1,205 MRI was preapproved by insurance. The patient was still on the hook for almost all of it&nbsp;&nbsp;Yahoo FinanceHer health insurer approved a breast MRI. She still owed $1,200.&nbsp;&nbsp;The Washington PostPrior Authorization Approved Her Breast MRI and She Still Owed $1,191, Because Approval Is Not Coverage&nbsp;&nbsp;Medical DailyHer insurer preapproved a breast MRI — then paid just $13.90 of the $1,205 bill, leaving her with $1,191&nbsp;&nbsp;moneywise.com",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdmRBRjdhY25JaUVNbFBaS2EyTDk0QlBWUFAxSXdwOWdmclBnS1BFdThCS3JKZXpubDR0MUp5ZGtGYTN6Ql9na1N1bmZ2YWxQTXlKd2d2U05UdWVRMlJvWFg5Z2hWaXJGLWpvb29FT0EwVTZUb1habzNwcmxCVl9ndm5UTkRTVWJPNkNMOThZbXNoNlFWX3dj?oc=5"
+          "name": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMXVhRk5nU1Q1UDlzS1lKWFVRd3JmNXVXZ3VFb0NpbWFGQXNMZ1ZtdHYwWEVfX3YxUnRyeDBvYklmMTJJX2RHMHg1aENYVGRXQlpLNWZQTW05TjVVbmxGc2dPNzVuaGdZSVVlSlotNERWbUY2bEZaZDZCR0U3YmpxNjZ6T1dqWjYwQXpxNGlRYkY3S0sxcnJtbUw3anrSAaIBQVVfeXFMUC1oblUyck12aEUtVFRtb2dQeFlMazZnZ0YwdnhmMHJ3Y3Y1VkdTS2ZXaEMyMS0tVV9UTmlJZWxHcENJNmI3TEZKekhzb3B6Mm9FaGpGQ2Fqb0hiNlBYNFgyM0FIM3hmaXJsLVlVWHRRZ0NoblJlZDVXdFZmY2xtbnF3dzl5NjNGR0ppNWlyeVF5R3FhYWRPcEkyMnNNWk9UUkVB?oc=5"
         }
       ]
     },
@@ -438,26 +474,14 @@
       ]
     },
     {
-      "id": "61187094f550",
-      "title": "The US switch in shingles vaccines revealed an unexpected heart health pattern - News-Medical",
-      "published": "2026-08-28T03:21:00+00:00",
-      "summary": "The US switch in shingles vaccines revealed an unexpected heart health pattern&nbsp;&nbsp;News-MedicalCommon vaccine linked to 24% lower dementia risk in older adults&nbsp;&nbsp;Fox NewsRecombinant shingles vaccination and the risk of cardiovascular events&nbsp;&nbsp;NatureNewer shingles vaccine linked to lower heart disease risk, ‘natural experiment’ shows&nbsp;&nbsp;STATThere’s a Vaccine That Could Lower Your Risk of Heart Attack—and Most People Aren’t Getting It&nbsp;&nbsp;Prevention",
+      "id": "c1af0a9a73ac",
+      "title": "NHS bosses warn of chaos in ADHD and autism care - BBC",
+      "published": "2026-08-28T01:23:09+00:00",
+      "summary": "NHS bosses warn of chaos in ADHD and autism care&nbsp;&nbsp;BBCADHD and autism costs in England ‘running out of control’, NHS leaders warn&nbsp;&nbsp;The GuardianHalf a Billion Pounds and No One Counting the Cost of Quality&nbsp;&nbsp;distilledpost.comNeurodevelopmental services cannot remain a policy patchwork&nbsp;&nbsp;LaingBuisson NewsNational guidance needed to improve ADHD and autism care&nbsp;&nbsp;Social Care Today",
       "sources": [
         {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb2I3ZjFiOHdhQUVuSE9GMlAyMExUUTdnaC15ZkpNNU91OVlTQ2lnMVZkZjZUOUw1QnR4ZU1uS2lKazlENVNGNXhXSGx2OGkyRU1jNzk3LXEwaDZXczh4Qi1NNm9uR0l0WGFDbTFxR1U2Y1pSS3dJQlBhTzlKRENuenBRWEdGVHRocW5rLUVXWDlxUzZveHRqbkdnRHhlSlMyWFZGQmNRSDF5bUluOUYyLXg1LXRLZzR6bi1CTDN0YVZNcFdF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b3634c335ac6",
-      "title": "Scientists Just Made A Serious Breakthrough. Now This Nobel Prize Winner Thinks We’ve Mapped The Universe All Wrong - All That's Interesting",
-      "published": "2026-08-27T21:46:41+00:00",
-      "summary": "Scientists Just Made A Serious Breakthrough. Now This Nobel Prize Winner Thinks We’ve Mapped The Universe All Wrong&nbsp;&nbsp;All That's InterestingThe crisis in cosmology continues: Critical problems in a recent defense of cosmic acceleration&nbsp;&nbsp;Phys.orgThe universe is still speeding up, but nobody knows why&nbsp;&nbsp;Science DailyYonsei University challenges Nobel laureates on cosmic acceleration in new MNRAS paper&nbsp;&nbsp;DongA ScienceYonsei University: Universe May Not Be Accele",
-      "sources": [
-        {
-          "name": "All That's Interesting",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lY3VtMmJkdzBtS1BLU213bktPX1VGbXB3a0hITHpaUnkxNVZ3WTIzVGVOcTAyVUQtN2p3TF82Z1p5UDdueUFCX09CaGtNWTNkZUw3azlsOUpjQk5abTNMbEZ6UTJXbEhDMHZ2dXJYOA?oc=5"
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FWHBMWGRDRExPaVRYQi0yMHo1U3gyU081LVVEOW15aEFtc3FtWXg0OHlkLXRXcWFVNTFRTHZIQTREY1F5dXZtM3RXRXBYZEZSNGtGWkZEdzRaZw?oc=5"
         }
       ]
     },
@@ -477,7 +501,7 @@
       "id": "bcc13e666191",
       "title": "This Habit Could More Than Double Your Stomach Cancer Risk, New Study Says - EatingWell",
       "published": "2026-08-27T21:33:32+00:00",
-      "summary": "This Habit Could More Than Double Your Stomach Cancer Risk, New Study Says&nbsp;&nbsp;EatingWellThese Drinks Were Just Linked with 2.5 Higher Risk of G.I. Cancer in New Study&nbsp;&nbsp;Yahoo HealthSugary beverages linked to doubled stomach cancer risk, landmark US study shows&nbsp;&nbsp;The Financial ExpressBeware! Sugary drinks will kill you. Or maybe not.&nbsp;&nbsp;American Council on Science and HealthFizzy drink a day may double cancer risk&nbsp;&nbsp;Female First",
+      "summary": "This Habit Could More Than Double Your Stomach Cancer Risk, New Study Says&nbsp;&nbsp;EatingWellSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "EatingWell",
@@ -489,7 +513,7 @@
       "id": "a8dd7d4e364f",
       "title": "Milky Way's own gravity can mimic dark matter clues, stellar stream simulations suggest - Phys.org",
       "published": "2026-08-27T21:00:01+00:00",
-      "summary": "Milky Way's own gravity can mimic dark matter clues, stellar stream simulations suggest&nbsp;&nbsp;Phys.orgChance gaze at old Hubble Telescope image leads to discovery that could reveal dark matter's secrets&nbsp;&nbsp;SpaceA Distant Stream of Stars May Offer New Clues to Dark Matter&nbsp;&nbsp;Universe TodayScientists narrow the search for dark matter using new galaxy simulations&nbsp;&nbsp;The Brighter Side of NewsTrail of stars could help scientists measure dark matter&nbsp;&nbsp;NewsNation",
+      "summary": "Milky Way's own gravity can mimic dark matter clues, stellar stream simulations suggest&nbsp;&nbsp;Phys.orgChance gaze at old Hubble Telescope image leads to discovery that could reveal dark matter's secrets&nbsp;&nbsp;SpaceA Distant Stream of Stars May Offer New Clues to Dark Matter&nbsp;&nbsp;Universe TodayScientists narrow the search for dark matter using new galaxy simulations&nbsp;&nbsp;The Brighter Side of News🌠 A thin trail of stars spotted in another galaxy could reveal its dark matter&n",
       "sources": [
         {
           "name": "Phys.org",
@@ -513,7 +537,7 @@
       "id": "63a32e13252d",
       "title": "Cell therapy substantially reduces severe rheumatoid arthritis in first clinical trial - Medical Xpress",
       "published": "2026-08-27T20:40:03+00:00",
-      "summary": "Cell therapy substantially reduces severe rheumatoid arthritis in first clinical trial&nbsp;&nbsp;Medical XpressCD19 CAR T cell therapy for treatment-refractory seropositive rheumatoid arthritis: a phase 1 trial&nbsp;&nbsp;NatureOpinion: CAR Ts will only treat autoimmune diseases if we can scale delivery&nbsp;&nbsp;BioSpaceReading the COMPARE Phase 1 Data in Nature Medicine Closely&nbsp;&nbsp;The Clinical Trial VanguardCAR T-Cell Therapy Puts Severe Rheumatoid Arthritis Into Remission in First C",
+      "summary": "Cell therapy substantially reduces severe rheumatoid arthritis in first clinical trial&nbsp;&nbsp;Medical XpressCD19 CAR T cell therapy for treatment-refractory seropositive rheumatoid arthritis: a phase 1 trial&nbsp;&nbsp;NatureCAR T-Cell Therapy Puts Severe Rheumatoid Arthritis Into Remission in First Clinical Trial&nbsp;&nbsp;Genetic Engineering and Biotechnology NewsOpinion: CAR Ts will only treat autoimmune diseases if we can scale delivery&nbsp;&nbsp;BioSpaceReading the COMPARE Phase 1 Dat",
       "sources": [
         {
           "name": "Medical Xpress",
@@ -522,10 +546,10 @@
       ]
     },
     {
-      "id": "39a3f3bc6bd0",
-      "title": "A Study of Brain Proteins Offers New Targets to Treat Autism - The New York Times",
+      "id": "3e2878809af0",
+      "title": "Study of Brain Proteins Spurs Optimism for Autism Treatments - The New York Times",
       "published": "2026-08-27T18:00:07+00:00",
-      "summary": "A Study of Brain Proteins Offers New Targets to Treat Autism&nbsp;&nbsp;The New York TimesLargest ever ‘map’ of autism may hold clues for new targeted therapies&nbsp;&nbsp;CNNAutism-linked variants rewire protein networks&nbsp;&nbsp;The TransmitterUCSF gets $46 million autism research grant from Sergey Brin-backed foundation&nbsp;&nbsp;San Francisco ChronicleResearch into protein interactions sheds new light on causes of autism&nbsp;&nbsp;Fierce Biotech",
+      "summary": "Study of Brain Proteins Spurs Optimism for Autism Treatments&nbsp;&nbsp;The New York TimesLargest ever ‘map’ of autism may hold clues for new targeted therapies&nbsp;&nbsp;CNNAutism-linked variants rewire protein networks&nbsp;&nbsp;The TransmitterUCSF gets $46 million autism research grant from Sergey Brin-backed foundation&nbsp;&nbsp;San Francisco ChronicleResearch into protein interactions sheds new light on causes of autism&nbsp;&nbsp;Fierce Biotech",
       "sources": [
         {
           "name": "The New York Times",
@@ -546,58 +570,10 @@
       ]
     },
     {
-      "id": "f18e4d1c69a4",
-      "title": "Running on 4 Hours of Sleep? This 20-Minute Fix Works Almost as Well as a Nap - ScienceAlert",
-      "published": "2026-08-27T11:00:38+00:00",
-      "summary": "Running on 4 Hours of Sleep? This 20-Minute Fix Works Almost as Well as a Nap&nbsp;&nbsp;ScienceAlertWorkout or nap? Either can help your sleepless brain, study finds&nbsp;&nbsp;McGill UniversityWant to Protect Your Memory After a Sleepless Night? A Study Found 2 Ways to Reduce the Cognitive Cost&nbsp;&nbsp;inc.com20 Minutes of Exercise Is as Good as a 90-Minute Nap If You’re Sleep Deprived&nbsp;&nbsp;Nautilus | ScienceHow Exercise May Protect A Leader’s Memory After Losing Sleep&nbsp;&nbsp;Forb",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZHF0eEQ2MnNkczNPbjhNaWw0WlNwbFQ0Nkg4cmdYTjdEalhybHJyeVVaRFhBSmswNXI0S0hHOHBTOFZZdlo5RWhoUXZZd0g5a3lxVDVIcy1FWnFLbC0zYXVMdFpwNnVEWGQ5RnJhVDVnUlA0UWVNSFlDekxYa1p3SDVjLXBNMFN4eUk1bG9vNllIYVp0bThYR2VMNk1jWkI5Zm55a0RpQzdfQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "96c547566cd5",
-      "title": "Weight Down, Steps Down: The GLP-1 Catch - Medscape",
-      "published": "2026-08-27T06:11:53+00:00",
-      "summary": "Weight Down, Steps Down: The GLP-1 Catch&nbsp;&nbsp;MedscapeDairy protein plays significant role in GLP-1 diet&nbsp;&nbsp;Dairy Foods Magazine6 Supplements That May Help While Taking GLP-1 Medications&nbsp;&nbsp;Verywell HealthGLP-1 Drugs Don’t Work the Same Way for Everyone — Your Diet May Be Part of Why&nbsp;&nbsp;YahooThe 15 grocery staples recommended to everyone on GLP-1 by a dietitian&nbsp;&nbsp;Yahoo Health",
-      "sources": [
-        {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa0NmaEtRd2FLVTNmaVhDa1pkOXZ4TWlIZ2pjWGZvZUhIZXBoNEpFNnRBcjFRTzFKRVBJSm14T1luUTNQWU9kSW9EaUJQLU5iNU9lRjhfOHBFRWs3T3ctVkQ5Y2JzVFh6LXMxaVFTby1sSTFwREpMU3pmOHdMTnBWVkZQSUJGeW9RR2VXSg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "59898c6ae2e8",
-      "title": "Wild swimming linked to higher risk of stomach bugs and skin rashes - The Guardian",
-      "published": "2026-08-27T05:00:00+00:00",
-      "summary": "Wild swimming linked to higher risk of stomach bugs and skin rashes&nbsp;&nbsp;The GuardianStudy of 2,368 Swimmers Links E. Coli to Higher Stomach Illness Risk in Lakes and Rivers&nbsp;&nbsp;StudyFindsSwimming In Rivers And Lakes Linked To Higher Risk Of Stomach Bugs And Rashes | Newswise&nbsp;&nbsp;NewswiseStudy links river and lake swimming to higher risk of skin problems, stomach illness&nbsp;&nbsp;The Eastleigh VoiceRiver and lake swimming linked to stomach bugs and skin rashes&nbsp;&nbsp;Bi",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdzN4Y0Ezak5jeVZRaVV2WUhBNVhSZ3ZqQkRyaHVNZHlpMFJTbDVlYUpNVW10WW5xV2h5MzZXanVmN0ZVbmhUbG9xdGd4WlJBcHRhTHdxSFBJTlptc1I0SG1MUXZXaW9WdmQyNWgtdk5sMzhEektjcXVxdkpYNC10UGU5SzNiVEVnenJlemJSVVJlU0ZiNmN4OGFodDF3YjlxS2Yzc2VHV2dITHM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c47aca05f1a1",
-      "title": "Scientists Find Signs of Artery Damage in Nearly 8 in 10 Young Adults - ScienceAlert",
-      "published": "2026-08-27T03:00:35+00:00",
-      "summary": "Scientists Find Signs of Artery Damage in Nearly 8 in 10 Young Adults&nbsp;&nbsp;ScienceAlertHeart disease risk is already visible in arteries by age 23&nbsp;&nbsp;Earth.comReading CKM Signals Together: A Pharmacist's Guide&nbsp;&nbsp;Pharmacy TimesHeart and kidney risks found in nearly 8 of 10 young adults, study shows&nbsp;&nbsp;The Eastleigh Voice8 Out of 10 Young People May Already Be at a Higher Risk for Cardiovascular Events, New Study Says&nbsp;&nbsp;Yahoo Health",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWVJaNUxWLXdWa28zaDI2QlQ2SGs1c2YzNFBldmdXeTNucFVmQ2VweDhfYVFmaUpLWkI2MTRVR0pycDFNbU5BWG8wdldjRFhwcDcwZUZld2JhVjVwXzMzVFhVcTdyS0ZiXzNIdlVVdzRjcW45MFJlRHN6WmNyUGlmN0M2ZlZ0TlpFRWlWMGpoYlg0UkZmT3YzbjdIYTgyR0swWk12LXJCdWdDdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "031e4db47cd8",
       "title": "First patient to have brain surgery with real-time AI assistance - BBC",
       "published": "2026-08-26T23:07:22+00:00",
-      "summary": "First patient to have brain surgery with real-time AI assistance&nbsp;&nbsp;BBCLondon neurosurgeons perform first successful AI-assisted operation to remove brain tumour&nbsp;&nbsp;The GuardianAI Makes History: First Live AI Assisted Brain Surgery&nbsp;&nbsp;GulteLeighton Buzzard ambulance volunteer first patient in live AI assisted sight-saving brain surgery&nbsp;&nbsp;Leighton Buzzard ObserverThe first AI-assisted brain surgery helped a man in the UK regain his eyesight. The surgery was a rese",
+      "summary": "First patient to have brain surgery with real-time AI assistance&nbsp;&nbsp;BBCLondon neurosurgeons perform first successful AI-assisted operation to remove brain tumour&nbsp;&nbsp;The GuardianSurgeons use AI assistance to remove brain tumor in world first&nbsp;&nbsp;CGTNAI Makes History: First Live AI Assisted Brain Surgery&nbsp;&nbsp;GulteThe first AI-assisted brain surgery helped a man in the UK regain his eyesight. The surgery was a research trial, financed by the National Institute for Heal",
       "sources": [
         {
           "name": "BBC",
@@ -618,26 +594,26 @@
       ]
     },
     {
-      "id": "9bb8218510b6",
-      "title": "Scientists Discover Vast Underground 'Anomaly' on Mars - 404 Media",
-      "published": "2026-08-26T18:24:26+00:00",
-      "summary": "Scientists Discover Vast Underground 'Anomaly' on Mars&nbsp;&nbsp;404 MediaTidal tomography reveals a thermal anomaly beneath Mars’s crustal dichotomy&nbsp;&nbsp;NatureThermal anomaly discovered below Mars' south pole&nbsp;&nbsp;Phys.orgStudy: Mars's South Interior Hotter Than North&nbsp;&nbsp;srpske.rsMars may be two-faced to its core&nbsp;&nbsp;Scientific American",
+      "id": "e390e1675cc5",
+      "title": "Thermal anomaly discovered below Mars' south pole - Phys.org",
+      "published": "2026-08-26T20:20:08+00:00",
+      "summary": "Thermal anomaly discovered below Mars' south pole&nbsp;&nbsp;Phys.orgTidal tomography reveals a thermal anomaly beneath Mars’s crustal dichotomy&nbsp;&nbsp;NatureScientists Discover Vast Underground 'Anomaly' on Mars&nbsp;&nbsp;404 MediaStudy: Mars's South Interior Hotter Than North&nbsp;&nbsp;srpske.rsMars may be two-faced to its core&nbsp;&nbsp;Scientific American",
       "sources": [
         {
-          "name": "404 Media",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM255OTJSTXdKc0dfc1lYWFJOQnVUa1FqLU4tVndyV1pOblhMU1ljdTBzZmtMZGtrSVc0QXR5ZFo3WWx0MlpNaE9TYVQyNEpBcmlEZWFNX0VuVW9ZZWhXd2ljM2xKUUhVODVrcmpVMkI1TmE5c1ozSzJtWnlvVmpoSGF5MA?oc=5"
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8ybFJ3a3RtTXh3c2NxemQ1alpXX0ZQbDI0SEoteWZJVGZoSnY2N19ieElvdFNqUkM5UkZxWWtZS2NpZDU1SF9COHJCR1JiaERsTDFrWXNmWjlmLTgxdHhpdHBvdTQ0bFkzbzRGcDc0b0NqbWRV?oc=5"
         }
       ]
     },
     {
-      "id": "34e1edcf0ec1",
-      "title": "Neanderthal pelvises challenge a long-held idea about childbirth and walking - Archaeology News Online Magazine",
-      "published": "2026-08-26T16:48:12+00:00",
-      "summary": "Neanderthal pelvises challenge a long-held idea about childbirth and walking&nbsp;&nbsp;Archaeology News Online MagazineMale Neanderthal pelvises resemble those of modern women more closely than modern men—not because women are “less evolved,” but because modern men may be the anatomical outlier. A new study argues that men evolved forward-shifted hip joints tha&nbsp;&nbsp;Space DailyTwo Neanderthal Pelvises Suggest the Anatomical Oddball Is Actually the Modern Human Male&nbsp;&nbsp;Medical Dail",
+      "id": "14d655319f66",
+      "title": "Heat makes emergency rooms busier. Study shows which illness and injuries rise during hot spells - AP News",
+      "published": "2026-08-26T18:51:03+00:00",
+      "summary": "Heat makes emergency rooms busier. Study shows which illness and injuries rise during hot spells&nbsp;&nbsp;AP NewsIn Chicago ERs, Extreme Heat’s Toll Goes Far Beyond the Obvious&nbsp;&nbsp;Inside Climate NewsBeyond heatstroke: 33 hidden conditions linked to extreme heat&nbsp;&nbsp;Euronews.com'Everything is connected': Readers share their concerns about extreme heat's health impacts&nbsp;&nbsp;Live ScienceExtreme Heat Linked to 33 Clinically Reportable Diagnoses&nbsp;&nbsp;Dermatology Advisor",
       "sources": [
         {
-          "name": "Archaeology News Online Magazine",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR1czQjZ0dWQwdGUwMFFCbG9ZTHRRS21fQVBvMVF1bUFqc2dueU9OQjBjdURxUkliMXoyQUo2TWEtbTJWT3VNbUtaNDQzSnpENjBsRGdqajRvbU5FWXBGOXlXVnNlTlpibjlrQUh2YnlkSmNIbTMzak14TVB0eW5iYVU5dUVlTEh6YXlBNlA0TjVXZw?oc=5"
+          "name": "AP News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORHRvSDdFS1ljR0JGOUVLVElEQ3h5NHpwZ3FTakFIQk9vT0hERTBrWkliX0NDa0syck1FZGVHeFFmRFZ1ZkdTTXY0S2J0VHl1NFJXa0tET0p4RW90WVJPMUF6RnhpYU5NTHhQVVRfci1sOTA4bXZ3RzhteDhNYWdSRHVjV2czaEZad2xiamtkQWRyWEZoUmM0SlpSNGl3WkhIcVI3MUJMYWxEbTBRb1E?oc=5"
         }
       ]
     },
@@ -654,10 +630,22 @@
       ]
     },
     {
+      "id": "b93e3e3a1015",
+      "title": "Florida Moves to Let Children Attend School Without 4 Previously Required Vaccines - Currently.com",
+      "published": "2026-08-26T12:17:00+00:00",
+      "summary": "Florida Moves to Let Children Attend School Without 4 Previously Required Vaccines&nbsp;&nbsp;Currently.comSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "Currently.com",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ3N5ZUJNZndUa3FxazlkeE8xQlJ3OVBOOTZXUmRWR2pvRWpWZGJBS2hnX3F4S3dyWC1mNzh0cHdtbkpTMW5vZS1kd3k2VnBqNjNaQjdDUGJxaVZQOV9sNWhoOFJhaFBsMG9WZkdIZVNiT2Q4N0NsVl9MNDdfOE5qMGF1WUNfbnE5S0YtTQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "65b0bbce776b",
       "title": "An easy waist measurement may reveal more about longevity as you age than BMI - CNN",
       "published": "2026-08-26T12:00:29+00:00",
-      "summary": "An easy waist measurement may reveal more about longevity as you age than BMI&nbsp;&nbsp;CNNA higher BMI may help you live longer in later years – but there's a catch&nbsp;&nbsp;New AtlasBeer belly or muffin top? Study reveals which type of fat is worse for our health&nbsp;&nbsp;The MirrorWhy Waist-To-Height Ratio May Reveal a Hidden Heart Risk BMI Misses&nbsp;&nbsp;Woman's WorldWaist size reveals health risks that BMI can miss&nbsp;&nbsp;Earth.com",
+      "summary": "An easy waist measurement may reveal more about longevity as you age than BMI&nbsp;&nbsp;CNNWaist size reveals health risks that BMI can miss&nbsp;&nbsp;Earth.comA higher BMI may help you live longer in later years – but there's a catch&nbsp;&nbsp;New AtlasBeer belly or muffin top? Study reveals which type of fat is worse for our health&nbsp;&nbsp;The MirrorCarrying Extra Weight? New Science Just Revealed Some Very Good News&nbsp;&nbsp;inc.com",
       "sources": [
         {
           "name": "CNN",
@@ -669,7 +657,7 @@
       "id": "5784a8837d6a",
       "title": "What you eat before age 2 may affect your health 70 years later - Science Daily",
       "published": "2026-08-26T11:32:41+00:00",
-      "summary": "What you eat before age 2 may affect your health 70 years later&nbsp;&nbsp;Science DailyA childhood shaped by sugar rationing was linked to mental health more than 50 years later&nbsp;&nbsp;News-MedicalLess sugar early in life might decrease dementia risk&nbsp;&nbsp;Science NewsThe sugar you ate as a baby may be affecting your health now, study finds&nbsp;&nbsp;The HillThese Babies Grew Up With Strict Sugar Limits. Decades Later, The Results Are Dramatic.&nbsp;&nbsp;ScienceAlert",
+      "summary": "What you eat before age 2 may affect your health 70 years later&nbsp;&nbsp;Science DailyA childhood shaped by sugar rationing was linked to mental health more than 50 years later&nbsp;&nbsp;News-MedicalThese Babies Grew Up With Strict Sugar Limits. Decades Later, The Results Are Dramatic.&nbsp;&nbsp;ScienceAlertLess sugar early in life might decrease dementia risk&nbsp;&nbsp;Science NewsEating less of common ingredient early in life may slash cancer risk decades later&nbsp;&nbsp;Fox News",
       "sources": [
         {
           "name": "Science Daily",
@@ -702,18 +690,6 @@
       ]
     },
     {
-      "id": "1ff79e0f5bd2",
-      "title": "Florida plans to drop 4 vaccine mandates, despite Trump support for some shots - Tampa Bay Times",
-      "published": "2026-08-25T02:26:33+00:00",
-      "summary": "Florida plans to drop 4 vaccine mandates, despite Trump support for some shots&nbsp;&nbsp;Tampa Bay TimesFlorida Moves to Let Children Attend School Without 4 Previously Required Vaccines&nbsp;&nbsp;YahooFlorida moves forward with plan to roll back vaccine requirements in public schools&nbsp;&nbsp;MS NOWFlorida’s Department of Health removes 4 vaccines from required list for public schools&nbsp;&nbsp;CIDRAPFlorida Seeks to Remove 4 Vaccines, Including Chickenpox, from School Requirements&nbsp;&n",
-      "sources": [
-        {
-          "name": "Tampa Bay Times",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUHdoV2h6TXl5cE5rNzhkZkhvWmFEZ0RFZ0I0RnlmS1BGWWtBQTZDTjB3VHQyU01EYkpqYUJuaXZ2bFNOeU4xeU90WHh0VnJRalBrR2l1d3dJdUtaczAzOUNwRGNSNXVfc3NFM044endtV2FkR0daYW5lbzNfRm0xY01zalgyajdjYll0Y1RWZU9fcmxpSGFYOHduUm9jaF9aTnVlUk85Wm5uSzlHMkVaYUVfeXVYT21jcXhmRUNsUVNSWWRa?oc=5"
-        }
-      ]
-    },
-    {
       "id": "470e7ca5a6be",
       "title": "Common prescription drug delivers surprising results in hair-loss study - Cleveland.com",
       "published": "2026-08-24T16:01:00+00:00",
@@ -741,7 +717,7 @@
       "id": "fee15c3ddc25",
       "title": "Unexpected GLP-1 side effect? Studies show the meds may help people with addictions - NewsNation",
       "published": "2026-08-23T16:46:03+00:00",
-      "summary": "Unexpected GLP-1 side effect? Studies show the meds may help people with addictions&nbsp;&nbsp;NewsNationSee more headlines & perspectives on Google News",
+      "summary": "Unexpected GLP-1 side effect? Studies show the meds may help people with addictions&nbsp;&nbsp;NewsNationCan GLP-1 Drugs Help Veterans Lower Alcohol Use? What New Research Shows&nbsp;&nbsp;Military.comNo GLP-1 Is Approved for Addiction and the Trials That Could Change That Do Not Report Until 2027&nbsp;&nbsp;Medical DailyCould GLP-1s help with alcohol use disorder? A Philly VA doctor is leading a national trial to find out&nbsp;&nbsp;The Union DemocratCan GLP-1s Transform Addiction Treatment?&nb",
       "sources": [
         {
           "name": "NewsNation",
@@ -750,26 +726,14 @@
       ]
     },
     {
-      "id": "00d4b056cb68",
-      "title": "Here are the menopause symptoms doctors often don’t talk about - The Washington Post",
-      "published": "2026-08-23T16:00:00+00:00",
-      "summary": "Here are the menopause symptoms doctors often don’t talk about&nbsp;&nbsp;The Washington PostI studied Reddit forums on menopause — and found what doctors are missing&nbsp;&nbsp;STAT411 on perimenopause&nbsp;&nbsp;DC News NowThe Pause Project helps women learn about menopause&nbsp;&nbsp;Midvale JournalMenopause confusion creates a care gap&nbsp;&nbsp;eMarketer",
+      "id": "ef867fb0d638",
+      "title": "Maternal mental health is making headlines. Experts say it’s long overdue - CNN",
+      "published": "2026-08-23T12:06:26+00:00",
+      "summary": "Maternal mental health is making headlines. Experts say it’s long overdue&nbsp;&nbsp;CNNYou Were Never Supposed to Read These Postpartum Messages&nbsp;&nbsp;Marie ClaireWhat to know about postpartum mental illness&nbsp;&nbsp;ReutersThe truth about postpartum depression&nbsp;&nbsp;Loma Linda University‘You are not alone’: Madison County offers postpartum depression help&nbsp;&nbsp;Oneida Dispatch",
       "sources": [
         {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQzdmd1hyOFNtVGhDRnFYR3RlVEtwcWE2OTl4VG0ydjFjQTZPaURSSm1UM2poTHJNUV9jeUhUZk1pdjZwLW9aeTVCMkxudnRVdkhxNUxpQVZYS2FSSlp5Q05LcUVRSjhyNjNVY1d4RG9tUGJ3VzRCVVMwQV9SazNxa3RWcXpxcnJrbXNvYV9sQVdkTUtZSmdfdWFScWRIaDFJeHBmeVRESGpqZDFnUGJYdkZ2c2I?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "24637d057edf",
-      "title": "COVID Is Spreading In These Regions Right Now — Here Are The Symptoms To Watch For - HuffPost",
-      "published": "2026-08-23T11:00:18+00:00",
-      "summary": "COVID Is Spreading In These Regions Right Now — Here Are The Symptoms To Watch For&nbsp;&nbsp;HuffPostSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "HuffPost",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMjFNWDQ2bFBkQ0dGQlMyenRoYjR4U2RzV2F6RHE3TDRuU19jRmhuMnlpekZiY0hQMjFnZ3FJM0RqSm04MUtIVGsyYmRzSkc5SE9vOFJPaEdzcHVwcmRtZjR4bXJTbnpOTGIyNW4xMGtLUmVvVTlQUFBRa3dRdHhaSXI2dGxpMmN3ek1fdDZFS1RZeFc4dGJEdE1R0gGfAUFVX3lxTE84OFFJX0t3Sl9GMGNkZThyaDBtUkZJSnFqY3RsbVVxUEhaZ2JzNDFyWndSNXNfN0VlZmtHVC1LVEs1RTEyOVFtMDhSaURtanEwYzN2RVQ4MDJ3TXczZHlhLVRSRzBReXY3RmZtNll6ZktsWE1PbGRWcHNpN1RyaGM5TVl0TzR4VHhuMk12Y0dZX2R0Um9QSlotckM0d09EQQ?oc=5"
+          "name": "CNN",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YNXVoUHZnX3M1X0hTSmhJN0lLU2lScEVUTVdHYWx3M3JYa05kaEJQWkplYlNyS0UwX1hRam1XMkZzcjVicnJjX0F6VkdmS2hVVVR1NU5DOHA3Sks0ZV9XTUdENl9uMUVHR3Zfag?oc=5"
         }
       ]
     }

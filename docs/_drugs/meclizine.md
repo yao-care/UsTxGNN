@@ -2,7 +2,7 @@
 layout: default
 title: Meclizine
 parent: 僅模型預測 (L5)
-nav_order: 892
+nav_order: 893
 evidence_level: L5
 indication_count: 6
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Nafarelin
 parent: 僅模型預測 (L5)
-nav_order: 950
+nav_order: 951
 evidence_level: L5
 indication_count: 10
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Mogamulizumab
 parent: 僅模型預測 (L5)
-nav_order: 938
+nav_order: 939
 evidence_level: L5
 indication_count: 7
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Teriparatide
 parent: 僅模型預測 (L5)
-nav_order: 984
+nav_order: 1215
 evidence_level: L5
 indication_count: 10
 ---

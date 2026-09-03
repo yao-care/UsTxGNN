@@ -2,7 +2,7 @@
 layout: default
 title: Technetium Tc-99M Sestamibi
 parent: 僅模型預測 (L5)
-nav_order: 972
+nav_order: 1203
 evidence_level: L5
 indication_count: 10
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Nicardipine
 parent: 僅模型預測 (L5)
-nav_order: 963
+nav_order: 964
 evidence_level: L5
 indication_count: 5
 ---

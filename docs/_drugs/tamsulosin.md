@@ -2,7 +2,7 @@
 layout: default
 title: Tamsulosin
 parent: 僅模型預測 (L5)
-nav_order: 968
+nav_order: 1199
 evidence_level: L5
 indication_count: 10
 ---

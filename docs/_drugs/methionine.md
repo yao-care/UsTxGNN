@@ -2,7 +2,7 @@
 layout: default
 title: Methionine
 parent: 僅模型預測 (L5)
-nav_order: 907
+nav_order: 908
 evidence_level: L5
 indication_count: 10
 ---

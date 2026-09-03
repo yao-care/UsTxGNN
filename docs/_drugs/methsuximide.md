@@ -2,7 +2,7 @@
 layout: default
 title: Methsuximide
 parent: 僅模型預測 (L5)
-nav_order: 913
+nav_order: 914
 evidence_level: L5
 indication_count: 10
 ---

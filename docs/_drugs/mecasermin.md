@@ -2,7 +2,7 @@
 layout: default
 title: Mecasermin
 parent: 僅模型預測 (L5)
-nav_order: 890
+nav_order: 891
 evidence_level: L5
 indication_count: 5
 ---

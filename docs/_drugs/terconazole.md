@@ -2,7 +2,7 @@
 layout: default
 title: Terconazole
 parent: 僅模型預測 (L5)
-nav_order: 982
+nav_order: 1213
 evidence_level: L5
 indication_count: 10
 ---

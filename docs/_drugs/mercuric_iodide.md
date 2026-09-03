@@ -2,7 +2,7 @@
 layout: default
 title: Mercuric Iodide
 parent: 僅模型預測 (L5)
-nav_order: 901
+nav_order: 902
 evidence_level: L5
 indication_count: 10
 ---

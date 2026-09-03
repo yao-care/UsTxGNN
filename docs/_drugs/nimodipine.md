@@ -2,7 +2,7 @@
 layout: default
 title: Nimodipine
 parent: 僅模型預測 (L5)
-nav_order: 966
+nav_order: 967
 evidence_level: L5
 indication_count: 2
 ---

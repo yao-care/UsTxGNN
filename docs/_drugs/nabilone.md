@@ -2,7 +2,7 @@
 layout: default
 title: Nabilone
 parent: 僅模型預測 (L5)
-nav_order: 947
+nav_order: 948
 evidence_level: L5
 indication_count: 10
 ---

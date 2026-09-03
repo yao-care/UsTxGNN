@@ -2,7 +2,7 @@
 layout: default
 title: Metaxalone
 parent: 僅模型預測 (L5)
-nav_order: 903
+nav_order: 904
 evidence_level: L5
 indication_count: 3
 ---

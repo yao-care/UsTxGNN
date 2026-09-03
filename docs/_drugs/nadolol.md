@@ -2,7 +2,7 @@
 layout: default
 title: Nadolol
 parent: 僅模型預測 (L5)
-nav_order: 949
+nav_order: 950
 evidence_level: L5
 indication_count: 5
 ---

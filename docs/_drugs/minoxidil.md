@@ -2,7 +2,7 @@
 layout: default
 title: Minoxidil
 parent: 僅模型預測 (L5)
-nav_order: 932
+nav_order: 933
 evidence_level: L5
 indication_count: 10
 ---

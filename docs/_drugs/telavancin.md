@@ -2,7 +2,7 @@
 layout: default
 title: Telavancin
 parent: 僅模型預測 (L5)
-nav_order: 974
+nav_order: 1205
 evidence_level: L5
 indication_count: 9
 ---

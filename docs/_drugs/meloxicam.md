@@ -2,7 +2,7 @@
 layout: default
 title: Meloxicam
 parent: 僅模型預測 (L5)
-nav_order: 894
+nav_order: 895
 evidence_level: L5
 indication_count: 10
 ---

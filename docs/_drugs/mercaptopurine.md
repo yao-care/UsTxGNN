@@ -2,7 +2,7 @@
 layout: default
 title: Mercaptopurine
 parent: 僅模型預測 (L5)
-nav_order: 900
+nav_order: 901
 evidence_level: L5
 indication_count: 10
 ---

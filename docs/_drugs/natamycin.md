@@ -2,7 +2,7 @@
 layout: default
 title: Natamycin
 parent: 僅模型預測 (L5)
-nav_order: 956
+nav_order: 957
 evidence_level: L5
 indication_count: 10
 ---

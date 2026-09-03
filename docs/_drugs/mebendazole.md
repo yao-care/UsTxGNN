@@ -2,7 +2,7 @@
 layout: default
 title: Mebendazole
 parent: 僅模型預測 (L5)
-nav_order: 888
+nav_order: 889
 evidence_level: L5
 indication_count: 1
 ---

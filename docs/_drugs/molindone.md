@@ -2,7 +2,7 @@
 layout: default
 title: Molindone
 parent: 僅模型預測 (L5)
-nav_order: 939
+nav_order: 940
 evidence_level: L5
 indication_count: 10
 ---

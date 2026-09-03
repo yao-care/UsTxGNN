@@ -2,7 +2,7 @@
 layout: default
 title: Tamoxifen
 parent: 僅模型預測 (L5)
-nav_order: 967
+nav_order: 1198
 evidence_level: L5
 indication_count: 10
 ---

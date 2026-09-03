@@ -2,7 +2,7 @@
 layout: default
 title: Naproxen
 parent: 僅模型預測 (L5)
-nav_order: 953
+nav_order: 954
 evidence_level: L5
 indication_count: 4
 ---

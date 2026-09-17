@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Oritavancin
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 995
 evidence_level: L5
 indication_count: 3
@@ -10,12 +10,12 @@ indication_count: 3
 # Oritavancin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -46,7 +46,7 @@ indication_count: 3
 | Predicted New Indication | Bacteroidaceae infectious disease |
 | TxGNN Prediction Score | 99.48% |
 | Evidence Level | L5 (model prediction only, no supporting studies) |
-| US Market Status | ✗ 未上市 (Not Marketed) |
+| US Market Status | ✗ Not marketed (Not Marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 
@@ -89,7 +89,7 @@ All three top TxGNN candidates (including rank 1 above) share the same evidence 
 
 ## US Market Information
 
-Oritavancin currently has **no Taiwan market authorization** (0 NDA/license records; market status: 未上市/Not Marketed). No product, dosage form, or approved-indication data is available for review.
+Oritavancin currently has **no Taiwan market authorization** (0 NDA/license records; market status: Not marketed/Not Marketed). No product, dosage form, or approved-indication data is available for review.
 
 ---
 

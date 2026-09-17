@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Acetaminophen Codeine
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 108
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Acetaminophen Codeine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Evidence Level: **L5** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ Without a prediction target, this report documents the data gaps that must be re
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model prediction only — and none was produced) |
-| US Market Status | 未上市 (Not marketed in Taiwan; US status not queried) |
+| US Market Status | Not marketed (Not marketed in Taiwan; US status not queried) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

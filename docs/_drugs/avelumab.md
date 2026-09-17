@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Avelumab
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 432
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Avelumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -37,7 +37,7 @@ indication_count: 10
 
 ## One-Sentence Summary
 
-Avelumab（商品名 Bavencio）是一種抗 PD-L1 免疫檢查點抑制劑，已獲美國 FDA 核准用於 Merkel 細胞癌與局部晚期或轉移性尿路上皮癌（鉑化療後之維持治療），但目前在台灣尚未上市。
+Avelumab（商品名 Bavencio）是一種抗 PD-L1 免疫檢查點抑制劑，已獲美國 FDA 核准用於 Merkel 細胞癌與局部晚期或轉移性尿路上皮癌（鉑化療後之維持治療），但目前在台灣尚Not marketed。
 TxGNN 模型預測其可能對 **Human Herpesvirus 8-Related Tumor**（HHV-8 相關腫瘤，包含 Kaposi 肉瘤及原發性滲出性淋巴瘤）具有療效，
 然而目前有 **0 項臨床試驗** 及 **0 篇文獻** 支持此方向，證據等級為最低的 **L5（模型預測，無實際研究支持）**。
 
@@ -51,7 +51,7 @@ TxGNN 模型預測其可能對 **Human Herpesvirus 8-Related Tumor**（HHV-8 相
 | 預測新適應症 | Human Herpesvirus 8-Related Tumor |
 | TxGNN 預測分數 | 99.97% |
 | 證據等級 | L5 |
-| 台灣上市狀態 | ✗ 未上市（TFDA） |
+| 台灣上市狀態 | ✗ Not marketed（TFDA） |
 | 核准許可證數 | 0 |
 | 建議決策 | **Hold** |
 
@@ -126,7 +126,7 @@ TxGNN 模型給出高達 99.97% 的預測分數，然而此結果完全缺乏臨
 
 - **基礎生物標誌驗證**：HHV-8 相關腫瘤亞型（KS、PEL、MCD）之 PD-L1 表現量化及免疫微環境（TIL 組成、TMB）描述
 - **臨床前數據**：建立 HHV-8 感染腫瘤模型，驗證 anti-PD-L1 ± ADCC 的抗腫瘤活性
-- **MOA 資料補足**：查詢 DrugBank API（DB11945）取得完整作用機轉，用於機轉關聯性分析
+- **MOA 資料補足**：Query the DrugBank API（DB11945）取得完整作用機轉，用於機轉關聯性分析
 - **安全性初評解鎖**：下載並解析台灣 TFDA 仿單 PDF，補齊 DG001（Blocking data gap），方可進入 S1 安全性評估
 - **特殊族群安全性框架**：制定 HIV 陽性患者及器官移植受者使用免疫檢查點抑制劑的安全性評估方案，包含 ART 藥物交互作用審查
 - **模型品質回饋**：本 Evidence Pack 中排名 5–8 的預測適應症（ADA 缺乏症、Reticular dysgenesis、Immunoerythromyeloid hypoplasia、非嚴重型 CID）均屬免疫缺陷疾病，與 Avelumab 機轉明顯相悖（生物學反指示），建議回饋至 TxGNN 訓練資料以修正模型偏差

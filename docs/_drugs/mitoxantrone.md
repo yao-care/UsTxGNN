@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mitoxantrone
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 937
 evidence_level: L5
 indication_count: 8
@@ -10,12 +10,12 @@ indication_count: 8
 # Mitoxantrone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Mitoxantrone is an anthraquinone antineoplastic agent, structurally related to t
 | Predicted New Indication | Upper Aerodigestive Tract Neoplasm |
 | TxGNN Prediction Score | 99.78% |
 | Evidence Level | L3 (single-arm Phase II trials + 1 systematic review; no completed RCT) |
-| US Market Status | 未上市 (Not Marketed) |
+| US Market Status | Not marketed (Not Marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 
@@ -88,7 +88,7 @@ Historically, mitoxantrone has already been studied as monotherapy and in combin
 
 ## US Market Information
 
-Currently no marketing authorization records are on file — `taiwan_regulatory.total_licenses = 0` and market status is "未上市" (Not Marketed).
+Currently no marketing authorization records are on file — `taiwan_regulatory.total_licenses = 0` and market status is "Not marketed" (Not Marketed).
 
 ---
 

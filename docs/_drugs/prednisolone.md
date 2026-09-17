@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Prednisolone
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 1077
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Prednisolone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ with **1 highly relevant completed Phase 4 RCT**, **2 additional supporting clin
 | Predicted New Indication | Alopecia Areata |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L2 |
-| US Market Status | ✗ Not Marketed (未上市) |
+| US Market Status | ✗ Not Marketed (Not marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -92,7 +92,7 @@ AA is a T-cell–mediated autoimmune disease in which collapse of the hair folli
 
 ## US Market Information
 
-Prednisolone is currently **not marketed** under this evidence pack (0 licenses on record; market status: 未上市). No authorization/product records are available to summarize.
+Prednisolone is currently **not marketed** under this evidence pack (0 licenses on record; market status: Not marketed). No authorization/product records are available to summarize.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Alpha -Tocopherol Acetate Dl- Ascorbic Acid Biotin
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 233
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Alpha -Tocopherol Acetate Dl- Ascorbic Acid Biotin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Evidence Level: **L5** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ The TxGNN model did **not return any predicted new indications** for this candid
 | Predicted New Indication | None (TxGNN returned no predictions) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — Model prediction unavailable; no supporting studies |
-| Taiwan Market Status | Not marketed (未上市) |
+| Taiwan Market Status | Not marketed (Not marketed) |
 | Number of Licenses | 0 |
 | Recommended Decision | **Hold** |
 
@@ -83,7 +83,7 @@ Currently no related literature available for this combination as a unified TxGN
 
 ## Taiwan Market Information
 
-This drug combination has **no registered licenses** in Taiwan and is currently not marketed (未上市). No authorization records are available.
+This drug combination has **no registered licenses** in Taiwan and is currently not marketed (Not marketed). No authorization records are available.
 
 ---
 

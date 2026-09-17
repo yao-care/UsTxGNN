@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Ioversol
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 807
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Ioversol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Ioversol (DrugBank DB09134) is an iodinated contrast medium used for diagnostic 
 | Predicted New Indication | Osteoarthritis (rank 2; rank-1 "osteoarthritis susceptibility" excluded — see rationale below) |
 | TxGNN Prediction Score | 99.63% (osteoarthritis, rank 9427/full list) |
 | Evidence Level | L4 |
-| Market Status (Taiwan) | 未上市 (Not marketed) |
+| Market Status (Taiwan) | Not marketed (Not marketed) |
 | Number of Licenses (Taiwan) | 0 |
 | Recommended Decision | Hold |
 

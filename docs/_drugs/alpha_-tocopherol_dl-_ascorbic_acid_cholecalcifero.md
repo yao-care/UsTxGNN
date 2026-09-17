@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Alpha -Tocopherol Dl- Ascorbic Acid Cholecalcifero
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 255
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Alpha -Tocopherol Dl- Ascorbic Acid Cholecalcifero
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Evidence Level: **L5** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -49,7 +49,7 @@ This candidate cannot proceed to repurposing evaluation at this time.
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model prediction only; no predictions generated) |
-| Taiwan Market Status | Not marketed (未上市) |
+| Taiwan Market Status | Not marketed (Not marketed) |
 | Number of Licenses | 0 |
 | Recommended Decision | **Hold** |
 

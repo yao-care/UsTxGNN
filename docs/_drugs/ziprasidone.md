@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Ziprasidone
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 1310
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Ziprasidone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -101,7 +101,7 @@ It is worth flagging directly: the evidence pack's own rationale notes that this
 
 ## US Market Information
 
-Ziprasidone currently holds **no valid TFDA marketing license in Taiwan** (`taiwan_regulatory.total_licenses = 0`, market status "未上市"/Not Marketed). No license records are available to summarize brand names, dosage forms, or approved indication text.
+Ziprasidone currently holds **no valid TFDA marketing license in Taiwan** (`taiwan_regulatory.total_licenses = 0`, market status "Not marketed"/Not Marketed). No license records are available to summarize brand names, dosage forms, or approved indication text.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Anamirta Cocculus Whole Ascorbic Acid Chamaelirium
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 343
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Anamirta Cocculus Whole Ascorbic Acid Chamaelirium
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Evidence Level: **L5** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ As a result, a full repurposing evaluation cannot be completed at this stage; th
 | Predicted New Indication | No TxGNN prediction available |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Below L5 — no model output, no studies |
-| Market Status | Not Marketed (未上市) |
+| Market Status | Not Marketed (Not marketed) |
 | Number of Approvals | 0 |
 | Recommended Decision | **Hold** |
 

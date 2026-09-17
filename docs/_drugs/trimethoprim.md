@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Trimethoprim
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 1264
-evidence_level: L5
+evidence_level: L1
 indication_count: 2
 ---
 
 # Trimethoprim
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Evidence Level: **L1** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -44,7 +44,7 @@ indication_count: 2
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on file (0 US licenses; product currently "未上市"/Not Marketed in this registry) |
+| Original Indication | Not on file (0 US licenses; product currently "Not marketed"/Not Marketed in this registry) |
 | Predicted New Indication | Conjunctivitis (bacterial) |
 | TxGNN Prediction Score | 99.17% |
 | Evidence Level | L1 |
@@ -91,7 +91,7 @@ By contrast, the model's top-ranked candidate (punctate epithelial keratoconjunc
 
 ## US Market Information
 
-Currently not marketed under this registry — 0 NDA licenses on file (`market_status: 未上市 / Not Marketed`). No product/authorization data available to tabulate.
+Currently not marketed under this registry — 0 NDA licenses on file (`market_status: Not marketed / Not Marketed`). No product/authorization data available to tabulate.
 
 ---
 

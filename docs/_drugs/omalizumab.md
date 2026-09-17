@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Omalizumab
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 992
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Omalizumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ indication_count: 10
 | Predicted New Indication | Bronchitis (persistent eosinophilic bronchitis) |
 | TxGNN Prediction Score | 99.9992% |
 | Evidence Level | L4 |
-| US Market Status | 未上市 (Not Marketed) |
+| US Market Status | Not marketed (Not Marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 
@@ -87,7 +87,7 @@ Consistent with this, the supporting evidence in this pack is thin and largely i
 
 ## US Market Information
 
-This drug is not currently marketed in this jurisdiction (未上市, 0 licenses on file), so no license/authorization data is available for this evidence pack.
+This drug is not currently marketed in this jurisdiction (Not marketed, 0 licenses on file), so no license/authorization data is available for this evidence pack.
 
 ---
 

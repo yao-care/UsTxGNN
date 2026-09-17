@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Famotidine
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 692
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Famotidine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -46,7 +46,7 @@ The TxGNN model's top-ranked prediction for this candidate is **Duodenogastric R
 | Predicted New Indication | Duodenogastric Reflux |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L3 |
-| US Market Status | Not Marketed (未上市) |
+| US Market Status | Not Marketed (Not marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 
@@ -79,7 +79,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-No regulatory license records are available for this drug — `taiwan_regulatory.total_licenses = 0` and market status is "未上市" (Not Marketed). No product/dosage-form/indication table can be generated from current data.
+No regulatory license records are available for this drug — `taiwan_regulatory.total_licenses = 0` and market status is "Not marketed" (Not Marketed). No product/dosage-form/indication table can be generated from current data.
 
 ---
 

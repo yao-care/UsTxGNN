@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Flavoxate
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 709
 evidence_level: L5
 indication_count: 8
@@ -10,12 +10,12 @@ indication_count: 8
 # Flavoxate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Flavoxate is a direct-acting (musculotropic) urinary tract antispasmodic histori
 | Predicted New Indication | Neurogenic Bladder (obsolete term, per source ontology) |
 | TxGNN Prediction Score | 99.13% |
 | Evidence Level | L5 (model prediction only — no clinical trials or literature identified) |
-| Taiwan Market Status (TFDA) | 未上市 (Not Marketed) |
+| Taiwan Market Status (TFDA) | Not marketed (Not Marketed) |
 | Number of TFDA Licenses | 0 |
 | Recommended Decision | Hold |
 
@@ -90,7 +90,7 @@ Currently no related literature available.
 
 ## Taiwan Market Information
 
-Flavoxate has **0** TFDA licenses on record and is currently **not marketed** in Taiwan (`market_status: 未上市`). No product name, dosage form, or approved indication text is available to summarize.
+Flavoxate has **0** TFDA licenses on record and is currently **not marketed** in Taiwan (`market_status: Not marketed`). No product name, dosage form, or approved indication text is available to summarize.
 
 ---
 

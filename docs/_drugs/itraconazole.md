@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Itraconazole
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 819
-evidence_level: L5
+evidence_level: L2
 indication_count: 1
 ---
 
 # Itraconazole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Evidence Level: **L2** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Itraconazole is a triazole antifungal agent; detailed original indication and me
 | Predicted New Indication | Pneumocystosis |
 | TxGNN Prediction Score | 99.34% |
 | Evidence Level | L2 |
-| US Market Status | 未上市 (Not Marketed) |
+| US Market Status | Not marketed (Not Marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 
@@ -86,7 +86,7 @@ Currently no related clinical trials registered.
 
 ## Taiwan Market Information
 
-No licenses currently on record — 0 approved NDAs. This drug is marked as "未上市" (not marketed) in the Taiwan regulatory dataset, and `taiwan_regulatory.licenses` contains no entries to summarize.
+No licenses currently on record — 0 approved NDAs. This drug is marked as "Not marketed" (not marketed) in the Taiwan regulatory dataset, and `taiwan_regulatory.licenses` contains no entries to summarize.
 
 ---
 

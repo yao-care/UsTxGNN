@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nafarelin
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 951
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Nafarelin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -44,11 +44,11 @@ TxGNN 模型給出的第一名預測適應症為「Ambras type hypertrichosis un
 
 | 項目 | 內容 |
 |------|------|
-| 原始適應症 | 資料缺口（TFDA 未上市、DrugBank 授權資料為空，對應 DG001/DG002） |
+| 原始適應症 | 資料缺口（TFDA Not marketed、DrugBank 授權資料為空，對應 DG001/DG002） |
 | 預測新適應症 | Ambras type hypertrichosis universalis congenita |
 | TxGNN 預測分數 | 99.87%（0.9986818432807922） |
 | 證據等級 | L5（純模型預測，無實際研究） |
-| 台灣市場狀態 | 未上市 |
+| 台灣市場狀態 | Not marketed |
 | 授權許可證數 | 0 |
 | 建議決策 | Hold |
 
@@ -95,7 +95,7 @@ Nafarelin 目前**未於台灣上市**，無有效藥品許可證資料（`total
 **決策：Hold**
 
 **理由：**
-- 資料缺口 DG001（TFDA 仿單警語/禁忌，Blocking 等級）明確標示「無法進入 S1 安全性初評」，在此缺口補齊前，任何適應症候選都不應推進。
+- 資料缺口 DG001（FDA package insert warnings/contraindications，Blocking 等級）明確標示「Cannot proceed to S1 safety screening」，在此缺口補齊前，任何適應症候選都不應推進。
 - 本頁預測的第一名候選（Ambras type hypertrichosis）證據等級 L5，且證據包自身機轉分析已判定為無關聯的雜訊配對，不具備推進價值。
 
 **同批候選中值得留意、但不屬本頁預測範圍的兩項：**

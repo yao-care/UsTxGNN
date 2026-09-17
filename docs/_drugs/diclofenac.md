@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Diclofenac
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 602
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Diclofenac
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -91,7 +91,7 @@ By contrast, the model's top-8 predictions (ranks 1–8, scores 99.25–99.69%) 
 
 ## US Market Information
 
-No US market authorizations were retrieved for Diclofenac in this Evidence Pack (market status recorded as "未上市," 0 NDAs). This is very likely a **data retrieval gap** rather than a true absence: diclofenac is approved in the United States under multiple brand names (e.g., Voltaren Gel, Zipsor, Cambia, Pennsaid) across both oral and topical formulations.
+No US market authorizations were retrieved for Diclofenac in this Evidence Pack (market status recorded as "Not marketed," 0 NDAs). This is very likely a **data retrieval gap** rather than a true absence: diclofenac is approved in the United States under multiple brand names (e.g., Voltaren Gel, Zipsor, Cambia, Pennsaid) across both oral and topical formulations.
 
 Manual verification against the FDA Orange Book is recommended before relying on the market status recorded here. The data gap DG001 (TFDA package insert) and the US market retrieval failure should both be resolved before proceeding to formal safety evaluation.
 
@@ -114,7 +114,7 @@ The JIA repurposing direction is mechanistically coherent (COX-mediated synovial
 
 **To proceed, the following is needed:**
 
-- **Resolve US market status**: Retrieve NDAs from the FDA Orange Book manually; the "未上市" in this pack is almost certainly a data gap for a globally established drug
+- **Resolve US market status**: Retrieve NDAs from the FDA Orange Book manually; the "Not marketed" in this pack is almost certainly a data gap for a globally established drug
 - **Retrieve DrugBank MOA data (DG002)**: Formally confirm COX-1/2 inhibition profile and any additional pharmacological targets for the evidence file
 - **Retrieve package insert warnings and contraindications (DG001)**: Required to complete the S1 safety evaluation; standard NSAID risks (GI, renal, cardiovascular) are expected to apply
 - **Clarify indication status**: Determine whether JIA is already a formally approved indication for diclofenac in the US (in which case this is indication-label confirmation rather than repurposing, and regulatory strategy differs accordingly)

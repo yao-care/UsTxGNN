@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Toremifene
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 1244
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Toremifene
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ indication_count: 1
 | Predicted New Indication | HIV Infectious Disease |
 | TxGNN Prediction Score | 99.41% |
 | Evidence Level | L5 |
-| US Market Status | 未上市 (Not Marketed) |
+| US Market Status | Not marketed (Not Marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 
@@ -77,7 +77,7 @@ Currently no related clinical trials registered
 
 ## US Market Information
 
-No licensing/authorization records available in this data pack (market status: 未上市 / Not Marketed, 0 total licenses).
+No licensing/authorization records available in this data pack (market status: Not marketed / Not Marketed, 0 total licenses).
 
 ---
 

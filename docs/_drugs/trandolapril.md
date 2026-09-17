@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Trandolapril
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 1247
 evidence_level: L5
 indication_count: 6
@@ -10,12 +10,12 @@ indication_count: 6
 # Trandolapril
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Trandolapril is an ACE inhibitor; the exact regulatory-approved original indicat
 | Predicted New Indication | Malignant Hypertensive Renal Disease |
 | TxGNN Prediction Score | 99.92% |
 | Evidence Level | L5 |
-| Taiwan Market Status | 未上市 (Not marketed) |
+| Taiwan Market Status | Not marketed (Not marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 
@@ -75,7 +75,7 @@ Currently no related literature available
 
 ## US Market Information
 
-Trandolapril is currently **未上市 (not marketed)** in this dataset's jurisdiction, with 0 registered licenses. No authorization records are available to summarize.
+Trandolapril is currently **Not marketed (not marketed)** in this dataset's jurisdiction, with 0 registered licenses. No authorization records are available to summarize.
 
 ---
 

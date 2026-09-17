@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Foscarnet
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 736
 evidence_level: L5
 indication_count: 4
@@ -10,12 +10,12 @@ indication_count: 4
 # Foscarnet
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -43,7 +43,7 @@ Foscarnet (DrugBank DB00529) is known — per the evidence pack's own rationale 
 | Predicted New Indication | Autosomal dominant familial hematuria–retinal arteriolar tortuosity–contractures syndrome |
 | TxGNN Prediction Score | 99.56% (rank 10,857) |
 | Evidence Level | L5 |
-| US Market Status | 未上市 (Not Marketed) |
+| US Market Status | Not marketed (Not Marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 
@@ -63,7 +63,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-Foscarnet currently holds no license record on file (`market_status`: 未上市 / Not Marketed; `total_licenses`: 0). No marketing-authorization table is available.
+Foscarnet currently holds no license record on file (`market_status`: Not marketed / Not Marketed; `total_licenses`: 0). No marketing-authorization table is available.
 
 ## Safety Considerations
 

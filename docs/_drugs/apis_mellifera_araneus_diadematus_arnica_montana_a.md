@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Apis Mellifera Araneus Diadematus Arnica Montana A
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 378
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Apis Mellifera Araneus Diadematus Arnica Montana A
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Evidence Level: **L5** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -65,7 +65,7 @@ This formulation consists of 26 homeopathic components spanning three biological
 
 The TxGNN pipeline requires a unique **DrugBank ID** to anchor a compound within the biomedical knowledge graph. Because this product is a multi-ingredient homeopathic preparation, no single DrugBank ID was assignable to the formulation as a whole — the DrugBank query returned a result count of 1 but mapped to no valid `drugbank_id`. As a result, both the Knowledge Graph (KG) and Deep Learning (DL) prediction steps returned zero candidates, and `predicted_indications` is empty.
 
-Furthermore, no original approved indication exists in the Taiwan regulatory database (0 licenses, market status: 未上市), which removes the second anchor point required for a "From Indication A → Indication B" repurposing hypothesis.
+Furthermore, no original approved indication exists in the Taiwan regulatory database (0 licenses, market status: Not marketed), which removes the second anchor point required for a "From Indication A → Indication B" repurposing hypothesis.
 
 ---
 

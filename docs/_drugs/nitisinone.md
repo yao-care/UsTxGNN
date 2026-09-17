@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Nitisinone
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 969
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Nitisinone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -49,7 +49,7 @@ Using the drug-repurposing-evaluation-report format directly (no other skill app
 | Predicted New Indication | Renal Tubular Acidosis |
 | TxGNN Prediction Score | 99.96% |
 | Evidence Level | L3 |
-| Taiwan Market Status | 未上市 (Not marketed) |
+| Taiwan Market Status | Not marketed (Not marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -82,7 +82,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-Nitisinone is currently **not marketed in Taiwan** (market status: 未上市), and no license records are available in the regulatory dataset. No approved Taiwan product information can be cited at this time.
+Nitisinone is currently **not marketed in Taiwan** (market status: Not marketed), and no license records are available in the regulatory dataset. No approved Taiwan product information can be cited at this time.
 
 ---
 

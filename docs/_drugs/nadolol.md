@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nadolol
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 950
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Nadolol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Nadolol (DB01203) is a non-selective beta-adrenergic blocker; no approved indica
 | Predicted New Indication | Malignant Hypertensive Renal Disease |
 | TxGNN Prediction Score | 99.59% |
 | Evidence Level | L5 (model prediction only, no trials or literature) |
-| Taiwan Market Status | 未上市 (Not marketed) |
+| Taiwan Market Status | Not marketed (Not marketed) |
 | Number of Licenses | 0 |
 | Recommended Decision | Hold |
 

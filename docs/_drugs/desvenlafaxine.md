@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Desvenlafaxine
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 589
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Desvenlafaxine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -112,7 +112,7 @@ No clinical trial has directly tested desvenlafaxine as a primary treatment for 
 - DrugBank API query to obtain complete MOA data, including receptor binding affinities and transporter selectivity profile
 - Targeted literature search for desvenlafaxine (not venlafaxine as proxy) in OCD — including case series, naturalistic studies, and pharmacovigilance signals
 - Drug interaction assessment for OCD co-medications commonly used alongside SNRIs (clomipramine, atypical antipsychotics, benzodiazepines)
-- TFDA marketing authorisation pathway assessment, given current 未上市 status in Taiwan
+- TFDA marketing authorisation pathway assessment, given current Not marketed status in Taiwan
 
 > **💡 Higher-priority candidates identified in this evidence pack:** The dysthymic disorder indication (Rank 8, L3 evidence, 3 direct clinical trials including a Phase 4 RCT) and melancholia/MDD indication (Rank 10, L2 evidence, 19 publications including multiple meta-analyses and a head-to-head RCT) both carry substantially stronger evidence bases and are recommended as higher-priority targets for accelerated evaluation.
 ## Disclaimer

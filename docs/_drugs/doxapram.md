@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Doxapram
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 624
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Doxapram
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -49,7 +49,7 @@ Doxapram's original indication and mechanism of action are not documented in thi
 | Predicted New Indication | Vascular Disease |
 | TxGNN Prediction Score | 99.99% (0.99989) |
 | Evidence Level | L4 (mechanism/preclinical-adjacent only; no clinical trials) |
-| US Market Status | Not Marketed (未上市) |
+| US Market Status | Not Marketed (Not marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 
@@ -57,7 +57,7 @@ Doxapram's original indication and mechanism of action are not documented in thi
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in this evidence pack (flagged as data gap DG002, High severity — "作用機轉 (MOA)"). Based on the literature that was retrieved, doxapram is a respiratory/analeptic stimulant that acts on carotid body chemoreceptors and the medullary respiratory center; several of the retrieved papers describe secondary hemodynamic effects (pressor responses, altered hypoxic pulmonary vasoconstriction) as side effects of this respiratory stimulation, not as a treatment mechanism for vascular disease itself.
+Detailed mechanism-of-action data is not available in this evidence pack (flagged as data gap DG002, High severity — "Mechanism of action (MOA)"). Based on the literature that was retrieved, doxapram is a respiratory/analeptic stimulant that acts on carotid body chemoreceptors and the medullary respiratory center; several of the retrieved papers describe secondary hemodynamic effects (pressor responses, altered hypoxic pulmonary vasoconstriction) as side effects of this respiratory stimulation, not as a treatment mechanism for vascular disease itself.
 
 The model's own repurposing rationale for this candidate is explicit about the weakness of the mechanistic link: it notes that "vascular disease" is a broad, upper-level category in the TxGNN disease ontology, and that a high similarity score here is more likely to reflect embedding clustering with adjacent vascular-disease subtypes than a specific, validated pharmacological relationship. No clinical trial evidence exists for this indication, and the retrieved literature includes at least one clearly mismatched result (a stroke-prevention anticoagulation trial with no connection to doxapram), reinforcing the concern that this signal may be noise.
 
@@ -94,7 +94,7 @@ The 18 literature hits returned for "vascular disease" are predominantly histori
 
 ## US Market Information
 
-Doxapram currently holds no regulatory approvals on record for this market — status is **Not Marketed (未上市)** with **0 licenses** on file. No product/dosage-form data is available to tabulate.
+Doxapram currently holds no regulatory approvals on record for this market — status is **Not Marketed (Not marketed)** with **0 licenses** on file. No product/dosage-form data is available to tabulate.
 
 ---
 

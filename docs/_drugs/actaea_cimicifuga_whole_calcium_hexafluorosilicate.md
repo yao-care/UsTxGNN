@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Actaea Cimicifuga Whole Calcium Hexafluorosilicate
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 146
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Actaea Cimicifuga Whole Calcium Hexafluorosilicate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Evidence Level: **L5** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -33,7 +33,7 @@ indication_count: 0
 
 ## One-Sentence Summary
 
-本品為含 8 種成分的複方製劑（包含 Actaea cimicifuga、Drosera rotundifolia、Inula helenium 等草本與礦物成分），目前在台灣及美國均未上市。由於 DrugBank 無法識別完整複方、亦無原始適應症記錄，TxGNN 模型**未能產生任何新適應症預測**，本次評估資料不足，無法進行完整分析。
+本品為含 8 種成分的複方製劑（包含 Actaea cimicifuga、Drosera rotundifolia、Inula helenium 等草本與礦物成分），目前在台灣及美國均Not marketed。由於 DrugBank 無法識別完整複方、亦無原始適應症記錄，TxGNN 模型**未能產生任何新適應症預測**，本次評估資料不足，無法進行完整分析。
 
 ---
 
@@ -45,7 +45,7 @@ indication_count: 0
 | Predicted New Indication | 無預測結果 |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5（模型未產生預測，無任何實證） |
-| US Market Status | 未上市 |
+| US Market Status | Not marketed |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 

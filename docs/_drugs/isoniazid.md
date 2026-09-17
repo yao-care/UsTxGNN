@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Isoniazid
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 814
-evidence_level: L5
+evidence_level: L4
 indication_count: 1
 ---
 
 # Isoniazid
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Evidence Level: **L4** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ indication_count: 1
 | Predicted New Indication | Conjunctivitis |
 | TxGNN Prediction Score | 99.36% |
 | Evidence Level | L4 |
-| Market Status (Taiwan) | 未上市 (Not currently marketed) |
+| Market Status (Taiwan) | Not marketed (Not currently marketed) |
 | Number of NDAs/Licenses | 0 |
 | Recommended Decision | Hold |
 
@@ -92,7 +92,7 @@ All identified literature concerns **tuberculous/phlyctenular conjunctivitis** s
 
 ## US Market Information
 
-No TFDA/FDA marketing authorization records are currently available — isoniazid is recorded as **未上市 (not marketed)** in this dataset, with 0 licenses on file.
+No TFDA/FDA marketing authorization records are currently available — isoniazid is recorded as **Not marketed (not marketed)** in this dataset, with 0 licenses on file.
 
 ---
 

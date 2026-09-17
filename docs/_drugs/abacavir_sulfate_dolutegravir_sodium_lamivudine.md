@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Abacavir Sulfate Dolutegravir Sodium Lamivudine
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 37
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Abacavir Sulfate Dolutegravir Sodium Lamivudine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Evidence Level: **L5** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ Abacavir + Dolutegravir + Lamivudine 是三合一抗反轉錄病毒固定劑量�
 | Predicted New Indication | 無（TxGNN 本次未輸出預測候選） |
 | TxGNN Prediction Score | 不適用 |
 | Evidence Level | 無法評定（無預測、無臨床試驗、無文獻）|
-| US Market Status | 未上市（台灣藥品資料庫查無核准） |
+| US Market Status | Not marketed（台灣藥品資料庫查無核准） |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 
@@ -73,8 +73,8 @@ Abacavir + Dolutegravir + Lamivudine 是三合一抗反轉錄病毒固定劑量�
 
 | 缺口編號 | 缺口項目 | 嚴重程度 | 影響 | 補救方式 |
 |---------|---------|---------|------|---------|
-| DG001 | 台灣仿單警語／禁忌 | Blocking | 無法進入安全性初評 | 至 TFDA 官網下載仿單 PDF 並解析 |
-| DG002 | 作用機轉（MOA） | High | 影響機轉關聯性分析 | 查詢 DrugBank API |
+| DG001 | 台灣仿單警語／禁忌 | Blocking | 無法進入安全性初評 | 至 FDA websiteDownload and parse the package insert PDF |
+| DG002 | 作用機轉（MOA） | High | Limits mechanistic-link analysis | Query the DrugBank API |
 
 ---
 

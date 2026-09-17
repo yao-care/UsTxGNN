@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Niacin
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 963
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Niacin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -46,7 +46,7 @@ indication_count: 1
 | Predicted New Indication | Homozygous Familial Hypercholesterolemia |
 | TxGNN Prediction Score | 99.74% (rank 6966) |
 | Evidence Level | L4 (see caveat below) |
-| Market Status | 未上市 (Not marketed in Taiwan) |
+| Market Status | Not marketed (Not marketed in Taiwan) |
 | Number of Licenses | 0 |
 | Recommended Decision | Hold |
 

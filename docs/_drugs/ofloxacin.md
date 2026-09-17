@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Ofloxacin
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 984
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Ofloxacin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ indication_count: 10
 | Predicted New Indication | Monoclonal Gammopathy (infection prophylaxis in newly diagnosed multiple myeloma) |
 | TxGNN Prediction Score | 99.82% |
 | Evidence Level | L2 |
-| US Market Status | 未上市 (Not Marketed) |
+| US Market Status | Not marketed (Not Marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -90,7 +90,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-No Taiwan or US license records are available for ofloxacin in this evidence pack (`market_status`: 未上市 / Not Marketed; `total_licenses`: 0).
+No Taiwan or US license records are available for ofloxacin in this evidence pack (`market_status`: Not marketed / Not Marketed; `total_licenses`: 0).
 
 ---
 

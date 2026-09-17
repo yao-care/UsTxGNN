@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Atomoxetine
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 424
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Atomoxetine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -51,7 +51,7 @@ The evidence is rated at **L1** — the highest tier — supported by multiple c
 | Predicted New Indication | Specific Developmental Disorder |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L1 |
-| US Market Status | Not marketed (未上市) |
+| US Market Status | Not marketed (Not marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Proceed with Guardrails |
 

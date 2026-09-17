@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Hydroxyurea
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 781
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Hydroxyurea
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Hydroxyurea (DrugBank DB01005) is a ribonucleotide reductase inhibitor and broad
 | Predicted New Indication | Female Breast Carcinoma |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L3 |
-| US Market Status | Not Marketed (未上市) |
+| US Market Status | Not Marketed (Not marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Research Question |
 

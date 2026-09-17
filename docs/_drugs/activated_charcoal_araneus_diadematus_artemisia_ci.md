@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Activated Charcoal Araneus Diadematus Artemisia Ci
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 198
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Activated Charcoal Araneus Diadematus Artemisia Ci
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Evidence Level: **L5** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ indication_count: 0
 | Predicted New Indication | 無（TxGNN 未產生預測） |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5（模型無法評估，缺乏任何實際研究） |
-| US Market Status | 未上市 |
+| US Market Status | Not marketed |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 
@@ -118,7 +118,7 @@ indication_count: 0
 - **成分拆解評估**：將 23 種成分逐一查詢 DrugBank，篩選出有藥理記錄的單一成分（例如 Berberine 來自 Berberis Vulgaris、Emodin 來自 Rheum Palmatum），對這些單成分個別執行 TxGNN 預測
 - **主成分確認**：釐清本複方的「治療主成分」為何，排除純順勢稀釋成分（如 Mercurius Solubilis、nosode 類），聚焦有實質藥理意義的成分
 - **適應症定位**：補充本複方的原始核准適應症或傳統使用紀錄，作為老藥新用的起點
-- **MOA 資料補全**：針對各植物成分查詢 DrugBank API 或 PubChem，補充作用機轉資料
+- **MOA 資料補全**：針對各植物成分Query the DrugBank API 或 PubChem，補充作用機轉資料
 - **安全性資料**：下載各成分的仿單或毒理資料，完成 S1 安全性初評所需的警語/禁忌評估
 ## Disclaimer
 

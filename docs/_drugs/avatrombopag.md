@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Avatrombopag
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 431
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Avatrombopag
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -55,7 +55,7 @@ Currently, **0 clinical trials** and **0 publications** specifically support thi
 | Number of NDAs | 0 (not captured in evidence pack) |
 | Recommended Decision | Hold |
 
-> **Data Gap Notice**: The evidence pack reports 0 US licenses and "未上市" (not marketed). This appears to be a data collection issue rather than a reflection of actual approval status. Publicly available records show Doptelet® (avatrombopag) received FDA approval in May 2018 (CLD thrombocytopenia) and June 2019 (chronic ITP). The NDA and safety data should be retrieved from FDA records to complete this evaluation.
+> **Data Gap Notice**: The evidence pack reports 0 US licenses and "Not marketed" (not marketed). This appears to be a data collection issue rather than a reflection of actual approval status. Publicly available records show Doptelet® (avatrombopag) received FDA approval in May 2018 (CLD thrombocytopenia) and June 2019 (chronic ITP). The NDA and safety data should be retrieved from FDA records to complete this evaluation.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Pralatrexate
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 1073
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Pralatrexate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -50,7 +50,7 @@ indication_count: 10
 | Predicted New Indication | Pleural Mesothelioma (part of a broader TxGNN-flagged mesothelioma/pleural-tumor cluster) |
 | TxGNN Prediction Score | 99.85% (rank 4610) |
 | Evidence Level | L2 |
-| Market Status | Not marketed (未上市) |
+| Market Status | Not marketed (Not marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 

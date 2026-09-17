@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Lorazepam
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 870
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Lorazepam
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Lorazepam is a benzodiazepine (GABA-A receptor positive allosteric modulator) or
 | Predicted New Indication | Insomnia (disease) |
 | TxGNN Prediction Score | 99.80% |
 | Evidence Level | L3 |
-| US/TW Market Status | 未上市 (Not Marketed) |
+| US/TW Market Status | Not marketed (Not Marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -96,7 +96,7 @@ By contrast, TxGNN's single highest-scoring prediction, trigeminal nerve neoplas
 
 ## US Market Information
 
-No Taiwan/US regulatory license records are currently available for lorazepam in this evidence pack (`taiwan_regulatory.market_status`: 未上市 / Not Marketed; 0 licenses on file).
+No Taiwan/US regulatory license records are currently available for lorazepam in this evidence pack (`taiwan_regulatory.market_status`: Not marketed / Not Marketed; 0 licenses on file).
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lenalidomide
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 844
 evidence_level: L5
 indication_count: 6
@@ -10,12 +10,12 @@ indication_count: 6
 # Lenalidomide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Lenalidomide (DrugBank DB00480) is an oral immunomodulatory imide drug (IMiD); i
 | Predicted New Indication | Myeloid Leukemia |
 | TxGNN Prediction Score | 99.49% |
 | Evidence Level | L1 (≥2 completed Phase 3 RCTs identified — see caveat below) |
-| US Market Status | Not Marketed (未上市) |
+| US Market Status | Not Marketed (Not marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 
@@ -97,7 +97,7 @@ Mechanistically this extension is plausible: MDS and AML share overlapping myelo
 
 ## US Market Information
 
-Not currently marketed — the evidence pack records zero licenses/NDAs and a market status of "Not Marketed" (未上市).
+Not currently marketed — the evidence pack records zero licenses/NDAs and a market status of "Not Marketed" (Not marketed).
 
 ---
 

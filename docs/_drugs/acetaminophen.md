@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Acetaminophen
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 92
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Acetaminophen
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ A full repurposing evaluation cannot be completed until these critical gaps are 
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A (no predictions to evaluate) |
-| Taiwan Market Status | 未上市（資料品質疑慮，見下方說明） |
+| Taiwan Market Status | Not marketed（資料品質疑慮，見下方說明） |
 | Number of Licenses | 0 |
 | Recommended Decision | **Hold** |
 

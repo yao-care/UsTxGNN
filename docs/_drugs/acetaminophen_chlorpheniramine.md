@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Acetaminophen Chlorpheniramine
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 103
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Acetaminophen Chlorpheniramine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Evidence Level: **L5** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -46,7 +46,7 @@ ACETAMINOPHEN（乙醯胺酚）為解熱鎮痛劑，CHLORPHENIRAMINE（氯苯那
 | 預測新適應症 | 無（TxGNN 未產生預測） |
 | TxGNN 預測分數 | 無 |
 | 證據等級 | 無法評定 |
-| 台灣上市狀態 | ✗ 未上市 |
+| 台灣上市狀態 | ✗ Not marketed |
 | 許可證數量 | 0 |
 | 建議決策 | **Hold** |
 

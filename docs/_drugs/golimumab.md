@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Golimumab
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 758
-evidence_level: L5
+evidence_level: L4
 indication_count: 5
 ---
 
 # Golimumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Evidence Level: **L4** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -43,7 +43,7 @@ Golimumab is a fully human anti-TNF-α monoclonal antibody used globally for rhe
 | Predicted New Indication | Rheumatoid Vasculitis |
 | TxGNN Prediction Score | 99.73% |
 | Evidence Level | L4 |
-| US Market Status | ✗ Not Marketed (market_status: 未上市) |
+| US Market Status | ✗ Not Marketed (market_status: Not marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 
@@ -76,7 +76,7 @@ However, this mechanistic story is directly contradicted by another case report 
 
 ## US Market Information
 
-Golimumab is not currently marketed and has no license records in the available regulatory data (market_status: 未上市, total licenses: 0).
+Golimumab is not currently marketed and has no license records in the available regulatory data (market_status: Not marketed, total licenses: 0).
 
 ## Safety Considerations
 

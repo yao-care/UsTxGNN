@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Trabectedin
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 1245
-evidence_level: L5
+evidence_level: L2
 indication_count: 1
 ---
 
 # Trabectedin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Evidence Level: **L2** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -87,7 +87,7 @@ The mechanistic rationale for breast cancer centers on a specific molecular subg
 
 ## US Market Information
 
-No approved authorizations are on record for this drug in this jurisdiction (`total_licenses: 0`, `market_status: 未上市 / Not Marketed`). No product table is available.
+No approved authorizations are on record for this drug in this jurisdiction (`total_licenses: 0`, `market_status: Not marketed / Not Marketed`). No product table is available.
 
 ---
 

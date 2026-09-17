@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Estradiol Cypionate
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 674
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Estradiol Cypionate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -33,7 +33,7 @@ indication_count: 10
 
 ## 摘要
 
-Estradiol Cypionate 是一種長效酯型雌激素（肌肉注射劑型），藥理學上已知用於雌激素缺乏相關症狀（更年期血管舒縮症狀、性腺功能低下、原發性卵巢功能不全）之荷爾蒙補充治療；本藥於台灣未上市，無 TFDA 核准適應症資料可供比對。
+Estradiol Cypionate 是一種長效酯型雌激素（肌肉注射劑型），藥理學上已知用於雌激素缺乏相關症狀（更年期血管舒縮症狀、性腺功能低下、原發性卵巢功能不全）之荷爾蒙補充治療；本藥於台灣Not marketed，無 TFDA 核准適應症資料可供比對。
 
 TxGNN 對本藥共產出 10 項候選新適應症，但逐一機轉審查後，其中 8 項（symptomatic form of fragile X syndrome、4 項染色體 trisomy/tetrasomy 症候群、ovarian remnant syndrome、blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement、partial autosomal trisomy/tetrasomy、luteoma of pregnancy）**經評估判定為知識圖譜鄰近性連結假影**，缺乏合理機轉且 0 筆試驗、0 筆文獻支持；另 1 項（anovulation）雖有 41 筆試驗與 3 筆文獻，但方向與治療目標相反（雌激素抑制排卵而非誘導排卵，所附文獻甚至以 estradiol cypionate「延長」乳牛產後不排卵期為結論）。
 
@@ -49,7 +49,7 @@ TxGNN 對本藥共產出 10 項候選新適應症，但逐一機轉審查後，�
 | 預測新適應症 | Blepharophimosis-Epicanthus Inversus-Ptosis（BPES）相關卵巢早衰 |
 | TxGNN 預測分數 | 99.59% |
 | 證據等級 | L4（機轉/理論推論，無直接臨床證據） |
-| 台灣上市狀態 | 未上市 |
+| 台灣上市狀態 | Not marketed |
 | 台灣藥證數量 | 0 |
 | 建議決策 | Hold |
 
@@ -92,7 +92,7 @@ BPES 分為兩型：type I 除眼瞼裂狹小、內眥贅皮、眼瞼下垂三�
 
 **若要推進，需要補齊：**
 - DrugBank MOA 完整資料（DG002，High severity）
-- TFDA／原廠仿單警語與禁忌症（DG001，Blocking severity，目前無法進入 S1 安全性初評）
+- TFDA／原廠仿單警語與禁忌症（DG001，Blocking severity，目前Cannot proceed to S1 safety screening）
 - 直接查證 BPES type I 患者 POI 盛行率與雌激素補充治療實證（目前僅為機轉推論，PMID 29378385、31366388 未經本次 Evidence Pack 收集流程驗證）
 - 確認 estradiol cypionate（肌肉注射劑型）於長期 POI 荷爾蒙補充治療的劑型適用性，相較於常規口服/貼片雌激素製劑之臨床角色
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Elosulfase Alfa
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 647
-evidence_level: L5
+evidence_level: L3
 indication_count: 9
 ---
 
 # Elosulfase Alfa
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **9** 個
+Evidence Level: **L3** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 9
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ indication_count: 9
 | Predicted New Indication | Lysosomal storage disease with skeletal involvement (clinically corresponds to MPS IVA/Morquio A) |
 | TxGNN Prediction Score | 99.59% |
 | Evidence Level | L3 |
-| US Market Status | 未上市 (Not Marketed) |
+| US Market Status | Not marketed (Not Marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -84,7 +84,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-Elosulfase alfa is not currently marketed in this jurisdiction (market status: 未上市, 0 licenses on file). No authorization records are available to summarize.
+Elosulfase alfa is not currently marketed in this jurisdiction (market status: Not marketed, 0 licenses on file). No authorization records are available to summarize.
 
 ---
 

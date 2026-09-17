@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Vasopressin
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 1285
-evidence_level: L5
+evidence_level: L4
 indication_count: 2
 ---
 
 # Vasopressin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Evidence Level: **L4** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -33,7 +33,7 @@ indication_count: 2
 
 ## One-Sentence Summary
 
-> Vasopressin (DrugBank ID DB00067) has no recorded original indication or mechanism-of-action data in this evidence pack, and it currently holds no marketing authorization in Taiwan (未上市).
+> Vasopressin (DrugBank ID DB00067) has no recorded original indication or mechanism-of-action data in this evidence pack, and it currently holds no marketing authorization in Taiwan (Not marketed).
 > The TxGNN model predicts potential efficacy for **Congenital Prothrombin Deficiency**, but this is supported only by **0 clinical trials** and **3 indirectly related publications** (case reports/review) —
 > and the repurposing rationale itself flags a likely drug/disease entity-confusion issue that significantly weakens the credibility of this prediction.
 
@@ -47,7 +47,7 @@ indication_count: 2
 | Predicted New Indication | Congenital Prothrombin Deficiency |
 | TxGNN Prediction Score | 99.63% |
 | Evidence Level | L4 |
-| US Market Status | Not Marketed (未上市) |
+| US Market Status | Not Marketed (Not marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 
@@ -83,7 +83,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-This drug currently holds no marketing authorization in Taiwan (市場狀態：未上市). No license records are available in this evidence pack (`total_licenses: 0`).
+This drug currently holds no marketing authorization in Taiwan (市場狀態：Not marketed). No license records are available in this evidence pack (`total_licenses: 0`).
 
 ---
 

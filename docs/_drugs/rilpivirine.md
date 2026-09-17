@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rilpivirine
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 1123
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Rilpivirine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -43,7 +43,7 @@ Rilpivirine is a non-nucleoside reverse transcriptase inhibitor (NNRTI) whose es
 | Top-Ranked Predicted Indication | Feline acquired immunodeficiency syndrome (predicted_indications[0]) |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L4 (one preclinical/mechanism study, no clinical trials) |
-| Taiwan Market Status | 未上市 (Not marketed) |
+| Taiwan Market Status | Not marketed (Not marketed) |
 | Number of Taiwan Licenses | 0 |
 | Recommended Decision (top-ranked candidate) | Hold — veterinary indication, not applicable to human clinical development |
 

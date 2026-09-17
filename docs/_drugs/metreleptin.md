@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Metreleptin
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 920
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Metreleptin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -46,7 +46,7 @@ indication_count: 10
 | Predicted New Indication | Familial Generalized Lentiginosis |
 | TxGNN Prediction Score | 99.71% |
 | Evidence Level | L5 (model prediction only, no clinical or literature support) |
-| US Market Status | Not Marketed (未上市) |
+| US Market Status | Not Marketed (Not marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 
@@ -78,7 +78,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| — | — | — | Not marketed (`market_status: 未上市`, 0 licenses on record) |
+| — | — | — | Not marketed (`market_status: Not marketed`, 0 licenses on record) |
 
 ---
 

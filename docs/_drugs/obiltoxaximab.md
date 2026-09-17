@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Obiltoxaximab
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 979
 evidence_level: L5
 indication_count: 8
@@ -10,12 +10,12 @@ indication_count: 8
 # Obiltoxaximab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ indication_count: 8
 | Predicted New Indication | Postinfectious Vasculitis |
 | TxGNN Prediction Score | 99.74% |
 | Evidence Level | L5 |
-| US/Taiwan Market Status | Not Marketed (未上市) |
+| US/Taiwan Market Status | Not Marketed (Not marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 
@@ -77,7 +77,7 @@ Currently no related literature available.
 
 ## US/Taiwan Market Information
 
-No marketing authorizations are currently on file for this market (0 licenses; market status: 未上市 / Not Marketed).
+No marketing authorizations are currently on file for this market (0 licenses; market status: Not marketed / Not Marketed).
 
 ---
 

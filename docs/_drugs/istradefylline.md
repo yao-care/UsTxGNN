@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Istradefylline
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 818
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Istradefylline
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -43,7 +43,7 @@ Istradefylline is a selective adenosine A2A receptor antagonist used clinically 
 | Predicted New Indication | Rasmussen Subacute Encephalitis |
 | TxGNN Prediction Score | 99.02% |
 | Evidence Level | L5 (model prediction only, no supporting studies) |
-| Taiwan Market Status | Not Marketed (未上市) |
+| Taiwan Market Status | Not Marketed (Not marketed) |
 | Number of Licenses | 0 |
 | Recommended Decision | Hold |
 

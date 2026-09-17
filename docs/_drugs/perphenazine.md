@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Perphenazine
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 1033
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Perphenazine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -93,7 +93,7 @@ By contrast, the model's higher-scoring predictions (retinal dystrophy, syndromi
 
 ## US Market Information
 
-Perphenazine is currently **not marketed** in this jurisdiction (`market_status: 未上市`), with **0 registered licenses/NDAs**. No product, dosage form, or approved indication text is available for tabulation.
+Perphenazine is currently **not marketed** in this jurisdiction (`market_status: Not marketed`), with **0 registered licenses/NDAs**. No product, dosage form, or approved indication text is available for tabulation.
 
 ---
 

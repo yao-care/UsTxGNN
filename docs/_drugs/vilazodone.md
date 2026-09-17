@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Vilazodone
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 1290
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Vilazodone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ indication_count: 10
 | Predicted New Indication | Dysthymic Disorder |
 | TxGNN Prediction Score | 99.79% |
 | Evidence Level | L4 |
-| Taiwan Market Status | 未上市 (Not Marketed) |
+| Taiwan Market Status | Not marketed (Not Marketed) |
 | Number of Taiwan Licenses | 0 |
 | Recommended Decision | Hold |
 
@@ -77,7 +77,7 @@ Currently no related literature available.
 
 ## Taiwan Market Information
 
-Vilazodone currently has no approved license records in Taiwan (市場狀態：未上市 / Not Marketed; total licenses: 0). No NDA or product data is available for this candidate.
+Vilazodone currently has no approved license records in Taiwan (市場狀態：Not marketed / Not Marketed; total licenses: 0). No NDA or product data is available for this candidate.
 
 ---
 

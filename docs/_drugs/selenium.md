@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Selenium
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 1151
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Selenium
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ but this is supported by only **0 clinical trials** and **5 loosely related publ
 | Predicted New Indication | Sclerosing Cholangitis |
 | TxGNN Prediction Score | 99.04% |
 | Evidence Level | L5 |
-| US Market Status | 未上市 (Not marketed) |
+| US Market Status | Not marketed (Not marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 
@@ -73,7 +73,7 @@ Currently no related clinical trials registered
 
 ## US Market Information
 
-No marketing authorizations on record — market status is 未上市 (not marketed), 0 total licenses.
+No marketing authorizations on record — market status is Not marketed (not marketed), 0 total licenses.
 
 ## Safety Considerations
 

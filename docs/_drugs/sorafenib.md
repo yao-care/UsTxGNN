@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Sorafenib
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 1175
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Sorafenib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ indication_count: 10
 | Predicted New Indication | Liposarcoma |
 | TxGNN Prediction Score | 99.82% |
 | Evidence Level | L2 |
-| US Market Status | 未上市 (Not Marketed) |
+| US Market Status | Not marketed (Not Marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -89,7 +89,7 @@ One caveat: the other clinical trial linked to this prediction (NCT02048371, SAR
 
 ## US Market Information
 
-No marketing authorization records are present in this evidence pack for the target market region (`taiwan_regulatory.total_licenses = 0`, `market_status = 未上市 / Not Marketed`, `licenses = []`). Sorafenib is marketed internationally (e.g., as Nexavar) for other indications per the clinical trial literature above, but no local license data is available to summarize here.
+No marketing authorization records are present in this evidence pack for the target market region (`taiwan_regulatory.total_licenses = 0`, `market_status = Not marketed / Not Marketed`, `licenses = []`). Sorafenib is marketed internationally (e.g., as Nexavar) for other indications per the clinical trial literature above, but no local license data is available to summarize here.
 
 ---
 

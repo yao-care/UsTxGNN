@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Activated Charcoal Aloe Aluminum Oxide Bryonia Alb
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 164
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Activated Charcoal Aloe Aluminum Oxide Bryonia Alb
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Evidence Level: **L5** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ indication_count: 0
 | 預測新適應症 | 無（TxGNN 未產生預測） |
 | TxGNN 預測分數 | — |
 | 證據等級 | **L5**（模型無法預測，無任何實際研究） |
-| 美國市場狀態 | ✗ 未上市 |
+| 美國市場狀態 | ✗ Not marketed |
 | NDA 數量 | 0 |
 | 建議決策 | **Hold** |
 
@@ -77,7 +77,7 @@ indication_count: 0
 
 ## 美國市場資訊
 
-本品在美國無任何 NDA 核准紀錄，市場狀態為**未上市**。
+本品在美國無任何 NDA 核准紀錄，市場狀態為**Not marketed**。
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rifabutin
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 1120
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Rifabutin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ indication_count: 10
 | Predicted New Indication | HIV infectious disease *(see caveat: substantially overlaps with an already-approved use, not a novel signal)* |
 | TxGNN Prediction Score | 99.88% |
 | Evidence Level | L1 (≥2 completed Phase 3 RCTs) |
-| US Market Status | 未上市 (Not Marketed) |
+| US Market Status | Not marketed (Not Marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -103,7 +103,7 @@ A more genuinely novel signal in this evidence pack is **leprosy** (rank 6, L3 e
 
 ## Market Information (Taiwan)
 
-Rifabutin currently holds **no marketing authorization in Taiwan** (0 licenses; market status: 未上市/Not Marketed). No product name, dosage form, or Taiwan-approved indication text is available in this evidence pack.
+Rifabutin currently holds **no marketing authorization in Taiwan** (0 licenses; market status: Not marketed/Not Marketed). No product name, dosage form, or Taiwan-approved indication text is available in this evidence pack.
 
 ---
 
@@ -125,7 +125,7 @@ Clinical evidence for rifabutin in the HIV/MAC/TB context is very strong (L1: mu
 **To proceed, the following is needed:**
 - Obtain TFDA package insert warnings/contraindications (DG001, Blocking) — required before S1 safety review can begin
 - Obtain detailed MOA/pharmacology profile from DrugBank (DG002)
-- Clarify Taiwan regulatory pathway, since Rifabutin currently has zero Taiwan market authorizations (未上市) — determine whether named-patient/import use is the intended pathway
+- Clarify Taiwan regulatory pathway, since Rifabutin currently has zero Taiwan market authorizations (Not marketed) — determine whether named-patient/import use is the intended pathway
 - Reclassify the "HIV infectious disease" prediction internally as a known-use confirmation rather than a novel repurposing candidate, to avoid overstating novelty in downstream reporting
 - If pursuing genuinely novel signals, open a separate research track for **leprosy** (rank 6, L3, mechanistically plausible via shared RNA-polymerase inhibition with rifampicin, but no human RCT yet) — this is the strongest true repurposing candidate in this evidence pack
 ## Disclaimer

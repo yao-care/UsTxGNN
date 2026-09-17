@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Luliconazole
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 876
-evidence_level: L5
+evidence_level: L2
 indication_count: 7
 ---
 
 # Luliconazole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **7** 個
+Evidence Level: **L2** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 7
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ with **1 clinical trial** (not yet recruiting) and **3 publications** currently 
 | Predicted New Indication | Pityriasis Versicolor |
 | TxGNN Prediction Score | 99.13% |
 | Evidence Level | L2 |
-| Taiwan Market Status | ✗ Not Marketed (未上市) |
+| Taiwan Market Status | ✗ Not Marketed (Not marketed) |
 | Number of Licenses | 0 |
 | Recommended Decision | Proceed with Guardrails |
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Progesterone
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 1089
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Progesterone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -101,7 +101,7 @@ Because amenorrhea and normal menstrual cycle regulation sit directly within pro
 
 ## US Market Information
 
-No NDA/license records are present in this dataset (`total_licenses = 0`, `market_status = 未上市 / Not Marketed`). This indicates the queried product record has no marketing authorization in this dataset — it does not necessarily reflect progesterone's overall global regulatory status, since progesterone products are marketed elsewhere under various brand names.
+No NDA/license records are present in this dataset (`total_licenses = 0`, `market_status = Not marketed / Not Marketed`). This indicates the queried product record has no marketing authorization in this dataset — it does not necessarily reflect progesterone's overall global regulatory status, since progesterone products are marketed elsewhere under various brand names.
 
 ---
 

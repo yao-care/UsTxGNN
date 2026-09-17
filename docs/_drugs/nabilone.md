@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Nabilone
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 948
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Nabilone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -42,11 +42,11 @@ indication_count: 10
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in Taiwan regulatory data (drug is unlicensed/未上市); internationally, nabilone is indicated for chemotherapy-induced nausea and vomiting refractory to conventional antiemetics (per literature within this evidence pack) |
+| Original Indication | Not recorded in Taiwan regulatory data (drug is unlicensed/Not marketed); internationally, nabilone is indicated for chemotherapy-induced nausea and vomiting refractory to conventional antiemetics (per literature within this evidence pack) |
 | Predicted New Indication | Headache Disorder |
 | TxGNN Prediction Score | 99.78% (rank 6213 of all candidates) |
 | Evidence Level | L2 |
-| Taiwan Market Status | 未上市 (Not Marketed) |
+| Taiwan Market Status | Not marketed (Not Marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 
@@ -83,7 +83,7 @@ That said, the supporting clinical trial (NCT03422861) is only tangentially rela
 
 ## US Market Information
 
-Nabilone currently has no drug license or marketing authorization record in Taiwan (0 NDAs; market status: 未上市).
+Nabilone currently has no drug license or marketing authorization record in Taiwan (0 NDAs; market status: Not marketed).
 
 ---
 

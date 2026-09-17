@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Verteporfin
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 1288
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Verteporfin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ indication_count: 1
 | Predicted New Indication | Mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies |
 | TxGNN Prediction Score | 99.49% |
 | Evidence Level | L5 |
-| Market Status (Taiwan) | 未上市 (Not Marketed) |
+| Market Status (Taiwan) | Not marketed (Not Marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 
@@ -77,7 +77,7 @@ Currently no related literature available
 
 ## US Market Information
 
-Verteporfin currently holds no marketing licenses in Taiwan (market status: 未上市, total licenses: 0). No license-level data is available for tabulation.
+Verteporfin currently holds no marketing licenses in Taiwan (market status: Not marketed, total licenses: 0). No license-level data is available for tabulation.
 
 ---
 

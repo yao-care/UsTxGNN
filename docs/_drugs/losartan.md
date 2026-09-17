@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Losartan
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 872
-evidence_level: L5
+evidence_level: L4
 indication_count: 8
 ---
 
 # Losartan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+Evidence Level: **L4** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -41,11 +41,11 @@ Losartan is an angiotensin II receptor blocker (ARB) whose established use is in
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension (ARB class); no TFDA-approved indication text is available — this evidence pack shows the drug as **未上市 (not marketed)** in Taiwan, with 0 licenses on file |
+| Original Indication | Hypertension (ARB class); no TFDA-approved indication text is available — this evidence pack shows the drug as **Not marketed (not marketed)** in Taiwan, with 0 licenses on file |
 | Predicted New Indication | Malignant hypertensive renal disease |
 | TxGNN Prediction Score | 99.73% |
 | Evidence Level | L4 |
-| US Market Status | 未上市 (Not marketed) |
+| US Market Status | Not marketed (Not marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 

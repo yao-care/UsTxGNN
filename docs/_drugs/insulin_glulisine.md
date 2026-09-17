@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Insulin Glulisine
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 800
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Insulin Glulisine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Insulin Glulisine (DrugBank DB01309) is a rapid-acting insulin analogue used for
 | Predicted New Indication | Type 1 Diabetes Mellitus |
 | TxGNN Prediction Score | 99.55% |
 | Evidence Level | L1 |
-| US Market Status | 未上市 (Not Marketed) |
+| US Market Status | Not marketed (Not Marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -97,7 +97,7 @@ Because T1DM is characterized by absolute endogenous insulin deficiency, exogeno
 
 ## US Market Information
 
-No licenses or authorizations are on record for this drug in the current evidence pack (market status: 未上市 / Not Marketed; total licenses: 0).
+No licenses or authorizations are on record for this drug in the current evidence pack (market status: Not marketed / Not Marketed; total licenses: 0).
 
 ---
 

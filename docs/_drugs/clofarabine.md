@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Clofarabine
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 538
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Clofarabine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ The evidence base is unusually strong: a Phase 3 pediatric RCT (PMID 31246522, C
 | Predicted New Indication | Myeloid Leukemia |
 | TxGNN Prediction Score | 99.88% |
 | Evidence Level | L1 |
-| Taiwan Market Status | Not marketed (未上市) |
+| Taiwan Market Status | Not marketed (Not marketed) |
 | Number of Taiwan Authorizations | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -99,7 +99,7 @@ The TxGNN prediction achieves its L1 rating primarily from the **AML08 multicent
 
 ## Taiwan Market Status
 
-Clofarabine currently has **no registered authorizations in Taiwan** (market status: 未上市 / not marketed). Taiwan TFDA regulatory package insert data is unavailable at the time of this evaluation.
+Clofarabine currently has **no registered authorizations in Taiwan** (market status: Not marketed / not marketed). Taiwan TFDA regulatory package insert data is unavailable at the time of this evaluation.
 
 For clinical context: in the United States, Clofarabine is marketed as **Clolar** (Sanofi Genzyme) and received FDA accelerated approval in December 2004 for pediatric patients (ages 1–21) with relapsed or refractory ALL after at least two prior treatment regimens. This US approval is referenced throughout the clinical trial descriptions cited above.
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Glucagon
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 754
-evidence_level: L5
+evidence_level: L4
 indication_count: 1
 ---
 
 # Glucagon
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Evidence Level: **L4** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -101,7 +101,7 @@ This pattern is consistent with a likely **entity confusion in the underlying kn
 
 ## US Market Information
 
-No NDA/BLA or marketing authorization records were found for Glucagon in this evidence pack (`total_licenses: 0`, `market_status: 未上市`).
+No NDA/BLA or marketing authorization records were found for Glucagon in this evidence pack (`total_licenses: 0`, `market_status: Not marketed`).
 
 ---
 

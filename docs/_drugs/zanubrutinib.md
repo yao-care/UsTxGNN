@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Zanubrutinib
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 1302
-evidence_level: L5
+evidence_level: L4
 indication_count: 6
 ---
 
 # Zanubrutinib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+Evidence Level: **L4** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ indication_count: 6
 | Predicted New Indication | Myeloid Leukemia |
 | TxGNN Prediction Score | 99.65% (KG rank 9,102) |
 | Evidence Level | L4 |
-| US Market Status | ✗ Not Marketed (未上市) |
+| US Market Status | ✗ Not Marketed (Not marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 
@@ -94,7 +94,7 @@ Consistent with this, the clinical trials retrieved for this indication do not a
 
 ## US Market Information
 
-Zanubrutinib is currently **not marketed** under the regulatory records covered by this evidence pack (market status: 未上市 / Not Marketed; 0 authorizations on file). No license or approved-indication text is available to summarize.
+Zanubrutinib is currently **not marketed** under the regulatory records covered by this evidence pack (market status: Not marketed / Not Marketed; 0 authorizations on file). No license or approved-indication text is available to summarize.
 
 ---
 

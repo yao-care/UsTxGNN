@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Anemone Hepatica Var Obtusa Antimony Potassium Tar
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 352
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Anemone Hepatica Var Obtusa Antimony Potassium Tar
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Evidence Level: **L5** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ TxGNN 模型**未能產生任何預測適應症**，原因為此複方在 DrugBa
 | 預測新適應症 | 無（TxGNN 未產生預測） |
 | TxGNN 預測分數 | — |
 | 證據等級 | L5（僅有模型輸入，無實際研究） |
-| US 市場狀態 | 未上市（0 件許可證） |
+| US 市場狀態 | Not marketed（0 件許可證） |
 | 許可證總數 | 0 |
 | 建議決策 | **Hold** |
 

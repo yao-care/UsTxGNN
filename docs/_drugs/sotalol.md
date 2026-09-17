@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Sotalol
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 1178
-evidence_level: L5
+evidence_level: L1
 indication_count: 7
 ---
 
 # Sotalol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **7** 個
+Evidence Level: **L1** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 7
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ indication_count: 7
 | Predicted New Indication | Atrial fibrillation/flutter rhythm control for stroke risk reduction (mapped from TxGNN term "stroke disorder") |
 | TxGNN Prediction Score | 99.44% (rank 4 of 7 candidates reviewed) |
 | Evidence Level | L1 |
-| Market Status | Not marketed (未上市) |
+| Market Status | Not marketed (Not marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -97,7 +97,7 @@ By contrast, the "stroke disorder" prediction maps to a well-documented, evidenc
 
 ## US Market Information
 
-No marketing authorization records are present in this evidence pack (`total_licenses: 0`, market status: 未上市 / not marketed). Registry/label data will need to be sourced separately before this candidate can advance.
+No marketing authorization records are present in this evidence pack (`total_licenses: 0`, market status: Not marketed / not marketed). Registry/label data will need to be sourced separately before this candidate can advance.
 
 ---
 

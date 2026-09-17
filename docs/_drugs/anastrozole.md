@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Anastrozole
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 348
 evidence_level: L5
 indication_count: 6
@@ -10,12 +10,12 @@ indication_count: 6
 # Anastrozole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Anastrozole (DrugBank ID: DB01217) is a well-known aromatase inhibitor establish
 | Predicted New Indication | No predictions available |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A — No supporting predictions or studies |
-| Taiwan Market Status | Not marketed（未上市） |
+| Taiwan Market Status | Not marketed（Not marketed） |
 | Number of Taiwan Licenses | 0 |
 | Recommended Decision | **Hold** |
 

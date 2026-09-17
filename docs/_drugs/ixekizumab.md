@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ixekizumab
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 823
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Ixekizumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -41,11 +41,11 @@ Ixekizumab is an IL-17A-targeting monoclonal antibody; the clinical trial and li
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available from Taiwan regulatory data (未上市). Based on trial/literature evidence in this pack, ixekizumab (IL-17A inhibitor) is established for psoriatic arthritis and axial spondyloarthritis |
+| Original Indication | Not available from Taiwan regulatory data (Not marketed). Based on trial/literature evidence in this pack, ixekizumab (IL-17A inhibitor) is established for psoriatic arthritis and axial spondyloarthritis |
 | Predicted New Indication | Rheumatoid Vasculitis |
 | TxGNN Prediction Score | 97.53% |
 | Evidence Level | L5 |
-| Taiwan Market Status | 未上市 (Not Marketed) |
+| Taiwan Market Status | Not marketed (Not Marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 
@@ -77,7 +77,7 @@ Currently no related literature available.
 
 ## Taiwan Market Information
 
-Ixekizumab currently has no TFDA drug license on record (0 NDAs; market status: 未上市/Not Marketed).
+Ixekizumab currently has no TFDA drug license on record (0 NDAs; market status: Not marketed/Not Marketed).
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Eculizumab
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 640
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Eculizumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -43,7 +43,7 @@ Eculizumab is a complement C5 inhibitor; the evidence pack does not contain form
 | Predicted New Indication | Cyclic Hematopoiesis |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L5 (model prediction only, no supporting studies) |
-| Taiwan Market Status | 未上市 (Not Marketed) |
+| Taiwan Market Status | Not marketed (Not Marketed) |
 | Number of Licenses | 0 |
 | Recommended Decision | Hold |
 

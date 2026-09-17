@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Activated Charcoal Ambrosia Artemisiifolia Whole E
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 171
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Activated Charcoal Ambrosia Artemisiifolia Whole E
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Evidence Level: **L5** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ TxGNN 模型**未能對此藥物產生任何新適應症預測**，且查詢日�
 | Predicted New Indication | 無（TxGNN 未產生預測結果） |
 | TxGNN Prediction Score | 無法計算 |
 | Evidence Level | L5（模型預測不適用，無任何研究支持） |
-| US Market Status | 未上市 |
+| US Market Status | Not marketed |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 
@@ -113,8 +113,8 @@ TxGNN 模型**未能對此藥物產生任何新適應症預測**，且查詢日�
 - **安全性審查**：取得含馬錢子製劑的毒理學資料，確認擬使用濃度的安全閾值
 - **市場定位釐清**：此製劑若屬順勢療法製劑，監管路徑（如 DSHEA 膳食補充劑、順勢療法 OTC）與藥物再利用路徑有本質差異，需先釐清開發目標
 - **資料補全**（若決定繼續）：
-  - 自 TFDA 官網下載仿單 PDF 並解析警語/禁忌（對應 DG001）
-  - 查詢 DrugBank API 取得作用機轉（對應 DG002）
+  - 自 FDA websiteDownload and parse the package insert PDF警語/禁忌（對應 DG001）
+  - Query the DrugBank API 取得作用機轉（對應 DG002）
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

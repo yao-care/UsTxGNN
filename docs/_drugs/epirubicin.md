@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Epirubicin
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 661
-evidence_level: L5
+evidence_level: L4
 indication_count: 7
 ---
 
 # Epirubicin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **7** 個
+Evidence Level: **L4** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 7
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -43,7 +43,7 @@ Epirubicin is the 4'-epimer of doxorubicin, an anthracycline antineoplastic alre
 | Predicted New Indication | Primary Pulmonary Lymphoma |
 | TxGNN Prediction Score | 99.71% |
 | Evidence Level | L4 |
-| US Market Status | 未上市 (Not Marketed) |
+| US Market Status | Not marketed (Not Marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 
@@ -75,7 +75,7 @@ Currently no related clinical trials registered
 
 ## US Market Information
 
-Epirubicin currently has no marketing authorizations on record in this evidence pack (`total_licenses: 0`, `market_status: 未上市`). No product name, dosage form, or approved indication text is available to extract.
+Epirubicin currently has no marketing authorizations on record in this evidence pack (`total_licenses: 0`, `market_status: Not marketed`). No product name, dosage form, or approved indication text is available to extract.
 
 ## Cytotoxicity
 

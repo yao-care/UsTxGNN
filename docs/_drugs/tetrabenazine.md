@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tetrabenazine
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 1217
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Tetrabenazine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ with **0 clinical trials** and **20 retrieved publications** — however, the re
 | Predicted New Indication | Polycystic Kidney Disease 3 with or without Polycystic Liver Disease |
 | TxGNN Prediction Score | 99.90% |
 | Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not marketed (未上市) |
+| Taiwan Market Status | ✗ Not marketed (Not marketed) |
 | Number of Taiwan Licenses | 0 |
 | Recommended Decision | Hold |
 

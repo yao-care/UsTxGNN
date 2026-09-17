@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Triazolam
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 1259
-evidence_level: L5
+evidence_level: L1
 indication_count: 1
 ---
 
 # Triazolam
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Evidence Level: **L1** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ indication_count: 1
 | Predicted New Indication | Sleep Disorder, Initiating and Maintaining Sleep (Insomnia) |
 | TxGNN Prediction Score | 99.72% |
 | Evidence Level | L1 |
-| Taiwan Market Status | 未上市 (Not marketed) |
+| Taiwan Market Status | Not marketed (Not marketed) |
 | Number of Licenses | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -96,7 +96,7 @@ Triazolam is currently not marketed in Taiwan (0 licenses on record); no authori
 
 Detailed TFDA label warnings, contraindications, and drug-drug interaction data are not available in this evidence pack (`safety.key_warnings`, `safety.contraindications`, and `safety.ddi` are all empty or unresolved). Please refer to the package insert for safety information.
 
-⚠️ Note: this data gap (DG001 — TFDA 仿單警語/禁忌) is flagged as **Blocking** severity in the source evidence pack, meaning it currently prevents a full S1 safety initial assessment. This should be resolved before any clinical or regulatory action is taken, given triazolam's known BZD-class risks (sedation, dependence, rebound insomnia, CNS depressant interactions).
+⚠️ Note: this data gap (DG001 — FDA package insert warnings/contraindications) is flagged as **Blocking** severity in the source evidence pack, meaning it currently prevents a full S1 safety initial assessment. This should be resolved before any clinical or regulatory action is taken, given triazolam's known BZD-class risks (sedation, dependence, rebound insomnia, CNS depressant interactions).
 
 ---
 

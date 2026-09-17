@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Arnica Montana Root Artemisia Cina Flower Atropa B
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 401
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Arnica Montana Root Artemisia Cina Flower Atropa B
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Evidence Level: **L5** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ indication_count: 0
 | 預測新適應症 | 無（TxGNN 未輸出預測結果） |
 | TxGNN 預測分數 | 無 |
 | 證據等級 | L5（模型無預測，完全無實證支持） |
-| 台灣上市狀態 | ✗ 未上市 |
+| 台灣上市狀態 | ✗ Not marketed |
 | 許可證數量 | 0 |
 | 建議決策 | Hold |
 
@@ -86,7 +86,7 @@ indication_count: 0
 
 ## 台灣市場資訊
 
-此複方在台灣藥品許可資料庫中查無任何紀錄（許可證數量：0），目前為**未上市**狀態。
+此複方在台灣藥品許可資料庫中查無任何紀錄（許可證數量：0），目前為**Not marketed**狀態。
 
 ---
 

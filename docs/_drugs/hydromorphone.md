@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Hydromorphone
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 777
-evidence_level: L5
+evidence_level: L2
 indication_count: 6
 ---
 
 # Hydromorphone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+Evidence Level: **L2** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ Hydromorphone is a semi-synthetic opioid analgesic established for moderate-to-s
 | Predicted New Indication | Headache Disorder (acute migraine) |
 | TxGNN Prediction Score | 99.65% (rank 8998 of candidate pool) |
 | Evidence Level | L2 |
-| Taiwan Market Status | 未上市 (Not Marketed) |
+| Taiwan Market Status | Not marketed (Not Marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 
@@ -105,7 +105,7 @@ However, this same literature base shows the clinical field is moving *away* fro
 
 ## Taiwan Market Information
 
-Hydromorphone is **not currently marketed in Taiwan** — 0 approved licenses are on file (`taiwan_regulatory.total_licenses = 0`, `market_status = 未上市`). No NDA/license records are available to summarize.
+Hydromorphone is **not currently marketed in Taiwan** — 0 approved licenses are on file (`taiwan_regulatory.total_licenses = 0`, `market_status = Not marketed`). No NDA/license records are available to summarize.
 
 ---
 

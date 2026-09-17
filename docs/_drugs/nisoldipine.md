@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nisoldipine
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 968
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Nisoldipine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -49,7 +49,7 @@ Nisoldipine is a dihydropyridine calcium channel blocker generally used for esse
 | Predicted New Indication | Pulmonary hypertension owing to lung disease and/or hypoxia |
 | TxGNN Prediction Score | 99.77% |
 | Evidence Level | L5 |
-| Market Status | ✗ Not marketed (未上市) |
+| Market Status | ✗ Not marketed (Not marketed) |
 | Number of Licenses | 0 |
 | Recommended Decision | Hold |
 
@@ -92,7 +92,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-Nisoldipine is currently **not marketed** in this jurisdiction (market status: 未上市, total licenses on file: 0). No authorization records are available to summarize.
+Nisoldipine is currently **not marketed** in this jurisdiction (market status: Not marketed, total licenses on file: 0). No authorization records are available to summarize.
 
 ---
 

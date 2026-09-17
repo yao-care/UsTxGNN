@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fibrinogen Human
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 705
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Fibrinogen Human
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Fibrinogen Human (DrugBank DB09222) is a plasma-derived coagulation factor conce
 | Predicted New Indication | Hemoglobinopathy |
 | TxGNN Prediction Score | 99.12% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed (未上市) |
+| US Market Status | Not Marketed (Not marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 
@@ -90,7 +90,7 @@ All 10 listed publications are disease-mechanism or observational studies descri
 
 ## US Market Information
 
-No Taiwan marketing authorization is on record for this drug (`market_status: 未上市`, `total_licenses: 0`). No license/product data is available to tabulate.
+No Taiwan marketing authorization is on record for this drug (`market_status: Not marketed`, `total_licenses: 0`). No license/product data is available to tabulate.
 
 ---
 

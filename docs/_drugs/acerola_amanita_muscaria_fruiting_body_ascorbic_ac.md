@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Acerola Amanita Muscaria Fruiting Body Ascorbic Ac
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 81
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Acerola Amanita Muscaria Fruiting Body Ascorbic Ac
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Evidence Level: **L5** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -77,7 +77,7 @@ Currently no related literature available for this combination as a unified enti
 
 ## US Market Information
 
-This combination has no US NDA on record and is not currently marketed in Taiwan (0 licenses, status: 未上市).
+This combination has no US NDA on record and is not currently marketed in Taiwan (0 licenses, status: Not marketed).
 
 ---
 

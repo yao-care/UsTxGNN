@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Thiamine
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 1221
-evidence_level: L5
+evidence_level: L3
 indication_count: 4
 ---
 
 # Thiamine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+Evidence Level: **L3** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Thiamine (Vitamin B1) is an essential cofactor for mitochondrial energy metaboli
 | Predicted New Indication | Hyperthyroidism (adjunctive thiamine supplementation) |
 | TxGNN Prediction Score | 99.44% |
 | Evidence Level | L3 |
-| Market Status (Taiwan FDA) | Not marketed (未上市) |
+| Market Status (Taiwan FDA) | Not marketed (Not marketed) |
 | Number of Approved Licenses | 0 |
 | Recommended Decision | Proceed with Guardrails |
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Meropenem
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 903
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Meropenem
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Meropenem is a broad-spectrum carbapenem antibiotic that inhibits bacterial cell
 | Predicted New Indication | Bacterial Arthritis |
 | TxGNN Prediction Score | 99.92% |
 | Evidence Level | L3 |
-| Taiwan Market Status | ✗ Not Marketed (未上市) |
+| Taiwan Market Status | ✗ Not Marketed (Not marketed) |
 | Number of TFDA Licenses | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -86,7 +86,7 @@ Because no confirmed original indication is on record here, similarity between "
 
 ## Taiwan Market Information
 
-Meropenem currently holds **no TFDA marketing license in Taiwan** (0 licenses on file; market status: 未上市 / Not Marketed). No product name, dosage form, or approved-indication text is available to report.
+Meropenem currently holds **no TFDA marketing license in Taiwan** (0 licenses on file; market status: Not marketed / Not Marketed). No product name, dosage form, or approved-indication text is available to report.
 
 ---
 

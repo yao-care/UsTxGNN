@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Venetoclax
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 1286
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Venetoclax
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Venetoclax is a selective BCL-2 inhibitor; this evidence pack does not contain c
 | Predicted New Indication | 10 candidates (multi-indication pack); top-ranked by TxGNN score: *CLL/SLL with IGHV somatic hypermutation* — but the most clinically actionable is *myeloid leukemia (AML)* (Rank 4) |
 | TxGNN Prediction Score | Rank 1: 99.55% · Rank 4 (AML): 99.47% · range across portfolio: 99.08%–99.55% |
 | Evidence Level | Highly variable: **L1** (AML) down to **L5** (malignant spiradenoma) — see portfolio table below |
-| Taiwan Market Status | 未上市 (Not Marketed) |
+| Taiwan Market Status | Not marketed (Not Marketed) |
 | Number of Licenses | 0 |
 | Recommended Decision | **Indication-specific** — Proceed with Guardrails (AML); Research Question (CML, follicular lymphoma, CLL/SLL subtypes); **Hold** (Hodgkin lymphoma, metastatic neoplasm, Ewing sarcoma, malignant spiradenoma) |
 
@@ -106,7 +106,7 @@ Currently, detailed mechanism-of-action data from DrugBank is marked as a data g
 
 ## Taiwan Market Information
 
-Venetoclax currently has **no marketing authorization recorded in Taiwan** (market status: 未上市 / Not Marketed; 0 licenses on file). No license table can be generated from this dataset.
+Venetoclax currently has **no marketing authorization recorded in Taiwan** (market status: Not marketed / Not Marketed; 0 licenses on file). No license table can be generated from this dataset.
 
 ---
 

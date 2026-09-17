@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Serotonin
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 1156
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Serotonin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -49,7 +49,7 @@ Using no additional skill — this is a structured content-generation task; proc
 | Predicted New Indication | Insomnia (disease) |
 | TxGNN Prediction Score | 99.90% |
 | Evidence Level | L4 (mechanistic/preclinical; no interventional trial of serotonin itself) |
-| US Market Status | Not Marketed (未上市) |
+| US Market Status | Not Marketed (Not marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 
@@ -99,7 +99,7 @@ The mechanistic link to insomnia is real: 5-HT1A/2A/2C receptor signaling helps 
 
 ## US Market Information
 
-No marketing authorizations were found. Serotonin is not currently registered as an approved drug product in the reviewed dataset (0 licenses; market status: Not Marketed / 未上市). Serotonin is used clinically only as an endogenous biomarker/reference compound, not as a formulated therapeutic.
+No marketing authorizations were found. Serotonin is not currently registered as an approved drug product in the reviewed dataset (0 licenses; market status: Not Marketed / Not marketed). Serotonin is used clinically only as an endogenous biomarker/reference compound, not as a formulated therapeutic.
 
 ---
 

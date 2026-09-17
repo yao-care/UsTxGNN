@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Zafirlukast
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 1300
 evidence_level: L5
 indication_count: 2
@@ -10,12 +10,12 @@ indication_count: 2
 # Zafirlukast
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ indication_count: 2
 | Predicted New Indication | Bronchitis (rank 1, no evidence) / Obstructive Lung Disease (COPD, rank 2, literature-supported) |
 | TxGNN Prediction Score | Bronchitis: 99.93% · Obstructive Lung Disease: 99.17% |
 | Evidence Level | Bronchitis: L5 · Obstructive Lung Disease: L3 |
-| Taiwan Market Status | 未上市 (Not marketed) |
+| Taiwan Market Status | Not marketed (Not marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 
@@ -90,7 +90,7 @@ Currently no related clinical trials registered (for either bronchitis or obstru
 
 ## US Market Information
 
-Zafirlukast holds **no Taiwan license/NDA** in this evidence pack (`total_licenses: 0`, market status: 未上市/Not marketed). No product records are available to summarize.
+Zafirlukast holds **no Taiwan license/NDA** in this evidence pack (`total_licenses: 0`, market status: Not marketed/Not marketed). No product records are available to summarize.
 
 ---
 

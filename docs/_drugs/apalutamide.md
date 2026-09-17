@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Apalutamide
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 369
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Apalutamide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Evidence Level: **L5** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ Immediate data remediation across three blocking areas is required before procee
 | Predicted New Indication | No predictions available (`predicted_indications: []`) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — Model prediction only; no supporting studies retrieved |
-| US Market Status | Not marketed in Taiwan（未上市） |
+| US Market Status | Not marketed in Taiwan（Not marketed） |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 
@@ -83,7 +83,7 @@ No Taiwan FDA authorizations on record for Apalutamide.
 |---------------------|--------------|-------------|---------------------|
 | — | — | — | No TFDA license found |
 
-The drug is listed as **未上市 (not marketed)** in Taiwan, with zero total licenses. US FDA approval status was not queried in this Evidence Pack and should be confirmed separately.
+The drug is listed as **Not marketed (not marketed)** in Taiwan, with zero total licenses. US FDA approval status was not queried in this Evidence Pack and should be confirmed separately.
 
 ---
 

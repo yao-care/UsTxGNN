@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Naratriptan
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 955
-evidence_level: L5
+evidence_level: L4
 indication_count: 3
 ---
 
 # Naratriptan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Evidence Level: **L4** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -49,7 +49,7 @@ indication_count: 3
 | Predicted New Indication | Migraine with Brainstem Aura |
 | TxGNN Prediction Score | 99.98% |
 | Evidence Level | L4 |
-| US Market Status | Not Marketed (未上市) |
+| US Market Status | Not Marketed (Not marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 
@@ -90,7 +90,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-No approved marketing authorization (NDA) was found for naratriptan in this evidence pack — market status is recorded as **Not Marketed (未上市)**, with 0 licenses on file.
+No approved marketing authorization (NDA) was found for naratriptan in this evidence pack — market status is recorded as **Not Marketed (Not marketed)**, with 0 licenses on file.
 
 ---
 

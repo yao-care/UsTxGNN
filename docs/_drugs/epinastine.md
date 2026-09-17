@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Epinastine
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 659
-evidence_level: L5
+evidence_level: L2
 indication_count: 2
 ---
 
 # Epinastine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Evidence Level: **L2** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Epinastine is a second-generation H1-antihistamine and mast cell stabilizer; the
 | Predicted New Indication | Allergic Urticaria |
 | TxGNN Prediction Score | 99.28% |
 | Evidence Level | L2 |
-| Market Status | Not Marketed (未上市, 0 licenses on file) |
+| Market Status | Not Marketed (Not marketed, 0 licenses on file) |
 | Number of NDAs | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -89,7 +89,7 @@ Both trials are observational post-marketing surveillance (real-world safety/use
 
 ## US Market Information
 
-No NDA or marketing authorization is currently on file (0 licenses; market status: 未上市 / Not Marketed). Internationally, epinastine is marketed as **Alesion®** (Japan) in tablet and dry syrup formulations for allergic rhinitis, eczema/dermatitis, urticaria and pruritus, per the clinical trial records cited above.
+No NDA or marketing authorization is currently on file (0 licenses; market status: Not marketed / Not Marketed). Internationally, epinastine is marketed as **Alesion®** (Japan) in tablet and dry syrup formulations for allergic rhinitis, eczema/dermatitis, urticaria and pruritus, per the clinical trial records cited above.
 
 ---
 

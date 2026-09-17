@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Ziconotide
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 1303
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Ziconotide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -79,7 +79,7 @@ Currently no related clinical trials registered
 
 ## Taiwan Market Information
 
-No marketing authorizations are currently on record for ziconotide in Taiwan (`total_licenses: 0`, `market_status: 未上市`).
+No marketing authorizations are currently on record for ziconotide in Taiwan (`total_licenses: 0`, `market_status: Not marketed`).
 
 ---
 

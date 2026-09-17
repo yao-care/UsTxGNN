@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Zinc Chloride
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 1306
-evidence_level: L5
+evidence_level: L2
 indication_count: 3
 ---
 
 # Zinc Chloride
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Evidence Level: **L2** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -44,7 +44,7 @@ The TxGNN model predicts it may be effective for **Dry Eye Syndrome**, with **2 
 | Predicted New Indication | Dry Eye Syndrome |
 | TxGNN Prediction Score | 99.18% |
 | Evidence Level | L2 |
-| US/Taiwan Market Status | 未上市 (Not marketed) |
+| US/Taiwan Market Status | Not marketed (Not marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 

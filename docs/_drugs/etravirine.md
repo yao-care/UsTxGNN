@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Etravirine
-parent: 高證據等級 (L1-L2)
+parent: High Evidence (L1-L2)
 nav_order: 686
 evidence_level: L1
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Etravirine
 {: .fs-9 }
 
-證據等級: **L1** | 預測適應症: **10** 個
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -41,11 +41,11 @@ Etravirine（DrugBank DB06414）是一款 NNRTI（非核苷類反轉錄酶抑制
 
 | 項目 | 內容 |
 |------|------|
-| 原始適應症 | HIV-1 感染（經治型成人），公開已知資訊；台灣藥證資料為空（未上市） |
+| 原始適應症 | HIV-1 感染（經治型成人），公開已知資訊；台灣藥證資料為空（Not marketed） |
 | 預測新適應症 | 先天性 HIV 感染／孕產垂直傳染防治情境 |
 | TxGNN 預測分數 | 99.79%（score 0.9979，於全部候選中排名第 5983） |
 | 證據等級 | L1 |
-| 台灣市場狀態 | 未上市 |
+| 台灣市場狀態 | Not marketed |
 | 藥證數量 | 0 |
 | 建議決策 | Proceed with Guardrails |
 
@@ -92,7 +92,7 @@ Etravirine 屬於 NNRTI（非核苷類反轉錄酶抑制劑）class，此藥理�
 
 ## 台灣市場資訊
 
-目前台灣藥證資料庫中無 etravirine 之核准藥證（總計 0 筆），市場狀態為「未上市」。
+目前台灣藥證資料庫中無 etravirine 之核准藥證（總計 0 筆），市場狀態為「Not marketed」。
 
 ---
 
@@ -100,7 +100,7 @@ Etravirine 屬於 NNRTI（非核苷類反轉錄酶抑制劑）class，此藥理�
 
 請參閱藥品仿單以獲取安全性資訊。
 
-> 說明：本證據包中的關鍵警語（key_warnings）、禁忌症（contraindications）與藥物交互作用（DDI）查詢結果均為資料缺口或查無資料，其中「TFDA 仿單警語/禁忌」被標記為 **Blocking** 等級缺口，直接影響能否進入安全性初評（S1）。
+> 說明：本證據包中的關鍵警語（key_warnings）、禁忌症（contraindications）與藥物交互作用（DDI）查詢結果均為資料缺口或查無資料，其中「FDA package insert warnings/contraindications」被標記為 **Blocking** 等級缺口，直接影響能否進入安全性初評（S1）。
 
 ---
 
@@ -109,11 +109,11 @@ Etravirine 屬於 NNRTI（非核苷類反轉錄酶抑制劑）class，此藥理�
 **決策：Proceed with Guardrails**
 
 **理由：**
-先天性 HIV／垂直傳染防治此候選具備 L1 等級證據（多筆 Phase 3/4 試驗、含孕婦族群直接藥動學研究），機轉為同一 NNRTI 類藥理延伸至孕產族群而非全新假說，合理性高；但台灣未上市、無藥證，且安全性�General資料（仿單警語、禁忌症、DDI）全數缺失，尚不足以完成完整風險評估，故不建議直接 Go，僅可在補齊安全性資料的前提下有條件推進。
+先天性 HIV／垂直傳染防治此候選具備 L1 等級證據（多筆 Phase 3/4 試驗、含孕婦族群直接藥動學研究），機轉為同一 NNRTI 類藥理延伸至孕產族群而非全新假說，合理性高；但台灣Not marketed、無藥證，且安全性�General資料（仿單警語、禁忌症、DDI）全數缺失，尚不足以完成完整風險評估，故不建議直接 Go，僅可在補齊安全性資料的前提下有條件推進。
 
 **若要繼續推進，需要以下資料：**
 - TFDA 仿單警語與禁忌症資料（DG001，Blocking，需下載仿單 PDF 解析）
-- 詳細作用機轉（MOA）正式資料（DG002，High，查詢 DrugBank API）
+- 詳細作用機轉（MOA）正式資料（DG002，High，Query the DrugBank API）
 - Etravirine 於孕婦／新生兒族群之正式藥物交互作用（DDI）資料庫查詢結果
 - 針對「先天性 HIV／垂直傳染」此適應症標籤的孕產期安全性與劑量調整之系統性文獻回顧
 ## Disclaimer

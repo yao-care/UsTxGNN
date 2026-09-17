@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Silodosin
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 1160
 evidence_level: L5
 indication_count: 6
@@ -10,12 +10,12 @@ indication_count: 6
 # Silodosin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -43,7 +43,7 @@ Silodosin is a highly selective alpha-1A adrenergic receptor antagonist used to 
 | Predicted New Indication | Ambras type hypertrichosis universalis congenita |
 | TxGNN Prediction Score | 99.99% (global rank 418) |
 | Evidence Level | L5 |
-| Taiwan Market Status | 未上市 (Not Marketed) |
+| Taiwan Market Status | Not marketed (Not Marketed) |
 | Number of Licenses | 0 |
 | Recommended Decision | Hold |
 
@@ -65,7 +65,7 @@ Currently no related literature available.
 
 ## Taiwan Market Information
 
-No license records are currently available — silodosin is listed as not marketed (未上市) in Taiwan, with 0 registered licenses in this evidence pack.
+No license records are currently available — silodosin is listed as not marketed (Not marketed) in Taiwan, with 0 registered licenses in this evidence pack.
 
 ## Safety Considerations
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Aluminum Oxide Bryonia Alba Root Horse Chestnut Ma
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 298
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Aluminum Oxide Bryonia Alba Root Horse Chestnut Ma
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Evidence Level: **L5** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ TxGNN 模型因無法對應 DrugBank ID 且原始適應症缺失，**未能生�
 | Predicted New Indication | 無（TxGNN 無法生成預測） |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5（模型預測不可用） |
-| Taiwan Market Status | ✗ 未上市（無任一許可證） |
+| Taiwan Market Status | ✗ Not marketed（無任一許可證） |
 | Number of Licenses | 0 |
 | Recommended Decision | **Hold** |
 

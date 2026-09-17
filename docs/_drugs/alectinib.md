@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Alectinib
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 219
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Alectinib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ This top prediction is assessed as a likely false positive; the most clinically 
 | Predicted New Indication | Fibromatosis, Gingival |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L5 |
-| Taiwan Market Status | 未上市 (Not marketed) |
+| Taiwan Market Status | Not marketed (Not marketed) |
 | Number of Licenses | 0 |
 | Recommended Decision | Hold |
 
@@ -103,7 +103,7 @@ Currently no related literature available for fibromatosis, gingival.
 
 ## Taiwan Market Information
 
-Alectinib is not currently registered in Taiwan (market status: 未上市). No Taiwan drug approval licenses are on record for this compound.
+Alectinib is not currently registered in Taiwan (market status: Not marketed). No Taiwan drug approval licenses are on record for this compound.
 
 For global regulatory context: Alectinib (brand name Alecensa®) holds first-line NSCLC approvals in the United States (FDA), European Union, Japan, and multiple other jurisdictions, based on the landmark ALEX (global Phase 3), J-ALEX (Japan Phase 3), and ALESIA (Asia Phase 3) trials, as well as adjuvant NSCLC approval from the ALINA Phase 3 trial published in 2024.
 
@@ -146,7 +146,7 @@ This prediction should be reclassified and evaluated independently as a **Resear
 - Monitor enrollment and interim results of DETERMINE trial (NCT05770037, expected completion Oct 2029)
 - Define the eligible patient population: estimated ALK rearrangement frequency in LCNEC is 0.5–3% — prospective ALK IHC/FISH screening protocol needed
 - Design a prospective case series or expanded access program for ALK+ LCNEC patients in Taiwan pending global trial data maturation
-- Clarify Taiwan registration pathway for alectinib (currently 未上市) as a prerequisite for any repurposing clinical program
+- Clarify Taiwan registration pathway for alectinib (currently Not marketed) as a prerequisite for any repurposing clinical program
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

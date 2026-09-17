@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Vismodegib
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 1294
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Vismodegib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -77,7 +77,7 @@ Currently no related literature available (for this specific predicted indicatio
 
 ## US Market Information
 
-Vismodegib currently has no license records on file (`total_licenses = 0`, `market_status = 未上市 / Not Marketed`) in this jurisdiction's regulatory dataset.
+Vismodegib currently has no license records on file (`total_licenses = 0`, `market_status = Not marketed / Not Marketed`) in this jurisdiction's regulatory dataset.
 
 ---
 

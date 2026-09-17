@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Loperamide
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 869
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Loperamide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -46,7 +46,7 @@ indication_count: 10
 | Predicted New Indication | Acute Contagious Conjunctivitis |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L5 (model prediction only, no trials or literature) |
-| Market Status | Not marketed (未上市) |
+| Market Status | Not marketed (Not marketed) |
 | Number of Licenses | 0 |
 | Recommended Decision | **Hold** |
 
@@ -78,7 +78,7 @@ Currently no related literature available for Acute Contagious Conjunctivitis.
 
 Please refer to the package insert for safety information.
 
-*(Note: TFDA label warnings/contraindications and DrugBank DDI data are both marked as data gaps in this pack — DG001 "TFDA 仿單警語/禁忌" is flagged Blocking severity and must be resolved before any S1 safety evaluation.)*
+*(Note: TFDA label warnings/contraindications and DrugBank DDI data are both marked as data gaps in this pack — DG001 "FDA package insert warnings/contraindications" is flagged Blocking severity and must be resolved before any S1 safety evaluation.)*
 
 ---
 

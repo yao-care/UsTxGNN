@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bendamustine
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 444
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Bendamustine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -129,7 +129,7 @@ Multiple completed Phase 3 RCTs (including the landmark StiL trial and SHINE tri
 - **Formal MOA documentation**: DrugBank API query should be re-run to populate the `original_moa` field and complete the mechanistic analysis section
 - **Package insert safety review**: Obtain and parse the FDA-approved labeling for bendamustine (Treanda/Bendeka) to populate key warnings, contraindications, black box warnings (myelosuppression, infection, secondary malignancies, embryo-fetal toxicity), and drug interaction data
 - **Opportunistic infection prophylaxis protocol**: Given profound T-cell lymphopenia, a monitoring and prophylaxis plan (PCP prophylaxis, antiviral prophylaxis, CMV monitoring) should be established before clinical deployment
-- **Taiwan regulatory pathway assessment**: Bendamustine is not registered in Taiwan (未上市); if deployment in Taiwan is planned, a regulatory strategy for local approval or special access program is required
+- **Taiwan regulatory pathway assessment**: Bendamustine is not registered in Taiwan (Not marketed); if deployment in Taiwan is planned, a regulatory strategy for local approval or special access program is required
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

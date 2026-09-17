@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Levetiracetam
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 850
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Levetiracetam
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -33,7 +33,7 @@ Using the report template supplied in the system prompt to generate the levetira
 
 A few notes on how I resolved gaps in the data before the report:
 
-- `drug.original_indications` is empty and `original_moa` is `[Data Gap]`, and `taiwan_regulatory.licenses` is empty (market_status = "未上市" / Not Marketed, 0 licenses) — so there is no TFDA-sourced original indication text to extract. I did **not** fabricate TFDA data; instead I grounded the "Original Indication" statement in the Evidence Pack's own trial descriptions (e.g. NCT00203216: "levetiracetam is FDA approved as an add-on medication in the treatment of partial onset seizures in adults with epilepsy... trade name Keppra®"), and flagged the missing TFDA-specific record as Data Gap DG001.
+- `drug.original_indications` is empty and `original_moa` is `[Data Gap]`, and `taiwan_regulatory.licenses` is empty (market_status = "Not marketed" / Not Marketed, 0 licenses) — so there is no TFDA-sourced original indication text to extract. I did **not** fabricate TFDA data; instead I grounded the "Original Indication" statement in the Evidence Pack's own trial descriptions (e.g. NCT00203216: "levetiracetam is FDA approved as an add-on medication in the treatment of partial onset seizures in adults with epilepsy... trade name Keppra®"), and flagged the missing TFDA-specific record as Data Gap DG001.
 - Per the template's explicit extraction rule, "Predicted New Indication" = `predicted_indications[0]`, i.e. rank 1 "visual epilepsy" (score 0.9998, L2, Proceed with Guardrails) — not the strongest-evidence candidate in the list (rank 9 "status epilepticus" has L1/multiple RCTs), but the template instructs use of index 0, so the report follows that.
 - Cytotoxicity section omitted (levetiracetam is an antiepileptic, not antineoplastic).
 - Safety section collapsed to the fallback sentence since all safety fields are `[Data Gap]`/not found.

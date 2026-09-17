@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Interferon Gamma-1B
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 803
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Interferon Gamma-1B
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Interferon gamma-1b is an immunomodulatory cytokine originally indicated for chr
 | Predicted New Indication | Heart Disease |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L4 |
-| US Market Status | 未上市 (Not marketed) |
+| US Market Status | Not marketed (Not marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 

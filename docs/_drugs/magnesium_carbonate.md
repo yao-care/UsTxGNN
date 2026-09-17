@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Magnesium Carbonate
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 882
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Magnesium Carbonate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Magnesium carbonate is a classic acid-neutralizing antacid agent; no formal regu
 | Predicted New Indication | Active Peptic Ulcer Disease |
 | TxGNN Prediction Score | 99.96% |
 | Evidence Level | L2 |
-| US Market Status | 未上市 (Not Marketed) |
+| US Market Status | Not marketed (Not Marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Research Question |
 
@@ -78,7 +78,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-Currently not marketed in the reference market (market status: 未上市／Not Marketed). No NDA or license records are on file.
+Currently not marketed in the reference market (market status: Not marketed／Not Marketed). No NDA or license records are on file.
 
 ---
 

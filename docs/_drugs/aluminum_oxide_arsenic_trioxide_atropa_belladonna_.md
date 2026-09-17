@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Aluminum Oxide Arsenic Trioxide Atropa Belladonna 
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 288
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Aluminum Oxide Arsenic Trioxide Atropa Belladonna 
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Evidence Level: **L5** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -64,7 +64,7 @@ This candidate is not a single molecular entity but a **heterogeneous 25-compone
 
 The TxGNN knowledge graph operates on discrete drug nodes identified by DrugBank IDs. Because this product has **no DrugBank ID** (`drugbank_id: null`) and cannot be mapped to any single pharmacological entity in the knowledge graph, the model returned zero predictions. This is expected behavior, not a pipeline failure.
 
-Additionally, because the product is not marketed in any jurisdiction covered by this system (Taiwan FDA: 未上市, NDA count: 0), there is no regulatory anchor for original indication inference.
+Additionally, because the product is not marketed in any jurisdiction covered by this system (Taiwan FDA: Not marketed, NDA count: 0), there is no regulatory anchor for original indication inference.
 
 ---
 

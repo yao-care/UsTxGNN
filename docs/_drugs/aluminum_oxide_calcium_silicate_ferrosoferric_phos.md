@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Aluminum Oxide Calcium Silicate Ferrosoferric Phos
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 299
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Aluminum Oxide Calcium Silicate Ferrosoferric Phos
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Evidence Level: **L5** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ Due to critical data gaps across all evaluation domains, a full repurposing anal
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Below L5 (no predictions, no studies) |
-| US Market Status | Not marketed (未上市) |
+| US Market Status | Not marketed (Not marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

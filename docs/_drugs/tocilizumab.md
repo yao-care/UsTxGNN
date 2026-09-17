@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Tocilizumab
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 1238
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Tocilizumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -91,7 +91,7 @@ Both dedicated Phase 2/3 trials of tocilizumab specifically in AS were stopped e
 
 ## US Market Information
 
-Tocilizumab is currently **not marketed** in this jurisdiction (market status: 未上市), and no license/NDA records are available in the evidence pack.
+Tocilizumab is currently **not marketed** in this jurisdiction (market status: Not marketed), and no license/NDA records are available in the evidence pack.
 
 ---
 

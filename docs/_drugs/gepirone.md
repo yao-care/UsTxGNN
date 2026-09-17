@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Gepirone
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 750
 evidence_level: L5
 indication_count: 3
@@ -10,12 +10,12 @@ indication_count: 3
 # Gepirone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Gepirone is a 5-HT1A receptor partial agonist (azapirone class) whose extended-r
 | Predicted New Indications | Postpartum Depression (rank 3); Agoraphobia (rank 2) |
 | TxGNN Prediction Score | Postpartum Depression: 99.52% · Agoraphobia: 99.66% |
 | Evidence Level | L4 (both indications — mechanism/uncontrolled study level, no RCTs) |
-| Taiwan Market Status | 未上市 (Not marketed) |
+| Taiwan Market Status | Not marketed (Not marketed) |
 | Number of TFDA Licenses | 0 |
 | Recommended Decision | Hold |
 
@@ -90,7 +90,7 @@ Neither publication is specific to postpartum depression as a primary endpoint; 
 
 ## Taiwan Market Information
 
-Gepirone has no Taiwan Food and Drug Administration (TFDA) marketing license on record (0 licenses, market status: 未上市/Not marketed). No dosage forms, brand names, or approved indication text are available for the Taiwan market.
+Gepirone has no Taiwan Food and Drug Administration (TFDA) marketing license on record (0 licenses, market status: Not marketed/Not marketed). No dosage forms, brand names, or approved indication text are available for the Taiwan market.
 
 *External reference for context: gepirone ER is approved in the United States as Exxua® for MDD (2023) — this approval is not reflected in Taiwan regulatory data.*
 

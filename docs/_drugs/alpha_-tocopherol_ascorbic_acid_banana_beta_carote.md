@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Alpha -Tocopherol Ascorbic Acid Banana Beta Carote
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 246
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Alpha -Tocopherol Ascorbic Acid Banana Beta Carote
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Evidence Level: **L5** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -48,7 +48,7 @@ indication_count: 0
 | 預測新適應症 | **無**（TxGNN 無法映射，未產生預測） |
 | TxGNN 預測分數 | 不適用 |
 | 證據等級 | **L5**（模型預測失敗，無任何實際研究支持） |
-| 台灣上市狀態 | ✗ 未上市（0 筆藥品許可） |
+| 台灣上市狀態 | ✗ Not marketed（0 筆藥品許可） |
 | 許可證數量 | 0 |
 | 建議決策 | **Hold** |
 
@@ -105,7 +105,7 @@ indication_count: 0
 - **確立藥品身份**：確認各成分是否有對應的 DrugBank ID（目前整體複方查無 DrugBank ID）
 - **補充作用機轉（MOA）**：透過 DrugBank API 查詢各單一成分的 MOA 資料，解除 DG002 資料缺口
 - **確認法規定位**：釐清本品在台灣的定位（藥品 vs. 健康食品 vs. 食品），方可決定適用的審查路徑
-- **補充 TFDA 仿單警語**：若存在相關產品，透過 TFDA 官網下載仿單 PDF 解析安全資訊，解除 DG001 阻斷性缺口
+- **補充 TFDA 仿單警語**：若存在相關產品，透過 FDA website下載仿單 PDF 解析安全資訊，解除 DG001 阻斷性缺口
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

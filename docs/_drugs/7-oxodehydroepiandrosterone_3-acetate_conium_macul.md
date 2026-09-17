@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 7-Oxodehydroepiandrosterone 3-Acetate Conium Macul
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 35
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # 7-Oxodehydroepiandrosterone 3-Acetate Conium Macul
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Evidence Level: **L5** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -46,7 +46,7 @@ indication_count: 0
 | 預測新適應症 | 無（TxGNN 未產生預測結果） |
 | TxGNN 預測分數 | N/A |
 | 證據等級 | L5（僅模型查詢，無預測輸出；實際上低於 L5） |
-| 美國市場狀態 | 未上市 |
+| 美國市場狀態 | Not marketed |
 | NDA 數量 | 0 |
 | 建議決策 | **Hold（暫緩）** |
 

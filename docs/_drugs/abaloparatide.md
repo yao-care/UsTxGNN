@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Abaloparatide
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 40
 evidence_level: L5
 indication_count: 4
@@ -10,12 +10,12 @@ indication_count: 4
 # Abaloparatide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -49,7 +49,7 @@ Abaloparatide is a synthetic parathyroid hormone-related protein (PTHrP) analog,
 | Number of NDAs | 0 *(per Evidence Pack)* |
 | Recommended Decision | **Hold** |
 
-> **Data Note**: The Evidence Pack records 0 licenses and "未上市" (not marketed). However, Abaloparatide (Tymlos®) received US FDA approval (NDA 208743) in April 2017. This discrepancy suggests a data retrieval issue in the regulatory query pipeline, not an actual absence of approval. This must be corrected before regulatory-based assessment can proceed.
+> **Data Note**: The Evidence Pack records 0 licenses and "Not marketed" (not marketed). However, Abaloparatide (Tymlos®) received US FDA approval (NDA 208743) in April 2017. This discrepancy suggests a data retrieval issue in the regulatory query pipeline, not an actual absence of approval. This must be corrected before regulatory-based assessment can proceed.
 
 ---
 

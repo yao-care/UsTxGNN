@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Cyanocobalamin
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 553
-evidence_level: L5
+evidence_level: L4
 indication_count: 1
 ---
 
 # Cyanocobalamin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Evidence Level: **L4** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ Current data supports a mechanistic research question rather than near-term clin
 | Predicted New Indication | Biotin Metabolic Disease |
 | TxGNN Prediction Score | 99.60% |
 | Evidence Level | L4 |
-| Taiwan Market Status | ✗ Not marketed (未上市) |
+| Taiwan Market Status | ✗ Not marketed (Not marketed) |
 | Number of Licenses | 0 |
 | Recommended Decision | Hold |
 
@@ -99,7 +99,7 @@ However, it is critical to recognize that the first-line treatment for biotin me
 
 ## Taiwan Market Information
 
-Cyanocobalamin is currently **not marketed in Taiwan** (未上市) with no approved drug licenses on record. No dosage form or route-of-administration data is available from Taiwan regulatory sources.
+Cyanocobalamin is currently **not marketed in Taiwan** (Not marketed) with no approved drug licenses on record. No dosage form or route-of-administration data is available from Taiwan regulatory sources.
 
 ---
 
@@ -121,7 +121,7 @@ The biological connection between cyanocobalamin and biotin metabolic disease is
 - Clarify the specific biotin metabolic disease subtype being targeted: biotinidase deficiency, holocarboxylase synthetase deficiency, or biotin transporter deficiency — each has different mechanistic implications for B12 co-supplementation
 - Conduct a systematic literature review focused on case reports of B12-responsive MMA with concurrent biotin metabolic disease, where combined therapy was used
 - Design a preclinical study to evaluate cyanocobalamin as adjunctive therapy alongside biotin in a biotinidase-deficient animal model
-- Evaluate Taiwan regulatory pathway for cyanocobalamin (currently 未上市) before any clinical development plan
+- Evaluate Taiwan regulatory pathway for cyanocobalamin (currently Not marketed) before any clinical development plan
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

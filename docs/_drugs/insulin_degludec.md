@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Insulin Degludec
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 797
-evidence_level: L5
+evidence_level: L1
 indication_count: 6
 ---
 
 # Insulin Degludec
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+Evidence Level: **L1** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Insulin Degludec（德固胰島素，DB09564）是一款長效基礎胰島素類
 | Predicted New Indication | Type 1 Diabetes Mellitus（第1型糖尿病） |
 | TxGNN Prediction Score | 99.44% |
 | Evidence Level | L1 |
-| 台灣上市狀態 | 未上市 |
+| 台灣上市狀態 | Not marketed |
 | 藥證數量 | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -57,7 +57,7 @@ Insulin Degludec（德固胰島素，DB09564）是一款長效基礎胰島素類
 
 第1型糖尿病的病理生理核心即為胰臟 β 細胞破壞導致的胰島素絕對缺乏，因此外源性基礎胰島素替代治療本就是第1型糖尿病的標準治療手段之一，機轉上高度直接對應，不需要跨適應症的外推假設。
 
-需特別說明：本證據包中 `predicted_indications[0]` 的機轉關聯性分析明確指出，TxGNN 開發代號 NN1250 即為 Insulin Degludec，第1型糖尿病本屬其核准適應症範疇之一；證據包中「原始適應症未填、台灣未上市」的狀態，較可能反映的是本資料集在藥品原始資料欄位與台灣藥證比對上的缺口，而非該藥物真實的核准狀態。此點在下方「後續所需資料」中列為待補項目。
+需特別說明：本證據包中 `predicted_indications[0]` 的機轉關聯性分析明確指出，TxGNN 開發代號 NN1250 即為 Insulin Degludec，第1型糖尿病本屬其核准適應症範疇之一；證據包中「原始適應症未填、台灣Not marketed」的狀態，較可能反映的是本資料集在藥品原始資料欄位與台灣藥證比對上的缺口，而非該藥物真實的核准狀態。此點在下方「後續所需資料」中列為待補項目。
 
 ---
 
@@ -97,7 +97,7 @@ Insulin Degludec（德固胰島素，DB09564）是一款長效基礎胰島素類
 
 ## US Market Information
 
-目前無台灣藥證資料（`taiwan_regulatory.total_licenses = 0`，`licenses` 為空陣列）。此為已標記之高優先級資料缺口（DG001），建議向 TFDA 官網或原廠仿單另行查證上市狀態與核准適應症全文。
+目前無台灣藥證資料（`taiwan_regulatory.total_licenses = 0`，`licenses` 為空陣列）。此為已標記之高優先級資料缺口（DG001），建議向 FDA website或原廠仿單另行查證上市狀態與核准適應症全文。
 
 ---
 
@@ -116,8 +116,8 @@ Insulin Degludec（德固胰島素，DB09564）是一款長效基礎胰島素類
 
 **To proceed, the following is needed:**
 - TFDA 仿單警語／禁忌完整資料（DG001，Blocking，需下載仿單 PDF 解析）
-- DrugBank 作用機轉（MOA）完整敘述（DG002，High，需查詢 DrugBank API）
-- 釐清並補齊 `original_indications` 與台灣藥證（`licenses`）資料，確認此為既有適應症之資料缺漏、而非真實未上市狀態
+- DrugBank 作用機轉（MOA）完整敘述（DG002，High，需Query the DrugBank API）
+- 釐清並補齊 `original_indications` 與台灣藥證（`licenses`）資料，確認此為既有適應症之資料缺漏、而非真實Not marketed狀態
 - 藥物交互作用（DDI）資料庫查詢結果
 ## Disclaimer
 

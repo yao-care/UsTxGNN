@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dolutegravir
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 620
 evidence_level: L5
 indication_count: 3
@@ -10,12 +10,12 @@ indication_count: 3
 # Dolutegravir
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -54,7 +54,7 @@ Because the predicted indication is veterinary rather than human, this candidate
 | Predicted New Indication | Feline Acquired Immunodeficiency Syndrome (Feline Immunodeficiency Virus infection) — **a veterinary/animal indication** |
 | TxGNN Prediction Score | 99.85% (raw score 0.9985, rank 4507) |
 | Evidence Level | L4 for the new indication specifically (see rationale below); note the trial list would satisfy L1 by trial-count alone, but those trials studied the *original* human indication, not FIV |
-| US Market Status | 未上市 (Not Marketed) — per this evidence pack's query results; 0 matching license records found |
+| US Market Status | Not marketed (Not Marketed) — per this evidence pack's query results; 0 matching license records found |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 

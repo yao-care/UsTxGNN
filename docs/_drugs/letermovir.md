@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Letermovir
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 847
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Letermovir
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Letermovir is an antiviral agent whose known mechanism (CMV terminase complex in
 | Predicted New Indication | Vulvovaginal Candidiasis |
 | TxGNN Prediction Score | 99.88% (rank 3764) |
 | Evidence Level | L5 |
-| Taiwan Market Status | 未上市 (Not marketed) |
+| Taiwan Market Status | Not marketed (Not marketed) |
 | Number of Authorizations (Taiwan) | 0 |
 | Recommended Decision | Hold |
 
@@ -75,7 +75,7 @@ Currently no related literature available.
 
 ## Taiwan Market Information
 
-Letermovir currently has no marketing authorization on file in Taiwan (`market_status: 未上市`, `total_licenses: 0`). No license records are available to summarize.
+Letermovir currently has no marketing authorization on file in Taiwan (`market_status: Not marketed`, `total_licenses: 0`). No license records are available to summarize.
 
 ---
 

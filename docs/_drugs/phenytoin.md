@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Phenytoin
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 1043
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Phenytoin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -87,7 +87,7 @@ One completed prospective clinical trial plus a retrospective cohort of 144 case
 **To proceed, the following is needed:**
 - TFDA-approved package insert (warnings, contraindications) — currently a **Blocking** data gap preventing formal safety (S1) evaluation
 - Confirmed DrugBank/formal MOA documentation
-- Local market access assessment, since the drug currently holds 0 active licenses (未上市/Not Marketed) in this jurisdiction
+- Local market access assessment, since the drug currently holds 0 active licenses (Not marketed/Not Marketed) in this jurisdiction
 - Cardiac/hemodynamic monitoring protocol for IV administration, given phenytoin's narrow therapeutic index and known infusion-related risks (arrhythmia, hypotension)
 - A prospective RCT comparing IV phenytoin to standard-of-care rescue options to upgrade evidence level beyond L2
 ## Disclaimer

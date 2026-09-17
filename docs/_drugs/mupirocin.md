@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mupirocin
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 945
 evidence_level: L5
 indication_count: 2
@@ -10,12 +10,12 @@ indication_count: 2
 # Mupirocin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -41,11 +41,11 @@ Mupirocin 目前無台灣/美國正式核准適應症資料，僅能依其作用
 
 | 項目 | 內容 |
 |------|------|
-| 原始適應症 | 無正式核准資料（本藥於本區未上市）；依機轉推論為鼻腔/皮膚外用抗菌（鼻腔 MRSA 除菌、膿痂疹），**未經正式來源確認** |
+| 原始適應症 | 無正式核准資料（本藥於本區Not marketed）；依機轉推論為鼻腔/皮膚外用抗菌（鼻腔 MRSA 除菌、膿痂疹），**未經正式來源確認** |
 | 預測新適應症 | Pleural Empyema（肋膜膿胸） |
 | TxGNN 預測分數 | 99.49% |
 | 證據等級 | L5（僅模型預測，無臨床試驗或文獻） |
-| 市場狀態 | 未上市 |
+| 市場狀態 | Not marketed |
 | 核准案件數 | 0 |
 | 建議決策 | Hold |
 
@@ -79,7 +79,7 @@ Pleural empyema（肋膜膿胸）多為厭氧菌或鏈球菌混合感染，需�
 
 ## 市場資訊
 
-本藥於此區域**未上市**，無任何核准案件（total_licenses = 0），故無授權/劑型/適應症資料可列。
+本藥於此區域**Not marketed**，無任何核准案件（total_licenses = 0），故無授權/劑型/適應症資料可列。
 
 ---
 
@@ -87,7 +87,7 @@ Pleural empyema（肋膜膿胸）多為厭氧菌或鏈球菌混合感染，需�
 
 安全性資料目前缺失，請參考藥品仿單以取得完整安全性資訊。
 
-**注意**：TFDA 仿單警語與禁忌資料缺失已列為 **Blocking** 等級之資料缺口（DG001），在補齊前無法進入 S1 安全性初評階段。
+**注意**：TFDA 仿單警語與禁忌資料缺失已列為 **Blocking** 等級之資料缺口（DG001），在補齊前Cannot proceed to S1 safety screening階段。
 
 ---
 
@@ -98,7 +98,7 @@ Pleural empyema（肋膜膿胸）多為厭氧菌或鏈球菌混合感染，需�
 **理由：**
 - 證據等級僅為 L5（純模型預測，無任何臨床試驗或文獻佐證）
 - 證據包本身的機轉分析已指出，Mupirocin 外用劑型與肋膜膿胸所需之全身性治療機轉間缺乏合理連結，預測分數可能源自知識圖譜拓樸偏誤而非藥理學合理性
-- 本藥未上市、無核准案件，基礎安全性與劑型資料不足
+- 本藥Not marketed、無核准案件，基礎安全性與劑型資料不足
 
 **需補齊的資料/行動：**
 - 取得 TFDA 仿單警語與禁忌資料（DG001，Blocking，需下載並解析仿單 PDF）

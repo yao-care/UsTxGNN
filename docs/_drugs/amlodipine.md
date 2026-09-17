@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Amlodipine
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 329
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Amlodipine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ Among these, **Intracerebral Hemorrhage** (rank 10) carries the strongest eviden
 | Predicted New Indication | Brain Stem Infarction (TxGNN Rank #1) |
 | TxGNN Prediction Score | 99.94% |
 | Evidence Level | L5 (brain stem infarction); best-in-set: L2 (intracerebral hemorrhage, rank 10) |
-| Taiwan Market Status | 未上市（TFDA 紀錄為 0，疑似資料缺漏） |
+| Taiwan Market Status | Not marketed（TFDA 紀錄為 0，疑似資料缺漏） |
 | Number of TFDA Licenses | 0 |
 | Recommended Decision | Hold (brain stem infarction) |
 

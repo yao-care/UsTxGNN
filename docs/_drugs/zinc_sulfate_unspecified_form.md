@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Zinc Sulfate Unspecified Form
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 1309
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Zinc Sulfate Unspecified Form
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -124,7 +124,7 @@ Currently no related literature available for either indication.
 
 ## US Market Information
 
-Zinc sulfate (unspecified form) is **not currently marketed** in Taiwan under this evidence pack (`market_status: 未上市`, `total_licenses: 0`). No NDA/license records are available for review.
+Zinc sulfate (unspecified form) is **not currently marketed** in Taiwan under this evidence pack (`market_status: Not marketed`, `total_licenses: 0`). No NDA/license records are available for review.
 
 ---
 

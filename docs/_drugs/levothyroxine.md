@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Levothyroxine
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 858
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Levothyroxine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Levothyroxine (LT4) is the synthetic thyroid hormone used as lifelong replacemen
 | Predicted New Indication | Endemic Goiter |
 | TxGNN Prediction Score | 99.81% |
 | Evidence Level | L3 |
-| Taiwan Market Status | 未上市 (Not Marketed) |
+| Taiwan Market Status | Not marketed (Not Marketed) |
 | Number of Licenses | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -80,7 +80,7 @@ The caveat is evidentiary rather than mechanistic: the one clinical trial retrie
 
 ## Taiwan Market Information
 
-Currently no marketing authorization records for levothyroxine in the Taiwan regulatory dataset (market status: 未上市 / Not Marketed; 0 licenses).
+Currently no marketing authorization records for levothyroxine in the Taiwan regulatory dataset (market status: Not marketed / Not Marketed; 0 licenses).
 
 ## Safety Considerations
 
@@ -96,7 +96,7 @@ The mechanistic basis for LT4 in endemic goiter (correcting iodine-deficiency-dr
 **To proceed, the following is needed:**
 - TFDA label (warnings/contraindications) — currently a Blocking gap (DG001)
 - Confirmed DrugBank mechanism-of-action data (DG002)
-- Verification of Taiwan market/licensing pathway, since the drug is currently unlicensed (未上市)
+- Verification of Taiwan market/licensing pathway, since the drug is currently unlicensed (Not marketed)
 - A direct LT4-specific trial or systematic review in endemic-goiter populations, since the one retrieved trial tests a different intervention
 - Consider cross-referencing with the same pack's nodular goiter (L1) and nontoxic goiter (L2) predictions, which carry stronger direct LT4 evidence for closely related goiter subtypes
 ## Disclaimer

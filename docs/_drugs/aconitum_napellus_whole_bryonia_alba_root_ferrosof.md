@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Aconitum Napellus Whole Bryonia Alba Root Ferrosof
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 136
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Aconitum Napellus Whole Bryonia Alba Root Ferrosof
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Evidence Level: **L5** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ indication_count: 0
 | 預測新適應症 | 無（TxGNN 無法產生預測） |
 | TxGNN 預測分數 | 無 |
 | 證據等級 | 無法評估 |
-| 美國市場狀態 | 未上市 |
+| 美國市場狀態 | Not marketed |
 | NDA 數量 | 0 |
 | 建議決策 | **Hold** |
 
@@ -77,7 +77,7 @@ TxGNN 模型以 DrugBank 收錄之單一化學實體為預測基礎。由於此�
 
 ## 美國市場資訊
 
-本製劑在美國無任何已核准藥品許可證（NDA/ANDA），美國市場狀態為**未上市**。
+本製劑在美國無任何已核准藥品許可證（NDA/ANDA），美國市場狀態為**Not marketed**。
 
 ---
 

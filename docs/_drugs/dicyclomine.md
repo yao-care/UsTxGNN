@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dicyclomine
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 603
 evidence_level: L5
 indication_count: 2
@@ -10,12 +10,12 @@ indication_count: 2
 # Dicyclomine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ however, **no clinical trials** and **no publications** currently support this d
 | Predicted New Indication | Cauda Equina Syndrome |
 | TxGNN Prediction Score | 99.66% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (未上市) |
+| Taiwan Market Status | Not marketed (Not marketed) |
 | Number of Registered Licenses | 0 |
 | Recommended Decision | Hold |
 

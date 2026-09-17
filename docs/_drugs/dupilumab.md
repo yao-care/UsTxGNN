@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Dupilumab
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 634
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Dupilumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -84,7 +84,7 @@ That said, the model's own repurposing rationale flags an important caveat: the 
 
 ## Taiwan Market Information
 
-No TFDA license record exists for dupilumab in this evidence pack (`market_status: 未上市`, `total_licenses: 0`). Regulatory/product data cannot be summarized until a license is registered or obtained.
+No TFDA license record exists for dupilumab in this evidence pack (`market_status: Not marketed`, `total_licenses: 0`). Regulatory/product data cannot be summarized until a license is registered or obtained.
 
 ---
 

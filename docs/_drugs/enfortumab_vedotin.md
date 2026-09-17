@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Enfortumab Vedotin
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 653
 evidence_level: L5
 indication_count: 9
@@ -10,12 +10,12 @@ indication_count: 9
 # Enfortumab Vedotin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **9** 個
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 9
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Enfortumab vedotin is an antibody-drug conjugate (ADC) that targets Nectin-4-exp
 | Predicted New Indication | Leprosy |
 | TxGNN Prediction Score | 99.53% |
 | Evidence Level | L5 (model prediction only, no supporting studies) |
-| US Market Status | Not marketed (Taiwan: 未上市) |
+| US Market Status | Not marketed (Taiwan: Not marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 
@@ -75,7 +75,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-No Taiwan (TFDA) authorizations are on file for this drug — 0 licenses recorded, market status "未上市" (not marketed).
+No Taiwan (TFDA) authorizations are on file for this drug — 0 licenses recorded, market status "Not marketed" (not marketed).
 
 ---
 

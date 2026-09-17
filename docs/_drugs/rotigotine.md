@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rotigotine
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 1137
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Rotigotine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -81,7 +81,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-No approved licenses or NDA records found for this candidate (`market_status: 未上市 / Not Marketed`, `total_licenses: 0`).
+No approved licenses or NDA records found for this candidate (`market_status: Not marketed / Not Marketed`, `total_licenses: 0`).
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dexrazoxane
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 597
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Dexrazoxane
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Dexrazoxane is a cardioprotective agent used globally to prevent anthracycline-i
 | Predicted New Indication (Rank 1) | Sclerosing Cholangitis |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| US Market Status | Not found in database (未上市) |
+| US Market Status | Not found in database (Not marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 

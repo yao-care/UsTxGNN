@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dexchlorpheniramine
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 592
 evidence_level: L5
 indication_count: 2
@@ -10,12 +10,12 @@ indication_count: 2
 # Dexchlorpheniramine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ The mechanistic rationale is direct and well-supported pharmacologically; howeve
 | Predicted New Indication | Allergic Urticaria |
 | TxGNN Prediction Score | 99.89% |
 | Evidence Level | L5 (model prediction only; no trials or literature captured in pipeline) |
-| Taiwan Market Status | ✗ Not Marketed (未上市) |
+| Taiwan Market Status | ✗ Not Marketed (Not marketed) |
 | Number of Approved Licenses | 0 |
 | Recommended Decision | Hold — pending targeted evidence supplementation |
 
@@ -81,7 +81,7 @@ Currently no related literature available for dexchlorpheniramine + allergic urt
 
 ## Taiwan Market Information
 
-Dexchlorpheniramine is not registered in Taiwan (市場狀態：未上市). No NDA, license records, or approved indications are on file with the TFDA.
+Dexchlorpheniramine is not registered in Taiwan (市場狀態：Not marketed). No NDA, license records, or approved indications are on file with the TFDA.
 
 ---
 
@@ -106,7 +106,7 @@ The TxGNN model score is exceptionally high (99.89%) and the mechanistic alignme
 - **MOA data retrieval:** Query DrugBank API for DB13679 to populate mechanism of action, categories, and toxicity data (currently flagged as Data Gap DG002)
 - **Safety data retrieval:** Download and parse the originator package insert (or international equivalent such as EMA/PMDA label) to populate key warnings, contraindications, and DDI data (Data Gap DG001)
 - **Class-level evidence mapping:** Identify whether existing H1 antihistamine urticaria RCTs can be used as class-bridging evidence to upgrade the effective evidence level
-- **Taiwan registration feasibility assessment:** Determine whether a Taiwan NDA pathway is applicable, given the drug is currently 未上市
+- **Taiwan registration feasibility assessment:** Determine whether a Taiwan NDA pathway is applicable, given the drug is currently Not marketed
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

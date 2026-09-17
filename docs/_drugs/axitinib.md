@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Axitinib
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 433
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Axitinib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -164,7 +164,7 @@ The strongest evidence base across all predictions. Multiple completed Phase 3 R
 
 ## US Market Information
 
-No regulatory approvals for Axitinib were recorded in the dataset (Taiwan FDA records: 0 approvals; market status: 未上市).
+No regulatory approvals for Axitinib were recorded in the dataset (Taiwan FDA records: 0 approvals; market status: Not marketed).
 
 > **Context Note:** Axitinib (Inlyta®, Pfizer) holds US FDA approval for advanced renal cell carcinoma — as second-line monotherapy (approved January 2012, based on the AXIS trial) and in combination with pembrolizumab as first-line therapy (approved April 2019, based on KEYNOTE-426). It is also approved in the EU, Japan, and South Korea. The absence of Taiwan regulatory records likely reflects a data collection gap (Data Gap DG001); TFDA package insert retrieval is required for a complete Taiwan regulatory assessment.
 

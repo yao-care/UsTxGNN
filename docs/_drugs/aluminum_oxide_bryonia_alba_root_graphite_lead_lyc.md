@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Aluminum Oxide Bryonia Alba Root Graphite Lead Lyc
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 296
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Aluminum Oxide Bryonia Alba Root Graphite Lead Lyc
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Evidence Level: **L5** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -63,7 +63,7 @@ Without a defined original indication and without TxGNN output, there is no mech
 
 ## Market Authorization Status
 
-This product currently holds **no marketing authorization** in Taiwan (TFDA). No NDA, license number, dosage form, or approved indication text is on record. The product is classified as **未上市** (not marketed).
+This product currently holds **no marketing authorization** in Taiwan (TFDA). No NDA, license number, dosage form, or approved indication text is on record. The product is classified as **Not marketed** (not marketed).
 
 ---
 

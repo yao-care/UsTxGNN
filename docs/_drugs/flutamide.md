@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Flutamide
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 729
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Flutamide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Flutamide's formal original-indication record is a data gap in this pack, but th
 | Predicted New Indication | Prostate cancer/brain cancer susceptibility |
 | TxGNN Prediction Score | 99.98% |
 | Evidence Level | L5 |
-| US Market Status | ✗ Not Marketed (未上市) |
+| US Market Status | ✗ Not Marketed (Not marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 
@@ -75,7 +75,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-Flutamide is currently not marketed under this pack's regulatory source (`market_status`: 未上市), with 0 licenses/NDAs on record. No authorization table is available.
+Flutamide is currently not marketed under this pack's regulatory source (`market_status`: Not marketed), with 0 licenses/NDAs on record. No authorization table is available.
 
 ---
 

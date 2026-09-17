@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Rivastigmine
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 1131
-evidence_level: L5
+evidence_level: L4
 indication_count: 1
 ---
 
 # Rivastigmine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+Evidence Level: **L4** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Rivastigmine is a cholinesterase inhibitor originally developed for Alzheimer's 
 | Predicted New Indication | Glaucoma |
 | TxGNN Prediction Score | 99.27% |
 | Evidence Level | L4 |
-| US Market Status | Not marketed (未上市) |
+| US Market Status | Not marketed (Not marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 
@@ -77,7 +77,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-Not applicable — the drug currently has no marketed license record in this jurisdiction (0 NDAs, market status: 未上市).
+Not applicable — the drug currently has no marketed license record in this jurisdiction (0 NDAs, market status: Not marketed).
 
 ---
 

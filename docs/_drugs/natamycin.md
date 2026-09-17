@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Natamycin
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 957
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Natamycin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -43,7 +43,7 @@ Natamycin (DrugBank DB00826) is a polyene macrolide antifungal with **no current
 | Predicted New Indication | Vulvovaginal Candidiasis |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L2 |
-| Taiwan Market Status | Not Marketed (未上市) |
+| Taiwan Market Status | Not Marketed (Not marketed) |
 | Number of Authorizations | 0 |
 | Recommended Decision | Proceed with Guardrails |
 

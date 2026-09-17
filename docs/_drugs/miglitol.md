@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Miglitol
-parent: 僅模型預測 (L5)
+parent: High Evidence (L1-L2)
 nav_order: 928
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Miglitol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ Miglitol is an alpha-glucosidase inhibitor originally used to control postprandi
 | Predicted New Indication | Type 1 Diabetes Mellitus (adjunct to insulin) |
 | TxGNN Prediction Score | 99.60% |
 | Evidence Level | L2 |
-| US Market Status | 未上市 (Not Marketed) |
+| US Market Status | Not marketed (Not Marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -94,7 +94,7 @@ Six further publications (PMID 8261749, 11460577, 12073790, 33268615, 20307399, 
 
 ## US Market Information
 
-Miglitol currently has **no marketing license on record** for this jurisdiction (market status: 未上市 / Not Marketed, 0 NDAs). No product/dosage form data is available to tabulate.
+Miglitol currently has **no marketing license on record** for this jurisdiction (market status: Not marketed / Not Marketed, 0 NDAs). No product/dosage form data is available to tabulate.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Raxibacumab
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 1113
 evidence_level: L5
 indication_count: 8
@@ -10,12 +10,12 @@ indication_count: 8
 # Raxibacumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -45,7 +45,7 @@ Raxibacumab is a monoclonal antibody originally developed to neutralize *Bacillu
 | Predicted New Indication | Postinfectious Vasculitis |
 | TxGNN Prediction Score | 99.75% |
 | Evidence Level | L5 |
-| US Market Status | 未上市 (Not Marketed) |
+| US Market Status | Not marketed (Not Marketed) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 
@@ -75,7 +75,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-Raxibacumab currently has no license/authorization records in this jurisdiction (total_licenses: 0; market_status: 未上市).
+Raxibacumab currently has no license/authorization records in this jurisdiction (total_licenses: 0; market_status: Not marketed).
 
 ---
 

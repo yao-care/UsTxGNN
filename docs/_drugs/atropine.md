@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Atropine
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 428
 evidence_level: L5
 indication_count: 2
@@ -10,12 +10,12 @@ indication_count: 2
 # Atropine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -51,7 +51,7 @@ However, the mechanistic evidence points in two opposing directions — peripher
 | Predicted New Indication | Migraine Disorder |
 | TxGNN Prediction Score | 99.56% |
 | Evidence Level | L4 — Preclinical and mechanistic studies only |
-| Taiwan Market Status | ✗ 未上市 (Not Marketed) |
+| Taiwan Market Status | ✗ Not marketed (Not Marketed) |
 | Number of Approved Products | 0 |
 | Recommended Decision | Hold |
 
@@ -94,7 +94,7 @@ Currently no related clinical trials are registered for Atropine in migraine dis
 
 No approved drug products for Atropine were found in the Taiwan regulatory database (TFDA).
 
-**Taiwan market status: 未上市 (Not Marketed)** — 0 approved product licences on record.
+**Taiwan market status: Not marketed (Not Marketed)** — 0 approved product licences on record.
 
 > Note: Atropine has well-established regulatory approval in other markets (e.g., the United States and the European Union) for bradycardia, organophosphate poisoning, and related anticholinergic indications. This section reflects only data from the Taiwan regulatory query conducted for this evidence pack.
 

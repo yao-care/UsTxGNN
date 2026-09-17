@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Laronidase
-parent: 僅模型預測 (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 836
-evidence_level: L5
+evidence_level: L4
 indication_count: 2
 ---
 
 # Laronidase
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Evidence Level: **L4** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -43,7 +43,7 @@ Laronidase is a recombinant alpha-L-iduronidase enzyme replacement therapy, orig
 | Predicted New Indication | Lysosomal Storage Disease with Skeletal Involvement |
 | TxGNN Prediction Score | 99.31% |
 | Evidence Level | L4 |
-| Taiwan Market Status | 未上市 (Not marketed) |
+| Taiwan Market Status | Not marketed (Not marketed) |
 | Number of TFDA Licenses | 0 |
 | Recommended Decision | Hold |
 
@@ -73,7 +73,7 @@ Currently no related clinical trials registered.
 
 ## Taiwan Market Information
 
-Laronidase currently holds **no marketing authorization in Taiwan** (0 licenses on file; market status: 未上市 / Not marketed). No product name, dosage form, or approved indication text is available from TFDA records.
+Laronidase currently holds **no marketing authorization in Taiwan** (0 licenses on file; market status: Not marketed / Not marketed). No product name, dosage form, or approved indication text is available from TFDA records.
 
 ## Safety Considerations
 

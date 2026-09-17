@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Alpha -Tocopherol Succinate D- Alpha Lipoic Acid A
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 258
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Alpha -Tocopherol Succinate D- Alpha Lipoic Acid A
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+Evidence Level: **L5** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -47,7 +47,7 @@ TxGNN 模型未能對此複合配方產生任何預測適應症，原因為此�
 | 預測新適應症 | **無**（TxGNN 未產生預測） |
 | TxGNN 預測分數 | N/A |
 | 證據等級 | **無法評級**（無預測、無試驗、無文獻） |
-| 台灣市場狀態 | ✗ 未上市 |
+| 台灣市場狀態 | ✗ Not marketed |
 | 許可證總數 | 0 |
 | 建議決策 | **Hold** |
 
@@ -85,7 +85,7 @@ TxGNN 模型以單一 DrugBank ID 作為節點進行知識圖譜推論。複合�
 
 ## 台灣市場資訊
 
-本品於台灣查無核准上市紀錄（`market_status: 未上市`，`total_licenses: 0`）。可能情境如下：
+本品於台灣查無核准上市紀錄（`market_status: Not marketed`，`total_licenses: 0`）。可能情境如下：
 
 1. 以食品或保健食品申請，未經藥品途徑核准
 2. 尚未申請台灣藥品許可證
@@ -117,7 +117,7 @@ TxGNN 模型以單一 DrugBank ID 作為節點進行知識圖譜推論。複合�
 - **釐清評估範疇**：確認是否需針對複合配方整體，或拆解為個別成分分別進行 TxGNN 評估（建議後者）
 - **取得 DrugBank ID**：針對各成分（如 Alpha Lipoic Acid、Lutein、Cholecalciferol 等）分別對應 DrugBank 節點，再逐一執行預測
 - **確認法規定位**：釐清此配方在台灣應走藥品（衛福部食藥署）或特殊營養食品（衛福部國健署）途徑
-- **MOA 資料補充**：若目標為特定成分（如 Alpha Lipoic Acid 用於糖尿病神經病變），需個別查詢 DrugBank API 取得 MOA
+- **MOA 資料補充**：若目標為特定成分（如 Alpha Lipoic Acid 用於糖尿病神經病變），需個別Query the DrugBank API 取得 MOA
 - **安全資料補全**：下載各主要成分之仿單 PDF 並解析警語與禁忌（優先：Vitamin A、Cholecalciferol、Selenium）
 ## Disclaimer
 

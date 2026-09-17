@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Halcinonide
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 766
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Halcinonide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -43,7 +43,7 @@ Halcinonide is a high-potency synthetic glucocorticoid classified as a topical c
 | Predicted New Indication | Annular Atrophic Lichen Planus |
 | TxGNN Prediction Score | 99.93% |
 | Evidence Level | L5 |
-| Market Status (Taiwan) | 未上市 (Not marketed) |
+| Market Status (Taiwan) | Not marketed (Not marketed) |
 | Number of Licenses | 0 |
 | Recommended Decision | Hold |
 
@@ -63,7 +63,7 @@ Currently no related literature available
 
 ## Taiwan Market Information
 
-Halcinonide has no marketing authorizations recorded in Taiwan (`market_status: 未上市`, 0 licenses on file). No product/dosage-form data is available to summarize.
+Halcinonide has no marketing authorizations recorded in Taiwan (`market_status: Not marketed`, 0 licenses on file). No product/dosage-form data is available to summarize.
 
 ## Safety Considerations
 

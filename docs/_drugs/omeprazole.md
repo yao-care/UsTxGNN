@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Omeprazole
-parent: 僅模型預測 (L5)
+parent: Model Prediction Only (L5)
 nav_order: 993
 evidence_level: L5
 indication_count: 2
@@ -10,12 +10,12 @@ indication_count: 2
 # Omeprazole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## Pharmacist Assessment Report
 
 </div>
 
@@ -88,7 +88,7 @@ Importantly, several animal studies in the evidence pack (PMID 10389684, 8943968
 
 ## US Market Information
 
-No license or NDA records are present in the evidence pack for this candidate (`total_licenses: 0`, market status: **未上市 / Not Marketed**). No product-level dosage form or approved-indication information is available.
+No license or NDA records are present in the evidence pack for this candidate (`total_licenses: 0`, market status: **Not marketed / Not Marketed**). No product-level dosage form or approved-indication information is available.
 
 ---
 

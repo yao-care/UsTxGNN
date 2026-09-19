@@ -3,7 +3,7 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 4 articles, 1 related drugs."
+description: "Health news about cancer. 3 articles, 1 related drugs."
 permalink: /news/cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cancer/
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>4 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>3 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,29 +29,21 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (4)
-
-### [This Rare Gene Drastically Raises Lung Cancer Risk in People Who Never Smoked - The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOME1TUjU1T3d6b1pITWRVY2Jaem02VXFsU0gwcGFGS0JRTEVkOW50d1ZJR2NJd1BXM1NCRWt1YmZ0aTFCLVJxdGh1anQzWkgteEhRaDdRbDAzNzhtVkR1SU9qck9EMGk2b0hQN0lfRFRfdHNuUDlHWnpub3MzelhnYklGeWY?oc=5)
-
-2026-09-18
-
-Source: [The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOME1TUjU1T3d6b1pITWRVY2Jaem02VXFsU0gwcGFGS0JRTEVkOW50d1ZJR2NJd1BXM1NCRWt1YmZ0aTFCLVJxdGh1anQzWkgteEhRaDdRbDAzNzhtVkR1SU9qck9EMGk2b0hQN0lfRFRfdHNuUDlHWnpub3MzelhnYklGeWY?oc=5)
-
----
-
-### [Oncologist Warns: Check Food Labels for Sodium Nitrates to Lower Cancer Risk](https://news.google.com/rss/articles/CBMihAFBVV95cUxONkE5Q2psNkxIZkRNcG9OQVlmWFVNbDVLWkxmM3Y0czRuams2bzNvQW0tUjFwSnBfM0Iyb3FYMW1hRUhVZEZVSi1uU3pOT25Ed2N1c1h6dWFIX21Fb3BPaDJmYndWWGdHR0lLc2VpQ2d5OFUwZGdFaVk3cnZzUjlocno0YWU?oc=5)
-
-2026-09-17
-
-Source: [AOL.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxONkE5Q2psNkxIZkRNcG9OQVlmWFVNbDVLWkxmM3Y0czRuams2bzNvQW0tUjFwSnBfM0Iyb3FYMW1hRUhVZEZVSi1uU3pOT25Ed2N1c1h6dWFIX21Fb3BPaDJmYndWWGdHR0lLc2VpQ2d5OFUwZGdFaVk3cnZzUjlocno0YWU?oc=5)
-
----
+## Related News (3)
 
 ### [3-Year-Old Boy’s Cancer Disappears After He Gets Experimental Immunotherapy](https://news.google.com/rss/articles/CBMiqAFBVV95cUxONWpBVnZaU0RZVzI5cXkzcnRDTjZvVXBDODViQlhBWG9oWW5lZWlraXJBcHRSSjIzZnY2Q2EzYlVScHlRRDBfUFl4OXBVU3B1cndFRExMSjZ0cF9selhrUFVsb084SDIyX1lCdWhFOHRpdzduWlNGbjNvRXRaTGt0S0F1czVJV3lBRWpVZ0E0LXdaelpQWlFSdjhjcVFaeFVNNjU0TjNjWlo?oc=5)
 
 2026-09-17
 
 Source: [Gizmodo](https://news.google.com/rss/articles/CBMiqAFBVV95cUxONWpBVnZaU0RZVzI5cXkzcnRDTjZvVXBDODViQlhBWG9oWW5lZWlraXJBcHRSSjIzZnY2Q2EzYlVScHlRRDBfUFl4OXBVU3B1cndFRExMSjZ0cF9selhrUFVsb084SDIyX1lCdWhFOHRpdzduWlNGbjNvRXRaTGt0S0F1czVJV3lBRWpVZ0E0LXdaelpQWlFSdjhjcVFaeFVNNjU0TjNjWlo?oc=5)
+
+---
+
+### [Rare gene drastically raises lung cancer risk in those who never smoked - The Seattle Times](https://news.google.com/rss/articles/CBMitAFBVV95cUxQYTAtWUpfX0djSXhlZHRRRGJfem10MjNydHZnQXJ3NTF3T28zT21KcnZMZ0huTUxDcTZPY2VnQmhxYlhKVlhLQkRDMU93MGgzU3RGcDNOWHBWY1Z6dHFvdW9vSWxROTRsaVRhSDlTZ0YzY01MLThVYW11cGtrQ0Fwc2x4TmdhNnlfQ0toRE43SlVQajRETXM1OU5udVI4MVplS0d3WC13LTRoejJZSTRzMnFyM28?oc=5)
+
+2026-09-17
+
+Source: [The Seattle Times](https://news.google.com/rss/articles/CBMitAFBVV95cUxQYTAtWUpfX0djSXhlZHRRRGJfem10MjNydHZnQXJ3NTF3T28zT21KcnZMZ0huTUxDcTZPY2VnQmhxYlhKVlhLQkRDMU93MGgzU3RGcDNOWHBWY1Z6dHFvdW9vSWxROTRsaVRhSDlTZ0YzY01MLThVYW11cGtrQ0Fwc2x4TmdhNnlfQ0toRE43SlVQajRETXM1OU5udVI4MVplS0d3WC13LTRoejJZSTRzMnFyM28?oc=5)
 
 ---
 

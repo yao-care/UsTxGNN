@@ -14,7 +14,7 @@ permalink: /news/ramucirumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>4 news articles</strong>, with 9 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>3 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,29 +39,21 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
-
-### [This Rare Gene Drastically Raises Lung Cancer Risk in People Who Never Smoked - The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOME1TUjU1T3d6b1pITWRVY2Jaem02VXFsU0gwcGFGS0JRTEVkOW50d1ZJR2NJd1BXM1NCRWt1YmZ0aTFCLVJxdGh1anQzWkgteEhRaDdRbDAzNzhtVkR1SU9qck9EMGk2b0hQN0lfRFRfdHNuUDlHWnpub3MzelhnYklGeWY?oc=5)
-
-2026-09-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
-
-Source: [The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOME1TUjU1T3d6b1pITWRVY2Jaem02VXFsU0gwcGFGS0JRTEVkOW50d1ZJR2NJd1BXM1NCRWt1YmZ0aTFCLVJxdGh1anQzWkgteEhRaDdRbDAzNzhtVkR1SU9qck9EMGk2b0hQN0lfRFRfdHNuUDlHWnpub3MzelhnYklGeWY?oc=5)
-
----
-
-### [Oncologist Warns: Check Food Labels for Sodium Nitrates to Lower Cancer Risk](https://news.google.com/rss/articles/CBMihAFBVV95cUxONkE5Q2psNkxIZkRNcG9OQVlmWFVNbDVLWkxmM3Y0czRuams2bzNvQW0tUjFwSnBfM0Iyb3FYMW1hRUhVZEZVSi1uU3pOT25Ed2N1c1h6dWFIX21Fb3BPaDJmYndWWGdHR0lLc2VpQ2d5OFUwZGdFaVk3cnZzUjlocno0YWU?oc=5)
-
-2026-09-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
-
-Source: [AOL.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxONkE5Q2psNkxIZkRNcG9OQVlmWFVNbDVLWkxmM3Y0czRuams2bzNvQW0tUjFwSnBfM0Iyb3FYMW1hRUhVZEZVSi1uU3pOT25Ed2N1c1h6dWFIX21Fb3BPaDJmYndWWGdHR0lLc2VpQ2d5OFUwZGdFaVk3cnZzUjlocno0YWU?oc=5)
-
----
+## Related News (3)
 
 ### [3-Year-Old Boy’s Cancer Disappears After He Gets Experimental Immunotherapy](https://news.google.com/rss/articles/CBMiqAFBVV95cUxONWpBVnZaU0RZVzI5cXkzcnRDTjZvVXBDODViQlhBWG9oWW5lZWlraXJBcHRSSjIzZnY2Q2EzYlVScHlRRDBfUFl4OXBVU3B1cndFRExMSjZ0cF9selhrUFVsb084SDIyX1lCdWhFOHRpdzduWlNGbjNvRXRaTGt0S0F1czVJV3lBRWpVZ0E0LXdaelpQWlFSdjhjcVFaeFVNNjU0TjNjWlo?oc=5)
 
 2026-09-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
 Source: [Gizmodo](https://news.google.com/rss/articles/CBMiqAFBVV95cUxONWpBVnZaU0RZVzI5cXkzcnRDTjZvVXBDODViQlhBWG9oWW5lZWlraXJBcHRSSjIzZnY2Q2EzYlVScHlRRDBfUFl4OXBVU3B1cndFRExMSjZ0cF9selhrUFVsb084SDIyX1lCdWhFOHRpdzduWlNGbjNvRXRaTGt0S0F1czVJV3lBRWpVZ0E0LXdaelpQWlFSdjhjcVFaeFVNNjU0TjNjWlo?oc=5)
+
+---
+
+### [Rare gene drastically raises lung cancer risk in those who never smoked - The Seattle Times](https://news.google.com/rss/articles/CBMitAFBVV95cUxQYTAtWUpfX0djSXhlZHRRRGJfem10MjNydHZnQXJ3NTF3T28zT21KcnZMZ0huTUxDcTZPY2VnQmhxYlhKVlhLQkRDMU93MGgzU3RGcDNOWHBWY1Z6dHFvdW9vSWxROTRsaVRhSDlTZ0YzY01MLThVYW11cGtrQ0Fwc2x4TmdhNnlfQ0toRE43SlVQajRETXM1OU5udVI4MVplS0d3WC13LTRoejJZSTRzMnFyM28?oc=5)
+
+2026-09-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [The Seattle Times](https://news.google.com/rss/articles/CBMitAFBVV95cUxQYTAtWUpfX0djSXhlZHRRRGJfem10MjNydHZnQXJ3NTF3T28zT21KcnZMZ0huTUxDcTZPY2VnQmhxYlhKVlhLQkRDMU93MGgzU3RGcDNOWHBWY1Z6dHFvdW9vSWxROTRsaVRhSDlTZ0YzY01MLThVYW11cGtrQ0Fwc2x4TmdhNnlfQ0toRE43SlVQajRETXM1OU5udVI4MVplS0d3WC13LTRoejJZSTRzMnFyM28?oc=5)
 
 ---
 

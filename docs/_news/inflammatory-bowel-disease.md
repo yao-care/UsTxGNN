@@ -52,6 +52,14 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMioAFBVV95c
 
 ---
 
+### [Three more turkey operations hit by bird flu - Willmar Radio](https://news.google.com/rss/articles/CBMixwFBVV95cUxNblQzT2pmZ2d5d2ZhUFcwOF9Jd3Q3ay14X09PT3ZKRnhVZTAxbWllXzRjQm56bjRpN19xQ1NkcDd4T3EwZGUyaHZhOHBQSTY1bFBlSldFNjRLSGduXzVka014blY1MGdPZld2TVpUb09Jd1hITE1uWWlldFlvaW9GRDJ6UmdldkJPM1VZNWU3ZFJPSzlxTEdaaU5vQld2SWxaR0JSSEREdDc3V21VSlZuVmxsbFc0M2RFbnpDak1wNk90MF9nM1o0?oc=5)
+
+2026-09-18
+
+Source: [Willmar Radio](https://news.google.com/rss/articles/CBMixwFBVV95cUxNblQzT2pmZ2d5d2ZhUFcwOF9Jd3Q3ay14X09PT3ZKRnhVZTAxbWllXzRjQm56bjRpN19xQ1NkcDd4T3EwZGUyaHZhOHBQSTY1bFBlSldFNjRLSGduXzVka014blY1MGdPZld2TVpUb09Jd1hITE1uWWlldFlvaW9GRDJ6UmdldkJPM1VZNWU3ZFJPSzlxTEdaaU5vQld2SWxaR0JSSEREdDc3V21VSlZuVmxsbFc0M2RFbnpDak1wNk90MF9nM1o0?oc=5)
+
+---
+
 ### [‘Babies are dying’: How Pennsylvania’s measles outbreak changed the vaccine mindset of this Amish country midwife](https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjdIZlQxeWs2QXhIQWJuMHJDaEVSSEg5ZlhxWTZsY18ydV9pdWZldmlPMzdjb3NLb0swLTlVS1ZLbENJN3ZYNTFxbnY3YUF4QnVEWFZjMHJWbEM1RUhNbXFtNWVqdmFtR2psMHhraWlyaXBFU0IwdUhkeXBmMmdkdDRVNkx3UU81RXBEVkdlNFdhM2NPM0JEa1JvbEtHQURfVkd4Rw?oc=5)
 
 2026-09-18
@@ -68,11 +76,11 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMiigFBVV95cUxONTVreWl2
 
 ---
 
-### [Novo Nordisk (NVO) and Eli Lilly (LLY)’s Weight-Loss Drugs Still Work at Smaller Doses, Study Finds](https://news.google.com/rss/articles/CBMikAFBVV95cUxQWmdWaXJfYmxjZ3BxQ2pIUVkxdXNNUXhxMEV6OXJsWlNzTFNQOXYwNElWM1ZqQXBZWXBkM0Z4MDY2VEJoMVlTWUlRdFMxNVBEa1NwaFF5SWpKZzluaEp5YkVyTGt3cUdqcjBhY3NMQnhEaDFUWWNETlBYdVhEWXBsMjVyLXhCT2tzUWJEYUlEdkk?oc=5)
+### [Novo Nordisk (NVO) and Eli Lilly (LLY)’s Weight-Loss Drugs Still Work at Smaller Doses, Study Finds - Yahoo Finance](https://news.google.com/rss/articles/CBMikAFBVV95cUxQWmdWaXJfYmxjZ3BxQ2pIUVkxdXNNUXhxMEV6OXJsWlNzTFNQOXYwNElWM1ZqQXBZWXBkM0Z4MDY2VEJoMVlTWUlRdFMxNVBEa1NwaFF5SWpKZzluaEp5YkVyTGt3cUdqcjBhY3NMQnhEaDFUWWNETlBYdVhEWXBsMjVyLXhCT2tzUWJEYUlEdkk?oc=5)
 
 2026-09-17
 
-Source: [finance.yahoo.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxQWmdWaXJfYmxjZ3BxQ2pIUVkxdXNNUXhxMEV6OXJsWlNzTFNQOXYwNElWM1ZqQXBZWXBkM0Z4MDY2VEJoMVlTWUlRdFMxNVBEa1NwaFF5SWpKZzluaEp5YkVyTGt3cUdqcjBhY3NMQnhEaDFUWWNETlBYdVhEWXBsMjVyLXhCT2tzUWJEYUlEdkk?oc=5)
+Source: [Yahoo Finance](https://news.google.com/rss/articles/CBMikAFBVV95cUxQWmdWaXJfYmxjZ3BxQ2pIUVkxdXNNUXhxMEV6OXJsWlNzTFNQOXYwNElWM1ZqQXBZWXBkM0Z4MDY2VEJoMVlTWUlRdFMxNVBEa1NwaFF5SWpKZzluaEp5YkVyTGt3cUdqcjBhY3NMQnhEaDFUWWNETlBYdVhEWXBsMjVyLXhCT2tzUWJEYUlEdkk?oc=5)
 
 ---
 
@@ -89,14 +97,6 @@ Source: [PsyPost](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdHlxNC1GN
 2026-09-16
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVzhwMjdGcTZJajZpaDh6Mjc4V0VxOVBheGxDaXdnNlA0S2txYmFZdjJ1RmQ5Y1Nrcnd2dXEyREVXZTI0eDBhaVYwdHc1Tm1oU2cxU2FYeXg5LURxbXBUbXhrc3N6dncxSnJxX0paSFk2dGFONXVRdXR3cDNYS09leEdtdk56QVBZb3oxM2tBUGlMRGE0bVBfUXZEOUt6THFsZ2VzZElNRTU2d001a1MxNVJhWQ?oc=5)
-
----
-
-### ['It is extremely rare to witness': Scientists record humpback whale mom grieving her stillborn calf in first-of-its-kind footage - Live Science](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMVJFd0RGRFhBSU1lMGdoMXBESzcwRzVIbFBvSDVCQ0dWTzJReXJZYXhzMDNIaWhscmtxRVVCN0xMYndnZWZVZUJVcy1ScHdCX0ZPNkNkbUd4dmNISk02US1KNDVYTFQxanhFbDNSd2lweTQtYzJ6cWFMOXdUS0RTal9aaklxUVZKT0tReFA0OWJFTlM3MjdwLWFWMGlfOVI1RlFIQnBqTEIyb0l2QjY4NzlieTNQNTlRVUo1MGJsRFlpdU84TzZIb3IzY2xYUWloR1c4Vkp5d3hFTFliclR5dGhsQWhFaF80MVNZMXBCeTFaSUJZTUs1dTlTT0M?oc=5)
-
-2026-09-16
-
-Source: [Live Science](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMVJFd0RGRFhBSU1lMGdoMXBESzcwRzVIbFBvSDVCQ0dWTzJReXJZYXhzMDNIaWhscmtxRVVCN0xMYndnZWZVZUJVcy1ScHdCX0ZPNkNkbUd4dmNISk02US1KNDVYTFQxanhFbDNSd2lweTQtYzJ6cWFMOXdUS0RTal9aaklxUVZKT0tReFA0OWJFTlM3MjdwLWFWMGlfOVI1RlFIQnBqTEIyb0l2QjY4NzlieTNQNTlRVUo1MGJsRFlpdU84TzZIb3IzY2xYUWloR1c4Vkp5d3hFTFliclR5dGhsQWhFaF80MVNZMXBCeTFaSUJZTUs1dTlTT0M?oc=5)
 
 ---
 

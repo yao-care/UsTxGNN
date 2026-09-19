@@ -29,62 +29,61 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Hydroxocobalamin：從氰化物中毒解毒劑／維生素B12缺乏症 到 Esophageal Varices with Bleeding
+# Hydroxocobalamin: From Cyanide Poisoning Antidote/Vitamin B12 Deficiency to Esophageal Varices with Bleeding
 
 ## One-Sentence Summary
 
-Hydroxocobalamin（維生素B12a，DrugBank ID: DB00200）核准用途為氰化物中毒解毒劑與維生素B12缺乏症治療。
-TxGNN 模型預測其可能對 **Esophageal Varices with Bleeding（食道靜脈曲張出血）** 有效，
-但目前**沒有任何臨床試驗**、**沒有任何文獻佐證**，僅為模型演算法預測。
+Hydroxocobalamin (vitamin B12a, DrugBank ID: DB00200) is approved for treating cyanide poisoning and vitamin B12 deficiency. The TxGNN model predicts it may be effective for **Esophageal Varices with Bleeding**, but there are currently **no clinical trials** and **no literature support**, representing only algorithmic model prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | 台灣Not marketed，無核准適應症資料（機轉分析引用之已知用途為氰化物中毒解毒劑、維生素B12缺乏症） |
+| Original Indication | Taiwan: Not marketed, no approved indication data (mechanism analysis references known uses as cyanide poisoning antidote and vitamin B12 deficiency treatment) |
 | Predicted New Indication | Esophageal Varices with Bleeding |
 | TxGNN Prediction Score | 99.23% |
-| Evidence Level | L5（僅模型預測，無臨床試驗或文獻） |
+| Evidence Level | L5 (model prediction only, no clinical trials or literature) |
 | Market Status | Not marketed |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-目前作用機轉（MOA）資料缺失（[Data Gap]，DG002），無法直接說明藥理關聯。Hydroxocobalamin 已知核准用途為氰化物中毒之解毒劑，以及維生素B12缺乏症治療，兩者與食道靜脈曲張出血在病理生理上並無直接重疊。
+Current mechanism of action (MOA) data is missing ([Data Gap], DG002), preventing direct explanation of pharmacological relevance. Hydroxocobalamin's approved uses are cyanide poisoning antidote and vitamin B12 deficiency treatment; neither shows direct pathophysiological overlap with esophageal varices with bleeding.
 
-唯一可想像的間接假說是：hydroxocobalamin 具有一氧化氮（NO）與硫化氫清除能力，臨床上已用於血管麻痺性休克（vasoplegic shock）以誘發血管收縮。食道靜脈曲張出血的病理機轉涉及 NO 介導之內臟血管擴張，進而導致門脈高壓；理論上 NO 清除劑可能降低內臟血流，作用路徑類似 vasopressin、terlipressin 或 octreotide 等已核准之止血用藥。然而，此僅為機轉層面的推論，**未見任何直接研究**將 hydroxocobalamin 用於靜脈曲張出血。
+The only conceivable indirect hypothesis is that hydroxocobalamin possesses nitric oxide (NO) and hydrogen sulfide scavenging capacity and has been clinically used in vasoplegic shock to induce vasoconstriction. The pathophysiology of esophageal varices with bleeding involves NO-mediated splanchnic vasodilation, leading to portal hypertension; theoretically, NO scavengers might reduce splanchnic blood flow via mechanisms similar to approved hemostatic agents such as vasopressin, terlipressin, or octreotide. However, this is purely mechanistic speculation, and **no direct research** has been found applying hydroxocobalamin to variceal bleeding.
 
-TxGNN 對第二個預測適應症「Esophageal Varices without Bleeding（未出血之食道靜脈曲張）」給出相同分數（99.23%），機轉假說相同，但證據強度更弱——未出血狀態下缺乏急性血管收縮劑使用的臨床類比基礎。兩者皆屬純演算法預測，且藥物於台灣Not marketed，尚無法進行安全性初評（S1）。
+TxGNN assigns the same score (99.23%) to a second predicted indication, "Esophageal Varices without Bleeding," with the same mechanistic hypothesis but weaker evidence strength—there is no clinical analogy basis for acute vasoconstrictor use in the non-bleeding state. Both are purely algorithmic predictions, and the drug is not marketed in Taiwan, making it unsuitable for preliminary safety assessment (S1).
 
 ## Clinical Trial Evidence
 
-目前無相關已註冊臨床試驗（Currently no related clinical trials registered）。
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-目前無相關文獻資料（Currently no related literature available）。
+Currently no related literature available.
 
 ## Market Information
 
-本藥於台灣Not marketed（許可證數：0），無市售產品資訊可列。
+This drug is not marketed in Taiwan (number of licenses: 0), and no information about marketed products is available.
 
 ## Safety Considerations
 
-請參考仿單安全性資訊（Please refer to the package insert for safety information）。目前仿單警語與禁忌資料缺失（DG001，Blocking），列為進入安全性初評（S1）前的關鍵缺口。
+Please refer to the package insert for safety information. Currently, package insert warnings and contraindication data are missing (DG001, Blocking), identified as a critical gap before entering preliminary safety assessment (S1).
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-證據等級為 L5，無任何臨床試驗或文獻支持此適應症，且藥物於台灣Not marketed，MOA 與仿單安全性資料均缺失，尚不具備進入下一階段評估的基礎。
+Evidence level is L5, with no clinical trials or literature supporting this indication. The drug is not marketed in Taiwan, MOA and package insert safety data are missing, and there is no basis for proceeding to the next evaluation stage.
 
 **To proceed, the following is needed:**
-- TFDA 仿單警語／禁忌資料（DG001，Blocking，需下載仿單 PDF 解析後才能進入 S1 安全性初評）
-- 作用機轉（MOA）詳細資料（DG002，需Query the DrugBank API）
-- 針對食道靜脈曲張出血／未出血之直接臨床試驗或文獻證據
-- 若評估跨國引進，需補充台灣（或目標市場）上市許可與適應症核准資訊
+- TFDA package insert warnings/contraindication data (DG001, Blocking, requires downloading and parsing package insert PDF before entering S1 safety assessment)
+- Detailed mechanism of action (MOA) data (DG002, requires querying the DrugBank API)
+- Direct clinical trials or literature evidence for esophageal varices with or without bleeding
+- If evaluating cross-border introduction, supplementary information on Taiwan (or target market) market authorization and approved indications is needed
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

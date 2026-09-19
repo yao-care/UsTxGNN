@@ -29,89 +29,94 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# 多成分順勢療法複方：評估報告
+# Multicomponent Homeopathic Complex Formula: Assessment Report
 
-## 一句話摘要
+## One-sentence Summary
 
-本候選藥品為含有 9 種成分的順勢療法複方，包含白蠟樹根（Actaea spicata）、山金車（Arnica montana）、顛茄（Toxicodendron pubescens）等傳統順勢藥材。**TxGNN 模型未能產生任何預測適應症**，原因為該複方無對應 DrugBank ID，且在美國與台灣均無核准上市紀錄，當前資料不足以支持進入評估流程。
-
----
-
-## 快速概覽
-
-| 項目 | 內容 |
-|------|------|
-| 原核准適應症 | 無（美國未核准上市） |
-| 預測新適應症 | 無（TxGNN 無輸出） |
-| TxGNN 預測分數 | — |
-| 證據等級 | L5（模型無預測，資料不足） |
-| 美國市場狀態 | Not marketed |
-| NDA 件數 | 0 |
-| 建議決策 | **Hold** |
+This candidate drug is a homeopathic complex formula containing 9 ingredients, including white ash root (Actaea spicata), arnica (Arnica montana), poison ivy relative (Toxicodendron pubescens), and other traditional homeopathic materials. **The TxGNN model failed to generate any predicted indications**, because this complex formula has no corresponding DrugBank ID, and has no approved market records in either the United States or Taiwan, and current data are insufficient to support entering the assessment process.
 
 ---
 
-## 為什麼這個預測合理？
+## Quick Overview
 
-**本報告無法進行機轉關聯性分析。**
-
-本品為含 9 種成分的複方順勢製劑，各成分分述如下：
-
-| 成分 | 傳統用途 |
-|------|----------|
-| Actaea spicata root | 順勢療法：關節炎、類風濕性疾病 |
-| Arnica montana | 順勢療法：挫傷、肌肉疼痛、發炎 |
-| Caulophyllum thalictroides root | 順勢療法：婦科疾病、關節疼痛 |
-| Cola acuminata seed | 含咖啡因來源，傳統用於疲勞 |
-| Magnesium phosphate, dibasic trihydrate | 礦物補充，神經肌肉功能 |
-| Oxalic acid | 代謝中間物，治療用途不明確 |
-| Sepia officinalis juice | 順勢療法：荷爾蒙失衡、疲勞 |
-| Stellaria media | 傳統草藥：消炎、皮膚疾患 |
-| Toxicodendron pubescens leaf | 順勢療法：關節疼痛、僵硬 |
-
-由於 TxGNN 模型以 DrugBank ID 作為藥物辨識基礎，而本複方無對應的單一 DrugBank 條目，系統無法進行預測。目前無可評估的作用機轉（MOA）資料。
+| Item | Content |
+|------|---------|
+| Original Approved Indications | None (Not approved for market in the United States) |
+| Predicted New Indications | None (No TxGNN output) |
+| TxGNN Prediction Score | — |
+| Evidence Level | L5 (No model prediction, insufficient data) |
+| US Market Status | Not marketed |
+| Number of NDAs | 0 |
+| Recommended Decision | **Hold** |
 
 ---
 
-## 臨床試驗證據
+## Why is this prediction reasonable?
 
-目前無相關臨床試驗登記。
+**This report cannot perform mechanism-of-action correlation analysis.**
 
----
+This product is a homeopathic complex formulation containing 9 ingredients, with each ingredient described as follows:
 
-## 文獻證據
+| Ingredient | Traditional Use |
+|------------|-----------------|
+| Actaea spicata root | Homeopathy: arthritis, rheumatic diseases |
+| Arnica montana | Homeopathy: contusions, muscle pain, inflammation |
+| Caulophyllum thalictroides root | Homeopathy: gynecological diseases, joint pain |
+| Cola acuminata seed | Caffeine source, traditionally used for fatigue |
+| Magnesium phosphate, dibasic trihydrate | Mineral supplement, neuromuscular function |
+| Oxalic acid | Metabolic intermediate, therapeutic purpose unclear |
+| Sepia officinalis juice | Homeopathy: hormonal imbalance, fatigue |
+| Stellaria media | Traditional herbal: anti-inflammatory, dermatological conditions |
+| Toxicodendron pubescens leaf | Homeopathy: joint pain, stiffness |
 
-目前無相關文獻資料可供引用。
-
----
-
-## 美國市場資訊
-
-本複方在美國未取得任何 NDA 核准，市場狀態為Not marketed，無法列示授權資料。
-
----
-
-## 安全性考量
-
-請參閱各成分仿單之警語與禁忌事項。
-
-> **注意**：本複方含 *Toxicodendron pubescens*（漆樹科植物，俗稱毒藤近緣種），部分個體可能對漆酚（urushiol）產生過敏反應，使用前應評估過敏史。*Oxalic acid* 高劑量具腎毒性，需確認製劑中的實際濃度。
+Because the TxGNN model uses DrugBank ID as the basis for drug identification, and this complex formula has no corresponding single DrugBank entry, the system cannot perform prediction. There is currently no evaluable mechanism-of-action (MOA) data.
 
 ---
 
-## 結論與下一步
+## Clinical Trial Evidence
 
-**決策：Hold**
+Currently no relevant clinical trials registered.
 
-**理由：**
-TxGNN 模型因缺乏 DrugBank ID 而無法對本複方產生預測，加以美國無任何已核准適應症，安全性與機轉資料均付之闕如，目前不具備進入評估流程的基本條件。
+---
 
-**若要推進，需補足以下資訊：**
+## Literature Evidence
 
-- **DrugBank ID 建立**：將複方中各單一成分分別對應至 DrugBank 條目，改以單成分模式進行 TxGNN 預測
-- **製劑濃度確認**：取得各成分的實際稀釋倍數（順勢製劑常為 6X、30C 等），以評估是否具藥理活性
-- **安全性文件補充**：收集各成分仿單或毒理資料，特別是 Toxicodendron pubescens 的過敏風險與 Oxalic acid 的腎毒性資料
-- **臨床定位釐清**：釐清本複方是否屬順勢療法（監管框架不同），決定適用的法規路徑
+Currently no relevant literature data available for citation.
+
+---
+
+## US Market Information
+
+This complex formula has not obtained any NDA approval in the United States, market status is Not marketed, and approved product information cannot be listed.
+
+---
+
+## Safety Considerations
+
+Please refer to the warnings and contraindications in the labeling of each ingredient.
+
+> **Note**: This complex formula contains *Toxicodendron pubescens* (Anacardiaceae family plant, commonly known as poison ivy relative), some individuals may develop allergic reactions to urushiol, allergy history should be assessed before use. *Oxalic acid* at high doses has nephrotoxicity, and the actual concentration in the formulation needs to be confirmed.
+
+---
+
+## Conclusions and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+
+The TxGNN model cannot generate predictions for this complex formula due to lack of DrugBank ID, and in addition there are no approved indications in the United States, safety and mechanism data are completely lacking, and it currently does not meet the basic conditions to enter the assessment process.
+
+**To proceed, the following information must be supplemented:**
+
+- **DrugBank ID establishment**: Map each individual ingredient in the complex formula separately to DrugBank entries, and perform TxGNN prediction using single-ingredient mode
+
+- **Formulation concentration confirmation**: Obtain the actual dilution ratios of each ingredient (homeopathic formulations are commonly 6X, 30C, etc.), to assess whether they have pharmacological activity
+
+- **Safety documentation supplementation**: Collect labeling or toxicology data for each ingredient, particularly allergy risk data for Toxicodendron pubescens and nephrotoxicity data for Oxalic acid
+
+- **Clinical positioning clarification**: Clarify whether this complex formula qualifies as homeopathy (different regulatory framework), determine the applicable regulatory pathway
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

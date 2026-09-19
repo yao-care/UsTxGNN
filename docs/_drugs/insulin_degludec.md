@@ -29,11 +29,11 @@ Evidence Level: **L1** | Predicted Indications: **6**
 
 </div>
 
-# Insulin Degludec：從第1型糖尿病適應症到「老藥新用」預測（第1型糖尿病）
+# Insulin Degludec: From Type 1 Diabetes Mellitus Original Indication to "Drug Repurposing" Prediction (Type 1 Diabetes Mellitus)
 
-## 一句話摘要
+## Executive Summary in One Sentence
 
-Insulin Degludec（德固胰島素，DB09564）是一款長效基礎胰島素類似物，臨床上原本即用於糖尿病患者的血糖控制。TxGNN 模型將其重新指向**第1型糖尿病（Type 1 Diabetes Mellitus）**，預測分數高達 **99.44%**，並有 **50 筆臨床試驗**與 **20 篇文獻**支持——但需注意，這實質上是藥物「本身既有適應症」被模型重新標記，而非傳統意義上的跨領域老藥新用，原因是本筆證據包在藥品原始適應症與台灣上市資料上存在缺漏（見下方說明）。
+Insulin Degludec (DB09564) is a long-acting basal insulin analogue clinically used for glycemic control in diabetic patients. The TxGNN model redirects it to **Type 1 Diabetes Mellitus**, with a prediction score of **99.44%**, supported by **50 clinical trials** and **20 publications**—however, this essentially represents the drug's "own existing indication" being re-tagged by the model rather than a traditional cross-domain drug repurposing, due to data gaps in the original indication and Taiwan regulatory information (see explanation below).
 
 ---
 
@@ -41,23 +41,23 @@ Insulin Degludec（德固胰島素，DB09564）是一款長效基礎胰島素類
 
 | Item | Content |
 |------|------|
-| Original Indication | 資料缺漏：`original_indications` 與 `taiwan_regulatory.licenses` 均為空，無法從證據包直接引用；已知 Insulin Degludec 為基礎胰島素類似物，核准用途涵蓋第1型與第2型糖尿病血糖控制 |
-| Predicted New Indication | Type 1 Diabetes Mellitus（第1型糖尿病） |
+| Original Indication | Data missing: both `original_indications` and `taiwan_regulatory.licenses` are empty; Insulin Degludec is known to be a basal insulin analogue approved for glycemic control in Type 1 and Type 2 Diabetes Mellitus, but cannot be directly cited from this evidence package |
+| Predicted New Indication | Type 1 Diabetes Mellitus |
 | TxGNN Prediction Score | 99.44% |
 | Evidence Level | L1 |
-| 台灣上市狀態 | Not marketed |
-| 藥證數量 | 0 |
+| Taiwan Market Status | Not marketed |
+| Number of Drug Licenses | 0 |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-目前查無 Insulin Degludec 完整的作用機轉（MOA）描述文字（`original_moa` 標記為缺漏），但依據已知藥理學知識與本證據包中的機轉關聯性分析，Insulin Degludec 為第二代超長效基礎胰島素類似物，經皮下注射後於組織間形成可溶性多六聚體（multihexamer），緩慢且穩定地分解釋出單體進入血流，作用時間可長達 42 小時以上，藥效波動性低於傳統基礎胰島素（如 glargine、detemir）。其藥理作用為活化胰島素受體，促進周邊組織葡萄糖攝取並抑制肝醣新生／肝糖輸出。
+A complete mechanism of action (MOA) description is currently not available in the evidence package (marked as missing), but based on known pharmacological principles and the mechanistic associations presented in this evidence package, Insulin Degludec is a second-generation ultra-long-acting basal insulin analogue. After subcutaneous injection, it forms soluble multimers in the interstitial space that slowly and steadily decompose to release monomers into the bloodstream, with a duration of action exceeding 42 hours and lower glycemic variability compared to conventional basal insulins (e.g., glargine, detemir). Its pharmacological mechanism involves activating insulin receptors to promote glucose uptake by peripheral tissues and inhibit hepatic gluconeogenesis/hepatic glucose output.
 
-第1型糖尿病的病理生理核心即為胰臟 β 細胞破壞導致的胰島素絕對缺乏，因此外源性基礎胰島素替代治療本就是第1型糖尿病的標準治療手段之一，機轉上高度直接對應，不需要跨適應症的外推假設。
+The pathophysiological core of Type 1 Diabetes Mellitus is absolute insulin deficiency due to pancreatic β-cell destruction; therefore, exogenous basal insulin replacement therapy is inherently a standard therapeutic component for Type 1 Diabetes Mellitus, with a mechanism of action that directly corresponds without requiring cross-indication extrapolation.
 
-需特別說明：本證據包中 `predicted_indications[0]` 的機轉關聯性分析明確指出，TxGNN 開發代號 NN1250 即為 Insulin Degludec，第1型糖尿病本屬其核准適應症範疇之一；證據包中「原始適應症未填、台灣Not marketed」的狀態，較可能反映的是本資料集在藥品原始資料欄位與台灣藥證比對上的缺口，而非該藥物真實的核准狀態。此點在下方「後續所需資料」中列為待補項目。
+It should be noted: in this evidence package, the mechanistic association analysis for `predicted_indications[0]` explicitly identifies that TxGNN development code NN1250 is Insulin Degludec, and Type 1 Diabetes Mellitus is within the scope of its approved indications; the status in this dataset where "original indication is unfilled" and "not marketed in Taiwan" likely reflects gaps in this dataset's coverage of the drug's original data fields and Taiwan drug approval comparisons, rather than the drug's true regulatory status. This point is listed as requiring supplementation in the "Data Required for Follow-Up" section below.
 
 ---
 
@@ -65,16 +65,16 @@ Insulin Degludec（德固胰島素，DB09564）是一款長效基礎胰島素類
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT02030600](https://clinicaltrials.gov/study/NCT02030600) | Phase 3 | Completed | 721 | SWITCH 2：比較 Insulin Degludec 與 Insulin Glargine 之安全性與有效性隨機交叉試驗 |
-| [NCT01046110](https://clinicaltrials.gov/study/NCT01046110) | Phase 3 | Completed | 458 | BEGIN™: EARLY，NN1250（degludec）對比 sitagliptin 於胰島素初治族群之療效安全性比較 |
-| [NCT03214367](https://clinicaltrials.gov/study/NCT03214367) | Phase 3 | Completed | 1392 | PRONTO-T1D：LY900014 對比 insulin lispro，兩者均併用 insulin glargine 或 degludec，於第1型糖尿病成人族群 |
-| [NCT02500706](https://clinicaltrials.gov/study/NCT02500706) | Phase 3 | Completed | 1108 | Faster-acting insulin aspart 對比 NovoRapid，均併用 insulin degludec，於第1型糖尿病成人 |
-| [NCT01984372](https://clinicaltrials.gov/study/NCT01984372) | N/A（上市後監測） | Completed | 6163 | Tresiba®（degludec）長期治療糖尿病患者之上市後安全性與有效性監測 |
-| [NCT02662114](https://clinicaltrials.gov/study/NCT02662114) | N/A（回溯性觀察） | Completed | 2302 | EU-TREAT：歐洲多中心回溯性研究，第1型或第2型糖尿病患者轉換為 Tresiba®（degludec）後之療效 |
-| [NCT04588259](https://clinicaltrials.gov/study/NCT04588259) | Phase 3 | Completed | 331 | Fast-acting insulin aspart 對比 NovoRapid，併用 insulin degludec（±metformin）於糖尿病成人 |
-| [NCT03674866](https://clinicaltrials.gov/study/NCT03674866) | N/A（回溯性觀察） | Completed | 662 | CAN-TREAT：加拿大多中心回溯性研究，第1型或第2型糖尿病患者使用 Tresiba® 之療效 |
-| [NCT03557892](https://clinicaltrials.gov/study/NCT03557892) | N/A | Completed | 28 | 連續皮下胰島素輸注（CSII）+CGM 對比多次注射（以 degludec 為基礎胰島素）於第1型糖尿病之隨機交叉試驗 |
-| [NCT06238778](https://clinicaltrials.gov/study/NCT06238778) | Phase 2 | Active, not recruiting | 227 | HDV-Insulin Lispro 對比一般 Insulin Lispro，受試者均併用 insulin degludec，第1型糖尿病成人 |
+| [NCT02030600](https://clinicaltrials.gov/study/NCT02030600) | Phase 3 | Completed | 721 | SWITCH 2: randomized crossover trial comparing safety and efficacy of Insulin Degludec versus Insulin Glargine |
+| [NCT01046110](https://clinicaltrials.gov/study/NCT01046110) | Phase 3 | Completed | 458 | BEGIN™: EARLY, NN1250 (degludec) vs. sitagliptin in insulin-naïve population for efficacy and safety comparison |
+| [NCT03214367](https://clinicaltrials.gov/study/NCT03214367) | Phase 3 | Completed | 1392 | PRONTO-T1D: LY900014 vs. insulin lispro, both combined with insulin glargine or degludec, in adults with Type 1 Diabetes Mellitus |
+| [NCT02500706](https://clinicaltrials.gov/study/NCT02500706) | Phase 3 | Completed | 1108 | Faster-acting insulin aspart vs. NovoRapid, both combined with insulin degludec, in adults with Type 1 Diabetes Mellitus |
+| [NCT01984372](https://clinicaltrials.gov/study/NCT01984372) | N/A (Post-marketing surveillance) | Completed | 6163 | Tresiba® (degludec) long-term post-marketing safety and efficacy monitoring in diabetic patients |
+| [NCT02662114](https://clinicaltrials.gov/study/NCT02662114) | N/A (Retrospective observational) | Completed | 2302 | EU-TREAT: multicenter retrospective European study of efficacy in Type 1 or Type 2 Diabetes Mellitus patients switching to Tresiba® (degludec) |
+| [NCT04588259](https://clinicaltrials.gov/study/NCT04588259) | Phase 3 | Completed | 331 | Fast-acting insulin aspart vs. NovoRapid, combined with insulin degludec (±metformin) in adults with diabetes |
+| [NCT03674866](https://clinicaltrials.gov/study/NCT03674866) | N/A (Retrospective observational) | Completed | 662 | CAN-TREAT: Canadian multicenter retrospective study of Tresiba® efficacy in Type 1 or Type 2 Diabetes Mellitus patients |
+| [NCT03557892](https://clinicaltrials.gov/study/NCT03557892) | N/A | Completed | 28 | Randomized crossover trial of continuous subcutaneous insulin infusion (CSII) + CGM vs. multiple injections (with degludec as basal insulin) in Type 1 Diabetes Mellitus |
+| [NCT06238778](https://clinicaltrials.gov/study/NCT06238778) | Phase 2 | Active, not recruiting | 227 | HDV-Insulin Lispro vs. standard Insulin Lispro, subjects combined with insulin degludec, adults with Type 1 Diabetes Mellitus |
 
 ---
 
@@ -82,28 +82,28 @@ Insulin Degludec（德固胰島素，DB09564）是一款長效基礎胰島素類
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [37863084](https://pubmed.ncbi.nlm.nih.gov/37863084/) | 2023 | RCT | Lancet | ONWARDS 6：每週一次 Insulin Icodec 對比每日一次 Insulin Degludec，第1型糖尿病 basal-bolus 治療 Phase 3a 試驗 |
-| [39270686](https://pubmed.ncbi.nlm.nih.gov/39270686/) | 2024 | RCT | Lancet | QWINT-5：每週一次 Insulin Efsitora Alfa 對比每日一次 Insulin Degludec，第1型糖尿病成人 Phase 3 非劣性試驗 |
-| [36623517](https://pubmed.ncbi.nlm.nih.gov/36623517/) | 2023 | RCT | Lancet Diabetes Endocrinol | EXPECT：Insulin Degludec 對比 Insulin Detemir（均併用 Aspart）於第1型糖尿病孕婦之開放標籤非劣性試驗 |
-| [36763996](https://pubmed.ncbi.nlm.nih.gov/36763996/) | 2022 | RCT/Review | Clinical Therapeutics | Insulin Degludec 對比其他長效基礎胰島素於第1、2型糖尿病治療之系統性回顧與統合分析 |
-| [34643020](https://pubmed.ncbi.nlm.nih.gov/34643020/) | 2022 | RCT | Diabetes Obes Metab | HypoDeg：Degludec 對比 Glargine U100 於易發生夜間嚴重低血糖之第1型糖尿病患者，隨機交叉試驗 |
-| [36610544](https://pubmed.ncbi.nlm.nih.gov/36610544/) | 2023 | RCT | Diabetes Res Clin Pract | INEOX：Degludec 100 IU/mL 對比 Glargine 300 IU/mL 於第1型糖尿病之單中心隨機對照試驗 |
-| [34763071](https://pubmed.ncbi.nlm.nih.gov/34763071/) | 2022 | RCT | Endocr Pract | BIGLEAP：基礎胰島素 Degludec 對比幫浦給予 Aspart 於第1型糖尿病之隨機交叉試驗 |
-| [36516429](https://pubmed.ncbi.nlm.nih.gov/36516429/) | 2023 | RCT | Diabetes Technol Ther | ULTRAFLEXI-1：Glargine 300 U/mL 對比 Degludec 100 U/mL，於第1型糖尿病運動前後之隨機交叉試驗 |
-| [31055056](https://pubmed.ncbi.nlm.nih.gov/31055056/) | 2020 | Review | Diabetes Metab | Insulin Degludec 於第1、2型糖尿病隨機與觀察性試驗之現況回顧 |
-| [29477399](https://pubmed.ncbi.nlm.nih.gov/29477399/) | 2018 | Review | Value Health | 成人第1型糖尿病基礎胰島素治療方案之系統性回顧與網絡統合分析 |
+| [37863084](https://pubmed.ncbi.nlm.nih.gov/37863084/) | 2023 | RCT | Lancet | ONWARDS 6: once-weekly Insulin Icodec vs. once-daily Insulin Degludec, Phase 3a trial in basal-bolus therapy for Type 1 Diabetes Mellitus |
+| [39270686](https://pubmed.ncbi.nlm.nih.gov/39270686/) | 2024 | RCT | Lancet | QWINT-5: once-weekly Insulin Efsitora Alfa vs. once-daily Insulin Degludec, Phase 3 non-inferiority trial in adults with Type 1 Diabetes Mellitus |
+| [36623517](https://pubmed.ncbi.nlm.nih.gov/36623517/) | 2023 | RCT | Lancet Diabetes Endocrinol | EXPECT: open-label non-inferiority trial of Insulin Degludec vs. Insulin Detemir (both combined with Aspart) in pregnant women with Type 1 Diabetes Mellitus |
+| [36763996](https://pubmed.ncbi.nlm.nih.gov/36763996/) | 2022 | RCT/Review | Clinical Therapeutics | Systematic review and meta-analysis of Insulin Degludec vs. other long-acting basal insulins in Type 1 and Type 2 Diabetes Mellitus treatment |
+| [34643020](https://pubmed.ncbi.nlm.nih.gov/34643020/) | 2022 | RCT | Diabetes Obes Metab | HypoDeg: randomized crossover trial of Degludec vs. Glargine U100 in Type 1 Diabetes Mellitus patients prone to nocturnal severe hypoglycemia |
+| [36610544](https://pubmed.ncbi.nlm.nih.gov/36610544/) | 2023 | RCT | Diabetes Res Clin Pract | INEOX: single-center randomized controlled trial of Degludec 100 IU/mL vs. Glargine 300 IU/mL in Type 1 Diabetes Mellitus |
+| [34763071](https://pubmed.ncbi.nlm.nih.gov/34763071/) | 2022 | RCT | Endocr Pract | BIGLEAP: randomized crossover trial of basal insulin Degludec vs. pump-delivered Aspart in Type 1 Diabetes Mellitus |
+| [36516429](https://pubmed.ncbi.nlm.nih.gov/36516429/) | 2023 | RCT | Diabetes Technol Ther | ULTRAFLEXI-1: randomized crossover trial of Glargine 300 U/mL vs. Degludec 100 U/mL before and after exercise in Type 1 Diabetes Mellitus |
+| [31055056](https://pubmed.ncbi.nlm.nih.gov/31055056/) | 2020 | Review | Diabetes Metab | Current review of randomized and observational trials of Insulin Degludec in Type 1 and Type 2 Diabetes Mellitus |
+| [29477399](https://pubmed.ncbi.nlm.nih.gov/29477399/) | 2018 | Review | Value Health | Systematic review and network meta-analysis of basal insulin treatment regimens in adults with Type 1 Diabetes Mellitus |
 
 ---
 
 ## US Market Information
 
-目前無台灣藥證資料（`taiwan_regulatory.total_licenses = 0`，`licenses` 為空陣列）。此為已標記之高優先級資料缺口（DG001），建議向 FDA website或原廠仿單另行查證上市狀態與核准適應症全文。
+Currently, no Taiwan drug license data is available (`taiwan_regulatory.total_licenses = 0`, `licenses` array is empty). This is marked as a high-priority data gap (DG001). It is recommended to verify market status and full approved indications from the FDA website or original product labeling.
 
 ---
 
 ## Safety Considerations
 
-請參閱藥品仿單以獲取安全性資訊。（`key_warnings`、`contraindications`、藥物交互作用查詢均無可用資料，且 TFDA 仿單警語／禁忌已列為 Blocking 等級資料缺口 DG001，尚無法完成 S1 安全性初評。）
+Please refer to the product labeling for safety information. (`key_warnings`, `contraindications`, drug-drug interaction information are not available, and TFDA labeling warnings/contraindications are listed as Blocking-level data gaps DG001; S1 safety preliminary evaluation cannot be completed at this time.)
 
 ---
 
@@ -112,13 +112,14 @@ Insulin Degludec（德固胰島素，DB09564）是一款長效基礎胰島素類
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-第1型糖尿病此一預測方向擁有多筆完成之 Phase 3 RCT（如 SWITCH 2、PRONTO-T1D、BEGIN: EARLY 等）與大型上市後監測研究支持，證據等級達 L1；機轉上 Insulin Degludec 作為外源性基礎胰島素本就直接對應第1型糖尿病之胰島素絕對缺乏病理生理，關聯性強。然而本案在藥品原始適應症、台灣上市狀態、MOA 與仿單安全性資訊上皆存在資料缺口，須待補齊後才能完成完整的用藥安全評估。
+The Type 1 Diabetes Mellitus prediction direction is supported by multiple completed Phase 3 RCTs (such as SWITCH 2, PRONTO-T1D, BEGIN: EARLY) and large post-marketing surveillance studies, achieving L1 evidence level. Mechanistically, Insulin Degludec as exogenous basal insulin directly corresponds to the absolute insulin deficiency pathophysiology of Type 1 Diabetes Mellitus with strong association. However, this case has data gaps in the drug's original indication, Taiwan market status, MOA, and product labeling safety information, which must be filled before completing a comprehensive medication safety assessment.
 
 **To proceed, the following is needed:**
-- TFDA 仿單警語／禁忌完整資料（DG001，Blocking，需下載仿單 PDF 解析）
-- DrugBank 作用機轉（MOA）完整敘述（DG002，High，需Query the DrugBank API）
-- 釐清並補齊 `original_indications` 與台灣藥證（`licenses`）資料，確認此為既有適應症之資料缺漏、而非真實Not marketed狀態
-- 藥物交互作用（DDI）資料庫查詢結果
+- Complete TFDA labeling warnings/contraindications data (DG001, Blocking, requires downloading and parsing the product labeling PDF)
+- Complete DrugBank mechanism of action (MOA) description (DG002, High, requires querying the DrugBank API)
+- Clarify and supplement `original_indications` and Taiwan drug licenses (`licenses`) data to confirm whether this is a data gap in existing indications rather than a true not-marketed status
+- Drug-drug interaction (DDI) database query results
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

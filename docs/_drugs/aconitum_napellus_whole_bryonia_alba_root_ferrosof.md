@@ -29,85 +29,86 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# 複方順勢療法製劑（9 成分）：無法產生老藥新用預測
+# Multi-Component Homeopathic Remedy (9 Ingredients): Unable to Generate Drug Repurposing Predictions
 
-## 一句話摘要
+## One-Sentence Summary
 
-本藥品為包含 9 種成分的複方順勢療法製劑（含 Aconitum napellus、Bryonia alba、Pulsatilla vulgaris 等植物性及礦物性成分），在美國市場無核准紀錄，亦未能完成 DrugBank ID 比對。由於 TxGNN 模型無法對此複方進行標準化映射，**目前無任何預測適應症**，相關臨床試驗與文獻證據亦付之闕如。
-
----
-
-## 快速概覽
-
-| 項目 | 內容 |
-|------|------|
-| 原始適應症 | 無紀錄 |
-| 預測新適應症 | 無（TxGNN 無法產生預測） |
-| TxGNN 預測分數 | 無 |
-| 證據等級 | 無法評估 |
-| 美國市場狀態 | Not marketed |
-| NDA 數量 | 0 |
-| 建議決策 | **Hold** |
+This product is a multi-component homeopathic remedy containing 9 ingredients (including Aconitum napellus, Bryonia alba, Pulsatilla vulgaris and other plant-derived and mineral-derived ingredients), with no approved marketing records in the United States market, and unable to complete DrugBank ID matching. Since the TxGNN model cannot perform standardized mapping for this combination product, **there are currently no predicted indications**, and related clinical trials and literature evidence are lacking.
 
 ---
 
-## 為何無法完成預測？
+## Quick Overview
 
-本製劑為多成分複方順勢療法產品，包含以下 9 種成分：
-
-1. Aconitum napellus（全株）
-2. Bryonia alba（根部）
-3. Ferrosoferric phosphate（磷酸亞鐵鐵）
-4. Lycopodium clavatum（孢子）
-5. Oyster shell calcium carbonate（牡蠣殼碳酸鈣，粗製）
-6. Phosphorus（磷）
-7. Pulsatilla vulgaris（全株）
-8. Rancid beef（酸敗牛肉）
-9. Sulfur（硫磺）
-
-TxGNN 模型以 DrugBank 收錄之單一化學實體為預測基礎。由於此製劑：
-
-- **無 DrugBank ID**：複方順勢療法製劑通常不收錄於 DrugBank
-- **成分為極低濃度稀釋物**：順勢療法製劑依其製備原則，活性成分含量遠低於藥理作用閾值
-- **無標準化 INN**：9 種成分組合無對應的國際非專利藥名
-
-上述因素導致 TxGNN 無法建立知識圖譜節點映射，因此**未能產生任何老藥新用預測候選**。
+| Item | Content |
+|------|---------|
+| Original Indications | No records |
+| Predicted New Indications | None (TxGNN unable to generate predictions) |
+| TxGNN Prediction Score | None |
+| Evidence Level | Unable to assess |
+| US Market Status | Not marketed |
+| NDA Count | 0 |
+| Recommended Decision | **Hold** |
 
 ---
 
-## 美國市場資訊
+## Why Can't Predictions Be Completed?
 
-本製劑在美國無任何已核准藥品許可證（NDA/ANDA），美國市場狀態為**Not marketed**。
+This product is a multi-ingredient combination homeopathic remedy containing the following 9 components:
+
+1. Aconitum napellus (whole plant)
+2. Bryonia alba (root)
+3. Ferrosoferric phosphate
+4. Lycopodium clavatum (spores)
+5. Oyster shell calcium carbonate (crude)
+6. Phosphorus
+7. Pulsatilla vulgaris (whole plant)
+8. Rancid beef
+9. Sulfur
+
+The TxGNN model bases predictions on single chemical entities recorded in DrugBank. Because this product:
+
+- **Lacks a DrugBank ID**: Multi-component homeopathic remedy combinations are typically not recorded in DrugBank
+- **Components are at extremely low dilution concentrations**: In accordance with homeopathic preparation principles, the active ingredient content in homeopathic remedies is far below the threshold for pharmacological effect
+- **Lacks standardized INN**: The combination of 9 ingredients does not have a corresponding International Nonproprietary Name
+
+These factors prevent TxGNN from establishing knowledge graph node mapping, thus **no drug repurposing candidates were generated**.
 
 ---
 
-## 安全性注意事項
+## US Market Information
 
-請參考各成分的個別說明書，注意以下潛在風險：
-
-- **Aconitum napellus**：含烏頭鹼（aconitine），原植物具高度毒性，過量可致心律不整及死亡；順勢療法製劑雖高度稀釋，仍需注意製備品質
-- **Phosphorus**：高劑量具肝毒性
-
-由於本製劑無完整仿單警語及禁忌資料，詳細安全性資訊需另行查閱。
+This product has no approved drug licenses (NDA/ANDA) in the United States; its US market status is **Not marketed**.
 
 ---
 
-## 結論與下一步
+## Safety Considerations
 
-**決策：Hold**
+Please refer to the individual package inserts for each ingredient, noting the following potential risks:
 
-**理由：**
-本製劑為複方順勢療法產品，無 DrugBank 收錄紀錄，TxGNN 模型無法產生預測；加之無美國核准紀錄、無 MOA 資料、無安全性警語資料，目前缺乏進行老藥新用評估的基本資料條件。
+- **Aconitum napellus**: Contains aconitine; the parent plant is highly toxic, and overdose can cause cardiac arrhythmias and death; although homeopathic remedies are highly diluted, care must be taken regarding preparation quality
+- **Phosphorus**: High doses have hepatotoxic effects
 
-**若要繼續評估，需補充以下資訊：**
+Since this product lacks comprehensive package insert warnings and contraindication information, detailed safety information should be obtained elsewhere.
 
-1. **釐清評估目標**：確認是否針對個別成分（如 Aconitum napellus、Pulsatilla vulgaris）而非整體複方進行老藥新用評估
-2. **取得各成分 DrugBank ID**：分別查詢 9 種成分的 DrugBank 收錄狀態
-3. **確認製劑稀釋倍數**：順勢療法製劑的稀釋比（如 6X、30C）決定是否有藥理相關性
-4. **補充安全性資料**：下載並解析現有仿單（如有），或查閱各成分毒理資料
-5. **重新執行 TxGNN**：以個別成分 INN 分別提交，取得各自的老藥新用預測結果
+---
 
-> ⚠️ 本報告結果僅供研究參考，不構成醫療建議。老藥新用候選需經過臨床驗證才能應用。
+## Conclusions and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+This product is a multi-component homeopathic remedy without a DrugBank record. The TxGNN model cannot generate predictions; moreover, lacking US approval records, MOA information, and package insert safety data, there are currently insufficient baseline data conditions to perform drug repurposing assessment.
+
+**To continue evaluation, the following information needs to be supplemented:**
+
+1. **Clarify assessment objectives**: Confirm whether evaluation targets individual ingredients (such as Aconitum napellus, Pulsatilla vulgaris) rather than the overall combination product
+2. **Obtain DrugBank IDs for each component**: Separately search for DrugBank record status for each of the 9 ingredients
+3. **Confirm remedy dilution ratio**: The dilution ratio of the homeopathic remedy (such as 6X, 30C) determines whether there is pharmacological relevance
+4. **Supplement safety data**: Download and analyze existing package inserts (if available), or search published toxicology data for each ingredient
+5. **Re-run TxGNN**: Submit each individual ingredient separately by INN to obtain individual drug repurposing prediction results for each
+
+> ⚠️ The results in this report are for research reference only and do not constitute medical advice. Drug repurposing candidates require clinical validation before application.
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

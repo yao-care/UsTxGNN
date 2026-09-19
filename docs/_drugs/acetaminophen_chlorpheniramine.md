@@ -29,56 +29,56 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# ACETAMINOPHEN + CHLORPHENIRAMINE：資料不足，暫無法產生完整老藥新用預測報告
+# ACETAMINOPHEN + CHLORPHENIRAMINE: Insufficient Data, Unable to Generate Complete Drug Repurposing Prediction Report
 
 ## One-Sentence Summary
 
-ACETAMINOPHEN（乙醯胺酚）為解熱鎮痛劑，CHLORPHENIRAMINE（氯苯那敏）為第一代抗組織胺；兩者的固定劑量複方常見於感冒與過敏症狀的症狀緩解治療。
-然而，本次 TxGNN 流程**未產生任何老藥新用預測結果**，台灣藥品許可證資料庫亦查無登錄紀錄，現有資料不足以進行完整的重定位評估。
+ACETAMINOPHEN is an antipyretic and analgesic agent, and CHLORPHENIRAMINE is a first-generation antihistamine; this fixed-dose combination is commonly used for symptomatic relief in common cold and allergic symptoms.
+However, the TxGNN workflow **produced no drug repurposing prediction results**, and no registration record was found in the Taiwan Drug License Database. Current data is insufficient to conduct a complete repurposing assessment.
 
 ---
 
 ## Quick Overview
 
-| 項目 | 內容 |
-|------|------|
-| 原核准適應症 | 查無台灣核准資料 |
-| 預測新適應症 | 無（TxGNN 未產生預測） |
-| TxGNN 預測分數 | 無 |
-| 證據等級 | 無法評定 |
-| 台灣上市狀態 | ✗ Not marketed |
-| 許可證數量 | 0 |
-| 建議決策 | **Hold** |
+| Item | Content |
+|------|---------|
+| Originally Approved Indications | No Taiwan approval data found |
+| Predicted New Indications | None (no TxGNN prediction generated) |
+| TxGNN Prediction Score | None |
+| Evidence Level | Cannot be determined |
+| Taiwan Market Status | ✗ Not marketed |
+| Number of Licenses | 0 |
+| Recommended Decision | **Hold** |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-目前 TxGNN 模型未針對此複方組合（ACETAMINOPHEN + CHLORPHENIRAMINE）產生任何預測結果，故本節無法進行機轉關聯性分析。
+The TxGNN model currently produced no prediction results for this fixed-dose combination (ACETAMINOPHEN + CHLORPHENIRAMINE), therefore mechanistic correlation analysis cannot be performed in this section.
 
-就已知背景而言：ACETAMINOPHEN 透過抑制中樞神經系統的前列腺素合成發揮解熱鎮痛作用；CHLORPHENIRAMINE 則為競爭性 H₁ 受體拮抗劑，可抑制組織胺媒介的過敏反應。兩者均屬對症治療藥物，非疾病修飾性藥物，TxGNN 對此類複方組合的重定位預測能力可能受限。
+From known background information: ACETAMINOPHEN exerts antipyretic and analgesic effects through inhibition of prostaglandin synthesis in the central nervous system; CHLORPHENIRAMINE is a competitive H₁ receptor antagonist that suppresses histamine-mediated allergic responses. Both are symptomatic treatment agents rather than disease-modifying drugs, and TxGNN's predictive capability for this class of fixed-dose combinations may be limited.
 
-如需推進老藥新用評估，建議將兩個活性成分分別查詢，並補充各自的 DrugBank 資料後重新執行預測流程。
+To advance the drug repurposing assessment, it is recommended to query the two active ingredients separately and rerun the prediction workflow after supplementing each component's DrugBank data.
 
 ---
 
-## 台灣市場資訊
+## Taiwan Market Information
 
-查詢結果顯示此複方組合在台灣藥品許可證資料庫中**無登錄紀錄**（許可證數量：0）。
+Query results show that this combination has **no registration record** in the Taiwan Drug License Database (number of licenses: 0).
 
-可能原因包括：
-- 以複方字串查詢時未能比對到個別成分登錄資料
-- 此固定劑量複方在台灣以非處方（OTC）方式販售，且未以此確切組合名稱登錄
+Possible reasons include:
+- When querying by combination string, unable to match individual component registration data
+- This fixed-dose combination may be marketed as non-prescription (OTC) in Taiwan and is not registered under this exact combination name
 
-建議後續以個別成分名稱（ACETAMINOPHEN、CHLORPHENIRAMINE）分別查詢台灣 TFDA 資料庫。
+It is recommended to query the Taiwan TFDA database separately using individual component names (ACETAMINOPHEN, CHLORPHENIRAMINE) in subsequent work.
 
 ---
 
 ## Safety Considerations
 
-目前本 Evidence Pack 中未取得安全性資料，包括警語、禁忌、及藥物交互作用（DDI 查詢結果為 not found）。
+The current Evidence Pack has not retrieved safety data, including warnings, contraindications, and drug-drug interactions (DDI query result: not found).
 
-請參閱藥品仿單了解完整安全性資訊。
+Please consult the drug product information for complete safety information.
 
 ---
 
@@ -87,15 +87,16 @@ ACETAMINOPHEN（乙醯胺酚）為解熱鎮痛劑，CHLORPHENIRAMINE（氯苯那
 **Decision: Hold**
 
 **Rationale:**
-TxGNN 模型未針對此複方組合產生預測結果，且台灣藥品許可證與安全性資料均付之闕如，現有資料不足以支持老藥新用評估。
+The TxGNN model produced no prediction results for this fixed-dose combination, and both Taiwan drug licensing and safety data are lacking. Current data is insufficient to support a drug repurposing assessment.
 
-**如需繼續推進，需補充以下資料：**
+**To continue advancement, the following data must be supplemented:**
 
-- [ ] 以個別成分（ACETAMINOPHEN、CHLORPHENIRAMINE）分別重新執行 TxGNN 預測，取得各自的老藥新用候選清單
-- [ ] 透過 DrugBank API 補充個別成分的 DrugBank ID 及作用機轉（MOA）
-- [ ] 以個別成分查詢 TFDA 資料庫，確認台灣許可證現況
-- [ ] 確認 Evidence Pack 輸入格式：複方藥物建議拆分為單一成分分別處理，而非以組合字串作為查詢鍵
-- [ ] 補充安全性資料（DDI、警語、禁忌），排除潛在交互作用風險
+- [ ] Rerun TxGNN predictions separately for individual components (ACETAMINOPHEN, CHLORPHENIRAMINE) to obtain respective drug repurposing candidate lists
+- [ ] Supplement individual component data via DrugBank API including DrugBank ID and mechanism of action (MOA)
+- [ ] Query the TFDA database using individual components to confirm current Taiwan license status
+- [ ] Verify Evidence Pack input format: for combination drugs, it is recommended to separate into single components for individual processing rather than using combination strings as query keys
+- [ ] Supplement safety data (DDI, warnings, contraindications) to rule out potential interaction risks
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

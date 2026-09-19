@@ -29,85 +29,86 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# 多成分混合製劑（含 Somatropin 等 12 種成分）：適應症不明，TxGNN 無法預測
+# Multi-component Mixture (Containing Somatropin and 11 Other Ingredients): Indication Unknown, TxGNN Unable to Predict
 
 ## One-Sentence Summary
 
-本製劑為 12 種異質成分的混合配方，涵蓋順勢療法原料（如 Conium maculatum、Lycopodium、Sepia officinalis）、腺體萃取物（豬腎上腺、豬腦下垂體）及生長激素（Somatropin），在美國與台灣均未有核准上市紀錄。
-由於成分組合極為複雜且部分成分具已知毒性，TxGNN 模型**未能產生任何預測適應症**，現有資料不足以支持老藥新用評估。
+This formulation is a mixed composition of 12 heterogeneous components, comprising homeopathic raw materials (such as Conium maculatum, Lycopodium, Sepia officinalis), glandular extracts (porcine adrenal and pituitary), and growth hormone (somatropin), with no approved market records in either the United States or Taiwan.
+Due to the extremely complex component combination and known toxicity of certain ingredients, the TxGNN model **generated no predicted indications**, and available data are insufficient to support drug repurposing assessment.
 
 ---
 
 ## Quick Overview
 
-| 項目 | 內容 |
-|------|------|
-| 原核准適應症 | 未知（無任何上市許可紀錄） |
-| 預測新適應症 | 無（TxGNN 未產生預測結果） |
-| TxGNN 預測分數 | N/A |
-| 證據等級 | L5（僅模型查詢，無預測輸出；實際上低於 L5） |
-| 美國市場狀態 | Not marketed |
-| NDA 數量 | 0 |
-| 建議決策 | **Hold（暫緩）** |
+| Item | Content |
+|------|---------|
+| Original Approved Indication | Unknown (No market approval record) |
+| Predicted New Indications | None (TxGNN did not generate predictive results) |
+| TxGNN Prediction Score | N/A |
+| Evidence Level | L5 (Model query only, no predictive output; actually below L5) |
+| US Market Status | Not marketed |
+| Number of NDAs | 0 |
+| Recommended Decision | **Hold (Pending)** |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-本製劑由 12 種高度異質成分構成，無法以單一藥理機轉描述，TxGNN 知識圖譜模型亦因此未能比對出有效的疾病節點關聯，**未產生任何預測適應症**，故本節改為說明製劑組成的已知藥理背景。
+This formulation is composed of 12 highly heterogeneous components and cannot be described by a single pharmacological mechanism; the TxGNN knowledge graph model consequently failed to match effective disease node associations and **generated no predicted indications**. This section is instead devoted to explaining the known pharmacological background of the formulation's composition.
 
-部分成分具有相對明確的藥理作用：**Somatropin**（重組人類生長激素）為已核准的處方藥，用於生長激素缺乏症；**DHEA 衍生物**（7-oxo DHEA acetate）被研究用於代謝調節；**硒（Selenium）**及**矽（Silicon dioxide）**為微量營養素。然而，**Conium maculatum**（毒芹，含 coniine 生物鹼）與**氫氟酸（Hydrofluoric acid）**在非順勢療法劑量下均具有顯著毒性，列入製劑成分需要嚴格的劑量與安全性說明。
+Some components have relatively clear pharmacological effects: **somatropin** (recombinant human growth hormone) is an approved prescription drug used for growth hormone deficiency; **DHEA derivatives** (7-oxo DHEA acetate) have been investigated for metabolic regulation; **selenium (Selenium)** and **silicon (Silicon dioxide)** are trace micronutrients. However, **Conium maculatum** (poison hemlock, containing coniine alkaloids) and **hydrofluoric acid (Hydrofluoric acid)** both have significant toxicity at non-homeopathic doses and require strict dosage and safety clarification when included as formulation components.
 
-其餘成分——Lycopodium clavatum、Sepia officinalis、牡蠣殼碳酸鈣——均為傳統順勢療法原料，在常規藥理學文獻中缺乏高品質臨床證據。整體而言，此複合配方的作用機轉不明、適應症不明，無法支持老藥新用的合理性推導。
+The remaining components—Lycopodium clavatum, Sepia officinalis, and oyster shell calcium carbonate—are all traditional homeopathic materials that lack high-quality clinical evidence in conventional pharmacology literature. Overall, the action mechanism and indication of this compound formulation are unclear, and it cannot support rational derivation of drug repurposing.
 
 ---
 
 ## Clinical Trial Evidence
 
-目前無相關臨床試驗登記紀錄。
+Currently no related clinical trial registration records.
 
-（TxGNN 未輸出預測適應症，無法關聯特定疾病進行臨床試驗檢索。）
+(TxGNN did not output predicted indications, making it impossible to associate specific diseases for clinical trial retrieval.)
 
 ---
 
 ## Literature Evidence
 
-目前無相關文獻資料可供引用。
+Currently no relevant literature data available for citation.
 
 ---
 
 ## US Market Information
 
-無任何上市許可紀錄。查詢結果顯示此多成分混合製劑在美國（及台灣）均無 NDA 或相應許可證。
+No market approval records of any kind. Query results show that this multi-component mixture has no NDA or corresponding approval certificate in the United States (or Taiwan).
 
 ---
 
 ## Safety Considerations
 
-**關鍵安全警示（基於已知成分毒理學）：**
+**Key Safety Warnings (Based on Known Component Toxicology):**
 
-- **Conium maculatum（毒芹）**：含有 coniine 及 γ-coniceine，為強效菸鹼型乙醯膽鹼受體拮抗劑，可導致升行性運動麻痺、呼吸肌麻痺。即使在順勢療法極低劑量下，其安全邊際仍受到毒理學家關注。
-- **氫氟酸（Hydrofluoric Acid）**：具強烈腐蝕性，可穿透組織並與鈣鎂離子螯合，造成低血鈣、心律不整等全身毒性。作為製劑成分，需有明確稀釋比例與安全性資料。
-- **Somatropin（生長激素）**：為管制處方藥，未經授權使用可能導致肢端肥大症、糖耐量異常、顱內高壓等嚴重不良事件；與胰島素、糖皮質激素有已知藥物交互作用。
-- **SUS SCROFA 腺體萃取物（豬腎上腺、豬腦下垂體）**：屬於腺體療法（glandulotherapy）原料，存在潛在的人畜共通病原體傳播風險，需符合 TSE/BSE 監管要求。
+- **Conium maculatum (poison hemlock)**: Contains coniine and γ-coniceine, which are potent nicotinic acetylcholine receptor antagonists that can lead to ascending motor paralysis and respiratory muscle paralysis. Even at extremely low homeopathic doses, its safety margin remains of concern to toxicologists.
+- **Hydrofluoric Acid**: Has strong corrosive properties and can penetrate tissues and chelate calcium and magnesium ions, causing systemic toxicity such as hypocalcemia and arrhythmias. As a formulation component, it requires clear dilution ratios and safety data.
+- **Somatropin (growth hormone)**: Is a controlled prescription drug; unauthorized use may lead to serious adverse events such as acromegaly, glucose intolerance, and increased intracranial pressure; has known drug interactions with insulin and glucocorticoids.
+- **Sus scrofa glandular extracts (porcine adrenal and pituitary)**: Belong to glandular therapy raw materials with potential risk of transmission of zoonotic pathogens and must comply with TSE/BSE regulatory requirements.
 
-由於安全性資料缺口（Blocking 等級），目前**無法完成 S1 安全性初評**，建議在取得完整仿單或毒理資料前，不進行任何臨床應用評估。
+Due to safety data gaps (Blocking level), currently unable to complete S1 safety preliminary assessment. It is recommended that no clinical application assessment be undertaken before obtaining complete product information or toxicology data.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Hold（暫緩）**
+**Decision: Hold (Pending)**
 
-**理由：**
-此製劑同時面臨三重障礙：（1）TxGNN 模型未能產生任何預測適應症；（2）含有已知毒性成分（毒芹、氫氟酸），安全性資料缺口為 Blocking 等級；（3）在美國無任何上市紀錄，市場可行性不明。在上述問題解決前，不建議推進老藥新用評估流程。
+**Rationale:**
+This formulation faces three concurrent obstacles: (1) TxGNN model failed to generate any predicted indications; (2) contains components with known toxicity (poison hemlock, hydrofluoric acid) with Blocking-level safety data gaps; (3) has no market approval record in the United States, and market feasibility is unclear. Drug repurposing assessment should not proceed before these issues are resolved.
 
-**推進前必須補齊以下資料：**
+**The following data must be completed before proceeding:**
 
-- **安全性資料（Blocking）**：取得完整的成分稀釋比例、毒理學研究報告及仿單警語，釐清 Conium maculatum 與氫氟酸的實際劑量是否達到毒性閾值
-- **製劑定性**：確認此為順勢療法製劑（homeopathic）、腺體療法製劑，或複合處方藥，以決定適用的法規路徑（NDA vs. OTC Monograph vs. HMPC）
-- **Somatropin 成分合規性**：確認生長激素是否以藥理活性劑量存在，若是則須單獨申請生物製劑許可
-- **TxGNN 重新查詢**：將 12 種成分拆分為個別活性藥理成分（API）分別進行 TxGNN 預測，以獲取有意義的老藥新用候選
+- **Safety Data (Blocking)**: Obtain complete component dilution ratios, toxicology research reports, and product information warnings; clarify whether the actual doses of Conium maculatum and hydrofluoric acid reach toxicity thresholds
+- **Formulation Characterization**: Confirm whether this is a homeopathic formulation, a glandular therapy formulation, or a complex prescription drug, to determine the applicable regulatory pathway (NDA vs. OTC Monograph vs. HMPC)
+- **Somatropin Component Compliance**: Confirm whether growth hormone exists at pharmacologically active doses; if so, must separately apply for biologic license approval
+- **TxGNN Re-query**: Divide the 12 components into individual active pharmaceutical ingredients (APIs) and conduct separate TxGNN predictions to obtain meaningful drug repurposing candidates
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

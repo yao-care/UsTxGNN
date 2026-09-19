@@ -29,22 +29,22 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# ANAMIRTA COCCULUS SEED 等複方：評估資料不足，無法產生預測報告
+# ANAMIRTA COCCULUS SEED and Other Combination Formulas: Insufficient Assessment Data, Unable to Generate Predictive Report
 
 ## One-Sentence Summary
 
-本品為含有 Anamirta Cocculus Seed、Ipecac、Kerosene、Strychnos Nux-Vomica Seed 及 Tobacco Leaf 之五成分複方，原適應症資料不明。TxGNN 模型**未能產生任何老藥新用預測**，且該複方在美國亦無上市紀錄，目前缺乏支持評估的基礎資料。
+This product is a five-component combination formula containing Anamirta Cocculus Seed, Ipecac, Kerosene, Strychnos Nux-Vomica Seed, and Tobacco Leaf, with unclear original indication data. The TxGNN model **failed to generate any drug repurposing predictions**, and this combination formula has no market authorization record in the United States; currently lacks fundamental data to support assessment.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|------|
-| Original Indication | 無資料 |
-| Predicted New Indication | 無預測結果 |
-| TxGNN Prediction Score | 無 |
-| Evidence Level | L5（模型未產生預測，無任何實際研究支持） |
+|------|---------|
+| Original Indication | No data |
+| Predicted New Indication | No prediction result |
+| TxGNN Prediction Score | None |
+| Evidence Level | L5 (Model failed to generate prediction, no actual research support) |
 | US Market Status | Not marketed |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
@@ -53,47 +53,47 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 ## Why is This Prediction Reasonable?
 
-目前 TxGNN 模型對本複方**未產生任何老藥新用預測候選**，因此無法進行預測合理性分析。
+Currently, the TxGNN model **failed to generate any drug repurposing prediction candidates** for this combination formula, therefore a prediction reasonableness analysis cannot be performed.
 
-本品由五種成分組成，成分特性如下：
+This product consists of five components with the following component characteristics:
 
-- **Anamirta Cocculus Seed**：含苦毒素（picrotoxin），為 GABA 受體拮抗劑，歷史上曾用作魚毒及殺蟲劑。
-- **Ipecac（吐根）**：含吐根鹼（emetine），傳統用途為催吐劑，具心臟毒性。
-- **Kerosene（煤油）**：石油衍生品，為有機溶劑，無已知治療用途。
-- **Strychnos Nux-Vomica Seed（馬錢子）**：含士的寧（strychnine）及布魯辛（brucine），屬劇毒生物鹼，小量曾見於傳統醫藥，現代不建議使用。
-- **Tobacco Leaf（菸草葉）**：含尼古丁（nicotine），已知具多種毒理作用。
+- **Anamirta Cocculus Seed**: Contains picrotoxin, a GABA receptor antagonist, historically used as fish poison and insecticide.
+- **Ipecac (Ipecac Root)**: Contains emetine, traditionally used as an emetic with cardiac toxicity.
+- **Kerosene**: Petroleum derivative, organic solvent with no known therapeutic use.
+- **Strychnos Nux-Vomica Seed (Strychnine Seed)**: Contains strychnine and brucine, belong to highly toxic alkaloids, small amounts were found in traditional medicine, modern use not recommended.
+- **Tobacco Leaf (Tobacco Leaf)**: Contains nicotine, known to have multiple toxicological effects.
 
-本複方成分均具有顯著毒性，且多數屬農業/傳統用途，而非現代藥物開發對象。DrugBank 無對應 ID，亦無 MOA 資料，這是模型無法預測的根本原因。
+All components of this combination formula have significant toxicity, and most are of agricultural/traditional use rather than modern drug development targets. DrugBank has no corresponding ID, nor MOA data; this is the fundamental reason why the model cannot make predictions.
 
 ---
 
 ## Clinical Trial Evidence
 
-目前無相關臨床試驗登記。
+Currently no relevant clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-目前無相關文獻資料。
+Currently no relevant literature data.
 
 ---
 
 ## US Market Information
 
-本複方在美國無任何 NDA 或市場授權紀錄，無法提供授權資訊表格。
+This combination formula has no NDA or market authorization records in the United States, unable to provide authorization information table.
 
 ---
 
 ## Safety Considerations
 
-> 本品所有安全性資料均缺失，且成分本身具有已知的急性與慢性毒性風險，強烈建議：
+> All safety data for this product are missing, and the components themselves have known acute and chronic toxicity risks, strongly recommend:
 >
-> - **不得**在未取得完整毒理學評估前進行任何人體使用評估
-> - Kerosene 為有機溶劑，口服毒性明確，**本身即為非藥用成分**
-> - Strychnos Nux-Vomica 含士的寧，治療指數極窄，誤用可致死
-> - Anamirta Cocculus 含苦毒素，具中樞神經毒性
-> - Ipecac 長期使用已知可導致心肌病變
+> - **Must not** conduct any human use assessment without obtaining complete toxicological evaluation
+> - Kerosene is an organic solvent, oral toxicity is clear, **itself is a non-pharmaceutical component**
+> - Strychnos Nux-Vomica contains strychnine, therapeutic index is extremely narrow, misuse can be fatal
+> - Anamirta Cocculus contains picrotoxin with central nervous system toxicity
+> - Ipecac is known to cause cardiomyopathy with prolonged use
 
 ---
 
@@ -102,15 +102,16 @@ Evidence Level: **L5** | Predicted Indications: **0**
 **Decision: Hold**
 
 **Rationale:**
-本複方無 TxGNN 預測結果、無上市紀錄、無 DrugBank 登錄、無安全性資料，且成分組成含多種已知有毒物質（煤油、士的寧、苦毒素），不具備進入老藥新用評估流程的基本條件。
+This combination formula has no TxGNN prediction results, no market records, no DrugBank registration, no safety data, and the component composition contains multiple known toxic substances (kerosene, strychnine, picrotoxin), does not meet the basic conditions to enter the drug repurposing evaluation process.
 
-**本案不建議繼續推進，如仍需評估，須先完成以下工作：**
+**This case is not recommended to proceed further; if assessment is still needed, the following tasks must be completed first:**
 
-- 確認本複方是否確為待評估藥品（成分組合高度疑似農用/傳統用途，非現代人用藥物）
-- 若確為藥品，取得各成分之 DrugBank 個別登錄及 MOA 資料
-- 對各單一成分分別執行 TxGNN 預測，再評估複方交互作用
-- 完整毒理學資料（急毒、慢毒、致癌性）為進入評估的前提條件
-- 釐清 Kerosene 是否為輔料或有效成分，若為有效成分，需提供安全性依據
+- Confirm whether this combination formula is indeed a drug to be evaluated (component combination is highly suspected to be agricultural/traditional use, not modern human medicine)
+- If confirmed as a drug, obtain individual DrugBank registration and MOA data for each component
+- Perform TxGNN prediction for each individual component separately, then evaluate combination formula interactions
+- Complete toxicological data (acute toxicity, chronic toxicity, carcinogenicity) is a prerequisite for entering assessment
+- Clarify whether Kerosene is an excipient or active ingredient, if it is an active ingredient, safety rationale must be provided
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# 多成分複方（均質植物/礦物組合）：無法評估藥物再利用適應症
+# Multi-Component Combination (Homogeneous Plant/Mineral Combination): Unable to Assess Drug Repurposing Indication
 
 ## One-Sentence Summary
 
-此候選藥物為一含九種成分的複方製劑，包含活性碳、豚草、小米草、洋蔥、磷、白頭翁、一枝黃花、馬錢子及硫磺，屬典型順勢療法組合配方。
-TxGNN 模型**未能對此藥物產生任何新適應症預測**，且查詢日誌顯示 DrugBank 無對應紀錄（無 DrugBank ID），
-現有資料不足以支撐藥物再利用評估流程，本報告僅記錄現況並提供補救建議。
+This candidate drug is a multi-component combination formulation containing nine active ingredients, including activated charcoal, ragweed, eyebright, onion, phosphorus, pulsatilla, solidago, nux vomica, and sulfur, representing a typical homeopathic combination formula.
+The TxGNN model **produced no new indication predictions for this drug**, and query logs indicate no DrugBank record (no DrugBank ID) exists.
+Available data are insufficient to support the drug repurposing assessment workflow; this report documents current status and provides remediation recommendations.
 
 ---
 
@@ -43,10 +43,10 @@ TxGNN 模型**未能對此藥物產生任何新適應症預測**，且查詢日�
 
 | Item | Content |
 |------|---------|
-| Original Indication | 無紀錄（原始適應症資料缺失） |
-| Predicted New Indication | 無（TxGNN 未產生預測結果） |
-| TxGNN Prediction Score | 無法計算 |
-| Evidence Level | L5（模型預測不適用，無任何研究支持） |
+| Original Indication | No record (original indication data missing) |
+| Predicted New Indication | None (TxGNN produced no prediction results) |
+| TxGNN Prediction Score | Cannot be calculated |
+| Evidence Level | L5 (model prediction not applicable, no research support) |
 | US Market Status | Not marketed |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
@@ -55,44 +55,44 @@ TxGNN 模型**未能對此藥物產生任何新適應症預測**，且查詢日�
 
 ## Why is This Prediction Reasonable?
 
-目前 TxGNN **未對此多成分複方產生任何藥物再利用預測**，因此本節無法進行標準的機轉關聯性分析。
+Currently, TxGNN **produced no drug repurposing predictions for this multi-component combination**, therefore this section cannot perform standard mechanistic association analysis.
 
-從成分組成判斷，此製劑屬於**順勢療法（Homeopathic）複方配方**，其成分包含：
-- **Ambrosia artemisiifolia**（豚草）：傳統用於過敏性鼻炎
-- **Euphrasia stricta**（小米草）：傳統用於眼部過敏症狀
-- **Solidago virgaurea**（一枝黃花）：傳統用於呼吸道/鼻竇炎
-- **Pulsatilla vulgaris**（白頭翁）：傳統用於呼吸道症狀
-- **Allium cepa（洋蔥）** / **Sulfur（硫磺）** / **Phosphorus（磷）**：順勢療法常用基礎成分
-- **Strychnos nux-vomica seed**（馬錢子）：含番木鱉鹼，具神經興奮性，需特別注意安全性
-- **Activated Charcoal**（活性碳）：吸附/排毒用途
+Based on component composition, this formulation is classified as a **homeopathic combination formula**, with ingredients including:
+- **Ambrosia artemisiifolia** (ragweed): traditionally used for allergic rhinitis
+- **Euphrasia stricta** (eyebright): traditionally used for ocular allergy symptoms
+- **Solidago virgaurea** (solidago): traditionally used for respiratory/sinusitis conditions
+- **Pulsatilla vulgaris** (pulsatilla): traditionally used for respiratory symptoms
+- **Allium cepa (onion)** / **Sulfur** / **Phosphorus**: commonly used foundational ingredients in homeopathic therapy
+- **Strychnos nux-vomica seed** (nux vomica): contains strychnine, exhibits neurostimulatory properties, requires particular attention to safety
+- **Activated Charcoal**: used for adsorption/detoxification purposes
 
-順勢療法製劑在分子機轉層面缺乏現代藥理學依據，TxGNN 模型的知識圖譜無法有效映射此類製劑的活性成分至 DrugBank ID，導致預測流程無法啟動。
+Homeopathic formulations lack modern pharmacological basis at the molecular mechanistic level. The TxGNN model's knowledge graph cannot effectively map the active components of such formulations to DrugBank IDs, preventing the prediction workflow from initiating.
 
 ---
 
 ## Clinical Trial Evidence
 
-目前無相關臨床試驗已登錄（TxGNN 未產生預測適應症，無法執行證據搜索）。
+Currently no relevant clinical trials are registered (TxGNN produced no predicted indications, therefore evidence search cannot be executed).
 
 ---
 
 ## Literature Evidence
 
-目前無可引用文獻（TxGNN 未產生預測適應症，無法執行文獻搜索）。
+Currently no literature is available for citation (TxGNN produced no predicted indications, therefore literature search cannot be executed).
 
 ---
 
 ## US Market Information
 
-此複方製劑在美國**無任何核准上市紀錄**（NDA 數量：0）。
+This combination formulation has **no approved marketing record in the United States** (number of NDAs: 0).
 
 ---
 
 ## Safety Considerations
 
-> ⚠️ **特別注意**：此製劑含有 **Strychnos nux-vomica seed（馬錢子種子）**，含番木鱉鹼（Strychnine）成分，具有高度神經毒性，過量使用可能導致痙攣乃至死亡。即使以順勢療法極度稀釋劑型使用，仍建議在安全性審查完成前暫停推進。
+> ⚠️ **Special Attention**: This formulation contains **Strychnos nux-vomica seed**, which contains strychnine, a component with high neurotoxic potential. Excessive use may cause convulsions or even death. Even when used in extremely diluted homeopathic dosage forms, suspension of advancement is recommended pending completion of safety review.
 
-目前無其他安全性資料（警語、禁忌、藥物交互作用均無資料），如需完整安全性資訊，請參閱製造商仿單。
+Currently no other safety data available (warnings, contraindications, drug interactions all lack data). For complete safety information, please refer to the manufacturer's labeling.
 
 ---
 
@@ -101,20 +101,21 @@ TxGNN 模型**未能對此藥物產生任何新適應症預測**，且查詢日�
 **Decision: Hold**
 
 **Rationale:**
-此藥物因以下三項根本性障礙，無法推進藥物再利用評估流程：
-1. TxGNN 模型未對此複方產生任何預測適應症（`predicted_indications` 為空）
-2. 無 DrugBank ID，無法進行機轉關聯性分析
-3. 含高毒性成分（馬錢子/Strychnine），安全性尚未建立
+This drug cannot proceed with the drug repurposing assessment workflow due to three fundamental obstacles:
+1. TxGNN model produced no predicted indications for this combination (predicted_indications is empty)
+2. No DrugBank ID exists, preventing mechanistic association analysis
+3. Contains highly toxic ingredients (nux vomica/strychnine), safety not established
 
 **To proceed, the following is needed:**
 
-- **根本問題修正**：確認此候選藥物是否為有效的再利用研究標的；順勢療法複方通常不適合 TxGNN 知識圖譜預測框架
-- **成分拆解評估**：若研究目的明確，建議改以**單一活性成分**（如 Strychnine、Solidago virgaurea extract）作為獨立候選分子進行預測
-- **安全性審查**：取得含馬錢子製劑的毒理學資料，確認擬使用濃度的安全閾值
-- **市場定位釐清**：此製劑若屬順勢療法製劑，監管路徑（如 DSHEA 膳食補充劑、順勢療法 OTC）與藥物再利用路徑有本質差異，需先釐清開發目標
-- **資料補全**（若決定繼續）：
-  - 自 FDA websiteDownload and parse the package insert PDF警語/禁忌（對應 DG001）
-  - Query the DrugBank API 取得作用機轉（對應 DG002）
+- **Fundamental issue correction**: confirm whether this candidate drug is a valid drug repurposing research target; homeopathic combinations typically are not suitable for the TxGNN knowledge graph prediction framework
+- **Component dissection assessment**: if research objectives are clearly defined, recommend instead conducting predictions using **single active components** (e.g., strychnine, Solidago virgaurea extract) as independent candidate molecules
+- **Safety review**: obtain toxicological data for nux vomica-containing formulations, confirm safety threshold at intended concentration
+- **Market positioning clarification**: if this formulation is a homeopathic preparation, its regulatory pathway (e.g., DSHEA dietary supplement, homeopathic OTC) has fundamental differences from the drug repurposing pathway; development objectives must first be clarified
+- **Data completion** (if proceeding):
+  - Download and parse the package insert PDF from the FDA website warnings/contraindications (corresponding to DG001)
+  - Query the DrugBank API to obtain mechanism of action (corresponding to DG002)
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

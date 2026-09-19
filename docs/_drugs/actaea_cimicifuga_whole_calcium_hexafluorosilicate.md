@@ -29,11 +29,11 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# ACTAEA CIMICIFUGA / DROSERA / INULA 複方: 資料不足，無法完成老藥新用評估
+# ACTAEA CIMICIFUGA / DROSERA / INULA COMBINATION: INSUFFICIENT DATA TO COMPLETE DRUG REPURPOSING ASSESSMENT
 
 ## One-Sentence Summary
 
-本品為含 8 種成分的複方製劑（包含 Actaea cimicifuga、Drosera rotundifolia、Inula helenium 等草本與礦物成分），目前在台灣及美國均Not marketed。由於 DrugBank 無法識別完整複方、亦無原始適應症記錄，TxGNN 模型**未能產生任何新適應症預測**，本次評估資料不足，無法進行完整分析。
+This product is a combination formulation containing 8 components (including Actaea cimicifuga, Drosera rotundifolia, Inula helenium and other herbal and mineral components), currently Not marketed in both Taiwan and the United States. Since DrugBank cannot identify the complete combination formulation and there are no original indication records, the TxGNN model **failed to generate any new indication predictions**, and this assessment has insufficient data for complete analysis.
 
 ---
 
@@ -41,37 +41,37 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 | Item | Content |
 |------|---------|
-| Original Indication | 無登錄資料 |
-| Predicted New Indication | 無預測結果 |
+| Original Indication | No registration data |
+| Predicted New Indication | No prediction results |
 | TxGNN Prediction Score | N/A |
-| Evidence Level | L5（模型未產生預測，無任何實證） |
+| Evidence Level | L5 (model failed to generate predictions, no evidence) |
 | US Market Status | Not marketed |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 
 ---
 
-## 為何無法完成預測？
+## Why Was Prediction Unable to Be Completed?
 
-本複方含 8 種異質性成分（草本全株、礦物鹽、昆蟲萃取物、真菌），性質上接近**順勢療法（homeopathic）或人智學（anthroposophic）製劑**：
+This combination contains 8 heterogeneous components (whole herb plants, mineral salts, insect extracts, fungi) and is in nature similar to **homeopathic or anthroposophic formulations**:
 
-- **Actaea cimicifuga**（升麻）、**Drosera rotundifolia**（毛氈苔）、**Inula helenium**（土木香）為草本植物全株
-- **Formica rufa**（紅蟻）、**Fuligo septica**（黃色黏菌）為非典型生物來源
-- **Calcium hexafluorosilicate**、**Potassium chloride**、**Silica** 為礦物或無機成分
+- **Actaea cimicifuga** (black cohosh), **Drosera rotundifolia** (sundew), **Inula helenium** (elecampane) are whole herb plants
+- **Formica rufa** (red ant), **Fuligo septica** (dog vomit slime mold) are atypical biological sources
+- **Calcium hexafluorosilicate**, **Potassium chloride**, **Silica** are mineral or inorganic components
 
-TxGNN 知識圖譜以 DrugBank 收錄的單一化學實體為核心節點，**無法處理複方整體或順勢療法製劑**。因此本複方無 DrugBank ID，亦無法被映射至疾病節點，導致預測流程中斷。
+The TxGNN knowledge graph uses single chemical entities recorded in DrugBank as core nodes and **cannot handle combination formulations or homeopathic preparations**. Therefore, this combination has no DrugBank ID and cannot be mapped to disease nodes, resulting in interruption of the prediction workflow.
 
 ---
 
 ## US Market Information
 
-目前無任何美國 NDA 或上市記錄。
+Currently no US NDA or marketing records.
 
 ---
 
 ## Safety Considerations
 
-請參閱各成分原廠仿單或藥典（如 Homeopathic Pharmacopoeia of the United States, HPUS）中的安全性資訊。
+Please refer to the safety information in each component's original prescribing information or pharmacopeias (such as the Homeopathic Pharmacopoeia of the United States, HPUS).
 
 ---
 
@@ -80,14 +80,15 @@ TxGNN 知識圖譜以 DrugBank 收錄的單一化學實體為核心節點，**�
 **Decision: Hold**
 
 **Rationale:**
-本複方在現行 TxGNN 架構下無法生成預測，且在台灣與美國均無上市記錄，缺乏可供評估的監管與臨床基礎。
+This combination cannot generate predictions under the current TxGNN framework and has no marketing records in both Taiwan and the United States, lacking regulatory and clinical foundation for evaluation.
 
-**若需繼續推進，需補充以下資料：**
+**If further advancement is needed, the following data must be supplemented:**
 
-- **釐清製劑屬性**：確認是否為順勢療法/人智學製劑，或具有明確藥理機轉的草本複方
-- **單成分拆分分析**：若目標為特定成分（如 Actaea cimicifuga 用於更年期症狀、Drosera rotundifolia 用於咳嗽），應將各成分獨立送入 TxGNN 流程
-- **文獻基礎確認**：搜尋 PubMed 是否有此特定複方配方的臨床研究
-- **監管策略評估**：確認目標市場（台灣/美國）對此類製劑的分類標準（藥品 vs. 健康食品 vs. 順勢療法）
+- **Clarify formulation properties**: Confirm whether it is a homeopathic/anthroposophic preparation or a herbal combination with clear pharmacological mechanisms
+- **Single-component analysis**: If the target is specific components (such as Actaea cimicifuga for menopausal symptoms, Drosera rotundifolia for cough), each component should be independently submitted to the TxGNN workflow
+- **Literature basis confirmation**: Search PubMed for clinical studies on this specific combination formulation
+- **Regulatory strategy assessment**: Confirm the classification standards (drug vs. dietary supplement vs. homeopathic preparation) for such formulations in the target market (Taiwan/United States)
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

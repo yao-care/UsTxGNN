@@ -29,82 +29,81 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Mupirocin：從外用抗菌治療到 Pleural Empyema（肋膜膿胸）
+# Mupirocin: From Topical Antimicrobial Therapy to Pleural Empyema
 
-## 一句話摘要
+## One-Line Summary
 
-Mupirocin 目前無台灣/美國正式核准適應症資料，僅能依其作用機轉推論原用於**鼻腔/皮膚外用抗菌**（如鼻腔 MRSA 除菌、膿痂疹）。TxGNN 模型預測其可能對 **Pleural Empyema（肋膜膿胸）** 有效，但**目前無任何臨床試驗或文獻證據支持**，且證據包本身即指出此連結的機轉合理性偏弱，可能為知識圖譜拓樸偏誤所致。
-
----
-
-## 快速總覽
-
-| 項目 | 內容 |
-|------|------|
-| 原始適應症 | 無正式核准資料（本藥於本區Not marketed）；依機轉推論為鼻腔/皮膚外用抗菌（鼻腔 MRSA 除菌、膿痂疹），**未經正式來源確認** |
-| 預測新適應症 | Pleural Empyema（肋膜膿胸） |
-| TxGNN 預測分數 | 99.49% |
-| 證據等級 | L5（僅模型預測，無臨床試驗或文獻） |
-| 市場狀態 | Not marketed |
-| 核准案件數 | 0 |
-| 建議決策 | Hold |
+Mupirocin currently lacks formal approved indication data for Taiwan/USA; based on its mechanism of action, it can only be inferred to be used for **topical nasal/dermal antimicrobial therapy** (such as nasal MRSA decolonization, impetigo). The TxGNN model predicts it may be effective for **Pleural Empyema**, but **currently lacks any clinical trial or literature evidence support**. Moreover, the evidence package itself indicates that the mechanistic plausibility of this connection is weak, potentially resulting from knowledge graph topological bias.
 
 ---
 
-## 為何此預測合理性存疑？
+## Quick Overview
 
-Mupirocin 的正式作用機轉資料目前缺失（original_moa 標記為 Data Gap）。但依證據包內的機轉推論說明，Mupirocin 為外用抗生素，作用機轉是抑制細菌 isoleucyl-tRNA synthetase，其**臨床劑型僅限鼻腔/皮膚外用**，並無全身性或肋膜腔給藥劑型與藥動學資料。
-
-Pleural empyema（肋膜膿胸）多為厭氧菌或鏈球菌混合感染，需要**全身性抗生素治療合併引流**才能達到有效控制。以 Mupirocin 目前已知的外用劑型特性，並無證據顯示其能穿透至肋膜腔並達到有效殺菌濃度，因此原始（推論）用途與此預測適應症之間**缺乏合理的機轉連結**。
-
-證據包評估認為，TxGNN 給出的高分很可能反映知識圖譜中該藥物節點與其他抗生素/感染相關節點的拓樸相似性偏誤，而非真實的藥理學合理性。此判斷同時也適用於第二順位預測（punctate epithelial keratoconjunctivitis，點狀角膜結膜炎）——該疾病多為病毒或免疫相關病因，Mupirocin 不具抗病毒活性，且無核准眼用劑型。
-
----
-
-## 臨床試驗證據
-
-目前無相關臨床試驗登記。
-
-（查詢紀錄：ClinicalTrials.gov 與 ICTRP 於 2026-04-21 針對 MUPIROCIN + pleural empyema 之查詢，結果數皆為 0。）
+| Item | Content |
+|------|---------|
+| Original indications | No formal approved indication data (this drug is Not marketed in this region); inferred based on mechanism of action to be topical nasal/dermal antimicrobial (nasal MRSA decolonization, impetigo), **not confirmed by formal sources** |
+| Predicted new indications | Pleural Empyema |
+| TxGNN prediction score | 99.49% |
+| Evidence level | L5 (model prediction only, no clinical trials or literature) |
+| Market status | Not marketed |
+| Number of approved cases | 0 |
+| Recommended decision | Hold |
 
 ---
 
-## 文獻證據
+## Why is the Plausibility of This Prediction Questionable?
 
-目前無相關文獻資料。
+Mupirocin's formal mechanism of action data is currently missing (original_moa marked as Data Gap). However, based on the mechanistic inference provided in the evidence package, mupirocin is a topical antibiotic whose mechanism of action is inhibition of bacterial isoleucyl-tRNA synthetase. Its **clinical formulations are limited to topical nasal/dermal application**, with no systemic or intrapleural formulations and pharmacokinetic data.
 
-（查詢紀錄：PubMed 於 2026-04-21 針對 MUPIROCIN + pleural empyema 之查詢，結果數為 0。）
-
----
-
-## 市場資訊
-
-本藥於此區域**Not marketed**，無任何核准案件（total_licenses = 0），故無授權/劑型/適應症資料可列。
+Pleural empyema is typically caused by anaerobic bacteria or mixed streptococcal infection, requiring **systemic antibiotic therapy combined with drainage** to achieve effective control. Given mupirocin's known topical formulation characteristics, there is no evidence that it can penetrate the pleural space and achieve bactericidal concentrations, therefore the connection between the original (inferred) use and this predicted indication **lacks reasonable mechanistic linkage**. The evidence package assessment concludes that the high score assigned by TxGNN likely reflects topological similarity bias between the drug node and other antibiotic/infection-related nodes in the knowledge graph, rather than true pharmacological plausibility. This assessment also applies to the second-ranked prediction (punctate epithelial keratoconjunctivitis)—this disease is typically caused by viral or immune-related etiology, mupirocin lacks antiviral activity, and no approved ocular formulation exists.
 
 ---
 
-## 安全性考量
+## Clinical Trial Evidence
 
-安全性資料目前缺失，請參考藥品仿單以取得完整安全性資訊。
+Currently no related clinical trial registrations.
 
-**注意**：TFDA 仿單警語與禁忌資料缺失已列為 **Blocking** 等級之資料缺口（DG001），在補齊前Cannot proceed to S1 safety screening階段。
+(Query records: ClinicalTrials.gov and ICTRP queries for MUPIROCIN + pleural empyema on 2026-04-21 returned 0 results.)
 
 ---
 
-## 結論與後續建議
+## Literature Evidence
 
-**決策：Hold**
+Currently no related literature data.
 
-**理由：**
-- 證據等級僅為 L5（純模型預測，無任何臨床試驗或文獻佐證）
-- 證據包本身的機轉分析已指出，Mupirocin 外用劑型與肋膜膿胸所需之全身性治療機轉間缺乏合理連結，預測分數可能源自知識圖譜拓樸偏誤而非藥理學合理性
-- 本藥Not marketed、無核准案件，基礎安全性與劑型資料不足
+(Query records: PubMed query for MUPIROCIN + pleural empyema on 2026-04-21 returned 0 results.)
 
-**需補齊的資料/行動：**
-- 取得 TFDA 仿單警語與禁忌資料（DG001，Blocking，需下載並解析仿單 PDF）
-- 確認正式核准適應症與作用機轉（DG002，透過 DrugBank API 查詢）
-- 評估劑型/給藥途徑相容性：確認 Mupirocin 是否存在可達肋膜腔之全身性劑型
-- 待前述資料補齊後，重新評估是否有必要進入 S1 安全性初評
+---
+
+## Market Information
+
+This drug is **Not marketed** in this region, with no approved cases (total_licenses = 0), therefore no licensing/formulation/indication data are available.
+
+---
+
+## Safety Considerations
+
+Safety data are currently missing. Please refer to the product label for complete safety information.
+
+**Note**: TFDA label warnings and contraindication data are missing and have been identified as **Blocking** level data gaps (DG001). Cannot proceed to S1 safety screening until this is completed.
+
+---
+
+## Conclusion and Recommendations
+
+**Decision: Hold**
+
+**Rationale:**
+- Evidence level is only L5 (pure model prediction with no clinical trials or literature support)
+- The evidence package's own mechanistic analysis indicates that mupirocin's topical formulation lacks reasonable mechanistic connection with the systemic treatment required for pleural empyema; the prediction score likely originates from knowledge graph topological bias rather than pharmacological plausibility
+- This drug is Not marketed with no approved cases; fundamental safety and formulation data are insufficient
+
+**Data/actions to be completed:**
+- Obtain TFDA label warnings and contraindication data (DG001, Blocking, requires downloading and analyzing product label PDF)
+- Confirm formally approved indications and mechanism of action (DG002, via DrugBank API query)
+- Assess formulation/route of administration compatibility: confirm whether mupirocin exists in a systemic formulation capable of reaching the pleural space
+- After completing the aforementioned data, re-evaluate whether it is necessary to proceed to S1 safety initial assessment
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,13 +29,11 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# 複方草本礦物製劑：資料不足，無法生成老藥新用預測
+# Polyherbal-mineral Compound: Insufficient Data, Drug Repurposing Prediction Not Generated
 
 ## One-Sentence Summary
 
-本候選藥品為含八種成分的複方製劑，包含植物提取物（白薊、馬栗、馬錢子）及多種礦物化合物，在台灣目前無任何藥品許可登記。
-TxGNN 模型因無法對應 DrugBank ID 且原始適應症缺失，**未能生成任何老藥新用預測結果**。
-在取得完整成分資料並建立明確藥理分類前，本候選案無法進入標準評估流程。
+The candidate drug is a polyformulation containing eight ingredients, including plant extracts (Bryonia alba, Horse Chestnut, Strychnos nux-vomica) and multiple mineral compounds. It currently has no drug approval registrations in Taiwan. The TxGNN model was unable to generate any drug repurposing prediction results because it could not match to a DrugBank ID and the original indication was missing. Before obtaining complete ingredient data and establishing clear pharmacological classification, this candidate case cannot enter the standard evaluation workflow.
 
 ---
 
@@ -43,11 +41,11 @@ TxGNN 模型因無法對應 DrugBank ID 且原始適應症缺失，**未能生�
 
 | Item | Content |
 |------|---------|
-| Original Indication | 無紀錄 |
-| Predicted New Indication | 無（TxGNN 無法生成預測） |
+| Original Indication | No record |
+| Predicted New Indication | None (TxGNN unable to generate prediction) |
 | TxGNN Prediction Score | N/A |
-| Evidence Level | L5（模型預測不可用） |
-| Taiwan Market Status | ✗ Not marketed（無任一許可證） |
+| Evidence Level | L5 (model prediction unavailable) |
+| Taiwan Market Status | ✗ Not marketed (no approvals) |
 | Number of Licenses | 0 |
 | Recommended Decision | **Hold** |
 
@@ -55,45 +53,45 @@ TxGNN 模型因無法對應 DrugBank ID 且原始適應症缺失，**未能生�
 
 ## Why No Prediction Was Possible
 
-本複方由八種成分組成，涵蓋植物藥（Bryonia alba 白薊根、Horse Chestnut 馬栗、Strychnos nux-vomica 馬錢子種子）及礦物輔料（Aluminum Oxide 氧化鋁、Magnesium Carbonate 碳酸鎂、Magnesium Chloride 氯化鎂、Potassium Alum 明礬、Silicon Dioxide 二氧化矽）。此類配方常見於順勢療法（homeopathic）產品，各成分濃度及活性通常遠低於一般藥理學劑量。
+This polyformulation is composed of eight ingredients, including herbal medicines (Bryonia alba, Horse Chestnut, Strychnos nux-vomica seed) and mineral excipients (Aluminum Oxide, Magnesium Carbonate, Magnesium Chloride, Potassium Alum, Silicon Dioxide). Such formulations are commonly found in homeopathic products, where component concentrations and activity are typically far below conventional pharmacological doses.
 
-TxGNN 模型的預測依賴單一 DrugBank ID 作為圖譜節點，複方製劑在知識圖譜中無法以單一節點表示，導致模型無法執行圖神經網路推理。此外，台灣 TFDA 資料庫查詢結果為零筆許可紀錄，亦無原始適應症可供比對，兩項關鍵輸入皆缺失。
+The TxGNN model's predictions depend on a single DrugBank ID serving as a graph node; polyformulations cannot be represented as a single node in the knowledge graph, preventing the model from executing graph neural network inference. Furthermore, querying the Taiwan TFDA database yielded zero approval records, and no original indication is available for comparison; both critical inputs are missing.
 
-若需繼續推進評估，建議優先對 Horse Chestnut（Aesculus hippocastanum，活性成分 Aescin，DrugBank DB01122）及 Strychnos nux-vomica（Nux vomica）等具已知藥理機轉的主要成分，拆解為個別單成分評估，再彙整複方協同效應分析。
+If further assessment is needed, it is recommended to first deconstruct major ingredients with known pharmacological mechanisms—such as Horse Chestnut (Aesculus hippocastanum, active ingredient Aescin, DrugBank DB01122) and Strychnos nux-vomica—into individual single-component evaluations, and then integrate the polyformulation synergistic effect analysis.
 
 ---
 
 ## Clinical Trial Evidence
 
-目前無相關臨床試驗資料可供呈現。
+Currently no relevant clinical trial data available for presentation.
 
-> 本複方組合在 ClinicalTrials.gov 中未查得對應登記試驗，個別成分（如 Horse Chestnut Seed Extract 用於慢性靜脈功能不全）另有試驗資料，但不適用於本複方整體評估。
+> This compound combination was not found in a corresponding registered trial on ClinicalTrials.gov. Individual components (such as Horse Chestnut Seed Extract for chronic venous insufficiency) have separate trial data, but these do not apply to the overall evaluation of this polyformulation.
 
 ---
 
 ## Literature Evidence
 
-目前無可直接引用的複方文獻資料。
+Currently no directly applicable literature data for the polyformulation.
 
-> 個別成分文獻（如 Aescin 靜脈水腫、Magnesium 補充療法）不代表本複方整體藥效，不列入本表。
+> Literature on individual ingredients (such as Aescin for venous edema, Magnesium supplementation) does not represent the overall efficacy of this polyformulation and is not included in this table.
 
 ---
 
 ## Taiwan Market Information
 
-本複方製劑在台灣 TFDA 資料庫中查無任何藥品許可登記。
+This polyformulation has no drug approval registrations in the Taiwan TFDA database.
 
-| 查詢來源 | 查詢狀態 | 許可數量 | 備註 |
+| Query Source | Query Status | Number of Approvals | Remarks |
 |---------|---------|---------|------|
-| TFDA | 已查詢（2026-03-24） | 0 | 無符合紀錄 |
+| TFDA | Queried (2026-03-24) | 0 | No matching records |
 
 ---
 
 ## Safety Considerations
 
-請參閱各成分個別仿單及順勢療法產品說明書，以取得安全性資訊。
+Please consult the package inserts of individual components and homeopathic product instructions for safety information.
 
-> **特別提醒**：Strychnos nux-vomica（馬錢子）含生物鹼 Strychnine，高劑量具神經毒性，需確認本品劑量符合順勢療法極度稀釋規範，不適用常規藥理毒性評估。
+> **Special Note**: Strychnos nux-vomica contains the alkaloid Strychnine, which is neurotoxic at high doses. It is necessary to confirm that the dosage in this product complies with homeopathic extreme dilution standards and is not subject to conventional pharmacological toxicity assessment.
 
 ---
 
@@ -102,15 +100,20 @@ TxGNN 模型的預測依賴單一 DrugBank ID 作為圖譜節點，複方製劑�
 **Decision: Hold**
 
 **Rationale:**
-本複方製劑缺乏 DrugBank ID 對應、無原始適應症紀錄、台灣無許可登記，且 TxGNN 模型未能產出任何預測結果，現有資料不足以支持任何老藥新用評估。
+This polyformulation lacks DrugBank ID correspondence, has no original indication record, has no approvals in Taiwan, and the TxGNN model failed to generate any prediction results; available data is insufficient to support any drug repurposing assessment.
 
 **To proceed, the following is needed:**
 
-- **成分拆解**：確認各成分在本製劑中的劑量與稀釋倍數，判斷是否適用常規藥理學評估或順勢療法框架
-- **主成分選定**：挑選 1-2 個具已知藥理機轉的成分（建議 Horse Chestnut / Aescin），以單成分重新提交 TxGNN 預測
-- **DrugBank 對應**：為各植物成分查詢對應 DrugBank ID（Horse Chestnut → DB01122 Aescin，Nux vomica → DB01392 Brucine/Strychnine）
-- **毒性確認**：釐清 Strychnos nux-vomica 在本品中的稀釋程度，排除 Strychnine 毒性疑慮後才可進行後續安全性評估
-- **原廠資料取得**：如本品為已知市售順勢療法產品，取得原廠仿單以確認原始適應症
+- **Component deconstruction**: Confirm the dosage and dilution factors of each component in this formulation, and determine whether conventional pharmacological assessment or homeopathic framework is applicable
+
+- **Primary component selection**: Select 1–2 components with known pharmacological mechanisms (recommend Horse Chestnut / Aescin), and resubmit to TxGNN for single-component prediction
+
+- **DrugBank correspondence**: Query corresponding DrugBank IDs for each herbal component (Horse Chestnut → DB01122 Aescin, Nux vomica → DB01392 Brucine/Strychnine)
+
+- **Toxicity confirmation**: Clarify the dilution level of Strychnos nux-vomica in this product, and only proceed with subsequent safety assessment after ruling out Strychnine toxicity concerns
+
+- **Obtain manufacturer data**: If this product is a known marketed homeopathic product, obtain the manufacturer's package insert to confirm the original indication
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

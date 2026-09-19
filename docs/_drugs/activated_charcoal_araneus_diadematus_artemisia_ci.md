@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# 多成分順勢製劑複方：資料不足，無法完成老藥新用評估
+# Multi-Component Homeopathic Formula: Insufficient Data to Complete Drug Repurposing Assessment
 
 ## One-Sentence Summary
 
-本品為含 23 種成分的順勢療法複方，成分涵蓋動植物萃取物、微生物 nosode 及代謝物。
-由於 TxGNN 系統未能匹配任何 DrugBank 記錄，**目前無法產生新適應症預測**，
-亦無相關臨床試驗或文獻支持本複方整體的老藥新用方向。
+This product is a homeopathic formula containing 23 components comprising plant extracts, microbial nosodes, and metabolites.
+As the TxGNN system could not match any DrugBank records, **no new indication predictions can be generated at present**,
+nor is there clinical trial or literature support for the repurposing direction of this formula as a whole.
 
 ---
 
@@ -43,10 +43,10 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 | Item | Content |
 |------|---------|
-| Original Indication | 無記錄（未收載於任何已核准資料庫） |
-| Predicted New Indication | 無（TxGNN 未產生預測） |
+| Original Indication | No record (not listed in any approved database) |
+| Predicted New Indication | None (TxGNN generated no prediction) |
 | TxGNN Prediction Score | N/A |
-| Evidence Level | L5（模型無法評估，缺乏任何實際研究） |
+| Evidence Level | L5 (model unable to assess; lack of any actual research) |
 | US Market Status | Not marketed |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
@@ -55,54 +55,54 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 ## Why is This Prediction Reasonable?
 
-本品由以下 23 種成分組成，性質高度異質：
+This product comprises the following 23 components of highly heterogeneous nature:
 
-| 類別 | 成分 |
-|------|------|
-| 順勢炭劑 | Activated Charcoal、Carbo Animalis |
-| 植物萃取 | Artemisia Cina、Berberis Vulgaris Root Bark、Frangula Purshiana Bark、Medicago Sativa、Podophyllum、Rheum Palmatum Root、Spigelia Anthelmia、Taraxacum Officinale、Veratrum Album Root |
-| 微生物 Nosode | Proteus Mirabilis、Salmonella Enterica Enterica Serovar Enteritidis |
-| 動物來源 | Araneus Diadematus（球蛛）、Heparin Bovine、Sus Scrofa Intestinal Mucosa |
-| 代謝物 / 元素 | Bilirubin、Creatine、Creatinine、Indole、Selenium、Skatole |
-| 礦物順勢劑 | Mercurius Solubilis |
+| Category | Components |
+|----------|-----------|
+| Homeopathic Carbon Remedies | Activated Charcoal, Carbo Animalis |
+| Plant Extracts | Artemisia Cina, Berberis Vulgaris Root Bark, Frangula Purshiana Bark, Medicago Sativa, Podophyllum, Rheum Palmatum Root, Spigelia Anthelmia, Taraxacum Officinale, Veratrum Album Root |
+| Microbial Nosode | Proteus Mirabilis, Salmonella Enterica Enterica Serovar Enteritidis |
+| Animal-derived | Araneus Diadematus (spider), Heparin Bovine, Sus Scrofa Intestinal Mucosa |
+| Metabolites/Elements | Bilirubin, Creatine, Creatinine, Indole, Selenium, Skatole |
+| Mineral Homeopathic Remedies | Mercurius Solubilis |
 
-從成分組成判斷，本品屬**腸道 nosode 順勢療法複方（Bowel Nosode Formula）**，傳統用於腸道功能調節。然而：
+Based on the component composition, this product appears to be a **bowel nosode homeopathic formula**, traditionally used for intestinal function modulation. However:
 
-1. DrugBank 未收載此複方整體，亦未提供 DrugBank ID，導致 TxGNN 知識圖譜無法進行節點比對。
-2. 複方中多數成分為順勢療法專用製劑，其有效成分稀釋度極高，超出現代藥理資料庫的收載範圍。
-3. 目前作用機轉（MOA）資料完全缺失，無法進行機轉關聯性分析。
+1. DrugBank does not maintain this formula as a whole nor provide a DrugBank ID, preventing TxGNN's knowledge graph from performing node matching.
+2. Most components in the formula are homeopathic-specific preparations whose active ingredients are diluted to such extreme degrees that they fall outside the scope of modern pharmacological databases.
+3. Mechanism of action (MOA) data are entirely absent, precluding mechanism-based association analysis.
 
-**結論**：技術上無法對本複方進行老藥新用預測，需先完成成分標準化與資料補全。
+**Conclusion**: It is technically infeasible to perform drug repurposing prediction on this formula in its current form; component standardization and data completion are prerequisites.
 
 ---
 
 ## Clinical Trial Evidence
 
-目前無相關臨床試驗記錄。
+No relevant clinical trial records are currently available.
 
 ---
 
 ## Literature Evidence
 
-目前無相關文獻可供檢索。
+No relevant literature is available for retrieval at present.
 
 ---
 
 ## US Market Information
 
-本品在美國未有任何核准上市許可（NDA 數量：0）。
+This product has no approved marketing authorization (NDA) in the United States (Number of NDAs: 0).
 
 ---
 
 ## Safety Considerations
 
-請參閱產品仿單中的警語及禁忌事項。
+Please refer to the warnings and contraindications in the product's package insert.
 
-> **注意**：本複方含有以下需特別留意之成分：
-> - **Mercurius Solubilis**（汞化合物順勢製劑）：高劑量汞具神經毒性，順勢稀釋後風險程度需個別評估
-> - **Heparin, Bovine**（牛源肝素）：理論上具抗凝血作用，與抗凝血藥物併用需謹慎
-> - **Veratrum Album**（白藜蘆）：植物鹼含量具潛在毒性
-> - **Podophyllum**（鬼臼）：含鬼臼毒素，具細胞毒性潛力
+> **Caution**: This formula contains the following components requiring special attention:
+> - **Mercurius Solubilis** (mercury compound homeopathic remedy): Mercury at high doses exhibits neurotoxicity; risk assessment after homeopathic dilution requires individual evaluation
+> - **Heparin, Bovine** (bovine heparin): theoretically possesses anticoagulant activity; concurrent use with anticoagulant drugs requires caution
+> - **Veratrum Album** (false hellebore): plant alkaloid content carries potential toxicity
+> - **Podophyllum** (podophyllum): contains podophyllotoxin with cytotoxic potential
 
 ---
 
@@ -111,15 +111,16 @@ Evidence Level: **L5** | Predicted Indications: **0**
 **Decision: Hold**
 
 **Rationale:**
-本複方因成分過於複雜且屬順勢療法特殊類別，TxGNN 模型無法識別其 DrugBank 對應節點，導致完全無法產生預測結果；在缺乏任何預測、臨床試驗及文獻支持的情況下，不建議推進老藥新用評估。
+This formula, owing to its highly complex composition and special homeopathic category status, cannot be recognized by the TxGNN model to identify its DrugBank-corresponding node, resulting in complete inability to generate prediction results; in the absence of any predictions, clinical trials, or literature support, advancement of drug repurposing assessment is not recommended.
 
 **To proceed, the following is needed:**
 
-- **成分拆解評估**：將 23 種成分逐一查詢 DrugBank，篩選出有藥理記錄的單一成分（例如 Berberine 來自 Berberis Vulgaris、Emodin 來自 Rheum Palmatum），對這些單成分個別執行 TxGNN 預測
-- **主成分確認**：釐清本複方的「治療主成分」為何，排除純順勢稀釋成分（如 Mercurius Solubilis、nosode 類），聚焦有實質藥理意義的成分
-- **適應症定位**：補充本複方的原始核准適應症或傳統使用紀錄，作為老藥新用的起點
-- **MOA 資料補全**：針對各植物成分Query the DrugBank API 或 PubChem，補充作用機轉資料
-- **安全性資料**：下載各成分的仿單或毒理資料，完成 S1 安全性初評所需的警語/禁忌評估
+- **Component-by-component evaluation**: Query each of the 23 components individually against DrugBank to screen for those with pharmacological records (e.g., berberine from Berberis Vulgaris, emodin from Rheum Palmatum), and perform TxGNN prediction separately for these single-component entities
+- **Principal component confirmation**: Clarify which "therapeutic principal component(s)" this formula addresses, excluding pure homeopathic diluted components (e.g., Mercurius Solubilis, nosode category), and focus on components with substantive pharmacological significance
+- **Indication definition**: Supplement the formula's original approved indication or traditional use record as the starting point for drug repurposing
+- **MOA data completion**: For each plant component, query the DrugBank API or PubChem to supplement mechanism of action data
+- **Safety data completion**: Download package inserts or toxicological data for each component to complete the warnings/contraindications assessment required by S1 safety initial review
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

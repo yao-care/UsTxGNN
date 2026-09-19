@@ -29,93 +29,94 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# 複方順勢製劑（含百日咳相關成分）: 資料不足，無法完成老藥新用分析
+# Complex Homeopathic Preparation (containing pertussis-related components): Insufficient data, unable to complete drug repurposing analysis
 
 ## One-Sentence Summary
 
-本品為含九種植物/礦物/生物成分的複方順勢製劑，包含 Atropa belladonna、Lobelia inflata、Antimony potassium tartrate 等傳統呼吸道用藥成分，以及 Bordetella pertussis 感染痰液（百日咳 nosode）。
-TxGNN 模型**未能產生任何預測適應症**，原因為此複方在 DrugBank 中無對應 ID，無法完成知識圖譜嵌入計算。
-目前**無任何臨床試驗或文獻**支持其老藥新用方向，整體資料嚴重不足。
+This product is a complex homeopathic preparation containing nine botanical/mineral/biological components, including traditional respiratory medicinal ingredients such as Atropa belladonna, Lobelia inflata, Antimony potassium tartrate, as well as Bordetella pertussis infected sputum (pertussis nosode).
+The TxGNN model **failed to generate any predicted indications**, as this complex preparation has no corresponding ID in DrugBank, preventing the knowledge graph embedding calculation from being completed.
+Currently there are **no clinical trials or literature** supporting its drug repurposing direction, with severely insufficient overall data.
 
 ---
 
 ## Quick Overview
 
-| 項目 | 內容 |
-|------|------|
-| 原始適應症 | 無資料（成分組成顯示為傳統呼吸道/百日咳用途） |
-| 預測新適應症 | 無（TxGNN 未產生預測） |
-| TxGNN 預測分數 | — |
-| 證據等級 | L5（僅有模型輸入，無實際研究） |
-| US 市場狀態 | Not marketed（0 件許可證） |
-| 許可證總數 | 0 |
-| 建議決策 | **Hold** |
+| Item | Content |
+|------|---------|
+| Original indications | No data (component composition indicates traditional respiratory/pertussis use) |
+| Predicted new indications | None (TxGNN did not generate predictions) |
+| TxGNN prediction score | — |
+| Evidence level | L5 (only model input, no actual research) |
+| US market status | Not marketed (0 approvals) |
+| Total number of approvals | 0 |
+| Recommended decision | **Hold** |
 
 ---
 
-## 為何此預測無法評估？
+## Why can't this prediction be assessed?
 
-本品為九成分複方，性質接近順勢療法（Homeopathic）或傳統草藥複方製劑，在現代藥物資料庫中**無 DrugBank ID**，導致 TxGNN 知識圖譜無法定位此藥物節點，預測流程在輸入端即中斷。
+This product is a nine-component complex preparation with characteristics similar to homeopathic or traditional herbal complex preparations, with **no DrugBank ID** in modern drug databases, causing the TxGNN knowledge graph to fail to locate the drug node, with the prediction pipeline interrupting at the input stage.
 
-從成分組成可推測其傳統用途方向：
+The traditional use direction can be inferred from the component composition:
 
-- **Bordetella pertussis 感染痰液（nosode）**：順勢療法中用於百日咳的經典 nosode 製劑
-- **Atropa belladonna / Hyoscyamus niger**：含阿托品/莨菪鹼，具抗膽鹼作用，傳統用於平滑肌痙攣、呼吸道症狀
-- **Lobelia inflata**：含 lobeline，傳統呼吸興奮劑，曾用於支氣管痙攣
-- **Antimony potassium tartrate（吐酒石）**：傳統祛痰劑，現代已少用
-- **Ipecac**：傳統催吐/祛痰劑
+- **Bordetella pertussis infected sputum (nosode)**: A classic nosode preparation used in homeopathy for pertussis
+- **Atropa belladonna / Hyoscyamus niger**: Containing atropine/scopolamine, with anticholinergic activity, traditionally used for smooth muscle spasm and respiratory symptoms
+- **Lobelia inflata**: Containing lobeline, traditionally used as a respiratory stimulant, once used for bronchospasm
+- **Antimony potassium tartrate (tartar emetic)**: Traditional expectorant, rarely used in modern times
+- **Ipecac**: Traditional emetic/expectorant
 
-此組合指向**呼吸道感染、百日咳或慢性支氣管炎**等傳統適應症，但均為順勢/傳統醫學脈絡，缺乏現代循證醫學支持。在無 DrugBank ID 和無 TxGNN 預測的情況下，無法進行正式的機轉關聯性分析。
-
----
-
-## 臨床試驗證據
-
-目前無相關臨床試驗已登記。
+This combination points toward **respiratory tract infection, pertussis, or chronic bronchitis** and other traditional indications, but all are within the homeopathic/traditional medicine context, lacking support from modern evidence-based medicine. In the absence of a DrugBank ID and TxGNN predictions, formal mechanism of action correlation analysis cannot be performed.
 
 ---
 
-## 文獻證據
+## Clinical trial evidence
 
-目前無相關文獻可供引用。
-
----
-
-## US 市場資訊
-
-本品在美國無任何 NDA/BLA/ANDA 核准紀錄（查詢結果：0 件許可證）。
+No related clinical trials are currently registered.
 
 ---
 
-## 安全性考量
+## Literature evidence
 
-請參閱仿單警語與禁忌症說明。
-
-> **特別注意**：本品含有多種已知具藥理活性的成分，即便以順勢療法極低濃度使用，仍應注意以下潛在風險：
-> - **Atropa belladonna / Hyoscyamus niger**：含莨菪鹼類生物鹼，過量可引起抗膽鹼中毒
-> - **Antimony potassium tartrate**：含銻，具重金屬毒性
-> - **Ipecac**：長期使用可能造成心肌病變
-> - **Lobelia inflata**：過量可引起噁心、嘔吐、呼吸抑制
+No related literature is currently available for citation.
 
 ---
 
-## 結論與後續步驟
+## US market information
 
-**決策：Hold**
+This product has no NDA/BLA/ANDA approval records in the United States (query result: 0 approvals).
 
-**理由：**
-TxGNN 無法對此複方順勢製劑產生任何老藥新用預測，主要原因為缺乏 DrugBank ID 與現代藥理資料；加上美國無上市紀錄、安全性資料完全缺失，目前不具備進行老藥新用評估的基礎條件。
+---
 
-**若要推進，需補齊以下資料：**
+## Safety considerations
 
-1. **藥物身份確認**：確認是否有對應的 DrugBank 條目，或識別單一主要活性成分（active moiety）以便獨立評估
-2. **MOA 資料**：查閱各成分的作用機轉，尤其是 Atropa belladonna 與 Lobelia inflata 的藥理文獻
-3. **安全性資料**：下載並解析 FDA/TFDA 相關仿單 PDF，或查詢 Homeopathic Pharmacopoeia
-4. **適應症確認**：確認此複方是否有任何國家的正式核准適應症記錄
-5. **重新設計預測輸入**：若確認主活性成分，可針對單成分（如 lobeline 或 belladonna alkaloids）重新執行 TxGNN 預測流程
-6. **臨床文獻搜尋**：以各成分 INN 分別進行 PubMed 搜尋，蒐集個別成分的臨床或前臨床證據
+Please refer to the label warnings and contraindications.
 
-> ⚠️ **免責聲明**：本報告結果僅供研究參考，不構成醫療建議。老藥新用候選需經臨床驗證後方可應用於臨床實踐。
+> **Special note**: This product contains multiple known pharmacologically active components. Even when used in extremely low concentrations in homeopathic preparations, the following potential risks should be considered:
+> - **Atropa belladonna / Hyoscyamus niger**: Contains tropane alkaloids; overdose may cause anticholinergic toxicity
+> - **Antimony potassium tartrate**: Contains antimony, a heavy metal with toxicity
+> - **Ipecac**: Prolonged use may cause cardiomyopathy
+> - **Lobelia inflata**: Overdose may cause nausea, vomiting, and respiratory depression
+
+---
+
+## Conclusion and next steps
+
+**Decision: Hold**
+
+**Rationale:**
+TxGNN cannot generate any drug repurposing predictions for this complex homeopathic preparation, primarily due to lack of DrugBank ID and modern pharmacological data; combined with no US market authorization record and completely missing safety data, the current conditions are not sufficient for conducting a drug repurposing assessment.
+
+**To advance, the following data must be supplemented:**
+
+1. **Drug identity confirmation**: Confirm whether there is a corresponding DrugBank entry, or identify a single main active ingredient (active moiety) for independent assessment
+2. **MOA data**: Review the mechanism of action of each component, particularly the pharmacological literature on Atropa belladonna and Lobelia inflata
+3. **Safety data**: Download and parse FDA/TFDA-related labeling PDFs, or consult the Homeopathic Pharmacopoeia
+4. **Indication confirmation**: Confirm whether this complex preparation has any formal approved indications in any country
+5. **Redesigned prediction input**: If the main active component is confirmed, TxGNN prediction workflow can be re-executed for the single component (such as lobeline or belladonna alkaloids)
+6. **Clinical literature search**: Conduct separate PubMed searches using the INN of each component to collect individual component clinical or preclinical evidence
+
+> ⚠️ **Disclaimer**: The results of this report are for research reference only and do not constitute medical advice. Drug repurposing candidates must undergo clinical validation before application in clinical practice.
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,89 +29,90 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# ARNICA MONTANA ROOT 等複方: 無法進行老藥新用評估
+# ARNICA MONTANA ROOT Herbal Complex: Unable to Conduct Drug Repurposing Assessment
 
-## 摘要
+## Summary
 
-本候選品項為包含 10 種成分的複方製劑（包含 Arnica montana、Atropa belladonna、Ipecac 等植物性與礦物性成分），屬同類療法（Homeopathic）配方類型。TxGNN 模型對此複方**未產生任何預測適應症**，且在台灣無任何藥品許可證記錄。由於關鍵資料（MOA、安全警語、適應症）均付之闕如，目前**無法執行老藥新用評估**。
-
----
-
-## 快速概覽
-
-| 項目 | 內容 |
-|------|------|
-| 原始適應症 | 無資料 |
-| 預測新適應症 | 無（TxGNN 未輸出預測結果） |
-| TxGNN 預測分數 | 無 |
-| 證據等級 | L5（模型無預測，完全無實證支持） |
-| 台灣上市狀態 | ✗ Not marketed |
-| 許可證數量 | 0 |
-| 建議決策 | Hold |
+This candidate product is a herbal complex formulation containing 10 components (including Arnica montana, Atropa belladonna, Ipecac, and other plant and mineral-derived substances), classified as a homeopathic remedy type. The TxGNN model produced **no predicted indications** for this complex, and no pharmaceutical licenses exist for this product in Taiwan. Due to missing critical data (mechanism of action, safety warnings, indications), **drug repurposing assessment cannot be conducted at this time**.
 
 ---
 
-## 為何無法進行預測分析？
+## Quick Overview
 
-此複方由以下 10 種成分組成，性質特殊：
-
-| 成分 | 類型 |
-|------|------|
-| Arnica montana root | 植物性（菊科） |
-| Artemisia cina flower | 植物性（菊科，傳統驅蟲藥） |
-| Atropa belladonna whole | 植物性（茄科，含阿托品） |
-| Copper | 礦物性 |
-| Corallium rubrum exoskeleton | 動物性（紅珊瑚） |
-| Drosera rotundifolia flowering top | 植物性（茅膏菜，傳統止咳） |
-| Ferrum phosphoricum | 礦物性（磷酸鐵） |
-| Ipecac | 植物性（吐根，傳統催吐） |
-| Protortonia cacti | 昆蟲性（介殼蟲） |
-| Solidago virgaurea flowering top | 植物性（一枝黃花，傳統利尿） |
-
-此類成分組合為**同類療法（Homeopathic medicine）**的典型配方。TxGNN 模型的知識圖譜以 DrugBank 為核心，同類療法複方通常無法獲得 DrugBank ID，導致模型無法建立節點關聯，因此**未能輸出任何預測適應症**。
+| Item | Content |
+|------|---------|
+| Original indications | No data |
+| Predicted new indications | None (TxGNN produced no prediction) |
+| TxGNN prediction score | None |
+| Evidence level | L5 (No model prediction; completely lacking empirical support) |
+| Taiwan market status | ✗ Not marketed |
+| Number of licenses | 0 |
+| Recommended decision | Hold |
 
 ---
 
-## 臨床試驗證據
+## Why Prediction Analysis Cannot Be Conducted?
 
-目前無相關臨床試驗登錄紀錄。
+This complex is composed of the following 10 components with distinctive characteristics:
 
----
+| Component | Type |
+|-----------|------|
+| Arnica montana root | Plant-derived (Asteraceae) |
+| Artemisia cina flower | Plant-derived (Asteraceae; traditional anthelmintic) |
+| Atropa belladonna whole | Plant-derived (Solanaceae; contains atropine) |
+| Copper | Mineral |
+| Corallium rubrum exoskeleton | Animal-derived (red coral) |
+| Drosera rotundifolia flowering top | Plant-derived (sundew; traditional antitussive) |
+| Ferrum phosphoricum | Mineral (ferric phosphate) |
+| Ipecac | Plant-derived (ipecac root; traditional emetic) |
+| Protortonia cacti | Insect-derived (scale insect) |
+| Solidago virgaurea flowering top | Plant-derived (goldenrod; traditional diuretic) |
 
-## 文獻證據
-
-目前無相關文獻資料。
-
----
-
-## 台灣市場資訊
-
-此複方在台灣藥品許可資料庫中查無任何紀錄（許可證數量：0），目前為**Not marketed**狀態。
-
----
-
-## 安全性注意事項
-
-請參閱各成分仿單之警語與禁忌事項。
-
-> **特別注意**：Atropa belladonna（顛茄）含阿托品類生物鹼，具有潛在毒性；Ipecac（吐根）含吐根鹼，過量有心臟毒性風險。即使以同類療法稀釋劑型使用，處方前仍應查閱完整安全資料。
+This type of component combination is characteristic of **homeopathic medicine** formulations. The TxGNN model's knowledge graph is anchored to DrugBank; homeopathic complexes typically lack DrugBank IDs, preventing the model from establishing node associations and thus **unable to produce any predicted indications**.
 
 ---
 
-## 結論與後續步驟
+## Clinical Trial Evidence
 
-**決策：Hold**
+Currently no related clinical trial records exist.
 
-**理由：**
-TxGNN 模型對此同類療法複方未輸出任何預測結果，缺乏 DrugBank ID、作用機轉、原始適應症及安全資料，目前無任何基礎可進行老藥新用評估。
+---
 
-**若要推進，需補充以下資料：**
+## Literature Evidence
 
-- 確認此複方是否有對應的 DrugBank 或其他標準藥物資料庫 ID
-- 釐清各成分的有效劑量與稀釋比例（同類療法效力標記）
-- 取得台灣或其他主要市場的仿單，以補充安全警語與禁忌
-- 評估是否應改為針對**單一有效成分**（如 Atropa belladonna 中的阿托品）進行個別老藥新用分析，而非以複方整體查詢
-- 若堅持以複方查詢，需建立自訂的知識圖譜節點，才能使 TxGNN 模型產生有意義的預測
+Currently no related literature data available.
+
+---
+
+## Taiwan Market Information
+
+This complex has no records in Taiwan's pharmaceutical licensing database (number of licenses: 0) and currently has **not marketed** status.
+
+---
+
+## Safety Considerations
+
+Please refer to safety warnings and contraindications listed in the package inserts of each component.
+
+> **Special Caution**: Atropa belladonna (deadly nightshade) contains atropine-class alkaloids with potential toxicity; Ipecac (ipecac root) contains emetine with cardiac toxicity risk at high doses. Even when used in homeopathic diluted formulations, complete safety data should be reviewed prior to prescribing.
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The TxGNN model produced no predicted results for this homeopathic complex, and lacks DrugBank ID, mechanism of action, original indications, and safety data. There is currently no foundation for conducting drug repurposing assessment.
+
+**To proceed, the following data must be supplemented:**
+
+- Confirm whether this complex has a corresponding DrugBank or other standard pharmaceutical database ID
+- Clarify the effective dose and dilution ratio of each component (homeopathic potency designation)
+- Obtain package inserts from Taiwan or other major markets to supplement safety warnings and contraindications
+- Evaluate whether analysis should instead focus on **individual active components** (e.g., atropine from Atropa belladonna) rather than the complex as a whole
+- If complex-based query is to be maintained, custom knowledge graph nodes must be established to enable meaningful predictions from the TxGNN model
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

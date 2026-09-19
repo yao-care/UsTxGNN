@@ -29,25 +29,25 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# ABACAVIR SULFATE / DOLUTEGRAVIR SODIUM / LAMIVUDINE: 尚無預測適應症（資料不足）
+# ABACAVIR SULFATE / DOLUTEGRAVIR SODIUM / LAMIVUDINE: No Predicted Indications (Insufficient Data)
 
 ## One-Sentence Summary
 
-Abacavir + Dolutegravir + Lamivudine 是三合一抗反轉錄病毒固定劑量組合（商品名 Triumeq），原用於 HIV-1 感染治療。
-本次 Evidence Pack 中 **TxGNN 尚未產生任何新適應症預測**，且該組合藥品在台灣目前 **無核准上市紀錄**，導致大部分評估欄位缺乏資料基礎。
-在補齊關鍵資料缺口（仿單警語、MOA、預測結果）之前，**建議暫緩（Hold）** 進行後續老藥新用評估。
+Abacavir + Dolutegravir + Lamivudine is a three-in-one fixed-dose antiretroviral combination (brand name Triumeq), originally used for HIV-1 infection treatment.
+In this Evidence Pack, **TxGNN has not generated any new indication predictions**, and this combination drug currently has **no approval record on the Taiwan market**, resulting in lack of data foundation for most assessment fields.
+Before filling key data gaps (package insert warnings, MOA, prediction results), **it is recommended to Hold** further drug repurposing assessment.
 
 ---
 
 ## Quick Overview
 
-| 項目 | 內容 |
-|------|------|
-| Original Indication | HIV-1 感染（根據國際通用知識；本 Pack 未提供台灣仿單資料） |
-| Predicted New Indication | 無（TxGNN 本次未輸出預測候選） |
-| TxGNN Prediction Score | 不適用 |
-| Evidence Level | 無法評定（無預測、無臨床試驗、無文獻）|
-| US Market Status | Not marketed（台灣藥品資料庫查無核准） |
+| Item | Content |
+|------|---------|
+| Original Indication | HIV-1 infection (per international standard knowledge; this Pack does not provide Taiwan package insert data) |
+| Predicted New Indication | None (TxGNN did not output any repurposing candidates in this run) |
+| TxGNN Prediction Score | Not applicable |
+| Evidence Level | Cannot be determined (no predictions, no clinical trials, no literature) |
+| US Market Status | Not marketed (no approval record found in Taiwan drug database) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 
@@ -55,40 +55,40 @@ Abacavir + Dolutegravir + Lamivudine 是三合一抗反轉錄病毒固定劑量�
 
 ## Why is This Prediction Reasonable?
 
-目前 Evidence Pack 中 `predicted_indications` 為空，TxGNN 模型未對本藥品組合輸出任何老藥新用候選，因此**無法進行機轉關聯性分析或適應症合理性評估**。
+The `predicted_indications` field in the current Evidence Pack is empty; the TxGNN model did not output any drug repurposing candidates for this combination drug, making **mechanistic linkage analysis or indication appropriateness assessment not feasible**.
 
-就已知背景資訊而言，此組合為三種成分固定比例複方：
+Based on available background information, this combination consists of three fixed-ratio components:
 
-- **Abacavir**（ABC）：核苷酸反轉錄酶抑制劑（NRTI），需代謝活化為 carbovir triphosphate 後競爭性抑制 HIV-1 反轉錄酶
-- **Dolutegravir**（DTG）：整合酶鏈轉移抑制劑（INSTI），阻斷 HIV-1 DNA 插入宿主基因組
-- **Lamivudine**（3TC）：NRTI，同時具有 HBV 活性，抑制 HBV 及 HIV-1 反轉錄酶
+- **Abacavir** (ABC): Nucleoside reverse transcriptase inhibitor (NRTI), requires metabolic activation to carbovir triphosphate before competitively inhibiting HIV-1 reverse transcriptase
+- **Dolutegravir** (DTG): Integrase strand transfer inhibitor (INSTI), blocks HIV-1 DNA integration into the host genome
+- **Lamivudine** (3TC): NRTI with concurrent HBV activity, inhibits both HBV and HIV-1 reverse transcriptase
 
-三種成分作用於 HIV-1 複製週期的不同靶點，協同產生抗病毒效果。若未來 TxGNN 針對個別成分（尤其是 Lamivudine 的 HBV 活性）產生預測，值得優先評估 HBV 相關適應症的延伸可能性。
+The three components act on different targets in the HIV-1 replication cycle, exerting synergistic antiviral effects. Should TxGNN generate predictions for individual components in future runs (especially lamivudine's HBV activity), HBV-related indication extension possibilities would merit priority evaluation.
 
 ---
 
-## 資料缺口說明
+## Data Gap Summary
 
-本次 Evidence Pack 存在以下兩項關鍵資料缺口，須補齊後才能繼續評估：
+The current Evidence Pack contains the following two critical data gaps that must be filled before assessment can proceed:
 
-| 缺口編號 | 缺口項目 | 嚴重程度 | 影響 | 補救方式 |
-|---------|---------|---------|------|---------|
-| DG001 | 台灣仿單警語／禁忌 | Blocking | 無法進入安全性初評 | 至 FDA websiteDownload and parse the package insert PDF |
-| DG002 | 作用機轉（MOA） | High | Limits mechanistic-link analysis | Query the DrugBank API |
+| Gap ID | Gap Item | Severity | Impact | Remediation |
+|--------|----------|----------|--------|-------------|
+| DG001 | Taiwan package insert warnings / contraindications | Blocking | Cannot proceed to safety initial review | Download and parse the package insert PDF from FDA website |
+| DG002 | Mechanism of Action (MOA) | High | Limits mechanistic-link analysis | Query the DrugBank API |
 
 ---
 
 ## US Market Information
 
-本藥品在台灣藥品資料庫中查無任何核准許可證，無法列出授權資訊。
+This drug has no approval record found in the Taiwan drug database, making it impossible to list authorization information.
 
-> 備註：此三合一組合（Abacavir + Dolutegravir + Lamivudine）在美國以商品名 **Triumeq**（NDA 206708）核准上市，用於 HIV-1 感染成人及 ≥40 kg 之兒童。台灣若有臨床需求，可參照美國 FDA 核准資訊及原廠仿單。
+> Note: This three-in-one combination (Abacavir + Dolutegravir + Lamivudine) is approved in the United States under the brand name **Triumeq** (NDA 206708) for HIV-1 infection in adults and children ≥40 kg. If there is clinical need in Taiwan, reference may be made to US FDA approval information and the original package insert.
 
 ---
 
 ## Safety Considerations
 
-> 本 Evidence Pack 中安全性資料（警語、禁忌、藥物交互作用）均無法取得，請參閱原廠仿單及美國 FDA 核准標示（Triumeq Prescribing Information）以獲取完整安全性資訊。
+> Safety data (warnings, contraindications, drug interactions) in this Evidence Pack are currently unavailable. Please consult the original package insert and US FDA-approved labeling (Triumeq Prescribing Information) for complete safety information.
 
 ---
 
@@ -97,14 +97,15 @@ Abacavir + Dolutegravir + Lamivudine 是三合一抗反轉錄病毒固定劑量�
 **Decision: Hold**
 
 **Rationale:**
-TxGNN 未輸出任何預測候選，加上台灣無核准上市紀錄、安全性資料缺口為 Blocking 等級，目前不具備進行老藥新用評估的基本條件。
+TxGNN did not output any repurposing candidates, combined with no approval record on the Taiwan market and Blocking-level safety data gaps, the current baseline conditions for drug repurposing assessment are not present.
 
 **To proceed, the following is needed:**
 
-- [ ] **重新執行 TxGNN 預測**：確認模型是否已對各別成分（Abacavir、Dolutegravir、Lamivudine）建立知識圖譜節點，並分別產出預測候選
-- [ ] **補齊 MOA 資料（DG002）**：透過 DrugBank API 取得 DrugBank ID 與完整機轉描述，作為機轉關聯性分析基礎
-- [ ] **補齊安全性資料（DG001）**：下載並解析 TFDA 仿單 PDF（如已申請上市）或以美國 FDA 核准標示替代，完成 S1 安全性初評
-- [ ] **確認適用評估單元**：評估是以組合藥品整體，或以個別成分（尤其 Lamivudine）作為老藥新用評估對象更為合適
+- [ ] **Re-run TxGNN predictions**: Confirm whether the model has established knowledge graph nodes for individual components (abacavir, dolutegravir, lamivudine) and separately generated prediction candidates
+- [ ] **Fill MOA data gap (DG002)**: Obtain DrugBank ID and complete mechanism description via DrugBank API as the foundation for mechanistic linkage analysis
+- [ ] **Fill safety data gap (DG001)**: Download and parse TFDA package insert PDF (if application has been filed) or substitute with US FDA-approved labeling to complete S1 safety initial review
+- [ ] **Confirm applicable assessment unit**: Evaluate whether assessment should proceed on the combination drug as a whole or on individual components (especially lamivudine) as separate drug repurposing assessment subjects
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,80 +29,81 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# 複方植物/順勢療法混合物：資料不足，無法完成老藥新用評估
+# Multi-component Botanical/Homeopathic Mixture: Insufficient Data, Unable to Complete Drug Repurposing Assessment
 
-## 一句話摘要
+## One-sentence Summary
 
-本候選藥物為一含 17 種成分的複方混合物（活性炭、蘆薈、氧化鋁、布里奧尼亞根等），在美國無核准上市紀錄，亦無 DrugBank ID。**TxGNN 模型未能產生任何新適應症預測**，目前安全性、機轉、臨床證據資料均不足，建議優先補齊基礎藥物資訊後再行評估。
-
----
-
-## 快速概覽
-
-| 項目 | 內容 |
-|------|------|
-| 原始適應症 | 無核准適應症紀錄 |
-| 預測新適應症 | 無（TxGNN 未產生預測） |
-| TxGNN 預測分數 | — |
-| 證據等級 | **L5**（模型無法預測，無任何實際研究） |
-| 美國市場狀態 | ✗ Not marketed |
-| NDA 數量 | 0 |
-| 建議決策 | **Hold** |
+This candidate drug is a multi-component mixture containing 17 ingredients (activated charcoal, aloe, aluminum oxide, bryonia alba root, etc.), with no approved market authorization record in the United States and no DrugBank ID. **The TxGNN model did not generate any novel indication predictions.** Safety, mechanism of action, and clinical evidence data are currently insufficient; it is recommended to supplement basic drug information before proceeding with assessment.
 
 ---
 
-## 為何無法進行預測推論？
+## Quick Overview
 
-本候選藥物為多成分複方，包含：
-
-> 活性炭（Activated Charcoal）、蘆薈（Aloe）、氧化鋁（Aluminum Oxide）、布里奧尼亞根（Bryonia Alba Root）、白屈菜（Chelidonium Majus）、石根（Collinsonia）、鼠李樹皮（Frangula Alnus Bark）、石松孢子（Lycopodium Clavatum Spore）、碳酸鉀（Potassium Carbonate）、大黃（Rhubarb）、水飛薊籽（Silybum Marianum Seed）、糞臭素（Skatole）、碳酸鈉（Sodium Carbonate）、馬錢子（Strychnos Nux-Vomica Seed）、豬胰臟萃取物（Sus Scrofa Pancreas）、蒲公英（Taraxacum Officinale）、硫胺素（Thiamine）
-
-**TxGNN 知識圖譜方法依賴單一 DrugBank ID 進行節點映射**，本品為未登錄複方，系統無法辨識任何可映射節點，因此**未能產生任何疾病預測結果**。
-
-從成分組合來看，本品多數成分具有傳統消化系統或肝膽支持用途（大黃、鼠李樹皮為通便劑；水飛薊為護肝劑；蒲公英為消化促進劑；豬胰臟萃取物含消化酶），部分成分屬順勢療法（布里奧尼亞、馬錢子、石松孢子），整體性質偏向**消化輔助/肝臟保護類**複方，但目前缺乏機轉資料支持任何推論。
-
----
-
-## 臨床試驗證據
-
-目前無相關臨床試驗登錄。
+| Item | Content |
+|------|---------|
+| Approved Indications | No approved indication record |
+| Predicted Novel Indications | None (TxGNN generated no predictions) |
+| TxGNN Prediction Score | — |
+| Evidence Level | **L5** (model unable to predict; no actual research available) |
+| U.S. Market Status | ✗ Not marketed |
+| Number of NDAs | 0 |
+| Recommended Decision | **Hold** |
 
 ---
 
-## 文獻證據
+## Why is Prediction Inference Not Possible?
 
-目前無相關文獻資料。
+This candidate drug is a multi-component mixture containing:
 
----
+> Activated Charcoal, Aloe, Aluminum Oxide, Bryonia Alba Root, Chelidonium Majus, Collinsonia, Frangula Alnus Bark, Lycopodium Clavatum Spore, Potassium Carbonate, Rhubarb, Silybum Marianum Seed, Skatole, Sodium Carbonate, Strychnos Nux-Vomica Seed, Sus Scrofa Pancreas Extract, Taraxacum Officinale, Thiamine
 
-## 美國市場資訊
+**The TxGNN knowledge graph method relies on mapping a single DrugBank ID to graph nodes.** As this multi-component formulation is not registered in DrugBank, the system cannot identify any mappable nodes, and therefore **no disease prediction results were generated.**
 
-本品在美國無任何 NDA 核准紀錄，市場狀態為**Not marketed**。
-
----
-
-## 安全性考量
-
-請參閱各成分個別仿單之警語與禁忌事項。
-
-> 特別注意：**馬錢子（Strychnos Nux-Vomica Seed）** 含士的寧（Strychnine），具有神經毒性，高劑量可致命。使用前務必確認劑量安全範圍及順勢療法稀釋比例。
+From the ingredient composition, most components have traditional digestive system or hepatobiliary support uses (rhubarb and frangula alnus bark as laxatives; silybum marianum for hepatic support; taraxacum officinale as a digestive promoter; Sus Scrofa pancreas extract containing digestive enzymes), while some ingredients are homeopathic in nature (bryonia alba, strychnos nux-vomica, lycopodium clavatum). The overall character is oriented toward **digestive support/hepatic protection formulations**, but currently lacks mechanistic data to support any inference.
 
 ---
 
-## 結論與後續步驟
+## Clinical Trial Evidence
 
-**決策：Hold**
+Currently, no related clinical trials are registered.
 
-**理由：**
-TxGNN 模型因無法識別複方中的 DrugBank 節點而未能產生任何預測，加上美國無核准紀錄、缺乏安全性資料，現階段無足夠依據支持進入評估流程。
+---
 
-**若要繼續推進，需補齊以下資料：**
+## Literature Evidence
 
-- **澄清產品性質**：確認此複方屬於化學藥品、植物藥、順勢療法製劑或膳食補充劑，以決定適用的法規途徑
-- **選定主成分**：從 17 種成分中挑選 1–3 個具 DrugBank ID 的主要活性成分，重新送入 TxGNN 進行預測
-- **查詢 DrugBank**：針對 Silybum Marianum（水飛薊素/Silymarin）、Frangula Alnus（鼠李素）、Taraxacum Officinale 等有 DrugBank 登錄的成分，取得機轉資料
-- **安全性資料**：尤其需確認馬錢子（Strychnos Nux-Vomica）的劑量安全上限及毒性風險
-- **適應症界定**：若定位為消化/肝臟適應症，需提供至少 Phase 2 臨床試驗資料方可進入 L2 以上證據等級
+Currently, no related literature data are available.
+
+---
+
+## U.S. Market Information
+
+This product has no NDA approval record in the United States and its market status is **Not marketed**.
+
+---
+
+## Safety Considerations
+
+Please refer to individual package inserts for each ingredient for warnings and contraindications.
+
+> Special attention: **Strychnos Nux-Vomica Seed** contains strychnine, which has neurotoxicity and can be lethal at high doses. Before use, confirm the safe dosage range and homeopathic dilution ratio.
+
+---
+
+## Conclusion and Next Steps
+
+**Decision: Hold**
+
+**Rationale:**
+The TxGNN model was unable to generate any predictions because it could not identify DrugBank nodes in the multi-component formulation. Combined with the lack of U.S. approval record and absence of safety data, there is currently insufficient evidence to support proceeding with the assessment process.
+
+**To advance this candidate further, the following data must be supplemented:**
+
+- **Clarify product classification**: Determine whether this formulation is classified as a chemical drug, botanical drug, homeopathic preparation, or dietary supplement to establish the appropriate regulatory pathway
+- **Select key ingredient(s)**: From the 17 components, identify 1–3 main active ingredients with DrugBank IDs and resubmit to TxGNN for prediction
+- **Query DrugBank**: For ingredients with DrugBank registration such as Silybum Marianum (silymarin), Frangula Alnus (frangulins), and Taraxacum Officinale, obtain mechanism of action data
+- **Safety data**: Particularly confirm the safe dosage limit and toxicity risk for Strychnos Nux-Vomica Seed
+- **Define indications**: If positioned for digestive/hepatic indications, at least Phase 2 clinical trial data is required to achieve L2 or higher evidence level
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

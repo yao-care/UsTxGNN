@@ -14,7 +14,7 @@ permalink: /news/rutin/
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>8 news articles</strong>, with 0 predicted indications.
+<strong>Rutin</strong> currently has <strong>9 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,13 +28,21 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (9)
 
-### [Trump says he will demand drug companies split up vaccines into more doses - The Washington Post](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOclhMQWt5cVpINmo3MF9qR21zZWRhM0NuMmltRmFEeURrYWxrTEVfUmtpZEhua0ZfTjI1QjRMekZlOXdGUjRSR3JnSjVnWC1fNEFTZjg3eFNCSmRya3lGeERndWZqc0NnaTJZeDBDWjJ1Vl82T2RxNkFzSXp4YXg2NmRRQXljUW1BZWtEd19zMmxNQWVPTC1WRldCU1gzT1hkd1p3cUtIV0lnY2dTMk0zVk9IaUJMTmh6LVd3Qk1KQm5MUQ?oc=5)
+### [6 sneaky ways to eat more fiber, according to experts - The Washington Post](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkJKLXltMTlmSlZjeTJiRk9OUEItV0xtY2dUS2dzTmxIeXJHZXZZeFYtQVpER3ZSSWJqTU51ZGF4OXJybnQ1cmhlSkdBNWlzQmllODBSQ3luUFIwU0lab1EzdHF0b3p6TEZsYWRmZUVpNUt2U1RBbHVCb2l6andqSjBXNlVnZ3NlcDBOcFRLNmttTDBxaFh5bm5QaTIyVm8?oc=5)
 
 2026-09-19 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOclhMQWt5cVpINmo3MF9qR21zZWRhM0NuMmltRmFEeURrYWxrTEVfUmtpZEhua0ZfTjI1QjRMekZlOXdGUjRSR3JnSjVnWC1fNEFTZjg3eFNCSmRya3lGeERndWZqc0NnaTJZeDBDWjJ1Vl82T2RxNkFzSXp4YXg2NmRRQXljUW1BZWtEd19zMmxNQWVPTC1WRldCU1gzT1hkd1p3cUtIV0lnY2dTMk0zVk9IaUJMTmh6LVd3Qk1KQm5MUQ?oc=5)
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkJKLXltMTlmSlZjeTJiRk9OUEItV0xtY2dUS2dzTmxIeXJHZXZZeFYtQVpER3ZSSWJqTU51ZGF4OXJybnQ1cmhlSkdBNWlzQmllODBSQ3luUFIwU0lab1EzdHF0b3p6TEZsYWRmZUVpNUt2U1RBbHVCb2l6andqSjBXNlVnZ3NlcDBOcFRLNmttTDBxaFh5bm5QaTIyVm8?oc=5)
+
+---
+
+### [NASA Punched 5 Holes Into Mars. The Craters Revealed a Surprise.](https://news.google.com/rss/articles/CBMilgFBVV95cUxObC1fc3ZGT3dIcWRDR3NTekVGbTNONXhJVm5oYTZxNC1yV0QwWUtnakRvZGdEb01qMVQ0TVBoOTRrYkFwZTdzMk9oWklSZmprR1JfS1VaanhMX3JJMXRSYmxGdUcwRVRQUXVnRm1lZ3FYYzRRcUlWTXc4VGljMWktNFhwR0lHQmJFNk5Dc0VNeFVmdkxOdFE?oc=5)
+
+2026-09-19 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMilgFBVV95cUxObC1fc3ZGT3dIcWRDR3NTekVGbTNONXhJVm5oYTZxNC1yV0QwWUtnakRvZGdEb01qMVQ0TVBoOTRrYkFwZTdzMk9oWklSZmprR1JfS1VaanhMX3JJMXRSYmxGdUcwRVRQUXVnRm1lZ3FYYzRRcUlWTXc4VGljMWktNFhwR0lHQmJFNk5Dc0VNeFVmdkxOdFE?oc=5)
 
 ---
 
@@ -62,27 +70,11 @@ Source: [vox.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxNQnZEdDY0U
 
 ---
 
-### [‘Babies are dying’: How Pennsylvania’s measles outbreak changed the vaccine mindset of this Amish country midwife](https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjdIZlQxeWs2QXhIQWJuMHJDaEVSSEg5ZlhxWTZsY18ydV9pdWZldmlPMzdjb3NLb0swLTlVS1ZLbENJN3ZYNTFxbnY3YUF4QnVEWFZjMHJWbEM1RUhNbXFtNWVqdmFtR2psMHhraWlyaXBFU0IwdUhkeXBmMmdkdDRVNkx3UU81RXBEVkdlNFdhM2NPM0JEa1JvbEtHQURfVkd4Rw?oc=5)
-
-2026-09-18 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [Inquirer.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjdIZlQxeWs2QXhIQWJuMHJDaEVSSEg5ZlhxWTZsY18ydV9pdWZldmlPMzdjb3NLb0swLTlVS1ZLbENJN3ZYNTFxbnY3YUF4QnVEWFZjMHJWbEM1RUhNbXFtNWVqdmFtR2psMHhraWlyaXBFU0IwdUhkeXBmMmdkdDRVNkx3UU81RXBEVkdlNFdhM2NPM0JEa1JvbEtHQURfVkd4Rw?oc=5)
-
----
-
 ### [From toothbrushes to aerospace: Graphene research advances fibers that conduct heat efficiently](https://news.google.com/rss/articles/CBMiigFBVV95cUxONTVreWl2cVhob1lXeVpiS1pVUzdPVkxPME5xQnRSNXEwMTN6SE5heGdlZEFxOUthNGU1M29UNEFtNVY3Qk9hQ05sb1FZX3pENnpMODdUcG1PWXVmUkNpdzQ0LUZrdWp3RVdjOWpDZjRvWHg0eWVYSFhOOGhOZnloNl8zWFhSMkJIOVE?oc=5)
 
 2026-09-18 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [Phys.org](https://news.google.com/rss/articles/CBMiigFBVV95cUxONTVreWl2cVhob1lXeVpiS1pVUzdPVkxPME5xQnRSNXEwMTN6SE5heGdlZEFxOUthNGU1M29UNEFtNVY3Qk9hQ05sb1FZX3pENnpMODdUcG1PWXVmUkNpdzQ0LUZrdWp3RVdjOWpDZjRvWHg0eWVYSFhOOGhOZnloNl8zWFhSMkJIOVE?oc=5)
-
----
-
-### [Sepsis And Antibiotics: Accountability Matters When Every Minute Counts](https://news.google.com/rss/articles/CBMivwFBVV95cUxOQUtmWGVwdjBpa1EzZFpJd2JLaXYtTXFrOVNmUEJUMDB2S1ZrOWhBMkVUUzNuQ3ZvZWlKaXdPZkhfQ2JhVTgzZVU5OUFxZF9Qc0M3T3NnOHhKZ09MbGc0Y2tUV1ctOGRuVFNvOFpxQ1lLNko2ZmV2bk00WWdhRzloUUQ3ZFQ4VkxxNEhRamxJSFdMcVRSWDdPeHgzbEMxYk4yZHJNY1FDbDF0MXFvdmh3X3Y2YnQyUE5WZkdCZEpmUQ?oc=5)
-
-2026-09-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
-
-Source: [NDTV](https://news.google.com/rss/articles/CBMivwFBVV95cUxOQUtmWGVwdjBpa1EzZFpJd2JLaXYtTXFrOVNmUEJUMDB2S1ZrOWhBMkVUUzNuQ3ZvZWlKaXdPZkhfQ2JhVTgzZVU5OUFxZF9Qc0M3T3NnOHhKZ09MbGc0Y2tUV1ctOGRuVFNvOFpxQ1lLNko2ZmV2bk00WWdhRzloUUQ3ZFQ4VkxxNEhRamxJSFdMcVRSWDdPeHgzbEMxYk4yZHJNY1FDbDF0MXFvdmh3X3Y2YnQyUE5WZkdCZEpmUQ?oc=5)
+Source: [phys.org](https://news.google.com/rss/articles/CBMiigFBVV95cUxONTVreWl2cVhob1lXeVpiS1pVUzdPVkxPME5xQnRSNXEwMTN6SE5heGdlZEFxOUthNGU1M29UNEFtNVY3Qk9hQ05sb1FZX3pENnpMODdUcG1PWXVmUkNpdzQ0LUZrdWp3RVdjOWpDZjRvWHg0eWVYSFhOOGhOZnloNl8zWFhSMkJIOVE?oc=5)
 
 ---
 
@@ -90,7 +82,23 @@ Source: [NDTV](https://news.google.com/rss/articles/CBMivwFBVV95cUxOQUtmWGVwdjBp
 
 2026-09-16 <span class="news-indication-tag">heart condition</span> <span class="news-indication-tag">UC</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVzhwMjdGcTZJajZpaDh6Mjc4V0VxOVBheGxDaXdnNlA0S2txYmFZdjJ1RmQ5Y1Nrcnd2dXEyREVXZTI0eDBhaVYwdHc1Tm1oU2cxU2FYeXg5LURxbXBUbXhrc3N6dncxSnJxX0paSFk2dGFONXVRdXR3cDNYS09leEdtdk56QVBZb3oxM2tBUGlMRGE0bVBfUXZEOUt6THFsZ2VzZElNRTU2d001a1MxNVJhWQ?oc=5)
+Source: [news-medical.net](https://news.google.com/rss/articles/CBMiswFBVV95cUxNVzhwMjdGcTZJajZpaDh6Mjc4V0VxOVBheGxDaXdnNlA0S2txYmFZdjJ1RmQ5Y1Nrcnd2dXEyREVXZTI0eDBhaVYwdHc1Tm1oU2cxU2FYeXg5LURxbXBUbXhrc3N6dncxSnJxX0paSFk2dGFONXVRdXR3cDNYS09leEdtdk56QVBZb3oxM2tBUGlMRGE0bVBfUXZEOUt6THFsZ2VzZElNRTU2d001a1MxNVJhWQ?oc=5)
+
+---
+
+### [You should probably be eating more whole grains. Here’s what to do](https://news.google.com/rss/articles/CBMifEFVX3lxTE5MbnZnN1N3cGlhajdJMzl2YlJMRmlCX3dyTGdtR0w4UU9seTg0YlYyRXRFeUt2WFIzbEtMWnBQVmxSb28wdzY3cndvYTVqOW55QTNFalJmcG5YTVZBWEdZR1R5NzhMbnA2V1IxSHZXNmt6UW5CRW9OdVFtRVQ?oc=5)
+
+2026-09-15 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [cnn.com](https://news.google.com/rss/articles/CBMifEFVX3lxTE5MbnZnN1N3cGlhajdJMzl2YlJMRmlCX3dyTGdtR0w4UU9seTg0YlYyRXRFeUt2WFIzbEtMWnBQVmxSb28wdzY3cndvYTVqOW55QTNFalJmcG5YTVZBWEdZR1R5NzhMbnA2V1IxSHZXNmt6UW5CRW9OdVFtRVQ?oc=5)
+
+---
+
+### [Scientists Just Discovered That This Popular Vitamin Is Also Linked to Better Aging](https://news.google.com/rss/articles/CBMijwFBVV95cUxOb2s4RVExRHphaEI0VzhnZnYzbHNuTVlya0U5dWwybkl1MmxIUWZ6d1owQlBPOUdVRFkzV3R4VWxIcFUxblJHbHhtVnFkTjRfenE5dFBmT2x0UzJOWk16NFFhWGZZQ1plT3p1ZVV5WGstSjRSeHZaTVNiaHFqcFoyamxqeENhTkQ1dk9zZGw3cw?oc=5)
+
+2026-09-15 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [AOL.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxOb2s4RVExRHphaEI0VzhnZnYzbHNuTVlya0U5dWwybkl1MmxIUWZ6d1owQlBPOUdVRFkzV3R4VWxIcFUxblJHbHhtVnFkTjRfenE5dFBmT2x0UzJOWk16NFFhWGZZQ1plT3p1ZVV5WGstSjRSeHZaTVNiaHFqcFoyamxqeENhTkQ1dk9zZGw3cw?oc=5)
 
 ---
 

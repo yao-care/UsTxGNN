@@ -3,7 +3,7 @@ layout: default
 title: "tumor (cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about tumor (cancer). 6 articles, 1 related drugs."
+description: "Health news about tumor (cancer). 5 articles, 1 related drugs."
 permalink: /news/cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cancer/
 ---
 
 <p class="key-answer" data-question="What news is there about tumor (cancer)?">
-<strong>tumor (cancer)</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
+<strong>tumor (cancer)</strong> currently has <strong>5 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ This page brings together the latest health news about “tumor” and lists the
 </ul>
 </div>
 
-## Related News (6)
+## Related News (5)
 
 ### [A woman's postpartum symptoms wouldn't go away. A brain tumor was to blame. - CBS News](https://news.google.com/rss/articles/CBMihAFBVV95cUxQVFNxTEFndUhQVWxpd1JmZGJ4MkZpZGRLT2FTdlhpaTFqYzE1ak55enNFcTc4emF0SmxKS2psbzBTY2o1dHg3ZUtZLUtKZkctUmlFWVN5WElGTVlYcUNTeHJZUzgyNzZvS1ZUN2lDWF9BWmVvZEkya2ZoZVJDRVhlS1Q1aE4?oc=5)
 
@@ -39,19 +39,19 @@ Source: [CBS News](https://news.google.com/rss/articles/CBMihAFBVV95cUxQVFNxTEFn
 
 ---
 
+### [Loss of Y chromosome in men could be an early warning sign of cancer](https://news.google.com/rss/articles/CBMidkFVX3lxTE5JTHBkejdlYTB5dFdVWWJCSm80enFuOUEyVEduc3Zfa1c3Q0JLMHBtNDBtbkItMEVhSzEwbV9MMENCMFNYZWk3eFBORUR1clJFbmczMjF5SEVtb3MtRHMyOEFSeXJFZjU2RzRmS2xPejVZSGp1TUE?oc=5)
+
+2026-09-19
+
+Source: [phys.org](https://news.google.com/rss/articles/CBMidkFVX3lxTE5JTHBkejdlYTB5dFdVWWJCSm80enFuOUEyVEduc3Zfa1c3Q0JLMHBtNDBtbkItMEVhSzEwbV9MMENCMFNYZWk3eFBORUR1clJFbmczMjF5SEVtb3MtRHMyOEFSeXJFZjU2RzRmS2xPejVZSGp1TUE?oc=5)
+
+---
+
 ### [Doctors Say This 'Embarrassing' Symptom Could Be A Warning Sign Of Colorectal Cancer](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdjVIZjlOZVpUYXhWTm5RelRORENGV2dTMmNqdlFlTHB5dXFEQmRvb0t5TGNSMEU2S2hVcU15NmhtbWJjUk0zT3JNR081SkZKVzN4YW9ka3JJUjRQSkNLQWZ4LXIwcVVOYXVCUFpGOERVcnBKQjBhbTZIYW9pMjQ4SDdrVTNuZ2Ywc2kxVEQ5VUptbDY0T1o5WHNXeVE0bi11czE0a2dKZUZKSGtpVXJGemNjMnJOaWU1RWdPTFpscG9SVW56c3pTZ3c5VVItOFVNd29ma0E5TFZtd9IB3wFBVV95cUxObXhrQWdYeHZ6TGE5OGRSdk9IdXpoTEpBRG55WFhrRm01X2VSNTl4cms0TGVpYXBUS05wMWRBLU9UUHV4eVlmOVpGRFVxbEF0ak1Xb2VOS2tXZS11VlNvSE1sdFBiczFVT05nUmtPT1Z2emhoOUwzOXpFUi0wNDFnWjQyd3dPUENEdzFDV0VaSldTZ0RtT1pBUHRZR09qd3Uwb1QwYVhLZl9hN0twdGV3bzZFSExJQ3ZSR1ZtVzA5R09nRVVkTEdPQ0lselVUS1l6UHNwQ1VTODQzajFvT3B3?oc=5)
 
 2026-09-19
 
-Source: [huffpost.com](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdjVIZjlOZVpUYXhWTm5RelRORENGV2dTMmNqdlFlTHB5dXFEQmRvb0t5TGNSMEU2S2hVcU15NmhtbWJjUk0zT3JNR081SkZKVzN4YW9ka3JJUjRQSkNLQWZ4LXIwcVVOYXVCUFpGOERVcnBKQjBhbTZIYW9pMjQ4SDdrVTNuZ2Ywc2kxVEQ5VUptbDY0T1o5WHNXeVE0bi11czE0a2dKZUZKSGtpVXJGemNjMnJOaWU1RWdPTFpscG9SVW56c3pTZ3c5VVItOFVNd29ma0E5TFZtd9IB3wFBVV95cUxObXhrQWdYeHZ6TGE5OGRSdk9IdXpoTEpBRG55WFhrRm01X2VSNTl4cms0TGVpYXBUS05wMWRBLU9UUHV4eVlmOVpGRFVxbEF0ak1Xb2VOS2tXZS11VlNvSE1sdFBiczFVT05nUmtPT1Z2emhoOUwzOXpFUi0wNDFnWjQyd3dPUENEdzFDV0VaSldTZ0RtT1pBUHRZR09qd3Uwb1QwYVhLZl9hN0twdGV3bzZFSExJQ3ZSR1ZtVzA5R09nRVVkTEdPQ0lselVUS1l6UHNwQ1VTODQzajFvT3B3?oc=5)
-
----
-
-### [A colorectal dietitian shares 2 foods she eats regularly and 1 she avoids to lower her cancer risk](https://news.google.com/rss/articles/CBMilwFBVV95cUxOQllJSTZEWnk2dnNFUGo2Uk9aYW56d2tIcDEtY0xhTVM0cVdiaDUyT3pEQjg3dGM3U0JCMnoya3VfNUhPRkxVcFYxUHpwZmo0UnRlNDdSQVVHaXlVSWFQWkYzWnd6bl8yYk9lVTZmMW8zeXNfZ0c3Uy1jZE5hWk9teU5WZklXLThObkpXRHpQN0RiQ2RIWjc0?oc=5)
-
-2026-09-19
-
-Source: [businessinsider.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxOQllJSTZEWnk2dnNFUGo2Uk9aYW56d2tIcDEtY0xhTVM0cVdiaDUyT3pEQjg3dGM3U0JCMnoya3VfNUhPRkxVcFYxUHpwZmo0UnRlNDdSQVVHaXlVSWFQWkYzWnd6bl8yYk9lVTZmMW8zeXNfZ0c3Uy1jZE5hWk9teU5WZklXLThObkpXRHpQN0RiQ2RIWjc0?oc=5)
+Source: [HuffPost](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdjVIZjlOZVpUYXhWTm5RelRORENGV2dTMmNqdlFlTHB5dXFEQmRvb0t5TGNSMEU2S2hVcU15NmhtbWJjUk0zT3JNR081SkZKVzN4YW9ka3JJUjRQSkNLQWZ4LXIwcVVOYXVCUFpGOERVcnBKQjBhbTZIYW9pMjQ4SDdrVTNuZ2Ywc2kxVEQ5VUptbDY0T1o5WHNXeVE0bi11czE0a2dKZUZKSGtpVXJGemNjMnJOaWU1RWdPTFpscG9SVW56c3pTZ3c5VVItOFVNd29ma0E5TFZtd9IB3wFBVV95cUxObXhrQWdYeHZ6TGE5OGRSdk9IdXpoTEpBRG55WFhrRm01X2VSNTl4cms0TGVpYXBUS05wMWRBLU9UUHV4eVlmOVpGRFVxbEF0ak1Xb2VOS2tXZS11VlNvSE1sdFBiczFVT05nUmtPT1Z2emhoOUwzOXpFUi0wNDFnWjQyd3dPUENEdzFDV0VaSldTZ0RtT1pBUHRZR09qd3Uwb1QwYVhLZl9hN0twdGV3bzZFSExJQ3ZSR1ZtVzA5R09nRVVkTEdPQ0lselVUS1l6UHNwQ1VTODQzajFvT3B3?oc=5)
 
 ---
 
@@ -63,19 +63,11 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMiogJBVV95cU
 
 ---
 
-### [Rare gene drastically raises lung cancer risk in those who never smoked](https://news.google.com/rss/articles/CBMitAFBVV95cUxQYTAtWUpfX0djSXhlZHRRRGJfem10MjNydHZnQXJ3NTF3T28zT21KcnZMZ0huTUxDcTZPY2VnQmhxYlhKVlhLQkRDMU93MGgzU3RGcDNOWHBWY1Z6dHFvdW9vSWxROTRsaVRhSDlTZ0YzY01MLThVYW11cGtrQ0Fwc2x4TmdhNnlfQ0toRE43SlVQajRETXM1OU5udVI4MVplS0d3WC13LTRoejJZSTRzMnFyM28?oc=5)
+### [This Rare Gene Drastically Raises Lung Cancer Risk in People Who Never Smoked](https://news.google.com/rss/articles/CBMihAFBVV95cUxOME1TUjU1T3d6b1pITWRVY2Jaem02VXFsU0gwcGFGS0JRTEVkOW50d1ZJR2NJd1BXM1NCRWt1YmZ0aTFCLVJxdGh1anQzWkgteEhRaDdRbDAzNzhtVkR1SU9qck9EMGk2b0hQN0lfRFRfdHNuUDlHWnpub3MzelhnYklGeWY?oc=5)
 
 2026-09-17
 
-Source: [seattletimes.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQYTAtWUpfX0djSXhlZHRRRGJfem10MjNydHZnQXJ3NTF3T28zT21KcnZMZ0huTUxDcTZPY2VnQmhxYlhKVlhLQkRDMU93MGgzU3RGcDNOWHBWY1Z6dHFvdW9vSWxROTRsaVRhSDlTZ0YzY01MLThVYW11cGtrQ0Fwc2x4TmdhNnlfQ0toRE43SlVQajRETXM1OU5udVI4MVplS0d3WC13LTRoejJZSTRzMnFyM28?oc=5)
-
----
-
-### [Sepsis And Antibiotics: Accountability Matters When Every Minute Counts](https://news.google.com/rss/articles/CBMivwFBVV95cUxOQUtmWGVwdjBpa1EzZFpJd2JLaXYtTXFrOVNmUEJUMDB2S1ZrOWhBMkVUUzNuQ3ZvZWlKaXdPZkhfQ2JhVTgzZVU5OUFxZF9Qc0M3T3NnOHhKZ09MbGc0Y2tUV1ctOGRuVFNvOFpxQ1lLNko2ZmV2bk00WWdhRzloUUQ3ZFQ4VkxxNEhRamxJSFdMcVRSWDdPeHgzbEMxYk4yZHJNY1FDbDF0MXFvdmh3X3Y2YnQyUE5WZkdCZEpmUQ?oc=5)
-
-2026-09-17
-
-Source: [NDTV](https://news.google.com/rss/articles/CBMivwFBVV95cUxOQUtmWGVwdjBpa1EzZFpJd2JLaXYtTXFrOVNmUEJUMDB2S1ZrOWhBMkVUUzNuQ3ZvZWlKaXdPZkhfQ2JhVTgzZVU5OUFxZF9Qc0M3T3NnOHhKZ09MbGc0Y2tUV1ctOGRuVFNvOFpxQ1lLNko2ZmV2bk00WWdhRzloUUQ3ZFQ4VkxxNEhRamxJSFdMcVRSWDdPeHgzbEMxYk4yZHJNY1FDbDF0MXFvdmh3X3Y2YnQyUE5WZkdCZEpmUQ?oc=5)
+Source: [nytimes.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxOME1TUjU1T3d6b1pITWRVY2Jaem02VXFsU0gwcGFGS0JRTEVkOW50d1ZJR2NJd1BXM1NCRWt1YmZ0aTFCLVJxdGh1anQzWkgteEhRaDdRbDAzNzhtVkR1SU9qck9EMGk2b0hQN0lfRFRfdHNuUDlHWnpub3MzelhnYklGeWY?oc=5)
 
 ---
 

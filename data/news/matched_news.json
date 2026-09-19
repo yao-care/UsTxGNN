@@ -1,18 +1,20 @@
 {
-  "generated": "2026-09-19T01:47:20.373160+00:00",
-  "count": 53,
+  "last_updated": "2026-09-19T01:47:20.318025+00:00",
+  "total_count": 68,
+  "matched_count": 53,
   "news": [
     {
       "id": "503cf8b6086c",
       "title": "The childhood hobby that leads to lower stress, fewer mental health problems and better brain function as adults - New York Post",
       "published": "2026-09-18T18:41:00+00:00",
+      "summary": "The childhood hobby that leads to lower stress, fewer mental health problems and better brain function as adults&nbsp;&nbsp;New York PostThe Surprising Health Benefits of Reading a Book&nbsp;&nbsp;Time MagazineReading and associations with brain health, cognition, well-being, and mental health&nbsp;&nbsp;Cambridge University Press & AssessmentReading for pleasure can improve wellbeing - study&nbsp;&nbsp;bbc.comReading for pleasure boosts memory, empathy and mental health&nbsp;&nbsp;New Scientist",
       "sources": [
         {
           "name": "New York Post",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYVpIMng0WE9BNHJsNnQ5RnJEX3lJVDNsdHdnX1E1Y19YNG94eU9ZSkJWak1odWxpNG0wY0dCNVp0dlluM2ZzY2oxelVwb3VHcm9lZ0ZERXhyZ0FPM082d3J6OG1HWG1TVFJyM3l0OVVNcXU4Q2JHZTI0Nm9YcU1meHQycmN2Q1hoYkR3dHlzZ29mODFXUE9HT3Y1Ym0yaU5OU3BjSjhVRE16WW8?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "arthritis",
@@ -54,13 +56,14 @@
       "id": "a49c2069f60b",
       "title": "Finding the cells that put our brain to sleep - Ars Technica",
       "published": "2026-09-18T17:49:50+00:00",
+      "summary": "Finding the cells that put our brain to sleep&nbsp;&nbsp;Ars TechnicaInducing sleep through neural stimulation&nbsp;&nbsp;AIP.ORGDiscovery of Rare Brain Cells That Help Drive Sleep&nbsp;&nbsp;respiratory-therapy.comScientists Find Group of Brain Cells That Can Synchronize the Brain and Trigger Sleep in Mice&nbsp;&nbsp;Medical DailyRare brain cells can actually push the brain into sleep&nbsp;&nbsp;earth.com",
       "sources": [
         {
           "name": "Ars Technica",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUVl5ZW0xYnpDM0Q4VExwa0RZTXNlYVFlMFdtUEZYZ1MxcUg5eTVwdjY4bHRKbGFYVUpZZzgwSFV3aVNmT3I3akRubzJvUjVvbjFLRkN5b25USEhyS3cyQUFVSlQ2RFhGTE1WTFBhWG1uam00Q0dWbENydGM4dFJCbXJTdUhYMkZFSDB2TWpXRQ?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "myocardial infarction",
@@ -173,16 +176,30 @@
       ]
     },
     {
+      "id": "bc06958b8a18",
+      "title": "Study finds possibly problematic drug combos being prescribed to older adults - The Washington Post",
+      "published": "2026-09-18T17:00:01+00:00",
+      "summary": "Study finds possibly problematic drug combos being prescribed to older adults&nbsp;&nbsp;The Washington PostSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOS1jUE1BM2lldjhNUUdwbXJsNmhWM1pfRnFYQzNxX0NXUUpfa2pJVElRenlrakNoMi13T1VEU0dOLVBBRFFSSHYybWJwbHlDbzZlX1luSlFhV2JQbkpvVDhBbzBRbjc1S3JRNFZ3U1BXdE10RmZpdFE5VzNnb3BiZlpfNldwa0hDRW43UTBfNThzREhwRU5RTXB6eVIwU00zQjN4UXRhZ2lBaFpKcGZZa1VmYmIwWElsNmpPZWVPQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "e74c78b3fd46",
       "title": "A Famous Mediterranean Diet Study Was Stopped Early—Here’s Why Researchers Felt Continuing Was Unethical - Bored Panda",
       "published": "2026-09-18T16:28:20+00:00",
+      "summary": "A Famous Mediterranean Diet Study Was Stopped Early—Here’s Why Researchers Felt Continuing Was Unethical&nbsp;&nbsp;Bored Panda",
       "sources": [
         {
           "name": "Bored Panda",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLVlwOV83VFhXcFNwOFlSajQ0VTFxR2d4RmlaQ0dNSWZXeWE2MDUzaUEweUhoNTYyaGxZbzJ6ZUxIczUtcEZYdVhOTTdod0lDZkQwUl9fdWp6WjUtRUtWSnlZTUU0cU9IZHBzWjNWcW5vNm5ia0tFNnVhVzFzclFDRWdObnBKeS1fWXc?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "arthritis",
@@ -224,13 +241,14 @@
       "id": "f60188ce78b0",
       "title": "How this common age-related eye disease leads to hallucinations - The Washington Post",
       "published": "2026-09-18T16:00:00+00:00",
+      "summary": "How this common age-related eye disease leads to hallucinations&nbsp;&nbsp;The Washington Post",
       "sources": [
         {
           "name": "The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY1ZoRnNtSlh1LUQ4c2F5eVByRDBaaDAyRHpaWmNsV0UwQXMxRWNhODViOF9QaU5CUGFQcTNPMmpodW1CdzVEalJ6SWJRZUZWeHFEdDlzdHZhUEZVaTViQ0k3VUF0eFZFTWdKc3hFRXJDLUR1S245R3JZa29YbWlzTjZ4aXB5dlh1RTR0OFpnRjROS0thSUxqWWtMRFhhYS1w?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "inflammatory bowel disease",
@@ -268,13 +286,14 @@
       "id": "d042985c45e8",
       "title": "Consuming extra vitamin D is less good than it sounds - The Economist",
       "published": "2026-09-18T15:31:26+00:00",
+      "summary": "Consuming extra vitamin D is less good than it sounds&nbsp;&nbsp;The EconomistIn fall and winter, limited sunlight can drive down vitamin D, raising deficiency concerns&nbsp;&nbsp;KOKHPaediatrician names 48p-a-day vitamin kids need in winter to stay healthy&nbsp;&nbsp;Liverpool EchoDoctor issues warning to anyone who takes Vitamin D&nbsp;&nbsp;tyla.com",
       "sources": [
         {
           "name": "The Economist",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSFdHNlkwTzJWWGEwSE5UYUI2eU1zQjhsS2VqZDBvN2cySG9Xc0NJa0pLWk1iSFZaMHVaNWRHUlV5UmMtZXR1MnhCMmw3Y241WjdtTDUxUDlfb1ZYa1BQMjJxakt3TjhGbUY5NExKMjRSMW1jTzNaWVFIQlBHX0dkUmhJblVCRTJNMlJzZ0s4N2s2THJGd2ZjOGR1U1c1MWNEblNnckM0T205RDBjeDN2QnR0MA?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "myocardial infarction",
@@ -359,13 +378,14 @@
       "id": "d6bf83baaeae",
       "title": "Neuroscience offers new insights into how our brain solves ‘the cocktail party problem’ - The Conversation",
       "published": "2026-09-18T14:41:38+00:00",
+      "summary": "Neuroscience offers new insights into how our brain solves ‘the cocktail party problem’&nbsp;&nbsp;The Conversation",
       "sources": [
         {
           "name": "The Conversation",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaHFoWkxIaXgwbUdBTWltXy1Pdm5tSUJsU2o2YTNJYW0tUkJIcjFfelNsUkFrUjFsMkhRRHBwUTBhNF9Ja1A2aXRqN3dHNUVUU2RUalZ0Y3hOZ3BrQkVUd19KVUdCWXdMblJvdVBPZjRXSHNaVmJmbXZxNVB0ai1EYV9FU3NZMUJ5b3BWdW1OV2dnV1VYSTZmQTl4b1JyOWw5X2cxUnp6aS1zbjFnQWpveW9qQ2NRc01KMURyaw?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "arthritis",
@@ -407,13 +427,14 @@
       "id": "fdf5df9f4c92",
       "title": "Doctors find shocking ‘foreign bodies’ inside a man’s chest, pelvis, bladder — and penis - New York Post",
       "published": "2026-09-18T14:08:00+00:00",
+      "summary": "Doctors find shocking ‘foreign bodies’ inside a man’s chest, pelvis, bladder — and penis&nbsp;&nbsp;New York PostDoctors Scanned This Man’s Chest and Found a Sewing Needle in His Heart&nbsp;&nbsp;GizmodoChinese man visits hospital with blood in urine, doctors find 36 mm needle pierced deep in his heart&nbsp;&nbsp;Deccan HeraldChina man found with sewing needle lodged near heart | Tap to know more | Inshorts&nbsp;&nbsp;InshortsDoctors Found Dozens of Needles Hidden in a Man's Body – Including One",
       "sources": [
         {
           "name": "New York Post",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNelh1aTFVYTMxa0JlSDkzdjUtbjhHelNzenV3MVVvaHdVckQ4UEotejh4MWQyUGw5WVhEZ1lzdGtSOW5PUmUtMGZHM08wbjNPS2pVSEtUeUhDT2I5X1lvV1ZHWTA0WGExN2M3RWRXelBFQmNJUzAwR2d1cFJFcHBNNlpPWlBXYjZCVnJUaF9ZTDhvX0JhdUE?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "arthritis",
@@ -452,16 +473,30 @@
       ]
     },
     {
+      "id": "910316c3d5b0",
+      "title": "Inside one woman’s psychedelic experiment to treat Lyme disease - The Washington Post",
+      "published": "2026-09-18T14:06:15+00:00",
+      "summary": "Inside one woman’s psychedelic experiment to treat Lyme disease&nbsp;&nbsp;The Washington Post",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX3BhNkNGeEJoeVhzUEZPcGw4RV9nTGZCR0J6d1kzdXVMb2NoeEJfTTRwWDhZSzJYZHZSU2lDb2NUZlhQdEk4SENZd29wVVdHcXRpV2xDYzRoRDBnVDdkb2NjVFVYaVBORzdaQ1paa1VjU1BYTVpwME9CS1hvS3VIOXdtTW4yRVc0X1ZUcWlmOXJVWGpYUzdmbDd2a0tKb1FpQ3ZjaDJwRHZ6WHU1VzZEbHhtMGdvLUxqTHBKMGJB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "a3002a7d3cdd",
       "title": "Feather found in dinosaur poop might explain how birds beat extinction - The Seattle Times",
       "published": "2026-09-18T13:14:52+00:00",
+      "summary": "Feather found in dinosaur poop might explain how birds beat extinction&nbsp;&nbsp;The Seattle TimesA fossil feather preserved inside dinosaur poop could help explain why birds survived the mass extinction&nbsp;&nbsp;CNNA 66-Million-Year-Old Feather Trapped in Dinosaur Poop Might Help Explain Why Some Birds Survived Mass Extinction&nbsp;&nbsp;smithsonianmag.comIn 2016, a Montana researcher picked up a rock half the size of a golf ball; 10 years later, scans showed dinosaur dung holding the finest",
       "sources": [
         {
           "name": "The Seattle Times",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUHg5SGhWZF9qelRnVXZYbl84RXFTNmVaLVI3YjA2aUlvUHlsSGExQncxLTFJczluWm9ZZmVxdkRFYUJzRmFud0U2a2haVHhqMXROVEo3eGV5aUVoVjJPSDNZX01JQTJ1OWRLV3oyVnVSZGRfejNUVXpGbXlLZlFQRERMb3VTZUtmYmtzOFRHQnJwVkhkUFJvQzhSQjNsb1g3YzVMWUhiTWQxa1NBbnQxRDBlVQ?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "myocardial infarction",
@@ -546,13 +581,14 @@
       "id": "ea57390060ae",
       "title": "Learning another language may be one of the best ways to keep your brain healthy as you age - The Conversation",
       "published": "2026-09-18T12:37:06+00:00",
+      "summary": "Learning another language may be one of the best ways to keep your brain healthy as you age&nbsp;&nbsp;The ConversationPsychology reveals why learning a new language can keep your brain younger&nbsp;&nbsp;Moneycontrol.com",
       "sources": [
         {
           "name": "The Conversation",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV0RBRXZjUmlLN3J5YWtGMjhvTGE1bTlDTWo4RjEyV3c2NTFUclBGb29WcjdNa25fdUxnQlNER2NqNk5HNkI3TXd6bzlKcGNoZTRHcGEzMHZTWS15TVliMW9teDl1OXdZS3hWbjlMRnZ2aTFHZXo2c0ZYZVVnTmlyckpiU0UwWG9Td2pxVlNrd3BrNW9HaUUzdnNQbmcxSWJUVDdWRUJ0RWlwemxlMzBoYmFheVg2Wk9rN0xRMTJqN0FwUkVq?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "arthritis",
@@ -594,13 +630,14 @@
       "id": "85cf7fb5748b",
       "title": "‘Clear retribution’: dismay as key Alzheimer’s study cancelled amid Trump attacks on science - The Guardian",
       "published": "2026-09-18T11:01:00+00:00",
+      "summary": "‘Clear retribution’: dismay as key Alzheimer’s study cancelled amid Trump attacks on science&nbsp;&nbsp;The Guardian",
       "sources": [
         {
           "name": "The Guardian",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeTlJV1VZUkw5ZnBQa2ZqN2VIZFR3ejVUcnFCME1FQWhVa0l5MUgzQUFCZ1VMTVZfY2hOa0NRLTNFNEkxZF9kaFpvNDJUV2tPLUgzMkdQVmd6aW9LS1hIcEhTdnZNdHV1bjdreE1fSmt3VFBScDRXcG5Velg5YXlzdEIwb2JmQ0paenBuQWZsY1NBeG11Mms4?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "myocardial infarction",
@@ -650,13 +687,14 @@
       "id": "4e29e2b55e2e",
       "title": "Textbook Rewrite: The Human Brain Has Two Distinct Origins, Scientists Discover",
       "published": "2026-09-18T09:04:49+00:00",
+      "summary": "Textbook Rewrite: The Human Brain Has Two Distinct Origins, Scientists Discover&nbsp;&nbsp;ScienceAlertHuman brain is two separate organs, Stanford Medicine-led research finds&nbsp;&nbsp;Stanford MedicineTwo parallel neural ectoderm progenitors contribute to the developing brain&nbsp;&nbsp;NatureYour Brain Isn't One Organ. New Research Says It's Two&nbsp;&nbsp;YahooOur brain evolved from two primitive nervous systems that merged&nbsp;&nbsp;New Scientist",
       "sources": [
         {
           "name": "ScienceAlert",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTk5LQUNIZXJUMEdqbmFNbXJTdTFIMDkwWVROaVJrS3VFZTlNbnhpeDg2d29oODNZUTR4bjdTZlY0Ym1MazlRVXRNMkFRUTByUko1bVJ0NkttVnpRaGZUOVhxSlBBLTQ2SkRxZ1piZWlRTEtjcTAtN09neDVseHBmVDBFLXpVSk15OUNpWmxDMjUwYkE?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "myocardial infarction",
@@ -741,13 +779,14 @@
       "id": "34882d8d9fbb",
       "title": "‘Babies are dying’: How Pennsylvania’s measles outbreak changed the vaccine mindset of this Amish country midwife",
       "published": "2026-09-18T09:01:01+00:00",
+      "summary": "‘Babies are dying’: How Pennsylvania’s measles outbreak changed the vaccine mindset of this Amish country midwife&nbsp;&nbsp;Inquirer.comMeasles finds gaps in vaccination. Protect your family by getting the shot (Your Letters)&nbsp;&nbsp;syracuse.comPeople who are part of Plain communities do not have one shared opinion on vaccination&nbsp;&nbsp;lancasteronline.comAs cases climb in Pa., how do you know if you need another measles shot?&nbsp;&nbsp;PennLive.comLetter: Vaccinations crucial to savin",
       "sources": [
         {
           "name": "Inquirer.com",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjdIZlQxeWs2QXhIQWJuMHJDaEVSSEg5ZlhxWTZsY18ydV9pdWZldmlPMzdjb3NLb0swLTlVS1ZLbENJN3ZYNTFxbnY3YUF4QnVEWFZjMHJWbEM1RUhNbXFtNWVqdmFtR2psMHhraWlyaXBFU0IwdUhkeXBmMmdkdDRVNkx3UU81RXBEVkdlNFdhM2NPM0JEa1JvbEtHQURfVkd4Rw?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "myocardial infarction",
@@ -863,13 +902,14 @@
       "id": "377b326fb80a",
       "title": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
       "published": "2026-09-18T09:00:00+00:00",
+      "summary": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons&nbsp;&nbsp;WIREDThe specter of AI-enabled bioweapons is a wake-up call for biotech&nbsp;&nbsp;MIT Technology ReviewWhat AI can and cannot do in biosecurity&nbsp;&nbsp;Your Local EpidemiologistGautam Mukunda: AI's greatest threat is biological, not robotic&nbsp;&nbsp;The StateAI Disrupts U.S. Biodefense: OpenAI-Backed Capital and&nbsp;&nbsp;GlobeNewswire",
       "sources": [
         {
           "name": "WIRED",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54cVRXQ3VMMVF6TnhodDV5YnB3Wmo3Y0huUm96VDBPRndGaC1JdWV2b2RaOWd6aHdZQmFjaFFxZmlQM0VCVTFpa3hmdlhpaUk2bjlLcktVUHlyWlZaOWtrSFZvT0tTcEsxN3Q0d0tsSmRNM1NST1hmVQ?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "myocardial infarction",
@@ -919,13 +959,14 @@
       "id": "1f8c3ab041e2",
       "title": "​Heart health: Cholesterol, weight, blood sugar, and blood pressure drop with just ONE food change, study suggests​ - The Times of India",
       "published": "2026-09-18T05:36:00+00:00",
+      "summary": "​Heart health: Cholesterol, weight, blood sugar, and blood pressure drop with just ONE food change, study suggests​&nbsp;&nbsp;The Times of IndiaWhat to eat for breakfast, lunch and dinner to boost your heart health&nbsp;&nbsp;The TelegraphScientists find the whole grain “sweet spot” for better heart health&nbsp;&nbsp;ScienceDailyCardiovascular Disease: 4 to 6 Servings of Whole Grains May Lower Risk&nbsp;&nbsp;HealthlineYou should probably be eating more whole grains. Here’s what to do&nbsp;&nbs",
       "sources": [
         {
           "name": "The Times of India",
           "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQaUdfV1hOdmRmMHFDSl9hV0xyaURXVjZjMENKYzJZYU9NTUZFcUF3NS1QNHk2WktQU3JQejZROEZKQk1ReWNueTByMXljcG5fTG0wY1JGazhUT2tpSENreGc5WFhhNTBxT0RydkJ0ajdQYlFOSlpnMTF3Z2NvaE9HV0hFRlhZM3lETHlzTEItdDRPZ3hQZENPUFc1V3hpLU5YZkZuT2xKRUw0TEVMT1ZzbnJyc01PYjRWUnBDYXBEaG9OTXBncVJJVnBCX0JUYmlSenlyUEZsSjctdXp4c1B1U1RkQ0tYY1h3cjlsY2N3Q2I1VExTS1pGWEtBWmtvb3FKV3JkOVRxUGU3NHdJMDZSejJmb9IBmwJBVV95cUxOWEhJNTJfVGthTUsyN0ZaVVp5NE9TNUlpY1pPbWFhRW9NUUlNUzRNaHpZQjNpQUxkOEJLR2JqQ05sRDVqSG9HaGt0X1MtdzA1aGkwdmY5ZzRHYmRWZUtaUVQ1RGpRUmR1d05kdWFZNm5hcGpSZDUzRDdnZnhxcElsaFZqbk9KMmRnRUpuUzFCTXVBcjM4MnlETUNZVzhPOFhEOU1hZGFSbE1pZGdWcU9YM3BhQnNoUEU2dnNKdTNwOEhZTHdEZWRnTWV0ZEw1cnVBaTJ3UW9CYV9DR2piNnpCZWVhOVdQb1BiNEY5UktUbWNnVmE0Y2ZXUkhQdXNvaUZJR0FFdGpfVXJIVXFZY1AtUHVGbEM5TzFTVGk0?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "heart disease",
@@ -978,13 +1019,14 @@
       "id": "7d71b0f2e697",
       "title": "This Rare Gene Drastically Raises Lung Cancer Risk in People Who Never Smoked - The New York Times",
       "published": "2026-09-18T02:05:13+00:00",
+      "summary": "This Rare Gene Drastically Raises Lung Cancer Risk in People Who Never Smoked&nbsp;&nbsp;The New York TimesRare EGFR mutation increases lung cancer risk 62 times in never smokers&nbsp;&nbsp;Fierce BiotechScientists identify rare genetic mutation that dramatically raises risk of lung cancer in nonsmokers&nbsp;&nbsp;Live ScienceA Genetic Mutation May Help Explain Lung Cancer in Nonsmokers&nbsp;&nbsp;Time MagazineStudy identifies powerful inherited risk factor for lung cancer&nbsp;&nbsp;News-Medica",
       "sources": [
         {
           "name": "The New York Times",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOME1TUjU1T3d6b1pITWRVY2Jaem02VXFsU0gwcGFGS0JRTEVkOW50d1ZJR2NJd1BXM1NCRWt1YmZ0aTFCLVJxdGh1anQzWkgteEhRaDdRbDAzNzhtVkR1SU9qck9EMGk2b0hQN0lfRFRfdHNuUDlHWnpub3MzelhnYklGeWY?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "cancer",
@@ -1034,16 +1076,30 @@
       ]
     },
     {
+      "id": "d54e954b02b0",
+      "title": "Measles exposure reported at Cincinnati Children's Hospital emergency department",
+      "published": "2026-09-18T01:48:00+00:00",
+      "summary": "Measles exposure reported at Cincinnati Children's Hospital emergency department&nbsp;&nbsp;WLWTConcerns rise about measles cases in Indiana&nbsp;&nbsp;Fox 59Measles cases rise nationwide; some cases reported in Tri-State&nbsp;&nbsp;WKRCMeasles exposure reported at Cincinnati Children's Emergency Department&nbsp;&nbsp;WCPO 9 NewsCincinnati Children’s reports measles exposure at hospital&nbsp;&nbsp;FOX19 | Cincinnati",
+      "sources": [
+        {
+          "name": "WLWT",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdnp4YlZndjVMQkdGZXE2VllIMUZzTG05WXk2VUM3NzVINzFjMFA1c0RMY3JqaGpRaFFFdk44Z191bF9jLXlnc0RtM0dFUUxGM1R5X0xUV1YxRWR4NmstY2ozZVRVSEl1YTVuOFJjSDl4UW9uM2xuaG83c3pYUVVVTXZzRW5MeDNmeEhPWExIZ25MOWxjNmxsTzVveWM?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "efab75d9b0e6",
       "title": "Researchers placed 40 kangaroo carcasses in front of camera traps. This is what happened next",
       "published": "2026-09-18T01:18:29+00:00",
+      "summary": "Researchers placed 40 kangaroo carcasses in front of camera traps. This is what happened next&nbsp;&nbsp;discoverwildlife.com",
       "sources": [
         {
           "name": "discoverwildlife.com",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTjF1RWFsV3d4bmItSmpuZC1NT1pFaDBDRjVpdG9HNU5tWWRVTENvNHpVbi1tcHZjM3pNelRMR3EzckhvQi1VVlAzdUJsWUFxUWFiZ3hHem5PY2c4bk1kTTFRcGdUcHFRQnhLTEc3c3p3Vl9HbWUyV1NQbWltS1l2Y2o5SXBydThFZnhmZUV3?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "arthritis",
@@ -1085,13 +1141,14 @@
       "id": "9309142eaa81",
       "title": "From toothbrushes to aerospace: Graphene research advances fibers that conduct heat efficiently",
       "published": "2026-09-18T00:40:01+00:00",
+      "summary": "From toothbrushes to aerospace: Graphene research advances fibers that conduct heat efficiently&nbsp;&nbsp;Phys.orgSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "Phys.org",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONTVreWl2cVhob1lXeVpiS1pVUzdPVkxPME5xQnRSNXEwMTN6SE5heGdlZEFxOUthNGU1M29UNEFtNVY3Qk9hQ05sb1FZX3pENnpMODdUcG1PWXVmUkNpdzQ0LUZrdWp3RVdjOWpDZjRvWHg0eWVYSFhOOGhOZnloNl8zWFhSMkJIOVE?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "arthritis",
@@ -1161,16 +1218,30 @@
       ]
     },
     {
+      "id": "7ee930a1de44",
+      "title": "Possible measles exposure reported at the NICU at CHOP, officials say - NBC10 Philadelphia",
+      "published": "2026-09-17T23:48:35+00:00",
+      "summary": "Possible measles exposure reported at the NICU at CHOP, officials say&nbsp;&nbsp;NBC10 PhiladelphiaPhiladelphia health department warns of possible measles exposure at CHOP&nbsp;&nbsp;6abc PhiladelphiaPossible measles exposure reported at Children’s Hospital of Philadelphia&nbsp;&nbsp;The HillInfants in CHOP's neonatal intensive care unit may have been exposed to measles&nbsp;&nbsp;phillyvoice.comMeasles Scare Hits Children’s Hospital as RFK Jr. Does Nothing&nbsp;&nbsp;The New Republic",
+      "sources": [
+        {
+          "name": "NBC10 Philadelphia",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc3FkUVRoeG5feXk4bzB5OUdmcnBHd1EyNW01ODI4cGxzamxlaFJ4VDNSSGs1NDVJNEthaVBKUUkzUno3bjVSZDVQSWFiRF9TckNhcXpDeDFaMUMyRll5RmRzVno0c0txNC1iQm1ndTFwVWp3QUVmRllvS19rX0JGc0t1VTZlajJ2Zzd2TDRxQ0QtQTJhY05QZkx4NWNzSXY1RDdDczFybjJpLXlBX09laXgtMNIBuwFBVV95cUxQWm1RUUdqMTAzd3dfbnA1aUd2NzN6SUdqNVJWUmM2TmdOYUd4bFhydlJkem1GZ013Mjh4QlRLVkg1TUdlUjdmYl9YSmxrc1Blc1hPd0FVSWlEdFBVQ1pvWjk1Y1lHZnR4cDEyeWY3M2M2cmFPeHRRcXF6d0NZRkhlWmxJREkyektiamtTVXlMeWN6QkxVb29WUjBzandVSGVDUmk0WWtEQ3Fud0JoZUVFclEtOTJ4dXNCQ3ZN?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "0f89f290eaf1",
       "title": "Oncologist Warns: Check Food Labels for Sodium Nitrates to Lower Cancer Risk",
       "published": "2026-09-17T21:25:00+00:00",
+      "summary": "Oncologist Warns: Check Food Labels for Sodium Nitrates to Lower Cancer Risk&nbsp;&nbsp;AOL.com",
       "sources": [
         {
           "name": "AOL.com",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONkE5Q2psNkxIZkRNcG9OQVlmWFVNbDVLWkxmM3Y0czRuams2bzNvQW0tUjFwSnBfM0Iyb3FYMW1hRUhVZEZVSi1uU3pOT25Ed2N1c1h6dWFIX21Fb3BPaDJmYndWWGdHR0lLc2VpQ2d5OFUwZGdFaVk3cnZzUjlocno0YWU?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "cancer",
@@ -1223,13 +1294,14 @@
       "id": "0eebcbd1b5d9",
       "title": "3-Year-Old Boy’s Cancer Disappears After He Gets Experimental Immunotherapy",
       "published": "2026-09-17T21:20:17+00:00",
+      "summary": "3-Year-Old Boy’s Cancer Disappears After He Gets Experimental Immunotherapy&nbsp;&nbsp;GizmodoA 3-Year-Old's Cancer Disappeared After Doctors Reprogrammed His Own Immune Cells&nbsp;&nbsp;ScienceAlertBaylor College of Medicine says 3-year-old cancer-free from liver cancer&nbsp;&nbsp;newsbytesapp.comResearchers use genetically engineered immune cells to put a child's metastatic cancer into remission&nbsp;&nbsp;TechSpotCARE study reports complete regression of liver cancer in a child treated with n",
       "sources": [
         {
           "name": "Gizmodo",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONWpBVnZaU0RZVzI5cXkzcnRDTjZvVXBDODViQlhBWG9oWW5lZWlraXJBcHRSSjIzZnY2Q2EzYlVScHlRRDBfUFl4OXBVU3B1cndFRExMSjZ0cF9selhrUFVsb084SDIyX1lCdWhFOHRpdzduWlNGbjNvRXRaTGt0S0F1czVJV3lBRWpVZ0E0LXdaelpQWlFSdjhjcVFaeFVNNjU0TjNjWlo?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "cancer",
@@ -1325,13 +1397,14 @@
       "id": "e6eccf703413",
       "title": "North Carolina teen who died from brain-eating amoeba was likely infected at community center",
       "published": "2026-09-17T21:03:00+00:00",
+      "summary": "North Carolina teen who died from brain-eating amoeba was likely infected at community center&nbsp;&nbsp;9NewsBrain-eating amoeba map shows which states have the most cases&nbsp;&nbsp;USA TodayNorth Carolina water feature linked to teen's fatal brain-eating amoeba infection&nbsp;&nbsp;WJLATeen Who Died from Brain-Eating Amoeba Was Likely Infected by Community Center Water, Health Officials Say&nbsp;&nbsp;People.comDurham water feature found as likely source of ‘brain-eating’ amoeba infection tha",
       "sources": [
         {
           "name": "9News",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTDlqejBSa1dWbm5DeGNVdlhxcnM5dk5BTHhOWGRDYW5jRGRkdGhoQW5fa1ZKT1NHY3ZaaXV0MndUQ3UyM2lPWnRQRjZXSGxhM0x4QXdmOWl6b1dRS0I4cHpyem92aGhfZlJhRU10N0wtSUV6UkVLVUxOUi1rQ2MyVUlKN0pfckZSTmEtVkJNdE52UVJSYjN3NE9xNml6U181VXNPZEwwNUUyV0Z3ckx6M21OdDlQLVR4Rjk1eWNiWm92VnJYRDNIajFNMEl0aEVyTGl1bzR6RWEwQ0VFblRzUEs5Yw?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "arthritis",
@@ -1373,13 +1446,14 @@
       "id": "ddbdb56c4e34",
       "title": "Rochester airport travelers urged to monitor for measles following potential exposure",
       "published": "2026-09-17T20:48:29+00:00",
+      "summary": "Rochester airport travelers urged to monitor for measles following potential exposure&nbsp;&nbsp;rochesterfirst.comMeasles exposure reported at Rochester airport. What to know&nbsp;&nbsp;Democrat and ChroniclePotential measles exposures reported at Rochester airport&nbsp;&nbsp;13wham.comMonroe County Public Health reports potential measles exposure at Rochester Airport&nbsp;&nbsp;WHEC.com",
       "sources": [
         {
           "name": "rochesterfirst.com",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRGtzbEx4Rll0TDlnTk8zdlg5c3hjQmxjRWFlYjFkUGhicVctWVc3VWRxWk56Y2d4SDMtYzY3a2Jzb3VpbFF5NGFTUWVNTnB0am1YeVY2cXFrMWhIVUZmNExYMlUxbmlncnB2Nm5jSzRQM3NJTGdRUHlhMkpIN0xHdlVLWHlSWFhUWDhmeEJWblBHVGdVRkduU0t4T2E1dk1qbXFwWE1aQkh6bnhBZkdDTkxlVC11SWV1QldUVjl2a25xYzVZakU0WtIBzgFBVV95cUxPelhReDRkUDczQ0dFZ3ZsS0I0QmZjanRzY3dBZ1RPbXM2cE44VG8ydU9uZlh2N3hfQ3M3eklrUzN2cnJ5RzV1OGdDT1JOSlc3T1hHNldYRlp3dGx3N1M3S0dJcW9sZFdHd2VoVDJyOWdmTEoxNUxtX0NhaWM2bjFMZjN3TERvTFB6Tk4yZWxldF9Za1BDUkZlcUFTeWI2RTNkRWNPb0JiRU9ETjc3MkdINmJQdmJEbl9TakR4cjkwb1E0LU9LbmJYbE95X0JrQQ?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "arthritis",
@@ -1418,16 +1492,30 @@
       ]
     },
     {
+      "id": "ebe76a7f729e",
+      "title": "The Next Gene-Editing Technology May Also Be the Oldest - The New York Times",
+      "published": "2026-09-17T20:29:25+00:00",
+      "summary": "The Next Gene-Editing Technology May Also Be the Oldest&nbsp;&nbsp;The New York TimesDiscovery of CRISPR's long lost ancestor may expand gene-editing toolkit&nbsp;&nbsp;Phys.org",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HSktwSHdKR0RzVUZCXy1LRU5yZTZ4S1dURnhUZkxiVzJmSVdhejBzVktDb0dUeXp3bVhkT2U0SHdiZlk3ZUx6YlFxWF9OZlhneEZsX3g5YVBIc29LeXBKcTBIN003YnB5dUk3aExqME9sSkNjUFVWYlp3dEU?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "f8bbdad20e0a",
       "title": "A NASA spacecraft just found a giant new crater on the moon. Here's why everyone's talking about the 'once-in-a-century' discovery",
       "published": "2026-09-17T20:11:16+00:00",
+      "summary": "A NASA spacecraft just found a giant new crater on the moon. Here's why everyone's talking about the 'once-in-a-century' discovery&nbsp;&nbsp;SpaceNASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater&nbsp;&nbsp;NASA Science (.gov)Asteroid the size of six-storey building crashed into moon in 'once-in-a-lifetime' moment, says NASA&nbsp;&nbsp;Sky NewsThe Moon’s freshest craters are recognisable by bright rays of newly excavated rock and dust, which space weathering gradually darkens—and the",
       "sources": [
         {
           "name": "Space",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORkRMODBzSXEtbWVZb3NZNkYyZjBqRmVSZE11dWRicGRjcDRnN043QUNJMmxSSTVyQk9kTGNya1daZlJnN2lxOWdadVZLVmpGdWpwM1owc1NGOTFCTHNLRmdyQ0Jqdzl6eWg5TEh6ck9ObHE0R2x0eVZKblJ3ZlRWWXBNUE1EOTRDWWpWUXlLTXBqQUV3TEtMNXdyV29HVDdDOUxCZnlwM1g1a0hzY1hGVHRRUmVDTm9ZYnZOai15Wm9rUlB5eTZEM29tQ3NKbU94WTVDa2FqVG1PWE0?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "arthritis",
@@ -1469,13 +1557,14 @@
       "id": "85b0126796ec",
       "title": "The T. rex had a body temperature similar humans, study finds - New York Post",
       "published": "2026-09-17T20:07:00+00:00",
+      "summary": "The T. rex had a body temperature similar humans, study finds&nbsp;&nbsp;New York PostT. Rex, King of the Dinosaurs, Had a Body Temperature of 97 Degrees&nbsp;&nbsp;The New York TimesT. rexes were as warm-blooded as elephants, study finds&nbsp;&nbsp;CBCT. rex was as warm-blooded as humans, new study finds&nbsp;&nbsp;Scientific AmericanTyrannosaurus rex teeth reveal a body temperature close to the human average&nbsp;&nbsp;Phys.org",
       "sources": [
         {
           "name": "New York Post",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRjhkSTFQMUVTZklEWXMxNXdmS1lVeEhaLWdoV2Y4amtnQUY2aFM2TDNxaWtDeU40NjFuanphVHkzX3NVR0RFMEdERmM3cGNIS1dSTHVMSUZ1SnplbHNMU3doaTdRcXctY1Y2Z1A1akk3T1FYbV9SSFlCN1VHNGVDZkxlXy1XZzFGUm5DSXBXMkhJNEV0c2c4WkE0LUwzLTA?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "myocardial infarction",
@@ -1560,13 +1649,14 @@
       "id": "78615f960a1c",
       "title": "Covid-19 vaccines delayed for about half of US children as access through federal program stalls",
       "published": "2026-09-17T19:21:44+00:00",
+      "summary": "Covid-19 vaccines delayed for about half of US children as access through federal program stalls&nbsp;&nbsp;CNNSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "CNN",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VV0E3Ti1aT21tSVdTLW9CTEhFQS1RWF9DbDFkbmRXT0V1ZjRwZHJscjZyenY1cDd1Mm9lalU3STg0Z2dzWW81Z19KT3ktX2xfZzVrT29Xc2ZqSURUVEtmU09JMTFKcDVXTEowc1dNZThiVGk2VEtYNQ?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "arthritis",
@@ -1608,13 +1698,14 @@
       "id": "dd34c30c7c8e",
       "title": "Third person dies from malaria in cluster near Germany’s Frankfurt Airport - Al Jazeera",
       "published": "2026-09-17T19:08:28+00:00",
+      "summary": "Third person dies from malaria in cluster near Germany’s Frankfurt Airport&nbsp;&nbsp;Al JazeeraGermany: Third malaria death linked to Frankfurt Airport&nbsp;&nbsp;DW.comGPs summoned in Frankfurt as third malaria death reported&nbsp;&nbsp;YahooFrankfurt issues malaria warning after two new cases&nbsp;&nbsp;Euronews.comRisk of ‘airport malaria’ in Switzerland deemed very low&nbsp;&nbsp;SWI swissinfo.ch",
       "sources": [
         {
           "name": "Al Jazeera",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdmF3WWd4VjlIVlRtMG41cGZkMTRrcndSLXJlWkVLd3F2Wjl4MEhvSXJxR2d4V1hFUEpWa191SVdsbTh5RXgxeWFWMVplSkc4OWQ4Z3pfN0xlZ2hxT0ZMeHhKeVFma3YtOXg0ZDR6TWc3UjB0M0M2Vk9hd280a1hHMWtmLVRxSGRoS29YM1VPX080bjR3Z2hRUWhLTnBHSy1uQWduQkJELVprR2xfMXNYLWVVVHbSAboBQVVfeXFMT1FJSVctZG5RVGdaMkhjSFBqUGJVODNoZ1M3RS0td05jbHZ6UTF1dU85RHg3Mk1RMTNiVXQtdXBfaHFDNkpMUFFzeUhGTTlWSzladk83Q2ZJLU9yOWFUbEdwREQya2NpN0ZGSlFMRWhlWG02MDBmMHNXenFpS003eWFKRmdBODRRekxhZFFYU3FUb0VKVldlVHF0SXRldHBsdW0wM3NsUU8wdWd5Z0hDM0xfNWlua3lMNmVn?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "arthritis",
@@ -1656,13 +1747,14 @@
       "id": "84df146a4dd8",
       "title": "Teaching the immune system to control HIV",
       "published": "2026-09-17T19:00:08+00:00",
+      "summary": "Teaching the immune system to control HIV&nbsp;&nbsp;medicalxpress.comBroadly neutralizing antibodies in adult males living with HIV undergoing analytical treatment interruption: secondary and exploratory outcomes of the phase II randomized controlled RIO trial&nbsp;&nbsp;NatureCombo bNAbs for HIV Prevention – Latest Developments&nbsp;&nbsp;avac.orgThe RIO Trial’s Viral Rebound Data Just Complicated Every HIV Functional Cure Strategy on the Market&nbsp;&nbsp;The Clinical Trial Vanguard",
       "sources": [
         {
           "name": "medicalxpress.com",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10a1ZCQUVzN3JSMmZvUmRlb0NZM0d0OGVVWFc4RVZLTzZBVjcyRVB5Z0xtMDl2U2l1UGFPV2M5VlZIU09tYmtRVHJ4YjRWVDhuZDF3ZTUzY2luWFYwdHRaNlp1dG4?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "myocardial infarction",
@@ -1744,16 +1836,30 @@
       ]
     },
     {
+      "id": "eb9283dd61ce",
+      "title": "Reconciling the neurogenic hypothesis of depression with recent advances in adult hippocampal neurogenesis research in humans",
+      "published": "2026-09-17T17:51:20+00:00",
+      "summary": "Reconciling the neurogenic hypothesis of depression with recent advances in adult hippocampal neurogenesis research in humans&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zMmIzcmJFbXFpNGhSamx2UjVrUmM0cURnNTJ2OVlSSmo2eC1HQTZSdDJzZ2U3MjRGUkJXY2xFM3pSbkVCbmJnZjFhcWE5YnZIODZjWWlaS3hEeldIejJv?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "cc9e3db8d256",
       "title": "Nearly 3 in 4 Americans are battling the same exhausting health problem, CDC reveals - Fox News",
       "published": "2026-09-17T16:54:43+00:00",
+      "summary": "Nearly 3 in 4 Americans are battling the same exhausting health problem, CDC reveals&nbsp;&nbsp;Fox NewsWhy are Americans so tired? CDC report highlights who’s feeling it most&nbsp;&nbsp;NBC NewsWe’re Distracted and Exhausted for a Reason&nbsp;&nbsp;The DispatchAmericans are tired. Women and young adults, most of all.&nbsp;&nbsp;The Washington Post71% of Americans Say They’re Completely Exhausted&nbsp;&nbsp;Gizmodo",
       "sources": [
         {
           "name": "Fox News",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY3BraHBuMnR2dm1Eelc5UkFRbDJCbEI3ejA1elBPNk9ZVEVqVE96WGRzOThnWFIxSnh2YmxWT0Jjcnl6cnZMdTkzU2tfX2x4eDAzT1BKYjM4aWU5cW1EbHRudHNFQ1YtS1kyN1VreGlmc3Nia19qMTlFQ19hVEFKVkJlN2xQN3BpcUlick9lREFaS2JRNEN3NkVwVThWek3SAaQBQVVfeXFMTWZwTXNsRmt1d01mbVRiaTU2VUNUeEtfSFllaWdqSjVtX2xQUHZCUDZDZGJiYW82bUdodDdYb2RzaFJkRVpFb2JvbHFLcjNrN2ZkdC1MWS1xalgyY0k5SWJnV3JnRkZoNDJWMWVDOUl1R1F6MjA5bVhLNDBQUGIwdmxaYmktOHdqaTRCZlE5Ymt3NTdzRUN3NHFBNjRrMDNQZUxsb3k?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "arthritis",
@@ -1795,13 +1901,14 @@
       "id": "e205a8752bf2",
       "title": "New, more effective flu vaccine available soon at local CVS, Walgreens stores - The Press Democrat",
       "published": "2026-09-17T16:35:00+00:00",
+      "summary": "New, more effective flu vaccine available soon at local CVS, Walgreens stores&nbsp;&nbsp;The Press DemocratThe first mRNA flu shot is now available. Here’s who can get it.&nbsp;&nbsp;NBC NewsWhat you should know about the new mRNA flu vaccine&nbsp;&nbsp;Futurity2026-27 COVID and flu vaccines now available on the Central Coast as new strain confirmed in California&nbsp;&nbsp;KSBY NewsSeasonal vaccines are here, including a nasal spray you can get in the mail&nbsp;&nbsp;KUOW",
       "sources": [
         {
           "name": "The Press Democrat",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTlV1R3RGd2F4U05BSFNybXF1WHFWNmFZdl94VTJOajlFZHhrNTdvVmZZcXBUZ04yVE5FUlNjQmluX2g1aC1MRmRGQW9Kc0pZU0piUG1iSEFyZVZDT040Xy00OVpxTW9uejQtbG9RclVGTzJydm5BNkpDTms5QnhGd21Fdw?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "arthritis",
@@ -1858,13 +1965,14 @@
       "id": "4d0a00f46d4e",
       "title": "Novo Nordisk (NVO) and Eli Lilly (LLY)’s Weight-Loss Drugs Still Work at Smaller Doses, Study Finds",
       "published": "2026-09-17T15:46:48+00:00",
+      "summary": "Novo Nordisk (NVO) and Eli Lilly (LLY)’s Weight-Loss Drugs Still Work at Smaller Doses, Study Finds&nbsp;&nbsp;finance.yahoo.comCan Microdosing GLP-1s Like Wegovy, Zepbound Help You Lose Weight?&nbsp;&nbsp;HealthlineDoctors sound the alarm over weight-loss drug ‘microdosing’ trend sweeping social media&nbsp;&nbsp;7NEWSShould you microdose GLP-1 drugs for weight loss?&nbsp;&nbsp;LivemintWhy slim Australians are taking GLP-1 drugs such as Ozempic&nbsp;&nbsp;AFR",
       "sources": [
         {
           "name": "finance.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWmdWaXJfYmxjZ3BxQ2pIUVkxdXNNUXhxMEV6OXJsWlNzTFNQOXYwNElWM1ZqQXBZWXBkM0Z4MDY2VEJoMVlTWUlRdFMxNVBEa1NwaFF5SWpKZzluaEp5YkVyTGt3cUdqcjBhY3NMQnhEaDFUWWNETlBYdVhEWXBsMjVyLXhCT2tzUWJEYUlEdkk?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "myocardial infarction",
@@ -1980,13 +2088,14 @@
       "id": "a18bd00c13de",
       "title": "Black holes from stellar to supermassive size may follow one jet-launching rule",
       "published": "2026-09-17T15:30:01+00:00",
+      "summary": "Black holes from stellar to supermassive size may follow one jet-launching rule&nbsp;&nbsp;Phys.orgScientists solve mystery of black hole 'burps'; new study reveals when these cosmic objects launch powerful jets after eating stars&nbsp;&nbsp;The Times of IndiaA black hole destroys a star, then fires off a powerful jet years later — scientists discover the 'burping&nbsp;&nbsp;The Economic Times‘Very messy eaters’: scientists solve the mystery of when black holes ‘burp’&nbsp;&nbsp;The GuardianBlac",
       "sources": [
         {
           "name": "Phys.org",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XUWd3d21rWkpmVmtzS1BIdzViQ1JKREhpRjZnWTg3em9RY3RRSENHcnowUy1tTG92VllvZGlvSDFHRGN0MWd4Nl9wNFRRMFEweXNzUU8tVmE2RHgxaHJhVjBpQl9PdjNjRkdpQ093QmlmVEdScUtNQ2p3SmU?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "myocardial infarction",
@@ -2036,13 +2145,14 @@
       "id": "a2d0981d3219",
       "title": "‘Nearly 100% fatal’ disease on the rise across US. See risks in Washington state - Tacoma News Tribune",
       "published": "2026-09-17T15:23:03+00:00",
+      "summary": "‘Nearly 100% fatal’ disease on the rise across US. See risks in Washington state&nbsp;&nbsp;Tacoma News TribuneCDC warns of 100% fatal rabies threat with multiple Calif. hot spots reported&nbsp;&nbsp;SFGATEKansas health officials warn about increased encounters with potentially rabid animals, including bats&nbsp;&nbsp;kwch.comFamily Spent the Day Playing with Petting Zoo Goats. Weeks Later, They Needed Rabies Shots (Exclusive)&nbsp;&nbsp;People.comIllinois health officials report summer spike in",
       "sources": [
         {
           "name": "Tacoma News Tribune",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tbVU4NVB6dkNlUzZ3ankxRFhxazJzbDFHcmhWUWZOZUlfXzduenI1cTZDZDE3OVBkVnBNbWdfTVc4TUphQ1lvaVZJYk0wbElhZDlNMTNEZXlFdzRETkxsUTdXaTdPTWhSdlFqYWdTaHdJSkRwaWNrY2plZmhueWPSAX9BVV95cUxOdGprSktSY0tOc0liN081MzFJSHhtRWc5cDBLc1UyZVIwU0tWc1ZDMWNCbXBCa1lLZ3ZRamRlNU5icEQ4RndQT2FScHEwNll6aXUwbC1MLVZEWFh0alZ1ZzlqWUZlOXE1SnBuY3pma3Z0Uk12c0tWWlpwamwyaVhF?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "myocardial infarction",
@@ -2124,16 +2234,30 @@
       ]
     },
     {
+      "id": "954f7b1e21bc",
+      "title": "Scientists make discovery that upends Earth origin story - Yahoo Tech",
+      "published": "2026-09-17T14:00:25+00:00",
+      "summary": "Scientists make discovery that upends Earth origin story&nbsp;&nbsp;Yahoo TechSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "Yahoo Tech",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX1NtQ2gzNTZ1NjZ2aWJhT0c2OVI1dzdVckZrZTV0YjhvUGlNTXdIQWVKT1lCajVrZkxRUmthWGN0Y1BEb0lCNGpMRVhjajNyTDUxZERudkdkZ0pPRmRLaFM2NDA0Y1pvRjNuRmVHblFTX2R4c1BjWU9GV1lSUDk2NjFaRjJ4d2RMNXlmTHFGbzJPUkdEZzY0VWFPUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "a7926dfd5aa5",
       "title": "What you need to know about this year’s fall vaccines - The Boston Globe",
       "published": "2026-09-17T13:10:00+00:00",
+      "summary": "What you need to know about this year’s fall vaccines&nbsp;&nbsp;The Boston GlobeWho Should Get a COVID and Flu Shot This Fall? What Experts Recommend&nbsp;&nbsp;People.comConflicting COVID vaccine guidance from CDC, health department fuels confusion for parents&nbsp;&nbsp;ABC7 New YorkPennsylvania doctors urge people to vaccinate as flu, COVID-19 season approaches&nbsp;&nbsp;WHYYAs COVID Rises in Over Half of US, Who Should Get a Vaccine This Fall? Experts Explain&nbsp;&nbsp;TODAY.com",
       "sources": [
         {
           "name": "The Boston Globe",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9yeWFhQ1hKVHdfN1RuWnpiUlhLYzYwdW5GNWF2bF9LRDFlbFlPMG5LdnBySXc1RENPZWVNSTdwdl9sVUtsc3FsOUpWQXByMEx2aTN1OEFuWHZzV19LcVYzM0JNaGdPMEtEY2x6enJDX3NUQzNQazBuOUZFeWRyQQ?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "arthritis",
@@ -2190,13 +2314,14 @@
       "id": "90927af1d4fb",
       "title": "Cities won’t survive on the moon as there isn’t enough water, scientists say",
       "published": "2026-09-17T12:41:17+00:00",
+      "summary": "Cities won’t survive on the moon as there isn’t enough water, scientists say&nbsp;&nbsp;CNNBad News: New Study Suggests Water Will Make Large Moon Colonies Impossible&nbsp;&nbsp;extremetech.comQuiz of the week: how long could a lunar city survive?&nbsp;&nbsp;Physics WorldForget lunar metropolises: Water limits could cap moon's population, scientists say&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosA Million-Person Moon City Could Run Out of Water in Just Over a Century&nbsp;&nbsp;Z",
       "sources": [
         {
           "name": "CNN",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRWEl3djJ2aHZpYXBDbUVBOHFEQ2ZOZEpnR2hMZE00aHdyVXVjdkxINEpNWmFNcWhWMkVCM3RySGhSa0FCMXZmRmlnSzU4ZkNfWURkVWVSUVRXQXhqNEpJVFltZVBEU29GUmI0ai1JU256NlpsZV83bG9WQ3Y?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "myocardial infarction",
@@ -2246,13 +2371,14 @@
       "id": "bb359107c1dc",
       "title": "With US measles deaths on the rise, local officials are stepping in where RFK Jr won’t - The Guardian",
       "published": "2026-09-17T12:02:00+00:00",
+      "summary": "With US measles deaths on the rise, local officials are stepping in where RFK Jr won’t&nbsp;&nbsp;The GuardianRFK Jr.’s Faulty Claim that U.S. Measles Response Is ‘Better’ Than ‘Any Other Country’&nbsp;&nbsp;FactCheck.orgWhen Public Health Denies Pathogens, Children Pay the Price&nbsp;&nbsp;The ContrarianHow Trump's Health pick worked to erase America's victory over measles&nbsp;&nbsp;Yahoo",
       "sources": [
         {
           "name": "The Guardian",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVS1HbVdyc3hyM3NmWW9HX1Vpb1Z0LXduUHpFZkFQZzhwNmc4UVZtc1VaUnBPd1J4NXpJY2dtSE5wWU10VktFeW1mWHlqNWgzSEV3MUYyV0lkNkg1WHVmLTBaZ1RMMWdmOWNMcVViSm12ZjB5Q1BuTEFreWRpYThoY1JZUWNyX0ZRUGZFM1B0cw?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "arthritis",
@@ -2294,13 +2420,14 @@
       "id": "c099cef0cb73",
       "title": "What To Expect From Sick Season This Year, According To Doctors",
       "published": "2026-09-17T11:00:18+00:00",
+      "summary": "What To Expect From Sick Season This Year, According To Doctors&nbsp;&nbsp;HuffPostDOH: Now Is the Time for Your Flu Shot&nbsp;&nbsp;YahooSaint Elizabeth Medical Center doctor answers your biggest flu shot questions ahead of flu season&nbsp;&nbsp;WCPO 9 NewsSavvy Senior: Seniors advised to get enhanced flu vaccine&nbsp;&nbsp;The Joplin GlobeGet a flu shot, help nonprofits through Harvest Drug campaign&nbsp;&nbsp;Times Record News",
       "sources": [
         {
           "name": "HuffPost",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUENUZTdwbDJ4U0lKdU45a3ZqaHZUX0pjS2h0RHB5aGV1OFBPUEwtb3NXS2N1ZmRZcm8wT1hpaXZscWtnN2swMGlDbGRnSnRlS296Z2ZCSnk4cUh0czRCa0cxZkUzS1lQUUdORklvOFI2UXNvWDMySVMxNmh3TjZaYVYzSnNIYVUxMXZhUXN3d1FuSmZaempodC15NUkwak1NY3Q1NW5R0gGrAUFVX3lxTE1GMXBzQTg0SjZvc1FmMnhRVHBRTGd1MGZpSmpodmVXZXFDd2I2N2YwamtQTHE1blpTRUNyN0pDTkFGeENDcmx0Mmk2QWZJVlVTeXRIRXRHaVJQM3o1blJTZGZfanVGcWNNN0xjWGg3MWNQLVhWWDJ6Q19HdkFNeGxmRWw2MHZmUC1iQWZtYVYtRVJPY3BFT0ljQl82SS1UWi0wTkYwd2dpQUtBVQ?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "influenza",
@@ -2322,13 +2449,14 @@
       "id": "de1c4dd64502",
       "title": "Doctors Just Found This Common Class of Drugs Is Linked to Lower Risk of Dementia",
       "published": "2026-09-17T11:00:00+00:00",
+      "summary": "Doctors Just Found This Common Class of Drugs Is Linked to Lower Risk of Dementia&nbsp;&nbsp;AOL.comA huge study found a surprising link between statin timing and dementia risk&nbsp;&nbsp;Yahoo HealthCholesterol lowering statins: Scope for use widens&nbsp;&nbsp;Island.lkAre You Taking Any of These 5 Common Medications Linked to Lower Dementia Risk?&nbsp;&nbsp;Everyday HealthShould statins be used to ward off dementia and signs of ageing?&nbsp;&nbsp;1News",
       "sources": [
         {
           "name": "AOL.com",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVXpVdy1JZTZxX2JYZ1BWT3FQX3E3SlNZMFlMaVJWZlgyQmVhOUEwWkpKT3l4UTRhcHF0eTNWbmh0MGFPeXc4UEtIU1laUjM2X0J5cC1nMU9aSTJsNENnQmx0SGg2eGp0OElBczc1TEF6QVk1eExJSG5XQnFCbWlYbA?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "myocardial infarction",
@@ -2375,16 +2503,43 @@
       ]
     },
     {
+      "id": "0942828ac27c",
+      "title": "Gastroenterologists Say These 6 Signs Could Mean Your Gut Needs a Probiotic",
+      "published": "2026-09-17T10:46:07+00:00",
+      "summary": "Gastroenterologists Say These 6 Signs Could Mean Your Gut Needs a Probiotic&nbsp;&nbsp;PreventionColumn | Why probiotics don’t usually help your gut — and what to do instead&nbsp;&nbsp;The Washington Post3 Potential Benefits of Probiotics That Go Beyond Digestion&nbsp;&nbsp;Verywell HealthAmericans Pop Probiotics but Skip the Fiber, Experts Warn&nbsp;&nbsp;Medscape",
+      "sources": [
+        {
+          "name": "Prevention",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTXdMeThLVkJpSWVpaWh2b1NqZ2pnTExNNEZmQk1JeElZb1VRbWlaODEtc0NXWVdVbDUyZXFtYk5SamNzLTRmMmc4RUtaREV0VXNMLXRnZzhqQlVCRS1oU09qNWcwR2lOblhEMXZ2RUxxOXVzNjNPenA1RlcxamNsbHhzUkdSaHRNb0o1Z09xc2RsZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "081379d8fc11",
+      "title": "What happened to oppositional defiant disorder?",
+      "published": "2026-09-17T08:34:38+00:00",
+      "summary": "What happened to oppositional defiant disorder?&nbsp;&nbsp;STATPediatrician on changing views of childhood defiance — STAT News&nbsp;&nbsp;UA.NEWS",
+      "sources": [
+        {
+          "name": "STAT",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTHltY2NhRkpVeGFuS05kM1VUNU1JcXROVnZxVW12QXNoOXZTWHhVbnFJRlhxLWljZURjZm5TakRvWnNfdGVNZnBxNzdQS0RhdnprX1p4MWljUDUybzEzeXdoaVd4RWNhencxUlVTWFJKNkdMWTdMZ0J0aVIxOWE0LTBJR0lhQnZkLUI2Zkt1bkZrQk4yNC1wa3ZiWHo3cjdpb19iQWtQLThpQjZV?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "6e2622e3fd18",
       "title": "High school teacher searching for fossils discovers four footprints later confirmed as first reported T. - The Times of India",
       "published": "2026-09-17T06:04:00+00:00",
+      "summary": "High school teacher searching for fossils discovers four footprints later confirmed as first reported T.&nbsp;&nbsp;The Times of IndiaThese Four Giant Dinosaur Footprints Discovered in North Dakota Might Represent the First Trackway Made by an Adult T. Rex Ever Found&nbsp;&nbsp;smithsonianmag.comNorthglenn science teacher finds T. Rex footprints in first-ever discovery&nbsp;&nbsp;kdvr.comHigh school science teacher discovers rare T. Rex tracks: 'A real pivotal moment'&nbsp;&nbsp;ABC News - Break",
       "sources": [
         {
           "name": "The Times of India",
           "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQWm9vUTk2MXpWemsyMTd1Y0FOU3VVTWhURmZzcjhvUGZ4aTE0dzNVeW5QblBNTTM0NDJUOTJuVVJQYm5sbWkwcXNvOGdaVWZVWXlRMm5hbGlhM1U4Y0VCNXp0aWc1WEdnNHoycTVkajFiTjloWmVEY2hoSWpqX0VFNU4tNkU5ay0tY3ZUMmFSQk8xSzRaZDF0RzhuVGh1cjIxSHl3Qi1XV21qM09sNjU4djhJQ3NHTVhFMEtXT0dwZ2N6eEJlVG5ZNVN0ZXpxX3pOcF9IeElrYnphTVRHYURpZlFBV3g0MzFpYm8wdWt2TmJuT2kxeHQwZldCX1NtRXZ6Q3JkNndDX1hTQnlodjY4U1Z3Q0pKSFZsWWZVY29ISy01blBzLUF0b0ctS1hWUnZJN0NfSmV0ektSamVFclBRWWE5UWllTm5keGhlMUxnVnRiMzjSAdgCQVVfeXFMTUdaX0VjQUhsaGdkOG8tdXNoZ3Y5dzZEdDZDcUswMUFRRjJrMGN6T0t3SXhkNWtxQU12ZHQ4U2lhM3VuM3ZpQmdTSXZzM0VMUG1CNXYwT1hCdWdrQ0I1Z0VpN0cwaGhhREN2NFRQX1c0ZUJrcEpwWFZ1MWNyTFMtRU9IaUsyWV9QQ0ZqLU1aZ0dtcUlObUVHM2I0MjlhNnlCZUFJRVhZS0xyVnRJbDEyMG43MkY4RFNnNGUxS0tDNEtQMGNGSVZyRHNDVWRxUkdXRUpPVXUwU3lVTlNyVmhsTkJKSUJiREJHOUlmc1lQTEFkODVVLTFvSTRILTZRdHBXZjFNM3BzOWd5dHZpZlhGMzByWVl1WXBYVE5CMTZNQXJvZkw3ZFhGeWVCbElEMlBwc0Q1NVg5NmtGWXNadHlrbnR2OGtfWlpnUXBLTTJ0TGszby1WbGFiUjI?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "myocardial infarction",
@@ -2469,13 +2624,14 @@
       "id": "e16bb0697fc0",
       "title": "Large genetic study links GLP-1 receptor activation to improved mental well-being",
       "published": "2026-09-17T02:46:35+00:00",
+      "summary": "Large genetic study links GLP-1 receptor activation to improved mental well-being&nbsp;&nbsp;PsyPostGLP-1s and Mental Health: What's Safe to Say to Patients?&nbsp;&nbsp;MedscapeStudy shows GLP-1 drugs reduce mortality and cardiovascular problems in people with mental illness&nbsp;&nbsp;University of TorontoGLP-1 Prescribing Rose Among Adults With Serious Mental Illness&nbsp;&nbsp;Drug TopicsOzempic and Wegovy may have an unexpected mental health benefit, finds study&nbsp;&nbsp;Medical Dialogues",
       "sources": [
         {
           "name": "PsyPost",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdHlxNC1GNV9iOHJRaS1YQ0ZHdFZ4N1B1cG95SDdFdm1WWmpVYnBELTVFVXhIMVROanE3LUVuMmFGeThmNlR0cWg4UUJLNnpuTE5XUXhycXhraGN0VVF1aUNFRGpzTjFIbW5FZlNudk1fVlhYcGtmYWZXRFREU3ZzRDBJRnVITDdOdndpeDJmeEJLNGh1ay1oTENZdUdBSmxRU0o5OW80bDNyQQ?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "inflammatory bowel disease",
@@ -2510,16 +2666,30 @@
       ]
     },
     {
+      "id": "d35afa2d1da7",
+      "title": "Hunters respond to new regulations as chronic wasting disease cases rise",
+      "published": "2026-09-17T02:30:00+00:00",
+      "summary": "Hunters respond to new regulations as chronic wasting disease cases rise&nbsp;&nbsp;WDELSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "WDEL",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZFV5UDlMaGN0R1piX0FqTktCdVpYanZZYVpHV3BnQUlKZkgzamhiNGppakkwRm5uT2V1czJQMDF6LTVKcW5rdUY0ZUVreDlnX3lXQ1JlT3RfbEFkQlgzaUlfUnlRdkdfZmpNX0lHMFNTZWo0S0dwS3BUSm5PRnJzOHUxSmlydi1pSEY4cG9zX3BDel9oT0JHSVQyOERLMC1MdWdvSmsyYTI3STJjMUN1Z3k3OGhFYnVPTE5qTkRqY2laaW9qVkdBdXZYR3h5RDRXaXJma09FVE1HX1NQYWtjTFhyNWNGdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "00eed95a3897",
       "title": "Local group raises awareness of brain aneurysm signs as survivor shares story",
       "published": "2026-09-17T01:06:24+00:00",
+      "summary": "Local group raises awareness of brain aneurysm signs as survivor shares story&nbsp;&nbsp;WKRCJohns Hopkins neurosurgeon details brain aneurysm symptoms ahead of awareness month&nbsp;&nbsp;WBFFOfficials estimate millions live with a brain aneurysm, but what are the signs?&nbsp;&nbsp;YahooInteractive: A brain Aneurysm ruptures every 18 minutes in America. Do you know your risk?&nbsp;&nbsp;KMTV 3 News Now OmahaHealth Beat: Who's at risk for brain aneurysms, and the warning signs to watch for&nbsp;&",
       "sources": [
         {
           "name": "WKRC",
           "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNOXIzU0g5LXRZV000QjVPam1SOTNOeERIWFJEeWtxSHJqVVZkeUZxMVR5YnhxVHRqMl9PNU0zaWR6aE1qdFRqT1BGemFmejlXZVlURUxOeWliVGJUQnl1ZUU5TTZwODdycmw5akU2UjhvT0d4SGw3Z1VBeHE4Wm9hUkpIeWhCZzgweDFKaURqNExPTXlQYkRfRTJCN2h0T1hOQU9CTERNcmFTYUM4a216QnN5OUlSb1NURjF4WFNtNHRXbDZtTHpfenR6d1pMVV9PZ0JOc2RCanJuRS00MHROLUUzbTQzX0ExU0ZKaHc1NWFCUTJlU1E4QWphODR0em13ZHo2Mi1UX1BFaG90clNqM2FYMUpEbjJSSTdLMXVvOEU2Z2FPQW1vWnlaQ296bDRNYXlPSW1zUzR2NlAwMk42TGl6czM?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "myocardial infarction",
@@ -2604,13 +2774,14 @@
       "id": "0731f3aeba26",
       "title": "Fossil Evidence Suggests Early Homo Had Abandoned Tree-Climbing by 1.8 Million Years Ago",
       "published": "2026-09-17T00:32:47+00:00",
+      "summary": "Fossil Evidence Suggests Early Homo Had Abandoned Tree-Climbing by 1.8 Million Years Ago&nbsp;&nbsp;Sci.NewsBone strength study reveals new clues about human evolution&nbsp;&nbsp;Phys.org2026-09 - Little Foot study points to major shift in how human ancestors moved&nbsp;&nbsp;Wits UniversityThe Story of Walking Upright is Written in the Bones of Our Ancestors&nbsp;&nbsp;Nautilus | Science Connected",
       "sources": [
         {
           "name": "Sci.News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWTVaSG9DcjdBOGd6NlNtZl9renNtYlNJNm1OTVVydkNuZE9NWUpoOGZUYkdzUUM0X29GdTVKZUpzNm0yMkNMRU50MkNubXIxU29QODhEMTFJdExrZnk4VUE1RmctVkFtQ1pJYlZlTGFSOTBTNS1haXRWNXVST3BTOW5XQmhFVXRidDkxZVlfVVhpMTAwVk5n?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "myocardial infarction",
@@ -2657,16 +2828,30 @@
       ]
     },
     {
+      "id": "1bf70bf01db1",
+      "title": "Metro Atlanta daughter fighting to keep her mom alive in ICU after mosquito bite gave her West Nile Virus",
+      "published": "2026-09-17T00:28:00+00:00",
+      "summary": "Metro Atlanta daughter fighting to keep her mom alive in ICU after mosquito bite gave her West Nile Virus&nbsp;&nbsp;11Alive.comSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "11Alive.com",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNTi1mZE10a2FkUEVkUGRLd2wwOUpPTTZ0alM1Mnk3UTFyU1dHM0Q1S0psSTU5cmRfaXA0S1YxM05INDdLbUtNUGFleUxLcGN4SWlfWXJiV3ViM1ZKaUJSQWVyOXhOTDZMTC05bklwQVpLdHJRYmhiajdPUENFR0VONjMxbkNMbUl5RjdQRXRJSE5wcEZacXJhNHdKMFVQTzJlYVlmbDRVOFM5VUFiX0ZkaWh2OHQyWWVTMUs0ZG0xRHBsUnRZdFhCeWhkYzllM0NMR3h5TzBYeWR3SHNHUEMwYXdpWUJkOXA1UFl1azU4Qk5ZMklITUhBQlRLeS0tSFFPY2I2ZTJRR1hfQ1BtQmZxYw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "03b743628d0f",
       "title": "Space weather caused a 16-minute train delay in 1848. 'Our research has a hint of a detective story'",
       "published": "2026-09-16T22:00:00+00:00",
+      "summary": "Space weather caused a 16-minute train delay in 1848. 'Our research has a hint of a detective story'&nbsp;&nbsp;SpaceStudy: Famous ‘Space Weather’ Train Delay Actually Happened Seven Years Later&nbsp;&nbsp;Sci.NewsA 16-minute train delay shows how a solar storm disrupted Victorian technology&nbsp;&nbsp;Phys.orgMystery of one of the earliest recorded space weather impacts solved&nbsp;&nbsp;BGS - British Geological SurveyMystery Of One Of The Oldest Space Weather Impacts On Human Technology Solved",
       "sources": [
         {
           "name": "Space",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWWtma0VPbEtQY0VFNUNSMHM2eGVLVkNsWkhXMDdXMEo1eWxpemN3bkotSmsybXpHaVdsN3dVd3llMzJfazY1Sm9YR3FMZEhMQjdtNTV6YnhsVkZPZmI0SnVSUHFyZDBsQXFIWC1IbVUtT0VYdFl4Vkc3eGhxSWpyT3RzaUthZ1BoSlIwbUJydXFCTElkcUd5RmtwdjFIa19GUFNUWk9NeVpjckd6dkgtYTNaQWZvcTdGSGI5ejg3U3FTcTBPdTlrNjc5MDJGQQ?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "myocardial infarction",
@@ -2748,16 +2933,43 @@
       ]
     },
     {
+      "id": "600a38d0e980",
+      "title": "Popular drugs for bone health linked to significantly lower Alzheimer's risk - Fox News",
+      "published": "2026-09-16T21:13:24+00:00",
+      "summary": "Popular drugs for bone health linked to significantly lower Alzheimer's risk&nbsp;&nbsp;Fox NewsCommon Osteoporosis Drugs Linked to Lower Alzheimer’s and Dementia Risk in Large Study&nbsp;&nbsp;wowo.comHong Kong study links common bone drugs to lower Alzheimer’s risk in older adults&nbsp;&nbsp;tippahnews.comCould Common Osteoporosis Drugs Lower Your Dementia Risk? A Study of 120,000 Adults Found a Link&nbsp;&nbsp;inc.comCommon Osteoporosis Drugs Linked to Lower Alzheimer’s Risk in 120,000-Person",
+      "sources": [
+        {
+          "name": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbEVvQkJ0M28zcDd0Zi1pblNhd21jTVBaQnFHSG9yMHpOQkhiSjdEeFpxemFoeE9wNTBwZnh4WGtVd1NWS3VoWFB5a3ZOTnJnY2dCRzNKOGFoX0hTQkVhOGpUbFB1SFBXU0xMYkRCWURUeXotRjFsbmhVeWRNTlNQeVN4VWZTY0dLU2JqRkFWbkd5ZEVHQ1VtOEg0aUxZemVD0gGmAUFVX3lxTE0yd01fMW9vWDNXaC1GOWVUSHgzR3gwV2lLYXI2RnNrSTNzeWNlZDdITUFfcFFFWXVNMUVFcXZDZGpLeWJEYmNQRVhnMXdhS1dpVzl5QUdjQm5ZM2VkVWdYdk1mZFZ6cDNVajFOMGNsNGgwZnFDOUtoZkl0NXAtM01HZkJKTXBnRy14UXBzemlLbVpiNzdYamEtTXgtVjZxMGREeGtaOHc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "61c7a198584b",
+      "title": "Molecular-level observation of the self-assembly of a virus-like particle",
+      "published": "2026-09-16T18:44:22+00:00",
+      "summary": "Molecular-level observation of the self-assembly of a virus-like particle&nbsp;&nbsp;NatureSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KUmx0bTJBSUFSeEotWjI1NGpSdHRKMnBtcnlJdDkwaERmamVTZmduam9GMUtvaXJ2eFhiMVV3c0tvUzV3OXQ5RlkyQmN5SUl3bGVOaVVwZ1VVaVZVN2hB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "c04ef4f0f501",
       "title": "Study defines early-onset cirrhosis caused by fatty liver disease",
       "published": "2026-09-16T18:34:00+00:00",
+      "summary": "Study defines early-onset cirrhosis caused by fatty liver disease&nbsp;&nbsp;News-MedicalStudy Finds Why Young Adults May Develop Early Fatty Liver Disease&nbsp;&nbsp;UC San Diego HealthStudy Assesses Who's at Risk for Young-Onset MASLD Cirrhosis&nbsp;&nbsp;MedPage TodayGenetic and Metabolic Risks Linked to Young-Onset MASLD Cirrhosis: Study&nbsp;&nbsp;Medical DialoguesFatty Liver Signals Risks for Diabetes, Kidney Disease, Heart Conditions&nbsp;&nbsp;조선일보",
       "sources": [
         {
           "name": "News-Medical",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVzhwMjdGcTZJajZpaDh6Mjc4V0VxOVBheGxDaXdnNlA0S2txYmFZdjJ1RmQ5Y1Nrcnd2dXEyREVXZTI0eDBhaVYwdHc1Tm1oU2cxU2FYeXg5LURxbXBUbXhrc3N6dncxSnJxX0paSFk2dGFONXVRdXR3cDNYS09leEdtdk56QVBZb3oxM2tBUGlMRGE0bVBfUXZEOUt6THFsZ2VzZElNRTU2d001a1MxNVJhWQ?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "heart disease",
@@ -2806,13 +3018,14 @@
       "id": "4bf67ef8cb40",
       "title": "Human brain cells transplanted into mice in ‘most extensive’ integration ever",
       "published": "2026-09-16T18:20:54+00:00",
+      "summary": "Human brain cells transplanted into mice in ‘most extensive’ integration ever&nbsp;&nbsp;NatureDevelopmental xenocortication using human-derived organoids in mice&nbsp;&nbsp;NatureResearchers have created a mouse with a partly human brain&nbsp;&nbsp;The EconomistScientists Created Mice With Half-Human Brains. The Hybrid Animals Could Revolutionize Our Understanding of Neurological Disorders&nbsp;&nbsp;smithsonianmag.comPart-human part-mouse brain developed in science breakthrough&nbsp;&nbsp;bbc.",
       "sources": [
         {
           "name": "Nature",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Ba0xwVElGOGtoRXlkX1dpZHNFQkRDLThWWF9KTnd6dFJTQ0Z3ZUpTcU1UcjdFdDR6SldWenJlaWxjNDVCX1NMWFhpNFhYSjJyczZaVk9rd1hMTHVlWmhZ?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "myocardial infarction",
@@ -2897,13 +3110,14 @@
       "id": "41d419445597",
       "title": "Lighting up a cigarette harms more than the lungs. A doctor explains",
       "published": "2026-09-16T15:00:29+00:00",
+      "summary": "Lighting up a cigarette harms more than the lungs. A doctor explains&nbsp;&nbsp;CNNStudy: Smokers underestimate heart attack, stroke risks&nbsp;&nbsp;qz.comWhy quit smoking and vaping? Heart surgeon Dr London warns it affects ‘the entire body from top of head to tip of toes’&nbsp;&nbsp;Hindustan TimesStudy: Cigarettes can cause heart attack, stroke — but many smokers unaware&nbsp;&nbsp;TheCable Lifestyle",
       "sources": [
         {
           "name": "CNN",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNHNMWFQ4eG42M0ZhY25pdmNBRlUwcE5pUGtnLW1wdXNjTUcyMVJWQ2FNM2NLdnNkWl9RcS1odkV6enY1RnJsdjhNOG1ZUllyVWdtMElDcEwyU3NETVZEX0R5blozd3JwcWhKdzl3TGZQWGlRQTVqekVqWU03TXFJdUNMa2RycUN2SXFzR1VHaG9YMHV1Mmc?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "myocardial infarction",
@@ -2953,13 +3167,14 @@
       "id": "acafc0f6aff0",
       "title": "'It is extremely rare to witness': Scientists record humpback whale mom grieving her stillborn calf in first-of-its-kind footage - Live Science",
       "published": "2026-09-16T14:44:47+00:00",
+      "summary": "'It is extremely rare to witness': Scientists record humpback whale mom grieving her stillborn calf in first-of-its-kind footage&nbsp;&nbsp;Live ScienceA Humpback Whale Mom Stayed With Her Stillborn Calf, Repeatedly Touching It and Staring Into Its Eyes. Was She Grieving?&nbsp;&nbsp;smithsonianmag.comVideo appears to capture moment female whale mourns stillborn calf&nbsp;&nbsp;USA TodayHumpback whale seen grieving dead calf in rare footage: \"Heartbreaking to watch\"&nbsp;&nbsp;CBS NewsDo whales g",
       "sources": [
         {
           "name": "Live Science",
           "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMVJFd0RGRFhBSU1lMGdoMXBESzcwRzVIbFBvSDVCQ0dWTzJReXJZYXhzMDNIaWhscmtxRVVCN0xMYndnZWZVZUJVcy1ScHdCX0ZPNkNkbUd4dmNISk02US1KNDVYTFQxanhFbDNSd2lweTQtYzJ6cWFMOXdUS0RTal9aaklxUVZKT0tReFA0OWJFTlM3MjdwLWFWMGlfOVI1RlFIQnBqTEIyb0l2QjY4NzlieTNQNTlRVUo1MGJsRFlpdU84TzZIb3IzY2xYUWloR1c4Vkp5d3hFTFliclR5dGhsQWhFaF80MVNZMXBCeTFaSUJZTUs1dTlTT0M?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "myocardial infarction",
@@ -3075,13 +3290,14 @@
       "id": "80329e202a86",
       "title": "CIDRAP Op-Ed: HHS is asking what to call vaccine recommendations. You have 4 days to weigh in.",
       "published": "2026-09-16T14:19:26+00:00",
+      "summary": "CIDRAP Op-Ed: HHS is asking what to call vaccine recommendations. You have 4 days to weigh in.&nbsp;&nbsp;CIDRAP",
       "sources": [
         {
           "name": "CIDRAP",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaEdRYVBiTl9mWVF1YVNQTTBRaWJzaFd6ZnFwR0E5RU4xVWtnOGN0MTR6eHBBbWs1WVNhaEpuTzl1M0RyUjM0RXVnWDZIaGxhZ1lMOC01clU5TWRzaUZINmk3WlRSLVJoVXhBWEF1Q01RWkwwUjU0Tml5WnRhdGYyb1BpNjg5Z251YmxGSHpRZVFWOWJJZUR5UldaSzlKckR0bmJRZDRzQnRtcWdPeURDaktHMGpqczFrbjd2cC1xTWlwMHc?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "arthritis",
@@ -3123,13 +3339,14 @@
       "id": "3ec4cf232b9e",
       "title": "Fourth Florida resident dies from ‘flesh-eating’ bacteria linked to eating raw oysters - Yahoo News Canada",
       "published": "2026-09-16T13:38:37+00:00",
+      "summary": "Fourth Florida resident dies from ‘flesh-eating’ bacteria linked to eating raw oysters&nbsp;&nbsp;Yahoo News Canada3 cases of flesh-eating bacteria reported in South Carolina&nbsp;&nbsp;WRDWRare 'flesh-eating' bacteria causes 9 deaths this season. See where&nbsp;&nbsp;USA TodayFourth person dead from ‘flesh-eating’ bacteria linked to eating raw oysters&nbsp;&nbsp;YahooVibrio vulnificus reported in Duval as researchers work to develop AI warning system&nbsp;&nbsp;Action News Jax",
       "sources": [
         {
           "name": "Yahoo News Canada",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV0ZGTkc5WFc1cm9RSDQ1QkZfMTlHcXpoemRuV1pfSEM5S2xTZDB5cXJNSkUzR0tMRWc1T0IzTTF3YTBvRXAwZTFxQWVUQU52bk5xR3NvWUFTT0JHc204Qk5hMnBMaGsxVjl5bUZ0aW9EYnN2VVVSdjZFeTRVOWp5bQ?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "arthritis",
@@ -3171,13 +3388,14 @@
       "id": "ecece90d31e5",
       "title": "Is the shingles vaccine the secret to living longer and delaying dementia? Here’s what the science says.",
       "published": "2026-09-16T11:17:00+00:00",
+      "summary": "Is the shingles vaccine the secret to living longer and delaying dementia? Here’s what the science says.&nbsp;&nbsp;MarketWatchShingles vaccine could decrease chances of dementia per new study&nbsp;&nbsp;delawarepublic.orgShingrix shingles vaccine linked with lower heart disease risks&nbsp;&nbsp;Harvard HealthUS study links Shingrix to lower heart risks&nbsp;&nbsp;UA.NEWS",
       "sources": [
         {
           "name": "MarketWatch",
           "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcjZTOGQ0dEhxSUF0VGpCR3V6UG0wZzJFTXk0WnlCY3BNeVhqcWdMcFVDb0M4dGllRmx0VFY3MHNKdnpFMUdzR1hqZWQyTGdMaUhQcTU0VlYtTlo0TDNob2o4dkVnSzJKdUdaVWFtT2JXMmJUVmE5MkQweHE3NnhKbThOaXV2dFVrVmRMQWtMY0dtT0dMOW1yUjJCRFJZeUl4X2xKbHFNVEctdGwzLUozWWZ6WDRNTlFpcUJhZWlYWDlOaTQ3WWhvUXZabkNXWk55dFk3Y2IxUWlBREVF?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "heart disease",
@@ -3192,16 +3410,30 @@
       ]
     },
     {
+      "id": "89d143d4b339",
+      "title": "Common antibiotic linked to higher risk of death in adults, major study finds - LiveNOW from FOX",
+      "published": "2026-09-16T11:07:31+00:00",
+      "summary": "Common antibiotic linked to higher risk of death in adults, major study finds&nbsp;&nbsp;LiveNOW from FOXSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "LiveNOW from FOX",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYmFDZzkzS0tCdTBvRVREWnQzczdEYUItTGRzVG1la3JkN3p0akVWM2JWT1FfVTllRHlzSllCUzhRTlNZYjhlTFczb3NUdjlIZUxSTjIybkZmZm1ybnZFdEVyYk5LYk1rc05uTmpoZXVhNlVCck80dS1UYUlEMUpxUi03bWNEMzlBV1cxck9RZmxIQV93a0NBR0dORk9IYm83?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "427c58da23b7",
       "title": "Rare cancer cases strike in California community as families demand answers - Fox News",
       "published": "2026-09-16T11:00:00+00:00",
+      "summary": "Rare cancer cases strike in California community as families demand answers&nbsp;&nbsp;Fox NewsExclusive | Ladera Ranch mom reveals grisly skin condition she developed in town rocked by Ewing sarcoma&nbsp;&nbsp;New York PostEnvironmental testing underway after multiple children diagnosed with Ewing sarcoma&nbsp;&nbsp;wowo.comSoil and water tests underway in Ladera Ranch due to cancer concerns&nbsp;&nbsp;NBC Los AngelesOncologist discusses risk of rare bone cancer cases among children in Californ",
       "sources": [
         {
           "name": "Fox News",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZURuazRtRGZjejdRWHZaanpMZjVDWEszVVhzVXktd2dvWElEXzZUa2t1S2RzNF9kMTFpWFZlVGhuYW5MTnd3SXl6WUxycmIzR0trQzYycFJZUzVzRnkxdWVlamVXTVE4Z193TVVUeGRrdHpvbkltZVBYblNWMEVHeFp2dTRhTGNHVHV2bnlyUzJEUndtWmJWMUFJNnZrbWpNd1HSAacBQVVfeXFMUEtTeGNrVkYzUWcwU3lKcGNUWDktVHRaUUVKYTYyOXhEaVZuMnZiOFJ4ZTZ6T1c4T094eC1nSjNIT19BNUtnNXp4Z3NPbFZlZVl5ZkFsekVMUl9hamwySmFHVHk3V2R1MnNoQmpKdGpsNnJEOHQ1Y3kxMVkyQ01XM05DcGtlOGhyel9qNk5FLWhfTzd2RDBHOU16cnA3cmxhSVlncGh5S0U?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "cancer",
@@ -3294,16 +3526,30 @@
       ]
     },
     {
+      "id": "72c700863bfe",
+      "title": "A 3,700-Year-Old Virus Hiding in a Medieval Book Just Killed 500,000 Animals",
+      "published": "2026-09-15T18:00:00+00:00",
+      "summary": "A 3,700-Year-Old Virus Hiding in a Medieval Book Just Killed 500,000 Animals&nbsp;&nbsp;YahooSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ2hyOGl4SXJveTdHejc1QVYwUm1HVklwakx0WmhLTnQzVlJpd0RXYnY5UzREa0hZb0s1TzV1d0g4eGJZT2IybU1iXzJjZEMtcmMwMDNyNEd0SFZTdUctUXNHODQzSFNFemd0NDg4UXVVWXczaU91NWkyMzFpbjc5X01vYVp1RmpV?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "b97be8cf5581",
       "title": "Do GLP-1 Drugs Destroy Muscle? The 2026 Meta-Analysis Truth About Ozempic, Protein, and Heavy Lifting - Muscle & Fitness",
       "published": "2026-09-15T16:18:54+00:00",
+      "summary": "Do GLP-1 Drugs Destroy Muscle? The 2026 Meta-Analysis Truth About Ozempic, Protein, and Heavy Lifting&nbsp;&nbsp;Muscle & FitnessWhen Weight Loss Isn’t the Goal of Taking a GLP-1&nbsp;&nbsp;WSJCan Obesity Treatment With GLP-1 Drugs Last Forever?&nbsp;&nbsp;MedscapeIs long-term use of GLP-1s safe?&nbsp;&nbsp;Dallas NewsAs GLP-1 demand grows, compounded alternatives gain ground&nbsp;&nbsp;bizjournals.com",
       "sources": [
         {
           "name": "Muscle & Fitness",
           "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNWJuTVFQblNjRDFPWmw4VWplV0l3WUNiMGwycUJPSzMtLWNJWGFjTW5wVlNGRUdFYVkwZGdHMzd3eGpTSmZPYXYteUNlSzViVEk4M1VHeWptZFFCVDFhMFZnY1N6T0E2RnBPSFlrWVNxWnNJb0pxV1M0US1Ick16cjJ4TGZXbXVZcGR0OTJBQXRuNjJKck5VSXphYmM1cnVsaVBtc3l0SzZmUTlxVlhJdW9jVFEtcjNtcXlLcm1Da0RRd0dpUkpZRERtZnN3V00yMWVzTDRhRzk5TTJHV0N4c1VIOHYyRTViWlE?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "arthritis",
@@ -3345,13 +3591,14 @@
       "id": "f194da3be1b8",
       "title": "Water equivalent to two Pacific Oceans could be stashed 2,900 km inside Earth",
       "published": "2026-09-15T07:31:00+00:00",
+      "summary": "Water equivalent to two Pacific Oceans could be stashed 2,900 km inside Earth&nbsp;&nbsp;WIONEarth May Be Harboring a Hidden Stash of Water, Up to 1,800 Miles Below The Surface&nbsp;&nbsp;ScienceAlertTwo new minerals may hold vast water deep in Earth: Study | Tap to know more | Inshorts&nbsp;&nbsp;InshortsEarth May Be Hoarding a Secret Water Stash 1,800 Miles Beneath Our Feet&nbsp;&nbsp;GizmodoScientists have found two new compounds that can trap the building blocks of water&nbsp;&nbsp;ThePrint",
       "sources": [
         {
           "name": "WION",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcWVGZkJhYTNKVm5yZ0F6U2VObWtVYUFZdjBoVGxBM3Y5M014bTZKZ2pQZnQ2SzJTb2I1ODIyWE5WbzFPZ2k2QUJPNmU1amF5RTF0SkM2MDkxXzdnbExMXzJRRzBMak5wakhBWEwtT2xXeFJ5aFZsVk5tR3ROZGR0ZTQtRnNaQVhNaEhLa29nUDVvM3AyYUZlbjVJS3BEZnlfNzUwX3M4Znc2R3ZuWHk1X3lELVRIeHhSVEF3MlJsby3SAcYBQVVfeXFMT0lidWpPOUZWcEd0M1dBZEtFUXczSXdQcUhjS2hhY0RTWWNudjV0ODRUMU1aY2ZucndUZFFmVmFfN1hBQU15dHlBMEhZcXByV1YzaUJxRGlxdG02SE95VlJXTnVUUS05dnpUU1JFb19ob09CQzE4a2h1NE83QmhaODdwS3lkNldxdlJSdzFQS1FhaURVTlNuWWtPa1lPTHBsUTBDbEVFd01IX19SYl9FZVI0emVyTlFnTmJ3dldzR2d5LVk3RjZR?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "myocardial infarction",
@@ -3436,13 +3683,14 @@
       "id": "0d4c4408c0de",
       "title": "CERN Detects Quantum Entanglement in Particles Born From The Higgs Boson",
       "published": "2026-09-14T20:01:10+00:00",
+      "summary": "CERN Detects Quantum Entanglement in Particles Born From The Higgs Boson&nbsp;&nbsp;ScienceAlertScientists Observe Quantum Entanglement In The Extreme&nbsp;&nbsp;ForbesPhysicists help uncover 'spooky' quantum effect in the Large Hadron Collider&nbsp;&nbsp;Phys.orgScientists make 'spooky' discovery with the Large Hadron Collider – and it sounds like something straight out of science fiction&nbsp;&nbsp;BBC Sky at Night MagazineEntanglement Survives Violence of CERN’s Large Hadron Collider&nbsp;&nb",
       "sources": [
         {
           "name": "ScienceAlert",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaE5md1VhNHhYWmNELUl4ckRkTU4wLWtHRjFpRlJtR3J0SVhjbXhNOWlpU2tSeVZJdmt3aTQ4azdldnVuR0x1RUV5Ym9mZXFnZ1BCYllhdjBvU2R1M1BBeHRWN0dVd2h1SXVTUW9XbkhBVkNTcy1mMUJkck55LUxnaXo0RkJiUDQwS3gwenNvVFN0bWM4S2ZJd0dPMk1hbEMwQlRF?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "arthritis",
@@ -3484,13 +3732,14 @@
       "id": "7aa93964765e",
       "title": "Want to lower your risk of dementia? It doesn’t involve a blood test - AP News",
       "published": "2026-09-12T11:57:00+00:00",
+      "summary": "Want to lower your risk of dementia? It doesn’t involve a blood test&nbsp;&nbsp;AP NewsScientists may have found a way to predict when Alzheimer's symptoms will begin&nbsp;&nbsp;YahooResearchers warn social media driving harmful misuse of Alzheimer’s blood tests&nbsp;&nbsp;The GuardianAs Alzheimer’s Blood Tests Jockey for Market Share, Convenience and Cost Will Be Key&nbsp;&nbsp;GenomeWebEYE ON HEALTH: New Alzheimer's Blood Test Available in Dalton&nbsp;&nbsp;Local 3 News",
       "sources": [
         {
           "name": "AP News",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdFdoQjdUQjlHT045Z2ktTHFnSXY2aVhtVE5KQ0NjV2d6bEFIYlZkUm42OGVYNGdETFE0YjhrUUkxbTQzY2JPTGxCWm90VnptX2k4czlvTkNlU183TVlkOElDZHFwVURXV3I3VF9DOU1sMHJyRGdrUzlHaUlnTFRqQjdNT3FGR0YtNm9ZR1NOcFdyZERlcnFhTG1B?oc=5"
         }
       ],
-      "keywords": [
+      "matched_keywords": [
         {
           "type": "indication",
           "name": "myocardial infarction",

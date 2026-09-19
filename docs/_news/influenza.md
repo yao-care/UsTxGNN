@@ -32,19 +32,19 @@ This page brings together the latest health news about “flu” and lists the d
 
 ## Related News (3)
 
-### [New, more effective flu vaccine available soon at local CVS, Walgreens stores - The Press Democrat](https://news.google.com/rss/articles/CBMigwFBVV95cUxPTlV1R3RGd2F4U05BSFNybXF1WHFWNmFZdl94VTJOajlFZHhrNTdvVmZZcXBUZ04yVE5FUlNjQmluX2g1aC1MRmRGQW9Kc0pZU0piUG1iSEFyZVZDT040Xy00OVpxTW9uejQtbG9RclVGTzJydm5BNkpDTms5QnhGd21Fdw?oc=5)
+### [The first mRNA flu shot is now available. Here’s who can get it. - NBC News](https://news.google.com/rss/articles/CBMingFBVV95cUxPQVlfbjVNblpLdjJFVlRTcU9SaEthTjhzVTA5R0xDUU5vZUkzUnJkaXNqS25sM3pQZjVTci1RbnRvRVlBeG5JUUdHdzM2UmtDWmZ1dW1CNWJlNFo5X2FpMmVUVEhBN29jVGw4emRRMG5xWmlTUlhrRkZkYjRWdy0zNHM3NlVON2NsWDVCeVpaWUpsMUlVVEhQSUhPTmlyUQ?oc=5)
 
-2026-09-17
+2026-09-18
 
-Source: [The Press Democrat](https://news.google.com/rss/articles/CBMigwFBVV95cUxPTlV1R3RGd2F4U05BSFNybXF1WHFWNmFZdl94VTJOajlFZHhrNTdvVmZZcXBUZ04yVE5FUlNjQmluX2g1aC1MRmRGQW9Kc0pZU0piUG1iSEFyZVZDT040Xy00OVpxTW9uejQtbG9RclVGTzJydm5BNkpDTms5QnhGd21Fdw?oc=5)
+Source: [NBC News](https://news.google.com/rss/articles/CBMingFBVV95cUxPQVlfbjVNblpLdjJFVlRTcU9SaEthTjhzVTA5R0xDUU5vZUkzUnJkaXNqS25sM3pQZjVTci1RbnRvRVlBeG5JUUdHdzM2UmtDWmZ1dW1CNWJlNFo5X2FpMmVUVEhBN29jVGw4emRRMG5xWmlTUlhrRkZkYjRWdy0zNHM3NlVON2NsWDVCeVpaWUpsMUlVVEhQSUhPTmlyUQ?oc=5)
 
 ---
 
-### [What you need to know about this year’s fall vaccines - The Boston Globe](https://news.google.com/rss/articles/CBMifkFVX3lxTE9yeWFhQ1hKVHdfN1RuWnpiUlhLYzYwdW5GNWF2bF9LRDFlbFlPMG5LdnBySXc1RENPZWVNSTdwdl9sVUtsc3FsOUpWQXByMEx2aTN1OEFuWHZzV19LcVYzM0JNaGdPMEtEY2x6enJDX3NUQzNQazBuOUZFeWRyQQ?oc=5)
+### [Three more turkey operations hit by bird flu - Willmar Radio](https://news.google.com/rss/articles/CBMixwFBVV95cUxNblQzT2pmZ2d5d2ZhUFcwOF9Jd3Q3ay14X09PT3ZKRnhVZTAxbWllXzRjQm56bjRpN19xQ1NkcDd4T3EwZGUyaHZhOHBQSTY1bFBlSldFNjRLSGduXzVka014blY1MGdPZld2TVpUb09Jd1hITE1uWWlldFlvaW9GRDJ6UmdldkJPM1VZNWU3ZFJPSzlxTEdaaU5vQld2SWxaR0JSSEREdDc3V21VSlZuVmxsbFc0M2RFbnpDak1wNk90MF9nM1o0?oc=5)
 
-2026-09-17
+2026-09-18
 
-Source: [The Boston Globe](https://news.google.com/rss/articles/CBMifkFVX3lxTE9yeWFhQ1hKVHdfN1RuWnpiUlhLYzYwdW5GNWF2bF9LRDFlbFlPMG5LdnBySXc1RENPZWVNSTdwdl9sVUtsc3FsOUpWQXByMEx2aTN1OEFuWHZzV19LcVYzM0JNaGdPMEtEY2x6enJDX3NUQzNQazBuOUZFeWRyQQ?oc=5)
+Source: [Willmar Radio](https://news.google.com/rss/articles/CBMixwFBVV95cUxNblQzT2pmZ2d5d2ZhUFcwOF9Jd3Q3ay14X09PT3ZKRnhVZTAxbWllXzRjQm56bjRpN19xQ1NkcDd4T3EwZGUyaHZhOHBQSTY1bFBlSldFNjRLSGduXzVka014blY1MGdPZld2TVpUb09Jd1hITE1uWWlldFlvaW9GRDJ6UmdldkJPM1VZNWU3ZFJPSzlxTEdaaU5vQld2SWxaR0JSSEREdDc3V21VSlZuVmxsbFc0M2RFbnpDak1wNk90MF9nM1o0?oc=5)
 
 ---
 

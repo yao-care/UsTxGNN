@@ -30,11 +30,11 @@ This page combines the AI-predicted indications for Rutin with the latest health
 
 ## Related News (8)
 
-### [Trump says he will demand drug companies split up vaccines into more doses](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOclhMQWt5cVpINmo3MF9qR21zZWRhM0NuMmltRmFEeURrYWxrTEVfUmtpZEhua0ZfTjI1QjRMekZlOXdGUjRSR3JnSjVnWC1fNEFTZjg3eFNCSmRya3lGeERndWZqc0NnaTJZeDBDWjJ1Vl82T2RxNkFzSXp4YXg2NmRRQXljUW1BZWtEd19zMmxNQWVPTC1WRldCU1gzT1hkd1p3cUtIV0lnY2dTMk0zVk9IaUJMTmh6LVd3Qk1KQm5MUQ?oc=5)
+### [Trump says he will demand drug companies split up vaccines into more doses - The Washington Post](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOclhMQWt5cVpINmo3MF9qR21zZWRhM0NuMmltRmFEeURrYWxrTEVfUmtpZEhua0ZfTjI1QjRMekZlOXdGUjRSR3JnSjVnWC1fNEFTZjg3eFNCSmRya3lGeERndWZqc0NnaTJZeDBDWjJ1Vl82T2RxNkFzSXp4YXg2NmRRQXljUW1BZWtEd19zMmxNQWVPTC1WRldCU1gzT1hkd1p3cUtIV0lnY2dTMk0zVk9IaUJMTmh6LVd3Qk1KQm5MUQ?oc=5)
 
-2026-09-19 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-09-19 <span class="news-indication-tag">UC</span>
 
-Source: [washingtonpost.com](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOclhMQWt5cVpINmo3MF9qR21zZWRhM0NuMmltRmFEeURrYWxrTEVfUmtpZEhua0ZfTjI1QjRMekZlOXdGUjRSR3JnSjVnWC1fNEFTZjg3eFNCSmRya3lGeERndWZqc0NnaTJZeDBDWjJ1Vl82T2RxNkFzSXp4YXg2NmRRQXljUW1BZWtEd19zMmxNQWVPTC1WRldCU1gzT1hkd1p3cUtIV0lnY2dTMk0zVk9IaUJMTmh6LVd3Qk1KQm5MUQ?oc=5)
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOclhMQWt5cVpINmo3MF9qR21zZWRhM0NuMmltRmFEeURrYWxrTEVfUmtpZEhua0ZfTjI1QjRMekZlOXdGUjRSR3JnSjVnWC1fNEFTZjg3eFNCSmRya3lGeERndWZqc0NnaTJZeDBDWjJ1Vl82T2RxNkFzSXp4YXg2NmRRQXljUW1BZWtEd19zMmxNQWVPTC1WRldCU1gzT1hkd1p3cUtIV0lnY2dTMk0zVk9IaUJMTmh6LVd3Qk1KQm5MUQ?oc=5)
 
 ---
 
@@ -46,11 +46,11 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMikwJBVV95cU
 
 ---
 
-### [Tyrannosaurus rex Had Mammal-Like Body Temperature, Study Finds](https://news.google.com/rss/articles/CBMihgFBVV95cUxQYktRNXA2ZmdzTDlHNDdJbWpPX0h5UVZMVHNYOFFzdWYtcTlZRlU3dlVvd3ZPOVpVNERhVTRieDdRRWRoZFcwMlFKRVBJVDdCR25vS0ozMTllek5CSFJhdzBPRzRWQmI4SmowWDBBbVVaLUNfeXNXWEJ1bXZLQVZmaV9Cenh4UQ?oc=5)
+### [NASA Punched 5 Holes Into Mars. The Craters Revealed a Surprise.](https://news.google.com/rss/articles/CBMilgFBVV95cUxObC1fc3ZGT3dIcWRDR3NTekVGbTNONXhJVm5oYTZxNC1yV0QwWUtnakRvZGdEb01qMVQ0TVBoOTRrYkFwZTdzMk9oWklSZmprR1JfS1VaanhMX3JJMXRSYmxGdUcwRVRQUXVnRm1lZ3FYYzRRcUlWTXc4VGljMWktNFhwR0lHQmJFNk5Dc0VNeFVmdkxOdFE?oc=5)
 
-2026-09-18 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-09-19 <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [Sci.News](https://news.google.com/rss/articles/CBMihgFBVV95cUxQYktRNXA2ZmdzTDlHNDdJbWpPX0h5UVZMVHNYOFFzdWYtcTlZRlU3dlVvd3ZPOVpVNERhVTRieDdRRWRoZFcwMlFKRVBJVDdCR25vS0ozMTllek5CSFJhdzBPRzRWQmI4SmowWDBBbVVaLUNfeXNXWEJ1bXZLQVZmaV9Cenh4UQ?oc=5)
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMilgFBVV95cUxObC1fc3ZGT3dIcWRDR3NTekVGbTNONXhJVm5oYTZxNC1yV0QwWUtnakRvZGdEb01qMVQ0TVBoOTRrYkFwZTdzMk9oWklSZmprR1JfS1VaanhMX3JJMXRSYmxGdUcwRVRQUXVnRm1lZ3FYYzRRcUlWTXc4VGljMWktNFhwR0lHQmJFNk5Dc0VNeFVmdkxOdFE?oc=5)
 
 ---
 
@@ -62,19 +62,19 @@ Source: [Ars Technica](https://news.google.com/rss/articles/CBMijwFBVV95cUxPUVl5
 
 ---
 
-### [How this common age-related eye disease leads to hallucinations](https://news.google.com/rss/articles/CBMioAFBVV95cUxQY1ZoRnNtSlh1LUQ4c2F5eVByRDBaaDAyRHpaWmNsV0UwQXMxRWNhODViOF9QaU5CUGFQcTNPMmpodW1CdzVEalJ6SWJRZUZWeHFEdDlzdHZhUEZVaTViQ0k3VUF0eFZFTWdKc3hFRXJDLUR1S245R3JZa29YbWlzTjZ4aXB5dlh1RTR0OFpnRjROS0thSUxqWWtMRFhhYS1w?oc=5)
+### [How this common age-related eye disease leads to hallucinations - The Washington Post](https://news.google.com/rss/articles/CBMioAFBVV95cUxQY1ZoRnNtSlh1LUQ4c2F5eVByRDBaaDAyRHpaWmNsV0UwQXMxRWNhODViOF9QaU5CUGFQcTNPMmpodW1CdzVEalJ6SWJRZUZWeHFEdDlzdHZhUEZVaTViQ0k3VUF0eFZFTWdKc3hFRXJDLUR1S245R3JZa29YbWlzTjZ4aXB5dlh1RTR0OFpnRjROS0thSUxqWWtMRFhhYS1w?oc=5)
 
 2026-09-18 <span class="news-indication-tag">UC</span>
 
-Source: [washingtonpost.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxQY1ZoRnNtSlh1LUQ4c2F5eVByRDBaaDAyRHpaWmNsV0UwQXMxRWNhODViOF9QaU5CUGFQcTNPMmpodW1CdzVEalJ6SWJRZUZWeHFEdDlzdHZhUEZVaTViQ0k3VUF0eFZFTWdKc3hFRXJDLUR1S245R3JZa29YbWlzTjZ4aXB5dlh1RTR0OFpnRjROS0thSUxqWWtMRFhhYS1w?oc=5)
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMioAFBVV95cUxQY1ZoRnNtSlh1LUQ4c2F5eVByRDBaaDAyRHpaWmNsV0UwQXMxRWNhODViOF9QaU5CUGFQcTNPMmpodW1CdzVEalJ6SWJRZUZWeHFEdDlzdHZhUEZVaTViQ0k3VUF0eFZFTWdKc3hFRXJDLUR1S245R3JZa29YbWlzTjZ4aXB5dlh1RTR0OFpnRjROS0thSUxqWWtMRFhhYS1w?oc=5)
 
 ---
 
-### [From toothbrushes to aerospace: Graphene research advances fibers that conduct heat efficiently](https://news.google.com/rss/articles/CBMiigFBVV95cUxONTVreWl2cVhob1lXeVpiS1pVUzdPVkxPME5xQnRSNXEwMTN6SE5heGdlZEFxOUthNGU1M29UNEFtNVY3Qk9hQ05sb1FZX3pENnpMODdUcG1PWXVmUkNpdzQ0LUZrdWp3RVdjOWpDZjRvWHg0eWVYSFhOOGhOZnloNl8zWFhSMkJIOVE?oc=5)
+### [We Asked a Dietitian If You Need Protein at Every Meal - Verywell Health](https://news.google.com/rss/articles/CBMihwFBVV95cUxNd3RERUk2anU1eUM4U1hwN09RR1Y0ZW1LZkxTNFBOaDRiTGVIU19BTTEwOFlkd0lEREtBWm9uMHprdFpkM1FDSWVxQnpSTW9qdEhiWXhkUmJnT29OdDBpRWV0Wi02alVnYzBnWWNWaVNZa0ZtWjlaYWpsaHlxN1RVdkk2bmllNDg?oc=5)
 
 2026-09-18 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [Phys.org](https://news.google.com/rss/articles/CBMiigFBVV95cUxONTVreWl2cVhob1lXeVpiS1pVUzdPVkxPME5xQnRSNXEwMTN6SE5heGdlZEFxOUthNGU1M29UNEFtNVY3Qk9hQ05sb1FZX3pENnpMODdUcG1PWXVmUkNpdzQ0LUZrdWp3RVdjOWpDZjRvWHg0eWVYSFhOOGhOZnloNl8zWFhSMkJIOVE?oc=5)
+Source: [Verywell Health](https://news.google.com/rss/articles/CBMihwFBVV95cUxNd3RERUk2anU1eUM4U1hwN09RR1Y0ZW1LZkxTNFBOaDRiTGVIU19BTTEwOFlkd0lEREtBWm9uMHprdFpkM1FDSWVxQnpSTW9qdEhiWXhkUmJnT29OdDBpRWV0Wi02alVnYzBnWWNWaVNZa0ZtWjlaYWpsaHlxN1RVdkk2bmllNDg?oc=5)
 
 ---
 
@@ -90,7 +90,7 @@ Source: [AOL.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxOb2s4RVExR
 
 2026-09-15 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [bbc.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxPOTNGZ1FXNzdQRVFkSG1LVjFfZG9DZTJmYVFVc3BuTUJDWkRuekFkdW1vRGFSWGJ5VmZfc01lV0NwbUtkSDJKclFKZUxaQzN3MjNTY3Q3UFRwamZPQmlxRG9VcHhGNk1Hdjlpd081NkVyVk5vMjhvcVkxM3B2MnI0eEpuR3NoYkF4UWdKRHprckh3SG5sMVZv?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMilwFBVV95cUxPOTNGZ1FXNzdQRVFkSG1LVjFfZG9DZTJmYVFVc3BuTUJDWkRuekFkdW1vRGFSWGJ5VmZfc01lV0NwbUtkSDJKclFKZUxaQzN3MjNTY3Q3UFRwamZPQmlxRG9VcHhGNk1Hdjlpd081NkVyVk5vMjhvcVkxM3B2MnI0eEpuR3NoYkF4UWdKRHprckh3SG5sMVZv?oc=5)
 
 ---
 

@@ -32,19 +32,19 @@ This page brings together the latest health news about “flu” and lists the d
 
 ## Related News (3)
 
+### [What neuroscientists thought was a biological signature for IQ might actually be socioeconomic privilege](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWTJxNTAxNlM1MnRyekx6dDZRQUp3NkctaUUtUHBBai1zaW1Od0ctOTdmNVJFeGRURmdLbG9kZ2ZPWloxbldzSG95NzVCZUlnb0YwaUFzdnY1OG9jUm9xSjY0T05XbmpFemlzUE9MWmE0M3BQQVNMTVNzTnNObVlwcUljdGVHTC1UMU9XZUlDWDg2NU5Xb0JTUmRGOTV1ckdYcnp1aU5Udk0?oc=5)
+
+2026-09-19
+
+Source: [PsyPost](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWTJxNTAxNlM1MnRyekx6dDZRQUp3NkctaUUtUHBBai1zaW1Od0ctOTdmNVJFeGRURmdLbG9kZ2ZPWloxbldzSG95NzVCZUlnb0YwaUFzdnY1OG9jUm9xSjY0T05XbmpFemlzUE9MWmE0M3BQQVNMTVNzTnNObVlwcUljdGVHTC1UMU9XZUlDWDg2NU5Xb0JTUmRGOTV1ckdYcnp1aU5Udk0?oc=5)
+
+---
+
 ### [The first mRNA flu shot is now available. Here’s who can get it. - NBC News](https://news.google.com/rss/articles/CBMingFBVV95cUxPQVlfbjVNblpLdjJFVlRTcU9SaEthTjhzVTA5R0xDUU5vZUkzUnJkaXNqS25sM3pQZjVTci1RbnRvRVlBeG5JUUdHdzM2UmtDWmZ1dW1CNWJlNFo5X2FpMmVUVEhBN29jVGw4emRRMG5xWmlTUlhrRkZkYjRWdy0zNHM3NlVON2NsWDVCeVpaWUpsMUlVVEhQSUhPTmlyUQ?oc=5)
 
 2026-09-18
 
 Source: [NBC News](https://news.google.com/rss/articles/CBMingFBVV95cUxPQVlfbjVNblpLdjJFVlRTcU9SaEthTjhzVTA5R0xDUU5vZUkzUnJkaXNqS25sM3pQZjVTci1RbnRvRVlBeG5JUUdHdzM2UmtDWmZ1dW1CNWJlNFo5X2FpMmVUVEhBN29jVGw4emRRMG5xWmlTUlhrRkZkYjRWdy0zNHM3NlVON2NsWDVCeVpaWUpsMUlVVEhQSUhPTmlyUQ?oc=5)
-
----
-
-### [Three more turkey operations hit by bird flu - Willmar Radio](https://news.google.com/rss/articles/CBMixwFBVV95cUxNblQzT2pmZ2d5d2ZhUFcwOF9Jd3Q3ay14X09PT3ZKRnhVZTAxbWllXzRjQm56bjRpN19xQ1NkcDd4T3EwZGUyaHZhOHBQSTY1bFBlSldFNjRLSGduXzVka014blY1MGdPZld2TVpUb09Jd1hITE1uWWlldFlvaW9GRDJ6UmdldkJPM1VZNWU3ZFJPSzlxTEdaaU5vQld2SWxaR0JSSEREdDc3V21VSlZuVmxsbFc0M2RFbnpDak1wNk90MF9nM1o0?oc=5)
-
-2026-09-18
-
-Source: [Willmar Radio](https://news.google.com/rss/articles/CBMixwFBVV95cUxNblQzT2pmZ2d5d2ZhUFcwOF9Jd3Q3ay14X09PT3ZKRnhVZTAxbWllXzRjQm56bjRpN19xQ1NkcDd4T3EwZGUyaHZhOHBQSTY1bFBlSldFNjRLSGduXzVka014blY1MGdPZld2TVpUb09Jd1hITE1uWWlldFlvaW9GRDJ6UmdldkJPM1VZNWU3ZFJPSzlxTEdaaU5vQld2SWxaR0JSSEREdDc3V21VSlZuVmxsbFc0M2RFbnpDak1wNk90MF9nM1o0?oc=5)
 
 ---
 

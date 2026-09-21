@@ -3,7 +3,7 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 5 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 6 articles, 1 related drugs."
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>5 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,29 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [4 Early Signs of Heart Disease Many Women Overlook, According to a Cardiac Nurse](https://news.google.com/rss/articles/CBMieEFVX3lxTE0tUlBLU3hOVW1UU2lIOTFRQkFPQ2MxcXNIZXdaVUdDTHFvdy11NlNZRnEwc2I4TGVXeHhwQU4xV0FWdVJMN18xZzFwcmphM0w0bHZVUGk4RTJUeUpkUEJyS1dRTkJTeGVMSzhGX0Y0M00zWnRxWS1TUg?oc=5)
+
+2026-09-20
+
+Source: [health.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE0tUlBLU3hOVW1UU2lIOTFRQkFPQ2MxcXNIZXdaVUdDTHFvdy11NlNZRnEwc2I4TGVXeHhwQU4xV0FWdVJMN18xZzFwcmphM0w0bHZVUGk4RTJUeUpkUEJyS1dRTkJTeGVMSzhGX0Y0M00zWnRxWS1TUg?oc=5)
+
+---
 
 ### [8 common food additives linked to high blood pressure and heart disease](https://news.google.com/rss/articles/CBMib0FVX3lxTE5zTThHRnJ4ZXUzbnRJRDM0ZXFXTElCQ0ZQVUc3RFVLMDQ3TzVMTFlNZWlCU1VTVkk5WjlQLVVlZ1JjcEFQRWFYaENqMVFsdGFNZVlxRUwxVmpYYjVqeFZmcFVUcVM2Rm5LQ1M2VjczRQ?oc=5)
 
 2026-09-20
 
-Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5zTThHRnJ4ZXUzbnRJRDM0ZXFXTElCQ0ZQVUc3RFVLMDQ3TzVMTFlNZWlCU1VTVkk5WjlQLVVlZ1JjcEFQRWFYaENqMVFsdGFNZVlxRUwxVmpYYjVqeFZmcFVUcVM2Rm5LQ1M2VjczRQ?oc=5)
+Source: [sciencedaily.com](https://news.google.com/rss/articles/CBMib0FVX3lxTE5zTThHRnJ4ZXUzbnRJRDM0ZXFXTElCQ0ZQVUc3RFVLMDQ3TzVMTFlNZWlCU1VTVkk5WjlQLVVlZ1JjcEFQRWFYaENqMVFsdGFNZVlxRUwxVmpYYjVqeFZmcFVUcVM2Rm5LQ1M2VjczRQ?oc=5)
 
 ---
 
-### [Rings around a tiny body have changed over the past decade - Ars Technica](https://news.google.com/rss/articles/CBMioAFBVV95cUxObHJmVlNlOUtCS1lMQUtXSnlIU2JPY3ZiLVZxNFVUSDRkUlRYM3Jvdk1BTUd6bEFZRU9uOHg3dFY4bDRLeWgxbV9iRTNwc1hiTkZXOWRsTVE3aTF4aVBZcGZad2dkYlE5NU9MU3dBeFZ5YjVzQVdwNGNZbXU4MXJHeE5WVHJKU0ZRZzAxT1JNU2U4LXBEMnZxVXBWeG5fT3o3?oc=5)
+### [Rings around a tiny body have changed over the past decade](https://news.google.com/rss/articles/CBMioAFBVV95cUxObHJmVlNlOUtCS1lMQUtXSnlIU2JPY3ZiLVZxNFVUSDRkUlRYM3Jvdk1BTUd6bEFZRU9uOHg3dFY4bDRLeWgxbV9iRTNwc1hiTkZXOWRsTVE3aTF4aVBZcGZad2dkYlE5NU9MU3dBeFZ5YjVzQVdwNGNZbXU4MXJHeE5WVHJKU0ZRZzAxT1JNU2U4LXBEMnZxVXBWeG5fT3o3?oc=5)
 
 2026-09-19
 
-Source: [Ars Technica](https://news.google.com/rss/articles/CBMioAFBVV95cUxObHJmVlNlOUtCS1lMQUtXSnlIU2JPY3ZiLVZxNFVUSDRkUlRYM3Jvdk1BTUd6bEFZRU9uOHg3dFY4bDRLeWgxbV9iRTNwc1hiTkZXOWRsTVE3aTF4aVBZcGZad2dkYlE5NU9MU3dBeFZ5YjVzQVdwNGNZbXU4MXJHeE5WVHJKU0ZRZzAxT1JNU2U4LXBEMnZxVXBWeG5fT3o3?oc=5)
+Source: [arstechnica.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxObHJmVlNlOUtCS1lMQUtXSnlIU2JPY3ZiLVZxNFVUSDRkUlRYM3Jvdk1BTUd6bEFZRU9uOHg3dFY4bDRLeWgxbV9iRTNwc1hiTkZXOWRsTVE3aTF4aVBZcGZad2dkYlE5NU9MU3dBeFZ5YjVzQVdwNGNZbXU4MXJHeE5WVHJKU0ZRZzAxT1JNU2U4LXBEMnZxVXBWeG5fT3o3?oc=5)
 
 ---
 

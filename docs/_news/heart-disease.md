@@ -3,7 +3,7 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 6 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 5 articles, 1 related drugs."
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>5 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (6)
+## Related News (5)
 
 ### [The Vivid Dreams Stage of REM Sleep Is Linked With a Lower Risk of 83 Diseases](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeXRYbDQ5dFVrX3QtY3NObmNVU05MMWlYT2dZeG1PY0J3Yy1WajZSV3lQYTJrSEpyUllKYUU2dWpRWldsWUNGMVdTcGh3Y0hYckNfV1lwSnItV1d1T3RKUmI0QVNoUk02b3EtcjlUeS1QMUs1c1o2TkVxWEpFOEZfbURTZkFkSHZGTUswMEpsY01GVmxBMDlUZUtnY0U3M2ZvSTZEOXV3cHhNbEU?oc=5)
 
@@ -47,11 +47,11 @@ Source: [health.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE0tUlBLU3
 
 ---
 
-### [8 common food additives linked to high blood pressure and heart disease](https://news.google.com/rss/articles/CBMib0FVX3lxTE5zTThHRnJ4ZXUzbnRJRDM0ZXFXTElCQ0ZQVUc3RFVLMDQ3TzVMTFlNZWlCU1VTVkk5WjlQLVVlZ1JjcEFQRWFYaENqMVFsdGFNZVlxRUwxVmpYYjVqeFZmcFVUcVM2Rm5LQ1M2VjczRQ?oc=5)
+### [​Chronic stress and heart disease: Massive study finds ‘hidden threat’ that raises risk of heart attack and stroke by 43%​ - The Times of India](https://news.google.com/rss/articles/CBMingJBVV95cUxPdmJVRndjcW1YaHNHaXo4YTRxczExSjQ1M2taV0JVN0tYTFlrOXpTYkMycTJfdlc5eDluajJZM0Y1dDQ3TXh4aGpRMVZXM3R4MFdkLUZPRmxHYVdhRVJ6QmlJa21ReDZoa1NRUE9QSTZFT2Jvci1acFV4N240TGNZVkQ5RENEam1GV2xkRUpMM2JIdWpiRFBVXzBZT1dxR2tFSU5kdTRkOV9uOWRLNWtyR3lDa2F5NVpPNHlvZDJEMEdSZTNWUTRBWURIY1BCTE9CRE9iT3hMOFNSWmM0WmNzb0FVTFkwQk5sVXA2ajlMVG9jQncxTjE3UnBFcDFLSEVwSmN4WDlQWFAtSUxYaEY2a05LZXNVY3ZyWnI3MkxR?oc=5)
 
 2026-09-20
 
-Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5zTThHRnJ4ZXUzbnRJRDM0ZXFXTElCQ0ZQVUc3RFVLMDQ3TzVMTFlNZWlCU1VTVkk5WjlQLVVlZ1JjcEFQRWFYaENqMVFsdGFNZVlxRUwxVmpYYjVqeFZmcFVUcVM2Rm5LQ1M2VjczRQ?oc=5)
+Source: [The Times of India](https://news.google.com/rss/articles/CBMingJBVV95cUxPdmJVRndjcW1YaHNHaXo4YTRxczExSjQ1M2taV0JVN0tYTFlrOXpTYkMycTJfdlc5eDluajJZM0Y1dDQ3TXh4aGpRMVZXM3R4MFdkLUZPRmxHYVdhRVJ6QmlJa21ReDZoa1NRUE9QSTZFT2Jvci1acFV4N240TGNZVkQ5RENEam1GV2xkRUpMM2JIdWpiRFBVXzBZT1dxR2tFSU5kdTRkOV9uOWRLNWtyR3lDa2F5NVpPNHlvZDJEMEdSZTNWUTRBWURIY1BCTE9CRE9iT3hMOFNSWmM0WmNzb0FVTFkwQk5sVXA2ajlMVG9jQncxTjE3UnBFcDFLSEVwSmN4WDlQWFAtSUxYaEY2a05LZXNVY3ZyWnI3MkxR?oc=5)
 
 ---
 
@@ -68,14 +68,6 @@ Source: [Ars Technica](https://news.google.com/rss/articles/CBMioAFBVV95cUxObHJm
 2026-09-19
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMikwJBVV95cUxQaUdfV1hOdmRmMHFDSl9hV0xyaURXVjZjMENKYzJZYU9NTUZFcUF3NS1QNHk2WktQU3JQejZROEZKQk1ReWNueTByMXljcG5fTG0wY1JGazhUT2tpSENreGc5WFhhNTBxT0RydkJ0ajdQYlFOSlpnMTF3Z2NvaE9HV0hFRlhZM3lETHlzTEItdDRPZ3hQZENPUFc1V3hpLU5YZkZuT2xKRUw0TEVMT1ZzbnJyc01PYjRWUnBDYXBEaG9OTXBncVJJVnBCX0JUYmlSenlyUEZsSjctdXp4c1B1U1RkQ0tYY1h3cjlsY2N3Q2I1VExTS1pGWEtBWmtvb3FKV3JkOVRxUGU3NHdJMDZSejJmb9IBmwJBVV95cUxOWEhJNTJfVGthTUsyN0ZaVVp5NE9TNUlpY1pPbWFhRW9NUUlNUzRNaHpZQjNpQUxkOEJLR2JqQ05sRDVqSG9HaGt0X1MtdzA1aGkwdmY5ZzRHYmRWZUtaUVQ1RGpRUmR1d05kdWFZNm5hcGpSZDUzRDdnZnhxcElsaFZqbk9KMmRnRUpuUzFCTXVBcjM4MnlETUNZVzhPOFhEOU1hZGFSbE1pZGdWcU9YM3BhQnNoUEU2dnNKdTNwOEhZTHdEZWRnTWV0ZEw1cnVBaTJ3UW9CYV9DR2piNnpCZWVhOVdQb1BiNEY5UktUbWNnVmE0Y2ZXUkhQdXNvaUZJR0FFdGpfVXJIVXFZY1AtUHVGbEM5TzFTVGk0?oc=5)
-
----
-
-### [NASA Punched 5 Holes Into Mars. The Craters Revealed a Surprise.](https://news.google.com/rss/articles/CBMilgFBVV95cUxObC1fc3ZGT3dIcWRDR3NTekVGbTNONXhJVm5oYTZxNC1yV0QwWUtnakRvZGdEb01qMVQ0TVBoOTRrYkFwZTdzMk9oWklSZmprR1JfS1VaanhMX3JJMXRSYmxGdUcwRVRQUXVnRm1lZ3FYYzRRcUlWTXc4VGljMWktNFhwR0lHQmJFNk5Dc0VNeFVmdkxOdFE?oc=5)
-
-2026-09-19
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMilgFBVV95cUxObC1fc3ZGT3dIcWRDR3NTekVGbTNONXhJVm5oYTZxNC1yV0QwWUtnakRvZGdEb01qMVQ0TVBoOTRrYkFwZTdzMk9oWklSZmprR1JfS1VaanhMX3JJMXRSYmxGdUcwRVRQUXVnRm1lZ3FYYzRRcUlWTXc4VGljMWktNFhwR0lHQmJFNk5Dc0VNeFVmdkxOdFE?oc=5)
 
 ---
 

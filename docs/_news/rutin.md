@@ -14,7 +14,7 @@ permalink: /news/rutin/
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>5 news articles</strong>, with 0 predicted indications.
+<strong>Rutin</strong> currently has <strong>9 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,7 +28,23 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (9)
+
+### [Kidney disease of unknown origin spreads in US. Who is at risk?](https://news.google.com/rss/articles/CBMirAFBVV95cUxQa1FqdndtZkhFSFdQMm1nU3lBQlptRmp2ZEdGM1hHYVJQTkNFTE83UUVBR2xQRG8za1daMldsb0VLNWIyZTZKTjdqY1pIdkp1bHczOVlxaGViYnNXZHRhZFRMZ2hLWDZqUzRidkZPd0tRWnF1Q21OX2lMeFdMVGxzUFd3MFZ3SEZKMldiaDFNalhfZFQ4RklvQ25qYnFoWXIzOWMzMWMwQjhncVJt0gGyAUFVX3lxTE9WMXVCZkx4akY5ZVhXSnIwTUxHMmt1bXA1YlFsZVZpTFlCbXNvZjhDOFFxTEg0a19uZEFUYk1yRGxPenpFVEg5TWNXX0p4R2dTVEJma0FzRmFPQmpGNXlIZUp5d2p2OVI4ZGIzOFlXOElDUnJ4TGhtOS0zUGRnRlJlZVRnWkFKOXpKRGF3TDZaTGZsS0lUV3lEeDhsSThKTE85a0FORTFWc3FZOGZOaXFpSWc?oc=5)
+
+2026-09-21 <span class="news-indication-tag">UC</span>
+
+Source: [thehill.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxQa1FqdndtZkhFSFdQMm1nU3lBQlptRmp2ZEdGM1hHYVJQTkNFTE83UUVBR2xQRG8za1daMldsb0VLNWIyZTZKTjdqY1pIdkp1bHczOVlxaGViYnNXZHRhZFRMZ2hLWDZqUzRidkZPd0tRWnF1Q21OX2lMeFdMVGxzUFd3MFZ3SEZKMldiaDFNalhfZFQ4RklvQ25qYnFoWXIzOWMzMWMwQjhncVJt0gGyAUFVX3lxTE9WMXVCZkx4akY5ZVhXSnIwTUxHMmt1bXA1YlFsZVZpTFlCbXNvZjhDOFFxTEg0a19uZEFUYk1yRGxPenpFVEg5TWNXX0p4R2dTVEJma0FzRmFPQmpGNXlIZUp5d2p2OVI4ZGIzOFlXOElDUnJ4TGhtOS0zUGRnRlJlZVRnWkFKOXpKRGF3TDZaTGZsS0lUV3lEeDhsSThKTE85a0FORTFWc3FZOGZOaXFpSWc?oc=5)
+
+---
+
+### [How supermassive black holes are the architects of entire galaxies](https://news.google.com/rss/articles/CBMixgFBVV95cUxOSXNiQzA3YXlzQmZJRkl6SDFfWDVmRE4xS1BEVnBSRFkyQ0lTOWdad080UFZBb3J3MHlmY01vVkNYMElRMUswOWJJZUN3NEFGV0ktVkdDY3paamdqZWUxLWJmWUtMUGxGckFIMHo2WFBjYmMyX2h1ZUs3X0dKVEt6VVo2ZjRaTml4NGhLYTN5LWJFdU5rdjF3WDVRY20tTVA4bVlEd0hfXzRNT2RoN3N4M3RVajhFYlVBYW5hNllXYkl2ZktyQkE?oc=5)
+
+2026-09-21 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [Space](https://news.google.com/rss/articles/CBMixgFBVV95cUxOSXNiQzA3YXlzQmZJRkl6SDFfWDVmRE4xS1BEVnBSRFkyQ0lTOWdad080UFZBb3J3MHlmY01vVkNYMElRMUswOWJJZUN3NEFGV0ktVkdDY3paamdqZWUxLWJmWUtMUGxGckFIMHo2WFBjYmMyX2h1ZUs3X0dKVEt6VVo2ZjRaTml4NGhLYTN5LWJFdU5rdjF3WDVRY20tTVA4bVlEd0hfXzRNT2RoN3N4M3RVajhFYlVBYW5hNllXYkl2ZktyQkE?oc=5)
+
+---
 
 ### [The Vivid Dreams Stage of REM Sleep Is Linked With a Lower Risk of 83 Diseases](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeXRYbDQ5dFVrX3QtY3NObmNVU05MMWlYT2dZeG1PY0J3Yy1WajZSV3lQYTJrSEpyUllKYUU2dWpRWldsWUNGMVdTcGh3Y0hYckNfV1lwSnItV1d1T3RKUmI0QVNoUk02b3EtcjlUeS1QMUs1c1o2TkVxWEpFOEZfbURTZkFkSHZGTUswMEpsY01GVmxBMDlUZUtnY0U3M2ZvSTZEOXV3cHhNbEU?oc=5)
 
@@ -38,27 +54,43 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeXRY
 
 ---
 
-### [Health officials seek woman seen handling rabid bat in downtown Minneapolis on Tuesday - CBS News](https://news.google.com/rss/articles/CBMigwFBVV95cUxPVjB2c3JvVFR0NklxaE9oQzlwWUJDS2d2OEE0WnhudXA1ZXVxQ3ZZYTFNMzB3Nms0LWxkV0kzdjF0MzRFZkZmRlVpUW5ZX2d0bTc3dGgyVjBVOVNTMUVQdGlUR2NkOWNRbWYxQjNYeE5NZWNSc0JIc1p1MzEtaU1GaHc3Zw?oc=5)
+### [Why dementia is preventable – and the new tools that can reduce your risk - South China Morning Post](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSTRXdjNtVk1fMXpidFZjWmdzc2t1QkZwUHBISEY5SDJlRWdRWW93RWRhQzJJdW1qQlB0dkRMWEVkU3ZsSURCVWNiaXE4T0ZJclVpcUxGcFFvSHZ5Q292cWt6NjBneFd5dTYydkxUX3N5Z3l5TW1HQ0FsRXNyMnE0Sm9WUW03dnJqMEhqTWJyaHB6T25fZDFhbC1McEVlUlRtLUNNRl9MSnJ6ZTF3NHZkbi1tVGl4Tm1nMUFJY0U0UdIBvwFBVV95cUxPN2JkZk1YX3A0LXoycFhCY1ZVa2FINnZvaWVIWFFGWXNwcEFNclZFRXdiamFUUzZudTFkMzJzcmhNelZNZER6dHUtWk9NSlBoV1VfdFNMMG5Va2ZydklIMHRUN1djdDZ5enZ5d3ZNWXpFQU4tUlQ4U3dsYThuM3NNSHU0XzY1akxHWmZNWnNxdlVfQl9tWlotVDhFM3VBT1R1cG10SW9udVpqakEwQTEwMVFKS25CMGhyRGRtbGFIQQ?oc=5)
 
 2026-09-20 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [CBS News](https://news.google.com/rss/articles/CBMigwFBVV95cUxPVjB2c3JvVFR0NklxaE9oQzlwWUJDS2d2OEE0WnhudXA1ZXVxQ3ZZYTFNMzB3Nms0LWxkV0kzdjF0MzRFZkZmRlVpUW5ZX2d0bTc3dGgyVjBVOVNTMUVQdGlUR2NkOWNRbWYxQjNYeE5NZWNSc0JIc1p1MzEtaU1GaHc3Zw?oc=5)
+Source: [South China Morning Post](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSTRXdjNtVk1fMXpidFZjWmdzc2t1QkZwUHBISEY5SDJlRWdRWW93RWRhQzJJdW1qQlB0dkRMWEVkU3ZsSURCVWNiaXE4T0ZJclVpcUxGcFFvSHZ5Q292cWt6NjBneFd5dTYydkxUX3N5Z3l5TW1HQ0FsRXNyMnE0Sm9WUW03dnJqMEhqTWJyaHB6T25fZDFhbC1McEVlUlRtLUNNRl9MSnJ6ZTF3NHZkbi1tVGl4Tm1nMUFJY0U0UdIBvwFBVV95cUxPN2JkZk1YX3A0LXoycFhCY1ZVa2FINnZvaWVIWFFGWXNwcEFNclZFRXdiamFUUzZudTFkMzJzcmhNelZNZER6dHUtWk9NSlBoV1VfdFNMMG5Va2ZydklIMHRUN1djdDZ5enZ5d3ZNWXpFQU4tUlQ4U3dsYThuM3NNSHU0XzY1akxHWmZNWnNxdlVfQl9tWlotVDhFM3VBT1R1cG10SW9udVpqakEwQTEwMVFKS25CMGhyRGRtbGFIQQ?oc=5)
 
 ---
 
-### [Simple Blood Test Could Flag Your Memory Problems 6 Years Before They Start](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ1NVeVA4Ni1sWkYxUTlPSjJWT3E5TTRUcTlfSkh0TC1lN0wwM0ZZQU9XXzUxc1RPNVJyR2U0T2FaNW9fZ2NGalpSbnMwTi0tRGY4VlR3YUNxTEJWZWhicW5CRzZOVkU3U21iUVktU0xLT3BhN1dWWEhNekpIMnZoenhWX1pKNnNzQTZPemxHcVBmZHdhdENTcmc2VUxER0VpQ21VYS1vZw?oc=5)
+### [Doctors Are Telling Us What To Expect For Sick Season This Year, And I'm Already So Grossed Out](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZWFjbVlXdWpFcW1lYWFLZXZFZGlNUnRrdUhjaXdYRERpUVJqdGQyNlhHYXp6d3VmZTZjZ2NtMmctbjFsRHN6cWM5eHRFdjhObWcxUk13bHlPRU1vZWZreThoeEQyV1M5ZV9YemROTkhnTHRGOFU1YUpWLVZKSW5BVnlTSzhsN3hMRWtqdg?oc=5)
 
-2026-09-19 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-09-20 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">flu</span> <span class="news-indication-tag">UC</span>
 
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ1NVeVA4Ni1sWkYxUTlPSjJWT3E5TTRUcTlfSkh0TC1lN0wwM0ZZQU9XXzUxc1RPNVJyR2U0T2FaNW9fZ2NGalpSbnMwTi0tRGY4VlR3YUNxTEJWZWhicW5CRzZOVkU3U21iUVktU0xLT3BhN1dWWEhNekpIMnZoenhWX1pKNnNzQTZPemxHcVBmZHdhdENTcmc2VUxER0VpQ21VYS1vZw?oc=5)
+Source: [BuzzFeed](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZWFjbVlXdWpFcW1lYWFLZXZFZGlNUnRrdUhjaXdYRERpUVJqdGQyNlhHYXp6d3VmZTZjZ2NtMmctbjFsRHN6cWM5eHRFdjhObWcxUk13bHlPRU1vZWZreThoeEQyV1M5ZV9YemROTkhnTHRGOFU1YUpWLVZKSW5BVnlTSzhsN3hMRWtqdg?oc=5)
 
 ---
 
-### [NASA Punched 5 Holes Into Mars. The Craters Revealed a Surprise.](https://news.google.com/rss/articles/CBMilgFBVV95cUxObC1fc3ZGT3dIcWRDR3NTekVGbTNONXhJVm5oYTZxNC1yV0QwWUtnakRvZGdEb01qMVQ0TVBoOTRrYkFwZTdzMk9oWklSZmprR1JfS1VaanhMX3JJMXRSYmxGdUcwRVRQUXVnRm1lZ3FYYzRRcUlWTXc4VGljMWktNFhwR0lHQmJFNk5Dc0VNeFVmdkxOdFE?oc=5)
+### [The Healthiest Way to Drink Your Coffee, According to a Nutritionist](https://news.google.com/rss/articles/CBMiW0FVX3lxTE00YkUzX0RsUmpldFN1M3JYZTNBd0FQMzVKOUVCcDRVQ2lwbmZ5MFRwbU5NLTdwNlg5YndXampZOWE2RWZhQ3VFekxyRHBDMTRrdmJNVWN2a29BY28?oc=5)
 
-2026-09-19 <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-09-20 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMilgFBVV95cUxObC1fc3ZGT3dIcWRDR3NTekVGbTNONXhJVm5oYTZxNC1yV0QwWUtnakRvZGdEb01qMVQ0TVBoOTRrYkFwZTdzMk9oWklSZmprR1JfS1VaanhMX3JJMXRSYmxGdUcwRVRQUXVnRm1lZ3FYYzRRcUlWTXc4VGljMWktNFhwR0lHQmJFNk5Dc0VNeFVmdkxOdFE?oc=5)
+Source: [Vogue](https://news.google.com/rss/articles/CBMiW0FVX3lxTE00YkUzX0RsUmpldFN1M3JYZTNBd0FQMzVKOUVCcDRVQ2lwbmZ5MFRwbU5NLTdwNlg5YndXampZOWE2RWZhQ3VFekxyRHBDMTRrdmJNVWN2a29BY28?oc=5)
+
+---
+
+### [T. rex teeth indicate it ran as warm as an elephant - Ars Technica](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcnVXQmh0RDFINUQ1dnU3T1lHQWMzNGxROFZ1dEhjM1hkZ0ZkbDZfbE50U01xRmg4dDVmNHhhZkxvV3ZjWUw5M1FjWTZiaUc3WjBOQUFsR0VSUGZwdUlRTEdKZzVjZUp3T3hOREhzZzJPeDlZVlhCY2czX0xfUTZfSFZuRG84NmtoeGttaUExbkEwUkN5dnc?oc=5)
+
+2026-09-20 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Ars Technica](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcnVXQmh0RDFINUQ1dnU3T1lHQWMzNGxROFZ1dEhjM1hkZ0ZkbDZfbE50U01xRmg4dDVmNHhhZkxvV3ZjWUw5M1FjWTZiaUc3WjBOQUFsR0VSUGZwdUlRTEdKZzVjZUp3T3hOREhzZzJPeDlZVlhCY2czX0xfUTZfSFZuRG84NmtoeGttaUExbkEwUkN5dnc?oc=5)
+
+---
+
+### [​Chronic stress and heart disease: Massive study finds ‘hidden threat’ that raises risk of heart attack and stroke by 43%​ - The Times of India](https://news.google.com/rss/articles/CBMingJBVV95cUxPdmJVRndjcW1YaHNHaXo4YTRxczExSjQ1M2taV0JVN0tYTFlrOXpTYkMycTJfdlc5eDluajJZM0Y1dDQ3TXh4aGpRMVZXM3R4MFdkLUZPRmxHYVdhRVJ6QmlJa21ReDZoa1NRUE9QSTZFT2Jvci1acFV4N240TGNZVkQ5RENEam1GV2xkRUpMM2JIdWpiRFBVXzBZT1dxR2tFSU5kdTRkOV9uOWRLNWtyR3lDa2F5NVpPNHlvZDJEMEdSZTNWUTRBWURIY1BCTE9CRE9iT3hMOFNSWmM0WmNzb0FVTFkwQk5sVXA2ajlMVG9jQncxTjE3UnBFcDFLSEVwSmN4WDlQWFAtSUxYaEY2a05LZXNVY3ZyWnI3MkxR?oc=5)
+
+2026-09-20 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">heart attack</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMingJBVV95cUxPdmJVRndjcW1YaHNHaXo4YTRxczExSjQ1M2taV0JVN0tYTFlrOXpTYkMycTJfdlc5eDluajJZM0Y1dDQ3TXh4aGpRMVZXM3R4MFdkLUZPRmxHYVdhRVJ6QmlJa21ReDZoa1NRUE9QSTZFT2Jvci1acFV4N240TGNZVkQ5RENEam1GV2xkRUpMM2JIdWpiRFBVXzBZT1dxR2tFSU5kdTRkOV9uOWRLNWtyR3lDa2F5NVpPNHlvZDJEMEdSZTNWUTRBWURIY1BCTE9CRE9iT3hMOFNSWmM0WmNzb0FVTFkwQk5sVXA2ajlMVG9jQncxTjE3UnBFcDFLSEVwSmN4WDlQWFAtSUxYaEY2a05LZXNVY3ZyWnI3MkxR?oc=5)
 
 ---
 

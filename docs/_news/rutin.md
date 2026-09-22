@@ -14,7 +14,7 @@ permalink: /news/rutin/
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>8 news articles</strong>, with 0 predicted indications.
+<strong>Rutin</strong> currently has <strong>9 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,21 +28,29 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (9)
 
-### [Sadness and Suicidal Behavior Among Teenagers Is Declining, C.D.C. Finds - The New York Times](https://news.google.com/rss/articles/CBMie0FVX3lxTE91MGZzTl9POWEtQ25pMWxETFFlWFVoYTA5SE5xRHRSb2FVREdYR2Vjb2pfQnhXQk5ubHhvOEdBeExKeUVNWHpFXzlEMlhQdlhUc1g3Ny1CUXM4Wm53TUVXYXRCTlAtMUg2VTJQcy1HZEdKNG9BTXhWWFk3dw?oc=5)
+### [New Treatment Reduces Women’s Osteoporosis Fractures By 94%](https://news.google.com/rss/articles/CBMitgFBVV95cUxNOWJOU01xVzFBMUxlWUpmSVZlSkRsNkY5ZHJmaGVoLTE1cGREd3RncnZMdFQxY09HVC16MmpmSFRlRnYyQjBlMjJmdWFHRXFKZVd3blJNQWNlRHozazFWdndkR3VlVmtPUlJvamQwN1JTUlBZZ0FPSHBaLXlOUTRGeHVMc3RxQU94QTdYVS0zLXlLMjMzMGpHUVA5eUtOSnFxT2lHODJNaFo5TW1yMDZlX0JyQWtnQQ?oc=5)
 
-2026-09-21 <span class="news-indication-tag">UC</span>
+2026-09-22 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [The New York Times](https://news.google.com/rss/articles/CBMie0FVX3lxTE91MGZzTl9POWEtQ25pMWxETFFlWFVoYTA5SE5xRHRSb2FVREdYR2Vjb2pfQnhXQk5ubHhvOEdBeExKeUVNWHpFXzlEMlhQdlhUc1g3Ny1CUXM4Wm53TUVXYXRCTlAtMUg2VTJQcy1HZEdKNG9BTXhWWFk3dw?oc=5)
+Source: [Forbes](https://news.google.com/rss/articles/CBMitgFBVV95cUxNOWJOU01xVzFBMUxlWUpmSVZlSkRsNkY5ZHJmaGVoLTE1cGREd3RncnZMdFQxY09HVC16MmpmSFRlRnYyQjBlMjJmdWFHRXFKZVd3blJNQWNlRHozazFWdndkR3VlVmtPUlJvamQwN1JTUlBZZ0FPSHBaLXlOUTRGeHVMc3RxQU94QTdYVS0zLXlLMjMzMGpHUVA5eUtOSnFxT2lHODJNaFo5TW1yMDZlX0JyQWtnQQ?oc=5)
 
 ---
 
-### [Recognizing early signs of Alzheimer's and Dementia on World Alzheimer's Day](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZFNGWXh2OXNJcWM0X1NIeG5DQ1ZOZzBRbGtqY3ZLLXlielZTX0ZKbV9pMGpOS2lRemlKNzVsYUZ3MGVqcG5PN0txV0hINXVfZjhURnFpSENHcDJMNUJsUFVUcVdxYkhhN3pQc1NtOWhHeHh3OWFXdm5sZUg1SENjMXBHLWFhT1JZZXJXV093TDlZRk5XTEVNdzZKVlNJMVdab2piLV9ZcVlGam9NZ20zV0x0TlRpR2M1QzB2NEVQOXVuRF93alVzeDIyRzVyRkhwZDlhM1FrSVNVRWJOOUZFUnVkYXp5Z3BNYUZ4U19hOA?oc=5)
+### [Scientists are finally starting to figure out Alzheimer’s](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLW1JRzFoUzVSQVJYOEl3R0kxWWJmbDkxUkFFZGtVTkl3NFdFZUd0Rlo0c1p2T1NNSzAtUFhwSmtkVjhwWnp0TnVaVlIyTm4tTVU4WkxfZEJ4RXl5S2w0SUlMUnNMZmxJQWZ4dDJTVDZ2dEdaMU1aSXd6ejVaSUhTYWdqUGRFc1pC?oc=5)
 
-2026-09-21 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-09-21 <span class="news-indication-tag">UC</span>
 
-Source: [katu.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZFNGWXh2OXNJcWM0X1NIeG5DQ1ZOZzBRbGtqY3ZLLXlielZTX0ZKbV9pMGpOS2lRemlKNzVsYUZ3MGVqcG5PN0txV0hINXVfZjhURnFpSENHcDJMNUJsUFVUcVdxYkhhN3pQc1NtOWhHeHh3OWFXdm5sZUg1SENjMXBHLWFhT1JZZXJXV093TDlZRk5XTEVNdzZKVlNJMVdab2piLV9ZcVlGam9NZ20zV0x0TlRpR2M1QzB2NEVQOXVuRF93alVzeDIyRzVyRkhwZDlhM1FrSVNVRWJOOUZFUnVkYXp5Z3BNYUZ4U19hOA?oc=5)
+Source: [vox.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLW1JRzFoUzVSQVJYOEl3R0kxWWJmbDkxUkFFZGtVTkl3NFdFZUd0Rlo0c1p2T1NNSzAtUFhwSmtkVjhwWnp0TnVaVlIyTm4tTVU4WkxfZEJ4RXl5S2w0SUlMUnNMZmxJQWZ4dDJTVDZ2dEdaMU1aSXd6ejVaSUhTYWdqUGRFc1pC?oc=5)
+
+---
+
+### [CDC’s teen behavior report focuses on nutrition, downplays sex and drug use - NBC News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1NMQnUwTUZpT1hyWFJSUW1HRjVSUlR6amt0Q2x2SmdwXzlLZ0xHYVpWeExsNjhkbzFuUlJNV21Rc3l5elV3bTNrYTluamY5dGRGSm1nX2VHRTY1cDl5a0ZXcjdtSWw0ZzdudXpoTFpHUUNVVHBLVUl1ajZqSEkyYW5VUkY1MmRjakpkZEc4Z2hNOTU3SjhFSmRQbTRwRzI3bTZrMDFZdUdodw?oc=5)
+
+2026-09-21 <span class="news-indication-tag">UC</span>
+
+Source: [NBC News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1NMQnUwTUZpT1hyWFJSUW1HRjVSUlR6amt0Q2x2SmdwXzlLZ0xHYVpWeExsNjhkbzFuUlJNV21Rc3l5elV3bTNrYTluamY5dGRGSm1nX2VHRTY1cDl5a0ZXcjdtSWw0ZzdudXpoTFpHUUNVVHBLVUl1ajZqSEkyYW5VUkY1MmRjakpkZEc4Z2hNOTU3SjhFSmRQbTRwRzI3bTZrMDFZdUdodw?oc=5)
 
 ---
 
@@ -62,6 +70,14 @@ Source: [Space](https://news.google.com/rss/articles/CBMixgFBVV95cUxOSXNiQzA3YXl
 
 ---
 
+### [Cities won't survive on the moon as there isn't enough water, scientists say - KSL News](https://news.google.com/rss/articles/CBMirwFBVV95cUxNalZ1d2prSXdWSEVKWmc1aEhtem5pSVlMNGVLLW5ONEdJWVJMSjRyc2QzRmZmam5xZEgtLVI2Wmo0QWEyTVdGT2VjUVdlamRrOTk4cFUzSm5BNUVlT1VSRE8tSmh3TVVGNVpFcFNYdkpHWV9HNmFuT0JwNVN4SUw2Rm5wUzZUYmZndEc0ODJDYzUtTEtKYUlKQXprOWxIdG1hTGFlbFJBUUFtM1BXX2p3?oc=5)
+
+2026-09-20 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [KSL News](https://news.google.com/rss/articles/CBMirwFBVV95cUxNalZ1d2prSXdWSEVKWmc1aEhtem5pSVlMNGVLLW5ONEdJWVJMSjRyc2QzRmZmam5xZEgtLVI2Wmo0QWEyTVdGT2VjUVdlamRrOTk4cFUzSm5BNUVlT1VSRE8tSmh3TVVGNVpFcFNYdkpHWV9HNmFuT0JwNVN4SUw2Rm5wUzZUYmZndEc0ODJDYzUtTEtKYUlKQXprOWxIdG1hTGFlbFJBUUFtM1BXX2p3?oc=5)
+
+---
+
 ### [The Healthiest Way to Drink Your Coffee, According to a Nutritionist](https://news.google.com/rss/articles/CBMiW0FVX3lxTE00YkUzX0RsUmpldFN1M3JYZTNBd0FQMzVKOUVCcDRVQ2lwbmZ5MFRwbU5NLTdwNlg5YndXampZOWE2RWZhQ3VFekxyRHBDMTRrdmJNVWN2a29BY28?oc=5)
 
 2026-09-20 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
@@ -70,27 +86,19 @@ Source: [Vogue](https://news.google.com/rss/articles/CBMiW0FVX3lxTE00YkUzX0RsUmp
 
 ---
 
-### [6 sneaky ways to eat more fiber, according to experts - The Washington Post](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkJKLXltMTlmSlZjeTJiRk9OUEItV0xtY2dUS2dzTmxIeXJHZXZZeFYtQVpER3ZSSWJqTU51ZGF4OXJybnQ1cmhlSkdBNWlzQmllODBSQ3luUFIwU0lab1EzdHF0b3p6TEZsYWRmZUVpNUt2U1RBbHVCb2l6andqSjBXNlVnZ3NlcDBOcFRLNmttTDBxaFh5bm5QaTIyVm8?oc=5)
+### [T. rex teeth indicate it ran as warm as an elephant - Ars Technica](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcnVXQmh0RDFINUQ1dnU3T1lHQWMzNGxROFZ1dEhjM1hkZ0ZkbDZfbE50U01xRmg4dDVmNHhhZkxvV3ZjWUw5M1FjWTZiaUc3WjBOQUFsR0VSUGZwdUlRTEdKZzVjZUp3T3hOREhzZzJPeDlZVlhCY2czX0xfUTZfSFZuRG84NmtoeGttaUExbkEwUkN5dnc?oc=5)
 
-2026-09-19 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-09-20 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkJKLXltMTlmSlZjeTJiRk9OUEItV0xtY2dUS2dzTmxIeXJHZXZZeFYtQVpER3ZSSWJqTU51ZGF4OXJybnQ1cmhlSkdBNWlzQmllODBSQ3luUFIwU0lab1EzdHF0b3p6TEZsYWRmZUVpNUt2U1RBbHVCb2l6andqSjBXNlVnZ3NlcDBOcFRLNmttTDBxaFh5bm5QaTIyVm8?oc=5)
-
----
-
-### [Women turn to testosterone for low sex drive as doctors confront treatment ‘experimentation’ - Fox News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQVmRtbnpXazJ3aGJDNThIcjFtbGt6eldwTDRxRVB6bnlBcHRyTE91bk5LMmVWanZ6cTBYcUdlRlBzMmpFNTR2QUswd2lhekp4dUQ4ekYxcjdSRE9ybEJ6U1NqdzJyYzBnR3VaR0t2NmpKMGVhbHhOeEJDblhFV1h3bWV2TXdBNFh2dTF0Ynk2YzRTNjRLNEVNRzdWc1ZTMWltZjF0dWZLZFRaakxCaHNjSNIBtgFBVV95cUxQU3pNUmsyd2pCcG9uUktFMndwSUpfUFRDenE3SkhOQUVqT2xPeTJOdk5TREIwQlpFRDM4em1HLTZaZFhkc2pmblNyU1N1OXRNenZzcEJCQVpCQ2JRWDZFSnZONXlTQlJzSGNBVmxTMkNaX1pHRURrdnBpYnVPczRjNjYxWEtsMmFRSDhSR3h3WFdmWkhydzJBN3NMWE1ZTWMycXhsenp0SkJDX2dGYjBoaG5OdzFtdw?oc=5)
-
-2026-09-19 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [Fox News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQVmRtbnpXazJ3aGJDNThIcjFtbGt6eldwTDRxRVB6bnlBcHRyTE91bk5LMmVWanZ6cTBYcUdlRlBzMmpFNTR2QUswd2lhekp4dUQ4ekYxcjdSRE9ybEJ6U1NqdzJyYzBnR3VaR0t2NmpKMGVhbHhOeEJDblhFV1h3bWV2TXdBNFh2dTF0Ynk2YzRTNjRLNEVNRzdWc1ZTMWltZjF0dWZLZFRaakxCaHNjSNIBtgFBVV95cUxQU3pNUmsyd2pCcG9uUktFMndwSUpfUFRDenE3SkhOQUVqT2xPeTJOdk5TREIwQlpFRDM4em1HLTZaZFhkc2pmblNyU1N1OXRNenZzcEJCQVpCQ2JRWDZFSnZONXlTQlJzSGNBVmxTMkNaX1pHRURrdnBpYnVPczRjNjYxWEtsMmFRSDhSR3h3WFdmWkhydzJBN3NMWE1ZTWMycXhsenp0SkJDX2dGYjBoaG5OdzFtdw?oc=5)
+Source: [Ars Technica](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcnVXQmh0RDFINUQ1dnU3T1lHQWMzNGxROFZ1dEhjM1hkZ0ZkbDZfbE50U01xRmg4dDVmNHhhZkxvV3ZjWUw5M1FjWTZiaUc3WjBOQUFsR0VSUGZwdUlRTEdKZzVjZUp3T3hOREhzZzJPeDlZVlhCY2czX0xfUTZfSFZuRG84NmtoeGttaUExbkEwUkN5dnc?oc=5)
 
 ---
 
-### [A Million-Person Moon City Could Run Out of Water in Just Over a Century - ZME Science](https://news.google.com/rss/articles/CBMiqgFBVV95cUxORmlGdEp1bkQwSWZ4cnRQN2tvY01sdmktZVhKQWo2LThGQl9ZRXh6WmFsZkN0NWNuQ2xLblR6eExsa1FjRF9oMDl0T0xyLUItSm1LOWs1YUlfU3lsVVlSX2FXUjZKNU1hNS1qZjFnWWxDNTFkYzNBYVlRQmpJeXBwd0VBZUNFNjNsaUtObWV5VE5acEppOFFVUE1oZ0RoMG9xNDJueEVfNE9EQQ?oc=5)
+### [Are You Eating Enough Fiber? Here’s How Much You Need and Easy Ways to Get More - The New York Times](https://news.google.com/rss/articles/CBMikAFBVV95cUxPNnA5aVZRbnhIbDBtdWhuNGNGazNzMURET2wtVGZCUGZoVzM3eTZUTmhlelFGVzR3MnBNZmZlVFFlTnkxRDllNlVnVFRYQzdpRW42Zi1odnBhbHo4NEtEM2tINml5T2FUMjl5Tm1oUTdWU05Gb2hCbGRobGVUZWpLQVNkM01KMUVvTEVUS002Q3E?oc=5)
 
-2026-09-16 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-09-15 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [ZME Science](https://news.google.com/rss/articles/CBMiqgFBVV95cUxORmlGdEp1bkQwSWZ4cnRQN2tvY01sdmktZVhKQWo2LThGQl9ZRXh6WmFsZkN0NWNuQ2xLblR6eExsa1FjRF9oMDl0T0xyLUItSm1LOWs1YUlfU3lsVVlSX2FXUjZKNU1hNS1qZjFnWWxDNTFkYzNBYVlRQmpJeXBwd0VBZUNFNjNsaUtObWV5VE5acEppOFFVUE1oZ0RoMG9xNDJueEVfNE9EQQ?oc=5)
+Source: [The New York Times](https://news.google.com/rss/articles/CBMikAFBVV95cUxPNnA5aVZRbnhIbDBtdWhuNGNGazNzMURET2wtVGZCUGZoVzM3eTZUTmhlelFGVzR3MnBNZmZlVFFlTnkxRDllNlVnVFRYQzdpRW42Zi1odnBhbHo4NEtEM2tINml5T2FUMjl5Tm1oUTdWU05Gb2hCbGRobGVUZWpLQVNkM01KMUVvTEVUS002Q3E?oc=5)
 
 ---
 

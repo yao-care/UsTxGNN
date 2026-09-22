@@ -14,7 +14,7 @@ permalink: /news/ramucirumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>7 news articles</strong>, with 9 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>9 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,13 +39,29 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (9)
 
-### [3-year-old boy’s quick-spreading cancer is cured thanks to 2 doses of new treatment](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNmhUWndhZnh0eTZ6U2Q0enhjQlN1RDdLeXVBbzJtbnZUWEFwV3l4WVBVczB5M3pvNEFDbFlzbFcxSThvNTZjcWpYOUNqXzdhNU05UElPMjZGTU1WbFFPX2NQVXVoc1VKeFVhLTUxVVRTbXY1aG5xLXVnaEQzbGhoTHppYVFnWDYzSVpqcE41bHVUTEwyRWE1T2ZlM096eUk3aGxoYg?oc=5)
+### [Cleveland Clinic studying new blood test to detect ovarian cancer earlier - FOX 8 News](https://news.google.com/rss/articles/CBMinAFBVV95cUxOeFU3OHhkZDlOU09BQ2VLV3FObWFDTVhHODV3UHR3amxzMTBZbXQwWjA3VnNjMERLRnlfZEdKbm1Ic1Vtc0lsTXRiOWhwOUlGakotdlJ2eXg4LXNUNnRLWG5BcmhqZHB0bHk2UFpsMVJyTDRZRXpSX1lueEZwdmgyTVlVM2V1eDQzUWFUR2wyalRUTV9pdmFzV18wSWTSAaIBQVVfeXFMTWFqajNRVk9wTm5vMmdWaDY3dU4wal80cEs3TEg1NWw5UmdpdThJQTVEdWNhMmN3YUVhZWY2MnM0MllabWRKNUd1ZG1BTGlMQ3dPdzJWV0hOeGhzN2dIdE9sNkg0MFJlOUpWeVFkaU44UkdKRHh5anZMeTBhSFFydTN3LThKYldHS2M0ZGdNdUI2cEw2RDVpSHpKWFFIS0NGT1ZR?oc=5)
+
+2026-09-21 <span class="news-indication-tag">cancer</span>
+
+Source: [FOX 8 News](https://news.google.com/rss/articles/CBMinAFBVV95cUxOeFU3OHhkZDlOU09BQ2VLV3FObWFDTVhHODV3UHR3amxzMTBZbXQwWjA3VnNjMERLRnlfZEdKbm1Ic1Vtc0lsTXRiOWhwOUlGakotdlJ2eXg4LXNUNnRLWG5BcmhqZHB0bHk2UFpsMVJyTDRZRXpSX1lueEZwdmgyTVlVM2V1eDQzUWFUR2wyalRUTV9pdmFzV18wSWTSAaIBQVVfeXFMTWFqajNRVk9wTm5vMmdWaDY3dU4wal80cEs3TEg1NWw5UmdpdThJQTVEdWNhMmN3YUVhZWY2MnM0MllabWRKNUd1ZG1BTGlMQ3dPdzJWV0hOeGhzN2dIdE9sNkg0MFJlOUpWeVFkaU44UkdKRHh5anZMeTBhSFFydTN3LThKYldHS2M0ZGdNdUI2cEw2RDVpSHpKWFFIS0NGT1ZR?oc=5)
+
+---
+
+### [3-year-old boy’s quick-spreading cancer is cured thanks to 2 doses of new treatment - New York Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNmhUWndhZnh0eTZ6U2Q0enhjQlN1RDdLeXVBbzJtbnZUWEFwV3l4WVBVczB5M3pvNEFDbFlzbFcxSThvNTZjcWpYOUNqXzdhNU05UElPMjZGTU1WbFFPX2NQVXVoc1VKeFVhLTUxVVRTbXY1aG5xLXVnaEQzbGhoTHppYVFnWDYzSVpqcE41bHVUTEwyRWE1T2ZlM096eUk3aGxoYg?oc=5)
 
 2026-09-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
-Source: [nypost.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNmhUWndhZnh0eTZ6U2Q0enhjQlN1RDdLeXVBbzJtbnZUWEFwV3l4WVBVczB5M3pvNEFDbFlzbFcxSThvNTZjcWpYOUNqXzdhNU05UElPMjZGTU1WbFFPX2NQVXVoc1VKeFVhLTUxVVRTbXY1aG5xLXVnaEQzbGhoTHppYVFnWDYzSVpqcE41bHVUTEwyRWE1T2ZlM096eUk3aGxoYg?oc=5)
+Source: [New York Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNmhUWndhZnh0eTZ6U2Q0enhjQlN1RDdLeXVBbzJtbnZUWEFwV3l4WVBVczB5M3pvNEFDbFlzbFcxSThvNTZjcWpYOUNqXzdhNU05UElPMjZGTU1WbFFPX2NQVXVoc1VKeFVhLTUxVVRTbXY1aG5xLXVnaEQzbGhoTHppYVFnWDYzSVpqcE41bHVUTEwyRWE1T2ZlM096eUk3aGxoYg?oc=5)
+
+---
+
+### [What a new study sort of says about saturated fat and prostate cancer - The Seattle Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxPN3VPS2VuU3Zxakk3SFFSaGtBeHJxc0JFZEpCTU5OdUdqeXFQSFQwaTlGQ3pvM3hfOGtRcTBidmpfcENNVGdYcngtR3c3SUhZZHNDTVNvSDcxdmRyUVY0VmZwNmUtaUVNbHJ0SmpCYWw3a21PSTU5SEpZbzBpRE5seF9xU3dfRlgyOTk0R1B0dk84OWRjU3NQX2xtcGhORVlSdjBrdXMyelNQQzB6dDE0eUNycw?oc=5)
+
+2026-09-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [The Seattle Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxPN3VPS2VuU3Zxakk3SFFSaGtBeHJxc0JFZEpCTU5OdUdqeXFQSFQwaTlGQ3pvM3hfOGtRcTBidmpfcENNVGdYcngtR3c3SUhZZHNDTVNvSDcxdmRyUVY0VmZwNmUtaUVNbHJ0SmpCYWw3a21PSTU5SEpZbzBpRE5seF9xU3dfRlgyOTk0R1B0dk84OWRjU3NQX2xtcGhORVlSdjBrdXMyelNQQzB6dDE0eUNycw?oc=5)
 
 ---
 

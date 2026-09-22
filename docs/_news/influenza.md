@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 1 articles, 2 related drugs."
+description: "Health news about flu (influenza). 2 articles, 2 related drugs."
 permalink: /news/influenza/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/influenza/
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>1 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>2 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [The Vivid Dreams Stage of REM Sleep Is Linked With a Lower Risk of 83 Diseases](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeXRYbDQ5dFVrX3QtY3NObmNVU05MMWlYT2dZeG1PY0J3Yy1WajZSV3lQYTJrSEpyUllKYUU2dWpRWldsWUNGMVdTcGh3Y0hYckNfV1lwSnItV1d1T3RKUmI0QVNoUk02b3EtcjlUeS1QMUs1c1o2TkVxWEpFOEZfbURTZkFkSHZGTUswMEpsY01GVmxBMDlUZUtnY0U3M2ZvSTZEOXV3cHhNbEU?oc=5)
+
+2026-09-21
+
+Source: [sciencealert.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeXRYbDQ5dFVrX3QtY3NObmNVU05MMWlYT2dZeG1PY0J3Yy1WajZSV3lQYTJrSEpyUllKYUU2dWpRWldsWUNGMVdTcGh3Y0hYckNfV1lwSnItV1d1T3RKUmI0QVNoUk02b3EtcjlUeS1QMUs1c1o2TkVxWEpFOEZfbURTZkFkSHZGTUswMEpsY01GVmxBMDlUZUtnY0U3M2ZvSTZEOXV3cHhNbEU?oc=5)
+
+---
 
 ### [The first mRNA flu shot is now available. Here’s who can get it. - NBC News](https://news.google.com/rss/articles/CBMingFBVV95cUxPQVlfbjVNblpLdjJFVlRTcU9SaEthTjhzVTA5R0xDUU5vZUkzUnJkaXNqS25sM3pQZjVTci1RbnRvRVlBeG5JUUdHdzM2UmtDWmZ1dW1CNWJlNFo5X2FpMmVUVEhBN29jVGw4emRRMG5xWmlTUlhrRkZkYjRWdy0zNHM3NlVON2NsWDVCeVpaWUpsMUlVVEhQSUhPTmlyUQ?oc=5)
 

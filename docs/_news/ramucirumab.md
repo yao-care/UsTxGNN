@@ -14,7 +14,7 @@ permalink: /news/ramucirumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>9 news articles</strong>, with 9 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>8 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,15 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (8)
+
+### [This Unexpected Role Your Cat Could Play In The Fight Against Cancer - A-Z Animals](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN0p1Z182RnZNeER0b2N3MmZJem9RWEYyUFA0c1NwcmZVSXdoTFdCWGU3X2tkZ3RWb1VlM1BjcjFzbmo2eldHS2szY2VDbEk4WWVwR2hhOWJlRW8yNUFSdXFUNHoxdkN3NUdNVmZkbHpsX3BMOVluVnk4dUozSTlhaEhFUWQ2M3Y2ZEp3MllUczdrMm5aeHlVeXgydENmQ2lEbUxBUUs5dHdlY28?oc=5)
+
+2026-09-21 <span class="news-indication-tag">cancer</span>
+
+Source: [A-Z Animals](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN0p1Z182RnZNeER0b2N3MmZJem9RWEYyUFA0c1NwcmZVSXdoTFdCWGU3X2tkZ3RWb1VlM1BjcjFzbmo2eldHS2szY2VDbEk4WWVwR2hhOWJlRW8yNUFSdXFUNHoxdkN3NUdNVmZkbHpsX3BMOVluVnk4dUozSTlhaEhFUWQ2M3Y2ZEp3MllUczdrMm5aeHlVeXgydENmQ2lEbUxBUUs5dHdlY28?oc=5)
+
+---
 
 ### [Cleveland Clinic studying new blood test to detect ovarian cancer earlier - FOX 8 News](https://news.google.com/rss/articles/CBMinAFBVV95cUxOeFU3OHhkZDlOU09BQ2VLV3FObWFDTVhHODV3UHR3amxzMTBZbXQwWjA3VnNjMERLRnlfZEdKbm1Ic1Vtc0lsTXRiOWhwOUlGakotdlJ2eXg4LXNUNnRLWG5BcmhqZHB0bHk2UFpsMVJyTDRZRXpSX1lueEZwdmgyTVlVM2V1eDQzUWFUR2wyalRUTV9pdmFzV18wSWTSAaIBQVVfeXFMTWFqajNRVk9wTm5vMmdWaDY3dU4wal80cEs3TEg1NWw5UmdpdThJQTVEdWNhMmN3YUVhZWY2MnM0MllabWRKNUd1ZG1BTGlMQ3dPdzJWV0hOeGhzN2dIdE9sNkg0MFJlOUpWeVFkaU44UkdKRHh5anZMeTBhSFFydTN3LThKYldHS2M0ZGdNdUI2cEw2RDVpSHpKWFFIS0NGT1ZR?oc=5)
 
@@ -57,11 +65,11 @@ Source: [New York Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNmh
 
 ---
 
-### [What a new study sort of says about saturated fat and prostate cancer - The Seattle Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxPN3VPS2VuU3Zxakk3SFFSaGtBeHJxc0JFZEpCTU5OdUdqeXFQSFQwaTlGQ3pvM3hfOGtRcTBidmpfcENNVGdYcngtR3c3SUhZZHNDTVNvSDcxdmRyUVY0VmZwNmUtaUVNbHJ0SmpCYWw3a21PSTU5SEpZbzBpRE5seF9xU3dfRlgyOTk0R1B0dk84OWRjU3NQX2xtcGhORVlSdjBrdXMyelNQQzB6dDE0eUNycw?oc=5)
+### [Cancer Vaccines Market Anticipates Impressive Growth Trajectory at a CAGR of 36% During the Forecast Period (2026-2036) | DelveInsight - PR Newswire](https://news.google.com/rss/articles/CBMikwJBVV95cUxQTzRsNG1QVDhGQUo5azlvUGY3b0t2MnJZMGZwVGVSSlVPSTY0N3FrUFFnME1nMTdrdlY4V2ktMWlwZ1BwWGtOR0hpWHhBdXlJX2VtNnJ1eFlUUHA5OTZxQzZ5cUNZRHNjckRQbzd5SENGYjFxWk1uRDlaaGNabjBHNlphejNXeG50VVU4djFocjdYd2VfaHZfd0Z1U0JfNjhlMWpYb0NtWW54SEdkRnNpOEFROEI5c0E3OVlpYkk4TTA4TVVOcDJnaWFVcUtpcWFmZVFhY2g3WTRrWkRWeTkxSlp4RjJhVE16QzRwQXl4bzNpNk9CdE52eDI2YVJMbW1KMFk3SVlQWVhQb28wNHZvV1JkUQ?oc=5)
 
-2026-09-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+2026-09-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
-Source: [The Seattle Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxPN3VPS2VuU3Zxakk3SFFSaGtBeHJxc0JFZEpCTU5OdUdqeXFQSFQwaTlGQ3pvM3hfOGtRcTBidmpfcENNVGdYcngtR3c3SUhZZHNDTVNvSDcxdmRyUVY0VmZwNmUtaUVNbHJ0SmpCYWw3a21PSTU5SEpZbzBpRE5seF9xU3dfRlgyOTk0R1B0dk84OWRjU3NQX2xtcGhORVlSdjBrdXMyelNQQzB6dDE0eUNycw?oc=5)
+Source: [PR Newswire](https://news.google.com/rss/articles/CBMikwJBVV95cUxQTzRsNG1QVDhGQUo5azlvUGY3b0t2MnJZMGZwVGVSSlVPSTY0N3FrUFFnME1nMTdrdlY4V2ktMWlwZ1BwWGtOR0hpWHhBdXlJX2VtNnJ1eFlUUHA5OTZxQzZ5cUNZRHNjckRQbzd5SENGYjFxWk1uRDlaaGNabjBHNlphejNXeG50VVU4djFocjdYd2VfaHZfd0Z1U0JfNjhlMWpYb0NtWW54SEdkRnNpOEFROEI5c0E3OVlpYkk4TTA4TVVOcDJnaWFVcUtpcWFmZVFhY2g3WTRrWkRWeTkxSlp4RjJhVE16QzRwQXl4bzNpNk9CdE52eDI2YVJMbW1KMFk3SVlQWVhQb28wNHZvV1JkUQ?oc=5)
 
 ---
 
@@ -81,14 +89,6 @@ Source: [CNN](https://news.google.com/rss/articles/CBMif0FVX3lxTE9hSEZiYmg0N2VKL
 
 ---
 
-### [A melanoma vaccine was hailed as a breakthrough. Which cancers are next? - The Washington Post](https://news.google.com/rss/articles/CBMiswFBVV95cUxPd01EWFpGRkJ5Q09ndFBoU1JUWmlCY0NtTlVOUG1kbXFlYVh6Vm1NeHhBc2ktdUZ2RHB2dG9zVUNRdmpRN1RidnZjMGtKRjZuSFJwRm45V1E5bmkzRGlJQ0g3WWh2YTI3bkwzNVh0N3gxS25JTFZLVGNGb2R1WHV6a1FYRzBfdlZBMWRiRE5xNngwTjNOU1ZFUl9yZllXSzFsRDJtWXRGdzhqb0pSVGRJc0RINA?oc=5)
-
-2026-09-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
-
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMiswFBVV95cUxPd01EWFpGRkJ5Q09ndFBoU1JUWmlCY0NtTlVOUG1kbXFlYVh6Vm1NeHhBc2ktdUZ2RHB2dG9zVUNRdmpRN1RidnZjMGtKRjZuSFJwRm45V1E5bmkzRGlJQ0g3WWh2YTI3bkwzNVh0N3gxS25JTFZLVGNGb2R1WHV6a1FYRzBfdlZBMWRiRE5xNngwTjNOU1ZFUl9yZllXSzFsRDJtWXRGdzhqb0pSVGRJc0RINA?oc=5)
-
----
-
 ### [This Rare Gene Drastically Raises Lung Cancer Risk in People Who Never Smoked - The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOME1TUjU1T3d6b1pITWRVY2Jaem02VXFsU0gwcGFGS0JRTEVkOW50d1ZJR2NJd1BXM1NCRWt1YmZ0aTFCLVJxdGh1anQzWkgteEhRaDdRbDAzNzhtVkR1SU9qck9EMGk2b0hQN0lfRFRfdHNuUDlHWnpub3MzelhnYklGeWY?oc=5)
 
 2026-09-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
@@ -102,14 +102,6 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cU
 2026-09-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
 Source: [TODAY.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxORmgxaFZLUWRaRXdlS0RkQmdsZnZhZkdfN2lHNG1TZ1dmQjZwWkF3MUliN3lseGtKaG51TklFdWhzdWZ1b3RESmszVVYxLUJ0Nm1PNlA4a1Rrd29udC1ZOGo3clNoUlVVVVlscVJHTU9pZVFhdXVtYTUzQjF1dzlTVFc1YkgyWXhrejlPSXJScVFIdHBPNDdFYkJR?oc=5)
-
----
-
-### [Opinion | This surgery can prevent a deadly cancer. Women need to know it’s an option. - The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdFJqeTNhS0JzeURGeDlLMXF1d3VObXVhb3J4RV9xd0VpNmM3WUkzMUlYRUdONXkwdTA4Y3lwWFAtVVpBRUp4RENBeVpjRXhXLV83MGpmSGFUX2JQb21remExTlhCbFBRdUNDMnlCNmxGRTdfLWN1bzRDR1kwbmRtUVotcnZtTFJ0OTA4TF83MkY3SzQzSHRfMmU4NXYwaVg1NFVoTUt3S24yZ2k2?oc=5)
-
-2026-09-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">UC</span>
-
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdFJqeTNhS0JzeURGeDlLMXF1d3VObXVhb3J4RV9xd0VpNmM3WUkzMUlYRUdONXkwdTA4Y3lwWFAtVVpBRUp4RENBeVpjRXhXLV83MGpmSGFUX2JQb21remExTlhCbFBRdUNDMnlCNmxGRTdfLWN1bzRDR1kwbmRtUVotcnZtTFJ0OTA4TF83MkY3SzQzSHRfMmU4NXYwaVg1NFVoTUt3S24yZ2k2?oc=5)
 
 ---
 

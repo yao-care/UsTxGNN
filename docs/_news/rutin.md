@@ -30,27 +30,19 @@ This page combines the AI-predicted indications for Rutin with the latest health
 
 ## Related News (6)
 
-### [Neuroscientist warns common household item is a ‘public health emergency’ on the same level as asbestos - New York Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSkpNY2h0S2UwUndUak16b1VGSHlMeWh4dHlvcW01RFBuY0hBQkpyc3RyOFpGa2loenFkX2pYd0Z1ZTd2REFRbzVhYUxCazZqa3JMcGtUNFB5WGRBa2FUVm9vSS11Y1MyRTZKZVZqQ1JLb1pmNVg3UVJuUFZUazJnT1BRQWRjS1ljdEc2OGxpQk5zT3dzcHc5OWlxS0drYThiXzI3VXRHX2M1ZzdXb1E?oc=5)
-
-2026-09-22 <span class="news-indication-tag">UC</span>
-
-Source: [New York Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSkpNY2h0S2UwUndUak16b1VGSHlMeWh4dHlvcW01RFBuY0hBQkpyc3RyOFpGa2loenFkX2pYd0Z1ZTd2REFRbzVhYUxCazZqa3JMcGtUNFB5WGRBa2FUVm9vSS11Y1MyRTZKZVZqQ1JLb1pmNVg3UVJuUFZUazJnT1BRQWRjS1ljdEc2OGxpQk5zT3dzcHc5OWlxS0drYThiXzI3VXRHX2M1ZzdXb1E?oc=5)
-
----
-
-### [Student who accidentally overdosed on paracetamol learns to walk and talk again - Yahoo News Australia](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVUZQYUNJaElxSmw2Y19sOTA3U0pHNTE0NXRJRk93SzRjdWs5SEp5aVoxekNvRDdOY3hwRGRQb1c1RDIwTHdVX3hoeUVZU3BlNWZ3Mlo3eXRsNVRnelZqcjRMN09rUEkzMjlyWUtMeS1vN0tlbTNlV3hid0U0TGpfMGxDUzVXQ1B4M3RDRXRkRWlqZnA0?oc=5)
+### [Determining The Body Temperature Of Tyrannosaurus Rex](https://news.google.com/rss/articles/CBMijwFBVV95cUxQNk9qOWNyQkV0UmFIckFfNUQyajlwWDdzYnl6T1h0WmNfcDF0Y3dadUt4RFpFZDNadlNnNmRxZHh3XzRleGhCNTNvYzZPMTExazZIUEJ6MWVMUUs1T0VMdUxvcmgzQ2ZEYWs5ZjdEbUJhZXppX2ZRNjhWdmZ3azl2NHN6TVZyUXBlSjdsVVdLbw?oc=5)
 
 2026-09-22 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [Yahoo News Australia](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVUZQYUNJaElxSmw2Y19sOTA3U0pHNTE0NXRJRk93SzRjdWs5SEp5aVoxekNvRDdOY3hwRGRQb1c1RDIwTHdVX3hoeUVZU3BlNWZ3Mlo3eXRsNVRnelZqcjRMN09rUEkzMjlyWUtMeS1vN0tlbTNlV3hid0U0TGpfMGxDUzVXQ1B4M3RDRXRkRWlqZnA0?oc=5)
+Source: [Hackaday](https://news.google.com/rss/articles/CBMijwFBVV95cUxQNk9qOWNyQkV0UmFIckFfNUQyajlwWDdzYnl6T1h0WmNfcDF0Y3dadUt4RFpFZDNadlNnNmRxZHh3XzRleGhCNTNvYzZPMTExazZIUEJ6MWVMUUs1T0VMdUxvcmgzQ2ZEYWs5ZjdEbUJhZXppX2ZRNjhWdmZ3azl2NHN6TVZyUXBlSjdsVVdLbw?oc=5)
 
 ---
 
-### [New Treatment Reduced Women’s Osteoporosis Fractures By 94% In Small Study](https://news.google.com/rss/articles/CBMitgFBVV95cUxNOWJOU01xVzFBMUxlWUpmSVZlSkRsNkY5ZHJmaGVoLTE1cGREd3RncnZMdFQxY09HVC16MmpmSFRlRnYyQjBlMjJmdWFHRXFKZVd3blJNQWNlRHozazFWdndkR3VlVmtPUlJvamQwN1JTUlBZZ0FPSHBaLXlOUTRGeHVMc3RxQU94QTdYVS0zLXlLMjMzMGpHUVA5eUtOSnFxT2lHODJNaFo5TW1yMDZlX0JyQWtnQQ?oc=5)
+### [Neuroscientist warns common household item is a ‘public health emergency’ on the same level as asbestos](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSkpNY2h0S2UwUndUak16b1VGSHlMeWh4dHlvcW01RFBuY0hBQkpyc3RyOFpGa2loenFkX2pYd0Z1ZTd2REFRbzVhYUxCazZqa3JMcGtUNFB5WGRBa2FUVm9vSS11Y1MyRTZKZVZqQ1JLb1pmNVg3UVJuUFZUazJnT1BRQWRjS1ljdEc2OGxpQk5zT3dzcHc5OWlxS0drYThiXzI3VXRHX2M1ZzdXb1E?oc=5)
 
-2026-09-22 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-09-22 <span class="news-indication-tag">UC</span>
 
-Source: [Forbes](https://news.google.com/rss/articles/CBMitgFBVV95cUxNOWJOU01xVzFBMUxlWUpmSVZlSkRsNkY5ZHJmaGVoLTE1cGREd3RncnZMdFQxY09HVC16MmpmSFRlRnYyQjBlMjJmdWFHRXFKZVd3blJNQWNlRHozazFWdndkR3VlVmtPUlJvamQwN1JTUlBZZ0FPSHBaLXlOUTRGeHVMc3RxQU94QTdYVS0zLXlLMjMzMGpHUVA5eUtOSnFxT2lHODJNaFo5TW1yMDZlX0JyQWtnQQ?oc=5)
+Source: [nypost.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSkpNY2h0S2UwUndUak16b1VGSHlMeWh4dHlvcW01RFBuY0hBQkpyc3RyOFpGa2loenFkX2pYd0Z1ZTd2REFRbzVhYUxCazZqa3JMcGtUNFB5WGRBa2FUVm9vSS11Y1MyRTZKZVZqQ1JLb1pmNVg3UVJuUFZUazJnT1BRQWRjS1ljdEc2OGxpQk5zT3dzcHc5OWlxS0drYThiXzI3VXRHX2M1ZzdXb1E?oc=5)
 
 ---
 
@@ -62,11 +54,11 @@ Source: [cbs8.com](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZW1tNGtW
 
 ---
 
-### [Cities won't survive on the moon as there isn't enough water, scientists say](https://news.google.com/rss/articles/CBMirwFBVV95cUxNalZ1d2prSXdWSEVKWmc1aEhtem5pSVlMNGVLLW5ONEdJWVJMSjRyc2QzRmZmam5xZEgtLVI2Wmo0QWEyTVdGT2VjUVdlamRrOTk4cFUzSm5BNUVlT1VSRE8tSmh3TVVGNVpFcFNYdkpHWV9HNmFuT0JwNVN4SUw2Rm5wUzZUYmZndEc0ODJDYzUtTEtKYUlKQXprOWxIdG1hTGFlbFJBUUFtM1BXX2p3?oc=5)
+### [How supermassive black holes are the architects of entire galaxies](https://news.google.com/rss/articles/CBMixgFBVV95cUxOSXNiQzA3YXlzQmZJRkl6SDFfWDVmRE4xS1BEVnBSRFkyQ0lTOWdad080UFZBb3J3MHlmY01vVkNYMElRMUswOWJJZUN3NEFGV0ktVkdDY3paamdqZWUxLWJmWUtMUGxGckFIMHo2WFBjYmMyX2h1ZUs3X0dKVEt6VVo2ZjRaTml4NGhLYTN5LWJFdU5rdjF3WDVRY20tTVA4bVlEd0hfXzRNT2RoN3N4M3RVajhFYlVBYW5hNllXYkl2ZktyQkE?oc=5)
 
-2026-09-20 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-09-21 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
-Source: [KSL.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxNalZ1d2prSXdWSEVKWmc1aEhtem5pSVlMNGVLLW5ONEdJWVJMSjRyc2QzRmZmam5xZEgtLVI2Wmo0QWEyTVdGT2VjUVdlamRrOTk4cFUzSm5BNUVlT1VSRE8tSmh3TVVGNVpFcFNYdkpHWV9HNmFuT0JwNVN4SUw2Rm5wUzZUYmZndEc0ODJDYzUtTEtKYUlKQXprOWxIdG1hTGFlbFJBUUFtM1BXX2p3?oc=5)
+Source: [Space](https://news.google.com/rss/articles/CBMixgFBVV95cUxOSXNiQzA3YXlzQmZJRkl6SDFfWDVmRE4xS1BEVnBSRFkyQ0lTOWdad080UFZBb3J3MHlmY01vVkNYMElRMUswOWJJZUN3NEFGV0ktVkdDY3paamdqZWUxLWJmWUtMUGxGckFIMHo2WFBjYmMyX2h1ZUs3X0dKVEt6VVo2ZjRaTml4NGhLYTN5LWJFdU5rdjF3WDVRY20tTVA4bVlEd0hfXzRNT2RoN3N4M3RVajhFYlVBYW5hNllXYkl2ZktyQkE?oc=5)
 
 ---
 
@@ -75,6 +67,14 @@ Source: [KSL.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxNalZ1d2prS
 2026-09-20 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [Vogue](https://news.google.com/rss/articles/CBMiW0FVX3lxTE00YkUzX0RsUmpldFN1M3JYZTNBd0FQMzVKOUVCcDRVQ2lwbmZ5MFRwbU5NLTdwNlg5YndXampZOWE2RWZhQ3VFekxyRHBDMTRrdmJNVWN2a29BY28?oc=5)
+
+---
+
+### [6 sneaky ways to eat more fiber, according to experts - The Washington Post](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkJKLXltMTlmSlZjeTJiRk9OUEItV0xtY2dUS2dzTmxIeXJHZXZZeFYtQVpER3ZSSWJqTU51ZGF4OXJybnQ1cmhlSkdBNWlzQmllODBSQ3luUFIwU0lab1EzdHF0b3p6TEZsYWRmZUVpNUt2U1RBbHVCb2l6andqSjBXNlVnZ3NlcDBOcFRLNmttTDBxaFh5bm5QaTIyVm8?oc=5)
+
+2026-09-19 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkJKLXltMTlmSlZjeTJiRk9OUEItV0xtY2dUS2dzTmxIeXJHZXZZeFYtQVpER3ZSSWJqTU51ZGF4OXJybnQ1cmhlSkdBNWlzQmllODBSQ3luUFIwU0lab1EzdHF0b3p6TEZsYWRmZUVpNUt2U1RBbHVCb2l6andqSjBXNlVnZ3NlcDBOcFRLNmttTDBxaFh5bm5QaTIyVm8?oc=5)
 
 ---
 

@@ -55,11 +55,11 @@ Source: [Ynetnews](https://news.google.com/rss/articles/CBMiakFVX3lxTE9KcFI1RjBP
 
 ---
 
-### [What the research says about perimenopause - Penn Today](https://news.google.com/rss/articles/CBMijgFBVV95cUxORWU5RnBJZEdtWDJhMzhtZGh6UkV6Q0o4RlBGSVV6bHhscjZudXlTSXV4bVAzY3Qwdzg4VjQzWEQ0VFdlZmd1WnJrekFMZkZwamJQeXlBalJBUDc4MlNFaUo4TmtOZUxjR1M2RWNTNGtkNWYwMWZUVDhQcUxCeV9pSUpQcFlGNTVzNU9pUnd3?oc=5)
+### [Study finds possibly problematic drug combos being prescribed to older adults - The Washington Post](https://news.google.com/rss/articles/CBMivwFBVV95cUxQOS1jUE1BM2lldjhNUUdwbXJsNmhWM1pfRnFYQzNxX0NXUUpfa2pJVElRenlrakNoMi13T1VEU0dOLVBBRFFSSHYybWJwbHlDbzZlX1luSlFhV2JQbkpvVDhBbzBRbjc1S3JRNFZ3U1BXdE10RmZpdFE5VzNnb3BiZlpfNldwa0hDRW43UTBfNThzREhwRU5RTXB6eVIwU00zQjN4UXRhZ2lBaFpKcGZZa1VmYmIwWElsNmpPZWVPQQ?oc=5)
 
-2026-09-21
+2026-09-18
 
-Source: [Penn Today](https://news.google.com/rss/articles/CBMijgFBVV95cUxORWU5RnBJZEdtWDJhMzhtZGh6UkV6Q0o4RlBGSVV6bHhscjZudXlTSXV4bVAzY3Qwdzg4VjQzWEQ0VFdlZmd1WnJrekFMZkZwamJQeXlBalJBUDc4MlNFaUo4TmtOZUxjR1M2RWNTNGtkNWYwMWZUVDhQcUxCeV9pSUpQcFlGNTVzNU9pUnd3?oc=5)
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMivwFBVV95cUxQOS1jUE1BM2lldjhNUUdwbXJsNmhWM1pfRnFYQzNxX0NXUUpfa2pJVElRenlrakNoMi13T1VEU0dOLVBBRFFSSHYybWJwbHlDbzZlX1luSlFhV2JQbkpvVDhBbzBRbjc1S3JRNFZ3U1BXdE10RmZpdFE5VzNnb3BiZlpfNldwa0hDRW43UTBfNThzREhwRU5RTXB6eVIwU00zQjN4UXRhZ2lBaFpKcGZZa1VmYmIwWElsNmpPZWVPQQ?oc=5)
 
 ---
 

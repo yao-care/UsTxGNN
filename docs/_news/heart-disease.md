@@ -47,11 +47,11 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMibkFVX3lxTFBaSlhkWVdE
 
 ---
 
-### [Bread, rice and pasta aren’t the enemy: The carbs that may boost your health](https://news.google.com/rss/articles/CBMiakFVX3lxTE9KcFI1RjBPX3RtUDVCUE9qaW1oWEdWdVlwdHAyQUc2WjJuM0xZcUV5UW1SY3ktY2tCOG01V2xCd2oyODZwT3hhVnJuQ2pNWF9CLXlCaEFnR0IxMHE3WkpkT21zTmFSdnc3M1E?oc=5)
+### [Discovery of new Australian stick insect species reveals case of mistaken identity - The Guardian](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUh1Q19YRU1PNmpqZ0dUeUF0b0EtZUw4VUk3UFFrLTBfTzNaUUY3SnQ3NDBJbmZlMHpiQ0M0aUc3bUY0ZXZ3X2VIZWgzNHRQUUF6QzNhVm5fbDhPQTUzemlVOHZDaDIyR1czdHZWUnhCcjFhbllZWW5oNV9JeFR0R3dHWHlpeW1jQW5NcVNPVVNGejZaeXJQTElLc282Rnl6ZldlU3pNbjdHZTQzY3pRUg?oc=5)
 
-2026-09-22
+2026-09-21
 
-Source: [Ynetnews](https://news.google.com/rss/articles/CBMiakFVX3lxTE9KcFI1RjBPX3RtUDVCUE9qaW1oWEdWdVlwdHAyQUc2WjJuM0xZcUV5UW1SY3ktY2tCOG01V2xCd2oyODZwT3hhVnJuQ2pNWF9CLXlCaEFnR0IxMHE3WkpkT21zTmFSdnc3M1E?oc=5)
+Source: [The Guardian](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUh1Q19YRU1PNmpqZ0dUeUF0b0EtZUw4VUk3UFFrLTBfTzNaUUY3SnQ3NDBJbmZlMHpiQ0M0aUc3bUY0ZXZ3X2VIZWgzNHRQUUF6QzNhVm5fbDhPQTUzemlVOHZDaDIyR1czdHZWUnhCcjFhbllZWW5oNV9JeFR0R3dHWHlpeW1jQW5NcVNPVVNGejZaeXJQTElLc282Rnl6ZldlU3pNbjdHZTQzY3pRUg?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/rutin/
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>6 news articles</strong>, with 0 predicted indications.
+<strong>Rutin</strong> currently has <strong>8 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,7 +28,15 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (8)
+
+### [Americans are drinking less since the pandemic began, but one group bucks the trend - The Washington Post](https://news.google.com/rss/articles/CBMivAFBVV95cUxQMGU4a045OTNXeklFQzZlSkl0RXFwbjN0ZXB1QWEzLXVPQndLSjRHcGM1QTNMb1c0a3loNEwxM2hKREJGSXRoMmp1d2MzemU4ckI0akwwTlBIaWhpS25kS3Bqc1Z3Uy0zQTR2a2hyVmJiOFd6Ml9mOFQ3UThuZWQ2My1SX1ZUQWdxUE1tanVMRUxTSThGOEJIbnpydURPanZMcEE5ZTBhdDYtbUhOMV9XX0lTVXBFZUZKUEpCdQ?oc=5)
+
+2026-09-23 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMivAFBVV95cUxQMGU4a045OTNXeklFQzZlSkl0RXFwbjN0ZXB1QWEzLXVPQndLSjRHcGM1QTNMb1c0a3loNEwxM2hKREJGSXRoMmp1d2MzemU4ckI0akwwTlBIaWhpS25kS3Bqc1Z3Uy0zQTR2a2hyVmJiOFd6Ml9mOFQ3UThuZWQ2My1SX1ZUQWdxUE1tanVMRUxTSThGOEJIbnpydURPanZMcEE5ZTBhdDYtbUhOMV9XX0lTVXBFZUZKUEpCdQ?oc=5)
+
+---
 
 ### [Determining The Body Temperature Of Tyrannosaurus Rex](https://news.google.com/rss/articles/CBMijwFBVV95cUxQNk9qOWNyQkV0UmFIckFfNUQyajlwWDdzYnl6T1h0WmNfcDF0Y3dadUt4RFpFZDNadlNnNmRxZHh3XzRleGhCNTNvYzZPMTExazZIUEJ6MWVMUUs1T0VMdUxvcmgzQ2ZEYWs5ZjdEbUJhZXppX2ZRNjhWdmZ3azl2NHN6TVZyUXBlSjdsVVdLbw?oc=5)
 
@@ -38,11 +46,19 @@ Source: [Hackaday](https://news.google.com/rss/articles/CBMijwFBVV95cUxQNk9qOWNy
 
 ---
 
-### [Neuroscientist warns common household item is a ‘public health emergency’ on the same level as asbestos](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSkpNY2h0S2UwUndUak16b1VGSHlMeWh4dHlvcW01RFBuY0hBQkpyc3RyOFpGa2loenFkX2pYd0Z1ZTd2REFRbzVhYUxCazZqa3JMcGtUNFB5WGRBa2FUVm9vSS11Y1MyRTZKZVZqQ1JLb1pmNVg3UVJuUFZUazJnT1BRQWRjS1ljdEc2OGxpQk5zT3dzcHc5OWlxS0drYThiXzI3VXRHX2M1ZzdXb1E?oc=5)
+### [Neuroscientist warns common household item is a ‘public health emergency’ on the same level as asbestos - New York Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSkpNY2h0S2UwUndUak16b1VGSHlMeWh4dHlvcW01RFBuY0hBQkpyc3RyOFpGa2loenFkX2pYd0Z1ZTd2REFRbzVhYUxCazZqa3JMcGtUNFB5WGRBa2FUVm9vSS11Y1MyRTZKZVZqQ1JLb1pmNVg3UVJuUFZUazJnT1BRQWRjS1ljdEc2OGxpQk5zT3dzcHc5OWlxS0drYThiXzI3VXRHX2M1ZzdXb1E?oc=5)
 
 2026-09-22 <span class="news-indication-tag">UC</span>
 
-Source: [nypost.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSkpNY2h0S2UwUndUak16b1VGSHlMeWh4dHlvcW01RFBuY0hBQkpyc3RyOFpGa2loenFkX2pYd0Z1ZTd2REFRbzVhYUxCazZqa3JMcGtUNFB5WGRBa2FUVm9vSS11Y1MyRTZKZVZqQ1JLb1pmNVg3UVJuUFZUazJnT1BRQWRjS1ljdEc2OGxpQk5zT3dzcHc5OWlxS0drYThiXzI3VXRHX2M1ZzdXb1E?oc=5)
+Source: [New York Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSkpNY2h0S2UwUndUak16b1VGSHlMeWh4dHlvcW01RFBuY0hBQkpyc3RyOFpGa2loenFkX2pYd0Z1ZTd2REFRbzVhYUxCazZqa3JMcGtUNFB5WGRBa2FUVm9vSS11Y1MyRTZKZVZqQ1JLb1pmNVg3UVJuUFZUazJnT1BRQWRjS1ljdEc2OGxpQk5zT3dzcHc5OWlxS0drYThiXzI3VXRHX2M1ZzdXb1E?oc=5)
+
+---
+
+### [Many Americans Use GLP-1 Drugs Without a Medical Reason, Study Shows](https://news.google.com/rss/articles/CBMifEFVX3lxTE5VcEFRcWJ3X2hTUTVReFlRTUd5VTdReEpyS25IRXdwZE9EUDVzbkZzbDhwb0xUU1hzNTdrWHFkaFB4R2x6YU9BRDk1NE1OY1F3SkpoRXVpMjJ4UUJlbHluV3ZYV2NueUJkckQyaG9tcmk0dWdlb3c4MUQ1M24?oc=5)
+
+2026-09-22 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [nytimes.com](https://news.google.com/rss/articles/CBMifEFVX3lxTE5VcEFRcWJ3X2hTUTVReFlRTUd5VTdReEpyS25IRXdwZE9EUDVzbkZzbDhwb0xUU1hzNTdrWHFkaFB4R2x6YU9BRDk1NE1OY1F3SkpoRXVpMjJ4UUJlbHluV3ZYV2NueUJkckQyaG9tcmk0dWdlb3c4MUQ1M24?oc=5)
 
 ---
 
@@ -62,19 +78,19 @@ Source: [Space](https://news.google.com/rss/articles/CBMixgFBVV95cUxOSXNiQzA3YXl
 
 ---
 
-### [The Healthiest Way to Drink Your Coffee, According to a Nutritionist](https://news.google.com/rss/articles/CBMiW0FVX3lxTE00YkUzX0RsUmpldFN1M3JYZTNBd0FQMzVKOUVCcDRVQ2lwbmZ5MFRwbU5NLTdwNlg5YndXampZOWE2RWZhQ3VFekxyRHBDMTRrdmJNVWN2a29BY28?oc=5)
+### [6 sneaky ways to eat more fiber, according to experts - The Washington Post](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkJKLXltMTlmSlZjeTJiRk9OUEItV0xtY2dUS2dzTmxIeXJHZXZZeFYtQVpER3ZSSWJqTU51ZGF4OXJybnQ1cmhlSkdBNWlzQmllODBSQ3luUFIwU0lab1EzdHF0b3p6TEZsYWRmZUVpNUt2U1RBbHVCb2l6andqSjBXNlVnZ3NlcDBOcFRLNmttTDBxaFh5bm5QaTIyVm8?oc=5)
 
-2026-09-20 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-09-19 <span class="news-indication-tag">UC</span>
 
-Source: [Vogue](https://news.google.com/rss/articles/CBMiW0FVX3lxTE00YkUzX0RsUmpldFN1M3JYZTNBd0FQMzVKOUVCcDRVQ2lwbmZ5MFRwbU5NLTdwNlg5YndXampZOWE2RWZhQ3VFekxyRHBDMTRrdmJNVWN2a29BY28?oc=5)
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkJKLXltMTlmSlZjeTJiRk9OUEItV0xtY2dUS2dzTmxIeXJHZXZZeFYtQVpER3ZSSWJqTU51ZGF4OXJybnQ1cmhlSkdBNWlzQmllODBSQ3luUFIwU0lab1EzdHF0b3p6TEZsYWRmZUVpNUt2U1RBbHVCb2l6andqSjBXNlVnZ3NlcDBOcFRLNmttTDBxaFh5bm5QaTIyVm8?oc=5)
 
 ---
 
-### [6 sneaky ways to eat more fiber, according to experts - The Washington Post](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkJKLXltMTlmSlZjeTJiRk9OUEItV0xtY2dUS2dzTmxIeXJHZXZZeFYtQVpER3ZSSWJqTU51ZGF4OXJybnQ1cmhlSkdBNWlzQmllODBSQ3luUFIwU0lab1EzdHF0b3p6TEZsYWRmZUVpNUt2U1RBbHVCb2l6andqSjBXNlVnZ3NlcDBOcFRLNmttTDBxaFh5bm5QaTIyVm8?oc=5)
+### [What Happens to Your Gut When You Drink Coffee Every Day](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ET3J4ZVhYU2IzU0NidENJV0F4RlZVR29LMjl1SjlxOTVTcU94MHRTNDFNYmZGQjl3amFsYWE3VTMwX2lrNndlQ0RKLWZMNDFsc0s0aUpmVDhSUXJyMWtVOWlPS0ozLXA1?oc=5)
 
-2026-09-19 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-09-17 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkJKLXltMTlmSlZjeTJiRk9OUEItV0xtY2dUS2dzTmxIeXJHZXZZeFYtQVpER3ZSSWJqTU51ZGF4OXJybnQ1cmhlSkdBNWlzQmllODBSQ3luUFIwU0lab1EzdHF0b3p6TEZsYWRmZUVpNUt2U1RBbHVCb2l6andqSjBXNlVnZ3NlcDBOcFRLNmttTDBxaFh5bm5QaTIyVm8?oc=5)
+Source: [EatingWell](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ET3J4ZVhYU2IzU0NidENJV0F4RlZVR29LMjl1SjlxOTVTcU94MHRTNDFNYmZGQjl3amFsYWE3VTMwX2lrNndlQ0RKLWZMNDFsc0s0aUpmVDhSUXJyMWtVOWlPS0ozLXA1?oc=5)
 
 ---
 

@@ -31,27 +31,19 @@ This page brings together the latest health news about “cancer” and lists th
 
 ## Related News (7)
 
-### [This new drug could break cancer’s resistance to treatment](https://news.google.com/rss/articles/CBMib0FVX3lxTE4tc082SHY4R3p1WlBnbklHWnhOOWF6a0trb19jWWNqaG5icnBtMDNLdVhVM3RQS0RFekxYdFROdGZxWkNPOXJPRnd6MWZWMTdGR2w2SDY1VnRvZlFvZGtLS1o2Uk12QU5QWHZyZXpsYw?oc=5)
+### [Men Are Sharing The "Hidden Signs" Of Prostate Cancer They Wish They'd Taken More Seriously](https://news.google.com/rss/articles/CBMickFVX3lxTE04R0d3dFVkaTM4U2NJNTJhQTg2VllyTlJmRkJFeWpObzhGNnpVS0NjbGJua1hHMG5jU3F0OVo5S1FhMWRvclhaYnRUWWQ1THc0OVpQWTFJeWcyMURGSlROakZOc3E5TEc3dzA4UHA1SFVJZw?oc=5)
 
 2026-09-23
 
-Source: [sciencedaily.com](https://news.google.com/rss/articles/CBMib0FVX3lxTE4tc082SHY4R3p1WlBnbklHWnhOOWF6a0trb19jWWNqaG5icnBtMDNLdVhVM3RQS0RFekxYdFROdGZxWkNPOXJPRnd6MWZWMTdGR2w2SDY1VnRvZlFvZGtLS1o2Uk12QU5QWHZyZXpsYw?oc=5)
+Source: [BuzzFeed](https://news.google.com/rss/articles/CBMickFVX3lxTE04R0d3dFVkaTM4U2NJNTJhQTg2VllyTlJmRkJFeWpObzhGNnpVS0NjbGJua1hHMG5jU3F0OVo5S1FhMWRvclhaYnRUWWQ1THc0OVpQWTFJeWcyMURGSlROakZOc3E5TEc3dzA4UHA1SFVJZw?oc=5)
 
 ---
 
-### [Eating more ultra-processed foods linked to worse health, study finds - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMTBMcGNKM05LbTNDZVd6T2FZU0FCN3VtQmFvUmJHMXpNZHRDVEU0RHNURVhtVjlSRFp4RXdJa3ZpNjR6d2ZOSmMzQjZjWk1vMDk4VkFRZmVjR3RoZGVaczhZaTY5RXNSQjNUOVB2bWlveE9kcFFuLWlKa3d6ejhWaEpxV3kwYUtrRVRDb0FfMzdrV3BoWFdqazVjUHdQTHfSAaQBQVVfeXFMTVM4bmFYaWhrczYyUXlzbUQyWFdkdmo0YjlJSVZlSXk0bURGYm9CcWFSVE5vbVFOZFRfelFYQ0c4SDh5NnZzNm4wcnZEN3cwZDZuV1A0Ym16RmRva3JpdGdJNjZfUDFBa1BraXhEOWpscUZ0MVhQR2tPOGVNdENYMzRmWXg1YnpOSWhFMlNEU2YyVFlSa05veXlqNnRrcHVvNWhKOUc?oc=5)
+### [Abnormally Large Breasts Linked To Range Of Headache And Pain Disorders](https://news.google.com/rss/articles/CBMiywFBVV95cUxQYWtJNC11aWhCUGhzRnpjSXpZWXFsOW92T0JyTFZKeWo2bFZuS3ltS09fVFkwM1U2MnN0cWFsQjdoaEtkdWxjNllvdW9Xb2pqT050QWZuM3NNZWVLd19uQ2V5VDk4YVh4R29sSkEwNlZ3TDdIYVprbEtoY3NKdVJzS3d2Q2pNb19hemRzTjF6elNCcEtyZmlJOEZUMDNJOVQzTzJKNmJVckJleWZqQm1LcEhxWG5Ka1RtdUFkZXluVDk0Sko1V1hUREhyZw?oc=5)
 
-2026-09-22
+2026-09-23
 
-Source: [ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMTBMcGNKM05LbTNDZVd6T2FZU0FCN3VtQmFvUmJHMXpNZHRDVEU0RHNURVhtVjlSRFp4RXdJa3ZpNjR6d2ZOSmMzQjZjWk1vMDk4VkFRZmVjR3RoZGVaczhZaTY5RXNSQjNUOVB2bWlveE9kcFFuLWlKa3d6ejhWaEpxV3kwYUtrRVRDb0FfMzdrV3BoWFdqazVjUHdQTHfSAaQBQVVfeXFMTVM4bmFYaWhrczYyUXlzbUQyWFdkdmo0YjlJSVZlSXk0bURGYm9CcWFSVE5vbVFOZFRfelFYQ0c4SDh5NnZzNm4wcnZEN3cwZDZuV1A0Ym16RmRva3JpdGdJNjZfUDFBa1BraXhEOWpscUZ0MVhQR2tPOGVNdENYMzRmWXg1YnpOSWhFMlNEU2YyVFlSa05veXlqNnRrcHVvNWhKOUc?oc=5)
-
----
-
-### [A 2-year-old's cancer diagnosis led her mom to a local group that quietly helps families when they need it most](https://news.google.com/rss/articles/CBMiswFBVV95cUxNM05lXzhwMUszNHJzMzNRN29lcDBmd0JMaUFndDZsaU5MLWZTV01lUHpwckFjZmFQRmFSdW1XNzJ3TVJxNThfakhndHc4S0NDM0RLWElLZHY0SFpVLTRzZlRuUzJMZTVYMjBOWVoySzhVbHJkOEc0VkNNZ1hvRlFGaG5oc0NqTXh1dHpXdVI2eWlyRG9RLS1Rdjk2b090MU9LbWdVajBWTVBxaEJkcVIzcmRRWQ?oc=5)
-
-2026-09-21
-
-Source: [WHEC.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNM05lXzhwMUszNHJzMzNRN29lcDBmd0JMaUFndDZsaU5MLWZTV01lUHpwckFjZmFQRmFSdW1XNzJ3TVJxNThfakhndHc4S0NDM0RLWElLZHY0SFpVLTRzZlRuUzJMZTVYMjBOWVoySzhVbHJkOEc0VkNNZ1hvRlFGaG5oc0NqTXh1dHpXdVI2eWlyRG9RLS1Rdjk2b090MU9LbWdVajBWTVBxaEJkcVIzcmRRWQ?oc=5)
+Source: [usnews.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxQYWtJNC11aWhCUGhzRnpjSXpZWXFsOW92T0JyTFZKeWo2bFZuS3ltS09fVFkwM1U2MnN0cWFsQjdoaEtkdWxjNllvdW9Xb2pqT050QWZuM3NNZWVLd19uQ2V5VDk4YVh4R29sSkEwNlZ3TDdIYVprbEtoY3NKdVJzS3d2Q2pNb19hemRzTjF6elNCcEtyZmlJOEZUMDNJOVQzTzJKNmJVckJleWZqQm1LcEhxWG5Ka1RtdUFkZXluVDk0Sko1V1hUREhyZw?oc=5)
 
 ---
 
@@ -71,6 +63,14 @@ Source: [CBS News](https://news.google.com/rss/articles/CBMiaEFVX3lxTE53U1ZSX2tp
 
 ---
 
+### [Vitamin C linked to improved outcomes in people with precancerous blood disorders - Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ04td2pzQW5VMFVRUkF5R3Y0Tm9ObDBMTHBVVEpqeEZoTEdySWQ5TmpncWJSejlPMjNlTzhBQldGMmxnZXNHRThIdUdOaGdWRnM3S0J3dVdISWJfVDN0RXpWQlFHZ29tYVhlU1lvTHZrc0k2dm9oRDBBUkpmZHVlNmRDRkRGcTFHYVdWc3UtbzM?oc=5)
+
+2026-09-21
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ04td2pzQW5VMFVRUkF5R3Y0Tm9ObDBMTHBVVEpqeEZoTEdySWQ5TmpncWJSejlPMjNlTzhBQldGMmxnZXNHRThIdUdOaGdWRnM3S0J3dVdISWJfVDN0RXpWQlFHZ29tYVhlU1lvTHZrc0k2dm9oRDBBUkpmZHVlNmRDRkRGcTFHYVdWc3UtbzM?oc=5)
+
+---
+
 ### [A melanoma vaccine was hailed as a breakthrough. Which cancers are next? - The Washington Post](https://news.google.com/rss/articles/CBMiswFBVV95cUxPd01EWFpGRkJ5Q09ndFBoU1JUWmlCY0NtTlVOUG1kbXFlYVh6Vm1NeHhBc2ktdUZ2RHB2dG9zVUNRdmpRN1RidnZjMGtKRjZuSFJwRm45V1E5bmkzRGlJQ0g3WWh2YTI3bkwzNVh0N3gxS25JTFZLVGNGb2R1WHV6a1FYRzBfdlZBMWRiRE5xNngwTjNOU1ZFUl9yZllXSzFsRDJtWXRGdzhqb0pSVGRJc0RINA?oc=5)
 
 2026-09-19
@@ -79,11 +79,11 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMiswFBVV95c
 
 ---
 
-### [This Rare Gene Drastically Raises Lung Cancer Risk in People Who Never Smoked - The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOME1TUjU1T3d6b1pITWRVY2Jaem02VXFsU0gwcGFGS0JRTEVkOW50d1ZJR2NJd1BXM1NCRWt1YmZ0aTFCLVJxdGh1anQzWkgteEhRaDdRbDAzNzhtVkR1SU9qck9EMGk2b0hQN0lfRFRfdHNuUDlHWnpub3MzelhnYklGeWY?oc=5)
+### [This Rare Gene Drastically Raises Lung Cancer Risk in People Who Never Smoked](https://news.google.com/rss/articles/CBMihAFBVV95cUxOME1TUjU1T3d6b1pITWRVY2Jaem02VXFsU0gwcGFGS0JRTEVkOW50d1ZJR2NJd1BXM1NCRWt1YmZ0aTFCLVJxdGh1anQzWkgteEhRaDdRbDAzNzhtVkR1SU9qck9EMGk2b0hQN0lfRFRfdHNuUDlHWnpub3MzelhnYklGeWY?oc=5)
 
 2026-09-17
 
-Source: [The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOME1TUjU1T3d6b1pITWRVY2Jaem02VXFsU0gwcGFGS0JRTEVkOW50d1ZJR2NJd1BXM1NCRWt1YmZ0aTFCLVJxdGh1anQzWkgteEhRaDdRbDAzNzhtVkR1SU9qck9EMGk2b0hQN0lfRFRfdHNuUDlHWnpub3MzelhnYklGeWY?oc=5)
+Source: [nytimes.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxOME1TUjU1T3d6b1pITWRVY2Jaem02VXFsU0gwcGFGS0JRTEVkOW50d1ZJR2NJd1BXM1NCRWt1YmZ0aTFCLVJxdGh1anQzWkgteEhRaDdRbDAzNzhtVkR1SU9qck9EMGk2b0hQN0lfRFRfdHNuUDlHWnpub3MzelhnYklGeWY?oc=5)
 
 ---
 

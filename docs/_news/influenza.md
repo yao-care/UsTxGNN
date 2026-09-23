@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 3 articles, 2 related drugs."
+description: "Health news about flu (influenza). 4 articles, 2 related drugs."
 permalink: /news/influenza/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/influenza/
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>3 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>4 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Health experts urge flu vaccine, COVID vaccine as Chicago area respiratory illnesses rise amid back-to-school, start of fall 2026 - ABC7 Chicago](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2g3RXVGbHAtNXBXYlU5cWJvbDJQQWV2TVZDM3NqT2poVm8yLTg1MjRKRllaWFhZU3h1R0paT0pzUVJQdFd5Wjg3QXdiN1d3a3VfQjVPeTZVdFBXTnZBLVowczJPcXlIOVIxU2J2bU50X0RwZDBvQzdyX2NoMWY1VUpSWUpnT3NBdkU4RWsxdjQ0VXZwamdpaWJqeXlYcjFwbE9VdXU5cm1DR2JaOU5jcXQyMU5wSmN1SWFXdGxZTDd3ZkloWGJoT0xIVG52Z2tnQmNRTFVqSVIzVzVpY0R4RFNwTdIB6AFBVV95cUxPZ1MzY2pINnU3ZUFvRGRybjdvRVk0dmRFT1A5N3JWSmxFTnZpQ0owV0cxVlJKOS1vU3VCX3FFLWFQMlpGU0l0dGlJUWczSUlQaU5acUhqeEFPYWxva25zN0ZRRWdkZVF5bFU5Um5MYXRtZ1k1cmRrUnN6ZkdrcGpRT281NTBOMmF0S1d1Ni1GaEFFSnVEQW9QMm1MdDJVaXhpeEF4R1NRdktjSkgwVFRTanB4WS1pODVKRnJ2UUQ2bFo4dWpaQjAwYkZ0NG94YUtXNThKU1VQTGtlWnp1bFhsUnVNaTE4NFNs?oc=5)
+
+2026-09-22
+
+Source: [ABC7 Chicago](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2g3RXVGbHAtNXBXYlU5cWJvbDJQQWV2TVZDM3NqT2poVm8yLTg1MjRKRllaWFhZU3h1R0paT0pzUVJQdFd5Wjg3QXdiN1d3a3VfQjVPeTZVdFBXTnZBLVowczJPcXlIOVIxU2J2bU50X0RwZDBvQzdyX2NoMWY1VUpSWUpnT3NBdkU4RWsxdjQ0VXZwamdpaWJqeXlYcjFwbE9VdXU5cm1DR2JaOU5jcXQyMU5wSmN1SWFXdGxZTDd3ZkloWGJoT0xIVG52Z2tnQmNRTFVqSVIzVzVpY0R4RFNwTdIB6AFBVV95cUxPZ1MzY2pINnU3ZUFvRGRybjdvRVk0dmRFT1A5N3JWSmxFTnZpQ0owV0cxVlJKOS1vU3VCX3FFLWFQMlpGU0l0dGlJUWczSUlQaU5acUhqeEFPYWxva25zN0ZRRWdkZVF5bFU5Um5MYXRtZ1k1cmRrUnN6ZkdrcGpRT281NTBOMmF0S1d1Ni1GaEFFSnVEQW9QMm1MdDJVaXhpeEF4R1NRdktjSkgwVFRTanB4WS1pODVKRnJ2UUQ2bFo4dWpaQjAwYkZ0NG94YUtXNThKU1VQTGtlWnp1bFhsUnVNaTE4NFNs?oc=5)
+
+---
 
 ### [Should you get a covid vaccine this fall? Here’s what to know. - The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxORUs4cjJXMTc3X1ZZUEpiVVhTZWV4QXhRbzRQSjl6OG9ROG5jczNmcXRFRktJWHY2eUhFUDkyTTM5TmhiZVlCQ2dkb2pRRWpuMDdmV0pkSFJSa1FvbkpFNzNwc0VjTURFQ0lXR1Vaa0ZkWC1Nc2RjaHpvV2RUdGV1XzlYbDljaTF6WGVqM29xeW5aLXZGQnRJbDJMNTFLMmxabUZpdl9POUtNMm14?oc=5)
 

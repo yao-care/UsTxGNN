@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 4 articles, 2 related drugs."
+description: "Health news about flu (influenza). 5 articles, 2 related drugs."
 permalink: /news/influenza/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/influenza/
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>4 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>5 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [An Invisible Force Has a Mysterious Effect on Aging, Scientists Discover in 'Startling' Breakthrough - 404 Media](https://news.google.com/rss/articles/CBMid0FVX3lxTFBuSWxkQ1hFZHJISF80ZHlZZXVqNkVkR09DNWZSc1pQZ2FNcFQ0QXFaeTJoOHlOZ240cmhnZ2kxVjZpc3I1M3FVcHVzRk1kclJnamt3QUpLTW9MUmlHSWQzOFYtYjhmOVdtc21iTV9nTDAwMlNUNFhV?oc=5)
+
+2026-09-23
+
+Source: [404 Media](https://news.google.com/rss/articles/CBMid0FVX3lxTFBuSWxkQ1hFZHJISF80ZHlZZXVqNkVkR09DNWZSc1pQZ2FNcFQ0QXFaeTJoOHlOZ240cmhnZ2kxVjZpc3I1M3FVcHVzRk1kclJnamt3QUpLTW9MUmlHSWQzOFYtYjhmOVdtc21iTV9nTDAwMlNUNFhV?oc=5)
+
+---
 
 ### [Health experts urge flu vaccine, COVID vaccine as Chicago area respiratory illnesses rise amid back-to-school, start of fall 2026 - ABC7 Chicago](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT2g3RXVGbHAtNXBXYlU5cWJvbDJQQWV2TVZDM3NqT2poVm8yLTg1MjRKRllaWFhZU3h1R0paT0pzUVJQdFd5Wjg3QXdiN1d3a3VfQjVPeTZVdFBXTnZBLVowczJPcXlIOVIxU2J2bU50X0RwZDBvQzdyX2NoMWY1VUpSWUpnT3NBdkU4RWsxdjQ0VXZwamdpaWJqeXlYcjFwbE9VdXU5cm1DR2JaOU5jcXQyMU5wSmN1SWFXdGxZTDd3ZkloWGJoT0xIVG52Z2tnQmNRTFVqSVIzVzVpY0R4RFNwTdIB6AFBVV95cUxPZ1MzY2pINnU3ZUFvRGRybjdvRVk0dmRFT1A5N3JWSmxFTnZpQ0owV0cxVlJKOS1vU3VCX3FFLWFQMlpGU0l0dGlJUWczSUlQaU5acUhqeEFPYWxva25zN0ZRRWdkZVF5bFU5Um5MYXRtZ1k1cmRrUnN6ZkdrcGpRT281NTBOMmF0S1d1Ni1GaEFFSnVEQW9QMm1MdDJVaXhpeEF4R1NRdktjSkgwVFRTanB4WS1pODVKRnJ2UUQ2bFo4dWpaQjAwYkZ0NG94YUtXNThKU1VQTGtlWnp1bFhsUnVNaTE4NFNs?oc=5)
 

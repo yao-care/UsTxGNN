@@ -3,7 +3,7 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 4 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 3 articles, 1 related drugs."
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>4 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>3 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (4)
+## Related News (3)
 
 ### [Mosquitoes are thriving in L.A.’s miserable humidity, worsening the spread of West Nile virus - Los Angeles Times](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeG1zdUQwT1FCaFg0Y0JWdWZPTk16UGNKOF9ZNVcwR3pGbUJkVHdJMkdvWnRXQjluUGxFOV9FZVA2MGNLM0lDeHQyN2xuSU1Gc0t0QXJ6SlBlYmFzUXY5UEM3S2d6MkhRX3NZQ1hNN1J1MTZ6LXVNNFU4djF6eEJFR3NLUFM0Tm9BVGF3?oc=5)
 
 2026-09-22
 
 Source: [Los Angeles Times](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeG1zdUQwT1FCaFg0Y0JWdWZPTk16UGNKOF9ZNVcwR3pGbUJkVHdJMkdvWnRXQjluUGxFOV9FZVA2MGNLM0lDeHQyN2xuSU1Gc0t0QXJ6SlBlYmFzUXY5UEM3S2d6MkhRX3NZQ1hNN1J1MTZ6LXVNNFU4djF6eEJFR3NLUFM0Tm9BVGF3?oc=5)
-
----
-
-### [A 42-light-year X-ray tail links a pulsar to previously 'orphan' gamma rays](https://news.google.com/rss/articles/CBMibkFVX3lxTFBaSlhkWVdEOGNwZnJGOVF5dzZzd1FTdUlaRlE5VXdqNGJfNXY3UUw5VXRTNGFCTGlmc0NjZ0s3UUdjU2NMd0ZCUFhHR3M0SjBSMXh1Z3Uzd0NoSFBMUFZWdzg2SE1iSXNiMk9KUEVn?oc=5)
-
-2026-09-22
-
-Source: [Phys.org](https://news.google.com/rss/articles/CBMibkFVX3lxTFBaSlhkWVdEOGNwZnJGOVF5dzZzd1FTdUlaRlE5VXdqNGJfNXY3UUw5VXRTNGFCTGlmc0NjZ0s3UUdjU2NMd0ZCUFhHR3M0SjBSMXh1Z3Uzd0NoSFBMUFZWdzg2SE1iSXNiMk9KUEVn?oc=5)
 
 ---
 

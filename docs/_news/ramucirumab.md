@@ -49,25 +49,25 @@ Source: [BuzzFeed](https://news.google.com/rss/articles/CBMickFVX3lxTE04R0d3dFVk
 
 ---
 
-### [Her son was dying, but his rare cancer made it difficult to get the right drug - CBS News](https://news.google.com/rss/articles/CBMiaEFVX3lxTE53U1ZSX2tpUnF4ME9zYkJmdXVIVThPcEJFWkZ5QmR0ZW1mZWszNU1kM05OalBSdUFmd0YxS1pBSnJhclptNUVUMUhhNVJ4ZjhlUDYzRFV6ZHJqdk8xM2VFdG5Tdm5sU01f?oc=5)
+### [Researchers Test a New Way To Find Pancreatic Cancer Before It’s Too Late](https://news.google.com/rss/articles/CBMinwFBVV95cUxOSjY3UFphRHFBZ1phMGNkNm1ZTHJNb2dpWjNsZjQ5MF9YQ0lVRHNvZzhEaWFnT29GS3pSM2pNSGFfc0JhejltUFhQQ3FhSUthbmJYUWpkT3MydlFrSGJ3Y0xpVHBuNXVUaHJZbi1HU1p6cVFXejNmZDNoUEt5WnZDb1hZVU81RTk1dm1mc2JzSGJTYlVhUFhSZlc2MUZBdGs?oc=5)
 
-2026-09-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+2026-09-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
-Source: [CBS News](https://news.google.com/rss/articles/CBMiaEFVX3lxTE53U1ZSX2tpUnF4ME9zYkJmdXVIVThPcEJFWkZ5QmR0ZW1mZWszNU1kM05OalBSdUFmd0YxS1pBSnJhclptNUVUMUhhNVJ4ZjhlUDYzRFV6ZHJqdk8xM2VFdG5Tdm5sU01f?oc=5)
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMinwFBVV95cUxOSjY3UFphRHFBZ1phMGNkNm1ZTHJNb2dpWjNsZjQ5MF9YQ0lVRHNvZzhEaWFnT29GS3pSM2pNSGFfc0JhejltUFhQQ3FhSUthbmJYUWpkT3MydlFrSGJ3Y0xpVHBuNXVUaHJZbi1HU1p6cVFXejNmZDNoUEt5WnZDb1hZVU81RTk1dm1mc2JzSGJTYlVhUFhSZlc2MUZBdGs?oc=5)
 
 ---
 
-### [Vitamin C linked to improved outcomes in people with precancerous blood disorders](https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ04td2pzQW5VMFVRUkF5R3Y0Tm9ObDBMTHBVVEpqeEZoTEdySWQ5TmpncWJSejlPMjNlTzhBQldGMmxnZXNHRThIdUdOaGdWRnM3S0J3dVdISWJfVDN0RXpWQlFHZ29tYVhlU1lvTHZrc0k2dm9oRDBBUkpmZHVlNmRDRkRGcTFHYVdWc3UtbzM?oc=5)
+### [Vitamin C linked to improved outcomes in people with precancerous blood disorders - Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ04td2pzQW5VMFVRUkF5R3Y0Tm9ObDBMTHBVVEpqeEZoTEdySWQ5TmpncWJSejlPMjNlTzhBQldGMmxnZXNHRThIdUdOaGdWRnM3S0J3dVdISWJfVDN0RXpWQlFHZ29tYVhlU1lvTHZrc0k2dm9oRDBBUkpmZHVlNmRDRkRGcTFHYVdWc3UtbzM?oc=5)
 
 2026-09-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
 
-Source: [medicalxpress.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ04td2pzQW5VMFVRUkF5R3Y0Tm9ObDBMTHBVVEpqeEZoTEdySWQ5TmpncWJSejlPMjNlTzhBQldGMmxnZXNHRThIdUdOaGdWRnM3S0J3dVdISWJfVDN0RXpWQlFHZ29tYVhlU1lvTHZrc0k2dm9oRDBBUkpmZHVlNmRDRkRGcTFHYVdWc3UtbzM?oc=5)
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ04td2pzQW5VMFVRUkF5R3Y0Tm9ObDBMTHBVVEpqeEZoTEdySWQ5TmpncWJSejlPMjNlTzhBQldGMmxnZXNHRThIdUdOaGdWRnM3S0J3dVdISWJfVDN0RXpWQlFHZ29tYVhlU1lvTHZrc0k2dm9oRDBBUkpmZHVlNmRDRkRGcTFHYVdWc3UtbzM?oc=5)
 
 ---
 
 ### [The September 11 cancer wave ahead](https://news.google.com/rss/articles/CBMib0FVX3lxTFBycVdRV0tZZF9oVkt0SmJiaDN3bWVOZzhETENXZmpwX0RscExJemV3UjFKTDRPS2UyTF9QNV94QmFRUWcybUNUZHB3ZHVDd2FBclZwem1INWstX29wRWs5MVhQanBmeVpBMDY1Rjc0Zw?oc=5)
 
-2026-09-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+2026-09-19 <span class="news-indication-tag">cancer</span>
 
 Source: [CNN](https://news.google.com/rss/articles/CBMib0FVX3lxTFBycVdRV0tZZF9oVkt0SmJiaDN3bWVOZzhETENXZmpwX0RscExJemV3UjFKTDRPS2UyTF9QNV94QmFRUWcybUNUZHB3ZHVDd2FBclZwem1INWstX29wRWs5MVhQanBmeVpBMDY1Rjc0Zw?oc=5)
 

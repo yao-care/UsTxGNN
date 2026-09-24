@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 6 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 8 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/inflammatory-bowel-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>6 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>8 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,31 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (6)
+## Related News (8)
+
+### [Cholesterol control gets personalized – a cardiologist explains how new guidelines tailor treatment to your unique risk profile - The Conversation](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUEhORGpSeGJsZmQ3cDQ4dkhramlVc2VEYzJiZGd6dFU2V0hFemVUZ1c0ODBKODZzN0JldzdzTGNRbjJKNmZoeUgxaEJZNDNNLWw0QXdEUkpmOVBoX1dxejFVQXRHOUFOUlBibjF3djJRRXp3amVGVnpYSGdIcnh1T3FMa2hKWHF2dWoycUhSdXJCaFVacmRiQkJZVTQ5Y1hYTnlHRDRBQ1NsV1U5M0kzQ184ZGpOSzdSaGNOaDN5T0FDczFfWHozc3o5ejJvTUhsVG1fVmo1THV3WG9TTWgzOWxwME5DbkhGRW12dzRsR1J1UQ?oc=5)
+
+2026-09-24
+
+Source: [The Conversation](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUEhORGpSeGJsZmQ3cDQ4dkhramlVc2VEYzJiZGd6dFU2V0hFemVUZ1c0ODBKODZzN0JldzdzTGNRbjJKNmZoeUgxaEJZNDNNLWw0QXdEUkpmOVBoX1dxejFVQXRHOUFOUlBibjF3djJRRXp3amVGVnpYSGdIcnh1T3FMa2hKWHF2dWoycUhSdXJCaFVacmRiQkJZVTQ5Y1hYTnlHRDRBQ1NsV1U5M0kzQ184ZGpOSzdSaGNOaDN5T0FDczFfWHozc3o5ejJvTUhsVG1fVmo1THV3WG9TTWgzOWxwME5DbkhGRW12dzRsR1J1UQ?oc=5)
+
+---
+
+### [This deadly fungus isn’t just a rural threat anymore. New studies point to cities and oil wells - Los Angeles Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObGFmT3otSEVaRDRZaVcxSHpxZGJfUzRfTTlDWWtfUEtqbGswdkhtZHlRRWplVG5LaVN3ZWE1VUFITjFmM19KSVdObzU0QllMY05rOGhNMUVSbDg3LTI3UVlYbVoxdEt4SEVKbmJrTldyZm9TOFlGUE1icGh5UU5zb2IxazJwMmlLZ29HT3p3eUVBMFNNc1F6NHpTYTlVZmJjOUIwVHJKU0JJampwTjVQUXY0U2F4X0F6bnBF?oc=5)
+
+2026-09-24
+
+Source: [Los Angeles Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObGFmT3otSEVaRDRZaVcxSHpxZGJfUzRfTTlDWWtfUEtqbGswdkhtZHlRRWplVG5LaVN3ZWE1VUFITjFmM19KSVdObzU0QllMY05rOGhNMUVSbDg3LTI3UVlYbVoxdEt4SEVKbmJrTldyZm9TOFlGUE1icGh5UU5zb2IxazJwMmlLZ29HT3p3eUVBMFNNc1F6NHpTYTlVZmJjOUIwVHJKU0JJampwTjVQUXY0U2F4X0F6bnBF?oc=5)
+
+---
+
+### [Researchers Reconstruct Face of Oldest Known Homo sapiens](https://news.google.com/rss/articles/CBMikwFBVV95cUxNcGV4RFZmS1czbEkxR1I5eXdLaW40MHlRSnRQVkcyMVNiZ1NEZjRDQ0NvcFZySHQ1b2IyVExVYkkwNGVNamlPQjdoc2NfV2dSZVJsSVV1U1RDR0VWV2tXYXRCY0JiYmJhcDF4eC03NkxOR05ETUJSaXhmbWRpNEVlR3haeElCbGw1WFBaWXFqeTZsYU0?oc=5)
+
+2026-09-23
+
+Source: [Sci.News](https://news.google.com/rss/articles/CBMikwFBVV95cUxNcGV4RFZmS1czbEkxR1I5eXdLaW40MHlRSnRQVkcyMVNiZ1NEZjRDQ0NvcFZySHQ1b2IyVExVYkkwNGVNamlPQjdoc2NfV2dSZVJsSVV1U1RDR0VWV2tXYXRCY0JiYmJhcDF4eC03NkxOR05ETUJSaXhmbWRpNEVlR3haeElCbGw1WFBaWXFqeTZsYU0?oc=5)
+
+---
 
 ### [Americans are drinking less since the pandemic began, but one group bucks the trend - The Washington Post](https://news.google.com/rss/articles/CBMivAFBVV95cUxQMGU4a045OTNXeklFQzZlSkl0RXFwbjN0ZXB1QWEzLXVPQndLSjRHcGM1QTNMb1c0a3loNEwxM2hKREJGSXRoMmp1d2MzemU4ckI0akwwTlBIaWhpS25kS3Bqc1Z3Uy0zQTR2a2hyVmJiOFd6Ml9mOFQ3UThuZWQ2My1SX1ZUQWdxUE1tanVMRUxTSThGOEJIbnpydURPanZMcEE5ZTBhdDYtbUhOMV9XX0lTVXBFZUZKUEpCdQ?oc=5)
 
@@ -44,19 +68,19 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMivAFBVV95c
 
 ---
 
-### [Blood glucose levels are lower when you eat with a loved one — Israeli study](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX25VMEpfN0gxOTExbUtNTUw0eDU3Qk56WmJqZGhza1ZpWDNYLXBralQteFhKOTlabnktbVRxaDNzeWhnbllxOWFiVTJhSkJFSDlNcE9NUU1zR1dsR2loX3N0a1FHTXAtdlJnQ3NKejN1cUhGVGN1eXFWZ2RzMVlJa05WUTBUUmRZWlE0Tm1xZGlBXzFLcFU4TWlHZnRxVzcwVHFWcU1jM3jSAa4BQVVfeXFMTjQ0ZllTMXQ5ak55UVkzTXlTSlg4QjR1bFR0ZjBmNG0xcEVsSzlySEYtamxHQXBTMzktaFY3akN5VDhfOTRjT1NZalZzWm5qMWZaa1U3eWVLV3hvX1pDRnhHOTlDSE1qWjJWbUF4dGVEVnhNc1dPVFo0ZWt1RmNQMDZqZUhfWHNOM1plbGNrc3hnSFhiNHdzUjhQT2kzaFRFd19ZTUEwUzlpa0JaaDJB?oc=5)
+### [Blood glucose levels are lower when you eat with a loved one — Israeli study - The Times of Israel](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX25VMEpfN0gxOTExbUtNTUw0eDU3Qk56WmJqZGhza1ZpWDNYLXBralQteFhKOTlabnktbVRxaDNzeWhnbllxOWFiVTJhSkJFSDlNcE9NUU1zR1dsR2loX3N0a1FHTXAtdlJnQ3NKejN1cUhGVGN1eXFWZ2RzMVlJa05WUTBUUmRZWlE0Tm1xZGlBXzFLcFU4TWlHZnRxVzcwVHFWcU1jM3jSAa4BQVVfeXFMTjQ0ZllTMXQ5ak55UVkzTXlTSlg4QjR1bFR0ZjBmNG0xcEVsSzlySEYtamxHQXBTMzktaFY3akN5VDhfOTRjT1NZalZzWm5qMWZaa1U3eWVLV3hvX1pDRnhHOTlDSE1qWjJWbUF4dGVEVnhNc1dPVFo0ZWt1RmNQMDZqZUhfWHNOM1plbGNrc3hnSFhiNHdzUjhQT2kzaFRFd19ZTUEwUzlpa0JaaDJB?oc=5)
 
 2026-09-23
 
-Source: [timesofisrael.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX25VMEpfN0gxOTExbUtNTUw0eDU3Qk56WmJqZGhza1ZpWDNYLXBralQteFhKOTlabnktbVRxaDNzeWhnbllxOWFiVTJhSkJFSDlNcE9NUU1zR1dsR2loX3N0a1FHTXAtdlJnQ3NKejN1cUhGVGN1eXFWZ2RzMVlJa05WUTBUUmRZWlE0Tm1xZGlBXzFLcFU4TWlHZnRxVzcwVHFWcU1jM3jSAa4BQVVfeXFMTjQ0ZllTMXQ5ak55UVkzTXlTSlg4QjR1bFR0ZjBmNG0xcEVsSzlySEYtamxHQXBTMzktaFY3akN5VDhfOTRjT1NZalZzWm5qMWZaa1U3eWVLV3hvX1pDRnhHOTlDSE1qWjJWbUF4dGVEVnhNc1dPVFo0ZWt1RmNQMDZqZUhfWHNOM1plbGNrc3hnSFhiNHdzUjhQT2kzaFRFd19ZTUEwUzlpa0JaaDJB?oc=5)
+Source: [The Times of Israel](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX25VMEpfN0gxOTExbUtNTUw0eDU3Qk56WmJqZGhza1ZpWDNYLXBralQteFhKOTlabnktbVRxaDNzeWhnbllxOWFiVTJhSkJFSDlNcE9NUU1zR1dsR2loX3N0a1FHTXAtdlJnQ3NKejN1cUhGVGN1eXFWZ2RzMVlJa05WUTBUUmRZWlE0Tm1xZGlBXzFLcFU4TWlHZnRxVzcwVHFWcU1jM3jSAa4BQVVfeXFMTjQ0ZllTMXQ5ak55UVkzTXlTSlg4QjR1bFR0ZjBmNG0xcEVsSzlySEYtamxHQXBTMzktaFY3akN5VDhfOTRjT1NZalZzWm5qMWZaa1U3eWVLV3hvX1pDRnhHOTlDSE1qWjJWbUF4dGVEVnhNc1dPVFo0ZWt1RmNQMDZqZUhfWHNOM1plbGNrc3hnSFhiNHdzUjhQT2kzaFRFd19ZTUEwUzlpa0JaaDJB?oc=5)
 
 ---
 
-### [An Invisible Force Has a Mysterious Effect on Aging, Scientists Discover in 'Startling' Breakthrough - 404 Media](https://news.google.com/rss/articles/CBMid0FVX3lxTFBuSWxkQ1hFZHJISF80ZHlZZXVqNkVkR09DNWZSc1pQZ2FNcFQ0QXFaeTJoOHlOZ240cmhnZ2kxVjZpc3I1M3FVcHVzRk1kclJnamt3QUpLTW9MUmlHSWQzOFYtYjhmOVdtc21iTV9nTDAwMlNUNFhV?oc=5)
+### [2 measles cases confirmed in Adams County - WANE 15](https://news.google.com/rss/articles/CBMiggFBVV95cUxPdi1ueHlKYnVCTXRFWG5kSC1TNTFzVU1WZTQzREVYYnBpbWxRbTVyY0hvZ3Rab25kdFF6U0pCYWFXWjBPWVBwSDM4LXpQbGVhRWI2V3dOZldLXy1NWlJPTWFGcnc3VDlUY3M0R05ELW00Wld2N2NFLThGRWxPY0xIS2ZR0gGHAUFVX3lxTFBqaVJmcXg4SXZ6aGNDTmg5MjRCRlJ6T0REMEtaVDRKY0tfVzdFMHE3V29ObzRzOG1BUFpDVUpNSWZZTVlKTzdhNzFYWlN2RmQ1WHpCU1JDSEFtSGNzXzhwcmJUanZMSGpaSzZ1R1k5dFNnZjBrNWJHRFRPbEJ5T3ZFREYyRXdVWQ?oc=5)
 
 2026-09-23
 
-Source: [404 Media](https://news.google.com/rss/articles/CBMid0FVX3lxTFBuSWxkQ1hFZHJISF80ZHlZZXVqNkVkR09DNWZSc1pQZ2FNcFQ0QXFaeTJoOHlOZ240cmhnZ2kxVjZpc3I1M3FVcHVzRk1kclJnamt3QUpLTW9MUmlHSWQzOFYtYjhmOVdtc21iTV9nTDAwMlNUNFhV?oc=5)
+Source: [WANE 15](https://news.google.com/rss/articles/CBMiggFBVV95cUxPdi1ueHlKYnVCTXRFWG5kSC1TNTFzVU1WZTQzREVYYnBpbWxRbTVyY0hvZ3Rab25kdFF6U0pCYWFXWjBPWVBwSDM4LXpQbGVhRWI2V3dOZldLXy1NWlJPTWFGcnc3VDlUY3M0R05ELW00Wld2N2NFLThGRWxPY0xIS2ZR0gGHAUFVX3lxTFBqaVJmcXg4SXZ6aGNDTmg5MjRCRlJ6T0REMEtaVDRKY0tfVzdFMHE3V29ObzRzOG1BUFpDVUpNSWZZTVlKTzdhNzFYWlN2RmQ1WHpCU1JDSEFtSGNzXzhwcmJUanZMSGpaSzZ1R1k5dFNnZjBrNWJHRFRPbEJ5T3ZFREYyRXdVWQ?oc=5)
 
 ---
 
@@ -68,19 +92,11 @@ Source: [The Conversation](https://news.google.com/rss/articles/CBMi-AFBVV95cUxN
 
 ---
 
-### [We've Lost 12 Trillion Tons of Ice From Earth's Major Ice Sheets in Just 47 Years, Satellites Reveal](https://news.google.com/rss/articles/CBMixAFBVV95cUxPUmEtbVBmYWV1UUhKMmd6UnNBTnlsaThhb1ZySU9YcThwbG5UVnN0U0dVUXlBTmV4SXItT1FBSjFfaF9VQ0t5dDFlcUhNM1JYS3BJUV90SEdaeVJGV3J6MkJVWlpMSUYxSjdoNXYwdUlZMlRYQ3l6VUxnM25UeGV4UVpTLXlXUGVXOHRmV2hNTnZVbDg0SXlSZWw2ckdQREdKbzhDQXA4TzRvekJxdGJ0c0V3MlhzRmhxVkEwRmtLWU5xYnpP?oc=5)
+### [Small undersea volcanoes may unleash outsized tsunamis](https://news.google.com/rss/articles/CBMimwFBVV95cUxPMm0xMTlsSnR4RjRMc1I5NzVjeXFrZ2I3T25fa1o1Q2dubHRGX29KVDcxa1h1OHpoZkwwMTRYRUJQVTB6cFpqN2puM2RRMHdPaWhheFNXWDdYWnBqNEp5cTRnZ2tjSy1JRk5scTFzdjJqRnVFVThNbTJIWVB0X3BlSkhsWmlzb295T1ZUdzJ0NUpWZnRtVmE4bEJOQQ?oc=5)
 
-2026-09-22
+2026-09-23
 
-Source: [sciencealert.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxPUmEtbVBmYWV1UUhKMmd6UnNBTnlsaThhb1ZySU9YcThwbG5UVnN0U0dVUXlBTmV4SXItT1FBSjFfaF9VQ0t5dDFlcUhNM1JYS3BJUV90SEdaeVJGV3J6MkJVWlpMSUYxSjdoNXYwdUlZMlRYQ3l6VUxnM25UeGV4UVpTLXlXUGVXOHRmV2hNTnZVbDg0SXlSZWw2ckdQREdKbzhDQXA4TzRvekJxdGJ0c0V3MlhzRmhxVkEwRmtLWU5xYnpP?oc=5)
-
----
-
-### [For Naomi Gaines-Young, Lindsay Clancy case is the latest that 'could have been prevented' - MPR News](https://news.google.com/rss/articles/CBMixAFBVV95cUxOVHdONGt1R1g4dmxWQTF0aGdYcldYdkFIY3ZDZExkQVduZHhuUlE1RlE4X0VXdjVaVWc3dk5FY3VpOGJ3WHQwam1MQXpoV0g3aElrY0sxSVJCbHB2N2dyZnhjU05qbHZCcDRMeTd3MzhQaWdIZ0tXaHlrWEt0X0Qtdy1XMEhGcG1IdF9lWmYxQTM3TnhGY1hmRjRmZ1pQV0VKemRfejFNdXFhaWo0ZUNYNTF4SnlMSkhFNzdjT2JLdGcwX1RP?oc=5)
-
-2026-09-22
-
-Source: [MPR News](https://news.google.com/rss/articles/CBMixAFBVV95cUxOVHdONGt1R1g4dmxWQTF0aGdYcldYdkFIY3ZDZExkQVduZHhuUlE1RlE4X0VXdjVaVWc3dk5FY3VpOGJ3WHQwam1MQXpoV0g3aElrY0sxSVJCbHB2N2dyZnhjU05qbHZCcDRMeTd3MzhQaWdIZ0tXaHlrWEt0X0Qtdy1XMEhGcG1IdF9lWmYxQTM3TnhGY1hmRjRmZ1pQV0VKemRfejFNdXFhaWo0ZUNYNTF4SnlMSkhFNzdjT2JLdGcwX1RP?oc=5)
+Source: [arstechnica.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxPMm0xMTlsSnR4RjRMc1I5NzVjeXFrZ2I3T25fa1o1Q2dubHRGX29KVDcxa1h1OHpoZkwwMTRYRUJQVTB6cFpqN2puM2RRMHdPaWhheFNXWDdYWnBqNEp5cTRnZ2tjSy1JRk5scTFzdjJqRnVFVThNbTJIWVB0X3BlSkhsWmlzb295T1ZUdzJ0NUpWZnRtVmE4bEJOQQ?oc=5)
 
 ---
 

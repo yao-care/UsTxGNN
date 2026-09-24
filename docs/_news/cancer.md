@@ -3,7 +3,7 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 5 articles, 1 related drugs."
+description: "Health news about cancer. 7 articles, 1 related drugs."
 permalink: /news/cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cancer/
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>5 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>7 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,29 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (5)
+## Related News (7)
 
-### [Men Are Sharing The "Hidden Signs" Of Prostate Cancer They Wish They'd Taken More Seriously](https://news.google.com/rss/articles/CBMickFVX3lxTE04R0d3dFVkaTM4U2NJNTJhQTg2VllyTlJmRkJFeWpObzhGNnpVS0NjbGJua1hHMG5jU3F0OVo5S1FhMWRvclhaYnRUWWQ1THc0OVpQWTFJeWcyMURGSlROakZOc3E5TEc3dzA4UHA1SFVJZw?oc=5)
+### [Column | Say More: I feel ‘accosted’ by the grocery store’s cancer fundraiser - The Washington Post](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMTRXc21KdXdoTk5zNXNOZjR2cjI1a3FOTHFmN1ZLVmRnYWNtRFZhd1IyU2xNQjNBM0VQVVFuUngySk45LUtGaEt5dlc0WFo0LVBiT0h2SUhDbXItZ0ppMlNIZ0FEUENJM3Izd2p3V1RsSUtHY2JjV2xqSm1pVFJsYmQ4eHAtU0tRZ0RVQlRVa2huS0JydmYwcktKT3ZGcDRaMTNpMk41NjdvTGhPTTFJ?oc=5)
+
+2026-09-24
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMTRXc21KdXdoTk5zNXNOZjR2cjI1a3FOTHFmN1ZLVmRnYWNtRFZhd1IyU2xNQjNBM0VQVVFuUngySk45LUtGaEt5dlc0WFo0LVBiT0h2SUhDbXItZ0ppMlNIZ0FEUENJM3Izd2p3V1RsSUtHY2JjV2xqSm1pVFJsYmQ4eHAtU0tRZ0RVQlRVa2huS0JydmYwcktKT3ZGcDRaMTNpMk41NjdvTGhPTTFJ?oc=5)
+
+---
+
+### [Man goes to doctor to prove he’s 'in perfect shape,' test reveals shocking diagnosis - Fox News](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMml1a0JMSjZCaTFXbEpRX3lrN3k4QTJjbk1XdVJRQjc0d0MtLXpYcEFVUXlwdFR0SDRKWHdOY3ViWjltbWJtQ3VDUVdxcTR1YUs3Y2hTR1NMZTJ4eHA4azJUeFhCUHNIT0lwdVRxdkU4dnpOOHNIcElNbWl0X3JJc0ZCT1NvTWJlLUhVVU1ESGdzOTV5XzEyd3BnR2NyT2fSAaQBQVVfeXFMTnpYekhhSWhUTDAtdnNZSnpWdEhEY2NKT2lhek95TzJQMi1wYWNLSkhua3lHcHBTSHJBdm1pWXMyRVFyMm41TkxLUkRvRHZlV3pJVTJRUDg3R0lmUTh2aXk5dGJ1dTVhSWJPV2xIQWc3aEkzazZRN0gtY0oyTGtNeU9HYWswcXBrV1JteGp3Wnd5SFBlMjhhSkJqME1MaWc1QXFvbmQ?oc=5)
 
 2026-09-23
 
-Source: [BuzzFeed](https://news.google.com/rss/articles/CBMickFVX3lxTE04R0d3dFVkaTM4U2NJNTJhQTg2VllyTlJmRkJFeWpObzhGNnpVS0NjbGJua1hHMG5jU3F0OVo5S1FhMWRvclhaYnRUWWQ1THc0OVpQWTFJeWcyMURGSlROakZOc3E5TEc3dzA4UHA1SFVJZw?oc=5)
+Source: [Fox News](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMml1a0JMSjZCaTFXbEpRX3lrN3k4QTJjbk1XdVJRQjc0d0MtLXpYcEFVUXlwdFR0SDRKWHdOY3ViWjltbWJtQ3VDUVdxcTR1YUs3Y2hTR1NMZTJ4eHA4azJUeFhCUHNIT0lwdVRxdkU4dnpOOHNIcElNbWl0X3JJc0ZCT1NvTWJlLUhVVU1ESGdzOTV5XzEyd3BnR2NyT2fSAaQBQVVfeXFMTnpYekhhSWhUTDAtdnNZSnpWdEhEY2NKT2lhek95TzJQMi1wYWNLSkhua3lHcHBTSHJBdm1pWXMyRVFyMm41TkxLUkRvRHZlV3pJVTJRUDg3R0lmUTh2aXk5dGJ1dTVhSWJPV2xIQWc3aEkzazZRN0gtY0oyTGtNeU9HYWswcXBrV1JteGp3Wnd5SFBlMjhhSkJqME1MaWc1QXFvbmQ?oc=5)
+
+---
+
+### [Chronic migraines may have an overlooked connection to breast size](https://news.google.com/rss/articles/CBMioAFBVV95cUxOQUNDM1Bnb1IzalJ2RVRRMXJVa3cxMElxNWlQaUpiME1BYUI5VmItNHh0Ql93SEJuZ1RhbWhQdFNWbFI4LU1ZRDg4c1BvVjZ6M0VGWGhGaWtLTEljQTJObmxUQzU2SlFQcFFYcjhBUWJMZVY2VFc0dEF4akRjcDZjS3NuWkZ2ZG54TlFoSklSNXlnc3l4N0tZVTU0X1FHSkVG?oc=5)
+
+2026-09-22
+
+Source: [Earth.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxOQUNDM1Bnb1IzalJ2RVRRMXJVa3cxMElxNWlQaUpiME1BYUI5VmItNHh0Ql93SEJuZ1RhbWhQdFNWbFI4LU1ZRDg4c1BvVjZ6M0VGWGhGaWtLTEljQTJObmxUQzU2SlFQcFFYcjhBUWJMZVY2VFc0dEF4akRjcDZjS3NuWkZ2ZG54TlFoSklSNXlnc3l4N0tZVTU0X1FHSkVG?oc=5)
 
 ---
 
@@ -47,11 +63,11 @@ Source: [SciTechDaily](https://news.google.com/rss/articles/CBMinwFBVV95cUxOSjY3
 
 ---
 
-### [Vitamin C linked to improved outcomes in people with precancerous blood disorders - Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ04td2pzQW5VMFVRUkF5R3Y0Tm9ObDBMTHBVVEpqeEZoTEdySWQ5TmpncWJSejlPMjNlTzhBQldGMmxnZXNHRThIdUdOaGdWRnM3S0J3dVdISWJfVDN0RXpWQlFHZ29tYVhlU1lvTHZrc0k2dm9oRDBBUkpmZHVlNmRDRkRGcTFHYVdWc3UtbzM?oc=5)
+### [Vitamin C linked to improved outcomes in people with precancerous blood disorders](https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ04td2pzQW5VMFVRUkF5R3Y0Tm9ObDBMTHBVVEpqeEZoTEdySWQ5TmpncWJSejlPMjNlTzhBQldGMmxnZXNHRThIdUdOaGdWRnM3S0J3dVdISWJfVDN0RXpWQlFHZ29tYVhlU1lvTHZrc0k2dm9oRDBBUkpmZHVlNmRDRkRGcTFHYVdWc3UtbzM?oc=5)
 
 2026-09-21
 
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ04td2pzQW5VMFVRUkF5R3Y0Tm9ObDBMTHBVVEpqeEZoTEdySWQ5TmpncWJSejlPMjNlTzhBQldGMmxnZXNHRThIdUdOaGdWRnM3S0J3dVdISWJfVDN0RXpWQlFHZ29tYVhlU1lvTHZrc0k2dm9oRDBBUkpmZHVlNmRDRkRGcTFHYVdWc3UtbzM?oc=5)
+Source: [medicalxpress.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ04td2pzQW5VMFVRUkF5R3Y0Tm9ObDBMTHBVVEpqeEZoTEdySWQ5TmpncWJSejlPMjNlTzhBQldGMmxnZXNHRThIdUdOaGdWRnM3S0J3dVdISWJfVDN0RXpWQlFHZ29tYVhlU1lvTHZrc0k2dm9oRDBBUkpmZHVlNmRDRkRGcTFHYVdWc3UtbzM?oc=5)
 
 ---
 

@@ -41,6 +41,14 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 
 ## Related News (7)
 
+### [Don’t smoke? An unlucky trait can increase your lung cancer risk by 62 times](https://news.google.com/rss/articles/CBMiowFBVV95cUxOZTJQRkpuMkxDa29TWjdNTFY0VnNFSXN6N3k5OG5UdlVNZWRGVjFUaW9VZWNNTXNSTDlfMWhsY2ljcWh5YngxTXQ2cGMyd1Zjd1ZiaXU4MDY4SzM2bUkySjBjOVZfM3l1UDZQQThEWERGMlo4WWs2SUllVnU0cmFFMWg3Vk1hbmVqemtmRjg5MnNpOGVreVN6aVRob0kwZVFRLWpz?oc=5)
+
+2026-09-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [nypost.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxOZTJQRkpuMkxDa29TWjdNTFY0VnNFSXN6N3k5OG5UdlVNZWRGVjFUaW9VZWNNTXNSTDlfMWhsY2ljcWh5YngxTXQ2cGMyd1Zjd1ZiaXU4MDY4SzM2bUkySjBjOVZfM3l1UDZQQThEWERGMlo4WWs2SUllVnU0cmFFMWg3Vk1hbmVqemtmRjg5MnNpOGVreVN6aVRob0kwZVFRLWpz?oc=5)
+
+---
+
 ### [Column | Say More: I feel ‘accosted’ by the grocery store’s cancer fundraiser - The Washington Post](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMTRXc21KdXdoTk5zNXNOZjR2cjI1a3FOTHFmN1ZLVmRnYWNtRFZhd1IyU2xNQjNBM0VQVVFuUngySk45LUtGaEt5dlc0WFo0LVBiT0h2SUhDbXItZ0ppMlNIZ0FEUENJM3Izd2p3V1RsSUtHY2JjV2xqSm1pVFJsYmQ4eHAtU0tRZ0RVQlRVa2huS0JydmYwcktKT3ZGcDRaMTNpMk41NjdvTGhPTTFJ?oc=5)
 
 2026-09-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
@@ -67,7 +75,7 @@ Source: [ABC11 News](https://news.google.com/rss/articles/CBMipwFBVV95cUxOTWR0R3
 
 ### [Big tech says AI can find a cure for cancer. So where is it? - The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS0pRaDZ4a0ZUQzU2OGNZaFpxZzBmNERpcEdyWElWREdINWZQOEVEU3pIMU1ZWjhUZUxfVXVWN3RKYkdnYUFoRnlRdXBVS3NEbFM5bWlQOHRXM2JUYTJsSUQ3TDAyX3B5c3dYczJlWHdsT1BPVkhFRDhFNjBkWmIxSkxNMFZkQ0c2aVhoSU9aOVZaYmt2TXBOZUJkUVhZM1VoZTFaZEpxOWVGNGJCaUs2WWZuUGd6ZUZKdVBlUno4c2o2QQ?oc=5)
 
-2026-09-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+2026-09-23 <span class="news-indication-tag">cancer</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS0pRaDZ4a0ZUQzU2OGNZaFpxZzBmNERpcEdyWElWREdINWZQOEVEU3pIMU1ZWjhUZUxfVXVWN3RKYkdnYUFoRnlRdXBVS3NEbFM5bWlQOHRXM2JUYTJsSUQ3TDAyX3B5c3dYczJlWHdsT1BPVkhFRDhFNjBkWmIxSkxNMFZkQ0c2aVhoSU9aOVZaYmt2TXBOZUJkUVhZM1VoZTFaZEpxOWVGNGJCaUs2WWZuUGd6ZUZKdVBlUno4c2o2QQ?oc=5)
 
@@ -86,14 +94,6 @@ Source: [SciTechDaily](https://news.google.com/rss/articles/CBMinwFBVV95cUxOSjY3
 2026-09-19 <span class="news-indication-tag">cancer</span>
 
 Source: [CNN](https://news.google.com/rss/articles/CBMib0FVX3lxTFBycVdRV0tZZF9oVkt0SmJiaDN3bWVOZzhETENXZmpwX0RscExJemV3UjFKTDRPS2UyTF9QNV94QmFRUWcybUNUZHB3ZHVDd2FBclZwem1INWstX29wRWs5MVhQanBmeVpBMDY1Rjc0Zw?oc=5)
-
----
-
-### [This Rare Gene Drastically Raises Lung Cancer Risk in People Who Never Smoked - The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOME1TUjU1T3d6b1pITWRVY2Jaem02VXFsU0gwcGFGS0JRTEVkOW50d1ZJR2NJd1BXM1NCRWt1YmZ0aTFCLVJxdGh1anQzWkgteEhRaDdRbDAzNzhtVkR1SU9qck9EMGk2b0hQN0lfRFRfdHNuUDlHWnpub3MzelhnYklGeWY?oc=5)
-
-2026-09-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
-
-Source: [The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOME1TUjU1T3d6b1pITWRVY2Jaem02VXFsU0gwcGFGS0JRTEVkOW50d1ZJR2NJd1BXM1NCRWt1YmZ0aTFCLVJxdGh1anQzWkgteEhRaDdRbDAzNzhtVkR1SU9qck9EMGk2b0hQN0lfRFRfdHNuUDlHWnpub3MzelhnYklGeWY?oc=5)
 
 ---
 

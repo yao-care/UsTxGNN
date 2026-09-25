@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 12 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 11 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/inflammatory-bowel-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>12 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>11 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,21 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (12)
+## Related News (11)
 
 ### [Some dementia patients grow lucid near the end. Scientists hope it’s a clue. - The Washington Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY3kyVzdVMVRTaVhPYWNMc0huN1N4djhSRlprTWwtelpxTUwzUHN0QXNEWURRZ0p2a3NrSEdYVm1zNkIzSk1MQnZWRFF2VjcyQ1pFNHQwZmVkdUY1Y1hsbXpZbklOVHQtRzBvS3hNaUFVektmWE9ia1NpUDFVX0ZMV3lqVzMwQnQwLTB2SlhMS3NnYjJ1czBIWHgzUlA5TDdSUV9fX2ZzSldlRl9rRzF0YXpZVDhmM2JL?oc=5)
 
 2026-09-25
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY3kyVzdVMVRTaVhPYWNMc0huN1N4djhSRlprTWwtelpxTUwzUHN0QXNEWURRZ0p2a3NrSEdYVm1zNkIzSk1MQnZWRFF2VjcyQ1pFNHQwZmVkdUY1Y1hsbXpZbklOVHQtRzBvS3hNaUFVektmWE9ia1NpUDFVX0ZMV3lqVzMwQnQwLTB2SlhMS3NnYjJ1czBIWHgzUlA5TDdSUV9fX2ZzSldlRl9rRzF0YXpZVDhmM2JL?oc=5)
+
+---
+
+### [This Seasonal Habit Promotes Healthy Aging and May Reduce Dementia Risk in Older People](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZjlVOGYxeHQ5WTdLRG9xZXkwUlBqR0hMTmoxejYtekZSVXVVNF9FTkw0c0J6clNNQXJ4eDcyMWFFb05nV3YwbjFkVXlkeXVXaURUMThsQkpCREJpMzRYM29reGc4WHFNRkVTd1psWTYzQ0ZOaEQtQno1bXVhbkllZjNNTjd1dDRvamxyVl96SQ?oc=5)
+
+2026-09-25
+
+Source: [TODAY.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZjlVOGYxeHQ5WTdLRG9xZXkwUlBqR0hMTmoxejYtekZSVXVVNF9FTkw0c0J6clNNQXJ4eDcyMWFFb05nV3YwbjFkVXlkeXVXaURUMThsQkpCREJpMzRYM29reGc4WHFNRkVTd1psWTYzQ0ZOaEQtQno1bXVhbkllZjNNTjd1dDRvamxyVl96SQ?oc=5)
 
 ---
 
@@ -113,22 +121,6 @@ Source: [The Times of Israel](https://news.google.com/rss/articles/CBMiqAFBVV95c
 2026-09-23
 
 Source: [The Conversation](https://news.google.com/rss/articles/CBMipwFBVV95cUxPc3BDanE5WnQwelZQOUhNV0oyTjBaaWs5ckRsNmFFc3JlbkJ0Rk1XUnV6bWo5a1poaF9hNU4tU3BnSW9VU1dBSWg0REhGR3dwZWpUVlYzMHh5cUVfeXUzV3ZSSmNYYUtUaWlfWTRHd0haSXhma2d4Qm1yb2hqWFNsYWxOSFk0N2JyVUxSVXBJV0VGQ3ZZQUZCMGFTSmtpQ3dDQ2VWSEpFOA?oc=5)
-
----
-
-### [Small undersea volcanoes may unleash outsized tsunamis - Ars Technica](https://news.google.com/rss/articles/CBMimwFBVV95cUxPMm0xMTlsSnR4RjRMc1I5NzVjeXFrZ2I3T25fa1o1Q2dubHRGX29KVDcxa1h1OHpoZkwwMTRYRUJQVTB6cFpqN2puM2RRMHdPaWhheFNXWDdYWnBqNEp5cTRnZ2tjSy1JRk5scTFzdjJqRnVFVThNbTJIWVB0X3BlSkhsWmlzb295T1ZUdzJ0NUpWZnRtVmE4bEJOQQ?oc=5)
-
-2026-09-23
-
-Source: [Ars Technica](https://news.google.com/rss/articles/CBMimwFBVV95cUxPMm0xMTlsSnR4RjRMc1I5NzVjeXFrZ2I3T25fa1o1Q2dubHRGX29KVDcxa1h1OHpoZkwwMTRYRUJQVTB6cFpqN2puM2RRMHdPaWhheFNXWDdYWnBqNEp5cTRnZ2tjSy1JRk5scTFzdjJqRnVFVThNbTJIWVB0X3BlSkhsWmlzb295T1ZUdzJ0NUpWZnRtVmE4bEJOQQ?oc=5)
-
----
-
-### [Alcohol use is falling in America, but one age group is drinking more](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSUhjVEVIdlRCd2ZyY3JHRGxPSWtKQ2ZXYnF2SFMxUXVZVXh3S0Izb0czT3JaVjgySW5RN1R6MzVFeGNud2IyS2M2SG90SnNEcEJwandJekJkcnZNLVc3dmRIc05RNm1EVmt2WUJ0OEpPVzExT1RabldJdTV4TTlQR1g5dlFBWFBxMjk1RUM5UnRvb2h3NFFxRHp1OUVWX0R6dmxpanVNN24zYnBIOGtHNjVWU0c4Zmt2dmc?oc=5)
-
-2026-09-22
-
-Source: [WFAA](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSUhjVEVIdlRCd2ZyY3JHRGxPSWtKQ2ZXYnF2SFMxUXVZVXh3S0Izb0czT3JaVjgySW5RN1R6MzVFeGNud2IyS2M2SG90SnNEcEJwandJekJkcnZNLVc3dmRIc05RNm1EVmt2WUJ0OEpPVzExT1RabldJdTV4TTlQR1g5dlFBWFBxMjk1RUM5UnRvb2h3NFFxRHp1OUVWX0R6dmxpanVNN24zYnBIOGtHNjVWU0c4Zmt2dmc?oc=5)
 
 ---
 

@@ -81,11 +81,11 @@ Source: [ABC11 News](https://news.google.com/rss/articles/CBMipwFBVV95cUxOTWR0R3
 
 ---
 
-### [Men Are Sharing The "Hidden Signs" Of Prostate Cancer They Wish They'd Taken More Seriously](https://news.google.com/rss/articles/CBMickFVX3lxTE04R0d3dFVkaTM4U2NJNTJhQTg2VllyTlJmRkJFeWpObzhGNnpVS0NjbGJua1hHMG5jU3F0OVo5S1FhMWRvclhaYnRUWWQ1THc0OVpQWTFJeWcyMURGSlROakZOc3E5TEc3dzA4UHA1SFVJZw?oc=5)
+### [The September 11 cancer wave ahead](https://news.google.com/rss/articles/CBMib0FVX3lxTFBycVdRV0tZZF9oVkt0SmJiaDN3bWVOZzhETENXZmpwX0RscExJemV3UjFKTDRPS2UyTF9QNV94QmFRUWcybUNUZHB3ZHVDd2FBclZwem1INWstX29wRWs5MVhQanBmeVpBMDY1Rjc0Zw?oc=5)
 
-2026-09-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+2026-09-19 <span class="news-indication-tag">cancer</span>
 
-Source: [BuzzFeed](https://news.google.com/rss/articles/CBMickFVX3lxTE04R0d3dFVkaTM4U2NJNTJhQTg2VllyTlJmRkJFeWpObzhGNnpVS0NjbGJua1hHMG5jU3F0OVo5S1FhMWRvclhaYnRUWWQ1THc0OVpQWTFJeWcyMURGSlROakZOc3E5TEc3dzA4UHA1SFVJZw?oc=5)
+Source: [CNN](https://news.google.com/rss/articles/CBMib0FVX3lxTFBycVdRV0tZZF9oVkt0SmJiaDN3bWVOZzhETENXZmpwX0RscExJemV3UjFKTDRPS2UyTF9QNV94QmFRUWcybUNUZHB3ZHVDd2FBclZwem1INWstX29wRWs5MVhQanBmeVpBMDY1Rjc0Zw?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 9 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 12 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/inflammatory-bowel-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>9 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>12 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (9)
+## Related News (12)
+
+### [Some dementia patients grow lucid near the end. Scientists hope it’s a clue. - The Washington Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY3kyVzdVMVRTaVhPYWNMc0huN1N4djhSRlprTWwtelpxTUwzUHN0QXNEWURRZ0p2a3NrSEdYVm1zNkIzSk1MQnZWRFF2VjcyQ1pFNHQwZmVkdUY1Y1hsbXpZbklOVHQtRzBvS3hNaUFVektmWE9ia1NpUDFVX0ZMV3lqVzMwQnQwLTB2SlhMS3NnYjJ1czBIWHgzUlA5TDdSUV9fX2ZzSldlRl9rRzF0YXpZVDhmM2JL?oc=5)
+
+2026-09-25
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY3kyVzdVMVRTaVhPYWNMc0huN1N4djhSRlprTWwtelpxTUwzUHN0QXNEWURRZ0p2a3NrSEdYVm1zNkIzSk1MQnZWRFF2VjcyQ1pFNHQwZmVkdUY1Y1hsbXpZbklOVHQtRzBvS3hNaUFVektmWE9ia1NpUDFVX0ZMV3lqVzMwQnQwLTB2SlhMS3NnYjJ1czBIWHgzUlA5TDdSUV9fX2ZzSldlRl9rRzF0YXpZVDhmM2JL?oc=5)
+
+---
 
 ### [Measles case confirmed in Allen County - WANE 15](https://news.google.com/rss/articles/CBMif0FVX3lxTFBBS2ZCR0U3bzVtVmpVTzNjWWRmUzZlMXFFcWZzUFp5RXp5M2lqb3E4S3NsMXBnelZhN1loX01kMHFNdFg0MTVUQ3lXTWs0SGNwblozWTRJeEtvUDdtZ1BHOEFRYWxfeHVZRGFFN3l6MHFOTE9qWHQ0bDQwMk5DY0HSAYQBQVVfeXFMTTJYeDI3ckpTMENIMkpOUWtBSFJvWFVXdzYyaWlDZWJheWtPT0JOWTRNR0IyQkZtOGFkenJUQkk4RG8xZk9pLWVORUFQNGtuWE1xWWk5aVNXaFlRN0phMFNJT2t0LS1NQllySHd6Z2NHeEZuTm9GYmFfX0JoR3pzam5GTTZa?oc=5)
 
@@ -60,6 +68,14 @@ Source: [New York Post](https://news.google.com/rss/articles/CBMiowFBVV95cUxOZTJ
 
 ---
 
+### [A female body part disappeared from textbooks because doctors thought it was useless — it's not - New York Post](https://news.google.com/rss/articles/CBMiygFBVV95cUxNNUVkcUtIelRMR2lBMWZaUWQtM1Z4NmlaQzJmeW9pbV9mV09leFg1RzdfSTNTeDh3WFVZczNlVGUwRjlDQkpwR213c3RscUZ0dDV1RW1oY3Nhb1BPal91YUpjSFQwRFlSODFXdzNMZkZOQlB6amhkVDMzVGlxaWV5QTgtSlJLV0dlYXd5NENpVV9Ick5vc2tjbUw0NDVQbU5PS2EyNVI4TXNhN0hwYXYtWlEzZFo2S2VMS0FPdzQzbE1OV29fTW1oVHNB?oc=5)
+
+2026-09-24
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMiygFBVV95cUxNNUVkcUtIelRMR2lBMWZaUWQtM1Z4NmlaQzJmeW9pbV9mV09leFg1RzdfSTNTeDh3WFVZczNlVGUwRjlDQkpwR213c3RscUZ0dDV1RW1oY3Nhb1BPal91YUpjSFQwRFlSODFXdzNMZkZOQlB6amhkVDMzVGlxaWV5QTgtSlJLV0dlYXd5NENpVV9Ick5vc2tjbUw0NDVQbU5PS2EyNVI4TXNhN0hwYXYtWlEzZFo2S2VMS0FPdzQzbE1OV29fTW1oVHNB?oc=5)
+
+---
+
 ### [Cholesterol control gets personalized – a cardiologist explains how new guidelines tailor treatment to your unique risk profile - The Conversation](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUEhORGpSeGJsZmQ3cDQ4dkhramlVc2VEYzJiZGd6dFU2V0hFemVUZ1c0ODBKODZzN0JldzdzTGNRbjJKNmZoeUgxaEJZNDNNLWw0QXdEUkpmOVBoX1dxejFVQXRHOUFOUlBibjF3djJRRXp3amVGVnpYSGdIcnh1T3FMa2hKWHF2dWoycUhSdXJCaFVacmRiQkJZVTQ5Y1hYTnlHRDRBQ1NsV1U5M0kzQ184ZGpOSzdSaGNOaDN5T0FDczFfWHozc3o5ejJvTUhsVG1fVmo1THV3WG9TTWgzOWxwME5DbkhGRW12dzRsR1J1UQ?oc=5)
 
 2026-09-24
@@ -72,7 +88,7 @@ Source: [The Conversation](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQ
 
 2026-09-23
 
-Source: [sci.news](https://news.google.com/rss/articles/CBMikwFBVV95cUxNcGV4RFZmS1czbEkxR1I5eXdLaW40MHlRSnRQVkcyMVNiZ1NEZjRDQ0NvcFZySHQ1b2IyVExVYkkwNGVNamlPQjdoc2NfV2dSZVJsSVV1U1RDR0VWV2tXYXRCY0JiYmJhcDF4eC03NkxOR05ETUJSaXhmbWRpNEVlR3haeElCbGw1WFBaWXFqeTZsYU0?oc=5)
+Source: [Sci.News](https://news.google.com/rss/articles/CBMikwFBVV95cUxNcGV4RFZmS1czbEkxR1I5eXdLaW40MHlRSnRQVkcyMVNiZ1NEZjRDQ0NvcFZySHQ1b2IyVExVYkkwNGVNamlPQjdoc2NfV2dSZVJsSVV1U1RDR0VWV2tXYXRCY0JiYmJhcDF4eC03NkxOR05ETUJSaXhmbWRpNEVlR3haeElCbGw1WFBaWXFqeTZsYU0?oc=5)
 
 ---
 
@@ -80,15 +96,7 @@ Source: [sci.news](https://news.google.com/rss/articles/CBMikwFBVV95cUxNcGV4RFZm
 
 2026-09-23
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oY1JneUtjODdCVE12N0hPek85dzljNUhIVUwwSjJ4ZTdfUFhJWFc0ZTBub2ZQLU1NclM4NWprWjUtclpSOUZndUc3Mnd3RGx4QW9aMjRMVXVxWUsxZ0pv?oc=5)
-
----
-
-### [Americans are drinking less since the pandemic began, but one group bucks the trend - The Washington Post](https://news.google.com/rss/articles/CBMivAFBVV95cUxQMGU4a045OTNXeklFQzZlSkl0RXFwbjN0ZXB1QWEzLXVPQndLSjRHcGM1QTNMb1c0a3loNEwxM2hKREJGSXRoMmp1d2MzemU4ckI0akwwTlBIaWhpS25kS3Bqc1Z3Uy0zQTR2a2hyVmJiOFd6Ml9mOFQ3UThuZWQ2My1SX1ZUQWdxUE1tanVMRUxTSThGOEJIbnpydURPanZMcEE5ZTBhdDYtbUhOMV9XX0lTVXBFZUZKUEpCdQ?oc=5)
-
-2026-09-23
-
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMivAFBVV95cUxQMGU4a045OTNXeklFQzZlSkl0RXFwbjN0ZXB1QWEzLXVPQndLSjRHcGM1QTNMb1c0a3loNEwxM2hKREJGSXRoMmp1d2MzemU4ckI0akwwTlBIaWhpS25kS3Bqc1Z3Uy0zQTR2a2hyVmJiOFd6Ml9mOFQ3UThuZWQ2My1SX1ZUQWdxUE1tanVMRUxTSThGOEJIbnpydURPanZMcEE5ZTBhdDYtbUhOMV9XX0lTVXBFZUZKUEpCdQ?oc=5)
+Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oY1JneUtjODdCVE12N0hPek85dzljNUhIVUwwSjJ4ZTdfUFhJWFc0ZTBub2ZQLU1NclM4NWprWjUtclpSOUZndUc3Mnd3RGx4QW9aMjRMVXVxWUsxZ0pv?oc=5)
 
 ---
 
@@ -100,11 +108,27 @@ Source: [The Times of Israel](https://news.google.com/rss/articles/CBMiqAFBVV95c
 
 ---
 
+### [Magnesium supplements: what you need to know about each different type - The Conversation](https://news.google.com/rss/articles/CBMipwFBVV95cUxPc3BDanE5WnQwelZQOUhNV0oyTjBaaWs5ckRsNmFFc3JlbkJ0Rk1XUnV6bWo5a1poaF9hNU4tU3BnSW9VU1dBSWg0REhGR3dwZWpUVlYzMHh5cUVfeXUzV3ZSSmNYYUtUaWlfWTRHd0haSXhma2d4Qm1yb2hqWFNsYWxOSFk0N2JyVUxSVXBJV0VGQ3ZZQUZCMGFTSmtpQ3dDQ2VWSEpFOA?oc=5)
+
+2026-09-23
+
+Source: [The Conversation](https://news.google.com/rss/articles/CBMipwFBVV95cUxPc3BDanE5WnQwelZQOUhNV0oyTjBaaWs5ckRsNmFFc3JlbkJ0Rk1XUnV6bWo5a1poaF9hNU4tU3BnSW9VU1dBSWg0REhGR3dwZWpUVlYzMHh5cUVfeXUzV3ZSSmNYYUtUaWlfWTRHd0haSXhma2d4Qm1yb2hqWFNsYWxOSFk0N2JyVUxSVXBJV0VGQ3ZZQUZCMGFTSmtpQ3dDQ2VWSEpFOA?oc=5)
+
+---
+
 ### [Small undersea volcanoes may unleash outsized tsunamis - Ars Technica](https://news.google.com/rss/articles/CBMimwFBVV95cUxPMm0xMTlsSnR4RjRMc1I5NzVjeXFrZ2I3T25fa1o1Q2dubHRGX29KVDcxa1h1OHpoZkwwMTRYRUJQVTB6cFpqN2puM2RRMHdPaWhheFNXWDdYWnBqNEp5cTRnZ2tjSy1JRk5scTFzdjJqRnVFVThNbTJIWVB0X3BlSkhsWmlzb295T1ZUdzJ0NUpWZnRtVmE4bEJOQQ?oc=5)
 
 2026-09-23
 
 Source: [Ars Technica](https://news.google.com/rss/articles/CBMimwFBVV95cUxPMm0xMTlsSnR4RjRMc1I5NzVjeXFrZ2I3T25fa1o1Q2dubHRGX29KVDcxa1h1OHpoZkwwMTRYRUJQVTB6cFpqN2puM2RRMHdPaWhheFNXWDdYWnBqNEp5cTRnZ2tjSy1JRk5scTFzdjJqRnVFVThNbTJIWVB0X3BlSkhsWmlzb295T1ZUdzJ0NUpWZnRtVmE4bEJOQQ?oc=5)
+
+---
+
+### [Alcohol use is falling in America, but one age group is drinking more](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSUhjVEVIdlRCd2ZyY3JHRGxPSWtKQ2ZXYnF2SFMxUXVZVXh3S0Izb0czT3JaVjgySW5RN1R6MzVFeGNud2IyS2M2SG90SnNEcEJwandJekJkcnZNLVc3dmRIc05RNm1EVmt2WUJ0OEpPVzExT1RabldJdTV4TTlQR1g5dlFBWFBxMjk1RUM5UnRvb2h3NFFxRHp1OUVWX0R6dmxpanVNN24zYnBIOGtHNjVWU0c4Zmt2dmc?oc=5)
+
+2026-09-22
+
+Source: [WFAA](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSUhjVEVIdlRCd2ZyY3JHRGxPSWtKQ2ZXYnF2SFMxUXVZVXh3S0Izb0czT3JaVjgySW5RN1R6MzVFeGNud2IyS2M2SG90SnNEcEJwandJekJkcnZNLVc3dmRIc05RNm1EVmt2WUJ0OEpPVzExT1RabldJdTV4TTlQR1g5dlFBWFBxMjk1RUM5UnRvb2h3NFFxRHp1OUVWX0R6dmxpanVNN24zYnBIOGtHNjVWU0c4Zmt2dmc?oc=5)
 
 ---
 

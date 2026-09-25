@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "cardiovascular disease (heart disease) News"
+title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cardiovascular disease (heart disease). 2 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 3 articles, 1 related drugs."
 permalink: /news/heart-disease/
 ---
 
-# cardiovascular disease (heart disease) News
+# CAD (heart disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about cardiovascular disease (heart disease)?">
-<strong>cardiovascular disease (heart disease)</strong> currently has <strong>2 news articles</strong> and 1 related drugs.
+<p class="key-answer" data-question="What news is there about CAD (heart disease)?">
+<strong>CAD (heart disease)</strong> currently has <strong>3 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “cardiovascular disease” and lists the drugs in the UsTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “CAD” and lists the drugs in the UsTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -29,7 +29,15 @@ This page brings together the latest health news about “cardiovascular disease
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Decades of aerobic exercise may help older adults age with more resilience - Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxONGlKSUlMMXlwb3F6MWpvdFluQ1JFVXMxNldTTW9vTEZZMkVGU0VkdTJYNC1ZSEl5SE8ycmVYTThnYmVkeS12al9hbl91N2dCLVdxUFBmVTFIRHpsbTNwMGhNZ1c1MXVZaHpJbUJNejRZNDVrM0tqWnh5RUVFc0QtbUlR?oc=5)
+
+2026-09-23
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxONGlKSUlMMXlwb3F6MWpvdFluQ1JFVXMxNldTTW9vTEZZMkVGU0VkdTJYNC1ZSEl5SE8ycmVYTThnYmVkeS12al9hbl91N2dCLVdxUFBmVTFIRHpsbTNwMGhNZ1c1MXVZaHpJbUJNejRZNDVrM0tqWnh5RUVFc0QtbUlR?oc=5)
+
+---
 
 ### [“It’s All Just In Your Head”: How Perimenopause Is Becoming Wellness Culture’s Cash Cow - Bored Panda](https://news.google.com/rss/articles/CBMibEFVX3lxTFBfLVBrakVzSWE0cXRldWpsd25tQWg3LU1YTTBhNlg2UWVVUUdzSU95ZGdneVdHWXBweno4ejE4SVE3WHVXbDNhWU43T1hOWlhsdmdzcEFGRDByX1kzMXdUSEtvSjNGS1k2U0tHRg?oc=5)
 

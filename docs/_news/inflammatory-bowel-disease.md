@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 13 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 16 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/inflammatory-bowel-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>13 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>16 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,45 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (13)
+## Related News (16)
+
+### [New research finds 485 chemicals in US pesticide products linked to breast cancer - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONW9pOHY0a0ZEdFpVVl9Wc2psNWdlVExMaFNSZDg0M0dnUGdWcGpQV2xzczBjbjdxVzFBNmdBTGRGTUMyNjBMZmxzV3pya0dxakZIVUhwM2NXODFaLU5tQndRQ252U0RReTlNOV9jdzNoWTFMUU1rQVZ3bDZtUjEyc0l6Ni1ZTURLQl9v?oc=5)
+
+2026-09-26
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONW9pOHY0a0ZEdFpVVl9Wc2psNWdlVExMaFNSZDg0M0dnUGdWcGpQV2xzczBjbjdxVzFBNmdBTGRGTUMyNjBMZmxzV3pya0dxakZIVUhwM2NXODFaLU5tQndRQ252U0RReTlNOV9jdzNoWTFMUU1rQVZ3bDZtUjEyc0l6Ni1ZTURLQl9v?oc=5)
+
+---
+
+### [Gen X is drinking more as younger Americans cut back on alcohol, study finds - The Guardian](https://news.google.com/rss/articles/CBMigwFBVV95cUxQakloa1h4RjZGT1RId2dIcWxtc29SbFowYlhtaThLcUhzcUZNVnRTREw1aTliVVRGZUs0UHE4OUZVZU9iNjhqdV9iSS1aNS1UM3U2TjlwX1M4WWNBQWZGdGFDam50Mzdfekx0cEF1ckt1dldweVBpWTh0ZHFpYkdTY21aUQ?oc=5)
+
+2026-09-26
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMigwFBVV95cUxQakloa1h4RjZGT1RId2dIcWxtc29SbFowYlhtaThLcUhzcUZNVnRTREw1aTliVVRGZUs0UHE4OUZVZU9iNjhqdV9iSS1aNS1UM3U2TjlwX1M4WWNBQWZGdGFDam50Mzdfekx0cEF1ckt1dldweVBpWTh0ZHFpYkdTY21aUQ?oc=5)
+
+---
+
+### [This Nightly Habit Could Be Changing the Structure of Your Heart, New Study Says](https://news.google.com/rss/articles/CBMiekFVX3lxTE1CQjk2Nk1vSF8yeF84M2xoQkFoVVZKWWpibGFuMF9CX01EVjUzd3BpbXV1dWpMRVpiRGRaWmxGOVhaQmhNU1NpMmU3Nm9YcVRSMVN0REoxclpwazVsV0IzbXZnMXQ4UWpKUjRyWmpZNjctNVlHUGVGV0Nn?oc=5)
+
+2026-09-26
+
+Source: [eatingwell.com](https://news.google.com/rss/articles/CBMiekFVX3lxTE1CQjk2Nk1vSF8yeF84M2xoQkFoVVZKWWpibGFuMF9CX01EVjUzd3BpbXV1dWpMRVpiRGRaWmxGOVhaQmhNU1NpMmU3Nm9YcVRSMVN0REoxclpwazVsV0IzbXZnMXQ4UWpKUjRyWmpZNjctNVlHUGVGV0Nn?oc=5)
+
+---
 
 ### [West Nile virus cases in San Diego county hit 10-year high — how to protect yourself](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdXo0UWxQa2NOc0xwOTE5bkJ0NFVXWGVSUHdZNHZoNU4xU1RWLTJ2dlpMMlQxbjUtOTh1N1NqM041SV9GYzFTemgwdF8xTXMwdGNEOW53UjNmU0lCN18ySUt5TzRTV3MwLW04Y1hyZVhnczZ2UUh6RTJfTWNoR3hzMzEtclh1RWlwd2RjeWhQOUxwQmYxWGhwcUM3NEJ1STVZSW5LeDlvYnpaU0dQQmFGRkxCOVBjUFlOenJvLWU4M2hiZ2o2RlpQTWk0RzhXS2VrT3VoNkxUbFA?oc=5)
 
 2026-09-26
 
 Source: [cbs8.com](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdXo0UWxQa2NOc0xwOTE5bkJ0NFVXWGVSUHdZNHZoNU4xU1RWLTJ2dlpMMlQxbjUtOTh1N1NqM041SV9GYzFTemgwdF8xTXMwdGNEOW53UjNmU0lCN18ySUt5TzRTV3MwLW04Y1hyZVhnczZ2UUh6RTJfTWNoR3hzMzEtclh1RWlwd2RjeWhQOUxwQmYxWGhwcUM3NEJ1STVZSW5LeDlvYnpaU0dQQmFGRkxCOVBjUFlOenJvLWU4M2hiZ2o2RlpQTWk0RzhXS2VrT3VoNkxUbFA?oc=5)
+
+---
+
+### [EHD outbreak in deer likely has expanded to six Wisconsin counties - Milwaukee Journal Sentinel](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUUNYQXdoeUhLN3FRUHJSeWNqZmd6LWNuX3o2VG1vSWdXMWVoUTFBajJjYk9VXzVUWlZBNnBoU3JJMDJ0bmFFbmVOay1ZeFoyTXY5bHp5eHo0NDdSbS16dWlDaEZaYVFTYnBMbW01aGNMSllvZklSNmNZOXpsTmhhMVlsaE9sVlhpU29tZnNac0JLaHllWTE3TmRpTllLWWhhR3Q4anBVZm4zdnlXMjJ1NGZpaFVqSEhKSlhNbW52bDBCNzZsRWhCNHJ5UGlDOTlY?oc=5)
+
+2026-09-25
+
+Source: [Milwaukee Journal Sentinel](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUUNYQXdoeUhLN3FRUHJSeWNqZmd6LWNuX3o2VG1vSWdXMWVoUTFBajJjYk9VXzVUWlZBNnBoU3JJMDJ0bmFFbmVOay1ZeFoyTXY5bHp5eHo0NDdSbS16dWlDaEZaYVFTYnBMbW01aGNMSllvZklSNmNZOXpsTmhhMVlsaE9sVlhpU29tZnNac0JLaHllWTE3TmRpTllLWWhhR3Q4anBVZm4zdnlXMjJ1NGZpaFVqSEhKSlhNbW52bDBCNzZsRWhCNHJ5UGlDOTlY?oc=5)
 
 ---
 
@@ -52,19 +84,19 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQak1FdXpf
 
 ---
 
-### [Some dementia patients grow lucid near the end. Scientists hope it’s a clue. - The Washington Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY3kyVzdVMVRTaVhPYWNMc0huN1N4djhSRlprTWwtelpxTUwzUHN0QXNEWURRZ0p2a3NrSEdYVm1zNkIzSk1MQnZWRFF2VjcyQ1pFNHQwZmVkdUY1Y1hsbXpZbklOVHQtRzBvS3hNaUFVektmWE9ia1NpUDFVX0ZMV3lqVzMwQnQwLTB2SlhMS3NnYjJ1czBIWHgzUlA5TDdSUV9fX2ZzSldlRl9rRzF0YXpZVDhmM2JL?oc=5)
-
-2026-09-25
-
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY3kyVzdVMVRTaVhPYWNMc0huN1N4djhSRlprTWwtelpxTUwzUHN0QXNEWURRZ0p2a3NrSEdYVm1zNkIzSk1MQnZWRFF2VjcyQ1pFNHQwZmVkdUY1Y1hsbXpZbklOVHQtRzBvS3hNaUFVektmWE9ia1NpUDFVX0ZMV3lqVzMwQnQwLTB2SlhMS3NnYjJ1czBIWHgzUlA5TDdSUV9fX2ZzSldlRl9rRzF0YXpZVDhmM2JL?oc=5)
-
----
-
 ### [New form of flexible boron is 10 million times more electrically conductive](https://news.google.com/rss/articles/CBMiekFVX3lxTFA5dTVESFpsVi02TGwtT251R2xFX2pubTR4clEyeFNENWhZT3JRaDdYTWhtaGo5UzY4LXBEYzQxX3dEck9JWXh1Tm5lTWEzVlAwWDhmZDl3RFR5aFZpdjd6LUtXRnpPclhPTEtqdktpUlc3M1ZlQ2hZbWRn?oc=5)
 
 2026-09-25
 
-Source: [phys.org](https://news.google.com/rss/articles/CBMiekFVX3lxTFA5dTVESFpsVi02TGwtT251R2xFX2pubTR4clEyeFNENWhZT3JRaDdYTWhtaGo5UzY4LXBEYzQxX3dEck9JWXh1Tm5lTWEzVlAwWDhmZDl3RFR5aFZpdjd6LUtXRnpPclhPTEtqdktpUlc3M1ZlQ2hZbWRn?oc=5)
+Source: [Phys.org](https://news.google.com/rss/articles/CBMiekFVX3lxTFA5dTVESFpsVi02TGwtT251R2xFX2pubTR4clEyeFNENWhZT3JRaDdYTWhtaGo5UzY4LXBEYzQxX3dEck9JWXh1Tm5lTWEzVlAwWDhmZDl3RFR5aFZpdjd6LUtXRnpPclhPTEtqdktpUlc3M1ZlQ2hZbWRn?oc=5)
+
+---
+
+### [COVID cases are rising in some states. See the map - USA Today](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbFQ4ZzdlRnUwY3ZQX2VFM096T3FqcFdNVi1MZUNZR1FSeVllaXJ1aE1qYVl4a2VXeU0zRl9aVEpQVGY2cnZZcjNlRVJ0TllmLWtwY1pVOFNsaFBESHFsTGZiTVQxczVaTzViZHBjTGFuek9nWWVSdk1VWTJYa2VET091bmZlWVNTRkpvNVd5RTBVRnE2cmx1TmtoZTNRZ00?oc=5)
+
+2026-09-25
+
+Source: [USA Today](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbFQ4ZzdlRnUwY3ZQX2VFM096T3FqcFdNVi1MZUNZR1FSeVllaXJ1aE1qYVl4a2VXeU0zRl9aVEpQVGY2cnZZcjNlRVJ0TllmLWtwY1pVOFNsaFBESHFsTGZiTVQxczVaTzViZHBjTGFuek9nWWVSdk1VWTJYa2VET091bmZlWVNTRkpvNVd5RTBVRnE2cmx1TmtoZTNRZ00?oc=5)
 
 ---
 
@@ -72,7 +104,7 @@ Source: [phys.org](https://news.google.com/rss/articles/CBMiekFVX3lxTFA5dTVESFps
 
 2026-09-25
 
-Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9tbmJEMzd3RDBjelE1Zm1STnhqVklGZzlZTXVsdm1RX21BZ3Z5bm8xSkNRNEhmT1I0RWZXal94c083TG43Szl0WHI1cENiQXloNXV3NXZMdnlGRFByeVVyN05lekloMEdTRUtLblFKYw?oc=5)
+Source: [sciencedaily.com](https://news.google.com/rss/articles/CBMib0FVX3lxTE9tbmJEMzd3RDBjelE1Zm1STnhqVklGZzlZTXVsdm1RX21BZ3Z5bm8xSkNRNEhmT1I0RWZXal94c083TG43Szl0WHI1cENiQXloNXV3NXZMdnlGRFByeVVyN05lekloMEdTRUtLblFKYw?oc=5)
 
 ---
 
@@ -84,11 +116,11 @@ Source: [TODAY.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZjlVOGY
 
 ---
 
-### [U.S. drinking patterns are diverging by age, study shows - San Francisco Chronicle](https://news.google.com/rss/articles/CBMihgFBVV95cUxPNDZySHZGVFEtVWhMTC1XcTJfWjctSE90TjZJRi1uMlJkSk5pbjNsQnI3VlZXdVZxa3J2RFJLTkRKU3NqQXNvN1NxX1lJLUJBMnI1YVF0dFNVRllBQjRrdy1EbV9oMndPN2Z1NDhkVkEya3BMZUtIQU5Vano0VmR5UUl4aVFmdw?oc=5)
+### [From weeks to hours - the rapid new test transforming brain tumour diagnosis](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4Z2NoMGhZZXR1eC1Uc2ppcnFOd2otU29ac0EyTnY4UnUxaG1yS1ZUcjlxUE5PVzlkWmxhYzBwMDh1d0pLWVJTRm9IeXVpUDFsVTJOUzJReVhOcms?oc=5)
 
-2026-09-25
+2026-09-24
 
-Source: [San Francisco Chronicle](https://news.google.com/rss/articles/CBMihgFBVV95cUxPNDZySHZGVFEtVWhMTC1XcTJfWjctSE90TjZJRi1uMlJkSk5pbjNsQnI3VlZXdVZxa3J2RFJLTkRKU3NqQXNvN1NxX1lJLUJBMnI1YVF0dFNVRllBQjRrdy1EbV9oMndPN2Z1NDhkVkEya3BMZUtIQU5Vano0VmR5UUl4aVFmdw?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4Z2NoMGhZZXR1eC1Uc2ppcnFOd2otU29ac0EyTnY4UnUxaG1yS1ZUcjlxUE5PVzlkWmxhYzBwMDh1d0pLWVJTRm9IeXVpUDFsVTJOUzJReVhOcms?oc=5)
 
 ---
 
@@ -108,11 +140,11 @@ Source: [New York Post](https://news.google.com/rss/articles/CBMiygFBVV95cUxNNUV
 
 ---
 
-### [Cholesterol control gets personalized – a cardiologist explains how new guidelines tailor treatment to your unique risk profile](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUEhORGpSeGJsZmQ3cDQ4dkhramlVc2VEYzJiZGd6dFU2V0hFemVUZ1c0ODBKODZzN0JldzdzTGNRbjJKNmZoeUgxaEJZNDNNLWw0QXdEUkpmOVBoX1dxejFVQXRHOUFOUlBibjF3djJRRXp3amVGVnpYSGdIcnh1T3FMa2hKWHF2dWoycUhSdXJCaFVacmRiQkJZVTQ5Y1hYTnlHRDRBQ1NsV1U5M0kzQ184ZGpOSzdSaGNOaDN5T0FDczFfWHozc3o5ejJvTUhsVG1fVmo1THV3WG9TTWgzOWxwME5DbkhGRW12dzRsR1J1UQ?oc=5)
+### [Cholesterol control gets personalized – a cardiologist explains how new guidelines tailor treatment to your unique risk profile - The Conversation](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUEhORGpSeGJsZmQ3cDQ4dkhramlVc2VEYzJiZGd6dFU2V0hFemVUZ1c0ODBKODZzN0JldzdzTGNRbjJKNmZoeUgxaEJZNDNNLWw0QXdEUkpmOVBoX1dxejFVQXRHOUFOUlBibjF3djJRRXp3amVGVnpYSGdIcnh1T3FMa2hKWHF2dWoycUhSdXJCaFVacmRiQkJZVTQ5Y1hYTnlHRDRBQ1NsV1U5M0kzQ184ZGpOSzdSaGNOaDN5T0FDczFfWHozc3o5ejJvTUhsVG1fVmo1THV3WG9TTWgzOWxwME5DbkhGRW12dzRsR1J1UQ?oc=5)
 
 2026-09-24
 
-Source: [theconversation.com](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUEhORGpSeGJsZmQ3cDQ4dkhramlVc2VEYzJiZGd6dFU2V0hFemVUZ1c0ODBKODZzN0JldzdzTGNRbjJKNmZoeUgxaEJZNDNNLWw0QXdEUkpmOVBoX1dxejFVQXRHOUFOUlBibjF3djJRRXp3amVGVnpYSGdIcnh1T3FMa2hKWHF2dWoycUhSdXJCaFVacmRiQkJZVTQ5Y1hYTnlHRDRBQ1NsV1U5M0kzQ184ZGpOSzdSaGNOaDN5T0FDczFfWHozc3o5ejJvTUhsVG1fVmo1THV3WG9TTWgzOWxwME5DbkhGRW12dzRsR1J1UQ?oc=5)
+Source: [The Conversation](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUEhORGpSeGJsZmQ3cDQ4dkhramlVc2VEYzJiZGd6dFU2V0hFemVUZ1c0ODBKODZzN0JldzdzTGNRbjJKNmZoeUgxaEJZNDNNLWw0QXdEUkpmOVBoX1dxejFVQXRHOUFOUlBibjF3djJRRXp3amVGVnpYSGdIcnh1T3FMa2hKWHF2dWoycUhSdXJCaFVacmRiQkJZVTQ5Y1hYTnlHRDRBQ1NsV1U5M0kzQ184ZGpOSzdSaGNOaDN5T0FDczFfWHozc3o5ejJvTUhsVG1fVmo1THV3WG9TTWgzOWxwME5DbkhGRW12dzRsR1J1UQ?oc=5)
 
 ---
 
@@ -129,14 +161,6 @@ Source: [Yahoo](https://news.google.com/rss/articles/CBMikwFBVV95cUxOU2NnbGlIVXR
 2026-09-23
 
 Source: [Sci.News](https://news.google.com/rss/articles/CBMikwFBVV95cUxNcGV4RFZmS1czbEkxR1I5eXdLaW40MHlRSnRQVkcyMVNiZ1NEZjRDQ0NvcFZySHQ1b2IyVExVYkkwNGVNamlPQjdoc2NfV2dSZVJsSVV1U1RDR0VWV2tXYXRCY0JiYmJhcDF4eC03NkxOR05ETUJSaXhmbWRpNEVlR3haeElCbGw1WFBaWXFqeTZsYU0?oc=5)
-
----
-
-### [Landmark map of human brain’s gene activity holds clues to Alzheimer’s disease and more](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ydFhxLTZBWjRsZjRRaGwwQXMxZjVwWnlMeTlHbXhfVF92QlBzNll3dTlJX0lDckRaZVIxeXRTMzl5cEk4T1hsS1JWZzRFMktuTVk3QnlqNEQ0N3VhdVVZ?oc=5)
-
-2026-09-23
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ydFhxLTZBWjRsZjRRaGwwQXMxZjVwWnlMeTlHbXhfVF92QlBzNll3dTlJX0lDckRaZVIxeXRTMzl5cEk4T1hsS1JWZzRFMktuTVk3QnlqNEQ0N3VhdVVZ?oc=5)
 
 ---
 

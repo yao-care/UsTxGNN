@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "cancer News"
+title: "tumor (cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 6 articles, 1 related drugs."
+description: "Health news about tumor (cancer). 6 articles, 1 related drugs."
 permalink: /news/cancer/
 ---
 
-# cancer News
+# tumor (cancer) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
+<p class="key-answer" data-question="What news is there about tumor (cancer)?">
+<strong>tumor (cancer)</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “cancer” and lists the drugs in the UsTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “tumor” and lists the drugs in the UsTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -30,6 +30,14 @@ This page brings together the latest health news about “cancer” and lists th
 </div>
 
 ## Related News (6)
+
+### [New research finds 485 chemicals in US pesticide products linked to breast cancer - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONW9pOHY0a0ZEdFpVVl9Wc2psNWdlVExMaFNSZDg0M0dnUGdWcGpQV2xzczBjbjdxVzFBNmdBTGRGTUMyNjBMZmxzV3pya0dxakZIVUhwM2NXODFaLU5tQndRQ252U0RReTlNOV9jdzNoWTFMUU1rQVZ3bDZtUjEyc0l6Ni1ZTURLQl9v?oc=5)
+
+2026-09-26
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONW9pOHY0a0ZEdFpVVl9Wc2psNWdlVExMaFNSZDg0M0dnUGdWcGpQV2xzczBjbjdxVzFBNmdBTGRGTUMyNjBMZmxzV3pya0dxakZIVUhwM2NXODFaLU5tQndRQ252U0RReTlNOV9jdzNoWTFMUU1rQVZ3bDZtUjEyc0l6Ni1ZTURLQl9v?oc=5)
+
+---
 
 ### [Brandon pancreatic cancer patient, praises new drug](https://news.google.com/rss/articles/CBMilwFBVV95cUxQVGVXTFl2RU5hT0FLUnJxNFYwVU4ybGhwYnV0dDFkNmVSSDVqRG1OaWtteVluc0t6bk9ObjVwU01vVk9WNnNJOTZ0OGxnS3MxbHdmRXF5NG5ZU200eHdxTzdFdHNGZXFFRHZXemtrenFtaERYQzh3ajdHZlc3LWZkeER3SG8xMUpJTU1VQTZyZmNVT1loTXVv0gGcAUFVX3lxTE9IZnlUTTVaeDFmakdPRDY3amRGeWJwTVl3MU9KOEsxc0tqS2V3dlZVZDQtcHVzSFlOUXJBajlfSnZmaGVSV3BVdHlUdk5Rd055YjlrYTdmOW5MMUFvRWVNT3QzTEhKWHJUTk9MSkdvckpNS3ljTmpIWXg5ZzhHYVA1NWtkWmNUSU1HWEFrSnpDVzRWYVlXWXQwbkE3cg?oc=5)
 
@@ -55,19 +63,11 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQak1FdXpf
 
 ---
 
-### [Scientists find the gene that drives T-cell exhaustion, revealing new strategy to improve immune responses - Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxOcXBuZGFRMHpiVUtJNmdFeV9wdHAwdTh5T0JhajdwYkpXLWFIVURCemxnWnRVRlpKYmFTeDhLRWpGV0h6TEZsZTVqbmJodHVwTWhGOFkwc19SY09IWTZrWVZJam9aeG5EY0NBV1ViOXBHdjNGWWRHeTkwemdUWWpaTzB2OUJTV1dpenNUcVBB?oc=5)
+### [From weeks to hours - the rapid new test transforming brain tumour diagnosis](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4Z2NoMGhZZXR1eC1Uc2ppcnFOd2otU29ac0EyTnY4UnUxaG1yS1ZUcjlxUE5PVzlkWmxhYzBwMDh1d0pLWVJTRm9IeXVpUDFsVTJOUzJReVhOcms?oc=5)
 
-2026-09-23
+2026-09-24
 
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxOcXBuZGFRMHpiVUtJNmdFeV9wdHAwdTh5T0JhajdwYkpXLWFIVURCemxnWnRVRlpKYmFTeDhLRWpGV0h6TEZsZTVqbmJodHVwTWhGOFkwc19SY09IWTZrWVZJam9aeG5EY0NBV1ViOXBHdjNGWWRHeTkwemdUWWpaTzB2OUJTV1dpenNUcVBB?oc=5)
-
----
-
-### [Man goes to doctor to prove he’s 'in perfect shape,' test reveals shocking diagnosis - Fox News](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMml1a0JMSjZCaTFXbEpRX3lrN3k4QTJjbk1XdVJRQjc0d0MtLXpYcEFVUXlwdFR0SDRKWHdOY3ViWjltbWJtQ3VDUVdxcTR1YUs3Y2hTR1NMZTJ4eHA4azJUeFhCUHNIT0lwdVRxdkU4dnpOOHNIcElNbWl0X3JJc0ZCT1NvTWJlLUhVVU1ESGdzOTV5XzEyd3BnR2NyT2fSAaQBQVVfeXFMTnpYekhhSWhUTDAtdnNZSnpWdEhEY2NKT2lhek95TzJQMi1wYWNLSkhua3lHcHBTSHJBdm1pWXMyRVFyMm41TkxLUkRvRHZlV3pJVTJRUDg3R0lmUTh2aXk5dGJ1dTVhSWJPV2xIQWc3aEkzazZRN0gtY0oyTGtNeU9HYWswcXBrV1JteGp3Wnd5SFBlMjhhSkJqME1MaWc1QXFvbmQ?oc=5)
-
-2026-09-23
-
-Source: [Fox News](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMml1a0JMSjZCaTFXbEpRX3lrN3k4QTJjbk1XdVJRQjc0d0MtLXpYcEFVUXlwdFR0SDRKWHdOY3ViWjltbWJtQ3VDUVdxcTR1YUs3Y2hTR1NMZTJ4eHA4azJUeFhCUHNIT0lwdVRxdkU4dnpOOHNIcElNbWl0X3JJc0ZCT1NvTWJlLUhVVU1ESGdzOTV5XzEyd3BnR2NyT2fSAaQBQVVfeXFMTnpYekhhSWhUTDAtdnNZSnpWdEhEY2NKT2lhek95TzJQMi1wYWNLSkhua3lHcHBTSHJBdm1pWXMyRVFyMm41TkxLUkRvRHZlV3pJVTJRUDg3R0lmUTh2aXk5dGJ1dTVhSWJPV2xIQWc3aEkzazZRN0gtY0oyTGtNeU9HYWswcXBrV1JteGp3Wnd5SFBlMjhhSkJqME1MaWc1QXFvbmQ?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4Z2NoMGhZZXR1eC1Uc2ppcnFOd2otU29ac0EyTnY4UnUxaG1yS1ZUcjlxUE5PVzlkWmxhYzBwMDh1d0pLWVJTRm9IeXVpUDFsVTJOUzJReVhOcms?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 6 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 4 articles, 1 related drugs."
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>4 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (6)
+## Related News (4)
 
 ### ['Everything we know about space travel is going to change within a decade': The fusion breakthrough that could unlock a path to the stars - Live Science](https://news.google.com/rss/articles/CBMilAJBVV95cUxOSTR5bDBxVzRxVmstaWdXTURzc21ld2ZyUzllRUdmM3JBaXlBaXZRM3ZzMjRqOHlQdGRQbmZ6ZzVSRjU5YUJZUVlyN0taLXhoWE9yNjdjbVNpZi1TTDVyb2JPeVZiNkFXVFVQMXFPSk5QOUxObUcyeE1JZy1xQWxLcjd1aWluSEVBTzRSN0NXV05ST3Yyb2lETk9NMEQ3eXlSeGZyVzhkREZoRFlRTTlvZFYtV1p6bUQtTUZkcS1pOFVzR2J0Yi1pamRfdEJfR25uQnI4Rjg5MHc1WXE5QmtFT1o1X2RHX05FM25MRGktc2Q5YklmRDZXdlVoYWhFcmhZMTdzRmRtakhqcGtfS1VSeDJvN3I?oc=5)
 
@@ -47,35 +47,19 @@ Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9tbmJE
 
 ---
 
-### [The Universe Is Full of Tiny Red Dots—and They're One of Astronomy's Biggest Discoveries in Decades](https://news.google.com/rss/articles/CBMixwFBVV95cUxPX2pwQk5IbzhPanJTRTUweTlXZUY0djdRemJVU1dZV3FnSFZzNjVMOXpPWXpuVFZzWGpVQW1VOEs3Yy1lRGNGSEFZWmhIWkQtZGp5VTZFTGgzWTlLcVRydUhMWW40aHdmSXVEeTlobk9TVWZIajZFRVR1MjB1b3lVcV9pSEFqN3ljeVk3V01RbHd1YWVKZy1BVE5OXzBVYnVtS1lFb3JKalg5SWJVSkdGQVBQZVpLQWk5Um1NWXExNnpqVjBQbjdZ?oc=5)
-
-2026-09-25
-
-Source: [Gizmodo](https://news.google.com/rss/articles/CBMixwFBVV95cUxPX2pwQk5IbzhPanJTRTUweTlXZUY0djdRemJVU1dZV3FnSFZzNjVMOXpPWXpuVFZzWGpVQW1VOEs3Yy1lRGNGSEFZWmhIWkQtZGp5VTZFTGgzWTlLcVRydUhMWW40aHdmSXVEeTlobk9TVWZIajZFRVR1MjB1b3lVcV9pSEFqN3ljeVk3V01RbHd1YWVKZy1BVE5OXzBVYnVtS1lFb3JKalg5SWJVSkdGQVBQZVpLQWk5Um1NWXExNnpqVjBQbjdZ?oc=5)
-
----
-
-### [Rabid bats are on the rise in Kansas City - KSHB 41 Kansas City](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYUd2RkdndnF6S1p0WEg5ZXpXbENqd0p6QWU1d0Ixc09QSTgyd0dnTVhoQmhyejJ3cnl5ZDdsTUlHRkN4dDRxanpjOFMxQzJFRV9yaXhoZUZrMlU3T1dPWkUzSDVDejJvZmFtZktOak1zRG1NT1luUmhrR0lKbTVULTI0U0x3Vk9LbU56bzRia1Z6Si1lOTQ2LTlUUFNGR2ZiMnJtdm1FOXVseXJhMFJLaTAwN3BRbUhicXloaVgxNEFHenVCY01nLTBzQkZ1ZUow?oc=5)
-
-2026-09-23
-
-Source: [KSHB 41 Kansas City](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYUd2RkdndnF6S1p0WEg5ZXpXbENqd0p6QWU1d0Ixc09QSTgyd0dnTVhoQmhyejJ3cnl5ZDdsTUlHRkN4dDRxanpjOFMxQzJFRV9yaXhoZUZrMlU3T1dPWkUzSDVDejJvZmFtZktOak1zRG1NT1luUmhrR0lKbTVULTI0U0x3Vk9LbU56bzRia1Z6Si1lOTQ2LTlUUFNGR2ZiMnJtdm1FOXVseXJhMFJLaTAwN3BRbUhicXloaVgxNEFHenVCY01nLTBzQkZ1ZUow?oc=5)
-
----
-
-### [Decades of aerobic exercise may help older adults age with more resilience - Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxONGlKSUlMMXlwb3F6MWpvdFluQ1JFVXMxNldTTW9vTEZZMkVGU0VkdTJYNC1ZSEl5SE8ycmVYTThnYmVkeS12al9hbl91N2dCLVdxUFBmVTFIRHpsbTNwMGhNZ1c1MXVZaHpJbUJNejRZNDVrM0tqWnh5RUVFc0QtbUlR?oc=5)
-
-2026-09-23
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxONGlKSUlMMXlwb3F6MWpvdFluQ1JFVXMxNldTTW9vTEZZMkVGU0VkdTJYNC1ZSEl5SE8ycmVYTThnYmVkeS12al9hbl91N2dCLVdxUFBmVTFIRHpsbTNwMGhNZ1c1MXVZaHpJbUJNejRZNDVrM0tqWnh5RUVFc0QtbUlR?oc=5)
-
----
-
 ### [Tooth Study Shows T. Rex Was Warmblooded - The Japan News](https://news.google.com/rss/articles/CBMiekFVX3lxTE1QeWtQbDlqM0xwWG5qQk10MEZ3bldqaDR5ZHlBbGhpc19BQndKZ3dpeGVlaW5Zbmg0QW02bHRJQkt3WHJzWEtOdGl0dUJhUDZxXzh6OG45S2lrY2JaR3laVktmeWZjUV9YQ3FVLWpHbnhyWjY3Q0E0SXJn?oc=5)
 
 2026-09-23
 
 Source: [The Japan News](https://news.google.com/rss/articles/CBMiekFVX3lxTE1QeWtQbDlqM0xwWG5qQk10MEZ3bldqaDR5ZHlBbGhpc19BQndKZ3dpeGVlaW5Zbmg0QW02bHRJQkt3WHJzWEtOdGl0dUJhUDZxXzh6OG45S2lrY2JaR3laVktmeWZjUV9YQ3FVLWpHbnhyWjY3Q0E0SXJn?oc=5)
+
+---
+
+### [The September 11 cancer wave ahead](https://news.google.com/rss/articles/CBMib0FVX3lxTFBycVdRV0tZZF9oVkt0SmJiaDN3bWVOZzhETENXZmpwX0RscExJemV3UjFKTDRPS2UyTF9QNV94QmFRUWcybUNUZHB3ZHVDd2FBclZwem1INWstX29wRWs5MVhQanBmeVpBMDY1Rjc0Zw?oc=5)
+
+2026-09-19
+
+Source: [cnn.com](https://news.google.com/rss/articles/CBMib0FVX3lxTFBycVdRV0tZZF9oVkt0SmJiaDN3bWVOZzhETENXZmpwX0RscExJemV3UjFKTDRPS2UyTF9QNV94QmFRUWcybUNUZHB3ZHVDd2FBclZwem1INWstX29wRWs5MVhQanBmeVpBMDY1Rjc0Zw?oc=5)
 
 ---
 

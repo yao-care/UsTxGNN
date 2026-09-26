@@ -3,7 +3,7 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 7 articles, 1 related drugs."
+description: "Health news about cancer. 6 articles, 1 related drugs."
 permalink: /news/cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cancer/
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>7 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,23 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (7)
+## Related News (6)
+
+### [Brandon pancreatic cancer patient, praises new drug](https://news.google.com/rss/articles/CBMilwFBVV95cUxQVGVXTFl2RU5hT0FLUnJxNFYwVU4ybGhwYnV0dDFkNmVSSDVqRG1OaWtteVluc0t6bk9ObjVwU01vVk9WNnNJOTZ0OGxnS3MxbHdmRXF5NG5ZU200eHdxTzdFdHNGZXFFRHZXemtrenFtaERYQzh3ajdHZlc3LWZkeER3SG8xMUpJTU1VQTZyZmNVT1loTXVv0gGcAUFVX3lxTE9IZnlUTTVaeDFmakdPRDY3amRGeWJwTVl3MU9KOEsxc0tqS2V3dlZVZDQtcHVzSFlOUXJBajlfSnZmaGVSV3BVdHlUdk5Rd055YjlrYTdmOW5MMUFvRWVNT3QzTEhKWHJUTk9MSkdvckpNS3ljTmpIWXg5ZzhHYVA1NWtkWmNUSU1HWEFrSnpDVzRWYVlXWXQwbkE3cg?oc=5)
+
+2026-09-25
+
+Source: [KELOLAND.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxQVGVXTFl2RU5hT0FLUnJxNFYwVU4ybGhwYnV0dDFkNmVSSDVqRG1OaWtteVluc0t6bk9ObjVwU01vVk9WNnNJOTZ0OGxnS3MxbHdmRXF5NG5ZU200eHdxTzdFdHNGZXFFRHZXemtrenFtaERYQzh3ajdHZlc3LWZkeER3SG8xMUpJTU1VQTZyZmNVT1loTXVv0gGcAUFVX3lxTE9IZnlUTTVaeDFmakdPRDY3amRGeWJwTVl3MU9KOEsxc0tqS2V3dlZVZDQtcHVzSFlOUXJBajlfSnZmaGVSV3BVdHlUdk5Rd055YjlrYTdmOW5MMUFvRWVNT3QzTEhKWHJUTk9MSkdvckpNS3ljTmpIWXg5ZzhHYVA1NWtkWmNUSU1HWEFrSnpDVzRWYVlXWXQwbkE3cg?oc=5)
+
+---
+
+### [GLP-1 drugs could play surprising role in cancer risk and outcomes - New York Post](https://news.google.com/rss/articles/CBMimwFBVV95cUxQUEYtRjh5NHJMQ0RwbVlFRV9raklUMVZOcWpUc0hWclZEaTNiQ0I1ZVQ3eHJoUXJ1T0VRUFl4Rld0RGM0emloV0JoRFRNNTBUc256SUVPOHlEQkctOXc3blRrOHE1MElYNEcybU13LTl3VGIyMHpkQnpROEV0ZEhSbU8xa0FKVncza1RadkRFeHFvLU5kYW1ndDFWVQ?oc=5)
+
+2026-09-25
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMimwFBVV95cUxQUEYtRjh5NHJMQ0RwbVlFRV9raklUMVZOcWpUc0hWclZEaTNiQ0I1ZVQ3eHJoUXJ1T0VRUFl4Rld0RGM0emloV0JoRFRNNTBUc256SUVPOHlEQkctOXc3blRrOHE1MElYNEcybU13LTl3VGIyMHpkQnpROEV0ZEhSbU8xa0FKVncza1RadkRFeHFvLU5kYW1ndDFWVQ?oc=5)
+
+---
 
 ### [Never smoked a cigarette? You could still be at higher risk for lung cancer - Fox News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQak1FdXpfaFlJSm5tblhVREh3WFRRZEk1UXVOb3pLUnF3d1FIQ1BRU0g5di14UzdTS21RV1FzNWhNT2wxLXlKS08wMWE2b1paVlRYLW9QRElMUUtVbnZDZzVWOW9uVjNQcVl4cHhjNmkxLVVVOFdSSS1PM1pFS1NneVlCZklhV2FwWEpwZ2xLdUZfNUHSAZgBQVVfeXFMUDY4R1JZRlEtZEpZMUo4bEJjSjRXdWlfWVZCVno4TkdQQUt6dFJhRFI1cTdOR1otRHR6U3VnWDNHNzE3VWtsaGVhTW9VT0ZFMFdHTGpQVVgyempVVzc0SmJsYWMta1FFeVhkeWVpZ2ZSQWRaM2NHQjZTMk5PS0VST0VDSHFLdkw3UkhSMHVhSjJvV2xWRzdXNks?oc=5)
 
@@ -39,27 +55,11 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQak1FdXpf
 
 ---
 
-### [Cancer surgeon reveals link between GLP-1 medications and cancer outcomes](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOHgyX21RekpiRHlISUY4R21lbVhnSmI0SkdoREs3enpHVGJMWnFMaVRTeDZsc3A1RGNabUR4a005ZkltU3VyWjlQbVU1aVh5R0ZyS1gzQWdnVURVWUNKLXVSUl9Xbl9iWm5oTTEtZjlQRTZBNWhEQXJXQUhHTlJuYUs2N291U1FlU3k0?oc=5)
-
-2026-09-25
-
-Source: [yahoo.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOHgyX21RekpiRHlISUY4R21lbVhnSmI0SkdoREs3enpHVGJMWnFMaVRTeDZsc3A1RGNabUR4a005ZkltU3VyWjlQbVU1aVh5R0ZyS1gzQWdnVURVWUNKLXVSUl9Xbl9iWm5oTTEtZjlQRTZBNWhEQXJXQUhHTlJuYUs2N291U1FlU3k0?oc=5)
-
----
-
-### [Pancreatic Cancer Disappears in Mice After New mRNA Immunotherapy](https://news.google.com/rss/articles/CBMilgFBVV95cUxNNWdVMnNDNnNEWnBQYl9RZDhBMzJkT0tUMFMyRk1NTVl5cURUMHlSOURqMWl2dW4yMGJpS3RpRUtNdS1nZXNfVWczaHc5eEdsc3NMZi1pYWZ6N0ZFbC1yWDRZRFA2cksyM0dteGhtUnlQNTdNTnpvOFdwM3RLa2Q5ejdMWjBwZUxmaXBhSVgyckJvcmo1UlE?oc=5)
-
-2026-09-24
-
-Source: [SciTechDaily](https://news.google.com/rss/articles/CBMilgFBVV95cUxNNWdVMnNDNnNEWnBQYl9RZDhBMzJkT0tUMFMyRk1NTVl5cURUMHlSOURqMWl2dW4yMGJpS3RpRUtNdS1nZXNfVWczaHc5eEdsc3NMZi1pYWZ6N0ZFbC1yWDRZRFA2cksyM0dteGhtUnlQNTdNTnpvOFdwM3RLa2Q5ejdMWjBwZUxmaXBhSVgyckJvcmo1UlE?oc=5)
-
----
-
-### [Targeting ZMYND8 unleashes IL-2 signalling to override T cell exhaustion](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vNnhMaF81VVRLemk4a05taVp5SHExclJObXdZdkljVUdwM0pVRFZmeUlaZDhjWndld1JFRVZtSm90MlVmYmRTZXFhdW9WRnZRS3hQRXB0ZXY2ZW9YRUpZ?oc=5)
+### [Scientists find the gene that drives T-cell exhaustion, revealing new strategy to improve immune responses - Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxOcXBuZGFRMHpiVUtJNmdFeV9wdHAwdTh5T0JhajdwYkpXLWFIVURCemxnWnRVRlpKYmFTeDhLRWpGV0h6TEZsZTVqbmJodHVwTWhGOFkwc19SY09IWTZrWVZJam9aeG5EY0NBV1ViOXBHdjNGWWRHeTkwemdUWWpaTzB2OUJTV1dpenNUcVBB?oc=5)
 
 2026-09-23
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vNnhMaF81VVRLemk4a05taVp5SHExclJObXdZdkljVUdwM0pVRFZmeUlaZDhjWndld1JFRVZtSm90MlVmYmRTZXFhdW9WRnZRS3hQRXB0ZXY2ZW9YRUpZ?oc=5)
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxOcXBuZGFRMHpiVUtJNmdFeV9wdHAwdTh5T0JhajdwYkpXLWFIVURCemxnWnRVRlpKYmFTeDhLRWpGV0h6TEZsZTVqbmJodHVwTWhGOFkwc19SY09IWTZrWVZJam9aeG5EY0NBV1ViOXBHdjNGWWRHeTkwemdUWWpaTzB2OUJTV1dpenNUcVBB?oc=5)
 
 ---
 
@@ -71,19 +71,11 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMml1a0JM
 
 ---
 
-### [This new drug could break cancer’s resistance to treatment](https://news.google.com/rss/articles/CBMib0FVX3lxTE4tc082SHY4R3p1WlBnbklHWnhOOWF6a0trb19jWWNqaG5icnBtMDNLdVhVM3RQS0RFekxYdFROdGZxWkNPOXJPRnd6MWZWMTdGR2w2SDY1VnRvZlFvZGtLS1o2Uk12QU5QWHZyZXpsYw?oc=5)
-
-2026-09-23
-
-Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE4tc082SHY4R3p1WlBnbklHWnhOOWF6a0trb19jWWNqaG5icnBtMDNLdVhVM3RQS0RFekxYdFROdGZxWkNPOXJPRnd6MWZWMTdGR2w2SDY1VnRvZlFvZGtLS1o2Uk12QU5QWHZyZXpsYw?oc=5)
-
----
-
 ### [The September 11 cancer wave ahead](https://news.google.com/rss/articles/CBMib0FVX3lxTFBycVdRV0tZZF9oVkt0SmJiaDN3bWVOZzhETENXZmpwX0RscExJemV3UjFKTDRPS2UyTF9QNV94QmFRUWcybUNUZHB3ZHVDd2FBclZwem1INWstX29wRWs5MVhQanBmeVpBMDY1Rjc0Zw?oc=5)
 
 2026-09-19
 
-Source: [cnn.com](https://news.google.com/rss/articles/CBMib0FVX3lxTFBycVdRV0tZZF9oVkt0SmJiaDN3bWVOZzhETENXZmpwX0RscExJemV3UjFKTDRPS2UyTF9QNV94QmFRUWcybUNUZHB3ZHVDd2FBclZwem1INWstX29wRWs5MVhQanBmeVpBMDY1Rjc0Zw?oc=5)
+Source: [CNN](https://news.google.com/rss/articles/CBMib0FVX3lxTFBycVdRV0tZZF9oVkt0SmJiaDN3bWVOZzhETENXZmpwX0RscExJemV3UjFKTDRPS2UyTF9QNV94QmFRUWcybUNUZHB3ZHVDd2FBclZwem1INWstX29wRWs5MVhQanBmeVpBMDY1Rjc0Zw?oc=5)
 
 ---
 

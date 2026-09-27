@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 5 articles, 2 related drugs."
+description: "Health news about flu (influenza). 4 articles, 2 related drugs."
 permalink: /news/influenza/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/influenza/
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>5 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>4 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (5)
+## Related News (4)
 
 ### [Here's what you need to know about COVID-19 and flu vaccines in Minnesota this fall - MPR News](https://news.google.com/rss/articles/CBMivwFBVV95cUxOUTRJUElRbjRnVlo5Z1R0cGhFQU4yb1BlY0VOc3c2YWp0cVp0WmZUQktQc2c3d3BzOC1HX3lqNXExdXhsVTM2YnRyMFBpeTAtQS1qSVhOV1gyRG9CaWFaR0tiODRzQm56SFR5RHh3cEtJbC1DWHZkcVBMR2ZDVmUzSmlfSGUyVjJuVVNfWEs2MGZ4MTdHcXprMFdtMGh0QTZwdTNIR05nbVl6bXBpSzNRbWo4dGgzX2gyd0dlWV9NVQ?oc=5)
 
@@ -45,14 +45,6 @@ Source: [MPR News](https://news.google.com/rss/articles/CBMivwFBVV95cUxOUTRJUElR
 2026-09-25
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUE9PeUQyeGpEN0hHT1VtQ1dkUjB2VDhYVTNCY19ackpDcGsyWXJvWjJ5TWhXLVNnZlAxdW1STUNGRUZ0VlM5WXhzTHJmVm1BMnRqY01mUG9LSElnVWNVUEdtYzh0cG9ZaFpsdXJidGQ4X2dBZERHS25kNy1NRGp0Mk5zbEVtMFU?oc=5)
-
----
-
-### [Decoding Earth's magnetic field may help scientists treat Parkinson's and Alzheimer's. Here's how](https://news.google.com/rss/articles/CBMiygFBVV95cUxOWWtRLW5reTdRU2hET3dnUHdxNVVZdElaRWktRFp5c2ZrLXJsczBXV1EzZUM2cDZRMUo3eTAwOHJxZnVoZTd2UHBlaUhvbnhHdnotbVRVS2JWZXJTcG0wWmM2RGF6LVBfa2MyZG4wZVdLTjdVX245X3RIT0ZobTMxM1dZTzMxYVd5OHYzRDVwRkFLTlVLQXp2MnZaOEVSRkVkd3J1TXBSeEJYMFZyTS1saXNlYkwzdVJTMXFyd0w5Mk1lTFFTYlJ5cDJR?oc=5)
-
-2026-09-25
-
-Source: [Space](https://news.google.com/rss/articles/CBMiygFBVV95cUxOWWtRLW5reTdRU2hET3dnUHdxNVVZdElaRWktRFp5c2ZrLXJsczBXV1EzZUM2cDZRMUo3eTAwOHJxZnVoZTd2UHBlaUhvbnhHdnotbVRVS2JWZXJTcG0wWmM2RGF6LVBfa2MyZG4wZVdLTjdVX245X3RIT0ZobTMxM1dZTzMxYVd5OHYzRDVwRkFLTlVLQXp2MnZaOEVSRkVkd3J1TXBSeEJYMFZyTS1saXNlYkwzdVJTMXFyd0w5Mk1lTFFTYlJ5cDJR?oc=5)
 
 ---
 

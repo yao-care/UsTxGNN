@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 14 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 10 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/inflammatory-bowel-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>14 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>10 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (14)
+## Related News (10)
 
 ### [Black hole jets reach far beyond galaxies' visible edges, potentially deciding their fate](https://news.google.com/rss/articles/CBMidkFVX3lxTE9VUVNzT2xSdnpGeUwxOFlrSHVyTGQ3WUxCX1BsYnhfSEtmWlBzVXlVa2x5X0I1Z3lGT2VYZDhDdVZTSDg4UjlnMFRZeERHZU1FZS0yLUxTZ1NOSjBQRU16N3BNZUc0OHVGbmQ2UXRRNVg5Vk93ZWc?oc=5)
 
@@ -52,27 +52,11 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONW9p
 
 ---
 
-### [Gen X is drinking more as younger Americans cut back on alcohol, study finds - The Guardian](https://news.google.com/rss/articles/CBMigwFBVV95cUxQakloa1h4RjZGT1RId2dIcWxtc29SbFowYlhtaThLcUhzcUZNVnRTREw1aTliVVRGZUs0UHE4OUZVZU9iNjhqdV9iSS1aNS1UM3U2TjlwX1M4WWNBQWZGdGFDam50Mzdfekx0cEF1ckt1dldweVBpWTh0ZHFpYkdTY21aUQ?oc=5)
-
-2026-09-26
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMigwFBVV95cUxQakloa1h4RjZGT1RId2dIcWxtc29SbFowYlhtaThLcUhzcUZNVnRTREw1aTliVVRGZUs0UHE4OUZVZU9iNjhqdV9iSS1aNS1UM3U2TjlwX1M4WWNBQWZGdGFDam50Mzdfekx0cEF1ckt1dldweVBpWTh0ZHFpYkdTY21aUQ?oc=5)
-
----
-
 ### [West Nile virus cases in San Diego county hit 10-year high — how to protect yourself](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdXo0UWxQa2NOc0xwOTE5bkJ0NFVXWGVSUHdZNHZoNU4xU1RWLTJ2dlpMMlQxbjUtOTh1N1NqM041SV9GYzFTemgwdF8xTXMwdGNEOW53UjNmU0lCN18ySUt5TzRTV3MwLW04Y1hyZVhnczZ2UUh6RTJfTWNoR3hzMzEtclh1RWlwd2RjeWhQOUxwQmYxWGhwcUM3NEJ1STVZSW5LeDlvYnpaU0dQQmFGRkxCOVBjUFlOenJvLWU4M2hiZ2o2RlpQTWk0RzhXS2VrT3VoNkxUbFA?oc=5)
 
 2026-09-26
 
 Source: [cbs8.com](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdXo0UWxQa2NOc0xwOTE5bkJ0NFVXWGVSUHdZNHZoNU4xU1RWLTJ2dlpMMlQxbjUtOTh1N1NqM041SV9GYzFTemgwdF8xTXMwdGNEOW53UjNmU0lCN18ySUt5TzRTV3MwLW04Y1hyZVhnczZ2UUh6RTJfTWNoR3hzMzEtclh1RWlwd2RjeWhQOUxwQmYxWGhwcUM3NEJ1STVZSW5LeDlvYnpaU0dQQmFGRkxCOVBjUFlOenJvLWU4M2hiZ2o2RlpQTWk0RzhXS2VrT3VoNkxUbFA?oc=5)
-
----
-
-### [Never smoked a cigarette? You could still be at higher risk for lung cancer - Fox News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQak1FdXpfaFlJSm5tblhVREh3WFRRZEk1UXVOb3pLUnF3d1FIQ1BRU0g5di14UzdTS21RV1FzNWhNT2wxLXlKS08wMWE2b1paVlRYLW9QRElMUUtVbnZDZzVWOW9uVjNQcVl4cHhjNmkxLVVVOFdSSS1PM1pFS1NneVlCZklhV2FwWEpwZ2xLdUZfNUHSAZgBQVVfeXFMUDY4R1JZRlEtZEpZMUo4bEJjSjRXdWlfWVZCVno4TkdQQUt6dFJhRFI1cTdOR1otRHR6U3VnWDNHNzE3VWtsaGVhTW9VT0ZFMFdHTGpQVVgyempVVzc0SmJsYWMta1FFeVhkeWVpZ2ZSQWRaM2NHQjZTMk5PS0VST0VDSHFLdkw3UkhSMHVhSjJvV2xWRzdXNks?oc=5)
-
-2026-09-25
-
-Source: [Fox News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQak1FdXpfaFlJSm5tblhVREh3WFRRZEk1UXVOb3pLUnF3d1FIQ1BRU0g5di14UzdTS21RV1FzNWhNT2wxLXlKS08wMWE2b1paVlRYLW9QRElMUUtVbnZDZzVWOW9uVjNQcVl4cHhjNmkxLVVVOFdSSS1PM1pFS1NneVlCZklhV2FwWEpwZ2xLdUZfNUHSAZgBQVVfeXFMUDY4R1JZRlEtZEpZMUo4bEJjSjRXdWlfWVZCVno4TkdQQUt6dFJhRFI1cTdOR1otRHR6U3VnWDNHNzE3VWtsaGVhTW9VT0ZFMFdHTGpQVVgyempVVzc0SmJsYWMta1FFeVhkeWVpZ2ZSQWRaM2NHQjZTMk5PS0VST0VDSHFLdkw3UkhSMHVhSjJvV2xWRzdXNks?oc=5)
 
 ---
 
@@ -97,14 +81,6 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMiekFVX3lxTFA5dTVESFps
 2026-09-25
 
 Source: [USA Today](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbFQ4ZzdlRnUwY3ZQX2VFM096T3FqcFdNVi1MZUNZR1FSeVllaXJ1aE1qYVl4a2VXeU0zRl9aVEpQVGY2cnZZcjNlRVJ0TllmLWtwY1pVOFNsaFBESHFsTGZiTVQxczVaTzViZHBjTGFuek9nWWVSdk1VWTJYa2VET091bmZlWVNTRkpvNVd5RTBVRnE2cmx1TmtoZTNRZ00?oc=5)
-
----
-
-### [Earth is tearing apart beneath the Pacific Northwest](https://news.google.com/rss/articles/CBMib0FVX3lxTE9tbmJEMzd3RDBjelE1Zm1STnhqVklGZzlZTXVsdm1RX21BZ3Z5bm8xSkNRNEhmT1I0RWZXal94c083TG43Szl0WHI1cENiQXloNXV3NXZMdnlGRFByeVVyN05lekloMEdTRUtLblFKYw?oc=5)
-
-2026-09-25
-
-Source: [sciencedaily.com](https://news.google.com/rss/articles/CBMib0FVX3lxTE9tbmJEMzd3RDBjelE1Zm1STnhqVklGZzlZTXVsdm1RX21BZ3Z5bm8xSkNRNEhmT1I0RWZXal94c083TG43Szl0WHI1cENiQXloNXV3NXZMdnlGRFByeVVyN05lekloMEdTRUtLblFKYw?oc=5)
 
 ---
 
@@ -137,14 +113,6 @@ Source: [Yahoo](https://news.google.com/rss/articles/CBMikwFBVV95cUxOU2NnbGlIVXR
 2026-09-23
 
 Source: [Sci.News](https://news.google.com/rss/articles/CBMikwFBVV95cUxNcGV4RFZmS1czbEkxR1I5eXdLaW40MHlRSnRQVkcyMVNiZ1NEZjRDQ0NvcFZySHQ1b2IyVExVYkkwNGVNamlPQjdoc2NfV2dSZVJsSVV1U1RDR0VWV2tXYXRCY0JiYmJhcDF4eC03NkxOR05ETUJSaXhmbWRpNEVlR3haeElCbGw1WFBaWXFqeTZsYU0?oc=5)
-
----
-
-### [Men Are Sharing The "Hidden Signs" Of Prostate Cancer They Wish They'd Taken More Seriously](https://news.google.com/rss/articles/CBMickFVX3lxTE04R0d3dFVkaTM4U2NJNTJhQTg2VllyTlJmRkJFeWpObzhGNnpVS0NjbGJua1hHMG5jU3F0OVo5S1FhMWRvclhaYnRUWWQ1THc0OVpQWTFJeWcyMURGSlROakZOc3E5TEc3dzA4UHA1SFVJZw?oc=5)
-
-2026-09-23
-
-Source: [BuzzFeed](https://news.google.com/rss/articles/CBMickFVX3lxTE04R0d3dFVkaTM4U2NJNTJhQTg2VllyTlJmRkJFeWpObzhGNnpVS0NjbGJua1hHMG5jU3F0OVo5S1FhMWRvclhaYnRUWWQ1THc0OVpQWTFJeWcyMURGSlROakZOc3E5TEc3dzA4UHA1SFVJZw?oc=5)
 
 ---
 

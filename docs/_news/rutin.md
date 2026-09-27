@@ -14,7 +14,7 @@ permalink: /news/rutin/
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>14 news articles</strong>, with 0 predicted indications.
+<strong>Rutin</strong> currently has <strong>10 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,7 +28,7 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (10)
 
 ### [Black hole jets reach far beyond galaxies' visible edges, potentially deciding their fate](https://news.google.com/rss/articles/CBMidkFVX3lxTE9VUVNzT2xSdnpGeUwxOFlrSHVyTGQ3WUxCX1BsYnhfSEtmWlBzVXlVa2x5X0I1Z3lGT2VYZDhDdVZTSDg4UjlnMFRZeERHZU1FZS0yLUxTZ1NOSjBQRU16N3BNZUc0OHVGbmQ2UXRRNVg5Vk93ZWc?oc=5)
 
@@ -46,27 +46,11 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONW9p
 
 ---
 
-### [Gen X is drinking more as younger Americans cut back on alcohol, study finds - The Guardian](https://news.google.com/rss/articles/CBMigwFBVV95cUxQakloa1h4RjZGT1RId2dIcWxtc29SbFowYlhtaThLcUhzcUZNVnRTREw1aTliVVRGZUs0UHE4OUZVZU9iNjhqdV9iSS1aNS1UM3U2TjlwX1M4WWNBQWZGdGFDam50Mzdfekx0cEF1ckt1dldweVBpWTh0ZHFpYkdTY21aUQ?oc=5)
-
-2026-09-26 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMigwFBVV95cUxQakloa1h4RjZGT1RId2dIcWxtc29SbFowYlhtaThLcUhzcUZNVnRTREw1aTliVVRGZUs0UHE4OUZVZU9iNjhqdV9iSS1aNS1UM3U2TjlwX1M4WWNBQWZGdGFDam50Mzdfekx0cEF1ckt1dldweVBpWTh0ZHFpYkdTY21aUQ?oc=5)
-
----
-
 ### [West Nile virus cases in San Diego county hit 10-year high — how to protect yourself](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdXo0UWxQa2NOc0xwOTE5bkJ0NFVXWGVSUHdZNHZoNU4xU1RWLTJ2dlpMMlQxbjUtOTh1N1NqM041SV9GYzFTemgwdF8xTXMwdGNEOW53UjNmU0lCN18ySUt5TzRTV3MwLW04Y1hyZVhnczZ2UUh6RTJfTWNoR3hzMzEtclh1RWlwd2RjeWhQOUxwQmYxWGhwcUM3NEJ1STVZSW5LeDlvYnpaU0dQQmFGRkxCOVBjUFlOenJvLWU4M2hiZ2o2RlpQTWk0RzhXS2VrT3VoNkxUbFA?oc=5)
 
-2026-09-26 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-09-26 <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [cbs8.com](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdXo0UWxQa2NOc0xwOTE5bkJ0NFVXWGVSUHdZNHZoNU4xU1RWLTJ2dlpMMlQxbjUtOTh1N1NqM041SV9GYzFTemgwdF8xTXMwdGNEOW53UjNmU0lCN18ySUt5TzRTV3MwLW04Y1hyZVhnczZ2UUh6RTJfTWNoR3hzMzEtclh1RWlwd2RjeWhQOUxwQmYxWGhwcUM3NEJ1STVZSW5LeDlvYnpaU0dQQmFGRkxCOVBjUFlOenJvLWU4M2hiZ2o2RlpQTWk0RzhXS2VrT3VoNkxUbFA?oc=5)
-
----
-
-### [Never smoked a cigarette? You could still be at higher risk for lung cancer - Fox News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQak1FdXpfaFlJSm5tblhVREh3WFRRZEk1UXVOb3pLUnF3d1FIQ1BRU0g5di14UzdTS21RV1FzNWhNT2wxLXlKS08wMWE2b1paVlRYLW9QRElMUUtVbnZDZzVWOW9uVjNQcVl4cHhjNmkxLVVVOFdSSS1PM1pFS1NneVlCZklhV2FwWEpwZ2xLdUZfNUHSAZgBQVVfeXFMUDY4R1JZRlEtZEpZMUo4bEJjSjRXdWlfWVZCVno4TkdQQUt6dFJhRFI1cTdOR1otRHR6U3VnWDNHNzE3VWtsaGVhTW9VT0ZFMFdHTGpQVVgyempVVzc0SmJsYWMta1FFeVhkeWVpZ2ZSQWRaM2NHQjZTMk5PS0VST0VDSHFLdkw3UkhSMHVhSjJvV2xWRzdXNks?oc=5)
-
-2026-09-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [Fox News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQak1FdXpfaFlJSm5tblhVREh3WFRRZEk1UXVOb3pLUnF3d1FIQ1BRU0g5di14UzdTS21RV1FzNWhNT2wxLXlKS08wMWE2b1paVlRYLW9QRElMUUtVbnZDZzVWOW9uVjNQcVl4cHhjNmkxLVVVOFdSSS1PM1pFS1NneVlCZklhV2FwWEpwZ2xLdUZfNUHSAZgBQVVfeXFMUDY4R1JZRlEtZEpZMUo4bEJjSjRXdWlfWVZCVno4TkdQQUt6dFJhRFI1cTdOR1otRHR6U3VnWDNHNzE3VWtsaGVhTW9VT0ZFMFdHTGpQVVgyempVVzc0SmJsYWMta1FFeVhkeWVpZ2ZSQWRaM2NHQjZTMk5PS0VST0VDSHFLdkw3UkhSMHVhSjJvV2xWRzdXNks?oc=5)
 
 ---
 
@@ -94,17 +78,9 @@ Source: [USA Today](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbFQ4Zzd
 
 ---
 
-### [Earth is tearing apart beneath the Pacific Northwest](https://news.google.com/rss/articles/CBMib0FVX3lxTE9tbmJEMzd3RDBjelE1Zm1STnhqVklGZzlZTXVsdm1RX21BZ3Z5bm8xSkNRNEhmT1I0RWZXal94c083TG43Szl0WHI1cENiQXloNXV3NXZMdnlGRFByeVVyN05lekloMEdTRUtLblFKYw?oc=5)
-
-2026-09-25 <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [sciencedaily.com](https://news.google.com/rss/articles/CBMib0FVX3lxTE9tbmJEMzd3RDBjelE1Zm1STnhqVklGZzlZTXVsdm1RX21BZ3Z5bm8xSkNRNEhmT1I0RWZXal94c083TG43Szl0WHI1cENiQXloNXV3NXZMdnlGRFByeVVyN05lekloMEdTRUtLblFKYw?oc=5)
-
----
-
 ### [This Seasonal Habit Promotes Healthy Aging and May Reduce Dementia Risk in Older People](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZjlVOGYxeHQ5WTdLRG9xZXkwUlBqR0hMTmoxejYtekZSVXVVNF9FTkw0c0J6clNNQXJ4eDcyMWFFb05nV3YwbjFkVXlkeXVXaURUMThsQkpCREJpMzRYM29reGc4WHFNRkVTd1psWTYzQ0ZOaEQtQno1bXVhbkllZjNNTjd1dDRvamxyVl96SQ?oc=5)
 
-2026-09-25 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">influenza</span> <span class="news-indication-tag">UC</span>
+2026-09-25 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">influenza</span> <span class="news-indication-tag">UC</span>
 
 Source: [TODAY.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZjlVOGYxeHQ5WTdLRG9xZXkwUlBqR0hMTmoxejYtekZSVXVVNF9FTkw0c0J6clNNQXJ4eDcyMWFFb05nV3YwbjFkVXlkeXVXaURUMThsQkpCREJpMzRYM29reGc4WHFNRkVTd1psWTYzQ0ZOaEQtQno1bXVhbkllZjNNTjd1dDRvamxyVl96SQ?oc=5)
 
@@ -131,14 +107,6 @@ Source: [Yahoo](https://news.google.com/rss/articles/CBMikwFBVV95cUxOU2NnbGlIVXR
 2026-09-23 <span class="news-indication-tag">UC</span>
 
 Source: [Sci.News](https://news.google.com/rss/articles/CBMikwFBVV95cUxNcGV4RFZmS1czbEkxR1I5eXdLaW40MHlRSnRQVkcyMVNiZ1NEZjRDQ0NvcFZySHQ1b2IyVExVYkkwNGVNamlPQjdoc2NfV2dSZVJsSVV1U1RDR0VWV2tXYXRCY0JiYmJhcDF4eC03NkxOR05ETUJSaXhmbWRpNEVlR3haeElCbGw1WFBaWXFqeTZsYU0?oc=5)
-
----
-
-### [Men Are Sharing The "Hidden Signs" Of Prostate Cancer They Wish They'd Taken More Seriously](https://news.google.com/rss/articles/CBMickFVX3lxTE04R0d3dFVkaTM4U2NJNTJhQTg2VllyTlJmRkJFeWpObzhGNnpVS0NjbGJua1hHMG5jU3F0OVo5S1FhMWRvclhaYnRUWWQ1THc0OVpQWTFJeWcyMURGSlROakZOc3E5TEc3dzA4UHA1SFVJZw?oc=5)
-
-2026-09-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [BuzzFeed](https://news.google.com/rss/articles/CBMickFVX3lxTE04R0d3dFVkaTM4U2NJNTJhQTg2VllyTlJmRkJFeWpObzhGNnpVS0NjbGJua1hHMG5jU3F0OVo5S1FhMWRvclhaYnRUWWQ1THc0OVpQWTFJeWcyMURGSlROakZOc3E5TEc3dzA4UHA1SFVJZw?oc=5)
 
 ---
 

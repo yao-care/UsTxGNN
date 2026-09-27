@@ -14,7 +14,7 @@ permalink: /news/ramucirumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>8 news articles</strong>, with 9 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>7 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,7 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (7)
 
 ### [New research finds 485 chemicals in US pesticide products linked to breast cancer - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONW9pOHY0a0ZEdFpVVl9Wc2psNWdlVExMaFNSZDg0M0dnUGdWcGpQV2xzczBjbjdxVzFBNmdBTGRGTUMyNjBMZmxzV3pya0dxakZIVUhwM2NXODFaLU5tQndRQ252U0RReTlNOV9jdzNoWTFMUU1rQVZ3bDZtUjEyc0l6Ni1ZTURLQl9v?oc=5)
 
@@ -53,21 +53,13 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONW9p
 
 2026-09-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
-Source: [KELOLAND.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxQVGVXTFl2RU5hT0FLUnJxNFYwVU4ybGhwYnV0dDFkNmVSSDVqRG1OaWtteVluc0t6bk9ObjVwU01vVk9WNnNJOTZ0OGxnS3MxbHdmRXF5NG5ZU200eHdxTzdFdHNGZXFFRHZXemtrenFtaERYQzh3ajdHZlc3LWZkeER3SG8xMUpJTU1VQTZyZmNVT1loTXVv0gGcAUFVX3lxTE9IZnlUTTVaeDFmakdPRDY3amRGeWJwTVl3MU9KOEsxc0tqS2V3dlZVZDQtcHVzSFlOUXJBajlfSnZmaGVSV3BVdHlUdk5Rd055YjlrYTdmOW5MMUFvRWVNT3QzTEhKWHJUTk9MSkdvckpNS3ljTmpIWXg5ZzhHYVA1NWtkWmNUSU1HWEFrSnpDVzRWYVlXWXQwbkE3cg?oc=5)
-
----
-
-### [GLP-1 drugs could play surprising role in cancer risk and outcomes - New York Post](https://news.google.com/rss/articles/CBMimwFBVV95cUxQUEYtRjh5NHJMQ0RwbVlFRV9raklUMVZOcWpUc0hWclZEaTNiQ0I1ZVQ3eHJoUXJ1T0VRUFl4Rld0RGM0emloV0JoRFRNNTBUc256SUVPOHlEQkctOXc3blRrOHE1MElYNEcybU13LTl3VGIyMHpkQnpROEV0ZEhSbU8xa0FKVncza1RadkRFeHFvLU5kYW1ndDFWVQ?oc=5)
-
-2026-09-25 <span class="news-indication-tag">cancer</span>
-
-Source: [New York Post](https://news.google.com/rss/articles/CBMimwFBVV95cUxQUEYtRjh5NHJMQ0RwbVlFRV9raklUMVZOcWpUc0hWclZEaTNiQ0I1ZVQ3eHJoUXJ1T0VRUFl4Rld0RGM0emloV0JoRFRNNTBUc256SUVPOHlEQkctOXc3blRrOHE1MElYNEcybU13LTl3VGIyMHpkQnpROEV0ZEhSbU8xa0FKVncza1RadkRFeHFvLU5kYW1ndDFWVQ?oc=5)
+Source: [keloland.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxQVGVXTFl2RU5hT0FLUnJxNFYwVU4ybGhwYnV0dDFkNmVSSDVqRG1OaWtteVluc0t6bk9ObjVwU01vVk9WNnNJOTZ0OGxnS3MxbHdmRXF5NG5ZU200eHdxTzdFdHNGZXFFRHZXemtrenFtaERYQzh3ajdHZlc3LWZkeER3SG8xMUpJTU1VQTZyZmNVT1loTXVv0gGcAUFVX3lxTE9IZnlUTTVaeDFmakdPRDY3amRGeWJwTVl3MU9KOEsxc0tqS2V3dlZVZDQtcHVzSFlOUXJBajlfSnZmaGVSV3BVdHlUdk5Rd055YjlrYTdmOW5MMUFvRWVNT3QzTEhKWHJUTk9MSkdvckpNS3ljTmpIWXg5ZzhHYVA1NWtkWmNUSU1HWEFrSnpDVzRWYVlXWXQwbkE3cg?oc=5)
 
 ---
 
 ### [Never smoked a cigarette? You could still be at higher risk for lung cancer - Fox News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQak1FdXpfaFlJSm5tblhVREh3WFRRZEk1UXVOb3pLUnF3d1FIQ1BRU0g5di14UzdTS21RV1FzNWhNT2wxLXlKS08wMWE2b1paVlRYLW9QRElMUUtVbnZDZzVWOW9uVjNQcVl4cHhjNmkxLVVVOFdSSS1PM1pFS1NneVlCZklhV2FwWEpwZ2xLdUZfNUHSAZgBQVVfeXFMUDY4R1JZRlEtZEpZMUo4bEJjSjRXdWlfWVZCVno4TkdQQUt6dFJhRFI1cTdOR1otRHR6U3VnWDNHNzE3VWtsaGVhTW9VT0ZFMFdHTGpQVVgyempVVzc0SmJsYWMta1FFeVhkeWVpZ2ZSQWRaM2NHQjZTMk5PS0VST0VDSHFLdkw3UkhSMHVhSjJvV2xWRzdXNks?oc=5)
 
-2026-09-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-09-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
 Source: [Fox News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQak1FdXpfaFlJSm5tblhVREh3WFRRZEk1UXVOb3pLUnF3d1FIQ1BRU0g5di14UzdTS21RV1FzNWhNT2wxLXlKS08wMWE2b1paVlRYLW9QRElMUUtVbnZDZzVWOW9uVjNQcVl4cHhjNmkxLVVVOFdSSS1PM1pFS1NneVlCZklhV2FwWEpwZ2xLdUZfNUHSAZgBQVVfeXFMUDY4R1JZRlEtZEpZMUo4bEJjSjRXdWlfWVZCVno4TkdQQUt6dFJhRFI1cTdOR1otRHR6U3VnWDNHNzE3VWtsaGVhTW9VT0ZFMFdHTGpQVVgyempVVzc0SmJsYWMta1FFeVhkeWVpZ2ZSQWRaM2NHQjZTMk5PS0VST0VDSHFLdkw3UkhSMHVhSjJvV2xWRzdXNks?oc=5)
 
@@ -89,17 +81,17 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxPd0g3
 
 ---
 
-### [High-fat diet activates cellular repair pathway that helps colon cancer spread - Medical Xpress](https://news.google.com/rss/articles/CBMif0FVX3lxTE5DajJPb0NmdXhiMnpqTzIzUUVlOXN6MGJpUEhiTERGWUVzdzdJY3JUR0dkYlRPTl82Qm1SRHdXR1Q1NFBmdDdQOUdNbHUtWWxQeGJSVUh3dkhoQklxSGo4VTlXZFdyNFQ4MnJUcXV2ZG1teGdRaTZmRUl0TFhKczA?oc=5)
+### [Cancer surgeon reveals link between GLP-1 medications and cancer outcomes](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOHgyX21RekpiRHlISUY4R21lbVhnSmI0SkdoREs3enpHVGJMWnFMaVRTeDZsc3A1RGNabUR4a005ZkltU3VyWjlQbVU1aVh5R0ZyS1gzQWdnVURVWUNKLXVSUl9Xbl9iWm5oTTEtZjlQRTZBNWhEQXJXQUhHTlJuYUs2N291U1FlU3k0?oc=5)
 
-2026-09-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+2026-09-25 <span class="news-indication-tag">cancer</span>
 
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMif0FVX3lxTE5DajJPb0NmdXhiMnpqTzIzUUVlOXN6MGJpUEhiTERGWUVzdzdJY3JUR0dkYlRPTl82Qm1SRHdXR1Q1NFBmdDdQOUdNbHUtWWxQeGJSVUh3dkhoQklxSGo4VTlXZFdyNFQ4MnJUcXV2ZG1teGdRaTZmRUl0TFhKczA?oc=5)
+Source: [Yahoo](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOHgyX21RekpiRHlISUY4R21lbVhnSmI0SkdoREs3enpHVGJMWnFMaVRTeDZsc3A1RGNabUR4a005ZkltU3VyWjlQbVU1aVh5R0ZyS1gzQWdnVURVWUNKLXVSUl9Xbl9iWm5oTTEtZjlQRTZBNWhEQXJXQUhHTlJuYUs2N291U1FlU3k0?oc=5)
 
 ---
 
 ### [Men Are Sharing The "Hidden Signs" Of Prostate Cancer They Wish They'd Taken More Seriously](https://news.google.com/rss/articles/CBMickFVX3lxTE04R0d3dFVkaTM4U2NJNTJhQTg2VllyTlJmRkJFeWpObzhGNnpVS0NjbGJua1hHMG5jU3F0OVo5S1FhMWRvclhaYnRUWWQ1THc0OVpQWTFJeWcyMURGSlROakZOc3E5TEc3dzA4UHA1SFVJZw?oc=5)
 
-2026-09-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-09-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
 Source: [BuzzFeed](https://news.google.com/rss/articles/CBMickFVX3lxTE04R0d3dFVkaTM4U2NJNTJhQTg2VllyTlJmRkJFeWpObzhGNnpVS0NjbGJua1hHMG5jU3F0OVo5S1FhMWRvclhaYnRUWWQ1THc0OVpQWTFJeWcyMURGSlROakZOc3E5TEc3dzA4UHA1SFVJZw?oc=5)
 

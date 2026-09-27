@@ -31,6 +31,14 @@ This page brings together the latest health news about “CAD” and lists the d
 
 ## Related News (4)
 
+### [Death Rates For Young American Adults Jumped 71% In Just Over A Decade](https://news.google.com/rss/articles/CBMilwFBVV95cUxNS3VwZHNiTlJtcFFIVFg1UFZ4QkI4cDVXWUJOejlKOFhINlB1V2JMQm83UWJ3Zi1kT2I2bVRWVTlKUzBJRWZsckpGNmV2NGQ1Nk9lcGRDbmc0Mlc3Vm9oeGJwM0stMlBUUmNtVnNjNDdMSzNyWWVGd1dFNlh1UmJCWXFLZTlMSEQ0MWJjNGhob0s2UTVmajFR?oc=5)
+
+2026-09-26
+
+Source: [StudyFinds](https://news.google.com/rss/articles/CBMilwFBVV95cUxNS3VwZHNiTlJtcFFIVFg1UFZ4QkI4cDVXWUJOejlKOFhINlB1V2JMQm83UWJ3Zi1kT2I2bVRWVTlKUzBJRWZsckpGNmV2NGQ1Nk9lcGRDbmc0Mlc3Vm9oeGJwM0stMlBUUmNtVnNjNDdMSzNyWWVGd1dFNlh1UmJCWXFLZTlMSEQ0MWJjNGhob0s2UTVmajFR?oc=5)
+
+---
+
 ### ['Everything we know about space travel is going to change within a decade': The fusion breakthrough that could unlock a path to the stars - Live Science](https://news.google.com/rss/articles/CBMilAJBVV95cUxOSTR5bDBxVzRxVmstaWdXTURzc21ld2ZyUzllRUdmM3JBaXlBaXZRM3ZzMjRqOHlQdGRQbmZ6ZzVSRjU5YUJZUVlyN0taLXhoWE9yNjdjbVNpZi1TTDVyb2JPeVZiNkFXVFVQMXFPSk5QOUxObUcyeE1JZy1xQWxLcjd1aWluSEVBTzRSN0NXV05ST3Yyb2lETk9NMEQ3eXlSeGZyVzhkREZoRFlRTTlvZFYtV1p6bUQtTUZkcS1pOFVzR2J0Yi1pamRfdEJfR25uQnI4Rjg5MHc1WXE5QmtFT1o1X2RHX05FM25MRGktc2Q5YklmRDZXdlVoYWhFcmhZMTdzRmRtakhqcGtfS1VSeDJvN3I?oc=5)
 
 2026-09-25
@@ -43,23 +51,15 @@ Source: [Live Science](https://news.google.com/rss/articles/CBMilAJBVV95cUxOSTR5
 
 2026-09-25
 
-Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9tbmJEMzd3RDBjelE1Zm1STnhqVklGZzlZTXVsdm1RX21BZ3Z5bm8xSkNRNEhmT1I0RWZXal94c083TG43Szl0WHI1cENiQXloNXV3NXZMdnlGRFByeVVyN05lekloMEdTRUtLblFKYw?oc=5)
+Source: [sciencedaily.com](https://news.google.com/rss/articles/CBMib0FVX3lxTE9tbmJEMzd3RDBjelE1Zm1STnhqVklGZzlZTXVsdm1RX21BZ3Z5bm8xSkNRNEhmT1I0RWZXal94c083TG43Szl0WHI1cENiQXloNXV3NXZMdnlGRFByeVVyN05lekloMEdTRUtLblFKYw?oc=5)
 
 ---
 
-### [Your grip strength says more about your health than you might think - USA Today](https://news.google.com/rss/articles/CBMimAFBVV95cUxOTnFVZHU4VXZYYXVyc3lpV2lKX1czd3M5ZnB6R1duY0FyQlRjbWpnU29NWHh2WXdaM2J1azFXQnJFUDVQamxqSmgxcjM2QXdNUUl2N0FiSG5nNU1LcmtNZVpBQlVRSWpOX3dDdXVoTTBTZ3BybVMxMmxkMGd5bHJnQlBHOGlYQUhxbXZlY3ZVUUQ2UE82ZUtPcg?oc=5)
-
-2026-09-25
-
-Source: [USA Today](https://news.google.com/rss/articles/CBMimAFBVV95cUxOTnFVZHU4VXZYYXVyc3lpV2lKX1czd3M5ZnB6R1duY0FyQlRjbWpnU29NWHh2WXdaM2J1azFXQnJFUDVQamxqSmgxcjM2QXdNUUl2N0FiSG5nNU1LcmtNZVpBQlVRSWpOX3dDdXVoTTBTZ3BybVMxMmxkMGd5bHJnQlBHOGlYQUhxbXZlY3ZVUUQ2UE82ZUtPcg?oc=5)
-
----
-
-### [Tooth Study Shows T. Rex Was Warmblooded](https://news.google.com/rss/articles/CBMiekFVX3lxTE1QeWtQbDlqM0xwWG5qQk10MEZ3bldqaDR5ZHlBbGhpc19BQndKZ3dpeGVlaW5Zbmg0QW02bHRJQkt3WHJzWEtOdGl0dUJhUDZxXzh6OG45S2lrY2JaR3laVktmeWZjUV9YQ3FVLWpHbnhyWjY3Q0E0SXJn?oc=5)
+### [Tooth Study Shows T. Rex Was Warmblooded - The Japan News](https://news.google.com/rss/articles/CBMiekFVX3lxTE1QeWtQbDlqM0xwWG5qQk10MEZ3bldqaDR5ZHlBbGhpc19BQndKZ3dpeGVlaW5Zbmg0QW02bHRJQkt3WHJzWEtOdGl0dUJhUDZxXzh6OG45S2lrY2JaR3laVktmeWZjUV9YQ3FVLWpHbnhyWjY3Q0E0SXJn?oc=5)
 
 2026-09-23
 
-Source: [japannews.yomiuri.co.jp](https://news.google.com/rss/articles/CBMiekFVX3lxTE1QeWtQbDlqM0xwWG5qQk10MEZ3bldqaDR5ZHlBbGhpc19BQndKZ3dpeGVlaW5Zbmg0QW02bHRJQkt3WHJzWEtOdGl0dUJhUDZxXzh6OG45S2lrY2JaR3laVktmeWZjUV9YQ3FVLWpHbnhyWjY3Q0E0SXJn?oc=5)
+Source: [The Japan News](https://news.google.com/rss/articles/CBMiekFVX3lxTE1QeWtQbDlqM0xwWG5qQk10MEZ3bldqaDR5ZHlBbGhpc19BQndKZ3dpeGVlaW5Zbmg0QW02bHRJQkt3WHJzWEtOdGl0dUJhUDZxXzh6OG45S2lrY2JaR3laVktmeWZjUV9YQ3FVLWpHbnhyWjY3Q0E0SXJn?oc=5)
 
 ---
 

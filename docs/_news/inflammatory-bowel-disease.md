@@ -36,6 +36,14 @@ This page brings together the latest health news about “UC” and lists the dr
 
 ## Related News (14)
 
+### [Black hole jets reach far beyond galaxies' visible edges, potentially deciding their fate](https://news.google.com/rss/articles/CBMidkFVX3lxTE9VUVNzT2xSdnpGeUwxOFlrSHVyTGQ3WUxCX1BsYnhfSEtmWlBzVXlVa2x5X0I1Z3lGT2VYZDhDdVZTSDg4UjlnMFRZeERHZU1FZS0yLUxTZ1NOSjBQRU16N3BNZUc0OHVGbmQ2UXRRNVg5Vk93ZWc?oc=5)
+
+2026-09-26
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMidkFVX3lxTE9VUVNzT2xSdnpGeUwxOFlrSHVyTGQ3WUxCX1BsYnhfSEtmWlBzVXlVa2x5X0I1Z3lGT2VYZDhDdVZTSDg4UjlnMFRZeERHZU1FZS0yLUxTZ1NOSjBQRU16N3BNZUc0OHVGbmQ2UXRRNVg5Vk93ZWc?oc=5)
+
+---
+
 ### [New research finds 485 chemicals in US pesticide products linked to breast cancer - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONW9pOHY0a0ZEdFpVVl9Wc2psNWdlVExMaFNSZDg0M0dnUGdWcGpQV2xzczBjbjdxVzFBNmdBTGRGTUMyNjBMZmxzV3pya0dxakZIVUhwM2NXODFaLU5tQndRQ252U0RReTlNOV9jdzNoWTFMUU1rQVZ3bDZtUjEyc0l6Ni1ZTURLQl9v?oc=5)
 
 2026-09-26
@@ -60,19 +68,11 @@ Source: [cbs8.com](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdXo0UWxQ
 
 ---
 
-### [EHD outbreak in deer likely has expanded to six Wisconsin counties - Milwaukee Journal Sentinel](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUUNYQXdoeUhLN3FRUHJSeWNqZmd6LWNuX3o2VG1vSWdXMWVoUTFBajJjYk9VXzVUWlZBNnBoU3JJMDJ0bmFFbmVOay1ZeFoyTXY5bHp5eHo0NDdSbS16dWlDaEZaYVFTYnBMbW01aGNMSllvZklSNmNZOXpsTmhhMVlsaE9sVlhpU29tZnNac0JLaHllWTE3TmRpTllLWWhhR3Q4anBVZm4zdnlXMjJ1NGZpaFVqSEhKSlhNbW52bDBCNzZsRWhCNHJ5UGlDOTlY?oc=5)
+### [Never smoked a cigarette? You could still be at higher risk for lung cancer - Fox News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQak1FdXpfaFlJSm5tblhVREh3WFRRZEk1UXVOb3pLUnF3d1FIQ1BRU0g5di14UzdTS21RV1FzNWhNT2wxLXlKS08wMWE2b1paVlRYLW9QRElMUUtVbnZDZzVWOW9uVjNQcVl4cHhjNmkxLVVVOFdSSS1PM1pFS1NneVlCZklhV2FwWEpwZ2xLdUZfNUHSAZgBQVVfeXFMUDY4R1JZRlEtZEpZMUo4bEJjSjRXdWlfWVZCVno4TkdQQUt6dFJhRFI1cTdOR1otRHR6U3VnWDNHNzE3VWtsaGVhTW9VT0ZFMFdHTGpQVVgyempVVzc0SmJsYWMta1FFeVhkeWVpZ2ZSQWRaM2NHQjZTMk5PS0VST0VDSHFLdkw3UkhSMHVhSjJvV2xWRzdXNks?oc=5)
 
 2026-09-25
 
-Source: [Milwaukee Journal Sentinel](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUUNYQXdoeUhLN3FRUHJSeWNqZmd6LWNuX3o2VG1vSWdXMWVoUTFBajJjYk9VXzVUWlZBNnBoU3JJMDJ0bmFFbmVOay1ZeFoyTXY5bHp5eHo0NDdSbS16dWlDaEZaYVFTYnBMbW01aGNMSllvZklSNmNZOXpsTmhhMVlsaE9sVlhpU29tZnNac0JLaHllWTE3TmRpTllLWWhhR3Q4anBVZm4zdnlXMjJ1NGZpaFVqSEhKSlhNbW52bDBCNzZsRWhCNHJ5UGlDOTlY?oc=5)
-
----
-
-### [Never smoked a cigarette? You could still be at higher risk for lung cancer - Fox News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQak1FdXpfaFlJSm5tblhVREh3WFRRZEk1UXVOb3pLUnF3d1FIQ1BRU0g5di14UzdTS21RV1FzNWhNT2wxLXlKS08wMWE2b1paVlRYLW9QRElMUUtVbnZDZzVWOW9uVjNQcVl4cHhjNmkxLVVVOFdSSS1PM1pFS1NneVlCZklhV2FwWEpwZ2xLdUZfNUE?oc=5)
-
-2026-09-25
-
-Source: [Fox News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQak1FdXpfaFlJSm5tblhVREh3WFRRZEk1UXVOb3pLUnF3d1FIQ1BRU0g5di14UzdTS21RV1FzNWhNT2wxLXlKS08wMWE2b1paVlRYLW9QRElMUUtVbnZDZzVWOW9uVjNQcVl4cHhjNmkxLVVVOFdSSS1PM1pFS1NneVlCZklhV2FwWEpwZ2xLdUZfNUE?oc=5)
+Source: [Fox News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQak1FdXpfaFlJSm5tblhVREh3WFRRZEk1UXVOb3pLUnF3d1FIQ1BRU0g5di14UzdTS21RV1FzNWhNT2wxLXlKS08wMWE2b1paVlRYLW9QRElMUUtVbnZDZzVWOW9uVjNQcVl4cHhjNmkxLVVVOFdSSS1PM1pFS1NneVlCZklhV2FwWEpwZ2xLdUZfNUHSAZgBQVVfeXFMUDY4R1JZRlEtZEpZMUo4bEJjSjRXdWlfWVZCVno4TkdQQUt6dFJhRFI1cTdOR1otRHR6U3VnWDNHNzE3VWtsaGVhTW9VT0ZFMFdHTGpQVVgyempVVzc0SmJsYWMta1FFeVhkeWVpZ2ZSQWRaM2NHQjZTMk5PS0VST0VDSHFLdkw3UkhSMHVhSjJvV2xWRzdXNks?oc=5)
 
 ---
 
@@ -104,7 +104,7 @@ Source: [USA Today](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbFQ4Zzd
 
 2026-09-25
 
-Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9tbmJEMzd3RDBjelE1Zm1STnhqVklGZzlZTXVsdm1RX21BZ3Z5bm8xSkNRNEhmT1I0RWZXal94c083TG43Szl0WHI1cENiQXloNXV3NXZMdnlGRFByeVVyN05lekloMEdTRUtLblFKYw?oc=5)
+Source: [sciencedaily.com](https://news.google.com/rss/articles/CBMib0FVX3lxTE9tbmJEMzd3RDBjelE1Zm1STnhqVklGZzlZTXVsdm1RX21BZ3Z5bm8xSkNRNEhmT1I0RWZXal94c083TG43Szl0WHI1cENiQXloNXV3NXZMdnlGRFByeVVyN05lekloMEdTRUtLblFKYw?oc=5)
 
 ---
 

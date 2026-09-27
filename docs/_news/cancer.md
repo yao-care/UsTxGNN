@@ -3,7 +3,7 @@ layout: default
 title: "tumor (cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about tumor (cancer). 7 articles, 1 related drugs."
+description: "Health news about tumor (cancer). 8 articles, 1 related drugs."
 permalink: /news/cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cancer/
 ---
 
 <p class="key-answer" data-question="What news is there about tumor (cancer)?">
-<strong>tumor (cancer)</strong> currently has <strong>7 news articles</strong> and 1 related drugs.
+<strong>tumor (cancer)</strong> currently has <strong>8 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ This page brings together the latest health news about “tumor” and lists the
 </ul>
 </div>
 
-## Related News (7)
+## Related News (8)
 
 ### [New research finds 485 chemicals in US pesticide products linked to breast cancer - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONW9pOHY0a0ZEdFpVVl9Wc2psNWdlVExMaFNSZDg0M0dnUGdWcGpQV2xzczBjbjdxVzFBNmdBTGRGTUMyNjBMZmxzV3pya0dxakZIVUhwM2NXODFaLU5tQndRQ252U0RReTlNOV9jdzNoWTFMUU1rQVZ3bDZtUjEyc0l6Ni1ZTURLQl9v?oc=5)
 
@@ -55,11 +55,19 @@ Source: [New York Post](https://news.google.com/rss/articles/CBMimwFBVV95cUxQUEY
 
 ---
 
-### [Never smoked a cigarette? You could still be at higher risk for lung cancer - Fox News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQak1FdXpfaFlJSm5tblhVREh3WFRRZEk1UXVOb3pLUnF3d1FIQ1BRU0g5di14UzdTS21RV1FzNWhNT2wxLXlKS08wMWE2b1paVlRYLW9QRElMUUtVbnZDZzVWOW9uVjNQcVl4cHhjNmkxLVVVOFdSSS1PM1pFS1NneVlCZklhV2FwWEpwZ2xLdUZfNUE?oc=5)
+### [Never smoked a cigarette? You could still be at higher risk for lung cancer - Fox News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQak1FdXpfaFlJSm5tblhVREh3WFRRZEk1UXVOb3pLUnF3d1FIQ1BRU0g5di14UzdTS21RV1FzNWhNT2wxLXlKS08wMWE2b1paVlRYLW9QRElMUUtVbnZDZzVWOW9uVjNQcVl4cHhjNmkxLVVVOFdSSS1PM1pFS1NneVlCZklhV2FwWEpwZ2xLdUZfNUHSAZgBQVVfeXFMUDY4R1JZRlEtZEpZMUo4bEJjSjRXdWlfWVZCVno4TkdQQUt6dFJhRFI1cTdOR1otRHR6U3VnWDNHNzE3VWtsaGVhTW9VT0ZFMFdHTGpQVVgyempVVzc0SmJsYWMta1FFeVhkeWVpZ2ZSQWRaM2NHQjZTMk5PS0VST0VDSHFLdkw3UkhSMHVhSjJvV2xWRzdXNks?oc=5)
 
 2026-09-25
 
-Source: [Fox News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQak1FdXpfaFlJSm5tblhVREh3WFRRZEk1UXVOb3pLUnF3d1FIQ1BRU0g5di14UzdTS21RV1FzNWhNT2wxLXlKS08wMWE2b1paVlRYLW9QRElMUUtVbnZDZzVWOW9uVjNQcVl4cHhjNmkxLVVVOFdSSS1PM1pFS1NneVlCZklhV2FwWEpwZ2xLdUZfNUE?oc=5)
+Source: [Fox News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQak1FdXpfaFlJSm5tblhVREh3WFRRZEk1UXVOb3pLUnF3d1FIQ1BRU0g5di14UzdTS21RV1FzNWhNT2wxLXlKS08wMWE2b1paVlRYLW9QRElMUUtVbnZDZzVWOW9uVjNQcVl4cHhjNmkxLVVVOFdSSS1PM1pFS1NneVlCZklhV2FwWEpwZ2xLdUZfNUHSAZgBQVVfeXFMUDY4R1JZRlEtZEpZMUo4bEJjSjRXdWlfWVZCVno4TkdQQUt6dFJhRFI1cTdOR1otRHR6U3VnWDNHNzE3VWtsaGVhTW9VT0ZFMFdHTGpQVVgyempVVzc0SmJsYWMta1FFeVhkeWVpZ2ZSQWRaM2NHQjZTMk5PS0VST0VDSHFLdkw3UkhSMHVhSjJvV2xWRzdXNks?oc=5)
+
+---
+
+### [Dietary supplement may influence lung tumor growth differently in females and males - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUE9PeUQyeGpEN0hHT1VtQ1dkUjB2VDhYVTNCY19ackpDcGsyWXJvWjJ5TWhXLVNnZlAxdW1STUNGRUZ0VlM5WXhzTHJmVm1BMnRqY01mUG9LSElnVWNVUEdtYzh0cG9ZaFpsdXJidGQ4X2dBZERHS25kNy1NRGp0Mk5zbEVtMFU?oc=5)
+
+2026-09-25
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUE9PeUQyeGpEN0hHT1VtQ1dkUjB2VDhYVTNCY19ackpDcGsyWXJvWjJ5TWhXLVNnZlAxdW1STUNGRUZ0VlM5WXhzTHJmVm1BMnRqY01mUG9LSElnVWNVUEdtYzh0cG9ZaFpsdXJidGQ4X2dBZERHS25kNy1NRGp0Mk5zbEVtMFU?oc=5)
 
 ---
 

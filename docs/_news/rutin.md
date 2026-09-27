@@ -14,7 +14,7 @@ permalink: /news/rutin/
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>13 news articles</strong>, with 0 predicted indications.
+<strong>Rutin</strong> currently has <strong>15 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,7 +28,23 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
+## Related News (15)
+
+### [Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression](https://news.google.com/rss/articles/CBMib0FVX3lxTE0zVVpsX0dUaWU1SDZzRVdFM24xbHhhVVVLUzdKS05aUzZuV1NCNlZIS1VzeUlDdXUxQmtESm1kSnIta3BuWDVsanFiSFZCM0lNamlkSjhUbWNwYjFobnNaOWRxczRfQWFPTm5zNkJsYw?oc=5)
+
+2026-09-27 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0zVVpsX0dUaWU1SDZzRVdFM24xbHhhVVVLUzdKS05aUzZuV1NCNlZIS1VzeUlDdXUxQmtESm1kSnIta3BuWDVsanFiSFZCM0lNamlkSjhUbWNwYjFobnNaOWRxczRfQWFPTm5zNkJsYw?oc=5)
+
+---
+
+### [Asteroid samples from NASA's epic OSIRIS-REx mission show Bennu was born from fire and ice](https://news.google.com/rss/articles/CBMiywFBVV95cUxNZWQ1cEZNRG1PZTJ6Q2V4WklHLWxrWERYbTZ2bUZ1NW92clpHRGVvTkpmU1JmajFiZXplM2s3aU1COTVZb0NYVjJpcDBPV3o5MWZja3dSSjdmSWZhTW4zVURWSDhZNmRNSU81ZTlyQjJwc3RRb2poTWc2cnpWVFQyVVc4eWYtOUNuX3h4SHZDc3IzS1p2bF9zREJWdnRPQnlFWU5NX3dDdVJySzFPMzltX2hTQjBpVFE4VTBveElGeTByR1hjTDdwYmk3Yw?oc=5)
+
+2026-09-27 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Space](https://news.google.com/rss/articles/CBMiywFBVV95cUxNZWQ1cEZNRG1PZTJ6Q2V4WklHLWxrWERYbTZ2bUZ1NW92clpHRGVvTkpmU1JmajFiZXplM2s3aU1COTVZb0NYVjJpcDBPV3o5MWZja3dSSjdmSWZhTW4zVURWSDhZNmRNSU81ZTlyQjJwc3RRb2poTWc2cnpWVFQyVVc4eWYtOUNuX3h4SHZDc3IzS1p2bF9zREJWdnRPQnlFWU5NX3dDdVJySzFPMzltX2hTQjBpVFE4VTBveElGeTByR1hjTDdwYmk3Yw?oc=5)
+
+---
 
 ### [What Happens to Your Brain When You Read, According to a New Study](https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2ZJWFpvRWd1a0xMbzI2LVZmZVRiRkVEMTZGT3hKc3NGM3pBSlMySjEzOC1BTm1CZzBKQWNPejU3VEN3SEwzOHBCYTVabHJwWGNqT01YRmUxSXpGbzlZVnJaRllVOEs0cEc2NnRwZVFTQUVJUVphMkxqS2pITkNQUkRzNnVveUJoUXc?oc=5)
 
@@ -46,11 +62,11 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMidkFVX3lxTE9VUVNzT2xS
 
 ---
 
-### [New research finds 485 chemicals in US pesticide products linked to breast cancer - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONW9pOHY0a0ZEdFpVVl9Wc2psNWdlVExMaFNSZDg0M0dnUGdWcGpQV2xzczBjbjdxVzFBNmdBTGRGTUMyNjBMZmxzV3pya0dxakZIVUhwM2NXODFaLU5tQndRQ252U0RReTlNOV9jdzNoWTFMUU1rQVZ3bDZtUjEyc0l6Ni1ZTURLQl9v?oc=5)
+### [New research finds 485 chemicals in US pesticide products linked to breast cancer](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONW9pOHY0a0ZEdFpVVl9Wc2psNWdlVExMaFNSZDg0M0dnUGdWcGpQV2xzczBjbjdxVzFBNmdBTGRGTUMyNjBMZmxzV3pya0dxakZIVUhwM2NXODFaLU5tQndRQ252U0RReTlNOV9jdzNoWTFMUU1rQVZ3bDZtUjEyc0l6Ni1ZTURLQl9v?oc=5)
 
 2026-09-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONW9pOHY0a0ZEdFpVVl9Wc2psNWdlVExMaFNSZDg0M0dnUGdWcGpQV2xzczBjbjdxVzFBNmdBTGRGTUMyNjBMZmxzV3pya0dxakZIVUhwM2NXODFaLU5tQndRQ252U0RReTlNOV9jdzNoWTFMUU1rQVZ3bDZtUjEyc0l6Ni1ZTURLQl9v?oc=5)
+Source: [theguardian.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONW9pOHY0a0ZEdFpVVl9Wc2psNWdlVExMaFNSZDg0M0dnUGdWcGpQV2xzczBjbjdxVzFBNmdBTGRGTUMyNjBMZmxzV3pya0dxakZIVUhwM2NXODFaLU5tQndRQ252U0RReTlNOV9jdzNoWTFMUU1rQVZ3bDZtUjEyc0l6Ni1ZTURLQl9v?oc=5)
 
 ---
 
@@ -70,11 +86,11 @@ Source: [KSL.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdUE5cEtUU
 
 ---
 
-### [Never smoked a cigarette? You could still be at higher risk for lung cancer - Fox News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQak1FdXpfaFlJSm5tblhVREh3WFRRZEk1UXVOb3pLUnF3d1FIQ1BRU0g5di14UzdTS21RV1FzNWhNT2wxLXlKS08wMWE2b1paVlRYLW9QRElMUUtVbnZDZzVWOW9uVjNQcVl4cHhjNmkxLVVVOFdSSS1PM1pFS1NneVlCZklhV2FwWEpwZ2xLdUZfNUHSAZgBQVVfeXFMUDY4R1JZRlEtZEpZMUo4bEJjSjRXdWlfWVZCVno4TkdQQUt6dFJhRFI1cTdOR1otRHR6U3VnWDNHNzE3VWtsaGVhTW9VT0ZFMFdHTGpQVVgyempVVzc0SmJsYWMta1FFeVhkeWVpZ2ZSQWRaM2NHQjZTMk5PS0VST0VDSHFLdkw3UkhSMHVhSjJvV2xWRzdXNks?oc=5)
+### [‘Gamechanging’ brain tumour test reduces diagnosis from eight weeks to two hours](https://news.google.com/rss/articles/CBMiugFBVV95cUxPd0g3cmgyWnE0bTFKVDRrUFBZWkNxcUxiZXN6Q1VHMUxTdzRpdkN6VVNpV0ZpVnVKdGFwNE9PbkZXVVZHUEZKaG1xTnlyRlVVTXVNdjlrLWhVVi1lYlZIcWxmUnp0MzNFT1JwaF81Y3NjLTA3RjJwbnVmQ1JobzRNalBsQ3hrZ1lJZ2VFNFpqYnljS014UmdBR0ppeXhReVJVT0JSQVlKRS1rYzV6SW8wNUs5U01RXzRHbGc?oc=5)
 
-2026-09-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-09-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [Fox News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQak1FdXpfaFlJSm5tblhVREh3WFRRZEk1UXVOb3pLUnF3d1FIQ1BRU0g5di14UzdTS21RV1FzNWhNT2wxLXlKS08wMWE2b1paVlRYLW9QRElMUUtVbnZDZzVWOW9uVjNQcVl4cHhjNmkxLVVVOFdSSS1PM1pFS1NneVlCZklhV2FwWEpwZ2xLdUZfNUHSAZgBQVVfeXFMUDY4R1JZRlEtZEpZMUo4bEJjSjRXdWlfWVZCVno4TkdQQUt6dFJhRFI1cTdOR1otRHR6U3VnWDNHNzE3VWtsaGVhTW9VT0ZFMFdHTGpQVVgyempVVzc0SmJsYWMta1FFeVhkeWVpZ2ZSQWRaM2NHQjZTMk5PS0VST0VDSHFLdkw3UkhSMHVhSjJvV2xWRzdXNks?oc=5)
+Source: [theguardian.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxPd0g3cmgyWnE0bTFKVDRrUFBZWkNxcUxiZXN6Q1VHMUxTdzRpdkN6VVNpV0ZpVnVKdGFwNE9PbkZXVVZHUEZKaG1xTnlyRlVVTXVNdjlrLWhVVi1lYlZIcWxmUnp0MzNFT1JwaF81Y3NjLTA3RjJwbnVmQ1JobzRNalBsQ3hrZ1lJZ2VFNFpqYnljS014UmdBR0ppeXhReVJVT0JSQVlKRS1rYzV6SW8wNUs5U01RXzRHbGc?oc=5)
 
 ---
 
@@ -106,7 +122,7 @@ Source: [USA Today](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbFQ4Zzd
 
 2026-09-25 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">influenza</span> <span class="news-indication-tag">UC</span>
 
-Source: [today.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZjlVOGYxeHQ5WTdLRG9xZXkwUlBqR0hMTmoxejYtekZSVXVVNF9FTkw0c0J6clNNQXJ4eDcyMWFFb05nV3YwbjFkVXlkeXVXaURUMThsQkpCREJpMzRYM29reGc4WHFNRkVTd1psWTYzQ0ZOaEQtQno1bXVhbkllZjNNTjd1dDRvamxyVl96SQ?oc=5)
+Source: [TODAY.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZjlVOGYxeHQ5WTdLRG9xZXkwUlBqR0hMTmoxejYtekZSVXVVNF9FTkw0c0J6clNNQXJ4eDcyMWFFb05nV3YwbjFkVXlkeXVXaURUMThsQkpCREJpMzRYM29reGc4WHFNRkVTd1psWTYzQ0ZOaEQtQno1bXVhbkllZjNNTjd1dDRvamxyVl96SQ?oc=5)
 
 ---
 

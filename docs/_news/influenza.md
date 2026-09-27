@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 3 articles, 2 related drugs."
+description: "Health news about flu (influenza). 2 articles, 2 related drugs."
 permalink: /news/influenza/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/influenza/
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>3 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>2 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,13 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (3)
+## Related News (2)
 
-### [Here's what you need to know about COVID-19 and flu vaccines in Minnesota this fall - MPR News](https://news.google.com/rss/articles/CBMivwFBVV95cUxOUTRJUElRbjRnVlo5Z1R0cGhFQU4yb1BlY0VOc3c2YWp0cVp0WmZUQktQc2c3d3BzOC1HX3lqNXExdXhsVTM2YnRyMFBpeTAtQS1qSVhOV1gyRG9CaWFaR0tiODRzQm56SFR5RHh3cEtJbC1DWHZkcVBMR2ZDVmUzSmlfSGUyVjJuVVNfWEs2MGZ4MTdHcXprMFdtMGh0QTZwdTNIR05nbVl6bXBpSzNRbWo4dGgzX2gyd0dlWV9NVQ?oc=5)
+### [Should you really get a new Covid shot in 2026? - Daily Kos](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMjlPLXJpem9BbnRSM0FZZEhYX1k5SlU2LUh4MldHY0RBbmdsRTFfbXpxT2lUdjA5R3UxMFFIWklrZXdybnZhd2pFdEJkcG5IS1BLTndtV19aT2R4Wm9MUWpUUHc3YnZlS2ljNklrdVRmY1g2MHNUVWNjbDJfd2lWQjNXU18zUmR5WjNVMFE0dVhhYUdKM09pNW1jNEZ6LWprR19pXzE3M3p3eVQ2cnlF?oc=5)
 
-2026-09-25
+2026-09-26
 
-Source: [MPR News](https://news.google.com/rss/articles/CBMivwFBVV95cUxOUTRJUElRbjRnVlo5Z1R0cGhFQU4yb1BlY0VOc3c2YWp0cVp0WmZUQktQc2c3d3BzOC1HX3lqNXExdXhsVTM2YnRyMFBpeTAtQS1qSVhOV1gyRG9CaWFaR0tiODRzQm56SFR5RHh3cEtJbC1DWHZkcVBMR2ZDVmUzSmlfSGUyVjJuVVNfWEs2MGZ4MTdHcXprMFdtMGh0QTZwdTNIR05nbVl6bXBpSzNRbWo4dGgzX2gyd0dlWV9NVQ?oc=5)
-
----
-
-### [How long does flu shot last? What experts say this fall - Detroit Free Press](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcUtzQjFZTmZBc3pSSTJFX1RBZmhlNE9QelJCa2VOLWVqYTRVX1BkVVNJWmdxNWVmMGhRM3hrRnctYlZRSk9qQU9lOFd1NnBGYlkwUzk2b0k4djlZSW9YQ1BNU001RzFqWW9PTC1RdS1oMFNUZDNUMEJVdDcyanFPbUxEclF2Z2RXa3ZkVlhuZXdyaTFFTWNpSXJaeWdRanpHY2lBQ0RyYmE?oc=5)
-
-2026-09-25
-
-Source: [Detroit Free Press](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcUtzQjFZTmZBc3pSSTJFX1RBZmhlNE9QelJCa2VOLWVqYTRVX1BkVVNJWmdxNWVmMGhRM3hrRnctYlZRSk9qQU9lOFd1NnBGYlkwUzk2b0k4djlZSW9YQ1BNU001RzFqWW9PTC1RdS1oMFNUZDNUMEJVdDcyanFPbUxEclF2Z2RXa3ZkVlhuZXdyaTFFTWNpSXJaeWdRanpHY2lBQ0RyYmE?oc=5)
+Source: [Daily Kos](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMjlPLXJpem9BbnRSM0FZZEhYX1k5SlU2LUh4MldHY0RBbmdsRTFfbXpxT2lUdjA5R3UxMFFIWklrZXdybnZhd2pFdEJkcG5IS1BLTndtV19aT2R4Wm9MUWpUUHc3YnZlS2ljNklrdVRmY1g2MHNUVWNjbDJfd2lWQjNXU18zUmR5WjNVMFE0dVhhYUdKM09pNW1jNEZ6LWprR19pXzE3M3p3eVQ2cnlF?oc=5)
 
 ---
 
@@ -52,7 +44,7 @@ Source: [Detroit Free Press](https://news.google.com/rss/articles/CBMiqAFBVV95cU
 
 2026-09-25
 
-Source: [today.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZjlVOGYxeHQ5WTdLRG9xZXkwUlBqR0hMTmoxejYtekZSVXVVNF9FTkw0c0J6clNNQXJ4eDcyMWFFb05nV3YwbjFkVXlkeXVXaURUMThsQkpCREJpMzRYM29reGc4WHFNRkVTd1psWTYzQ0ZOaEQtQno1bXVhbkllZjNNTjd1dDRvamxyVl96SQ?oc=5)
+Source: [TODAY.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZjlVOGYxeHQ5WTdLRG9xZXkwUlBqR0hMTmoxejYtekZSVXVVNF9FTkw0c0J6clNNQXJ4eDcyMWFFb05nV3YwbjFkVXlkeXVXaURUMThsQkpCREJpMzRYM29reGc4WHFNRkVTd1psWTYzQ0ZOaEQtQno1bXVhbkllZjNNTjd1dDRvamxyVl96SQ?oc=5)
 
 ---
 

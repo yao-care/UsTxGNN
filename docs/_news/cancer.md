@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "cancer News"
+title: "tumor (cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 5 articles, 1 related drugs."
+description: "Health news about tumor (cancer). 6 articles, 1 related drugs."
 permalink: /news/cancer/
 ---
 
-# cancer News
+# tumor (cancer) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>5 news articles</strong> and 1 related drugs.
+<p class="key-answer" data-question="What news is there about tumor (cancer)?">
+<strong>tumor (cancer)</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “cancer” and lists the drugs in the UsTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “tumor” and lists the drugs in the UsTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -29,7 +29,15 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [Community Rallies Around Janson - JoCo Report](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sUzZsd3lIcWp4UnhyLU5PcUlJTG1MSE5jVlJWbl9WYXJuMzhfZ0QyZWplcUU5UnlpdXNhdF9pNmdrRWw0c1NuQVl1YWhsSFlEOFhtWFJqMnBWdmVIWUEwQmxSX3R5UQ?oc=5)
+
+2026-09-27
+
+Source: [JoCo Report](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sUzZsd3lIcWp4UnhyLU5PcUlJTG1MSE5jVlJWbl9WYXJuMzhfZ0QyZWplcUU5UnlpdXNhdF9pNmdrRWw0c1NuQVl1YWhsSFlEOFhtWFJqMnBWdmVIWUEwQmxSX3R5UQ?oc=5)
+
+---
 
 ### [New research finds 485 chemicals in US pesticide products linked to breast cancer - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONW9pOHY0a0ZEdFpVVl9Wc2psNWdlVExMaFNSZDg0M0dnUGdWcGpQV2xzczBjbjdxVzFBNmdBTGRGTUMyNjBMZmxzV3pya0dxakZIVUhwM2NXODFaLU5tQndRQ252U0RReTlNOV9jdzNoWTFMUU1rQVZ3bDZtUjEyc0l6Ni1ZTURLQl9v?oc=5)
 
@@ -47,19 +55,19 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxPd0g3
 
 ---
 
-### [Popular weight-loss drugs may play surprising role in cancer outcomes](https://news.google.com/rss/articles/CBMimAFBVV95cUxQSjl4X2Q4THlOYmU2cEd3SXNVSUNGMk0yc1pOV0dkRTRBUDUxTXRYY19waTd2WkJySGV2QkJFTGsyc25meF85MzNFeFVTMDkxUXN1NEdiVkhobnZqWktrRFktekxEM01KeTlCMU9hZDh2RmRQa1RUVW9KV3lGUXpEb1R4SGVpcl83RGZiQzlPcnpxdFJwLXZLYtIBngFBVV95cUxNbVREYWhVYVVFbDhHSTd0bE1pSlE1aTJSM1NLVThOWFVGeTYzMTRxMXdlZHB1cnlaZ1V0dXF4dGlaY2x1NHFYTzZsa1Rqc1FGWDE4NkdsQXI4NHVIMXhod3p3YUtOY1prVWNLWi1HVjFHRHZyZXl4RXhUZ0xPZWRXdXNQSkhXczY0TENSNDZtTTFxQk96NjlKMXVMRDJ3UQ?oc=5)
+### [Cancer surgeon reveals link between GLP-1 medications and cancer outcomes](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOHgyX21RekpiRHlISUY4R21lbVhnSmI0SkdoREs3enpHVGJMWnFMaVRTeDZsc3A1RGNabUR4a005ZkltU3VyWjlQbVU1aVh5R0ZyS1gzQWdnVURVWUNKLXVSUl9Xbl9iWm5oTTEtZjlQRTZBNWhEQXJXQUhHTlJuYUs2N291U1FlU3k0?oc=5)
 
 2026-09-25
 
-Source: [foxnews.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxQSjl4X2Q4THlOYmU2cEd3SXNVSUNGMk0yc1pOV0dkRTRBUDUxTXRYY19waTd2WkJySGV2QkJFTGsyc25meF85MzNFeFVTMDkxUXN1NEdiVkhobnZqWktrRFktekxEM01KeTlCMU9hZDh2RmRQa1RUVW9KV3lGUXpEb1R4SGVpcl83RGZiQzlPcnpxdFJwLXZLYtIBngFBVV95cUxNbVREYWhVYVVFbDhHSTd0bE1pSlE1aTJSM1NLVThOWFVGeTYzMTRxMXdlZHB1cnlaZ1V0dXF4dGlaY2x1NHFYTzZsa1Rqc1FGWDE4NkdsQXI4NHVIMXhod3p3YUtOY1prVWNLWi1HVjFHRHZyZXl4RXhUZ0xPZWRXdXNQSkhXczY0TENSNDZtTTFxQk96NjlKMXVMRDJ3UQ?oc=5)
+Source: [Yahoo](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOHgyX21RekpiRHlISUY4R21lbVhnSmI0SkdoREs3enpHVGJMWnFMaVRTeDZsc3A1RGNabUR4a005ZkltU3VyWjlQbVU1aVh5R0ZyS1gzQWdnVURVWUNKLXVSUl9Xbl9iWm5oTTEtZjlQRTZBNWhEQXJXQUhHTlJuYUs2N291U1FlU3k0?oc=5)
 
 ---
 
-### [High-fat diet activates cellular repair pathway that helps colon cancer spread - Medical Xpress](https://news.google.com/rss/articles/CBMif0FVX3lxTE5DajJPb0NmdXhiMnpqTzIzUUVlOXN6MGJpUEhiTERGWUVzdzdJY3JUR0dkYlRPTl82Qm1SRHdXR1Q1NFBmdDdQOUdNbHUtWWxQeGJSVUh3dkhoQklxSGo4VTlXZFdyNFQ4MnJUcXV2ZG1teGdRaTZmRUl0TFhKczA?oc=5)
+### [The secret conversation between your brain and gut](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc1lITmI2amhON1g0bjBxdUpyMHdTcXVKVkc5NldlaFNkY0R5SmRUVW1sS3ZNem11ZjZjbjZqb2MtSXRvZ3FtSEl0T2tfMU9MNl9zVzRkZ0JPZF9leXpRTEI5eGw0d1FSY0NibjZOaUFmN2h3UkZCWTlRcklCR3RXUnRRWHl2MWV2?oc=5)
 
 2026-09-24
 
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMif0FVX3lxTE5DajJPb0NmdXhiMnpqTzIzUUVlOXN6MGJpUEhiTERGWUVzdzdJY3JUR0dkYlRPTl82Qm1SRHdXR1Q1NFBmdDdQOUdNbHUtWWxQeGJSVUh3dkhoQklxSGo4VTlXZFdyNFQ4MnJUcXV2ZG1teGdRaTZmRUl0TFhKczA?oc=5)
+Source: [CNN](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc1lITmI2amhON1g0bjBxdUpyMHdTcXVKVkc5NldlaFNkY0R5SmRUVW1sS3ZNem11ZjZjbjZqb2MtSXRvZ3FtSEl0T2tfMU9MNl9zVzRkZ0JPZF9leXpRTEI5eGw0d1FSY0NibjZOaUFmN2h3UkZCWTlRcklCR3RXUnRRWHl2MWV2?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 15 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 14 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/inflammatory-bowel-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>15 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>14 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (15)
+## Related News (14)
 
 ### [Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression](https://news.google.com/rss/articles/CBMib0FVX3lxTE0zVVpsX0dUaWU1SDZzRVdFM24xbHhhVVVLUzdKS05aUzZuV1NCNlZIS1VzeUlDdXUxQmtESm1kSnIta3BuWDVsanFiSFZCM0lNamlkSjhUbWNwYjFobnNaOWRxczRfQWFPTm5zNkJsYw?oc=5)
 
@@ -68,11 +68,11 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMidkFVX3lxTE9VUVNzT2xS
 
 ---
 
-### [New research finds 485 chemicals in US pesticide products linked to breast cancer](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONW9pOHY0a0ZEdFpVVl9Wc2psNWdlVExMaFNSZDg0M0dnUGdWcGpQV2xzczBjbjdxVzFBNmdBTGRGTUMyNjBMZmxzV3pya0dxakZIVUhwM2NXODFaLU5tQndRQ252U0RReTlNOV9jdzNoWTFMUU1rQVZ3bDZtUjEyc0l6Ni1ZTURLQl9v?oc=5)
+### [New research finds 485 chemicals in US pesticide products linked to breast cancer - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONW9pOHY0a0ZEdFpVVl9Wc2psNWdlVExMaFNSZDg0M0dnUGdWcGpQV2xzczBjbjdxVzFBNmdBTGRGTUMyNjBMZmxzV3pya0dxakZIVUhwM2NXODFaLU5tQndRQ252U0RReTlNOV9jdzNoWTFMUU1rQVZ3bDZtUjEyc0l6Ni1ZTURLQl9v?oc=5)
 
 2026-09-26
 
-Source: [theguardian.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONW9pOHY0a0ZEdFpVVl9Wc2psNWdlVExMaFNSZDg0M0dnUGdWcGpQV2xzczBjbjdxVzFBNmdBTGRGTUMyNjBMZmxzV3pya0dxakZIVUhwM2NXODFaLU5tQndRQ252U0RReTlNOV9jdzNoWTFMUU1rQVZ3bDZtUjEyc0l6Ni1ZTURLQl9v?oc=5)
+Source: [The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONW9pOHY0a0ZEdFpVVl9Wc2psNWdlVExMaFNSZDg0M0dnUGdWcGpQV2xzczBjbjdxVzFBNmdBTGRGTUMyNjBMZmxzV3pya0dxakZIVUhwM2NXODFaLU5tQndRQ252U0RReTlNOV9jdzNoWTFMUU1rQVZ3bDZtUjEyc0l6Ni1ZTURLQl9v?oc=5)
 
 ---
 
@@ -84,19 +84,19 @@ Source: [cbs8.com](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdXo0UWxQ
 
 ---
 
-### [12-year-olds with smartphones are more likely to develop eating disorders by 14](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdUE5cEtUUGdkYlllSXhjZXVHeVRETnJzYTBBTGdYUzdZdUpCNGxLOTNKOGRfQVpmM2R2Zld5cXl0ZHl5bG1lbHBWUjQxRVhxbE1oLTBYOFJzTnFaMHdIZkROUGtaOEV1eVBYck5SLUV2QW9sT0d4VkN4SUJHdk9TWmxEYzFKOU9CYzhPcEdORHdBSTVkbjBzWTBmeVFOVDVHZjVnMDhUdlVhN1BFMy05VGxwNUhuOFU?oc=5)
+### [5 Ways to Get Rid of Microplastics In Your Body - Verywell Health](https://news.google.com/rss/articles/CBMijAFBVV95cUxPaGFqczZlaFFzU0hpY2N4NTRoa3hheWxaN09zVDVXa01zaU42ckVaVlkyOUpkTC1BcVRUYWNJNVVTdFhyVGdXNER5S0N2bXVrVlU1M1lqRGdLdExSOExBVHFBUjh0ZjAzMkRPTzhfd3QwLXNCYWhaT3hieG5TQThab25fVWwyR3dORl83UQ?oc=5)
 
 2026-09-25
 
-Source: [KSL.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdUE5cEtUUGdkYlllSXhjZXVHeVRETnJzYTBBTGdYUzdZdUpCNGxLOTNKOGRfQVpmM2R2Zld5cXl0ZHl5bG1lbHBWUjQxRVhxbE1oLTBYOFJzTnFaMHdIZkROUGtaOEV1eVBYck5SLUV2QW9sT0d4VkN4SUJHdk9TWmxEYzFKOU9CYzhPcEdORHdBSTVkbjBzWTBmeVFOVDVHZjVnMDhUdlVhN1BFMy05VGxwNUhuOFU?oc=5)
+Source: [Verywell Health](https://news.google.com/rss/articles/CBMijAFBVV95cUxPaGFqczZlaFFzU0hpY2N4NTRoa3hheWxaN09zVDVXa01zaU42ckVaVlkyOUpkTC1BcVRUYWNJNVVTdFhyVGdXNER5S0N2bXVrVlU1M1lqRGdLdExSOExBVHFBUjh0ZjAzMkRPTzhfd3QwLXNCYWhaT3hieG5TQThab25fVWwyR3dORl83UQ?oc=5)
 
 ---
 
-### [‘Gamechanging’ brain tumour test reduces diagnosis from eight weeks to two hours](https://news.google.com/rss/articles/CBMiugFBVV95cUxPd0g3cmgyWnE0bTFKVDRrUFBZWkNxcUxiZXN6Q1VHMUxTdzRpdkN6VVNpV0ZpVnVKdGFwNE9PbkZXVVZHUEZKaG1xTnlyRlVVTXVNdjlrLWhVVi1lYlZIcWxmUnp0MzNFT1JwaF81Y3NjLTA3RjJwbnVmQ1JobzRNalBsQ3hrZ1lJZ2VFNFpqYnljS014UmdBR0ppeXhReVJVT0JSQVlKRS1rYzV6SW8wNUs5U01RXzRHbGc?oc=5)
+### [‘Gamechanging’ brain tumour test reduces diagnosis from eight weeks to two hours - The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxPd0g3cmgyWnE0bTFKVDRrUFBZWkNxcUxiZXN6Q1VHMUxTdzRpdkN6VVNpV0ZpVnVKdGFwNE9PbkZXVVZHUEZKaG1xTnlyRlVVTXVNdjlrLWhVVi1lYlZIcWxmUnp0MzNFT1JwaF81Y3NjLTA3RjJwbnVmQ1JobzRNalBsQ3hrZ1lJZ2VFNFpqYnljS014UmdBR0ppeXhReVJVT0JSQVlKRS1rYzV6SW8wNUs5U01RXzRHbGc?oc=5)
 
 2026-09-25
 
-Source: [theguardian.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxPd0g3cmgyWnE0bTFKVDRrUFBZWkNxcUxiZXN6Q1VHMUxTdzRpdkN6VVNpV0ZpVnVKdGFwNE9PbkZXVVZHUEZKaG1xTnlyRlVVTXVNdjlrLWhVVi1lYlZIcWxmUnp0MzNFT1JwaF81Y3NjLTA3RjJwbnVmQ1JobzRNalBsQ3hrZ1lJZ2VFNFpqYnljS014UmdBR0ppeXhReVJVT0JSQVlKRS1rYzV6SW8wNUs5U01RXzRHbGc?oc=5)
+Source: [The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxPd0g3cmgyWnE0bTFKVDRrUFBZWkNxcUxiZXN6Q1VHMUxTdzRpdkN6VVNpV0ZpVnVKdGFwNE9PbkZXVVZHUEZKaG1xTnlyRlVVTXVNdjlrLWhVVi1lYlZIcWxmUnp0MzNFT1JwaF81Y3NjLTA3RjJwbnVmQ1JobzRNalBsQ3hrZ1lJZ2VFNFpqYnljS014UmdBR0ppeXhReVJVT0JSQVlKRS1rYzV6SW8wNUs5U01RXzRHbGc?oc=5)
 
 ---
 
@@ -105,6 +105,14 @@ Source: [theguardian.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxPd
 2026-09-25
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMipwFBVV95cUxQLVJ2QkZsRkRVam1DTjJLVzZ0dnY0TV9GUUdESHhzMGpVR2pVZ0pSRml4VVo3SXVhSEJTQVFzYnRKNFNvRUJTS01PNGU1VlJhWElzdnBIZ1FtNDhYakR5MGdZRVg1RVBNNFNzTnhuUlYway1XUnhIT0pFSGJMaTBwYUVEMHJjNGdPUkUzZDFDQTRGRExVVGRXTjhoZnVsZHZZWTlCcHJKMA?oc=5)
+
+---
+
+### [Giving a tween a smartphone may increase the risk of body image issues and unhealthy eating](https://news.google.com/rss/articles/CBMihgFBVV95cUxQVTBqYXI3ZFlFSjJ0djhvTlJ5TWxnakJtS29nU2R0MHJLbHVJb1E0azFmeUtlMlhLOXlPc0M2Sm91aTNRTmF1S3lJU2wwaHM1N0JxdjYxWUttVWxKakZ3WFBJYkYzQWVuUFlyN3VlellsTEN4Yi00Q3RyU2hzcXdVTzNzeEFhQQ?oc=5)
+
+2026-09-25
+
+Source: [CNN](https://news.google.com/rss/articles/CBMihgFBVV95cUxQVTBqYXI3ZFlFSjJ0djhvTlJ5TWxnakJtS29nU2R0MHJLbHVJb1E0azFmeUtlMlhLOXlPc0M2Sm91aTNRTmF1S3lJU2wwaHM1N0JxdjYxWUttVWxKakZ3WFBJYkYzQWVuUFlyN3VlellsTEN4Yi00Q3RyU2hzcXdVTzNzeEFhQQ?oc=5)
 
 ---
 
@@ -129,22 +137,6 @@ Source: [USA Today](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbFQ4Zzd
 2026-09-25
 
 Source: [TODAY.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZjlVOGYxeHQ5WTdLRG9xZXkwUlBqR0hMTmoxejYtekZSVXVVNF9FTkw0c0J6clNNQXJ4eDcyMWFFb05nV3YwbjFkVXlkeXVXaURUMThsQkpCREJpMzRYM29reGc4WHFNRkVTd1psWTYzQ0ZOaEQtQno1bXVhbkllZjNNTjd1dDRvamxyVl96SQ?oc=5)
-
----
-
-### [Cholesterol control gets personalized – a cardiologist explains how new guidelines tailor treatment to your unique risk profile](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUEhORGpSeGJsZmQ3cDQ4dkhramlVc2VEYzJiZGd6dFU2V0hFemVUZ1c0ODBKODZzN0JldzdzTGNRbjJKNmZoeUgxaEJZNDNNLWw0QXdEUkpmOVBoX1dxejFVQXRHOUFOUlBibjF3djJRRXp3amVGVnpYSGdIcnh1T3FMa2hKWHF2dWoycUhSdXJCaFVacmRiQkJZVTQ5Y1hYTnlHRDRBQ1NsV1U5M0kzQ184ZGpOSzdSaGNOaDN5T0FDczFfWHozc3o5ejJvTUhsVG1fVmo1THV3WG9TTWgzOWxwME5DbkhGRW12dzRsR1J1UQ?oc=5)
-
-2026-09-24
-
-Source: [theconversation.com](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUEhORGpSeGJsZmQ3cDQ4dkhramlVc2VEYzJiZGd6dFU2V0hFemVUZ1c0ODBKODZzN0JldzdzTGNRbjJKNmZoeUgxaEJZNDNNLWw0QXdEUkpmOVBoX1dxejFVQXRHOUFOUlBibjF3djJRRXp3amVGVnpYSGdIcnh1T3FMa2hKWHF2dWoycUhSdXJCaFVacmRiQkJZVTQ5Y1hYTnlHRDRBQ1NsV1U5M0kzQ184ZGpOSzdSaGNOaDN5T0FDczFfWHozc3o5ejJvTUhsVG1fVmo1THV3WG9TTWgzOWxwME5DbkhGRW12dzRsR1J1UQ?oc=5)
-
----
-
-### [Researchers Reconstruct Face of Oldest Known Homo sapiens](https://news.google.com/rss/articles/CBMikwFBVV95cUxNcGV4RFZmS1czbEkxR1I5eXdLaW40MHlRSnRQVkcyMVNiZ1NEZjRDQ0NvcFZySHQ1b2IyVExVYkkwNGVNamlPQjdoc2NfV2dSZVJsSVV1U1RDR0VWV2tXYXRCY0JiYmJhcDF4eC03NkxOR05ETUJSaXhmbWRpNEVlR3haeElCbGw1WFBaWXFqeTZsYU0?oc=5)
-
-2026-09-23
-
-Source: [Sci.News](https://news.google.com/rss/articles/CBMikwFBVV95cUxNcGV4RFZmS1czbEkxR1I5eXdLaW40MHlRSnRQVkcyMVNiZ1NEZjRDQ0NvcFZySHQ1b2IyVExVYkkwNGVNamlPQjdoc2NfV2dSZVJsSVV1U1RDR0VWV2tXYXRCY0JiYmJhcDF4eC03NkxOR05ETUJSaXhmbWRpNEVlR3haeElCbGw1WFBaWXFqeTZsYU0?oc=5)
 
 ---
 

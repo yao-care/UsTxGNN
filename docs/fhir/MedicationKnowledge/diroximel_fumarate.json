@@ -1,0 +1,32 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "diroximel_fumarate",
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://www.drugbank.ca",
+        "code": "DB14783",
+        "display": "Diroximel Fumarate"
+      }
+    ],
+    "text": "Diroximel Fumarate"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "US",
+          "display": "United States of America"
+        }
+      ]
+    }
+  ],
+  "extension": [
+    {
+      "url": "https://ustxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

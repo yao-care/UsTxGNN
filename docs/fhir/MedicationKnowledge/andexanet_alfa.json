@@ -1,0 +1,32 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "andexanet_alfa",
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://www.drugbank.ca",
+        "code": "DB14562",
+        "display": "Andexanet Alfa"
+      }
+    ],
+    "text": "Andexanet Alfa"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "US",
+          "display": "United States of America"
+        }
+      ]
+    }
+  ],
+  "extension": [
+    {
+      "url": "https://ustxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

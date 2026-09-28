@@ -1,0 +1,32 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "sodium_ferric_gluconate_complex",
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://www.drugbank.ca",
+        "code": "DB09517",
+        "display": "Sodium Ferric Gluconate Complex"
+      }
+    ],
+    "text": "Sodium Ferric Gluconate Complex"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "US",
+          "display": "United States of America"
+        }
+      ]
+    }
+  ],
+  "extension": [
+    {
+      "url": "https://ustxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

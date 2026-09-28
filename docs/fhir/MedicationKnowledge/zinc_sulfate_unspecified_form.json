@@ -1,0 +1,32 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "zinc_sulfate_unspecified_form",
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://www.drugbank.ca",
+        "code": "DB14548",
+        "display": "Zinc Sulfate Unspecified Form"
+      }
+    ],
+    "text": "Zinc Sulfate Unspecified Form"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "US",
+          "display": "United States of America"
+        }
+      ]
+    }
+  ],
+  "extension": [
+    {
+      "url": "https://ustxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

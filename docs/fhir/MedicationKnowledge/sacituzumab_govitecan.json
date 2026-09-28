@@ -1,0 +1,32 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "sacituzumab_govitecan",
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://www.drugbank.ca",
+        "code": "DB12893",
+        "display": "Sacituzumab Govitecan"
+      }
+    ],
+    "text": "Sacituzumab Govitecan"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "US",
+          "display": "United States of America"
+        }
+      ]
+    }
+  ],
+  "extension": [
+    {
+      "url": "https://ustxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

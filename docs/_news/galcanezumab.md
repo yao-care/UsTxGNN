@@ -3,7 +3,7 @@ layout: default
 title: "Galcanezumab News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Galcanezumab. Original indication: . 0 predicted indications."
+description: "Health news related to Galcanezumab. Original indication: . 3 predicted indications."
 permalink: /news/galcanezumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/galcanezumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Galcanezumab?">
-<strong>Galcanezumab</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Galcanezumab</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,11 @@ This page combines the AI-predicted indications for Galcanezumab with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Predicted indications (3)</strong>:<ul>
+<li>heparin cofactor 2 deficiency (99.5%)</li>
+<li>antithrombin deficiency type 2 (99.4%)</li>
+<li>factor 5 excess with spontaneous thrombosis (99.4%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/galcanezumab/' | relative_url }}">View full drug report →</a></p>
 </div>

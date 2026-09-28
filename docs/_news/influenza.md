@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 3 articles, 2 related drugs."
+description: "Health news about flu (influenza). 4 articles, 2 related drugs."
 permalink: /news/influenza/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/influenza/
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>3 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>4 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
 
-### [Should you really get a new Covid shot in 2026?](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMjlPLXJpem9BbnRSM0FZZEhYX1k5SlU2LUh4MldHY0RBbmdsRTFfbXpxT2lUdjA5R3UxMFFIWklrZXdybnZhd2pFdEJkcG5IS1BLTndtV19aT2R4Wm9MUWpUUHc3YnZlS2ljNklrdVRmY1g2MHNUVWNjbDJfd2lWQjNXU18zUmR5WjNVMFE0dVhhYUdKM09pNW1jNEZ6LWprR19pXzE3M3p3eVQ2cnlF?oc=5)
+### [Why this WA flu season will be one to watch - The Seattle Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxQdGs5czdHck1HNEVQSm55UlhIb3VaMFQtUVl0ZlFOS1FSb3hCQnR1Um1XZTJCcF9PWDJLUU1JLVkxcWRIQzJLSW95X2gzUnZXRWdxQi1ucmtXZ1RMclZCalhIU2dvb2xvblUySDM1ZTdWdFIzdmVLR3dQR052MG1RbjMyQWdBdDJaUEtIaTIxSFQ4OHRQNkQ0OUpuWVI0VllqZVdGUzdR?oc=5)
+
+2026-09-28
+
+Source: [The Seattle Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxQdGs5czdHck1HNEVQSm55UlhIb3VaMFQtUVl0ZlFOS1FSb3hCQnR1Um1XZTJCcF9PWDJLUU1JLVkxcWRIQzJLSW95X2gzUnZXRWdxQi1ucmtXZ1RMclZCalhIU2dvb2xvblUySDM1ZTdWdFIzdmVLR3dQR052MG1RbjMyQWdBdDJaUEtIaTIxSFQ4OHRQNkQ0OUpuWVI0VllqZVdGUzdR?oc=5)
+
+---
+
+### [Scientists Put Anti-Aging Treatments to the Test – These Ones Actually Changed Biological Age](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQnM0cUhicDl3WXJzNGR0amdJR3AxdG1hOFo0Ny02NF9zQmtiWkM4ZWJqM3JrSzE3SWpHeURENDJmYzduOHl2ZDhlMW5rbHByM2hMS3RRSVI2RFlEVERnSC1kbU4wSE8xUmxqQXlHZHpFbDdTTlhRcElVV2NsQjBkdUQtdGdacDc2T2c1aGlRMW9ib091RE0tTHNfT0dnTk9DT1Zmb3JrN3lvTk4wcHN0VVhQQVhIYmo2?oc=5)
 
 2026-09-26
 
-Source: [dailykos.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMjlPLXJpem9BbnRSM0FZZEhYX1k5SlU2LUh4MldHY0RBbmdsRTFfbXpxT2lUdjA5R3UxMFFIWklrZXdybnZhd2pFdEJkcG5IS1BLTndtV19aT2R4Wm9MUWpUUHc3YnZlS2ljNklrdVRmY1g2MHNUVWNjbDJfd2lWQjNXU18zUmR5WjNVMFE0dVhhYUdKM09pNW1jNEZ6LWprR19pXzE3M3p3eVQ2cnlF?oc=5)
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQnM0cUhicDl3WXJzNGR0amdJR3AxdG1hOFo0Ny02NF9zQmtiWkM4ZWJqM3JrSzE3SWpHeURENDJmYzduOHl2ZDhlMW5rbHByM2hMS3RRSVI2RFlEVERnSC1kbU4wSE8xUmxqQXlHZHpFbDdTTlhRcElVV2NsQjBkdUQtdGdacDc2T2c1aGlRMW9ib091RE0tTHNfT0dnTk9DT1Zmb3JrN3lvTk4wcHN0VVhQQVhIYmo2?oc=5)
 
 ---
 
@@ -48,11 +56,11 @@ Source: [TribLIVE.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxPdXR4
 
 ---
 
-### [This Seasonal Habit Promotes Healthy Aging and May Reduce Dementia Risk in Older People](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZjlVOGYxeHQ5WTdLRG9xZXkwUlBqR0hMTmoxejYtekZSVXVVNF9FTkw0c0J6clNNQXJ4eDcyMWFFb05nV3YwbjFkVXlkeXVXaURUMThsQkpCREJpMzRYM29reGc4WHFNRkVTd1psWTYzQ0ZOaEQtQno1bXVhbkllZjNNTjd1dDRvamxyVl96SQ?oc=5)
+### [Should you get a covid vaccine this fall? Here’s what to know. - The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxORUs4cjJXMTc3X1ZZUEpiVVhTZWV4QXhRbzRQSjl6OG9ROG5jczNmcXRFRktJWHY2eUhFUDkyTTM5TmhiZVlCQ2dkb2pRRWpuMDdmV0pkSFJSa1FvbkpFNzNwc0VjTURFQ0lXR1Vaa0ZkWC1Nc2RjaHpvV2RUdGV1XzlYbDljaTF6WGVqM29xeW5aLXZGQnRJbDJMNTFLMmxabUZpdl9POUtNMm14?oc=5)
 
-2026-09-25
+2026-09-22
 
-Source: [TODAY.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZjlVOGYxeHQ5WTdLRG9xZXkwUlBqR0hMTmoxejYtekZSVXVVNF9FTkw0c0J6clNNQXJ4eDcyMWFFb05nV3YwbjFkVXlkeXVXaURUMThsQkpCREJpMzRYM29reGc4WHFNRkVTd1psWTYzQ0ZOaEQtQno1bXVhbkllZjNNTjd1dDRvamxyVl96SQ?oc=5)
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxORUs4cjJXMTc3X1ZZUEpiVVhTZWV4QXhRbzRQSjl6OG9ROG5jczNmcXRFRktJWHY2eUhFUDkyTTM5TmhiZVlCQ2dkb2pRRWpuMDdmV0pkSFJSa1FvbkpFNzNwc0VjTURFQ0lXR1Vaa0ZkWC1Nc2RjaHpvV2RUdGV1XzlYbDljaTF6WGVqM29xeW5aLXZGQnRJbDJMNTFLMmxabUZpdl9POUtNMm14?oc=5)
 
 ---
 

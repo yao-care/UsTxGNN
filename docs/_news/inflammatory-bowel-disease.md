@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 13 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 16 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/inflammatory-bowel-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>13 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>16 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,45 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (13)
+## Related News (16)
+
+### [Why this WA flu season will be one to watch - The Seattle Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxQdGs5czdHck1HNEVQSm55UlhIb3VaMFQtUVl0ZlFOS1FSb3hCQnR1Um1XZTJCcF9PWDJLUU1JLVkxcWRIQzJLSW95X2gzUnZXRWdxQi1ucmtXZ1RMclZCalhIU2dvb2xvblUySDM1ZTdWdFIzdmVLR3dQR052MG1RbjMyQWdBdDJaUEtIaTIxSFQ4OHRQNkQ0OUpuWVI0VllqZVdGUzdR?oc=5)
+
+2026-09-28
+
+Source: [The Seattle Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxQdGs5czdHck1HNEVQSm55UlhIb3VaMFQtUVl0ZlFOS1FSb3hCQnR1Um1XZTJCcF9PWDJLUU1JLVkxcWRIQzJLSW95X2gzUnZXRWdxQi1ucmtXZ1RMclZCalhIU2dvb2xvblUySDM1ZTdWdFIzdmVLR3dQR052MG1RbjMyQWdBdDJaUEtIaTIxSFQ4OHRQNkQ0OUpuWVI0VllqZVdGUzdR?oc=5)
+
+---
+
+### [An ancient human face emerges from pieced together Moroccan fossil remains](https://news.google.com/rss/articles/CBMifEFVX3lxTE01RG9yeEd3NHkwaFNGd3ZKUWt6dGVvTkpTWTdnMnM5SWgtcWRtOUlycnE5UWd0NjV4cEVLTzFkcUQwd0VyaDJmM05rbHdtNUFqU3VaX0h4Ti1keTlOLURfdWl5R1RMWnBqNmh1SkJkNzJtM3Q4SFYxTnBXblQ?oc=5)
+
+2026-09-28
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMifEFVX3lxTE01RG9yeEd3NHkwaFNGd3ZKUWt6dGVvTkpTWTdnMnM5SWgtcWRtOUlycnE5UWd0NjV4cEVLTzFkcUQwd0VyaDJmM05rbHdtNUFqU3VaX0h4Ti1keTlOLURfdWl5R1RMWnBqNmh1SkJkNzJtM3Q4SFYxTnBXblQ?oc=5)
+
+---
+
+### [Accelerated discovery of thermostable mRNA–lipid nanoparticle vaccines using data-efficient AI](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hN2lwaEZRZVlmem52b3M1d1JjN0pzVWEzVWh1a2wyY2xfRF9fOUxCa08wZDhOLVJtMXBSWlRSOGVQWFZGSGZYY09JNzZPcDJHdUFWbS0xVHd5TEZfTkNj?oc=5)
+
+2026-09-28
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hN2lwaEZRZVlmem52b3M1d1JjN0pzVWEzVWh1a2wyY2xfRF9fOUxCa08wZDhOLVJtMXBSWlRSOGVQWFZGSGZYY09JNzZPcDJHdUFWbS0xVHd5TEZfTkNj?oc=5)
+
+---
+
+### [Losing the Same Weight Didn’t Produce the Same Health Benefits](https://news.google.com/rss/articles/CBMikAFBVV95cUxQVXg3NENRbEZyekFMeG9wU2xfcVV1aEk0enNRYnVEZjd3b2k4b1MxWWNtQUpaZC1HWFFDdXlzd2lTeEtUUHR3ZW0zU0tVN0dRTkx0SjZ3amVya19QMldsMUZUbHZqUDZGQ0g4Vm5XY0kyckxMS3NWU2VhNnJMZTZnR2pZQ0tOQ29xQ0hDMF9JSDU?oc=5)
+
+2026-09-27
+
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMikAFBVV95cUxQVXg3NENRbEZyekFMeG9wU2xfcVV1aEk0enNRYnVEZjd3b2k4b1MxWWNtQUpaZC1HWFFDdXlzd2lTeEtUUHR3ZW0zU0tVN0dRTkx0SjZ3amVya19QMldsMUZUbHZqUDZGQ0g4Vm5XY0kyckxMS3NWU2VhNnJMZTZnR2pZQ0tOQ29xQ0hDMF9JSDU?oc=5)
+
+---
 
 ### [Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression](https://news.google.com/rss/articles/CBMib0FVX3lxTE0zVVpsX0dUaWU1SDZzRVdFM24xbHhhVVVLUzdKS05aUzZuV1NCNlZIS1VzeUlDdXUxQmtESm1kSnIta3BuWDVsanFiSFZCM0lNamlkSjhUbWNwYjFobnNaOWRxczRfQWFPTm5zNkJsYw?oc=5)
 
 2026-09-27
 
-Source: [sciencedaily.com](https://news.google.com/rss/articles/CBMib0FVX3lxTE0zVVpsX0dUaWU1SDZzRVdFM24xbHhhVVVLUzdKS05aUzZuV1NCNlZIS1VzeUlDdXUxQmtESm1kSnIta3BuWDVsanFiSFZCM0lNamlkSjhUbWNwYjFobnNaOWRxczRfQWFPTm5zNkJsYw?oc=5)
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0zVVpsX0dUaWU1SDZzRVdFM24xbHhhVVVLUzdKS05aUzZuV1NCNlZIS1VzeUlDdXUxQmtESm1kSnIta3BuWDVsanFiSFZCM0lNamlkSjhUbWNwYjFobnNaOWRxczRfQWFPTm5zNkJsYw?oc=5)
 
 ---
 
@@ -60,14 +92,6 @@ Source: [EatingWell](https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2ZJWF
 
 ---
 
-### [Black hole jets reach far beyond galaxies' visible edges, potentially deciding their fate](https://news.google.com/rss/articles/CBMidkFVX3lxTE9VUVNzT2xSdnpGeUwxOFlrSHVyTGQ3WUxCX1BsYnhfSEtmWlBzVXlVa2x5X0I1Z3lGT2VYZDhDdVZTSDg4UjlnMFRZeERHZU1FZS0yLUxTZ1NOSjBQRU16N3BNZUc0OHVGbmQ2UXRRNVg5Vk93ZWc?oc=5)
-
-2026-09-26
-
-Source: [Phys.org](https://news.google.com/rss/articles/CBMidkFVX3lxTE9VUVNzT2xSdnpGeUwxOFlrSHVyTGQ3WUxCX1BsYnhfSEtmWlBzVXlVa2x5X0I1Z3lGT2VYZDhDdVZTSDg4UjlnMFRZeERHZU1FZS0yLUxTZ1NOSjBQRU16N3BNZUc0OHVGbmQ2UXRRNVg5Vk93ZWc?oc=5)
-
----
-
 ### [New research finds 485 chemicals in US pesticide products linked to breast cancer - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONW9pOHY0a0ZEdFpVVl9Wc2psNWdlVExMaFNSZDg0M0dnUGdWcGpQV2xzczBjbjdxVzFBNmdBTGRGTUMyNjBMZmxzV3pya0dxakZIVUhwM2NXODFaLU5tQndRQ252U0RReTlNOV9jdzNoWTFMUU1rQVZ3bDZtUjEyc0l6Ni1ZTURLQl9v?oc=5)
 
 2026-09-26
@@ -76,11 +100,27 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONW9p
 
 ---
 
+### [This Nightly Habit Could Be Changing the Structure of Your Heart, New Study Says](https://news.google.com/rss/articles/CBMiekFVX3lxTE1CQjk2Nk1vSF8yeF84M2xoQkFoVVZKWWpibGFuMF9CX01EVjUzd3BpbXV1dWpMRVpiRGRaWmxGOVhaQmhNU1NpMmU3Nm9YcVRSMVN0REoxclpwazVsV0IzbXZnMXQ4UWpKUjRyWmpZNjctNVlHUGVGV0Nn?oc=5)
+
+2026-09-26
+
+Source: [EatingWell](https://news.google.com/rss/articles/CBMiekFVX3lxTE1CQjk2Nk1vSF8yeF84M2xoQkFoVVZKWWpibGFuMF9CX01EVjUzd3BpbXV1dWpMRVpiRGRaWmxGOVhaQmhNU1NpMmU3Nm9YcVRSMVN0REoxclpwazVsV0IzbXZnMXQ4UWpKUjRyWmpZNjctNVlHUGVGV0Nn?oc=5)
+
+---
+
 ### [West Nile virus cases in San Diego county hit 10-year high — how to protect yourself](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdXo0UWxQa2NOc0xwOTE5bkJ0NFVXWGVSUHdZNHZoNU4xU1RWLTJ2dlpMMlQxbjUtOTh1N1NqM041SV9GYzFTemgwdF8xTXMwdGNEOW53UjNmU0lCN18ySUt5TzRTV3MwLW04Y1hyZVhnczZ2UUh6RTJfTWNoR3hzMzEtclh1RWlwd2RjeWhQOUxwQmYxWGhwcUM3NEJ1STVZSW5LeDlvYnpaU0dQQmFGRkxCOVBjUFlOenJvLWU4M2hiZ2o2RlpQTWk0RzhXS2VrT3VoNkxUbFA?oc=5)
 
 2026-09-26
 
 Source: [cbs8.com](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdXo0UWxQa2NOc0xwOTE5bkJ0NFVXWGVSUHdZNHZoNU4xU1RWLTJ2dlpMMlQxbjUtOTh1N1NqM041SV9GYzFTemgwdF8xTXMwdGNEOW53UjNmU0lCN18ySUt5TzRTV3MwLW04Y1hyZVhnczZ2UUh6RTJfTWNoR3hzMzEtclh1RWlwd2RjeWhQOUxwQmYxWGhwcUM3NEJ1STVZSW5LeDlvYnpaU0dQQmFGRkxCOVBjUFlOenJvLWU4M2hiZ2o2RlpQTWk0RzhXS2VrT3VoNkxUbFA?oc=5)
+
+---
+
+### [Mosquitoes are biting you more in Southern California this year. Here's why - NBC Los Angeles](https://news.google.com/rss/articles/CBMingFBVV95cUxQOHJraDZabkRfVV94Ymk4R3lncHBWNzBEMkZVTktUS1JwWUVmdGpDaTRrc3A1OEpsMWpYSjFGVUFVYVp4UlRuMUVKMEw5QlpuaWVxSEFUX3prMTJqb2YtYjVmanByN3laMGVTdWlnckdtbzg3amNVYXE4UTdvQXNxY3FuVXEybEhKcnE5ZEhEVzNaOXRyaGUwUDloZmcwQdIBpgFBVV95cUxNc2NjendXZDVLajBrLVNWeG9hTFRIWFJXRUFwX3JFcFVTTkdRTXVTTzV4Tmw3aDhkRXpSczMwQm1SX1Z6NVNBNTJnZEpMOTFzMnVwYUxobnVwYm5lLWhaSVVRSmtuN3VlNWItYld6ZkVRZGRKOTVHZ2hRSGxaY3JoSFI0Si1SVWo2VDlXSzIyS3M2OXdacWtwZDMxcjVESC0zTU5obk13?oc=5)
+
+2026-09-25
+
+Source: [NBC Los Angeles](https://news.google.com/rss/articles/CBMingFBVV95cUxQOHJraDZabkRfVV94Ymk4R3lncHBWNzBEMkZVTktUS1JwWUVmdGpDaTRrc3A1OEpsMWpYSjFGVUFVYVp4UlRuMUVKMEw5QlpuaWVxSEFUX3prMTJqb2YtYjVmanByN3laMGVTdWlnckdtbzg3amNVYXE4UTdvQXNxY3FuVXEybEhKcnE5ZEhEVzNaOXRyaGUwUDloZmcwQdIBpgFBVV95cUxNc2NjendXZDVLajBrLVNWeG9hTFRIWFJXRUFwX3JFcFVTTkdRTXVTTzV4Tmw3aDhkRXpSczMwQm1SX1Z6NVNBNTJnZEpMOTFzMnVwYUxobnVwYm5lLWhaSVVRSmtuN3VlNWItYld6ZkVRZGRKOTVHZ2hRSGxaY3JoSFI0Si1SVWo2VDlXSzIyS3M2OXdacWtwZDMxcjVESC0zTU5obk13?oc=5)
 
 ---
 
@@ -100,27 +140,19 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMipwFBVV95c
 
 ---
 
-### [New form of flexible boron is 10 million times more electrically conductive](https://news.google.com/rss/articles/CBMiekFVX3lxTFA5dTVESFpsVi02TGwtT251R2xFX2pubTR4clEyeFNENWhZT3JRaDdYTWhtaGo5UzY4LXBEYzQxX3dEck9JWXh1Tm5lTWEzVlAwWDhmZDl3RFR5aFZpdjd6LUtXRnpPclhPTEtqdktpUlc3M1ZlQ2hZbWRn?oc=5)
+### [New Study Shows Promise in Restoring Brain’s Defenses Against Alzheimer’s](https://news.google.com/rss/articles/CBMinwFBVV95cUxNRnUxaHVtdkgtWTI1Ykc5eFlVT0x0Y0R0U3pVbFRDYURiZHZQUGI5czNzY2N2QUs0YWlBTl9DbUl2bHZWdzZ1WTZLVUFNdWZncWVtcHBMb2hQZ3BQbC1QQ3BmVmJjYnNKVUFsY2tjNTZOajNCdTIzT0ttWThFZTJzTGhoOTlJbVFKT0tGdFZKMkRyOHBNSXJ3UkkxZjJMSzQ?oc=5)
 
 2026-09-25
 
-Source: [Phys.org](https://news.google.com/rss/articles/CBMiekFVX3lxTFA5dTVESFpsVi02TGwtT251R2xFX2pubTR4clEyeFNENWhZT3JRaDdYTWhtaGo5UzY4LXBEYzQxX3dEck9JWXh1Tm5lTWEzVlAwWDhmZDl3RFR5aFZpdjd6LUtXRnpPclhPTEtqdktpUlc3M1ZlQ2hZbWRn?oc=5)
+Source: [Newsweek](https://news.google.com/rss/articles/CBMinwFBVV95cUxNRnUxaHVtdkgtWTI1Ykc5eFlVT0x0Y0R0U3pVbFRDYURiZHZQUGI5czNzY2N2QUs0YWlBTl9DbUl2bHZWdzZ1WTZLVUFNdWZncWVtcHBMb2hQZ3BQbC1QQ3BmVmJjYnNKVUFsY2tjNTZOajNCdTIzT0ttWThFZTJzTGhoOTlJbVFKT0tGdFZKMkRyOHBNSXJ3UkkxZjJMSzQ?oc=5)
 
 ---
 
-### [COVID cases are rising in some states. See the map - USA Today](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbFQ4ZzdlRnUwY3ZQX2VFM096T3FqcFdNVi1MZUNZR1FSeVllaXJ1aE1qYVl4a2VXeU0zRl9aVEpQVGY2cnZZcjNlRVJ0TllmLWtwY1pVOFNsaFBESHFsTGZiTVQxczVaTzViZHBjTGFuek9nWWVSdk1VWTJYa2VET091bmZlWVNTRkpvNVd5RTBVRnE2cmx1TmtoZTNRZ00?oc=5)
+### [Earth is tearing apart beneath the Pacific Northwest](https://news.google.com/rss/articles/CBMib0FVX3lxTE9tbmJEMzd3RDBjelE1Zm1STnhqVklGZzlZTXVsdm1RX21BZ3Z5bm8xSkNRNEhmT1I0RWZXal94c083TG43Szl0WHI1cENiQXloNXV3NXZMdnlGRFByeVVyN05lekloMEdTRUtLblFKYw?oc=5)
 
 2026-09-25
 
-Source: [USA Today](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbFQ4ZzdlRnUwY3ZQX2VFM096T3FqcFdNVi1MZUNZR1FSeVllaXJ1aE1qYVl4a2VXeU0zRl9aVEpQVGY2cnZZcjNlRVJ0TllmLWtwY1pVOFNsaFBESHFsTGZiTVQxczVaTzViZHBjTGFuek9nWWVSdk1VWTJYa2VET091bmZlWVNTRkpvNVd5RTBVRnE2cmx1TmtoZTNRZ00?oc=5)
-
----
-
-### [This Seasonal Habit Promotes Healthy Aging and May Reduce Dementia Risk in Older People](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZjlVOGYxeHQ5WTdLRG9xZXkwUlBqR0hMTmoxejYtekZSVXVVNF9FTkw0c0J6clNNQXJ4eDcyMWFFb05nV3YwbjFkVXlkeXVXaURUMThsQkpCREJpMzRYM29reGc4WHFNRkVTd1psWTYzQ0ZOaEQtQno1bXVhbkllZjNNTjd1dDRvamxyVl96SQ?oc=5)
-
-2026-09-25
-
-Source: [TODAY.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZjlVOGYxeHQ5WTdLRG9xZXkwUlBqR0hMTmoxejYtekZSVXVVNF9FTkw0c0J6clNNQXJ4eDcyMWFFb05nV3YwbjFkVXlkeXVXaURUMThsQkpCREJpMzRYM29reGc4WHFNRkVTd1psWTYzQ0ZOaEQtQno1bXVhbkllZjNNTjd1dDRvamxyVl96SQ?oc=5)
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9tbmJEMzd3RDBjelE1Zm1STnhqVklGZzlZTXVsdm1RX21BZ3Z5bm8xSkNRNEhmT1I0RWZXal94c083TG43Szl0WHI1cENiQXloNXV3NXZMdnlGRFByeVVyN05lekloMEdTRUtLblFKYw?oc=5)
 
 ---
 
@@ -129,14 +161,6 @@ Source: [TODAY.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZjlVOGY
 2026-09-23
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ydFhxLTZBWjRsZjRRaGwwQXMxZjVwWnlMeTlHbXhfVF92QlBzNll3dTlJX0lDckRaZVIxeXRTMzl5cEk4T1hsS1JWZzRFMktuTVk3QnlqNEQ0N3VhdVVZ?oc=5)
-
----
-
-### [Men Are Sharing The "Hidden Signs" Of Prostate Cancer They Wish They'd Taken More Seriously](https://news.google.com/rss/articles/CBMickFVX3lxTE04R0d3dFVkaTM4U2NJNTJhQTg2VllyTlJmRkJFeWpObzhGNnpVS0NjbGJua1hHMG5jU3F0OVo5S1FhMWRvclhaYnRUWWQ1THc0OVpQWTFJeWcyMURGSlROakZOc3E5TEc3dzA4UHA1SFVJZw?oc=5)
-
-2026-09-23
-
-Source: [BuzzFeed](https://news.google.com/rss/articles/CBMickFVX3lxTE04R0d3dFVkaTM4U2NJNTJhQTg2VllyTlJmRkJFeWpObzhGNnpVS0NjbGJua1hHMG5jU3F0OVo5S1FhMWRvclhaYnRUWWQ1THc0OVpQWTFJeWcyMURGSlROakZOc3E5TEc3dzA4UHA1SFVJZw?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 4 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 6 articles, 1 related drugs."
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>4 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (4)
+## Related News (6)
 
 ### [Canadian study says Earth's core is quietly changing the length of a day](https://news.google.com/rss/articles/CBMilAFBVV95cUxQSEhnaVFDRUpUUkpGOE1wekZOZG43Q0dNWDduQjRlMzBQM3Y0WWdqYm16SF9VdWpac1pHRUhpNldGR1BCTmtXdXJ6X2hFb3RSVVFTYVgwd3Ftc1JPMFNPd2dGa2hRZnNhYVhtLXc0cXlsUlE5NXBmMG1JeE9pTGU0MzV4XzJ5Z0pLaTFIaWtQdXJCc1dP?oc=5)
 
@@ -39,11 +39,11 @@ Source: [Yahoo](https://news.google.com/rss/articles/CBMilAFBVV95cUxQSEhnaVFDRUp
 
 ---
 
-### [Changing When You Eat on Weekends Is Linked to Heart Risks in Men](https://news.google.com/rss/articles/CBMimgFBVV95cUxNdWw1aFFZMEdXOFFvRGtDQmJCdkRDSlRqR21ISnM3azl0WjhaZ0JnekhaTGRyTlFfa1dyUEFMWFpvWk10ZHd1aDlIS0E5aENkUHRkV0pGZ05wVERLeHJNNUtkN2tSM0JCbk9KZlVtWTRUcVpoSUdvT2JiVHZZWlZrUUFxTU9CM3FQcUJGSjBaMloweTFqUEhiaVlR?oc=5)
+### [This Nightly Habit Could Be Changing the Structure of Your Heart, New Study Says](https://news.google.com/rss/articles/CBMiekFVX3lxTE1CQjk2Nk1vSF8yeF84M2xoQkFoVVZKWWpibGFuMF9CX01EVjUzd3BpbXV1dWpMRVpiRGRaWmxGOVhaQmhNU1NpMmU3Nm9YcVRSMVN0REoxclpwazVsV0IzbXZnMXQ4UWpKUjRyWmpZNjctNVlHUGVGV0Nn?oc=5)
 
-2026-09-27
+2026-09-26
 
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMimgFBVV95cUxNdWw1aFFZMEdXOFFvRGtDQmJCdkRDSlRqR21ISnM3azl0WjhaZ0JnekhaTGRyTlFfa1dyUEFMWFpvWk10ZHd1aDlIS0E5aENkUHRkV0pGZ05wVERLeHJNNUtkN2tSM0JCbk9KZlVtWTRUcVpoSUdvT2JiVHZZWlZrUUFxTU9CM3FQcUJGSjBaMloweTFqUEhiaVlR?oc=5)
+Source: [EatingWell](https://news.google.com/rss/articles/CBMiekFVX3lxTE1CQjk2Nk1vSF8yeF84M2xoQkFoVVZKWWpibGFuMF9CX01EVjUzd3BpbXV1dWpMRVpiRGRaWmxGOVhaQmhNU1NpMmU3Nm9YcVRSMVN0REoxclpwazVsV0IzbXZnMXQ4UWpKUjRyWmpZNjctNVlHUGVGV0Nn?oc=5)
 
 ---
 
@@ -55,11 +55,27 @@ Source: [cbs8.com](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdXo0UWxQ
 
 ---
 
+### [New study suggests the aging brain is adapting, not declining - The Washington Post](https://news.google.com/rss/articles/CBMipwFBVV95cUxQLVJ2QkZsRkRVam1DTjJLVzZ0dnY0TV9GUUdESHhzMGpVR2pVZ0pSRml4VVo3SXVhSEJTQVFzYnRKNFNvRUJTS01PNGU1VlJhWElzdnBIZ1FtNDhYakR5MGdZRVg1RVBNNFNzTnhuUlYway1XUnhIT0pFSGJMaTBwYUVEMHJjNGdPUkUzZDFDQTRGRExVVGRXTjhoZnVsZHZZWTlCcHJKMA?oc=5)
+
+2026-09-25
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMipwFBVV95cUxQLVJ2QkZsRkRVam1DTjJLVzZ0dnY0TV9GUUdESHhzMGpVR2pVZ0pSRml4VVo3SXVhSEJTQVFzYnRKNFNvRUJTS01PNGU1VlJhWElzdnBIZ1FtNDhYakR5MGdZRVg1RVBNNFNzTnhuUlYway1XUnhIT0pFSGJMaTBwYUVEMHJjNGdPUkUzZDFDQTRGRExVVGRXTjhoZnVsZHZZWTlCcHJKMA?oc=5)
+
+---
+
 ### ['Everything we know about space travel is going to change within a decade': The fusion breakthrough that could unlock a path to the stars - Live Science](https://news.google.com/rss/articles/CBMilAJBVV95cUxOSTR5bDBxVzRxVmstaWdXTURzc21ld2ZyUzllRUdmM3JBaXlBaXZRM3ZzMjRqOHlQdGRQbmZ6ZzVSRjU5YUJZUVlyN0taLXhoWE9yNjdjbVNpZi1TTDVyb2JPeVZiNkFXVFVQMXFPSk5QOUxObUcyeE1JZy1xQWxLcjd1aWluSEVBTzRSN0NXV05ST3Yyb2lETk9NMEQ3eXlSeGZyVzhkREZoRFlRTTlvZFYtV1p6bUQtTUZkcS1pOFVzR2J0Yi1pamRfdEJfR25uQnI4Rjg5MHc1WXE5QmtFT1o1X2RHX05FM25MRGktc2Q5YklmRDZXdlVoYWhFcmhZMTdzRmRtakhqcGtfS1VSeDJvN3I?oc=5)
 
 2026-09-25
 
 Source: [Live Science](https://news.google.com/rss/articles/CBMilAJBVV95cUxOSTR5bDBxVzRxVmstaWdXTURzc21ld2ZyUzllRUdmM3JBaXlBaXZRM3ZzMjRqOHlQdGRQbmZ6ZzVSRjU5YUJZUVlyN0taLXhoWE9yNjdjbVNpZi1TTDVyb2JPeVZiNkFXVFVQMXFPSk5QOUxObUcyeE1JZy1xQWxLcjd1aWluSEVBTzRSN0NXV05ST3Yyb2lETk9NMEQ3eXlSeGZyVzhkREZoRFlRTTlvZFYtV1p6bUQtTUZkcS1pOFVzR2J0Yi1pamRfdEJfR25uQnI4Rjg5MHc1WXE5QmtFT1o1X2RHX05FM25MRGktc2Q5YklmRDZXdlVoYWhFcmhZMTdzRmRtakhqcGtfS1VSeDJvN3I?oc=5)
+
+---
+
+### [Earth is tearing apart beneath the Pacific Northwest](https://news.google.com/rss/articles/CBMib0FVX3lxTE9tbmJEMzd3RDBjelE1Zm1STnhqVklGZzlZTXVsdm1RX21BZ3Z5bm8xSkNRNEhmT1I0RWZXal94c083TG43Szl0WHI1cENiQXloNXV3NXZMdnlGRFByeVVyN05lekloMEdTRUtLblFKYw?oc=5)
+
+2026-09-25
+
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9tbmJEMzd3RDBjelE1Zm1STnhqVklGZzlZTXVsdm1RX21BZ3Z5bm8xSkNRNEhmT1I0RWZXal94c083TG43Szl0WHI1cENiQXloNXV3NXZMdnlGRFByeVVyN05lekloMEdTRUtLblFKYw?oc=5)
 
 ---
 

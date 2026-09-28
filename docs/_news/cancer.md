@@ -3,7 +3,7 @@ layout: default
 title: "tumor (cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about tumor (cancer). 6 articles, 1 related drugs."
+description: "Health news about tumor (cancer). 8 articles, 1 related drugs."
 permalink: /news/cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cancer/
 ---
 
 <p class="key-answer" data-question="What news is there about tumor (cancer)?">
-<strong>tumor (cancer)</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
+<strong>tumor (cancer)</strong> currently has <strong>8 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,37 @@ This page brings together the latest health news about “tumor” and lists the
 </ul>
 </div>
 
-## Related News (6)
+## Related News (8)
+
+### [Radiotherapy as effective as surgery for prostate cancer - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUNjeG1KRHVZaDNnWjBSc3oxcnN3MDB2YzRwck52SDRYbUdmSkVhU3hEd3hKdWhJcWUxTmRrMzdKbG9fZzR5M1FyOG9ReUZ3dXh0NWpzN1RiTXlKcUM0OWliUHhLZU5Nb09kTTBxNlNDLUlCVWE1SGRKQjZZcDBWMS1oQzF5VlF4V0tldEtaLVVGSUhNV0ZNRkxsSE11RVpqZzJkbVpPRQ?oc=5)
+
+2026-09-28
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUNjeG1KRHVZaDNnWjBSc3oxcnN3MDB2YzRwck52SDRYbUdmSkVhU3hEd3hKdWhJcWUxTmRrMzdKbG9fZzR5M1FyOG9ReUZ3dXh0NWpzN1RiTXlKcUM0OWliUHhLZU5Nb09kTTBxNlNDLUlCVWE1SGRKQjZZcDBWMS1oQzF5VlF4V0tldEtaLVVGSUhNV0ZNRkxsSE11RVpqZzJkbVpPRQ?oc=5)
+
+---
+
+### [Oncologists Recommend This Simple Snack for Cancer Prevention](https://news.google.com/rss/articles/CBMidkFVX3lxTE1JX3RiQnpIRnFzYnBpRGh5bHphR0FtOEJfY0lwR3JNWENBOXY2clU0NzRLakMwZEFTeGF6T3hfcVB6T3cwb2trVkxmQ0hTbGZrU1JsTVY0NkY2T2xaSHNtUnJ2MEdwc3FEU3c5Smk0Q05oTTRaWkE?oc=5)
+
+2026-09-28
+
+Source: [EatingWell](https://news.google.com/rss/articles/CBMidkFVX3lxTE1JX3RiQnpIRnFzYnBpRGh5bHphR0FtOEJfY0lwR3JNWENBOXY2clU0NzRLakMwZEFTeGF6T3hfcVB6T3cwb2trVkxmQ0hTbGZrU1JsTVY0NkY2T2xaSHNtUnJ2MEdwc3FEU3c5Smk0Q05oTTRaWkE?oc=5)
+
+---
 
 ### [Community Rallies Around Janson - JoCo Report](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sUzZsd3lIcWp4UnhyLU5PcUlJTG1MSE5jVlJWbl9WYXJuMzhfZ0QyZWplcUU5UnlpdXNhdF9pNmdrRWw0c1NuQVl1YWhsSFlEOFhtWFJqMnBWdmVIWUEwQmxSX3R5UQ?oc=5)
 
 2026-09-27
 
 Source: [JoCo Report](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sUzZsd3lIcWp4UnhyLU5PcUlJTG1MSE5jVlJWbl9WYXJuMzhfZ0QyZWplcUU5UnlpdXNhdF9pNmdrRWw0c1NuQVl1YWhsSFlEOFhtWFJqMnBWdmVIWUEwQmxSX3R5UQ?oc=5)
+
+---
+
+### [From professor to patient: One man's journey on the frontier of lung cancer treatment](https://news.google.com/rss/articles/CBMijgFBVV95cUxPc1BhZUlKbFRTeFFHbWZRUWlDMG5obW5aUXZMNzFPZmJfM0F1WXlZN0xPMFlFNkRWOGFOcVZqZ1J3WnFfdW5PaGUzdEJfU2JEZmpoaF9qUmlzYUVVdFpVeXpzQmJkbWdNSTIwTUYxemNReG1adUhwR2ZKU2t6cXJXaEZwU0k2cHpsbVVqbUln?oc=5)
+
+2026-09-27
+
+Source: [NPR](https://news.google.com/rss/articles/CBMijgFBVV95cUxPc1BhZUlKbFRTeFFHbWZRUWlDMG5obW5aUXZMNzFPZmJfM0F1WXlZN0xPMFlFNkRWOGFOcVZqZ1J3WnFfdW5PaGUzdEJfU2JEZmpoaF9qUmlzYUVVdFpVeXpzQmJkbWdNSTIwTUYxemNReG1adUhwR2ZKU2t6cXJXaEZwU0k2cHpsbVVqbUln?oc=5)
 
 ---
 
@@ -52,14 +76,6 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONW9p
 2026-09-25
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxPd0g3cmgyWnE0bTFKVDRrUFBZWkNxcUxiZXN6Q1VHMUxTdzRpdkN6VVNpV0ZpVnVKdGFwNE9PbkZXVVZHUEZKaG1xTnlyRlVVTXVNdjlrLWhVVi1lYlZIcWxmUnp0MzNFT1JwaF81Y3NjLTA3RjJwbnVmQ1JobzRNalBsQ3hrZ1lJZ2VFNFpqYnljS014UmdBR0ppeXhReVJVT0JSQVlKRS1rYzV6SW8wNUs5U01RXzRHbGc?oc=5)
-
----
-
-### [Cancer surgeon reveals link between GLP-1 medications and cancer outcomes](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOHgyX21RekpiRHlISUY4R21lbVhnSmI0SkdoREs3enpHVGJMWnFMaVRTeDZsc3A1RGNabUR4a005ZkltU3VyWjlQbVU1aVh5R0ZyS1gzQWdnVURVWUNKLXVSUl9Xbl9iWm5oTTEtZjlQRTZBNWhEQXJXQUhHTlJuYUs2N291U1FlU3k0?oc=5)
-
-2026-09-25
-
-Source: [Yahoo](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOHgyX21RekpiRHlISUY4R21lbVhnSmI0SkdoREs3enpHVGJMWnFMaVRTeDZsc3A1RGNabUR4a005ZkltU3VyWjlQbVU1aVh5R0ZyS1gzQWdnVURVWUNKLXVSUl9Xbl9iWm5oTTEtZjlQRTZBNWhEQXJXQUhHTlJuYUs2N291U1FlU3k0?oc=5)
 
 ---
 

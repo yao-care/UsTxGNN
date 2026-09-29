@@ -36,6 +36,30 @@ This page brings together the latest health news about “UC” and lists the dr
 
 ## Related News (12)
 
+### [What to know about cychlorphine, a new synthetic opioid raising alarm](https://news.google.com/rss/articles/CBMihgFBVV95cUxNSDdHM09yTk5DMlhLdDNMWEk3WWd4T0h0UFRSZkV5MlhRV2FGTnJ6dl80Tm5aeFc4bXVsWHd0ZUxfYzdSaUIwaDJwM3BHTWd6TUFQN2wtLW5WQ0MzaXpuUkZZSGs2VUszczctWENpaHdKWTdOVm9KNWxhaXQ4bjdsRlA2YTc2dw?oc=5)
+
+2026-09-29
+
+Source: [WRAL](https://news.google.com/rss/articles/CBMihgFBVV95cUxNSDdHM09yTk5DMlhLdDNMWEk3WWd4T0h0UFRSZkV5MlhRV2FGTnJ6dl80Tm5aeFc4bXVsWHd0ZUxfYzdSaUIwaDJwM3BHTWd6TUFQN2wtLW5WQ0MzaXpuUkZZSGs2VUszczctWENpaHdKWTdOVm9KNWxhaXQ4bjdsRlA2YTc2dw?oc=5)
+
+---
+
+### [9 Best Fruits to Help Reduce Blood Pressure, Cholesterol and Heart Disease Risk](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeFoycUtRZExSQ3pFblB3b2lCdnJUWlBEX19fZWt3NU1LQXlQX0VhOHo3bnRGc2VWZVJkU1pnVVN2OXJWbWpmOGpleV9rWmN0NGVZZ3VDc0ZJWTdOaFdaUkZ5SmtPTEN6M1B3bzQwdzRIZTJqR25mclZHUlZGRGstbnQ4bGhiN2YyYV9XZWViME9hb2RaaGZyNUFqOHVnMG80ZjV1dUxMdzlxMGNVTXFMT21seHZSRXdQZzJz?oc=5)
+
+2026-09-29
+
+Source: [TODAY.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeFoycUtRZExSQ3pFblB3b2lCdnJUWlBEX19fZWt3NU1LQXlQX0VhOHo3bnRGc2VWZVJkU1pnVVN2OXJWbWpmOGpleV9rWmN0NGVZZ3VDc0ZJWTdOaFdaUkZ5SmtPTEN6M1B3bzQwdzRIZTJqR25mclZHUlZGRGstbnQ4bGhiN2YyYV9XZWViME9hb2RaaGZyNUFqOHVnMG80ZjV1dUxMdzlxMGNVTXFMT21seHZSRXdQZzJz?oc=5)
+
+---
+
+### [Boeing’s Starliner Faces a Critical Test This Year as NASA Runs Out of Options](https://news.google.com/rss/articles/CBMitAFBVV95cUxQM0Z1MnBCM2xLSkZOR2hrMW1tWTVrVVg5Mnl1eVBaTUw4REl6TjRGWGFvamlCTEFHQktyUEY3eXByX1lzVXpWazE4R24xY3hFYUItWTRPWUkyNUY4OTZJeEdwTTFMcXhieVA3UlBncG9sNE9ZdlNvQ3dDVFVfZVhTVHFTNHgxa2dRckFCRjVzQjZDZVRva21WWUFwUU5PN05YbGNueWRKaVVvMUpKckE5WURHQlc?oc=5)
+
+2026-09-29
+
+Source: [Gizmodo](https://news.google.com/rss/articles/CBMitAFBVV95cUxQM0Z1MnBCM2xLSkZOR2hrMW1tWTVrVVg5Mnl1eVBaTUw4REl6TjRGWGFvamlCTEFHQktyUEY3eXByX1lzVXpWazE4R24xY3hFYUItWTRPWUkyNUY4OTZJeEdwTTFMcXhieVA3UlBncG9sNE9ZdlNvQ3dDVFVfZVhTVHFTNHgxa2dRckFCRjVzQjZDZVRva21WWUFwUU5PN05YbGNueWRKaVVvMUpKckE5WURHQlc?oc=5)
+
+---
+
 ### [‘Long flu’ can linger for months. Here’s how to reduce your risk. - The Washington Post](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYzIwNzFrLVpLX05wZFhwLUFLdy1wWGV3S09QbUxZT2ladkw0NU42YVFGdVRIanhPbUR3LS02YVJOSTltNjU2TWlkenlLbjBfWDNxWnprcXM2VEpfOXp6cTVfVTBYc3FZVHNWX2x3clF3ZlVYc1VVZ3BGSGdETExXVVo4OTVieWF3OXJtRW1UWmlIUE85V3pMTjc5cXBpbWd1emxJSHRabjI?oc=5)
 
 2026-09-29
@@ -44,19 +68,19 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMiqAFBVV95c
 
 ---
 
-### [Fluctuations in blood pressure over time linked to death and strokes, analysis of UK data finds - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxNSll0RTdaRVBhb0UwN2VVNmktS3VXNHNDLXl2VS1UUDFmUlhRNWU2WklncFVHSzFkeENqUWRGQ3NwakVCNWRwb0NWY213T3lGSjVsNlFKRlR3NDB3ajItMk4tN1FyaVdGUUxGa2I2dnZacEtrcEJYc1YwWUYzdlc0bW1vaEx0Um5MSEJRVg?oc=5)
+### [Less protein for maggots means longer lives for fruit flies - Ars Technica](https://news.google.com/rss/articles/CBMisgFBVV95cUxQSV9rX0Y0bUxrMjlIZEczbm0xblJRUUJ6ZlFMM1dpR3poekc5bFBTRHhVSmFaUDlKRW5pMUVIVV9ZbHNTZGtFRkJVamI5STFJdU54Y21JdXdZMXhkTThKVmUwRkRkb3Z4LWFwSmowYXhLbUVwZlN1WEFJd0hUUUpuMTJkaFg3dWxPUG9OT3pST2dkNTlDckJ6UDVZTk5JMVJva2pEZ3RJZjluZkxOU01mQ0dB?oc=5)
 
-2026-09-28
+2026-09-29
 
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxNSll0RTdaRVBhb0UwN2VVNmktS3VXNHNDLXl2VS1UUDFmUlhRNWU2WklncFVHSzFkeENqUWRGQ3NwakVCNWRwb0NWY213T3lGSjVsNlFKRlR3NDB3ajItMk4tN1FyaVdGUUxGa2I2dnZacEtrcEJYc1YwWUYzdlc0bW1vaEx0Um5MSEJRVg?oc=5)
+Source: [Ars Technica](https://news.google.com/rss/articles/CBMisgFBVV95cUxQSV9rX0Y0bUxrMjlIZEczbm0xblJRUUJ6ZlFMM1dpR3poekc5bFBTRHhVSmFaUDlKRW5pMUVIVV9ZbHNTZGtFRkJVamI5STFJdU54Y21JdXdZMXhkTThKVmUwRkRkb3Z4LWFwSmowYXhLbUVwZlN1WEFJd0hUUUpuMTJkaFg3dWxPUG9OT3pST2dkNTlDckJ6UDVZTk5JMVJva2pEZ3RJZjluZkxOU01mQ0dB?oc=5)
 
 ---
 
-### [New mRNA flu vaccine for adults over 50 is 'more effective,' UW Medicine says](https://news.google.com/rss/articles/CBMi2wJBVV95cUxNRU9aLXMyMF90R3ZlLUJWN2ZjRDREcnE0Z1E1VEhUaF8tcnF0Nkp1MEhJSzY2MlZ0S1ZoQnpFcTdBQU1lZGdOaXhZajdGemM3T3ROYWYzcS1VSUV2U3Y1c1k5bmlLVkJfdzB3YTN6VDd6MC1PMGtQeDhIZ2lQc21MLVNNVEJBZG1tTy1YMWlROGRSUmFsVk9rclFsdzN4b1RDV2Q5Unh4c1JvZ1BJcTJNLXY4T081QnpFQTlmWUJ0clJoRURyeTZtUi1zTnFfSVR5WlhmMEwtS0xFLWFDdjJoc1VYYnRMRll4UU96U3hzdFNqLWpnTDU4eFpjdmkwd29DNmVNMGhjdzc1QU9TZDlUcUQyeXVCMWUzZnJURkppWVA4aGRHb2xGWjR4Vm5GMHc3Rmdoclk4T3lENXZGQUVPSnNQYnVVVzc5OUJZZEswNktkX2daU08xbkRrWQ?oc=5)
+### [Horrifying Research Finds What Happens to 12-Year-Olds Who Get Smart Phones](https://news.google.com/rss/articles/CBMihgFBVV95cUxQNjdFczI1RXpxQnpzOEV5eFJaeVRTelpZbnlmSEt4Z0d3QWpYVkxXSXFGcVJ5VEZyTTB1RmNvS2RLd2t3OENjLWNtWWFFVGNLdW1iZHRlbUlJQTVxSHJac20wai1LOEVQbWNtQmxnT0kyU3lNeXVVVWI2a2V4V1kxdG1NVmJodw?oc=5)
 
-2026-09-28
+2026-09-29
 
-Source: [KOMO](https://news.google.com/rss/articles/CBMi2wJBVV95cUxNRU9aLXMyMF90R3ZlLUJWN2ZjRDREcnE0Z1E1VEhUaF8tcnF0Nkp1MEhJSzY2MlZ0S1ZoQnpFcTdBQU1lZGdOaXhZajdGemM3T3ROYWYzcS1VSUV2U3Y1c1k5bmlLVkJfdzB3YTN6VDd6MC1PMGtQeDhIZ2lQc21MLVNNVEJBZG1tTy1YMWlROGRSUmFsVk9rclFsdzN4b1RDV2Q5Unh4c1JvZ1BJcTJNLXY4T081QnpFQTlmWUJ0clJoRURyeTZtUi1zTnFfSVR5WlhmMEwtS0xFLWFDdjJoc1VYYnRMRll4UU96U3hzdFNqLWpnTDU4eFpjdmkwd29DNmVNMGhjdzc1QU9TZDlUcUQyeXVCMWUzZnJURkppWVA4aGRHb2xGWjR4Vm5GMHc3Rmdoclk4T3lENXZGQUVPSnNQYnVVVzc5OUJZZEswNktkX2daU08xbkRrWQ?oc=5)
+Source: [Futurism](https://news.google.com/rss/articles/CBMihgFBVV95cUxQNjdFczI1RXpxQnpzOEV5eFJaeVRTelpZbnlmSEt4Z0d3QWpYVkxXSXFGcVJ5VEZyTTB1RmNvS2RLd2t3OENjLWNtWWFFVGNLdW1iZHRlbUlJQTVxSHJac20wai1LOEVQbWNtQmxnT0kyU3lNeXVVVWI2a2V4V1kxdG1NVmJodw?oc=5)
 
 ---
 
@@ -68,22 +92,6 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMifEFVX3lxTE01RG9yeEd3
 
 ---
 
-### [Pomegranate compound improves heart function by up to 80% in study](https://news.google.com/rss/articles/CBMib0FVX3lxTE1zLXpBZjB3dVRkTjdrNU1fa1l4Y3BJSXlOM05wRjc0allkRnZhWlVlU1RSNDhUTi1udXoyZno5eVlLS0xjQ0ZzclBJRFhHUmVWeExvOXk3SWdzNktLNDhyLWRVd0FUOTU2cVpsZE9wWQ?oc=5)
-
-2026-09-28
-
-Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1zLXpBZjB3dVRkTjdrNU1fa1l4Y3BJSXlOM05wRjc0allkRnZhWlVlU1RSNDhUTi1udXoyZno5eVlLS0xjQ0ZzclBJRFhHUmVWeExvOXk3SWdzNktLNDhyLWRVd0FUOTU2cVpsZE9wWQ?oc=5)
-
----
-
-### [Early life exposure to a beloved food ingredient is linked to anxiety in adulthood: study - New York Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWlNwYWpLaGdzR2FQTEdURkxpSWtCT1FfNzk1RWRDYlA0Y1JRYXo5Um0tRnJOMXdaUEdIYS1MRlZ2WFdsemY1U2NWbHZ3Y1JVSi1pNm5QWkFtcnBCWWgyTE1hZklsbElqZ0ZqUU00V1VyQ2JVVTZUMGVJWlhJODJLdUFFSDRQSE1BT19sS2hCcUJlS19qQUJUQ1BMQmtyZUVSNUVQUQ?oc=5)
-
-2026-09-27
-
-Source: [New York Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWlNwYWpLaGdzR2FQTEdURkxpSWtCT1FfNzk1RWRDYlA0Y1JRYXo5Um0tRnJOMXdaUEdIYS1MRlZ2WFdsemY1U2NWbHZ3Y1JVSi1pNm5QWkFtcnBCWWgyTE1hZklsbElqZ0ZqUU00V1VyQ2JVVTZUMGVJWlhJODJLdUFFSDRQSE1BT19sS2hCcUJlS19qQUJUQ1BMQmtyZUVSNUVQUQ?oc=5)
-
----
-
 ### [Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression](https://news.google.com/rss/articles/CBMib0FVX3lxTE0zVVpsX0dUaWU1SDZzRVdFM24xbHhhVVVLUzdKS05aUzZuV1NCNlZIS1VzeUlDdXUxQmtESm1kSnIta3BuWDVsanFiSFZCM0lNamlkSjhUbWNwYjFobnNaOWRxczRfQWFPTm5zNkJsYw?oc=5)
 
 2026-09-27
@@ -92,11 +100,11 @@ Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0zVVps
 
 ---
 
-### [Nicotine Is Mounting a Comeback in the Wellness Movement](https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ0xSeFJkUThxVk9IVUpyUF9NOEdHaVpZN0VkMk9mekNqWFcwUnVucWRxU1RTblVCTll2aTFtR1FYVDd1TFhPd290RGJESGYxa0pycTZaS00xVVd2Z24wZkZrZlNNMFV4UDk2d21qSTEydk1LbDB5Q29BWjlWOEZDS3E1eWdfUHVlak02a3ZR?oc=5)
+### [One CRISPR treatment cut “bad” cholesterol in half for a full year](https://news.google.com/rss/articles/CBMib0FVX3lxTE80VWh0YkpZbWE0TTBZc1N3ejdpSmNuNFVZNGoyOTlwVjR3Wm9FS2Z6SzNITWRZU3ZOQnIyQUw2UWFTMnVueF9pdkk2M3ZEbmNnb25walhFNTJBdzBDcU1FRFJZRC1XTnNCYkhvRWVLSQ?oc=5)
 
 2026-09-27
 
-Source: [WIRED](https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ0xSeFJkUThxVk9IVUpyUF9NOEdHaVpZN0VkMk9mekNqWFcwUnVucWRxU1RTblVCTll2aTFtR1FYVDd1TFhPd290RGJESGYxa0pycTZaS00xVVd2Z24wZkZrZlNNMFV4UDk2d21qSTEydk1LbDB5Q29BWjlWOEZDS3E1eWdfUHVlak02a3ZR?oc=5)
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE80VWh0YkpZbWE0TTBZc1N3ejdpSmNuNFVZNGoyOTlwVjR3Wm9FS2Z6SzNITWRZU3ZOQnIyQUw2UWFTMnVueF9pdkk2M3ZEbmNnb25walhFNTJBdzBDcU1FRFJZRC1XTnNCYkhvRWVLSQ?oc=5)
 
 ---
 
@@ -105,14 +113,6 @@ Source: [WIRED](https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ0xSeFJkUTh
 2026-09-26
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMigwFBVV95cUxQakloa1h4RjZGT1RId2dIcWxtc29SbFowYlhtaThLcUhzcUZNVnRTREw1aTliVVRGZUs0UHE4OUZVZU9iNjhqdV9iSS1aNS1UM3U2TjlwX1M4WWNBQWZGdGFDam50Mzdfekx0cEF1ckt1dldweVBpWTh0ZHFpYkdTY21aUQ?oc=5)
-
----
-
-### [Scientists may have finally figured out why the body fails to heal Alzheimer’s by itself](https://news.google.com/rss/articles/CBMimAFBVV95cUxQUnA0MjNTaEtKY1VDM1hoRS0tT1hJU1lHQVpNNXd5YUo5ZnJ1NlFBb1JzVUo4QjU5V3VIZlpKbTBlU1FzS2UzUElBLWoyMkc0VFpHRWxGTUdLQmZyNVZ4WlNtb0Rzc3FsYTVvY1c0OS1NTUNGZ0FHdDVIYXVQSTFPSlJyZ0piNHdwRHJDUzczcFMtZkhCN0JMdQ?oc=5)
-
-2026-09-24
-
-Source: [Yahoo](https://news.google.com/rss/articles/CBMimAFBVV95cUxQUnA0MjNTaEtKY1VDM1hoRS0tT1hJU1lHQVpNNXd5YUo5ZnJ1NlFBb1JzVUo4QjU5V3VIZlpKbTBlU1FzS2UzUElBLWoyMkc0VFpHRWxGTUdLQmZyNVZ4WlNtb0Rzc3FsYTVvY1c0OS1NTUNGZ0FHdDVIYXVQSTFPSlJyZ0piNHdwRHJDUzczcFMtZkhCN0JMdQ?oc=5)
 
 ---
 

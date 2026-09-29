@@ -31,11 +31,11 @@ This page brings together the latest health news about “high blood pressure”
 
 ## Related News (1)
 
-### [Stroke is becoming more common among younger adults. What experts want them to know](https://news.google.com/rss/articles/CBMilAFBVV95cUxQTWV0WWR5SkR0ZHVHX25INGV3dk9PVFJaRFNsTVBrdnZUV0JUNV9rUVVpMUFNSjk2Sm0xelpTU3BXQWhaWTcwM0ljX2lyQTdyNmpEbXhSWFoxMEs1UGdpWTBxaHFtMVdNT3czeEg2ekVmZUtDS1dDdk1SQkpJS183OFQzZjNRRWtvbFlnWVR4QVlVcTgy?oc=5)
+### [Strokes aren’t just an issue for older adults. What you can do to prevent risks](https://news.google.com/rss/articles/CBMiggFBVV95cUxOYnVVaHZQWnkzNDZsa3JxbGpHbnZ1S2V5RHJZdHNnVzJQa3laZlZrUC1PUElEdWM4dXdhN3Q0LVUwdG1TM0lvdTBLTXJoc0MyX3B2SE5mR3V4Y0QzUTc1UWtUNTdwUTJsXy12eXMxN2k4TXVGOF9uQVVMMVhMZnpUaWlB?oc=5)
 
 2026-09-23
 
-Source: [Yahoo](https://news.google.com/rss/articles/CBMilAFBVV95cUxQTWV0WWR5SkR0ZHVHX25INGV3dk9PVFJaRFNsTVBrdnZUV0JUNV9rUVVpMUFNSjk2Sm0xelpTU3BXQWhaWTcwM0ljX2lyQTdyNmpEbXhSWFoxMEs1UGdpWTBxaHFtMVdNT3czeEg2ekVmZUtDS1dDdk1SQkpJS183OFQzZjNRRWtvbFlnWVR4QVlVcTgy?oc=5)
+Source: [CNN](https://news.google.com/rss/articles/CBMiggFBVV95cUxOYnVVaHZQWnkzNDZsa3JxbGpHbnZ1S2V5RHJZdHNnVzJQa3laZlZrUC1PUElEdWM4dXdhN3Q0LVUwdG1TM0lvdTBLTXJoc0MyX3B2SE5mR3V4Y0QzUTc1UWtUNTdwUTJsXy12eXMxN2k4TXVGOF9uQVVMMVhMZnpUaWlB?oc=5)
 
 ---
 

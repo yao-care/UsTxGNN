@@ -3,7 +3,7 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 6 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 5 articles, 1 related drugs."
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>5 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (6)
+## Related News (5)
 
 ### [Early life exposure to a beloved food ingredient is linked to anxiety in adulthood: study - New York Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWlNwYWpLaGdzR2FQTEdURkxpSWtCT1FfNzk1RWRDYlA0Y1JRYXo5Um0tRnJOMXdaUEdIYS1MRlZ2WFdsemY1U2NWbHZ3Y1JVSi1pNm5QWkFtcnBCWWgyTE1hZklsbElqZ0ZqUU00V1VyQ2JVVTZUMGVJWlhJODJLdUFFSDRQSE1BT19sS2hCcUJlS19qQUJUQ1BMQmtyZUVSNUVQUQ?oc=5)
 
@@ -47,19 +47,11 @@ Source: [Yahoo](https://news.google.com/rss/articles/CBMilAFBVV95cUxQSEhnaVFDRUp
 
 ---
 
-### [This Nightly Habit Could Be Changing the Structure of Your Heart, New Study Says](https://news.google.com/rss/articles/CBMiekFVX3lxTE1CQjk2Nk1vSF8yeF84M2xoQkFoVVZKWWpibGFuMF9CX01EVjUzd3BpbXV1dWpMRVpiRGRaWmxGOVhaQmhNU1NpMmU3Nm9YcVRSMVN0REoxclpwazVsV0IzbXZnMXQ4UWpKUjRyWmpZNjctNVlHUGVGV0Nn?oc=5)
-
-2026-09-26
-
-Source: [EatingWell](https://news.google.com/rss/articles/CBMiekFVX3lxTE1CQjk2Nk1vSF8yeF84M2xoQkFoVVZKWWpibGFuMF9CX01EVjUzd3BpbXV1dWpMRVpiRGRaWmxGOVhaQmhNU1NpMmU3Nm9YcVRSMVN0REoxclpwazVsV0IzbXZnMXQ4UWpKUjRyWmpZNjctNVlHUGVGV0Nn?oc=5)
-
----
-
-### [New study suggests the aging brain is adapting, not declining](https://news.google.com/rss/articles/CBMipwFBVV95cUxQLVJ2QkZsRkRVam1DTjJLVzZ0dnY0TV9GUUdESHhzMGpVR2pVZ0pSRml4VVo3SXVhSEJTQVFzYnRKNFNvRUJTS01PNGU1VlJhWElzdnBIZ1FtNDhYakR5MGdZRVg1RVBNNFNzTnhuUlYway1XUnhIT0pFSGJMaTBwYUVEMHJjNGdPUkUzZDFDQTRGRExVVGRXTjhoZnVsZHZZWTlCcHJKMA?oc=5)
+### [Mosquitoes are biting you more in Southern California this year. Here's why - NBC Los Angeles](https://news.google.com/rss/articles/CBMingFBVV95cUxQOHJraDZabkRfVV94Ymk4R3lncHBWNzBEMkZVTktUS1JwWUVmdGpDaTRrc3A1OEpsMWpYSjFGVUFVYVp4UlRuMUVKMEw5QlpuaWVxSEFUX3prMTJqb2YtYjVmanByN3laMGVTdWlnckdtbzg3amNVYXE4UTdvQXNxY3FuVXEybEhKcnE5ZEhEVzNaOXRyaGUwUDloZmcwQdIBpgFBVV95cUxNc2NjendXZDVLajBrLVNWeG9hTFRIWFJXRUFwX3JFcFVTTkdRTXVTTzV4Tmw3aDhkRXpSczMwQm1SX1Z6NVNBNTJnZEpMOTFzMnVwYUxobnVwYm5lLWhaSVVRSmtuN3VlNWItYld6ZkVRZGRKOTVHZ2hRSGxaY3JoSFI0Si1SVWo2VDlXSzIyS3M2OXdacWtwZDMxcjVESC0zTU5obk13?oc=5)
 
 2026-09-25
 
-Source: [washingtonpost.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxQLVJ2QkZsRkRVam1DTjJLVzZ0dnY0TV9GUUdESHhzMGpVR2pVZ0pSRml4VVo3SXVhSEJTQVFzYnRKNFNvRUJTS01PNGU1VlJhWElzdnBIZ1FtNDhYakR5MGdZRVg1RVBNNFNzTnhuUlYway1XUnhIT0pFSGJMaTBwYUVEMHJjNGdPUkUzZDFDQTRGRExVVGRXTjhoZnVsZHZZWTlCcHJKMA?oc=5)
+Source: [NBC Los Angeles](https://news.google.com/rss/articles/CBMingFBVV95cUxQOHJraDZabkRfVV94Ymk4R3lncHBWNzBEMkZVTktUS1JwWUVmdGpDaTRrc3A1OEpsMWpYSjFGVUFVYVp4UlRuMUVKMEw5QlpuaWVxSEFUX3prMTJqb2YtYjVmanByN3laMGVTdWlnckdtbzg3amNVYXE4UTdvQXNxY3FuVXEybEhKcnE5ZEhEVzNaOXRyaGUwUDloZmcwQdIBpgFBVV95cUxNc2NjendXZDVLajBrLVNWeG9hTFRIWFJXRUFwX3JFcFVTTkdRTXVTTzV4Tmw3aDhkRXpSczMwQm1SX1Z6NVNBNTJnZEpMOTFzMnVwYUxobnVwYm5lLWhaSVVRSmtuN3VlNWItYld6ZkVRZGRKOTVHZ2hRSGxaY3JoSFI0Si1SVWo2VDlXSzIyS3M2OXdacWtwZDMxcjVESC0zTU5obk13?oc=5)
 
 ---
 
@@ -71,11 +63,11 @@ Source: [Live Science](https://news.google.com/rss/articles/CBMilAJBVV95cUxOSTR5
 
 ---
 
-### [Stroke is becoming more common among younger adults. What experts want them to know](https://news.google.com/rss/articles/CBMilAFBVV95cUxQTWV0WWR5SkR0ZHVHX25INGV3dk9PVFJaRFNsTVBrdnZUV0JUNV9rUVVpMUFNSjk2Sm0xelpTU3BXQWhaWTcwM0ljX2lyQTdyNmpEbXhSWFoxMEs1UGdpWTBxaHFtMVdNT3czeEg2ekVmZUtDS1dDdk1SQkpJS183OFQzZjNRRWtvbFlnWVR4QVlVcTgy?oc=5)
+### [Strokes aren’t just an issue for older adults. What you can do to prevent risks](https://news.google.com/rss/articles/CBMiggFBVV95cUxOYnVVaHZQWnkzNDZsa3JxbGpHbnZ1S2V5RHJZdHNnVzJQa3laZlZrUC1PUElEdWM4dXdhN3Q0LVUwdG1TM0lvdTBLTXJoc0MyX3B2SE5mR3V4Y0QzUTc1UWtUNTdwUTJsXy12eXMxN2k4TXVGOF9uQVVMMVhMZnpUaWlB?oc=5)
 
 2026-09-23
 
-Source: [Yahoo](https://news.google.com/rss/articles/CBMilAFBVV95cUxQTWV0WWR5SkR0ZHVHX25INGV3dk9PVFJaRFNsTVBrdnZUV0JUNV9rUVVpMUFNSjk2Sm0xelpTU3BXQWhaWTcwM0ljX2lyQTdyNmpEbXhSWFoxMEs1UGdpWTBxaHFtMVdNT3czeEg2ekVmZUtDS1dDdk1SQkpJS183OFQzZjNRRWtvbFlnWVR4QVlVcTgy?oc=5)
+Source: [CNN](https://news.google.com/rss/articles/CBMiggFBVV95cUxOYnVVaHZQWnkzNDZsa3JxbGpHbnZ1S2V5RHJZdHNnVzJQa3laZlZrUC1PUElEdWM4dXdhN3Q0LVUwdG1TM0lvdTBLTXJoc0MyX3B2SE5mR3V4Y0QzUTc1UWtUNTdwUTJsXy12eXMxN2k4TXVGOF9uQVVMMVhMZnpUaWlB?oc=5)
 
 ---
 

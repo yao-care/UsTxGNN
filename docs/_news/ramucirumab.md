@@ -14,7 +14,7 @@ permalink: /news/ramucirumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>7 news articles</strong>, with 10 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>9 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,37 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (9)
 
-### [Radiotherapy as effective as surgery for prostate cancer - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUNjeG1KRHVZaDNnWjBSc3oxcnN3MDB2YzRwck52SDRYbUdmSkVhU3hEd3hKdWhJcWUxTmRrMzdKbG9fZzR5M1FyOG9ReUZ3dXh0NWpzN1RiTXlKcUM0OWliUHhLZU5Nb09kTTBxNlNDLUlCVWE1SGRKQjZZcDBWMS1oQzF5VlF4V0tldEtaLVVGSUhNV0ZNRkxsSE11RVpqZzJkbVpPRQ?oc=5)
+### [She was ready to die. Now she’s in remission — cancer vaccines could be the next big thing in medicine - New York Post](https://news.google.com/rss/articles/CBMimAFBVV95cUxPVHdBZWZEYUw0T1NDazM3akREbllDdzJ4RllON0xwLXlrb29qLTlaTkVGUnV5TE5DZHh1eFdRXzcyM015N0VfYjBsemVxcThTdW1RN3RSZUJ2UEZfOW5zTmt5bldfT0VqLXM0VTZfVkRxV1V3TU02bUlPZktGb2dJUjB5YzJuS2VqTURHWXJOcFdlQS1ZM2x6Tw?oc=5)
+
+2026-09-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMimAFBVV95cUxPVHdBZWZEYUw0T1NDazM3akREbllDdzJ4RllON0xwLXlrb29qLTlaTkVGUnV5TE5DZHh1eFdRXzcyM015N0VfYjBsemVxcThTdW1RN3RSZUJ2UEZfOW5zTmt5bldfT0VqLXM0VTZfVkRxV1V3TU02bUlPZktGb2dJUjB5YzJuS2VqTURHWXJOcFdlQS1ZM2x6Tw?oc=5)
+
+---
+
+### [1 in 8 Cancer Cases Worldwide Linked to Infections, Study Finds](https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ0JMMkFEclI5MTV1MDVndkc0dldGTWFBeTI3UjdteG85R2lVRTdMdTRqWkw4VEthQ2hRUXA0Qmg1ZUZ3ZjMtUWFsbFJmYXhCbUszZzMxNEdHVkZjeTZhRm5jR3FfTm8tRjdVcEtmd1lCVzA4N0h1N0FZYUlQT2FzV29YMU9POXlyejRyS29ROGQtVXBOMEE?oc=5)
+
+2026-09-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [Newsweek](https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ0JMMkFEclI5MTV1MDVndkc0dldGTWFBeTI3UjdteG85R2lVRTdMdTRqWkw4VEthQ2hRUXA0Qmg1ZUZ3ZjMtUWFsbFJmYXhCbUszZzMxNEdHVkZjeTZhRm5jR3FfTm8tRjdVcEtmd1lCVzA4N0h1N0FZYUlQT2FzV29YMU9POXlyejRyS29ROGQtVXBOMEE?oc=5)
+
+---
+
+### [Radiotherapy as effective as surgery for prostate cancer](https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUNjeG1KRHVZaDNnWjBSc3oxcnN3MDB2YzRwck52SDRYbUdmSkVhU3hEd3hKdWhJcWUxTmRrMzdKbG9fZzR5M1FyOG9ReUZ3dXh0NWpzN1RiTXlKcUM0OWliUHhLZU5Nb09kTTBxNlNDLUlCVWE1SGRKQjZZcDBWMS1oQzF5VlF4V0tldEtaLVVGSUhNV0ZNRkxsSE11RVpqZzJkbVpPRQ?oc=5)
 
 2026-09-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUNjeG1KRHVZaDNnWjBSc3oxcnN3MDB2YzRwck52SDRYbUdmSkVhU3hEd3hKdWhJcWUxTmRrMzdKbG9fZzR5M1FyOG9ReUZ3dXh0NWpzN1RiTXlKcUM0OWliUHhLZU5Nb09kTTBxNlNDLUlCVWE1SGRKQjZZcDBWMS1oQzF5VlF4V0tldEtaLVVGSUhNV0ZNRkxsSE11RVpqZzJkbVpPRQ?oc=5)
+Source: [telegraph.co.uk](https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUNjeG1KRHVZaDNnWjBSc3oxcnN3MDB2YzRwck52SDRYbUdmSkVhU3hEd3hKdWhJcWUxTmRrMzdKbG9fZzR5M1FyOG9ReUZ3dXh0NWpzN1RiTXlKcUM0OWliUHhLZU5Nb09kTTBxNlNDLUlCVWE1SGRKQjZZcDBWMS1oQzF5VlF4V0tldEtaLVVGSUhNV0ZNRkxsSE11RVpqZzJkbVpPRQ?oc=5)
+
+---
+
+### [A New Study Links More Movement Breaks To Lower Cancer Risk. These Tools Can Help](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSVlpZ0ZyRDNseFlVNnJUUk15OGZmOXB2WFpiTk9sRVZHemlUdG82MEpWaFZheklLTGNHR2Y3QWl5LUFONDFyWHVPS3RseGl5RjAzT1FIOGsxSkhHa1lWVlduZ3Zpc1NkQ0dHWmlzckNnUGNUSzlzVWR4Qlg4THFiQlhLdVpkeGZ1cGF5VjZQS2hSZTFyVmswaHRMN1c3bndJX25Fbm4wV23SAa4BQVVfeXFMTXMyVTkxSHlFZ3llalgxMVZTSWs4U3dRQmZCUzdBYUFDcy1YWkxfemhCc0ZVTzZTQ29mdnhBQlVSVDlDTDVlM3JwLU9jOHk2UVU2VmNPZ2RKZWM5NTdoZnNCcmxINk50Q1VBQktNUkg0d2F5QTdfZDJ3VEcxZmd2d2Mwbl9fNm9POXU2VGpxQUFYTlE3czF2MkNqRGpxenAwQ0ZnRjN0enpZT0EtRlVB?oc=5)
+
+2026-09-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
+
+Source: [HuffPost](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSVlpZ0ZyRDNseFlVNnJUUk15OGZmOXB2WFpiTk9sRVZHemlUdG82MEpWaFZheklLTGNHR2Y3QWl5LUFONDFyWHVPS3RseGl5RjAzT1FIOGsxSkhHa1lWVlduZ3Zpc1NkQ0dHWmlzckNnUGNUSzlzVWR4Qlg4THFiQlhLdVpkeGZ1cGF5VjZQS2hSZTFyVmswaHRMN1c3bndJX25Fbm4wV23SAa4BQVVfeXFMTXMyVTkxSHlFZ3llalgxMVZTSWs4U3dRQmZCUzdBYUFDcy1YWkxfemhCc0ZVTzZTQ29mdnhBQlVSVDlDTDVlM3JwLU9jOHk2UVU2VmNPZ2RKZWM5NTdoZnNCcmxINk50Q1VBQktNUkg0d2F5QTdfZDJ3VEcxZmd2d2Mwbl9fNm9POXU2VGpxQUFYTlE3czF2MkNqRGpxenAwQ0ZnRjN0enpZT0EtRlVB?oc=5)
 
 ---
 
@@ -74,27 +98,19 @@ Source: [NPR](https://news.google.com/rss/articles/CBMijgFBVV95cUxPc1BhZUlKbFRTe
 
 ---
 
-### [New research finds 485 chemicals in US pesticide products linked to breast cancer - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONW9pOHY0a0ZEdFpVVl9Wc2psNWdlVExMaFNSZDg0M0dnUGdWcGpQV2xzczBjbjdxVzFBNmdBTGRGTUMyNjBMZmxzV3pya0dxakZIVUhwM2NXODFaLU5tQndRQ252U0RReTlNOV9jdzNoWTFMUU1rQVZ3bDZtUjEyc0l6Ni1ZTURLQl9v?oc=5)
+### [Strokes aren’t just an issue for older adults. What you can do to prevent risks](https://news.google.com/rss/articles/CBMiggFBVV95cUxOYnVVaHZQWnkzNDZsa3JxbGpHbnZ1S2V5RHJZdHNnVzJQa3laZlZrUC1PUElEdWM4dXdhN3Q0LVUwdG1TM0lvdTBLTXJoc0MyX3B2SE5mR3V4Y0QzUTc1UWtUNTdwUTJsXy12eXMxN2k4TXVGOF9uQVVMMVhMZnpUaWlB?oc=5)
 
-2026-09-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+2026-09-23 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">UC</span>
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxONW9pOHY0a0ZEdFpVVl9Wc2psNWdlVExMaFNSZDg0M0dnUGdWcGpQV2xzczBjbjdxVzFBNmdBTGRGTUMyNjBMZmxzV3pya0dxakZIVUhwM2NXODFaLU5tQndRQ252U0RReTlNOV9jdzNoWTFMUU1rQVZ3bDZtUjEyc0l6Ni1ZTURLQl9v?oc=5)
-
----
-
-### [The secret conversation between your brain and gut](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc1lITmI2amhON1g0bjBxdUpyMHdTcXVKVkc5NldlaFNkY0R5SmRUVW1sS3ZNem11ZjZjbjZqb2MtSXRvZ3FtSEl0T2tfMU9MNl9zVzRkZ0JPZF9leXpRTEI5eGw0d1FSY0NibjZOaUFmN2h3UkZCWTlRcklCR3RXUnRRWHl2MWV2?oc=5)
-
-2026-09-24 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
-
-Source: [CNN](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc1lITmI2amhON1g0bjBxdUpyMHdTcXVKVkc5NldlaFNkY0R5SmRUVW1sS3ZNem11ZjZjbjZqb2MtSXRvZ3FtSEl0T2tfMU9MNl9zVzRkZ0JPZF9leXpRTEI5eGw0d1FSY0NibjZOaUFmN2h3UkZCWTlRcklCR3RXUnRRWHl2MWV2?oc=5)
+Source: [CNN](https://news.google.com/rss/articles/CBMiggFBVV95cUxOYnVVaHZQWnkzNDZsa3JxbGpHbnZ1S2V5RHJZdHNnVzJQa3laZlZrUC1PUElEdWM4dXdhN3Q0LVUwdG1TM0lvdTBLTXJoc0MyX3B2SE5mR3V4Y0QzUTc1UWtUNTdwUTJsXy12eXMxN2k4TXVGOF9uQVVMMVhMZnpUaWlB?oc=5)
 
 ---
 
-### [Stroke is becoming more common among younger adults. What experts want them to know](https://news.google.com/rss/articles/CBMilAFBVV95cUxQTWV0WWR5SkR0ZHVHX25INGV3dk9PVFJaRFNsTVBrdnZUV0JUNV9rUVVpMUFNSjk2Sm0xelpTU3BXQWhaWTcwM0ljX2lyQTdyNmpEbXhSWFoxMEs1UGdpWTBxaHFtMVdNT3czeEg2ekVmZUtDS1dDdk1SQkpJS183OFQzZjNRRWtvbFlnWVR4QVlVcTgy?oc=5)
+### [Men Are Sharing The "Hidden Signs" Of Prostate Cancer They Wish They'd Taken More Seriously](https://news.google.com/rss/articles/CBMickFVX3lxTE04R0d3dFVkaTM4U2NJNTJhQTg2VllyTlJmRkJFeWpObzhGNnpVS0NjbGJua1hHMG5jU3F0OVo5S1FhMWRvclhaYnRUWWQ1THc0OVpQWTFJeWcyMURGSlROakZOc3E5TEc3dzA4UHA1SFVJZw?oc=5)
 
-2026-09-23 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+2026-09-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
-Source: [Yahoo](https://news.google.com/rss/articles/CBMilAFBVV95cUxQTWV0WWR5SkR0ZHVHX25INGV3dk9PVFJaRFNsTVBrdnZUV0JUNV9rUVVpMUFNSjk2Sm0xelpTU3BXQWhaWTcwM0ljX2lyQTdyNmpEbXhSWFoxMEs1UGdpWTBxaHFtMVdNT3czeEg2ekVmZUtDS1dDdk1SQkpJS183OFQzZjNRRWtvbFlnWVR4QVlVcTgy?oc=5)
+Source: [BuzzFeed](https://news.google.com/rss/articles/CBMickFVX3lxTE04R0d3dFVkaTM4U2NJNTJhQTg2VllyTlJmRkJFeWpObzhGNnpVS0NjbGJua1hHMG5jU3F0OVo5S1FhMWRvclhaYnRUWWQ1THc0OVpQWTFJeWcyMURGSlROakZOc3E5TEc3dzA4UHA1SFVJZw?oc=5)
 
 ---
 

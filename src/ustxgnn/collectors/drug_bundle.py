@@ -309,9 +309,9 @@ class DrugBundleAggregator:
         """Lazy-load collectors as needed."""
         if name not in self._collectors:
             if name == "tfda":
-                # Use OpenFDA collector for US instead of TFDA
-                from .openfda import OpenFDACollector
-                self._collectors[name] = OpenFDACollector()
+                # 本國藥證（Phase 5 標準收集器，讀 Phase 1 的 loader / fields.yaml / drug_mapping）
+                from .usfda import LocalFDACollector
+                self._collectors[name] = LocalFDACollector()
             elif name == "tfda_package_insert":
                 # Skip package insert collector (use OpenFDA for US drug labels)
                 return None

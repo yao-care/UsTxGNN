@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 4 articles, 2 related drugs."
+description: "Health news about flu (influenza). 3 articles, 2 related drugs."
 permalink: /news/influenza/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/influenza/
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>4 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>3 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,13 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (4)
+## Related News (3)
 
-### [Why this WA flu season will be one to watch - The Seattle Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxQdGs5czdHck1HNEVQSm55UlhIb3VaMFQtUVl0ZlFOS1FSb3hCQnR1Um1XZTJCcF9PWDJLUU1JLVkxcWRIQzJLSW95X2gzUnZXRWdxQi1ucmtXZ1RMclZCalhIU2dvb2xvblUySDM1ZTdWdFIzdmVLR3dQR052MG1RbjMyQWdBdDJaUEtIaTIxSFQ4OHRQNkQ0OUpuWVI0VllqZVdGUzdR?oc=5)
+### [New mRNA flu vaccine for adults over 50 is 'more effective,' UW Medicine says](https://news.google.com/rss/articles/CBMi2wJBVV95cUxNRU9aLXMyMF90R3ZlLUJWN2ZjRDREcnE0Z1E1VEhUaF8tcnF0Nkp1MEhJSzY2MlZ0S1ZoQnpFcTdBQU1lZGdOaXhZajdGemM3T3ROYWYzcS1VSUV2U3Y1c1k5bmlLVkJfdzB3YTN6VDd6MC1PMGtQeDhIZ2lQc21MLVNNVEJBZG1tTy1YMWlROGRSUmFsVk9rclFsdzN4b1RDV2Q5Unh4c1JvZ1BJcTJNLXY4T081QnpFQTlmWUJ0clJoRURyeTZtUi1zTnFfSVR5WlhmMEwtS0xFLWFDdjJoc1VYYnRMRll4UU96U3hzdFNqLWpnTDU4eFpjdmkwd29DNmVNMGhjdzc1QU9TZDlUcUQyeXVCMWUzZnJURkppWVA4aGRHb2xGWjR4Vm5GMHc3Rmdoclk4T3lENXZGQUVPSnNQYnVVVzc5OUJZZEswNktkX2daU08xbkRrWQ?oc=5)
 
 2026-09-28
 
-Source: [The Seattle Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxQdGs5czdHck1HNEVQSm55UlhIb3VaMFQtUVl0ZlFOS1FSb3hCQnR1Um1XZTJCcF9PWDJLUU1JLVkxcWRIQzJLSW95X2gzUnZXRWdxQi1ucmtXZ1RMclZCalhIU2dvb2xvblUySDM1ZTdWdFIzdmVLR3dQR052MG1RbjMyQWdBdDJaUEtIaTIxSFQ4OHRQNkQ0OUpuWVI0VllqZVdGUzdR?oc=5)
-
----
-
-### [Scientists Put Anti-Aging Treatments to the Test – These Ones Actually Changed Biological Age](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQnM0cUhicDl3WXJzNGR0amdJR3AxdG1hOFo0Ny02NF9zQmtiWkM4ZWJqM3JrSzE3SWpHeURENDJmYzduOHl2ZDhlMW5rbHByM2hMS3RRSVI2RFlEVERnSC1kbU4wSE8xUmxqQXlHZHpFbDdTTlhRcElVV2NsQjBkdUQtdGdacDc2T2c1aGlRMW9ib091RE0tTHNfT0dnTk9DT1Zmb3JrN3lvTk4wcHN0VVhQQVhIYmo2?oc=5)
-
-2026-09-26
-
-Source: [SciTechDaily](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQnM0cUhicDl3WXJzNGR0amdJR3AxdG1hOFo0Ny02NF9zQmtiWkM4ZWJqM3JrSzE3SWpHeURENDJmYzduOHl2ZDhlMW5rbHByM2hMS3RRSVI2RFlEVERnSC1kbU4wSE8xUmxqQXlHZHpFbDdTTlhRcElVV2NsQjBkdUQtdGdacDc2T2c1aGlRMW9ib091RE0tTHNfT0dnTk9DT1Zmb3JrN3lvTk4wcHN0VVhQQVhIYmo2?oc=5)
+Source: [KOMO](https://news.google.com/rss/articles/CBMi2wJBVV95cUxNRU9aLXMyMF90R3ZlLUJWN2ZjRDREcnE0Z1E1VEhUaF8tcnF0Nkp1MEhJSzY2MlZ0S1ZoQnpFcTdBQU1lZGdOaXhZajdGemM3T3ROYWYzcS1VSUV2U3Y1c1k5bmlLVkJfdzB3YTN6VDd6MC1PMGtQeDhIZ2lQc21MLVNNVEJBZG1tTy1YMWlROGRSUmFsVk9rclFsdzN4b1RDV2Q5Unh4c1JvZ1BJcTJNLXY4T081QnpFQTlmWUJ0clJoRURyeTZtUi1zTnFfSVR5WlhmMEwtS0xFLWFDdjJoc1VYYnRMRll4UU96U3hzdFNqLWpnTDU4eFpjdmkwd29DNmVNMGhjdzc1QU9TZDlUcUQyeXVCMWUzZnJURkppWVA4aGRHb2xGWjR4Vm5GMHc3Rmdoclk4T3lENXZGQUVPSnNQYnVVVzc5OUJZZEswNktkX2daU08xbkRrWQ?oc=5)
 
 ---
 
@@ -56,11 +48,11 @@ Source: [TribLIVE.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxPdXR4
 
 ---
 
-### [Should you get a covid vaccine this fall? Here’s what to know. - The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxORUs4cjJXMTc3X1ZZUEpiVVhTZWV4QXhRbzRQSjl6OG9ROG5jczNmcXRFRktJWHY2eUhFUDkyTTM5TmhiZVlCQ2dkb2pRRWpuMDdmV0pkSFJSa1FvbkpFNzNwc0VjTURFQ0lXR1Vaa0ZkWC1Nc2RjaHpvV2RUdGV1XzlYbDljaTF6WGVqM29xeW5aLXZGQnRJbDJMNTFLMmxabUZpdl9POUtNMm14?oc=5)
+### [Should you get a covid vaccine this fall? Here’s what to know.](https://news.google.com/rss/articles/CBMirAFBVV95cUxORUs4cjJXMTc3X1ZZUEpiVVhTZWV4QXhRbzRQSjl6OG9ROG5jczNmcXRFRktJWHY2eUhFUDkyTTM5TmhiZVlCQ2dkb2pRRWpuMDdmV0pkSFJSa1FvbkpFNzNwc0VjTURFQ0lXR1Vaa0ZkWC1Nc2RjaHpvV2RUdGV1XzlYbDljaTF6WGVqM29xeW5aLXZGQnRJbDJMNTFLMmxabUZpdl9POUtNMm14?oc=5)
 
 2026-09-22
 
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxORUs4cjJXMTc3X1ZZUEpiVVhTZWV4QXhRbzRQSjl6OG9ROG5jczNmcXRFRktJWHY2eUhFUDkyTTM5TmhiZVlCQ2dkb2pRRWpuMDdmV0pkSFJSa1FvbkpFNzNwc0VjTURFQ0lXR1Vaa0ZkWC1Nc2RjaHpvV2RUdGV1XzlYbDljaTF6WGVqM29xeW5aLXZGQnRJbDJMNTFLMmxabUZpdl9POUtNMm14?oc=5)
+Source: [washingtonpost.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxORUs4cjJXMTc3X1ZZUEpiVVhTZWV4QXhRbzRQSjl6OG9ROG5jczNmcXRFRktJWHY2eUhFUDkyTTM5TmhiZVlCQ2dkb2pRRWpuMDdmV0pkSFJSa1FvbkpFNzNwc0VjTURFQ0lXR1Vaa0ZkWC1Nc2RjaHpvV2RUdGV1XzlYbDljaTF6WGVqM29xeW5aLXZGQnRJbDJMNTFLMmxabUZpdl9POUtNMm14?oc=5)
 
 ---
 

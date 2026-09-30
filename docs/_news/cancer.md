@@ -31,11 +31,35 @@ This page brings together the latest health news about “cancer” and lists th
 
 ## Related News (7)
 
-### [This Pill Will Change Cancer Treatment Forever](https://news.google.com/rss/articles/CBMigwFBVV95cUxOaVo2RHNhYWlkbHRzd1BZUFhneFRGMkFsc1h4UGdwbUktZXBrNEpGMXVWaDlxckg0SHNoVFJ2WFBjbXo5UDNNUFBoLVVRbXFJUVdsWlJuWjNxQndxRElnWW16N2p2cEREdTBvME9tN09pbkJWSnl1MEVrMzNrZWV5RVFkOA?oc=5)
+### [Clues to Why a Breakthrough Pancreatic Cancer Drug Eventually Stops Working - The New York Times](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdlBieXNlcHBLVVlhZXRqOEJmSkQtS1BiLWlfU1pVSzRGZlR4b2FKU1lWYmh4QlVXQ193cDFRSnhBbXRsV0g4ZEZZdkFQLXRfOVZOYkItN3VHN3BCOXhHOHZHakU2a0g2SDBMWEV4V3BPZGNER09VRzB5WndWWUNtQnVVbVB1N0dCTWdkek9sZEVsZTBWMjF6aDZNWFAxal84ZHpEUjIycw?oc=5)
 
 2026-09-30
 
-Source: [Gizmodo](https://news.google.com/rss/articles/CBMigwFBVV95cUxOaVo2RHNhYWlkbHRzd1BZUFhneFRGMkFsc1h4UGdwbUktZXBrNEpGMXVWaDlxckg0SHNoVFJ2WFBjbXo5UDNNUFBoLVVRbXFJUVdsWlJuWjNxQndxRElnWW16N2p2cEREdTBvME9tN09pbkJWSnl1MEVrMzNrZWV5RVFkOA?oc=5)
+Source: [The New York Times](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdlBieXNlcHBLVVlhZXRqOEJmSkQtS1BiLWlfU1pVSzRGZlR4b2FKU1lWYmh4QlVXQ193cDFRSnhBbXRsV0g4ZEZZdkFQLXRfOVZOYkItN3VHN3BCOXhHOHZHakU2a0g2SDBMWEV4V3BPZGNER09VRzB5WndWWUNtQnVVbVB1N0dCTWdkek9sZEVsZTBWMjF6aDZNWFAxal84ZHpEUjIycw?oc=5)
+
+---
+
+### [1 in 8 Cancers Are Caused by Infections. The Biggest Culprit Isn’t HPV](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdmZKbFc0cVY3ajFlem9vaWwtbnFtSmZsaUpsX3QtX0xldmhXeS0wRDhGazE2WVZqU1ZobktJeU1rbFV1Qll3WC1lZjR2bG1KZWVPWWpocVVpTEFRbGI1RU10R01RbmtXWUJJMkJxUlMtR0kzT1NpT25HS183NVluVGhLUHBfNFNpdGVSbDBvQmpybG1yWklJb29PLW5HLUR1Ulg3YXNOTQ?oc=5)
+
+2026-09-30
+
+Source: [Gizmodo](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdmZKbFc0cVY3ajFlem9vaWwtbnFtSmZsaUpsX3QtX0xldmhXeS0wRDhGazE2WVZqU1ZobktJeU1rbFV1Qll3WC1lZjR2bG1KZWVPWWpocVVpTEFRbGI1RU10R01RbmtXWUJJMkJxUlMtR0kzT1NpT25HS183NVluVGhLUHBfNFNpdGVSbDBvQmpybG1yWklJb29PLW5HLUR1Ulg3YXNOTQ?oc=5)
+
+---
+
+### [This Stock, Up Almost 70%, May Have Found Cancer's Holy 'Grail' - Investor's Business Daily](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWHdZRVlWR0wxVnB4cllFcWZGdFFqYlFtQldMQkF2enQtNTJpMkFsaDVyQjJ0MWdFbzlHck5TSmZlOWd1WVJYcWVjS0JPS3RRSk9uUVdOTHBSMHFiNzBJRzVQWk1KbVVVYnYtNzJhWFMtaFRNVVhBNXFHOFRVUGR6QUdKOC1RZU5SM21zOFo1TTR5cXF6aWV3dUUtbU9BSlB4SjVaWQ?oc=5)
+
+2026-09-30
+
+Source: [Investor's Business Daily](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWHdZRVlWR0wxVnB4cllFcWZGdFFqYlFtQldMQkF2enQtNTJpMkFsaDVyQjJ0MWdFbzlHck5TSmZlOWd1WVJYcWVjS0JPS3RRSk9uUVdOTHBSMHFiNzBJRzVQWk1KbVVVYnYtNzJhWFMtaFRNVVhBNXFHOFRVUGR6QUdKOC1RZU5SM21zOFo1TTR5cXF6aWV3dUUtbU9BSlB4SjVaWQ?oc=5)
+
+---
+
+### [Gay men share their journeys with prostate cancer & explain why early detection is everything](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcTlIc1duVlhIbnNXbWhWU3FOZVJJWkJ6TU81V1p4d0hoVTdMekFpWEZyMzVCN2x3bFVFQ0R4NkRqT3JYYmw0cUFnZmEzYW5hak1tTzJqenVGWHYyM0hDR082RUd0My1LR1dWaVg0cTd5TW9SUTEzUGkxdGZsUzZUcVRTU1R0ZmZnR3pvejFJR2lwZ21JUlFCODcteEtHMzN3ZEJDU3MtcDdyQlZZYkdZZXJqbGFxU0EyRDBRMnhaVXltaVU?oc=5)
+
+2026-09-29
+
+Source: [queerty.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcTlIc1duVlhIbnNXbWhWU3FOZVJJWkJ6TU81V1p4d0hoVTdMekFpWEZyMzVCN2x3bFVFQ0R4NkRqT3JYYmw0cUFnZmEzYW5hak1tTzJqenVGWHYyM0hDR082RUd0My1LR1dWaVg0cTd5TW9SUTEzUGkxdGZsUzZUcVRTU1R0ZmZnR3pvejFJR2lwZ21JUlFCODcteEtHMzN3ZEJDU3MtcDdyQlZZYkdZZXJqbGFxU0EyRDBRMnhaVXltaVU?oc=5)
 
 ---
 
@@ -47,43 +71,19 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUm
 
 ---
 
-### [One in eight cancer cases linked to preventable infections](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObWdNaWZreUhMWkJjSUoycVJ3S2dJTzJ1SndqdHVwVllmeENTZVk2WTlKbE4zTFhTLVZlVGFhVVNXMHdqb3I1RjJrdjdvd0ZXV2hpLUtscF9QNktaNkItRzBoV2lFNy1Kd05kdkVvdjB5QUNoaFFtSDFUelRESlZmakxmdDFnUm5iSzFVeHlnWlE2djZKTkxqVnowZzloVzZoUGlucVNETndDekJjZmxzcjUzTEpmdVdLaWlz?oc=5)
+### [A new chapter in targeting kinase enzymes in cancer](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TVE5zVGJ1UE1TZWhkMTdIenBlRDdGdUd3ZW04bzJUb19kRXNZU1FGM3oyaWJMejI3VVRYVzZkTjBiN3JhZmk1T3hsTXhGRWlNMG1WVVZpcWFXTmhUVkFF?oc=5)
 
 2026-09-29
 
-Source: [Euronews.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObWdNaWZreUhMWkJjSUoycVJ3S2dJTzJ1SndqdHVwVllmeENTZVk2WTlKbE4zTFhTLVZlVGFhVVNXMHdqb3I1RjJrdjdvd0ZXV2hpLUtscF9QNktaNkItRzBoV2lFNy1Kd05kdkVvdjB5QUNoaFFtSDFUelRESlZmakxmdDFnUm5iSzFVeHlnWlE2djZKTkxqVnowZzloVzZoUGlucVNETndDekJjZmxzcjUzTEpmdVdLaWlz?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TVE5zVGJ1UE1TZWhkMTdIenBlRDdGdUd3ZW04bzJUb19kRXNZU1FGM3oyaWJMejI3VVRYVzZkTjBiN3JhZmk1T3hsTXhGRWlNMG1WVVZpcWFXTmhUVkFF?oc=5)
 
 ---
 
-### [Stomach bacterium hijacks healing signals to drive precancerous changes, study finds - Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxQdW50eHFtVTdDckI4M3RDS19QZ1JtNFVzRFJCZWVJMG5XWWtPNjI1Szk4SnZRX1M0RnFRNEpZUkJwY0R4RUVtS2k3cnlUVWZpMGdWY3lKTXVUYWV4dkE2WVE0OFdvMzVBOXZNRHhGN0FqaWpXTE16OG5Mcm1MVWJzY3hyd1lYT0JtRVE?oc=5)
+### [Exclusive | She was ready to die. Now she’s in remission — cancer vaccines could be the next big thing in medicine - New York Post](https://news.google.com/rss/articles/CBMimAFBVV95cUxPVHdBZWZEYUw0T1NDazM3akREbllDdzJ4RllON0xwLXlrb29qLTlaTkVGUnV5TE5DZHh1eFdRXzcyM015N0VfYjBsemVxcThTdW1RN3RSZUJ2UEZfOW5zTmt5bldfT0VqLXM0VTZfVkRxV1V3TU02bUlPZktGb2dJUjB5YzJuS2VqTURHWXJOcFdlQS1ZM2x6Tw?oc=5)
 
-2026-09-28
+2026-09-29
 
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxQdW50eHFtVTdDckI4M3RDS19QZ1JtNFVzRFJCZWVJMG5XWWtPNjI1Szk4SnZRX1M0RnFRNEpZUkJwY0R4RUVtS2k3cnlUVWZpMGdWY3lKTXVUYWV4dkE2WVE0OFdvMzVBOXZNRHhGN0FqaWpXTE16OG5Mcm1MVWJzY3hyd1lYT0JtRVE?oc=5)
-
----
-
-### [Coffee's Optimal Liver-Protective Dose](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmNzV19FYTVzTjRERXlaYTVPQ0pCQ2FHYXpnVkpaYWtJWHlncm11RG4zZ1o4RUREbHVoQ3hhNGxudjU3S0s4TmJlZW5ORXlZQk5MOEZCbEtDSnE2TTNuN21VM2lteVd3NmY5SW5MNUh4dV83bUVkdVZ3UlZVQUFtVmtKbHNYamVrUVFFNVk2c08?oc=5)
-
-2026-09-28
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmNzV19FYTVzTjRERXlaYTVPQ0pCQ2FHYXpnVkpaYWtJWHlncm11RG4zZ1o4RUREbHVoQ3hhNGxudjU3S0s4TmJlZW5ORXlZQk5MOEZCbEtDSnE2TTNuN21VM2lteVd3NmY5SW5MNUh4dV83bUVkdVZ3UlZVQUFtVmtKbHNYamVrUVFFNVk2c08?oc=5)
-
----
-
-### [From professor to patient: One man's journey on the frontier of lung cancer treatment](https://news.google.com/rss/articles/CBMijgFBVV95cUxPc1BhZUlKbFRTeFFHbWZRUWlDMG5obW5aUXZMNzFPZmJfM0F1WXlZN0xPMFlFNkRWOGFOcVZqZ1J3WnFfdW5PaGUzdEJfU2JEZmpoaF9qUmlzYUVVdFpVeXpzQmJkbWdNSTIwTUYxemNReG1adUhwR2ZKU2t6cXJXaEZwU0k2cHpsbVVqbUln?oc=5)
-
-2026-09-27
-
-Source: [NPR](https://news.google.com/rss/articles/CBMijgFBVV95cUxPc1BhZUlKbFRTeFFHbWZRUWlDMG5obW5aUXZMNzFPZmJfM0F1WXlZN0xPMFlFNkRWOGFOcVZqZ1J3WnFfdW5PaGUzdEJfU2JEZmpoaF9qUmlzYUVVdFpVeXpzQmJkbWdNSTIwTUYxemNReG1adUhwR2ZKU2t6cXJXaEZwU0k2cHpsbVVqbUln?oc=5)
-
----
-
-### [Men Are Sharing The "Hidden Signs" Of Prostate Cancer They Wish They'd Taken More Seriously](https://news.google.com/rss/articles/CBMickFVX3lxTE04R0d3dFVkaTM4U2NJNTJhQTg2VllyTlJmRkJFeWpObzhGNnpVS0NjbGJua1hHMG5jU3F0OVo5S1FhMWRvclhaYnRUWWQ1THc0OVpQWTFJeWcyMURGSlROakZOc3E5TEc3dzA4UHA1SFVJZw?oc=5)
-
-2026-09-23
-
-Source: [BuzzFeed](https://news.google.com/rss/articles/CBMickFVX3lxTE04R0d3dFVkaTM4U2NJNTJhQTg2VllyTlJmRkJFeWpObzhGNnpVS0NjbGJua1hHMG5jU3F0OVo5S1FhMWRvclhaYnRUWWQ1THc0OVpQWTFJeWcyMURGSlROakZOc3E5TEc3dzA4UHA1SFVJZw?oc=5)
+Source: [New York Post](https://news.google.com/rss/articles/CBMimAFBVV95cUxPVHdBZWZEYUw0T1NDazM3akREbllDdzJ4RllON0xwLXlrb29qLTlaTkVGUnV5TE5DZHh1eFdRXzcyM015N0VfYjBsemVxcThTdW1RN3RSZUJ2UEZfOW5zTmt5bldfT0VqLXM0VTZfVkRxV1V3TU02bUlPZktGb2dJUjB5YzJuS2VqTURHWXJOcFdlQS1ZM2x6Tw?oc=5)
 
 ---
 

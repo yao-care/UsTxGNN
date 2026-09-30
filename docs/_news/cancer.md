@@ -3,7 +3,7 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 6 articles, 1 related drugs."
+description: "Health news about cancer. 7 articles, 1 related drugs."
 permalink: /news/cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cancer/
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>7 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,13 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (6)
+## Related News (7)
 
-### [A woman in her 30s noticed her period was irregular. It turns out, she had ovarian cancer. - Business Insider](https://news.google.com/rss/articles/CBMijAFBVV95cUxNdWplOXlDaW1pVTFIQ256QzNXS005N0UyT1RFUlY1VHoweG52bUdFekotV0VKTVlrZW1PeFpZMDliN2RyTlFOdmxoRHpDMS0xNm5tT0g5YzVxcTRkV242NFBxdTVNeUNQRVBMTF9Seml3R2puejc0NV9iWWpQb1h5MktuRzFYRXhIdVRlRg?oc=5)
+### [This Pill Will Change Cancer Treatment Forever](https://news.google.com/rss/articles/CBMigwFBVV95cUxOaVo2RHNhYWlkbHRzd1BZUFhneFRGMkFsc1h4UGdwbUktZXBrNEpGMXVWaDlxckg0SHNoVFJ2WFBjbXo5UDNNUFBoLVVRbXFJUVdsWlJuWjNxQndxRElnWW16N2p2cEREdTBvME9tN09pbkJWSnl1MEVrMzNrZWV5RVFkOA?oc=5)
 
-2026-09-29
+2026-09-30
 
-Source: [Business Insider](https://news.google.com/rss/articles/CBMijAFBVV95cUxNdWplOXlDaW1pVTFIQ256QzNXS005N0UyT1RFUlY1VHoweG52bUdFekotV0VKTVlrZW1PeFpZMDliN2RyTlFOdmxoRHpDMS0xNm5tT0g5YzVxcTRkV242NFBxdTVNeUNQRVBMTF9Seml3R2puejc0NV9iWWpQb1h5MktuRzFYRXhIdVRlRg?oc=5)
+Source: [Gizmodo](https://news.google.com/rss/articles/CBMigwFBVV95cUxOaVo2RHNhYWlkbHRzd1BZUFhneFRGMkFsc1h4UGdwbUktZXBrNEpGMXVWaDlxckg0SHNoVFJ2WFBjbXo5UDNNUFBoLVVRbXFJUVdsWlJuWjNxQndxRElnWW16N2p2cEREdTBvME9tN09pbkJWSnl1MEVrMzNrZWV5RVFkOA?oc=5)
 
 ---
 
@@ -52,6 +52,14 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUm
 2026-09-29
 
 Source: [Euronews.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObWdNaWZreUhMWkJjSUoycVJ3S2dJTzJ1SndqdHVwVllmeENTZVk2WTlKbE4zTFhTLVZlVGFhVVNXMHdqb3I1RjJrdjdvd0ZXV2hpLUtscF9QNktaNkItRzBoV2lFNy1Kd05kdkVvdjB5QUNoaFFtSDFUelRESlZmakxmdDFnUm5iSzFVeHlnWlE2djZKTkxqVnowZzloVzZoUGlucVNETndDekJjZmxzcjUzTEpmdVdLaWlz?oc=5)
+
+---
+
+### [Stomach bacterium hijacks healing signals to drive precancerous changes, study finds - Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxQdW50eHFtVTdDckI4M3RDS19QZ1JtNFVzRFJCZWVJMG5XWWtPNjI1Szk4SnZRX1M0RnFRNEpZUkJwY0R4RUVtS2k3cnlUVWZpMGdWY3lKTXVUYWV4dkE2WVE0OFdvMzVBOXZNRHhGN0FqaWpXTE16OG5Mcm1MVWJzY3hyd1lYT0JtRVE?oc=5)
+
+2026-09-28
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxQdW50eHFtVTdDckI4M3RDS19QZ1JtNFVzRFJCZWVJMG5XWWtPNjI1Szk4SnZRX1M0RnFRNEpZUkJwY0R4RUVtS2k3cnlUVWZpMGdWY3lKTXVUYWV4dkE2WVE0OFdvMzVBOXZNRHhGN0FqaWpXTE16OG5Mcm1MVWJzY3hyd1lYT0JtRVE?oc=5)
 
 ---
 

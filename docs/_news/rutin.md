@@ -14,7 +14,7 @@ permalink: /news/rutin/
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>7 news articles</strong>, with 8 predicted indications.
+<strong>Rutin</strong> currently has <strong>8 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,47 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (8)
+
+### [People who walk more or walk faster live longer, study finds](https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWVwNUJsMmJPNWRzMmdhdDl1WnVGOTZPVFl2eFZfZ0tHTFBJOWpDVFkwU1EyMzZFZTJkUm5yMVpsNjI4eks0TGtjRWlNX1BpZkRrdlhZOGRsdlFlZFEzWjNKaUVLbngtYjNoREZVUEVlbU9zOXlIbUFGbTFUUDZ3NDFOS21BZHV0YnJFcDBpVzRjQkpsbl8xRTl5ZnlFU3JLTDhObUd3?oc=5)
+
+2026-10-01 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [health.harvard.edu](https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWVwNUJsMmJPNWRzMmdhdDl1WnVGOTZPVFl2eFZfZ0tHTFBJOWpDVFkwU1EyMzZFZTJkUm5yMVpsNjI4eks0TGtjRWlNX1BpZkRrdlhZOGRsdlFlZFEzWjNKaUVLbngtYjNoREZVUEVlbU9zOXlIbUFGbTFUUDZ3NDFOS21BZHV0YnJFcDBpVzRjQkpsbl8xRTl5ZnlFU3JLTDhObUd3?oc=5)
+
+---
+
+### [Owning smartphone at age 12 may raise child’s disordered-eating risk, study says - The Washington Post](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY2FONG9OVTRfeTFROWI0SWhtbTlkWllkUlAwZk8yMG1mOU5jNWRJU0lienpiODlGNWFFSzR5OUxyZFB3QjY2QzBhNWVRMDhvY054cnFQODlQaDA2S0xxVnBKbTN0ZDlnUG9adTk3QmJlVHFLUHVqeE5TZEwtQlFuM3U2ZHpaUk81bmZYQkxaaGRpRy1pSmRnVXpnQTBMaVhoSUZUamVoblhMZnRCQTh0TUJBdGlLcS02MUpCN2cyc3hjZw?oc=5)
+
+2026-10-01 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY2FONG9OVTRfeTFROWI0SWhtbTlkWllkUlAwZk8yMG1mOU5jNWRJU0lienpiODlGNWFFSzR5OUxyZFB3QjY2QzBhNWVRMDhvY054cnFQODlQaDA2S0xxVnBKbTN0ZDlnUG9adTk3QmJlVHFLUHVqeE5TZEwtQlFuM3U2ZHpaUk81bmZYQkxaaGRpRy1pSmRnVXpnQTBMaVhoSUZUamVoblhMZnRCQTh0TUJBdGlLcS02MUpCN2cyc3hjZw?oc=5)
+
+---
+
+### [Eating sugar while taking antibiotics might harm gut bacteria](https://news.google.com/rss/articles/CBMikgFBVV95cUxQbFhkT0FBVThYZFlIbjlodWloaFlkV2huSlVOMU1UWGdjSjVvemdHbjFVaHRLV3YtQVNhcTBEYW9PMVp5dWJkRldBTVpRc1BPaURwSkJEMzFFUlNxSEdlOVhCRXhjdTJJajQxaHNaYzlzZnpBN1M2VXdYNFNnWkhhOThkVE05ajI3dzlEcTVfU19QUQ?oc=5)
+
+2026-10-01 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [CNN](https://news.google.com/rss/articles/CBMikgFBVV95cUxQbFhkT0FBVThYZFlIbjlodWloaFlkV2huSlVOMU1UWGdjSjVvemdHbjFVaHRLV3YtQVNhcTBEYW9PMVp5dWJkRldBTVpRc1BPaURwSkJEMzFFUlNxSEdlOVhCRXhjdTJJajQxaHNaYzlzZnpBN1M2VXdYNFNnWkhhOThkVE05ajI3dzlEcTVfU19QUQ?oc=5)
+
+---
+
+### [One of The World's Most Used Drugs May Lower Dementia Risk – But There's a Catch](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUF8xTG5aSm1jYkpyWUZWalBQYV9zT3BrYVk4WkMtYkhEcGhiRnVMMWVnalVxa1VxZWxhaTgxWkppdXZBeXNKa05zYWFCTFNyc2U5alltb19TdU1PS0ZQbHpUdWxNVWlqUzN6RHN6Q2FqUGxheDVwUWFlUTlPaU9jaFJJV1ZJT1dRc1ZOUzVhdmNwMUVQbGZvMGNDOW10aTJxNDBxcVV0U1E?oc=5)
+
+2026-10-01 <span class="news-indication-tag">UC</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUF8xTG5aSm1jYkpyWUZWalBQYV9zT3BrYVk4WkMtYkhEcGhiRnVMMWVnalVxa1VxZWxhaTgxWkppdXZBeXNKa05zYWFCTFNyc2U5alltb19TdU1PS0ZQbHpUdWxNVWlqUzN6RHN6Q2FqUGxheDVwUWFlUTlPaU9jaFJJV1ZJT1dRc1ZOUzVhdmNwMUVQbGZvMGNDOW10aTJxNDBxcVV0U1E?oc=5)
+
+---
+
+### [Something Strange Happens When an Old Heart Is Transplanted Into a Young Body](https://news.google.com/rss/articles/CBMirAFBVV95cUxPZTU5UndDYVRyb2ZhZHMyU3YxaGg1akdtQ2NtdFk5Umk0dmJMZk43WWFZemFLLTlSY1lUZXpoQ3R2Y0ZpaUxZY2EtMkJjbUJ3azlYZ1gxekxJNUEtaWJNWGFCaEZWd3BVNFItVlpFV2ZuM2FlVUhlNWZ5M0JVZzVOY0p5ekc2SXZTOHAwVk5SaHBfaEhNTGZEaFVEOEtqOVd3ZE5SRUM4dWRiYmZm?oc=5)
+
+2026-09-30 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Gizmodo](https://news.google.com/rss/articles/CBMirAFBVV95cUxPZTU5UndDYVRyb2ZhZHMyU3YxaGg1akdtQ2NtdFk5Umk0dmJMZk43WWFZemFLLTlSY1lUZXpoQ3R2Y0ZpaUxZY2EtMkJjbUJ3azlYZ1gxekxJNUEtaWJNWGFCaEZWd3BVNFItVlpFV2ZuM2FlVUhlNWZ5M0JVZzVOY0p5ekc2SXZTOHAwVk5SaHBfaEhNTGZEaFVEOEtqOVd3ZE5SRUM4dWRiYmZm?oc=5)
+
+---
 
 ### [Astronomers have produced the clearest exoplanet 'ultrasound' to date and it's twins!](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcW1DVy1xa3VELUVOYzhabWF5RS1KTFBQa2xPSjdiMzJjWVJtVkI4Zjk5aWkxMmNEV0dMNmNGaUpXOThaX21tdGpxNThYU1ZHVXZjXzlmNWJLS1ludFZjMlN5ZU51X1ZnSkRQOVZlQkVDTmtXMzdKU0l1ZEpaaXBFak96ZzV0cG5WYi1kYi1DVDV1WWVTTWwwSmlEbVdQcmpJbDQzRXJGcFhvcmpFN29ob2FFN05RdnFUTXliZm5HX3pvQQ?oc=5)
 
@@ -56,43 +96,11 @@ Source: [The Conversation](https://news.google.com/rss/articles/CBMiswFBVV95cUxP
 
 ---
 
-### [West Nile virus cases surging across Los Angeles County](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdVFBbjN6MDlWbkR5bUI1bWpfUmcwVWZ1SHJkaDdabDdJRk01MzU0YUREcTFWaENoY3U5VXJtdnl6cjk0OElUZVdLeGNoSUFyLTJFclRzT1BUUDJxWDIyOF9HRGhCcTVzR2JESWRGbnVzVmVNcU1HaEQxbnotc2dJbHBJZ2RnQ0NrTnfSAY8BQVVfeXFMTjZKZlJIeXM4dHU5TkVVY0hFVlh4Q3c5XzRpM3p1czZxTTlocmllSkFJbjhsbzJiYTFSS0xFS2lhMnRfSmNvTW45S2dkVzBQckJjQy1zYmdVWTZXdFFScUlIU3BkcFBBZ0g5MXBOR2tLNWFUbldkQWRRTHZNUUhqMU5KS3g1Q0dzeVkzaEtpQjA?oc=5)
-
-2026-09-29 <span class="news-indication-tag">UC</span>
-
-Source: [ktla.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdVFBbjN6MDlWbkR5bUI1bWpfUmcwVWZ1SHJkaDdabDdJRk01MzU0YUREcTFWaENoY3U5VXJtdnl6cjk0OElUZVdLeGNoSUFyLTJFclRzT1BUUDJxWDIyOF9HRGhCcTVzR2JESWRGbnVzVmVNcU1HaEQxbnotc2dJbHBJZ2RnQ0NrTnfSAY8BQVVfeXFMTjZKZlJIeXM4dHU5TkVVY0hFVlh4Q3c5XzRpM3p1czZxTTlocmllSkFJbjhsbzJiYTFSS0xFS2lhMnRfSmNvTW45S2dkVzBQckJjQy1zYmdVWTZXdFFScUlIU3BkcFBBZ0g5MXBOR2tLNWFUbldkQWRRTHZNUUhqMU5KS3g1Q0dzeVkzaEtpQjA?oc=5)
-
----
-
 ### [Suns set on hunt for giant planets in nearby binary system](https://news.google.com/rss/articles/CBMidkFVX3lxTE1IZzNybjZCLXlGTmg3c295aDE5bzJ1ZlNBNWEzbWl3UXViSUJxa3lRX3c2UHBPYW1INTlvN3NHbHBEaUliX1kyUFI2MUFtQ2doakVkaG5IaENZOUZ6Mmh0UzYydkQ4bTliVFRiOERvdExzREcwOWc?oc=5)
 
 2026-09-29 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
 Source: [Phys.org](https://news.google.com/rss/articles/CBMidkFVX3lxTE1IZzNybjZCLXlGTmg3c295aDE5bzJ1ZlNBNWEzbWl3UXViSUJxa3lRX3c2UHBPYW1INTlvN3NHbHBEaUliX1kyUFI2MUFtQ2doakVkaG5IaENZOUZ6Mmh0UzYydkQ4bTliVFRiOERvdExzREcwOWc?oc=5)
-
----
-
-### [‘Long flu’ can linger for months. Here’s how to reduce your risk. - The Washington Post](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYzIwNzFrLVpLX05wZFhwLUFLdy1wWGV3S09QbUxZT2ladkw0NU42YVFGdVRIanhPbUR3LS02YVJOSTltNjU2TWlkenlLbjBfWDNxWnprcXM2VEpfOXp6cTVfVTBYc3FZVHNWX2x3clF3ZlVYc1VVZ3BGSGdETExXVVo4OTVieWF3OXJtRW1UWmlIUE85V3pMTjc5cXBpbWd1emxJSHRabjI?oc=5)
-
-2026-09-29 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">flu</span> <span class="news-indication-tag">UC</span>
-
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYzIwNzFrLVpLX05wZFhwLUFLdy1wWGV3S09QbUxZT2ladkw0NU42YVFGdVRIanhPbUR3LS02YVJOSTltNjU2TWlkenlLbjBfWDNxWnprcXM2VEpfOXp6cTVfVTBYc3FZVHNWX2x3clF3ZlVYc1VVZ3BGSGdETExXVVo4OTVieWF3OXJtRW1UWmlIUE85V3pMTjc5cXBpbWd1emxJSHRabjI?oc=5)
-
----
-
-### [Less protein for maggots means longer lives for fruit flies - Ars Technica](https://news.google.com/rss/articles/CBMisgFBVV95cUxQSV9rX0Y0bUxrMjlIZEczbm0xblJRUUJ6ZlFMM1dpR3poekc5bFBTRHhVSmFaUDlKRW5pMUVIVV9ZbHNTZGtFRkJVamI5STFJdU54Y21JdXdZMXhkTThKVmUwRkRkb3Z4LWFwSmowYXhLbUVwZlN1WEFJd0hUUUpuMTJkaFg3dWxPUG9OT3pST2dkNTlDckJ6UDVZTk5JMVJva2pEZ3RJZjluZkxOU01mQ0dB?oc=5)
-
-2026-09-29 <span class="news-indication-tag">UC</span>
-
-Source: [Ars Technica](https://news.google.com/rss/articles/CBMisgFBVV95cUxQSV9rX0Y0bUxrMjlIZEczbm0xblJRUUJ6ZlFMM1dpR3poekc5bFBTRHhVSmFaUDlKRW5pMUVIVV9ZbHNTZGtFRkJVamI5STFJdU54Y21JdXdZMXhkTThKVmUwRkRkb3Z4LWFwSmowYXhLbUVwZlN1WEFJd0hUUUpuMTJkaFg3dWxPUG9OT3pST2dkNTlDckJ6UDVZTk5JMVJva2pEZ3RJZjluZkxOU01mQ0dB?oc=5)
-
----
-
-### [Horrifying Research Finds What Happens to 12-Year-Olds Who Get Smart Phones](https://news.google.com/rss/articles/CBMihgFBVV95cUxQNjdFczI1RXpxQnpzOEV5eFJaeVRTelpZbnlmSEt4Z0d3QWpYVkxXSXFGcVJ5VEZyTTB1RmNvS2RLd2t3OENjLWNtWWFFVGNLdW1iZHRlbUlJQTVxSHJac20wai1LOEVQbWNtQmxnT0kyU3lNeXVVVWI2a2V4V1kxdG1NVmJodw?oc=5)
-
-2026-09-29 <span class="news-indication-tag">UC</span>
-
-Source: [Futurism](https://news.google.com/rss/articles/CBMihgFBVV95cUxQNjdFczI1RXpxQnpzOEV5eFJaeVRTelpZbnlmSEt4Z0d3QWpYVkxXSXFGcVJ5VEZyTTB1RmNvS2RLd2t3OENjLWNtWWFFVGNLdW1iZHRlbUlJQTVxSHJac20wai1LOEVQbWNtQmxnT0kyU3lNeXVVVWI2a2V4V1kxdG1NVmJodw?oc=5)
 
 ---
 

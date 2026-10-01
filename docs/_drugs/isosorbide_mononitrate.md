@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Isosorbide Mononitrate
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 816
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
 ---
 
 # Isosorbide Mononitrate
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Isosorbide Mononitrate: A Nitrate Vasodilator Under Evaluation for Pulmonary Arterial Hypertension
+# Isosorbide Mononitrate: From Angina Prevention to Hypertrichosis
 
 ## One-Sentence Summary
 
-> Isosorbide mononitrate (ISMN, DB01020) has no Taiwan market license on file, and its original approved indication is not available in this Evidence Pack (data gap). TxGNN's top-ranked predictions (hypertrichosis, alopecia, and several rare congenital syndromes) were reviewed and found to have **no supporting mechanistic or literature evidence** — most appear to be artifacts of disease-embedding clustering in the model. The one candidate with genuine, if preliminary, support is **Pulmonary Arterial Hypertension (PAH)**, ranked #10 by TxGNN score but the only indication reaching evidence level **L3** with **6 literature references** and a coherent NO–sGC–cGMP mechanistic rationale.
-
-**Note on methodology deviation:** This report deviates from mechanically reporting `predicted_indications[0]` (hypertrichosis) as the headline candidate. The evidence pack's own rationale text for ranks 1–9 explicitly states there is "no clinical or preclinical evidence" and flags internal contradictions (e.g., near-identical high scores for both alopecia and hypertrichosis — opposite phenotypes). Presenting a Hold-recommendation, zero-evidence prediction as the lead finding would be misleading. PAH is used below as the substantive candidate for evaluation.
+Isosorbide mononitrate is an oral organic nitrate vasodilator. The Evidence Pack contains no indication text for it, so its use in angina prevention comes from general drug knowledge.
+The TxGNN model predicts it may be effective for **hypertrichosis (excessive hair growth)**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting it.
+The mechanistic link is not credible: excessive hair growth would more plausibly be an adverse-effect signal than a treatment target.
 
 ---
 
@@ -43,23 +43,23 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — TFDA has no market license on file for this drug (data gap, see DG001/DG002) |
-| Predicted New Indication | Pulmonary Arterial Hypertension |
-| TxGNN Prediction Score | 99.94% (rank 10 of candidate list) |
-| Evidence Level | L3 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Licenses | 0 |
-| Recommended Decision | Hold (Research Question — hypothesis-generating, not yet clinically actionable) |
+| Original Indication | Not stated in the Evidence Pack (generally used for angina prevention) |
+| Predicted New Indication | Hypertrichosis (disease) |
+| TxGNN Prediction Score | 99.995% (rank 269) |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (NDA and ANDA authorizations combined) |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (DG002, High severity — DrugBank MOA lookup pending). Based on known pharmacology reflected in the literature evidence itself, isosorbide mononitrate is a nitric oxide (NO) donor that acts through the NO–soluble guanylate cyclase (sGC)–cGMP signaling pathway to produce vasodilation.
+Currently, detailed mechanism of action data is not available in the Evidence Pack. Isosorbide mononitrate is an organic nitrate. Drugs in this class act as nitric oxide (NO) donors, activating soluble guanylate cyclase (sGC) to relax vascular smooth muscle. This vasodilation is the basis of its established cardiovascular use.
 
-This pathway is already a validated drug target in PAH: riociguat directly stimulates sGC, and sildenafil prolongs cGMP signaling by inhibiting its breakdown. One literature reference (PMID 29705351) directly examined NO-sensitive sGC stimulation in a monocrotaline-induced pulmonary hypertension rat model, and another (PMID 29377691) describes a novel hybrid molecule synthesized from ISMN itself that produced pulmonary vasodilation and reduced vascular remodeling in PAH rats. This gives the ISMN→PAH hypothesis a concrete mechanistic anchor, unlike the hair-disorder predictions.
+The predicted indication is a hair-growth excess phenotype. No mechanistic link can be established from the provided data. Nothing connects nitrate vasodilation or NO signaling to the biology of hypertrichosis. If anything, the prediction looks more like a potential adverse-effect signal than a therapeutic opportunity.
 
-However, the rationale also flags a known limitation: chronic nitrate use is associated with pharmacological tolerance and reflex tachycardia, and **no clinical trial has tested ISMN directly in PAH patients**. The supporting literature is a mix of drug-design, preclinical, and tangentially related clinical studies (several concern cirrhosis-related portal hypertension or coronary artery disease, not PAH) — so this remains a research hypothesis rather than a clinically supported repurposing case.
+The score is high, but it comes from knowledge-graph patterns alone. It is not backed by trials, literature, or a known mechanism, so it should be treated as a hypothesis-generating signal at best.
 
 ---
 
@@ -71,26 +71,27 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [29377691](https://pubmed.ncbi.nlm.nih.gov/29377691/) | 2018 | Drug design/synthesis | Journal of Medicinal Chemistry | Novel hybrid synthesized from ISMN + bardoxolone methyl lowered mean pulmonary artery pressure and right ventricular systolic pressure, with dual vasodilation and anti-remodeling activity in PAH rats |
-| [29705351](https://pubmed.ncbi.nlm.nih.gov/29705351/) | 2018 | Preclinical/Animal model | Life Sciences | Examined NO-sensitive soluble guanylate cyclase stimulation in monocrotaline-induced pulmonary hypertension rats, supporting the NO-sGC pathway as a target for halting PH progression |
-| [3384359](https://pubmed.ncbi.nlm.nih.gov/3384359/) | 1988 | Review/Pharmacology | Gut | Oral ISMN reduced portal pressure via decreased portal venous resistance in cirrhotic patients with portal hypertension (hepatic, not pulmonary, vasculature) |
-| [16422873](https://pubmed.ncbi.nlm.nih.gov/16422873/) | 2005 | Clinical (CAD, not PAH) | Journal of Sexual Medicine | Hemodynamic study of sildenafil plus ISMN in coronary artery disease patients with erectile dysfunction; not a PAH population |
-| [2759546](https://pubmed.ncbi.nlm.nih.gov/2759546/) | 1989 | Clinical (cirrhosis, unrelated) | Hepatology | Randomized study found ISMN had no significant effect on hepatic hemodynamics in HBsAg-positive cirrhosis — a negative finding, unrelated to PAH |
-| [9673832](https://pubmed.ncbi.nlm.nih.gov/9673832/) | 1998 | Review | Clinical Pharmacokinetics | General pharmacokinetic review of vasodilator classes including nitrates; background context only |
+Currently no related literature available.
 
 ---
 
-## Taiwan Market Information
+## US Market Information
 
-No licensing records are available — this drug currently has **0 approved licenses** and market status "Not marketed" (not marketed) in Taiwan.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA210822 | Isosorbide Mononitrate | Tablet, extended release | Chartwell RX, LLC |
+| ANDA210918 | Isosorbide Mononitrate | Tablet, extended release | Ingenus Pharmaceuticals, LLC |
+| NDA020215 | Isosorbide mononitrate | Tablet | Proficient Rx LP |
+| ANDA075522 | Isosorbide Mononitrate | Tablet, extended release | NuCare Pharmaceuticals, Inc. |
+| ANDA210918 | Isosorbide Mononitrate | Tablet, extended release | Aphena Pharma Solutions - Tennessee, LLC |
+
+Both listed forms are oral. The Evidence Pack does not include approved indication text for these authorizations.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug interaction data are flagged as a **Blocking** data gap — DG001 — pending TFDA package insert retrieval; this must be resolved before any S1 safety assessment can proceed.)
+Please refer to the package insert for safety information.
 
 ---
 
@@ -99,13 +100,14 @@ Please refer to the package insert for safety information. (Key warnings, contra
 **Decision: Hold**
 
 **Rationale:**
-The PAH hypothesis has a coherent mechanistic basis (NO–sGC–cGMP pathway, an established PAH drug target) and preclinical/drug-design support, but no clinical trial has tested ISMN in PAH patients, and the drug is unmarketed in Taiwan with no available safety labeling. The other nine TxGNN-ranked predictions (hypertrichosis, alopecia, and several rare syndromes) lack any supporting evidence and should not be pursued further — they are most plausibly artifacts of disease-embedding proximity in the model.
+The prediction has no clinical trials, no literature, and no plausible mechanism, so it stays at evidence level L5. The predicted disease is also more consistent with a side-effect signal than a treatment target. Related predictions for this drug (Ambras syndrome, alopecia, hypotrichosis and others) are equally unsupported. The only candidate with indirect biological support is **pulmonary arterial hypertension**, ranked 10th at evidence level L4. Its support is preclinical and hemodynamic studies in other populations, with no PAH patient data. It is better treated as a separate research question than as support for this hypertrichosis prediction.
 
 **To proceed, the following is needed:**
-- TFDA package insert / warnings and contraindications (DG001, Blocking)
-- Confirmed mechanism of action from DrugBank (DG002, High)
-- A dedicated preclinical or early-phase clinical study of ISMN specifically in PAH populations
-- Clarification of Taiwan/global regulatory status, since this drug currently has no Taiwan market license
+- Mechanism of action data from DrugBank, to allow a proper mechanistic-link analysis
+- Package insert warnings and contraindications, which are needed before any safety screening
+- Approved indication text for the US authorizations, to confirm the original indication
+- A pharmacovigilance check of whether hair-growth changes are reported with isosorbide mononitrate, to test the adverse-effect-signal interpretation
+- Any human or preclinical study linking nitrate or NO-sGC signaling to hair follicle biology. Without one, this prediction should not advance.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

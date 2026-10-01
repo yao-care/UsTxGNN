@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Luliconazole
-parent: High Evidence (L1-L2)
+parent: Moderate Evidence (L3-L4)
 nav_order: 876
-evidence_level: L2
+evidence_level: L3
 indication_count: 7
 ---
 
 # Luliconazole
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **7** 
+Evidence Level: **L3** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,80 +29,70 @@ Evidence Level: **L2** | Predicted Indications: **7**
 
 </div>
 
-# Luliconazole: From Topical Antifungal Therapy to Pityriasis Versicolor
+# Luliconazole: From Topical Antifungal Cream to Pityriasis Versicolor
 
 ## One-Sentence Summary
 
-Luliconazole (DrugBank DB08933) is an imidazole-class topical antifungal not currently marketed in Taiwan (0 licenses on record).
-The TxGNN model's top-ranked prediction is efficacy against **Pityriasis Versicolor**,
-with **1 clinical trial** (not yet recruiting) and **3 publications** currently supporting this direction.
-
----
+Luliconazole is an imidazole antifungal, marketed in the US as a topical cream.
+The TxGNN model predicts it may be effective for **pityriasis versicolor**, a superficial skin infection caused by *Malassezia* yeast.
+Support so far is **1 registered trial that has not yet started recruiting**, **1 published comparative randomized trial (2016) without an available abstract**, and **in vitro activity data**.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on record — no Taiwan license history; drug is not yet marketed locally |
-| Predicted New Indication | Pityriasis Versicolor |
+| Predicted New Indication | Pityriasis versicolor |
 | TxGNN Prediction Score | 99.13% |
-| Evidence Level | L2 |
-| Taiwan Market Status | ✗ Not Marketed (Not marketed) |
-| Number of Licenses | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+| Evidence Level | L3 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 (both under NDA204153) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Formal mechanism-of-action data for luliconazole is not available in the structured drug record (data gap DG002). Based on the literature evidence collected for this candidate, luliconazole is an imidazole antifungal that inhibits fungal sterol 14-α-demethylase (CYP51), blocking ergosterol biosynthesis and disrupting fungal cell membrane integrity. Supporting literature (PMID 29198426) describes broad-spectrum activity against dermatophytes, *Candida albicans*, and *Malassezia* species, and explicitly notes luliconazole "has been clinically used for the treatment of pityriasis versicolor" in other markets.
+Luliconazole inhibits sterol 14-α-demethylase (CYP51) in fungal cells, which blocks ergosterol synthesis (PMID 29198426). Laboratory work shows broad activity against dermatophytes, *Candida* and *Malassezia* species. *Malassezia* is the organism that causes pityriasis versicolor. The dedicated mechanism-of-action field in the source data is empty, so this description comes from the literature abstract.
 
-Pityriasis versicolor is caused by *Malassezia* species. An in vitro susceptibility study of the related imidazole compound NND-502 (luliconazole) against *Malassezia furfur*, *M. sympodialis*, and *M. slooffiae* (PMID 12636984) demonstrated potent inhibitory activity, mechanistically consistent with the TxGNN prediction. This mechanistic alignment, combined with an existing head-to-head comparative RCT of luliconazole vs. ketoconazole in pityriasis versicolor (PMID 27559523, 2016) and a newly registered Phase 4 confirmatory trial (NCT07333170), supports biological plausibility, though the drug currently has no Taiwan market presence to build on.
+The approved indication text is not included in the data provided. Luliconazole is a topical antifungal for skin infections, and the literature describes it as already used clinically for dermatophyte infections. Pityriasis versicolor is another superficial fungal skin infection, and topical azoles are a standard treatment class for it. The prediction is therefore mechanistically plausible and close to the existing use. Cream is also the right route for a skin infection, and the topical safety profile is established from marketed use.
 
----
+The clinical evidence for this specific disease is still thin. The main signal is a 2016 comparative trial against ketoconazole, and a Phase 4 head-to-head trial is planned but has no results.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT07333170](https://clinicaltrials.gov/study/NCT07333170) | Phase 4 | Not Yet Recruiting | 86 | Randomized comparison of topical luliconazole 2% cream vs. ketoconazole 1% cream for pityriasis versicolor; aims to test whether luliconazole offers improved efficacy and shorter treatment duration than ketoconazole. |
-
----
+| [NCT07333170](https://clinicaltrials.gov/study/NCT07333170) | Phase 4 | Not yet recruiting | 86 | Randomized comparison of luliconazole 2% cream vs ketoconazole 1% cream in pityriasis versicolor. Planned to start 2026-02 and complete 2026-11. No results yet. |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [27559523](https://pubmed.ncbi.nlm.nih.gov/27559523/) | 2016 | RCT (open-label) | Indian Dermatology Online Journal | Prospective randomized controlled trial comparing topical ketoconazole and topical luliconazole in pityriasis versicolor at a tertiary care hospital. |
-| [29198426](https://pubmed.ncbi.nlm.nih.gov/29198426/) | 2018 | In vitro susceptibility | Journal de Mycologie Médicale | Confirms luliconazole's CYP51-inhibiting, broad-spectrum antifungal activity against dermatophytes, *Candida*, and *Malassezia*, and notes prior clinical use in pityriasis versicolor. |
-| [12636984](https://pubmed.ncbi.nlm.nih.gov/12636984/) | 2003 | In vitro | International Journal of Antimicrobial Agents | In vitro activity of NND-502 (luliconazole) against three major *Malassezia* species, the causative organisms of pityriasis versicolor. |
+| [27559523](https://pubmed.ncbi.nlm.nih.gov/27559523/) | 2016 | Comparative RCT (prospective, open-label) | Indian Dermatol Online J | Compares topical ketoconazole and topical luliconazole in pityriasis versicolor at a tertiary hospital in eastern India. No abstract is available, so results are unverified. |
+| [29198426](https://pubmed.ncbi.nlm.nih.gov/29198426/) | 2018 | In vitro | J Mycol Med | Luliconazole shows broad antifungal activity, including against *Malassezia*. It is described as clinically used for pityriasis versicolor. The study itself tested *Candida* strains. |
+| [12636984](https://pubmed.ncbi.nlm.nih.gov/12636984/) | 2003 | In vitro | Int J Antimicrob Agents | NND-502, an early name for luliconazole, was tested against three major *Malassezia* species and compared with lanoconazole, bifonazole and terbinafine. |
 
----
+## US Market Information
 
-## Taiwan Market Information
-
-Currently not marketed in Taiwan — no license records available (0 licenses on file).
-
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA204153 | Luzu | Cream | Bausch Health US, LLC |
+| NDA204153 | Luliconazole | Cream | Oceanside Pharmaceuticals |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. TFDA label warnings/contraindications and DDI data are not currently available (data gap DG001, blocking further safety assessment).
-
----
+Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Mechanistic plausibility is well supported — luliconazole's CYP51-inhibition activity against *Malassezia* is documented in vitro, and an existing comparative RCT plus a newly registered Phase 4 trial target pityriasis versicolor directly — but the confirmatory Phase 4 trial has not yet started recruiting, and the drug has no current Taiwan market or safety-label presence.
+The TxGNN score is high and the mechanism is plausible, but there is no verified human efficacy result for pityriasis versicolor. The only comparative study has no available abstract, and the Phase 4 trial has not started. This stays a research question until results are available.
 
 **To proceed, the following is needed:**
-- TFDA package insert / warnings and contraindications (blocking gap DG001)
-- Formal mechanism-of-action documentation from DrugBank (gap DG002)
-- Monitoring of NCT07333170 as it moves to recruiting and reports results
-- Assessment of the regulatory pathway for Taiwan market entry, since the drug currently holds no local license
+- Full text and results of the 2016 comparative trial (PMID 27559523), including design and outcomes
+- Results of NCT07333170, expected after its planned completion in late 2026
+- The package insert (warnings, contraindications and approved indications) to complete the safety screen and confirm how this use relates to the labeled indication
+- Confirmed mechanism-of-action data from DrugBank
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

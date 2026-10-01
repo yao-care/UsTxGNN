@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Polidocanol
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 1059
-evidence_level: L2
+evidence_level: L5
 indication_count: 10
 ---
 
 # Polidocanol
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,96 +29,98 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Polidocanol: From Varicose Vein Sclerotherapy to Esophageal Variceal Bleeding
+# Polidocanol: From Varicose Veins to Esophageal Varices with Bleeding
 
 ## One-Sentence Summary
 
-> Polidocanol is a surfactant-type sclerosing agent internationally established for treating varicose and spider veins.
-> The TxGNN model predicts it may be effective for **Esophageal Varices with Bleeding**,
-> with **7 clinical trials** (including one completed Phase 3 RCT) and **19 publications** currently supporting this direction.
-
----
+Polidocanol is an injectable sclerosant, marketed in the US as Asclera. Published literature describes it as approved for varicose veins and spider veins, although the license record supplied does not state an indication.
+The TxGNN model predicts it may be useful for **esophageal varices with bleeding**, a use that endoscopic sclerotherapy has long established.
+The prediction is supported by **7 clinical trials** (only 1 rated directly relevant) and **20 publications**, including several randomized trials.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in the Taiwan license registry (0 licenses on file). Per supporting literature in this evidence pack, polidocanol's internationally recognized approved use is sclerotherapy of varicose veins and spider veins (telangiectasia). |
-| Predicted New Indication | Esophageal Varices with Bleeding |
+| Original Indication | Varicose veins and spider veins (from the literature review PMID 29473522; the license record lists no indication text) |
+| Predicted New Indication | Esophageal varices with bleeding |
 | TxGNN Prediction Score | 99.95% |
-| Evidence Level | L2 |
-| Taiwan Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L2 by the stated rules (the source pack labelled it L1, but only one completed Phase 3 trial is present, and its polidocanol arm is unconfirmed) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 records listed, both for the same NDA (NDA021201) |
 | Recommended Decision | Proceed with Guardrails |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for polidocanol is not on file in this evidence pack (flagged as a High-severity data gap, DG002). However, based on well-established pharmacology reflected in the supporting evidence, polidocanol is a surfactant-type sclerosing agent. When injected into or around a blood vessel, it damages the vascular endothelium, triggers local thrombus formation, and induces fibrosis — the mechanism that closes off the target vessel. This is precisely the working principle of endoscopic injection sclerotherapy (EIS), a technique that has been used for decades to control bleeding from esophageal varices in patients with portal hypertension.
+Detailed mechanism-of-action data is not available from DrugBank. The following rests on the drug's known pharmacology. Polidocanol is a detergent sclerosant. When injected into or beside a vein, it damages the endothelium, which leads to thrombosis and fibrosis and closes off the vessel. This local action is the same one used to treat varicose veins.
 
-The relationship between the original indication (peripheral venous sclerotherapy for varicose/spider veins) and the predicted new indication (esophageal variceal bleeding) is therefore not a novel hypothesis but an extension of the same sclerosant mechanism to a different vascular bed — dilated esophageal submucosal veins instead of superficial leg veins. A dedicated review in the evidence pack, *"An Evidence-Based Review of Off-Label Uses of Polidocanol"* (PMID 29473522), explicitly notes that polidocanol's off-label applications beyond varicose veins remain underappreciated, reinforcing that this repurposing direction is grounded in known pharmacology rather than a pure data-driven artifact.
+Esophageal varices are dilated veins caused by portal hypertension. Closing them with an injected sclerosant is a direct application of the same mechanism, and the trials and papers in this pack show it has been done in practice for decades. This prediction is therefore closer to confirming an established use than to discovering a new one. The empty original-indication field in the data is a data gap, not evidence of no prior use.
 
-Under its international synonym **Lauromacrogol**, polidocanol injection has already been directly studied in randomized controlled trials for esophageal and gastric varices (e.g., NCT02361593, NCT01923064), and a completed Phase 3 RCT (NCT00161915) compared polidocanol-based sclerotherapy against ligation/fibrin sealant for hemostasis in bleeding esophageal varices. This gives the TxGNN prediction meaningful mechanistic and clinical-trial corroboration, even though it falls short of being a novel discovery — it largely reflects existing off-label/regional clinical practice (particularly in Asia, where lauromacrogol sclerotherapy is common).
-
----
+The main uncertainty is how sclerotherapy compares with alternatives such as band ligation. These trials mostly do not test polidocanol alone.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT02361593](https://clinicaltrials.gov/study/NCT02361593) | NA | Completed | 120 | RCT of transparent cap-assisted endoscopic sclerotherapy with lauromacrogol (polidocanol) injection for esophageal varices — direct evidence. |
-| [NCT00161915](https://clinicaltrials.gov/study/NCT00161915) | Phase 3 | Completed | N/A | RCT comparing fibrin sealant vs. ligature (± polidocanol) for hemostasis and rebleeding prophylaxis in bleeding esophageal varices. |
-| [NCT01923064](https://clinicaltrials.gov/study/NCT01923064) | NA | Completed | 96 | RCT comparing cyanoacrylate+lipiodol vs. cyanoacrylate+lauromacrogol injection for gastric varices. |
-| [NCT02468206](https://clinicaltrials.gov/study/NCT02468206) | NA | Completed | 64 | Endoscopic cyanoacrylate vs. BRTO for prevention of gastric variceal rebleeding (indirect comparator study, not polidocanol-based). |
-| [NCT05500625](https://clinicaltrials.gov/study/NCT05500625) | NA | Unknown | 70 | EUS-guided coil + cyanoacrylate vs. BRTO for gastric varices (indirect, non-polidocanol). |
-| [NCT02468167](https://clinicaltrials.gov/study/NCT02468167) | NA | Unknown | 70 | Cyanoacrylate vs. BRTO for acute gastric variceal bleeding (indirect, non-polidocanol). |
-| [NCT02468180](https://clinicaltrials.gov/study/NCT02468180) | NA | Unknown | 70 | Cyanoacrylate vs. BRTO for primary prophylaxis of gastric variceal bleeding (indirect, non-polidocanol). |
-
----
+| [NCT02361593](https://clinicaltrials.gov/study/NCT02361593) | N/A | Completed | 120 | Randomized trial of transparent cap-assisted endoscopic sclerotherapy with lauromacrogol (the same compound as polidocanol) in esophageal varices. Directly relevant (Grade A), but no results are in the data. |
+| [NCT00161915](https://clinicaltrials.gov/study/NCT00161915) | Phase 3 | Completed | Not reported | Fibrin sealant injection versus band ligation, with or without polidocanol, for hemostasis and rebleeding prevention in bleeding esophageal varices. Whether polidocanol is a study arm cannot be confirmed (Grade B). |
+| [NCT01923064](https://clinicaltrials.gov/study/NCT01923064) | N/A | Completed | 96 | Cyanoacrylate-lipiodol versus cyanoacrylate-lauromacrogol injection in gastric varices. Indirect (Grade C). |
+| [NCT02468206](https://clinicaltrials.gov/study/NCT02468206) | N/A | Completed | 64 | Cyanoacrylate injection versus BRTO for preventing gastric variceal rebleeding. Polidocanol is not evidently involved (Grade C). |
+| [NCT02468167](https://clinicaltrials.gov/study/NCT02468167) | N/A | Unknown | 70 | Cyanoacrylate versus BRTO in acute gastric variceal bleeding. Background on competing treatments only (Grade C). |
+| [NCT02468180](https://clinicaltrials.gov/study/NCT02468180) | N/A | Unknown | 70 | Cyanoacrylate versus BRTO for primary prophylaxis of gastric variceal bleeding. Polidocanol is not evidently involved (Grade C). |
+| [NCT05500625](https://clinicaltrials.gov/study/NCT05500625) | N/A | Unknown | 70 | EUS-guided coil plus cyanoacrylate versus BRTO in gastric varices. No polidocanol arm is evident (Grade C). |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [9255525](https://pubmed.ncbi.nlm.nih.gov/9255525/) | 1997 | RCT | Endoscopy | Prospective study of cyanoacrylate + polidocanol vs. polidocanol alone in unselected cirrhotic patients with bleeding esophageal varices. |
-| [32517718](https://pubmed.ncbi.nlm.nih.gov/32517718/) | 2020 | Review | BMC Gastroenterology | Systematic review and pooled analysis of rebleeding risk after cyanoacrylate-based treatment of gastroesophageal varices. |
-| [30170340](https://pubmed.ncbi.nlm.nih.gov/30170340/) | 2019 | Review | J Gastroenterol Hepatol | Review of balloon-occluded retrograde transvenous obliteration (BRTO), including sclerosant evolution for gastric varices. |
-| [29473522](https://pubmed.ncbi.nlm.nih.gov/29473522/) | 2017 | Review | Curr Clin Pharmacol | Evidence-based review of off-label uses of polidocanol beyond varicose/spider vein treatment. |
-| [36509625](https://pubmed.ncbi.nlm.nih.gov/36509625/) | 2023 | Case series | Archives de Pédiatrie | Endoscopic sclerotherapy with polidocanol for cardiac varices in children/adolescents. |
-| [33731585](https://pubmed.ncbi.nlm.nih.gov/33731585/) | 2021 | Cohort/Review | Eur J Gastroenterol Hepatol | Complications and risk factors of elective cyanoacrylate + lauromacrogol injection for gastric varices. |
-| [35879573](https://pubmed.ncbi.nlm.nih.gov/35879573/) | 2022 | Cohort (RCT design) | Surgical Endoscopy | Novel balloon compression-assisted endoscopic injection sclerotherapy vs. ligation for esophageal varices. |
-| [2358974](https://pubmed.ncbi.nlm.nih.gov/2358974/) | 1990 | Case series | J Pediatr Gastroenterol Nutr | Endoscopic sclerotherapy (including ethoxysclerol/polidocanol-class agents) in children with bleeding esophageal varices. |
-| [1778718](https://pubmed.ncbi.nlm.nih.gov/1778718/) | 1991 | Case report | International Surgery | Report on fatal gastric bleeding following endoscopic injection sclerotherapy for esophageal varices. |
-| [35898831](https://pubmed.ncbi.nlm.nih.gov/35898831/) | 2023 | Case series | DEN Open | Management of esophageal varices during endoscopic submucosal dissection for esophageal cancer. |
-
----
+|------|-----|------|---------|---------|
+| [9255525](https://pubmed.ncbi.nlm.nih.gov/9255525/) | 1997 | RCT | Endoscopy | Prospective study of cyanoacrylate plus polidocanol versus polidocanol alone in bleeding esophageal varices in patients with cirrhosis, in both emergency and long-term elective care. |
+| [10385713](https://pubmed.ncbi.nlm.nih.gov/10385713/) | 1999 | RCT | Gastrointest Endosc | Ligation alone versus combined ligation and sclerotherapy for bleeding esophageal varices. |
+| [10376453](https://pubmed.ncbi.nlm.nih.gov/10376453/) | 1999 | RCT | Endoscopy | Combined ligation and sclerotherapy versus ligation alone, testing whether the combination eradicates bleeding varices faster. |
+| [35879573](https://pubmed.ncbi.nlm.nih.gov/35879573/) | 2022 | Prospective randomized study | Surg Endosc | Balloon compression-assisted injection sclerotherapy versus band ligation for eradicating esophageal varices. Polidocanol use is not confirmed in the abstract. |
+| [9514542](https://pubmed.ncbi.nlm.nih.gov/9514542/) | 1998 | Comparative study | J Hepatol | Fibrin glue versus polidocanol sclerotherapy to prevent early rebleeding after esophageal variceal bleeding, comparing safety and efficacy. |
+| [3069543](https://pubmed.ncbi.nlm.nih.gov/3069543/) | 1988 | Comparative study | Gastroenterol Clin Biol | In 74 patients with bleeding esophageal varices, intravariceal polidocanol (43 patients) was compared with perivariceal quinine-urea (31 patients). |
+| [29473522](https://pubmed.ncbi.nlm.nih.gov/29473522/) | 2017 | Review | Curr Clin Pharmacol | Evidence-based review of off-label uses of polidocanol, which is approved for varicose and spider veins. |
+| [36509625](https://pubmed.ncbi.nlm.nih.gov/36509625/) | 2023 | Cohort | Arch Pediatr | Efficacy and safety of paravariceal polidocanol sclerotherapy for cardiac varices in children and adolescents. |
+| [6609102](https://pubmed.ncbi.nlm.nih.gov/6609102/) | 1984 | Case series | Gut | Of 34 patients given 3% polidocanol injections, 20 (59%) developed esophageal stricture or dysphagia. |
+| [1778718](https://pubmed.ncbi.nlm.nih.gov/1778718/) | 1991 | Case series | Int Surg | Of 457 patients treated with endoscopic injection sclerotherapy, 28 (6%) bled from the upper GI tract afterward. The title notes such gastric bleeding may be fatal. |
 
 ## US Market Information
 
-Polidocanol currently has **no marketing authorization on file** in this evidence pack (Market status: Not Marketed; 0 licenses recorded). No product name, dosage form, or approved-indication text is available to tabulate.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA021201 | Asclera (Methapharm, Inc) | Injection, solution | Not provided in the license record. The literature describes approval for varicose veins and spider veins. |
 
----
+The pack lists this NDA twice, so it is shown here once.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. *(Key warnings, contraindications, and drug–drug interaction data were not available in this evidence pack — flagged as a Blocking data gap, DG001.)*
+No package insert warnings or contraindications are available, and no drug interactions were found in the data. Please refer to the package insert for safety information.
 
----
+The literature above reports these risks of endoscopic sclerotherapy:
+- **Stricture and dysphagia**: 59% (20 of 34) of patients in one polidocanol series (PMID 6609102).
+- **Post-treatment bleeding**: 6% of 457 patients bled after injection sclerotherapy, and gastric bleeding may be fatal (PMID 1778718).
+- **Rebleeding and ulceration**: the pack notes both as risks, and the pediatric cardiac varices study (PMID 36509625) centers on rebleeding from band-ligation ulcers.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-The mechanistic basis is well established (sclerosant-induced endothelial injury/thrombosis/fibrosis underlying decades of clinical EIS practice), and one completed Phase 3 RCT plus multiple direct polidocanol/lauromacrogol trials support efficacy in bleeding esophageal varices — meeting L2 evidence criteria. However, the drug has no marketing authorization on file and no formal safety/MOA documentation in this jurisdiction, so guardrails are required before any clinical application.
+The mechanism is direct and local, and decades of randomized and observational studies show polidocanol sclerotherapy is used for esophageal varices. However, the trials are mostly indirect, the one Phase 3 trial does not confirm a polidocanol arm, and the drug carries real stricture and bleeding risks. Use should be limited to experienced endoscopists and considered alongside or after band ligation.
+
+The lower-ranked predictions are weaker:
+- **Esophageal varices without bleeding**: a research question at L2, because the trials are not polidocanol-specific for prophylaxis.
+- **Ranks 3 to 10**: Hold. They have no trials or literature and no plausible mechanism, and the scores likely reflect knowledge-graph artifacts.
 
 **To proceed, the following is needed:**
-- TFDA package insert / label (warnings, contraindications) — currently a Blocking data gap (DG001)
-- Confirmed mechanism-of-action documentation from DrugBank (DG002)
-- Formal review of local approval pathway, given zero existing licenses
-- Note: secondary prediction "esophageal varices without bleeding" (L3, Research Question stage) has weaker support — guideline-preferred prophylaxis is beta-blockers/ligation, not sclerotherapy
-- Note: ranks 3–10 (e.g., monosomy X, cone dystrophy, retinal disorders) are flagged in the evidence pack itself as likely knowledge-graph noise with no mechanistic plausibility or supporting literature — recommend **Hold**, no further action
+- Package insert warnings and contraindications (blocking for safety screening)
+- Mechanism of action data from DrugBank
+- Confirmation of the polidocanol arms in NCT00161915, and results from NCT02361593
+- A head-to-head comparison of polidocanol sclerotherapy against band ligation in current guidelines
+- Confirmation of the US regulatory position. Endoscopic use appears to be outside the varicose vein labeling of Asclera, so it would need to be handled as off-label use.
+- Verification of the evidence level, since the pack's L1 label does not meet the L1 rule of at least two completed Phase 3 RCTs
+
+*This report is for research reference only and is not medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Naftifine
-parent: High Evidence (L1-L2)
+parent: Moderate Evidence (L3-L4)
 nav_order: 952
-evidence_level: L2
+evidence_level: L3
 indication_count: 8
 ---
 
 # Naftifine
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **8** 
+Evidence Level: **L3** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,86 +29,75 @@ Evidence Level: **L2** | Predicted Indications: **8**
 
 </div>
 
-# Naftifine: From Dermatophytosis (Tinea) to Cutaneous Candidiasis
+# Naftifine: From Superficial Fungal Skin Infections (Dermatophytosis) to Cutaneous Candidiasis
 
 ## One-Sentence Summary
 
-> Naftifine is a topical allylamine antifungal, established for treating superficial dermatophyte (tinea) infections of the skin.
-> The TxGNN model predicts it may also be effective for **Cutaneous Candidiasis**,
-> with **no registered clinical trials** but **9 supporting publications**, including one direct double-blind RCT and one dedicated candidiasis trial.
-
----
+Naftifine is a topical allylamine antifungal, used mainly for dermatophyte skin infections such as tinea pedis, cruris and corporis. The TxGNN model predicts it may be effective for **cutaneous candidiasis**. No clinical trials are registered for this indication, but **2 randomized or controlled clinical studies (1984, 1988)** and several reviews in the literature support it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Superficial dermatophytosis / tinea infections (per literature evidence; no formal TFDA license record available — see Data Gaps) |
-| Predicted New Indication | Cutaneous Candidiasis |
+| Predicted New Indication | Cutaneous candidiasis |
 | TxGNN Prediction Score | 99.84% |
-| Evidence Level | L2 |
-| US Market Status | Not Marketed (Not marketed) |
-| Number of NDAs | 0 |
+| Evidence Level | L3 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 4 licenses (1 NDA + 3 ANDAs) |
 | Recommended Decision | Proceed with Guardrails |
 
----
+The license records contain no approved-indication text. The original indication above is taken from the literature, not from the label.
 
 ## Why is This Prediction Reasonable?
 
-Currently, official mechanism-of-action data (DrugBank MOA field) is marked as a data gap. However, the literature evidence collected in this pack consistently describes naftifine as an **allylamine-class antifungal** that inhibits **squalene epoxidase**, blocking ergosterol biosynthesis in the fungal cell membrane — the same target class as terbinafine. Several sources also note naftifine may carry additional anti-inflammatory and antibacterial properties, though the precise mechanism is not fully characterized (PMID 1723367).
+Detailed mechanism of action data is not available in the drug record. The literature describes naftifine as an allylamine that inhibits squalene epoxidase. This depletes ergosterol, an essential fungal membrane component, and causes toxic squalene to build up. Naftifine is fungicidal against dermatophytes and is also reported to have anti-inflammatory and some antibacterial activity.
 
-Naftifine's established use is against dermatophytes (tinea corporis, tinea pedis, tinea versicolor), which are keratinophilic filamentous fungi. Candida albicans is a yeast rather than a dermatophyte, but multiple reviews in this evidence set explicitly note that naftifine "provides good activity against Candida and Aspergillus species" in addition to dermatophytes (PMID 18346400). This dual antifungal spectrum is the mechanistic basis for the TxGNN prediction.
-
-Importantly, this repurposing signal is not purely theoretical — a dedicated double-blind, vehicle-controlled clinical trial of naftifine cream specifically in cutaneous candidiasis exists (PMID 3048914), along with a multicenter contralateral-comparison RCT that included candidosis patients (PMID 6388169). This places the candidiasis indication on stronger empirical footing than most of the other TxGNN-ranked candidates for this drug, several of which (e.g., "ectothrix infectious disease," "dermatophytosis of scalp or beard") had zero or only irrelevant literature hits.
-
----
+Cutaneous candidiasis is a superficial skin infection caused by yeast rather than dermatophytes. Both organisms depend on ergosterol synthesis, so a topical drug that works on dermatophyte skin infections may also act on Candida. There is a caveat: allylamines are generally less potent against Candida than against dermatophytes, and terbinafine, a related allylamine, is described as fungistatic against *Candida albicans*. The prediction is therefore plausible but less certain than for dermatophytosis.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [6388169](https://pubmed.ncbi.nlm.nih.gov/6388169/) | 1984 | RCT (double-blind, contralateral comparison vs clotrimazole) | Zeitschrift für Hautkrankheiten | In 126 patients with dermatophytosis or candidosis, naftifine achieved 63.5% mycological cure at 7 days vs. 56% for clotrimazole, with comparable local tolerance |
-| [3048914](https://pubmed.ncbi.nlm.nih.gov/3048914/) | 1988 | Cohort/open-label (described as double-blind, parallel-group in abstract) | Cutis | 60 patients with cutaneous candidiasis randomized to naftifine 1% cream vs. vehicle twice daily for 3 weeks; 77% mycological cure in the naftifine group two weeks post-therapy |
-| [18346400](https://pubmed.ncbi.nlm.nih.gov/18346400/) | 2008 | Review | Journal of Cutaneous Medicine and Surgery | Naftifine is fungicidal in vitro against dermatophytes and provides good activity against Candida and Aspergillus species; also active against gram-positive/negative bacteria |
-| [2620916](https://pubmed.ncbi.nlm.nih.gov/2620916/) | 1989 | Cohort | Giornale Italiano di Dermatologia e Venereologia | Open, mycologically-controlled study of 29 patients with dermatomycosis from dermatophytes and yeasts, including 2 cutaneous candidiasis cases; naftifine (cream/gel/solution) was effective and well tolerated |
-| [1723367](https://pubmed.ncbi.nlm.nih.gov/1723367/) | 1991 | Review | Drugs | Comprehensive review of naftifine's antimicrobial activity, squalene epoxidase inhibition mechanism, and clinical/mycological efficacy in dermatomycoses |
-| [24196340](https://pubmed.ncbi.nlm.nih.gov/24196340/) | 2013 | Review | Journal of Drugs in Dermatology | Overview of topical antifungal therapy optimization for superficial cutaneous fungal infections, including naftifine for cutaneous dermatophytosis |
-| [18840006](https://pubmed.ncbi.nlm.nih.gov/18840006/) | 2008 | Review (comparator drug — fenticonazole) | Drugs | Reviews fenticonazole's antimycotic mechanisms against dermatophytes and yeasts; included as comparator-class evidence, not naftifine-specific |
-| [10439936](https://pubmed.ncbi.nlm.nih.gov/10439936/) | 1999 | Review (comparator drug — terbinafine) | Drugs | Reviews terbinafine (same allylamine class as naftifine), noting fungistatic activity against Candida albicans |
-| [20677526](https://pubmed.ncbi.nlm.nih.gov/20677526/) | 2010 | Review | Journal of Drugs in Dermatology | General review of naftifine as a topical allylamine (no abstract available) |
-
----
+| [3048914](https://pubmed.ncbi.nlm.nih.gov/3048914/) | 1988 | RCT | Cutis | Double-blind, parallel-group trial of 60 patients with cutaneous candidiasis. Naftifine 1% cream vs vehicle, twice daily for 3 weeks. 77% of naftifine patients were mycologically cured two weeks after therapy (the abstract is truncated). |
+| [6388169](https://pubmed.ncbi.nlm.nih.gov/6388169/) | 1984 | RCT | Z Hautkr | Multicenter, double-blind, contralateral comparison of naftifine and clotrimazole cream in 126 patients with dermatophytosis or candidosis. After 7 days, 63.5% were mycologically cured with naftifine vs 56% with clotrimazole. |
+| [2620916](https://pubmed.ncbi.nlm.nih.gov/2620916/) | 1989 | Open clinical study | G Ital Dermatol Venereol | Open study of 29 patients with dermatomycoses, including only 2 with cutaneous candidiasis, so it says little about candidiasis specifically. |
+| [1723367](https://pubmed.ncbi.nlm.nih.gov/1723367/) | 1991 | Review | Drugs | Review of naftifine's antimicrobial activity and use in superficial dermatomycoses. Potent against dermatophytes, with good clinical and mycological correlation. |
+| [18346400](https://pubmed.ncbi.nlm.nih.gov/18346400/) | 2008 | Review | J Cutan Med Surg | Naftifine is effective and safe in superficial dermatomycoses. It has good in vitro activity against Candida and Aspergillus species. |
+| [24196340](https://pubmed.ncbi.nlm.nih.gov/24196340/) | 2013 | Review | J Drugs Dermatol | Review of topical antifungal therapy for superficial cutaneous fungal infections, focused on naftifine for dermatophytosis. |
+| [20677526](https://pubmed.ncbi.nlm.nih.gov/20677526/) | 2010 | Review | J Drugs Dermatol | Overview of naftifine as a topical allylamine (no abstract available). |
 
 ## US Market Information
 
-No license or NDA records are available — the drug is currently **not marketed** in this jurisdiction (0 licenses on file).
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA204286 | Naftin | Gel | Legacy Pharma USA Inc. |
+| ANDA206901 | Naftifine Hydrochloride | Cream | Sun Pharmaceutical Industries, Inc. |
+| ANDA208201 | Naftifine Hydrochloride | Gel | Sun Pharmaceutical Industries, Inc. |
+| ANDA205975 | Naftifine Hydrochloride | Cream | Sun Pharmaceutical Industries, Inc. |
 
----
+All four products are topical (cream or gel). Approved-indication text was not provided for any of them.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Evidence Level L2 is supported by a direct, purpose-built RCT of naftifine cream in cutaneous candidiasis (PMID 3048914, 77% mycological cure) plus a corroborating multicenter contralateral-comparison trial (PMID 6388169) and multiple reviews confirming in vitro anti-Candida activity. However, both key trials are decades old (1984/1988), small, and predate modern GCP standards, so confirmatory contemporary data is still needed before broader adoption.
+Two controlled clinical studies in candidiasis, including a vehicle-controlled trial of 60 patients, and a marketed topical product point in the same direction. The evidence is old, small and partly truncated, and allylamines are less potent against Candida. The product is already marketed in the same topical form, which lowers the route and formulation barrier.
 
 **To proceed, the following is needed:**
-- TFDA-equivalent package insert / label data (currently Blocking data gap — required for safety review, S1)
-- Confirmed mechanism-of-action documentation from DrugBank (currently High-severity data gap)
-- A modern, adequately powered RCT of naftifine specifically for cutaneous candidiasis to update the 1980s-era evidence base
-- Drug-drug interaction and contraindication data (currently not found)
+- Package insert warnings and contraindications. This is a blocking gap that must be closed before safety screening.
+- Full text of PMID 3048914 and 6388169 to confirm the candidiasis-specific results, since the abstracts are truncated.
+- Head-to-head comparison against azole antifungals, which are standard for cutaneous candidiasis.
+- Detailed mechanism of action data from DrugBank.
+- Consider prioritizing pityriasis versicolor (a yeast infection) as a parallel indication. It has two naftifine-specific clinical studies, from 1986 and 2011.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,38 +29,32 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-Using no specialized skill for this task — it's a direct document-generation request against the provided Evidence Pack, not a coding/pipeline task that any available skill covers.
-
-A note before the report: this Evidence Pack is unusual — `original_indications` is empty, `original_moa` is `[Data Gap]`, and Taiwan/US regulatory data shows zero licenses. Also, **every one of the 10 predicted indications is scored L4/L5 with a "Hold" recommendation**, and the pack's own rationale notes repeatedly explain that wherever clinical trials/literature exist, fluorescein appears only as a **diagnostic dye** (angiography/corneal staining), never as the studied treatment. I've written the report to reflect this honestly rather than overstating the case.
-
----
-
-# Fluorescein: From Diagnostic Ophthalmic Dye to Prinzmetal Angina
+# Fluorescein: From Diagnostic Angiography to Prinzmetal Angina
 
 ## One-Sentence Summary
 
-Fluorescein (DrugBank DB00693) has no recorded therapeutic indication in this dataset — clinically it is known and used as a diagnostic dye for ophthalmic angiography and ocular surface staining, not as a disease-treating agent.
-The TxGNN model predicts it may be effective for **Prinzmetal Angina**, but this prediction is currently supported by **0 clinical trials** and **0 publications**, and no known vascular or coronary mechanism links fluorescein to this condition.
+Fluorescein is a diagnostic dye used in ophthalmic and angiographic imaging, not a therapeutic drug.
+The TxGNN model predicts it may be effective for **Prinzmetal angina**, but this is a computational prediction only, with **0 clinical trials** and **0 publications** supporting it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no approved therapeutic indication on file. Fluorescein's known clinical use is as an ophthalmic diagnostic dye (angiography / corneal staining), not disease treatment |
-| Predicted New Indication | Prinzmetal Angina |
+| Original Indication | Not stated in the license records (described as a diagnostic ophthalmic/angiographic dye) |
+| Predicted New Indication | Prinzmetal angina |
 | TxGNN Prediction Score | 99.81% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed (no license on file) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 13 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for fluorescein in this dataset. Based on known information, fluorescein is not a conventional therapeutic drug — it is a fluorescent dye administered for diagnostic imaging (e.g., intravenous fluorescein angiography of the retina/choroid, or topical staining to detect corneal epithelial defects). It has no established pharmacodynamic action on vascular smooth muscle tone or coronary artery spasm, which is the pathophysiological mechanism underlying Prinzmetal (variant) angina.
+Currently, detailed mechanism of action data is not available. Fluorescein is a diagnostic dye for ophthalmic and angiographic use. It works as a fluorescent marker, not as a treatment.
 
-The evidence pack's own analysis of this specific prediction is explicit: "Only a TxGNN prediction score (0.998) exists, with no clinical trial or literature support, and no known vascular smooth muscle or coronary mechanism to support this association." This is not a case of promising-but-unconfirmed biology — it is a pure model output with no corroborating signal of any kind.
+No mechanistic link to Prinzmetal angina was identified. Fluorescein has no known vasodilatory or anti-vasospastic activity, and Prinzmetal angina is driven by coronary artery vasospasm. The high score most likely reflects a knowledge-graph artifact rather than a real pharmacological relationship.
 
-It is worth noting a pattern across the other 9 predicted indications in this pack (rheumatoid arthritis, hemoglobinopathy, thrombophilia, hyperthyroidism, etc.): wherever clinical trials or literature were found, fluorescein appeared solely as a **diagnostic/imaging tool** (e.g., fluorescein angiography used to evaluate retinal vasculopathy in these conditions), not as an investigational treatment. This reinforces that TxGNN's high similarity scores here likely reflect fluorescein's frequent co-occurrence with vascular/ophthalmic disease concepts in the knowledge graph, rather than a genuine therapeutic signal.
+The same pattern appears in the other top-10 predictions (for example, coagulation-factor deficiencies and thrombophilia). Where any evidence was retrieved, it describes fluorescein as a diagnostic imaging tool, not a treatment.
 
 ## Clinical Trial Evidence
 
@@ -72,27 +66,34 @@ Currently no related literature available.
 
 ## US Market Information
 
-Fluorescein currently has no market authorization on file in this dataset (0 licenses; market status: Not Marketed). No NDA-level product information is available to summarize.
+The five main authorizations are listed below. The records provide no approved-indication text.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA 021980 | FLUORESCITE | Injection, solution | Alcon, Inc. |
+| ANDA 215709 | Fluorescein | Injection | Nexus Pharmaceuticals LLC |
+| NDA 022186 | AK-FLUOR | Injection | Long Grove Pharmaceuticals, LLC |
+| N/A | Fluorescein Sodium Ophthalmic Strips | Strip | Vistamerica USA |
+| N/A | GloStrips | Strip | Nomax Inc. |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-*(Note: Safety warnings, contraindications, and drug interaction data are all marked as data gaps in this pack — retrieving fluorescein's package insert from the source regulatory agency is listed as a **Blocking** data gap that must be resolved before any safety assessment can proceed.)*
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This candidate rests on a TxGNN similarity score alone (L5 — model prediction only), with zero clinical trials, zero supporting literature, and no plausible pharmacological mechanism connecting a diagnostic ophthalmic dye to coronary vasospasm. There is nothing here to evaluate for safety or efficacy, and the broader pattern across this drug's other top predictions suggests the model is picking up co-occurrence with vascular/ophthalmic imaging use rather than a treatment effect.
+The prediction has no clinical trials, no literature, and no plausible mechanism, so the evidence level is L5 (model prediction only). Fluorescein is a diagnostic dye with no known anti-vasospastic activity, and the high TxGNN score alone does not justify further investment.
 
 **To proceed, the following is needed:**
-- Package insert / regulatory safety labeling for fluorescein (currently a Blocking data gap)
-- Verified mechanism of action data (currently a High-severity data gap)
-- Any preclinical or mechanistic evidence linking fluorescein to coronary artery smooth muscle physiology
-- Confirmation of whether "Prinzmetal angina" reflects a genuine disease association or a knowledge-graph artifact (e.g., dye co-mention in cardiac imaging literature) before allocating further review resources
-- If proceeding despite weak evidence is being considered, an explicit review of why a diagnostic agent with no known cardiovascular pharmacology would be advanced to the next decision stage
+- Mechanism of action data (MOA) and a plausible pharmacological link to coronary vasospasm
+- Package insert warnings and contraindications, to allow a safety screen
+- Preclinical or clinical evidence showing therapeutic activity, not diagnostic use
+- Route compatibility assessment (current products are injectable or ophthalmic strips only)
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

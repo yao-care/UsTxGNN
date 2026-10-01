@@ -29,71 +29,74 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Valine: From No Established Indication to Sclerosing Cholangitis
+# Valine: From Nutritional Amino Acid Supplement to Sclerosing Cholangitis
 
 ## One-Sentence Summary
 
-Valine is an essential branched-chain amino acid (BCAA) with no approved therapeutic indication on record in this evidence pack, and it is currently **not marketed** in the reviewed jurisdiction. The TxGNN model predicts a possible association with **Sclerosing Cholangitis**, but this is supported only by **0 clinical trials** and **2 loosely related publications**, neither of which studies valine as a therapeutic intervention.
-
----
+Valine is an essential branched-chain amino acid, and in the US it is marketed as liquid supplement products with no approved indication on record.
+The TxGNN model predicts it may be relevant to **sclerosing cholangitis**, but there are **0 clinical trials** and only **2 publications**, both indirect (a metabolite cohort study and a Mendelian randomization study).
+This is a model-generated research question, not clinically supported evidence.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not established (no approved indication on record; valine is a nutritional/essential amino acid) |
-| Predicted New Indication | Sclerosing Cholangitis |
+| Original Indication | None listed (the US product records contain no approved indication text) |
+| Predicted New Indication | Sclerosing cholangitis |
 | TxGNN Prediction Score | 99.42% |
-| Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L4 (indirect and mechanistic studies only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 (license numbers not available in the records) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (DG002, High severity). Valine is a naturally occurring essential branched-chain amino acid, used clinically mainly as a nutritional/metabolic substrate rather than a drug with a defined disease indication — no original indication is recorded in this dataset, and the drug is not currently marketed.
+Detailed mechanism of action data for valine is not currently available. Valine is a branched-chain amino acid (BCAA) involved in protein synthesis and energy metabolism, and the records list no approved indication for it.
 
-Critically, the evidence pack's own analysis flags a **systematic false-positive pattern** across nearly all ten predicted indications: because "valine" is abbreviated as "Val" or "V" in genetics literature (e.g., point mutations such as V509A, L346V, Val109), text-mining-derived literature associations repeatedly pick up papers about amino-acid *substitution mutations* in unrelated proteins (TSH receptor, thyroid hormone receptor beta, transthyretin, PRPH2, TIGR/MYOC) rather than papers about the amino acid valine as a pharmacological agent. This applies directly to the top-ranked candidate, sclerosing cholangitis: one cited paper concerns *tyrosine* (not valine) and fatigue in PBC/PSC, and the other is a Mendelian randomization study of general metabolites with no valine-specific causal signal identified.
+The link to sclerosing cholangitis is indirect. Chronic cholestatic liver disease alters amino acid metabolism, including BCAAs and aromatic amino acids. A Mendelian randomization study connects circulating blood metabolites to the risk of cholestatic liver diseases, including primary sclerosing cholangitis (PSC). These findings show that metabolism changes in these diseases. They do not show that giving valine changes the disease course, and no study has tested valine supplementation in PSC.
 
-One partial exception in the broader candidate list is rank 3 (hyperthyroidism, L4, "Research Question"), where two papers (PMID 39195533, 35256693) report genuine associations between circulating BCAA/valine levels and thyroid function — though these are observational metabolomic correlations, not therapeutic interventions, and directionality is unresolved. No such genuine mechanistic signal exists for the top-ranked sclerosing cholangitis prediction.
-
----
+The high TxGNN score (99.42%) reflects a knowledge-graph prediction, not clinical support. Other top-ranked predictions are weaker. The glaucoma and thyroid-related predictions rely mostly on literature hits where "valine" is only an amino acid residue in a mutated protein, and the other predictions have no literature at all.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [15790420](https://pubmed.ncbi.nlm.nih.gov/15790420/) | 2005 | Cohort | BMC Gastroenterology | Examined plasma **tyrosine** (not valine) concentration and fatigue in PBC/PSC patients; no valine-specific finding |
-| [39015781](https://pubmed.ncbi.nlm.nih.gov/39015781/) | 2024 | Mendelian Randomization | Frontiers in Medicine | General blood-metabolite causal analysis for cholestatic liver disease risk; does not specifically implicate valine |
+| [15790420](https://pubmed.ncbi.nlm.nih.gov/15790420/) | 2005 | Cohort | BMC Gastroenterology | Examined amino acid abnormalities and their relation to fatigue in primary biliary cirrhosis and PSC. The study focused on plasma tyrosine, not valine treatment. |
+| [39015781](https://pubmed.ncbi.nlm.nih.gov/39015781/) | 2024 | Mendelian randomization | Frontiers in Medicine | Tested causal links between blood metabolites and the risk of primary biliary cholangitis and PSC. It supports a metabolic association only, not a therapeutic effect. |
 
----
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Not available | L-Valine High | Liquid | Not available |
+| Not available | L-Valine | Liquid | Not available |
+
+Both products are made by Professional Complementary Health Formulas.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
----
+Please refer to the package insert for safety information. No drug interaction records were found.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (sclerosing cholangitis) is supported by zero clinical trials and two publications that do not actually study valine as a therapeutic agent — one examines a different amino acid (tyrosine), the other is a non-specific metabolomic causal-inference study. Combined with missing MOA data (DG002) and missing safety/label data (DG001, Blocking severity — required before any S1 safety pre-assessment), there is currently no basis to advance this candidate.
+The prediction rests on a model score and two indirect papers, with no trials and no evidence that valine changes the course of sclerosing cholangitis. The rank-1 candidate is best treated as a research question.
 
 **To proceed, the following is needed:**
-- Resolve DG001 (TFDA/FDA label warnings and contraindications) — currently blocking
-- Resolve DG002 (confirmed mechanism of action for valine)
-- Manual literature re-screening to exclude genetic-nomenclature false positives ("Val"/"V" mutation notation) across all ten predicted indications
-- If pursuing further, prioritize re-evaluation of the hyperthyroidism signal (rank 3, L4), which has the only literature showing a genuine (if directionally unclear) BCAA–thyroid function association, over the current top-ranked sclerosing cholangitis candidate
+- Package insert warnings and contraindications (currently a blocking data gap)
+- Mechanism of action data from DrugBank
+- Review of the full literature set to confirm that no direct evidence has been missed
+- Preclinical or observational data on valine or BCAA supplementation in PSC
+- Evaluation of the route and formulation, since the marketed products are liquid supplements with no recorded approved indication
+- Safety review for patients with hepatic impairment, since PSC is a liver disease and the safety data are empty
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

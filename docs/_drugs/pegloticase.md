@@ -29,77 +29,71 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Pegloticase: From Chronic Refractory Gout to Severe Nonproliferative Diabetic Retinopathy
+# Pegloticase: From a Urate-Lowering Biologic to Severe Nonproliferative Diabetic Retinopathy
 
 ## One-Sentence Summary
 
-> Pegloticase (DrugBank DB09208) is a PEGylated uricase enzyme; publicly known information indicates it is used elsewhere for chronic refractory gout, though this evidence pack contains no documented original indication.
-> The TxGNN model predicts it may be effective for **Severe Nonproliferative Diabetic Retinopathy**,
-> with a high prediction score (**99.18%**) but currently **no clinical trials and no published literature** supporting this direction.
-
----
+Pegloticase is a PEGylated recombinant uricase that converts uric acid to allantoin and lowers serum urate. The TxGNN model predicts it may be effective for **severe nonproliferative diabetic retinopathy**. This prediction currently rests on the model score alone, with **0 clinical trials** and **0 publications** supporting it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in this evidence pack (`original_indications` empty) |
-| Predicted New Indication | Severe Nonproliferative Diabetic Retinopathy |
+| Predicted New Indication | Severe nonproliferative diabetic retinopathy |
 | TxGNN Prediction Score | 99.18% |
-| Evidence Level | L5 (model prediction only, no clinical trials or literature) |
-| Taiwan Market Status | Not Marketed |
-| Number of Licenses | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 (both entries are the same BLA125293) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap, DG002). Publicly, pegloticase is known as a PEGylated recombinant uricase enzyme that converts uric acid to allantoin, and its use elsewhere has focused on lowering serum uric acid in chronic refractory gout — but this specific claim is not confirmed within the data provided here.
+Currently, detailed mechanism of action data is not available, and no original indications are recorded in the input. Pegloticase is known as a recombinant uricase that breaks down uric acid into allantoin.
 
-No mechanistic, clinical, or literature evidence in this pack links uric acid metabolism to diabetic retinopathy pathology. The TxGNN score reflects a graph-based association only (e.g., shared metabolic or comorbidity nodes in the knowledge graph) and should be treated as a hypothesis, not a validated mechanistic rationale, until independent literature or trial evidence becomes available.
+One speculative link is that high uric acid and oxidative stress have been associated with diabetic microvascular complications in some observational reports. On that basis, lowering urate could in principle affect retinal microvascular disease.
 
-Given the combination of missing MOA data and zero supporting evidence, this prediction currently rests entirely on the model score and requires further validation before any mechanistic narrative can be responsibly written.
+There are important counterpoints:
+- Uricase catalysis also produces hydrogen peroxide, which could be counterproductive in a retinal oxidative-stress setting.
+- Pegloticase is a large systemic biologic with immunogenicity and infusion-reaction risks.
+- Nothing in the input shows that it reaches the retina or acts on a retinal target.
 
----
+The link therefore depends only on the TxGNN knowledge-graph score and has not been validated.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## US Market Information
 
-## Taiwan Market Information
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| BLA125293 | Krystexxa | Injection, solution | Horizon Therapeutics USA, Inc. |
 
-Pegloticase has **0 licenses on record and is not currently marketed in Taiwan** (`market_status: Not marketed`). No product, dosage form, or approved indication data is available.
-
----
+The Evidence Pack lists this authorization twice with identical details and no approved-indication text, so it appears once here.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. TFDA warnings/contraindications data is currently a **Blocking** data gap (DG001) — this must be resolved before any safety-related decision can be made.
-
----
+Please refer to the package insert for safety information. No drug interaction records were found in the input.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This prediction is supported only by a TxGNN model score, with no clinical trials, no literature, no confirmed mechanism of action, and no Taiwan market presence. Evidence is at the lowest tier (L5) and insufficient to justify further evaluation at this time.
+The prediction is supported only by the TxGNN model score (Evidence Level L5). There are no registered trials or publications, and the mechanistic link is speculative. Uricase-generated hydrogen peroxide, the systemic immunogenicity profile, and the lack of any evidence of retinal exposure are all unresolved concerns. Package insert safety data is also missing, so safety screening cannot start.
 
 **To proceed, the following is needed:**
-- TFDA package insert data (warnings/contraindications) — currently blocking (DG001)
-- Confirmed mechanism of action from DrugBank or other authoritative source (DG002)
-- Targeted literature/clinical trial search for any link between uric acid metabolism and diabetic retinopathy
-- Route compatibility assessment — pegloticase is administered by IV infusion; suitability for an ophthalmic indication (severe NPDR) has not been evaluated (`route_compatibility.status: pending`)
-- Confirmation of the drug's actual original indication, since it is not documented in this evidence pack
+- Package insert warnings and contraindications (blocking gap)
+- Mechanism of action data, for example from DrugBank
+- Preclinical evidence of a retinal target or benefit, plus an assessment of hydrogen peroxide risk in retinal tissue
+- Route compatibility assessment, since the only available form is a systemic injection
+- Literature and trial searches showing any link between urate lowering and diabetic retinopathy
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,76 +29,71 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Paroxetine: From SSRI Antidepressant Use to Ohdo Syndrome and Variants
+# Paroxetine: From an Established SSRI to Ohdo Syndrome and Variants
 
 ## One-Sentence Summary
 
-Paroxetine (DB00715) is a selective serotonin reuptake inhibitor (SSRI); the evidence pack does not record its specific approved indication, and the drug is currently **not marketed** under this record.
-The TxGNN model predicts a possible link to **Ohdo Syndrome and Variants**, a rare genetic disorder,
-but this prediction is currently supported by **0 clinical trials** and **0 publications**, and the evidence pack's own mechanistic review flags it as a likely false positive.
-
----
+Paroxetine is a selective serotonin reuptake inhibitor (SSRI) that is widely marketed in the United States.
+The TxGNN model predicts it may be effective for **Ohdo syndrome and variants**, a group of rare genetic disorders.
+Currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on record (drug class: SSRI antidepressant; specific indication text unavailable) |
-| Predicted New Indication | Ohdo Syndrome and Variants |
+| Predicted New Indication | Ohdo syndrome and variants |
 | TxGNN Prediction Score | 99.11% |
-| Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 authorizations (the records shown are ANDAs) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for this drug record is not available. Based on known pharmacology, paroxetine is an SSRI that inhibits the serotonin transporter (SERT) to increase synaptic serotonin concentration — this classification is noted in the evidence pack's own rationale field, though the specific original indication text was not captured in this record.
+Detailed mechanism of action data and original indication text are not available in the input. Paroxetine is an SSRI, and it is marketed in the US as several generic oral products.
 
-Ohdo syndrome and its variants are rare autosomal dominant developmental disorders caused by pathogenic mutations in chromatin-modifying/transcriptional regulator genes (e.g., *KAT6B*, *MED12*, *KAT6A*, *SETBP1*), presenting with characteristic blepharophimosis facies, intellectual disability, and skeletal/genitourinary anomalies. This is a developmental genetic syndrome, not a disorder of neurotransmitter imbalance.
+Ohdo syndrome and its variants are rare genetic disorders, mostly linked to variants in *KAT6B*, a histone acetyltransferase gene. They typically present with blepharophimosis (narrowed eye openings), intellectual disability and hypotonia (low muscle tone). No plausible pathway connects serotonin reuptake inhibition to correcting KAT6B-related chromatin regulation or these core developmental features.
 
-The evidence pack's own mechanistic assessment concludes there is **no known or inferable biological link** between SSRI pharmacology (SERT inhibition) and the chromatin-regulation pathology underlying Ohdo syndrome. Given the extremely sparse evidence (rank 19,305, no trials, no literature) and the rarity of the target disease in the knowledge graph, this high score is most plausibly a **false positive arising from sparse-node bias** in TxGNN rather than a biologically grounded signal.
-
----
+The high TxGNN score (0.991) is a knowledge-graph output only. Any real benefit would be speculative, for example symptomatic effects on comorbid anxiety or behavioral features. No supplied data supports this, and without original indication or MOA data an independent plausibility check is not possible.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-This drug record is currently **not marketed** (0 authorizations on file). No NDA/license information is available for this candidate.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA077584 | Paroxetine | Film-coated tablet | Zydus Pharmaceuticals USA Inc. |
+| ANDA078902 | Paroxetine | Film-coated tablet | Mylan Pharmaceuticals Inc. |
+| ANDA217280 | Paroxetine | Film-coated extended-release tablet | Alembic Pharmaceuticals Limited |
+| ANDA077584 | Paroxetine | Film-coated tablet | REMEDYREPACK INC. |
+| ANDA212645 | Paroxetine | Film-coated extended-release tablet | Cadila Pharmaceuticals Limited |
 
----
+The oral dosage forms on record are film-coated tablets, film-coated extended-release tablets and capsules.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This prediction has no clinical trial or literature support (Evidence Level L5), and the mechanistic review included in the evidence pack itself identifies no plausible biological link between SSRI pharmacology and Ohdo syndrome's chromatin-regulation pathology — most consistent with a sparse-data false positive rather than a genuine repurposing signal.
+The prediction has a high model score but no clinical trials or publications, and no plausible mechanistic link between SSRI pharmacology and the biology of Ohdo syndrome. The evidence level is L5, and the missing safety and mechanism data block further screening.
 
 **To proceed, the following is needed:**
-- TFDA/FDA label data (warnings, contraindications) — currently a **Blocking** data gap
-- Confirmed mechanism of action (MOA) and original approved indication for this drug record
-- Any preclinical or case-level evidence specifically linking SSRIs to Ohdo syndrome symptom management before advancing past S0
-- Given the genetic/rare-disease nature of the target condition, expert clinical genetics review before any further evaluation
+- FDA package insert warnings and contraindications, to complete safety screening
+- Mechanism of action data, for example from DrugBank
+- Original indication data, to assess similarity between the original and predicted indications
+- Preclinical or mechanistic evidence linking paroxetine to KAT6B-related pathways or the syndrome's features
+- Any case reports or registry data on paroxetine use in patients with Ohdo syndrome
+- Route compatibility assessment for the new indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

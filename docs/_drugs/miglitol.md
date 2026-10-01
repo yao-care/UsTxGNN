@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Miglitol
-parent: High Evidence (L1-L2)
+parent: Moderate Evidence (L3-L4)
 nav_order: 928
-evidence_level: L2
+evidence_level: L3
 indication_count: 10
 ---
 
 # Miglitol
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,93 +29,87 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Miglitol: From Type 2 Diabetes Mellitus to Type 1 Diabetes Mellitus (Insulin Adjunct)
+# Miglitol: From Type 2 Diabetes to Type 1 Diabetes
 
-> **Note on candidate selection**: This evidence pack lists 10 TxGNN-predicted indications for miglitol. The top 9 (by raw TxGNN score, e.g. *focal stiff limb syndrome*, *classic stiff person syndrome*) have **zero clinical trial or literature support** and are flagged by the model's own rationale as likely knowledge-graph artifacts (indirect paths through diabetes-comorbidity nodes, not direct pharmacology). Only **Type 1 Diabetes Mellitus** (rank 10) has real supporting evidence and a non-Hold recommendation. This report focuses on that candidate as the only actionable one in the pack.
+*Note: The five highest-scoring predictions (for example focal stiff limb syndrome and classic stiff person syndrome) have no trials or literature and no plausible mechanism. This report therefore covers type 1 diabetes mellitus, the only predicted indication with real supporting evidence.*
 
 ## One-Sentence Summary
 
-Miglitol is an alpha-glucosidase inhibitor originally used to control postprandial hyperglycemia in type 2 diabetes. The TxGNN model — and a body of older clinical literature — suggests it may also be useful as an **adjunct to insulin therapy in Type 1 Diabetes Mellitus**, with **7 clinical trials** (1 directly relevant, Phase 3) and **16 publications** currently supporting this direction.
-
----
+Miglitol is an oral alpha-glucosidase inhibitor marketed for type 2 diabetes.
+The TxGNN model predicts it may be useful as an add-on to insulin in **type 1 diabetes mellitus** (score 99.60%). Support is **1 completed Phase 3 open trial** (no results posted) and **about 15 publications**, mostly small and dated studies from 1986 to 2011.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Type 2 Diabetes Mellitus (postprandial glycemic control) — general pharmacological knowledge; no Taiwan/US regulatory license data available |
-| Predicted New Indication | Type 1 Diabetes Mellitus (adjunct to insulin) |
+| Original Indication | Type 2 diabetes (inferred from the pack's rationale text, since the US license records list no indication text) |
+| Predicted New Indication | Type 1 diabetes mellitus (rank 10 of 10 predictions) |
 | TxGNN Prediction Score | 99.60% |
-| Evidence Level | L2 |
-| US Market Status | Not marketed (Not Marketed) |
-| Number of NDAs | 0 |
+| Evidence Level | L3 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 6 (all under ANDA203965) |
 | Recommended Decision | Proceed with Guardrails |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Miglitol is an alpha-glucosidase inhibitor: it delays intestinal breakdown and absorption of complex carbohydrates, blunting the postprandial blood glucose spike. This mechanism does not depend on residual insulin secretion, which is why it is pharmacologically plausible in Type 1 Diabetes Mellitus (T1DM) as well as Type 2.
+Currently, detailed mechanism of action data is not available in the record. Miglitol is known to be an intestinal alpha-glucosidase inhibitor. It delays carbohydrate digestion and absorption, which flattens the rise in blood glucose after meals.
 
-In T1DM, exogenous insulin dosing often fails to fully control the sharp postprandial glucose rise, even with intensive insulin therapy. Adding an alpha-glucosidase inhibitor like miglitol slows carbohydrate absorption, flattening this peak and — in several of the studies below — reducing the insulin dose needed around meals and the associated risk of post-meal hypoglycemia from over-correction.
+Even with intensive insulin therapy, many people with type 1 diabetes have sharp postprandial glucose spikes. Slowing carbohydrate absorption can reduce these spikes and the insulin needed at meals. This is the same mechanism that makes miglitol useful in type 2 diabetes, so the prediction is biologically coherent.
 
-This is not a novel mechanistic hypothesis: the same drug class (miglitol, and its research-era compounds BAY-m-1099/BAY-o-1248) has been studied as an insulin adjunct in insulin-dependent diabetes since the late 1980s, well before TxGNN's prediction. The model's high score here reflects a real, previously documented off-label pattern rather than a purely novel signal — unlike the other 9 predictions in this pack, which the model's own rationale identifies as indirect knowledge-graph paths with no supporting pharmacology.
-
----
+The evidence supports miglitol only as an **adjunct to insulin**, not as a standalone therapy. Because miglitol is already marketed, its safety profile is known. The other high-scoring predictions (stiff person syndromes, lipodystrophies, opsismodysplasia, pancreatic agenesis, thiamine-responsive dysfunction syndrome) show no plausible mechanism and are likely graph-neighborhood artifacts.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00213109](https://clinicaltrials.gov/study/NCT00213109) | Phase 3 | Completed | N/A | Open-label trial evaluating efficacy and safety of miglitol in insulin-treated Type 1 Diabetes patients. Directly relevant, but open-label (non-placebo-controlled), which limits evidence strength. |
+| [NCT00213109](https://clinicaltrials.gov/study/NCT00213109) | Phase 3 | Completed | Not reported | Open (non-randomized) trial of miglitol in insulin-treated type 1 diabetes. It targets the exact drug and indication, but no results are provided. |
 
-Six additional trials were returned by the search (NCT02475499, NCT02476760, NCT02456428, NCT06449235, NCT03492580, NCT01697592) but were assessed as **not relevant** — they study incretin-based drugs, canagliflozin, or omarigliptin in Type 2 diabetes, not miglitol in T1DM, and are excluded from this table.
-
----
+Five other trials returned by the search (NCT02475499, NCT02476760, NCT02456428, NCT06449235, NCT03492580) are observational or other-drug studies in type 2 diabetes. NCT01697592, a Phase 3 study of omarigliptin, was also returned, and its population could not be confirmed. None involves miglitol in type 1 diabetes, so none is counted as evidence.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [21869539](https://pubmed.ncbi.nlm.nih.gov/21869539/) | 2011 | Cohort | Endocrine Journal | Miglitol 25→50mg TID added to intensive insulin therapy in 11 T1DM patients; assessed effect on insulin dose, weight, hypoglycemia, and incretin response. |
-| [24843410](https://pubmed.ncbi.nlm.nih.gov/24843410/) | 2010 | Cohort/Combination therapy | J Diabetes Investigation | Combination of miglitol + insulin in T1DM; addresses uncontrolled postprandial glucose rise despite intensive insulin therapy. |
-| [2180090](https://pubmed.ncbi.nlm.nih.gov/2180090/) | 1990 | Clinical study (placebo-controlled) | S Afr Med J | 50mg miglitol vs placebo in 11 insulin-dependent diabetics; significantly lowered post-meal glucose increments (p<0.001). |
-| [2663321](https://pubmed.ncbi.nlm.nih.gov/2663321/) | 1989 | Clinical study (single-blind, placebo) | Diabetes Research | Miglitol (BAY-m-1099) vs placebo in 13 insulin-dependent diabetics; significantly reduced postprandial glucose AUC (p<0.01). |
-| [3311550](https://pubmed.ncbi.nlm.nih.gov/3311550/) | 1987 | Clinical study | Clin Pharmacol Ther | Miglitol (BAY-m-1099) reduced meal-time insulin requirements in IDDM patients. |
-| [2060451](https://pubmed.ncbi.nlm.nih.gov/2060451/) | 1991 | Crossover study | Diabetes Care | Alpha-glucosidase inhibition (miglitol) evaluated as adjunct to insulin, including timing of insulin administration relative to meals. |
-| [3130257](https://pubmed.ncbi.nlm.nih.gov/3130257/) | 1988 | Clinical study | Eur J Clin Invest | Two alpha-glucosidase inhibitors (including miglitol precursor BAYm1099) evaluated for glycemic control and insulin requirements in IDDM. |
-| [3277827](https://pubmed.ncbi.nlm.nih.gov/3277827/) | 1988 | Clinical study | Diabetes Res Clin Pract | Two alpha-glucosidase inhibitors (including BAY m 1099/miglitol) improved postprandial metabolic control in insulin-dependent diabetics. |
-| [3520133](https://pubmed.ncbi.nlm.nih.gov/3520133/) | 1986 | Clinical study | Klinische Wochenschrift | BAYo1248 and BAYm1099 (miglitol) significantly improved postprandial glucose tolerance and reduced insulin requirements vs placebo. |
-| [3286168](https://pubmed.ncbi.nlm.nih.gov/3286168/) | 1988 | Clinical study | Diabetes Res Clin Pract | Evaluated timing of preprandial insulin combined with alpha-glucosidase inhibition (BAY-m-1099/miglitol) in IDDM. |
+| [24843410](https://pubmed.ncbi.nlm.nih.gov/24843410/) | 2010 | Clinical study | J Diabetes Investig | Miglitol plus insulin in type 1 diabetes, where postprandial spikes persist despite intensive insulin. |
+| [21869539](https://pubmed.ncbi.nlm.nih.gov/21869539/) | 2011 | Clinical study | Endocr J | 11 type 1 patients on intensive insulin took miglitol 25 mg, then 50 mg, three times daily. Outcomes were insulin dose, body weight, hypoglycemia and incretin responses. |
+| [2060451](https://pubmed.ncbi.nlm.nih.gov/2060451/) | 1991 | Clinical study | Diabetes Care | Alpha-glucosidase inhibition as an insulin adjunct: effect on meal glucose tolerance and insulin timing. |
+| [2180090](https://pubmed.ncbi.nlm.nih.gov/2180090/) | 1990 | Clinical study | S Afr Med J | 11 patients. Miglitol 50 mg significantly lowered post-meal glucose increments at 30 and 60 minutes versus placebo. |
+| [2663321](https://pubmed.ncbi.nlm.nih.gov/2663321/) | 1989 | Clinical study | Diabetes Res | Single-blind crossover in 13 patients. Miglitol significantly reduced glucose area under the curve, with no change in fasting glucose. |
+| [3653827](https://pubmed.ncbi.nlm.nih.gov/3653827/) | 1987 | Clinical study | Fortschr Med | Miglitol in insulin-dependent diabetes, reported as giving improved metabolic control and good tolerance. |
+| [8261749](https://pubmed.ncbi.nlm.nih.gov/8261749/) | 1993 | Review | Diabet Med | Review of alpha-glucosidase inhibition as an adjunct in type 1 diabetes. |
+| [12073790](https://pubmed.ncbi.nlm.nih.gov/12073790/) | 2002 | Review | Rev Med Liege | Pharmacological approaches to postprandial hyperglycemia, including acarbose and miglitol. |
 
-Six further publications (PMID 8261749, 11460577, 12073790, 33268615, 20307399, 3653827) were returned but were either general reviews not specific to miglitol, studies of unrelated drugs (e.g. SGLT2 inhibitors), or lacked usable abstract content — excluded from the table above.
-
----
+Several 1986–1988 studies (for example PMIDs 3520133, 3130257 and 3311550) tested earlier alpha-glucosidase inhibitors (Bay compounds) in insulin-dependent diabetes, and they are consistent with this direction. A 2020 case report (PMID 33268615) describes SGLT2 inhibitors added to patients already on miglitol and does not test miglitol itself.
 
 ## US Market Information
 
-Miglitol currently has **no marketing license on record** for this jurisdiction (market status: Not marketed / Not Marketed, 0 NDAs). No product/dosage form data is available to tabulate.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA203965 | Miglitol | Tablet, coated (oral) | Westminster Pharmaceuticals, LLC |
+| ANDA203965 | Miglitol | Tablet, coated (oral) | Proficient Rx LP |
 
----
+The pack lists six licenses in total but returns five records. All five are under ANDA203965 from these two labelers, so the table shows each labeler once.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
 
----
+One point from the pack's assessment applies to type 1 diabetes specifically. Hypoglycemia in patients taking an alpha-glucosidase inhibitor should be treated with oral glucose rather than sucrose, because sucrose absorption is delayed.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-The mechanism (delayed carbohydrate absorption, insulin-independent) is directly applicable to T1DM, and this use is backed by one completed Phase 3 open-label trial plus ~10 supportive clinical studies spanning 1986–2011 — sufficient for L2 evidence. However, most of the supportive literature is decades old, uses miglitol's pre-approval code name (BAY-m-1099), and no contemporary placebo-controlled RCT or formal safety/MOA documentation is available.
+The mechanism fits, and many small studies show that miglitol lowers postprandial glucose and insulin needs in insulin-treated type 1 diabetes. However, the evidence is old and small-scale, and the only Phase 3 trial is an open-label study with no posted results. It is best treated as a research question for adjunctive use, not a ready-to-adopt indication.
 
 **To proceed, the following is needed:**
-- TFDA/FDA package insert data — key warnings, contraindications, and DDI profile (currently a blocking data gap)
-- Formal, current mechanism-of-action documentation from DrugBank or equivalent
-- A contemporary placebo-controlled RCT of miglitol as insulin adjunct in T1DM, given the existing evidence base predates modern insulin therapy standards
-- Clarification of regulatory pathway, since miglitol currently has no license status in this jurisdiction
+- Results or publication from NCT00213109, or a modern randomized, controlled trial in type 1 diabetes, ideally with continuous glucose monitoring outcomes
+- Package insert warnings and contraindications, which are needed before any safety screening
+- Formal mechanism of action data
+- A hypoglycemia management plan for type 1 patients, including use of oral glucose rather than sucrose
+
+*This report is for research reference only and is not medical advice. Repurposing candidates require clinical validation before use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -33,9 +33,9 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Gadodiamide (DrugBank DB00225) is a gadolinium-based paramagnetic contrast agent used to enhance MRI imaging; it is not currently marketed in Taiwan and has no on-file therapeutic indication.
-The TxGNN model predicts it may be effective for **Rheumatoid Arthritis**, but this is supported by **0 clinical trials** and **10 publications**, all of which describe using gadodiamide as an imaging tool to visualize joint inflammation — not as a treatment.
-The drug's own repurposing rationale flags this as a likely false positive: the model appears to have mistaken "used diagnostically in RA patients" for "treats RA."
+Gadodiamide is a gadolinium-based contrast agent marketed in the US as OMNISCAN and used as a diagnostic imaging agent, not a treatment.
+The TxGNN model predicts it may be relevant to **rheumatoid arthritis**, but there are **0 clinical trials** and **10 publications**, all of which use it to visualize joint inflammation on MRI rather than to treat disease.
+This looks like a knowledge-graph artifact, not a real therapeutic signal.
 
 ---
 
@@ -43,29 +43,29 @@ The drug's own repurposing rationale flags this as a likely false positive: the 
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on file — no Taiwan license records exist; publicly known globally as an MRI contrast agent (not a therapeutic drug) |
-| Predicted New Indication | Rheumatoid Arthritis |
+| Original Indication | Not listed in the record; gadodiamide is a diagnostic MRI contrast agent, not a therapy |
+| Predicted New Indication | Rheumatoid arthritis |
 | TxGNN Prediction Score | 99.16% |
-| Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 for therapeutic use (the 10 papers are diagnostic imaging studies only; the source pack labels this L4) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for gadodiamide from the standard data sources queried. Based on known information, gadodiamide is a gadolinium-based paramagnetic MRI contrast agent — its pharmacological action is to shorten proton T1 relaxation time to enhance image contrast. It has no known anti-inflammatory, immunomodulatory, or synovial-pathology-related pharmacology.
+Currently, detailed mechanism of action data is not available. Gadodiamide is a gadolinium-based contrast agent injected to enhance MRI images. It has no known disease-modifying mechanism.
 
-The literature link to rheumatoid arthritis comes entirely from a diagnostic context: contrast-enhanced MRI is a well-established method for visualizing synovitis and pannus in RA patients, so gadodiamide co-occurs frequently with RA in the literature simply because it is the imaging agent used to *study* the disease, not to *treat* it.
+The link to rheumatoid arthritis appears to come from imaging. In the linked papers, contrast-enhanced MRI is used to see inflamed synovium (the joint lining), bone marrow oedema and erosions in the wrist and finger joints. None of them reports that the drug improves RA. The high TxGNN score most likely reflects that the drug and disease frequently appear together in the literature, not a therapeutic relationship.
 
-Given this, the evidence pack's own assessment concludes there is no credible mechanistic basis for a treatment hypothesis, and classifies this as a likely case of the TxGNN model conflating "diagnostic co-occurrence" with "therapeutic association." The same reasoning applies to the second-ranked candidate, osteoarthritis susceptibility, which has no supporting literature or trials at all.
+The second prediction, **osteoarthritis susceptibility** (score 99.11%), has no trials or publications at all. It is a susceptibility phenotype rather than a treatable condition, so it is even less plausible.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
@@ -73,30 +73,30 @@ Currently no related clinical trials registered
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [17935920](https://pubmed.ncbi.nlm.nih.gov/17935920/) | 2009 | Methodology/Imaging | European journal of radiology | Distribution pattern of ultrasound-guided intra-articular injection in RA wrist joints |
-| [18286282](https://pubmed.ncbi.nlm.nih.gov/18286282/) | 2008 | Diagnostic imaging | Skeletal radiology | Contrast-enhanced MRI analysis of hands/wrists in psoriatic arthritis |
-| [17289759](https://pubmed.ncbi.nlm.nih.gov/17289759/) | 2008 | Diagnostic imaging | Annals of the rheumatic diseases | MRI and bone scintigraphy for differential diagnosis of unclassified arthritis |
-| [17340197](https://pubmed.ncbi.nlm.nih.gov/17340197/) | 2007 | Methodology | Annals of biomedical engineering | Kinetic modeling of contrast-enhanced MRI to assess RA wrist inflammation |
-| [11454641](https://pubmed.ncbi.nlm.nih.gov/11454641/) | 2001 | Diagnostic imaging | Annals of the rheumatic diseases | Low-field dedicated MRI in untreated recent-onset RA |
-| [11976868](https://pubmed.ncbi.nlm.nih.gov/11976868/) | 2002 | Diagnostic imaging | European radiology | MRI features predicting bone erosion progression at 1-year follow-up |
-| [11669155](https://pubmed.ncbi.nlm.nih.gov/11669155/) | 2001 | Diagnostic imaging | The Journal of rheumatology | MRI of wrist/finger joints across inflammatory joint disease groups |
-| [11419149](https://pubmed.ncbi.nlm.nih.gov/11419149/) | 2001 | Methodology | European radiology | Comparison of low-field extremity MRI vs high-field MRI in arthritic small joints |
-| [11868082](https://pubmed.ncbi.nlm.nih.gov/11868082/) | 2002 | Methodology | European radiology | Synovial membrane volume: manual vs stereologic MRI measurement methods |
-| [11274835](https://pubmed.ncbi.nlm.nih.gov/11274835/) | 2001 | Diagnostic imaging | European journal of radiology | Gadolinium enhancement patterns at atlantoaxial joints in normal subjects |
-
-**Note:** All 10 publications describe gadodiamide-enhanced MRI as an imaging/diagnostic tool for assessing joint disease — none evaluate gadodiamide as a therapeutic agent for RA.
+| [17935920](https://pubmed.ncbi.nlm.nih.gov/17935920/) | 2009 | Diagnostic imaging study | Eur J Radiol | Used contrast to assess how ultrasound-guided injections distribute within the wrist joint in RA patients |
+| [18286282](https://pubmed.ncbi.nlm.nih.gov/18286282/) | 2008 | Diagnostic imaging study | Skeletal Radiol | Detailed contrast-enhanced MRI analysis of hand and wrist soft tissue, tendons, joints and bone in psoriatic arthritis (not RA) |
+| [17289759](https://pubmed.ncbi.nlm.nih.gov/17289759/) | 2008 | Diagnostic imaging study | Ann Rheum Dis | Assessed the value of hand MRI and bone scintigraphy for differential diagnosis of unclassified arthritis |
+| [17340197](https://pubmed.ncbi.nlm.nih.gov/17340197/) | 2007 | Imaging methods study | Ann Biomed Eng | Kinetic modeling of contrast-enhanced MRI as an automated way to assess inflammation in the RA wrist |
+| [11976868](https://pubmed.ncbi.nlm.nih.gov/11976868/) | 2002 | Diagnostic imaging cohort | Eur Radiol | 84 patients with inflammatory joint disease; tested whether MRI synovial volume and bone marrow oedema predict bone erosion progression at 1 year |
+| [11868082](https://pubmed.ncbi.nlm.nih.gov/11868082/) | 2002 | Imaging methods comparison | Eur Radiol | Compared stereological and manual measurement of synovial volume on post-contrast finger-joint MRI |
+| [11454641](https://pubmed.ncbi.nlm.nih.gov/11454641/) | 2001 | Diagnostic imaging study | Ann Rheum Dis | Compared low-field extremity MRI with X-ray and clinical exam for inflammation and erosions in untreated early RA |
+| [11669155](https://pubmed.ncbi.nlm.nih.gov/11669155/) | 2001 | Diagnostic imaging study | J Rheumatol | Described MRI features of wrist and finger joints across early RA, established RA, other arthritis and arthralgia |
+| [11419149](https://pubmed.ncbi.nlm.nih.gov/11419149/) | 2001 | Diagnostic imaging comparison | Eur Radiol | 103 patients; compared 0.2 T extremity MRI with 1.5 T high-field MRI in arthritic small joints, including patient acceptance |
+| [11274835](https://pubmed.ncbi.nlm.nih.gov/11274835/) | 2001 | Imaging study in normal subjects | Eur J Radiol | Described normal gadolinium enhancement patterns of the atlantoaxial joints in healthy volunteers |
 
 ---
 
 ## US Market Information
 
-Not currently marketed in Taiwan — no license records on file (0 NDAs).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA020123 | OMNISCAN (GE Healthcare Inc.) | Injection | Not specified in the record |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No drug interactions were found in the queried data.
 
 ---
 
@@ -105,13 +105,13 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-There is no mechanistic basis, no clinical trial evidence, and no treatment-related literature supporting gadodiamide as a therapy for rheumatoid arthritis — all identified literature reflects its use as an imaging contrast agent, not a drug candidate. The second candidate (osteoarthritis susceptibility) is even weaker, with zero supporting trials or publications. Both should be treated as likely false-positive predictions arising from diagnostic co-occurrence in the underlying knowledge graph rather than genuine drug-repurposing signals.
+Gadodiamide is a diagnostic imaging agent with no known therapeutic mechanism. All 10 linked papers use it to visualize joint inflammation, none reports a treatment effect, and there are no clinical trials. The TxGNN score is high, but it is best read as a knowledge-graph artifact, not a real repurposing signal.
 
 **To proceed, the following is needed:**
-- TFDA/FDA package insert data (warnings, contraindications) — currently blocking even a baseline safety review
-- Confirmed mechanism of action data from DrugBank
-- Independent pharmacological rationale for any anti-inflammatory or immunomodulatory activity, if this candidate is to be pursued further
-- Given the diagnostic-vs-therapeutic confound identified here, consider flagging this candidate type (imaging/diagnostic agents predicted against disease-with-imaging-literature) for automatic down-weighting in future TxGNN evidence packs
+- Any evidence of a therapeutic effect (preclinical or clinical), not diagnostic use
+- Mechanism of action data, to test whether a plausible therapeutic link exists
+- The FDA package insert (warnings and contraindications), which is required before any safety screening
+- The approved indication text for NDA020123, to confirm the original use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,83 +29,96 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# CARBOPLATIN: From Ovarian Cancer to Female Breast Carcinoma
+# Carboplatin: From Platinum Chemotherapy to Female Breast Carcinoma
 
 ## One-Sentence Summary
 
-Carboplatin is a platinum-based alkylating chemotherapy agent, most widely recognized as a first-line treatment backbone for ovarian cancer and other platinum-sensitive malignancies.
-The TxGNN model predicts it may be effective for **Female Breast Carcinoma**—especially triple-negative (TNBC) and BRCA-mutated subtypes—
-with **50 clinical trials** and **20 publications** retrieved in support of this direction.
+Carboplatin is a platinum-based cytotoxic chemotherapy marketed in the US as generic injectable products. The source data does not list its approved indications.
+The TxGNN model predicts it may be effective for **female breast carcinoma**, with **a completed randomized Phase II trial, several Phase III trials, and multiple randomized publications** supporting this direction, especially in triple-negative and HER2-positive disease.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not available in current regulatory database |
-| Predicted New Indication | Female Breast Carcinoma |
+|------|------|
+| Original Indication | Not listed in the source data (all US license records have empty indication text) |
+| Predicted New Indication | Female breast carcinoma |
 | TxGNN Prediction Score | 99.86% |
 | Evidence Level | L2 |
-| US Market Status | Not found in regulatory database (likely a data gap) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (the five records reviewed are all generic ANDAs) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the DrugBank query in this evidence pack. Based on established pharmacology, carboplatin is a second-generation platinum coordination compound that forms covalent DNA adducts—primarily intrastrand (Pt-GG) and interstrand cross-links—blocking DNA replication and transcription. Cells with impaired DNA repair mechanisms accumulate lethal damage and are driven toward apoptosis.
+Currently, detailed mechanism of action data is not available in the source data. Based on general platinum pharmacology, carboplatin forms DNA crosslinks and adducts that block DNA replication and trigger cell death. This link is inferred rather than taken from a retrieved mechanism record.
 
-Triple-negative breast cancer (TNBC) and BRCA1/2-mutated breast cancers harbor homologous recombination deficiency (HRD), rendering them exquisitely sensitive to DNA cross-linking agents such as carboplatin. When homologous recombination cannot repair double-strand breaks, tumor cells cannot recover from carboplatin-induced damage. This rationale is supported by GeparSixto (Lancet Oncol, 2014), a landmark randomized Phase 2 trial demonstrating that carboplatin significantly improved pathological complete response (pCR) in TNBC (53.2% vs. 36.9%). A 2022 individual participant data meta-analysis (PMID 35462344) further confirmed that adding carboplatin to neoadjuvant/adjuvant chemotherapy improves overall survival in TNBC.
+Tumors with impaired homologous recombination, such as BRCA-related or triple-negative breast cancers, are less able to repair this damage. They are therefore plausibly more sensitive to carboplatin. The retrieved evidence is consistent with this. Randomized trials add carboplatin to neoadjuvant regimens in triple-negative and HER2-positive early breast cancer, and a carboplatin-olaparib trial targets BRCA-mutated disease.
 
-For HER2-positive breast cancer, carboplatin combined with trastuzumab and pertuzumab (the TCHP regimen) demonstrates synergistic anti-tumor activity, with a completed Phase 3 trial (NCT02003209, n=315) specifically evaluating this approach. An ongoing Phase 3 TNBC trial (NCT03168880, n=720) and an additional recruiting study (NCT04159142, n=414) are expected to further consolidate the evidence base and may ultimately upgrade the evidence level to L1.
+Carboplatin is most often studied as part of a combination (with taxanes, anthracyclines, or HER2 antibodies). Its own contribution is therefore hard to isolate in many trials. The very high model score should be read as a reasonable hypothesis that already has clinical activity behind it, not as proof of standalone efficacy.
 
 ---
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT03168880](https://clinicaltrials.gov/study/NCT03168880) | Phase 3 | Active, Not Recruiting | 720 | RCT comparing weekly paclitaxel alone vs. weekly paclitaxel + carboplatin as neoadjuvant therapy in patients with large operable or locally advanced TNBC |
-| [NCT02003209](https://clinicaltrials.gov/study/NCT02003209) | Phase 3 | Completed | 315 | RCT evaluating TCHP (docetaxel + carboplatin + trastuzumab + pertuzumab) ± estrogen deprivation in HR+/HER2+ locally advanced breast cancer; primary endpoint: pCR rate |
-| [NCT00532727](https://clinicaltrials.gov/study/NCT00532727) | Phase 3 | Unknown | 400 | RCT directly comparing carboplatin vs. docetaxel as standard of care for metastatic or recurrent TNBC |
-| [NCT04159142](https://clinicaltrials.gov/study/NCT04159142) | Phase 2 | Recruiting | 414 | Multicenter RCT comparing nab-paclitaxel + carboplatin vs. nab-paclitaxel + capecitabine in advanced TNBC |
-| [NCT02413320](https://clinicaltrials.gov/study/NCT02413320) | Phase 2 | Completed | 101 | Randomized Phase 2 evaluating carboplatin + docetaxel vs. carboplatin + paclitaxel as neoadjuvant therapy in Stage I–III TNBC |
-| [NCT00232505](https://clinicaltrials.gov/study/NCT00232505) | Phase 2 | Completed | 112 | Randomized Phase 2 comparing cetuximab alone vs. cetuximab + carboplatin in metastatic ER−/PR−/HER2− breast cancer |
-| [NCT00003612](https://clinicaltrials.gov/study/NCT00003612) | Phase 2 | Completed | 92 | Randomized Phase 2 of paclitaxel + carboplatin + trastuzumab as first-line therapy in HER2-overexpressing metastatic breast cancer |
-| [NCT00005963](https://clinicaltrials.gov/study/NCT00005963) | Phase 2 | Completed | 53 | Phase 2 study of docetaxel + carboplatin as first-line chemotherapy for metastatic breast cancer |
-| [NCT07103447](https://clinicaltrials.gov/study/NCT07103447) | Phase 2 | Not Yet Recruiting | 54 | Prospective multicenter study of AK112 (bispecific anti-PD-1/VEGF antibody) + albumin-bound paclitaxel + carboplatin as neoadjuvant therapy for TNBC |
-| [NCT02418624](https://clinicaltrials.gov/study/NCT02418624) | Phase 1 | Completed | 25 | Dose-finding study of carboplatin + olaparib (PARP inhibitor) in BRCA1/2-mutated, HER2-negative advanced breast cancer; explores platinum–PARP inhibitor synergy |
+|---------|------|------|------|---------|
+| [NCT02413320](https://clinicaltrials.gov/study/NCT02413320) | Phase 2 | Completed | 101 | Randomized: neoadjuvant carboplatin + docetaxel vs carboplatin + paclitaxel, then doxorubicin/cyclophosphamide, in stage I-III triple-negative breast cancer. |
+| [NCT03168880](https://clinicaltrials.gov/study/NCT03168880) | Phase 3 | Active, not recruiting | 720 | Neoadjuvant weekly paclitaxel vs paclitaxel + carboplatin in large operable or locally advanced triple-negative breast cancer. |
+| [NCT00532727](https://clinicaltrials.gov/study/NCT00532727) | Phase 3 | Unknown | 400 | Carboplatin vs docetaxel in metastatic or recurrent ER-/PR-/HER2- breast cancer. |
+| [NCT02003209](https://clinicaltrials.gov/study/NCT02003209) | Phase 3 | Completed | 315 | Neoadjuvant docetaxel/carboplatin/trastuzumab/pertuzumab with or without estrogen deprivation in HR+/HER2+ disease. Carboplatin is a backbone, not the tested variable. |
+| [NCT04159142](https://clinicaltrials.gov/study/NCT04159142) | Phase 2 | Recruiting | 414 | Nab-paclitaxel + carboplatin vs nab-paclitaxel + capecitabine in advanced triple-negative breast cancer. |
+| [NCT00003612](https://clinicaltrials.gov/study/NCT00003612) | Phase 2 | Completed | 92 | Randomized: paclitaxel, carboplatin and trastuzumab as first-line therapy for HER2-overexpressing metastatic disease. |
+| [NCT00232505](https://clinicaltrials.gov/study/NCT00232505) | Phase 2 | Completed | 112 | Cetuximab alone or with carboplatin in ER-/PR-/HER2-nonoverexpressing metastatic breast cancer. |
+| [NCT00589238](https://clinicaltrials.gov/study/NCT00589238) | Phase 2 | Terminated | 16 | Randomized: neoadjuvant weekly paclitaxel ± carboplatin in basal-like breast cancer. Stopped early with very few patients. |
+| [NCT02418624](https://clinicaltrials.gov/study/NCT02418624) | Phase 1 | Completed | 25 | Carboplatin-olaparib followed by olaparib vs capecitabine in BRCA1/2-mutated, HER2-negative advanced disease. |
+| [NCT02993094](https://clinicaltrials.gov/study/NCT02993094) | Phase 1/2 | Terminated | 31 | Ixazomib + carboplatin in pretreated advanced triple-negative breast cancer. |
 
 ---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [33208340](https://pubmed.ncbi.nlm.nih.gov/33208340/) | 2021 | RCT | Clin Cancer Res | NeoSTOP: Randomized Phase 2 comparing anthracycline-free (carboplatin + taxane) vs. anthracycline-containing carboplatin regimen in Stage I–III TNBC; evaluates pCR across both arms |
-| [24794243](https://pubmed.ncbi.nlm.nih.gov/24794243/) | 2014 | RCT | Lancet Oncol | GeparSixto: Addition of carboplatin to neoadjuvant therapy significantly improved pCR in TNBC (53.2% vs. 36.9%; p=0.005); landmark evidence establishing carboplatin's role in TNBC |
-| [39671272](https://pubmed.ncbi.nlm.nih.gov/39671272/) | 2025 | RCT | JAMA | CamRelief: Phase 3 RCT showing camrelizumab (anti-PD-1) combined with platinum-containing neoadjuvant chemotherapy improves outcomes in early/locally advanced TNBC |
-| [40593759](https://pubmed.ncbi.nlm.nih.gov/40593759/) | 2025 | RCT | Nat Commun | MUKDEN 06: ARX788 (anti-HER2 ADC) + pyrotinib vs. TCbHP (docetaxel + carboplatin + trastuzumab + pertuzumab) in neoadjuvant HER2+ breast cancer; establishes TCbHP as the standard comparator |
-| [40468999](https://pubmed.ncbi.nlm.nih.gov/40468999/) | 2025 | RCT | Acta Oncol | TCHL 5-year follow-up: TCH (docetaxel + carboplatin + trastuzumab) vs. TCHL in HER2+ neoadjuvant breast cancer with long-term efficacy and serum biomarker analysis |
-| [38309017](https://pubmed.ncbi.nlm.nih.gov/38309017/) | 2024 | RCT | Eur J Cancer | BROCADE3 final OS results: Adding veliparib to carboplatin + paclitaxel significantly improved PFS in germline BRCA1/2-mutated, HER2-negative advanced breast cancer |
-| [35462344](https://pubmed.ncbi.nlm.nih.gov/35462344/) | 2022 | Meta-analysis | Breast | Individual participant data meta-analysis confirming carboplatin addition to neoadjuvant/adjuvant chemotherapy improves overall survival in TNBC |
-| [40817986](https://pubmed.ncbi.nlm.nih.gov/40817986/) | 2025 | RCT | Breast Cancer Res Treat | Randomized Phase 2 comparing single-agent carboplatin vs. carboplatin + everolimus (mTOR inhibitor) in advanced TNBC; investigates mTOR pathway-mediated platinum sensitization |
-| [33256829](https://pubmed.ncbi.nlm.nih.gov/33256829/) | 2020 | Phase 2 | Breast Cancer Res | Phase 2 study of bevacizumab + carboplatin in breast cancer brain metastases; assessed intracranial response rate and safety |
-| [16720915](https://pubmed.ncbi.nlm.nih.gov/16720915/) | 2006 | Review | Med Oncol | Comprehensive review of preclinical and clinical evidence for paclitaxel-carboplatin synergy, efficacy, and safety in advanced breast cancer |
+|------|-----|------|------|---------|
+| [33208340](https://pubmed.ncbi.nlm.nih.gov/33208340/) | 2021 | RCT (Phase 2) | Clin Cancer Res | NeoSTOP: compared anthracycline-free and anthracycline-containing neoadjuvant carboplatin regimens in stage I-III triple-negative breast cancer. |
+| [24794243](https://pubmed.ncbi.nlm.nih.gov/24794243/) | 2014 | RCT (Phase 2) | Lancet Oncol | GeparSixto: tested adding carboplatin to neoadjuvant therapy in triple-negative and HER2-positive breast cancer. |
+| [38309017](https://pubmed.ncbi.nlm.nih.gov/38309017/) | 2024 | RCT (Phase 3) | Eur J Cancer | BROCADE3 final overall survival: veliparib added to carboplatin/paclitaxel in BRCA-mutated advanced breast cancer. Carboplatin is the backbone. |
+| [35462344](https://pubmed.ncbi.nlm.nih.gov/35462344/) | 2022 | Meta-analysis | Breast | Individual-patient and trial-level meta-analysis. The title states that adding carboplatin to neoadjuvant/adjuvant chemotherapy in triple-negative disease improves overall survival. |
+| [40817986](https://pubmed.ncbi.nlm.nih.gov/40817986/) | 2025 | RCT (Phase 2) | Breast Cancer Res Treat | Single-agent carboplatin vs carboplatin + everolimus in advanced triple-negative breast cancer. |
+| [39671272](https://pubmed.ncbi.nlm.nih.gov/39671272/) | 2025 | RCT | JAMA | CamRelief: camrelizumab vs placebo added to platinum-containing neoadjuvant chemotherapy in early or locally advanced triple-negative disease. |
+| [40329228](https://pubmed.ncbi.nlm.nih.gov/40329228/) | 2025 | Real-world cohort | BMC Cancer | Multicenter analysis of carboplatin's effect on pathologic complete response and survival in HER2-low vs HER2-zero triple-negative disease. |
+| [33256829](https://pubmed.ncbi.nlm.nih.gov/33256829/) | 2020 | Phase 2 trial | Breast Cancer Res | Carboplatin plus bevacizumab in breast cancer brain metastases (safety and efficacy). |
+| [40468999](https://pubmed.ncbi.nlm.nih.gov/40468999/) | 2025 | Phase 2 trial | Acta Oncol | TCH vs TCHL neoadjuvant study in HER2-positive disease, with 5-year follow-up. |
+| [35837812](https://pubmed.ncbi.nlm.nih.gov/35837812/) | 2023 | Retrospective | Cancer Med | Grade 3/4 anaemia, mainly carboplatin-induced, and pathologic complete response by carboplatin dose in neoadjuvant TCHP (294 patients). |
+
+---
+
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA208487 | Carboplatin (Ingenus Pharmaceuticals) | Injection, solution | Not listed in source data |
+| ANDA207324 | Carboplatin (Gland Pharma) | Injection, solution | Not listed in source data |
+| ANDA207324 | Carboplatin (BPI Labs) | Injection, solution | Not listed in source data |
+| ANDA205487 | Carboplatin (Eugia US) | Injection, solution | Not listed in source data |
+| ANDA077269 | Carboplatin (Teva Parenteral Medicines) | Injection, solution | Not listed in source data |
 
 ---
 
 ## Cytotoxicity
 
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Conventional cytotoxic (Platinum-based alkylating agent) |
-| Myelosuppression Risk | High — thrombocytopenia is the dose-limiting toxicity; neutropenia and anemia are also common at therapeutic doses |
-| Emetogenicity Classification | Moderate to High (moderately emetogenic at standard doses; highly emetogenic at high doses used in stem-cell transplant conditioning) |
-| Monitoring Items | CBC with differential and platelet count before each cycle; serum creatinine and estimated creatinine clearance for Calvert formula dose calculation; audiometry if high-dose regimen; electrolytes (Ca²⁺, Mg²⁺, K⁺) |
-| Handling Protection | Must follow cytotoxic drug handling regulations; prepare in a biological safety cabinet with closed-system transfer devices; appropriate PPE required throughout preparation and administration |
+|------|------|
+| Cytotoxicity Classification | Conventional cytotoxic (platinum class) |
+| Myelosuppression Risk | High. Myelosuppression, including anaemia, is a known dose-related toxicity, and the literature above reports frequent grade 3/4 anaemia in carboplatin combinations. |
+| Emetogenicity Classification | Moderate to high, depending on dose |
+| Monitoring Items | CBC with differential, renal function, liver function, electrolytes; hearing assessment at high doses (ototoxicity reported with high-dose carboplatin) |
+| Handling Protection | Yes. Follow cytotoxic drug handling regulations. |
+
+These ratings come from general drug-class knowledge, not from the source data. Please also refer to the package insert warnings and precautions.
 
 ---
 
@@ -120,14 +133,14 @@ Please refer to the package insert for safety information.
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Multiple randomized Phase 2 and Phase 3 clinical trials, alongside a meta-analysis confirming overall survival benefit, establish carboplatin as a well-supported therapy for female breast carcinoma—particularly TNBC (driven by HRD/BRCA-mediated platinum sensitivity) and HER2-positive subtypes (TCH/TCHP regimens). The mechanistic and clinical evidence base is robust, and carboplatin is already embedded in internationally recognized breast cancer protocols.
+A completed randomized Phase II trial, several randomized Phase II/III studies, and a meta-analysis support carboplatin in breast cancer, mainly triple-negative and HER2-positive disease. In many trials carboplatin is part of a combination, so its standalone effect is not isolated. Safety and mechanism records are missing from the pack, so this should proceed only with the guardrails below.
 
 **To proceed, the following is needed:**
-- Verification of US FDA regulatory approval status — the current database shows 0 registered NDAs, which almost certainly reflects a data gap rather than absence of approval
-- Detailed mechanism of action (MOA) data from DrugBank API (currently missing from this evidence pack)
-- Patient stratification plan by breast cancer subtype: prioritize TNBC with confirmed HRD/BRCA mutation and HER2-positive disease for the strongest benefit-risk profile
-- Safety monitoring protocol addressing thrombocytopenia (dose-limiting), renal function surveillance for Calvert formula dosing, and audiometry for high-dose regimens
-- Tracking of results from ongoing Phase 3 trials (NCT03168880, n=720 and NCT04159142, n=414), whose completion is expected to upgrade the evidence level from L2 to L1
+- FDA package insert warnings and contraindications (the blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- The approved indications for carboplatin, which are empty in the US license records
+- Confirmed results from the Phase III trials NCT03168880 and NCT00532727 that isolate carboplatin's contribution
+- A subtype-restricted scope (triple-negative, BRCA-mutated or HER2-positive) and a myelosuppression, renal and hearing monitoring plan
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

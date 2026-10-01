@@ -29,80 +29,71 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Ziconotide: From Unspecified Original Indication to Migraine Disorder
+# Ziconotide: From Severe Chronic Pain to Migraine Disorder
 
 ## One-Sentence Summary
 
-> Ziconotide's original indication and mechanism of action are not documented in the current evidence pack (data gap), and the drug is not marketed in Taiwan.
-> The TxGNN model predicts it may be effective for **Migraine Disorder**,
-> with **0 clinical trials** and **1 publication** (a single case report) currently supporting this direction.
-
----
+Ziconotide (brand name PRIALT) is an intrathecal injection approved in the US for severe chronic pain.
+The TxGNN model predicts it may be effective for **migraine disorder**.
+Support is thin: **0 clinical trials** and **1 publication**, a single case report.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in evidence pack (data gap) |
-| Predicted New Indication | Migraine Disorder |
+| Original Indication | Severe chronic pain (intrathecal use) |
+| Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 99.92% |
 | Evidence Level | L4 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Licenses | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 3 license records (all under the same NDA, NDA021060) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for the drug record itself is not available (`original_moa` is flagged as a data gap). However, the evidence pack's repurposing rationale for this candidate provides mechanistic detail: Ziconotide is a selective N-type (Cav2.2) voltage-gated calcium channel blocker acting at primary afferent nerve terminals in the spinal dorsal horn, where it inhibits release of pain-related neurotransmitters including substance P, glutamate, and CGRP.
+Ziconotide is a selective N-type (Cav2.2) calcium channel blocker. It reduces the release of pain-signalling neurotransmitters in the spinal dorsal horn. This is how it relieves severe chronic pain.
 
-This mechanism has a theoretical overlap with migraine pathophysiology, which involves trigeminovascular system sensitization and CGRP release. That said, this connection is currently supported only by a single intrathecal case report, without any systematic clinical trials. Ziconotide's intrathecal administration also carries well-known serious neuropsychiatric adverse effects (cognitive impairment, hallucinations), so any exploration of this indication would require careful risk-benefit assessment.
+Migraine involves trigeminovascular pain signalling, which plausibly overlaps with the pathways ziconotide blocks. Calcium channel biology is also relevant to migraine in general. This gives the prediction a reasonable mechanistic basis.
 
-Because original indication data is not available in this evidence pack, a direct comparison between the original and predicted indications cannot be made at this time; this assessment relies solely on the mechanistic rationale documented above.
-
----
+The practical barriers are large. Ziconotide must be given intrathecally, and it carries a neuropsychiatric safety burden. Both limit its feasibility for a common condition like migraine. The only clinical evidence so far is one case report.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [26392785](https://pubmed.ncbi.nlm.nih.gov/26392785/) | 2015 | Case Report | Journal of Pain Research | Resolution of chronic migraine headaches following intrathecal ziconotide administration; ziconotide described as an N-type calcium channel blocker used for chronic severe pain without tolerance/dependency issues seen with opioids |
+| [26392785](https://pubmed.ncbi.nlm.nih.gov/26392785/) | 2015 | Case report | Journal of Pain Research | Reports resolution of chronic migraine headaches with intrathecal ziconotide in a single patient. It is hypothesis-generating only. |
 
----
+## US Market Information
 
-## Taiwan Market Information
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA021060 | PRIALT | Injection, solution | TerSera Therapeutics LLC |
 
-No marketing authorizations are currently on record for ziconotide in Taiwan (`total_licenses: 0`, `market_status: Not marketed`).
-
----
+The three license records in the pack are identical, so they are shown once.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Key Warnings**: The pack's rationale notes a boxed warning for severe psychiatric symptoms and neurological impairment. The package insert text itself is not included in the pack.
+- **Drug Interactions**: No interaction records were found.
 
-*(Note: key warnings, contraindications, and drug-drug interaction data are all flagged as blocking data gaps in this evidence pack — see Conclusion below.)*
-
----
+For full safety information, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Evidence supporting the migraine indication is currently limited to a single case report (L4, no clinical trials), the drug is not marketed in Taiwan, and safety data (warnings, contraindications, drug interactions) are entirely unavailable — including a **Blocking**-severity gap (TFDA label warnings/contraindications) that prevents this candidate from advancing past the initial safety screening stage.
+The prediction score is very high, but the evidence is one case report and no registered trials. The intrathecal route and the neuropsychiatric safety profile make use in a common outpatient condition like migraine hard to justify at this stage.
 
 **To proceed, the following is needed:**
-- TFDA label warnings and contraindications (Blocking gap — required before any S1 safety assessment)
-- Confirmed mechanism of action data via DrugBank (High-priority gap)
-- Systematic clinical evidence (case series, observational study, or trial) beyond the single existing case report
-- Explicit evaluation of intrathecal-route feasibility and risk-benefit profile given known neuropsychiatric adverse effects, before considering migraine as a research direction
+- The package insert warnings and contraindications, which are a blocking gap before safety screening
+- Detailed mechanism of action data from DrugBank to support the mechanistic-link analysis
+- A route-feasibility assessment, since migraine would require intrathecal delivery
+- Controlled clinical evidence beyond a single case report, such as prospective studies in refractory chronic migraine
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

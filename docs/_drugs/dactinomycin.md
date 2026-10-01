@@ -29,137 +29,81 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Dactinomycin: From Rhabdomyosarcoma / Wilms Tumor to Relapsing-Remitting Multiple Sclerosis
+# Dactinomycin: From Cytotoxic Chemotherapy to Relapsing-Remitting Multiple Sclerosis
 
 ## One-Sentence Summary
 
-Dactinomycin (Actinomycin D) is a classic cytotoxic antibiotic established as a cornerstone of pediatric oncology, best known as the "A" in the VAC regimen (Vincristine + Actinomycin D + Cyclophosphamide) for rhabdomyosarcoma and Wilms tumor.
-The TxGNN model's top-ranked prediction assigns it to **Relapsing-Remitting Multiple Sclerosis (RRMS)** with a score of 99.58%; however, **no supporting clinical trials or literature** have been identified for this indication.
-This evidence pack covers 9 predicted indications in total — several rhabdomyosarcoma subtypes (Ranks 2, 5, 6) carry substantially stronger evidence (L1–L3) and merit higher prioritization.
-
----
+Dactinomycin is a cytotoxic DNA-binding chemotherapy agent, marketed in the US as generic lyophilized injection.
+The TxGNN model predicts it may be effective for **relapsing-remitting multiple sclerosis**, but **0 clinical trials** and **0 publications** were found for this pairing, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Rhabdomyosarcoma, Wilms tumor, Ewing's sarcoma, gestational trophoblastic neoplasia (established clinical use; no Taiwan regulatory data on file) |
-| Predicted New Indication (Rank 1) | Relapsing-Remitting Multiple Sclerosis (RRMS) |
+|------|------|
+| Predicted New Indication | Relapsing-remitting multiple sclerosis |
 | TxGNN Prediction Score | 99.58% |
-| Evidence Level | L5 — model prediction only; zero clinical trials or publications identified |
-| Taiwan Market Status | Not marketed (0 approved licenses) |
-| Number of Licenses | 0 |
-| Recommended Decision | **Hold** |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of Licenses | 5 (all ANDAs; ANDA203385 appears twice) |
+| Recommended Decision | Hold |
 
----
+The supplied US label records contain no approved-indication text, so the original indication is not listed here.
 
 ## Why is This Prediction Reasonable?
 
-Dactinomycin is a chromopeptide antibiotic that intercalates into the minor groove of double-stranded DNA, physically blocking RNA polymerase and halting transcription. This mechanism is cell-cycle non-specific but preferentially affects rapidly dividing cells — which is why it works so well against rhabdomyosarcoma, nephroblastoma, and Ewing's sarcoma, all of which are fast-proliferating solid tumors.
+Dactinomycin intercalates into DNA and inhibits DNA-dependent RNA synthesis, which makes it broadly cytotoxic. No MS-specific mechanism was supplied.
 
-The theoretical bridge to RRMS runs through immunosuppression: autoreactive T and B lymphocytes that drive the relapsing-remitting cycle of CNS demyelination are themselves rapidly proliferating cells. In principle, a transcription inhibitor powerful enough to kill tumor cells could also ablate pathogenic lymphocyte clones, dampening relapse frequency. This is the same broad logic that has motivated the use of other cytotoxic agents (e.g., mitoxantrone) as last-resort MS therapies.
-
-However, the mechanistic case breaks down quickly upon scrutiny. RRMS pathology centers on neuroinflammation, oligodendrocyte injury, and progressive axonal loss — processes that current disease-modifying therapies address with precise CNS penetration and receptor-level specificity (natalizumab targeting α4-integrin, ocrelizumab targeting CD20, fingolimod modulating sphingosine-1-phosphate receptors). Dactinomycin has no known neuroprotective activity, no published blood-brain barrier pharmacokinetics, and no intrathecal mechanism support. The repurposing rationale in this evidence pack explicitly flags this prediction as a probable knowledge-graph false positive: autoimmune and oncology disease nodes share a "lymphocyte proliferation hub" in TxGNN's graph, artificially inflating the score. This indication should not be pursued ahead of the strongly evidenced RMS subtypes in this same pack.
-
----
+The link between the original use (cancer chemotherapy) and MS is weak. MS is a chronic, non-malignant immune-mediated disease. The only conceivable rationale is a general immunosuppressive or anti-proliferative effect on activated immune cells, and that is a hypothesis, not something the supplied data support. Any such benefit would also have to be weighed against the marked toxicity of a cytotoxic agent in a chronic disease. The high score (0.996) reflects the model's network-based inference only and should not be read as clinical support.
 
 ## Clinical Trial Evidence
 
-No clinical trials linking Dactinomycin to relapsing-remitting multiple sclerosis are currently registered.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-No published literature directly linking Dactinomycin to relapsing-remitting multiple sclerosis is available.
+Currently no related literature available.
 
----
+## US Market Information
 
-## Summary of All Predicted Indications
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|------|
+| ANDA203385 | Dactinomycin | Lyophilized powder for injection | Eugia US LLC |
+| ANDA203999 | Dactinomycin | Lyophilized powder for injection | XGen Pharmaceuticals DJB, Inc. |
+| ANDA207232 | Dactinomycin | Lyophilized powder for injection | Hisun Pharmaceuticals USA, Inc. |
+| ANDA213463 | Dactinomycin | Lyophilized powder for injection | Meitheal Pharmaceuticals Inc. |
 
-Because the top-ranked prediction (RRMS) has no supporting evidence, the table below provides an at-a-glance view of all 9 predictions to support prioritization decisions:
-
-| Rank | Indication | TxGNN Score | Evidence Level | Decision |
-|------|-----------|-------------|----------------|----------|
-| 1 | Relapsing-remitting multiple sclerosis | 99.58% | **L5** | Hold |
-| 2 | Botryoid-type embryonal RMS of vagina | 99.54% | **L3** | Proceed with Guardrails |
-| 3 | Extrahepatic bile duct rhabdomyosarcoma | 99.49% | **L4** | Research Question |
-| 4 | Embryonal extrahepatic bile duct RMS | 99.48% | **L5** | Hold |
-| 5 | Parameningeal embryonal rhabdomyosarcoma | 99.48% | **L1** ✓ | Proceed with Guardrails |
-| 6 | Prostate embryonal rhabdomyosarcoma | 99.46% | **L3** | Proceed with Guardrails |
-| 7 | Liver sarcoma | 99.42% | **L3** | Proceed with Guardrails |
-| 8 | Upper aerodigestive tract neoplasm | 99.16% | **L4** | Research Question |
-| 9 | Head and neck cancer | 99.16% | **L3** | Research Question |
-
-**Rank 5 (parameningeal embryonal rhabdomyosarcoma)** is the highest-evidence prediction in this pack and is discussed in detail in the Conclusion section.
-
----
-
-## Taiwan Market Information
-
-Dactinomycin is not approved or marketed in Taiwan. No NDA or product licenses are on file with the TFDA.
-
-> **Reference:** In the United States, Dactinomycin is marketed as **Cosmegen® (Lundbeck)** and is FDA-approved for Wilms tumor, rhabdomyosarcoma, Ewing's sarcoma, uterine sarcoma, gestational trophoblastic neoplasia, and testicular carcinoma.
-
----
+All products are injectable only. No oral or other route is available, and route compatibility for MS has not been assessed.
 
 ## Cytotoxicity
 
-Dactinomycin is a cytotoxic antineoplastic antibiotic. This section is required.
-
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Conventional cytotoxic — DNA intercalating antibiotic (Actinomycin class); inhibits RNA synthesis by blocking RNA polymerase |
-| Myelosuppression Risk | **High** — leukopenia, thrombocytopenia, and anemia are characteristic; neutrophil nadir typically occurs around Day 14–21 post-dose |
-| Emetogenicity Classification | Moderate to high |
-| Monitoring Items | CBC with differential (at each cycle nadir), liver function tests — ALT/AST/bilirubin (dactinomycin-induced hepatopathy including veno-occlusive disease [VOD] documented in pediatric VAC regimens, PMID 9191535, 15143082; risk elevated in children under 3 years), renal function |
-| Handling Protection | Classified as a vesicant — strict extravasation precautions required; must follow cytotoxic drug handling regulations (closed-system transfer devices, dedicated PPE) |
-
----
+|------|------|
+| Cytotoxicity Classification | Conventional cytotoxic (DNA intercalator; antitumour antibiotic) |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | CBC with differential, liver function (hepatopathy and veno-occlusive disease have been reported with dactinomycin-containing regimens), renal function |
+| Handling Protection | Must follow cytotoxic drug handling regulations |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No Taiwan-specific warnings, contraindications, or drug interaction data are available, as this drug is not approved in Taiwan.
+- **Drug Interactions**: No interaction records were found for this drug in the query.
+- **Hepatic signal (from supplied literature in other indications)**: Several papers report hepatopathy and veno-occlusive disease with vincristine/dactinomycin/cyclophosphamide, with younger age as a risk factor. This is relevant to any expansion of use.
 
-> **Hepatotoxicity alert (from embedded literature):** Veno-occlusive disease of the liver has been specifically documented in children receiving VAC chemotherapy containing Dactinomycin as part of Intergroup Rhabdomyosarcoma Study protocols (PMID 9191535; PMID 15143082). Age under 3 years is an independent risk factor. This is a critical safety consideration for any pediatric use.
-
----
+Please refer to the package insert for warnings and contraindications, which were not available in the supplied data.
 
 ## Conclusion and Next Steps
 
-### For the Top-Ranked Prediction (RRMS): Hold
+**Decision: Hold**
 
 **Rationale:**
-Despite a 99.58% TxGNN score, Dactinomycin has no clinical trials, no published evidence, and no credible mechanistic pathway specifically supporting use in RRMS. The high score reflects knowledge-graph topology (shared lymphocyte proliferation nodes between autoimmune and oncology disease spaces), not biological plausibility for this specific disease.
+The MS prediction is L5. It has no trials, no literature and no mechanistic link beyond general cytotoxicity, and the drug's toxicity profile is a poor fit for a chronic non-malignant disease.
 
-**What would be required to revisit:**
-- Preclinical efficacy data in EAE (experimental autoimmune encephalomyelitis) mouse models
-- CNS pharmacokinetic data demonstrating meaningful blood-brain barrier penetration
-- A therapeutic window analysis separating selective immunosuppression from broad cytotoxicity
-- Mechanistic differentiation from approved CNS-targeted immunotherapies
+**To proceed, the following is needed:**
+- FDA package insert warnings and contraindications (currently a blocking gap for safety screening)
+- A drug-specific MOA entry from DrugBank
+- Preclinical or clinical evidence linking dactinomycin to MS pathophysiology, plus a risk-benefit argument against existing MS therapies
 
----
-
-### Higher-Priority Indication: Parameningeal Embryonal Rhabdomyosarcoma (Rank 5)
-
-**Decision: Proceed with Guardrails**
-
-**Evidence summary:**
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [19770373](https://pubmed.ncbi.nlm.nih.gov/19770373/) | 2009 | Phase 3 RCT (COG D9803) | J Clin Oncol | Compared VAC vs VAC/VTC in intermediate-risk RMS (including parameningeal); established VAC as standard backbone |
-| [10856103](https://pubmed.ncbi.nlm.nih.gov/10856103/) | 2000 | Phase 3 RCT (IRS-IV) | J Clin Oncol | Demonstrated benefit of intensified VAC in local/regional embryonal RMS; VAC confirmed as standard |
-| [12654440](https://pubmed.ncbi.nlm.nih.gov/12654440/) | 2003 | Retrospective Cohort | Int J Radiat Oncol | Assessed radiation volume influence on outcome in pediatric parameningeal RMS treated with VAC-based chemotherapy |
-
-**Rationale:**
-Parameningeal RMS is a high-risk anatomical subgroup with a risk of intracranial extension. Dactinomycin — as the intercalating backbone of VAC — inhibits RNA synthesis in rapidly proliferating RMS cells and acts as a radiosensitizer, which is particularly important for this site where concurrent radiotherapy is standard. Two completed Phase 3 RCTs (IRS-IV and COG D9803) directly evaluated VAC in populations that included parameningeal RMS patients, establishing Level 1 evidence. Evidence is absent for this precise subtype only due to its rarity, not due to a lack of mechanistic rationale.
-
-**To proceed:**
-- Confirm current standard-of-care alignment with IRS/COG/EpSSG guidelines for parameningeal RMS
-- Assess whether any Taiwan pediatric oncology centers treat this subtype and what protocol they follow
-- Review Dactinomycin procurement pathways given its absence from the Taiwan market (import/compassionate use channel required)
-- Ensure hepatotoxicity monitoring plan for pediatric patients per PMID 15143082 guidance
+**Note on other predictions in this Evidence Pack:** The rhabdomyosarcoma entries are far better supported than MS. Parameningeal embryonal rhabdomyosarcoma is graded L2 (provisional, pending full-text confirmation), with a "Proceed with Guardrails" recommendation. There, dactinomycin is a backbone drug in cooperative-group VAC-based regimens, not the variable tested. Prioritising those candidates over MS is recommended.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

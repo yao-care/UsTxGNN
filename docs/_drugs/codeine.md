@@ -29,62 +29,59 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Codeine: From Opioid Analgesia to Nasal Cavity Disease
+# Codeine: From Approved Opioid Use to Nasal Cavity Disease (Prediction Not Supported)
 
 ## One-Sentence Summary
 
-Codeine (DB00318) is a well-established mu-opioid receptor agonist widely used as an analgesic and antitussive, though formal indication data was not captured in this Evidence Pack.
-The TxGNN model predicts it may have activity in **Nasal Cavity Disease** (score: 99.93%), with **0 clinical trials** and **2 publications** retrieved — however, both publications describe codeine as a *cause* of nasal pathology, not a treatment.
-This pattern repeats across all four predicted indications and represents a likely **directionality error** in the knowledge graph, warranting a **Hold** recommendation across the board.
+Codeine is an opioid that is marketed in the US as oral tablets, among other forms. The TxGNN model predicts it may be effective for **nasal cavity disease**, with a very high score (99.93%). However, there are **0 clinical trials** and only **2 case reports**, and both describe harm from opioid misuse rather than treatment benefit.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No formal regulatory record in this dataset; codeine is widely established as an opioid analgesic and antitussive |
-| Predicted New Indication | Nasal Cavity Disease |
+|------|------|
+| Original Indication | Not stated in the provided label data (the approved-indication text for the listed products is empty) |
+| Predicted New Indication | Nasal cavity disease |
 | TxGNN Prediction Score | 99.93% |
-| Evidence Level | L5 |
-| US Market Status | Not captured (0 regulatory licenses retrieved) |
-| Number of NDAs | 0 |
-| Recommended Decision | **Hold** |
+| Evidence Level | L4 (2 case reports only, no therapeutic studies) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacology, codeine is a prodrug metabolized by CYP2D6 to morphine, acting primarily as a mu-opioid receptor (MOR) agonist. Its established clinical uses include analgesia, cough suppression, and management of diarrhea — all mediated via central and peripheral opioid receptors.
+Currently, detailed mechanism of action data is not available. Based on known information, codeine is a marketed opioid. Its use in the original indications is established, but the provided data does not describe those indications or a mechanism that would apply to nasal cavity disease.
 
-The TxGNN model likely established a link between codeine and nasal cavity disease because the knowledge graph contains a high density of co-occurrence between codeine and nasal pathology. However, reviewing the two retrieved publications reveals a classic **directionality error**: both describe codeine (or related opioids) as the *cause* of nasal injury. One case series documents intranasal abuse of hydrocodone-acetaminophen leading to mucosal necrosis; the other reports a rhinolith formed around an "opioma" — a foreign body composed of codeine and opium. Neither provides any evidence of a therapeutic effect on nasal cavity disease.
-
-In short, the knowledge graph connection reflects "codeine → nasal disease" (harm pathway), whereas a valid drug repurposing hypothesis requires "codeine → treats nasal disease" (therapeutic pathway). These two relationships are fundamentally different, and the model cannot distinguish between them at the prediction stage.
+The evidence does not support a therapeutic link. The two retrieved papers describe **harm**: necrosis of the nasal cavity and pharynx after intranasal hydrocodone-acetaminophen abuse, and a rhinolith formed around a hardened codeine-opium mixture (an "opioma"). The high TxGNN score most likely reflects proximity in the knowledge graph, since codeine and nasal conditions are linked through misuse and adverse effects. It does not indicate a treatment benefit.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Codeine in Nasal Cavity Disease.
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [22965281](https://pubmed.ncbi.nlm.nih.gov/22965281/) | 2012 | Case Report | The Laryngoscope | Intranasal abuse of hydrocodone-acetaminophen (crushing and snorting tablets) leads to mucosal necrosis of the nasal cavity and pharynx — codeine-class opioid as the *cause* of disease, not treatment |
-| [17315836](https://pubmed.ncbi.nlm.nih.gov/17315836/) | 2007 | Case Report | Ear, Nose, & Throat Journal | Rhinolithiasis formed around an impacted "opioma" (hardened codeine + opium foreign body) causing nasal obstruction and purulent rhinorrhea — opioid substance as a *mechanical cause* of nasal pathology |
-
-> ⚠️ **Critical Note:** Both publications document codeine/opioids as etiological agents of nasal pathology, not as therapeutic interventions. The high TxGNN score almost certainly reflects knowledge graph co-occurrence of codeine with nasal disease in an adverse/causal context — a directionality error rather than a therapeutic signal.
+|------|-----|------|------|---------|
+| [22965281](https://pubmed.ncbi.nlm.nih.gov/22965281/) | 2012 | Case report | The Laryngoscope | Intranasal abuse of hydrocodone-acetaminophen tablets caused necrosis of the nasal cavity and pharynx. The drug is a different opioid, and the paper describes harm, not treatment. |
+| [17315836](https://pubmed.ncbi.nlm.nih.gov/17315836/) | 2007 | Case report | Ear, Nose, & Throat Journal | A young man had a unilateral rhinolith formed around an impacted foreign body, which was a hardened mixture of codeine and opium. The paper describes a complication, not a treatment effect. |
 
 ---
 
 ## US Market Information
 
-No regulatory license records were retrieved for Codeine in this dataset (0 licenses; query returned no results). This is likely a data collection gap rather than reflecting the actual US market status. Codeine is known to be available in the United States in various combination products (e.g., codeine-acetaminophen, codeine-containing cough preparations) as well as Schedule II single-entity formulations.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA022402 | Codeine sulfate (Hikma Pharmaceuticals USA Inc.) | Tablet | Not provided in the source data |
+| ANDA203046 | Codeine Sulfate (Lannett Company, Inc.) | Tablet | Not provided in the source data |
 
-Please refer to the FDA Orange Book or DailyMed for current authorization details.
+The pack lists 20 authorizations in total, but only 5 records were supplied, and they represent just the 2 unique authorizations above. Other forms in the pack include solution, liquid and syrup.
 
 ---
 
@@ -92,7 +89,7 @@ Please refer to the FDA Orange Book or DailyMed for current authorization detail
 
 Please refer to the package insert for safety information.
 
-> ⚠️ **Known Safety Concern (from general pharmacological knowledge, not this dataset):** Codeine carries an FDA Black Box Warning for respiratory depression, particularly in CYP2D6 ultra-metabolizers who convert codeine to morphine at an accelerated rate. This risk is especially severe in children and post-tonsillectomy/adenoidectomy patients. Any repurposing investigation must account for this population-specific safety profile.
+The retrieved literature raises a safety signal for this indication. Misuse of opioids by the intranasal route is associated with tissue necrosis, and a codeine-opium mixture was found in a rhinolith. No drug interaction records were found for codeine in the source data.
 
 ---
 
@@ -101,22 +98,17 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-All four TxGNN-predicted indications for Codeine share the same fundamental problem: the knowledge graph connection reflects codeine as a *cause or confounder* rather than a *therapeutic agent* for the predicted disease. This constitutes a systemic directionality error across the entire prediction set, making none of the four candidates suitable for progression.
-
-| Predicted Indication | Why It Fails |
-|---------------------|-------------|
-| Nasal Cavity Disease | Both publications show opioid-induced nasal necrosis; reverse causality |
-| Acute Laryngopharyngitis | Zero evidence; antitussive effect is an *existing* use, not repurposing |
-| Trigeminal Autonomic Cephalalgia | 5 case reports all document opioid use as patient background, not as treatment; EHF/AHS guidelines explicitly recommend against opioids in TAC; MOH risk |
-| Allergic Urticaria | 15 publications consistently identify codeine as a mast cell degranulator and urticaria *trigger*, not treatment; codeine is used as a positive control in urticaria skin testing |
+The score is high, but there are no clinical trials and the only literature consists of two case reports of misuse-related harm. The available evidence points to adverse effects, not benefit, so there is no basis to advance this indication.
 
 **To proceed, the following is needed:**
+- The FDA package insert (warnings, contraindications, approved indications), which is a blocking gap for safety screening
+- Mechanism of action data (for example from DrugBank) to test whether any plausible link to nasal cavity disease exists
+- Any controlled study evaluating codeine as a treatment for a nasal cavity condition
+- Route compatibility assessment, since the available oral forms do not match a nasal-targeted indication
 
-- **Directionality audit of the knowledge graph:** Distinguish "codeine causes disease X" edges from "codeine treats disease X" edges before running future predictions for this drug class
-- **MOA data (DG002):** Retrieve full mechanism-of-action profile from DrugBank API to enable proper mechanistic link analysis
-- **US regulatory data:** Retrieve actual FDA license records (Orange Book / DailyMed) to complete the market status picture
-- **Alternative indication search:** If repurposing potential is desired for codeine, consider redirecting the analysis toward indications where opioid receptors play a clearly *therapeutic* (not harmful) mechanistic role — and focus on indications beyond codeine's already-approved uses (analgesia, antitussive, antidiarrheal)
-- **Safety framework:** Any future candidate should pre-specify a CYP2D6 genotyping strategy and respiratory monitoring plan given the Black Box Warning profile
+Two other predicted indications also do not currently support advancement. Acute laryngopharyngitis (score 99.92%) has no retrieved evidence, and the only rationale is an unverified cough-relief inference. Allergic urticaria (score 99.37%) is mechanistically contradicted, because codeine triggers mast-cell histamine release and is used as a skin-test provocation agent.
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

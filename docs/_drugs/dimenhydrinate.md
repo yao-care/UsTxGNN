@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Dimenhydrinate
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 610
-evidence_level: L5
+evidence_level: L4
 indication_count: 2
 ---
 
 # Dimenhydrinate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **2** 
+Evidence Level: **L4** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,11 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Dimenhydrinate: From Unspecified Original Indication (Not Marketed) to Allergic Urticaria
+# Dimenhydrinate: From Motion Sickness to Allergic Urticaria
 
 ## One-Sentence Summary
 
-> Dimenhydrinate (DrugBank DB00985) is **not currently marketed in Taiwan**, and this evidence pack contains no record of an approved original indication for the compound.
-> The TxGNN model's top-ranked prediction identifies **Allergic Urticaria** as a candidate new indication, with a prediction score of **99.74%**.
-> Supporting evidence is currently limited to **1 publication** (a pharmacokinetic study, not a clinical efficacy trial) and **0 registered clinical trials**, so this remains a hypothesis-generating signal rather than a clinically validated direction.
+Dimenhydrinate is an over-the-counter antihistamine sold in the US mainly as a motion sickness remedy (Dramamine, Gravol). The TxGNN model predicts it may be effective for **allergic urticaria**, but **0 clinical trials** and **1 publication** (a canine pharmacokinetic pilot study) currently support this direction. The evidence is very early-stage.
 
 ---
 
@@ -43,25 +41,23 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no Taiwan license records exist for this compound (`taiwan_regulatory.licenses` is empty) |
-| Predicted New Indication | Allergic Urticaria |
+| Original Indication | Motion sickness (inferred from product names; approved indication text was not supplied) |
+| Predicted New Indication | Allergic urticaria |
 | TxGNN Prediction Score | 99.74% |
-| Evidence Level | L4 (mechanism/preclinical-level support only) |
-| Market Status (Taiwan) | Not Marketed |
-| Number of NDAs | 0 |
-| Recommended Decision | **Hold** |
+| Evidence Level | L4 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 licenses (the listed products carry authorization number M009) |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for dimenhydrinate is flagged as a data gap in this evidence pack (DG002, High severity). Based on the literature evidence that *was* collected, dimenhydrinate is a salt combination of **diphenhydramine** and **8-chlorotheophylline**, where diphenhydramine is the pharmacologically active moiety and functions as a first-generation **H1 histamine receptor antagonist** (Ehling et al., 2019, PMID 30779257). The 8-chlorotheophylline component is added primarily to offset diphenhydramine's sedative effect and to improve oral absorption, rather than to contribute independent antihistaminic activity.
+Currently, detailed mechanism of action data is not available in the Evidence Pack. Dimenhydrinate is a salt of diphenhydramine and 8-chlorotheophylline. Diphenhydramine is a first-generation H1 receptor antagonist, and dimenhydrinate is already marketed in the US for motion sickness.
 
-No original approved indication is on file for this compound in the current evidence pack — `taiwan_regulatory.licenses` is empty and the drug is not marketed in Taiwan, so a direct "original indication → new indication" comparison cannot be made from regulatory data alone. Instead, the rationale here is a **class-level mechanistic link**: allergic urticaria is a mast-cell-mediated condition in which histamine release drives vasodilation, increased vascular permeability, and pruritus — the exact pathway that H1 antagonists like diphenhydramine are designed to block. This is consistent with the well-established clinical use of first-generation antihistamines across the urticaria/allergic-dermatologic disease class.
+H1 blockade is the established way to control histamine-driven wheals and itching in allergic urticaria. This class-level mechanism likely explains the very high TxGNN score. The same reasoning applies to the model's second prediction, **cold urticaria** (score 99.24%). It is a physical urticaria driven by mast cell histamine release, but it has no trial or literature evidence and sits at L5 (model prediction only).
 
-The caveat is that the only literature currently linked to this prediction is a **pharmacokinetic study in dogs**, not a clinical efficacy trial in allergic urticaria patients. It supports plausibility of drug exposure and receptor engagement, but it is indirect evidence — it does not demonstrate therapeutic efficacy for this specific indication.
-
-*For context, a related TxGNN candidate — cold urticaria (score 99.24%, rank 16816) — shares the same class-level mechanistic rationale (H1-mediated mast cell degranulation) but has zero supporting trials or literature (Evidence Level L5, recommendation: Hold) and is not pursued further in this report.*
+The mechanistic link is a class and moiety effect of diphenhydramine. No dimenhydrinate-specific efficacy data in urticaria were supplied. First-generation antihistamines are also sedating and anticholinergic. Current guidance generally prefers second-generation H1 antihistamines, which limits the practical value of this repurposing.
 
 ---
 
@@ -75,15 +71,32 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [30779257](https://pubmed.ncbi.nlm.nih.gov/30779257/) | 2019 | Pharmacokinetic Study | Veterinary Dermatology | Compared diphenhydramine PK after oral/IV diphenhydramine vs. oral dimenhydrinate in dogs; dimenhydrinate produced superior oral absorption of diphenhydramine and assessed pharmacodynamic effect on histamine-induced wheal formation. Supports H1-antagonist mechanism relevant to allergic/pruritic conditions but is not a clinical efficacy study in urticaria. |
+| [30779257](https://pubmed.ncbi.nlm.nih.gov/30779257/) | 2019 | Pharmacokinetic pilot study (dogs) | Veterinary Dermatology | Compared diphenhydramine levels after oral and IV diphenhydramine and oral dimenhydrinate in healthy dogs. It also looked at the effect on histamine-induced wheal formation. Dimenhydrinate has been reported to give better oral absorption of diphenhydramine. This is an animal study, not human evidence. |
+
+---
+
+## US Market Information
+
+Approved indication text was not provided for these listings. The table shows five of the 20 licenses.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| M009 | Motion Sickness Relief | Tablet | Cardinal Health 110, LLC. DBA Leader |
+| M009 | Dramamine | Chewable tablet | Lil' Drug Store Products, Inc. |
+| M009 | Gravol | Syrup | Church & Dwight Co., Inc. |
+| M009 | Motion Sickness Relief | Tablet | Allegiant Health |
+| M009 | Dimenhydrinate | Tablet | CVS Pharmacy, Inc. |
+
+Other dosage forms on the market include solution for injection, liquid-filled capsules and coated tablets.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Class profile**: As a first-generation H1 antihistamine, it has a sedating and anticholinergic profile. This is a practical limitation for chronic urticaria treatment.
+- **Drug Interactions**: The DDI query returned no results.
 
-*(Note: TFDA label warnings/contraindications are flagged as a Blocking data gap (DG001) — this is required before any S1 safety pre-screen can proceed. No drug-drug interaction data was found in the queried source.)*
+Please refer to the package insert for warnings and contraindications.
 
 ---
 
@@ -92,16 +105,15 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-- The only supporting evidence is a single pharmacokinetic study, not a clinical trial or efficacy study in allergic urticaria; combined with the L4 evidence level, this is insufficient to advance beyond a research hypothesis.
-- Core safety data (TFDA warnings/contraindications) is a **Blocking** gap (DG001), which by itself prevents any S1 safety pre-screen regardless of predicted indication strength.
-- The compound is not currently marketed in Taiwan (0 licenses), so there is no existing regulatory or post-market safety foundation to build on locally.
+The mechanistic rationale is sound, and the TxGNN score is very high. However, the only supporting literature is one canine pharmacokinetic pilot study, with no clinical trials. Second-generation antihistamines are already preferred for urticaria, and the safety review cannot proceed without package insert data.
 
 **To proceed, the following is needed:**
-- Resolve DG001: obtain TFDA (or equivalent) label warnings/contraindications before any safety pre-screen can begin.
-- Resolve DG002: confirm mechanism of action via DrugBank API query to formally support the class-level rationale used above.
-- Generate or identify direct clinical evidence in allergic urticaria (efficacy trials or case series), since current support is limited to an indirect PK study.
-- Obtain drug-drug interaction data (current query status: not found).
-- Re-evaluate once original indication/regulatory history for dimenhydrinate (e.g., from a market where it is approved) is available, to properly assess similarity between original and new indications.
+- Package insert warnings and contraindications, to complete the safety screen
+- Detailed mechanism of action data (MOA)
+- Human clinical evidence for dimenhydrinate specifically in urticaria, or a rationale for choosing it over second-generation antihistamines
+- Route and dosage compatibility assessment for the urticaria indication
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,77 +29,70 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Doxercalciferol: Original Indication Not on Record → Predicted Vitamin D Deficiency
+# Doxercalciferol: From Secondary Hyperparathyroidism in CKD to Vitamin D Deficiency
 
 ## One-Sentence Summary
 
-Doxercalciferol (DrugBank DB06410) currently has no approved indication or market license on file in this evidence pack, and detailed mechanism-of-action data has not yet been retrieved. The TxGNN model predicts a link to **"obsolete vitamin D deficiency"** with a very high raw score, but this disease term is itself flagged as *obsolete* in the underlying ontology, and **zero clinical trials, zero ICTRP trials, and zero publications** currently support this direction — this is a preliminary, unverified signal, not a validated repurposing hypothesis.
-
----
+Doxercalciferol is a synthetic vitamin D2 analog. Its known labeled use is secondary hyperparathyroidism in chronic kidney disease (CKD), which comes from the pack's rationale text, not from the license data.
+The TxGNN model predicts it may be effective for **obsolete vitamin D deficiency** (an outdated ontology label), but currently **0 clinical trials** and **0 publications** support this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on record — no approved indications or licenses are documented for this drug in Taiwan |
-| Predicted New Indication | Obsolete vitamin D deficiency *(disease term flagged as obsolete in source ontology)* |
-| TxGNN Prediction Score | 99.48% (raw score 0.9948; internal rank 12,348) |
-| Evidence Level | L5 — model prediction only, no supporting studies |
-| Taiwan Market Status | Not marketed (Not Marketed) |
-| Number of Licenses | 0 |
+| Original Indication | Secondary hyperparathyroidism in CKD (not listed in the license records provided) |
+| Predicted New Indication | Obsolete vitamin D deficiency |
+| TxGNN Prediction Score | 99.48% |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 14 (all shown authorizations are ANDAs) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for the drug record itself is not yet available (data gap DG002, DrugBank API lookup pending). However, the model's own repurposing rationale notes that doxercalciferol is a vitamin D2 prodrug that is hepatically 25-hydroxylated to its active form, which binds and activates the Vitamin D Receptor (VDR).
+Doxercalciferol is a prodrug of vitamin D2 (ergocalciferol). The liver converts it by 25-hydroxylation into 1α,25-dihydroxyvitamin D2, which activates the vitamin D receptor. Unlike some other vitamin D products, it does not need a second activation step in the kidney. Structured mechanism data is not available in the pack, so this description comes from the pack's rationale text.
 
-Based on this mechanistic description, the predicted link to "vitamin D deficiency" overlaps almost completely with the drug's core, already-known pharmacology — it reads as a restatement of the drug's own mechanism rather than a novel repurposing hypothesis. In other words, the model may simply be recognizing that a vitamin D analog activates the vitamin D pathway, which is expected and not clinically informative on its own.
+A link to vitamin D deficiency is biologically plausible because the drug acts on the vitamin D pathway. This is the likely reason for the very high TxGNN score.
 
-Compounding this, the predicted disease node is explicitly marked **"obsolete"**, suggesting the term may have been deprecated or merged with another concept in the source ontology (e.g., MONDO/UMLS). Combined with the complete absence of clinical trials or literature evidence, the underlying data quality for this specific prediction should be verified before any further evaluation proceeds.
-
----
+There is a caveat. The predicted disease label is an obsolete ontology term, so the prediction may be a knowledge-graph artifact rather than a truly new indication. The term should be mapped to a current disease concept, such as vitamin D deficiency, and compared with the labeled indication before any further evaluation.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## US Market Information
 
-## Taiwan Market Information
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA210452 | Doxercalciferol | Injection | Dr. Reddy's Laboratories Inc |
+| ANDA213717 | Doxercalciferol | Injection, solution | Eugia US LLC |
+| ANDA215810 | Doxercalciferol | Injection, solution | Alembic Pharmaceuticals Inc. |
+| ANDA211670 | Doxercalciferol | Injection, solution | Meitheal Pharmaceuticals Inc. |
+| ANDA205360 | Doxercalciferol | Capsule | Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc. |
 
-Doxercalciferol is currently **not marketed** in Taiwan, with no licenses on record (0 total). No product name, dosage form, or approved-indication data is available to summarize.
-
----
+These are 5 of 14 authorizations. Both injectable and oral (capsule) forms are marketed. Approved indication text was not included in the license records.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-*(Note: key warnings, contraindications, and drug-drug interaction data are not yet available in this evidence pack — TFDA label warnings/contraindications are flagged as a **blocking** data gap, DG001, required before any safety pre-screening can proceed.)*
-
----
+Please refer to the package insert for safety information. No drug interaction records were found in the queried source.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-- Evidence level is L5 (model prediction only) with zero supporting clinical trials or literature, and the predicted disease term itself is flagged as obsolete/potentially unreliable in the source ontology.
-- The drug is not currently marketed in Taiwan (0 licenses), and a blocking safety data gap (TFDA label warnings/contraindications) prevents progression to the S1 safety pre-screening stage.
+The prediction rests on model output alone (L5), with no clinical trials or publications. The predicted disease is an obsolete label that may overlap with the drug's existing vitamin D pathway use rather than represent a new indication.
 
 **To proceed, the following is needed:**
-- Resolve DG001 (Blocking): retrieve and parse the TFDA package insert for warnings/contraindications.
-- Resolve DG002 (High): query DrugBank for confirmed mechanism-of-action data.
-- Verify whether "obsolete vitamin D deficiency" maps to a current, valid disease concept before treating this as a genuine repurposing candidate.
-- If the disease mapping is confirmed valid, initiate targeted clinical trial and literature searches specific to the corrected disease term.
+- Map "obsolete vitamin D deficiency" to a current disease concept and confirm it is distinct from the labeled indication
+- Obtain the FDA package insert (approved indications, warnings, contraindications), which blocks safety screening
+- Obtain structured mechanism of action data from DrugBank
+- Search for clinical trials and literature under the updated disease term
+- Assess route compatibility (injectable and oral forms) for the target use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

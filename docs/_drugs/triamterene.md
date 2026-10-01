@@ -29,78 +29,76 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Triamterene: From Potassium-Sparing Diuretic Use to Malignant Hypertensive Renal Disease
+# Triamterene: From Potassium-Sparing Diuretic Therapy to Malignant Hypertensive Renal Disease
 
 ## One-Sentence Summary
 
-> Triamterene is a potassium-sparing diuretic (ENaC blocker); this evidence pack contains no confirmed original indication, TFDA license, or MOA record.
-> The TxGNN model ranks **Malignant Hypertensive Renal Disease** as its top prediction with a **99.89%** score, but **0 clinical trials** and **0 publications** support it —
-> and the mechanistic rationale itself flags this as a **hyperkalemia risk signal**, not a therapeutic opportunity.
-
----
+Triamterene is a potassium-sparing diuretic that has been marketed in the US for many years as oral capsules.
+The TxGNN model predicts it may be effective for **malignant hypertensive renal disease**, but there are currently **0 clinical trials** and **0 publications** supporting this specific prediction.
+This is a model-only prediction (evidence level L5) and should be put on hold.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on file (no TFDA/regulatory license data provided; commonly known as a potassium-sparing diuretic for edema/hypertension) |
-| Predicted New Indication | Malignant Hypertensive Renal Disease |
+| Original Indication | Not listed in the supplied US label data (class: potassium-sparing diuretic) |
+| Predicted New Indication | Malignant hypertensive renal disease |
 | TxGNN Prediction Score | 99.89% |
-| Evidence Level | L5 (model prediction only, no clinical/literature support) |
-| US Market Status | Not marketed (Not Marketed) |
-| Number of NDAs | 0 |
-| Recommended Decision | **Hold** |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 9 US licenses (NDA and ANDA) |
+| Recommended Decision | Hold |
 
----
+## Why is This Prediction Reasonable?
 
-## Why Is This Prediction Reasonable?
+Currently, detailed mechanism of action data is not available in the Evidence Pack. Triamterene is known as a potassium-sparing diuretic that blocks the epithelial sodium channel (ENaC). It lowers blood pressure through natriuresis (sodium excretion), so a plausible link to hypertensive disease exists.
 
-Detailed mechanism of action data is not formally on file (`original_moa: [Data Gap]`). Based on the rationale text provided with this prediction, triamterene is a **potassium-sparing diuretic that blocks the epithelial sodium channel (ENaC)**, producing a mild antihypertensive/diuretic effect by reducing sodium reabsorption in the distal nephron.
+Malignant hypertensive renal disease is severe, accelerated hypertension with kidney involvement. A diuretic's volume and blood pressure effects are mechanistically relevant, but this is a general rationale, not a specific one. Severe hypertension with renal injury is a clinical emergency usually managed with other approaches, and no data in this pack show triamterene being used for it.
 
-However, this mechanism does **not** support its use in malignant hypertensive renal disease. Patients with this condition typically have impaired renal function and activated renin-angiotensin-aldosterone signaling, both of which sharply increase the risk of **hyperkalemia** when a potassium-sparing agent is used — especially in combination with ACEI/ARB therapy, which is standard of care in this population. The TxGNN prediction pack itself characterizes this link as "risk rather than efficacy," and no clinical trial or literature evidence exists to counter that assessment.
-
-The next-ranked prediction (rank 2, malignant renovascular hypertension) shares the identical score and the same safety concern. Ranks 3–5 (pulmonary hypertension variants, Braddock syndrome) have no plausible mechanistic link and no supporting evidence at all — these appear to be prediction noise. The one indication with any literature backing is **chronic pulmonary heart disease** (rank 6, L4, "Research Question" status), supported by decades-old, non-triamterene-specific diuretic studies used for volume overload in cor pulmonale — a supportive rather than disease-modifying role.
-
----
+The high score (0.9989) is a computational signal only. The related prediction, malignant renovascular hypertension, has an identical score, which suggests a shared graph-based signal rather than independent support. Hyperkalemia risk in impaired renal function is a major safety concern for this potassium-sparing drug in a kidney-disease setting.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-No marketing authorizations are on file for this evidence pack (`total_licenses: 0`, `market_status: Not marketed`). Triamterene is not currently marketed under the jurisdiction covered by this evidence pack.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA013174 | Dyrenium | Capsule | Advanz Pharma (US) Corp. |
+| NDA013174 | Triamterene | Capsule | Prasco Laboratories |
+| ANDA211581 | Triamterene | Capsule | Bryant Ranch Prepack |
+| ANDA211581 | Triamterene | Capsule | TRUPHARMA LLC |
 
----
+Approved indication text was not available in the supplied records. All products are oral capsules.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Renal impairment:** Hyperkalemia risk is a key concern when a potassium-sparing diuretic is used in patients with kidney disease, which is directly relevant to this predicted indication.
+- **Drug interactions:** No interaction records were found in the queried data.
 
-*(Note: TFDA warnings/contraindications and DDI data are flagged as a **Blocking** data gap — see Conclusion.)*
-
----
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (Malignant Hypertensive Renal Disease) has zero clinical or literature support, and its own mechanistic rationale identifies a **hyperkalemia risk** rather than a therapeutic benefit — this is not a viable repurposing candidate. The only prediction with any evidence base (chronic pulmonary heart disease, L4) rests on generic, decades-old diuretic-combination studies rather than triamterene-specific efficacy data, and stops at "Research Question" status.
+The prediction rests only on a model score, with no trials or literature for this drug-disease pair. The safety profile (hyperkalemia in renal impairment) is unfavorable for the proposed setting.
 
 **To proceed, the following is needed:**
-- TFDA-equivalent warnings/contraindications and full prescribing information (DG001, **Blocking** — required before any S1 safety evaluation)
-- Verified mechanism of action from DrugBank (DG002, currently missing)
-- If pursuing chronic pulmonary heart disease as a low-priority research question: triamterene-specific (not general diuretic-class) trial or cohort data in cor pulmonale/right heart failure populations
-- Renal function and serum potassium risk assessment before considering any hypertensive-renal-disease indication further
+- The US package insert (warnings, contraindications, approved indications) to complete safety screening
+- Mechanism of action data from DrugBank
+- A targeted literature and trial search for triamterene in severe or malignant hypertension with renal involvement
+- A hyperkalemia risk assessment for patients with reduced kidney function
+
+**Note on other predictions:** Among the other predicted indications, *chronic pulmonary heart disease* has four dated, indirect publications (1976–1991) on diuretics in heart failure and cardiopulmonary disease (evidence level L4, "Research Question"). It may be a better candidate for further exploration than the indication above. The two pulmonary hypertension predictions are supported only by keyword matches on "hypoxia," with no relevant evidence.
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

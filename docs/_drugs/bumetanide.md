@@ -3,14 +3,14 @@ layout: default
 title: Bumetanide
 parent: Moderate Evidence (L3-L4)
 nav_order: 476
-evidence_level: L3
+evidence_level: L4
 indication_count: 1
 ---
 
 # Bumetanide
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **1** 
+Evidence Level: **L4** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,92 +29,84 @@ Evidence Level: **L3** | Predicted Indications: **1**
 
 </div>
 
-# Bumetanide: From Congestive Heart Failure Edema to Acute Pulmonary Heart Disease
+# Bumetanide: From Edema (Heart Failure, Hepatic and Renal Disease) to Acute Pulmonary Heart Disease
 
 ## One-Sentence Summary
 
-Bumetanide is a high-ceiling loop diuretic clinically used to treat edema associated with congestive heart failure, hepatic and renal disease, and acute pulmonary congestion. The TxGNN model predicts it may be effective for **Acute Pulmonary Heart Disease**, with **3 clinical trials** and **5 publications** currently supporting this direction. The mechanistic rationale is strong — bumetanide's preload-reducing and decongestion effects directly address the pathophysiology of acute cor pulmonale — though the evidence base remains at the observational/review level.
-
----
+Bumetanide is a potent loop diuretic used to treat edema associated with congestive heart failure and hepatic and renal disease.
+The TxGNN model predicts it may be effective for **acute pulmonary heart disease** (acute cor pulmonale), but the evidence is indirect: **3 registered trials** (none testing this indication, one withdrawn) and **5 publications** (all on general heart failure or diuretic pharmacology).
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not captured in regulatory records (known use: edema associated with congestive heart failure, hepatic and renal disease) |
-| Predicted New Indication | Acute Pulmonary Heart Disease |
+|------|------|
+| Original Indication | Edema associated with congestive heart failure, hepatic and renal disease (from a 1984 review; the US label text is not included in the source data) |
+| Predicted New Indication | Acute pulmonary heart disease |
 | TxGNN Prediction Score | 99.58% |
-| Evidence Level | L3 |
-| US Market Status | Not found in regulatory query (0 licenses recorded) |
-| Number of NDAs | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+| Evidence Level | L4 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Bumetanide is a potent loop diuretic that acts on the thick ascending limb of the loop of Henle by inhibiting the NKCC2 (Na⁺/K⁺/2Cl⁻) cotransporter. This results in rapid and substantial natriuresis and diuresis, reducing circulating blood volume and intravascular hydrostatic pressure. The drug can be administered orally, intravenously, or intramuscularly, producing marked diuresis within 30 minutes that persists for 3 to 6 hours — a pharmacokinetic profile well-suited to acute settings.
+Bumetanide inhibits the NKCC2 cotransporter in the thick ascending limb of the loop of Henle. This produces rapid, marked diuresis and lowers intravascular volume and cardiac preload. In acute cor pulmonale, this could in theory relieve right-ventricular congestion and systemic venous overload. The mechanism fields in the source data are otherwise incomplete, so this rests on the known pharmacology of loop diuretics.
 
-Acute pulmonary heart disease (cor pulmonale with acute decompensation) is characterized by right heart overload, elevated pulmonary artery pressures, and fluid congestion. Bumetanide's mechanism of preload reduction and pulmonary decongestion directly targets these pathophysiological drivers. The TxGNN knowledge graph score of 0.9958 reflects strong pre-existing edges in the bumetanide → fluid overload → cardiac hypertension → pulmonary disease network, corroborating the mechanistic link computationally.
+The link to the original use is plausible but indirect. Bumetanide is already used for acute pulmonary congestion and volume overload in heart failure. A small hemodynamic study (1987) showed that intravenous bumetanide lowered cardiac index and pulmonary artery occluded pressure in acute and chronic heart failure. However, all supporting data concern left-sided or general heart failure, not acute pulmonary heart disease such as right-ventricular strain from pulmonary embolism.
 
-It is important to note that bumetanide's use in congestive heart failure–related edema and acute pulmonary congestion is already well-established in clinical practice and pharmacological literature (notably the 1984 comprehensive review by Ward & Heel). The TxGNN prediction therefore represents an evidence-consolidation exercise for an extended indication rather than a novel repurposing hypothesis from scratch. Regulatory data for this candidate (especially from TFDA) was not captured in the current evidence pack, which limits formal safety scoring.
-
----
+There is also a mechanistic caution. Acute cor pulmonale is often preload-dependent, so over-diuresis could lower cardiac output and worsen hemodynamics. The high TxGNN score is a computational prediction only, and no clinical evidence directly supports this indication.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT07375212](https://clinicaltrials.gov/study/NCT07375212) | Phase 4 | Withdrawn | 0 | Prospective pilot assessing whether single 4 mg intranasal bumetanide acutely reduces pulmonary artery pressure and blood volume in outpatient HF patients with implanted remote monitoring devices (CardioMEMS / Cordella). Trial withdrawn before enrollment; no data available. |
-| [NCT05580510](https://clinicaltrials.gov/study/NCT05580510) | Phase 2/3 | Unknown | 160 | Evaluates empagliflozin + sacubitril/valsartan in adults with congenital heart disease–associated HF with reduced EF. Bumetanide likely appears only as concomitant background diuretic; not the primary investigational agent. |
-| [NCT06885164](https://clinicaltrials.gov/study/NCT06885164) | N/A | Recruiting | 200 | Observational seismocardiographic monitoring study in heart failure; focused on device-based remote monitoring rather than pharmacological evaluation. Bumetanide may appear as background therapy but provides no direct drug-efficacy evidence. |
+| [NCT07375212](https://clinicaltrials.gov/study/NCT07375212) | Phase 4 | Withdrawn | 0 | Single 4 mg intranasal bumetanide dose, effect on pulmonary artery pressure and blood volume in heart failure patients with an implanted monitoring device (CardioMEMS/Cordella). Withdrawn, so no data. Population is heart failure, not acute pulmonary heart disease. |
+| [NCT05580510](https://clinicaltrials.gov/study/NCT05580510) | Phase 2/3 | Unknown | 160 | Empagliflozin and sacubitril/valsartan in adults with heart failure and congenital heart disease. Does not test bumetanide. |
+| [NCT06885164](https://clinicaltrials.gov/study/NCT06885164) | N/A | Recruiting | 200 | Seismocardiographic remote monitoring in heart failure. Non-interventional; does not evaluate bumetanide. |
 
-> **Note:** None of the identified trials were designed to directly evaluate bumetanide efficacy in acute pulmonary heart disease. NCT07375212 is the most mechanistically relevant but was withdrawn before generating any data.
-
----
+All three trials were graded low relevance (C). None tests bumetanide in acute pulmonary heart disease.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [3304383](https://pubmed.ncbi.nlm.nih.gov/3304383/) | 1987 | Prospective Clinical Study | British Journal of Clinical Pharmacology | IV bumetanide (25 µg/kg) in 24 patients with coronary artery disease and acute or chronic HF: reduced cardiac index and pulmonary artery occluded pressure (PAOP) at rest; directly demonstrates acute hemodynamic preload reduction relevant to pulmonary congestion. |
-| [6391889](https://pubmed.ncbi.nlm.nih.gov/6391889/) | 1984 | Pharmacological Review | Drugs | Comprehensive pharmacodynamic and pharmacokinetic review; documents bumetanide's approved use for edema in CHF, acute pulmonary congestion, hepatic and renal disease; establishes mechanism and clinical profile. |
-| [19142155](https://pubmed.ncbi.nlm.nih.gov/19142155/) | 2009 | Narrative Review | American Journal of Therapeutics | Reviews therapeutic options for acute decompensated HF; highlights loop diuretics including bumetanide as the cornerstone of acute HF management; contextualizes its role among 1 million annual US hospitalizations. |
-| [19843838](https://pubmed.ncbi.nlm.nih.gov/19843838/) | 2009 | Comparative Review | Annals of Pharmacotherapy | Systematic comparison of loop diuretics (furosemide, bumetanide, torsemide) for pharmacokinetics, safety, efficacy, and cost; supports bumetanide as a clinically valid alternative to furosemide in HF. |
-| [39366035](https://pubmed.ncbi.nlm.nih.gov/39366035/) | 2024 | Epidemiological Study | American Journal of Emergency Medicine | US ED epidemiology of HF presentations 2016–2023; characterizes the scale of acute HF burden and treatment patterns, providing context for the target patient population. |
-
----
+| [6391889](https://pubmed.ncbi.nlm.nih.gov/6391889/) | 1984 | Review | Drugs | Bumetanide is a potent loop diuretic for edema in congestive heart failure, hepatic and renal disease, and acute pulmonary congestion. Diuresis begins within 30 minutes and lasts 3–6 hours. |
+| [19142155](https://pubmed.ncbi.nlm.nih.gov/19142155/) | 2009 | Review | Am J Ther | Reviews acute heart failure management and trial results. Diuretics are the mainstay for most patients. |
+| [19843838](https://pubmed.ncbi.nlm.nih.gov/19843838/) | 2009 | Review | Ann Pharmacother | Compares pharmacokinetics, safety, efficacy and cost of loop diuretics, asking whether furosemide should be first line. |
+| [3304383](https://pubmed.ncbi.nlm.nih.gov/3304383/) | 1987 | Clinical hemodynamic study | Br J Clin Pharmacol | In 24 patients with coronary artery disease and acute or chronic heart failure, IV bumetanide lowered cardiac index and pulmonary artery occluded pressure and raised systemic vascular resistance. |
+| [39366035](https://pubmed.ncbi.nlm.nih.gov/39366035/) | 2024 | Cohort/Epidemiology | Am J Emerg Med | Describes heart failure presentations to US emergency departments from 2016 to 2023. Background epidemiology only. |
 
 ## US Market Information
 
-No regulatory authorizations were identified in the current query of TFDA records for Bumetanide. The evidence pack reflects 0 licenses and "not marketed" status under the data available at the time of this report.
+Bumetanide is marketed in oral, injectable and intranasal forms. The source data list 20 authorizations in total; the main ones are below. Approved indication text was not provided for these entries.
 
-> **Important caveat:** Bumetanide has historically been approved in the United States under the brand name Bumex (Roche) and as multiple generic formulations. The absence of records in this evidence pack likely reflects a data retrieval gap rather than a true absence of approval. Further regulatory verification is recommended before drawing conclusions about market status.
-
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA 219500 | Enbumyst | Spray (intranasal) | Corstasis USA LLC |
+| ANDA 074700 | Bumetanide | Tablet | A-S Medication Solutions |
+| ANDA 074700 | Bumetanide | Tablet | Sandoz Inc |
+| ANDA 074700 | Bumetanide | Tablet | Bryant Ranch Prepack |
+| ANDA 079196 | Bumetanide | Injection | Civica, Inc. |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Detailed warnings, contraindications, and drug interaction data were not captured in this evidence pack.
-
-> As a loop diuretic, clinicians should be alert to class-level risks including electrolyte disturbances (hypokalemia, hyponatremia, hypomagnesemia), ototoxicity (especially at high doses or with concurrent aminoglycosides), volume depletion, and renal function changes. Formal safety review requires retrieval of the TFDA/FDA package insert.
-
----
+Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The mechanistic rationale for bumetanide in acute pulmonary heart disease is direct and physiologically sound — loop diuresis reduces preload and pulmonary congestion, the hallmark pathophysiology of this condition. Multiple pharmacological reviews and a prospective hemodynamic study support this connection, placing evidence at L3. The TxGNN score of 99.58% is consistent with this established mechanistic alignment. However, the current evidence pack has critical gaps in safety data and regulatory information that must be resolved before any formal development decision.
+The TxGNN score is very high (99.58%), but no trial or publication directly evaluates bumetanide in acute pulmonary heart disease. Existing data concern left-sided or general heart failure. Diuresis may also be harmful in preload-dependent right-ventricular failure.
 
 **To proceed, the following is needed:**
+- Package insert warnings and contraindications, since safety screening cannot start without them
+- Complete mechanism of action data from DrugBank
+- Evidence in acute cor pulmonale or right-ventricular failure, such as hemodynamic studies or case series of loop diuretics in pulmonary embolism-related RV strain
+- A risk assessment of over-diuresis and reduced cardiac output in preload-dependent patients
+- A review of the intranasal formulation (Enbumyst) for acute-care suitability, since route compatibility has not been assessed
 
-- **Safety data retrieval:** Download and parse the TFDA and/or FDA package insert to extract formal warnings, contraindications, and drug interactions (currently Blocking gap DG001)
-- **MOA documentation:** Retrieve full mechanism of action from DrugBank API to complete mechanistic analysis (currently High gap DG002)
-- **Regulatory verification:** Confirm US FDA approval status (Bumex / generic bumetanide) and any approved indications that may overlap with the predicted indication
-- **Targeted clinical trial design:** The most promising near-term step is a prospective study of bumetanide specifically in acute cor pulmonale, as NCT07375212 attempted before withdrawal; consider whether a similar design can be revived
-- **Electrolyte and renal safety monitoring plan:** Any Proceed pathway should include pre-specified monitoring for hypokalemia, serum creatinine, and fluid balance given the acute pulmonary heart disease population's likely comorbidities
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

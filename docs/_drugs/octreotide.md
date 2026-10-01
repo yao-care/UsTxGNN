@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Octreotide: From Neuroendocrine Indications to Vulvar Inverted Follicular Keratosis
+# Octreotide: From an Established Somatostatin Analogue to Vulvar Inverted Follicular Keratosis
 
 ## One-Sentence Summary
 
-> Octreotide is a somatostatin analog with established use in acromegaly and carcinoid syndrome/neuroendocrine tumors (not currently licensed in Taiwan).
-> The TxGNN model predicts it may be effective for **Vulvar Inverted Follicular Keratosis**,
-> but this prediction is currently supported by **0 clinical trials** and **0 publications**, with the model's own rationale flagging a lack of biological plausibility.
+Octreotide is a somatostatin analogue that is marketed in the United States, mainly as injectable products.
+The TxGNN model predicts it may be effective for **vulvar inverted follicular keratosis**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
+This is a model-only prediction, and the mechanistic rationale is weak.
 
 ---
 
@@ -43,49 +43,56 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 | Item | Content |
 |------|------|
-| Original Indication | Acromegaly, carcinoid syndrome (globally recognized use; not TFDA-licensed) |
-| Predicted New Indication | Vulvar Inverted Follicular Keratosis |
+| Predicted New Indication | Vulvar inverted follicular keratosis |
 | TxGNN Prediction Score | 99.58% |
-| Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (Not Marketed) |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data (structured MOA field) is not available for this evidence pack. Based on known pharmacology, octreotide is a somatostatin analog acting on SSTR1-5 receptors to suppress growth hormone, IGF-1, insulin, glucagon, and various gastro-entero-pancreatic hormones. It is established clinically for acromegaly and carcinoid syndrome / neuroendocrine tumors.
+Octreotide acts mainly on somatostatin receptors SSTR2 and SSTR5, producing antisecretory and antiproliferative effects. Detailed mechanism-of-action data and original indication text are not available in the supplied data.
 
-The top-ranked prediction, vulvar inverted follicular keratosis, is a benign keratinocyte proliferative lesion of the hair follicle infundibulum. According to the model's own repurposing rationale, there is **no known literature support** linking somatostatin receptor signaling to keratinocyte differentiation or proliferation in this condition. The rationale text explicitly notes the high TxGNN score likely reflects an indirect statistical association in the knowledge graph (e.g., shared skin-tumor comorbidity genes or drug-protein interaction nodes) rather than direct biological plausibility.
+The data do not support a mechanism linking somatostatin receptor signaling to a benign follicular keratinocyte lesion. The high score (99.58%) may reflect knowledge-graph proximity to related skin-lesion nodes rather than a biological rationale. Inverted follicular keratosis is a benign lesion usually managed by excision, so the need for a systemic peptide is also questionable.
 
-The second-ranked prediction, seborrheic keratosis, is similarly a keratinocyte proliferative disorder typically driven by FGFR3/PIK3CA somatic mutations and keratinocyte aging pathways — again with no established connection to somatostatin receptor signaling. Existing octreotide dermatology literature is limited to skin manifestations of Cushing's syndrome or rare adverse-event case reports, not therapeutic use in keratinocyte hyperplasia. Both predictions should be treated as computational hypotheses requiring independent mechanistic investigation, not as evidence-supported repurposing candidates.
+The second-ranked prediction, **seborrheic keratosis** (score 99.55%), has the same weaknesses. It is typically driven by FGFR3/PIK3CA somatic mutations and has effective local treatments. Any link, such as SSTR expression in skin or IGF-1 axis suppression, would be speculative. It is likely a knowledge-graph artifact, and a systemic injectable peptide has an unfavorable benefit-risk profile for a common benign condition. It also has no clinical trials or literature.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
 ---
 
-## Taiwan Market Information
+## US Market Information
 
-Octreotide currently holds **0 NDAs / drug licenses** in Taiwan (market status: Not marketed, Not Marketed). No TFDA-approved indication text is available for reference.
+The 20 authorizations include generic (ANDA) and brand (NDA) products. The main ones are:
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA076330 | Octreotide Acetate | Injection, solution | Hikma Pharmaceuticals USA Inc. |
+| ANDA090834 | Octreotide Acetate | Injection, solution | Sagent Pharmaceuticals |
+| NDA213224 | BYNFEZIA Pen | Injection | Sun Pharmaceutical Industries, Inc. |
+| ANDA216839 | Octreotide Acetate | Injection, solution | Glenmark Pharmaceuticals Inc., USA |
+| ANDA216807 | Octreotide Acetate | Injection, solution | Gland Pharma Limited |
+
+Available dosage forms are injection (solution) and a delayed-release oral capsule. Approved indication text is not included in the supplied data.
 
 ---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-*(Note: Key warnings, contraindications, and drug interaction data are marked as data gaps (DG001, Blocking) in this evidence pack and must be sourced from TFDA labeling before any safety evaluation can proceed.)*
 
 ---
 
@@ -94,14 +101,13 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-Both predicted indications are supported only by TxGNN model scoring (Evidence Level L5) with zero clinical trials, zero literature, and no established mechanistic plausibility per the model's own rationale — and the drug is not currently marketed in Taiwan.
+The prediction rests on the TxGNN score alone, with no clinical trials, no literature, and no supported mechanism. The target conditions are benign and have effective local treatments, so a systemic injectable peptide is hard to justify.
 
 **To proceed, the following is needed:**
-- TFDA package insert / warnings and contraindications (DG001, blocking)
-- Structured mechanism of action data from DrugBank (DG002)
-- Preclinical or mechanistic studies linking somatostatin receptor signaling to keratinocyte proliferative disorders
-- Any case reports or observational data on octreotide use in dermatologic keratinocyte lesions
-- Taiwan regulatory pathway assessment, given the drug currently has no TFDA license
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism-of-action data (for example, from DrugBank) and the approved indication text
+- Preclinical or observational evidence of somatostatin receptor involvement in the target lesion
+- A route-compatibility assessment, since systemic injection versus topical or local delivery is unresolved
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -33,72 +33,59 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-> Zanamivir is a neuraminidase inhibitor publicly known for the treatment and prevention of influenza A and B (this indication is not yet confirmed in the current regulatory dataset).
-> The TxGNN model predicts a possible new indication in **Pyelonephritis**,
-> but this prediction is currently supported by **0 clinical trials** and **0 publications**, and the mechanistic rationale available indicates limited biological plausibility.
-
----
+Zanamivir is a viral neuraminidase inhibitor used against influenza A and B. The TxGNN model predicts it may be effective for **pyelonephritis**, a kidney infection that is usually bacterial. **No clinical trials and no publications** currently support this prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in the regulatory dataset (0 licenses on file). Based on public drug information, Zanamivir is indicated for treatment/prophylaxis of influenza A and B — not independently confirmed here. |
+| Original Indication | Influenza (the US label text is blank in the data provided; this comes from the drug's known class and use) |
 | Predicted New Indication | Pyelonephritis |
 | TxGNN Prediction Score | 99.84% |
-| Evidence Level | L5 (model prediction only, no supporting clinical trials or literature) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for this drug entry is currently a data gap. Based on the repurposing rationale generated alongside this prediction, Zanamivir is a viral neuraminidase inhibitor that targets a surface glycoprotein of the influenza virus, and its established clinical role is antiviral treatment of influenza.
+Currently, detailed mechanism of action data is not available. Based on known information, zanamivir is a neuraminidase (sialidase) inhibitor, and its efficacy in influenza A and B is established.
 
-Pyelonephritis is a bacterial ascending urinary tract infection with a fundamentally different pathophysiology — it does not involve viral neuraminidase, and there is no known host neuraminidase pathway implicated in its disease process. The mechanistic rationale accompanying this prediction explicitly states that there is **no biological plausibility** connecting Zanamivir's mode of action to pyelonephritis, and that the high TxGNN score likely reflects a knowledge-graph association artifact rather than genuine mechanistic or clinical evidence.
+A credible mechanistic link to pyelonephritis has not been identified. Pyelonephritis is usually caused by bacteria in the upper urinary tract, while zanamivir targets a viral enzyme. Some bacteria produce sialidases, but there is no data showing that zanamivir inhibits them at relevant concentrations or affects urinary pathogens.
 
-Given this, the prediction should be treated as a hypothesis-generating signal only, not as a mechanistically grounded repurposing candidate at this stage.
-
----
+The very high TxGNN score (0.998) is a model output only. With no trials, no literature, and no confirmed original indication or mechanism data, the prediction cannot be cross-checked.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-Zanamivir currently has no license/NDA records in the regulatory dataset (market status: Not Marketed, 0 total licenses). No product- or dosage-form-level information is available for this jurisdiction.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA021036 | RELENZA (GlaxoSmithKline LLC) | Powder | Not listed in the data provided |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This prediction is evidence level L5 (model prediction only) with zero supporting clinical trials or publications, and the mechanistic rationale itself flags an absence of biological plausibility between Zanamivir's antiviral mechanism and bacterial pyelonephritis. There is currently no basis to advance this candidate.
+The prediction is supported only by a model score (Evidence Level L5). There is no clinical or preclinical evidence, and no plausible mechanism links a viral neuraminidase inhibitor to a bacterial kidney infection.
 
 **To proceed, the following is needed:**
-- MOA and TFDA label/warning data (DG002, DG001 — currently blocking safety review)
-- Independent mechanistic or preclinical evidence linking neuraminidase inhibition (host or bacterial) to pyelonephritis pathophysiology
-- Any real-world, case-report, or observational data, since no clinical trials or literature currently exist for this indication
-- Re-evaluation of the TxGNN association to rule out knowledge-graph entity-matching artifacts (as seen with the rank-2 candidate, where unrelated neuraminidase-resistance literature was linked to an unrelated metabolic disorder)
+- The US package insert (warnings, contraindications, approved indication), which is required before any safety screening
+- Detailed mechanism of action data from DrugBank
+- Preclinical evidence that zanamivir has activity against urinary pathogens, or a mechanistic argument for why it might
+- Route compatibility assessment: the marketed product is a powder formulation, and its suitability for a systemic kidney infection has not been assessed
+- A search for relevant clinical trials and literature specific to pyelonephritis
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

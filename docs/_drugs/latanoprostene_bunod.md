@@ -29,60 +29,85 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Latanoprostene Bunod: From Open-Angle Glaucoma to Visceral Calciphylaxis
+# Latanoprostene Bunod: From Glaucoma to Visceral Calciphylaxis
 
 ## One-Sentence Summary
 
-Latanoprostene bunod (marketed elsewhere as Vyzulta) is a nitric-oxide-donating prostaglandin analog originally used for open-angle glaucoma and ocular hypertension. TxGNN's top-ranked prediction for this drug is **Visceral Calciphylaxis**, with a **99.76%** statistical score, but currently **zero clinical trials and zero publications** support this direction — and the evidence pack itself notes no known mechanistic overlap between the two conditions.
+Latanoprostene bunod is a topical eye drop that lowers intraocular pressure. It is marketed in the US for open-angle glaucoma and ocular hypertension, though the license data supplied here does not state the indication text.
+The TxGNN model ranks **visceral calciphylaxis** as its top prediction, but there are **0 clinical trials** and **0 publications** for it, so this is a graph-based signal only.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in official license data for this drug in this dataset; drug is pharmacologically known as an IOP-lowering agent (open-angle glaucoma / ocular hypertension) per contextual notes elsewhere in this evidence pack |
-| Predicted New Indication | Visceral Calciphylaxis |
-| TxGNN Prediction Score | 99.76% (global rank 6635) |
+| Original Indication | Not stated in the supplied license data (the drug is known to be marketed for open-angle glaucoma and ocular hypertension) |
+| Predicted New Indication | Visceral calciphylaxis |
+| TxGNN Prediction Score | 99.76% |
 | Evidence Level | L5 |
-| US Market Status | Not marketed (0 licenses recorded in this dataset) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 3 (1 NDA plus 1 ANDA, the latter listed twice) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available for this drug record. Based on context elsewhere in this evidence pack, latanoprostene bunod is metabolized into latanoprost acid (an FP-receptor agonist that increases uveoscleral outflow) and butanediol mononitrate (an NO donor that relaxes the trabecular meshwork to increase trabecular outflow) — this is the approved mechanism behind its use in open-angle glaucoma/ocular hypertension.
+It is not well supported. Detailed mechanism of action data is not available in the supplied data. Latanoprostene bunod is a nitric-oxide-donating prostaglandin F2-alpha analog. Its known effect is lowering intraocular pressure by increasing aqueous outflow through the uveoscleral pathway (latanoprost acid) and the trabecular meshwork (nitric oxide).
 
-Calciphylaxis, however, is a small-vessel calcification and thrombotic-ischemic disease driven primarily by calcium-phosphate metabolism and vascular smooth muscle mineralization. There is no established pharmacological link between prostaglandin FP-receptor agonism or localized NO release and the pathways that drive vascular calcification. The evidence pack's own rationale for this prediction states explicitly that no mechanistic or clinical link is currently known — this candidate is a pure TxGNN statistical output (L5, decision stage S0), not a mechanistically or clinically supported hypothesis.
+Visceral calciphylaxis (calcific uremic arteriolopathy) is a systemic small-vessel calcification disorder. No mechanistic link to a topical ocular drug is evident. Systemic exposure after eye-drop use is minimal. The high score (0.998) most likely reflects vascular-tone associations in the knowledge graph, not a pharmacological rationale.
 
-It is worth noting that other, lower-ranked predictions in this pack (e.g., primary hereditary glaucoma at rank 2, and vascular disease at rank 6, which has supporting clinical trial and literature evidence) have a substantially stronger evidentiary and mechanistic basis than the top-ranked candidate presented here.
+Other predictions in the list are better supported:
+- **Primary hereditary glaucoma** (99.71%, L4) is mechanistically plausible but probably reflects the existing label class, not true repurposing. Its pediatric and hereditary subtypes still need a targeted literature check.
+- **Vascular disease** (99.53%, L4) has two completed studies on microcirculation surrogates. They are indirect evidence only.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 Currently no related literature available.
 
+---
+
 ## US Market Information
 
-No license records are currently available for this drug in this dataset.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA207795 | Vyzulta | Solution/drops | Bausch & Lomb Incorporated |
+| ANDA217387 | Latanoprostene Bunod Ophthalmic Solution, 0.024% | Solution/drops | Gland Pharma Limited |
+
+Approved indication text is not included in the supplied license records.
+
+---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This prediction is supported only by the TxGNN model's statistical score — there are no clinical trials, no literature, and no established mechanistic pathway linking this drug's known pharmacology to visceral calciphylaxis. The evidence pack's own analysis concludes there is no known mechanistic intersection.
+The prediction rests on a model score alone, with no trials, no literature and no plausible mechanism for a topical ocular drug in a systemic calcification disease.
 
 **To proceed, the following is needed:**
-- Confirmed mechanism-of-action documentation for the drug (currently unavailable, flagged as a high-severity data gap)
-- FDA/TFDA label warnings and contraindications (currently unavailable, flagged as a blocking data gap for any safety screening)
-- Preclinical or mechanistic studies specifically linking NO-donor/prostaglandin pathways to vascular calcification biology, if this direction is to be pursued further
-- Consider prioritizing better-supported candidates from this same prediction set instead — notably "primary hereditary glaucoma" (L2, Proceed with Guardrails) and "vascular disease" (L3, supported by 2 clinical trials and 1 publication), which have materially stronger evidence bases
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Any mechanistic or preclinical evidence linking the drug to calcific uremic arteriolopathy
+- Consideration of the better-supported directions (hereditary glaucoma subtypes, vascular microcirculation) instead
+- Note on safety: a 2023 case report (PMID 38113361) describes serous retinal detachment with prostaglandin analog use in a patient with a vascular malformation, which argues for caution in that setting
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

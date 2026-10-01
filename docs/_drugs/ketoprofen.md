@@ -29,74 +29,69 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ketoprofen: From NSAID Therapy to Acromesomelic Dysplasia, Hunter-Thompson Type
+# Ketoprofen: From NSAID Pain and Inflammation Therapy to Acromesomelic Dysplasia, Hunter-Thompson Type
 
 ## One-Sentence Summary
 
-Ketoprofen is a non-selective NSAID (propionic acid class, COX-1/COX-2 inhibitor) generally used for inflammatory pain conditions, though its specific original indication record is not available for this evidence pack. The TxGNN model's top-ranked prediction is **Acromesomelic Dysplasia, Hunter-Thompson Type**, but this candidate is supported by **0 clinical trials** and **0 publications**, and the evidence pack itself flags the prediction as likely graph noise with no known mechanistic basis.
-
----
+Ketoprofen is a non-steroidal anti-inflammatory drug (NSAID) that is marketed in the US as oral capsules.
+The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunter-Thompson type**,
+but there are currently **0 clinical trials** and **0 publications** supporting this prediction, so it rests on the model score alone and is likely a knowledge-graph artifact.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no TFDA license record; drug is pharmacologically classified as a propionic acid NSAID / COX-1,2 inhibitor used for inflammatory pain) |
-| Predicted New Indication | Acromesomelic Dysplasia, Hunter-Thompson Type |
-| TxGNN Prediction Score | 99.98% |
+| Original Indication | Not stated in the license records; ketoprofen is generally used as an NSAID for pain and inflammation |
+| Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
+| TxGNN Prediction Score | 99.98% (model rank 841) |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (Not Marketed) |
-| Number of Licenses | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 5 (all listed as ANDA generic applications) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for ketoprofen is not directly available in this evidence pack ([Data Gap], DG002). What is known from the accompanying rationale text is that ketoprofen is a non-selective COX-1/COX-2 inhibitor of the propionic acid NSAID class, working through suppression of prostaglandin synthesis to achieve anti-inflammatory and analgesic effects.
+Currently, detailed mechanism of action data is not available in the evidence pack. Based on known information, ketoprofen is a non-selective COX inhibitor, and its anti-inflammatory and analgesic effects are well established. Mechanistically, however, this does not translate to the predicted new indication.
 
-Acromesomelic Dysplasia, Hunter-Thompson Type is a rare congenital skeletal dysplasia driven by disruption of BMP signaling (GDF5/CDMP1), not by an inflammatory or prostaglandin-mediated process. The evidence pack's own repurposing rationale explicitly states there is **no known mechanistic relationship** between NSAID/COX inhibition and this disorder, and characterizes the prediction as a "graph-noise-type" output — i.e., the TxGNN score is very high, but no pharmacological, clinical, or literature signal supports it.
+Acromesomelic dysplasia, Hunter-Thompson type, is a skeletal dysplasia related to CDMP1/GDF5. It is a genetic disorder of bone growth, not an inflammatory disease. No plausible link between COX inhibition and this condition was identified. The very high score (99.98%) is therefore probably a knowledge-graph artifact rather than a real biological signal.
 
-Consequently, this specific prediction should not be interpreted as a validated repurposing hypothesis. It is worth noting that other candidates lower in this same prediction set carry more biological plausibility — for example, spondyloarthropathy susceptibility (rank 8, L3, supported literature) and LACC1-defect juvenile arthritis (rank 10, L4, inflammatory mechanism overlap) — both of which align with ketoprofen's known anti-inflammatory pharmacology and may be more productive directions for further evaluation.
-
----
+The other top-ranked predictions show the same pattern. Ranks 2 to 7 are also rare skeletal or developmental disorders, such as brachyolmia and pseudoachondroplasia, with no evidence behind them. The only prediction with any supporting logic is **spondyloarthropathy, susceptibility to** (rank 8). NSAIDs are established first-line symptomatic therapy for spondyloarthritis and reactive arthritis, but that would be class-level symptom control, not novel repurposing. Its single retrieved item (PMID 20470931, a narrative review of reactive arthritis) is only indirect evidence for ketoprofen itself.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## US Market Information
 
-## Taiwan Market Information
+The license records do not include approved indication text.
 
-Ketoprofen currently has no approved license record in Taiwan (0 licenses; market status: Not marketed/Not Marketed).
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA074014 | Orudis | Capsule | Allegis Pharmaceuticals, Inc. |
+| ANDA074014 | Ketoprofen (3 listings) | Capsule | Misemer Pharmaceuticals, Inc. |
+| ANDA075679 | Ketoprofen | Capsule, extended release | Mylan Pharmaceuticals Inc. |
 
----
+All products are oral formulations.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
----
+Please refer to the package insert for safety information. No warnings, contraindications, or drug interaction data were retrieved for this drug.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction carries a very high TxGNN score but zero supporting clinical trials, zero literature, and no plausible mechanistic link — the evidence pack's own rationale identifies it as likely model noise (Evidence Level L5). Combined with the drug's absence from the Taiwan market (0 licenses) and a Blocking data gap on TFDA labeling/contraindication data (DG001), there is no basis to advance this specific candidate.
+The top prediction has no clinical trials or literature and no plausible mechanistic link. It is a bone-growth genetic disorder, which COX inhibition would not be expected to alter. Nothing supports moving it forward.
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings/contraindications) — currently a Blocking data gap (DG001), required before any safety-stage (S1) review
-- Mechanism of action (MOA) data via DrugBank — currently a High-severity data gap (DG002)
-- If pursuing ketoprofen repurposing further, prioritize the higher-evidence candidates in this prediction set instead — spondyloarthropathy susceptibility (rank 8, L3, literature-supported) and LACC1-defect juvenile arthritis (rank 10, L4, mechanistically plausible) — rather than the rank-1 candidate evaluated here
-- Taiwan market/licensing status confirmation, given the drug is not currently marketed domestically
+- The FDA package insert warnings and contraindications, which are missing and block safety screening
+- Mechanism of action data from DrugBank
+- If any follow-up is pursued, refocus on **spondyloarthropathy** (rank 8), where the question is compound-specific efficacy and safety versus other NSAIDs, starting with a targeted literature search and trial registry review
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

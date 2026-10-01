@@ -29,58 +29,86 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Fomepizole: From Methanol/Ethylene Glycol Poisoning to Sclerosing Cholangitis
+# Fomepizole: From Poisoning Antidote to Sclerosing Cholangitis
 
 ## One-Sentence Summary
 
-Fomepizole is an alcohol dehydrogenase (and partial CYP2E1) inhibitor originally approved as an antidote for methanol and ethylene glycol poisoning. The TxGNN model predicts it may be effective for **Sclerosing Cholangitis**, with a prediction score of **99.28%**, but currently **no clinical trials or publications** support this direction — the signal is model-derived only.
+Fomepizole is a marketed injectable drug that is generally known as an antidote for methanol and ethylene glycol poisoning (the US license records provided contain no indication text).
+The TxGNN model predicts it may be effective for **sclerosing cholangitis**, but this rests on the model score alone: **0 clinical trials** and **0 publications** support it.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Methanol / ethylene glycol poisoning (antidote) |
-| Predicted New Indication | Sclerosing Cholangitis |
-| TxGNN Prediction Score | 99.28% |
-| Evidence Level | L5 |
-| US Market Status | Not marketed |
-| Number of NDAs | 0 |
+| Original Indication | Not stated in the license records provided (generally known use: antidote for methanol and ethylene glycol poisoning) |
+| Predicted New Indication | Sclerosing cholangitis |
+| TxGNN Prediction Score | 99.28% (model rank 16015) |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 6 (all are generic ANDA-type authorizations) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed, confirmed mechanism of action (MOA) data from DrugBank is not yet available for this candidate (flagged as a data gap). Based on known pharmacology, fomepizole inhibits alcohol dehydrogenase and, to a lesser extent, CYP2E1 — the mechanism underlying its established use as an antidote in methanol and ethylene glycol poisoning.
+Currently, detailed mechanism of action data is not available in the input. Fomepizole is generally known as a competitive alcohol dehydrogenase inhibitor. Its established use is in toxic alcohol poisoning, which is unrelated to bile duct disease.
 
-The predicted link to sclerosing cholangitis appears to stem from knowledge-graph node similarity — plausibly connecting to the hypothesis that secondary sclerosing cholangitis in critically ill patients (SC-CIP) involves toxic bile acid and oxidative metabolism pathways that could theoretically intersect with alcohol/aldehyde dehydrogenase activity. However, this is a model-inferred association only: the underlying dataset contains no clinical trials or literature records connecting fomepizole to sclerosing cholangitis, so there is currently no direct pharmacological or clinical evidence supporting this mechanistic rationale.
+No plausible pathway from fomepizole to sclerosing cholangitis has been established in the provided data. Speculative links, such as effects on hepatic alcohol or aldehyde metabolism or on oxidative stress, are unverified. The high score (0.993) may reflect knowledge-graph topology rather than real biology, so it should not be read as evidence of efficacy.
+
+---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
+
+---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
+
+---
 
 ## US Market Information
 
-Fomepizole is not currently marketed in the US under this evidence pack, with no NDAs or license records on file.
+The license records list no approved indication text, so that column is replaced by the manufacturer.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA078537 | Fomepizole | Injection, solution | Navinta LLC |
+| ANDA078368 | Fomepizole | Injection, solution | American Regent, Inc. |
+| ANDA216791 | Fomepizole | Injection | Gland Pharma Limited |
+| ANDA216791 | Fomepizole | Injection | Sagent Pharmaceuticals |
+| ANDA078639 | Fomepizole | Injection, solution | Mylan Institutional LLC |
+
+All products are injectables. Only 5 of the 6 licenses are listed in the input.
+
+---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This is an L5, model-prediction-only signal with zero supporting clinical trials or literature, and a blocking data gap on TFDA/US label warnings and contraindications prevents any preliminary safety assessment (S1).
+The prediction rests only on a knowledge-graph score, with no trials, no literature, and no established mechanism linking fomepizole to sclerosing cholangitis. The safety data are also missing, so safety screening cannot start.
 
 **To proceed, the following is needed:**
-- TFDA/FDA label data (warnings, contraindications) to clear the safety-review blocker
-- Confirmed mechanism-of-action data from DrugBank to validate the mechanistic rationale
-- Targeted literature or preclinical search for fomepizole in sclerosing cholangitis or related hepatobiliary/oxidative-stress models
-- If preclinical or mechanistic support emerges, initiation of exploratory clinical evidence generation
+- Package insert warnings and contraindications (blocking; obtain from the FDA label)
+- Mechanism of action data (for example, from DrugBank)
+- A systematic search of PubMed, ClinicalTrials.gov and ICTRP for fomepizole in cholestatic or biliary disease
+- A testable mechanistic hypothesis, ideally supported by preclinical data, that connects alcohol dehydrogenase inhibition to bile duct injury or fibrosis
+- Route and regimen compatibility assessment: the product is injectable only, while sclerosing cholangitis is a chronic condition
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

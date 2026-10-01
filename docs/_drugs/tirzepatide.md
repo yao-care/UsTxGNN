@@ -29,70 +29,65 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tirzepatide: From GIP/GLP-1 Metabolic Therapy to Gout
+# Tirzepatide: From Type 2 Diabetes and Obesity to Gout
 
 ## One-Sentence Summary
 
-> Tirzepatide is a dual GIP/GLP-1 receptor agonist; detailed original indication licensing data is not available in the current evidence pack, and the drug is not yet marketed in this jurisdiction.
-> The TxGNN model's top-ranked prediction is **Gout**, but this association is currently **model-prediction only**, with **0 clinical trials** and **0 publications** identified in the evidence pack.
-> A stronger-evidenced signal for **Osteoarthritis** (rank 2, 2 clinical trials incl. a Phase 4 RCT, 16 publications) was also identified and may warrant separate evaluation.
-
----
+Tirzepatide is a dual GIP/GLP-1 receptor agonist, marketed in the US as Mounjaro and Zepbound and used for type 2 diabetes and obesity.
+The TxGNN model predicts it may be effective for **gout** (score 96.75%), but **0 clinical trials** and **0 publications** were retrieved for this indication, so the prediction is unsupported by data.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — `original_indications` is empty and `original_moa` is a data gap in the current evidence pack; drug is not yet marketed |
+| Original Indication | Not stated in the source data (approved indication text is empty). The retrieved literature describes tirzepatide as used for type 2 diabetes and obesity. |
 | Predicted New Indication | Gout |
 | TxGNN Prediction Score | 96.75% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 license records (the 5 listed entries carry 2 distinct NDA numbers) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for Tirzepatide is not available in this evidence pack. Based on mechanistic notes accompanying the predictions, Tirzepatide is a dual GIP (glucose-dependent insulinotropic polypeptide) / GLP-1 (glucagon-like peptide-1) receptor agonist, a class primarily associated with weight loss, improved insulin sensitivity, and reduced systemic inflammation.
+Detailed mechanism-of-action data is not available in the source data. Tirzepatide is known to be a dual GIP/GLP-1 receptor agonist, and its effectiveness in obesity and type 2 diabetes is well established.
 
-The rationale for the gout prediction is purely theoretical: GIP/GLP-1 agonism-driven weight loss and reduced insulin resistance could, in principle, lower uric acid production or improve uric acid excretion. However, this is described in the evidence pack itself as an "indirect association inferred by the knowledge-graph algorithm," with **no direct mechanistic study or clinical observation** currently supporting a Tirzepatide–gout link.
-
-By contrast, the same evidence pack contains a substantially better-supported signal for **osteoarthritis** (rank 2, score 95.92%, Evidence Level L2), including an actively recruiting Phase 4 RCT specifically designed to test Tirzepatide in obesity-associated knee osteoarthritis (NCT06191848). This suggests the weight-loss/anti-inflammatory mechanism is biologically plausible for musculoskeletal/metabolic-adjacent conditions, but for gout specifically that mechanism remains unverified.
-
----
+The only plausible route to gout is indirect. Substantial weight loss may lower serum urate in people with obesity, and obesity is a recognised risk factor for gout. No trial, publication, or other data was retrieved to support this. The high score may simply reflect proximity in the knowledge graph. Treat this as a hypothesis, not evidence.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA215866 | Mounjaro | Injection, solution | Eli Lilly and Company |
+| NDA217806 | Zepbound | Injection, solution | Eli Lilly and Company |
+
+The approved indication text is empty in the source data. Both products are injectable solutions.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (gout) is supported only by TxGNN model output (Evidence Level L5, Decision Stage S0), with zero clinical trials and zero literature identified. There is currently no mechanistic, preclinical, or clinical evidence directly linking Tirzepatide to gout, so this candidate does not meet the threshold to proceed.
+The model score is high, but there are no trials or publications for gout. The only mechanism proposed (weight loss lowering urate) is speculative and unsupported by the data provided. The evidence level is L5, which is model prediction only.
 
 **To proceed, the following is needed:**
-- Direct mechanistic or preclinical evidence linking GIP/GLP-1 agonism to urate metabolism/excretion
-- Confirmation of Tirzepatide's original indication and MOA data (currently marked as data gaps) to properly assess mechanistic plausibility
-- TFDA/regional label warnings and contraindications, currently a blocking data gap (DG001) for any safety pre-assessment
-- **Note:** The rank-2 candidate, osteoarthritis, shows meaningfully stronger evidence (L2, S2, an active Phase 4 RCT, and 16 supporting publications) and may be a more suitable candidate for near-term evaluation instead of gout
+- Gout-specific evidence, such as observational data on serum urate or gout flares in tirzepatide-treated patients, or a registered trial
+- Mechanism-of-action data from DrugBank
+- Package insert warnings and contraindications from the FDA label
+
+**Note on other predictions:** In this pack, **osteoarthritis** (rank 2, score 95.92%) is the best-supported candidate, at L4 with a "Research Question" recommendation. [NCT06191848](https://clinicaltrials.gov/study/NCT06191848) is a Phase 4 randomized, placebo-controlled trial in obesity with knee osteoarthritis (n=352). It is still recruiting and has no results yet. If the team wants a lead indication to prioritise, osteoarthritis is stronger than gout. The evidence is for obesity-associated knee OA, not OA in general.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

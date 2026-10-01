@@ -29,55 +29,65 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-# Cabergoline: From Prolactinoma to Pituitary Adenocarcinoma
+# Cabergoline: From Hyperprolactinemic Disorders to Pituitary Adenocarcinoma
 
 ## One-Sentence Summary
 
-Cabergoline is a dopamine D2 receptor agonist, clinically established as the first-line medical treatment for prolactin-secreting pituitary adenomas (prolactinomas) and hyperprolactinemia.
-The TxGNN model predicts it may have activity against **Pituitary Adenocarcinoma** (TxGNN score 99.06%), a rare and aggressive malignancy sharing pituitary cell origins with the established indication.
-However, supporting evidence is limited to **0 clinical trials** and **3 peripherally related case reports**, none of which directly evaluates cabergoline as a treatment for pituitary adenocarcinoma.
+Cabergoline is a dopamine agonist widely used for prolactin-secreting pituitary tumors (prolactinoma) and hyperprolactinemia. The TxGNN model predicts it may be effective for **pituitary adenocarcinoma**, but there are **0 clinical trials** and only **3 publications** retrieved, all case reports that do not test cabergoline in this disease. The score is not backed by direct clinical evidence.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Prolactinoma / Hyperprolactinemia (standard global clinical use; no NDA found in current dataset) |
-| Predicted New Indication | Pituitary Adenocarcinoma |
+|------|------|
+| Original Indication | Not listed in the US license data; the literature describes prolactinoma and hyperprolactinemia as its main use |
+| Predicted New Indication | Pituitary adenocarcinoma |
 | TxGNN Prediction Score | 99.06% |
 | Evidence Level | L4 |
-| US Market Status | ✗ Not Marketed (0 NDAs in dataset) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 12 licenses (ANDA/NDA) |
 | Recommended Decision | Hold |
 
 ---
 
-## Why Is This Prediction Reasonable?
+## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in this evidence pack. Based on established clinical pharmacology, cabergoline acts as a potent, long-acting dopamine D2 receptor (DRD2) agonist. It directly targets pituitary lactotroph cells, suppressing prolactin secretion, inhibiting cAMP signaling, promoting apoptosis, and inducing tumor shrinkage. For prolactinoma, this constitutes first-line therapy with decades of Phase 3 RCT-level evidence globally.
+Detailed mechanism of action data is not available from DrugBank. Based on the analysis in the Evidence Pack, cabergoline is a dopamine D2 receptor agonist. It suppresses prolactin secretion and the growth of lactotroph cells, and it is standard therapy for prolactinoma.
 
-Pituitary adenocarcinoma is an extremely rare and aggressive entity — comprising less than 0.5% of all pituitary tumors — distinguished from benign adenoma by its metastatic potential and markedly worse prognosis. Because both conditions arise from the same pituitary adenohypophyseal cell lineage, the D2-receptor antiproliferative pathway active in prolactinoma theoretically remains relevant in the malignant setting. In related work on non-functioning pituitary adenomas (NFPAs), a systematic review and meta-analysis (PMID 35902444) supports partial tumor control in some patients, and a 2024 translational study (PMID 38989697) identifies HTR2B as a sensitizing target for cabergoline in NFPAs — suggesting cabergoline's applicability may extend beyond prolactinoma.
+Pituitary adenocarcinoma is a malignant tumor of the same organ and cell lineage. That makes a shared mechanism plausible, and it likely explains part of the model's high score. However, the retrieved literature does not support the link directly. One paper is off-topic (pancreatic adenocarcinoma in a patient taking cabergoline for a pituitary adenoma). One is a case report on ectopic ACTH secretion, and one is a MEN1 case report. None tests cabergoline in pituitary carcinoma.
 
-However, pituitary adenocarcinoma's malignant biology — including resistance mechanisms (see PMID 39891847 on NDFIP1/mTOR-driven DA resistance) and metastatic behavior — represents a fundamentally different challenge. No published clinical evidence demonstrates cabergoline efficacy in confirmed pituitary adenocarcinoma. The TxGNN prediction most likely reflects shared ontological proximity to the well-evidenced benign adenoma indication, not tumor-type-specific signals.
+The pack also lists the related prediction **pituitary cancer** (rank 3, score 99.04%). It has much stronger support: reviews, a systematic review and meta-analysis of non-functioning pituitary adenoma studies, and preclinical work on new mechanisms. That evidence concerns pituitary *adenomas*, not carcinoma, so extrapolation to true carcinoma is still unproven.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for cabergoline in pituitary adenocarcinoma.
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-The retrieved publications mention cabergoline and pituitary pathology but none directly investigates or demonstrates cabergoline efficacy in pituitary adenocarcinoma specifically.
-
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [41760078](https://pubmed.ncbi.nlm.nih.gov/41760078/) | 2026 | Case Report | Medicine | MEN1 syndrome case with atypical multi-endocrine tumor presentation including pituitary adenoma; cabergoline mentioned as part of management. Highlights rarity and complexity of aggressive pituitary neoplasia. |
-| [20497940](https://pubmed.ncbi.nlm.nih.gov/20497940/) | 2010 | Case Report | Endocrine Practice | Long-term cabergoline (or octreotide) administration for ectopic ACTH hypersecretion post-adrenalectomy. Demonstrates cabergoline activity beyond classic prolactinoma in a pituitary-origin hormone excess state. |
-| [33569966](https://pubmed.ncbi.nlm.nih.gov/33569966/) | 2021 | Case Report | Rev Esp Enferm Dig | Patient with known pituitary adenoma on cabergoline who developed pancreatic adenocarcinoma. Retrieved due to keyword overlap; not relevant to pituitary adenocarcinoma treatment. |
+|------|-----|------|------|---------|
+| [33569966](https://pubmed.ncbi.nlm.nih.gov/33569966/) | 2021 | Case report (off-topic) | Rev Esp Enferm Dig | A 41-year-old woman on cabergoline for a pituitary adenoma was found to have pancreatic adenocarcinoma, first signaled by duodenal lymphangiectasia. Not about pituitary carcinoma. |
+| [20497940](https://pubmed.ncbi.nlm.nih.gov/20497940/) | 2010 | Case report | Endocr Pract | Long-term octreotide or cabergoline in a patient with ectopic corticotropin secretion after adrenalectomy. |
+| [41760078](https://pubmed.ncbi.nlm.nih.gov/41760078/) | 2026 | Case report | Medicine | Multiple endocrine neoplasia with an atypical course and a MEN1 gene variant of uncertain significance. |
+
+---
+
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA076310 | Cabergoline | Tablet | Strides Pharma Science Limited |
+| ANDA076310 | Cabergoline | Tablet | A-S Medication Solutions |
+| ANDA204735 | Cabergoline | Tablet | A-S Medication Solutions |
+| ANDA204735 | Cabergoline | Tablet | Ingenus Pharmaceuticals, LLC |
+| NDA020664 | Cabergoline | Tablet | Mylan Pharmaceuticals Inc. |
+
+The only route of administration is oral.
 
 ---
 
@@ -85,7 +95,7 @@ The retrieved publications mention cabergoline and pituitary pathology but none 
 
 Please refer to the package insert for safety information.
 
-> **Note:** One case report (PMID 21347189, identified in the rank 5 glaucoma evidence set) describes bilateral acute angle-closure glaucoma following cabergoline administration — a potentially serious adverse ocular event that should be considered in any prospective use.
+Related literature in the pack notes that cardiac valvulopathy is a known concern with long-term or high-dose cabergoline use. Most studies found no significant association, but the question is still debated (PMID 25732645).
 
 ---
 
@@ -94,17 +104,16 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-Pituitary adenocarcinoma is an extremely rare malignancy with no direct clinical evidence supporting cabergoline as a treatment. All three retrieved publications are case reports that mention cabergoline in the context of benign or ectopic pituitary disease — none studies the drug in confirmed adenocarcinoma. The mechanistic rationale (D2 receptor pathway overlap with benign prolactinoma) is biologically plausible but unvalidated in the malignant setting, and known resistance mechanisms further limit confidence.
-
-> **Contextual note:** The rank 3 predicted indication, **"Pituitary Cancer"** (TxGNN score 99.04%), encompasses the broader pituitary tumor spectrum and carries substantially stronger evidence — including a systematic review + meta-analysis (PMID 35902444) and a translational study (PMID 38989697) — reaching **Evidence Level L2** with a "Proceed with Guardrails" recommendation. If the research question is broadened from adenocarcinoma to pituitary neoplasms generally, the evidentiary basis improves significantly.
+The high TxGNN score (99.06%) has no direct clinical support. There are no trials, and the three retrieved publications are case reports that do not test cabergoline in pituitary carcinoma. The mechanistic plausibility rests on evidence from pituitary adenomas.
 
 **To proceed, the following is needed:**
+- The US package insert warnings and contraindications, which are currently missing and block safety screening
+- Detailed mechanism of action data from DrugBank
+- A targeted search for cabergoline in aggressive pituitary tumors and pituitary carcinoma specifically (case series, temozolomide combinations, and similar)
+- A review of the related "pituitary cancer" prediction (rank 3, L3), which has stronger supporting evidence, as a possible better-defined candidate
+- A long-term safety plan covering cardiac valve monitoring for high-dose use
 
-- Direct preclinical evidence (in vitro / in vivo) in pituitary adenocarcinoma cell models to confirm D2 pathway activity in the malignant phenotype
-- Systematic review of any compassionate use, case series, or case reports specifically documenting cabergoline use in confirmed pituitary adenocarcinoma (as distinct from adenoma)
-- DrugBank MOA data to formally characterize receptor binding profile and downstream signaling relevant to malignant transformation
-- Verification of cabergoline's US regulatory status (Dostinex NDA history), as 0 NDAs in the current dataset may reflect a data pipeline gap rather than absence of approval
-- Pituitary tumor specialist consultation to assess whether malignant pituitary cells retain sufficient D2 receptor expression to make cabergoline a viable therapeutic target
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,81 +29,72 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Disopyramide: From Cardiac Arrhythmia to Tourette Syndrome
+# Disopyramide: From Antiarrhythmic Use to Tourette Syndrome
 
 ## One-Sentence Summary
 
-> Disopyramide is a Class Ia antiarrhythmic (sodium channel blocker) historically used for ventricular and atrial arrhythmias.
-> The TxGNN model's top-ranked prediction suggests it may be effective for **Tourette Syndrome**,
-> but this direction currently has **0 clinical trials** and **0 publications** supporting it —
-> the model's own mechanistic assessment flags this as a likely knowledge-graph artifact rather than a genuine pharmacological signal.
-
----
+Disopyramide is a class Ia antiarrhythmic drug that is currently marketed in the US.
+The TxGNN model predicts it may be effective for **Tourette syndrome**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Ventricular/atrial cardiac arrhythmias (Class Ia antiarrhythmic) — inferred from known drug classification; no Taiwan license/indication text available (drug not marketed in Taiwan) |
-| Predicted New Indication | Tourette Syndrome |
+| Original Indication | Antiarrhythmic (the approved indication text is not captured in the source data) |
+| Predicted New Indication | Tourette syndrome |
 | TxGNN Prediction Score | 99.86% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (Not Marketed) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 11 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack (`original_moa` is unrecorded). Based on the drug-level information that is available, disopyramide is a Class Ia antiarrhythmic that blocks cardiac sodium channels, and its efficacy in ventricular/atrial arrhythmias is well established.
+Currently, detailed mechanism of action data is not available. Based on known information, disopyramide is a sodium-channel-blocking class Ia antiarrhythmic with anticholinergic activity.
 
-However, the repurposing rationale supplied alongside this specific prediction is explicit that **no plausible mechanistic link exists** between sodium channel blockade and Tourette syndrome. Tourette syndrome pathophysiology centers on dopaminergic and cortico-striato-thalamo-cortical circuit dysfunction, a pathway disopyramide is not known to act on. The model itself notes that its high score likely reflects an indirect association captured in the knowledge graph (e.g., co-occurring drug–gene–disease nodes) rather than a real pharmacological relationship.
+No plausible mechanistic link to Tourette syndrome has been identified. Sodium-channel blockade in cardiac tissue does not obviously connect to the neurological basis of tics. The very high TxGNN score is best read as a graph-based signal, not as pharmacological support.
 
-Given the absence of any supporting mechanism, clinical trials, or literature, this specific top-ranked prediction should be treated as a low-confidence, exploratory signal only — not as a candidate ready for further clinical assessment.
-
----
+The other top-ranked predictions are mostly neurodevelopmental or psychiatric conditions (ADHD, trichotillomania, developmental disorders). This suggests the model is clustering on graph-neighborhood similarity. Anticholinergic effects and QT-prolongation risk would also be concerns in these populations.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
-
----
+Currently no related literature available.
 
 ## US Market Information
 
-Disopyramide currently has no registered marketing authorizations in Taiwan (market status: Not marketed / Not Marketed; 0 total licenses on file), so no NDA/license table can be produced.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA018655 | Norpace CR | Capsule, extended release | Pfizer Laboratories Div Pfizer Inc |
+| NDA017447 | Norpace | Capsule, gelatin coated | Pfizer Laboratories Div Pfizer Inc |
+| ANDA070102 | Disopyramide Phosphate | Capsule | Teva Pharmaceuticals USA, Inc. |
+| ANDA070173 | Disopyramide Phosphate | Capsule | Dr. Reddy's Laboratories Inc. |
 
----
+All marketed forms are oral.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-*Note: The TFDA label warnings/contraindications for this drug are flagged as a **Blocking** data gap (DG001) — this data must be obtained before any safety (S1) evaluation can proceed.*
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction carries a very high TxGNN score, but there is no clinical trial, literature, or mechanistic evidence to support it, and the model's own analysis suggests the score may be a spurious knowledge-graph association rather than a genuine pharmacological relationship. This places the candidate firmly at evidence level L5 with no basis to advance to further evaluation stages.
+The prediction has no clinical or literature support and no identifiable mechanistic link. Disopyramide's anticholinergic and proarrhythmic liabilities make speculative use in a neurological or pediatric population hard to justify.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (Blocking gap, DG001) — required before any safety (S1) evaluation can begin
-- Detailed mechanism of action (MOA) data from DrugBank (High-priority gap, DG002)
-- Any preclinical or mechanistic studies specifically linking sodium channel blockade to tic disorders or dopaminergic pathways, if this direction is pursued further
-- Independent pharmacological review to confirm or rule out the knowledge-graph noise hypothesis before committing further resources
+- Package insert warnings and contraindications, which are required for safety screening
+- Mechanism of action data, for example from DrugBank
+- Approved indication text from the current labels
+- Any preclinical or clinical signal linking sodium-channel blockade or anticholinergic activity to tic disorders
 
-**Note on alternative candidates:** Two lower-ranked predictions in this evidence pack — *idiopathic neonatal atrial flutter* (rank 7) and *multifocal atrial tachycardia* (rank 9) — carry substantially stronger mechanistic plausibility, since both are cardiac arrhythmias consistent with disopyramide's known Class Ia antiarrhythmic action, and are already staged at "Research Question" (L4) rather than "Hold." These may warrant prioritization over the top-scored but mechanistically unsupported Tourette syndrome prediction.
+**Note on other predictions:** Multifocal atrial tachycardia (rank 9) is the only prediction with a mechanistically plausible link and one indirect paper. That paper (PMID 7418495) concerns lorcainide, not disopyramide, so it does not support the prediction. This is a candidate for further review, not for advancement.
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Potassium Bicarbonate: From Potassium Supplementation to Gastroduodenitis
+# Potassium Bicarbonate: From an Unlisted Original Indication to Gastroduodenitis
 
 ## One-Sentence Summary
 
-Potassium Bicarbonate is an electrolyte/alkalizing agent conventionally used for potassium supplementation, and it is **not currently marketed in Taiwan**.
-The TxGNN model predicts it may be effective for **Gastroduodenitis**,
-but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a pure knowledge-graph inference with no direct evidence.
+Potassium bicarbonate is an alkalinizing potassium salt marketed in the US as an oral effervescent tablet (Effer-K), but the source data lists no approved indication for it.
+The TxGNN model predicts it may be effective for **gastroduodenitis**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
+The prediction rests on the model score alone.
 
 ---
 
@@ -43,47 +43,51 @@ but this prediction is currently supported by **0 clinical trials** and **0 publ
 
 | Item | Content |
 |------|------|
-| Original Indication | No approved indication on record (drug not marketed in Taiwan) |
+| Original Indication | Not listed in the available US label data |
 | Predicted New Indication | Gastroduodenitis |
 | TxGNN Prediction Score | 99.72% |
-| Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 9 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, Potassium Bicarbonate functions as an alkalizing agent and electrolyte supplement, and is commonly used for potassium replacement therapy.
+Currently, detailed mechanism of action data is not available, and no original indications are recorded. Any mechanistic link is therefore speculative.
 
-The proposed link to gastroduodenitis is mechanistically speculative: as an alkalizing salt, potassium bicarbonate could theoretically neutralize gastric acid in a manner analogous to sodium bicarbonate's antacid effect, which might relieve symptoms associated with gastroduodenal inflammation. However, this is an indirect pharmacological analogy rather than an established mechanism — there is no evidence confirming anti-inflammatory or mucosal-protective activity specific to this indication.
+One plausible but unverified link is that bicarbonate is an alkalinizing agent. Like sodium bicarbonate used as an antacid, it could neutralize gastric acid. That would give short-term symptom relief, not treatment of the underlying inflammation. Gastroduodenitis is often driven by *H. pylori*, NSAIDs or alcohol, and acid neutralization does not address those causes.
 
-Because the drug has no recorded original indication, is not currently marketed, and the TxGNN score derives purely from graph-structural inference (rank 7528), the biological plausibility of this prediction cannot be independently corroborated at this time.
+There is also a safety concern. Oral potassium salts are known to cause upper GI irritation and, rarely, mucosal lesions, which could work against use in an already inflamed stomach and duodenum. The high TxGNN score (99.72%) is a model output only and has no clinical, literature or drug-interaction support in this dataset.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
 ---
 
 ## US Market Information
 
-No licenses currently on file — Potassium Bicarbonate is not marketed in Taiwan, and no dosage forms or approved indications are available for reference.
+The data lists 9 authorizations in total. Five entries are shown in detail, and all five are the same product from the same manufacturer.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Not available (5 listed entries) | Effer-K (Nomax Inc.) | Effervescent tablet (oral) | Not listed |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No drug interaction records were found for this drug in the dataset.
 
 ---
 
@@ -92,13 +96,13 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests solely on a TxGNN structural score with no supporting clinical trials, literature, or mechanistic data (L5), and the drug is not currently marketed in Taiwan, so there is no regulatory or safety baseline to build on.
+The prediction is supported only by the TxGNN model score, with no clinical trials, literature or documented mechanism. The plausible mechanism (acid neutralization) would give only symptomatic relief. The potassium component may also irritate the upper GI tract, so the proposed use has a possible safety downside.
 
 **To proceed, the following is needed:**
-- TFDA package insert warnings/contraindications (currently blocking — DG001)
-- Confirmed mechanism of action from DrugBank (DG002)
-- At least preclinical or case-level evidence connecting potassium bicarbonate to gastroduodenitis
-- Clarification of original approved indication(s) and any historical marketing history, if applicable
+- The FDA package insert (warnings, contraindications, approved indications), which is a blocking gap for safety screening
+- Mechanism of action data, for example from DrugBank
+- Preclinical or clinical evidence for gastroduodenitis, including a literature and trial search
+- An assessment of whether an oral potassium salt is appropriate for inflamed gastroduodenal mucosa
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,84 +29,65 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Reslizumab: From Eosinophilic Asthma to Thrombocytopenia Due to Immune Destruction
+# Reslizumab: From Eosinophilic Asthma to Immune Thrombocytopenia
 
 ## One-Sentence Summary
 
-> Reslizumab is a biologic (anti-IL-5 monoclonal antibody) known for use in severe eosinophilic asthma, though this original indication is not confirmed in the current evidence pack.
-> The TxGNN model predicts it may be effective for **Thrombocytopenia Due to Immune Destruction**,
-> but **no clinical trials** and **no literature** currently support this specific direction — the prediction is model-output only.
-
----
+Reslizumab (CINQAIR) is an injectable anti-IL-5 antibody that depletes eosinophils. The TxGNN model predicts it may be effective for **thrombocytopenia due to immune destruction**, but **0 clinical trials** and **0 publications** currently support this prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available from regulatory license data (drug is not marketed in this jurisdiction); known drug-class use is eosinophilic asthma, per mechanistic narrative in the evidence pack rather than an official label |
-| Predicted New Indication | Thrombocytopenia Due to Immune Destruction |
+| Original Indication | Not listed in the source data. CINQAIR is generally known as an anti-IL-5 therapy for severe eosinophilic asthma (background knowledge, not from the Evidence Pack) |
+| Predicted New Indication | Thrombocytopenia due to immune destruction |
 | TxGNN Prediction Score | 99.53% |
-| Evidence Level | L5 (model prediction only, no clinical or preclinical support) |
-| Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 (BLA761033) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is officially marked as a data gap (DG002) in this evidence pack. However, the model's own rationale text identifies reslizumab as an anti-IL-5 monoclonal antibody that suppresses eosinophil proliferation and activation, consistent with its known use in eosinophilic asthma.
+Currently, detailed mechanism of action data is not available in the source data. Based on known information, reslizumab is an anti-IL-5 monoclonal antibody that lowers eosinophil levels.
 
-Critically, the evidence pack's own mechanistic assessment states that this pathway has **no direct biological link** to the core mechanism of immune thrombocytopenia (autoantibody-mediated platelet destruction and impaired megakaryopoiesis). The high TxGNN score (99.53%) is interpreted as likely reflecting indirect graph connections between eosinophil/immune-modulation nodes in the knowledge graph, rather than a causal or pharmacologically plausible relationship. No supporting clinical or translational evidence currently exists.
+The mechanistic link to the predicted indication is weak. Immune thrombocytopenia is driven mainly by autoantibody-mediated platelet destruction and impaired platelet production (megakaryopoiesis). No established IL-5 or eosinophil pathway explains it. The high TxGNN score (99.53%) is a graph-based prediction only and cannot be verified against a documented mechanism. Similarity to the original indication has not been assessed.
 
-Given the absence of mechanistic plausibility and supporting evidence, this prediction should be treated as a low-confidence, purely data-driven signal rather than a scientifically supported repurposing hypothesis.
-
----
+The model's second-ranked prediction, primary release disorder of platelets (score 99.25%), also has no direct mechanistic support. Its only linked paper is a review of hypereosinophilic syndrome management that covers mepolizumab, a different anti-IL-5 antibody ([PMID 20565230](https://pubmed.ncbi.nlm.nih.gov/20565230/), 2010). It does not address platelet disorders or reslizumab.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for the predicted indication.
 
----
+## US Market Information
 
-## Market Information
-
-No license or NDA records are available — the drug is not currently marketed in this jurisdiction, so no approved indication text can be extracted.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| BLA761033 | CINQAIR (Teva Respiratory, LLC) | Injection, solution, concentrate | Not listed in the source data |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-*(Note: TFDA-equivalent warnings/contraindications for this drug are marked as a blocking data gap — see Next Steps.)*
-
----
-
-## Additional Predicted Indication (Secondary, Not Elaborated)
-
-The evidence pack also includes a second, weaker candidate: **Primary Release Disorder of Platelets** (TxGNN score 99.25%, rank 16467, Evidence Level L5). The single supporting reference (PMID [20565230](https://pubmed.ncbi.nlm.nih.gov/20565230/), a 2010 review on hypereosinophilic syndrome management) discusses a *different* anti-IL-5 antibody (mepolizumab) and does not specifically address platelet release disorders — it is class-level, indirect evidence at best. Recommendation for this candidate is also **Hold**.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Both predicted indications are supported only by TxGNN model scores with no corroborating clinical trials or disease-specific literature, and the evidence pack's own mechanistic analysis finds no credible biological pathway connecting reslizumab's anti-IL-5 activity to immune-mediated platelet disorders. Evidence Level L5 and the absence of any experimental or clinical signal do not support advancing to further evaluation stages (currently S0).
+The prediction is supported only by a model score. There are no trials or literature for immune thrombocytopenia, and no plausible IL-5 or eosinophil mechanism explains it. The drug's safety profile and mechanism data are also missing from the inputs.
 
 **To proceed, the following is needed:**
-- TFDA-equivalent warnings, contraindications, and label data (DG001 — blocking; required before any safety pre-screen/S1 stage)
-- Confirmed mechanism of action via DrugBank API query (DG002 — high priority; needed to properly assess mechanistic plausibility)
-- Disease-specific preclinical or translational evidence directly linking IL-5/eosinophil biology to immune thrombocytopenia or platelet release disorders, if this candidate is to be reconsidered
-- Continued monitoring for new clinical trial registrations or publications specific to reslizumab in either predicted indication
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Confirmed mechanism of action data, for example from DrugBank
+- Confirmed approved indication text for BLA761033
+- Any preclinical or clinical evidence linking IL-5 blockade to platelet destruction
+- A route compatibility assessment (injectable) for the new indication
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

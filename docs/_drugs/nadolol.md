@@ -29,11 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Nadolol: From Hypertension (Original Indication Undocumented) to Malignant Hypertensive Renal Disease
+# Nadolol: From Beta-Blocker Therapy to Malignant Hypertensive Renal Disease
 
 ## One-Sentence Summary
 
-Nadolol (DB01203) is a non-selective beta-adrenergic blocker; no approved indication text is available in this evidence pack, and the drug is currently **not marketed in Taiwan** (0 licenses). The TxGNN model predicts it may be effective for **Malignant Hypertensive Renal Disease**, but this prediction is supported by **0 clinical trials** and **0 publications** — it rests entirely on the network prediction score.
+Nadolol is an oral non-selective beta-blocker marketed in the United States as generic tablets. The provided records do not list its approved indications.
+The TxGNN model predicts it may be effective for **malignant hypertensive renal disease**, but there are **0 clinical trials** and **no drug-specific publications** supporting this prediction.
+It is a model-only signal (Evidence Level L5).
 
 ---
 
@@ -41,47 +43,77 @@ Nadolol (DB01203) is a non-selective beta-adrenergic blocker; no approved indica
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented — no Taiwan license on file and `original_indications` is empty in this evidence pack |
-| Predicted New Indication | Malignant Hypertensive Renal Disease |
+| Original Indication | Not stated in the provided US license records |
+| Predicted New Indication | Malignant hypertensive renal disease |
 | TxGNN Prediction Score | 99.59% |
-| Evidence Level | L5 (model prediction only, no trials or literature) |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Licenses | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (all listed licenses are ANDAs, i.e. generics) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not populated in `drug.original_moa` (flagged as a High-severity data gap, DG002). Based on the TxGNN-generated rationale accompanying this candidate, nadolol is described as a non-selective beta-adrenergic blocker that lowers systemic blood pressure by reducing cardiac output and suppressing renin secretion.
+Detailed mechanism-of-action data is not available in the record. Based on known pharmacology, nadolol is a non-selective beta-blocker that lowers blood pressure and suppresses renin release. That is biologically plausible in renin-driven hypertensive kidney injury, and it is the only mechanistic support for the prediction.
 
-Malignant hypertensive renal disease is a hypertensive-emergency phenotype with acute renal injury. In principle, a systemic blood-pressure-lowering mechanism is directionally compatible with this condition's treatment goal. However, the rationale itself flags an important fit-for-purpose mismatch: this clinical scenario typically requires titratable intravenous antihypertensives for rapid control, whereas nadolol is a long-acting oral agent (half-life 20–24 hours) — not a conventional treatment choice for an acute emergency. No clinical trial, trial registry, or publication record accompanies this candidate; the prediction is derived solely from the TxGNN network score (0.9959).
+There are also reasons for caution:
+- Malignant hypertension is a hypertensive emergency, usually managed with IV agents. An oral long-acting beta-blocker is not a natural fit.
+- The original indication field is empty, so the relationship between the old and new indications could not be cross-checked.
+- The identical scores for related predictions (malignant renovascular hypertension, and the two pulmonary hypertension entries) suggest a shared graph neighborhood rather than independent evidence.
 
-It is also worth noting that a tied-score sibling candidate (pulmonary hypertension owing to lung disease/hypoxia, rank 3) did return 20 PubMed records, but on review those papers concern hypoxia physiology, neurodegeneration, and tumor metabolism — none address nadolol or beta-blocker therapy in pulmonary hypertension. This illustrates a keyword-similarity artifact in the retrieval rather than genuine supporting evidence, and reinforces that the malignant-hypertensive-renal-disease candidate above should be read as an unvalidated network prediction only.
+**Other predicted indications** (all L5, all Hold):
+
+| Rank | Predicted Indication | Score | Comment |
+|---|---|---|---|
+| 2 | Malignant renovascular hypertension | 99.59% | Renin link is theoretical. RAAS inhibitors are the usual choice, and there is no evidence for nadolol. |
+| 3 | Pulmonary hypertension owing to lung disease and/or hypoxia | 99.53% | The 20 retrieved papers are general hypoxia biology, not nadolol studies. |
+| 4 | Pulmonary hypertension with unclear multifactorial mechanism | 99.53% | Beta-blockers are generally not recommended in PH because they can reduce cardiac output and right ventricular function. |
+| 5 | Braddock syndrome | 99.43% | Ultra-rare disorder. The score likely comes from graph proximity via the PH phenotype. |
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available
+No literature directly studying nadolol or beta-blockers in malignant hypertensive renal disease was found. Literature was retrieved only for the rank 3 indication (pulmonary hypertension owing to lung disease and/or hypoxia). Those 20 papers appear to be keyword matches on "hypoxia", and none studies nadolol. There are no RCTs; the examples below are the reviews and basic-research papers among them.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [33862277](https://pubmed.ncbi.nlm.nih.gov/33862277/) | 2021 | Review | Ageing Res Rev | Hypoxia and brain aging. Not drug-specific. |
+| [34618295](https://pubmed.ncbi.nlm.nih.gov/34618295/) | 2022 | Review | Metab Brain Dis | Clinical evidence and molecular mechanisms of hypoxia-induced cognitive impairment. Not drug-specific. |
+| [34535359](https://pubmed.ncbi.nlm.nih.gov/34535359/) | 2021 | Review | Clin Oncol | Therapeutic modification of tumour hypoxia. Not related to nadolol. |
+| [11172576](https://pubmed.ncbi.nlm.nih.gov/11172576/) | 2000 | Review | Respir Care Clin N Am | Basic mechanisms of hypoxemia. Background physiology only. |
+| [37328448](https://pubmed.ncbi.nlm.nih.gov/37328448/) | 2023 | Preclinical | Adv Sci (Weinheim) | NAT10/HIF-1α glycolysis loop in gastric cancer. Unrelated. |
 
 ---
 
-## Taiwan Market Information
+## US Market Information
 
-Nadolol currently holds no marketing license in Taiwan (0 licenses on record); no approved indication text, product name, or dosage form is available to report.
+The records list 20 licenses in total; 5 are shown. All are oral tablets, and none includes approved-indication text.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA212856 | NADOLOL (VGYAAN Pharmaceuticals LLC) | Tablet | Not listed in the record |
+| ANDA210955 | Nadolol (Unichem Pharmaceuticals (USA), Inc.) | Tablet | Not listed in the record |
+| ANDA203455 | Nadolol (BluePoint Laboratories) | Tablet | Not listed in the record |
+| ANDA207761 | Nadolol (Zydus Lifesciences Limited) | Tablet | Not listed in the record |
+| ANDA203455 | Nadolol (Cipla USA Inc.) | Tablet | Not listed in the record |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. Package-insert warnings and contraindications were not captured in the data, and no drug-drug interaction records were found.
+
+Class-level concerns raised in the prediction review:
+- **Bronchospasm:** non-selective beta-blockers such as nadolol can provoke bronchospasm and are generally avoided in significant chronic lung disease, which is the typical context for the hypoxia-related PH group.
+- **Pulmonary hypertension:** beta-blockers can reduce cardiac output and right ventricular function.
 
 ---
 
@@ -90,13 +122,17 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-No clinical trials or relevant literature support nadolol's use in malignant hypertensive renal disease; the candidate is Evidence Level L5 (prediction-only). The drug is also unmarketed in Taiwan with no labeling/safety data on file (TFDA warnings/contraindications are a Blocking data gap, DG001), and the drug's pharmacokinetic profile (long-acting oral) is a poor mechanistic fit for an acute hypertensive-emergency indication.
+All five predictions are model-only (L5) with no clinical trials and no drug-specific literature. The clinical fit for the top prediction is weak, and the safety profile is a concern for the pulmonary hypertension predictions. The package-insert safety review is also incomplete, which blocks progression to safety screening.
 
 **To proceed, the following is needed:**
-- TFDA/international package insert with warnings and contraindications (resolves Blocking gap DG001)
-- Confirmed original indication and mechanism-of-action documentation (resolves High-severity gap DG002)
-- Preclinical or clinical evidence specific to malignant hypertensive renal disease (or its close variant, malignant renovascular hypertension)
-- Drug-drug interaction data, currently returned "not found"
+- FDA package insert warnings and contraindications (download and parse the label)
+- Mechanism of action data from DrugBank (DB01203)
+- Original approved indications, to assess the link to the predicted indication
+- A targeted literature search for nadolol or beta-blockers in malignant hypertension and renin-mediated hypertensive nephropathy
+- Clinical justification for an oral long-acting beta-blocker in a hypertensive emergency setting
+- Route compatibility assessment (currently pending)
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

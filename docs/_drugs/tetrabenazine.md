@@ -33,80 +33,77 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Tetrabenazine (brand name: Xenazine) is a VMAT2 inhibitor that depletes presynaptic monoamines and is approved by the US FDA for the treatment of chorea associated with Huntington's disease; it is not currently registered in Taiwan.
-The TxGNN model predicts it may be effective for **Polycystic Kidney Disease 3 with or without Polycystic Liver Disease (PKD3)**,
-with **0 clinical trials** and **20 retrieved publications** — however, the retrieved literature covers the disease background rather than any direct evidence of tetrabenazine efficacy in this indication.
-
----
+Tetrabenazine is a marketed oral drug, best known for reducing chorea in Huntington's disease (this comes from a retrieved trial, not from the license records).
+The TxGNN model predicts it may be effective for **polycystic kidney disease 3 with or without polycystic liver disease**, but this is a model prediction only, with **0 clinical trials** and **20 publications** that are disease background and do not mention tetrabenazine.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Chorea associated with Huntington's disease (US FDA-approved; not registered in Taiwan) |
-| Predicted New Indication | Polycystic Kidney Disease 3 with or without Polycystic Liver Disease |
+|------|------|
+| Original Indication | Huntington's disease chorea (inferred from a retrieved trial; the license records list no indication text) |
+| Predicted New Indication | Polycystic kidney disease 3 with or without polycystic liver disease |
 | TxGNN Prediction Score | 99.90% |
 | Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not marketed (Not marketed) |
-| Number of Taiwan Licenses | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (total licenses, including generic ANDAs) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on established pharmacology, tetrabenazine is a reversible inhibitor of vesicular monoamine transporter type 2 (VMAT2), which depletes presynaptic stores of dopamine, serotonin, and norepinephrine. This mechanism underpins its approved use in reducing involuntary choreiform movements in Huntington's disease. It has no established role in metabolic, renal, or hepatic disease.
+Detailed mechanism of action data is not available in the source record. Tetrabenazine is generally described as a reversible VMAT2 inhibitor that depletes presynaptic monoamines, which explains its use in hyperkinetic movement disorders such as chorea.
 
-Polycystic Kidney Disease 3 (PKD3) is caused by mutations in the **GANAB** gene, which encodes glucosidase II alpha subunit — an enzyme critical for N-linked glycoprotein processing in the endoplasmic reticulum. Defective glycosylation leads to misfolded polycystin proteins, triggering progressive renal and hepatic cyst formation. The disease is driven by primary ciliary dysfunction, mTOR pathway hyperactivation, and aberrant cholangiocyte fluid secretion — mechanisms entirely distinct from monoamine neurotransmission.
+The predicted disease is a genetic cystic disorder of the kidney and liver, linked to genes such as GANAB and PRKCSH. It has no known connection to VMAT2 or monoamine pathways, so the very high TxGNN score has no supporting mechanism. None of the 20 retrieved papers mention tetrabenazine.
 
-No pharmacological bridge between VMAT2 inhibition and PKD3 pathophysiology is currently established. As noted in the repurposing rationale embedded in the Evidence Pack, the high TxGNN score most likely reflects indirect topological proximity in the knowledge graph (neurological → metabolic/renal disease node clusters) rather than a genuine drug–disease mechanistic connection. This prediction is best classified as a knowledge graph artifact at this stage.
-
----
+The other nine top predictions (renal-hepatic-pancreatic dysplasia, Joubert syndrome with renal defect, karyomegalic interstitial nephritis and others) are also model-only predictions at L5 with no plausible mechanism.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-All 20 retrieved publications address polycystic kidney/liver disease pathophysiology, genetics, and clinical management — none specifically evaluate tetrabenazine in this context. They are listed below for disease background reference.
+None of these papers studies tetrabenazine. They describe the disease background, and no RCTs were found.
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [30819518](https://pubmed.ncbi.nlm.nih.gov/30819518/) | 2019 | Review | *Lancet* | Comprehensive review of ADPKD as a systemic disorder; covers hypertension, hepatic cysts, intracranial aneurysms, and molecular genetics advances |
-| [34724412](https://pubmed.ncbi.nlm.nih.gov/34724412/) | 2022 | Review | *Annual Review of Pathology* | Mechanisms of polycystic liver disease — primary gene mutations, cyst initiation, and progression; mTOR and cAMP identified as therapeutic targets |
-| [35487607](https://pubmed.ncbi.nlm.nih.gov/35487607/) | 2022 | Review | *Clinics in Liver Disease* | ADPKD and PCLD clinical course; tolvaptan shown to slow renal cyst progression; hepatomegaly management strategies |
-| [29175241](https://pubmed.ncbi.nlm.nih.gov/29175241/) | 2018 | Review | *Journal of Hepatology* | Clinical management of polycystic liver disease; surveillance recommendations, interventional options, and transplantation criteria |
-| [38958301](https://pubmed.ncbi.nlm.nih.gov/38958301/) | 2024 | Clinical Guideline | *American Journal of Gastroenterology* | ACG guideline on focal liver lesions including hepatic cystic lesions and polycystic liver disease management |
-| [35728731](https://pubmed.ncbi.nlm.nih.gov/35728731/) | 2022 | Clinical Guideline | *Journal of Hepatology* | EASL Clinical Practice Guidelines on cystic liver diseases covering ADPKD, ADPLD, diagnosis, and management |
-| [29038287](https://pubmed.ncbi.nlm.nih.gov/29038287/) | 2018 | Review | *JASN* | Genetic complexity of ADPKD and ADPLD; 8 associated genes (including PKD1, PKD2, GANAB) with significant phenotypic and pathogenic overlap |
-| [38097330](https://pubmed.ncbi.nlm.nih.gov/38097330/) | 2023 | Review | *Advances in Kidney Disease and Health* | Genetic spectrum of polycystic diseases: PKD1 accounts for ~80% of ADPKD; two major and seven minor loci; genotype–phenotype correlations |
-| [36200122](https://pubmed.ncbi.nlm.nih.gov/36200122/) | 2022 | Review | *Hepatic Medicine* | PLD pathogenesis (ductal plate malformation, ciliary dysfunction, cell signaling abnormalities); symptomatic disease in 2–5% of patients |
-| [40296340](https://pubmed.ncbi.nlm.nih.gov/40296340/) | 2025 | Cohort | *Annals of Transplantation* | Retrospective analysis of combined liver-kidney transplantation outcomes in 9 PLD patients (2015–2024); postoperative complication monitoring |
+|------|-----|------|------|---------|
+| [35728731](https://pubmed.ncbi.nlm.nih.gov/35728731/) | 2022 | Guideline | J Hepatol | EASL guidance on diagnosing and managing cystic liver diseases, including polycystic liver disease |
+| [38958301](https://pubmed.ncbi.nlm.nih.gov/38958301/) | 2024 | Guideline | Am J Gastroenterol | ACG guideline on focal liver lesions, including hepatic cystic lesions and polycystic liver disease |
+| [30819518](https://pubmed.ncbi.nlm.nih.gov/30819518/) | 2019 | Review | Lancet | ADPKD is a systemic disorder with liver cysts and other extrarenal complications |
+| [35487607](https://pubmed.ncbi.nlm.nih.gov/35487607/) | 2022 | Review | Clin Liver Dis | Polycystic liver disease in ADPKD; tolvaptan can slow renal decline |
+| [29038287](https://pubmed.ncbi.nlm.nih.gov/29038287/) | 2018 | Review | J Am Soc Nephrol | Genetic and phenotypic overlap between ADPKD and polycystic liver disease (PKD1, PKD2, GANAB, PRKCSH and others) |
+| [38097330](https://pubmed.ncbi.nlm.nih.gov/38097330/) | 2023 | Review | Adv Kidney Dis Health | Genetic spectrum of polycystic kidney and liver diseases; cilia defects are central to pathogenesis |
+| [29175241](https://pubmed.ncbi.nlm.nih.gov/29175241/) | 2018 | Clinical management | J Hepatol | Case-based approach to managing polycystic liver disease |
+| [34724412](https://pubmed.ncbi.nlm.nih.gov/34724412/) | 2022 | Review | Annu Rev Pathol | Mechanisms and treatment advances in polycystic liver disease |
+| [36200122](https://pubmed.ncbi.nlm.nih.gov/36200122/) | 2022 | Review | Hepat Med | Pathophysiology, diagnosis and treatment of polycystic liver disease |
+| [40296340](https://pubmed.ncbi.nlm.nih.gov/40296340/) | 2025 | Cohort | Ann Transplant | Retrospective outcomes of organ transplantation in 9 patients with polycystic liver disease |
 
----
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA021894 | Xenazine (Lundbeck Pharmaceuticals LLC) | Tablet | Not listed in the source data |
+| ANDA206129 | Tetrabenazine (Sun Pharmaceutical Industries, Inc.) | Tablet | Not listed in the source data |
+| ANDA213316 | Tetrabenazine (Heritage / Avet Pharmaceuticals) | Tablet | Not listed in the source data |
+| ANDA207682 | Tetrabenazine (Precision Dose Inc.) | Tablet | Not listed in the source data |
+
+The route is oral. Tablet and coated tablet forms are registered.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
----
+Please refer to the package insert for safety information. No drug interaction records were found in the source data.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN model assigns a high prediction score (99.90%) to tetrabenazine for PKD3, but no credible mechanistic link exists between VMAT2/monoamine depletion and the GANAB-driven N-linked glycosylation defects underlying polycystic kidney and liver disease. No clinical trials or disease-specific tetrabenazine literature were retrieved; all 20 retrieved publications describe the target disease in general rather than any tetrabenazine activity within it. The current evidence level is L5 — model prediction only.
+The prediction rests on the model score alone. There are no trials, none of the retrieved papers evaluate tetrabenazine, and no mechanism links VMAT2 inhibition to a genetic cystic kidney and liver disorder.
 
 **To proceed, the following is needed:**
-- **Mechanistic hypothesis**: Identify a credible pharmacological pathway linking VMAT2 inhibition (or off-target tetrabenazine activity) to mTOR signaling, primary ciliary function, or cAMP-driven fluid secretion in GANAB-mutant cystogenesis
-- **Preclinical data**: In vitro or animal model studies of GANAB-mutant cholangiocytes/renal tubular cells exposed to tetrabenazine or monoamine depletion
-- **Biomarker correlation**: Any reported association between dopaminergic or serotonergic signaling and cyst growth markers in ADPKD/PKD3
-- **Safety profile completion**: Resolve data gaps DG001 (TFDA package insert warnings/contraindications) and DG002 (full DrugBank MOA data) before any clinical planning
-- **Nephrology expert review**: Specialist assessment of biological plausibility before committing resources to wet-lab or translational studies
+- Package insert warnings and contraindications, which are required for any safety screening
+- Detailed mechanism of action data from DrugBank
+- A credible biological hypothesis connecting monoamine depletion to cyst formation, backed by preclinical evidence
+- A review of the other top-ranked predictions, or a decision to deprioritize this drug for repurposing
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

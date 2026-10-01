@@ -29,95 +29,69 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Alectinib: From ALK+ Non-Small-Cell Lung Cancer to Fibromatosis, Gingival
+# Alectinib: From ALK-Positive Non-Small-Cell Lung Cancer to Gingival Fibromatosis
 
 ## One-Sentence Summary
 
-Alectinib is a second-generation, highly selective ALK (anaplastic lymphoma kinase) tyrosine kinase inhibitor, globally recognized as first-line standard of care for ALK-positive non-small-cell lung cancer (NSCLC), though it does not currently hold Taiwan regulatory approval.
-The TxGNN model's top-ranked prediction is **Fibromatosis, Gingival**, with **0 clinical trials** and **0 publications** directly supporting this direction.
-This top prediction is assessed as a likely false positive; the most clinically meaningful signal in this analysis is **Rank 7 (ALK+ Pulmonary Neuroendocrine Tumors)**, supported by 2 clinical trials and 16 publications.
+Alectinib is an oral ALK/RET tyrosine kinase inhibitor, approved for ALK-positive non-small-cell lung cancer (NSCLC).
+The TxGNN model predicts it may be effective for **gingival fibromatosis**, a rare benign gum overgrowth disorder.
+There are **0 clinical trials** and **0 publications** supporting this prediction, so it rests on the model score alone.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not registered in Taiwan; globally approved for ALK+ NSCLC |
-| Predicted New Indication | Fibromatosis, Gingival |
-| TxGNN Prediction Score | 99.97% |
-| Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Licenses | 0 |
+|------|------|
+| Original Indication | ALK-positive NSCLC (taken from the evidence pack's rationale text; the license record has no indication text) |
+| Predicted New Indication | Fibromatosis, gingival |
+| TxGNN Prediction Score | 99.97% (model rank 1477) |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on known information, Alectinib is a second-generation ALK tyrosine kinase inhibitor developed to overcome limitations of first-generation crizotinib, including poor CNS penetration and acquired resistance mutations. Its proven efficacy is rooted in inhibiting aberrant ALK kinase signaling driven by chromosomal rearrangements — primarily EML4-ALK fusions found in 3–5% of NSCLC patients.
+Detailed mechanism-of-action data is not available in the database. From the pack's rationale text, alectinib is an ALK/RET tyrosine kinase inhibitor. Its proven benefit is in ALK-rearranged lung cancer, where ALK is the driver of tumor growth.
 
-**Assessment of the top prediction (Fibromatosis, Gingival):** Gingival fibromatosis is a benign fibrous proliferative disorder primarily caused by SOS1 gene mutations or drug-induced effects (e.g., phenytoin, calcium channel blockers). There is no established intersection between gingival fibromatosis pathogenesis and the ALK signaling pathway. Alectinib's selective ALK inhibition has no known biological rationale for this condition. The TxGNN prediction score of 99.97% most likely reflects graph-structural neighborhood similarity artifacts rather than a genuine biological signal — a pattern repeated across multiple Rank 1–6 predictions in this report.
+This prediction has no supporting mechanism. The supplied data documents no ALK or RET involvement in gingival fibromatosis. That disease is a benign, non-malignant tissue overgrowth, and it is biologically distant from ALK-driven lung cancer.
 
-**Important signal identified at Rank 7:** A systematic review of all 10 ranked predictions reveals that the only clinically meaningful repurposing signal is **Rank 7, labeled as "lung germ cell tumor" but actually representing ALK-rearranged pulmonary neuroendocrine tumors** (large cell neuroendocrine carcinoma, atypical carcinoid). Multiple published case reports document objective responses to alectinib in ALK+ LCNEC, and an active Phase 2/3 basket trial (DETERMINE, NCT05770037) is currently recruiting this patient population. This signal warrants separate reclassification as a "Research Question" candidate independent of the false-positive Rank 1 prediction.
+The score of about 0.9997 comes from graph-based prediction only. The other top candidates for this drug score almost identically, so the score does not help rank them. It should be read as a hypothesis-generation signal, not as evidence of efficacy.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for fibromatosis, gingival.
-
----
-
-> **Supplementary: Rank 7 — ALK+ Pulmonary Neuroendocrine Tumors (2 trials identified)**
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT05770037](https://clinicaltrials.gov/study/NCT05770037) | Phase 2/3 | Recruiting | 30 | DETERMINE trial — UK national umbrella-basket platform trial evaluating alectinib in rare adult, paediatric, and TYA patients with ALK-positive cancers beyond approved lung cancer indications; primary data source for this repurposing signal |
-| [NCT04644315](https://clinicaltrials.gov/study/NCT04644315) | Phase 2 | Terminated | 1 | Open-label single-arm study of alectinib in ALK+ locally-advanced or metastatic solid tumors (non-lung); terminated after enrolling only 1 patient — no usable efficacy data generated |
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available for fibromatosis, gingival.
+Currently no related literature available.
 
 ---
 
-> **Supplementary: Rank 7 — ALK+ Pulmonary Neuroendocrine Tumors (top 10 of 16 publications)**
+## US Market Information
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [36690569](https://pubmed.ncbi.nlm.nih.gov/36690569/) | 2023 | Case Report | Clinical Lung Cancer | ALK+ pulmonary neuroendocrine tumor — documented favorable response to alectinib |
-| [34994612](https://pubmed.ncbi.nlm.nih.gov/34994612/) | 2021 | Case Report | JCO Precision Oncology | Metastatic ALK fusion-positive large cell neuroendocrine lung carcinoma — partial response to alectinib |
-| [35200571](https://pubmed.ncbi.nlm.nih.gov/35200571/) | 2022 | Case Report | Current Oncology | ALK-rearranged combined LCNEC + adenocarcinoma with diffuse bone metastasis — partial response to alectinib, exclusively ALK+ LCNEC component at recurrence |
-| [29151522](https://pubmed.ncbi.nlm.nih.gov/29151522/) | 2018 | Case Report | Internal Medicine (Tokyo) | LCNEC with ALK rearrangement and liver/bone metastases — response to alectinib after cytotoxic chemotherapy failure |
-| [37031440](https://pubmed.ncbi.nlm.nih.gov/37031440/) | 2023 | Case Report | Orvosi Hetilap | Mixed large cell neuroendocrine carcinoma with ALK fusion gene — alectinib as targeted alternative to cytostatic therapy |
-| [31559892](https://pubmed.ncbi.nlm.nih.gov/31559892/) | 2020 | Case Report | Cancer Biology & Therapy | Primary pulmonary atypical carcinoid with EML4-ALK rearrangement — targeted therapy rationale for ALK+ carcinoid subtypes |
-| [30591488](https://pubmed.ncbi.nlm.nih.gov/30591488/) | 2019 | Retrospective | Anticancer Research | Systematic ALK IHC screening in LCNEC series; identification of novel KIF5B-ALK fusion — supports routine ALK testing in neuroendocrine lung tumors |
-| [39667359](https://pubmed.ncbi.nlm.nih.gov/39667359/) | 2024 | Case Report | Clinical Respiratory Journal | Novel CEP44-ALK fusion in metastatic neuroendocrine tumor — dramatic response to ALK-TKI (ensartinib); confirms ALK-TKI class efficacy including alectinib in ALK-rearranged NET |
-| [37561984](https://pubmed.ncbi.nlm.nih.gov/37561984/) | 2023 | Review | JCO Precision Oncology | ALK inhibitors (including alectinib) for adult-onset neuroblastoma — therapeutic strategy review for ALK-driven rare neuroendocrine tumors |
-| [36965191](https://pubmed.ncbi.nlm.nih.gov/36965191/) | 2023 | Case Report | Pediatric Blood & Cancer | Significant response to alectinib in pediatric spinal high-grade glioma with ALK fusion — demonstrates cross-tumor-type ALK inhibition potential |
-
----
-
-## Taiwan Market Information
-
-Alectinib is not currently registered in Taiwan (market status: Not marketed). No Taiwan drug approval licenses are on record for this compound.
-
-For global regulatory context: Alectinib (brand name Alecensa®) holds first-line NSCLC approvals in the United States (FDA), European Union, Japan, and multiple other jurisdictions, based on the landmark ALEX (global Phase 3), J-ALEX (Japan Phase 3), and ALESIA (Asia Phase 3) trials, as well as adjuvant NSCLC approval from the ALINA Phase 3 trial published in 2024.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA208434 | ALECENSA | Capsule (oral) | Genentech, Inc. |
 
 ---
 
 ## Cytotoxicity
 
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted therapy — Second-generation ALK tyrosine kinase inhibitor (small molecule, ATP-competitive) |
-| Myelosuppression Risk | Low to moderate — anemia is the most commonly reported hematologic event, including rare hemolytic anemia (PMID 36604860); severe myelosuppression is uncommon compared to conventional cytotoxics |
-| Emetogenicity Classification | Low |
-| Monitoring Items | CBC with differential (anemia), liver function tests (AST/ALT elevation reported), CPK (myalgia and rhabdomyolysis risk), renal function, ECG (bradycardia), and photosensitivity assessment |
-| Handling Protection | Oral targeted therapy; standard institutional cytotoxic handling precautions apply per pharmacy SOPs |
+|------|------|
+| Cytotoxicity Classification | Targeted therapy (ALK/RET kinase inhibitor), not a conventional cytotoxic agent |
+| Myelosuppression Risk | Low to moderate. Anemia is a known effect, and a published case report describes alectinib-induced hemolytic anemia (PMID 36604860) |
+| Emetogenicity Classification | Low (typical for oral kinase inhibitors; not from the supplied data) |
+| Monitoring Items | CBC, liver function. Please refer to the package insert for the full list |
+| Handling Protection | Please refer to the package insert warnings and precautions |
 
 ---
 
@@ -125,28 +99,29 @@ For global regulatory context: Alectinib (brand name Alecensa®) holds first-lin
 
 Please refer to the package insert for safety information.
 
-> One published case report (PMID 36604860, 2023, *Journal of Oncology Pharmacy Practice*) specifically documents alectinib-induced hemolytic anemia — a rare but clinically significant adverse event — highlighting the importance of CBC monitoring even in the absence of expected myelosuppressive toxicity.
-
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Hold** *(for Rank 1 — Fibromatosis, Gingival)*
+**Decision: Hold**
 
 **Rationale:**
-The Rank 1 TxGNN prediction has no mechanistic basis (no ALK pathway involvement in gingival fibromatosis), zero supporting clinical trials, and zero supporting literature. The high prediction score (99.97%) is assessed as a graph-structural false positive. This decision applies equally to Ranks 2–4, 6, 8–10, which share the same pattern of absent evidence and absent ALK-pathway rationale.
+The prediction has no trials, no literature and no mechanistic link (Evidence Level L5). A benign gum disorder is a poor fit for a drug developed for ALK-driven cancer. A weak benefit would also have to be weighed against the safety profile of a systemic oncology drug.
 
-**Separate action required for Rank 7 (ALK+ Pulmonary Neuroendocrine Tumors):**
-This prediction should be reclassified and evaluated independently as a **Research Question** candidate. The mechanistic link is coherent (ALK rearrangement drives oncogenesis in a subset of LCNEC/atypical carcinoid), and objective clinical responses to alectinib in ALK+ LCNEC have been documented across multiple independent case reports.
+**To proceed, the following is needed:**
+- A plausible biological link between ALK/RET signaling and gingival fibromatosis, for example from preclinical or expression data
+- Package insert warnings and contraindications (currently a blocking gap for safety screening)
+- Detailed MOA data from DrugBank
+- A benefit-risk assessment for a benign, non-life-threatening condition
 
-**To pursue Rank 7 as a standalone repurposing candidate, the following is needed:**
+**Other candidates for this drug:**
+- **Lung germ cell tumor (rank 7)** is the only candidate with trial and case-report evidence, at Evidence Level L4. The literature is case reports of ALK-fusion-positive lung neuroendocrine tumors that responded to alectinib, none of it on germ cell tumors. Two trials are registered:
+  - NCT04644315 was terminated after 1 participant.
+  - NCT05770037 (DETERMINE, n=30) is still recruiting.
+  - This candidate is better suited to a molecularly stratified research question, with ALK testing required, than to a repurposing decision.
+- **Lung benign neoplasm (rank 5)** has 20 papers, but all concern ALK-positive NSCLC, which is malignant. This looks like a disease-term mapping artifact and is not evidence for the predicted indication.
 
-- Obtain full mechanism of action data (DrugBank API query — DG002 remediation)
-- Obtain Taiwan package insert warnings and contraindications (TFDA PDF — DG001 remediation)
-- Monitor enrollment and interim results of DETERMINE trial (NCT05770037, expected completion Oct 2029)
-- Define the eligible patient population: estimated ALK rearrangement frequency in LCNEC is 0.5–3% — prospective ALK IHC/FISH screening protocol needed
-- Design a prospective case series or expanded access program for ALK+ LCNEC patients in Taiwan pending global trial data maturation
-- Clarify Taiwan registration pathway for alectinib (currently Not marketed) as a prerequisite for any repurposing clinical program
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

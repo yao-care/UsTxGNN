@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Clobazam
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 536
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 ---
 
 # Clobazam
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,84 +29,71 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-Based on the Evidence Pack provided, here is the evaluation report for Clobazam:
-
----
-
-# Clobazam: From Lennox-Gastaut Syndrome to Febrile Infection-Related Epilepsy Syndrome
+# Clobazam: Repurposing Prediction for Febrile Infection-Related Epilepsy Syndrome (FIRES)
 
 ## One-Sentence Summary
 
-Clobazam is a 1,5-benzodiazepine antiepileptic drug, established globally as adjunctive treatment for seizures associated with Lennox-Gastaut Syndrome and other refractory epilepsies, with FDA approval granted in 2011.
-The TxGNN model predicts it may be effective for **Febrile Infection-Related Epilepsy Syndrome (FIRES)**,
-with **0 clinical trials** and **2 publications** currently supporting this specific direction.
-
----
+Clobazam is a benzodiazepine anti-seizure medication marketed in the US as tablets, oral suspension, and oral film. The TxGNN model predicts it may be useful for **febrile infection-related epilepsy syndrome (FIRES)**, but there are **0 clinical trials** and only **2 publications**, and neither studies clobazam (they cover lorazepam and perampanel). This is a model-only signal with no direct clinical support.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Lennox-Gastaut Syndrome / refractory epilepsy (no US license record found in regulatory database) |
-| Predicted New Indication | Febrile Infection-Related Epilepsy Syndrome (FIRES) |
+|------|------|
+| Predicted New Indication | Febrile infection-related epilepsy syndrome (FIRES) |
 | TxGNN Prediction Score | 99.82% |
-| Evidence Level | L4 |
-| US Market Status | Not found (0 licenses recorded in registry) |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (the Evidence Pack lists L4, but neither retrieved paper studies clobazam) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data was not retrieved in this Evidence Pack. Based on established pharmacology, clobazam is a 1,5-benzodiazepine that potentiates GABA-A receptor-mediated chloride channel opening, thereby enhancing synaptic inhibition throughout the central nervous system. Its structural difference from 1,4-benzodiazepines confers relative selectivity for α2 subunit-containing GABA-A receptors, which reduces sedation while retaining broad antiseizure activity. This mechanism underpins its clinical role in Lennox-Gastaut Syndrome (FDA-approved, 2011) and Dravet syndrome, where it forms part of the stiripentol + clobazam + valproate triple regimen approved in the US and EU.
+Currently, detailed mechanism of action data is not available in the DrugBank field. The Evidence Pack's rationale describes clobazam as a GABA-A positive allosteric modulator (a benzodiazepine). This mechanism is plausible for refractory status epilepticus, and FIRES is a form of new-onset refractory status epilepticus in previously healthy children.
 
-FIRES is a catastrophic epileptic encephalopathy triggered by a febrile infection in previously healthy individuals, characterized by super-refractory status epilepticus (SRSE). During the acute phase, GABAergic agents — particularly benzodiazepines — are the backbone of initial seizure control, providing a mechanistic rationale for the TxGNN model prediction that clobazam might be applicable here.
+The data does not state clobazam's original approved indication, and the US license records carry no indication text. The relationship between the original and new indication therefore cannot be assessed here.
 
-However, the clinical translation has important limitations. FIRES acute-phase management relies on intravenous benzodiazepines such as midazolam, lorazepam, and diazepam — not oral clobazam. During the chronic phase of FIRES, immune-mediated mechanisms dominate, and GABAergic modulation has limited independent efficacy. Neither of the 2 identified publications directly addresses clobazam in FIRES: one focuses on lorazepam weaning, the other on perampanel. The TxGNN prediction therefore appears to reflect a class-level benzodiazepine association rather than a clobazam-specific mechanistic finding.
-
----
+The two retrieved papers support only the general benzodiazepine-class idea. One is a case series on enteral lorazepam for weaning midazolam-dependent patients. The other is a case report on perampanel for reducing barbiturate dependency. Neither contains clobazam-specific data, so the high TxGNN score remains a prediction only.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [39958143](https://pubmed.ncbi.nlm.nih.gov/39958143/) | 2025 | Case Report | Cureus | Perampanel reduced barbiturate dependency in a 13-year-old FIRES patient; illustrates the challenge of conventional AED failure in SRSE and the emerging role of adjunctive agents |
-| [35770765](https://pubmed.ncbi.nlm.nih.gov/35770765/) | 2022 | Retrospective Case Series | Epileptic Disorders | Enteral lorazepam served as an effective weaning substitute for midazolam in FIRES patients; supports benzodiazepine class relevance in FIRES management but is not specific to clobazam |
-
----
+|------|-----|------|------|---------|
+| [35770765](https://pubmed.ncbi.nlm.nih.gov/35770765/) | 2022 | Case series | Epileptic Disorders | Enteral lorazepam worked as a weaning substitute in midazolam-dependent FIRES patients. Lorazepam, not clobazam. |
+| [39958143](https://pubmed.ncbi.nlm.nih.gov/39958143/) | 2025 | Case report | Cureus | A 13-year-old with FIRES; perampanel may reduce barbiturate dependency. Perampanel, not clobazam. |
 
 ## US Market Information
 
-No FDA-registered licenses were identified in the regulatory database for Clobazam. This likely reflects a data retrieval gap — clobazam (brand name Onfi®) is known to hold FDA approval for adjunctive treatment of seizures associated with Lennox-Gastaut Syndrome, based on the CONTAIN Phase 3 RCT program (approved October 2011). Regulatory record retrieval should be re-attempted directly via the FDA Orange Book or DailyMed.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA210833 | SYMPAZAN | Film | Aquestive Therapeutics |
+| NDA202067 | Onfi | Tablet | Lundbeck Pharmaceuticals LLC |
+| ANDA210978 | Clobazam | Suspension | Taro Pharmaceuticals U.S.A., Inc. |
+| ANDA213039 | Clobazam | Suspension | Ascend Laboratories, LLC |
 
----
+The data lists 20 licenses in total; 4 distinct ones are shown here (Onfi appears twice in the source). Approved indication text is not included in the records.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
 
----
+The Evidence Pack's rationale for other predicted indications mentions sedation, behavioral adverse events, tolerance, and CYP2C19/CYP3A4 interactions as points to watch. This is not label-sourced data. No drug-interaction records were found.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN prediction score is high (99.82%), but the clinical fit is weak: intravenous benzodiazepines — not oral clobazam — are the standard of care in FIRES acute-phase super-refractory status epilepticus, and during the chronic phase, immune mechanisms dominate over GABAergic pathways. No clinical trials and no clobazam-specific publications were identified for this indication.
+The FIRES prediction rests on the model score and class-level reasoning alone. There are no trials, and neither paper studies clobazam.
 
 **To proceed, the following is needed:**
-- Search for any published case reports or series where clobazam was specifically used in FIRES management — particularly during the transition from acute SRSE to chronic epilepsy maintenance
-- Retrieve full MOA and safety data from DrugBank (DB00349), including GABA-A subunit binding profile and known drug interaction risk with commonly co-administered agents in FIRES (e.g., ketamine, phenobarbital, immunotherapeutics)
-- Clarify whether clobazam has any role in FIRES chronic-phase adjunctive therapy alongside immunotherapy (IVIG, methylprednisolone, rituximab)
-- Resolve the regulatory database discrepancy: confirm FDA license records for Onfi® to establish the correct US market status baseline
-- Consider framing future investigation as a class-effect (benzodiazepine adjuncts in FIRES chronic phase) rather than a clobazam-specific hypothesis, given current evidence gaps
+- Clobazam-specific evidence in FIRES or refractory status epilepticus, such as case series or registry data
+- The clobazam package insert (warnings, contraindications, approved indications) to confirm labeled uses and safety
+- Mechanism of action data from DrugBank
+- Better-supported indications in the same list. "Childhood onset epileptic encephalopathy" (rank 6) has the most literature, including Lennox-Gastaut reviews. Clobazam may already be labeled for it, which would make it a non-repurposing signal. Verify this against the label.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

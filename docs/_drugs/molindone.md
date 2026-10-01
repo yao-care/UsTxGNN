@@ -29,11 +29,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Molindone: From Schizophrenia (Antipsychotic Class) to Manic Bipolar Affective Disorder
+# Molindone: From Schizophrenia (Antipsychotic Use) to Retinal Dystrophy
 
 ## One-Sentence Summary
 
-Molindone is a first-generation (typical) antipsychotic; its own approved-indication data is not on file in this evidence pack (Taiwan/US: unmarketed), so the original indication above reflects its known pharmacological class rather than a verified label claim. Of the ten TxGNN-ranked predictions, nine (including the top-scoring "retinal dystrophy" candidate) were reviewed and judged to be model noise with no mechanistic plausibility or supporting evidence; the only candidate with independent literature support is **Manic Bipolar Affective Disorder** (rank 10, score 99.98%), backed by **5 publications** and a class-effect mechanistic argument, though with **zero molindone-specific trials**.
+Molindone is an oral antipsychotic. The literature in the pack describes it as useful in schizophrenia, but the US license records list no approved indication.
+The TxGNN model predicts it may be effective for **retinal dystrophy with or without extraocular anomalies**, but this rests on the model score alone: **0 clinical trials** and **no molindone-specific publications** support it.
 
 ---
 
@@ -41,23 +42,23 @@ Molindone is a first-generation (typical) antipsychotic; its own approved-indica
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on file (drug unmarketed; no NDA/license record). Molindone is pharmacologically classified as a dihydroindolone (typical) antipsychotic — external reference, not verified in this dataset |
-| Predicted New Indication | Manic Bipolar Affective Disorder |
-| TxGNN Prediction Score | 99.98% (rank 864 of model output) |
-| Evidence Level | L4 (mechanism/class-effect + non-drug-specific literature, no direct RCT) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
-| Recommended Decision | Hold (Research Question) |
+| Original Indication | Not stated in the license records (literature describes antipsychotic use in schizophrenia) |
+| Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
+| TxGNN Prediction Score | 99.998% |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 3 records, all under one ANDA (ANDA090453) |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for molindone is not available in this evidence pack (flagged as a High-severity data gap, DG002). Based on known pharmacological classification, molindone is a dihydroindolone-class typical antipsychotic acting primarily as a central dopamine D2 receptor antagonist — this is external background knowledge, not a finding verified within this dataset.
+Currently, detailed mechanism of action data is not available. Molindone is a dopamine D2 antagonist antipsychotic and is chemically unlike the phenothiazines, butyrophenones, and other older antipsychotic classes.
 
-Other D2-antagonist antipsychotics (both typical and atypical, e.g. olanzapine) are established treatments for acute manic/mixed episodes in bipolar disorder, which supports a *class-effect* argument for molindone's plausibility in mania. However, no clinical trial or publication in this evidence pack tests molindone directly against bipolar mania — the supporting literature addresses antipsychotics as a drug class (anxiety symptoms, adolescent bipolar treatment with olanzapine) or documents molindone's use/safety in schizophrenia and NMS-history patients, not efficacy in mania specifically.
+**The mechanistic link is weak.** Retinal dystrophies are mostly inherited disorders of photoreceptors or the retinal pigment epithelium. A symptomatic D2 blocker has no clear way to alter them. The very high score (99.998%) reflects a knowledge-graph association, not a biological rationale.
 
-By contrast, the model's top nine ranked predictions (retinal dystrophy, congenital glycosylation disorders, hydranencephaly, CMT1G, multiple myopia subtypes, polymicrogyria, glycine encephalopathy) show no mechanistic overlap with a central D2 antagonist and are supported only by literature that never mentions molindone — these were assessed as TxGNN embedding noise (likely driven by disease-entity clustering artifacts) rather than genuine repurposing signals, and are not carried forward in this report.
+The 15 PubMed hits appear to be keyword matches on congenital eye and orbit anomalies. None of the 10 titles shown mentions molindone.
 
 ---
 
@@ -69,40 +70,53 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
+None of these papers studies molindone or retinal dystrophy treatment. They are general ophthalmology reviews and case reports that match the disease keywords.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [31922663](https://pubmed.ncbi.nlm.nih.gov/31922663/) | 2020 | RCT | World Psychiatry | IMPACT trial: metformin add-on vs. antipsychotic switch vs. continued antipsychotic in overweight/obese youth with severe mental illness — addresses antipsychotic metabolic management, not mania efficacy directly |
-| [17017818](https://pubmed.ncbi.nlm.nih.gov/17017818/) | 2006 | Review | J Clin Psychiatry | Review of typical and atypical antipsychotic efficacy for anxiety symptoms/disorders in major depression and bipolar disorder |
-| [21127693](https://pubmed.ncbi.nlm.nih.gov/21127693/) | 2010 | Review | Neuropsychiatric Disease and Treatment | Olanzapine approved for acute manic/mixed episodes in adolescent bipolar I disorder — supports class-effect but not molindone-specific |
-| [15516311](https://pubmed.ncbi.nlm.nih.gov/15516311/) | 2004 | Case Report | J Analytical Toxicology | Postmortem tissue distribution of molindone in a multidrug overdose case — pharmacokinetic/toxicology data, not efficacy evidence |
-| [2507394](https://pubmed.ncbi.nlm.nih.gov/2507394/) | 1989 | Case Report | General Hospital Psychiatry | Successful reinstitution of molindone in a patient with prior neuroleptic malignant syndrome — supports molindone's usability profile, not mania efficacy |
+| [9416661](https://pubmed.ncbi.nlm.nih.gov/9416661/) | 1997 | Review | Semin Ultrasound CT MR | Orbital infections, mostly from sinusitis; imaging and clinical features |
+| [20127583](https://pubmed.ncbi.nlm.nih.gov/20127583/) | 2010 | Review | Semin Neurol | Systematic approach to evaluating diplopia |
+| [38321238](https://pubmed.ncbi.nlm.nih.gov/38321238/) | 2024 | Review | Pediatr Radiol | Imaging of pediatric ocular pathologies, including congenital and developmental lesions |
+| [38249493](https://pubmed.ncbi.nlm.nih.gov/38249493/) | 2023 | Review | Taiwan J Ophthalmol | Congenital anomalies of lens size, shape, and position |
+| [22241537](https://pubmed.ncbi.nlm.nih.gov/22241537/) | 2012 | Review | Klin Monbl Augenheilkd | Congenital ptosis: forms, associated findings, therapy |
+| [7035111](https://pubmed.ncbi.nlm.nih.gov/7035111/) | 1981 | Review | Doc Ophthalmol | Wagner-Stickler syndrome complex (vitreoretinal degeneration with extraocular features) |
+| [30196776](https://pubmed.ncbi.nlm.nih.gov/30196776/) | 2018 | Review | J Binocul Vis Ocul Motil | Congenital cranial dysinnervation disorders and ophthalmoplegia |
+| [24932988](https://pubmed.ncbi.nlm.nih.gov/24932988/) | 2014 | Review | Am J Ophthalmol | Pathogenesis and treatment of maculopathy with cavitary optic disc anomalies |
+| [33806565](https://pubmed.ncbi.nlm.nih.gov/33806565/) | 2021 | Observational study | Int J Mol Sci | Optic nerve head and retinal abnormalities in congenital fibrosis of the extraocular muscles |
+| [109006](https://pubmed.ncbi.nlm.nih.gov/109006/) | 1979 | Case report | Am J Ophthalmol | Two patients with unilateral cryptophthalmia |
 
 ---
 
 ## US Market Information
 
-Molindone is not currently marketed in Taiwan or the US (market status: unmarketed; 0 licenses on file). No NDA/authorization records are available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA090453 | Molindone Hydrochloride (Epic Pharma, LLC) | Tablet (oral) | Not stated in the record |
+
+The pack contains three identical records for this authorization, shown here once.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. TFDA warning/contraindication data is currently unavailable (flagged as a Blocking data gap — DG001), which prevents a complete S1 safety review.
+Please refer to the package insert for safety information.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Hold (Research Question)**
+**Decision: Hold**
 
 **Rationale:**
-Evidence for molindone in bipolar mania rests on class-effect reasoning and non-drug-specific literature, not on any molindone-specific trial or study — evidence level L4, insufficient for a Go decision. The drug's unmarketed status and the Blocking-severity absence of TFDA warning/contraindication data (DG001) mean a safety initial screen (S1) cannot yet be completed.
+The prediction rests only on a knowledge-graph score. It has no trials, no molindone-specific literature, and no credible mechanism linking D2 antagonism to inherited retinal degeneration. The package insert warnings and mechanism of action are still missing, so safety screening cannot start.
 
 **To proceed, the following is needed:**
-- TFDA package insert / warnings and contraindications data (resolve DG001, currently Blocking)
-- Verified mechanism of action documentation from DrugBank (resolve DG002)
-- Molindone-specific preclinical or clinical evidence in bipolar mania, since current support is class-level only
-- Regulatory feasibility assessment given unmarketed status in Taiwan/US
+- The package insert (warnings, contraindications, approved indication) for ANDA090453
+- Mechanism of action data from DrugBank
+- A mechanistic rationale or preclinical data linking molindone to retinal disease; without these, deprioritize this indication
+- **Alternative lead:** the pack ranks *manic bipolar affective disorder* (score 99.984%) as more plausible through an antipsychotic class effect, at evidence level L4. It still lacks any molindone-specific trial. Neuroleptic malignant syndrome history and metabolic risk are safety considerations.
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

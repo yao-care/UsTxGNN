@@ -29,80 +29,65 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Brolucizumab: From Ophthalmic Anti-VEGF Use to Mitochondrial Oxidative Phosphorylation Disorder
+# Brolucizumab: From Intravitreal Anti-VEGF Therapy to Mitochondrial Oxidative Phosphorylation Disorder (Nuclear DNA Anomalies)
 
 ## One-Sentence Summary
 
-Brolucizumab is a humanized anti-VEGF-A single-chain antibody fragment (scFv) formulated as an intravitreal injection, used for the treatment of ophthalmic neovascular diseases (wet AMD and diabetic macular edema).
-The TxGNN model predicts it may be effective for **Mitochondrial Oxidative Phosphorylation Disorder Due to Nuclear DNA Anomalies**,
-however **no clinical trials or publications** currently support this direction, and the mechanistic plausibility is rated as extremely low.
-
----
+Brolucizumab is an anti-VEGF-A single-chain antibody fragment given by injection into the eye, marketed in the US as BEOVU.
+The TxGNN model predicts it may be effective for **mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies**.
+However, there are **0 clinical trials** and **0 publications** supporting this prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Ophthalmic neovascular diseases (wet AMD / diabetic macular edema) via intravitreal anti-VEGF injection |
-| Predicted New Indication | Mitochondrial Oxidative Phosphorylation Disorder Due to Nuclear DNA Anomalies |
+|------|------|
+| Predicted New Indication | Mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies |
 | TxGNN Prediction Score | 99.67% |
-| Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 (BLA761125) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the regulatory data on file. Based on context embedded in the Evidence Pack, Brolucizumab inhibits VEGF-A and is delivered as an intravitreal injection with very low systemic exposure (Cmax <1 ng/mL). Its established clinical role is in ocular angiogenesis — specifically the abnormal subretinal and choroidal neovascularization that drives vision loss in wet AMD and DME.
+Currently, detailed mechanism of action data is not available in the input. Brolucizumab is known to block VEGF-A, a signal that drives new blood vessel growth and vascular leakage, and it is delivered directly into the eye. The approved indication text was also not included in the US regulatory record provided.
 
-Mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies is a rare, genetically defined disease caused by mutations in nuclear-encoded mitochondrial genes, resulting in impaired respiratory chain function and cellular energy failure. The pathophysiology is fundamentally metabolic and genetic in origin, with no established relationship to VEGF-mediated angiogenesis.
+The review found **no plausible mechanistic link** between VEGF-A blockade and this predicted disease. Mitochondrial oxidative phosphorylation disorders caused by nuclear DNA anomalies are inherited defects in cellular energy production. Nothing in the available information connects them to VEGF-A signaling.
 
-**The mechanistic link is extremely weak.** VEGF-A inhibition has no known capacity to correct nuclear DNA mutations or restore mitochondrial respiratory complex activity. The TxGNN knowledge graph may have connected these two entities through shared intermediate disease nodes (e.g., shared metabolic or vascular co-morbidity nodes) rather than a true biological pathway. This prediction is most likely a structural artifact of the graph topology and should not be interpreted as a biological signal. No clinical or preclinical evidence exists to support pursuing this hypothesis at this time.
-
----
+The high score of 0.997 is a graph-based output only. A high score does not by itself indicate real therapeutic potential. Because the intravitreal route also limits whole-body exposure, the prediction is hard to justify without new supporting evidence.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## US Market Information
 
-## Taiwan Market Information
-
-Brolucizumab currently holds no drug licenses in Taiwan and is not marketed domestically. Regulatory approval and market entry would require a full NDA submission to the Taiwan FDA.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| BLA761125 | BEOVU (Novartis Pharmaceuticals Corporation) | Injection, solution | Not listed in the provided data |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-> **Note:** Taiwan regulatory labeling (包裝仿單) data was not retrieved in this Evidence Pack cycle. Full safety assessment — including warnings, contraindications, and special population precautions — cannot be completed until the TFDA product insert is parsed (Data Gap DG001, severity: Blocking).
-
----
+Please refer to the package insert for safety information. No drug interactions were found in the queried data.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Despite a high TxGNN computational score (99.67%), there is no credible mechanistic basis connecting VEGF-A inhibition with mitochondrial nuclear DNA disorders. The intravitreal-only route of administration results in negligible systemic exposure, making systemic drug delivery to affected tissues physiologically implausible. With zero supporting clinical trials or publications (L5 evidence), this prediction does not meet the threshold for advancing to further evaluation.
+The prediction has no clinical trials, no literature, and no plausible mechanistic link, so the evidence level is L5. The intravitreal route further limits the drug's use for a systemic metabolic disease. The three other predictions for this drug (esophageal varices with and without bleeding, and exocrine pancreatic insufficiency) also have no supporting evidence and are on Hold.
 
 **To proceed, the following is needed:**
+- Package insert warnings and contraindications, currently missing and blocking safety screening
+- Mechanism of action and approved indications from DrugBank or the label
+- Preclinical evidence linking VEGF-A blockade to mitochondrial oxidative phosphorylation defects
+- Route compatibility assessment, since a systemic disease would need more than intravitreal delivery
 
-- Identification of a plausible mechanistic bridge between VEGF-A inhibition and mitochondrial respiratory chain dysfunction (e.g., evidence involving mitophagy regulation, reactive oxygen species modulation, or vascular supply deficits in affected tissues)
-- Preclinical in vitro or in vivo data demonstrating any effect of anti-VEGF agents in mitochondrial disease models
-- A viable systemic delivery strategy, as the existing intravitreal formulation is pharmacokinetically unsuitable for treating a systemic mitochondrial disease
-- Resolution of Data Gap DG001 (TFDA package insert) before any safety assessment can be initiated
-- Resolution of Data Gap DG002 (full MOA characterization from DrugBank) to enable rigorous mechanistic analysis
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

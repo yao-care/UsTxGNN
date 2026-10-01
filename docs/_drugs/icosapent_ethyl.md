@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Icosapent Ethyl
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 786
-evidence_level: L5
+evidence_level: L4
 indication_count: 1
 ---
 
 # Icosapent Ethyl
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **1** 
+Evidence Level: **L4** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,62 +29,91 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Icosapent Ethyl: From Undocumented Original Indication to Hemoglobinopathy
+# Icosapent Ethyl: From an Unrecorded Original Indication to Hemoglobinopathy
 
 ## One-Sentence Summary
 
-Icosapent ethyl (DB08887) has no original indication or licensing record in the current evidence pack, and the drug is marked as **not marketed** in this jurisdiction. The TxGNN model predicts potential efficacy for **Hemoglobinopathy**, but this direction is currently supported by only **1 preclinical publication** (studying a structurally related compound, not icosapent ethyl itself) and **no clinical trials**.
+Icosapent ethyl is a purified omega-3 fatty acid (EPA ethyl ester) that is marketed in the United States, but the Evidence Pack does not record its original indication.
+The TxGNN model predicts it may be useful for **hemoglobinopathy**, with **0 clinical trials** and **1 publication** currently supporting this direction.
+That publication is a mouse study of a different omega-3 compound, so the evidence is weak.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented — no license record found in evidence pack |
+| Original Indication | Not recorded in the Evidence Pack |
 | Predicted New Indication | Hemoglobinopathy |
 | TxGNN Prediction Score | 99.09% |
-| Evidence Level | L5 |
-| US Market Status | Not Marketed (Not marketed) |
-| Number of NDAs | 0 |
+| Evidence Level | L4 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (the licenses listed are ANDAs) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not on file (flagged as a High-severity data gap, DG002). Based on available rationale data, icosapent ethyl is a purified ethyl ester of EPA (eicosapentaenoic acid), with known pharmacologic effects including anti-inflammatory activity, antithrombotic activity, red blood cell membrane lipid stabilization, and antioxidant activity.
+Currently, detailed mechanism of action data is not available. Icosapent ethyl is a purified EPA ethyl ester, an omega-3 fatty acid. Its original indication is not recorded in this dataset, so the link between the original and new indication cannot be assessed directly.
 
-The only supporting literature discusses **epeleuton**, a synthetic ω-3 fatty acid analog — not icosapent ethyl itself — which reduced hypoxia/reperfusion stress in a mouse model of sickle cell disease (a hemoglobinopathy). The theoretical link is that EPA-class compounds stabilize red blood cell membranes and reduce oxidative stress, which is mechanistically plausible for hemoglobinopathy pathophysiology (membrane fragility, vaso-occlusion, hypoxia/reperfusion injury). However, this is an **analogical extrapolation from a structurally related molecule, not direct evidence on icosapent ethyl**, and should be weighted accordingly.
+The only support is indirect. Omega-3 fatty acids may reduce inflammation, oxidative stress and vaso-occlusive injury, which are relevant to hemoglobinopathies such as sickle cell disease. In the one retrieved paper, epeleuton, a different synthetic omega-3 fatty acid, reduced hypoxia/reperfusion stress in a mouse model. The title is truncated, so the model is presumably sickle cell disease, but the data do not confirm this.
 
-Because no original indication is documented for icosapent ethyl in this evidence pack, a direct comparison between original and new indication cannot be made at this time (similarity assessment marked "pending").
+This has not been shown for icosapent ethyl, and the epeleuton results cannot be assumed to transfer to it. The TxGNN score is a knowledge-graph prediction, not clinical evidence.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [38105727](https://pubmed.ncbi.nlm.nih.gov/38105727/) | 2024 | Animal Model (Preclinical) | Haematologica | Epeleuton, a synthetic ω-3 fatty acid analog (structurally related to icosapent ethyl but not the same compound), reduced hypoxia/reperfusion-induced inflammatory vasculopathy in a mouse model of sickle cell disease. |
+| [38105727](https://pubmed.ncbi.nlm.nih.gov/38105727/) | 2024 | Preclinical animal study | Haematologica | Epeleuton, a different synthetic omega-3 fatty acid, reduced hypoxia/reperfusion stress in a mouse model. It was proposed as a way to target inflammatory vasculopathy. The abstract in the pack is truncated. |
+
+---
 
 ## US Market Information
 
-No licenses on file. The evidence pack indicates the drug is **not marketed** (Not marketed) in this jurisdiction, with 0 total license records.
+The Evidence Pack lists no approved indication text for these products.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA209525 | Icosapent Ethyl | Capsule, liquid filled | AvKARE |
+| ANDA209457 | Icosapent Ethyl | Capsule | Hikma Pharmaceuticals USA Inc. |
+| ANDA209437 | Icosapent Ethyl | Capsule | Apotex Corp |
+| ANDA209499 | Icosapent Ethyl | Capsule | Dr. Reddy's Laboratories, Inc. |
+
+All listed forms are oral. Of the 20 authorizations in total, the pack shows only these four distinct ones.
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Note: TFDA label warnings/contraindications are flagged as a **Blocking** data gap (DG001) — safety data must be obtained before this candidate can enter initial safety screening (S1).
+Please refer to the package insert for safety information.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Evidence level is L5 (model prediction only) — the sole supporting publication studies a related but distinct compound (epeleuton) in an animal model, not icosapent ethyl in humans, and no clinical trials exist for this drug-disease pair.
+The prediction rests on a high model score and one preclinical paper about a different compound. There are no clinical trials, no mechanism data and no recorded original indication. This is a research question, not yet a development candidate.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (DG001, Blocking) — required before S1 safety screening
-- Confirmed mechanism of action for icosapent ethyl itself (DG002, High priority)
-- Direct preclinical or clinical evidence for icosapent ethyl (not the analog epeleuton) in hemoglobinopathy models
-- Clarification of original approved indication and licensing status, since none is currently on file
+- Package insert warnings and contraindications, which are required for safety screening
+- Mechanism of action data for icosapent ethyl (for example, from DrugBank)
+- The original approved indication, to define the relationship to the new indication
+- Drug-specific evidence, such as preclinical studies of EPA or icosapent ethyl in sickle cell disease or other hemoglobinopathies
+- Confirmation of which hemoglobinopathy the paper studied, since the title is truncated
+- A search for related trials in other registries, since none were found
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

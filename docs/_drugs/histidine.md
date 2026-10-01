@@ -29,59 +29,62 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Histidine: From Essential Amino Acid Supplementation to Gastroparesis
+# Histidine: From No Recorded Indication to Gastroparesis
 
 ## One-Sentence Summary
 
-Histidine (DrugBank DB00117) is an essential amino acid; the evidence pack contains no recorded approved indication and no market license in the reference dataset. The TxGNN model predicts a possible link to **Gastroparesis**, but this prediction is currently supported by **0 clinical trials** and **0 publications** — it rests solely on a theoretical pharmacological argument.
+Histidine is an amino acid product. The supplied data record no approved indication for it.
+The TxGNN model predicts it may be effective for **gastroparesis**, but **0 clinical trials** and **0 publications** currently support this prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in this dataset (histidine is an essential amino acid; no approved-indication text or license data is available) |
+| Original Indication | Not recorded (the only license lists no indication text) |
 | Predicted New Indication | Gastroparesis |
 | TxGNN Prediction Score | 99.55% |
-| Evidence Level | L5 |
-| US Market Status | Not marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for histidine is not available in this dataset. Based on known pharmacology, histidine is the metabolic precursor of histamine — it is converted to histamine via the enzyme histidine decarboxylase (HDC). Histamine, acting through H2 receptors, is known to modulate gastric acid secretion and gastrointestinal smooth-muscle motility.
+Currently, detailed mechanism of action data is not available. Histidine is a marketed amino acid product, but no original indication is on file. The prediction therefore cannot be checked against known pharmacology.
 
-The repurposing hypothesis therefore proposes an indirect link: since gastroparesis is a disorder of gastric motility, and histamine signaling participates in regulating that motility, increased histidine (and downstream histamine) availability is theorized to have some relevance to gastroparesis. However, this is a purely pharmacological inference — TxGNN's score is high (0.9955), but no clinical trial or literature evidence currently exists to test, support, or refute this specific drug-disease relationship.
-
-This should be read as a hypothesis-generating signal only, not as evidence of efficacy.
+The TxGNN score is very high, but no trials or publications support it, and no mechanistic link to gastroparesis can be established from the supplied data. The score reflects a knowledge-graph association only. Until a plausible mechanism and human data are identified, this should be treated as a hypothesis, not a finding.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
+
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Not available in source data | L-Histidine High (Professional Complementary Health Formulas) | Liquid | Not stated |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-(Note: TFDA label warnings/contraindications and DDI data are currently missing from this evidence pack — this is flagged as a blocking data gap for safety evaluation, see "To proceed" below.)
+Please refer to the package insert for safety information. No drug interactions were found in the queried data.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-- The prediction has the highest TxGNN score among candidates for this drug (99.55%) but zero supporting clinical trials or literature (Evidence Level L5) — it is a computational hypothesis only, with no human or preclinical data specific to gastroparesis.
-- The drug is not currently marketed and has no active license in this dataset, and core safety data (TFDA warnings, contraindications) are marked as a blocking gap, so it cannot yet pass a basic safety screen.
+The prediction rests only on a high model score (Evidence Level L5). No trials, no literature, no mechanism data and no original indication are available to support it.
 
 **To proceed, the following is needed:**
-- TFDA label data (warnings, contraindications) — currently a blocking gap for safety review
-- Confirmed mechanism-of-action data via DrugBank API
-- Preclinical or observational evidence directly testing histidine/histamine pathway modulation in gastroparesis, since none currently exists
-- Note for context: this evidence pack also contains a second, lower-ranked prediction (sclerosing cholangitis, TxGNN score 99.27%, Evidence Level L4) supported by 8 mechanistic publications on histamine/mast-cell signaling in biliary fibrosis. That literature suggests histamine pathway activation *drives* biliary injury in that disease — a directionally *opposite* implication (i.e., increasing histidine/histamine could worsen rather than treat a histamine-driven pathology). This raises a caution flag worth investigating before advancing any histidine-repurposing hypothesis further, including for gastroparesis.
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data (for example from DrugBank) and a defined original indication
+- A literature and trial search specific to histidine and gastroparesis, including any human evidence
+- A review of the mechanistic plausibility of the association
+- A verified license number and indication text for the marketed product
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

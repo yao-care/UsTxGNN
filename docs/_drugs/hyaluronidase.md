@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Hyaluronidase
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 775
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 ---
 
 # Hyaluronidase
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,56 +29,87 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Hyaluronidase: From an Undocumented Original Indication to Esotropia
+# Hyaluronidase: From Drug-Dispersion Adjuvant to Esotropia
 
 ## One-Sentence Summary
 
-Hyaluronidase (DB14740) is not currently marketed in the United States, and both its original approved indication and mechanism of action are undocumented in this evidence pack. The TxGNN model's top-ranked prediction is **Esotropia**, but the only supporting literature is a case report describing diplopia/strabismus as a complication of hyaluronidase-containing local anesthesia — not treatment evidence — so this is a **model-only signal with no clinical trial support**.
+Hyaluronidase is an enzyme marketed in the US in several injectable products, and its approved indication text was not supplied in the data.
+The TxGNN model predicts it may be effective for **esotropia**, but there are **0 clinical trials** and only **1 publication** behind this prediction.
+That publication is a case series on strabismus as a complication after cataract surgery, so it suggests an adverse-event association rather than a treatment effect.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on file — no approved indication text available (US: not marketed, 0 licenses); MOA also undocumented |
 | Predicted New Indication | Esotropia |
 | TxGNN Prediction Score | 99.89% |
-| Evidence Level | L4 |
-| US Market Status | ✗ Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L4 (no therapeutic evidence; the only paper is a case series on a procedural complication) |
+| US Market Status | ✓ Marketed |
+| Number of Licenses | 16 (all listed as BLAs) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for hyaluronidase is not available in this evidence pack (data gap DG002, High severity), and no original indication is on file (US market status: not marketed, 0 licenses). Without this baseline, no pharmacological rationale can be constructed connecting hyaluronidase to esotropia treatment.
+Currently, detailed mechanism of action data is not available for this drug. Hyaluronidase is generally known as an enzyme that breaks down hyaluronan. It is used to help other injected drugs spread and be absorbed, for example in anesthetic blocks and in subcutaneous products such as Darzalex Faspro and Hylenex. No approved indication text was supplied to compare against esotropia.
 
-More importantly, the single literature item supporting this prediction (PMID 16934027) is not therapeutic evidence at all — it is a case report of diplopia and strabismus occurring as a **complication of retrobulbar local anesthesia** in cataract surgery, where hyaluronidase was used as an anesthetic-diffusion adjuvant, not as a treatment for ocular misalignment. The model's own rationale flags this explicitly: the literature describes a potential adverse-event association, and the directionality runs opposite to a "treatment" claim. This prediction should be treated as a statistical artifact of the knowledge graph rather than a mechanistically grounded hypothesis.
+On the evidence supplied, the prediction is **not well supported**. The only linked paper (PMID 16934027) reports persistent diplopia and strabismus after cataract surgery under local anesthesia. Hyaluronidase is commonly added to such anesthetic blocks. This points to a possible procedural or adverse-event association, not a therapeutic benefit. No plausible mechanism was identified by which hyaluronidase would treat esotropia. The high TxGNN score is most likely an artifact of the knowledge graph.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [16934027](https://pubmed.ncbi.nlm.nih.gov/16934027/) | 2006 | Case report | Binocular Vision & Strabismus Quarterly | Reports diplopia/strabismus as a complication following retrobulbar local anesthesia (with hyaluronidase as diffusion adjuvant) in cataract surgery — an adverse-event association, not treatment evidence for esotropia |
+| [16934027](https://pubmed.ncbi.nlm.nih.gov/16934027/) | 2006 | Case report/series | Binocular Vision & Strabismus Quarterly | Describes persistent diplopia and strabismus as a rare complication of local (retrobulbar) anesthesia for cataract surgery, and the treatments used. It does not test hyaluronidase as a treatment. |
+
+---
+
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form |
+|---------|------|------|
+| BLA021665 | AMPHADASE (Amphastar Pharmaceuticals) | Injection |
+| BLA021640 | VITRASE (Bausch & Lomb) | Injection, solution |
+| BLA021859 | HYALURONIDASE (HF Acquisition Co, DBA HealthFirst) | Injection, solution |
+| BLA021859 | HYLENEX Recombinant (Antares Pharma) | Injection, solution |
+| BLA761145 | Darzalex Faspro (Janssen Biotech) | Injection |
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and DDI data are all currently unavailable — data gap DG001, Blocking severity, meaning this candidate cannot yet pass an initial safety screen.)
+- **Drug Interactions**: No interactions were found in the queried database.
+- **Allergy**: A 2024 review (PMID 37145319) describes allergic complications of hyaluronidase injection, which is frequently misdiagnosed. It covers risk factors and management recommendations.
+
+Please refer to the package insert for warnings and contraindications.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The drug-level foundation is missing (no MOA, no original indication, no US labeling/warnings — DG001 is Blocking), and the top-ranked predicted indication's only evidence is a case report describing an adverse reaction rather than a therapeutic effect. There is no clinical trial support and no plausible mechanistic link for esotropia.
+The prediction rests on the model score and one case series describing a complication, with no trials and no therapeutic mechanism. The evidence does not support moving this indication forward.
 
 **To proceed, the following is needed:**
-- TFDA/FDA labeling data — warnings and contraindications (DG001, Blocking)
-- Mechanism of action data via DrugBank API (DG002, High)
-- Original indication documentation for hyaluronidase
-- If pursuing this candidate further, reconsider which predicted indication to prioritize: within the same evidence pack, **diabetic retinopathy** (rank 6) has L1 evidence from two completed Phase 3 RCTs (though the ophthalmic-injection indication was ultimately not approved) and **severe nonproliferative diabetic retinopathy** (rank 3) has a supporting Phase 2 trial (L2) — both are mechanistically coherent (enzymatic vitreolysis) and substantially better evidenced than esotropia
+- Package insert warnings and contraindications
+- Mechanism of action data
+- Any prospective clinical evidence of hyaluronidase treating esotropia (none is currently identified)
+
+**Note on other candidates:** In the same prediction list, **diabetic retinopathy** (rank 6) has much stronger support. It has two completed Phase 3 trials of intravitreal Vitrase (NCT00198510, n=750; NCT00198497, n=510), but their results were not supplied. The target condition is likely vitreous hemorrhage rather than retinopathy progression. This candidate should be evaluated separately once the outcomes and regulatory status are verified.
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

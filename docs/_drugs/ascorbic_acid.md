@@ -29,78 +29,67 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ascorbic Acid: From Vitamin C Deficiency to Non-Syndromic Esophageal Malformation
+# Ascorbic Acid: From Vitamin C Deficiency to Non-syndromic Esophageal Malformation
 
 ## One-Sentence Summary
 
-Ascorbic acid (Vitamin C) is an essential water-soluble nutrient classically used to prevent and treat vitamin C deficiency (scurvy), supporting collagen synthesis, immune function, and antioxidant defense.
-The TxGNN model predicts it may be effective for **Non-Syndromic Esophageal Malformation**,
-with **0 clinical trials** and **0 publications** currently supporting this specific direction.
-
----
+Ascorbic acid (vitamin C) is an essential vitamin and antioxidant, and its injectable forms are marketed in the US. The evidence pack does not list an original indication, so "vitamin C deficiency" is assumed here.
+The TxGNN model predicts it may be useful for **non-syndromic esophageal malformation**, but there are **0 clinical trials** and **0 publications** behind this prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Vitamin C deficiency (scurvy) prevention and treatment |
-| Predicted New Indication | Non-Syndromic Esophageal Malformation |
+|------|------|
+| Original Indication | Not stated in the evidence pack (label text is empty for all listed products) |
+| Predicted New Indication | Non-syndromic esophageal malformation |
 | TxGNN Prediction Score | 99.96% |
 | Evidence Level | L5 |
-| US Market Status | No US approval records found in dataset |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the system. Based on known information, ascorbic acid is an essential cofactor for prolyl hydroxylase and lysyl hydroxylase — the enzymes responsible for hydroxylating proline and lysine residues during collagen synthesis. Without adequate Vitamin C, these enzymes cannot function, collagen triple helices become unstable, and connective tissues throughout the body deteriorate. This is the molecular basis of scurvy.
+Currently, detailed mechanism of action data is not available. Ascorbic acid is known as an antioxidant and as a cofactor for collagen-forming enzymes, but the pack does not document this, and it does not explain the predicted indication.
 
-Non-syndromic esophageal malformation is a rare congenital structural defect of the esophagus (most often esophageal atresia ± tracheoesophageal fistula). Normal esophageal morphogenesis during embryogenesis requires intact collagen scaffolding for epithelial-mesenchymal patterning. In theory, severe gestational Vitamin C deficiency could impair collagen deposition during this critical developmental window and contribute to structural esophageal anomalies.
-
-However, this mechanistic link is highly speculative. No preclinical embryology studies, animal models, or human data have tested this hypothesis. The extremely high TxGNN score (99.96%, rank 1,513 out of all predictions) most plausibly reflects broad knowledge-graph connectivity between the "ascorbic acid" node and esophageal-structure nodes via collagen/connective-tissue pathways — a topology artifact rather than validated therapeutic signal. This prediction should not be interpreted as clinical repurposing evidence.
-
----
+The prediction is **not mechanistically supported**. Non-syndromic esophageal malformation is a congenital structural defect of the esophagus. An antioxidant or cofactor vitamin is not expected to correct such a defect. The 99.96% score is a model output only, and no trial or publication supports it.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-No US NDA-level authorization records were found for ascorbic acid in this dataset.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| M001 | Super vitamin C serum | Liquid | Not listed |
+| ANDA217131 | Ascorbic Acid (Fresenius Kabi USA) | Injection | Not listed |
+| No number recorded | Vitamin C 10 % (Puretek) | Liquid | Not listed |
+| No number recorded | Vitamin C 15 % (Puretek) | Liquid | Not listed |
+| NDA209112 | Ascor (McGuff Pharmaceuticals) | Injection | Not listed |
 
-> **Note:** Ascorbic acid (Vitamin C) is one of the most widely used nutrients globally and is available in numerous OTC supplement products and compounded injectable formulations. The absence of records in this dataset likely reflects a data gap in the NDA query rather than a genuine non-marketed status.
-
----
+The 20 licenses cover oral, injectable, topical and other forms.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Non-syndromic esophageal malformation is a rare congenital structural defect with zero clinical or preclinical evidence linking ascorbic acid to its prevention or treatment. The high TxGNN score reflects indirect knowledge-graph topology (collagen synthesis → connective tissue → esophageal structure), not a validated therapeutic mechanism, and should not trigger further development resources at this stage.
+The prediction has no supporting trials or literature, and there is no plausible mechanism by which ascorbic acid would treat a congenital esophageal malformation. It should not advance beyond model screening.
 
 **To proceed, the following is needed:**
-- Preclinical embryology studies testing whether gestational Vitamin C deficiency alters esophageal morphogenesis in animal models
-- Epidemiological data examining maternal Vitamin C status and rates of congenital esophageal anomalies
-- Mechanistic studies confirming collagen-pathway involvement in esophageal atresia/malformation pathogenesis
-- Resolution of MOA data gap (DrugBank API query recommended) and US market/label data gap (NDA query or OTC monograph review)
+- Package insert warnings and contraindications. This is currently a blocking gap for safety screening.
+- Mechanism of action data, for example from DrugBank.
+- Reconciliation of the approved indications, since the label text is empty for every product listed.
+- Review of the other candidates in the same pack. "Vitamin deficiency disorder" (the only candidate at stage S2, marked "Research Question") is probably an established use rather than true repurposing. "Esophageal disease" has mixed to negative signals, including rat data showing enhanced carcinogenesis and reports of pill-induced esophagitis.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

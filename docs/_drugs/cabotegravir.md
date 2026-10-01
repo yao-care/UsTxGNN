@@ -33,80 +33,63 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 ## One-Sentence Summary
 
-Cabotegravir is an Integrase Strand Transfer Inhibitor (INSTI) class antiretroviral agent, approved in multiple countries (e.g., US, EU) for HIV-1 treatment and pre-exposure prophylaxis (PrEP), but currently **not marketed in Taiwan**.
-The TxGNN model predicts it may be effective for **Rheumatoid Arthritis**,
-with **0 clinical trials** and **0 publications** currently supporting this direction — this prediction remains at the pure computational hypothesis stage.
-
----
+Cabotegravir is an HIV-1 integrase strand transfer inhibitor. It is marketed in the US as an oral film-coated tablet (Vocabria), and the provided data do not list its approved indication text.
+The TxGNN model predicts it may be effective for **rheumatoid arthritis**, but **0 clinical trials** and **0 publications** currently support this direction.
+The prediction is a model output only, so it should be treated as a hypothesis, not a lead.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | HIV-1 infection (treatment & PrEP); no Taiwan TFDA license on record |
-| Predicted New Indication | Rheumatoid Arthritis |
+|------|------|
+| Original Indication | Not listed in the provided data (from general pharmacology: HIV-1 infection) |
+| Predicted New Indication | Rheumatoid arthritis |
 | TxGNN Prediction Score | 99.45% |
 | Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not marketed |
-| Number of Taiwan Licenses | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the Evidence Pack. Based on publicly known information, Cabotegravir belongs to the Integrase Strand Transfer Inhibitor (INSTI) class of antiretroviral drugs. It works by blocking the HIV-1 integrase enzyme from inserting viral DNA into the host cell genome, thereby halting viral replication. Its long-acting injectable formulation (Cabenuva, combined with rilpivirine) has been approved in the US and EU.
+Currently, detailed mechanism of action data is not available in the dataset. From general pharmacology, cabotegravir is an HIV-1 integrase strand transfer inhibitor, an antiviral that blocks viral DNA integration into the host genome. It has no known immunomodulatory activity relevant to rheumatoid arthritis.
 
-The proposed mechanistic bridge to rheumatoid arthritis (RA) rests on the **endogenous retroviral element (ERV) hypothesis**: the human genome harbors a large number of endogenous retroviral sequences (ERV/LINE-1), some of which retain residual integrase activity. Certain ERV elements have been hypothesized to contribute to autoimmune conditions — including RA — by generating self-antigens and triggering interferon signaling. In theory, an INSTI such as Cabotegravir could suppress ERV transposition activity, thereby reducing autoantigen exposure and attenuating inflammatory cascades.
+No established link exists between the original use and the predicted one. Rheumatoid arthritis is a chronic autoimmune joint disease, and nothing in the data connects integrase inhibition to its inflammatory pathways. The high score (0.995) reflects a knowledge-graph pattern, not biological or clinical evidence, and should not be read as a sign of efficacy.
 
-However, this mechanistic hypothesis remains entirely speculative. There is currently no in vitro, animal model, or clinical data specifically linking Cabotegravir to RA pathology. The TxGNN high score most likely reflects network topology within the knowledge graph (shared disease-node neighbors) rather than validated mechanistic similarity. The remaining four predicted indications (sclerosing cholangitis, bronchitis, colobomatous microphthalmia-rhizomelic dysplasia syndrome, severe nonproliferative diabetic retinopathy) similarly lack any supporting evidence and are likely network artifacts.
-
----
+The other top-ranked predictions have the same weakness. They are sclerosing cholangitis (99.22%), bronchitis (99.19%), colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.16%) and severe nonproliferative diabetic retinopathy (99.03%). All are L5 with no trials or literature and no plausible mechanistic link. The rare developmental disorder in particular is likely a knowledge-graph artifact.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Cabotegravir in rheumatoid arthritis, sclerosing cholangitis, bronchitis, colobomatous microphthalmia-rhizomelic dysplasia syndrome, or severe nonproliferative diabetic retinopathy.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for any of the five predicted indications.
+Currently no related literature available.
 
----
+## US Market Information
 
-## Taiwan Market Information
-
-Cabotegravir has no Taiwan TFDA marketing authorizations on record. The drug is therefore not currently available through official regulatory channels in Taiwan.
-
-For reference, Cabotegravir is marketed internationally under the following brand names:
-- **Vocabria** (oral tablet, GlaxoSmithKline/ViiV Healthcare) — US/EU approved for HIV-1 treatment
-- **Cabenuva** (long-acting injectable, combined with rilpivirine) — US/EU approved for HIV-1 treatment
-- **Apretude** (long-acting injectable) — US approved for HIV-1 PrEP
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA 212887 | Vocabria (ViiV Healthcare Company) | Tablet, film coated (oral) | Not listed in the provided data |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No Taiwan TFDA warnings, contraindications, or drug interaction data were retrievable for this drug at the time of this report.
-
----
+Please refer to the package insert for safety information. No drug interaction records were found in the queried data.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All five predicted indications score at Evidence Level L5 — pure TxGNN model output with zero supporting clinical trials or literature. The most mechanistically plausible prediction (rheumatoid arthritis via the ERV/INSTI hypothesis) remains entirely theoretical and has not been tested in any experimental system. Proceeding to any development activity without foundational evidence would not be scientifically or commercially justifiable.
+The prediction rests only on a knowledge-graph score. There are no trials or publications, no plausible mechanistic link, and route compatibility has not been assessed. Blocking safety information is also missing.
 
 **To proceed, the following is needed:**
+- The FDA package insert (warnings, contraindications, approved indication), which is required before any safety screening
+- Mechanism of action data from DrugBank
+- A mechanistic rationale connecting integrase inhibition to rheumatoid arthritis, or preclinical evidence supporting it
+- A literature and trial search for cabotegravir in rheumatoid arthritis, to confirm that no evidence exists
+- An assessment of route compatibility (oral and long-acting formulations against the needs of the predicted indication)
 
-- **MOA data verification**: Retrieve full Cabotegravir pharmacology from DrugBank API or primary literature to confirm the ERV-INSTI hypothesis is even biochemically plausible
-- **Preclinical mechanistic studies**: In vitro or animal model data demonstrating that Cabotegravir modulates ERV activity, interferon signaling, or RA-relevant inflammatory pathways (e.g., TNF-α, IL-6, anti-CCP)
-- **Comparative ERV literature review**: Survey existing INSTI class studies (dolutegravir, bictegravir) for any incidental autoimmune or inflammatory findings that could inform hypothesis generation
-- **Taiwan regulatory pathway assessment**: Since Cabotegravir is not marketed in Taiwan, any local repurposing study would need to address import, compassionate use, or IND filing frameworks
-- **Safety data acquisition**: Obtain Taiwan TFDA package insert equivalent and DDI profile before any safety evaluation can begin
-- **Evidence re-evaluation trigger**: If ≥1 peer-reviewed publication or registered clinical trial emerges linking any INSTI to RA or autoimmune outcomes, escalate to S1 safety pre-screening
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

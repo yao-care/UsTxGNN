@@ -29,13 +29,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Fedratinib: From [Original Indication — Data Gap] to Benign PEComa
+# Fedratinib: From Myelofibrosis to Benign PEComa
 
 ## One-Sentence Summary
 
-> Fedratinib (DrugBank ID DB12500) is a JAK2-selective kinase inhibitor, but its original approved indication could not be verified in this Evidence Pack due to a blocking data gap (no TFDA label data retrieved).
-> The TxGNN model predicts it may be effective for **Benign PEComa**, with a prediction score of **99.84%**,
-> but **no clinical trials and no literature** currently support this specific direction — the evidence pack itself flags the mechanistic link as unsupported.
+Fedratinib (brand name Inrebic) is an oral kinase inhibitor marketed in the US. It is generally known as a JAK2 inhibitor for myelofibrosis, though the supplied license data does not state the indication.
+The TxGNN model predicts it may be effective for **benign PEComa**, but there are **0 clinical trials** and **0 publications** supporting this direction, so it is a model prediction only.
 
 ---
 
@@ -43,23 +42,28 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — blocking data gap (TFDA label not yet retrieved, see Safety section) |
+| Original Indication | Myelofibrosis (from general knowledge; the supplied license data lists no approved indication text) |
 | Predicted New Indication | Benign PEComa |
 | TxGNN Prediction Score | 99.84% |
-| Evidence Level | L5 (model prediction only, no clinical/literature support) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism-of-action data for fedratinib is not available in this Evidence Pack (flagged as a High-severity data gap, DG002). Based on the repurposing rationale text accompanying multiple predictions in this pack, fedratinib is consistently described as a **JAK2-selective kinase inhibitor**, which is the pharmacological basis TxGNN uses across all ten candidate indications.
+Detailed mechanism of action data is not available in the supplied data. Fedratinib is a kinase inhibitor, and the evidence pack refers to JAK2/FLT3 inhibition as its known targets.
 
-For the top-ranked candidate, **benign PEComa**, the model's own rationale explicitly states the opposite of a supporting mechanistic story: PEComa is driven by **TSC1/TSC2 mutations causing mTOR pathway hyperactivation**, a pathway with **no known direct relationship to JAK2 signaling**. The rationale text describes this prediction as lacking mechanistic plausibility and having no clinical evidence to date. The same pattern holds for the next several ranked candidates (lymphangiomyoma, uterine PEComa, dermatofibrosarcoma protuberans, rhabdoid tumor, familial rhabdoid tumor, FMF, lymphangioleiomyomatosis) — all are driven by mTOR, PDGFRB, SMARCB1-loss, or IL-1β pathways rather than JAK2.
+The link to the predicted disease is weak. PEComa biology centers on mTOR pathway activation (TSC1/TSC2 loss), and no direct connection to JAK2/FLT3 inhibition is established in the supplied data. The high score (99.84%) most likely reflects similarity in the knowledge graph rather than a validated mechanism. Any mechanistic link would be speculative.
 
-Notably, two lower-ranked candidates in this pack — **hemophagocytic syndrome associated with infection** (rank 8) and **malignancy-associated HLH** (rank 9) — have a stronger mechanistic case: HLH's cytokine storm (IFN-γ, IL-6, IL-10) signals through JAK-STAT, and the JAK1/2 inhibitor ruxolitinib already has clinical evidence (e.g., NCT03533104) in this setting. This represents a class-effect hypothesis rather than fedratinib-specific evidence, but is mechanistically more coherent than the top-ranked PEComa prediction.
+The top-ranked predictions show the same pattern:
+
+- **PEComa-family and mTOR-driven diseases** (lymphangiomyoma, uterine PEComa, lymphangioleiomyomatosis): mTOR inhibitors are the established approach, and nothing supplied links fedratinib to this pathway.
+- **Rhabdoid tumor, familial rhabdoid tumor and dermatofibrosarcoma protuberans:** these are driven by SMARCB1 loss or PDGFR signaling, with no documented link to the drug's targets.
+- **Hemophagocytic lymphohistiocytosis (HLH)** (infection-associated and malignancy-associated): these have the most plausible rationale, because JAK-STAT-driven cytokine storm makes JAK inhibition a reasonable hypothesis. They are labeled "Research Question", but still have no fedratinib-specific evidence. Their identical scores suggest a shared graph neighborhood rather than independent support.
+- **Familial Mediterranean fever:** a JAK-inhibitor rationale via cytokine signaling is conceivable but unsupported.
 
 ---
 
@@ -77,15 +81,27 @@ Currently no related literature available.
 
 ## US Market Information
 
-Fedratinib is currently **not marketed** in this jurisdiction (0 licenses/NDAs on file), so no authorization records are available to summarize.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA212327 | Inrebic (Celgene Corporation) | Capsule (oral) | Not listed in the supplied data |
+
+---
+
+## Cytotoxicity
+
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Targeted therapy (kinase inhibitor) |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | Please refer to the package insert warnings and precautions |
+| Handling Protection | Please refer to the package insert warnings and precautions |
 
 ---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-*(Key warnings, contraindications, and drug-drug interaction data are all marked as unresolved data gaps in this Evidence Pack — TFDA label retrieval is required (DG001, Blocking) before any safety review can proceed.)*
 
 ---
 
@@ -94,13 +110,15 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked predicted indication (benign PEComa) has an evidence level of L5 — a model score with no supporting clinical trials, literature, or plausible mechanistic pathway; the pack's own rationale text argues against biological plausibility. Combined with the absence of verified original-indication, MOA, and safety data, there is no basis to advance this candidate beyond model output at this time.
+The prediction is model-only (L5) with no clinical trials or literature. The mechanistic link between JAK2/FLT3 inhibition and mTOR-driven PEComa is speculative. Safety data and mechanism of action are also missing, which blocks safety screening.
 
 **To proceed, the following is needed:**
-- TFDA/FDA prescribing information (label warnings, contraindications) — currently a **blocking** gap (DG001)
-- Confirmed mechanism of action via DrugBank API query — currently a **High**-severity gap (DG002)
-- Verified original approved indication(s) for fedratinib
-- If pursuing further research, prioritize the HLH-related candidates (rank 8–9, evidence level L4) over benign PEComa, given their class-effect rationale (ruxolitinib precedent) versus PEComa's lack of any mechanistic or empirical support
+- The FDA package insert (warnings and contraindications), to allow safety screening
+- Detailed mechanism of action data (for example from DrugBank)
+- Preclinical or mechanistic evidence connecting fedratinib to PEComa biology, or a decision to prioritize the HLH-related predictions, which have a more plausible JAK-STAT rationale
+- A literature and trial search for class-level JAK inhibitor evidence, with evidence graded separately from fedratinib-specific data
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

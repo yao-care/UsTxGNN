@@ -29,54 +29,82 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Zinc Gluconate: From Zinc Deficiency Supplementation to Anemia of Prematurity
+# Zinc Gluconate: From Cold Remedy (Marketed Labeling) to Anemia of Prematurity
 
 ## One-Sentence Summary
 
-Zinc gluconate is a mineral compound most commonly used as a dietary/mineral supplement to correct zinc deficiency and support immune function; no formal approved-indication record is present in this evidence pack. The TxGNN model predicts potential effectiveness for **Anemia of Prematurity** with a very high confidence score, but this prediction is currently **not supported by any clinical trials or published literature**.
+Zinc gluconate is marketed in the US mainly as an over-the-counter zinc cold remedy (lozenge and tablet products). The TxGNN model predicts it may be effective for **anemia of prematurity** with a very high score, but there are currently **0 clinical trials** and **0 publications** supporting this specific prediction. The prediction rests on the model alone.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on file — no approved license or indication text available in the evidence pack (drug is unmarketed) |
-| Predicted New Indication | Anemia of Prematurity |
+| Original Indication | Not stated in the license data (product names suggest common cold remedies) |
+| Predicted New Indication | Anemia of prematurity |
 | TxGNN Prediction Score | 99.94% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap, DG002). Based on general pharmacological knowledge, zinc gluconate supplies bioavailable zinc and is typically used to correct zinc deficiency and support immune and wound-healing processes.
+Currently, detailed mechanism of action data is not available. Based on known information, zinc gluconate is a zinc salt sold in oral and lozenge products. The license records do not give an approved indication, so the original indication cannot be confirmed from this dataset.
 
-The proposed mechanistic link for this prediction is that zinc acts as a cofactor in several hematopoiesis-related enzymatic pathways, so zinc deficiency could theoretically worsen anemia. However, this link is **weak and largely theoretical**: anemia of prematurity is primarily driven by insufficient erythropoietin production and inadequate iron stores in preterm infants, not by zinc deficiency. No direct mechanistic, preclinical, or clinical data connecting zinc gluconate to this specific condition were found. The prediction should be treated as a hypothesis-generating model output rather than an evidence-backed candidate at this stage.
+Zinc plays a general role in heme synthesis and erythropoiesis, so a link to anemia in preterm infants is plausible. This is an inference only. No trials or publications in the dataset address it, and without MOA data the link cannot be verified. The high score reflects model output, not clinical evidence.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 Currently no related literature available.
 
+---
+
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Not listed | Zinc Cold Therapy (Better Living Brands LLC) | Chewable tablet | Not listed |
+| Not listed | Zinc Cold Therapy (Raritan Pharmaceuticals Inc) | Chewable tablet | Not listed |
+| Not listed | Zinc Cold Therapy (Cardinal Health) | Tablet | Not listed |
+| Not listed | CVS Health Cold Remedy (CVS Pharmacy, Inc) | Tablet | Not listed |
+| Not listed | TopCare Zinc Cold Remedy (Topco Associates LLC) | Tablet | Not listed |
+
+20 licenses are recorded in total; the five above are shown. Available forms are oral tablets, chewable tablets and lozenges.
+
+---
+
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high, but there is zero clinical trial or literature evidence for zinc gluconate in anemia of prematurity, and the underlying mechanism conflicts with the accepted pathophysiology of the condition (erythropoietin and iron deficiency, not zinc deficiency, are the primary drivers). This is a pure model-prediction candidate (L5) with no independent corroboration.
+The TxGNN score is very high (99.94%), but there are no clinical trials or publications for anemia of prematurity, so the evidence level is L5. Mechanism of action and safety data are also missing, so the prediction cannot be assessed further.
 
 **To proceed, the following is needed:**
-- Resolve blocking data gap DG001: TFDA label warnings/contraindications, required before any safety pre-screen (S1) can begin
-- Resolve data gap DG002: confirmed mechanism of action from DrugBank or primary literature
-- Targeted preclinical or mechanistic studies specifically linking zinc status/supplementation to erythropoiesis in preterm neonates
-- If mechanistic support emerges, dedicated clinical evidence (even observational) in the neonatal/preterm population before advancing beyond hypothesis stage
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data (for example from DrugBank)
+- Search for studies on zinc and anemia or erythropoiesis in preterm infants
+- Route and dose compatibility assessment for neonatal use, since current products are oral tablets and lozenges for general consumers
+
+**Other predicted indications:** The second-ranked prediction, "injury," reaches L4 (preclinical studies only). Those studies are mixed across tissues and species, and none shows clinical benefit of zinc gluconate for a defined injury type.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

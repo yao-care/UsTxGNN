@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Potassium Iodide
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 1070
-evidence_level: L5
+evidence_level: L4
 indication_count: 2
 ---
 
 # Potassium Iodide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **2** 
+Evidence Level: **L4** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Potassium Iodide: From an Undocumented Original Indication to Nasal Cavity Disease
+# Potassium Iodide: From Its Marketed Uses to Nasal Cavity Disease
 
 ## One-Sentence Summary
 
-> Potassium iodide (DB06715) does not currently have a documented original indication or mechanism of action in the available dataset.
-> The TxGNN model predicts it may be effective for **Nasal Cavity Disease**,
-> but this is currently supported only by **4 case-report-level publications** and **no registered clinical trials**.
+Potassium iodide is a marketed iodide salt sold in the US as solutions, tablets, and pellets, but the supplied regulatory data does not list its approved indications.
+The TxGNN model predicts it may be effective for **nasal cavity disease**, but there are **0 clinical trials** and only **4 case reports** (3 veterinary, 1 human).
+This is a computational prediction with very weak supporting evidence.
 
 ---
 
@@ -43,23 +43,23 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no license or indication data in current dataset |
-| Predicted New Indication | Nasal Cavity Disease |
+| Original Indication | Not specified in the supplied US regulatory data |
+| Predicted New Indication | Nasal cavity disease |
 | TxGNN Prediction Score | 99.95% |
-| Evidence Level | L4 (mechanism/case-report level, no clinical trials) |
-| US Market Status | ✗ Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L4 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for potassium iodide is not currently available in this dataset. Based on the supporting literature, potassium iodide (KI) has known antifungal and immunomodulatory properties, and has long been used clinically as a traditional treatment for cutaneous fungal infections such as sporotrichosis.
+Currently, detailed mechanism of action data is not available. Potassium iodide has a long history of empirical use, and the retrieved literature links it to treating fungal and fungus-like infections of the nose and face. These include pythiosis, aspergillosis, *Pseudallescheria boydii* infection, and nasofacial zygomycosis. Its mechanism in these conditions is not well defined. It may involve immunomodulatory or anti-inflammatory effects, but this cannot be verified from the supplied data.
 
-The identified case reports show that KI has been used — with apparent benefit — to treat fungal infections of the nasal cavity, including nasofacial zygomycosis, mycotic rhinitis (Aspergillus fumigatus), and pythiosis. The proposed mechanism relates to KI's antifungal activity and its ability to promote inflammatory clearance of the causative pathogen. However, this evidence base primarily supports a much narrower indication — **fungal infection of the nasal cavity** — rather than the broad TxGNN-predicted category of "nasal cavity disease." The mismatch between the granularity of the supporting evidence and the breadth of the predicted indication is an important limitation to note.
+The prediction has an important limit. "Nasal cavity disease" is a very broad label, and the literature covers only mycotic or pythiosis-type infections. It does not cover nasal disease in general, such as allergic or chronic rhinosinusitis. The high TxGNN score is a model output, not proof of efficacy.
 
-Because the drug's original indication and MOA are undocumented in this dataset, the mechanistic rationale above should be treated as literature-derived context rather than a confirmed pharmacological pathway from original to new indication.
+TxGNN also predicts **acute laryngopharyngitis** (score 99.95%) as a second indication. There are no trials or literature for it. Iodides have a historical role as expectorants, but nothing in the supplied data supports this, so it stays at L5 (model prediction only).
 
 ---
 
@@ -73,24 +73,30 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [7997795](https://pubmed.ncbi.nlm.nih.gov/7997795/) | 1994 | Case Report (Human) | Rev Inst Med Trop Sao Paulo | Rapid clinical response to potassium iodide therapy in a case of nasofacial zygomycosis affecting the nasal cavity mucosa |
-| [34902797](https://pubmed.ncbi.nlm.nih.gov/34902797/) | 2022 | Case Report (Veterinary) | Journal de mycologie médicale | Successful potassium iodide treatment of rhinofacial pythiosis (Pythium insidiosum) causing nasal cavity masses in sheep |
-| [39576399](https://pubmed.ncbi.nlm.nih.gov/39576399/) | 2024 | Case Report (Veterinary) | Veterinary Research Communications | Oral potassium iodide combined with topical clotrimazole used to treat Aspergillus fumigatus mycotic rhinitis in a horse |
-| [10976304](https://pubmed.ncbi.nlm.nih.gov/10976304/) | 2000 | Case Report (Veterinary) | J Am Vet Med Assoc | Sodium/potassium iodide used adjunctively with intranasal miconazole for Pseudallescheria boydii nasal cavity infection in a horse |
+| [7997795](https://pubmed.ncbi.nlm.nih.gov/7997795/) | 1994 | Case report (human) | Rev Inst Med Trop Sao Paulo | 64-year-old woman with nasofacial zygomycosis in Pará, Brazil; rapid response to potassium iodide therapy |
+| [34902797](https://pubmed.ncbi.nlm.nih.gov/34902797/) | 2022 | Case report (veterinary, sheep) | J Mycol Med | Rhinofacial pythiosis in sheep, with masses in the nasal cavity and hard palate; reported as successfully treated with potassium iodide |
+| [39576399](https://pubmed.ncbi.nlm.nih.gov/39576399/) | 2024 | Case report (veterinary, horse) | Vet Res Commun | Mare with *Aspergillus fumigatus* fungal rhinitis treated with topical clotrimazole plus oral potassium iodide |
+| [10976304](https://pubmed.ncbi.nlm.nih.gov/10976304/) | 2000 | Case report (veterinary, horse) | J Am Vet Med Assoc | Horse with *Pseudallescheria boydii* nasal infection treated with intranasal miconazole, IV sodium iodide, and other therapy |
 
 ---
 
 ## US Market Information
 
-Potassium iodide (DB06715) is currently **not marketed** in this dataset's regulatory scope, with **0 licenses on record**. No product/dosage-form or approved-indication information is available for tabulation.
+The five licenses shown are the main ones listed. The pack reports 20 in total. Authorization numbers and approved indication text are not provided in the supplied data. Several of these products (for example Kali Iodatum pellets and the "6X" tablet) appear to be homeopathic-type preparations.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Not listed | Kali Iodatum (Hahnemann Laboratories) | Pellet | Not specified |
+| Not listed | Kali Iodatum (Hahnemann Laboratories) | Pellet | Not specified |
+| Not listed | SSKI (Atlantic Biologicals) | Solution | Not specified |
+| Not listed | Kali iodatum (Boiron) | Pellet | Not specified |
+| Not listed | BM Potassium iodide (Kali Iod) 6X (BM Private Limited) | Tablet | Not specified |
 
 ---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-*(Key warnings, contraindications, and drug interaction data are not currently available for this candidate; TFDA label warnings/contraindications are flagged as a blocking data gap.)*
 
 ---
 
@@ -99,13 +105,15 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-Evidence supporting the "nasal cavity disease" indication is currently limited to four veterinary/human case reports (L4), with no clinical trials and no confirmed mechanistic link beyond a narrower fungal-infection context. Critical safety data (TFDA warnings/contraindications) and the drug's original indication/MOA are also missing, blocking any safety pre-assessment (S1).
+The TxGNN score is very high, but no clinical trials exist, and the literature consists of four case reports, three of them in animals. The evidence is limited to fungal or fungus-like nasal infections, not nasal cavity disease broadly. Safety data and mechanism data are also missing, so the candidate cannot proceed to safety screening.
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings, contraindications) — currently a blocking data gap
-- Confirmation of potassium iodide's original approved indication(s) and MOA (via DrugBank or equivalent)
-- Clarification of whether the predicted indication should be narrowed to "fungal nasal cavity infection" to better match the underlying evidence
-- Formal clinical evidence (even observational/case-series) specific to nasal cavity disease before advancing beyond Hold
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data (e.g., from the DrugBank API)
+- Approved indication text for the marketed products
+- A narrower, clinically defined target indication (e.g., specific fungal rhinosinusitis or nasofacial mycosis) instead of "nasal cavity disease"
+- Human clinical evidence, such as more human case series or a controlled study
+- Confirmation of route compatibility for the intended nasal use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

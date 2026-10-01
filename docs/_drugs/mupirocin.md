@@ -29,81 +29,72 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Mupirocin: From Topical Antimicrobial Therapy to Pleural Empyema
+# Mupirocin: From Topical Antibacterial Ointment to Pleural Empyema
 
-## One-Line Summary
+## One-Sentence Summary
 
-Mupirocin currently lacks formal approved indication data for Taiwan/USA; based on its mechanism of action, it can only be inferred to be used for **topical nasal/dermal antimicrobial therapy** (such as nasal MRSA decolonization, impetigo). The TxGNN model predicts it may be effective for **Pleural Empyema**, but **currently lacks any clinical trial or literature evidence support**. Moreover, the evidence package itself indicates that the mechanistic plausibility of this connection is weak, potentially resulting from knowledge graph topological bias.
-
----
+Mupirocin is a topical antibacterial ointment marketed in the US.
+The TxGNN model predicts it may be effective for **Pleural Empyema**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
+The prediction is purely model-derived.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original indications | No formal approved indication data (this drug is Not marketed in this region); inferred based on mechanism of action to be topical nasal/dermal antimicrobial (nasal MRSA decolonization, impetigo), **not confirmed by formal sources** |
-| Predicted new indications | Pleural Empyema |
-| TxGNN prediction score | 99.49% |
-| Evidence level | L5 (model prediction only, no clinical trials or literature) |
-| Market status | Not marketed |
-| Number of approved cases | 0 |
-| Recommended decision | Hold |
+|------|------|
+| Predicted New Indication | Pleural empyema |
+| TxGNN Prediction Score | 99.49% |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
+| Recommended Decision | Hold |
 
----
+## Why is This Prediction Reasonable?
 
-## Why is the Plausibility of This Prediction Questionable?
+Detailed mechanism of action data is not available in the Evidence Pack. Based on known pharmacology, mupirocin inhibits bacterial isoleucyl-tRNA synthetase. It is active against *Staphylococcus aureus* (including MRSA) and streptococci, which are common causes of pleural empyema. In principle, an antibacterial with this spectrum could be relevant to a bacterial pleural infection.
 
-Mupirocin's formal mechanism of action data is currently missing (original_moa marked as Data Gap). However, based on the mechanistic inference provided in the evidence package, mupirocin is a topical antibiotic whose mechanism of action is inhibition of bacterial isoleucyl-tRNA synthetase. Its **clinical formulations are limited to topical nasal/dermal application**, with no systemic or intrapleural formulations and pharmacokinetic data.
+However, this link is theoretical. Mupirocin is approved only for topical use and is rapidly hydrolyzed to inactive monic acid in the body. There is no systemic or intrapleural formulation, and no data on pleural penetration or safety. The original indication is also not recorded in the Evidence Pack, so the prediction cannot be cross-checked against known indications.
 
-Pleural empyema is typically caused by anaerobic bacteria or mixed streptococcal infection, requiring **systemic antibiotic therapy combined with drainage** to achieve effective control. Given mupirocin's known topical formulation characteristics, there is no evidence that it can penetrate the pleural space and achieve bactericidal concentrations, therefore the connection between the original (inferred) use and this predicted indication **lacks reasonable mechanistic linkage**. The evidence package assessment concludes that the high score assigned by TxGNN likely reflects topological similarity bias between the drug node and other antibiotic/infection-related nodes in the knowledge graph, rather than true pharmacological plausibility. This assessment also applies to the second-ranked prediction (punctate epithelial keratoconjunctivitis)—this disease is typically caused by viral or immune-related etiology, mupirocin lacks antiviral activity, and no approved ocular formulation exists.
-
----
+A second prediction, **punctate epithelial keratoconjunctivitis** (score 99.10%), has the same problem. Mupirocin might act on a staphylococcal component, but it has no antiviral activity, and the ointment (polyethylene glycol base) is not formulated or approved for ocular use. No trials or literature support it either.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trial registrations.
-
-(Query records: ClinicalTrials.gov and ICTRP queries for MUPIROCIN + pleural empyema on 2026-04-21 returned 0 results.)
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature data.
+Currently no related literature available.
 
-(Query records: PubMed query for MUPIROCIN + pleural empyema on 2026-04-21 returned 0 results.)
+## US Market Information
 
----
+The Evidence Pack contains no approved indication text for these authorizations, so that column is omitted. The 5 entries below are the main ones of 20 total.
 
-## Market Information
-
-This drug is **Not marketed** in this region, with no approved cases (total_licenses = 0), therefore no licensing/formulation/indication data are available.
-
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA065170 | Mupirocin | Ointment | Proficient Rx LP |
+| ANDA065123 | Mupirocin | Ointment | Bryant Ranch Prepack |
+| ANDA065123 | Mupirocin | Ointment | Kesin Pharma Corporation |
+| ANDA065123 | Mupirocin | Ointment | Bryant Ranch Prepack |
+| ANDA065123 | Mupirocin | Ointment | A-S Medication Solutions |
 
 ## Safety Considerations
 
-Safety data are currently missing. Please refer to the product label for complete safety information.
+Please refer to the package insert for safety information.
 
-**Note**: TFDA label warnings and contraindication data are missing and have been identified as **Blocking** level data gaps (DG001). Cannot proceed to S1 safety screening until this is completed.
-
----
-
-## Conclusion and Recommendations
+## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-- Evidence level is only L5 (pure model prediction with no clinical trials or literature support)
-- The evidence package's own mechanistic analysis indicates that mupirocin's topical formulation lacks reasonable mechanistic connection with the systemic treatment required for pleural empyema; the prediction score likely originates from knowledge graph topological bias rather than pharmacological plausibility
-- This drug is Not marketed with no approved cases; fundamental safety and formulation data are insufficient
+The prediction has a high model score but no supporting trials or literature (L5). Mupirocin has no systemic or intrapleural formulation, so the route of administration is a major barrier to use in pleural empyema.
 
-**Data/actions to be completed:**
-- Obtain TFDA label warnings and contraindication data (DG001, Blocking, requires downloading and analyzing product label PDF)
-- Confirm formally approved indications and mechanism of action (DG002, via DrugBank API query)
-- Assess formulation/route of administration compatibility: confirm whether mupirocin exists in a systemic formulation capable of reaching the pleural space
-- After completing the aforementioned data, re-evaluate whether it is necessary to proceed to S1 safety initial assessment
+**To proceed, the following is needed:**
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Route compatibility assessment (topical-only product versus the required intrapleural or systemic route)
+- Pleural penetration and stability data
+- Any preclinical or clinical evidence for pleural empyema or ocular use
 
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

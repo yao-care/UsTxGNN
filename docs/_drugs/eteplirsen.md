@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Eteplirsen
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 680
-evidence_level: L1
+evidence_level: L5
 indication_count: 10
 ---
 
 # Eteplirsen
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,82 +29,94 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Eteplirsen: From Exon 51-Skip-Amenable DMD to Duchenne and Becker Muscular Dystrophy
+# Eteplirsen: From Approved Use in Exon 51-Amenable DMD to Duchenne and Becker Muscular Dystrophy
 
 ## One-Sentence Summary
 
-Eteplirsen (Exondys 51) is an antisense oligonucleotide originally developed and approved for Duchenne muscular dystrophy (DMD) patients whose dystrophin gene mutations are amenable to exon 51 skipping. The TxGNN model's top prediction — **Duchenne and Becker muscular dystrophy** — is not a novel repurposing signal but a confirmation of the drug's own core indication, supported by **12 clinical trials** and **19 publications**, including two pivotal Phase 3 studies.
+Eteplirsen (Exondys 51) is an exon 51-skipping antisense drug already marketed in the US for Duchenne muscular dystrophy (DMD) with exon 51-amenable mutations. The TxGNN model predicts it for **Duchenne and Becker muscular dystrophy**, and **11 clinical trials** and **19 publications** cover this direction. The prediction mostly re-confirms the marketed use rather than finding a new one, and evidence for Becker muscular dystrophy specifically is absent.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not marketed in Taiwan (no NDA on file); per trial/mechanistic evidence, approved use is DMD amenable to exon 51 skipping |
 | Predicted New Indication | Duchenne and Becker muscular dystrophy |
 | TxGNN Prediction Score | 99.95% |
-| Evidence Level | L1 |
-| US Market Status | Not Marketed (Taiwan) |
-| Number of NDAs | 0 |
+| Evidence Level | L2 (see note below) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 unique NDA (NDA206488; the data lists it twice) |
 | Recommended Decision | Proceed with Guardrails |
+
+The label indication text is blank in the source data. The original use is taken from the mechanism rationale in the Evidence Pack (exon 51-amenable DMD).
+
+**Evidence level note:** The pack labels this L1, but under the stated rules L1 needs at least 2 completed Phase 3 RCTs. Only one Phase 3 trial is completed (NCT02255552, open-label with an untreated control arm, not randomized). The second (NCT03992430) is still active. A completed randomized Phase 2 trial (NCT01396239) exists, so L2 is the defensible level.
 
 ## Why is This Prediction Reasonable?
 
-Detailed DrugBank-sourced MOA text is not yet available (data gap), but the mechanism is well documented in the clinical evidence itself. Eteplirsen is a phosphorodiamidate morpholino oligomer (PMO) that binds dystrophin pre-mRNA and induces skipping of exon 51. In patients with frame-shift deletions near this region, this restores the reading frame and enables production of a truncated but partially functional dystrophin protein — the underlying deficiency in DMD.
+Eteplirsen is a phosphorodiamidate morpholino oligomer. It causes exon 51 of the DMD gene to be skipped, which restores the reading frame and lets the body make a shortened but partly functional dystrophin. Detailed mechanism data is not available in DrugBank for this pack, but this description comes from the pack's rationale.
 
-Critically, the TxGNN "predicted" indication of Duchenne and Becker muscular dystrophy is not a cross-indication extrapolation: it is essentially the drug's own approved therapeutic niche (exon 51 skip-amenable mutations, ~13% of the DMD population). Becker muscular dystrophy shares the same dystrophin gene defect in a milder phenotype, so the mechanistic rationale extends naturally to that population.
+The benefit is genotype-specific. It applies to DMD deletions amenable to exon 51 skipping (about 13% of DMD patients). It is not expected to help other DMD genotypes. For Becker muscular dystrophy, which the prediction label also names, no dedicated evidence was found.
 
-Because the prediction converges with the drug's real-world indication, this case functions more as a validation check on the model than a genuine repurposing opportunity — evidence strength is high, but the "new use" framing should be interpreted cautiously.
+The literature also says the clinical value of the dystrophin increase is still debated, and the FDA approval was accelerated and controversial. Any further development should treat dystrophin expression as confirmatory and rely on functional endpoints.
+
+The other nine predicted indications (ranks 2–10) are all rated L5 / Hold. They include Bethlem myopathy, several Emery-Dreifuss forms, DNAJB6 limb-girdle dystrophy, nebulin-related distal myopathy, POMK-related limb-girdle dystrophy and others. They have different genetic causes, no plausible exon 51 mechanism, and no trials or literature. Their high scores likely reflect knowledge-graph proximity among muscle-disease nodes.
 
 ## Clinical Trial Evidence
 
+The pack lists 11 trials. The 10 most relevant are shown; the omitted one (NCT00159250) is an early Phase 1/2 study with 7 patients.
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT01396239](https://clinicaltrials.gov/study/NCT01396239) | Phase 2 | Completed | 12 | Randomized, double-blind, placebo-controlled dose study (30/50 mg/kg) over 24 weeks in ambulant DMD subjects |
-| [NCT03992430](https://clinicaltrials.gov/study/NCT03992430) | Phase 3 | Active, not recruiting | 160 | Randomized, double-blind comparison of high-dose (100/200 mg/kg) vs. standard 30 mg/kg eteplirsen in exon 51 skip-amenable DMD |
-| [NCT02255552](https://clinicaltrials.gov/study/NCT02255552) | Phase 3 | Completed | 109 | Open-label, multi-center pivotal trial with untreated control arm; key efficacy evidence supporting FDA accelerated approval |
-| [NCT00844597](https://clinicaltrials.gov/study/NCT00844597) | Phase 1/2 | Completed | 19 | First-in-human IV safety study of AVI-4658 (eteplirsen) in exon 51 skip-amenable DMD |
-| [NCT01540409](https://clinicaltrials.gov/study/NCT01540409) | Phase 2 | Completed | 12 | Open-label extension (212 additional weeks) evaluating ongoing efficacy, safety and biomarker correlation |
-| [NCT02286947](https://clinicaltrials.gov/study/NCT02286947) | Phase 2 | Completed | 24 | Safety and tolerability in advanced-stage DMD patients amenable to exon 51 skipping |
-| [NCT02420379](https://clinicaltrials.gov/study/NCT02420379) | Phase 2 | Completed | 33 | Safety, efficacy, tolerability and PK in early-stage DMD |
-| [NCT03218995](https://clinicaltrials.gov/study/NCT03218995) | Phase 2 | Completed | 15 | Safety, tolerability and PK of weekly IV eteplirsen in very young patients (6–48 months) |
-| [NCT06606340](https://clinicaltrials.gov/study/NCT06606340) | Phase 4 (N/A) | Enrolling by invitation | 300 | Long-term real-world observational study of eteplirsen, golodirsen and casimersen in routine practice |
-| [NCT04179409](https://clinicaltrials.gov/study/NCT04179409) | Phase 2 | Completed | 3 | Comparative efficacy/safety of AMONDYS 45, EXONDYS 51, VYONDYS 53 across exon 45/51/53 duplications (small sample) |
+| [NCT01396239](https://clinicaltrials.gov/study/NCT01396239) | Phase 2 | Completed | 12 | Randomized, double-blind, placebo-controlled study of 30 and 50 mg/kg over 24 weeks in ambulant DMD |
+| [NCT03992430](https://clinicaltrials.gov/study/NCT03992430) | Phase 3 | Active, not recruiting | 160 | Randomized, double-blind comparison of 100 and 200 mg/kg vs 30 mg/kg in exon 51-amenable DMD |
+| [NCT02255552](https://clinicaltrials.gov/study/NCT02255552) | Phase 3 | Completed | 109 | PROMOVI: open-label with concurrent untreated control arm; efficacy and safety up to 96 weeks |
+| [NCT00844597](https://clinicaltrials.gov/study/NCT00844597) | Phase 1/2 | Completed | 19 | First-in-patient safety study of IV eteplirsen in exon 51-amenable DMD |
+| [NCT01540409](https://clinicaltrials.gov/study/NCT01540409) | Phase 2 | Completed | 12 | Open-label extension, 212 additional weeks of efficacy and safety |
+| [NCT02286947](https://clinicaltrials.gov/study/NCT02286947) | Phase 2 | Completed | 24 | Open-label safety and tolerability in advanced-stage DMD |
+| [NCT02420379](https://clinicaltrials.gov/study/NCT02420379) | Phase 2 | Completed | 33 | Open-label safety and efficacy in early-stage DMD |
+| [NCT03218995](https://clinicaltrials.gov/study/NCT03218995) | Phase 2 | Completed | 15 | Open-label safety and PK in boys aged 6–48 months |
+| [NCT04179409](https://clinicaltrials.gov/study/NCT04179409) | Phase 2 | Completed | 3 | 48-week open-label study of exon-skipping products in patients with single-exon duplications; very small |
+| [NCT06606340](https://clinicaltrials.gov/study/NCT06606340) | N/A | Enrolling by invitation | 300 | Long-term observational study of routine clinical use; no results yet |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [23907995](https://pubmed.ncbi.nlm.nih.gov/23907995/) | 2013 | Double-blind placebo-controlled study | Annals of Neurology | Pivotal report testing eteplirsen's ability to induce dystrophin production and improve 6-minute walk distance |
-| [34120909](https://pubmed.ncbi.nlm.nih.gov/34120909/) | 2021 | Cohort (Open-label extension) | J Neuromuscul Dis | PROMOVI trial: Phase 3, multicenter, open-label efficacy/safety results in a larger DMD cohort (30 mg/kg/week x 96 weeks) |
-| [38669554](https://pubmed.ncbi.nlm.nih.gov/38669554/) | 2024 | Systematic Review/Meta-Analysis | J Neuromuscul Dis | Predictors of loss of ambulation in DMD |
-| [40831143](https://pubmed.ncbi.nlm.nih.gov/40831143/) | 2026 | Cohort | J Neuromuscul Dis | Propensity-matched analysis of LVEF decline comparing eteplirsen-treated vs. control DMD patients |
-| [29254734](https://pubmed.ncbi.nlm.nih.gov/29254734/) | 2018 | Pooled Analysis | J Clin Neurosci | Pooled analysis of eteplirsen outcomes in paediatric DMD patients |
-| [38482981](https://pubmed.ncbi.nlm.nih.gov/38482981/) | 2024 | Cohort | Muscle & Nerve | Survival among patients receiving eteplirsen up to 8 years, contextualized against natural history controls |
-| [37207382](https://pubmed.ncbi.nlm.nih.gov/37207382/) | 2023 | Open-label dose-escalation study | Neuromuscular Disorders | Safety, tolerability and PK of eteplirsen in boys aged 6–48 months (NCT03218995) |
-| [40308063](https://pubmed.ncbi.nlm.nih.gov/40308063/) | 2025 | Review | Molecular Therapy | Clinical applications of exon-skipping ASOs (eteplirsen, golodirsen, viltolarsen, casimersen) in neuromuscular disease |
-| [28280301](https://pubmed.ncbi.nlm.nih.gov/28280301/) | 2017 | Review | Drug Des Devel Ther | Overview of eteplirsen's accelerated FDA approval and treatment context |
-| [31794463](https://pubmed.ncbi.nlm.nih.gov/31794463/) | 2019 | Review | Continuum (Minneap Minn) | Broader review of dystrophinopathies including DMD/BMD management and emerging therapies |
+| [23907995](https://pubmed.ncbi.nlm.nih.gov/23907995/) | 2013 | Double-blind placebo-controlled trial (pack tags it "Review") | Ann Neurol | Tested dystrophin production and 6-minute walk distance with eteplirsen |
+| [34120909](https://pubmed.ncbi.nlm.nih.gov/34120909/) | 2021 | Open-label Phase 3 trial | J Neuromuscul Dis | PROMOVI: 30 mg/kg/week IV for 96 weeks in ambulatory patients aged 7–16 |
+| [40831143](https://pubmed.ncbi.nlm.nih.gov/40831143/) | 2026 | Cohort (propensity-matched) | J Neuromuscul Dis | Compared LVEF decline in eteplirsen-treated patients vs natural-history controls |
+| [38482981](https://pubmed.ncbi.nlm.nih.gov/38482981/) | 2024 | Cohort | Muscle Nerve | Overall survival with up to 8 years of eteplirsen vs natural-history controls |
+| [29254734](https://pubmed.ncbi.nlm.nih.gov/29254734/) | 2018 | Pooled analysis | J Clin Neurosci | Pooled analysis of eteplirsen in paediatric DMD |
+| [37207382](https://pubmed.ncbi.nlm.nih.gov/37207382/) | 2023 | Open-label trial | Neuromuscul Disord | Safety, tolerability and PK in boys aged 6–48 months (NCT03218995) |
+| [29752304](https://pubmed.ncbi.nlm.nih.gov/29752304/) | 2018 | Review | Neurology | Quantification of novel dystrophin after long-term eteplirsen |
+| [40308063](https://pubmed.ncbi.nlm.nih.gov/40308063/) | 2025 | Review | Mol Ther | Exon-skipping ASOs in neuromuscular disease; broad safety profile, but limited exon-skipping efficacy and dystrophin production |
+| [28280301](https://pubmed.ncbi.nlm.nih.gov/28280301/) | 2017 | Review | Drug Des Devel Ther | Overview of eteplirsen following its 2016 accelerated FDA approval |
+| [29752302](https://pubmed.ncbi.nlm.nih.gov/29752302/) | 2018 | Commentary | Neurology | Commentary on eteplirsen and dystrophin as an outcome |
 
 ## US Market Information
 
-Eteplirsen is not currently marketed in this jurisdiction — 0 licenses/authorizations are on file, and `market_status` is recorded as "Not Marketed." No NDA-level product detail is available to tabulate.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA206488 | Exondys 51 | Injection | Sarepta Therapeutics, Inc. |
+
+The approved indication text is blank in the source data, and the duplicate record has been merged. The only route is injectable (IV infusion in the trials).
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Key warnings, contraindications, and drug interaction data were not retrievable at this data cutoff (TFDA labeling not yet obtained — flagged as a blocking data gap).
+Please refer to the package insert for safety information. Warnings and contraindications are missing from the data, and no drug-interaction records were found. The trial and literature entries above include safety and tolerability studies, including young boys aged 6–48 months, but they do not replace label review.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Evidence level L1 is supported by multiple completed Phase 2/3 trials, including a pivotal controlled study (NCT02255552) that underpinned FDA accelerated approval, plus 19 supporting publications. However, this is effectively confirmation of eteplirsen's existing approved indication rather than a new repurposing opportunity, and formal safety/labeling data for this jurisdiction is still missing.
+For exon 51-amenable DMD, the evidence includes a randomized Phase 2 trial, a completed Phase 3 trial with a control arm, and a marketed product. The high score for "Duchenne and Becker" should not be extended to Becker muscular dystrophy or other DMD genotypes, and the clinical meaning of the dystrophin increase is still debated.
 
 **To proceed, the following is needed:**
-- TFDA (or local regulatory) label — warnings and contraindications (DG001, blocking)
-- Confirmed DrugBank/product MOA documentation (DG002)
-- Clarification that this candidate reflects label-consistent use rather than off-label repurposing, before any S1 safety review proceeds
-- Genotype confirmation requirement (exon 51 skip-amenable mutation) noted explicitly in any downstream guidance, since efficacy is restricted to that subgroup
+- Package insert warnings and contraindications (a blocking gap, DG001)
+- Results of the Phase 3 high-dose trial NCT03992430 (completion expected 2026-10)
+- Dedicated evidence if Becker muscular dystrophy is to be pursued
+- Genotype restriction to exon 51-amenable deletions, with functional endpoints as primary and dystrophin expression as confirmatory
+- Mechanism of action data from DrugBank (DG002)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

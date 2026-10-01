@@ -29,63 +29,73 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Aluminum Chloride: From Topical Antiperspirant/Hemostatic to Seborrheic Keratosis
+# Aluminum Chloride: From Antiperspirant Use to Seborrheic Keratosis
 
 ## One-Sentence Summary
 
-Aluminum Chloride (AlCl3, DB11081) is a well-established topical astringent used clinically as first-line treatment for primary focal hyperhidrosis and as a hemostatic agent in dermatologic procedures.
-The TxGNN model predicts it may be effective for **Seborrheic Keratosis** (TxGNN score: 99.68%),
-however **no clinical trials** and **no publications** currently directly support this specific indication, placing it at evidence level **L5**.
+Aluminum chloride is a topical astringent and antiperspirant. The US-marketed products in this pack are antiperspirants, and the license records do not state an approved indication.
+The TxGNN model predicts it may be effective for **seborrheic keratosis**, but there are **0 clinical trials** and **0 publications** for this specific indication, so the prediction rests on the model score alone.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No FDA-approved NDA on record; established clinical use as topical antiperspirant for primary focal hyperhidrosis |
-| Predicted New Indication | Seborrheic Keratosis |
+|------|------|
+| Original Indication | Not stated in the license records. Product names indicate antiperspirant use (excessive sweating). This is inferred, not documented. |
+| Predicted New Indication | Seborrheic keratosis |
 | TxGNN Prediction Score | 99.68% |
-| Evidence Level | L5 |
-| US Market Status | Not Marketed (no registered products in database) |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 license records (most have no license number listed) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data (MOA) is currently unavailable from DrugBank. Based on established pharmacological knowledge, Aluminum Chloride is a topical astringent that works primarily by precipitating proteins within eccrine sweat duct epithelium, forming physical occlusive plugs that suppress sweat secretion. It also exhibits antimicrobial activity (inhibition of skin flora including *Malassezia*), vasoconstrictive effects, and mild keratolytic properties.
+Currently, detailed mechanism of action data is not available. Based on known information, aluminum chloride is a topical aluminum salt with astringent, protein-precipitating action. It is used to reduce sweating by obstructing eccrine sweat ducts.
 
-The mechanistic bridge to seborrheic keratosis is rooted in AlCl3's demonstrated ability to induce keratinocyte apoptosis (PMID 31567135). Seborrheic keratosis is a benign epidermal tumor characterized by dysregulated keratinocyte proliferation; AlCl3's protein-precipitating and pro-apoptotic effects on keratinocytes could theoretically disrupt the hyperproliferative process underlying these lesions, while its mild keratolytic action may facilitate desquamation of thickened keratotic surfaces. However, this mechanistic construct currently has no supporting clinical or preclinical data.
+The only link to seborrheic keratosis is speculative. Aluminum salts act on the skin surface, and seborrheic keratosis is a benign keratotic skin lesion. Neither the pack nor the retrieved literature shows that aluminum chloride treats it. The high score likely reflects similarity between skin conditions in the knowledge graph rather than a demonstrated mechanism.
 
-It is important to note that AlCl3 carries **L1-level evidence** for the broader skin disease category (specifically primary focal hyperhidrosis, TxGNN rank 6), where it is recognized as standard of care. This dermatological efficacy profile provides biological plausibility for topical skin indications generally. A forthcoming exploratory Phase 1 trial (NCT07401277, not yet recruiting) is investigating 5-fluorouracil combined with aluminum for actinic keratoses — a keratotic skin condition with partial pathophysiological overlap with seborrheic keratosis — which may provide indirect mechanistic insights.
+One adjacent signal exists elsewhere in the pack. A not-yet-recruiting Phase 1 study (NCT07401277) tests 5-fluorouracil plus aluminum in **actinic keratoses**, a different lesion type. Its relevance has not been graded. It does not support seborrheic keratosis.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for seborrheic keratosis.
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available for seborrheic keratosis.
+Currently no related literature available.
 
 ---
 
 ## US Market Information
 
-No FDA NDA approvals on record for Aluminum Chloride as a stand-alone regulated pharmaceutical product.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Not listed | ANTIPERSPIRANT ANTISUDORIFIQUE (Archifox GmbH & Co. KG) | Spray | Not stated |
+| M019 | Duradry Sweat Minimizing Gel (Novadore USA Inc) | Gel | Not stated |
+| Not listed | Antiperspirant ODABAN (Ryma-Pharm GmbH) | Spray | Not stated |
+| M017 | Certain Dri Clinical Strength Prescription Protection Rollon (Clarion Brands LLC) | Liquid | Not stated |
+| Not listed | ANTIPERSPIRANT ANTISUDORIFIQUE (Ryma-Pharm GmbH) | Spray | Not stated |
 
-> **Note:** AlCl3 is widely incorporated into OTC antiperspirant formulations (e.g., 12–20% concentrations) and is used in prescription-strength hemostatic preparations in dermatology and dentistry. These OTC and procedural applications are not captured as standalone NDA submissions in the current regulatory database query and may explain the discrepancy between the absence of registered licenses and the compound's broad clinical use.
+Other listed dosage forms include lotion, solution, stick, for-solution, metered spray and cream.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No warnings, contraindications or drug interactions were found in the pack.
+
+Some signals appear in the retrieved material and are relevant to any new skin indication:
+- **Keratinization changes:** In a mouse model, daily 20% aluminum chloride caused apoptosis, keratinization arrest and granular parakeratosis (PMID 31567135).
+- **Contact sensitization:** Aluminum is a recognized contact allergen (PMID 35029347).
+- **Irritation and occlusion:** Mucosal and vulvar skin irritation is a concern. Follicular occlusion could worsen comedonal disease.
 
 ---
 
@@ -94,14 +104,22 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-Despite a high TxGNN prediction score (99.68%), there is a complete absence of clinical trials and published literature directly supporting the use of Aluminum Chloride for seborrheic keratosis. The prediction is based entirely on model output (L5 evidence), and while a keratinocyte-apoptosis-based mechanistic hypothesis is conceptually plausible, it remains entirely unvalidated in this specific disease context.
+The prediction has no clinical trials or literature behind it and no supported mechanism. Evidence level is L5, and the pack's own assessment calls the link speculative.
+
+**Other predictions in the pack:**
+- "Skin disease" (rank 6) has the strongest evidence, including a completed Phase 3 RCT (NCT03433859, n=54) comparing topical aluminium chloride with onabotulinumtoxinA in residual limb hyperhidrosis. It also has several hyperhidrosis RCTs and reviews, and a single-arm study in regorafenib-associated hand-foot skin reaction (PMID 37142953). This is mostly an established use rather than repurposing, the indication is too broad, and the Phase 3 comparator is truncated in the input and needs verification.
+- Dry eye syndrome and eye disease have no supportive evidence. The pack notes aluminum chloride is a known ocular and mucosal irritant.
+- Congenital prothrombin deficiency, von Hippel anomaly and chronic relapsing inflammatory optic neuropathy have no plausible mechanism and are likely knowledge-graph artifacts.
 
 **To proceed, the following is needed:**
-- **Preclinical evidence:** In vitro keratinocyte proliferation assays using AlCl3 on seborrheic keratosis cell models; ex vivo tissue experiments or animal model studies to establish proof of concept
-- **Clinical signal:** Case series or pilot observational studies documenting topical AlCl3 application to seborrheic keratosis lesions
-- **MOA data:** Retrieve full mechanism of action from DrugBank (Data Gap DG002 — currently blocking mechanistic analysis)
-- **Safety review:** Obtain TFDA/FDA package insert to characterize warnings, contraindications, and skin irritation profile (Data Gap DG001 — currently blocking safety stage S1 entry)
-- **Formulation planning:** Determine appropriate concentration, vehicle, and application protocol for lesion-directed use, distinct from antiperspirant applications
+- FDA package insert warnings and contraindications, which block safety screening
+- Mechanism of action data from DrugBank
+- Verified original indication text for the marketed products
+- Any preclinical or clinical evidence specific to seborrheic keratosis
+- Route compatibility assessment
+- Splitting the broad "skin disease" prediction into specific conditions (hyperhidrosis, hand-foot skin reaction) before any recommendation
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

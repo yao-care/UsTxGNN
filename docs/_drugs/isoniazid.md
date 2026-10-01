@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Isoniazid
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 814
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 ---
 
 # Isoniazid
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **1** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,9 +33,9 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 ## One-Sentence Summary
 
-> Isoniazid is a first-line antituberculosis agent, most commonly used alone or in isoniazid-rifapentine combination regimens (e.g. 3HP/1HP) for active and latent tuberculosis.
-> The TxGNN model predicts it may be effective for **Conjunctivitis**,
-> with **1 clinical trial** and **20 publications** currently associated with this direction — though, as detailed below, the supporting evidence is largely indirect.
+Isoniazid is a long-established anti-tuberculosis antibiotic. The US label text is not included in the Evidence Pack, so this rests on general drug knowledge.
+The TxGNN model predicts it may be effective for **conjunctivitis**, but the support is weak: **1 clinical trial** (not about conjunctivitis) and **20 publications**, mostly case reports on tuberculosis-related eye disease.
+The prediction most plausibly applies only to rare mycobacterial (tuberculous or phlyctenular) conjunctivitis, not to conjunctivitis in general.
 
 ---
 
@@ -43,23 +43,23 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 | Item | Content |
 |------|------|
-| Original Indication | Tuberculosis (active and latent TB infection) |
+| Original Indication | Tuberculosis (general drug knowledge; approved indication text is empty in all listed US licenses) |
 | Predicted New Indication | Conjunctivitis |
 | TxGNN Prediction Score | 99.36% |
-| Evidence Level | L4 |
-| Market Status (Taiwan) | Not marketed (Not currently marketed) |
-| Number of NDAs/Licenses | 0 |
+| Evidence Level | L4 (no efficacy studies in conjunctivitis; only case reports and mechanistic plausibility) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 16 (the five listed are all ANDAs, i.e., generics) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (data gap DG002). Based on known pharmacology, isoniazid inhibits mycolic acid synthesis in the mycobacterial cell wall, an action specific to *Mycobacterium tuberculosis* and related organisms. This mechanism has no established direct pharmacological action on the conjunctiva or on common causes of conjunctivitis (allergic, viral, or bacterial).
+Detailed mechanism-of-action data is not available in DrugBank for this record. Isoniazid is known to block mycolic acid synthesis in *Mycobacterium tuberculosis* (via InhA), which weakens the bacterial cell wall. This action is specific to mycobacteria.
 
-The literature association between isoniazid and "conjunctivitis" almost entirely reflects a narrow clinical subgroup: **tuberculous or phlyctenular keratoconjunctivitis**, an ocular manifestation of underlying tuberculosis infection. In these cases, isoniazid improves the conjunctivitis indirectly, by treating the causative TB infection — not by acting on conjunctivitis as a general disease category. Two publications (PMID 14253168, PMID 5103251) do describe isoniazid used specifically for phlyctenular keratoconjunctivitis, but both are historical papers pertaining to TB-associated disease, not general conjunctivitis.
+The plausible link to conjunctivitis is therefore narrow. Tuberculosis can involve the eye, causing tuberculous conjunctivitis and phlyctenular keratoconjunctivitis (an allergic-type reaction to TB antigens). The literature includes reports of these conditions, an older isoniazid prophylaxis study in phlyctenular keratoconjunctivitis (1965), and a report on local isoniazid for ocular TB (1971). Isoniazid has no known activity against the common causes of conjunctivitis (bacterial, viral, allergic).
 
-Given this, the TxGNN model's high score (99.36%) most likely reflects the knowledge graph picking up a strong co-occurrence between isoniazid, tuberculosis, and conjunctivitis (as a TB complication), rather than a genuine, generalizable pharmacological effect on conjunctivitis. The one associated clinical trial (NCT04094012) is a Phase 3 safety comparison of latent TB regimens and was not designed to evaluate conjunctivitis outcomes.
+The very high TxGNN score most likely reflects knowledge-graph proximity to tuberculosis-related eye disease, not a general anti-conjunctivitis effect. Some papers are also confounded. Rifampicin, often given with isoniazid, is the drug associated with ocular and conjunctival irritation, and several papers describe conjunctivitis as a side effect of drugs or of BCG therapy.
 
 ---
 
@@ -67,38 +67,48 @@ Given this, the TxGNN model's high score (99.36%) most likely reflects the knowl
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT04094012](https://clinicaltrials.gov/study/NCT04094012) | Phase 3 | Completed | 490 | Compared systemic adverse drug reaction rates between 3HP (rifapentine+isoniazid weekly ×12) and 1HP regimens for latent TB infection. Not designed to evaluate conjunctivitis efficacy; ocular findings, if any, would only appear as incidental adverse events (relevance grade C — low relevance to this indication). |
+| [NCT04094012](https://clinicaltrials.gov/study/NCT04094012) | Phase 3 | Completed | 490 | Compares systemic drug reactions under 3HP (rifapentine + isoniazid, 12 weekly doses) and 1HP regimens for latent TB infection. Conjunctivitis is not a target or endpoint; it offers isoniazid safety data only, not efficacy (relevance grade C). |
 
 ---
 
 ## Literature Evidence
 
+Titles are reported as classified in the Evidence Pack. Most entries are not classified as RCTs, and none tests isoniazid for conjunctivitis in a controlled design. Entries are ordered by study type, then by relevance to isoniazid.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [5103251](https://pubmed.ncbi.nlm.nih.gov/5103251/) | 1971 | Case Report | Annales d'oculistique | Describes local (topical) use of isoniazid in treatment of ocular tuberculosis. |
-| [14253168](https://pubmed.ncbi.nlm.nih.gov/14253168/) | 1965 | Case Report | Am Rev Respir Dis | Isoniazid prophylaxis for phlyctenular keratoconjunctivitis among Alaskan Eskimos — the most direct isoniazid–conjunctivitis link identified. |
-| [1363080](https://pubmed.ncbi.nlm.nih.gov/1363080/) | 1992 | Review | Optometry Clinics | Review of ocular side effects of systemic drugs; conjunctivitis noted as an adverse effect associated with several drug classes (not specific to isoniazid). |
-| [14089390](https://pubmed.ncbi.nlm.nih.gov/14089390/) | 1964 | Case Report | Archives of Ophthalmology | Primary tuberculosis of the conjunctiva. |
-| [33607832](https://pubmed.ncbi.nlm.nih.gov/33607832/) | 2021 | Case Report | Medicine | Pediatric phlyctenular keratoconjunctivitis associated with primary sinonasal tuberculosis. |
-| [26692731](https://pubmed.ncbi.nlm.nih.gov/26692731/) | 2015 | Case Report | Middle East Afr J Ophthalmol | Tuberculous conjunctivitis in an anophthalmic socket. |
-| [17133069](https://pubmed.ncbi.nlm.nih.gov/17133069/) | 2006 | Case Report | Cornea | Mycobacterium tuberculosis presenting as chronic red eye (conjunctival TB). |
-| [25433746](https://pubmed.ncbi.nlm.nih.gov/25433746/) | 2014 | Case Report | Can J Ophthalmol | Conjunctival phlyctenulosis as a presenting sign of impending clinical tuberculosis. |
-| [10641112](https://pubmed.ncbi.nlm.nih.gov/10641112/) | 1999 | Case Report | Oftalmologia | 28 cases of tuberculous/phlyctenular keratoconjunctivitis, mostly in children with primary TB. |
-| [4233886](https://pubmed.ncbi.nlm.nih.gov/4233886/) | 1968 | Case Report | Arch Ophtalmol Rev Gen Ophtalmol | Tuberculosis of the bulbar conjunctiva. |
-
-All identified literature concerns **tuberculous/phlyctenular conjunctivitis** specifically, not conjunctivitis of other etiologies. No RCTs supporting isoniazid for general conjunctivitis were found.
+| [1363080](https://pubmed.ncbi.nlm.nih.gov/1363080/) | 1992 | Review | Optometry Clinics | Ocular side effects of systemic drugs; lists drugs that *cause* conjunctivitis (e.g., isotretinoin, sulfonamides, salicylates), so it is not evidence of benefit |
+| [5005929](https://pubmed.ncbi.nlm.nih.gov/5005929/) | 1971 | Review | Annals of Ophthalmology | Review on rifampicin (no abstract available); relevant mainly to rifampicin's ocular effects |
+| [14253168](https://pubmed.ncbi.nlm.nih.gov/14253168/) | 1965 | Not classified | American Review of Respiratory Disease | Isoniazid prophylaxis in phlyctenular keratoconjunctivitis among Alaskan Eskimos (no abstract available; the most directly relevant older study) |
+| [5103251](https://pubmed.ncbi.nlm.nih.gov/5103251/) | 1971 | Not classified | Annales d'oculistique | Use of isoniazid in local treatment of ocular tuberculosis (no abstract available) |
+| [33607832](https://pubmed.ncbi.nlm.nih.gov/33607832/) | 2021 | Case report | Medicine | Pediatric phlyctenular keratoconjunctivitis associated with primary sinonasal TB |
+| [26692731](https://pubmed.ncbi.nlm.nih.gov/26692731/) | 2015 | Case report | Middle East African J Ophthalmol | Tuberculous conjunctivitis in an anophthalmic socket after prior miliary TB |
+| [17133069](https://pubmed.ncbi.nlm.nih.gov/17133069/) | 2006 | Not classified | Cornea | *M. tuberculosis* presenting as chronic red eye (conjunctival TB) |
+| [25433746](https://pubmed.ncbi.nlm.nih.gov/25433746/) | 2014 | Not classified | Canadian J Ophthalmology | Conjunctival phlyctenulosis as a presenting sign of impending clinical TB |
+| [10641112](https://pubmed.ncbi.nlm.nih.gov/10641112/) | 1999 | Not classified | Oftalmologia | 28 cases of tuberculous keratoconjunctivitis, 13 in children with primary TB; all had positive tuberculin tests |
+| [14089390](https://pubmed.ncbi.nlm.nih.gov/14089390/) | 1964 | Case report | Archives of Ophthalmology | Primary tuberculosis of the conjunctiva (no abstract available) |
 
 ---
 
 ## US Market Information
 
-No TFDA/FDA marketing authorization records are currently available — isoniazid is recorded as **Not marketed (not marketed)** in this dataset, with 0 licenses on file.
+The five main authorizations are listed below. The approved indication text is empty in the records provided, so it is not shown.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA040090 | isoniazid | Tablet | Marlex Pharmaceuticals, Inc. |
+| ANDA080937 | Isoniazid | Tablet | Aphena Pharma Solutions - Tennessee, LLC |
+| ANDA088235 | Isoniazid | Solution | CMP Pharma, Inc. |
+| ANDA080936 | Isoniazid | Tablet | A-S Medication Solutions |
+| ANDA040090 | isoniazid | Tablet | REMEDYREPACK INC. |
+
+Dosage forms in the US market include oral tablets, a solution, and an injectable solution.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Detailed TFDA warnings, contraindications, and drug-drug interaction data were not available in this evidence pack (data gap DG001, Blocking severity) and must be obtained before any safety evaluation can proceed.
+Please refer to the package insert for safety information.
 
 ---
 
@@ -107,14 +117,16 @@ Please refer to the package insert for safety information. Detailed TFDA warning
 **Decision: Hold**
 
 **Rationale:**
-- The evidence supports isoniazid's role in treating *tuberculous* conjunctivitis (a TB complication), not conjunctivitis as a general disease category — the TxGNN prediction likely reflects a co-occurrence artifact in the knowledge graph rather than a broad pharmacological effect. No RCT-level evidence and no trial specifically designed to test isoniazid for conjunctivitis exists.
-- A Blocking-severity data gap (missing TFDA label/warnings, DG001) also prevents any Stage 1 safety evaluation.
+There is no efficacy evidence for isoniazid in conjunctivitis. The only trial is a Phase 3 safety comparison in latent TB, and the literature consists of case reports on TB-related eye disease and papers on drug-induced conjunctivitis. The high TxGNN score is best read as a link to tuberculous ocular disease, and safety data (package insert) is still missing, which blocks screening.
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings, contraindications) — DG001
-- Detailed mechanism of action data from DrugBank — DG002
-- Clarification of target population: should this be re-scoped specifically to *tuberculous/phlyctenular keratoconjunctivitis* rather than conjunctivitis broadly, given the evidence base
-- If re-scoped, prospective data comparing isoniazid-treated vs. untreated TB-conjunctivitis outcomes
+- Package insert warnings and contraindications (blocking gap)
+- Mechanism of action data from DrugBank
+- Narrowing the hypothesis to tuberculous or phlyctenular conjunctivitis, then reviewing whether systemic anti-TB therapy already covers it as standard care
+- Full-text review of the 1965 and 1971 isoniazid ocular studies (no abstracts available)
+- Route compatibility assessment (a local ocular formulation is not among the listed US dosage forms)
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,43 +29,46 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Fostamatinib: From Chronic Immune Thrombocytopenia (ITP) to Autosomal Thrombocytopenia with Normal Platelets
+# Fostamatinib: From Immune Thrombocytopenia to Autosomal Thrombocytopenia with Normal Platelets
 
 ## One-Sentence Summary
 
-Fostamatinib is a Syk (spleen tyrosine kinase) inhibitor approved for chronic immune thrombocytopenia (ITP), where it blocks FcγR-mediated destruction of antibody-coated platelets.
-The TxGNN model predicts it may be effective for **Autosomal Thrombocytopenia with Normal Platelets**, a hereditary, non-immune platelet disorder,
-but this prediction is currently supported by **no clinical trials** and **no published literature** — the connection appears to be a knowledge-graph artifact based on shared "thrombocytopenia" terminology rather than a validated mechanistic link.
+Fostamatinib is marketed in the US as TAVALISSE for immune thrombocytopenia (from general drug knowledge; the supplied data lists no indication text). The TxGNN model predicts it may be useful for **autosomal thrombocytopenia with normal platelets**, but **no clinical trials and no publications** currently support this prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Chronic Immune Thrombocytopenia (ITP) |
-| Predicted New Indication | Autosomal Thrombocytopenia with Normal Platelets |
+| Predicted New Indication | Autosomal thrombocytopenia with normal platelets |
 | TxGNN Prediction Score | 99.45% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 listed entries, both under NDA209299 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Fostamatinib is a Syk inhibitor. Its approved mechanism in chronic ITP is to block FcγR signaling in macrophages, preventing the phagocytic destruction of platelets that have been coated with autoantibodies — an **immune-mediated** mechanism.
+Detailed mechanism of action data is not available in the supplied input. From general drug knowledge, fostamatinib is a SYK inhibitor whose active metabolite is R406. In immune thrombocytopenia it reduces Fc-gamma-receptor-mediated platelet destruction by macrophages.
 
-Autosomal thrombocytopenia with normal platelets is a hereditary condition typically caused by genetic mutations affecting platelet production or function, not by antibody-mediated platelet clearance. There is no established biological pathway linking Syk inhibition to correction of an inherited platelet-production defect.
+The predicted disease is an inherited thrombocytopenia, usually linked to ANKRD26 variants that dysregulate thrombopoietin-receptor signalling and impair platelet production. Its cause is not immune clearance, so the SYK-inhibition mechanism does not obviously apply. The link appears to be a weak, indirect inference from the shared low-platelet phenotype in the knowledge graph.
 
-Given this mismatch, the high TxGNN score most likely reflects a surface-level semantic association (both conditions contain "thrombocytopenia") rather than a genuine shared mechanism. This prediction should be treated as a hypothesis-generation signal only, not as mechanistically validated.
-
-*Note: A second, lower-ranked prediction (non-syndromic esophageal malformation, score 99.05%) was also generated but shows no plausible biological link to Syk inhibition — Syk is expressed almost exclusively in hematopoietic/immune cells and has no known role in esophageal embryogenesis. This candidate is not pursued further.*
+A high model score is not evidence of efficacy. The prediction needs independent mechanistic and clinical support before it can be considered credible.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
+
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA209299 | TAVALISSE | Tablet (oral) | Rigel Pharmaceuticals, Inc. |
+
+The input lists this NDA twice with identical details, so it is shown once here.
 
 ## Safety Considerations
 
@@ -76,13 +79,15 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trial or literature support (L5, evidence-only from the model), and the proposed mechanistic link is biologically implausible — ITP's immune-mediated pathway does not map onto a hereditary, non-immune platelet disorder. In addition, a Blocking data gap (missing TFDA label/warnings) prevents even an initial safety assessment.
+The only support is a model score, with no trials or publications. The SYK-inhibition mechanism does not fit an inherited platelet-production disorder. The second-ranked prediction, non-syndromic esophageal malformation (score 99.05%), has no plausible mechanism for a SYK inhibitor and is likely a knowledge-graph artifact.
 
 **To proceed, the following is needed:**
-- TFDA/FDA label data — key warnings and contraindications (currently unavailable, Blocking gap)
-- Confirmed detailed mechanism of action data beyond the general Syk-inhibitor class description
-- Preclinical or mechanistic studies specifically testing Syk inhibition in hereditary thrombocytopenia models
-- Drug interaction (DDI) data (current query returned no results)
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Preclinical or mechanistic evidence that SYK inhibition affects platelet production in ANKRD26-related thrombocytopenia
+- Any registered trials or published case reports in this indication
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,31 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Finasteride: From an Undocumented Original Indication to Ambras Type Hypertrichosis Universalis Congenita
+# Finasteride: From Androgen-Related Conditions to Ambras Type Hypertrichosis Universalis Congenita
 
 ## One-Sentence Summary
 
-Finasteride's original approved indication is not documented in the current evidence pack (mechanism of action and original indication are both flagged as data gaps). The TxGNN model's top-ranked prediction links Finasteride to **Ambras Type Hypertrichosis Universalis Congenita**, but this association is currently supported by **0 clinical trials** and **0 publications**, and the mechanistic review flags it as a likely knowledge-graph false positive rather than a biologically grounded signal.
+Finasteride is an oral 5-alpha reductase inhibitor that lowers DHT. The record supplied no approved indication text, so the original use is not confirmed here.
+The TxGNN model predicts it may be effective for **Ambras type hypertrichosis universalis congenita**, with a very high score.
+However, there are **0 clinical trials** and **0 publications** for this indication, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in available data |
+| Original Indication | Not available (approved indication text is empty in all listed licenses) |
 | Predicted New Indication | Ambras type hypertrichosis universalis congenita |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| US Market Status | Not marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 licenses (NDA and ANDA combined) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for Finasteride in this evidence pack, and its original approved indication is likewise undocumented. What is known generally is that Finasteride's pharmacology centers on inhibition of type II 5α-reductase, reducing conversion of testosterone to dihydrotestosterone (DHT).
+Finasteride inhibits type II 5-alpha reductase and lowers DHT, which acts on androgen-dependent hair follicles. Detailed mechanism-of-action data is not available in the record, so this description is the only mechanistic basis.
 
-Ambras type hypertrichosis universalis congenita is a rare congenital disorder of generalized excess hair growth, mechanistically linked to genetic rearrangements on chromosome 8q. Critically, this condition is classified as **non-androgen-dependent** — its hair-growth pathway does not rely on DHT signaling, which is the pathway Finasteride modulates.
+The link to the predicted disease is weak. Ambras syndrome is a congenital, androgen-independent hypertrichosis. It is usually attributed to chromosomal rearrangements that dysregulate TRPS1 and related hair-follicle genes. No DHT-dependent mechanism is established.
 
-Given this, the mechanistic review for this specific candidate concludes that the link is not biologically well-supported: the TxGNN score of 0.9999 most likely reflects graph-embedding similarity between hair-related disease nodes rather than a genuine pharmacological relationship. No clinical trial or literature evidence has been identified to counter this concern, which is why the evidence level is scored L5 (model prediction only) and the recommendation is **Hold**.
+The high score most likely reflects knowledge-graph proximity to other hair-related disorders rather than a true mechanistic match. The prediction should be treated as a hypothesis, not as supported repurposing.
 
 ## Clinical Trial Evidence
 
@@ -63,22 +65,34 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA078341 | Finasteride | Film-coated tablet | Aurobindo Pharma Limited |
+| NDA020788 | PROPECIA | Film-coated tablet | Organon LLC |
+| ANDA204304 | Finasteride | Film-coated tablet | Proficient Rx LP |
+| ANDA090121 | Finasteride | Film-coated tablet | Proficient Rx LP |
+| ANDA090060 | Finasteride | Film-coated tablet | NuCare Pharmaceuticals, Inc. |
+
+All listed products are oral tablets. Approved indication text was empty in the source data.
+
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No drug interaction records were found in the record.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This prediction has zero supporting clinical trials and zero supporting publications (L5, model-prediction-only), and the underlying disease mechanism (non-androgen-dependent hypertrichosis) does not align well with Finasteride's 5α-reductase/DHT mechanism. The evidence review itself flags the TxGNN score as a likely embedding-similarity artifact rather than a genuine signal.
+The prediction has no trials or literature behind it, and Ambras syndrome is androgen-independent, so DHT suppression is not expected to help. The score is model-derived only.
 
 **To proceed, the following is needed:**
-- Original approved indication and mechanism of action (MOA) data for Finasteride (currently missing — DG002, High severity)
-- FDA label warnings/contraindications (currently missing — DG001, Blocking; required before any safety pre-screening can proceed)
-- Independent pharmacological review confirming whether any androgen-dependent subtype of hypertrichosis could plausibly respond to 5α-reductase inhibition
-- If further repurposing work on the hair-growth axis is desired, note that a separate TxGNN candidate — **hypertrichosis (disease)** (rank 2, score 99.99%, evidence level L4) — has some supporting literature and one related clinical trial, and may warrant its own dedicated evaluation rather than pursuing the Ambras syndrome candidate further
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism-of-action data from DrugBank
+- Original approved indication text
+- Any preclinical or case-level evidence linking 5-alpha reductase inhibition to TRPS1-related or congenital hypertrichosis phenotypes
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

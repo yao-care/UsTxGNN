@@ -33,76 +33,71 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-> Trospium is a quaternary ammonium, non-selective muscarinic receptor antagonist whose established drug-class use is overactive bladder (OAB); it is not currently licensed/marketed in this jurisdiction.
-> The TxGNN model predicts it may be effective for **Irritable Bowel Syndrome**,
-> but currently **0 clinical trials** and only **1 loosely related publication** support this direction, and that publication does not actually address IBS.
-
----
+Trospium is an antimuscarinic drug marketed in the US as an oral tablet and extended-release capsule. The pack's notes describe it as an overactive bladder drug, but the license records do not state an indication.
+The TxGNN model predicts it may be effective for **irritable bowel syndrome (IBS)**, but **0 clinical trials** and **1 publication** (not about IBS) support this, so it is a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Overactive Bladder (OAB) — inferred from mechanism-of-action references in the evidence pack; no formal NDA/license record exists for this drug in this market |
-| Predicted New Indication | Irritable Bowel Syndrome |
+| Original Indication | Not stated in the license data; overactive bladder per the pack's rationale notes |
+| Predicted New Indication | Irritable bowel syndrome |
 | TxGNN Prediction Score | 98.04% |
 | Evidence Level | L5 |
-| US Market Status | ✗ Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (the listed licenses are ANDA generics) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for Trospium (flagged as a high-severity data gap). Based on the information embedded in the evidence pack, Trospium is a quaternary ammonium, non-selective muscarinic receptor antagonist; its efficacy for overactive bladder has been established as its drug-class use, and — mechanistically — antimuscarinics of this type are used elsewhere (e.g., dicyclomine, hyoscine) as antispasmodics for irritable bowel syndrome, since blocking muscarinic receptors on intestinal smooth muscle can reduce spasm and cramping.
+Currently, detailed mechanism of action data is not available. Based on known information, trospium is an antimuscarinic. It is a quaternary amine with minimal central nervous system penetration, and it is used for overactive bladder. It may be mechanistically applicable to IBS through peripheral blockade of muscarinic receptors on smooth muscle.
 
-However, the direct evidentiary support for Trospium specifically in IBS is weak. The single cited publication (PMID 33890538) is a Medicare cohort study on antimuscarinic prescribing patterns in **dementia patients with overactive bladder** — it does not evaluate IBS at all and appears to be a topical mismatch rather than direct supporting evidence. No clinical trials targeting IBS were identified. The rationale for this candidate therefore rests entirely on drug-class analogy (antimuscarinic → GI antispasmodic effect), not on trial or literature data specific to Trospium and IBS.
+The reasoning is class-level: antimuscarinics reduce gut smooth-muscle spasm, which could ease the cramping and pain of IBS. This is plausible but unproven for trospium.
 
-Given the absence of both direct clinical trial evidence and on-topic literature, this prediction should be treated as a hypothesis generated purely from the knowledge-graph mechanism, consistent with its designated evidence level (L5).
-
----
+The only publication linked to this prediction (PMID 33890538) studies antimuscarinic use in older adults with dementia and overactive bladder. It says nothing about IBS. The very high TxGNN score (0.98) is therefore a prediction, not a finding supported by data.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [33890538](https://pubmed.ncbi.nlm.nih.gov/33890538/) | 2021 | Cohort | Current Medical Research and Opinion | Examined incidence/predictors of antimuscarinic (including non-selective agents like trospium) use among older adults with dementia and overactive bladder — **does not address IBS**; included here only because it is the closest literature match in the evidence pack |
-
----
+| [33890538](https://pubmed.ncbi.nlm.nih.gov/33890538/) | 2021 | Cohort | Current Medical Research and Opinion | Examined the incidence and predictors of antimuscarinic use among older adults with dementia and overactive bladder. It is not an IBS study. |
 
 ## US Market Information
 
-Trospium currently has no license/NDA records in this market (`total_licenses: 0`, market status: Not Marketed). No approved product or indication text is available for extraction.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA091573 | TROSPIUM CHLORIDE (Bryant Ranch Prepack) | Tablet, film coated | Not stated in the data |
+| ANDA206472 | Trospium Chloride (Macleods Pharmaceuticals) | Tablet | Not stated in the data |
+| ANDA091289 | Trospium Chloride (Golden State Medical Supply) | Capsule, extended release | Not stated in the data |
 
----
+The pack lists 20 licenses in total but details only five records. Three of those are repeat entries of ANDA091573, which are merged into one row above.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications (from the pack's rationale notes, not the safety fields)**: Trospium labeling lists uncontrolled narrow-angle glaucoma as a contraindication. Antimuscarinics can raise intraocular pressure.
+- **Other concern noted in the pack**: Trospium may worsen tachycardia.
 
-*(Note: Official label warnings and contraindications for Trospium are currently a documented data gap of "Blocking" severity — this must be resolved before any safety-relevant decision can be made.)*
-
----
+Please refer to the package insert for full warnings, contraindications, and drug interaction information. No drug interaction records were found.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN prediction score is high, but there are zero clinical trials and no on-topic literature supporting Trospium specifically for IBS — the only cited publication concerns an unrelated OAB/dementia population. Combined with the lack of any market presence or license record for this drug and a blocking gap in official safety labeling, the evidence does not currently meet the bar to advance beyond a research hypothesis.
+The IBS prediction rests only on the model score and a class-level mechanistic argument. There are no IBS-specific trials or studies, and the single linked paper concerns overactive bladder.
 
 **To proceed, the following is needed:**
-- Official TFDA/regulatory label with warnings and contraindications (currently a Blocking data gap)
-- Confirmed mechanism-of-action data from DrugBank (currently a data gap)
-- IBS-specific clinical trial or on-topic literature evidence (current literature is a topical mismatch)
-- Clarification of market/licensing pathway, since the drug is currently unmarketed in this jurisdiction
+- The package insert warnings and contraindications, which are currently blocking the safety screening.
+- Detailed mechanism of action data, for example from DrugBank.
+- IBS-specific evidence for trospium or close antimuscarinic analogues, such as clinical trials or observational studies.
+- A check of the other predictions in this pack:
+  - **Neurogenic bladder** has the strongest mechanistic fit (shared detrusor overactivity), but it has no evidence in the pack. Its ontology term is marked "obsolete" and should be remapped to a current term.
+  - **Insomnia** trials in the pack are false-positive matches: they study the xanomeline-trospium combination (KarXT) in schizophrenia, not sleep.
+  - **Glaucoma** predictions are potentially counter-therapeutic and should not be pursued.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,31 +29,29 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Liothyronine: From Hypothyroidism to Renal Hypodysplasia/Aplasia
+# Liothyronine: From Thyroid Hormone Replacement to Renal Hypodysplasia/Aplasia
 
 ## One-Sentence Summary
 
-Liothyronine (T3, DB00279) is a synthetic thyroid hormone; the Evidence Pack does not record its original approved indication (data gap), but it is pharmacologically known as thyroid hormone replacement/suppressive therapy. The TxGNN model predicts it may be effective for **Renal Hypodysplasia/Aplasia**, but this is currently a **pure knowledge-graph prediction with zero supporting clinical trials or literature**.
+Liothyronine is a synthetic form of the thyroid hormone triiodothyronine (T3), marketed in the US as oral tablets. The TxGNN model predicts it may be effective for **renal hypodysplasia/aplasia**, but **0 clinical trials** and **0 publications** support this prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in Evidence Pack (no licenses on file; drug is a synthetic thyroid hormone, clinically known for thyroid hormone replacement) |
-| Predicted New Indication | Renal Hypodysplasia/Aplasia |
+| Original Indication | Not stated in the US label data provided (liothyronine is a thyroid hormone) |
+| Predicted New Indication | Renal hypodysplasia/aplasia |
 | TxGNN Prediction Score | 99.95% |
-| Evidence Level | L5 |
-| US Market Status | ✗ Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, liothyronine is a synthetic form of triiodothyronine (T3) used in thyroid hormone replacement/suppressive therapy; its efficacy in thyroid hormone deficiency states has been established, but no formal original-indication record exists in this Evidence Pack (flagged as a High-severity data gap, DG002).
+Currently, detailed mechanism of action data is not available. Liothyronine is a direct thyroid hormone receptor agonist. Thyroid hormone plays a general role in kidney development, which is probably why the knowledge graph links it to this condition.
 
-The repurposing rationale for this candidate notes that thyroid hormone receptors are expressed during renal development, and animal models show associations between thyroid dysfunction and renal developmental defects. This offers a plausible biological explanation for the high TxGNN score, but it remains a pure knowledge-graph co-occurrence inference — there is no clinical or case-level evidence that T3 supplementation can treat this congenital structural kidney disease.
-
-Given renal hypodysplasia/aplasia is a structural/developmental malformation rather than a hormone-deficiency disorder, mechanistic plausibility alone does not establish therapeutic applicability, and no trial or observational data currently bridges this gap.
+The link is weak, though. Renal hypodysplasia/aplasia is a structural congenital anomaly, meaning the kidney fails to form properly. No evidence supports postnatal liothyronine treatment for such a condition, and a drug given after birth is unlikely to reverse a structural defect. The high score is more likely a knowledge-graph artifact from shared developmental gene or phenotype associations than a real therapeutic signal.
 
 ## Clinical Trial Evidence
 
@@ -62,6 +60,16 @@ Currently no related clinical trials registered.
 ## Literature Evidence
 
 Currently no related literature available.
+
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA091382 | liothyronine sodium (Sun Pharmaceutical Industries) | Tablet | Not listed in source data |
+| ANDA214803 | Liothyronine sodium (A-S Medication Solutions) | Tablet | Not listed in source data |
+| ANDA200295 | Liomny (Sigmapharm Laboratories) | Tablet | Not listed in source data |
+| ANDA211510 | Liothyronine Sodium (Teva Pharmaceuticals USA) | Tablet | Not listed in source data |
+| ANDA090097 | Liothyronine Sodium (Golden State Medical Supply) | Tablet | Not listed in source data |
 
 ## Safety Considerations
 
@@ -72,13 +80,15 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-This candidate has evidence level L5 (model prediction only) — no clinical trials, no literature, and no case reports support liothyronine for renal hypodysplasia/aplasia. In addition, a Blocking-severity data gap (DG001: TFDA label warnings/contraindications) prevents even an initial safety screen (S1).
+The prediction has a very high model score but no supporting trials or literature. A pharmacological benefit for a structural congenital kidney anomaly is also biologically implausible. It should not advance beyond the model-prediction stage.
+
+Among the other top-ranked predictions for liothyronine, only nodular goiter has a plausible, though indirect, mechanistic rationale (TSH suppression). It is a better candidate for further review.
 
 **To proceed, the following is needed:**
-- TFDA label/package insert data (warnings, contraindications) — currently blocking (DG001)
-- Confirmed mechanism of action and original indication documentation (DG002)
-- Preclinical or clinical evidence specifically linking T3 therapy to renal hypodysplasia/aplasia outcomes
-- Note: a separate candidate in this same Evidence Pack — **nodular goiter** (rank 3, evidence level L2, "Proceed with Guardrails") — is backed by 2 clinical trials and 20 literature records and reflects an already-established use of thyroid hormone suppressive therapy; it may warrant prioritization over this top-ranked but evidence-free candidate.
+- Mechanism of action data (MOA) from DrugBank
+- Package insert warnings and contraindications from the FDA label
+- Any preclinical or clinical evidence that thyroid hormone affects the pathology of renal hypodysplasia/aplasia
+- Approved indication text for the US licenses, to confirm the original indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Diazepam
-parent: High Evidence (L1-L2)
+parent: Moderate Evidence (L3-L4)
 nav_order: 600
-evidence_level: L2
+evidence_level: L3
 indication_count: 10
 ---
 
 # Diazepam
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,94 +29,118 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Diazepam: From Anxiety & Seizure Management to Insomnia
+# Diazepam: From an Established Benzodiazepine to Insomnia
 
 ## One-Sentence Summary
 
-Diazepam is a classic benzodiazepine historically established for anxiety disorders, alcohol withdrawal, muscle spasms, and seizure control.
-The TxGNN model predicts it may be effective for **Insomnia**, with **24 clinical trials** and **18 publications** currently supporting this direction.
-The mechanistic basis is well-founded, though meaningful long-term safety concerns — including dependence, disrupted sleep architecture, and cognitive impairment — substantially constrain its therapeutic application.
+Diazepam is a benzodiazepine that is currently marketed in the US, but the supplied record does not list its labeled indications.
+The TxGNN model predicts it may be effective for **insomnia**, with **24 registered clinical trials** and **18 publications** retrieved for this concept.
+Most of that evidence concerns hypnotic tapering, discontinuation and dependence. The only direct clinical comparison is a **1981** outpatient study, so the actual support for diazepam efficacy in insomnia is thin.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Regulatory data not retrieved (known pharmacological uses: anxiety disorders, seizures, muscle spasms, alcohol withdrawal) |
-| Predicted New Indication | Insomnia (disease) |
+|------|------|
+| Predicted New Indication | Insomnia |
 | TxGNN Prediction Score | 99.9997% |
-| Evidence Level | L2 |
-| US Market Status | Data retrieval gap (0 NDA records found; Valium/Diazepam historically FDA-approved since 1963) |
-| Number of NDAs | 0 (data gap) |
-| Recommended Decision | Proceed with Guardrails |
+| Evidence Level | L3 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Although the formal DrugBank mechanism of action record was not retrieved for this dataset, Diazepam's pharmacology is thoroughly characterized in published literature. Diazepam acts as a positive allosteric modulator (PAM) of the GABA-A receptor, binding to the benzodiazepine site between the α and γ subunits. This enhances the frequency of chloride channel opening in response to GABA, causing neuronal hyperpolarization and generalized CNS depression. The net effects include reduced sleep latency, increased total sleep time, and prolonged Stage 2 NREM sleep — making the hypnotic application pharmacologically straightforward and mechanistically inevitable.
+Detailed mechanism-of-action data is not available in the record. Diazepam is a positive allosteric modulator of the GABA-A receptor. Enhancing inhibitory GABA signaling produces sedative-hypnotic effects, so the mechanistic rationale for insomnia is plausible and well established.
 
-The connection between Diazepam's established anxiolytic properties and insomnia is clinically meaningful because insomnia frequently co-occurs with anxiety. The hyperarousal state that delays sleep initiation is directly addressed by GABAergic inhibition. This is why benzodiazepines were historically the standard of care for insomnia before z-drugs (zolpidem, zaleplon) and dual orexin receptor antagonists became available. PMID 6113175, the most direct RCT in this dataset, confirms Diazepam's measurable hypnotic efficacy in patients with sleep-onset disorders — establishing it as the active benchmark comparator in subsequent insomnia research.
+Benzodiazepines as a class have long been used for anxiety and insomnia. A review in the literature set (PMID 39581171) describes diazepam as a prototypical GABA-A modulator that gives therapeutic effects but also sedation-related side effects.
 
-However, the prediction's near-perfect score (99.9997%) reflects mechanistic inevitability rather than unexplored potential. The principal concern is not short-term efficacy but long-term risk. Chronic use suppresses REM sleep and slow-wave sleep, disrupts NREM slow oscillations and spindle coupling critical for memory consolidation in older adults (PMID 40570297, 2025, *Sleep*), and impairs dendritic spine structural plasticity via mitochondrial TSPO activation, causing persistent cognitive decline in animal models (PMID 35228700, 2022, *Nature Neuroscience*). Current clinical guidelines position benzodiazepines as short-term bridging agents only, with CBTi (Cognitive Behavioral Therapy for Insomnia) as the preferred first-line treatment.
+Direct proof is limited, however. The registered trials mostly study hypnotic discontinuation, tapering and dependence, not diazepam efficacy. The only direct clinical evidence is a 1981 comparison in which diazepam was the comparator. The model prediction is therefore best treated as a research question rather than an established new use.
 
 ---
 
 ## Clinical Trial Evidence
 
+Of the 24 trials retrieved, the 10 most relevant are listed below. None tests diazepam as an insomnia treatment.
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT05935553](https://clinicaltrials.gov/study/NCT05935553) | Phase 2/3 | Recruiting | 93 | Baclofen (GABA-B agonist) as adjunct to optimize Diazepam titration during BZD dependence treatment; Diazepam used as the reference standard, providing direct dosing and safety data relevant to insomnia management |
-| [NCT04050176](https://clinicaltrials.gov/study/NCT04050176) | Phase 3 | Active, Not Recruiting | 260 | Blinded vs. open-label BZD tapering combined with CBTi for chronic insomnia; evaluates discontinuation rates and the placebo contribution to hypnotic-dependent patients — defines boundary conditions for BZD use |
-| [NCT03461042](https://clinicaltrials.gov/study/NCT03461042) | Phase 4 | Completed | 17 | Ramelteon adjunct during (non-)BZD dose reduction algorithm for chronic insomnia; addresses transitional strategy from BZD to safer hypnotic alternatives |
-| [NCT04751851](https://clinicaltrials.gov/study/NCT04751851) | N/A | Completed | 128 | Acceptance and Commitment Therapy (ACT) vs. standard support added to BZD withdrawal program in adults with hypnotic-dependent insomnia; optimal withdrawal modalities assessed |
-| [NCT07417813](https://clinicaltrials.gov/study/NCT07417813) | N/A | Recruiting | 121 | Lemborexant (dual orexin antagonist) for insomnia comorbid with psychiatric disorders; benchmarks next-generation agents against BZD/Z-drug background |
-| [NCT02648776](https://clinicaltrials.gov/study/NCT02648776) | N/A | Unknown | 1,400 | Prospective Taiwanese cohort examining risk-benefit of BZD hypnotics in elderly patients; pharmacokinetics, clinical outcomes, and long-term safety — directly relevant to chronic insomnia management with BZDs |
-| [NCT03687086](https://clinicaltrials.gov/study/NCT03687086) | N/A | Completed | 188 | Novel cognitive mechanisms for helping older adults discontinue hypnotics; demonstrates that tapering alone is insufficient — motivational and cognitive targets must also be addressed |
-| [NCT02281175](https://clinicaltrials.gov/study/NCT02281175) | N/A | Completed | 114 | PASSE-65+ psychosocial program for gradual BZD weaning in elderly; 12-week randomized trial demonstrating feasibility of structured discontinuation with psychological support |
-| [NCT02831894](https://clinicaltrials.gov/study/NCT02831894) | Phase 2 | Completed | 74 | Comparison of fast vs. slow BZD tapering in treatment-seeking insomnia patients; individual traits (anxiety sensitivity, personality) predicted successful discontinuation |
-| [NCT05646693](https://clinicaltrials.gov/study/NCT05646693) | Phase 2 | Unknown | 58 | Antioxidant therapy combined with Adepsique® (amitriptyline + perphenazine + **diazepam**) for chronic tinnitus; direct diazepam-containing intervention arm with inflammatory cytokine and oxidative stress outcomes |
+| [NCT04050176](https://clinicaltrials.gov/study/NCT04050176) | Phase 3 | Active, not recruiting | 260 | Blinded vs open-label hypnotic tapering combined with CBT for insomnia. Tests discontinuation, not diazepam efficacy. |
+| [NCT05935553](https://clinicaltrials.gov/study/NCT05935553) | Phase 2/3 | Recruiting | 93 | Baclofen to improve benzodiazepine titration in dependence. Addresses the downside of long-term use. |
+| [NCT02831894](https://clinicaltrials.gov/study/NCT02831894) | Phase 2 | Completed | 74 | Effect of tapering pace on hypnotic discontinuation in insomnia. Provides withdrawal context. |
+| [NCT03461042](https://clinicaltrials.gov/study/NCT03461042) | Phase 4 | Completed | 17 | Ramelteon added during dose reduction or interruption of benzodiazepine and non-benzodiazepine hypnotics in chronic insomnia. |
+| [NCT04751851](https://clinicaltrials.gov/study/NCT04751851) | N/A | Completed | 128 | Acceptance and Commitment Therapy added to a benzodiazepine withdrawal program in hypnotic-dependent insomnia. |
+| [NCT01893632](https://clinicaltrials.gov/study/NCT01893632) | Phase 2 | Terminated | 2 | Gabapentin for benzodiazepine dependence. Terminated with only 2 participants. |
+| [NCT03687086](https://clinicaltrials.gov/study/NCT03687086) | N/A | Completed | 188 | Non-drug mechanism to help older adults stop sleeping pills. Indirect. |
+| [NCT02648776](https://clinicaltrials.gov/study/NCT02648776) | N/A | Unknown | 1400 | Prospective cohort on risk and benefit of hypnotics in elderly patients at a Taiwanese medical center. |
+| [NCT04364321](https://clinicaltrials.gov/study/NCT04364321) | N/A | Unknown | 74 | Single-dose clonazepam vs intermittent diazepam for recurrent febrile seizures in children. Not an insomnia trial. |
+| [NCT05646693](https://clinicaltrials.gov/study/NCT05646693) | Phase 2 | Unknown | 58 | Adepsique (amitriptyline, perphenazine, diazepam) in chronic tinnitus. Diazepam is only one component of the combination. |
 
 ---
 
 ## Literature Evidence
 
+Of the 18 publications retrieved, the 9 most relevant are listed below.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [6113175](https://pubmed.ncbi.nlm.nih.gov/6113175/) | 1981 | RCT | J Int Med Res | Double-blind 7-day trial (n=100): Lormetazepam 1 mg vs. **Diazepam 5 mg** for sleep disorders; Diazepam meaningfully reduced sleep latency and prolonged uninterrupted sleep, confirming direct hypnotic efficacy |
-| [39581171](https://pubmed.ncbi.nlm.nih.gov/39581171/) | 2024 | Review | Bioorganic Chem | Comprehensive review of GABA-A receptor modulators; Diazepam identified as the prototypical PAM with established activity for anxiety, epilepsy, and insomnia; sedation, tolerance, and dependence highlighted as key clinical limitations |
-| [40570297](https://pubmed.ncbi.nlm.nih.gov/40570297/) | 2025 | Cohort Study | Sleep | Chronic BZD/BZRA use in older adults with insomnia significantly disrupts NREM slow oscillations and spindle coupling — functions critical for memory consolidation; supports strict short-term use only |
-| [35228700](https://pubmed.ncbi.nlm.nih.gov/35228700/) | 2022 | Preclinical | Nature Neuroscience | Long-term diazepam impairs dendritic spine structural plasticity via mitochondrial TSPO, increasing microglial engulfment and causing persistent cognitive impairment in mice; raises dementia risk concern for chronic use |
-| [7595266](https://pubmed.ncbi.nlm.nih.gov/7595266/) | 1995 | Review | J Fam Pract | Systematic review of BZD therapy for insomnia in community-dwelling elderly; short-term sleep lab efficacy confirmed across 10 trials; long-term use associated with increased fall and injury risk |
-| [6135990](https://pubmed.ncbi.nlm.nih.gov/6135990/) | 1983 | Review | N Engl J Med | Landmark NEJM review establishing clinical pharmacokinetics and rational prescribing of BZDs; forms the foundational evidence base for Diazepam as a hypnotic agent |
-| [7525193](https://pubmed.ncbi.nlm.nih.gov/7525193/) | 1994 | Review/Guidelines | Drugs | Evidence-based guidelines for rational BZD use; recommends limiting hypnotic prescriptions to transient or short-term insomnia; longer half-life agents (including Diazepam) associated with greater daytime residual sedation and hangover |
-| [40583063](https://pubmed.ncbi.nlm.nih.gov/40583063/) | 2025 | Study | Cell Mol Biol Lett | Retrospective clinical analysis: prolonged BZDR use (Diazepam and Zolpidem) significantly exacerbates breast cancer risk; mechanistic evidence via GABA-A receptor signaling — safety signal for long-term use in women |
-| [29479317](https://pubmed.ncbi.nlm.nih.gov/29479317/) | 2018 | Review/Meta-analysis | Front Pharmacol | Meta-analysis of Suanzaoren formulae for insomnia RCTs; Diazepam consistently used as active comparator, affirming its benchmark hypnotic status in controlled insomnia research |
-| [37776625](https://pubmed.ncbi.nlm.nih.gov/37776625/) | 2023 | Animal Study | J Pharm Biomed Anal | Naoling Pian vs. Diazepam (positive control) in PCPA-induced insomnia rats; Diazepam produced significant sleep prolongation and behavioral normalization, validating its preclinical sedative-hypnotic efficacy profile |
+| [6113175](https://pubmed.ncbi.nlm.nih.gov/6113175/) | 1981 | Comparative clinical trial (double-blind) | J Int Med Res | 100 outpatients with insomnia, 7 days. Lormetazepam 1 mg was significantly better than diazepam 5 mg at shortening time to fall asleep and prolonging uninterrupted sleep. |
+| [39581171](https://pubmed.ncbi.nlm.nih.gov/39581171/) | 2024 | Review | Bioorg Chem | Reviews GABA-A receptor modulators. Diazepam is a positive allosteric modulator with therapeutic effects but also sedation-related side effects. |
+| [36692463](https://pubmed.ncbi.nlm.nih.gov/36692463/) | 2023 | Meta-analysis | Acta Pharm | Assesses tranquilizers in elderly patients by dose, outcomes and adverse effects. The supplied abstract gives no results. |
+| [35196378](https://pubmed.ncbi.nlm.nih.gov/35196378/) | 2022 | Nonrandomized intervention | Fam Pract | Discontinuation of chronic benzodiazepine use in primary care. The supplied abstract gives no results. |
+| [6114852](https://pubmed.ncbi.nlm.nih.gov/6114852/) | 1981 | Review | Drugs | Triazolam review. Its short half-life is described as more suitable for insomnia than longer-acting benzodiazepines. Does not evaluate diazepam directly. |
+| [35228700](https://pubmed.ncbi.nlm.nih.gov/35228700/) | 2022 | Preclinical (mouse) | Nat Neurosci | Long-term diazepam impaired dendritic spine plasticity and caused cognitive impairment via TSPO. A safety signal. |
+| [40583063](https://pubmed.ncbi.nlm.nih.gov/40583063/) | 2025 | Clinical and mechanistic study | Cell Mol Biol Lett | Prolonged use of benzodiazepines and Z-drugs was linked to higher breast cancer risk. A long-term safety signal. |
+| [40350874](https://pubmed.ncbi.nlm.nih.gov/40350874/) | 2025 | Preclinical (mouse) | Zhongguo Zhong Yao Za Zhi | Diazepam served only as the positive control in a herbal-extract study. |
+| [37776625](https://pubmed.ncbi.nlm.nih.gov/37776625/) | 2023 | Preclinical (rat) | J Pharm Biomed Anal | Diazepam served only as the positive control in a metabolomics study of a Chinese medicine for insomnia. |
+
+---
+
+## US Market Information
+
+There are 20 authorizations in total. Five are listed below. The record gives no approved-indication text for any of them.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA217843 | Diazepam (ASCLEMED USA INC.) | Tablet | Not provided in the record |
+| NDA020648 | Diazepam (Oceanside Pharmaceuticals) | Gel | Not provided in the record |
+| ANDA070325 | Diazepam (Cardinal Health 107, LLC) | Tablet | Not provided in the record |
+| ANDA070325 | Diazepam (Mylan Pharmaceuticals Inc.) | Tablet | Not provided in the record |
+| ANDA206477 | Diazepam (Chartwell RX, LLC) | Solution | Not provided in the record |
+
+Other forms in the record include injection solution and spray.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No warning, contraindication or drug-interaction data was available in the record.
+
+The supplied literature points to concerns that should be weighed in any insomnia use:
+- **Dependence, tolerance and withdrawal:** much of the trial evidence exists because long-term hypnotic use causes dependence that is hard to stop.
+- **Cognitive impairment:** long-term diazepam impaired cognition in a mouse study (PMID 35228700).
+- **Older adults:** fall risk and cognitive effects are especially relevant in this group.
+- **Possible cancer signal:** prolonged benzodiazepine and Z-drug use was linked to higher breast cancer risk (PMID 40583063).
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Diazepam has a well-established mechanistic basis for treating insomnia (GABA-A positive allosteric modulation → CNS inhibition → reduced sleep latency and increased sleep duration), confirmed by a direct RCT (PMID 6113175) and endorsed in multiple guideline-level reviews spanning four decades. The L2 evidence level is grounded in real clinical data. However, the core clinical evidence is aging (1980s–1990s), and more recent findings document significant long-term risks: disrupted sleep architecture, cognitive impairment, dependency, and potential oncological associations. Current clinical practice has largely transitioned to CBTi and newer pharmacological agents for chronic insomnia.
+The GABA-A mechanism makes the prediction plausible. However, no modern trial tests diazepam for insomnia, and the only direct clinical study is from 1981. The main long-term safety concerns are dependence, cognitive impairment and fall risk. The package-insert safety data is also missing, which blocks the safety screening step.
+
+The other nine predicted indications are weaker still: they are graded L4 to L5 and are also on Hold.
 
 **To proceed, the following is needed:**
-- Retrieve the US FDA package insert and complete NDA records via the FDA Orange Book (NDA 013263 for Valium and associated generics) to fill the US regulatory data gap
-- Obtain formal DrugBank MOA documentation (DG002) for standardized mechanistic reporting
-- Define a strict duration limit for any proposed use (2–4 weeks per current international guidelines)
-- Establish clear patient exclusion criteria: adults aged ≥65 years, patients with prior or current substance use disorder, obstructive sleep apnea, and pregnant or nursing individuals
-- Develop a pre-planned dose-tapering exit protocol to minimize discontinuation syndrome and rebound insomnia
-- Evaluate whether this repurposing pathway provides incremental clinical value over already-approved alternatives (z-drugs, ramelteon, lemborexant/suvorexant) before committing to a formal development program
+- Package insert warnings, contraindications and labeled indications for the US products
+- Detailed mechanism of action data from DrugBank
+- A systematic review comparing diazepam with current first-line insomnia treatments, including CBT for insomnia and newer hypnotics
+- A safety plan for short-term use, dependence risk and older-adult populations, if a trial is considered
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

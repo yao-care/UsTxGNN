@@ -33,56 +33,98 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Eptifibatide is a GPIIb/IIIa (integrin αIIbβ3) platelet aggregation inhibitor, historically used in acute coronary syndromes and percutaneous coronary intervention. The TxGNN model predicts it may be effective for **Rheumatoid Arthritis**, but this direction currently has **0 clinical trials** and **0 publications** supporting it — it is a model-score-only prediction.
+Eptifibatide is an injectable GP IIb/IIIa (platelet aggregation) antagonist, and the literature in the pack describes it as an established treatment for acute coronary syndrome.
+The TxGNN model predicts it may be effective for **rheumatoid arthritis**, but this top-ranked prediction has **0 clinical trials** and **0 publications** behind it, so it rests on the model score alone.
+The pack's best-supported candidate is a different one, **hemoglobinopathy (sickle cell disease)**, with 1 terminated Phase 1/2 trial and 4 publications, described below.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Acute coronary syndrome (ACS) / unstable angina — inferred from supporting literature in this evidence pack; no formal license record exists because the drug is not marketed in this jurisdiction |
-| Predicted New Indication | Rheumatoid Arthritis |
+| Original Indication | Not listed in the license data (acute coronary syndrome, per the literature in the pack) |
+| Predicted New Indication | Rheumatoid arthritis |
 | TxGNN Prediction Score | 99.99% |
-| Evidence Level | L5 |
-| US Market Status | ✗ Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (all listed licenses shown are generic ANDAs) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Eptifibatide is a reversible GPIIb/IIIa (integrin αIIbβ3) antagonist that inhibits platelet aggregation. Literature in this evidence pack (e.g., PMID 17916103) describes it as "an effective treatment for patients with acute coronary syndromes (ACS)," consistent with its known antiplatelet role in cardiovascular disease.
+Eptifibatide blocks the GP IIb/IIIa receptor on platelets and so prevents platelet aggregation. Currently, detailed mechanism of action data is not available in the DrugBank record. The description above comes from the pack's rationale text and literature.
 
-Rheumatoid arthritis, however, is primarily an autoimmune/inflammatory synovitis-driven disease. Per the evidence pack's own mechanistic assessment, RA pathology has no clear, direct link to platelet GPIIb/IIIa inhibition — the rationale explicitly notes mechanistic plausibility is low, and the ranking is driven by the TxGNN model score alone rather than any corroborating clinical or literature signal.
+Platelets are known to contribute to synovial inflammation, which is the only loose link between an antiplatelet drug and rheumatoid arthritis. No data connect this mechanism to the disease, and there are no trials or publications. A high model score alone is not clinical evidence. Bleeding risk is also a concern for a chronic inflammatory disease that requires long-term treatment.
 
-Notably, this same evidence pack contains other eptifibatide-disease pairs with far stronger, mechanistically coherent support — particularly hemoglobinopathy/sickle cell disease (vascular occlusion via platelet activation), which has a completed Phase 1/2 RCT and four supporting publications. The rheumatoid arthritis candidate should be read in that context as the weakest-evidenced of the top-ranked predictions, not the strongest.
+**A note on the other predictions.** The sickle cell-related predictions have a clearer mechanistic story. Platelet activation and adhesion contribute to microvascular occlusion and pain crises in sickle cell disease. Eptifibatide has been tested in small studies in this setting (see the evidence sections below). Several other predictions, such as the 16p partial deletion, look like knowledge graph artifacts with no plausible mechanism.
+
+---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for rheumatoid arthritis.
+
+For reference, the pack lists one trial for the related prediction **hemoglobinopathy**:
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00834899](https://clinicaltrials.gov/study/NCT00834899) | Phase 1/2 | Terminated | 13 | Randomized, double-blind, placebo-controlled safety study of eptifibatide for acute pain episodes in sickle cell disease. Stopped early, so it is underpowered and cannot support efficacy conclusions. |
+
+---
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for rheumatoid arthritis.
+
+For reference, the pack lists these publications for **hemoglobinopathy** (sickle cell disease):
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [23973010](https://pubmed.ncbi.nlm.nih.gov/23973010/) | 2013 | Pilot randomized study | Thromb Res | Evaluated safety and efficacy of eptifibatide in SCD patients during acute painful episodes |
+| [17916103](https://pubmed.ncbi.nlm.nih.gov/17916103/) | 2007 | Phase 1 | Br J Haematol | Safety and pharmacodynamics in 4 steady-state sickle cell anaemia patients, based on the rationale that platelet reactivity and CD40L contribute to the disease |
+| [29322543](https://pubmed.ncbi.nlm.nih.gov/29322543/) | 2018 | Secondary analysis of trial | Am J Hematol | Effect of eptifibatide on inflammation biomarkers during acute pain episodes (no abstract available) |
+| [22156199](https://pubmed.ncbi.nlm.nih.gov/22156199/) | 2012 | In vitro model | J Clin Invest | Microfluidic model of microvascular occlusion and thrombosis in hematologic diseases such as SCD |
+
+The pack also links PMID 24678072 (eptifibatide tolerability in acute coronary syndrome) to sickle cell-hemoglobin C disease. It appears to be unrelated to that disease, and its listed year (2005) and truncated title do not match the PMID, so the citation should be verified before any use.
+
+---
 
 ## US Market Information
 
-Eptifibatide is not currently marketed in this jurisdiction (0 licenses on record); no NDA or product authorization data is available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA206127 | Eptifibatide (Eugia US LLC) | Injection | Not listed in the data |
+| ANDA208554 | Eptifibatide (Baxter Healthcare Company) | Injection | Not listed in the data |
+| ANDA203258 | Eptifibatide (Mylan Institutional LLC) | Injection, solution | Not listed in the data |
+| ANDA213081 | Eptifibatide (Avenacy Inc.) | Injection, solution | Not listed in the data |
+
+The pack reports 20 licenses in total. Only these four distinct products are shown, since ANDA206127 appears twice in the list.
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Bleeding risk**: A bleeding risk is flagged in the pack's rationale for a chronic inflammatory disease, and it needs a dedicated safety assessment before any further progression.
+
+Please refer to the package insert for other safety information. The FDA package insert warnings and contraindications are not yet available in the pack.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The rheumatoid arthritis prediction is supported only by a TxGNN model score, with zero clinical trials or literature and a mechanistic rationale rated as weak by the evidence pack itself. Combined with a blocking data gap on TFDA safety warnings/contraindications, there is no basis for even a preliminary safety assessment (S0 stage).
+The rheumatoid arthritis prediction has a very high model score (99.99%) but no trials, no literature, and only a speculative mechanism, so it is Level L5. Bleeding risk in a chronic condition adds to the concern.
 
 **To proceed, the following is needed:**
-- TFDA/FDA label data — warnings and contraindications (currently a blocking data gap, DG001)
-- Formal mechanism-of-action documentation for eptifibatide (currently a high-severity data gap, DG002)
-- Any preclinical or mechanistic studies specifically linking GPIIb/IIIa inhibition to RA pathophysiology
-- Consider evaluating **hemoglobinopathy** (rank 7 in this same pack) as a separate, better-supported repurposing candidate — it has L2 evidence with a completed Phase 1/2 RCT and four supporting publications, versus no evidence for rheumatoid arthritis
+- The package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data (MOA) from DrugBank
+- Any preclinical or clinical evidence linking GP IIb/IIIa inhibition to rheumatoid arthritis, or a decision to prioritize the sickle cell / hemoglobinopathy candidate (L2, still a research question because trial NCT00834899 was terminated at 13 patients)
+- A bleeding-risk assessment for the intended patient population and dosing setting
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

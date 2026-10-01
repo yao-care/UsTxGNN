@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Rifaximin
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 1122
-evidence_level: L5
+evidence_level: L4
 indication_count: 6
 ---
 
 # Rifaximin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **6** 
+Evidence Level: **L4** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,11 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Rifaximin: From Unspecified Original Indication to Oral Candidiasis
+# Rifaximin: From Gut-Restricted Antibacterial to Oral Candidiasis
 
 ## One-Sentence Summary
 
-> Rifaximin's original indication data is not available in this evidence pack, and the drug is currently **not marketed in Taiwan**.
-> The TxGNN model predicts a possible link to **Oral Candidiasis** with a very high score (99.75%),
-> but the only supporting literature actually reports rifaximin as a **risk factor** for candidiasis, not a treatment — the mechanistic and clinical evidence contradict the prediction.
+Rifaximin is an oral, poorly absorbed antibiotic that is marketed in the US as XIFAXAN tablets. The TxGNN model predicts it may be effective for **oral candidiasis** with a very high score, but there are **0 clinical trials** and only **1 publication**. That publication points to a possible harm signal rather than a treatment benefit.
 
 ---
 
@@ -43,23 +41,27 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no license or indication data provided) |
-| Predicted New Indication | Oral Candidiasis |
+| Original Indication | Not listed in the supplied US license records |
+| Predicted New Indication | Oral candidiasis |
 | TxGNN Prediction Score | 99.75% |
-| Evidence Level | L5 (model prediction only; available evidence points opposite direction) |
-| Market Status (Taiwan) | Not marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L4 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 4 license entries (all under NDA021361) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for rifaximin in this evidence pack. Based on the drug's known pharmacological class, rifaximin is a gut-restricted, non-absorbable rifamycin-class antibiotic that inhibits bacterial DNA-dependent RNA polymerase in enteric bacteria. It has no known antifungal activity, so there is no direct pharmacological mechanism connecting it to *Candida* (fungal) infections such as oral candidiasis.
+Currently, detailed mechanism of action data is not available. Based on known information, rifaximin is a non-absorbed oral antibacterial that acts mainly in the gut. It has no established antifungal activity, so a direct therapeutic link to oral candidiasis is not supported.
 
-The single relevant publication identified (PMID 34180023) actually reports the **opposite relationship**: in allogeneic HSCT recipients, rifaximin use was associated with emergence of micafungin-resistant *Candida* species, likely because suppression of competing gut bacterial flora allows fungal overgrowth. A second paper found for the related "candidiasis" prediction (PMID 32360775) similarly lists broad-spectrum antibacterial exposure as a risk factor for candidaemia in cirrhotic patients, not a protective factor.
+The high TxGNN score (0.997) most likely reflects proximity in the knowledge graph, such as shared oral-disease and infection neighbors, rather than biology. The only linked paper suggests the opposite direction. In allogeneic stem cell transplant recipients, rifaximin use was associated with micafungin-resistant *Candida* infections. Suppressing gut bacteria may favor fungal overgrowth, so this is a safety concern rather than support for treatment.
 
-Given this, the high TxGNN score most likely reflects an indirect knowledge-graph connection (e.g., shared microbiome/gut-flora nodes) rather than a genuine therapeutic signal. The repurposing rationale for this candidate should be treated as **not mechanistically supported**, and the same conclusion extends to the lower-ranked candidates (commissural lip fistula, osteoradionecrosis of the mandible, oral leukoedema, burning mouth syndrome), none of which have any biological plausibility or supporting literature.
+The other four predictions from the same run also have no supporting evidence and no plausible mechanism:
+- commissural lip fistula
+- osteoradionecrosis of the mandible
+- oral leukoedema
+- burning mouth syndrome
 
 ---
 
@@ -73,13 +75,22 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [34180023](https://pubmed.ncbi.nlm.nih.gov/34180023/) | 2021 | Cohort | Annals of Hematology | Rifaximin use in allogeneic HSCT recipients was associated with emergence of micafungin-resistant *Candida* spp. — a risk signal, not a treatment benefit |
+| [34180023](https://pubmed.ncbi.nlm.nih.gov/34180023/) | 2021 | Cohort | Annals of Hematology | Rifaximin prophylaxis in allogeneic stem cell transplant patients was associated with more micafungin-resistant *Candida* infections. This is a possible harm signal, not evidence of benefit. Based on the title and a truncated abstract. |
+
+Note: the broader "candidiasis" prediction (rank 6) also cites a 2021 case-control study of candidemia risk factors in cirrhosis ([32360775](https://pubmed.ncbi.nlm.nih.gov/32360775/)). It describes risk factors, not treatment benefit, and is confounded by underlying liver disease.
 
 ---
 
 ## US Market Information
 
-Rifaximin is not currently marketed in Taiwan under this evidence pack (0 licenses on record); no product/license data is available.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA021361 | XIFAXAN | Tablet | Cardinal Health 107, LLC |
+| NDA021361 | XIFAXAN | Tablet | Salix Pharmaceuticals, Inc. |
+| NDA021361 | XIFAXAN | Tablet | A-S Medication Solutions |
+| NDA021361 | XIFAXAN | Tablet | Salix Pharmaceuticals, Inc. |
+
+The route of administration is oral only. Approved indication text was empty in the supplied records.
 
 ---
 
@@ -87,7 +98,7 @@ Rifaximin is not currently marketed in Taiwan under this evidence pack (0 licens
 
 Please refer to the package insert for safety information.
 
-*(Note: TFDA label warnings/contraindications are flagged as a **Blocking** data gap (DG001) — this must be resolved before any safety review (S1) can proceed.)*
+No drug-interaction records were found in the queried data. The only literature signal is the association between rifaximin use and resistant *Candida* infections in transplant recipients (see above).
 
 ---
 
@@ -96,13 +107,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-Despite a high TxGNN score, there is no mechanistic basis and no supportive clinical or literature evidence for rifaximin in oral candidiasis — the only available publication reports rifaximin as a risk factor for candidiasis, not a treatment. All other top-ranked predictions for this drug (commissural lip fistula, osteoradionecrosis of the mandible, oral leukoedema, burning mouth syndrome, candidiasis) similarly lack any supporting evidence or plausible mechanism. This candidate should not advance past S0.
+The prediction has no clinical trials, no plausible antifungal mechanism, and the only related literature suggests a possible risk rather than a benefit. The high TxGNN score alone is not sufficient to justify further investment.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (Blocking gap, DG001) — required before any safety screening
-- Confirmed mechanism of action (MOA) data from DrugBank (High priority gap, DG002)
-- Original indication data (currently missing entirely)
-- If this candidate is to be reconsidered, an independent investigation into why TxGNN scored it highly despite contradicting evidence (possible graph-embedding artifact) is recommended before further evaluation
+- The US package insert (warnings, contraindications, approved indications), which is required for safety screening
+- Detailed mechanism of action data from DrugBank
+- A full-text review of PMID 34180023 to clarify whether rifaximin promotes resistant *Candida* infection
+- In vitro antifungal activity data against *Candida* species, if any exist
+- Evidence that a gut-restricted, minimally absorbed drug can reach oral mucosal sites at relevant concentrations
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

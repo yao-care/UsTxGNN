@@ -33,27 +33,29 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Insulin human is the endogenous-identical hormone used as replacement therapy for diabetes mellitus. The TxGNN model predicts it may be effective for **Autoimmune Oophoritis**, but this direction is currently supported by **0 clinical trials** and **0 publications**, and the model's own rationale flags the score as a likely graph-connectivity artifact rather than a genuine mechanistic signal.
+Insulin human is a marketed recombinant hormone replacement therapy, used mainly for glycemic control in diabetes.
+The TxGNN model predicts it may be effective for **autoimmune oophoritis**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
+The prediction rests on model output alone, and no plausible mechanism has been identified.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Diabetes Mellitus (general pharmacological knowledge; no Taiwan-specific label text available — drug is not currently marketed in Taiwan) |
-| Predicted New Indication | Autoimmune Oophoritis |
+| Original Indication | Diabetes mellitus (the license records in the Evidence Pack contain no indication text) |
+| Predicted New Indication | Autoimmune oophoritis |
 | TxGNN Prediction Score | 99.84% |
 | Evidence Level | L5 |
-| Market Status (Taiwan) | ✗ Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (BLA licenses) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in this evidence pack (flagged as a High-severity data gap). Insulin human's established pharmacology is receptor-mediated glucose uptake and metabolic regulation via the insulin receptor — it has no known direct immunomodulatory action on ovarian tissue.
+Currently, detailed mechanism of action data is not available. Insulin human is exogenous insulin, a replacement hormone whose efficacy in diabetes is well established. The Evidence Pack contains no MOA record for it.
 
-The model's own repurposing rationale is explicit that there is **no direct mechanistic link** between insulin and autoimmune oophoritis. Diabetes and premature ovarian failure can co-occur within autoimmune polyglandular syndrome (APS-2/APS-3), but this reflects shared autoimmune susceptibility across endocrine organs — not a causal pathway through which insulin treats ovarian autoimmunity. The evidence pack notes that insulin's very high connectivity within the knowledge graph (it links to a large number of endocrine/metabolic disease nodes) may itself be inflating the TxGNN score, independent of true biological relevance.
+Autoimmune oophoritis is an autoimmune disorder of the ovary. Exogenous insulin has no documented mechanism in this condition. The high score most likely reflects graph proximity through shared autoimmune or endocrine nodes, not a therapeutic relationship.
 
-Given the absence of any supporting clinical trials, literature, or a plausible causal mechanism, this prediction should be treated as a graph-driven hypothesis rather than a clinically grounded repurposing candidate.
+This prediction should therefore be treated as a weak, model-generated hypothesis. Without a mechanistic link, direct evidence or any registered study, it is not a credible repurposing candidate for now.
 
 ## Clinical Trial Evidence
 
@@ -65,24 +67,36 @@ Currently no related literature available.
 
 ## US Market Information
 
-Insulin human is currently **not marketed in Taiwan** (0 licenses on file; `taiwan_regulatory.market_status` = Not marketed). No authorization records are available to summarize.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| BLA018780 | HUMULIN R | Injection, solution | A-S Medication Solutions |
+| BLA019959 | Novolin | Injection, suspension | A-S Medication Solutions |
+| BLA018780 | Humulin | Injection, solution | Eli Lilly and Company |
+| BLA018781 | Humulin | Injection, suspension | Eli Lilly and Company |
+| BLA019717 | Humulin | Injection, suspension | Eli Lilly and Company |
+
+The list shows 5 of 20 licenses. Available dosage forms are injectable solution and suspension, plus a metered powder form.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug interaction data are not currently available for this candidate — TFDA label retrieval is flagged as a Blocking data gap that must be resolved before any safety-stage evaluation.)
+Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction carries a high TxGNN score but is unsupported by any clinical trial or literature evidence (Evidence Level L5), and the model's own rationale identifies the association as likely reflecting graph connectivity rather than a real mechanistic pathway between insulin and autoimmune oophoritis.
+The prediction is model-only (L5), with no trials, no literature and no documented mechanism for insulin in autoimmune oophoritis. The data gaps in the package insert warnings and MOA also block safety screening.
+
+Across the top 10 predictions, only pancreatic agenesis reached the S1 stage. There, insulin replacement is physiologically rational, but disease-specific evidence is still needed. Two lipodystrophy-related predictions (drug-induced localized lipodystrophy and pressure-induced localized lipoatrophy) more likely reflect insulin's known injection-site adverse effects than a therapeutic use.
 
 **To proceed, the following is needed:**
-- TFDA label / warnings and contraindications data (currently a Blocking gap)
-- Verified mechanism of action data for insulin human (currently a High-severity gap)
-- Preclinical or mechanistic evidence specifically linking insulin signaling to ovarian autoimmune pathophysiology
-- Any case reports, observational data, or trials directly studying insulin (or related endocrine replacement) in autoimmune oophoritis populations
+- Package insert warnings and contraindications (blocking data gap)
+- Mechanism of action data, e.g. from DrugBank
+- A literature search for any link between insulin, or glycemic and metabolic dysregulation, and autoimmune oophoritis
+- A rationale for why insulin would act on an autoimmune ovarian process, before any further evaluation
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

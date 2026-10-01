@@ -29,91 +29,84 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ramipril: From Hypertension/RAAS Therapy to Pulmonary Hypertension Owing to Lung Disease and/or Hypoxia
+# Ramipril: From Antihypertensive Use to Pulmonary Hypertension Owing to Lung Disease and/or Hypoxia
 
 ## One-Sentence Summary
 
-> Ramipril is an angiotensin-converting enzyme (ACE) inhibitor that suppresses the renin-angiotensin-aldosterone system (RAAS); its original approved indication is not recorded in this evidence pack.
-> The TxGNN model predicts it may be effective for **Pulmonary Hypertension Owing to Lung Disease and/or Hypoxia**,
-> but currently **0 clinical trials** and **20 publications** support this direction — and none of the 20 publications actually studies ramipril or ACE inhibitors in pulmonary hypertension.
-
----
+Ramipril is an ACE inhibitor, a class used to lower blood pressure and protect the kidneys and blood vessels.
+The TxGNN model predicts it may be effective for **pulmonary hypertension owing to lung disease and/or hypoxia**.
+The prediction rests on the model score alone: **0 clinical trials** are registered, and none of the **20 retrieved publications** studies ramipril in this condition.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in this evidence pack (no `original_indications` or `licenses` records; flagged as data gap DG001) |
-| Predicted New Indication | Pulmonary Hypertension Owing to Lung Disease and/or Hypoxia |
+| Original Indication | Not stated in the supplied US label text; ramipril is an ACE inhibitor (antihypertensive/renoprotective class) |
+| Predicted New Indication | Pulmonary hypertension owing to lung disease and/or hypoxia |
 | TxGNN Prediction Score | 99.93% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
-| Recommended Decision | **Hold** |
-
----
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 authorizations (mix of ANDA and NDA) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data from DrugBank is not available for this candidate (flagged as data gap DG002, High severity). However, information embedded in this evidence pack's own trial and literature records confirms ramipril's pharmacological class: it is referenced as an **ACE inhibitor** (see clinical trial NCT00005928, "Angiotensin Converting Enzyme Inhibitor Therapy... trade name Ramipril") that acts by suppressing the RAAS pathway.
+Detailed mechanism-of-action data for ramipril is not available in the supplied record. Ramipril is an ACE inhibitor. It lowers angiotensin II-mediated vasoconstriction and vascular remodeling. Since the renin-angiotensin system is thought to contribute to pulmonary vascular remodeling, the link to pulmonary hypertension is plausible.
 
-The mechanistic hypothesis for pulmonary hypertension is that RAAS inhibition could theoretically reduce hypoxia-induced pulmonary vascular remodeling, since angiotensin II contributes to vascular smooth muscle proliferation and fibrosis under chronic hypoxic stress. This is a plausible, but currently *unproven*, extension of ramipril's known cardiovascular pharmacology.
+The link is also non-specific and unproven. The model score is the only support for this pair. ACE inhibitors can also blunt hypoxic pulmonary vasoconstriction. In patients with lung disease this could worsen gas exchange, so the drug could be harmful in this specific setting.
 
-Critically, all 20 literature records retrieved for this indication are basic hypoxia biology papers — covering topics such as brain aging, cognitive impairment, tumor hypoxia signaling, and altitude physiology — **none of which mention ramipril or ACE inhibitors, and none study pulmonary hypertension treatment directly**. The mechanistic link therefore remains theoretical, not evidence-based.
-
----
+A closely related prediction, pulmonary hypertension with unclear multifactorial mechanism (rank 2, same score), has no trials or literature either.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for this indication.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-**Note:** The 20 retrieved publications are general hypoxia-biology background literature and do not directly study ramipril, ACE inhibitors, or pulmonary hypertension treatment. They are listed below for transparency but do not constitute drug-specific evidence.
+The search returned 20 papers, but they are general hypoxia biology reviews and basic research. None examines ramipril or ACE inhibitors, and none addresses pulmonary hypertension treatment. They are not evidence for this prediction. Examples:
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [33862277](https://pubmed.ncbi.nlm.nih.gov/33862277/) | 2021 | Review | Ageing Research Reviews | Hypoxia's role in brain aging and neurodegeneration (general biology, not drug-specific) |
-| [34618295](https://pubmed.ncbi.nlm.nih.gov/34618295/) | 2022 | Review | Metabolic Brain Disease | Clinical and molecular mechanisms of hypoxia-induced cognitive impairment |
-| [37328448](https://pubmed.ncbi.nlm.nih.gov/37328448/) | 2023 | Basic Research | Advanced Science | Hypoxia tolerance via NAT10/SEPT9/HIF-1α feedback loop in gastric cancer |
-| [21328446](https://pubmed.ncbi.nlm.nih.gov/21328446/) | 2011 | Review | J Cellular Biochemistry | General review of hypoxia-mediated cellular and organismal responses |
-| [31706510](https://pubmed.ncbi.nlm.nih.gov/31706510/) | 2019 | Basic Research | Trends in Cancer | Deubiquitinases regulate HIF stability in hypoxic tumor environments |
-| [11172576](https://pubmed.ncbi.nlm.nih.gov/11172576/) | 2000 | Review | Respiratory Care Clinics of North America | Review of the physiological mechanisms of hypoxemia |
-| [34535359](https://pubmed.ncbi.nlm.nih.gov/34535359/) | 2021 | Review | Clinical Oncology | Therapeutic modification of tumor hypoxia for radiotherapy resistance |
-| [40815459](https://pubmed.ncbi.nlm.nih.gov/40815459/) | 2025 | Review | Rev Med Inst Mex Seguro Soc | Physiology of altitude-related (hypobaric) hypoxia |
-| [24557798](https://pubmed.ncbi.nlm.nih.gov/24557798/) | 2014 | Commentary | J Applied Physiology | Perspective on hypoxia research translation |
-| [40347693](https://pubmed.ncbi.nlm.nih.gov/40347693/) | 2025 | Review | Redox Biology | Role of hypoxia in multiple sclerosis pathology |
-
----
+| [33862277](https://pubmed.ncbi.nlm.nih.gov/33862277/) | 2021 | Review | Ageing Res Rev | Hypoxia and brain aging; neurodegeneration vs. neuroprotection |
+| [34618295](https://pubmed.ncbi.nlm.nih.gov/34618295/) | 2022 | Review | Metab Brain Dis | Clinical evidence and molecular mechanisms of hypoxia-induced cognitive impairment |
+| [11172576](https://pubmed.ncbi.nlm.nih.gov/11172576/) | 2000 | Review | Respir Care Clin N Am | Four basic mechanisms of hypoxemia; no drug data |
+| [21328446](https://pubmed.ncbi.nlm.nih.gov/21328446/) | 2011 | Review | J Cell Biochem | Cellular responses to hypoxia in vascular disease, inflammation and cancer |
+| [37328448](https://pubmed.ncbi.nlm.nih.gov/37328448/) | 2023 | Basic research | Adv Sci (Weinh) | Hypoxia tolerance and glycolysis in gastric cancer cells; unrelated to ramipril |
 
 ## US Market Information
 
-Ramipril currently has no market authorization records within the scope of this evidence pack (market status: **Not Marketed**, 0 licenses on file).
+The supplied records contain no approved-indication text for any authorization.
 
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA091604 | Ramipril | Capsule | A-S Medication Solutions |
+| ANDA091604 | Ramipril | Capsule | Rising Pharma Holdings, Inc. |
+| ANDA078832 | Ramipril | Capsule | Zydus Lifesciences Limited |
+| ANDA078832 | Ramipril | Capsule | Zydus Pharmaceuticals USA Inc. |
+| NDA219757 | Vostally | Solution | Metacel Pharmaceuticals, LLC |
+
+The oral capsule is the established route. Vostally is a solution formulation.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No key warnings, contraindications, or drug-drug interaction data were available in this evidence pack (all flagged as data gaps; DDI query returned "not found").
-
----
+Please refer to the package insert for safety information. No drug-interaction records were found.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high, but evidence level is L5 — no clinical trials and no drug-specific literature support ramipril's use in pulmonary hypertension owing to lung disease/hypoxia. The mechanistic rationale (RAAS inhibition reducing hypoxic vascular remodeling) is plausible but entirely theoretical given the retrieved evidence. Additionally, TFDA label safety data (DG001, Blocking) and MOA confirmation (DG002, High) are both missing, which independently blocks progression to a safety pre-assessment (S1) regardless of efficacy evidence.
+The 99.93% score is a model prediction with no supporting trials or on-target literature. ACE inhibition may also worsen oxygenation in hypoxic lung disease, so the mechanistic argument is weak and possibly unfavorable.
 
 **To proceed, the following is needed:**
-- Package insert / label data on warnings and contraindications (DG001 — blocking, required for S1 safety pre-assessment)
-- Confirmed mechanism of action from DrugBank or equivalent source (DG002)
-- Drug-specific (ramipril or ACE-inhibitor class) preclinical or clinical studies in pulmonary hypertension models/patients
-- Re-run literature search using drug + indication-specific search terms rather than generic hypoxia-biology terms, which returned only background/off-target results
+- Package insert warnings and contraindications (the current safety gap blocks safety screening)
+- Mechanism-of-action data from DrugBank
+- A targeted literature search for ACE inhibitors and pulmonary hypertension, especially effects on hypoxic pulmonary vasoconstriction and gas exchange
+- Preclinical or early clinical data in hypoxic pulmonary hypertension models before any further investment
 
-**Note for portfolio review:** Other candidate indications for this same drug within the evidence pack carry meaningfully stronger, drug-specific evidence and may warrant separate evaluation — notably *cerebral artery occlusion* (rank 10, evidence level L3, includes a human comparative study of ramipril vs. enalapril on cerebral blood flow, PMID 8797135) and *intracerebral hemorrhage* (rank 8, evidence level L4, includes ramipril-specific animal mechanistic data, PMID 15721222).
+For comparison, **cerebral artery occlusion** (rank 10) has better support: one completed Phase 2 trial (NCT00005928, indirect vascular endpoints) and several rodent and human cerebral blood flow studies. It is at L4 and stage S1 (Research Question), and is the stronger candidate for follow-up among the predictions reviewed.
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

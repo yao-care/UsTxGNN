@@ -33,57 +33,83 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 ## One-Sentence Summary
 
-Pegvaliase (Palynziq) is a PEGylated phenylalanine ammonia lyase enzyme replacement therapy originally used to lower blood phenylalanine levels in adults with phenylketonuria (PKU).
-The TxGNN model predicts it may be effective for **Diabetic Retinopathy**, but this prediction is currently supported by **no clinical trials** and **no published literature** — it is a graph-similarity inference only.
+Pegvaliase is a PEGylated phenylalanine ammonia lyase that lowers blood phenylalanine in phenylketonuria (PKU).
+The TxGNN model predicts it may be effective for **diabetic retinopathy**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
+The prediction rests on the knowledge-graph score alone.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Phenylketonuria (PKU) — enzyme replacement therapy; not formally confirmed via local regulatory filing (see Data Gap DG001) |
-| Predicted New Indication | Diabetic Retinopathy |
+| Original Indication | Phenylketonuria (PKU); the license records contain no indication text, so this comes from the prediction rationale |
+| Predicted New Indication | Diabetic retinopathy |
 | TxGNN Prediction Score | 99.17% |
-| Evidence Level | L5 (model prediction only, no clinical or literature support) |
-| Market Status | Not marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 3 (all three records share BLA761079) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from local regulatory sources (Data Gap DG002). Based on known drug class information, pegvaliase is an enzyme substitution therapy — a PEGylated form of phenylalanine ammonia lyase that metabolizes excess phenylalanine to phenylpyruvic acid and trace ammonia, reducing blood phenylalanine in PKU patients. This is a systemic metabolic mechanism unrelated to ocular vasculature, glycemic control, or retinal neuroinflammation.
+Currently, detailed mechanism of action data is not available. Pegvaliase is an enzyme therapy that breaks down phenylalanine, and its use in PKU is the basis of its approval.
 
-Diabetic retinopathy pathology is driven by chronic hyperglycemia-induced microvascular damage, VEGF-mediated angiogenesis, and retinal inflammation — none of which overlap with phenylalanine metabolism. The repurposing rationale provided alongside this prediction explicitly notes the absence of any known biological link between the two conditions, and the same conclusion applies to the two related predictions (severe nonproliferative diabetic retinopathy, rank 2; diabetic cataract, rank 3), which appear to reflect a graph-embedding artifact rather than a mechanistically grounded hypothesis.
+The supplied data does not support a mechanistic link between phenylalanine depletion and diabetic retinal microvascular disease. The score of 0.992 is a knowledge-graph association only, and the source record has no MOA or original-indication data to check it against. Any biological rationale would have to be built from the literature.
 
-Given the complete absence of original MOA documentation and the lack of any plausible pathway connecting a phenylalanine-metabolizing enzyme therapy to diabetic eye disease, this prediction should be treated as low-confidence and exploratory only.
+Two other predictions look like the same signal rather than independent evidence:
+- **Severe nonproliferative diabetic retinopathy** (score 99.16%) is a more severe subtype of the same disease.
+- **Diabetic cataract** (score 99.11%) probably comes from the same diabetic eye disease cluster. Pegvaliase has no known effect on the polyol pathway or lens opacity.
+
+Pegvaliase is a systemic enzyme therapy with known immunogenicity and anaphylaxis risk. An ocular indication would need a strong rationale, and none is present.
+
+---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
+
+---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
-## Market Information
+---
 
-The drug is not currently marketed and no license records are available.
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| BLA761079 | Palynziq (BioMarin Pharmaceutical Inc.) | Injection, solution | Not provided in the supplied record |
+
+The record lists this authorization three times, with identical product name and dosage form. The only route is injectable.
+
+---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
+
+The prediction rationale notes immunogenicity and anaphylaxis risk for this systemic enzyme therapy. No drug interaction records were found.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This is a pure TxGNN graph-based prediction (L5) with no clinical trials, no literature support, and no plausible mechanistic link between pegvaliase's known pharmacology and diabetic retinopathy. There is insufficient evidence to advance this candidate.
+The evidence level is L5: a model prediction with no trials, no literature and no supported mechanism. The safety data are also incomplete, which blocks progression past the initial screening stage (S0).
 
 **To proceed, the following is needed:**
-- Confirmed original MOA documentation (currently blocked — DG002)
-- TFDA/regulatory package insert with warnings and contraindications (currently blocked — DG001, Blocking severity)
-- Any mechanistic or preclinical rationale connecting phenylalanine metabolism to retinal/ocular pathology
-- Continued monitoring for emerging clinical or literature evidence before re-evaluation
+- The package insert for warnings and contraindications (blocking gap)
+- Mechanism of action data, for example from DrugBank
+- A literature review testing any link between phenylalanine metabolism and diabetic retinopathy
+- A risk-benefit justification for a systemic, immunogenic enzyme therapy in an ocular indication
+- An assessment of route compatibility with ocular use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

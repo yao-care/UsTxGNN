@@ -29,72 +29,76 @@ Evidence Level: **L4** | Predicted Indications: **8**
 
 </div>
 
-# LOSARTAN: From Hypertension to Malignant Hypertensive Renal Disease
+# Losartan: From Hypertension to Malignant Hypertensive Renal Disease
 
 ## One-Sentence Summary
 
-Losartan is an angiotensin II receptor blocker (ARB) whose established use is in hypertension and RAAS-mediated cardiovascular/renal protection. The TxGNN model predicts it may also be effective for **malignant hypertensive renal disease**, but this direction is currently supported by only **1 preclinical (animal-model) publication** and **no registered clinical trials**.
-
----
+Losartan is a marketed angiotensin II receptor blocker (ARB) that is used as an antihypertensive.
+The TxGNN model predicts it may be effective for **malignant hypertensive renal disease**.
+Support is thin: **0 clinical trials** and **1 preclinical publication** (a rat model).
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension (ARB class); no TFDA-approved indication text is available — this evidence pack shows the drug as **Not marketed (not marketed)** in Taiwan, with 0 licenses on file |
+| Original Indication | Hypertension (from general pharmacology; the license records provided contain no indication text) |
 | Predicted New Indication | Malignant hypertensive renal disease |
 | TxGNN Prediction Score | 99.73% |
 | Evidence Level | L4 |
-| US Market Status | Not marketed (Not marketed) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 licenses (the listed examples are generic ANDAs) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for this drug is currently unavailable in the evidence pack (flagged as a High-severity data gap). Based on known pharmacology, losartan is an angiotensin II type 1 (AT1) receptor antagonist within the ARB class; its efficacy in hypertension is well established, and mechanistically it may extend to hypertension-driven renal injury.
+Currently, detailed mechanism of action data is not available in the source record. Based on general pharmacology, losartan blocks the angiotensin II type 1 (AT1) receptor, and its efficacy in hypertension is well established. Mechanistically, it may be applicable to hypertension-driven kidney injury.
 
-Malignant hypertensive renal disease shares the same RAAS/AT1 pathophysiology that losartan is designed to block. The one supporting publication (an animal-model study) directly demonstrates that angiotensin II drives NF-κB signaling in malignant hypertensive nephrosclerosis — a mechanistic link consistent with losartan's known pharmacology, since AT1 blockade would be expected to attenuate this angiotensin II/NF-κB axis.
+Malignant hypertensive renal disease (malignant hypertensive nephrosclerosis) combines severe blood pressure elevation with progressive kidney damage. The one supporting paper is a rat model in which angiotensin II and NF-κB signalling play a pathogenic role in malignant hypertensive nephrosclerosis. That fits the logic of AT1 blockade.
 
-However, this rationale rests entirely on a preclinical rat model. There is no human clinical data (trial or case-level) specifically evaluating losartan in malignant hypertensive renal disease, so the mechanistic plausibility has not yet been translated into clinical evidence.
-
----
+This link is inferred only. No trial in the pack tests losartan in this condition, and the score is a model prediction. Losartan is already marketed with a known safety profile, so a safety-focused first review is feasible.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [30809002](https://pubmed.ncbi.nlm.nih.gov/30809002/) | 2019 | Preclinical/Mechanistic (animal model) | Hypertension Research | In a rat model of essential hypertension, angiotensin II and NF-κB signaling were shown to drive renal injury; uninephrectomy plus salt overload unmasked latent renal dysfunction, supporting a pathogenic angiotensin II–NF-κB axis in malignant hypertensive nephrosclerosis. |
+| [30809002](https://pubmed.ncbi.nlm.nih.gov/30809002/) | 2019 | Preclinical animal model | Hypertens Res | In a rat model of malignant hypertensive nephrosclerosis (uninephrectomy plus salt overload), angiotensin II and the NF-κB system have a pathogenic role. The abstract excerpt does not show whether losartan itself was tested. |
 
----
+## US Market Information
+
+The records provided contain no approved-indication text. Examples of the 20 listed licenses:
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA203835 | Losartan Potassium | Tablet, film coated | PD-Rx Pharmaceuticals, Inc. |
+| ANDA203835 | Losartan Potassium | Tablet, film coated | Proficient Rx LP |
+| ANDA078243 | Losartan Potassium | Tablet, film coated | Zydus Lifesciences Limited |
+| ANDA078243 | Losartan Potassium | Tablet, film coated | American Health Packaging |
+| ANDA078243 | Losartan Potassium | Tablet, film coated | AvPAK |
+
+All listed products are oral tablets.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-*(Note: TFDA warnings/contraindications data is a Blocking-severity gap in this evidence pack — see Conclusion below.)*
-
----
+Please refer to the package insert for safety information. The Evidence Pack has no warnings or contraindications, and its drug-interaction query returned no results.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication is currently supported by only a single preclinical (animal-model) publication with no registered clinical trials — evidence level L4, insufficient to justify clinical evaluation. In addition, TFDA label warnings/contraindications data is a Blocking-severity gap, which by itself prevents even a basic (S1) safety assessment.
+The only support is a preclinical rat model and a model prediction. There are no clinical trials, and the mechanistic link is inferred rather than tested with losartan. The package-insert safety data are missing, which blocks the safety screening stage.
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings, contraindications) — Blocking gap (DG001), required before any S1 safety review
-- Drug mechanism-of-action (MOA) detail from DrugBank — High-severity gap (DG002)
-- Human-level evidence (case series, observational study, or clinical trial) evaluating losartan specifically in malignant hypertensive renal disease
-- Confirmation of Taiwan market/regulatory status, since this drug currently shows 0 TFDA licenses on file
+- Package insert warnings and contraindications from the FDA label (the current blocking gap)
+- Mechanism of action data from DrugBank
+- Losartan-specific preclinical or clinical evidence in malignant hypertensive nephrosclerosis, such as ARB studies or registry data in severe hypertension with renal injury
+- A safety plan for patients with severe renal impairment, covering renal function and potassium monitoring
+
+*This report is for research reference only and is not medical advice. Repurposing candidates require clinical validation before use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

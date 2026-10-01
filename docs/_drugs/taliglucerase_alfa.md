@@ -33,70 +33,67 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 ## One-Sentence Summary
 
-Taliglucerase alfa is a recombinant human glucocerebrosidase (GCase) enzyme replacement therapy, developed to treat Gaucher disease by supplementing the enzyme patients lack due to GBA gene deficiency. The TxGNN model's top prediction suggests possible effectiveness for **Hurler Syndrome** (MPS I), but this is currently supported by **0 clinical trials** and **0 publications**, and the underlying enzyme mechanism does not match the target disease.
-
----
+Taliglucerase alfa (brand name ELELYSO) is a plant-cell-expressed recombinant glucocerebrosidase enzyme replacement therapy, originally used for Gaucher disease.
+The TxGNN model predicts it may be effective for **Hurler syndrome (MPS I)**, but there are currently **0 clinical trials** and **0 publications** supporting this direction. It is a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Gaucher disease (inferred from enzyme mechanism described in evidence pack; no formal license record available — drug not marketed in the US) |
-| Predicted New Indication | Hurler Syndrome (MPS I) |
+| Original Indication | Gaucher disease (inferred from the drug's mechanism; the approved indication text is not provided in the source record) |
+| Predicted New Indication | Hurler syndrome |
 | TxGNN Prediction Score | 99.52% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| US Market Status | ✗ Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 (BLA022458) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is officially flagged as a data gap (DG002) in this evidence pack. However, the repurposing rationale confirms taliglucerase alfa is a recombinant glucocerebrosidase (GCase) used to supplement the enzyme deficient in Gaucher disease patients (GBA gene defect).
+Currently, detailed mechanism of action data is not available in the source record. Based on known information, taliglucerase alfa is a recombinant glucocerebrosidase that breaks down glucosylceramide. Its efficacy in Gaucher disease is established.
 
-Hurler syndrome, in contrast, is caused by deficiency of **alpha-L-iduronidase (IDUA)**, an entirely different lysosomal enzyme with distinct substrate specificity. While both Gaucher disease and Hurler syndrome fall under the broad umbrella of lysosomal storage disorders, enzyme replacement therapies are substrate-specific — GCase cannot compensate for IDUA deficiency, and vice versa.
+Hurler syndrome is caused by a different enzyme deficiency: alpha-L-iduronidase, leading to glycosaminoglycan accumulation. The enzyme and its substrate differ from those of taliglucerase alfa. The only shared feature is that both diseases are lysosomal storage disorders. A specific enzyme replacement therapy for Hurler syndrome (laronidase) already exists.
 
-This strongly suggests the TxGNN prediction reflects a **disease-category clustering artifact** (both diseases embedding near "lysosomal storage disease" in the knowledge graph) rather than a biologically grounded mechanistic link. The same limitation applies to the other four candidates in this evidence pack (Scheie syndrome, benign adrenal adenoma, autosomal ichthyosis, and cholesteryl ester storage disease), none of which share a plausible enzymatic overlap with GCase — for cholesteryl ester storage disease in particular, an approved enzyme-specific therapy (sebelipase alfa, targeting LIPA) already exists and is not this drug. Given this pattern across all five ranked predictions, the evidence pack itself concludes there is no credible mechanistic basis to support repurposing at this stage.
+The high score most likely reflects knowledge-graph proximity within lysosomal storage disorders, not a biological rationale. The mechanistic link is therefore weak.
 
----
+Other predictions show the same pattern:
+- **Scheie syndrome** (99.29%): the attenuated form of MPS I, with the same enzyme mismatch.
+- **Cholesteryl ester storage disease** (99.12%): a different substrate, and sebelipase alfa is already available.
+- **Benign neoplasm of adrenal gland** (99.28%): no plausible mechanistic link.
+- **Autosomal ichthyosis syndrome with fatal disease course** (99.24%): only a weak, indirect connection through epidermal ceramide metabolism.
+
+None of these has clinical trials or literature.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-Taliglucerase alfa currently has **no marketing authorization on record** in this evidence pack (`market_status: Not marketed`, `total_licenses: 0`, no license entries). No NDA table can be populated at this time.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| BLA022458 | ELELYSO (Pfizer Laboratories Div Pfizer Inc) | Injection, powder, lyophilized, for solution | Not provided in the source record |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Note that TFDA/FDA label warnings and contraindications (DG001) are flagged as a **Blocking** data gap in this evidence pack, meaning a formal safety pre-screen (S1) cannot proceed until this data is obtained.
-
----
+Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All five TxGNN-predicted indications (including the top-ranked Hurler syndrome) are supported only by model score with zero clinical trials or literature (Evidence Level L5), and mechanistic review indicates a substrate/enzyme-specificity mismatch that undermines biological plausibility. A blocking data gap in safety labeling (DG001) also prevents any formal safety evaluation at this time.
+The prediction rests on the model score alone (Evidence Level L5). There are no trials or publications, and the mechanism does not fit: glucocerebrosidase does not degrade glycosaminoglycans, and a specific approved therapy already exists.
 
 **To proceed, the following is needed:**
-- TFDA/FDA package insert data (warnings, contraindications) — blocking gap DG001
-- Confirmed mechanism of action detail from DrugBank — gap DG002
-- Independent preclinical or mechanistic evidence specifically linking GCase activity to MPS I (Hurler/Scheie) pathophysiology, given the current enzyme-mismatch concern
-- Re-evaluation of whether the TxGNN signal reflects true pharmacology or disease-category embedding proximity before allocating further review resources
+- Package insert warnings and contraindications (currently blocking safety screening)
+- Detailed mechanism of action data (MOA)
+- Preclinical evidence that glucocerebrosidase replacement affects glycosaminoglycan accumulation or MPS I pathology
+- Route compatibility and similarity-to-original assessments (currently pending)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

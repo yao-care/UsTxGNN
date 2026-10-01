@@ -29,31 +29,38 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Empagliflozin: From Type 2 Diabetes to Classic Stiff Person Syndrome
+# Empagliflozin: From Type 2 Diabetes, Heart Failure and CKD to Classic Stiff Person Syndrome
 
 ## One-Sentence Summary
 
-Empagliflozin is an SGLT2 inhibitor originally developed for type 2 diabetes mellitus (later expanded in real-world use to heart failure and chronic kidney disease). The TxGNN model predicts a possible link to **Classic Stiff Person Syndrome**, but this prediction is currently backed by **0 clinical trials** and **0 publications** — it reflects knowledge-graph topological similarity only, not any documented pharmacological or clinical evidence.
+Empagliflozin is an SGLT2 inhibitor marketed in the US as Jardiance, and the evidence pack describes it as used for adult type 2 diabetes, heart failure and chronic kidney disease.
+The TxGNN model predicts it may be effective for **classic stiff person syndrome**, but the prediction is supported by **0 clinical trials** and **0 publications**, so it currently rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Type 2 Diabetes Mellitus (general drug knowledge; not present in evidence pack — see data gaps below) |
-| Predicted New Indication | Classic Stiff Person Syndrome |
-| TxGNN Prediction Score | 99.06% |
+| Original Indication | The US license records contain no indication text. The pack's rationale text describes use in type 2 diabetes, heart failure and CKD. |
+| Predicted New Indication | Classic stiff person syndrome |
+| TxGNN Prediction Score | 99.06% (model rank 20304) |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 18 |
 | Recommended Decision | Hold |
+
+Two other predictions were generated for this drug, both also L5 and Hold:
+- **Focal stiff limb syndrome**: score 99.06%.
+- **Opsismodysplasia**: score 99.03%.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data was not retrievable for this evidence pack (DrugBank query returned no MOA text). Based on general pharmacological knowledge, empagliflozin inhibits SGLT2 in the renal proximal tubule, reducing glucose reabsorption — a mechanism specific to glucose/renal handling with no established connection to GABAergic neurotransmission or autoimmune neurology.
+Detailed mechanism of action data is not available in the source record. Empagliflozin is an SGLT2 inhibitor that blocks renal glucose reuptake. This is described in the pack's rationale text, not in the MOA field.
 
-Classic stiff person syndrome is driven by anti-GAD65 autoantibodies that impair GABA synthesis, causing disrupted inhibitory signaling in the spinal cord and brainstem. The evidence pack's own mechanistic assessment states plainly that there is **no known intersection** between SGLT2 inhibition and this autoimmune/GABAergic pathway, and that the high TxGNN score (0.99) reflects graph-topology proximity rather than mechanistic support — the assessment explicitly flags this as a **low-confidence prediction**.
+No direct mechanistic link to stiff person syndrome has been established. Classic stiff person syndrome is an autoimmune disorder of GABAergic neurotransmission, typically with anti-GAD65 antibodies. Any link would be indirect, for example through metabolic or anti-inflammatory effects, or through comorbid autoimmune diabetes. None of these is documented in the pack.
 
-The two lower-ranked candidates (focal stiff limb syndrome, rank 2; opsismodysplasia, rank 3) share this pattern: focal stiff limb syndrome carries the *identical* TxGNN score as the top prediction, consistent with being a neighboring node pulled along by the same graph cluster rather than an independently supported signal. Opsismodysplasia's rationale invokes an indirect PI3K/insulin-signaling link (via SHIP2) that the evidence pack itself characterizes as an over-extended connection with no supporting literature. None of the three predictions currently rise above model-output-only status.
+The same caution applies to the other two predictions:
+- Focal stiff limb syndrome is a localized variant of the same disease spectrum. Its score is identical to classic stiff person syndrome, which suggests a shared knowledge-graph neighborhood rather than independent evidence.
+- Opsismodysplasia is a rare pediatric skeletal dysplasia caused by loss of INPPL1 (SHIP2), which affects PI3K/AKT and insulin signaling. This offers a tenuous, unvalidated rationale for a glucose-lowering drug.
 
 ## Clinical Trial Evidence
 
@@ -65,26 +72,37 @@ Currently no related literature available.
 
 ## US Market Information
 
-Empagliflozin currently holds no NDA or marketing authorization on file in this evidence pack (market status: **Not Marketed**; total licenses: **0**).
+The 18 US licenses all fall under NDA204629. The table lists 5 of them. The record contains no approved-indication text, so that column is omitted.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA204629 | JARDIANCE | Film-coated tablet | A-S Medication Solutions |
+| NDA204629 | Jardiance | Film-coated tablet | Boehringer Ingelheim Pharmaceuticals, Inc. |
+| NDA204629 | Jardiance | Film-coated tablet | Aphena Pharma Solutions - Tennessee, LLC |
+| NDA204629 | Jardiance | Film-coated tablet | Aphena Pharma Solutions - Tennessee, LLC |
+| NDA204629 | Jardiance | Film-coated tablet | A-S Medication Solutions |
+
+All forms are oral: film-coated tablet, extended-release tablet and tablet.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-*(Note: TFDA/FDA label warnings and contraindications could not be retrieved for this evidence pack — this is flagged as a **Blocking** data gap that prevents a full S1 safety evaluation.)*
+Please refer to the package insert for safety information. No drug interactions were found in the queried data.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All three TxGNN-predicted indications (classic stiff person syndrome, focal stiff limb syndrome, opsismodysplasia) rest solely on model score (L5) with zero clinical trials or literature, and the mechanistic rationale explicitly finds no established pharmacological link to SGLT2 inhibition. Combined with the absence of US marketing status and a blocking gap in safety-label data, there is no basis to advance any of these candidates past initial screening.
+The only support is a high model score (99.06%), with no clinical trials, no literature and no established mechanistic link. The disease pathophysiology (autoimmune, GABAergic) is far from the drug's SGLT2-inhibitor pharmacology. Package insert safety data is missing, so this cannot proceed to safety screening.
 
 **To proceed, the following is needed:**
-- TFDA/FDA package insert warnings and contraindications (blocking gap — required before any S1 safety review)
-- Confirmed mechanism of action data from DrugBank or the approved label
-- Preclinical or case-level evidence linking SGLT2 inhibition to GABAergic/autoimmune neurology or skeletal dysplasia pathways, if such a rationale is to be pursued further
-- Reassessment of regulatory/licensing pathway given current "Not Marketed" status
+- FDA package insert warnings and contraindications (a blocking gap).
+- Mechanism of action data from DrugBank.
+- Preclinical or mechanistic evidence linking SGLT2 inhibition to stiff person syndrome, for example through immune or metabolic pathways.
+- A literature and trial re-check, including case reports in patients with stiff person syndrome who also have diabetes.
+- Clarification of the original indication, since the license records have no indication text.
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

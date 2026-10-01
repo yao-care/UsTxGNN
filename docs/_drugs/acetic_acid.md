@@ -29,78 +29,79 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-The `txgnn-pipeline` skill confirms the project context. Now generating the evaluation report following the Drug Repurposing Evaluation Report Prompt (v5) specification.
-
----
-
-# Acetic Acid: From Antimicrobial Agent to Post-Bacterial Disorder
+# Acetic Acid: From No Documented Indication to Post-Bacterial Disorder
 
 ## One-Sentence Summary
 
-Acetic acid is a short-chain fatty acid (SCFA) with well-established use as a topical antimicrobial agent (e.g., dilute solutions for otitis externa and wound irrigation), though it carries no formally registered pharmaceutical indications in the current regulatory dataset.
-The TxGNN model predicts it may have potential for **Post-Bacterial Disorder**, achieving a prediction score of **99.98%**.
-However, no directly relevant clinical trials or published literature currently exist for this specific indication, yielding an **L5 evidence level** and a **Hold** recommendation.
+Acetic acid is marketed in the US in several forms (solution, irrigant, cream, spray, and a homeopathic pellet), but the license records give no approved indication text.
+The TxGNN model predicts it may be effective for **post-bacterial disorder**, but **none of the 18 matched clinical trials tests acetic acid as a treatment** and **no publications** were found, so this remains a model prediction only.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No registered indication |
-| Predicted New Indication | Post-Bacterial Disorder |
+|------|------|
+| Original Indication | Not stated in the US license records |
+| Predicted New Indication | Post-bacterial disorder |
 | TxGNN Prediction Score | 99.98% |
 | Evidence Level | L5 |
-| Market Status | Not Marketed |
-| Number of Registered Licenses | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 14 licenses (NDA and ANDA combined) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, acetic acid (CH₃COOH) is a naturally occurring short-chain fatty acid produced endogenously by gut microbiota through anaerobic fermentation of dietary fiber. As an exogenous SCFA, dilute acetic acid (2–5%) lowers local pH and disrupts microbial membrane integrity, forming the basis of its decades-long clinical use as a topical antiseptic.
+Currently, detailed mechanism of action data is not available. The US license records give no approved indication, so the relationship between an original use and the predicted one cannot be established from this record.
 
-The theoretical bridge to post-bacterial disorder rests on the gut microbiome axis: acute bacterial infections frequently trigger severe gut dysbiosis, and SCFA levels — including acetate — are known to decline in post-infectious states. Restoring SCFA balance could, in principle, support microbiota recovery and modulate residual immune activation following bacterial infection. This is the network-level rationale the TxGNN model likely captures.
-
-However, this mechanistic link is highly indirect and speculative. There is currently no established clinical pathway or controlled trial demonstrating that exogenous acetic acid administration benefits patients with post-bacterial disorder. The prediction should be interpreted as a hypothesis-generating signal rather than actionable clinical evidence.
+The only plausible link is indirect. Acetic acid (acetate) is a short-chain fatty acid produced by gut bacteria. Several matched trials measure it as a metabolite outcome in microbiome studies. That is a biomarker role, not a therapeutic one. No matched trial gives acetic acid to patients with a post-bacterial condition. The prediction therefore has no mechanistic or clinical support in the current evidence.
 
 ---
 
 ## Clinical Trial Evidence
 
-All retrieved trials carry **Grade C relevance** — none directly investigates acetic acid as a treatment for post-bacterial conditions. The table below lists the 10 closest related trials retrieved through keyword matching.
+Currently 18 trials matched by keyword. None tests acetic acid as an intervention for a post-bacterial condition. The 10 most relevant are listed below.
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT04120259](https://clinicaltrials.gov/study/NCT04120259) | N/A | Completed | 126 | Apple cider vinegar (primary active: acetic acid) + Metformin vs. Metformin alone in newly diagnosed Type 2 Diabetics — the most direct acetic acid intervention retrieved |
-| [NCT05710094](https://clinicaltrials.gov/study/NCT05710094) | Phase 1 | Completed | 28 | SoftOx Biofilm Eradicator (hypochlorous acid, not acetic acid) safety & tolerability in chronic leg wounds; antimicrobial mechanism is analogous but agent differs |
-| [NCT02872675](https://clinicaltrials.gov/study/NCT02872675) | N/A | Completed | 17 | HOST-DM059 prebiotic supplementation on gut bacterial metabolites and systemic inflammation in adults with/without exercise-induced bronchoconstriction; SCFA context indirectly relevant |
-| [NCT04434365](https://clinicaltrials.gov/study/NCT04434365) | Phase 1/2 | Unknown | 24 | Berberine effects on gut microbiota remodeling and endothelial function in stable coronary artery disease; gut–SCFA pathway indirectly relevant |
-| [NCT06612164](https://clinicaltrials.gov/study/NCT06612164) | N/A | Completed | 65 | Kefir consumption effects on gut health, immunity, and inflammation in healthy adults; fermented product contains acetic acid as a minor byproduct |
-| [NCT07048028](https://clinicaltrials.gov/study/NCT07048028) | N/A | Recruiting | 90 | Chitosan vs. sodium hypochlorite as root canal irrigation antibacterials — antimicrobial theme relevant, no acetic acid involvement |
-| [NCT04036318](https://clinicaltrials.gov/study/NCT04036318) | N/A | Completed | 3,022 | Presumptive periodic STI treatment in high-risk populations (Tanzania) — post-bacterial management context, no acetic acid use |
-| [NCT07386795](https://clinicaltrials.gov/study/NCT07386795) | N/A | Not Yet Recruiting | 19 | Microbiota transplantation + prebiotics for functional constipation; indirect gut–SCFA relevance |
-| [NCT06135116](https://clinicaltrials.gov/study/NCT06135116) | N/A | Completed | 60 | T-regulatory cells and related cytokines (IL-21/22/33) in periodontal disease progression; immune regulation background only |
-| [NCT03619161](https://clinicaltrials.gov/study/NCT03619161) | N/A | Completed | 58 | Bleach baths vs. bubble baths for eczema — environmental antimicrobial control with distal relevance to antibacterial mechanisms |
+| [NCT05710094](https://clinicaltrials.gov/study/NCT05710094) | Phase 1 | Completed | 28 | Safety of topical SoftOx Biofilm Eradicator in chronic leg wounds. Composition not verified as acetic acid. |
+| [NCT04120259](https://clinicaltrials.gov/study/NCT04120259) | N/A | Completed | 126 | Apple cider vinegar plus metformin vs metformin alone in type 2 diabetes. Not a bacterial condition. |
+| [NCT04036318](https://clinicaltrials.gov/study/NCT04036318) | N/A | Completed | 3022 | Presumptive periodic treatment of sexually transmitted infections in high-risk groups in Tanzania. Acetic acid is not the intervention. |
+| [NCT03212729](https://clinicaltrials.gov/study/NCT03212729) | N/A | Completed | 10 | Antimicrobial photodynamic therapy added to endodontic treatment. Bacterial context only. |
+| [NCT07048028](https://clinicaltrials.gov/study/NCT07048028) | N/A | Recruiting | 90 | Chitosan vs sodium hypochlorite combinations as root-canal irrigants. |
+| [NCT04824261](https://clinicaltrials.gov/study/NCT04824261) | N/A | Unknown | 100 | 4% boric acid vs clotrimazole in otomycosis. |
+| [NCT03619161](https://clinicaltrials.gov/study/NCT03619161) | N/A | Completed | 58 | Bathroom cleaning and eczema severity. Not about acetic acid. |
+| [NCT06135116](https://clinicaltrials.gov/study/NCT06135116) | N/A | Completed | 60 | Regulatory T cells and cytokines in periodontal disease. Immunology study. |
+| [NCT02872675](https://clinicaltrials.gov/study/NCT02872675) | N/A | Completed | 17 | Prebiotic supplementation in adults with and without exercise-induced bronchoconstriction. Bacterial metabolites are outcomes. |
+| [NCT06612164](https://clinicaltrials.gov/study/NCT06612164) | N/A | Completed | 65 | Kefir consumption in healthy adults. Acetate is at most a fermentation product. |
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available for post-bacterial disorder.
+Currently no related literature available.
 
 ---
 
-## Market Information
+## US Market Information
 
-Acetic acid (DrugBank: DB03166) is not currently registered as a standalone pharmaceutical product. No approved indications, dosage forms, or license numbers are on record.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA040166 | Acetic Acid (Chartwell RX, LLC) | Solution | Not stated |
+| NDA012179 | Acetic Acid (NuCare Pharmaceuticals, Inc.) | Solution | Not stated |
+| ANDA040607 | Acetic Acid (A-S Medication Solutions) | Solution | Not stated |
+| ANDA040607 | Acetic Acid (TruPharma, LLC) | Solution | Not stated |
+| Not listed | Aceticum acidum (Boiron) | Pellet | Not stated |
+
+Other forms on the market include irrigant, cream, and spray.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No drug interaction records were found for this drug.
 
 ---
 
@@ -109,15 +110,15 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The evidence is at L5 (model prediction only with no supporting clinical trials or literature), and the mechanistic link between acetic acid and post-bacterial disorder is highly indirect — current data cannot support advancement beyond hypothesis generation.
+The prediction for post-bacterial disorder rests on the model score alone (Evidence Level L5). No matched trial or publication tests acetic acid for this condition, and no original indication or mechanism is documented.
+
+Among the other predicted indications, **tinea corporis** (rank 9, score 99.25%) has the most supportive material, rated L4. It includes historical reports of dilute acetic acid for tinea, and vinegar-based studies in tinea pedis and onychomycosis. Even there, no study tests acetic acid alone for tinea corporis. A 2023 case series also documents chemical burns from folk remedies (PMID 37256034), so concentration and exposure control matter. It would be a better candidate to investigate first.
 
 **To proceed, the following is needed:**
-
-- **Resolve Data Gap DG001:** Download and parse the regulatory package insert (TFDA/FDA) to obtain warnings, contraindications, and approved indications — currently blocking the S1 safety screening stage
-- **Resolve Data Gap DG002:** Query the DrugBank API to retrieve full mechanism of action data, enabling mechanistic relevance analysis
-- **Preclinical studies:** Direct in vivo SCFA/acetic acid supplementation studies in post-bacterial animal models are needed to establish proof of concept before clinical translation
-- **Microbiome pathway mapping:** Identify measurable biomarkers (e.g., stool SCFA levels, microbiome diversity indices) that could serve as endpoints in a future pilot study
-- **⚑ Consider reprioritizing to Tinea Corporis (Rank 9, L4):** This indication has substantially stronger evidence — a 2023 RCT comparing vinegar-based Terminalia chebula formulation vs. terbinafine 1% cream for tinea corporis ([PMID 37012894](https://pubmed.ncbi.nlm.nih.gov/37012894/)), plus multiple historical case series from the 1940s demonstrating efficacy of dilute acetic acid against related dermatophyte infections, plus a literature review on vinegar soak for tinea pedis/onychomycosis. This prediction carries a **Research Question** recommendation and may be a more productive near-term research focus
+- Package insert warnings, contraindications, and approved indications, obtained from the FDA labeling
+- Mechanism of action data, e.g. from DrugBank
+- A clear clinical definition of "post-bacterial disorder", then a targeted search for studies testing acetic acid itself
+- If the tinea corporis direction is pursued: a comparative study of acetic acid alone, with a concentration and skin-safety plan
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

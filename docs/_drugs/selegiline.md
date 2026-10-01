@@ -29,14 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Selegiline: From Parkinson's Disease to Schizophrenia (Negative Symptoms)
+# Selegiline: From Parkinson's Disease and Depression to Perisylvian Polymicrogyria with Cerebellar Hypoplasia and Arthrogryposis
 
 ## One-Sentence Summary
 
-> Selegiline is a selective, irreversible monoamine oxidase type-B (MAO-B) inhibitor originally used for Parkinson's disease (oral) and major depressive disorder (transdermal).
-> The TxGNN model predicts it may be useful as an **augmentation therapy for negative symptoms of schizophrenia**,
-> with **1 registered clinical trial** and **20 publications** — including several double-blind, placebo-controlled RCTs — supporting this direction.
-> Three other TxGNN-predicted indications (a rare cerebral malformation syndrome, a congenital glycosylation disorder, and a retinal dystrophy syndrome) show no mechanistic plausibility or supporting evidence and are assessed as likely knowledge-graph artifacts — they are not carried forward in this report.
+Selegiline is a monoamine oxidase B (MAO-B) inhibitor, published literature describes it as approved for Parkinson's disease (oral) and major depressive disorder (transdermal patch).
+The TxGNN model predicts it may be effective for **polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis**, a rare neurodevelopmental malformation syndrome.
+This prediction has **0 clinical trials** and **0 publications** behind it, so it is a model output only.
 
 ---
 
@@ -44,60 +43,52 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 | Item | Content |
 |------|------|
-| Original Indication | Parkinson's Disease (oral); Major Depressive Disorder (transdermal) — per literature (PMID 37087864); no formal Taiwan license record available |
-| Predicted New Indication | Schizophrenia (negative symptoms, adjunct to antipsychotics) |
-| TxGNN Prediction Score | 99.14% |
-| Evidence Level | L3 (multiple published RCTs and a systematic review/meta-analysis; no confirmed completed Phase 2/3 registry trial) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Original Indication | Parkinson's disease (oral) and major depressive disorder (transdermal), per published literature; US label indication text was not available in the data |
+| Predicted New Indication | Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis |
+| TxGNN Prediction Score | 99.15% |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 17 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed structured mechanism-of-action data is not available for this drug in the evidence pack. Based on the literature evidence collected, selegiline is an irreversible, selective MAO-B inhibitor approved for Parkinson's disease (oral formulation) and major depressive disorder (transdermal formulation); at oral doses ≥20 mg/day it loses MAO-B selectivity and behaves as a non-selective MAOI (PMID 37087864).
+Currently, detailed mechanism of action data is not available from DrugBank for this record. Published literature describes selegiline as an irreversible, selective MAO-B inhibitor. At oral doses of 20 mg/day or more it also inhibits MAO-A. This raises dopamine and other monoamines, which explains its use in Parkinson's disease and depression.
 
-The dopaminergic hypothesis links selegiline's mechanism to schizophrenia's negative symptoms: negative symptoms have long been hypothesized to reflect regionally deficient CNS dopaminergic activity (PMID 8627275), and MAO-B inhibition increases synaptic dopamine availability. This provides a plausible pharmacological rationale for using low-dose selegiline as an *adjunct* to antipsychotic therapy specifically to target negative symptoms — a treatment gap that standard antipsychotics do not adequately address.
-
-By contrast, the three other TxGNN top predictions (polymicrogyria with cerebellar hypoplasia, a congenital disorder of glycosylation, and a retinal dystrophy syndrome) are rare monogenic structural/metabolic disorders with no known relationship to monoaminergic or dopaminergic pathways. The retrieved "literature" for these diseases consists of unrelated ophthalmology/neuroanatomy papers matched only by disease-name keywords, not drug-disease evidence. These are assessed as likely false positives arising from sparse nodes in the knowledge graph and are excluded from further evaluation.
+The data do not support a mechanistic link to this predicted condition. Perisylvian polymicrogyria with cerebellar hypoplasia and arthrogryposis is a rare developmental malformation syndrome. MAO-B inhibition has no established relevance to its pathogenesis. The score is high (99.15%, model rank 18,550), but it is a computational prediction with no supporting studies. The similarity between the original and predicted indications has not been assessed.
 
 ---
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00456976](https://clinicaltrials.gov/study/NCT00456976) | Early Phase 1 | Completed | 70 | RCT evaluating selegiline augmentation of antipsychotic medication for negative symptoms in chronic inpatient schizophrenia; primary endpoint was reduction in negative symptoms vs placebo. |
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [15677608](https://pubmed.ncbi.nlm.nih.gov/15677608/) | 2005 | RCT | Am J Psychiatry | Double-blind, placebo-controlled, multicenter trial of selegiline augmentation in outpatients with schizophrenia and moderate-or-greater negative symptoms. |
-| [17972359](https://pubmed.ncbi.nlm.nih.gov/17972359/) | 2008 | RCT | Hum Psychopharmacol | 8-week double-blind RCT of selegiline add-on to risperidone for negative symptoms of chronic schizophrenia. |
-| [8102552](https://pubmed.ncbi.nlm.nih.gov/8102552/) | 1993 | RCT | Biol Psychiatry | Placebo-controlled trial of selegiline (10 mg/day) for neuroleptic-induced tardive dyskinesia; also assessed parkinsonism, akathisia, and negative symptoms. |
-| [37087864](https://pubmed.ncbi.nlm.nih.gov/37087864/) | 2023 | Systematic Review/Meta-analysis | Eur Neuropsychopharmacol | Systematic review and meta-analysis of efficacy/safety of selegiline (oral and transdermal) across psychiatric disorders. |
-| [17405823](https://pubmed.ncbi.nlm.nih.gov/17405823/) | 2007 | Review | Ann Pharmacother | Reviews the role of selegiline specifically in treating negative symptoms of schizophrenia. |
-| [16930948](https://pubmed.ncbi.nlm.nih.gov/16930948/) | 2006 | Systematic Review | Schizophr Res | Systematic review of pharmacological treatments (including selegiline) for primary negative symptoms in schizophrenia. |
-| [8627275](https://pubmed.ncbi.nlm.nih.gov/8627275/) | 1996 | Open-label pilot study | J Nerv Ment Dis | Pilot study testing the dopamine-deficiency hypothesis of negative symptoms using low-dose selegiline augmentation. |
-| [10080262](https://pubmed.ncbi.nlm.nih.gov/10080262/) | 1999 | Case series | Compr Psychiatry | Case series of 3 schizophrenia patients showing improvement in negative symptoms and functioning after adding selegiline. |
-| [7831475](https://pubmed.ncbi.nlm.nih.gov/7831475/) | 1994 | Mechanism review | Prog Neurobiol | Reviews possible mechanisms of action of deprenyl (selegiline) and other MAO-B inhibitors in neurologic/psychiatric disorders. |
-| [8988464](https://pubmed.ncbi.nlm.nih.gov/8988464/) | 1996 | Review | J Neural Transm Suppl | Reviews clinical potential of deprenyl across neurologic and psychiatric disorders beyond Parkinson's disease. |
+Currently no related literature available.
 
 ---
 
-## Market Information (Taiwan)
+## US Market Information
 
-No Taiwan marketing authorization records are available for selegiline in this evidence pack — market status is recorded as **Not Marketed**, with 0 licenses on file.
+| Authorization Number | Product Name | Dosage Form |
+|---------|------|------|
+| NDA021336 | EMSAM (Viatris Specialty LLC) | Patch |
+| ANDA074672 | Selegiline Hydrochloride (A2A Integrated Pharmaceuticals) | Tablet |
+| ANDA206803 | Selegiline Hydrochloride (Rising Pharma Holdings, Inc.) | Capsule |
+| ANDA074871 | Selegiline Hydrochloride (A-S Medication Solutions) | Tablet |
+
+There are 17 licenses in total, and 4 distinct ones are shown above. Other available forms include orally disintegrating tablets. Approved indication text was not provided in the data.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Key warnings, contraindications, and drug interaction data are not currently available in this evidence pack (a **Blocking** data gap — TFDA label/warning data is required before this candidate can proceed to safety pre-assessment, given selegiline's known MAOI-related interaction risks, e.g., serotonergic drugs and dietary tyramine, which are not yet documented here).
+Please refer to the package insert for safety information.
 
 ---
 
@@ -106,14 +97,15 @@ Please refer to the package insert for safety information. Key warnings, contrai
 **Decision: Hold**
 
 **Rationale:**
-- Mechanistic rationale and multiple published double-blind RCTs support selegiline augmentation for negative symptoms of schizophrenia, but no completed Phase 2/3 registry trial confirms efficacy, and results across existing small trials have been mixed.
-- A **Blocking** data gap (missing TFDA label warnings/contraindications) prevents safety pre-assessment (S1), and the drug currently has zero market authorizations in this jurisdiction.
+The prediction rests only on the TxGNN model score. There are no trials or literature, and no biological link between MAO-B inhibition and this malformation syndrome.
 
 **To proceed, the following is needed:**
-- TFDA label / package insert data (warnings, contraindications, DDI) — required to clear the Blocking gap (DG001)
-- Structured mechanism-of-action data from DrugBank (DG002)
-- A confirmatory Phase 2/3 RCT specifically powered for negative-symptom endpoints, given the existing trials are small, heterogeneous, and largely from the 1990s–2000s
-- Formal review of the 2023 systematic review/meta-analysis (PMID 37087864) to consolidate pooled efficacy/safety estimates before further investment
+- Evidence of a plausible mechanism, or any drug-specific study for this condition
+- Package insert warnings and contraindications, which are currently a blocking data gap
+- Mechanism of action data from DrugBank
+- Route and formulation compatibility assessment
+
+**Note on other predictions:** The second-ranked prediction, **schizophrenia** (score 99.14%), has much stronger support. It has one completed trial (NCT00456976, 70 inpatients, selegiline augmentation for negative symptoms) and several randomized add-on studies, including PMID 15677608 and PMID 17972359. It is graded L2 with a "Research Question" recommendation. If a candidate is to be advanced, it should be evaluated separately from this one.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

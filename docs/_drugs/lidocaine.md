@@ -29,78 +29,71 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Lidocaine: From Local Anesthesia to Punctate Epithelial Keratoconjunctivitis
+# Lidocaine: From Local Anesthetic Use to Punctate Epithelial Keratoconjunctivitis
 
 ## One-Sentence Summary
 
-> Lidocaine is an amide-type local anesthetic long used for topical, infiltrative, and regional anesthesia (including routine use during ophthalmic procedures).
-> The TxGNN model predicts it may be effective for **Punctate Epithelial Keratoconjunctivitis**,
-> but currently **0 clinical trials** and **0 publications** support this direction, and the underlying mechanism plausibly points the opposite way.
-
----
+Lidocaine is a widely marketed local anesthetic, sold in the US as injections, gels, patches and other forms.
+The TxGNN model predicts it may be effective for **punctate epithelial keratoconjunctivitis**, but **no clinical trials and no publications** were retrieved for this indication, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Local anesthesia (topical/infiltrative/regional) — no formal indication text available in this evidence pack |
-| Predicted New Indication | Punctate Epithelial Keratoconjunctivitis |
-| TxGNN Prediction Score | 99.99% (rank 692 of model output) |
-| Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Original Indication | Not stated in the provided US license records (lidocaine is a local anesthetic) |
+| Predicted New Indication | Punctate epithelial keratoconjunctivitis |
+| TxGNN Prediction Score | 99.99% |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in this evidence pack (Data Gap DG002, High severity). Based on known pharmacology, lidocaine is a voltage-gated sodium channel blocker used clinically as a local anesthetic and, in ophthalmology, as an off-label anesthetic agent for procedures such as subconjunctival and intravitreal injections, pterygium excision, and peribulbar blocks — as reflected by the many procedural trials found elsewhere in this evidence pack for other candidate indications.
+Currently, detailed mechanism of action data is not available from DrugBank for this record. From general pharmacology, lidocaine is a voltage-gated sodium channel blocker. It blocks nerve conduction, which is why it works as a local anesthetic.
 
-For punctate epithelial keratoconjunctivitis specifically, however, the evidence pack contains **no clinical trials or literature** connecting lidocaine to this indication. The model's rationale itself flags a mechanistic concern rather than support: prolonged or inappropriate topical anesthetic use is a known risk factor for corneal epithelial toxicity, which is the opposite of a therapeutic effect on epithelial keratoconjunctivitis. In other words, the pharmacological direction implied by known lidocaine toxicity data runs counter to the predicted new indication, rather than reinforcing it.
+That mechanism makes surface pain relief on the eye plausible. It does not suggest any effect on the underlying disease. Punctate epithelial keratoconjunctivitis is often viral or inflammatory, and nothing in the data shows lidocaine treats that process. The TxGNN score therefore looks more like a symptom-relief signal than evidence of a disease-modifying effect.
 
-Given this, the high TxGNN score should be treated as a model-driven signal only, not as evidence of a plausible therapeutic mechanism.
-
----
+There is also a safety concern. Topical anesthetics can impair corneal healing and worsen keratopathy, so the safety direction for corneal surface disease is arguably unfavorable.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
-
----
+Currently no related clinical trials registered for this indication.
 
 ## Literature Evidence
 
-Currently no related literature available.
-
----
+Currently no related literature available for this indication.
 
 ## US Market Information
 
-No FDA/regulatory market authorization records are present in this evidence pack — market status is recorded as **Not Marketed**, with **0** licenses/NDAs on file. (Note: lidocaine is widely marketed globally under other regulatory pathways/products; this evidence pack simply contains no license records to cite.)
+Lidocaine has 20 US authorizations. The five main ones are listed below, and the records provided contain no approved-indication text. Other forms on the market include cream, spray and liquid.
 
----
+| Authorization Number | Product Name | Dosage Form |
+|---------|------|------|
+| ANDA088327 | Lidocaine Hydrochloride | Injection, solution |
+| M017 | POMG Night Time Pain Relief Roller | Gel |
+| NDA006488 | Xylocain (Lidocaine HCl) | Injection, solution |
+| NDA006488 | Xylocaine MPF | Injection, solution |
+| ANDA209190 | Tridacaine XL | Patch |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-*(Note: Data Gap DG001 — TFDA label warnings/contraindications — is classified as Blocking, meaning this candidate cannot pass initial safety screening (S1) until label data is obtained.)*
-
----
+Please refer to the package insert for safety information. No warnings, contraindications or drug-interaction records were available for this drug. For this indication, the main concern is the possible effect of topical anesthetics on corneal healing (see above).
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This candidate is supported only by a TxGNN model score (L5, decision stage S0), with zero clinical trials or literature specific to punctate epithelial keratoconjunctivitis. The available mechanistic reasoning suggests a potential safety concern (corneal epithelial toxicity from anesthetic overexposure) rather than a therapeutic rationale, so this is not just low-evidence but potentially direction-reversed.
+The prediction has a very high model score but no supporting trials or literature, and no plausible disease-modifying mechanism. Topical anesthetics may also harm the corneal surface.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications for lidocaine (Blocking data gap DG001) before any S1 safety screening
-- Confirmed mechanism of action data (DG002) to properly assess mechanistic plausibility
-- Primary literature or preclinical studies directly evaluating lidocaine in punctate epithelial keratoconjunctivitis or comparable corneal epithelial pathology
-- Given the corneal toxicity signal, an explicit safety review before considering any further work on this indication
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Targeted searches for lidocaine ophthalmic use in punctate epithelial keratoconjunctivitis, including a check of corneal-toxicity risk
+- Route compatibility assessment (an ophthalmic form is needed, and none is confirmed in the US license list provided)
+
+Other predicted indications should be reviewed separately. The closest evidence is for conjunctival disorder, where 18 trials were found but only 10 were provided. These trials use lidocaine as a procedural anesthetic, not as a treatment. Much of the related literature concerns SUNCT/SUNA headaches, which match the term by name only.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

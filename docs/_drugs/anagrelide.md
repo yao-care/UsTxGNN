@@ -29,37 +29,39 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-# Anagrelide: From Essential Thrombocythemia to Reactive Thrombocytosis
+# Anagrelide: From Thrombocythemia (Myeloproliferative Disorders) to Reactive Thrombocytosis
 
 ## One-Sentence Summary
 
-Anagrelide is a platelet-reducing agent used globally for essential thrombocythemia (ET) and related myeloproliferative neoplasms, though it is not currently marketed in Taiwan.
-The TxGNN model predicts it may be effective for **Reactive Thrombocytosis**, with **0 clinical trials** and **10 publications** currently available — most of which discuss the distinction between ET and reactive thrombocytosis rather than anagrelide's therapeutic use in the reactive form.
-The high prediction score likely reflects a shared high-platelet phenotype in the model rather than genuine therapeutic applicability.
+Anagrelide is an oral platelet-lowering drug. The retrieved reviews describe it mainly for clonal thrombocytosis such as essential thrombocythemia, but the US labeling records in this pack contain no indication text.
+The TxGNN model predicts it may be effective for **reactive thrombocytosis**, with **0 clinical trials** and **10 publications** (none testing anagrelide in reactive thrombocytosis).
+The high score most likely reflects its established use in essential thrombocythemia rather than independent evidence for this new indication.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Essential Thrombocythemia (no TFDA license on file; drug not marketed in Taiwan) |
-| Predicted New Indication | Reactive Thrombocytosis |
+|------|------|
+| Original Indication | Not listed in the retrieved US license records. The retrieved reviews describe use in essential thrombocythemia and related myeloproliferative disorders. |
+| Predicted New Indication | Reactive thrombocytosis |
 | TxGNN Prediction Score | 99.83% |
 | Evidence Level | L4 |
-| Taiwan Market Status | Not marketed |
-| Number of TFDA Licenses | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 7 licenses in total (1 NDA, the rest ANDAs) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological literature, anagrelide selectively inhibits megakaryocyte maturation and differentiation, thereby reducing platelet production. This mechanism underlies its efficacy in clonal thrombocytosis — conditions such as ET, polycythemia vera, and other myeloproliferative neoplasms where platelet overproduction originates from an intrinsic bone marrow clonal disorder.
+Detailed mechanism-of-action data is not available in this record. From general knowledge and the retrieved reviews (PMID 15270658, 16019501), anagrelide lowers platelet counts mainly by inhibiting megakaryocyte maturation. PDE3 inhibition is also described. That is a plausible pharmacological fit for any condition with excess platelets.
 
-Reactive thrombocytosis, however, is a fundamentally different condition. It is a secondary, transient response to external stimuli — infection, inflammatory disease, iron deficiency, post-splenectomy state, or malignancy — and typically resolves once the underlying cause is treated. Clinical guidelines worldwide do not recommend platelet-lowering agents for reactive thrombocytosis; the treatment priority is the root cause, not the elevated platelet count itself.
+The link to reactive thrombocytosis is weak, however. Reactive thrombocytosis is driven by inflammation, iron deficiency, splenectomy or malignancy. It usually carries a low thrombotic risk and is managed by treating the underlying cause, not with platelet-lowering drugs. One retrieved review states that reactive thrombocytosis does not require therapeutic intervention, while clonal thrombocytosis may. The retrieved literature mostly *distinguishes* reactive from clonal thrombocytosis. None of it shows anagrelide benefiting reactive thrombocytosis.
 
-The high TxGNN score (99.83%) most likely reflects the model's recognition of shared phenotypic features — specifically, elevated platelet counts — between ET and reactive thrombocytosis, rather than a true mechanistic or therapeutic overlap. The retrieved literature consistently uses reactive thrombocytosis as a differential diagnosis to be excluded before initiating anagrelide, reinforcing the conclusion that this prediction represents a model limitation rather than a genuine repurposing opportunity.
+The TxGNN score of 0.998 most likely comes from the drug's well-established use in essential thrombocythemia, a closely related platelet disorder. It is not independent support for this prediction.
+
+The second predicted indication, inverse Klippel-Trenaunay syndrome (score 99.59%), has no trials or literature. No mechanistic link to anagrelide was identified, so it is not evaluated further here.
 
 ---
 
@@ -72,23 +74,38 @@ Currently no related clinical trials registered.
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [17171694](https://pubmed.ncbi.nlm.nih.gov/17171694/) | 2007 | Retrospective Cohort | Pediatric Blood & Cancer | 12 pediatric cases comparing ET vs reactive thrombocythemia; highlights the critical importance of differential diagnosis before initiating platelet-lowering therapy |
-| [15270658](https://pubmed.ncbi.nlm.nih.gov/15270658/) | 2004 | Narrative Review | Expert Review of Anticancer Therapy | Comprehensive update on anagrelide's mechanism and role in clonal thrombocytosis; explicitly distinguishes reactive thrombocytosis (no treatment needed) from clonal forms |
-| [16019501](https://pubmed.ncbi.nlm.nih.gov/16019501/) | 2005 | Critical Review | Leukemia & Lymphoma | Critical evaluation of anagrelide in ET and related disorders; reactive thrombocytosis explicitly excluded from indications for cytoreductive therapy |
-| [10494240](https://pubmed.ncbi.nlm.nih.gov/10494240/) | 1999 | Narrative Review | Medical Journal of Australia | Overview of ET diagnosis and management; underscores that diagnosis requires exclusion of reactive thrombocytosis before treatment |
-| [28380402](https://pubmed.ncbi.nlm.nih.gov/28380402/) | 2017 | Narrative Review | Leukemia Research | Case-based review of thrombocytapheresis in myeloproliferative neoplasms; medical cytoreduction (including anagrelide) discussed only for clonal, not reactive, thrombocytosis |
-| [38455691](https://pubmed.ncbi.nlm.nih.gov/38455691/) | 2024 | Case Report | European Journal of Case Reports in Internal Medicine | Acute MI in an ET patient on anagrelide; illustrates thrombotic risk management challenges in myeloproliferative disorders |
-| [27276864](https://pubmed.ncbi.nlm.nih.gov/27276864/) | 2016 | Case Report | Srpski arhiv za celokupno lekarstvo | First reported case of ET concurrent with ankylosing spondylitis; reactive mild thrombocytosis from spondylitis contrasted with true ET requiring anagrelide |
-| [29851840](https://pubmed.ncbi.nlm.nih.gov/29851840/) | 2018 | Case Report | Medicine | Digital replantation in a post-splenectomy patient with extreme thrombocytosis; anagrelide considered for peri-operative platelet control in a reactive (post-splenectomy) context — one of the few scenarios where the boundary between reactive and clonal management blurs |
-| [7783354](https://pubmed.ncbi.nlm.nih.gov/7783354/) | 1995 | Narrative Review | Japanese Journal of Clinical Hematology | Japanese review of ET treatment options including anagrelide; reactive thrombocytosis listed as a key differential to exclude |
-| [1994734](https://pubmed.ncbi.nlm.nih.gov/1994734/) | 1991 | Narrative Review | American Journal of the Medical Sciences | Early characterization of the clinical spectrum of thrombocytosis; describes cytokine regulation of platelet production and the distinct biology of reactive vs clonal forms |
+|------|-----|------|------|---------|
+| [15270658](https://pubmed.ncbi.nlm.nih.gov/15270658/) | 2004 | Review | Expert Rev Anticancer Ther | Update on anagrelide's mechanisms and therapeutic potential. Reactive thrombocytosis needs no therapy, while clonal thrombocytosis may. |
+| [16019501](https://pubmed.ncbi.nlm.nih.gov/16019501/) | 2005 | Review | Leuk Lymphoma | Critical review of anagrelide in essential thrombocythemia and related disorders. Compares it with hydroxyurea, which has controlled-trial evidence of reducing thrombosis in high-risk patients. |
+| [10494240](https://pubmed.ncbi.nlm.nih.gov/10494240/) | 1999 | Review | Med J Aust | Essential thrombocythemia is diagnosed by excluding other myeloproliferative disorders and reactive thrombocytosis. Platelet-lowering therapy is advised above 1000 x 10⁹/L. |
+| [28380402](https://pubmed.ncbi.nlm.nih.gov/28380402/) | 2017 | Review | Leuk Res | Case-based review of thrombocytapheresis in hyperthrombocytosis in myeloproliferative neoplasms. Medical cytoreduction remains the mainstay. |
+| [1994734](https://pubmed.ncbi.nlm.nih.gov/1994734/) | 1991 | Review | Am J Med Sci | Clinical spectrum of thrombocytosis and thrombocythemia, including the cytokine regulation of platelet production. |
+| [7783354](https://pubmed.ncbi.nlm.nih.gov/7783354/) | 1995 | Review | Rinsho Ketsueki | Diagnosis and treatment of essential thrombocythemia. Anagrelide is listed among the agents that suppress megakaryocyte proliferation. |
+| [17171694](https://pubmed.ncbi.nlm.nih.gov/17171694/) | 2007 | Retrospective cohort | Pediatr Blood Cancer | Retrospective analysis of 12 children comparing essential versus reactive thrombocythemia. |
+| [38455691](https://pubmed.ncbi.nlm.nih.gov/38455691/) | 2024 | Case report | Eur J Case Rep Intern Med | Acute myocardial infarction in a patient with essential thrombocythemia treated with anagrelide. |
+| [27276864](https://pubmed.ncbi.nlm.nih.gov/27276864/) | 2016 | Case report | Srp Arh Celok Lek | Essential thrombocythemia with ankylosing spondylitis, treated with anagrelide, DMARDs and etanercept. |
+| [29851840](https://pubmed.ncbi.nlm.nih.gov/29851840/) | 2018 | Case report | Medicine | Digit replantation in a patient with thrombocytosis after splenectomy. Offers a guideline for replantation when thrombocytosis is expected. |
+
+---
+
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA020333 | Agrylin | Capsule | Takeda Pharmaceuticals America, Inc. |
+| ANDA076683 | Anagrelide | Capsule | Chartwell RX, LLC |
+| ANDA076811 | Anagrelide | Capsule | ANI Pharmaceuticals, Inc. |
+| ANDA209151 | Anagrelide | Capsule | Torrent Pharmaceuticals Limited |
+
+The records list 7 licenses in total. Only the four unique authorizations above are shown, because ANDA076683 appears twice. Approved indication text is not included in the retrieved records. All products are oral capsules.
 
 ---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
+
+One retrieved case report (PMID 38455691) describes an acute myocardial infarction in a patient with essential thrombocythemia who was on anagrelide. This is a single case and does not establish causality.
 
 ---
 
@@ -97,14 +114,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-Reactive thrombocytosis is a secondary, typically self-limiting condition treated by addressing its underlying cause; cytoreductive therapy with anagrelide has no established guideline support for this indication, and the existing literature uses it as a differential to be excluded rather than a treatment target. The high TxGNN score reflects phenotypic similarity at the model level, not biological plausibility.
+No clinical trials exist, and the retrieved literature contains no study of anagrelide in reactive thrombocytosis. The condition is usually managed by treating the underlying cause. The high TxGNN score most likely reflects the drug's use in essential thrombocythemia. The prediction is therefore supported by model output and pharmacological plausibility only.
 
 **To proceed, the following is needed:**
-
-- **MOA confirmation**: Retrieve anagrelide's full mechanism from DrugBank to identify any edge-case links to secondary thrombocytosis pathways (e.g., inflammatory megakaryopoiesis)
-- **Safety baseline**: Download and parse the TFDA package insert (or FDA Agrylin® label) to complete the S1 safety screening blocked by the current data gap
-- **Specific clinical hypothesis**: Identify whether any patient subgroup with reactive thrombocytosis (e.g., extreme thrombocytosis post-splenectomy with thrombotic risk) might benefit — and whether this constitutes a meaningful new indication or an off-label extension of existing ET use
-- **Prospective evidence**: Any preclinical or mechanistic study specifically evaluating anagrelide in secondary/reactive thrombocytosis models would be required before advancing beyond Hold status
+- FDA package insert warnings and contraindications, which are needed before any safety screening
+- Mechanism of action data (for example from DrugBank)
+- Evidence that any subgroup with reactive thrombocytosis has a thrombotic risk high enough to justify platelet-lowering therapy
+- Clinical or observational data on anagrelide in reactive thrombocytosis
+- Route compatibility and similarity-to-original-indication assessments, which are still pending
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,66 +29,72 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-The txgnn-pipeline skill confirms this is standard TxGNN report work. Now I'll generate the full evaluation report per the v5 prompt format.
-
----
-
-# Adenine: From Purine Nucleobase to Drug-Induced Osteoporosis
+# Adenine: From No Documented Indication to Drug-Induced Osteoporosis
 
 ## One-Sentence Summary
 
-Adenine (DB00173) is a naturally occurring purine nucleobase and fundamental structural component of nucleotides (AMP/ADP/ATP), with no established therapeutic indications and no US market authorisation on record.
-The TxGNN model predicts it may be effective for **Drug-Induced Osteoporosis** with a score of **99.16%**; however, this prediction is very likely a **false positive** — all retrieved evidence describes adenine *analogues* (Adefovir, Tenofovir) as *causative agents* of drug-induced bone loss, not as treatments.
-Currently only **1 registry study** (Grade C, unrelated) and **4 indirect publications** (all Tier 3) are available, yielding an evidence level of **L5**.
+Adenine is a purine base that is currently listed in the US as liquid products, but the records give no approved indication.
+The TxGNN model predicts it may be relevant to **drug-induced osteoporosis**, but **0 clinical trials** and **0 publications** actually support this. The one registered trial found is an unrelated kidney disease registry, and the four papers found describe purine-analog drugs that *cause* bone damage.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | None established |
-| Predicted New Indication | Drug-Induced Osteoporosis |
+|------|------|
+| Original Indication | Not specified in the records |
+| Predicted New Indication | Drug-induced osteoporosis |
 | TxGNN Prediction Score | 99.16% |
-| Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
-| Recommended Decision | **Hold** |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 (license numbers not recorded) |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-This prediction is **not supported by mechanistic evidence** — the available data points decisively in the opposite direction, and the high TxGNN score most likely reflects a model artefact rather than a genuine therapeutic signal.
+Currently, detailed mechanism of action data is not available. No original indication is recorded either, so there is no established use to build a mechanistic bridge from.
 
-Adenine (DB00173) is a purine nucleobase: one of the four bases in DNA and RNA, and the structural core of energy-carrying molecules such as AMP, ADP, and ATP. It is not an approved drug in the US, and no mechanism of action data is available for clinical therapeutic use. There is no established pharmacological pathway by which adenine itself would reverse or prevent drug-induced osteoporosis.
+The score is high (0.99), but the supplied evidence does not link adenine to treating or preventing drug-induced osteoporosis. The retrieved literature is about adenine-nucleotide-analog antivirals such as adefovir and tenofovir. These drugs are associated with bone toxicity, which is the opposite of a therapeutic effect. The graph signal most likely reflects network proximity to these purine-analog drugs, not a true therapeutic relationship.
 
-The high TxGNN score (0.9916) almost certainly arises from **semantic confusion** in the knowledge graph between *adenine* and *adenine nucleotide analogues* — specifically Adefovir dipivoxil and Tenofovir, which are structurally derived from adenine. These antiretroviral/antiviral drugs are well-documented *causes* of drug-induced osteoporosis: they inhibit mitochondrial DNA polymerase and impair renal tubular phosphate reabsorption, triggering Fanconi syndrome, hypophosphataemia, and ultimately hypophosphatemic osteomalacia or osteoporosis. Every piece of literature retrieved for this indication describes this toxicity pathway. The model appears to have linked "adenine → bone disease" co-occurrences in the literature without distinguishing therapeutic agent from causative agent.
+One further point comes from general background knowledge, not from the supplied data, and has not been verified here. Adenine at high doses is a known experimental nephropathy inducer in rodents. That raises a safety question for any bone-related use.
 
 ---
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|-----------|-------------|
-| [NCT06065852](https://clinicaltrials.gov/study/NCT06065852) | N/A | Recruiting | 35,000 | National Registry of Rare Kidney Diseases (RaDaR) — an observational data-collection registry for rare renal conditions; entirely unrelated to Adenine as a treatment for drug-induced osteoporosis. Inclusion is likely a retrieval artefact from the known adenine-nephropathy rat model. |
+|---------|------|------|------|---------|
+| [NCT06065852](https://clinicaltrials.gov/study/NCT06065852) | N/A | Recruiting | 35,000 | National registry of rare kidney diseases (RaDaR), collecting data for guidelines and audits. It does not test adenine or any intervention and does not address drug-induced osteoporosis (relevance grade C, no usable evidence). |
 
 ---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [41924521](https://pubmed.ncbi.nlm.nih.gov/41924521/) | 2026 | Case Report | Frontiers in Endocrinology | Adefovir dipivoxil (an adenine *analogue*) induced Fanconi syndrome → hypophosphatemic osteomalacia in a 67-year-old woman. Describes the adenine analogue as the **cause** of drug-induced bone disease, not a treatment. |
-| [22943210](https://pubmed.ncbi.nlm.nih.gov/22943210/) | 2012 | PK/PD Review | Expert Opinion on Drug Metabolism & Toxicology | PK/PD review of emtricitabine/tenofovir for HIV; explains how nucleotide analogues act as chain terminators of viral reverse transcriptase. Not relevant to adenine as a therapeutic agent. |
-| [20026012](https://pubmed.ncbi.nlm.nih.gov/20026012/) | 2010 | In Vitro Mechanistic Study | Biochemical and Biophysical Research Communications | Tenofovir downregulates *Gnas*, *Got2*, and *Snord32a* in primary osteoclasts, providing a mechanistic basis for **tenofovir-induced** bone density loss — again describing an adenine analogue as the causative agent. |
-| [31026554](https://pubmed.ncbi.nlm.nih.gov/31026554/) | 2019 | Animal Study | Journal of Ethnopharmacology | Xian-Ling-Gu-Bao herbal formula hepatotoxicity in rats; used clinically to treat osteoporosis. No connection to adenine or drug-induced osteoporosis as a target indication. |
+|------|-----|------|------|---------|
+| [22943210](https://pubmed.ncbi.nlm.nih.gov/22943210/) | 2012 | Review | Expert Opin Drug Metab Toxicol | Pharmacokinetics/pharmacodynamics of emtricitabine/tenofovir in HIV infection. Not about osteoporosis treatment. |
+| [41924521](https://pubmed.ncbi.nlm.nih.gov/41924521/) | 2026 | Case report | Front Endocrinol | Long-term adefovir dipivoxil caused Fanconi syndrome and hypophosphatemic osteomalacia and osteoporosis in a 67-year-old woman. The drug caused the bone damage. |
+| [31026554](https://pubmed.ncbi.nlm.nih.gov/31026554/) | 2019 | Preclinical (rat) | J Ethnopharmacol | Xian-Ling-Gu-Bao, an herbal formula used for osteoporosis, induced liver injury in rats through inflammatory and oxidative stress. Unrelated to adenine. |
+| [20026012](https://pubmed.ncbi.nlm.nih.gov/20026012/) | 2010 | In vitro | Biochem Biophys Res Commun | Tenofovir exposure altered gene expression (Gnas, Got2, Snord32a) in primary osteoclasts, a possible mechanism for drug-induced bone loss. |
+
+None of these studies tests adenine.
+
+---
+
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Not listed | Adenine (Professional Complementary Health Formulas) | Liquid | Not stated |
+| Not listed | Adenine 3X (Energique, Inc.) | Liquid | Not stated |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No warnings, contraindications, or drug interaction records were found for this drug.
 
 ---
 
@@ -97,14 +103,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN prediction for Adenine → Drug-Induced Osteoporosis is assessed as a **false positive driven by semantic conflation**: adenine nucleotide analogues (Adefovir, Tenofovir) co-occur with drug-induced osteoporosis in the literature precisely because they *cause* the condition, and the model has not distinguished this from a therapeutic relationship. There is no mechanistic hypothesis, no clinical trial evidence, and no published literature supporting adenine itself as a treatment for drug-induced osteoporosis.
+The prediction rests on the model score alone (evidence level L5). No trial or paper supports adenine for drug-induced osteoporosis, and the retrieved literature points to bone toxicity from related purine analogs. There is also no recorded original indication, mechanism, or safety information.
 
-**To proceed, the following would be needed:**
-
-- A credible mechanistic hypothesis explaining how free adenine (not its phosphonate analogues) could therapeutically reverse or prevent drug-induced osteoporosis
-- Preclinical evidence (cell-based or animal model) specifically testing adenine — not adefovir or tenofovir — in a bone loss model
-- Knowledge graph audit to flag and correct the adenine ↔ adenine-analogue semantic conflation in TxGNN, to prevent similar false-positive propagation to other candidates
-- If no mechanistic rationale can be established after literature review, this candidate should be formally **deprioritized** and recorded as a confirmed model artefact
+**To proceed, the following is needed:**
+- The package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data (for example from DrugBank) to test whether any real link to bone metabolism exists
+- Direct evidence on adenine and bone health, such as preclinical or clinical studies
+- An assessment of the rodent nephropathy signal and its relevance to human dosing
+- Confirmation of what the two listed liquid products are and their regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

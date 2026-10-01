@@ -33,64 +33,73 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Baclofen is a GABA-B receptor agonist classically established for the treatment of muscle spasticity and spasms.
-The TxGNN model predicts it may be effective for **Attention Deficit-Hyperactivity Disorder (ADHD)**,
-currently supported by **0 registered clinical trials** and **10 publications** (primarily animal studies and reviews focused on comorbid conditions).
+Baclofen is a widely marketed oral GABA-B receptor agonist, generally used as a muscle relaxant for spasticity.
+The TxGNN model predicts it may be effective for **attention deficit-hyperactivity disorder (ADHD)**, but so far the support is only **10 publications** (reviews and rodent studies) and **0 clinical trials**.
+The high model score is not backed by any ADHD-specific human evidence.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not found in dataset (established pharmacological use: muscle spasticity) |
-| Predicted New Indication | Attention Deficit-Hyperactivity Disorder (ADHD) |
+|------|------|
+| Original Indication | Not stated in the provided data (baclofen is generally used for spasticity) |
+| Predicted New Indication | Attention deficit-hyperactivity disorder |
 | TxGNN Prediction Score | 99.32% |
 | Evidence Level | L4 |
-| US Market Status | Not found in dataset (may reflect a data gap) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on established pharmacology, Baclofen is a selective GABA-B receptor agonist. The repurposing rationale proposes that by activating GABA-B receptors in the prefrontal cortex and ventral tegmental area, Baclofen indirectly modulates dopamine and norepinephrine signaling — the two neurotransmitter systems central to ADHD pathophysiology. Animal studies in spontaneously hypertensive rats (SHR), a validated ADHD model, have shown that GABA-B agonism alters cortical and hippocampal EEG patterns in ways that partially resemble ADHD neurophysiology (PMID 21300040), providing limited but mechanistically plausible preclinical support.
+Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on general pharmacology, baclofen is a GABA-B receptor agonist. It dampens excitatory signalling in the spinal cord, which underlies its effect on spasticity. In the brain, GABAergic inhibition can also modulate dopaminergic and noradrenergic circuits.
 
-However, this link remains indirect and speculative. Established ADHD pharmacotherapy (methylphenidate, amphetamines, atomoxetine) targets dopamine and norepinephrine directly, whereas Baclofen's route is inhibitory modulation via GABAergic pathways. The mechanistic leap from spasticity treatment to ADHD is substantial and lacks human clinical validation.
+Those circuits are involved in impulsivity, attention and tic-related symptoms, which is the plausible bridge to ADHD. The literature found is dominated by Tourette syndrome and tic-disorder reviews, which often discuss ADHD as a comorbidity. It also includes rodent studies on impulsivity and neurotransmitter agonists.
 
-It is important to note that the TxGNN model's high score (99.32%) likely reflects knowledge graph edges connecting Baclofen to Tourette syndrome — a condition highly comorbid with ADHD — rather than direct evidence of efficacy in ADHD itself. Several literature entries in this Evidence Pack discuss Baclofen explicitly for tic suppression in Tourette syndrome, and the ADHD connection appears to be inherited through this comorbidity relationship rather than through independent study of ADHD as a primary indication.
+The support is therefore indirect. No ADHD-specific clinical evidence for baclofen is visible, and the 99.32% score is a model prediction only. The literature assessment is based on titles and truncated abstracts, not full texts.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Baclofen in ADHD.
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
+None of these are randomized trials. Reviews are listed first, then preclinical work.
+
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [35345730](https://pubmed.ncbi.nlm.nih.gov/35345730/) | 2022 | Systematic Review | Cureus | Systematic review of treatments for tics in Tourette syndrome (frequently comorbid with ADHD); behavioral interventions, antipsychotics, and alpha agonists reviewed — Baclofen discussed as a supportive option for tic management |
-| [26366961](https://pubmed.ncbi.nlm.nih.gov/26366961/) | 2015 | Review | Clinical Neuropharmacology | Review of mood stabilizers in children/adolescents with autism spectrum disorders; attention-deficit symptoms addressed as a behavioral comorbidity target |
-| [24295630](https://pubmed.ncbi.nlm.nih.gov/24295630/) | 2013 | Review | International Review of Neurobiology | Emerging therapies for Tourette syndrome; Baclofen discussed in context of tic suppression within a disorder that carries high ADHD comorbidity rates |
-| [10342599](https://pubmed.ncbi.nlm.nih.gov/10342599/) | 1999 | Review | Journal of Child Neurology | Uncontrolled study of 450 patients with tics/Tourette syndrome treated with baclofen and botulinum toxin A; symptoms rated via Yale Global Tic Severity Scale — largest clinical dataset involving Baclofen in this comorbid population |
-| [21300040](https://pubmed.ncbi.nlm.nih.gov/21300040/) | 2011 | Animal Study | Brain Research | EEG responses to neurotransmitter agonists in SHR (ADHD model) vs. kainate-treated and normotensive rats; GABA-B agonism shown to alter cortical/hippocampal EEG — the most mechanistically relevant preclinical entry for this indication |
-| [11393328](https://pubmed.ncbi.nlm.nih.gov/11393328/) | 2001 | Review | Paediatric Drugs | Clinical management of Tourette syndrome; Baclofen listed as a pharmacological option for tic suppression alongside clonidine and dopamine antagonists |
-| [30122296](https://pubmed.ncbi.nlm.nih.gov/30122296/) | 2019 | Clinical Review | L'Encéphale | Review of supervised off-label methylphenidate prescribing in adult ADHD; contextualizes the off-label prescribing landscape relevant to any new candidate for this indication |
-| [24062084](https://pubmed.ncbi.nlm.nih.gov/24062084/) | 2014 | Animal Study | Psychopharmacology | Noradrenergic α2A stimulation in ventral hippocampus reduces impulsive decision-making in rats; relevant to understanding neurotransmitter modulation approaches for ADHD-like impulsivity |
-| [24496320](https://pubmed.ncbi.nlm.nih.gov/24496320/) | 2014 | Animal Study | Neuropsychopharmacology | Anterior cingulate cortex and amygdala contributions to cognitive effort decision-making; deficits in this domain are characteristic of ADHD, schizophrenia, and depression |
-| [24103016](https://pubmed.ncbi.nlm.nih.gov/24103016/) | 2013 | Animal Study | European Journal of Neuroscience | Habenular integrity and social play in rats; monoaminergic modulation context — indirect mechanistic background for neurodevelopmental disorders |
+|------|-----|------|---------|---------|
+| [35345730](https://pubmed.ncbi.nlm.nih.gov/35345730/) | 2022 | Review | Cureus | Tic disorders in Tourette's syndrome (behavioural therapy, antipsychotics, alpha agonists). ADHD appears as a common comorbidity. |
+| [26366961](https://pubmed.ncbi.nlm.nih.gov/26366961/) | 2015 | Review | Clinical Neuropharmacology | Mood stabilizers in children and adolescents with autism spectrum disorders. Covers irritability and attention-deficit behaviours. |
+| [24295630](https://pubmed.ncbi.nlm.nih.gov/24295630/) | 2013 | Review | International Review of Neurobiology | Emerging treatments in Tourette syndrome, with ADHD and OCD as comorbid conditions. |
+| [11393328](https://pubmed.ncbi.nlm.nih.gov/11393328/) | 2001 | Review | Paediatric Drugs | Clinical features and management of Tourette syndrome, including psychiatric comorbidity. |
+| [10342599](https://pubmed.ncbi.nlm.nih.gov/10342599/) | 1999 | Review (as classified) | Journal of Child Neurology | Reports treating 450 patients with tics/Tourette's using baclofen and botulinum toxin A, rated on the Yale Global Tic Severity Scale. It concerns tics, not ADHD. |
+| [30122296](https://pubmed.ncbi.nlm.nih.gov/30122296/) | 2019 | Off-label prescribing report | L'Encephale | Supervised off-label methylphenidate in adult ADHD. It is not about baclofen and is only context. |
+| [21300040](https://pubmed.ncbi.nlm.nih.gov/21300040/) | 2011 | Preclinical (rodent EEG) | Brain Research | EEG responses to neurotransmitter agonists in spontaneously hypertensive (ADHD model) versus kainate-treated rats. |
+| [24062084](https://pubmed.ncbi.nlm.nih.gov/24062084/) | 2014 | Preclinical (rodent) | Psychopharmacology | Alpha-2A adrenergic stimulation in the ventral hippocampus reduces impulsive decision-making. The drug studied is guanfacine. |
+| [24103016](https://pubmed.ncbi.nlm.nih.gov/24103016/) | 2013 | Preclinical (rodent) | European Journal of Neuroscience | Habenula function and social play behaviour in rats, involving monoaminergic regulation. |
+| [24496320](https://pubmed.ncbi.nlm.nih.gov/24496320/) | 2014 | Preclinical (rodent) | Neuropsychopharmacology | Anterior cingulate cortex and basolateral amygdala roles in effort-based decision-making. |
 
 ---
 
 ## US Market Information
 
-No FDA authorizations were found in the current dataset for Baclofen.
+The Evidence Pack lists 20 licenses in total. The first 5 entries include a duplicate of ANDA212378, so 4 distinct authorizations are shown. All are generics, and the approved-indication text is not provided.
 
-> **Note:** Baclofen is a well-established pharmaceutical compound with a long history of clinical use. The absence of records in this Evidence Pack most likely reflects a data gap in the current pipeline rather than actual non-approval status. Independent verification via the FDA Orange Book is strongly recommended before drawing regulatory conclusions.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA209102 | Baclofen (Direct_Rx) | Tablet | Not stated in data |
+| ANDA211659 | Baclofen (A-S Medication Solutions) | Tablet | Not stated in data |
+| ANDA214374 | Baclofen (Rising Pharma Holdings, Inc.) | Tablet | Not stated in data |
+| ANDA212378 | Baclofen (Bryant Ranch Prepack) | Tablet | Not stated in data |
+
+Injectable baclofen is also recorded among the dosage forms, alongside the oral tablet.
 
 ---
 
@@ -105,17 +114,16 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN high-confidence prediction for ADHD appears to be driven primarily by Baclofen's knowledge graph proximity to Tourette syndrome (a comorbid condition) rather than by direct clinical evidence in ADHD. With zero registered clinical trials and only animal/indirect literature support, the current evidence base is insufficient to justify advancing this repurposing candidate without foundational data generation.
+The ADHD prediction rests on a model score and indirect evidence (tic-disorder reviews and rodent studies). There is no ADHD-specific clinical trial or human study of baclofen, so this is an L4, stage S0 candidate.
 
-> **Secondary Signal Worth Noting:** Baclofen's rank-2 prediction — **nicotine dependence** — carries substantially stronger evidence (L2: 3 Phase 2 clinical trials, 20 publications) and a mechanistically direct rationale (VTA GABA-B → dopamine suppression in reward circuitry). If resources for this drug are to be prioritized, the nicotine dependence indication represents a more tractable near-term opportunity.
+**To proceed, the following is needed:**
+- ADHD-specific human evidence, such as registered trials or case series of baclofen in ADHD
+- Full-text review of the literature (only titles and truncated abstracts were assessed)
+- Mechanism of action data (DrugBank MOA) to support the GABA-B, dopamine and noradrenaline link
+- Package insert warnings and contraindications, needed before any safety screening
+- Route and dosage-form compatibility assessment for a pediatric and adult ADHD population
 
-**To proceed with the ADHD indication, the following is needed:**
-
-- **MOA data**: Confirm whether Baclofen's GABAergic mechanism produces measurable prefrontal dopamine/norepinephrine modulation in humans at clinically tolerated doses
-- **Exploratory clinical study**: At minimum a Phase 1/2 proof-of-concept trial in ADHD patients (adults or pediatric) with validated ADHD rating scales as endpoints
-- **Knowledge graph audit**: Clarify whether the TxGNN score derives from direct ADHD edges or from Tourette comorbidity paths — this affects interpretation of model confidence
-- **Regulatory verification**: Confirm US FDA approval status via the Orange Book; retrieve full prescribing information including warnings, contraindications, and DDI profile
-- **Safety package**: Obtain full package insert data before any clinical or regulatory submission — currently no safety data is available in this Evidence Pack
+**Note on the second predicted indication:** the same Evidence Pack also lists **nicotine dependence** (TxGNN score 99.19%). It has three Phase 2 trials (one completed, n=44; two terminated early, n=41 and n=6), rodent evidence and a Phase 2/RCT-level literature base. It is rated L2, stage S1, "Research Question", and is a much stronger candidate than ADHD if the team wants to prioritise baclofen repurposing.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

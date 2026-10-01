@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Fosphenytoin
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 739
-evidence_level: L3
+evidence_level: L5
 indication_count: 7
 ---
 
 # Fosphenytoin
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,11 +29,11 @@ Evidence Level: **L3** | Predicted Indications: **7**
 
 </div>
 
-# Fosphenytoin: From Seizure Disorders to Manic Bipolar Affective Disorder
+# Fosphenytoin: From Seizure Control to Conjunctivitis
 
 ## One-Sentence Summary
 
-Fosphenytoin (DB01320) is a phosphate-ester prodrug of phenytoin, a voltage-gated sodium channel blocker historically used to control seizures and status epilepticus. Among seven TxGNN-flagged candidate indications in this evidence pack, most (conjunctivitis, NSIAD, Tourette syndrome, granulomatous myositis, myositis fibrosa, fibromyalgia) carry zero supporting literature or trials and are explicitly flagged in the model rationale as likely false positives or weak mechanistic analogies — this report instead focuses on **Manic Bipolar Affective Disorder**, the only candidate with any literature evidence (**2 publications**, no registered clinical trials), reflecting a mechanistic hypothesis shared with established mood stabilizers (carbamazepine, valproate, lamotrigine).
+Fosphenytoin is an injectable prodrug of phenytoin, an anticonvulsant. The approved-indication text was not supplied in the data, so seizure use is inferred from its drug class. The TxGNN model predicts it may be effective for **conjunctivitis**, but there are **0 clinical trials** and **0 publications** supporting this prediction, so it rests on the model score alone.
 
 ---
 
@@ -41,23 +41,20 @@ Fosphenytoin (DB01320) is a phosphate-ester prodrug of phenytoin, a voltage-gate
 
 | Item | Content |
 |------|------|
-| Original Indication | Not present in this evidence pack's regulatory data (no license records); per known pharmacology, fosphenytoin/phenytoin is indicated for seizure disorders and status epilepticus |
-| Predicted New Indication | Manic Bipolar Affective Disorder |
-| TxGNN Prediction Score | 99.18% (rank 17,836) |
-| Evidence Level | L3 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Predicted New Indication | Conjunctivitis |
+| TxGNN Prediction Score | 99.36% |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 16 (the listed authorizations are ANDAs) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed original MOA data for fosphenytoin is not available in this evidence pack (flagged as a High-severity data gap). Based on established pharmacology, fosphenytoin is rapidly converted in vivo to phenytoin, a voltage-gated sodium channel blocker that suppresses pathological neuronal hyperexcitability — the basis of its anticonvulsant effect.
+Detailed mechanism-of-action data is not available in the supplied data. Fosphenytoin is a prodrug of phenytoin, a voltage-gated sodium channel blocker that dampens neuronal excitability. That is a plausible basis for seizure control.
 
-Several other sodium-channel-acting anticonvulsants (carbamazepine, valproate, lamotrigine) are already clinically established mood stabilizers for bipolar disorder, on the hypothesis that dampening excessive limbic/cortical firing also stabilizes mood. Fosphenytoin's prediction extends this class-level mechanism to phenytoin itself.
-
-However, this is a mechanistic analogy rather than confirmed evidence specific to fosphenytoin: the only direct clinical data is a single small open-label pilot study from 2003, with no subsequent controlled trials in the two decades since. The mechanistic link is plausible but unconfirmed.
+**The mechanism does not support this prediction.** Nothing in the supplied data connects sodium channel blockade to conjunctival inflammation, which is typically infectious or allergic in origin. The high score (0.994) is a statistical output of the knowledge graph. The model ranks this pair 14,424th overall, and no trial or publication backs it.
 
 ---
 
@@ -69,24 +66,29 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [12716241](https://pubmed.ncbi.nlm.nih.gov/12716241/) | 2003 | Open-label pilot study | The Journal of Clinical Psychiatry | Tested intravenous high-dose fosphenytoin as an acute antimanic treatment, hypothesizing that anticonvulsant mechanisms could rapidly control acute mania; fosphenytoin was chosen over IV phenytoin for its lower cardiac/local-vein toxicity. |
-| [23205958](https://pubmed.ncbi.nlm.nih.gov/23205958/) | 2012 | Review | Epilepsia | Historical review of AED chemical-structure development (phenobarbital → phenytoin → carbamazepine → valproate); not directly focused on mania, included as background structural/class context only. |
+Currently no related literature available.
 
 ---
 
 ## US Market Information
 
-Fosphenytoin is not currently marketed and holds no NDA records in this evidence pack (`total_licenses = 0`).
+The supplied records give no approved-indication text, so that column is omitted.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA214926 | Fosphenytoin sodium | Injection, solution | Glenmark Pharmaceuticals Inc., USA |
+| ANDA078765 | Fosphenytoin Sodium | Injection, solution | West-Ward Pharmaceuticals Corp |
+| ANDA077989 | Fosphenytoin Sodium | Injection | Hikma Pharmaceuticals USA Inc. |
+| ANDA078476 | Fosphenytoin Sodium | Injection | Amneal Pharmaceuticals LLC |
+| ANDA214926 | Fosphenytoin Sodium | Injection, solution | Sagent Pharmaceuticals |
+
+All listed forms are injectable. The data shows the same number (ANDA214926) under two manufacturers.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-*(Note: Obtaining the TFDA/FDA label warnings and contraindications is flagged as a **Blocking** data gap in this evidence pack — it currently prevents formal safety pre-screening (S1) of this candidate.)*
+Please refer to the package insert for safety information. No drug interaction records were found in the queried source.
 
 ---
 
@@ -95,13 +97,17 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-Evidence for the manic bipolar indication rests on a single small open-label pilot study (2003) with no controlled follow-up in over 20 years, and the drug is unmarketed with no NDA. A Blocking-severity data gap (missing label warnings/contraindications) also prevents safety pre-screening. The remaining six TxGNN-flagged candidates in this evidence pack have no clinical trial or literature support at all and are independently scored Hold/L5 by the same evidence pack.
+The conjunctivitis prediction has no supporting trials or literature, and no mechanistic link is apparent. It should not be pursued on the model score alone.
+
+Among the other predictions, only **manic bipolar affective disorder** (score 99.18%) has any supporting literature. That is one human study of IV fosphenytoin in acute mania ([PMID 12716241](https://pubmed.ncbi.nlm.nih.gov/12716241/), *J Clin Psychiatry*, 2003). Its design and results could not be verified from the supplied abstract, so the provisional L3 grade could change. It is a better-supported research question than conjunctivitis.
 
 **To proceed, the following is needed:**
-- TFDA/FDA package insert data (warnings, contraindications) to clear the Blocking safety data gap
-- Confirmed original MOA documentation from DrugBank
-- A controlled (ideally randomized) trial evaluating fosphenytoin/phenytoin in acute mania to update evidence beyond the single 2003 pilot study
-- Drug-drug interaction (DDI) profile, currently not found
+- Package insert warnings and contraindications (currently blocking safety screening)
+- Mechanism-of-action data from DrugBank
+- A literature search focused on fosphenytoin or phenytoin in conjunctivitis
+- If the team wants a stronger lead, full-text review of PMID 12716241 to confirm study design and outcomes
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

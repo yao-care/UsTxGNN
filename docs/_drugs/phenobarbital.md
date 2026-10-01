@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Phenobarbital
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 1037
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Phenobarbital
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,64 +29,88 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Phenobarbital: From Epilepsy to Trigeminal Nerve Neoplasm
+# Phenobarbital: From Seizure Control to Trigeminal Nerve Neoplasm
 
 ## One-Sentence Summary
 
-> Phenobarbital is a classic barbiturate, established for the long-term treatment of epilepsy and seizure disorders.
-> The TxGNN model's top-ranked new indication is **Trigeminal Nerve Neoplasm**,
-> but this prediction is currently supported by only **1 unrelated case series** and **0 clinical trials** — evidence is not yet meaningful.
+Phenobarbital is an older barbiturate anticonvulsant and sedative. The TxGNN model predicts it may be useful for **trigeminal nerve neoplasm**, but the evidence is very thin: **0 clinical trials** and **1 publication** (a general case series that does not address this tumor directly). The prediction is best treated as a model output, not a supported lead.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Epilepsy / Seizure disorders (based on established pharmacological classification; no formal label text available — this evidence pack contains no `original_indications` or license data for this drug) |
-| Predicted New Indication | Trigeminal Nerve Neoplasm |
+| Original Indication | Seizure control (label indication text was not supplied in the US license records) |
+| Predicted New Indication | Trigeminal nerve neoplasm |
 | TxGNN Prediction Score | 99.96% |
-| Evidence Level | L5 |
-| US Market Status | ✗ Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L4 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (`original_moa` = Data Gap). Based on information embedded elsewhere in this evidence pack, phenobarbital is understood to be a GABA-A receptor positive allosteric modulator with central nervous system depressant and anticonvulsant activity — the pharmacological basis for its established use in epilepsy.
+Detailed mechanism-of-action data is not available in the Evidence Pack. Phenobarbital is known as a positive allosteric modulator of the GABA-A receptor. It enhances inhibitory signaling and reduces neuronal excitability, which underlies its anticonvulsant and sedative effects.
 
-For this specific top-ranked prediction, however, the evidence pack's own rationale explicitly flags the pairing as likely **knowledge-graph noise**: there is no known biological link between phenobarbital's GABA-A-mediated CNS-suppressant/anticonvulsant mechanism and tumour growth suppression relevant to a trigeminal nerve neoplasm. The single supporting publication is a 1997 case series on Sturge-Weber syndrome (a vascular/seizure disorder), which does not address nerve tumour treatment and is only tangentially connected through shared neurological terminology.
+That mechanism does not point to an antitumor effect. The review found no plausible route by which phenobarbital would shrink or control a trigeminal nerve tumor. Any benefit would be symptomatic, for example controlling tumor-associated seizures, and would not modify the disease itself.
 
-It is worth noting that several lower-ranked candidates in this evidence pack (e.g., audiogenic seizures, rank 6) have substantially stronger and more mechanistically coherent support — multiple preclinical studies directly testing phenobarbital in reflex-seizure animal models — and may warrant separate evaluation as they represent extensions of phenobarbital's existing antiepileptic mechanism rather than an unrelated oncology application.
+The high TxGNN score most likely reflects network-level associations in the knowledge graph (neurological disease neighbors) rather than biological evidence. It should not be read as evidence of efficacy.
+
+---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
+
+---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [9157801](https://pubmed.ncbi.nlm.nih.gov/9157801/) | 1997 | Case Series | Anales españoles de pediatría | Reviews 14 cases of Sturge-Weber syndrome over a 25-year period; does not address trigeminal nerve neoplasm treatment or phenobarbital efficacy against tumour growth |
+| [9157801](https://pubmed.ncbi.nlm.nih.gov/9157801/) | 1997 | Case series | Anales espanoles de pediatria | Review of 14 Sturge-Weber syndrome cases over 25 years, covering clinical features, course and treatment response. It is a neurocutaneous condition, not a trigeminal nerve tumor, so it gives only indirect context. |
+
+The relevance of this paper has not yet been assessed.
+
+---
 
 ## US Market Information
 
-Phenobarbital is not currently marketed in the US per this evidence pack (`market_status`: Not marketed / Not Marketed), and no NDA or license records are available (`total_licenses`: 0).
+The Evidence Pack lists 20 authorizations in total. Five are shown below. Authorization numbers and approved-indication text were not provided in the source records.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Not provided | Phenobarbital (Winder Laboratories) | Tablet | Not provided |
+| Not provided | Phenobarbital Sodium (BPI Labs) | Injection | Not provided |
+| Not provided | Phenobarbital (Proficient Rx) | Tablet | Not provided |
+| Not provided | Phenobarbital (Westminster Pharmaceuticals) | Tablet | Not provided |
+| Not provided | Phenobarbital (Winder Laboratories) | Tablet | Not provided |
+
+Available routes include oral (tablet) and injectable forms, and one solution form is also recorded.
+
+---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction is supported only by a single, thematically unrelated case series (L5, model-prediction-only evidence), and the evidence pack's own mechanistic assessment identifies this drug-disease pairing as likely a false-positive knowledge-graph association rather than a biologically plausible repurposing candidate.
+The prediction has no clinical trials, one loosely related case series, and no plausible antitumor mechanism. Any realistic role would be symptomatic seizure control rather than treating the tumor. The prediction remains at model-only level (S0).
 
 **To proceed, the following is needed:**
-- Resolve blocking data gap DG001 (TFDA/FDA label warnings and contraindications) before any safety evaluation can begin
-- Resolve DG002 (confirmed mechanism of action documentation) to properly assess mechanistic plausibility
-- Disease-specific preclinical or clinical evidence directly linking phenobarbital to trigeminal nerve neoplasm, if this candidate is to be pursued further
-- Consider re-scoping evaluation toward higher-evidence candidates in this pack (e.g., audiogenic seizures, L3/S2) that align with phenobarbital's known antiepileptic mechanism, rather than this L5 oncology candidate
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Confirmed mechanism-of-action data from DrugBank
+- Evidence that phenobarbital changes tumor behavior, or a reframing of the question as tumor-associated seizure control with its own supporting studies
+- Relevance review of the retrieved literature and a route-compatibility assessment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,31 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Eplerenone: From Hypertension to Pulmonary Hypertension (Unclear Multifactorial Mechanism)
+# Eplerenone: From Its Approved Indications to Pulmonary Hypertension with Unclear Multifactorial Mechanism
 
 ## One-Sentence Summary
 
-Eplerenone is an aldosterone (mineralocorticoid receptor) antagonist internationally known for hypertension and heart failure; it is **not currently marketed in Taiwan** and detailed original-indication/MOA data are not present in this evidence pack. The TxGNN model predicts possible efficacy in **Pulmonary Hypertension with Unclear Multifactorial Mechanism (WHO Group 5 PH)**, but this ranking is supported by **0 clinical trials** and **0 publications** — it is a pure algorithmic prediction with no corroborating evidence.
+Eplerenone is a marketed oral tablet in the US, but the record does not state its original indications.
+The TxGNN model predicts it may be effective for **pulmonary hypertension with unclear multifactorial mechanism**,
+but **0 clinical trials** and **0 publications** currently support this specific prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available from Taiwan regulatory data (drug not marketed locally); internationally known as an aldosterone/mineralocorticoid receptor antagonist used for hypertension and heart failure |
-| Predicted New Indication | Pulmonary Hypertension with Unclear Multifactorial Mechanism (WHO Group 5 PH) |
+| Original Indication | Not specified in the record (approved indication text is empty in all listed licenses) |
+| Predicted New Indication | Pulmonary hypertension with unclear multifactorial mechanism |
 | TxGNN Prediction Score | 99.50% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed (Taiwan) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 19 (the listed licenses are generic ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on general pharmacological knowledge, eplerenone is a selective mineralocorticoid (aldosterone) receptor antagonist, a mechanism proven effective in hypertension and post-MI heart failure by inhibiting downstream RAAS/aldosterone signaling.
+Currently, detailed mechanism of action data is not available in the record. Eplerenone's original indications are also not recorded, so the link between its existing use and the predicted indication cannot be judged from the supplied data.
 
-WHO Group 5 pulmonary hypertension is defined precisely by *unclear or multifactorial* mechanisms, spanning conditions as diverse as hematologic disorders, metabolic disease, and systemic disorders. Because this disease category has no single, well-characterized pathophysiology, there is no established biological rationale linking aldosterone antagonism to this specific PH subtype in the evidence provided.
+As general background, not derived from the supplied data, eplerenone is a selective mineralocorticoid receptor antagonist. Mineralocorticoid receptor signaling has been proposed to contribute to pulmonary vascular remodeling and right-heart fibrosis, which would make the prediction biologically plausible. This link is hypothesis-level and unverified here.
 
-The source rationale explicitly states that this candidate has no clinical trials, no literature, and no constructible mechanistic hypothesis — it is flagged as a pure knowledge-graph inference rather than a biologically grounded hypothesis. This should be treated as a hypothesis-generation signal only, not as evidence of therapeutic plausibility.
+The high score (0.995) may partly reflect graph proximity to hypertension-related nodes rather than a disease-specific mechanism. The other top predictions (malignant hypertensive renal disease, malignant renovascular hypertension, Braddock syndrome) are also supported by the model score alone. For pulmonary hypertension owing to lung disease and/or hypoxia (rank 2), the 20 retrieved publications are generic hypoxia papers. They cover brain aging, cancer biology, altitude and multiple sclerosis, and none mentions eplerenone or pulmonary hypertension. This looks like keyword matching, so that literature count should not be treated as real evidence.
 
 ## Clinical Trial Evidence
 
@@ -63,24 +65,33 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA214663 | Eplerenone (Rising Pharma Holdings) | Tablet | Not listed |
+| ANDA207842 | Eplerenone (Proficient Rx) | Coated tablet | Not listed |
+| ANDA207842 | Eplerenone (Westminster Pharmaceuticals) | Coated tablet | Not listed |
+| ANDA207842 | Eplerenone (AvKARE) | Coated tablet | Not listed |
+
+All products are oral (tablet, coated tablet or film-coated tablet).
+
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-*(Note: A TFDA label/warnings data gap is flagged as Blocking in this evidence pack — package insert data for eplerenone has not yet been retrieved, so no S1 safety screening has occurred.)*
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This candidate is evidence level L5 (model prediction only) with zero supporting clinical trials or literature, and no mechanistic hypothesis could be constructed linking eplerenone to this PH subtype. Additionally, a Blocking data gap exists for TFDA label/warning information, which prevents any safety pre-screening.
+The prediction is supported only by a model score (L5), with no trials and no drug-specific literature. Mechanism of action, original indications and safety data are all missing, so the candidate cannot yet move beyond the initial stage.
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings/contraindications) — currently a Blocking data gap
-- Confirmed original MOA and indication data from DrugBank or TFDA — currently a High-severity data gap
-- Any preclinical or mechanistic studies specifically linking mineralocorticoid receptor antagonism to Group 5 PH pathophysiology
-- Re-query clinical trial and literature databases targeting eplerenone + pulmonary hypertension directly (current searches returned 0 results for this specific candidate)
+- The FDA package insert, including warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data and original indications, for example from DrugBank
+- A targeted search for eplerenone or mineralocorticoid receptor antagonist studies in pulmonary hypertension
+- A safety evaluation in the target population, including hyperkalemia and renal function
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

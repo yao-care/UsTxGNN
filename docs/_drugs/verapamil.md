@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Verapamil: From Unspecified Original Indication to Obsolete Bundle Branch Block
+# Verapamil: From Hypertension to Obsolete Bundle Branch Block
 
 ## One-Sentence Summary
 
-> No original indication data is on file for this drug in the current regulatory dataset (0 licenses recorded).
-> The TxGNN model's top-ranked prediction is **Obsolete Bundle Branch Block**, with a **99.62%** prediction score,
-> but **no clinical trials and no literature** currently support this direction — and the mechanistic rationale provided actually argues *against* it.
+Verapamil is an L-type calcium channel blocker marketed in the US as injection and oral tablets and capsules, and it is already used as an antihypertensive.
+The TxGNN model predicts it may be effective for **obsolete bundle branch block**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting it.
+The disease term is flagged as obsolete, so the high score may be an ontology artifact. There is also a mechanistic safety concern.
 
 ---
 
@@ -43,23 +43,23 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no license records on file |
-| Predicted New Indication | Obsolete Bundle Branch Block |
+| Original Indication | Not stated in the US license records (the approved indication text is blank). Hypertension is taken from the Evidence Pack's rationale notes. |
+| Predicted New Indication | Obsolete bundle branch block |
 | TxGNN Prediction Score | 99.62% |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
-| Recommended Decision | **Hold** |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 licenses (the five examples in the data are all ANDAs) |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the structured record (flagged as a High-severity data gap, DG002). The evidence pack's own repurposing rationale, however, identifies verapamil as an **L-type calcium channel blocker with negative dromotropic (conduction-slowing) activity**.
+Currently, detailed mechanism of action data is not available in the input. Verapamil is an L-type calcium channel blocker, and its efficacy in cardiovascular conditions such as hypertension is established. Its known pharmacology is to lower vascular resistance and slow conduction through the atrioventricular (AV) node.
 
-This is precisely why the top-ranked prediction is **not** mechanistically reasonable: in patients with existing bundle branch block or AV conduction disease, verapamil's conduction-slowing effect is a recognized **risk factor requiring caution or contraindication**, not a therapeutic target. The evidence pack explicitly notes the TxGNN score likely reflects node co-occurrence in the knowledge graph rather than a genuine treatment relationship, and no clinical trial or literature evidence was found to support this indication.
+That pharmacology argues against the prediction rather than for it. A bundle branch block is a conduction disorder. Slowing AV nodal conduction is not an obvious treatment for it, and verapamil's labeling lists high-grade AV block as a contraindication or caution. The disease term itself is marked obsolete, so the 99.62% score may reflect how the ontology is structured rather than a real drug-disease relationship.
 
-Given this, the top prediction should be treated as a **negative/implausible signal** rather than a repurposing opportunity.
+The prediction has no trials or literature behind it. Mechanistic plausibility is weak, and there is a possible safety conflict.
 
 ---
 
@@ -77,29 +77,23 @@ Currently no related literature available.
 
 ## US Market Information
 
-No license records are available for this drug (0 NDAs on file; market status: Not Marketed). Regulatory/label data has not yet been collected — see Safety Considerations below.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA213232 | Verapamil Hydrochloride | Injection, solution | Caplin Steriles Limited |
+| ANDA206173 | Verapamil Hydrochloride | Tablet | Nivagen Pharmaceuticals, Inc. |
+| ANDA206173 | Verapamil Hydrochloride | Tablet | REMEDYREPACK INC. |
+| ANDA211370 | Verapamil Hydrochloride | Injection | Armas Pharmaceuticals Inc. |
+
+Other dosage forms on the US market include extended-release tablets, extended-release capsules, delayed-release capsules, and film-coated tablets.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Key warnings, contraindications, and drug-interaction data have not yet been collected for this drug (flagged as a **Blocking** data gap — DG001: TFDA label warnings/contraindications — which must be resolved before any safety pre-screening, S1, can proceed).
+- **Conduction concern**: The Evidence Pack's analysis notes that verapamil labeling lists high-grade AV block as a contraindication or caution. This is directly relevant to a conduction-disorder indication.
+- **Drug interactions**: No interaction records were found in the query.
 
----
-
-## Other TxGNN Candidates for This Drug
-
-The evidence pack contains 7 ranked candidates for this drug, all at Evidence Level L5. Most show either no supporting evidence or a mechanistic direction that conflicts with known CCB pharmacology; one stands out as a plausible (if untested) hypothesis:
-
-| Rank | Predicted Indication | Score | Recommendation | Note |
-|------|----------------------|-------|-----------------|------|
-| 1 | Obsolete Bundle Branch Block | 99.62% | Hold | Mechanistically contradictory (see above) |
-| 2 | Malignant Hypertensive Renal Disease | 99.27% | Hold | No trial/literature evidence; wrong care setting (IV titration typically needed) |
-| 3 | Malignant Renovascular Hypertension | 99.27% | Hold | Cited literature not specific to verapamil treatment of this condition |
-| 4 | Pulmonary HTN, unclear/multifactorial mechanism (Group 5) | 99.26% | Hold | CCBs not indicated per guidelines for this PH group |
-| 5 | Pulmonary HTN due to lung disease/hypoxia (Group 3) | 99.26% | Hold | CCBs may worsen V/Q mismatch and systemic hypotension; literature is unrelated (hypoxia biology, not verapamil) |
-| 6 | Braddock Syndrome | 99.15% | Hold | No known pathological link; pure KG co-occurrence signal |
-| 7 | Periodic Paralysis w/ transient compartment-like syndrome | 99.08% | **Research Question** | Some biological plausibility via skeletal muscle calcium channel (CACNA1S) involvement; no clinical evidence yet — hypothesis-generation only |
+Please refer to the package insert for the full set of warnings and contraindications.
 
 ---
 
@@ -108,13 +102,17 @@ The evidence pack contains 7 ranked candidates for this drug, all at Evidence Le
 **Decision: Hold**
 
 **Rationale:**
-All candidates are L5 (model prediction only), with no clinical trials and essentially no directly relevant literature. The top-ranked candidate is mechanistically contradicted by verapamil's known negative dromotropic effect, and a Blocking-severity data gap (missing TFDA label/warnings) prevents even an initial safety screen.
+The prediction rests on a model score alone, with no trials or literature. The target disease term is obsolete, and verapamil's AV-nodal-slowing effect conflicts with a conduction-disorder indication.
 
 **To proceed, the following is needed:**
-- TFDA label data (warnings, contraindications) — Blocking gap (DG001), required before any S1 safety screening
-- Verapamil MOA confirmation via DrugBank — High-severity gap (DG002)
-- If pursuing further, redirect research focus toward Rank 7 (periodic paralysis) as a hypothesis-generation candidate rather than the top-scored but mechanistically contradictory Rank 1 candidate
-- Independent literature search specific to verapamil (current literature hits for Ranks 3 and 5 are not drug-specific and should not be counted as supporting evidence)
+- Package insert warnings and contraindications (blocking for safety screening)
+- Mechanism of action data from DrugBank
+- A check of what the obsolete disease term maps to in current ontologies, to see whether the score is an artifact
+- A documented pathophysiologic rationale and any case-level evidence
+
+**Other predictions in the same pack:** Predictions for malignant hypertensive renal disease and malignant renovascular hypertension are more mechanistically plausible. Both are extensions of verapamil's existing antihypertensive effect, and both are rated "Research Question". Both still lack direct clinical evidence.
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

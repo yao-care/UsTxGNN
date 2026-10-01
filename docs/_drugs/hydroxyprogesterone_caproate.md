@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Hydroxyprogesterone Caproate
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 780
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Hydroxyprogesterone Caproate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Hydroxyprogesterone Caproate: From Progestin Hormone Therapy to Endometriosis
+# Hydroxyprogesterone Caproate: From an Injectable Progestin to Endometriosis of Uterus
 
 ## One-Sentence Summary
 
-Hydroxyprogesterone caproate (17-OHPC, DrugBank DB06789) is a synthetic progestin; its formally documented original indication is not available in this evidence pack (no Taiwan/TFDA license on file), though the source literature references its historical use in pregnancy maintenance and hormonal cancer therapy. The TxGNN model predicts it may be effective for **endometriosis of uterus**, with **0 clinical trials** and only **2 publications** currently supporting this specific direction — both tangential rather than direct efficacy evidence.
-
----
+Hydroxyprogesterone caproate is a marketed injectable progestin (hormone) product in the United States.
+The TxGNN model predicts it may be effective for **endometriosis of uterus**,
+but there are **0 clinical trials** and only **2 loosely related publications**, so the evidence is weak.
 
 ## Quick Overview
 
@@ -43,64 +43,50 @@ Hydroxyprogesterone caproate (17-OHPC, DrugBank DB06789) is a synthetic progesti
 |------|------|
 | Predicted New Indication | Endometriosis of uterus |
 | TxGNN Prediction Score | 99.98% |
-| Evidence Level | L4 (mechanism-only; no controlled clinical evidence) |
-| US Market Status | Not marketed |
-| Number of NDAs | 0 |
-| Recommended Decision | Hold (Research Question stage) |
-
-*Original Indication is omitted from this table — no approved-indication text is available (drug not marketed in Taiwan; no TFDA license on file).*
-
----
+| Evidence Level | L4 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 (ANDA211142) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available for this specific DrugBank entry (flagged as a High-severity data gap: DG002). Based on the drug's known pharmacological class, hydroxyprogesterone caproate is a synthetic progestin (17α-hydroxyprogesterone 17-hexanoate), acting as a progesterone receptor agonist — this class identity is echoed throughout the evidence pack's own rationale text for multiple candidate indications (e.g., "黃體素類藥物", "17-OHPC 為合成黃體素").
+Currently, detailed mechanism of action data is not available. Based on known information, hydroxyprogesterone caproate is a progestin, and the pack's own rationale notes that progestins are used clinically to suppress endometriosis. Mechanistically, it may be applicable to endometriosis of the uterus.
 
-Progestins are an established class-level therapy for endometriosis: by activating the progesterone receptor, they suppress estrogen-dependent proliferation of ectopic endometrial tissue. This makes the mechanistic link for "endometriosis of uterus" biologically plausible as a class effect, not a drug-specific discovery.
-
-However, the two supporting papers do not directly evidence this use: one is a 2023 case report of spontaneous hemoperitoneum in pregnancy in a patient with endometriosis/adenomyosis (context is 17-OHPC's use in pregnancy maintenance, not treatment of endometriosis), and the other is a 1985 Russian pathology study on uterine structural changes after sex-hormone treatment, with no efficacy data. Neither constitutes direct evidence that this drug treats endometriosis.
-
----
+The plausibility rests on this class-level link only. Neither of the two retrieved papers tests hydroxyprogesterone caproate in endometriosis. One is a case report of spontaneous hemoperitoneum in pregnancy, in which endometriosis was a risk factor. The other is a 1985 histology study of uterine changes after sex hormone treatment. The very high model score is therefore not backed by clinical data.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [37488914](https://pubmed.ncbi.nlm.nih.gov/37488914/) | 2023 | Case Report | The American Journal of Case Reports | 41-year-old woman with adenomyosis/endometriosis developed spontaneous hemoperitoneum at 28 weeks' gestation; discusses endometriosis as a risk factor for this pregnancy complication, not drug efficacy against endometriosis. |
-| [3158227](https://pubmed.ncbi.nlm.nih.gov/3158227/) | 1985 | Observational/Pathology study | Akusherstvo i ginekologiia | Russian-language study of structural (pathological) changes in the diseased uterus following sex-hormone treatment; abstract not available, no efficacy outcome reported. |
-
----
+| [37488914](https://pubmed.ncbi.nlm.nih.gov/37488914/) | 2023 | Case report | The American Journal of Case Reports | A 41-year-old woman with adenomyosis developed hemoperitoneum due to endometriosis at 28 weeks of pregnancy. It shows endometriosis as a risk factor for spontaneous hemoperitoneum in pregnancy and does not test this drug. |
+| [3158227](https://pubmed.ncbi.nlm.nih.gov/3158227/) | 1985 | Histopathology study | Akusherstvo i Ginekologiia | Structural characteristics of the pathologically changed uterus after sex hormone treatment. No abstract is available, and the link to this drug is indirect. |
 
 ## US Market Information
 
-This drug is not marketed in Taiwan (0 licenses on file), so no authorization table is available.
-
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA211142 | Hydroxyprogesterone Caproate | Injection | AuroMedics Pharma LLC |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic rationale (progestin class effect on ectopic endometrial tissue) is plausible, but the two available publications are tangential — neither is a controlled or observational study evaluating this drug for endometriosis. With zero clinical trials and no TFDA safety data on file (Blocking gap DG001), the evidence does not yet support proceeding.
+No clinical trial exists for this indication, and the two publications are only indirectly relevant (a pregnancy case report and a 1985 histology study). The prediction rests on the general progestin–endometriosis association, so it is not yet actionable.
 
 **To proceed, the following is needed:**
-- TFDA label / package insert (warnings, contraindications) — currently blocking any safety review (DG001)
-- Confirmed mechanism-of-action documentation for this DrugBank entry (DG002)
-- Direct efficacy studies (clinical or preclinical) evaluating hydroxyprogesterone caproate specifically for endometriosis
-- Note: within the same evidence pack, **endometrial cancer** and **uterine corpus cancer** (ranks 8 and 6) carry substantially stronger evidence — L3, "Proceed with Guardrails," each with 8–20 literature citations including Cochrane systematic reviews — and may warrant separate, prioritized evaluation as repurposing candidates for this drug.
+- FDA package insert warnings and contraindications. This is a blocking gap for safety screening.
+- Mechanism of action data (MOA), for example from DrugBank.
+- Direct clinical evidence of hydroxyprogesterone caproate in endometriosis, such as trials or controlled studies.
+- Review of the other predictions in this pack. Endometrial cancer (rank 8) and uterine corpus cancer (rank 6) have much more literature, at L3 and rated "Research Question", including a 2000 Cochrane review of progestagens. They should be merged and assessed separately, since they are essentially the same disease.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

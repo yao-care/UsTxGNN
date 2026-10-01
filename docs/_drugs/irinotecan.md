@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Irinotecan
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 810
-evidence_level: L5
+evidence_level: L2
 indication_count: 1
 ---
 
 # Irinotecan
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **1** 
+Evidence Level: **L2** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,77 +29,89 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Irinotecan: From Colorectal Cancer (Established Use) to Female Breast Carcinoma
-
-> Note: This evidence pack contains no Taiwan/US regulatory license records and no `original_indications` entries for irinotecan. "Colorectal cancer" above reflects irinotecan's widely documented pharmacological use (general knowledge), not data extracted from this evidence pack.
+# Irinotecan: From Its Current US-Approved Use to Female Breast Carcinoma
 
 ## One-Sentence Summary
 
-Irinotecan is a topoisomerase I inhibitor best known as a component of colorectal cancer chemotherapy regimens (e.g., FOLFIRI). The TxGNN model predicts it may be effective for **Female Breast Carcinoma**, supported by **22 clinical trials** and **20 publications**, though the drug currently has **no marketing authorization** on file in this evidence pack.
+Irinotecan is an injectable topoisomerase I-inhibitor chemotherapy that is currently marketed in the US under 20 authorizations.
+The TxGNN model predicts it may be effective for **female breast carcinoma**. Of the **20 clinical trials** and **20 publications** retrieved, only **3 trials** test irinotecan directly in breast cancer. Most of the supporting literature concerns sacituzumab govitecan, a drug that carries irinotecan's active metabolite SN-38.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in evidence pack (`taiwan_regulatory.licenses` and `original_indications` are both empty) |
-| Predicted New Indication | Female Breast Carcinoma |
+| Predicted New Indication | Female breast carcinoma |
 | TxGNN Prediction Score | 99.08% |
-| Evidence Level | L2 (1 completed Phase 2 randomized trial of irinotecan monotherapy in breast cancer) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L2 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for irinotecan in this evidence pack (`original_moa: [Data Gap]`). Based on generally established pharmacology, irinotecan is a semi-synthetic camptothecin analog that is metabolized to SN-38, its active metabolite, which inhibits topoisomerase I and causes lethal DNA double-strand breaks during replication — its efficacy in colorectal cancer and other solid tumors is well documented.
+Currently, detailed mechanism of action data is not available in the source record, and the approved indication text is also empty. Based on known pharmacology, irinotecan is a prodrug. Carboxylesterases convert it to SN-38, a topoisomerase I inhibitor that causes replication-dependent DNA double-strand breaks.
 
-Female breast carcinoma is mechanistically plausible as a repurposing target because SN-38 (irinotecan's active metabolite) is the payload of sacituzumab govitecan, an antibody-drug conjugate now approved for triple-negative and HR+/HER2- metastatic breast cancer. This validates that SN-38-mediated topoisomerase I inhibition is an active mechanism in breast cancer biology, even though the ADC delivers the payload via a Trop-2-targeting antibody rather than as free irinotecan.
+Breast tumors with high proliferation or DNA-repair deficiency, such as triple-negative or HRD-like tumors, are plausibly sensitive to this mechanism. Sacituzumab govitecan is an antibody-drug conjugate that delivers SN-38. It has Phase 3 benefit in metastatic breast cancer, which shows that SN-38 is an active payload in this disease.
 
-Directly, irinotecan itself has been tested as monotherapy and in combination (with capecitabine, gemcitabine, or targeted agents) in metastatic and triple-negative breast cancer in multiple Phase 1/2 trials, providing direct — not just mechanistic — supporting evidence for this indication.
+This is indirect evidence. It does not show that systemic irinotecan itself works in breast cancer. The 1998 and 2003 reviews describe irinotecan's breast cancer activity as limited or "marginal", and the 2020 pilot study notes it is "rarely used" in metastatic breast cancer. The TxGNN score is very high, but it is a computational prediction only.
 
 ## Clinical Trial Evidence
 
+No efficacy results were included in the source record, so the findings below describe study design only. Only the first three trials test irinotecan directly in breast cancer.
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00072852](https://clinicaltrials.gov/study/NCT00072852) | Phase 2 | Completed | 134 | Randomized trial of two irinotecan dosing schedules in metastatic breast cancer after anthracycline/taxane/capecitabine failure |
-| [NCT03562390](https://clinicaltrials.gov/study/NCT03562390) | Phase 2 | Unknown | 124 | Single-arm trial of third-line-or-later irinotecan in locally recurrent/metastatic breast cancer (Chinese patients) |
-| [NCT00083148](https://clinicaltrials.gov/study/NCT00083148) | Phase 1 | Completed | 12 | Irinotecan followed by capecitabine in advanced breast carcinoma; dose-finding |
-| [NCT00031681](https://clinicaltrials.gov/study/NCT00031681) | Phase 1 | Completed | 41 | Irinotecan + UCN-01 (7-hydroxystaurosporine) in triple-negative recurrent breast cancer |
-| [NCT05453825](https://clinicaltrials.gov/study/NCT05453825) | Phase 2 | Unknown | 180 | Navicixizumab monotherapy or with paclitaxel/irinotecan, including a TNBC cohort |
-| [NCT01631552](https://clinicaltrials.gov/study/NCT01631552) | Phase 1/2 | Completed | 515 | IMMU-132 (SN-38 antibody-drug conjugate) safety/efficacy in epithelial cancers |
-| [NCT04640480](https://clinicaltrials.gov/study/NCT04640480) | Phase 1 | Completed | 21 | SNB-101, a nano-particle formulation of SN-38, in advanced solid tumors |
-| [NCT01770353](https://clinicaltrials.gov/study/NCT01770353) | Phase 1 | Completed | 45 | Nanoliposomal irinotecan (MM-398/nal-IRI); tumor drug level and imaging feasibility study |
-| [NCT00004095](https://clinicaltrials.gov/study/NCT00004095) | Phase 1 | Completed | 38 | Irinotecan (CPT-11) + gemcitabine in solid tumors |
-| [NCT02033551](https://clinicaltrials.gov/study/NCT02033551) | Phase 1 | Completed | 47 | Veliparib alone or with carboplatin/paclitaxel or FOLFIRI (irinotecan-containing) in solid tumors |
+| [NCT00072852](https://clinicaltrials.gov/study/NCT00072852) | Phase 2 | Completed | 134 | Single-agent oral irinotecan on two schedules (5-day vs 14-day, 3-week cycles) in metastatic breast cancer after anthracycline, taxane and capecitabine failure. Direct evidence. |
+| [NCT03562390](https://clinicaltrials.gov/study/NCT03562390) | Phase 2 | Unknown | 124 | Single-arm, third-line or later irinotecan in Chinese patients with recurrent or metastatic breast cancer previously treated with anthracyclines and taxanes. |
+| [NCT00083148](https://clinicaltrials.gov/study/NCT00083148) | Phase 1 | Completed | 12 | Irinotecan followed by capecitabine in advanced breast carcinoma. Dose and safety study. |
+| [NCT00031681](https://clinicaltrials.gov/study/NCT00031681) | Phase 1 | Completed | 41 | UCN-01 plus irinotecan in resistant solid tumors, with a triple-negative breast cancer part. |
+| [NCT05453825](https://clinicaltrials.gov/study/NCT05453825) | Phase 2 | Unknown | 180 | Basket study of navicixizumab alone or with paclitaxel or irinotecan, including a triple-negative breast cancer cohort. |
+| [NCT01770353](https://clinicaltrials.gov/study/NCT01770353) | Phase 1 | Completed | 45 | Nanoliposomal irinotecan (MM-398): tumor drug levels and ferumoxytol MRI in solid tumors. Different formulation. |
+| [NCT01631552](https://clinicaltrials.gov/study/NCT01631552) | Phase 1/2 | Completed | 515 | Sacituzumab govitecan (SN-38 antibody-drug conjugate) in epithelial cancers including breast. Indirect evidence. |
+| [NCT00004095](https://clinicaltrials.gov/study/NCT00004095) | Phase 1 | Completed | 38 | Irinotecan plus gemcitabine in unresectable or metastatic solid tumors. |
+| [NCT02033551](https://clinicaltrials.gov/study/NCT02033551) | Phase 1 | Completed | 47 | Veliparib extension study, alone or with chemotherapy including FOLFIRI, in solid tumors. |
+| [NCT04640480](https://clinicaltrials.gov/study/NCT04640480) | Phase 1 | Completed | 21 | SNB-101 (nano-particle SN-38) dose-finding in advanced solid tumors. Link to breast cancer is unclear. |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [30786188](https://pubmed.ncbi.nlm.nih.gov/30786188/) | 2019 | RCT | N Engl J Med | ASCENT trial: sacituzumab govitecan-hziy (SN-38 conjugate) improves outcomes in refractory metastatic triple-negative breast cancer |
-| [36027558](https://pubmed.ncbi.nlm.nih.gov/36027558/) | 2022 | RCT | J Clin Oncol | Sacituzumab govitecan in HR+/HER2- metastatic breast cancer |
-| [28291390](https://pubmed.ncbi.nlm.nih.gov/28291390/) | 2017 | Clinical trial | J Clin Oncol | Sacituzumab govitecan efficacy/safety in heavily pretreated metastatic TNBC |
-| [32727805](https://pubmed.ncbi.nlm.nih.gov/32727805/) | 2020 | Pilot study | Anticancer Res | Irinotecan + S-1 (IRIS) pilot study for advanced/metastatic breast cancer |
-| [9726101](https://pubmed.ncbi.nlm.nih.gov/9726101/) | 1998 | Review | Oncology (Williston Park) | Irinotecan activity across tumor types, including breast cancer |
-| [12800602](https://pubmed.ncbi.nlm.nih.gov/12800602/) | 2003 | Review | Oncology (Williston Park) | Rationale for mitomycin + irinotecan combination in advanced breast cancer |
-| [36302269](https://pubmed.ncbi.nlm.nih.gov/36302269/) | 2022 | Review | Breast (Edinburgh) | Clinical development of TROP-2-targeting antibody-drug conjugates in metastatic breast cancer |
-| [35882754](https://pubmed.ncbi.nlm.nih.gov/35882754/) | 2022 | Preclinical | Breast Cancer (Tokyo) | Trop-2 expression alteration in breast cancer cells by therapeutic agents and tamoxifen resistance |
-| [39768216](https://pubmed.ncbi.nlm.nih.gov/39768216/) | 2024 | Review | Cells | Sacituzumab govitecan in refractory triple-negative breast cancer precision medicine |
-| [25944802](https://pubmed.ncbi.nlm.nih.gov/25944802/) | 2015 | Clinical trial | Clin Cancer Res | First-in-human trial of anti-Trop-2/SN-38 conjugate sacituzumab govitecan in diverse metastatic solid tumors |
+| [36027558](https://pubmed.ncbi.nlm.nih.gov/36027558/) | 2022 | RCT (Phase 3) | J Clin Oncol | Sacituzumab govitecan (SN-38 payload) in HR+/HER2- metastatic breast cancer. Indirect evidence. |
+| [30786188](https://pubmed.ncbi.nlm.nih.gov/30786188/) | 2019 | Phase 1/2 single-arm | N Engl J Med | Sacituzumab govitecan in refractory metastatic triple-negative breast cancer. |
+| [28291390](https://pubmed.ncbi.nlm.nih.gov/28291390/) | 2017 | Single-arm trial | J Clin Oncol | Sacituzumab govitecan in heavily pretreated metastatic triple-negative breast cancer. |
+| [32727805](https://pubmed.ncbi.nlm.nih.gov/32727805/) | 2020 | Pilot study | Anticancer Res | Irinotecan plus S-1 (IRIS) in advanced and metastatic breast cancer. The paper notes irinotecan is rarely used in this setting. |
+| [12800602](https://pubmed.ncbi.nlm.nih.gov/12800602/) | 2003 | Review | Oncology (Williston Park) | Rationale for mitomycin plus irinotecan. Each has marginal single-agent activity, and preclinical data suggest synergy. |
+| [9726101](https://pubmed.ncbi.nlm.nih.gov/9726101/) | 1998 | Review | Oncology (Williston Park) | Irinotecan's broad antitumor activity across tumor types, including breast cancer. |
+| [36302269](https://pubmed.ncbi.nlm.nih.gov/36302269/) | 2022 | Review | Breast | Clinical development of TROP-2 antibody-drug conjugates in metastatic breast cancer. |
+| [39768216](https://pubmed.ncbi.nlm.nih.gov/39768216/) | 2024 | Review | Cells | Sacituzumab govitecan in refractory triple-negative breast cancer. |
+| [32223649](https://pubmed.ncbi.nlm.nih.gov/32223649/) | 2020 | Trial design paper | Future Oncol | Design of TROPiCS-02, a Phase 3 trial of sacituzumab govitecan in HR+/HER2- metastatic breast cancer. |
+| [10472342](https://pubmed.ncbi.nlm.nih.gov/10472342/) | 1999 | Preclinical | Anticancer Res | In nude-mouse xenografts, irinotecan and doxorubicin halted or caused significant regression of the breast cancer lines tested (MCF7, MDA-MB-231, T47D). |
 
 ## US Market Information
 
-Currently no marketing authorization records are available — `taiwan_regulatory.market_status` is "Not marketed" (Not Marketed) with 0 total licenses on file in this evidence pack.
+The source record lists no approved indication text for these authorizations. Five of the 20 are shown.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA020571 | Camptosar | Injection, solution | Pharmacia & Upjohn Company LLC |
+| ANDA208718 | Irinotecan Hydrochloride | Injection | Armas Pharmaceuticals Inc. |
+| ANDA203380 | Irinotecan Hydrochloride | Injection, solution | Apotex Corp. |
+| ANDA203380 | Irinotecan Hydrochloride | Injection, solution | Qilu Pharmaceutical Co., Ltd. |
+| ANDA091032 | Irinotecan Hydrochloride | Injection | Hikma Pharmaceuticals USA Inc. |
+
+All products are injectables (injection, injection solution, and powder for solution).
 
 ## Cytotoxicity
 
+The Evidence Pack contains no toxicity data. The entries below reflect general class knowledge and must be confirmed against the current package insert.
+
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (Topoisomerase I inhibitor, camptothecin class) — based on general pharmacological classification, since DrugBank MOA/category data is not available in this evidence pack |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Please refer to the package insert warnings and precautions |
+| Cytotoxicity Classification | Conventional cytotoxic (topoisomerase I inhibitor) |
+| Myelosuppression Risk | High (severe myelosuppression is a recognized class concern) |
+| Emetogenicity Classification | Moderate |
+| Monitoring Items | CBC with differential, liver and renal function, electrolytes, and hydration status |
+| Handling Protection | Must follow cytotoxic drug handling regulations |
 
 ## Safety Considerations
 
@@ -110,14 +122,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-A completed randomized Phase 2 trial and a supportive literature base (including two completed Phase 3 RCTs for the mechanistically related SN-38 antibody-drug conjugate class) suggest a plausible signal for irinotecan in breast cancer. However, the drug has no Taiwan/US marketing authorization on file, and the missing TFDA label/warnings data is flagged as a **Blocking** gap that prevents any S1 safety assessment.
+One completed Phase 2 trial (NCT00072852) and one unresolved Phase 2 (NCT03562390) directly test irinotecan in metastatic breast cancer, which supports evidence level L2. However, no efficacy results are in the record, the literature describes single-agent activity as marginal, and most supporting publications concern sacituzumab govitecan rather than irinotecan itself. Package insert safety information is also missing. The candidate stays at the research-question stage.
 
 **To proceed, the following is needed:**
-- TFDA (or equivalent) product label with warnings, precautions, and contraindications (Blocking gap DG001)
-- Confirmed DrugBank mechanism of action data (High-priority gap DG002)
-- Drug-drug interaction (DDI) data — current query returned no results
-- Route compatibility assessment between original and predicted-indication use
-- Formal relevance grading of the listed clinical trials and literature (currently marked "pending")
+- Package insert warnings and contraindications, which block safety screening
+- Mechanism of action data from DrugBank
+- Published results and response rates from NCT00072852 and NCT03562390, including whether the schedules were randomized
+- Breast cancer subtype analysis (triple-negative, HR+/HER2-, HRD-like) to define a target population
+- A comparison against current standard options, including sacituzumab govitecan
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

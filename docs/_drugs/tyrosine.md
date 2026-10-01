@@ -29,33 +29,30 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tyrosine: From No Approved Indication to Cauda Equina Syndrome
+# Tyrosine: From No Documented Indication to Cauda Equina Syndrome
 
 ## One-Sentence Summary
 
-> Tyrosine is a naturally occurring amino acid and precursor to catecholamines and thyroid hormones; it currently holds no approved drug indication and is not marketed in the US.
-> The TxGNN model's top prediction suggests possible relevance to **Cauda Equina Syndrome**,
-> but this is supported by **0 clinical trials** and only **1 unrelated case report**, with the underlying analysis explicitly flagging no plausible mechanism.
+Tyrosine is an amino acid supplement. The U.S. records list two liquid L-Tyrosine products, but neither has an approved indication on file.
+The TxGNN model predicts it may be effective for **cauda equina syndrome**, but **0 clinical trials** and only **1 publication** (an unrelated tumor case report) exist for this prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not established — no approved indication on record |
-| Predicted New Indication | Cauda Equina Syndrome |
+| Original Indication | Not available (no approved indication text on record) |
+| Predicted New Indication | Cauda equina syndrome |
 | TxGNN Prediction Score | 99.77% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for tyrosine as a therapeutic agent is not available. Based on known pharmacology, tyrosine is a non-essential amino acid that serves as the metabolic precursor for catecholamines (dopamine, norepinephrine, epinephrine) and thyroid hormones (T3/T4). It has no approved drug indication and no NDAs on record in the US market.
+Currently, detailed mechanism of action data is not available. Tyrosine is known as a biochemical precursor of catecholamines (dopamine, norepinephrine) and melanin. No original indication is on record, so the usual comparison between the original and the new indication cannot be made.
 
-For the top-ranked prediction (cauda equina syndrome), the knowledge-graph model assigns a high raw confidence score (99.77%), but the accompanying rationale explicitly finds **no plausible mechanistic link**: cauda equina syndrome is a mechanical/compressive neurological emergency involving nerve root injury, and tyrosine's known amino-acid/catecholamine-precursor pathways have no established relevance to that pathophysiology. The single associated literature citation is an unrelated case report on clear cell sarcoma of a spinal nerve root, which does not discuss tyrosine as a treatment. This pattern is consistent with a knowledge-graph embedding false positive rather than a genuine biological signal.
-
-It is also worth noting that across all 10 candidate indications in this evidence pack, the same pattern repeats: several candidates (e.g., hyperthyroidism, hyperthyroxinemia) show a mechanistically *contradictory* direction (tyrosine is a hormone precursor, not an antagonist), and multiple clinical trials/literature hits were driven by keyword confusion with unrelated "tyrosine kinase inhibitor" drugs rather than the amino acid itself. This suggests systematic noise in the underlying evidence retrieval for this candidate rather than a genuine repurposing signal.
+On the evidence provided, there is no credible mechanistic link between tyrosine and cauda equina syndrome. The high score (99.77%) comes from knowledge-graph similarity alone. The only retrieved paper is a case report of clear cell sarcoma arising from a sacral nerve root. Tyrosine appears in it only as melanin-pathway context, not as a treatment.
 
 ## Clinical Trial Evidence
 
@@ -65,30 +62,34 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [17341045](https://pubmed.ncbi.nlm.nih.gov/17341045/) | 2006 | Case Report | Neurosurgical Focus | Case report of clear cell sarcoma originating in the S-1 nerve root, previously misdiagnosed as psammomatous melanotic schwannoma; does not discuss tyrosine as a treatment and is not directly relevant to cauda equina syndrome management |
+| [17341045](https://pubmed.ncbi.nlm.nih.gov/17341045/) | 2006 | Case report | Neurosurgical Focus | Clear cell sarcoma originating in the S1 nerve root, previously diagnosed as psammomatous melanotic schwannoma. Tyrosine was not tested as therapy, so the paper does not support the prediction. |
 
 ## US Market Information
 
-Tyrosine is not currently marketed in the US and has no NDAs on record.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Not listed | L-Tyrosine | Liquid | Not listed |
+| Not listed | L-Tyrosine High | Liquid | Not listed |
+
+Both products are made by Professional Complementary Health Formulas.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-*(Note: Key warnings, contraindications, and drug interaction data are currently unavailable in this evidence pack. A blocking data gap has been flagged for FDA/TFDA label warnings and contraindications, meaning safety review cannot proceed until this is resolved.)*
+Please refer to the package insert for safety information. No drug interaction records were found.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Despite a high raw TxGNN score, this candidate has no clinical trial support, only one irrelevant literature citation, and an explicit mechanistic assessment finding no plausible biological rationale — most consistent with a model false positive rather than a genuine repurposing opportunity.
+The prediction is model-only (L5). No trials exist, and the single paper is an unrelated tumor case report with no mechanistic link to tyrosine. The product records have no approved indication, and the package insert safety data is missing. The remaining top-ranked predictions are also on Hold, with no tyrosine-specific trial evidence.
 
 **To proceed, the following is needed:**
-- Confirmed mechanism of action (MOA) data for tyrosine as a therapeutic agent
-- FDA/TFDA label data (warnings, contraindications) — currently blocking (DG001)
-- Independent mechanistic or preclinical validation specific to cauda equina syndrome pathophysiology
-- Re-screening of the remaining 9 ranked candidates for the same drug, as several show contradictory mechanistic direction or keyword-confusion artifacts (tyrosine vs. tyrosine kinase inhibitors) that should be resolved before any candidate in this set advances past S0
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data, for example from DrugBank
+- Authorization numbers and approved indication text for the two marketed products
+- Any preclinical or clinical study that tests tyrosine in cauda equina syndrome or related nerve-root conditions
+- Before any thyroid-related candidate is pursued, a review of whether supplying a thyroid hormone precursor could worsen the condition
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

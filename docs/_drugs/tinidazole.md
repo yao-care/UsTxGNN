@@ -29,79 +29,70 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tinidazole: From Antiprotozoal/Antimicrobial Infection to Postmenopausal Atrophic Vaginitis
+# Tinidazole: From Anti-Infective Therapy to Postmenopausal Atrophic Vaginitis
 
 ## One-Sentence Summary
 
-> Tinidazole is a 5-nitroimidazole antimicrobial agent, pharmacologically known for treating anaerobic bacterial and protozoal infections (e.g., trichomoniasis, giardiasis, amebiasis), though no TFDA-approved indication record exists in this evidence pack.
-> The TxGNN model predicts it may be effective for **Postmenopausal Atrophic Vaginitis**, with a very high similarity score, but **currently no clinical trials or published literature support this specific prediction**.
-> The evidence level is the lowest tier (L5 — model prediction only), and the drug's own repurposing rationale flags this as a likely knowledge-graph co-occurrence artifact rather than a genuine pharmacological relationship.
-
----
+Tinidazole is a 5-nitroimidazole anti-infective active against anaerobic bacteria and protozoa such as Trichomonas, Giardia and Entamoeba.
+The TxGNN model predicts it may be effective for **postmenopausal atrophic vaginitis**,
+but **0 clinical trials** and **0 publications** currently support this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in TFDA licensing records (drug is not marketed in Taiwan). Based on general pharmacological classification, tinidazole is a 5-nitroimidazole used for anaerobic bacterial/protozoal infections (trichomoniasis, giardiasis, amebiasis) |
-| Predicted New Indication | Postmenopausal Atrophic Vaginitis |
+| Predicted New Indication | Postmenopausal atrophic vaginitis |
 | TxGNN Prediction Score | 99.93% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed (Not marketed) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 11 (generic ANDA approvals) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action (MOA) data for tinidazole is not available (data gap). Based on general pharmacological knowledge, tinidazole is a 5-nitroimidazole prodrug that, once activated by the ferredoxin-reduction system in anaerobic bacteria and protozoa, generates cytotoxic free radicals that damage microbial DNA. It is active against *Trichomonas vaginalis*, *Giardia*, and *Entamoeba histolytica*.
+Currently, detailed mechanism of action data is not available. Based on known information, tinidazole is a 5-nitroimidazole antimicrobial. Its activity against anaerobes, protozoa and bacterial vaginosis pathogens is well established. Mechanistically, though, the link to the new indication is weak.
 
-Postmenopausal atrophic vaginitis, however, is primarily caused by **estrogen deficiency after menopause**, leading to vaginal mucosal thinning and reduced lubrication — a non-infectious, hormone-driven pathology. Tinidazole has no known estrogenic, mucosal-repair, or hormonal activity, and its antimicrobial mechanism does not directly address this underlying cause.
+Atrophic vaginitis after menopause is driven mainly by estrogen deficiency, not by infection. An anti-infective has no clear disease-modifying role in it. The very high graph score most likely reflects the many vaginal-infection diseases neighbouring tinidazole in the knowledge graph, not a real therapeutic relationship.
 
-**Assessment provided in the evidence pack itself explicitly flags this as a low-confidence prediction**: the high TxGNN score likely reflects knowledge-graph node co-occurrence (e.g., "vaginal disease" nodes linked to "antibiotic treatment for vaginal infection" edges) rather than a true pharmacological relationship. No clinical trials or literature currently exist to support tinidazole's use in postmenopausal atrophic vaginitis. This prediction should be treated as a hypothesis-generating signal only, not a basis for further clinical development at this time.
-
----
+The other top-ranked predictions (vulvar ulceration, vulvar neoplasm, benign breast conditions) show the same pattern of genital-tract or breast graph proximity without supporting evidence. The one exception is AIDS (rank 5), which has indirect evidence: tinidazole treats co-infections common in people with HIV, and one trial explores microbiome modulation for HIV susceptibility. This evidence does not show that tinidazole treats AIDS itself.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-No approved drug licenses are currently recorded for tinidazole in this jurisdiction (`taiwan_regulatory.total_licenses = 0`, market status: Not marketed / Not Marketed). No product-level marketing data is available for review.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA202044 | Tinidazole | Film-coated tablet | Chartwell RX, LLC |
+| ANDA202489 | Tindazole | Film-coated tablet | Rising Pharma Holdings, Inc. |
+| ANDA203808 | Tinidazole | Tablet | Edenbridge Pharmaceuticals LLC. |
 
----
+All listed products are oral tablets.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-*(All safety fields — key warnings, contraindications, and drug-drug interactions — are currently data gaps in this evidence pack. Notably, DG001 flags TFDA package insert warnings/contraindications as a **Blocking** data gap that must be resolved before any safety pre-screening (S1) can proceed.)*
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-- The TxGNN score for postmenopausal atrophic vaginitis is high (99.93%), but this is unsupported by any clinical trial or literature evidence (L5), and the evidence pack's own mechanistic analysis suggests the prediction is likely a knowledge-graph artifact rather than a real pharmacological signal. There is no biologically coherent link between tinidazole's antimicrobial mechanism and estrogen-deficiency-driven mucosal atrophy.
+The prediction has no clinical trial or literature support (Evidence Level L5). The mechanistic link is weak, because atrophic vaginitis is estrogen-deficiency driven and not infectious. The high score likely reflects knowledge-graph proximity to vaginal infections.
 
 **To proceed, the following is needed:**
-- TFDA package insert data (warnings/contraindications) — currently a **Blocking** data gap (DG001) that prevents even preliminary safety screening
-- Confirmed mechanism of action (MOA) data (DG002)
-- If this indication is to be pursued further, dedicated mechanistic or preclinical studies specifically linking tinidazole to vaginal mucosal/estrogen pathways would be required, as none currently exist
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Any preclinical or clinical evidence for tinidazole in atrophic vaginitis, and a comparison with established estrogen-based treatments
+- Route compatibility assessment, since no route information has been evaluated for this indication
+- Consider re-prioritizing to the AIDS-related prediction (Evidence Level L4), which has indirect co-infection and microbiome evidence
 
-**Note on alternative candidates:** Among the 10 TxGNN-predicted indications in this evidence pack, **rank 5 (AIDS)** stands out with meaningfully stronger evidence — L3 evidence level, 1 supporting clinical trial (NCT03412071, microbiome-focused HIV susceptibility intervention), and 16 literature references, mostly relating to tinidazole's established role in treating anaerobic/protozoal co-infections (e.g., trichomoniasis, amebiasis) in HIV/AIDS populations. This indication may represent a more promising "Research Question"-stage candidate than the top-ranked prediction and could warrant a separate, dedicated evaluation report.
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

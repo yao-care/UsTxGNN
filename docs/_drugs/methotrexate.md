@@ -29,84 +29,83 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Methotrexate: From Antineoplastic/Antirheumatic Therapy to Pulmonary Blastoma
+# Methotrexate: From Established Antimetabolite Use to Pulmonary Blastoma
 
 ## One-Sentence Summary
 
-Methotrexate (DrugBank DB00563) is a long-established antifolate agent used broadly across oncology and autoimmune disease; specific original-indication records were not available in this evidence pack. The TxGNN model's top-ranked prediction is **Pulmonary Blastoma**, but currently **0 clinical trials** and **0 publications** support this specific link — the prediction rests on the model score alone.
-
----
+Methotrexate is an antifolate (DHFR inhibitor) drug that is currently marketed in the United States in injectable and oral forms.
+The TxGNN model predicts it may be effective for **pulmonary blastoma**, but there are currently **0 clinical trials** and **0 publications** supporting this specific prediction.
+This is a model-only prediction with no supporting evidence yet.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in regulatory records (no TFDA/market license data returned); methotrexate is broadly known as an antineoplastic/antirheumatic agent |
-| Predicted New Indication | Pulmonary Blastoma |
+| Original Indication | Not specified in the supplied data (no approved indication text in the US licence records) |
+| Predicted New Indication | Pulmonary blastoma |
 | TxGNN Prediction Score | 99.45% |
-| Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 authorizations (the sample shown is ANDA generics) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap, DG002). Based on generally known pharmacology, methotrexate belongs to the antifolate (dihydrofolate reductase inhibitor) class of antimetabolite chemotherapy agents, which broadly inhibits DNA/RNA synthesis in rapidly dividing cells.
+Detailed mechanism of action data is not currently available in the record. Based on known information, methotrexate is an antifolate that inhibits dihydrofolate reductase (DHFR), which is needed for nucleotide synthesis. Its activity is greatest in rapidly proliferating cells. Mechanistically, it could be applicable to a rapidly dividing tumor such as pulmonary blastoma.
 
-Pulmonary blastoma is an extremely rare, aggressive pulmonary malignancy with mixed epithelial and mesenchymal components. In principle, an antimetabolite chemotherapy agent could have some theoretical activity against such a rapidly proliferating tumor, consistent with methotrexate's general use in other malignancies. However, this rationale is purely mechanistic extrapolation — there is no direct or indirect clinical evidence (trial or literature) connecting methotrexate specifically to pulmonary blastoma in the data available here.
-
-Notably, this is the highest-scoring candidate in the TxGNN output but also the one with the weakest evidentiary support among the 10 candidates in this evidence pack — other predicted indications for methotrexate (e.g., Hodgkin's lymphoma, ranked #5) carry substantially more clinical trial and literature backing (see Conclusion below).
-
----
+The score is very high (0.994; model rank 12,873), but a high score alone is not evidence. Pulmonary blastoma is a rare lung tumor, and nothing in the retrieved trials or literature ties methotrexate to it. The rationale is therefore purely a class-level plausibility argument.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
----
+## US Market Information
+
+The licence records contain no approved-indication text, so that column is omitted.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA040716 | Methotrexate | Injection | Accord Healthcare, Inc. |
+| ANDA040385 | Trexall | Tablet, film coated | Teva Women's Health, Inc. |
+| ANDA201749 | Methotrexate | Tablet | Bryant Ranch Prepack |
+| ANDA201529 | Methotrexate | Injection, solution | Eugia US LLC |
+
+Available routes across all 20 authorizations include injectable and oral forms. An "other" solution form and a lyophilized powder for injection are also listed.
 
 ## Cytotoxicity
 
-Methotrexate is a conventional cytotoxic agent (antimetabolite / folate antagonist class), consistent with its long-standing use in oncology.
+Classification below is based on drug class, because the Evidence Pack has no toxicity data. Please also refer to the package insert warnings and precautions.
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (Antimetabolite, folate antagonist) |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Please refer to the package insert warnings and precautions |
-
----
+| Cytotoxicity Classification | Conventional cytotoxic (antimetabolite, antifolate class) |
+| Myelosuppression Risk | High (dose-dependent) |
+| Emetogenicity Classification | Low to moderate, depending on dose and route |
+| Monitoring Items | CBC with differential, liver and renal function; methotrexate levels with high-dose regimens |
+| Handling Protection | Must follow cytotoxic (hazardous) drug handling regulations |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-*Note: TFDA label warnings/contraindications data is flagged as a Blocking data gap (DG001) — this prevents the candidate from entering the S1 safety pre-assessment stage.*
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This prediction is supported only by a TxGNN model score (L5 evidence level) with no clinical trials or literature identified for methotrexate in pulmonary blastoma, and no TFDA safety data is currently available to support even a preliminary safety assessment.
+The prediction is model-only (L5). There are no trials, no publications and no mechanistic data specific to pulmonary blastoma, and safety data (warnings, contraindications) are also missing. It is not currently supportable for further development.
 
 **To proceed, the following is needed:**
-- TFDA label/insert data (warnings, contraindications) — currently a Blocking data gap
-- Confirmed mechanism of action data via DrugBank API — currently a High-severity data gap
-- Any preclinical or case-level evidence specific to pulmonary blastoma to move beyond L5
-- Consider reprioritizing evaluation toward the higher-evidence candidates in this same evidence pack — notably Hodgkin's lymphoma (L2, decision stage S2, "Proceed with Guardrails"), which has direct historical trial evidence (e.g., VBM regimen) and substantially more supporting literature
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Any case reports, preclinical data or registry data specific to pulmonary blastoma
+- Consideration of other candidates in the same Evidence Pack that have more supporting evidence. For example, Hodgkin lymphoma (L3) and rhabdomyosarcoma (L2, including a phase II high-dose methotrexate study in children) are better supported.
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

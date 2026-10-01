@@ -29,65 +29,68 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-Based on the Evidence Pack, I'll now generate the evaluation report for Cholecalciferol. The top predicted indication (rank 1) is used as the primary focus.
-
----
-
-# Cholecalciferol: From Vitamin D Deficiency to Familial Isolated Hypoparathyroidism (Impaired PTH Secretion)
+# Cholecalciferol: From Vitamin D3 Supplementation to Familial Isolated Hypoparathyroidism
 
 ## One-Sentence Summary
 
-Cholecalciferol (Vitamin D3) is a fat-soluble prohormone widely used to correct vitamin D deficiency, nutritional rickets, and related calcium-phosphorus metabolism disorders.
-The TxGNN model predicts it may be effective for **Familial Isolated Hypoparathyroidism due to Impaired PTH Secretion** (score 99.79%), yet this specific indication currently has **0 clinical trials** and **0 publications** directly supporting this use.
-While a mechanistic link exists through the calcium-VDR pathway, the PTH-deficient state critically impairs cholecalciferol's activation to its therapeutic form, making active vitamin D analogues (calcitriol, alfacalcidol) pharmacologically preferable in standard practice.
+Cholecalciferol (vitamin D3) is marketed in the US in several products, including a combination tablet with alendronate. The record contains no approved-indication text.
+The TxGNN model predicts it may be effective for **familial isolated hypoparathyroidism due to impaired PTH secretion**,
+but there are currently **0 clinical trials** and **0 publications** supporting this specific prediction.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Vitamin D deficiency, nutritional rickets, osteomalacia |
+|------|------|
+| Original Indication | Not available (approved indication text is empty in all US license records) |
 | Predicted New Indication | Familial isolated hypoparathyroidism due to impaired PTH secretion |
 | TxGNN Prediction Score | 99.79% |
-| Evidence Level | L5 (model prediction only — no direct studies found) |
-| US Market Status | No prescription NDA records (marketed as OTC dietary supplement) |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 6 licenses (only 1 carries an NDA number: NDA021762) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available from the queried database (DrugBank API query pending). Based on established pharmacology, however, cholecalciferol (Vitamin D3) is a secosteroid prohormone synthesised in the skin upon UV-B exposure or absorbed from dietary sources. It is sequentially hydroxylated — first in the liver to 25-hydroxyvitamin D3 [25(OH)D3], then in the kidney by 1α-hydroxylase (CYP27B1) to the biologically active hormone calcitriol [1,25(OH)2D3]. Calcitriol binds the vitamin D receptor (VDR) in intestinal epithelial cells and parathyroid tissue, driving calcium absorption and suppressing PTH gene expression.
+Currently, detailed mechanism of action data is not available. Cholecalciferol is a vitamin D3 form, and its role in calcium and phosphate homeostasis is well known. It is mechanistically related to a disease defined by low PTH and hypocalcemia.
 
-In familial isolated hypoparathyroidism (FIH) due to impaired PTH secretion, the parathyroid glands cannot produce adequate PTH, leading to hypocalcemia and hyperphosphatemia. There is genuine biochemical overlap with cholecalciferol's domain: even without optimal 1α-hydroxylase activity, cholecalciferol can partially compensate by elevating 25(OH)D3 stores and enhancing calcium absorption through residual VDR signalling (including extra-renal 1α-hydroxylation in macrophages and other tissues). The TxGNN model most likely identified this link through the calcium metabolism → VDR pathway in its knowledge graph.
+Vitamin D metabolites are used clinically to manage hypocalcemia in hypoparathyroidism. This is symptomatic calcium homeostasis support, not disease modification. Cholecalciferol has a specific limitation here. It must be activated by PTH-dependent renal 1-alpha-hydroxylation, which is impaired when PTH secretion is deficient. Active analogs are therefore usually preferred.
 
-The critical mechanistic limitation, however, is that PTH is the primary driver of renal 1α-hydroxylase. In the PTH-deficient state, conversion of 25(OH)D3 to calcitriol is substantially impaired — meaning the inactive prohormone cholecalciferol cannot be efficiently activated. Standard management of FIH therefore prioritises **active vitamin D analogues** (calcitriol or alfacalcidol) that bypass this enzymatic bottleneck, combined with oral calcium supplementation. Cholecalciferol plays only a supportive role in correcting co-morbid vitamin D insufficiency, and no direct clinical evidence validates its use as a primary agent for FIH.
+The high TxGNN score reflects proximity in the knowledge graph. It is not evidence of benefit. No trials or literature were retrieved for this indication.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for familial isolated hypoparathyroidism due to impaired PTH secretion with cholecalciferol.
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available for this specific indication.
+Currently no related literature available.
 
 ---
 
 ## US Market Information
 
-No prescription NDA records were identified in the US FDA database for cholecalciferol. In the United States, cholecalciferol (Vitamin D3) is predominantly available as an over-the-counter (OTC) dietary supplement; OTC products are not captured in the prescription NDA database queried for this report. Prescription-strength cholecalciferol formulations (e.g., high-dose weekly capsules) do exist in clinical practice under various product registrations not reflected in this dataset.
+The Evidence Pack lists 6 licenses. One product (Fosamax Plus D, NDA021762) appears twice, so 4 distinct products are shown. Only NDA021762 has an authorization number.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA021762 | FOSAMAX PLUS D (Organon LLC) | Tablet | Not provided |
+| Not listed | GROWTH SUPPORTPATCH, HAUTUKI (CUSTICS) | Patch | Not provided |
+| Not listed | Floriva (BonGeo Pharmaceuticals, Inc.) | Liquid | Not provided |
+| Not listed | Folvitra (Blue Heron Pharmaceuticals, LLC) | Tablet | Not provided |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No drug interaction records were found.
 
 ---
 
@@ -96,14 +99,15 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-There is no direct clinical or preclinical evidence supporting cholecalciferol as a primary treatment for familial isolated hypoparathyroidism due to impaired PTH secretion. The fundamental mechanistic barrier — PTH-dependent 1α-hydroxylase activity being absent or severely reduced in this condition — means cholecalciferol cannot be efficiently activated to its therapeutic form (calcitriol) without enzyme bypass, making this a low-priority repurposing candidate compared to active vitamin D analogues already used as standard of care.
+The prediction rests on the model score alone (L5), with no trials or literature for this indication. Cholecalciferol also has a mechanistic limitation in PTH deficiency, where active vitamin D analogs are normally used. Safety data are missing, and the package insert gap is flagged as blocking.
 
 **To proceed, the following is needed:**
-- Complete DrugBank API query to retrieve full mechanism of action data (remediation for data gap DG002)
-- FDA/TFDA package insert review to obtain key warnings and contraindications (remediation for data gap DG001)
-- Preclinical data (animal models of PTH deficiency) demonstrating whether cholecalciferol supplementation provides additive benefit beyond calcitriol alone
-- Clinical case series or pilot studies comparing outcomes of cholecalciferol vs. calcitriol supplementation specifically in PTH-deficient patients
-- Regulatory pathway assessment: whether re-labelling an OTC supplement for a rare genetic disease (FIH) would require a full NDA submission or a different designation (e.g., Orphan Drug)
+- FDA package insert warnings and contraindications (blocking data gap)
+- Mechanism of action data (for example, from DrugBank)
+- A targeted literature search for cholecalciferol versus active vitamin D analogs in hypoparathyroidism
+- Approved-indication text for the US products, to confirm the original indication
+
+Other candidates in the same Evidence Pack have more supporting evidence. Renal osteodystrophy (L3) includes NCT00285467, a completed trial comparing cholecalciferol with doxercalciferol. Hypophosphatemic rickets is L4. These are worth evaluating separately.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

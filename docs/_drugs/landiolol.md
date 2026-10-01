@@ -29,33 +29,31 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Landiolol: From an Undocumented Original Indication to Lingual-Facial-Buccal Dyskinesia
+# Landiolol: From Rapid Heart-Rate Control to Lingual-Facial-Buccal Dyskinesia
 
 ## One-Sentence Summary
 
-> Landiolol's original approved indication is not recorded in the current evidence pack (data gap), though it is known from the collected rationale notes to be an ultra-short-acting, highly β1-selective adrenergic antagonist (pharmacologically similar to esmolol).
-> The TxGNN model's top-ranked prediction is **Lingual-Facial-Buccal Dyskinesia**, but this is supported by **0 clinical trials** and **0 publications** — and the evidence pack's own mechanistic rationale explicitly flags this specific link as biologically strained (the disorder is primarily dopaminergic, not adrenergic).
-> This candidate should be treated as an unvalidated model signal only.
+Landiolol is an ultra-short-acting intravenous beta-1 selective blocker, marketed in the US as RAPIBLYK. The TxGNN model predicts it may be effective for **lingual-facial-buccal dyskinesia**, but **0 clinical trials** and **0 publications** support this, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in current evidence pack (no original indications or MOA on file) |
-| Predicted New Indication | Lingual-Facial-Buccal Dyskinesia |
+| Original Indication | Not recorded in the source data (the class is IV beta-blockers for rapid heart-rate control) |
+| Predicted New Indication | Lingual-facial-buccal dyskinesia |
 | TxGNN Prediction Score | 99.11% |
-| Evidence Level | L5 (model prediction only, no clinical trials or literature) |
-| Market Status (Taiwan) | Not marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 license entries (both under NDA217202, from two manufacturers) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for Landiolol is not confirmed in this evidence pack (flagged as a High-severity data gap). However, the rationale notes attached to other candidates in this same prediction set describe Landiolol as an ultra-short-acting, highly selective β1-adrenergic receptor antagonist, pharmacologically comparable to esmolol and administered only by IV infusion with a half-life of minutes.
+Currently, detailed mechanism of action data is not available in the source record. Based on known pharmacology, landiolol is a hydrophilic, beta-1 selective adrenergic blocker given intravenously. It has an ultra-short duration of action and limited CNS penetration.
 
-No original indication is recorded, so the usual comparison between "proven original use" and "predicted new use" cannot be made here — this is a genuine gap, not an omission.
+The prediction is weakly supported. Lipophilic, non-selective beta-blockers such as propranolol have been reported for tardive and orofacial dyskinesia, which may explain the high graph score. Landiolol differs from them in selectivity, lipophilicity and route. Because its mechanism is undocumented in the record, the score cannot be checked against a known mechanism.
 
-For the top-ranked candidate specifically, the evidence pack's own repurposing rationale argues **against** mechanistic plausibility: lingual-facial-buccal dyskinesia is understood to arise primarily from chronic dopamine-receptor blockade (e.g., antipsychotic-induced tardive dyskinesia), a pathway centered on the dopaminergic system rather than adrenergic β1 signaling. The rationale text itself characterizes the β1-antagonist link to this disorder as having "no clear mechanistic association" — a high TxGNN score without a coherent pharmacological story. By contrast, a lower-ranked candidate in this same set (primary orthostatic tremor, rank 6) has a more conventional mechanistic basis, since β-blockers are established treatment for tremor disorders — though it is also unsupported by any trial or literature evidence and limited by Landiolol's IV-only, ultra-short-acting profile, which is unsuited to chronic outpatient management.
+The other predictions (chronic tic disorder, psychogenic movement disorders, extrapyramidal and movement disease, benign shuddering attacks, primary orthostatic tremor) all score 0.990–0.991 and share the same weaknesses. All have L5 evidence, and none has trial or literature support. Several of these conditions are chronic, oral-treatment, non-drug-managed or self-limited, which fits poorly with an IV-only, short-acting agent.
 
 ## Clinical Trial Evidence
 
@@ -65,27 +63,31 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
-## Taiwan Market Information
+## US Market Information
 
-Landiolol currently holds no Taiwan marketing authorizations (market status: not marketed; 0 licenses on file).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA217202 | RAPIBLYK (AOP Orphan Pharmaceuticals GmbH) | Injection, powder, lyophilized, for solution | Not listed in the source record |
+| NDA217202 | RAPIBLYK (AOP Health US, LLC) | Injection, powder, lyophilized, for solution | Not listed in the source record |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug-interaction data are all currently unavailable in this evidence pack; a Blocking-severity gap has been flagged for TFDA label/warning data.)
+- **Drug Interactions**: The DDI query returned no records (0 interactions found). This is not evidence of no interactions.
+
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-- All six ranked candidates in this prediction set carry Evidence Level L5 (model score only, zero supporting trials or literature) and are staged at S0. For the top-ranked candidate, the mechanistic rationale documented in the evidence pack itself argues against plausibility rather than for it.
-- A Blocking-severity data gap (TFDA warnings/contraindications) currently prevents this candidate from even entering the S1 safety pre-screen.
+The prediction has a high model score but no trial or literature evidence (L5). It has a weak mechanistic rationale, since landiolol is IV-only, short-acting, beta-1 selective and peripherally restricted. The proposed conditions are mostly chronic or non-pharmacologically managed.
 
 **To proceed, the following is needed:**
-- TFDA label data (warnings, contraindications) — required before any S1 safety evaluation can begin (Blocking gap)
-- Verified mechanism-of-action data from DrugBank (High-severity gap)
-- Preclinical or mechanistic studies linking β1-adrenergic blockade to the proposed movement-disorder pathway, given the documented dopaminergic (not adrenergic) basis of the top-ranked indication
-- Consider re-evaluating whether a mechanistically stronger candidate from this set (e.g., primary orthostatic tremor) merits prioritization over the raw TxGNN top rank
+- The US package insert (warnings, contraindications, approved indication), which is a blocking gap for safety screening
+- Mechanism of action data from DrugBank
+- A literature and trial search for beta-blockers in dyskinesia and tic disorders, to test the class-level link
+- An assessment of route compatibility (IV-only versus chronic or oral needs)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

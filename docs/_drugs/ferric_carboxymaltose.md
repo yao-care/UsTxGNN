@@ -29,39 +29,49 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Ferric Carboxymaltose: From Unspecified Original Indication to Bronchitis
+# Ferric Carboxymaltose: From Intravenous Iron Replacement to Bronchitis
 
 ## One-Sentence Summary
 
-Ferric carboxymaltose (DrugBank DB08917) is an intravenous iron replacement product; its original approved indication is not documented in the current evidence pack. The TxGNN model predicts a possible association with **Bronchitis** at a very high confidence score, but this prediction is currently supported by **zero clinical trials** and **zero publications**.
+Ferric carboxymaltose is an intravenous iron replacement product (US brand: Injectafer), used to correct iron deficiency and iron-deficiency anemia.
+The TxGNN model predicts it may be effective for **bronchitis**, but **0 clinical trials** and **0 publications** currently support this direction.
+The prediction rests on the model score alone, so the evidence is weak.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in available records (no license data on file) |
+| Original Indication | Not listed in the supplied data (established use: intravenous iron replacement for iron deficiency) |
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 99.00% |
 | Evidence Level | L5 |
-| US Market Status | Not marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 3 records (all under the same NDA, NDA203565) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, ferric carboxymaltose is an intravenous iron formulation whose established pharmacological role is to replenish iron stores and treat iron deficiency anemia — a mechanism that has no direct relationship to the airway inflammation/infection pathology underlying bronchitis.
+Currently, detailed mechanism of action data is not available. Based on known information, ferric carboxymaltose is an intravenous iron replacement product. Its established role is correcting iron deficiency and iron-deficiency anemia, and the supplied data does not include its label indication text. No mechanistic link to bronchitis is supported by the supplied data.
 
-The only plausible connection is indirect: patients with chronic bronchitis/COPD frequently have comorbid iron deficiency anemia, and correcting iron deficiency could improve fatigue and exercise tolerance in these patients. This would represent management of a comorbidity rather than treatment of bronchitis itself, and cannot be confirmed without the missing original-indication and MOA data.
+Any link is speculative. Iron deficiency may affect immune function and susceptibility to respiratory infection, which could loosely connect iron repletion to respiratory illness. On the other hand, iron availability may promote microbial growth and oxidative stress. A benefit in bronchitis therefore cannot be assumed and could be adverse.
 
-Given the very high TxGNN score (0.99) is not corroborated by any clinical trial or literature evidence, this prediction should be treated as a candidate for further screening rather than a validated mechanistic hypothesis — it may reflect model noise or an over-extended association.
+The high TxGNN score (0.99, rank 21,403) is a knowledge-graph prediction only. No clinical, preclinical, or literature evidence was provided to support or refute it.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
+
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA203565 | Injectafer (American Regent, Inc.) | Injection, solution | Not provided in the supplied data |
+
+The supplied data lists three identical records under this NDA. They are shown once here.
 
 ## Safety Considerations
 
@@ -72,13 +82,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-This is a model-only prediction (L5) with no supporting clinical trials, literature, or mechanistic data, and a Blocking data gap (missing TFDA label warnings/contraindications) prevents even an initial safety screen (S1).
+The prediction is supported only by the model score (L5), with no trials or publications. No mechanism links intravenous iron to bronchitis, and iron could plausibly worsen infection-related conditions.
 
 **To proceed, the following is needed:**
-- TFDA/regulatory label data on warnings and contraindications (currently blocking)
-- Original approved indication and mechanism of action (MOA) documentation
-- At least preliminary clinical or observational evidence linking ferric carboxymaltose to bronchitis or its comorbid presentations
-- Drug interaction (DDI) data, which is currently unavailable
+- The FDA package insert (warnings, contraindications, approved indications), which is a blocking gap for safety screening
+- Mechanism of action data (for example, from DrugBank) to allow mechanistic-link analysis
+- A targeted literature and trial search on iron status, iron supplementation, and bronchitis or respiratory infection outcomes
+- Preclinical or observational evidence that iron repletion is not harmful in respiratory infection
+- A route and formulation assessment, since only an intravenous injection is marketed and no route compatibility has been established for bronchitis
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

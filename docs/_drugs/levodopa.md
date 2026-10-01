@@ -29,68 +29,74 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Levodopa: From Parkinson's Disease to Rasmussen Subacute Encephalitis
+# Levodopa: From Dopamine Replacement to Rasmussen Subacute Encephalitis
 
 ## One-Sentence Summary
 
-Levodopa is a dopamine precursor originally established for treating dopamine-deficiency conditions such as Parkinson's disease. The TxGNN model predicts it may be effective for **Rasmussen Subacute Encephalitis**, but this prediction is currently supported by **0 clinical trials** and **0 publications** — the evidence base consists solely of the model's topological score, and the accompanying mechanistic review flags this as a likely false-positive prediction.
-
----
+Levodopa is a dopamine precursor that is marketed in the United States in several dosage forms.
+The TxGNN model predicts it may be effective for **Rasmussen subacute encephalitis**, but this rests only on a knowledge-graph score.
+There are **0 clinical trials** and **0 publications** supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Parkinson's disease / dopa-responsive dystonia (established clinical use per mechanistic rationale below; not sourced from Taiwan license data, as none exists) |
-| Predicted New Indication | Rasmussen Subacute Encephalitis |
-| TxGNN Prediction Score | 99.06% (model rank 20,416) |
-| Evidence Level | L5 (model prediction only — no clinical or literature support) |
-| Market Status (Taiwan) | Not marketed |
-| Number of Licenses (Taiwan) | 0 |
+| Predicted New Indication | Rasmussen subacute encephalitis |
+| TxGNN Prediction Score | 99.06% |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for this candidate is not currently available (data gap). Based on known pharmacology, Levodopa is a dopamine precursor that is converted to dopamine by dopa decarboxylase; its only well-established clinical role is replacing nigrostriatal dopamine deficiency, as in Parkinson's disease and certain dopa-responsive dystonias.
+Currently, detailed mechanism of action data is not available. Levodopa is a dopamine precursor. Its approved indication text is also missing from the US licensing records supplied, so the original clinical use cannot be confirmed from this data.
 
-Rasmussen encephalitis, by contrast, is a rare, chronic, unilateral inflammatory disease of the cerebral cortex in children, driven by T-cell-mediated autoimmune attack (involving anti-GluR3 and related glutamate-receptor antibodies and cytotoxic T-lymphocyte infiltration). It has no known nigrostriatal degeneration component and no established relationship to dopaminergic pathways.
+Rasmussen encephalitis is a chronic, usually unilateral, T-cell-mediated inflammatory brain disease. It causes intractable focal seizures, progressive hemiparesis and cognitive decline. No direct link between dopaminergic replacement and this immune-mediated pathology has been established, and levodopa has no known effect on the underlying inflammation.
 
-No pharmacological literature currently links dopamine replacement therapy to the inflammatory/autoimmune mechanisms underlying Rasmussen encephalitis. The high TxGNN score most likely reflects topological proximity between Levodopa and "encephalitis/neurodegeneration"-type disease nodes in the knowledge graph (e.g., via shared neighbor nodes such as "central nervous system disease" or "epilepsy") rather than a genuine biological mechanism. This prediction should be treated as a **potential false positive** with low mechanistic plausibility.
-
----
+The high score most likely reflects shared neurological features or neighboring genes in the knowledge graph. This is a hypothesis-generating signal only, and it does not amount to a mechanistic rationale. Similarity to the original indication and route compatibility have not yet been assessed.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## US Market Information
+
+The record lists 20 authorizations in total. The distinct main entries are shown below, and the indication text is empty in the source data.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Not listed | L-Dopa (Deseret Biologicals, Inc.) | Liquid | Not stated in record |
+| Not listed | L-Dopa (Professional Complementary Health Formulas) | Liquid | Not stated in record |
+| Not listed | L DOPA (BioActive Nutritional, Inc.) | Liquid | Not stated in record |
+| NDA209184 | Inbrija (Merz Pharmaceuticals, LLC) | Capsule | Not stated in record |
+
+Other levodopa dosage forms in the record are oral capsule, tablet, extended-release tablet, orally disintegrating tablet and extended-release capsule.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Seizure-prone patients**: Rasmussen encephalitis presents with refractory seizures, so levodopa's safety in this population would need review before any further work.
 
----
+For all other safety information, please refer to the package insert. No drug interaction records were found.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This candidate has no supporting clinical trials or literature (Evidence Level L5, model prediction only), and the model's own mechanistic review assesses the biological link between dopamine replacement and Rasmussen encephalitis's autoimmune/inflammatory pathology as implausible — consistent with a topological false positive rather than a genuine repurposing signal.
+The prediction is supported only by a high TxGNN score. There are no clinical trials or publications, no mechanism links dopaminergic therapy to an immune-mediated encephalitis, and safety in a seizure-prone population is unreviewed.
 
 **To proceed, the following is needed:**
-- TFDA-approved label warnings/contraindications (currently blocking — data gap DG001)
-- Confirmed mechanism-of-action data via DrugBank (data gap DG002)
-- Preclinical or mechanistic studies establishing any plausible link between dopaminergic signaling and Rasmussen encephalitis's T-cell-mediated autoimmune process
-- At minimum, case-report or observational evidence in Rasmussen encephalitis before this candidate can advance beyond S0
+- Package insert warnings and contraindications (currently blocking the safety screening)
+- Mechanism of action data, for example from DrugBank
+- A systematic literature search for any levodopa use in Rasmussen encephalitis or related epilepsy and neuroinflammation
+- Evidence of a plausible mechanistic link to T-cell-mediated brain inflammation
+- A seizure-risk safety review for this patient population
+- Assessment of similarity to the original indication and of route compatibility
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -33,27 +33,28 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 ## One-Sentence Summary
 
-Silodosin is a highly selective alpha-1A adrenergic receptor antagonist used to treat benign prostatic hyperplasia (BPH) by relaxing prostatic and bladder-neck smooth muscle. The TxGNN model predicts a possible link to **Ambras type hypertrichosis universalis congenita**, a rare congenital hair-overgrowth syndrome, but this prediction is currently supported by **0 clinical trials** and **0 publications**.
+Silodosin is an oral alpha-1A adrenergic receptor antagonist, generally used for the urinary symptoms of benign prostatic hyperplasia (BPH).
+The TxGNN model predicts it may be effective for **Ambras type hypertrichosis universalis congenita**, but there are **0 clinical trials** and **0 publications** supporting this direction. It is a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Benign Prostatic Hyperplasia (BPH) |
+| Original Indication | Not listed in the supplied US license records; BPH per general pharmacology knowledge |
 | Predicted New Indication | Ambras type hypertrichosis universalis congenita |
-| TxGNN Prediction Score | 99.99% (global rank 418) |
+| TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (Not Marketed) |
-| Number of Licenses | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (generic ANDA licenses) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data (DrugBank MOA field) is currently unavailable for this drug. Based on the pharmacological information available in this evidence pack, silodosin is a highly selective alpha-1A adrenergic receptor antagonist, used clinically to relax smooth muscle in the prostate and bladder neck for BPH symptom relief.
+Currently, detailed mechanism of action data is not available in the Evidence Pack. From general pharmacology, silodosin selectively blocks alpha-1A adrenergic receptors, which relaxes smooth muscle in the prostate and bladder neck.
 
-There is no known pharmacological or physiological pathway connecting alpha-1A adrenergic antagonism to Ambras type hypertrichosis, a rare genetic disorder typically associated with 8q chromosomal rearrangements affecting hair follicle development. No mechanistic, clinical, or literature evidence in this evidence pack supports a causal or therapeutic relationship between the two conditions.
+No established mechanistic link connects this action to Ambras syndrome, a rare congenital disorder of hair growth. No alpha-1A pathway is known to drive the condition. The very high score (0.9999) most likely reflects proximity in the knowledge graph rather than a pharmacological rationale.
 
-Given the absence of any supporting trials or publications, and the biological implausibility of the mechanism, this prediction is most consistent with knowledge-graph embedding noise rather than a genuine pharmacological signal.
+The other five predictions follow the same pattern. They are hypertrichosis, a malformation syndrome with a dental/periodontal component, a Dandy-Walker malformation syndrome, isolated genetic hair shaft abnormality, and familial isolated trichomegaly. All are rated L5 with no trials, and none has an established mechanistic link. The lowest score in the set is 99.2%.
 
 ## Clinical Trial Evidence
 
@@ -63,28 +64,39 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
-## Taiwan Market Information
+Note: the 20 publications retrieved for the third prediction (the periodontal malformation syndrome) are general periodontitis papers. None appears to involve silodosin, so they provide no drug-specific evidence.
 
-No license records are currently available — silodosin is listed as not marketed (Not marketed) in Taiwan, with 0 registered licenses in this evidence pack.
+## US Market Information
+
+Silodosin is marketed as oral capsules, and the Evidence Pack lists 20 generic licenses. The approved indication text is not provided in the records. The five main authorizations are:
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA209745 | Silodosin | Capsule | AvKARE |
+| ANDA211731 | Silodosin | Capsule | Alembic Pharmaceuticals Limited |
+| ANDA210626 | Silodosin | Capsule | Aurobindo Pharma Limited |
+| ANDA213230 | Silodosin | Capsule | Creekwood Pharmaceuticals LLC |
+| ANDA211166 | Silodosin | Capsule | Macleods Pharmaceuticals Limited |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-*(Note: TFDA warning/contraindication data and DDI data were both flagged as data gaps in this evidence pack — TFDA label warnings/contraindications is a **Blocking** gap that prevents any S1 safety pre-assessment.)*
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Despite a high TxGNN similarity score, the predicted indication has no supporting clinical trials, no supporting literature, and no plausible mechanistic link to the drug's known pharmacology. This pattern also holds for the other top-ranked candidates in this evidence pack (hypertrichosis, odontal/periodontal malformation syndrome — literature matched appears to be an entity-mismatch on unrelated periodontitis research, Dandy-Walker malformation, genetic hair shaft abnormality, familial trichomegaly), none of which show credible mechanistic or evidentiary support. This indication should not proceed past S0 without independent validation.
+The prediction rests on the model score alone. There are no clinical trials or drug-specific literature, and no plausible mechanistic link between alpha-1A blockade and congenital hypertrichosis. The evidence level is L5 (model prediction only).
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings/contraindications) — currently a Blocking data gap
-- Confirmed DrugBank MOA record for silodosin
-- Preclinical or mechanistic studies specifically linking alpha-1A adrenergic antagonism to hair follicle/hypertrichosis biology
-- Re-validation of the TxGNN prediction to rule out knowledge-graph embedding artifacts, given the biological implausibility and complete absence of corroborating evidence
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- A mechanistic hypothesis linking alpha-1A signaling to hair follicle biology or the Ambras phenotype
+- Any preclinical or case-level evidence supporting this indication
+- Route compatibility assessment (currently pending; only oral capsules are available)
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

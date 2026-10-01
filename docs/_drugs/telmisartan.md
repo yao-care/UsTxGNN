@@ -33,33 +33,33 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Telmisartan is an angiotensin II receptor blocker (ARB) widely used for the management of hypertension and reduction of cardiovascular risk in high-risk patients.
-The TxGNN model predicts it may be effective for **Prinzmetal Angina** (variant angina),
-however **no clinical trials** and **no publications** currently support this specific direction — the prediction rests entirely on computational modeling.
+Telmisartan is an angiotensin II receptor blocker (ARB) marketed in the US as an oral tablet, used for hypertension.
+The TxGNN model predicts it may be effective for **Prinzmetal angina**, but this top-ranked prediction has **0 clinical trials** and **0 publications** behind it.
+Stronger evidence exists for two lower-ranked predictions, cerebral artery occlusion and intracerebral hemorrhage (see the last section before the conclusion).
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Hypertension / cardiovascular risk reduction |
-| Predicted New Indication | Prinzmetal Angina |
+|------|------|
+| Original Indication | Hypertension (inferred from the Evidence Pack rationale text; the US license records contain no indication text) |
+| Predicted New Indication | Prinzmetal angina |
 | TxGNN Prediction Score | 99.98% |
-| Evidence Level | L5 |
-| US Market Status | Not marketed (Not marketed) |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (the sampled licenses are ANDA generics) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the evidence pack. Based on known pharmacology, telmisartan is an ARB that selectively antagonizes the angiotensin II type 1 receptor (AT1R), thereby inhibiting angiotensin II-mediated vasoconstriction, aldosterone secretion, and vascular smooth muscle proliferation. Uniquely among ARBs, telmisartan also acts as a partial PPARγ (peroxisome proliferator-activated receptor gamma) agonist, conferring pleiotropic anti-inflammatory and metabolic benefits beyond blood pressure reduction — a profile sometimes described as "metabosartan."
+Currently, detailed mechanism of action data for telmisartan is not available in the Evidence Pack. Based on known information, telmisartan blocks the angiotensin II type 1 (AT1) receptor and also acts as a partial PPARγ agonist. Its efficacy in hypertension is established.
 
-Prinzmetal angina (variant or vasospastic angina) is characterized by episodic coronary artery spasm causing transient myocardial ischemia, typically occurring at rest and often in the absence of significant fixed atherosclerotic stenosis. The theoretical mechanistic link is that AT1R blockade could attenuate angiotensin II-induced coronary vasoconstriction, while PPARγ activation may provide additional endothelial protective and anti-inflammatory effects that modulate vascular reactivity and smooth muscle tone.
+Angiotensin II-mediated vasoconstriction and endothelial dysfunction are plausible contributors to coronary vasospasm, which is the basis of Prinzmetal angina. That gives the prediction some biological plausibility.
 
-However, this mechanistic connection is highly speculative. Prinzmetal angina is primarily driven by calcium-channel-dependent smooth muscle hyperreactivity rather than by RAS overactivation, and first-line treatments are calcium channel blockers and nitrates — not antihypertensives. There is no clinical trial or published peer-reviewed study demonstrating telmisartan's efficacy or safety specifically in Prinzmetal angina. The high TxGNN score (99.98%) reflects structural proximity within the knowledge graph, not clinical validation.
+However, calcium channel blockers and nitrates are the established therapy for this condition. No telmisartan-specific trial or publication was supplied, so the score reflects the knowledge-graph relationship only, not clinical support.
 
 ---
 
@@ -75,11 +75,36 @@ Currently no related literature available.
 
 ---
 
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA202397 | Telmisartan | Tablet | A-S Medication Solutions |
+| ANDA205150 | telmisartan | Tablet | Bryant Ranch Prepack |
+| ANDA203986 | Telmisartan | Tablet | NorthStar RxLLC |
+| ANDA208605 | Telmisartan | Tablet | Bryant Ranch Prepack |
+| ANDA090032 | Telmisartan | Tablet | Glenmark Pharmaceuticals Inc., USA |
+
+Only the oral route (tablet) is available.
+
+---
+
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
 
-> **Note:** TFDA package insert warnings, contraindications, and drug interaction data are all currently unavailable (flagged as a Blocking-severity data gap). Full safety profiling cannot be completed until this information is retrieved from the TFDA website.
+---
+
+## Other Predicted Indications With Evidence
+
+Two lower-ranked predictions carry more evidence than the top-ranked one.
+
+| Rank | Indication | Score | Evidence Level | What the Evidence Shows |
+|------|------|------|------|---------|
+| 4 | Cerebral artery occlusion | 99.95% | L4 | 1 Phase 4 trial ([NCT01075698](https://clinicaltrials.gov/study/NCT01958698), completed, n=1228, cardiovascular prevention) plus mostly rodent studies (tMCAO models) showing reduced infarct volume, oxidative stress and inflammation. No human treatment data for acute occlusion. |
+| 9 | Intracerebral hemorrhage | 99.93% | L2 | [NCT02699645](https://clinicaltrials.gov/study/NCT02699645) (TRIDENT, Phase 3, completed, n=1671) tested a triple low-dose antihypertensive pill, with telmisartan as one component, for preventing recurrent stroke. No results were supplied, and telmisartan's own contribution cannot be isolated. |
+
+Both are classified "Research Question" in the Evidence Pack. The remaining predictions (brain stem infarction, ABri amyloidosis, the two pulmonary hypertension entries, malignant renovascular hypertension, malignant hypertensive renal disease, Braddock syndrome) are prediction-only with no supporting trials or literature. For malignant renovascular hypertension, RAAS blockade also carries a risk of acute renal function decline, which argues against advancing it.
 
 ---
 
@@ -88,14 +113,16 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-There is no clinical, translational, or preclinical evidence specifically supporting telmisartan for Prinzmetal angina, and the mechanistic rationale — while theoretically arguable — is indirect and highly speculative relative to established vasospasm pathophysiology.
+Prinzmetal angina is supported only by a model score. There are no trials or publications, and established therapies already exist. Any further work is better directed at the cerebral ischemia and intracerebral hemorrhage candidates.
 
 **To proceed, the following is needed:**
-- Retrieve TFDA package insert (Blocking data gap) to establish a safety baseline before any further evaluation
-- Obtain MOA data from DrugBank (High-severity gap) to formally characterize the AT1R/PPARγ mechanism and assess plausibility
-- Conduct a class-effect literature review of ARBs in vasospastic angina to determine whether any precedent exists within the drug class
-- Commission preclinical studies evaluating AT1R blockade in established coronary vasospasm models (e.g., ergonovine-induced spasm models) before any clinical exploration
-- Review potential drug-drug interactions with standard Prinzmetal co-medications (calcium channel blockers, nitrates, statins)
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- A telmisartan-specific literature and trial search for Prinzmetal angina
+- For intracerebral hemorrhage, TRIDENT results and any analysis separating telmisartan's contribution
+- For cerebral artery occlusion, human data beyond the rodent studies
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

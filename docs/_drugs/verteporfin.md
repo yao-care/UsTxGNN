@@ -29,76 +29,66 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Verteporfin: From Photodynamic Therapy (Wet AMD) to Mitochondrial Oxidative Phosphorylation Disorder
+# Verteporfin: From Photodynamic Therapy Photosensitizer to Mitochondrial Oxidative Phosphorylation Disorder (Nuclear DNA Anomalies)
 
 ## One-Sentence Summary
 
-> Verteporfin is a benzoporphyrin-derivative photosensitizer known for photodynamic therapy (PDT) of neovascular (wet) age-related macular degeneration, and separately for inhibiting the Hippo pathway's YAP/TAZ-TEAD interaction in oncology research.
-> The TxGNN model predicts it may be effective for **mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies**,
-> but this is currently supported by **0 clinical trials** and **0 publications** — a model-only prediction with no mechanistic or empirical corroboration.
-
----
+Verteporfin is a photosensitizer used in photodynamic therapy (PDT), and it is marketed in the US as Visudyne.
+The TxGNN model predicts it may be useful for **mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies**.
+This is a computational prediction only: **0 clinical trials** and **0 publications** currently support it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in Taiwan regulatory data (drug not marketed); known pharmacological use is photodynamic therapy for neovascular (wet) age-related macular degeneration |
+| Original Indication | Not listed in the supplied record (verteporfin is a photosensitizer used in photodynamic therapy) |
 | Predicted New Indication | Mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies |
 | TxGNN Prediction Score | 99.49% |
 | Evidence Level | L5 |
-| Market Status (Taiwan) | Not marketed (Not Marketed) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Verteporfin's established mechanism is light-dependent: upon photoactivation it generates reactive oxygen species (ROS) that occlude abnormal choroidal neovascularization, which is the basis of its use in wet AMD. It also has a separate, non-light-dependent mechanism as an inhibitor of the YAP/TAZ-TEAD interaction in the Hippo signaling pathway, which is studied mainly in oncology contexts.
+Detailed mechanism-of-action data are not available in the record. Verteporfin generates reactive oxygen species (ROS) when activated by light, which is the basis of its use in PDT. In preclinical work it has also been reported to inhibit YAP-TEAD signaling and to modulate autophagy, independent of light.
 
-Neither of these mechanisms has a known pathophysiological link to nuclear-DNA-encoded mitochondrial oxidative phosphorylation (OXPHOS) disorders (e.g., Leigh syndrome, Complex I/IV deficiencies). Standard therapeutic strategies for these disorders aim to *reduce* oxidative stress and support electron transport chain function, whereas verteporfin's principal photoactivated action is to *generate* ROS and cause oxidative damage — a direction that runs counter to the therapeutic needs of this indication.
+No direct mechanistic evidence links verteporfin to nuclear-DNA-driven OXPHOS disorders. Any link would have to run through indirect pathways, such as autophagy/mitophagy or Hippo-YAP signaling, and is speculative.
 
-Given this mechanistic mismatch, and the absence of any supporting clinical or literature evidence, this prediction should be treated as an unvalidated knowledge-graph signal rather than a plausible repurposing hypothesis at this stage. Additionally, the drug's `original_moa` field itself is flagged as a data gap, and the drug is not currently marketed in Taiwan, so foundational drug-level data needed for a safety/regulatory review is incomplete.
-
----
+There is also a countervailing concern. ROS generation and mitochondrial photodamage could worsen mitochondrial dysfunction rather than improve it. The very high TxGNN score (0.995; rank 12,092) should therefore be read as a hypothesis to test, not as support for efficacy.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
-
----
+Currently no related literature available.
 
 ## US Market Information
 
-Verteporfin currently holds no marketing licenses in Taiwan (market status: Not marketed, total licenses: 0). No license-level data is available for tabulation.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA021119 | Visudyne (Bausch & Lomb Incorporated) | Injection, powder, lyophilized, for solution | Not listed in the record |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
----
+Please refer to the package insert for safety information. No drug interactions were found in the queried data.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a TxGNN model score (L5 evidence) with no clinical trials or literature, and the proposed mechanism (ROS-generating photodynamic action) conflicts directionally with the therapeutic goals of mitochondrial OXPHOS disorders. Combined with missing MOA and safety data, this candidate does not meet the threshold to advance past S0.
+The prediction rests on a model score alone (Evidence Level L5), with no trials, no literature, and no direct mechanistic support. Verteporfin's ROS-generating photosensitizing action could plausibly be harmful in mitochondrial disease.
 
 **To proceed, the following is needed:**
-- Confirmed mechanism-of-action data (DrugBank/primary literature) to properly assess biological plausibility
-- TFDA (or other regulatory) label data — warnings, contraindications, DDI — to enable an S1 safety screen
-- Preclinical or mechanistic studies specifically linking verteporfin (or Hippo/YAP-TAZ modulation) to nuclear-DNA-related OXPHOS disorders
-- At minimum, case reports or in vitro/in vivo data before this candidate can be reconsidered for advancement
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism-of-action data from DrugBank, and the original approved indications
+- Preclinical evidence in OXPHOS-deficiency models, including a check that light-independent effects (autophagy/mitophagy, YAP-TEAD) are beneficial and ROS-related toxicity is not
+- Route and dosing compatibility assessment, since the available route is injectable and the required route for the new indication is unspecified
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

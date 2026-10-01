@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Emapalumab
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 648
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
 ---
 
 # Emapalumab
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,90 +29,66 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Emapalumab: From Primary Hemophagocytic Lymphohistiocytosis to Infection-Associated Hemophagocytic Lymphohistiocytosis
-
-> **Note on indication selection**: This evidence pack contains 10 TxGNN-predicted indications for emapalumab, ranked by model score. The #1-ranked node (*autosomal recessive familial Mediterranean fever*) has zero supporting trials or literature (Evidence Level L5, Hold). This report instead focuses on **"hemophagocytic syndrome associated with an infection"** (rank 3, score 99.99%), the only candidate in this pack backed by an actual clinical trial and a substantial literature base, and the highest decision stage reached (S2, Proceed with Guardrails). The other HLH-spectrum candidates (malignancy-associated HLH, XLP1/SH2D1A deficiency) are mechanistically related but lack direct evidence and are noted only in passing.
+# Emapalumab: From Primary Hemophagocytic Lymphohistiocytosis to Autosomal Recessive Familial Mediterranean Fever
 
 ## One-Sentence Summary
 
-Emapalumab is an anti-interferon-gamma (IFN-γ) monoclonal antibody originally established for **Primary Hemophagocytic Lymphohistiocytosis (pHLH)**. Within this evidence pack, TxGNN predicts it may also be effective for **infection-associated (secondary) hemophagocytic lymphohistiocytosis** — most notably EBV-triggered HLH — with **1 clinical trial** and **20 publications** currently identified, though the trial was terminated with only 7 patients enrolled.
-
----
+Emapalumab is an anti-interferon-γ (IFN-γ) monoclonal antibody, marketed in the US as GAMIFANT and established for primary hemophagocytic lymphohistiocytosis (HLH).
+The TxGNN model predicts it may be effective for **autosomal recessive familial Mediterranean fever (FMF)**, but this prediction has **0 clinical trials** and **0 publications** behind it, so it is a model output only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Primary Hemophagocytic Lymphohistiocytosis (pHLH) — inferred from literature in this pack (e.g., PMID 32374962); not recorded in the regulatory dataset (see US Market Status) |
-| Predicted New Indication | Hemophagocytic syndrome associated with an infection (secondary/infection-associated HLH) |
+| Original Indication | Primary HLH (inferred from the mechanistic notes; the license records contain no indication text) |
+| Predicted New Indication | Autosomal recessive familial Mediterranean fever |
 | TxGNN Prediction Score | 99.99% |
-| Evidence Level | L3 |
-| US Market Status | Not marketed (per this dataset — see note below) |
-| Number of NDAs | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
-**Note on market status**: The regulatory dataset in this evidence pack records 0 licenses and "not marketed." A Blocking data gap (DG001) flags that the official label (warnings/contraindications) could not be retrieved, so this status should be treated as a data-collection gap rather than a confirmed absence of approval, and should be re-verified from primary regulatory sources before use in decision-making.
-
----
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 7 (all under BLA761107) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed formal mechanism-of-action data is not available in the structured `original_moa` field (marked as a data gap, DG002). However, the literature captured in this evidence pack is consistent: emapalumab is described repeatedly as "a fully human monoclonal antibody that neutralizes interferon-gamma (IFN-γ)... a key cytokine driving the inflammation and tissue damage seen in HLH" (NCT03985423 summary; PMID 32374962, 39117840, 38014905).
+Detailed mechanism-of-action data is not available in the structured record. Emapalumab is a fully human antibody that neutralizes IFN-γ, the central cytokine driving the hyperinflammation in HLH.
 
-Primary HLH and infection-associated (secondary) HLH share the same core pathophysiology: uncontrolled IFN-γ-driven macrophage activation and cytokine storm. The literature in this pack explicitly frames secondary HLH — including infection-, malignancy-, and rheumatologic-disease-associated forms — as sharing the hyperinflammatory pathobiology of primary HLH, with EBV infection being the dominant infectious trigger described across multiple case series (PMID 38691058, 39719162, 39331881, 41066671). This makes the extension of an IFN-γ-neutralizing mechanism from primary to infection-triggered HLH a direct, biologically grounded extrapolation rather than a speculative new mechanism — TxGNN's high score for this node reflects a real mechanistic neighbor to the drug's established indication, not an artifact.
+FMF is a different kind of disease. It is mainly driven by pyrin inflammasome activation and IL-1β, and it is treated with colchicine and IL-1 inhibitors. The mechanistic link to emapalumab is therefore weak. IFN-γ blockade could plausibly matter only in the rare FMF patients who develop macrophage activation syndrome (MAS) or HLH.
 
----
+The high TxGNN score most likely reflects proximity in the knowledge graph (both are autoinflammatory conditions). It does not reflect any observed clinical benefit.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT03985423](https://clinicaltrials.gov/study/NCT03985423) | Phase 2/3 | Terminated | 7 | Open-label, single-arm study of emapalumab in adult HLH patients (etiologies include autoimmune disease, infection, malignancy) evaluating efficacy, safety and pharmacokinetics; terminated early with only 7 of planned enrollment completed, limiting statistical power. |
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [32374962](https://pubmed.ncbi.nlm.nih.gov/32374962/) | 2020 | Cohort (pivotal) | N Engl J Med | Foundational efficacy/safety study of emapalumab in primary HLH in children; establishes the IFN-γ-neutralization mechanism this prediction extrapolates from. |
-| [41337692](https://pubmed.ncbi.nlm.nih.gov/41337692/) | 2026 | Cohort (real-world US) | Blood Advances | REAL-HLH study: retrospective chart review across 33 US hospitals on real-world emapalumab use and outcomes in secondary HLH populations, including malignancy- and infection-triggered cases. |
-| [38014905](https://pubmed.ncbi.nlm.nih.gov/38014905/) | 2024 | PK/Exposure-safety analysis | Pediatric Blood & Cancer | Exposure-safety relationship analysis for emapalumab in HLH; examines risk of immune dysfunction/immunosuppression from IFN-γ blockade. |
-| [34096649](https://pubmed.ncbi.nlm.nih.gov/34096649/) | 2021 | Review | Acta Paediatrica | Reviews virus-triggered secondary HLH, distinguishing it from primary HLH and describing shared hyperinflammatory/hypercytokinemic mechanisms. |
-| [39117832](https://pubmed.ncbi.nlm.nih.gov/39117832/) | 2024 | Review | Adv Exp Med Biol | Discusses overlap between primary HLH, secondary HLH (including infection-associated), and sepsis-induced MODS, and implications for targeted therapy. |
-| [39117840](https://pubmed.ncbi.nlm.nih.gov/39117840/) | 2024 | Review | Adv Exp Med Biol | Reviews the role of IFN-γ in cytokine storm syndromes and summarizes anti-IFN-γ therapeutic approaches, including emapalumab. |
-| [38691058](https://pubmed.ncbi.nlm.nih.gov/38691058/) | 2024 | Case series | J Pediatr Hematol Oncol | Emapalumab combined with ruxolitinib and dexamethasone effectively treated EBV-associated HLH complicated by multiorgan damage and severe infection. |
-| [39719162](https://pubmed.ncbi.nlm.nih.gov/39719162/) | 2025 | Case series | Transplant Immunology | Low-dose emapalumab combined with chemotherapy controlled EBV-associated HLH in 3 adult patients. |
-| [39331881](https://pubmed.ncbi.nlm.nih.gov/39331881/) | 2024 | Case series | Medicine | Case series describing emapalumab as an effective therapeutic option for EBV-associated HLH refractory to standard protocols. |
-| [41066671](https://pubmed.ncbi.nlm.nih.gov/41066671/) | 2025 | Case series | Annals of Medicine | Emapalumab improved outcomes in 3 pediatric EBV-HLH patients with multiple organ dysfunction syndrome. |
-
----
+Currently no related literature available.
 
 ## US Market Information
 
-According to this evidence pack's regulatory dataset, no NDA/BLA licenses are on file for emapalumab and market status is recorded as "not marketed." This coincides with Blocking data gap DG001 (TFDA/label warnings and contraindications not retrieved), so the official approval and label status should be independently re-verified rather than relied on from this dataset alone.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| BLA761107 | GAMIFANT | Injection | Swedish Orphan Biovitrum AB (publ) |
 
----
+The record contains 7 license entries, all under this same BLA and product. It lists no approved-indication text.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No structured warnings, contraindications, or drug-interaction data were retrieved in this evidence pack (DDI query status: not found).
-
----
+Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The mechanistic case is strong — infection-associated (especially EBV-triggered) secondary HLH shares the same IFN-γ-driven pathophysiology as emapalumab's established primary-HLH mechanism, and this is the only predicted indication in the pack with any clinical trial or literature support (1 terminated Phase 2/3 trial, 10+ relevant publications, evidence level L3). However, the supporting trial was terminated with only 7 patients and no data reach RCT-level confirmation specifically for infection-triggered HLH; most direct clinical support is case-series level.
+The prediction rests on the model score alone. FMF is driven by IL-1, not IFN-γ, and no trials or literature support it. There is no basis to advance it beyond the model output.
 
 **To proceed, the following is needed:**
-- Resolve Blocking data gap DG001: obtain official label warnings/contraindications from the regulatory source
-- Resolve High-severity data gap DG002: confirm formal MOA documentation via DrugBank
-- Investigate why NCT03985423 was terminated and whether follow-on/replacement trials exist
-- Seek RCT-level or larger prospective data specifically in infection-/EBV-associated secondary HLH (current evidence is cohort/case-series level)
-- Obtain formal drug-drug interaction data (current query: not found)
+- Evidence that IFN-γ blockade helps in FMF, restricted to FMF complicated by MAS/HLH (case reports or a registry review would be a start)
+- Mechanism-of-action data and package insert safety information
+- A comparison against standard FMF therapy (colchicine and IL-1 inhibitors)
+
+**Note on other predictions for this drug:** Among the 10 predicted indications, the best-supported is **hemophagocytic syndrome associated with an infection** (rank 3, L3, S2). It has one terminated Phase 2/3 trial (NCT03985423, 7 enrolled) and multiple case reports and small series, mostly in Epstein-Barr virus-associated HLH. Malignancy-associated HLH (rank 2) and X-linked lymphoproliferative disease (rank 6) are also mechanistically coherent, at L4. These are better candidates to evaluate first. Efficacy in infection-associated HLH is still not established.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

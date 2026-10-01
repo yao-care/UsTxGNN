@@ -29,15 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Ivosidenib: From IDH1-Mutant AML to Treatment-Related AML/MDS (Alkylating Agent- and Radiation-Related)
+# Ivosidenib: From IDH1-Mutated Cancers to Bulbar Polio
 
 ## One-Sentence Summary
 
-> Ivosidenib (DB14568) is an oral IDH1 (R132-mutant) inhibitor with established approval for IDH1-mutant acute myeloid leukemia and cholangiocarcinoma.
-> The TxGNN model predicts it may also be effective for **treatment-related AML/MDS** (subtypes linked to prior alkylating-agent or radiation exposure),
-> but this prediction currently rests **on mechanistic extrapolation alone — zero clinical trials and zero publications** were found for either subtype.
-
-*Note on the model's top-ranked output:* TxGNN's single highest-scoring prediction for this drug was "bulbar polio" (score 99.31%). The evidence pack's own rationale flags this as a likely knowledge-graph artifact with no plausible biological link to an IDH1 inhibitor, and explicitly recommends against investing further resources in it. It is therefore excluded from this report as the lead candidate; the two treatment-related AML/MDS predictions (tied at rank 2–3, both mechanistically coherent with the drug's known target) are used instead.
+Ivosidenib is a mutant IDH1 inhibitor, used in IDH1-mutated myeloid and biliary cancers.
+The TxGNN model predicts it may be effective for **bulbar polio**, but **no clinical trials and no publications** support this prediction.
+The link is most likely a knowledge-graph artifact, so the prediction should be treated as low-credibility.
 
 ---
 
@@ -45,23 +43,26 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 | Item | Content |
 |------|------|
-| Original Indication | IDH1-mutant AML / cholangiocarcinoma *(from public prescribing background referenced in the model rationale; not present in the structured evidence fields — see Data Gap DG002 below)* |
-| Predicted New Indication | Treatment-related (alkylating agent- and radiation-related) AML/MDS |
-| TxGNN Prediction Score | 99.26% (both subtypes) |
-| Evidence Level | L4 (mechanism-based; no clinical trials or literature identified) |
-| TW Market Status | Not marketed (Not Marketed) |
-| Number of Licenses (NDAs) | 0 |
+| Predicted New Indication | Bulbar polio |
+| TxGNN Prediction Score | 99.31% |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for ivosidenib is not available in this evidence pack (Data Gap DG002). Based on known information reflected in the model's own rationale, ivosidenib is an oral, targeted inhibitor of mutant IDH1 (R132), approved for IDH1-mutant AML and cholangiocarcinoma; its efficacy in IDH1-mutant AML has been clinically established.
+It is not reasonable on biological grounds. Ivosidenib inhibits mutant IDH1, which lowers 2-hydroxyglutarate (2-HG) and relieves the differentiation block in IDH1-mutated myeloid and biliary cancers.
 
-Treatment-related AML/MDS (t-AML/t-MDS) — including the alkylating-agent-related and radiation-related subtypes predicted here — is a recognized clinical entity that arises after prior cytotoxic chemotherapy or radiotherapy. It falls under the broader AML/MDS disease category and can, like de novo AML, harbor IDH1 R132 mutations. Because ivosidenib's approved mechanism targets the mutant enzyme itself rather than the AML's etiology, the pharmacological rationale for activity in IDH1-mutant t-AML/t-MDS is a reasonably direct extrapolation from the approved indication.
+Bulbar polio is a poliovirus infection of motor neurons, and no IDH1-driven pathway is involved. The high score (0.993) most likely comes from neighborhood proximity in the knowledge graph, not from real biology. The original-indication and mechanism-of-action fields are also missing from the input, which weakens the prediction further.
 
-That said, this is mechanistic extrapolation only: neither subtype has any registered trial or published study in this evidence pack confirming clinical activity, and the underlying prevalence of IDH1 mutations specifically within treatment-related AML/MDS populations is not established here.
+**Other predictions for this drug.** Two lower-ranked predictions are biologically plausible:
+- AML/MDS related to alkylating agents
+- AML/MDS related to radiation
+
+Both are therapy-related myeloid neoplasms, where IDH1 mutations can occur. Any benefit would probably be limited to IDH1-mutated cases. Both have the same score (0.9926), which suggests the graph collapsed them into one signal. They also have no supporting trials or literature, so they are research questions rather than new repurposing findings until existing AML/MDS labeling and trial subgroups are checked.
 
 ---
 
@@ -77,19 +78,19 @@ Currently no related literature available.
 
 ---
 
-## US/TW Market Information
+## US Market Information
 
-No license or marketing authorization records are available — ivosidenib is currently **not marketed in Taiwan** (0 licenses on file).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA 211192 | TIBSOVO (Servier Pharmaceutical LLC) | Film-coated tablet (oral) | Not listed in the supplied record |
 
 ---
 
 ## Cytotoxicity
 
-Ivosidenib is an antineoplastic agent (approved for IDH1-mutant AML/cholangiocarcinoma; targeted enzyme-inhibitor mechanism).
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (mutant IDH1 R132 enzyme inhibitor) |
+| Cytotoxicity Classification | Targeted therapy (mutant IDH1 inhibitor) |
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
 | Monitoring Items | Please refer to the package insert warnings and precautions |
@@ -101,8 +102,6 @@ Ivosidenib is an antineoplastic agent (approved for IDH1-mutant AML/cholangiocar
 
 Please refer to the package insert for safety information.
 
-*(Note: TFDA label/warning data for this drug is flagged as a Blocking data gap — DG001 — meaning no independent S1 safety assessment could be performed for this candidate.)*
-
 ---
 
 ## Conclusion and Next Steps
@@ -110,13 +109,12 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The predicted treatment-related AML/MDS indication has plausible mechanistic support but no supporting clinical trials or literature, and the drug is not currently marketed in Taiwan. A blocking data gap on TFDA safety labeling (DG001) also prevents a proper initial safety assessment (S1), so this candidate cannot advance past the research-question stage yet.
+The bulbar polio prediction has no plausible mechanism and no trial or literature support, and the high score is likely a graph artifact. The evidence is L5 only, and the package insert safety data has not been retrieved.
 
 **To proceed, the following is needed:**
-- TFDA label / warnings and contraindications (DG001 — Blocking)
-- Confirmed original MOA and approved-indication documentation for ivosidenib (DG002)
-- Literature search on IDH1 R132 mutation prevalence specifically within alkylating-agent- and radiation-related AML/MDS populations
-- Any available preclinical or case-level evidence of ivosidenib activity in treatment-related AML/MDS before considering formal clinical investigation
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action and original indications from DrugBank
+- For the therapy-related AML/MDS predictions: an IDH1 mutation-stratified evidence review, and a check of whether current labeling already covers these cases
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

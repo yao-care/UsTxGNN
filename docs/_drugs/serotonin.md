@@ -29,15 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-Using no additional skill — this is a structured content-generation task; proceeding directly per the provided template and evidence pack.
-
----
-
-# Serotonin: From Endogenous Neurotransmitter to Insomnia
+# Serotonin: From No Labeled Indication to Insomnia
 
 ## One-Sentence Summary
 
-> Serotonin (5-hydroxytryptamine) is an endogenous neurotransmitter with no approved drug indication of its own — it is not currently marketed in the jurisdiction covered by this evidence pack. TxGNN predicts a strong association with **Insomnia** (score 99.90%), but the **50 clinical trials** and **18 publications** identified all study downstream serotonergic drugs (trazodone, mirtazapine, SSRIs, pimavanserin) or non-pharmacological interventions — none administer serotonin itself, and the underlying pharmacology raises serious feasibility concerns for direct use.
+Serotonin (DrugBank DB08839) is sold in the US as liquid preparations, but the records list no approved indication.
+The TxGNN model predicts it may be useful for **insomnia** (score 99.90%), and the search returned **50 clinical trials** and **18 publications**.
+None of them tests serotonin itself. The evidence covers serotonin-related drugs and pathways, so this is a model-driven hypothesis, not a clinically supported one.
 
 ---
 
@@ -45,38 +43,42 @@ Using no additional skill — this is a structured content-generation task; proc
 
 | Item | Content |
 |------|------|
-| Original Indication | None on record — serotonin has no approved therapeutic indication (endogenous neurotransmitter; 0 licenses in dataset) |
-| Predicted New Indication | Insomnia (disease) |
+| Original Indication | Not stated (all listed US product records have empty indication text) |
+| Predicted New Indication | Insomnia |
 | TxGNN Prediction Score | 99.90% |
-| Evidence Level | L4 (mechanistic/preclinical; no interventional trial of serotonin itself) |
-| US Market Status | Not Marketed (Not marketed) |
-| Number of NDAs | 0 |
-| Recommended Decision | **Hold** |
+| Evidence Level | L4 (mechanistic/indirect evidence only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 10 records (authorization numbers not recorded, so unverified as NDAs) |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for serotonin as a drug product is not available in DrugBank for this candidate. Based on known pharmacology, serotonin (5-HT) is an endogenous monoamine synthesized from tryptophan that signals through the 5-HT1–7 receptor family distributed across the central and peripheral nervous system, gut, and vasculature. It has never been developed as a standalone therapeutic — a fact consistent with its extremely short plasma half-life (~2 minutes), inability to cross the blood-brain barrier, and pronounced peripheral vasoactive and gastrointestinal effects when given exogenously.
+Currently, detailed mechanism of action data is not available. Serotonin (5-HT) is a well-known neurotransmitter involved in sleep-wake regulation. Drugs that act on serotonin pathways, such as trazodone, mirtazapine and pimavanserin, affect sleep. This is the basis for the link to insomnia.
 
-The mechanistic link to insomnia is real: 5-HT1A/2A/2C receptor signaling helps regulate the sleep-wake cycle, and this is well documented in the literature. However, every one of the 50 clinical trials returned for this indication investigates a **downstream serotonergic drug** — trazodone, mirtazapine, pimavanserin, SSRIs/SNRIs — or a non-pharmacological intervention (acupuncture, probiotics, magnetotherapy). None administer serotonin itself. This is not a coincidence: drugs like SSRIs and trazodone were specifically developed as *indirect* modulators of the serotonin system precisely because direct serotonin administration is not clinically viable (poor CNS penetration, systemic side effects, risk of serotonin syndrome). TxGNN's high score therefore reflects strong network-level association between "serotonin" and "insomnia" concepts, not evidence that serotonin itself is an actionable drug candidate for this indication.
+Serotonin has no documented original indication in the records. The prediction therefore rests on graph proximity in the TxGNN knowledge graph, not on extending a proven use.
+
+There is also a major pharmacological caveat. Exogenous serotonin barely crosses the blood-brain barrier, so administering it is not equivalent to modulating central serotonin signaling. The high TxGNN score reflects graph proximity, not clinical support.
 
 ---
 
 ## Clinical Trial Evidence
 
+No listed trial administers serotonin for insomnia. The most relevant of the retrieved trials are shown below.
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT04532749](https://clinicaltrials.gov/study/NCT04532749) | Phase 3 | Terminated | 212 | Seltorexant (orexin antagonist) as adjunctive therapy to antidepressants in MDD with insomnia symptoms (MDDIS) inadequately responsive to SSRI/SNRI — not a serotonin agent |
-| [NCT06559306](https://clinicaltrials.gov/study/NCT06559306) | Phase 3 | Recruiting | 752 | Ongoing follow-up Seltorexant trial in MDDIS patients; evaluates efficacy/safety and maintenance of effect vs placebo |
-| [NCT06056258](https://clinicaltrials.gov/study/NCT06056258) | NA | Completed | 48 | Placebo-controlled trial of nutraceutical VL-NL-02 for sleep quality, restorative sleep, and mood |
-| [NCT00765752](https://clinicaltrials.gov/study/NCT00765752) | N/A | Completed | 23 | MRS study of cortical GABA levels in primary insomnia and in MDD patients with SSRI-residual insomnia — mechanistic, not interventional |
-| [NCT07229976](https://clinicaltrials.gov/study/NCT07229976) | NA | Not yet recruiting | 198 | Thumbtack-needle acupuncture for chronic insomnia in perimenopausal/menopausal women |
-| [NCT05705830](https://clinicaltrials.gov/study/NCT05705830) | NA | Unknown | 400 | Pulse magnetotherapy combined with medication for anxiety and insomnia |
-| [NCT03947216](https://clinicaltrials.gov/study/NCT03947216) | Phase 2 | Completed | 117 | Pimavanserin (5-HT2A inverse agonist) for impulse control disorders in Parkinson's disease — graded C relevance, not insomnia-specific |
-| [NCT00025740](https://clinicaltrials.gov/study/NCT00025740) | Phase 4 | Completed | 78 | Clonazepam + paroxetine (SSRI) combination for rapid PTSD treatment — graded C, indirect serotonin-pathway support only |
-| [NCT03321526](https://clinicaltrials.gov/study/NCT03321526) | Phase 2 | Completed | 107 | JNJ-42847922 vs quetiapine XR as adjunctive therapy in MDD inadequately responsive to SSRI — graded C |
-| [NCT03977441](https://clinicaltrials.gov/study/NCT03977441) | Phase 4 | Unknown | 240 | Agomelatine for sleep disorders and depression in Parkinson's disease; notes SSRI/clonazepam adverse effects including serotonin syndrome |
+| [NCT04532749](https://clinicaltrials.gov/study/NCT04532749) | Phase 3 | Terminated | 212 | Seltorexant (orexin antagonist) added to antidepressants in depression with insomnia symptoms |
+| [NCT06559306](https://clinicaltrials.gov/study/NCT06559306) | Phase 3 | Recruiting | 752 | Two-part seltorexant study of efficacy and maintenance of effect in depression with insomnia symptoms |
+| [NCT03977441](https://clinicaltrials.gov/study/NCT03977441) | Phase 4 | Unknown | 240 | Agomelatine for sleep disorders and depression in Parkinson's disease |
+| [NCT00765752](https://clinicaltrials.gov/study/NCT00765752) | N/A | Completed | 23 | Cortical GABA levels (MRS) in primary insomnia and depression with residual insomnia |
+| [NCT05705830](https://clinicaltrials.gov/study/NCT05705830) | N/A | Unknown | 400 | Pulse magnetic therapy plus medication for anxiety with insomnia |
+| [NCT07229976](https://clinicaltrials.gov/study/NCT07229976) | N/A | Not yet recruiting | 198 | Thumbtack needle for chronic insomnia in perimenopausal and menopausal women |
+| [NCT06056258](https://clinicaltrials.gov/study/NCT06056258) | N/A | Completed | 48 | VL-NL-02 versus placebo on sleep quality and mood |
+| [NCT05400005](https://clinicaltrials.gov/study/NCT05400005) | N/A | Active, not recruiting | 54 | Higher dietary protein and sleep quality in older adults |
+| [NCT06893822](https://clinicaltrials.gov/study/NCT06893822) | N/A | Recruiting | 20 | Griffonia simplicifolia (5-HTP, a serotonin precursor) on pain modulation in healthy volunteers |
+| [NCT03947216](https://clinicaltrials.gov/study/NCT03947216) | Phase 2 | Completed | 117 | Pimavanserin (5-HT2A inverse agonist) for impulse control disorders in Parkinson's disease; different drug and condition |
 
 ---
 
@@ -84,30 +86,36 @@ The mechanistic link to insomnia is real: 5-HT1A/2A/2C receptor signaling helps 
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [40135470](https://pubmed.ncbi.nlm.nih.gov/40135470/) | 2025 | RCT | Age and Ageing | MIRAGE study: mirtazapine (blocks serotonin/histamine receptors) for chronic insomnia in older adults |
-| [34994734](https://pubmed.ncbi.nlm.nih.gov/34994734/) | 2021 | Review | Psychiatria Polska | Compares trazodone vs hypnotics for insomnia; summarizes evidence for serotonergic sedative antidepressants |
-| [24685396](https://pubmed.ncbi.nlm.nih.gov/24685396/) | 2014 | Review | Sleep Medicine Reviews | Insomnia pathophysiology framework (predisposing, precipitating, perpetuating factors) |
-| [26744739](https://pubmed.ncbi.nlm.nih.gov/26744739/) | 2015 | Review | Drugs of Today | Pharmacology review of pimavanserin (5-HT2A inverse agonist) |
-| [41123484](https://pubmed.ncbi.nlm.nih.gov/41123484/) | 2025 | Review | Annals of Medicine | Circadian clock gene dysregulation as a core mechanism in insomnia |
-| [21537726](https://pubmed.ncbi.nlm.nih.gov/21537726/) | 2011 | Review | Rev Bras Psiquiatr | Serotonergic transmission linking sleep and depression via sedative antidepressants |
-| [37834999](https://pubmed.ncbi.nlm.nih.gov/37834999/) | 2023 | Observational | J Clin Med | Serum 5-HT and SERT expression correlate with depressive/insomnia symptoms in inflammatory bowel disease |
-| [41392764](https://pubmed.ncbi.nlm.nih.gov/41392764/) | 2026 | Preclinical | Food & Function | Probiotic strain ameliorates insomnia in a mouse model by restoring GABA and serotonin signaling |
-| [39519543](https://pubmed.ncbi.nlm.nih.gov/39519543/) | 2024 | Preclinical | Nutrients | Lactobacillus plantarum reduces stress-induced insomnia/depression-like behavior in mice |
-| [39183410](https://pubmed.ncbi.nlm.nih.gov/39183410/) | 2024 | Observational | Medicine | Moxibustion + ear acupuncture + alprazolam improves neurotransmitter levels in coronary heart disease patients with insomnia |
+| [40135470](https://pubmed.ncbi.nlm.nih.gov/40135470/) | 2025 | RCT (design) | Age and Ageing | MIRAGE study: mirtazapine, which blocks serotonin and histamine receptors, for chronic insomnia in older adults; efficacy still to be shown |
+| [34994734](https://pubmed.ncbi.nlm.nih.gov/34994734/) | 2021 | Review | Psychiatria Polska | Compares trazodone with hypnotics and reviews the evidence for trazodone in insomnia |
+| [21537726](https://pubmed.ncbi.nlm.nih.gov/21537726/) | 2011 | Review | Rev Bras Psiquiatr | Sedative antidepressants and how serotonergic transmission links sleep and depression |
+| [24685396](https://pubmed.ncbi.nlm.nih.gov/24685396/) | 2014 | Review | Sleep Med Rev | General insomnia research framework (3P model) |
+| [30194544](https://pubmed.ncbi.nlm.nih.gov/30194544/) | 2019 | Review | Handb Exp Pharmacol | FDA-approved non-SSRI antidepressants (mirtazapine, trazodone and others) and their receptor targets |
+| [41123484](https://pubmed.ncbi.nlm.nih.gov/41123484/) | 2025 | Review | Annals of Medicine | Circadian clock gene dysregulation as a molecular mechanism of insomnia |
+| [37834999](https://pubmed.ncbi.nlm.nih.gov/37834999/) | 2023 | Observational | J Clin Med | Serotonin, its transporter and sleep/mood disorders in inflammatory bowel disease |
+| [39183410](https://pubmed.ncbi.nlm.nih.gov/39183410/) | 2024 | Retrospective | Medicine | Moxibustion, ear acupuncture and alprazolam: effects on neurotransmitters in coronary heart disease with insomnia |
+| [41392764](https://pubmed.ncbi.nlm.nih.gov/41392764/) | 2026 | Preclinical (mouse) | Food & Function | Bifidobacterium Bbm-19 improved insomnia and restored GABA and serotonin signaling |
+| [39519543](https://pubmed.ncbi.nlm.nih.gov/39519543/) | 2024 | Preclinical (mouse) | Nutrients | Lactobacillus plantarum reduced stress-induced insomnia and depression-like behavior |
 
 ---
 
 ## US Market Information
 
-No marketing authorizations were found. Serotonin is not currently registered as an approved drug product in the reviewed dataset (0 licenses; market status: Not Marketed / Not marketed). Serotonin is used clinically only as an endogenous biomarker/reference compound, not as a formulated therapeutic.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Not recorded | Serotonin (BioActive Nutritional) | Liquid | Not stated |
+| Not recorded | Serotonin (BioActive Nutritional) | Liquid | Not stated |
+| Not recorded | Serotonin Phenolic (Energique, Inc.) | Liquid | Not stated |
+| Not recorded | Serotonin (BioActive Nutritional, Inc.) | Liquid | Not stated |
+| Not recorded | Serotonin (Deseret Biologicals, Inc.) | Liquid | Not stated |
+
+Ten records exist in total, and only five are shown above. All are liquid products with no authorization number or indication text on file.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No formal drug-safety data (warnings, contraindications, or DDI records) is currently available for this candidate.
-
-**Important caveat surfaced in mechanistic review:** exogenous serotonin has an extremely short plasma half-life, does not cross the blood-brain barrier, and is associated with peripheral vasoactive and gastrointestinal effects — properties that historically made direct serotonin administration clinically impractical and drove development of indirect serotonergic agents (SSRIs, trazodone, triptans) instead.
+Please refer to the package insert for safety information.
 
 ---
 
@@ -116,13 +124,14 @@ Please refer to the package insert for safety information. No formal drug-safety
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic link between serotonin signaling and insomnia is well established, but no clinical evidence tests serotonin itself as a therapeutic agent — all identified trials and most literature concern downstream serotonergic drugs. Combined with the missing TFDA label data (blocking safety gap) and missing MOA confirmation, this candidate cannot yet proceed to a safety-guardrail decision.
+The high TxGNN score is not backed by any trial or publication that tests serotonin for insomnia. The supporting evidence concerns other serotonergic drugs or general biology, and exogenous serotonin barely crosses the blood-brain barrier. The market records also show no approved indication or authorization numbers, and safety data are missing.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (blocking gap — required before any S1 safety evaluation)
-- Confirmed mechanism-of-action data via DrugBank API query
-- Clarification of drug identity/strategy: whether "serotonin" here represents a literal exogenous-serotonin candidate, or should instead be reinterpreted as a class-level signal pointing to serotonergic precursors (e.g., 5-HTP) or receptor-selective agents
-- Pharmacokinetic/route-of-administration feasibility assessment given known BBB-penetration and half-life limitations
+- Package insert warnings and contraindications, which block any safety screening
+- Mechanism of action data (for example from DrugBank)
+- Verified US regulatory status and authorization numbers for the listed liquid products
+- Evidence that a serotonin-based product can reach the central nervous system, or a switch to a precursor or receptor-targeted approach
+- Controlled clinical data in insomnia from a serotonin-based intervention
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

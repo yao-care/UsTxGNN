@@ -29,37 +29,35 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# DEANOL: From Choline Precursor to Insomnia
+# Deanol: From an Unspecified Original Indication to Insomnia
 
 ## One-Sentence Summary
 
-DEANOL (2-dimethylaminoethanol, DMAE) is an endogenous choline precursor with historical use as a nootropic supplement, but holds no formal regulatory approval on record.
-The TxGNN model predicts it may be effective for **Insomnia**, achieving a high prediction score of **99.87%**;
-however, **no clinical trials or published literature** currently support this repurposing direction, placing the evidence at the lowest possible level (L5).
+Deanol (DMAE) is a liquid product marketed in the United States. The record lists no original approved indication.
+The TxGNN model predicts it may be effective for **insomnia** with a very high score, but **0 clinical trials** and **0 publications** currently support this direction. It is a model prediction only.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not established (no regulatory approval on record) |
+|------|------|
 | Predicted New Indication | Insomnia |
 | TxGNN Prediction Score | 99.87% |
 | Evidence Level | L5 |
-| Market Status | ✗ Not marketed |
-| Number of Approvals | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 (the license number in the record is blank, so it is not a verified NDA number) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-DEANOL (2-dimethylaminoethanol, DMAE) is an endogenous compound and a known biosynthetic precursor to choline and, ultimately, acetylcholine (ACh). The cholinergic system plays a well-established role in regulating REM sleep — including the initiation of ponto-geniculo-occipital (PGO) waves and rapid eye movement activity. This mechanistic proximity between the cholinergic pathway and sleep regulation is the theoretical basis upon which TxGNN links DEANOL to insomnia.
+Detailed mechanism of action data is not currently available for deanol. Deanol is generally described as a choline precursor, so a cholinergic pathway is a plausible link to sleep regulation. This link is speculative and not verified by the supplied data.
 
-However, this mechanistic bridge faces serious practical limitations. First, DMAE's blood-brain barrier penetration is limited and its in vivo conversion efficiency to ACh in the human central nervous system is very low, undermining its pharmacological relevance as a sleep modulator. Second, and more critically, clinical observations suggest that DMAE may actually worsen sleep onset — rather than improve it — due to its mild CNS stimulant properties. There are currently no polysomnography (PSG) data from human or animal studies that support a beneficial effect on insomnia.
+The direction of effect is also uncertain. Increased cholinergic tone is usually associated with arousal and REM modulation, so deanol could even worsen insomnia rather than help it. No original indication is recorded, so we cannot compare the new indication with an established use.
 
-The high TxGNN score (0.9987) most likely reflects the topological proximity between cholinergic nodes and sleep-related nodes in the knowledge graph, rather than indication-specific mechanistic or clinical evidence. This is a case where graph-based prediction outpaces empirical validation — the predicted association is structurally plausible but pharmacologically questionable.
+The TxGNN score is very high (rank 4117), but it reflects a knowledge-graph pattern and not clinical proof. Independent confirmation is needed before this prediction is treated as credible.
 
 ---
 
@@ -75,9 +73,17 @@ Currently no related literature available.
 
 ---
 
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Not specified | DMAE (Professional Complementary Health Formulas) | Liquid | Not specified |
+
+---
+
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No drug interactions were found in the queried data.
 
 ---
 
@@ -86,14 +92,16 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-There is no clinical trial or published literature evidence supporting DEANOL for insomnia, and its known pharmacological characteristics — mild CNS stimulation and poor central ACh conversion — suggest it may be mechanistically counterproductive for this indication.
+The prediction rests on the model score alone (L5). There are no trials or publications, and the mechanism is unverified. The cholinergic hypothesis could point the wrong way for sleep. The product's safety information is also missing, which blocks safety screening.
 
 **To proceed, the following is needed:**
-- Mechanism of action (MOA) data, particularly CNS penetration studies and quantified in vivo ACh conversion efficiency
-- Polysomnography (PSG) studies in animal models to objectively characterize any effect on sleep architecture
-- Full safety profile: package insert warnings, contraindications, and drug interaction screening
-- Regulatory status assessment in major markets (US FDA, EMA) to clarify whether any prior approvals exist under other indications
-- Evaluation of whether any CNS-targeting formulation (e.g., lipophilic prodrug) could overcome the blood-brain barrier limitation before revisiting this prediction
+- Package insert warnings and contraindications (blocking; needed for safety screening)
+- Mechanism of action data (for example, from the DrugBank API) and a clear analysis of the direction of effect on sleep
+- A literature and trial search specific to deanol/DMAE and insomnia or sleep
+- Confirmation of the product's regulatory status, since the license number is blank and the product looks like a complementary health formula, not an NDA drug
+- Route and formulation compatibility assessment for the new indication
+
+*These results are for research reference only and do not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

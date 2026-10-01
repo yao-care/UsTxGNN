@@ -33,33 +33,33 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-> Trifarotene is a topical retinoid publicly known for the treatment of acne vulgaris.
-> The TxGNN model predicts it may be relevant to **Zinc, Elevated Plasma**,
-> but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a model-only signal with no corroborating evidence.
+Trifarotene is a topical retinoid marketed in the US as AKLIEF cream. It is generally known as a treatment for acne vulgaris, although the dataset does not list an original indication.
+The TxGNN model predicts it may be effective for **elevated plasma zinc**, but there are **0 clinical trials** and **0 publications** behind this prediction.
+Elevated plasma zinc is a laboratory finding rather than a treatable disease, so the high score is most likely a knowledge-graph artifact.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Acne vulgaris (topical retinoid) — not present in evidence pack, based on public drug information |
-| Predicted New Indication | Zinc, Elevated Plasma |
-| TxGNN Prediction Score | 99.40% (rank 13,778) |
+|------|------|
+| Original Indication | Acne vulgaris (from general pharmacology; the dataset's approved indication text is empty) |
+| Predicted New Indication | Zinc, elevated plasma |
+| TxGNN Prediction Score | 99.40% |
 | Evidence Level | L5 |
-| US Market Status | Not marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap, DG002). Based on publicly known information, trifarotene is a retinoic acid receptor gamma (RAR-γ) selective agonist used topically for acne vulgaris. Its efficacy in that original indication is well established, but no mechanistic pathway data is currently available in this evidence pack to explain a plausible link between RAR-γ agonism and elevated plasma zinc levels.
+Currently, detailed mechanism of action data is not available in the dataset. From general pharmacology, trifarotene is a topical selective retinoic acid receptor gamma (RAR-gamma) agonist, and its efficacy in acne vulgaris is established.
 
-The model's own repurposing rationale fields for this candidate are marked `pending`, meaning TxGNN has not yet generated an explanatory mechanistic narrative for this pairing. Without literature, clinical trial data, or MOA-based reasoning, the connection between the original and predicted indications cannot currently be substantiated beyond the raw prediction score.
+**This prediction is not mechanistically plausible.** Elevated plasma zinc is a laboratory finding with no therapeutic target. Trifarotene has no known role in zinc homeostasis. The high score (0.994) likely reflects retinoid–zinc associations in the knowledge graph rather than any clinical signal. The absence of evidence here reflects a lack of plausibility as well as a lack of studies.
 
-It is worth noting that the second-ranked candidate, **pyogenic arthritis-pyoderma gangrenosum-acne syndrome (PAPA syndrome)** (score 99.32%, rank 15,213), has a more intuitive phenotypic overlap with the original indication, since acne is a defining feature of PAPA syndrome. This candidate may warrant separate evaluation even though it falls outside the scope of the rank-1 prediction covered here.
+The second-ranked prediction, PAPA syndrome (pyogenic arthritis, pyoderma gangrenosum and acne), is only weakly and indirectly linked. A topical RAR-gamma agonist could at best help the acne lesions. It is unlikely to affect the IL-1-driven arthritis or pyoderma gangrenosum. It also has a high score (99.32%) but no trials or literature.
 
 ---
 
@@ -77,15 +77,17 @@ Currently no related literature available.
 
 ## US Market Information
 
-No marketing authorization is currently on file for trifarotene in this dataset (0 licenses, market status: Not marketed).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA211527 | AKLIEF (Galderma Laboratories, L.P.) | Cream (topical) | Not specified in the dataset |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: The DDI query returned no records.
 
-*(Note: TFDA/FDA label warnings and contraindications are marked as a Blocking data gap (DG001) — this prevents any formal safety review of this candidate.)*
+Please refer to the package insert for warnings and contraindications.
 
 ---
 
@@ -94,14 +96,16 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-This candidate has no clinical trial or literature evidence (L5, model-prediction-only), the drug has no confirmed marketing status in this dataset, and safety labeling data required for even a preliminary safety screen is missing (Blocking gap DG001). There is insufficient basis to advance this prediction.
+The prediction rests on a model score alone (L5), with no trials, no literature and no credible mechanism. Elevated plasma zinc is not a treatable disease, so the high score is probably an artifact.
 
 **To proceed, the following is needed:**
-- TFDA/FDA package insert data (warnings, contraindications) — resolves DG001, required before any S1 safety screen
-- Mechanism of action (MOA) data — resolves DG002, needed to assess mechanistic plausibility
-- Literature or preclinical search specifically on trifarotene and zinc metabolism/homeostasis
-- Confirmation of current US marketing status and license details
-- Consider evaluating the rank-2 candidate (PAPA syndrome) in parallel, given its stronger phenotypic rationale
+- A plausible biological link between RAR-gamma agonism and zinc handling. Without it, this candidate should not advance.
+- The FDA package insert warnings and contraindications (a blocking gap for safety screening).
+- Mechanism of action data from DrugBank.
+- Route compatibility assessment, since trifarotene is available only as a topical cream.
+- For the PAPA syndrome prediction, any follow-up would be hypothesis-generating only and limited to the acne component. It needs supporting clinical data first.
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

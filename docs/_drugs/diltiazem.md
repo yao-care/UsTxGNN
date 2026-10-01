@@ -29,37 +29,29 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-Using no additional skill here — this is a direct report-generation task from a fully-specified Evidence Pack template, not a TxGNN pipeline operation or research task requiring tooling.
-
-I reviewed the Evidence Pack carefully before drafting. Key characteristics that shape this report: `original_indications` is empty, `original_moa` is a data gap, `taiwan_regulatory.licenses` is empty (0 licenses, not marketed), all `safety` fields are data gaps, and the single predicted indication has **zero** clinical trials and **zero** literature despite a high raw TxGNN score — explicitly scored L5/S0/Hold in the pack itself. Per the prohibitions, I've omitted the Market Information and Cytotoxicity sections entirely (no license data; diltiazem is a calcium channel blocker, not antineoplastic) and excluded all literal "[Data Gap]" tokens, replacing them with plain statements of what's missing.
-
----
-
-# Diltiazem: From an Undocumented Original Indication to Ischemic Stroke Susceptibility
+# Diltiazem: From Cardiovascular Use to Obsolete Susceptibility to Ischemic Stroke
 
 ## One-Sentence Summary
 
-Diltiazem's original approved indication and mechanism of action are not documented in this evidence pack (both flagged as data gaps). The TxGNN model predicts a possible association with **Ischemic Stroke Susceptibility** (recorded in the knowledge graph under the label "obsolete susceptibility to ischemic stroke"), with a high raw model score of **99.08%** but **zero supporting clinical trials and zero publications** — the weakest possible evidence tier.
+Diltiazem is a calcium channel blocker sold in the US in oral extended-release and injectable forms. The TxGNN model predicts it may be relevant to **obsolete susceptibility to ischemic stroke**, but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no approved indication data in this evidence pack |
-| Predicted New Indication | Obsolete Susceptibility to Ischemic Stroke |
+| Original Indication | Not available in the record (the approved indication text of the listed licenses is empty) |
+| Predicted New Indication | obsolete susceptibility to ischemic stroke |
 | TxGNN Prediction Score | 99.08% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed (0 licenses on file) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for diltiazem is not available in this evidence pack, and no original indication is on file either, so the drug's known clinical history cannot be directly compared against the predicted indication using this dataset alone.
+Currently, detailed mechanism of action data is not available. Based on general knowledge (not from this dataset), diltiazem is an L-type calcium channel blocker. Its vasodilatory and blood-pressure-lowering effects could plausibly relate to stroke risk, but this dataset offers no evidence to verify that link.
 
-As general pharmacological background (not sourced from this evidence pack), diltiazem is a non-dihydropyridine calcium channel blocker, a class that in principle could influence blood pressure control, cerebral vasodilation, and vasospasm — mechanisms that are plausibly relevant to ischemic stroke risk. However, this is external background knowledge, not a mechanistic link established by the data in hand, and it should not be treated as evidence.
-
-Two additional concerns limit confidence further: first, the predicted disease label itself — "obsolete susceptibility to ischemic stroke" — carries the word "obsolete," suggesting it may be a deprecated or residual knowledge-graph node label rather than a clean clinical diagnosis (e.g., "secondary prevention of ischemic stroke"). It is unclear whether this maps to a standard clinical concept. Second, the high TxGNN score (99.08%) reflects only model confidence, not corroborating evidence — the pack itself grades this as Evidence Level L5 (model prediction only) and Decision Stage S0, meaning no clinical trial, literature, or mechanistic confirmation currently exists.
+The predicted disease name is also an obsolete ontology term. "Susceptibility to ischemic stroke" is a vague concept rather than a defined clinical indication. Before any evidence search or review, it should be mapped to a current term, such as ischemic stroke prevention. The similarity between the original and new indications is still pending, because no original indications were recorded.
 
 ## Clinical Trial Evidence
 
@@ -69,25 +61,36 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA216968 | Diltiazem Hydrochloride | Capsule, extended release | Not listed |
+| ANDA074617 | Diltiazem Hydrochloride | Injection, solution | Not listed |
+| ANDA075116 | Diltiazem Hydrochloride | Capsule, extended release | Not listed |
+| ANDA212317 | Diltiazem Hydrochloride | Capsule, extended release | Not listed |
+| ANDA208783 | Diltiazem Hydrochloride | Capsule, extended release | Not listed |
+
+Other US dosage forms include tablets (film-coated and extended-release), coated extended-release capsules, and lyophilized powder for injection.
+
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-*(Note: a drug-drug interaction query and a TFDA label/warning query were both attempted and returned no results — this is a data availability gap, not a confirmation of safety.)*
+Please refer to the package insert for safety information. No drug interaction records were found for this drug in the dataset.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This candidate rests entirely on an unverified model prediction (L5, Decision Stage S0) with no supporting clinical trials, no literature, and no confirmed original-indication or mechanism-of-action data to justify the mechanistic rationale. The drug is also not currently marketed (0 licenses on file), and a **Blocking**-severity data gap (missing TFDA label warnings/contraindications) means this candidate cannot even proceed to the S1 safety pre-screening stage yet.
+The only support is a model prediction score (L5). There are no trials or publications, and the predicted disease term is obsolete and ill-defined. The evidence is not enough to move forward.
 
 **To proceed, the following is needed:**
-- TFDA package insert data (warnings, contraindications) — currently blocking any safety pre-assessment
-- Confirmed mechanism-of-action (MOA) data for diltiazem from DrugBank
-- Clarification of the predicted disease label "obsolete susceptibility to ischemic stroke" against a standard clinical terminology (e.g., ICD/MeSH) to confirm it is not a deprecated knowledge-graph artifact
-- At least preliminary clinical trial or literature evidence connecting diltiazem to ischemic stroke risk reduction before advancing past model-prediction-only status
-- Drug-drug interaction data, since the current query returned no results
+- Map the obsolete disease term to a current one (for example, ischemic stroke prevention)
+- Search trials and literature under the mapped term
+- Obtain mechanism of action data from DrugBank
+- Obtain the package insert warnings and contraindications (currently a blocking gap for safety screening)
+- Confirm the approved indications for the US licenses
+- Assess route compatibility (oral vs. injectable) once the indication is defined
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

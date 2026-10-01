@@ -29,79 +29,69 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Racepinephrine: From Vasoconstrictor/Adrenergic Therapy to Primary Hereditary Glaucoma
+# Racepinephrine: From Inhaled Airway Use to Primary Hereditary Glaucoma
 
 ## One-Sentence Summary
 
-> Racepinephrine (DB11124) is the racemic form of epinephrine, an adrenergic agonist historically used for its vasoconstrictive and bronchodilatory properties (e.g., nebulized therapy for croup, topical hemostasis); it is **not currently marketed in Taiwan**, so no official Taiwan-approved indication is on file.
-> The TxGNN model predicts it may be effective for **Primary Hereditary Glaucoma**,
-> with **0 clinical trials** and **0 publications** currently directly supporting this specific drug-disease pair — the signal rests entirely on adrenergic mechanism reasoning.
-
----
+Racepinephrine is racemic epinephrine, an adrenergic agonist marketed in the US for inhaled airway use.
+The TxGNN model predicts it may be effective for **primary hereditary glaucoma**, but **0 clinical trials** and **0 publications** support this prediction, so it is a model output only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — drug is not marketed in Taiwan (0 licenses on file). Internationally, racemic epinephrine is used as an inhaled agent for croup/post-extubation stridor and as a topical vasoconstrictor/hemostatic. |
-| Predicted New Indication | Primary Hereditary Glaucoma |
+| Original Indication | No approved-indication text in the supplied license records; marketed as an inhaled airway product |
+| Predicted New Indication | Primary hereditary glaucoma |
 | TxGNN Prediction Score | 99.58% |
-| Evidence Level | L4 (mechanism-based, no direct clinical trials or literature) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 5 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for racepinephrine is not available (DrugBank MOA field is a confirmed data gap). Based on known pharmacology, racepinephrine is the racemic mixture of epinephrine enantiomers and acts as a non-selective α/β adrenergic receptor agonist — the same pharmacological class as epinephrine itself.
+Detailed mechanism of action data is not currently available. Racepinephrine is racemic epinephrine, a non-selective adrenergic agonist formulated for inhalation. Its efficacy in airway conditions is the basis of its US marketing.
 
-Adrenergic agonists have a well-established, if largely historical, mechanistic link to intraocular pressure (IOP) control: α-receptor activation reduces aqueous humor production, while β-receptor activation promotes uveoscleral outflow. Topical epinephrine and its prodrug dipivefrin were once used clinically for open-angle glaucoma before being largely superseded by prostaglandin analogs and β-blockers. The TxGNN model's top prediction — **primary hereditary glaucoma**, a rare genetic subtype of glaucoma — plausibly draws on this class-level mechanism. Notably, the model also ranked the related, more common phenotype **open-angle glaucoma** at rank 3 (score 99.56%) with an identical mechanistic rationale, reinforcing that the signal is being driven by the adrenergic-IOP pathway rather than a target unique to the hereditary subtype.
+The mechanistic link to this prediction is weak. Primary hereditary glaucoma is mainly a structural or developmental outflow disorder, so a drug-specific mechanism is hard to justify. The high score (0.996) more likely reflects proximity in the knowledge graph than established biology. No trials or literature were supplied to support it.
 
-However, primary hereditary glaucoma involves distinct genetic and pathophysiological features (e.g., trabecular meshwork developmental abnormalities) that are not fully equivalent to the acquired/idiopathic open-angle glaucoma population in which adrenergic agents were historically studied. This is therefore a class-level mechanistic extrapolation rather than a disease-specific hypothesis, and no clinical or literature evidence currently exists for racepinephrine in either glaucoma phenotype.
-
----
+Another prediction is more plausible: **open-angle glaucoma** (rank 3, score 99.56%). Adrenergic agonists as a class, including epinephrine, have been reported to lower intraocular pressure (background knowledge, not part of the supplied data). However, none of the 6 matched trials tested racepinephrine (they cover corticosteroids, surgical adjuncts, drainage devices and anesthesia). Racepinephrine is also formulated for inhalation, so ocular dose, formulation and safety are unestablished. A literature review of adrenergic agonists in glaucoma would be reasonable before any clinical step.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
-*(Note: rank-3 prediction "open-angle glaucoma" returned 6 clinical trials in the evidence pack, but all were graded "C" relevance — testing unrelated interventions such as suprachoroidal triamcinolone, bevacizumab, and glaucoma drainage devices, none involving racepinephrine or epinephrine-class agents. These do not constitute supporting evidence for this drug.)*
-
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-Racepinephrine has no marketing authorization records in the Taiwan regulatory dataset (`market_status: Not marketed`, 0 total licenses). No license table can be generated.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| M012 | BeC Racepinephrine (Blue Echo Care LLC) | Liquid | Not specified in record |
+| M012 | S2 (Nephron Pharmaceuticals Corporation) | Solution | Not specified in record |
+| M012 | NebuClear MD (Blue Echo Care LLC) | Liquid | Not specified in record |
+| M012 | Asthmanefrin (Nephron Pharmaceuticals Corporation) | Solution | Not specified in record |
+| M012 | Device - NebuClear MD Hand-held Rubber Bulb Nebulizer (Blue Echo Care LLC) | Aerosol, spray | Not specified in record |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug-drug interaction data are all currently unavailable in the evidence pack — flagged as **Blocking** data gap DG001, since TFDA label warnings/contraindications have not yet been retrieved.)
-
----
+Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication (primary hereditary glaucoma) is supported only by class-level adrenergic mechanism reasoning (L4), with zero clinical trials or literature directly evaluating racepinephrine in any glaucoma population. Combined with a **Blocking** safety data gap (no TFDA label, warnings, or contraindications available) and the fact that the drug is not currently marketed in Taiwan, there is insufficient evidence to advance past a research-question stage.
+The prediction rests on a model score alone, with no supporting trials or literature. The mechanism is implausible for a hereditary structural glaucoma, and the drug is formulated for inhalation, not ocular use.
 
 **To proceed, the following is needed:**
-- Retrieve and parse the TFDA (or equivalent regulatory) package insert for warnings/contraindications (resolves DG001, currently blocking S1 safety screening)
-- Confirm mechanism of action via DrugBank API (resolves DG002)
-- Identify any epinephrine/adrenergic-class precedent literature or trials in open-angle or hereditary glaucoma to establish at least indirect class evidence
-- Assess route compatibility — ophthalmic/topical delivery data for racepinephrine is not yet characterized (`route_compatibility.status: pending`)
-- Given the drug's adrenergic profile, prioritize cardiovascular safety review (arrhythmia, hypertension risk) before any further evaluation
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data
+- A literature review of adrenergic agonists and intraocular pressure. Open-angle glaucoma is the more defensible target than primary hereditary glaucoma.
+- Ocular formulation, dose and safety assessment, since the current products are for inhalation
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

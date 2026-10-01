@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Oxaprozin: From NSAID (Anti-Inflammatory/Analgesic Use) to Acromesomelic Dysplasia, Hunter-Thompson Type
+# Oxaprozin: From an NSAID to Acromesomelic Dysplasia, Hunter-Thompson Type
 
 ## One-Sentence Summary
 
-> Oxaprozin is a nonsteroidal anti-inflammatory drug (NSAID); detailed original indication and mechanism-of-action records are not available in this evidence pack, and the drug is not currently marketed in Taiwan/US per the data on file.
-> The TxGNN model predicts a possible link to **Acromesomelic Dysplasia, Hunter-Thompson Type**, a rare genetic skeletal disorder,
-> but this prediction is supported by **0 clinical trials** and **0 publications** — the model's own rationale flags it as likely a false-positive knowledge graph association.
+Oxaprozin is a nonsteroidal anti-inflammatory drug (NSAID) that inhibits COX-1 and COX-2, and it is currently marketed in the United States.
+The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunter-Thompson type**, but **0 clinical trials** and **0 publications** support this prediction.
+The result rests on a knowledge-graph score alone and is not credible as a repurposing lead.
 
 ---
 
@@ -43,23 +43,27 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on file (no Taiwan/US license record; per embedded rationale text, oxaprozin is an NSAID with COX-1/COX-2 inhibitory, analgesic/anti-inflammatory activity) |
-| Predicted New Indication | Acromesomelic Dysplasia, Hunter-Thompson Type |
-| TxGNN Prediction Score | 99.98% (global rank 1140) |
-| Evidence Level | L5 (model prediction only, no supporting trials or literature) |
-| US Market Status | Not marketed (Not Marketed) |
-| Number of NDAs | 0 |
-| Recommended Decision | **Hold** |
+| Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
+| TxGNN Prediction Score | 99.98% |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 14 |
+| Recommended Decision | Hold |
+
+The supplied records do not include an approved indication for oxaprozin, so the original indication is omitted from this table.
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism-of-action data is not available for oxaprozin in this evidence pack (flagged as a High-severity data gap, DG002). Based on the information embedded in the model's own rationale, oxaprozin is a conventional NSAID acting through COX-1/COX-2 inhibition to relieve pain and inflammation — the pharmacological basis typically applied to osteoarthritis, rheumatoid arthritis, and related joint disorders.
+Detailed mechanism of action data is not available in the record. Based on known information, oxaprozin is an NSAID that inhibits COX-1 and COX-2, so its effects are anti-inflammatory and analgesic.
 
-The top-ranked predicted indication, however, is Acromesomelic Dysplasia, Hunter-Thompson Type — a rare inherited skeletal dysplasia caused by GDF5 gene mutations, affecting limb development rather than active inflammation. The model's own repurposing rationale explicitly states there is **no biological mechanistic link** between NSAID pharmacology and this disorder, and attributes the high score to likely noise from generic "skeletal/joint" node connections in the knowledge graph rather than a genuine pharmacological signal.
+The predicted disease is a rare genetic skeletal dysplasia caused by defects in the CDMP1/GDF5 pathway. COX inhibition does not address this underlying defect, and no plausible mechanistic link was identified. The score of 0.9998 (model rank 1140) is a knowledge-graph output with no trial or literature evidence behind it.
 
-Among the 10 predicted indications reviewed, only two (rank 5: spondyloarthropathy susceptibility; rank 9: RF-positive polyarticular juvenile idiopathic arthritis) retain a plausible NSAID-relevant mechanism — but both still lack any clinical trial or literature support and were also scored L5/Hold. The remaining candidates (ranks 1–4, 6, 8, 10) are rare monogenic skeletal/developmental syndromes with no inflammatory component, and rank 7 (rheumatoid nodulosis) has only weak theoretical plausibility. None currently clear even the earliest evidentiary bar for further evaluation.
+The other nine top predictions show the same pattern. Most are rare genetic or developmental disorders with no plausible link to COX inhibition, such as brachyolmia, pseudoachondroplasia and brachydactyly-syndactyly syndrome. Three are inflammatory-joint conditions where NSAIDs are a standard symptomatic class:
+
+- **Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis** (score 99.67%) is the most mechanistically coherent candidate. Oxaprozin may already carry labeling for juvenile arthritis, which would make it an existing use rather than repurposing. This must be checked against the label.
+- **Spondyloarthropathy, susceptibility to** (99.93%) and **rheumatoid nodulosis** (99.73%) are supported only by class-level reasoning, not oxaprozin-specific data.
 
 ---
 
@@ -77,13 +81,23 @@ Currently no related literature available.
 
 ## US Market Information
 
-Oxaprozin is not currently marketed in Taiwan/US per the records available (market status: Not marketed; total licenses: 0). No NDA or license entries are on file to summarize.
+The record lists 14 authorizations. The main ones are below; approved indication text was not provided for any of them.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA208633 | Oxaprozin | Tablet | Bryant Ranch Prepack |
+| ANDA075845 | Oxaprozin | Tablet | St. Mary's Medical Park Pharmacy |
+| ANDA075855 | Oxaprozin | Tablet, film coated | Bryant Ranch Prepack |
+| ANDA075855 | Oxaprozin | Tablet, film coated | Proficient Rx LP |
+| NDA217927 | Oxaprozin | Capsule | Ayurax, LLC |
+
+All listed forms are oral.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug-interaction data are not currently available; the TFDA package insert lookup is flagged as a Blocking data gap, DG001, and must be resolved before any safety evaluation can proceed.)
+Please refer to the package insert for safety information.
 
 ---
 
@@ -92,13 +106,13 @@ Please refer to the package insert for safety information. (Key warnings, contra
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction has a high TxGNN score but no clinical trial or literature support, and the model's own rationale identifies it as a likely false-positive/noise association with no biological plausibility. Combined with the drug's non-marketed status and missing MOA/safety data, there is currently no basis to advance any of the 10 predicted indications past initial screening.
+The prediction is supported only by a model score, with no trials, no literature and no plausible mechanistic link to a genetic skeletal dysplasia. The evidence level is L5, and the pipeline is still at stage S0.
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings/contraindications) — Blocking gap, required before any safety-stage (S1) evaluation
-- Verified mechanism-of-action data via DrugBank API
-- Independent literature/preclinical search specifically for the two mechanistically plausible candidates (spondyloarthropathy susceptibility, RF-positive polyarticular JIA), since none currently exists in this evidence pack
-- Re-run TxGNN candidate screening with lower priority on rare monogenic skeletal syndromes lacking inflammatory pathophysiology, to reduce noise in future candidate lists
+- Package insert warnings and contraindications, which are a blocking gap for safety screening
+- Detailed mechanism of action data (MOA) from DrugBank
+- Confirmation of oxaprozin's approved indications, including whether juvenile arthritis is already labeled
+- If the team wants to pursue this drug at all, re-evaluating the inflammatory-joint predictions (juvenile idiopathic arthritis, spondyloarthropathy) in place of the top-ranked skeletal dysplasia, along with a targeted literature and trial search for those conditions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

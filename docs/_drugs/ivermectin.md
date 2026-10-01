@@ -29,62 +29,66 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Ivermectin: From Parasitic Infections to Vulvovaginal Candidiasis
+# Ivermectin: From Antiparasitic Use to Vulvovaginal Candidiasis
 
 ## One-Sentence Summary
 
-Ivermectin is an avermectin-class antiparasitic agent; its formal original-indication and regulatory MOA records are not available in this evidence pack, but its established pharmacology targets invertebrate glutamate-gated chloride channels. The TxGNN model predicts potential activity against **Vulvovaginal Candidiasis**, but this ranking is currently supported by **0 clinical trials** and **0 publications** — it is a model-only signal with no mechanistic or empirical backing.
+Ivermectin is a marketed antiparasitic drug with oral, cream and lotion products in the US. The TxGNN model predicts it may be effective for **vulvovaginal candidiasis**, but **0 clinical trials** and **0 publications** currently support this prediction. It is a model-only signal with no supporting evidence.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not established from source data (drug not marketed; `original_indications` and `original_moa` are unrecorded). Known globally as an antiparasitic/anthelmintic agent per evidence-pack rationale text. |
-| Predicted New Indication | Vulvovaginal Candidiasis |
+| Original Indication | Not listed in the license data (ivermectin is known as an antiparasitic, e.g., for strongyloidiasis and scabies) |
+| Predicted New Indication | Vulvovaginal candidiasis |
 | TxGNN Prediction Score | 99.95% |
-| Evidence Level | L5 (model prediction only, no supporting trials or literature) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for ivermectin is not available in this evidence pack (flagged as a High-severity data gap). Based on well-established pharmacology, ivermectin is an avermectin-class macrocyclic lactone that activates glutamate-gated chloride channels found in invertebrates (nematodes, arthropods), producing its antiparasitic/antiscabietic effect — a mechanism with no known intersection with fungal pathogenesis.
+Currently, detailed mechanism of action data is not available in the Evidence Pack. Ivermectin's known action is on glutamate-gated chloride channels in invertebrates, which explains its antiparasitic use. It has no established clinical antifungal activity.
 
-Vulvovaginal candidiasis is caused by *Candida* species, a fungal pathogen with a fundamentally different cell biology (no glutamate-gated chloride channel target) from the helminths and arthropods ivermectin is designed against. There is no pharmacological or clinical precedent connecting antiparasitic activity to antifungal efficacy for this compound.
+Vulvovaginal candidiasis is a fungal infection, while ivermectin's proven uses are against parasites. No mechanistic link between the two has been established. The very high score (0.999) most likely reflects proximity in the knowledge graph, such as similarity to other anti-infective drugs, rather than biological or clinical support.
 
-Notably, 8 of the 9 diseases TxGNN ranked highest for ivermectin in this pack are *Candida*-related conditions (vulvovaginal, esophageal, neonatal, congenital, invasive candidiasis, *C. glabrata*) plus two unrelated gynecologic entities (HPV infection, atrophic vaginitis with no infectious component at all). This clustering suggests the high score reflects a graph-embedding similarity pattern rather than a biologically grounded signal — the model itself provides no mechanistic rationale, and the evidence pack's own analysis explicitly states the score "reflects knowledge-graph embedding similarity only, with no mechanistic support."
+Several other predictions for this drug are also Candida-related or vaginal conditions (esophageal, neonatal, congenital and invasive candidiasis, vulvovaginitis). All are L5 with no supporting trials. The two papers linked to these related predictions describe strongyloidiasis and crusted scabies, which are antiparasitic uses. Candidiasis appears in them only as a background condition, so they do not support an antifungal role.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
 ## US Market Information
 
-Ivermectin currently has no licensed products on record in this market (`total_licenses = 0`, market status: Not Marketed). No approved indication text is available to summarize.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA204154 | Ivermectin (Edenbridge Pharmaceuticals) | Tablet | Not listed |
+| ANDA210019 | Ivermectin (Bryant Ranch Prepack) | Cream | Not listed |
+| M031 | Ivometn ivermectin lice treatment (Shenzhen Zhenshangzekai Technology) | Lotion | Not listed |
+| M031 | Lice treatment dedicated (Shenzhen Zhenshangzekai Technology) | Lotion | Not listed |
+| NDA206255 | Ivermectin (Mayne Pharma) | Cream | Not listed |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-*(Note: TFDA-equivalent label warnings/contraindications are marked as a Blocking data gap — this alone prevents the candidate from entering the S1 safety pre-screen, independent of efficacy evidence.)*
+Please refer to the package insert for safety information. No drug interaction records were found in the queried source.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by TxGNN's embedding score (L5), with zero clinical trials or literature specific to vulvovaginal candidiasis, and no plausible mechanistic link between ivermectin's known antiparasitic pharmacology and antifungal activity. Separately, a Blocking data gap (missing label/warning data) already prevents this candidate from clearing the S1 safety pre-screen regardless of efficacy evidence.
+The prediction rests only on a knowledge-graph score. There are no clinical trials or publications, and no antifungal mechanism is established. Effective standard antifungal therapies already exist for candidiasis, so this candidate does not justify progression without new evidence.
 
 **To proceed, the following is needed:**
-- TFDA-equivalent label data (warnings/contraindications) to clear the Blocking safety gap (DG001)
-- Confirmed mechanism of action data from DrugBank or primary literature (DG002)
-- Preclinical/in-vitro evidence of antifungal activity against *Candida* spp. to establish a mechanistic hypothesis
-- At minimum, an observational study or case series directly addressing this indication before advancing past L5
+- Mechanism of action data and any in vitro evidence of activity against Candida species
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Preclinical or early clinical data for a vaginal or topical route, since route compatibility has not been assessed
+- Confirmation of the approved indications for the listed US products
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

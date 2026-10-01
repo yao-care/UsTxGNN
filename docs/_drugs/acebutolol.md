@@ -29,80 +29,72 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Acebutolol: Drug Repurposing Evaluation — No Predicted Indications Available
+# Acebutolol: From Beta-Blocker Therapy to Malignant Hypertensive Renal Disease
 
-## Summary
+## One-Sentence Summary
 
-Acebutolol (DrugBank ID: DB01193) is a beta-adrenergic blocking agent historically associated with cardiovascular indications such as hypertension and cardiac arrhythmias. The TxGNN model **did not generate any repurposing predictions** for this drug in the current evaluation run, and the drug is not marketed in Taiwan. Combined with missing mechanism of action and safety data, a full repurposing evaluation cannot be completed at this stage.
-
----
+Acebutolol is an oral beta-blocker (a cardioselective beta-1 blocker with mild intrinsic sympathomimetic activity). The labelled indication text is not included in the source record.
+The TxGNN model predicts it may be effective for **malignant hypertensive renal disease**.
+This prediction has **0 clinical trials** and **0 publications** directly supporting it, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not available in current data |
-| Predicted New Indication | None — TxGNN returned no predictions |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A |
-| Taiwan Market Status | Not marketed |
-| Number of Licenses | 0 |
-| Recommended Decision | **Hold** |
+|------|------|
+| Predicted New Indication | Malignant hypertensive renal disease |
+| TxGNN Prediction Score | 99.10% |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 10 (all listed licenses are generic ANDAs) |
+| Recommended Decision | Hold |
 
----
+## Why is This Prediction Reasonable?
 
-## Why No Predictions Were Generated
+Detailed mechanism of action data is not available in the record. Based on known drug-class information, acebutolol is a cardioselective beta-1 blocker. Beta-1 blockade reduces renin release, which lowers blood pressure. Hypertension-driven kidney injury is plausibly relevant to that effect.
 
-Currently, confirmed original indication data and detailed mechanism of action data are not available in this Evidence Pack. Based on known pharmacological literature, acebutolol belongs to the cardioselective beta-1 adrenergic blocker class, with the distinguishing property of partial agonist activity (intrinsic sympathomimetic activity, ISA). It is typically indicated for hypertension and ventricular arrhythmias.
+Malignant hypertensive renal disease is a severe form of hypertension affecting the kidney. It is a subtype of a use already established for the drug class, not a new mechanism. The link is inferred from class pharmacology, not from data in the record.
 
-The absence of TxGNN predictions may stem from one or more of the following causes:
-
-1. **Knowledge graph mapping gap** — acebutolol may not have been successfully linked to its DrugBank node or disease nodes during the prediction run, resulting in no candidate pairs being scored.
-2. **Indication overlap** — the model's training data may already reflect acebutolol's established cardiovascular indications, meaning no novel repurposing signal was detected above the threshold.
-3. **Data completeness** — without confirmed original indications loaded into the pipeline, the model may have lacked sufficient context to generate candidates.
-
-The DrugBank query did return one record (`result_count: 1`), confirming the drug exists in the knowledge base. The gap is therefore in the pipeline's ability to translate that record into scored predictions, not in the drug's basic identifiability.
-
----
+There is also a practical concern. Malignant hypertension is a hypertensive emergency and is usually managed with parenteral agents. An oral capsule beta-blocker is not an obvious fit. Route compatibility and similarity to the original indication have not yet been assessed.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered — no predicted indications to evaluate.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available — no predicted indications to evaluate.
+Currently no related literature available for this indication.
 
----
+For context, the second-ranked prediction, malignant renovascular hypertension (same score, 99.10%), has one indirect record. [PMID 768911](https://pubmed.ncbi.nlm.nih.gov/768911/) is a 1975 open clinical study in *La Nouvelle presse medicale*. In it, 50 hypertensive patients received acebutolol alone or with other agents for one year. Treatment was rated good or moderate in 74% of patients and failed in 26%. The abstract also mentions renovascular hypertension, but the record does not show that it addresses the malignant subtype.
 
-## Taiwan Market Information
+## US Market Information
 
-Acebutolol is currently not marketed in Taiwan. No license records exist in the Taiwan FDA database.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA074007 | Acebutolol Hydrochloride (Golden State Medical Supply, Inc.) | Capsule | Not provided in source data |
+| ANDA074007 | Acebutolol Hydrochloride (ANI Pharmaceuticals, Inc.) | Capsule | Not provided in source data |
+| ANDA075047 | Acebutolol Hydrochloride (AvKARE) | Capsule | Not provided in source data |
+| ANDA075047 | Acebutolol Hydrochloride (AvPAK) | Capsule | Not provided in source data |
+| ANDA075047 | Acebutolol Hydrochloride (Amneal Pharmaceuticals of New York LLC) | Capsule | Not provided in source data |
 
----
+Only the oral route (capsule) is available.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
----
+Please refer to the package insert for safety information. No drug interaction records were found in the source data.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN pipeline returned no predicted indications for acebutolol, and two blocking data gaps — missing MOA and missing safety/contraindication data — prevent the standard repurposing evaluation from proceeding. Until these gaps are resolved and the prediction pipeline is re-run, there is no actionable repurposing candidate to assess.
+The prediction has only a high model score behind it, with no direct clinical trials or publications. Malignant hypertension is normally treated with parenteral agents, so an oral beta-blocker is a questionable fit. The lack of package insert safety data also blocks progression past the first screening stage.
 
 **To proceed, the following is needed:**
-
-- **Resolve DG002 (MOA):** Query the DrugBank API for acebutolol's mechanism of action, pharmacodynamics, and drug targets to populate the MOA field.
-- **Resolve DG001 (Safety):** Locate and parse the package insert PDF (if available from TFDA, EMA, or the original US NDA) to extract key warnings and contraindications.
-- **Confirm original indications:** Retrieve approved indication text from an authoritative source (e.g., FDA label, DrugBank clinical data) so the pipeline has a valid starting indication to anchor predictions.
-- **Investigate prediction pipeline coverage:** Verify whether acebutolol's DrugBank ID (`DB01193`) is present and correctly linked in the TxGNN knowledge graph node list (`data/node.csv`); if absent, add it and re-run `run_kg_prediction.py`.
-- **Re-run TxGNN prediction** after the above gaps are resolved to determine whether repurposing candidates emerge.
+- Package insert warnings and contraindications (this blocks safety screening)
+- Detailed mechanism of action data (MOA)
+- Direct clinical evidence for acebutolol in malignant hypertension or hypertensive kidney injury
+- A route-compatibility assessment (oral capsule versus the emergency setting)
+- A review of how the prediction relates to the drug's labelled indications
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

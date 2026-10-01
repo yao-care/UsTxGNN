@@ -33,9 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 ## One-Sentence Summary
 
-> Obiltoxaximab is a monoclonal antibody that neutralizes *Bacillus anthracis* protective antigen (PA), originally developed for the treatment and prophylaxis of inhalational anthrax.
-> The TxGNN model predicts it may be effective for **Postinfectious Vasculitis**,
-> but currently **no clinical trials** and **no literature** support this specific direction — the prediction rests on knowledge-graph topological similarity alone.
+Obiltoxaximab (Anthim) is a monoclonal antibody marketed in the US for inhalational anthrax caused by *Bacillus anthracis*.
+The TxGNN model predicts it may be effective for **postinfectious vasculitis**, but **no clinical trials and no publications** currently support this prediction, so it rests on graph-based inference alone.
 
 ---
 
@@ -43,23 +42,23 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 | Item | Content |
 |------|------|
-| Original Indication | Inhalational anthrax (*B. anthracis* PA-toxin neutralization; not confirmed via formal label data — see Data Gaps) |
-| Predicted New Indication | Postinfectious Vasculitis |
+| Original Indication | Inhalational anthrax (inferred from trial records; the license record has no indication text) |
+| Predicted New Indication | Postinfectious vasculitis |
 | TxGNN Prediction Score | 99.74% |
 | Evidence Level | L5 |
-| US/Taiwan Market Status | Not Marketed (Not marketed) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 (BLA125509) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (flagged as a High-severity Data Gap). Based on available evidence-pack context, obiltoxaximab is a highly target-specific neutralizing monoclonal antibody directed against *B. anthracis* protective antigen — its proven efficacy is confined to anthrax toxin-mediated disease.
+Detailed mechanism-of-action data is not recorded in DrugBank for this entry. The mechanism below comes from the candidate's repurposing analysis. Obiltoxaximab neutralizes the protective antigen (PA) of *B. anthracis*, which blocks anthrax toxin from entering host cells.
 
-The model's own rationale for this candidate is explicit that no known mechanistic link exists: postinfectious vasculitis involves immune-complex-mediated vascular inflammation following a broad range of infections, a pathway unrelated to anthrax toxin neutralization. The high TxGNN score is attributed to knowledge-graph embedding similarity rather than any pharmacological or clinical signal, and no supporting trials or publications were identified.
+The analysis found **no plausible link** between this mechanism and postinfectious vasculitis. That condition is an immune-complex or immune-mediated process that does not depend on PA. The high TxGNN score reflects proximity in the knowledge graph, not a biological or clinical rationale. Both conditions involve bacterial infection, but neutralizing an anthrax-specific toxin would not be expected to prevent or treat a post-infectious immune reaction.
 
-Given this, the prediction should be treated as a hypothesis-generating signal only, not as evidence of therapeutic potential.
+The same picture holds for the other seven predictions for this drug, all at L4-L5 with a Hold recommendation. Only one of them, "post-bacterial disorder," has linked trials, and those are anthrax or healthy-volunteer studies rather than evidence for that condition.
 
 ---
 
@@ -75,15 +74,19 @@ Currently no related literature available.
 
 ---
 
-## US/Taiwan Market Information
+## US Market Information
 
-No marketing authorizations are currently on file for this market (0 licenses; market status: Not marketed / Not Marketed).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| BLA125509 | Anthim (Elusys Therapeutics, Inc.) | Solution | Not listed in the license record |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. TFDA label warnings/contraindications and DDI data are not yet available for this drug (flagged as a Blocking Data Gap — DG001).
+- **Drug Interactions**: No interaction records were found in the queried database.
+
+Please refer to the package insert for warnings, contraindications, and other safety information.
 
 ---
 
@@ -92,13 +95,15 @@ Please refer to the package insert for safety information. TFDA label warnings/c
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication has no supporting clinical trials or literature, no plausible mechanistic overlap with the drug's known anthrax-toxin-neutralizing activity, and the drug itself lacks confirmed MOA and safety label data — evidence is insufficient at every level to advance this candidate.
+The prediction has only a model score (99.74%), with no trial or literature support and no plausible mechanistic link between anthrax toxin neutralization and postinfectious vasculitis. Repurposing evidence is at L5, the weakest level.
 
 **To proceed, the following is needed:**
-- Confirmed mechanism of action (DrugBank API query) — High severity gap
-- TFDA label warnings/contraindications (PDF retrieval and parsing) — Blocking gap, required before any safety pre-screening (S1)
-- A mechanistic plausibility study evaluating whether anti-toxin antibodies have any role in immune-complex-mediated vasculitis
-- Continued monitoring for emerging trials or literature specific to postinfectious vasculitis before reconsidering this candidate
+- FDA package insert warnings and contraindications (currently blocking safety screening)
+- Mechanism-of-action data from DrugBank
+- A biological hypothesis linking PA neutralization to vasculitis pathogenesis, plus preclinical evidence
+- Route compatibility assessment (not yet performed)
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

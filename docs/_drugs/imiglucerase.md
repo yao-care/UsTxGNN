@@ -33,55 +33,88 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 ## One-Sentence Summary
 
-Imiglucerase (DrugBank DB00053) is a recombinant enzyme replacement therapy whose established use is Gaucher disease, where it substitutes for deficient glucocerebrosidase. The TxGNN model predicts it may also be effective for **Hurler Syndrome (MPS I)**, but this is currently supported only by **0 clinical trials** and **2 general (non-disease-specific) review articles**.
+Imiglucerase is a recombinant glucocerebrosidase enzyme replacement therapy, marketed in the US as Cerezyme and used for Gaucher disease.
+The TxGNN model predicts it may be effective for **Hurler syndrome (MPS I)**, but **no clinical trials** and only **2 general enzyme replacement therapy (ERT) publications** exist, so the prediction has no direct clinical support.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Gaucher Disease (per cited literature context; not confirmed by formal regulatory/label data in this pack) |
-| Predicted New Indication | Hurler Syndrome |
+| Original Indication | Gaucher disease (from known Cerezyme labeling; the approved indication text was empty in the Evidence Pack) |
+| Predicted New Indication | Hurler syndrome |
 | TxGNN Prediction Score | 99.52% |
 | Evidence Level | L4 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 (BLA020367) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for imiglucerase is not available in this evidence pack (flagged as a High-severity data gap). Based on known information, imiglucerase belongs to the enzyme replacement therapy (ERT) class; its efficacy in Gaucher disease — via replacement of deficient glucocerebrosidase to clear glucocerebroside accumulation — is well established.
+Detailed mechanism of action data is not currently available. Imiglucerase is a recombinant form of glucocerebrosidase. It is taken up by macrophages through the mannose receptor and breaks down glucosylceramide, which accumulates in Gaucher disease.
 
-However, the mechanistic case for Hurler syndrome is weak. Hurler syndrome (MPS I) results from a deficiency of a *different* enzyme, alpha-L-iduronidase (IDUA), which clears glycosaminoglycans rather than glucocerebroside. The two supporting literature items (PMID 20534487, 21211680) are general reviews of "ERT for lysosomal storage diseases" as a therapeutic class — neither provides evidence specific to imiglucerase treating Hurler syndrome. The high TxGNN score most likely reflects the model clustering imiglucerase with other LSD-targeted ERT drugs by embedding similarity, rather than capturing a true drug-specific, disease-specific mechanistic link.
+Hurler syndrome (MPS I) is a different disease. It is caused by alpha-L-iduronidase deficiency, which leads to accumulation of glycosaminoglycans (GAGs). Imiglucerase does not act on GAGs, so it has no plausible direct catalytic effect. The only link is the shared class of lysosomal storage disease treated by ERT, which most likely drives the high TxGNN score.
 
-The same pattern holds for the other candidates in this evidence pack (Scheie syndrome, benign adrenal neoplasm, autosomal ichthyosis, cholesteryl ester storage disease) — all scored similarly high (L5, "Hold") with no literature or trials specific to imiglucerase, and in several cases a distinct causal enzyme already exists with its own approved ERT (e.g., sebelipase alfa for cholesteryl ester storage disease).
+The other predictions in this pack are weaker or equally indirect:
+- **Scheie syndrome** is the attenuated form of MPS I, so the same reasoning applies.
+- **Cholesteryl ester storage disease** involves a different enzyme (lysosomal acid lipase), and a disease-specific ERT (sebelipase alfa) already exists.
+- **Benign neoplasm of adrenal gland** has no apparent mechanistic rationale and looks like a knowledge-graph artifact.
+- **Autosomal ichthyosis syndrome with fatal disease course** has only a speculative link through skin ceramide abnormalities in severe glucocerebrosidase deficiency. Imiglucerase does not cross the blood-brain barrier or address non-Gaucher ichthyosis genetics.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [20534487](https://pubmed.ncbi.nlm.nih.gov/20534487/) | 2010 | Review/Imaging | PNAS | General overview of ERT (including imiglucerase) across LSDs — Gaucher, Fabry, Hurler, Hunter, Maroteaux-Lamy, Pompe — not specific to imiglucerase-Hurler efficacy |
-| [21211680](https://pubmed.ncbi.nlm.nih.gov/21211680/) | 2010 | Review | La Revue de medecine interne | History/overview of ERT development starting with alglucerase/imiglucerase for Gaucher disease; broad LSD-ERT class review, no Hurler-specific data |
+| [21211680](https://pubmed.ncbi.nlm.nih.gov/21211680/) | 2010 | Review | La Revue de medecine interne | Overview of ERT for lysosomal storage diseases. It traces the path from placenta-derived alglucerase to recombinant imiglucerase (Cerezyme) in Gaucher disease. This is indirect evidence, with no Hurler-specific imiglucerase data. |
+| [20534487](https://pubmed.ncbi.nlm.nih.gov/20534487/) | 2010 | Other (imaging/ERT overview) | Proc Natl Acad Sci U S A | PET imaging of ERT. It notes that ERT is effective in Gaucher, Fabry, Hurler, Hunter, Maroteaux-Lamy and Pompe diseases, each with its own disease-specific enzyme. It does not show imiglucerase treating Hurler syndrome. |
+
+Both papers are general ERT overviews. Neither tests imiglucerase in Hurler syndrome.
+
+---
+
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form |
+|---------|------|------|
+| BLA020367 | Cerezyme (Genzyme Corporation) | Injection, powder, lyophilized, for solution |
+
+The approved indication text was not provided in the source data. The product is injectable only.
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: No interactions were found in the queried database.
+
+Please refer to the package insert for warnings and contraindications.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Despite a high TxGNN similarity score, there are no clinical trials and no disease-specific literature supporting imiglucerase for Hurler syndrome. The proposed mechanistic link is questionable, since Hurler syndrome and Gaucher disease involve different deficient enzymes (IDUA vs. glucocerebrosidase) and different substrates.
+The high TxGNN score (99.52%) appears to come from the shared lysosomal storage disease/ERT class rather than a real mechanistic link. Imiglucerase targets glucosylceramide, while Hurler syndrome involves GAG accumulation from alpha-L-iduronidase deficiency. There are no trials and no direct literature. A disease-specific ERT (laronidase) already exists for MPS I, so there is little rationale to pursue this.
 
 **To proceed, the following is needed:**
-- TFDA/label warnings and contraindications (currently a Blocking data gap — required before any S1 safety review)
-- Confirmed mechanism of action data for imiglucerase
-- Preclinical or case-level evidence directly linking glucocerebrosidase replacement to MPS I/Hurler pathology
-- Re-evaluation of the other four predicted indications in this pack (Scheie syndrome, adrenal neoplasm, ichthyosis, cholesteryl ester storage disease), all of which currently have weaker (L5) evidence than the top-ranked candidate
+- Package insert warnings, contraindications and the approved indication text
+- Detailed mechanism of action data
+- Preclinical evidence that imiglucerase affects GAG accumulation, which is mechanistically unlikely
+- Any direct clinical or in vitro data for imiglucerase in MPS I or Scheie syndrome
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

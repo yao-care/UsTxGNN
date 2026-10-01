@@ -29,33 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Enoxaparin: From Venous Thromboembolism Prevention to Thrombophilia (Protein C Deficiency)
+# Enoxaparin: From Thromboprophylaxis to Protein C Deficiency Thrombophilia
 
 ## One-Sentence Summary
 
-> Enoxaparin is a low-molecular-weight heparin (LMWH) globally used for venous thromboembolism (VTE) prophylaxis and treatment; Taiwan-specific approved-indication data is unavailable because the product is not currently marketed here.
-> The TxGNN model predicts it may be effective for **Thrombophilia due to Protein C Deficiency, Autosomal Recessive**,
-> but this signal is currently **model-only**, with **no supporting clinical trials or published literature** identified.
+Enoxaparin is a low-molecular-weight heparin anticoagulant, and the supplied data do not list its approved indications.
+The TxGNN model predicts it may be effective for **thrombophilia due to protein C deficiency (autosomal recessive)**,
+but currently there are **0 clinical trials** and **0 publications** supporting this direction, so it rests on model prediction alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Venous thromboembolism prophylaxis/treatment (general drug-class knowledge; no Taiwan license record exists — product unmarketed) |
-| Predicted New Indication | Thrombophilia due to Protein C Deficiency, Autosomal Recessive |
+| Original Indication | Not listed in the supplied data (the approved indication text is blank for all licenses). Enoxaparin is generally used for thromboprophylaxis and thrombosis treatment, and this should be confirmed against the label. |
+| Predicted New Indication | Thrombophilia due to protein C deficiency, autosomal recessive |
 | TxGNN Prediction Score | 99.58% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| US Market Status | Not marketed (Not Marketed) |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the evidence pack (data gap DG002). Based on general pharmacological knowledge, enoxaparin is a low-molecular-weight heparin that binds antithrombin III and potentiates its inhibition of Factor Xa (and, to a lesser extent, thrombin), producing an anticoagulant effect. Its established use is prevention and treatment of venous thromboembolic disease.
+Currently, detailed mechanism of action data is not available in the source record. Based on general pharmacology, enoxaparin is a low-molecular-weight heparin that potentiates antithrombin and mainly inhibits factor Xa. This reduces thrombin generation and clot formation.
 
-Protein C deficiency is a hereditary thrombophilia in which reduced natural anticoagulant activity predisposes patients to recurrent venous thrombosis. Anticoagulants such as enoxaparin are already used clinically to manage acute thrombotic events and bridging therapy in patients with known thrombophilias, including protein C deficiency — so a mechanistic link between an anticoagulant and a hypercoagulable hereditary disorder is biologically plausible.
+Severe protein C deficiency impairs the protein C anticoagulant pathway, which normally inactivates factors Va and VIIIa. The result is a hypercoagulable state with a high risk of thrombosis. Anticoagulation is therefore biologically plausible for preventing or treating thrombosis in this condition. This reasoning comes from general pharmacology, not from the supplied dataset, and it could not be checked against source data.
 
-That said, this plausibility is based on general anticoagulant pharmacology rather than on any disease-specific study captured in this evidence pack. The TxGNN score is high, but with zero clinical trials and zero literature returned for this drug-disease pair, the prediction currently stands as an unvalidated model signal rather than an evidence-backed indication.
+There is also a caveat. Enoxaparin's existing thromboprophylaxis and thrombosis treatment indications are probably related to this prediction. The high score may therefore reflect an existing use rather than a new repurposing signal. The prediction should be checked against current labeling and clinical guidelines before further work.
 
 ## Clinical Trial Evidence
 
@@ -65,22 +65,32 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA214646 | Enoxaparin sodium (BE Pharmaceuticals Inc.) | Injection | Not provided in source data |
+| ANDA076726 | Enoxaparin Sodium (Zydus Pharmaceuticals USA Inc.) | Injection, solution | Not provided in source data |
+| ANDA076726 | Enoxaparin Sodium (Italfarmaco SpA) | Injection, solution | Not provided in source data |
+| NDA020164 | Lovenox (Sanofi-Aventis U.S. LLC) | Injection | Not provided in source data |
+| ANDA206834 | Enoxaparin Sodium (BluePoint Laboratories) | Injection | Not provided in source data |
+
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and DDI data are not currently available; TFDA label information is a Blocking data gap — DG001.)
+Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a high TxGNN model score, with no corroborating clinical trials or literature, and a Blocking data gap on TFDA label/warning information prevents even an initial safety screen (S1). The drug is also not currently marketed in Taiwan (0 licenses).
+The prediction has a high model score and a plausible anticoagulant rationale, but it has no supporting trials or publications (L5). The safety and mechanism data are also missing, so the case cannot advance to safety screening.
 
 **To proceed, the following is needed:**
-- TFDA label/warnings and contraindications (resolve DG001 — blocking)
-- Confirmed mechanism of action detail (resolve DG002)
-- Targeted literature/clinical trial search specifically for enoxaparin in protein C deficiency-related thrombophilia
-- Taiwan-specific approved indication and licensing status, given the product is currently unmarketed
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Approved indications from the current US label, to check whether this prediction overlaps with existing thromboprophylaxis and treatment uses
+- Mechanism of action data from DrugBank, to verify the mechanistic link
+- A targeted literature and trial search on anticoagulation in severe (autosomal recessive) protein C deficiency, plus review of current clinical guidelines
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

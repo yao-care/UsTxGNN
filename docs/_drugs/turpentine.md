@@ -29,13 +29,11 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Turpentine: From No Approved Indication to Multiple Endocrine Neoplasia
+# Turpentine: From Topical Counterirritant to Multiple Endocrine Neoplasia
 
 ## One-Sentence Summary
 
-> Turpentine is not an approved pharmaceutical product in Taiwan — it has historically been used only as a veterinary topical counterirritant and industrial solvent, with no established human indication.
-> The TxGNN model predicts a possible association with **Multiple Endocrine Neoplasia**,
-> but this prediction is currently supported by **0 clinical trials** and **0 publications**, and is not accompanied by any known mechanistic rationale.
+Turpentine is a volatile terpene mixture used topically as a counterirritant and rubefacient, and as a solvent. The TxGNN model predicts it may be effective for **multiple endocrine neoplasia**, but **no clinical trials and no publications** currently support this prediction. It is a knowledge-graph signal only.
 
 ---
 
@@ -43,23 +41,22 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 | Item | Content |
 |------|------|
-| Original Indication | None approved — historically used as a veterinary topical anti-inflammatory/irritant and industrial solvent |
-| Predicted New Indication | Multiple Endocrine Neoplasia |
+| Predicted New Indication | Multiple endocrine neoplasia |
 | TxGNN Prediction Score | 99.60% |
-| Evidence Level | L5 |
-| US Market Status | Not marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, turpentine (a terpene mixture derived from pine resin) has no established human pharmacological indication and is not recorded in DrugBank with a defined MOA or drug target.
+Currently, detailed mechanism of action data is not available, and DrugBank lists no original indications for turpentine. Turpentine is a mixture of terpenes, mainly alpha- and beta-pinene. In practice it is used as a counterirritant, a rubefacient and a solvent.
 
-The TxGNN prediction for this candidate scored very high (0.996), but this score reflects statistical node-embedding similarity within the knowledge graph rather than any interpretable biological pathway. There is no known link between turpentine's chemical activity and the pathogenic mechanisms of multiple endocrine neoplasia (e.g., RET or MEN1 mutation pathways).
+Multiple endocrine neoplasia (MEN1, MEN2) is a hereditary syndrome. It is driven by MEN1 or RET mutations that cause endocrine tumors. No credible mechanistic link between turpentine and this disease can be established. Some terpenes, including pinene, have preclinical antiproliferative reports in general cancer models. Nothing connects them to MEN-related tumorigenesis.
 
-Given that turpentine has no history of systemic pharmacological use in humans and lacks any documented target relevant to endocrine tumorigenesis, the biological plausibility of this prediction is low. The high TxGNN score should be treated as a hypothesis-generating signal only, not as evidence of therapeutic relevance.
+The high TxGNN score (0.996) comes from the knowledge graph alone. It does not show a biologically plausible pathway and should not be read as clinical support.
 
 ---
 
@@ -75,9 +72,28 @@ Currently no related literature available.
 
 ---
 
+## US Market Information
+
+The listed products are mostly homeopathic pellets. No approved indication text is recorded for any of them.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Not listed | Terebinthina (Boiron) | Pellet | Not stated |
+| Not listed | Terebinthina (Hahnemann Laboratories, INC.) | Pellet | Not stated |
+| Not listed | Terebinthina (Hahnemann Laboratories, INC.) | Pellet | Not stated |
+| M017 | Ling Nam Hak Kwai Oil | Oil | Not stated |
+| Not listed | Terebinthina (Hahnemann Laboratories, INC.) | Pellet | Not stated |
+
+Across all 20 authorizations, the dosage forms include pellet, oil, liniment, cream (topical), liquid and solution.
+
+---
+
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Toxicity**: Turpentine is toxic when ingested or inhaled (CNS depression, aspiration pneumonitis, renal injury), and it is a skin sensitizer.
+- **Drug Interactions**: No interaction records were found.
+
+Please refer to the package insert for warnings and contraindications.
 
 ---
 
@@ -86,13 +102,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is based purely on TxGNN model output (Evidence Level L5) with no supporting clinical trials, literature, or plausible mechanistic link. Turpentine also has no approved human indication and no TFDA licensing in Taiwan, so there is no regulatory or clinical foundation to build on.
+The prediction rests on a model score alone (L5). There are no trials, no literature, and no plausible mechanistic link to MEN-related tumorigenesis. The known toxicity of turpentine adds a safety concern for any systemic use.
 
 **To proceed, the following is needed:**
-- TFDA-equivalent safety data (warnings/contraindications) — currently a **blocking data gap** preventing any S1 safety review
-- Documented mechanism of action (MOA) data from DrugBank or primary literature
-- Preclinical or mechanistic studies linking turpentine's chemical activity to endocrine tumor pathways
-- At minimum, exploratory (non-clinical) evidence before considering any further evaluation stage
+- Mechanism of action data (MOA), for example from DrugBank
+- Package insert warnings and contraindications, to complete safety screening
+- Preclinical evidence linking turpentine or its terpene components to MEN1/RET-driven tumorigenesis
+- Route compatibility assessment, since the marketed forms are mostly topical, pellet or oil
+- A recheck of trial registries and literature to see whether any supporting evidence has appeared
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

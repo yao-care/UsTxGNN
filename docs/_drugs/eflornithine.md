@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Eflornithine: From African Trypanosomiasis/Hirsutism to Esotropia
+# Eflornithine: Predicted New Indication, Esotropia (Model Prediction Only)
 
 ## One-Sentence Summary
 
-> Eflornithine is an irreversible ornithine decarboxylase (ODC) inhibitor known for treating African trypanosomiasis (sleeping sickness) and topical hirsutism (Vaniqa).
-> The TxGNN model predicts it may be effective for **Esotropia**,
-> but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a pure knowledge-graph inference with no direct evidence.
+Eflornithine is an oral tablet marketed in the US (Iwilfin, NDA215500). The evidence pack does not include its approved indication text.
+The TxGNN model predicts it may be effective for **esotropia**, with a second, weaker candidate of **neurotrophic keratopathy**.
+Currently there are **0 clinical trials** and **0 publications** supporting either prediction, so this is a model-only signal.
 
 ---
 
@@ -43,23 +43,22 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 | Item | Content |
 |------|------|
-| Original Indication | African trypanosomiasis (systemic); topical hirsutism (Vaniqa) — no Taiwan marketing license on file |
 | Predicted New Indication | Esotropia |
 | TxGNN Prediction Score | 99.85% |
-| Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Licenses | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Eflornithine works by irreversibly inhibiting ornithine decarboxylase (ODC), blocking polyamine synthesis. This mechanism underlies its approved uses — systemic treatment of African trypanosomiasis and topical suppression of facial hair growth (Vaniqa) — both of which depend on halting cell proliferation in parasites or hair follicles.
+The drug-level mechanism field is empty in the input. The candidate-level rationale describes eflornithine as an irreversible inhibitor of ornithine decarboxylase (ODC), the rate-limiting enzyme in polyamine synthesis.
 
-Esotropia (inward eye deviation) is a neuromuscular/ocular-alignment disorder typically managed with prism correction, botulinum toxin, or surgery. There is no known physiological link between the ODC/polyamine pathway and extraocular muscle tone or neural control of eye position. The high TxGNN score most likely reflects an indirect graph relationship (e.g., shared genes or co-occurring nodes) rather than a pharmacological rationale, and should be treated as a low-confidence signal requiring manual expert review.
+**Esotropia** is an eye-alignment disorder driven by extraocular muscle, neural control, or refractive factors. It has no established polyamine-dependent mechanism, so no credible mechanistic link to ODC inhibition was identified. The very high score (99.85%) may reflect knowledge-graph topology artifacts rather than real pharmacology. The drug's original indication is also missing from the input, which limits any independent plausibility check.
 
-For context, the evidence pack's second-ranked candidate, neurotrophic keratopathy (score 99.38%), is arguably even less plausible: this condition requires *promoting* corneal epithelial repair, whereas eflornithine's antiproliferative mechanism (blocking polyamine synthesis) would theoretically work *against* that goal. Both candidates illustrate the same limitation — model-only predictions without any mechanistic or clinical corroboration.
+**Neurotrophic keratopathy** (rank 2, score 99.38%) has only a speculative, indirect link. Polyamines contribute to epithelial proliferation and wound healing, so a corneal role for the ODC pathway is conceivable. However, ODC inhibition would be expected to suppress epithelial proliferation and migration, which could impair rather than promote corneal healing. The disease stems from impaired trigeminal corneal innervation, and its approved treatments target nerve growth factor signaling, not polyamine synthesis. The direction of effect is unresolved and potentially unfavorable.
 
 ---
 
@@ -75,15 +74,17 @@ Currently no related literature available.
 
 ---
 
-## Taiwan Market Information
+## US Market Information
 
-Eflornithine currently holds no marketing authorization in Taiwan (0 licenses on file; market status: Not marketed).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA215500 | Iwilfin (USWM, LLC) | Tablet (oral) | Not provided in the input |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No drug interaction records were found in the queried source.
 
 ---
 
@@ -92,12 +93,13 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high, but it is unsupported by any clinical trials, literature, or plausible mechanistic rationale, and a Blocking data gap (TFDA label warnings/contraindications) prevents even an initial safety assessment.
+Both predictions are supported only by model scores, with no trials, no literature, and no credible mechanistic link. For neurotrophic keratopathy, the expected effect of ODC inhibition on corneal healing may even be unfavorable.
 
 **To proceed, the following is needed:**
-- TFDA/DrugBank-sourced labeling data (warnings, contraindications) to clear the current Blocking data gap
-- Confirmed mechanism of action documentation to properly evaluate mechanistic plausibility for esotropia (and to resolve the apparent contradiction for neurotrophic keratopathy)
-- Preclinical or observational evidence establishing any biological link between ODC/polyamine inhibition and either candidate indication before further evaluation is warranted
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- The approved indication and detailed mechanism of action for the drug
+- A literature and trial search, including preclinical work on polyamine/ODC biology in ocular alignment and corneal healing
+- An assessment of whether an oral tablet is a suitable route for the proposed ocular indications
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

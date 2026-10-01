@@ -29,76 +29,68 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Guselkumab: From Psoriasis to Drug-Induced Osteoporosis
+# Guselkumab: From Plaque Psoriasis to Drug-Induced Osteoporosis
 
 ## One-Sentence Summary
 
-Guselkumab is an anti-IL-23(p19) monoclonal antibody, originally developed and approved (as Tremfya) for immune-mediated inflammatory diseases such as psoriasis and ulcerative colitis. The TxGNN model's top-ranked prediction for this candidate is **Drug-Induced Osteoporosis**, but this signal is currently supported by **0 clinical trials** and **0 publications** — it reflects knowledge-graph proximity rather than any actual evidence.
-
----
+Guselkumab (brand name TREMFYA) is an anti-IL-23 antibody. The Evidence Pack treats plaque psoriasis as its established use, though the license records list no indication text.
+The TxGNN model predicts it may be effective for **drug-induced osteoporosis**, but **0 clinical trials** and **0 publications** support this prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in TFDA data for this pack (Taiwan query returned 0 results); other candidate entries in this evidence pack reference Psoriasis and Ulcerative Colitis as Tremfya's already-approved original indications |
+| Original Indication | Not listed in the license records; the Evidence Pack rationale identifies plaque psoriasis as an established marketed use |
 | Predicted New Indication | Drug-induced osteoporosis |
-| TxGNN Prediction Score | 99.84% (rank 4814) |
+| TxGNN Prediction Score | 99.84% |
 | Evidence Level | L5 |
-| US Market Status | Not marketed (not marketed / no TFDA license found) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 3 records (all under BLA761061) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in this evidence pack (data gap DG002). Based on the information that is available, guselkumab is a selective IL-23(p19) inhibitor; its efficacy in immune-mediated inflammatory conditions (psoriasis, ulcerative colitis) is documented elsewhere in this same evidence pack via other candidate indications, and mechanistically it acts by suppressing the IL-23/Th17 axis.
+Detailed mechanism-of-action data is not available in the DrugBank field. The Evidence Pack's rationale identifies guselkumab as a monoclonal antibody against the p19 subunit of IL-23. IL-23 drives Th17 differentiation and IL-17/IL-22 signaling, which underlie psoriatic skin inflammation.
 
-For the top-ranked prediction, drug-induced osteoporosis, the rationale supplied is explicitly weak: there is no direct mechanistic evidence linking IL-23 inhibition to bone loss. Osteoimmunology literature suggests an indirect relationship between the IL-23/Th17 axis and osteoclast activation, but no study has specifically connected guselkumab to drug-induced osteoporosis. The high TxGNN score most likely reflects the proximity of immune- and bone-metabolism-related nodes within the knowledge graph rather than a causal or clinical signal.
-
-Because psoriasis (rank 3) and ulcerative colitis (rank 6) in this same evidence pack are described as guselkumab's already-approved indications with strong supporting evidence (L1, Proceed with Guardrails), the drug-induced osteoporosis prediction should be interpreted as a low-confidence, exploratory signal — not a validated repurposing hypothesis.
-
----
+The link to osteoporosis is speculative. The IL-23/IL-17 axis can influence osteoclast formation and bone remodeling, so blocking it could in theory affect bone loss. However, no trial or publication tests this in drug-induced osteoporosis, and the very high TxGNN score is a model output, not a clinical signal. Osteoporosis caused by drugs such as glucocorticoids has different drivers from psoriatic inflammation, so the similarity to the original indication is unestablished.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-Guselkumab currently has no TFDA license on record in this evidence pack (market status: Not marketed, total licenses: 0). No authorization data is available to tabulate.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| BLA761061 | TREMFYA (Janssen Biotech, Inc.) | Injection | Not listed in the record |
 
----
+The three license records are duplicates of the same BLA and product.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-*(Note: TFDA label warnings/contraindications for this drug are marked as a Blocking data gap — DG001 — and could not be retrieved for this evaluation.)*
-
----
+Please refer to the package insert for safety information. No drug-interaction records were found in the query.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction for drug-induced osteoporosis has no supporting clinical trials or literature (Evidence Level L5, Decision Stage S0) and only a speculative, indirect mechanistic rationale. The TxGNN score alone is insufficient to justify advancing this candidate.
+The prediction has no supporting trials or literature, and the mechanistic link is only speculative. The TxGNN score alone is not enough to justify moving forward.
+
+**Other predictions in the pack (not the focus of this report):**
+- **Psoriasis (rank 3):** L1 evidence with completed Phase 3 RCTs (e.g., VOYAGE 1 and 2). The pack flags this as confirmation of a known use, not a novel repurposing finding.
+- **Ulcerative colitis (rank 6):** L1 evidence from the QUASAR Phase 3 program. The pack suggests this may already be a labeled use.
+- **Other Hold predictions (ranks 2, 4, 5, 7-10):** All L5 with no supporting evidence.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (blocking gap DG001) before any safety pre-screen (S1) can begin
-- Confirmed mechanism of action data (DG002) to assess mechanistic plausibility
-- Preclinical or mechanistic studies specifically evaluating IL-23 inhibition and bone metabolism/osteoclast activity
-- If pursuing guselkumab repurposing at all, prioritize the higher-evidence candidates already surfaced in this pack (psoriasis, ulcerative colitis) rather than this L5 signal
+- Package insert warnings and contraindications (the pack marks this as a blocking gap)
+- Verification of the current label and indication registry to confirm which indications are already approved
+- Preclinical or mechanistic evidence for IL-23 blockade in bone loss
+- Observational data on bone density or fracture outcomes in patients treated with IL-23 inhibitors
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

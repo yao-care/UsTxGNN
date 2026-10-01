@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Propylthiouracil
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 1095
-evidence_level: L5
+evidence_level: L4
 indication_count: 3
 ---
 
 # Propylthiouracil
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **3** 
+Evidence Level: **L4** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,83 +29,79 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Propylthiouracil: From Hyperthyroidism to Resistance to Thyroid Hormone (RTH)
+# Propylthiouracil: From Hyperthyroidism (Antithyroid Therapy) to Resistance to Thyroid Hormone (THRB Mutation)
 
 ## One-Sentence Summary
 
-> Propylthiouracil (PTU) is a thionamide antithyroid drug, historically used to treat hyperthyroidism/Graves' disease (as documented throughout the supporting literature, though not captured in structured regulatory indication text).
-> The TxGNN model predicts it may be relevant to **resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (RTH-β)**,
-> but this is currently supported only by **0 clinical trials** and **6 case report/preclinical publications** — several of which describe PTU being used *ineffectively* in misdiagnosed RTH patients rather than as a validated therapy.
-
----
+Propylthiouracil (PTU) is an established antithyroid drug that lowers thyroid hormone production. The TxGNN model predicts it may be effective for **resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (RTH-beta)**. However, this direction has **0 clinical trials** and **6 publications** (case reports and animal studies), none of which reports PTU as a treatment for the condition.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hyperthyroidism / Graves' disease (inferred from literature context; not recorded in structured regulatory license data) |
 | Predicted New Indication | Resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta |
 | TxGNN Prediction Score | 99.66% |
-| Evidence Level | L4 (case reports and preclinical/mechanistic studies only; no clinical trials or RCTs) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L4 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 8 (the listed authorizations are ANDA generics) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (flagged as a data gap, item DG002). Based on known information from the supporting literature, propylthiouracil is a thionamide-class antithyroid agent whose efficacy in hyperthyroidism/Graves' disease is well established, and TxGNN links it to thyroid hormone receptor-beta (THRB) biology, which is the same molecular pathway implicated in RTH.
+Detailed mechanism-of-action data is not available in DrugBank for this record. Based on the evidence pack's analysis, PTU inhibits thyroid peroxidase and blocks peripheral conversion of T4 to T3, which lowers circulating thyroid hormone.
 
-However, the mechanistic relationship here is more complex than a simple disease-similarity extension. RTH is caused by *loss-of-function/dominant-negative mutations* in THRB that make target tissues insensitive to thyroid hormone, typically presenting with **elevated** (not deficient) circulating thyroid hormone levels and a clinical picture that can mimic hyperthyroidism. Several of the retrieved publications (e.g., PMID 10724359, PMID 3097618-type cases) describe patients with RTH who were **misdiagnosed as having thyrotoxicosis and treated with PTU without benefit** — in one case the patient's goiter enlarged during PTU therapy. This suggests the literature co-occurrence driving the TxGNN score may reflect historical diagnostic confusion between hyperthyroidism and RTH, rather than genuine therapeutic evidence for PTU in RTH.
+The high TxGNN score most likely reflects graph proximity between PTU and thyroid hormone pathway nodes, not a therapeutic relationship. In RTH-beta, T4 and T3 are elevated to compensate for reduced receptor sensitivity. Lowering hormone levels would likely raise TSH and can enlarge the goiter. The mechanism therefore points to potential **harm** rather than benefit.
 
-Given the absence of MOA data and the presence of literature actively describing PTU treatment failure in RTH, this prediction should be interpreted as a **hypothesis requiring careful reassessment**, not a validated repurposing signal.
-
----
+The literature agrees. In the Thai patient (PMID 10724359), goiter became more enlarged after nine months of PTU given for a mistaken diagnosis of thyrotoxicosis. This prediction is best treated as a model artifact, and it should not be pursued as a therapeutic hypothesis without new supporting data.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [18561095](https://pubmed.ncbi.nlm.nih.gov/18561095/) | 2009 | Case Report | Exp Clin Endocrinol Diabetes | Turkish family with THRB P453A mutation causing RTH; thyroid function tests suggestive of hormone resistance |
-| [10724359](https://pubmed.ncbi.nlm.nih.gov/10724359/) | 1999 | Case Report | Endocrine Journal | Thai woman with de novo THRB L330S mutation; previously misdiagnosed with thyrotoxicosis and treated with PTU for 9 months, with **worsening goiter** — illustrates PTU's lack of benefit in RTH |
-| [12201835](https://pubmed.ncbi.nlm.nih.gov/12201835/) | 2002 | Case Report | Clinical Endocrinology | Family with TRβ M313T mutation; neonatal thyrotoxicosis and maternal infertility linked to RTH |
-| [14684607](https://pubmed.ncbi.nlm.nih.gov/14684607/) | 2004 | Preclinical (mouse model) | Endocrinology | Cardiac-targeted mutant TRβ mouse model demonstrates dominant-negative RTH effects on cardiac gene expression |
-| [22919057](https://pubmed.ncbi.nlm.nih.gov/22919057/) | 2012 | Preclinical (mouse model) | Endocrinology | Thrb(PV/PV) mutant mice show TSH-dependent development of RTH-associated thyroid carcinoma |
-| [21909131](https://pubmed.ncbi.nlm.nih.gov/21909131/) | 2012 | Preclinical (mouse model) | Oncogene | Thrb(PV/PV) mouse model links mutant TRβ receptor signaling to follicular thyroid carcinoma proliferation |
-
----
+| [18561095](https://pubmed.ncbi.nlm.nih.gov/18561095/) | 2009 | Case Report | Exp Clin Endocrinol Diabetes | P453A THRB mutation in a Turkish family (mother and son); describes the RTH-beta phenotype, no PTU treatment reported |
+| [10724359](https://pubmed.ncbi.nlm.nih.gov/10724359/) | 1999 | Case Report | Endocr J | De novo L330S mutation in a Thai woman. She was treated with PTU for 9 months under a mistaken thyrotoxicosis diagnosis, and her goiter enlarged |
+| [12201835](https://pubmed.ncbi.nlm.nih.gov/12201835/) | 2002 | Case Report | Clin Endocrinol | M313T mutation family with neonatal thyrotoxicosis features and maternal infertility |
+| [14684607](https://pubmed.ncbi.nlm.nih.gov/14684607/) | 2004 | Preclinical/Mechanistic | Endocrinology | Role of the TR-beta isoform in thyroid hormone resistance in the heart of a mouse model |
+| [22919057](https://pubmed.ncbi.nlm.nih.gov/22919057/) | 2012 | Preclinical (mouse model) | Endocrinology | Role of TSH in spontaneous thyroid carcinoma in mice with a single mutated THRB allele |
+| [21909131](https://pubmed.ncbi.nlm.nih.gov/21909131/) | 2012 | Preclinical (mouse model) | Oncogene | Thyroid hormone activates tumor cell proliferation in a mouse model of follicular thyroid carcinoma |
 
 ## US Market Information
 
-No FDA licenses/NDAs are currently on file for this drug in the dataset (market status: **Not Marketed**, total licenses: 0).
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA080016 | Propylthiouracil | Tablet | Chartwell RX, LLC |
+| ANDA080154 | Propylthiouracil | Tablet | Quagen Pharmaceuticals LLC |
+| ANDA080172 | Propylthiouracil | Tablet | Teva Pharmaceuticals, Inc. |
+| ANDA208867 | Propylthiouracil | Tablet | Macleods Pharmaceuticals Limited |
+| ANDA080154 | Propylthiouracil | Tablet | Bryant Ranch Prepack |
 
----
+All listed products are oral tablets. Approved indication text is not included in the source data.
 
 ## Safety Considerations
 
-TFDA/FDA-level warnings, contraindications, and drug-drug interaction data are not currently available for this drug (data gap DG001, marked as **Blocking severity** — this data gap explicitly prevents entry into the S1 safety pre-screening stage). Please refer to the official package insert for safety information before any further evaluation.
+- **Hepatotoxicity**: The evidence pack's analysis notes that PTU carries a boxed warning for hepatotoxicity.
 
----
+No other structured safety data is available. Please refer to the package insert for complete warnings, contraindications, and drug interactions.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication is supported only by case reports and preclinical mouse studies (L4), with zero clinical trials, and part of the literature evidence actually documents PTU being used *without benefit* in misdiagnosed RTH patients. Combined with a Blocking-severity safety data gap (no TFDA warnings/contraindications available) and the drug's non-marketed status, there is insufficient basis to proceed at this time.
+The evidence is at L4 (case reports and mouse models only). There are no clinical trials, and the mechanism suggests PTU could worsen RTH-beta by lowering hormone levels and raising TSH.
 
 **To proceed, the following is needed:**
-- TFDA/FDA package insert warnings and contraindications (resolve DG001, Blocking)
-- Confirmed mechanism of action data from DrugBank (resolve DG002)
-- Clarification of whether TxGNN's signal reflects genuine pharmacological rationale or historical diagnostic confounding between hyperthyroidism and RTH
-- Any prospective or controlled evidence (beyond case reports) specifically evaluating PTU in confirmed RTH patients
+- Package insert warnings and contraindications (a blocking data gap for safety screening)
+- Confirmed original indications and mechanism-of-action data from DrugBank
+- Any evidence that lowering thyroid hormone benefits RTH-beta patients, which is currently absent
+
+**Note:** For the same drug, the lower-ranked prediction **neonatal thyrotoxicosis** (L3) is better supported. It has a Phase 3 trial of thionamides in Graves' disease and several pregnancy-related reviews and cohorts. It is more plausible mechanistically, but because PTU is already an established antithyroid drug, it may not be true repurposing.
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

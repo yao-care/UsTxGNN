@@ -29,31 +29,32 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Edaravone: From ALS / Acute Ischemic Stroke to Heparin Cofactor 2 Deficiency
+# Edaravone: From Amyotrophic Lateral Sclerosis to Heparin Cofactor 2 Deficiency
 
 ## One-Sentence Summary
 
-Edaravone is a free-radical scavenger (antioxidant) whose established clinical uses are amyotrophic lateral sclerosis (ALS) and acute ischemic stroke — though this candidate record has no formally sourced Taiwan license data confirming an original indication (data gap). The TxGNN model predicts it may be effective for **Heparin Cofactor 2 Deficiency**, an ultra-rare inherited coagulation disorder, but this prediction is currently supported by **zero clinical trials** and **zero publications**. A second, lower-ranked candidate (Factor V excess with spontaneous thrombosis) shows the same pattern of high model score but no corroborating evidence.
+Edaravone is a free radical scavenger, marketed in the US as an injection for amyotrophic lateral sclerosis (ALS) and acute ischemic stroke.
+The TxGNN model predicts it may be effective for **heparin cofactor 2 deficiency**, but there are currently **0 clinical trials** and **0 publications** supporting this direction, so it is a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in Taiwan license records (drug is not marketed in Taiwan); per evidence pack rationale, edaravone's known clinical uses are ALS and acute ischemic stroke |
-| Predicted New Indication | Heparin Cofactor 2 Deficiency |
+| Original Indication | Amyotrophic lateral sclerosis (the license indication text is blank in the record; ALS comes from the model's rationale notes) |
+| Predicted New Indication | Heparin cofactor 2 deficiency |
 | TxGNN Prediction Score | 99.47% |
 | Evidence Level | L5 |
-| US Market Status | Not marketed (Not Marketed) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 7 (includes ANDA generic authorizations) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for this record (flagged as a High-severity data gap). Based on known information, edaravone is a free-radical scavenger/antioxidant, with proven efficacy in ALS and acute ischemic stroke — conditions where oxidative stress contributes to neuronal injury.
+Currently, detailed mechanism of action data is not available. Based on known information, edaravone is an antioxidant free radical scavenger with endothelial-protective effects. Its efficacy has been established in ALS and acute ischemic stroke, so it might reduce oxidative endothelial injury.
 
-Heparin cofactor 2 deficiency, by contrast, is a rare autosomal-dominant coagulation disorder caused by mutations in the *SERPIND1* (HCF2) gene, leading to a prothrombotic tendency through impaired thrombin inhibition — a protein-function defect rather than an oxidative-stress-driven pathology.
+Heparin cofactor 2 deficiency is a hereditary serpin deficiency. It impairs thrombin inhibition, mainly the dermatan sulfate-dependent pathway, and increases thrombotic risk. Edaravone's antioxidant activity could plausibly limit oxidative damage during thrombotic events. However, it would not correct the underlying coagulation-inhibitor deficiency, and no direct mechanistic link is established. The high model score (0.995) is a knowledge-graph output, not clinical evidence.
 
-The evidence pack's own mechanistic assessment concludes that no known or biologically plausible pathway connects edaravone's antioxidant activity to heparin cofactor deficiency's coagulation-factor pathology. The high TxGNN score (99.47%) should therefore be interpreted as a knowledge-graph similarity signal rather than mechanistic validation. The same caveat applies to the second-ranked candidate, Factor V excess with spontaneous thrombosis (score 99.06%), where no literature or trial evidence links edaravone to thrombosis-pathway modulation either.
+The model also ranks a second prediction, factor 5 excess with spontaneous thrombosis (score 99.06%). It has the same limitation: edaravone has no known action on factor V or the coagulation cascade, and no trials or literature were found.
 
 ## Clinical Trial Evidence
 
@@ -63,22 +64,33 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA209176 | RADICAVA (Tanabe Pharma America) | Injection | Not listed in the record |
+| ANDA217565 | Edaravone (XGen Pharmaceuticals DJB) | Injection, solution | Not listed in the record |
+| ANDA216199 | Edaravone (Gland Pharma) | Injection, solution | Not listed in the record |
+
+The record shows 7 authorizations in total. Only 5 entries are listed, and they cover just these 3 unique numbers, since two are duplicated.
+
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No drug interaction records were found.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests solely on a TxGNN knowledge-graph score (L5, model prediction only) — there are no clinical trials, no published literature, and no established mechanistic link between edaravone's antioxidant activity and this rare coagulation disorder. Combined with a Blocking-severity gap in TFDA label/safety data, this candidate does not meet the threshold to advance past S0.
+The prediction has no clinical trials or literature behind it (L5). The proposed mechanism is indirect, because an antioxidant would not correct a serpin deficiency. Package insert safety data are also missing.
 
 **To proceed, the following is needed:**
-- TFDA (or originating regulator) label with warnings/contraindications — currently a Blocking data gap
-- Confirmed mechanism of action (DrugBank query) — currently a High-severity data gap
-- Preclinical or mechanistic studies establishing a biological rationale linking free-radical scavenging to heparin cofactor 2 / coagulation-factor regulation
-- Any case reports or observational data in rare coagulation disorders, given the ultra-low prevalence of both target conditions makes RCTs unlikely
+- Package insert warnings and contraindications (blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- A literature and trial search on edaravone in thrombosis, coagulation disorders, and endothelial protection
+- Preclinical evidence for an effect on the heparin cofactor II or dermatan sulfate pathway
+- Route compatibility check (edaravone is injection only; the required route is not yet defined)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

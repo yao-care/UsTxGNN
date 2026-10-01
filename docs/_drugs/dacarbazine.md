@@ -3,14 +3,14 @@ layout: default
 title: Dacarbazine
 parent: Moderate Evidence (L3-L4)
 nav_order: 563
-evidence_level: L3
+evidence_level: L4
 indication_count: 1
 ---
 
 # Dacarbazine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **1** 
+Evidence Level: **L4** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,37 +29,36 @@ Evidence Level: **L3** | Predicted Indications: **1**
 
 </div>
 
-# Dacarbazine: From Melanoma to Upper Aerodigestive Tract Neoplasm
+# Dacarbazine: From Cancer Chemotherapy to Upper Aerodigestive Tract Neoplasm
 
 ## One-Sentence Summary
 
-Dacarbazine (DTIC) is a classic cytotoxic alkylating agent, long established as a standard chemotherapy backbone for advanced melanoma and soft tissue sarcoma.
-The TxGNN model predicts it may be effective for **Upper Aerodigestive Tract (UADT) Neoplasm** — a broad category encompassing oral cavity, pharynx, larynx, sinonasal, thyroid, and esophageal malignancies —
-with **1 clinical trial** and **20 publications** currently identified in support of this direction.
+Dacarbazine is an injectable DNA-alkylating chemotherapy agent that is marketed in the US as generic products.
+The TxGNN model predicts it may be effective for **upper aerodigestive tract neoplasm**, with a very high score of 99.26%.
+Evidence for this specific drug and indication is thin: **1 clinical trial** and **19 publications** were retrieved, but the trial tested a related drug (temozolomide) and none of the literature directly shows dacarbazine working in this indication.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Advanced melanoma; soft tissue sarcoma (Hodgkin's disease) |
-| Predicted New Indication | Upper Aerodigestive Tract Neoplasm |
+|------|------|
+| Predicted New Indication | Upper aerodigestive tract neoplasm |
 | TxGNN Prediction Score | 99.26% |
-| Evidence Level | L3 |
-| US Market Status | Not marketed (no licenses found in database) |
-| Number of NDAs | 0 |
+| Evidence Level | L4 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 4 records listed (3 unique ANDA numbers; all generics) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the Evidence Pack. However, based on well-established pharmacology, dacarbazine is a triazene alkylating prodrug that undergoes hepatic activation to its active metabolite **MTIC** (monomethyl triazeno imidazole carboxamide). MTIC methylates DNA at the O⁶ position of guanine, triggering mismatch repair (MMR)-mediated cell death. This is precisely the same mechanism as **temozolomide**, its oral second-generation analogue — a relationship directly relevant to the evidence reviewed below.
+Detailed mechanism-of-action data for dacarbazine is not available in the input. From general pharmacology, dacarbazine is a DNA-alkylating (methylating) agent. It is metabolically activated to MTIC, which damages tumor-cell DNA.
 
-The link between dacarbazine's established indications and UADT neoplasms is mechanistically coherent: the UADT harbors several tumour subtypes with biological profiles that overlap with dacarbazine's known targets. **Mucosal melanoma** of the oral cavity, nasal cavity, and sinuses shares the same melanocytic origin as cutaneous melanoma, for which dacarbazine remains a registered comparator standard. Similarly, **paragangliomas** and **esthesioneuroblastomas** of the head and neck are neuroendocrine tumours — a family dacarbazine has been used to treat (e.g., Hodgkin's disease, neuroendocrine variants). **Medullary thyroid carcinoma**, anatomically within the UADT region, has also been directly investigated with dacarbazine-based regimens.
+Temozolomide acts through the same MTIC species. The only linked clinical trial studied temozolomide in advanced aerodigestive tract cancers (head and neck, esophageal, non-small-cell lung, and colorectal) selected for MGMT promoter methylation. That gives class-level, indirect support for the idea that this type of alkylating agent may act in these tumors. It says nothing about dacarbazine itself.
 
-The strongest indirect evidence comes from temozolomide's Phase 2 trial in UADT cancers (NCT00423150), which confirms that MGMT-pathway alkylation is biologically actionable in this anatomical space. Because dacarbazine and temozolomide share identical downstream mechanisms, this trial constitutes Grade B indirect support for dacarbazine repurposing in the same indication. The TxGNN model's 99.26% score likely reflects this mechanistic and epidemiological convergence.
+The 99.26% TxGNN score is a computational prediction only, and it does not replace clinical evidence. The approved-indication text was not available in the input, so the link between dacarbazine's labeled uses and this new indication could not be assessed.
 
 ---
 
@@ -67,56 +66,59 @@ The strongest indirect evidence comes from temozolomide's Phase 2 trial in UADT 
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00423150](https://clinicaltrials.gov/study/NCT00423150) | Phase 2 | Terminated | 86 | Temozolomide (oral analogue of dacarbazine, identical MGMT-alkylating mechanism) in MGMT-methylation–selected patients with advanced aerodigestive tract cancers (head & neck, esophageal, NSCLC) and colorectal cancer. Trial terminated; published results (PMID 23443801) show limited efficacy despite biomarker enrichment, suggesting MGMT methylation alone is insufficient for patient selection in UADT. |
+| [NCT00423150](https://clinicaltrials.gov/study/NCT00423150) | Phase 2 | Terminated | 86 | Temozolomide (not dacarbazine) in advanced aerodigestive tract, colorectal, and lung cancers selected for MGMT promoter methylation. The termination reason and efficacy results are not provided. |
 
-> ⚠️ **Note:** The sole registered trial uses **temozolomide**, not dacarbazine directly. No trials with dacarbazine as the investigational agent specifically for UADT neoplasm were identified. This is classified as indirect (Class B) evidence.
+This is indirect evidence only, because the study drug differs from dacarbazine and the record does not show a randomized design.
 
 ---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|---------|
-| [41481311](https://pubmed.ncbi.nlm.nih.gov/41481311/) | 2026 | Phase 3 RCT | JAMA Oncology | Toripalimab vs **dacarbazine** as first-line therapy for advanced acral melanoma. Dacarbazine served as the active comparator arm, confirming its continued use as a clinical benchmark in advanced melanoma — the subtype most directly overlapping with UADT mucosal melanoma. |
-| [23443801](https://pubmed.ncbi.nlm.nih.gov/23443801/) | 2013 | Phase 2 RCT | Mol Cancer Ther | Phase 2 study of temozolomide in MGMT-methylated aerodigestive tract and colorectal cancers (NCT00423150). Limited responses observed; MGMT methylation alone insufficient for patient selection. Establishes alkylating agent activity in UADT as investigable but not yet confirmed. |
-| [7826911](https://pubmed.ncbi.nlm.nih.gov/7826911/) | 1994 | Case Series | Ann Oncol | **Dacarbazine + 5-FU** combination chemotherapy in advanced medullary thyroid carcinoma (a neuroendocrine UADT tumour). Cytotoxic drug combination explored given MTC's neuroendocrine biology; provides direct evidence of dacarbazine use in a UADT-region neoplasm. |
-| [8346929](https://pubmed.ncbi.nlm.nih.gov/8346929/) | 1993 | Case Series | Gan To Kagaku Ryoho | CYVADIC regimen (cyclophosphamide, vincristine, doxorubicin, **DTIC/dacarbazine**) for head and neck angiosarcoma (Wilson-Jones type). Dacarbazine included as active component; angiosarcoma of head/neck falls within UADT region. Prognosis poor despite multimodal treatment. |
-| [34654328](https://pubmed.ncbi.nlm.nih.gov/34654328/) | 2024 | Retrospective Cohort | Ear Nose Throat J | Six-patient series of malignant head and neck paragangliomas. Characterises genetic mutations and treatment options; identifies systemic chemotherapy as a consideration for this rare UADT neoplasm subtype relevant to dacarbazine's neuroendocrine activity profile. |
-| [11163509](https://pubmed.ncbi.nlm.nih.gov/11163509/) | 2001 | Retrospective Case Series | Int J Radiat Oncol | Radiotherapy for esthesioneuroblastoma (olfactory neuroblastoma) — a rare UADT neoplasm. Multi-centre analysis; context for the broader UADT neoplasm treatment landscape. |
-| [3153227](https://pubmed.ncbi.nlm.nih.gov/3153227/) | 1986 | Case Report | Pediatr Hematol Oncol | Olfactory neuroblastoma with intracranial extension in a 2-year-old; treated with radiation and combination chemotherapy including **cyclophosphamide** (a related alkylating agent). Historical precedent for alkylating chemotherapy in UADT neuroblastic tumours. |
-| [20627492](https://pubmed.ncbi.nlm.nih.gov/20627492/) | 2010 | Review | Clin Oncol | Comprehensive review of medullary thyroid carcinoma (MTC) biology, RET mutations, and treatment. Describes the limited role of cytotoxic chemotherapy in systemic MTC — relevant context for dacarbazine's potential in this UADT neoplasm. |
-| [34705104](https://pubmed.ncbi.nlm.nih.gov/34705104/) | 2022 | Epidemiological Review | J Cancer Res Clin Oncol | Global burden of EBV-related cancers including nasopharyngeal carcinoma (a major UADT tumour). Epidemiological context; EBV-driven NPC is a dominant UADT malignancy where novel systemic therapies are actively sought. |
-| [12113649](https://pubmed.ncbi.nlm.nih.gov/12113649/) | 2002 | Review | Am J Clin Dermatol | Comprehensive melanoma management review covering dacarbazine's role as standard systemic therapy. Establishes dacarbazine as the reference alkylating agent for melanoma, including mucosal subtypes that arise within UADT anatomical sites. |
+|------|-----|------|------|---------|
+| [41481311](https://pubmed.ncbi.nlm.nih.gov/41481311/) | 2026 | RCT (Phase 3) | JAMA Oncology | Toripalimab vs dacarbazine as first-line therapy in acral melanoma. Dacarbazine was the comparator, in a different indication. |
+| [23443801](https://pubmed.ncbi.nlm.nih.gov/23443801/) | 2013 | Phase 2 trial | Molecular Cancer Therapeutics | Publication of NCT00423150: temozolomide in advanced aerodigestive tract and colorectal cancers with MGMT promoter methylation. This is a related drug, not dacarbazine. |
+| [7826911](https://pubmed.ncbi.nlm.nih.gov/7826911/) | 1994 | Clinical study | Annals of Oncology | Dacarbazine plus 5-fluorouracil chemotherapy in advanced medullary thyroid cancer. This is a neuroendocrine head-and-neck-region tumor, not an aerodigestive tract cancer. |
+| [20627492](https://pubmed.ncbi.nlm.nih.gov/20627492/) | 2010 | Review | Clinical Oncology | Overview of medullary thyroid carcinoma. |
+| [25772801](https://pubmed.ncbi.nlm.nih.gov/25772801/) | 2015 | Review | J Clin Neurosci | Temozolomide in aggressive pituitary tumors (related drug, different disease). |
+| [12113649](https://pubmed.ncbi.nlm.nih.gov/12113649/) | 2002 | Review | Am J Clin Dermatol | Current concepts in melanoma management. |
+| [8346929](https://pubmed.ncbi.nlm.nih.gov/8346929/) | 1993 | Review (Japanese) | Gan to Kagaku Ryoho | Chemotherapy for head and neck angiosarcoma, including the CYVADIC regimen, which contains dacarbazine. Prognosis remains extremely poor. |
+| [34654328](https://pubmed.ncbi.nlm.nih.gov/34654328/) | 2024 | Cohort (6 patients) | Ear, Nose & Throat Journal | Clinicopathological and genetic features of head and neck malignant paragangliomas. |
+| [11163509](https://pubmed.ncbi.nlm.nih.gov/11163509/) | 2001 | Retrospective cohort | Int J Radiat Oncol Biol Phys | Radiotherapy of esthesioneuroblastoma, a rare intranasal tumor. Radiotherapy only, not dacarbazine. |
+
+Most of the retrieved literature is indirect: it involves a different drug, a different disease, or both. None of it shows dacarbazine efficacy in upper aerodigestive tract neoplasm.
 
 ---
 
 ## US Market Information
 
-No US FDA licenses (NDAs) for dacarbazine were identified in the current database query. The drug is listed as **not marketed** in this dataset.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA075259 | Dacarbazine | Injection, powder, for solution | Meitheal Pharmaceuticals Inc. |
+| ANDA075371 | Dacarbazine | Injection, powder, for solution | Fresenius Kabi USA, LLC |
+| ANDA075812 | Dacarbazine | Injection, powder, lyophilized, for solution | Hikma Pharmaceuticals USA Inc. |
 
-> ⚠️ **Data Verification Recommended:** Dacarbazine (DTIC-Dome®) has historically held FDA approval for metastatic melanoma and Hodgkin's disease. The absence of records in this dataset likely reflects a database gap rather than true non-approval status. Manual verification against the FDA Orange Book or DailyMed is recommended before drawing regulatory conclusions.
+All products are injectable. One record (ANDA075371) appeared twice in the input and is listed once here.
 
 ---
 
 ## Cytotoxicity
 
-Dacarbazine meets antineoplastic criteria: it is a conventional cytotoxic chemotherapy agent in the triazene/alkylating class, used for melanoma and Hodgkin's disease.
-
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Conventional cytotoxic — Triazene alkylating agent (DNA O⁶-methylguanine methylation via active metabolite MTIC) |
-| Myelosuppression Risk | High — leukopenia and thrombocytopenia are dose-limiting toxicities; nadir typically at 3–4 weeks |
-| Emetogenicity Classification | High — dacarbazine is among the most emetogenic IV agents; prophylactic 5-HT₃ antagonist + NK₁ antagonist + dexamethasone required |
-| Monitoring Items | CBC with differential (before each cycle and at nadir), hepatic function (ALT, AST, bilirubin), renal function (creatinine); monitor for hepatic veno-occlusive disease |
-| Handling Protection | Must follow cytotoxic drug handling regulations — prepare in a biological safety cabinet, personal protective equipment (gloves, gown, eye protection) mandatory; classified as NIOSH hazardous drug |
+|------|------|
+| Cytotoxicity Classification | Conventional cytotoxic (alkylating agent) |
+| Myelosuppression Risk | Expected to be significant for this class. Please refer to the package insert for specifics. |
+| Emetogenicity Classification | Moderate to high (typical for dacarbazine-type alkylators). Confirm against the package insert. |
+| Monitoring Items | CBC with differential, liver and renal function |
+| Handling Protection | Must follow cytotoxic drug handling regulations |
+
+These entries are based on general drug-class knowledge, not on data in the Evidence Pack. Please refer to the package insert warnings and precautions.
 
 ---
 
 ## Safety Considerations
 
-Safety-specific data (package insert warnings, contraindications, drug interactions) was not retrievable for this candidate from the current data sources.
-
-> Please refer to the current package insert and institutional chemotherapy protocols for complete safety information, including hepatotoxicity risk, renal impairment dosing adjustments, photosensitivity precautions, and reproductive toxicity warnings.
+Please refer to the package insert for safety information.
 
 ---
 
@@ -125,16 +127,15 @@ Safety-specific data (package insert warnings, contraindications, drug interacti
 **Decision: Hold**
 
 **Rationale:**
-Evidence for dacarbazine specifically in UADT neoplasms remains indirect (L3): the only clinical trial used temozolomide (an analogue, not dacarbazine itself) and was terminated without meeting endpoints, while literature support consists largely of case series, reviews, and trials using dacarbazine in mechanistically adjacent but anatomically distinct tumour types. The mechanistic rationale is scientifically sound, particularly for UADT mucosal melanoma and neuroendocrine subtypes, but direct efficacy data is absent.
+The prediction score is very high, but the only linked trial tested temozolomide, was terminated, and has no efficacy conclusion. No dacarbazine-specific evidence exists for this indication, so the evidence level is L4.
 
 **To proceed, the following is needed:**
-
-- **Direct clinical evidence:** Identify or initiate a pilot study of dacarbazine (or DTIC-containing regimen) specifically in UADT subtypes — particularly **mucosal melanoma of the oral/sinonasal cavity** (highest mechanistic overlap with dacarbazine's approved indication)
-- **MOA data confirmation:** Retrieve full DrugBank entry to formally document dacarbazine's mechanism, pharmacokinetics, and DrugBank categories for regulatory submission readiness
-- **Safety data retrieval:** Download and parse the FDA package insert (DailyMed) to populate key warnings, contraindications, and drug interactions — currently a blocking data gap
-- **UADT subtype stratification:** Disaggregate the broad "upper aerodigestive tract neoplasm" category — dacarbazine's likelihood of benefit differs substantially between mucosal melanoma (high plausibility), paraganglioma (moderate), esthesioneuroblastoma (moderate), and squamous cell carcinoma (low) subtypes
-- **Temozolomide cross-referencing:** Analyse why NCT00423150 was terminated and whether patient selection (MGMT methylation) or dose schedule was the limiting factor — this directly informs dacarbazine trial design
-- **US regulatory status verification:** Confirm current FDA approval status and labelled indications against FDA Orange Book and DailyMed to correct the apparent database gap
+- FDA package insert warnings and contraindications, which are required for any safety screening.
+- Mechanism-of-action data for dacarbazine (for example, from DrugBank).
+- Dacarbazine-specific clinical or preclinical evidence in upper aerodigestive tract tumors.
+- The trial's termination reason and results for NCT00423150, to judge how far the temozolomide class-level signal carries over.
+- A clear definition of which tumor subtypes fall under "upper aerodigestive tract neoplasm".
+- Route compatibility assessment (dacarbazine is injectable only).
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Fremanezumab
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 741
-evidence_level: L5
+evidence_level: L4
 indication_count: 2
 ---
 
 # Fremanezumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **2** 
+Evidence Level: **L4** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,9 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Fremanezumab is a fully humanized anti-CGRP monoclonal antibody used as a preventive treatment for episodic and chronic migraine. The TxGNN model predicts it may be effective for **Migraine with Brainstem Aura** (basilar-type migraine), with a prediction score of **99.94%**, though **no clinical trials** and only preclinical/observational literature currently support this specific subtype. This is presently a research-stage hypothesis rather than a clinically validated indication.
+Fremanezumab (marketed in the US as AJOVY) is an anti-CGRP monoclonal antibody used to prevent migraine.
+The TxGNN model predicts it may be effective for **migraine with brainstem aura**,
+but so far there are **0 registered clinical trials** and **20 publications**, and none of them studies this exact subtype directly.
 
 ---
 
@@ -41,21 +43,26 @@ Fremanezumab is a fully humanized anti-CGRP monoclonal antibody used as a preven
 
 | Item | Content |
 |------|------|
-| Original Indication | Migraine prevention (episodic/chronic migraine) — per literature evidence; no Taiwan-approved label text available (drug not marketed) |
-| Predicted New Indication | Migraine with Brainstem Aura |
+| Predicted New Indication | Migraine with brainstem aura |
 | TxGNN Prediction Score | 99.94% |
-| Evidence Level | L4 (preclinical / mechanism studies) |
-| Taiwan Market Status | Not Marketed (Not marketed) |
-| Number of NDAs | 0 |
-| Recommended Decision | Hold |
+| Evidence Level | L4 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 records (both are the same application, BLA761089) |
+| Recommended Decision | Hold (treat as a research question) |
+
+The approved indication text was not included in the supplied regulatory data, so the original indication is not tabulated here.
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Fremanezumab is a monoclonal antibody that selectively binds and neutralizes calcitonin gene-related peptide (CGRP), a neuropeptide central to migraine pathophysiology. Preclinical work shows fremanezumab selectively inhibits trigeminovascular neurons and, when able to cross a compromised blood-brain barrier, slows the propagation and shortens the cortical recovery period of cortical spreading depression (CSD) — the electrophysiological event believed to underlie migraine aura.
+Detailed mechanism of action data is not available in the Evidence Pack. Fremanezumab is a humanized monoclonal antibody that targets calcitonin gene-related peptide (CGRP), a vasodilator peptide central to migraine biology. It is already marketed as a migraine preventive, and migraine with brainstem aura is a subtype of migraine. Blocking the CGRP pathway is therefore biologically plausible for this condition.
 
-Migraine with brainstem aura (basilar-type migraine) is a specific aura subtype for which triptans are traditionally avoided due to theoretical vasoconstrictive risk. Because anti-CGRP monoclonal antibodies act through a non-vasoconstrictive mechanism, they are mechanistically attractive for this subtype. However, patients with brainstem aura and related subtypes (e.g., hemiplegic migraine) are systematically excluded from the pivotal Phase 3 RCTs that established fremanezumab's efficacy, so this rationale remains mechanistic and extrapolated rather than directly confirmed. Notably, one preclinical study found fremanezumab did *not* block CSD-induced arterial dilatation or plasma protein extravasation, indicating the mechanism-to-outcome link for aura specifically is not fully established.
+Preclinical work on cortical spreading depression (CSD), the wave of neuronal depolarization thought to underlie aura, gives only partial support:
+- One study found that CSD-induced arterial dilatation and plasma protein extravasation were **unaffected** by fremanezumab.
+- Another found slower CSD propagation and a shorter cortical recovery period, but CSD still occurred.
+
+Clinical data on aura come from case series, case reports and post hoc analyses. No study specifically enrolled or stratified patients with brainstem aura. The evidence is therefore indirect, and the very high TxGNN score has not been confirmed by aura-specific clinical data.
 
 ---
 
@@ -69,22 +76,26 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [35268319](https://pubmed.ncbi.nlm.nih.gov/35268319/) | 2022 | Case Report/Review | J Clin Med | Reviews case reports on anti-CGRP mAbs (incl. fremanezumab) for migraine aura prevention; suggests possible benefit but evidence remains limited |
-| [41618146](https://pubmed.ncbi.nlm.nih.gov/41618146/) | 2026 | Cohort (individual patient analysis) | J Headache Pain | Individual patient data analysis of anti-CGRP mAbs in hemiplegic migraine (an aura subtype); reports effectiveness/safety despite systematic RCT exclusion of this population |
-| [40264646](https://pubmed.ncbi.nlm.nih.gov/40264646/) | 2025 | Case Report/Review | Front Neurol | Case report plus literature review on anti-CGRP mAb efficacy in hemiplegic migraine, a rare aura subtype largely unstudied in RCTs |
-| [38332541](https://pubmed.ncbi.nlm.nih.gov/38332541/) | 2024 | Observational case series | CNS Neurosci Ther | Observational case series on anti-CGRP-targeted therapy's effect specifically on migraine aura symptoms |
-| [35302681](https://pubmed.ncbi.nlm.nih.gov/35302681/) | 2022 | Cohort (real-world, post hoc) | Eur J Neurol | Post hoc analysis of the fremanezumab FOCUS study; efficacy/QoL improvements maintained in patients with and without aura or neurological dysfunction |
-| [31127003](https://pubmed.ncbi.nlm.nih.gov/31127003/) | 2019 | Preclinical (animal) | J Neurosci | Fremanezumab did not block CSD-induced arterial dilatation/plasma protein extravasation, raising questions about CGRP's specific role in migraine-with-aura pathophysiology |
-| [31895266](https://pubmed.ncbi.nlm.nih.gov/31895266/) | 2020 | Preclinical (animal) | Pain | Fremanezumab (with compromised BBB) slowed CSD propagation and shortened cortical recovery but did not prevent CSD occurrence — the electrophysiological correlate of aura |
-| [28642283](https://pubmed.ncbi.nlm.nih.gov/28642283/) | 2017 | Preclinical (mechanism) | J Neurosci | Foundational study showing fremanezumab selectively inhibits trigeminovascular neurons via peripheral CGRP blockade |
-| [30725283](https://pubmed.ncbi.nlm.nih.gov/30725283/) | 2019 | Review | Handb Exp Pharmacol | Review of CGRP's central role in migraine pathophysiology, including the aura subgroup |
-| [37638190](https://pubmed.ncbi.nlm.nih.gov/37638190/) | 2023 | Cohort (real-world) | Front Neurol | 3-month prospective real-world study confirms fremanezumab efficacy/tolerability in chronic migraine (general population, not aura-specific) |
+| [35302681](https://pubmed.ncbi.nlm.nih.gov/35302681/) | 2022 | Post hoc analysis of RCT | Eur J Neurol | Efficacy and quality-of-life outcomes for fremanezumab in the phase 3b FOCUS study, in subgroups with and without aura or similar neurological dysfunction |
+| [35268319](https://pubmed.ncbi.nlm.nih.gov/35268319/) | 2022 | Case reports + review | J Clin Med | Asks whether anti-CGRP antibodies prevent migraine aura, noting scarce information on this point |
+| [41618146](https://pubmed.ncbi.nlm.nih.gov/41618146/) | 2026 | Individual patient analysis | J Headache Pain | Effectiveness and safety of anti-CGRP antibodies in hemiplegic migraine, a rare aura subtype excluded from RCTs |
+| [38332541](https://pubmed.ncbi.nlm.nih.gov/38332541/) | 2024 | Observational case series | CNS Neurosci Ther | Effect of anti-CGRP therapy on migraine aura, where clinical evidence is limited |
+| [40264646](https://pubmed.ncbi.nlm.nih.gov/40264646/) | 2025 | Case report + review | Front Neurol | Anti-CGRP antibodies in hemiplegic migraine (a middle-aged woman with chronic migraine) |
+| [31127003](https://pubmed.ncbi.nlm.nih.gov/31127003/) | 2019 | Preclinical (CSD model) | J Neurosci | CSD-induced arterial dilatation and plasma protein extravasation were unaffected by fremanezumab |
+| [31895266](https://pubmed.ncbi.nlm.nih.gov/31895266/) | 2020 | Preclinical (CSD model) | Pain | Fremanezumab slowed CSD propagation and shortened cortical recovery but did not prevent CSD in rats with a compromised blood-brain barrier |
+| [28642283](https://pubmed.ncbi.nlm.nih.gov/28642283/) | 2017 | Preclinical | J Neurosci | Selective inhibition of trigeminovascular neurons by fremanezumab |
+| [37638190](https://pubmed.ncbi.nlm.nih.gov/37638190/) | 2023 | Real-world cohort | Front Neurol | 3-month real-world efficacy and tolerability in adults with chronic migraine |
+| [35775208](https://pubmed.ncbi.nlm.nih.gov/35775208/) | 2022 | Observational | Cephalalgia | Effects of erenumab, fremanezumab and galcanezumab on prodromal and accompanying symptoms of migraine attacks |
 
 ---
 
-## Safety Considerations
+## US Market Information
 
-Detailed warnings, contraindications, and drug-interaction data are not yet available in this evidence pack — fremanezumab is not currently marketed in Taiwan, and the TFDA label lookup returned no data (flagged as a Blocking data gap). Please refer to the manufacturer's package insert for safety information.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| BLA761089 | AJOVY | Injection | Teva Pharmaceuticals USA, Inc. |
+
+The Evidence Pack lists this application twice, so only one unique authorization is shown. Approved indication text is not included in the supplied data.
 
 ---
 
@@ -93,13 +104,15 @@ Detailed warnings, contraindications, and drug-interaction data are not yet avai
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic rationale (CGRP blockade acting on the CSD pathway underlying aura) is plausible, but current support comes only from preclinical/mechanism studies and post hoc subgroup analyses of general migraine populations — no trial or study specifically targets migraine with brainstem aura, a subtype systematically excluded from pivotal RCTs. The drug is also not marketed in Taiwan, and TFDA safety-label data required for an initial safety screen (S1) is currently a Blocking gap.
+Fremanezumab is a marketed anti-CGRP antibody, and a link to migraine subtypes is plausible. But there are no trials for brainstem aura, the preclinical CSD data are mixed, and clinical aura evidence is limited to case series, case reports and post hoc analyses. The model score alone is not enough to advance. This is best treated as a research question.
+
+The model's second prediction, atrophoderma vermiculata (score 99.04%), has no trials or literature and no identifiable mechanistic link to CGRP blockade. It should not be pursued without independent evidence.
 
 **To proceed, the following is needed:**
-- TFDA (or manufacturer) approved package insert with warnings/contraindications, to clear the Blocking data gap and enable S1 safety review
-- Structured DrugBank MOA data to formally document the mechanism-of-action linkage
-- Prospective evidence (case series or trials) specifically enrolling migraine-with-brainstem-aura or hemiplegic migraine patients
-- Confirmation of Taiwan regulatory/market entry status for fremanezumab
+- Package insert warnings, contraindications and approved indication text (currently missing, blocking safety screening)
+- Mechanism of action data from DrugBank
+- Aura-specific evidence, ideally a trial or registry that stratifies patients with brainstem aura
+- A check of whether the hemiplegic migraine and aura case data can be extended to brainstem aura
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

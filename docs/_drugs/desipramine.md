@@ -29,80 +29,68 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Desipramine: From Major Depressive Disorder to Attention Deficit Hyperactivity Disorder (Inattentive Type)
+# Desipramine: From Tricyclic Antidepressant to ADHD, Inattentive Type
 
 ## One-Sentence Summary
 
-Desipramine is a tricyclic antidepressant (TCA) in the norepinephrine reuptake inhibitor (NRI) class, historically used for major depressive disorder and documented as a second-line agent for broader ADHD. The TxGNN model predicts it may be effective for **Attention Deficit Hyperactivity Disorder, Inattentive Type** with a score of 99.81%; however, **no clinical trials and no publications** specifically addressing this ADHD subtype have been identified to date.
-
----
+Desipramine is a tricyclic antidepressant that is currently marketed in the United States as several generic oral products.
+The TxGNN model predicts it may be effective for **Attention Deficit Hyperactivity Disorder, Inattentive Type**.
+For this subtype, **0 clinical trials** and **0 publications** were retrieved, so the prediction is supported by the model score only.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Major Depressive Disorder (historical use; no US FDA records retrieved in current query) |
-| Predicted New Indication | Attention Deficit Hyperactivity Disorder, Inattentive Type |
+|------|------|
+| Predicted New Indication | Attention deficit hyperactivity disorder, inattentive type |
 | TxGNN Prediction Score | 99.81% |
-| Evidence Level | L5 |
-| US Market Status | Not Found (0 records retrieved) |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
 
----
+The supplied data lists no approved indication text, so the original indication is not shown here.
 
 ## Why is This Prediction Reasonable?
 
-Formal mechanism of action data was not available in this dataset. Based on established pharmacological knowledge, Desipramine is a tricyclic antidepressant that functions primarily as a selective norepinephrine reuptake inhibitor (NRI). By blocking the norepinephrine transporter (NET), it elevates norepinephrine availability in the prefrontal cortex — a brain region that governs executive function, working memory, and sustained attention. This is the same central mechanism by which Atomoxetine operates; Atomoxetine is a selective NRI approved as a first-line non-stimulant ADHD treatment, and this mechanistic parallel lends biological credibility to Desipramine's predicted utility in ADHD.
+Currently, detailed mechanism of action data is not available in the Evidence Pack. Desipramine is known to be a norepinephrine reuptake inhibitor. In ADHD, this pathway is also targeted by atomoxetine, and it is plausibly relevant to the subtype predicted here.
 
-The theoretical fit for the inattentive subtype is particularly notable. NRI-dominant pharmacology preferentially improves attentional and cognitive symptoms over hyperactive-impulsive symptoms, meaning the inattentive presentation is arguably the more mechanistically appropriate target compared to the combined or hyperactive-impulsive subtypes. Historical clinical literature on the broader ADHD category (rank 2 in this Evidence Pack) further supports the NRI rationale: multiple systematic reviews and a Cochrane meta-review (PMID 25238582) document that tricyclic antidepressants including Desipramine were used as second-line ADHD treatments, and a 1994 review (PMID 8032506) explicitly lists Desipramine as a reasonable second choice when stimulants fail.
-
-The gap between the well-supported broader ADHD prediction and the subtype-specific prediction is therefore not one of mechanism, but of clinical evidence granularity. The TxGNN model's high-confidence prediction (99.81%) for the inattentive subtype is mechanistically coherent; the absence of subtype-specific studies is a data gap, not a refutation.
-
----
+No trials or literature were retrieved specifically for the inattentive subtype. The subtype is best evaluated under the parent entry, **attention deficit-hyperactivity disorder** (TxGNN score 99.78%). That entry has 14 retrieved publications, including systematic reviews such as a Cochrane review of tricyclic antidepressants in children and adolescents (PMID 25238582). Trial-level phase and desipramine-specific effect sizes were not verified from the supplied data, so that entry is only tentatively rated L2 and labelled a research question.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Desipramine in ADHD (Inattentive Type).
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available specifically for Desipramine in ADHD (Inattentive Type).
-
-> **Context note:** For the closely related indication of ADHD (general), 15 publications were identified, including a Cochrane systematic review of TCAs in ADHD (PMID 25238582), a Cochrane review of ADHD with comorbid tic disorders (PMID 29944175), and a 2020 meta-review of antidepressants in children and adolescents (PMID 32982805). These publications collectively document Desipramine's historical use in ADHD but do not stratify by subtype.
-
----
+Currently no related literature available for this specific subtype.
 
 ## US Market Information
 
-No US FDA license records were retrieved for Desipramine in the current dataset (0 NDAs returned). Users are advised to verify current regulatory status directly via the FDA's Drugs@FDA portal, as Desipramine (brand name Norpramin®) has historically been available in the US market for the treatment of depression.
+The 20 authorizations are all oral generic (ANDA) products. The supplied data has no approved-indication text for any of them. The main unique authorizations are listed below.
 
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA208105 | Desipramine Hydrochloride | Tablet, film coated | Amneal Pharmaceuticals NY LLC |
+| ANDA207433 | Desipramine Hydrochloride | Tablet | Chartwell RX, LLC |
+| ANDA204963 | Desipramine Hydrochloride | Tablet | Ingenus Pharmaceuticals, LLC |
+| ANDA074430 | Desipramine Hydrochloride | Tablet, film coated | Actavis Pharma, Inc. |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-> **Note for clinical teams:** Although formal warning and contraindication data were not retrievable in this query cycle, Desipramine is a TCA and carries class-level risks that should be reviewed prior to any clinical application, particularly: (1) cardiac conduction effects (QTc prolongation risk), (2) pediatric suicide risk warnings common to antidepressants, and (3) anticholinergic adverse effects. These are especially relevant given the pediatric ADHD population.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The NRI mechanism provides a coherent biological basis for this prediction, and Desipramine's historical use in ADHD is documented in multiple systematic reviews. However, no direct evidence — from clinical trials or targeted literature — exists specifically for the inattentive subtype, the precise indication predicted here. With an evidence level of L5, a Hold is appropriate until subtype-specific or at minimum subgroup-stratified data can be identified.
+The prediction is model-only (L5), with no trials or literature for the inattentive subtype. The stronger evidence sits under the parent ADHD entry. That entry also carries cardiovascular safety concerns in paediatric use and tricyclic overdose risk, which limit it to a research question at most.
 
 **To proceed, the following is needed:**
-
-- **Subtype-specific evidence search:** Conduct a targeted literature search for Desipramine or TCA outcomes stratified by ADHD subtype (inattentive vs. combined vs. hyperactive-impulsive); existing ADHD studies may contain extractable subgroup data
-- **Mechanism of action documentation:** Retrieve formal MOA data from DrugBank (remediation: DrugBank API, tagged DG002 / High severity) to strengthen the mechanistic rationale document
-- **US regulatory status verification:** Confirm current FDA approval status, retrieve full prescribing information (NDA number, current labeling), and check for any post-market safety updates
-- **Cardiac safety review:** Given the pediatric ADHD context, obtain and evaluate QTc-related data and any existing cardiovascular safety findings for Desipramine
-- **Atomoxetine benchmarking:** Position Desipramine against the approved NRI standard (Atomoxetine) in terms of NET selectivity, tolerability, and pediatric safety to identify whether a clinical advantage or distinct niche exists for the inattentive subtype specifically
+- Re-evaluate under the parent ADHD indication, and verify phase and desipramine-specific effect sizes in the retrieved systematic reviews (for example the Cochrane review, PMID 25238582).
+- Obtain the FDA package insert warnings and contraindications, which are currently a blocking data gap.
+- Obtain the mechanism of action data from DrugBank.
+- Assess paediatric cardiovascular safety and overdose risk before any clinical direction is considered.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

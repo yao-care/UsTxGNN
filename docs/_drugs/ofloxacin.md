@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Ofloxacin
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 984
-evidence_level: L2
+evidence_level: L5
 indication_count: 10
 ---
 
 # Ofloxacin
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Ofloxacin: From Bacterial Infections to Monoclonal Gammopathy
+# Ofloxacin: From Antibacterial Use to Hyperamylasemia
 
 ## One-Sentence Summary
 
-> Ofloxacin is a fluoroquinolone antibiotic used broadly for bacterial infections, though it is not currently marketed in Taiwan.
-> The TxGNN model predicts a repurposing opportunity in **Monoclonal Gammopathy** — specifically as prophylactic antibiotic therapy to prevent infection-related mortality in newly diagnosed multiple myeloma —
-> supported by **19 publications**, including two completed Phase 3 RCTs, though the RCT evidence is for levofloxacin (a stereoisomer of ofloxacin) rather than ofloxacin itself.
+Ofloxacin is a fluoroquinolone antibacterial (DNA gyrase/topoisomerase IV inhibitor) that is marketed in the US in oral, ophthalmic and otic forms.
+The TxGNN model's top-ranked prediction is **hyperamylasemia** (score 99.91%), but there are **0 clinical trials** and **0 publications** behind it, and no plausible mechanism, so it is most likely a knowledge-graph artifact.
+Two lower-ranked predictions, **septicemic plague** and **monoclonal gammopathy**, have literature support and are covered below.
 
 ---
 
@@ -43,54 +43,69 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | Bacterial infections (fluoroquinolone antibiotic class); no Taiwan license/indication text on file |
-| Predicted New Indication | Monoclonal Gammopathy (infection prophylaxis in newly diagnosed multiple myeloma) |
-| TxGNN Prediction Score | 99.82% |
-| Evidence Level | L2 |
-| US Market Status | Not marketed (Not Marketed) |
-| Number of NDAs | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Original Indication | Not recorded in the license data (ofloxacin is a fluoroquinolone antibacterial) |
+| Predicted New Indication | Hyperamylasemia |
+| TxGNN Prediction Score | 99.91% |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (the five listed are ANDA generics) |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known information, ofloxacin is a second-generation **fluoroquinolone antibiotic** that inhibits bacterial DNA gyrase and topoisomerase IV, blocking DNA replication in susceptible gram-negative and gram-positive organisms. Its antimicrobial spectrum is essentially the same as that of levofloxacin, its more widely studied levo-isomer.
+Detailed mechanism-of-action data is not available in the source record. Ofloxacin is known to inhibit bacterial DNA gyrase and topoisomerase IV, which is why it kills bacteria.
 
-Multiple myeloma (the malignancy underlying monoclonal gammopathy) causes profound humoral immunodeficiency, and roughly a quarter of newly diagnosed patients experience a serious infection within three months of diagnosis. This is not a case of ofloxacin treating the malignancy itself — rather, the predicted benefit is **antibacterial prophylaxis** during the high-risk induction/transplant period, where fluoroquinolones reduce febrile neutropenia and bloodstream infection episodes.
+This mechanism has no known effect on serum amylase, so the link between the original antibacterial use and hyperamylasemia is not supported. The very high score alongside zero trials and zero literature suggests a knowledge-graph artifact. The prediction should not be treated as a real repurposing signal.
 
-The key caveat is that the strongest evidence (the TEAMM Phase 3 RCT) was conducted with **levofloxacin**, not ofloxacin. Since both drugs share the same core fluoroquinolone mechanism and overlapping spectrum, a class-effect extrapolation is mechanistically plausible, but it has not been directly validated for ofloxacin in this population.
+Among the other top-10 predictions, two have a more credible basis:
+
+- **Septicemic plague (rank 8):** Ofloxacin is active against *Yersinia pestis*, and this is an extension within the antibacterial class rather than a novel repurposing.
+- **Monoclonal gammopathy (rank 6):** The evidence concerns infection prophylaxis in myeloma with levofloxacin (the L-isomer of ofloxacin), not treatment of the gammopathy itself.
+
+The remaining predictions (polyclonal hyperviscosity syndrome, congenital analbuminemia, blood group incompatibility, premalignant hematological disease, hematological disease with peripheral neuropathy, congenital hematological disorder, punctate epithelial keratoconjunctivitis) have no mechanistic rationale or only irrelevant literature. Fluoroquinolones are themselves associated with peripheral neuropathy, which argues against the rank 7 prediction.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
-
-*(Supporting RCT evidence exists but is captured under Literature Evidence below — the pivotal TEAMM trial (PMID 31668592 / 31690402) was a registered multicentre Phase 3 RCT, but it was ingested via PubMed rather than as a clinical trial registry record in this evidence pack.)*
+Currently no related clinical trials registered for hyperamylasemia. None are registered for any of the other top-10 predictions either.
 
 ---
 
 ## Literature Evidence
 
+Currently no related literature available for hyperamylasemia.
+
+For reference, the best-supported lower-ranked predictions (all indirect, mostly other fluoroquinolones or animal data):
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [31668592](https://pubmed.ncbi.nlm.nih.gov/31668592/) | 2019 | RCT | The Lancet Oncology | TEAMM trial: levofloxacin prophylaxis in newly diagnosed myeloma reduced serious infections vs. placebo in a multicentre, double-blind, Phase 3 RCT |
-| [31690402](https://pubmed.ncbi.nlm.nih.gov/31690402/) | 2019 | RCT | Health Technology Assessment | Full TEAMM RCT report: prophylactic levofloxacin reduced febrile episodes/death in first 12 weeks post-diagnosis without significant increase in C. difficile infection |
-| [37573150](https://pubmed.ncbi.nlm.nih.gov/37573150/) | 2023 | Cohort | Transplant Infectious Disease | Infectious complications after autologous HCT in myeloma patients; evaluated outcomes with/without levofloxacin prophylaxis |
-| [32019731](https://pubmed.ncbi.nlm.nih.gov/32019731/) | 2020 | Cohort | Clin Lymphoma Myeloma Leuk | Real-world Asian cohort: bacterial infection rates during bortezomib-based induction without routine fluoroquinolone prophylaxis |
-| [26150022](https://pubmed.ncbi.nlm.nih.gov/26150022/) | 2015 | Cohort | Biol Blood Marrow Transplant | Prophylactic levofloxacin reduced bloodstream infection and febrile neutropenia rates in autologous HSCT for myeloma |
-| [25212681](https://pubmed.ncbi.nlm.nih.gov/25212681/) | 2014 | Cohort | Int J Hematol | Levofloxacin prophylaxis reduced severe infections in myeloma patients on bortezomib-based regimens |
-| [29080369](https://pubmed.ncbi.nlm.nih.gov/29080369/) | 2018 | Cohort | Clinical Transplantation | Retrospective comparison of ciprofloxacin vs. levofloxacin prophylaxis in autologous HSCT for myeloma — similar breakthrough infection rates |
-| [32304873](https://pubmed.ncbi.nlm.nih.gov/32304873/) | 2020 | Review | Biol Blood Marrow Transplant | Reviews controversy and evidence base for fluoroquinolone prophylaxis in autologous stem cell transplantation |
-| [32172361](https://pubmed.ncbi.nlm.nih.gov/32172361/) | 2020 | Review | Curr Hematol Malig Rep | Supportive care review in multiple myeloma, including infection prevention strategies |
-| [15791505](https://pubmed.ncbi.nlm.nih.gov/15791505/) | 2005 | Cohort | Clinical Infectious Diseases | Fluoroquinolone prophylaxis associated with reduced infection-related mortality in neutropenic hematologic malignancy patients |
+| [31668592](https://pubmed.ncbi.nlm.nih.gov/31668592/) | 2019 | RCT (Phase 3) | Lancet Oncol | Monoclonal gammopathy/myeloma: TEAMM, double-blind placebo-controlled trial of levofloxacin infection prophylaxis in newly diagnosed myeloma |
+| [31690402](https://pubmed.ncbi.nlm.nih.gov/31690402/) | 2019 | RCT report | Health Technol Assess | Monoclonal gammopathy/myeloma: full TEAMM report on levofloxacin prophylaxis and health-care-associated infections |
+| [32172361](https://pubmed.ncbi.nlm.nih.gov/32172361/) | 2020 | Review | Curr Hematol Malig Rep | Monoclonal gammopathy/myeloma: supportive care principles in myeloma, including infection management |
+| [37573150](https://pubmed.ncbi.nlm.nih.gov/37573150/) | 2023 | Cohort | Transpl Infect Dis | Monoclonal gammopathy/myeloma: infectious complications after autologous transplant, with or without levofloxacin prophylaxis |
+| [32435803](https://pubmed.ncbi.nlm.nih.gov/32435803/) | 2020 | Review | Clin Infect Dis | Septicemic plague: African green monkey model and FDA approval of antimicrobials under the Animal Rule |
+| [32435805](https://pubmed.ncbi.nlm.nih.gov/32435805/) | 2020 | Animal study | Clin Infect Dis | Septicemic plague: effect of delayed treatment on ciprofloxacin and levofloxacin efficacy in pneumonic plague |
+| [21347450](https://pubmed.ncbi.nlm.nih.gov/21347450/) | 2011 | Animal study | PLoS Negl Trop Dis | Septicemic plague: levofloxacin tested for pneumonic plague in a nonhuman primate model |
+| [16127904](https://pubmed.ncbi.nlm.nih.gov/16127904/) | 2002 | Animal study | Antibiot Khimioter | Septicemic plague: ofloxacin prophylaxis and treatment in experimental plague in mice |
+| [8203841](https://pubmed.ncbi.nlm.nih.gov/8203841/) | 1994 | Animal study | Antimicrob Agents Chemother | Septicemic plague: ofloxacin among antibiotics active in a murine *Y. pestis* infection model |
+| [8540736](https://pubmed.ncbi.nlm.nih.gov/8540736/) | 1995 | In vitro | Antimicrob Agents Chemother | Septicemic plague: ofloxacin among the most active agents against 78 *Y. pestis* strains |
 
 ---
 
 ## US Market Information
 
-No Taiwan or US license records are available for ofloxacin in this evidence pack (`market_status`: Not marketed / Not Marketed; `total_licenses`: 0).
+The license records do not include approved-indication text.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA076622 | Ofloxacin | Solution/drops | A-S Medication Solutions |
+| ANDA217904 | Ofloxacin | Solution | Leading Pharma, LLC |
+| ANDA091656 | Ofloxacin | Tablet, coated (oral) | Nivagen Pharmaceuticals, Inc. |
+| ANDA091656 | Ofloxacin | Tablet, film coated (oral) | Modavar Pharmaceuticals LLC |
+| ANDA076527 | Ofloxacin Otic | Solution | Bryant Ranch Prepack |
 
 ---
 
@@ -102,16 +117,19 @@ Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The TEAMM Phase 3 RCT and multiple supporting cohort studies provide solid L2-level evidence that fluoroquinolone prophylaxis reduces infection-related mortality in newly diagnosed multiple myeloma. However, this evidence was generated with levofloxacin, not ofloxacin directly, so the class-effect assumption needs explicit validation before clinical application.
+The top-ranked prediction, hyperamylasemia, has no mechanistic link, no trials and no literature, so the high TxGNN score is best treated as a knowledge-graph artifact. Septicemic plague (class-level, preclinical) and monoclonal gammopathy (indirect, levofloxacin-based) are the only predictions worth further review, both at the "Research Question" stage.
 
 **To proceed, the following is needed:**
-- Resolve **DG001 (Blocking)**: obtain TFDA/international package insert warnings and contraindications before any safety sign-off
-- Resolve **DG002 (High)**: confirm ofloxacin's detailed MOA and pharmacokinetic comparability to levofloxacin to support class-effect extrapolation
-- Direct evidence (even pharmacokinetic/PD bridging data) on ofloxacin specifically in neutropenic/myeloma populations, since current RCT support is for its levo-isomer
-- A defined monitoring and antimicrobial stewardship plan given fluoroquinolone-class risks (e.g., C. difficile infection, resistance selection) noted in the supporting literature
+- The US package insert (warnings and contraindications), which is currently a blocking data gap for safety screening
+- Detailed mechanism-of-action data from DrugBank
+- For plague: human or Animal Rule-type evidence specific to ofloxacin, since the regulatory precedent is for levofloxacin and ciprofloxacin
+- For monoclonal gammopathy: evidence in MGUS specifically, and an ofloxacin-specific study rather than extrapolation from levofloxacin
+- Route-compatibility and similarity-to-original-indication assessments, which are still pending
+
+*For research reference only. Not medical advice. Predictions require clinical validation.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

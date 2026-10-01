@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Fluoxetine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 724
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 ---
 
 # Fluoxetine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,66 +29,96 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Fluoxetine: From Major Depressive Disorder to Histrionic Personality Disorder
+# Fluoxetine: From Depression to Histrionic Personality Disorder
 
 ## One-Sentence Summary
 
-Fluoxetine (DrugBank DB00472) is a selective serotonin reuptake inhibitor (SSRI) whose established use, as reflected throughout the collected literature, is major depressive disorder and related mood/anxiety-spectrum conditions.
-The TxGNN model predicts it may be effective for **Histrionic Personality Disorder**,
-but currently only **3 indirectly related publications** and **no registered clinical trials** support this specific direction.
+Fluoxetine is a selective serotonin reuptake inhibitor (SSRI) antidepressant that is widely marketed in the US.
+The TxGNN model predicts it may be effective for **histrionic personality disorder** (score 99.92%), but there are **0 clinical trials** and only **3 loosely related publications**, none specific to this condition.
+This is a model-only prediction and is not supported by disease-specific evidence.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Major depressive disorder (SSRI antidepressant class; no formal regulatory license record available in this evidence pack) |
-| Predicted New Indication | Histrionic Personality Disorder |
+| Original Indication | Depression (from the literature in the pack; the US label text in the pack is blank) |
+| Predicted New Indication | Histrionic personality disorder |
 | TxGNN Prediction Score | 99.92% |
-| Evidence Level | L4 |
-| US Market Status | Not marketed (Not Marketed — no license record captured in this dataset) |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (the listed licenses are ANDA generics) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in this evidence pack. Based on the surrounding literature context (drawn from trials and reviews for other predicted indications in this dataset), fluoxetine is an SSRI-class antidepressant that enhances serotonergic neurotransmission through selective inhibition of neuronal serotonin reuptake, with well-established efficacy in major depressive disorder, panic disorder, and social anxiety.
+Currently, detailed mechanism of action data is not available in the source record. Based on general SSRI pharmacology, fluoxetine blocks the serotonin transporter (SERT). Over time this increases serotonergic signalling and leads to downstream receptor adaptation.
 
-Histrionic personality disorder is characterized by excessive emotionality, attention-seeking behavior, and affective instability — domains that are theoretically linked to serotonergic regulation of mood and impulse control. This provides a plausible, but indirect, biological rationale for the TxGNN prediction.
+Histrionic personality disorder is characterised by emotional lability, attention-seeking and impulsivity. A serotonergic drug might plausibly dampen affective lability and impulsivity, which is the only link between this drug and the prediction.
 
-However, none of the three retrieved publications directly studies fluoxetine treatment of histrionic personality disorder. They cover a body dysmorphic disorder case report, a review of psychiatric manifestations of lupus/Sjögren's syndrome, and an MMPI-2 rating-scale study in depressed patients — all only tangentially related. As noted in the evidence rationale, the mechanistic link here remains speculative rather than confirmed.
+This is an extrapolation. No histrionic-specific data support it, and any benefit would more likely come from treating comorbid depression or anxiety than from changing the personality pattern itself. The high score may partly reflect graph-neighbourhood effects in the knowledge graph rather than a true biological signal.
+
+---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
+
+---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [11865567](https://pubmed.ncbi.nlm.nih.gov/11865567/) | 2001 | Review | L'Encephale | Reviews psychiatric manifestations of systemic lupus erythematosus and Sjögren's syndrome, including a case with predominant psychiatric agitation; not specific to histrionic personality disorder or fluoxetine treatment |
-| [22075735](https://pubmed.ncbi.nlm.nih.gov/22075735/) | 2011 | Cohort (rating-scale study) | Psychiatria Danubina | Examines MMPI-2 neurotic triad subscales (including hysteria) and depression levels after pharmacological treatment in depressive disorder patients |
-| [28791577](https://pubmed.ncbi.nlm.nih.gov/28791577/) | 2018 | Case report | Neuropsychiatrie | "Barbie Doll Syndrome" case report of body dysmorphic disorder in a patient admitted for an eating disorder; no direct treatment data for histrionic personality disorder |
+| [22075735](https://pubmed.ncbi.nlm.nih.gov/22075735/) | 2011 | Cohort | Psychiatria Danubina | Links MMPI-2 neurotic-triad scores (hypochondria, depression, hysteria) to depression levels after drug treatment in depressive disorders. It does not study histrionic personality disorder. |
+| [11865567](https://pubmed.ncbi.nlm.nih.gov/11865567/) | 2001 | Review / case report | L'Encephale | Psychiatric manifestations of lupus and Sjögren's syndrome, treated with cyclophosphamide. Not relevant to fluoxetine. |
+| [28791577](https://pubmed.ncbi.nlm.nih.gov/28791577/) | 2018 | Case report | Neuropsychiatrie | A case of body dysmorphic disorder with an eating disorder. Not relevant to fluoxetine for this indication. |
+
+All three papers are only tangentially related (psychiatric comorbidity or personality-related topics). None tests fluoxetine in histrionic personality disorder.
+
+---
 
 ## US Market Information
 
-This drug currently has no marketing authorization records available in this evidence pack (US market status: Not marketed, 0 licenses on file).
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA078619 | Fluoxetine | Capsule | Aurobindo Pharma Limited |
+| ANDA078619 | Fluoxetine | Capsule | Bryant Ranch Prepack |
+| ANDA078619 | Fluoxetine | Capsule | NorthStar Rx LLC |
+| ANDA078619 | Fluoxetine | Capsule | Major Pharmaceuticals |
+| ANDA078619 | Fluoxetine | Capsule | American Health Packaging |
+
+The record lists 20 licenses in total. Marketed dosage forms are capsule, tablet (including coated and film-coated) and solution, all oral. Approved indication text is not included in the source record.
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Note: TFDA label warnings/contraindications and DDI data are flagged as a **Blocking** data gap in this evidence pack — required before any safety review can proceed.)
+Please refer to the package insert for safety information.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-There are no clinical trials and only three low-tier, indirectly related publications for this indication; the mechanistic link to histrionic personality disorder is speculative rather than evidence-based, and a Blocking data gap exists for core safety data (TFDA warnings/contraindications).
+The prediction has a very high model score but no clinical trials and no publications that test fluoxetine in histrionic personality disorder. The mechanistic link is speculative, so this is a hypothesis only.
+
+Other predicted indications for fluoxetine have much stronger support. Agoraphobia and melancholia are both graded L2 with a "Proceed with Guardrails" recommendation, and are better candidates to prioritise.
 
 **To proceed, the following is needed:**
-- TFDA/US label warnings, contraindications, and DDI data (currently Blocking gap)
-- Detailed mechanism of action (MOA) data (currently High-severity gap)
-- Confirmed original indication and regulatory license history for fluoxetine
-- Dedicated clinical or case-series evidence evaluating fluoxetine specifically in histrionic personality disorder
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Disease-specific studies of SSRIs in histrionic personality disorder, such as a systematic literature review or a pilot trial
+- A drug interaction check, since no interaction data were found
+
+---
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

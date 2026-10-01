@@ -33,7 +33,9 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Prilocaine is an amide-type local anesthetic, historically used for topical and infiltration anesthesia (e.g., combined with lidocaine in EMLA cream) for minor surgical, dental, and dermatologic procedures. The TxGNN model's top-ranked prediction for this drug is **Papillary Conjunctivitis**, but this specific candidate is currently supported by **zero clinical trials** and **zero publications** — it is a pure knowledge-graph embedding signal with no corroborating evidence.
+Prilocaine is an amide local anesthetic, marketed in the US as a dental injection (Citanest Plain).
+The TxGNN model predicts it may be effective for **papillary conjunctivitis**, but this is a graph-based prediction only, with **0 clinical trials** and **0 publications** supporting it.
+Among the top 10 predictions, **neuralgia** has the most supporting evidence (see Conclusion).
 
 ---
 
@@ -41,45 +43,51 @@ Prilocaine is an amide-type local anesthetic, historically used for topical and 
 
 | Item | Content |
 |------|------|
-| Original Indication | Local anesthesia (topical/injectable) — not documented in the available regulatory dataset |
-| Predicted New Indication | Papillary Conjunctivitis |
+| Original Indication | Local anesthesia (inferred from drug class and product; no indication text in the label data) |
+| Predicted New Indication | Papillary conjunctivitis |
 | TxGNN Prediction Score | 99.78% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 (listed as ANDA079235) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (flagged as a data gap in the evidence pack). Based on general pharmacological knowledge, prilocaine is an amide-type local anesthetic that blocks voltage-gated sodium (Nav) channels in peripheral nerves, reducing neuronal excitability and pain signal transmission. Its established use is in local/regional anesthesia — it has no known pharmacological pathway relevant to conjunctival inflammation.
+Prilocaine is an amide local anesthetic that blocks voltage-gated sodium channels. Detailed mechanism-of-action data is not available in the source record beyond this class-level description.
 
-The evidence pack's own rationale for this candidate is explicit: there is "no clinical trial or literature support, and no known mechanistic link to papillary conjunctivitis," and the prediction is judged to be a **low-confidence knowledge-graph embedding pairing** rather than a biologically grounded hypothesis. No plausible connection between sodium-channel blockade and papillary conjunctivitis pathophysiology (typically allergic/mechanical, e.g., contact lens-related) is presented anywhere in the supporting data.
+No mechanism linking sodium channel blockade to the pathology of papillary conjunctivitis (allergic or mechanical) is evident. The original indication, nerve conduction block for anesthesia, is unrelated to the inflammatory and allergic nature of this eye condition.
+
+The high TxGNN score reflects knowledge-graph proximity only. No trials or literature were retrieved, so the prediction is currently unsupported by any independent evidence.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
 ---
 
 ## US Market Information
 
-Prilocaine currently holds **no NDA licenses** in the reviewed regulatory dataset (market status: Not Marketed; 0 total licenses on file). No product-level authorization details are available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA079235 | Citanest Plain (Dentsply Pharmaceutical Inc.) | Injection, solution | Not stated in the available data |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Package insert warnings and contraindications were not retrieved, and no drug interactions were found in the queried data. Please refer to the package insert for safety information.
+
+Literature retrieved for other predicted indications, mostly on the lidocaine/prilocaine combination (EMLA), notes methemoglobinemia, contact allergy, and higher systemic absorption through compromised skin. These are relevant to any repurposing plan.
 
 ---
 
@@ -88,15 +96,13 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The top TxGNN-ranked prediction (Papillary Conjunctivitis) has no clinical trial or literature evidence and no established mechanistic rationale — the score reflects only knowledge-graph embedding similarity, not a validated biological hypothesis. This does not meet the bar to advance past S0.
+The prediction has no clinical trials, no literature, and no plausible mechanism, so it rests on the model score alone (L5). The other top 10 predictions are also weak, except neuralgia (rank 5, L3): small clinical reports and a Phase 2 study of topical lidocaine/prilocaine cream in postherpetic neuralgia exist. That evidence cannot separate prilocaine's own contribution from lidocaine's.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (currently a blocking data gap — required before any S1 safety screening)
-- Confirmed mechanism of action via DrugBank API query
-- Independent literature/mechanistic search specifically probing local anesthetics in ophthalmic/conjunctival inflammatory conditions
-- If a mechanistic or clinical signal cannot be established, this candidate should be deprioritized in favor of other predictions in the same TxGNN batch for this drug
-
-**Note:** Among the 10 TxGNN predictions generated for prilocaine, **neuralgia** (rank 5, score 99.34%) shows substantially stronger existing evidence — evidence level L2, decision stage S3, "Proceed with Guardrails" — supported by a completed Phase 2 trial directly testing lidocaine/prilocaine cream (NCT00916942) and a Tier-1 RCT (PMID 2493878) on lidocaine-prilocaine cream in postherpetic neuralgia. This candidate may warrant a separate, dedicated evaluation report.
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism-of-action data from DrugBank
+- Any direct evidence for ocular use, or a decision to redirect evaluation to neuralgia, where a formal review of the EMLA/PHN evidence would be the logical next step
+- A methemoglobinemia risk assessment for any repeated or large-area topical use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

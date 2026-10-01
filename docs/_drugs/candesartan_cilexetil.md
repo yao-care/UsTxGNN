@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Candesartan Cilexetil
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 490
-evidence_level: L4
+evidence_level: L5
 indication_count: 5
 ---
 
 # Candesartan Cilexetil
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,79 +33,83 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 ## One-Sentence Summary
 
-Candesartan Cilexetil is an angiotensin II type 1 receptor (AT1R) antagonist (ARB class) widely used in clinical practice for hypertension and heart failure, though no Taiwan marketing authorization is currently on record.
-The TxGNN model predicts it may be effective for **Malignant Hypertensive Renal Disease** with a prediction score of 99.68%.
-However, **0 registered clinical trials** and **0 direct publications** exist for this specific combination — the evidence basis rests on mechanistic rationale and indirect class-level data from ARBs in chronic kidney disease.
-
----
+Candesartan cilexetil is an oral tablet marketed in the US. The supplied record lists no approved indication text, but the drug is generally known as an angiotensin II type 1 receptor blocker used for hypertension. The TxGNN model predicts it may be useful for **malignant hypertensive renal disease**, but there are **0 clinical trials** and **0 publications** supporting this direction, so it remains a model-only hypothesis.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension / Heart failure (ARB class; no Taiwan license data available) |
-| Predicted New Indication | Malignant Hypertensive Renal Disease |
+| Original Indication | Not stated in the supplied record (generally known use: hypertension, from external knowledge) |
+| Predicted New Indication | Malignant hypertensive renal disease |
 | TxGNN Prediction Score | 99.68% |
-| Evidence Level | L4 |
-| Taiwan Market Status | ✗ Not marketed |
-| Number of Licenses | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 licenses (NDA and ANDA combined) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Candesartan Cilexetil is a prodrug that is hydrolyzed upon oral absorption to its active form, candesartan — a selective and competitive blocker of the angiotensin II type 1 receptor (AT1R). By blocking AT1R, the drug suppresses the downstream effects of angiotensin II: vasoconstriction, aldosterone secretion, and — critically — efferent arteriolar constriction in the glomerulus. This last effect reduces intraglomerular hydraulic pressure and proteinuria, forming the basis of ARB-class nephroprotection.
+Currently, detailed mechanism of action data is not available. Based on general knowledge, not on the supplied data, candesartan is an angiotensin II type 1 (AT1) receptor blocker with antihypertensive and kidney-protective use. Mechanistically, it may be applicable to hypertensive kidney disease.
 
-Malignant hypertensive renal disease (MHRD) is a severe, rapidly progressive form of hypertensive nephropathy defined by fibrinoid necrosis of small renal vessels, thrombotic microangiopathy, and acute-on-chronic kidney injury. The central driver is RAS overactivation: markedly elevated angiotensin II levels cause intense renal arteriolar vasoconstriction, ischemic glomerular injury, and accelerated renal fibrosis. AT1R blockade by candesartan directly interrupts this cascade — reducing intraglomerular pressure, proteinuria, and inflammatory/fibrotic remodeling — making the mechanistic link to this prediction biologically coherent.
+Two cautions apply:
 
-ARBs as a class carry strong indirect evidence for nephroprotection in CKD with hypertension (e.g., RENAAL and IDNT trials for losartan and irbesartan in diabetic nephropathy). MHRD represents an acute, severe end of the same pathophysiological continuum. The TxGNN knowledge graph prediction appropriately extrapolates this class benefit to the malignant hypertension context. One clinically critical caveat, however, is that initiating ARBs during the acute phase of MHRD may precipitate acute kidney injury in patients with severe bilateral renal artery vasoconstriction — a risk that must be factored into any clinical protocol.
+- The prediction may overlap with existing hypertension labeling rather than represent true repurposing.
+- Malignant hypertension is a hypertensive emergency, so an oral ARB is unlikely to be a first-line treatment.
 
----
+The same score (99.68%) was also given to malignant renovascular hypertension. This suggests the two predictions share a graph neighborhood rather than being independent signals.
 
 ## Clinical Trial Evidence
 
-Currently no clinical trials specifically studying Candesartan Cilexetil in malignant hypertensive renal disease are registered (ClinicalTrials.gov and ICTRP searched on 2026-04-21, result count: 0).
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no directly relevant literature is available for Candesartan Cilexetil in malignant hypertensive renal disease (PubMed searched on 2026-04-21, result count: 0).
+Currently no related literature available.
 
----
+## US Market Information
 
-## Taiwan Market Information
+The record contains no approved-indication text for these licenses, so that column is omitted. 5 of 20 licenses are shown.
 
-Candesartan Cilexetil currently has no marketing authorization in Taiwan (市場狀態：Not marketed). No license records are available for this drug from Taiwan FDA.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA020838 | Candesartan cilexetil | Tablet | Golden State Medical Supply, Inc. |
+| ANDA210302 | Candesartan cilexetil | Tablet | Alembic Pharmaceuticals Inc. |
+| ANDA209119 | Candesartan cilexetil | Tablet | Alembic Pharmaceuticals Limited |
+| ANDA078702 | Candesartan cilexetil | Tablet | Mylan Pharmaceuticals Inc. |
+| ANDA203813 | Candesartan | Tablet | Macleods Pharmaceuticals Limited |
 
----
+The only available route is oral (tablet).
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No drug interaction records were found in the supplied data.
 
-> Package insert warnings, contraindications, and drug interaction data were not retrievable in the current Evidence Pack. Before clinical use, the following should be confirmed from the official prescribing information:
-> - Contraindication in bilateral renal artery stenosis or solitary kidney with stenosis (known class risk for ARBs)
-> - Hyperkalemia risk, especially with concurrent K⁺-sparing diuretics or renal impairment
-> - Acute kidney injury risk upon initiation in volume-depleted patients
+One caution comes from general ARB knowledge rather than the supplied label data. ARBs carry a known safety concern in bilateral renal artery stenosis, which is relevant to the renovascular hypertension prediction and needs specific review.
 
----
+## Other Predictions in the Record
+
+| Predicted Indication | Score | Evidence | Comment |
+|------|------|------|------|
+| Malignant renovascular hypertension | 99.68% | None | ARB blockade is plausible, but renal artery stenosis safety needs review |
+| Pulmonary hypertension, unclear multifactorial mechanism | 99.67% | None | Heterogeneous category, weak single rationale |
+| Pulmonary hypertension owing to lung disease and/or hypoxia | 99.67% | 20 retrieved papers, all generic hypoxia literature | None appear to address candesartan or this indication, so they were not counted as evidence. Vasodilation and hypotension in hypoxemic lung disease is a theoretical concern |
+| Braddock syndrome | 99.56% | None | No plausible mechanistic link evident; may be a graph-topology artifact |
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The AT1R antagonism mechanism of Candesartan Cilexetil provides a strong theoretical basis for nephroprotection in malignant hypertensive renal disease, with robust class-level indirect evidence from ARBs in CKD; however, no direct clinical trial or observational data exists for this specific acute/malignant indication, and the initiation risk for acute kidney injury warrants careful patient selection and monitoring protocols before advancing.
+The prediction is model-only (L5) with no trials or publications. The original indication and mechanism data are missing from the record, and the predicted disease is a hypertensive emergency where an oral ARB is unlikely to be first-line.
 
 **To proceed, the following is needed:**
-- Obtain and review Taiwan TFDA (or originating country) package insert for official warnings and contraindications
-- Retrieve drug-drug interaction profile (DrugBank API or prescribing information)
-- Conduct a focused literature review on ARBs (as a class) in malignant hypertension and hypertensive emergency with acute renal involvement
-- Define the treatment window (acute phase vs. stabilization phase) and eligibility criteria to minimize AKI risk
-- Establish a safety monitoring plan: serum creatinine, eGFR, potassium, and blood pressure within 1–2 weeks of initiation
-- Consider a prospective observational registry or pilot study before formal RCT design
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Approved indication text and mechanism of action data from DrugBank
+- A targeted literature and trial search on candesartan in malignant hypertension and hypertensive nephropathy
+- A check of whether the indication already falls under existing hypertension labeling
+- Renal safety review, including bilateral renal artery stenosis, before any further step
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

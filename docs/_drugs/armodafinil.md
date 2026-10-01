@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Armodafinil
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 399
-evidence_level: L3
+evidence_level: L5
 indication_count: 1
 ---
 
 # Armodafinil
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **1** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,82 +29,89 @@ Evidence Level: **L3** | Predicted Indications: **1**
 
 </div>
 
-The `txgnn-pipeline` skill covers pipeline operations — the report writing instructions are fully defined in the system prompt. Proceeding directly with the evaluation report.
-
----
-
-# Armodafinil: From Narcolepsy to Insomnia
+# Armodafinil: From Sleep-Wake Disorders to Insomnia (Adjunctive Use)
 
 ## One-Sentence Summary
 
-Armodafinil is the R-enantiomer of modafinil, approved in the United States as a wakefulness-promoting agent for excessive sleepiness associated with narcolepsy, obstructive sleep apnea (OSA), and shift work disorder (SWD).
-The TxGNN model predicts it may be effective for **Insomnia**, with **12 clinical trials** and **19 publications** currently touching this direction — though the mechanistic connection is indirect and potentially paradoxical, as the drug's core action promotes wakefulness rather than sleep.
+Armodafinil is a wake-promoting drug used for excessive sleepiness in sleep-wake disorders such as narcolepsy and shift work disorder.
+The TxGNN model predicts it may help with **insomnia**, but the score most likely reflects the drug's closeness to sleep disorders in the knowledge graph, not proof that it treats insomnia.
+Currently **12 clinical trials** and **20 publications** are linked to this prediction, but few are directly about insomnia and no trial results are provided.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Excessive sleepiness associated with narcolepsy, obstructive sleep apnea, and shift work disorder |
-| Predicted New Indication | Insomnia (disease) |
+|------|------|
+| Original Indication | Not listed in the US license records. The pack's rationale describes use in narcolepsy and shift work disorder. |
+| Predicted New Indication | Insomnia |
 | TxGNN Prediction Score | 99.89% |
-| Evidence Level | L3 |
-| US Market Status | Not found in database (0 records returned) |
-| Number of NDAs | 0 |
+| Evidence Level | L2 (rests on Phase 2 RCTs whose results are not provided, so efficacy is unconfirmed) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 licenses (NDAs and ANDAs) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on well-established pharmacology, Armodafinil is the R-enantiomer of modafinil — a wakefulness-promoting agent that primarily works through dopamine transporter (DAT) inhibition, increasing dopaminergic tone in arousal-related brain circuits (hypothalamic histamine pathways, noradrenergic locus coeruleus). Its core pharmacological effect is to sustain alertness and reduce excessive daytime sleepiness, not to facilitate sleep onset or sleep continuity.
+Currently, detailed mechanism of action data is not available. Armodafinil is a wake-promoting agent, and the pack's rationale points to dopamine transporter inhibition. It is used where excessive daytime sleepiness is the problem, as in narcolepsy and shift work disorder.
 
-The mechanistic connection to insomnia is, at best, counterintuitive. Insomnia treatment generally requires promoting sleep initiation or maintenance, whereas armodafinil acts in the opposite direction. The clinical trials captured in this evidence pack link armodafinil to "insomnia" through three indirect pathways: (1) oncology patients simultaneously experiencing insomnia and cancer-related fatigue, where armodafinil targets fatigue while CBT-I addresses insomnia; (2) sleep-disordered breathing (OSA/SDB) comorbid with insomnia, where armodafinil treats residual daytime sleepiness rather than insomnia itself; and (3) Phase 3 trials for the drug's approved indications (narcolepsy, OSA), where insomnia appears as a safety monitoring variable, not a treatment outcome.
+The high TxGNN score most likely comes from the drug's proximity to these sleep-wake disorders in the knowledge graph. A direct benefit for insomnia is mechanistically counterintuitive, because a wake-promoting drug would be expected to worsen sleep, and insomnia is a labeled adverse effect.
 
-One narrow scenario where armodafinil might theoretically help: patients with circadian rhythm disruption (e.g., shift work disorder) who experience insomnia as a component of schedule misalignment — but this represents a highly specific subgroup, and even then, the primary effect would be on alertness during work hours, not sleep quality during off-hours. The TxGNN model's high score (99.89%) most likely reflects co-occurrence of insomnia-related terminology across the knowledge graph rather than a validated therapeutic relationship. Prescribing armodafinil for primary insomnia without further mechanistic evidence carries a meaningful risk of worsening the condition.
+The only plausible role is adjunctive. Armodafinil might treat residual daytime sleepiness or fatigue in people whose insomnia comes with sleep-disordered breathing or cancer-related fatigue, alongside cognitive behavioral therapy for insomnia (CBT-I). The trials below test this idea, but no results are provided, so it remains a research question.
 
 ---
 
 ## Clinical Trial Evidence
 
+Only the first four trials directly study insomnia. The remaining trials study armodafinil in other conditions and are listed as context. No trial results are provided, so the findings below describe study design only.
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT01019187](https://clinicaltrials.gov/study/NCT01019187) | Phase 2 | Completed | 226 | CBT with or without armodafinil for insomnia and fatigue in cancer survivors post-chemotherapy; armodafinil primarily targets fatigue, CBT-I targets insomnia |
-| [NCT01011218](https://clinicaltrials.gov/study/NCT01011218) | Phase 2 | Completed | 70 | Pilot RCT of brief behavioral therapy (BBT-I or CBT-I) ± armodafinil 150 mg/day for insomnia management in breast cancer patients |
-| [NCT01091974](https://clinicaltrials.gov/study/NCT01091974) | Phase 2 | Completed | 138 | Four-arm RCT of CBT-I ± armodafinil in breast cancer patients with sleep disturbances after chemotherapy completion |
-| [NCT02552303](https://clinicaltrials.gov/study/NCT02552303) | Phase NA | Completed | 39 | Armodafinil and/or CBT-I for insomnia comorbid with sleep-disordered breathing; armodafinil role is treating OSA residual sleepiness, not insomnia |
-| [NCT01080807](https://clinicaltrials.gov/study/NCT01080807) | Phase 4 | Completed | 385 | Armodafinil 150 mg for excessive sleepiness in shift work disorder; insomnia is a co-morbidity of SWD, not the primary endpoint |
-| [NCT01072630](https://clinicaltrials.gov/study/NCT01072630) | Phase 3 | Completed | 492 | Adjunctive armodafinil (150 and 200 mg/day) vs placebo for major depression in Bipolar I disorder; sleep assessed as secondary outcome |
-| [NCT01072929](https://clinicaltrials.gov/study/NCT01072929) | Phase 3 | Completed | 433 | Fixed-dose adjunctive armodafinil for Bipolar I major depression; parallel-group DB/PC design |
-| [NCT01305408](https://clinicaltrials.gov/study/NCT01305408) | Phase 3 | Completed | 399 | Adjunctive armodafinil 150 mg/day for Bipolar I major depressive episodes alongside mood stabilizers |
-| [NCT00481195](https://clinicaltrials.gov/study/NCT00481195) | Phase 2 | Completed | 257 | 8-week fixed-dose armodafinil 150 mg as adjunctive therapy for Bipolar I major depressive episodes |
-| [NCT00772005](https://clinicaltrials.gov/study/NCT00772005) | Phase 2 | Completed | 287 | 24-week DB/PC armodafinil adjunctive therapy for negative symptoms of schizophrenia |
+|---------|------|------|------|---------|
+| [NCT02552303](https://clinicaltrials.gov/study/NCT02552303) | N/A | Completed | 39 | Armodafinil, CBT-I, or both for insomnia with sleep-disordered breathing; measures sleep continuity and adherence to CBT-I and CPAP. No results provided. |
+| [NCT01091974](https://clinicaltrials.gov/study/NCT01091974) | Phase 2 | Completed | 138 | Four-arm RCT of CBT-I with or without armodafinil for insomnia after chemotherapy in breast cancer patients (226 planned). Armodafinil targets fatigue; no results provided. |
+| [NCT01019187](https://clinicaltrials.gov/study/NCT01019187) | Phase 2 | Completed | 226 | Randomized phase II of CBT with or without armodafinil for insomnia and fatigue in cancer survivors. May be a related or extended cohort of NCT01091974. No results provided. |
+| [NCT01011218](https://clinicaltrials.gov/study/NCT01011218) | Phase 2 | Completed | 70 | Pilot study of brief behavioral therapy or CBT-I, with or without armodafinil 150 mg/day, for insomnia in breast cancer patients. No results provided. |
+| [NCT01080807](https://clinicaltrials.gov/study/NCT01080807) | Phase 4 | Completed | 385 | Placebo-controlled study of armodafinil 150 mg for excessive sleepiness in shift work disorder. Not an insomnia trial. |
+| [NCT00678691](https://clinicaltrials.gov/study/NCT00678691) | Phase 4 | Completed | 55 | Eight-week double-blind study of armodafinil augmentation for fibromyalgia fatigue. Not an insomnia trial. |
+| [NCT01072630](https://clinicaltrials.gov/study/NCT01072630) | Phase 3 | Completed | 492 | Placebo-controlled adjunctive armodafinil (150 and 200 mg/day) for bipolar I depression. Not an insomnia trial. |
+| [NCT01072929](https://clinicaltrials.gov/study/NCT01072929) | Phase 3 | Completed | 433 | Placebo-controlled adjunctive armodafinil (150 and 200 mg/day) for bipolar I depression. Not an insomnia trial. |
+| [NCT01305408](https://clinicaltrials.gov/study/NCT01305408) | Phase 3 | Completed | 399 | Placebo-controlled armodafinil 150 mg/day as adjunctive therapy for bipolar I depression. Not an insomnia trial. |
+| [NCT00772005](https://clinicaltrials.gov/study/NCT00772005) | Phase 2 | Completed | 287 | 24-week placebo-controlled adjunctive armodafinil for negative symptoms of schizophrenia. Not an insomnia trial. |
 
 ---
 
 ## Literature Evidence
 
+None of the retrieved publications is an armodafinil RCT in insomnia. Key findings below are limited to what each abstract states about its scope.
+
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [27010071](https://pubmed.ncbi.nlm.nih.gov/27010071/) | 2016 | Systematic Review | Parkinsonism & Related Disorders | Meta-analysis of pharmacological interventions for daytime sleepiness and sleep disorders in Parkinson's disease; modafinil/armodafinil class evaluated |
-| [22021174](https://pubmed.ncbi.nlm.nih.gov/22021174/) | 2011 | EBM Review | Movement Disorders | MDS Task Force evidence-based review of non-motor symptom treatments in PD including sleep disorders; wakefulness agents assessed |
-| [18729534](https://pubmed.ncbi.nlm.nih.gov/18729534/) | 2008 | Evidence-Based Review | Drugs | Comprehensive review of approved and off-label uses of modafinil (parent compound); covers narcolepsy, OSA, SWD, fatigue, and cognitive applications |
-| [24312590](https://pubmed.ncbi.nlm.nih.gov/24312590/) | 2013 | Systematic Review & Meta-analysis | PloS One | Modafinil efficacy for fatigue and excessive daytime sleepiness in neurological disorders; confirms class-wide wakefulness effect, not sleep-promoting |
-| [39535843](https://pubmed.ncbi.nlm.nih.gov/39535843/) | 2024 | Narrative Review | Expert Opinion on Pharmacotherapy | Pharmacological and non-pharmacological management of sleep disturbances in Parkinson's disease; wakefulness agents reviewed in context of broader sleep dysfunction |
-| [24272458](https://pubmed.ncbi.nlm.nih.gov/24272458/) | 2014 | Review | Neurotherapeutics | Treatment of sleep disorders in Parkinson's disease including insomnia, REM sleep behavior disorder; role of wakefulness-promoting agents discussed |
-| [21904092](https://pubmed.ncbi.nlm.nih.gov/21904092/) | 2011 | Review | Postgraduate Medicine | Shift work disorder pathophysiology and management; armodafinil cited for SWD-related excessive sleepiness; insomnia as component of SWD |
-| [17181377](https://pubmed.ncbi.nlm.nih.gov/17181377/) | 2006 | Review | Drugs | Shift work sleep disorder — burden of illness and management; wake-promoting agents' role in reducing sleepiness during shifts, not treating sleep-onset insomnia |
-| [18805301](https://pubmed.ncbi.nlm.nih.gov/18805301/) | 2008 | Review | Revue Neurologique | Narcolepsy with cataplexy; sleep maintenance insomnia noted as an associated narcolepsy symptom; armodafinil class used for EDS, not the insomnia component |
-| [20166851](https://pubmed.ncbi.nlm.nih.gov/20166851/) | 2010 | Review | Expert Opinion on Emerging Drugs | Emerging treatments for narcolepsy and related disorders; armodafinil reviewed alongside novel wake-promoting agents |
+|------|-----|------|------|---------|
+| [24312590](https://pubmed.ncbi.nlm.nih.gov/24312590/) | 2013 | Systematic review / meta-analysis | PLoS One | Assesses safety and effects of modafinil (armodafinil's parent compound) on fatigue and daytime sleepiness in neurological disorders. Existing trials gave inconsistent results. |
+| [27010071](https://pubmed.ncbi.nlm.nih.gov/27010071/) | 2016 | Systematic review / meta-analysis | Parkinsonism & Related Disorders | Reviews drug treatments for daytime sleepiness and sleep disorders in Parkinson's disease. Few clinical trials have been done. |
+| [22021174](https://pubmed.ncbi.nlm.nih.gov/22021174/) | 2011 | Evidence-based review | Movement Disorders | Movement Disorder Society review of treatments for non-motor symptoms of Parkinson's disease. |
+| [18729534](https://pubmed.ncbi.nlm.nih.gov/18729534/) | 2008 | Evidence-based review | Drugs | Reviews randomized placebo-controlled trials of modafinil in excessive sleepiness, fatigue and impaired cognition. |
+| [21904092](https://pubmed.ncbi.nlm.nih.gov/21904092/) | 2011 | Review | Postgraduate Medicine | Describes shift work disorder (excessive sleepiness and/or insomnia tied to work schedule) and its emerging therapies. |
+| [17181377](https://pubmed.ncbi.nlm.nih.gov/17181377/) | 2006 | Review | Drugs | Burden of illness and management approaches in shift work sleep disorder. |
+| [24138359](https://pubmed.ncbi.nlm.nih.gov/24138359/) | 2013 | Review | Medical Journal of Australia | Health burden of shift work, including insomnia and shift work disorder, and how to manage it. |
+| [39535843](https://pubmed.ncbi.nlm.nih.gov/39535843/) | 2024 | Review | Expert Opinion on Pharmacotherapy | Drug and non-drug management of sleep disturbances in Parkinson's disease. |
+| [24272458](https://pubmed.ncbi.nlm.nih.gov/24272458/) | 2014 | Review | Neurotherapeutics | Treatment of sleep disorders in Parkinson's disease. Best treatments for insomnia there are undetermined; early evidence favors CBT and light therapy. |
+| [17060310](https://pubmed.ncbi.nlm.nih.gov/17060310/) | 2006 | Case series | American Journal of Hospice & Palliative Care | Modafinil for fatigue in Charcot-Marie-Tooth disease type 1A. Not about insomnia. |
 
 ---
 
 ## US Market Information
 
-No FDA authorization records were returned from the regulatory database for Armodafinil.
+The license records do not list approved indication text.
 
-> **⚠ Data Note**: Armodafinil (brand name **Nuvigil**, Teva Pharmaceuticals) received FDA approval in June 2007 for narcolepsy, OSA-related excessive sleepiness, and shift work disorder. The database returning 0 records indicates a data gap in the current query system. **Manual verification of the full FDA label — including approved indications, boxed warnings, and contraindications — is required before any clinical or regulatory decision-making.**
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA021875 | Nuvigil (Golden State Medical Supply, Inc.) | Tablet | Not listed in the license record |
+| NDA021875 | Nuvigil (Apotex Corp.) | Tablet | Not listed in the license record |
+| ANDA206069 | Armodafinil (Direct_Rx) | Tablet | Not listed in the license record |
+| ANDA202768 | Armodafinil (Natco Pharma USA LLC) | Tablet | Not listed in the license record |
+| ANDA206069 | Armodafinil (Aurobindo Pharma Limited) | Tablet | Not listed in the license record |
 
 ---
 
@@ -112,7 +119,8 @@ No FDA authorization records were returned from the regulatory database for Armo
 
 Please refer to the package insert for safety information.
 
-> **Data Gap**: The regulatory database query returned no warnings, contraindications, or drug interaction records for Armodafinil. Given that armodafinil is a Schedule IV controlled substance in the United States, obtaining the complete FDA-approved prescribing information is a **blocking prerequisite** (DG001) before safety review can proceed.
+- **Insomnia as an adverse effect**: The pack's rationale notes that insomnia is a labeled adverse effect of armodafinil, which works against its use for insomnia.
+- **Drug Interactions**: The interaction query returned no results.
 
 ---
 
@@ -121,14 +129,16 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-Armodafinil's core pharmacological action — promoting wakefulness via dopamine reuptake inhibition — is directionally opposite to what insomnia treatment requires. All clinical trial evidence linking armodafinil to insomnia is indirect (cancer-related fatigue management, OSA co-morbidity, or approved-indication safety monitoring), and no trial has evaluated it as a primary treatment for primary insomnia in the general population. Proceeding without resolving the mechanistic paradox and the regulatory data gaps would be premature.
+The high TxGNN score most likely reflects closeness to sleep-wake disorders in the knowledge graph, not evidence of benefit in insomnia. Armodafinil is a wake-promoting drug and insomnia is a labeled adverse effect. The L2 rating rests on Phase 2 RCTs whose results are not provided. The most that can be supported is an adjunctive role for daytime sleepiness or fatigue in comorbid insomnia. This is a research question, and the missing package insert data blocks safety screening.
 
 **To proceed, the following is needed:**
-- Obtain and parse the FDA-approved full prescribing information (Nuvigil label) — required to complete safety review (DG001, Blocking)
-- Retrieve complete mechanism of action data from DrugBank (DB06413) to determine whether any downstream effects (e.g., circadian entrainment, rebound sleep) could offer mechanistic rationale (DG002, High)
-- Define a specific target patient subgroup where a wakefulness-promoting effect could paradoxically benefit sleep (e.g., hypersomnia-insomnia phenotype in circadian rhythm disorder, or cancer-related fatigue-insomnia overlap)
-- Commission a dedicated literature search for armodafinil specifically in primary insomnia populations, separate from comorbid fatigue or SDB contexts
-- Assess risk of insomnia worsening as a primary safety concern if repurposing is pursued
+- Package insert warnings and contraindications, from the FDA website (the blocking gap)
+- Mechanism of action data, from DrugBank
+- Published results of NCT01091974, NCT01019187, NCT01011218 and NCT02552303, to see whether insomnia outcomes improved
+- Approved indication text for the US licenses
+- A safety review of insomnia and sleep worsening in patients with insomnia
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

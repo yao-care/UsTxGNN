@@ -29,75 +29,69 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Metaxalone: From Skeletal Muscle Relaxation to Infectious Otitis Media
+# Metaxalone: From Skeletal Muscle Relaxant Use to Infectious Otitis Media
 
 ## One-Sentence Summary
 
-Metaxalone (DrugBank DB00660) is a centrally-acting skeletal muscle relaxant; its detailed original indication and mechanism of action are not documented in this evidence pack, and the drug is not currently marketed in Taiwan or the US.
-The TxGNN model's top prediction is **Infectious Otitis Media** (score 99.06%), but this is supported by **zero clinical trials and zero publications**, and the evidence pack's own mechanistic analysis explicitly finds no biological rationale for the link — it flags the high score as a possible knowledge-graph hub-node artifact rather than a genuine signal.
-
----
+Metaxalone is an oral, centrally acting skeletal muscle relaxant. The TxGNN model predicts it may be effective for **infectious otitis media**, but there are currently **0 clinical trials** and **0 publications** supporting this direction. This is a model-only prediction with no mechanistic or clinical support.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented (no approved-indication text on file; drug is characterized only as a centrally-acting skeletal muscle relaxant) |
-| Predicted New Indication | Infectious Otitis Media |
+| Original Indication | Not captured in the record. The license entries carry no indication text, so the entry above rests on the drug's known class (skeletal muscle relaxant). |
+| Predicted New Indication | Infectious otitis media |
 | TxGNN Prediction Score | 99.06% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (the listed entries are ANDA generic authorizations) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for metaxalone in this evidence pack (marked as a blocking/high-severity data gap). Based on the limited information present, metaxalone is characterized as a centrally-acting skeletal muscle relaxant, with no documented antimicrobial, anti-inflammatory, or otologic pharmacological activity.
+Currently, detailed mechanism of action data is not available. Metaxalone is a centrally acting skeletal muscle relaxant, but its specific molecular target is unclear in the source record.
 
-The relationship between "skeletal muscle relaxation" and "infectious otitis media" (a bacterial/infectious middle-ear condition) has no established pharmacological or clinical connection. The evidence pack's own repurposing rationale states this explicitly: there is no known mechanistic pathway linking metaxalone's CNS-depressant activity to infection control or middle-ear pathology, and the high TxGNN score may reflect a hub-node effect in the knowledge graph rather than a real biological relationship.
-
-The same caveat applies to the two lower-ranked candidates (endocarditis, endocardial fibroelastosis) — both are cardiac/infectious conditions with no plausible mechanistic tie to a centrally-acting muscle relaxant. None of the three predictions in this pack are mechanistically supported.
-
----
+The link between the original use and the predicted indication is weak. Infectious otitis media is a bacterial or viral middle-ear infection. Metaxalone has no known antimicrobial, anti-inflammatory, or Eustachian-tube-related activity that would plausibly treat it. The high TxGNN score (0.9906, rank 20,353) is a computational output only. The two other top predictions, endocarditis (99.02%) and endocardial fibroelastosis (99.00%), also have no mechanistic link and no clinical or literature evidence.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-Metaxalone is not currently marketed in Taiwan (0 licenses on file; market status: Not Marketed). No authorization records are available to summarize.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA203399 | Metaxalone | Tablet | Advanced Rx of Tennessee, LLC |
+| ANDA207466 | Metaxalone | Tablet | ScieGen Pharmaceuticals, Inc. |
+| ANDA207466 | Metaxalone | Tablet | ScieGen Pharmaceuticals, Inc. |
+| ANDA204770 | Metaxalone | Tablet | Doc Rx |
+| ANDA207466 | Metaxalone | Tablet | BluePoint Laboratories |
 
----
+The only route of administration in the record is oral (tablet).
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All three TxGNN-predicted indications (infectious otitis media, endocarditis, endocardial fibroelastosis) are L5 evidence — model prediction only, with zero supporting clinical trials or literature, and the pack's own mechanistic analysis finds no biological rationale for any of them. The drug is also unmarketed, and core safety/labeling data (TFDA warnings, contraindications, MOA) are flagged as blocking/high-severity data gaps.
+The prediction rests only on the TxGNN model score. There is no mechanistic link, no registered trial, and no publication, so it sits at evidence level L5 (stage S0). Safety data, including warnings and contraindications, are also missing.
 
 **To proceed, the following is needed:**
-- TFDA label / prescribing information (warnings, contraindications) — currently a blocking gap (DG001)
-- Confirmed mechanism of action from DrugBank or primary literature (DG002)
-- Independent mechanistic justification for any of the three candidate indications before further evidence collection is warranted
-- If pursued, dedicated literature/clinical-trial searches specifically for metaxalone + otitis media, endocarditis, or endocardial fibroelastosis to check for signal beyond the current null result
+- Package insert warnings and contraindications, downloaded and parsed from the FDA website. This blocks the S1 safety screening.
+- Mechanism of action data for metaxalone, for example from DrugBank.
+- Approved indication text for the listed licenses.
+- A plausible biological rationale linking metaxalone to middle-ear infection. Preclinical or mechanistic evidence would be needed before considering clinical investigation.
+- Route compatibility and similarity-to-original assessments, both currently pending.
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

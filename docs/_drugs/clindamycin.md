@@ -29,74 +29,76 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-以下是根據 Evidence Pack 產生的評估報告：
-
----
-
 # Clindamycin: From Bacterial Infections to Punctate Epithelial Keratoconjunctivitis
 
 ## One-Sentence Summary
 
-Clindamycin is a lincosamide antibiotic with established clinical use in bacterial infections (including skin and soft tissue infections, anaerobic infections, bacterial vaginosis, and ocular toxoplasmosis), with no US NDA data available in this dataset.
-The TxGNN model predicts it may be effective for **Punctate Epithelial Keratoconjunctivitis**,
-with **0 clinical trials** and **0 publications** currently supporting this specific direction.
-
----
+Clindamycin is a lincosamide antibiotic that inhibits the bacterial 50S ribosome and is used against susceptible bacterial infections. The TxGNN model predicts it may be effective for **punctate epithelial keratoconjunctivitis**, but there are **0 clinical trials** and **0 publications** supporting this specific prediction. This is a model-only signal.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No US NDA data available |
-| Predicted New Indication | Punctate Epithelial Keratoconjunctivitis |
+|------|------|
+| Original Indication | Bacterial infections (the license records provided list no indication text) |
+| Predicted New Indication | Punctate epithelial keratoconjunctivitis |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L5 |
-| US Market Status | Not marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from this Evidence Pack. Based on established pharmacological knowledge, Clindamycin is a lincosamide antibiotic that inhibits bacterial protein synthesis by binding to the 50S ribosomal subunit. It is active primarily against Gram-positive organisms and anaerobes, and holds a well-recognised clinical role in ocular toxoplasmosis — an indication that touches on ophthalmic use and may have influenced the TxGNN graph structure.
+Clindamycin blocks bacterial protein synthesis by binding the 50S ribosomal subunit. It mainly covers Gram-positive organisms and anaerobes. The Evidence Pack does not include a detailed DrugBank mechanism entry beyond this class-level description.
 
-Punctate epithelial keratoconjunctivitis (PEK) is, however, predominantly caused by non-bacterial etiologies: adenoviral infection, dry eye syndrome, or chemical/toxic irritation. Clindamycin's antibacterial mechanism has no established direct relevance to these pathways. While secondary bacterial superinfection of a compromised ocular surface is theoretically possible, there is no evidence that clindamycin plays a primary therapeutic role in PEK.
+The predicted indication is a poor mechanistic fit. Punctate epithelial keratitis is usually viral or toxic/inflammatory, and an antibacterial has no clear therapeutic link to it. The high score of 99.97% is not backed by any trial or publication, so it most likely reflects graph-level similarity rather than a real efficacy signal.
 
-The TxGNN model assigned a high prediction score (99.97%), but this likely reflects graph-based proximity among ophthalmic disease nodes in the knowledge graph rather than a genuine pharmacological connection. The mechanistic rationale is considered very low, and this prediction is most probably a false positive driven by disease-class clustering within the model.
-
----
+Two other predictions in the pack are worth noting. Exposure keratitis (score 99.80%) has a plausible but indirect link, since secondary bacterial infection is possible and clindamycin covers *S. aureus*. However, none of the retrieved papers tested clindamycin in that condition, and topical ocular clindamycin is not an established regimen. The other predictions (non-human animal disease, neurotrophic keratopathy, epidemic keratoconjunctivitis, postmenopausal atrophic vaginitis) show no meaningful evidence or mechanistic support.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## US Market Information
+
+Clindamycin has 20 US authorizations in total. The main ones are below, and the records provided do not include approved indication text.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA090902 | Clindamycin Palmitate Hydrochloride | Granule, for solution | Bryant Ranch Prepack |
+| ANDA065061 | Clindamycin hydrochloride | Capsule | Proficient Rx LP |
+| ANDA090108 | Clindamycin | Injection, solution | Medical Purchasing Solutions, LLC |
+| ANDA064050 | Clindamycin Phosphate | Solution | Bryant Ranch Prepack |
+| NDA050441 | CLEOCIN PHOSPHATE | Injection, solution | Henry Schein, Inc. |
+
+Available routes across all licenses are oral, injectable, topical (cream) and other. No ophthalmic formulation appears, and route compatibility for the predicted indication has not been assessed.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: No interaction records were found in the database query.
+- **Clostridioides difficile risk**: The literature retrieved for another prediction describes clindamycin as a known risk factor for *C. difficile* infection.
 
----
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This is an L5 prediction — model output only, with zero supporting clinical trials or literature. Critically, Clindamycin's antibacterial mechanism of action is biologically misaligned with punctate epithelial keratoconjunctivitis, a condition driven primarily by viral and non-infectious etiologies. The high TxGNN score is likely an artefact of ophthalmic disease-node proximity in the knowledge graph, not a reflection of true pharmacological relevance.
+The prediction is model-only (L5) with no supporting trials or literature. The antibacterial mechanism has no clear link to a viral or toxic/inflammatory keratitis. Of the six predictions in the pack, exposure keratitis is the only one with a plausible link, and it could be raised as a research question rather than a development candidate.
 
 **To proceed, the following is needed:**
-- Retrieval of US package insert to confirm approved indications, contraindications, and key warnings (currently all listed as data gaps)
-- Formal MOA documentation from DrugBank to enable mechanistic link analysis
-- Any preclinical evidence (in vitro or animal model) demonstrating Clindamycin activity relevant to PEK pathophysiology — none currently identified
-- Review of whether the TxGNN prediction may reflect the known ocular toxoplasmosis use of Clindamycin leaking into adjacent ophthalmic disease nodes, and if graph re-weighting is warranted
+- Package insert warnings and contraindications, which are needed before safety screening
+- Mechanism of action data from DrugBank
+- Preclinical or clinical evidence that clindamycin acts on the etiology of punctate epithelial keratoconjunctivitis
+- An ophthalmic formulation and route-compatibility assessment
+- Clarification of the original indication, since the license records list none
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

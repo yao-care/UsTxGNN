@@ -29,12 +29,11 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Viloxazine: From Not Marketed to Attention-Deficit/Hyperactivity Disorder (ADHD)
+# Viloxazine: From Non-Stimulant ADHD Therapy to Attention Deficit-Hyperactivity Disorder (Already an Approved Use)
 
 ## One-Sentence Summary
 
-Viloxazine (DrugBank DB09185) has no marketing authorization or approved indication on file in this jurisdiction — it is currently listed as "Not Marketed" with zero registered licenses.
-The TxGNN model predicts it may be effective for **Attention-Deficit/Hyperactivity Disorder (ADHD)**, a use already supported by **14 clinical trials** and **20 publications**, including multiple completed Phase 3 RCTs. Notably, the extended-release formulation (Qelbree®/SPN-812) is already FDA-approved for ADHD in the US market — this prediction largely confirms an established indication rather than proposing a novel one for this molecule globally.
+Viloxazine is a non-stimulant norepinephrine reuptake inhibitor marketed in the US as Qelbree (extended-release capsule). The TxGNN model predicts it is effective for **attention deficit-hyperactivity disorder (ADHD)**, which is already its marketed use, so this is on-label confirmation rather than true repurposing. The prediction is supported by **5 completed Phase 3 RCTs**, **14 registered trials in total**, and **20 publications**.
 
 ---
 
@@ -42,23 +41,21 @@ The TxGNN model predicts it may be effective for **Attention-Deficit/Hyperactivi
 
 | Item | Content |
 |------|------|
-| Original Indication | No approved indication on file (drug not marketed in this jurisdiction; 0 licenses) |
-| Predicted New Indication | Attention-Deficit/Hyperactivity Disorder (ADHD) |
+| Original Indication | ADHD (per literature on the FDA-approved Qelbree label; the license records contain no indication text) |
+| Predicted New Indication | Attention deficit-hyperactivity disorder |
 | TxGNN Prediction Score | 99.95% |
 | Evidence Level | L1 |
-| US Market Status | Not Marketed (per this dataset) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 3 license records (all under NDA211964) |
 | Recommended Decision | Proceed with Guardrails |
-
-*Note: Ranks 2–9 of the TxGNN output (faciodigitogenital syndrome, Creutzfeldt-Jakob disease, chondromyxoid fibroma, X-linked adrenoleukodystrophy, etc.) have no clinical trial or literature support (Evidence Level L4–L5, decision stage S0–S1) and are excluded from this report as likely knowledge-graph noise. Rank 10 (ADHD, inattentive type) is a subtype of the rank-1 indication and shares the same evidentiary base.*
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-A formal DrugBank mechanism-of-action record is not available for this entry (flagged as a High-severity data gap in the evidence pack, DG002). However, the supporting literature and trial evidence consistently describe viloxazine as a **selective norepinephrine reuptake inhibitor (NRI)** with additional **5-HT2B receptor antagonism and 5-HT2C receptor agonism**. This dual noradrenergic/serotonergic profile maps directly onto the prevailing ADHD pathophysiology hypothesis of prefrontal cortical norepinephrine/dopamine signaling deficits.
+Viloxazine is a selective norepinephrine reuptake inhibitor with serotonergic modulation. Raising noradrenaline signalling in the prefrontal cortex is an established route for non-stimulant ADHD treatment. Atomoxetine works the same way.
 
-This is not a speculative repurposing case in the traditional sense: the extended-release formulation of viloxazine (Qelbree®, SPN-812) has already received FDA approval in the US for ADHD in both pediatric and adult populations. The "Not Marketed" status recorded in this dataset most likely reflects the absence of a local marketing authorization in this specific jurisdiction, not a lack of global regulatory validation. The TxGNN prediction therefore aligns with, rather than diverges from, real-world regulatory precedent — the primary open question is local market entry and jurisdiction-specific labeling, not proof-of-concept efficacy.
+Because Qelbree is already FDA-approved for ADHD in children, adolescents and adults, the model's top prediction matches the existing label. The empty original-indication field in the data is a recording gap, not a repurposing signal. The prediction is therefore reasonable, but it does not reveal a new use.
 
 ---
 
@@ -66,16 +63,22 @@ This is not a speculative repurposing case in the traditional sense: the extende
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT03247556](https://clinicaltrials.gov/study/NCT03247556) | Phase 3 | Completed | 297 | High-dose (400/600 mg) pivotal RCT in adolescents (12–17y) with ADHD |
-| [NCT03247530](https://clinicaltrials.gov/study/NCT03247530) | Phase 3 | Completed | 477 | Low-dose (100/200 mg) pivotal RCT in children (6–11y) with ADHD |
-| [NCT03247517](https://clinicaltrials.gov/study/NCT03247517) | Phase 3 | Completed | 310 | Low-dose (200/400 mg) pivotal RCT in adolescents with ADHD |
-| [NCT04016779](https://clinicaltrials.gov/study/NCT04016779) | Phase 3 | Completed | 374 | Flexible-dose (200–600 mg) RCT in adults (18–65y); key trial supporting adult ADHD approval |
-| [NCT03247543](https://clinicaltrials.gov/study/NCT03247543) | Phase 3 | Completed | 313 | High-dose (200/400 mg) pivotal RCT in children with ADHD |
-| [NCT02633527](https://clinicaltrials.gov/study/NCT02633527) | Phase 2 | Completed | 222 | Dose-ranging, 5-arm RCT establishing efficacious dose range in children |
-| [NCT01107496](https://clinicaltrials.gov/study/NCT01107496) | Phase 1/2 | Completed | 52 | Early immediate-release formulation safety/efficacy proof-of-concept in adults |
-| [NCT04781140](https://clinicaltrials.gov/study/NCT04781140) | Phase 4 | Recruiting | 286 | Post-marketing RCT in preschool children (4–5y), extending age indication |
-| [NCT04786990](https://clinicaltrials.gov/study/NCT04786990) | Phase 4 | Completed | 96 | Open-label safety trial of viloxazine co-administered with psychostimulants |
-| [NCT04143217](https://clinicaltrials.gov/study/NCT04143217) | Phase 3 | Completed | 159 | Open-label extension study of long-term safety/efficacy in adults |
+| [NCT03247530](https://clinicaltrials.gov/study/NCT03247530) | Phase 3 | Completed | 477 | Placebo-controlled pivotal trial of viloxazine ER 100 and 200 mg in children aged 6-11 |
+| [NCT03247543](https://clinicaltrials.gov/study/NCT03247543) | Phase 3 | Completed | 313 | Placebo-controlled pivotal trial of 200 and 400 mg in children with ADHD |
+| [NCT03247517](https://clinicaltrials.gov/study/NCT03247517) | Phase 3 | Completed | 310 | Placebo-controlled pivotal trial of 200 and 400 mg in adolescents aged 12-17 |
+| [NCT03247556](https://clinicaltrials.gov/study/NCT03247556) | Phase 3 | Completed | 297 | Placebo-controlled pivotal trial of 400 and 600 mg in adolescents aged 12-17 |
+| [NCT04016779](https://clinicaltrials.gov/study/NCT04016779) | Phase 3 | Completed | 374 | Flexible-dose (200-600 mg) placebo-controlled study in adults aged 18-65 |
+| [NCT02633527](https://clinicaltrials.gov/study/NCT02633527) | Phase 2 | Completed | 222 | 5-arm placebo-controlled dose-ranging study in children aged 6-12 |
+| [NCT04781140](https://clinicaltrials.gov/study/NCT04781140) | Phase 4 | Recruiting | 286 | Placebo-controlled efficacy and safety study in preschool children aged 4-5 |
+| [NCT04786990](https://clinicaltrials.gov/study/NCT04786990) | Phase 4 | Completed | 96 | Open-label safety trial of viloxazine ER given with psychostimulants in ages 6-17 |
+| [NCT06185985](https://clinicaltrials.gov/study/NCT06185985) | Phase 4 | Completed | 161 | Open-label decentralized trial in adults with ADHD and mood symptoms |
+| [NCT04143217](https://clinicaltrials.gov/study/NCT04143217) | Phase 3 | Completed | 159 | Open-label extension for long-term safety and efficacy in adults |
+
+Four more registered trials are not listed above:
+- NCT02736656: a pediatric open-label extension, 1,400 patients, still active.
+- NCT01107496: a Phase 1/2a study of immediate-release viloxazine in adults, 52 patients.
+- NCT01246765: a pregnancy registry for psychiatric medications.
+- NCT04016792: an analog classroom study that was withdrawn with 0 participants, so it provides no evidence.
 
 ---
 
@@ -83,28 +86,38 @@ This is not a speculative repurposing case in the traditional sense: the extende
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [35896943](https://pubmed.ncbi.nlm.nih.gov/35896943/) | 2022 | RCT | CNS Drugs | Pivotal Phase 3 RCT confirming efficacy and safety of viloxazine ER in adults with ADHD |
-| [37166701](https://pubmed.ncbi.nlm.nih.gov/37166701/) | 2023 | Systematic Review/Meta-analysis | CNS Drugs | Meta-analysis of nonstimulant ADHD treatments in adults, including viloxazine |
-| [38137075](https://pubmed.ncbi.nlm.nih.gov/38137075/) | 2023 | Systematic Review/Meta-analysis | Brain Sciences | Pooled efficacy/safety analysis of viloxazine ER in children and adolescents |
-| [35615643](https://pubmed.ncbi.nlm.nih.gov/35615643/) | 2022 | Systematic Review/Meta-analysis | J Cent Nerv Syst Dis | Meta-analysis of RCTs supporting FDA approval of viloxazine ER for pediatric ADHD |
-| [38950507](https://pubmed.ncbi.nlm.nih.gov/38950507/) | 2024 | Network Meta-analysis | J Psychiatr Res | Bayesian network meta-analysis comparing monoamine reuptake inhibitors, incl. viloxazine, in ADHD |
-| [41123831](https://pubmed.ncbi.nlm.nih.gov/41123831/) | 2025 | Review | CNS Drugs | Review of viloxazine ER pharmacology and clinical use in adult ADHD |
-| [34975586](https://pubmed.ncbi.nlm.nih.gov/34975586/) | 2021 | Review | Frontiers in Psychiatry | Overview of viloxazine's FDA approval pathway and 4 supporting Phase 3 trials |
-| [38502148](https://pubmed.ncbi.nlm.nih.gov/38502148/) | 2024 | Review | Expert Rev Neurother | Viloxazine ER as an emerging nonstimulant treatment in children/adolescents |
-| [39172673](https://pubmed.ncbi.nlm.nih.gov/39172673/) | 2024 | Review | American Family Physician | General clinical review of adult ADHD diagnosis and treatment landscape |
-| [37228994](https://pubmed.ncbi.nlm.nih.gov/37228994/) | 2023 | Review | Ann Med Surg | Comprehensive review of adult ADHD epidemiology and treatment options |
+| [35896943](https://pubmed.ncbi.nlm.nih.gov/35896943/) | 2022 | RCT | CNS Drugs | Phase 3 randomized, double-blind, placebo-controlled trial of viloxazine ER in adults with ADHD |
+| [37166701](https://pubmed.ncbi.nlm.nih.gov/37166701/) | 2023 | Systematic Review / Meta-analysis | CNS Drugs | Nonstimulant medications in adult ADHD, as monotherapy or as an adjunct to stimulants |
+| [38137075](https://pubmed.ncbi.nlm.nih.gov/38137075/) | 2023 | Systematic Review / Meta-analysis | Brain Sciences | Efficacy and safety of SPN-812 (viloxazine ER) in children and adolescents |
+| [35615643](https://pubmed.ncbi.nlm.nih.gov/35615643/) | 2022 | Systematic Review / Meta-analysis | J Cent Nerv Syst Dis | Meta-analysis of randomized trials of viloxazine ER in pediatric ADHD (ages 6-17) |
+| [38950507](https://pubmed.ncbi.nlm.nih.gov/38950507/) | 2024 | Network Meta-analysis | J Psychiatr Res | Compares monoamine reuptake inhibitors for ADHD, using 31 clinical trials |
+| [40203844](https://pubmed.ncbi.nlm.nih.gov/40203844/) | 2025 | Systematic Review / Network Meta-analysis | Lancet Psychiatry | Compares ADHD medications on cardiovascular safety (haemodynamics and ECG) |
+| [41123831](https://pubmed.ncbi.nlm.nih.gov/41123831/) | 2025 | Review | CNS Drugs | Reviews viloxazine ER in adults with ADHD, including its Phase 3 trial and pharmacology |
+| [37021356](https://pubmed.ncbi.nlm.nih.gov/37021356/) | 2023 | Review | Ann Pharmacother | Efficacy and safety of viloxazine ER in school-age children and adolescents |
+| [38502148](https://pubmed.ncbi.nlm.nih.gov/38502148/) | 2024 | Review | Expert Rev Neurother | Viloxazine ER as a nonstimulant option for children and adolescents |
+| [35845566](https://pubmed.ncbi.nlm.nih.gov/35845566/) | 2022 | Review | J Pediatr Pharmacol Ther | Places viloxazine ER alongside alpha-2 agonists and atomoxetine for young patients |
 
 ---
 
 ## US Market Information
 
-No marketing authorizations are currently on file for viloxazine in this jurisdiction (0 licenses/NDAs registered, market status: Not Marketed). No product name, dosage form, or approved indication text is available to summarize.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA211964 | QELBREE (Supernus Pharmaceuticals) | Capsule, extended release (oral) | ADHD in pediatric patients and adults (per literature; the license record has no indication text) |
+
+The pack lists three license records for Qelbree, all under the same NDA number.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Key warnings, contraindications, and drug-drug interaction data are not currently available in this dataset (flagged as a Blocking data gap, DG001 — TFDA-equivalent label warnings/contraindications require retrieval and parsing before any S1 safety assessment can proceed).
+Package insert warnings and contraindications are not in the Evidence Pack, and no drug interactions were found in the queried data. Please refer to the package insert for full safety information.
+
+The Evidence Pack lists these monitoring guardrails:
+- **Cardiovascular**: monitor blood pressure and heart rate. A 2025 network meta-analysis (PMID 40203844) compared ADHD drugs on these parameters.
+- **Psychiatric**: monitor for suicidality.
+- **Sleep and alertness**: monitor for somnolence and insomnia.
+- **Combination use**: NCT04786990 is an open-label safety trial of viloxazine given with psychostimulants.
 
 ---
 
@@ -113,13 +126,16 @@ Please refer to the package insert for safety information. Key warnings, contrai
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Evidence Level L1 is met — five completed Phase 3 RCTs (n=297 to 477) plus supporting Phase 2, Phase 1/2, and Phase 4 trials, and 20 publications including systematic reviews and meta-analyses, consistently support viloxazine ER's efficacy and safety in ADHD across pediatric, adolescent, and adult populations. This is further reinforced by the fact that the drug already holds FDA approval for this indication in the US as Qelbree®. However, local regulatory groundwork (label data, MOA record, market authorization) is entirely absent, which prevents an unconditional "Go."
+Five completed Phase 3 placebo-controlled RCTs span children, adolescents and adults, supported by a Phase 2 dose-ranging RCT, several meta-analyses and FDA approval. Efficacy evidence for ADHD is therefore strong. This is on-label use, though, and the safety data in the pack is incomplete, so the safety profile needs to be confirmed before this is treated as a clean "Go".
+
+Among the other predictions, insomnia should not be pursued. Viloxazine is more likely to cause insomnia than treat it, so the high score looks like a knowledge-graph artifact.
 
 **To proceed, the following is needed:**
-- TFDA-equivalent package insert (warnings/contraindications) — Blocking gap (DG001)
-- Formal DrugBank mechanism-of-action record — High-priority gap (DG002)
-- Confirmation of local marketing authorization pathway/status and NDA documentation
-- A local drug-drug interaction and safety monitoring plan, given the current "not found" DDI query status
+- The package insert warnings and contraindications (a blocking gap)
+- Detailed mechanism of action data from DrugBank
+- The label status in any target jurisdiction outside the US
+- Results from the Phase 4 preschool trial (NCT04781140) once it completes
+- A monitoring plan for blood pressure, heart rate, suicidality and sleep disturbance
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

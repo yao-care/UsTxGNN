@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Asenapine
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 419
-evidence_level: L1
+evidence_level: L5
 indication_count: 10
 ---
 
 # Asenapine
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,106 +29,80 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# ASENAPINE: From Schizophrenia/Bipolar I Disorder to Major Affective Disorder
+# Asenapine: From Schizophrenia and Bipolar I Disorder to Retinal Dystrophy with or without Extraocular Anomalies
 
 ## One-Sentence Summary
 
-Asenapine is an atypical antipsychotic approved by the US FDA (2009) and EMA for the treatment of schizophrenia and acute manic or mixed episodes associated with bipolar I disorder, but is not currently registered in Taiwan.
-The TxGNN model predicts it may be effective for **Major Affective Disorder**, with **4 clinical trials** and **19 publications** supporting this direction — evidence highly consistent with its established global regulatory approvals.
-Among 10 TxGNN-predicted indications evaluated, major affective disorder is the only one reaching **L1 evidence level** and the sole actionable repurposing candidate in this analysis; the remaining 9 predictions (ranks 1–9) are all rated "Hold" (L5, no mechanistic link) and are not pursued further in this report.
-
----
+Asenapine is an atypical antipsychotic used for schizophrenia and manic or mixed episodes of bipolar I disorder. The TxGNN model predicts it may be effective for **retinal dystrophy with or without extraocular anomalies** (score 99.77%), but **0 clinical trials** and **0 relevant publications** support this prediction. The 15 retrieved papers are general eye and orbit articles that never mention asenapine, so this is a model-only signal.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Schizophrenia; Bipolar I Disorder (manic/mixed episodes) — US/EU approved; not registered in Taiwan |
-| Predicted New Indication | Major Affective Disorder |
-| TxGNN Prediction Score | 99.57% |
-| Evidence Level | L1 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Licenses | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+|------|------|
+| Original Indication | Schizophrenia and manic or mixed episodes of bipolar I disorder (from published literature; the US license records in the pack contain no indication text) |
+| Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
+| TxGNN Prediction Score | 99.77% |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (generic ANDA licenses) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Asenapine is a multi-receptor antagonist with high binding affinity across the monoamine system. Although formal mechanism of action data was not retrieved in this evidence pack, its pharmacological profile is thoroughly characterized in the published literature: it acts as a high-affinity antagonist at dopamine D2/D3/D4 receptors (driving anti-manic effects), serotonin 5-HT2A/2C receptors (providing mood stabilization and reducing extrapyramidal side effects), histamine H1 receptors (producing sedation useful in acute mania), and α2-adrenergic receptors (enhancing norepinephrine and dopamine transmission). This broad receptor engagement addresses the dysregulated monoamine signaling that underlies both manic and mixed affective states.
+Detailed mechanism-of-action data is not available in the DrugBank record for this pack. Published reviews describe asenapine as a multi-receptor antipsychotic. It binds serotonin 5-HT2A and dopamine D2 receptors, with higher affinity for 5-HT2A, and also acts on histamine and muscarinic receptors. It has reported effects on NMDA and AMPA signaling as well.
 
-Major affective disorder — encompassing bipolar I disorder and related severe mood disturbances — is precisely the therapeutic space for which asenapine was developed. D2/dopaminergic antagonism controls the excess dopaminergic tone that drives manic episodes, while 5-HT2A blockade complements mood stabilization and supports the transition to euthymia. The drug's unique sublingual formulation avoids hepatic first-pass metabolism, resulting in rapid CNS absorption with a distinct pharmacokinetic profile compared to oral antipsychotics. This delivery advantage is clinically meaningful in acute agitated mania, where fast onset of action is essential.
+I could not identify a plausible link between this pharmacology and inherited retinal degeneration or ocular developmental disorders. Nothing in the data connects asenapine to the genetic or developmental pathways of retinal dystrophy. The high score of 99.77% comes only from the knowledge-graph model. The literature retrieved for this prediction appears to be keyword-match noise: reviews on orbital infections, diplopia, congenital ptosis and similar topics.
 
-The TxGNN prediction here is not speculative — it reflects a pharmacologically validated and globally approved application. Asenapine received FDA approval in August 2009 for adult bipolar I disorder (manic/mixed episodes) and expanded its pediatric indication (ages 10–17) in 2015. The European Medicines Agency (EMA) approved it under the brand name Sycrest® for the same indication. The model's 99.57% confidence score accurately mirrors this real-world regulatory track record, and the clinical evidence base (3 completed Phase 3 RCTs, a meta-analysis of 4 RCTs, international treatment guidelines) firmly classifies this as an L1 repurposing candidate for the Taiwan market.
-
----
+For context, this run also produced nine other low-evidence predictions, such as hydranencephaly, several myopia subtypes and Charcot-Marie-Tooth type 1G. None of them has a mechanistic link or trial data either. The only prediction in the pack with real evidence is **major affective disorder** (rank 10). It has four registered trials, including completed Phase 3 RCTs in bipolar I mania, and is very likely an existing labeled use rather than true repurposing.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT01244815](https://clinicaltrials.gov/study/NCT01244815) | Phase 3 | Completed | 404 | 3-week double-blind, placebo-controlled RCT in pediatric patients aged 10–17 with bipolar I disorder (manic/mixed episodes); evaluated three fixed doses of asenapine vs. placebo; demonstrated statistically significant YMRS score reduction supporting US pediatric approval |
-| [NCT01349907](https://clinicaltrials.gov/study/NCT01349907) | Phase 3 | Completed | 322 | 50-week open-label flexible-dose extension of NCT01244815; evaluated long-term safety and tolerability in pediatric bipolar I disorder; confirmed sustained improvement and acceptable safety over extended treatment |
-| [NCT00145470](https://clinicaltrials.gov/study/NCT00145470) | Phase 3 | Completed | 326 | 12-week double-blind, placebo-controlled RCT in adults with bipolar I disorder (manic/mixed episodes) continuing lithium or valproate; asenapine as adjunct significantly improved manic symptoms vs. placebo; key pivotal trial supporting adult FDA approval |
-| [NCT02600741](https://clinicaltrials.gov/study/NCT02600741) | N/A | Completed | 296 | 12-month randomized open-label study of caregiver psycho-education and skills training for schizophrenia/schizoaffective disorder patients receiving antipsychotics; provides real-world psychiatric treatment context and outcome data relevant to affective disorder management |
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
+None of the papers below concerns asenapine. They are general ophthalmology and congenital anomaly articles, and no RCTs were found.
+
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|---------|
-| [23719049](https://pubmed.ncbi.nlm.nih.gov/23719049/) | 2013 | Meta-analysis | Int Clinical Psychopharmacology | Meta-analysis of 4 RCTs: asenapine significantly superior to placebo in YMRS and CGI-BP scores for acute bipolar mania; effect sizes clinically meaningful with favorable tolerability |
-| [28741044](https://pubmed.ncbi.nlm.nih.gov/28741044/) | 2017 | RCT | CNS Drugs | Open-label RCT comparing asenapine vs. olanzapine in borderline personality disorder with affective dysregulation; comparable efficacy on mood and impulsivity outcomes |
-| [37815563](https://pubmed.ncbi.nlm.nih.gov/37815563/) | 2023 | Systematic Review | JAMA | Comprehensive review of bipolar disorder diagnosis and treatment (affects ~8M US adults, ~40M worldwide); asenapine cited among recommended pharmacotherapies for manic episodes |
-| [20420486](https://pubmed.ncbi.nlm.nih.gov/20420486/) | 2010 | Pharmacology Review | Expert Rev Neurotherapeutics | Detailed characterization of asenapine's receptor profile (5-HT2A > D2 affinity), effects on NMDA/AMPA receptors, and clinical efficacy in bipolar I disorder manic and mixed episodes |
-| [33460070](https://pubmed.ncbi.nlm.nih.gov/33460070/) | 2020 | Narrative Review | Acta Psychiatrica Scandinavica | Evidence-based clinical recommendations for bipolar mania management; asenapine included among antipsychotics with solid Phase 3 evidence for acute manic episodes |
-| [29170943](https://pubmed.ncbi.nlm.nih.gov/29170943/) | 2018 | Review | Paediatric Drugs | Review of asenapine in pediatric bipolar I disorder and schizophrenia; covers Phase 3 pediatric trial data, dosing recommendations (2.5–10 mg BID), and the regulatory basis for pediatric approval |
-| [20135021](https://pubmed.ncbi.nlm.nih.gov/20135021/) | 2009 | Review | Drugs of Today | Overview of asenapine maleate as a novel atypical antipsychotic at the time of initial FDA approval; describes pharmacodynamic profile and clinical differentiation from existing agents |
-| [35141987](https://pubmed.ncbi.nlm.nih.gov/35141987/) | 2022 | Case Report | Psychogeriatrics | Successful treatment of major depressive disorder with psychotic features using asenapine added to escitalopram in an elderly patient; demonstrates broader affective disorder utility beyond bipolar mania |
-| [28004626](https://pubmed.ncbi.nlm.nih.gov/28004626/) | 2017 | Review | CNS Spectrums | Review of pharmacotherapy for DSM-5 mixed features specifier; discusses asenapine's role in treating mixed manic/hypomanic and depressive symptom combinations |
-| [33634761](https://pubmed.ncbi.nlm.nih.gov/33634761/) | 2021 | Case Report | CNS & Neurological Disorders Drug Targets | Case report of asenapine successfully treating catatonia in a COVID-19 patient with schizotypal personality disorder and psychotic depression in ICU; demonstrates clinical versatility in complex psychiatric presentations |
+|------|-----|------|------|---------|
+| [9416661](https://pubmed.ncbi.nlm.nih.gov/9416661/) | 1997 | Review | Seminars in Ultrasound, CT, and MR | Overview of orbital infections, with sinusitis as the most common cause |
+| [20127583](https://pubmed.ncbi.nlm.nih.gov/20127583/) | 2010 | Review | Seminars in Neurology | Systematic approach to evaluating patients with double vision |
+| [38321238](https://pubmed.ncbi.nlm.nih.gov/38321238/) | 2024 | Review | Pediatric Radiology | Imaging features of pediatric ocular pathologies (e.g., coloboma, Coats disease) |
+| [38249493](https://pubmed.ncbi.nlm.nih.gov/38249493/) | 2023 | Review | Taiwan Journal of Ophthalmology | Congenital anomalies of lens shape |
+| [22241537](https://pubmed.ncbi.nlm.nih.gov/22241537/) | 2012 | Review | Klinische Monatsblätter für Augenheilkunde | Congenital ptosis and associated eye problems |
+| [7035111](https://pubmed.ncbi.nlm.nih.gov/7035111/) | 1981 | Review | Documenta Ophthalmologica | Wagner-Stickler syndrome complex of vitreoretinal degeneration |
+| [30196776](https://pubmed.ncbi.nlm.nih.gov/30196776/) | 2018 | Review | Journal of Binocular Vision and Ocular Motility | Congenital cranial dysinnervation disorders causing ophthalmoplegia |
+| [24932988](https://pubmed.ncbi.nlm.nih.gov/24932988/) | 2014 | Review | American Journal of Ophthalmology | Pathogenesis and treatment of maculopathy with cavitary optic disc anomalies |
+| [33806565](https://pubmed.ncbi.nlm.nih.gov/33806565/) | 2021 | Cohort | International Journal of Molecular Sciences | Optic nerve head and retinal abnormalities in congenital fibrosis of the extraocular muscles |
+| [109006](https://pubmed.ncbi.nlm.nih.gov/109006/) | 1979 | Case report | American Journal of Ophthalmology | Two cases of unilateral cryptophthalmia |
 
----
+## US Market Information
 
-## Taiwan Market Information
+Three unique licenses appear among the five records; the pack lists two of them twice. The approved indication text is empty in all of them. Asenapine is also listed in an extended-release film form under a non-oral route.
 
-Asenapine currently has **no registered products in Taiwan** (0 TFDA licenses). The table below summarizes the drug's regulatory status in major markets outside Taiwan for reference:
-
-| Market | Product Name | Dosage Form | Approved Indication |
-|--------|-------------|------------|---------------------|
-| US (FDA, 2009) | Saphris® | Sublingual tablet (2.5, 5, 10 mg) | Acute manic/mixed episodes of bipolar I disorder (adults and pediatric 10–17 years); schizophrenia (adults) |
-| EU (EMA) | Sycrest® | Sublingual tablet | Acute manic episodes of bipolar I disorder (adults) |
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA205960 | Asenapine (Breckenridge Pharmaceutical, Inc.) | Tablet | Not listed in source record |
+| ANDA205960 | Asenapine (MSN Laboratories Private Limited) | Tablet | Not listed in source record |
+| ANDA206107 | Asenapine (Sigmapharm Laboratories, LLC) | Tablet | Not listed in source record |
 
 ## Safety Considerations
 
-Formal safety data (TFDA package insert warnings, contraindications, drug interaction database records) were not retrieved in this evidence pack. Please refer to the official Saphris® US Prescribing Information or Sycrest® EU Summary of Product Characteristics for comprehensive safety information.
-
-Based on published literature, the following safety signals are clinically important for asenapine:
-
-- **Somnolence and sedation**: H1 receptor antagonism produces significant sedation, especially at treatment initiation; relevant for outpatient management and driving safety
-- **Metabolic effects**: Weight gain and dyslipidemia reported, consistent with atypical antipsychotic class effects; fasting glucose and lipid monitoring recommended
-- **QTc prolongation**: Class-level cardiac risk; baseline ECG and monitoring in patients with cardiac risk factors advised
-- **Oral hypoesthesia**: Unique to sublingual formulation; transient numbness and tingling of the mouth/tongue occur in up to 5% of patients
-
----
+Please refer to the package insert for safety information. No drug interaction records were found for asenapine in the pack.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Asenapine has robust L1-level clinical evidence for major affective disorder (bipolar I disorder), anchored by multiple completed Phase 3 RCTs, a meta-analysis, international regulatory approvals (US FDA, EMA), and a mechanistically well-characterized pharmacological basis. The TxGNN prediction score of 99.57% accurately reflects this existing global evidence base. This is not speculative repurposing — the primary barrier to Taiwan market entry is regulatory and commercial, not scientific.
+The retinal dystrophy prediction rests only on a knowledge-graph score. It has no clinical trials, no relevant literature and no plausible mechanistic link to asenapine's receptor pharmacology (evidence level L5, stage S0). Package insert warnings are also missing, so safety screening cannot start.
 
 **To proceed, the following is needed:**
-
-- **TFDA regulatory pathway**: Determine feasibility of a new drug application (NDA) to TFDA for bipolar I disorder / major affective disorder; assess whether US/EU approval data packages meet TFDA bridging study requirements
-- **Safety dossier completion**: Retrieve TFDA-required package insert warnings, contraindications, and drug-drug interaction data from DrugBank API and official US/EU product labels
-- **MOA documentation**: Compile pharmacology data from DrugBank (DB06216) for formal regulatory submission and TFDA review
-- **Taiwan epidemiology and unmet need**: Estimate eligible bipolar I disorder patient population in Taiwan and assess positioning relative to currently reimbursed atypical antipsychotics (e.g., quetiapine, olanzapine, risperidone) under the National Health Insurance formulary
-- **Commercial feasibility**: Evaluate patent status, originator marketing authorization holder (Organon/formerly Allergan/AbbVie), and licensing or generic entry options for the Taiwan market
+- A credible biological hypothesis linking asenapine's receptor activity to retinal degeneration, plus a targeted literature search that uses asenapine terms rather than disease keywords
+- Preclinical evidence in a retinal dystrophy model, if the hypothesis holds up
+- The FDA package insert, to fill the warnings and contraindications gap
+- Mechanism-of-action data from DrugBank
+- A separate review of the major affective disorder prediction, which has Phase 3 evidence but is probably an on-label use, so the labeled indication scope needs confirming first
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

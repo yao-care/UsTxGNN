@@ -33,84 +33,67 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 ## One-Sentence Summary
 
-Bupivacaine is a long-acting amide-type local anesthetic widely used in regional and neuraxial anesthesia.
-The TxGNN model predicts it may be effective for **Acrodermatitis Chronica Atrophicans (ACA)**,
-however **no clinical trials and no supporting publications** were identified, placing this prediction at the lowest evidence tier.
-
----
+Bupivacaine is an amide local anesthetic sold in the US as an injectable solution. The TxGNN model predicts it may be effective for **acrodermatitis chronica atrophicans** (score 99.23%), but **no clinical trials and no publications** support this prediction. It is a model-only signal, and we recommend holding.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Local anesthesia (no US FDA NDA found in dataset) |
-| Predicted New Indication | Acrodermatitis Chronica Atrophicans |
+|------|------|
+| Original Indication | Not listed in the provided license records. Bupivacaine is a local anesthetic by drug class. |
+| Predicted New Indication | Acrodermatitis chronica atrophicans |
 | TxGNN Prediction Score | 99.23% |
-| Evidence Level | L5 |
-| US Market Status | Not found in dataset (0 NDAs on record) |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (total licenses, including ANDAs) |
 | Recommended Decision | Hold |
 
----
+## Why is This Prediction Reasonable?
 
-## Why Is This Prediction Reasonable?
+Currently, detailed mechanism of action data is not available in the Evidence Pack. Bupivacaine is an amide local anesthetic that is generally understood to block voltage-gated sodium channels, which stops nerve signal conduction and produces local numbness.
 
-Bupivacaine is a long-acting amide-class local anesthetic. Its primary mechanism of action is voltage-gated sodium channel (Nav1.x) blockade, which prevents depolarization of neuronal cell membranes and thereby interrupts peripheral nerve conduction. It is routinely used for infiltration anesthesia, nerve blocks, epidural, and spinal anesthesia.
+Acrodermatitis chronica atrophicans is a late-stage skin manifestation of *Borrelia* infection (Lyme disease). It is driven by chronic infection and inflammation, not by nerve conduction. We found no plausible causal link between sodium channel blockade and this disease. The high score most likely reflects closeness in the knowledge graph, not pharmacology.
 
-Acrodermatitis Chronica Atrophicans (ACA) is a late-stage cutaneous manifestation of Lyme disease caused by *Borrelia burgdorferi sensu lato* infection, characterized by progressive fibrotic skin atrophy predominantly on the extremities. The standard of care is prolonged antibiotic therapy (doxycycline or amoxicillin), not sodium channel modulation. There is no established direct mechanistic link between bupivacaine's primary pharmacology and ACA pathophysiology.
-
-The most plausible — yet highly speculative — connection is bupivacaine's secondary anti-inflammatory activity at supratherapeutic concentrations: amide local anesthetics have been shown in vitro to suppress NLRP3 inflammasome activation and reduce IL-1β/IL-6 secretion. TxGNN likely captured this indirect anti-inflammatory signal within its knowledge graph. However, the biological distance between this weak immunomodulatory effect and the infection-driven, fibrotic immune pathology of ACA is substantial. This prediction should be treated as a computational hypothesis only.
-
----
+The other three top predictions are neonatal dermatomyositis (99.15%), secondary childhood interstitial lung disease associated with a connective tissue disease (99.11%), and amyopathic dermatomyositis (99.03%). All cluster around dermatomyositis and connective tissue disease, and none has trials or literature. This pattern points to a shared graph artifact, not independent pharmacological signals. At best, a local anesthetic might relieve pain symptomatically, which would not modify the disease. Neonatal use would also raise a separate safety concern for a systemically toxic anesthetic.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Bupivacaine × Acrodermatitis Chronica Atrophicans.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for Bupivacaine × Acrodermatitis Chronica Atrophicans.
+Currently no related literature available.
 
----
+## US Market Information
 
-## Additional TxGNN Predictions (Ranks 2–4)
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA204842 | Bupivacaine Hydrochloride (Asclemed USA, Inc.) | Injection, solution | Not listed |
+| NDA016964 | Marcaine (Hospira, Inc.) | Injection, solution | Not listed |
+| ANDA204842 | Bupivacaine Hydrochloride (Hikma Pharmaceuticals USA Inc.) | Injection, solution | Not listed |
+| ANDA091487 | Bupivacaine Hydrochloride (Fosun Pharma USA Inc.) | Injection, solution | Not listed |
+| ANDA070590 | 0.25% Bupivacaine HCl (HF Acquisition Co LLC, DBA HealthFirst) | Injection, solution | Not listed |
 
-The top four predicted indications all cluster within autoimmune/connective-tissue inflammatory disease space, suggesting TxGNN has captured a shared feature pattern rather than disease-specific signals.
-
-| Rank | Disease | Score | Evidence | Shared Mechanistic Hypothesis |
-|------|---------|-------|----------|-------------------------------|
-| 2 | Neonatal Dermatomyositis | 99.15% | L5 — no trials, no literature | NLRP3/anti-inflammatory signal; severe LAST risk in neonates |
-| 3 | Childhood ILD (connective tissue–associated) | 99.11% | L5 — no trials, no literature | In vitro fibroblast inhibition at supraclinical doses |
-| 4 | Amyopathic Dermatomyositis | 99.03% | L5 — no trials, no literature | Shares dermatomyositis cluster with rank 2 |
-
-All rank 2–4 predictions carry the same Hold recommendation and the same absence of confirmatory evidence.
-
----
+All listed products are injectables. No topical or oral formulation appears in the provided data, so route compatibility with a skin-related indication has not been assessed.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-> **Note for evaluation teams**: The TFDA/FDA package insert warnings and contraindications were not retrieved in this data pull (Data Gap DG001). Given that bupivacaine carries a well-documented risk of **Local Anesthetic Systemic Toxicity (LAST)** — including cardiac arrhythmia and CNS seizures — any repurposing application requiring systemic exposure must undergo a dedicated safety review before proceeding. This risk is especially pronounced in neonates (rank 2 indication), where therapeutic margins are extremely narrow.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All four predicted indications sit at Evidence Level L5 (model prediction only), with zero supporting clinical trials or peer-reviewed publications for any drug–disease pair. The mechanistic link between bupivacaine's sodium channel blockade and these autoimmune/infectious dermatological conditions is highly indirect and based on speculative extrapolation from in vitro anti-inflammatory data at supraclinical doses.
+The prediction rests on model score alone (L5), with no trials or publications. No credible mechanism links a sodium channel blocker to a *Borrelia*-related skin disease. Standard treatment for this disease is antibiotics, which bupivacaine does not replace.
 
-**To revisit this candidate, the following would be needed:**
+**To proceed, the following is needed:**
+- The package insert warnings and contraindications, which are required before any safety screening
+- Mechanism of action data from DrugBank, to support a mechanistic-link analysis
+- The approved indication text from the US label
+- Any preclinical or clinical evidence linking bupivacaine to the predicted disease
+- A route and formulation assessment (all current products are injectables)
 
-- **MOA gap closure (DG002):** Retrieve full DrugBank pharmacology record to determine whether any approved secondary targets (e.g., TRPV1, inflammatory signaling) provide a more credible link to ACA or dermatomyositis
-- **Preclinical signal search:** Systematic literature search for bupivacaine in Lyme disease, NLRP3-driven fibrosis, or dermatomyositis animal models
-- **Safety baseline (DG001):** Retrieve and parse FDA package insert to document contraindications and systemic toxicity profile before any new indication exploration
-- **US registration verification:** Confirm actual US FDA marketing status — bupivacaine is a widely used anesthetic and its absence from the dataset (0 NDAs) likely reflects a data pipeline gap rather than a true regulatory gap
-- **Mechanistic plausibility gate:** If any preclinical signal is found, conduct a formal mechanistic plausibility assessment (e.g., NLRP3 inhibition potency vs. clinically achievable plasma concentrations) before any IND-enabling studies
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

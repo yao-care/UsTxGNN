@@ -29,31 +29,37 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# PENTOSAN POLYSULFATE: From No Recorded Indication to Primary Release Disorder of Platelets
+# Pentosan Polysulfate: From a Marketed Oral Capsule (ELMIRON) to Primary Release Disorder of Platelets
 
 ## One-Sentence Summary
 
-Pentosan Polysulfate (DrugBank DB00686) is not currently marketed in this jurisdiction, and no original indication or approved-label data is on file. TxGNN predicts a possible link to **Primary Release Disorder of Platelets** (score 99.71%), but this prediction is based purely on knowledge-graph topology, with **zero clinical trials** and **zero publications** supporting it — and the drug's known antiplatelet pharmacology runs mechanistically counter to a disorder that requires improved platelet function.
+Pentosan polysulfate is a heparin-like sulfated polysaccharide, currently marketed in the US as an oral capsule (ELMIRON).
+The TxGNN model predicts it may be effective for **primary release disorder of platelets**, with a very high score.
+**No clinical trials and no publications** currently support this prediction, and the drug's known anticoagulant effects point in the opposite direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — drug is not marketed and no license/indication record exists |
 | Predicted New Indication | Primary release disorder of platelets |
 | TxGNN Prediction Score | 99.71% |
 | Evidence Level | L5 |
-| Market Status | Not Marketed |
-| Number of Licenses | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Formal mechanism-of-action data for pentosan polysulfate is not available in DrugBank (data gap). Based on the pharmacological characterization available in the evidence pack, PPS is a semi-synthetic sulfated polysaccharide (heparinoid) with known **anticoagulant and antiplatelet activity**, including inhibition of platelet factor 4 and interference with the vWF–platelet interaction.
+Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on known information, pentosan polysulfate is a heparin-like sulfated polysaccharide with weak anticoagulant and fibrinolytic activity.
 
-Primary release disorder of platelets (a storage pool disease) is a **bleeding disorder** caused by impaired platelet granule release — the clinical need is to *restore* platelet function, not suppress it. PPS's antiplatelet mechanism points in the opposite direction of what this indication requires, so the pharmacological rationale for repurposing is weak and potentially unsafe rather than supportive.
+A platelet secretion (release) defect is a bleeding disorder. An anticoagulant-like drug with bleeding risk would be expected to worsen it, not treat it. The high TxGNN score most likely reflects shared coagulation and platelet network neighbors in the knowledge graph, not a plausible therapeutic mechanism. Without original MOA data, the link cannot be validated mechanistically.
 
-Notably, TxGNN's next two ranked candidates for this drug — Glanzmann thrombasthenia (rank 9071) and pseudo-von Willebrand disease (rank 9651) — follow the same pattern: all three are platelet-function bleeding disorders where an antiplatelet/heparinoid agent is mechanistically discordant. This consistent clustering suggests the model is picking up graph-topology similarity among platelet-related disease nodes rather than a genuine therapeutic signal.
+The two next-ranked predictions show the same pattern:
+
+| Rank | Predicted Indication | TxGNN Score | Concern |
+|------|------|------|------|
+| 2 | Glanzmann thrombasthenia | 99.65% | This is an integrin alpha-IIb/beta-3 (GPIIb/IIIa) deficiency that impairs platelet aggregation. The drug has no known restorative effect on this receptor, and its anticoagulant properties would be expected to worsen bleeding. |
+| 3 | Pseudo-von Willebrand disease | 99.62% | This is a gain-of-function GPIbα defect. The drug has no established action on the GPIb-VWF axis, and its anticoagulant effect would add to bleeding risk. |
 
 ## Clinical Trial Evidence
 
@@ -63,28 +69,32 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
-## Market Information
+## US Market Information
 
-This drug currently holds no market authorization in the reviewed jurisdiction (Not Marketed, 0 licenses). No approved-indication text is available for comparison.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA020193 | ELMIRON | Capsule, gelatin coated (oral) | Janssen Pharmaceuticals, Inc. |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
 
-*(Note: TFDA label warnings/contraindications are flagged internally as a **blocking** data gap (DG001) and must be resolved before any safety evaluation can proceed to Stage 1.)*
+Because pentosan polysulfate has heparin-like anticoagulant activity, bleeding risk is a central concern for any bleeding-disorder indication.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests solely on TxGNN graph-topology similarity (L5, no clinical or literature evidence), and the drug's known antiplatelet/heparinoid pharmacology is mechanistically discordant with a bleeding disorder that requires enhanced platelet function — raising a plausible safety concern rather than supporting efficacy. The drug is also unmarketed in this jurisdiction with no label data on file.
+The prediction is computational only (Evidence Level L5). The drug's known anticoagulant, bleeding-prone profile runs counter to treating platelet function disorders. The same holds for the other two top-ranked predictions.
 
 **To proceed, the following is needed:**
-- TFDA-equivalent label warnings/contraindications (blocking gap, DG001)
-- Confirmed mechanism of action from DrugBank or primary literature (DG002)
-- Preclinical or in vitro pharmacology data clarifying PPS's net effect on platelet granule release/aggregation
-- Any case reports or off-label use data in platelet storage pool disease, Glanzmann thrombasthenia, or pseudo-von Willebrand disease before reconsidering this candidate
+- Mechanism of action data (e.g., from DrugBank) and a plausible mechanistic rationale for platelet function disorders
+- Package insert warnings and contraindications, which are required for safety screening
+- Preclinical or mechanistic studies showing a benefit, or at least no harm, in platelet function models
+- Route compatibility assessment (currently pending)
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

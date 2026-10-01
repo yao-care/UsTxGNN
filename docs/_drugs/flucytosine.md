@@ -29,77 +29,68 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Flucytosine: From Fungal Infection to Bone Paget Disease
+# Flucytosine: From Antifungal Therapy to Bone Paget Disease
 
 ## One-Sentence Summary
 
-> Flucytosine (5-FC) is a systemic antifungal agent whose original indication data is not included in this evidence pack.
-> The TxGNN model predicts it may be effective for **Bone Paget Disease**,
-> but currently **0 clinical trials** and **0 publications** support this direction — the prediction rests on the model score alone.
-
----
+Flucytosine is an oral antifungal prodrug that is marketed in the United States as generic capsules.
+The TxGNN model predicts it may be effective for **bone Paget disease**, but **no clinical trials and no publications** currently support this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not specified in evidence pack (no licenses or indication text provided) |
-| Predicted New Indication | Bone Paget Disease |
+| Predicted New Indication | Bone Paget disease |
 | TxGNN Prediction Score | 99.04% |
-| Evidence Level | L5 |
-| US Market Status | Not marketed (Not marketed) |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 licenses (the five listed below are all ANDAs) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack (`original_moa` is flagged as a data gap). Based on general pharmacological knowledge, Flucytosine (5-FC) is a cytosine nucleoside analogue that is selectively converted by fungal (and some bacterial) cytosine deaminase into 5-fluorouracil (5-FU), which then inhibits thymidylate synthase and disrupts nucleic acid synthesis. Its clinical selectivity depends on human cells largely lacking this conversion enzyme.
+Currently, detailed mechanism of action data is not available in the source record. Flucytosine is known as an antifungal prodrug: fungal cytosine deaminase converts it to 5-fluorouracil, which disrupts fungal RNA and DNA synthesis. Mammalian cells have little of this enzyme, so the drug has no known direct effect on human cells.
 
-Bone Paget disease, by contrast, is a disorder of excessive osteoclast activity and disordered bone remodeling. Standard treatments (bisphosphonates, calcitonin) act on osteoclast-mediated bone resorption pathways, which have no established mechanistic overlap with the antifungal/antimetabolite pathway of 5-FC/5-FU.
+Paget disease of bone is driven by dysregulated osteoclast activity (for example, SQSTM1 variants) and is treated with bisphosphonates. Flucytosine has no known effect on osteoclast or osteoblast biology, so **no credible mechanistic link to Paget disease has been established**. A pyrimidine-antimetabolite pathway in the knowledge graph may explain the association, but this is speculative and untested.
 
-Given the absence of original MOA documentation and the lack of any supporting trials or literature, this prediction cannot currently be validated on mechanistic grounds. The high TxGNN score (99.04%) likely reflects an indirect knowledge-graph connection (e.g., a drug–gene–disease path) rather than a direct causal mechanism, and would require manual review of the underlying knowledge-graph path before further credence can be given to it.
-
----
+The high score (99.04%, model rank 20,705) is a knowledge-graph prediction only. It should not be read as clinical support.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
-
----
+Currently no related literature available.
 
 ## US Market Information
 
-No licenses are currently on record for this drug in the evidence pack (market status: Not marketed / Not marketed; total licenses: 0).
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA212632 | Flucytosine | Capsule | Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc. |
+| ANDA201566 | Flucytosine | Capsule | Sigmapharm Laboratories, LLC |
+| ANDA204652 | Flucytosine | Capsule | AvPAK |
+| ANDA204652 | Flucytosine | Capsule | Lupin Pharmaceuticals, Inc. |
 
----
+Only oral capsules are listed.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is based solely on the TxGNN model score (L5 evidence level), with no supporting clinical trials, literature, or established mechanistic link between Flucytosine's antifungal activity and Paget's disease pathophysiology. There is insufficient evidence to advance this candidate at this time.
+The prediction has no supporting trials or literature (Evidence Level L5). There is also no plausible biological link between an antifungal prodrug and osteoclast-driven Paget disease, whose standard treatment is bisphosphonates. Current data do not justify further investment.
 
 **To proceed, the following is needed:**
-- Manual review of the underlying knowledge-graph path that produced this prediction, to determine whether an indirect biological rationale exists
-- Original mechanism of action (MOA) documentation for Flucytosine
-- Original indication and regulatory licensing data (currently absent from the evidence pack)
-- TFDA label warnings/contraindications (currently blocking safety review per DG001)
-- Any preclinical or in vitro data exploring 5-FC/5-FU activity in bone remodeling or osteoclast biology, should such data emerge
+- Package insert warnings and contraindications, which are currently missing and block safety screening
+- Detailed mechanism of action and original indication data from DrugBank
+- Preclinical or mechanistic evidence linking flucytosine or its metabolite to bone remodelling
+- Any published or registered studies in Paget disease of bone
+- A route and dosage-form compatibility assessment (not yet performed)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Sirolimus
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 1166
-evidence_level: L2
+evidence_level: L5
 indication_count: 10
 ---
 
 # Sirolimus
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,88 +29,90 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Sirolimus: From Organ Transplant Rejection to Liposarcoma
+# Sirolimus: From Transplant Immunosuppression to Liposarcoma
 
 ## One-Sentence Summary
 
-> Sirolimus (rapamycin) is an mTOR inhibitor originally developed as an immunosuppressant to prevent organ (kidney) transplant rejection.
-> The TxGNN model predicts it may be effective for **Liposarcoma**,
-> with **5 clinical trials** and **12 publications** currently supporting this direction.
-
----
+Sirolimus is an mTOR inhibitor that is widely marketed in the US as oral, topical and solution products. The TxGNN model predicts it may be effective for **liposarcoma**, with **5 clinical trials** and **11 publications** retrieved. Only one trial, a single-arm Phase 2 study, tested a sirolimus-based regimen in the target disease, so the direct evidence is limited.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Prophylaxis of organ transplant rejection (immunosuppressant) — not formally recorded in this evidence pack; inferred from supporting literature (see below) |
+| Original Indication | Not listed in the source data. "Transplant immunosuppression" in the title is general background, not taken from the Evidence Pack. |
 | Predicted New Indication | Liposarcoma |
 | TxGNN Prediction Score | 99.89% |
-| Evidence Level | L2 |
-| US Market Status | ✗ Not Marketed |
-| Number of NDAs | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+| Evidence Level | L2 (assigned in the pack). The supporting Phase 2 is single-arm and non-randomized, so treat this as a weak L2. |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for sirolimus is not available in this evidence pack (formal MOA field is a data gap). Based on known drug class information, sirolimus is an mTOR (mammalian target of rapamycin) inhibitor, part of the rapalogue family that also includes temsirolimus and everolimus. Its efficacy as an immunosuppressant for renal transplant rejection prophylaxis has been established for decades.
+Detailed mechanism of action data is not available in the pack. Based on the retrieved literature, sirolimus (rapamycin) inhibits mTOR, a kinase that regulates cell growth, survival and metabolism. In experimental models it inhibits rather than promotes cancer (PMID 16434506).
 
-The bridge between the original indication (transplant immunosuppression) and the predicted new indication (liposarcoma) is unusually well documented within the literature evidence itself. Several publications describe an unexpected observation from the transplant setting: switching transplant patients from calcineurin inhibitors (e.g., cyclosporine) to sirolimus reduces the incidence of *de novo* malignancy (PMID 16434506, PMID 20534289, PMID 26093731). This antineoplastic signal, first observed incidentally in transplant recipients, motivated direct investigation of sirolimus and its analogues in solid tumors, including sarcomas.
+The pathway is active in the target disease. Akt-mTOR and MAPK pathway activation was documented in 99 dedifferentiated liposarcoma specimens (PMID 26518767). In patient-derived xenograft models, rapamycin combined with chloroquine arrested tumor growth in dedifferentiated liposarcoma (PMID 36309387) and in well-differentiated liposarcoma (PMID 37400145).
 
-Mechanistically, dedifferentiated liposarcoma frequently shows activation of the Akt-mTOR and MAPK signaling pathways (PMID 26518767), providing a direct molecular rationale for mTOR inhibition as an antitumor strategy. This is reinforced by a completed Phase 2 trial (NCT02821507) that directly tested sirolimus in combination with cyclophosphamide in metastatic/unresectable myxoid liposarcoma and chondrosarcoma, along with multiple trials of the closely related rapalogues temsirolimus and everolimus in advanced sarcoma populations.
-
----
+The clinical link is thinner. The one completed Phase 2 study of a sirolimus regimen in sarcoma was single-arm. The other trials use related mTOR inhibitors (rapalogs): ridaforolimus, temsirolimus and everolimus. The 2016 review that describes rapalogs' "limited clinical utility" in sarcoma (PMID 25519700) also tempers expectations.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT02821507](https://clinicaltrials.gov/study/NCT02821507) | Phase 2 | Completed | 70 | Single-arm trial of sirolimus + cyclophosphamide in metastatic/unresectable myxoid liposarcoma and chondrosarcoma, based on preclinical evidence that mTOR inhibition prevents tumor growth |
-| [NCT00093080](https://clinicaltrials.gov/study/NCT00093080) | Phase 2 | Completed | 216 | Ridaforolimus (mTOR inhibitor, AP23573) in advanced sarcoma; large sample size, includes liposarcoma histology |
-| [NCT01614795](https://clinicaltrials.gov/study/NCT01614795) | Phase 2 | Completed | 46 | Cixutumumab + temsirolimus (sirolimus analogue) in pediatric recurrent/refractory sarcoma |
-| [NCT03114527](https://clinicaltrials.gov/study/NCT03114527) | Phase 2 | Active, not recruiting | 48 | Ribociclib + everolimus (sirolimus analogue) in advanced dedifferentiated liposarcoma and leiomyosarcoma |
-| [NCT00949325](https://clinicaltrials.gov/study/NCT00949325) | Phase 1/2 | Completed | 24 | Temsirolimus + liposomal doxorubicin in advanced soft tissue and bone sarcoma; dose-finding and efficacy |
-
----
+| [NCT02821507](https://clinicaltrials.gov/study/NCT02821507) | Phase 2 | Completed | 70 | Sirolimus + cyclophosphamide in metastatic or unresectable myxoid liposarcoma and chondrosarcoma. Single-arm, no randomized comparator. Sirolimus-specific. |
+| [NCT00093080](https://clinicaltrials.gov/study/NCT00093080) | Phase 2 | Completed | 216 | Ridaforolimus (mTOR inhibitor) in advanced sarcoma. Class evidence, not sirolimus. |
+| [NCT01614795](https://clinicaltrials.gov/study/NCT01614795) | Phase 2 | Completed | 46 | Temsirolimus + cixutumumab in pediatric recurrent or refractory sarcoma. Class evidence, different population. |
+| [NCT03114527](https://clinicaltrials.gov/study/NCT03114527) | Phase 2 | Active, not recruiting | 48 | Ribociclib + everolimus in advanced dedifferentiated liposarcoma and leiomyosarcoma. Directly relevant to the indication, but the drug is everolimus. |
+| [NCT00949325](https://clinicaltrials.gov/study/NCT00949325) | Phase 1/2 | Completed | 24 | Temsirolimus + liposomal doxorubicin in recurrent soft tissue and bone sarcoma. Small, not liposarcoma-specific. |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [37967116](https://pubmed.ncbi.nlm.nih.gov/37967116/) | 2024 | RCT (Phase 2) | Clin Cancer Res | Ribociclib (CDK4/6 inhibitor) + everolimus (mTOR inhibitor) shows synergistic growth inhibition in dedifferentiated liposarcoma and leiomyosarcoma models and patients |
-| [26518767](https://pubmed.ncbi.nlm.nih.gov/26518767/) | 2016 | Mechanistic | Tumour Biol | Akt/mTOR and MAPK pathways are activated in dedifferentiated liposarcoma specimens; in vitro mTOR inhibition shows antitumor effect |
-| [39796641](https://pubmed.ncbi.nlm.nih.gov/39796641/) | 2024 | Review | Cancers | Overview of novel therapeutics in soft tissue sarcoma, including targeted and mTOR-pathway agents |
-| [37222206](https://pubmed.ncbi.nlm.nih.gov/37222206/) | 2023 | Review | Curr Opin Oncol | Review of new molecular-targeted agents for advanced sarcomas, including mTOR inhibitors |
-| [37400145](https://pubmed.ncbi.nlm.nih.gov/37400145/) | 2023 | Preclinical/Cohort | Cancer Genomics Proteomics | Combination of chloroquine and rapamycin (sirolimus) shows synergistic autophagy inhibition and efficacy in well-differentiated liposarcoma |
-| [16434506](https://pubmed.ncbi.nlm.nih.gov/16434506/) | 2006 | RCT | J Am Soc Nephrol | Randomized trial: switching renal transplant patients from cyclosporine to sirolimus reduces risk of skin and non-skin malignancy |
-| [26093731](https://pubmed.ncbi.nlm.nih.gov/26093731/) | 2015 | Cohort | Transplant Proc | Immunosuppressive drug choice (including sirolimus), cumulative dose, and viral infection affect malignancy development in long-term transplant patients |
-| [36309387](https://pubmed.ncbi.nlm.nih.gov/36309387/) | 2022 | Preclinical (PDOX model) | In Vivo | Chloroquine + rapamycin arrests tumor growth in a patient-derived orthotopic xenograft model of dedifferentiated liposarcoma |
-| [25519700](https://pubmed.ncbi.nlm.nih.gov/25519700/) | 2015 | Preclinical | Mol Cancer Ther | MLN0128, an ATP-competitive mTOR kinase inhibitor, shows potent in vitro/in vivo antitumor activity in bone and soft-tissue sarcoma |
-| [20497911](https://pubmed.ncbi.nlm.nih.gov/20497911/) | 2010 | Review | Bull Cancer | Review of targeted treatments for rare connective tissue tumors and sarcomas, including mTOR-pathway-directed therapy |
+| [37967116](https://pubmed.ncbi.nlm.nih.gov/37967116/) | 2024 | Phase 2 trial report | Clin Cancer Res | Ribociclib + everolimus in advanced DDL and LMS. Both drugs showed synergistic growth inhibition in tumor models. |
+| [39796641](https://pubmed.ncbi.nlm.nih.gov/39796641/) | 2024 | Review | Cancers | Overview of novel therapeutics in soft tissue sarcoma. |
+| [37222206](https://pubmed.ncbi.nlm.nih.gov/37222206/) | 2023 | Review | Curr Opin Oncol | Rationale and results of recent trials of molecular-targeted agents in advanced sarcomas. |
+| [16434506](https://pubmed.ncbi.nlm.nih.gov/16434506/) | 2006 | Randomized study (per abstract) | J Am Soc Nephrol | In renal transplant patients, sirolimus after early cyclosporine withdrawal reduced the risk of cancer. Indirect evidence. |
+| [37400145](https://pubmed.ncbi.nlm.nih.gov/37400145/) | 2023 | Preclinical | Cancer Genomics Proteomics | Chloroquine + rapamycin combination targeting autophagy in well-differentiated liposarcoma. |
+| [36309387](https://pubmed.ncbi.nlm.nih.gov/36309387/) | 2022 | Preclinical (PDOX) | In Vivo | Chloroquine + rapamycin arrested tumor growth in a dedifferentiated liposarcoma patient-derived xenograft model. |
+| [26518767](https://pubmed.ncbi.nlm.nih.gov/26518767/) | 2016 | Translational | Tumour Biol | Akt-mTOR and MAPK pathways are activated in dedifferentiated liposarcoma. In vitro mTOR inhibitor testing was also performed. |
+| [25519700](https://pubmed.ncbi.nlm.nih.gov/25519700/) | 2015 | Preclinical | Mol Cancer Ther | The ATP-competitive mTOR kinase inhibitor MLN0128 is a potential therapy for bone and soft-tissue sarcoma. First-generation rapalogs showed limited clinical utility. |
+| [20534289](https://pubmed.ncbi.nlm.nih.gov/20534289/) | 2010 | Clinical study | Transplant Proc | Conversion to rapamycin immunosuppression for malignancy after kidney transplantation. Indirect evidence. |
+| [26093731](https://pubmed.ncbi.nlm.nih.gov/26093731/) | 2015 | Clinical study | Transplant Proc | Cancer screening in renal transplant patients on long-term immunosuppression. Contextual only. |
 
----
+## US Market Information
+
+The pack lists 20 US authorizations in total; the 5 below are the ones it details. Approved-indication text is not provided for any of them. The pack also shows oral tablets, a topical gel and a solution.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA201676 | sirolimus (Zydus Pharmaceuticals USA) | Tablet, film coated | Not listed |
+| NDA213478 | HYFTOR (Nobelpharma America) | Gel | Not listed |
+| ANDA211212 | Sirolimus (Amneal Pharmaceuticals NY) | Solution | Not listed |
+| ANDA214753 | Sirolimus (Ascend Laboratories) | Tablet, film coated | Not listed |
+| ANDA208691 | sirolimus (Northstar Rx) | Tablet, film coated | Not listed |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
 
----
-
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-A completed Phase 2 trial (NCT02821507) directly evaluated sirolimus in myxoid liposarcoma, and this is reinforced by a broader body of Phase 2 evidence for closely related mTOR inhibitors (ridaforolimus, temsirolimus, everolimus) in liposarcoma and advanced sarcoma populations, together with a clear mechanistic rationale (Akt-mTOR/MAPK pathway activation in dedifferentiated liposarcoma).
+- The only sirolimus-specific clinical signal in liposarcoma is a completed single-arm Phase 2 study. The rest is rapalog-class trials and preclinical models, so no efficacy conclusion is possible.
+- Package insert warnings and contraindications are missing from the pack (flagged as a Blocking gap), so the drug cannot pass S1 safety screening yet.
+- Within this pack, other predicted indications have stronger support, notably lymphangiomyoma and benign PEComa. The pack rates both L2 and "Proceed with Guardrails", and both are mTOR-driven diseases.
 
 **To proceed, the following is needed:**
-- Formal mechanism of action (MOA) documentation from DrugBank or equivalent source
-- Regulatory safety data: key warnings, contraindications, and drug-drug interactions (currently all data gaps)
-- Confirmation of sirolimus's original approved indication and licensing status (not recorded in this evidence pack)
-- Route of administration and dosage form compatibility assessment for a liposarcoma indication
-- Comparative analysis against approved rapalogue analogues (temsirolimus, everolimus, nab-sirolimus) already used in related sarcoma/PEComa indications
+- Package insert warnings and contraindications (the blocking gap). Sources: the FDA label PDF for oral sirolimus and the DrugBank record.
+- Efficacy and safety results from NCT02821507, the completed sirolimus + cyclophosphamide Phase 2 study (response rate, progression-free survival, adverse events).
+- Mechanism of action from DrugBank, to complete the mechanistic-link analysis.
+- Immunosuppression and infection risk in sarcoma patients, who are often on chemotherapy, and a clear route and dosage-form plan (route compatibility is still pending in the pack).
+- A randomized or comparative study, or a subtype-specific analysis (dedifferentiated vs. myxoid liposarcoma), before the evidence level can be treated as a firm L2.
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

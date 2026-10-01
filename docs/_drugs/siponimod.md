@@ -29,29 +29,31 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Siponimod: Predicted New Indication — Pulmonary Hypertension
+# Siponimod: From Multiple Sclerosis to Pulmonary Hypertension
 
 ## One-Sentence Summary
 
-The evidence pack does not contain a documented original/approved indication or mechanism of action for siponimod, and the drug is currently **not marketed** in this jurisdiction. TxGNN predicts a possible association with **Pulmonary Hypertension** (score 99.68%), but this ranks among the model's most speculative outputs — **zero clinical trials and zero supporting publications** back this specific prediction, and the accompanying mechanistic rationale itself flags the biological link as weak.
+Siponimod (brand name MAYZENT) is an oral S1P receptor modulator, used for relapsing forms of multiple sclerosis (MS). The TxGNN model predicts it may be effective for **pulmonary hypertension**, but this is a **model prediction only**: **0 clinical trials** and **0 publications** were retrieved for this indication.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no approved indication on file for this drug in the evidence pack |
-| Predicted New Indication | Pulmonary Hypertension |
+| Original Indication | Multiple sclerosis (relapsing forms). The Evidence Pack has no indication text, so this comes from general knowledge of siponimod's labeling. |
+| Predicted New Indication | Pulmonary hypertension |
 | TxGNN Prediction Score | 99.68% |
-| Evidence Level | L5 (model prediction only, no clinical trials or literature) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 3 records (all under NDA209884) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for siponimod in this evidence pack (flagged as a High-severity data gap). The only mechanistic information available comes from the model's own repurposing rationale, which notes that siponimod is a **selective S1P1/S1P5 receptor modulator**. Because pulmonary vascular remodeling and endothelial dysfunction are theoretically linked to S1P signaling more broadly, the TxGNN embedding space places siponimod near pulmonary hypertension — but the rationale explicitly states that the receptor subtypes most implicated in pulmonary vascular smooth muscle (S1P2/S1P3) are **not** the subtypes siponimod targets. This is described in the source data itself as a "speculative connection without direct supporting evidence."
+Detailed mechanism-of-action data for siponimod is not available in the Evidence Pack. Based on known pharmacology, siponimod modulates the S1P1 and S1P5 receptors. Its established use is in MS, where S1P1 functional antagonism keeps lymphocytes in lymphoid organs.
 
-Because `original_indications` is empty, the relationship between siponimod's original approved use and pulmonary hypertension cannot be assessed from the data provided. Combined with the absence of any clinical trial or literature evidence specific to this disease pairing, this prediction should be treated as a hypothesis-generating signal only, not as evidence of therapeutic plausibility.
+S1P signaling also plays a role in vascular barrier function and vascular remodeling, both of which are relevant to pulmonary hypertension. This makes a link biologically conceivable. However, it is inferred from siponimod's general pharmacology and has not been checked against source data. MS (an immune-mediated neurological disease) and pulmonary hypertension (a pulmonary vascular disease) are also quite different conditions, so the prediction has no obvious therapeutic bridge.
+
+S1P receptor modulators are associated with bradycardia and atrioventricular conduction effects. In a cardiopulmonary population, these would be a significant safety question, and could outweigh any potential benefit.
 
 ## Clinical Trial Evidence
 
@@ -63,24 +65,32 @@ Currently no related literature available.
 
 ## US Market Information
 
-Siponimod is currently **not marketed** in this jurisdiction — 0 licenses/NDAs are on file, and no approved product or indication text is available to summarize.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA209884 | MAYZENT (Novartis Pharmaceuticals Corporation) | Tablet, film coated (oral) | Not provided in the Evidence Pack |
+
+The Evidence Pack lists three records with the same NDA number, product, and dosage form, so they are shown here as one row.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug-interaction data are all marked as unavailable in the source evidence pack; TFDA/FDA label data has been flagged as a **blocking** gap that must be resolved before any safety-stage review can proceed.)
+Please refer to the package insert for safety information. The Evidence Pack contains no warning, contraindication, or drug interaction data. Because the pack lacks this label information, the safety screen cannot proceed until the package insert is reviewed.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (Pulmonary Hypertension) has no clinical trial or literature support, sits at evidence level L5 (model-only), and its own mechanistic rationale describes the drug-disease link as speculative due to S1P receptor subtype mismatch. Combined with the drug's unmarketed status and a blocking gap in safety labeling data, this candidate does not currently meet the bar to advance.
+The prediction rests on the model score alone (L5). There are no trials or publications for pulmonary hypertension, and the mechanistic link is speculative. The known cardiac effects of S1P modulators add a safety concern in this population.
 
 **To proceed, the following is needed:**
-- TFDA/FDA-approved label data (warnings, contraindications) — currently blocking any safety-stage (S1) evaluation
-- Verified mechanism of action and confirmed original approved indication(s) for siponimod
-- Preclinical or clinical evidence specifically linking S1P1/S1P5 modulation to pulmonary vascular pathology
-- Consider deprioritizing pulmonary hypertension in favor of **rheumatoid arthritis** (rank 7 in this pack), which reached evidence level L4 and decision stage S1 ("Research Question") on the strength of class-effect literature for S1P receptor modulators in autoimmune disease — a comparatively stronger starting point among the eight candidates in this pack
+- The FDA package insert, with warnings and contraindications parsed, to unblock the safety screen
+- Detailed mechanism-of-action data (for example, from DrugBank)
+- Preclinical evidence of S1P1/S1P5 modulation in pulmonary vascular disease models
+- A cardiac safety assessment (bradycardia, conduction effects) for a pulmonary hypertension population
+
+**Other candidates in the same prediction set:** Rheumatoid arthritis (score 99.16%, L4) is marked "Research Question". It has class-level support from a 2021 review of S1P signaling in immune-mediated diseases (PMID 33983615), but no RA-specific siponimod data. Prioritizing that or the other predicted indications is a separate decision.
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

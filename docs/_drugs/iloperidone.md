@@ -29,91 +29,90 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Iloperidone: From Schizophrenia to Manic Bipolar Affective Disorder
-
-*Note on methodology: TxGNN's top-ranked candidates for this drug (retinal dystrophy, congenital glycosylation disorder, hydranencephaly, myopia syndromes, etc., ranks 1–9) all carry near-identical scores (~0.9999) but have zero supporting clinical trials, and where literature exists, it does not mention iloperidone at all — the evidence pack itself flags these as likely knowledge-graph embedding artifacts. This report instead focuses on rank 10, "manic bipolar affective disorder," which despite a lower raw score (0.9998) is the only candidate with real clinical trial and literature support, including recent regulatory approval.*
+# Iloperidone: From Schizophrenia to Retinal Dystrophy With or Without Extraocular Anomalies
 
 ## One-Sentence Summary
 
-Iloperidone is an atypical antipsychotic (D2/5-HT2A antagonist) originally used for schizophrenia. The TxGNN model — supported by independent real-world evidence — identifies **Manic Bipolar Affective Disorder** as a validated new indication, with **1 completed clinical trial**, **1 pivotal Phase 3 RCT**, and **19 supporting publications**, including a 2024 report of formal regulatory approval for this indication.
-
----
+Iloperidone is an atypical antipsychotic that the published literature describes as approved for schizophrenia.
+The TxGNN model predicts it may be effective for **retinal dystrophy with or without extraocular anomalies**, but this is a graph-based prediction only, with **0 clinical trials** and **15 publications**, none of which mention iloperidone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in formal regulatory data (drug not currently marketed under this record); literature consistently describes iloperidone as originally indicated for schizophrenia |
-| Predicted New Indication | Manic Bipolar Affective Disorder |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L2 (1 completed Phase 3 RCT identified) |
-| US Market Status | Not marketed (per this record) |
-| Number of NDAs | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+| Original Indication | Schizophrenia (from published literature; the license records contain no indication text) |
+| Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
+| TxGNN Prediction Score | 99.999% (rank 52 in the model's list) |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 18 license records (2 unique authorizations) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Formal DrugBank mechanism-of-action data is currently unavailable for this record. Based on the literature captured in this evidence pack, iloperidone is a second-generation (atypical) antipsychotic of the benzisoxazole class, acting as a serotonin/dopamine (5-HT2A/D2) receptor antagonist with additional moderate α1-adrenergic antagonism (PMID 18095919).
+Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on the literature, iloperidone is a benzisoxazole atypical antipsychotic that acts as a serotonin/dopamine (5-HT2A/D2) antagonist, with alpha-1 adrenergic blockade.
 
-This receptor profile is shared with other atypical antipsychotics already approved for bipolar disorder, such as asenapine, lurasidone, and paliperidone — drugs whose mania efficacy is directly attributable to combined D2/5-HT2A blockade. Schizophrenia and bipolar mania are both psychotic-spectrum conditions that respond to this same receptor mechanism, making the extension mechanistically plausible.
+No plausible link was found between this receptor profile and inherited retinal dystrophy, which is a genetic degenerative eye condition. The high score (0.99999) comes from the knowledge graph alone. The 15 retrieved papers cover congenital orbital and ocular anomalies (for example orbital infections, congenital fibrosis of the extraocular muscles, and lens shape anomalies). They do not mention iloperidone, so they appear to be keyword matches on the disease name rather than drug evidence.
 
-Critically, this is not a purely theoretical repurposing hypothesis: a 2024 Phase 3, randomized, double-blind, placebo-controlled trial (PMID 38236020) demonstrated efficacy of iloperidone in bipolar mania, and a companion 2024 publication (PMID 39008105) explicitly reports this as "a new indication for bipolar disorder" for the brand product Fanapt. The TxGNN prediction is therefore consistent with an indication that has already moved from hypothesis into real-world clinical use.
+The same pack lists 9 other high-scoring predictions, and all have no clinical trials. They are:
 
----
+- congenital disorder of glycosylation with defective fucosylation
+- hydranencephaly
+- Charcot-Marie-Tooth disease type 1G
+- perisylvian polymicrogyria
+- three myopia variants
+- atypical glycine encephalopathy
+
+Only the tenth prediction, **manic bipolar affective disorder**, has real support. It has 1 completed Phase 4 trial and a Phase 3 placebo-controlled RCT (PMID 38236020), and iloperidone is reported to already have a 2024 bipolar I mania indication. That is closer to a label extension than a new repurposing finding.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT02413918](https://clinicaltrials.gov/study/NCT02413918) | Phase 4 | Completed | 41 | Open-label study of iloperidone as adjunctive treatment (with lithium, divalproex, and/or lamotrigine) in mixed states of bipolar disorder; assessed acute and long-term efficacy and predictors of response |
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
+None of the papers below study iloperidone. They are general ophthalmology literature matched by disease keywords.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [38236020](https://pubmed.ncbi.nlm.nih.gov/38236020/) | 2024 | RCT | The Journal of Clinical Psychiatry | Phase 3, randomized, double-blind, placebo-controlled trial in adults with bipolar mania; iloperidone up to 24 mg/day vs. placebo over 4 weeks, primary endpoint Young Mania Rating Scale change |
-| [39800949](https://pubmed.ncbi.nlm.nih.gov/39800949/) | 2025 | Review | The Annals of Pharmacotherapy | Reviews efficacy of iloperidone for bipolar I mania and its safety profile, including QTc prolongation, orthostatic hypotension, and metabolic effects |
-| [39008105](https://pubmed.ncbi.nlm.nih.gov/39008105/) | 2024 | Regulatory/News | The Medical Letter on Drugs and Therapeutics | Reports iloperidone (Fanapt) receiving a new indication for bipolar disorder |
-| [28817490](https://pubmed.ncbi.nlm.nih.gov/28817490/) | 2017 | Open-label trial | Journal of Clinical Psychopharmacology | Open trial of iloperidone for mixed episodes in bipolar disorder, a historically difficult-to-treat presentation |
-| [39126643](https://pubmed.ncbi.nlm.nih.gov/39126643/) | 2024 | Review (Safety) | Expert Opinion on Drug Safety | Updated safety review of QTc prolongation and Torsades de Pointes risk across atypical antipsychotics, relevant to iloperidone prescribing |
-| [22900950](https://pubmed.ncbi.nlm.nih.gov/22900950/) | 2012 | Cohort/Review | CNS Drugs | Systematic review/meta-analysis of body weight and metabolic adverse effects of asenapine, iloperidone, lurasidone, and paliperidone |
-| [22849428](https://pubmed.ncbi.nlm.nih.gov/22849428/) | 2012 | Review | Expert Opinion on Pharmacotherapy | Primer on iloperidone, asenapine, and lurasidone; confirms schizophrenia as original approved indication with bipolar disorder as an area of ongoing interest |
-| [30187288](https://pubmed.ncbi.nlm.nih.gov/30187288/) | 2018 | Review | Drugs & Aging | Reviews newer atypical antipsychotics, including iloperidone, for bipolar disorder with considerations for older patients |
-| [41826282](https://pubmed.ncbi.nlm.nih.gov/41826282/) | 2026 | Pharmacogenomic study | The Pharmacogenomics Journal | Analysis from a Phase 3 bipolar mania trial showing iloperidone treatment associated with increased uric acid vs. placebo |
-| [18095919](https://pubmed.ncbi.nlm.nih.gov/18095919/) | 2008 | Drug profile | Expert Opinion on Investigational Drugs | Describes iloperidone's 5-HT2A/D2 antagonist mechanism and its development for schizophrenia, bipolar disorder, and other psychiatric conditions |
-
----
+| [33806565](https://pubmed.ncbi.nlm.nih.gov/33806565/) | 2021 | Cohort | Int J Mol Sci | Optic nerve head and retinal abnormalities in congenital fibrosis of the extraocular muscles (KIF21A/TUBB3 variants) |
+| [9416661](https://pubmed.ncbi.nlm.nih.gov/9416661/) | 1997 | Review | Semin Ultrasound CT MR | Orbital infections, most commonly from sinusitis |
+| [20127583](https://pubmed.ncbi.nlm.nih.gov/20127583/) | 2010 | Review | Semin Neurol | Systematic approach to diagnosing diplopia |
+| [7035111](https://pubmed.ncbi.nlm.nih.gov/7035111/) | 1981 | Review | Doc Ophthalmol | Wagner-Stickler syndrome complex: vitreoretinal degeneration with extraocular features |
+| [22241537](https://pubmed.ncbi.nlm.nih.gov/22241537/) | 2012 | Review | Klin Monbl Augenheilkd | Congenital ptosis and its association with refractive errors |
+| [30196776](https://pubmed.ncbi.nlm.nih.gov/30196776/) | 2018 | Review | J Binocul Vis Ocul Motil | Ophthalmoplegia and congenital cranial dysinnervation disorders |
+| [24932988](https://pubmed.ncbi.nlm.nih.gov/24932988/) | 2014 | Review | Am J Ophthalmol | Pathogenesis and treatment of maculopathy with cavitary optic disc anomalies |
+| [38249493](https://pubmed.ncbi.nlm.nih.gov/38249493/) | 2023 | Review | Taiwan J Ophthalmol | Congenital anomalies of lens shape |
+| [38321238](https://pubmed.ncbi.nlm.nih.gov/38321238/) | 2024 | Review | Pediatr Radiol | Imaging of pediatric ocular pathologies |
+| [109006](https://pubmed.ncbi.nlm.nih.gov/109006/) | 1979 | Case report | Am J Ophthalmol | Two patients with unilateral cryptophthalmia |
 
 ## US Market Information
 
-No marketing authorizations are recorded for this drug in the current dataset (market status: not marketed; 0 licenses on file).
+The 18 license records collapse to 2 unique authorizations. The records contain no approved indication text.
 
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA022192 | FANAPT | Tablet (oral) | Vanda Pharmaceuticals Inc. |
+| ANDA207231 | ILOPERIDONE | Tablet (oral) | Mylan Pharmaceuticals Inc. |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Formal warnings, contraindications, and drug-interaction data are not available in this record (TFDA label data query returned no result).
-
-Note from literature: reviewers highlight a QTc-prolongation/Torsades de Pointes signal across atypical antipsychotics including iloperidone (PMID 39126643), and a pharmacogenomic analysis found increased uric acid with iloperidone treatment in a Phase 3 bipolar mania trial (PMID 41826282). These should be confirmed against the official label once available.
-
----
+Please refer to the package insert for safety information. No drug interaction records were found in the query, which is likely a data gap rather than evidence of no interactions.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-A completed Phase 3 RCT and a completed Phase 4 trial directly support iloperidone's efficacy in bipolar mania, and literature indicates this indication has already received formal regulatory recognition (2024). The mechanism is consistent with other approved agents in its class, but the official product label (warnings, contraindications, interactions) has not yet been verified for this record.
+The retinal dystrophy prediction rests only on a graph score. There are no trials, the retrieved literature is unrelated to iloperidone, and no mechanistic link was identified. Systemic antipsychotic exposure would also raise safety concerns for a chronic eye condition.
 
 **To proceed, the following is needed:**
-- Official TFDA/FDA label data — warnings and contraindications (currently a blocking data gap; needed before initial safety screening)
-- Confirmed DrugBank mechanism-of-action record (currently a data gap; needed to formalize the mechanistic rationale)
-- Drug-drug interaction data (query previously returned no result)
-- Verification of the original indication and licensing status against an authoritative regulatory source, since this record shows no marketed licenses
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Any preclinical or clinical evidence linking iloperidone to retinal degeneration, which is currently absent
+- Consider redirecting attention to the bipolar mania prediction (rank 10), which is Proceed with Guardrails at L1. The guardrails are QTc prolongation, metabolic and weight effects, orthostatic hypotension, and CYP2D6/3A4 interactions.
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

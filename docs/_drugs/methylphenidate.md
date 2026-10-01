@@ -33,39 +33,45 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 ## One-Sentence Summary
 
-Methylphenidate is a dopamine/norepinephrine reuptake inhibitor widely known as a stimulant used for ADHD, though this evidence pack contains no formal license or indication record for it. The TxGNN model's top-ranked prediction is **Faciodigitogenital Syndrome** (Aarskog syndrome, an X-linked congenital developmental disorder), but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a pure knowledge-graph link with no mechanistic or empirical backing.
+Methylphenidate is a marketed dopamine/norepinephrine reuptake inhibitor, used mainly for ADHD (the label text is not in the data provided).
+The TxGNN model predicts it may be effective for **faciodigitogenital syndrome** (Aarskog-Scott syndrome) with a very high score, but there are **0 clinical trials** and **0 publications** supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available from license data (0 licenses on file); methylphenidate is generally known as an ADHD stimulant, but original indication/MOA data for this pack is a data gap |
-| Predicted New Indication | Faciodigitogenital Syndrome (Aarskog syndrome) |
+| Original Indication | ADHD (inferred from the evidence pack; approved indication text is not available in the licence records) |
+| Predicted New Indication | Faciodigitogenital syndrome |
 | TxGNN Prediction Score | 99.998% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (data gap). Based on general knowledge, methylphenidate is a central nervous system stimulant that inhibits dopamine and norepinephrine reuptake, and it is best known as a treatment for ADHD.
+Methylphenidate blocks dopamine and norepinephrine transporters, which enhances catecholaminergic signalling in the brain. This is the basis of its use in ADHD.
 
-Faciodigitogenital syndrome (Aarskog syndrome) is an X-linked genetic developmental disorder affecting facial, digital, and genital morphology, caused by mutations unrelated to catecholaminergic signaling. There is no known pathophysiological overlap between a monoamine reuptake inhibitor and a structural/genetic developmental syndrome.
-
-The evidence pack itself states this directly: the mechanistic link is unverifiable, and the high TxGNN score (rank 147 of the model's overall output) reflects only a graph-embedding association, not any clinical or biological plausibility. This candidate should be treated as a low-confidence model artifact rather than a genuine repurposing hypothesis.
+Faciodigitogenital syndrome is an X-linked developmental disorder caused by *FGD1* mutations. No plausible mechanistic link was identified between transporter inhibition and this pathology. The very high score most likely reflects knowledge-graph topology, such as shared neurodevelopmental or ADHD-like phenotype nodes. It probably does not reflect a real pharmacological relationship. The prediction is therefore treated as a model artefact until independent evidence appears.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
 ## US Market Information
 
-No marketing authorization records are on file for this drug in this dataset (0 licenses, market status: Not Marketed).
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA091601 | Methylphenidate Hydrochloride | Solution | Cranbury Pharmaceuticals, LLC |
+| ANDA203583 | Methylphenidate Hydrochloride | Extended-release capsule | SpecGx LLC |
+| ANDA075629 | Methylphenidate Hydrochloride | Extended-release tablet | SpecGx LLC |
+| NDA021259 | Methylphenidate Hydrochloride CD | Extended-release capsule | Lannett Company, Inc. |
+
+The records provided do not include approved indication text. Other listed forms include tablets, capsules and film-coated extended-release tablets.
 
 ## Safety Considerations
 
@@ -76,13 +82,17 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction carries the highest TxGNN score among this drug's candidates but has zero supporting clinical trials or literature and no plausible mechanistic connection between methylphenidate's catecholaminergic action and a genetic developmental syndrome. This is a model-only (L5) signal and does not meet the threshold to advance.
+The prediction is supported only by a high model score. It has no mechanistic rationale, trials or publications, so it stays at L5 (model prediction only) and should not advance.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications data (currently blocking — DG001)
-- Confirmed mechanism of action (MOA) data from DrugBank (DG002)
-- Any preclinical or case-level evidence specifically linking methylphenidate to Aarskog syndrome, before further evaluation is warranted
-- Note: this drug's rank-3 candidate ("specific developmental disorder," L2/S2, Proceed with Guardrails) has substantially stronger clinical and literature support and may warrant a separate, higher-priority evaluation
+- Independent biological evidence linking catecholamine reuptake inhibition to *FGD1*-related pathology
+- Any clinical or preclinical study in Aarskog-Scott syndrome
+- FDA package insert warnings and contraindications
+- Formal MOA data from DrugBank
+
+**Other candidates in this pack:** the third-ranked prediction, *specific developmental disorder*, has more support. It is L2, based on a completed Phase 2 placebo-controlled trial in childhood apraxia of speech (NCT05185583, n=18, no results provided). It is more worth pursuing than this top-ranked prediction.
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

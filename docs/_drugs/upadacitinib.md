@@ -29,79 +29,68 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Upadacitinib: From Not Marketed in Taiwan to Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome
+# Upadacitinib: From Immune-Mediated Inflammatory Diseases to Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome
 
 ## One-Sentence Summary
 
-Upadacitinib is a JAK1-selective inhibitor; however, no Taiwan market history or approved indication is recorded for this drug in the current evidence pack.
-TxGNN predicts a possible link to **Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome**, a rare congenital malformation syndrome, with a prediction score of **99.61%**.
-However, **0 clinical trials** and **0 publications** currently support this direction, and the model's own mechanistic analysis suggests this is likely a knowledge-graph artifact rather than a genuine repurposing signal.
-
----
+Upadacitinib is marketed in the US as Rinvoq. It is generally known as a JAK1 inhibitor for immune-mediated inflammatory diseases, but the supplied data does not list its approved indications.
+The TxGNN model predicts it may be effective for **colobomatous microphthalmia-rhizomelic dysplasia syndrome**, a rare congenital developmental disorder.
+Currently there are **0 clinical trials** and **0 publications** supporting this prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — drug is not marketed in Taiwan (no TFDA license records) |
-| Predicted New Indication | Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome |
+| Original Indication | Not listed in the supplied US label data (generally known use: immune-mediated inflammatory diseases) |
+| Predicted New Indication | Colobomatous microphthalmia-rhizomelic dysplasia syndrome |
 | TxGNN Prediction Score | 99.61% |
 | Evidence Level | L5 |
-| US Market Status | ✗ Not Marketed (in Taiwan) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 4 license records (2 distinct NDAs: NDA211675, NDA218347) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for upadacitinib as a standalone field is not available in this evidence pack. Based on the model's own mechanistic notes, upadacitinib is understood to be a **selective JAK1 inhibitor**, acting on cytokine-driven signal transduction (IL-6, IL-13, IFN, and related pathways) — a mechanism typically relevant to inflammatory and immune-mediated diseases.
+Currently, detailed mechanism of action data is not available. Based on general knowledge, upadacitinib is a selective JAK1 inhibitor. It is used in diseases driven by JAK-STAT cytokine signaling, which are immune-mediated inflammatory diseases.
 
-The predicted indication, however, is a **rare congenital developmental syndrome** combining ocular coloboma/microphthalmia with rhizomelic skeletal dysplasia. This condition is understood to arise from developmental patterning or peroxisomal/ciliary gene defects, not from cytokine-driven inflammation. There is no established biological pathway connecting JAK1 inhibition to the structural developmental defects underlying this syndrome.
+The predicted disease is a different kind of condition: a rare congenital disorder combining eye coloboma/microphthalmia with rhizomelic skeletal dysplasia. It arises from abnormal development rather than JAK-driven inflammation, and no biological link to the drug's original use has been documented. An adult-use immunomodulator would also have to explain how it could affect a structural malformation present since embryogenesis.
 
-The evidence pack's own repurposing rationale explicitly concludes that the high TxGNN score is most likely driven by **sparse graph connectivity** around this rare disease node in the knowledge graph, rather than a real mechanistic relationship — i.e., a probable model artifact rather than a credible biological hypothesis.
-
-A second, lower-ranked prediction (brachydactyly-syndactyly syndrome, score 99.58%) shows the same pattern: a congenital limb-patterning disorder with no known JAK1-STAT involvement, and the same "likely artifact" conclusion in the model's rationale.
-
----
+The very high score (99.61%) is a model output only. It may reflect graph artifacts for sparsely connected rare-disease nodes. The second-ranked prediction, brachydactyly-syndactyly syndrome (score 99.58%), is also a congenital limb malformation with no supporting evidence and the same weakness.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
-
----
+Currently no related literature available.
 
 ## US Market Information
 
-No marketing authorization records are available — upadacitinib is currently not marketed in Taiwan (0 licenses on file).
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA211675 | Rinvoq | Extended-release tablet | AbbVie Inc. |
+| NDA218347 | Rinvoq | Solution | AbbVie Inc. |
 
----
+NDA211675 appears three times in the supplied data (three license records). It is listed once here. Approved indication text is not included in the supplied records.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-*(Note: TFDA label warnings/contraindications and confirmed MOA data are flagged as outstanding data gaps — see Next Steps.)*
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Both candidate indications are rare congenital structural/developmental syndromes with no plausible mechanistic link to JAK1 inhibition, zero supporting clinical trials or literature, and the model's own rationale identifies the high scores as likely knowledge-graph artifacts rather than genuine repurposing signals.
+The prediction has no clinical trials, no literature, and no plausible mechanistic link. The disease is a congenital developmental disorder, while the drug acts on inflammatory signaling. The high model score alone is not enough to justify moving forward.
 
 **To proceed, the following is needed:**
-- TFDA label warnings and contraindications (currently a Blocking data gap — required before any S1 safety assessment)
-- Confirmed mechanism of action data from DrugBank (currently a High-severity data gap)
-- Independent mechanistic plausibility review before considering any further evidence-collection effort, since no clinical or literature signal currently exists for either predicted indication
+- The package insert warnings and contraindications (required before any safety screening)
+- Detailed mechanism of action data from DrugBank
+- A documented biological rationale linking JAK1 inhibition to the pathology of this syndrome
+- Any preclinical, case-level, or registry evidence in this disease
+- Confirmation of the US approved indication text for the Rinvoq licenses
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

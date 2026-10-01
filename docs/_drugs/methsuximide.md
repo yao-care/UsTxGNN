@@ -29,76 +29,76 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Methsuximide: From Antiepileptic (Absence Seizures) to Insomnia
+# Methsuximide: From Epilepsy (Absence Seizures) to Insomnia
 
 ## One-Sentence Summary
 
-> Methsuximide is a succinimide-class anticonvulsant, pharmacologically related to ethosuximide and historically used for absence seizures — though this evidence pack's `original_indications` field itself is empty (data gap).
-> The TxGNN model's top-ranked prediction is **Insomnia**, but this candidate currently has **zero clinical trials** and **zero publications** in support — it is a pure model-score prediction with no corroborating evidence.
-
----
+Methsuximide is a succinimide anticonvulsant. The supplied US records do not state an approved indication, so the epilepsy use is inferred from the drug class.
+The TxGNN model predicts it may be effective for **insomnia**, but this is a model-only signal with **0 clinical trials** and **0 publications** supporting it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in dataset (no licenses on file); known pharmacological class is succinimide-type anticonvulsant, same class as ethosuximide |
-| Predicted New Indication | Insomnia (disease) |
+| Original Indication | Epilepsy / absence seizures (inferred from drug class; label text is blank in the supplied records) |
+| Predicted New Indication | Insomnia |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L5 |
-| US Market Status | Not marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (DrugBank query returned no MOA text). Based on known pharmacological information, methsuximide belongs to the succinimide class of antiepileptics, structurally and mechanistically related to ethosuximide, with T-type calcium channel inhibition believed to underlie its anticonvulsant effect.
+Detailed mechanism of action data is not available. Methsuximide is a succinimide anticonvulsant. Drugs in this class are generally associated with absence seizures, plausibly through T-type calcium channel modulation. The drug is also sedating, which is the only conceptual bridge to a sleep indication.
 
-Succinimide-class drugs are known to carry sedation as a side effect, which is the presumed rationale behind a sedation-adjacent indication like insomnia. However, per the evidence pack's own assessment: *"無直接機轉證據；succinimide 類藥物具鎮靜副作用是已知的，但未曾作為助眠適應症開發，純屬預測分數，無支持性資料"* — there is no direct mechanistic evidence, and methsuximide has never been developed for a sleep indication. This is a score-driven prediction only.
+No direct mechanistic link to sleep initiation or maintenance is documented in the input. The prediction currently rests on graph proximity in the TxGNN knowledge graph, not on demonstrated pharmacology.
 
-Consistent with this, targeted searches against ClinicalTrials.gov, ICTRP, and PubMed for "methsuximide + insomnia" all returned zero results (query log entries 4–6). No mechanistic, preclinical, or clinical data currently link this drug to insomnia beyond the class-level sedation side-effect association.
-
----
+Two other predictions in the list are closely tied to this one:
+- **Sleep disorder, initiating and maintaining sleep** (score 99.70%) is essentially the same phenotype as insomnia, so the two predictions are not independent.
+- **Restless legs syndrome** (score 99.39%) is the only other prediction with any literature. That literature suggests an adverse-effect association, not a benefit (see below).
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for insomnia.
 
----
+Only one other predicted indication, restless legs syndrome, has any literature. It is indirect and does not support efficacy:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [3145164](https://pubmed.ncbi.nlm.nih.gov/3145164/) | 1988 | Case report | Clin Neurol Neurosurg | Two patients with complex partial and secondarily generalized seizures developed restless legs while taking methsuximide and phenytoin. This points to an adverse association, not a treatment effect. |
+| [23205958](https://pubmed.ncbi.nlm.nih.gov/23205958/) | 2012 | Review | Epilepsia | General review of how phenobarbital's structure shaped later antiepileptic drugs. It does not address restless legs efficacy. |
 
 ## US Market Information
 
-Methsuximide is currently not marketed in the United States, and no active NDA/BLA licenses are on file in this dataset (`total_licenses = 0`).
-
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA010596 | Celontin | Capsule (oral) | Parke-Davis Div of Pfizer Inc |
+| ANDA217213 | Methsuximide | Capsule (oral) | ANI Pharmaceuticals, Inc. |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug-interaction data are not available in this evidence pack; a DDI database query also returned no results.)
-
----
+Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The insomnia prediction is supported only by a high TxGNN model score (99.97%) with no clinical trials, no literature, and no direct mechanistic evidence — this is an L5 (model-only) evidence level, which does not meet the threshold to advance.
+The insomnia prediction is a model-only signal (L5) with no trials, no literature, and no documented mechanism. The remaining top-10 predictions are also L5, except restless legs (L4), which is possibly adverse. Several of them look like graph-proximity artifacts, for example the opposing conditions nephrogenic SIAD and nephrogenic diabetes insipidus.
 
 **To proceed, the following is needed:**
-- Detailed mechanism of action (MOA) data from DrugBank (flagged as High-severity data gap, DG002)
-- FDA/TFDA label warnings and contraindications, required before any Stage-1 safety screening can proceed (flagged as Blocking data gap, DG001)
-- Drug interaction (DDI) data — current query returned no results
-- Preclinical or mechanistic studies specifically linking methsuximide to sleep/insomnia pathways
-- Consider prioritizing alternative candidates from this drug's own prediction set that carry stronger evidence: restless legs syndrome (rank 7, L4, 2 supporting publications) and childhood absence epilepsy (rank 6, L3) — the latter likely reflects methsuximide's actual known/approved use rather than a genuine repurposing candidate, given the missing `original_indications` field
+- The package insert (warnings, contraindications, approved indications), which is a blocking gap for safety screening
+- Mechanism of action data (e.g., from DrugBank) to test whether a sleep-related mechanism is plausible
+- A targeted literature and trial search on methsuximide or succinimides in insomnia and sleep disturbance
+- Confirmation of the original indication against the US label, since the empty indication records suggest a data gap and not a true repurposing case
+- Route and dose compatibility assessment (oral capsule only at present)
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

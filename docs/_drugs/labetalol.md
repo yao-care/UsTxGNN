@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Labetalol
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 827
-evidence_level: L4
+evidence_level: L5
 indication_count: 4
 ---
 
 # Labetalol
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **4**
 
 ## One-Sentence Summary
 
-Labetalol is a combined alpha-1/non-selective beta-adrenergic blocker, a drug class established for treating hypertension, including hypertensive emergencies. The TxGNN model predicts it may be effective for **Malignant Renovascular Hypertension**, with **no clinical trials** and **2 case-report publications** currently supporting this direction.
+Labetalol is a combined alpha-1 and beta blocker that is marketed in the US for blood pressure control. The TxGNN model predicts it may be useful for **malignant renovascular hypertension**. Support is weak: **0 registered clinical trials** and only **2 indirect case reports**, so this remains a research question rather than an established use.
 
 ---
 
@@ -41,29 +41,29 @@ Labetalol is a combined alpha-1/non-selective beta-adrenergic blocker, a drug cl
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension (based on known pharmacology; no formal Taiwan license text available — drug not marketed in Taiwan) |
-| Predicted New Indication | Malignant Renovascular Hypertension |
+| Original Indication | Not listed in the supplied data (labetalol is generally used as an antihypertensive) |
+| Predicted New Indication | Malignant renovascular hypertension |
 | TxGNN Prediction Score | 99.08% |
-| Evidence Level | L4 |
-| US Market Status | ✗ Not Marketed (Taiwan) |
-| Number of NDAs | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Evidence Level | L4 (model prediction plus indirect case reports only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the evidence pack. Based on known pharmacology, labetalol is a combined alpha-1 and non-selective beta-adrenergic receptor blocker, a drug class widely used for hypertension and, notably, as one of the standard intravenous agents for hypertensive emergencies. Its blood-pressure-lowering efficacy in general hypertension is well established.
+Detailed mechanism of action data is not available in the Evidence Pack. Based on known pharmacology, labetalol blocks both alpha-1 and beta receptors. This lowers vascular resistance and heart rate, and it is already used in hypertensive emergencies. That makes it plausible for severe or malignant hypertension.
 
-Malignant renovascular hypertension is fundamentally a severe subtype of hypertension involving renal vasculature. Because the predicted indication shares the same underlying pathophysiology (systemic hypertension) as labetalol's established use, the mechanistic link is a direct extension of an already-confirmed pharmacological action rather than a novel mechanism hypothesis — labetalol's alpha/beta blockade lowers systemic blood pressure, which is the core therapeutic goal in malignant renovascular hypertension as well.
+The renovascular subtype is driven by the renin-angiotensin system, and labetalol supports it only indirectly. The pack contains no label text to confirm how the predicted indication overlaps with the current approved indication. The 99.08% score is a model prediction, not clinical evidence.
 
-This mechanistic reasonableness is supported qualitatively rather than by high-tier clinical evidence: the only literature identified are two older case reports describing labetalol's use in controlling malignant hypertension, not dedicated trials in the renovascular subtype.
+Renal function and bilateral renal artery stenosis would need careful checking before any use in this setting.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
@@ -71,14 +71,24 @@ Currently no related clinical trials registered
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [7242419](https://pubmed.ncbi.nlm.nih.gov/7242419/) | 1981 | Case report | The Medical Journal of Australia | Case of malignant hypertension with renal arteritis/aneurysms; minoxidil plus labetalol used for initial blood pressure control |
-| [15113447](https://pubmed.ncbi.nlm.nih.gov/15113447/) | 2004 | Case report | BMC Nephrology | Hyponatremic hypertensive syndrome in an 18-month-old presenting as malignant (renovascular) hypertension |
+| [7242419](https://pubmed.ncbi.nlm.nih.gov/7242419/) | 1981 | Case report | The Medical Journal of Australia | A young man with malignant hypertension from hallucinogen-induced vasculitis. Minoxidil and labetalol controlled his blood pressure initially, and prednisone resolved the arteritis. This is not a renovascular stenosis case. |
+| [15113447](https://pubmed.ncbi.nlm.nih.gov/15113447/) | 2004 | Case report | BMC Nephrology | An 18-month-old child with hyponatremic hypertensive syndrome (renovascular hypertension with hyponatremia) presenting as malignant hypertension. The abstract does not describe labetalol treatment. |
+
+Neither paper tests labetalol in renovascular disease.
 
 ---
 
 ## US Market Information
 
-Currently no marketing authorizations recorded (0 licenses; drug not marketed in Taiwan)
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA209603 | Labetalol Hydrochloride (Golden State Medical Supply) | Tablet, film coated | Not listed |
+| ANDA211953 | Labetalol Hydrochloride (RemedyRepack) | Tablet, film coated | Not listed |
+| ANDA209603 | Labetalol Hydrochloride (A-S Medication Solutions) | Tablet, film coated | Not listed |
+| ANDA209603 | Labetalol Hydrochloride (Northwind Health Company) | Tablet, film coated | Not listed |
+| ANDA209603 | Labetalol Hydrochloride (Major Pharmaceuticals) | Tablet, film coated | Not listed |
+
+Both oral (tablet) and injectable (solution) forms are marketed in the US. The 20 authorizations are listed as ANDAs (generic approvals), not brand NDAs.
 
 ---
 
@@ -90,17 +100,16 @@ Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The mechanistic rationale is sound — labetalol is an established treatment for hypertensive emergencies and malignant hypertension broadly — but direct evidence specific to the renovascular subtype is limited to two decades-old case reports with no clinical trials, placing this at Evidence Level L4.
+The prediction rests almost entirely on a model score. There are no trials, and the two case reports are indirect and do not test labetalol in renovascular disease. The other predicted indications are weaker still: malignant hypertensive renal disease has no supporting studies at all. The two pulmonary hypertension predictions have no credible mechanistic link and raise a safety concern, because non-selective beta blockade can worsen bronchospasm in lung disease. The 20 papers retrieved for the first pulmonary hypertension prediction are generic hypoxia biology keyword matches.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (currently a Blocking data gap — required before safety (S1) evaluation)
-- Formal mechanism of action (MOA) documentation from DrugBank
-- Taiwan market authorization status confirmation (currently unmarketed, 0 licenses)
-- Dedicated clinical evidence in malignant renovascular hypertension, or at minimum contemporary case series, to move beyond L4
-- Route compatibility and similarity-to-original-indication analysis (currently marked "pending" in the evidence pack)
+- The FDA label text (approved indications, warnings, contraindications) to check overlap with the predicted use
+- Mechanism of action data from DrugBank
+- A targeted literature search for labetalol in renovascular and malignant hypertension, including any controlled studies
+- A safety review for bilateral renal artery stenosis and impaired renal function
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,60 +29,69 @@ Evidence Level: **L4** | Predicted Indications: **9**
 
 </div>
 
-# Alteplase: From Acute Thrombolysis to Posterolateral Myocardial Infarction
+# Alteplase: From Thrombolytic Therapy (Original Indication Not Recorded) to Posterolateral Myocardial Infarction
 
 ## One-Sentence Summary
 
-Alteplase is a recombinant tissue plasminogen activator (rt-PA) used as a thrombolytic agent for acute ischemic stroke, massive pulmonary embolism, and ST-elevation myocardial infarction (STEMI).
-The TxGNN model predicts it may be effective for **Posterolateral Myocardial Infarction** (top-ranked prediction, score 99.79%), with **0 registered clinical trials** and **3 publications** currently providing direct support for this specific anatomical subtype.
+Alteplase is a recombinant tissue plasminogen activator (tPA) that dissolves fibrin clots.
+The TxGNN model predicts it may be effective for **Posterolateral Myocardial Infarction**,
+but there are currently **0 registered clinical trials** and only **3 indirect publications** (1 case report, 1 case report about PCI with a different drug, 1 diagnostic ECG cohort) supporting this direction.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Acute thrombolysis (ischemic stroke, pulmonary embolism, STEMI — based on known pharmacology; US regulatory data not collected in this dataset) |
-| Predicted New Indication | Posterolateral Myocardial Infarction |
+|------|------|
+| Original Indication | Not stated in the source record (the approved-indication text is empty) |
+| Predicted New Indication | Posterolateral myocardial infarction |
 | TxGNN Prediction Score | 99.79% |
 | Evidence Level | L4 |
-| US Market Status | Data not available in this dataset |
-| Number of NDAs | 0 (data not collected) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 (BLA103172) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Alteplase is a recombinant human tPA that works by selectively binding to fibrin within a thrombus and converting clot-bound plasminogen to plasmin. The resulting plasmin directly cleaves fibrin strands, dissolving the occlusive thrombus and restoring arterial flow. This mechanism is not indication-specific — it acts on fibrin regardless of the anatomical location of the thrombus.
+Currently, detailed mechanism of action data is not available in the source record. Alteplase is a tissue-type plasminogen activator, and it works by breaking down fibrin in blood clots. That is the pharmacology behind the prediction.
 
-Posterolateral myocardial infarction typically results from occlusion of the left circumflex artery (LCx) or a distal branch of the right coronary artery (RCA). Because the underlying pathophysiology (acute fibrin-rich coronary thrombus) is identical to that of anterior or inferior STEMI, the fibrinolytic mechanism of Alteplase is mechanistically well-suited for this location. Indeed, the large landmark thrombolysis trials (e.g., GUSTO, TAMI) enrolled mixed STEMI populations that would have included posterolateral infarcts, though without anatomically stratified primary endpoints for this subtype.
+Posterolateral myocardial infarction is an anatomical subtype of acute myocardial infarction, which is caused by an occlusive coronary thrombus. Dissolving that thrombus to restore blood flow is the rationale for thrombolysis in acute MI.
 
-The gap identified here is not mechanistic plausibility — that is strong — but the absence of any clinical trial explicitly designed for posterolateral MI as the primary indication. The existing literature consists of a case report of cerebral embolism during late fibrinolysis in a posterolateral MI patient, a case report of primary PCI facilitated by intracoronary reteplase (a tPA variant), and an observational study evaluating ST elevation in posterior leads (V7–V9) as a diagnostic and thrombolysis-benefit marker. These provide indirect mechanistic support rather than direct efficacy evidence.
+This is a subtype restatement rather than true repurposing. The evidence pack contains no alteplase data specific to the posterolateral subtype, so the high model score reflects the disease's closeness to acute MI in general, not new subtype-specific findings.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Alteplase in posterolateral myocardial infarction.
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [9502627](https://pubmed.ncbi.nlm.nih.gov/9502627/) | 1998 | Observational / Diagnostic | Journal of the American College of Cardiology | ST elevation in posterior chest leads (V7–V9) during acute inferior MI identifies concomitant posterior infarction; patients with posterior extension may derive greater benefit from thrombolysis |
-| [8480981](https://pubmed.ncbi.nlm.nih.gov/8480981/) | 1993 | Case Report | Annales de cardiologie et d'angeiologie | Cerebral embolism with rapid resolution during late fibrinolysis with tPA in a posterolateral MI patient; highlights risk of systemic embolism from left intraventricular thrombi during fibrinolytic therapy |
-| [21351226](https://pubmed.ncbi.nlm.nih.gov/21351226/) | 2011 | Case Report | Catheterization and Cardiovascular Interventions | Primary PCI for unprotected left main occlusion presenting as posterolateral MI facilitated by intracoronary reteplase (tPA class agent); describes fibrinolytic use in the acute setting indirectly |
+|------|-----|------|------|---------|
+| [8480981](https://pubmed.ncbi.nlm.nih.gov/8480981/) | 1993 | Case report | Ann Cardiol Angeiol | Cerebral embolism with rapid resolution during late tPA fibrinolysis in a posterolateral MI patient. The authors stress the risk of systemic embolism when fibrinolysis is given with left intraventricular thrombi. |
+| [9502627](https://pubmed.ncbi.nlm.nih.gov/9502627/) | 1998 | Cohort (diagnostic ECG study) | J Am Coll Cardiol | Examined whether ST elevation in posterior leads (V7–V9) during inferior MI identifies concomitant posterior infarction and whether these patients benefit more from thrombolysis. |
+| [21351226](https://pubmed.ncbi.nlm.nih.gov/21351226/) | 2011 | Case report | Catheter Cardiovasc Interv | Primary PCI of an unprotected left main artery in posterolateral MI, facilitated by intracoronary reteplase. Alteplase was not used, so this is indirect evidence. |
+
+---
+
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| BLA103172 | Cathflo Activase (Genentech, Inc.) | Injection, powder, lyophilized, for solution | Not stated in the source record |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No interaction records were found in the source data.
 
-> **Note:** This dataset contains no collected TFDA/FDA label warnings, contraindications, or drug–drug interaction data for Alteplase. Collecting the full prescribing information (particularly bleeding risk, contraindications in recent surgery/stroke, and interactions with anticoagulants) is a blocking prerequisite before any safety assessment can proceed.
+One point comes from the retrieved literature: the case report above describes systemic (cerebral) embolism during late fibrinolysis, so embolic risk should be part of any safety assessment.
 
 ---
 
@@ -91,14 +100,13 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-While Alteplase's fibrinolytic mechanism is directly applicable to all coronary thrombus subtypes — including posterolateral MI — the evidence base for this specific anatomical designation consists solely of case reports and one observational/diagnostic study, placing it at Evidence Level L4. There are no clinical trials designed with posterolateral MI as a primary endpoint, and the safety dataset is absent, making progression to a formal research proposal premature.
+The prediction is a subtype of an acute MI use rather than a distinct repurposing opportunity. No trials are registered, and the only literature is indirect (a case report, a PCI case with a different drug, and a diagnostic ECG study). The evidence level is L4. The package insert safety data is still missing, which blocks progression to safety screening.
 
 **To proceed, the following is needed:**
-
-- **Safety data collection:** Download and parse the FDA prescribing information (Activase/Cathflo Activase package inserts) to populate key warnings, contraindications, and DDI profile — currently a blocking gap
-- **Subgroup analysis search:** Conduct a systematic search of large STEMI thrombolysis trials (GUSTO-I/III, TAMI 1–5, ISIS-3) for posterolateral MI subgroup outcomes with rt-PA; these may already contain indirect efficacy data at higher evidence tiers
-- **Regulatory data correction:** Confirm US FDA approval status for Alteplase (Activase, NDA 103172; Cathflo Activase, NDA 125274) — the current dataset erroneously shows 0 licenses; correcting this is necessary to properly populate the Quick Overview and US Market Information sections
-- **Differentiation from established use:** Clarify whether "posterolateral MI" in this context represents a truly novel indication or a subtype already covered by the existing STEMI approval; if the latter, this prediction may represent model noise rather than a repurposing opportunity
+- The US package insert (warnings, contraindications) and the approved-indication text for BLA103172
+- Mechanism of action data from DrugBank
+- Alteplase-specific data for posterolateral MI, such as subgroup analyses of major thrombolysis trials (e.g., TAMI-1 and GUSTO reported infarct-location or subgroup findings for rt-PA)
+- A decision on whether posterolateral MI should be evaluated as part of the broader acute MI indication rather than as a separate candidate
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

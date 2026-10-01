@@ -29,80 +29,71 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-Using no skill (report-writing task, direct template compliance — no matching skill needed).
-
-# Trihexyphenidyl: From Parkinsonism to Attention-Deficit/Hyperactivity Disorder
+# Trihexyphenidyl: From Parkinsonism to Attention Deficit-Hyperactivity Disorder
 
 ## One-Sentence Summary
 
-> Trihexyphenidyl is a central anticholinergic agent historically used to manage Parkinsonism and drug-induced extrapyramidal symptoms (inferred from mechanistic evidence text; formal indication/MOA records are a data gap).
-> The TxGNN model predicts it may be effective for **Attention-Deficit/Hyperactivity Disorder (ADHD)**,
-> but this is currently supported by **0 clinical trials** and only **1 loosely related publication**, and the model's own mechanistic rationale argues *against* plausibility.
-
----
+Trihexyphenidyl is an anticholinergic drug that is generally used for parkinsonism and drug-induced movement disorders. This is general pharmacology, because the US label data in this pack contain no indication text.
+The TxGNN model predicts it may be effective for **attention deficit-hyperactivity disorder (ADHD)**, but there are **0 clinical trials** and only **1 indirectly related publication**. The score comes from the model alone, so the evidence is very weak.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in the evidence pack (no license records); pharmacologically an anticholinergic historically used for Parkinsonism / drug-induced extrapyramidal symptoms, per mechanistic text in the evidence |
-| Predicted New Indication | Attention-Deficit/Hyperactivity Disorder (ADHD) |
+| Original Indication | Not stated in the US licence data (parkinsonism per general pharmacology) |
+| Predicted New Indication | Attention deficit-hyperactivity disorder |
 | TxGNN Prediction Score | 99.92% |
-| Evidence Level | L5 |
-| US/Taiwan Market Status | Not Marketed (Not marketed) |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (the pack lists L4, but its only literature item is an indirect cohort study with no drug-specific data) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 16 (the licences listed are all ANDAs, i.e. generics) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action (MOA) data is not available from DrugBank (flagged as a High-severity data gap). Based on the descriptive text accompanying the TxGNN prediction, trihexyphenidyl is understood to be a central M1 muscarinic receptor antagonist that reduces striatal cholinergic activity, an action traditionally used to relieve extrapyramidal symptoms such as Parkinsonism and drug-induced dystonia.
+Currently, detailed mechanism of action data is not available. Based on general pharmacology, trihexyphenidyl is a muscarinic (M1-preferring) anticholinergic. It is used to treat movement symptoms by blocking cholinergic signalling in the brain.
 
-There is **no established mechanistic pathway** connecting this anticholinergic action to the core symptoms of ADHD (inattention/hyperactivity). In fact, the evidence pack's own repurposing rationale states the opposite: anticholinergic drugs are more likely to *cause* cognitive side effects such as memory and attention impairment, which would work against — not for — an ADHD indication. The single supporting literature entry (a case series on tic disorder with dystonia) does not discuss ADHD directly.
+No direct mechanism links cholinergic blockade to the core symptoms of ADHD (inattention, hyperactivity, impulsivity). The only literature hit is about primary tic disorder with dystonia, where anticholinergics may help the dystonic component. That is a comorbid movement-disorder link, not evidence of ADHD efficacy.
 
-Taken together, this prediction should be treated as a statistical association from the knowledge graph rather than a mechanistically or clinically grounded signal at this stage.
-
----
+The very high TxGNN score (99.92%) is a knowledge-graph prediction only. Because of this, the prediction should be treated as a hypothesis to examine, not as support for efficacy.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [21506147](https://pubmed.ncbi.nlm.nih.gov/21506147/) | 2011 | Case series (Tier 3) | Movement Disorders | Describes a clinical series of primary tic disorder co-occurring with dystonia; does not directly address ADHD or trihexyphenidyl efficacy in ADHD. |
-
----
+| [21506147](https://pubmed.ncbi.nlm.nih.gov/21506147/) | 2011 | Cohort | Movement Disorders | Large clinical series and review of patients with tics and persistent dystonia, describing the prevalence and clinical features of this combined syndrome. It does not evaluate ADHD or trihexyphenidyl efficacy. |
 
 ## US Market Information
 
-The drug is currently **not marketed** and no license/NDA records are available in the evidence pack (total licenses: 0).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA040254 | Trihexyphenidyl Hydrochloride (Novitium Pharma LLC) | Tablet | Not provided |
+| ANDA091630 | Trihexyphenidyl Hydrochloride (Natco Pharma Limited) | Tablet | Not provided |
+| ANDA040251 | Trihexyphenidyl Hydrochloride (Akorn) | Syrup | Not provided |
+| ANDA040177 | Trihexyphenidyl Hydrochloride (PAI Pharma) | Solution | Not provided |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug-interaction data are not currently available; TFDA label/warning retrieval is flagged as a **Blocking** data gap.)
-
----
+Please refer to the package insert for safety information. No drug interaction records were found for this drug in the available data.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Evidence is minimal (evidence level L5, decision stage S0) — no clinical trials and only a single, indirectly relevant case series support this indication. The model's own mechanistic rationale actively argues against plausibility, since anticholinergic agents are more commonly associated with cognitive impairment than with symptomatic improvement in ADHD.
+There are no clinical trials, no drug-specific literature, and no mechanistic basis linking anticholinergic action to ADHD. The high TxGNN score is the only support. Safety data (warnings and contraindications) are also missing, so the candidate cannot move on to safety screening.
+
+The other nine predicted indications are weaker still. Eight have no usable evidence (L5, Hold), and the ADHD, inattentive type prediction is likely a duplicate of the ADHD signal. The one exception is **PLA2G6-associated neurodegeneration**, which is flagged as a research question. Any benefit there would be symptomatic only (dystonia-parkinsonism), and its two case-level reports have not been confirmed to involve trihexyphenidyl.
 
 **To proceed, the following is needed:**
-- TFDA/FDA label warnings and contraindications (currently a Blocking data gap — required before any safety pre-assessment)
-- Confirmed mechanism of action from DrugBank or primary literature
-- Preclinical or clinical studies directly evaluating trihexyphenidyl in ADHD populations
-- A safety/monitoring plan addressing anticholinergic cognitive side effects if this candidate is ever advanced
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Original approved indication text for the US licences
+- A systematic search for trihexyphenidyl-specific ADHD data, and full-text review of the tic-with-dystonia and PLA2G6 literature to confirm whether the drug was actually evaluated
+- Review of anticholinergic safety in children and people with ADHD, since cognitive and CNS adverse effects are a particular concern in this population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

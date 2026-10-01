@@ -29,32 +29,32 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# LOTEPREDNOL ETABONATE: From Unregistered Indication in Taiwan to Conjunctival Folliculosis
+# Loteprednol Etabonate: From Topical Ophthalmic Corticosteroid to Conjunctival Folliculosis
 
 ## One-Sentence Summary
 
-Loteprednol etabonate has no approved license or recorded original indication in the Taiwan regulatory dataset reviewed here, and it is not currently marketed in Taiwan.
-The TxGNN model predicts it may be effective for **conjunctival folliculosis**, but this top-ranked prediction is supported by **0 clinical trials** and **0 publications**, and the evidence pack's own annotation questions its clinical plausibility.
+Loteprednol etabonate is a topical corticosteroid marketed in the US as eye drops, suspension and gel. The regulatory data provided does not list its approved indication text.
+The TxGNN model predicts it may be effective for **conjunctival folliculosis** with a very high score, but **0 clinical trials** and **0 publications** currently support this specific prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not established — no Taiwan license or original-indication data on record |
+| Original Indication | Not listed in the available licence records (generally a corticosteroid for inflammatory eye conditions) |
 | Predicted New Indication | Conjunctival folliculosis |
 | TxGNN Prediction Score | 99.69% |
-| Evidence Level | L5 (model prediction only, no supporting trials or literature) |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 licences (includes ANDA generics) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for loteprednol etabonate is not available in this evidence pack (flagged as data gap DG002, severity High). No original indication or Taiwan license history was found either, so the drug's established clinical role cannot be characterized from this dataset alone.
+Currently, detailed mechanism of action data is not available in the input. Loteprednol is described elsewhere in the evidence as a glucocorticoid receptor agonist with anti-inflammatory activity. Its efficacy in inflammatory eye conditions is generally established, so it is mechanistically plausible for other conjunctival inflammatory conditions.
 
-For the top-ranked prediction, the evidence pack's own mechanistic annotation is cautionary rather than supportive: conjunctival folliculosis is typically a benign, self-limiting reactive lymphoid hyperplasia, and topical corticosteroids are not a conventional treatment for it. The annotation explicitly notes that the high TxGNN score "may reflect conjunctival tissue similarity in the knowledge graph rather than treatment rationale" (結膜組織相似性而非治療合理性).
+For conjunctival folliculosis, that reasoning is weak. Folliculosis is usually a benign, non-inflammatory finding, so a corticosteroid has little rationale and its risks are not justified. The high TxGNN score reflects a knowledge-graph association, not clinical support.
 
-Looking across the full set of 10 candidates in this evidence pack, mechanistic plausibility is uneven. A few candidates — Angelucci syndrome, rosacea conjunctivitis, serous conjunctivitis (non-viral) — have rationale text suggesting topical corticosteroids are plausible if the underlying cause is allergic or inflammatory. Several others — parasitic conjunctivitis, acute hemorrhagic conjunctivitis, acute contagious conjunctivitis, otitis externa — are flagged within the evidence itself as mechanistically incompatible or unsupported (e.g., steroids may worsen infection, or the anatomical route doesn't match available formulations). This mixed picture indicates the predictions require case-by-case clinical judgment rather than a single coherent MOA narrative, and none currently rises above a model-only signal.
+Steroids can also worsen unrecognized infection, so the etiology of any conjunctival condition must be established before use. A related point is that several of the top-10 predictions in this pack (parasitic, acute hemorrhagic and acute contagious conjunctivitis) are infectious, and steroid use there raises safety concerns.
 
 ## Clinical Trial Evidence
 
@@ -62,31 +62,44 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for the top-ranked indication (conjunctival folliculosis).
+Currently no related literature available.
 
-*Note: lower-ranked candidates in this evidence pack do carry limited literature — chronic follicular conjunctivitis (rank 3) has 2 case reports ([PMID 29801089](https://pubmed.ncbi.nlm.nih.gov/29801089/), [PMID 17056466](https://pubmed.ncbi.nlm.nih.gov/17056466/)), and pseudomembranous conjunctivitis (rank 5) has 1 cohort study ([PMID 40638366](https://pubmed.ncbi.nlm.nih.gov/40638366/)). None of these describe loteprednol treatment outcomes — they describe the disease itself or an unrelated antiviral comparison — so they do not constitute drug-specific evidence.*
+## US Market Information
 
-## Taiwan Market Information
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA217484 | Loteprednol Etabonate | Suspension/drops | Amneal Pharmaceuticals NY LLC |
+| ANDA207609 | Loteprednol Etabonate | Suspension/drops | Armas Pharmaceuticals Inc. |
+| ANDA215933 | Loteprednol Etabonate | Suspension/drops | Armas Pharmaceuticals Inc. |
+| NDA202872 | Loteprednol Etabonate | Gel | Bausch & Lomb Americas Inc. |
+| ANDA212450 | Loteprednol Etabonate | Suspension/drops | NorthStar Rx LLC |
 
-Loteprednol etabonate is not currently marketed in Taiwan; no NDA or license records were found in the dataset (0 total licenses).
+Five of 20 licences are shown. The records also list ointment and suspension forms.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. TFDA label warnings and contraindications for this drug could not be retrieved (data gap DG001, severity **Blocking** — this gap prevents entry into the S1 safety pre-assessment stage), and no drug-drug interaction records were found (query status: not found).
+Please refer to the package insert for safety information. No drug-interaction records were found for this drug.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction has no clinical trial or literature support and carries an evidence-level of L5 (model prediction only), and the evidence pack's own mechanistic note casts doubt on its clinical plausibility. Combined with a Blocking data gap on TFDA safety labeling (DG001) and the drug's unmarketed status in Taiwan, there is currently no basis to proceed past S0.
+The prediction rests on the model score alone, with no trials or literature. Folliculosis is usually benign and non-inflammatory, so a corticosteroid is poorly justified.
+
+Other predicted indications have slightly more support but are still weak:
+- **Chronic follicular conjunctivitis**: two case reports, neither shown to involve loteprednol (L4, Research Question).
+- **Pseudomembranous conjunctivitis**: one indirect adenoviral conjunctivitis study (L4, Hold).
+- **Rosacea conjunctivitis**: no literature, but flagged as a Research Question.
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings/contraindications) to resolve blocking data gap DG001
-- DrugBank/API-sourced mechanism of action to resolve data gap DG002
-- Original indication and licensing history to establish a baseline for comparison
-- If pursuing conjunctival folliculosis specifically: prospective clinical evidence, since none currently exists
-- Consider re-evaluating lower-ranked candidates with more favorable mechanistic rationale (e.g., Angelucci syndrome, rosacea conjunctivitis) if clinical trial or literature data becomes available
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Confirmation that conjunctival folliculosis is a condition that needs pharmacological treatment
+- A targeted literature search for loteprednol in non-infectious follicular and rosacea-related conjunctivitis
+- Etiology-based exclusion criteria (infectious causes) for any future study
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,31 +29,31 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Felodipine: From Hypertension to Pulmonary Hypertension with Unclear Multifactorial Mechanism
+# Felodipine: From Hypertension to Pulmonary Hypertension (Unclear Multifactorial Mechanism)
 
 ## One-Sentence Summary
 
-Felodipine is a dihydropyridine calcium channel blocker (DHP-CCB) whose established clinical use is blood pressure control in hypertension. The TxGNN model's top-ranked prediction for this drug is **pulmonary hypertension with unclear multifactorial mechanism** (TxGNN score 99.91%), but **no clinical trials and no published literature currently support this specific prediction** — it rests on the model score alone.
+Felodipine is a dihydropyridine calcium channel blocker, a vasodilating drug that is marketed in the US as generic tablets. The licence records supplied do not state its indication, so hypertension is assumed here from its drug class.
+The TxGNN model predicts it may be effective for **pulmonary hypertension with unclear multifactorial mechanism**, with a very high graph score.
+However, there are **0 clinical trials** and **0 publications** supporting this specific prediction, so it remains a model-only signal.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in US regulatory data (0 NDAs on file); pharmacologically a DHP calcium channel blocker used for hypertension |
+| Original Indication | Not stated in the licence records (hypertension assumed from drug class) |
 | Predicted New Indication | Pulmonary hypertension with unclear multifactorial mechanism |
 | TxGNN Prediction Score | 99.91% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (all listed entries are ANDA generic authorizations) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (DrugBank query flagged as a High-severity data gap). Based on known information available elsewhere in this evidence pack, felodipine is a dihydropyridine calcium channel blocker (DHP-CCB) that acts as a systemic vasodilator; its efficacy in hypertension is well established, and mechanistically the same vasodilatory action could theoretically extend to pulmonary vascular resistance.
+Currently, detailed mechanism of action data is not available. Based on known information, felodipine is a dihydropyridine L-type calcium channel blocker. It lowers vascular tone by relaxing arterial smooth muscle, and this mechanistically may be applicable to pulmonary hypertension.
 
-However, "pulmonary hypertension with unclear multifactorial mechanism" corresponds to WHO Group 5 PH, an etiologically heterogeneous category where systemic vasodilators are not standard therapy and — in some PH subtypes — can be harmful (e.g., unopposed systemic hypotension without corresponding pulmonary selectivity). No felodipine-specific trial or publication in this pack addresses this indication, so the mechanistic plausibility above is theoretical, not evidence-backed.
-
-Notably, other TxGNN-predicted indications for felodipine in this same batch have direct, drug-specific supporting literature (see Conclusion), which is not the case for the top-ranked candidate presented here.
+Pulmonary vasodilation is therefore theoretically plausible. The high TxGNN score reflects graph proximity between the drug and the disease, not experimental or clinical confirmation. Calcium channel blockers are generally reserved for the small group of pulmonary arterial hypertension patients who respond to vasodilator testing. A general-purpose vasodilator such as felodipine is not an established option for a broad or poorly defined pulmonary hypertension group.
 
 ## Clinical Trial Evidence
 
@@ -65,25 +65,38 @@ Currently no related literature available.
 
 ## US Market Information
 
-Felodipine is currently **not marketed** in the United States under this evidence pack's records — 0 NDAs/licenses are on file.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA210847 | Felopdipine (as listed; Westminster Pharmaceuticals) | Tablet, extended release | Not stated in record |
+| ANDA204800 | Felodipine (Bryant Ranch Prepack) | Tablet, film coated | Not stated in record |
+| ANDA210847 | Felodipine (Yiling Pharmaceutical) | Tablet, extended release | Not stated in record |
+| ANDA202170 | Felodipine (Bryant Ranch Prepack) | Tablet, extended release | Not stated in record |
+
+All listed products are oral formulations.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No drug-interaction records were found in the data provided.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Despite a very high TxGNN prediction score (99.91%), zero clinical trials and zero publications directly support felodipine's use in pulmonary hypertension with unclear multifactorial mechanism — this meets the L5 criterion (model prediction only, no actual studies), which does not warrant advancing past a Hold.
+The prediction rests only on a graph-based score. No trials or drug-specific literature support it, and calcium channel blockers are only used in a narrow, vasoreactive subset of pulmonary hypertension. Systemic vasodilators can also worsen oxygenation in lung-disease-related forms.
 
 **To proceed, the following is needed:**
-- Direct clinical or mechanistic evidence (in vitro, animal, or human) connecting felodipine to WHO Group 5 pulmonary hypertension specifically
-- Felodipine MOA and DrugBank category data (currently a Blocking/High-severity data gap) to support mechanistic-link analysis
-- TFDA/FDA label data (warnings, contraindications) before any S1 safety screening can proceed
-- Confirmation of current US marketing status, since 0 NDAs are on file despite felodipine being a known marketed molecule elsewhere
-- Consider redirecting evaluation effort toward this same batch's better-evidenced candidates — **chronic pulmonary heart disease** (3 felodipine-specific hemodynamic studies) and **Prinzmetal angina** (9 felodipine-specific trials, including head-to-head RCTs vs. nifedipine) — both already show direct drug-level evidence that this top-ranked candidate lacks
+- Felodipine-specific preclinical or clinical data in pulmonary hypertension, ideally a defined subgroup such as vasoreactive PAH
+- Package insert warnings and contraindications (currently a blocking gap for safety screening)
+- Detailed mechanism of action data from DrugBank
+- Approved indication text for the licences, to confirm the original indication
+
+**Other predicted indications for this drug:**
+- **Prinzmetal angina** (rank 7, score 99.07%) has by far the strongest support. It has felodipine-specific studies, including a double-blind comparison with nifedipine and placebo in stable angina (PMID 7744087), a felodipine vs nifedipine comparison in Prinzmetal angina (PMID 1746458), and ergonovine-provocation studies (PMID 8013514). Its evidence level is L2, and its recommendation is Proceed with Guardrails. It is a better candidate to prioritize than the pulmonary hypertension prediction.
+- **Chronic pulmonary heart disease** (rank 6) has indirect, dated hemodynamic studies only. It is a research question, not a candidate for development.
+- The remaining predictions (ranks 2–5) have no meaningful drug-specific evidence and stay on Hold.
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

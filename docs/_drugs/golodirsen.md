@@ -33,69 +33,62 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 ## One-Sentence Summary
 
-Golodirsen (DrugBank DB15593) is an antisense oligonucleotide developed for Duchenne Muscular Dystrophy patients amenable to exon 53 skipping. The TxGNN model predicts it may be effective for **Distal Myopathy, Welander Type**, but this prediction is currently supported by **0 clinical trials** and **0 publications**, and is not yet marketed in Taiwan.
-
----
+Golodirsen (Vyondys 53) is an antisense oligonucleotide that skips exon 53 of the DMD gene. The source record leaves the original indication blank, but this use is known for Duchenne muscular dystrophy.
+The TxGNN model predicts it may be effective for **distal myopathy, Welander type**, but **0 clinical trials** and **0 publications** currently support this direction, so it remains a model-only prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Duchenne Muscular Dystrophy (exon 53-skipping amenable) — inferred from mechanistic description in the evidence pack; no formal Taiwan license record exists to confirm |
-| Predicted New Indication | Distal Myopathy, Welander Type |
+| Original Indication | Duchenne muscular dystrophy amenable to exon 53 skipping (the approved-indication text is blank in the source record; this is from general knowledge) |
+| Predicted New Indication | Distal myopathy, Welander type |
 | TxGNN Prediction Score | 99.11% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| US Market Status | Not marketed (Not marketed) |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not formally available in the drug record (flagged as a High-severity data gap, DG002). Based on the mechanistic notes accompanying this candidate, golodirsen is a sequence-specific antisense oligonucleotide that induces exon 53 skipping in the dystrophin gene, and is only effective in patients carrying mutations amenable to that specific exon skip.
+Currently, detailed mechanism of action data is not available in the source record. From general knowledge, golodirsen is a phosphorodiamidate morpholino oligomer. Its sequence binds DMD exon 53 pre-mRNA and induces exon skipping, which allows a shortened dystrophin protein to be produced.
 
-Distal Myopathy, Welander Type is caused by mutations in *TIA1* (an RNA-binding protein), a pathway unrelated to dystrophin exon 53 splicing. The evidence pack's own mechanistic assessment concludes that the high TxGNN score most likely reflects graph-level proximity between "muscle disease" nodes in the knowledge graph, rather than a genuine pharmacological or genetic mechanism connecting golodirsen to this disease.
+**The mechanistic link is weak.** Welander distal myopathy is linked to a recurrent TIA1 variant, a different gene with a different disease mechanism. Golodirsen's sequence is specific to DMD exon 53 and would not act on TIA1 transcripts. The high score (0.991) most likely reflects that both are muscle diseases and sit close together in the knowledge graph. It does not indicate a shared target or pathway.
 
-The same pattern holds for the three next-ranked candidates (nebulin-related early-onset distal myopathy, obsolete LGMD type 1C, and X-linked myopathy with postural muscle atrophy — scores 99.07%, 99.04%, and 99.02% respectively): each has a distinct, unrelated genetic etiology (*NEB*, *CAV3*, *VMA21*), and none has any clinical or literature support. Given golodirsen's mutation-specific, sequence-dependent mechanism, mechanistic extrapolation to any of these diseases is not currently supportable.
-
----
+The other three predictions show the same pattern: none has a direct mechanistic link.
+- **Nebulin-related early-onset distal myopathy (99.07%)**: This is an NEB-gene disease. Exon skipping is a class-level concept, but any NEB approach would need a newly designed, gene-specific oligonucleotide.
+- **Obsolete autosomal dominant limb-girdle muscular dystrophy type 1C (99.04%)**: This is a caveolinopathy caused by CAV3 variants. The disease term is obsolete, so its mapping to a current disease entity should be checked first.
+- **X-linked myopathy with postural muscle atrophy (99.02%)**: This is caused by VMA21 variants that impair V-ATPase assembly and autophagy, unrelated to dystrophin restoration.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-Golodirsen has no approved licenses on record in this dataset (0 total licenses, market status: not marketed).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA211970 | Vyondys 53 (Sarepta Therapeutics, Inc.) | Injection | Not provided in the source record |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug interaction data are not yet available — TFDA label data collection is flagged as a Blocking data gap, DG001, required before any safety pre-assessment can proceed.)
-
----
+Please refer to the package insert for safety information. No drug interaction records were found for this drug.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This candidate rests entirely on a TxGNN similarity score (L5, S0) with no clinical trials, no literature, and no confirmed mechanistic link — the evidence pack's own rationale indicates the target diseases have genetic etiologies distinct from golodirsen's exon-53-specific mechanism, making it unlikely to be a true positive rather than a knowledge-graph artifact.
+The prediction rests only on a knowledge-graph score, with no clinical trials or publications. The mechanism is also incompatible: golodirsen's sequence is specific to DMD exon 53 and does not target TIA1.
 
 **To proceed, the following is needed:**
-- TFDA/FDA label data (warnings, contraindications) to enable a baseline safety assessment (DG001)
-- Confirmed mechanism of action from DrugBank or primary literature (DG002)
-- Preclinical or case-level evidence specifically linking golodirsen (or exon-skipping ASOs generally) to *TIA1*-related distal myopathy pathology before any further evaluation of this or the other three ranked candidates
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data confirmed from DrugBank
+- Any preclinical evidence, or a gene-specific oligonucleotide design, showing a plausible link to the TIA1 variant
+- Confirmation of the current disease entity for the obsolete LGMD1C term, if that prediction is reviewed further
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

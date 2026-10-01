@@ -29,60 +29,96 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Glucarpidase: From Methotrexate Toxicity to Diabetic Cataract
+# Glucarpidase: From Methotrexate Toxicity Rescue to Diabetic Cataract
 
 ## One-Sentence Summary
 
-Glucarpidase is a recombinant bacterial enzyme (carboxypeptidase G2) used as emergency rescue therapy to hydrolyze toxic plasma concentrations of methotrexate; it is not currently marketed in the US/Taiwan reference dataset. The TxGNN model predicts it may be effective for **Diabetic Cataract**, but this direction is currently supported by **0 clinical trials** and **0 publications**, and the drug's own known mechanism shows no biological link to cataract pathology.
+Glucarpidase is a recombinant enzyme that breaks down methotrexate in plasma. It is marketed in the US as Voraxaze for rescue from methotrexate toxicity.
+The TxGNN model predicts it may be effective for **diabetic cataract**, along with nine other cataract and retinopathy variants.
+Currently there are **0 clinical trials** and **0 publications** supporting any of these predictions, so this is a model-only signal.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Toxic methotrexate plasma concentrations (rescue therapy) — per DrugBank classification; no formal TFDA/US license text available |
-| Predicted New Indication | Diabetic Cataract |
+| Original Indication | Methotrexate toxicity rescue (taken from the pack's rationale text; the license record has no indication text) |
+| Predicted New Indication | Diabetic cataract |
 | TxGNN Prediction Score | 99.85% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 (BLA125327) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed formal mechanism-of-action data is not available in the regulatory record, but the evidence pack itself documents glucarpidase's known pharmacology: it is a recombinant bacterial carboxypeptidase (carboxypeptidase G2) whose only established function is hydrolyzing methotrexate into inactive metabolites, used to accelerate clearance of toxic methotrexate concentrations in overdose settings.
+Currently, detailed mechanism of action data is not available in the record. Based on known information, glucarpidase is a recombinant bacterial carboxypeptidase G2. It hydrolyzes methotrexate into DAMPA and glutamate in plasma.
 
-There is no identified relationship between this original use and diabetic cataract. Diabetic cataract pathology involves hyperglycemia-driven lens protein glycation and osmotic changes in the crystalline lens — a pathway with no known biochemical overlap with folate-analog metabolism or methotrexate clearance.
+The review did not find a plausible link between this action and diabetic cataract. Diabetic cataract involves polyol-pathway and oxidative damage to the lens. Glucarpidase acts extracellularly on methotrexate and other folate-like substrates and has no known role in lens biology. At about 83 kDa, it is also unlikely to reach the lens.
 
-Given the drug has no recorded original indications, no DDI data, and a narrow, single-purpose enzymatic function, the high TxGNN score across this drug's entire top-10 list (all cataract/retinopathy nodes clustered within a 0.15% score range) is more consistent with sparse knowledge-graph connectivity producing noisy embedding similarity than with a genuine biological signal. The rationale text accompanying multiple ranked predictions in this evidence pack independently reaches the same conclusion.
+The ten predictions look like a systematic graph artifact, not independent signals:
+
+- All ten are cataract or retinopathy variants.
+- They sit in a narrow score band of 0.9982–0.9985.
+- Seven cataract subtypes share nearly identical scores. Three of them (tetanic, mature and immature cataract) have exactly the same score of 0.99833.
+
+| Rank | Predicted Indication | Score |
+|------|------|------|
+| 1 | Diabetic cataract | 99.85% |
+| 2 | Diabetic retinopathy | 99.84% |
+| 3–7 | Tetanic, mature, immature, craniostenosis, and type 2 diabetes-associated cataract | 99.83% |
+| 8–9 | Cortical cataract, nuclear senile cataract | 99.83% |
+| 10 | Senile cataract | 99.82% |
+
+Diabetic retinopathy has no supporting VEGF or retinal vascular link, and an intravitreal route has no supporting data.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 Currently no related literature available.
 
+---
+
 ## US Market Information
 
-No license records are available — glucarpidase has no marketed NDA/license entries in this dataset (market status: Not Marketed, total licenses: 0).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| BLA125327 | Voraxaze (BTG International Inc.) | Injection, powder, for solution | Not stated in the license record |
+
+The only registered route is injectable.
+
+---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is evidence-level L5 (model output only, zero clinical trials, zero literature), and the drug's own documented mechanism (methotrexate-specific hydrolysis) has no plausible biological connection to diabetic cataract. The uniformly clustered high scores across all ten predicted cataract/retinopathy indications for this drug further suggest a knowledge-graph sparsity artifact rather than a genuine signal.
+The 99.85% score is not backed by any trial, publication or plausible mechanism, and it is most likely a knowledge-graph artifact. A large injectable enzyme also has no route to the lens or retina.
 
 **To proceed, the following is needed:**
-- TFDA/FDA label data (warnings, contraindications) to close the current Blocking data gap before any safety pre-screening
-- Confirmed detailed mechanism-of-action data from DrugBank/primary literature
-- Preclinical or mechanistic evidence establishing any plausible ophthalmologic pathway before allocating further evaluation resources
-- Re-screening once additional KG edges (indications, DDI) are populated for this drug, since current predictions likely reflect data sparsity rather than efficacy signal
+- The US package insert (warnings, contraindications and approved indication text), which is missing and blocks safety screening
+- Mechanism of action data from DrugBank, to test any biological link to lens or retinal disease
+- Any preclinical or clinical evidence for the predicted indications. Without it, there is no basis for advancing beyond a model-only hypothesis.
+- A route-compatibility assessment for ocular delivery, which is still pending
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

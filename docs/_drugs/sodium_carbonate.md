@@ -29,13 +29,12 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Sodium Carbonate: From Undocumented Original Indication to Cauda Equina Syndrome (Model Prediction Only)
+# Sodium Carbonate: From an Alkalinizing Agent (No Labeled Indication on Record) to Cauda Equina Syndrome
 
 ## One-Sentence Summary
 
-> Sodium Carbonate (DrugBank DB09460) has no documented original indication or mechanism of action in this Evidence Pack, and it is not currently marketed in Taiwan or the US.
-> The TxGNN model predicts a possible association with **Cauda Equina Syndrome**,
-> but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a pure graph-embedding signal with no biological rationale.
+Sodium carbonate is an alkalinizing agent, antacid and pH adjuster. The US label data available here do not state an approved indication, and the products are marketed as homeopathic pellets and a soluble oral tablet.
+The TxGNN model predicts it may be effective for **Cauda Equina Syndrome**, but there are **0 clinical trials** and **0 publications** supporting this direction. The prediction is model-only.
 
 ---
 
@@ -43,23 +42,23 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in available data |
-| Predicted New Indication | Cauda Equina Syndrome |
+| Original Indication | Not stated in the available label data |
+| Predicted New Indication | Cauda equina syndrome |
 | TxGNN Prediction Score | 99.80% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 18 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for Sodium Carbonate, and no original indication is recorded in this Evidence Pack. Based on general pharmacological knowledge, sodium carbonate is an inorganic alkalizing/pH-adjusting agent, typically used as an excipient or buffering agent rather than as a standalone therapeutic.
+Currently, detailed mechanism of action data is not available. Sodium carbonate is known as an alkalinizing agent and antacid/pH adjuster. The available label records do not state any approved indication, so no link between an original indication and the new one can be drawn.
 
-For the top-ranked prediction — Cauda Equina Syndrome, a neurosurgical emergency caused by nerve root compression — the Evidence Pack explicitly states there is **no known biological connection** between an alkalizing agent and this condition's pathophysiology. The 99.80% TxGNN score reflects graph-embedding similarity only, not a validated pharmacological hypothesis.
+The review found no plausible mechanistic link between sodium carbonate and cauda equina syndrome. This condition is a compressive neuropathy of the lumbosacral nerve roots, and alkalinization has no known role in it. The high TxGNN score (99.80%) reflects a pattern in the knowledge graph. It is not supported by any clinical or literature evidence.
 
-It is worth noting that several lower-ranked candidates (e.g., ventricular tachycardia, anaphylaxis) have plausible **class-effect** rationale, since the related compound sodium bicarbonate has established use in alkalinizing therapy for sodium-channel-blocker toxicity and as a buffering excipient in epinephrine formulations. However, these are indirect extrapolations from a related compound, not direct evidence for sodium carbonate itself, and are not the top-ranked prediction in this pack.
+Because the mechanism is missing and no studies exist, this prediction should be treated as a low-confidence hypothesis.
 
 ---
 
@@ -77,13 +76,21 @@ Currently no related literature available.
 
 ## US Market Information
 
-Sodium Carbonate is currently **not marketed** in Taiwan or the US per this Evidence Pack, with 0 recorded authorizations/licenses. No product-level market information is available.
+The 18 authorizations are mostly homeopathic products, plus one oral soluble-tablet route. The 5 main entries are listed below.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Not listed | Natrum carbonicum (Boiron) | Pellet | Not stated |
+| Not listed | Natrum carbonicum (Boiron) | Pellet | Not stated |
+| Not listed | Natrum carbonicum (Boiron) | Pellet | Not stated |
+| Not listed | Natrum Carbonicum (Hahnemann Laboratories, Inc.) | Pellet | Not stated |
+| Not listed | Natrum Carbonicum (Hahnemann Laboratories, Inc.) | Pellet | Not stated |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No key warnings, contraindications, or drug interaction data are currently available for this compound, and TFDA label data (DG001) has not yet been retrieved.
+Please refer to the package insert for safety information.
 
 ---
 
@@ -92,14 +99,13 @@ Please refer to the package insert for safety information. No key warnings, cont
 **Decision: Hold**
 
 **Rationale:**
-This is an L5 (prediction-only) candidate with no mechanism of action, no original indication, no clinical trials, and no literature support. The top-ranked predicted indication (cauda equina syndrome) has no biologically plausible link to the drug's known pharmacology, and the drug is not currently marketed in Taiwan or the US.
+The prediction has no supporting trials or publications, and no plausible mechanistic link to cauda equina syndrome was identified. The available label records also lack indication and safety data, so the evidence stays at L5.
 
 **To proceed, the following is needed:**
-- TFDA label / package insert (warnings, contraindications) — currently blocking (DG001)
-- Confirmed mechanism of action from DrugBank or primary literature (DG002)
-- Original indication(s), if any, to establish a baseline pharmacological rationale
-- Preclinical or mechanistic evidence specifically linking sodium carbonate (not sodium bicarbonate) to any of the predicted indications before advancing past S0
-- If class-effect extrapolation from sodium bicarbonate is to be pursued, a formal review of the two compounds' PK/PD equivalence for the intended route of administration
+- Package insert warnings and contraindications, which are required before any safety screening
+- Mechanism of action data from DrugBank
+- A documented mechanistic hypothesis linking alkalinization to compressive nerve-root injury, before any further investment
+- Review of the other predicted indications. Dry eye syndrome (L4) is the only one with any literature (PMID 27813150), but that study concerns an oral spray in Sjögren's syndrome. Its abstract describes a sodium bicarbonate and xylitol spray, so it does not directly support sodium carbonate or an ocular use. Any ocular use would first need ocular safety data, because sodium carbonate is strongly alkaline and potentially irritating to the eye.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

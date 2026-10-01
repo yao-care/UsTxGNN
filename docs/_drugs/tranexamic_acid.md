@@ -29,13 +29,13 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-# Tranexamic Acid: From Abnormal Uterine Bleeding to Amenorrhea
+# Tranexamic Acid: From Bleeding Control to Amenorrhea
 
 ## One-Sentence Summary
 
-> Tranexamic acid is a well-known antifibrinolytic agent used to **reduce** excessive menstrual/surgical bleeding; it is not marketed in this jurisdiction and no official original-indication text is on file in this evidence pack.
-> The TxGNN model predicts a possible link to **Amenorrhea**, but the only two supporting publications discuss bleeding *suppression/prophylaxis* in cancer patients — not amenorrhea treatment — and the mechanistic rationale itself flags a likely **disease-entity mapping error** between "abnormal uterine bleeding" and "amenorrhea."
-> With **0 clinical trials** and **2 tangentially relevant reviews**, this candidate does not currently meet the bar to advance past screening.
+Tranexamic acid is an antifibrinolytic drug used to reduce bleeding, including heavy menstrual bleeding.
+The TxGNN model predicts it may be effective for **amenorrhea**, but the mechanism argues against this, and no clinical trials support it.
+Only **2 general review articles** on related bleeding topics are available, and neither directly tests this use.
 
 ---
 
@@ -43,23 +43,24 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in evidence pack (drug is not marketed in this jurisdiction; no license records on file) |
-| Predicted New Indication | Amenorrhea (disease) |
+| Predicted New Indication | Amenorrhea |
 | TxGNN Prediction Score | 99.19% |
 | Evidence Level | L4 |
-| Market Status | ✗ Not marketed |
-| Number of NDAs | 0 |
-| Recommended Decision | **Hold** |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (the five listed are all ANDAs) |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is marked as a data gap in this evidence pack. Based on general pharmacology, tranexamic acid is a **plasminogen activator inhibitor (antifibrinolytic)**: it blocks the conversion of plasminogen to plasmin, thereby reducing fibrin breakdown and **decreasing bleeding**. Its established clinical use is to *reduce* excessive bleeding — e.g., abnormal uterine bleeding (AUB)/menorrhagia, surgical bleeding, and trauma-related hemorrhage.
+Detailed mechanism of action data is not available in the Evidence Pack. This assessment therefore relies on general pharmacology knowledge.
 
-**This creates a directional inconsistency with the predicted indication.** Amenorrhea is the *absence* of menstrual bleeding, which is pharmacologically the opposite problem tranexamic acid is designed to address. The two literature sources retrieved for this candidate both discuss AUB pharmacotherapy and menstrual *suppression/prophylaxis strategies in bleeding-risk cancer patients* — a different clinical concept than TXA causing or treating amenorrhea. The evidence pack's own rationale explicitly flags this as a likely **knowledge-graph disease node confusion** (AUB/menorrhagia vs. amenorrhea), rather than a genuine novel mechanistic hypothesis.
+Tranexamic acid is a lysine-analogue antifibrinolytic. It blocks plasminogen from binding to fibrin, which reduces the breakdown of blood clots. It is an established therapy for heavy menstrual bleeding and abnormal uterine bleeding.
 
-Given this, the prediction should be treated as a candidate for **disease-entity verification** before any further evaluation, not as a validated mechanistic hypothesis.
+**The prediction is weak mechanistically.** Amenorrhea means the absence of menstrual periods. Tranexamic acid does not suppress ovulation or endometrial growth, so it is not expected to induce or treat amenorrhea. The very high TxGNN score (0.99) most likely reflects the drug's closeness to menstrual-disorder nodes in the knowledge graph, not a therapeutic effect.
+
+The only plausible link is indirect. In patients with bleeding disorders or blood cancers, tranexamic acid may be one part of a bleeding-control plan alongside hormonal menses suppression. Since the drug does not itself produce amenorrhea, this remains a hypothesis without direct support.
 
 ---
 
@@ -73,22 +74,32 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [21701432](https://pubmed.ncbi.nlm.nih.gov/21701432/) | 2011 | Review | Menopause (New York, N.Y.) | Reviews pharmacological therapy for **abnormal uterine bleeding** (not amenorrhea); antifibrinolytics reduce excessive bleeding by 25–35%. |
-| [39043214](https://pubmed.ncbi.nlm.nih.gov/39043214/) | 2024 | Review | J Oncol Pharm Pract | Discusses menses **prophylaxis and suppression** strategies in pre-menopausal hematologic cancer patients with treatment-related cytopenias — a bleeding-risk-management context, not amenorrhea treatment. |
+| [21701432](https://pubmed.ncbi.nlm.nih.gov/21701432/) | 2011 | Review | Menopause | Evidence-based review of drug treatments for abnormal uterine bleeding. Treatments are generally effective and well tolerated. Choice depends on the cause and amount of bleeding, contraception needs, fertility, and perimenopausal status. |
+| [39043214](https://pubmed.ncbi.nlm.nih.gov/39043214/) | 2024 | Review | J Oncol Pharm Pract | Approach to preventing and suppressing menses in premenopausal women with blood cancers. Several agents exist, but data comparing them are scarce, especially in cancer patients. |
+
+Both papers cover menstrual-bleeding management in general. Neither shows that tranexamic acid treats amenorrhea.
 
 ---
 
 ## US Market Information
 
-No license/authorization records are available — the drug is not marketed in this jurisdiction (`total_licenses: 0`).
+The Evidence Pack lists no approved-indication text for these products. The table below shows the first 5 of 20 authorizations.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA203521 | Tranexamic Acid | Injection, solution | Heritage Pharmaceuticals Labs Inc. (Avet) |
+| ANDA205035 | Tranexamic Acid | Injection, solution | HF Acquisition Co LLC, DBA HealthFirst |
+| ANDA202093 | Tranexamic Acid | Tablet, film coated | Actavis Pharma, Inc. |
+| ANDA218320 | Tranexamic Acid | Tablet | Advagen Pharma Limited |
+| ANDA203521 | Tranexamic Acid | Injection | Northstar Rx LLC |
+
+Both injectable and oral forms are available.
 
 ---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-> Note: TFDA/local labeling data (warnings, contraindications, DDI) is marked as a **Blocking** data gap (DG001) in this evidence pack and could not be retrieved. This gap alone prevents progression to the S1 safety review stage.
 
 ---
 
@@ -97,13 +108,13 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-- No clinical trial evidence exists for this indication, and the two available literature sources describe bleeding suppression/management contexts rather than amenorrhea treatment — the predicted indication is mechanistically inverted relative to tranexamic acid's known antifibrinolytic action, suggesting a likely disease-entity mapping error in the knowledge graph.
-- A Blocking safety data gap (DG001: local warnings/contraindications) independently prevents advancing to safety screening regardless of the indication question.
+The prediction rests only on model score. The drug's mechanism (reducing bleeding, not suppressing menses) does not support treating amenorrhea. No clinical trials exist, and the two available reviews do not address this use.
 
 **To proceed, the following is needed:**
-- Verify whether the TxGNN disease node "amenorrhea (disease)" was correctly mapped, or whether it should map to "abnormal uterine bleeding / menorrhagia" — this is a prerequisite before any further scientific review.
-- Retrieve TFDA/local package insert warnings, contraindications, and DDI data (DG001).
-- Retrieve confirmed MOA and original approved indication from DrugBank/regulatory sources (DG002).
+- The US package insert warnings and contraindications, which are required for any safety screening.
+- Detailed mechanism of action data from DrugBank, to test the indirect-link hypothesis.
+- A clear clinical rationale, such as a specific patient group (for example, bleeding disorders or blood cancers) where tranexamic acid plays a supporting role in menses management.
+- Evidence from trials or studies that directly test tranexamic acid in a menses-suppression setting.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

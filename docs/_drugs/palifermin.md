@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Palifermin
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1009
-evidence_level: L4
+evidence_level: L5
 indication_count: 6
 ---
 
 # Palifermin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,11 @@ Evidence Level: **L4** | Predicted Indications: **6**
 
 </div>
 
-# Palifermin: From Severe Oral Mucositis to Primary Platelet Release Disorder
+# Palifermin: From Approved Use (Not Recorded in the Data) to Primary Release Disorder of Platelets
 
 ## One-Sentence Summary
 
-> Palifermin (recombinant human keratinocyte growth factor) was originally used to prevent severe oral mucositis in patients with hematologic malignancies undergoing myelotoxic therapy.
-> The TxGNN model predicts it may be effective for **Primary Release Disorder of Platelets**,
-> but currently only **1 clinical trial** (indirectly relevant) and **no dedicated publications** support this direction.
+Palifermin is a recombinant keratinocyte growth factor (KGF/FGF7) sold in the US as KEPIVANCE. The TxGNN model predicts it may be effective for **primary release disorder of platelets**, but only **1 loosely related clinical trial** and **0 publications** exist, and neither tests this idea. This is a model-only prediction with no supporting evidence, so we recommend **Hold**.
 
 ---
 
@@ -43,23 +41,33 @@ Evidence Level: **L4** | Predicted Indications: **6**
 
 | Item | Content |
 |------|------|
-| Original Indication | Severe oral mucositis in patients with hematologic malignancies receiving myelotoxic therapy (based on known drug profile; not captured in the current regulatory dataset) |
-| Predicted New Indication | Primary Release Disorder of Platelets |
+| Original Indication | Not recorded in the Evidence Pack (the approved indication text is blank) |
+| Predicted New Indication | Primary release disorder of platelets |
 | TxGNN Prediction Score | 99.94% |
-| Evidence Level | L4 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Licenses | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 (BLA125103) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, structured mechanism of action data is not available in this evidence pack. Based on known pharmacology, palifermin is a recombinant human keratinocyte growth factor (rhKGF/FGF7) that binds FGFR2b to promote epithelial cell proliferation and mucosal repair. Its efficacy in reducing severe oral mucositis in patients undergoing myelotoxic therapy for hematologic malignancies (including hematopoietic stem cell transplantation) is well established.
+Palifermin acts on epithelial cells through the FGFR2b receptor. The Evidence Pack does not include a detailed mechanism-of-action entry or the original indications, so the prediction cannot be checked against known label pharmacology.
 
-The only supporting clinical trial identified (NCT06859424) is a platform study evaluating post-transplant cyclophosphamide-based GVHD prophylaxis in mismatched unrelated donor peripheral blood stem cell transplant recipients — a population where palifermin may appear as supportive mucositis prophylaxis, not as a therapy directed at platelet release function. The overlap between the original indication and the predicted indication is therefore driven by **shared patient population** (hematologic malignancy / transplant recipients), not by a shared pharmacological mechanism.
+The evidence review found **no plausible mechanistic link** to the predicted disease. Primary release disorders of platelets are intrinsic defects in platelet granule secretion, and no known KGF pathway acts on that process. The score of 99.94% is most likely an artifact of the knowledge-graph topology. Several inherited platelet disorders cluster together in the graph and receive similarly high scores, so the score does not reflect a real pharmacological signal.
 
-Mechanistically, the KGF–FGFR2b epithelial repair pathway has no established connection to platelet granule release physiology, which underlies primary platelet release disorder. The evidence pack's own rationale explicitly flags this as an indirect/co-occurrence association rather than direct therapeutic evidence, and the trial's relevance grade is rated "C" (population overlap only, mechanism unrelated).
+The same pattern holds for the other five predictions for this drug, all of which are inherited platelet or bleeding disorders:
+
+| Rank | Predicted Disease | TxGNN Score | Why There Is No Link |
+|------|------|------|------|
+| 2 | Glanzmann thrombasthenia | 99.93% | Defect of the integrin αIIbβ3 receptor; KGF signaling does not correct or bypass it |
+| 3 | Pseudo-von Willebrand disease | 99.91% | Gain-of-function defect of platelet GPIb-alpha; unrelated to epithelial KGF signaling |
+| 4 | Hemorrhagic disorder due to a constitutional thrombocytopenia | 99.50% | Inherited defect of platelet production; palifermin is not a thrombopoietic agent |
+| 5 | Bleeding diathesis due to a collagen receptor defect | 99.48% | Defective platelet collagen receptors (GPVI or α2β1); KGF does not restore them |
+| 6 | Scott syndrome | 99.38% | Defective phosphatidylserine exposure (ANO6/TMEM16F); not addressed by an epithelial growth factor |
+
+None of these five has any clinical trial or literature support.
 
 ---
 
@@ -67,27 +75,21 @@ Mechanistically, the KGF–FGFR2b epithelial repair pathway has no established c
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT06859424](https://clinicaltrials.gov/study/NCT06859424) | Phase 2 | Recruiting | 358 | Platform trial comparing GVHD prophylaxis drug combinations after mismatched unrelated donor PBSC transplant; palifermin, if used, would serve as supportive mucositis prophylaxis rather than a platelet-directed therapy (relevance grade: C) |
+| [NCT06859424](https://clinicaltrials.gov/study/NCT06859424) | Phase 2 | Recruiting | 358 | Platform protocol comparing post-transplant cyclophosphamide-based drug combinations to prevent graft-versus-host disease (GVHD) after mismatched unrelated donor stem cell transplant. It does not test a platelet function disorder, and palifermin's role in the trial was not verified. Relevance grade: C (no direct or indirect evidence for the predicted indication). |
 
 ---
 
-## Literature Evidence
+## US Market Information
 
-Currently no related literature available.
-
----
-
-## Taiwan Market Information
-
-Palifermin is not currently marketed in Taiwan (0 authorizations on file; market status: Not marketed).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| BLA125103 | KEPIVANCE (Swedish Orphan Biovitrum AB) | Lyophilized powder for injection | — (not stated in the data) |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-*(Note: TFDA label warnings/contraindications are flagged as a Blocking data gap — see Conclusion below.)*
+Please refer to the package insert for safety information. No drug interaction records were found for this drug.
 
 ---
 
@@ -96,13 +98,13 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction sits at Evidence Level L4, supported only by a single clinical trial with grade-C (indirect/population-overlap) relevance and no dedicated literature. No mechanistic link between the KGF/FGFR2b epithelial repair pathway and platelet granule release function has been established. All five other predicted indications in this pack (Glanzmann thrombasthenia, pseudo-von Willebrand disease, constitutional thrombocytopenia, collagen receptor defect bleeding diathesis, Scott syndrome) are Evidence Level L5 — model prediction only, with no supporting trials or literature.
+The prediction is model-only (L5) and stops at the first screening stage (S0). The single related trial addresses GVHD prophylaxis rather than platelet disorders, there are no publications, and there is no plausible mechanistic link between epithelial KGF signaling and platelet secretion defects. The high score is likely a graph artifact.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (Blocking gap, DG001)
-- Structured DrugBank MOA data (High-priority gap, DG002)
-- Preclinical/mechanistic studies directly linking FGF/KGF signaling to platelet biology
-- Dedicated clinical evidence in platelet release disorder populations, rather than incidental co-occurrence in transplant/GVHD trials
+- The package insert warnings and contraindications (a blocking gap for safety screening)
+- The drug's mechanism of action and original indications, so the prediction can be cross-checked
+- Any preclinical or clinical evidence linking KGF/FGFR2b signaling to platelet function or production
+- Route and formulation compatibility assessment, which is still pending
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

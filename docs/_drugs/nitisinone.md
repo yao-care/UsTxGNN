@@ -29,15 +29,13 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-Using the drug-repurposing-evaluation-report format directly (no other skill applies to this content-generation task).
-
 # Nitisinone: From Hereditary Tyrosinemia Type 1 to Renal Tubular Acidosis
 
 ## One-Sentence Summary
 
-> Nitisinone (DB00348) is used to treat Hereditary Tyrosinemia Type 1 (HT-1) by blocking the tyrosine degradation pathway.
-> The TxGNN model predicts it may also be effective for **Renal Tubular Acidosis**,
-> with **0 clinical trials** and **2 publications** currently supporting this direction — largely reflecting a known secondary benefit of HT-1 therapy rather than a novel mechanism.
+Nitisinone is an HPPD inhibitor, marketed in the US for hereditary tyrosinemia type 1 (HT-1).
+The TxGNN model predicts it may be effective for **renal tubular acidosis**, with **0 clinical trials** and **2 publications** (one cohort study and one case series) currently supporting this direction.
+The signal mostly reflects kidney tubular damage that is part of HT-1 itself, not an independent new target.
 
 ---
 
@@ -45,23 +43,23 @@ Using the drug-repurposing-evaluation-report format directly (no other skill app
 
 | Item | Content |
 |------|------|
-| Original Indication | Hereditary Tyrosinemia Type 1 (HT-1) — inferred from repurposing rationale; not confirmed via Taiwan license records |
-| Predicted New Indication | Renal Tubular Acidosis |
+| Original Indication | Hereditary tyrosinemia type 1 (taken from the evidence pack's rationale text; the license indication fields are empty) |
+| Predicted New Indication | Renal tubular acidosis |
 | TxGNN Prediction Score | 99.96% |
 | Evidence Level | L3 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of NDAs | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Formal DrugBank mechanism-of-action text for nitisinone is not available in this Evidence Pack. However, the literature-derived rationale provides a clear mechanistic picture: nitisinone inhibits **4-hydroxyphenylpyruvate dioxygenase (HPPD)**, an enzyme upstream in the tyrosine catabolism pathway. By blocking this enzyme, nitisinone prevents the accumulation of **succinylacetone**, the toxic downstream metabolite responsible for both the hepatic and renal tubular damage seen in HT-1.
+Nitisinone blocks 4-hydroxyphenylpyruvate dioxygenase (HPPD), an enzyme early in tyrosine breakdown. In HT-1, the enzyme downstream is missing, so toxic metabolites such as succinylacetone and fumarylacetoacetate build up. These damage the liver and the kidney tubules. Blocking HPPD upstream reduces how much of these metabolites forms.
 
-Renal tubular acidosis — specifically Fanconi-syndrome-type proximal tubular dysfunction — is a well-documented complication of untreated or undertreated HT-1, driven directly by succinylacetone toxicity. This means the "new indication" is not mechanistically novel; it is a **known secondary therapeutic effect** of nitisinone within its original disease context (HT-1), rather than an independent repurposing hypothesis in an unrelated disease area.
+HT-1 often causes Fanconi-type renal tubular dysfunction, which includes tubular acidosis. Improvement of tubular function on nitisinone is therefore biologically plausible. However, this is a secondary effect of treating HT-1, not a separate repurposing target. No evidence supports nitisinone in primary renal tubular acidosis or in patients without tyrosinemia.
 
-This distinguishes renal tubular acidosis from the other TxGNN-predicted candidates in this pack (e.g., galactosemia, glycogen storage disease, C1 inhibitor deficiency), which the rationale text explicitly flags as likely artifacts of knowledge-graph node proximity (co-occurrence in "pediatric metabolic liver disease" review articles) rather than genuine mechanistic links.
+The other nine predictions (ranks 2-10, such as galactosemia, glycogen storage disease and C1 inhibitor deficiency) have no mechanistic support. Their high scores appear to come from shared liver-disease neighbors in the knowledge graph or from co-mention in reviews. They are not developed further here.
 
 ---
 
@@ -75,35 +73,44 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [25172236](https://pubmed.ncbi.nlm.nih.gov/25172236/) | 2014 | Cohort | Molecular Genetics and Metabolism | Describes early effect of NTBC (nitisinone) on renal tubular dysfunction in patients with hereditary tyrosinemia type 1 |
-| [27109516](https://pubmed.ncbi.nlm.nih.gov/27109516/) | 2016 | Case Series | Indian Journal of Gastroenterology | Case series of 4 children with tyrosinemia treated with NTBC; reports resolution of renal tubular abnormalities alongside normalized liver function |
+| [25172236](https://pubmed.ncbi.nlm.nih.gov/25172236/) | 2014 | Cohort | Mol Genet Metab | Describes the early effect of nitisinone (NTBC) on renal tubular dysfunction in HT-1 patients |
+| [27109516](https://pubmed.ncbi.nlm.nih.gov/27109516/) | 2016 | Case series | Indian J Gastroenterol | Four children with tyrosinemia; the three on NTBC for about 3 years had normal liver function, undetectable urine succinylacetone and no portal hypertension (renal tubular findings truncated in the source abstract) |
+
+Both studies are in patients with HT-1, not in renal tubular acidosis from other causes.
 
 ---
 
 ## US Market Information
 
-Nitisinone is currently **not marketed in Taiwan** (market status: Not marketed), and no license records are available in the regulatory dataset. No approved Taiwan product information can be cited at this time.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA209449 | NITYR (Cycle Pharmaceuticals) | Tablet | Not listed in the data |
+| NDA021232 | Orfadin (Swedish Orphan Biovitrum; two entries) | Capsule | Not listed in the data |
+| ANDA216201 | Nitisinone (Eton Pharmaceuticals) | Capsule | Not listed in the data |
+| ANDA211041 | Nitisinone (Endo USA) | Capsule | Not listed in the data |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. TFDA warnings, contraindications, and drug interaction data are currently unavailable and represent a **blocking data gap (DG001)** for formal safety evaluation.
+Please refer to the package insert for safety information. No drug-interaction records were found.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The mechanistic link between nitisinone and renal tubular acidosis is biologically well-grounded — it reflects an established secondary effect of HT-1 treatment rather than a speculative new pathway. However, evidence is limited to one cohort and one case-series study (no RCTs or trials specifically targeting RTA as a primary endpoint), and the drug is not currently marketed in Taiwan.
+The only support is one cohort study and one case series, both in HT-1 patients, and no trials are registered. The kidney benefit is a secondary effect of the already-approved HT-1 use, so this is a research question rather than a repurposing candidate.
 
 **To proceed, the following is needed:**
-- TFDA package insert data (warnings, contraindications) — currently a **Blocking** gap (DG001)
-- Formal DrugBank MOA documentation (DG002)
-- Dedicated studies or larger cohorts evaluating renal tubular acidosis as a primary treatment endpoint (current evidence is secondary/observational within HT-1 cohorts)
-- Confirmation of Taiwan marketing authorization pathway, given current "not marketed" status
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data from DrugBank
+- Data separating renal tubular outcomes in HT-1 from any use in non-tyrosinemic renal tubular acidosis
+- Full-text review of the two publications, including the truncated case-series renal findings
+
+*These results are for research reference only and do not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

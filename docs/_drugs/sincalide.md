@@ -29,12 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Sincalide (DB09142): From an Undetermined Original Indication to "Malignant Catarrh" — A Low-Confidence Signal
+# Sincalide: From Diagnostic Gallbladder and Pancreatic Testing to Malignant Catarrh
 
 ## One-Sentence Summary
 
-> Sincalide's original indication and mechanism of action are not available in the current evidence pack, and it is not marketed locally (0 licenses on file).
-> The TxGNN model's top-ranked prediction is **Malignant Catarrh** (a bovine herpesvirus disease), but this signal is supported by **0 clinical trials** and **0 publications**, and the model's own rationale flags it as likely knowledge-graph noise rather than a genuine mechanistic finding.
+Sincalide is a synthetic cholecystokinin (CCK-8) analog used as a diagnostic agent to stimulate gallbladder contraction and pancreatic secretion.
+The TxGNN model predicts it may be effective for **malignant catarrh**, a veterinary viral disease of cattle, with **0 clinical trials** and **0 publications** supporting this direction.
+This looks like a knowledge-graph artifact rather than a real repurposing signal.
 
 ---
 
@@ -42,23 +43,38 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | No data available (evidence pack lists no approved indication; drug is not marketed locally) |
-| Predicted New Indication | Malignant Catarrh (rank 1) |
+| Original Indication | Not listed in the US licence data (diagnostic use for gallbladder contraction and pancreatic secretion, per the mechanistic assessment) |
+| Predicted New Indication | Malignant catarrh |
 | TxGNN Prediction Score | 99.96% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
-| Recommended Decision | **Hold** |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 4 licence entries (2 distinct NDA numbers: NDA017697, NDA210850) |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism-of-action data for sincalide is not available in this evidence pack, and no original indication is on record. Without a documented drug class or established indication to anchor a mechanistic comparison, the biological plausibility of the top prediction cannot be substantiated from the data provided.
+Currently, detailed mechanism of action data is not available in the source record. Based on known information, sincalide is a CCK-8 analog. It acts on CCK receptors to stimulate gallbladder smooth-muscle contraction and pancreatic secretion, and it is used diagnostically rather than therapeutically.
 
-More importantly, the evidence pack's own rationale for the rank-1 candidate states that Malignant Catarrhal Fever is a herpesvirus infection of cattle with **no known biological connection** to cholecystokinin/gallbladder-pancreatic signaling pathways, and explicitly characterizes the high TxGNN score as likely **knowledge-graph noise** arising from an animal-disease node rather than a real pharmacological signal. The same pattern repeats for ranks 2, 4, 6, 7, 8, 9, and 10 — all L5, all zero evidence, several of them veterinary or genetically unrelated conditions (bovine rhinotracheitis, thrombotic disease, familial hypercholesterolemia, Prinzmetal angina, amenorrhea).
+**The prediction is not reasonable on current evidence.**
+- Malignant catarrh is a veterinary viral disease with no known connection to CCK receptor pharmacology.
+- No trials or publications support the link.
+- The high score most likely reflects the graph structure, not biology.
 
-The only candidates with any literature support (rank 3: cytomegalovirus infection; rank 5: hyperthyroidism) reach only L4, based on unrelated basic-science studies on pancreatic acinar cell exocytosis and thyroid-status effects on Ca²⁺ signaling in rats — mechanistically tangential and explicitly noted as indirect/off-topic by the source rationale. No candidate in this list reaches a level where human translational relevance can be inferred.
+The same pattern appears across the other nine top predictions:
+
+| Predicted indication | Score | Evidence | Assessment |
+|------|------|------|------|
+| Infectious bovine rhinotracheitis | 99.96% | L5 | Bovine herpesvirus disease, no mechanistic link |
+| Cytomegalovirus infection | 99.96% | L5 | The only retrieved paper (PMID 11484914) is a rat pancreatic acinar study, a keyword mismatch |
+| Thrombotic disease | 99.94% | L5 | No known antithrombotic mechanism |
+| Hyperthyroidism | 99.93% | L4 | Indirect rodent studies only; no therapeutic effect shown |
+| Resistance to thyroid hormone (THR-beta mutation) | 99.92% | L5 | No known connection |
+| Hyperthyroxinemia | 99.88% | L5 | Speculative |
+| Homozygous familial hypercholesterolemia | 99.85% | L5 | No effect on LDL receptor function |
+| Prinzmetal angina | 99.84% | L5 | No established mechanism |
+| Amenorrhea | 99.83% | L5 | No link to the reproductive axis |
 
 ---
 
@@ -76,15 +92,20 @@ Currently no related literature available.
 
 ## US Market Information
 
-Sincalide has **0 licenses on file** and is currently **not marketed**. No NDA, product, or approved-indication records are available for review.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA017697 | KINEVAC (Bracco Diagnostics) | Lyophilized powder for injection | Not provided in source data |
+| NDA017697 | SINCALIDE (Fresenius Kabi USA) | Lyophilized powder for injection | Not provided in source data |
+| NDA210850 | Sincalide (Fosun Pharma USA) | Lyophilized powder for injection | Not provided in source data |
+| NDA210850 | Sincalide (MAIA Pharmaceuticals) | Lyophilized powder for injection | Not provided in source data |
+
+All products are injectable only.
 
 ---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-*(Note: key warnings, contraindications, and DDI data are all flagged as blocking data gaps — see Conclusion below.)*
 
 ---
 
@@ -93,13 +114,15 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (Malignant Catarrh) has zero clinical trial or literature support and is explicitly assessed as a likely graph-noise artifact with no plausible mechanistic link to sincalide. All ten ranked candidates are L4–L5, and none reach a level of evidence sufficient to justify advancing to safety screening (S1). In addition, a **Blocking** data gap (DG001: TFDA warnings/contraindications unavailable) independently prevents any safety evaluation regardless of indication strength.
+The prediction has no clinical trials and no supporting literature, and no plausible mechanism links a CCK-8 analog to a bovine viral disease. It should not be pursued as a human repurposing candidate.
 
 **To proceed, the following is needed:**
-- TFDA label data (warnings, contraindications) — required to clear Blocking gap DG001 before any S1 safety review
-- Confirmed mechanism of action via DrugBank — required to clear High-severity gap DG002
-- Documentation of sincalide's actual original/approved indication(s), currently absent from the evidence pack
-- If repurposing is still of interest, re-run evidence collection focused on ranks 3 and 5 (CMV infection, hyperthyroidism) only after confirming a plausible human mechanistic pathway — current literature for both is indirect, animal-only, and insufficient on its own
+- Confirm whether the target disease mapping is valid for humans, since malignant catarrh is a veterinary condition.
+- Retrieve the FDA package insert (warnings and contraindications), which currently blocks safety screening.
+- Obtain mechanism of action data from DrugBank.
+- Consider re-screening the other top predictions (for example hyperthyroidism, the only one with any indirect literature) only if new human data emerge.
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,72 +29,76 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Latanoprost: From Glaucoma to Primary Hereditary Glaucoma
+# Latanoprost: From Open-Angle Glaucoma and Ocular Hypertension to Primary Hereditary Glaucoma
 
 ## One-Sentence Summary
 
-> Latanoprost is a prostaglandin F2α analog used as a standard therapy to lower intraocular pressure in glaucoma and ocular hypertension.
-> The TxGNN model predicts it may also be effective for **Primary Hereditary Glaucoma**,
-> with **1 clinical trial** currently supporting this direction and no published literature yet identified.
-
----
+Latanoprost is a prostaglandin F2-alpha analogue eye drop, used to lower intraocular pressure in adult glaucoma.
+The TxGNN model predicts it may be effective for **primary hereditary glaucoma**,
+with **1 completed Phase 2 clinical trial** and **no publications** currently supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Glaucoma / ocular hypertension (standard latanoprost use; not confirmed in Taiwan license data — this product is not currently marketed in Taiwan) |
-| Predicted New Indication | Primary Hereditary Glaucoma |
+| Original Indication | Adult open-angle glaucoma and ocular hypertension (inferred from the mechanistic rationale; the license records list no indication text, so confirm against the label) |
+| Predicted New Indication | Primary hereditary glaucoma |
 | TxGNN Prediction Score | 99.88% |
 | Evidence Level | L2 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 17 (the sampled licenses are generic ANDAs) |
 | Recommended Decision | Proceed with Guardrails |
-
----
 
 ## Why is This Prediction Reasonable?
 
-The formal `original_moa` field for this drug is currently a data gap. Based on the mechanistic information available in this evidence pack, latanoprost is an isopropyl ester prodrug of a PGF2α analog. After corneal esterase hydrolysis, the active acid form binds the FP receptor and increases uveoscleral (trabecular) outflow of aqueous humor, thereby lowering intraocular pressure — the established mechanism underlying prostaglandin analogs in glaucoma therapy.
+Detailed mechanism of action data is not available in the record. Latanoprost is an FP-receptor agonist. It lowers intraocular pressure by increasing uveoscleral outflow of aqueous humour.
 
-Primary hereditary glaucoma (e.g., CYP1B1-associated congenital/juvenile-onset glaucoma) shares the same end-point pathology — elevated intraocular pressure — as the drug's original indication, but arises from developmental abnormalities of the trabecular meshwork rather than the adult open-angle mechanism. Because the aqueous outflow pathway differs structurally in the hereditary form, extrapolating efficacy from adult open-angle glaucoma is mechanistically plausible but not automatic, and requires direct clinical confirmation rather than being treated as an already-approved use.
-
-This is consistent with the identified trial evidence: a completed Phase 2 study specifically tested a prostaglandin analogue (drug class covering latanoprost) plus a carbonic anhydrase inhibitor in pediatric primary glaucoma refractory to surgery, but confirmation that latanoprost itself (rather than another class member) was the specific agent studied is still needed.
-
----
+Glaucoma of any subtype involves optic neuropathy driven by intraocular pressure, so lowering pressure is the shared treatment goal. Primary hereditary glaucoma is therefore an extension to a genetic or congenital subtype, not a new mechanism. The pediatric trial below tests this in children whose glaucoma did not respond to surgery.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT01527682](https://clinicaltrials.gov/study/NCT01527682) | Phase 2 | Completed | 37 | Assessed the ocular hypotensive effect and safety of a prostaglandin analogue (latanoprost) combined with dorzolamide in pediatric primary glaucoma refractory to surgery. |
+| [NCT01527682](https://clinicaltrials.gov/study/NCT01527682) | Phase 2 | Completed | 37 | Latanoprost and dorzolamide in primary pediatric glaucoma refractory to surgery. The study measured the ocular hypotensive effect and safety (2009-07 to 2016-11). No efficacy results were provided. |
 
----
+The trial is a small combination-regimen study, so the latanoprost-specific effect cannot be separated out. The population (for example, primary congenital or hereditary glaucoma) is also not fully confirmed.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
----
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|------|
+| ANDA091449 | Latanoprost | Solution | Sandoz Inc |
+| ANDA218257 | Latanoprost | Solution/Drops | Sagent Pharmaceuticals |
+| ANDA091449 | Latanoprost | Solution | A-S Medication Solutions |
+| ANDA202442 | Latanoprost | Solution | Rising Pharma Holdings, Inc. |
+| ANDA218257 | Latanoprost | Solution/Drops | Glenmark Pharmaceuticals Inc |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-A completed Phase 2 RCT (n=37) supports the hypotensive efficacy and preliminary safety of a prostaglandin analogue in pediatric primary glaucoma, giving L2-level evidence for this prediction. However, the drug is not currently marketed in Taiwan and formal safety/label data are missing, so full approval cannot be recommended yet.
+One completed Phase 2 trial (n=37) in pediatric glaucoma, together with a clear pressure-lowering mechanism, supports this prediction. The evidence is small and gives no efficacy results, and safety data are missing, so it should advance only with safeguards.
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings, contraindications) — currently a blocking data gap (DG001)
-- Confirmed mechanism of action from DrugBank API — currently a high-priority data gap (DG002)
-- Confirmation that NCT01527682 used latanoprost specifically, not another prostaglandin analogue
-- Assessment of the Taiwan market entry/registration pathway, since the product currently holds 0 local licenses
+- Trial results or publications for NCT01527682, plus a check of the population and the latanoprost-only effect
+- The US package insert (warnings, contraindications, pediatric use) and the on-label indication
+- Detailed mechanism of action data from DrugBank
+- A pediatric safety monitoring plan
+
+**Other predictions:**
+- Hypotrichosis simplex of the scalp is a plausible research question, based on the known hair-growth effect of FP agonists. It has no trials or literature.
+- The other eight predictions (visceral calciphylaxis, arterial, venous and neurogenic thoracic outlet syndromes, congenital hypotrichosis milia, gastric angiodysplasia, blue toe syndrome, lymphangiectasis) have no clear mechanistic link and no evidence. They should be held.
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

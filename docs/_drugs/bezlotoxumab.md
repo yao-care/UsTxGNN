@@ -29,80 +29,64 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-以下是根據 Evidence Pack 產生的評估報告：
-
----
-
-# Bezlotoxumab: From C. difficile Infection Recurrence Prevention to Acute Female Pelvic Peritonitis
+# Bezlotoxumab: From Clostridioides difficile Infection Recurrence to Acute Female Pelvic Peritonitis
 
 ## One-Sentence Summary
 
-Bezlotoxumab (brand name: Zinplava) is a fully human monoclonal antibody that neutralizes *Clostridium difficile* toxin B, clinically used to prevent CDI recurrence in high-risk adults receiving antibacterial therapy.
-The TxGNN model predicts it may be effective for **Acute Female Pelvic Peritonitis**, but with **0 clinical trials** and **0 publications** supporting this direction, and an extremely weak mechanistic rationale, this prediction is most likely a knowledge graph false positive rather than a genuine repurposing opportunity.
-
----
+Bezlotoxumab (brand name ZINPLAVA) is a monoclonal antibody that neutralizes *C. difficile* toxin B. It is used to reduce recurrence of *C. difficile* infection; this indication does not appear in the input's license text and is stated from general drug knowledge.
+The TxGNN model predicts it may be effective for **acute female pelvic peritonitis**, but **0 clinical trials** and **0 publications** currently support this direction.
+The prediction is a graph-based score only and has no mechanistic or clinical backing.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Prevention of *Clostridium difficile* Infection (CDI) recurrence (FDA-approved as Zinplava 2016; not captured in automated query — see note below) |
-| Predicted New Indication | Acute Female Pelvic Peritonitis |
+|------|------|
+| Original Indication | Reducing recurrence of *C. difficile* infection (not listed in the input license text) |
+| Predicted New Indication | Acute female pelvic peritonitis |
 | TxGNN Prediction Score | 99.89% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed (per automated query; likely a data pipeline gap — Zinplava holds BLA 761027) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 (BLA761046) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Bezlotoxumab is a fully human IgG1 monoclonal antibody with a single, narrowly defined mechanism: it binds directly to *C. difficile* toxin B and blocks its attachment to host intestinal epithelial cells. It has no broad anti-inflammatory, immunomodulatory, or anti-infective properties beyond this specific toxin neutralization. The drug does not kill bacteria, does not modulate the immune system globally, and has no known activity outside the gastrointestinal tract in the context of CDI.
+Currently, detailed mechanism of action data is not available in the input record. Bezlotoxumab is known to be a monoclonal antibody that binds and neutralizes *C. difficile* toxin B.
 
-The only imaginable indirect pathway connecting bezlotoxumab to pelvic peritonitis runs through a rare complication chain: severe CDI → toxic megacolon → intestinal perforation → secondary peritonitis potentially extending to the pelvic cavity. However, bezlotoxumab acts *upstream* to prevent CDI recurrence — it is not a treatment for peritonitis, toxic megacolon, or any established complication of CDI. Even in this highly indirect scenario, the drug would have no therapeutic role once peritonitis has developed.
+That mechanism does not extend to the predicted indication. Acute pelvic peritonitis is usually a polymicrobial ascending infection (for example *Chlamydia*, *Neisseria* and anaerobes), and toxin B is not a recognized driver. The high score (99.89%, rank 3466) reflects graph proximity in the knowledge graph, not a biological link.
 
-More critically, acute female pelvic peritonitis is predominantly caused by ascending sexually transmitted pathogens (*Neisseria gonorrhoeae*, *Chlamydia trachomatis*, polymicrobial anaerobes) — none of which involve *C. difficile* toxin B in any way. The mechanism is simply not applicable. The elevated TxGNN score (99.89%) almost certainly reflects a knowledge graph artifact: pelvic/abdominal infection-related disease nodes cluster together in the KG, creating spurious high-score associations across biologically unrelated conditions.
-
----
+The other nine top predictions do not help either. They include embryonic cyst of fallopian tube, tubal pregnancy, salpingitis isthmica nodosa, disease of uterine broad ligament, lumbar spinal stenosis, abdominal ectopic pregnancy, celiac trunk compression syndrome, abdominal cystic lymphangioma and pelvic varices. They are structural, obstetric or degenerative conditions with no toxin B pathway and form no coherent mechanistic theme, which suggests knowledge-graph artifacts.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-No market authorizations were captured by the automated query. This is flagged as a **data pipeline gap**: bezlotoxumab is approved by the US FDA under **BLA 761027** (Zinplava, approved October 21, 2016) for reducing CDI recurrence in adults receiving antibacterial therapy for CDI who are at high risk of recurrence. Manual verification against the FDA BLA database is recommended to correct this gap before any downstream regulatory analysis.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| BLA761046 | ZINPLAVA (Merck Sharp & Dohme LLC) | Injection, solution | Not listed in the input record |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
----
+Please refer to the package insert for safety information. No warnings, contraindications or drug interaction records were available in the input.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-There is zero clinical or literature evidence supporting bezlotoxumab in acute female pelvic peritonitis, and the mechanistic link between an anti-*C. difficile* toxin B antibody and a gynecological infectious disease is biologically implausible — this prediction is most parsimoniously explained as a knowledge graph false positive arising from shared pelvic/abdominal infection node clusters, not a genuine repurposing signal.
+The prediction has no clinical trials, no literature and no plausible mechanism, so it stays at L5 (model prediction only). Its high score should not be read as a therapeutic signal.
 
 **To proceed, the following is needed:**
-
-- **Fix the data pipeline gap**: Manually verify and import the FDA BLA 761027 (Zinplava) approval record; investigate why biologic/monoclonal antibody approvals are not being captured by the automated query
-- **Retrieve full MOA data**: Query DrugBank API for DB13140 to resolve the current blocking data gap on mechanism of action
-- **KG noise filtering**: Consider implementing a biological plausibility pre-filter to flag predictions where predicted indications share no known disease pathway, pathogen, or molecular target with the drug's established mechanism — this would have flagged this candidate before evidence collection was triggered
-- **Do not proceed** to clinical feasibility assessment for this indication without a plausible mechanistic hypothesis that is independent of the TxGNN score
+- Package insert warnings and contraindications, which are required before any safety screening
+- Confirmed mechanism of action data and approved indication text from DrugBank or the label
+- Any preclinical or clinical evidence linking toxin B neutralization to pelvic peritonitis; without it, the candidate should not advance
+- Consideration of other indications, since none of the top 10 predictions has a plausible mechanism
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

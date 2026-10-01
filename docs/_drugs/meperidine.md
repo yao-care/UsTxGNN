@@ -33,74 +33,75 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Meperidine (pethidine, DrugBank DB00454) is an opioid analgesic historically used for moderate-to-severe pain. The TxGNN model predicts potential efficacy for **Tourette Syndrome**, but this prediction is currently supported by **0 clinical trials** and **0 publications** — it reflects a knowledge-graph statistical association only, with no direct mechanistic or clinical evidence.
-
----
+Meperidine is a mu-opioid agonist analgesic that is currently marketed in the US as injectable and other dosage forms.
+The TxGNN model predicts it may be effective for **Tourette syndrome**, but this is a model prediction only, with **0 clinical trials** and **0 publications** retrieved.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available from licensing data; based on known pharmacology, meperidine is an opioid analgesic used for moderate-to-severe pain |
-| Predicted New Indication | Tourette Syndrome |
+| Original Indication | Not stated in the US label data provided. Meperidine is known as an opioid analgesic for pain. |
+| Predicted New Indication | Tourette syndrome |
 | TxGNN Prediction Score | 99.46% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Licenses | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 11 |
 | Recommended Decision | Hold |
-
-*A second candidate, trichotillomania (score 99.39%, rank 13973), was also flagged with identical L5 evidence and a Hold recommendation — see note below.*
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed original mechanism-of-action data (DrugBank MOA field) is not available for this record. However, based on known pharmacology, meperidine is a mu-opioid receptor agonist that also has anticholinergic, local-anesthetic (sodium-channel blocking), NMDA-antagonist, and monoamine-reuptake-inhibiting activity.
+Currently, detailed mechanism of action data is not available in the source data. Meperidine is a mu-opioid receptor agonist with some serotonergic activity. Its efficacy as an analgesic is established, and opioid and monoaminergic signaling have been discussed in tic disorders. This is only a general hypothesis and is not evidence for meperidine itself.
 
-For **Tourette syndrome**, the tic-related dysregulation of basal ganglia dopamine has led some researchers to propose an "endogenous opioid hypothesis" — but that hypothesis has primarily been tested with opioid **antagonists** (e.g., naltrexone), not agonists. Meperidine acts in the opposite pharmacological direction, so there is no mechanistic basis for expecting it to improve tic symptoms.
+The link between the original and predicted indications is weak. Pain relief and the control of motor and vocal tics are unrelated clinical goals. The 99.46% score comes from graph-based pattern matching, and no trial or publication supports this drug-disease pair.
 
-For **trichotillomania**, the prevailing pharmacological hypothesis similarly implicates opioid **antagonists** as reducing impulsive hair-pulling behavior by blocking opioid signaling in reward/impulse circuits. Meperidine, as an opioid agonist, runs counter to this hypothesis and could theoretically worsen rather than improve impulsive behavior.
+Safety concerns make a favorable benefit-risk profile unlikely for a chronic neurodevelopmental condition without direct data. These include serotonin syndrome risk, seizure risk from the neurotoxic metabolite normeperidine, and dependence liability.
 
-In both cases, the high TxGNN score (>99%) reflects knowledge-graph relationship strength, not causal or mechanistic evidence, and the mechanistic direction available in the evidence pack argues against — rather than for — plausibility.
-
----
+TxGNN also predicted **trichotillomania** (score 99.39%, L5, Hold). That link looks mechanistically contradictory. Opioid antagonists such as naltrexone have been studied in that condition, while meperidine is an agonist.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## US Market Information
 
-## Taiwan Market Information
+The source lists 11 authorizations. The table shows the 3 unique authorization numbers among the first 5 records, since NDA021171 appears several times.
 
-Meperidine currently holds no TFDA licenses and is not marketed in Taiwan (0 licenses on record).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA021171 | DEMEROL (Hospira, Inc.) | Injection, solution | Not provided in source data |
+| ANDA088744 | Meperidine Hydrochloride (Hikma Pharmaceuticals USA Inc.) | Solution | Not provided in source data |
+| ANDA080445 | Meperidine Hydrochloride (Hikma Pharmaceuticals USA Inc.) | Injection | Not provided in source data |
 
----
+An oral tablet form is also listed among the available dosage forms.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No warnings, contraindications, or interaction data were retrieved. The lack of interaction data likely reflects a data gap rather than an absence of interactions.
 
----
+The following concerns come from the mechanistic assessment, not from label data:
+- **Serotonin syndrome**: risk is higher with serotonergic co-medications.
+- **Seizure threshold**: the metabolite normeperidine is neurotoxic and can lower it.
+- **Dependence**: opioids carry dependence liability, which matters for chronic use.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Both predicted indications (Tourette syndrome and trichotillomania) have zero clinical trial and literature support (L5, model prediction only), and the available mechanistic rationale suggests meperidine's opioid-agonist activity runs counter to the opioid-antagonist hypotheses proposed for these conditions. The drug is also unmarketed in Taiwan with no TFDA safety data on file.
+The prediction rests on the model score alone (L5), with no trials or literature. The safety profile is unfavorable for a chronic condition. The trichotillomania prediction looks mechanistically contradictory.
 
 **To proceed, the following is needed:**
-- Confirmed DrugBank/TFDA mechanism-of-action and labeling data (currently blocking per data gap DG001/DG002)
-- Preclinical or case-level evidence testing meperidine specifically (not opioid antagonists) in tic or impulse-control disorders
-- TFDA warnings/contraindications data before any safety evaluation (S1) can begin
-- Reassessment if independent mechanistic or trial evidence emerges, given the current agonist-vs-antagonist directional conflict
+- FDA package insert warnings and contraindications, which block safety screening
+- Mechanism of action data from DrugBank
+- Any preclinical or clinical evidence linking meperidine to tic disorders
+- Comparison against existing Tourette syndrome treatments for benefit-risk
+- A full drug interaction check, especially for serotonergic drugs
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

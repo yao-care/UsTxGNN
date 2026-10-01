@@ -33,75 +33,83 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Bicalutamide is a non-steroidal androgen receptor (AR) antagonist, widely used for prostate cancer treatment by competitively blocking testosterone and DHT binding to AR. The TxGNN model predicts it may be effective for **Hypertrichosis**, with **0 clinical trials** and **1 publication** currently supporting this specific direction. Separately, among all 10 predicted indications, the highest-evidence signal is **female breast carcinoma (AR+ Triple-Negative Breast Cancer)** at Evidence Level L2, which warrants a dedicated evaluation.
+Bicalutamide is a nonsteroidal androgen receptor antagonist, known as an antiandrogen for prostate cancer. The US license records provided do not state an approved indication.
+The TxGNN model predicts it may be effective for **hypertrichosis**, but there are **0 clinical trials** and only **1 publication**, a comment letter, supporting this direction.
+This is a hypothesis-level prediction with very thin evidence.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Prostate cancer (androgen receptor–positive) |
-| Predicted New Indication | Hypertrichosis |
+|------|------|
+| Original Indication | Not stated in the license data. Prostate cancer is inferred from general knowledge of the drug. |
+| Predicted New Indication | Hypertrichosis (disease) |
 | TxGNN Prediction Score | 99.69% |
 | Evidence Level | L4 |
-| US Market Status | Not marketed (no FDA approvals recorded in dataset — see note) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 10 (NDA and ANDA authorizations combined) |
 | Recommended Decision | Hold |
-
-> **Data note:** This dataset records bicalutamide as unlisted in the US market, which is inconsistent with the known existence of Casodex® (bicalutamide 50 mg, NDA 020498). Please cross-verify with the current FDA Orange Book before drawing regulatory conclusions.
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Bicalutamide is a competitive AR antagonist that blocks testosterone and dihydrotestosterone (DHT) from binding to the androgen receptor. Since androgens—particularly DHT—stimulate hair follicle growth and can drive unwanted hypertrichosis in androgen-sensitive tissues, AR blockade provides a mechanistically coherent rationale for reducing androgen-driven hair excess.
+Bicalutamide blocks the androgen receptor, which reduces androgen-driven signaling. Androgens promote terminal (coarse) hair growth. Blocking the receptor could therefore plausibly reduce unwanted hair growth. Detailed mechanism-of-action data is not available in the source record, so this reasoning rests on the drug's known class.
 
-The most concrete supporting evidence comes from drug-induced hypertrichosis: minoxidil, commonly used for androgenetic alopecia, can trigger unwanted facial and body hair as a side effect. The lone publication in this Evidence Pack (Trüeb et al., *JAAD*, 2022) is a letter commenting on a retrospective review of 35 female pattern hair loss patients in whom bicalutamide was used to manage minoxidil-induced hypertrichosis. This represents a **side-effect management application** rather than a primary therapeutic indication for hypertrichosis per se.
+The one supporting item is a comment letter on a retrospective review of 35 patients. That review reported bicalutamide improving **minoxidil-induced hypertrichosis in female pattern hair loss**. This is indirect, low-tier evidence. It does not address congenital or generalized hypertrichosis, and the letter's abstract is not available.
 
-Currently, detailed mechanism of action data from DrugBank is not available in this Evidence Pack. Based on established pharmacology, bicalutamide's AR antagonism is biologically relevant only to **androgen-driven subtypes** of hypertrichosis (e.g., androgen excess in PCOS-related hirsutism, or drug-induced cases). The mechanistic link to hereditary or non-androgen-mediated hypertrichosis subtypes—such as Ambras syndrome (rank 3, chromosomal 8q22.1 rearrangement) or isolated genetic hair shaft abnormalities (rank 5)—is weak to absent.
+TxGNN also predicted several other conditions, including Ambras syndrome, hair shaft abnormalities, leprosy, and Dandy-Walker syndrome. Most have no androgen-based rationale, and the high scores likely reflect graph proximity rather than pharmacology.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for bicalutamide in hypertrichosis.
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [35304167](https://pubmed.ncbi.nlm.nih.gov/35304167/) | 2022 | Letter/Comment | Journal of the American Academy of Dermatology | Commentary on a retrospective study of 35 female pattern hair loss patients; authors discuss whether bicalutamide's AR-antagonism explains its benefit in reducing minoxidil-induced hypertrichosis |
+|------|-----|------|------|---------|
+| [35304167](https://pubmed.ncbi.nlm.nih.gov/35304167/) | 2022 | Comment/Letter | J Am Acad Dermatol | Comment on a retrospective review of 35 patients on bicalutamide for minoxidil-induced hypertrichosis in female pattern hair loss. No abstract is available, so no outcome data can be extracted. |
 
 ---
 
 ## US Market Information
 
-No FDA-licensed products for bicalutamide are recorded in this dataset. As noted above, this likely reflects a data collection gap rather than true US market absence. Once verified, the known product profile is:
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA020498 | Bicalutamide | Tablet | ANI Pharmaceuticals, Inc. |
+| NDA020498 | Bicalutamide | Tablet | Golden State Medical Supply, Inc. |
+| ANDA078917 | Bicalutamide | Tablet | Proficient Rx LP |
+| ANDA078917 | Bicalutamide | Tablet | Accord Healthcare Inc. |
+| ANDA079110 | Bicalutamide | Tablet, film coated | Sun Pharmaceutical Industries, Inc. |
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------------------|-------------|-------------|-------------------|
-| NDA 020498 *(verify)* | Casodex® | Tablet, 50 mg | Prostate cancer (stage D2 metastatic, in combination with LHRH analog) |
+All listed products are oral. The source record contains no approved indication text for any of them.
 
 ---
 
 ## Cytotoxicity
 
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted therapy (Non-steroidal antiandrogen / AR antagonist — not a conventional cytotoxic agent) |
-| Myelosuppression Risk | Low (not myelosuppressive; mild anemia may occur with long-term use) |
-| Emetogenicity Classification | Low |
-| Monitoring Items | Liver function tests (ALT/AST at baseline and periodically), CBC, blood glucose |
-| Handling Protection | Standard antineoplastic handling precautions apply as an antiandrogen agent |
+|------|------|
+| Cytotoxicity Classification | Hormonal therapy (nonsteroidal antiandrogen), not a conventional cytotoxic agent |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | Please refer to the package insert warnings and precautions |
+| Handling Protection | Please refer to the package insert warnings and precautions |
+
+The classification comes from general knowledge of the drug, because the DrugBank categories were not provided.
 
 ---
 
 ## Safety Considerations
 
-No TFDA or FDA label warnings, contraindications, or drug interaction data were available in this Evidence Pack. Please refer to the Casodex® US prescribing information for full safety details, particularly regarding hepatotoxicity (rare but serious), glucose intolerance, and QT-interval considerations.
+Please refer to the package insert for safety information.
+
+The drug-interaction query returned no results. Package insert warnings and contraindications have not yet been retrieved, so safety screening cannot proceed.
 
 ---
 
@@ -110,20 +118,18 @@ No TFDA or FDA label warnings, contraindications, or drug interaction data were 
 **Decision: Hold**
 
 **Rationale:**
-The sole supporting literature is a clinical commentary discussing bicalutamide as an incidental management strategy for a drug side effect (minoxidil-induced hypertrichosis), not as a primary treatment for hypertrichosis. No clinical trials exist for this indication, and the mechanistic link is confined to androgen-excess subtypes. Evidence is insufficient to advance beyond hypothesis generation at this stage.
+The hypertrichosis prediction rests on one comment letter and no registered trials, so it is a research question rather than an actionable candidate. Safety data are also missing, which blocks safety screening.
 
 **To proceed, the following is needed:**
-- Define the hypertrichosis subtype of interest: androgen-driven (e.g., PCOS hirsutism, drug-induced) vs. hereditary/non-androgenic forms—only the former is mechanistically tractable
-- Retrieve the full retrospective study that Trüeb et al. commented on, to assess the 35-patient dataset directly (PMID of the original article is not provided in this pack)
-- Design a prospective pilot study or case series for androgen-excess–related hypertrichosis
-- Obtain bicalutamide MOA/DrugBank data (Data Gap DG002) to complete the mechanism rationale
-- Obtain FDA/TFDA label safety data (Data Gap DG001) before any clinical protocol can proceed
+- Retrieve and parse the FDA package insert to obtain warnings and contraindications.
+- Obtain mechanism-of-action data from DrugBank.
+- Retrieve the full text of the retrospective 35-patient study that the comment letter discusses.
+- Define the target population, since acquired, drug-induced, and congenital hypertrichosis differ mechanistically.
+- Consider prioritizing **female breast carcinoma** (rank 9) for further review. It has a Phase 2 trial, [NCT03650894](https://clinicaltrials.gov/study/NCT03650894), of nivolumab + bicalutamide + ipilimumab in metastatic HER2-negative breast cancer (n=30, active not recruiting). It also has preclinical support for androgen receptor-positive triple-negative breast cancer. However, the trial is a combination regimen with no reported results, and a Phase 2 single-arm study of bicalutamide plus an aromatase inhibitor (PMID [31434793](https://pubmed.ncbi.nlm.nih.gov/31434793/)) showed no synergistic activity in estrogen receptor-positive disease.
 
 ---
 
-> **⚠️ High-Priority Secondary Finding**
->
-> Among all 10 TxGNN-predicted indications, **female breast carcinoma** (AR-positive / Triple-Negative Breast Cancer, rank 9) carries substantially stronger clinical evidence (Evidence Level **L2**) despite its lower TxGNN rank. An active Phase II trial ([NCT03650894](https://clinicaltrials.gov/study/NCT03650894)) is evaluating bicalutamide + nivolumab + ipilimumab in metastatic HER2-negative breast cancer (enrollment 30, active not recruiting), supported by 20 publications spanning in vitro studies, retrospective series, and a complete response case report. The mechanistic basis is well-established: ~20–35% of TNBC tumors express AR (the LAR subtype), and bicalutamide suppresses AR-driven Wnt/β-catenin and PI3K/AKT proliferative signaling. This indication should be evaluated in a **separate, full-depth repurposing report** with a recommended decision of **Proceed with Guardrails**.
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

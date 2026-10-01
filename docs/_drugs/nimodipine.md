@@ -29,31 +29,31 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Nimodipine: From Cerebral Vasospasm to Homozygous Familial Hypercholesterolemia
+# Nimodipine: From Subarachnoid Hemorrhage to Homozygous Familial Hypercholesterolemia
 
 ## One-Sentence Summary
 
-Nimodipine is a dihydropyridine calcium channel blocker classically used to prevent cerebral vasospasm following subarachnoid hemorrhage. The TxGNN model predicts it may be effective for **Homozygous Familial Hypercholesterolemia (HoFH)**, but this prediction is currently **unsupported by any clinical trials or published literature** — it is a pure model-driven signal.
+Nimodipine is an L-type calcium channel blocker. The Evidence Pack lists no approved indication text, but the drug is generally known for use after subarachnoid hemorrhage. The TxGNN model predicts it may be effective for **homozygous familial hypercholesterolemia**, but **0 clinical trials** and **0 publications** support this, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in evidence pack (no TW/US license records; drug is not currently marketed in this jurisdiction) |
-| Predicted New Indication | Homozygous Familial Hypercholesterolemia |
+| Original Indication | Not stated in the source data. Generally known use: subarachnoid hemorrhage. |
+| Predicted New Indication | Homozygous familial hypercholesterolemia |
 | TxGNN Prediction Score | 99.29% |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Not marketed (Not marketed) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 5 license records (1 NDA listed twice, plus 3 ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in this evidence pack (`original_moa: [Data Gap]`). Based on general pharmacological knowledge, nimodipine is a highly brain-selective L-type calcium channel blocker, clinically used to reduce cerebral vasospasm after subarachnoid hemorrhage.
+Currently, detailed mechanism of action data is not available in the Evidence Pack. Nimodipine is a dihydropyridine L-type calcium channel blocker, and this class acts mainly on vascular smooth muscle.
 
-Homozygous Familial Hypercholesterolemia is caused by dysfunction in the LDLR/APOB/PCSK9 pathway, which impairs LDL cholesterol clearance. There is no known mechanistic overlap between vascular smooth-muscle calcium channel blockade and LDL receptor-mediated cholesterol metabolism.
+The link to the new indication is weak. Homozygous familial hypercholesterolemia is caused by loss of LDL receptor function, which leaves LDL cholesterol very high. Calcium channel blockade has no established effect on this defect. A vascular or anti-atherosclerotic effect seen in preclinical models is possible, but it is speculative and would not correct the LDL problem. Effective treatments (statins, PCSK9 inhibitors, lomitapide, evinacumab, LDL apheresis) act through different pathways.
 
-The TxGNN score for this candidate is high (99.29%), but with zero supporting clinical trials, zero literature records, and no plausible mechanistic bridge identified from available data, this should be treated as a pure knowledge-graph association rather than a biologically grounded hypothesis.
+The high score (0.993) most likely reflects graph-based associations in the knowledge network rather than a demonstrated biological mechanism. The model's second prediction, nephrogenic syndrome of inappropriate antidiuresis (score 99.05%), is similarly unsupported. It is driven by AVPR2 gain-of-function mutations, and nimodipine has no established action on that receptor.
 
 ## Clinical Trial Evidence
 
@@ -62,6 +62,15 @@ Currently no related clinical trials registered.
 ## Literature Evidence
 
 Currently no related literature available.
+
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA203340 | Nymalize (Azurity Pharmaceuticals) | Solution | Not listed in source data (two records) |
+| ANDA216937 | Nimodipine (Camber Pharmaceuticals) | Solution | Not listed in source data |
+| ANDA076740 | Nimodipine (Bionpharma) | Capsule, liquid filled | Not listed in source data |
+| ANDA077811 | Nimodipine (Heritage / Avet Pharmaceuticals) | Capsule, liquid filled | Not listed in source data |
 
 ## Safety Considerations
 
@@ -72,15 +81,16 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests solely on a TxGNN model score (L5) with no clinical trials, no literature, and no identifiable mechanistic link between nimodipine's calcium-channel activity and HoFH's lipid-metabolism pathology. The drug is also not currently marketed in this jurisdiction, so there is no existing regulatory or safety baseline to build on.
+The only support is a model score. There are no trials or publications, and there is no plausible mechanistic link between L-type calcium channel blockade and the LDL receptor defect. Established therapies already target the disease pathway directly.
 
 **To proceed, the following is needed:**
-- TFDA/US package insert data (key warnings, contraindications) — currently blocking (DG001)
-- Confirmed mechanism of action from DrugBank or primary literature (DG002)
-- Preclinical or mechanistic studies linking calcium channel blockade to LDL receptor pathway or lipid metabolism
-- At minimum, case reports or observational data before considering any further evaluation stage
+- The approved indications and mechanism of action from the package insert and DrugBank
+- The FDA package insert warnings and contraindications, needed for safety screening
+- Preclinical or mechanistic evidence linking nimodipine to lipid metabolism or LDL receptor pathways
+- Literature and trial searches on nimodipine in familial hypercholesterolemia
+- Route compatibility and comparison against current standard therapies
 
-*Note: A second TxGNN candidate, nephrogenic syndrome of inappropriate antidiuresis (score 99.05%), is also flagged in this evidence pack with the same L5/Hold status and no supporting evidence — not detailed here per report scope, but subject to the same data gaps.*
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

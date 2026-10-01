@@ -29,63 +29,93 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Diethylpropion: From Obesity to Hypervitaminosis
+# Diethylpropion: From Obesity Management to Hypervitaminosis
 
 ## One-Sentence Summary
 
-Diethylpropion is a sympathomimetic anorectic agent, originally used for short-term management of obesity through appetite suppression via central nervous system stimulation.
-The TxGNN model predicts it may be relevant to **Hypervitaminosis** (rank 1 of 4 predicted indications), however mechanistic analysis identifies this as a likely **false-positive signal**,
-with **0 clinical trials** and **0 publications** supporting any of the predicted directions.
+Diethylpropion is a sympathomimetic appetite suppressant, marketed in the US as an anti-obesity drug.
+The TxGNN model predicts it may be effective for **hypervitaminosis**, but **0 clinical trials** and **0 publications** currently support this prediction.
+It is a model-only signal (Evidence Level L5), and no plausible mechanistic link has been found.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Obesity / Short-term weight management (pharmacological class; no Taiwan FDA license available) |
+|------|------|
+| Original Indication | Appetite suppression / obesity management (the license records list no indication text) |
 | Predicted New Indication | Hypervitaminosis |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the Evidence Pack. Based on known pharmacological information, Diethylpropion belongs to the sympathomimetic amine class — structurally related to amphetamine — and acts on the central nervous system by promoting catecholamine (norepinephrine and dopamine) release, suppressing appetite through hypothalamic regulation. It is a Schedule IV controlled substance in the United States, approved for short-term adjunctive treatment of obesity.
+Currently, detailed mechanism of action data is not available in the Evidence Pack. Diethylpropion is a sympathomimetic amine appetite suppressant that acts through catecholamine (noradrenaline and dopamine) release. Its use is established for weight management, but that does not extend to hypervitaminosis.
 
-The top-ranked prediction, Hypervitaminosis (vitamin toxicity syndrome), has no mechanistic intersection with appetite suppression. The standard management of hypervitaminosis is cessation of supplement intake — not pharmacological appetite modulation. The suggestion that "appetite suppression reduces intake of high-vitamin foods" is a logical inversion with no clinical applicability. This signal is assessed as a TxGNN knowledge graph false positive arising from distal node associations.
+Hypervitaminosis is a toxicity state. It is managed by stopping the vitamin and giving supportive care, and an appetite suppressant has no known role in that. The 99.99% score is a model output only. It is not backed by any trial, publication, or mechanistic evidence, so it should not be read as a therapeutic signal.
 
-The remaining three predicted indications share the same pattern: **proximal 16p11.2 microdeletion syndrome** (a neurodevelopmental genetic disorder where the obesity phenotype has a gene-dosage origin rather than simple appetite dysregulation), **obsolete hypertelorism** (a structural craniofacial anomaly corrected surgically, with an "obsolete" ontology classification that further reduces its research value), and **frontorhiny** (an extremely rare congenital midline facial malformation caused by ALX1/ALX3 gene mutations, with no pharmacological treatment pathway). None of these predictions reach beyond biological speculation, and none have any supporting clinical or preclinical data.
+The other top predictions show the same pattern:
+- **Proximal 16p11.2 microdeletion syndrome:** the only tenuous link is that the syndrome is associated with early-onset obesity. Diethylpropion might help with symptom-level weight control, but it would not treat the genetic syndrome. The syndrome also has neurodevelopmental and psychiatric features, so a stimulant raises safety concerns.
+- **Obsolete hypertelorism (disease):** hypertelorism is a structural craniofacial anomaly that a drug cannot correct. The ontology term is marked obsolete, which suggests a knowledge-graph artifact.
+- **Frontorhiny:** this is a congenital developmental malformation with no known pathway to diethylpropion's pharmacology. The high score most likely reflects graph proximity through shared genetic-syndrome nodes.
+
+None of the four predictions has clinical trial or literature support.
+
+---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for any of the four predicted indications.
+Currently no related clinical trials registered.
+
+---
 
 ## Literature Evidence
 
-Currently no related literature available for any of the four predicted indications.
+Currently no related literature available.
 
-## Taiwan Market Information
+---
 
-Diethylpropion holds no active product licenses with the Taiwan FDA and is currently not marketed in Taiwan. No authorization records are available.
+## US Market Information
+
+The table lists 5 of the 20 authorizations. All are ANDAs, and none of the records includes approved-indication text.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA091680 | Diethylpropion Hydrochloride ER | Tablet, extended release | Chartwell RX, LLC. |
+| ANDA200177 | Diethylpropion | Tablet | Chartwell RX, LLC. |
+| ANDA091680 | Diethylpropion Hydrochloride | Tablet, extended release | Proficient Rx LP |
+| ANDA201212 | Diethylpropion Hydrochloride | Tablet | Bryant Ranch Prepack |
+| ANDA200177 | Diethylpropion Hydrochloride | Tablet | PD-Rx Pharmaceuticals, Inc. |
+
+Both available forms (immediate-release tablet and extended-release tablet) are oral.
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Taiwan FDA prescribing information and contraindication data were not retrieved in this evidence collection cycle.
+Please refer to the package insert for safety information.
+
+No drug-interaction records were found. As a sympathomimetic stimulant, diethylpropion would need particular caution in any population with neurodevelopmental or psychiatric features, such as the 16p11.2 microdeletion syndrome.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All four TxGNN-predicted indications are assessed as L5 false positives — supported by model output alone with zero clinical trials, zero published literature, and no credible mechanistic link to Diethylpropion's known pharmacological action as a sympathomimetic appetite suppressant. The top prediction (Hypervitaminosis) has an explicitly inverse therapeutic logic, and two of the four predicted diseases are structural congenital anomalies that are irreversible by any pharmacological intervention.
+The prediction rests only on a model score, with no trials, no publications, and no plausible mechanistic link to hypervitaminosis. Mechanism of action and safety data are also missing. The evidence is not sufficient to move forward.
 
 **To proceed, the following is needed:**
-
-- Retrieve Taiwan FDA prescribing information (仿單) to complete safety profile and contraindication assessment (currently Blocking data gap DG001)
-- Obtain confirmed mechanism of action data from DrugBank API to support any future mechanistic analysis (data gap DG002)
-- Re-examine TxGNN prediction quality for this drug: if all top-ranked indications are false positives, consider whether graph embedding distance thresholds or disease ontology filtering (e.g., excluding "obsolete" terms) should be applied upstream
-- If further investigation is warranted, explore whether Diethylpropion's established obesity indication could support repurposing queries toward obesity-associated comorbidities (e.g., metabolic syndrome, type 2 diabetes, obstructive sleep apnea) rather than the current structurally implausible predictions
+- Package insert warnings and contraindications (a blocking gap, so safety screening cannot start without them)
+- Detailed mechanism of action data (for example, from DrugBank)
+- A credible pharmacological rationale linking catecholamine release to hypervitaminosis, plus any supporting preclinical or clinical evidence
+- Confirmation of the approved indication text for the US labels, which is empty in the current records
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

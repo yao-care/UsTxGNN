@@ -29,123 +29,80 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tecovirimat: From Smallpox to Human Orthopoxvirus Infection (Mpox)
+# Tecovirimat: From Smallpox to Hordeolum
 
 ## One-Sentence Summary
 
-Tecovirimat (TPOXX®) is an antiviral developed under the US biodefense program and FDA/EMA-approved for treatment of smallpox, acting by inhibiting the highly conserved orthopoxvirus VP37 (F13) envelope protein to block systemic viral spread.
-The TxGNN model predicts it may be effective for **human infection by orthopoxvirus** (including mpox/monkeypox), with **20 publications** currently supporting this direction — including a landmark **Phase 3 RCT (PALM007, NEJM 2025)**.
-However, the model's top-5 predicted indications (hordeolum, Vibrio infection, Klebsiella infection, noma, lumpy skin disease) are mechanistically incompatible false positives; this report focuses on the clinically meaningful indication at rank 6 (Evidence Level L1).
-
----
+Tecovirimat (TPOXX) is an antiviral that targets orthopoxviruses, and the literature in the pack describes its US approval for smallpox.
+The TxGNN model predicts it may be effective for **hordeolum** (a stye, a bacterial eyelid infection) with a high score of 99.66%.
+There are **0 clinical trials** and **0 publications** supporting this prediction, and there is no plausible mechanistic link, so it should be treated as a model artifact.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Smallpox (variola virus infection) — FDA-approved July 2018, EMA-approved January 2022 (Animal Rule) |
-| Predicted New Indication | Human infection by orthopoxvirus (mpox/monkeypox) |
-| TxGNN Prediction Score | 99.62% |
-| Evidence Level | L1 (Phase 3 RCT: PALM007, DRC, 2025) |
-| US Market Status | Not found in database query (note: FDA NDA 208627 confirmed via literature) |
-| Number of NDAs | 0 (database query result — see US Market Information section) |
-| Recommended Decision | Proceed with Guardrails |
-
----
+|------|------|
+| Original Indication | Smallpox (from the literature, PMID 30120738; the license records contain no indication text) |
+| Predicted New Indication | Hordeolum |
+| TxGNN Prediction Score | 99.66% |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on published literature, tecovirimat (ST-246) selectively inhibits the orthopoxvirus VP37 protein (also called F13), a phospholipase-like envelope wrapping protein essential for the formation of extracellular enveloped virions (EEV). By blocking EEV biogenesis, tecovirimat prevents systemic viral dissemination within the host — a mechanism distinct from nucleoside analogues such as cidofovir or brincidofovir. Critically, the VP37 target sequence is >95% conserved across all Orthopoxvirus species (variola, monkeypox, vaccinia, cowpox, camelpox), providing a strong mechanistic basis for cross-species activity.
+Currently, detailed mechanism of action data is not available in the Evidence Pack. Published literature (PMID 30120738) describes tecovirimat as inhibiting the orthopoxvirus VP37 (F13) envelope wrapping protein. This prevents the formation of egress-competent enveloped virions and limits viral spread within the host.
 
-Smallpox and mpox (monkeypox) are both caused by members of the Orthopoxvirus genus sharing near-identical replication machinery. The FDA's 2018 Animal Rule approval for smallpox was itself supported by efficacy data from vaccinia and monkeypox animal models — meaning mpox has always been an implicit part of the scientific rationale. This makes "human infection by orthopoxvirus" a mechanistically sound and well-precedented predicted indication rather than a novel extrapolation.
-
-**Important clinical caveat**: Two recent Phase 3 RCTs — the STOMP trial (Clade IIb MPXV, 2024) and the PALM007 trial (Clade I MPXV in the DRC, PMID 40239067, 2025) — both failed to demonstrate superiority of tecovirimat over placebo for the primary endpoint of lesion healing time. Emerging resistance mutations in the F13 gene (PMID 39939832) further complicate the clinical picture. These findings do not negate mechanistic validity but indicate that unselected patient populations may not benefit; careful definition of target subgroups (immunocompromised, severe/disseminated disease) is essential.
-
----
-
-## TxGNN Prediction Credibility Assessment
-
-The top-5 TxGNN predictions and two others are **false positives** and should not be pursued. They share a hallmark of graph-based scoring saturation: clustered scores in a narrow 0.9961–0.9966 band with no supporting clinical or mechanistic evidence.
-
-| Rank | Indication | Evidence Level | Reason for Rejection |
-|------|-----------|---------------|---------------------|
-| 1 | Hordeolum (stye) | L5 / Hold | Staphylococcal bacterial eye infection; tecovirimat has zero antibacterial activity |
-| 2 | Vibrio infectious disease | L5 / Hold | Gram-negative bacterial infection; mechanism is completely unrelated |
-| 3 | Klebsiella infectious disease | L5 / Hold | Gram-negative bacterial sepsis; scoring saturation artifact |
-| 4 | Noma | L5 / Hold | Polymicrobial bacterial oral necrotizing infection; no mechanism |
-| 5 | Lumpy skin disease | L5 / Hold | Capripoxvirus disease in cattle — non-human indication, outside drug repurposing scope |
-| 7 | Idiopathic severe pneumococcemia | L5 / Hold | Pneumococcal bacteremia; completely unrelated mechanism |
-| 10 | Phlebotomus fever | L5 / Hold | Caused by an RNA phlebovirus; tecovirimat exclusively targets DNA poxviruses |
-
-The three remaining predictions with some clinical basis are: **human infection by orthopoxvirus** (rank 6, L1, Proceed with Guardrails), **vaccinia** (rank 8, L2, Proceed with Guardrails), and **coinfection** (rank 9, L3 — specifically mpox/HIV coinfection, Research Question).
-
----
+Hordeolum is a localized, usually staphylococcal bacterial infection of the eyelid. Tecovirimat is a narrow-spectrum antiviral with no known antibacterial activity, and its target is specific to orthopoxviruses. The high TxGNN score reflects graph-based association only and does not reflect a biological rationale, so the prediction is not considered reasonable.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT04957485](https://clinicaltrials.gov/study/NCT04957485) | Phase 2 | Active, Not Recruiting | 100 | Double-blind RCT evaluating TPOXX® + JYNNEOS® smallpox vaccine vs. placebo + JYNNEOS®; assesses whether concurrent tecovirimat administration impairs vaccine immunogenicity — directly relevant to orthopoxvirus post-exposure prophylaxis scenarios |
-| [NCT05380752](https://clinicaltrials.gov/study/NCT05380752) | N/A | No Longer Available | N/A | Expanded Access Protocol for IV TPOXX (10 mg/mL) in patients with confirmed or suspected orthopoxvirus infection unable to take oral formulation, or with significant vaccinia adverse reactions; terminated following resolution of the mpox public health emergency |
-| [NCT05976100](https://clinicaltrials.gov/study/NCT05976100) | Phase 1 | Completed | 90 | Safety, tolerability, and pharmacokinetics of NIOCH-14 (a Russian-developed anti-poxvirus compound distinct from tecovirimat); indirect comparator only, not directly applicable |
-
-> **Note**: The PALM007 Phase 3 RCT (Clade I MPXV, DRC, 2025) and STOMP Phase 3 trial (Clade IIb MPXV) were not captured in the ClinicalTrials.gov query but are documented in the literature evidence below as the highest-quality clinical data currently available.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [40239067](https://pubmed.ncbi.nlm.nih.gov/40239067/) | 2025 | Phase 3 RCT | N Engl J Med | PALM007 trial: tecovirimat vs. placebo in Clade I MPXV (Democratic Republic of Congo); primary endpoint (lesion healing time) not met; limited effect on mortality — major evidence update challenging mpox efficacy |
-| [32882158](https://pubmed.ncbi.nlm.nih.gov/32882158/) | 2021 | Comprehensive Review | Expert Rev Anti-Infective Ther | Definitive overview of tecovirimat: mechanism (VP37 inhibition), FDA Animal Rule approval pathway, stockpiling strategy, and rationale for expanded anti-orthopoxvirus applications including mpox |
-| [30120738](https://pubmed.ncbi.nlm.nih.gov/30120738/) | 2018 | Drug Approval Summary | Drugs | First global approval of tecovirimat for smallpox; clinical pharmacology, safety from healthy volunteer trials, and regulatory pathway |
-| [40378361](https://pubmed.ncbi.nlm.nih.gov/40378361/) | 2025 | Mechanistic Review | PLoS Pathogens | From discovery to mechanistic insights: F13/VP37 protein structure, poxvirus inhibition mechanism, and implications of emerging resistance |
-| [39939832](https://pubmed.ncbi.nlm.nih.gov/39939832/) | 2025 | Structural Study | Nature Microbiology | Crystal structure of F13 homodimer bound to tecovirimat; identifies resistance mutation sites and structural basis for drug action — informs next-generation design |
-| [39707867](https://pubmed.ncbi.nlm.nih.gov/39707867/) | 2024 | Systematic Review | J Med Virology | Systematic review of tecovirimat effectiveness in mpox (2022 outbreak); evaluates real-world evidence across high-risk populations including people living with HIV |
-| [39401235](https://pubmed.ncbi.nlm.nih.gov/39401235/) | 2024 | Narrative Review | JAMA | Comprehensive review of mpox clinical presentation, diagnostics, and treatment; covers STOMP trial context, and discusses second WHO PHEIC declaration (August 2024) |
-| [36374026](https://pubmed.ncbi.nlm.nih.gov/36374026/) | 2022 | Review | Antimicrob Agents Chemother | Tecovirimat for human monkeypox virus: mechanism, animal model efficacy, human safety profile, and rationale for off-label use during the 2022 global outbreak |
-| [37828248](https://pubmed.ncbi.nlm.nih.gov/37828248/) | 2023 | Experimental | Nature Microbiology | Human iPSC-derived skin organoid model of MPXV infection; keratinocytes support active replication; provides a platform for drug efficacy testing |
-| [40210872](https://pubmed.ncbi.nlm.nih.gov/40210872/) | 2025 | Experimental | Signal Transduct Target Ther | Novel brincidofovir derivatives show superior anti-orthopoxvirus potency compared to tecovirimat; contextualizes tecovirimat's limitations and positions next-generation alternatives |
-
----
+Currently no related literature available.
 
 ## US Market Information
 
-The current database query returned 0 FDA NDA records for tecovirimat. Based on published literature, the following approvals are documented:
-
-| Authorization | Product Name | Dosage Form | Approved Indication |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA 208627† | TPOXX® | Oral capsule (200 mg) | Treatment of smallpox disease caused by variola virus in adults and pediatric patients weighing ≥13 kg; FDA approved July 13, 2018 |
-| NDA 214771† | TPOXX® | IV injection (200 mg/20 mL) | Treatment of smallpox in patients unable to take oral formulation; FDA approved May 2022 |
-| EU/1/22/1623† | TECOVIRIMAT SIGA | Oral capsule / IV solution | Smallpox, mpox (monkeypox), and cowpox in adults and paediatric patients; EMA approved January 2022 |
+| NDA208627 | TPOXX | Capsule (oral) | Not stated in the license record |
+| NDA214518 | TPOXX | Injection, solution, concentrate (IV) | Not stated in the license record |
 
-†Records derived from published literature (PMID 30120738, PMID 32882158) and SIGA Technologies press releases; not reflected in current database query. **Database refresh is required** to populate FDA NDA records for this drug.
+Both products are made by SIGA Technologies, Inc.
 
----
+## Other Predicted Indications Worth Noting
+
+Several lower-ranked predictions have far more support than hordeolum. They are shown here for context only.
+
+| Predicted Indication | TxGNN Score | Pack Evidence Level | Comment |
+|---------|------|------|------|
+| Human infection by orthopoxvirus | 99.62% | L3 | Strong mechanistic fit and close to the smallpox label. About 20 publications, mostly reviews, an organoid model and case reports. PMID 40239067 (NEJM 2025, clade I mpox in the DRC) appears to be a randomized trial, but its abstract was not supplied. Its efficacy result should be verified. Other articles in the pack describe recent trial efficacy as unsatisfactory. |
+| Vaccinia | 99.62% | L2 | Strong mechanistic fit. The three registered trials are an expanded-access protocol (no longer available), a Phase 2 JYNNEOS drug-vaccine interaction study (NCT04957485, active, not recruiting) and a different agent (NIOCH-14). None is a completed efficacy trial, so L2 looks generous by the stated rules. |
+| Coinfection | 99.62% | L4 | Non-specific term. The literature is mpox coinfection case reports, not an independent signal. |
+
+The remaining predictions (vibrio, Klebsiella, noma, pneumococcemia, phlebotomus fever, lumpy skin disease) have no supporting evidence.
 
 ## Safety Considerations
 
-Please refer to the package insert (FDA NDA 208627/214771) for complete safety information.
-
-**Key drug interaction concern from literature**: Tecovirimat is a moderate CYP3A4 inducer. This is clinically significant because mpox disproportionately affects people living with HIV (PLWH), many of whom receive ritonavir-boosted protease inhibitor-based ART regimens. CYP3A4 induction by tecovirimat may reduce plasma concentrations of HIV protease inhibitors, potentially compromising HIV virologic suppression. Detailed metabolic pathway analysis for mpox/HIV co-treatment is available in PMID 37287302. The European AIDS Clinical Society (EACS) 2025 guidelines (PMID 41088922) provide a management framework for HIV/mpox co-infected patients.
-
----
+Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Tecovirimat has an established FDA/EMA approval for smallpox and a mechanistically sound rationale for activity against all orthopoxviruses including mpox; however, two Phase 3 RCTs (STOMP for Clade IIb and PALM007 for Clade I mpox) both failed to demonstrate superiority over placebo for lesion healing, indicating that the mechanistic case does not automatically translate to clinical benefit in unselected populations. A guardrails approach focused on specific high-risk subgroups (severe/disseminated disease, immunocompromised patients) is appropriate while awaiting subgroup and post-hoc analyses.
+The hordeolum prediction has no trials, no literature and no mechanistic basis. Tecovirimat is an antiviral and hordeolum is a bacterial infection. The high TxGNN score alone does not justify further investment.
 
 **To proceed, the following is needed:**
-- Obtain full FDA package insert and TFDA submission dossier for complete safety and DDI data extraction
-- Update regulatory database to reflect FDA NDA 208627/214771 approval records
-- Define target patient subpopulation (immunocompromised, severe disease, specific viral clade) based on emerging subgroup analyses from PALM007 and STOMP trials
-- Clarify CYP3A4 induction magnitude and clinical impact on ART regimens in HIV/mpox co-infected patients before any co-prescription protocol is developed
-- Await results of Phase 2 RCT (NCT04957485) evaluating TPOXX® + JYNNEOS® vaccine combination for orthopoxvirus post-exposure prophylaxis
-- Monitor resistance surveillance: F13 mutations conferring tecovirimat resistance (PMID 39939832) are an emerging concern requiring molecular epidemiology tracking in treatment cohorts
+- Re-prioritize the candidate list toward orthopoxvirus infection and vaccinia, which have real evidence, rather than following the raw TxGNN rank.
+- Retrieve and grade PMID 40239067 (abstract, trial phase, primary efficacy result) before any evidence-level upgrade.
+- Obtain the FDA package insert (warnings, contraindications, drug interactions) and the official approved indication text for NDA208627 and NDA214518.
+- Obtain formal mechanism-of-action data from DrugBank.
+- Complete the route compatibility assessment (oral capsule and IV formulations are available).
+
+*This report is for research reference only and does not constitute medical advice. Predicted indications require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

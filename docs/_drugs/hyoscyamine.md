@@ -29,63 +29,87 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Hyoscyamine: From GI Antispasmodic Use to Gastroduodenitis
+# Hyoscyamine: From Original Indication (Not Listed) to Gastroduodenitis
 
 ## One-Sentence Summary
 
-Hyoscyamine is a muscarinic (M1–M3) anticholinergic, pharmacologically used to reduce GI smooth muscle spasm and glandular secretion (e.g., IBS, intestinal colic, pre-endoscopy premedication); it is not currently marketed in Taiwan.
-The TxGNN model predicts it may be effective for **Gastroduodenitis**, but this is currently supported by **0 clinical trials** and only **1 tangential publication**, and the evidence pack's own mechanistic review flags this as a likely graph-topology artifact rather than a true therapeutic link.
+Hyoscyamine is an anticholinergic (muscarinic antagonist) marketed in the US as tablets, extended-release tablets, orally disintegrating tablets, an elixir and an injection. The supplied data do not list its approved indications.
+The TxGNN model predicts it may be useful for **Gastroduodenitis**, but there are currently **0 clinical trials** and **1 publication**, and that publication is not about hyoscyamine.
+This is a computational prediction only.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not marketed in Taiwan (no TFDA license); known pharmacological use is symptomatic control of GI smooth muscle spasm and secretion |
+| Original Indication | Not listed in the supplied data (approved indication text is empty for all listed products) |
 | Predicted New Indication | Gastroduodenitis |
 | TxGNN Prediction Score | 99.59% |
-| Evidence Level | L5 (model prediction only, no supporting trials) |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only; the only publication is an unrelated endoscopy sedation review) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Hyoscyamine is a muscarinic acetylcholine receptor (M1–M3) antagonist. Clinically it is used to reduce GI smooth muscle spasm and glandular secretion — for example in IBS, intestinal colic, and as premedication before endoscopy. Its action is purely symptomatic (antispasmodic/antisecretory) and does not include any anti-inflammatory or disease-modifying mechanism.
+Detailed mechanism of action data is not available in the DrugBank record supplied. The following is inferred from general pharmacology, not from the supplied data. Hyoscyamine is a non-selective muscarinic antagonist. Blocking muscarinic receptors reduces gastrointestinal smooth-muscle spasm and motility, and it lowers gastric acid and secretory output.
 
-Gastroduodenitis, by contrast, is an inflammatory condition of the stomach and duodenum, commonly caused by *H. pylori* infection or NSAID-induced mucosal injury, and its treatment requires eradication therapy or mucosal protection, not smooth-muscle relaxation.
+For gastroduodenitis (inflammation of the stomach and duodenum), this gives a plausible symptomatic rationale. The drug could act as an adjunct for cramping and hypersecretion. It would not treat the underlying inflammation or its causes, such as *H. pylori* infection or NSAID use.
 
-Because of this mismatch, the mechanistic rationale in the evidence pack itself concludes that hyoscyamine has no plausible disease-modifying mechanism for gastroduodenitis. The high TxGNN score (99.59%) most likely reflects topological similarity between "anticholinergic drug – GI symptom – GI disease" nodes in the knowledge graph, rather than a genuine therapeutic relationship. This is a case of a symptom modulator being confused with a disease-modifying agent.
+The high TxGNN score (0.996) reflects a model-based association. It is not clinical evidence. The supplied data also give no original indication to compare against, so the similarity between the original and new indication cannot be assessed.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [10696836](https://pubmed.ncbi.nlm.nih.gov/10696836/) | 2000 | Review | Endoscopy | Reviews international variation in IV sedation practice for endoscopy/colonoscopy (e.g., propofol use, informed consent); does not directly address hyoscyamine efficacy in gastroduodenitis |
+| [10696836](https://pubmed.ncbi.nlm.nih.gov/10696836/) | 2000 | Review | Endoscopy | Review of premedication, sedation (e.g., propofol) and surveillance practice around endoscopy and colonoscopy. It does not address hyoscyamine or gastroduodenitis treatment, so its relevance is low. |
+
+---
 
 ## US Market Information
 
-Hyoscyamine currently holds no license in Taiwan (market status: not marketed, 0 NDAs on record).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Not listed | Hyoscyamine Sulfate (ANI Pharmaceuticals) | Tablet, extended release | Not listed |
+| Not listed | Hyoscyamine Sulfate (Bryant Ranch Prepack) | Tablet | Not listed |
+| Not listed | Hyoscyamine Sulfate (Westminster Pharmaceuticals) | Tablet | Not listed |
+| Not listed | Hyoscyamine Sulfate TAB (QPharma) | Tablet | Not listed |
+| Not listed | Hyoscyamine Sulfate (Bryant Ranch Prepack) | Tablet | Not listed |
+
+There are 20 authorizations in total. The other dosage forms on the US market are orally disintegrating tablets, an elixir and an injectable solution.
+
+---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Evidence level is L5 (model prediction only) with zero clinical trials and a single, mechanistically unrelated publication. The evidence pack's own mechanistic analysis identifies a likely symptom-modulator-vs-disease-modifying mismatch, and a Blocking data gap on TFDA warnings/contraindications (DG001) prevents any safety pre-assessment.
+The prediction rests only on a model score and general anticholinergic pharmacology. There are no clinical trials, and the single retrieved publication is unrelated to the drug. Safety data are also missing, so the candidate cannot yet pass safety screening.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (DG001, Blocking — currently prevents S1 safety review)
-- Confirmed mechanism of action detail from DrugBank (DG002)
-- Disease-specific preclinical or clinical evidence for gastroduodenitis beyond the single tangential review article
-- Drug interaction (DDI) data, currently not found
+- FDA package insert warnings and contraindications (currently blocking safety screening)
+- The approved indications and mechanism of action from DrugBank or the labels
+- Targeted literature and trial searches on hyoscyamine or anticholinergics in gastritis and duodenitis
+- A route and formulation compatibility assessment for the proposed use
+- A check of the clinical rationale, since symptom relief alone may not justify a new indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,72 +29,70 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Allantoin: From Topical Wound Care to Severe Nonproliferative Diabetic Retinopathy
+# Allantoin: From Topical Skin Protection to Severe Nonproliferative Diabetic Retinopathy
 
 ## One-Sentence Summary
 
-Allantoin is a well-established OTC active ingredient widely used in topical wound-healing and skin barrier repair formulations, known for its keratolytic, cell-proliferating, and mild anti-inflammatory properties.
-The TxGNN model predicts it may be effective for **Severe Nonproliferative Diabetic Retinopathy** as its top-ranked new indication,
-with **0 clinical trials** and **0 publications** currently supporting this specific direction.
-
----
+Allantoin is a topical skin protectant and keratolytic agent, found mainly in scar-care and skin-care products.
+The TxGNN model predicts it may be effective for **severe nonproliferative diabetic retinopathy**, but there are currently **0 clinical trials** and **0 publications** for this indication, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Topical wound healing and skin barrier repair (OTC) |
-| Predicted New Indication | Severe Nonproliferative Diabetic Retinopathy |
+|------|------|
+| Original Indication | Not stated in the license data (marketed as a topical skin protectant and scar-care ingredient) |
+| Predicted New Indication | Severe nonproliferative diabetic retinopathy |
 | TxGNN Prediction Score | 99.56% |
 | Evidence Level | L5 |
-| US Market Status | Not approved (no NDA on file) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 licenses in total (the listed examples are OTC monograph or 505G numbers, not NDAs) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available from the DrugBank query at this time. Based on published pharmaceutical literature, allantoin (5-ureidohydantoin, DB11100) is a naturally occurring purine metabolism byproduct also produced synthetically. Its documented pharmacological properties include promotion of fibroblast proliferation, keratolytic activity enabling skin desquamation and renewal, stimulation of granulation tissue formation, and non-specific anti-inflammatory effects. These properties have underpinned its longstanding use in OTC wound-healing creams, post-procedure skincare, mucous membrane products, and scar management formulations.
+Currently, detailed mechanism of action data is not available. Allantoin is used in topical products for skin protection, softening and wound or scar care. It has no known ocular or retinal vascular activity.
 
-Severe nonproliferative diabetic retinopathy (SNPDR) is driven by oxidative stress, microvascular inflammation, pericyte loss, and progressive retinal ischemia. Allantoin's anti-inflammatory and antioxidant properties are theoretically relevant insofar as inflammatory pathways are shared between skin and retinal tissue. However, allantoin has no documented systemic administration history, no established ocular pharmacokinetics, and no published data on blood-retinal barrier penetration. Its entire evidence base is confined to topical/dermatological use.
+Diabetic retinopathy is a microvascular disease of the retina, which is biologically far from the skin conditions allantoin is used for. The high score (rank 10,909 in the model) most likely reflects proximity in the knowledge graph rather than a real pharmacological link. No plausible mechanism was identified.
 
-The KG prediction signal most likely originates from shared "inflammation" and "oxidative stress" network nodes — a topology-based association rather than a direct mechanistic link. Extrapolating from peripheral anti-inflammatory activity to intraocular efficacy requires, at minimum, pharmacokinetic proof-of-concept that does not currently exist. This prediction is best interpreted as a hypothesis-generating signal rather than actionable evidence.
+Route compatibility has not been assessed. All listed products are topical or skin-applied (gel, cream, oil), and none is designed for ocular or systemic delivery.
 
----
+For context, the other top predictions are also mostly skin-related conditions (for example acne keloidalis and acrodermatitis chronica atrophicans). Only the rank 8 prediction, exanthem, has any registered trials, and those are indirect (see Conclusion).
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Allantoin in severe nonproliferative diabetic retinopathy.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for Allantoin in severe nonproliferative diabetic retinopathy.
+Currently no related literature available.
 
----
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| M016 | Earthmed Sport massage oil | Oil | Not stated |
+| M017 | Walgreens Advanced Scar Gel | Gel | Not stated |
+| 505G(a)(3) | TriDerma Protect Heal Non Greasy Barrier Cream | Cream | Not stated |
+| M016 | Meijer Scar Gel | Gel | Not stated |
+| M016 | Mederma for Kids | Gel | Not stated |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-> **Note:** TFDA label (warnings, contraindications) and DDI data are currently unavailable (data gap). Safety screening (S1 stage) cannot be completed until the prescribing information is obtained.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top TxGNN prediction (severe nonproliferative diabetic retinopathy) is supported exclusively by knowledge graph topology with no clinical or preclinical corroboration (L5), and allantoin lacks any systemic or ocular pharmacology data necessary to evaluate feasibility.
+The prediction has a very high model score but no trials, no literature and no plausible mechanism for a retinal disease. A topical skin product is also an unlikely fit for this indication. The only predicted indication with any trial data is exanthem (rank 8: three non-phase-specific or terminated trials of multi-ingredient products, with n=5 to 159). That evidence is indirect and cannot isolate allantoin's contribution.
 
 **To proceed, the following is needed:**
-- Retrieve MOA data from DrugBank API (DG002) to enable mechanistic analysis
-- Obtain TFDA/FDA prescribing information to complete S1 safety screening (DG001 — Blocking)
-- Commission ocular pharmacokinetic studies: blood-retinal barrier penetration, aqueous humor distribution, and systemic bioavailability after any proposed systemic route
-- Consider pivoting analytical priority to higher-plausibility indications: **Acne Keloid** (Rank 4, Research Question) which has the strongest mechanistic alignment with allantoin's known fibroblast-modulating and keratolytic profile, and **Exanthem** (Rank 8, L4) which has 3 supporting trials using allantoin-containing formulations and warrants a component-isolation study design
+- Mechanism of action data (for example from DrugBank) and any biological link to retinal microvascular disease
+- Package insert warnings and contraindications, which are needed before any safety screening
+- A route-compatibility assessment (topical products versus ocular or systemic delivery)
+- A literature search specific to allantoin and diabetic retinopathy, since none was found
+- If the team wants to pursue a skin indication instead, verification that allantoin is actually present in the products tested in the rank 8 trials
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

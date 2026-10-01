@@ -29,31 +29,32 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Nicardipine: From Hypertension to Pulmonary Hypertension with Unclear Multifactorial Mechanism
+# Nicardipine: From Its Approved Use to Pulmonary Hypertension with Unclear Multifactorial Mechanism
 
 ## One-Sentence Summary
 
-Nicardipine is a dihydropyridine calcium channel blocker (CCB); its original approved indication is not on file in the current evidence pack (the product is not currently marketed in Taiwan, and no license text is available). The TxGNN model predicts it may be effective for **pulmonary hypertension with unclear multifactorial mechanism**, but this direction is currently supported by **no clinical trials** and **no literature** — only the TxGNN prediction score.
+Nicardipine is a marketed dihydropyridine calcium channel blocker with 20 US authorizations, in capsule and injectable forms.
+The TxGNN model predicts it may be effective for **pulmonary hypertension with unclear multifactorial mechanism**.
+Currently there are **0 clinical trials** and **0 publications** supporting this direction, so it is a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented — no TFDA license record on file; based on known pharmacology, nicardipine is a dihydropyridine CCB used for hypertension |
 | Predicted New Indication | Pulmonary hypertension with unclear multifactorial mechanism |
 | TxGNN Prediction Score | 99.26% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for this candidate. Based on known information, nicardipine belongs to the dihydropyridine calcium channel blocker (CCB) class, acting by blocking L-type calcium channels in vascular smooth muscle to produce systemic vasodilation — the mechanism underlying its established use in hypertension.
+Currently, detailed mechanism of action data is not available. Nicardipine is a dihydropyridine calcium channel blocker, so pulmonary vasodilation is biologically plausible. That is background pharmacology, not something the provided data confirms. The approved indication text is also missing from the source data, so the relationship between the original and predicted indications cannot be assessed.
 
-For this particular predicted indication, the underlying disease pathology is itself described as "unclear/multifactorial," meaning there is no defined pathological pathway to which nicardipine's vasodilatory mechanism can be mapped. Without a clear disease mechanism to anchor against, it is not currently possible to construct a coherent pharmacological rationale linking the drug's known CCB activity to therapeutic benefit in this specific form of pulmonary hypertension.
+The 99.26% TxGNN score is a graph-based output only. With no trials, no literature and no MOA data, the mechanistic link cannot be checked. The disease subtype ("unclear multifactorial mechanism") has no defined pathophysiology, which makes any mechanistic argument weaker.
 
-Notably, other candidates generated for this drug (e.g., malignant renovascular hypertension, malignant hypertensive renal disease) represent more straightforward class-effect extensions of nicardipine's known antihypertensive activity, but even these lack any dedicated trial or literature evidence in the current pack. This top-ranked candidate, despite having the highest TxGNN score among the five, has the weakest mechanistic anchoring of the group.
+The same model run also predicted nicardipine for pulmonary hypertension owing to lung disease and/or hypoxia, malignant renovascular hypertension, malignant hypertensive renal disease, and Braddock syndrome. The two malignant hypertension predictions are mechanistically coherent, because nicardipine lowers blood pressure by arterial vasodilation. Neither has supporting evidence in the provided data. For hypoxic or lung-disease pulmonary hypertension, non-selective vasodilators can worsen ventilation-perfusion matching and gas exchange, so that prediction could point toward harm.
 
 ## Clinical Trial Evidence
 
@@ -62,6 +63,22 @@ Currently no related clinical trials registered.
 ## Literature Evidence
 
 Currently no related literature available.
+
+For the second-ranked prediction (pulmonary hypertension owing to lung disease and/or hypoxia), 20 publications were retrieved. They cover general hypoxia biology (brain aging, cancer, multiple sclerosis, altitude) and do not evaluate nicardipine, so they are not counted as clinical evidence.
+
+## US Market Information
+
+Five of the 20 authorizations are shown below.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA218638 | Nicardipine Hydrochloride | Capsule | Zydus Pharmaceuticals USA Inc. |
+| ANDA216420 | Nicardipine Hydrochloride | Injection | Armas Pharmaceuticals Inc. |
+| NDA019734 | CARDENE IV | Injection, solution | Baxter Healthcare Corporation |
+| ANDA218202 | Nicardipine hydrochloride | Capsule | Amneal Pharmaceuticals NY LLC |
+| ANDA217548 | Nicardipine Hydrochloride | Injection | Fresenius Kabi USA, LLC |
+
+Available routes are oral (capsule) and injectable (injection and injection, solution).
 
 ## Safety Considerations
 
@@ -72,13 +89,16 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests solely on a TxGNN model score, with zero supporting clinical trials or literature, an unclear disease mechanism to validate against, and no accessible TFDA warnings, contraindications, or drug interaction data — the safety data gap (DG001) is flagged as Blocking, meaning this candidate cannot yet clear even initial safety screening.
+The prediction rests only on a model score, with no clinical trials, no relevant literature and no mechanism data. The disease subtype is also poorly defined. The evidence level is L5.
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings/precautions and contraindications) to clear the blocking safety data gap (DG001)
-- Confirmed mechanism of action data for nicardipine (DG002)
-- Literature or trial evidence specific to nicardipine in this pulmonary hypertension subtype (current literature hits for the related rank-2 candidate are background hypoxia biology, not drug-specific)
-- A clearer pathophysiological definition of the target disease to support a mechanistic rationale
+- Package insert warnings and contraindications, which are needed before any safety screening
+- Mechanism of action data (e.g., from DrugBank) and the approved indication text
+- A targeted search for nicardipine in pulmonary hypertension (clinical trials and literature), replacing the non-specific hypoxia results
+- A clearer definition of the disease subtype, and a check of route compatibility (oral vs. injectable) against the setting
+- Verification of the malignant hypertension predictions (ranks 3 and 4) against the label and guidelines, since these are the more mechanistically coherent directions
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

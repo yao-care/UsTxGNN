@@ -29,32 +29,30 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Thyrotropin Alfa: From Thyroid Cancer Follow-Up to Migraine Disorder
+# Thyrotropin Alfa: From Thyroid Stimulation to Migraine Disorder
 
 ## One-Sentence Summary
 
-> Thyrotropin alfa (recombinant human TSH) is currently used only as a diagnostic stimulation agent for post-thyroidectomy follow-up in differentiated thyroid cancer patients.
-> The TxGNN model's top prediction is **Migraine Disorder**, but this direction is currently supported by **0 clinical trials** and **0 publications** — the score reflects knowledge-graph embedding similarity only, with no mechanistic, clinical, or literature evidence behind it.
+Thyrotropin alfa is a recombinant thyroid-stimulating hormone (TSH) that acts on TSH receptors in thyroid tissue, marketed in the US as Thyrogen.
+The TxGNN model predicts it may be effective for **migraine disorder**, but **0 clinical trials** and **0 publications** currently support this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in this evidence pack (no license records); known use is diagnostic TSH stimulation for post-thyroidectomy thyroid cancer follow-up |
-| Predicted New Indication | Migraine Disorder |
+| Original Indication | Not specified in the source data (the drug acts on the thyroid via TSH receptors) |
+| Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 99.98% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✗ Not Marketed |
-| Number of NDAs | 0 |
-| Recommended Decision | **Hold** |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 (BLA020898) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, structured mechanism of action data is marked as a data gap. However, contextual information included in this evidence pack indicates that thyrotropin alfa (recombinant human TSH) acts on TSH receptors on thyroid follicular cells, stimulating thyroid hormone synthesis and iodine uptake. Clinically it is used exclusively as a diagnostic stimulation agent — not a therapeutic agent — for follow-up in patients who have undergone thyroidectomy for differentiated thyroid cancer.
+Currently, detailed mechanism of action data is not available. Based on known information, thyrotropin alfa is a recombinant TSH that stimulates TSH receptors in thyroid tissue. No plausible mechanistic path to migraine has been identified.
 
-There is no known or plausible mechanistic link between the TSH receptor/thyroid axis and migraine pathophysiology (trigeminovascular system, CGRP signaling). The evidence pack's own mechanistic assessment for this candidate explicitly states the high TxGNN score arises purely from knowledge-graph embedding similarity, with no supporting mechanism. The same applies to the #2–#9 ranked candidates (migraine with brainstem aura, Raynaud disease, migraine susceptibility, atrophoderma vermiculata, ulerythema ophryogenesis, pulmonary hypertension, kyphoscoliotic heart disease, POTS) — all are rated L5 with no clinical trial or literature support, and several (e.g., pulmonary hypertension) are flagged as potentially contradictory, since inducing a hyperthyroid-like state could theoretically worsen the target condition rather than treat it.
-
-Notably, the only candidate in this evidence pack with substantive evidence — **hyperthyroidism** (rank 10, L2, 2 completed Phase 2 trials, 9 publications) — is itself a mechanistic contradiction: thyrotropin alfa is a TSH receptor **agonist** that would be expected to induce, not treat, hyperthyroidism. The two cited trials actually studied rhTSH as a pretreatment adjunct before radioiodine therapy for benign goiter, not as hyperthyroidism treatment, and the cited literature concerns interferon-alfa-induced thyroid dysfunction — unrelated to this drug. This underscores that none of the top-10 candidates currently constitute a mechanistically or clinically supported repurposing opportunity.
+The high model score most likely reflects proximity in the knowledge graph rather than a real biological link. The same pattern appears for other migraine-related terms in the prediction list, such as migraine with brainstem aura. A high score alone should not be read as evidence of benefit.
 
 ## Clinical Trial Evidence
 
@@ -62,28 +60,36 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for migraine disorder.
 
 ## US Market Information
 
-No marketing authorization records exist for this drug in the reviewed jurisdiction. Market status is recorded as **Not Marketed**, with **0** total licenses on file.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| BLA020898 | Thyrogen (Genzyme Corporation) | Injection, powder, lyophilized, for solution | Not specified in source data |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Key warnings, contraindications, and drug interaction data are currently not available in this evidence pack (flagged as a Blocking data gap pending TFDA label acquisition).
+Please refer to the package insert for safety information.
+
+No drug-drug interaction records were found in the queried source.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked predicted indication (migraine disorder) has no clinical trial or literature evidence and no plausible mechanistic rationale — it is a pure model-score artifact (L5/S0). The only evidence-supported candidate in the top 10 (hyperthyroidism) is mechanistically contradictory to the drug's pharmacology. No candidate in this pack currently meets the threshold to advance past initial screening.
+The prediction rests on a model score alone. There are no trials or publications for migraine, and no mechanistic rationale, so this is a pure Level 5 (model-only) candidate.
 
 **To proceed, the following is needed:**
-- Structured MOA data from DrugBank (currently a High-severity data gap)
-- TFDA/FDA label warnings and contraindications (currently a Blocking data gap — required before any safety pre-assessment)
-- Re-screening of lower-ranked TxGNN candidates for mechanistically plausible, evidence-backed indications, since the current top 10 are dominated by L5 predictions or mechanism-contradictory matches
-- If pursuing further, prioritize candidates with independent mechanistic rationale over embedding similarity alone
+- Mechanism of action data, to test whether any TSH-related pathway plausibly connects to migraine
+- Package insert warnings and contraindications, which are required before any safety screening
+- Any drug-specific preclinical or clinical evidence in migraine. The retrieved literature concerns epilepsy and migraine genetics and does not mention this drug.
+- Route and formulation compatibility assessment, which has not been done
+
+**Note on other predictions:** Of the ten predicted indications, only **hyperthyroidism** (rank 10, score 99.65%) has trial evidence: two completed Phase 2 trials (NCT00145366, n=110; NCT00454220, n=96). Both studied rhTSH as an adjunct to radioiodine in nodular goiter. They do not show treatment of hyperthyroidism itself, and TSH stimulation can provoke transient thyrotoxicosis. It is rated L2 and is better framed as a research question than as a recommended therapeutic use.
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

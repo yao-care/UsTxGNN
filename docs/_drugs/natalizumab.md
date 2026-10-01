@@ -33,73 +33,61 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 ## One-Sentence Summary
 
-Natalizumab is a humanized monoclonal antibody against α4-integrin (VLA-4), publicly known to be used for relapsing multiple sclerosis and Crohn's disease (original indication data was not captured in this evidence pack — see DG002). The TxGNN model's top prediction is **Bronchitis** with a **99.46%** score, but this candidate currently has **0 clinical trials** and **0 publications** supporting it, and the pack's own mechanistic review flags it as likely unsupported.
-
----
+Natalizumab is a monoclonal antibody marketed in the US as TYSABRI and TYRUKO, and the literature in the Evidence Pack places it in multiple sclerosis (MS) treatment.
+The TxGNN model predicts it may be effective for **bronchitis**,
+but **0 clinical trials** and **0 publications** currently support this prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not captured in evidence pack (data gap — see DG002). Publicly known use: relapsing multiple sclerosis, Crohn's disease |
+| Original Indication | Multiple sclerosis (inferred from the literature; the licence records contain no indication text) |
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 99.46% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 (both are BLAs: BLA125104, BLA761322) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data was not retrieved for this evidence pack (DG002, High severity). Based on the α4-integrin/VLA-4 pathway referenced in the pack's own rationale text, natalizumab blocks lymphocyte adhesion and migration across endothelial barriers — a mechanism explored in airway inflammatory disease (e.g., asthma) but with no established treatment rationale for bronchitis.
+Detailed mechanism of action data is not available in the Evidence Pack. Natalizumab is known to block α4-integrin, which limits leukocyte trafficking into tissues. In theory, this could dampen inflammation driven by immune cell infiltration.
 
-The evidence pack's own analysis for this candidate is explicit that the prediction is **not well supported**: bronchitis is predominantly infectious or irritant in etiology, blocking lymphocyte trafficking has no therapeutic rationale for it, and the resulting immunosuppression could plausibly *increase* infection risk. The pack flags this as a suspected knowledge-graph mis-connection through the respiratory/inflammation node cluster rather than a genuine mechanistic signal.
-
-For context, the pack's lower-ranked candidates (psoriasis, parapsoriasis, acute lichenoid pityriasis) are supported only by case-report literature in which natalizumab **induces or aggravates** dermatologic disease during MS treatment — the opposite therapeutic direction — with one isolated case report of comorbid psoriasis improving. None of the five ranked candidates in this pack currently have positive, disease-directed clinical evidence.
-
----
+The link to bronchitis is weak. Bronchitis is mostly infectious or self-limited, and it is not a disease of pathological immune-cell trafficking. Systemic immunosuppression would raise infection risk rather than help. The high score (0.995) reflects a graph-based association only, and no specific mechanistic link has been identified.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
-
----
+Currently no related literature available.
 
 ## US Market Information
 
-Natalizumab is currently **not marketed** in the reference regulatory dataset (0 licenses/NDAs on record), so no authorization table can be produced.
-
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| BLA125104 | TYSABRI | Injection | Biogen Inc. |
+| BLA761322 | TYRUKO | Injection | Sandoz Inc |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-*Note: this pack's `safety` block (key warnings, contraindications, DDI) is fully a data gap (DG001, Blocking). Separately, literature surfaced while researching other ranked candidates (psoriasis) repeatedly documents progressive multifocal leukoencephalopathy (PML) as a serious class-level risk associated with natalizumab — this is not sourced from the formal safety fields but should be flagged for any follow-up safety review.*
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (bronchitis) has no clinical trial or literature support, and the pack's own mechanistic review assesses it as an unsupported, likely spurious knowledge-graph link with a plausible risk of harm (immunosuppression in an infection-driven disease). None of the five ranked candidates in this pack show positive disease-directed evidence.
+The prediction has no trial or literature support (L5). Bronchitis is mostly infectious or self-limited, so a systemic immunomodulatory antibody offers little plausible benefit. Its known risks, such as infection and progressive multifocal leukoencephalopathy (PML), make exploratory use unattractive.
+
+Among the other predictions, psoriasis has the most literature (L4). That evidence is contradictory, and most of it describes psoriasis induced or worsened by natalizumab. One 2021 series reported improvement in comorbid psoriasis, so it may merit follow-up before bronchitis does.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (DG001, blocking — required before any S1 safety screen)
-- Confirmed original indication and MOA documentation (DG002)
-- Independent review of the TxGNN knowledge-graph edge for natalizumab–bronchitis to rule out node mis-linkage
-- If the psoriasis signal is pursued instead, prospective controlled data — existing literature trends toward natalizumab causing/aggravating psoriasis, not treating it
-- Regulatory pathway assessment, given the drug is not currently marketed (0 NDAs on record)
+- Mechanism of action data (for example, from the DrugBank API)
+- The US package insert with warnings and contraindications, for safety screening
+- Any preclinical or clinical signal for natalizumab in bronchitis
+- A risk-benefit rationale for systemic immunosuppression in a mostly self-limited condition
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

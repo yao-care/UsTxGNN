@@ -29,73 +29,66 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Human C1-Esterase Inhibitor: From Hereditary Angioedema to Severe Nonproliferative Diabetic Retinopathy
+# HUMAN C1-ESTERASE INHIBITOR: From a Marketed C1-INH Product to Severe Nonproliferative Diabetic Retinopathy
 
 ## One-Sentence Summary
 
-> Human C1-esterase inhibitor (C1-INH, DrugBank DB06404) is a plasma-derived serine protease inhibitor clinically known for treating hereditary angioedema (HAE) by regulating the complement, contact-activation, and coagulation cascades — though this original-indication detail is not captured in the current evidence pack.
-> The TxGNN model predicts it may be effective for **Severe Nonproliferative Diabetic Retinopathy**,
-> but this specific prediction currently has **0 clinical trials** and **0 publications** supporting it — it is a pure knowledge-graph-embedding signal with no direct or indirect literature backing.
-
----
+Human C1-esterase inhibitor (C1-INH) is a plasma-derived protein marketed in the US as the injectable product Cinryze.
+The TxGNN model predicts it may be effective for **severe nonproliferative diabetic retinopathy**, but **no clinical trials and no publications** currently support this specific prediction.
+This is a model-only prediction (L5).
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not captured in evidence pack (no Taiwan license/MOA data returned; C1-INH is clinically established for hereditary angioedema, per general pharmacological knowledge — not verified against this evidence pack) |
-| Predicted New Indication | Severe Nonproliferative Diabetic Retinopathy |
+| Original Indication | Not stated in the supplied record |
+| Predicted New Indication | Severe nonproliferative diabetic retinopathy |
 | TxGNN Prediction Score | 99.61% |
 | Evidence Level | L5 |
-| Market Status (Taiwan) | Not marketed (Not marketed) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 (BLA125267) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for this drug in the evidence pack (Data Gap DG002, severity High). Based on what evidence *is* present in the accompanying repurposing rationale, human C1-esterase inhibitor (C1-INH/SERPING1) is a serine protease inhibitor that primarily suppresses the classical complement pathway (C1r, C1s) and the lectin pathway (MASP1/2), and also acts on the contact-activation system (kallikrein, activated Factor XII).
+Currently, detailed mechanism of action data is not available. C1-INH is a regulator of the complement system and the plasma kallikrein-kinin contact system. On that basis, a plausible but unverified link is that it could dampen complement activation and contact-system signalling. Both pathways are implicated in retinal vascular permeability and inflammation in diabetic retinopathy.
 
-Severe nonproliferative diabetic retinopathy is a late-stage subtype of diabetic retinopathy (DR), a disease with documented complement-pathway involvement — C1q deposition, local inflammation, and microvascular thrombosis. Theoretically, C1-INH's inhibition of complement activation could plausibly attenuate this inflammatory and microvascular injury process. Notably, a related TxGNN prediction in the same evidence pack (rank 3, plain "diabetic retinopathy," score 99.25%) is supported by one genetic-association study linking complement pathway genes (SERPING1, C5) to DR susceptibility — this offers indirect mechanistic plausibility for the complement–DR link in general.
-
-However, for the specific candidate evaluated here (severe nonproliferative DR), **no clinical trial or literature evidence exists at all**. The mechanistic link is explicitly flagged in the source data as theoretical only, and the high TxGNN score may reflect shared complement-related graph nodes rather than a validated pharmacological relationship. This prediction should be read as hypothesis-generating, not evidence-supported.
-
----
+This link is inferred and is not supported by the supplied data. The record lists no original indication and no MOA, so the relationship between the original and predicted indications cannot be assessed. The high TxGNN score reflects knowledge-graph patterns, not tested biology.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for severe nonproliferative diabetic retinopathy.
 
----
+Note: one indirect item exists for the broader indication *diabetic retinopathy* (rank 3 prediction): [26989329](https://pubmed.ncbi.nlm.nih.gov/26989329/) (2016, *Mediators of Inflammation*), a genetic association study of complement pathway genes (SERPING1 and C5) in 570 patients with type 2 diabetes. It supports complement-mediated inflammation as a disease mechanism, but it did not test C1-INH and is indirect evidence only.
+
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| BLA125267 | Cinryze (Takeda Pharmaceuticals America, Inc.) | Injection, powder, lyophilized, for solution | Not listed in the supplied record |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-*(Note: TFDA warnings/contraindications are a Blocking data gap (DG001) — this must be resolved before any S1 safety review can proceed.)*
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This candidate sits at evidence level L5 (model prediction only) — there are zero clinical trials and zero publications directly supporting C1-INH use in severe nonproliferative diabetic retinopathy. The mechanistic rationale is inferred by analogy to a related, still weakly-supported prediction (plain diabetic retinopathy, backed only by a Tier 3 genetic-association study, not an interventional study of C1-INH itself). The drug is also not currently marketed in Taiwan (0 NDAs).
+The prediction rests on a model score alone. There are no trials or publications for this indication, and the mechanism, original indication and safety data are all missing from the record.
 
 **To proceed, the following is needed:**
-- Resolve Blocking data gap DG001: TFDA label warnings/contraindications (required before any safety review)
-- Resolve High-priority data gap DG002: confirmed mechanism of action from DrugBank
-- Original approved indication(s) for this drug, to properly assess similarity to the new indication
-- At minimum, preclinical or mechanistic studies directly testing C1-INH in a diabetic retinopathy model, before this moves beyond a research question
-- Continued monitoring of the related "diabetic retinopathy" (non-severe-specific) prediction, which has marginally stronger — though still indirect — literature support
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank, to test the complement and kallikrein-kinin hypothesis
+- Preclinical or biomarker work, such as complement activation in vitreous or serum of diabetic retinopathy patients, before any clinical consideration
+- Assessment of route compatibility: Cinryze is an intravenous injectable, and the route required for retinal disease is not yet defined
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

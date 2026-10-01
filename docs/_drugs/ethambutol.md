@@ -33,72 +33,67 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 ## One-Sentence Summary
 
-> Ethambutol is a first-line antituberculosis agent, used as part of standard combination therapy for tuberculosis (evidence for this original use appears within the literature attached to this evidence pack, though no formal TFDA/FDA license record exists in the dataset).
-> The TxGNN model predicts it may be effective for **Epiglottitis**,
-> but currently **0 clinical trials** and **0 publications** support this specific direction.
-
----
+Ethambutol is an oral antimycobacterial drug used as a partner drug in tuberculosis regimens. The Evidence Pack does not list an original indication, so this is taken from the drug's known use.
+The TxGNN model predicts it may be effective for **epiglottitis**, but **0 clinical trials** and **0 publications** support this specific prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Tuberculosis (inferred from literature within this evidence pack — no formal license/MOA record available; see note below) |
+| Original Indication | Not listed in the source data (ethambutol is a known antituberculosis drug) |
 | Predicted New Indication | Epiglottitis |
 | TxGNN Prediction Score | 99.90% |
-| Evidence Level | L5 |
-| US Market Status | Not marketed (0 license records in dataset) |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 12 licenses (NDA and ANDA combined) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap, DG002). Based on information contained elsewhere in this evidence pack — specifically the mechanistic rationale attached to other candidate indications for this drug — ethambutol inhibits mycobacterial arabinosyl transferase, blocking arabinogalactan synthesis in the mycobacterial cell wall. This activity is specific to the *Mycobacterium* genus and is the basis of its established role in standard four-drug antituberculosis therapy (isoniazid, rifampicin, pyrazinamide, ethambutol).
+Ethambutol inhibits mycobacterial arabinosyl transferases (embA/B/C). This blocks synthesis of arabinogalactan, a key component of the mycobacterial cell wall. The source record contains no formal mechanism-of-action entry, so this description comes from the evidence assessment.
 
-Epiglottitis, however, is predominantly caused by *Haemophilus influenzae* type b, *Streptococcus pyogenes*, and other non-mycobacterial pathogens. Ethambutol has no antibacterial activity against these organisms, and the evidence pack's own rationale for this candidate explicitly states there is no plausible mechanistic link.
+The mechanistic link to epiglottitis is weak. Epiglottitis is usually caused by *Haemophilus influenzae*, streptococci or other non-mycobacterial bacteria. These organisms lack the arabinogalactan pathway that ethambutol targets. The high score (99.90%) most likely reflects closeness in the knowledge graph to other infectious airway diseases, not a real pharmacological relationship. Standard antibacterial therapy is not addressed by any data in this pack.
 
-The TxGNN score is high (99.9th+ percentile), but the model's own decision-stage assignment (S0) and evidence level (L5) reflect that this is a pure knowledge-graph signal with zero supporting clinical trials or literature — likely an artifact of graph proximity (e.g., shared "infectious disease of the airway" nodes) rather than a genuine pharmacological signal.
-
----
+The only plausible route would be rare mycobacterial involvement of the epiglottis or larynx. That would be an extension of ethambutol's existing anti-TB use, not a new indication. The supplied data does not test this for epiglottitis.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
-
----
+Currently no related literature available.
 
 ## US Market Information
 
-No approval records found in the current dataset (0 licenses; market status: not marketed). This drug's US regulatory/label data is flagged as a Blocking data gap (DG001) pending retrieval from the FDA label source.
+Duplicate entries are merged; three distinct authorizations are listed.
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA075095 | Ethambutol Hydrochloride (Epic Pharma) | Film-coated tablet | Not listed in source data |
+| NDA016320 | Ethambutol Hydrochloride (Marlex Pharmaceuticals) | Film-coated tablet | Not listed in source data |
+| ANDA078939 | Ethambutol Hydrochloride (Lupin Pharmaceuticals) | Tablet | Not listed in source data |
+
+All listed products are oral.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
----
+Please refer to the package insert for safety information. No drug-interaction records were found in the source data.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication (epiglottitis) has no mechanistic plausibility — the causative pathogens fall outside ethambutol's antimycobacterial spectrum — and no clinical trial or literature evidence exists to counter this. The TxGNN score alone (L5, S0) is insufficient to advance this candidate.
+The prediction has no supporting trials or literature, and the mechanism does not fit the likely bacterial causes of epiglottitis. The related laryngitis and peritonitis predictions are supported only by case reports and reviews of laryngeal or peritoneal tuberculosis. Those cases show anti-TB use at a different anatomical site, not repurposing.
 
 **To proceed, the following is needed:**
-- Resolve Blocking data gap DG001: TFDA/FDA label warnings and contraindications
-- Resolve High-severity data gap DG002: confirmed mechanism of action
-- Re-check whether the TxGNN disease node for "epiglottitis" is being conflated with tuberculosis-related upper airway involvement, as appears to be happening with the related candidates "laryngitis" (rank 2, L3 evidence, largely driven by laryngeal TB literature) and "peritonitis" (rank 4, L3 evidence, driven by tuberculous peritonitis literature) — those two candidates carry meaningfully stronger evidence and may warrant separate evaluation
-- If the above graph-mapping concern is unresolved, deprioritize this candidate over the two S1-stage candidates in the same pack
+- Package insert warnings and contraindications (this blocks safety screening)
+- Confirmed original indication and mechanism-of-action data from DrugBank
+- Evidence of mycobacterial involvement in epiglottitis, or a documented reason ethambutol would help in non-mycobacterial epiglottitis
+- Any registered trial or clinical study directly addressing epiglottitis
+
+This report is for research reference only and is not medical advice. Repurposing candidates require clinical validation before any clinical use.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

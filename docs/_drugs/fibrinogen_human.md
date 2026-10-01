@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Fibrinogen Human
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 705
-evidence_level: L5
+evidence_level: L4
 indication_count: 1
 ---
 
 # Fibrinogen Human
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **1** 
+Evidence Level: **L4** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,11 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# FIBRINOGEN HUMAN: From Fibrinogen Replacement Therapy to Hemoglobinopathy
+# FIBRINOGEN HUMAN: From Fibrinogen Replacement to Hemoglobinopathy
 
 ## One-Sentence Summary
 
-Fibrinogen Human (DrugBank DB09222) is a plasma-derived coagulation factor concentrate; its specific approved indication text is not available in this Evidence Pack, and the drug is currently **not marketed** under the reviewed regulatory dataset. The TxGNN model predicts potential relevance to **Hemoglobinopathy** with a **99.12%** score, but on closer review the supporting evidence is weak: the single matched clinical trial is a data-linkage mismatch (different drug), and the 20 literature hits describe disease-related coagulation abnormalities in hemoglobinopathy patients rather than therapeutic use of exogenous fibrinogen — with some evidence pointing to a plausible **safety concern instead of a benefit signal**.
+Human fibrinogen is a plasma-derived clotting protein marketed in the US as fibrinogen concentrates (Fibryga and RiaSTAP). The approved indication text is not included in the source data.
+The TxGNN model predicts it may be effective for **hemoglobinopathy**, but **1 registered trial** (not linked to fibrinogen) and **20 publications** (mostly observational or mechanistic) provide no direct support.
+This prediction is most likely a knowledge-graph artifact, and fibrinogen replacement could raise thrombotic risk in these patients.
 
 ---
 
@@ -41,21 +43,23 @@ Fibrinogen Human (DrugBank DB09222) is a plasma-derived coagulation factor conce
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in this Evidence Pack (no Taiwan license records; `original_indications` empty) |
+| Original Indication | Not listed in the source data |
 | Predicted New Indication | Hemoglobinopathy |
 | TxGNN Prediction Score | 99.12% |
-| Evidence Level | L5 |
-| US Market Status | Not Marketed (Not marketed) |
-| Number of NDAs | 0 |
-| Recommended Decision | **Hold** |
+| Evidence Level | L4 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 4 (all BLA biologics licenses) |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (`original_moa: [Data Gap]`), and no approved-indication text exists in the regulatory dataset for this drug. Based on general pharmacology, Fibrinogen Human is a plasma-derived coagulation factor concentrate used to correct fibrinogen deficiency and control bleeding; mechanistically, it acts by increasing circulating fibrinogen available for clot formation.
+Currently, detailed mechanism of action data is not available. Fibrinogen is a coagulation glycoprotein that is converted to fibrin during clot formation, and the marketed products supply it as a replacement. The source data does not list the approved indications.
 
-However, the actual evidence gathered for the **hemoglobinopathy** prediction does not support a straightforward "efficacy" narrative. The literature base is dominated by observational and mechanistic studies describing an **endogenous hypercoagulable state** already present in sickle cell disease and β-thalassemia (elevated fibrinogen, thrombin generation, platelet activation, fibrinogen-mediated RBC-endothelium adhesion). This is disease pathophysiology, not evidence that *administering* exogenous fibrinogen treats hemoglobinopathy. One review (PMID 33026614) further raises the possibility that exogenous fibrinogen may increase cardiovascular/thrombotic risk. Since hemoglobinopathy patients are already prone to hypercoagulability, supplementing a pro-coagulant factor in this population is mechanistically more plausible as a **risk signal** than a therapeutic opportunity. This should be treated as a caution flag rather than a confirmation of the TxGNN prediction.
+The literature does not support a therapeutic link to hemoglobinopathies such as sickle cell disease and beta-thalassemia. It treats fibrinogen as a **biomarker** of a hypercoagulable, inflammatory state in these conditions. Reports describe elevated fibrinogen, altered thromboelastometry and thrombotic complications. One study also found that sickle red blood cell adhesion to ICAM-1 is mediated by fibrinogen.
+
+Giving more fibrinogen to patients who already have elevated thrombotic risk could therefore be harmful rather than beneficial. The high TxGNN score probably reflects proximity between coagulation and hemoglobin-related nodes in the knowledge graph. It does not reflect a real therapeutic relationship.
 
 ---
 
@@ -63,9 +67,7 @@ However, the actual evidence gathered for the **hemoglobinopathy** prediction do
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT03673085](https://clinicaltrials.gov/study/NCT03673085) | Phase 1 | Completed | 32 | First-in-human dose-escalation PK/safety study of **CN128** in thalassemia patients. ⚠ Data quality note: the investigational drug is CN128, not Fibrinogen Human — this appears to be a keyword-based false-positive match (disease-term overlap only) and does not constitute direct clinical evidence for this drug. |
-
-No genuine Fibrinogen Human clinical trial in hemoglobinopathy is currently registered.
+| [NCT03673085](https://clinicaltrials.gov/study/NCT03673085) | Phase 1 | Completed | 32 | First-in-human single-ascending-dose safety and PK study of CN128 tablets in thalassemia patients aged 16 and above. Relevance grade C: the record does not mention fibrinogen, and a first-in-human design is unusual for a marketed plasma product. It is not counted as direct evidence. |
 
 ---
 
@@ -73,32 +75,37 @@ No genuine Fibrinogen Human clinical trial in hemoglobinopathy is currently regi
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [33026614](https://pubmed.ncbi.nlm.nih.gov/33026614/) | 2020 | Review | Molecular Biology Reports | Discusses exogenous fibrinogen's role in reducing surgical bleeding but also its potential to contribute to cardiovascular disease — a direct safety-relevant reference for this drug class. |
-| [32777069](https://pubmed.ncbi.nlm.nih.gov/32777069/) | 2020 | Cohort | Blood Advances | Fibrinogen mediates sickle RBC adhesion to ICAM-1, linked to right-to-left shunts in sickle cell disease — implicates fibrinogen in disease vascular pathology, not treatment. |
-| [24609765](https://pubmed.ncbi.nlm.nih.gov/24609765/) | 2014 | Cohort | Int J Hematology | Thromboelastometry shows a hypercoagulable profile in children with β-thalassemia. |
-| [39441287](https://pubmed.ncbi.nlm.nih.gov/39441287/) | 2024 | Observational | Georgian Medical News | Protein C/S evaluation in β-thalassemia major, correlated with hemoglobin, ferritin, D-dimer. |
-| [35417875](https://pubmed.ncbi.nlm.nih.gov/35417875/) | 2022 | Review/Cohort | Georgian Medical News | Documents thrombotic complications and latent hypercoagulation across β-thalassemia subtypes. |
-| [14693325](https://pubmed.ncbi.nlm.nih.gov/14693325/) | 2003 | Review | American Journal of Medicine | Reviews hypercoagulability in sickle cell disease, including elevated fibrinogen/thrombin activity. |
-| [31648337](https://pubmed.ncbi.nlm.nih.gov/31648337/) | 2019 | Review | Blood Advances | Describes coagulation system activation, including thrombin, as a driver of SCD pathophysiology and organ damage. |
-| [27723451](https://pubmed.ncbi.nlm.nih.gov/27723451/) | 2017 | Observational | Blood Transfusion | Platelet procoagulant properties and effect of transfusion in β-thalassaemia patients. |
-| [1203541](https://pubmed.ncbi.nlm.nih.gov/1203541/) | 1975 | Observational | Blut | Early study documenting hypercoagulability and hypofibrinolysis, with elevated fibrinogen levels, in sickle-cell disease. |
-| [7272221](https://pubmed.ncbi.nlm.nih.gov/7272221/) | 1981 | Observational | British Journal of Haematology | Erythrocyte deformability and blood viscosity changes during sickle-cell vaso-occlusive crisis. |
+| [31648337](https://pubmed.ncbi.nlm.nih.gov/31648337/) | 2019 | Review | Blood Adv | Coagulation activation is a key part of sickle cell disease pathophysiology and drives chronic inflammation |
+| [14693325](https://pubmed.ncbi.nlm.nih.gov/14693325/) | 2003 | Review | Am J Med | Sickle cell disease shows activation of coagulation and platelets (a hypercoagulability paradox) |
+| [33026614](https://pubmed.ncbi.nlm.nih.gov/33026614/) | 2020 | Review | Mol Biol Rep | Exogenous fibrinogen reduces surgical bleeding but may carry pro-inflammatory and cardiovascular risk |
+| [24609765](https://pubmed.ncbi.nlm.nih.gov/24609765/) | 2014 | Observational | Int J Hematol | Thromboelastometry profile in children with beta-thalassemia, who have a hypercoagulable state and higher thrombosis risk |
+| [35417875](https://pubmed.ncbi.nlm.nih.gov/35417875/) | 2022 | Review/Observational | Georgian Med News | Thrombotic complications and latent hypercoagulation in beta-thalassemia |
+| [40883664](https://pubmed.ncbi.nlm.nih.gov/40883664/) | 2025 | Observational | BMC Nephrol | Fibrinogen-to-albumin ratio and NGAL as indicators of kidney disease in sickle cell patients (Ghana case-control study) |
+| [32777069](https://pubmed.ncbi.nlm.nih.gov/32777069/) | 2020 | Laboratory study | Blood Adv | Red blood cell adhesion to ICAM-1 is mediated by fibrinogen in sickle cell disease (17 patients) |
+| [27723451](https://pubmed.ncbi.nlm.nih.gov/27723451/) | 2017 | Laboratory study | Blood Transfus | Platelet procoagulant properties and the effect of transfusion in beta-thalassemia |
+| [39441287](https://pubmed.ncbi.nlm.nih.gov/39441287/) | 2024 | Observational | Georgian Med News | Protein C and S in beta-thalassemia major and their correlation with D-dimer and other markers |
+| [1203541](https://pubmed.ncbi.nlm.nih.gov/1203541/) | 1975 | Observational | Blut | Hypercoagulability and hypofibrinolysis in 52 sickle cell patients, with higher-than-normal fibrinogen levels |
 
-All 10 listed publications are disease-mechanism or observational studies describing coagulation abnormalities intrinsic to hemoglobinopathies. **None report therapeutic administration of exogenous Fibrinogen Human to treat hemoglobinopathy.**
+None of these studies tested fibrinogen as a treatment for hemoglobinopathy. Their study types were inferred from titles and abstracts.
 
 ---
 
 ## US Market Information
 
-No Taiwan marketing authorization is on record for this drug (`market_status: Not marketed`, `total_licenses: 0`). No license/product data is available to tabulate.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| BLA125612 | Fibryga (Octapharma USA Inc) | Powder, for solution | Not listed in source data |
+| BLA125612 | Fibryga (Octapharma USA Inc) | Powder, for solution | Not listed in source data |
+| BLA125317 | Riastap (CSL Behring GmbH) | Injection, solution | Not listed in source data |
+| BLA125317 | RiaSTAP (CSL Behring GmbH) | Injection, powder, lyophilized, for solution | Not listed in source data |
 
 ---
 
 ## Safety Considerations
 
-No structured safety data (key warnings, contraindications, DDI) is available for this drug in the current dataset — all fields are marked as data gaps. Please refer to the package insert for safety information.
+Please refer to the package insert for safety information.
 
-**Additional signal surfaced during evidence review (not from structured safety fields):** the literature base suggests hemoglobinopathy patients already exist in a hypercoagulable state; supplementing exogenous fibrinogen in this population carries a theoretical thrombotic/cardiovascular risk (per PMID 33026614) that should be explicitly evaluated before any further development is considered.
+One risk comes from the literature rather than labeling. Patients with sickle cell disease and beta-thalassemia already have a hypercoagulable state and elevated fibrinogen. Additional fibrinogen could increase thrombotic risk.
 
 ---
 
@@ -107,14 +114,16 @@ No structured safety data (key warnings, contraindications, DDI) is available fo
 **Decision: Hold**
 
 **Rationale:**
-The high TxGNN score is not corroborated by real evidence — the only matched clinical trial is a data-linkage false positive (wrong drug), and all 20 literature hits describe hemoglobinopathy-associated coagulation pathophysiology rather than therapeutic benefit from exogenous fibrinogen. There is also a plausible mechanistic safety concern (added thrombotic risk in an already hypercoagulable population) rather than a benefit signal. This corresponds to Evidence Level L5 (model prediction only) and Decision Stage S0.
+The prediction score is high (99.12%), but no study supports fibrinogen as a treatment for hemoglobinopathy. The only registered trial is unrelated to fibrinogen, and the literature points to a possible harmful direction of effect (thrombosis). Evidence is at L4, and the repurposing rationale is weak.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (currently a Blocking data gap, DG001)
-- Confirmed mechanism of action data (High-severity data gap, DG002)
-- A genuine, drug-matched clinical trial or case series evaluating Fibrinogen Human in hemoglobinopathy patients
-- A dedicated thrombotic-risk assessment for administering a pro-coagulant factor to an already hypercoagulable population
-- Basic Taiwan/US regulatory and DDI data, none of which currently exist for this drug
+- Package insert warnings and contraindications, which are required for safety screening
+- Approved indications and mechanism of action from DrugBank
+- Preclinical or clinical evidence that fibrinogen supplementation has any benefit in a hemoglobinopathy setting
+- A thrombosis risk assessment for hypercoagulable hemoglobinopathy patients
+- Verification of the NCT03673085 registry record, to confirm whether fibrinogen is involved at all
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,78 +29,74 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-The txgnn-pipeline skill confirms this is a standard TxGNN report generation task. I'll now generate the evaluation report directly from the Evidence Pack following the v5 prompt specification.
-
----
-
-# Bacitracin: From Topical Bacterial Infections to Punctate Epithelial Keratoconjunctivitis
+# Bacitracin: From Topical Antibacterial Use to Punctate Epithelial Keratoconjunctivitis
 
 ## One-Sentence Summary
 
-Bacitracin is a polypeptide antibiotic with a long history of topical use against gram-positive bacterial infections of the skin, wounds, and ocular surface.
-The TxGNN model predicts it may be effective for **Punctate Epithelial Keratoconjunctivitis**, the top-ranked indication with a prediction score of **99.999%**.
-However, this prediction is supported by **no clinical trials** and **no published literature**, and the mechanistic connection to this predominantly viral or toxic condition is considered weak.
-
----
+Bacitracin is a polypeptide antibiotic marketed in the US as a topical ointment. The TxGNN model predicts it may be effective for **punctate epithelial keratoconjunctivitis**, but **0 clinical trials** and **0 publications** currently support this direction. The prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Topical treatment of gram-positive bacterial infections (skin, wounds, ophthalmic surface) |
-| Predicted New Indication | Punctate Epithelial Keratoconjunctivitis |
-| TxGNN Prediction Score | 99.999% |
+|------|------|
+| Predicted New Indication | Punctate epithelial keratoconjunctivitis |
+| TxGNN Prediction Score | 99.999% (rank 64 overall) |
 | Evidence Level | L5 |
-| US Market Status | Not marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
 
----
+The licence records contain no approved-indication text, so the original labelled indication could not be extracted. The original use above is inferred from the product type (an ointment).
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the regulatory data pack. Based on established pharmacological knowledge, Bacitracin is a polypeptide antibiotic belonging to the bacitracin complex class, with proven topical antibacterial efficacy against gram-positive organisms including *Staphylococcus aureus* and *Streptococcus* species. Ophthalmic ointment formulations of Bacitracin are well-established, which at minimum confirms route-level feasibility for ocular applications.
+Detailed mechanism of action data is not available from DrugBank. Bacitracin is known to inhibit bacterial cell-wall synthesis by blocking dephosphorylation of C55-isoprenyl pyrophosphate. It acts mainly against gram-positive organisms, which is why it is used topically.
 
-Punctate epithelial keratoconjunctivitis (PEK) is characterized by scattered punctate epithelial lesions affecting both the cornea and conjunctiva. Its most common etiologies are viral (especially adenovirus and herpes simplex virus) or toxic/chemical injury — bacterial causes represent a distinct minority of cases. While Bacitracin's gram-positive coverage could theoretically address the bacterial subset of PEK, this specific scenario accounts for only a small fraction of the overall disease burden, limiting the practical scope of any antibacterial intervention.
+The link to the new indication is weak. Punctate epithelial keratoconjunctivitis is often viral, toxic, or dry-eye related rather than bacterial, so an antibacterial has no clear target. The TxGNN score of about 0.99999 should not be over-read. The top-ranked candidates all score almost identically, so the score does not discriminate between them. It probably reflects proximity in the knowledge graph rather than a real therapeutic signal.
 
-The TxGNN model's extremely high prediction score (99.999%, global rank #64) most likely reflects a conceptual generalization: the model recognizes Bacitracin's ophthalmic formulation availability and broad antibacterial activity and maps these to the broader ocular infectious disease node in the knowledge graph — rather than capturing a direct, PEK-specific mechanistic relationship. The mechanistic link is considered weak, and this score should be treated as a model hypothesis requiring empirical validation rather than an evidence-based clinical signal.
-
----
+The ophthalmic route is also unconfirmed. Route compatibility is still pending, and the only dosage form in the US records is an ointment.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## US Market Information
+
+The 5 main entries below are the main listings out of 20. The records give no approved-indication text.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| M004 | Bacitracin | Ointment | A-S Medication Solutions |
+| M004 | Bacitracin | Ointment | BluePoint Laboratories |
+| M004 | Bacitracin | Ointment | Rugby Laboratories |
+| M004 | Bacitracin | Ointment | CVS Pharmacy |
+| M004 | Bacitracin | Ointment | H E B |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Punctate epithelial keratoconjunctivitis is a predominantly viral or toxic condition; Bacitracin's antibacterial mechanism provides no meaningful therapeutic rationale for the primary disease etiology, and there is a complete absence of clinical trial or literature evidence to support this specific indication.
+The prediction has no supporting trials or literature (L5). The mechanistic link is weak, because an antibacterial has little reason to help a largely non-bacterial condition. Safety data are also missing, which blocks any safety screening.
 
-**Broader Assessment — More Actionable Direction Among All 10 Predictions:**
-Of the 10 predicted indications analyzed in this multi-indication pack, **Otitis Externa** (rank 4, score 99.969%, Evidence Level **L4**) presents the strongest evidence profile with **6 supporting publications**, including a 2007 double-blind clinical comparative study evaluating a Bacitracin-containing combination ointment (polymyxin-B + bacitracin ± hydrocortisone) in 151 patients with acute bacterial otitis externa ([PMID 17503066](https://pubmed.ncbi.nlm.nih.gov/17503066/)). Historical records also document Nebacetin (bacitracin + neomycin) use in ear canal infections dating to the 1960s. The mechanistic rationale — gram-positive coverage for a mixed gram-positive/gram-negative infection — is more defensible than for PEK, though coverage gaps against *Pseudomonas aeruginosa* and the low quality of existing literature (largely pre-1975, no modern RCT) warrant caution. This indication is classified as a **Research Question** and represents the most promising direction for further investigation.
+**To proceed, the following is needed:**
+- The package insert warnings and contraindications, which are currently a blocking gap
+- DrugBank mechanism of action data
+- The labelled indications, so it is clear what counts as new use
+- A check of whether an ophthalmic formulation exists or is feasible
+- Evidence that bacterial infection contributes to this condition, plus any trials or literature testing bacitracin
 
-**To proceed with any indication, the following is needed:**
-- MOA data from DrugBank API (DG002 — currently missing, classified as High severity)
-- Package insert safety data including warnings, contraindications, and full DDI profile (DG001 — currently blocking)
-- For **Otitis Externa**: a focused systematic review comparing Bacitracin-containing topical formulations against current first-line agents (fluoroquinolone ear drops) to establish whether there is a residual clinical niche
-- For **Punctate Epithelial Keratoconjunctivitis**: prospective identification of the bacterial-etiology subset and whether ophthalmic Bacitracin preparations are already used off-label in this setting
-- Market authorization pathway assessment, given the current absence of any approved indications in the US or Taiwan regulatory record
+Among the other top-ranked predictions, otitis externa (rank 4) is the only one with any literature. That includes one double-blind study of 151 patients using a polymyxin B plus bacitracin ointment. It is graded L4 and marked "Research Question", and it may be a better lead than the current top prediction.
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -33,89 +33,83 @@ Evidence Level: **L3** | Predicted Indications: **1**
 
 ## One-Sentence Summary
 
-Decitabine is a DNA hypomethylating agent (DNMT inhibitor) with established efficacy in adult myelodysplastic syndromes (MDS), where FDA approval has been granted for that indication.
-The TxGNN model predicts it may be effective for **Refractory Cytopenia of Childhood (RCC)**, a rare pediatric subtype of MDS sharing overlapping epigenetic pathology.
-Currently, **no registered clinical trials** and **1 retrospective cohort publication** support this specific direction, placing this candidate at an early-evidence stage that warrants further investigation.
-
----
+Decitabine is a hypomethylating agent marketed in the US for myelodysplastic syndromes (MDS).
+The TxGNN model predicts it may be useful for **refractory cytopenia of childhood (RCC)**, the most common pediatric MDS subtype.
+Support is thin: **0 registered clinical trials** and **1 publication** (a single-center retrospective cohort in pediatric MDS).
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Myelodysplastic syndromes (MDS) — adult population, FDA-approved |
-| Predicted New Indication | Refractory Cytopenia of Childhood (RCC) |
-| TxGNN Prediction Score | 99.03% |
+|------|------|
+| Original Indication | Myelodysplastic syndromes (from general drug knowledge; the approved-indication text was empty in the input data) |
+| Predicted New Indication | Refractory cytopenia of childhood |
+| TxGNN Prediction Score | 99.03% (a model output, not clinical evidence) |
 | Evidence Level | L3 |
-| US Market Status | No license records in current dataset |
-| Number of NDAs | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+| US Market Status | ✓ Marketed |
+| Number of Licenses | 20 (generic ANDAs) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Decitabine is a nucleoside analog that functions as a **DNA methyltransferase (DNMT) inhibitor**. By incorporating into DNA during replication, it covalently traps DNMT enzymes, leading to progressive DNA hypomethylation. This mechanism reactivates silenced tumor suppressor genes and promotes differentiation of dysplastic hematopoietic progenitors — the core therapeutic rationale in myeloid disorders.
+Detailed mechanism-of-action data is not currently available in the input. Decitabine is a DNA methyltransferase inhibitor (hypomethylating agent). It is thought to reverse abnormal DNA hypermethylation in dysplastic blood-forming clones. This explanation comes from general knowledge of the drug class, not from the Evidence Pack.
 
-Refractory Cytopenia of Childhood is a distinct pediatric MDS subtype characterized by hypocellular bone marrow, peripheral cytopenias, and aberrant epigenetic regulation. RCC shares key molecular features with adult MDS, including dysregulation of DNMT3A/TET2 methylation pathways, making it biologically plausible that a DNMT inhibitor proven in adult MDS would carry activity in RCC. The clinical context further supports this: decitabine is used in pediatric MDS as bridging therapy before allogeneic hematopoietic stem cell transplantation (allo-HSCT), specifically because low-dose hypomethylation achieves disease control without excessive myelosuppression.
+RCC is the most common pediatric MDS subtype, so its biology overlaps with adult MDS, the setting where decitabine is already used. That makes the prediction biologically plausible.
 
-The TxGNN model's high confidence score (99.03%) reflects this strong mechanistic continuity. The prediction essentially extends an established adult indication into a pediatric subtype with shared pathobiology, which is one of the most defensible repurposing hypotheses in hematological oncology.
-
----
+The one available paper does not test decitabine alone. It studies decitabine as part of a minimally myelosuppressive regimen used to bridge children to allogeneic stem cell transplantation. The evidence therefore supports decitabine as a bridging or conditioning component, not as standalone therapy for RCC. The paper covers pediatric MDS in general, and no RCC-specific results are confirmed.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered specifically for Decitabine in Refractory Cytopenia of Childhood.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [35624441](https://pubmed.ncbi.nlm.nih.gov/35624441/) | 2022 | Retrospective Cohort | BMC Pediatrics | Single-center 10-year experience with decitabine-combined minimally myelosuppressive regimen (DAC + MMR) bridging to allo-HSCT in children with MDS; demonstrates feasibility of this approach in controlling disease prior to transplantation without excessive marrow toxicity |
-
----
+|------|-----|------|------|---------|
+| [35624441](https://pubmed.ncbi.nlm.nih.gov/35624441/) | 2022 | Cohort (inferred as retrospective, single center) | BMC Pediatrics | 10-year single-center experience with decitabine plus a minimally myelosuppressive regimen bridging to allo-HSCT in children with MDS. Only the study objective was available; outcome data and RCC-specific results were not confirmed. |
 
 ## US Market Information
 
-No NDA/licensing records are available in the current dataset for Decitabine. Note: Decitabine (brand name Dacogen) holds FDA approval for adult MDS in the United States — this should be retrieved and integrated into a follow-up data pull to complete regulatory context.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|------|
+| ANDA210756 | Decitabine | Lyophilized powder for injection | Fresenius Kabi USA, LLC |
+| ANDA204607 | Decitabine | Lyophilized powder for injection | Mylan Institutional LLC |
+| ANDA203131 | Decitabine | Lyophilized powder for injection | Dr. Reddy's Laboratories Inc. |
+| ANDA215355 | Decitabine | Lyophilized powder for injection | Camber Pharmaceuticals, Inc. |
+| ANDA203131 | Decitabine | Lyophilized powder for injection | Dr. Reddy's Laboratories Limited |
 
----
+The approved-indication text was not provided for these authorizations. All listed products are injectables.
 
 ## Cytotoxicity
 
-| Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted therapy — Hypomethylating Agent (Nucleoside analog / DNMT inhibitor) |
-| Myelosuppression Risk | **High** — Neutropenia, thrombocytopenia, and anemia are the most common dose-limiting toxicities; CBC nadir typically occurs within 2–4 weeks of treatment initiation |
-| Emetogenicity Classification | Low to moderate |
-| Monitoring Items | CBC with differential and platelet count (before each cycle and as clinically indicated), liver function tests, renal function (serum creatinine), serum electrolytes |
-| Handling Protection | Must be handled following cytotoxic drug safety regulations — gown, gloves, and appropriate containment during preparation and administration |
+This section is based on general knowledge of the drug class, not on the Evidence Pack. Please also refer to the package insert warnings and precautions.
 
----
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Conventional cytotoxic (hypomethylating nucleoside analog) |
+| Myelosuppression Risk | High (neutropenia and thrombocytopenia are common) |
+| Emetogenicity Classification | Low |
+| Monitoring Items | CBC with differential and platelets, liver and renal function |
+| Handling Protection | Follow hazardous (cytotoxic) drug handling regulations |
 
 ## Safety Considerations
 
-No key warnings, contraindications, or drug interaction data are available in the current Evidence Pack. Detailed safety information should be obtained directly from the Decitabine (Dacogen) FDA-approved prescribing information before any clinical or regulatory decision-making.
-
----
+Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The mechanistic link between Decitabine's DNMT-inhibition mechanism and the epigenetic pathology of RCC is scientifically sound and directly extends an established adult MDS indication into a pediatric subtype; however, the current evidence base consists of a single retrospective cohort study with no prospective trials, which is insufficient to support unguarded clinical advancement.
+The only evidence is one retrospective single-center cohort. It studies decitabine in a combination regimen for pediatric MDS in general, not as monotherapy or specifically in RCC. The package insert safety data is also missing, which blocks the safety screening step. The pediatric setting and the drug's high myelosuppression risk make that gap especially important.
 
 **To proceed, the following is needed:**
+- The FDA package insert (warnings, contraindications, approved indications), parsed into the safety data
+- Mechanism of action data from DrugBank
+- The full text of PMID 35624441, to confirm study design, population (RCC subgroup) and outcomes
+- A search of trial registries (including ICTRP) and the literature for RCC-specific decitabine studies
+- Pediatric dosing and toxicity data, particularly for combination regimens before transplant
 
-- **Regulatory data retrieval**: Pull the complete US FDA Dacogen label (prescribing information) to populate warnings, contraindications, boxed warnings, and dosing for pediatric populations
-- **Mechanism of action documentation**: Formally document decitabine's DNMT1/3A inhibition mechanism from DrugBank to support the mechanistic rationale section
-- **Clinical trial landscape review**: Search ClinicalTrials.gov and ICTRP for pediatric MDS or RCC trials that included decitabine even as a secondary arm, as targeted RCC-specific trials may be registered under broader pediatric MDS identifiers
-- **Additional literature search**: Expand PubMed query to include "decitabine pediatric MDS" and "5-azacytidine RCC" to capture hypomethylating class evidence beyond this single paper
-- **Pediatric dosing assessment**: Identify if any published pediatric pharmacokinetic/pharmacodynamic data exist for weight-based or BSA-based decitabine dosing in the RCC/pediatric MDS population
-- **Escalation path**: If supporting evidence is identified, consider prospective case series or a Phase 1/2 open-label pediatric trial as the appropriate next clinical step
+*This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

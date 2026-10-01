@@ -29,15 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-Using the drug-repurposing report skill implicitly follows the fixed template requested; producing the report now.
-
-# Phenol: From No Approved Indication to Acrodermatitis Chronica Atrophicans
+# Phenol: From Sore Throat Relief to Acrodermatitis Chronica Atrophicans
 
 ## One-Sentence Summary
 
-> Phenol (DrugBank DB03255) has no approved indication or original mechanism-of-action data on file — it is not currently marketed as a drug product in this jurisdiction.
-> The TxGNN model predicts it may be effective for **Acrodermatitis Chronica Atrophicans**, a Borrelia-associated chronic skin atrophy condition,
-> but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a pure algorithmic (model-only) prediction.
+Phenol is an old antiseptic and topical agent. Its US products include sore throat sprays and homeopathic pellets, and no approved indication text is on file.
+The TxGNN model predicts it may be effective for **acrodermatitis chronica atrophicans**, but **0 clinical trials** and **0 publications** support this prediction.
+It is a model-only prediction with no mechanistic link identified.
 
 ---
 
@@ -45,47 +43,57 @@ Using the drug-repurposing report skill implicitly follows the fixed template re
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no marketing authorization or approved indication on file for phenol |
-| Predicted New Indication | Acrodermatitis Chronica Atrophicans |
+| Original Indication | Not stated in the regulatory data (product names such as "Sore Throat" spray suggest oral/throat use) |
+| Predicted New Indication | Acrodermatitis chronica atrophicans |
 | TxGNN Prediction Score | 99.95% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for phenol is not currently available in this evidence pack, and no original approved indication is on file — DrugBank lists it only as a small molecule/reagent. What is generally known about phenol pharmacologically is its use as a topical keratolytic, antiseptic, and local anesthetic/caustic agent (e.g., in chemical peels and destructive procedures), but none of this is formally documented here as an "original indication."
+Currently, detailed mechanism of action data is not available for phenol. Its known general actions are protein denaturation, keratolysis, antisepsis and neurolysis. These support local antiseptic, analgesic and chemical-peel uses.
 
-Based on the model's own rationale, no plausible mechanistic bridge could be identified between phenol's known local pharmacological actions and the pathophysiology of acrodermatitis chronica atrophicans, which is a chronic Borrelia-infection-associated dermal atrophy disorder involving systemic infectious and immunologic processes — not a condition phenol's topical keratolytic/antiseptic properties would be expected to address. The high TxGNN score (99.95%) reflects graph-embedding similarity in the knowledge graph rather than any established or hypothesized clinical/biological mechanism, and is not corroborated by any clinical trial or literature evidence.
+Acrodermatitis chronica atrophicans is a late, chronic atrophic skin condition caused by *Borrelia* infection. None of phenol's known actions address this process. The 99.95% score is a knowledge-graph model output only. No trial, publication or mechanistic argument supports it, so the prediction is **not** considered credible at this stage.
+
+Among the other predicted indications, **acne keloid** (rank 5, score 99.94%) is the only one with a plausible, indirect rationale. Topical phenol chemical peels are used for acne scars and skin resurfacing, and a scar-remodeling or keratolytic rationale is conceivable. However, the literature found concerns acne scars and wrinkles, not acne keloid itself. It is best treated as a research question, not a treatment recommendation.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
 ---
 
 ## US Market Information
 
-No marketing authorizations were found for phenol in this jurisdiction — the compound is currently **not marketed** (0 licenses on record). No product name, dosage form, or approved-indication data is available to report.
+The approved indication text is not provided for any of the listed products.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| M022 | CVS Sore Throat | Spray | CVS Pharmacy, Inc. |
+| M022 | Chloraseptic Sore Throat Menthol | Spray | Prestige Brands Holdings, Inc. |
+| M022 | Rugby | Spray | Rugby Laboratories |
+| Not listed | Carbolicum acidum | Pellet | Boiron |
+| Not listed | Acidum Carbolicum | Pellet | Hahnemann Laboratories, Inc. |
+
+The record lists 20 authorizations in total; the table shows 5 of them.
 
 ---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-*(Note: key warnings, contraindications, and drug-interaction data are all marked as data gaps — notably, TFDA label warnings/contraindications are flagged as a **Blocking** data gap (DG001) that prevents even an initial safety assessment (S1) for this candidate.)*
 
 ---
 
@@ -94,13 +102,13 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN algorithmic score is high, but this specific prediction (acrodermatitis chronica atrophicans) has zero clinical trials, zero literature support, and no identifiable mechanistic rationale — it is evidence level L5, model-prediction-only. Combined with the absence of any original indication, MOA, or safety/label data for phenol, there is currently no basis to advance this candidate beyond initial screening.
+The prediction rests on a model score alone. There are no supporting trials or literature, and phenol has no known mechanism relevant to *Borrelia*-driven atrophic skin disease. Basic safety and mechanism data are also missing.
 
 **To proceed, the following is needed:**
-- TFDA/FDA package insert data (warnings, contraindications) — currently a **Blocking** gap (DG001)
-- Mechanism-of-action characterization via DrugBank or other pharmacology sources (DG002)
-- A targeted literature/trial search specifically for "phenol" + "acrodermatitis chronica atrophicans" (none of the reviewed data sources returned matches)
-- Consideration of re-scoping this evaluation toward a mechanistically more plausible candidate from the same prediction set — e.g., rank 5 "acne keloid" (L4 evidence, Research Question stage), which is grounded in phenol's documented use as a chemical peeling agent in dermatology, unlike the top-ranked candidate assessed here
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- For any dermatologic direction, a targeted literature review, with acne keloid as the first candidate to investigate
+- Route and dosage-form compatibility assessment against the predicted indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -33,33 +33,31 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Telotristat ethyl (Xermelo®) is a selective tryptophan hydroxylase 1 (TPH1) inhibitor approved by the US FDA for carcinoid syndrome diarrhea in adults whose symptoms are inadequately controlled by somatostatin analog therapy.
-The TxGNN model predicts it may be effective for **Cauda Equina Syndrome**, however with **0 clinical trials** and **0 publications** currently supporting this direction, the evidentiary foundation is entirely absent.
-Given the extremely weak mechanistic link and lack of any supporting data, this candidate is not recommended for further development at this stage.
+Telotristat ethyl is a tryptophan hydroxylase inhibitor marketed in the US as Xermelo for carcinoid syndrome diarrhea. The TxGNN model predicts it may be effective for **cauda equina syndrome**. This prediction rests on the model score alone, with **0 clinical trials** and **0 publications** supporting it.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Carcinoid syndrome diarrhea (US FDA-approved; not marketed in Taiwan) |
-| Predicted New Indication | Cauda Equina Syndrome |
+|------|------|
+| Original Indication | Carcinoid syndrome diarrhea (from general pharmacology knowledge; the license records provide no indication text) |
+| Predicted New Indication | Cauda equina syndrome |
 | TxGNN Prediction Score | 99.38% |
 | Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of NDAs (Taiwan) | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 (both records share NDA208794) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on established pharmacological knowledge, telotristat ethyl is a selective inhibitor of tryptophan hydroxylase 1 (TPH1) — the rate-limiting enzyme in peripheral serotonin biosynthesis — acting primarily within gastrointestinal enterochromaffin cells. By reducing intestinal serotonin production, it alleviates carcinoid syndrome diarrhea in patients with serotonin-secreting neuroendocrine tumors. It does not cross the blood-brain barrier and does not meaningfully inhibit central TPH2.
+Currently, detailed mechanism of action data is not available in the Evidence Pack. From general pharmacology, telotristat ethyl inhibits tryptophan hydroxylase, which lowers peripheral serotonin synthesis. That is why it works for carcinoid syndrome diarrhea.
 
-Cauda equina syndrome is a structural neurological emergency caused by mechanical compression of the nerve roots below L1 (most commonly from disc herniation, epidural hematoma, abscess, or tumor). Its pathophysiology is fundamentally biomechanical and inflammatory at the spinal level — not driven by peripheral serotonin excess. While serotonin does play a minor modulatory role in spinal pain circuits, the relevant receptors (5-HT₂, 5-HT₃, 5-HT₄) in that context are centrally located and would not be meaningfully reached by telotristat's gut-restricted TPH1 inhibition.
+The link to cauda equina syndrome is weak. Cauda equina syndrome is mainly a compressive, surgical neurological problem affecting the lumbosacral nerve roots. Lowering peripheral serotonin is unlikely to relieve nerve root compression, and the drug has limited CNS penetration.
 
-The repurposing rationale provided in this evidence pack explicitly flags the mechanistic link as "extremely weak," attributing the high TxGNN score to a likely knowledge graph topological artifact: serotonin's broad membership in neurological network nodes generates spurious signal rather than a genuine biological bridge between peripheral gut serotonin reduction and cauda equina nerve root compression. No independent evidence supports this candidate.
+The high score may reflect proximity in the knowledge graph. Cauda equina syndrome involves bowel and bladder dysfunction, and serotonin pathways touch gut and visceral function. That is a network association, not evidence of a disease-modifying effect. The prediction should be treated as a hypothesis only.
 
 ---
 
@@ -75,17 +73,20 @@ Currently no related literature available.
 
 ---
 
-## Taiwan Market Information
+## US Market Information
 
-Telotristat ethyl is not currently marketed in Taiwan. No NDA submissions were identified in the Taiwan FDA database as of the data cutoff (2026-06-22).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA208794 | Xermelo (Lexicon Pharmaceuticals, Inc.) | Tablet | Not listed in the license record |
+| NDA208794 | Xermelo (TerSera Therapeutics LLC) | Tablet | Not listed in the license record |
 
-> **Reference note:** Telotristat ethyl is commercially available in the United States as **Xermelo®** (Lexicon Pharmaceuticals), approved by the US FDA for carcinoid syndrome diarrhea in combination with somatostatin analog therapy. Stakeholders should consult the US FDA prescribing information for reference safety, dosing, and indication data in the absence of Taiwan-specific labeling.
+The only route of administration on record is oral.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No drug-interaction records were found for this drug.
 
 ---
 
@@ -94,15 +95,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-Despite a TxGNN prediction score of 99.38%, this score likely reflects a knowledge graph topological artifact rather than a true mechanistic signal; cauda equina syndrome is a structural neurological emergency with no plausible connection to peripheral gut serotonin inhibition, and there is zero supporting clinical or preclinical evidence.
+The prediction is model-only (L5), with no trials or publications behind it. The proposed mechanism does not plausibly address nerve root compression. The second predicted indication, "obsolete neurogenic bladder (disease)", is also model-only and points to an outdated ontology term.
 
 **To proceed, the following is needed:**
-
-- **MOA documentation**: Retrieve full mechanism of action from DrugBank API or the Xermelo® US prescribing information to formally document TPH1-selective inhibition profile
-- **Taiwan TFDA package insert**: Required to complete S1 safety screening (currently a blocking data gap — DG001)
-- **Biological plausibility study**: At minimum, a published preclinical study demonstrating that peripheral serotonin pathway modulation affects cauda equina syndrome outcomes would be required before this hypothesis can advance
-- **Knowledge graph audit**: Investigate whether this high-scoring prediction is reproducibly a false positive due to serotonin's broad neurological network membership in the TxGNN knowledge graph, to improve future prediction quality
-- **Secondary indication reassessment**: The second-ranked prediction (neurogenic bladder, rank 2) carries a slightly stronger theoretical rationale via pelvic serotonergic bladder control pathways, but is also L5 evidence and uses an "obsolete" disease node — this should be remapped to current terminology before further evaluation
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- A literature and trial search for telotristat ethyl in cauda equina syndrome and in neurogenic lower urinary tract dysfunction
+- Remapping of the obsolete neurogenic bladder term to a current concept, if that indication is pursued
+- A plausibility review of the mechanism, including CNS penetration, before any further investment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

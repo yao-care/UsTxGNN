@@ -29,78 +29,71 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-The `txgnn-pipeline` skill confirms this is standard TxGNN pipeline work. Now I'll generate the report following the Drug Repurposing Evaluation Report Prompt (v5) instructions.
-
----
-
-# Clobetasol Propionate: From Inflammatory Skin Disorders to Vulvar Inverted Follicular Keratosis
+# Clobetasol Propionate: From Topical Corticosteroid Use to Vulvar Inverted Follicular Keratosis
 
 ## One-Sentence Summary
 
-Clobetasol propionate is a super-potent (Class I/VII) topical corticosteroid widely used for severe inflammatory skin conditions such as psoriasis, lichen sclerosus, and chronic eczema.
-The TxGNN model predicts it may be effective for **Vulvar Inverted Follicular Keratosis**,
-but currently there are **no clinical trials** and **no publications** supporting this direction.
-
----
+Clobetasol propionate is a high-potency topical corticosteroid marketed in the US in several dosage forms, but the source data list no approved indication text for it.
+The TxGNN model predicts it may be effective for **vulvar inverted follicular keratosis**.
+**No clinical trials** and **no publications** currently support this prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Inflammatory skin disorders (no Taiwan regulatory approval data on file) |
-| Predicted New Indication | Vulvar Inverted Follicular Keratosis |
+|------|------|
+| Predicted New Indication | Vulvar inverted follicular keratosis |
 | TxGNN Prediction Score | 99.46% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Licenses | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known pharmacological class information, clobetasol propionate is a glucocorticoid receptor (GR) agonist. By activating GR, it suppresses the transcription factors NF-κB and AP-1, downregulating pro-inflammatory cytokines (IL-1β, TNF-α, IL-6) and inhibiting T-cell and mast cell activation. These effects account for its well-established efficacy in a broad range of inflammation-driven skin diseases.
+Currently, detailed mechanism of action data is not available in the source record. Clobetasol is a high-potency glucocorticoid receptor agonist with anti-inflammatory and antiproliferative effects. This is general pharmacology, not something the source data confirm.
 
-Vulvar inverted follicular keratosis (IFK), however, is a benign epithelial tumor — essentially a squamous proliferative lesion histologically characterized by squamous eddies and endophytic growth. Its pathogenesis involves abnormal follicular epithelial differentiation rather than a sustained inflammatory cascade. There is no established mechanistic rationale for why glucocorticoid-mediated anti-inflammation would modify the course of this tumor.
-
-The TxGNN model's high prediction score (99.46%) most likely arises from broad node proximity between "vulvar skin disease" entities within the knowledge graph, rather than a genuine mechanistic connection between clobetasol and IFK. This is considered a probable false positive from the model, and no clinical or preclinical evidence exists to substantiate this repurposing direction.
-
----
+The link to a benign follicular keratotic lesion is speculative. This lesion is usually managed by excision or biopsy, and no source data connect clobetasol to it. The high TxGNN score is a computational prediction only, and it has no clinical support at this stage.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## US Market Information
+
+The record lists 20 authorizations in total. The main ones are below; none includes approved indication text in the source data.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA211494 | Clobetasol Propionate | Solution | A-S Medication Solutions |
+| ANDA210034 | Clobetasol Propionate | Cream | Bryant Ranch Prepack |
+| ANDA212982 | Clobetasol Propionate Cream USP, 0.05% | Cream | Encube Ethicals, Inc. |
+| ANDA205249 | Clobetasol Propionate | Lotion | Viona Pharmaceuticals Inc |
+| ANDA090974 | Clobetasol Propionate | Shampoo | Bryant Ranch Prepack |
+
+Other marketed forms across the 20 authorizations include ointment and gel.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Vulvar inverted follicular keratosis is a benign, non-inflammatory epithelial tumor whose pathogenesis (abnormal follicular epithelial differentiation) has no biologically plausible connection to clobetasol's anti-inflammatory glucocorticoid mechanism. With zero supporting clinical trials or literature, and a TxGNN score that likely reflects knowledge graph structural artifact rather than true mechanistic overlap, there is no basis to advance this candidate.
+The prediction has a high model score but no trials, no literature, and only a speculative mechanistic link. Evidence is at L5 (model prediction only).
 
 **To proceed, the following is needed:**
-- Obtain detailed MOA data from DrugBank API (DG002 remediation) to formally characterize the mechanistic gap
-- Download Taiwan FDA package insert PDF to assess warnings and contraindications (DG001 remediation — currently Blocking)
-- Conduct a literature review on IFK pathobiology to determine whether any glucocorticoid-responsive pathway (e.g., keratinocyte differentiation via GR) is plausibly involved
-- Evaluate preclinical in vitro data (e.g., effect of clobetasol on squamous epithelial cell lines) before any further clinical consideration
+- Package insert warnings, contraindications and approved indications
+- Mechanism of action data (for example from DrugBank)
+- Any clinical or case-level evidence for clobetasol in this specific lesion
+- Comparison with other predicted indications for this drug that have more support. Acne keloidalis (open-label study, L3) and exanthem (indirect trial evidence in steroid-responsive dermatoses, L3) are the two examples in this pack. Both are still research questions and neither is a confirmed new use.
 
----
-
-> **Note on higher-ranked evidence within this Evidence Pack:** While the top TxGNN prediction (Rank 1) warrants a Hold, Rank 3 — **Exanthem (disease)** — carries an **L1 evidence level** with multiple completed Phase 3/4 RCTs directly testing clobetasol (e.g., [NCT05010421](https://clinicaltrials.gov/study/NCT05010421), [NCT01323673](https://clinicaltrials.gov/study/NCT01323673)) and a **"Proceed with Guardrails"** recommendation. A separate targeted report on the Exanthem/Lichen Sclerosus/Lichen Planus indication cluster is strongly recommended as the primary repurposing opportunity for this drug.
+This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

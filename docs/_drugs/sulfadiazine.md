@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Sulfadiazine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1186
-evidence_level: L3
+evidence_level: L5
 indication_count: 2
 ---
 
 # Sulfadiazine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,89 +29,88 @@ Evidence Level: **L3** | Predicted Indications: **2**
 
 </div>
 
-# Sulfadiazine: From Bacterial Infections to Pneumocystosis
+# Sulfadiazine: From Sulfonamide Antibacterial to Pneumocystosis
 
 ## One-Sentence Summary
 
-> Sulfadiazine is a sulfonamide antibacterial; its formally documented original indication is not available in this evidence pack (mechanism of action is also marked as a data gap).
-> The TxGNN model predicts it may be effective for **Pneumocystosis**,
-> with **0 clinical trials** and **20 publications** currently supporting this direction, though the strongest data are historical case series/case reports rather than controlled trials.
-
----
+Sulfadiazine is an oral sulfonamide antibacterial marketed in the US as generic tablets.
+The TxGNN model predicts it may be effective for **pneumocystosis**, but there are **0 registered clinical trials** and only **19 publications**, mostly older reviews and case reports.
+Several of these papers concern sulfadiazine combined with pyrimethamine, mainly for toxoplasmosis, so the evidence for sulfadiazine alone in pneumocystosis is weak.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (data gap — drug is classified as a sulfonamide antibacterial, but no approved indication text is present in this evidence pack) |
 | Predicted New Indication | Pneumocystosis |
 | TxGNN Prediction Score | 99.39% |
-| Evidence Level | L3 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Licenses | 0 |
+| Evidence Level | L4 (no trials; only reviews and case-level reports) |
+| US Market Status | ✓ Marketed |
+| Number of Licenses | 2 (both ANDAs; no NDA) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, Sulfadiazine is a sulfonamide-class antimicrobial; its efficacy — particularly in combination with pyrimethamine — is well documented in the treatment of toxoplasmic encephalitis in AIDS patients, and mechanistically may be applicable to Pneumocystosis.
+Currently, detailed mechanism of action data is not available in the supplied record. From general pharmacology, sulfadiazine is a sulfonamide that inhibits dihydropteroate synthase (DHPS) in the folate synthesis pathway. Sulfonamide-based regimens such as trimethoprim-sulfamethoxazole are established therapy for *Pneumocystis* pneumonia, so a class-level mechanistic link is plausible, and the high TxGNN score is consistent with it.
 
-Sulfadiazine inhibits pathogen dihydropteroate synthase (DHPS), blocking the folate synthesis pathway. This is the same mechanistic class as the current standard-of-care for PCP, trimethoprim-sulfamethoxazole (sulfamethoxazole is also a sulfonamide). Historical literature shows sulfadiazine, when combined with pyrimethamine, has mainly been used to treat toxoplasmic encephalitis in AIDS patients, and has been used as a treatment/prophylaxis option in immunocompromised patients with concurrent *Pneumocystis carinii* (now *P. jirovecii*) pneumonia.
-
-The mechanistic link is plausible but is drawn largely from combination-therapy contexts (sulfadiazine + pyrimethamine treating concurrent toxoplasmosis and PCP), rather than direct evidence of sulfadiazine monotherapy for PCP. This distinction should be kept in mind when interpreting the prediction.
-
----
+The link is indirect, though. Sulfadiazine is not the standard agent for pneumocystosis. Its documented clinical role is mainly in toxoplasmosis, usually combined with pyrimethamine. The one report on the pneumocystosis question (PMID 2645082) also uses the pyrimethamine-sulfadiazine combination. Sulfadiazine's own contribution cannot be separated from pyrimethamine or from the general sulfonamide effect.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
+
+Of the 19 publications retrieved, the 10 most relevant are shown. Several abstracts are missing, so those summaries rely on the title.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [2645082](https://pubmed.ncbi.nlm.nih.gov/2645082/) | 1989 | Case Series | Clinical Pharmacy | Pyrimethamine-sulfadiazine used for treating PCP and toxoplasmosis in AIDS patients |
-| [5315969](https://pubmed.ncbi.nlm.nih.gov/5315969/) | 1971 | N/A | Annals of Internal Medicine | Early report of PCP treated with pyrimethamine and sulfadiazine |
-| [12645193](https://pubmed.ncbi.nlm.nih.gov/12645193/) | 2002 | N/A | J Formosan Med Assoc | AIDS patient with Toxoplasma brain abscess and concurrent atypical PCP treated with clindamycin plus sulfadiazine (Taiwan case) |
-| [7355683](https://pubmed.ncbi.nlm.nih.gov/7355683/) | 1980 | Review | American Family Physician | Lists quinine-pyrimethamine-sulfadiazine and TMP-SMX among antiprotozoal drugs of choice, including for PCP |
-| [2121456](https://pubmed.ncbi.nlm.nih.gov/2121456/) | 1990 | Review | Drugs | Reviews therapy/prophylaxis of *Pneumocystis carinii*, *Toxoplasma gondii* and other systemic protozoan infections, including sulfadiazine regimens |
-| [3914245](https://pubmed.ncbi.nlm.nih.gov/3914245/) | 1985 | N/A | Archives Françaises de Pédiatrie | Pediatric PCP in immunodeficient patients; discusses TMP-based treatment approach |
-| [2011633](https://pubmed.ncbi.nlm.nih.gov/2011633/) | 1991 | Review | Primary Care | Reviews AIDS-associated parasitic diseases including PCP, noting PCP occurs in >80% of AIDS patients |
-| [9097375](https://pubmed.ncbi.nlm.nih.gov/9097375/) | 1997 | Review | Seminars in Respiratory Infections | Reviews Toxoplasma pneumonia pathogenesis and treatment in immunocompromised hosts |
-| [1836573](https://pubmed.ncbi.nlm.nih.gov/1836573/) | 1991 | N/A | Presse Médicale | Discusses folinic acid use to manage cytopenia from antiparasitic regimens (incl. pyrimethamine-sulfadiazine) in AIDS patients treated for PCP/toxoplasmosis |
-| [1088340](https://pubmed.ncbi.nlm.nih.gov/1088340/) | 1975 | N/A | Annals of Internal Medicine | Reports hazard of folinic acid combined with pyrimethamine and sulfadiazine |
+| [2645082](https://pubmed.ncbi.nlm.nih.gov/2645082/) | 1989 | Clinical report (design not verifiable) | Clinical Pharmacy | Pyrimethamine-sulfadiazine for *Pneumocystis carinii* pneumonia and toxoplasmosis in AIDS |
+| [5315969](https://pubmed.ncbi.nlm.nih.gov/5315969/) | 1971 | Clinical report (not classified) | Ann Intern Med | *Pneumocystis carinii* pneumonia treated with pyrimethamine and sulfadiazine |
+| [2969023](https://pubmed.ncbi.nlm.nih.gov/2969023/) | 1988 | Not classified (title suggests review) | J Infect Dis | *Pneumocystis carinii* pneumonia: therapy and prophylaxis |
+| [4580723](https://pubmed.ncbi.nlm.nih.gov/4580723/) | 1973 | Review | Transplant Proc | Diagnosis and treatment of pneumocystosis and toxoplasmosis in immunosuppressed hosts |
+| [2121456](https://pubmed.ncbi.nlm.nih.gov/2121456/) | 1990 | Review | Drugs | Therapy and prophylaxis of systemic protozoan infections, including *Pneumocystis carinii* and *Toxoplasma gondii* |
+| [7355683](https://pubmed.ncbi.nlm.nih.gov/7355683/) | 1980 | Review | Am Fam Physician | Antiparasitic drugs overview; trimethoprim-sulfamethoxazole is the drug of choice for pneumocystis pneumonia, and sulfadiazine appears only in a malaria combination |
+| [2011633](https://pubmed.ncbi.nlm.nih.gov/2011633/) | 1991 | Review | Prim Care | Protozoan infections in AIDS; PCP is the most common opportunistic infection in AIDS |
+| [12645193](https://pubmed.ncbi.nlm.nih.gov/12645193/) | 2002 | Case report | J Formos Med Assoc | Toxoplasma brain abscess with concurrent atypical PCP in an AIDS patient in Taiwan, treated with clindamycin plus sulfadiazine |
+| [8248069](https://pubmed.ncbi.nlm.nih.gov/8248069/) | 1993 | Not classified | Presse Med | Sulfonamide intolerance is very frequent in HIV-infected patients, about 10 times more common than in the general population |
+| [1088340](https://pubmed.ncbi.nlm.nih.gov/1088340/) | 1975 | Not classified | Ann Intern Med | Hazard of folinic acid with pyrimethamine and sulfadiazine |
 
----
+No RCTs are present. Most papers are reviews from 1971-2002, and several concern toxoplasmosis rather than *Pneumocystis*.
 
-## Taiwan Market Information
+## US Market Information
 
-Sulfadiazine is currently not marketed in Taiwan; no license records are available in this evidence pack (`total_licenses: 0`).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA080084 | sulfADIAZINE (Chartwell RX, LLC) | Tablet (oral) | Not stated in the record |
+| ANDA040091 | SULFADIAZINE (Epic Pharma, LLC) | Tablet (oral) | Not stated in the record |
 
 ## Safety Considerations
 
-TFDA label warnings and contraindications for this drug are currently a **blocking data gap** (DG001) — without this information, the candidate cannot proceed past the S1 safety screening stage. No drug-drug interaction records were found in the evidence pack either.
+- **Drug Interactions**: The interaction query returned no records, which does not mean no interactions exist.
+- **Literature signals (not label data)**:
+  - Sulfonamide intolerance is much more common in HIV-infected patients (PMID 8248069).
+  - Antiinfective drugs, including sulfonamides, can cause kidney injury through tubular obstruction (PMID 9562233).
+  - Folinic acid combined with pyrimethamine and sulfadiazine has been flagged as hazardous (PMID 1088340).
 
-> Please refer to the official package insert / TFDA label for safety information once available.
-
----
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Evidence is currently limited to L3-level historical case series, case reports, and reviews (no clinical trials, no RCTs), and the internal scoring already places this candidate at decision stage S1 ("Research Question"). More critically, TFDA label warnings/contraindications data are missing (DG001, Blocking severity), which by definition blocks entry into safety pre-screening; the drug is also not currently marketed in Taiwan.
+The DHPS-based mechanism is plausible, but there are no registered trials and no direct evidence for sulfadiazine alone in pneumocystosis. Trimethoprim-sulfamethoxazole is the established sulfonamide therapy, and the supporting literature is dated and often about toxoplasmosis or combination regimens. The label warnings and contraindications are also missing, so safety screening cannot start.
+
+The second prediction, punctate epithelial keratoconjunctivitis (score 99.36%), has no trials, no literature and no clear mechanistic rationale, so it should also be held.
 
 **To proceed, the following is needed:**
-- Obtain TFDA label / package insert (warnings, contraindications) — resolves DG001, required before any safety assessment
-- Obtain confirmed mechanism of action via DrugBank API — resolves DG002, needed to strengthen the mechanistic rationale
-- Clarify whether prediction reflects sulfadiazine monotherapy or only sulfadiazine-pyrimethamine combination therapy for PCP
-- Seek prospective or controlled clinical evidence, since current literature is limited to older case-level reports (1971–2002)
+- Package insert warnings and contraindications for the marketed tablets
+- Mechanism of action data from DrugBank
+- A targeted search for direct sulfadiazine data in *Pneumocystis* (monotherapy versus combination)
+- A comparison against trimethoprim-sulfamethoxazole to see whether sulfadiazine offers any advantage, such as in patients who cannot take it
+- Confirmation that the oral tablet route suits pneumocystosis treatment and prophylaxis
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

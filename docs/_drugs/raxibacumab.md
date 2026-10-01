@@ -29,73 +29,68 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Raxibacumab: From Inhalational Anthrax to Postinfectious Vasculitis
+# Raxibacumab: From Anthrax to Postinfectious Vasculitis
 
 ## One-Sentence Summary
 
-Raxibacumab is a monoclonal antibody originally developed to neutralize *Bacillus anthracis* protective antigen (PA) for the treatment and post-exposure prophylaxis of inhalational anthrax. TxGNN's top-ranked prediction suggests possible efficacy in **postinfectious vasculitis**, but this signal is supported by **zero clinical trials** and **zero publications**, and the model's own rationale states no known mechanistic link exists — this is a graph-based (L5) prediction only, and the recommendation is **Hold**.
-
----
+Raxibacumab is a monoclonal antibody that neutralizes the anthrax toxin, and it is marketed in the US as an injection.
+The TxGNN model predicts it may be effective for **postinfectious vasculitis**, but this is a graph-based prediction only.
+There are **0 clinical trials** and **0 publications** supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in Taiwan regulatory data (drug is not marketed locally); publicly known original indication is inhalational anthrax (treatment and post-exposure prophylaxis) |
-| Predicted New Indication | Postinfectious Vasculitis |
+| Original Indication | Anthrax (the license record has no indication text; this is inferred from the drug's mechanism) |
+| Predicted New Indication | Postinfectious vasculitis |
 | TxGNN Prediction Score | 99.75% |
 | Evidence Level | L5 |
-| US Market Status | Not marketed (Not Marketed) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 (BLA125349) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data was not available as a structured field, but the evidence pack's rationale confirms raxibacumab acts as a monoclonal antibody that binds and neutralizes the protective antigen (PA) component of *B. anthracis* toxin — a highly pathogen-specific mechanism with no known role in general immune-complex-mediated vasculitis.
+Detailed mechanism of action data is not available in the source record. From the drug's known biology, raxibacumab binds the protective antigen (PA) of *Bacillus anthracis* and blocks anthrax toxin from entering cells. Its efficacy therefore depends on the presence of this specific toxin.
 
-Postinfectious vasculitis is a systemic immune-complex process that can follow a wide range of infections, but it is not driven by anthrax toxin or PA. The repurposing rationale explicitly states: *"與感染後血管炎（免疫複合物介導之全身性血管炎）無已知機轉關聯。TxGNN 高分屬圖譜共現訊號，無生物學基礎支持"* — i.e., the model's high score reflects knowledge-graph co-occurrence patterns rather than any established or plausible biological mechanism.
+The predicted indication does not fit this mechanism. Postinfectious vasculitis is generally driven by immune complexes or autoimmune mechanisms after an infection. Anthrax PA toxin is not involved, so the antibody has no known target in this disease. The high TxGNN score (99.75%) reflects patterns in the knowledge graph, not biological or clinical support.
 
-**Important context on the broader prediction set:** All eight ranked predictions in this evidence pack were reviewed. Ranks 1, 2, 4, 5, 6, 7, and 8 (postinfectious vasculitis, post-infectious syndrome, infective urethral stricture, otitis externa, Chagas cardiomyopathy, infection-related HUS, drug-induced osteoporosis) each explicitly lack mechanistic plausibility per their own rationale text, and none have any clinical trial or literature evidence — all are scored L5/Hold. Rank 3 ("post-bacterial disorder") is the only entry with strong evidence (L1, 3 clinical trials), but its own rationale flags that this is a **semantic restatement of the original anthrax indication**, not a genuine new indication — the trials listed (NCT02339155, NCT07478471, NCT02177721) all concern anthrax treatment/prophylaxis directly. It should therefore be treated as confirmation of the known label, not a repurposing candidate.
-
----
+The same weakness applies to the other seven predictions in the candidate list, including post-infectious syndrome, otitis externa, Chagas cardiomyopathy and drug-induced osteoporosis. Only infection-related hemolytic uremic syndrome offers a conceptual parallel, since it also involves a bacterial toxin. Even there, raxibacumab does not neutralize Shiga toxin.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
+The only trials found in the pack sit under a different, vaguer prediction ("post-bacterial disorder"). They study anthrax itself (vaccine interaction and observational use), so they do not support postinfectious vasculitis.
 
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-Raxibacumab currently has no license/authorization records in this jurisdiction (total_licenses: 0; market_status: Not marketed).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| BLA125349 | Raxibacumab (Emergent Manufacturing Operations Baltimore LLC) | Injection | Not listed in the record |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
----
+Please refer to the package insert for safety information. No drug-interaction records were found for this drug.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked candidate indication (postinfectious vasculitis) has no clinical trial or literature support, and the model's own mechanistic rationale confirms no biological basis for the association — this reflects knowledge-graph noise rather than a credible repurposing signal. The only prediction with substantive evidence (rank 3) is mechanistically identical to raxibacumab's existing anthrax indication and does not represent a novel therapeutic direction.
+The prediction rests on a model score alone (evidence level L5). There is no trial or literature support, and there is no plausible mechanistic link between an anti-anthrax-PA antibody and postinfectious vasculitis.
 
 **To proceed, the following is needed:**
-- Confirmed mechanism-of-action and TFDA label data (currently blocked per data gap DG001/DG002) before any safety evaluation can begin
-- A genuine mechanistic hypothesis linking PA-neutralizing antibody activity to a non-anthrax disease process, independent of graph co-occurrence scoring
-- If pursued further, reclassify rank 3 ("post-bacterial disorder") as label-confirmation evidence rather than a new-indication candidate, and exclude ranks 1, 2, 4–8 from further review given L5 status and explicit lack of biological plausibility
+- A defensible mechanistic hypothesis, or preclinical data, showing a role for PA toxin or its pathway in postinfectious vasculitis
+- The FDA package insert, including approved indication, warnings and contraindications, to allow safety screening
+- A literature search targeting raxibacumab (or anti-PA antibodies) in vasculitis
+- A specific disease definition and clinical rationale before any further assessment
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Quetiapine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1100
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 ---
 
 # Quetiapine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,93 +29,84 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-Using the evidence pack as provided. Note: I deviated from strictly using `predicted_indications[0]` (retinal dystrophy) as the headline candidate — the evidence pack's own `repurposing_rationale` and `scoring.recommendation: Hold` flag it as a likely false positive with no mechanistic or literature support. I used **rank 8 (trichotillomania)** instead, since it is the only candidate with actual mechanistic plausibility, literature support, and a non-"Hold" recommendation (`Research Question`). This is explained transparently in the report.
-
----
-
-# Quetiapine: From Psychiatric Disorders to Trichotillomania
+# Quetiapine: From Antipsychotic Use to Retinal Dystrophy
 
 ## One-Sentence Summary
 
-> Quetiapine is a second-generation (atypical) antipsychotic whose established use is in psychiatric disorders such as schizophrenia, bipolar disorder, and adjunctive treatment of major depressive disorder.
-> The TxGNN model's highest-scoring prediction (retinal dystrophy) has no supporting literature and is flagged internally as a likely false positive; a lower-ranked but mechanistically plausible candidate — **Trichotillomania** (hair-pulling disorder) — is supported by **7 case reports/reviews**, though **no clinical trials** currently exist.
-> Evidence remains at case-report level only (L4); this is a research hypothesis, not a validated repurposing opportunity.
-
----
+Quetiapine is an atypical antipsychotic that blocks 5-HT2A, D2, H1 and alpha1 receptors. The TxGNN model predicts it may be effective for **retinal dystrophy with or without extraocular anomalies**, but there are **0 clinical trials** and **no quetiapine-specific publications** for this indication. The prediction is a knowledge-graph output only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not specified in source data (Data Gap); quetiapine's established core indications are schizophrenia, bipolar disorder, and adjunctive major depressive disorder treatment |
-| Predicted New Indication | Trichotillomania (hair-pulling disorder) |
-| TxGNN Prediction Score | 99.38% (rank 8 of 10 candidates; note: rank 1 candidate "retinal dystrophy" scored 99.57% but is excluded — see rationale below) |
-| Evidence Level | L4 |
-| US Market Status | Not marketed |
-| Number of NDAs | 0 |
+| Original Indication | Not stated in the supplied US license records |
+| Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
+| TxGNN Prediction Score | 99.57% |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (the five listed below are ANDAs, i.e. generic applications) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action (MOA) data is marked as a Data Gap in this evidence pack. Based on known pharmacology, quetiapine is an atypical antipsychotic with antagonist activity at dopamine D2, serotonin 5-HT2A, histamine H1, and α1-adrenergic receptors. Its efficacy in schizophrenia, bipolar disorder, and adjunctive MDD treatment is well established.
+Currently, detailed source mechanism-of-action data is not available in the evidence pack. Quetiapine is known as a 5-HT2A/D2/H1/alpha1 receptor antagonist.
 
-Trichotillomania is classified within the obsessive-compulsive spectrum. Serotonergic and dopaminergic dysregulation has been implicated in impulse-control and OCD-spectrum disorders, giving a theoretical rationale for quetiapine's 5-HT2A/D2 antagonism to modulate compulsive hair-pulling behavior. However, this is not one of quetiapine's core approved indications, and the literature is limited to isolated case reports rather than controlled studies — one report (PMID 11212595) even describes quetiapine *exacerbating* obsessive-compulsive symptoms in a patient with trichotillomania, indicating the direction of effect is not fully consistent.
+Inherited retinal dystrophy is a genetic, structural and degenerative condition. Receptor antagonism is not known to alter its course, so no plausible mechanistic link was identified. The high score (0.996, model rank 10,672) reflects graph proximity in the knowledge graph, not a drug-specific mechanism.
 
-Separately, the model's top-ranked prediction by raw score — **retinal dystrophy with or without extraocular anomalies** — was reviewed and rejected as a viable candidate. It is a congenital/genetic ophthalmologic disorder with no known pathophysiological link to quetiapine's CNS receptor pharmacology, and the associated "literature" consists of unrelated general ophthalmology topics (orbital infections, congenital ptosis, oculomotor nerve anatomy), none of which mention quetiapine or antipsychotics. This is treated as a TxGNN model artifact (high score, no evidentiary backing) rather than a genuine repurposing signal. The same applies to ranks 2–7, 9–10 in this evidence pack (all L5, "Hold," zero literature).
-
----
+The 15 retrieved publications are general ophthalmic and orbital reviews and case reports. None mentions quetiapine, so they appear to be keyword matches on the disease term rather than evidence for the drug.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
+
+The 10 publications below were retrieved for the disease term. None of them studies quetiapine.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [19142421](https://pubmed.ncbi.nlm.nih.gov/19142421/) | 2008 | Case report | Rev Bras Psiquiatr | Reports use of quetiapine for treatment of trichotillomania |
-| [12405081](https://pubmed.ncbi.nlm.nih.gov/12405081/) | 2002 | Review/Case series | Psychiatry | Overview of trichotillomania treatments; describes favorable response to quetiapine in a 33-year-old patient |
-| [11212595](https://pubmed.ncbi.nlm.nih.gov/11212595/) | 2001 | Case report | J Psychiatry Neurosci | **Contradictory finding**: quetiapine exacerbated obsessive-compulsive symptoms in a patient with comorbid trichotillomania and OCD |
-| [20833945](https://pubmed.ncbi.nlm.nih.gov/20833945/) | 2010 | Case report | Psychosomatics | Case of recurrent Rapunzel syndrome and trichotillomania; literature review of treatment options |
-| [38797877](https://pubmed.ncbi.nlm.nih.gov/38797877/) | 2025 | Review | Int J Dermatol | Notes lack of consensus/guidelines for pharmacological treatment of trichotillomania |
-| [27840761](https://pubmed.ncbi.nlm.nih.gov/27840761/) | 2016 | Case report | Case Rep Psychiatry | Trichotillomania as a manifestation of dementia; treatment not well characterized |
-| [17484394](https://pubmed.ncbi.nlm.nih.gov/17484394/) | 2006 | Review | J Pract Nurs | General treatment overview of trichotillomania |
-
-**Note:** Evidence is entirely case-report/narrative-review level. One report (11212595) shows an adverse/paradoxical effect, so the signal is not unanimous.
-
----
+| [9416661](https://pubmed.ncbi.nlm.nih.gov/9416661/) | 1997 | Review | Seminars in Ultrasound, CT, and MR | Overview of orbital infections, most often caused by sinusitis |
+| [20127583](https://pubmed.ncbi.nlm.nih.gov/20127583/) | 2010 | Review | Seminars in Neurology | Systematic approach to evaluating diplopia |
+| [38321238](https://pubmed.ncbi.nlm.nih.gov/38321238/) | 2024 | Review | Pediatric Radiology | Differential diagnosis and imaging of pediatric ocular pathologies |
+| [38249493](https://pubmed.ncbi.nlm.nih.gov/38249493/) | 2023 | Review | Taiwan Journal of Ophthalmology | Congenital anomalies of lens shape |
+| [22241537](https://pubmed.ncbi.nlm.nih.gov/22241537/) | 2012 | Review | Klinische Monatsblätter für Augenheilkunde | Congenital ptosis and its associated findings |
+| [7035111](https://pubmed.ncbi.nlm.nih.gov/7035111/) | 1981 | Review | Documenta Ophthalmologica | Wagner-Stickler syndrome complex: vitreoretinal degeneration with systemic features |
+| [33806565](https://pubmed.ncbi.nlm.nih.gov/33806565/) | 2021 | Cohort | Int J Mol Sci | Optic nerve head and retinal abnormalities in congenital fibrosis of the extraocular muscles |
+| [30196776](https://pubmed.ncbi.nlm.nih.gov/30196776/) | 2018 | Review | J Binocul Vis Ocul Motil | Congenital cranial dysinnervation disorders and ophthalmoplegia |
+| [24932988](https://pubmed.ncbi.nlm.nih.gov/24932988/) | 2014 | Review | American Journal of Ophthalmology | Pathogenesis and treatment of maculopathy with cavitary optic disc anomalies |
+| [109006](https://pubmed.ncbi.nlm.nih.gov/109006/) | 1979 | Case report | American Journal of Ophthalmology | Two cases of unilateral cryptophthalmia |
 
 ## US Market Information
 
-Quetiapine is currently recorded as **not marketed** in this jurisdiction's dataset, with 0 license records available. No authorization table can be produced. (This appears inconsistent with quetiapine's known global availability — likely a data completeness gap in the current regulatory dataset rather than true absence from market; recommend verification against the primary FDA/regulatory source.)
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA204203 | Quetiapine (Major Pharmaceuticals) | Tablet, film coated, extended release | Not stated in source data |
+| ANDA201504 | Quetiapine Fumarate (A-S Medication Solutions) | Tablet | Not stated in source data |
+| ANDA207655 | Quetiapine Fumarate (Aurobindo Pharma) | Tablet, film coated, extended release | Not stated in source data |
+| ANDA091388 | Quetiapine Fumarate (NorthStar Rx) | Tablet, film coated | Not stated in source data |
+| ANDA201190 | Quetiapine Fumarate (Sun Pharmaceutical Industries) | Tablet, film coated | Not stated in source data |
 
----
+All listed forms are oral.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-*(Key warnings, contraindications, and drug-interaction data are all marked as Data Gaps in this evidence pack — notably flagged as `Blocking` severity in the metadata, meaning this candidate cannot pass initial safety screening (S1) until resolved.)*
-
----
+Please refer to the package insert for safety information. No drug-interaction records were found in the evidence pack.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only mechanistically plausible and literature-supported candidate (trichotillomania) is backed solely by case reports/case series (L4), including one contradictory finding, with no clinical trials in progress. Additionally, a Blocking-severity data gap exists for local safety labeling (warnings/contraindications), which prevents even a preliminary safety assessment (S1).
+The prediction rests only on a knowledge-graph score. There are no trials, the retrieved literature never mentions quetiapine, and no mechanistic link to inherited retinal dystrophy was found.
 
 **To proceed, the following is needed:**
-- Resolve DG001 (Blocking): obtain and parse official label warnings/contraindications before any safety-stage evaluation
-- Resolve DG002 (High): confirm quetiapine's MOA via DrugBank API to strengthen mechanistic rationale documentation
-- Verify actual local market/licensing status (current "not marketed / 0 licenses" appears inconsistent with known global data)
-- If pursuing the trichotillomania hypothesis further: seek a small prospective pilot study or systematic review, given the single contradictory case report
-- Do not pursue rank 1–7, 9–10 candidates (retinal dystrophy, glycosylation disorder, hydranencephaly, etc.) — no biological plausibility or evidence identified; likely TxGNN scoring artifacts
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Source mechanism-of-action data from DrugBank
+- Any preclinical or clinical study of quetiapine in retinal degeneration, none of which was found
+
+**Note on other predictions in this pack:** Only trichotillomania (rank 8, score 99.38%) has quetiapine-specific literature. It is rated L4 and a "Research Question". The literature consists of case reports and narrative reviews (PMIDs 12405081, 19142421, 11212595), with no registered trials and no controlled evidence. Quetiapine's serotonergic and dopaminergic antagonism gives a plausible rationale, but its metabolic and sedative adverse effects must be weighed against a non-life-threatening condition. First-line options such as habit-reversal therapy and N-acetylcysteine were not compared here. The remaining eight predictions have no supporting evidence and are all on Hold.
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

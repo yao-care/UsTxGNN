@@ -29,75 +29,71 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Lithium Carbonate: From No Registered Indication to Pseudoachondroplasia
+# Lithium Carbonate: From Its Current US-Marketed Use to Pseudoachondroplasia
 
 ## One-Sentence Summary
 
-Lithium carbonate (DrugBank DB14509) has no approved indication or licensed product on file in the available regulatory data, and detailed mechanism-of-action data is currently a gap. The TxGNN model's top prediction for this drug is **Pseudoachondroplasia**, with a prediction score of **99.98%**, but currently **0 clinical trials** and **0 publications** specifically support this candidate, and the underlying knowledge-graph signal may reflect score clustering rather than a disease-specific association.
-
----
+Lithium carbonate is an established oral drug that is widely marketed in the United States. The TxGNN model predicts it may be effective for **pseudoachondroplasia**, a rare skeletal dysplasia. This prediction has **0 clinical trials** and **0 publications** behind it, so it is a model-only signal.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no approved indication or marketing license on file |
 | Predicted New Indication | Pseudoachondroplasia |
 | TxGNN Prediction Score | 99.98% |
-| Evidence Level | L5 (model prediction only, no clinical or literature evidence) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for lithium carbonate is not available in the current dataset (data gap DG002, severity: High), and no approved indication or license record exists in this jurisdiction (market status: Not Marketed, 0 licenses on file). This significantly limits mechanistic and regulatory context for evaluating the prediction.
+Currently, detailed mechanism of action data is not available. The approved indication text was also not provided in the source data. The link between lithium carbonate and this disease therefore cannot be verified from the input.
 
-The repurposing rationale attached to this candidate anchors the prediction on lithium's known pharmacology as a **GSK-3β inhibitor / Wnt pathway modulator**. Pseudoachondroplasia is caused by COMP gene mutations leading to endoplasmic reticulum (ER) stress accumulation in chondrocytes. GSK-3/Wnt signaling is known to play a role in chondrocyte differentiation, but the evidence pack explicitly notes there is **no direct literature link** between this pathway and the ER-stress/protein-homeostasis mechanism underlying pseudoachondroplasia — the connection is inferential only.
+One speculative mechanism is worth noting. Lithium is known to inhibit GSK-3 and modulate Wnt signaling, and these pathways are involved in chondrocyte biology. That could make it relevant to skeletal dysplasias. This is a hypothesis only, and no supporting data was provided.
 
-Importantly, the evidence pack flags a specific caveat: within this prediction batch, multiple unrelated ultra-rare skeletal dysplasias received near-identical TxGNN scores (0.9998–0.9996), which raises the possibility that this is a **knowledge-graph structural clustering artifact** rather than a disease-specific signal. This should be weighed heavily when interpreting the score.
-
----
+The high score (99.98%) may partly reflect knowledge-graph proximity among skeletal dysplasia nodes rather than a validated pharmacological relationship. It should be treated as a lead for investigation, not as evidence of efficacy.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-No marketing authorizations are on file for lithium carbonate in this jurisdiction — the drug is currently classified as **Not Marketed**, with 0 registered licenses.
+The source data lists no approved indication text for these products.
 
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA204779 | Lithium Carbonate | Tablet, extended release | RemedyRepack Inc. |
+| ANDA076832 | Lithium Carbonate | Tablet, extended release | Hikma Pharmaceuticals USA Inc. |
+| ANDA076691 | Lithium Carbonate | Tablet, extended release | Hikma Pharmaceuticals USA Inc. |
+| ANDA079139 | Lithium Carbonate | Capsule | NCS HealthCare of KY, LLC dba Vangard Labs |
+| ANDA079139 | Lithium Carbonate | Capsule | American Health Packaging |
+
+The other marketed forms are oral tablets, gelatin-coated capsules and pellets.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug-interaction data are currently gaps — DG001, severity: Blocking, required before any S1 safety assessment can proceed.)
-
----
+Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This prediction is supported only by model score (L5) with no clinical trials or literature evidence, an inferential-only mechanistic link, and an explicit flag that the score may reflect knowledge-graph clustering across similar rare skeletal dysplasias rather than a true disease-specific signal.
+The prediction is supported only by the model score. There are no trials or publications, and the mechanism of action is unavailable. Among the other nine predicted indications, only brachyolmia-amelogenesis imperfecta syndrome has any literature: a general 2019 review of genetic skeletal disorders (PMID 31888683). Its content on lithium is unconfirmed.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (blocking gap, DG001)
-- Confirmed mechanism-of-action data for lithium carbonate (DG002)
-- Independent verification of whether the near-identical top-10 scores in this batch represent real signal or a structural artifact of the knowledge graph
-- Disease-specific pharmacological or preclinical evidence linking GSK-3/Wnt modulation to COMP-related ER stress in pseudoachondroplasia
-- Basic regulatory/indication data for lithium carbonate itself, since none is currently on file
+- Mechanism of action data (e.g., from DrugBank)
+- Package insert warnings and contraindications for a safety screen
+- A targeted literature search on lithium, GSK-3/Wnt signaling and chondrocyte or skeletal dysplasia models
+- Preclinical evidence, such as cell or animal model data, before any clinical consideration
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -33,60 +33,88 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Minoxidil was originally developed as an oral antihypertensive vasodilator and is internationally well known for its topical formulation approved for androgenetic alopecia (pattern hair loss). The TxGNN model predicts it may also be effective for **hypotrichosis simplex of the scalp**, a rare hereditary hair-thinning disorder, but this direction is currently supported only by **3 case reports** with no registered clinical trials.
+Minoxidil is a vasodilator that was first used as an oral antihypertensive and is now widely used topically for androgenetic alopecia (hair loss).
+The TxGNN model predicts it may be effective for **hypotrichosis simplex of the scalp**, a rare hereditary hair-thinning disorder.
+Evidence is thin: **0 registered clinical trials** and **3 publications**, all case reports in which minoxidil was combined with other treatments.
 
-*Note: this Evidence Pack contains 10 ranked predicted indications for minoxidil. This report focuses on the top-ranked candidate (hypotrichosis simplex of the scalp) per the standard report format; rank 3 (diffuse alopecia areata) carries substantially stronger evidence (L2, Proceed with Guardrails) and is flagged separately in the Conclusion.*
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Androgenetic Alopecia (topical) / Hypertension (oral) — not confirmed via Taiwan license data (drug not marketed in Taiwan); based on internationally established use referenced in the literature evidence itself |
-| Predicted New Indication | Hypotrichosis Simplex of the Scalp |
+| Original Indication | Androgenetic alopecia (topical use), based on the literature. The US licence records list no indication text. |
+| Predicted New Indication | Hypotrichosis simplex of the scalp |
 | TxGNN Prediction Score | 99.9999% |
 | Evidence Level | L4 |
-| US Market Status | Not marketed (Not Marketed in Taiwan) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 authorization records (mix of NDA, ANDA and OTC monograph entries) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for minoxidil is not available in this Evidence Pack (flagged as a High-severity data gap). Based on established pharmacology referenced within the pack's own literature (e.g., PMID 34159872), minoxidil is a potassium-channel opener and vasodilator that promotes prolongation of the anagen (growth) phase and increases perifollicular blood flow — the basis of its established use in androgenetic alopecia.
+Detailed mechanism-of-action data is not available in the DrugBank record. The mechanism below is drawn from the retrieved literature and the evidence review.
 
-Hypotrichosis simplex of the scalp (HSS) is a rare, monogenic, autosomal dominant disorder (commonly linked to CDSN mutations) causing sparse hair growth, but with follicles that are structurally present rather than destroyed. Because minoxidil's mechanism acts on viable follicles with cycling abnormalities, there is a theoretical rationale for extrapolation from androgenetic alopecia to HSS.
+Minoxidil is a prodrug. Its sulfate metabolite opens ATP-sensitive potassium (K-ATP) channels. This prolongs the anagen (growth) phase of the hair cycle and increases blood flow around the follicle. Reviews also describe additional pathways, including Wnt/β-catenin signaling and anti-inflammatory effects.
 
-However, HSS has a fundamentally different pathophysiology (a genetic desmosome-protein defect) from androgenetic alopecia (androgen-driven follicular miniaturization). The mechanistic link is plausible but indirect, and — as noted in the repurposing rationale — extrapolation strength is weak given the rarity and distinct genetic basis of the disease.
+Hypotrichosis simplex of the scalp is a rare, autosomal dominant disorder. Cases have been linked to variants in the *CDSN* gene, which encodes corneodesmosin. The hair follicles are present but produce sparse hair. A follicle-stimulating drug like minoxidil could plausibly help, and topical minoxidil is already established for the common hair-thinning disorder androgenetic alopecia.
+
+The three case reports do not isolate minoxidil's own effect. Each one combined it with another therapy: oral minoxidil with growth factors, minoxidil with botanic extracts, or topical minoxidil with platelet-rich plasma (PRP) injections. The high TxGNN score reflects the model's graph proximity to other hair-loss diseases and is not clinical proof.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [35761391](https://pubmed.ncbi.nlm.nih.gov/35761391/) | 2022 | Case report | Dermatologic therapy | Treatment of hereditary hypotrichosis simplex of the scalp using oral minoxidil combined with growth factors |
-| [39902296](https://pubmed.ncbi.nlm.nih.gov/39902296/) | 2024 | Case report | Frontiers in genetics | Familial HSS case (8-year-old male, CDSN mutation) treated with a combination of botanic extracts and minoxidil; underscores lack of definitive effective treatments for HSS |
-| [36651821](https://pubmed.ncbi.nlm.nih.gov/36651821/) | 2023 | Case report | The Journal of dermatological treatment | Successful treatment of hereditary hypotrichosis simplex (14-year-old patient) using platelet-rich plasma injection combined with topical minoxidil 2% |
+|------|-----|------|---------|---------|
+| [35761391](https://pubmed.ncbi.nlm.nih.gov/35761391/) | 2022 | Case report/series | Dermatologic Therapy | Hereditary hypotrichosis simplex of the scalp treated with oral minoxidil plus growth factors. No abstract is available, so outcome details could not be extracted. |
+| [39902296](https://pubmed.ncbi.nlm.nih.gov/39902296/) | 2024 | Case report | Frontiers in Genetics | An 8-year-old boy with *CDSN*-mutation hypotrichosis simplex of the scalp was treated with botanic extracts plus minoxidil. The paper notes that no definitive, effective treatment exists for this disease. |
+| [36651821](https://pubmed.ncbi.nlm.nih.gov/36651821/) | 2023 | Case report | Journal of Dermatological Treatment | A 14-year-old with hereditary hypotrichosis simplex was treated with PRP injections plus topical 2% minoxidil. The title reports successful treatment, but this is a single patient on combination therapy. |
+
+---
+
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form |
+|---------|------|------|
+| Not listed | 5% Minoxidil Topical Solution | Solution |
+| 505G(a)(3) | Hair Growth Foam | Aerosol, foam |
+| 505G(a)(3) | Hair Serum | Solution |
+| M032 | Psalmonica Hair Growth Serum | Liquid |
+| ANDA209074 | Hair Regrowth Treatment | Liquid |
+
+The licence records contain no approved-indication text. The full set of 20 records also includes shampoo and oral tablet forms.
+
+---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
+
+Oral minoxidil is a potent systemic vasodilator. It carries known risks of fluid retention, reflex tachycardia and pericardial effusion. This matters here because two of the three case reports used oral minoxidil or involved children.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only supporting evidence is 3 small case reports (Evidence Level L4) in an ultra-rare monogenic disease, with no clinical trials, no MOA data, and no Taiwan regulatory/safety data (Blocking data gap on TFDA label information). This is insufficient to move beyond a research question.
+The mechanism is plausible and the drug is already marketed for hair loss. However, the only support is three case reports on combination therapy, with no registered trials, so minoxidil's own contribution cannot be separated out. This is best treated as a research question for now.
 
 **To proceed, the following is needed:**
-- Detailed mechanism-of-action (MOA) data for minoxidil (currently a High-severity data gap)
-- TFDA label warnings/contraindications (currently a Blocking data gap preventing S1 safety screening)
-- Prospective or controlled studies (even small case series) specific to CDSN-related HSS
-- DDI profile, currently unresolved ("not_found")
-
-**Additional note:** Within this same Evidence Pack, rank 3 (**diffuse alopecia areata**) has a materially stronger evidence base — Evidence Level L2, multiple RCTs/systematic reviews, and a "Proceed with Guardrails" recommendation — and may be a more actionable repurposing candidate to prioritize ahead of hypotrichosis simplex.
+- Full-text review of the three case reports to extract dose, route, duration and outcomes
+- A small controlled study or case series comparing minoxidil alone with a comparator, in confirmed *CDSN*-related patients
+- The package insert warnings and contraindications, especially for oral use in children
+- The mechanism-of-action record from DrugBank
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

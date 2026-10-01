@@ -29,77 +29,72 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-Using the drug-repurposing report template supplied directly in your prompt (no matching specialized skill covers this exact task — this is the report-writing instruction itself), I've built the report strictly from the Evidence Pack fields, omitting sections with no data per the prohibitions (no cytotoxicity section — fluconazole is antifungal, not antineoplastic; no US/TW market table — zero licenses; no fabricated original-indication text).
-
----
-
-# Fluconazole: From No TFDA-Approved Indication to Punctate Epithelial Keratoconjunctivitis
+# Fluconazole: From Antifungal Therapy to Punctate Epithelial Keratoconjunctivitis
 
 ## One-Sentence Summary
 
-Fluconazole is a triazole antifungal agent, but no original indication list, mechanism-of-action detail, or Taiwan market license data is currently available for this candidate (the drug is recorded as **not marketed** in Taiwan with 0 licenses).
-The TxGNN model predicts possible efficacy for **Punctate Epithelial Keratoconjunctivitis**, with a prediction score of **99.24%**,
-but this direction is currently supported by **0 clinical trials** and **0 publications**, placing it at the lowest evidence tier.
-
----
+Fluconazole is an azole antifungal that is widely marketed in the United States.
+The TxGNN model predicts it may be effective for **punctate epithelial keratoconjunctivitis**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction is a model output only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no TFDA license records and empty original indication list |
-| Predicted New Indication | Punctate Epithelial Keratoconjunctivitis |
+| Original Indication | Not listed in the source data (fluconazole is an antifungal) |
+| Predicted New Indication | Punctate epithelial keratoconjunctivitis |
 | TxGNN Prediction Score | 99.24% |
 | Evidence Level | L5 |
-| US Market Status | Not marketed (Not Marketed) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap), and no original indication list is on record for this candidate. Based on the drug class information that is available, fluconazole is a **triazole antifungal**, which mechanistically inhibits the fungal cytochrome P450-dependent enzyme lanosterol 14-α-demethylase, blocking ergosterol synthesis and disrupting fungal cell membrane integrity.
+Detailed mechanism of action data is not available in the Evidence Pack. Fluconazole is known to inhibit fungal lanosterol 14-alpha-demethylase (CYP51), which blocks the synthesis of fungal cell membrane ergosterol.
 
-The predicted new indication, punctate epithelial keratoconjunctivitis (點狀上皮性角膜結膜炎), is in most cases caused by viral infection (e.g., adenovirus-associated epidemic keratoconjunctivitis) or by dry eye/immune-mediated pathology — only a minority of cases are fungal in origin (e.g., *Candida* or *Fusarium* keratitis presenting with punctate epithelial lesions). If a given case is confirmed fungal, fluconazole's antifungal mechanism has a plausible theoretical link to topical/systemic treatment of fungal keratitis.
+The link between this mechanism and the predicted indication is weak. Punctate epithelial keratoconjunctivitis is most often adenoviral or otherwise non-fungal, so an antifungal mechanism has no clear target. The high TxGNN score (0.992) likely reflects knowledge-graph proximity to ocular or antifungal-related nodes rather than real pharmacological rationale.
 
-However, because the disease label here does not specify a pathogen, this mechanistic link is **indirect and inferential rather than a direct pathophysiological connection**. This is further weakened by the absence of original MOA data, an empty original-indication list, and the drug's unmarketed status in Taiwan — all of which reduce the overall credibility of the prediction at this stage.
-
----
+Because the original indications are also missing from the input, the prediction cannot be checked against known drug biology. It should be treated as an unvalidated, low-plausibility hypothesis.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
----
+## US Market Information
+
+The source data lists 20 authorizations in total; the five main ones are shown below. Approved indication text was not provided for any of them.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer | Approved Indication |
+|---------|------|------|------|-----------|
+| ANDA078764 | Fluconazole | Injection | Hikma Pharmaceuticals USA Inc. | Not listed |
+| ANDA076658 | Fluconazole | Tablet | Cardinal Health 107, LLC | Not listed |
+| ANDA077731 | Fluconazole | Tablet | Sportpharm LLC | Not listed |
+| ANDA078698 | Fluconazole | Injection | Hikma Pharmaceuticals USA Inc. | Not listed |
+| ANDA078423 | Fluconazole | Tablet | Golden State Medical Supply, Inc. | Not listed |
+
+Available dosage forms include oral tablets, injections (including injection solutions), and powder for suspension. No ophthalmic (topical eye) formulation appears in the data.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-*(Note: TFDA label warnings/contraindications are recorded as a **Blocking** data gap — this must be resolved before any S1 safety pre-assessment can proceed.)*
-
----
+Please refer to the package insert for safety information. No drug interaction records were found in the queried source.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This candidate sits at Evidence Level L5 — a TxGNN model prediction with zero supporting clinical trials or literature — and the mechanistic rationale linking fluconazole to punctate epithelial keratoconjunctivitis is indirect, since the indication's etiology is predominantly non-fungal. The drug is also unmarketed in Taiwan (0 licenses), and a Blocking data gap on TFDA warnings/contraindications prevents any safety pre-assessment.
+The prediction rests on a model score alone (Evidence Level L5). No clinical trials or literature support it, and the antifungal mechanism does not plausibly match a mostly non-fungal condition.
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings/contraindications) — Blocking gap, required before S1 safety review
-- Confirmed mechanism of action (MOA) data via DrugBank
-- Original indication history for fluconazole to assess similarity to the predicted indication
-- Pathogen-specific evidence (culture/PCR-confirmed fungal keratitis) supporting relevance of the predicted indication before pursuing clinical or literature searches further
-- Any real-world or case-level evidence of antifungal use in fungal-associated punctate keratoconjunctivitis, since current searches (ClinicalTrials.gov, ICTRP, PubMed) returned zero results
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank and the original approved indications
+- A literature and trial search for fluconazole in punctate epithelial keratoconjunctivitis and fungal keratitis
+- An assessment of route compatibility, since the marketed forms are oral and injectable and no ophthalmic formulation is listed
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

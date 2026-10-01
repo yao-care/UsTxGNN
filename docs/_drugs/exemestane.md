@@ -33,27 +33,29 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 ## One-Sentence Summary
 
-Exemestane is a steroidal aromatase inhibitor historically used in hormone receptor-positive breast cancer (inferred from literature context in this evidence pack; not present in the structured indication field). The TxGNN model's top-ranked prediction for this drug is **Antithrombin Deficiency Type 2**, but this direction is currently supported by **0 clinical trials** and **0 publications** — it is a model-score-only association.
+Exemestane is an irreversible steroidal aromatase inhibitor that lowers estrogen and is marketed in the US as Aromasin and several generics.
+The TxGNN model predicts it may be effective for **antithrombin deficiency type 2**, but this is a knowledge-graph prediction only.
+There are **0 clinical trials** and **0 publications** supporting it, and no plausible mechanistic link was found.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Breast cancer (hormone receptor-positive) — inferred from literature context; not recorded in structured data |
-| Predicted New Indication | Antithrombin Deficiency Type 2 |
+| Original Indication | Breast cancer (the license records contain no indication text; this is inferred from the drug class and the retrieved literature) |
+| Predicted New Indication | Antithrombin deficiency type 2 |
 | TxGNN Prediction Score | 99.83% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 11 (one NDA plus generic ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for exemestane is not available in this evidence pack (data gap DG002, High severity). Based on information embedded in this same batch's supporting literature (see the amenorrhea candidate below), exemestane is a steroidal aromatase inhibitor that suppresses estrogen synthesis and has established use in hormone receptor-positive breast cancer.
+Detailed mechanism of action data are not available in the Evidence Pack. Based on known information, exemestane blocks the aromatase enzyme irreversibly, which reduces the conversion of androgens into estrogens and lowers circulating estrogen.
 
-For the top-ranked candidate itself, **Antithrombin Deficiency Type 2**, the evidence pack's own mechanistic rationale states there is no known biological connection between aromatase inhibition/estrogen suppression and this inherited anticoagulant-factor disorder. Searches of ClinicalTrials.gov, ICTRP, and PubMed for this drug-disease pair returned zero results. This candidate reflects a TxGNN graph-embedding association rather than a pharmacologically grounded hypothesis.
+That mechanism does not connect to the predicted disease. Antithrombin deficiency type 2 is an inherited defect in the antithrombin protein (SERPINC1), and lowering estrogen does not correct it. The high score (0.998) most likely reflects clustering of coagulation-related disease nodes in the knowledge graph, not drug-specific biology.
 
-For context, the same batch scored six additional candidates (ranks 2–7), all rated L5/Hold except amenorrhea (rank 2, L4). Even there, the underlying literature describes AI-induced ovarian suppression as a *cause* of amenorrhea in premenopausal breast cancer patients — the opposite of a therapeutic relationship. None of the seven candidates in this evidence pack currently support advancing past a preliminary hold.
+Three other high-scoring predictions for this drug (factor V excess, heparin cofactor 2 deficiency and thrombophilia) have similar scores. They appear to come from the same knowledge-graph neighborhood and should not be read as independent signals.
 
 ## Clinical Trial Evidence
 
@@ -65,13 +67,21 @@ Currently no related literature available.
 
 ## US Market Information
 
-No license records found. Exemestane is currently not marketed in the surveyed jurisdiction (0 approvals on file).
+The license records contain no approved-indication text, so that column is omitted.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA209208 | Exemestane | Tablet | Upsher-Smith Laboratories, Inc. |
+| ANDA210323 | Exemestane | Tablet | Cipla USA Inc. |
+| NDA020753 | Aromasin | Tablet | Pharmacia & Upjohn Company LLC |
+| ANDA216454 | Exemestane | Film-coated tablet | NorthStar Rx LLC |
+| ANDA213547 | Exemestane | Film-coated tablet | Florida Pharmaceutical Products, LLC |
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Hormonal/endocrine therapy (steroidal aromatase inhibitor) — not conventional cytotoxic chemotherapy; does not map cleanly onto the standard cytotoxic/targeted/immunotherapy categories |
+| Cytotoxicity Classification | Hormonal (endocrine) therapy, a steroidal aromatase inhibitor. It is not a conventional cytotoxic chemotherapy. |
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
 | Monitoring Items | Please refer to the package insert warnings and precautions |
@@ -81,18 +91,21 @@ No license records found. Exemestane is currently not marketed in the surveyed j
 
 Please refer to the package insert for safety information.
 
+Antithrombin deficiency is a thrombotic disorder, so any use in that setting would need a dedicated thromboembolic safety review.
+
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked candidate (Antithrombin Deficiency Type 2) has zero clinical trial or literature support and no stated mechanistic link — evidence level L5 reflects a model-score-only prediction. A blocking data gap on TFDA safety labeling (DG001) and a complete absence of MOA data (DG002) further preclude any safety-informed decision at this stage.
+The prediction rests only on a knowledge-graph score. There are no trials or literature, and the estrogen-lowering mechanism does not address an inherited antithrombin protein defect.
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings/contraindications) — blocking gap DG001
-- Exemestane MOA/DrugBank profile confirmation — data gap DG002
-- A dedicated mechanistic/literature search specifically testing an aromatase–antithrombin pathway link, if one exists
-- If pursuing amenorrhea (rank 2) as an alternative, resolve the therapeutic-direction mismatch — current evidence describes AI-induced amenorrhea, not AI as an amenorrhea treatment
+- A credible mechanistic hypothesis linking aromatase inhibition to antithrombin function. Without one, this candidate should be deprioritized.
+- Package insert warnings and contraindications (a blocking gap for safety screening) and detailed MOA data from DrugBank.
+- Any preclinical or clinical signal for this indication. None currently exists.
+
+Also on hold (all Hold): amenorrhea (literature is indirect, and amenorrhea is a treatment outcome in these studies, not something exemestane treats), factor V excess, heparin cofactor 2 deficiency, thrombophilia, migraine disorder and migraine with brainstem aura. None has trial evidence.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,84 +29,80 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-Using no additional skill — this is a direct content-generation task against a fully specified report template; I'll follow the prompt spec exactly against the supplied Evidence Pack.
-
-# Prasugrel: From Antiplatelet Therapy to Pulmonary Hypertension
+# Prasugrel: From Acute Coronary Syndrome to Pulmonary Hypertension
 
 ## One-Sentence Summary
 
-> Prasugrel is a thienopyridine-class, irreversible P2Y12 receptor antagonist used as antiplatelet therapy (evidence in this pack references its established role alongside clopidogrel following PCI in acute coronary syndrome).
-> The TxGNN model predicts it may be effective for **Pulmonary Hypertension**,
-> but currently only **2 clinical trials** and **2 publications** are linked to this prediction, and neither directly studies prasugrel in pulmonary hypertension.
-
----
+Prasugrel is an oral P2Y12 platelet inhibitor. The retrieved literature describes it as used after percutaneous coronary intervention (PCI) in acute coronary syndrome (ACS), although the US licence records in the data have no indication text.
+The TxGNN model ranks **pulmonary hypertension** as its top prediction, but **no retrieved clinical trial or paper actually tests prasugrel in this disease**.
+The prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in Taiwan regulatory data (drug is not marketed in Taiwan; no NDA/license records). Globally, prasugrel is a P2Y12 inhibitor used for antiplatelet therapy after PCI in ACS (referenced indirectly via literature PMID 21241206) |
-| Predicted New Indication | Pulmonary Hypertension |
+| Original Indication | Not stated in the licence data. Retrieved literature places prasugrel in ACS patients undergoing PCI |
+| Predicted New Indication | Pulmonary hypertension |
 | TxGNN Prediction Score | 99.88% |
-| Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 18 (the listed licences are all generic ANDAs) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap). Based on information available in this evidence pack, prasugrel is an **irreversible P2Y12 receptor antagonist (thienopyridine-class antiplatelet drug)**, the same pharmacological class as clopidogrel.
+Detailed mechanism of action data is not available in the Evidence Pack. Prasugrel is a thienopyridine prodrug that irreversibly blocks the platelet P2Y12 receptor, which reduces platelet activation and aggregation. Its established use is preventing thrombosis after coronary stenting.
 
-The mechanistic link to pulmonary hypertension is weak and subtype-specific at best. Only the **chronic thromboembolic pulmonary hypertension (CTEPH)** subtype involves thrombotic pathology, where antiplatelet/anticoagulant mechanisms could theoretically play a role. However, idiopathic and most other pulmonary hypertension subtypes are driven primarily by pulmonary vascular remodeling rather than platelet-mediated thrombosis, so P2Y12 inhibition does not have a clear, disease-modifying rationale for the broader pulmonary hypertension category.
+The proposed link to pulmonary hypertension is that platelet activation and in-situ thrombosis are thought to contribute to pulmonary vascular remodeling. This is plausible in theory, but it is **speculative**. The pack contains no study of prasugrel or any other P2Y12 inhibitor in pulmonary hypertension, and the graph score is the only support.
 
-Consistent with this, the retrieved clinical trials and literature do not actually study prasugrel in pulmonary hypertension patients — they were flagged by the evaluators as **Grade C relevance** (background co-occurrence in antithrombotic/anticoagulant research areas only). This supports classifying the evidence level as L5 (model prediction only, no direct supporting studies).
-
----
+**A better-supported direction in the same pack is migraine, especially migraine with patent foramen ovale (PFO).** A retrospective review of thienopyridines (PMID 30478066) and an open-label ticagrelor pilot (PMID 30478067) suggest antiplatelet therapy may reduce migraine symptoms in these patients. The evidence is class-level, not prasugrel-specific, and is graded L3 (Research Question). It is discussed here as context and is not the primary prediction.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT04846556](https://clinicaltrials.gov/study/NCT04846556) | N/A | Completed | 300 | Retrospective study on cancer-associated venous thromboembolism, evaluating eligibility for the CARAVAGGIO trial. Does not involve prasugrel or pulmonary hypertension; relevance graded C (background anticoagulation population overlap only). |
-| [NCT03993119](https://clinicaltrials.gov/study/NCT03993119) | N/A | Completed | 500 | Observational, cross-sectional description of NOAC management in elderly non-valvular atrial fibrillation patients in Spain. Not prasugrel-specific and not a pulmonary hypertension study; relevance graded C. |
+| [NCT04846556](https://clinicaltrials.gov/study/NCT04846556) | N/A | Completed | 300 | Retrospective study of how many cancer-associated thrombosis patients would be ineligible for the CARAVAGGIO trial. Not about prasugrel or pulmonary hypertension |
+| [NCT03993119](https://clinicaltrials.gov/study/NCT03993119) | N/A | Completed | 500 | Cross-sectional study of NOAC management in elderly Spanish patients with atrial fibrillation. Unrelated to prasugrel or pulmonary hypertension |
 
----
+Both trials were graded low relevance (C). Neither provides evidence for this prediction.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [21241206](https://pubmed.ncbi.nlm.nih.gov/21241206/) | 2011 | Cohort | Curr Med Res Opin | Evaluates factors affecting clopidogrel/prasugrel adherence after PCI in ACS patients; establishes prasugrel's established antiplatelet indication context but does not address pulmonary hypertension. |
-| [34713782](https://pubmed.ncbi.nlm.nih.gov/34713782/) | 2021 | Cohort | Kardiologiia | ACTIV SARS-CoV-2 registry analysis of background chronic-disease therapy on COVID-19 outcomes; not specific to prasugrel or pulmonary hypertension. |
+| [34713782](https://pubmed.ncbi.nlm.nih.gov/34713782/) | 2021 | Cohort | Kardiologiia | Registry analysis of how pre-infection drug therapy for comorbidities relates to COVID-19 outcomes. Not specific to prasugrel or pulmonary hypertension |
+| [21241206](https://pubmed.ncbi.nlm.nih.gov/21241206/) | 2011 | Cohort | Current Medical Research and Opinion | Factors associated with clopidogrel use and adherence in ACS patients after PCI. Mentions prasugrel only as a guideline-recommended alternative |
 
----
+Neither paper studies prasugrel in pulmonary hypertension.
 
-## Taiwan Market Information
+## US Market Information
 
-Currently not marketed in Taiwan — no NDA or license records are available (`total_licenses = 0`).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA213315 | Prasugrel (Unichem Pharmaceuticals) | Film-coated tablet | Not provided in the data |
+| ANDA205913 | Prasugrel (Amneal Pharmaceuticals) | Film-coated tablet | Not provided in the data |
+| ANDA205897 | Prasugrel (Apotex Corp.) | Film-coated tablet | Not provided in the data |
 
----
+The pack reports 18 licences in total. Only 3 unique authorizations appear in the list (two were duplicated). All are oral tablets.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug interaction data are currently unavailable in this evidence pack — TFDA label warnings/contraindications retrieval is flagged as a **Blocking** data gap that must be resolved before any safety screening.)
-
----
+Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Evidence level is L5 — the pulmonary hypertension prediction is currently supported only by TxGNN's model score, with no clinical trials or literature directly studying prasugrel in this indication. The mechanistic rationale is also non-specific, applying at best to a single pulmonary hypertension subtype (CTEPH) rather than the disease category as a whole.
+The pulmonary hypertension prediction is supported only by a high model score (99.88%). No relevant trial or publication was retrieved, and the mechanistic link is speculative. The Evidence Pack does not include package insert warnings or contraindications, so safety screening cannot start.
 
 **To proceed, the following is needed:**
-- TFDA package insert warnings/contraindications (DG001, Blocking — required before any S1 safety evaluation)
-- Detailed mechanism of action data from DrugBank (DG002, High severity)
-- Confirmation of prasugrel's original approved indication and any future Taiwan license/market status
-- Targeted preclinical or clinical studies of prasugrel specifically in CTEPH or other pulmonary hypertension populations, since current evidence is indirect and non-specific
+- Package insert warnings and contraindications, obtained from the FDA label
+- Mechanism of action data (for example from DrugBank) to support the mechanistic analysis
+- Preclinical or clinical evidence specific to prasugrel in pulmonary hypertension, since none was retrieved
+- A separate evaluation of the migraine/PFO direction, including prasugrel-specific efficacy and bleeding risk, since it has the strongest indirect support in this pack
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

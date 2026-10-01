@@ -29,31 +29,36 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Lusutrombopag: From Unconfirmed Original Indication to Hereditary Thrombocytopenia with Normal Platelets
+# Lusutrombopag: From Thrombocytopenia in Chronic Liver Disease to Hereditary Thrombocytopenia with Normal Platelets
 
 ## One-Sentence Summary
 
-Lusutrombopag (DrugBank DB13125) is a thrombopoietin (TPO) receptor agonist; its original approved indication is not recorded in this evidence pack, and the drug is not currently marketed in Taiwan (0 TFDA licenses on file). The TxGNN model's top prediction is **Hereditary Thrombocytopenia with Normal Platelets**, but this is currently supported by **0 clinical trials** and **0 publications** — the evidence pack itself flags the prediction as a possible knowledge-graph artifact rather than a confirmed mechanistic signal.
+Lusutrombopag is an oral thrombopoietin receptor (TPO-R) agonist marketed in the US as Mulpleta, and is used to raise platelet counts in adults with chronic liver disease.
+The TxGNN model predicts it may be effective for **hereditary thrombocytopenia with normal platelets**.
+Currently there are **0 clinical trials** and **0 publications** supporting this direction, so it is a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no license/indication records in evidence pack (drug not marketed in Taiwan) |
-| Predicted New Indication | Hereditary Thrombocytopenia with Normal Platelets |
-| TxGNN Prediction Score | 99.995% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| Taiwan Market Status (TFDA) | Not marketed (Not marketed) |
-| Number of TFDA Licenses | 0 |
+| Original Indication | Thrombocytopenia in adults with chronic liver disease (inferred from the pack's rationale text; the license records list no indication text) |
+| Predicted New Indication | Hereditary thrombocytopenia with normal platelets |
+| TxGNN Prediction Score | 99.99% |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 3 (three manufacturer entries under NDA210923) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for lusutrombopag in this evidence pack. Based on general pharmacological class knowledge, lusutrombopag is a TPO receptor agonist, a class of drugs that stimulate megakaryocyte production in the bone marrow to raise platelet counts — mechanistically, this pathway is broadly relevant to conditions of platelet under-production.
+Lusutrombopag is a TPO-R agonist. It stimulates megakaryocyte proliferation and platelet production. Detailed mechanism of action data is not available in the source record. The description here comes from the pack's mechanistic rationale and the drug's known class.
 
-However, the evidence pack's own rationale raises a significant concern about the top prediction: "hereditary thrombocytopenia with normal platelets" is a semantically contradictory disease label (low platelet count vs. normal platelet count), which the evidence pack interprets as more likely to be a rare disease taxonomy entry than a genuine TPO-agonist target. The high TxGNN score may reflect knowledge-graph term proximity to the word "thrombocytopenia" rather than a real pharmacological relationship. Because the original indication is also unrecorded here, there is no confirmed baseline to assess mechanistic similarity between old and new indications.
+Its approved use addresses low platelet counts by increasing platelet production. Inherited thrombocytopenias caused by impaired platelet production could plausibly respond to the same approach, and other TPO-R agonists have been explored in inherited forms. This link is mechanistic inference only. There is no drug-specific clinical or literature data, and the score reflects model prediction alone.
 
-This same caution extends across all 10 ranked predictions in this pack: ranks 2–5 involve structural/functional platelet disorders (mitral valve disease, dense granule disease, storage pool deficiency) where TPO-driven platelet *production* would not address the underlying defect, and ranks 6–10 (ALS, motor neuron disease, cortical malformation, skeletal dysplasia) have no stated mechanistic link to TPO signaling at all — the evidence pack explicitly labels several of these as likely "KG embedding noise" or "false positive" clusters.
+The other nine predictions in the pack are weaker:
+- **Related thrombocytopenias** (marcothrombocytopenia with mitral valve insufficiency, transient neonatal thrombocytopenia): conceptually relevant, but the platelet defect may not respond to more TPO signaling, or the condition is self-limiting and no neonatal safety data exist.
+- **Platelet function defects** (dense granule disease, platelet storage pool deficiency): these are qualitative defects, and raising platelet count is not expected to correct them.
+- **Neurological and skeletal conditions** (ALS and related entries, polymicrogyria, axial spondylometaphyseal dysplasia): no plausible mechanistic link, likely knowledge-graph artifacts.
 
 ## Clinical Trial Evidence
 
@@ -63,28 +68,34 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
-## Taiwan Market Information
+## US Market Information
 
-No license or marketing authorization on record — lusutrombopag is not currently marketed in Taiwan (0 TFDA licenses).
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA210923 | Mulpleta | Film-coated tablet (oral) | VANCOCIN ITALIA SRL |
+| NDA210923 | Mulpleta | Film-coated tablet (oral) | Eddingpharm (U.S.) Inc. |
+| NDA210923 | Mulpleta | Film-coated tablet (oral) | SHIONOGI INC. |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
 
-Note: this evidence pack flags TFDA label/warning data as a **Blocking** data gap (DG001) — without it, even a basic safety pre-screen (S1) cannot be completed.
+The record contains no drug interaction data.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All 10 predicted indications are TxGNN model output only (L5), with zero clinical trials or literature identified across 33 source queries. The top-ranked prediction itself is flagged by the evidence pack as a probable knowledge-graph artifact due to a semantically contradictory disease name, and a Blocking data gap (missing TFDA label/warnings, DG001) prevents any safety pre-screening.
+All predictions are supported only by the TxGNN score, with no trials, no literature, and no safety data in the record. The top candidate, hereditary thrombocytopenia with normal platelets, is worth keeping as a research question. The remaining candidates are weak or implausible.
 
 **To proceed, the following is needed:**
-- TFDA package insert / warnings and contraindications data (resolves DG001, currently Blocking)
-- Confirmed original approved indication(s) and mechanism of action (resolves DG002)
-- Independent verification of whether the top candidate diseases (ranks 1–5) represent a real TPO-pathway signal or a KG term-proximity artifact, before committing further evaluation resources
-- If pursued, reassessment of ranks 6–10 is not recommended given the evidence pack's own assessment that these lack any plausible mechanistic basis
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- A literature and trial search for TPO-R agonists in inherited thrombocytopenias
+- Confirmation of the approved indication text
+- Pediatric safety data, if any neonatal or childhood use is considered
+- Route compatibility assessment for the predicted indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

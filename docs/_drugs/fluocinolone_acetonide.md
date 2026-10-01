@@ -29,13 +29,11 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-Using the drug-repurposing evaluation report format supplied in the system prompt to convert the Evidence Pack into the structured Markdown report.
-
-# Fluocinolone Acetonide: From Corticosteroid Dermatologic Therapy to Hypertrophic Lichen Planus
+# Fluocinolone Acetonide: From Topical Corticosteroid Use to Hypertrophic Lichen Planus
 
 ## One-Sentence Summary
 
-Fluocinolone acetonide is a fluorinated synthetic glucocorticoid; the specific original indication is not recorded in the available regulatory data for this drug. The TxGNN model predicts it may be effective for **Hypertrophic Lichen Planus**, but this specific drug–disease pairing currently has **no clinical trials** and **no published literature** to support it — the prediction rests on the model score alone.
+Fluocinolone acetonide is a topical corticosteroid marketed in the US as oil, cream, ointment, solution and implant products. The TxGNN model predicts it may be effective for **hypertrophic lichen planus**, but this is a **model prediction only**: **0 clinical trials** and **0 publications** directly support it. The record lists no original indication, so it is unclear whether lichen planus is truly a new use.
 
 ---
 
@@ -43,25 +41,23 @@ Fluocinolone acetonide is a fluorinated synthetic glucocorticoid; the specific o
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no approved-indication text is on file (no Taiwan/US licenses recorded; original MOA is also flagged as a data gap) |
-| Predicted New Indication | Hypertrophic Lichen Planus |
+| Original Indication | Not specified in the record (class: topical corticosteroid) |
+| Predicted New Indication | Hypertrophic lichen planus |
 | TxGNN Prediction Score | 99.42% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
-
-> **Note on related candidates:** Three other TxGNN-predicted indications appear in this evidence pack for the same drug — annular atrophic lichen planus, lichen planus pigmentosus, and lichen planus pemphigoides (score ≈99.3–99.4%). Of these, **lichen planus pemphigoides** has reached decision stage S1 ("Research Question") because two related topical corticosteroids (fluocinonide, clobetasol propionate — same pharmacologic class) have published trial data in oral vesiculoerosive/lichen planus–spectrum disease. This is class-level, not drug-specific, evidence, but it strengthens the overall biological plausibility of the lichen-planus/topical-steroid link discussed below.
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for fluocinolone acetonide itself is not available in this evidence pack (flagged as a data gap). Based on the information that is available, fluocinolone acetonide is a **fluorinated synthetic glucocorticoid**. Pharmacologically, it acts through glucocorticoid receptor–mediated suppression of pro-inflammatory cytokines and T-cell–mediated immune responses. This mechanism is the pharmacological basis for using topical corticosteroids to treat lichen planus, which is itself a T-cell–mediated inflammatory mucocutaneous disease.
+Detailed mechanism of action data is not available for this drug. Based on class knowledge, fluocinolone acetonide is a topical corticosteroid. Corticosteroids have anti-inflammatory and immunosuppressive effects, and they are widely used in inflammatory skin diseases.
 
-Hypertrophic lichen planus is a clinical variant of lichen planus characterized by thickened, hyperkeratotic plaques, and its inflammatory pathophysiology overlaps substantially with classic lichen planus. Because topical corticosteroids are a mainstay treatment across the lichen planus disease spectrum, extending fluocinolone acetonide's anti-inflammatory/immunosuppressive action to this variant is mechanistically plausible.
+Lichen planus is a T-cell-mediated lichenoid inflammatory disease, so a corticosteroid is a plausible treatment at the class level. This is not evidence specific to fluocinolone acetonide.
 
-However, this reasoning is currently **class-level, not drug-specific**: there are no clinical trials or publications in this evidence pack that test fluocinolone acetonide directly in hypertrophic lichen planus (or in any lichen planus subtype). The supporting literature identified elsewhere in this evidence pack (see note above) concerns related corticosteroids, not fluocinolone acetonide itself. The prediction should therefore be treated as a hypothesis generated purely by the TxGNN model at this stage.
+The model also gives three lichen planus variants an identical score of 99.42%: hypertrophic, annular atrophic and pigmentosus. This suggests the model is propagating a parent-disease signal rather than variant-specific evidence. The score should be read with that in mind.
 
 ---
 
@@ -73,13 +69,31 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for hypertrophic lichen planus.
+
+For the lower-ranked prediction **lichen planus pemphigoides** (score 99.34%), the record contains three indirect publications. They studied related corticosteroids (fluocinonide, clobetasol), **not fluocinolone acetonide**, so they support only the class-level rationale:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [8065723](https://pubmed.ncbi.nlm.nih.gov/8065723/) | 1994 | RCT (double-blind) | Oral Surg Oral Med Oral Pathol | Compared 0.05% clobetasol and 0.05% fluocinonide ointment in orabase for oral vesiculoerosive diseases |
+| [6996618](https://pubmed.ncbi.nlm.nih.gov/6996618/) | 1980 | Clinical study | Arch Dermatol | 0.05% fluocinonide in an adhesive base in 89 patients (including lichen planus); 7 of 15 responded completely and 8 partially in the double-blind phase |
+| [14620208](https://pubmed.ncbi.nlm.nih.gov/14620208/) | 2003 | Review | Quintessence Int | Desquamative gingivitis as an early sign of mucocutaneous disease |
 
 ---
 
 ## US Market Information
 
-No marketing authorizations are on file for fluocinolone acetonide in this evidence pack — market status is recorded as **Not Marketed**, with zero licenses.
+Approved indication text is empty for all listed authorizations. Main authorizations (5 of 20):
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA202847 | fluocinolone acetonide | Oil | Bryant Ranch Prepack |
+| ANDA210539 | Fluocinolone Acetonide | Oil | Glenmark Pharmaceuticals Inc., USA |
+| ANDA090982 | Fluocinolone Acetonide | Oil | A-S Medication Solutions |
+| ANDA212760 | Fluocinolone Acetonide | Oil | Quagen Pharmaceuticals LLC |
+| ANDA089526 | Fluocinolone Acetonide | Cream | Cosette Pharmaceuticals, Inc. |
+
+Other dosage forms in the record: solution, implant, ointment.
 
 ---
 
@@ -94,14 +108,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-This drug–disease pairing (fluocinolone acetonide / hypertrophic lichen planus) is supported only by a TxGNN model score (99.42%), with zero clinical trials and zero published literature specific to this combination. Evidence level is L5 (model prediction only), which does not meet the bar to advance to clinical feasibility review.
+The high TxGNN score (99.42%) is not backed by any trial or publication for hypertrophic lichen planus, and the three lichen planus variants share an identical score. The mechanism rationale rests on corticosteroid class knowledge only, and the safety data is missing.
 
 **To proceed, the following is needed:**
-- Direct clinical or preclinical evidence for fluocinolone acetonide (not just the broader corticosteroid class) in lichen planus or hypertrophic lichen planus specifically
-- Confirmed mechanism of action data for fluocinolone acetonide (currently a data gap)
-- Original approved indication and regulatory history (currently missing/empty in this evidence pack)
-- TFDA/US label warnings, contraindications, and drug interaction data (currently all marked as data gaps — blocking issue for any S1 safety review)
-- Clarification of current market status, since the drug is recorded as not marketed and has zero authorizations on file
+- Package insert warnings and contraindications (blocking for safety screening)
+- Mechanism of action data for fluocinolone acetonide
+- The drug's original approved indications, to confirm whether lichen planus is a genuinely new use
+- A literature and trial search for fluocinolone acetonide itself in lichen planus
+- Route compatibility assessment (topical vs. other dosage forms)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

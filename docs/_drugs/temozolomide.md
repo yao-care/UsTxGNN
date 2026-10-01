@@ -29,13 +29,13 @@ Evidence Level: **L1** | Predicted Indications: **2**
 
 </div>
 
-# Temozolomide: From Malignant Glioma to Adult Astrocytic Tumour
+# Temozolomide: From Established Glioma Therapy to Adult Astrocytic Tumour
 
 ## One-Sentence Summary
 
-Temozolomide (TMZ) is an oral imidazotetrazine DNA alkylating agent that has become the global standard of care for glioblastoma and anaplastic astrocytoma since the landmark Stupp et al. (2005) Phase 3 trial.
-The TxGNN model predicts it may be effective for **Adult Astrocytic Tumour**, with **2 clinical trials** and **20 publications** currently supporting this direction.
-This prediction closely aligns with the drug's well-established global clinical evidence base, making it one of the strongest validation cases in the TxGNN pipeline.
+Temozolomide is an oral alkylating chemotherapy that is already an established standard of care for glioblastoma and anaplastic astrocytoma.
+The TxGNN model predicts it may be effective for **adult astrocytic tumour**, and this is closer to confirming a known use than to true repurposing.
+Currently, **2 clinical trials** (1 completed Phase 3 RCT) and **20 publications** (including several Phase 3 RCTs) support this direction.
 
 ---
 
@@ -43,23 +43,24 @@ This prediction closely aligns with the drug's well-established global clinical 
 
 | Item | Content |
 |------|------|
-| Original Indication | Not registered in Taiwan; globally approved for Glioblastoma and Anaplastic Astrocytoma |
-| Predicted New Indication | Adult Astrocytic Tumour |
+| Predicted New Indication | Adult astrocytic tumour |
 | TxGNN Prediction Score | 99.36% |
 | Evidence Level | L1 |
-| US Market Status | ✗ Not Marketed (no records in current regulatory dataset) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 licenses (all listed generic products) |
 | Recommended Decision | Proceed with Guardrails |
+
+The US license records contain no approved-indication text, so the original indication is not listed here.
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Temozolomide is an imidazotetrazine-class DNA alkylating agent. Under physiological pH, it spontaneously hydrolyzes to the active metabolite MTIC (5-(3-methyltriazen-1-yl)imidazole-4-carboxamide), which methylates DNA at three key positions: O6-guanine (~5%), N7-guanine (~70%), and N3-adenine (~9%). The O6 methylation lesions trigger the mismatch repair (MMR) system to generate DNA double-strand breaks, ultimately inducing G2/M cell cycle arrest and apoptosis. MGMT (O6-methylguanine-DNA methyltransferase) is the primary resistance mechanism; tumors with MGMT promoter methylation demonstrate significantly enhanced response to TMZ.
+Currently, detailed mechanism of action data is not available in the input record. Based on the model's rationale, temozolomide is an oral alkylating agent that methylates DNA at the O6-guanine, N7-guanine and N3-adenine positions. Its cytotoxicity is greatest in tumours with MGMT promoter methylation, which is common in astrocytic gliomas. This fits the very high TxGNN score.
 
-Adult astrocytic tumours—including glioblastoma (WHO Grade 4) and anaplastic astrocytoma (WHO Grade 3)—are rapidly dividing, infiltrative CNS malignancies with high susceptibility to DNA alkylating agents. TMZ's favorable pharmacokinetic profile (lipophilicity LogP ~0.9, molecular weight 194 Da) allows effective penetration of the blood-brain barrier, achieving CSF exposure approximately 30–40% of plasma levels. This CNS penetration is a critical pharmacological advantage that most conventional chemotherapy agents lack.
+Adult astrocytic tumours, including anaplastic astrocytoma and glioblastoma, are glial-lineage CNS tumours. Temozolomide is already used as standard care for glioblastoma and anaplastic astrocytoma. The prediction therefore mostly confirms a known use rather than opening a new one.
 
-The biological rationale is substantiated by decades of high-quality clinical evidence. The 2005 EORTC-NCIC Phase 3 trial established TMZ concurrent with and adjuvant to radiotherapy as the global standard of care for newly diagnosed glioblastoma, improving median overall survival from 12.1 to 14.6 months and 2-year survival from 10.4% to 26.5%. Subsequent studies have confirmed its role in MGMT-methylated elderly patients (NOA-08), in combination with tumor-treating fields (EF-14), and in MGMT-methylated patients when combined with lomustine (CeTeG/NOA-09). The TxGNN prediction is therefore a textbook validation of an established indication, underscoring the model's predictive validity.
+Response is likely to depend on MGMT status, IDH status and WHO grade. Any development plan should stratify by these markers.
 
 ---
 
@@ -67,37 +68,51 @@ The biological rationale is substantiated by decades of high-quality clinical ev
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00052455](https://clinicaltrials.gov/study/NCT00052455) | Phase 3 | Completed | 500 | Head-to-head RCT comparing TMZ monotherapy vs. PCV (procarbazine + lomustine + vincristine) in recurrent WHO Grade III–IV astrocytic tumours; large-sample, fully powered comparison establishing TMZ as the preferred chemotherapy in this setting |
-| [NCT00960492](https://clinicaltrials.gov/study/NCT00960492) | Phase 1 | Completed | 26 | Dose-finding study of XL184 (MET/VEGFR2 inhibitor) combined with TMZ and radiotherapy in newly diagnosed glioblastoma; TMZ used at standard dose as backbone agent; supports tolerability of TMZ in combination regimens |
+| [NCT00052455](https://clinicaltrials.gov/study/NCT00052455) | Phase 3 | Completed | 500 | Randomised comparison of temozolomide vs procarbazine, lomustine and vincristine (PCV) in recurrent WHO grade III/IV astrocytic tumours. It tests temozolomide directly in the target disease. |
+| [NCT00960492](https://clinicaltrials.gov/study/NCT00960492) | Phase 1 | Completed | 26 | Dose-finding and PK safety study of cabozantinib (XL184) with temozolomide and radiotherapy in first-line glioblastoma. Temozolomide is background therapy, so this is weak support. |
 
 ---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [15758009](https://pubmed.ncbi.nlm.nih.gov/15758009/) | 2005 | RCT (Phase 3) | N Engl J Med | Stupp trial: TMZ + radiotherapy vs. radiotherapy alone in newly diagnosed glioblastoma; mOS 14.6 vs. 12.1 months; 2-year survival 26.5% vs. 10.4%; established current standard of care |
-| [19269895](https://pubmed.ncbi.nlm.nih.gov/19269895/) | 2009 | RCT Long-term Follow-up | Lancet Oncol | 5-year analysis of EORTC-NCIC trial; confirmed durable survival benefit with TMZ; MGMT promoter methylation identified as the key predictive biomarker for treatment response |
-| [26670971](https://pubmed.ncbi.nlm.nih.gov/26670971/) | 2015 | RCT (Phase 3) | JAMA | EF-14 trial: Tumor-treating fields + TMZ vs. TMZ alone in maintenance phase; addition of TTFields improved mOS from 16.0 to 20.9 months, leading to FDA approval of TTFields device |
-| [30782343](https://pubmed.ncbi.nlm.nih.gov/30782343/) | 2019 | RCT (Phase 3) | Lancet | CeTeG/NOA-09 trial: lomustine + TMZ vs. TMZ alone in newly diagnosed MGMT-methylated GBM; combination therapy superior in methylated subgroup, demonstrating potential to intensify TMZ-based regimens |
-| [22578793](https://pubmed.ncbi.nlm.nih.gov/22578793/) | 2012 | RCT (Phase 3) | Lancet Oncol | NOA-08 trial: dose-dense TMZ vs. radiotherapy alone in elderly patients (≥65) with malignant astrocytoma; established TMZ as primary treatment option for MGMT-methylated elderly patients who cannot tolerate full RT |
-| [24552317](https://pubmed.ncbi.nlm.nih.gov/24552317/) | 2014 | RCT (Phase 3) | N Engl J Med | Adding bevacizumab to TMZ + radiotherapy did not improve OS in newly diagnosed GBM despite PFS improvement; confirmed TMZ + RT as the non-negotiable standard backbone |
-| [25920709](https://pubmed.ncbi.nlm.nih.gov/25920709/) | 2015 | RCT / Phase 3 | J Neurooncol | TMZ-based concurrent chemoradiotherapy in anaplastic astrocytoma (AA) and anaplastic oligo-astrocytoma (AOA); extended evidence of TMZ efficacy beyond GBM to lower-grade astrocytic tumours |
-| [40779733](https://pubmed.ncbi.nlm.nih.gov/40779733/) | 2025 | RCT (Phase 3) | J Clin Oncol | NRG Oncology BN007: dual immune checkpoint blockade (ipilimumab + nivolumab) with TMZ in MGMT-unmethylated newly diagnosed GBM; TMZ remains the standard chemotherapy backbone in novel combination strategies |
-| [36809318](https://pubmed.ncbi.nlm.nih.gov/36809318/) | 2023 | Systematic Review | JAMA | Comprehensive review of primary malignant brain tumors in adults; summarizes TMZ role in standard of care, MGMT biomarker utility, incidence trends, and emerging therapeutic approaches |
-| [10914698](https://pubmed.ncbi.nlm.nih.gov/10914698/) | 2000 | Review | Clin Cancer Res | Foundational overview of TMZ mechanism, pharmacokinetics, and early Phase 2 clinical data in malignant glioma; documents initial proof-of-concept for CNS activity and oral bioavailability |
+|------|-----|------|---------|---------|
+| [15758009](https://pubmed.ncbi.nlm.nih.gov/15758009/) | 2005 | RCT | N Engl J Med | Radiotherapy alone vs radiotherapy plus concomitant and adjuvant temozolomide in glioblastoma (efficacy and safety). |
+| [19269895](https://pubmed.ncbi.nlm.nih.gov/19269895/) | 2009 | RCT | Lancet Oncol | Final 5-year analysis of the EORTC-NCIC phase III trial of radiotherapy with temozolomide vs radiotherapy alone in glioblastoma. |
+| [22578793](https://pubmed.ncbi.nlm.nih.gov/22578793/) | 2012 | RCT | Lancet Oncol | NOA-08 phase 3 trial: dose-dense temozolomide alone vs radiotherapy alone in elderly patients with anaplastic astrocytoma or glioblastoma. |
+| [30782343](https://pubmed.ncbi.nlm.nih.gov/30782343/) | 2019 | RCT | Lancet | CeTeG/NOA-09 phase 3 trial: lomustine plus temozolomide vs standard temozolomide in MGMT-methylated glioblastoma. |
+| [26670971](https://pubmed.ncbi.nlm.nih.gov/26670971/) | 2015 | RCT | JAMA | Maintenance tumour-treating fields plus temozolomide vs temozolomide alone in glioblastoma. |
+| [24552317](https://pubmed.ncbi.nlm.nih.gov/24552317/) | 2014 | RCT | N Engl J Med | Bevacizumab added to standard temozolomide and radiotherapy in newly diagnosed glioblastoma. |
+| [25920709](https://pubmed.ncbi.nlm.nih.gov/25920709/) | 2015 | RCT | J Neurooncol | Exploratory cohort of newly diagnosed anaplastic astrocytoma or oligo-astrocytoma treated with radiotherapy and temozolomide. |
+| [40779733](https://pubmed.ncbi.nlm.nih.gov/40779733/) | 2025 | RCT | J Clin Oncol | NRG BN007 phase II/III trial of dual checkpoint blockade in MGMT-unmethylated glioblastoma. |
+| [36809318](https://pubmed.ncbi.nlm.nih.gov/36809318/) | 2023 | Review | JAMA | Review of glioblastoma and other primary malignant brain tumours in adults. |
+| [10914698](https://pubmed.ncbi.nlm.nih.gov/10914698/) | 2000 | Review | Clin Cancer Res | Review of temozolomide as a second-generation alkylating agent for malignant glioma (glioblastoma and anaplastic astrocytoma). |
+
+---
+
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA207658 | Temozolomide | Capsule | Devatis, Inc. |
+| ANDA201742 | Temozolomide | Capsule | Sun Pharmaceutical Industries, Inc. |
+| ANDA207658 | Temozolomide | Capsule | Ascend Laboratories, LLC |
+
+Five records were provided. The list above is deduplicated: three of them are Devatis entries under ANDA207658. The only route is oral.
 
 ---
 
 ## Cytotoxicity
 
+The pack contains no toxicity data. The entries below reflect the drug class, so please confirm them against the package insert warnings and precautions.
+
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (Alkylating agent — Imidazotetrazine class) |
-| Myelosuppression Risk | Moderate-High — Thrombocytopenia and neutropenia are the dose-limiting toxicities; nadir typically at Days 21–28 of each 28-day cycle; Grade 3/4 thrombocytopenia occurs in ~14% of patients |
-| Emetogenicity Classification | Moderate to High — Prophylactic antiemetics (5-HT3 antagonist ± NK1 antagonist) are strongly recommended |
-| Monitoring Items | CBC with differential (before each cycle and at Day 22), liver function (ALT, AST, bilirubin), renal function (creatinine); MGMT promoter methylation status testing recommended prior to initiation for patient stratification |
-| Handling Protection | Must follow cytotoxic drug handling regulations; capsules should not be opened or crushed; healthcare workers should wear protective gloves when handling; considered hazardous per NIOSH classification |
+| Cytotoxicity Classification | Conventional cytotoxic (alkylating agent, imidazotetrazine class) |
+| Myelosuppression Risk | Medium to high (neutropenia, thrombocytopenia and lymphopenia are expected class effects) |
+| Emetogenicity Classification | Low to moderate (oral administration) |
+| Monitoring Items | CBC with differential, liver and renal function |
+| Handling Protection | Follow cytotoxic drug handling regulations |
 
 ---
 
@@ -112,14 +127,17 @@ Please refer to the package insert for safety information.
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Temozolomide carries L1-level evidence for adult astrocytic tumours, supported by multiple completed Phase 3 RCTs — including the landmark 2005 Stupp trial published in the New England Journal of Medicine — that established it as the global standard of care for glioblastoma and anaplastic astrocytoma. The TxGNN prediction is strongly validated by existing clinical evidence, representing one of the most credible repurposing signals in the dataset. The primary outstanding gap is the absence of local Taiwan regulatory registration and associated pharmacovigilance documentation.
+Temozolomide is already established in glioblastoma and anaplastic astrocytoma. It is supported by a completed Phase 3 RCT in recurrent grade III/IV astrocytic tumours and by multiple published Phase 3 RCTs. The prediction is therefore well supported, but the safety data gap must be closed before further progression.
 
 **To proceed, the following is needed:**
-- Taiwan TFDA regulatory registration (NDA submission) for the glioblastoma and anaplastic astrocytoma indications
-- Local Taiwan package insert review to establish key warnings, contraindications, and DDI profile (classified as Blocking data gap DG001)
-- MGMT promoter methylation testing infrastructure for patient stratification prior to treatment initiation
-- Reimbursement pathway evaluation under the Taiwan National Health Insurance (NHI) system
-- Drug interaction assessment, particularly with antiepileptic agents commonly co-prescribed in brain tumor patients
+- Package insert warnings and contraindications (blocking gap; safety screening cannot proceed without them)
+- Mechanism of action data from DrugBank
+- Confirmation of the approved indication and label status in the US
+- Stratification of any study plan by MGMT status, IDH status and WHO grade
+
+**Related prediction:** Cauda equina neoplasm (score 99.30%) is at evidence level L4, with only case reports and no registered trials. It remains a research question, and I did not evaluate it in this report.
+
+*This report is for research reference only and is not medical advice. Repurposing candidates require clinical validation before use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

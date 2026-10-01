@@ -29,78 +29,65 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Siltuximab: From No Registered Indication to Extracutaneous Mastocytoma (Predicted)
+# Siltuximab: From Multicentric Castleman's Disease to Extracutaneous Mastocytoma
 
 ## One-Sentence Summary
 
-> Siltuximab does not currently hold a marketing license or documented approved indication in this jurisdiction, and it is known pharmacologically as a chimeric anti-IL-6 monoclonal antibody.
-> The TxGNN model predicts it may be effective for **Extracutaneous Mastocytoma**,
-> but this prediction is currently supported by **0 clinical trials** and **0 publications**, making it a model-only hypothesis at this stage.
-
----
+Siltuximab (Sylvant) is an anti-IL-6 monoclonal antibody, originally used for multicentric Castleman's disease (MCD) in HIV-negative and HHV-8-negative patients.
+The TxGNN model predicts it may be effective for **extracutaneous mastocytoma**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — drug is not marketed in this jurisdiction; no license/indication text on file |
-| Predicted New Indication | Extracutaneous Mastocytoma |
+| Original Indication | Multicentric Castleman's disease (the license text in the Evidence Pack is empty; this is taken from the pack's rationale notes) |
+| Predicted New Indication | Extracutaneous mastocytoma |
 | TxGNN Prediction Score | 99.64% |
 | Evidence Level | L5 |
-| Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 entries (both are the same BLA125496) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on information contained in this evidence pack, siltuximab is a chimeric (human-murine) anti-interleukin-6 (IL-6) monoclonal antibody administered by intravenous infusion.
+Siltuximab neutralizes interleukin-6 (IL-6). Detailed mechanism-of-action data is not available in the Evidence Pack. The IL-6 blockade described here comes from the pack's rationale notes.
 
-The model's own rationale notes that IL-6 expression has occasionally been observed in mastocytoma lesions in association with local inflammatory activity. However, there is no direct evidence that IL-6 acts as a key driver pathway for tumor growth in extracutaneous mastocytoma — the mechanistic link is described as weak and inferential rather than established. This prediction should therefore be treated as a hypothesis-generating signal from the knowledge graph rather than a mechanistically validated candidate.
+Multicentric Castleman's disease is a lymphoproliferative disorder driven by IL-6. Elevated IL-6 has also been reported in some mast cell disorders and may correlate with disease burden. This gives a theoretical link between the original indication and mastocytoma.
 
-It is also worth noting that among the eight indications TxGNN predicted for siltuximab, **Kaposi's sarcoma** (rank 5) carries comparatively stronger mechanistic plausibility — IL-6 is implicated in HHV-8-driven pathology and in HHV-8-associated multicentric Castleman's disease, which frequently co-occurs with Kaposi's sarcoma — and reached evidence level L4 with at least indirect literature support. This may be a more productive direction for follow-up than the top-ranked mastocytoma prediction.
-
----
+The link is speculative. No trials or literature were supplied to show that blocking IL-6 helps in extracutaneous mastocytoma. The high graph score alone is not enough to support a clinical decision.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## US Market Information
 
-## Market Information
+| Authorization Number | Product Name | Dosage Form |
+|---------|------|------|
+| BLA125496 | Sylvant (Recordati Rare Diseases, Inc.) | Injection, powder, for solution (intravenous infusion) |
 
-This drug is **not currently marketed** in this jurisdiction. No license records, product names, dosage forms, or approved indication text are on file.
-
----
+The Evidence Pack lists this authorization twice. It is one product and one authorization.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-*Note: TFDA warning/contraindication data and drug interaction data are currently unavailable and are flagged as a blocking data gap (DG001) — this must be resolved before any safety pre-assessment (S1) can proceed for this drug.*
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (extracutaneous mastocytoma) has no clinical trial or literature support and rests on an explicitly weak, inferential mechanistic link (L5 — model prediction only). Combined with the absence of local market authorization and missing safety labeling data, there is insufficient basis to advance this candidate.
+The prediction rests only on the model score (L5). There are no trials or publications for this indication, and the mechanistic link is speculative. Other lines of evidence are also thin, so the candidate does not justify further investment at this stage.
 
 **To proceed, the following is needed:**
-- TFDA (or equivalent local regulator) package insert — warnings and contraindications (blocking gap, DG001)
-- Confirmed mechanism of action data from DrugBank or primary literature (DG002)
-- Preclinical or case-level evidence directly evaluating IL-6 blockade in mastocytoma
-- Consider evaluating the rank-5 candidate (Kaposi's sarcoma), which currently has a stronger mechanistic rationale (HHV-8/IL-6 axis) and reached evidence level L4, as a higher-priority research question
+- Package insert warnings and contraindications, which are needed before any safety screening
+- Detailed mechanism-of-action data (for example, from DrugBank)
+- Preclinical or clinical evidence that IL-6 blockade is active in mast cell neoplasms
+- A literature search on IL-6 in mastocytosis and mastocytoma, with a check on whether siltuximab, or other IL-6 inhibitors, have been tested
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Nizatidine
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 975
-evidence_level: L2
+evidence_level: L5
 indication_count: 7
 ---
 
 # Nizatidine
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,75 +29,71 @@ Evidence Level: **L2** | Predicted Indications: **7**
 
 </div>
 
-# Nizatidine: From Acid-Suppressive Therapy to Active Peptic Ulcer Disease
+# Nizatidine: From an Unlisted Original Indication to Active Peptic Ulcer Disease
 
 ## One-Sentence Summary
 
-> Nizatidine is a histamine H2-receptor antagonist historically used to suppress gastric acid secretion, though this evidence pack contains no formal license record of its original approved indication and the drug currently holds **zero active NDAs** (Not Marketed status in the US).
-> The TxGNN model's top-ranked prediction, **Active Peptic Ulcer Disease**, scores **99.96%**, but the model's own rationale flags this as the drug class's already-established indication rather than a novel hypothesis.
-> No trials or literature are attached directly to this top-ranked entry; the strongest supporting evidence (20 publications, including multiple RCTs) sits under closely related predictions in this same pack (gastrojejunal ulcer, gastroduodenitis).
-
----
+Nizatidine is a marketed H2-receptor antagonist (an acid-suppressing drug), but the supplied data do not state its original approved indication.
+The TxGNN model predicts it may be effective for **active peptic ulcer disease**, but the supplied Evidence Pack contains **0 clinical trials** and **0 publications** for this specific prediction.
+The prediction is model-only, and it may describe an existing labeled use rather than true repurposing. This has not been verified.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not formally recorded in this dataset (no licenses on file); historically an H2-receptor antagonist used for peptic ulcer disease |
-| Predicted New Indication | Active Peptic Ulcer Disease |
+|------|------|
+| Original Indication | Not available (all approved-indication text fields are empty) |
+| Predicted New Indication | Active peptic ulcer disease |
 | TxGNN Prediction Score | 99.96% |
-| Evidence Level | L2 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 7 (all listed as generic ANDA applications) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data (DrugBank) is currently a data gap (DG002). Based on the rationale text embedded in this evidence pack, nizatidine is a histamine H2-receptor antagonist that directly inhibits histamine-induced gastric acid secretion at the parietal cell — the classic pharmacology shared by all H2RA drugs (e.g., ranitidine, famotidine, cimetidine).
+Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on known information, nizatidine is an H2-receptor antagonist that suppresses gastric acid secretion. Because acid suppression is central to ulcer healing, the drug is mechanistically well suited to peptic ulcer disease.
 
-The predicted new indication, active peptic ulcer disease, is mechanistically identical to nizatidine's known historical use — the evidence pack itself notes this is "the core known indication of the H2RA class, not a novel repurposing hypothesis." This explains why no dedicated trials or literature are attached to this specific entry: it is not a discovery, but a confirmation of expected pharmacology.
-
-Stronger, disease-adjacent evidence exists elsewhere in this same pack. Closely related entries — **gastrojejunal ulcer** (rank 2, 20 publications) and **gastroduodenitis** (rank 6, 6 publications) — share the same acid-related pathophysiology and include multiple randomized controlled trials directly testing nizatidine in duodenal and gastric ulcer healing (e.g., PMID 2568086, 2570656, 7960687, 1526089). These indirectly reinforce the plausibility of the rank-1 prediction even though they are not filed under it.
-
----
+Nizatidine's known use in duodenal and gastric ulcer suggests this prediction may reflect an existing indication rather than a new one. The Evidence Pack does not support or refute this. The original indication and label text are both missing, so the relationship between the original and predicted indications cannot be confirmed from the supplied data. This should be checked against the current US label.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available for this specific indication entry.
+Currently no related literature available.
 
-*Note: Substantial nizatidine-specific RCT evidence for the same underlying acid-peptic pathophysiology exists under related predicted entries in this pack (gastrojejunal ulcer, gastroduodenitis), including double-blind trials on duodenal and gastric ulcer healing (e.g., PMID 2568086, 2570656, 8888720, 7960687, 1982108, 1526089, 1742515, 2570012). These were not filed under the "active peptic ulcer disease" entry itself.*
+## US Market Information
 
----
+All five listed authorizations are generic (ANDA) applications. Two entries are identical duplicates (ANDA076178), so four unique authorizations are shown. Approved-indication text is empty in the supplied data, so that column is omitted.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA076178 | Nizatidine | Capsule | Epic Pharma, LLC |
+| ANDA090576 | Nizatidine | Solution | Amneal Pharmaceuticals LLC |
+| ANDA075616 | Nizatidine | Capsule | Actavis Pharma, Inc. |
+| ANDA077314 | Nizatidine | Capsule | Dr Reddy's Laboratories Limited |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
 
-*(Key warnings, contraindications, and drug-drug interaction data are not available in this evidence pack — flagged as a Blocking data gap, DG001.)*
-
----
-
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The mechanistic basis is sound and reinforced by class-wide RCT evidence documented elsewhere in this pack, but the top-ranked prediction itself is not novel (it restates nizatidine's known H2RA use), carries no directly attached trial or literature evidence, and the drug currently has no active US marketing authorization.
+The prediction score is very high, but there are no trials or literature for this entry, and the original indication and mechanism data are missing. Nizatidine's ulcer use may already be labeled, so it cannot be treated as repurposing until verified.
+
+**Other predictions in this pack (for context):**
+- Gastrojejunal ulcer (score 99.94%) and gastroduodenitis (score 99.58%) are rated L4 and Research Question. Their evidence is indirect, drawn from duodenal and gastric ulcer studies and NSAID-related injury studies.
+- The remaining predictions (peptic ulcer perforation, duodenal obstruction, duodenogastric reflux, multiple endocrine neoplasia) have weak mechanistic links and stay at Hold.
 
 **To proceed, the following is needed:**
-- TFDA/FDA label warnings and contraindications (Blocking gap, DG001)
-- Confirmed mechanism-of-action documentation from DrugBank (High-priority gap, DG002)
-- Historical original-indication/license records, since none are on file for this drug
-- Clarification of current market status — nizatidine (brand Axid) was withdrawn in several markets over NDMA impurity concerns; this should be verified before any further development steps
-- If pursuing repurposing, prioritize **gastrojejunal ulcer** or **gastroduodenitis** as the lead candidate, given their substantially richer literature base compared to the rank-1 entry
+- The current US package insert, to confirm the approved indications and to fill the missing warnings and contraindications
+- Detailed mechanism of action data (MOA) from DrugBank
+- A targeted literature search for this indication, since the current results for this entry are empty
+- A drug-interaction query, which returned no results
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

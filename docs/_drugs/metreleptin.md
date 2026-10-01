@@ -29,12 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Metreleptin: From Lipodystrophy to Familial Generalized Lentiginosis
+# Metreleptin: From Generalized Lipodystrophy to Familial Generalized Lentiginosis
 
 ## One-Sentence Summary
 
-> Metreleptin is a recombinant leptin analog; general drug knowledge indicates it is used to treat **lipodystrophy** (this indication is not documented in the current evidence pack — see note below).
-> The TxGNN model's top prediction is **Familial Generalized Lentiginosis**, but this candidate — along with all 9 others in the current pack — has **zero supporting clinical trials and zero literature**, and the model's own rationale states there is no known mechanistic overlap with metreleptin's leptin-receptor pathway.
+Metreleptin (brand name Myalept) is a recombinant leptin analog, originally used to treat leptin deficiency in generalized lipodystrophy.
+The TxGNN model predicts it may be effective for **familial generalized lentiginosis**, a rare pigmentary skin disorder,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction. It is a model prediction only.
 
 ---
 
@@ -42,23 +43,23 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in evidence pack (`taiwan_regulatory.licenses` and `drug.original_indications` are both empty; metreleptin is generally known as a lipodystrophy treatment, but this is not sourced from this pack) |
-| Predicted New Indication | Familial Generalized Lentiginosis |
+| Original Indication | Leptin deficiency in generalized lipodystrophy (the license records in the Evidence Pack contain no indication text) |
+| Predicted New Indication | Familial generalized lentiginosis |
 | TxGNN Prediction Score | 99.71% |
-| Evidence Level | L5 (model prediction only, no clinical or literature support) |
-| US Market Status | Not Marketed (Not marketed) |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 (both under BLA125390) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (`original_moa: [Data Gap]`). Based on general drug knowledge, metreleptin is a recombinant human leptin analog acting as a leptin receptor agonist, historically used to correct leptin deficiency in lipodystrophy syndromes.
+Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on known information, metreleptin is a recombinant analog of human leptin. It replaces missing leptin in patients with generalized lipodystrophy, and this replacement is its established use.
 
-However, the evidence pack's own mechanistic rationale for the top-ranked candidate, Familial Generalized Lentiginosis, explicitly states that this disease is a synonym for LEOPARD syndrome (a PTPN11/RAF1-driven RASopathy) and has **no known mechanistic overlap** with leptin receptor signaling. The same disconnect applies to ranks 2 and 3 (Gastrocutaneous syndrome, Moynahan syndrome — both also LEOPARD syndrome synonyms).
+No mechanistic link to familial generalized lentiginosis has been established. This is a pigmentary genodermatosis with no known involvement of the leptin pathway. The high score (0.997) reflects proximity in the knowledge graph, not biological or clinical evidence.
 
-Across all 10 candidates in this pack, the model's rationale field consistently flags weak or absent mechanistic linkage — the closest candidates are rank 8 (a rare syndrome with acanthosis-nigricans-like lesions, tenuously linked via leptin's general association with insulin resistance) and rank 9 (adrenal adenoma, via a loosely described leptin–HPA axis interaction). Notably, rank 4 (rhabdoid tumor) carries a theoretical **safety concern**, since exogenous leptin may promote tumor growth in some preclinical models. Given this, the high TxGNN scores (all ≈99.5–99.7%) should be interpreted as statistical/embedding-space proximity rather than biologically validated repurposing signals.
+The other top-ranked predictions show the same pattern. They are mostly rare pigmentary or syndromic disorders (gastrocutaneous syndrome, Moynahan syndrome, acromelanosis and others) plus a few tumors (rhabdoid tumor, adrenal adenoma, schwannoma). All are L5 with no trials or literature. Two of them have identical scores, which suggests a shared graph neighborhood rather than independent evidence.
 
 ---
 
@@ -76,15 +77,20 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+The Evidence Pack contains no approved-indication text for either license, so the manufacturer is shown instead.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
-| — | — | — | Not marketed (`market_status: Not marketed`, 0 licenses on record) |
+| BLA125390 | Myalept | Lyophilized powder for injection (solution) | Amryt Pharmaceuticals Designated Activity Company |
+| BLA125390 | Myalept | Lyophilized powder for injection (solution) | Chiesi USA, Inc. |
+
+The only available route is injectable.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug interaction data are all unavailable in this evidence pack; DDI query returned `not_found`.)
+Please refer to the package insert for safety information.
 
 ---
 
@@ -93,14 +99,15 @@ Please refer to the package insert for safety information. (Key warnings, contra
 **Decision: Hold**
 
 **Rationale:**
-All 10 predicted indications are Evidence Level L5 with zero clinical trials and zero literature support, and the top-ranked candidate's own mechanistic rationale states no known biological link to metreleptin's mode of action. Combined with the drug's non-marketed status in this jurisdiction and missing MOA/safety documentation, there is no basis to advance beyond model prediction at this time.
+The prediction rests on model output alone (L5). There are no trials or literature, and no plausible leptin-related mechanism. Leptin's growth-promoting effects also raise a theoretical concern for the tumor candidates in the list.
 
 **To proceed, the following is needed:**
-- TFDA label / package insert (warnings, contraindications) — flagged as **Blocking** data gap (DG001)
-- Verified mechanism of action data from DrugBank — flagged as **High** severity data gap (DG002)
-- Original indication documentation (none currently on file for this jurisdiction)
-- If pursued, preclinical/mechanistic studies specifically testing leptin-pathway relevance for the higher-plausibility candidates (rank 8: acanthosis-nigricans-like syndrome; rank 9: adrenal adenoma), given the top 3 candidates are mechanistically unrelated per the model's own rationale
-- Safety evaluation of leptin-pathway activation in oncologic contexts before any consideration of rank 4 (rhabdoid tumor)
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data (for example, from DrugBank)
+- A literature and trial search that finds any biological link between leptin signaling and the predicted disease
+- Route compatibility and similarity-to-original-indication assessments (currently pending)
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

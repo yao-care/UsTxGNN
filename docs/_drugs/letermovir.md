@@ -33,70 +33,65 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 ## One-Sentence Summary
 
-Letermovir is an antiviral agent whose known mechanism (CMV terminase complex inhibition) targets herpesvirus DNA processing; detailed original-indication and MOA records for this evidence pack are marked as data gaps. The TxGNN model predicts potential activity against **Vulvovaginal Candidiasis**, but this prediction is currently supported by **0 clinical trials** and **0 publications** — it rests entirely on embedding similarity, and the model's own mechanistic review flags it as a likely false positive.
-
----
+Letermovir is a CMV-specific antiviral marketed in the US as PREVYMIS. The TxGNN model predicts it may be effective for **vulvovaginal candidiasis**, but **0 clinical trials** and **0 publications** support this, and no credible mechanistic link has been identified. This is a model-only prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in this dataset — Letermovir is not marketed in Taiwan and no approved-indication text is on file. (Its known drug class, per the mechanistic rationale supplied, is a CMV terminase-complex inhibitor / anti-herpesvirus agent.) |
-| Predicted New Indication | Vulvovaginal Candidiasis |
-| TxGNN Prediction Score | 99.88% (rank 3764) |
+| Original Indication | CMV infection (inferred from the drug's mechanism; the license records contain no indication text) |
+| Predicted New Indication | Vulvovaginal candidiasis |
+| TxGNN Prediction Score | 99.88% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Authorizations (Taiwan) | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 6 license records (3 unique NDA numbers) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for Letermovir is marked as a data gap in this evidence pack (`original_moa: [Data Gap]`), and no original indication records are available. Based on the mechanistic notes attached to this prediction, Letermovir is known to inhibit the CMV terminase complex (pUL56/pUL89/pUL51), acting on herpesvirus DNA processing and packaging — a narrow-spectrum antiviral mechanism.
+Detailed mechanism-of-action data is not available in the DrugBank record. The mechanistic review notes that letermovir inhibits the CMV viral terminase complex (pUL56/UL89/UL51). This blocks cleavage and packaging of viral DNA.
 
-Vulvovaginal candidiasis, by contrast, is a fungal infection caused by *Candida* species, with treatment targets centered on ergosterol synthesis and fungal cell-wall glucan synthesis. There is no known mechanistic overlap between a herpesvirus terminase inhibitor and antifungal drug targets, and no indirect pathway (e.g., host immune modulation, microbiome effects) has been proposed or supported by any preclinical or clinical data currently on file.
+Candida species are fungi and have no homologous terminase target, so direct antifungal activity is not expected. The very high TxGNN score reflects a graph-based model output only. It cannot be verified against the available data, because the original MOA and indications are missing from the record.
 
-Given this, the prediction should be treated as a pure embedding-similarity output from the TxGNN model rather than a mechanistically grounded hypothesis. The evidence pack's own repurposing rationale explicitly flags this as a **potential false positive** and recommends against committing mechanism-validation resources at this time.
-
----
+Any plausible link would have to be indirect, for example through altered host immune or mucosal status. No data provided here supports such a link. At this stage the prediction is best treated as a hypothesis with weak biological grounding.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## US Market Information
 
-## Taiwan Market Information
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA 209939 | PREVYMIS (Merck Sharp & Dohme LLC) | Film-coated tablet | Not provided in record |
+| NDA 209940 | PREVYMIS (Merck Sharp & Dohme LLC) | Solution for injection | Not provided in record |
+| NDA 219104 | PREVYMIS (Merck Sharp & Dohme LLC) | Pellet | Not provided in record |
 
-Letermovir currently has no marketing authorization on file in Taiwan (`market_status: Not marketed`, `total_licenses: 0`). No license records are available to summarize.
-
----
+Available routes are oral (tablet), injectable (solution) and other (pellet). Duplicate license entries have been merged.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug-interaction data are not currently available in this evidence pack; a TFDA label review remains an open, blocking data gap — see Next Steps.)
-
----
+Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-- The TxGNN score is high, but there is zero clinical trial or literature support, no plausible mechanistic link between Letermovir's known antiviral action and antifungal disease biology, and the evidence pack itself identifies this as a likely false positive (Evidence Level L5, decision stage S0).
+The prediction rests only on a model score. There are no supporting trials or publications, and the drug's known mechanism (CMV-specific terminase inhibition) does not apply to fungal pathogens. The evidence level is L5.
 
 **To proceed, the following is needed:**
-- TFDA label / warnings and contraindications data (currently a Blocking data gap)
-- Confirmed mechanism of action (MOA) data from DrugBank or primary literature (currently a High-severity data gap)
-- Any preclinical or in vitro evidence of antifungal or immunomodulatory activity for Letermovir, to establish biological plausibility before further investment
-- Periodic re-query of ClinicalTrials.gov, ICTRP, and PubMed to check whether independent evidence emerges over time
+- Package insert warnings and contraindications, which are a blocking gap for safety screening
+- Mechanism-of-action data from DrugBank, and original indication text from the license records
+- Any in vitro evidence of anti-Candida activity or an indirect host-mediated mechanism
+- A route-compatibility assessment, since vulvovaginal candidiasis is typically treated topically or orally
+- A literature and trial search to confirm that no supporting evidence exists
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,13 +29,12 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# SOYBEAN OIL: From No Established Indication to Amenorrhea (Disease)
+# Soybean Oil: From Parenteral Nutrition (Lipid Source) to Amenorrhea
 
 ## One-Sentence Summary
 
-> Soybean oil is not registered as a marketed drug in Taiwan and has no documented original therapeutic indication; it is primarily known as a lipid emulsion/excipient component (e.g., in parenteral nutrition or drug carriers).
-> The TxGNN model predicts it may be effective for **Amenorrhea**,
-> but this prediction is currently supported by **0 clinical trials** and **0 publications**.
+Soybean oil is mainly used as a caloric and essential fatty acid source in parenteral nutrition lipid emulsions (such as Intralipid), and as a pharmaceutical excipient.
+The TxGNN model predicts it may be effective for **Amenorrhea**, but this rests on a model score alone: **0 clinical trials** and **0 publications** currently support it.
 
 ---
 
@@ -43,41 +42,47 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no approved indication on record) |
-| Predicted New Indication | Amenorrhea (disease) |
+| Original Indication | Not stated in the regulatory records (used as a lipid source in parenteral nutrition) |
+| Predicted New Indication | Amenorrhea |
 | TxGNN Prediction Score | 99.61% |
 | Evidence Level | L5 |
-| US Market Status | Not marketed (Not marketed) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 15 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, soybean oil is primarily used as a lipid component in parenteral nutrition formulations and as an excipient/carrier in various drug products, rather than as an active pharmacological agent with a defined therapeutic indication.
+Currently, detailed mechanism of action data is not available. Based on known information, soybean oil is a nutritional lipid source and excipient rather than a drug with a defined pharmacological target. Its role in parenteral nutrition is to supply calories and essential fatty acids, so it has no proven efficacy in a reproductive condition.
 
-There is no documented original indication to compare against amenorrhea, and no known endocrine or reproductive-axis pharmacology has been established for soybean oil. The predicted link between soybean oil and amenorrhea lacks biological plausibility based on currently available data.
+One possible link is that soybean-derived phytoestrogens (isoflavones), or changes in lipid and energy status, could influence the hypothalamic-pituitary-ovarian axis, which controls menstruation. This link is weak. Refined soybean oil contains negligible isoflavones, so the phytoestrogen route is unlikely to apply.
 
-The TxGNN score of 99.61% reflects graph-based node proximity within the knowledge graph rather than an established causal or mechanistic relationship. Given the absence of any supporting clinical trials, literature, or known MOA, this prediction should be treated as a low-confidence signal that likely reflects a false-positive association from graph topology rather than a genuine pharmacological hypothesis.
+The high score may instead reflect knowledge-graph connectivity artifacts, such as soy-related nodes linked to reproductive endocrine phenotypes, rather than a real pharmacological effect. This prediction should be treated as a hypothesis only.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
 ---
 
 ## US Market Information
 
-Soybean oil is not currently marketed in Taiwan (0 NDAs/licenses on record); no product information is available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA020248 | Intralipid (Fresenius Kabi USA, LLC) | Emulsion | Not listed in the record |
+| NDA018449 | Intralipid (Fresenius Kabi USA, LLC) | Emulsion | Not listed in the record |
+| BLA103888 | Food - Plant Source, Soybean Glycine soja (Jubilant HollisterStier LLC) | Injection, solution | Not listed in the record |
+| NDA020248 | Intralipid (Baxter Healthcare Corporation) | Emulsion | Not listed in the record |
+| NDA018449 | Intralipid (ProPharma Distribution) | Emulsion | Not listed in the record |
 
 ---
 
@@ -92,13 +97,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-This prediction is supported only by a TxGNN model score (L5, no clinical or literature evidence), and lacks any known mechanism of action linking soybean oil to amenorrhea. Combined with the absence of Taiwan market authorization and blocking data gaps in safety information, there is insufficient basis to advance this candidate.
+The prediction is supported only by a model score (Evidence Level L5). There are no registered trials or publications, no mechanism of action data, and no plausible pharmacological link, since refined soybean oil has negligible isoflavone content. The score may be a knowledge-graph artifact.
 
 **To proceed, the following is needed:**
-- TFDA package insert warnings/contraindications (currently a Blocking data gap)
-- Detailed mechanism of action (MOA) data from DrugBank or primary literature
-- At least preclinical or mechanistic evidence linking soybean oil (or its metabolites) to reproductive/endocrine pathways
-- Reassessment of TxGNN prediction validity given the complete absence of supporting real-world evidence
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank (DB09422)
+- A systematic literature search for soy-derived lipids or isoflavones and menstrual or ovarian function
+- A check of whether the TxGNN score comes from generic soy-related graph connectivity rather than drug-specific evidence
+- Route and formulation compatibility assessment (parenteral emulsion versus any oral or dietary use for amenorrhea)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

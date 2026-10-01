@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Methoxsalen
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 912
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 ---
 
 # Methoxsalen
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,74 +29,68 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Methoxsalen: From Cutaneous T-Cell Lymphoma Photopheresis to Localized Pagetoid Reticulosis
+# Methoxsalen: From Photochemotherapy to Localized Pagetoid Reticulosis
 
 ## One-Sentence Summary
 
-Methoxsalen is a psoralen photosensitizer whose established clinical use (via extracorporeal photopheresis, ECP/UVADEX) targets circulating malignant T-cells in cutaneous T-cell lymphoma (CTCL). The TxGNN model's top-ranked prediction is **Localized Pagetoid Reticulosis**, a rare, localized CTCL subtype, but this specific prediction currently has **no registered clinical trials and no supporting literature** — it rests on class-effect extrapolation from methoxsalen's known CTCL biology rather than direct evidence.
-
----
+Methoxsalen is a light-activated (photosensitizing) drug used with UVA light, either on the skin or on blood treated outside the body. The TxGNN model predicts it may be effective for **localized pagetoid reticulosis**, with a very high score. However, **0 clinical trials** and **0 publications** were supplied for this specific disease, so the prediction currently rests on the model and mechanism alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in this evidence pack — methoxsalen is not currently marketed in Taiwan and no approved-indication record exists. (Contextual note: evidence embedded in the pack describes methoxsalen/8-MOP as the basis of extracorporeal photopheresis, an established CTCL treatment.) |
-| Predicted New Indication | Localized Pagetoid Reticulosis |
+| Original Indication | Not available (the approved-indication text for both US licenses was empty in the supplied data) |
+| Predicted New Indication | Localized pagetoid reticulosis |
 | TxGNN Prediction Score | 99.97% |
-| Evidence Level | L4 |
-| Market Status (Taiwan) | Not marketed (Not Marketed) |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 (1 NDA and 1 ANDA) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for methoxsalen is not available in this evidence pack (flagged as a High-severity data gap, DG002). Based on information embedded elsewhere in the pack, methoxsalen (8-MOP) is a furocoumarin (psoralen) photosensitizer: once activated by UVA light, it forms covalent crosslinks with DNA pyrimidine bases, halting proliferation of the exposed cells. This photoactivated DNA-crosslinking mechanism is the pharmacological basis of extracorporeal photopheresis (ECP), an established treatment for the circulating malignant T-cells of cutaneous T-cell lymphoma.
+Detailed mechanism-of-action data was not supplied. From general pharmacology, methoxsalen is activated by UVA light. It inserts itself into DNA and forms crosslinks, which can trigger apoptosis in skin-homing malignant T cells. It may also modulate immune responses. It is used topically with UVA (PUVA) and in extracorporeal photopheresis.
 
-Localized Pagetoid Reticulosis is a rare, indolent, localized subtype within the mycosis fungoides/CTCL disease spectrum — the same disease family that ECP already addresses. This gives the prediction mechanistic plausibility: the anti-proliferative, DNA-damaging photochemotherapy effect that clears malignant T-cells elsewhere in CTCL could plausibly extend to this localized variant.
+Pagetoid reticulosis is a localized, indolent variant within the mycosis fungoides spectrum of cutaneous T-cell lymphoma (CTCL). Because the disease is confined to the skin and involves skin-homing T cells, a mechanistic fit with UVA-activated methoxsalen is plausible. This rationale comes from the mechanism and from evidence in neighboring CTCL conditions, not from data on this specific entity.
 
-However, this rationale is a **class-effect extrapolation, not direct evidence** — no trials or publications specific to this subtype exist yet. For context, a related and broader prediction in the same evidence pack, "indolent primary cutaneous T-cell lymphoma" (rank 2), is supported by 2 literature citations and carries a stronger evidence rating (L2, "Proceed with Guardrails"), reinforcing that methoxsalen's CTCL-photopheresis mechanism is real and applicable — just not yet demonstrated for this particular localized subtype.
-
----
+Two supplied papers concern photopheresis in CTCL. They are attached to the second-ranked prediction, indolent primary cutaneous T-cell lymphoma, not to this one. They do not directly support this prediction.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
-
----
+Currently no related literature available.
 
 ## US Market Information
 
-No Taiwan market authorization records are available — methoxsalen is not currently marketed in Taiwan (0 licenses on file), so no NDA/product table can be generated.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA020969 | UVADEX (Therakos LLC) | Injection, solution | Not listed in supplied data |
+| ANDA202687 | Methoxsalen (Strides Pharma Science Limited) | Capsule, liquid filled | Not listed in supplied data |
 
----
+The two products cover two routes: injectable (used with extracorporeal treatment) and oral.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Although methoxsalen's DNA-crosslinking, photoactivated mechanism gives this prediction biological plausibility, Localized Pagetoid Reticulosis has zero direct trials or literature — evidence level L4 reflects mechanistic reasoning only, not demonstrated efficacy in this specific indication.
+The TxGNN score is very high, but no trials or literature were supplied for localized pagetoid reticulosis, so evidence is L5. The mechanistic rationale is reasonable but indirect. The strongest nearby signal is photopheresis evidence in other cutaneous T-cell lymphomas, which belongs to a different predicted indication.
 
 **To proceed, the following is needed:**
-- TFDA package insert warnings/contraindications (Blocking data gap — required before any S1 safety screening can proceed)
-- Full mechanism of action documentation for methoxsalen (DrugBank API lookup)
-- Dedicated case series or pilot data specific to localized pagetoid reticulosis, rather than class-effect extrapolation from broader CTCL/ECP use
-- Confirmation of a Taiwan registration pathway, since the drug is not currently marketed (0 licenses)
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Approved indication text from the US labels, to confirm whether CTCL or pagetoid reticulosis is already a labeled use
+- Mechanism-of-action data from DrugBank
+- A targeted search for PUVA or photopheresis studies, case series or reports in pagetoid reticulosis or mycosis fungoides
+- A route-compatibility assessment (topical PUVA vs. extracorporeal use) for a localized skin disease
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Etelcalcetide
-parent: High Evidence (L1-L2)
+parent: Moderate Evidence (L3-L4)
 nav_order: 679
-evidence_level: L2
+evidence_level: L4
 indication_count: 4
 ---
 
 # Etelcalcetide
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **4** 
+Evidence Level: **L4** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,60 +33,81 @@ Evidence Level: **L2** | Predicted Indications: **4**
 
 ## One-Sentence Summary
 
-Etelcalcetide is an intravenous calcimimetic originally developed to treat secondary hyperparathyroidism (SHPT) in chronic kidney disease patients on hemodialysis. The TxGNN model predicts it may also be effective for **Hyperphosphatemia**, with **1 clinical trial** and **3 publications** currently supporting this direction, though the evidence base is still early-stage (L2).
+Etelcalcetide (US brand PARSABIV) is an intravenous calcimimetic used to treat secondary hyperparathyroidism (SHPT) in hemodialysis patients.
+The TxGNN model predicts it may be relevant to **hyperphosphatemia**, but the support is thin: **1 registered clinical trial** (a mechanistic bone-biology study) and **3 publications**, none of which test phosphate lowering as the main endpoint.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Secondary hyperparathyroidism (SHPT) in CKD patients on hemodialysis *(not TFDA-labeled — drug not yet marketed in Taiwan; official indication text unavailable)* |
+| Original Indication | Secondary hyperparathyroidism in hemodialysis patients (the US license records provide no indication text; this is taken from the literature and the pack's rationale) |
 | Predicted New Indication | Hyperphosphatemia |
 | TxGNN Prediction Score | 99.42% |
-| Evidence Level | L2 |
-| Market Status (Taiwan) | Not Marketed |
-| Number of NDAs | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Evidence Level | L4 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 3 license entries, all under a single NDA (NDA208325) |
+| Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from DrugBank in this evidence pack (data gap DG002). Based on known pharmacology, etelcalcetide is a calcium-sensing receptor (CaSR) agonist — a calcimimetic — administered intravenously at the end of hemodialysis sessions. It activates parathyroid CaSR to suppress parathyroid hormone (PTH) secretion, which in turn reduces PTH-driven calcium/phosphate release from bone and calcium/phosphate reabsorption in the gut and kidney.
+Currently, detailed mechanism of action data is not available in the record. Etelcalcetide is a calcimimetic: it activates the calcium-sensing receptor on parathyroid cells and lowers parathyroid hormone (PTH). Its efficacy in SHPT is established, and the link to hyperphosphatemia is mechanistically plausible but has not been checked against the source record.
 
-Secondary hyperparathyroidism and hyperphosphatemia are both core components of chronic kidney disease–mineral and bone disorder (CKD-MBD) and are highly co-morbid in the hemodialysis population: elevated PTH drives phosphate release from bone, while reduced renal clearance further raises serum phosphate. Because etelcalcetide's PTH-suppressing mechanism sits upstream of this phosphate-release pathway, a secondary phosphate-lowering effect is mechanistically plausible even though hyperphosphatemia is not etelcalcetide's approved primary indication.
+SHPT and hyperphosphatemia are closely linked parts of chronic kidney disease-mineral and bone disorder (CKD-MBD). Lower PTH reduces bone turnover, which can lower serum phosphate and calcium as a downstream effect. The high TxGNN score likely reflects this close CKD-MBD network association.
 
-This is best understood as a mechanistically coherent but *indirect* ("adjacent indication") relationship rather than a validated new use. The strongest supporting trial, the DUET trial (PMID 33305109), was designed and powered to evaluate PTH control, not phosphate as a primary endpoint — so the hyperphosphatemia signal should be read as supportive, biomarker-level evidence rather than confirmatory proof of efficacy.
+The link is indirect. Phosphate lowering here is a secondary pharmacodynamic effect of SHPT treatment, not a separate therapeutic use. In practice, phosphate is managed mainly with oral binders. This prediction is therefore better read as a research question about a secondary effect than as a new indication.
+
+---
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT03527511](https://clinicaltrials.gov/study/NCT03527511) | N/A | Completed | 21 | Small mechanistic study evaluating the effect of active vitamin D and etelcalcetide on osteoclast activity in CKD-MBD patients — addresses bone/mineral pathway relevant to hyperphosphatemia rather than phosphate levels as a primary endpoint |
+| [NCT03527511](https://clinicaltrials.gov/study/NCT03527511) | N/A | Completed | 21 | Effect of active vitamin D and etelcalcetide on human osteoclasts in CKD patients. This is a mechanistic bone-biology study, not designed around a phosphate endpoint. Relevance grade: C. |
+
+---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [33305109](https://pubmed.ncbi.nlm.nih.gov/33305109/) | 2020 | RCT | Kidney International Reports | The DUET trial: prospective RCT of etelcalcetide in hemodialysis patients with secondary hyperparathyroidism, evaluating multilateral mechanisms including mineral/phosphate control |
-| [29440923](https://pubmed.ncbi.nlm.nih.gov/29440923/) | 2018 | Review | International Journal of Nephrology and Renovascular Disease | Reviews etelcalcetide's role in managing SHPT in hemodialysis, noting its effect on reducing PTH alongside phosphate-lowering strategies |
-| [33211001](https://pubmed.ncbi.nlm.nih.gov/33211001/) | 2021 | Case Report | Clinical Nephrology | Case of metastatic pulmonary calcification in a dialysis patient with hyperparathyroidism, illustrating downstream consequences of uncontrolled mineral/phosphate metabolism |
+| [33305109](https://pubmed.ncbi.nlm.nih.gov/33305109/) | 2020 | RCT | Kidney Int Rep | DUET trial: prospective randomized study of etelcalcetide for SHPT control in hemodialysis patients. It targets SHPT, not hyperphosphatemia. |
+| [29440923](https://pubmed.ncbi.nlm.nih.gov/29440923/) | 2018 | Review | Int J Nephrol Renovasc Dis | Reviews etelcalcetide in hemodialysis SHPT. Notes that phosphate is usually managed with oral binders and that etelcalcetide effectively lowers PTH with thrice-weekly dosing. |
+| [33211001](https://pubmed.ncbi.nlm.nih.gov/33211001/) | 2021 | Case report | Clin Nephrol | Temporary metastatic pulmonary calcification in a peritoneal dialysis patient with hyperparathyroidism. Background on ectopic calcification in ESRD only. |
+
+---
+
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA208325 | PARSABIV (Amgen Inc) | Injection, solution | Not provided in the license record |
+
+The record lists three identical entries for this NDA; they are shown once here.
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No TFDA warnings, contraindications, or drug interaction data are currently available for etelcalcetide (DG001, Blocking).
+Please refer to the package insert for safety information.
+
+---
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-There is one supportive RCT (DUET trial) and a coherent CaSR/PTH mechanistic pathway linking etelcalcetide's approved use to phosphate metabolism, but no trial has used phosphate reduction as a primary endpoint, and the drug is not currently marketed in Taiwan.
+The prediction score is high, but the evidence is L4. The only trial is a mechanistic study, and the literature does not test phosphate lowering directly. Hyperphosphatemia is also a secondary effect of the approved SHPT use, not a distinct indication. The other predicted indications (esophageal varices with and without bleeding, varicose disease) are L5 model predictions with no plausible mechanism, and they are also on Hold.
 
 **To proceed, the following is needed:**
-- TFDA package insert / label (warnings, contraindications) — currently a Blocking data gap
-- Confirmed DrugBank mechanism-of-action documentation
-- Taiwan market entry status for etelcalcetide
-- Trial data with hyperphosphatemia (not PTH) as the primary endpoint
-
-**Note on other candidates:** Three additional TxGNN-predicted indications for this drug (esophageal varices with/without bleeding, varicose disease) were also assessed but rated **L5 / Hold** — no clinical trials, no literature, and no plausible mechanistic link to CaSR/PTH biology. These are considered likely knowledge-graph statistical artifacts and are not recommended for further evaluation.
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Serum phosphate outcomes from existing etelcalcetide RCTs, such as the DUET data, to show whether the effect is clinically meaningful
+- A decision on whether this is a distinct indication or only a secondary benefit of SHPT treatment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

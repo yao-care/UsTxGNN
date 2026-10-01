@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Lamotrigine
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 831
-evidence_level: L2
+evidence_level: L5
 indication_count: 9
 ---
 
 # Lamotrigine
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **9** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L2** | Predicted Indications: **9**
 
 </div>
 
-# Lamotrigine: From Epilepsy to Trigeminal Neuralgia
+# Lamotrigine: From Epilepsy and Bipolar Disorder to Trigeminal Nerve Neoplasm (Top-Ranked Prediction Not Supported; Trigeminal Neuralgia Is the Real Lead)
 
 ## One-Sentence Summary
 
-Lamotrigine is a broad-spectrum anticonvulsant originally developed for epilepsy (seizure disorders) and later established for bipolar disorder. The TxGNN model, supported by pharmacological literature, predicts it may be effective for **Trigeminal Neuralgia**, with **4 clinical trials** (including 2 lamotrigine-specific completed studies) and **19 publications** currently supporting this direction.
-
-> **Note on model ranking:** TxGNN's single highest-scoring node ("trigeminal nerve neoplasm," score 99.97%) is flagged in the evidence pack's own rationale as a likely knowledge-graph confusion with "trigeminal neuralgia" — its only supporting literature is a general neuralgia review and an unrelated tumor case report, with no lamotrigine-specific evidence (Evidence Level L5, Hold). This report instead focuses on the second-ranked, substantively evidenced candidate, **trigeminal neuralgia**, which carries real drug-specific clinical trial data.
+Lamotrigine is an antiseizure medication, described in the retrieved literature as used for seizure and bipolar mood disorders.
+The top-ranked TxGNN prediction is **Trigeminal Nerve Neoplasm**, but there are **0 clinical trials** and no lamotrigine-specific publications for it, and no credible antitumour mechanism.
+The graph score is most likely driven by proximity to **trigeminal neuralgia** (rank 2), which has **4 registered trials** (2 directly on target) and **18 publications** behind it.
 
 ---
 
@@ -43,57 +43,74 @@ Lamotrigine is a broad-spectrum anticonvulsant originally developed for epilepsy
 
 | Item | Content |
 |------|------|
-| Original Indication | Epilepsy / seizure disorders (and bipolar disorder) — per literature evidence in this pack; no TFDA license text available |
-| Predicted New Indication | Trigeminal Neuralgia |
-| TxGNN Prediction Score | 99.89% |
-| Evidence Level | L2 |
-| US Market Status | Not marketed (0 licenses on record in this evidence pack) |
-| Number of NDAs | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Original Indication | Not listed in the retrieved US label data (literature describes seizure and bipolar disorders) |
+| Predicted New Indication | Trigeminal nerve neoplasm (rank 1); better-supported candidate: trigeminal neuralgia (rank 2) |
+| TxGNN Prediction Score | 99.97% (trigeminal neuralgia: 99.89%) |
+| Evidence Level | L5 (trigeminal neuralgia: L2) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (the listed authorizations are ANDAs, i.e. generics) |
+| Recommended Decision | Hold (trigeminal neuralgia: Proceed with Guardrails) |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Lamotrigine is a voltage-gated sodium channel blocker that inhibits glutamate release and stabilizes neuronal membranes. According to the evidence pack's mechanistic rationale, this action can suppress abnormal discharges at the trigeminal ganglion — the same underlying mechanism exploited by carbamazepine and oxcarbazepine, the established first-line drugs for trigeminal neuralgia.
+Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on the pack's rationale notes, lamotrigine blocks voltage-gated sodium channels and reduces glutamate release. These are properties shared with carbamazepine and oxcarbazepine.
 
-Trigeminal neuralgia and epilepsy share a common therapeutic class: both are neuronal hyperexcitability disorders responsive to sodium-channel-blocking anticonvulsants. This mechanistic overlap is why several second-generation antiepileptics, lamotrigine included, have been trialed as add-on or alternative therapy when first-line agents fail or are poorly tolerated.
+**Trigeminal nerve neoplasm:** This prediction is not credible. Nothing supports an antitumour effect from lamotrigine. The high score most likely reflects the drug's graph proximity to trigeminal neuralgia, a pain disorder of the same nerve, rather than to any neoplasm. Neither retrieved paper concerns lamotrigine in a tumour.
 
-This is not purely theoretical extrapolation — the European Academy of Neurology guideline (PMID 30860637, a Tier 1 guideline source) already lists lamotrigine among treatment options for TN, and two completed clinical trials (a placebo-controlled add-on study and a head-to-head Phase 2/3 comparison against carbamazepine) provide direct human evidence, albeit in small cohorts.
+**Trigeminal neuralgia:** This link is strong and biologically coherent. Carbamazepine and oxcarbazepine are the first-line drugs, and lamotrigine acts through the same sodium-channel mechanism. It is used off-label as an alternative in some settings (for example Japan, per PMID 38246671).
+
+Several reflex-seizure predictions (startle epilepsy, audiogenic seizures, reading seizures and others) share a generic antiseizure rationale. Only startle epilepsy has direct lamotrigine reports, all small case series.
 
 ---
 
 ## Clinical Trial Evidence
 
+**Trigeminal nerve neoplasm:** Currently no related clinical trials registered.
+
+**Trigeminal neuralgia (rank 2), shown because it is the actionable lead:**
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00203229](https://clinicaltrials.gov/study/NCT00203229) | N/A | Completed | 20 | Double-blind, placebo-controlled add-on study of lamotrigine (Lamictal) safety and efficacy in reducing trigeminal neuralgia attacks |
-| [NCT00913107](https://clinicaltrials.gov/study/NCT00913107) | Phase 2/3 | Completed | 21 | Head-to-head comparison of lamotrigine vs. carbamazepine efficacy and safety in trigeminal neuralgia |
-| [NCT00243152](https://clinicaltrials.gov/study/NCT00243152) | N/A | Completed | 6 | fMRI study evaluating lamotrigine's effect on neuropathic facial pain / neuralgia |
-| [NCT04996199](https://clinicaltrials.gov/study/NCT04996199) | Phase 4 | Unknown | 132 | Comparative efficacy of carbamazepine vs. oxcarbazepine in TN (background comparator trial; does not use lamotrigine) |
+| [NCT00913107](https://clinicaltrials.gov/study/NCT00913107) | Phase 2/3 | Completed | 21 | Lamotrigine vs carbamazepine in trigeminal neuralgia; directly on target but small |
+| [NCT00203229](https://clinicaltrials.gov/study/NCT00203229) | N/A | Completed | 20 | Double-blind, placebo-controlled add-on study of lamotrigine; population to be confirmed |
+| [NCT00243152](https://clinicaltrials.gov/study/NCT00243152) | N/A | Completed | 6 | fMRI study of lamotrigine in neuropathic facial pain; mechanistic only |
+| [NCT04996199](https://clinicaltrials.gov/study/NCT04996199) | Phase 4 | Unknown | 132 | Carbamazepine vs oxcarbazepine; does not test lamotrigine, standard-of-care context only |
 
 ---
 
 ## Literature Evidence
 
+**Trigeminal nerve neoplasm:** The two retrieved papers are about trigeminal neuralgia in general and do not evaluate lamotrigine in any neoplasm.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [21621166](https://pubmed.ncbi.nlm.nih.gov/21621166/) | 2011 | Comparative study | Journal of the Chinese Medical Association | Companion publication to NCT00913107; evaluated efficacy/safety of lamotrigine vs. carbamazepine in TN patients |
-| [30860637](https://pubmed.ncbi.nlm.nih.gov/30860637/) | 2019 | Guideline | European Journal of Neurology | European Academy of Neurology guideline on TN management, including pharmacotherapy recommendations |
-| [38870050](https://pubmed.ncbi.nlm.nih.gov/38870050/) | 2024 | Review | Expert Review of Neurotherapeutics | Update on TN pharmacotherapy; lamotrigine noted among options beyond first-line carbamazepine/oxcarbazepine |
-| [37892981](https://pubmed.ncbi.nlm.nih.gov/37892981/) | 2023 | Systematic review | Biomedicines | Umbrella review of drug therapies for TN and their efficacy/side-effect profiles |
-| [31908187](https://pubmed.ncbi.nlm.nih.gov/31908187/) | 2020 | Review | Molecular Pain | Overview of TN pathophysiology through pharmacological treatment |
-| [39365662](https://pubmed.ncbi.nlm.nih.gov/39365662/) | 2025 | Cohort | Pain | Nationwide Danish disease-trajectory study of TN comorbidities (7.2M individuals) |
-| [34108244](https://pubmed.ncbi.nlm.nih.gov/34108244/) | 2021 | Review | Practical Neurology | Practical guide to TN diagnosis and management |
-| [30081317](https://pubmed.ncbi.nlm.nih.gov/30081317/) | 2018 | Case report | Multiple Sclerosis and Related Disorders | Refractory TN in an MS patient successfully treated with pregabalin + lamotrigine combination |
-| [38246671](https://pubmed.ncbi.nlm.nih.gov/38246671/) | 2024 | Review | No Shinkei Geka (Neurological Surgery) | Japanese review of TN pharmacotherapy listing lamotrigine as an off-label alternative |
-| [25299564](https://pubmed.ncbi.nlm.nih.gov/25299564/) | 2014 | Clinical evidence review | BMJ Clinical Evidence | Overview of TN diagnosis, prognosis, and treatment options |
+| [17997704](https://pubmed.ncbi.nlm.nih.gov/17997704/) | 2007 | Review | Expert Rev Neurother | Overview of medical and surgical treatments for trigeminal neuralgia |
+| [30650431](https://pubmed.ncbi.nlm.nih.gov/30650431/) | 2018 | Case report | Stereotact Funct Neurosurg | Gamma Knife radiosurgery for neuralgia caused by a cavernous malformation |
+
+**Trigeminal neuralgia (rank 2), key items:**
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [30860637](https://pubmed.ncbi.nlm.nih.gov/30860637/) | 2019 | Guideline | Eur J Neurol | European Academy of Neurology guideline on trigeminal neuralgia management |
+| [37892981](https://pubmed.ncbi.nlm.nih.gov/37892981/) | 2023 | Systematic Review | Biomedicines | Umbrella review of drug efficacy and side effects in trigeminal neuralgia |
+| [38870050](https://pubmed.ncbi.nlm.nih.gov/38870050/) | 2024 | Review | Expert Rev Neurother | Carbamazepine and oxcarbazepine remain first-line; newer agents are possible adjuvants |
+| [21621166](https://pubmed.ncbi.nlm.nih.gov/21621166/) | 2011 | Clinical study | J Chin Med Assoc | Lamotrigine vs carbamazepine: efficacy and side effects in trigeminal neuralgia |
+| [30081317](https://pubmed.ncbi.nlm.nih.gov/30081317/) | 2018 | Case report | Mult Scler Relat Disord | Refractory trigeminal neuralgia in MS treated with pregabalin plus lamotrigine |
+| [38246671](https://pubmed.ncbi.nlm.nih.gov/38246671/) | 2024 | Review | No Shinkei Geka | Lamotrigine used off-label in Japan as an alternative to carbamazepine |
 
 ---
 
 ## US Market Information
 
-No FDA/regulatory license records are present in this evidence pack (`total_licenses = 0`). This is flagged as a data gap (DG001: TFDA label/warning data blocking) rather than a confirmed absence of marketing authorization — regulatory data collection for this drug should be re-verified before relying on this status.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA206382 | Lamotrigine | Orally disintegrating tablet | Not listed in retrieved data |
+| ANDA207497 | Lamotrigine | Film-coated extended-release tablet | Not listed in retrieved data |
+| ANDA213271 | Lamotrigine | Orally disintegrating tablet | Not listed in retrieved data |
+
+ANDA207497 appears under three labelers (Amneal ×2, AvKARE). Other US forms include standard, chewable, extended-release and dispersible tablets.
 
 ---
 
@@ -101,20 +118,24 @@ No FDA/regulatory license records are present in this evidence pack (`total_lice
 
 Please refer to the package insert for safety information.
 
+Literature retrieved for other predictions notes a recent warning on possible ventricular arrhythmias (PMID 40499085, target-trial analysis) and case reports of lamotrigine-associated hemophagocytic lymphohistiocytosis (PMID 33408106). These should be checked against the current label.
+
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold** (trigeminal nerve neoplasm); **Proceed with Guardrails** for trigeminal neuralgia.
 
 **Rationale:**
-A completed placebo-controlled add-on trial and a completed Phase 2/3 head-to-head trial against carbamazepine provide direct, drug-specific evidence for lamotrigine in trigeminal neuralgia, reinforced by guideline-level literature and a consistent sodium-channel-blocking mechanism shared with established TN therapies. However, both pivotal trials are small (N=20 and N=21), and no confirmatory large-scale Phase 3 RCT exists — guardrails are warranted before broader clinical application.
+The neoplasm prediction is a graph artefact with no trials, no lamotrigine-specific literature and no mechanism, so it should not be pursued. Trigeminal neuralgia has a coherent mechanism and a completed Phase 2/3 trial against carbamazepine, but that trial is small (n=21), so evidence is L2 rather than L1.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (DG001 — currently blocking safety evaluation)
-- Detailed mechanism of action data from DrugBank (DG002)
-- A larger, confirmatory Phase 3 RCT in trigeminal neuralgia
-- Verification of actual US/Taiwan market and licensing status, given the apparent inconsistency between "0 licenses on record" and lamotrigine's well-established clinical use
+- Re-rank or re-label the candidate so trigeminal neuralgia, not the neoplasm, is the lead indication
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Confirmation of the population in NCT00203229 and full results of NCT00913107
+- A larger randomized trial or meta-analysis of lamotrigine in trigeminal neuralgia
+- Detailed mechanism-of-action data (e.g. from DrugBank)
+- Route and formulation compatibility assessment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Nefazodone
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 959
-evidence_level: L5
+evidence_level: L4
 indication_count: 2
 ---
 
 # Nefazodone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **2** 
+Evidence Level: **L4** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,78 +33,76 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Nefazodone is a serotonin antagonist and reuptake inhibitor (SARI-class), historically used as an antidepressant. The TxGNN model predicts potential efficacy for **Migraine Disorder** (score 99.60%), but this is currently supported only by **3 narrative review articles** and **no dedicated clinical trials** — the evidence is mechanistic/hypothesis-level, not clinically validated.
-
-> **Note on original indication**: This evidence pack does not contain confirmed original-indication or MOA data for nefazodone (flagged as data gaps DG001/DG002 below). "Depression" reflects the drug's known SARI pharmacological class as referenced in the repurposing rationale, not a sourced field in this pack.
-
----
+Nefazodone is an oral antidepressant. The Evidence Pack does not state its original indication, so "depression" here comes from general pharmacology.
+The TxGNN model predicts it may be effective for **migraine disorder**, but there are currently **0 registered clinical trials** and only **3 narrative reviews** behind this direction. The evidence is preliminary, and the drug carries a serious liver-safety concern.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Depression (inferred from SARI drug class; not independently confirmed in this evidence pack) |
-| Predicted New Indication | Migraine Disorder |
+| Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 99.60% |
-| Evidence Level | L4 (mechanism/literature-level, no dedicated clinical trials) |
-| Taiwan (TFDA) Market Status | Not marketed (Not Marketed) |
-| Number of TFDA Licenses | 0 |
+| Evidence Level | L4 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 6 (all under ANDA076037, a generic application) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for nefazodone is currently a data gap (DG002) in this evidence pack. Based on the repurposing rationale available, nefazodone is described as a 5-HT2A receptor antagonist combined with weak serotonin/norepinephrine reuptake inhibition (SARI class).
+Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on general pharmacology, nefazodone is a potent 5-HT2A antagonist with weak serotonin and norepinephrine reuptake inhibition. This link therefore rests on general knowledge and not on data supplied here.
 
-Serotonergic modulation has pharmacological plausibility in migraine prevention — other antidepressant classes (TCAs, SNRIs) already carry migraine-prophylaxis indications as precedent. However, this link is a mechanistic inference rather than direct clinical evidence specific to nefazodone. The TxGNN score of 0.996 reflects knowledge-graph similarity between nefazodone and other drugs/diseases in the graph, not clinical validation.
+Blocking 5-HT2A/2C receptors is a recognized rationale for migraine prevention. Other antidepressants, such as amitriptyline and venlafaxine, are already used for prophylaxis. This makes the prediction mechanistically plausible but unconfirmed. A 2004 review lists nefazodone among the emerging preventive options for migraine.
 
-A secondary, lower-confidence prediction — **migraine with brainstem aura** (score 99.60%, evidence level L5, no supporting literature at all) — shares the same serotonergic rationale but lacks even review-level literature support, and involves brainstem-specific vascular/neural mechanisms not addressed by any available data.
+The model also gave a similar score (99.60%) to **migraine with brainstem aura**, a rare subtype. There are no trials or publications for it. The score most likely reflects its proximity to the parent migraine node in the knowledge graph and is not an independent signal, so it is not evaluated further here.
 
----
+The TxGNN score is a model prediction, not clinical evidence.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [15926007](https://pubmed.ncbi.nlm.nih.gov/15926007/) | 2005 | Review | Neurological Sciences | Overview of emerging migraine preventive treatment options; nefazodone discussed among candidate agents. |
-| [15115635](https://pubmed.ncbi.nlm.nih.gov/15115635/) | 2004 | Review | Current Pain and Headache Reports | Reviews prophylactic migraine therapies including topiramate, tizanidine, and nefazodone; overview of migraine pathophysiology. |
-| [15549532](https://pubmed.ncbi.nlm.nih.gov/15549532/) | 2004 | Review | Neurological Sciences | Reviews new preventive migraine drugs; notes evidence quality varies from controlled trials to open/uncontrolled studies. |
+| [15115635](https://pubmed.ncbi.nlm.nih.gov/15115635/) | 2004 | Review | Current Pain and Headache Reports | Reviews emerging migraine preventive options. Nefazodone is among the agents discussed, alongside topiramate, levetiracetam, zonisamide, botulinum toxin, tizanidine, lisinopril and candesartan. |
+| [15549532](https://pubmed.ncbi.nlm.nih.gov/15549532/) | 2004 | Review | Neurological Sciences | Reviews new migraine prevention drugs. Some data come from double-blind controlled studies and some only from open, uncontrolled trials. |
+| [15926007](https://pubmed.ncbi.nlm.nih.gov/15926007/) | 2005 | Review | Neurological Sciences | Overview of current and emerging migraine preventive treatments. The abstract does not name nefazodone specifically. |
 
-All three are narrative reviews (Tier 3) that mention nefazodone alongside multiple other agents — none are nefazodone-specific efficacy studies.
-
----
+All three are narrative reviews from 2004–2005. None is a controlled trial of nefazodone in migraine.
 
 ## US Market Information
 
-Nefazodone is not marketed in Taiwan (0 TFDA licenses on record); no license or approved-indication data is available in this evidence pack.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA076037 | Nefazodone Hydrochloride | Tablet (oral) | Teva Pharmaceuticals USA, Inc. |
+| ANDA076037 | Nefazodone Hydrochloride | Tablet (oral) | Bryant Ranch Prepack |
 
----
+The Evidence Pack lists 5 entries under the same authorization number (4 Teva, 1 Bryant Ranch Prepack), with no approved-indication text.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and DDI data are all unavailable in this evidence pack — TFDA label data is a **Blocking** data gap, DG001.)
+- **Key Warnings**: Nefazodone carries a boxed warning for hepatotoxicity (liver failure). This comes from the Pack's rationale notes, not from parsed label data.
+- **Drug Interactions**: Nefazodone is a strong CYP3A4 inhibitor, so clinically significant interactions are likely. The DDI query returned no results, which is probably a data gap and not evidence of no interactions.
+- Migraine is a chronic condition treated long-term and has many safer alternatives, so this risk weighs heavily against use.
 
----
+Please refer to the package insert for complete warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Evidence for migraine disorder is limited to three narrative reviews with no dedicated clinical trials, and the TFDA safety profile (warnings/contraindications) is entirely unavailable — this blocks any S1 safety pre-assessment. The secondary candidate (migraine with brainstem aura) has even weaker support (L5, no literature) and should remain deprioritized.
+The only support is a model prediction and three older narrative reviews, with no registered trials. The hepatotoxicity boxed warning and strong CYP3A4 inhibition make the risk-benefit balance unfavorable for a chronic, preventive use with many safer alternatives.
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings/contraindications) — resolve DG001 before any safety pre-assessment
-- Confirmed MOA and original indication data from DrugBank — resolve DG002
-- Dedicated clinical trial or case-series evidence specific to nefazodone in migraine prevention (current literature only mentions it in passing within broader reviews)
-- DDI data, given nefazodone's known hepatic metabolism-related interaction profile is currently unqueried (query_status: not_found)
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- A full DDI profile
+- Controlled clinical data of nefazodone in migraine prevention
+- A risk-benefit comparison against existing prophylactic agents (e.g., amitriptyline, venlafaxine)
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,78 +29,64 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Deoxycholic Acid: From Secondary Bile Acid to Autosomal Dominant Familial Hematuria-Retinal Arteriolar Tortuosity-Contractures Syndrome
+# Deoxycholic Acid: From an Injectable Cytolytic Agent (KYBELLA) to Autosomal Dominant Familial Hematuria-Retinal Arteriolar Tortuosity-Contractures Syndrome
 
 ## One-Sentence Summary
 
-Deoxycholic acid is a secondary bile acid produced by intestinal bacteria, with known pharmacological actions including bile acid receptor signaling (FXR/TGR5) and cytolytic disruption of adipocyte cell membranes.
-The TxGNN model predicts it may be effective for **autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome**,
-with **0 clinical trials** and **0 publications** currently supporting this specific repurposing direction.
-
----
+Deoxycholic acid is a secondary bile acid marketed in the US as an injectable cytolytic agent (KYBELLA).
+The TxGNN model predicts it may be effective for **autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome**, a rare monogenic vascular basement-membrane disorder.
+This prediction currently has **0 clinical trials** and **0 publications** behind it, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | No approved indication recorded in current dataset |
-| Predicted New Indication | Autosomal Dominant Familial Hematuria-Retinal Arteriolar Tortuosity-Contractures Syndrome |
+| Original Indication | Not recorded in the data (marketed as KYBELLA, an injectable cytolytic product) |
+| Predicted New Indication | Autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome |
 | TxGNN Prediction Score | 99.49% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed (per current dataset) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known pharmacological information, deoxycholic acid is a secondary bile acid naturally produced by gut bacteria through dehydroxylation of primary bile acids. It is known to act as a ligand for the G protein-coupled receptor TGR5 and as a weak agonist of the nuclear bile acid receptor FXR (Farnesoid X Receptor). At cytolytic concentrations, it disrupts phospholipid bilayers, causing direct destruction of adipocytes — the mechanism underlying its use in submental fat reduction (marketed as Kybella® in the United States).
+Currently, detailed mechanism of action data is not available. Deoxycholic acid is a secondary bile acid, and its marketed use is as a cytolytic agent given by injection.
 
-Autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome is a rare hereditary disorder caused by mutations in **COL4A3/COL4A4** genes, which encode type IV collagen alpha chains essential for basement membrane integrity. The syndrome manifests as hematuria, retinal arteriolar tortuosity, and joint contractures — consequences of structural basement membrane defects rather than any dysregulated metabolic or inflammatory signaling pathway.
-
-There is **no established mechanistic link** between deoxycholic acid's known actions (bile acid receptor signaling, membrane lipid disruption) and the collagen biosynthesis defect underlying this syndrome. The high TxGNN prediction score (0.9949) reflects structural proximity within the knowledge graph topology rather than a demonstrated biological relationship. This prediction is most likely an artifact of graph-based inference and should not be taken as a genuine therapeutic hypothesis without substantial additional evidence.
-
----
+The data support no mechanistic link between this drug and the predicted disease. The disease is a rare monogenic disorder of vascular basement membranes. The 99.49% score comes from graph-based prediction alone, with no trials, no literature and no known mechanism of action to back it. This prediction should be treated as a model output that needs independent validation.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-No market authorization records were found in the current dataset.
-
-> **⚠️ Possible Data Gap:** Deoxycholic acid injection (Kybella®/Belkyra®) has been FDA-approved in the United States since 2015 for the reduction of submental fullness. The absence of records in this dataset likely reflects a gap in the query pipeline rather than actual non-approval status. Please verify directly against the FDA Orange Book before drawing regulatory conclusions.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA206333 | KYBELLA (Kythera Biopharmaceuticals Inc.) | Injection, solution | Not provided in the record |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
----
+Please refer to the package insert for safety information. No drug-interaction records were found for this drug.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-There is no mechanistic rationale, no registered clinical trial evidence, and no published literature directly linking deoxycholic acid to autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome. This syndrome is driven by a genetic collagen defect that falls entirely outside the known pharmacological scope of bile acid signaling or membrane-disrupting agents.
+The prediction is supported only by a model score, at evidence level L5. There is no clinical, literature or mechanistic support. The drug is a locally injected cytolytic agent, and the target disease is a monogenic vascular disorder with no plausible drug-specific link.
 
 **To proceed, the following is needed:**
-- Establish whether any biological pathway connects FXR/TGR5 bile acid signaling to COL4A3/COL4A4 collagen homeostasis or basement membrane biology
-- Retrieve complete mechanism of action (MOA) data from DrugBank API (Data Gap DG002)
-- Obtain full safety profile from US package insert, including known cytotoxicity and dose-dependent adverse effects (Data Gap DG001)
-- **Strongly recommend redirecting analytical focus to the Rank 3 predicted indication — diabetic nephropathy (L4, Research Question):** Multiple preclinical studies support FXR/TGR5 bile acid signaling as a renoprotective pathway, including a Tier-1 FXR/TGR5 dual agonist animal RCT (PMID 29089371) and human metabolomic evidence linking bile acid dysregulation to diabetic kidney disease progression (PMID 39384774). This indication merits formal mechanistic review and S1 safety assessment before advancing further.
+- Mechanism of action data from DrugBank
+- Package insert warnings and contraindications, which are needed before any safety screening
+- A drug-specific mechanistic rationale linking deoxycholic acid to the disease, or supporting preclinical data
+- A review of the other two TxGNN predictions for this drug:
+  - Diabetic nephropathy (score 99.32%) has L4 preclinical support. Most of it involves FXR/TGR5 signalling or other bile acids such as UDCA rather than deoxycholic acid itself. Its systemic relevance is doubtful because the marketed product is a local injection. It is classed as a research question, not a development candidate.
+  - Brain small vessel disease 1 with or without ocular anomalies (score 99.49%) has only generic disease-background literature, with no drug-specific evidence.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

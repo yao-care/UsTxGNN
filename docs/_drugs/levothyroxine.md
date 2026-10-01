@@ -3,14 +3,14 @@ layout: default
 title: Levothyroxine
 parent: Moderate Evidence (L3-L4)
 nav_order: 858
-evidence_level: L3
+evidence_level: L4
 indication_count: 10
 ---
 
 # Levothyroxine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,76 +29,103 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Levothyroxine: From Hypothyroidism to Endemic Goiter
+# Levothyroxine: From Thyroid Hormone Replacement to Endemic Goiter
 
 ## One-Sentence Summary
 
-Levothyroxine (LT4) is the synthetic thyroid hormone used as lifelong replacement therapy for hypothyroidism of any cause. The TxGNN model's top-ranked prediction is that it may also be effective for **Endemic Goiter**, with **1 clinical trial** and **20 publications** currently retrieved as supporting evidence — though the single trial found does not test LT4 directly.
+Levothyroxine is a synthetic thyroid hormone marketed in the United States as tablets and as a lyophilized injection. The Evidence Pack does not list an approved indication for it.
+The TxGNN model predicts it may be effective for **endemic goiter**, but only **1 clinical trial** (unrelated to levothyroxine) and **18 mostly indirect publications** are retrieved.
+Evidence is weak: none of the retrieved literature is a trial of levothyroxine for this indication, so this is best treated as a research question.
 
-*Note on the wider evidence pack:* this candidate set actually contains 10 TxGNN-predicted indications for levothyroxine. Several (nodular goiter, nontoxic goiter, dyshormonogenic goiter, lingual goiter, substernal goiter) are goiter/thyroid-axis conditions with genuine, sometimes strong, LT4 clinical evidence — this cross-validates the model. Three others (renal hypodysplasia/aplasia, bilateral renal agenesis, Potter sequence) are flagged in the evidence pack itself as likely knowledge-graph embedding artifacts with no mechanistic or clinical support, and Carney complex evidence describes disease association, not LT4 treatment. This report follows the requested single-indication format and covers rank 1 (endemic goiter) in full; see the note under "Why is This Prediction Reasonable" for how it compares to the stronger-evidence alternatives in the same pack.
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available from Taiwan regulatory data (drug currently unlicensed in Taiwan; 0 license records). Levothyroxine's globally established indication is replacement therapy for hypothyroidism — this is general pharmacological knowledge, not sourced from the evidence pack. |
-| Predicted New Indication | Endemic Goiter |
+| Original Indication | Not listed in the retrieved US label data (thyroid hormone replacement product) |
+| Predicted New Indication | Endemic goiter |
 | TxGNN Prediction Score | 99.81% |
-| Evidence Level | L3 |
-| Taiwan Market Status | Not marketed (Not Marketed) |
-| Number of Licenses | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Evidence Level | L4 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
+| Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for this candidate is flagged as a data gap in the evidence pack (DG002, High severity). Based on well-established pharmacology, levothyroxine is the synthetic form of endogenous thyroxine (T4) and is converted peripherally to the active hormone T3; it is the standard replacement therapy wherever endogenous thyroid hormone production is insufficient.
+Currently, detailed mechanism of action data is not available in the Evidence Pack. Levothyroxine is a thyroid hormone replacement, and the following is a plausible mechanistic rationale rather than a documented finding.
 
-Endemic goiter arises predominantly from chronic iodine deficiency, which impairs thyroid hormone synthesis, lowers circulating T4/T3, and drives compensatory, TSH-mediated thyroid enlargement. LT4 supplementation directly corrects the hormone deficit and, by restoring negative feedback, suppresses the excess TSH drive that causes the goiter. This is described in the evidence pack's own rationale as a "mechanistically clear, public-health/clinical-consensus treatment" — it is closer to an established use than a novel repurposing hypothesis.
+Endemic goiter arises mainly from iodine deficiency. Low thyroid hormone output raises TSH, and TSH drives thyroid growth. Giving thyroid hormone could lower TSH and limit that growth.
 
-The caveat is evidentiary rather than mechanistic: the one clinical trial retrieved (NCT04482907) tested a dill (*Anethum graveolens*) extract, not LT4, in thyroiditis/nodular goiter patients (relevance grade C — title-level match only). Direct LT4 trial data specific to the "endemic goiter" label was not found in this search; the literature base is largely epidemiological/review-level. Within the same evidence pack, rank 3 ("nodular goiter") and rank 8 ("nontoxic goiter") show materially stronger, LT4-specific clinical evidence (a 1,024-patient Phase 4 RCT and a randomized LT4-vs-radioiodine trial, respectively), which supports the plausibility of the endemic goiter link even though a matching high-quality LT4 trial for that specific label is missing.
+The retrieved literature is largely about iodine deficiency, epidemiology and iodine prophylaxis, not levothyroxine treatment. Iodine repletion remains the etiologic first-line approach. The high TxGNN score is therefore supported only by indirect evidence.
+
+---
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT04482907](https://clinicaltrials.gov/study/NCT04482907) | N/A | Completed | 68 | Randomized placebo-controlled study of Anethum graveolens (dill) extract, not levothyroxine, in thyroiditis and nodular goiter patients; evaluated hormone levels, inflammatory markers, and nodule size over 90 days. Relevance graded C — tests a different intervention than LT4. |
+| [NCT04482907](https://clinicaltrials.gov/study/NCT04482907) | NA | Completed | 68 | Dill (*Anethum graveolens*) vs placebo for 90 days in thyroiditis and nodular goiter. Not a levothyroxine study and not an endemic goiter population, so low relevance. |
+
+---
 
 ## Literature Evidence
 
+None of these papers is a randomized trial of levothyroxine in endemic goiter. The one direct levothyroxine study (PMID 3278876) is listed first.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [3278876](https://pubmed.ncbi.nlm.nih.gov/3278876/) | 1988 | Multicenter trial | Deutsche medizinische Wochenschrift | 74 patients with diffuse endemic goiter treated 6 months with LT4 alone vs. LT4 + potassium iodide; both regimens reduced goiter volume, followed by iodide-only maintenance phase. Most directly relevant LT4 evidence in this set. |
-| [25629792](https://pubmed.ncbi.nlm.nih.gov/25629792/) | 2015 | Cohort/Trial | Current Medical Research and Opinion | Maternal iodine supplementation study (460 pregnant women) in goiter-endemic vs. non-endemic areas; assessed thyroid function and birth outcomes. |
-| [4312017](https://pubmed.ncbi.nlm.nih.gov/4312017/) | 1969 | Field trial | American Journal of Clinical Nutrition | Prophylaxis and treatment of endemic goiter with iodized oil in rural Ecuador and Peru. |
-| [4310499](https://pubmed.ncbi.nlm.nih.gov/4310499/) | 1969 | Field trial | Journal of Clinical Endocrinology and Metabolism | Prophylaxis and treatment of endemic goiter in Peru with iodized oil. |
-| [263304](https://pubmed.ncbi.nlm.nih.gov/263304/) | 1978 | Cohort | Journal of Clinical Endocrinology and Metabolism | Maternal/fetal thyroid function study in a severe endemic goiter region (Zaïre); compared untreated mothers to iodized-oil-treated and control groups. |
-| [6309889](https://pubmed.ncbi.nlm.nih.gov/6309889/) | 1983 | Cohort | Journal of Clinical Endocrinology and Metabolism | Iodized oil injection in 58 goitrous patients (Greece); goiter size decreased with treatment; thyroid hormone and autoantibody changes tracked over 6 months. |
-| [36839362](https://pubmed.ncbi.nlm.nih.gov/36839362/) | 2023 | Review | Nutrients | Overview and update on iodine deficiency and iodine prophylaxis, including populations at higher requirement (infants, pregnancy). |
-| [2031356](https://pubmed.ncbi.nlm.nih.gov/2031356/) | 1991 | Review | World Journal of Surgery | Establishes iodine deficiency as the primary cause of endemic goiter and reviews prevention/treatment via iodine supplementation. |
-| [7704809](https://pubmed.ncbi.nlm.nih.gov/7704809/) | 1994 | Review | Current Therapy in Endocrinology and Metabolism | General review of endemic goiter pathophysiology and management. |
-| [6304776](https://pubmed.ncbi.nlm.nih.gov/6304776/) | 1983 | Review | Progress in Clinical and Biological Research | TSH secretion and regulation in endemic goiter and endemic cretinism; describes elevated TSH in chronic iodine deficiency. |
+| [3278876](https://pubmed.ncbi.nlm.nih.gov/3278876/) | 1988 | Multicenter treatment study (not classified in pack) | Dtsch Med Wochenschr | 74 patients with diffuse endemic goiter got levothyroxine 150 µg/day or levothyroxine 100 µg plus iodide for 6 months, followed by iodide prophylaxis. The abstract is truncated, so goiter-reduction results are not available. |
+| [2031356](https://pubmed.ncbi.nlm.nih.gov/2031356/) | 1991 | Review | World J Surg | Iodine deficiency is the primary cause of endemic goiter. Iodine prophylaxis programs face technical and socioeconomic difficulties. |
+| [7704809](https://pubmed.ncbi.nlm.nih.gov/7704809/) | 1994 | Review | Curr Ther Endocrinol Metab | General review of endemic goiter (no abstract available). |
+| [36839362](https://pubmed.ncbi.nlm.nih.gov/36839362/) | 2023 | Review | Nutrients | Overview of iodine deficiency and prophylaxis. Supports iodine repletion, not levothyroxine, as the primary approach. |
+| [25629792](https://pubmed.ncbi.nlm.nih.gov/25629792/) | 2015 | Intervention study (iodine) | Curr Med Res Opin | 460 pregnant women; maternal iodine supplementation in goiter-endemic areas and its effect on thyroid function and birth outcome. |
+| [6309889](https://pubmed.ncbi.nlm.nih.gov/6309889/) | 1983 | Cohort | J Clin Endocrinol Metab | 58 goitrous patients given iodized oil. Goiter size decreased. Serum T4 stayed roughly constant. |
+| [6304776](https://pubmed.ncbi.nlm.nih.gov/6304776/) | 1983 | Cohort | Prog Clin Biol Res | TSH is higher in endemic goiter patients and rises as iodine intake falls. This supports the TSH-driven growth rationale. |
+| [8121602](https://pubmed.ncbi.nlm.nih.gov/8121602/) | 1993 | Case series (not classified in pack) | Minerva Ginecol | 38 pregnant women with endemic goiter; 4 received L-thyroxine 50–100 µg/day. The goiter enlarged in 42% of the women. |
+| [4312017](https://pubmed.ncbi.nlm.nih.gov/4312017/) | 1969 | Intervention study (iodized oil) | Am J Clin Nutr | Prophylaxis and treatment of endemic goiter with iodized oil in Ecuador and Peru. |
+| [4310499](https://pubmed.ncbi.nlm.nih.gov/4310499/) | 1969 | Not classified | J Clin Endocrinol Metab | Prophylaxis and treatment of endemic goiter in Peru with iodized oil. |
 
-## Taiwan Market Information
+---
 
-Currently no marketing authorization records for levothyroxine in the Taiwan regulatory dataset (market status: Not marketed / Not Marketed; 0 licenses).
+## US Market Information
+
+The retrieved records contain no approved-indication text. Five of the 20 authorizations are shown.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA021116 | levothyroxine sodium | Tablet | Preferred Pharmaceuticals, Inc. |
+| ANDA216729 | Levothyroxine Sodium | Injection, powder, lyophilized, for solution | ONESOURCE SPECIALTY PHARMA LIMITED |
+| NDA202231 | Levothyroxine Sodium | Injection, powder, lyophilized, for solution | Fresenius Kabi USA, LLC |
+| ANDA208749 | Levothyroxine Sodium | Injection, powder, lyophilized, for solution | Sagent Pharmaceuticals |
+| NDA021402 | Synthroid | Tablet | AbbVie Inc. |
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug interaction data are not available in this evidence pack — TFDA label data is flagged as a Blocking data gap, DG001.)
+Please refer to the package insert for safety information.
+
+---
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The mechanistic basis for LT4 in endemic goiter (correcting iodine-deficiency-driven hypothyroidism and suppressing TSH-mediated thyroid enlargement) is well established and consistent with decades of literature, but the retrieved clinical trial evidence for this specific label is indirect (one dill-extract trial, no direct modern LT4 RCT), placing it at evidence level L3. A Blocking safety data gap (TFDA label) also prevents a full S1 safety review.
+The 99.81% TxGNN score is supported only by indirect evidence. The single retrieved trial tests dill, not levothyroxine, and the literature centers on iodine as the standard approach. Levothyroxine's TSH-suppression rationale is plausible, but nothing retrieved shows it works in endemic goiter.
 
 **To proceed, the following is needed:**
-- TFDA label (warnings/contraindications) — currently a Blocking gap (DG001)
-- Confirmed DrugBank mechanism-of-action data (DG002)
-- Verification of Taiwan market/licensing pathway, since the drug is currently unlicensed (Not marketed)
-- A direct LT4-specific trial or systematic review in endemic-goiter populations, since the one retrieved trial tests a different intervention
-- Consider cross-referencing with the same pack's nodular goiter (L1) and nontoxic goiter (L2) predictions, which carry stronger direct LT4 evidence for closely related goiter subtypes
+- Full text of the 1988 multicenter study (PMID 3278876) to extract goiter-volume outcomes for levothyroxine, with or without iodide.
+- A targeted search for randomized trials of levothyroxine versus iodine in iodine-deficient populations.
+- FDA package insert warnings and contraindications, and mechanism of action data.
+- A safety plan against iatrogenic hyperthyroidism (TSH monitoring, cardiac and bone risk).
+
+Two related predicted indications have stronger support and may be a better place to start:
+- **Nodular goiter (rank 3):** a large Phase 4 placebo-controlled trial (NCT00277589, n=1,024) and a randomized post-lobectomy levothyroxine trial (NCT00941551, n=150). The levothyroxine arm of NCT00277589 still needs to be verified against the registry record.
+- **Nontoxic goiter (rank 8):** a randomized trial of levothyroxine versus radioactive iodine (PMID 11238476).
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

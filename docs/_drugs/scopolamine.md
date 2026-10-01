@@ -29,11 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Scopolamine: From Unspecified Original Indication to Cauda Equina Syndrome
+# Scopolamine: From an Unrecorded Original Indication to Cauda Equina Syndrome
 
 ## One-Sentence Summary
 
-Scopolamine (DrugBank DB00747) is a non-selective muscarinic receptor antagonist; no original indication is recorded in the current evidence pack. The TxGNN model predicts potential relevance to **Cauda Equina Syndrome**, but this prediction is currently supported by **0 clinical trials** and **0 publications**, and the evidence pack's own mechanistic review flags a possible directional mismatch (see below).
+Scopolamine is a non-selective muscarinic antagonist marketed in the US mainly as transdermal patches. The US label data supplied does not include its approved indication text.
+The TxGNN model predicts it may be effective for **cauda equina syndrome**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
+The prediction rests on the model score alone, and the mechanism suggests it could even be harmful in this condition.
 
 ---
 
@@ -41,23 +43,29 @@ Scopolamine (DrugBank DB00747) is a non-selective muscarinic receptor antagonist
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in the available evidence pack |
-| Predicted New Indication | Cauda Equina Syndrome |
+| Original Indication | Not listed in the supplied US label data |
+| Predicted New Indication | Cauda equina syndrome |
 | TxGNN Prediction Score | 99.99% |
-| Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (the sampled licenses are ANDAs, i.e. generics) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for Scopolamine in this evidence pack, and no original indication is on file. What is known is that Scopolamine acts as a non-selective muscarinic (anticholinergic) receptor antagonist — a class of drugs generally used to reduce smooth muscle spasm, secretions, or (in ophthalmology) induce pupil dilation and ciliary muscle paralysis.
+Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on general pharmacology, scopolamine is a non-selective muscarinic antagonist. Any link to cauda equina syndrome would therefore run through bladder or bowel dysfunction, not through the underlying nerve-root compression.
 
-For the top-ranked prediction, **Cauda Equina Syndrome**, the evidence pack's own mechanistic rationale raises a significant concern rather than confirming applicability: cauda equina syndrome typically presents with neurogenic bladder dysfunction characterized by urinary retention from a **hypotonic/acontractile** detrusor muscle. An anticholinergic agent like scopolamine would be expected to further suppress residual detrusor contraction, potentially **worsening** rather than treating urinary retention — i.e., the mechanism points in the opposite direction of clinical need. This is characterized in the evidence pack as a "high-risk mismatch hypothesis," not merely an untested but plausible one.
+The link is weak, and it may be contraindicated. Cauda equina syndrome commonly presents with urinary retention or an areflexic bladder, and an anticholinergic could worsen retention. The very high score (99.99%) is a graph-based prediction with no trial or literature record behind it.
 
-The remaining five candidates (obsolete neurogenic bladder concept, papillary/atopic/rosacea/vernal conjunctivitis) show similarly weak or indirect mechanistic links — largely attributable to knowledge-graph neighborhood effects (e.g., shared "ophthalmic drug" or "bladder-related" nodes) rather than genuine pharmacological rationale, and none have any supporting trial or literature evidence.
+The other five predictions are all rated L5 and are also unsupported by any trial or publication:
+
+- **Obsolete neurogenic bladder (score 99.98%):** This is the most mechanistically plausible. Antimuscarinics are established therapy for neurogenic detrusor overactivity, but scopolamine has no bladder-specific evidence. Its central effects (sedation, confusion) and the availability of better bladder-selective agents limit its value. The disease label is obsolete in the ontology and should be remapped, for example to neurogenic detrusor overactivity. This is a research question only.
+- **Papillary conjunctivitis (99.98%):** No plausible disease-modifying mechanism. Scopolamine is also known to cause ocular irritation.
+- **Atopic conjunctivitis (99.80%):** The disease is mast-cell and IgE-driven, and antimuscarinic action does not target it. It may worsen dry-eye symptoms.
+- **Rosacea conjunctivitis (99.40%):** Reduced tear secretion could worsen dry eye. The prediction appears to be a graph-proximity artifact.
+- **Vernal conjunctivitis (99.08%):** The disease is Th2-driven allergic, so muscarinic blockade does not address it.
 
 ---
 
@@ -75,13 +83,26 @@ Currently no related literature available.
 
 ## US Market Information
 
-Scopolamine is currently **not marketed** in the reviewed jurisdiction, and no license/NDA records are present in the evidence pack (`total_licenses: 0`).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA215329 | Scopolamine (Bryant Ranch Prepack) | Patch, extended release | Not listed in supplied data |
+| ANDA208769 | Scopolamine (A-S Medication Solutions) | System | Not listed in supplied data |
+| ANDA218384 | Scopolamine (Amneal Pharmaceuticals NY LLC) | Patch, extended release | Not listed in supplied data |
+| ANDA215329 | Scopolamine (Bryant Ranch Prepack) | Patch, extended release | Not listed in supplied data |
+| ANDA212342 | Scopolamine (Ingenus Pharmaceuticals, LLC) | Patch, extended release | Not listed in supplied data |
+
+Other dosage forms recorded for the drug include patch and solution/drops. Route compatibility with the predicted indications has not been assessed.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Note: TFDA label warnings/contraindications are flagged as a **Blocking** data gap (DG001) in the evidence pack — this must be resolved before any safety evaluation can proceed.)
+Please refer to the package insert for safety information.
+
+Points raised in the mechanistic assessment, not from label data:
+- An anticholinergic could worsen urinary retention, which is common in cauda equina syndrome.
+- Topical and transdermal scopolamine can cause ocular irritation and conjunctival reactions, which is relevant to the conjunctivitis predictions.
+- Central anticholinergic effects (sedation, confusion) limit practical use in bladder-related indications.
 
 ---
 
@@ -90,14 +111,16 @@ Please refer to the package insert for safety information. (Note: TFDA label war
 **Decision: Hold**
 
 **Rationale:**
-All six predicted indications are TxGNN score–only associations (Evidence Level L5) with zero supporting clinical trials or literature. The highest-ranked candidate, Cauda Equina Syndrome, carries an explicit mechanistic red flag — an anticholinergic agent may worsen the underlying urinary retention rather than treat it — making it unsuitable to advance without further mechanistic clarification.
+The prediction has no supporting trials or literature (L5). The mechanism is weak for cauda equina syndrome and may be contraindicated because of the risk of worsening urinary retention. The conjunctivitis predictions have no plausible mechanism.
 
 **To proceed, the following is needed:**
-- TFDA/FDA label warnings and contraindications (currently a Blocking data gap, DG001)
-- Confirmed mechanism of action (MOA) for Scopolamine (High-severity data gap, DG002)
-- Clarification of the actual disease concept behind "obsolete neurogenic bladder (disease)" in the knowledge graph, including bladder-dysfunction subtype (spastic vs. hypotonic)
-- Preclinical or case-level evidence specifically evaluating scopolamine (not other anticholinergics) in neurogenic bladder/cauda equina syndrome contexts
-- Drug interaction (DDI) data, currently unavailable (`query_status: not_found`)
+- The US package insert (warnings, contraindications and approved indication text), which is currently blocking safety screening
+- Mechanism of action data for scopolamine from DrugBank
+- Remapping of "obsolete neurogenic bladder" to a current term such as neurogenic detrusor overactivity, followed by a literature search on antimuscarinic use in that condition
+- Route compatibility assessment for the transdermal and topical forms against each predicted indication
+- A safety review of anticholinergic effects on urinary retention and the eye
+
+*These results are for research reference only and do not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

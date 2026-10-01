@@ -3,14 +3,14 @@ layout: default
 title: Atenolol
 parent: Moderate Evidence (L3-L4)
 nav_order: 422
-evidence_level: L3
+evidence_level: L4
 indication_count: 9
 ---
 
 # Atenolol
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **9** 
+Evidence Level: **L4** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,55 +29,63 @@ Evidence Level: **L3** | Predicted Indications: **9**
 
 </div>
 
-The txgnn-pipeline skill is noted. The current task is report generation from an Evidence Pack — I'll now produce the evaluation report following the system prompt format.
-
----
-
-# Atenolol: From Hypertension and Angina to Posteroinferior Myocardial Infarction
+# Atenolol: From Beta-Blocker Therapy to Posteroinferior Myocardial Infarction
 
 ## One-Sentence Summary
 
-Atenolol is a cardioselective β1-adrenergic receptor blocker, widely recognized for the treatment of hypertension and angina pectoris, with beta-blockers as a class forming a cornerstone of post-myocardial infarction (post-MI) standard care.
-The TxGNN model predicts it may be specifically effective for **Posteroinferior Myocardial Infarction**,
-with **0 registered clinical trials** and **1 publication** (a 1985 crossover single-blind RCT) directly addressing this indication.
+Atenolol is an oral beta-1 blocker marketed in the United States under one brand-name NDA and multiple generic ANDAs. The TxGNN model predicts it may be effective for **posteroinferior myocardial infarction**, but only **0 clinical trials** and **1 publication** (a 1985 crossover study) are linked to this indication. The current label may already cover myocardial infarction, so this may not be a true repurposing case.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Hypertension, angina pectoris (no US license record found in dataset) |
-| Predicted New Indication | Posteroinferior Myocardial Infarction |
+|------|------|
+| Original Indication | Not listed in the available regulatory data (approved indication text is blank for all retrieved licenses) |
+| Predicted New Indication | Posteroinferior myocardial infarction |
 | TxGNN Prediction Score | 99.87% |
-| Evidence Level | L3 |
-| US Market Status | No records found (0 NDAs retrieved; possible data gap) |
-| Number of NDAs | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Evidence Level | L4 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (the 5 licenses shown are 1 NDA and 4 ANDAs) |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known pharmacology, atenolol is a selective β1-adrenergic receptor blocker (beta-blocker). By competitively blocking β1-adrenergic receptors in cardiac tissue, atenolol reduces heart rate, myocardial contractility, and oxygen consumption — the three key drivers of ischemic injury. It also suppresses sympathetic nervous system activation, which is critically elevated in the acute MI setting and contributes to arrhythmia and extension of infarction.
+Currently, detailed mechanism of action data is not available. Based on known information, atenolol is a beta-1 selective adrenergic blocker. Beta-1 blockade lowers heart rate, contractility and myocardial oxygen demand, and beta-blockers are established in the myocardial infarction (MI) setting. This makes an anti-ischemic effect after a posteroinferior MI mechanistically plausible.
 
-Beta-blockers as a class are already embedded in international post-MI guidelines, and atenolol in particular has been one of the most studied agents in this setting. The TxGNN model's prediction focuses specifically on the **posteroinferior** MI subtype — an anatomical variant primarily involving the territory of the right coronary artery, affecting the inferior and posterior left ventricular walls. This subtype is clinically distinct: it frequently co-occurs with right ventricular infarction and carries a heightened risk of sinus bradycardia and AV block, making the application of a negative chronotropic agent like atenolol a high-stakes individualized decision.
+The original indication field is empty, so the relationship between the original and new indication cannot be assessed. The current label should be checked first, because MI may already be covered.
 
-The mechanistic rationale is therefore strong — atenolol's β1-selective blockade reduces myocardial oxygen demand and may suppress post-infarction arrhythmias. The key clinical caveat is that in posteroinferior MI with right ventricular involvement or conduction system compromise, beta-blockers must be used with extra caution, requiring pre-treatment assessment of right ventricular function, heart rate, and AV conduction status.
+The only supporting literature is a 1985 randomized crossover study of anti-ischemic activity. Its focus appears to be exercise-induced ischemia rather than MI outcomes, so it is indirect evidence. The TxGNN score is very high, but the same score was assigned to posterolateral MI, so it mainly reflects proximity in the knowledge graph.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered specifically for atenolol in posteroinferior myocardial infarction.
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [3901170](https://pubmed.ncbi.nlm.nih.gov/3901170/) | 1985 | Crossover Single-blind RCT | La Revue de medecine interne | Compared atenolol 200 mg vs diltiazem 240 mg in 23 post-MI patients (posteroinferior or anterior) with residual ischemia at 4 weeks. Computerized bicycle ergometer stress testing used to quantify anti-ischemic efficacy, providing direct comparative evidence for atenolol in the posteroinferior MI recovery setting. |
+|------|-----|------|------|---------|
+| [3901170](https://pubmed.ncbi.nlm.nih.gov/3901170/) | 1985 | RCT (single-blind, crossover; inferred from title) | La Revue de medecine interne | Compared the anti-ischemic activity of atenolol 200 mg and diltiazem 240 mg in 23 patients 4 weeks after a limited postero-inferior or anterior MI. Each patient had a placebo exercise test and one test per randomized drug. The abstract is truncated, so results are not available. |
+
+---
+
+## US Market Information
+
+Five of 20 authorizations are shown. Indication text is not provided in the source data.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA018240 | TENORMIN | Tablet | Not provided in source data |
+| ANDA077443 | atenolol | Tablet | Not provided in source data |
+| ANDA074056 | Atenolol | Tablet | Not provided in source data |
+| ANDA078512 | Atenolol | Tablet | Not provided in source data |
+| ANDA076900 | Atenolol | Tablet | Not provided in source data |
 
 ---
 
@@ -89,18 +97,17 @@ Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Atenolol's β1-selective mechanism provides a well-grounded theoretical basis for use in posteroinferior MI — beta-blockers are guideline-recommended post-MI therapy — but the posteroinferior subtype carries specific hemodynamic risks (right ventricular infarction, bradycardia, AV block) that demand individualized clinical evaluation before initiating therapy.
+The mechanism is plausible, but there are no registered trials for this indication. The only publication is a small 1985 study that appears to measure exercise-induced ischemia rather than MI outcomes. The current label is also unverified, so this may not be a genuine repurposing case. The seven other predictions (posterolateral MI, septal MI, malignant hypertension subtypes, pulmonary hypertension subtypes, Braddock syndrome, chronic pulmonary heart disease) also have no direct evidence. The pulmonary ones raise a beta-blockade safety concern.
 
 **To proceed, the following is needed:**
-
-- **Verify US FDA NDA/ANDA records** directly from the FDA Orange Book — the pipeline retrieved 0 records for atenolol, which is likely a data retrieval gap given atenolol's (Tenormin®) historical availability in the US market
-- **Retrieve MOA data** from DrugBank (DB00335) to formally document the β1-selective mechanism for regulatory-level reporting
-- **Retrieve package insert warnings and contraindications** from the FDA-approved label (priority: bradycardia, AV block, right ventricular failure — all clinically critical for this MI subtype)
-- **Conduct a targeted systematic review** specifically examining beta-blocker use in the posteroinferior MI subtype, with attention to right ventricular involvement as an effect modifier
-- **Establish pre-treatment assessment criteria**: right ventricular function, baseline heart rate, and AV conduction status should be mandatory gating conditions before atenolol initiation in this population
+- Confirm the current US label indications, especially whether MI is already covered
+- Retrieve the full text of PMID 3901170 and confirm its endpoints and results
+- Search for MI-specific evidence for atenolol (randomized trials, meta-analyses, guidelines)
+- Obtain the package insert warnings and contraindications
+- Obtain detailed mechanism of action data (MOA) from DrugBank
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,40 +29,32 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-Using the report template as specified. This is a self-contained content-generation task (no code changes, no repo exploration needed) — I'll produce the Markdown report directly from the evidence pack.
-
-A few notes on how I handled data gaps in this pack, before the report:
-
-- `drug.original_indications` is empty and `original_moa` is `[Data Gap]`. I inferred the original indication from context embedded in the literature evidence itself (multiple citations describe floxuridine/FUDR as a hepatic arterial infusion agent for colorectal/GI liver metastases — e.g. PMID 20048179), since no formal field was populated. This is flagged in the report rather than stated as fact.
-- `predicted_indications[0]` (rank 1, per spec) is "hereditary breast ovarian cancer syndrome" — but its own `repurposing_rationale` explicitly says this is likely a knowledge-graph artifact (a germline predisposition syndrome isn't a chemotherapy target). I reported this honestly rather than dressing it up as a strong signal, since the evidence level (L5) and recommendation (Hold) in the data already reflect that.
-
----
-
-# Floxuridine: From Metastatic Colorectal Cancer to Hereditary Breast Ovarian Cancer Syndrome
+# Floxuridine: From Fluoropyrimidine Chemotherapy to Hereditary Breast Ovarian Cancer Syndrome
 
 ## One-Sentence Summary
 
-Floxuridine (FUDR) is a fluoropyrimidine antimetabolite historically administered via hepatic arterial infusion (HAI) for gastrointestinal cancers metastatic to the liver, most notably colorectal cancer. The TxGNN model's top-ranked prediction is **Hereditary Breast Ovarian Cancer Syndrome**, with a **99.86%** confidence score, but currently **0 clinical trials** and **0 publications** support this specific direction — the underlying rationale flags this as a likely knowledge-graph artifact rather than a genuine repurposing signal.
+Floxuridine is a fluoropyrimidine antimetabolite chemotherapy marketed in the US as an injectable powder.
+The TxGNN model predicts it may be effective for **hereditary breast ovarian cancer syndrome** (score 99.86%), but this is a **prediction only, with 0 clinical trials and 0 publications** supporting it.
+Other predicted indications (melanoma, female breast carcinoma, myeloid leukemia) have somewhat more supporting material, and they are summarized below.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Metastatic colorectal cancer / GI malignancies with liver metastases, treated via hepatic arterial infusion (inferred from literature context — no formal `original_indications` record in this evidence pack) |
-| Predicted New Indication | Hereditary Breast Ovarian Cancer Syndrome |
+| Predicted New Indication | Hereditary breast ovarian cancer syndrome |
 | TxGNN Prediction Score | 99.86% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 3 (ANDA listings) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (`original_moa: [Data Gap]`). Based on known information, Floxuridine is a pyrimidine antimetabolite closely related to 5-fluorouracil (5-FU) and belongs to the fluoropyrimidine class of thymidylate synthase (TS) inhibitors; its efficacy in gastrointestinal malignancies, particularly colorectal cancer with liver metastases treated via hepatic arterial infusion, is well established in the literature accompanying this evidence pack (e.g., PMID 20048179, an NCCTG/NSABP intergroup trial of HAI floxuridine for resected colorectal liver metastases).
+Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on known information, floxuridine is a fluoropyrimidine. After conversion to FdUMP it inhibits thymidylate synthase, which reduces DNA synthesis in rapidly dividing cells.
 
-The predicted new indication, however, is not a tumor type — it is a **hereditary cancer predisposition syndrome** driven by germline BRCA1/2 mutations. There is no tumor tissue, proliferating cell population, or DNA-synthesis-dependent process that a cytotoxic TS inhibitor could act on in this context; a predisposition syndrome by itself is not a pharmacological treatment target in the way a diagnosed malignancy is.
+Hereditary breast ovarian cancer syndrome is a **germline predisposition syndrome** (for example, BRCA-related), not a treatable tumor type. No data connect floxuridine to BRCA-related biology such as homologous recombination deficiency. The high score most likely reflects general breast and ovarian cancer neighborhood signals in the knowledge graph rather than a disease-specific link. The prediction is therefore mechanistically weak as stated.
 
-For this reason, the mechanism does **not** clearly apply. The rationale attached to this candidate states directly that the high TxGNN score likely reflects a knowledge-graph association carried over from adjacent breast/ovarian cancer nodes, rather than any direct clinical or mechanistic evidence linking Floxuridine to this syndrome. This is a case where the raw prediction score is high but the underlying signal should be treated with substantial skepticism.
+The more plausible reading is that floxuridine might be studied in breast or ovarian cancers that arise in carriers of these syndromes. That would need separate evidence.
 
 ## Clinical Trial Evidence
 
@@ -72,21 +64,36 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+## Other Predicted Indications With Some Evidence
+
+These are not the primary prediction, but they contain the only supporting material in the pack.
+
+| Predicted Indication | Score | Evidence Level | Key Points |
+|------|------|------|------|
+| Female breast carcinoma | 99.38% | L3 | Retrospective HAI pump plus systemic chemotherapy series in breast cancer liver metastases ([PMID 34657511](https://pubmed.ncbi.nlm.nih.gov/34657511/), 2021). A 9-patient case series of HAI floxuridine plus dexamethasone and systemic therapy reported 7 objective responses, with grade 3 liver enzyme elevations in 4 patients ([PMID 23173748](https://pubmed.ncbi.nlm.nih.gov/23173748/), 2013). Small, uncontrolled data. |
+| Melanoma | 99.52% | L4 | One Phase 2/3 trial of alternating systemic and HAI therapy after resection of colorectal liver metastases ([NCT02529774](https://clinicaltrials.gov/study/NCT02529774), n=432, status unknown). It is not melanoma-specific, so the link is doubtful. |
+| Myeloid leukemia | 99.69% | L4 | Only in vitro and animal work on thymidylate synthase inhibition. One case report describes CML arising after fluoropyrimidine chemotherapy, which is a safety signal rather than efficacy ([PMID 18827427](https://pubmed.ncbi.nlm.nih.gov/18827427/)). |
+| Ovarian clear cell adenocarcinoma | 99.47% | L4 | A 1991 Phase II study of doxifluridine, a different 5-FU prodrug, in cervical and ovarian cancer ([PMID 1660700](https://pubmed.ncbi.nlm.nih.gov/1660700/)). The evidence is indirect. |
+
+The remaining predictions (neutrophil immunodeficiency syndrome, CMM7, pediatric leptomeningeal melanoma, epithelioid cell uveal melanoma, CNS melanocytic neoplasm) have no trials or literature. Neutrophil immunodeficiency syndrome is biologically counter-intuitive for a myelosuppressive drug and is probably a knowledge-graph artifact.
+
 ## US Market Information
 
-No U.S. market authorizations are on record for Floxuridine in this dataset — market status is "Not Marketed" with 0 total licenses, so no NDA/license entries are available to tabulate.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA075387 | Floxuridine | Injection, powder, lyophilized, for solution | Hikma Pharmaceuticals USA Inc. |
+| ANDA075837 | Floxuridine | Injection, powder, lyophilized, for solution | Fresenius Kabi USA, LLC |
+| ANDA075387 | Floxuridine | Injection, powder, lyophilized, for solution | JND Therapeutics, Inc. |
 
 ## Cytotoxicity
 
-Floxuridine is a conventional cytotoxic chemotherapeutic agent (fluoropyrimidine class), so this section applies.
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (fluoropyrimidine / pyrimidine antimetabolite, thymidylate synthase inhibitor — mechanistically related to 5-FU) |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions (no formal toxicity/DDI data available in this pack — DDI query returned `not_found`) |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | As a cytotoxic antineoplastic agent, handling should follow institutional cytotoxic drug handling protocols; please confirm against the official package insert |
+| Cytotoxicity Classification | Conventional cytotoxic (fluoropyrimidine antimetabolite) |
+| Myelosuppression Risk | Medium to high (class-based estimate; neutropenia and infection risk are a concern). Please refer to the package insert warnings and precautions. |
+| Emetogenicity Classification | Low to moderate (class-based estimate) |
+| Monitoring Items | CBC with differential, liver function (liver enzyme elevations were seen with HAI use), renal function |
+| Handling Protection | Must follow cytotoxic drug handling regulations |
 
 ## Safety Considerations
 
@@ -97,13 +104,17 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score for this candidate is high (99.86%), but it is unsupported by any clinical trial or literature evidence, and the predicted target — a hereditary germline predisposition syndrome — is not a mechanistically plausible target for a cytotoxic antimetabolite. This pattern is consistent with a knowledge-graph artifact rather than a genuine repurposing signal, and the evidence pack itself explicitly flags it as such (Evidence Level L5, Decision Stage S0).
+The primary prediction is a model output only (L5), with no trials, no literature, and no documented link to BRCA-related biology. The indication is a germline syndrome rather than a treatment target. The best-supported directions are HAI-based use in breast cancer liver metastases (L3) and possibly uveal melanoma liver metastases, and both are better treated as separate research questions.
 
 **To proceed, the following is needed:**
-- Resolve blocking data gap DG001: TFDA/regulatory label (warnings, contraindications) — required before this or any Floxuridine candidate can enter S1 safety pre-assessment
-- Resolve data gap DG002: formal DrugBank/mechanism-of-action data to properly evaluate mechanistic plausibility
-- Given the weak evidentiary basis for the top-ranked candidate, prioritize evaluation of the pipeline's lower-ranked but evidence-supported candidates instead: **myeloid leukemia** (rank 3, L4/S1, 20 literature hits — though one case report suggests a possible adverse secondary-malignancy signal that needs scrutiny), **melanoma** (rank 6, L3/S1, 1 Phase 2/3 trial pending manual verification of tumor histology), **ovarian clear cell adenocarcinoma** (rank 8, L4/S1), and **female breast carcinoma** (rank 10, L4/S1, includes direct HAI-floxuridine cohort evidence in liver metastases)
-- If hereditary breast ovarian cancer syndrome is to be pursued further, request expert clinical/genetics review to determine whether any biologically plausible sub-population (e.g., BRCA-mutated tumors with defined chemosensitivity) could justify continued investigation, rather than the syndrome as a whole
+- FDA package insert warnings, contraindications and approved indications (currently missing, and blocking safety screening)
+- Mechanism of action data from DrugBank
+- A targeted literature search on floxuridine in BRCA-associated breast and ovarian cancers
+- Confirmation of the intervention arms and eligibility criteria of NCT02529774
+- A full-text review of the breast cancer liver metastasis HAI reports, including whether floxuridine was actually used
+- A targeted search on floxuridine HAI in uveal melanoma liver metastases
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

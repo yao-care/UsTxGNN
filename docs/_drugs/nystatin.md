@@ -29,13 +29,11 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Nystatin: From Antifungal Therapy (Established Use) to Predicted Vulvovaginitis Indication
+# Nystatin: From Topical Antifungal Therapy to Vulvovaginitis
 
 ## One-Sentence Summary
 
-> Nystatin is a polyene antifungal that disrupts fungal cell membranes by binding ergosterol; detailed original-indication and regulatory history are not available in the current dataset, and the drug is currently **not marketed in Taiwan**.
-> The TxGNN model predicts continued/expanded efficacy for **Vulvovaginitis** (Candida-driven vaginal inflammation), with a **99.92% prediction score**, **0 registered clinical trials**, and **20 supporting publications** (mostly reviews, one cohort study).
-> Notably, the underlying rationale indicates this is likely an **already-established antifungal indication** captured by the knowledge graph rather than a genuinely novel repurposing signal.
+Nystatin is a polyene antifungal that is marketed in the US in several forms (suspension, ointment, powder, tablet, cream). The TxGNN model predicts it may be effective for **vulvovaginitis**, with a very high score of 99.92%. No clinical trials are registered for this indication, but **20 publications** support it, mostly reviews and small clinical or in vitro studies on vulvovaginal candidiasis. This looks more like an established use than true repurposing, and the missing original-indication data probably reflects a DrugBank gap.
 
 ---
 
@@ -43,23 +41,25 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in dataset — no license or original-indication records found |
+| Original Indication | Not listed in the supplied US label data (nystatin is a polyene antifungal) |
 | Predicted New Indication | Vulvovaginitis |
 | TxGNN Prediction Score | 99.92% |
 | Evidence Level | L3 |
-| Taiwan Market Status | ✗ Not Marketed (Not marketed) |
-| Number of Licenses (NDAs) | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the structured drug profile (`original_moa: [Data Gap]`). However, the prediction rationale supplied with this evidence pack describes Nystatin as a **polyene antifungal** that binds ergosterol in fungal cell membranes, disrupting membrane permeability and causing fungal cell death.
+Nystatin binds ergosterol in the Candida cell membrane and forms pores, which kills the fungal cell. Detailed mechanism-of-action data is not available in the supplied record, so this description is based on the known pharmacology of the polyene class.
 
-Vulvovaginitis is predominantly caused by *Candida albicans* (85–90% of cases per the cited literature). Nystatin's core antifungal mechanism maps directly onto this pathophysiology — there is no need to invoke an indirect or repurposed pathway, since topical/local antifungal treatment of candidal vulvovaginitis is a direct application of the drug's known mode of action.
+*Candida albicans* causes 85–90% of vulvovaginal candidiasis, the main infectious cause of vulvovaginitis. The mechanism therefore fits the predicted indication directly. The literature also says nystatin was introduced in the 1950s for vulvovaginal candidiasis. Later it was surpassed by imidazoles and triazoles as first-line treatment.
 
-Importantly, the evidence pack itself flags a key caveat: **this appears to be an already-established/traditional indication rather than a novel discovery**. The high TxGNN score likely reflects pre-existing, well-documented drug–disease associations already embedded in the knowledge graph, not a new hypothesis requiring independent validation. This should be factored into any decision-making — the "prediction" largely confirms known clinical practice.
+The prediction should be read with these limits:
+- Nystatin is not expected to help non-fungal vaginitis, such as bacterial vaginosis, trichomoniasis or atrophic vaginitis.
+- The study designs behind the literature cannot be confirmed from titles alone, so the evidence is not graded L1 or L2.
 
 ---
 
@@ -73,28 +73,35 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [16047929](https://pubmed.ncbi.nlm.nih.gov/16047929/) | 2005 | Cohort | Ceska gynekologie | Evaluated combined vaginal nystatin + nifuratel therapy for mixed/miscellaneous vulvovaginitis |
-| [20406393](https://pubmed.ncbi.nlm.nih.gov/20406393/) | 2011 | Clinical/In vitro | Mycoses | Correlated fluconazole/nystatin in vitro susceptibility with clinical outcomes in 283 patients with complicated VVC |
-| [39771534](https://pubmed.ncbi.nlm.nih.gov/39771534/) | 2024 | Review | Pharmaceutics | Update on managing fluconazole-resistant VVC; nystatin discussed as an alternative antifungal option |
-| [30359236](https://pubmed.ncbi.nlm.nih.gov/30359236/) | 2018 | Mechanistic (animal) | BMC Microbiology | Nystatin enhanced mucosal immune response and protected vaginal epithelial ultrastructure in a rat VVC model |
-| [25775428](https://pubmed.ncbi.nlm.nih.gov/25775428/) | 2015 | Review | BMJ Clinical Evidence | Overview of vulvovaginal candidiasis as second most common cause of vaginitis |
-| [21774671](https://pubmed.ncbi.nlm.nih.gov/21774671/) | 2011 | Review | J Women's Health | Reviews boric acid and alternative therapies for recurrent VVC amid rising azole resistance |
-| [21718579](https://pubmed.ncbi.nlm.nih.gov/21718579/) | 2010 | Review | BMJ Clinical Evidence | Epidemiology and management overview of vulvovaginal candidiasis |
-| [12228137](https://pubmed.ncbi.nlm.nih.gov/12228137/) | 2002 | Review | BMJ | Clinical review of vulvovaginal candidiasis diagnosis and treatment |
-| [11363911](https://pubmed.ncbi.nlm.nih.gov/11363911/) | 1996 | Review | J Int Assoc Physicians AIDS Care | General review of candidiasis management |
-| [4919155](https://pubmed.ncbi.nlm.nih.gov/4919155/) | 1970 | Review | Med Clin North Am | Early foundational review of nystatin pharmacology and clinical use |
+| [39771534](https://pubmed.ncbi.nlm.nih.gov/39771534/) | 2024 | Review | Pharmaceutics | Management of fluconazole-resistant vulvovaginal candidiasis. Alternatives include boric acid, nystatin, oteseconazole and ibrexafungerp. |
+| [25775428](https://pubmed.ncbi.nlm.nih.gov/25775428/) | 2015 | Review | BMJ Clin Evid | Vulvovaginal candidiasis is the second most common cause of vaginitis. *C. albicans* accounts for 85–90% of cases. |
+| [21774671](https://pubmed.ncbi.nlm.nih.gov/21774671/) | 2011 | Review | J Womens Health | Boric acid for recurrent vulvovaginal candidiasis. Non-albicans species are more resistant to azoles. |
+| [21718579](https://pubmed.ncbi.nlm.nih.gov/21718579/) | 2010 | Review | BMJ Clin Evid | Evidence review on vulvovaginal candidiasis (earlier edition). |
+| [19454049](https://pubmed.ncbi.nlm.nih.gov/19454049/) | 2007 | Review | BMJ Clin Evid | Evidence review on vulvovaginal candidiasis (earlier edition). |
+| [1436934](https://pubmed.ncbi.nlm.nih.gov/1436934/) | 1992 | Review | Obstet Gynecol Clin North Am | Nystatin was introduced in the 1950s for vulvovaginal candidiasis. Imidazoles and triazoles have since become first choice. |
+| [20406393](https://pubmed.ncbi.nlm.nih.gov/20406393/) | 2011 | Clinical/in vitro study | Mycoses | 287 Candida isolates from 283 patients with complicated vulvovaginal candidiasis. Fluconazole and nystatin susceptibility was correlated with clinical outcome. |
+| [30359236](https://pubmed.ncbi.nlm.nih.gov/30359236/) | 2018 | Animal study | BMC Microbiol | In a rat vulvovaginal candidiasis model, nystatin enhanced the immune response against *C. albicans* and protected vaginal epithelial ultrastructure. |
+| [32104010](https://pubmed.ncbi.nlm.nih.gov/32104010/) | 2020 | In vitro study | Infect Drug Resist | ZnO nanoparticles and nystatin against fluconazole-resistant *C. albicans*. SAP1-3 gene expression was downregulated. |
+| [37023426](https://pubmed.ncbi.nlm.nih.gov/37023426/) | 2023 | In vitro study | J Infect Dev Ctries | Tea tree oil 5% and 10% were compared with nystatin by inhibition zone against vaginal Candida isolates in pregnancy. |
 
 ---
 
 ## US Market Information
 
-Currently no market authorization data available — Nystatin has 0 registered licenses and is not marketed in Taiwan under the current dataset.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA203621 | Nystatin | Suspension | Atlantic Biologicals Corp. |
+| ANDA214346 | Nystatin | Suspension | NuCare Pharmaceuticals, Inc. |
+| ANDA207767 | Nystatin | Ointment | Bryant Ranch Prepack (two identical entries) |
+| ANDA208581 | Nystatin | Powder | Zydus Pharmaceuticals USA Inc. |
+
+The record lists 20 authorizations in total, and the table shows the first five entries. Other forms on record include film-coated oral tablets and topical cream. Approved-indication text is not included in the supplied data.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug interaction data are not currently available in this evidence pack; TFDA label/warning data acquisition is flagged as a **Blocking** data gap — see Next Steps.)
+Please refer to the package insert for safety information.
 
 ---
 
@@ -103,13 +110,21 @@ Please refer to the package insert for safety information. (Key warnings, contra
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-The mechanistic link is strong and direct (Nystatin's known antifungal action against *Candida* directly explains efficacy in vulvovaginitis), and is supported by 20 publications including one cohort study — but there are **no registered clinical trials** for this specific indication, and the evidence pack itself suggests this may simply reflect an already-established clinical use rather than a new discovery requiring validation.
+Nystatin has a direct antifungal mechanism against vulvovaginal candidiasis, and the literature supports its use, so the prediction is credible. However, the evidence consists of reviews and small clinical or in vitro studies. There are no registered trials, and safety and label data are missing.
 
 **To proceed, the following is needed:**
-- Obtain TFDA label warnings/contraindications (Blocking gap, DG001) before any S1 safety assessment
-- Obtain confirmed mechanism of action from DrugBank (High-priority gap, DG002)
-- Clarify Taiwan market/licensing status and available dosage forms/routes (currently 0 licenses, "not marketed") to assess feasibility of pursuing this indication locally
-- Confirm whether related lower-confidence candidates in the same disease cluster (e.g., vulvitis, rank 8, evidence level L3; postmenopausal atrophic vaginitis, rank 6, evidence level L5 — likely a false positive due to lexical overlap with "vaginitis") should be deprioritized or excluded from further review
+- Download and review the current US package insert, including warnings, contraindications and approved indications. This is a blocking gap for safety screening.
+- Confirm whether vulvovaginitis is already a labeled use, in which case this is not repurposing.
+- Check current treatment guidelines and the fluconazole-resistant and non-albicans Candida literature.
+- Confirm the study design of the key publications, since the evidence level is L3 and not L1 or L2.
+- Retrieve detailed mechanism-of-action data from DrugBank.
+- Limit any use to candidal vulvovaginitis, because non-fungal causes are not expected to respond.
+
+**Other predictions:**
+- Vulvitis has indirect evidence extrapolated from vulvovaginal candidiasis and is a research question only.
+- The remaining predictions, including postmenopausal atrophic vaginitis and disease of orbital region, have no plausible mechanistic link and should be held.
+
+*This report is for research reference only and is not medical advice. Repurposing candidates require clinical validation before any use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

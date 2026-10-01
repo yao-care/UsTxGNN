@@ -29,11 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Dulaglutide: From Type 2 Diabetes Mellitus to Opsismodysplasia
+# Dulaglutide: From Type 2 Diabetes to Opsismodysplasia
 
 ## One-Sentence Summary
 
-Dulaglutide is a GLP-1 receptor agonist; its established therapeutic class and mechanism (referenced throughout this evidence pack's own rationale text) point to type 2 diabetes mellitus as the original indication, though Taiwan-specific approval data is unavailable since the product is **not currently marketed in Taiwan**. The TxGNN model's top-ranked new-indication prediction is **Opsismodysplasia**, a rare skeletal dysplasia, but this candidate has **0 clinical trials**, **0 publications**, and — critically — the evidence pack's own mechanistic analysis flags it as a likely false positive with no known biological connection to the GLP-1 pathway.
+Dulaglutide is a once-weekly injectable GLP-1 receptor agonist, originally used to treat type 2 diabetes.
+The TxGNN model predicts it may be effective for **Opsismodysplasia**, a rare skeletal dysplasia, but **0 clinical trials** and **0 publications** currently support this direction.
+The prediction is model-only and is not supported by any biological rationale.
 
 ---
 
@@ -41,23 +43,29 @@ Dulaglutide is a GLP-1 receptor agonist; its established therapeutic class and m
 
 | Item | Content |
 |------|------|
-| Original Indication | Type 2 Diabetes Mellitus (inferred from drug-class context in the evidence; not confirmed by Taiwan regulatory data — no TW license exists) |
+| Original Indication | Type 2 diabetes mellitus (the source data lists no approved indication text; this is from general drug knowledge) |
 | Predicted New Indication | Opsismodysplasia |
 | TxGNN Prediction Score | 97.05% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| Taiwan Market Status | Not marketed |
-| Number of NDAs | 0 |
-| Recommended Decision | **Hold** |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 11 (all under BLA125469) |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap). Based on general drug-class knowledge, Dulaglutide is a GLP-1 receptor agonist, and its efficacy in type 2 diabetes has been established through insulin secretion and metabolic regulation pathways.
+Currently, detailed mechanism of action data is not available in the source data. Dulaglutide is a GLP-1 receptor agonist that enhances glucose-dependent insulin secretion from pancreatic beta cells. Its efficacy in type 2 diabetes is established.
 
-However, for this specific top-ranked candidate, the evidence pack's own repurposing rationale explicitly **does not support** a plausible mechanistic link: Opsismodysplasia is a rare skeletal dysplasia caused by *RSPRY1* mutations, with no known relationship to GLP-1 receptor signaling. The rationale text itself attributes the high TxGNN score to a likely **knowledge-graph artifact** — a common false-positive pattern where sparsely-connected rare-disease nodes receive inflated similarity scores due to structural proximity rather than genuine biological signal.
+The prediction is **not** mechanistically well supported. Opsismodysplasia is a rare skeletal dysplasia linked to *INPPL1*, and GLP-1 receptor agonism has no established role in chondrocyte or bone-growth pathways. The high score most likely reflects proximity in the knowledge graph, not biology.
 
-This pattern is not isolated to rank 1: across all 10 predicted indications in this evidence pack (stiff person syndrome, pancreatic agenesis, several lipodystrophy subtypes, autoimmune oophoritis, etc.), the mechanistic rationale consistently notes weak-to-absent biological plausibility, and every candidate carries a Hold recommendation at evidence level L5. This candidate set should be read as a low-confidence output requiring substantial independent validation before any further action.
+The other nine predicted indications share the same weakness:
+
+- **Stiff person syndrome (classic and focal)**, scores 97.05%: autoimmune GABAergic disease. The graph link probably comes from its co-occurrence with type 1 diabetes.
+- **Thiamine-responsive dysfunction syndrome**, 96.81%: a link through glucose metabolism is conceivable, but it would not address the transporter defect.
+- **Localized lipodystrophies (drug-induced, centrifugal, pressure-induced, idiopathic)**, 94.99%–95.62%: probably artifacts of the association between injectable diabetes drugs and injection-site lipodystrophy. Dulaglutide is itself a subcutaneous injectable.
+- **Pancreatic agenesis**, 95.55%: implausible, because the drug needs beta cells to act and they are absent in this condition.
+- **Autoimmune oophoritis**, 69.57%: no established immunomodulatory role, and it has the lowest score of the set.
 
 ---
 
@@ -73,17 +81,25 @@ Currently no related literature available.
 
 ---
 
-## Taiwan Market Information
+## US Market Information
 
-Dulaglutide has 0 registered licenses in Taiwan and is not currently marketed (`Not marketed`). No product/authorization records are available to summarize.
+The 5 main entries below are among 11 total authorizations. All 11 fall under one biologics license (BLA125469). The source data gives no approved indication text.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|------|
+| BLA125469 | Trulicity | Injection, solution | Eli Lilly and Company |
+| BLA125469 | TRULICITY | Injection, solution | A-S Medication Solutions |
+| BLA125469 | Trulicity | Injection, solution | A-S Medication Solutions |
+| BLA125469 | Trulicity | Injection, solution | A-S Medication Solutions |
+| BLA125469 | Trulicity | Injection, solution | A-S Medication Solutions |
+
+The drug is available only as an injectable.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-*(Note: TFDA warning/contraindication data for this drug is currently a Blocking-severity data gap — see Conclusion.)*
+Please refer to the package insert for safety information. No drug-drug interaction records were found in the source data.
 
 ---
 
@@ -92,13 +108,15 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-This candidate lacks any clinical trial or literature support (L5, model-prediction-only), and the evidence pack's own mechanistic analysis identifies the top prediction as a probable false positive with no plausible biological link to the drug's known pathway. Separately, a Blocking-severity data gap (missing TFDA label warnings/contraindications) prevents this candidate from entering the S1 safety evaluation stage regardless of efficacy signal.
+The prediction is model-only (L5): there are no clinical trials or publications, and no plausible mechanistic link between GLP-1 receptor agonism and opsismodysplasia. The high score most likely reflects knowledge-graph adjacency. The other nine predicted indications have the same weakness.
 
 **To proceed, the following is needed:**
-- TFDA label data (warnings, contraindications) — Blocking gap, required before any S1 safety review
-- Confirmed mechanism of action (MOA) data via DrugBank — High-severity gap
-- Independent mechanistic/preclinical validation, since the model's own rationale disputes plausibility for this candidate
-- Consideration of whether lower-ranked or differently-sourced candidates (e.g., those with a coherent metabolic/endocrine link, such as thiamine-responsive dysfunction syndrome, which at least shares a diabetes-adjacent phenotype) merit closer review instead of the top-scored but mechanistically unsupported candidate
+- Confirm the original indication and mechanism of action from DrugBank or the package insert
+- Package insert warnings and contraindications, which are needed for safety screening
+- Preclinical or mechanistic evidence linking GLP-1 receptor signaling to *INPPL1*-related skeletal biology
+- Any registered trials or case reports; none exist at present
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

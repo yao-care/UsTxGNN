@@ -29,37 +29,36 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Bremelanotide: From Hypoactive Sexual Desire Disorder to Acne
+# Bremelanotide: From Hypoactive Sexual Desire Disorder (HSDD) to Acne
 
 ## One-Sentence Summary
 
-Bremelanotide (brand name Vyleesi®) is a melanocortin receptor agonist approved by the US FDA in 2019 for hypoactive sexual desire disorder (HSDD) in premenopausal women, though it carries no regulatory authorization in Taiwan.
-The TxGNN model assigns it a perfect prediction score for **Acne**, placing it at rank 2 among all drug–disease predictions for this compound.
-However, **zero clinical trials and zero publications** currently support this repurposing direction — the evidence base is model prediction only (Level L5), and the recommended position is **Hold** pending preclinical validation.
+Bremelanotide (Vyleesi) is a melanocortin receptor agonist given by injection. The Evidence Pack does not state its approved indication; the title uses HSDD in premenopausal women from general knowledge of the US label, which should be checked against the package insert.
+The TxGNN model predicts it may be effective for **acne**, but there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Hypoactive Sexual Desire Disorder (HSDD) in premenopausal women (US FDA-approved as Vyleesi®; no Taiwan authorization) |
-| Predicted New Indication | Acne |
+|------|------|
+| Original Indication | Not listed in the source data (the approved indication text is empty); HSDD per general knowledge of the US label |
+| Predicted New Indication | Acne (disease) |
 | TxGNN Prediction Score | 100.00% |
-| Evidence Level | L5 — model prediction only, no empirical studies |
-| Taiwan Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Bremelanotide is a synthetic cyclic heptapeptide analogue of α-melanocyte-stimulating hormone (α-MSH). It acts as a non-selective agonist at melanocortin receptors MC1R, MC3R, MC4R, and MC5R. Its approved indication — HSDD — is thought to be mediated primarily through central MC4R activation in the hypothalamus, where it modulates neural circuits involved in sexual desire. Detailed mechanism of action data was not retrievable from the current evidence pack; the receptor pharmacology described here reflects published literature on the melanocortin system.
+Bremelanotide is a melanocortin receptor agonist, acting mainly on MC4R with activity at other melanocortin receptors. Detailed mechanism-of-action data is not available in the source record, so this description comes from the analysis of the predicted indication.
 
-The mechanistic case for acne rests on peripheral MC1R expression. MC1R is broadly expressed on sebocytes (sebaceous gland cells) and keratinocytes — both central to acne pathophysiology. The parent peptide α-MSH has demonstrated anti-inflammatory activity in preclinical models: it inhibits sebum secretion and suppresses pro-inflammatory cytokines (IL-6, TNF-α) that drive comedone inflammation. If Bremelanotide similarly engages MC1R on sebocytes, it could theoretically reduce sebaceous inflammation and follicular hyperkeratinization — two hallmarks of acne vulgaris.
+Melanocortin signaling, including MC1R and MC5R, has been reported in sebocytes and in skin inflammation. That makes a link to acne biologically plausible. The link is indirect and unverified. MC5R is the main receptor on sebaceous glands, and bremelanotide is not selective for it. Bremelanotide is also known to cause skin hyperpigmentation, which is a concern for a skin indication.
 
-That said, this mechanistic chain is entirely theoretical for Bremelanotide itself. No preclinical sebocyte or acne-model studies have tested the drug. Furthermore, the currently approved subcutaneous injection route presents a significant practical barrier for a condition that standard care manages with topical or oral agents. The TxGNN score likely reflects shared network topology between the melanocortin pathway and acne-related inflammatory nodes, rather than any empirical signal.
+The relationship between the original indication and acne is still pending analysis. The 100% score should be read as a model output, not as evidence of efficacy.
 
 ---
 
@@ -75,19 +74,21 @@ Currently no related literature available.
 
 ---
 
-## Taiwan Market Information
+## US Market Information
 
-Bremelanotide holds no regulatory authorization in Taiwan (0 approved products, market status: not marketed). No product license table is available.
-
-For reference: in the United States, Bremelanotide was approved by the FDA in June 2019 under the brand name Vyleesi® (Palatin Technologies / AMAG Pharmaceuticals) for acquired, generalized HSDD in premenopausal women, administered as a 1.75 mg subcutaneous auto-injector.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA210557 | Vyleesi (Cosette Pharmaceuticals, Inc.) | Injection | Not listed in source data |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: The interaction query returned no records.
+- **Skin effects**: Bremelanotide is known to cause skin hyperpigmentation, which matters for a dermatologic use.
+- **Blood pressure**: Bremelanotide is known to raise blood pressure.
 
-Safety data (key warnings, contraindications, drug interactions) was not retrievable from the current evidence pack. Known class-level concerns for melanocortin agonists include transient increases in blood pressure and heart rate, nausea, flushing, and hyperpigmentation — the clinical significance of these effects in a new indication context would require dedicated assessment.
+Please refer to the package insert for warnings and contraindications.
 
 ---
 
@@ -96,15 +97,15 @@ Safety data (key warnings, contraindications, drug interactions) was not retriev
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN model assigned Bremelanotide the highest possible prediction score for acne based on a biologically plausible but entirely indirect mechanistic link through peripheral MC1R expression on sebocytes. With zero supporting clinical trials, zero literature, and no preclinical acne models published, there is currently no empirical basis on which to advance this candidate. The route-of-administration mismatch (subcutaneous injection vs. skin-targeted therapy) adds a further translational barrier.
+The prediction has no clinical, registry, or literature support (L5). The mechanistic link to acne is weak and indirect, and known skin pigmentation and blood pressure effects add concerns. The other nine predicted indications, including mitochondrial oxidative phosphorylation disorder, exocrine pancreatic insufficiency, and retinopathy of prematurity, are also L5 and Hold, with weaker mechanistic links.
 
 **To proceed, the following is needed:**
-
-- **Preclinical in vitro proof-of-concept:** Assess Bremelanotide's effect on human sebocyte cell lines — specifically sebum lipid production, IL-6/TNF-α release, and MC1R/MC5R receptor expression under inflammatory conditions (e.g., P. acnes stimulation)
-- **In vivo pharmacology:** Test in an established acne-relevant animal model (e.g., hamster ear comedogenicity model or sebaceous gland-humanized mouse) to confirm anti-seborrheic and anti-inflammatory activity
-- **Route-of-administration feasibility:** Evaluate skin penetration and local bioavailability for topical or intradermal delivery, since systemic SC dosing is not practical for acne management
-- **Receptor selectivity mapping:** Clarify which melanocortin receptor subtype (MC1R vs. MC3R/MC4R/MC5R) drives any putative anti-acne effect, to guide formulation and dose optimization
-- **Safety profile characterization:** Obtain full package insert data (warnings, contraindications, drug interactions) before any indication expansion analysis proceeds
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- The approved indication text and mechanism-of-action data from DrugBank
+- Preclinical evidence on melanocortin receptors (especially MC5R) in sebocytes and acne models
+- A literature and trial search for melanocortin agonists in acne
+- An assessment of injectable delivery against the needs of an acne treatment, including a comparison with topical options
+- A safety assessment of pigmentation and blood pressure effects in an acne population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

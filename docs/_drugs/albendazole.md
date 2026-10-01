@@ -29,13 +29,13 @@ Evidence Level: **L2** | Predicted Indications: **3**
 
 </div>
 
-# Albendazole: From Cystic Echinococcosis to Alveolar Echinococcosis
+# Albendazole: From Anthelmintic Therapy to Alveolar Echinococcosis
 
 ## One-Sentence Summary
 
-Albendazole is a broad-spectrum benzimidazole anthelmintic with established global use for cystic echinococcosis and neurocysticercosis, though no US FDA registration records were found in the current dataset.
-The TxGNN model predicts it may be effective for **Alveolar Echinococcosis** (*Echinococcus multilocularis* infection),
-with **5 clinical trials** and **20 publications** currently supporting this direction, and a prediction confidence of **99.97%**.
+Albendazole is a benzimidazole anthelmintic (anti-worm drug) that is already marketed in the United States.
+The TxGNN model predicts it may be effective for **alveolar echinococcosis**, a severe liver parasitic disease.
+This is supported by **1 completed Phase 2 trial in the disease itself (n=194)**, **5 clinical trials in total** and **20 publications**, and albendazole is already the guideline-recommended parasitostatic treatment. The evidence therefore describes an established use more than a new discovery.
 
 ---
 
@@ -43,23 +43,23 @@ with **5 clinical trials** and **20 publications** currently supporting this dir
 
 | Item | Content |
 |------|------|
-| Original Indication | No US NDA records found in current dataset; globally established for cystic echinococcosis and neurocysticercosis |
-| Predicted New Indication | Alveolar Echinococcosis |
+| Original Indication | Not stated in the Evidence Pack (anthelmintic; approved indication text is not provided) |
+| Predicted New Indication | Alveolar echinococcosis |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L2 |
-| US Market Status | Not marketed (no NDA records found) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 12 |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Albendazole is a benzimidazole-class antiparasitic drug. Its active metabolite, **albendazole sulfoxide (ASOX)**, achieves sufficient plasma concentrations to penetrate the hydatid cyst wall and selectively bind β-tubulin in *Echinococcus multilocularis*. This inhibits microtubule polymerization, disrupts cytoskeletal integrity, blocks the parasite's glucose uptake pathway (via SGLT1 homologous transporters), and depletes intracellular ATP — ultimately arresting metacestode growth. This effect is termed **parasitostatic**: the parasite does not die acutely but is held in check, and growth can resume upon treatment discontinuation.
+Detailed mechanism of action data is not available in the Evidence Pack. Albendazole is a benzimidazole. In general pharmacology terms, it binds parasite beta-tubulin, blocks microtubule polymerization and glucose uptake, and reduces the viability of the larval stage (metacestode).
 
-Alveolar echinococcosis (AE) and cystic echinococcosis (CE) are both caused by species of the genus *Echinococcus* (order *Cyclophyllidea*), making the molecular target directly applicable across both forms. AE caused by *E. multilocularis* behaves like a slow-growing malignancy, invading the liver in a pseudotumoral pattern with potential spread to the lung and brain; without treatment, the case fatality rate approaches 100% within 10–15 years of infection. Because albendazole's β-tubulin binding mechanism is conserved across *Echinococcus* species, the pharmacological rationale for its use in AE mirrors that of CE.
+Alveolar echinococcosis is caused by the larval stage of *Echinococcus multilocularis*, a tapeworm. It mainly attacks the liver and looks like a slow-growing tumour. Surgery is the only potentially curative option, but many patients are diagnosed too late for it. The published reviews and the expert consensus describe benzimidazoles, mainly albendazole, as the backbone of drug treatment.
 
-Multiple WHO expert consensus documents and systematic reviews designate albendazole as the **only licensed pharmacological option** for AE, particularly for patients ineligible for curative surgical resection. A completed Phase 2 clinical trial (NCT07182305, n=194) directly evaluated albendazole treatment in early-stage AE patients in an endemic region of Kyrgyzstan, providing the strongest clinical anchor for this indication. TxGNN's prediction thus represents validation of a globally practiced but geographically underregistered use.
+Albendazole is **parasitostatic, not curative**. It slows parasite growth but does not kill it, so the parasite can resume growth when treatment stops. This is why the literature calls for better options, and why albendazole is best viewed as an established therapy rather than a new one.
 
 ---
 
@@ -67,11 +67,11 @@ Multiple WHO expert consensus documents and systematic reviews designate albenda
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT07182305](https://clinicaltrials.gov/study/NCT07182305) | Phase 2 | Completed | 194 | Direct treatment trial of early-stage AE patients with albendazole in Osh Province, Kyrgyzstan (prevalence ~6%); parasitostatic efficacy assessed via ultrasound surveillance in a newly identified endemic focus |
-| [NCT02876146](https://clinicaltrials.gov/study/NCT02876146) | NA | Completed | 50 | Prospective study (EchinoVISTA) of hepatic AE patients on albendazole; evaluated biological and imaging markers of parasite viability to guide timely treatment withdrawal decisions |
-| [NCT06483880](https://clinicaltrials.gov/study/NCT06483880) | NA | Unknown | 24 | RCT of adjuvant albendazole vs placebo after pulmonary hydatid cyst resection (CE, not AE); 6-month follow-up to assess recurrence prevention |
-| [NCT05824442](https://clinicaltrials.gov/study/NCT05824442) | NA | Recruiting | 43 | Evaluation of multiplex qPCR for diagnosing AE and CE; albendazole is background standard-of-care treatment, not the primary intervention |
-| [NCT07176598](https://clinicaltrials.gov/study/NCT07176598) | N/A | Completed | 1 | Case report of a misdiagnosed intramuscular hydatid cyst in the deltoid; treated surgically with albendazole adjunct following initial corticosteroid mismanagement |
+| [NCT07182305](https://clinicaltrials.gov/study/NCT07182305) | Phase 2 | Completed | 194 | Albendazole treatment in early-stage alveolar echinococcosis found by ultrasound screening in Kyrgyzstan; the most direct evidence. No results in the pack. |
+| [NCT02876146](https://clinicaltrials.gov/study/NCT02876146) | N/A | Completed | 50 | EchinoVISTA prospective study: markers of parasite viability to guide follow-up and timing of albendazole withdrawal. Supports monitoring, not efficacy. |
+| [NCT06483880](https://clinicaltrials.gov/study/NCT06483880) | N/A | Unknown | 24 | Randomised trial of adjuvant albendazole vs placebo after pulmonary hydatid cyst resection. Mainly cystic disease; small. |
+| [NCT05824442](https://clinicaltrials.gov/study/NCT05824442) | N/A | Recruiting | 43 | Multiplex qPCR for diagnosing echinococcosis. Diagnostic study with no therapeutic evidence. |
+| [NCT07176598](https://clinicaltrials.gov/study/NCT07176598) | N/A | Completed | 1 | Case report of an intramuscular hydatid cyst. Not alveolar disease; no efficacy inference. |
 
 ---
 
@@ -79,22 +79,43 @@ Multiple WHO expert consensus documents and systematic reviews designate albenda
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [39311470](https://pubmed.ncbi.nlm.nih.gov/39311470/) | 2024 | Systematic Review | Parasite | Comprehensive review of benzimidazole chemotherapy for AE; confirms albendazole and mebendazole as the only recommended treatments; highlights parasitostatic mechanism, liver toxicity risk, and unmet need for parasiticidal alternatives |
-| [19931502](https://pubmed.ncbi.nlm.nih.gov/19931502/) | 2010 | Expert Consensus | Acta Tropica | WHO-IWGE multinational consensus on diagnosis, treatment, and follow-up of cystic and alveolar echinococcosis; foundational reference endorsing albendazole as standard-of-care chemotherapy |
-| [38501660](https://pubmed.ncbi.nlm.nih.gov/38501660/) | 2024 | Pharmacological Study | Antimicrob Agents Chemother | Metabolic profiling and improved-bioavailability formulations (crystal dispersion, HPMC-AS complexes) of albendazole in secondary hepatic AE rat models; demonstrates pharmacodynamic basis for overcoming poor oral absorption |
-| [30760475](https://pubmed.ncbi.nlm.nih.gov/30760475/) | 2019 | Review | Clin Microbiol Rev | Advances in echinococcosis in the 21st century: genetics, genomics, diagnostics, and treatment across CE and AE forms; covers role of albendazole, surgical advances, and emerging immunotherapy approaches |
-| [40093668](https://pubmed.ncbi.nlm.nih.gov/40093668/) | 2025 | Review | World J Gastroenterol | Current management of liver echinococcosis; surgery remains the cornerstone for CE, with albendazole as essential adjunct or primary therapy for inoperable AE patients; highlights curative vs palliative treatment goals |
-| [34161992](https://pubmed.ncbi.nlm.nih.gov/34161992/) | 2021 | Review | Semin Liver Dis | Hepatic AE overview: pseudotumoral invasion by *E. multilocularis*, resurgence in Europe, and how prolonged albendazole chemotherapy combined with surgery has transformed 10-year survival since the 1990s |
-| [36974024](https://pubmed.ncbi.nlm.nih.gov/36974024/) | 2022 | Review | Chinese J Schistosomiasis Control | Progress review of albendazole research specifically for AE treatment; covers dosing strategies, resistance mechanisms, novel formulations, and combination regimens under investigation |
-| [39606163](https://pubmed.ncbi.nlm.nih.gov/39606163/) | 2024 | Review | World J Hepatol | Current drug therapy status for AE; albendazole as primary treatment, limitations including low oral bioavailability (~28%), parasitostatic (not parasiticidal) action, and urgency of developing alternative or adjunct agents |
-| [39508157](https://pubmed.ncbi.nlm.nih.gov/39508157/) | 2024 | Review | Parasitology | Drug repurposing strategy for hard-to-treat AE; pyronaridine identified as promising candidate against *E. multilocularis*; contextualizes why albendazole's limitations are driving the search for improved alternatives |
-| [34808118](https://pubmed.ncbi.nlm.nih.gov/34808118/) | 2022 | Review | Acta Tropica | Novel treatment options for AE and CE; albendazole and mebendazole remain the only licensed antiparasitic compounds; reviews whole-organism screening, nanomedicine, and combination trials as emerging directions |
+| [19931502](https://pubmed.ncbi.nlm.nih.gov/19931502/) | 2010 | Guideline/Consensus | Acta Trop | Expert consensus on diagnosis, treatment and follow-up of cystic and alveolar echinococcosis |
+| [39311470](https://pubmed.ncbi.nlm.nih.gov/39311470/) | 2024 | Review | Parasite | Benzimidazoles are the only recommended drugs but are parasitostatic and can cause liver dysfunction |
+| [39606163](https://pubmed.ncbi.nlm.nih.gov/39606163/) | 2024 | Review | World J Hepatol | Current status of drug therapy; surgery is primary, drugs are for patients who cannot have surgery |
+| [36974024](https://pubmed.ncbi.nlm.nih.gov/36974024/) | 2022 | Review | Chin J Schisto Control | Albendazole may delay disease progression in patients who cannot or will not have surgery |
+| [34161992](https://pubmed.ncbi.nlm.nih.gov/34161992/) | 2021 | Review | Semin Liver Dis | Overview of hepatic alveolar echinococcosis, a rare, severe zoonosis with a growing number of cases |
+| [39254012](https://pubmed.ncbi.nlm.nih.gov/39254012/) | 2024 | Review | Tidsskr Nor Laegeforen | Treatment is often extensive surgical resection combined with prolonged drug therapy |
+| [30760475](https://pubmed.ncbi.nlm.nih.gov/30760475/) | 2019 | Review | Clin Microbiol Rev | 21st-century advances in diagnosis and treatment of echinococcosis |
+| [34808118](https://pubmed.ncbi.nlm.nih.gov/34808118/) | 2022 | Review | Acta Trop | No non-surgical option yet replaces albendazole or mebendazole |
+| [38501660](https://pubmed.ncbi.nlm.nih.gov/38501660/) | 2024 | Preclinical (rat model) | Antimicrob Agents Chemother | Solubilizing formulations developed to overcome albendazole's poor oral bioavailability |
+| [34688631](https://pubmed.ncbi.nlm.nih.gov/34688631/) | 2022 | Preclinical | Acta Trop | Carvacrol plus albendazole was more effective than albendazole alone in experimental disease |
+
+No randomised controlled trial of albendazole in alveolar echinococcosis appears in the supplied literature.
+
+---
+
+## US Market Information
+
+12 US authorizations are on record; the 5 main ones are listed. Approved indication text is not provided in the Evidence Pack.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA020666 | ALBENZA | Film-coated tablet | Amneal Pharmaceuticals LLC |
+| NDA020666 | Albendazole | Film-coated tablet | Amneal Pharmaceuticals of New York LLC |
+| ANDA215652 | Albendazole | Film-coated tablet | Alembic Pharmaceuticals Inc. |
+| ANDA211034 | Albendazole | Film-coated tablet | Dr. Reddy's Laboratories Inc |
+| ANDA213435 | Albendazole | Tablet | Bryant Ranch Prepack |
+
+All listed forms are oral.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: No interaction records were found in the queried source.
+- **Literature notes**: Reviews mention that benzimidazoles can cause liver dysfunction and, in some patients, severe adverse effects. This matters because alveolar echinococcosis treatment is long-term.
+
+Warnings and contraindications are not available in the Evidence Pack. Please refer to the package insert for full safety information.
 
 ---
 
@@ -103,14 +124,16 @@ Please refer to the package insert for safety information.
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Albendazole is the globally recognized first-line pharmacological treatment for alveolar echinococcosis per WHO expert consensus, supported by a completed Phase 2 RCT (n=194) and a body of systematic reviews — meeting the L2 evidence threshold. The absence of US NDA records in the current dataset most likely reflects a data collection gap rather than actual non-approval, and requires regulatory verification before proceeding.
+A completed Phase 2 trial in early-stage alveolar echinococcosis, a consensus guideline and multiple reviews support albendazole as the established drug therapy. Because it is only parasitostatic, and long-term use carries liver-safety concerns, it should be handled as a supportive or adjunct therapy alongside surgery where possible, not as a cure.
 
 **To proceed, the following is needed:**
-- Verify current US FDA approval status for albendazole (Albenza® / generic): the dataset returned 0 NDA records, which is inconsistent with publicly known approval history and should be treated as a data gap
-- Obtain the complete US prescribing information (USPI) to fill the blocking safety data gap (warnings, contraindications, drug interactions)
-- Characterize key drug interactions affecting albendazole sulfoxide plasma levels — particularly antiepileptics (phenytoin, carbamazepine) that reduce ASOX exposure, and dexamethasone/praziquantel that increase it
-- Define the target treatment population and duration protocol: AE requires indefinite or multi-year therapy in inoperable patients, necessitating a structured monitoring plan (LFTs, CBC) given the risk of hepatotoxicity and myelosuppression
-- Evaluate novel high-bioavailability formulations (e.g., albendazole crystal dispersion system, HPMC-AS composite) as potential candidates to address the drug's core pharmacokinetic limitation of poor and variable oral absorption
+- Package insert warnings and contraindications (a blocking safety gap)
+- Published results of NCT07182305, including its efficacy endpoints
+- Mechanism of action data from DrugBank
+- A long-term liver function monitoring plan for prolonged treatment
+- Confirmation of the original approved indication text, which is missing from the US license records
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

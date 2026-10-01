@@ -29,11 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Triheptanoin: Exploratory Signal Toward Tetanic Cataract (Unverified)
+# Triheptanoin: From an Anaplerotic Metabolic Therapy to Tetanic Cataract
 
 ## One-Sentence Summary
 
-> Triheptanoin's original indication is not documented in this evidence pack (no Taiwan/US license records exist for this drug). The TxGNN model predicts a possible association with **Tetanic Cataract**, but this is a **pure algorithmic prediction with zero supporting clinical trials or literature**, and the model's own rationale states there is no known mechanistic link.
+Triheptanoin is an odd-chain triglyceride sold in the US as DOJOLVI, a metabolic energy-substrate therapy.
+The TxGNN model predicts it may be effective for **tetanic cataract**, and for several other cataract subtypes with the same score.
+There are **0 clinical trials** and **0 publications** supporting this prediction, so it rests on the model alone.
 
 ---
 
@@ -41,23 +43,25 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no license/indication records in evidence pack |
-| Predicted New Indication | Tetanic Cataract |
+| Original Indication | Not provided in the supplied regulatory data |
+| Predicted New Indication | Tetanic cataract |
 | TxGNN Prediction Score | 99.98% |
-| Evidence Level | L5 (model prediction only, no actual studies) |
-| US Market Status | Not marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for Triheptanoin, and no original indication information has been provided in this evidence pack either. What is known, per the evidence pack's own `repurposing_rationale`, is that Triheptanoin is an anaplerotic medium-chain triglyceride used to supplement energy metabolism in fatty acid oxidation disorders.
+Detailed mechanism-of-action data is not available in the supplied data. Triheptanoin is an anaplerotic odd-chain triglyceride that supplies propionyl-CoA and succinyl-CoA to the TCA cycle. It is marketed as DOJOLVI by Ultragenyx. The approved indication text is empty in the data. From general knowledge outside the Evidence Pack, DOJOLVI is labeled for long-chain fatty acid oxidation disorders, but this should be confirmed against the label.
 
-The model's rationale explicitly states there is **no direct mechanistic connection** between this metabolic pathway and lens protein pathology underlying cataract formation. The high TxGNN score likely arises from indirect co-occurrence of metabolic nodes in the knowledge graph rather than a biologically grounded hypothesis — this is described in the evidence pack as "純演算法推論" (pure algorithmic inference).
+The link to tetanic cataract, a lens opacity associated with hypocalcemia, is speculative. A metabolic substrate could in theory affect lens energy metabolism, but no data support this. The top 5 predictions (tetanic, type 2 diabetes–associated, mature, craniostenosis and immature cataract) share an identical score of 0.99975. This suggests the signal comes from a shared knowledge-graph neighborhood rather than a disease-specific association.
 
-Notably, 9 of the top 10 predicted indications for this drug are cataract subtypes (tetanic, diabetic, mature, immature, cortical, nuclear senile, senile, craniostenosis) that cluster at nearly identical scores (~99.97–99.98%) and adjacent ranks (1161–1282). This pattern — a single disease cluster dominating the top predictions with no differentiating evidence — is a signature of a generic embedding-space artifact rather than a specific, validated signal. The 10th prediction (antithrombin deficiency type 2) is biologically unrelated to any of the cataract predictions, further suggesting the ranked list reflects proximity in graph embedding space rather than a coherent pharmacological hypothesis.
+Other predicted indications fall into two groups:
+- **Other cataract subtypes:** diabetic, cortical, nuclear senile and senile cataract score 99.97%. None has supporting trials or literature.
+- **Antithrombin deficiency type 2:** a hereditary coagulation disorder (score 99.97%) with no apparent biological link to triheptanoin.
 
 ---
 
@@ -75,15 +79,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-Triheptanoin has no license records in this evidence pack (`total_licenses: 0`, market status: not marketed). No approved indication text is available for comparison.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA213687 | DOJOLVI (Ultragenyx Pharmaceutical Inc.) | Liquid | Not stated in the supplied data |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-*(Note: Key warnings, contraindications, and drug-drug interaction data are all flagged as blocking data gaps (DG001) in this evidence pack — TFDA label warnings/contraindications have not yet been retrieved, and no DDI database match was found.)*
+Please refer to the package insert for safety information. The DDI query returned no interactions, and warning and contraindication data were not available.
 
 ---
 
@@ -92,14 +96,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-This is an L5-only prediction with no clinical trials, no literature, and no mechanistic plausibility per the model's own rationale — it also sits within a cluster of near-duplicate cataract predictions that suggests a graph-embedding artifact rather than a genuine signal. Combined with a **Blocking** data gap on safety labeling (DG001) and the drug's non-marketed status, there is currently no basis to advance this candidate past S0.
+The prediction has no clinical or preclinical support (L5, stage S0). The tied scores across the cataract subtypes point to a graph-level artifact rather than a disease-specific signal. Safety data are also missing, which blocks safety screening.
 
 **To proceed, the following is needed:**
-- Resolve DG001: retrieve TFDA/FDA label warnings and contraindications (blocking; required before any S1 safety screen)
-- Resolve DG002: obtain confirmed mechanism of action data from DrugBank/primary literature
-- Independent mechanistic or preclinical rationale connecting anaplerotic fatty acid metabolism to cataract pathophysiology (currently absent)
-- At minimum one preclinical or observational study before considering re-scoring above L5
-- Re-evaluate whether the cataract cluster (ranks 1–9) reflects a true shared signal or a single embedding artifact before treating any individual cataract subtype as a distinct hypothesis
+- The FDA package insert (warnings, contraindications, approved indication), which is currently a blocking gap
+- Mechanism of action data from DrugBank
+- Preclinical evidence on lens metabolism or cataract models
+- A route and formulation compatibility assessment for any ocular use
+- A literature and trial search outside the current dataset
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

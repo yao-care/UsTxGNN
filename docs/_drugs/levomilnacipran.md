@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Levomilnacipran
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 856
-evidence_level: L3
+evidence_level: L5
 indication_count: 6
 ---
 
 # Levomilnacipran
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,99 +29,62 @@ Evidence Level: **L3** | Predicted Indications: **6**
 
 </div>
 
-# Levomilnacipran: From Major Depressive Disorder to Melancholia
+# Levomilnacipran: From Major Depressive Disorder to Benign Paroxysmal Torticollis of Infancy
 
 ## One-Sentence Summary
 
-> Levomilnacipran is a serotonin-norepinephrine reuptake inhibitor (SNRI) already established for adult **Major Depressive Disorder (MDD)**. TxGNN evaluated six candidate indications for this drug; the highest-evidence signal points to **Melancholia** (a clinical subtype of MDD), supported by **0 dedicated clinical trials** but **20 general MDD-related publications**. The drug's single top-ranked TxGNN prediction (infantile torticollis) is flagged by the model's own rationale as biologically implausible and is excluded from the primary recommendation below.
-
----
+Levomilnacipran is a serotonin-norepinephrine reuptake inhibitor (SNRI) marketed in the US as Fetzima for adult major depressive disorder.
+The TxGNN model predicts it may be effective for **benign paroxysmal torticollis of infancy**, but this rests on the model score alone: **0 clinical trials** and **0 publications** were found for this indication.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Major Depressive Disorder (MDD), adults (per literature evidence in this pack; not independently confirmed by a Taiwan/US license record) |
-| Predicted New Indication | Melancholia (melancholic-featured depression) |
-| TxGNN Prediction Score | 99.20% |
-| Evidence Level | L3 |
-| US Market Status | ✗ Not Marketed |
-| Number of NDAs | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
-### All TxGNN-Predicted Indications for This Drug
-
-| Rank | Disease | Score | Evidence Level | Stage | Recommendation |
-|------|---------|-------|-----------------|-------|-----------------|
-| 1 | Benign paroxysmal torticollis of infancy | 99.53% | L5 | S0 | Hold (model itself flags as likely knowledge-graph noise) |
-| 2 | Agoraphobia | 99.53% | L4 | S1 | Research Question |
-| 3 | Dysthymic disorder | 99.24% | L4 | S1 | Research Question |
-| 4 | **Melancholia** | 99.20% | L3 | S2 | **Proceed with Guardrails** |
-| 5 | Neurotic depression | 99.20% | L3 | S2 | Proceed with Guardrails |
-| 6 | Neurotic disorder | 99.19% | L5 | S0 | Hold |
-
-Melancholia and neurotic depression are functionally the same clinical concept (melancholic/severe depressive subtypes) and are treated together below as the drug's most defensible repurposing signal.
-
----
+| Original Indication | Major depressive disorder in adults (from published literature; the license records contain no indication text) |
+| Predicted New Indication | Benign paroxysmal torticollis of infancy |
+| TxGNN Prediction Score | 99.53% |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 4 license records, all under a single NDA (NDA204168) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed DrugBank mechanism-of-action data is not available for this candidate (`original_moa: [Data Gap]`). However, the literature evidence collected for this pack fills that gap: levomilnacipran is the more pharmacologically active enantiomer of milnacipran, and functions as an SNRI with high affinity for both norepinephrine (Ki ≈ 92.2 nM) and serotonin (Ki ≈ 11.2 nM) transporters (PMID 23499664-class data reflected in PMID 40875503, *J Clin Psychiatry* 2025), with potent, dose-dependent inhibition of NE reuptake distinguishing it from more serotonin-selective SNRIs like duloxetine.
+Detailed mechanism-of-action data is not available in the Evidence Pack. The literature describes levomilnacipran as an SNRI, the more active enantiomer of milnacipran. Its efficacy in adult major depressive disorder is established.
 
-Melancholia and "neurotic depression" are not independent disease entities — they are clinical subtypes/older nosological terms within the MDD spectrum for which levomilnacipran already holds its core approval. Because the pharmacological target (5-HT/NE reuptake) is identical across MDD and its melancholic subtype, the mechanistic rationale for efficacy is strong. What is missing is *subtype-specific* trial evidence: all literature retrieved for this pack studies levomilnacipran in MDD populations broadly (including a pediatric Phase 3 program and network meta-analyses against other second-generation antidepressants), with no trial specifically enrolling or stratifying by melancholic features.
-
-By contrast, the model's #1-ranked prediction — benign paroxysmal torticollis of infancy — has no plausible mechanistic link (a pediatric vestibular/ion-channel disorder vs. an adult SNRI) and zero supporting trials or literature; its own rationale text identifies it as likely knowledge-graph noise, which is why it is not used as the headline indication despite having the highest raw TxGNN score.
-
----
+The predicted condition is a self-limiting movement disorder of infancy, related to the migraine spectrum. We found no plausible link between serotonin-norepinephrine reuptake inhibition and this condition in the data provided. No infant safety data exist for levomilnacipran. The high graph score (0.995) is best read as a likely artifact of the knowledge graph, not a mechanistic signal.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for melancholia or neurotic depression specifically.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [38700708](https://pubmed.ncbi.nlm.nih.gov/38700708/) | 2024 | RCT | J Child Adolesc Psychopharmacol | Two Phase 3, double-blind, placebo/active-controlled trials of levomilnacipran ER in pediatric (7–17y) MDD |
-| [29197738](https://pubmed.ncbi.nlm.nih.gov/29197738/) | 2018 | Network Meta-analysis | J Affect Disord | Compares efficacy/safety of levomilnacipran, vilazodone, and vortioxetine against other second-generation antidepressants in MDD |
-| [40172868](https://pubmed.ncbi.nlm.nih.gov/40172868/) | 2025 | RCT | JAMA Psychiatry | Real-world comparison of esketamine + SSRI vs. + SNRI (incl. levomilnacipran) in treatment-resistant depression |
-| [40875503](https://pubmed.ncbi.nlm.nih.gov/40875503/) | 2025 | Pharmacology (human study) | J Clin Psychiatry | Confirms levomilnacipran potently inhibits both NE and 5-HT reuptake across its therapeutic dose range, unlike duloxetine |
-| [36253442](https://pubmed.ncbi.nlm.nih.gov/36253442/) | 2023 | Systematic Review/Network Meta-analysis | Molecular Psychiatry | Efficacy/tolerability of antidepressants (incl. levomilnacipran) in MDD maintenance-phase treatment |
-| [31509357](https://pubmed.ncbi.nlm.nih.gov/31509357/) | 2019 | Review | Prim Care Companion CNS Disord | Narrative review of MOA, PK, and efficacy; proposes unique benefit for MDD fatigue symptom cluster |
-| [37032427](https://pubmed.ncbi.nlm.nih.gov/37032427/) | 2023 | Guideline | Clin Pharmacol Ther | CPIC pharmacogenetics guideline for SNRI/SSRI antidepressants including levomilnacipran |
-| [41135546](https://pubmed.ncbi.nlm.nih.gov/41135546/) | 2025 | Systematic Review | Lancet | Network meta-analysis ranking antidepressants (incl. levomilnacipran) by cardiometabolic side-effects |
-| [33549697](https://pubmed.ncbi.nlm.nih.gov/33549697/) | 2021 | Systematic Review | Prog Neuropsychopharmacol Biol Psychiatry | Meta-analysis of GI side effects across second-generation antidepressants in MDD |
-| [27508501](https://pubmed.ncbi.nlm.nih.gov/27508501/) | 2016 | Review | Psychother Psychosom | Critical review of safety/tolerability of newer antidepressants including levomilnacipran |
-
----
+Currently no related literature available.
 
 ## US Market Information
 
-No marketing authorizations are on file in this dataset (`total_licenses: 0`, market status: Not Marketed). This should be independently verified against the current FDA label before any regulatory action.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA204168 (4 records) | Fetzima (Allergan, Inc.) | Capsule, extended release (oral) | Not stated in the license records |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Note: this pack has an unresolved **Blocking** data gap (DG001 — TFDA/FDA label warnings and contraindications not yet retrieved), which by definition prevents this candidate from clearing initial safety screening (S1) regardless of indication.
-
----
+Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails** (for Melancholia / neurotic depression only — the other four TxGNN candidates in this pack should remain at Hold or Research Question)
+**Decision: Hold**
 
 **Rationale:**
-Melancholia and neurotic depression are subtypes within levomilnacipran's already-approved MDD indication, and the SNRI mechanism is directly applicable; however, no subtype-specific clinical trial exists, so evidence remains L3 (general MDD literature, not indication-specific).
+The prediction has only a model score behind it: no trials, no literature, no plausible mechanism, and no infant safety data. It should not advance to safety screening in its current form.
 
 **To proceed, the following is needed:**
-- Resolve DG001 (Blocking): obtain the drug's label warnings/contraindications before any S1 safety pre-assessment can proceed
-- Resolve DG002 (High): confirm authoritative MOA record via DrugBank API (currently inferred from literature only)
-- Obtain or commission trial data stratified by melancholic-feature status within MDD populations
-- Verify current US/Taiwan marketing and licensing status independently, since this pack shows zero authorizations on file
-- Do not advance ranks 1 and 6 (torticollis, neurotic disorder) — no mechanistic plausibility or evidence base
+- FDA package insert warnings and contraindications, which are currently missing and block safety screening
+- Mechanism-of-action data from DrugBank
+- A drug-specific mechanistic rationale for this indication, plus any case reports or trials
+- Pediatric and infant safety data, since the target population is infants
+- Consider prioritising other predictions for this drug. Melancholia and neurotic depression (both L4, Research Question) have indirect depression-level literature. Agoraphobia and dysthymic disorder have class-level plausibility but no drug-specific evidence.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

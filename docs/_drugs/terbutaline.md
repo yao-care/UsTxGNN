@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Terbutaline
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 1212
-evidence_level: L1
+evidence_level: L5
 indication_count: 3
 ---
 
 # Terbutaline
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,77 +29,87 @@ Evidence Level: **L1** | Predicted Indications: **3**
 
 </div>
 
-# Terbutaline: From Bronchospasm to Obstructive Lung Disease
+# Terbutaline: From Bronchodilator Use to Obstructive Lung Disease
 
 ## One-Sentence Summary
 
-Terbutaline is a selective β2-adrenergic receptor agonist globally recognized as a first-line bronchodilator for bronchospasm in asthma and COPD, though no active US market registrations are currently on record in the database.
-The TxGNN model predicts it may be effective for **Obstructive Lung Disease**,
-with **48 clinical trials** and **20 publications** currently supporting this direction.
+Terbutaline is a selective beta-2 agonist bronchodilator, marketed in the US as injection and tablets. The TxGNN model predicts it may be effective for **obstructive lung disease** (asthma and COPD). The prediction is backed by **48 clinical trials** and **20 publications**, but most of the trials use terbutaline as a reliever or comparator. This is probably an already-labeled use rather than true repurposing.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Bronchospasm (asthma, COPD) — internationally recognized; no active US licenses found in current dataset |
-| Predicted New Indication | Obstructive Lung Disease |
+|------|------|
+| Original Indication | Not listed in the provided US license records (bronchospasm in asthma/COPD is likely, but must be checked against the label) |
+| Predicted New Indication | Obstructive lung disease |
 | TxGNN Prediction Score | 99.96% |
-| Evidence Level | L1 |
-| US Market Status | Not Marketed (0 active licenses on record) |
-| Number of NDAs | 0 |
+| Evidence Level | L2 (capped, because Phase 3 trials mostly use terbutaline as a comparator or reliever) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 17 (all listed licenses are ANDAs) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Terbutaline is a selective β2-adrenergic receptor (β2-AR) agonist. When inhaled or administered systemically, it binds to β2-ARs on bronchial smooth muscle cells, triggering an increase in intracellular cyclic AMP (cAMP). This cascade leads to smooth muscle relaxation, dilation of the bronchial lumen, and a consequent reduction in airway resistance — the core pathophysiological mechanism directly targeting obstructive lung disease.
+Detailed mechanism data is not available in the source record. Terbutaline is a known selective beta-2 adrenergic agonist. It activates the beta-2 receptor, Gs protein, adenylyl cyclase and cAMP pathway, which relaxes bronchial smooth muscle. The result is bronchodilation and relief of airflow obstruction.
 
-Obstructive lung disease encompasses conditions such as asthma and COPD, both characterized by reversible or partially reversible airflow limitation. Terbutaline's mechanism is not merely plausible for this indication — it represents the gold-standard therapeutic rationale underpinning the entire short-acting β2-agonist (SABA) drug class, of which terbutaline (Bricanyl®/Brethine®) is a canonical member approved in numerous international markets. The TxGNN prediction therefore reflects biological and pharmacological reality rather than a speculative mechanistic leap.
+This matches the core pathophysiology of obstructive lung disease (asthma and COPD), so the mechanistic link is direct. The high TxGNN score likely reflects this close match.
 
-The strength of this prediction is further validated by the breadth and quality of supporting evidence: multiple completed Phase 3 randomized controlled trials directly involving terbutaline in asthma and COPD, spanning rescue bronchodilation, maintenance therapy comparison, and acute exacerbation management. The absence of current US market registration in the database most likely reflects a data collection gap, rather than a lack of clinical utility.
+Bronchospasm in asthma and COPD is very likely already a labeled use of terbutaline. The prediction therefore mostly confirms known pharmacology rather than identifying a new indication. The US license records contain no indication text, so this needs to be verified against the package insert.
 
 ---
 
 ## Clinical Trial Evidence
 
+48 trials were retrieved. The 10 most relevant are listed below. Many are budesonide/formoterol (Symbicort) studies in which terbutaline is the reliever or comparator, so they give indirect evidence.
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT01944033](https://clinicaltrials.gov/study/NCT01944033) | Phase 3 | Completed | 250 | Directly compared β2-agonists alone versus β2-agonists combined with ipratropium bromide for COPD acute exacerbation in the emergency department; assessed clinical outcomes and arterial blood gas parameters. |
-| [NCT06626620](https://clinicaltrials.gov/study/NCT06626620) | Phase 3 | Completed | 120 | Head-to-head RCT comparing IV magnesium sulfate versus IV terbutaline in children with acute asthma exacerbations in the emergency setting; directly evaluates terbutaline efficacy as standard care. |
-| [NCT02149199](https://clinicaltrials.gov/study/NCT02149199) | Phase 3 | Completed | 3,850 | Three-arm study comparing Symbicort as-needed, terbutaline as-needed, and Pulmicort twice daily plus terbutaline as-needed in mild-to-moderate asthma; terbutaline serves as active comparator defining SABA standard of care. |
-| [NCT02224157](https://clinicaltrials.gov/study/NCT02224157) | Phase 3 | Completed | 4,215 | Compared Symbicort as-needed versus Pulmicort twice daily plus terbutaline as-needed in mild asthma patients; large multinational trial validating terbutaline as the gold-standard rescue comparator. |
-| [NCT00839800](https://clinicaltrials.gov/study/NCT00839800) | Phase 3 | Completed | 2,091 | Compared Symbicort SMART (maintenance and reliever) with Symbicort fixed-dose plus terbutaline as-needed; demonstrated terbutaline as the benchmark rescue inhaler in asthma management over 12 months. |
-| [NCT00421122](https://clinicaltrials.gov/study/NCT00421122) | Phase 3 | Completed | 315 | Evaluated efficacy and safety of Symbicort Turbuhaler versus Bricasol® pMDI (terbutaline) in Chinese COPD patients per GOLD guidelines; supports terbutaline's role as a rescue bronchodilator in COPD. |
-| [NCT00326053](https://clinicaltrials.gov/study/NCT00326053) | Phase 3 | Completed | 600 | Compared budesonide/formoterol combination with budesonide plus terbutaline as-needed for prevention of asthma relapse post-emergency discharge; directly positions terbutaline as active rescue control. |
-| [NCT01096017](https://clinicaltrials.gov/study/NCT01096017) | Phase 3 | Completed | 24 | Single-blind crossover study directly evaluating relative efficacy of terbutaline Turbuhaler 0.4 mg versus salbutamol pMDI 200 µg in Japanese adult asthmatic patients; also assessed safety via adverse events and vital signs. |
-| [NCT02322788](https://clinicaltrials.gov/study/NCT02322788) | Phase 3 | Completed | 95 | Double-blind crossover pharmacodynamic study evaluating Bricanyl (terbutaline) Turbuhaler M3 versus M2 formulations via methacholine-induced bronchoconstriction protection; directly assesses terbutaline device performance. |
-| [NCT00242775](https://clinicaltrials.gov/study/NCT00242775) | Phase 3 | Completed | 2,100 | Compared Symbicort variable dose with Seretide plus terbutaline as-needed rescue in persistent asthma patients over 6 months; large multinational trial providing indirect safety and efficacy reference for terbutaline in obstructive lung disease. |
+| [NCT06626620](https://clinicaltrials.gov/study/NCT06626620) | Phase 3 | Completed | 120 | IV magnesium sulfate vs terbutaline in children with acute asthma exacerbation (direct comparison) |
+| [NCT01944033](https://clinicaltrials.gov/study/NCT01944033) | Phase 3 | Completed | 250 | Nebulized beta-2 agonist alone vs beta-2 agonist plus ipratropium in COPD exacerbation (the specific agent is not confirmed) |
+| [NCT01096017](https://clinicaltrials.gov/study/NCT01096017) | Phase 3 | Completed | 24 | Terbutaline Turbuhaler 0.4 mg vs salbutamol pMDI in Japanese adults with asthma (crossover) |
+| [NCT02149199](https://clinicaltrials.gov/study/NCT02149199) | Phase 3 | Completed | 3850 | Symbicort as-needed vs terbutaline as-needed vs budesonide plus terbutaline in mild asthma |
+| [NCT02224157](https://clinicaltrials.gov/study/NCT02224157) | Phase 3 | Completed | 4215 | Symbicort as-needed vs budesonide twice daily plus terbutaline as-needed |
+| [NCT00839800](https://clinicaltrials.gov/study/NCT00839800) | Phase 3 | Completed | 2091 | Symbicort SMART vs Symbicort plus terbutaline as-needed over 12 months |
+| [NCT00849095](https://clinicaltrials.gov/study/NCT00849095) | Phase 3 | Completed | 860 | As-needed budesonide/formoterol vs regular budesonide/formoterol plus as-needed terbutaline |
+| [NCT00326053](https://clinicaltrials.gov/study/NCT00326053) | Phase 3 | Completed | 600 | Symbicort vs budesonide plus terbutaline reliever for preventing asthma relapse after ER discharge |
+| [NCT00837967](https://clinicaltrials.gov/study/NCT00837967) | Phase 3 | Completed | 25 | Tolerability of 10 inhalations of Symbicort vs terbutaline on top of Symbicort in Japanese adults with asthma |
+| [NCT00750568](https://clinicaltrials.gov/study/NCT00750568) | N/A | Unknown | 36 | PK/PD of continuous IV terbutaline in children with severe status asthmaticus |
 
 ---
 
 ## Literature Evidence
 
+20 publications were retrieved. The 10 most relevant, prioritizing randomized trials, are listed below.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [30156361](https://pubmed.ncbi.nlm.nih.gov/30156361/) | 2019 | RCT | Academic Emergency Medicine | Randomized double-blind trial comparing nebulized terbutaline alone versus terbutaline plus ipratropium in hypercapnic AECOPD patients requiring non-invasive ventilation; SABA (terbutaline) established as mainstay of ED treatment. |
-| [3073804](https://pubmed.ncbi.nlm.nih.gov/3073804/) | 1988 | RCT | British Journal of Diseases of the Chest | Double-blind crossover RCT in 10 moderate-to-severe COPD patients; oral terbutaline (2.5 mg TID × 1 week) significantly increased peak inspiratory mouth pressure (+5.8 cmH₂O) and transdiaphragmatic pressure (+5.0 cmH₂O) versus placebo. |
-| [6988343](https://pubmed.ncbi.nlm.nih.gov/6988343/) | 1980 | RCT | International Journal of Clinical Pharmacology | Double-blind two-week trial comparing clenbuterol (30 µg TID) with terbutaline sulfate (5 mg TID) in 24 COLD patients with partially reversible obstruction; both agents improved FEV₁, sRaw, and V50% VC, demonstrating terbutaline's bronchodilator efficacy in COLD. |
-| [2031046](https://pubmed.ncbi.nlm.nih.gov/2031046/) | 1991 | RCT | Pneumologie | Randomized crossover study in 10 COPD patients evaluating nebulized terbutaline (5 mg TID) with and without positive expiratory pressure (PEP); both terbutaline arms demonstrated improvements in symptom scores and peak expiratory flow versus placebo. |
-| [33065789](https://pubmed.ncbi.nlm.nih.gov/33065789/) | 2020 | Clinical Study | Annals of Palliative Medicine | Investigated clinical value of N-acetylcysteine combined with terbutaline sulfate in elderly COPD patients; also analyzed effects on apoptosis/anti-apoptosis mechanisms, demonstrating that the combination improved clinical outcomes beyond bronchodilation alone. |
-| [18761816](https://pubmed.ncbi.nlm.nih.gov/18761816/) | 2008 | Clinical Study | Cellular & Molecular Immunology | Atomization inhalation of budesonide combined with terbutaline plus conventional therapies in AECOPD patients; demonstrated improvements in airway hyperreactivity (AHR) and immune parameters compared to standard care alone. |
-| [1615190](https://pubmed.ncbi.nlm.nih.gov/1615190/) | 1992 | Clinical Study | Respiratory Medicine | Double-blind placebo-controlled crossover study evaluating terbutaline via Turbuhaler in COLD patients; assessed spirometry (FEV₁, FVC), 6-minute walking distance, and dyspnoea during exercise. |
-| [10384064](https://pubmed.ncbi.nlm.nih.gov/10384064/) | 1999 | Clinical Study | Lung | Double-blind placebo-controlled crossover study in 26 COPD patients (FEV₁ 40–70% predicted); single-dose terbutaline Turbuhaler improved resting lung function and exercise capacity versus placebo. |
-| [6107217](https://pubmed.ncbi.nlm.nih.gov/6107217/) | 1980 | Clinical Study | Chest | Double-blind crossover study in 35 COLD patients with concurrent ischemic heart disease or hypertension; evaluated interaction between β-blockers (metoprolol, propranolol) and terbutaline, demonstrating that terbutaline maintained bronchodilator efficacy even in this high-risk population. |
-| [8882073](https://pubmed.ncbi.nlm.nih.gov/8882073/) | 1996 | Clinical Study | Thorax | Evaluated whether cessation of regular inhaled terbutaline therapy in COPD patients causes rebound airway responsiveness or bronchoconstriction; provided important data on dose dependency and withdrawal effects relevant to long-term COPD management. |
+| [30156361](https://pubmed.ncbi.nlm.nih.gov/30156361/) | 2019 | RCT | Acad Emerg Med | Nebulized terbutaline plus ipratropium vs terbutaline alone in acute COPD exacerbation needing noninvasive ventilation |
+| [3073804](https://pubmed.ncbi.nlm.nih.gov/3073804/) | 1988 | RCT | Br J Dis Chest | Oral terbutaline vs placebo in COPD: increased inspiratory mouth pressure and transdiaphragmatic pressure |
+| [6988343](https://pubmed.ncbi.nlm.nih.gov/6988343/) | 1980 | RCT | Int J Clin Pharmacol Ther Toxicol | Oral terbutaline vs clenbuterol in chronic obstructive lung disease over two weeks |
+| [1615190](https://pubmed.ncbi.nlm.nih.gov/1615190/) | 1992 | RCT | Respir Med | Inhaled terbutaline vs placebo on FEV1, FVC, dyspnoea and walking distance in COPD |
+| [10384064](https://pubmed.ncbi.nlm.nih.gov/10384064/) | 1999 | RCT | Lung | Single-dose terbutaline vs placebo on lung function and exercise capacity in 26 COPD patients |
+| [3044105](https://pubmed.ncbi.nlm.nih.gov/3044105/) | 1988 | RCT | Am J Med Sci | Oral terbutaline improved cardiac performance in COPD (crossover) |
+| [33065789](https://pubmed.ncbi.nlm.nih.gov/33065789/) | 2020 | Clinical study | Ann Palliat Med | N-acetylcysteine plus terbutaline in elderly COPD patients, with effects on apoptosis mechanisms |
+| [18761816](https://pubmed.ncbi.nlm.nih.gov/18761816/) | 2008 | Clinical study | Cell Mol Immunol | Nebulized terbutaline plus budesonide improved immunity and lung function in AECOPD |
+| [6107217](https://pubmed.ncbi.nlm.nih.gov/6107217/) | 1980 | Controlled study | Chest | Interaction of oral terbutaline with beta-blockers in COPD patients with heart disease or hypertension |
+| [2031046](https://pubmed.ncbi.nlm.nih.gov/2031046/) | 1991 | Clinical trial | Pneumologie | Nebulized terbutaline with and without positive expiratory pressure in COPD (crossover) |
 
 ---
 
-## Market Authorization Information
+## US Market Information
 
-No active US market authorizations were found in the current dataset (0 licenses recorded). This may reflect a data collection gap, as terbutaline (Brethine®) has historically held FDA approval for bronchospasm in obstructive pulmonary diseases including asthma and COPD. Verification against the FDA Orange Book is recommended before regulatory decisions.
+17 licenses are on record. The 5 main ones are listed below. The records contain no approved indication text.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA078630 | Terbutaline Sulfate | Injection | Henry Schein, Inc. |
+| ANDA078630 | Terbutaline Sulfate | Injection | Hikma Pharmaceuticals USA Inc. |
+| ANDA075877 | Terbutaline Sulfate | Tablet | Amneal Pharmaceuticals of New York LLC |
+| ANDA078630 | Terbutaline Sulfate | Injection | Medical Purchasing Solutions, LLC |
+| ANDA211832 | Terbutaline Sulfate | Tablet | Upsher-Smith Laboratories, LLC |
 
 ---
 
@@ -114,15 +124,17 @@ Please refer to the package insert for safety information.
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Terbutaline's mechanism of action (selective β2-AR agonism → smooth muscle relaxation → airway dilation) directly targets the pathophysiology of obstructive lung disease, and the evidence base is exceptional — multiple completed Phase 3 RCTs involving tens of thousands of patients, in which terbutaline consistently functions as the gold-standard active comparator. The L1 evidence level reflects genuine clinical validation, not merely model prediction.
+The mechanism directly fits obstructive lung disease, and there are many Phase 3 trials plus decades of randomized studies in COPD and asthma. However, terbutaline is mostly the comparator or reliever in those trials, and this looks like an existing labeled use rather than a new indication.
+
+The same run also produced two lower-ranked predictions, which should stay on hold:
+- **Respiratory malformation (Hold):** it is supported only by indirect evidence, and bronchodilation cannot correct structural defects.
+- **Rienhoff syndrome (Hold):** no trials or literature were found, and the TxGNN score is a knowledge-graph prediction only.
 
 **To proceed, the following is needed:**
-
-- **Regulatory clarification**: Verify current FDA Orange Book status; the 0-license finding likely reflects a data collection gap and should be confirmed before any filing or market-entry decision
-- **Safety data retrieval**: Obtain full prescribing information (package insert warnings, contraindications, black box warnings) from FDA label — particularly important given known cardiovascular effects of β2-agonists at higher doses
-- **Drug interaction profile**: Query DDI databases for clinically significant interactions (β-blockers, MAOIs, diuretics, sympathomimetics), as no interaction data was retrieved in this Evidence Pack
-- **US-specific indication scoping**: Clarify whether the target indication is asthma, COPD, or the broader "obstructive lung disease" umbrella, as regulatory pathways and comparator requirements differ
-- **Formulation and route strategy**: Define target formulation (inhaled Turbuhaler, pMDI, nebulized, IV/SQ) and route based on intended patient population and indication, as evidence supports multiple routes with differing safety profiles
+- Retrieve the package insert to confirm the labeled indications and to obtain warnings and contraindications. This is a blocking safety gap.
+- Confirm whether obstructive lung disease is already a labeled use. If it is, reclassify the case as an existing indication rather than repurposing.
+- Check full titles and arms of the Phase 3 trials to confirm terbutaline's role (comparator, reliever or investigational).
+- Obtain detailed mechanism-of-action data from DrugBank.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

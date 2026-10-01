@@ -29,63 +29,82 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Mannitol: From Osmotic Diuresis to Nephrogenic Syndrome of Inappropriate Antidiuresis
+# Mannitol: From Osmotic Diuretic Use to Nephrogenic Syndrome of Inappropriate Antidiuresis
 
 ## One-Sentence Summary
 
-Mannitol is a sugar-alcohol osmotic diuretic long used to reduce intracranial/intraocular pressure and promote diuresis; specific TFDA-approved indication text is not present in this evidence pack. The TxGNN model predicts it may be effective for **Nephrogenic Syndrome of Inappropriate Antidiuresis (NSIAD)**, but currently **no clinical trials** and only **1 tangential publication** support this direction — the evidence is essentially model-prediction-only.
+Mannitol is an osmotic diuretic that is widely marketed in the US as an injectable solution. The TxGNN model predicts it may be effective for **nephrogenic syndrome of inappropriate antidiuresis (NSIAD)**, but this prediction has **0 clinical trials** and only **1 general review** behind it, and that review does not study mannitol. The prediction is a model output without supporting evidence, and the pack's own mechanistic analysis argues against it.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in this evidence pack (drug class: osmotic diuretic; regulatory indication text unavailable) |
-| Predicted New Indication | Nephrogenic Syndrome of Inappropriate Antidiuresis (NSIAD) |
-| TxGNN Prediction Score | 99.97% |
+| Original Indication | Not stated in the label data provided (mannitol is generally known as an osmotic diuretic) |
+| Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
+| TxGNN Prediction Score | 99.97% (model rank 1472) |
 | Evidence Level | L5 |
-| US Market Status | Not marketed (Not Marketed) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 12 (NDA and ANDA authorizations combined) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known pharmacological information, mannitol is a sugar alcohol classified as an osmotic diuretic; it raises plasma osmolality, draws free water out of tissues, and promotes renal excretion of water and solutes. This basic mechanism is well established, though this evidence pack does not contain the drug's specific TFDA-approved indication text.
+Detailed mechanism of action data is not available for this drug. In general, mannitol is an osmotic diuretic. It raises the osmolarity of the fluid in the kidney tubules, which draws water into the urine.
 
-NSIAD is a rare, congenital cause of euvolemic hyponatremia driven by a gain-of-function mutation in the vasopressin V2 receptor, which causes inappropriate renal water retention even in the absence of detectable antidiuretic hormone. Mechanistically, an osmotic diuretic that promotes free-water excretion is a plausible countermeasure to the water-retention physiology underlying NSIAD, which is likely why the TxGNN model links the two.
+NSIAD is a gain-of-function disorder of the vasopressin V2 receptor. It causes the body to retain water and leads to low blood sodium (hyponatremia). Mannitol works independently of vasopressin signaling, so it does not act on the cause of NSIAD.
 
-However, this mechanistic plausibility is not yet backed by direct empirical study. The single literature item returned for this pair discusses general pitfalls in evaluating hyponatremic patients rather than mannitol's therapeutic effect in NSIAD specifically, and no clinical trials have been registered for this drug-disease pair. The prediction should be read as a hypothesis generated from network-level associations, not as clinically validated evidence.
+**The prediction is therefore not mechanistically supported.** The only citation is a general review of pitfalls in evaluating hyponatremia, and it does not assess mannitol as a treatment. The high score most likely reflects the drug's proximity to hyponatremia and other osmotic agents in the knowledge graph, not a real therapeutic link.
+
+---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
+
+---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [26706473](https://pubmed.ncbi.nlm.nih.gov/26706473/) | 2016 | Review | European journal of internal medicine | Reviews common diagnostic pitfalls in hyponatremia work-up; discusses risks of under- and over-treatment. Does not evaluate mannitol therapy for NSIAD directly. |
+| [26706473](https://pubmed.ncbi.nlm.nih.gov/26706473/) | 2016 | Review | European Journal of Internal Medicine | Describes ten common pitfalls in evaluating hyponatremia and the risks of under- or over-treating it. It does not evaluate mannitol. |
+
+---
 
 ## US Market Information
 
-No marketing authorizations on record in this evidence pack (0 licenses; market status: Not marketed/Not Marketed).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA016269 (Henry Schein, Inc.) | Mannitol | Injection, solution | Not stated in the provided data |
+| ANDA080677 (Fresenius Kabi USA, LLC) | Mannitol | Injection, solution | Not stated in the provided data |
+| ANDA080677 (ProPharma Distribution) | Mannitol | Injection, solution | Not stated in the provided data |
+| NDA016269 (Hospira, Inc.) | Mannitol | Injection, solution | Not stated in the provided data |
+| NDA020006 (B. Braun Medical Inc.) | Mannitol | Injection, solution | Not stated in the provided data |
+
+---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high, but there are zero clinical trials and only one tangential, non-specific publication supporting mannitol's use in NSIAD — this is model-prediction-only evidence (L5). Separately, TFDA label/warning data (DG001) is flagged as a **Blocking** gap, which prevents even a preliminary safety (S1) assessment.
+The prediction is model-only (L5). There are no trials, the single citation does not test mannitol, and mannitol's mechanism does not target the V2 receptor defect behind NSIAD. The other nine predicted indications in the pack are also rated Hold, at L4 or L5.
 
 **To proceed, the following is needed:**
-- TFDA package insert — warnings, contraindications (DG001, Blocking)
-- Detailed mechanism of action data (DG002)
-- Mannitol's confirmed original/approved indications and regulatory history
-- Targeted clinical evidence (trials, case series, or mechanistic studies) evaluating mannitol specifically in NSIAD or related hyponatremia syndromes
-- Drug-drug interaction (DDI) screening data
+- The package insert (warnings and contraindications), so safety screening can begin
+- Mechanism of action data from DrugBank
+- A targeted literature search for any direct evidence of mannitol use in NSIAD or hyponatremia due to excess antidiuresis
+- Evidence that mannitol's osmotic diuresis can benefit this disease at all, given the concern that it does not address V2 receptor gain of function
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

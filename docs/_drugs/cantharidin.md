@@ -29,90 +29,64 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-以下是根據 Evidence Pack 產生的完整評估報告：
-
----
-
-# Cantharidin: From Traditional Chinese Medicine to Amenorrhea
+# Cantharidin: From an Unspecified Original Indication to Amenorrhea
 
 ## One-Sentence Summary
 
-Cantharidin is a naturally occurring vesicant toxin derived from blister beetles (*Mylabris* spp.), historically classified as 斑蝥 in traditional Chinese medicine and studied for its cytotoxic and PP2A-inhibitory properties, but currently without any approved modern indication in the United States.
-The TxGNN model predicts it may be effective for **Amenorrhea**, likely driven by ethnopharmacological associations in the knowledge graph.
-However, with **0 clinical trials** and **0 publications** directly supporting this direction, the evidence base is entirely model-driven at this stage.
-
----
+Cantharidin is marketed in the US as a topical solution (YCANTH), but the supplied data does not list its approved indication.
+The TxGNN model predicts it may be effective for **Amenorrhea**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction, so this is a model-only prediction.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No approved indication (traditional/experimental use only) |
+|------|------|
+| Original Indication | Not available in the supplied data |
 | Predicted New Indication | Amenorrhea |
 | TxGNN Prediction Score | 99.42% |
 | Evidence Level | L5 |
-| US Market Status | Not marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 (both records carry the same number, NDA212905) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, no approved indication or detailed mechanism of action data is available in the evidence pack. Based on known pharmacological information, cantharidin is a potent protein phosphatase 2A (PP2A) inhibitor and the active vesicant constituent of *Mylabris* spp. (blister beetles). It has documented cytotoxic and anti-proliferative activity, and has been explored in preclinical cancer research. In traditional Chinese medicine, 斑蝥 has historically been used as an emmenagogue — a substance intended to stimulate or restore menstruation — which provides a plausible ethnopharmacological rationale for why the TxGNN knowledge graph links cantharidin to amenorrhea.
+Currently, detailed mechanism of action data is not available. No original indication is recorded in the supplied data either, so the TxGNN score of 0.994 cannot be traced to a specific pathway.
 
-The TxGNN score of 0.994 likely reflects this traditional-use pathway and indirect biomolecular associations encoded in the training graph rather than a direct mechanistic chain. No established modern pharmacological mechanism connects PP2A inhibition to hypothalamic–pituitary–ovarian axis regulation or endometrial cycle control. This association should therefore be regarded as **highly speculative** pending any primary biomedical investigation.
+For context only (this is general background, not from the supplied data): cantharidin is generally known as a protein phosphatase 2A/1 (PP2A/PP1) inhibitor and a topical vesicant. Its marketed use is dermatologic, for example molluscum contagiosum. No link has been established from PP2A/PP1 inhibition to menstrual regulation or the hypothalamic-pituitary-ovarian axis.
 
-It is also important to note that cantharidin carries a very narrow therapeutic window and significant systemic toxicity risk (nephrotoxicity, vesication, GI toxicity), which poses substantial safety barriers to clinical translation in a chronic condition such as amenorrhea.
-
----
+Systemic cantharidin is also highly toxic, causing renal and gastrointestinal injury. This makes any systemic gynecologic use implausible without new evidence. At this stage the prediction should be treated as a model output only.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## US Market Information
 
-## Cytotoxicity
-
-Cantharidin is a potent cytotoxic natural compound (PP2A inhibitor); the following assessment is based on known compound pharmacology.
-
-| Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Conventional cytotoxic — natural toxin (terpenoid vesicant), PP2A inhibitor class |
-| Myelosuppression Risk | Please refer to primary toxicology literature; systemic myelotoxicity has been reported in poisoning cases |
-| Emetogenicity Classification | Please refer to primary toxicology literature; GI toxicity (nausea, vomiting, mucosal irritation) is a known systemic effect |
-| Monitoring Items | Renal function (nephrotoxicity is a primary concern), hepatic function, CBC, urinalysis |
-| Handling Protection | Must follow cytotoxic/vesicant handling regulations; cantharidin causes severe skin and mucous membrane blistering on contact |
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA212905 | YCANTH (Verrica Pharmaceuticals Inc.) | Solution (topical/other route) | Not listed in the supplied data |
 
 ## Safety Considerations
 
-No US package insert data is available, as cantharidin has no approved indications and is not marketed in the United States. Cantharidin is a scheduled toxic substance with a well-documented narrow therapeutic window and vesicant properties. Please consult primary toxicology resources and institutional safety protocols before any handling or research use.
-
----
+Please refer to the package insert for safety information. No drug interaction records were found for this drug.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN high score (99.42%) for amenorrhea most likely reflects traditional Chinese medicine ethnopharmacological signal in the knowledge graph rather than a validated modern mechanistic link; with zero supporting clinical trials or peer-reviewed publications, this candidate sits at L5 — model prediction only — and carries a significant unresolved toxicity profile that makes clinical translation premature.
+The prediction has a high model score but no clinical trials, no literature, no mechanism data, and no plausible mechanistic link. Systemic toxicity also argues against systemic gynecologic use, so there is no basis to advance the candidate.
 
 **To proceed, the following is needed:**
-- Mechanism of action clarification: establish whether PP2A inhibition has any plausible role in menstrual cycle or ovarian hormonal regulation
-- Preclinical in vitro / in vivo efficacy studies specifically targeting amenorrhea models
-- Dose–response and safety characterisation at sub-vesicant systemic exposures
-- Formal DrugBank safety data retrieval (warnings, contraindications, DDI profile) to complete the S1 safety gate
-- TFDA prescribing information review if any historical local data exists
-- At minimum one Phase 1 clinical study establishing a safe dose range before any efficacy claim can be evaluated
+- The FDA package insert (approved indication, warnings, contraindications), which is currently a blocking gap
+- Mechanism of action data (e.g., from DrugBank), followed by a mechanistic analysis linking it to amenorrhea
+- Preclinical or mechanistic evidence for a pathway to menstrual or hypothalamic-pituitary-ovarian regulation
+- A route and toxicity assessment showing that any relevant exposure would be safe, given that the marketed product is topical
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

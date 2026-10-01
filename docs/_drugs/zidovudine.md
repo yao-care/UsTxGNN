@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Zidovudine
-parent: High Evidence (L1-L2)
+parent: Moderate Evidence (L3-L4)
 nav_order: 1304
-evidence_level: L1
+evidence_level: L4
 indication_count: 6
 ---
 
 # Zidovudine
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **6** 
+Evidence Level: **L4** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,102 +29,83 @@ Evidence Level: **L1** | Predicted Indications: **6**
 
 </div>
 
-Using no additional tools — this is a direct content-generation task per the exact template already provided by the user; proceeding straight to the report.
-
-# Zidovudine: From HIV Infection to AIDS-Related Complex
+# Zidovudine: From HIV Infection to Simian Immunodeficiency Virus Infection
 
 ## One-Sentence Summary
 
-Zidovudine (AZT) is the original nucleoside reverse transcriptase inhibitor used in antiretroviral therapy for HIV infection.
-The TxGNN model predicts strong applicability to **AIDS-Related Complex (ARC)** — historically AZT's first ever approved clinical indication —
-with **50 clinical trials** and **20 publications** currently supporting this direction, making this a validation of known efficacy rather than a novel off-label discovery.
-
----
+Zidovudine is a nucleoside reverse transcriptase inhibitor (NRTI) that has long been used against HIV. The TxGNN model predicts it may be effective for **Simian Immunodeficiency Virus (SIV) Infection**. **No clinical trials** are registered for this indication, and the **20 publications** are almost entirely macaque and in vitro studies. This is a preclinical model, not a human indication.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in the current registry dataset; literature evidence describes zidovudine as an antiretroviral used for HIV infection/AIDS |
-| Predicted New Indication | AIDS-Related Complex |
-| TxGNN Prediction Score | 99.19% |
-| Evidence Level | L1 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+| Original Indication | HIV infection (general drug knowledge; the US license data contains no indication text) |
+| Predicted New Indication | Simian immunodeficiency virus infection |
+| TxGNN Prediction Score | 99.96% |
+| Evidence Level | L4 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 18 (NDA and ANDA licenses combined) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed formal mechanism-of-action documentation is not available in the current dataset. However, the evidence pack's own rationale confirms zidovudine's core pharmacology: it inhibits HIV reverse transcriptase, blocking viral replication. AIDS-Related Complex represents the early-to-moderate immunodeficiency stage of HIV infection, preceding full-blown AIDS.
+Currently, detailed mechanism of action data is not available. Zidovudine is a nucleoside reverse transcriptase inhibitor. Its efficacy against HIV-1 is well established, and it is mechanistically plausible against SIV.
 
-Notably, this predicted indication is not a distant repurposing target — the underlying evidence explicitly states that ARC was **historically AZT's first-ever approved clinical use**. This means the TxGNN model has successfully "rediscovered" a real, well-established indication for this drug, which serves as a strong internal validation of the prediction methodology rather than an entirely new therapeutic hypothesis.
+SIV is a lentivirus closely related to HIV and depends on the same reverse transcriptase enzyme. This is why SIV-infected macaques are widely used to test antiretroviral prophylaxis and therapy. The published studies show that zidovudine lowers viral load, prolongs survival and, when started early, can prevent infection or delay disease in newborn macaques.
 
-Because the pharmacological target (HIV reverse transcriptase) is identical between HIV infection, ARC, and full AIDS, the mechanistic link is direct and requires no cross-disease extrapolation — the entire disease continuum shares the same causative virus and the same drug target.
-
----
+SIV infects non-human primates only. The prediction therefore mainly confirms the HIV-1 mechanism in an animal model and is not a stand-alone repurposing opportunity for humans.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00000637](https://clinicaltrials.gov/study/NCT00000637) | Phase 3 | Completed | 819 | AZT vs. ddI vs. AZT+ddI in symptomatic HIV-infected children; compared survival and disease progression |
-| [NCT00002334](https://clinicaltrials.gov/study/NCT00002334) | Phase 3 | Completed | 3000 | AZT alone vs. AZT+ddC vs. AZT+saquinavir vs. triple combination in treatment-naive HIV patients |
-| [NCT00000679](https://clinicaltrials.gov/study/NCT00000679) | Phase 2 | Completed | 600 | ddC vs. zidovudine in AIDS/advanced ARC comparing efficacy and safety profile |
-| [NCT00000979](https://clinicaltrials.gov/study/NCT00000979) | Phase 2 | Completed | 1500 | ddI vs. zidovudine in AIDS, advanced ARC, or asymptomatic infection with CD4 < 200 |
-| [NCT00002124](https://clinicaltrials.gov/study/NCT00002124) | Phase 3 | Completed | 1250 | Delavirdine + zidovudine vs. zidovudine alone in HIV-1 infected patients, CD4 200–500 |
-| [NCT00002290](https://clinicaltrials.gov/study/NCT00002290) | N/A | Completed | N/A | Concurrent Retrovir (zidovudine) + Zovirax (acyclovir) vs. zidovudine alone in early symptomatic HIV infection |
-| [NCT00000831](https://clinicaltrials.gov/study/NCT00000831) | Phase 2 | Completed | 280 | Virologic responses to new nucleoside regimens after prolonged zidovudine or ddI monotherapy |
-| [NCT00000986](https://clinicaltrials.gov/study/NCT00000986) | Phase 1 | Completed | 18 | Safety, tolerance, and immunology of IL-2 + zidovudine combination in AIDS/ARC patients |
-| [NCT00002081](https://clinicaltrials.gov/study/NCT00002081) | N/A | Completed | N/A | Open-label ddC + zidovudine combination program for advanced HIV disease with toxicity monitoring |
-| [NCT00002035](https://clinicaltrials.gov/study/NCT00002035) | N/A | Completed | 300 | Continued zidovudine vs. ddI in AIDS/ARC patients showing clinical deterioration on zidovudine |
-
-*(50 trials total are on record for this indication; the above 10 represent the most clinically pivotal.)*
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [3299089](https://pubmed.ncbi.nlm.nih.gov/3299089/) | 1987 | RCT | N Engl J Med | Landmark double-blind, placebo-controlled trial establishing AZT efficacy in AIDS/ARC (Fischl et al.) |
-| [2677429](https://pubmed.ncbi.nlm.nih.gov/2677429/) | 1989 | RCT | JAMA | Long-term follow-up: prolonged zidovudine therapy improved survival in AIDS/ARC patients |
-| [1777174](https://pubmed.ncbi.nlm.nih.gov/1777174/) | 1991 | RCT | AIDS | European-Australian double-blind trial: zidovudine ± acyclovir for AIDS-related complex |
-| [2159707](https://pubmed.ncbi.nlm.nih.gov/2159707/) | 1990 | RCT | Am J Med | ACTG Phase I/II study: ddC + zidovudine combination in AIDS and advanced ARC |
-| [2159705](https://pubmed.ncbi.nlm.nih.gov/2159705/) | 1990 | RCT | Am J Med | Alternating/intermittent zidovudine + ddC regimens in AIDS/ARC treatment |
-| [2191113](https://pubmed.ncbi.nlm.nih.gov/2191113/) | 1990 | RCT | J Acquir Immune Defic Syndr | Placebo-controlled trial showing quality-of-life benefit of zidovudine in AIDS/ARC |
-| [8096703](https://pubmed.ncbi.nlm.nih.gov/8096703/) | 1993 | RCT | AIDS | Double-blind randomized trial: zidovudine alone vs. cotherapy with acyclovir in AIDS/ARC |
-| [3059187](https://pubmed.ncbi.nlm.nih.gov/3059187/) | 1988 | RCT | N Engl J Med | Double-blind trial assessing neuropsychological outcomes of zidovudine in AIDS/ARC |
-| [1974727](https://pubmed.ncbi.nlm.nih.gov/1974727/) | 1990 | RCT | Rev Infect Dis | Phase I dose-finding trial of ddI in AZT-intolerant AIDS/ARC patients |
-| [1894937](https://pubmed.ncbi.nlm.nih.gov/1894937/) | 1991 | Cohort | J Infect Dis | Zidovudine treatment associated with improved pneumococcal vaccine antibody response in AIDS/ARC |
-
----
+| [1489181](https://pubmed.ncbi.nlm.nih.gov/1489181/) | 1992 | Animal study | Antimicrob Agents Chemother | Oral AZT given to infant rhesus macaques prevented SIV infection in a prophylaxis and therapy model |
+| [7695293](https://pubmed.ncbi.nlm.nih.gov/7695293/) | 1995 | Animal study | Antimicrob Agents Chemother | Immediate oral AZT in SIV-inoculated newborn macaques either prevented infection or reduced viral load, and protected against rapid onset of AIDS |
+| [7797947](https://pubmed.ncbi.nlm.nih.gov/7797947/) | 1995 | Animal study | J Infect Dis | AZT did not prevent infection but significantly prolonged survival and lowered virus burden in cerebrospinal fluid (CSF) |
+| [7690823](https://pubmed.ncbi.nlm.nih.gov/7690823/) | 1993 | Animal study | J Infect Dis | Compared AZT started 1, 8, 24 or 72 hours after SIV inoculation in rhesus monkeys, to define the treatment window |
+| [19240457](https://pubmed.ncbi.nlm.nih.gov/19240457/) | 2009 | Animal study | AIDS | Post-exposure prophylaxis with zidovudine, lamivudine and indinavir was evaluated for preventing vaginal SIV transmission in macaques |
+| [7848683](https://pubmed.ncbi.nlm.nih.gov/7848683/) | 1994 | Animal study | AIDS Res Hum Retroviruses | In AZT-treated cynomolgus macaques, tracked virological and immunological events during acute infection as a model for antilentiviral therapy |
+| [2016686](https://pubmed.ncbi.nlm.nih.gov/2016686/) | 1991 | Animal study | J Acquir Immune Defic Syndr | Neither FLT nor ZDV prevented infection; FLT was about 10 times more potent at delaying antigen appearance |
+| [9021180](https://pubmed.ncbi.nlm.nih.gov/9021180/) | 1997 | Animal study | Antimicrob Agents Chemother | A zidovudine-resistant SIV mutant (Q151M) still caused AIDS in newborn macaques |
+| [7874391](https://pubmed.ncbi.nlm.nih.gov/7874391/) | 1994 | Animal study | Adv Neuroimmunol | Studied chronic AZT effects on CNS function and virus burden in perinatally infected rhesus infants |
+| [8452370](https://pubmed.ncbi.nlm.nih.gov/8452370/) | 1993 | In vitro | Antimicrob Agents Chemother | In SIV-infected macaque macrophages, 10 µM AZT blocked cell fusion with CD4+ cells and was compared with neutralizing antibodies |
 
 ## US Market Information
 
-No marketing authorization records are currently on file. According to the regulatory dataset, zidovudine's status is **Not Marketed**, with **0 licenses** registered in this jurisdiction.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA077268 | Zidovudine | Syrup | Not listed in the source data |
+| ANDA090092 | Zidovudine | Tablet | Not listed in the source data |
+| NDA019655 | RETROVIR | Capsule | Not listed in the source data |
+| ANDA077267 | Zidovudine | Tablet, film coated | Not listed in the source data |
+| ANDA078128 | Zidovudine | Capsule | Not listed in the source data |
 
----
+Other dosage forms on the US market include injection solution and oral solution.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
----
+Please refer to the package insert for safety information. No drug-interaction records were found in the data.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The evidence base is exceptionally strong (Evidence Level L1) — 50 clinical trials, including multiple completed Phase 3 RCTs, and 20 supporting publications — and this indication corresponds to the drug's own historically approved use, giving high mechanistic and clinical confidence. However, a Blocking data gap on TFDA-equivalent label warnings/contraindications prevents completion of the safety initial assessment (S1), and the drug currently has no active marketing authorization in this jurisdiction.
+SIV infection exists only in non-human primates, so the evidence is entirely preclinical (L4). It supports the HIV-1 mechanism but cannot lead to a human indication.
+
+Two other predictions in the same set have far stronger human evidence and are established uses, not novel repurposing:
+- **Congenital HIV** (Phase 3 perinatal-transmission trials; L1, Proceed with Guardrails)
+- **AIDS-related complex** (placebo-controlled trials; L1, Proceed with Guardrails)
 
 **To proceed, the following is needed:**
-- Official package insert / label warnings and contraindications (Blocking gap, DG001)
-- Formal mechanism-of-action documentation from DrugBank or equivalent source (High priority gap, DG002)
-- Clarification of current marketing/licensing pathway, since the drug is presently unmarketed with zero NDAs on record
-- Confirmation of whether "AIDS-Related Complex" should be treated as a label-expansion/reconfirmation case rather than a novel repurposing indication, given its historical approval status
+- Package insert warnings and contraindications (blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Original indication text for the US licenses
+- If pursuing the human indications: confirmation against current perinatal and ART guidelines, a neonatal hematologic toxicity monitoring plan, and review of pregnancy-exposure safety data
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

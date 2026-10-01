@@ -29,60 +29,86 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Eculizumab: From Complement-Mediated Diseases to Cyclic Hematopoiesis
+# Eculizumab: From Complement-Mediated Diseases (PNH, aHUS) to Cyclic Hematopoiesis
 
 ## One-Sentence Summary
 
-Eculizumab is a complement C5 inhibitor; the evidence pack does not contain formal Taiwan approval records, but supporting literature references identify its established use in complement-mediated conditions such as PNH and aHUS. The TxGNN model's top prediction is **Cyclic Hematopoiesis**, a rare bone-marrow disorder driven by ELANE gene mutations — but **no clinical trials and no literature** currently support this specific link, and the model's own rationale flags it as lacking a known biological connection. Nine further candidates in this evidence pack (congenital neutropenia syndromes) show the same pattern: high TxGNN scores with no disease-specific evidence.
+Eculizumab is a C5 complement inhibitor, used for complement-mediated diseases such as paroxysmal nocturnal hemoglobinuria (PNH), atypical hemolytic uremic syndrome (aHUS) and myasthenia gravis.
+The TxGNN model predicts it may be effective for **cyclic hematopoiesis** (cyclic neutropenia), but there are **0 clinical trials** and **0 publications** for this indication, so this is a model prediction only.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no Taiwan license records exist (drug not currently marketed); literature references in this pack cite PNH and aHUS as established indications elsewhere |
-| Predicted New Indication | Cyclic Hematopoiesis |
+| Original Indication | PNH, aHUS and myasthenia gravis (inferred from the drug's literature, because the approved-indication text in the US license records is blank) |
+| Predicted New Indication | Cyclic hematopoiesis |
 | TxGNN Prediction Score | 99.97% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| Taiwan Market Status | Not marketed (Not Marketed) |
-| Number of Licenses | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 3 (all BLAs) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is formally flagged as a data gap (DG002, High severity) in this evidence pack. Based on the literature references that did surface during evidence collection (though attached to a different candidate, rank 4), Eculizumab's known mechanism is inhibition of terminal complement component C5, blocking formation of the membrane attack complex — the basis for its established use in complement-mediated hemolytic and thrombotic conditions such as paroxysmal nocturnal hemoglobinuria (PNH) and atypical hemolytic uremic syndrome (aHUS).
+Detailed mechanism-of-action data is not available in DrugBank for this record. Eculizumab is known to be a monoclonal antibody that inhibits complement component C5, blocking terminal complement activation. This is the basis of its use in PNH, aHUS and other complement-driven diseases.
 
-Cyclic Hematopoiesis, however, is a distinct disease driven by *ELANE* gene mutations affecting neutrophil elastase and bone-marrow stem cell cycling — a mechanism unrelated to complement activation. The model's own repurposing rationale is explicit on this point: the high TxGNN score is attributed to knowledge-graph clustering around a shared "hematologic disease" node rather than to genuine mechanistic reasoning, and states there is "no known biological connection" between Eculizumab's complement-inhibition pathway and the pathophysiology of cyclic hematopoiesis.
+The mechanistic link to the predicted indication is weak. Cyclic neutropenia is driven by ELANE mutations affecting neutrophil production and is not complement-mediated. The same problem applies to the other nine predictions, which are mostly neutropenia subtypes (JAGN1, WAS, CXCR2 and CSF3R defects, and idiopathic or severe congenital neutropenia). None has a known complement component. The cluster suggests the model is propagating from a disease-class neighborhood in the knowledge graph rather than from a drug-specific mechanism. The high score should therefore be read as a hypothesis-generation signal, not as support for efficacy.
 
-Given this, the prediction should be treated as a hypothesis-generation signal only, not as mechanistically supported evidence.
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 Currently no related literature available.
 
-## Taiwan Market Information
+Some lower-ranked predictions (for example, congenital neutropenia-myelofibrosis-nephromegaly syndrome) returned literature hits. All of these papers concern eculizumab's established uses (PNH, aHUS/TMA, myasthenia gravis, CD59 deficiency). They do not address neutropenia, so they are drug-keyword matches and not disease evidence.
 
-No license records available — Eculizumab is not currently marketed in Taiwan (0 licenses on file).
+---
+
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| BLA125166 | SOLIRIS | Injection, solution, concentrate | Alexion Pharmaceuticals Inc. |
+| BLA761333 | BKEMV | Injection, solution, concentrate | Amgen Inc |
+| BLA761340 | EPYSQLI | Injection, solution | Teva Pharmaceuticals USA, Inc. |
+
+All three products are injectables. The source data does not include approved-indication text.
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (TFDA warning/contraindication data and drug interaction data are both flagged as data gaps in this evidence pack — DG001, Blocking severity.)
+- **Infection risk**: Terminal complement blockade raises the risk of serious meningococcal infection. This is a particular concern in neutropenic or immunodeficient patients, which is the population targeted by all ten predicted indications.
+- **Drug interactions**: No interactions were found in the DDI query.
+
+Please refer to the package insert for full warnings and contraindications.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction carries a high TxGNN score but zero supporting clinical trials or literature, and the model's own rationale explicitly states there is no known mechanistic link between Eculizumab's complement C5 inhibition and cyclic hematopoiesis's ELANE-driven pathophysiology. This is an L5, hypothesis-only signal likely driven by knowledge-graph node clustering rather than biology.
+The prediction is supported only by the model score (L5). There are no trials or disease-specific publications, and there is no plausible complement-mediated mechanism in cyclic neutropenia. Adding C5 blockade to neutropenic patients would also add serious infection risk.
 
 **To proceed, the following is needed:**
-- TFDA label/warnings and contraindication data (currently Blocking data gap)
-- Confirmed mechanism of action documentation for Eculizumab (currently High-severity data gap)
-- Preclinical or mechanistic studies specifically linking complement pathway activity to ELANE-related neutrophil cycling disorders
-- Disease-specific case reports or trials before any further evaluation stage is warranted
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism-of-action data from DrugBank
+- Preclinical or genetic evidence that complement activation contributes to cyclic neutropenia
+- A benefit-risk assessment of meningococcal infection in neutropenic patients
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Demeclocycline
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 580
-evidence_level: L4
+evidence_level: L5
 indication_count: 3
 ---
 
 # Demeclocycline
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,37 +29,37 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-# Demeclocycline: From Bacterial Infection Treatment to Chronic Ethmoidal Sinusitis
+# Demeclocycline: From Tetracycline Antibiotic to Chronic Ethmoidal Sinusitis
 
 ## One-Sentence Summary
 
-Demeclocycline is a tetracycline-class antibiotic with no currently active US market authorization on record.
-The TxGNN model predicts it may be effective for **Chronic Ethmoidal Sinusitis**,
-with **0 clinical trials** and **1 publication** (addressing disease pathology rather than demeclocycline treatment directly) currently supporting this direction.
+Demeclocycline is a tetracycline-class antibiotic that is marketed in the US as oral tablets. The TxGNN model predicts it may be effective for **chronic ethmoidal sinusitis**, but there are **0 clinical trials** and only **1 publication** (a disease-pathology study that does not test the drug), so the prediction rests almost entirely on the model score.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No regulatory record on file |
-| Predicted New Indication | Chronic Ethmoidal Sinusitis |
+|------|------|
+| Original Indication | Not listed in the supplied label data (tetracycline-class antibacterial) |
+| Predicted New Indication | Chronic ethmoidal sinusitis |
 | TxGNN Prediction Score | 99.14% |
-| Evidence Level | L4 |
-| US Market Status | Not marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 10 (all listed licenses are ANDAs, i.e., generics) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for demeclocycline in this evidence pack. Based on known information, demeclocycline belongs to the tetracycline antibiotic class — a group whose antimicrobial and immunomodulatory properties have been established across a broad range of infectious and inflammatory conditions.
+Currently, detailed mechanism of action data is not available for demeclocycline. Based on general knowledge, demeclocycline is a tetracycline-class antibiotic. A plausible but unverified link is that its antibacterial activity, together with class-level anti-inflammatory and matrix metalloproteinase (MMP)-inhibiting effects, could matter in chronic sinus inflammation and bone remodeling. None of this has been tested for demeclocycline in the supplied evidence.
 
-Chronic ethmoidal sinusitis is characterized by persistent bacterial colonization (commonly *S. aureus*, *H. influenzae*, and anaerobes), biofilm formation, and chronic inflammatory remodeling of the ethmoid mucosa and underlying bone. Tetracycline-class antibiotics carry three theoretical lines of action in this context: (1) direct antimicrobial activity against sinusitis-associated pathogens and biofilms; (2) matrix metalloproteinase (MMP) inhibition — particularly MMP-9 — which is implicated in the tissue and bone remodeling documented histologically in chronic sinusitis; and (3) anti-inflammatory effects including suppression of IL-1β, TNF-α, and eosinophil infiltration, pathways known to drive sinusoidal mucosal disease.
+The only linked paper (PMID 9546260) describes changes in ethmoid bone in chronic rhinosinusitis. It suggests bone is involved in the disease, but it does not evaluate demeclocycline or any tetracycline. The high TxGNN score (0.991) is a model output, not clinical evidence.
 
-It is critical to note, however, that all mechanistic links are extrapolated from the broader tetracycline class — primarily from research on doxycycline and minocycline (including the clinical precedent of sub-antimicrobial doxycycline for periodontitis). Demeclocycline itself has no dedicated preclinical or clinical data in chronic ethmoidal sinusitis. The theoretical framework supports hypothesis generation only, not clinical translation.
+Two other predictions were returned:
+- **Chronic rhinosinusitis** (score 99.09%) largely overlaps with the lead indication and shares the same single reference, so the two are not independent evidence.
+- **Paranasal sinus neoplasm** (score 99.05%) has no trials or literature. It is a higher-stakes indication, and a tetracycline antibiotic would need strong preclinical and clinical support first.
 
 ---
 
@@ -72,14 +72,20 @@ Currently no related clinical trials registered.
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [9546260](https://pubmed.ncbi.nlm.nih.gov/9546260/) | 1998 | Histomorphometric Study | *The Laryngoscope* | Undecalcified histological analysis of ethmoid bone in chronic sinusitis; documents concurrent bone synthesis, resorption, and inflammatory cell infiltration — establishing the MMP-mediated tissue remodeling context that underpins the tetracycline mechanistic rationale |
+|------|-----|------|------|---------|
+| [9546260](https://pubmed.ncbi.nlm.nih.gov/9546260/) | 1998 | Histology / histomorphometry study | The Laryngoscope | Compared ethmoid bone from chronic sinusitis patients with controls, assessing bone synthesis, resorption and inflammatory cells. It suggests bone is involved in the disease, but it does not study demeclocycline. |
 
 ---
 
 ## US Market Information
 
-No active US market authorizations on record for demeclocycline. The drug (historically marketed as Declomycin) is a tetracycline-class antibiotic that was previously available in the US but does not appear with active NDA entries in the current dataset.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA065425 | Demeclocycline Hydrochloride (American Health Packaging) | Tablet | Not provided in supplied data |
+| ANDA065425 | Demeclocycline Hydrochloride (Amneal Pharmaceuticals) | Tablet | Not provided in supplied data |
+| ANDA065447 | Demeclocycline Hydrochloride (Epic Pharma) | Tablet, film coated | Not provided in supplied data |
+
+Only the oral route is available. Route compatibility with the predicted indication has not been assessed.
 
 ---
 
@@ -94,15 +100,16 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-There are no clinical trials and no direct literature evidence of demeclocycline being studied or used in chronic ethmoidal sinusitis. The single available publication documents disease pathology (ethmoid bone histomorphometry), not demeclocycline's therapeutic effect. The drug is also not currently marketed in the US, raising significant feasibility concerns independent of the evidence gap.
+The prediction has a very high model score but no clinical trials, and the single publication does not test demeclocycline. The mechanism of action and the package insert safety data are also missing, so a safety screen cannot be started.
 
 **To proceed, the following is needed:**
-- Mechanism of action data specific to demeclocycline (to distinguish its pharmacological profile from better-studied tetracyclines such as doxycycline or minocycline)
-- In vitro studies assessing demeclocycline activity against sinusitis-relevant biofilm-forming organisms (e.g., *S. aureus*, *H. influenzae*)
-- Preclinical animal model data evaluating MMP inhibition and anti-inflammatory effects in a sinusitis model
-- Pharmacokinetic assessment of sinus tissue penetration following systemic administration
-- Full safety review: package insert warnings, contraindications, and drug–drug interaction profile
-- Regulatory and commercial feasibility assessment for demeclocycline availability
+- Package insert warnings and contraindications (blocking gap): download and parse the FDA label
+- Mechanism of action data from DrugBank
+- Approved indication text for the existing US licenses, to define the original indication
+- Evidence that demeclocycline or tetracyclines have activity in chronic rhinosinusitis, such as preclinical, observational or clinical studies
+- A route and dose compatibility assessment for sinus disease
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

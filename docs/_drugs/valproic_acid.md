@@ -29,78 +29,68 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Valproic Acid: From Epilepsy to Trigeminal Nerve Neoplasm
+# Valproic Acid: From Antiseizure Use to Trigeminal Nerve Neoplasm
 
 ## One-Sentence Summary
 
-Valproic acid is a well-established broad-spectrum antiepileptic and mood-stabilizing agent, long used for epilepsy and seizure disorders.
-The TxGNN model predicts it may be effective for **Trigeminal Nerve Neoplasm**,
-but currently only **0 clinical trials** and **1 tangentially related publication** support this direction.
-
----
+Valproic acid is a marketed antiseizure drug. The licence records in this pack do not list approved indication text, so this description rests on the epilepsy literature in the pack.
+The TxGNN model predicts it may be effective for **trigeminal nerve neoplasm**, but there are **0 clinical trials** and only **1 publication**, and that paper is not about a neoplasm.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not formally recorded in this dataset (product is currently unmarketed here); valproic acid is a well-established antiepileptic/mood-stabilizing agent used broadly for epilepsy and seizure disorders |
-| Predicted New Indication | Trigeminal Nerve Neoplasm |
+| Predicted New Indication | Trigeminal nerve neoplasm |
 | TxGNN Prediction Score | 99.97% |
-| Evidence Level | L5 |
-| US Market Status | ✗ Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (all listed entries are ANDA generics) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this dataset. Based on known pharmacology, valproic acid is a broad-spectrum agent that enhances GABAergic transmission, blocks voltage-dependent sodium and T-type calcium channels, and inhibits histone deacetylase (HDAC). Its efficacy in epilepsy and mood disorders is well established, and the HDAC-inhibitory activity has generated theoretical interest in oncology applications.
+Currently, detailed mechanism of action data is not available. Valproic acid is a marketed antiseizure drug. The only mechanistic link to a tumour indication is speculative: valproate inhibits histone deacetylases (HDACs), which gives it a preclinical antineoplastic rationale.
 
-However, the link between the original indication (epilepsy) and the predicted new indication (trigeminal nerve neoplasm) is weak. The only literature retrieved for this candidate concerns Sturge-Weber syndrome, a vascular malformation disorder, which has no direct pathological relationship to trigeminal nerve tumors. The proposed mechanistic rationale — that HDAC inhibition confers antitumor potential — remains speculative and is not supported by disease-specific evidence.
-
-Given the absence of clinical trials, absence of tumor-specific mechanistic studies, and only a single loosely related case series, this prediction should be treated as a hypothesis generated purely by the knowledge-graph model rather than an evidence-backed repurposing candidate.
-
----
+The link between the original use (seizure control) and a nerve tumour is weak. The very high TxGNN score does not reflect any supporting clinical data. The single retrieved paper is a case series on Sturge-Weber syndrome, a neurocutaneous vascular syndrome rather than a neoplasm, so it is not direct evidence for this indication.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [9157801](https://pubmed.ncbi.nlm.nih.gov/9157801/) | 1997 | Case series | Anales españoles de pediatría | Retrospective review of 14 Sturge-Weber syndrome cases over 25 years, evaluating clinical characteristics, disease evolution, and therapeutic response; does not address trigeminal nerve neoplasm or valproic acid's antitumor effect directly |
-
----
+| [9157801](https://pubmed.ncbi.nlm.nih.gov/9157801/) | 1997 | Case series | Anales espanoles de pediatria | Review of 14 Sturge-Weber syndrome cases over 25 years, covering clinical features, evolution and treatment response. Not a neoplasm study, so it is not direct evidence. |
 
 ## US Market Information
 
-Valproic acid currently has no marketing authorization on record in this dataset (market status: Not Marketed; 0 licenses).
+Four distinct authorizations are listed. One (ANDA075782) appears twice in the record.
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA075782 | Valproic Acid (Chartwell RX) | Solution | Not specified in the record |
+| ANDA073178 | Valproic Acid (ANI Pharmaceuticals) | Solution | Not specified in the record |
+| ANDA075379 | Valproic Acid (PAI Pharma) | Solution | Not specified in the record |
+| ANDA073484 | Valproic Acid (Vangard Labs) | Capsule, liquid filled | Not specified in the record |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Despite a high TxGNN model score (99.97%), the supporting evidence is at the lowest tier (L5) — there are no clinical trials and only one case series that is not directly relevant to trigeminal nerve neoplasm. The proposed mechanistic link (HDAC-mediated antitumor activity) is speculative and unconfirmed for this specific tumor type.
+This prediction is model-only (L5). No trials were found, and the one retrieved paper concerns a different, non-neoplastic condition. A high TxGNN score alone is not sufficient to proceed.
 
 **To proceed, the following is needed:**
-- TFDA/FDA package insert warnings and contraindications (currently a blocking data gap preventing safety pre-screening)
-- Confirmed mechanism of action data from DrugBank or primary literature
-- Preclinical or mechanistic studies directly linking valproic acid to trigeminal nerve tumor biology
-- Continued literature surveillance to identify any emerging disease-specific evidence before reconsidering this candidate
+- The package insert warnings and contraindications. This is a blocking gap that prevents safety screening.
+- Mechanism of action data, for example from DrugBank, to test the HDAC-inhibition hypothesis in this tumour type.
+- Preclinical or clinical studies of valproate specifically in trigeminal nerve tumours.
+
+**Other candidates in the same pack:** two other predictions have stronger support (L3, "Research Question"). These are **trigeminal neuralgia**, with older small clinical studies and reviews describing valproate as a second-line or adjunct option, and **visual epilepsy**. Visual epilepsy largely falls within valproate's existing antiseizure class rather than being true repurposing. Both are better candidates than the neoplasm prediction for further evaluation.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

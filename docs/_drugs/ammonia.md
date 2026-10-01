@@ -29,78 +29,76 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Ammonia: From No Established Therapeutic Indication to Acrodermatitis Chronica Atrophicans
+# Ammonia: From Marketed Ammonia Products (No Labeled Indication on Record) to Acrodermatitis Chronica Atrophicans
 
 ## One-Sentence Summary
 
-Ammonia (NH₃, DrugBank DB11118) is a simple inorganic compound with no established therapeutic indication in available US regulatory records.
-The TxGNN model predicts it may be effective for **Acrodermatitis Chronica Atrophicans (ACA)** with a prediction score of **99.70%**;
-however, **no clinical trials and no published literature** currently support this direction, and the mechanistic rationale is considered biologically implausible across all 6 predicted indications.
-
----
+Ammonia is marketed in the US mainly as smelling salts and inhalants, but no approved indication text is on record.
+The TxGNN model predicts it may be effective for **acrodermatitis chronica atrophicans**,
+with **0 clinical trials** and **0 publications** currently supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No established therapeutic indication on record |
-| Predicted New Indication | Acrodermatitis Chronica Atrophicans |
+|------|------|
+| Original Indication | Not recorded (all listed authorizations have empty indication text) |
+| Predicted New Indication | Acrodermatitis chronica atrophicans |
 | TxGNN Prediction Score | 99.70% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available for Ammonia (DB11118). From a biochemical standpoint, ammonia is a simple nitrogenous compound that arises endogenously as a byproduct of amino acid catabolism. Under normal physiological conditions it is rapidly converted to urea in the liver via the urea cycle. At elevated concentrations, ammonia is neurotoxic and disrupts cellular energy metabolism — properties that define it primarily as a metabolic intermediate and toxin, not a therapeutic agent.
+Currently, detailed mechanism of action data is not available, and no original indication is recorded. Ammonia is sold as smelling salts and inhalants, and it is an endogenous metabolite that is toxic at elevated levels. A mechanistic link to the predicted disease cannot be established from the available data.
 
-Acrodermatitis chronica atrophicans (ACA) is a late-stage skin manifestation of Lyme disease caused by *Borrelia burgdorferi* infection. Its hallmark is progressive dermal atrophy and it requires prolonged antibiotic therapy (typically doxycycline) to eradicate the underlying infection. There is no established biological mechanism by which exogenous ammonia administration would inhibit *Borrelia* replication, suppress the associated inflammatory cascade, or reverse atrophic skin changes. The same absence of mechanistic plausibility applies across all 6 predicted indications, which span autoimmune dermatomyositis variants, fibroproliferative acne keloid, childhood interstitial lung disease, and a rare EBV-linked photosensitivity disorder — disease categories whose standard-of-care therapies (immunosuppressants, antibiotics, targeted biologics) share no overlap with ammonia's known biochemistry.
+Acrodermatitis chronica atrophicans is a late-stage skin manifestation of Lyme borreliosis, which is an infection. No plausible role for ammonia is evident. The high score (0.997) most likely reflects the structure of the knowledge graph, not a drug-specific mechanism.
 
-This pattern strongly suggests a **model false positive** arising from ammonia's ubiquitous representation in metabolic pathways within the TxGNN knowledge graph, creating spurious co-occurrence associations with diverse disease nodes. The high raw prediction scores (all >99.5%) paradoxically reflect network topology artifacts rather than true biological signal. This prediction should not be interpreted as a credible repurposing opportunity without an independent mechanistic hypothesis.
-
----
+Ammonia is a known irritant and caustic agent for skin and airways. That argues for caution rather than benefit in a skin disease. The same score-only pattern applies to the five other predicted indications, which have the same evidence level (L5) and recommendation (Hold):
+- neonatal dermatomyositis
+- acne keloid
+- secondary interstitial lung disease specific to childhood associated with a connective tissue disease
+- amyopathic dermatomyositis
+- familial hydroa vacciniforme
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Ammonia in any of the 6 predicted indications.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for Ammonia in any of the 6 predicted indications.
-
----
+Currently no related literature available.
 
 ## US Market Information
 
-No NDA or marketing authorization found for Ammonia in the United States. The drug has no current US market presence.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| M011 | UpSniff Smelling Salts | Powder | Not specified in record |
+| M011 | SERYNTH SMELLING SALTS | Inhalant | Not specified in record |
+| Not listed | Ammonium Causticum | Pellet | Not specified in record |
+| Not listed | VYV Smelling Salts | Inhalant | Not specified in record |
+| Not listed | Snap Labs Ammonia Inhalants | Inhalant | Not specified in record |
 
----
+The table shows 5 of 20 authorizations. Other dosage forms on record include granule and gas.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-> **Important context**: Ammonia is a recognized respiratory irritant and systemic toxin. Inhalation of concentrated ammonia causes chemical burns to the airways, and systemic exposure at supratherapeutic levels produces hyperammonemia with encephalopathy. Any experimental administration in humans would require extensive toxicological justification.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All 6 TxGNN-predicted indications for Ammonia are rated L5 with zero supporting clinical trials or published literature; each mechanistic rationale provided in the Evidence Pack independently concludes that the prediction lacks biological plausibility, and the drug's inherent toxicity profile creates an unfavorable risk baseline that cannot be offset without a credible therapeutic hypothesis.
+The only support is a computational score. There are no trials, no publications, no mechanism data and no recorded original indication. Ammonia's irritant properties and the infectious nature of the predicted disease add to the doubt. The prediction is likely a knowledge-graph artifact.
 
 **To proceed, the following is needed:**
-- **Expert triage review**: Confirm whether these high-score predictions are systematic knowledge-graph artifacts for metabolic compounds in TxGNN, and consider flagging Ammonia for exclusion from active repurposing pipelines
-- **Mechanistic hypothesis generation**: Before any experimental consideration, a peer-reviewable mechanistic rationale connecting ammonia to at least one predicted indication must be established
-- **Full toxicological safety profile**: Retrieve complete package insert, occupational exposure limits, and NOAEL/LOAEL data before advancing to any preclinical study design
-- **Model calibration note**: The pattern of high scores across biologically unrelated indications warrants review of how endogenous metabolites are represented in the TxGNN training graph, to reduce false-positive burden in future prediction runs
+- Mechanism of action data (MOA), for example from DrugBank
+- FDA package insert warnings and contraindications, which are needed before any safety screening
+- Any independent preclinical, clinical or literature evidence linking ammonia to the predicted disease
+- Confirmation of the approved indication text for the listed products
+- Route compatibility assessment, since inhalant, powder and pellet forms may not suit a dermatologic indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

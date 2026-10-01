@@ -3,14 +3,14 @@ layout: default
 title: Ephedrine
 parent: Moderate Evidence (L3-L4)
 nav_order: 658
-evidence_level: L3
+evidence_level: L4
 indication_count: 3
 ---
 
 # Ephedrine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **3** 
+Evidence Level: **L4** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,98 +29,94 @@ Evidence Level: **L3** | Predicted Indications: **3**
 
 </div>
 
-# Ephedrine: From Decongestant/Vasopressor Use to Nasal Cavity Disease
+# Ephedrine: From Sympathomimetic (Original Indication Not Listed) to Nasal Cavity Disease
 
 ## One-Sentence Summary
 
-Ephedrine is a sympathomimetic (α/β-adrenergic agonist) historically used as a nasal decongestant and as a vasopressor for anesthesia-related hypotension, though no Taiwan-approved indication is currently on file for this drug. The TxGNN model predicts it may be effective for **Nasal Cavity Disease**, a finding that is mechanistically plausible but currently supported mainly by indirect, class-level evidence — **18 clinical trials** (mostly non-ephedrine-specific) and **8 publications** were retrieved, with only a handful directly relevant.
-
----
+Ephedrine is a marketed sympathomimetic drug, and the supplied US label data does not list its approved indications.
+The TxGNN model predicts it may be effective for **nasal cavity disease** (nasal congestion), but none of the **17 registered trials** and **8 publications** retrieved for this prediction confirms ephedrine as the intervention.
+Evidence is indirect and mostly preclinical.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in Taiwan license data (no TFDA license on file); historically used as a nasal decongestant/vasopressor per drug class |
-| Predicted New Indication | Nasal Cavity Disease |
+| Original Indication | Not listed in the supplied US label data |
+| Predicted New Indication | Nasal cavity disease |
 | TxGNN Prediction Score | 99.90% |
-| Evidence Level | L3 |
-| Market Status (Taiwan) | Not marketed (Not Marketed) |
-| Number of NDAs | 0 |
+| Evidence Level | L4 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (the listed authorizations are ANDAs) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack (`original_moa`: Data Gap). Based on the drug class and the repurposing rationale attached to this candidate, ephedrine is an indirect-acting α/β-adrenergic agonist that produces vasoconstriction in nasal mucosal blood vessels, reducing mucosal congestion and swelling — the classic "decongestant" mechanism. This is a well-established pharmacological property rather than a speculative link.
+Detailed mechanism of action data is not available in the supplied data. Based on general pharmacology, ephedrine is a mixed direct and indirect sympathomimetic. Alpha-adrenergic vasoconstriction of nasal mucosal vessels plausibly reduces mucosal swelling and congestion, which fits the predicted indication. This link comes from general pharmacology, not from the supplied data.
 
-Because ephedrine has historically been used in nasal decongestant preparations, the predicted association with Nasal Cavity Disease largely represents **reconfirmation of an already-known pharmacological use** rather than a genuinely novel mechanistic hypothesis. However, since this evidence pack records no formal original indication and no Taiwan licensing history, the prediction still needs to be substantiated with drug-specific (not merely drug-class) clinical evidence before it can be treated as validated.
+Nasal decongestion is also a long-established use of ephedrine and related agents. This prediction may therefore reflect a known use rather than true repurposing. No supplied trial confirms ephedrine as the studied drug.
 
----
+The strongest supporting signals are a human comparison of related oral and topical decongestants (PMID 11345158) and several animal nasal congestion models. A 1964 clinical test of a nasal preparation containing ephedrine (PMID 14211229) is directly relevant but historical.
 
 ## Clinical Trial Evidence
 
+The trials below were matched to the indication, not to ephedrine. The two B-grade trials need manual review, and none can currently support L2.
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00562120](https://clinicaltrials.gov/study/NCT00562120) | Phase 2 | Completed | 21 | Randomized, double-blind, double-dummy, crossover study of an H3-receptor antagonist on nasal congestion after allergen challenge in seasonal allergic rhinitis; methodologically rigorous decongestant-comparison model, but ephedrine is not explicitly confirmed as a study arm |
-| [NCT01886768](https://clinicaltrials.gov/study/NCT01886768) | N/A | Unknown | 212 | Compared double- vs single-pledget nasal anesthesia for transnasal endoscopy; ephedrine-soaked pledgets are commonly used clinically for pre-procedural mucosal vasoconstriction |
-| [NCT00939393](https://clinicaltrials.gov/study/NCT00939393) | N/A | Completed | 72 | Endoscopic sinus surgery performed in-office vs. operating room; topical vasoconstrictors (including ephedrine-class agents) are routinely used to reduce intraoperative bleeding, but the trial itself compares care setting, not the drug |
-| [NCT05131958](https://clinicaltrials.gov/study/NCT05131958) | N/A | Unknown | 30 | Multiparametric (imaging/aerodynamic/acoustic) evaluation of nasality in nasal polyposis; observational, no drug intervention |
-| [NCT06457100](https://clinicaltrials.gov/study/NCT06457100) | Phase 1/2 | Active, not recruiting | 60 | Compares esmolol vs. lidocaine infusion for recovery quality after functional endoscopic sinus surgery; unrelated to ephedrine |
-| [NCT01854619](https://clinicaltrials.gov/study/NCT01854619) | N/A | Unknown | 48 | Photodynamic disinfection for chronic rhinosinusitis; non-pharmacologic mechanism |
-| [NCT06580210](https://clinicaltrials.gov/study/NCT06580210) | N/A | Recruiting | 114 | Mechanical decongestant seawater spray with essential oils for acute rhinitis; medical device, not a drug study |
-| [NCT04048174](https://clinicaltrials.gov/study/NCT04048174) | N/A | Completed | 27 | Probiotic bacteria (L. lactis) instilled into nasal/sinus cavities for chronic rhinosinusitis; unrelated mechanism |
-| [NCT05494346](https://clinicaltrials.gov/study/NCT05494346) | N/A | Recruiting | 101 | Decongestant seawater spray pocket valve with essential oils; medical device performance/safety study |
-| [NCT00015795](https://clinicaltrials.gov/study/NCT00015795) | Phase 1 | Completed | 30 | Laryngeal airflow resistance in abductor spasmodic dysphonia; indication unrelated to nasal cavity congestion |
-
-None of the retrieved trials directly evaluate ephedrine as the study drug for a nasal-cavity indication; relevance is largely inferred from procedural context (e.g., ephedrine's known off-label use as a nasal vasoconstrictor during ENT procedures).
-
----
+| [NCT00562120](https://clinicaltrials.gov/study/NCT00562120) | Phase 2 | Completed | 21 | Placebo-controlled four-way crossover of an H3 antagonist (PF-03654746) on congestion after nasal allergen challenge. Ephedrine or another decongestant as a comparator cannot be confirmed. |
+| [NCT01886768](https://clinicaltrials.gov/study/NCT01886768) | N/A | Unknown | 212 | Randomized trial of double vs single pledget nasal anesthesia and decongestion for transnasal endoscopy. The ephedrine link is unverified. |
+| [NCT03620513](https://clinicaltrials.gov/study/NCT03620513) | Phase 4 | Completed | 160 | Double-blind randomized study of topical anesthesia and/or decongestant before fiberoptic laryngoscopy. The specific agents are not stated in the summary. |
+| [NCT00517946](https://clinicaltrials.gov/study/NCT00517946) | N/A | Completed | 21 | MRI as a measure of anti-allergy drug effects on nasal mucosa after allergen challenge. |
+| [NCT06580210](https://clinicaltrials.gov/study/NCT06580210) | N/A | Recruiting | 114 | Seawater decongestant spray (device) for acute rhinitis with nasal obstruction. No ephedrine relevance. |
+| [NCT05494346](https://clinicaltrials.gov/study/NCT05494346) | N/A | Recruiting | 101 | Seawater decongestant spray pocket valve for acute rhinitis. No ephedrine relevance. |
+| [NCT06457100](https://clinicaltrials.gov/study/NCT06457100) | Phase 1/2 | Active, not recruiting | 60 | IV esmolol vs lidocaine for recovery quality after sinus surgery. Different drug question. |
+| [NCT01854619](https://clinicaltrials.gov/study/NCT01854619) | N/A | Unknown | 48 | Photodisinfection for chronic rhinosinusitis. Non-drug intervention. |
+| [NCT04048174](https://clinicaltrials.gov/study/NCT04048174) | N/A | Completed | 27 | Lactococcus lactis probiotic for refractory chronic rhinosinusitis. Unrelated to ephedrine. |
+| [NCT05131958](https://clinicaltrials.gov/study/NCT05131958) | N/A | Unknown | 30 | Observational study of nasality in nasal polyposis. No ephedrine intervention. |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [14211229](https://pubmed.ncbi.nlm.nih.gov/14211229/) | 1964 | RCT (early era) | Svenska läkartidningen | Early experimental clinical testing of N-hydroxyethylpromethazine chloride combined with ephedrine hydrochloride applied in the nasal cavity |
-| [11345158](https://pubmed.ncbi.nlm.nih.gov/11345158/) | 2001 | Comparative/Cohort | American Journal of Rhinology | Compared oral/topical decongestant effects of phenylpropanolamine and d-pseudoephedrine (related sympathomimetic class, not ephedrine itself) using acoustic rhinometry |
-| [1541887](https://pubmed.ncbi.nlm.nih.gov/1541887/) | 1992 | Comparative clinical study | The Journal of Laryngology and Otology | Compared nasal packing vs. spraying for pre-operative nasal preparation |
-| [8283338](https://pubmed.ncbi.nlm.nih.gov/8283338/) | 1993 | Case series | Nihon Jibiinkoka Gakkai Kaiho | Case series of congenital nasal stenosis, treated with nasal or oral intervention |
-| [11789239](https://pubmed.ncbi.nlm.nih.gov/11789239/) | 2000 | Clinical observation (uncontrolled) | Chinese Journal of Integrated Traditional and Western Medicine | Uncontrolled clinical observation of a rhinitis spray for chronic rhinitis |
-| [12962193](https://pubmed.ncbi.nlm.nih.gov/12962193/) | 2003 | Animal model (pharmacology) | American Journal of Rhinology | Dog model of allergic nasal congestion using acoustic rhinometry |
-| [12387934](https://pubmed.ncbi.nlm.nih.gov/12387934/) | 2002 | Animal model (pharmacology) | Journal of Pharmacological and Toxicological Methods | Pharmacological characterization of a chronic dog model of nasal congestion for studying decongestant mechanisms |
-| [11895194](https://pubmed.ncbi.nlm.nih.gov/11895194/) | 2002 | Animal model (pharmacology) | American Journal of Rhinology | Acoustic rhinometry in dogs as a large-animal model of nasal congestion |
-
-Evidence is weighted toward animal pharmacology models and older/uncontrolled clinical observations; only one early-era (1964) study directly names ephedrine in a nasal-cavity clinical context.
-
----
+| [11345158](https://pubmed.ncbi.nlm.nih.gov/11345158/) | 2001 | Comparative clinical study | Am J Rhinol | Compared oral and topical nasal decongestant effects of phenylpropanolamine and d-pseudoephedrine (related sympathomimetics) using acoustic rhinometry. |
+| [14211229](https://pubmed.ncbi.nlm.nih.gov/14211229/) | 1964 | Historical clinical test | Svenska Lakartidningen | Experimental clinical testing of a nasal preparation combining an antihistamine (Aprobit) with ephedrine hydrochloride. No abstract available. |
+| [1541887](https://pubmed.ncbi.nlm.nih.gov/1541887/) | 1992 | Clinical comparative study | J Laryngol Otol | Compared nasal packing and spraying for pre-operative nasal preparation. No abstract available, so the agents used are unconfirmed. |
+| [12962193](https://pubmed.ncbi.nlm.nih.gov/12962193/) | 2003 | Animal model | Am J Rhinol | Allergic nasal congestion model in ragweed-sensitized dogs, measured by acoustic rhinometry. |
+| [12387934](https://pubmed.ncbi.nlm.nih.gov/12387934/) | 2002 | Animal model | J Pharmacol Toxicol Methods | Pharmacological characterization of a chronic dog model for studying nasal decongestant mechanisms. |
+| [11895194](https://pubmed.ncbi.nlm.nih.gov/11895194/) | 2002 | Animal model | Am J Rhinol | Dog model of nasal congestion induced by compound 48/80, with nasal patency measured by acoustic rhinometry. |
+| [11789239](https://pubmed.ncbi.nlm.nih.gov/11789239/) | 2000 | Clinical observation | Zhongguo Zhong Xi Yi Jie He Za Zhi | Preliminary clinical observation of a rhinitis spray for chronic rhinitis. Not ephedrine-specific. |
+| [8283338](https://pubmed.ncbi.nlm.nih.gov/8283338/) | 1993 | Case series | Nihon Jibiinkoka Gakkai Kaiho | Congenital nasal stenosis case series. Peripheral relevance. |
 
 ## US Market Information
 
-Ephedrine currently holds no marketing authorization license in Taiwan (0 NDAs on file; market status: not marketed).
+Five of the 20 authorizations are shown below. All are injection products, and the supplied data has no approved indication text for them. Other listed dosage forms include injectable solution and film-coated oral tablet.
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA212932 | Ephedrine Sulfate (Medical Purchasing Solutions, LLC) | Injection | Not listed in supplied data |
+| ANDA214579 | Ephedrine Sulfate (Eugia US LLC) | Injection | Not listed in supplied data |
+| ANDA212932 | Ephedrine Sulfate (NorthStar Rx LLC) | Injection | Not listed in supplied data |
+| ANDA216146 | Ephedrine Sulfate (REMEDYREPACK INC.) | Injection | Not listed in supplied data |
+| ANDA215825 | Ephedrine Sulfate (Medical Purchasing Solutions, LLC) | Injection | Not listed in supplied data |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-*(Note: `key_warnings`, `contraindications`, and DDI data are all marked as data gaps in this evidence pack — including a Blocking-severity gap for TFDA label warnings/contraindications, which prevents a formal S1 safety pre-assessment.)*
-
----
+Please refer to the package insert for safety information. No warnings, contraindications, or drug interaction records were available. As a sympathomimetic stimulant, ephedrine could plausibly cause cardiovascular stimulation, and the data set's lowest-ranked prediction (trigeminal autonomic cephalalgia) raises a possible headache-worsening concern. Safety screening cannot proceed until the label is reviewed.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Evidence level is L3 (observational/indirect only) with no clinical trial directly confirming ephedrine's efficacy in nasal cavity disease, and a Blocking-severity data gap (missing TFDA label warnings/contraindications) prevents entry into the S1 safety pre-assessment stage. Ephedrine also has no current Taiwan marketing license, further limiting near-term actionability.
+The model score is very high (99.90%), but no supplied trial or publication tests ephedrine for nasal cavity disease. The support is indirect and mostly comes from animal models and related decongestants. The safety data is also missing, and that gap blocks safety screening.
+
+The other two predictions, acute laryngopharyngitis and trigeminal autonomic cephalalgia, have no trials or literature (L5) and are also on Hold.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (DG001, Blocking) — required before any safety pre-assessment
-- Confirmed mechanism of action from DrugBank (DG002)
-- Drug-specific (not decongestant-class) clinical trials evaluating ephedrine for nasal cavity disease
-- Assessment of Taiwan regulatory pathway, given the drug is currently unmarketed (0 licenses)
+- Download and review the FDA package insert (warnings, contraindications, approved indications).
+- Obtain mechanism of action data from DrugBank.
+- Manually review NCT00562120, NCT01886768 and NCT03620513 to confirm whether ephedrine was studied.
+- Check whether nasal decongestion is already a known ephedrine use, and whether a nasal or oral ephedrine product is marketed in the US, since the listed products are injections.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

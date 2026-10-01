@@ -29,62 +29,77 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Podofilox: From Anogenital Warts to Vulvovaginal Candidiasis
+# Podofilox: From Genital Warts to Vulvovaginal Candidiasis
 
 ## One-Sentence Summary
 
-Podofilox (DB01179) is the active antimitotic component of podophyllotoxin-based topical treatments, historically used against anogenital warts (HPV-related condyloma acuminata). The TxGNN model's top-ranked prediction is **vulvovaginal candidiasis**, but this is supported by only **1 non-specific literature reference** and **0 clinical trials**, with the evidence pack's own mechanistic review explicitly flagging the link as unsupported.
+Podofilox is a topical antimitotic agent, marketed in the US as a solution and a gel; its established use is external genital warts. The TxGNN model predicts it may be effective for **vulvovaginal candidiasis**, but there are **0 clinical trials** and only **1 publication**, a general review of sexually transmitted diseases. The prediction is not supported by any clinical or mechanistic evidence.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available from TFDA/US license data (drug not marketed); literature within this evidence pack (see rank-3 candidate) indicates historical use for anogenital warts (condyloma acuminata) |
+| Original Indication | External genital warts (inferred from known topical use; the license records supplied contain no indication text) |
 | Predicted New Indication | Vulvovaginal candidiasis |
 | TxGNN Prediction Score | 99.47% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | Not marketed |
-| Number of NDAs | 0 |
-| Recommended Decision | **Hold** |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 (both ANDA generic approvals) |
+| Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in DrugBank (flagged as a High-severity data gap, DG002). Based on the analysis embedded in this evidence pack, podofilox acts as an **antimitotic / microtubule inhibitor**, arresting cell division in rapidly proliferating epithelium — this is the mechanism thought to underlie its efficacy against HPV-driven wart tissue. It has **no known antifungal activity**.
+Currently, detailed mechanism of action data is not available. Podofilox is known to be an antimitotic agent that binds tubulin. Its efficacy in external genital warts is established, but this mechanism has no known antifungal activity.
 
-Vulvovaginal candidiasis is a fungal infection requiring an antifungal mechanism (e.g., azole or polyene action on fungal cell membranes), which is mechanistically unrelated to microtubule inhibition. The sole supporting reference (PMID 10537386) is a 1999 general review of STD treatment that discusses vaginal discharge, genital warts, and other conditions within the same article — this is **topical co-occurrence, not evidence that podofilox treats candidiasis**. The evidence pack's own rationale explicitly labels this as "無合理機轉" (no reasonable mechanism) and classifies it as embedding noise rather than a genuine signal.
+The link to vulvovaginal candidiasis is weak. The only supporting paper is a 1999 review of sexually transmitted disease treatment (vaginal infections, pelvic inflammatory disease and genital warts). The drug and the disease most likely co-occur in that article by chance. The very high TxGNN score (0.995) therefore looks like a co-mention artifact, not a real pharmacological signal.
 
-Notably, a lower-ranked candidate in this same batch — human papillomavirus infection (rank 3) — is supported by substantial direct clinical literature (e.g., PMID 8192173, a controlled study of 0.5% podofilox in anogenital warts; PMID 8245513, mechanistic regression data in papilloma models). This suggests the model correctly recovers podofilox's known clinical use elsewhere in its output, while the top-ranked candidate here reflects noise, likely amplified by structural embedding overlap with related podophyllotoxin derivatives (e.g., etoposide) seen throughout this candidate's other predictions (herpes zoster, tongue neoplasm, hypopharyngeal neoplasm, etc.).
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [10537386](https://pubmed.ncbi.nlm.nih.gov/10537386/) | 1999 | Review | American Family Physician | General review of STD treatment (1998 CDC guidelines); covers vaginal discharge, genital warts, and other conditions in separate sections — does not directly evaluate podofilox for candidiasis |
+| [10537386](https://pubmed.ncbi.nlm.nih.gov/10537386/) | 1999 | Review | American Family Physician | Overview of the 1998 CDC treatment recommendations for vaginal infections, pelvic inflammatory disease and genital warts. It gives no podofilox-specific evidence for candidiasis. |
+
+---
 
 ## US Market Information
 
-No regulatory license records are available. The drug's market status is recorded as **not marketed**, with 0 total licenses on file.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA075600 | Podofilox | Solution | Padagis US LLC |
+| ANDA211871 | Podofilox | Gel (topical) | Padagis US LLC |
+
+---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction carries a high TxGNN score (99.47%) but is backed by zero clinical trials and a single non-specific review article that does not directly address podofilox in candidiasis. The pack's own mechanistic analysis confirms no plausible pharmacological link (antimitotic vs. antifungal mechanisms), so this should not proceed as a repurposing candidate at this time.
+The prediction has no clinical trials, no plausible mechanism and only one non-specific review, so it is model output only (L5). Podofilox is an antimitotic agent, not an antifungal, and established antifungal therapies already exist for this condition.
 
 **To proceed, the following is needed:**
-- DrugBank/label-confirmed mechanism of action (currently a data gap, DG002)
-- TFDA/FDA-equivalent warnings and contraindications (currently a Blocking data gap, DG001)
-- Any direct preclinical or clinical evidence specifically testing podofilox against *Candida* species
-- Consider re-scoping evaluation toward the rank-3 candidate (human papillomavirus infection), which is supported by direct clinical trial and literature evidence and more closely reflects podofilox's established pharmacology
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Any primary evidence of antifungal activity, which is currently absent
+- Separate evaluation of the rank 3 prediction, **human papilloma virus infection** (L3, Proceed with Guardrails). It is most likely the established genital wart use rather than true repurposing. It is supported only by guidelines and reviews, so the underlying primary RCTs should be confirmed before the evidence grade is raised.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

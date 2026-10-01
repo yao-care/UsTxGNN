@@ -29,62 +29,68 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Voxelotor: From Sickle Cell Disease to Hereditary Thrombocytopenia (Low-Confidence Signal)
+# Voxelotor: From Sickle Cell Disease to Hereditary Thrombocytopenia with Normal Platelets
 
 ## One-Sentence Summary
 
-> Voxelotor is a hemoglobin oxygen-affinity modulator originally used for sickle cell disease.
-> The TxGNN model predicts a possible link to **Hereditary Thrombocytopenia with Normal Platelets**,
-> but this prediction is supported by **0 clinical trials** and **0 publications**, and the drug's own mechanistic rationale explicitly argues against biological plausibility.
+Voxelotor (brand name OXBRYTA) is a hemoglobin S polymerization inhibitor that raises hemoglobin-oxygen affinity. It was developed for sickle cell disease, which is general knowledge, since the Evidence Pack lists no approved indication text.
+The TxGNN model predicts it may be effective for **hereditary thrombocytopenia with normal platelets**, but **0 clinical trials** and **0 publications** support this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no approved indications on record) |
-| Predicted New Indication | Hereditary Thrombocytopenia with Normal Platelets |
+| Original Indication | Sickle cell disease (general knowledge; not listed in the Evidence Pack's license records) |
+| Predicted New Indication | Hereditary thrombocytopenia with normal platelets |
 | TxGNN Prediction Score | 99.58% |
 | Evidence Level | L5 |
-| US Market Status | Not marketed (Not marketed in this jurisdiction) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed (per the Evidence Pack; verify against current status, see Safety Considerations) |
+| Number of NDAs | 3 license records (2 distinct NDA numbers) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on the repurposing rationale notes accompanying the prediction, voxelotor is known to act as a hemoglobin oxygen-affinity modulator that forms a reversible covalent bond with sickle hemoglobin (HbS), inhibiting its polymerization — its approved target is hemoglobin/erythrocytes, not platelet biology.
+Currently, detailed mechanism of action data is not available in the Evidence Pack. From general knowledge, voxelotor binds hemoglobin, inhibits sickle hemoglobin polymerization, and increases hemoglobin-oxygen affinity. It acts on red blood cells.
 
-The predicted new indication — hereditary thrombocytopenia — involves platelet production or granule function pathways that have no known mechanistic overlap with voxelotor's hemoglobin-targeted action. The evidence pack itself notes that this high TxGNN score likely reflects a co-occurrence bias from graph proximity between "hematologic disease" nodes in the knowledge graph, rather than a genuine mechanistic relationship. All seven predicted indications in this pack (ranks 1–7) share this same limitation: each is a distinct platelet or blood disorder with no plausible link to voxelotor's actual pharmacology, and none carries any supporting clinical or literature evidence.
+**No established mechanistic link to the predicted indication was found.** Voxelotor has no known action on megakaryopoiesis or platelet production. The high score (0.996) most likely reflects graph proximity among hematologic disease nodes in the knowledge graph, not a biological rationale.
+
+The other six predictions are also platelet or hematologic disorders. They are thrombocytopenia, dense granule disease, primary release disorder of platelets, transient neonatal thrombocytopenia, macrothrombocytopenia with mitral valve insufficiency, and light chain-associated Fanconi syndrome. All are L5, with no trials or literature and no plausible mechanism. This pattern supports the view that the predictions are an artifact of the graph.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
 ## US Market Information
 
-Voxelotor is not currently marketed in this jurisdiction (0 licenses on record).
+| Authorization Number | Product Name | Dosage Form |
+|---------|------|------|
+| NDA216157 | OXBRYTA | Tablet, for suspension |
+| NDA213137 | OXBRYTA | Tablet, film coated (listed twice in the records) |
+
+Manufacturer: Global Blood Therapeutics, Inc., a subsidiary of Pfizer Inc. All forms are oral. No approved indication text is provided in the records.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. The Evidence Pack contains no warnings, contraindications, or drug interaction data (the DDI query returned no results).
 
-*Note: TFDA label warnings/contraindications and detailed MOA data are flagged as data gaps (DG001: Blocking, DG002: High) in this Evidence Pack and require remediation before any safety evaluation (S1 stage) can proceed.*
+The "Marketed" status should be verified. To my knowledge, Pfizer withdrew OXBRYTA from the market in 2024 over safety concerns, and this is not reflected in the Evidence Pack.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is based solely on TxGNN graph-model output (L5, rank 10,382) with zero supporting clinical trials or literature, and the drug's own mechanistic rationale explicitly states there is no known biological pathway connecting voxelotor's hemoglobin-targeted action to platelet-related disorders. This pattern repeats across all seven ranked candidates in this evidence pack, suggesting the signal reflects knowledge-graph node proximity rather than a genuine repurposing hypothesis.
+The prediction is supported only by a knowledge-graph score. There are no trials or publications, and no plausible mechanistic link between hemoglobin-oxygen affinity modulation and platelet production or function. The drug's own safety and market status also need verification.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (DG001 — blocking, required before any S1 safety review)
-- Detailed mechanism of action data from DrugBank (DG002)
-- Independent mechanistic or preclinical evidence linking hemoglobin oxygen-affinity modulation to platelet count/function
-- If pursued, prioritize indication #5 (thrombocytopenia, broad category) only if a specific safety signal (e.g., post-marketing platelet count changes) can be substantiated — otherwise this candidate list does not warrant further investment at this time
+- Verify the current US regulatory and marketing status of voxelotor
+- Obtain the package insert (warnings and contraindications) and the approved indication text
+- Obtain mechanism of action data from DrugBank
+- Find preclinical or mechanistic evidence linking voxelotor to platelet biology, otherwise deprioritize this candidate
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

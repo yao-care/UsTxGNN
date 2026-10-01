@@ -29,58 +29,85 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Meclizine: From Motion Sickness/Vertigo to Allergic Urticaria
+# Meclizine: From Motion Sickness to Allergic Urticaria
 
 ## One-Sentence Summary
 
-Meclizine is a first-generation (piperazine-class) H1-antihistamine known primarily for treating motion sickness and vertigo. The TxGNN model predicts it may be effective for **Allergic Urticaria**, but this prediction is currently supported only by class-level pharmacological reasoning — **no clinical trials or published literature** directly test meclizine in this indication.
+Meclizine is an oral antihistamine-class drug marketed in the US, and its product labels (e.g., "Motion Sickness Relief", Dramamine) point to motion sickness use.
+The TxGNN model predicts it may be effective for **allergic urticaria**,
+but there are currently **0 clinical trials** and **0 publications** supporting this specific prediction, so it rests on model prediction alone.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not formally recorded (no TFDA license on file); per known pharmacology, meclizine is used for motion sickness/vertigo (antiemetic, vestibular suppressant) |
-| Predicted New Indication | Allergic Urticaria |
+| Original Indication | Motion sickness (inferred from product names; no approved indication text was supplied) |
+| Predicted New Indication | Allergic urticaria |
 | TxGNN Prediction Score | 99.67% |
-| Evidence Level | L4 (mechanism/class-effect reasoning, no direct trials or literature) |
-| US Market Status | Not marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 licenses in total (mix of NDA, ANDA and OTC monograph products) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for meclizine is not currently available in this evidence pack. Based on known pharmacological information, meclizine belongs to the first-generation piperazine-class H1-antihistamines; its efficacy in motion sickness and vertigo (via antiemetic and vestibular-suppressant activity) is well established, and mechanistically it may be applicable to allergic urticaria.
+Currently, detailed mechanism of action data is not available. Meclizine is generally known as a first-generation H1 antihistamine, and its efficacy in its original use is established. Mechanistically, it may be applicable to histamine-mediated conditions such as allergic urticaria. This link is inferred from drug class and is not supported by data in the Evidence Pack.
 
-The rationale rests on H1-receptor antagonism: antihistamines of this class are standard first-line therapy for urticaria. Since meclizine shares this receptor-level mechanism with other H1-antihistamines used to treat urticaria, a class-effect argument supports the plausibility of the prediction.
+Allergic urticaria is driven by histamine release, and H1 antihistamines are the standard drug class for it. That makes the prediction biologically plausible. The very high TxGNN score (0.997) is a model output only. It is not confirmation of clinical benefit.
 
-However, this is a drug-class-level inference rather than evidence specific to meclizine itself. No clinical trials or publications currently link meclizine to allergic urticaria treatment, so the mechanistic argument alone should not be treated as clinical proof of efficacy.
+Better-characterized antihistamines are already available for urticaria. Any development case for meclizine would need to show a clear advantage over them.
+
+---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for allergic urticaria.
+
+---
 
 ## Literature Evidence
 
 Currently no related literature available.
 
+---
+
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| M009 | Dramamine Less Drowsy Meclizine Hydrochloride | Tablet | — |
+| NDA010721 | Meclizine Hydrochloride | Tablet | — |
+| ANDA213957 | Meclizine Hydrochloride | Tablet | — |
+| part336 | Motion Sickness Relief | Tablet, chewable | — |
+| M009 | Meclizine Hydrochloride | Tablet, chewable | — |
+
+Approved indication text was not included in the supplied records. All available forms are oral (tablet, chewable tablet, film-coated tablet).
+
+---
+
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No drug interaction records were found in the supplied data.
 
-*(Note: TFDA warnings/contraindications data is a blocking data gap for this candidate — see Conclusion below.)*
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by drug-class mechanistic reasoning (H1-antihistamine → urticaria), with no meclizine-specific clinical trials or literature evidence. The drug is also not currently marketed in Taiwan (0 NDAs), and critical safety data (TFDA package insert warnings/contraindications) is missing, which blocks any safety pre-assessment.
+The prediction is mechanistically plausible but has no supporting trials or literature (L5, model prediction only). The next-ranked candidate, common cold, has one linked trial (NCT01537471), but it studies pre-pulse inhibition rather than the cold, so it gives no support either. Meclizine would also have to compete with established antihistamines for urticaria.
 
 **To proceed, the following is needed:**
-- TFDA package insert data (warnings, contraindications) — blocking gap, required before any safety review
-- Confirmed mechanism of action (MOA) from DrugBank or primary literature
-- Direct clinical trial or literature evidence for meclizine specifically in allergic/cold urticaria
-- Drug-drug interaction (DDI) profile, currently not found
+- Mechanism of action data (e.g., H1 receptor affinity and anticholinergic profile)
+- Package insert warnings and contraindications for safety screening
+- A literature and trial search specific to meclizine in urticaria
+- A comparison against standard antihistamines for urticaria to define any differentiated value
+- Approved indication text for the US labels, to confirm the original indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

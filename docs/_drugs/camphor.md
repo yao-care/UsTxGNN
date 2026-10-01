@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Camphor
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 488
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 ---
 
 # Camphor
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,82 +29,78 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Camphor: From Topical Counter-Irritant to Migraine Disorder
+# Camphor: From Topical OTC Products to Migraine Disorder
 
 ## One-Sentence Summary
 
-Camphor (DB01744) is a naturally occurring bicyclic monoterpenoid traditionally used as a topical counter-irritant and local analgesic, found in over-the-counter products such as Tiger Balm and Vicks VapoRub.
-The TxGNN model predicts it may have therapeutic potential for **migraine disorder** with a prediction score of **99.85%**,
-however current supporting evidence is very limited, comprising **0 registered clinical trials** and **5 publications**—none of which directly evaluate camphor as a migraine treatment.
-
----
+Camphor is an active ingredient in over-the-counter topical and inhalant products in the US, such as salves, balms, creams and vapor liquids. The TxGNN model predicts it may be effective for **migraine disorder**, but **0 clinical trials** and only **5 loosely related publications** exist, and none shows camphor benefiting migraine. The two case reports that mention camphor-containing essential oils point toward possible headache triggering, not treatment.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No formal approval on record; traditionally used as topical counter-irritant and local analgesic |
-| Predicted New Indication | Migraine Disorder |
+|------|------|
+| Original Indication | Not listed in the license records |
+| Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 99.85% |
-| Evidence Level | L4 |
-| US Market Status | ✗ Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L4 (as assigned in the Evidence Pack; the supporting evidence is indirect) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the Evidence Pack. Based on published pharmacology, camphor is known to act as a partial agonist at TRPV1 (transient receptor potential vanilloid 1) and a modulator of TRPM8 channels. Both ion channels play established roles in the trigeminovascular pathway: TRPV1 activation on trigeminal nerve endings can influence CGRP (calcitonin gene-related peptide) release, a key mediator of migraine pain, while TRPM8 is implicated in the cooling/analgesic sensation that may counteract nociceptive signalling. This dual channel activity provides a plausible—if speculative—mechanistic bridge to migraine pathophysiology.
+Currently, detailed mechanism of action data is not available. Camphor is a common essential-oil constituent and topical counterirritant, and it is marketed in many OTC forms. No established mechanism links it to migraine.
 
-Camphor's historical use in topical preparations (Tiger Balm, menthol-camphor ointments) for headache relief provides weak indirect support. This counter-irritant tradition is consistent with a TRPV1/TRPM8 mechanism producing peripheral desensitisation of trigeminal afferents. However, this application has never been formally separated from the multi-ingredient formulation context, and systemic bioavailability of topically applied camphor has not been studied in the context of central migraine pathways.
+The only drug-relevant signal is a case report (PMID 34373243) and a related case series (PMID 35856604). They describe cluster headache temporally associated with toothpastes containing essential oils, including camphor and eucalyptus. Camphor was not shown to be the active agent. Cluster headache is also a different disorder from migraine, and the direction of the signal is possible harm, not benefit.
 
-Critically, two of the five retrieved publications (PMID 35856604, PMID 34373243) report the **opposite** signal: cluster headache temporally associated with toothpastes containing camphor essential oil, attributed to its pro-convulsant properties. Camphor is known to be a GABA-A antagonist at higher concentrations, which raises a direct mechanistic concern regarding its use in a headache-prone population. The TxGNN prediction may be driven by structural or network similarities that do not translate to clinical benefit.
+The high TxGNN score (99.85%) is a computational prediction only. It should be treated as a research question, not as evidence of efficacy.
 
----
+Other predicted indications had no supporting evidence either:
+- **Pulmonary hypertension** and **Raynaud disease**: the retrieved literature is a name collision with the Cambridge Pulmonary Hypertension Outcome Review (CAMPHOR) questionnaire, not the drug.
+- **Migraine with brainstem aura**, **kyphoscoliotic heart disease**, **ulerythema ophryogenesis**, **atrophoderma vermiculata** and **Tourette syndrome**: no trials or literature.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [35856604](https://pubmed.ncbi.nlm.nih.gov/35856604/) | 2022 | Case Series | Headache | Five cases of cluster headache attributed to toothpastes containing pro-convulsant essential oils including camphor — adverse signal, not therapeutic |
-| [34373243](https://pubmed.ncbi.nlm.nih.gov/34373243/) | 2021 | Case Report | BMJ Case Reports | Two cases of cluster headache temporally related to use of toothpastes with camphor and eucalyptus essential oils — adverse signal |
-| [36404301](https://pubmed.ncbi.nlm.nih.gov/36404301/) | 2022 | RCT | The Journal of Headache and Pain | Phase 3 DRAGON study of **erenumab** for chronic migraine in Asia — unrelated to camphor; included by search term overlap |
-| [27058833](https://pubmed.ncbi.nlm.nih.gov/27058833/) | 2016 | Historical Review | Zeitschrift für Kinder- und Jugendpsychiatrie | Historical overview of neuropsychopharmacotherapy in the 1940s–50s; mentions multiple agents including camphor-class compounds |
-| [593588](https://pubmed.ncbi.nlm.nih.gov/593588/) | 1977 | Clinical Note | Minerva Medica | Early clinical note on therapy for essential hemicrania; abstract not available for detailed assessment |
+|------|-----|------|------|---------|
+| [36404301](https://pubmed.ncbi.nlm.nih.gov/36404301/) | 2022 | RCT | J Headache Pain | Phase 3 erenumab study in chronic migraine prevention (DRAGON). Not related to camphor; retrieved by disease term only |
+| [34373243](https://pubmed.ncbi.nlm.nih.gov/34373243/) | 2021 | Case report | BMJ Case Reports | Two cluster headache cases temporally related to toothpastes containing camphor and eucalyptus essential oils; suggests a possible trigger, not a treatment |
+| [35856604](https://pubmed.ncbi.nlm.nih.gov/35856604/) | 2022 | Case series | Headache | Five cluster headache cases linked to toothpastes containing pro-convulsant essential oils. Indirect, and the direction is possible harm |
+| [27058833](https://pubmed.ncbi.nlm.nih.gov/27058833/) | 2016 | Review | Z Kinder Jugendpsychiatr Psychother | Historical analysis of child and adolescent neuropsychopharmacotherapy in the 1940s and 50s. No direct camphor–migraine evidence |
+| [593588](https://pubmed.ncbi.nlm.nih.gov/593588/) | 1977 | Other | Minerva Med | Italian paper on therapy for essential hemicrania. No abstract available |
 
-> ⚠️ **Evidence Quality Note**: Two publications report camphor as a *trigger* for cluster headache rather than a treatment. One RCT (PMID 36404301) concerns erenumab and is unrelated to camphor. Effective evidence directly supporting camphor's efficacy in migraine is absent.
+## US Market Information
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Not listed | Owell Naturals Draw Salve with Camphor 2.0 oz. | Salve | Not listed |
+| M012 | Quality Choice Vapor Steam | Liquid | Not listed |
+| M017 | 365 Medicated Lip Balm | Stick | Not listed |
+| M017 | Jointflex | Cream | Not listed |
+| M017 | Quality Choice Camphor Spirit | Liquid | Not listed |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
 
-> **Additional concern identified from literature**: Two case series/reports (PMID 35856604, PMID 34373243) document cluster headache triggered by products containing camphor essential oil. Camphor is known to lower seizure threshold via GABA-A antagonism at higher doses. In populations with migraine — who may already carry elevated neuronal excitability — camphor's pro-convulsant properties represent a potential safety concern that would need to be characterised before any clinical development could proceed.
-
----
+Literature signal: the case reports above describe essential oils with pro-convulsant properties, including camphor-containing products, as possible triggers of cluster headache and as capable of worsening migraine or causing seizures. This is an indirect signal and needs formal safety review. A preclinical oral acute toxicity study in rats (PMID 27955803) also exists for edible camphor.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN model assigns a high prediction score, and a theoretical mechanistic basis through TRPV1/TRPM8 modulation exists, but the available literature not only fails to demonstrate efficacy—it contains adverse signals of camphor *worsening* headache disorders. Without preclinical dose-response data distinguishing analgesic from pro-convulsant effects, clinical development cannot be responsibly initiated.
+The prediction rests on a model score alone. There are no registered trials, no camphor-specific efficacy data, and no established mechanism. The only drug-relevant literature is two case reports suggesting essential oils may trigger headache.
 
 **To proceed, the following is needed:**
-
-- **Preclinical dose-response studies** in validated migraine animal models (e.g., nitroglycerin-induced trigeminovascular activation) to establish whether a therapeutic window exists between analgesic and pro-convulsant doses
-- **MOA characterisation**: Confirm TRPV1/TRPM8 activity profile, CGRP modulation data, and central vs. peripheral selectivity at relevant dose ranges
-- **Formulation feasibility assessment**: Determine whether a systemic or novel CNS-targeted route (intranasal?) can deliver camphor at sub-convulsant but therapeutically active concentrations
-- **Safety pharmacology package**: Seizure liability studies (irwin test, pentylenetetrazol threshold model) before any human volunteer exposure
-- **Signal separation from CAMPHOR questionnaire data pollution**: Confirm that the TxGNN training signal for pulmonary hypertension and related indications is not contaminating migraine pathway scores via the "CAMPHOR" abbreviation
+- Mechanism of action data (for example, from DrugBank), to test whether any plausible link to migraine exists
+- FDA package insert warnings and contraindications, plus a review of camphor neurotoxicity and seizure risk
+- Route compatibility assessment: the marketed products are topical or inhalant OTC forms, and the route required for migraine is not defined
+- A targeted literature search that separates the drug from the CAMPHOR questionnaire, and clarifies whether camphor was the active agent in the essential-oil cases
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,11 +29,12 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Ferric Maltol: From Iron Deficiency Anemia to Plummer-Vinson Syndrome
+# Ferric Maltol: From Iron Deficiency to Plummer-Vinson Syndrome
 
 ## One-Sentence Summary
 
-Ferric maltol is an oral iron-replacement therapy used to treat iron deficiency anemia in adults. The TxGNN model predicts it may be effective for **Plummer-Vinson syndrome**, a rare iron-deficiency-related disorder, with a prediction score of **99.98%** — but currently **no clinical trials or published literature** support this direction in the evidence pack.
+Ferric maltol is an oral ferric iron product marketed in the US as ACCRUFER. The supplied data lists no approved indication, so iron deficiency is inferred from general pharmacology.
+The TxGNN model predicts it may be effective for **Plummer-Vinson syndrome**, but **no clinical trials and no publications** currently support this pairing. It is a model prediction only.
 
 ---
 
@@ -41,23 +42,25 @@ Ferric maltol is an oral iron-replacement therapy used to treat iron deficiency 
 
 | Item | Content |
 |------|------|
-| Original Indication | Iron deficiency anemia in adults (not recorded in evidence pack — based on the drug's known public profile; `drug.original_indications` is empty) |
+| Original Indication | Not stated in the supplied data (generally used for iron deficiency) |
 | Predicted New Indication | Plummer-Vinson syndrome |
 | TxGNN Prediction Score | 99.98% |
-| Evidence Level | L5 (model prediction only — zero clinical trials, zero literature) |
-| US Market Status | Not marketed (0 licenses on file) |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (flagged as a data gap in the evidence pack). Based on known public drug information, ferric maltol is a non-salt, trivalent iron(III)-maltol complex designed for controlled, low-toxicity absorption of iron across the intestinal mucosa. It is used to correct iron deficiency anemia in adults, including patients with inflammatory bowel disease who cannot tolerate conventional iron salts.
+Detailed mechanism of action data is not available. Ferric maltol is an oral ferric iron complex, and it is generally used to replenish iron in iron deficiency.
 
-Plummer-Vinson syndrome (also known as Paterson-Brown-Kelly syndrome) is a rare condition defined by the triad of iron deficiency anemia, dysphagia, and esophageal webs. Because its core pathology is iron deficiency, a drug whose entire therapeutic function is iron repletion has a plausible mechanistic rationale here — this is why the prediction is biologically sensible on its face, even though it currently lacks any direct clinical or literature support.
+Plummer-Vinson syndrome combines iron deficiency anemia, difficulty swallowing, and esophageal webs. Iron repletion is the established management. The link is therefore biologically plausible. Any benefit would most likely come from correcting the iron deficiency, not from a disease-specific effect. This reasoning rests on general pharmacology, not on the supplied data.
 
-By contrast, the evidence pack itself notes that a second TxGNN-flagged candidate — vitamin B12/folate-independent constitutional megaloblastic anemia — is mechanistically implausible for ferric maltol, since that condition stems from DNA synthesis defects rather than iron deficiency, and is likely a knowledge-graph false positive driven by "anemia" node clustering. This contrast supports treating the Plummer-Vinson signal as the more credible of the two, while still requiring confirmatory evidence before any action.
+Two other TxGNN predictions were weaker:
+- **Vitamin B12- and folate-independent constitutional megaloblastic anemia** (score 99.98%): No clear mechanistic rationale. Megaloblastic anemia reflects impaired DNA synthesis, and iron is not its recognized treatment. The high score likely reflects proximity to other anemia nodes in the knowledge graph.
+- **IRIDA syndrome** (score 99.33%): This condition is defined by poor response to oral iron because of high hepcidin. An oral iron product working here is speculative and arguably runs against the indication.
 
 ---
 
@@ -73,11 +76,17 @@ Currently no related literature available.
 
 ---
 
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA212320 | ACCRUFER (Shield TX (UK) Ltd) | Capsule (oral) | Not listed in the supplied data |
+
+---
+
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-Note: full TFDA label warnings/contraindications data for this drug is currently a **blocking data gap (DG001)** — required before this candidate can enter safety pre-screening.
 
 ---
 
@@ -86,15 +95,14 @@ Note: full TFDA label warnings/contraindications data for this drug is currently
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests solely on the TxGNN model score (L5) with no supporting clinical trials or literature, and the drug is not currently marketed in this jurisdiction (0 licenses). A blocking safety data gap (missing TFDA label) also prevents any safety pre-screening at this stage.
+The prediction score is very high, but it is not backed by any clinical trial or publication (evidence level L5). Plummer-Vinson syndrome is a plausible fit through iron repletion, yet the benefit would likely be no different from standard iron therapy. Package insert safety data and the approved indication are also missing.
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings, contraindications) — resolves DG001 (Blocking)
-- Confirmed mechanism of action via DrugBank API — resolves DG002 (High)
-- Case reports, preclinical, or registry evidence specifically linking iron therapy to Plummer-Vinson syndrome outcomes
-- Regulatory pathway assessment, since the drug currently holds no local marketing authorization
-
-*Note: TxGNN also flagged two lower-ranked candidates not evaluated further here — vitamin B12/folate-independent constitutional megaloblastic anemia (likely knowledge-graph false positive per mechanistic review) and IRIDA syndrome (score 99.33%, no supporting evidence).*
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- The approved indication text for NDA212320 and the mechanism of action (query DrugBank)
+- A literature and trial search for ferric maltol or oral iron in Plummer-Vinson syndrome
+- An assessment of whether ferric maltol offers any advantage over existing iron therapy
+- Route compatibility and similarity-to-original-indication analyses, both still pending
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,11 +29,11 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# GLYCERIN: From No Recorded Original Indication to Cauda Equina Syndrome
+# Glycerin: From Multi-Use Consumer and OTC Products to Cauda Equina Syndrome
 
 ## One-Sentence Summary
 
-Glycerin (DrugBank DB09462) has no original indication or mechanism-of-action data recorded in this evidence pack, and is not currently marketed in the reference regulatory database. The TxGNN model's top-ranked prediction is **Cauda Equina Syndrome**, but this prediction is supported by **zero clinical trials** and **zero publications** — it appears to be model noise rather than a substantiated repurposing signal.
+Glycerin is a widely used ingredient in US-marketed products, including rectal suppositories, eye drops, a moisturizing cream and a soap. The TxGNN model predicts it may be effective for **cauda equina syndrome**, but **no clinical trials and no publications** were retrieved for this pairing. The prediction rests on the model score alone.
 
 ---
 
@@ -41,41 +41,47 @@ Glycerin (DrugBank DB09462) has no original indication or mechanism-of-action da
 
 | Item | Content |
 |------|------|
-| Original Indication | No approved indication on record (drug not marketed; 0 licenses in database) |
-| Predicted New Indication | Cauda Equina Syndrome |
+| Original Indication | Not stated in the available regulatory data (products include suppository, eye drop, cream and soap forms) |
+| Predicted New Indication | Cauda equina syndrome |
 | TxGNN Prediction Score | 99.60% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, no mechanism of action or original indication data is available for glycerin in this evidence pack, so no baseline pharmacology exists to anchor the prediction against.
+Currently, detailed mechanism of action data is not available. Glycerin is a small polyol used as an osmotic agent, lubricant and moisturizer across many product types. Its efficacy in those settings is established, but no data here connect that action to cauda equina syndrome, a compressive injury to the lumbosacral nerve roots.
 
-More importantly, the evidence itself argues against this prediction. Cauda equina syndrome is an acute lumbosacral nerve root compression syndrome — a surgical emergency requiring urgent decompression. Glycerin's known pharmacology (osmotic diuretic / osmotic laxative action) has no mechanistic overlap with acute nerve root compression pathology. There are no clinical trials and no publications connecting the two, so this candidate cannot currently be distinguished from prediction noise — it likely reflects a high TxGNN score arising from shared graph neighbors rather than a genuine pharmacological relationship.
-
-This prediction should not be advanced without independent mechanistic or preclinical evidence establishing a plausible link.
+The retrieved data give no plausible pharmacological rationale for this prediction. The high TxGNN score (99.60%, rank 10,093) most likely reflects patterns in the knowledge graph rather than a demonstrated biological link. It should be treated as a hypothesis-generating signal only.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
 ---
 
 ## US Market Information
 
-No marketing authorization records are available for glycerin in this database (0 licenses; market status: Not Marketed).
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| M006 | CLENZIDERM THERAPEUTIC MOISTURIZER | Cream | Obagi Cosmeceuticals LLC |
+| M018 | Clear Eyes Nighttime | Solution/Drops | Prestige Brands Holdings, Inc. |
+| M016 | ANTIBACTERIAL FRUITY ZEST | Soap | Quimicas Handal de Centroamerica SA de CV |
+| M007 | Stratuscare Adult Glycerin | Suppository | Stratus Pharmaceuticals |
+| M007 | Glycerin | Suppository | Amerisource Bergen/Good Neighbor Pharmacy |
+
+Approved indication text is not listed for these authorizations. Only 5 of the 20 authorizations are shown.
 
 ---
 
@@ -90,13 +96,17 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked TxGNN prediction for glycerin (cauda equina syndrome) has no clinical trial or literature support, and the underlying mechanism is pharmacologically implausible given the condition's acute surgical nature versus glycerin's osmotic action. There is no basis to advance this specific candidate.
+The prediction for cauda equina syndrome has no supporting trials, no literature and no identifiable mechanism. It is Level L5 (model prediction only), so it does not justify further investment at this time.
+
+Two other predicted indications for glycerin have more support. **Open-angle glaucoma** (score 99.59%) and **irritable bowel syndrome** (score 99.49%) are both Level L4, with plausible osmotic-agent and laxative rationales. Neither has direct evidence of efficacy. They are better candidates for follow-up research questions than cauda equina syndrome.
 
 **To proceed, the following is needed:**
-- Original indication and mechanism-of-action (MOA) data for glycerin (currently absent — flagged as a Blocking/High data gap)
-- US/TFDA label data (warnings, contraindications, drug interactions) — currently unavailable
-- Independent preclinical or mechanistic evidence linking glycerin to cauda equina syndrome before any further evaluation
-- If pursuing repurposing for glycerin at all, consider re-scoping to candidates in this same evidence pack with materially stronger evidence bases — notably **open-angle glaucoma** (L3, 16 PubMed records, osmotic mechanism has some plausibility for acute angle-closure but not chronic open-angle use) and **irritable bowel syndrome** (L3, 15 PubMed records, though key literature shows glycerol used to *induce* pain models rather than treat symptoms) — both currently scored "Research Question" rather than "Hold"
+- Mechanism of action data for glycerin (DrugBank)
+- Package insert warnings and contraindications from the FDA website
+- A literature and trial search targeted specifically at glycerin in cauda equina syndrome, to confirm the evidence gap
+- Approved indication text for the main US authorizations, to establish the original indication
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

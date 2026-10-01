@@ -29,59 +29,90 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Garlic (DB10532): From No Approved Indication to Gastrin Secretion Abnormality
+# Garlic: From Marketed Garlic Products (No Stated Indication) to Gastrin Secretion Abnormality
 
 ## One-Sentence Summary
 
-Garlic (INN: GARLIC, DrugBank DB10532) has no approved drug indication and is not marketed as a licensed pharmaceutical in Taiwan — it is tracked here as a botanical/dietary substance. The TxGNN model's top-ranked prediction is **Gastrin Secretion Abnormality** (score 99.96%), but this candidate is currently supported by **zero clinical trials** and **zero publications** — it is a pure knowledge-graph prediction with no mechanistic or empirical backing yet.
+Garlic (*Allium sativum*, DrugBank DB10532) is marketed in the US, mainly as pellet products, but no approved indication text is listed in the supplied data.
+The TxGNN model predicts it may be relevant to **gastrin secretion abnormality**, with a very high score (99.96%).
+There are currently **0 clinical trials** and **0 publications** supporting this specific prediction, so it rests on the model alone.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | None on record — garlic has no approved drug indication in this evidence pack |
-| Predicted New Indication | Gastrin Secretion Abnormality |
-| TxGNN Prediction Score | 99.96% |
+| Predicted New Indication | Gastrin secretion abnormality |
+| TxGNN Prediction Score | 99.96% (model rank 1549) |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Not Marketed (Not marketed) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for garlic is not currently available in DrugBank, and there is no approved original indication on file — garlic is not marketed as a regulated drug product in Taiwan (0 licenses) and appears to be tracked here as a dietary/botanical substance rather than a conventional pharmaceutical. As general background, garlic (*Allium sativum*) contains organosulfur compounds (allicin, diallyl sulfide, S-allyl cysteine) with known antioxidant, anti-inflammatory, and cardiovascular effects, which is why it surfaces across many TxGNN predictions in this pack.
+Currently, detailed mechanism of action data is not available. Garlic is a natural product with many marketed forms, but no approved indication is recorded in the supplied data. The link between garlic and gastrin secretion abnormality is therefore not supported by any mechanistic or clinical information here.
 
-For the top-ranked candidate specifically — Gastrin Secretion Abnormality — the model's own rationale field states plainly that there is no clinical trial or literature support and no mechanistic hypothesis linking garlic to gastrin regulation; the prediction rests solely on knowledge-graph pattern similarity (rank 1549 among candidates). No plausible pharmacological pathway connecting garlic's known organosulfur activity to gastrin secretion is documented anywhere in this evidence pack. This should be treated as hypothesis-generating only, not as a validated repurposing signal.
+The prediction comes from the TxGNN knowledge-graph model alone. No trials or publications were retrieved, and the supplied data documents no mechanism connecting garlic to gastrin regulation.
+
+Because the score is high but the evidence is empty, this should be treated as a hypothesis for further study, not a supported repurposing candidate.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 Currently no related literature available.
 
+---
+
 ## US Market Information
 
-Garlic is not marketed as an approved drug product in Taiwan — `taiwan_regulatory.total_licenses = 0` and no license records exist. There is no NDA, approved dosage form, or approved-indication text to report.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Not listed | Allium Sativum (Hahnemann Laboratories, INC.) | Pellet | Not stated |
+| Not listed | Allium sativum (Boiron) | Pellet | Not stated |
+| Not listed | Allium Sativum (Hahnemann Laboratories, INC.) | Pellet | Not stated |
+| Not listed | Allium Sativum (Hahnemann Laboratories, INC.) | Pellet | Not stated |
+| Not listed | Allium sativum (Boiron) | Pellet | Not stated |
+
+The 20 authorizations in total also include other forms: injection (solution), solution, liquid, ointment and solution/drops.
+
+---
 
 ## Safety Considerations
 
-No structured safety data (warnings, contraindications, or drug interaction data) is available for garlic in this evidence pack — the DDI query returned `not_found`. Please refer to the package insert for safety information, if and when one becomes available.
+Please refer to the package insert for safety information.
+
+The supplied drug-interaction query returned no records. However, literature retrieved for other predicted indications (for example HIV) reports that garlic supplements can lower exposure to some antiretrovirals, such as saquinavir. Garlic may also affect platelet function. Any future study should assess interaction and bleeding risk.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (Gastrin Secretion Abnormality) has no clinical, literature, or mechanistic support — it is a raw model score only (L5), and two Blocking/High-severity data gaps remain open: TFDA label/warning data (DG001, Blocking) and MOA data (DG002, High). There is no basis to advance this candidate past S0.
+The prediction has a high model score but no trials, no publications and no documented mechanism. The evidence level is L5, and package-insert safety information is missing.
 
 **To proceed, the following is needed:**
-- Mechanism-of-action data for garlic (DrugBank query)
-- TFDA label/warning and contraindication data (Blocking gap, DG001)
-- Any preclinical or mechanistic hypothesis linking garlic to gastrin secretion, before further evidence collection is prioritized
+- Package insert warnings and contraindications (currently blocking safety screening)
+- Mechanism of action data (for example from DrugBank)
+- A literature and trial search specific to gastrin secretion abnormality
+- Identification of which garlic product and route would be studied
 
-**Note on other candidates in this pack:** This evidence pack (`TW-DB10532-multi`) contains 9 additional TxGNN-ranked candidates beyond the top prediction, with meaningfully different evidence profiles — notably *cerebral infarction* (rank 3, L4, 13 animal-model publications, staged at S1 "Research Question") and *HIV infectious disease* (rank 8, 3 trials + 20 publications, staged at S1 but recommended **Hold** because the literature documents garlic as a CYP3A4 inducer that reduces protease-inhibitor levels, e.g. saquinavir and darunavir — a known interaction risk, not a treatment benefit). If garlic repurposing work continues, those two candidates warrant separate evaluation rather than default reliance on the top TxGNN score alone.
+**Note on other predicted indications for garlic:**
+- **Cerebral infarction** has the most preclinical support (L4), from rodent ischemia models and reviews, but no registered trials. It is better suited to a research question than to this indication.
+- **HIV infectious disease** has interaction-safety signals that outweigh any efficacy signal.
+- **Endometriosis** has only one in vitro study.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

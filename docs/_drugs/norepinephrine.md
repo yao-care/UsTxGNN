@@ -29,101 +29,99 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Norepinephrine: From Unspecified Original Indication to Obstructive Lung Disease
+# Norepinephrine: From Original Indication (Not Recorded) to Obstructive Lung Disease
 
 ## One-Sentence Summary
 
-The original indication and mechanism of action for norepinephrine are not documented in this evidence pack (data gap). The TxGNN model predicts a possible association with **Obstructive Lung Disease**, but this is currently supported only by indirect, mechanism-level evidence — **0 clinical trials directly test norepinephrine as a treatment for this condition**, and the supporting literature largely describes catecholamine physiology in COPD/asthma rather than therapeutic efficacy.
-
----
+Norepinephrine is the main sympathetic neurotransmitter, and its original approved indication is not recorded in the available data.
+The TxGNN model predicts it may be relevant to **obstructive lung disease**, but **none of the 16 retrieved clinical trials and 20 publications tests norepinephrine as a treatment for this condition**.
+The evidence supports biological plausibility only, so this is a model-driven hypothesis.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in evidence pack (data gap) |
-| Predicted New Indication | Obstructive Lung Disease |
+| Original Indication | Not available (no approved indication text in the US license records) |
+| Predicted New Indication | Obstructive lung disease |
 | TxGNN Prediction Score | 99.84% |
-| Evidence Level | L4 (mechanism/observational only) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L4 (mechanism and physiology studies only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 3 records (license numbers not available) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action (MOA) data for norepinephrine is not available in this evidence pack. Based on general pharmacological knowledge reflected in the supporting literature, norepinephrine is an endogenous catecholamine that acts as an agonist at α/β-adrenergic receptors, and sympathetic/noradrenergic tone is known to modulate airway smooth muscle and vascular caliber (e.g., PMID 2048831, PMID 21271508).
+Currently, detailed mechanism of action data is not available in the input. Norepinephrine is the main sympathetic neurotransmitter. Systemic norepinephrine acts mainly on alpha-adrenergic receptors and causes vasoconstriction.
 
-However, the repurposing rationale explicitly flags this as an **indirect, physiological association rather than a therapeutic hypothesis**. Norepinephrine is clinically used as a systemic vasopressor for shock and hypotension, not as an inhaled or targeted airway therapy. The clinical trials returned for this candidate mostly involve norepinephrine incidentally, as a standard-of-care vasopressor in ECMO, perioperative, or ICU contexts — not as an intervention being tested for obstructive lung disease. The literature evidence instead describes elevated plasma noradrenaline levels and autonomic dysregulation as **features of** COPD/asthma pathophysiology, which is a correlative finding, not evidence of therapeutic benefit.
+The literature supports a biological link between adrenergic signalling and the airways:
+- Autonomic nerves influence airway calibre, airway blood vessels and mucous glands.
+- Noradrenergic input modulates airway smooth muscle tone and airway vasculature.
+- A 2024 mouse study identified brainstem Dbh+ (noradrenergic) neurons as controlling allergen-induced airway hyperreactivity.
+- Small studies in COPD patients found raised plasma noradrenaline, related to hypoxaemia and haemodynamics.
 
-Given this, the high TxGNN score likely reflects strong knowledge-graph connectivity between norepinephrine and respiratory-disease nodes (due to extensive co-occurrence in critical-care and physiology literature) rather than a validated treatment signal.
-
----
+These findings show that the noradrenergic system is involved in obstructive lung disease. They do **not** show that giving norepinephrine improves outcomes. Norepinephrine has no established bronchodilator role, and its vasoconstrictive action would not obviously benefit these patients. The very high TxGNN score is a knowledge-graph prediction and is not clinical evidence.
 
 ## Clinical Trial Evidence
 
+The table lists the 10 most relevant of the 16 retrieved trials. All were graded C or left ungraded. None tests norepinephrine for obstructive lung disease.
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT01219738](https://clinicaltrials.gov/study/NCT01219738) | N/A | Completed | 20 | Acute airway vascular smooth muscle response to inhaled budesonide; discusses non-genomic enhancement of endogenous norepinephrine effects at adrenergic receptors — mechanistic relevance, not a norepinephrine intervention trial |
-| [NCT02360865](https://clinicaltrials.gov/study/NCT02360865) | N/A | Completed | 18 | Mechanisms of exercise intolerance in COPD; explores endothelial function and possible sympathetic/catecholamine involvement |
-| [NCT05664204](https://clinicaltrials.gov/study/NCT05664204) | N/A | Recruiting | 200 | Intraoperative ECMO strategy in lung transplantation; norepinephrine used only as routine vasopressor support |
-| [NCT07022210](https://clinicaltrials.gov/study/NCT07022210) | N/A | Recruiting | 100 | Incidence of post-anesthesia hypotension; no direct link to obstructive lung disease |
-| [NCT07332442](https://clinicaltrials.gov/study/NCT07332442) | Phase 3 | Not yet recruiting | 250 | CPAP and arousal threshold in obstructive sleep apnea; norepinephrine not an intervention |
-| [NCT02966665](https://clinicaltrials.gov/study/NCT02966665) | Phase 1 | Recruiting | 420 | Vascular function/exercise rehabilitation in hypertension; not a lung-disease treatment study |
-| [NCT02627378](https://clinicaltrials.gov/study/NCT02627378) | Phase 1 | Completed | 35 | ECMO support for MERS-induced respiratory failure; norepinephrine used only as standard vasopressor |
-| [NCT06361420](https://clinicaltrials.gov/study/NCT06361420) | N/A | Recruiting | 43 | Lung-protective ventilation strategy in aortic dissection surgery; unrelated to obstructive lung disease treatment |
-| [NCT02564406](https://clinicaltrials.gov/study/NCT02564406) | N/A | Completed | 35 | Extracorporeal CO2 removal in hypercapnic COPD exacerbation patients who refused intubation; non-pharmacological intervention |
-| [NCT04280497](https://clinicaltrials.gov/study/NCT04280497) | N/A | Recruiting | 1800 | RCT on corticosteroid therapy in sepsis; norepinephrine mentioned only as a vasopressor endpoint component |
-
-**Note:** None of the above trials test norepinephrine as a treatment for obstructive lung disease; relevance grading (mostly "C", two "B") reflects incidental/mechanistic association only.
-
----
+| [NCT02360865](https://clinicaltrials.gov/study/NCT02360865) | N/A | Completed | 18 | Mechanisms of exercise intolerance in COPD, including endothelial function and muscle sympathetic nerve activity. Norepinephrine is not the tested therapy. |
+| [NCT01536587](https://clinicaltrials.gov/study/NCT01536587) | Phase 4 | Completed | 32 | Salmeterol in COPD, testing whether it reduces sympathetic activity (microneurography). Tests a bronchodilator, not norepinephrine. |
+| [NCT01219738](https://clinicaltrials.gov/study/NCT01219738) | N/A | Completed | 20 | Inhaled budesonide and adrenergic agonist effects on airway vascular smooth muscle. Tests a corticosteroid. |
+| [NCT02564406](https://clinicaltrials.gov/study/NCT02564406) | N/A | Completed | 35 | Extracorporeal CO2 removal in hypercapnic patients (COPD exacerbation) who failed non-invasive ventilation. Device study. |
+| [NCT07332442](https://clinicaltrials.gov/study/NCT07332442) | Phase 3 | Not yet recruiting | 250 | CPAP and arousal threshold in obstructive sleep apnea. This is upper-airway obstruction, not obstructive lung disease. |
+| [NCT05664204](https://clinicaltrials.gov/study/NCT05664204) | N/A | Recruiting | 200 | Systematic vs on-demand VA-ECMO during lung transplant. Norepinephrine is not the intervention. |
+| [NCT02627378](https://clinicaltrials.gov/study/NCT02627378) | Phase 1 | Completed | 35 | ECMO for MERS-induced respiratory failure. Different disease and intervention. |
+| [NCT05655065](https://clinicaltrials.gov/study/NCT05655065) | N/A | Recruiting | 30 | Effect of higher mean arterial pressure on renal function in shock. Not a lung disease study. |
+| [NCT04280497](https://clinicaltrials.gov/study/NCT04280497) | N/A | Recruiting | 1800 | Hydrocortisone plus fludrocortisone in sepsis. No norepinephrine-specific arm for lung disease can be confirmed. |
+| [NCT07022210](https://clinicaltrials.gov/study/NCT07022210) | N/A | Recruiting | 100 | Incidence of hypotension in the post-anesthesia care unit. Not a lung disease study. |
 
 ## Literature Evidence
 
+The table lists 10 of the 20 retrieved publications. There are no RCTs. The evidence is preclinical, physiological, observational or review-level.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [9009625](https://pubmed.ncbi.nlm.nih.gov/9009625/) | 1996 | Cohort | Monaldi Arch Chest Dis | Elevated plasma noradrenaline and altered hemodynamic hormone levels in COPD patients |
-| [2048831](https://pubmed.ncbi.nlm.nih.gov/2048831/) | 1991 | Review | Am Rev Respir Dis | Autonomic (noradrenergic/cholinergic) control of airway caliber in asthma and COPD |
-| [1617386](https://pubmed.ncbi.nlm.nih.gov/1617386/) | 1992 | Review | Br Med Bull | Sympathetic (noradrenaline) constriction of tracheobronchial vasculature in asthma |
-| [35870527](https://pubmed.ncbi.nlm.nih.gov/35870527/) | 2022 | Cohort | Environ Pollut | Air-pollution-associated neuroendocrine (SAM axis) stress hormone changes in COPD vs. non-COPD panel |
-| [6777857](https://pubmed.ncbi.nlm.nih.gov/6777857/) | 1980 | Unclassified | Scand J Clin Lab Invest | Increased plasma noradrenaline in COPD, correlated with hemodynamics and blood gases |
-| [21271508](https://pubmed.ncbi.nlm.nih.gov/21271508/) | 2011 | Unclassified | Pneumologie | Review of airway innervation (including noradrenergic fibers) in asthma and COPD |
-| [29030339](https://pubmed.ncbi.nlm.nih.gov/29030339/) | 2018 | Unclassified | Am J Physiol Heart Circ Physiol | α-adrenergic responsiveness and functional sympatholysis during exercise in COPD |
-| [11099681](https://pubmed.ncbi.nlm.nih.gov/11099681/) | 2000 | Unclassified | Am J Med | Mechanisms of hypertension in COPD with acute respiratory failure, including norepinephrine's role |
-| [3332227](https://pubmed.ncbi.nlm.nih.gov/3332227/) | 1987 | Unclassified | Crit Care Clin | Overview of catecholamines (norepinephrine, epinephrine, dopamine) in critical illness |
-| [3420304](https://pubmed.ncbi.nlm.nih.gov/3420304/) | 1988 | Unclassified | Respiration | Hemodynamic effects of dopamine/L-dopa in pulmonary hypertension secondary to COLD |
-
-**Note:** No RCTs were identified; all evidence is observational or mechanistic/review in nature, consistent with the L4 evidence level.
-
----
+| [38987587](https://pubmed.ncbi.nlm.nih.gov/38987587/) | 2024 | Preclinical | Nature | Brainstem Dbh+ neurons control allergen-induced airway hyperreactivity in mice (lung-to-brainstem-to-lung circuit). |
+| [2048831](https://pubmed.ncbi.nlm.nih.gov/2048831/) | 1991 | Review | Am Rev Respir Dis | Autonomic nerves (cholinergic, noradrenergic, peptidergic) influence airway calibre in asthma and COPD. |
+| [1617386](https://pubmed.ncbi.nlm.nih.gov/1617386/) | 1992 | Review | Br Med Bull | Sympathetic nerves constrict the tracheobronchial vasculature via noradrenaline and neuropeptide Y. |
+| [21271508](https://pubmed.ncbi.nlm.nih.gov/21271508/) | 2011 | Review | Pneumologie | Airway innervation in asthma and COPD, including noradrenergic fibres. |
+| [9009625](https://pubmed.ncbi.nlm.nih.gov/9009625/) | 1996 | Cohort | Monaldi Arch Chest Dis | Plasma hormones, including adrenaline and noradrenaline, and haemodynamics in early COPD. |
+| [35870527](https://pubmed.ncbi.nlm.nih.gov/35870527/) | 2022 | Cohort | Environ Pollut | Air pollution and neuroendocrine stress hormones in COPD and non-COPD participants (Beijing panel study). |
+| [29030339](https://pubmed.ncbi.nlm.nih.gov/29030339/) | 2018 | Physiology study | Am J Physiol Heart Circ Physiol | Muscle α-adrenergic responsiveness during exercise in COPD, using tyramine to evoke endogenous norepinephrine release. |
+| [11099681](https://pubmed.ncbi.nlm.nih.gov/11099681/) | 2000 | Observational | Am J Med | Hypoxaemia, hypercapnia and hormones, including norepinephrine, in blood pressure regulation during COPD respiratory failure. |
+| [6777857](https://pubmed.ncbi.nlm.nih.gov/6777857/) | 1980 | Observational | Scand J Clin Lab Invest | Plasma noradrenaline was raised in nine patients with chronic obstructive lung disease and related to blood gases. |
+| [3420304](https://pubmed.ncbi.nlm.nih.gov/3420304/) | 1988 | Clinical study | Respiration | Haemodynamic effects of dopamine and L-dopa in pulmonary hypertension secondary to chronic obstructive lung disease. Tests a related catecholamine, not norepinephrine. |
 
 ## US Market Information
 
-No regulatory license records are available in the evidence pack — `taiwan_regulatory.licenses` is empty and `market_status` is reported as **Not Marketed** (0 NDAs on file).
+The three listed records are norepinephrine liquid products from non-pharmaceutical manufacturers. No license numbers or approved indication text are available in the data.
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Not available | Norepinephrine (BioActive Nutritional, Inc.) | Liquid | Not available |
+| Not available | Norepinephrine (BioActive Nutritional, Inc.) | Liquid | Not available |
+| Not available | Norepinephrine (Professional Complementary Health Formulas) | Liquid | Not available |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
----
+Please refer to the package insert for safety information. No drug-interaction records were found for this drug.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Evidence for norepinephrine in obstructive lung disease consists entirely of mechanistic and observational studies describing catecholamine physiology in COPD/asthma, not therapeutic trials. No clinical trial directly tests norepinephrine as an intervention for this indication, and the evidence pack's own rationale explicitly characterizes the mechanistic link as correlative co-occurrence rather than causal support. The other two TxGNN-predicted indications (respiratory malformation, Rienhoff syndrome) have even weaker support (L5, no or near-no clinical/literature evidence) and are separately flagged as Hold.
+The prediction rests on a very high model score and on biological plausibility. No trial has tested norepinephrine for obstructive lung disease, and the literature contains no interventional evidence of benefit. Norepinephrine's vasoconstrictive profile also gives no clear reason to expect a therapeutic effect in this condition. The other two predicted indications are weaker still. Respiratory malformation is Level L5, with only tangential mechanistic and pregnancy-exposure literature. Rienhoff syndrome is Level L5, with no trials or literature at all. Both are also on Hold.
 
 **To proceed, the following is needed:**
-- Original indication and mechanism of action (MOA) data for norepinephrine (currently a data gap)
-- TFDA/US label warnings and contraindications — flagged as a **Blocking** data gap (DG001); required before any S1 safety pre-assessment
-- Confirmed DrugBank-sourced MOA — flagged as **High** severity data gap (DG002)
-- A dedicated preclinical or mechanistic study directly testing norepinephrine's effect on airway obstruction (rather than its role as a vasopressor in unrelated critical-care settings)
-- Regulatory/marketing status confirmation, since no NDA or license record currently exists
+- Original indications and approved-indication text (US license data is currently blank).
+- Mechanism of action data (DrugBank).
+- Package insert warnings and contraindications, which block safety screening.
+- Any clinical or preclinical study that actually administers norepinephrine in an obstructive lung disease model or population.
+- Confirmation that the listed liquid products are the same pharmaceutical-grade compound as the intravenous vasopressor.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

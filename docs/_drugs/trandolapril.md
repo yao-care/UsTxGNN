@@ -29,11 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Trandolapril: From Hypertension (ACE Inhibitor Class) to Malignant Hypertensive Renal Disease
+# Trandolapril: From ACE Inhibitor Therapy to Malignant Hypertensive Renal Disease
 
 ## One-Sentence Summary
 
-Trandolapril is an ACE inhibitor; the exact regulatory-approved original indication is not available in this dataset, but its pharmacological class is classically used for hypertension. The TxGNN model predicts potential efficacy in **Malignant Hypertensive Renal Disease**, but this prediction is currently supported by **0 clinical trials** and **0 publications** — the evidence rests solely on the model's prediction score (99.92%).
+Trandolapril is an ACE inhibitor marketed in the US as generic oral tablets, but the record contains no approved-indication text.
+The TxGNN model predicts it may be effective for **malignant hypertensive renal disease**,
+but there are currently **0 clinical trials** and **0 publications** supporting this specific prediction, so it rests on the model score alone.
 
 ---
 
@@ -41,49 +43,54 @@ Trandolapril is an ACE inhibitor; the exact regulatory-approved original indicat
 
 | Item | Content |
 |------|------|
-| Original Indication | Not specified in available regulatory data (drug class: ACE inhibitor, typically indicated for hypertension) |
-| Predicted New Indication | Malignant Hypertensive Renal Disease |
+| Predicted New Indication | Malignant hypertensive renal disease |
 | TxGNN Prediction Score | 99.92% |
-| Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 14 (all listed licenses are ANDA generics) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (data gap). Based on the information present in this evidence pack, trandolapril is classified as an **ACE inhibitor (ACEi)**. Pharmacologically, ACE inhibitors are a standard class of therapy for malignant hypertension complicated by renal disease, acting through inhibition of angiotensin II–mediated elevation of intraglomerular pressure, which provides both blood-pressure lowering and renal-protective effects.
+Currently, detailed mechanism of action data is not available. Trandolapril belongs to the ACE inhibitor class, which blocks the renin-angiotensin-aldosterone system (RAAS). The record lists no original indications, so the high TxGNN score cannot be checked against the drug's labeled use.
 
-Malignant hypertensive renal disease and standard hypertension (the presumed original indication of this drug class) share the same underlying pathophysiology — excessive RAAS (renin-angiotensin-aldosterone system) activation — which makes this prediction a reasonable **class-effect extrapolation** rather than a novel mechanistic hypothesis. However, because the original approved indication for this specific product could not be confirmed from the regulatory dataset, it remains unclear whether this represents genuine "repurposing" or simply an existing, unregistered use of the drug class.
+Malignant hypertension and its renal injury plausibly involve RAAS activation, so RAAS blockade is biologically reasonable. This is a class-level rationale only. No trial or literature data directly support it.
 
-It should also be noted that no clinical trial or literature evidence in this dataset directly supports this specific indication — the mechanistic rationale is inferred from drug-class knowledge alone, not from trial or publication data.
+TxGNN also ranks several related conditions highly: malignant renovascular hypertension, several forms of pulmonary hypertension, Braddock syndrome and chronic pulmonary heart disease. For renovascular hypertension, ACE inhibitors can cause hemodynamic harm in bilateral renal artery stenosis, so safety needs separate review. The only drug-specific finding across the whole set is a 1996 rat study of long-term trandolapril in chronic heart failure (PMID 8989645), which is preclinical evidence for the chronic pulmonary heart disease prediction.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
 ---
 
 ## US Market Information
 
-Trandolapril is currently **Not marketed (not marketed)** in this dataset's jurisdiction, with 0 registered licenses. No authorization records are available to summarize.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA078438 | Trandolapril | Tablet | Rising Pharma Holdings, Inc. |
+| ANDA077522 | Trandolapril | Tablet | Lupin Pharmaceuticals, Inc. |
+| ANDA078508 | Trandolapril | Tablet | Epic Pharma, LLC |
+| ANDA078438 | Trandolapril | Tablet | Bryant Ranch Prepack |
+| ANDA077522 | Trandolapril | Tablet | Lupin Pharmaceuticals, Inc. |
+
+Only the oral tablet route is listed. The record contains no approved-indication text.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-> **Note:** TFDA labeling data (key warnings and contraindications) is flagged as a **Blocking** data gap (DG001) in this evidence pack, meaning a proper safety (S1) evaluation cannot yet be completed for this drug.
+Please refer to the package insert for safety information. No warnings, contraindications or drug interaction data were available in the record.
 
 ---
 
@@ -92,14 +99,13 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication is supported only by a TxGNN model score (Evidence Level L5) — no clinical trials or literature evidence exist for malignant hypertensive renal disease specifically. In addition, a **Blocking** data gap (TFDA warnings/contraindications unavailable) prevents even a preliminary safety assessment, so this candidate cannot proceed past a research hypothesis at this time.
+The prediction is supported only by a high model score (99.92%) and a class-level RAAS rationale. There are no trials or literature for malignant hypertensive renal disease, and the record has no MOA, original-indication or safety data.
 
 **To proceed, the following is needed:**
-- TFDA label data (key warnings, contraindications) to complete initial safety screening (DG001)
-- Confirmed mechanism of action (MOA) from DrugBank or equivalent source (DG002)
-- Confirmed original approved indication(s) for trandolapril in this jurisdiction
-- Any available renal-function or hypertensive-crisis population data (given ACE inhibitors carry known risks in renal impairment and renal artery stenosis — see related candidate "malignant renovascular hypertension," which was independently flagged Hold due to this risk)
-- Prospective or observational clinical evidence specific to malignant hypertensive renal disease before advancing beyond the research-question stage
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data and the drug's labeled indications, to check the prediction against known use
+- A targeted search for trandolapril or ACE inhibitor studies in malignant hypertension and hypertensive nephropathy
+- For chronic pulmonary heart disease, confirmation of PMID 8989645 from the full text, since only the abstract was supplied
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

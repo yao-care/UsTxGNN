@@ -29,32 +29,36 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Lanreotide: From Acromegaly/Neuroendocrine Tumors to Hypertrichosis
+# Lanreotide: From Acromegaly to Hypertrichosis
 
 ## One-Sentence Summary
 
-> Lanreotide is a somatostatin analog originally used for acromegaly and neuroendocrine tumors, working by suppressing growth hormone/IGF-1 secretion and cell proliferation.
-> The TxGNN model predicts it may be effective for **Hypertrichosis**, but this is currently a **pure computational prediction with zero supporting clinical trials or literature**, and the model's own mechanistic analysis found no known pharmacological link between the drug and this disease.
+Lanreotide is a somatostatin analog that is marketed in the US as an injectable. The TxGNN model predicts it may be effective for **hypertrichosis**, but **no clinical trials and no drug-specific publications** currently support this prediction. It is a model-only signal and should be held.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Acromegaly, neuroendocrine tumors (per drug's known somatostatin-analog mechanism; not separately confirmed by a formal indication record in this evidence pack) |
-| Predicted New Indication | Hypertrichosis (disease) |
+| Original Indication | Not listed in the provided data (approved indication text is empty for all licenses). Acromegaly is assumed from general pharmacology, not from the Evidence Pack. |
+| Predicted New Indication | Hypertrichosis |
 | TxGNN Prediction Score | 99.97% |
-| Evidence Level | L5 (model prediction only — no clinical trials or literature found) |
-| Market Status (this jurisdiction) | ✗ Not Marketed |
-| Number of Licenses | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 12 registered entries (only 3 distinct authorizations are listed) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the evidence pack (flagged as a High-severity data gap). Based on known drug class information, lanreotide is a somatostatin analog whose established pharmacology is inhibition of growth hormone/IGF-1 secretion and antiproliferative effects, underlying its use in acromegaly and neuroendocrine tumors.
+Currently, detailed mechanism of action data is not available in the Evidence Pack. From general pharmacology, lanreotide is a somatostatin analog acting on SSTR2 and SSTR5. It suppresses growth hormone (GH) and IGF-1 secretion.
 
-For the top-ranked prediction, hypertrichosis, the model's own mechanistic assessment is explicitly negative: it states there is no known receptor or pathway connection between somatostatin signaling and hair follicle biology, and that the high TxGNN score (0.9997) reflects knowledge-graph structural similarity rather than any pharmacological rationale. In other words, the evidence pack itself concludes this prediction lacks mechanistic support.
+The only rationale is indirect and speculative. Excess GH/IGF-1 can cause hirsutism in acromegaly, so suppressing this axis might, in theory, reduce hair overgrowth in that setting. Congenital and generalized hypertrichosis, however, is generally genetic and not driven by GH excess. No direct mechanistic link is established. The prediction rests on the knowledge-graph score alone.
 
-The four lower-ranked candidates (odontal/periodontal malformation syndrome, Dandy-Walker malformation syndrome, isolated genetic hair shaft abnormality, Ambras-type congenital hypertrichosis) show the same pattern — high TxGNN scores with no identified mechanistic or clinical connection to somatostatin pharmacology. The 20 literature hits attached to the periodontal-component candidate are general periodontology papers that do not mention lanreotide or somatostatin pathways, and are best interpreted as keyword-matching noise rather than drug-specific evidence.
+The other top-ranked predictions have no plausible link either:
+
+- **Malformation syndrome with odontal/periodontal component** (99.96%): 20 publications were retrieved, but they cover periodontitis in general. None mentions lanreotide or somatostatin analogs, so the match came from the disease term only.
+- **Dandy-Walker malformation syndrome** (99.96%): this is a congenital structural defect that a hormone-suppressing peptide would not be expected to reverse.
+- **Isolated genetic hair shaft abnormality** (99.96%): these are structural and genetic (keratin-related) conditions.
+- **Ambras type hypertrichosis universalis congenita** (99.96%): this is a rare genetic hypertrichosis not known to be driven by the GH/IGF-1 axis.
 
 ## Clinical Trial Evidence
 
@@ -62,28 +66,35 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for hypertrichosis.
 
 ## US Market Information
 
-The drug is not marketed in this jurisdiction (0 licenses on file), so no marketing authorization records are available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA022074 | SOMATULINE DEPOT (Ipsen Biopharmaceuticals) | Injection | Indication text not provided |
+| NDA215395 | Lanreotide Acetate (Cipla USA) | Injection | Indication text not provided |
+| ANDA217193 | LANREOTIDE ACETATE (Exelan Pharmaceuticals) | Injection | Indication text not provided |
+
+The data contains duplicate entries for NDA022074 and ANDA217193. Only the injectable route is available.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (TFDA label warnings/contraindications and drug-interaction data are currently unavailable — this is flagged as a Blocking data gap that must be resolved before any safety evaluation can proceed.)
+Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This candidate rests entirely on a TxGNN structural-similarity score (L5), with zero clinical trials, zero supporting literature, and the model's own rationale explicitly stating no known mechanistic link to hypertrichosis. Combined with the absence of any safety/label data for this drug (a blocking gap), there is no basis to advance this candidate at this time.
+The prediction has a high model score but no trials, no drug-specific literature and no established mechanism. The hypertrichosis phenotype is mostly genetic and is not driven by the GH/IGF-1 axis. The evidence level is L5.
 
 **To proceed, the following is needed:**
-- TFDA label warnings and contraindications (currently blocking — required before any safety pre-screening)
-- Confirmed mechanism-of-action data from DrugBank or primary literature
-- Independent pharmacological or preclinical rationale connecting somatostatin signaling to hair growth/follicle biology, if this candidate is to be pursued further
-- Re-query of clinical trial registries and literature databases periodically, as current searches returned no hits
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data, for example from DrugBank
+- Approved indication text for the US licenses
+- Drug-specific literature or case reports of lanreotide or somatostatin analogs in hypertrichosis, ideally in acromegaly-associated hirsutism
+- Route compatibility assessment (currently pending; only injectable forms are available)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

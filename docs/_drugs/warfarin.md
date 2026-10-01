@@ -29,13 +29,12 @@ Evidence Level: **L4** | Predicted Indications: **7**
 
 </div>
 
-# Warfarin: From Original Indication (Not Recorded) to Heparin Cofactor II Deficiency
+# Warfarin: From Anticoagulation to Heparin Cofactor II Deficiency
 
 ## One-Sentence Summary
 
-> The evidence pack does not record Warfarin's original approved indication or mechanism of action for this jurisdiction (market status: not marketed, 0 licenses on file).
-> The TxGNN model predicts it may be effective for **Heparin Cofactor II Deficiency**,
-> with **0 clinical trials** and **5 publications** (case reports/reviews only) currently supporting this direction.
+Warfarin is an oral vitamin K antagonist anticoagulant, and the data supplied lists no approved indication text.
+The TxGNN model predicts it may be useful for **heparin cofactor II deficiency**, but this prediction has **0 clinical trials** and only **5 publications**, all case reports, a review or a laboratory-method paper.
 
 ---
 
@@ -43,21 +42,25 @@ Evidence Level: **L4** | Predicted Indications: **7**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in evidence pack (no `original_indications` or license data available) |
-| Predicted New Indication | Heparin Cofactor II Deficiency |
+| Predicted New Indication | Heparin cofactor 2 deficiency |
 | TxGNN Prediction Score | 99.87% |
 | Evidence Level | L4 |
-| US Market Status | Not marketed (Not marketed) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (the five listed below are ANDAs) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for Warfarin in this evidence pack (flagged as a High-severity data gap, DG002). Based on the repurposing rationale provided by the model, Warfarin acts as a vitamin K antagonist that suppresses synthesis of coagulation factors II, VII, IX, and X, and is already used broadly in clinical practice for long-term anticoagulation in hereditary thrombophilias.
+Currently, detailed mechanism of action data is not available. Based on known information, warfarin is a long-term oral anticoagulant used to prevent and treat thrombosis, and heparin cofactor II (HC II) deficiency is a hereditary thrombophilia. Mechanistically, warfarin may be applicable to the deficiency.
 
-Heparin cofactor II deficiency is a rare hereditary thrombophilia in which patients lack sufficient natural anticoagulant activity and are predisposed to venous thromboembolism. Mechanistically, extending Warfarin's established anticoagulant use in thrombophilic conditions to this specific deficiency is plausible, but the supporting evidence is indirect: no literature identified specifically evaluates Warfarin therapy in patients with confirmed heparin cofactor II deficiency. The available publications instead describe the disease itself (diagnosis, case reports, laboratory methods) or Warfarin use in adjacent thrombophilic conditions, making this a mechanism-driven hypothesis rather than a disease-specific evidence base.
+HC II deficiency predisposes patients to venous thrombosis, so anticoagulant therapy is a plausible management approach. This is an inference from drug class only. The retrieved literature does not confirm warfarin outcomes in HC II deficiency. The prediction therefore looks like an extension of warfarin's existing anticoagulant use, not a distinct repurposing signal.
+
+The other six predicted indications fall into three groups:
+- **Antithrombin deficiency type 2 and factor V excess:** plausible by class, but with at most one case report.
+- **Thrombophilia:** the best-supported alternative, with L3 evidence and many trials and papers.
+- **Rheumatoid arthritis and breast fibrocystic disease (and its synonym, benign mammary dysplasia):** no therapeutic rationale found, likely knowledge-graph artifacts.
 
 ---
 
@@ -71,23 +74,31 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [11177584](https://pubmed.ncbi.nlm.nih.gov/11177584/) | 2001 | Review | AIDS Patient Care and STDs | Review of HIV-associated thrombotic risk, including hypercoagulable states from deficiencies of protein C/S and related natural anticoagulants |
-| [3778142](https://pubmed.ncbi.nlm.nih.gov/3778142/) | 1986 | Review/Method | Arch Pathol Lab Med | Laboratory method for determining heparin cofactor II activity; low levels linked to liver disease, consumptive coagulopathy, and preeclampsia |
-| [11570053](https://pubmed.ncbi.nlm.nih.gov/11570053/) | 2001 | Case Series | Journal of UOEH | Family with multiple thrombotic events, including infancy onset; known hereditary thrombophilias (including HC II deficiency work-up) were investigated |
-| [2214444](https://pubmed.ncbi.nlm.nih.gov/2214444/) | 1990 | Case Report | Kyobu Geka | Right ventricular thrombus in a 14-year-old with familial heparin cofactor II deficiency, surgically removed |
-| [2033902](https://pubmed.ncbi.nlm.nih.gov/2033902/) | 1991 | Case Report | Nihon Kyobu Shikkan Gakkai Zasshi | Congenital antithrombin deficiency with pulmonary infarction; patient treated with Warfarin for 7 years before switching to heparin |
+| [11177584](https://pubmed.ncbi.nlm.nih.gov/11177584/) | 2001 | Review | AIDS Patient Care STDs | Review of thrombotic events and hypercoagulable abnormalities in HIV/AIDS patients, including deficiencies of natural anticoagulant proteins |
+| [2214444](https://pubmed.ncbi.nlm.nih.gov/2214444/) | 1990 | Case report | Kyobu Geka | A 14-year-old girl with familial HC II deficiency had a right ventricular thrombus that was surgically removed |
+| [3778142](https://pubmed.ncbi.nlm.nih.gov/3778142/) | 1986 | Laboratory method | Arch Pathol Lab Med | Laboratory assay for HC II activity. Low levels were seen in liver disease, consumptive coagulopathy and preeclampsia |
+| [2033902](https://pubmed.ncbi.nlm.nih.gov/2033902/) | 1991 | Case report | Nihon Kyobu Shikkan Gakkai Zasshi | A woman with congenital antithrombin II (HC II) deficiency and repeated thromboses, including pulmonary infarction, had been on warfarin for 7 years. Warfarin was stopped on admission and replaced with low-dose heparin |
+| [11570053](https://pubmed.ncbi.nlm.nih.gov/11570053/) | 2001 | Case report | J UOEH | A family with multiple thromboses in which known hereditary thrombophilias were ruled out. One child developed repeat DVT despite warfarin. Only indirectly relevant to HC II deficiency |
 
 ---
 
 ## US Market Information
 
-No market authorization records are available in the evidence pack — Warfarin's market status is recorded as **Not marketed (Not marketed)** with **0 licenses** on file for this jurisdiction.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA040301 | Warfarin Sodium | Tablet | Golden State Medical Supply, Inc. |
+| ANDA202202 | Warfarin Sodium | Tablet | REMEDYREPACK INC. |
+| ANDA040301 | Warfarin Sodium | Tablet | Aphena Pharma Solutions - Tennessee, LLC |
+| ANDA040616 | Warfarin Sodium | Tablet | PD-Rx Pharmaceuticals, Inc. |
+| ANDA090935 | Warfarin Sodium | Tablet | Golden State Medical Supply, Inc. |
+
+The only route is oral (tablet).
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Note: TFDA/FDA labeling warnings, contraindications, and drug-drug interaction data are recorded as a **Blocking** data gap — DG001 — meaning safety review cannot currently proceed to Stage S1.)
+Please refer to the package insert for safety information.
 
 ---
 
@@ -96,15 +107,13 @@ Please refer to the package insert for safety information. (Note: TFDA/FDA label
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked predicted indication (heparin cofactor II deficiency) is supported only by L4 evidence — case reports and general reviews describing the disease, with no clinical trials or disease-specific therapeutic studies of Warfarin. Combined with the Blocking data gap on safety labeling and the absence of any market authorization record, the candidate cannot advance past the research-question stage at this time.
+The TxGNN score is high (99.87%), but the score is not clinical evidence. The supporting literature is five case reports, one review and one laboratory-method paper, with no trials. One case report even describes a patient switched from warfarin to heparin. The use also overlaps with warfarin's existing anticoagulant indications, so it offers little new repurposing value.
 
 **To proceed, the following is needed:**
-- TFDA/FDA package insert warnings and contraindications (DG001, Blocking — required before any S1 safety evaluation)
-- Warfarin mechanism of action documentation from DrugBank (DG002, High)
-- Disease-specific interventional or observational studies in confirmed heparin cofactor II deficiency patients
-- Confirmation of Warfarin's regulatory/market status in this jurisdiction
-
-**Note:** Within this same evidence pack, a lower-ranked predicted indication — **thrombophilia** (rank 4, score 99.75%) — carries substantially stronger evidence (Evidence Level L1, Decision Stage S3, multiple completed trials including RCTs, recommendation "Proceed with Guardrails"). If a broader repurposing signal is the goal, that candidate may warrant separate evaluation.
+- Package insert warnings, contraindications and approved indications (blocking gap for safety screening)
+- Mechanism of action data (MOA) from DrugBank
+- Targeted literature review of warfarin outcomes in HC II deficiency, including bleeding risk and INR management
+- If a thrombosis-related direction is wanted, consider the broader **thrombophilia** prediction (rank 4, L3 evidence, many trials and reviews) instead
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,11 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Naproxen: From NSAID Therapy (Original Indication Not on Record) to Brachydactyly-Syndactyly Syndrome
+# Naproxen: From Pain and Inflammation to Brachydactyly-Syndactyly Syndrome
 
 ## One-Sentence Summary
 
-Naproxen is a long-established NSAID (COX-1/COX-2 inhibitor), though this evidence pack contains no recorded original indication or Taiwan/US license data for it. The TxGNN model predicts possible efficacy for **Brachydactyly-Syndactyly Syndrome**, a rare congenital limb malformation syndrome, but **0 clinical trials** and **0 publications** currently support this direction, and the model's own rationale notes no known biological link.
+Naproxen is a widely marketed non-steroidal anti-inflammatory drug (NSAID) used for pain and inflammation.
+The TxGNN model predicts it may be effective for **brachydactyly-syndactyly syndrome**, a congenital limb malformation.
+This prediction currently has **0 clinical trials** and **0 publications** behind it, so it is a model output only.
 
 ---
 
@@ -41,23 +43,28 @@ Naproxen is a long-established NSAID (COX-1/COX-2 inhibitor), though this eviden
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no license records or original indication data in this evidence pack |
-| Predicted New Indication | Brachydactyly-Syndactyly Syndrome |
-| TxGNN Prediction Score | 99.35% (rank 14,678 among candidates) |
-| Evidence Level | L5 (model prediction only, no supporting trials or literature) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Original Indication | Pain and inflammation (general drug knowledge; the US label text is not included in the supplied data) |
+| Predicted New Indication | Brachydactyly-syndactyly syndrome |
+| TxGNN Prediction Score | 99.35% |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Formal mechanism-of-action data for naproxen is flagged as a data gap in this evidence pack (High severity — DG002). However, the model's own repurposing rationale references naproxen's well-known pharmacology as a COX-1/COX-2 inhibitor that suppresses prostaglandin synthesis — the standard NSAID mechanism.
+Currently, detailed mechanism of action data is not available in the supplied record. Naproxen is a non-selective COX-1/COX-2 inhibitor. Its efficacy in pain and inflammation is well established, and it works by reducing prostaglandin production.
 
-Brachydactyly-syndactyly syndrome is a rare congenital skeletal/limb malformation syndrome rooted in embryonic limb-patterning gene regulation, not in inflammation or prostaglandin-mediated pathology. The evidence pack's own rationale states explicitly that there is **no known mechanistic link** between COX-1/COX-2 inhibition and this disorder's developmental pathology, and that the high TxGNN score (0.9935) reflects knowledge-graph node-embedding similarity rather than any biological hypothesis.
+Brachydactyly-syndactyly syndromes are congenital limb malformations with a developmental or genetic basis. Prostaglandin inhibition is not known to modify them, and NSAIDs would not be expected to correct a structural developmental defect. **No established mechanistic link was identified.**
 
-The same pattern holds across the other top-ranked candidates in this pack (colobomatous microphthalmia-rhizomelic dysplasia syndrome, acromesomelic dysplasia Hunter-Thompson type, brachyolmia-amelogenesis imperfecta syndrome) — all are rare monogenic skeletal/structural developmental disorders with rationale text stating no known mechanistic connection to naproxen. This consistency across the top 4 predictions suggests the model signal here is not anchored to plausible biology for this drug.
+The high score most likely reflects proximity in the knowledge graph, not a biological rationale. The other top-ranked predictions show the same pattern:
+- Colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.22%)
+- Acromesomelic dysplasia, Hunter-Thompson type (99.17%)
+- Brachyolmia-amelogenesis imperfecta syndrome (99.06%)
+
+All are rare congenital skeletal or developmental disorders with no trials or literature, and none has a plausible link to COX inhibition.
 
 ---
 
@@ -75,13 +82,23 @@ Currently no related literature available.
 
 ## US Market Information
 
-Naproxen has 0 recorded licenses in this evidence pack, and market status is listed as Not Marketed. No authorization records are available to summarize.
+The supplied data lists no approved indication text for these authorizations. The table shows 5 of the 20 authorizations.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA020204 | Aleve | Tablet | Lil' Drug Store Products, Inc |
+| ANDA208363 | Naproxen Sodium | Capsule, liquid filled | Care One (American Sales Company) |
+| ANDA091416 | Naproxen | Tablet | NuCare Pharmaceuticals, Inc. |
+| ANDA212517 | Naproxen | Tablet | Preferred Pharmaceuticals, Inc. |
+| ANDA200629 | Naproxen Sodium | Tablet, film coated | Aurobindo Pharma Limited |
+
+All listed products are oral: tablets, film-coated or coated tablets, and liquid-filled capsules.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (TFDA label/warning data is a Blocking-severity gap in this evidence pack — DG001 — and must be resolved before any safety review can proceed.)
+Please refer to the package insert for safety information.
 
 ---
 
@@ -90,13 +107,16 @@ Please refer to the package insert for safety information. (TFDA label/warning d
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication is an ultra-rare congenital skeletal syndrome with L5 evidence (model score only — zero trials, zero literature) and an explicit statement in the rationale that no biological mechanism connects naproxen's COX-1/COX-2 inhibition to this disorder. Combined with the absence of Taiwan/US market presence and unresolved MOA/label data gaps, this candidate does not meet the threshold to advance.
+The prediction is supported only by a knowledge-graph score, with no trials, no publications, and no plausible mechanism linking COX inhibition to a congenital limb malformation. The evidence level is L5, and the candidate remains at the initial screening stage (S0).
 
 **To proceed, the following is needed:**
-- TFDA label (warnings/contraindications) — currently a Blocking gap
-- Confirmed MOA data via DrugBank API — currently a High-severity gap
-- A biological or preclinical rationale linking NSAID/COX pathways to limb-patterning or skeletal dysplasia pathogenesis, which does not currently exist for this candidate
-- Re-evaluation against lower-ranked, mechanistically plausible predicted indications if this pipeline continues for naproxen
+- The FDA package insert warnings and contraindications, which block safety screening
+- Mechanism of action data from DrugBank
+- A biological rationale connecting prostaglandin or COX pathways to the pathogenesis of the predicted disease
+- Any supporting preclinical, case-level, or clinical evidence
+- Route compatibility assessment, which is still pending
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

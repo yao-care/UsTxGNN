@@ -29,98 +29,92 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-# Oxitriptan: From No Approved Indication to Insomnia
+# Oxitriptan: From an Unspecified Original Indication to Insomnia
 
 ## One-Sentence Summary
 
-> Oxitriptan (5-hydroxytryptophan, 5-HTP) currently has no approved indication and is not marketed in Taiwan.
-> The TxGNN model predicts it may be effective for **Insomnia**,
-> with **6 clinical trials** and **13 publications** currently identified, though most evidence is preclinical or only indirectly related.
-
----
+Oxitriptan (5-hydroxytryptophan, 5-HTP) is the direct precursor of serotonin. It is marketed in the US as a liquid product, but no approved indication is recorded for it.
+The TxGNN model predicts it may be effective for **insomnia**.
+This is supported by **6 registered trials** and **13 publications**, but none is a controlled insomnia trial of oxitriptan, so the evidence is essentially preclinical or mechanistic.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — drug is unmarketed with no recorded approved indication |
 | Predicted New Indication | Insomnia |
 | TxGNN Prediction Score | 99.89% |
 | Evidence Level | L4 |
-| Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 (license number not recorded) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (MOA field is a data gap). Based on the information available, oxitriptan (5-HTP) is a direct precursor of serotonin biosynthesis — it is metabolized via the serotonergic pathway and can be further converted to melatonin through N-acetylation and methylation. This pathway provides a theoretical basis for a role in sleep regulation, and is the same rationale underlying over-the-counter 5-HTP supplements marketed for sleep support.
+Detailed mechanism-of-action data is not currently available. Oxitriptan is the immediate metabolic precursor of serotonin, which in turn is a precursor of melatonin. A link to sleep regulation is therefore biologically plausible. It crosses the blood-brain barrier and is converted to serotonin, and low serotonin has been associated with sleep disorders, depression and anxiety.
 
-However, since `original_indications` is empty and the drug is not currently marketed in Taiwan, there is no established original indication to compare against. The link to insomnia should therefore be regarded as a mechanistic hypothesis derived from serotonin/melatonin physiology rather than a validated repurposing relationship. Most supporting literature uses PCPA (p-chlorophenylalanine)-induced insomnia animal models to study the serotonergic (5-HT) system broadly, rather than testing oxitriptan itself — this indirect evidence base is consistent with the mechanistic (not clinical) nature of the current support.
+Indirect support comes from rodent models of insomnia induced by PCPA (a tryptophan hydroxylase inhibitor). In these models, serotonin depletion produces insomnia, and serotonergic modulation restores sleep. However, these studies tested other compounds (herbal extracts, ginsenoside Rg1, nuciferine, cinnamic acid), not 5-HTP itself. The TxGNN score is a knowledge-graph prediction and is not proof of efficacy.
 
----
+The original indication is not recorded, so the relationship to the new indication cannot be assessed directly. The only human-level hints are a 1974 case report of a favourable response to 5-HTP in a patient with severe insomnia (Morvan's disease) and a 1987 review of neurological uses of L-5-HTP.
 
 ## Clinical Trial Evidence
 
+No listed trial is a controlled trial of oxitriptan for insomnia. All six are graded as low relevance (C), except one graded B as a safety signal.
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00001918](https://clinicaltrials.gov/study/NCT00001918) | N/A | Completed | 20 | Clinical evaluation of L-5-hydroxytryptophan-related eosinophilia-myalgia syndrome (EMS); provides human exposure/safety data for 5-HTP but not an efficacy trial for insomnia |
-| [NCT06893822](https://clinicaltrials.gov/study/NCT06893822) | N/A | Recruiting | 20 | Randomized, double-blind, placebo-controlled crossover study of Griffonia simplicifolia (natural 5-HTP source) on pain and sensitization, not insomnia |
-| [NCT04078724](https://clinicaltrials.gov/study/NCT04078724) | N/A | Completed | 33 | RCT assessing 5-HTP supplementation's impact on sleep quality and gut microbiome in older adults with normal cognition vs. mild cognitive impairment |
-| [NCT03364101](https://clinicaltrials.gov/study/NCT03364101) | N/A | Completed | 60 | Explored relationship between an experimental "PowerOff" intervention and sleep quality using actigraphy; drug/compound identity unclear |
-| [NCT06365801](https://clinicaltrials.gov/study/NCT06365801) | N/A | Not Yet Recruiting | 100 | Acupoint biological characteristics in irritable bowel syndrome — likely keyword mismatch, not directly relevant |
-| [NCT06718452](https://clinicaltrials.gov/study/NCT06718452) | N/A | Not Yet Recruiting | 100 | umPEALUT for tinnitus targeting neuroinflammation — not directly relevant to oxitriptan or insomnia |
-
-**Note:** Only NCT00001918 and NCT04078724 involve 5-HTP directly; neither is a controlled efficacy trial of oxitriptan for insomnia specifically. The remaining trials are low-relevance or likely search mismatches.
-
----
+| [NCT04078724](https://clinicaltrials.gov/study/NCT04078724) | N/A | Completed | 33 | Randomized trial of 5-HTP supplementation on sleep quality and gut microbiome in older adults with normal cognition vs. MCI. Results are not included in the evidence pack. |
+| [NCT06893822](https://clinicaltrials.gov/study/NCT06893822) | N/A | Recruiting | 20 | Griffonia simplicifolia (natural 5-HTP source) vs. placebo on pain and sensitization in healthy volunteers. Not an insomnia trial. |
+| [NCT00001918](https://clinicaltrials.gov/study/NCT00001918) | N/A | Completed | 20 | Clinical evaluation of L-5-HTP-related eosinophilia-myalgia syndrome (EMS). No efficacy data. Relevant as a safety signal (contamination-associated EMS). |
+| [NCT03364101](https://clinicaltrials.gov/study/NCT03364101) | N/A | Completed | 60 | PowerOff study of sleep quality (placebo vs. PowerOff). No 5-HTP intervention or insomnia endpoint is evident. |
+| [NCT06365801](https://clinicaltrials.gov/study/NCT06365801) | N/A | Not yet recruiting | 100 | Acupoint study in irritable bowel syndrome. Unrelated to insomnia or oxitriptan. |
+| [NCT06718452](https://clinicaltrials.gov/study/NCT06718452) | N/A | Not yet recruiting | 100 | Tinnitus and neuroinflammation (umPEALUT). Unrelated to insomnia or oxitriptan. |
 
 ## Literature Evidence
 
+The literature is mostly preclinical, with very little human data on 5-HTP.
+
 | PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [2962265](https://pubmed.ncbi.nlm.nih.gov/2962265/) | 1987 | Review | Revue medicale de la Suisse romande | Discusses clinical indications for L-5-hydroxytryptophan in neurology, including sleep-related conditions |
-| [4128428](https://pubmed.ncbi.nlm.nih.gov/4128428/) | 1974 | Case Report | Electroencephalography and Clinical Neurophysiology | Reports a favorable effect of 5-hydroxytryptophan in a case of severe prolonged insomnia (agrypnia) associated with Morvan's disease |
-| [33634088](https://pubmed.ncbi.nlm.nih.gov/33634088/) | 2021 | Review | Frontiers in Bioengineering and Biotechnology | Reviews 5-HTP's physiological roles in sleep, mood, and pain regulation, and its therapeutic use in insomnia, depression, and migraine |
-| [32006050](https://pubmed.ncbi.nlm.nih.gov/32006050/) | 2020 | Preclinical | Applied Microbiology and Biotechnology | Describes microbial biosynthesis of 5-HTP, noting its established use for insomnia, depression, and chronic headache |
-| [4548556](https://pubmed.ncbi.nlm.nih.gov/4548556/) | 1974 | Case Report | Revue neurologique | Polygraphic/metabolic study of persistent insomnia with hallucinations in a case of Morvan's fibrillar chorea (companion report to NCT-independent 5-HTP case) |
-| [40350945](https://pubmed.ncbi.nlm.nih.gov/40350945/) | 2025 | Animal Model | China Journal of Chinese Materia Medica | Fushen Decoction improved PCPA-induced insomnia in mice via modulation of the 5-HT system and GABA expression, supporting serotonergic relevance to sleep |
-| [39710185](https://pubmed.ncbi.nlm.nih.gov/39710185/) | 2024 | Animal Model | Neuroscience Letters | Sleep deprivation impaired pineal melatonin secretion via AMPK/FOXO3a-mediated autophagy inhibition, linking the serotonin-melatonin pathway to insomnia-depression comorbidity |
-| [40493075](https://pubmed.ncbi.nlm.nih.gov/40493075/) | 2025 | Animal Model | Psychopharmacology | Ginsenoside Rg1 alleviated PCPA-induced insomnia via NLRP3 inflammasome inhibition through the Nrf2/HO-1 pathway |
-| [40367689](https://pubmed.ncbi.nlm.nih.gov/40367689/) | 2025 | Animal Model | International Immunopharmacology | Cinnamic acid promoted sleep in a PCPA-induced insomnia rat model |
-| [40160035](https://pubmed.ncbi.nlm.nih.gov/40160035/) | 2025 | Animal Model | International Journal of Neuropsychopharmacology | Nuciferine enhanced rodent sleep via modulation of the serotonergic system |
+|------|-----|------|---------|---------|
+| [4128428](https://pubmed.ncbi.nlm.nih.gov/4128428/) | 1974 | Case report | Electroencephalogr Clin Neurophysiol | Case of severe sleeplessness (about 4 months) in Morvan's disease with a reported favourable response to 5-HTP. |
+| [4548556](https://pubmed.ncbi.nlm.nih.gov/4548556/) | 1974 | Case report | Rev Neurol | Polygraphic and metabolic study of persistent insomnia with hallucinations in Morvan's fibrillar chorea. |
+| [2962265](https://pubmed.ncbi.nlm.nih.gov/2962265/) | 1987 | Review | Rev Med Suisse Romande | Review of neurological indications for L-5-HTP. |
+| [33634088](https://pubmed.ncbi.nlm.nih.gov/33634088/) | 2021 | Review | Front Bioeng Biotechnol | Microbial synthesis of 5-HTP. Notes its use in depression, insomnia and migraine. Non-clinical. |
+| [32006050](https://pubmed.ncbi.nlm.nih.gov/32006050/) | 2020 | Metabolic engineering study | Appl Microbiol Biotechnol | Enhanced 5-HTP production. Background mentions use in depression and insomnia. Non-clinical. |
+| [40493075](https://pubmed.ncbi.nlm.nih.gov/40493075/) | 2025 | Preclinical (mouse) | Psychopharmacology | Ginsenoside Rg1 alleviates PCPA-induced insomnia via NLRP3/Nrf2/HO-1. |
+| [40350945](https://pubmed.ncbi.nlm.nih.gov/40350945/) | 2025 | Preclinical (mouse) | Zhongguo Zhong Yao Za Zhi | Fushen Decoction acts on the 5-HT system and GABA in PCPA-induced insomnia. |
+| [40160035](https://pubmed.ncbi.nlm.nih.gov/40160035/) | 2025 | Preclinical (rodent) | Int J Neuropsychopharmacol | Nuciferine enhances rodent sleep via serotonergic modulation. |
+| [40367689](https://pubmed.ncbi.nlm.nih.gov/40367689/) | 2025 | Preclinical (rat) | Int Immunopharmacol | Cinnamic acid promotes sleep in PCPA-induced insomnia. |
+| [24785966](https://pubmed.ncbi.nlm.nih.gov/24785966/) | 2014 | Preclinical (mouse) | Fitoterapia | Gomisin N augments pentobarbital-induced sleep via serotonergic and GABAergic systems. |
 
-**Note:** No RCTs of oxitriptan for insomnia were identified. Direct drug-relevant evidence (2962265, 4128428, 4548556) is old case-level/review literature; the remaining items are mechanistic animal studies of the broader serotonergic pathway in insomnia, using compounds other than oxitriptan.
+## US Market Information
 
----
-
-## Market Information
-
-This drug currently has no approved licenses and is not marketed. No product registration data is available for review.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Not recorded | 5-HTP Phenolic (Energique, Inc.) | Liquid | Not recorded |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Eosinophilia-myalgia syndrome (EMS):** A registered clinical evaluation (NCT00001918) concerns EMS linked to L-5-HTP. Contaminated tryptophan supplements caused more than 1,500 EMS cases in 1989, and impurities are suspected. Product purity and quality control are therefore a guardrail for any repurposing plan.
+- **Serotonergic interactions:** Because oxitriptan raises serotonin, the risk of serotonin syndrome with other serotonergic drugs should be assessed before further work. The interaction database returned no records, which is more likely a coverage limitation than evidence of no interactions.
 
-**Note:** TFDA label warnings/contraindications data is a blocking gap (DG001) — this drug cannot yet complete an S1 safety pre-assessment without this information.
-
----
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Evidence is limited to L4 (preclinical/mechanistic studies and indirect case reports); no controlled clinical trial has evaluated oxitriptan specifically for insomnia, and the drug is not currently marketed with no established original indication for comparison.
+The high TxGNN score (99.89%) is the only strong signal. No controlled human trial of oxitriptan for insomnia is available, the human literature is limited to old case reports and reviews, and the supporting animal studies mostly test other compounds. A known contamination-related safety concern (EMS) and unassessed serotonergic interactions add caution.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (blocking — required for S1 safety pre-assessment)
-- Mechanism of action (MOA) documentation from DrugBank to support the mechanistic rationale
-- Clinical trials or observational studies directly testing oxitriptan (not other serotonergic agents or 5-HTP-containing supplements) for insomnia
-- Clarification of market/regulatory status before further development consideration
+- Package insert warnings and contraindications (blocking for safety screening)
+- Mechanism-of-action data from DrugBank
+- The original approved indication and a valid license number for the US product
+- Results of NCT04078724 (5-HTP and sleep quality), plus a systematic search for randomized insomnia trials of 5-HTP
+- A serotonergic drug-interaction and serotonin syndrome risk assessment
+- Product purity and quality-control assessment (EMS contamination risk)
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -3,14 +3,14 @@ layout: default
 title: Streptomycin
 parent: Moderate Evidence (L3-L4)
 nav_order: 1182
-evidence_level: L3
+evidence_level: L4
 indication_count: 10
 ---
 
 # Streptomycin
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,11 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Streptomycin: From Bacterial Infections (Tuberculosis) to Conjunctivitis
+# Streptomycin: From Systemic Antibacterial Therapy to Conjunctivitis
 
 ## One-Sentence Summary
 
-> Streptomycin is a first-generation aminoglycoside antibiotic historically used to treat tuberculosis and other bacterial infections, though it is **not currently marketed** in this jurisdiction (0 registered licenses).
-> The TxGNN model predicts it may be effective for **Conjunctivitis**, supported by **0 modern clinical trials** and **20 pieces of literature**, most dating from the 1940s–1950s era of early antibiotic use.
-> Evidence is largely historical (field trials, case reports); no controlled modern studies exist for this specific indication.
+Streptomycin is an aminoglycoside antibiotic marketed in the US as a lyophilized injection. The TxGNN model predicts it may be effective for **conjunctivitis**, but there are currently **0 clinical trials** and only historical, veterinary or indirect literature behind this prediction. The evidence is model-driven, so the recommendation is to hold.
 
 ---
 
@@ -43,58 +41,69 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on file in regulatory data (0 licenses); historically used systemically for tuberculosis and other bacterial infections as a class-defining aminoglycoside |
+| Original Indication | Not listed in the provided data (the US license record has no indication text) |
 | Predicted New Indication | Conjunctivitis |
 | TxGNN Prediction Score | 99.87% |
-| Evidence Level | L3 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L4 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 (ANDA064210) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed, structured mechanism-of-action data (DrugBank MOA field) is not available for streptomycin in this evidence pack. However, the model's own rationale confirms streptomycin's well-established pharmacology: it is an aminoglycoside antibiotic that inhibits bacterial 30S ribosomal protein synthesis, producing bactericidal activity against a range of gram-negative and gram-positive organisms.
+Detailed mechanism of action data is not available in the input. Streptomycin is a bactericidal aminoglycoside that binds the bacterial 30S ribosomal subunit. This is plausible for bacterial conjunctivitis.
 
-Bacterial conjunctivitis can be caused by many of the same pathogen classes streptomycin has historically targeted — including *Haemophilus* species, *Brucella*, *Mycobacterium tuberculosis*, and *Francisella tularensis* (the causative agent of tularemia-associated oculoglandular/Parinaud syndrome). This provides a plausible mechanistic bridge between streptomycin's antibacterial spectrum and the proposed new indication.
+The literature contains one clinically relevant signal. Streptomycin has been used for oculoglandular tularemia (Parinaud syndrome), a specific *Francisella tularensis* infection that presents as granulomatous conjunctivitis. Early reports from the 1940s and 1950s describe streptomycin eye-washes, experimental *Haemophilus* conjunctivitis and tuberculous conjunctivitis. These support activity against specific pathogens, not conjunctivitis in general.
 
-That said, streptomycin is **not the modern standard of care** for ophthalmic infection. As the literature itself notes (PMID 3317953), streptomycin was the first aminoglycoside discovered (1943) but has since been clinically superseded in ophthalmology by newer aminoglycosides such as tobramycin and gentamicin, which have better local tolerability and safety profiles. The supporting evidence for streptomycin specifically in conjunctivitis is almost entirely from the 1940s–1950s (field trials in Morocco, experimental *Hemophilus* conjunctivitis studies, TB/Brucella case reports), predating modern trial design and safety standards.
+Several weaknesses limit the prediction:
+- Common bacterial conjunctivitis is already well served by topical agents.
+- The only US product is an injectable, and no ophthalmic route is available.
+- Systemic streptomycin carries ototoxicity and nephrotoxicity risks.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for conjunctivitis.
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
+No randomized trials were retrieved. The items below are reviews, case reports and historical studies.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [13075256](https://pubmed.ncbi.nlm.nih.gov/13075256/) | 1953 | Field trial | Rev Int Trachome | Prophylaxis/treatment of seasonal conjunctivitis in rural Morocco via streptomycin and chloramine eye instillations, compared for effect |
-| [13075257](https://pubmed.ncbi.nlm.nih.gov/13075257/) | 1953 | Field trial | Rev Int Trachome | Prevention of seasonal conjunctivitis in southern Morocco: streptomycin eye-wash vs. aureomycin salve, comparative effects |
-| [18132879](https://pubmed.ncbi.nlm.nih.gov/18132879/) | 1949 | Historical clinical study | Am J Ophthalmol | Streptomycin effective in experimental conjunctivitis caused by *Hemophilus* sp. |
-| [15442493](https://pubmed.ncbi.nlm.nih.gov/15442493/) | 1950 | Case report | La Semana Medica | Primary tuberculous conjunctivitis with fistulized submaxillary adenopathy treated with systemic and local streptomycin |
-| [6789462](https://pubmed.ncbi.nlm.nih.gov/6789462/) | 1981 | Case report | S Afr Med J | Occupational Brucella keratoconjunctivitis treated with systemic tetracycline/co-trimoxazole/streptomycin plus topical chloramphenicol |
-| [5289718](https://pubmed.ncbi.nlm.nih.gov/5289718/) | 1971 | Laboratory study | J Hygiene | Streptomycin (and neomycin) effective at suppressing bacterial contamination during isolation of trachoma (TRIC) agent from conjunctival scrapings |
-| [38941282](https://pubmed.ncbi.nlm.nih.gov/38941282/) | 2024 | Case report | Am J Case Rep | *Francisella tularensis* causing Parinaud oculoglandular syndrome (granulomatous conjunctivitis) via conjunctival entry |
-| [19584516](https://pubmed.ncbi.nlm.nih.gov/19584516/) | 2009 | Case series/Review | Indian J Med Microbiol | Familial tularaemia cases, including oculoglandular (conjunctivitis) presentation |
-| [38298538](https://pubmed.ncbi.nlm.nih.gov/38298538/) | 2023 | Review | Front Microbiol | Review of tularemia treatment (experimental and clinical data); oculoglandular form frequently presents as conjunctivitis |
-| [3317953](https://pubmed.ncbi.nlm.nih.gov/3317953/) | 1987 | Review | Surv Ophthalmol | Historical review noting streptomycin as the first aminoglycoside (1943), superseded in ophthalmology by tobramycin/gentamicin |
+| [38298538](https://pubmed.ncbi.nlm.nih.gov/38298538/) | 2023 | Review | Front Microbiol | Experimental and clinical data on tularemia treatment; conjunctivitis is listed among the local presentations |
+| [3317953](https://pubmed.ncbi.nlm.nih.gov/3317953/) | 1987 | Review | Surv Ophthalmol | Review of aminoglycosides in ophthalmology, centred on tobramycin. Streptomycin appears only as the first aminoglycoside discovered |
+| [19941479](https://pubmed.ncbi.nlm.nih.gov/19941479/) | 2010 | Review | Curr Med Chem | Neglected bacterial diseases including Buruli ulcer and trachoma; streptomycin is part of the Buruli ulcer regimen |
+| [38941282](https://pubmed.ncbi.nlm.nih.gov/38941282/) | 2024 | Case report | Am J Case Rep | *F. tularensis* infection causing Parinaud oculoglandular syndrome (granulomatous conjunctivitis) |
+| [15442493](https://pubmed.ncbi.nlm.nih.gov/15442493/) | 1950 | Case report | La Semana Medica | Primary tuberculous conjunctivitis treated with general and local streptomycin |
+| [18132879](https://pubmed.ncbi.nlm.nih.gov/18132879/) | 1949 | Experimental study | Am J Ophthalmol | Effectiveness of streptomycin in experimental *Haemophilus* conjunctivitis (no abstract available) |
+| [13075256](https://pubmed.ncbi.nlm.nih.gov/13075256/) | 1953 | Historical field study | Rev Int Trachome | Streptomycin and chloramine instillations for seasonal conjunctivitis in rural Morocco (no abstract available) |
+| [13075257](https://pubmed.ncbi.nlm.nih.gov/13075257/) | 1953 | Historical field study | Rev Int Trachome | Streptomycin eye-wash compared with aureomycin salve for seasonal conjunctivitis in southern Morocco (no abstract available) |
+| [5289718](https://pubmed.ncbi.nlm.nih.gov/5289718/) | 1971 | Laboratory study | J Hyg | Streptomycin and neomycin used to prevent bacterial contamination when isolating trachoma agent from conjunctival scrapings |
+| [6789462](https://pubmed.ncbi.nlm.nih.gov/6789462/) | 1981 | Case report | S Afr Med J | Brucella keratoconjunctivitis after accidental vaccine splash; systemic treatment included streptomycin |
 
 ---
 
 ## US Market Information
 
-Streptomycin is **not currently marketed** in this jurisdiction — no NDA/license records are on file (0 total licenses).
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA064210 | Streptomycin | Injection, powder, lyophilized, for solution | XGen Pharmaceuticals DJB, Inc. |
+
+The only route on the US market is injectable. No approved indication text is included in the provided record.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Key warnings, contraindications, and drug-interaction data for streptomycin were not available in this evidence pack (flagged as a **Blocking** data gap — DG001: TFDA label warnings/contraindications must be obtained before any S1 safety evaluation can proceed).
+- **Class risks (from the prediction rationale, not from label data)**: Systemic streptomycin carries ototoxicity and nephrotoxicity risks. The literature also records streptomycin-associated labyrinthitis, a vestibular adverse effect.
+
+Please refer to the package insert for warnings, contraindications and drug interaction information.
 
 ---
 
@@ -103,13 +112,16 @@ Please refer to the package insert for safety information. Key warnings, contrai
 **Decision: Hold**
 
 **Rationale:**
-Evidence for streptomycin in conjunctivitis is limited to historical field trials and case reports from the 1940s–1950s (Evidence Level L3), with no modern controlled trials. Progression to a formal safety evaluation (S1) is also blocked by a missing TFDA label/warnings dataset (DG001, Blocking severity), and the drug is not currently marketed in this jurisdiction (0 licenses), which limits regulatory pathways for repurposing.
+The high TxGNN score is not backed by clinical evidence for conjunctivitis. The literature is historical, pathogen-specific (tularemia, tuberculosis) or veterinary/in vitro. The available injectable product does not fit an ocular indication, and safer topical options already exist.
+
+The other nine predicted indications are also on Hold (evidence level L4 or L5). Some, such as inner-ear infection, have evidence pointing toward harm rather than benefit.
 
 **To proceed, the following is needed:**
-- TFDA (or equivalent) package insert/label data — warnings, contraindications, DDI (DG001, Blocking)
-- Structured mechanism-of-action confirmation from DrugBank (DG002, High)
-- Modern comparative safety data given streptomycin's known ototoxicity/nephrotoxicity profile relative to newer aminoglycosides already used ophthalmically (e.g., tobramycin)
-- Clarification of a viable regulatory pathway given the drug's current non-marketed status
+- Package insert warnings and contraindications (the blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Route feasibility assessment, since only an injectable is marketed
+- Comparative efficacy data against current topical standard-of-care agents
+- Clinical trial evidence in bacterial conjunctivitis, or a narrower scope such as oculoglandular tularemia
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

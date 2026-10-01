@@ -29,83 +29,76 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Parathyroid Hormone: From No Approved Indication to Migraine Disorder
+# Parathyroid Hormone: From Its Approved Use to Migraine Disorder
 
 ## One-Sentence Summary
 
-Parathyroid hormone (PTH, DrugBank DB05829) has no recorded approved indication in this evidence pack and is currently **not marketed** (0 licenses on file). The TxGNN model's top prediction suggests possible relevance to **Migraine Disorder**, but this is supported by only **1 clinical trial (unrelated to PTH pharmacology)** and **6 publications**, none of which are direct interventional studies of PTH for migraine treatment.
-
----
+Parathyroid hormone (marketed in the US as NATPARA, BLA125511) is an approved injectable hormone product, but the Evidence Pack does not include its approved indication text.
+The TxGNN model predicts it may be relevant to **migraine disorder**, but the support is thin: **1 registered trial** (unrelated to PTH) and **1 genetic association study** suggesting a possible link through PTH-related peptide receptors.
+No study has tested PTH as a migraine treatment.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not available — no approved indication on file (drug is not marketed) |
-| Predicted New Indication | Migraine Disorder |
+|------|------|
+| Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 99.98% |
-| Evidence Level | L4 (mechanistic/genetic association only, no interventional evidence) |
-| US Market Status | ✗ Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L4 (mechanistic and genetic signal only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 4 records (all the same BLA125511) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action (MOA) data for parathyroid hormone is not available in this evidence pack, and no approved indication or marketing record exists (market status: not marketed, 0 NDAs). Parathyroid hormone is an endogenous polypeptide hormone that regulates calcium and phosphate homeostasis primarily through effects on bone, kidney, and (indirectly, via vitamin D activation) the intestine.
+Currently, detailed mechanism of action data is not available. PTH is a peptide hormone that acts through the PTH receptor and regulates calcium and bone metabolism. The Evidence Pack does not confirm the original indication, so the link between it and migraine cannot be assessed directly.
 
-The TxGNN prediction linking PTH to migraine disorder is based mainly on a 2025 genetic/mechanistic study identifying PTHrP (parathyroid hormone-related peptide) receptor variants as candidate genetic drivers of migraine susceptibility, together with an old (1986) study describing central nervous system effects of calcitonin/parathormone. These are association- or hypothesis-generating findings, not evidence that administering PTH produces a therapeutic effect in migraine patients.
+The only mechanistic hint is a 2025 genetic association study (Brain Communications) linking variants in **PTH-related peptide (PTHrP) receptors** to migraine susceptibility. This is a hypothesis-level signal. It is not evidence that giving PTH would help. It is unclear whether receptor agonism would relieve or worsen migraine.
 
-Importantly, the single registered clinical trial captured for this indication (foot reflexology massage for migraine) has no pharmacological relationship to PTH — it appears to have been matched purely on the shared disease label and should not be treated as supporting clinical evidence. Several of the retrieved publications also concern co-interventions (vitamin D, magnesium, amitriptyline) or comorbid conditions (multiple sclerosis/osteoporosis) rather than PTH treatment itself. Taken together, the underlying mechanistic hypothesis is plausible enough to warrant further research, but there is currently no direct interventional evidence supporting PTH as a migraine treatment.
-
----
+The other retrieved papers are indirect. They concern vitamin D, magnesium and calcium homeostasis in migraine, not PTH treatment. The high TxGNN score is a knowledge-graph prediction only.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT07028684](https://clinicaltrials.gov/study/NCT07028684) | N/A | Completed | 22 | Studies foot reflexology massage (not PTH) for pain, sleep, and quality of life in women with migraine. Captured only through disease-label matching; **not relevant** to PTH pharmacology and should not be counted as supporting clinical evidence. |
-
----
+| [NCT07028684](https://clinicaltrials.gov/study/NCT07028684) | N/A | Completed | 22 | Foot reflexology massage for pain, sleep and quality of life in women with migraine. Non-drug study that does not involve PTH (relevance grade C). |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [40297711](https://pubmed.ncbi.nlm.nih.gov/40297711/) | 2025 | Review/Genetic | Brain Communications | Identifies PTHrP receptor variants as candidate genetic drivers of migraine susceptibility; genetic-association evidence, not a treatment study. |
-| [3739765](https://pubmed.ncbi.nlm.nih.gov/3739765/) | 1986 | Mechanistic (old) | Acta Neurologica | Early study on central effects of calcitonin and parathormone; dated, mechanistic only. |
-| [24714817](https://pubmed.ncbi.nlm.nih.gov/24714817/) | 2014 | RCT | Braz J Med Biol Res | Tests vitamin D + amitriptyline (not PTH) for pediatric migraine attack frequency. |
-| [31261815](https://pubmed.ncbi.nlm.nih.gov/31261815/) | 2019 | Cohort | Medicina (Kaunas) | Evaluates vitamin D levels/therapy (not PTH) in childhood migraine. |
-| [29429076](https://pubmed.ncbi.nlm.nih.gov/29429076/) | 2018 | Review | Neuromolecular Medicine | Reviews cardiovascular autonomic dysfunction linking MS, osteoporosis, and neurodegeneration; migraine relevance is indirect. |
-| [11425281](https://pubmed.ncbi.nlm.nih.gov/11425281/) | 2001 | Review | Medical Hypotheses | General review of magnesium deficiency pathology; not specific to PTH or migraine treatment. |
-
----
+| [40297711](https://pubmed.ncbi.nlm.nih.gov/40297711/) | 2025 | Genetic association study | Brain Communications | PTHrP receptor variants are proposed as genetic drivers of migraine susceptibility. This is the only direct mechanistic signal. |
+| [31261815](https://pubmed.ncbi.nlm.nih.gov/31261815/) | 2019 | Cohort | Medicina (Kaunas) | Vitamin D levels and response to vitamin D therapy in childhood migraine. Indirect, not PTH. |
+| [24714817](https://pubmed.ncbi.nlm.nih.gov/24714817/) | 2014 | Clinical study | Braz J Med Biol Res | Vitamin D added to amitriptyline in 53 children with migraine. Not PTH. |
+| [29429076](https://pubmed.ncbi.nlm.nih.gov/29429076/) | 2018 | Review | Neuromolecular Medicine | Autonomic dysfunction, bone homeostasis and neurodegeneration in multiple sclerosis. Only peripherally relevant. |
+| [11425281](https://pubmed.ncbi.nlm.nih.gov/11425281/) | 2001 | Review | Medical Hypotheses | Magnesium deficiency and its wide-ranging effects. Indirect. |
+| [3739765](https://pubmed.ncbi.nlm.nih.gov/3739765/) | 1986 | Preclinical/Review | Acta Neurologica | Central effects of calcitonin and parathormone. Old, no abstract, no migraine treatment data. |
 
 ## US Market Information
 
-No US marketing authorizations are on file for parathyroid hormone in this evidence pack (0 licenses recorded, market status: not marketed).
+| Authorization Number | Product Name | Dosage Form |
+|---------|------|------|
+| BLA125511 | NATPARA (parathyroid hormone), Takeda Pharmaceuticals America, Inc. | Lyophilized powder for injection |
 
----
+The pack lists four identical BLA125511 records, shown here once. None includes approved indication text.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No key warnings, contraindications, or drug-drug interaction data were available in this evidence pack (DDI query status: not found).
+Please refer to the package insert for safety information.
 
----
+One literature signal is worth noting: a 2016 case report (PMID 26992073) described worsening of calcinosis cutis in two osteoporotic patients with systemic autoimmune disease after teriparatide, a PTH analogue. It is a potential safety signal, not evidence of benefit.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The evidence base for PTH in migraine disorder consists only of genetic-association and mechanistic-level findings (L4), with no direct interventional trial testing PTH for migraine — the sole clinical trial retrieved is a reflexology-massage study unrelated to PTH pharmacology. Critical foundational data (MOA, safety warnings/contraindications) are also flagged as blocking data gaps (DG001, DG002), preventing even an initial safety assessment.
+The prediction rests on a single genetic association paper and a knowledge-graph score. No trial or study tests PTH in migraine, and the direction of effect is unknown. The other nine predicted indications are also L4 or L5, and all are Hold.
 
 **To proceed, the following is needed:**
-- MOA data for parathyroid hormone (DrugBank API query — DG002)
-- Safety warnings/contraindications from an approved product label (DG001, currently blocking)
-- A direct pharmacological or preclinical study testing PTH (or PTH-pathway modulation) specifically in a migraine model, to move beyond genetic-association evidence
-- Re-verification that future clinical trial matches are filtered for drug-relevance, not disease-label co-occurrence alone
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- The approved indication text and mechanism of action data (DrugBank)
+- Functional or preclinical evidence on whether PTH1R/PTHrP agonism helps or worsens migraine
+- Clinical review of whether an injectable hormone with calcium-related risks is plausible for a chronic, non-life-threatening condition
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Iopromide (DB09156) is a non-ionic iodinated X-ray contrast medium used for diagnostic imaging (angiography, CT, urography) — it has no on-file therapeutic indication. TxGNN's top prediction, **Osteoarthritis Susceptibility**, scores **99.57%**, but is supported by **zero clinical trials** and **zero publications**, and the model's own mechanistic rationale flags this as a likely knowledge-graph artifact rather than a genuine repurposing signal.
+Iopromide is an iodinated radiographic contrast agent used in diagnostic imaging (marketed in the US as Ultravist).
+The TxGNN model predicts it may be relevant to **osteoarthritis susceptibility**, but this rests on the graph model alone, with **0 clinical trials** and **0 publications** supporting it.
 
 ---
 
@@ -41,49 +42,54 @@ Iopromide (DB09156) is a non-ionic iodinated X-ray contrast medium used for diag
 
 | Item | Content |
 |------|------|
-| Original Indication | Diagnostic contrast agent for radiographic/CT imaging (no therapeutic indication on record; no Taiwan license found) |
+| Original Indication | Diagnostic contrast imaging (the approved indication text is not listed in the source data) |
 | Predicted New Indication | Osteoarthritis susceptibility |
 | TxGNN Prediction Score | 99.57% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| Market Status | Not marketed (Not Marketed) — 0 licenses on file in Taiwan |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 4 records (all under NDA020220) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (Data Gap). Based on known information, iopromide is a non-ionic iodinated contrast agent whose only established clinical role is as an imaging aid — it is administered to visualize vasculature, organs, or the urinary tract, not to treat disease.
+Currently, detailed mechanism of action data is not available. Iopromide is an iodinated contrast agent. It helps visualize tissues on imaging and is not a disease-modifying drug. It has no documented anti-inflammatory, chondroprotective or immunomodulatory pharmacology.
 
-The predicted indication, "osteoarthritis susceptibility," describes a genetic/risk-factor category rather than a treatable clinical endpoint, and there is no known pharmacological pathway connecting an iodinated contrast agent to joint disease modification. The evidence pack's own rationale is explicit on this point: the high TxGNN score most likely arises from knowledge-graph edges representing "contrast agent used to image a joint/bone condition" being conflated with a therapeutic relationship — a common failure mode for imaging agents in repurposing models.
+The link between the original use and the predicted indication is therefore weak. The high TxGNN score (0.996) appears to reflect shared neighbors in the knowledge graph rather than a therapeutic rationale. The same pattern appears in the other top predictions: osteoarthritis, rheumatoid arthritis, several rare skeletal dysplasias, alopecia and myosclerosis. All of them lack a plausible mechanism.
 
-This pattern holds across the other top-ranked predictions in this evidence pack as well. Rank 2 (osteoarthritis) and rank 3 (rheumatoid arthritis) show the same signature — the only literature hit for rheumatoid arthritis (PMID 19435939) describes using iopromide-enhanced CT to *image* synovitis, not to treat it. Rank 9 (hemoglobinopathy) is more concerning: rather than supporting repurposing, the literature includes a case report (PMID 16628721) of a cerebral vaso-occlusive event following low-osmolar IV contrast in a sickle cell disease patient — a potential harm signal, not a benefit signal. Taken together, none of the top 10 predictions in this pack constitute a plausible repurposing candidate.
+The only nearby literature signals are indirect. A 2009 study used contrast-enhanced CT to image synovitis in rheumatoid arthritis, which is diagnostic use, not treatment. A case report describes a cerebral vaso-occlusive event after low-osmolar contrast in a sickle cell patient, which is a possible harm signal.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
 ---
 
 ## US Market Information
 
-No market authorization is on file for iopromide in Taiwan (0 licenses; market status: Not marketed/Not Marketed). No product/dosage-form data is available to tabulate.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA020220 | Ultravist (Bayer HealthCare Pharmaceuticals Inc.) | Injection | Not listed in the source data |
+
+The source data contains four identical Ultravist injection records under this NDA.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information (key warnings, contraindications, and drug interaction data are not currently on file — DG001, Blocking).
+- **Drug Interactions**: No interaction records were found.
+- **Contrast-agent caution**: One case report (PMID 16628721) describes a cerebral vaso-occlusive event after low-osmolar intravenous contrast in a patient with sickle cell disease. This is a single case and not a confirmed risk, but it calls for caution in some populations.
 
-**Additional signal identified in literature (outside the formal safety dataset):** one case report (PMID 16628721) describes a cerebral vaso-occlusive event in a sickle cell disease patient following low-osmolar IV contrast administration. This surfaced only under the "hemoglobinopathy" prediction branch, not the formal safety fields, but is relevant to any future evaluation of iopromide in patients with hemoglobinopathies and should be tracked alongside the TFDA label review.
+Please refer to the package insert for warnings and contraindications.
 
 ---
 
@@ -92,13 +98,16 @@ Please refer to the package insert for safety information (key warnings, contrai
 **Decision: Hold**
 
 **Rationale:**
-This candidate has no clinical trial or therapeutic literature support (Evidence Level L5), and the evidence pack's own mechanistic analysis concludes the TxGNN score likely reflects contrast-imaging co-occurrence rather than a real drug–disease relationship. A Blocking data gap (TFDA label/warnings, DG001) also prevents any safety pre-screening.
+The prediction is model-only (L5). No trials or literature support it, and there is no plausible pharmacological mechanism for a diagnostic contrast agent in osteoarthritis. The mechanism of action and package-insert safety data are also missing, so the candidate cannot advance past the initial screening stage.
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings/contraindications) to close DG001 before any S1 safety evaluation
-- Confirmed mechanism of action (DG002) to test whether any plausible pharmacological link to osteoarthritis exists
-- Re-scoring or filtering of TxGNN output to account for imaging-agent co-occurrence artifacts, given the same pattern appears across ranks 1–10
-- If pursued further, a targeted safety review of iopromide use in hemoglobinopathy/sickle cell populations given the vaso-occlusive event signal noted above
+- Detailed mechanism of action data (MOA) and the approved indication text
+- Package insert warnings and contraindications
+- A biological rationale connecting iodinated contrast agents to joint or cartilage pathology
+- Preclinical or observational evidence in osteoarthritis
+- A route-of-administration assessment, since only the injectable form is marketed
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,76 +29,67 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Amphetamine: From ADHD / Narcolepsy to Faciodigitogenital Syndrome
+# Amphetamine: From ADHD and Narcolepsy to Faciodigitogenital Syndrome
 
 ## One-Sentence Summary
 
-Amphetamine is a central nervous system stimulant with established global use in attention deficit hyperactivity disorder (ADHD) and narcolepsy, though it carries no approved licenses in Taiwan as of this report's data cutoff.
-The TxGNN model's highest-ranked prediction is **Faciodigitogenital Syndrome** (Aarskog-Scott Syndrome), a rare X-linked developmental disorder caused by FGD1 gene mutations.
-Currently **0 clinical trials** and **0 publications** directly support this repurposing direction, placing it at Evidence Level L5 with a **Hold** recommendation.
-
----
+Amphetamine is a central nervous system stimulant marketed in the US, and the published literature in the pack describes its use for ADHD and narcolepsy.
+The TxGNN model predicts it may be effective for **Faciodigitogenital Syndrome** (a rare X-linked developmental disorder) with a very high score.
+This prediction has **0 clinical trials** and **0 publications** supporting it, so it is a model output only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | ADHD, Narcolepsy (US FDA-approved; no Taiwan license) |
-| Predicted New Indication | Faciodigitogenital Syndrome (Aarskog-Scott Syndrome) |
+| Predicted New Indication | Faciodigitogenital syndrome |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not Marketed |
-| Number of Licenses | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from DrugBank. Based on established pharmacological knowledge, amphetamine is a catecholamine-releasing agent: it promotes presynaptic release of dopamine (DA) and norepinephrine (NE) at central synapses while simultaneously blocking their reuptake transporters (DAT and NET). This dual action enhances prefrontal cortex executive function, working memory, and attentional control — the neurobiological foundation for its approved use in ADHD and narcolepsy.
+Detailed mechanism of action data is currently not available in the Evidence Pack. Amphetamine acts as a monoamine-releasing stimulant, and its efficacy in attention and arousal disorders is established. The supplied license records do not include approved-indication text.
 
-Faciodigitogenital syndrome (Aarskog-Scott syndrome) is caused by loss-of-function mutations in **FGD1**, a gene encoding a Rho guanine nucleotide exchange factor (GEF) that activates the GTPase CDC42. This pathway governs cytoskeletal dynamics and directional cell migration during fetal morphogenesis. Its disruption produces the syndrome's hallmark triad: facial dysmorphia (hypertelorism, broad nasal bridge), brachydactyly with short stature, and genital hypoplasia (shawl scrotum). The FGD1-CDC42 axis operates entirely in the domain of embryonic structural development — a process biologically distinct from catecholaminergic neurotransmission.
-
-No known biological mechanism links amphetamine's DA/NE-releasing action to the FGD1-Rho GEF signaling pathway. The TxGNN score of 99.97% most likely reflects a non-specific generalization through the knowledge graph's "developmental disorder" super-node, rather than a true mechanistic hypothesis. This prediction is assessed as model noise rather than a clinically actionable signal.
-
----
+No plausible link connects the two conditions. Faciodigitogenital syndrome is a rare developmental disorder linked to the FGD1 gene, and nothing in the supplied data suggests that dopamine or norepinephrine release would affect it. The score of 99.97% is best treated as a knowledge-graph artifact until independent evidence appears.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form |
+|---------|------|------|
+| ANDA211861 | Amphetamine Sulfate (Solco Healthcare US, LLC) | Tablet |
+| NDA204326 | Amphetamine Extended-Release (Neos Therapeutics, LP) | Tablet, orally disintegrating |
+| ANDA200166 | Amphetamine Sulfate (Bryant Ranch Prepack) | Tablet |
+| ANDA212901 | Amphetamine Sulfate (Bryant Ranch Prepack) | Tablet |
+| ANDA211139 | Amphetamine Sulfate (Amneal Pharmaceuticals NY LLC) | Tablet |
+
+The 20 authorizations include both NDAs and ANDAs. All available forms are oral (tablet, orally disintegrating tablet, extended-release tablet).
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-> **Important:** Taiwan TFDA package insert data is unavailable for this Evidence Pack (Data Gap DG001, severity: **Blocking**). Full safety review — including controlled substance scheduling, cardiovascular warnings, CNS stimulant effects, dependence potential, and pediatric growth effects — must be conducted from official regulatory sources (TFDA official website, package insert PDF) before any clinical consideration proceeds.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-No preclinical or clinical evidence connects amphetamine to faciodigitogenital syndrome. The high TxGNN score reflects knowledge graph topology rather than biological plausibility — amphetamine's DA/NE neurotransmitter mechanism has no established link to the FGD1-CDC42 developmental signaling pathway responsible for this syndrome, and the prediction is most likely a generalization artifact.
+The prediction rests on a model score alone. There are no trials or publications, and no mechanistic link to a rare FGD1-related developmental disorder.
 
 **To proceed, the following is needed:**
-- Preclinical evidence (in vitro or animal model) demonstrating interaction between catecholaminergic neurotransmission and FGD1/CDC42 signaling
-- At least one published hypothesis or case observation suggesting therapeutic potential in Aarskog-Scott syndrome
-- Retrieval of Taiwan TFDA package insert to resolve the **Blocking** safety data gap (DG001)
-- DrugBank MOA data retrieval to enable full mechanistic analysis (DG002)
-
----
-
-> **Reviewer Note — Priority Redirect:** Among the five predicted indications in this Evidence Pack, **Specific Developmental Disorder** (rank 3, TxGNN score 99.91%, Evidence Level **L3**, decision stage **S2**) presents the strongest actionable repurposing signal. It is supported by 23 clinical trials and 19 literature references, and amphetamine already holds US FDA approval for ADHD — a direct subset of the ICD-10 F80–F89 specific developmental disorder category. A dedicated evaluation report for this indication is recommended as the priority next step before allocating further resources to any other prediction in this pack.
+- Package insert warnings and contraindications, which are currently missing and block safety screening
+- Detailed mechanism of action data
+- Any independent biological or clinical evidence connecting monoamine release to FGD1-related pathology
+- Review of the other TxGNN predictions for this drug. "Specific developmental disorder" (rank 3) likely overlaps with ADHD and neurodevelopmental conditions, so it may be a better research question. Trichotillomania and postural orthostatic tachycardia syndrome appear in the literature as stimulant adverse effects, not benefits.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

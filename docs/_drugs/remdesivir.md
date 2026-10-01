@@ -33,72 +33,60 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 ## One-Sentence Summary
 
-> Remdesivir is a nucleotide prodrug antiviral originally developed and used for COVID-19 (and related viral infections such as Ebola).
-> The TxGNN model's top prediction is **Multiple Endocrine Neoplasia (MEN)**, with a raw prediction score of 99.50%,
-> but **zero clinical trials and zero publications** currently support this specific link — the prediction rationale itself flags this as likely knowledge-graph noise rather than a genuine repurposing signal.
-
----
+Remdesivir (marketed as Veklury) is an intravenous antiviral, and the Evidence Pack's trials and literature center on COVID-19. The TxGNN model predicts it may be effective for **multiple endocrine neoplasia**, but this is a graph-based prediction only, with **0 clinical trials** and **0 publications** supporting it. This is a model artifact rather than a credible repurposing lead.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | COVID-19 (not recorded in local regulatory licenses — drug is not currently marketed in this jurisdiction; based on public/clinical trial record) |
-| Predicted New Indication | Multiple Endocrine Neoplasia |
+| Original Indication | Not stated in the licensing data provided; COVID-19 is inferred from the trials and literature in the pack |
+| Predicted New Indication | Multiple endocrine neoplasia |
 | TxGNN Prediction Score | 99.50% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known information, remdesivir is an adenosine nucleotide prodrug that inhibits the viral RNA-dependent RNA polymerase (RdRp), and its efficacy against SARS-CoV-2 (and Ebola virus) has been established through multiple completed Phase 3 trials.
+Remdesivir is a nucleotide analog prodrug that inhibits viral RNA-dependent RNA polymerase (RdRp). Its known use is against RNA viruses such as SARS-CoV-2. It was also studied for Ebola virus persistence in the PREVAIL IV trial.
 
-For the top-ranked prediction, **Multiple Endocrine Neoplasia (MEN)**, no biologically plausible mechanistic link exists. MEN is a hereditary endocrine tumour syndrome driven by *RET* or *MEN1* gene mutations — an oncogenic/genetic pathway entirely unrelated to viral RdRp inhibition. The evidence pack itself explicitly characterizes this as a likely **false-positive signal from the TxGNN knowledge graph**, with no clinical trials or literature identified to support the association.
+Multiple endocrine neoplasia is a hereditary tumor syndrome (MEN1/RET). It has no viral driver and no RdRp target, so no plausible mechanistic link exists between the two. The high TxGNN score (0.995) most likely reflects knowledge-graph proximity rather than biology, and no trial or publication supports it. The prediction is therefore not considered mechanistically credible.
 
-It is worth noting that a lower-ranked prediction (HIV infectious disease, rank 2) did return 10+ clinical trials and 20 publications, but closer inspection shows nearly all of this evidence actually concerns remdesivir's use in **COVID-19**, not HIV — the model appears to have confused disease categories under a shared "infectious disease" label. This reinforces that, for this candidate, the top-ranked prediction should be treated with caution rather than acted upon.
-
----
+Other predictions for this drug are also weak:
+- **HIV infection (rank 2):** 23 trials and 20 publications were matched, but they are COVID-19 or Ebola studies linked through HIV-related keywords or co-administered antiretrovirals. None test remdesivir as an HIV treatment, and HIV depends on reverse transcriptase rather than RdRp. This is indirect evidence only (L4).
+- **SIV infection, feline AIDS, a rare neurodevelopmental disorder and homozygous familial hypercholesterolemia (ranks 3–6):** No supporting evidence and no plausible mechanism.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
-
----
+Currently no related clinical trials registered for multiple endocrine neoplasia.
 
 ## Literature Evidence
 
-Currently no related literature available.
-
----
+Currently no related literature available for multiple endocrine neoplasia.
 
 ## US Market Information
 
-Remdesivir currently holds no marketing authorization records in this jurisdiction (`total_licenses = 0`, market status: Not Marketed). No license table is available to display.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA214787 | Veklury (Gilead Sciences, Inc.) | Injection, powder, lyophilized, for solution | Not listed in the data provided |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked predicted indication (Multiple Endocrine Neoplasia) has an evidence level of L5 — a model score with no corroborating clinical trials, literature, or plausible mechanism of action. The next-ranked signal (HIV) initially appears stronger (L2) but on inspection reflects a data/label mismatch with COVID-19 evidence rather than genuine HIV-specific support. No indication in this candidate set currently meets a bar sufficient to proceed.
+The prediction has no clinical or literature support and no plausible mechanism, since remdesivir targets viral RdRp and multiple endocrine neoplasia is a hereditary tumor syndrome. The high TxGNN score is likely a graph artifact and does not justify further investment.
 
 **To proceed, the following is needed:**
-- Confirm and document remdesivir's mechanism of action (MOA) from DrugBank or primary literature
-- Obtain TFDA/US labeling data (warnings, contraindications) to clear the blocking safety data gap (DG001)
-- Re-validate the HIV-labeled evidence set to separate true HIV-specific studies from COVID-19-related trials/literature that were miscategorized
-- If pursuing MEN or SIV/FIV signals further, commission a targeted literature/mechanism review before any trial design work, as no supporting evidence currently exists
+- Any direct preclinical or clinical evidence for remdesivir in multiple endocrine neoplasia; none currently exists
+- The FDA package insert warnings and contraindications, which are missing from the pack and block safety screening
+- Detailed mechanism of action data (for example, from DrugBank), to confirm the mechanistic assessment
+- Approved indication text for NDA214787, which is missing from the licensing data
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,29 +29,30 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Lisinopril: From Hypertension/Post-MI Cardioprotection to Posterolateral Myocardial Infarction
+# Lisinopril: From Hypertension to Posterolateral Myocardial Infarction
 
 ## One-Sentence Summary
 
-Lisinopril is a well-established ACE inhibitor (ACEi), historically used for hypertension and post-myocardial-infarction cardioprotection. The TxGNN model's top-ranked prediction for this drug is **posterolateral myocardial infarction**, an anatomically-specific ICD subtype of MI, but this evidence pack currently contains **zero clinical trials and zero publications** directly supporting this exact prediction — the score most likely reflects a known ACEi class effect combined with knowledge-graph disease-ontology granularity, rather than an independently verified new signal.
+Lisinopril is an ACE inhibitor that is already marketed in the US as an antihypertensive.
+The TxGNN model predicts it may be effective for **posterolateral myocardial infarction**, but **no clinical trials and no publications** were retrieved for this indication, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension / post-MI cardioprotection (established ACEi class use; no TFDA license record exists in this pack to confirm approved label text — see Market Information below) |
+| Original Indication | Hypertension (from the pack's rationale text; the license indication text is empty) |
 | Predicted New Indication | Posterolateral myocardial infarction |
 | TxGNN Prediction Score | 99.90% |
-| Evidence Level | L4 (mechanism-only; no direct trial or literature match) |
-| Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available for lisinopril in this evidence pack (data gap DG002, severity High). Based on the information available, lisinopril is an ACE inhibitor, and its use in reducing post-myocardial-infarction ventricular remodeling and mortality is an established pharmacological class effect, referenced in historical RCTs such as GISSI-3.
+Currently, detailed mechanism of action data is not available. Based on known information, lisinopril is an ACE inhibitor. It is established in cardiovascular use, and mechanistically it may be applicable to myocardial infarction.
 
-The predicted new indication, posterolateral myocardial infarction, is not a distinct disease mechanism but an anatomical subtype of MI within the ICD ontology. Mechanistically, lisinopril's known post-MI cardioprotective effect would plausibly extend to this subtype the same way it applies to MI generally. However, no clinical trial or publication in this evidence pack directly addresses this specific anatomical subtype — the same pattern repeats for the equally-ranked "posteroinferior" and "septal" MI subtypes (ranks 2 and 7). This strongly suggests the prediction is driven by the knowledge graph splitting "myocardial infarction" into many fine-grained anatomical entities rather than by a genuine, independently evidenced new indication.
+ACE inhibition reduces angiotensin II-mediated remodeling and afterload, which is plausible after a heart attack. However, lisinopril's labeled use in acute MI is not evidence for this specific anatomical subtype. Posteroinferior MI has an identical score (99.90%), which suggests both come from the same graph neighborhood and are not independent findings. Septal MI is closely related and scores 99.88%. The high score most likely reflects a general MI association in the knowledge graph.
 
 ## Clinical Trial Evidence
 
@@ -61,9 +62,17 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
-## Market Information
+## US Market Information
 
-No license records are present in this dataset (0 licenses). The drug is recorded as "Not Marketed" in the underlying regulatory source used for this pack. This status is worth an independent data-quality check, since lisinopril is a long-established, widely marketed generic ACE inhibitor globally — the "Not Marketed" / 0-license result may reflect a gap in the source data pipeline rather than actual market absence.
+The pack shows 20 licenses in total. The five main ones are listed below. Approved-indication text was not provided for any of them.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA076180 | Lisinopril | Tablet | Proficient Rx LP |
+| ANDA075903 | Lisinopril | Tablet | XLCare Pharmaceuticals Inc. |
+| ANDA075903 | Lisinopril | Tablet | Legacy Pharmaceutical Packaging, LLC |
+| NDA019777 | Zestril | Tablet | Upsher-Smith Laboratories, LLC |
+| NDA019777 | Zestril | Tablet | Upsher-Smith Laboratories, LLC |
 
 ## Safety Considerations
 
@@ -74,13 +83,13 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-No clinical trial or literature evidence directly supports posterolateral myocardial infarction as a distinct new indication for lisinopril; the signal is most plausibly an artifact of disease-ontology granularity layered on top of a known ACEi class effect. In addition, blocking data gap DG001 (TFDA label warnings/contraindications) means this candidate cannot yet clear the S1 safety screening stage.
+The prediction is model-only (L5), with no trials or literature for this subtype. It is also a subtype of a condition lisinopril is already labeled for, so the repurposing value is low. Among the other ten predictions, chronic pulmonary heart disease (rank 9) has the most supporting evidence. It is rated L3 with two lisinopril-specific clinical reports (PMID 14524095 and PMID 17047621), although their design and size are unverified.
 
 **To proceed, the following is needed:**
-- TFDA package insert / warnings & contraindications data (DG001, blocking)
-- Drug mechanism-of-action detail from DrugBank (DG002)
-- Verification of the "Not Marketed / 0 NDAs" market status, which is inconsistent with lisinopril's known global marketing history
-- Consider reprioritizing evaluation toward **chronic pulmonary heart disease** (rank 9 in this pack): it reached evidence level L3 / stage S2 ("Research Question") with 5 clinical trials and 8 publications, including two studies directly testing lisinopril in chronic cor pulmonale/pulmonary hypertension (PMID 17047621, PMID 14524095) — a substantially stronger candidate than the top-ranked MI-subtype prediction.
+- Package insert warnings and contraindications (blocking data gap; safety screening cannot start without them)
+- Mechanism of action data from DrugBank
+- A subtype-specific search for posterolateral MI trials and literature, including whether existing MI evidence already covers it
+- Consideration of moving the chronic pulmonary heart disease candidate forward first. This requires full-text appraisal of the two lisinopril reports, including bias, hypotension and renal function
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

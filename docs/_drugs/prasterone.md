@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Prasterone: From No Documented Indication to Heparin Cofactor 2 Deficiency
+# Prasterone: From Marketed Hormone Products to Heparin Cofactor 2 Deficiency
 
 ## One-Sentence Summary
 
-> Prasterone (DHEA, DrugBank DB01708) currently has no marketed formulation and no approved indication on file in this evidence pack.
-> The TxGNN model predicts a possible link to **Heparin Cofactor 2 Deficiency**, with a very high computational score (99.99%),
-> but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a pure model output with no biological or clinical corroboration.
+Prasterone (DHEA, an adrenal androgen precursor) is marketed in the US as a vaginal insert and as several liquid products.
+The TxGNN model predicts it may be effective for **heparin cofactor 2 deficiency**, but **no clinical trials and no publications** support this prediction.
+It is a model-only signal, and the mechanism is implausible for an inherited serpin deficiency.
 
 ---
 
@@ -43,41 +43,52 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented (no marketing licenses or MOA data on file) |
-| Predicted New Indication | Heparin Cofactor 2 Deficiency |
+| Predicted New Indication | Heparin cofactor 2 deficiency |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 9 licenses listed (only 1 distinct NDA number: NDA208470) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for Prasterone in this evidence pack (flagged as a High-severity data gap — DG002). No original approved indication is on file either, so there is no established pharmacological baseline from which to assess relevance to the predicted indication.
+Currently, detailed mechanism of action data is not available for prasterone, and the source data lists no approved indication text. The prediction therefore cannot be tied to a known mechanism.
 
-For the top-ranked prediction, the model itself flags the disconnect: heparin cofactor 2 deficiency is an extremely rare coagulation disorder, and there is no literature exploring any relationship between DHEA and heparin cofactor II activity. The TxGNN score is high purely on knowledge-graph topology — it reflects a statistical association within the graph, not a validated or hypothesized biological mechanism. Without MOA data or any supporting evidence, biological plausibility cannot currently be established for this specific indication.
+Heparin cofactor 2 deficiency is an inherited deficiency of a serpin, a coagulation inhibitor. Prasterone is an androgen precursor, and nothing in the supplied data suggests it could correct or compensate for this defect. The high score (0.9999) is a knowledge-graph association only.
 
-It's worth noting that two other predictions in this pack — **thrombophilia** (rank 4) and **scleroderma** (rank 7) — do have supporting observational literature (androgen levels correlating with disease severity), and are staged further along (L4/S1, "Research Question") than the top-ranked candidate. These may be more productive directions for further review, though they are not the focus of this report per the ranking convention.
+Sex-steroid exposure is generally a thrombotic-risk consideration rather than a benefit in prothrombotic states. The direction of any effect is therefore unclear and may be unfavourable.
+
+The other top-10 predictions are mostly coagulation or platelet disorders (factor 5 excess, antithrombin deficiency type 2, protein S deficiency, pseudo-von Willebrand disease, platelet release disorder). They likewise have no trials or literature. Two predictions have some indirect literature:
+
+- **Thrombophilia** (rank 4, L4): four indirect papers, none testing prasterone as a treatment.
+- **Scleroderma** (rank 7, L4): six observational papers consistently show low DHEA-S in systemic sclerosis. This is a coherent hypothesis, but these are biomarker association studies, not interventions with prasterone. It is the only prediction tagged "Research Question".
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
 ---
 
 ## US Market Information
 
-No marketing authorizations are currently on file for Prasterone. Market status is recorded as **Not Marketed**, with 0 total licenses.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|------|
+| NDA208470 | Intrarosa (listed twice in the source data) | Insert | Millicent US, Inc. |
+| No number listed | DHEA | Liquid | Deseret Biologicals, Inc. |
+| No number listed | DHEA Forte | Liquid | BioActive Nutritionals, Inc. |
+| No number listed | Kidney/Ovarian/Adrenal Drops | Liquid | Professional Complementary Health Formulas |
+
+Only the first 5 of the 9 listed licenses are shown here.
 
 ---
 
@@ -85,7 +96,8 @@ No marketing authorizations are currently on file for Prasterone. Market status 
 
 Please refer to the package insert for safety information.
 
-*(All safety fields — key warnings, contraindications, and drug-drug interactions — are currently data gaps; TFDA labeling review is flagged as a Blocking gap, DG001.)*
+- **Drug interactions:** No interaction records were found in the queried source.
+- **Thrombotic risk:** Androgen and estrogen exposure may raise thrombotic risk, so a safety review is needed before any efficacy question is pursued in coagulation disorders.
 
 ---
 
@@ -94,13 +106,15 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high, but it is unsupported by any clinical trials or literature, and the drug itself lacks both MOA and original-indication data needed to assess biological plausibility. This does not meet the threshold to proceed.
+The prediction rests on a model score alone (L5), with no trials, no literature, and no plausible mechanism for an inherited coagulation-inhibitor deficiency. A prothrombotic safety concern also argues against pursuing it.
 
 **To proceed, the following is needed:**
-- TFDA/FDA label (warnings, contraindications) — currently a **Blocking** gap (DG001)
-- Mechanism of action data from DrugBank — currently a **High**-severity gap (DG002)
-- Any mechanistic or preclinical rationale connecting DHEA to hemostasis/coagulation cofactor pathways
-- If pursuing further, consider prioritizing **thrombophilia** or **scleroderma** instead, given their existing (though still non-interventional) literature base
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Any mechanistic or clinical evidence linking prasterone to heparin cofactor 2 deficiency
+- If a lead is wanted, redirect effort to the scleroderma hypothesis: a review of DHEA-S deficiency data and a proof-of-concept study design
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

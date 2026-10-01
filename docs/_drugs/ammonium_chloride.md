@@ -29,77 +29,62 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Ammonium Chloride: From Expectorant Use to Acute Laryngopharyngitis
+# Ammonium Chloride: From an Unlisted Original Indication to Acute Laryngopharyngitis
 
 ## One-Sentence Summary
 
-Ammonium Chloride is a traditional expectorant agent with a long history of use in respiratory symptom relief, primarily acting to thin and mobilize respiratory secretions.
-The TxGNN model predicts it may be effective for **Acute Laryngopharyngitis**,
-however with **0 clinical trials** and **0 publications** currently supporting this specific direction, evidence remains at the model-prediction level only.
-
----
+Ammonium chloride is marketed in the US in smelling salts, homeopathic pellets and similar products, and is known in general pharmacology as an oral expectorant. No approved indication text is recorded in the Evidence Pack.
+The TxGNN model predicts it may be effective for **acute laryngopharyngitis**, but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Expectorant (respiratory secretion facilitation) |
-| Predicted New Indication | Acute Laryngopharyngitis |
+|------|------|
+| Original Indication | Not recorded (no approved indication text in the US licence data) |
+| Predicted New Indication | Acute laryngopharyngitis |
 | TxGNN Prediction Score | 99.94% |
 | Evidence Level | L5 |
-| US Market Status | Not marketed in Taiwan (no regulatory records found) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from DrugBank for this compound. Based on established pharmacological knowledge, Ammonium Chloride is a classical expectorant that works by stimulating the gastric-pulmonary vagal reflex, promoting secretion from bronchial and upper airway mucosal glands, thereby reducing mucus viscosity and facilitating clearance.
+Currently, detailed mechanism of action data is not available. Based on known information, ammonium chloride is used as an expectorant in cough and cold preparations. It is thought to irritate the gastric mucosa and reflexively increase respiratory tract fluid secretion. Mechanistically, this may be relevant to upper airway conditions.
 
-Acute laryngopharyngitis is characterized by inflammation of the laryngeal and pharyngeal mucosa, accompanied by mucus accumulation and irritative cough. The pro-secretory and mucolytic mechanism of Ammonium Chloride is theoretically relevant to this pathology — by reducing mucosal dryness and thinning accumulated secretions, it could plausibly alleviate the foreign-body sensation and irritation characteristic of acute laryngopharyngitis.
+The link to acute laryngopharyngitis is plausible but unverified. Expectorant activity does not establish benefit for inflammation of the larynx and pharynx. The very high TxGNN score is a model output only and has no trial or literature evidence behind it. The connection should be treated as hypothesis-level.
 
-However, this mechanistic link is based entirely on pharmacological analogy. The TxGNN high score (0.9994) most likely originates from co-occurrence relationships between Ammonium Chloride and upper respiratory disease nodes in the knowledge graph, rather than from direct clinical evidence. No clinical trials or peer-reviewed literature specifically addressing this indication were identified during the evidence search.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
+A second prediction, **nasal cavity disease** (score 99.94%), has the same limitations. It is also evidence level L5 with a Hold recommendation. The term is too broad to frame a testable question, and would need to be narrowed (for example, to rhinitis or sinusitis) first.
 
 ## US Market Information
 
-Ammonium Chloride has no regulatory approval records in the Taiwan FDA database. No NDA or license information is available for tabulation.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Not listed | Bardown Smelling Salts | Liquid | Not listed |
+| Not listed | Ammonium Muriaticum | Pellet | Not listed |
+| 505G(a)(3) | LRNASH SMELLING SALTS | Granule | Not listed |
+| Not listed | Ammonium carbonicum | Pellet | Not listed |
+| Not listed | Ammonium Muriaticum | Pellet | Not listed |
 
----
+Other dosage forms in the data include an inhalant and a soluble oral tablet.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN model assigns a high prediction score (99.94%), suggesting a plausible mechanistic connection between Ammonium Chloride's expectorant properties and acute laryngopharyngitis; however, the complete absence of clinical trials, published literature, and regulatory approval records means this candidate rests entirely on model inference with no empirical clinical validation. Advancing without foundational safety and efficacy data would not be appropriate.
+The prediction is model-only (L5). It has no registered trials or publications, no curated mechanism of action, and no recorded original indication. The expectorant rationale is plausible but does not support laryngopharyngeal benefit.
 
 **To proceed, the following is needed:**
-- Full mechanism of action (MOA) documentation from DrugBank or primary literature
-- Package insert warnings and contraindication data (currently unavailable — the TFDA label PDF should be retrieved and parsed to fill this critical gap)
-- At minimum one exploratory clinical study or well-designed observational study demonstrating efficacy signals in acute laryngopharyngitis or a closely related upper airway inflammatory condition
-- A clear disease subtype definition for any proposed trial — acute laryngopharyngitis must be distinguished from allergic, viral, and bacterial subtypes to enable a coherent study population
-- Assessment of appropriate dosage form and route of administration for upper airway delivery
+- The package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data, for example from DrugBank
+- A literature and trial search targeted at ammonium chloride in pharyngitis or laryngitis
+- Clarification of the original indication, given that the marketed products are mostly smelling salts and homeopathic items
+- Narrowing of the "nasal cavity disease" term before that prediction is pursued
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

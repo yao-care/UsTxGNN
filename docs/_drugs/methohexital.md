@@ -29,55 +29,81 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Methohexital: From General Anesthesia Induction to Insomnia
+# Methohexital: From Anesthesia Induction to Insomnia
 
 ## One-Sentence Summary
 
-Methohexital is an ultra-short-acting IV barbiturate anesthetic, used clinically mainly for anesthesia induction (notably electroconvulsive therapy, ECT). The TxGNN model predicts it may be effective for **Insomnia**, but this ranking currently has **zero clinical trials** and **zero publications** supporting it — the prediction score is high, but the evidence behind it is empty.
+Methohexital is an ultra-short-acting intravenous barbiturate anesthetic, marketed in the US as Brevital Sodium and as generic injections.
+The TxGNN model predicts it may be effective for **insomnia**, but **0 clinical trials** and **0 publications** currently support this direction.
+The prediction rests on the model score alone.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not formally recorded — no US license found; known clinical use is IV anesthesia induction (commonly for ECT), based on evidence-pack context |
-| Predicted New Indication | Insomnia (disease) |
+| Original Indication | Intravenous anesthesia (the US license records provide no indication text) |
+| Predicted New Indication | Insomnia |
 | TxGNN Prediction Score | 99.88% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 3 (1 NDA and 2 ANDA entries) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (marked as a Data Gap). Based on information present elsewhere in this evidence pack, methohexital is an ultra-short-acting barbiturate general anesthetic, used clinically as an induction agent — most notably for ECT — with an effect duration of only a few minutes.
+Detailed mechanism of action data is not available in the record. Methohexital is a barbiturate, and this class enhances GABA-A receptor activity, which is biologically consistent with sedation. That gives the insomnia prediction a plausible pharmacological basis.
 
-On mechanistic grounds, barbiturates as a class enhance GABA-A receptor activity, which is the same broad mechanism used by sedative-hypnotics for insomnia, and this is likely why TxGNN scored the drug/disease pair highly. However, this analogy does not hold up pharmacokinetically: methohexital's ultra-short duration of action and IV-only administration make it fundamentally unsuited to sustained sleep induction/maintenance, which is what insomnia treatment requires. No clinical trial or published literature searches (ClinicalTrials.gov, ICTRP, PubMed) returned any results for methohexital + insomnia.
+The practical fit is poor, though. Methohexital is an ultra-short-acting drug given only by injection. Its short duration and intravenous route make it impractical for chronic insomnia, which needs a convenient, sustained-effect treatment such as an oral drug. The very high model score (0.999) is a prediction only, and nothing in the retrieved evidence confirms it.
 
-For context, other lower-ranked TxGNN predictions for this drug (migraine disorder, headache disorder) at least have case-report/case-series-level literature — though describing methohexital/ECT as a trigger of headache, not a treatment for it. The insomnia prediction, by contrast, has no supporting evidence of any kind; it should be treated as a pharmacological-class artifact of the model rather than a validated signal.
+Other predicted indications for this drug include migraine and headache disorders. The retrieved literature for those links anesthesia and electroconvulsive therapy (ECT) to headache, most likely as an adverse event, not as a treatment effect.
+
+---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
+
+---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
+
+---
+
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA011559 | Brevital Sodium (Par Health USA, LLC) | Injection, powder, lyophilized, for solution | Not provided in the record |
+| ANDA215488 | Methohexital Sodium (OneSource Specialty Pharma Limited) | Injection | Not provided in the record |
+| ANDA215488 | Methohexital Sodium (Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.) | Injection | Not provided in the record |
+
+---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Despite a high TxGNN score, this prediction has no clinical trial or literature support (Evidence Level L5) and is mechanistically implausible given methohexital's ultra-short IV pharmacokinetics, which are incompatible with insomnia treatment. The drug is also not currently marketed in the reference jurisdiction.
+The insomnia prediction is supported only by a model score, with no clinical trials or publications. The drug's ultra-short action and intravenous-only use also make it a poor fit for chronic insomnia.
 
 **To proceed, the following is needed:**
-- TFDA/FDA label warnings and contraindications (currently a blocking data gap)
-- Mechanism of action (MOA) data from DrugBank or primary literature
-- Any preclinical or mechanistic studies specifically linking methohexital to sleep induction/maintenance, before this candidate can be re-scored above L5
+- Package insert warnings and contraindications, which are required before any safety screening
+- Detailed mechanism of action data
+- Any clinical or preclinical evidence of benefit in insomnia
+- An assessment of whether an injectable, ultra-short-acting drug can meet the route and duration needs of insomnia treatment
+- Review of the migraine and headache signals, which so far appear to reflect adverse events around anesthesia
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

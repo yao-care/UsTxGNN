@@ -29,41 +29,36 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-Using `txgnn-pipeline` to check relevant pipeline conventions — confirmed. Now generating the evaluation report based on the Evidence Pack.
-
----
-
 # Benznidazole: From Chagas Disease to Congenital Analbuminemia
 
 ## One-Sentence Summary
 
-Benznidazole is a nitroimidazole antiparasitic drug used as the primary treatment for Chagas disease (American trypanosomiasis), caused by *Trypanosoma cruzi*.
-The TxGNN model predicts it may be effective for **Congenital Analbuminemia**, a rare genetic disorder characterized by near-absent serum albumin due to *ALB* gene mutation.
-Currently, there are **no clinical trials** and **no published studies** supporting this predicted direction, placing this at the lowest evidence level.
+Benznidazole is an oral nitroimidazole antiprotozoal, originally used to treat Chagas disease.
+The TxGNN model predicts it may be effective for **congenital analbuminemia**, but there are **0 clinical trials** and **0 publications** supporting this direction, so it is a model prediction only.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Chagas disease (American trypanosomiasis) — not registered in Taiwan |
-| Predicted New Indication | Congenital Analbuminemia |
+|------|------|
+| Original Indication | Chagas disease (the license record has no indication text; taken from the drug's known use) |
+| Predicted New Indication | Congenital analbuminemia |
 | TxGNN Prediction Score | 99.51% |
 | Evidence Level | L5 |
-| Market Status (Taiwan) | ✗ Not marketed |
-| Number of Licenses | 0 |
-| Recommended Decision | **Hold** |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 license records (both under NDA209570) |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the regulatory dataset. Based on known pharmacological information, Benznidazole is a nitroimidazole derivative whose active metabolites generate reactive free radicals through the parasite's electron transport chain, directly damaging *Trypanosoma cruzi* DNA and proteins. It has also demonstrated secondary anti-inflammatory properties in Chagas cardiomyopathy research, with observed downregulation of IL-6 and TNF-α — suggesting a degree of immune modulation beyond its primary antiparasitic action.
+Currently, detailed mechanism of action data is not available. Benznidazole is a nitroimidazole antiprotozoal. Its activity is generally understood to depend on activation by parasite nitroreductases, which generate reactive metabolites that damage the parasite.
 
-Congenital analbuminemia is a rare autosomal recessive disorder caused by loss-of-function mutations in the *ALB* gene, resulting in extremely low or absent serum albumin produced by hepatocytes. The pathophysiology is fundamentally one of impaired gene expression and protein synthesis — a cellular pathway with no known intersection with nitroimidazole pharmacology. While Benznidazole's anti-inflammatory properties are real, they arise specifically within the context of chronic *T. cruzi* infection, and have not been demonstrated to influence albumin synthesis in any model system.
+Congenital analbuminemia is a rare genetic disorder caused by mutations in the albumin gene (*ALB*). No known pathway connects benznidazole to it. The drug does not act on albumin synthesis, and it has no known effect on the underlying genetic defect. The high score (99.51%) is not backed by any trial or publication, so it should be treated as a possible knowledge-graph artifact rather than a real signal.
 
-The mechanistic rationale for this repurposing prediction is therefore considered very weak. The high TxGNN score (99.51%) most likely reflects a distant knowledge graph path — such as "drug metabolism → protein processing → liver proteins" — rather than a genuine therapeutic relationship. This is consistent with the complete absence of supporting clinical trials or literature, and should be treated as a potential false positive in the model output.
+The other two top predictions show the same pattern. Polyclonal hyperviscosity syndrome and hyperamylasemia both score 99.32% and both have no supporting evidence. Their identical scores suggest a shared graph-neighborhood effect rather than independent signals.
 
 ---
 
@@ -79,6 +74,16 @@ Currently no related literature available.
 
 ---
 
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA209570 | Benznidazole (Exeltis USA, Inc.) | Tablet (oral) | Not provided in the record |
+
+The Evidence Pack contains two license records with the same NDA number and identical details. They are shown here as one entry.
+
+---
+
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
@@ -90,13 +95,13 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-Despite a high TxGNN prediction score, there is no plausible mechanistic link between Benznidazole's antiparasitic or anti-inflammatory actions and the treatment of congenital analbuminemia — a rare genetic condition that currently has no approved pharmacological therapy and would require gene-level or protein-replacement approaches. The evidence level is L5 (model prediction only), with zero supporting clinical or preclinical data.
+The prediction rests only on a model score. There is no mechanistic link, no clinical trial and no publication, so the evidence level is L5. The drug's mechanism and safety data are also missing from the input.
 
 **To proceed, the following is needed:**
-- Establish a biologically credible hypothesis linking nitroimidazole activity (free radical generation, electron transport chain disruption, or immune modulation) to *ALB* gene expression or hepatocyte albumin synthesis
-- Conduct a knowledge graph path audit to determine whether the TxGNN prediction is driven by a meaningful biological signal or by distant graph noise
-- Review any in vitro data on Benznidazole's effects on hepatocyte protein synthesis or albumin secretion
-- If a mechanistic hypothesis can be formed, design a cell-based (hepatocyte) proof-of-concept experiment before considering any clinical development
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- A biologically plausible mechanism linking benznidazole to *ALB* deficiency, or to any predicted indication, backed by at least preclinical evidence
+- A literature and trial search in disease-specific sources to confirm that no supporting evidence exists
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

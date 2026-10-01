@@ -33,65 +33,69 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 ## One-Sentence Summary
 
-> Olopatadine is an antihistamine/mast cell stabilizer with known clinical use in allergic conjunctivitis, though no formal indication record is available in this evidence pack.
-> The TxGNN model predicts a possible association with **Rosacea Conjunctivitis**,
-> but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a model-only signal.
-
----
+Olopatadine is an antihistamine marketed in the US mainly as an ophthalmic solution. Its indication text is not recorded in this Evidence Pack, but the prediction rationale describes it as an eye drop for allergic conjunctivitis.
+The TxGNN model predicts it may be effective for **rosacea conjunctivitis**.
+Currently **no clinical trials and no publications** support this direction, so it is a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not formally recorded (drug not marketed in the US/Taiwan); known clinical use is allergic conjunctivitis per mechanistic rationale |
-| Predicted New Indication | Rosacea Conjunctivitis |
+| Original Indication | Not listed in the record (the rationale describes allergic conjunctivitis) |
+| Predicted New Indication | Rosacea conjunctivitis |
 | TxGNN Prediction Score | 99.41% |
-| Evidence Level | L5 (model prediction only, no clinical trials or literature) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (the five listed are ANDAs) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action (MOA) data is not available for olopatadine. Based on known information, olopatadine is an antihistamine/mast cell stabilizer class drug, with established clinical use in allergic conjunctivitis. Its efficacy in that setting is well documented in general clinical practice, though no formal Taiwan/US indication record exists in this evidence pack.
+Detailed mechanism of action data is not available in the record. Based on the prediction rationale, olopatadine is a selective H1 receptor antagonist and mast cell stabilizer. Its efficacy in allergic conjunctivitis is established.
 
-"Rosacea conjunctivitis" is not a standard, single clinical entity — it appears to be a knowledge-graph label that may correspond to ocular manifestations of rosacea (ocular rosacea), a condition with overlapping features to allergic/inflammatory conjunctivitis. The mechanistic link here is based purely on drug-disease embedding similarity within the TxGNN model, without corroborating MOA data or original-indication confirmation. Given the absence of both original indication data and MOA detail, the biological rationale for this specific prediction cannot be independently verified at this time.
+Ocular rosacea is a chronic inflammatory disease of the ocular surface. It is driven mainly by meibomian gland dysfunction and innate immune activation, and possibly by mast cell activity. Olopatadine's anti-histamine and mast-cell-stabilizing effects could plausibly reduce ocular surface inflammation and itching.
 
----
+This link is an inference, not evidence. The high score may partly reflect the disease's proximity to allergic and inflammatory conjunctivitis nodes in the knowledge graph rather than a rosacea-specific signal. The mechanism could not be checked against the source record.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
----
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA219557 | Olopatadine Hydrochloride (Glenmark Therapeutics) | Solution | Not listed in record |
+| ANDA209995 | Olopatadine Hydrochloride (Allwell Health) | Solution | Not listed in record |
+| ANDA213514 | Olopatadine HCl (Rugby Laboratories) | Solution/Drops | Not listed in record |
+| ANDA209420 | Olopatadine Hydrochloride (Alembic Pharmaceuticals) | Solution/Drops | Not listed in record |
+| ANDA204812 | Olopatadine Hydrochloride (Harris Teeter) | Solution | Not listed in record |
+
+Other dosage forms on record include a metered spray. Route compatibility with the predicted indication has not been assessed.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This prediction is evidence level L5 — supported only by the TxGNN model score, with zero clinical trials or literature backing it, and a Blocking-severity data gap on TFDA safety labeling. There is insufficient basis to advance this candidate.
+The prediction rests on the model score alone (Level L5). There are no registered trials or publications, and the record lacks original indications, mechanism data and safety information.
 
 **To proceed, the following is needed:**
-- TFDA/FDA package insert data (warnings, contraindications) — currently a Blocking gap
-- Confirmed original indication and MOA from DrugBank or regulatory source
-- Clarification of "rosacea conjunctivitis" as a clinical entity (e.g., confirm whether it maps to ocular rosacea)
-- Literature or preclinical evidence establishing a mechanistic link between olopatadine and rosacea-associated conjunctivitis
-- At minimum, observational or case-level evidence before moving beyond S0/Hold
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Confirmed original indications and mechanism of action from DrugBank
+- A literature and trial search specific to ocular rosacea and mast cell or histamine involvement
+- Route and formulation compatibility assessment (ophthalmic use for the new indication)
+- Similarity analysis between the original and predicted indications
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

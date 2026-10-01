@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Ropivacaine
-parent: High Evidence (L1-L2)
+parent: Moderate Evidence (L3-L4)
 nav_order: 1135
-evidence_level: L2
+evidence_level: L3
 indication_count: 4
 ---
 
 # Ropivacaine
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **4** 
+Evidence Level: **L3** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,11 @@ Evidence Level: **L2** | Predicted Indications: **4**
 
 </div>
 
-# Ropivacaine: From Regional Anesthesia to Migraine Disorder
+# Ropivacaine: From Local Anesthesia to Migraine Disorder
 
 ## One-Sentence Summary
 
-> Ropivacaine is an amide-type local anesthetic conventionally used for regional and local nerve block anesthesia and postoperative pain control.
-> The TxGNN model predicts it may be effective for **Migraine Disorder** (via nerve block procedures such as sphenopalatine and stellate ganglion block),
-> with **4 clinical trials** and **6 publications** currently supporting this direction — though evidence quality is mixed and largely procedural rather than pharmacological.
+Ropivacaine is an amide local anesthetic, marketed in the US as injectable solutions. The TxGNN model predicts it may be useful for **migraine disorder**, mainly as regional nerve blocks or injections. Support is limited: **4 clinical trials** (only 1 uses ropivacaine specifically) and **6 publications** (2 cohort studies on ropivacaine or stellate ganglion block, 1 cohort on SPG block, and case reports or series), all early-stage or observational.
 
 ---
 
@@ -43,23 +41,23 @@ Evidence Level: **L2** | Predicted Indications: **4**
 
 | Item | Content |
 |------|------|
-| Original Indication | Local/regional anesthesia (based on known drug class; official approved indication text not available — Data Gap DG001) |
-| Predicted New Indication | Migraine Disorder |
+| Original Indication | Not listed in the source data (the approved indication text is empty). Ropivacaine is an amide local anesthetic. |
+| Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 99.65% |
-| Evidence Level | L2 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L3 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the evidence pack (Data Gap DG002). Based on established pharmacology, ropivacaine is an amide-type local anesthetic that blocks voltage-gated sodium channels to inhibit neural conduction. It is well established as a regional/local anesthetic agent, commonly delivered via nerve block, epidural, or infiltration techniques.
+Currently, detailed mechanism of action data is not available in the record. Based on known information, ropivacaine belongs to the amide local anesthetic class, which blocks voltage-gated sodium channels and transiently interrupts nerve conduction. Its efficacy as a regional anesthetic is established, and mechanistically it may be applicable to migraine.
 
-The mechanistic rationale for migraine is that sodium-channel blockade, when applied at specific anatomical targets — the sphenopalatine ganglion (SPG), stellate ganglion, or paraspinal/trigger-point regions — can interrupt trigeminovascular signaling and central sensitization pathways implicated in migraine pathogenesis. This is a biologically plausible mechanism supported by multiple procedural studies.
+The proposed link is procedural and local, not systemic. In migraine, a ropivacaine block would target the sphenopalatine ganglion, stellate ganglion, paraspinal muscles or tender trigger points. These blocks are thought to modulate trigeminovascular and sympathetic pain pathways.
 
-However, this repurposing candidate differs from a typical systemic-drug repurposing case: the evidence here evaluates ropivacaine as **part of an interventional nerve-block procedure**, not as a standalone pharmacotherapy. The rationale for the second predicted indication (migraine with brainstem aura) explicitly notes that its only supporting literature is a case report of an adverse event (Horner's syndrome), not a treatment result, and should not be considered mechanistic support. Efficacy attribution therefore needs to be evaluated together with procedural technique, not drug pharmacology alone.
+The high TxGNN score is consistent with this rationale, but it is a model prediction, not clinical proof. The published work mostly involves other anesthetics or non-drug-specific blocks, so ropivacaine's own contribution is not yet separated out.
 
 ---
 
@@ -67,10 +65,10 @@ However, this repurposing candidate differs from a typical systemic-drug repurpo
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT03666663](https://clinicaltrials.gov/study/NCT03666663) | Phase 4 | Completed | 10 | RCT of sphenopalatine ganglion (SPG) block with local anesthetic vs. placebo for migraine prevention; directly targets migraine population but severely underpowered (n=10) |
-| [NCT00680823](https://clinicaltrials.gov/study/NCT00680823) | N/A | Completed | 150 | Paraspinal intramuscular ropivacaine injection evaluated for pediatric headache in an emergency department; broader headache population, not adult migraine specifically |
-| [NCT05301387](https://clinicaltrials.gov/study/NCT05301387) | N/A | Completed | 38 | SPG block vs. placebo, but studies post-dural puncture headache (PDPH) rather than migraine — mechanistically related, not the same disease entity |
-| [NCT06470581](https://clinicaltrials.gov/study/NCT06470581) | N/A | Not Yet Recruiting | 78 | Thoracic sympathetic ganglion block combined with Botulinum Toxin A for complex regional pain syndrome; combination design, cannot isolate ropivacaine's effect, and not yet recruiting |
+| [NCT00680823](https://clinicaltrials.gov/study/NCT00680823) | N/A | Completed | 150 | Paraspinal intramuscular ropivacaine injection for pediatric headache in the emergency department. The most drug-specific trial, but the population may not be limited to migraine. No results in the input. |
+| [NCT03666663](https://clinicaltrials.gov/study/NCT03666663) | Phase 4 | Completed | 10 | UCSF randomized, double-blind, placebo-controlled trial of sphenopalatine ganglion block with nasal anesthetics for migraine prevention. The sample is very small, and the anesthetic used could not be confirmed as ropivacaine. |
+| [NCT06470581](https://clinicaltrials.gov/study/NCT06470581) | N/A | Not yet recruiting | 78 | Thoracic sympathetic ganglion block plus botulinum toxin A in upper-extremity complex regional pain syndrome. Only indirectly relevant, and ropivacaine's effect cannot be separated from botulinum toxin. |
+| [NCT05301387](https://clinicaltrials.gov/study/NCT05301387) | N/A | Completed | 38 | Sphenopalatine ganglion block versus placebo for postdural puncture headache (long-term follow-up). A different headache disorder, so only indirect support for the technique. |
 
 ---
 
@@ -78,26 +76,30 @@ However, this repurposing candidate differs from a typical systemic-drug repurpo
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [35331152](https://pubmed.ncbi.nlm.nih.gov/35331152/) | 2022 | Cohort | BMC Anesthesiology | Ultrasound-guided stellate ganglion block observed for migraine pain relief and quality-of-life improvement |
-| [17244105](https://pubmed.ncbi.nlm.nih.gov/17244105/) | 2007 | Cohort | Pain Medicine | Ropivacaine trigger-point inactivation evaluated over 12 weeks for prophylactic management of severe migraine |
-| [30043973](https://pubmed.ncbi.nlm.nih.gov/30043973/) | 2019 | Cohort | Headache | Sphenopalatine ganglion block evaluated for self-reported pain relief in status migrainosus |
-| [24284858](https://pubmed.ncbi.nlm.nih.gov/24284858/) | 2013 | Case Series | Pain Physician | Describes a revised transnasal topical SPG block technique for headache and facial pain |
-| [19145569](https://pubmed.ncbi.nlm.nih.gov/19145569/) | 2009 | Case Report | Revista de Neurología | Reports Horner's syndrome as a complication following epidural analgesia — an adverse event, not efficacy evidence |
-| [17058040](https://pubmed.ncbi.nlm.nih.gov/17058040/) | 2006 | Case Report | The Journal of Headache and Pain | Reports migraine headache as a rare complication following cervicothoracic block |
+| [17244105](https://pubmed.ncbi.nlm.nih.gov/17244105/) | 2007 | Cohort | Pain Med | Ropivacaine trigger-point injections evaluated for prophylaxis in severe migraine over 12 weeks. The most drug-specific migraine study. |
+| [35331152](https://pubmed.ncbi.nlm.nih.gov/35331152/) | 2022 | Cohort | BMC Anesthesiol | Real-time ultrasound-guided stellate ganglion block assessed for migraine pain relief and quality of life. |
+| [30043973](https://pubmed.ncbi.nlm.nih.gov/30043973/) | 2019 | Cohort | Headache | Sphenopalatine ganglion block and self-reported pain in status migrainosus. |
+| [24284858](https://pubmed.ncbi.nlm.nih.gov/24284858/) | 2013 | Case series | Pain Physician | A revised transnasal topical sphenopalatine ganglion block technique for headache and facial pain. |
+| [19145569](https://pubmed.ncbi.nlm.nih.gov/19145569/) | 2009 | Case report | Rev Neurol | Horner's syndrome after epidural analgesia. This is an adverse event report, not evidence of benefit. |
+| [17058040](https://pubmed.ncbi.nlm.nih.gov/17058040/) | 2006 | Case report | J Headache Pain | Migraine headache as a rare complication after cervicothoracic block. This is an adverse event report, not evidence of benefit. |
 
 ---
 
 ## US Market Information
 
-Ropivacaine currently has **no marketing authorizations on record** in the source dataset (0 licenses, market status: Not Marketed). No product/NDA table can be generated from the available evidence pack.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA211907 | Ropivacaine Hydrochloride (Hikma) | Injection, solution | Not listed in source data |
+| ANDA214074 | Ropivacaine Hydrochloride (Hikma) | Injection | Not listed in source data |
+| ANDA212808 | Ropivacaine Hydrochloride (Caplin Steriles) | Injection | Not listed in source data |
+| ANDA206091 | Ropivacaine Hydrochloride (Mylan Institutional) | Injection, solution | Not listed in source data |
+| ANDA219883 | Ropivacaine Hydrochloride (Glenmark) | Injection, solution | Not listed in source data |
 
 ---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-**Note:** Key warnings, contraindications, and drug-drug interaction data are currently unavailable (flagged as a **Blocking** data gap, DG001 — TFDA label warnings/contraindications not yet retrieved). This gap prevents the candidate from proceeding to the S1 safety initial assessment.
 
 ---
 
@@ -106,14 +108,18 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The lead prediction (migraine disorder) sits at decision stage S2 with an internal recommendation of "Research Question," reflecting L2-level evidence that is procedural (nerve block techniques) rather than direct pharmacological repurposing evidence, and includes only one directly relevant RCT (n=10, underpowered). Combined with a **Blocking** safety data gap (DG001) that prevents any S1 safety assessment, and zero current marketing authorizations for ropivacaine in this dataset, the candidate is not ready to proceed even under guardrails.
+The evidence for migraine is limited to small or observational studies and one small Phase 4 trial with an unconfirmed anesthetic, with no completed Phase 3 RCT. The proposed benefit comes from nerve-block procedures, not from ropivacaine itself. The other TxGNN predictions for this drug (migraine with brainstem aura, nephrogenic syndrome of inappropriate antidiuresis, dysthymic disorder) have no supporting evidence, or only adverse event reports, and are also on Hold. Migraine remains a reasonable research question, not a candidate ready to advance.
 
 **To proceed, the following is needed:**
-- Retrieve TFDA/FDA package insert warnings and contraindications (DG001 — Blocking)
-- Retrieve detailed mechanism of action data from DrugBank (DG002)
-- Clarify route compatibility between ropivacaine's current approved routes and the nerve-block/regional injection routes used in the migraine evidence (route_compatibility currently "pending")
-- Adequately powered RCT confirming SPG/stellate ganglion block efficacy for migraine (current Phase 4 RCT enrolled only 10 patients)
-- Clarify current regulatory/market status given zero recorded licenses
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Confirmation of the anesthetic used in NCT03666663 and results for NCT00680823
+- Randomized, ropivacaine-specific trials in well-defined migraine populations (SPG, stellate ganglion or trigger-point injection)
+- A route and procedure compatibility assessment for regional block use
+
+---
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

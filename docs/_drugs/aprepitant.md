@@ -33,33 +33,33 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Aprepitant is a selective NK1 (Neurokinin-1) receptor antagonist, widely used internationally for the prevention of chemotherapy-induced nausea and vomiting (CINV) and postoperative nausea and vomiting (PONV).
-The TxGNN model predicts it may be effective for **Nephrogenic Syndrome of Inappropriate Antidiuresis (NSIAD)**,
-with **0 clinical trials** and **0 publications** currently supporting this direction.
+Aprepitant is an NK1-receptor antagonist antiemetic. The label indication text was not supplied in the Evidence Pack, so this comes from general drug knowledge, and it is marketed in oral and injectable forms (including fosaprepitant and CINVANTI).
+The TxGNN model predicts it may be effective for **nephrogenic syndrome of inappropriate antidiuresis (NSIAD)**, with a very high score of 99.97%.
+However, there are currently **0 clinical trials** and **0 publications** supporting this direction, so it is a model-only prediction.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Chemotherapy-induced nausea/vomiting (CINV); Postoperative nausea/vomiting (PONV) |
-| Predicted New Indication | Nephrogenic Syndrome of Inappropriate Antidiuresis (NSIAD) |
-| TxGNN Prediction Score | 99.97% |
-| Evidence Level | L5 |
-| US Market Status | Not marketed (no NDA data retrieved) |
-| Number of NDAs | 0 |
+|------|------|
+| Original Indication | Prevention of chemotherapy-induced nausea and vomiting (general knowledge; not listed in the supplied licence data) |
+| Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
+| TxGNN Prediction Score | 99.97% (rank 1,274 in the model's overall ranking) |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 licences (NDA and ANDA combined) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, formal mechanism of action data is not available in this Evidence Pack. Based on consistent references across all predicted indication rationales, Aprepitant acts as a selective Substance P / NK1 receptor antagonist. By blocking NK1 receptors in the central nervous system — primarily the area postrema and nucleus tractus solitarius — it interrupts the emetic signaling cascade triggered by chemotherapy, making it a cornerstone of CINV prophylaxis.
+Currently, detailed mechanism-of-action data is not available in the Evidence Pack. Aprepitant is generally known as a substance P/neurokinin-1 (NK1) receptor antagonist. Its efficacy in nausea and vomiting is well established, but that does not by itself explain a link to a renal water-handling disorder.
 
-NSIAD is caused by a gain-of-function mutation in the **AVPR2** gene (V2 vasopressin receptor), which leads to constitutive receptor activation and chronic hyponatremia independent of ADH stimulation. While Substance P can indirectly modulate hypothalamic vasopressin secretion via NK1 receptors, there is **no established direct pathway** linking NK1 antagonism to AVPR2 gain-of-function signaling. These are mechanistically distinct receptor systems.
+NSIAD is caused by activating mutations in the vasopressin V2 receptor gene (*AVPR2*). This leads to inappropriate water retention and hyponatraemia despite low vasopressin levels. No pathway from NK1 antagonism to this disease is evident in the supplied data.
 
-This prediction is best understood as a **knowledge graph topology inference**: Aprepitant and NSIAD share network neighbors in the TxGNN biological graph, but the mechanistic bridge is weak. The high TxGNN score (99.97%) reflects graph-structural proximity rather than demonstrated biological plausibility. No clinical trials or published literature support this application.
+The high score most likely reflects proximity in the knowledge graph rather than a drug-specific mechanism. **No mechanistic link is established at this stage.** The prediction should be treated as a hypothesis-generating signal only.
 
 ---
 
@@ -75,6 +75,22 @@ Currently no related literature available.
 
 ---
 
+## US Market Information
+
+Five of the 20 authorisations are shown. Approved indication text was not provided for any of them.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA214616 | Fosaprepitant | Lyophilized powder for injection | NorthStar Rx LLC |
+| ANDA214616 | Fosaprepitant | Lyophilized powder for injection | Camber Pharmaceuticals, Inc. |
+| ANDA209965 | Fosaprepitant | Lyophilized powder for injection | Dr. Reddy's Laboratories Inc. |
+| ANDA207777 | Aprepitant | Capsule | Glenmark Pharmaceuticals Inc., USA |
+| NDA209296 | CINVANTI | Injectable emulsion | Heron Therapeutics, Inc. |
+
+Other dosage forms on the US market include powder for suspension and emulsion.
+
+---
+
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
@@ -86,16 +102,15 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-Despite a high TxGNN prediction score, the mechanistic connection between NK1 receptor antagonism and AVPR2 gain-of-function mutation is extremely weak — there is no known direct signaling pathway, and the prediction reflects knowledge graph topology inference rather than pharmacological plausibility. Without any supporting clinical trial or literature evidence (L5), this indication does not meet the threshold for further investment.
+The prediction has no clinical trials, no literature, and no documented mechanism, and the disease biology (activating *AVPR2* mutations) does not point to an NK1-antagonist pathway. Model score alone is not enough to justify further investment.
 
 **To proceed, the following is needed:**
+- Mechanism-of-action data for aprepitant, plus preclinical evidence, if any, linking NK1 signalling to vasopressin V2 receptor activity or renal water handling
+- The US package insert (warnings, contraindications, drug interactions), since safety data are currently missing
+- A systematic literature and trial search using drug-specific terms (aprepitant or NK1 antagonist with NSIAD or hyponatraemia), because the current search returned nothing
+- Route and dosing feasibility assessment, since route compatibility is still pending
 
-- **Confirm US authorization status**: Query the FDA Orange Book directly — Aprepitant (Emend®) is expected to hold an FDA NDA for CINV/PONV; the current zero-license result likely reflects a data pipeline gap
-- **Retrieve prescribing information**: Obtain the full US label (warnings, contraindications, CYP3A4 drug interactions) to complete the safety profile before any indication expansion analysis
-- **Prioritize mechanistically stronger candidates**: The following ranked indications carry a "Research Question" designation with better-reasoned mechanistic rationale and are recommended for next-stage evaluation:
-  - **Pulmonary Arterial Hypertension** (Rank 3, score 99.90%): NK1 receptors expressed on pulmonary vascular endothelium; SP-driven vascular smooth muscle remodeling is a plausible target
-  - **Subarachnoid Hemorrhage** (Rank 9, score 99.85%): Massive SP release post-hemorrhage activates NK1 receptors driving vasospasm and delayed cerebral ischemia; Aprepitant's established BBB penetration (required for its antiemetic mechanism) makes it a biologically credible candidate for investigating delayed ischemic neurological deficit
-- **Focused mechanistic literature search**: For the two Research Question candidates above, conduct a targeted PubMed search combining Aprepitant/NK1 antagonist with pulmonary hypertension and cerebral vasospasm respectively before committing to preclinical studies
+For reference, two other candidates in the same pack are flagged as "Research Question" (pulmonary hypertension and subarachnoid haemorrhage). Both have a plausible NK1-related biological hypothesis but no supporting clinical evidence, and preclinical support would need to be verified first.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

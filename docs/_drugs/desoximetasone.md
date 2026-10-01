@@ -29,37 +29,36 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Desoximetasone: From Inflammatory Dermatoses to Alopecia Areata
+# Desoximetasone: From Topical Corticosteroid Therapy to Alopecia Areata
 
 ## One-Sentence Summary
 
-Desoximetasone is a mid-to-high potency topical corticosteroid classically used for inflammatory skin conditions such as eczema and psoriasis.
-The TxGNN model predicts it may be effective for **Alopecia Areata**,
-with **0 clinical trials** and **1 publication** (a randomized double-blind placebo-controlled trial) currently supporting this direction.
+Desoximetasone is a mid-to-high potency topical corticosteroid, marketed in the US as an ointment, cream and spray.
+The TxGNN model predicts it may be effective for **alopecia areata**, with **0 registered clinical trials** and **1 publication** (a randomized, double-blind, placebo-controlled trial) supporting this direction.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No US market authorization on record in this dataset |
-| Predicted New Indication | Alopecia Areata |
+|------|------|
+| Original Indication | Not stated in the supplied license records (topical corticosteroid) |
+| Predicted New Indication | Alopecia areata |
 | TxGNN Prediction Score | 99.92% |
 | Evidence Level | L2 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological information, Desoximetasone is a fluorinated mid-to-high potency topical glucocorticoid. It binds intracellular glucocorticoid receptors to suppress transcription of pro-inflammatory cytokines, inhibit immune cell recruitment, and dampen local inflammatory responses in the skin. Its formulation characteristics — including its cream and gel vehicles — confer sufficient dermal penetration to reach the perifollicular dermis.
+Currently, detailed mechanism of action data is not available. Based on known information, desoximetasone is a mid-to-high potency topical corticosteroid. Its local anti-inflammatory and immunosuppressive effects are established for skin conditions, and mechanistically it may be applicable to alopecia areata.
 
-Alopecia areata is an organ-specific autoimmune disease in which CD8+ T lymphocytes breach the immune privilege of the hair follicle bulb, driven by IFN-γ and IL-2 signaling. Topical corticosteroids directly counter this pathogenic cascade by suppressing T-cell activation and reducing local cytokine secretion at the inflammatory focus. Desoximetasone's mid-to-high potency allows it to reach perifollicular tissue at therapeutically relevant concentrations — a critical requirement for this indication, given that weaker steroids often fail to penetrate deeply enough. This mechanistic alignment makes the TxGNN prediction biologically well-grounded.
+Alopecia areata is a T-cell-mediated autoimmune attack on the hair follicle, so local glucocorticoid immunosuppression is a plausible way to reduce that attack. Together with the very high TxGNN score, this makes the prediction reasonable. A randomized controlled trial of 0.25% desoximetasone cream in alopecia areata (see below) directly tests this idea.
 
-It is also worth noting that topical corticosteroids are already a cornerstone first-line therapy for patchy alopecia areata in international dermatology guidelines. The TxGNN model's prediction therefore reinforces established clinical practice, while the existing RCT (see Literature Evidence below) provides direct empirical support specifically for Desoximetasone in this indication.
+The other nine predictions in the pack (for example alopecia mucinosa, telogen effluvium, folliculitis decalvans and primary cutaneous B-cell lymphoma) have no trials or literature. Their mechanistic links are weak or speculative, and several are rare genetic disorders. Alopecia areata is the only prediction with supporting evidence.
 
 ---
 
@@ -72,31 +71,44 @@ Currently no related clinical trials registered.
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [11030789](https://pubmed.ncbi.nlm.nih.gov/11030789/) | 2000 | RCT | Archives of Dermatology | Randomized double-blind placebo-controlled trial of 0.25% desoximetasone cream for alopecia areata; provides the only head-to-head clinical evidence directly evaluating this drug–disease pair |
+|------|-----|------|------|---------|
+| [11030789](https://pubmed.ncbi.nlm.nih.gov/11030789/) | 2000 | RCT | Archives of Dermatology | Randomized, double-blind, placebo-controlled trial of 0.25% desoximetasone cream in alopecia areata. The abstract was not supplied, so results are not summarized here. |
+
+---
+
+## US Market Information
+
+Five of the 20 authorizations are shown. The supplied records contain no approved-indication text.
+
+| Authorization Number | Product Name | Dosage Form |
+|---------|------|------|
+| NDA018594 | Desoximetasone (Sun Pharmaceutical Industries) | Ointment |
+| ANDA208164 | Desoximetasone (Lupin Pharmaceuticals) | Cream |
+| NDA204141 | Topicort (Sun Pharmaceutical Industries) | Spray |
+| ANDA077770 | Desoximetasone (Padagis Israel Pharmaceuticals) | Ointment |
+| ANDA206441 | Desoximetasone (Bryant Ranch Prepack) | Spray |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No drug interaction records were found.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-A randomized double-blind placebo-controlled trial (PMID 11030789) directly evaluated 0.25% desoximetasone cream in alopecia areata patients, providing Level 2 clinical evidence; the mechanistic rationale is strong, as desoximetasone's immune-suppressive action directly targets the CD8+ T-cell–driven pathogenesis of this condition.
+Only one RCT (2000) supports alopecia areata, with no registered trials, and its results are not available in the pack. Package insert safety data has not been obtained, which blocks progression to safety screening. The prediction is best treated as a research question for now.
 
 **To proceed, the following is needed:**
-- Full text retrieval of PMID 11030789 to extract efficacy outcomes (hair regrowth rate, responder definition) and adverse events
-- Formal mechanism of action documentation (MOA currently not available in the Evidence Pack)
-- US label / package insert review: warnings, contraindications, and drug interactions are not yet captured
-- Clarification of US regulatory status — Desoximetasone (Topicort®) may have existing NDA data not reflected in this dataset; cross-check FDA Orange Book
-- Concentration and vehicle optimization assessment: the published RCT used 0.25% cream; confirm whether commercially available strengths (0.05%, 0.25%) and vehicles (cream, gel, ointment) are appropriate for the scalp
-- Risk management plan for long-term use: skin atrophy and HPA-axis suppression are known class effects of mid-to-high potency topical corticosteroids; a safety monitoring protocol is required before proceeding to any formal study or off-label use recommendation
+- Package insert warnings and contraindications, obtained from the FDA label
+- Full text of PMID 11030789, to confirm the efficacy results and dosing regimen
+- Detailed mechanism of action data from DrugBank
+- A check of whether the available forms (ointment, cream, spray) suit scalp application
+- Current registered or ongoing trials in alopecia areata, including comparison with existing topical corticosteroid treatments
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

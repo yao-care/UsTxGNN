@@ -29,83 +29,78 @@ Evidence Level: **L4** | Predicted Indications: **8**
 
 </div>
 
-# Sertraline: From Depression to Paranoid Personality Disorder
+# Sertraline: From an Established SSRI to Paranoid Personality Disorder
 
 ## One-Sentence Summary
 
-Sertraline is a well-known selective serotonin reuptake inhibitor (SSRI), a drug class established for treating depression and multiple anxiety-related disorders. The TxGNN model predicts it may be effective for **Paranoid Personality Disorder**, but this specific indication is currently supported only by **4 loosely related publications** and **no registered clinical trials**.
-
----
+Sertraline is a marketed selective serotonin reuptake inhibitor (SSRI) with 20 US licenses.
+The TxGNN model predicts it may be effective for **Paranoid Personality Disorder**, but this direction has **0 clinical trials** and only **4 publications**, none of which studies paranoid personality disorder directly.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no TFDA/local license record found (drug is not marketed in this jurisdiction); sertraline is broadly known as an SSRI antidepressant |
-| Predicted New Indication | Paranoid Personality Disorder |
+| Predicted New Indication | Paranoid personality disorder |
 | TxGNN Prediction Score | 99.93% |
 | Evidence Level | L4 |
-| Market Status | Not marketed (Not Marketed) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (the listed licenses are ANDAs) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (Data Gap, severity: High). Based on general pharmacological knowledge, sertraline is a selective serotonin reuptake inhibitor (SSRI) that increases synaptic serotonin concentration by blocking presynaptic reuptake; this class of drugs is broadly used across mood and anxiety disorders.
+Currently, detailed mechanism of action data is not available. Sertraline is an SSRI, and serotonergic modulation may reduce affective dysregulation, irritability and impulsivity across personality disorders. This gives a plausible but general rationale.
 
-However, the link between sertraline's known efficacy and paranoid personality disorder is weak. Existing literature focuses mostly on **borderline personality disorder** or **personality disorders comorbid with major depression**, not on the core symptoms of paranoid PD (pervasive suspicion and distrust). No study directly examines a serotonergic mechanism specific to paranoid ideation or distrust as a treatment target.
-
-As a result, this prediction should be regarded as an indirect, model-driven inference rather than a mechanistically grounded hypothesis. The evidence pack itself classifies this candidate as **L4 (preclinical/mechanistic-level at best)** with a **Hold** recommendation.
-
----
+Nothing supports a mechanism specific to paranoid personality disorder, whose core features are suspiciousness and distrust. The TxGNN score (99.93%) is identical for the whole personality-disorder cluster, including histrionic, schizoid and schizotypal. This suggests the score reflects proximity in the knowledge graph rather than a disease-specific signal, so it should be read cautiously.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [9817625](https://pubmed.ncbi.nlm.nih.gov/9817625/) | 1998 | Cohort/Comparative | International Clinical Psychopharmacology | 308 depressed patients assessed for personality disorder comorbidity; treated 24 weeks with sertraline or citalopram — general personality disorder findings, not paranoid-PD-specific |
-| [18848360](https://pubmed.ncbi.nlm.nih.gov/18848360/) | 2008 | Open-label augmentation study (borderline PD) | Psychiatry Research | Aripiprazole augmentation in 21 sertraline-resistant borderline PD outpatients; not paranoid PD |
-| [36853245](https://pubmed.ncbi.nlm.nih.gov/36853245/) | 2023 | Review (borderline PD) | JAMA | General review of borderline personality disorder epidemiology and management; does not address paranoid PD |
-| [11686052](https://pubmed.ncbi.nlm.nih.gov/11686052/) | 2001 | Review (unrelated topic) | L'Encéphale | Review of interferon-alpha-induced psychiatric disorders; not related to sertraline or paranoid PD |
+| [36853245](https://pubmed.ncbi.nlm.nih.gov/36853245/) | 2023 | Review | JAMA | Review of borderline personality disorder (BPD), which affects about 0.7% to 2.7% of US adults. It concerns BPD, not paranoid personality disorder. |
+| [18848360](https://pubmed.ncbi.nlm.nih.gov/18848360/) | 2008 | Clinical study | Psychiatry Research | Aripiprazole augmentation in 21 BPD outpatients who did not respond to sertraline. Sertraline was the background therapy, not the tested drug. |
+| [9817625](https://pubmed.ncbi.nlm.nih.gov/9817625/) | 1998 | RCT (secondary analysis) | Int Clin Psychopharmacol | 308 primary-care patients with major depression received sertraline or citalopram. The study examined personality disorder comorbidity and treatment response, so any effect is on depression. |
+| [11686052](https://pubmed.ncbi.nlm.nih.gov/11686052/) | 2001 | Review | L'Encephale | Review of psychiatric side effects of alpha-interferon. Not relevant to sertraline efficacy. |
 
----
+## US Market Information
 
-## Market Information
+The approved indication text is empty in the supplied data, so that column is omitted.
 
-No license records are available — sertraline is currently **not marketed** in this jurisdiction (0 NDAs on file), so product/dosage-form details cannot be reported.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA214790 | Sertraline Hydrochloride | Tablet | Camber Pharmaceuticals, Inc. |
+| ANDA077206 | Sertraline Hydrochloride | Tablet, film coated | PD-Rx Pharmaceuticals, Inc. |
+| ANDA076465 | Sertraline | Tablet, film coated | Bryant Ranch Prepack |
+| ANDA077206 | Sertraline Hydrochloride | Tablet, film coated | Aurobindo Pharma Limited |
+| ANDA077206 | Sertraline Hydrochloride | Tablet, film coated | St. Mary's Medical Park Pharmacy |
 
----
+Other available forms include capsule and oral concentrate solution.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-*(Note: Key warnings, contraindications, and drug-interaction data are flagged as a Blocking data gap — DG001 — pending TFDA label retrieval and parsing.)*
-
----
+Please refer to the package insert for safety information. No drug-interaction records were found in the data provided.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Evidence for sertraline in paranoid personality disorder is indirect — drawn from studies on borderline PD or general PD/depression comorbidity — with no trials or mechanistic studies targeting paranoid PD's core symptoms (suspicion, distrust). Combined with a Blocking safety data gap (no TFDA warnings/contraindications available), this candidate does not meet the bar to proceed.
+The prediction rests on a graph score with no clinical trials, and none of the retrieved papers tests sertraline in paranoid personality disorder. The evidence is indirect, so the drug is not ready for development in this indication.
+
+Two other predictions in the same pack look different. Agoraphobia is scored L1 with a "Proceed with Guardrails" recommendation. Its support comes from panic disorder trials and network meta-analyses. It may overlap with existing labeled use, so check it against the label before treating it as a repurposing signal. Schizotypal personality disorder is flagged as a research question, based on one small (n=8) completed trial in attenuated psychotic-spectrum symptoms.
 
 **To proceed, the following is needed:**
-- TFDA label data (warnings, contraindications) — currently Blocking (DG001)
-- Confirmed mechanism of action (DG001/DG002 remediation via DrugBank API)
-- Any preclinical or mechanistic study directly addressing paranoid-spectrum symptoms and serotonergic modulation
-- Reassessment if new clinical trials or targeted literature emerge
+- Package insert warnings and contraindications, which are currently missing and block safety screening
+- Mechanism of action data (for example from DrugBank)
+- Approved indication text, to confirm the original indication and any overlap with the predicted one
+- Disease-specific clinical evidence for paranoid personality disorder, such as registered trials or controlled studies
+- Assessment of whether any benefit would act on comorbid depression or anxiety rather than on paranoid traits
 
-**Note for portfolio review:** within this same evidence pack, a different predicted indication for sertraline — **agoraphobia** (linked to panic disorder) — has substantially stronger support (Evidence Level L1, multiple completed Phase 4 RCTs including a 321-patient double-blind trial, plus systematic reviews/meta-analyses), and is scored "Proceed with Guardrails." If prioritizing sertraline repurposing candidates, agoraphobia/panic disorder is the far stronger near-term opportunity compared to paranoid personality disorder.
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

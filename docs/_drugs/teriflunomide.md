@@ -29,85 +29,95 @@ Evidence Level: **L1** | Predicted Indications: **1**
 
 </div>
 
-# Teriflunomide: From No Registered Indication to Relapsing-Remitting Multiple Sclerosis
+# Teriflunomide: Predicted Indication of Relapsing-Remitting Multiple Sclerosis
 
 ## One-Sentence Summary
 
-Teriflunomide (Aubagio®) is an oral immunomodulator — the active metabolite of leflunomide — that selectively inhibits lymphocyte proliferation via mitochondrial DHODH enzyme blockade, and currently holds no registered local indication in this market.
-
-The TxGNN model predicts it may be effective for **relapsing-remitting multiple sclerosis (RRMS)**, with **28 clinical trials** and **19 publications** currently supporting this direction — including multiple completed Phase 3 pivotal trials that establish it as a benchmark comparator for emerging MS therapies.
+Teriflunomide is an oral immunomodulator that limits lymphocyte proliferation. The TxGNN model predicts it may be effective for **relapsing-remitting multiple sclerosis (RRMS)**, with **28 clinical trials** and **19 publications** supporting this direction. The drug is already a marketed disease-modifying therapy for relapsing MS, so this result validates the model rather than revealing a new repurposing signal.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No locally registered indication |
-| Predicted New Indication | Relapsing-Remitting Multiple Sclerosis (RRMS) |
+|------|------|
+| Predicted New Indication | Relapsing-remitting multiple sclerosis |
 | TxGNN Prediction Score | 99.24% |
 | Evidence Level | L1 |
-| Market Status | Not Marketed (0 registered licenses) |
-| Number of Licenses | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 licenses (NDA and ANDA combined) |
 | Recommended Decision | Proceed with Guardrails |
+
+The US license records contain no approved-indication text, so the original indication could not be extracted from the local data.
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Teriflunomide is the active metabolite of leflunomide, exerting its therapeutic effect by selectively and reversibly inhibiting **dihydroorotate dehydrogenase (DHODH)**, a mitochondrial enzyme essential for the *de novo* synthesis of pyrimidines. Because rapidly proliferating lymphocytes — unlike most resting cells — depend heavily on this biosynthetic pathway, teriflunomide preferentially suppresses the expansion of autoreactive T and B cells without broad immunosuppression. In the context of RRMS, this mechanism directly addresses the pathological cycle of immune-mediated demyelination and inflammatory lesion formation in the central nervous system.
+Teriflunomide is the active metabolite of leflunomide. It selectively and reversibly inhibits the mitochondrial enzyme dihydroorotate dehydrogenase (DHODH). This blocks de novo pyrimidine synthesis and reduces the proliferation of activated T and B lymphocytes.
 
-The biological rationale connecting teriflunomide to RRMS is not speculative but mechanistically established. RRMS is driven by episodic activation and clonal expansion of myelin-reactive lymphocytes that breach the blood–brain barrier and trigger focal inflammatory attacks. By depleting the pyrimidine pool selectively in dividing cells, teriflunomide attenuates this cascade at the source — reducing relapse frequency, suppressing new MRI lesion formation, and slowing disability accumulation, as demonstrated in multiple Phase 3 trials.
+RRMS is driven by autoimmune, lymphocyte-mediated inflammation of the central nervous system. Limiting the expansion of activated lymphocytes is therefore a plausible and well-established mechanistic fit. Trial NCT02833714, for example, studies B-cell effects of the drug in RRMS patients.
 
-Although the evidence pack records the local MOA field as unavailable, the DHODH-inhibition mechanism is comprehensively established in the international literature. Multiple pivotal trials (including NCT00134563 with n = 1,088) confirm approximately 31–36% relapse rate reduction versus placebo, and the drug now serves as the standard active comparator in Phase 3 trials for next-generation MS therapies including ofatumumab, ublituximab, ponesimod, evobrutinib, and tolebrutinib. The TxGNN model score of 99.24% reflects this robust mechanistic-epidemiological alignment.
+The Evidence Pack lists no original indications, and the mechanism-of-action field was empty. This looks like a data-completeness gap rather than a true absence. Multiple randomized phase 3 trials and reviews already treat teriflunomide as an established first-line oral therapy for relapsing MS.
 
 ---
 
 ## Clinical Trial Evidence
 
+The pack lists 28 trials. The 10 most relevant are shown below.
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
-|--------------|-------|--------|------------|--------------|
-| [NCT00134563](https://clinicaltrials.gov/study/NCT00134563) | Phase 3 | Completed | 1,088 | Pivotal RCT evaluating teriflunomide (7 mg and 14 mg) vs. placebo in relapsing MS. Primary endpoint: annualized relapse rate. Secondary: EDSS disability progression, MRI lesion burden, patient-reported fatigue. Represents core L1 registration evidence (~31–36% relapse reduction). |
-| [NCT00883337](https://clinicaltrials.gov/study/NCT00883337) | Phase 3 | Completed | 324 | Randomized rater-blinded multicenter study comparing two doses of teriflunomide vs. interferon beta-1a on time to treatment failure in relapsing MS, with long-term extension. Assessed relapse frequency, fatigue, and patient satisfaction. |
-| [NCT00803049](https://clinicaltrials.gov/study/NCT00803049) | Phase 3 | Completed | 742 | Long-term extension of the multinational Phase 3 EFC6049 trial. Primary objective: document long-term safety and tolerability of teriflunomide 7 mg and 14 mg. Secondary: long-term disability progression, relapse rate, and MRI parameters. |
-| [NCT04788615](https://clinicaltrials.gov/study/NCT04788615) | Phase 3 | Completed | 185 | Open-label rater-blinded randomized study comparing ofatumumab 20 mg SC monthly vs. physician's choice first-line DMT (including teriflunomide) in newly diagnosed relapsing MS patients. |
-| [NCT00228163](https://clinicaltrials.gov/study/NCT00228163) | Phase 2 | Completed | 147 | Long-term extension of Phase 2 safety and efficacy study (HMR1726D/2001). Evaluated long-term safety and tolerability of teriflunomide in relapsing MS over more than a decade. |
-| [NCT02490982](https://clinicaltrials.gov/study/NCT02490982) | N/A | Completed | 106 | Investigator-initiated real-world effectiveness study of teriflunomide in RRMS patients treated in regular clinical practice over at least two years at a dedicated MS clinic. |
-| [NCT04129736](https://clinicaltrials.gov/study/NCT04129736) | Phase 4 | Completed | 12 | Pharmacokinetic study measuring teriflunomide concentrations in serum and cerebrospinal fluid from RRMS patients on 14 mg daily dosing, informing CNS penetration and exposure-response relationships. |
-| [NCT01881191](https://clinicaltrials.gov/study/NCT01881191) | N/A | Completed | 50 | Prospective single-blinded longitudinal MRI study evaluating the effect of teriflunomide (Aubagio®) on gray matter pathology over 12 months, providing imaging biomarker evidence for neuroprotective potential. |
-| [NCT03561402](https://clinicaltrials.gov/study/NCT03561402) | N/A | Completed | 24 | Two-year prospective observational study assessing putative biomarkers for disease activity prediction in RRMS patients receiving teriflunomide, informing pharmacodynamic monitoring strategies. |
-| [NCT04676204](https://clinicaltrials.gov/study/NCT04676204) | N/A | Enrolling by Invitation | 323 | STATURE: Prospective multi-site study measuring treatment burden and adherence across six oral DMTs including teriflunomide, dimethyl fumarate, fingolimod, cladribine, ozanimod, and diroximel fumarate. Provides real-world comparative adherence data. |
+|---------|------|------|------|---------|
+| [NCT00134563](https://clinicaltrials.gov/study/NCT00134563) | Phase 3 | Completed | 1088 | Double-blind, placebo-controlled pivotal trial of teriflunomide on relapse frequency and disability accumulation in relapsing MS |
+| [NCT00883337](https://clinicaltrials.gov/study/NCT00883337) | Phase 3 | Completed | 324 | Rater-blinded comparison of two teriflunomide doses versus interferon beta-1a, with long-term extension |
+| [NCT00803049](https://clinicaltrials.gov/study/NCT00803049) | Phase 3 | Completed | 742 | Long-term extension documenting safety of teriflunomide 7 mg and 14 mg in relapsing MS |
+| [NCT00228163](https://clinicaltrials.gov/study/NCT00228163) | Phase 2 | Completed | 147 | Long-term safety and efficacy extension of the phase 2 teriflunomide study |
+| [NCT04788615](https://clinicaltrials.gov/study/NCT04788615) | Phase 3 | Completed | 185 | Ofatumumab versus physician's-choice first-line DMT in newly diagnosed relapsing MS (teriflunomide is a possible comparator) |
+| [NCT01881191](https://clinicaltrials.gov/study/NCT01881191) | N/A | Completed | 50 | 12-month MRI study of teriflunomide effects on gray matter pathology |
+| [NCT06843382](https://clinicaltrials.gov/study/NCT06843382) | N/A | Not yet recruiting | 100 | Real-world comparison of teriflunomide and dimethyl fumarate on physical and cognitive fatigability |
+| [NCT02490982](https://clinicaltrials.gov/study/NCT02490982) | N/A | Completed | 106 | Observational study of teriflunomide effectiveness in RRMS over at least 2 years |
+| [NCT03302442](https://clinicaltrials.gov/study/NCT03302442) | N/A | Completed | 3000 | Observational comparison of dimethyl fumarate and teriflunomide on clinical and MRI outcomes in RRMS |
+| [NCT02776072](https://clinicaltrials.gov/study/NCT02776072) | N/A | Completed | 2978 | Retrospective real-world outcomes for RRMS patients on Tecfidera, Copaxone, Aubagio or Gilenya |
 
 ---
 
 ## Literature Evidence
 
+The pack lists 19 publications. The 10 most relevant are shown below, with randomized trials first.
+
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [38174776](https://pubmed.ncbi.nlm.nih.gov/38174776/) | 2024 | Network Meta-Analysis | Cochrane Database of Systematic Reviews | Updated Cochrane NMA comparing immunomodulators and immunosuppressants for RRMS. Synthesizes relative efficacy of teriflunomide vs. all available DMTs on relapse frequency and disability accumulation. |
-| [32757523](https://pubmed.ncbi.nlm.nih.gov/32757523/) | 2020 | RCT (Phase 3 Head-to-Head) | New England Journal of Medicine | ASCLEPIOS I & II: Ofatumumab vs. teriflunomide in relapsing MS (n > 1,800). Ofatumumab demonstrated superior MRI and clinical outcomes; teriflunomide arm establishes benchmark comparator efficacy. |
-| [40202623](https://pubmed.ncbi.nlm.nih.gov/40202623/) | 2025 | RCT (Phase 3 Head-to-Head) | New England Journal of Medicine | Tolebrutinib (oral BTK inhibitor) vs. teriflunomide in relapsing MS. Demonstrates teriflunomide's continued role as active comparator in next-generation Phase 3 trial design. |
-| [36001711](https://pubmed.ncbi.nlm.nih.gov/36001711/) | 2022 | RCT (Phase 3 Head-to-Head) | New England Journal of Medicine | Ublituximab vs. teriflunomide in relapsing MS. Ublituximab (enhanced B-cell depletion) showed superior MRI outcomes; confirms teriflunomide's established efficacy as standard comparator. |
-| [39307151](https://pubmed.ncbi.nlm.nih.gov/39307151/) | 2024 | RCT (Phase 3 Head-to-Head) | The Lancet Neurology | evolutionRMS1 and evolutionRMS2: Evobrutinib vs. teriflunomide across two Phase 3 trials. Teriflunomide arm provides contemporary real-world comparator data across multinational sites. |
-| [33779698](https://pubmed.ncbi.nlm.nih.gov/33779698/) | 2021 | RCT (Phase 3 Head-to-Head) | JAMA Neurology | OPTIMUM trial: Ponesimod vs. teriflunomide — first Phase 3 study comparing two oral DMTs for relapsing MS. Ponesimod showed superiority on ARR; teriflunomide arm performance characterizes real-world standard-of-care. |
-| [33620411](https://pubmed.ncbi.nlm.nih.gov/33620411/) | 2021 | Review | JAMA | Comprehensive review of MS diagnosis and treatment for 900,000 affected US patients. Summarizes current evidence base including teriflunomide's role as oral first-line DMT. |
-| [31098896](https://pubmed.ncbi.nlm.nih.gov/31098896/) | 2019 | Systematic Review / Drug Review | Drugs | Dedicated teriflunomide review: mechanism (DHODH inhibition → de novo pyrimidine synthesis blockade → selective lymphocyte antiproliferation), RCT evidence synthesis, and real-world safety profile. |
-| [37691530](https://pubmed.ncbi.nlm.nih.gov/37691530/) | 2023 | Long-term Extension Study | Multiple Sclerosis | ALITHIOS extension: ofatumumab demonstrated superior efficacy and favorable safety vs. teriflunomide over 4 years in relapsing MS. Provides 4-year longitudinal teriflunomide comparator data. |
-| [31898276](https://pubmed.ncbi.nlm.nih.gov/31898276/) | 2020 | Systematic Review | CNS Drugs | Narrative review comparing five oral DMTs for RRMS — fingolimod, dimethyl fumarate, teriflunomide, cladribine, and siponimod — on relative efficacy and safety. Contextualizes teriflunomide's positioning in the oral therapy landscape. |
+|------|-----|------|------|---------|
+| [32757523](https://pubmed.ncbi.nlm.nih.gov/32757523/) | 2020 | RCT | N Engl J Med | Ofatumumab versus teriflunomide in MS, with teriflunomide as the active oral comparator |
+| [36001711](https://pubmed.ncbi.nlm.nih.gov/36001711/) | 2022 | RCT | N Engl J Med | Ublituximab versus teriflunomide in relapsing MS |
+| [33779698](https://pubmed.ncbi.nlm.nih.gov/33779698/) | 2021 | RCT | JAMA Neurol | OPTIMUM: first phase 3 head-to-head of two oral DMTs, ponesimod versus teriflunomide |
+| [39307151](https://pubmed.ncbi.nlm.nih.gov/39307151/) | 2024 | RCT | Lancet Neurol | Two phase 3 trials of evobrutinib against teriflunomide as active comparator |
+| [40202623](https://pubmed.ncbi.nlm.nih.gov/40202623/) | 2025 | RCT | N Engl J Med | Tolebrutinib versus teriflunomide in relapsing MS |
+| [38174776](https://pubmed.ncbi.nlm.nih.gov/38174776/) | 2024 | Network meta-analysis | Cochrane Database Syst Rev | Compares immunomodulators and immunosuppressants for RRMS; each reduces relapses and slows disability versus no treatment |
+| [31898276](https://pubmed.ncbi.nlm.nih.gov/31898276/) | 2020 | Meta-analysis | CNS Drugs | Narrative review of efficacy and safety of five oral RRMS therapies, including teriflunomide |
+| [37528262](https://pubmed.ncbi.nlm.nih.gov/37528262/) | 2023 | Meta-analysis | Neurotherapeutics | Real-world comparison of dimethyl fumarate and teriflunomide in RRMS |
+| [31098896](https://pubmed.ncbi.nlm.nih.gov/31098896/) | 2019 | Review | Drugs | Teriflunomide is an effective and generally well-tolerated treatment for relapsing MS, based on RCTs and real-world data |
+| [37382446](https://pubmed.ncbi.nlm.nih.gov/37382446/) | 2023 | Review | Expert Rev Neurother | Teriflunomide as first-line oral therapy in pediatric RRMS, recently approved in the EU |
+
+Most of the RCTs above use teriflunomide as the active comparator for newer agents. They show it is the established standard of care, but they are not evidence of its own efficacy versus placebo. That evidence comes from the pivotal trial NCT00134563.
 
 ---
 
-## Market Information
+## US Market Information
 
-No licenses are currently registered in the local regulatory database for teriflunomide. The drug is marketed internationally as **Aubagio®** (Sanofi) and holds regulatory approval for relapsing forms of multiple sclerosis from both the US FDA (approved 2012) and the European Medicines Agency, as evidenced by its consistent role as the active comparator across more than five global Phase 3 trials conducted between 2020 and 2025. A formal local registration application would be required before clinical availability.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA202992 | Aubagio | Tablet, film coated | Genzyme Corporation |
+| ANDA209700 | Teriflunomide | Tablet, film coated | AvKARE |
+| ANDA209702 | Teriflunomide | Tablet, film coated | Mylan Pharmaceuticals Inc. |
+| ANDA218663 | Teriflunomide | Tablet, film coated | Concord Biotech Limited |
+
+The pack reports 20 licenses in total, and only these four distinct authorizations are shown. The route of administration is oral.
 
 ---
 
 ## Safety Considerations
 
-Local safety data (package insert warnings, contraindications, and drug interaction database) are not available in the current evidence pack.
-
-Please refer to the internationally approved package insert (Aubagio® US Prescribing Information / EMA SmPC) for full safety information, which includes hepatotoxicity monitoring requirements, teratogenicity risk with mandatory accelerated elimination protocol, and lymphopenia management guidance.
+Please refer to the package insert for safety information.
 
 ---
 
@@ -116,15 +126,13 @@ Please refer to the internationally approved package insert (Aubagio® US Prescr
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Teriflunomide's efficacy in RRMS represents one of the most thoroughly validated drug-indication pairs in modern neurology: multiple completed Phase 3 RCTs (including a 1,088-patient pivotal trial), a Cochrane NMA, and consistent use as an active comparator across five additional Phase 3 trials published between 2020 and 2025 collectively establish L1 evidence with no meaningful scientific uncertainty about biological plausibility. The TxGNN model score of 99.24% correctly reflects this convergence. The primary barrier to deployment is regulatory and logistical rather than scientific.
+Two or more completed phase 3 RCTs (NCT00134563, NCT00883337), a phase 3 long-term extension, and many reviews and comparator trials support teriflunomide in relapsing MS. The drug is already marketed, so the prediction is a validation of the model. The package insert, warnings and mechanism-of-action data are still missing from the pack.
 
 **To proceed, the following is needed:**
-
-- **Regulatory filing**: Submit a New Drug Application (or equivalent local regulatory pathway) with the pivotal trial package (NCT00134563 and NCT00883337 extension data) as core dossier
-- **Local safety data collection**: Obtain and review the full Aubagio® US Prescribing Information and EMA SmPC; extract hepatotoxicity monitoring protocol, teratogenicity risk management (mandatory pregnancy prevention program and accelerated elimination procedure with cholestyramine/activated charcoal), and lymphocyte count monitoring thresholds
-- **Drug interaction profile**: Conduct formal DDI review given known CYP2C8 inhibition and potential interactions with warfarin, repaglinide, and hormonal contraceptives
-- **Risk management plan**: Establish a local Risk Minimization Measure (RMM) program aligned with international REMS requirements, particularly for women of childbearing potential
-- **Post-marketing surveillance plan**: Define monitoring parameters for hepatic enzyme elevation (ALT/AST), lymphopenia, blood pressure, and peripheral neuropathy consistent with international labeling
+- Package insert warnings and contraindications, currently a blocking gap. Standard monitoring should cover hepatotoxicity, teratogenicity and use of the accelerated-elimination procedure.
+- Approved-indication text for the US licenses, to confirm the label status of relapsing MS.
+- Mechanism-of-action and original-indication fields from DrugBank, to complete the record.
+- Drug-interaction data, as the query returned no results.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

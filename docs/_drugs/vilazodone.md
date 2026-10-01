@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Vilazodone
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1290
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 ---
 
 # Vilazodone
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,33 +33,33 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-> Vilazodone is a serotonergic antidepressant (SSRI + 5-HT1A partial agonist) — per literature within this evidence pack, it was approved by the US FDA in 2011 for Major Depressive Disorder (MDD) in adults; structured original-indication data is not recorded for this candidate.
-> The TxGNN model's top-ranked prediction suggests possible efficacy for **Dysthymic Disorder** (persistent depressive disorder),
-> but this specific candidate is currently supported by **mechanism reasoning only — no dedicated clinical trials or publications** are attached to it in this evidence pack.
+Vilazodone is an antidepressant originally used to treat major depressive disorder.
+The TxGNN model predicts it may be effective for **dysthymic disorder (persistent depressive disorder)**,
+but there are currently **0 clinical trials** and **0 publications** specific to this indication, so the prediction rests on the model alone.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not available in structured data (Data Gap); literature in this evidence pack indicates Major Depressive Disorder (MDD), US FDA approval 2011 |
-| Predicted New Indication | Dysthymic Disorder |
+|------|------|
+| Original Indication | Major depressive disorder (the US license records in the dataset carry no indication text; this is taken from the mechanistic notes) |
+| Predicted New Indication | Dysthymic disorder |
 | TxGNN Prediction Score | 99.79% |
-| Evidence Level | L4 |
-| Taiwan Market Status | Not marketed (Not Marketed) |
-| Number of Taiwan Licenses | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (the listed licenses are generic ANDAs) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Structured mechanism-of-action data is marked as a Data Gap for this drug. However, several literature entries included elsewhere in this evidence pack (e.g. PMID [24195711](https://pubmed.ncbi.nlm.nih.gov/24195711/), [21951984](https://pubmed.ncbi.nlm.nih.gov/21951984/), [24940527](https://pubmed.ncbi.nlm.nih.gov/24940527/)) consistently describe vilazodone as a combined selective serotonin reuptake inhibitor (SSRI) and 5-HT1A receptor partial agonist, originally developed and FDA-approved for Major Depressive Disorder (MDD) in adults.
+Vilazodone is an SSRI and a 5-HT1A partial agonist. It is approved in the US for major depressive disorder. Detailed mechanism of action data is not available from DrugBank in this dataset. The description above comes from the rationale notes and the retrieved literature.
 
-Dysthymic disorder (persistent depressive disorder) shares serotonergic pathophysiology with MDD, and SSRIs are commonly used across chronic depressive subtypes in clinical practice. Mechanistically, extending vilazodone's action to dysthymia is biologically plausible. That said, for this specific candidate the evidence pack records **no dedicated clinical trials and no literature** — the prediction is model-inferred only (evidence level L4, decision stage S1, recommendation "Research Question").
+Dysthymic disorder, now called persistent depressive disorder, is a chronic, lower-grade form of depression. It is biologically adjacent to major depressive disorder, and serotonergic antidepressants are widely used across the depressive spectrum. This is why the model scores the link so highly.
 
-**Important caveat:** among the other candidates in this evidence pack, "neurotic depression" (rank 3) and "melancholia" (rank 4) score similarly high and are backed by substantial literature (up to 20 papers, including the pivotal FDA-approval review PMID 21951984) and, for melancholia, one completed Phase 4 trial. However, the evidence pack's own rationale flags these as likely **overlapping with vilazodone's already-approved MDD indication** — i.e., a duplicate-detection artifact caused by the missing `original_indications` field — rather than a genuinely novel repurposing signal. This distinction matters: the strongest evidence in this pack largely reflects vilazodone's known use, not a new therapeutic direction.
+This is a model prediction only. No trial or publication in the dataset tests vilazodone in dysthymic disorder, and the similarity to the original indication has not yet been assessed. The score therefore shows graph-level plausibility, not demonstrated efficacy.
 
 ---
 
@@ -75,17 +75,25 @@ Currently no related literature available.
 
 ---
 
-## Taiwan Market Information
+## US Market Information
 
-Vilazodone currently has no approved license records in Taiwan (市場狀態：Not marketed / Not Marketed; total licenses: 0). No NDA or product data is available for this candidate.
+The dataset lists 20 licenses in total. The five main ones are shown below. None of them carries approved-indication text in the dataset.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA208200 | Vilazodone hydrochloride (Cipla USA Inc.) | Film-coated tablet | — |
+| ANDA208212 | Vilazodone Hydrochloride (Teva Pharmaceuticals, Inc.) | Film-coated tablet | — |
+| ANDA208202 | Vilazodone Hydrochloride (Alembic Pharmaceuticals Limited) | Film-coated tablet | — |
+| ANDA208228 | Vilazodone hydrochloride (Northstar Rx LLC) | Tablet | — |
+| ANDA208228 | Vilazodone hydrochloride (Apotex Corp.) | Tablet | — |
+
+All listed products are oral formulations.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-**Note:** TFDA label warnings and contraindications are currently missing and flagged as a **Blocking** data gap in this evidence pack — this must be resolved before the candidate can enter the S1 safety pre-assessment stage. No drug-drug interaction (DDI) records were found (query status: not found).
+Please refer to the package insert for safety information. The dataset has no warnings, contraindications, or drug interaction records for vilazodone.
 
 ---
 
@@ -94,14 +102,17 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (Dysthymic Disorder) is supported only by model inference (L4, TxGNN score 99.79%) with no dedicated trials or literature. Combined with a Blocking data gap in Taiwan label/safety information and the drug's current unmarketed status in Taiwan (0 licenses), there is insufficient evidence to advance this candidate at this time.
+The prediction is supported only by the model score (L5). There are no trials or publications for dysthymic disorder, and the safety data are missing. Among the other predicted indications, neurotic depression and melancholia have indirect literature, but these mostly overlap with the already-approved major depressive disorder. They are better treated as terminology or subtype questions than as distinct repurposing signals.
 
 **To proceed, the following is needed:**
-- TFDA label data (warnings, contraindications) — Blocking gap, required for S1 safety pre-assessment
-- Structured mechanism-of-action and original-indication records at the drug level (currently Data Gaps)
-- Dedicated clinical trials or literature evaluating vilazodone specifically in dysthymic disorder / persistent depressive disorder
-- Clarification of Taiwan market/import pathway, given zero current licenses
-- Reconciliation of whether "neurotic depression" / "melancholia" predictions represent a genuine repurposing signal or a duplicate-detection artifact from the missing original-indication field
+- Safety data: US package insert warnings and contraindications, which currently block the S1 safety screening
+- Mechanism of action data from DrugBank to support the mechanistic-link analysis
+- A targeted search for vilazodone studies in persistent depressive disorder or dysthymia, including trial registries and publications
+- A similarity assessment between dysthymic disorder and major depressive disorder, using diagnostic criteria and clinical endpoints
+
+---
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

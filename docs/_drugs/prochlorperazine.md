@@ -29,90 +29,91 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Prochlorperazine: From Antiemetic/Antipsychotic Use (Data Gap) to Retinal Dystrophy with or without Extraocular Anomalies
+# Prochlorperazine: From Nausea/Vomiting and Psychosis to Retinal Dystrophy (Prediction Not Supported)
 
 ## One-Sentence Summary
 
-> Prochlorperazine is a phenothiazine dopamine D2 antagonist; its formal original indication could not be confirmed in this evidence pack, but its known pharmacological class is used for nausea/vomiting and psychosis/sedation.
-> The TxGNN model assigns a very high score (**99.998%**) to **Retinal Dystrophy with or without Extraocular Anomalies**, but the model's own rationale flags this association as likely **spurious co-occurrence noise** — no clinical trials, and none of the associated literature actually discusses prochlorperazine.
-> Evidence level is **L5 (model prediction only)** and the recommended decision is **Hold**.
-
----
+Prochlorperazine is a phenothiazine dopamine antagonist that is widely marketed in the US. It is generally known as an antiemetic and antipsychotic, although the license records in this data do not list indication text.
+The TxGNN model predicts it may be effective for **retinal dystrophy with or without extraocular anomalies**, but there are **0 clinical trials** and **0 relevant publications** supporting this. The 15 retrieved papers are general eye-disease articles that do not study the drug.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no market license data; drug's pharmacological class is historically used as antiemetic/antipsychotic (dopamine D2 antagonist) |
+| Original Indication | Not listed in the license data (generally known use: severe nausea/vomiting and psychosis, based on general knowledge rather than the Evidence Pack) |
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
-| TxGNN Prediction Score | 99.998% (rank 138 of all candidates) |
+| TxGNN Prediction Score | 99.998% (model rank 138) |
 | Evidence Level | L5 |
-| Market Status | ✗ Not Marketed |
-| Number of NDAs | 0 |
-| Recommended Decision | **Hold** |
-
----
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (ANDA generics) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for prochlorperazine is not available as a structured field (flagged as a High-severity data gap). Based on information embedded in the model's own reasoning output, prochlorperazine is a **phenothiazine-class dopamine D2 receptor antagonist**, traditionally used for **antiemetic and sedative/antipsychotic** purposes.
+Detailed mechanism-of-action data is not available in the Evidence Pack. Prochlorperazine is a phenothiazine antipsychotic and antiemetic that works mainly by blocking dopamine D2 receptors.
 
-The top-ranked predicted indication — retinal dystrophy with or without extraocular anomalies — is a largely **congenital, genetically-driven retinal/ocular structural disorder**. There is no known pharmacological pathway by which a D2-antagonist antiemetic would influence retinal developmental biology or congenital extraocular structural anomalies. The evidence pack's own repurposing rationale explicitly states this is likely a **spurious knowledge-graph co-occurrence** rather than a genuine drug–disease relationship: the 14 associated publications are general ophthalmology reviews/case reports (orbital infections, diplopia, congenital ptosis, CFEOM, etc.) and **none of them mention prochlorperazine**.
+The expert review found **no credible mechanistic link** between D2 antagonism and retinal dystrophy pathways. The 99.998% score comes from a graph-based prediction only, and a high score here does not indicate real efficacy.
 
-Of note, a lower-ranked candidate in this evidence pack — **manic bipolar affective disorder** (rank 10, score 99.98%, evidence level L4) — has meaningfully stronger mechanistic plausibility: phenothiazines as a class were historically used for acute mania before modern antipsychotics existed, and one directly relevant case report (PMID 13617778) describes a confusional dream-like reaction specifically attributed to prochlorperazine in a patient with mild manic-depressive illness. This suggests the model's *overall signal quality* is mixed — some predictions reflect real pharmacology, while the top-ranked candidate here does not.
-
----
+The safety signal also points the wrong way. Phenothiazines are associated with retinal toxicity (pigmentary retinopathy), mainly with thioridazine and chlorpromazine at high doses. This argues against benefit in a retinal disease and raises a possible harm concern.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
-
----
+Currently no related clinical trials registered (neither ClinicalTrials.gov nor ICTRP).
 
 ## Literature Evidence
 
-The following literature is linked to *retinal dystrophy with or without extraocular anomalies* in the evidence pack. None of these publications discuss prochlorperazine directly; they are general ophthalmology/genetics reviews and case reports retrieved via disease-term co-occurrence.
+None of the retrieved papers evaluates prochlorperazine in retinal dystrophy. They are general articles on eye and orbital conditions, and all are tagged "relevance: pending". None can be counted as supporting evidence.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [33806565](https://pubmed.ncbi.nlm.nih.gov/33806565/) | 2021 | Case Series | Int J Mol Sci | Optic nerve/retinal abnormalities in congenital fibrosis of extraocular muscles (CFEOM); no drug relevance |
-| [38321238](https://pubmed.ncbi.nlm.nih.gov/38321238/) | 2024 | Review | Pediatric Radiology | Imaging review of pediatric congenital ocular pathologies |
+| [9416661](https://pubmed.ncbi.nlm.nih.gov/9416661/) | 1997 | Review | Semin Ultrasound CT MR | Orbital infections, most commonly from sinusitis; no drug-specific content |
+| [20127583](https://pubmed.ncbi.nlm.nih.gov/20127583/) | 2010 | Review | Semin Neurol | Systematic approach to evaluating diplopia |
+| [38321238](https://pubmed.ncbi.nlm.nih.gov/38321238/) | 2024 | Review | Pediatr Radiol | Imaging features of pediatric ocular pathologies (e.g., Coats disease, retinopathy of prematurity) |
 | [38249493](https://pubmed.ncbi.nlm.nih.gov/38249493/) | 2023 | Review | Taiwan J Ophthalmol | Congenital anomalies of lens shape |
-| [36892533](https://pubmed.ncbi.nlm.nih.gov/36892533/) | 2023 | pending | Invest Ophthalmol Vis Sci | MAB21L1 mutations causing autosomal dominant ocular BAMD syndrome (genetic, not pharmacologic) |
-| [36116851](https://pubmed.ncbi.nlm.nih.gov/36116851/) | 2022 | pending | Semin Ultrasound CT MR | Anatomy/pathology review of the oculomotor nerve |
-| [30196776](https://pubmed.ncbi.nlm.nih.gov/30196776/) | 2018 | Review | J Binocul Vis Ocul Motil | Congenital cranial dysinnervation disorders |
-| [24932988](https://pubmed.ncbi.nlm.nih.gov/24932988/) | 2014 | Review | Am J Ophthalmol | Maculopathy associated with cavitary optic disc anomalies |
-| [24413161](https://pubmed.ncbi.nlm.nih.gov/24413161/) | 2014 | pending | J Neuroophthalmol | Congenital trochlear-oculomotor synkinesis |
-| [22241537](https://pubmed.ncbi.nlm.nih.gov/22241537/) | 2012 | Review | Klin Monbl Augenheilkd | Congenital ptosis review |
-| [20127583](https://pubmed.ncbi.nlm.nih.gov/20127583/) | 2010 | Review | Semin Neurol | Diplopia diagnostic approach |
+| [22241537](https://pubmed.ncbi.nlm.nih.gov/22241537/) | 2012 | Review | Klin Monbl Augenheilkd | Congenital ptosis: forms and examination |
+| [7035111](https://pubmed.ncbi.nlm.nih.gov/7035111/) | 1981 | Review | Doc Ophthalmol | Wagner-Stickler syndrome complex (vitreoretinal degeneration) |
+| [30196776](https://pubmed.ncbi.nlm.nih.gov/30196776/) | 2018 | Review | J Binocul Vis Ocul Motil | Congenital cranial dysinnervation disorders and ophthalmoplegia |
+| [24932988](https://pubmed.ncbi.nlm.nih.gov/24932988/) | 2014 | Review | Am J Ophthalmol | Pathogenesis and treatment of maculopathy with cavitary optic disc anomalies |
+| [33806565](https://pubmed.ncbi.nlm.nih.gov/33806565/) | 2021 | Cohort | Int J Mol Sci | Optic nerve head and retinal abnormalities in congenital fibrosis of extraocular muscles |
+| [109006](https://pubmed.ncbi.nlm.nih.gov/109006/) | 1979 | Case report | Am J Ophthalmol | Two cases of unilateral cryptophthalmia |
 
----
+## US Market Information
 
-## Market Information
+The source data does not provide approved indication text for any of these licenses. The full list contains 20 authorizations; the five main ones are shown.
 
-The drug is currently **not marketed** under this evidence pack's regulatory jurisdiction — `total_licenses = 0`, no license records available. No dosage form or approved-indication data could be extracted.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA216495 | Prochlorperazine Maleate (Zydus Lifesciences) | Tablet | Not specified in source data |
+| ANDA040268 | Prochlorperazine Maleate (Northwind Health) | Tablet | Not specified in source data |
+| ANDA040101 | Prochlorperazine Maleate (Chartwell RX) | Tablet, film coated | Not specified in source data |
+| ANDA204147 | Prochlorperazine Edisylate (Avenacy) | Injection, solution | Not specified in source data |
+| ANDA216202 | Prochlorperazine Maleate (Major Pharmaceuticals) | Tablet | Not specified in source data |
 
----
+Other available forms include injection and suppository.
 
 ## Safety Considerations
 
-Formal safety data (key warnings, contraindications, drug interaction database) could not be retrieved for this evidence pack — flagged as a **Blocking-severity data gap (DG001)**: TFDA/local label warnings and contraindications require manual PDF retrieval and have not yet been completed. DDI query returned no results (`query_status: not_found`).
+- **Retinal toxicity concern**: Phenothiazines as a class have been linked to pigmentary retinopathy, mainly thioridazine and chlorpromazine at high doses. This is a particular concern for any retinal indication.
+- **Drug Interactions**: The DDI query returned no records.
 
-> Please refer to the official package insert for safety information once available.
-
----
+Please refer to the package insert for warnings and contraindications, which are not available in the Evidence Pack. This gap is flagged as blocking for safety screening.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (retinal dystrophy with extraocular anomalies) has no clinical trials, no directly relevant literature, and the model's own rationale identifies it as likely spurious knowledge-graph noise rather than a genuine pharmacological signal — evidence level L5, decision stage S0. This candidate should not advance without independent mechanistic or preclinical justification.
+The prediction rests on a model score alone. There are no trials and no relevant literature, and the mechanism is implausible. The known retinal toxicity of phenothiazines argues against benefit. The evidence level is L5.
 
 **To proceed, the following is needed:**
-- Resolve blocking data gap DG001: retrieve official label warnings/contraindications before any safety-relevant decision (S1) can be made
-- Resolve data gap DG002: confirm mechanism of action and original approved indication(s) from DrugBank/regulatory source
-- If pursuing further, consider re-scoping toward the **manic bipolar affective disorder** candidate (rank 10, L4, S1 "Research Question"), which has class-level mechanistic plausibility and at least one drug-specific case report, rather than the top-ranked but mechanistically unsupported ophthalmologic candidate
+- FDA package insert warnings and contraindications (blocking gap)
+- Mechanism-of-action data from DrugBank
+- Any preclinical evidence linking dopamine antagonism to retinal degeneration, or an explanation of why the model ranks this indication so high
+- Retinal safety review for prochlorperazine
+
+**Note on other predictions for this drug:** The same model output also ranks **manic bipolar affective disorder** (score 99.979%, model rank 1047). Its evidence level is L4 and it is at stage S1 as a "Research Question". It is biologically plausible, since D2-antagonist antipsychotics are established for acute mania. However, the literature is historical and indirect, with no trials and no drug-specific efficacy data. Better-characterized alternatives exist. Any follow-up should start with a safety review covering seizure risk, tardive dyskinesia, and metabolic effects.
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

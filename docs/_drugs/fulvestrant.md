@@ -29,31 +29,30 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Fulvestrant: From ER-Positive Breast Cancer to HIV Infectious Disease
+# Fulvestrant: From Breast Cancer to HIV Infectious Disease
 
 ## One-Sentence Summary
 
-Fulvestrant is a selective estrogen receptor degrader (SERD), established in clinical use for ER-positive/HER2-negative breast cancer (referenced repeatedly in the prediction rationale, though no formal indication text is on file). The TxGNN model predicts it may be effective for **HIV infectious disease**, with a very high prediction score (**99.91%**) but **zero clinical trials** and only **1 tangentially related publication** — and the model's own rationale states there is no known antiviral mechanism for fulvestrant.
+Fulvestrant is an injectable estrogen receptor antagonist and degrader, used for hormone receptor-positive breast cancer.
+The TxGNN model predicts it may be effective for **HIV infectious disease**, but there are currently **0 registered clinical trials** and **no directly relevant publications** supporting this direction. The prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | ER-positive, HER2-negative breast cancer (inferred from mechanism context embedded in the prediction rationale; no formal regulatory indication text is available — the drug has no US licenses on file) |
+| Original Indication | Hormone receptor-positive breast cancer (the US licence records contain no indication text; this comes from the drug's known use and the related trial context) |
 | Predicted New Indication | HIV infectious disease |
 | TxGNN Prediction Score | 99.91% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for fulvestrant is not available in this evidence pack (flagged as a High-severity data gap, DG002). Based on information embedded in the prediction rationale, fulvestrant is a selective estrogen receptor degrader/antagonist (SERD), with established efficacy in ER-positive breast cancer via estrogen receptor downregulation.
+Currently, detailed mechanism of action data is not available in the input. Based on known information, fulvestrant is an estrogen receptor antagonist and degrader. Its efficacy in hormone receptor-positive breast cancer is established, but that mechanism has no known link to HIV.
 
-For the top-ranked prediction, HIV infectious disease, the model's own rationale explicitly states there is **no known mechanistic link**: fulvestrant has no antiviral pharmacological basis and no direct connection to HIV or HTLV-1 infection biology. The sole supporting publication (PMID 40343334) is a multi-omics analysis of HTLV-1-associated myelopathy that does not mention fulvestrant directly, and its relevance has not yet been formally assessed ("pending").
-
-Given the very high TxGNN score paired with the complete absence of mechanistic or clinical support, this prediction most likely reflects a knowledge-graph association (e.g., shared pathway nodes or ontology proximity) rather than a pharmacologically plausible repurposing candidate.
+The prediction is best read as a graph-based signal from the TxGNN knowledge graph, not a mechanistic hypothesis. Two other predictions support this reading. Simian immunodeficiency virus infection and feline acquired immunodeficiency syndrome received near-identical scores of 99.83%, which suggests they are correlated with the HIV prediction through disease-node similarity. Estrogen receptor antagonism has no established role in HIV pathogenesis, so the prediction needs independent mechanistic and experimental support before it can be treated as credible.
 
 ## Clinical Trial Evidence
 
@@ -63,28 +62,54 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [40343334](https://pubmed.ncbi.nlm.nih.gov/40343334/) | 2025 | Multi-omics/Genomics Analysis (preprint, Research Square) | Research square | Multi-cohort cross-omics study of HTLV-1-associated myelopathy (HAM), a neglected retroviral neuroinflammatory disease; identifies disease mechanisms and therapeutic targets, but does not specifically evaluate fulvestrant. Relevance to this drug not yet confirmed. |
+| [40343334](https://pubmed.ncbi.nlm.nih.gov/40343334/) | 2025 | Multi-cohort cross-omics analysis | Research Square | Systems biology study of HTLV-1-associated myelopathy, a neuroinflammatory disease caused by a different retrovirus. It is not an HIV study, and no fulvestrant data are evident from the title or abstract. |
+
+This is the only retrieved item, and it does not support the predicted indication.
 
 ## US Market Information
 
-Fulvestrant is not currently marketed in the US under this evidence pack's data — 0 licenses/NDAs are on file.
+The licence records contain no approved indication text. Of the 20 licences, the 5 main ones are listed below.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA210326 | Fulvestrant | Injection, solution | Fresenius Kabi USA, LLC |
+| ANDA215077 | Fulvestrant | Injection | Alembic Pharmaceuticals Inc. |
+| ANDA211422 | Fulvestrant | Injection, solution | Avenacy, Inc. |
+| ANDA205935 | Fulvestrant | Injection | Sandoz Inc |
+| ANDA215077 | Fulvestrant | Injection | BluePoint Laboratories. |
+
+All listed forms are injectables.
+
+## Cytotoxicity
+
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Endocrine therapy (estrogen receptor antagonist and degrader), not a conventional cytotoxic agent |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | Please refer to the package insert warnings and precautions |
+| Handling Protection | Please refer to the package insert warnings and precautions |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No drug-drug interaction records were found for this drug.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction carries a high TxGNN confidence score but is classified as Evidence Level L5 (model prediction only) — there are no clinical trials, no mechanistically relevant literature, and the rationale itself concludes there is no plausible pharmacological basis linking fulvestrant to HIV infection. This does not meet the threshold to advance past initial screening.
+The HIV prediction has a high model score, but it has no clinical trials, no relevant literature and no plausible mechanism linking estrogen receptor antagonism to HIV. Evidence is at L5 (model prediction only), so the prediction is not ready for development.
 
 **To proceed, the following is needed:**
-- TFDA/FDA labeling data — warnings, contraindications (currently a Blocking data gap, DG001; required before any S1 safety review)
-- Confirmed mechanism-of-action data for fulvestrant (High-severity data gap, DG002)
-- Literature or preclinical data specifically evaluating estrogen-receptor pathway involvement in HIV/retroviral pathogenesis
-- Drug-drug interaction data (current DDI query returned no results)
+- Fulvestrant's mechanism of action data, plus a mechanistic hypothesis for the HIV link.
+- Package insert warnings and contraindications, which are needed before any safety screening.
+- Supporting preclinical evidence, such as in vitro or animal data on fulvestrant in HIV or related lentiviral models.
+- A curated literature search, since the one retrieved paper concerns HTLV-1 rather than HIV.
+
+Among the other predictions, rheumatoid arthritis (score 99.58%) reached L4. Its preclinical estrogen-signaling data point in ambiguous directions, and it is best treated as a research question.
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

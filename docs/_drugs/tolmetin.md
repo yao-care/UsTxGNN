@@ -29,81 +29,72 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tolmetin: From NSAID Anti-Inflammatory Use to Rheumatoid Factor-Positive Polyarticular Juvenile Idiopathic Arthritis
+# Tolmetin: From an Oral NSAID to Acromesomelic Dysplasia, Hunter-Thompson Type
 
 ## One-Sentence Summary
 
-> Tolmetin is a non-steroidal anti-inflammatory drug (NSAID) that inhibits COX-1/COX-2 to reduce prostaglandin-mediated inflammation and pain; detailed original-indication and MOA records are currently missing from this dataset.
-> The TxGNN model's most credible prediction — after excluding several rare monogenic skeletal-dysplasia hits flagged internally as likely graph noise — points to **rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (JIA)**.
-> This is currently supported only by mechanistic rationale and historical labeling precedent; **no clinical trials or published literature** are present in this evidence pack.
-
----
+Tolmetin is an oral non-steroidal anti-inflammatory drug (NSAID) marketed in the US as tablets and capsules. The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunter-Thompson type**, a rare genetic skeletal disorder. **No clinical trials and no publications** currently support this prediction, and the mechanistic link is implausible.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in this dataset (`original_indications` is empty). Historical labeling notes cited in the evidence pack indicate Tolmetin (Tolectin) was used as an NSAID in rheumatoid-spectrum arthritis, including juvenile rheumatoid arthritis in some markets. |
-| Predicted New Indication | Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis |
-| TxGNN Prediction Score | 99.75% |
-| Evidence Level | L4 (mechanistic/historical rationale, no trials or literature on file) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
-**Note on candidate selection:** TxGNN's top 5 raw-ranked predictions (acromesomelic dysplasia, brachyolmia-amelogenesis imperfecta syndrome, myosclerosis, brachyolmia, pseudoachondroplasia) are rare monogenic skeletal/structural disorders. The evidence pack's own rationale annotates all of these as lacking any plausible mechanistic link to an NSAID and scores them "Hold" (L5, S0). The candidate selected above (rank 7 overall) is the only one that reached decision stage S1 with a "Proceed with Guardrails" recommendation, so it is used here as the primary evaluation subject.
-
----
+| Original Indication | Not listed (approved indication text is empty for all three US licenses) |
+| Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
+| TxGNN Prediction Score | 99.98% |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 3 (all are ANDA generic applications) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for Tolmetin is not available from DrugBank (Data Gap). Based on the pharmacological class information present in the evidence pack, Tolmetin is an NSAID that inhibits COX-1/COX-2, thereby reducing prostaglandin synthesis and producing anti-inflammatory and analgesic effects.
+Currently, detailed mechanism of action data is not available in the Evidence Pack. Tolmetin is an NSAID that inhibits cyclooxygenase (COX), which reduces inflammation and pain.
 
-Rheumatoid factor-positive polyarticular JIA is a pediatric disease within the rheumatoid arthritis spectrum, driven by prostaglandin-mediated synovial inflammation — the same pathway targeted by NSAIDs. The evidence pack notes that Tolmetin (brand name Tolectin) was historically approved in some markets specifically for juvenile rheumatoid arthritis (JRA), the older nomenclature for this disease group. This gives the prediction a real-world precedent beyond the model score alone.
+Acromesomelic dysplasia, Hunter-Thompson type, is a genetic skeletal dysplasia related to CDMP1/GDF5. It affects skeletal development, and COX inhibition does not act on that pathway. The high TxGNN score most likely reflects proximity in the knowledge graph rather than real pharmacology, so this prediction should be treated as **not mechanistically supported**.
 
-The main limitation is that this dataset contains **no confirmatory clinical trials or literature** for this specific indication, and Tolmetin is currently **Not Marketed**, which limits near-term practical feasibility until sourcing/registration pathways are clarified.
-
----
+Other predictions for tolmetin are more plausible but are still not evidence-backed:
+- **Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis** (score 99.75%, L4) and **spondyloarthropathy, susceptibility to** (score 99.75%, L4). NSAIDs are used symptomatically in these conditions. That support comes from NSAID class knowledge, not from tolmetin-specific data.
+- Juvenile arthritis may already be a labeled use, in which case it would not be true repurposing. Check the label before treating it as a candidate.
+- **Myosclerosis** and **rheumatoid nodulosis** have only weak, speculative links through symptomatic anti-inflammatory effects.
+- The remaining predictions (brachyolmia and related syndromes, pseudoachondroplasia, colobomatous microphthalmia-rhizomelic dysplasia syndrome, WHIM syndrome) have no plausible mechanistic link.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-No license records are present in the dataset (`total_licenses = 0`). Market status is recorded as **Not Marketed**, meaning there is currently no active NDA/marketing authorization on file for Tolmetin in this jurisdiction.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA074473 | Tolmetin Sodium (Atland Pharmaceuticals) | Tablet, film coated | Not listed |
+| ANDA073393 | Tolmetin Sodium (Atland Pharmaceuticals) | Capsule | Not listed |
+| ANDA074473 | Tolectin (Poly Pharmaceuticals) | Tablet, film coated | Not listed |
 
----
+All products are oral formulations.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
 
-*(Key warnings, contraindications, and DDI data are all flagged as Data Gaps in this evidence pack, including a **Blocking**-severity gap for TFDA label warnings/contraindications — see Conclusion below.)*
-
----
-
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The rheumatoid factor-positive polyarticular JIA hypothesis has a coherent mechanistic basis (COX inhibition → reduced synovial inflammation) and historical labeling precedent, reaching evidence level L4 — clearly stronger than the other candidates in this batch, most of which were internally flagged as graph noise. However, no clinical trials or literature currently substantiate this specific use, and a Blocking-severity safety data gap prevents a full S1 safety review.
+The top-ranked prediction is supported only by a model score. It has no trials, no literature, no plausible mechanism, and a genetic skeletal disorder is not addressed by COX inhibition. Evidence level is L5.
 
 **To proceed, the following is needed:**
-- Retrieve TFDA label warnings and contraindications (DG001, Blocking — required before any S1 safety sign-off)
-- Obtain formal DrugBank MOA documentation (DG002)
-- Search for confirmatory trials/literature specifically on Tolmetin (or class-level NSAID evidence) in RF+ polyarticular JIA
-- Clarify the regulatory/sourcing pathway given the drug's current "Not Marketed" status
-- Lower-priority hypotheses worth monitoring only as research questions: rheumatoid nodulosis (rank 6) and spondyloarthropathy susceptibility locus (rank 8) — neither currently warrants active development
+- Package insert warnings and contraindications, which are currently missing and block safety screening
+- The approved indications from the tolmetin label, to confirm the original use and whether juvenile arthritis is already labeled
+- Mechanism of action data (for example from DrugBank)
+- Consideration of juvenile idiopathic arthritis and spondyloarthropathy as separate research questions, with tolmetin-specific evidence searches
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -33,73 +33,77 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Thioridazine is a first-generation phenothiazine antipsychotic historically prescribed for schizophrenia and psychotic agitation, withdrawn from the US market in 2005 due to life-threatening ventricular arrhythmias caused by QTc prolongation.
-The TxGNN model predicts it may be effective for **Manic Bipolar Affective Disorder**,
-with **0 clinical trials** and **20 publications** currently supporting this direction — though most evidence is indirect, class-level, or historical in nature.
+Thioridazine is a phenothiazine antipsychotic. The license records in the Evidence Pack contain no indication text, so schizophrenia is taken from general drug knowledge and the retrieved literature.
+The TxGNN model predicts it may be effective for **manic bipolar affective disorder**, but there are **0 clinical trials** and only a handful of thioridazine-specific publications, mostly old or indirect. The prediction is best regarded as a model hypothesis with very weak clinical support.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No active US regulatory record (historically: schizophrenia and psychotic agitation — drug withdrawn 2005) |
-| Predicted New Indication | Manic Bipolar Affective Disorder |
+|------|------|
+| Original Indication | Schizophrenia (general knowledge; license records list no indication text) |
+| Predicted New Indication | Manic bipolar affective disorder |
 | TxGNN Prediction Score | 99.98% |
 | Evidence Level | L4 |
-| US Market Status | Not Marketed (Withdrawn 2005) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (generic ANDA approvals) |
 | Recommended Decision | Hold |
 
 ---
 
-## Why Is This Prediction Reasonable?
+## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the current Evidence Pack. Based on established pharmacology, thioridazine is a phenothiazine-class compound acting primarily as a D2 dopamine receptor antagonist, with additional activity at muscarinic, histaminergic, and alpha-adrenergic receptors. Its antipsychotic and sedative effects arise from dopaminergic blockade in mesolimbic and nigrostriatal pathways — the same pharmacological signature that makes this TxGNN prediction biologically coherent.
+Detailed mechanism of action data is not available in the Evidence Pack. Based on known information, thioridazine is a phenothiazine antipsychotic. Its class mechanism is dopamine D2 and serotonin 5-HT2A receptor antagonism, and the same class mechanism is used in acute mania.
 
-Manic bipolar disorder and schizophrenia share a core pathophysiological thread: dopamine hyperactivation in mesolimbic circuits underlies both psychotic symptoms and acute manic episodes. D2 antagonism that suppresses psychosis in schizophrenia is mechanistically expected to dampen dopamine-driven manic excitation as well. This is not merely theoretical: a 1980 controlled study (PMID 6155678) directly compared pimozide, chlorpromazine, and thioridazine in manic patients and found comparable clinical improvement across all three agents, explicitly attributing the effect to D2 receptor blockade. Clinical reports from 1964 (PMID 14252012) also document combined thioridazine regimens specifically for psychomotor excitation and manic reactions, and a 2026 review (PMID 40926568) cites phenothiazines' documented clinical use in mania within bipolar disorder.
+Mania and psychotic disorders share dopaminergic overactivity, so a D2-blocking antipsychotic could plausibly help. A 1980 study reported that pimozide improved manic patients to a degree and over a time course similar to that seen with chlorpromazine and thioridazine. This is supportive but indirect, because thioridazine was a reference drug rather than the test drug.
 
-The critical constraint here is safety, not mechanistic plausibility. Thioridazine prolongs the QTc interval dose-dependently, raising the risk of Torsades de Pointes and sudden cardiac death — the reason it was withdrawn from global markets. This concern is especially acute in bipolar disorder patients, a population known to carry elevated cardiac genetic risk through CACNA1C variants (PMID 38560725). Additionally, lithium — the cornerstone of bipolar disorder maintenance therapy — carries a documented severe neurotoxic interaction with thioridazine (PMID 106047), further limiting combination use. Modern atypical antipsychotics (quetiapine, aripiprazole, olanzapine) achieve equivalent D2 antagonism with substantially superior cardiovascular safety, making them the current standard of care for acute mania.
+Caution is needed. The retrieved literature is mostly about other antipsychotics (olanzapine, quetiapine) or is generic, such as pregnancy safety and review articles. No thioridazine-specific mania trial was identified. Thioridazine carries a boxed warning for QTc prolongation, and safer alternatives are available. The TxGNN score is a prediction, not clinical evidence.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for thioridazine in manic bipolar affective disorder.
-
-> **Relevant Safety Trial Note:** A completed trial ([NCT00538122](https://clinicaltrials.gov/study/NCT00538122), N=12) specifically assessed T-wave abnormalities and arrhythmia/sudden death risk in thioridazine patients via 24-hour Holter ECG monitoring. While not a therapeutic efficacy trial, its findings directly confirm thioridazine's cardiac liability and were pivotal to its market withdrawal — this is a blocking finding for any bipolar repurposing pathway.
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [6155678](https://pubmed.ncbi.nlm.nih.gov/6155678/) | 1980 | Controlled Study | Psychopharmacology | Direct comparison of pimozide vs. phenothiazines (including thioridazine) in manic patients; comparable clinical improvement across agents confirms dopamine blockade as anti-manic mechanism |
-| [14252012](https://pubmed.ncbi.nlm.nih.gov/14252012/) | 1964 | Early Clinical Report | Annales Médico-Psychologiques | Combined thioridazine-Nembutal with electroshock therapy for psychomotor excitation and manic reactions — earliest direct clinical record of thioridazine in mania |
-| [8448267](https://pubmed.ncbi.nlm.nih.gov/8448267/) | 1993 | Observational | Biological Psychiatry | Case study of a woman on maintenance thioridazine hydrochloride for schizoaffective mania; 11-year circannual tracking of manic episodes demonstrates long-term use in mood disorder |
-| [40926568](https://pubmed.ncbi.nlm.nih.gov/40926568/) | 2026 | Review | J Applied Toxicology | Comprehensive review of phenothiazine derivatives (including thioridazine) across schizophrenia, mania in bipolar disorder, and psychosis; discusses cancer-inhibiting potential via apoptosis pathways |
-| [17017818](https://pubmed.ncbi.nlm.nih.gov/17017818/) | 2006 | Systematic Review | J Clinical Psychiatry | Systematic review of typical and atypical antipsychotics for anxiety symptoms comorbid with major depression and bipolar disorder; class-level support for antipsychotics in mood disorder |
-| [11910256](https://pubmed.ncbi.nlm.nih.gov/11910256/) | 2002 | Pharmacokinetics Study | J Clinical Psychopharmacology | Quetiapine co-administered with thioridazine in 36 patients with schizophrenia, schizoaffective disorder, or bipolar disorder; documents pharmacokinetic interactions relevant to combination therapy |
-| [106047](https://pubmed.ncbi.nlm.nih.gov/106047/) | 1979 | Case Series | J Clinical Psychiatry | Four cases of severe neurotoxicity — delirium, seizures, encephalopathy, abnormal EEG — when lithium was combined with thioridazine; critical safety warning given lithium's central role in bipolar treatment |
-| [11336615](https://pubmed.ncbi.nlm.nih.gov/11336615/) | 2001 | Review | Expert Opinion on Pharmacotherapy | History of phenothiazines in non-psychotic psychiatric disorders; thioridazine cited as key class member, contextualizing use beyond schizophrenia |
-| [38560725](https://pubmed.ncbi.nlm.nih.gov/38560725/) | 2024 | In Vitro Study | Biological Psychiatry Global Open Science | CACNA1C mutation in bipolar disorder patients causes cardiac conduction slowing in iPSC-derived cardiomyocytes; directly relevant to thioridazine's QTc risk in genetically vulnerable bipolar patients |
-| [19461391](https://pubmed.ncbi.nlm.nih.gov/19461391/) | 2009 | Review | J Psychiatric Practice | Safety and pharmacology of antipsychotics (including thioridazine) during pregnancy; highlights phenothiazine class risk profile in vulnerable populations |
+|------|-----|------|------|---------|
+| [17017818](https://pubmed.ncbi.nlm.nih.gov/17017818/) | 2006 | Review | J Clin Psychiatry | Reviews typical and atypical antipsychotics for anxiety symptoms in disorders including bipolar disorder; not thioridazine-specific |
+| [11336615](https://pubmed.ncbi.nlm.nih.gov/11336615/) | 2001 | Review | Expert Opin Pharmacother | Olanzapine in non-psychotic disorders; mentions thioridazine only as a historical phenothiazine |
+| [19461391](https://pubmed.ncbi.nlm.nih.gov/19461391/) | 2009 | Review | J Psychiatr Pract | Antipsychotic use and safety in pregnancy; general class review |
+| [40926568](https://pubmed.ncbi.nlm.nih.gov/40926568/) | 2026 | Review | J Appl Toxicol | Phenothiazine derivatives and apoptosis; notes use in mania of bipolar disorder, focus is cancer-cell biology |
+| [6155678](https://pubmed.ncbi.nlm.nih.gov/6155678/) | 1980 | Not classified | Psychopharmacology | Pimozide gave clinical improvement in mania similar in size and time course to chlorpromazine and thioridazine |
+| [8448267](https://pubmed.ncbi.nlm.nih.gov/8448267/) | 1993 | Not classified | Biol Psychiatry | Single patient with schizoaffective disorder on thioridazine maintenance; manic episode timing tracked over the year and menstrual cycle |
+| [14252012](https://pubmed.ncbi.nlm.nih.gov/14252012/) | 1964 | Not classified | Ann Med Psychol | Thioridazine-barbiturate combined with electroshock for psychomotor excitation and manic reactions (no abstract) |
+| [11910256](https://pubmed.ncbi.nlm.nih.gov/11910256/) | 2002 | Clinical pharmacology study | J Clin Psychopharmacol | Quetiapine coadministered with thioridazine in patients including bipolar disorder; pharmacokinetics and safety only |
+| [106047](https://pubmed.ncbi.nlm.nih.gov/106047/) | 1979 | Not classified | J Clin Psychiatry | Four cases of severe neurotoxicity (delirium, seizures, encephalopathy) when lithium was combined with thioridazine |
+| [3945208](https://pubmed.ncbi.nlm.nih.gov/3945208/) | 1986 | Not classified | Med J Aust | Encephalopathy with lithium plus thioridazine (no abstract) |
 
 ---
 
 ## US Market Information
 
-No active US regulatory authorizations are on record for thioridazine. Thioridazine was historically marketed in the United States as **Mellaril®** (Novartis) for schizophrenia. It was voluntarily withdrawn from the US market in 2005 following FDA safety communications regarding fatal ventricular arrhythmias associated with QTc interval prolongation. No NDA data is available for tabulation from this Evidence Pack.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA088004 | Thioridazine Hydrochloride (Mylan Institutional) | Film-coated tablet | Not listed in records |
+| ANDA088004 | Thioridazine Hydrochloride (Safecor Health) | Film-coated tablet | Not listed in records |
+| ANDA089953 | Thioridazine Hydrochloride (Sun Pharmaceutical) | Film-coated tablet | Not listed in records |
+| ANDA088135 | Thioridazine Hydrochloride (Chartwell RX) | Film-coated tablet | Not listed in records |
+
+All listed products are oral. The pack reports 20 licenses in total; only these distinct authorizations are shown.
 
 ---
 
 ## Safety Considerations
 
-While formal FDA labeling data is unavailable in this Evidence Pack, the following safety signals are directly documented in the reviewed clinical evidence:
+- **Key Warnings**: The package insert content was not retrieved. The Evidence Pack's own assessment flags a boxed warning for QTc prolongation, which is a major barrier to any new use.
+- **Drug Interactions**: No interactions were returned from the database query. The literature reports severe neurotoxicity when thioridazine is combined with lithium (PMIDs 106047, 3945208). This matters for mania, where lithium is a standard treatment. It also reports CYP2D6-mediated interference with imipramine metabolism (PMID 8946674). Strict QTc and CYP2D6 safeguards would be required.
 
-- **Cardiac Arrhythmia / QTc Prolongation**: NCT00538122 (completed, N=12) specifically assessed T-wave abnormalities and arrhythmia/sudden death risk in thioridazine patients via 24-hour Holter ECG monitoring. This is the primary basis for the 2005 market withdrawal and constitutes a blocking safety barrier for any repurposing pathway in bipolar disorder — a population that may carry additional cardiac genetic vulnerability (CACNA1C, PMID 38560725).
-- **Severe Lithium–Thioridazine Neurotoxic Interaction**: PMID 106047 documents four cases of delirium, seizures, encephalopathy, and grossly abnormal EEGs when thioridazine was co-administered with lithium. Given that lithium is a cornerstone first-line therapy for bipolar disorder, this interaction is especially critical to flag.
+Please refer to the package insert for full safety information.
 
 ---
 
@@ -108,14 +112,13 @@ While formal FDA labeling data is unavailable in this Evidence Pack, the followi
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic case for thioridazine in manic bipolar disorder is pharmacologically valid — D2 receptor antagonism demonstrably suppresses dopamine-driven manic excitation, as shown in direct historical clinical studies — but thioridazine's well-documented QTc prolongation risk and its resulting 2005 US market withdrawal represent a fundamental blocking safety concern. In a patient population with known cardiac genetic vulnerabilities and lithium as the standard co-treatment, the risk-benefit calculus is unfavorable, and safer alternatives with equivalent efficacy already exist.
+The high TxGNN score is not backed by any thioridazine-specific clinical evidence in mania. The support is class-level or historical, and the QTc boxed warning and the lithium interaction are significant obstacles. Other predicted indications in the pack, such as major affective disorder and ADHD, have slightly more direct thioridazine data, but these are also small, old studies.
 
-**To proceed, the following would be needed:**
-- Identification of a clearly defined patient subpopulation where all approved atypical antipsychotics are contraindicated or inadequate, justifying thioridazine's risk profile
-- Complete formal MOA data from DrugBank (Data Gap DG002) to assess whether thioridazine offers any mechanistic advantage over available agents
-- Full historical FDA labeling and contraindication documentation (Data Gap DG001)
-- Regulatory pathway assessment for a withdrawn drug seeking a new indication
-- Prospective cardiac monitoring protocol (continuous Holter ECG, electrolyte management) as a prerequisite for any early-phase study design
+**To proceed, the following is needed:**
+- Package insert warnings and contraindications (blocking data gap)
+- Detailed mechanism of action data (MOA)
+- Controlled, thioridazine-specific efficacy data in mania, compared against current standard agents
+- A QTc, lithium co-use and CYP2D6 interaction risk-management plan
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

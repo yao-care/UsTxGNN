@@ -33,74 +33,72 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Alglucosidase alfa (Myozyme/Lumizyme) is a recombinant human acid alpha-glucosidase (GAA) enzyme replacement therapy, originally approved for Pompe disease (glycogen storage disease type II, GSD-II) — a lysosomal glycogen metabolism disorder.
-The TxGNN model predicts it may be effective for **Adult Polyglucosan Body Disease (APBD)**,
-however, **0 clinical trials** and **0 publications** currently support this specific direction, making this a model-only prediction at present.
-
----
+Alglucosidase alfa is a recombinant human acid alpha-glucosidase (GAA) enzyme replacement therapy, marketed in the US as Lumizyme and Nexviazyme and used for Pompe disease.
+The TxGNN model predicts it may be effective for **adult polyglucosan body disease (APBD)**, but there are **0 clinical trials** and **0 publications** supporting this direction, so it remains a research question.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Pompe disease (GSD-II / acid maltase deficiency) |
-| Predicted New Indication | Adult Polyglucosan Body Disease (APBD) |
+|------|------|
+| Original Indication | Pompe disease (acid alpha-glucosidase deficiency). The approved-indication text in the Evidence Pack is blank, so this comes from general knowledge of the products. |
+| Predicted New Indication | Adult polyglucosan body disease |
 | TxGNN Prediction Score | 99.47% |
 | Evidence Level | L5 |
-| US Market Status | Not registered in current dataset (0 licenses found) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 (both are BLAs) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological information, alglucosidase alfa is a recombinant form of human lysosomal acid alpha-glucosidase (GAA). It functions as enzyme replacement therapy (ERT) for Pompe disease, in which GAA deficiency leads to progressive lysosomal glycogen accumulation in cardiac and skeletal muscle — ultimately causing cardiomyopathy, respiratory failure, and limb girdle weakness.
+Currently, detailed mechanism of action data is not available in the Evidence Pack. Alglucosidase alfa is recombinant human GAA. It hydrolyzes glycogen inside lysosomes, and this is the basis of its use in Pompe disease.
 
-Adult Polyglucosan Body Disease (APBD) is a distinct glycogen metabolism disorder caused by mutations in the *GBE1* gene (glycogen branching enzyme), leading to accumulation of abnormally structured polyglucosan bodies primarily in neurons and axons — an extralysosmal pathway. Both conditions belong to the broader family of glycogen storage disorders (GSDs), which explains the high TxGNN prediction score (0.9947): the model likely detects topological proximity between these two diseases within the GSD family graph, rather than enzyme target overlap.
+APBD is caused by deficiency of the glycogen branching enzyme (GBE1). This produces poorly branched polyglucosan that accumulates mainly in the cytosol of neurons and glia. Both diseases involve abnormal glycogen handling, and this shared axis explains the high graph score.
 
-The mechanistic connection is therefore indirect. Alglucosidase alfa targets GAA within lysosomes, whereas APBD involves GBE1 deficiency outside the lysosomal compartment. There is no published human trial or case report supporting ERT with alglucosidase alfa for APBD. The TxGNN high score reflects GSD family graph proximity — not enzymatic functional homology — and should be interpreted with caution.
+The mechanistic fit is weak to moderate for three reasons:
+- GAA works in the lysosome and does not restore branching enzyme activity.
+- A large recombinant enzyme has limited CNS penetration, and APBD is predominantly neurological.
+- No clinical data support the prediction.
 
----
+The next two predictions (ranks 2–3) are the congenital and fatal perinatal neuromuscular forms of GBE1-deficiency glycogen storage disease (GSD IV). They have the same indirect link and no supporting evidence.
+
+Ranks 4–10 are eyelid and ocular-motor conditions: congenital entropion, congenital ectropion, congenital Horner syndrome, ptosis-vocal cord paralysis syndrome, camptodactyly-myopia-medial rectus fibrosis, epiblepharon, and ptosis-strabismus-ectopic pupils syndrome. They probably reflect phenotype overlap (such as ptosis in Pompe disease) in the knowledge graph rather than a real therapeutic mechanism. All of these carry a Hold recommendation.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## US Market Information
 
-## US Market Status
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| BLA125291 | Lumizyme (Genzyme Corporation) | Injection, powder, for solution | Not listed in the source data |
+| BLA761194 | Nexviazyme (Genzyme Corporation) | Injection, powder, lyophilized, for solution | Not listed in the source data |
 
-No licenses found in the current dataset. The regulatory query for alglucosidase alfa returned 0 results.
-
-> **Note:** This may reflect a data pipeline gap. Alglucosidase alfa is known to have received regulatory approval in major markets under the brand names Myozyme (infantile-onset Pompe disease) and Lumizyme (late-onset Pompe disease). A direct regulatory database query is recommended to confirm current licensure status.
-
----
+Both products are injectable only. Route compatibility with the predicted indications has not been assessed.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: The DDI query returned no records.
 
----
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN model assigns a high score (99.47%) to APBD based on glycogen storage disorder family proximity in the knowledge graph, but the enzyme targets are fundamentally different — alglucosidase alfa corrects GAA deficiency, while APBD involves GBE1 deficiency in a distinct metabolic pathway. No clinical trials, case reports, or published literature currently support this repurposing direction. The high-ranking ophthalmic predictions (ranks 4–10: congenital entropion, ectropion, Horner syndrome, epiblepharon, etc.) are assessed as model false positives with no mechanistic basis.
+The prediction rests on model score alone (L5). The mechanism is only indirectly plausible, because lysosomal GAA does not correct the cytosolic branching-enzyme defect in APBD, and CNS delivery is a further barrier. The eyelid and ocular-motor predictions look like knowledge-graph artifacts.
 
 **To proceed, the following is needed:**
-- Confirm whether any preclinical or in vitro studies have tested alglucosidase alfa or any GAA-modifying therapy in polyglucosan accumulation models
-- Obtain TFDA/FDA package insert to fill safety data gaps (warnings, contraindications)
-- Clarify regulatory dataset completeness — verify whether alglucosidase alfa holds any active US NDA records
-- If mechanistic rationale for APBD is pursued further, literature review on glycogen metabolism crosstalk between lysosomal and cytoplasmic pathways would be the recommended first step
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Preclinical evidence that GAA can reduce polyglucosan burden in neural tissue or in GBE1-deficient models
+- An assessment of CNS penetration and route feasibility for a neurological indication
+- A targeted literature search on GAA or enzyme replacement in GBE1-deficiency disorders
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

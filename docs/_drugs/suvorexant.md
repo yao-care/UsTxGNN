@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Suvorexant
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 1190
-evidence_level: L1
+evidence_level: L5
 indication_count: 1
 ---
 
 # Suvorexant
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **1** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,87 +29,80 @@ Evidence Level: **L1** | Predicted Indications: **1**
 
 </div>
 
-# Suvorexant: From Undetermined Original Indication to Insomnia (Sleep Initiation and Maintenance Disorder)
+# Suvorexant: From Insomnia to Sleep Disorder, Initiating and Maintaining Sleep
 
 ## One-Sentence Summary
 
-> The evidence pack does not specify Suvorexant's original approved indication or mechanism of action (both flagged as data gaps).
-> The TxGNN model predicts it may be effective for **Insomnia (Sleep Disorder, Initiating and Maintaining Sleep)**,
-> with **1 clinical trial** (withdrawn) and **20 publications** currently supporting this direction.
-
----
+Suvorexant (marketed in the US as Belsomra) is a sleep medication. The Evidence Pack has no approved-indication text for it, but the published literature on the drug is entirely about insomnia.
+The TxGNN model predicts it may be effective for **sleep disorder, initiating and maintaining sleep**, which is essentially insomnia. This is close to a re-discovery of its known use rather than a true new indication.
+Support consists of **1 registered clinical trial (withdrawn, never enrolled)** and **20 publications**, mostly systematic reviews and network meta-analyses.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not specified in evidence pack |
-| Predicted New Indication | Insomnia (Sleep Disorder, Initiating and Maintaining Sleep) |
+| Original Indication | Not listed in the source data (all license records have empty indication text). The literature consistently describes suvorexant as an insomnia treatment. |
+| Predicted New Indication | Sleep disorder, initiating and maintaining sleep |
 | TxGNN Prediction Score | 99.74% |
-| Evidence Level | L1 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
-| Recommended Decision | Hold |
+| Evidence Level | L1 (see note below) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 4 records, all under the same NDA (NDA204569) |
+| Recommended Decision | Proceed with Guardrails |
 
----
+Evidence level note: the trial registry entry is a withdrawn Phase 4 study, so it cannot count toward the L1 rule. L1 rests on a published paper reporting two pivotal 3-month Phase 3 RCTs (PMID 25526970). I did not verify the registry records for those trials, so the rating is provisional.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for Suvorexant is not available in the evidence pack. However, the supporting literature consistently identifies Suvorexant as a **dual orexin receptor antagonist (DORA)**, blocking OX1R/OX2R signaling to suppress the wake-promoting orexin system and thereby facilitate sleep onset and maintenance (see Muehlan et al. 2023; Wu et al. 2022; Żełabowski et al. 2025).
+Detailed mechanism-of-action data is not available in the Evidence Pack. The literature describes suvorexant as an orexin receptor antagonist. Orexin is a hypothalamic neuropeptide that promotes wakefulness, and heightened orexin signaling is linked to chronic insomnia. Blocking it is meant to reduce arousal and help sleep. Several reviews place suvorexant among the dual orexin receptor antagonists (DORAs), alongside lemborexant and daridorexant.
 
-The predicted indication — sleep disorder, initiating and maintaining sleep — aligns directly with this orexin-antagonist mechanism, and the literature evidence includes what appears to be the original pivotal Phase 3 program for Suvorexant in insomnia (Herring et al. 2016, "Results From Two 3-Month Randomized Controlled Clinical Trials"). This, combined with over a dozen subsequent systematic reviews and network meta-analyses comparing Suvorexant against other DORAs (lemborexant, daridorexant) and standard hypnotics, indicates the mechanism-indication link is well established in the published literature, even though structured MOA and original-indication fields were not populated in this evidence pack.
-
----
+The predicted indication, difficulty falling asleep and staying asleep, is the core definition of insomnia. The prediction therefore matches suvorexant's established use and is mechanistically coherent, but it adds little that is new. The potentially novel angle is insomnia that occurs with psychiatric conditions. A 2024 systematic review examined DORAs, including suvorexant, for insomnia comorbid with psychiatric disorders. A trial in bipolar depression with insomnia was registered but withdrawn.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT03764683](https://clinicaltrials.gov/study/NCT03764683) | Phase 4 | Withdrawn | 0 | Planned double-blind study of Suvorexant (Belsomra) added to usual treatment for insomnia in bipolar depression; trial was withdrawn with zero enrollment, so no efficacy/safety data were generated. |
-
----
+| [NCT03764683](https://clinicaltrials.gov/study/NCT03764683) | Phase 4 | Withdrawn | 0 | Double-blind sequential parallel study of suvorexant added to usual treatment in bipolar depression with insomnia. It was planned to assess benefit and side effects. No participants were enrolled, so there are no results. |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [25526970](https://pubmed.ncbi.nlm.nih.gov/25526970/) | 2016 | RCT | Biological Psychiatry | Reports results from two pivotal 3-month Phase 3 RCTs establishing Suvorexant's efficacy as an orexin receptor antagonist for insomnia. |
-| [40555730](https://pubmed.ncbi.nlm.nih.gov/40555730/) | 2025 | Systematic Review/NMA | Translational Psychiatry | Network meta-analysis comparing efficacy/safety of daridorexant, lemborexant, and suvorexant for insomnia. |
-| [36947394](https://pubmed.ncbi.nlm.nih.gov/36947394/) | 2023 | Systematic Review/NMA | Drugs | Large-scale NMA of 153 RCTs comparing effectiveness, safety, and tolerability of insomnia drugs including suvorexant. |
-| [35843245](https://pubmed.ncbi.nlm.nih.gov/35843245/) | 2022 | Systematic Review/NMA | The Lancet | Comparative effectiveness of pharmacological interventions, including suvorexant, for acute and long-term insomnia management. |
-| [39277609](https://pubmed.ncbi.nlm.nih.gov/39277609/) | 2024 | Systematic Review | Translational Psychiatry | Reviews evidence for lemborexant and suvorexant as treatments for insomnia comorbid with psychiatric disorders (depression, bipolar disorder). |
-| [37257468](https://pubmed.ncbi.nlm.nih.gov/37257468/) | 2023 | Systematic Review/NMA | Arquivos de Neuro-Psiquiatria | Confirms efficacy of dual orexin receptor antagonists, including suvorexant, for chronic insomnia via RCT-based network meta-analysis. |
-| [32531478](https://pubmed.ncbi.nlm.nih.gov/32531478/) | 2020 | Systematic Review/NMA | Journal of Psychiatric Research | NMA of 4 double-blind RCTs (n=3237) comparing lemborexant vs suvorexant efficacy and safety outcomes. |
-| [34121443](https://pubmed.ncbi.nlm.nih.gov/34121443/) | 2021 | Systematic Review/NMA | J Managed Care & Specialty Pharmacy | Compares efficacy/safety of lemborexant and suvorexant against other insomnia treatments via NMA. |
-| [38460107](https://pubmed.ncbi.nlm.nih.gov/38460107/) | 2024 | Open-label Clinical Study | Advances in Therapy | Multicenter study evaluating transition from suvorexant (and other agents) to lemborexant in Japanese insomnia patients. |
-| [37086045](https://pubmed.ncbi.nlm.nih.gov/37086045/) | 2023 | Review | Journal of Sleep Research | Reviews orexin biology and orexin receptor antagonists, including suvorexant, in insomnia treatment. |
-
----
+|------|-----|------|---------|---------|
+| [25526970](https://pubmed.ncbi.nlm.nih.gov/25526970/) | 2016 | RCT (two pivotal Phase 3 trials) | Biological Psychiatry | Results from two 3-month randomized controlled trials of suvorexant, an orexin receptor antagonist, in insomnia. |
+| [40555730](https://pubmed.ncbi.nlm.nih.gov/40555730/) | 2025 | Network meta-analysis | Translational Psychiatry | Compares the risk-benefit balance of daridorexant, lemborexant, and suvorexant in adults with insomnia. |
+| [36947394](https://pubmed.ncbi.nlm.nih.gov/36947394/) | 2023 | Network meta-analysis | Drugs | Compares the effectiveness, safety, and tolerability of insomnia drugs across 153 randomized trials. |
+| [35843245](https://pubmed.ncbi.nlm.nih.gov/35843245/) | 2022 | Network meta-analysis | Lancet | Comparative effectiveness of drugs for acute and long-term treatment of adult insomnia disorder. |
+| [32531478](https://pubmed.ncbi.nlm.nih.gov/32531478/) | 2020 | Network meta-analysis | Journal of Psychiatric Research | Lemborexant vs suvorexant; four double-blind RCTs (n = 3237) compared for efficacy and safety. |
+| [37257468](https://pubmed.ncbi.nlm.nih.gov/37257468/) | 2023 | Network meta-analysis | Arquivos de Neuro-Psiquiatria | Asks whether one DORA is superior to the others for chronic insomnia. |
+| [39277609](https://pubmed.ncbi.nlm.nih.gov/39277609/) | 2024 | Systematic review | Translational Psychiatry | Evidence for lemborexant and suvorexant in insomnia comorbid with psychiatric disorders. |
+| [27998379](https://pubmed.ncbi.nlm.nih.gov/27998379/) | 2017 | Clinical practice guideline | Journal of Clinical Sleep Medicine | American Academy of Sleep Medicine recommendations on drug treatment of chronic insomnia in adults, drug by drug. |
+| [37086045](https://pubmed.ncbi.nlm.nih.gov/37086045/) | 2023 | Review | Journal of Sleep Research | History of orexin and the role of orexin receptor antagonists in insomnia. |
+| [40943625](https://pubmed.ncbi.nlm.nih.gov/40943625/) | 2025 | Review | International Journal of Molecular Sciences | Compares DORAs (suvorexant, lemborexant, daridorexant) with GABAergic hypnotics and reviews efficacy and safety. |
 
 ## US Market Information
 
-Suvorexant is currently **not marketed** in this jurisdiction — the evidence pack contains no license or NDA records (0 total licenses).
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA204569 | BELSOMRA | Tablet, film coated (oral) | Merck Sharp & Dohme LLC |
 
----
+The four license records are identical entries under NDA204569. Approved-indication text is empty in the source data.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No structured key warnings, contraindications, or drug interaction data were available in this evidence pack (DDI query status: not found).
-
----
+Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-Efficacy evidence for the predicted indication is strong (L1 — established Phase 3 RCT evidence plus extensive corroborating systematic reviews/network meta-analyses), but a **Blocking** data gap exists: TFDA-equivalent label warnings and contraindications are entirely unavailable, which prevents completion of the S1 safety pre-assessment. The drug also has zero existing domestic marketing authorizations.
+The predicted indication matches suvorexant's established use in insomnia, and it is backed by Phase 3 trial publications, network meta-analyses, and clinical guidelines. It is a marketed drug, so this is not a new repurposing opportunity. The one registered trial is withdrawn, and the safety data in the pack is empty.
 
 **To proceed, the following is needed:**
-- Official package insert / label data (warnings, contraindications, DDI) — download and parse from the relevant regulatory agency (resolves DG001, Blocking)
-- Confirmed mechanism of action via DrugBank API query (resolves DG002)
-- Clarification of Suvorexant's originally approved indication(s), whether domestic or reference-market
-- Regulatory pathway assessment given current zero-license market status before any repurposing submission
+- The FDA package insert (warnings, contraindications) to complete safety screening
+- Detailed mechanism-of-action data from DrugBank
+- The approved-indication text for NDA204569, to confirm the original indication and that the prediction is not simply the approved use
+- Registry confirmation of the two pivotal Phase 3 trials behind PMID 25526970, to firm up the L1 rating
+- If a genuinely new use is intended, such as insomnia comorbid with bipolar disorder or other psychiatric conditions, a prospective trial, since NCT03764683 never enrolled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

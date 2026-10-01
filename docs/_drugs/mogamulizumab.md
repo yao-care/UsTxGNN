@@ -29,88 +29,82 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Mogamulizumab: From Cutaneous T-Cell Lymphoma/ATL to Prostatic Urethra Urothelial Carcinoma
+# Mogamulizumab: From Cutaneous T-Cell Lymphoma to Prostatic Urethra Urothelial Carcinoma
 
 ## One-Sentence Summary
 
-Mogamulizumab is an anti-CCR4 monoclonal antibody; within this evidence pack it is referenced (in the rationale notes, not in a confirmed regulatory record) as approved for cutaneous T-cell lymphoma (CTCL) and adult T-cell leukemia-lymphoma (ATL). The TxGNN model predicts it may be effective for **prostatic urethra urothelial carcinoma**, but this is currently supported by **0 clinical trials** and **0 publications** — the prediction is model-score only.
-
----
+Mogamulizumab (brand name POTELIGEO) is an anti-CCR4 antibody. By general knowledge it is used for cutaneous T-cell lymphomas, although the Evidence Pack does not list an approved indication.
+The TxGNN model predicts it may be effective for **prostatic urethra urothelial carcinoma**.
+This is a model prediction only: **0 clinical trials** and **0 publications** currently support it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on file in this pack (`taiwan_regulatory.licenses` is empty); rationale text for other candidates references Mogamulizumab's known use in CTCL/ATL |
+| Original Indication | Not listed in the Evidence Pack. General knowledge: relapsed/refractory cutaneous T-cell lymphoma (mycosis fungoides / Sézary syndrome) |
 | Predicted New Indication | Prostatic urethra urothelial carcinoma |
-| TxGNN Prediction Score | 99.44% (rank 12,947) |
+| TxGNN Prediction Score | 99.44% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed (Not marketed) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 (BLA761051) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack (flagged as a High-severity data gap, DG002). Based on the rationale notes attached to other candidate indications in this pack, Mogamulizumab is described as a monoclonal antibody targeting CCR4, which depletes CCR4⁺ regulatory T cells (Tregs) and induces antibody-dependent cellular cytotoxicity (ADCC) — a mechanism used to strengthen anti-tumor immune activity in its known indications (CTCL/ATL, T-cell malignancies).
+Detailed mechanism of action data is not available in the Evidence Pack. Mogamulizumab is generally known as an antibody against CCR4, a chemokine receptor found on some T cells, including regulatory T cells (Tregs). It depletes CCR4-positive cells.
 
-The link to prostatic urethra urothelial carcinoma is a purely topological inference from the TxGNN knowledge graph, grounded in similarity between "urothelial carcinoma-type" tumors and diseases characterized by immune checkpoint/Treg exhaustion signatures — not in any direct biological or clinical evidence. Urothelial carcinoma of the prostatic urethra is mechanistically distinct from the T-cell lymphomas Mogamulizumab currently targets, and no trial, case report, or preclinical study in this pack bridges that gap.
+One possible link is that removing Tregs could reduce immunosuppression in the tumor microenvironment and strengthen the anti-tumor immune response. Urothelial tumors are often immunologically active, so this idea is not implausible. However, it is speculative. No trial, publication, or preclinical evidence in the data shows that CCR4 is relevant in this disease.
 
-Because `original_indications` is empty and `original_moa` is a data gap, a rigorous mechanism-to-mechanism comparison cannot be completed. This prediction should be read as a hypothesis-generating signal only, not as evidence of biological plausibility.
+The same drug also ranks high for six other rare tumors:
+- kidney pelvis sarcomatoid transitional cell carcinoma
+- infiltrating bladder urothelial carcinoma, sarcomatoid variant
+- renal pelvis papillary urothelial carcinoma
+- human herpesvirus 8-related tumor
+- ectomesenchymoma
+- malignant cutaneous granular cell skin tumor
 
----
+All seven have scores of 0.99 or higher. The four urothelial predictions likely share one graph-derived signal rather than providing independent support. For the last two, the data suggest the prediction may reflect graph-topology artifacts or a general "skin tumor" association.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
-
----
+Currently no related literature available.
 
 ## US Market Information
 
-No marketing authorization records are currently available — `taiwan_regulatory.market_status` is "Not marketed" (Not Marketed) with 0 total licenses on file.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| BLA761051 | POTELIGEO (Kyowa Kirin, Inc.) | Injection | — |
 
 ## Cytotoxicity
 
-Mogamulizumab is an antineoplastic monoclonal antibody (indicated per the pack's rationale notes for CTCL/ATL, both malignancies), so this section applies.
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Immunotherapy (anti-CCR4 monoclonal antibody, ADCC-mediated Treg depletion) — not a conventional cytotoxic agent |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Please refer to the package insert warnings and precautions |
+| Cytotoxicity Classification | Targeted therapy / immunotherapy (monoclonal antibody), not a conventional cytotoxic chemotherapy |
 
----
+Please refer to the package insert warnings and precautions for myelosuppression risk, emetogenicity, monitoring items, and handling requirements.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
----
+Please refer to the package insert for safety information. No warnings, contraindications, or drug interaction records were found in the source data.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction sits at evidence level L5 (model prediction only) with zero supporting trials or literature across all queried sources (ClinicalTrials.gov, ICTRP, PubMed). A Blocking-severity data gap (DG001 — TFDA label warnings/contraindications) also prevents this candidate from entering the S1 safety pre-screen.
+The prediction rests only on a high model score, with no clinical trials, no literature, and no supported mechanism. Package insert safety data are also missing, so safety screening cannot start.
 
 **To proceed, the following is needed:**
-- TFDA/FDA label data (warnings, contraindications) to clear the Blocking data gap (DG001)
-- Confirmed mechanism of action and original indication record for Mogamulizumab (DG002)
-- Any preclinical or case-level evidence linking CCR4/Treg-targeted therapy to prostatic urethra urothelial carcinoma before further investment
-- Note: 6 additional TxGNN-predicted indications in this pack (kidney pelvis sarcomatoid transitional cell carcinoma, infiltrating bladder urothelial carcinoma sarcomatoid variant, renal pelvis papillary urothelial carcinoma, HHV-8-related tumor, ectomesenchymoma, malignant cutaneous granular cell skin tumor) carry the same L5/Hold status and the same evidence gaps
+- The package insert warnings and contraindications (a blocking gap)
+- Mechanism of action data from DrugBank
+- Preclinical evidence that CCR4 or CCR4-positive Tregs matter in urothelial carcinoma
+- A literature and trial search that confirms the absence of evidence and tests the CCR4 hypothesis
+- A route compatibility assessment (currently pending)
+- The approved indication text, to define the original indication and its similarity to the predicted one
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -3,14 +3,14 @@ layout: default
 title: Cyclosporine
 parent: Moderate Evidence (L3-L4)
 nav_order: 558
-evidence_level: L3
+evidence_level: L4
 indication_count: 7
 ---
 
 # Cyclosporine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **7** 
+Evidence Level: **L4** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,37 +29,37 @@ Evidence Level: **L3** | Predicted Indications: **7**
 
 </div>
 
-# Cyclosporine: From Organ Transplant Rejection to Chronic Granulomatous Disease
+# Cyclosporine: From Immunosuppression to Chronic Granulomatous Disease (Autosomal Recessive)
 
 ## One-Sentence Summary
 
-Cyclosporine is a calcineurin inhibitor widely established as immunosuppressive therapy to prevent organ transplant rejection and graft-versus-host disease (GvHD) in allogeneic hematopoietic stem cell transplantation (allo-HSCT).
-The TxGNN model predicts it may be effective for **Granulomatous Disease, Chronic, Autosomal Recessive (CGD)**,
-with **1 clinical trial** and **1 publication** currently supporting this direction — primarily in the context of HSCT regimens that represent the only curative strategy for CGD, where Cyclosporine serves as standard GvHD prophylaxis.
+Cyclosporine is a calcineurin inhibitor used to suppress immune responses, including graft-versus-host disease (GVHD) prophylaxis after stem cell transplant.
+The TxGNN model predicts it may be relevant to **autosomal recessive chronic granulomatous disease (CGD)**, but only **1 clinical trial** (indirect) and **1 publication** (indirect) exist, so the evidence is weak.
+The link is supportive (transplant care), not disease-modifying.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No regulatory data available in current dataset (established use: organ transplant rejection, GvHD prophylaxis) |
-| Predicted New Indication | Granulomatous Disease, Chronic, Autosomal Recessive (CGD) |
+|------|------|
+| Original Indication | Not listed in the source data (approved indication text is empty for all licenses) |
+| Predicted New Indication | Granulomatous disease, chronic, autosomal recessive |
 | TxGNN Prediction Score | 99.68% |
-| Evidence Level | L3 |
-| US Market Status | Not found in current dataset (likely data collection gap) |
-| Number of NDAs | 0 |
+| Evidence Level | L4 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on information embedded in the mechanistic rationale, Cyclosporine is a calcineurin inhibitor that blocks the NFAT (Nuclear Factor of Activated T-cells) signaling pathway, thereby suppressing T cell activation and IL-2 secretion. It is a standard component of immunosuppressive regimens following organ transplantation and allo-HSCT, where it serves to prevent GvHD.
+Currently, detailed mechanism of action data is not available. Based on known information, cyclosporine is a calcineurin inhibitor used for GVHD prophylaxis in transplant settings.
 
-Chronic Granulomatous Disease (CGD) is a rare primary immunodeficiency caused by mutations in components of the NADPH oxidase complex (most commonly the *CYBB* gene encoding gp91phox). The functional consequence is the inability of phagocytes to generate reactive oxygen species, rendering patients susceptible to life-threatening infections with catalase-positive bacteria and fungi. The only curative treatment is allo-HSCT — and herein lies the connection to Cyclosporine.
+Allogeneic hematopoietic stem cell transplant (HSCT) can cure CGD. In that setting, cyclosporine helps the graft take and prevents GVHD. It does not treat the underlying phagocyte defect of CGD, so its role would be as part of the transplant regimen.
 
-The mechanistic link is **indirect**: Cyclosporine does not correct the underlying NADPH oxidase defect in CGD, nor does it enhance phagocyte killing function. Rather, it enables successful HSCT by suppressing donor T cells and preventing GvHD, thereby allowing engraftment of healthy donor hematopoietic stem cells that reconstitute a functional immune system. The TxGNN prediction almost certainly reflects the strong co-occurrence of Cyclosporine and CGD within HSCT-related nodes in the knowledge graph, rather than a novel, direct therapeutic mechanism for the disease itself. This distinction is critical to interpreting the prediction's clinical relevance.
+It also cannot be confirmed that cyclosporine was part of the regimen in the cited CGD transplant study. The high TxGNN score most likely reflects the drug's association with transplant medicine, not direct therapeutic activity in CGD.
 
 ---
 
@@ -67,7 +67,7 @@ The mechanistic link is **indirect**: Cyclosporine does not correct the underlyi
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT01917708](https://clinicaltrials.gov/study/NCT01917708) | Phase 1 | Completed | 10 | Evaluated abatacept (CTLA4-Ig) combined with **Cyclosporine + mycophenolate mofetil** as GvHD prophylaxis in children undergoing unrelated donor HSCT for serious non-malignant diseases (including CGD). Cyclosporine functions as background GvHD prophylaxis; the investigational agent is abatacept. The trial confirms CGD is treated via HSCT but does not directly assess Cyclosporine's independent efficacy in CGD. |
+| [NCT01917708](https://clinicaltrials.gov/study/NCT01917708) | Phase 1 | Completed | 10 | Single-arm study of abatacept added to cyclosporine and mycophenolate mofetil as GVHD prophylaxis in children receiving unrelated donor HSCT for non-malignant diseases. Cyclosporine is background therapy, not the tested drug, and the cohort is not CGD-specific (relevance grade C). |
 
 ---
 
@@ -75,7 +75,22 @@ The mechanistic link is **indirect**: Cyclosporine does not correct the underlyi
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [22078471](https://pubmed.ncbi.nlm.nih.gov/22078471/) | 2012 | Cohort | J Allergy Clin Immunol | Retrospective cohort demonstrating excellent survival after matched related or unrelated donor HSCT for CGD. Validates allo-HSCT (employing standard Cyclosporine-containing conditioning regimens) as a curative strategy for CGD in both pediatric and adult patients. Cyclosporine is part of the GvHD prophylaxis protocol, not the subject of independent evaluation. |
+| [22078471](https://pubmed.ncbi.nlm.nih.gov/22078471/) | 2012 | Retrospective cohort | J Allergy Clin Immunol | Reports excellent survival after sibling or unrelated donor HSCT in CGD. The abstract does not specify cyclosporine use. |
+
+---
+
+## US Market Information
+
+Of the 20 licenses, the first five records are shown. One (ANDA065110) appears twice and is listed once. Approved indication text is empty in the source data.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA050790 | Restasis MultiDose | Emulsion | Allergan, Inc. |
+| ANDA065110 | Cyclosporine | Capsule, liquid filled | Teva Pharmaceuticals USA, Inc. |
+| ANDA065040 | Cyclosporine | Capsule, gelatin coated | Apotex Corp. |
+| ANDA065003 | Gengraf | Capsule | AbbVie Inc. |
+
+Available forms include oral capsules, an ophthalmic emulsion, and solution or drops.
 
 ---
 
@@ -90,14 +105,13 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic connection between Cyclosporine and CGD is indirect — Cyclosporine functions as GvHD prophylaxis within the HSCT procedure that cures CGD, rather than as a direct therapeutic agent targeting the NADPH oxidase deficiency. With L3 evidence comprising a single cohort study confirming HSCT efficacy and one Phase 1 trial where Cyclosporine is a background medication rather than the investigational drug, there is insufficient evidence to advance this as a novel repurposing candidate distinct from Cyclosporine's already-established role in transplant medicine.
+The only supporting evidence is one Phase 1 trial where cyclosporine is background therapy and one retrospective HSCT cohort. Neither tests cyclosporine in CGD. Cyclosporine's plausible role is supportive transplant immunosuppression, not treatment of CGD itself, and the candidate stays at the research-question stage (S1).
 
 **To proceed, the following is needed:**
-- **Research question clarification**: Define whether the goal is (a) optimizing Cyclosporine-based GvHD prophylaxis protocols specifically within CGD HSCT, or (b) exploring any direct immunomodulatory role of Cyclosporine in CGD pathophysiology independent of HSCT
-- **Mechanism of action data**: Retrieve full MOA entry from DrugBank (DB00091) to formally document calcineurin inhibition pathway
-- **Regulatory data correction**: Verify US FDA approval status — current dataset shows 0 licenses, which is inconsistent with Cyclosporine's well-established global clinical use (multiple approved formulations known to exist); re-query pipeline required
-- **Safety data**: Retrieve package insert warnings and contraindications from source to complete safety assessment before any S1 evaluation can proceed
-- **Dedicated clinical evidence**: A trial prospectively evaluating Cyclosporine-specific dosing, timing, and outcomes in CGD HSCT would be needed to distinguish Cyclosporine's contribution from the overall transplant procedure effect
+- Confirm whether cyclosporine was part of the conditioning or GVHD prophylaxis regimens in CGD transplant studies, and whether outcomes differ with it
+- Package insert warnings and contraindications (currently a blocking gap)
+- Mechanism of action data from DrugBank
+- Consider prioritizing other predicted indications with more literature. Brain aneurysm (L3) has small studies of cyclosporine A in subarachnoid hemorrhage, and the other five predictions have little or no evidence.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

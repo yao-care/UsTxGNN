@@ -29,98 +29,111 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-以下是根據 Evidence Pack 產生的完整評估報告：
+# Azathioprine: From Immunosuppression to Inflammatory Bowel Disease
 
----
-
-# Azathioprine: From Organ Transplant Rejection Prevention to Inflammatory Bowel Disease
+> **Note on indication selection:** The top-ranked prediction (rank 1) is *colobomatous microphthalmia-rhizomelic dysplasia syndrome*. It has no trials or literature, and no plausible mechanism. This report therefore focuses on **inflammatory bowel disease (IBD, rank 5)**, the highest-ranked prediction with real evidence. Ulcerative colitis (rank 9) is covered within it.
 
 ## One-Sentence Summary
 
-Azathioprine is a thiopurine immunosuppressant internationally established for prevention of organ transplant rejection and treatment of rheumatoid arthritis.
-The TxGNN model predicts it may be effective for **Inflammatory Bowel Disease (IBD)** — a biologically well-grounded finding strongly corroborated by five decades of global clinical use — with **50 clinical trials** and **20 publications** on record, earning an **L1 evidence rating**.
-Although the highest raw TxGNN scores (ranks 1–4) correspond to rare genetic structural syndromes with no mechanistic link to azathioprine's immunosuppressive action, IBD (rank 5, score 99.52%) is the most clinically actionable prediction with the strongest evidence base and a direct immunological rationale.
-
----
+Azathioprine is an oral thiopurine immunosuppressant with 20 US generic licenses. The pack does not record its original indication.
+The TxGNN model predicts it may be effective for **inflammatory bowel disease**.
+**50 clinical trials** and **20 publications** are retrieved, including at least two completed Phase 3 trials with an azathioprine arm and several Cochrane reviews.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Organ transplant rejection prevention; rheumatoid arthritis (per international regulatory approvals; not registered in current regulatory database) |
-| Predicted New Indication | Inflammatory Bowel Disease (IBD) |
-| TxGNN Prediction Score | 99.52% |
+|------|------|
+| Original Indication | Not available (`original_indications` and license indication text are empty in the record) |
+| Predicted New Indication | Inflammatory bowel disease (UC and Crohn's disease) |
+| TxGNN Prediction Score | 99.52% (UC: 99.33%) |
 | Evidence Level | L1 |
-| US Market Status | Not Marketed (0 registrations found) |
-| Number of NDAs | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+| US Market Status | ✓ Marketed |
+| Number of Licenses | 20 (the 5 listed below are all ANDA generics, no NDA) |
+| Recommended Decision | Proceed with Guardrails (IBD/UC); Hold for all other predictions |
 
 ## Why is This Prediction Reasonable?
 
-Azathioprine is a prodrug converted in vivo to 6-mercaptopurine (6-MP) and subsequently to active 6-thioguanine nucleotides (6-TGN). These metabolites integrate into cellular DNA and block purine synthesis, thereby suppressing proliferation of both T and B lymphocytes. A secondary mechanism involves inhibition of Rac1 GTPase signaling, which induces T cell apoptosis independently of purine synthesis blockade. Together, these pathways substantially reduce intestinal mucosal immune over-activation and suppress pro-inflammatory cytokines including TNF-α and IL-6. Individual variation in TPMT (thiopurine S-methyltransferase) and NUDT15 genotypes governs the metabolic balance between therapeutic efficacy (via the 6-TGN pathway) and hepatotoxicity/myelotoxicity (via 6-methylmercaptopurine), making pre-treatment pharmacogenomic testing a clinical standard before initiating therapy.
+DrugBank mechanism-of-action data is not in the record. The mechanism below comes from the pack's rationale. Azathioprine is a prodrug of 6-mercaptopurine. Its thioguanine nucleotide metabolites inhibit purine synthesis and induce T-cell apoptosis via Rac1 blockade. This dampens the mucosal immune activation that drives IBD, and it is why the drug is used for steroid-sparing maintenance of remission.
 
-Inflammatory bowel disease — encompassing Crohn's disease and ulcerative colitis — is characterized by aberrant activation of intestinal T lymphocytes, excessive cytokine production (TNF-α, IL-6, IL-1β), and failure of mucosal tolerance to the gut microbiome. The pathogenesis directly involves lymphocyte over-proliferation and dysregulated innate-adaptive immune cross-talk — precisely the pathways targeted by azathioprine's dual mechanism of lymphocyte proliferation suppression and T cell apoptosis induction. This mechanistic alignment makes azathioprine biologically well-suited for IBD, distinct from conditions such as rheumatoid arthritis where the same immunosuppressive logic applies.
+IBD is driven by chronic immune-mediated mucosal inflammation, so a lymphocyte-suppressing antimetabolite fits the biology. The literature describes decades of clinical use, and the retrieved trials use azathioprine as a standard comparator arm. The L1 rating for UC rests on pooled randomized evidence in the literature (Cochrane reviews and a meta-analysis). None of the retrieved records is a UC-specific Phase 3 azathioprine trial.
 
-Globally, azathioprine has been embedded in IBD clinical practice for over 50 years and is recommended in guidelines from the European Crohn's and Colitis Organisation (ECCO) and the American Gastroenterological Association (AGA) as a second-line maintenance therapy for steroid-dependent disease and as a combination partner with anti-TNF biologics to reduce immunogenicity. Its absence from the current regulatory database reflects a registration gap rather than any scientific uncertainty — the TxGNN model's high-confidence IBD prediction is independently validated by an extensive body of clinical evidence.
-
----
+The other predictions are not supported:
+- **Ranks 1, 2, 10** (skeletal and developmental syndromes): no immune mechanism, likely graph artifacts.
+- **Rank 3** (osteoarthritis susceptibility): a genetic label, not a treatable clinical entity.
+- **Rank 7** (osteoarthritis): only indirect evidence from RA and lupus, and toxicity likely outweighs benefit.
+- **Ranks 4, 6, 8** (WHIM syndrome, chronic granulomatous disease variants): immunodeficiencies where further immunosuppression could worsen infection or leukopenia.
 
 ## Clinical Trial Evidence
 
+50 IBD-related trials were retrieved. The 10 most relevant are listed.
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00094458](https://clinicaltrials.gov/study/NCT00094458) | Phase 3 | Completed | 508 | Large multi-center RCT comparing infliximab monotherapy, AZA monotherapy, and infliximab + AZA combination in biologic/immunomodulator-naïve Crohn's disease; AZA as active comparator confirms its standard-of-care role in IBD |
-| [NCT00946946](https://clinicaltrials.gov/study/NCT00946946) | Phase 3 | Completed | 78 | Double-blind RCT directly comparing AZA vs. mesalazine for prevention of clinical relapse in postoperative Crohn's disease with moderate/severe endoscopic recurrence |
-| [NCT02852694](https://clinicaltrials.gov/study/NCT02852694) | Phase 4 | Completed | 192 | Risk-stratified RCT comparing weekly subcutaneous methotrexate vs. oral AZA/6-MP for maintaining steroid-free remission in low-risk pediatric Crohn's disease over 1 year |
-| [NCT04713631](https://clinicaltrials.gov/study/NCT04713631) | Phase 2 | Unknown | 40 | Factorial RCT evaluating artesunate and/or curcumin add-on in Crohn's patients on adequate AZA doses with persistent active disease; AZA serves as an established treatment scaffold |
-| [NCT00521950](https://clinicaltrials.gov/study/NCT00521950) | N/A | Completed | 853 | First prospective RCT testing whether pre-treatment TPMT genotyping to guide AZA initial dosing is cost-effective and reduces adverse events in IBD patients requiring immunosuppression |
-| [NCT02367326](https://clinicaltrials.gov/study/NCT02367326) | N/A | Completed | 400 | Large international clinical trial identifying composite clinical and laboratory scores that predict favorable thiopurine (including AZA) response in IBD patients |
-| [NCT03553472](https://clinicaltrials.gov/study/NCT03553472) | N/A | Completed | 97 | Study identifying young IBD patients (<50 years) on immunosuppressants (including AZA) at elevated herpes zoster risk; directly informs vaccination and safety monitoring protocols |
-| [NCT00537316](https://clinicaltrials.gov/study/NCT00537316) | Phase 3 | Terminated | 242 | Three-arm RCT comparing infliximab monotherapy, infliximab + AZA combination, and AZA monotherapy in moderate-to-severe active UC; terminated early but provided comparative data |
-| [NCT04304950](https://clinicaltrials.gov/study/NCT04304950) | Phase 4 | Completed | 28 | Crossover study investigating whether morning vs. evening administration of AZA or 6-MP for IBD affects disease activity and patient outcomes |
-| [NCT00849368](https://clinicaltrials.gov/study/NCT00849368) | Phase 1 | Completed | 6 | Dose-finding study evaluating the minimal allopurinol + AZA dose combination that produces therapeutic 6-TGN levels in IBD, with assessment of TPMT activity and clinical efficacy |
+| [NCT00094458](https://clinicaltrials.gov/study/NCT00094458) | Phase 3 | Completed | 508 | Double-blind RCT of infliximab vs infliximab + azathioprine vs azathioprine in immunomodulator- and biologic-naive Crohn's disease |
+| [NCT00946946](https://clinicaltrials.gov/study/NCT00946946) | Phase 3 | Completed | 78 | Azathioprine vs mesalazine to prevent relapse in postoperative Crohn's disease with endoscopic recurrence |
+| [NCT00537316](https://clinicaltrials.gov/study/NCT00537316) | Phase 3 | Terminated | 242 | Infliximab alone or with azathioprine vs azathioprine alone in moderate-to-severe active UC |
+| [NCT03101800](https://clinicaltrials.gov/study/NCT03101800) | Phase 3 | Unknown | 84 | Low-dose azathioprine + allopurinol vs azathioprine alone in UC |
+| [NCT02425852](https://clinicaltrials.gov/study/NCT02425852) | Phase 4 | Completed | 65 | Early infliximab + azathioprine vs steroids + azathioprine in acute severe UC |
+| [NCT02852694](https://clinicaltrials.gov/study/NCT02852694) | Phase 4 | Completed | 192 | Methotrexate vs azathioprine/6-MP (low risk) or adalimumab (high risk) for remission in paediatric Crohn's disease |
+| [NCT02177071](https://clinicaltrials.gov/study/NCT02177071) | Phase 4 | Completed | 211 | Infliximab-antimetabolite combination vs antimetabolite alone vs infliximab alone in Crohn's patients in steroid-free remission |
+| [NCT00113503](https://clinicaltrials.gov/study/NCT00113503) | Phase 2 | Terminated | 50 | Weight-based vs metabolite-guided (6-TGN) azathioprine dosing in Crohn's disease |
+| [NCT00984568](https://clinicaltrials.gov/study/NCT00984568) | Phase 3 | Terminated | 28 | Conventional step-up (prednisolone + 5-ASA or azathioprine) vs early infliximab in UC. Small (n=28), weak evidence |
+| [NCT07248644](https://clinicaltrials.gov/study/NCT07248644) | Phase 4 | Not yet recruiting | 304 | Switching to mesalazine vs continuing thiopurines in older UC patients in sustained remission |
 
----
+Several other retrieved trials are outside efficacy: TPMT genotyping (NCT00521950, n=853), vaccine response, and trials of other drugs where azathioprine is only background therapy.
 
 ## Literature Evidence
 
+20 publications were retrieved. The 10 most relevant are listed, with randomized and pooled evidence first. Cochrane abstracts in the pack show only the background, not the pooled results.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [37586320](https://pubmed.ncbi.nlm.nih.gov/37586320/) | 2023 | Research Article | Cell Reports Medicine | Identifies high prevalence of *Blautia wexlerae* in IBD patients with AZA therapy failure; this gut bacterium reduces 6-MP bioavailability and increases inflammatory macrophages, revealing a microbiome mechanism for AZA resistance |
-| [29293971](https://pubmed.ncbi.nlm.nih.gov/29293971/) | 2018 | Review | J Crohn's Colitis | Comprehensive state-of-the-art clinical review of thiopurine (AZA, 6-MP, thioguanine) use in IBD, covering pharmacology, efficacy evidence, safety monitoring, and emerging findings including autophagy induction |
-| [19072367](https://pubmed.ncbi.nlm.nih.gov/19072367/) | 2008 | Review | Expert Rev Gastroenterol Hepatol | Reviews improved molecular understanding of AZA/6-MP in IBD with 45 years of clinical data; highlights Rac1-mediated T cell apoptosis as a key novel mechanism beyond purine synthesis inhibition |
-| [16048561](https://pubmed.ncbi.nlm.nih.gov/16048561/) | 2005 | Review | J Gastroenterol Hepatol | Foundational review establishing the clinical framework for AZA/6-MP pharmacogenetics and 6-TGN/6-MMP metabolite monitoring in IBD; underpins TPMT-guided dosing practice |
-| [36462311](https://pubmed.ncbi.nlm.nih.gov/36462311/) | 2023 | Pharmacogenomics Study | Biomedicine & Pharmacotherapy | Demonstrates that TPMT gene methylation differs between very-early-onset and adolescent IBD patients, affecting AZA pharmacokinetics and supporting age-specific dosing adjustments |
-| [39921705](https://pubmed.ncbi.nlm.nih.gov/39921705/) | 2025 | Retrospective Study | Expert Rev Clin Pharmacol | Real-world data confirming thiopurine effectiveness and safety in IBD patients with NUDT15 polymorphism; validates genotype-guided dosing to reduce thiopurine-induced leukopenia risk |
-| [10499471](https://pubmed.ncbi.nlm.nih.gov/10499471/) | 1999 | Review | Scand J Gastroenterol Suppl | Clinical update on AZA long-term efficacy and safety in IBD; documents Dutch regulatory approval for Crohn's disease and summarizes outcomes from clinical trials up to that point |
-| [30954317](https://pubmed.ncbi.nlm.nih.gov/30954317/) | 2019 | Review | Gastroenterol Hepatol | Evaluates evidence on withdrawing aminosalicylates, thiopurines, and methotrexate in IBD patients in sustained remission; informs clinical decision-making on optimal treatment duration |
-| [40126153](https://pubmed.ncbi.nlm.nih.gov/40126153/) | 2025 | Epidemiology/Trends | Scand J Gastroenterol | Describes temporal trends in IBD diagnostic and therapeutic practices; contextualizes the evolving but persistent role of thiopurines including AZA within modern biologic-era IBD care |
-| [33305616](https://pubmed.ncbi.nlm.nih.gov/33305616/) | 2021 | Review | Pharmacogenomics | Reviews pharmacogenetic markers for IBD treatment response and adverse events; highlights TPMT/NUDT15 genotyping as a validated model for personalizing thiopurine therapy in clinical practice |
+| [39586616](https://pubmed.ncbi.nlm.nih.gov/39586616/) | 2025 | RCT | Gut | ACTIVE trial: top-down infliximab + azathioprine vs azathioprine alone in acute severe UC responsive to IV steroids |
+| [40013523](https://pubmed.ncbi.nlm.nih.gov/40013523/) | 2025 | Cochrane systematic review | Cochrane Database Syst Rev | Update of the review of azathioprine/6-MP for maintenance of remission in UC |
+| [27192092](https://pubmed.ncbi.nlm.nih.gov/27192092/) | 2016 | Cochrane systematic review | Cochrane Database Syst Rev | Earlier version of the same UC maintenance review (also 2012: [22972046](https://pubmed.ncbi.nlm.nih.gov/22972046/)) |
+| [19392869](https://pubmed.ncbi.nlm.nih.gov/19392869/) | 2009 | Meta-analysis | Aliment Pharmacol Ther | Tests whether thiopurines are as effective in UC as in Crohn's disease |
+| [40538240](https://pubmed.ncbi.nlm.nih.gov/40538240/) | 2025 | Not classified in pack | Aliment Pharmacol Ther | Azathioprine or tofacitinib as maintenance in corticosteroid-responsive acute severe UC |
+| [24117596](https://pubmed.ncbi.nlm.nih.gov/24117596/) | 2013 | Observational study + meta-analysis | Aliment Pharmacol Ther | Trial of mercaptopurine is a safe strategy in IBD patients intolerant to azathioprine |
+| [29293971](https://pubmed.ncbi.nlm.nih.gov/29293971/) | 2018 | Review | J Crohns Colitis | Expert overview of thiopurines, mainly used to maintain steroid-free remission in IBD |
+| [19072367](https://pubmed.ncbi.nlm.nih.gov/19072367/) | 2008 | Review | Expert Rev Gastroenterol Hepatol | Reports strong trial and meta-analysis data on thiopurine efficacy in IBD, with molecular mechanism insights |
+| [39921705](https://pubmed.ncbi.nlm.nih.gov/39921705/) | 2025 | Retrospective cohort | Expert Rev Clin Pharmacol | Effectiveness and safety of thiopurines in IBD patients with NUDT15 polymorphism (leukopenia risk) |
+| [37586320](https://pubmed.ncbi.nlm.nih.gov/37586320/) | 2023 | Translational/mechanistic | Cell Rep Med | *Blautia wexlerae* in the gut linked to azathioprine failure by lowering 6-MP bioavailability |
 
----
+## US Market Information
+
+5 of 20 licenses are shown. All are oral tablets. The record contains no approved-indication text, so the manufacturer is shown instead.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA077621 | Azathioprine | Tablet | NuCare Pharmaceuticals, Inc. |
+| ANDA074069 | Azathioprine | Tablet | Amneal Pharmaceuticals NY LLC |
+| ANDA074069 | Azathioprine | Tablet | Aphena Pharma Solutions - Tennessee, LLC |
+| ANDA077621 | Azathioprine | Tablet | Zydus Lifesciences Limited |
+| ANDA208687 | Azathioprine | Tablet | Ascend Laboratories, LLC |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Package insert warnings, contraindications and DDI data are not available in the record. Please refer to the package insert for safety information.
 
----
+The pack's rationale and the retrieved literature point to these guardrails:
+- **TPMT/NUDT15:** test genotype or activity before starting. Polymorphisms predispose to leukopenia.
+- **Monitoring:** blood counts, liver enzymes and metabolite levels (6-TGN/6-MMP).
+- **Infection and lymphoma risk:** weigh these, especially in combination with biologics.
+- **Immunodeficiency states:** WHIM syndrome and chronic granulomatous disease carry an unfavorable safety direction.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Proceed with Guardrails** (IBD/UC). **Hold** for the other nine predictions, including rank 1.
 
 **Rationale:**
-Azathioprine has over five decades of clinical evidence in IBD — including multiple Phase 3 RCTs, meta-analyses, and Cochrane systematic reviews confirming efficacy for maintaining remission in both Crohn's disease and ulcerative colitis — and is embedded in major international guidelines as a standard second-line immunomodulator; the absence from the current regulatory database represents a registration gap, not an evidence gap.
+IBD has the strongest support: at least two completed Phase 3 trials with an azathioprine arm, Cochrane reviews and a meta-analysis for UC, and a 2025 RCT. This supports L1. No UC-specific Phase 3 azathioprine trial was retrieved, so that L1 rating rests on the pooled literature.
 
 **To proceed, the following is needed:**
-- Retrieve the complete prescribing information (package insert) to document full warnings, contraindications, and drug-drug interaction profile
-- Confirm US FDA regulatory status and identify the scope of approved indications in the US label
-- Obtain DrugBank pharmacological data (MOA, drug categories, toxicity profiles) to complete the safety assessment framework
-- Establish a pre-treatment pharmacogenomic testing protocol (TPMT and NUDT15 genotyping) to identify patients at high risk for myelotoxicity before initiating therapy
-- Develop a haematological monitoring plan (CBC with differential, liver function tests, renal function) for ongoing surveillance during treatment
-- Define clear IBD indication boundaries (Crohn's disease vs. ulcerative colitis; induction vs. maintenance; monotherapy vs. combination with biologics) for the intended target population
+- Package insert warnings and contraindications (blocking gap DG001), which are required before safety screening.
+- DrugBank mechanism-of-action data (DG002).
+- Confirmation of the US labeled indications for azathioprine, since the record has no indication text. Whether IBD is labeled or off-label should be checked against the label.
+- A TPMT/NUDT15 testing and blood-count/liver monitoring plan.
+- Route compatibility and similarity-to-original assessment (both still pending in the record).
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

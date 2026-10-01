@@ -29,103 +29,76 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Avelumab: From Urothelial Carcinoma to Human Herpesvirus 8-Related Tumor
+# Avelumab: From Merkel Cell and Urothelial Carcinoma to Human Herpesvirus 8-Related Tumor
 
 ## One-Sentence Summary
 
-Avelumab (trade name Bavencio®) is an anti-PD-L1 immune checkpoint inhibitor that has been approved by the US FDA for Merkel cell carcinoma and locally advanced or metastatic urothelial carcinoma (as maintenance therapy after platinum-based chemotherapy), but is currently not marketed in Taiwan.
-The TxGNN model predicts that it may have therapeutic efficacy for **Human Herpesvirus 8-Related Tumor** (HHV-8-related tumors, including Kaposi sarcoma and primary effusion lymphoma), however there are currently **0 clinical trials** and **0 literature reports** supporting this direction, with an evidence level of the lowest **L5 (model prediction, without actual research support)**.
-
----
+Avelumab is an anti-PD-L1 antibody marketed in the US as BAVENCIO. The supplied license record does not list an approved indication, so its established uses (Merkel cell carcinoma and urothelial carcinoma) come from the mechanistic notes in the pack. The TxGNN model predicts it may be effective for **human herpesvirus 8-related tumor**, but there are **0 clinical trials** and **0 publications** supporting this prediction, so it is a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original approved indications | No approval record in Taiwan TFDA; International approvals: Merkel cell carcinoma, locally advanced/metastatic urothelial carcinoma (maintenance therapy) |
-| Predicted new indication | Human Herpesvirus 8-Related Tumor |
-| TxGNN prediction score | 99.97% |
-| Evidence level | L5 |
-| Taiwan market status | ✗ Not marketed (TFDA) |
-| Number of approval permits | 0 |
-| Recommended decision | **Hold** |
-
----
+|------|------|
+| Original Indication | Not listed in the supplied license record (established use in Merkel cell carcinoma and urothelial carcinoma, per the mechanistic notes) |
+| Predicted New Indication | Human herpesvirus 8-related tumor |
+| TxGNN Prediction Score | 99.97% (rank 1250; scores for this drug are all near 100%, so the value does not discriminate between candidates) |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 (BLA761049) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, this Evidence Pack lacks formal mechanism of action (MOA) data for avelumab. Based on available information, avelumab is a fully humanized anti-PD-L1 IgG1 monoclonal antibody that blocks the interaction between PD-L1 and its receptors (PD-1 and CD80), thereby releasing immune suppression of cytotoxic T lymphocytes by tumors. Notably, the IgG1 Fc domain of avelumab retains antibody-dependent cellular cytotoxicity (ADCC), which can recruit natural killer cells to directly lyse PD-L1-positive tumor cells, distinguishing it from PD-1 inhibitors (such as nivolumab and pembrolizumab).
+Avelumab is an anti-PD-L1 monoclonal antibody. Detailed mechanism-of-action data is not available in the supplied record. The general class mechanism is that blocking PD-L1 releases the brake on T cells, so the immune system can attack tumor cells again.
 
-HHV-8 (Kaposi sarcoma-associated herpesvirus/KSHV) promotes tumor development through persistent viral infection, with related tumors including Kaposi sarcoma (KS), primary effusion lymphoma (PEL), and multicentric Castleman disease (MCD). Literature shows that HHV-8 infection can upregulate PD-L1 expression on tumor cell surfaces, providing a theoretical basis for anti-PD-L1 therapy; the ADCC mechanism of avelumab may provide additional antitumor effects against virus-transformed tumors.
+HHV-8-driven tumors, such as Kaposi sarcoma and primary effusion lymphoma, are virus-associated and may express PD-L1. Checkpoint blockade is therefore biologically plausible. The link is theoretical: no trial, literature or PD-L1 expression data for these tumors was supplied.
 
-However, this prediction has significant biological limitations. The primary patient populations for HHV-8-related tumors are severely immunocompromised individuals (HIV-infected patients or organ transplant recipients), whose immune microenvironment differs markedly from that of patients with approved indications for avelumab (urothelial carcinoma, Merkel cell carcinoma); PEL is a B-cell-derived malignancy in which the T-cell exhaustion model does not fully apply; moreover, using immune checkpoint inhibitors in HIV-positive patients may trigger unpredictable immune reactivation responses. In the absence of any clinical or basic research data, this prediction currently represents merely a biological hypothesis and is insufficient to support advancement to clinical development.
-
----
+The TxGNN score should be read with caution. Because all scores for this drug are close to 1, the model cannot tell strong candidates from weak ones by score alone.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## US Market Information
 
-## Taiwan Market Information
-
-Avelumab (Bavencio®) currently has **no TFDA approval permits** and has not been marketed for sale in Taiwan.
-
-**International approval records (for reference):**
-
-| Regulatory Agency | Approved Indications |
-|-------------------|----------------------|
-| US FDA (2017) | Unresectable or metastatic Merkel cell carcinoma (adults and children 12 years and older) |
-| US FDA (2020) | First-line maintenance therapy for locally advanced or metastatic urothelial carcinoma with no progression after platinum-based chemotherapy (JAVELIN Bladder 100, Phase 3, N=700) |
-| EMA (Bavencio) | Same two indications as above |
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| BLA761049 | BAVENCIO (EMD Serono, Inc.) | Injection, solution, concentrate | Not specified in the supplied record |
 
 ## Cytotoxicity
 
-Avelumab is an antitumor immunotherapy drug and the following cytotoxicity-related information must be listed.
-
 | Item | Content |
-|------|---------|
-| Cytotoxicity classification | Immunotherapy — anti-PD-L1 immune checkpoint inhibitor; not a conventional cytotoxic drug |
-| Bone marrow suppression risk | Low (non-conventional bone marrow toxicity mechanism; immune-related hematologic effects [irAE] as possible exception) |
-| Emetogenicity grade | Minimal (Minimal emetogenic risk, intravenous infusion formulation) |
-| Monitoring items | Liver function (ALT/AST/bilirubin), thyroid function (TSH/Free T4), fasting blood glucose, CBC with differential, renal function (creatinine), adrenal function (cortisol); monitor for infusion reactions before each infusion |
-| Handling precautions | Operate according to standard biologic intravenous infusion protocols; **does not require** special protective equipment for cytotoxic drugs. According to the package insert, premedication with antihistamine + acetaminophen is recommended before the first 4 infusions to prevent infusion reactions. |
-
----
+|------|------|
+| Cytotoxicity Classification | Immunotherapy (immune checkpoint inhibitor, monoclonal antibody) |
+| Myelosuppression Risk | Low, as expected for the class (not a conventional cytotoxic agent); please refer to the package insert warnings and precautions |
+| Emetogenicity Classification | Low, as expected for the class |
+| Monitoring Items | Please refer to the package insert warnings and precautions |
+| Handling Protection | Please refer to the package insert warnings and precautions |
 
 ## Safety Considerations
 
-This Evidence Pack lacks Taiwan TFDA package insert warnings, contraindications, and drug-drug interactions data (Blocking data gap). Please consult the original avelumab US FDA approval package insert (Bavencio® US Prescribing Information) or EMA SmPC for complete safety information.
-
-> **Special note (for HHV-8-related tumor target population):** This population (HIV-positive or organ transplant recipients) typically uses antiretroviral therapy (ART) or immunosuppressive agents concurrently, and systematic evaluation of drug-drug interactions with avelumab is lacking. The risk of immune-related adverse events (irAE), immune reconstitution inflammatory syndrome (IRIS), and infectious adverse reactions with immune checkpoint inhibitors in this population requires careful assessment and should be addressed well before any efficacy exploration.
-
----
+No drug interactions were found in the queried database. Please refer to the package insert for warnings, contraindications and other safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN model provides a prediction score as high as 99.97%, yet this result completely lacks clinical or basic research support (L5). Although the hypothesis of PD-L1 upregulation in HHV-8 tumors is mechanistically reasonable, the unique immunosuppressed background of the target population and the B-cell origin of PEL introduce fundamental biological uncertainties regarding avelumab efficacy, falling short of the threshold for advancing clinical development.
+The top-ranked prediction rests only on a plausible mechanism, with no trials or publications and an L5 evidence level. The package insert safety data has also not yet been obtained.
+
+Other predictions in the same list vary in credibility:
+- Prostatic urethra urothelial carcinoma (rank 9) and kidney pelvis sarcomatoid transitional cell carcinoma (rank 10) are the most credible, because they are close to avelumab's established urothelial use. Rank 10 has one completed retrospective observational study (n=79), which is not confirmed to include this subtype.
+- The immunodeficiency predictions (adenosine deaminase deficiency, reticular dysgenesis, Immunoerythromyeloid hypoplasia, non-severe combined immunodeficiency) have no plausible mechanism and are likely graph artifacts.
 
 **To proceed, the following is needed:**
-
-- **Biomarker validation:** Quantification of PD-L1 expression in HHV-8-related tumor subtypes (KS, PEL, MCD) and characterization of the immune microenvironment (TIL composition, TMB)
-- **Preclinical data:** Establish HHV-8-infected tumor models to verify anti-PD-L1 ± ADCC antitumor activity
-- **MOA data completion:** Query the DrugBank API (DB11945) to obtain complete mechanism of action data for mechanistic relevance analysis
-- **Safety data unlock:** Download and parse Taiwan TFDA package insert PDF to fill DG001 (Blocking data gap), enabling entry into S1 safety assessment
-- **Special population safety framework:** Develop a safety assessment scheme for immune checkpoint inhibitor use in HIV-positive patients and organ transplant recipients, including review of ART drug-drug interactions
-- **Model quality feedback:** The predicted indications ranked 5–8 in this Evidence Pack (ADA deficiency, Reticular dysgenesis, Immunoerythromyeloid hypoplasia, non-severe CID) all belong to immunodeficiency diseases, which are biologically contraindicated for avelumab (biological counter-indication), suggesting feedback to TxGNN training data to correct model bias
-
+- The FDA package insert (warnings, contraindications), which is currently blocking the safety screening
+- Detailed mechanism-of-action data from DrugBank
+- A search for HHV-8-related tumor (Kaposi sarcoma, primary effusion lymphoma) trials and case reports with anti-PD-(L)1 agents, plus PD-L1 expression data for these tumors
+- Consideration of prioritizing the urothelial-related candidates (ranks 9 and 10) for evidence review
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

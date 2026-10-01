@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Potassium
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 1066
-evidence_level: L2
+evidence_level: L5
 indication_count: 5
 ---
 
 # Potassium
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,12 +29,11 @@ Evidence Level: **L2** | Predicted Indications: **5**
 
 </div>
 
-# Potassium: From Electrolyte Replacement (Hypokalemia) to Hypertensive Disorder
+# Potassium: From Marketed Potassium Products to Hypertensive Disorder
 
 ## One-Sentence Summary
 
-Potassium is an essential electrolyte, conventionally used for potassium replacement/supplementation in hypokalemia and as part of routine electrolyte management.
-The TxGNN model predicts it may be effective for **Hypertensive Disorder**, with **~44 registered clinical trials** (many of low direct relevance) and **21 publications** currently reviewed for this direction, including several high-quality meta-analyses and a large NEJM RCT on potassium-enriched salt substitutes.
+Potassium is an essential electrolyte sold in the US as prescription potassium citrate extended-release tablets and as homeopathic pellets. The label data provided do not state an approved indication. The TxGNN model predicts it may help with **hypertensive disorder**. The literature is strong (a dose-response meta-analysis of RCTs, a systematic review and a large salt-substitute RCT), but it concerns dietary potassium, not a standalone potassium drug. Most of the **48 listed clinical trials** are only loosely related to potassium.
 
 ---
 
@@ -42,40 +41,42 @@ The TxGNN model predicts it may be effective for **Hypertensive Disorder**, with
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on file in this Evidence Pack (no TFDA/US license records); potassium is generically used for hypokalemia correction / electrolyte replacement |
-| Predicted New Indication | Hypertensive Disorder |
+| Original Indication | Not stated in the US license data provided |
+| Predicted New Indication | Hypertensive disorder |
 | TxGNN Prediction Score | 99.16% |
-| Evidence Level | L2 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L3 by the rule table (the pack's automated label is L1, see the note below) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Proceed with Guardrails |
+
+**Note on the evidence level:** L1 requires at least 2 completed Phase 3 RCTs of the drug itself. Only one completed Phase 3 trial of potassium is listed (NCT03809884, 7 participants). The level rests on the systematic review and meta-analysis literature, so I rate it L3.
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed formal mechanism-of-action (MOA) data for this candidate is currently unavailable in the Evidence Pack (DG002, High severity). Based on established physiology, however, potassium promotes natriuresis, suppresses renin-angiotensin-aldosterone system (RAAS) activity, and reduces vascular smooth muscle tone — this is the core mechanistic basis underlying the DASH diet and WHO dietary recommendations for blood pressure control.
+Detailed mechanism-of-action data for potassium is not available in DrugBank. The literature supplies a physiological rationale. Higher potassium intake promotes sodium excretion in urine and vasodilation, and it reduces sympathetic nervous system and renin-angiotensin activity. Together these lower blood pressure. Reviews also describe the interaction of excess sodium and potassium deficiency as a key environmental driver of primary hypertension.
 
-Unlike a typical drug-repurposing candidate moving between two disease areas, potassium's link to hypertension is an **already well-established nutrient-disease relationship** rather than a novel mechanistic hypothesis generated purely from knowledge-graph similarity. This is reflected in the evidence base: large-scale meta-analyses, systematic reviews, and a landmark cluster-randomized NEJM trial (potassium-enriched salt substitution) all support an inverse dose-response relationship between potassium intake and blood pressure.
-
-The main caveat is that this evidence largely concerns **dietary potassium intake or salt substitution**, not a discrete pharmaceutical potassium product dosed for hypertension indication. Clinical translation into a formal antihypertensive indication would still require dose-ranging and safety validation, particularly given the narrow therapeutic window of potassium and hyperkalemia risk in renal impairment.
+No original indication is recorded, so the link to the original use is weaker than in a typical repurposing case. The direct evidence is about dietary potassium and potassium-enriched salt substitutes, not potassium drug products. In the large salt-substitute RCT (SSaSS), the intervention also lowered sodium, so the benefit cannot be attributed to potassium alone. Most listed trials concern hypertension or primary aldosteronism in general. Few test potassium itself.
 
 ---
 
 ## Clinical Trial Evidence
 
-Note: Many KG-matched trials in the raw evidence set were graded "C" (low relevance/noise — e.g., unrelated interventions co-occurring with a "hypertension" label). The table below lists the trials with a direct, interpretable link to potassium and blood pressure/electrolyte physiology.
+The 10 trials below are the most relevant of the 48 listed. The closest are the potassium-magnesium citrate trials. Many others are hypertension trials that do not test potassium.
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT03809884](https://clinicaltrials.gov/study/NCT03809884) | Phase 3 | Completed | 7 | Adaptive trial comparing dietary counseling vs. additional potassium supplement to increase potassium intake in patients with high blood pressure |
-| [NCT02653560](https://clinicaltrials.gov/study/NCT02653560) | Phase 4 | Completed | 30 | Liquid potassium-magnesium citrate tested for blood pressure control, building on DASH diet rationale (K/Mg/alkali components) |
-| [NCT05145309](https://clinicaltrials.gov/study/NCT05145309) | Phase 2 | Not yet recruiting | 45 | Potassium-magnesium citrate for prevention/treatment of hypertension specifically in African American patients |
-| [NCT03569020](https://clinicaltrials.gov/study/NCT03569020) | N/A | Completed | 43 | DASH diet (high-potassium) effects on blood pressure/uric acid in adults with hyperuricemia and gout |
-| [NCT05155436](https://clinicaltrials.gov/study/NCT05155436) | Phase 4 | Completed | 1090 | Prevalence/incidence of dyskalemia (hypo/hyperkalemia) in hypertensive patients starting fixed-dose telmisartan/amlodipine — relevant to potassium monitoring during antihypertensive therapy |
-| [NCT01224314](https://clinicaltrials.gov/study/NCT01224314) | N/A | Completed | 24 | Direct hemodynamic study: rapid changes in dialysate potassium concentration produce measurable blood pressure effects ("rebound hypertension") |
-| [NCT05222191](https://clinicaltrials.gov/study/NCT05222191) | Phase 2 | Unknown | 24 | Spironolactone (potassium-retaining) vs. chlorthalidone in CKD-associated hypertension; hyperkalemia risk directly relevant to potassium safety |
-| [NCT02452749](https://clinicaltrials.gov/study/NCT02452749) | N/A | Completed | 30 | Safety/tolerability of a cardiovascular dietary supplement (includes potassium) in adults with borderline/mild hypertension |
+| [NCT02653560](https://clinicaltrials.gov/study/NCT02653560) | Phase 4 | Completed | 30 | Liquid potassium-magnesium citrate compared with the DASH diet for controlling hypertension |
+| [NCT05145309](https://clinicaltrials.gov/study/NCT05145309) | Phase 2 | Not yet recruiting | 45 | Potassium-magnesium citrate to prevent and treat hypertension in African Americans |
+| [NCT03809884](https://clinicaltrials.gov/study/NCT03809884) | Phase 3 | Completed | 7 | Dietary potassium versus a potassium supplement to raise potassium intake for high blood pressure |
+| [NCT05155436](https://clinicaltrials.gov/study/NCT05155436) | Phase 4 | Completed | 1090 | Prevalence of hypo- and hyperkalemia in patients starting a telmisartan/amlodipine combination |
+| [NCT01224314](https://clinicaltrials.gov/study/NCT01224314) | N/A | Completed | 24 | Effect of dialysate potassium concentration on blood pressure in haemodialysis |
+| [NCT07172425](https://clinicaltrials.gov/study/NCT07172425) | N/A | Recruiting | 30 | Nitrate-fortified foods for nitric oxide metabolism; prior work used potassium nitrate capsules |
+| [NCT05593055](https://clinicaltrials.gov/study/NCT05593055) | Phase 4 | Recruiting | 75 | Mineralocorticoid receptor antagonist versus a thiazide-like diuretic in hypertension with left ventricular hypertrophy; indirectly relevant through potassium handling |
+| [NCT05222191](https://clinicaltrials.gov/study/NCT05222191) | Phase 2 | Unknown | 24 | Spironolactone enabled by chlorthalidone in CKD; serum potassium rise is the key side effect |
+| [NCT03569020](https://clinicaltrials.gov/study/NCT03569020) | N/A | Completed | 43 | DASH diet (potassium-rich) effect on serum uric acid; potassium is not isolated |
+| [NCT02452749](https://clinicaltrials.gov/study/NCT02452749) | N/A | Completed | 30 | Safety of a cardiovascular health dietary supplement in borderline to mild hypertension |
 
 ---
 
@@ -83,30 +84,36 @@ Note: Many KG-matched trials in the raw evidence set were graded "C" (low releva
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [34459569](https://pubmed.ncbi.nlm.nih.gov/34459569/) | 2021 | RCT (cluster) | New England Journal of Medicine | Large cluster-RCT: sodium-reduced, potassium-enriched salt substitute lowered cardiovascular events and death |
-| [32500831](https://pubmed.ncbi.nlm.nih.gov/32500831/) | 2020 | Meta-analysis of RCTs | Journal of the American Heart Association | Dose-response meta-analysis showing potassium supplementation lowers blood pressure across trials ≥4 weeks |
-| [23558164](https://pubmed.ncbi.nlm.nih.gov/23558164/) | 2013 | Systematic Review | BMJ | Increased potassium intake associated with reduced cardiovascular risk factors and stroke risk |
-| [39472546](https://pubmed.ncbi.nlm.nih.gov/39472546/) | 2025 | Review | Hypertension Research | Role of dietary potassium and salt substitution in prevention/management of hypertension |
-| [37772757](https://pubmed.ncbi.nlm.nih.gov/37772757/) | 2024 | Review | American Journal of Hypertension | State-of-the-art review on potassium's role in blood pressure regulation |
-| [10979053](https://pubmed.ncbi.nlm.nih.gov/10979053/) | 2000 | Clinical Practice Guideline | Archives of Internal Medicine | National Council on Potassium in Clinical Practice guidelines for potassium replacement |
-| [27455317](https://pubmed.ncbi.nlm.nih.gov/27455317/) | 2016 | Review | Nutrients | Potassium bioavailability and its relationship to hypertension and glucose control |
-| [29771736](https://pubmed.ncbi.nlm.nih.gov/29771736/) | 2018 | Review | Current Opinion in Cardiology | Dietary approaches (including potassium intake) for hypertension prevention/management |
-| [30190007](https://pubmed.ncbi.nlm.nih.gov/30190007/) | 2018 | Review | Journal of the American College of Cardiology | Inadequate dietary potassium identified as a modifiable environmental risk factor for hypertension |
-| [25016398](https://pubmed.ncbi.nlm.nih.gov/25016398/) | 2014 | Review | Seminars in Nephrology | Interaction of sodium surfeit and potassium deficiency as the chief driver of primary hypertension risk |
+| [32500831](https://pubmed.ncbi.nlm.nih.gov/32500831/) | 2020 | Meta-analysis of RCTs | J Am Heart Assoc | Dose-response relationship between potassium supplementation and blood pressure in trials of at least 4 weeks |
+| [23558164](https://pubmed.ncbi.nlm.nih.gov/23558164/) | 2013 | Systematic review and meta-analysis | BMJ | Effect of increased potassium intake on cardiovascular risk factors and disease |
+| [34459569](https://pubmed.ncbi.nlm.nih.gov/34459569/) | 2021 | RCT | N Engl J Med | Potassium-enriched, sodium-reduced salt substitute and cardiovascular events and death |
+| [37772757](https://pubmed.ncbi.nlm.nih.gov/37772757/) | 2024 | Review | Am J Hypertens | State-of-the-art review of potassium and hypertension |
+| [39472546](https://pubmed.ncbi.nlm.nih.gov/39472546/) | 2025 | Review | Hypertens Res | Dietary potassium and salt substitution in preventing and managing hypertension |
+| [25016398](https://pubmed.ncbi.nlm.nih.gov/25016398/) | 2014 | Review | Semin Nephrol | Interaction of sodium surfeit and potassium deficiency in the pathogenesis of hypertension |
+| [27455317](https://pubmed.ncbi.nlm.nih.gov/27455317/) | 2016 | Review | Nutrients | Potassium intake, bioavailability, hypertension and glucose control |
+| [23674806](https://pubmed.ncbi.nlm.nih.gov/23674806/) | 2013 | Review | Adv Nutr | Potassium and health; moderate evidence linking intake to lower blood pressure |
+| [40507134](https://pubmed.ncbi.nlm.nih.gov/40507134/) | 2025 | Preclinical (rat) | Nutrients | Potassium supplementation had differing effects on blood pressure and renal function in two hypertensive rat models |
+| [40232853](https://pubmed.ncbi.nlm.nih.gov/40232853/) | 2025 | Preclinical (rat) | JCI Insight | Potassium supplementation attenuated blood pressure in salt-sensitive rats of both sexes |
 
 ---
 
 ## US Market Information
 
-This drug currently has no marketing authorizations on file in the Evidence Pack (market status: **Not Marketed**, 0 licenses). No dosage form or approved-indication data is available for review.
+The data list 20 authorizations. The 5 below are the main ones shown. None includes an approved indication text.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA212779 | Potassium Citrate (Bryant Ranch Prepack) | Extended-release tablet | Not provided |
+| ANDA203546 | Potassium Citrate (Zydus Pharmaceuticals) | Extended-release tablet | Not provided |
+| No number listed | Kali bichromicum (Boiron) | Pellet | Not provided |
+| No number listed | Kali bromatum (Boiron) | Pellet | Not provided |
+| No number listed | Kali Aceticum (Hahnemann Laboratories) | Pellet | Not provided |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No key warnings, contraindications, or drug-drug interaction data are currently available in this Evidence Pack (flagged as Blocking data gap, DG001 — TFDA label/warnings not yet retrieved).
-
-Given potassium's known narrow therapeutic index, any forward evaluation should explicitly prioritize hyperkalemia risk assessment (especially in renal impairment, concurrent RAAS-inhibitor/potassium-sparing diuretic use) once label data is obtained.
+Please refer to the package insert for safety information. The drug interaction query returned no results, which likely reflects a data gap, not an absence of interactions.
 
 ---
 
@@ -115,15 +122,17 @@ Given potassium's known narrow therapeutic index, any forward evaluation should 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-The potassium–blood pressure relationship is supported by strong epidemiological and interventional evidence, including a landmark NEJM cluster-RCT and multiple meta-analyses/systematic reviews, giving this candidate an L2 evidence level. However, this reflects a nutrient-disease relationship rather than a validated pharmaceutical indication, and safety data for a formal potassium drug product in hypertension is still absent.
+Direct human evidence, including a dose-response meta-analysis and a large salt-substitute RCT, supports potassium for lowering blood pressure. That evidence covers dietary potassium and KCl salt substitutes, not a standalone potassium drug. The salt-substitute effect is confounded by sodium reduction. The other four predicted indications (pulmonary hypertension of two types, malignant renovascular hypertension and malignant hypertensive renal disease) have no supporting evidence or only indirect evidence, and the recommendation for each is Hold.
 
 **To proceed, the following is needed:**
-- TFDA/FDA label warnings and contraindications (DG001, Blocking — required before any S1 safety screening)
-- Formal mechanism-of-action documentation from DrugBank (DG002)
-- Clarification of target population and dosing (dietary supplementation vs. pharmaceutical-grade potassium product) given hyperkalemia risk, particularly in renal impairment
-- A dedicated safety monitoring plan (serum potassium, renal function) before any clinical development step
+- The US package insert warnings and contraindications, which are currently missing and block safety screening.
+- Mechanism-of-action data from DrugBank.
+- A trial of a potassium drug product itself (for example potassium-magnesium citrate) against placebo, with blood pressure as the primary outcome.
+- A patient-selection and monitoring plan:
+  - Exclude or closely monitor patients with CKD, hyperkalemia risk, ACE inhibitor/ARB/MRA/potassium-sparing diuretic use, or diabetic hyporeninemic states.
+  - Check serum potassium and eGFR before and during use.
 
-*Note: Ranks 2–5 (pulmonary hypertension variants, malignant renovascular/hypertensive renal disease) are assessed as L4–L5 with no supporting mechanistic or clinical evidence and are recommended for **Hold** — several carry an increased hyperkalemia risk signal that runs counter to the proposed intervention.*
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

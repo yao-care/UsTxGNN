@@ -29,16 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-Using this Evidence Pack directly (no additional skills apply — this is a self-contained report-writing task per the v5 template instructions already provided). Below is the report.
-
----
-
-# Leuprolide: From GnRH-Agonist Hormone Suppression Therapy to Osteoarthritis
+# Leuprolide: From an Unrecorded Original Indication to Osteoarthritis
 
 ## One-Sentence Summary
 
-> Leuprolide is a GnRH (LHRH) agonist historically used to suppress sex-hormone secretion in hormone-dependent conditions (e.g., androgen deprivation therapy in prostate cancer).
-> The TxGNN model predicts it may be effective for **Osteoarthritis**, but this direction is supported by only **1 clinical trial** and **1 publication**, neither of which actually studies leuprolide in osteoarthritis — and the drug's known pharmacology points in the **opposite** direction (GnRH agonists are associated with *increased* bone loss and joint pain, not improvement).
+Leuprolide is a GnRH agonist, marketed in the US as several extended-release injectable products. The Evidence Pack does not record its approved indications.
+The TxGNN model predicts it may be effective for **osteoarthritis**, but this is a model prediction only.
+**1 clinical trial** and **1 publication** were retrieved, and neither studies osteoarthritis.
 
 ---
 
@@ -46,23 +43,23 @@ Using this Evidence Pack directly (no additional skills apply — this is a self
 
 | Item | Content |
 |------|------|
-| Original Indication | Not extractable from Taiwan regulatory data (drug is not marketed/licensed in this dataset); pharmacological context indicates hormone-dependent conditions treated via androgen/estrogen suppression (e.g., ADT for prostate cancer) |
+| Original Indication | Not recorded in the provided data |
 | Predicted New Indication | Osteoarthritis |
 | TxGNN Prediction Score | 99.70% |
-| Evidence Level | L5 (model prediction only — no genuine disease-relevant studies) |
-| US Market Status | ✗ Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 11 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for leuprolide is flagged as a data gap in this evidence pack (DG002). Based on the pharmacological context available, leuprolide is a GnRH (LHRH) agonist that, with continuous administration, downregulates pituitary GnRH receptors and suppresses downstream sex-hormone (testosterone/estrogen) production — a mechanism used therapeutically in hormone-dependent conditions such as androgen deprivation therapy (ADT) for prostate cancer.
+Currently, detailed mechanism of action data is not available. Leuprolide is a GnRH agonist that suppresses gonadal sex steroids after an initial stimulation phase. A speculative link to osteoarthritis is hormonal influence on cartilage and subchondral bone.
 
-The TxGNN score of 0.9969 (rank 8002) reflects topological similarity within the knowledge graph rather than a validated pharmacological rationale for osteoarthritis. Critically, the mechanistic review embedded in this evidence pack notes that the *known clinical effect* of GnRH agonists on the musculoskeletal system runs opposite to what would be needed to treat osteoarthritis: long-term hormone suppression (as with ADT) is a well-documented cause of *accelerated* bone loss, osteoporosis, and arthralgia/myalgia — it does not alleviate joint disease. There is no known pathway by which leuprolide would reduce cartilage degeneration or joint inflammation.
+No evidence in this package supports that link. The original indication is also not recorded, so the relationship between the original and predicted indications cannot be assessed. The high TxGNN score (0.997) should be treated as a hypothesis-generating signal, not as support for efficacy.
 
-For this reason, the mechanistic link should be read as a **contradictory signal rather than supporting evidence**. The single clinical trial and single publication retrieved for this pairing were both about metastatic prostate cancer and were captured only because they involve an LHRH analog — not because they studied osteoarthritis outcomes. This pattern is consistent with a false-positive prediction driven by graph co-occurrence rather than genuine therapeutic plausibility, and it should be treated with a high degree of skepticism.
+The second-ranked prediction, pseudoachondroplasia (score 99.69%), is also L5 with no trials or literature.
 
 ---
 
@@ -70,7 +67,7 @@ For this reason, the mechanistic link should be read as a **contradictory signal
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00002881](https://clinicaltrials.gov/study/NCT00002881) | Phase 3 | Completed | N/A | Randomized trial of orchiectomy/LHRH analog + flutamide ± suramin/hydrocortisone in **metastatic prostate cancer**. No osteoarthritis endpoint; trial was matched only because it uses an LHRH analog. Relevance graded **C (low/mismatched)** — does not support the osteoarthritis prediction. |
+| [NCT00002881](https://clinicaltrials.gov/study/NCT00002881) | Phase 3 | Completed | Not reported | Randomized trial in metastatic prostate cancer of orchiectomy/LHRH analog + flutamide, with or without suramin and hydrocortisone. It does not study osteoarthritis and was likely matched only through the drug name (relevance grade C). |
 
 ---
 
@@ -78,19 +75,27 @@ For this reason, the mechanistic link should be read as a **contradictory signal
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [20133250](https://pubmed.ncbi.nlm.nih.gov/20133250/) | 2010 | Case Report | Clinical Breast Cancer | Describes metastatic prostatic adenocarcinoma mimicking inflammatory breast carcinoma. Unrelated to osteoarthritis; not relevant supporting evidence. |
+| [20133250](https://pubmed.ncbi.nlm.nih.gov/20133250/) | 2010 | Case report | Clinical Breast Cancer | Metastatic prostatic adenocarcinoma presenting with skin changes that mimicked inflammatory breast carcinoma. Not relevant to osteoarthritis. |
 
 ---
 
 ## US Market Information
 
-Currently no marketing authorization records available — leuprolide is not marketed under this dataset (0 licenses on file), so no license/product table can be generated.
+Five of the 11 authorizations are listed. The Evidence Pack contains no approved-indication text for any of them.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA021488 | Eligard (TOLMAR Inc.) | Injection, suspension, extended release | Not listed |
+| NDA021343 | Eligard (TOLMAR Inc.) | Injection, suspension, extended release | Not listed |
+| NDA021379 | Vabrinty (Uronova Pharmaceuticals, Inc.) | Injection, suspension, extended release | Not listed |
+| NDA021731 | Vabrinty (Uronova Pharmaceuticals, Inc.) | Injection, suspension, extended release | Not listed |
+| NDA211488 | CAMCEVI (Accord BioPharma, Inc.) | Injection, emulsion | Not listed |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug-interaction data are all currently unavailable — a TFDA label/warnings lookup is flagged as a blocking data gap for safety pre-screening, see Next Steps.)
+Please refer to the package insert for safety information.
 
 ---
 
@@ -99,15 +104,13 @@ Please refer to the package insert for safety information. (Key warnings, contra
 **Decision: Hold**
 
 **Rationale:**
-- Evidence level is L5 — the only "supporting" trial and publication are both about unrelated metastatic prostate cancer and were captured due to LHRH-analog keyword overlap, not genuine osteoarthritis relevance. More importantly, the known pharmacology of GnRH agonists (worsening bone loss/arthralgia via hormone suppression) contradicts rather than supports a therapeutic role in osteoarthritis, making this look like a likely false-positive TxGNN signal.
+The prediction rests only on the TxGNN score. The one trial and one publication found concern prostate cancer, not osteoarthritis. There is no supported mechanistic link, and neither the mechanism of action nor the safety data are available.
 
 **To proceed, the following is needed:**
-- TFDA/FDA label data on warnings and contraindications (currently a **blocking** data gap — required before any safety pre-screening, DG001)
-- Verified mechanism-of-action documentation via DrugBank API (currently missing, DG002)
-- Disease-specific pharmacological or preclinical rationale explaining how GnRH suppression could plausibly benefit osteoarthritis, given the contradictory clinical signal noted above
-- If this candidate is still pursued, independent expert review to rule out a knowledge-graph artifact before any further investment
-
-**Note on secondary candidate:** A second, lower-ranked prediction (pseudoachondroplasia, TxGNN score 99.69%, rank 8263) was also flagged for leuprolide but has **zero** supporting clinical trials or literature and an even weaker mechanistic rationale (a genetic/structural cartilage disorder with no known GnRH-pathway involvement). This candidate should also be held pending stronger evidence.
+- Package insert warnings and contraindications, to allow safety screening
+- Mechanism of action data (e.g., from DrugBank) and the approved indications
+- Preclinical or clinical evidence specific to osteoarthritis
+- An assessment of route and dosage-form compatibility, since all marketed forms are extended-release injectables
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

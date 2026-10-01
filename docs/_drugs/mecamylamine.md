@@ -29,32 +29,40 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Mecamylamine: From Historical Antihypertensive Use to Malignant Renovascular Hypertension
+# Mecamylamine: From an Unrecorded Original Indication to Malignant Renovascular Hypertension
 
 ## One-Sentence Summary
 
-Mecamylamine has no confirmed original indication in this evidence pack (MOA and indication data are gaps); background pharmacological knowledge flags it as a historical ganglionic-blocking antihypertensive, unconfirmed by the sources provided here.
-The TxGNN model predicts it may be effective for **Malignant Renovascular Hypertension**, but currently **0 clinical trials** and **0 publications** support this specific link — this is a model-only prediction.
+Mecamylamine is an oral tablet marketed in the US as Vecamyl, but the supplied label data does not record its approved indication.
+The TxGNN model predicts it may be effective for **malignant renovascular hypertension**.
+There are currently **0 clinical trials** and **0 publications** supporting this specific prediction, so it is a model-only hypothesis.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in this pack (no licenses, no original_indications on file) |
-| Predicted New Indication | Malignant Renovascular Hypertension |
+| Predicted New Indication | Malignant renovascular hypertension |
 | TxGNN Prediction Score | 99.14% |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Not marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 (both listed under ANDA204054) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action (MOA) data is not available from DrugBank in this pack (flagged as a High-severity data gap). Based on general pharmacological background knowledge cited alongside the prediction — **not itself confirmed by any source in this evidence pack** — mecamylamine is a non-selective, non-competitive ganglionic nicotinic acetylcholine receptor (nAChR) antagonist, historically used as a postganglionic sympathetic blocker to treat severe hypertension before being superseded by better-tolerated antihypertensive classes.
+Detailed mechanism of action data is not available in the input. Based on general pharmacology, mecamylamine is a nicotinic ganglionic blocker. It lowers blood pressure by reducing autonomic vascular tone, so an antihypertensive effect is mechanistically plausible.
 
-Malignant renovascular hypertension is a renin-driven hypertensive emergency. Ganglionic blockade would mechanistically be expected to lower systemic vascular resistance and blood pressure regardless of the underlying renovascular trigger, which is the likely basis for the TxGNN association. However, this is an indirect, class-level argument rather than disease-specific evidence, and no clinical trial, trial registry, or literature record in this pack links mecamylamine to this indication.
+The fit with this particular indication is only partial. Renovascular malignant hypertension is driven largely by renin-angiotensin system activation, which ganglionic blockade does not directly target. It is also a hypertensive emergency, so any use would need to be compared against modern, better-characterized treatments.
 
-The second-ranked prediction, "malignant hypertensive renal disease," carries an identical score and rationale, suggesting it may be a downstream/overlapping disease-ontology term rather than an independent signal — this should be deduplicated before further evaluation.
+The same model score (99.14%) was given to "malignant hypertensive renal disease", which suggests the two predictions share a graph neighborhood. The high score most likely reflects a generic "hypertension" association rather than disease-specific evidence.
+
+## Other Predicted Indications
+
+| Predicted Indication | TxGNN Score | Evidence Level | Assessment |
+|------|------|------|------|
+| Malignant hypertensive renal disease | 99.14% | L5 | Research question. Blood pressure lowering may reduce renal injury, but ganglionic blockers can cause orthostatic hypotension and reduced renal perfusion. |
+| Pulmonary hypertension with unclear multifactorial mechanism | 99.09% | L5 | Hold. There is no known selective pulmonary vasodilator action, and systemic hypotension could compromise right ventricular perfusion. |
+| Pulmonary hypertension owing to lung disease and/or hypoxia | 99.09% | L5 | Hold. The retrieved literature is not relevant (see below). |
 
 ## Clinical Trial Evidence
 
@@ -62,29 +70,39 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for the top prediction.
+
+For the fourth-ranked prediction (pulmonary hypertension owing to lung disease and/or hypoxia), 20 records were retrieved, but only 10 were provided. Those 10 are general hypoxia papers on brain aging, tumor HIF signaling, altitude, and multiple sclerosis. None mentions mecamylamine or pulmonary hypertension treatment, so the retrieval appears to have matched on the keyword "hypoxia" alone. The other 10 records were not provided and could not be assessed. This material is not counted as supporting evidence.
 
 ## US Market Information
 
-No marketing authorizations on record — mecamylamine is currently not marketed (0 licenses/NDAs).
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA204054 | Vecamyl | Tablet (oral) | TILDE Sciences LLC |
+| ANDA204054 | Vecamyl | Tablet (oral) | Vyera Pharmaceuticals, LLC |
+
+The approved indication text is not provided in the source data.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Note: the underlying label/warning data (TFDA-equivalent) is itself marked as a Blocking data gap in this pack, meaning safety screening (Stage S1) cannot currently be performed for this candidate.
+- **Drug Interactions**: The interaction query returned no records (not found). This is not evidence of no interactions.
+- **Class-level concerns from the prediction analysis**: Ganglionic blockade can cause orthostatic hypotension and reduced renal perfusion, which are key open questions for the renal and pulmonary hypertension indications.
+
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high (99.14%), but evidence level is L5 — no clinical trials, ICTRP registrations, or literature support the top-ranked indication, the drug is not marketed anywhere, and the safety label data required to even begin an initial safety screen is a Blocking gap.
+The prediction rests on a model score alone (L5), with no trials or drug-specific literature. The mechanistic link is inferred from general pharmacology, and it is weak for renovascular disease (renin-driven) and for pulmonary hypertension.
 
 **To proceed, the following is needed:**
-- TFDA-equivalent package insert (warnings/contraindications) — Blocking gap (DG001)
-- Verified mechanism of action via DrugBank API — High-priority gap (DG002)
-- Deduplication check between "malignant renovascular hypertension" and "malignant hypertensive renal disease" (identical score, likely overlapping ontology terms)
-- Targeted literature/trial search specifically for mecamylamine + malignant/renovascular hypertension (current PubMed query for this exact term returned 0 results)
-- Resolution of the DDI query status ("not_found") — unclear whether this reflects a true absence of interactions or a failed query
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data and the approved indication
+- A targeted literature search on mecamylamine in malignant or renovascular hypertension
+- Comparison against current standard-of-care antihypertensives for hypertensive emergency
+- Assessment of renal perfusion and hypotension risk in the target populations
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

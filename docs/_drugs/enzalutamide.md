@@ -33,7 +33,9 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 ## One-Sentence Summary
 
-Enzalutamide is an androgen receptor (AR) antagonist originally developed for prostate cancer, most notably castration-resistant prostate cancer (mCRPC). The TxGNN model's top-ranked prediction points to **Prostate Cancer/Brain Cancer Susceptibility** — a hereditary predisposition phenotype rather than an active malignancy — and this prediction currently has **0 clinical trials** and **0 publications** supporting it, despite a high raw similarity score.
+Enzalutamide is an oral androgen receptor (AR) inhibitor marketed in the US as Xtandi, and it is used in prostate cancer (the supplied data do not list an original indication).
+The TxGNN model predicts it may be effective for **prostate cancer/brain cancer susceptibility**, but **0 clinical trials** and **0 publications** support this specific prediction.
+This term describes a genetic predisposition phenotype rather than a treatable disease, so the prediction is best read as a model artifact.
 
 ---
 
@@ -41,35 +43,48 @@ Enzalutamide is an androgen receptor (AR) antagonist originally developed for pr
 
 | Item | Content |
 |------|------|
-| Original Indication | Prostate Cancer (mCRPC) — no formal indication text is provided in this data pack; inferred from associated trial evidence elsewhere in the pack |
-| Predicted New Indication | Prostate Cancer/Brain Cancer Susceptibility |
+| Original Indication | Prostate cancer (general knowledge; all approved-indication fields in the supplied data are empty) |
+| Predicted New Indication | Prostate cancer/brain cancer susceptibility |
 | TxGNN Prediction Score | 99.71% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 5 license records (2 unique NDAs: NDA213674, NDA203415) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack (data gap DG002, High severity). Based on known information, enzalutamide is an androgen receptor (AR) signaling inhibitor in the class of second-generation antiandrogens; its efficacy in prostate cancer is well established — this pack itself contains extensive castration-resistant prostate cancer (mCRPC) trial evidence under the related "male reproductive organ cancer" indication entry (rank 6, L2 evidence, Proceed with Guardrails).
+Enzalutamide blocks AR signaling. It inhibits ligand binding, nuclear translocation and DNA binding of the receptor. Detailed mechanism-of-action data are not available in the supplied record, so this description relies on general pharmacology.
 
-The top-ranked prediction evaluated here, however, is different in kind: "Prostate Cancer/Brain Cancer Susceptibility" describes a hereditary predisposition phenotype, not an active tumour. Per the evidence pack's own rationale, this phenotype has no direct pharmacological relationship to AR antagonism — the prediction reflects TxGNN graph-similarity scoring only (score 99.71%, model rank 7808), with zero clinical trial or literature evidence of any kind attached to it.
+The link to the predicted term exists only through its "prostate cancer" component, where AR signaling drives tumor growth. The term itself describes an inherited predisposition, not an active disease. A drug can treat an established cancer, but it does not treat a susceptibility state. The high score (0.997) most likely reflects proximity in the knowledge graph rather than clinical support.
 
-In short, the high raw prediction score should not be read as clinical relevance. This candidate sits at evidence level L5 (model prediction only, no actual studies) and decision stage S0 — it is a hypothesis generated purely from knowledge-graph similarity, with no mechanistic or empirical corroboration currently available.
+The relationship to the original indication is therefore weak. The prediction overlaps with prostate cancer, where enzalutamide is already used. It adds nothing that can be tested as a new indication.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
+
+For context, the same evidence pack contains many enzalutamide trials under other predicted terms. The most relevant is a randomized Phase 2 study in localized prostate cancer on active surveillance ([NCT02799745](https://clinicaltrials.gov/study/NCT02799745), n=227, completed). It does not support this susceptibility term.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
+
+---
+
+## US Market Information
+
+The five license records contain only two unique NDAs. The source data list no approved-indication text.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA213674 | Xtandi (Astellas Pharma US, Inc.) | Tablet | Not listed in source data |
+| NDA203415 | Xtandi (Astellas Pharma US, Inc.) | Capsule | Not listed in source data |
 
 ---
 
@@ -77,7 +92,7 @@ Currently no related literature available
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (Androgen Receptor Signaling Inhibitor) |
+| Cytotoxicity Classification | Targeted hormonal therapy (AR inhibitor), not a conventional cytotoxic |
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
 | Monitoring Items | Please refer to the package insert warnings and precautions |
@@ -87,7 +102,9 @@ Currently no related literature available
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+The evidence pack rationale for related predictions notes seizure, fall and fracture risks. These are weighed against a benign or non-disease target. No warnings, contraindications or drug-interaction records were retrieved.
+
+Please refer to the package insert for full safety information.
 
 ---
 
@@ -96,13 +113,13 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-This top-ranked candidate (Prostate Cancer/Brain Cancer Susceptibility) has no clinical trial or literature support and rests entirely on TxGNN graph-similarity scoring (L5, decision stage S0). A blocking data gap — missing TFDA label warnings/contraindications (DG001) — also prevents any safety pre-screening. Note that a lower-ranked candidate in this same pack, "male reproductive organ cancer" (rank 6), is far better evidenced (L2, Proceed with Guardrails) and may warrant separate evaluation.
+The predicted term is a genetic susceptibility phenotype, not a treatable disease. It has no trials, no literature, and only model-based (L5) support. The high TxGNN score is not clinical evidence.
 
 **To proceed, the following is needed:**
-- TFDA/label prescribing information (warnings, contraindications) — currently a Blocking data gap
-- Confirmed mechanism of action detail — currently a High-priority data gap
-- Any preclinical or mechanistic evidence specifically linking AR antagonism to hereditary prostate/brain cancer susceptibility, since none currently exists
-- If pursuing this drug's repurposing potential further, consider prioritizing the better-evidenced "male reproductive organ cancer" candidate instead
+- Resolve the umbrella term to a specific, treatable disease. Otherwise drop this candidate.
+- Obtain the FDA package insert (warnings, contraindications, approved indications), which is currently missing and blocks safety screening.
+- Obtain detailed mechanism-of-action data from DrugBank.
+- Note that another prediction in this pack, "male reproductive organ cancer" (rank 6), has stronger support. It reaches L2 with a randomized Phase 2 trial, but this is mostly label confirmation for prostate cancer rather than true repurposing. It should be evaluated in its own report.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

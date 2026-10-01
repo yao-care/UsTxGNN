@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Cyclobenzaprine
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 554
-evidence_level: L1
+evidence_level: L5
 indication_count: 3
 ---
 
 # Cyclobenzaprine
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,56 +33,72 @@ Evidence Level: **L1** | Predicted Indications: **3**
 
 ## One-Sentence Summary
 
-Cyclobenzaprine is a centrally-acting skeletal muscle relaxant, traditionally used for acute muscle spasm associated with painful musculoskeletal conditions.
-The TxGNN model predicts it may be effective for **Myofascial Pain Syndrome (MPS)**, with **17 clinical trials** identified — predominantly pivotal Phase 3 RCTs evaluating a low-dose sublingual formulation (TNX-102 SL / TONMYA) that has since received US FDA approval for fibromyalgia, a closely related central sensitization disorder.
-No separate PubMed literature was retrieved for MPS specifically, but the mechanistic and clinical crossover from fibromyalgia provides strong indirect support.
+Cyclobenzaprine is an oral skeletal muscle relaxant, used for muscle spasm associated with acute, painful musculoskeletal conditions.
+The TxGNN model predicts it may be effective for **myofascial pain syndrome**.
+Of the **16 clinical trials** listed, most test a sublingual cyclobenzaprine product in fibromyalgia, a related but different condition. Only 1 small trial directly studies myofascial pain, and **no publications** were retrieved for this indication.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Acute muscle spasm associated with painful musculoskeletal conditions |
-| Predicted New Indication | Myofascial Pain Syndrome |
+|------|------|
+| Original Indication | Muscle spasm associated with acute, painful musculoskeletal conditions (taken from a trial description, because the license records list no indication text) |
+| Predicted New Indication | Myofascial pain syndrome |
 | TxGNN Prediction Score | 99.09% |
-| Evidence Level | L1 |
-| Market Status (Taiwan) | Not marketed |
-| Number of Authorizations (Taiwan) | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Evidence Level | L2 per the Evidence Pack. This is generous: the Phase 2/3 and Phase 3 RCTs are in fibromyalgia, not myofascial pain, so direct evidence is closer to L4. |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (all shown listings are generic ANDAs) |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the current evidence pack. Based on known pharmacology, cyclobenzaprine acts centrally at the brainstem level to reduce tonic somatic motor output, and inhibits norepinephrine reuptake to enhance descending pain inhibition pathways. Its tricyclic structure closely resembles antidepressants such as amitriptyline — a first-line agent for chronic pain — making its analgesic potential mechanistically plausible beyond simple muscle relaxation.
+Detailed mechanism-of-action data is not available from DrugBank in this pack. Based on the pack's mechanistic notes, cyclobenzaprine is a centrally acting muscle relaxant structurally related to tricyclic antidepressants. It acts on brainstem descending pathways with 5-HT2 antagonism, plus H1 and anticholinergic activity.
 
-Myofascial Pain Syndrome is characterized by two core pathological processes: peripheral muscle hypertonicity (trigger points) and central sensitization. Cyclobenzaprine's brainstem-mediated reduction of tonic motor drive directly addresses the peripheral component, while its norepinephrine reuptake inhibition targets the central component. These are not incidental overlaps — they are the primary mechanisms through which bedtime low-dose cyclobenzaprine is hypothesized to exert benefit, as described in multiple trial rationales.
+Myofascial pain syndrome is a regional muscle pain condition, so a drug already used for painful muscle spasm is a plausible fit. The sedative and serotonergic effects may also help with the sleep disturbance that often accompanies chronic muscle pain.
 
-The strongest clinical rationale comes from fibromyalgia — a disorder now widely understood to share substantial pathophysiology with MPS, including central sensitization, disrupted sleep architecture, and widespread musculoskeletal pain. The TNX-102 SL program (low-dose sublingual cyclobenzaprine at bedtime) completed four large Phase 3 placebo-controlled RCTs in fibromyalgia and received US FDA approval under the brand name TONMYA. This body of evidence makes the TxGNN prediction for MPS not just algorithmically plausible, but clinically well-grounded.
+Note that a graph score is not clinical evidence. Most of the supporting trials come from a low-dose sublingual product (TNX-102 SL) developed for fibromyalgia. Fibromyalgia is related to myofascial pain but is not the same condition. That product has reportedly been approved by the US FDA for fibromyalgia under the brand name TONMYA, according to a trial record.
 
 ---
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT02436096](https://clinicaltrials.gov/study/NCT02436096) | Phase 3 | Completed | 519 | Pivotal RCT: TNX-102 SL 2.8 mg nightly vs. placebo over 12 weeks in fibromyalgia; established dose selection and efficacy baseline for nightly low-dose cyclobenzaprine |
-| [NCT04172831](https://clinicaltrials.gov/study/NCT04172831) | Phase 3 | Completed | 503 | Replication RCT: TNX-102 SL 5.6 mg nightly vs. placebo over 14 weeks; independently confirmed efficacy across pain, sleep, and overall FM symptomatology |
-| [NCT04508621](https://clinicaltrials.gov/study/NCT04508621) | Phase 3 | Completed | 514 | Third pivotal RCT: further reinforced reproducibility of treatment effect and expanded the safety database for daily bedtime use |
-| [NCT05273749](https://clinicaltrials.gov/study/NCT05273749) | Phase 3 | Completed | 457 | Fourth pivotal RCT: most recently completed large-scale placebo-controlled study; provided regulatory-grade evidence contributing to FDA approval of TONMYA |
-| [NCT01903265](https://clinicaltrials.gov/study/NCT01903265) | Phase 2b/3 | Completed | 205 | Key proof-of-concept RCT (BESTFIT study): TNX-102 SL 2.8 mg nightly over 12 weeks; provided the efficacy signal that justified the subsequent Phase 3 program |
-| [NCT02589275](https://clinicaltrials.gov/study/NCT02589275) | Phase 3 (OLE) | Completed | 375 | 3-month open-label extension of Phase 3 double-blind studies; evaluated long-term tolerability and sustained efficacy of daily bedtime dosing |
-| [NCT00635037](https://clinicaltrials.gov/study/NCT00635037) | N/A | Completed | 30 | **Direct MPS trial**: randomized comparison of acupuncture vs. trigger point injection combined with cyclobenzaprine + dipyrone for myofascial pain; conducted at a dedicated Pain Clinic |
-| [NCT04704297](https://clinicaltrials.gov/study/NCT04704297) | Phase 4 | Recruiting | 180 | **Direct MPS trial**: T-PIMPS RCT evaluating trigger point injection for MPS of the low back; provides contemporary context for MPS treatment landscape |
-| [NCT01041495](https://clinicaltrials.gov/study/NCT01041495) | Phase 4 | Terminated | 37 | Cyclobenzaprine ER (Amrix) augmentation for fibromyalgia fatigue and muscle pain; terminated early — insufficient statistical power |
-| [NCT02829814](https://clinicaltrials.gov/study/NCT02829814) | Phase 3 | Terminated | 51 | Phase 3 RCT of TNX-102 SL for fibromyalgia; terminated early due to low enrollment — no efficacy conclusions possible |
+|---------|------|------|------|---------|
+| [NCT05273749](https://clinicaltrials.gov/study/NCT05273749) | Phase 3 | Completed | 457 | 14-week placebo-controlled RCT of TNX-102 SL 5.6 mg at bedtime in fibromyalgia |
+| [NCT04172831](https://clinicaltrials.gov/study/NCT04172831) | Phase 3 | Completed | 503 | Same design and program, fibromyalgia |
+| [NCT04508621](https://clinicaltrials.gov/study/NCT04508621) | Phase 3 | Completed | 514 | Same design and program, fibromyalgia |
+| [NCT02436096](https://clinicaltrials.gov/study/NCT02436096) | Phase 3 | Completed | 519 | 12-week placebo-controlled RCT of TNX-102 SL 2.8 mg in fibromyalgia |
+| [NCT01903265](https://clinicaltrials.gov/study/NCT01903265) | Phase 2/3 | Completed | 205 | Phase 2b placebo-controlled RCT, 12 weeks, TNX-102 SL 2.8 mg in fibromyalgia |
+| [NCT02589275](https://clinicaltrials.gov/study/NCT02589275) | Phase 3 | Completed | 375 | 3-month open-label extension for long-term safety and efficacy in fibromyalgia (uncontrolled) |
+| [NCT00635037](https://clinicaltrials.gov/study/NCT00635037) | N/A | Completed | 30 | Acupuncture vs trigger point injection combined with dipyrone and cyclobenzaprine in myofascial pain. Small, and cyclobenzaprine is part of a combination. |
+| [NCT01041495](https://clinicaltrials.gov/study/NCT01041495) | Phase 4 | Terminated | 37 | Cyclobenzaprine ER augmentation for fibromyalgia fatigue and muscle pain. Underpowered. |
+| [NCT04704297](https://clinicaltrials.gov/study/NCT04704297) | Phase 4 | Recruiting | 180 | Trigger point injection for low-back myofascial pain. Cyclobenzaprine is not the studied drug. |
+| [NCT01921296](https://clinicaltrials.gov/study/NCT01921296) | Phase 2 | Terminated | 2 | Cyclobenzaprine for sleep disturbance, fatigue and musculoskeletal symptoms in breast cancer patients on aromatase inhibitors. Too small to inform efficacy. |
+
+The registered conditions of the TNX-102 SL trials should be verified. The pack flags that they appear to target fibromyalgia rather than myofascial pain.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available for myofascial pain syndrome specifically.
+Currently no related literature available for myofascial pain syndrome.
+
+---
+
+## US Market Information
+
+The license records contain no approved-indication text. Five of the 20 listings are shown.
+
+| Authorization Number | Product Name | Dosage Form |
+|---------|------|------|
+| ANDA091281 | Cyclobenzaprine Hydrochloride (Asclemed USA, Inc.) | Capsule, extended release |
+| ANDA078643 | Cyclobenzaprine Hydrochloride (Rising Pharma Holdings, Inc.) | Tablet, film coated |
+| ANDA077797 | Cyclobenzaprine Hydrochloride (Bryant Ranch Prepack) | Tablet, film coated |
+| ANDA213324 | Cyclobenzaprine Hydrochloride (Asclemed USA, Inc.) | Tablet, film coated |
+| ANDA077563 | Cyclobenzaprine Hydrochloride (Doc Rx) | Tablet, film coated |
 
 ---
 
@@ -94,17 +110,21 @@ Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Four independently completed Phase 3 placebo-controlled RCTs of cyclobenzaprine (as TNX-102 SL / TONMYA) in fibromyalgia — a disorder with well-established pathophysiological overlap with MPS — have demonstrated reproducible efficacy and safety, culminating in US FDA approval. One completed randomized trial directly investigated cyclobenzaprine in MPS patients. The mechanistic link between cyclobenzaprine's central norepinephrine modulation and MPS pathology (muscle hypertonicity + central sensitization) is direct, not inferential, making this a well-supported repurposing candidate.
+The strongest trials (four completed Phase 3 RCTs and one Phase 2/3 RCT) are in fibromyalgia, not myofascial pain. The only trial that directly involves myofascial pain is small (n=30) and tests cyclobenzaprine only as part of a combination. No literature supports this indication, and the package insert safety data is missing, so safety screening cannot proceed.
 
 **To proceed, the following is needed:**
-- Full mechanism of action data (MOA) from DrugBank API — currently a High-severity data gap
-- Taiwan FDA (TFDA) package insert to obtain key warnings, contraindications, and drug-drug interactions — currently a Blocking data gap for safety screening
-- A dedicated Phase 2/3 clinical trial specifically enrolling MPS patients (distinguishing MPS from fibromyalgia as a separate indication for regulatory purposes)
-- Clarification of optimal dose and formulation for MPS: sublingual low-dose (as in TONMYA) vs. standard oral immediate-release; the bedtime strategy that succeeded in fibromyalgia may not directly translate
-- Safety monitoring plan addressing known tricyclic-class risks (anticholinergic effects, sedation, QTc prolongation potential) in the MPS target population, particularly elderly patients
+- Package insert warnings and contraindications from the FDA label
+- Formal mechanism-of-action data from DrugBank
+- Verification of the registered conditions for the TNX-102 SL trials
+- A myofascial-pain-specific RCT, or a literature review of cyclobenzaprine in myofascial pain
+- A route and formulation compatibility assessment (oral vs sublingual)
+
+**Other predictions:** Neuralgia (score 99.08%) has only indirect evidence from multi-ingredient topical products and reviews, so it stays on Hold at evidence level L4. Papillary conjunctivitis (score 99.08%) has no trials or literature at all (L5). Its anticholinergic effects may even worsen ocular symptoms, so it is also on Hold.
+
+*This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

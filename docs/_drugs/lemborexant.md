@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Lemborexant
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 843
-evidence_level: L5
+evidence_level: L1
 indication_count: 1
 ---
 
 # Lemborexant
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **1** 
+Evidence Level: **L1** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,89 +29,85 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Lemborexant: From an Unrecorded Original Indication to Sleep Disorder, Initiating and Maintaining Sleep
+# Lemborexant: From Insomnia to Sleep Disorder, Initiating and Maintaining Sleep
 
 ## One-Sentence Summary
 
-> Lemborexant (DrugBank DB11951) has no recorded original approved indication or marketing license in this dataset, and its mechanism of action is not formally documented here.
-> The TxGNN model's top prediction is **Sleep Disorder, Initiating and Maintaining Sleep** (insomnia),
-> a direction already backed by **1 registered clinical trial** and **20 publications**, several of which are completed Phase 3 RCTs.
-
----
+Lemborexant (DAYVIGO) is a dual orexin receptor antagonist that was first approved in the US in December 2019 for adult insomnia.
+The TxGNN model predicts it is effective for **sleep disorder, initiating and maintaining sleep**, which is essentially the same condition as its approved use.
+The prediction is supported by **1 registered clinical trial** and **20 publications**, including several Phase 3 RCTs and network meta-analyses.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no license records or original indication data in this dataset |
-| Predicted New Indication | Sleep Disorder, Initiating and Maintaining Sleep |
+| Original Indication | Insomnia in adults (from published literature; the license records carry no indication text) |
+| Predicted New Indication | Sleep disorder, initiating and maintaining sleep |
 | TxGNN Prediction Score | 99.75% |
-| Evidence Level | L1 (≥2 completed Phase 3 RCTs identified in literature) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
-| Recommended Decision | Hold |
-
----
+| Evidence Level | L1 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 license records (both NDA212028, so 1 unique NDA) |
+| Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 
-Currently, a formal mechanism-of-action record is not available for this candidate in the dataset. However, the collected literature evidence consistently and independently describes lemborexant as a **dual orexin receptor antagonist (DORA)**, acting on OX1R and OX2R to suppress wake-promoting neurotransmission and facilitate sleep onset and maintenance (e.g., PMID 35972717 "Orexin Receptor Antagonists and Insomnia"; PMID 37086045 "The orexin story and orexin receptor antagonists for the treatment of insomnia"; PMID 32096020 "Lemborexant: First Approval").
+Lemborexant blocks both orexin receptors (OX1R and OX2R), with higher affinity for OX2R. Orexin is a key signal that promotes wakefulness and arousal. Blocking it lowers wake drive, which helps people fall asleep and stay asleep.
 
-Because this mechanism is inherently sleep-promoting, the TxGNN-predicted indication — Sleep Disorder, Initiating and Maintaining Sleep (i.e., insomnia) — is directly consistent with the pharmacology reported in the literature evidence, rather than representing a distant or unexpected repurposing target.
+The predicted indication, difficulty initiating and maintaining sleep, is the same problem the drug was approved to treat. The high TxGNN score most likely reflects this existing approved use rather than a genuinely new repurposing signal. This should be confirmed against the US label. The Evidence Pack has no structured mechanism-of-action field, so the mechanism above comes from the published literature, not from DrugBank.
 
-It is worth noting that this appears less like a novel "repurposing" signal and more like the model correctly recovering the drug's core, well-established pharmacological use from the knowledge graph — multiple completed Phase 3 RCTs (e.g., the SUNRISE-2 trial) already directly evaluate lemborexant for this exact indication.
-
----
+Related work points to possible extensions, not new indications. These include insomnia with mild obstructive sleep apnea, insomnia with psychiatric comorbidity, and use in older adults.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT06928766](https://clinicaltrials.gov/study/NCT06928766) | Phase 2 | Not Yet Recruiting | 15 | Double-blind, placebo-controlled RCT of eszopiclone vs. lemborexant in obstructive sleep apnoea (OSA) patients with a low arousal threshold who have difficulty maintaining or falling asleep (COMISA population) |
-
----
+| [NCT06928766](https://clinicaltrials.gov/study/NCT06928766) | Phase 2 | Not yet recruiting | 15 | Double-blind, placebo-controlled trial of eszopiclone and lemborexant in obstructive sleep apnoea with a low arousal threshold and difficulty falling or staying asleep. No results yet. It concerns a comorbid subgroup and adds no direct evidence for primary insomnia. |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [31880796](https://pubmed.ncbi.nlm.nih.gov/31880796/) | 2019 | RCT (Phase 3) | JAMA Network Open | Lemborexant vs. placebo and zolpidem ER in older adults with insomnia disorder |
-| [33636648](https://pubmed.ncbi.nlm.nih.gov/33636648/) | 2021 | RCT (Phase 3, SUNRISE-2) | Sleep Medicine | Long-term (12-month) effectiveness and safety of lemborexant in adults with insomnia disorder |
-| [32585700](https://pubmed.ncbi.nlm.nih.gov/32585700/) | 2020 | RCT (Phase 3, SUNRISE-2) | Sleep | Long-term efficacy and tolerability of lemborexant vs. placebo in insomnia disorder |
-| [39879708](https://pubmed.ncbi.nlm.nih.gov/39879708/) | 2025 | Post-hoc RCT analysis | Sleep Medicine | Effect of lemborexant on sleep architecture in patients with insomnia and mild OSA (COMISA) |
-| [39120786](https://pubmed.ncbi.nlm.nih.gov/39120786/) | 2024 | Pooled trial analysis | Drugs & Aging | Efficacy and safety of lemborexant in older adults across three clinical trials |
-| [34121443](https://pubmed.ncbi.nlm.nih.gov/34121443/) | 2021 | Network meta-analysis | J Managed Care Spec Pharm | Comparative efficacy of lemborexant vs. other insomnia treatments |
-| [36701954](https://pubmed.ncbi.nlm.nih.gov/36701954/) | 2023 | Systematic review / NMA | Sleep Medicine Reviews | Efficacy and tolerability ranking of pharmacological insomnia treatments (20 drugs) |
-| [35843245](https://pubmed.ncbi.nlm.nih.gov/35843245/) | 2022 | Systematic review / NMA | Lancet | Comparative effectiveness of pharmacological interventions for insomnia disorder |
-| [32096020](https://pubmed.ncbi.nlm.nih.gov/32096020/) | 2020 | Review | Drugs | Lemborexant (DAYVIGO) first approval profile — mechanism, development, indication |
-| [35972717](https://pubmed.ncbi.nlm.nih.gov/35972717/) | 2022 | Review | Current Psychiatry Reports | Review of orexin receptor antagonists, including lemborexant, for insomnia |
-
----
+| [31880796](https://pubmed.ncbi.nlm.nih.gov/31880796/) | 2019 | RCT (Phase 3) | JAMA Netw Open | Lemborexant vs placebo and zolpidem ER in older adults with insomnia disorder |
+| [32585700](https://pubmed.ncbi.nlm.nih.gov/32585700/) | 2020 | RCT (Phase 3, SUNRISE 2) | Sleep | Long-term efficacy and safety of lemborexant vs placebo in adults with insomnia disorder |
+| [33636648](https://pubmed.ncbi.nlm.nih.gov/33636648/) | 2021 | RCT (long-term extension) | Sleep Med | Effectiveness and safety of up to 12 months of continuous lemborexant treatment (SUNRISE-2) |
+| [35843245](https://pubmed.ncbi.nlm.nih.gov/35843245/) | 2022 | Systematic review / network meta-analysis | Lancet | Comparative effects of drug treatments for acute and long-term insomnia in adults |
+| [40555730](https://pubmed.ncbi.nlm.nih.gov/40555730/) | 2025 | Systematic review / network meta-analysis | Transl Psychiatry | Risk-benefit comparison of the three DORAs (daridorexant, lemborexant, suvorexant) |
+| [36701954](https://pubmed.ncbi.nlm.nih.gov/36701954/) | 2023 | Systematic review / network meta-analysis | Sleep Med Rev | Efficacy and tolerability ranking of 20 insomnia drugs in adults |
+| [32531478](https://pubmed.ncbi.nlm.nih.gov/32531478/) | 2020 | Network meta-analysis | J Psychiatr Res | Lemborexant vs suvorexant on efficacy and safety outcomes, based on 4 double-blind RCTs |
+| [39120786](https://pubmed.ncbi.nlm.nih.gov/39120786/) | 2024 | Pooled analysis of 3 trials | Drugs Aging | Efficacy and safety of lemborexant in older adults |
+| [39879708](https://pubmed.ncbi.nlm.nih.gov/39879708/) | 2025 | Post-hoc analysis | Sleep Med | Effect of lemborexant on sleep architecture in insomnia with mild obstructive sleep apnea |
+| [32096020](https://pubmed.ncbi.nlm.nih.gov/32096020/) | 2020 | Drug profile | Drugs | "First Approval" article: dual OXR antagonist, approved in the USA in December 2019 for adult insomnia |
 
 ## US Market Information
 
-Currently no marketed authorization records are available — 0 NDAs on file and market status is recorded as Not Marketed in this dataset.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA212028 | DAYVIGO (Eisai Inc.) | Tablet, film coated (oral) | Adult insomnia with sleep-onset and/or sleep-maintenance difficulty (from literature; label text not in the pack) |
 
----
+The two license records are duplicates of the same NDA, so only one row is shown.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No key warnings, contraindications, or drug-drug interaction data are currently available in this dataset (DDI query returned no results). This also constitutes a **Blocking**-severity data gap (TFDA label warnings/contraindications), which prevents a formal S1 safety pre-assessment.
-
----
+Please refer to the package insert for safety information. The pack has no label warnings or contraindications, and the drug-interaction query returned no results. That should be read as missing data, not as evidence of no interactions.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-Literature evidence strongly and consistently supports lemborexant's efficacy for this exact indication (multiple completed Phase 3 RCTs), but a Blocking data gap on label warnings/contraindications means initial safety screening (S1) cannot be completed, and the drug currently has no marketing license on record.
+Multiple Phase 3 RCTs and several network meta-analyses support lemborexant for insomnia, and the drug is already marketed in the US. The prediction largely restates the approved use, so the main task is confirming the label and setting safety guardrails.
 
 **To proceed, the following is needed:**
-- TFDA/FDA package insert (warnings, precautions, contraindications) — remediation source already identified (TFDA official site, PDF parsing)
-- Confirmed drug-drug interaction (DDI) data
-- Formal mechanism-of-action record via DrugBank API
-- Clarification of current marketing/licensing status in the target jurisdiction
+- The US package insert (warnings, contraindications, approved indication text), which is currently a blocking data gap
+- Structured mechanism-of-action data from DrugBank
+- A complete drug-interaction check, especially for CNS depressants and CYP3A inhibitors or inducers
+- Safety guardrails to verify against the label:
+  - next-day somnolence and impaired driving
+  - complex sleep behaviors
+  - caution in older adults, narcolepsy, and respiratory impairment
+- Follow-up on NCT06928766 for any extension to insomnia with obstructive sleep apnea
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

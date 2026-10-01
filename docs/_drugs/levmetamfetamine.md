@@ -29,72 +29,70 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Levmetamfetamine: From OTC Nasal Decongestant Use to Nasal Cavity Disease
+# Levmetamfetamine: From a Marketed Vapor Inhaler to Nasal Cavity Disease
 
 ## One-Sentence Summary
 
-> Levmetamfetamine (DB09571) is the levo-isomer of methamphetamine, best known outside formal regulatory filings as the active ingredient in OTC topical nasal inhalers (e.g., Vicks Vapor Inhaler) for nasal decongestion via sympathomimetic vasoconstriction.
-> The TxGNN model predicts it may be relevant to **Nasal Cavity Disease** (score 99.88%) and, secondarily, **Acute Laryngopharyngitis** (score 99.85%),
-> but **no clinical trials and no literature** currently support either direction, and the drug holds no marketing license in this dataset.
-
----
+Levmetamfetamine is marketed in the US as an inhalant in "Vapor Inhaler" products, but the record lists no approved indication text.
+The TxGNN model predicts it may be effective for **nasal cavity disease**, but there are currently **0 clinical trials** and **0 publications** behind this prediction, so it is a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not formally documented in this dataset (no marketed license on file); pharmacologically known as an OTC topical nasal decongestant |
-| Predicted New Indication | Nasal Cavity Disease |
+| Predicted New Indication | Nasal cavity disease |
 | TxGNN Prediction Score | 99.88% |
 | Evidence Level | L5 |
-| Market Status | Not marketed (Not Marketed) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 7 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action (MOA) data is not available from this evidence pack. Based on general pharmacological knowledge, Levmetamfetamine is the levo-isomer of methamphetamine, and its activity is dominated by sympathomimetic (indirect/direct α-adrenergic agonist) effects. This pharmacology underlies its established real-world use as an OTC topical nasal decongestant, where it constricts nasal mucosal blood vessels to relieve congestion.
+Currently, detailed mechanism of action data is not available, and the record lists no original indication for levmetamfetamine. No mechanism can be verified from the supplied data.
 
-Against this background, the TxGNN prediction for **nasal cavity disease** (score 0.9988, rank 3863) is highly plausible on mechanistic grounds — it likely reflects the knowledge graph capturing an already-existing drug-symptom association (vasoconstrictive decongestant activity mapped to nasal pathology) rather than a genuinely novel therapeutic hypothesis. The secondary prediction, **acute laryngopharyngitis** (score 0.9985, rank 4617), is mechanistically weaker: this condition is primarily an inflammatory/infectious upper-airway process, and its link to Levmetamfetamine's vasoconstrictive action is less direct — the association may arise from anatomical proximity (nasal–pharyngeal) or indirect co-occurrence patterns in the graph rather than specific pharmacology.
+Background knowledge, which the supplied data does not support, suggests levmetamfetamine is a sympathomimetic (adrenergic) agent used in over-the-counter inhaled nasal decongestants. If so, the very high score (99.88%) may reflect an existing labeled use rather than a genuine repurposing signal. This should be checked against the drug label and DrugBank before any further use.
 
-Because `original_indications` and `original_moa` are marked as data gaps in this dataset, and no clinical trial or literature evidence was retrieved for either predicted indication, these mechanistic linkages remain **hypothesis-level only** and cannot yet be upgraded to a higher evidence tier.
-
----
+The second-ranked prediction, **acute laryngopharyngitis** (score 99.85%), has no supporting trials or publications either. A vasoconstrictive or decongestant effect on upper-airway mucosa is plausible in principle but speculative. It is most likely a network-proximity effect from the nasal indication, and it does not establish efficacy for laryngopharyngeal inflammation or infection.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## US Market Information
+
+The record shows 7 authorizations in total. The 5 below are the ones listed. All share license number M012, and none has an approved indication text.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| M012 | Vapor Inhaler | Inhalant | Topco Associates LLC |
+| M012 | Vapor Inhaler | Inhalant | Dolgencorp Inc. |
+| M012 | Vapor Inhaler | Inhalant | Valu Merchandisers Company |
+| M012 | Vapor Inhaler | Inhalant | Supervalu Inc. |
+| M012 | Vapor Inhaler | Inhalant | Walgreens |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-*(Note: A blocking data gap exists — TFDA label warnings/contraindications (DG001) were not retrieved, which prevents this candidate from entering the S1 safety pre-screening stage. A DDI query also returned no results.)*
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-- Both predicted indications are supported only by TxGNN model scores (Evidence Level L5) with zero corroborating clinical trials or literature, and the drug has no marketing license or safety labeling on file, so no S1 safety pre-screening can be completed.
+The evidence is a model prediction only (L5), with no clinical trials or literature. The high score for nasal cavity disease may simply reflect an existing labeled use rather than a new one, and this cannot be confirmed from the current data.
 
 **To proceed, the following is needed:**
-- TFDA/FDA package insert warnings and contraindications (currently a **Blocking** data gap, DG001)
-- Confirmed mechanism of action from DrugBank (currently a **High**-severity data gap, DG002)
-- Drug interaction (DDI) data, currently unretrieved
-- At minimum, preclinical or mechanistic literature specifically linking Levmetamfetamine to nasal cavity disease or acute laryngopharyngitis before advancing beyond model-prediction-only status
+- Check the current US label and DrugBank record to confirm the approved indication and whether nasal cavity disease is already a labeled use
+- Mechanism of action data (MOA)
+- Package insert warnings and contraindications for safety screening
+- Any clinical or preclinical evidence for acute laryngopharyngitis before pursuing it as a separate indication
+
+*These results are for research reference only and do not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

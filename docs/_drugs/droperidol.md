@@ -29,62 +29,85 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Droperidol: From Unrecorded Original Indication to Tourette Syndrome
+# Droperidol: From Its Marketed Injectable Use to Tourette Syndrome
 
 ## One-Sentence Summary
 
-Droperidol's original approved indication is not recorded in this evidence pack (the drug is currently not marketed, with zero active licenses on file). The TxGNN model predicts it may be effective for **Tourette Syndrome**, but this direction is currently supported by only **0 clinical trials** and **1 publication** — and that single publication studies haloperidol, not droperidol directly.
+Droperidol is a butyrophenone neuroleptic, marketed in the US as an injectable and used in several countries for sedation in acute agitation and psychosis.
+The TxGNN model predicts it may be effective for **Tourette syndrome**, but there are currently **0 clinical trials** and only **1 publication**, and that paper concerns haloperidol rather than droperidol.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no license records in evidence pack (drug not marketed) |
-| Predicted New Indication | Tourette Syndrome |
+| Predicted New Indication | Tourette syndrome |
 | TxGNN Prediction Score | 99.89% |
 | Evidence Level | L4 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
-| Recommended Decision | Research Question (early-stage screening, decision stage S1) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 3 license entries (all ANDAs; two entries share ANDA208197) |
+| Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for droperidol is not available in this evidence pack (flagged as a High-severity data gap, DG002). Based on the repurposing rationale supplied alongside the prediction, droperidol is a butyrophenone-class D2 dopamine receptor antagonist — the same pharmacological class as haloperidol, which is a traditional treatment option for Tourette syndrome. D2 antagonism theoretically suppresses tics, which is the mechanistic basis offered for this prediction (a class-effect argument rather than direct evidence).
+Currently, detailed mechanism of action data for droperidol is not available in the record. Droperidol is a butyrophenone and is generally understood to act as a dopamine D2 receptor antagonist. Haloperidol and other antipsychotics are thought to suppress tics through D2 blockade, so a similar effect is plausible for droperidol.
 
-The one supporting publication in this evidence pack (PMID 791589, 1976) studies haloperidol, not droperidol, so it provides only indirect, low-tier support (tier 3, case series). No droperidol-specific clinical trial or literature evidence for Tourette syndrome currently exists in this pack. In addition, droperidol carries a known QT-prolongation risk that must be resolved in an initial safety assessment (S1) before this direction can advance — this is why the internal recommendation is "Research Question" rather than a more advanced stage.
+This is a class-level inference, not droperidol-specific evidence. The only cited paper is a 1976 clinical report on haloperidol in severe behavior disorders, which supports the drug class only indirectly.
+
+The record also lists no original approved indication text for droperidol. It is therefore not possible to describe how Tourette syndrome relates to a labeled use. Droperidol's better-documented uses in this record are acute agitation and psychosis, and migraine.
+
+---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
+
+---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [791589](https://pubmed.ncbi.nlm.nih.gov/791589/) | 1976 | Case series (haloperidol, indirect) | Current psychiatric therapies | Discusses haloperidol (same drug class, not droperidol) in severe behavior disorders; no abstract available and relevance to droperidol/Tourette syndrome is not yet confirmed |
+| [791589](https://pubmed.ncbi.nlm.nih.gov/791589/) | 1976 | Clinical report (indirect) | Current psychiatric therapies | Haloperidol in severe behavior disorders. It concerns haloperidol, not droperidol, and no abstract is available. |
+
+---
 
 ## US Market Information
 
-No approved licenses on file — droperidol is currently not marketed (0 total licenses recorded).
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|------|
+| ANDA208197 | DROPERIDOL | Injection, solution | Hikma Pharmaceuticals USA Inc. |
+| ANDA072123 | Droperidol | Injection, solution | American Regent, Inc. |
+
+The record lists ANDA208197 twice, and no approved indication text is provided for any entry.
+
+---
 
 ## Safety Considerations
 
-Formal safety labeling data (key warnings, contraindications, drug interactions) is not available for droperidol in this evidence pack — the TFDA warning/contraindication label lookup is an unresolved Blocking data gap (DG001) that must be closed before any formal safety review.
+- **Key Warnings**: The evidence pack's notes on other candidate indications mention a boxed warning for QT prolongation, with ECG monitoring required. The package insert warning text itself is not in the record.
+- **Drug Interactions**: The interaction query returned no records.
 
-Separately, the repurposing rationale for this and other candidate indications repeatedly flags droperidol's known **QT-prolongation / cardiac arrhythmia risk** as a class characteristic requiring ECG monitoring if this direction is pursued clinically.
+Please refer to the package insert for full safety information.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only literature support is an indirect haloperidol study rather than droperidol-specific evidence, and the drug is unmarketed with no safety labeling on file — this is flagged internally as a "Research Question" at the earliest decision stage (S1), not yet ready for a Go/Guardrails decision.
+The prediction score is very high, but the only supporting item is an indirect 1976 haloperidol report, with no droperidol-specific trials or literature for Tourette syndrome. The QT-prolongation warning also weighs against using an injectable in a chronic condition.
 
 **To proceed, the following is needed:**
-- TFDA (or equivalent) package insert warnings/contraindications (Blocking data gap DG001)
-- Confirmed mechanism-of-action documentation for droperidol specifically (High-severity data gap DG002)
-- Droperidol-specific (not haloperidol) clinical or preclinical evidence in Tourette syndrome
-- QT-interval/cardiac safety assessment before any clinical exploration
+- Droperidol-specific clinical or preclinical evidence in Tourette syndrome
+- Mechanism of action data (MOA) and the package insert warnings and contraindications
+- An assessment of route suitability, since only injectable forms are marketed and a chronic condition would need long-term dosing
+
+**Note on other candidates:** In this evidence pack, **headache disorder** (migraine; L2, Proceed with Guardrails) and **manic bipolar affective disorder** (L2, Research Question) have much stronger support than Tourette syndrome. Evaluating them separately is a better use of effort.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

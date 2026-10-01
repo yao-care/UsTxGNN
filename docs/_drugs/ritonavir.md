@@ -33,69 +33,74 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 ## One-Sentence Summary
 
-Ritonavir is an HIV-1 protease inhibitor, originally developed and widely used (often as a pharmacokinetic booster) in combination antiretroviral therapy for human HIV-1 infection. The TxGNN model predicts it may be effective for **Feline Acquired Immunodeficiency Syndrome (FIV-associated feline AIDS)**, a veterinary retroviral disease, but this prediction is currently supported by only **1 clinical trial** (which does not actually study the predicted disease) and **no dedicated literature**.
-
----
+Ritonavir is an HIV-1 protease inhibitor that is also widely used as a pharmacokinetic booster (a strong CYP3A4 inhibitor) in HIV regimens.
+The TxGNN model predicts it may be effective for **feline acquired immunodeficiency syndrome**, but there are **0 feline-specific studies** and **0 publications** behind this prediction. The only registered trial is a human HIV-1 study, so the entry looks like a species-variant echo of the existing HIV indication rather than true repurposing.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | HIV-1 infection (not explicitly recorded in this evidence pack's regulatory data; inferred from known pharmacology and supporting trial context, e.g. "naïve HIV-1 infected subjects", "Lopinavir/Ritonavir") |
-| Predicted New Indication | Feline Acquired Immunodeficiency Syndrome |
+| Original Indication | HIV-1 infection (inferred; the license indication text in the record is empty) |
+| Predicted New Indication | Feline acquired immunodeficiency syndrome |
 | TxGNN Prediction Score | 99.92% |
-| Evidence Level | L5 (model prediction only — the one associated trial studies human HIV-1 therapy, not feline AIDS) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only for the feline indication; the pack labels it L4) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (the listed authorizations are ANDA generics) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in this evidence pack (DG002, DrugBank MOA lookup pending). Based on known pharmacology, Ritonavir is an HIV-1 aspartic protease inhibitor, historically used both as a direct antiretroviral agent and — more commonly today — as a low-dose CYP3A4 inhibitor that "boosts" plasma levels of other protease inhibitors (e.g., darunavir, lopinavir) in combination antiretroviral therapy for HIV-1 infection.
+Currently, detailed mechanism of action data is not available in the record. From known pharmacology, ritonavir inhibits HIV-1 protease and strongly inhibits CYP3A4, which is why it is used to boost other protease inhibitors.
 
-The predicted new indication, feline AIDS, is caused by Feline Immunodeficiency Virus (FIV), a lentivirus that is taxonomically related to HIV and also encodes a retroviral aspartic protease essential for viral maturation. This shared protease-dependent replication strategy is the most plausible basis for TxGNN linking ritonavir to FIV disease in its knowledge graph — both diseases sit near "retroviral infection / protease inhibitor" concept clusters. Supporting this cross-species analogy (though not the primary predicted indication in this pack), literature on the related "simian immunodeficiency virus infection" prediction shows ritonavir has measurable in vitro inhibitory activity against SIV protease (PMID 12709355) and has been used in combination regimens in SIV-infected macaque models (PMID 12951220).
+The link to feline immunodeficiency virus (FIV) rests on lentiviral similarity: FIV and HIV are both lentiviruses. The high TxGNN score most likely reflects proximity to HIV-related nodes in the knowledge graph. FIV protease differs from HIV-1 protease in substrate and inhibitor specificity, so activity against FIV cannot be assumed. Ritonavir is already a marketed HIV-1 drug, so this prediction is probably a species-variant artifact and not a new therapeutic direction.
 
-However, this mechanistic link should be treated cautiously: HIV-1 protease inhibitors are known to differ substantially in efficacy against non-HIV lentivirus proteases due to structural divergence in the protease active site, and species-specific pharmacokinetics in cats have not been characterized here. The predicted indication is therefore biologically plausible but clinically unverified, and represents a veterinary rather than human repurposing opportunity — a distinction that should be explicitly clarified before any further evaluation.
-
----
+The other predictions in the pack show the same pattern.
+- **Simian immunodeficiency virus (SIV) infection** has some literature: in vitro susceptibility data (SIVmac239 inhibited by ritonavir at about 13 nM) and macaque combination-ART studies. SIV is an animal model of HIV, so this supports preclinical model use only, not a new human indication.
+- **A rare neurodevelopmental disorder** has a similar score (0.999) but no trials, no literature and no plausible mechanistic link. It looks like a graph-propagation artifact.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT02770508](https://clinicaltrials.gov/study/NCT02770508) | Phase 4 | Completed | 145 | Compared ritonavir-boosted darunavir + lamivudine vs. boosted darunavir + emtricitabine/tenofovir or lamivudine/tenofovir in ARV-naïve **human** HIV-1 patients. **Note: this trial studies ritonavir's established role in human HIV-1 therapy and does not investigate feline AIDS; it is indirect supporting evidence only.** |
+| [NCT02770508](https://clinicaltrials.gov/study/NCT02770508) | Phase 4 | Completed | 145 | Ritonavir-boosted darunavir + lamivudine vs boosted darunavir + tenofovir/emtricitabine or tenofovir/lamivudine in treatment-naïve HIV-1 patients. It studies human HIV-1, with ritonavir only as a booster. It gives no direct evidence for FIV or feline AIDS. |
 
----
+The Phase 4 label should not be read as L1 evidence for the predicted indication.
 
 ## Literature Evidence
 
-Currently no related literature available for the predicted indication (Feline Acquired Immunodeficiency Syndrome).
+Currently no related literature available
 
----
+## US Market Information
+
+The approved indication text is empty in all listed records.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA206614 | Ritonavir | Tablet, film coated | NuCare Pharmaceuticals, Inc. |
+| ANDA202573 | Ritonavir | Tablet | Cipla USA Inc. |
+| ANDA206614 | Ritonavir | Tablet, film coated | American Health Packaging |
+| ANDA204587 | Ritonavir | Tablet | Camber Pharmaceuticals, Inc. |
+| ANDA208890 | Ritonavir | Tablet | Amneal Pharmaceuticals LLC |
+
+The record shows 20 authorizations in total. Dosage forms include oral tablets (film-coated and plain), powder and solution.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-> **Note:** A Blocking data gap (DG001) exists — TFDA label warnings and contraindications for ritonavir have not yet been retrieved. This must be resolved before any S1 safety pre-assessment can proceed. Drug interaction data (DDI query) also returned no results.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked predicted indication is a veterinary disease (feline AIDS) rather than a human indication, and its only associated clinical trial actually studies ritonavir's established human HIV-1 use rather than the predicted disease itself — meaning there is no direct clinical or literature evidence for this specific repurposing hypothesis. Combined with a Blocking safety data gap (missing TFDA warnings/contraindications), the evidence base is currently insufficient to advance.
+The feline AIDS prediction has no feline-specific trials or literature. Its high score most likely reflects the existing HIV-1 indication in the knowledge graph. FIV protease differs from HIV-1 protease, so efficacy cannot be inferred.
 
 **To proceed, the following is needed:**
-- TFDA label warnings and contraindications (DG001 — Blocking; required before any safety pre-assessment)
-- Confirmed mechanism of action via DrugBank API (DG002)
-- Direct in vitro or in vivo evidence of ritonavir activity against FIV protease specifically (not HIV/SIV analogy alone)
-- Clarification of intended use case — human vs. veterinary application — since feline AIDS is not a human indication and may fall outside this program's scope
-- If pursuing the human-relevant analog (SIV/HIV-related indications from rank 2), reclassify and re-evaluate using that evidence set instead
+- FIV protease inhibition data for ritonavir (in vitro enzyme or cell-based susceptibility)
+- Any veterinary or feline pharmacology and safety data; this is a species-specific question, and human data do not transfer directly
+- The ritonavir mechanism of action from DrugBank and the package insert warnings and contraindications (both are still missing from the record)
+- Confirmation of the original indication, since the license indication text is empty
+- Treatment of the SIV entry as a preclinical research question, not a clinical indication, unless macaque studies confirm ritonavir was part of the tested regimens
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

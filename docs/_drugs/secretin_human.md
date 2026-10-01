@@ -29,76 +29,70 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Secretin Human: From [Indication Not Specified] to Open-Angle Glaucoma
+# Secretin Human: From Pancreatic Secretion Stimulation to Open-Angle Glaucoma
 
 ## One-Sentence Summary
 
-> Original indication data for Secretin Human is not available in this evidence pack, and its mechanism of action is also a data gap.
-> The TxGNN model predicts a possible association with **Open-Angle Glaucoma**,
-> but this is a **pure model-score prediction (L5)** — there are currently **no clinical trials and no literature** directly supporting this candidate, and the drug's own repurposing-rationale note flags it as a likely knowledge-graph false positive.
-
----
+Human secretin is a gastrointestinal peptide hormone that stimulates pancreatic bicarbonate secretion, and it is marketed in the US as ChiRhoStim.
+The TxGNN model predicts it may be effective for **open-angle glaucoma**, but **0 clinical trials** and **0 publications** currently support this direction.
+This is a model-only prediction with no mechanistic or clinical backing.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in evidence pack |
-| Predicted New Indication | Open-Angle Glaucoma |
+| Original Indication | Not listed (approved indication text is empty in the source data) |
+| Predicted New Indication | Open-angle glaucoma |
 | TxGNN Prediction Score | 99.95% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| Market Status (Taiwan) | Not Marketed |
-| Number of Licenses | 0 |
-| Recommended Decision | **Hold** |
-
----
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data (`original_moa`) is not available in DrugBank/evidence-pack form. Based on the mechanistic notes attached to this prediction, secretin is known to act as an agonist of the secretin receptor (SCTR), a class B GPCR expressed mainly in the exocrine pancreas and select central neurons. No literature or pathway data currently link SCTR signaling to aqueous humor production or outflow regulation in the eye.
+Currently, detailed mechanism of action data is not available in the source record. Human secretin acts on the secretin receptor, a Class B GPCR that signals through cAMP, to stimulate pancreatic bicarbonate secretion.
 
-The evidence pack's own repurposing-rationale explicitly assesses this prediction as **likely a false positive** arising from knowledge-graph clustering (e.g., shared GPCR-family nodes) rather than a genuine pharmacological connection to open-angle glaucoma. The same caveat applies to the other nine ranked candidates in this pack (hereditary glaucoma, hypotrichosis, alopecia, hypertrichosis, Dandy-Walker malformation, etc.) — none have an identifiable mechanistic link to secretin/SCTR biology, and rank #9 ("malformation syndrome with odontal/periodontal component") is only supported by 20 general periodontology papers that never mention secretin or SCTR, i.e., keyword/co-occurrence noise rather than drug-specific evidence.
+No established link connects this pathway to open-angle glaucoma, which involves impaired aqueous humour outflow and raised intraocular pressure. The high score most likely reflects proximity in the knowledge graph rather than a biological mechanism. Similarity to the original indication has not been assessed, and route compatibility is also pending. Human secretin is an injectable lyophilised powder, and no ocular delivery route has been evaluated.
 
-Given the combination of a missing MOA, no supporting clinical or literature evidence, and an explicit false-positive flag in the source rationale, this candidate should be treated as exploratory/low-confidence rather than a validated repurposing signal.
-
----
+The other top-ranked predictions are primary hereditary glaucoma, several hair disorders (alopecia, hypotrichosis, hypertrichosis) and rare congenital syndromes. None has trial or literature support, and the hair-disorder cluster looks like a graph-neighbourhood artifact.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## US Market Information
 
-## Market Information
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA021256 | ChiRhoStim | Lyophilised powder for injection | Not listed |
+| NDA021256 | ChiRhoStim 40 | Lyophilised powder for injection | Not listed |
 
-No license records are available — Secretin Human is currently **not marketed** under this regulatory dataset (0 licenses on file).
-
----
+Manufacturer for both products: ChiRhoClin, Inc.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug-interaction data are all marked as data gaps in this evidence pack; DG001 — TFDA label warnings/contraindications — is flagged as a **Blocking** gap, meaning safety review cannot proceed until this is resolved.)
-
----
+Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked candidate (open-angle glaucoma) has an evidence level of L5 — model score only, no clinical trials, no literature — and the evidence pack's own mechanistic analysis assesses it as a probable knowledge-graph artifact rather than a real pharmacological signal. No other ranked candidate in this pack fares better; several are explicitly flagged as mechanistically implausible or supported only by irrelevant literature.
+The prediction rests only on a knowledge-graph score. There are no clinical trials or relevant publications, and no plausible mechanism connects secretin receptor signalling to glaucoma. The evidence level is L5.
 
 **To proceed, the following is needed:**
-- Resolve DG001 (Blocking): obtain TFDA/FDA label warnings and contraindications before any safety review can begin
-- Resolve DG002: obtain confirmed mechanism of action (MOA) data from DrugBank to properly assess plausibility
-- Independent pharmacological or preclinical evidence connecting SCTR signaling to intraocular pressure regulation, if this indication is to be pursued further
-- If no such mechanistic or experimental support emerges, this candidate should be deprioritized in favor of higher-evidence-level candidates from other drugs
+- Package insert warnings and contraindications, which block safety screening
+- Mechanism of action data, for example from DrugBank
+- Approved indication text, to establish the original indication
+- A mechanistic rationale linking secretin receptor signalling to aqueous outflow or intraocular pressure, plus preclinical evidence
+- A route and formulation assessment for ocular delivery
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

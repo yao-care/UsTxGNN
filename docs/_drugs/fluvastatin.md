@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Fluvastatin
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 731
-evidence_level: L1
+evidence_level: L5
 indication_count: 10
 ---
 
 # Fluvastatin
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,11 +29,11 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Fluvastatin: From Hypercholesterolemia to Hyperlipoproteinemia
+# Fluvastatin: From Lipid Lowering (Original Indication Not Recorded) to Hyperlipoproteinemia
 
 ## One-Sentence Summary
 
-Fluvastatin is an HMG-CoA reductase inhibitor (statin) established for treating hypercholesterolemia and hyperlipidemia. The TxGNN model's top prediction, **Hyperlipoproteinemia**, is supported by **5 clinical trials** and **20 publications** — but the pack's own mechanistic analysis flags this as an extension of fluvastatin's *existing* core indication rather than a true novel repurposing case. Critically, official Taiwan/US label data (warnings, contraindications) is a **blocking data gap**, so no safety pre-assessment can yet be completed.
+Fluvastatin is an HMG-CoA reductase inhibitor (statin) that is already marketed in the US as oral capsules and extended-release tablets. The TxGNN model predicts it may be effective for **hyperlipoproteinemia**. The supplied evidence includes **5 registered clinical trials** and **20 publications**, but none of the trials tests fluvastatin directly. This is most likely an on-label lipid-lowering use rather than true repurposing, and it needs label verification.
 
 ---
 
@@ -41,23 +41,23 @@ Fluvastatin is an HMG-CoA reductase inhibitor (statin) established for treating 
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in this evidence pack (no TFDA/US license records; `original_indications` empty). Fluvastatin is broadly established in the literature as a statin for hypercholesterolemia/hyperlipidemia. |
+| Original Indication | Not recorded (the approved indication text is empty in all listed licenses) |
 | Predicted New Indication | Hyperlipoproteinemia |
 | TxGNN Prediction Score | 99.99% |
-| Evidence Level | L1 |
-| US Market Status | ✗ Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L2 (as assigned in the Evidence Pack; see the caveat under Clinical Trial Evidence) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 13 licenses (NDA and ANDA combined) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data (`original_moa`) is not available in this pack. Based on the repurposing rationale attached to the top prediction, fluvastatin is an HMG-CoA reductase inhibitor — it inhibits cholesterol synthesis and upregulates LDL receptor expression. This is stated explicitly to be the statin class's own core mechanism.
+Detailed mechanism-of-action data is not available from DrugBank. Based on the Evidence Pack's mechanistic analysis, fluvastatin inhibits HMG-CoA reductase, which lowers hepatic cholesterol synthesis and upregulates LDL receptors. This is the drug's established lipid-lowering mechanism.
 
-Importantly, the pack itself notes this prediction is **not a typical "old drug, new use" case** — hyperlipoproteinemia is essentially an extension/synonym of fluvastatin's already-established, direct indication rather than a novel therapeutic area. The mechanistic link is direct and well-characterized precisely because it reflects known statin pharmacology, not a speculative cross-disease connection.
+Hyperlipoproteinemia is a disorder of elevated blood lipoproteins, and lowering LDL cholesterol is the core effect of statins. The mechanistic fit is therefore strong. The pack also flags that this is very likely an approved on-label use, not a new indication. The label should be checked before the prediction is treated as repurposing.
 
-By contrast, lower-ranked candidates in this pack (e.g., homozygous familial hypercholesterolemia, HIV infectious disease) represent more genuine repurposing hypotheses with weaker or more indirect mechanistic support — see the full candidate list below for comparison.
+The evidence for direct fluvastatin efficacy comes from published clinical studies. These include the extended-release vs immediate-release comparison and combinations with fibrates or bezafibrate. No registered fluvastatin-specific Phase 2/3 trial appears in the list, so L1 is not assigned.
 
 ---
 
@@ -65,13 +65,13 @@ By contrast, lower-ranked candidates in this pack (e.g., homozygous familial hyp
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00726362](https://clinicaltrials.gov/study/NCT00726362) | N/A | Completed | 3270 | Large surveillance study comparing commercially available statins (incl. fluvastatin) in routine clinical practice for hyperlipidemia; statin-class effect validation |
-| [NCT01634906](https://clinicaltrials.gov/study/NCT01634906) | N/A | Completed | 55 | Non-randomized study of erythrocyte-bound ApoB changes after statin withdrawal; statin-class relevant, not fluvastatin-specific RCT |
-| [NCT00532311](https://clinicaltrials.gov/study/NCT00532311) | Phase 3 | Terminated | 411 | Lapaquistat acetate (not fluvastatin) added to statin background therapy in hypercholesterolemia; same lipid-lowering mechanism class only |
-| [NCT04608474](https://clinicaltrials.gov/study/NCT04608474) | Phase 4 | Completed | 81 | PCSK9 inhibitor (evolocumab) pilot in renal transplant recipients with hyperlipidemia; not fluvastatin |
-| [NCT03510715](https://clinicaltrials.gov/study/NCT03510715) | Phase 3 | Completed | 18 | Alirocumab in pediatric/adolescent homozygous FH; not fluvastatin |
+| [NCT00726362](https://clinicaltrials.gov/study/NCT00726362) | N/A | Completed | 3270 | Surveillance of several marketed statins (including fluvastatin) in hyperlipidemia; class-level support only, and fluvastatin's inclusion is not confirmed |
+| [NCT00532311](https://clinicaltrials.gov/study/NCT00532311) | Phase 3 | Terminated | 411 | Lapaquistat acetate added to statins in hypercholesterolemia; does not test fluvastatin |
+| [NCT04608474](https://clinicaltrials.gov/study/NCT04608474) | Phase 4 | Completed | 81 | Evolocumab (PCSK9 inhibitor) pilot for lipid management in renal transplant recipients; different drug and population |
+| [NCT03510715](https://clinicaltrials.gov/study/NCT03510715) | Phase 3 | Completed | 18 | Alirocumab in children and adolescents with homozygous FH; does not test fluvastatin |
+| [NCT01634906](https://clinicaltrials.gov/study/NCT01634906) | N/A | Completed | 55 | Erythrocyte-bound apoB after statin withdrawal; biomarker focus, not fluvastatin efficacy |
 
-**Note:** None of the trials above tested fluvastatin directly against hyperlipoproteinemia as a primary endpoint — evidence is class-level (statin/PCSK9i), not drug-specific for this exact indication.
+**Caveat:** None of these trials tests fluvastatin for this indication. The L2 rating rests on published clinical studies, not on registered fluvastatin trials.
 
 ---
 
@@ -79,30 +79,36 @@ By contrast, lower-ranked candidates in this pack (e.g., homozygous familial hyp
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [10067240](https://pubmed.ncbi.nlm.nih.gov/10067240/) | 1998 | RCT | Terapevticheskii arkhiv | Compared hypolipidemic effect variability of simvastatin vs. fluvastatin in primary hyperlipoproteinemia |
-| [10856536](https://pubmed.ncbi.nlm.nih.gov/10856536/) | 2000 | RCT | Atherosclerosis | FACT study: fluvastatin + bezafibrate combination efficacy/safety in mixed hyperlipidaemia (n=333) |
-| [11219479](https://pubmed.ncbi.nlm.nih.gov/11219479/) | 2001 | RCT | Clinical Therapeutics | Compared fluvastatin extended-release vs. immediate-release formulations in primary hypercholesterolemia |
-| [15598476](https://pubmed.ncbi.nlm.nih.gov/15598476/) | 2004 | RCT | Clinical Therapeutics | 12-month RCT: fluvastatin+fenofibrate vs. fluvastatin monotherapy in combined hyperlipidemia with T2DM and CHD |
-| [17062478](https://pubmed.ncbi.nlm.nih.gov/17062478/) | 2006 | RCT | Acta Paediatrica | Efficacy/safety of fluvastatin in children/adolescents with heterozygous familial hypercholesterolaemia |
-| [8157036](https://pubmed.ncbi.nlm.nih.gov/8157036/) | 1993 | RCT | European Journal of Clinical Pharmacology | Double-blind study of high-dose fluvastatin in familial hypercholesterolaemia (n=52) |
-| [7604789](https://pubmed.ncbi.nlm.nih.gov/7604789/) | 1995 | Cohort | American Journal of Cardiology | Fluvastatin effects on lipid profile and apolipoproteins in Chinese hypercholesterolemia patients (n=31) |
-| [9271817](https://pubmed.ncbi.nlm.nih.gov/9271817/) | 1997 | Cohort | Thrombosis Research | Fluvastatin and tissue factor pathway inhibitor in type IIA/IIB hyperlipidemia and acute MI |
-| [11347136](https://pubmed.ncbi.nlm.nih.gov/11347136/) | 2001 | Review | Nihon Rinsho | General review of fluvastatin pharmacology and clinical use |
-| [15531000](https://pubmed.ncbi.nlm.nih.gov/15531000/) | 2004 | Review | Clinical Therapeutics | Review of rosuvastatin (comparator statin) in hyperlipidemia management |
+| [11219479](https://pubmed.ncbi.nlm.nih.gov/11219479/) | 2001 | RCT | Clin Ther | Extended-release (80 mg once daily) vs immediate-release fluvastatin in primary hypercholesterolemia |
+| [15598476](https://pubmed.ncbi.nlm.nih.gov/15598476/) | 2004 | RCT | Clin Ther | 12-month double-blind comparison of fluvastatin + fenofibrate vs fluvastatin alone in combined hyperlipidemia with type 2 diabetes and CHD |
+| [10856536](https://pubmed.ncbi.nlm.nih.gov/10856536/) | 2000 | RCT | Atherosclerosis | FACT study: fluvastatin, bezafibrate and their combination in 333 patients with coronary disease and mixed hyperlipidaemia |
+| [8157036](https://pubmed.ncbi.nlm.nih.gov/8157036/) | 1993 | Clinical trial | Eur J Clin Pharmacol | Double-blind study of high-dose fluvastatin in 52 patients with familial hypercholesterolaemia |
+| [17062478](https://pubmed.ncbi.nlm.nih.gov/17062478/) | 2006 | Clinical trial | Acta Paediatr | Fluvastatin in children and adolescents with heterozygous FH, assessing lipid profile and vascular changes |
+| [10067240](https://pubmed.ncbi.nlm.nih.gov/10067240/) | 1998 | Clinical study | Ter Arkh | Simvastatin vs fluvastatin in primary hyperlipoproteinemia, examining lipoprotein metabolic parameters |
+| [7604789](https://pubmed.ncbi.nlm.nih.gov/7604789/) | 1995 | Clinical study | Am J Cardiol | Effects of fluvastatin on lipid profile and apolipoproteins in 31 Chinese patients with hypercholesterolemia |
+| [24944371](https://pubmed.ncbi.nlm.nih.gov/24944371/) | 2003 | Clinical study | Curr Ther Res | 24-week open-label dose-increasing study of effects on LDL subfractions, oxidized LDL and adhesion molecules |
+| [9271817](https://pubmed.ncbi.nlm.nih.gov/9271817/) | 1997 | Clinical study | Thromb Res | Fluvastatin 40 mg for 8 weeks in 20 hypercholesterolemic patients (type IIa/IIb), with tissue factor pathway inhibitor measured |
+| [11347136](https://pubmed.ncbi.nlm.nih.gov/11347136/) | 2001 | Review | Nihon Rinsho | Review article on fluvastatin (no abstract available) |
 
 ---
 
 ## US Market Information
 
-No license/authorization records are available — `taiwan_regulatory.total_licenses = 0` and `licenses` is empty, consistent with the recorded market status of **Not Marketed**.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA021192 | Lescol (Sandoz Inc) | Tablet, extended release | Not provided in source data |
+| ANDA078407 | Fluvastatin (Teva Pharmaceuticals USA) | Capsule | Not provided in source data |
+| ANDA090595 | Fluvastatin Sodium (Mylan Pharmaceuticals) | Capsule | Not provided in source data |
+| ANDA079011 | Fluvastatin Sodium (Teva Pharmaceuticals USA) | Tablet, film coated, extended release | Not provided in source data |
+| ANDA078407 | Fluvastatin (Bryant Ranch Prepack) | Capsule | Not provided in source data |
+
+All listed products are oral.
 
 ---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-*(Key warnings, contraindications, and DDI data are all recorded as data gaps in this pack — notably DG001, a **Blocking**-severity gap on TFDA label warnings/contraindications, which prevents any safety pre-assessment.)*
 
 ---
 
@@ -111,13 +117,13 @@ Please refer to the package insert for safety information.
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Evidence volume is strong (L1, 5 trials + 20 publications), but this strength comes from fluvastatin's already-established statin pharmacology rather than a genuinely novel indication — the mechanistic rationale itself states this is a direct extension, not typical repurposing. Separately, the drug is not currently marketed in the reference jurisdiction and has no license records, and safety data (warnings/contraindications) is a **Blocking** gap (DG001) that must be resolved before any S1 safety review can proceed.
+The mechanism (HMG-CoA reductase inhibition and LDL receptor upregulation) fits hyperlipoproteinemia well, and published clinical studies, including randomized trials, support fluvastatin's lipid-lowering effect. However, no registered trial directly tests fluvastatin for this indication, and the use is likely already on-label. It should be treated as label confirmation, not as a new indication.
 
 **To proceed, the following is needed:**
-- TFDA/US package insert warnings and contraindications (DG001 — Blocking)
-- Confirmed mechanism of action documentation (DG002 — High)
-- Official original-indication license text (currently absent from the pack)
-- Fluvastatin-specific (not statin-class-general or comparator-drug) trial data directly targeting hyperlipoproteinemia, to confirm this is worth tracking as a distinct repurposing candidate rather than routine label extension
+- Download and parse the FDA package insert to confirm the approved indications, warnings and contraindications
+- Confirm the mechanism of action through DrugBank
+- Verify that the published studies (many classified only from titles) match the predicted indication
+- Monitor hepatic and muscle safety, and consider combination therapy where a lower-potency statin is insufficient
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

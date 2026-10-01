@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Ioversol
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 807
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 ---
 
 # Ioversol
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,11 +29,13 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Ioversol: From Diagnostic Contrast Imaging to Osteoarthritis (Low-Confidence Signal)
+# Ioversol: From Radiographic Contrast Imaging to Osteoarthritis Susceptibility
 
 ## One-Sentence Summary
 
-Ioversol (DrugBank DB09134) is an iodinated contrast medium used for diagnostic imaging (angiography, CT, urography); no formal original-indication or mechanism-of-action record is present in this evidence pack. TxGNN's top-ranked prediction, **osteoarthritis susceptibility**, is a genetic susceptibility label rather than a treatable disease and is excluded from consideration. The next candidate, **osteoarthritis**, has **4 clinical trials** and **1 publication**, but all of them study endovascular embolization (Lipiodol/genicular artery embolization) for knee/hand OA pain — ioversol, if present at all, would only serve as the intraprocedural angiography contrast agent, not the tested therapeutic. This is assessed as a mechanistic mismatch, not a genuine repurposing signal.
+Ioversol is an iodinated radiographic contrast agent, marketed in the US as Optiray injection.
+The TxGNN model predicts it may be relevant to **osteoarthritis susceptibility** (score 99.67%), but this is a model prediction with **0 supporting clinical trials and 0 publications** for that exact term.
+The related term **osteoarthritis** has 4 registered trials and 1 publication, but they test an embolization procedure, not ioversol as a treatment.
 
 ---
 
@@ -41,56 +43,65 @@ Ioversol (DrugBank DB09134) is an iodinated contrast medium used for diagnostic 
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in this evidence pack (drug not marketed in Taiwan; generically known as a low-osmolar iodinated radiographic contrast medium) |
-| Predicted New Indication | Osteoarthritis (rank 2; rank-1 "osteoarthritis susceptibility" excluded — see rationale below) |
-| TxGNN Prediction Score | 99.63% (osteoarthritis, rank 9427/full list) |
-| Evidence Level | L4 |
-| Market Status (Taiwan) | Not marketed (Not marketed) |
-| Number of Licenses (Taiwan) | 0 |
+| Original Indication | Radiographic contrast imaging (the source record lists no approved indication text) |
+| Predicted New Indication | Osteoarthritis susceptibility |
+| TxGNN Prediction Score | 99.67% |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 3 records (all under NDA019710) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism-of-action data is not available for ioversol in this evidence pack. Based on general pharmacological knowledge, ioversol belongs to the class of non-ionic, low-osmolar iodinated contrast media used for angiography, CT, and urographic imaging — it has no established pharmacodynamic action on joint or immune tissue.
+Currently, detailed mechanism of action data is not available. Ioversol is an iodinated contrast agent used to make blood vessels and tissues visible on imaging. It is considered pharmacologically inert, with no known disease-modifying or genetic-susceptibility activity.
 
-The evidence pack itself flags the top TxGNN hit, "osteoarthritis susceptibility," as inapplicable: it is a genetic-susceptibility label (not a disease entity), and no trial or literature evidence supports it — the repurposing rationale for this rank explicitly states the logic does not apply.
+The evidence does not show a plausible mechanistic link between the original use (diagnostic imaging) and osteoarthritis. The high TxGNN score most likely reflects proximity in the knowledge graph, not a real biological effect. Other top predictions include rare skeletal dysplasias (brachyolmia, acromesomelic dysplasia) and alopecia, which also have no plausible mechanism.
 
-The second-ranked candidate, osteoarthritis, initially looks more substantive because it has both trial and literature support. However, close reading shows all four associated clinical trials and the one associated publication (PMID 38102013, the LipioJoint-1 trial) investigate **transarterial embolization** (using Lipiodol, an iodized-oil embolic agent) as a treatment for knee/hand OA pain. Ioversol is not the embolic or therapeutic agent under study in any of these trials — at most it could appear as the angiographic contrast agent used to guide the procedure. TxGNN most likely picked up a co-occurrence pattern ("contrast agent" + "vascular intervention for OA") rather than a genuine treatment relationship. This is judged a mechanistic mismatch rather than a credible repurposing hypothesis.
+The only indirect signal is on the related term **osteoarthritis** (rank 2, score 99.63%). Several trials study genicular artery embolization (GAE) for knee osteoarthritis. Ioversol may at most serve as the angiographic contrast agent during the procedure. The trials do not show it is the intervention, and some use Lipiodol (ethiodized oil), a different agent.
 
 ---
 
 ## Clinical Trial Evidence
 
-*(shown for "osteoarthritis," the highest-evidence candidate; note all trials below test embolization procedures, not ioversol itself)*
+No trials are registered for "osteoarthritis susceptibility". The trials below come from the related prediction "osteoarthritis". They test embolization procedures, not ioversol.
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT06497140](https://clinicaltrials.gov/study/NCT06497140) | Phase 3 | Recruiting | 130 | Sham-controlled trial of genicular artery embolization (GAE) for knee OA pain; tests the embolization procedure, not ioversol |
-| [NCT06611007](https://clinicaltrials.gov/study/NCT06611007) | Phase 1/2 | Recruiting | 15 | Safety pilot of Lipiodol® arterial embolization for refractory digital (hand) OA |
-| [NCT04733092](https://clinicaltrials.gov/study/NCT04733092) | Phase 1 | Completed | 22 | Lipiodol emulsion embolization for inflammatory hypervascularization in knee OA/joint pain |
-| [NCT06859164](https://clinicaltrials.gov/study/NCT06859164) | Phase 2 | Recruiting | 50 | NIH-NIAMS-funded pilot sham-controlled trial of genicular artery embolization for knee OA pain (KOOS pain subscore) |
+| [NCT06497140](https://clinicaltrials.gov/study/NCT06497140) | Phase 3 | Recruiting | 130 | Sham-controlled RCT of genicular artery embolization in symptomatic knee OA. The role of ioversol is not confirmed. |
+| [NCT06859164](https://clinicaltrials.gov/study/NCT06859164) | Phase 2 | Recruiting | 50 | Pilot sham-controlled GAE trial for knee OA pain (NIH-NIAMS funded). The role of ioversol is unclear. |
+| [NCT06611007](https://clinicaltrials.gov/study/NCT06611007) | Phase 1/2 | Recruiting | 15 | Safety of Lipiodol embolization in hand OA. Lipiodol is a different agent. |
+| [NCT04733092](https://clinicaltrials.gov/study/NCT04733092) | Phase 1 | Completed | 22 | Lipiodol emulsion embolization for inflammatory hypervascularization in knee pain. The agent is not ioversol. |
 
 ---
 
 ## Literature Evidence
 
+None of the retrieved papers tests ioversol as a therapy for the predicted indication.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [38102013](https://pubmed.ncbi.nlm.nih.gov/38102013/) | 2024 | RCT | Diagnostic and Interventional Imaging | LipioJoint-1 trial: safety/efficacy of genicular artery embolization with an ethiodized oil-based emulsion for knee OA; ioversol not the studied agent |
+| [38102013](https://pubmed.ncbi.nlm.nih.gov/38102013/) | 2024 | Prospective clinical trial | Diagn Interv Imaging | LipioJoint-1: safety and efficacy of transient GAE with an ethiodized oil emulsion in knee OA. It is procedure-related and does not involve ioversol. |
+| [22195536](https://pubmed.ncbi.nlm.nih.gov/22195536/) | 2012 | Retrospective cohort | Am J Med | Safety of intravenous iodinated contrast in sickle cell disease. It concerns diagnostic use, not therapeutic benefit (rank 5, hemoglobinopathy). |
+| [23321839](https://pubmed.ncbi.nlm.nih.gov/23321839/) | 2013 | Case series / imaging review | J Comput Assist Tomogr | Craniofacial bone infarcts in sickle cell disease (rank 5, hemoglobinopathy). Imaging findings only. |
+| [40137121](https://pubmed.ncbi.nlm.nih.gov/40137121/) | 2025 | Computational study | Metabolites | In silico screen of PAD4 inhibitors for rheumatoid arthritis (rank 3). It does not involve ioversol. |
 
 ---
 
 ## US Market Information
 
-Currently no marketing authorization records are available — ioversol is not marketed in Taiwan under this evidence pack (0 licenses on file).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA019710 | Optiray (Liebel-Flarsheim Company LLC) | Injection | Not specified in the source record |
+
+The record contains three identical entries for this NDA, shown once above. The route is injectable only.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No key warnings, contraindications, or drug-drug interaction data are available in this evidence pack, and TFDA label data is flagged as a **blocking data gap** (see Conclusion below).
+Please refer to the package insert for safety information. No warnings, contraindications, or drug interaction data were retrieved.
 
 ---
 
@@ -99,13 +110,15 @@ Please refer to the package insert for safety information. No key warnings, cont
 **Decision: Hold**
 
 **Rationale:**
-The only candidate with any trial/literature support (osteoarthritis) shows a mechanistic mismatch — the underlying studies test embolization procedures and embolic agents (Lipiodol), not ioversol as a therapeutic. The top-ranked TxGNN hit (osteoarthritis susceptibility) is not a valid repurposing target. Combined with the absence of MOA data and TFDA labeling, there is no basis to advance this candidate past initial screening.
+The prediction has no plausible mechanism and no direct clinical support. The only related trials study embolization procedures, and ioversol is not confirmed to be the intervention. The evidence stays at L5 for the top-ranked term, and at most L4 for the related osteoarthritis term.
 
 **To proceed, the following is needed:**
-- TFDA package insert / warnings and contraindications (currently a **blocking** data gap — required before any S1 safety screen)
-- DrugBank/API-sourced mechanism-of-action data (currently a **high-severity** gap affecting mechanistic-link analysis)
-- Confirmation of ioversol's actual role (if any) in the cited OA embolization trials, or new evidence in which ioversol itself is the tested therapeutic agent
-- Reassessment if future evidence separates ioversol's specific pharmacology from the embolic agents it happens to co-occur with in these studies
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data
+- Confirmation of which contrast or embolic agent the GAE trials actually use, and whether ioversol plays any role
+- A biological rationale linking ioversol to osteoarthritis, if one exists
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,77 +29,70 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Diphenhydramine: From Allergic Conditions to Rosacea Conjunctivitis
+# Diphenhydramine: From Allergy Relief to Rosacea Conjunctivitis
 
 ## One-Sentence Summary
 
-Diphenhydramine is a first-generation H1-antihistamine traditionally associated with allergic symptom relief (itching, tearing, mild allergic conjunctivitis).
-The TxGNN model predicts it may be effective for **Rosacea Conjunctivitis**,
-but this direction is currently supported by **0 clinical trials** and **0 publications**, making it a pure model-driven hypothesis at this stage.
-
----
+Diphenhydramine is a widely marketed over-the-counter drug. Its US product names point to allergy relief and nighttime sleep aid, though the data contain no approved indication text.
+The TxGNN model predicts it may be effective for **rosacea conjunctivitis**, but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in the evidence pack (no approved license on file); mechanistic notes describe diphenhydramine as a first-generation H1-antihistamine typically used for allergic symptom relief |
-| Predicted New Indication | Rosacea Conjunctivitis |
+| Original Indication | Allergy relief / sleep aid (inferred from product names; no indication text in the data) |
+| Predicted New Indication | Rosacea conjunctivitis |
 | TxGNN Prediction Score | 99.20% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for diphenhydramine is not available in this evidence pack. Based on the mechanistic notes accompanying this prediction, diphenhydramine is a first-generation H1 histamine receptor antagonist with anticholinergic, antipruritic, and mild anti-inflammatory activity, and it is clinically used for symptomatic relief of allergic conjunctivitis (itching, tearing).
+Currently, detailed mechanism of action data is not available. Diphenhydramine is generally known as a first-generation H1 antihistamine, and its use in allergy products suggests it relieves histamine-mediated symptoms. Mechanistically, it might ease itching or redness of the eye.
 
-Rosacea conjunctivitis (ocular rosacea), however, is driven by a different set of pathological mechanisms: meibomian gland dysfunction leading to tear film instability, neurovascular dysregulation causing chronic inflammation and vasodilation, and Demodex mite proliferation with overactivation of innate immune pathways (TLR2, cathelicidin/LL-37). These processes are not primarily histamine-mediated Type I hypersensitivity reactions.
-
-As a result, the overlap between diphenhydramine's H1-antagonist mechanism and rosacea's core pathophysiology is limited to symptom-level features (photophobia, itching/discomfort), rather than the disease-specific pathways (cathelicidin signaling, TLR2 activation, vascular reactivity) that drive rosacea. The very high TxGNN score (99.2%) should be interpreted cautiously: knowledge-graph—based scores of this kind can arise from frequent co-occurrence of related node types (e.g., "antihistamine" and "conjunctivitis") rather than disease-specific mechanistic evidence, raising the possibility of a false positive. This uncertainty is compounded by the absence of confirmed original indication data and MOA data for this drug, as well as its "not marketed" status in the reference market.
-
----
+That link is weak and speculative. Ocular rosacea is mainly an inflammatory and meibomian gland disorder, not primarily a histamine-driven one. The high TxGNN score (99.20%) is a model output and is not clinical evidence. It should be treated as a hypothesis to test, not a finding.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## US Market Information
 
-## Market Information
+The data list 20 authorizations in total. Five are shown below, and none includes approved indication text.
 
-Diphenhydramine currently has no approved license or authorization on file in the reference market (market status: **Not Marketed**, 0 licenses). No product/dosage-form/indication records are available to summarize.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| M012 | DG Health Allergy | Tablet | Dolgencorp Inc |
+| M012 | Childrens Allergy Relief | Chewable tablet | Walmart Inc. |
+| M012 | Nighttime Sleep Aid | Tablet | Bi-Mart |
+| M012 | Quality Choice Allergy Relief | Liquid-filled capsule | Chain Drug Marketing Association |
+| M012 | CVS Diphenhydramine Hydrochloride | Tablet | CVS Pharmacy |
 
----
+Other marketed forms include capsule, coated tablet, solution, spray, liquid and injection. None is identified as an ophthalmic product.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests solely on a TxGNN knowledge-graph score (L5 evidence) with no supporting clinical trials or literature, and the proposed mechanistic link only partially overlaps with rosacea's actual pathophysiology. Combined with the drug's unmarketed status and missing MOA/label data, there is insufficient evidence to advance beyond a research hypothesis.
+The prediction has no supporting clinical trials or literature (Evidence Level L5). The mechanistic link between an H1 antihistamine and ocular rosacea is weak, and the safety and mechanism data are missing.
 
 **To proceed, the following is needed:**
-- TFDA/label-equivalent data confirming diphenhydramine's approved indications, warnings, and contraindications (currently a blocking data gap)
-- Verified mechanism of action (MOA) data from DrugBank or another authoritative source
-- Preclinical or mechanistic studies directly linking H1-antihistamine activity to rosacea-specific pathways (cathelicidin/LL-37, TLR2, Demodex-related inflammation)
-- Any case reports, observational studies, or exploratory trials evaluating antihistamines in ocular rosacea
-- Reassessment of the TxGNN score against a specificity/false-positive check for this drug–disease pair before any further development steps
+- Package insert warnings and contraindications, which currently block safety screening
+- Mechanism of action data (for example, from DrugBank)
+- A literature and trial search on antihistamines in ocular rosacea and blepharoconjunctivitis
+- Confirmation of a suitable route of administration, since no ophthalmic formulation is identified in the current data
+- Preclinical or mechanistic evidence of a role for histamine in rosacea conjunctivitis
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

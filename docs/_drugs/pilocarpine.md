@@ -29,68 +29,71 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Pilocarpine: From Unrecorded Original Indication to Primary Hereditary Glaucoma
+# Pilocarpine: From an Unrecorded Original Indication to Primary Hereditary Glaucoma
 
 ## One-Sentence Summary
 
-> No original indication or licensing data is on file for Pilocarpine (DrugBank DB01085) in this dataset, and the drug is currently not marketed in this jurisdiction.
-> The TxGNN model predicts it may be effective for **Primary Hereditary Glaucoma**, with a prediction score of **99.83%**,
-> but **no clinical trials or literature** currently support this direction — the signal is model-only at this stage.
-
----
+Pilocarpine is a marketed muscarinic agonist, but the source record lists no original indication.
+The TxGNN model predicts it may be effective for **primary hereditary glaucoma**,
+yet there are currently **0 clinical trials** and **0 publications** supporting this specific prediction, so the evidence rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | No records available (no license or indication data on file) |
-| Predicted New Indication | Primary Hereditary Glaucoma |
-| TxGNN Prediction Score | 99.83% (rank 4905) |
-| Evidence Level | L5 (model prediction only, no supporting trials/literature) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Predicted New Indication | Primary hereditary glaucoma |
+| TxGNN Prediction Score | 99.83% |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, no structured mechanism of action (MOA) data is on file for this drug. However, the model's own repurposing rationale draws on established pharmacology: Pilocarpine is a muscarinic (M3) receptor agonist acting on the ciliary muscle and iris sphincter. It induces miosis and increases aqueous humor outflow through the trabecular meshwork — the classic pharmacological mechanism for lowering intraocular pressure.
+Currently, detailed mechanism of action data is not available in the source record. Based on general pharmacology, pilocarpine is a muscarinic (M3-preferring) agonist. It contracts the ciliary muscle and the iris sphincter, which increases trabecular outflow and lowers intraocular pressure. This is a plausible mechanism for glaucoma in general.
 
-This mechanism maps directly onto glaucoma pathophysiology, where impaired aqueous humor drainage raises intraocular pressure. Notably, pilocarpine is historically a well-established miotic agent used in glaucoma management, so this "predicted new indication" largely reflects a long-standing, mechanistically mature use rather than a novel therapeutic hypothesis. That said, this dataset contains no original indication, license, or literature records to formally substantiate that history — it is asserted only through the model's mechanistic rationale field, not through verifiable regulatory or bibliographic evidence.
+This link comes from general pharmacology, not from the supplied data, and two caveats apply:
 
----
+- **Possible missing known indication:** Pilocarpine is a long-established ophthalmic miotic used for glaucoma. The very high score (99.83%) may simply reflect an existing indication that is missing from the source record, so it may not be a true repurposing signal.
+- **Subtype specificity:** "Primary hereditary glaucoma" (for example, primary congenital glaucoma) is narrower than general glaucoma use. No data here supports efficacy in that subtype.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
----
+## US Market Information
+
+Five of the 20 authorizations are shown below. The source record contains no approved-indication text for any of them.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA077220 | Pilocarpine Hydrochloride | Film-coated tablet (oral) | Bryant Ranch Prepack |
+| ANDA076963 | Pilocarpine Hydrochloride | Film-coated tablet (oral) | Amici Pharmaceuticals LLC |
+| NDA214028 | VUITY | Solution/drops | AbbVie Inc. |
+| NDA217836 | Qlosi | Solution | Orasis Pharmaceuticals, Inc. |
+| ANDA077248 | Pilocarpine Hydrochloride | Film-coated tablet (oral) | Amneal Pharmaceuticals NY LLC |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high, but evidence level is L5 — no clinical trials, no literature, and no verified original-indication or MOA documentation exist in this dataset to corroborate the model's mechanistic rationale. A blocking data gap (missing TFDA/label warnings and contraindications) also prevents any safety pre-screening (S1).
+The prediction has no supporting trials or literature (L5, model prediction only). The high score may reflect an already-known glaucoma use missing from the source record, and nothing supports the specific "primary hereditary glaucoma" subtype. Safety data is also missing, so the candidate cannot move to safety screening.
 
 **To proceed, the following is needed:**
-- TFDA (or equivalent) label warnings and contraindications — currently blocking safety review
-- Verified mechanism of action (MOA) documentation from DrugBank or equivalent source
-- Confirmed original indication(s) and licensing history for this drug
-- At least preliminary clinical or literature evidence directly linking pilocarpine to glaucoma treatment, to move the evidence level beyond L5
+- The package insert (warnings and contraindications), which blocks safety screening
+- Mechanism of action data, for example from DrugBank
+- The original approved indications for the ophthalmic products (VUITY, Qlosi), to confirm whether glaucoma is already labeled
+- Subtype-specific evidence for primary hereditary or congenital glaucoma
+- A route compatibility assessment between the available formulations and the required route
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

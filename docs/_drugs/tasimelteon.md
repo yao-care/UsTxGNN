@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Tasimelteon
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 1201
-evidence_level: L1
+evidence_level: L5
 indication_count: 10
 ---
 
 # Tasimelteon
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,96 +29,87 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Tasimelteon: From Non-24-Hour Sleep-Wake Disorder to Insomnia
+# Tasimelteon: From Circadian Rhythm Disorders to Insomnia
+
+> **Note on candidate selection:** The Evidence Pack's rank 1 prediction (bilateral parasagittal parieto-occipital polymicrogyria) has no trials, no literature, and no plausible mechanism. It is most likely a knowledge-graph artifact. This report therefore covers rank 2, **insomnia**, the only prediction with substantial clinical evidence. The other predictions are all L5 (motor neuron and skeletal disorders) or L4 (endogenous depression, review-level literature only).
 
 ## One-Sentence Summary
 
-Tasimelteon is a selective MT1/MT2 melatonin receptor agonist, originally approved by the FDA for Non-24-Hour Sleep-Wake Disorder (Non-24) in totally blind individuals.
-The TxGNN model predicts it may be effective for **Insomnia**, with **4 clinical trials** (including 2 completed Phase 3 studies) and **6 publications** currently supporting this direction.
-
-> **Note on candidate selection:** TxGNN rank 1 (bilateral parasagittal parieto-occipital polymicrogyria, score 99.48%) is classified as L5/Hold due to absent mechanistic linkage and zero supporting evidence. This report focuses on rank 2 (insomnia, score 99.47%), which carries L1 evidence and the highest decision stage (S3), representing the most actionable repurposing candidate.
-
----
+Tasimelteon is a melatonin MT1/MT2 receptor agonist already marketed in the US for circadian rhythm disorders.
+The TxGNN model predicts it may be effective for **insomnia**, with **4 clinical trials** (2 Phase 3 RCTs) and **6 review articles** supporting this direction.
+No efficacy outcome data are included in the supplied record, so the evidence is promising but unconfirmed.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Non-24-Hour Sleep-Wake Disorder |
+|------|------|
+| Original Indication | Circadian rhythm disorders (per the Evidence Pack rationale; the license records contain no indication text) |
 | Predicted New Indication | Insomnia |
 | TxGNN Prediction Score | 99.47% |
-| Evidence Level | L1 |
-| US Market Status | No records found in regulatory database |
-| Number of NDAs | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Evidence Level | L2 (see note below) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 5 (2 NDAs and 3 ANDAs) |
+| Recommended Decision | Hold |
 
----
+**Evidence level note:** The Evidence Pack labels this L1. Under the L1–L5 rules, L1 requires at least 2 *completed* Phase 3 RCTs. Only one is completed (NCT00548340); the other (NCT06953869) is still recruiting. I have therefore rated it L2.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack (Data Gap DG002). Based on known information, Tasimelteon is a selective melatonin receptor agonist (MT1/MT2) that acts on the suprachiasmatic nucleus (SCN) — the brain's master circadian pacemaker. By binding MT1 and MT2 receptors in the SCN, it phase-shifts the circadian clock, reduces sleep onset latency, and re-entrains the biological sleep-wake cycle to the 24-hour day.
+Detailed mechanism-of-action data are not available in the DrugBank fields supplied. Based on the literature, tasimelteon is a dual MT1/MT2 melatonin receptor agonist. These receptors are densely expressed in the suprachiasmatic nucleus, the brain's circadian pacemaker. Activating them can shift circadian phase and promote sleep. Reviews (PMID 24228714, 19557144) describe tasimelteon as a high-affinity, nonselective MT1/MT2 agonist. They also note that this mechanism differs fundamentally from GABAergic hypnotics.
 
-Non-24-Hour Sleep-Wake Disorder and insomnia share a common mechanistic root: dysregulation of circadian timing. Non-24 represents an extreme failure to entrain to the light-dark cycle, while general insomnia frequently involves circadian phase misalignment and blunted melatonin rhythm. Because Tasimelteon acts upstream at the circadian pacemaker rather than as a sedative-hypnotic, it is mechanistically plausible that the same receptor-level action would improve sleep onset and maintenance in primary insomnia patients.
-
-This prediction is strongly reinforced by two lines of evidence. First, a completed Phase 3 RCT (NCT00548340, n=322) directly compared Tasimelteon versus placebo in patients with primary insomnia — the highest grade of human clinical evidence. Second, the FDA-approved comparator ramelteon (also an MT1/MT2 agonist, approved 2005) is already indicated for insomnia, providing same-class proof-of-concept. A large ongoing Phase 3 pediatric trial (NCT06953869, n=420) further signals continued investment in this indication.
-
----
+Insomnia and circadian rhythm disorders are closely related sleep-wake problems. Melatonergic agents mainly favor sleep initiation and reset the clock to phases that allow persistent sleep. That makes insomnia a direct mechanistic extension of the drug's existing use. A Phase 3 trial (NCT00548340) tested the drug in primary insomnia, and a pediatric insomnia Phase 3 trial is now recruiting. Because the drug is already marketed, its general safety profile is known.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT00548340](https://clinicaltrials.gov/study/NCT00548340) | Phase 3 | Completed | 322 | Multicenter double-blind RCT comparing Tasimelteon 20 mg and 50 mg vs. placebo over 5 weeks in primary insomnia — the highest-grade direct evidence for this indication |
-| [NCT06953869](https://clinicaltrials.gov/study/NCT06953869) | Phase 3 | Recruiting | 420 | Multicenter double-blind RCT of Tasimelteon vs. placebo in pediatric insomnia; large-scale ongoing trial, expected completion January 2028 |
-| [NCT03291041](https://clinicaltrials.gov/study/NCT03291041) | Phase 2 | Completed | 25 | Double-blind proof-of-concept study in jet lag disorder (proxy circadian misalignment model); indirectly supports sleep-onset efficacy via circadian resetting mechanism |
-| [NCT05922995](https://clinicaltrials.gov/study/NCT05922995) | Early Phase 1 | Terminated | 20 | Open-label pilot in REM Behavior Disorder assessing insomnia symptom scores (ISI, PSQI); terminated early with limited enrollment — safety reference only, low methodological weight |
-
----
+|---------|------|------|------|---------|
+| [NCT06953869](https://clinicaltrials.gov/study/NCT06953869) | Phase 3 | Recruiting | 420 | Double-blind, randomized, placebo-controlled study of daily oral tasimelteon in pediatric insomnia disorder. No results yet; expected completion 2028-01. |
+| [NCT00548340](https://clinicaltrials.gov/study/NCT00548340) | Phase 3 | Completed | 322 | Multicenter, randomized, double-blind, placebo-controlled trial of VEC-162 (tasimelteon) at 20 and 50 mg/day for 5 weeks in primary insomnia. Outcome data are not in the supplied record. |
+| [NCT03291041](https://clinicaltrials.gov/study/NCT03291041) | Phase 2 | Completed | 25 | Proof-of-concept study of tasimelteon vs. placebo in jet lag disorder. Adjacent to insomnia; the small sample limits inference. |
+| [NCT05922995](https://clinicaltrials.gov/study/NCT05922995) | Early Phase 1 | Terminated | 20 | Open-label pilot of 20 mg tasimelteon in REM behavior disorder, with insomnia questionnaires as secondary measures. No control arm; low informational value. |
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [25207602](https://pubmed.ncbi.nlm.nih.gov/25207602/) | 2014 | Narrative Review | Int J Mol Sci | Reviewed efficacy and safety of four melatonin receptor agonists (including Tasimelteon) for insomnia and circadian disorders; highlighted complementary mechanisms across the drug class |
-| [24228714](https://pubmed.ncbi.nlm.nih.gov/24228714/) | 2014 | Review | J Med Chem | Comprehensive MT1/MT2 receptor pharmacology review; positioned Tasimelteon as a high-affinity non-selective agonist, distinguishing it from sedative-hypnotics for sleep-wake disorder applications |
-| [19557144](https://pubmed.ncbi.nlm.nih.gov/19557144/) | 2009 | Review | Neuropsychiatr Dis Treat | Compared melatoninergic agonists vs. classical hypnotics for insomnia; reported Tasimelteon reduced sleep onset latency in Phase 2/3 trials with a favorable adverse-effect profile |
-| [35585820](https://pubmed.ncbi.nlm.nih.gov/35585820/) | 2023 | Review | Curr Drug Saf | Discussed Tasimelteon's role in Alzheimer's-associated insomnia and neurodegenerative sleep disruption; contextualizes potential beyond Non-24 |
-| [22010042](https://pubmed.ncbi.nlm.nih.gov/22010042/) | 2011 | Review | Ther Adv Neurol Disord | Examined melatonin agonists in Parkinson's disease sleep disorders; Tasimelteon discussed as mechanistically relevant to REM-related insomnia components |
-| [22167135](https://pubmed.ncbi.nlm.nih.gov/22167135/) | 2011 | Review | Neuro Endocrinol Lett | Linked circadian rhythm disruption in obesity with insomnia pathophysiology; proposed melatonin receptor agonists as resynchronizing agents for metabolic-comorbid insomnia |
+All available publications are reviews; no primary RCT publications were returned.
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [25207602](https://pubmed.ncbi.nlm.nih.gov/25207602/) | 2014 | Review | Int J Mol Sci | Reviews the efficacy and safety of melatonin receptor agonists (ramelteon, prolonged-release melatonin, agomelatine, tasimelteon) in insomnia, depression, and circadian sleep-wake disorders. |
+| [19557144](https://pubmed.ncbi.nlm.nih.gov/19557144/) | 2009 | Review | Neuropsychiatr Dis Treat | Melatonergic hypnotic effects act through MT1/MT2 receptors in the suprachiasmatic nucleus. They favor sleep initiation and clock resetting, unlike GABAergic hypnotics. |
+| [24228714](https://pubmed.ncbi.nlm.nih.gov/24228714/) | 2014 | Review | J Med Chem | Tasimelteon is among the most advanced MT1/MT2 agonists in clinical evaluation. Covers ligands, models, and therapeutic potential. |
+| [35585820](https://pubmed.ncbi.nlm.nih.gov/35585820/) | 2023 | Review | Curr Drug Saf | Discusses melatonin and tasimelteon in Alzheimer's disease, where insomnia is a common feature. Only tangentially relevant. |
+| [22010042](https://pubmed.ncbi.nlm.nih.gov/22010042/) | 2011 | Review | Ther Adv Neurol Disord | Melatonin and analogs for sleep disorders and neuroprotection in Parkinson's disease. Tangential. |
+| [22167135](https://pubmed.ncbi.nlm.nih.gov/22167135/) | 2011 | Review | Neuro Endocrinol Lett | Sleep and circadian disruption in obesity and the possible value of melatonin. Tangential. |
 
 ## US Market Information
 
-No FDA authorization records for Tasimelteon were retrieved in the regulatory database query (2026-03-25, result count: 0). The regulatory data gap (DG001) — covering package insert warnings and contraindications — is classified as **Blocking** severity.
+The license records contain no approved-indication text.
 
-For reference: Tasimelteon is commercially available in the United States under the brand name **Hetlioz** (Vanda Pharmaceuticals), FDA-approved for Non-24-Hour Sleep-Wake Disorder. Verification against the official FDA database is recommended before proceeding.
-
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA205677 | Hetlioz | Capsule | Vanda Pharmaceuticals Inc. |
+| NDA214517 | Hetlioz | Suspension | Vanda Pharmaceuticals Inc. |
+| ANDA211654 | Tasimelteon | Capsule | Amneal Pharmaceuticals NY LLC |
+| ANDA211601 | Tasimelteon | Capsule, gelatin coated | Teva Pharmaceuticals, Inc. |
+| ANDA211607 | Tasimelteon | Capsule | Apotex Corp. |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-> All safety fields (key warnings, contraindications, drug-drug interactions) were returned as data gaps or not found in the 2026-03-25 query. Obtaining the full TFDA/FDA package insert is a **Blocking** prerequisite (DG001) before safety evaluation can proceed.
-
----
+Please refer to the package insert for safety information. Warnings and contraindications could not be retrieved, and no drug-interaction records were found.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-A completed Phase 3 double-blind RCT (NCT00548340, n=322) directly supports Tasimelteon for primary insomnia at L1 evidence level, and the FDA-approved class comparator ramelteon demonstrates that MT1/MT2 agonism is a validated mechanism for this indication. The ongoing pediatric Phase 3 trial (NCT06953869, n=420) further confirms industry confidence in this repurposing direction.
+The mechanism fits well and two Phase 3 RCTs exist, but only one is completed and its results are not in the supplied record. The supporting literature is review-level only. Missing package insert safety data is a blocking gap for safety screening.
 
 **To proceed, the following is needed:**
-
-- **[Blocking]** Obtain full FDA/TFDA package insert to complete safety evaluation (warnings, contraindications, special population precautions) — Data Gap DG001
-- **[High]** Retrieve DrugBank MOA documentation for mechanistic linkage analysis — Data Gap DG002
-- **[Required]** Drug-drug interaction profile — current DDI query returned no records; manual lookup or clinical pharmacology review required
-- **[Monitoring]** Await results from NCT06953869 (pediatric Phase 3, expected completion January 2028) to support pediatric indication extension
-- **[Strategic]** Confirm US FDA regulatory pathway: if targeting insomnia as a new indication, assess whether a supplemental NDA or 505(b)(2) pathway is appropriate given the existing Non-24 approval
-- **[Regulatory]** Evaluate Taiwan market entry feasibility given current zero-license status in TFDA database
+- Retrieve the results of NCT00548340 (primary endpoints, sleep onset latency, safety) and confirm the exact population studied.
+- Confirm the full title and target population of NCT06953869, and monitor its readout (expected 2028).
+- Obtain package insert warnings and contraindications from the FDA website.
+- Obtain mechanism-of-action data from DrugBank.
+- Confirm route and formulation compatibility (capsule vs. suspension) for the target population, especially pediatrics.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

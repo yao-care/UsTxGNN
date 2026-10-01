@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Belinostat
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 441
-evidence_level: L2
+evidence_level: L5
 indication_count: 3
 ---
 
 # Belinostat
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,43 +29,43 @@ Evidence Level: **L2** | Predicted Indications: **3**
 
 </div>
 
-The txgnn-pipeline skill covers infrastructure and pipeline management, which doesn't override the report-writing instructions already in my system prompt. I'll proceed directly with generating the report from the Evidence Pack.
-
----
-
-# Belinostat: From Peripheral T-cell Lymphoma to Myeloid Leukemia
+# Belinostat: From T-Cell Lymphoma to Myeloid Leukemia
 
 ## One-Sentence Summary
 
-Belinostat is an intravenous pan-HDAC inhibitor clinically approved for relapsed or refractory peripheral T-cell lymphoma (PTCL).
-The TxGNN model predicts it may be effective for **Myeloid Leukemia**, with **6 clinical trials** and **20 publications** currently supporting this direction.
-The overall evidence level reaches **L2**, driven by multiple completed Phase 1/2 studies directly enrolling AML patients.
+Belinostat is an intravenous histone deacetylase (HDAC) inhibitor. Published literature describes it as approved for T-cell lymphomas.
+The TxGNN model predicts it may be effective for **myeloid leukemia**, and **6 clinical trials** and **20 publications** are linked to this prediction.
+Most of that evidence is early-phase combination studies and preclinical work, so efficacy is not yet established.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Peripheral T-cell Lymphoma (PTCL) |
-| Predicted New Indication | Myeloid Leukemia |
+|------|------|
+| Original Indication | T-cell lymphomas (per literature; the US license record supplied has no indication text) |
+| Predicted New Indication | Myeloid leukemia |
 | TxGNN Prediction Score | 99.53% |
-| Evidence Level | L2 |
-| Taiwan Market Status | Not Marketed (0 TFDA licenses) |
-| Number of Taiwan Licenses | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
-> **Note on market status**: While belinostat has no Taiwan (TFDA) registration, it is FDA-approved in the United States under the brand name **Beleodaq** (Spectrum Pharmaceuticals) for relapsed/refractory PTCL. Taiwan market entry would require a separate TFDA submission.
+| Evidence Level | L2 (as assigned in the Evidence Pack; the one completed Phase 2 study is single-arm, not randomized) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Belinostat is a pan-HDAC inhibitor that targets Class I (HDAC1, 2, 3, 8) and Class II (HDAC4–10) histone deacetylase enzymes. Although detailed MOA documentation is not available in this Evidence Pack, clinical trial records and published literature consistently describe its mechanism: by blocking HDAC enzymes, belinostat prevents the removal of acetyl groups from histone proteins, restoring an open chromatin state and reactivating epigenetically silenced tumor suppressor genes. This leads to cell cycle arrest, induction of apoptosis via the mitochondrial pathway, and promotion of myeloid differentiation.
+Detailed mechanism of action data is not available in the Evidence Pack. From general knowledge, belinostat is a pan-HDAC inhibitor. HDAC inhibition can reactivate silenced tumor suppressor genes and promote apoptosis and differentiation in cancer cells. Its efficacy in T-cell lymphoma is established, and mechanistically it may also apply to myeloid leukemia.
 
-In acute myeloid leukemia (AML), HDACs are frequently overexpressed, and this overexpression is a core driver of leukemogenesis—epigenetically silencing genes that would otherwise halt malignant proliferation or trigger differentiation. This makes HDAC inhibition a mechanistically direct strategy in AML, not a peripheral one. Preclinical studies have shown that belinostat restores gene expression, induces apoptosis, and promotes differentiation in primary AML cells and established AML cell lines.
+Both T-cell lymphoma and acute myeloid leukemia (AML) are blood cancers with abnormal epigenetic regulation. Preclinical work supports this: belinostat has anti-leukemic activity in acute promyelocytic leukemia cells and primary AML cells.
 
-Several rationally designed combination strategies further strengthen the case. Belinostat demonstrates additive or synergistic anti-AML effects when paired with hypomethylating agents such as azacitidine (via "epigenetic priming"), with the proteasome inhibitor bortezomib (via NF-κB suppression and Bim upregulation), with the anthracycline idarubicin, and with the NAE/neddylation inhibitor pevonedistat (by disrupting the DNA damage response, independently of p53 or FLT3-ITD status). This breadth of mechanistically validated partners indicates that belinostat acts on a foundational AML vulnerability rather than a narrow target.
+The data also suggest that combinations are more promising than monotherapy. Published studies show synergy with:
+
+- proteasome inhibition (bortezomib)
+- NEDD8 inhibition (pevonedistat)
+- WEE1 inhibition (adavosertib)
+
+Consistent with this, PMID 39821392 notes that belinostat and pevonedistat each showed only limited single-agent activity in blood cancers.
 
 ---
 
@@ -73,68 +73,79 @@ Several rationally designed combination strategies further strengthen the case. 
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00357032](https://clinicaltrials.gov/study/NCT00357032) | Phase 2 | Completed | 12 | Single-agent belinostat (1000 mg/m² IV, Days 1–5 every 21 days) in R/R AML or newly diagnosed AML in patients over age 60; primary endpoint was complete response rate |
-| [NCT00878722](https://clinicaltrials.gov/study/NCT00878722) | Phase 1/2 | Completed | 41 | Belinostat + idarubicin in AML patients unsuitable for standard intensive chemotherapy; two dosing schedules assessed for safety and early efficacy |
-| [NCT01075425](https://clinicaltrials.gov/study/NCT01075425) | Phase 1 | Completed | 41 | Belinostat + bortezomib in R/R acute leukemia and MDS; QTc prolongation identified as the dose-limiting toxicity; recommended Phase 2 doses established |
-| [NCT00351975](https://clinicaltrials.gov/study/NCT00351975) | Phase 1 | Completed | 56 | Belinostat + azacitidine in advanced hematologic malignancies including AML; largest enrollment in this indication, established tolerability baseline |
-| [NCT03772925](https://clinicaltrials.gov/study/NCT03772925) | Phase 1 | Terminated | 18 | Belinostat + pevonedistat (NAE inhibitor) in R/R AML or MDS; terminated early but results published in 2025 (PMID 39821392); most recent combination data |
-| [NCT02381548](https://clinicaltrials.gov/study/NCT02381548) | Phase 1 | Terminated | 20 | Belinostat + adavosertib (Wee1 inhibitor, AZD1775) in R/R myeloid malignancies and untreated AML; terminated early; published 2023 (PMID 36864346) |
+| [NCT00357032](https://clinicaltrials.gov/study/NCT00357032) | Phase 2 | Completed | 12 | Belinostat (PXD101) alone in relapsed/refractory AML, or newly diagnosed AML in patients over 60. Highest-phase direct evidence, but efficacy outcomes are not in the provided data. |
+| [NCT00878722](https://clinicaltrials.gov/study/NCT00878722) | Phase 1/2 | Completed | 41 | Belinostat plus idarubicin in AML patients unsuitable for standard intensive therapy. Two schedules tested for safety and early efficacy. |
+| [NCT01075425](https://clinicaltrials.gov/study/NCT01075425) | Phase 1 | Completed | 41 | Belinostat plus bortezomib in relapsed/refractory acute leukemia or MDS. Dose finding and safety. |
+| [NCT00351975](https://clinicaltrials.gov/study/NCT00351975) | Phase 1 | Completed | 56 | Belinostat plus azacitidine in advanced hematologic malignancies. Broader population, so the match to myeloid leukemia is partial. |
+| [NCT03772925](https://clinicaltrials.gov/study/NCT03772925) | Phase 1 | Terminated | 18 | Pevonedistat plus belinostat in relapsed/refractory AML or MDS. Early termination limits interpretation. |
+| [NCT02381548](https://clinicaltrials.gov/study/NCT02381548) | Phase 1 | Terminated | 20 | Adavosertib plus belinostat in relapsed/refractory myeloid malignancies. Early termination limits interpretation. |
+
+No Phase 3 trials exist.
 
 ---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|---------|
-| [24369094](https://pubmed.ncbi.nlm.nih.gov/24369094/) | 2014 | Phase 2 Clinical Trial | Leukemia & Lymphoma | Open-label Phase 2 study (NCT00357032) of belinostat monotherapy in R/R AML and newly diagnosed AML ≥60; defines single-agent activity and tolerability profile |
-| [39821392](https://pubmed.ncbi.nlm.nih.gov/39821392/) | 2025 | Phase 1 Clinical Trial | Cancer Chemotherapy and Pharmacology | Belinostat + pevonedistat in R/R AML/MDS; despite early termination, provides 2025 combination safety and preliminary efficacy data |
-| [36864346](https://pubmed.ncbi.nlm.nih.gov/36864346/) | 2023 | Phase 1 Clinical Trial | Cancer Chemotherapy and Pharmacology | Belinostat + adavosertib (Wee1 inhibitor) in R/R myeloid malignancies; preclinical synergy confirmed in AML xenograft models; early clinical translation |
-| [33356689](https://pubmed.ncbi.nlm.nih.gov/33356689/) | 2021 | Phase 1 Clinical Trial | Leukemia & Lymphoma | Belinostat + bortezomib in R/R acute leukemia/MDS; one complete response observed in MLL-rearranged biphenotypic AML with complex karyotype |
-| [26851293](https://pubmed.ncbi.nlm.nih.gov/26851293/) | 2016 | Preclinical / Mechanistic | Blood | Synergistic AML apoptosis with pevonedistat + belinostat via DDR disruption; efficacy maintained regardless of p53 status or FLT3-ITD mutation |
-| [27151736](https://pubmed.ncbi.nlm.nih.gov/27151736/) | 2016 | Editorial / Review | Blood | Commentary on NEDD8 and HDAC co-targeting in AML; validates mechanistic rationale of the pevonedistat + belinostat combination |
-| [21375523](https://pubmed.ncbi.nlm.nih.gov/21375523/) | 2011 | In vitro / Preclinical | British Journal of Haematology | Bortezomib + belinostat synergistic apoptosis in AML and ALL cell lines and primary blasts; mediated via NF-κB suppression and Bim upregulation |
-| [28192098](https://pubmed.ncbi.nlm.nih.gov/28192098/) | 2017 | In vitro / Preclinical | European Journal of Pharmacology | Anti-leukemic activity of belinostat + HMT inhibitor 3-deazaneplanocin A in acute promyelocytic leukemia (APL) cells; dual epigenetic targeting |
-| [25864732](https://pubmed.ncbi.nlm.nih.gov/25864732/) | 2015 | In vitro / Preclinical | Journal of Cellular and Molecular Medicine | Belinostat induces antileukemic effects in APL via chromatin remodelling; studied as monotherapy and in combination |
-| [24800886](https://pubmed.ncbi.nlm.nih.gov/24800886/) | 2014 | Preclinical / Mechanistic | Anti-cancer Drugs | Epigenetic and molecular mechanisms of belinostat antileukemic activity in APL; potential for differentiation therapy including combination with ATRA |
+|------|-----|------|---------|---------|
+| [24369094](https://pubmed.ncbi.nlm.nih.gov/24369094/) | 2014 | Phase 2 trial | Leuk Lymphoma | Belinostat 1000 mg/m² IV on days 1-5 of a 21-day cycle in relapsed/refractory AML or newly diagnosed AML over age 60. Primary endpoint was complete response rate. Results are not in the excerpt provided. |
+| [39821392](https://pubmed.ncbi.nlm.nih.gov/39821392/) | 2025 | Phase 1 trial | Cancer Chemother Pharmacol | Belinostat plus pevonedistat in relapsed/refractory AML or high-risk MDS, following preclinical synergy data. |
+| [36864346](https://pubmed.ncbi.nlm.nih.gov/36864346/) | 2023 | Phase 1 trial | Cancer Chemother Pharmacol | Belinostat plus adavosertib in relapsed/refractory myeloid malignancies. Preclinical synergy was shown in AML lines and xenografts. |
+| [33356689](https://pubmed.ncbi.nlm.nih.gov/33356689/) | 2021 | Phase 1 trial | Leuk Lymphoma | Belinostat plus bortezomib in 38 patients. QTc prolongation was the only dose-limiting toxicity. Recommended Phase 2 doses were bortezomib 1.3 mg/m² and belinostat 1000 mg/m². |
+| [26851293](https://pubmed.ncbi.nlm.nih.gov/26851293/) | 2016 | Preclinical | Blood | Pevonedistat plus belinostat synergistically induced AML cell apoptosis, including cells with p53 deficiency or FLT3-ITD, by disrupting the DNA damage response. |
+| [21375523](https://pubmed.ncbi.nlm.nih.gov/21375523/) | 2011 | Preclinical | Br J Haematol | Belinostat plus bortezomib sharply increased apoptosis in AML and ALL cell lines and primary blasts, linked to NF-κB and Bim changes. |
+| [24800886](https://pubmed.ncbi.nlm.nih.gov/24800886/) | 2014 | Preclinical | Anti-Cancer Drugs | Characterizes belinostat's epigenetic and molecular effects in acute promyelocytic leukemia cells, alone and combined with all-trans retinoic acid. |
+| [25864732](https://pubmed.ncbi.nlm.nih.gov/25864732/) | 2015 | Preclinical | J Cell Mol Med | Belinostat has anti-leukemic effects in acute promyelocytic leukemia cells via chromatin remodelling. |
+| [17982680](https://pubmed.ncbi.nlm.nih.gov/17982680/) | 2007 | Preclinical | Int J Oncol | HDAC inhibitors including PXD101 inhibited proliferation and increased apoptosis in primary cells from 59 AML patients. Patient subgroups differed in susceptibility. |
+| [26447190](https://pubmed.ncbi.nlm.nih.gov/26447190/) | 2015 | Preclinical | Blood | Genetic and pharmacological dissection of HDAC dependencies in mouse lymphoid and myeloid leukemias. |
+
+---
+
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA206256 | Beleodaq (Acrotech Biopharma Inc) | Lyophilized powder for injection | Indication text not included in the provided record |
 
 ---
 
 ## Cytotoxicity
 
-Belinostat is an antineoplastic agent (pan-HDAC inhibitor, hydroxamate class) used in the treatment of hematological malignancies.
-
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted epigenetic therapy — pan-HDAC inhibitor (hydroxamate class); not classical cytotoxic chemotherapy |
-| Myelosuppression Risk | Moderate — thrombocytopenia and neutropenia are reported across multiple clinical trials; dose-limiting in some combinations |
-| Emetogenicity Classification | Low to moderate |
-| Monitoring Items | CBC with differential (weekly during Cycle 1, then each cycle), liver function tests (AST/ALT/bilirubin), renal function, QTc interval (ECG monitoring before and during treatment) |
-| Handling Protection | Must follow cytotoxic drug handling regulations; IV preparation should use a closed-system drug transfer device |
+|------|------|
+| Cytotoxicity Classification | Targeted/epigenetic therapy (HDAC inhibitor), used within cytotoxic combination regimens |
+| Myelosuppression Risk | Medium (general knowledge for HDAC inhibitors; confirm against the package insert) |
+| Emetogenicity Classification | Low to medium (general knowledge; confirm against the package insert) |
+| Monitoring Items | CBC with differential, liver and renal function, electrolytes, ECG/QTc (QTc prolongation was the only dose-limiting toxicity in the belinostat plus bortezomib Phase 1) |
+| Handling Protection | Follow institutional cytotoxic drug handling regulations. Please refer to the package insert warnings and precautions. |
 
 ---
 
 ## Safety Considerations
 
-No Taiwan-specific safety data (TFDA package insert warnings or contraindications) is available in this Evidence Pack. Drug-drug interaction data was not retrievable at the time of query.
+- **QTc prolongation**: it was the only dose-limiting toxicity in the belinostat plus bortezomib Phase 1 study (PMID 33356689). Cardiac monitoring is therefore relevant in combination regimens.
 
-Please refer to the **Beleodaq (belinostat) US FDA package insert** (Spectrum Pharmaceuticals) for comprehensive safety information, including hematologic toxicity, serious infections, hepatotoxicity, QTc prolongation, tumor lysis syndrome risk, and embryo-fetal toxicity.
+Please refer to the package insert for other safety information.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Multiple completed Phase 1/2 clinical trials have directly studied belinostat in AML populations with published results, establishing both a credible efficacy signal and a characterized safety profile. The mechanistic basis—HDAC overexpression driving epigenetic silencing in AML—is well-established, and the drug's FDA approval for PTCL confirms clinical-grade tolerability. The evidence level (L2) and TxGNN score (99.53%) together justify moving forward under appropriate monitoring conditions.
+The predicted score is high and there is a plausible mechanism and preclinical synergy. However, the clinical evidence is limited to small Phase 1 and Phase 2 studies, and half of the combination trials were terminated early. There is no randomized or Phase 3 evidence, and efficacy outcomes are missing from the provided data. The package insert warnings and contraindications are also missing, which the pack marks as a blocking gap for safety screening.
 
 **To proceed, the following is needed:**
+- Package insert warnings and contraindications (blocking gap DG001)
+- Efficacy results (response rates) from the published NCT00357032 and NCT00878722 studies (PMIDs 24369094 and others)
+- Confirmed mechanism of action from DrugBank (DG002)
+- US indication text for NDA206256, to confirm the original indication
+- A randomized or controlled trial design, most likely a combination regimen rather than monotherapy
 
-- **Full safety documentation**: Obtain and formally review the Beleodaq US FDA label; assess transferability to Taiwan (TFDA bridging requirements)
-- **MOA documentation**: Retrieve complete DrugBank mechanistic data (DrugBank ID: DB05015) to formally document target engagement rationale
-- **Efficacy data compilation**: Extract and summarize response rates (CR/PR/ORR) from NCT00357032 and NCT00878722 to define the therapeutic benchmark for a repurposing trial
-- **Combination strategy decision**: Select the most clinically relevant combination partner for the intended AML patient population (e.g., azacitidine for frontline unfit patients, or idarubicin for intensification)
-- **Taiwan regulatory pathway assessment**: Evaluate whether a new TFDA NDA submission or a bridging study is required for Taiwan market entry
+**Other predicted indications:** plasma cell myeloma (score 99.27%) has only two small Phase 2 trials, one terminated after 4 patients and the other enrolling 25, with no efficacy data. Indolent plasma cell myeloma (99.08%) has no trials or literature and is on Hold.
+
+*This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

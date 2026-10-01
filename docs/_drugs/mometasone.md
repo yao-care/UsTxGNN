@@ -29,78 +29,72 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Mometasone: From Unspecified Original Indication to Primary Cutaneous T-Cell Lymphoma
+# Mometasone: From Nasal Corticosteroid Use to Primary Cutaneous T-Cell Lymphoma
 
 ## One-Sentence Summary
 
-Mometasone's original indication is not recorded in this evidence pack, and the drug is currently not marketed in Taiwan. The TxGNN model predicts potential activity against **Primary Cutaneous T-Cell Lymphoma**, but this is currently supported only by **2 incidental case-report mentions** and **no registered clinical trials** — one of which actually reports mometasone *failing* to treat a lymphoma-mimicking skin condition.
-
----
+Mometasone is a corticosteroid marketed in the US as metered nasal sprays. The supplied records do not state its approved indication.
+The TxGNN model predicts it may be effective for **primary cutaneous T-cell lymphoma**, but **no clinical trials** and only **2 case reports** are on file, and neither shows mometasone working in this disease.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no indication data on record in this evidence pack) |
-| Predicted New Indication | Primary Cutaneous T-Cell Lymphoma |
+| Original Indication | Not stated in the records (all listed licenses have blank indication text) |
+| Predicted New Indication | Primary cutaneous T-cell lymphoma |
 | TxGNN Prediction Score | 99.36% |
-| Evidence Level | L5 |
-| Taiwan Market Status | Not marketed |
-| Number of Licenses | 0 |
+| Evidence Level | L5 (model prediction only; the Evidence Pack assigned L4, but the two case reports do not support mometasone in this disease) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 14 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for mometasone in this evidence pack, and the drug's original indication is also not recorded. Based on general pharmacological knowledge, mometasone (furoate) is a synthetic glucocorticoid typically formulated for topical, intranasal, or inhaled use, with anti-inflammatory and immunomodulatory effects mediated through the glucocorticoid receptor.
+Detailed mechanism of action data for mometasone is not available in the supplied records. As a corticosteroid, mometasone plausibly acts through glucocorticoid receptor-mediated anti-inflammatory and pro-apoptotic effects on lymphocytes in the skin. This is general pharmacology, not something the records support directly.
 
-Corticosteroids are broadly used in dermatology, including for inflammatory and lymphoproliferative skin conditions, which offers a plausible mechanistic rationale for a TxGNN link to a cutaneous T-cell lymphoma. However, the two literature items retrieved for this prediction do not clearly support that rationale: one describes mometasone as an **unsuccessful treatment** for cutaneous pseudolymphoma (a condition that mimics but is not itself primary cutaneous T-cell lymphoma), and the other is a pediatric case report of mycosis fungoides that does not mention mometasone treatment or outcome at all. Neither reference constitutes positive efficacy evidence, so the mechanistic plausibility should be treated as speculative pending stronger data.
+Corticosteroids are widely used against inflammatory skin disease, and topical steroids are a standard treatment in early cutaneous T-cell lymphoma. The very high graph score most likely reflects this drug-class association rather than evidence specific to mometasone.
 
----
+There is also a route gap. Every US product in the records is a metered nasal spray, and route compatibility with a skin-directed indication has not been assessed.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [40821495](https://pubmed.ncbi.nlm.nih.gov/40821495/) | 2025 | Case report | Proceedings (Baylor University Medical Center) | Cutaneous pseudolymphoma (a lymphoma-mimicking condition) in a 62-year-old woman was treated unsuccessfully with mometasone and tacrolimus before switching to tapinarof |
-| [25442255](https://pubmed.ncbi.nlm.nih.gov/25442255/) | 2015 | Case report | Journal of Cutaneous Pathology | Case of an 11-year-old boy with CD8+CD56+ cytotoxic mycosis fungoides (a form of primary cutaneous T-cell lymphoma); abstract does not mention mometasone treatment or outcome |
+| [40821495](https://pubmed.ncbi.nlm.nih.gov/40821495/) | 2025 | Case Report | Proc (Bayl Univ Med Cent) | A 62-year-old woman had cutaneous pseudolymphoma, a benign condition that mimics lymphoma. Mometasone and tacrolimus failed, and she was then treated with tapinarof. It does not show mometasone benefit in true lymphoma. |
+| [25442255](https://pubmed.ncbi.nlm.nih.gov/25442255/) | 2015 | Case Report | J Cutan Pathol | An 11-year-old boy had CD8+CD56+ cytotoxic-type mycosis fungoides, a form of cutaneous T-cell lymphoma, with delayed diagnosis. The available abstract excerpt does not mention mometasone. |
 
----
+## US Market Information
 
-## Taiwan Market Information
+| Authorization Number | Product Name | Dosage Form |
+|---------|------|------|
+| NDA215712 | Nasonex (L. Perrigo Company) | Spray, metered |
+| NDA215712 | Rugby mometasone furoate nasal (Rugby Laboratories) | Spray, metered |
+| ANDA217498 | Mometasone Furoate (Aurohealth LLC) | Spray, metered |
+| NDA215712 | up and up allergy (Target Corporation) | Spray, metered |
+| NDA215712 | allergy nasal (Walgreen Company) | Spray, metered |
 
-Mometasone is not currently marketed in Taiwan; no approved licenses are on record.
-
----
+The records give no approved indication text for these licenses.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-*(Note: TFDA warning/label data is a blocking data gap for this candidate — see Conclusion below.)*
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-There are no registered clinical trials, no confirmed MOA data, and no original-indication data for context. The only two literature references are incidental case reports rather than targeted efficacy studies, and one explicitly documents mometasone failing to treat a related lymphoproliferative skin condition. Combined with a blocking safety data gap and no current Taiwan market presence, the evidence does not support advancing this candidate at this time.
+The high TxGNN score is not backed by any trial, and the only literature is two case reports. One describes a mometasone failure in a benign look-alike condition, and the other does not mention mometasone. The marketed forms are nasal sprays, which do not match a skin-directed indication.
 
 **To proceed, the following is needed:**
-- TFDA label/warning and contraindication data (currently a blocking gap, DG001)
-- Confirmed mechanism of action from DrugBank (DG002)
-- Original indication history for mometasone to establish a baseline for repurposing comparison
-- Targeted clinical or preclinical evidence specific to primary cutaneous T-cell lymphoma (not incidental mentions in unrelated case reports)
-- Reassessment of Taiwan market strategy given current non-marketed status
+- Package insert warnings and contraindications, which are currently missing and block safety screening
+- Mechanism of action data for mometasone (e.g., from DrugBank)
+- Published evidence of topical mometasone in mycosis fungoides or other cutaneous T-cell lymphoma, such as retrospective series or trials
+- Route and formulation assessment: whether a topical mometasone product exists and how it fits this indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

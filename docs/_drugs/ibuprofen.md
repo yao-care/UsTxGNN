@@ -33,60 +33,82 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 ## One-Sentence Summary
 
-Ibuprofen is a widely used NSAID for pain, inflammation, and fever. The TxGNN model predicts it may be effective for **Acromesomelic Dysplasia, Hunter-Thompson Type**, a rare autosomal-recessive skeletal disorder — but this is a **model-score-only prediction (L5)**, with **0 clinical trials** and **0 publications** currently supporting this direction, and the evidence pack's own mechanistic rationale states there is no known biological link between ibuprofen's mechanism and this disease's pathology.
+Ibuprofen is a widely marketed non-steroidal anti-inflammatory drug (NSAID), generally used for pain and inflammation.
+The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunter-Thompson type**, a rare genetic skeletal disorder.
+Currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not captured in this evidence pack (no `original_indications` or license records available) |
-| Predicted New Indication | Acromesomelic Dysplasia, Hunter-Thompson Type |
+| Original Indication | Not listed in the supplied label data (ibuprofen is generally an NSAID for pain and inflammation) |
+| Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
 | TxGNN Prediction Score | 99.74% |
-| Evidence Level | L5 (model prediction only) |
-| Market Status (this jurisdiction) | Not marketed (0 licenses on file) |
-| Number of Licenses | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (ANDA/NDA licenses) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack (flagged as a High-severity data gap). Based on general pharmacological knowledge, ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) that inhibits cyclooxygenase (COX-1/COX-2), reducing prostaglandin synthesis to relieve pain, inflammation, and fever.
+Currently, detailed mechanism of action data is not available in the supplied data. Ibuprofen is a non-selective COX inhibitor that reduces pain and inflammation, and its efficacy in those conditions is well established.
 
-However, the mechanistic rationale supplied with this prediction explicitly undermines the biological case: Acromesomelic Dysplasia, Hunter-Thompson Type is caused by *GDF5* gene mutations that disrupt cartilage-formation signaling — a structural/developmental disorder, not an inflammatory one. The rationale states ibuprofen has "no direct mechanistic link to the disease-causing pathway," and could at most relieve secondary joint pain rather than modify the disease itself.
+The predicted condition is a genetic skeletal dysplasia linked to the GDF5/CDMP1 pathway. A COX-related, disease-modifying mechanism is not evident, and no mechanistic link can be established from the supplied data. At most, ibuprofen might relieve pain symptomatically, but that is speculation rather than evidence of disease modification.
 
-In other words, the high TxGNN score (99.74%) reflects graph-embedding similarity in the knowledge graph, not a validated pharmacological mechanism. This pattern repeats across all seven top-ranked candidates in this pack (brachyolmia-amelogenesis imperfecta syndrome, myosclerosis, brachyolmia, brachydactyly-syndactyly syndrome, pseudoachondroplasia, colobomatous microphthalmia-rhizomelic dysplasia syndrome) — all are rare genetic/structural skeletal or developmental disorders, and each rationale independently notes the absence of an inflammatory mechanism connecting them to ibuprofen.
+The high score (0.997, rank 7103) is a graph-based prediction only. The six other top predictions (brachyolmia-amelogenesis imperfecta syndrome, myosclerosis, brachyolmia, brachydactyly-syndactyly syndrome, pseudoachondroplasia, colobomatous microphthalmia-rhizomelic dysplasia syndrome) show the same pattern. Each has a score of about 0.996-0.997, no trials, no literature, and no established mechanism.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 Currently no related literature available.
 
-## Market Information
+---
 
-No license records found. Per the evidence pack, this drug is not currently marketed in this jurisdiction (0 approved licenses), so no product/dosage-form table can be produced.
+## US Market Information
+
+Showing 5 of 20 authorizations.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA213794 | Ibuprofen (NuCare Pharmaceuticals, Inc.) | Tablet | Not listed |
+| ANDA071935 | Ibuprofen (Amneal Pharmaceuticals of New York LLC) | Tablet | Not listed |
+| ANDA078682 | Ibuprofen 200 (Walgreen Company) | Capsule, liquid filled | Not listed |
+| ANDA076359 | Topcare Childrens Ibuprofen (Topco Associates LLC) | Tablet, chewable | Not listed |
+| ANDA209179 | Childrens FLANAX Oral (Belmora LLC) | Suspension | Not listed |
+
+Other dosage forms on the market include coated and film-coated tablets.
+
+---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
 
-*(Note: a Blocking-severity data gap exists — TFDA-equivalent label warnings/contraindications could not be retrieved, which by itself prevents this candidate from clearing the S1 safety-review stage regardless of efficacy evidence.)*
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high, but evidence level is L5 (model output only) — no clinical trials, no literature, no mechanistic support (the pack's own rationale states the target disease pathology is non-inflammatory and structurally/genetically driven). Combined with a Blocking data gap on safety labeling and zero market licenses for this drug in this jurisdiction, there is no basis to advance past S0.
+The prediction has no supporting clinical trials or literature (evidence level L5), and no plausible mechanism links COX inhibition to the underlying genetic cause of this condition. The high TxGNN score alone is not sufficient to justify further investment.
 
 **To proceed, the following is needed:**
-- Regulatory label data (warnings/contraindications) — currently Blocking (DG001)
-- Confirmed mechanism of action data — currently High severity gap (DG002)
-- Original indication and licensing records for this drug in this jurisdiction
-- Any preclinical or case-level evidence specifically linking NSAID/COX-inhibition to *GDF5*-pathway skeletal dysplasias, before this direction is pursued further
-
-*All other top-7 predicted indications in this pack show the same profile (L5, no trials/literature, no mechanistic support, Hold recommendation) and are not expected to change this conclusion.*
+- Mechanism of action data (MOA) and a mechanistic rationale connecting ibuprofen to the GDF5/CDMP1 pathway
+- Preclinical or observational evidence in this condition
+- Package insert warnings and contraindications for safety screening
+- Route and dosage form compatibility assessment for the new indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

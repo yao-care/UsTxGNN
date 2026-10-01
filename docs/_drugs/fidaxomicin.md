@@ -29,73 +29,74 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Fidaxomicin: From Clostridioides difficile Infection to Staphylococcal Scalded Skin Syndrome
+# Fidaxomicin: From Clostridioides difficile-Associated Diarrhea to Staphylococcal Scalded Skin Syndrome
 
 ## One-Sentence Summary
 
-Fidaxomicin is a narrow-spectrum macrolide antibiotic whose established use is treating *Clostridioides difficile* infection (CDI), acting locally in the gut with minimal systemic absorption. The TxGNN model predicts it may be effective for **Staphylococcal Scalded Skin Syndrome (SSSS)**, but this prediction is currently supported by **0 clinical trials** and **0 publications**, and the underlying rationale explicitly flags a mechanistic contradiction rather than support.
-
----
+Fidaxomicin is an oral, narrow-spectrum macrocyclic antibiotic, originally used to treat *C. difficile*-associated diarrhea.
+The TxGNN model predicts it may be effective for **staphylococcal scalded skin syndrome (SSSS)**, but there are currently **0 clinical trials** and **0 publications** supporting this prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | *Clostridioides difficile* infection (CDI) — not present in local license records, but referenced consistently across the evidence pack's mechanistic analysis |
-| Predicted New Indication | Staphylococcal Scalded Skin Syndrome |
+| Original Indication | *C. difficile*-associated diarrhea (the license records in the source data have blank indication text) |
+| Predicted New Indication | Staphylococcal scalded skin syndrome |
 | TxGNN Prediction Score | 99.71% |
-| Evidence Level | L5 (model prediction only, no clinical trials or literature) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 5 (2 NDAs and 3 ANDAs) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed, structured mechanism-of-action data for fidaxomicin is currently a data gap. Based on information available elsewhere in the evidence pack, fidaxomicin is a narrow-spectrum macrolide that inhibits bacterial RNA polymerase and is used for CDI specifically because it acts locally within the gut lumen — it is **almost not systemically absorbed** after oral dosing.
+Currently, detailed mechanism of action data is not available from DrugBank. Based on general pharmacology, fidaxomicin inhibits bacterial RNA polymerase and shows some in vitro activity against Gram-positive organisms, including *Staphylococcus aureus*. This is the only mechanistic basis for the prediction.
 
-SSSS, by contrast, is not primarily a bacterial-burden problem: it is caused by exfoliative toxins produced by *Staphylococcus aureus* and requires drug exposure at the skin/systemic level to have any therapeutic effect. Because fidaxomicin's defining pharmacokinetic property is the *absence* of meaningful systemic or dermal concentration, the evidence pack's own mechanistic rationale for this candidate concludes it is "only a TxGNN score association, without substantive mechanism or clinical support."
+SSSS is caused by exfoliative toxins from *S. aureus* and normally requires systemic antistaphylococcal therapy. The link between the two diseases is therefore the shared organism. Fidaxomicin's original use is in a gut infection, while SSSS is a skin and blood-borne toxin disease.
 
-In short, the antimicrobial spectrum may theoretically overlap with *S. aureus*, but the route/exposure requirements of SSSS are incompatible with how fidaxomicin actually behaves in the body. This is a case where the prediction score is high but the underlying pharmacology argues against, rather than for, repurposing.
+There is also a major practical obstacle: oral fidaxomicin is minimally absorbed, so it does not reach the skin or bloodstream in meaningful amounts. No topical or injectable formulation is marketed. The high score is a graph-based prediction, not a signal backed by clinical data.
 
----
+The other top-ranked predictions look similar: all nine are L5 and Hold, and several appear to be graph artifacts, such as botulism and candidiasis. One retrieved reference (PMID 31634096, a general hospital medicine literature update) was linked to the *S. aureus* pneumonia prediction, not to SSSS. It does not appear to provide fidaxomicin-specific evidence for that indication, though the full text was not reviewed.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-Fidaxomicin currently holds no active license records in this dataset (0 NDAs; market status: Not Marketed). No authorization details are available to tabulate.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA201699 | Dificid (Merck Sharp & Dohme LLC) | Film-coated tablet | Not listed in source data |
+| NDA213138 | DIFICID (Merck Sharp & Dohme LLC) | Granule for suspension | Not listed in source data |
+| ANDA219559 | Fidaxomicin (Apotex Corp.) | Film-coated tablet | Not listed in source data |
+| ANDA208443 | Fidaxomicin (Teva Pharmaceuticals, Inc.) | Film-coated tablet | Not listed in source data |
+| ANDA220374 | Fidaxomicin (Torrent Pharmaceuticals Limited) | Film-coated tablet | Not listed in source data |
 
----
+All marketed forms are oral. No topical or injectable product exists.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
----
+Please refer to the package insert for safety information. No drug interaction records were found.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high, but there are zero clinical trials and zero publications supporting this specific indication (Evidence Level L5), and the evidence pack's own mechanistic analysis argues that fidaxomicin's negligible systemic absorption makes it pharmacologically unsuited to a toxin-mediated, exposure-dependent skin condition like SSSS. This is a low-confidence, model-only signal.
+The prediction has no clinical trials or literature behind it (L5), and fidaxomicin's minimal oral absorption makes it pharmacologically unlikely to treat a toxin-mediated skin disease that needs systemic therapy. Established standard treatments already exist for SSSS.
 
 **To proceed, the following is needed:**
-- Verified mechanism-of-action and pharmacokinetic data (systemic/dermal exposure levels) from DrugBank or primary literature
-- TFDA/FDA labeling data (warnings, contraindications) — currently a blocking data gap
-- Any preclinical or in-vitro data specifically testing fidaxomicin activity in toxin-mediated staphylococcal skin disease, given the mechanistic contradiction identified above
+- Package insert warnings and contraindications (needed before any safety screening)
+- Detailed mechanism of action data (DrugBank)
+- In vitro susceptibility data for fidaxomicin against SSSS-causing *S. aureus* strains
+- Evidence that a formulation or route could deliver adequate systemic or skin exposure
+- Any preclinical or clinical study of fidaxomicin in staphylococcal skin or toxin-mediated disease
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Methionine
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 908
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Methionine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,80 +29,76 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Methionine: From No Established Indication to Acne (disease)
+# Methionine: From an Amino Acid Supplement (No Listed Indication) to Acne
 
 ## One-Sentence Summary
 
-Methionine (DrugBank DB00134) has no recorded original indication or marketing authorization in this dataset — it is currently **not marketed** and no license records exist. TxGNN predicts potential efficacy for **Acne (disease)**, but this prediction is currently backed only by the model score, with **0 clinical trials** and **4 loosely related publications**, none of which establish a mechanistic or clinical link to acne.
-
----
+Methionine is an essential sulfur-containing amino acid, marketed in the US as liquid supplement products, and the regulatory data lists no approved indication.
+The TxGNN model predicts it may be effective for **Acne**, but there are **0 clinical trials** and only **4 publications**, none of which tests methionine as an acne treatment.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | No data available — drug not marketed, no license records on file |
+| Original Indication | Not listed in the regulatory data |
 | Predicted New Indication | Acne (disease) |
 | TxGNN Prediction Score | 99.9996% |
-| Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L4 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for methionine is not available in this evidence pack, and no original approved indication is on record to anchor a mechanistic comparison against acne.
+Currently, detailed mechanism of action data is not available. Methionine is a building block for proteins and a precursor in one-carbon metabolism (homocysteine, cysteine and glutathione). No approved original indication is recorded, so there is no established efficacy to extend to acne.
 
-Reviewing the supporting literature, none of the four retrieved papers actually connect methionine to acne treatment. One paper reports elevated plasma homocysteine (a downstream metabolite of methionine metabolism) in patients undergoing **isotretinoin** therapy for cystic acne — this is an adverse-effect biomarker of a different drug's toxicity profile, not evidence that methionine treats acne. A second paper concerns an MTHFR mutation causing neonatal encephalopathy (with "neonatal acne" as an incidental clinical feature, unrelated to methionine therapy). The remaining two papers discuss neutrophil chemotactic function and Sweet's syndrome chemoattractants in inflammatory skin disease generally, sharing no direct link to methionine or acne pathophysiology.
+The only link to acne is indirect. One cohort study found elevated plasma homocysteine in patients taking isotretinoin for cystic acne. That observation concerns a drug side effect and does not test methionine as a treatment. The other three papers cover an MTHFR mutation case, neutrophil chemotaxis in inflammatory skin disease, and Sweet's syndrome. They are not relevant to acne therapy.
 
-In short, this prediction is currently supported only by the TxGNN model's ranking score. No mechanistic rationale or clinical signal in the retrieved evidence corroborates a therapeutic role for methionine in acne.
+The TxGNN score is near 1.0 for many candidates and does not discriminate between them. It should not be read as clinical support. Because methionine can raise homocysteine, this direction also carries a possible safety concern.
 
----
+For context, the other top predictions are mostly cataract subtypes plus severe nonproliferative diabetic retinopathy. Diabetic cataract has the most plausible mechanism (methionine sulfoxide reductase and homocysteine biology), but that evidence is preclinical or review-level.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [11277950](https://pubmed.ncbi.nlm.nih.gov/11277950/) | 2001 | Cohort | International Journal of Dermatology | Elevated plasma homocysteine (a methionine metabolite) observed in cystic acne patients on isotretinoin — reflects a drug side-effect biomarker, not a methionine treatment effect |
-| [39357918](https://pubmed.ncbi.nlm.nih.gov/39357918/) | 2024 | Case Report | BMJ Case Reports | Neonate with MTHFR mutation presenting with encephalopathy; neonatal acne noted as an incidental dysmorphic feature, unrelated to methionine therapy |
-| [3161955](https://pubmed.ncbi.nlm.nih.gov/3161955/) | 1985 | Basic Research | Journal of Investigative Dermatology | Neutrophil C5a chemotactic function studied across several inflammatory skin diseases including acne conglobata; no methionine involvement |
-| [3859500](https://pubmed.ncbi.nlm.nih.gov/3859500/) | 1985 | Basic Research | Journal of the American Academy of Dermatology | Plasma chemoattractant activity in a Sweet's syndrome patient with cystonodular acne; no methionine involvement |
-
----
+| [11277950](https://pubmed.ncbi.nlm.nih.gov/11277950/) | 2001 | Cohort | Int J Dermatol | Plasma homocysteine was elevated in patients on isotretinoin for cystic acne. Methionine was not tested as a treatment. |
+| [39357918](https://pubmed.ncbi.nlm.nih.gov/39357918/) | 2024 | Case report | BMJ Case Reports | Neonate with a novel MTHFR mutation, encephalopathy, hair loss and neonatal acne. Not relevant to acne therapy. |
+| [3161955](https://pubmed.ncbi.nlm.nih.gov/3161955/) | 1985 | Lab/observational | J Invest Dermatol | Neutrophil C5a-specific function was transiently absent in inflammatory skin disorders, including acne conglobata. Not related to methionine. |
+| [3859500](https://pubmed.ncbi.nlm.nih.gov/3859500/) | 1985 | Case report/lab | J Am Acad Dermatol | Increased plasma chemoattractant in a patient with Sweet's syndrome and cystonodular acne. Not related to methionine. |
 
 ## US Market Information
 
-Methionine holds no marketing authorization on record in this dataset (market status: Not Marketed; 0 licenses).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Not available | L-Methionine High | Liquid | Not listed |
+| Not available | L-Methionine | Liquid | Not listed |
 
----
+Both products are made by Professional Complementary Health Formulas.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The Acne (disease) prediction is supported only by the TxGNN score — there are no clinical trials, and none of the four available publications provide a mechanistic or clinical basis linking methionine to acne. Combined with the absence of MOA and safety data, there is insufficient evidence to advance this indication.
+The prediction rests on the model score alone. There are no trials, and the only acne-related human data is an observation of raised homocysteine on isotretinoin, which does not support methionine as a treatment. Safety data is also missing, and methionine's effect on homocysteine adds a possible concern.
 
 **To proceed, the following is needed:**
-- TFDA/FDA label warnings and contraindications (currently blocking — required before any S1 safety review)
-- Methionine's mechanism of action (currently a data gap; needed to assess biological plausibility)
-- Original, real-world dosing/indication context, since no license or original-indication data exists in this dataset
-- Dedicated preclinical or clinical studies directly testing methionine in acne, rather than incidental literature mentions
-- *Separately worth noting*: among this drug's 10 predicted indications, **diabetic cataract** (rank 10) shows materially stronger, methionine-specific mechanistic evidence (MsrB1/S-adenosylmethionine pathway in lens oxidative defense) and was flagged at decision stage S1 ("Research Question") — it may merit independent follow-up ahead of the acne candidate.
+- Package insert warnings and contraindications, which block any safety screening
+- Mechanism of action data (for example from DrugBank)
+- Evidence that links methionine or one-carbon metabolism to acne, such as preclinical or observational studies
+- A homocysteine safety assessment before any clinical test
+- A comparison with the diabetic cataract direction, which has a more plausible mechanistic thread, when deciding where to focus
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -33,69 +33,64 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 ## One-Sentence Summary
 
-> Tildrakizumab is an anti-IL-23p19 monoclonal antibody originally approved for plaque psoriasis.
-> The TxGNN model predicts it may be effective for **Severe Nonproliferative Diabetic Retinopathy**,
-> but currently **no clinical trials** and **no publications** support this direction — this is a model-only prediction (L5).
-
----
+Tildrakizumab (brand name ILUMYA) is an anti-IL-23 p19 monoclonal antibody marketed in the US. Its approved-indication text is blank in the Evidence Pack, so the plaque psoriasis indication in the title comes from public labeling, not from the pack.
+The TxGNN model predicts it may be effective for **severe nonproliferative diabetic retinopathy**, but there are **0 clinical trials** and **0 publications** for this drug-disease pair.
+The prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Plaque psoriasis (drawn from mechanism-of-action context; no formal license record on file) |
-| Predicted New Indication | Severe Nonproliferative Diabetic Retinopathy |
+|------|------|
+| Original Indication | Not provided in the Evidence Pack (the license's approved indication text is empty). Plaque psoriasis per public labeling, not verified against the pack. |
+| Predicted New Indication | Severe nonproliferative diabetic retinopathy |
 | TxGNN Prediction Score | 99.63% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 (BLA761067) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Formal mechanism-of-action data for Tildrakizumab is not available in the structured drug record. Based on the evidence gathered in this analysis, however, Tildrakizumab is known to be an anti-IL-23p19 monoclonal antibody that suppresses the Th17 inflammatory pathway, and it is approved for plaque psoriasis.
+Detailed mechanism-of-action data is not available in the Evidence Pack. Tildrakizumab is known to be an anti-IL-23 p19 monoclonal antibody, so it blocks the IL-23/IL-17 inflammatory axis. The pack lists no original indications, so the graph-based rationale cannot be cross-checked against them.
 
-Because IL-23/Th17 signaling has a theoretical role in inflammatory microvascular pathology, TxGNN's knowledge graph links the drug to several diabetes-related complications — severe nonproliferative diabetic retinopathy, diabetic retinopathy, diabetic cataract, and drug-induced osteoporosis. Of these four, drug-induced osteoporosis has the most defensible biological rationale (Th17/IL-23 can drive RANKL-mediated osteoclast activation, an established osteoimmunology pathway), while the retinopathy and cataract predictions appear to rely on indirect "inflammation–vascular disease" node adjacency in the graph rather than drug-specific mechanistic evidence.
+The hypothesis is that low-grade inflammation and cytokine signaling, including IL-17-related pathways, contribute to microvascular damage in the diabetic retina. Blocking IL-23 could therefore be relevant. A direct role for IL-23 blockade in diabetic retinopathy has not been established.
 
-No pharmacokinetic data confirm whether a systemically administered monoclonal antibody achieves meaningful intraocular penetration, and no clinical trials or literature currently support any of these four indications. All four should be treated as hypothesis-generating signals only, not as evidence-backed repurposing candidates.
-
----
+There are also practical concerns. Tildrakizumab is a large antibody given systemically, and no data on ocular delivery or retinal penetration were provided. The high TxGNN score is a model output, not evidence of efficacy or safety.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| BLA 761067 | ILUMYA (Sun Pharmaceutical Industries, Inc.) | Injection, solution | Not provided in the source data |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-*(Note: internal data gap tracking flags TFDA label warnings/contraindications as a **Blocking** gap — this must be resolved before any safety review can proceed.)*
-
----
+Please refer to the package insert for safety information. The Evidence Pack contains no warnings or contraindications, and the drug-interaction query returned no results.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All four TxGNN-predicted indications (including the top-ranked severe nonproliferative diabetic retinopathy) are supported only by model score, with zero clinical trials or literature and no confirmed MOA/safety documentation. This does not meet the minimum evidence threshold to advance past S0.
+The prediction is supported only by the TxGNN score (L5), with no registered trials or retrieved literature. The mechanistic link is speculative, and ocular delivery of a systemic antibody is unaddressed.
+Other predicted indications (diabetic retinopathy, diabetic cataract, drug-induced osteoporosis) are also L5 and on Hold. The diabetic cataract prediction has no plausible mechanistic path.
 
 **To proceed, the following is needed:**
-- Formal TFDA/manufacturer label data — warnings, contraindications (Blocking gap, DG001)
-- Confirmed mechanism-of-action documentation (DG002)
-- Preclinical or mechanistic literature specifically linking IL-23 inhibition to diabetic retinopathy, diabetic cataract, and drug-induced osteoporosis
-- Ocular pharmacokinetics/bioavailability assessment for systemic monoclonal antibody administration
-- If evidence accrues, prioritize the drug-induced osteoporosis indication given its comparatively stronger osteoimmunology rationale
+- The FDA package insert (warnings, contraindications, approved indications), which is a blocking gap for safety screening
+- Mechanism-of-action data from DrugBank
+- Preclinical or clinical evidence that IL-23/IL-17 inhibition affects diabetic retinopathy
+- Data on retinal exposure or an ocular delivery strategy
+- A literature and trial search for the drug-disease pair
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

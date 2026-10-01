@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Phenoxybenzamine: From Pheochromocytoma to Primary Hereditary Glaucoma
+# Phenoxybenzamine: From an Alpha-Blocker (Original Indication Not Recorded) to Primary Hereditary Glaucoma
 
 ## One-Sentence Summary
 
-> Phenoxybenzamine is a non-selective, irreversible α-adrenergic receptor antagonist, historically used for pheochromocytoma preoperative management and neurogenic bladder dysfunction.
-> The TxGNN model predicts it may be effective for **Primary Hereditary Glaucoma**,
-> but currently **no clinical trials** and **no publications** support this direction — this is a model-prediction-only signal.
+Phenoxybenzamine is an oral capsule marketed in the US and generally described as an irreversible, non-selective alpha-adrenergic antagonist. The record has no approved indication text for it.
+The TxGNN model predicts it may be useful for **primary hereditary glaucoma** (and, as a second prediction, **open-angle glaucoma**).
+There are currently **0 clinical trials** and **0 publications** supporting this direction, so this is a model prediction only.
 
 ---
 
@@ -43,49 +43,57 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no original indications recorded) |
-| Predicted New Indication | Primary Hereditary Glaucoma |
+| Original Indication | Not recorded (all US license entries have empty indication text) |
+| Predicted New Indication | Primary hereditary glaucoma |
 | TxGNN Prediction Score | 99.55% |
 | Evidence Level | L5 |
-| US Market Status | Not marketed (Not marketed) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 5 (all listed as ANDA generic applications) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known pharmacology, phenoxybenzamine is a non-selective, irreversible α-adrenergic receptor antagonist, clinically used for pheochromocytoma preoperative blood pressure control and neurogenic voiding dysfunction.
+Currently, detailed mechanism of action data is not available in the input. Phenoxybenzamine is generally described as an irreversible, non-selective alpha-adrenergic antagonist. Adrenergic modulation could plausibly affect aqueous humor dynamics (production or outflow), which is the link the model may be exploiting. This mechanistic link has not been verified against retrieved evidence.
 
-Primary hereditary glaucoma (largely infantile/congenital glaucoma) is pathologically driven by trabecular meshwork developmental abnormalities (e.g., CYP1B1 mutations), which has no established mechanistic link to α-adrenergic signaling. The TxGNN high score here appears to reflect knowledge-graph topological similarity rather than a genuine pharmacological relationship.
+For **primary hereditary glaucoma**, the fit is unclear. This form is often driven by developmental or structural defects of the outflow pathway (for example, genes such as *CYP1B1* or *MYOC*), and alpha-blockade would not obviously correct such defects. The high graph score (99.55%) alone is not evidence of efficacy.
 
-Notably, phenoxybenzamine's known mydriatic (pupil-dilating) side effect could theoretically precipitate or worsen angle-closure pathology, meaning the mechanistic direction may actually work against, rather than for, this indication. This directional inconsistency further weakens the plausibility of the prediction.
+The second prediction, **open-angle glaucoma** (score 99.48%), is a more coherent hypothesis. Alpha-adrenergic antagonism could lower intraocular pressure through effects on aqueous production or outflow. It is still unverified. A targeted literature search on alpha-blocker effects on intraocular pressure is needed before either prediction advances.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
 ---
 
 ## US Market Information
 
-No NDA/license records available — this drug is not currently marketed in the reference regulatory database (Not marketed, 0 licenses).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA212568 | Phenoxybenzamine hydrochloride (Amneal Pharmaceuticals NY LLC) | Capsule | Not provided |
+| ANDA215042 | Phenoxybenzamine Hydrochloride (Novitium Pharma LLC) | Capsule | Not provided |
+| ANDA215600 | Phenoxybenzamine Hydrochloride (Aurobindo Pharma Limited) | Capsule | Not provided |
+| ANDA215600 | Phenoxybenzamine Hydrochloride (Burel Pharmaceuticals, LLC) | Capsule | Not provided |
+| ANDA215600 | Phenoxybenzamine Hydrochloride (NorthStar Rx LLC) | Capsule | Not provided |
+
+All marketed products are oral capsules. No ophthalmic formulation is listed.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No drug-interaction records were found for this drug.
 
-*(Note: TFDA label warnings/contraindications are currently a blocking data gap (DG001) and DDI data was not found — these must be resolved before any safety evaluation can proceed.)*
+Systemic hypotension is a known class concern for alpha-blockers. It would need review before any ocular use, especially since only an oral systemic form is marketed.
 
 ---
 
@@ -94,14 +102,17 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-This candidate has zero clinical trials, zero literature support, and no verified mechanistic rationale connecting the drug's α-adrenergic antagonism to hereditary glaucoma pathophysiology — it is L5, model-prediction-only evidence, and the drug's known mydriatic effect raises a plausible safety concern (risk of angle closure) rather than supporting the indication.
+The prediction rests on model score alone (Evidence Level L5). There are no supporting trials or publications, and the mechanistic fit is weak for hereditary glaucoma and only plausible for open-angle glaucoma. Package-insert safety data are also missing, which blocks safety screening.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (DG001 — currently blocking; required before S1 safety review)
-- Confirmed mechanism of action data (DG002)
-- Preclinical or mechanistic studies establishing a credible link between α-adrenergic blockade and hereditary glaucoma pathology
-- At minimum, case reports or observational data before considering any further evaluation
-- Given the directional conflict (mydriasis risk in angle-closure-prone eyes), an ophthalmology safety assessment specifically addressing IOP/angle-closure risk
+- Package insert warnings and contraindications from the FDA label (currently blocking)
+- Detailed mechanism of action data (for example, from DrugBank)
+- Targeted literature search on alpha-blocker effects on intraocular pressure and aqueous humor dynamics
+- Review of systemic hypotension risk for an eye indication
+- Assessment of route compatibility, since only an oral capsule is available and no ophthalmic formulation exists
+- Prioritizing open-angle glaucoma over hereditary glaucoma for any follow-up evaluation
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

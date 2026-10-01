@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Idelalisib
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 787
-evidence_level: L2
+evidence_level: L5
 indication_count: 10
 ---
 
 # Idelalisib
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,11 +29,13 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# IDELALISIB: From B-cell Hematologic Malignancies to Mantle Cell Lymphoma
+# Idelalisib: From Relapsed CLL and Follicular Lymphoma to Mantle Cell Lymphoma
 
 ## One-Sentence Summary
 
-Idelalisib is a selective PI3Kδ inhibitor originally developed for B-cell hematologic malignancies such as chronic lymphocytic leukemia (CLL), follicular lymphoma, and small lymphocytic lymphoma (SLL), based on literature evidence in this dataset (structured license/indication fields are not populated for this jurisdiction). The TxGNN model predicts it may also be effective for **Mantle Cell Lymphoma (MCL)**, with **9 clinical trials** and **19 publications** currently supporting this direction, though the strongest single trial in this set (NCT01796470) was terminated.
+Idelalisib (Zydelig) is an oral PI3K-delta inhibitor. Published reviews describe it as originally approved in the US for relapsed chronic lymphocytic leukemia (CLL), follicular lymphoma and small lymphocytic lymphoma (SLL).
+The TxGNN model predicts it may be effective for **mantle cell lymphoma (MCL)**.
+Support is early-stage only: **9 clinical trials** (mostly Phase 1) and **20 publications**, largely reviews and preclinical work.
 
 ---
 
@@ -41,23 +43,26 @@ Idelalisib is a selective PI3Kδ inhibitor originally developed for B-cell hemat
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in structured license data (0 licenses on file); literature evidence in this pack consistently describes idelalisib (Zydelig®) as approved for relapsed CLL, follicular lymphoma, and SLL |
-| Predicted New Indication | Mantle Cell Lymphoma |
+| Original Indication | Relapsed CLL, follicular lymphoma, SLL (from published literature; the US label text was not supplied) |
+| Predicted New Indication | Mantle cell lymphoma |
 | TxGNN Prediction Score | 99.84% |
-| Evidence Level | L2 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
-| Recommended Decision | Research Question |
+| Evidence Level | L3 (the pack lists L2, but the supplied MCL trials are registered as Phase 1 only, so I rated conservatively) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 records (both NDA205858) |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, a structured mechanism-of-action record is not available for this drug (data gap DG002). Based on evidence within the literature corpus, idelalisib is a first-in-class, orally administered, selective inhibitor of the delta isoform of phosphatidylinositol 3-kinase (PI3Kδ). PI3Kδ is expressed predominantly in hematopoietic cells and sits downstream of the B-cell receptor (BCR), where it drives proliferation and survival signaling in B-cell malignancies.
+Detailed mechanism-of-action data is not available in the Evidence Pack. From general knowledge, idelalisib selectively blocks the delta isoform of PI3K. This isoform sits in the B-cell receptor signaling pathway that many B-cell cancers depend on for survival and growth.
 
-Idelalisib's established efficacy in CLL, follicular lymphoma, and SLL stems from blocking this BCR/PI3Kδ survival pathway, which is broadly active across B-cell derived neoplasms — including MCL. This provides a plausible mechanistic bridge to MCL, since MCL is also a B-cell lymphoproliferative disorder in which PI3K pathway activation contributes to pathogenesis (as reflected in several of the MCL-specific publications below).
+CLL, follicular lymphoma and MCL are all B-cell malignancies. Idelalisib's activity in the first two makes its use in MCL biologically plausible. Preclinical papers support this: idelalisib inhibits translation-regulatory signaling in MCL cells (PMID 27342398). Other studies show MCL cells can resist idelalisib, and that a p300/CBP inhibitor or propolis can restore sensitivity (PMIDs 33850273, 40466505). A 2014 Phase 1 study in relapsed/refractory MCL exists (PMID 24615778), and a commentary describes activity in heavily pretreated patients (PMID 24795031).
 
-However, the mechanistic case for MCL specifically is weaker than for CLL/iNHL: MCL's clinical response has historically been driven more strongly by BTK inhibition (e.g., ibrutinib) than by PI3Kδ inhibition, and idelalisib has shown intrinsic resistance in MCL in some preclinical models. The most directly relevant combination trial in this indication (NCT01796470, entospletinib + idelalisib) was terminated, while the strongest positive signal comes from a smaller Phase 1/randomized Phase 2 study of idelalisib + lenalidomide (NCT01838434) specifically in relapsed/refractory MCL.
+Important caveats:
+- No Phase 3 trial or MCL approval appears in the supplied data.
+- BTK inhibitors are established alternatives.
+- The supplied literature notes that safety problems reduced the drug's use. A 2023 review reports Gilead voluntarily withdrew the follicular lymphoma and SLL accelerated-approval indication in 2022 (PMID 36939665).
 
 ---
 
@@ -65,73 +70,84 @@ However, the mechanistic case for MCL specifically is weaker than for CLL/iNHL: 
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT01838434](https://clinicaltrials.gov/study/NCT01838434) | Phase 1 / Randomized Phase 2 | Completed | 106 | Idelalisib + lenalidomide in relapsed/refractory MCL — direct, most relevant trial for this population |
-| [NCT01088048](https://clinicaltrials.gov/study/NCT01088048) | Phase 1 | Completed | 241 | Safety of idelalisib combined with anti-CD20 mAb, chemotherapy, or other agents in relapsed indolent NHL, MCL, or CLL |
-| [NCT01796470](https://clinicaltrials.gov/study/NCT01796470) | Phase 2 | Terminated | 66 | Entospletinib + idelalisib in relapsed/refractory hematologic malignancies incl. MCL; terminated |
-| [NCT02603445](https://clinicaltrials.gov/study/NCT02603445) | Phase 1b | Completed | 20 | BCL201 + idelalisib safety/tolerability in follicular lymphoma and MCL |
-| [NCT03151057](https://clinicaltrials.gov/study/NCT03151057) | Phase 1 | Terminated | 16 | Idelalisib as post-allogeneic HSCT maintenance in B-cell derived malignancies |
-| [NCT02824159](https://clinicaltrials.gov/study/NCT02824159) | N/A | Completed | 121 | Real-world association of idelalisib/ibrutinib plasma concentration with side effects in hematologic malignancies including MCL |
-| [NCT02457598](https://clinicaltrials.gov/study/NCT02457598) | Phase 1 | Terminated | 203 | Tirabrutinib combined with targeted anti-cancer therapies in relapsed/refractory B-cell lymphoproliferative malignancies |
-| [NCT03740529](https://clinicaltrials.gov/study/NCT03740529) | Phase 1/2 | Completed | 803 | Oral pirtobrutinib in CLL/SLL/NHL; idelalisib not the study drug, indirect relevance |
-| [NCT04985214](https://clinicaltrials.gov/study/NCT04985214) | N/A | Unknown | 464 | Quality-of-life assessment of lymphoma patients treated with oral therapies including idelalisib |
+| [NCT01838434](https://clinicaltrials.gov/study/NCT01838434) | Phase 1 (registered; the title describes a Phase I/randomized Phase II) | Completed | 106 | Idelalisib + lenalidomide vs lenalidomide alone in relapsed/refractory MCL. This is the most direct trial, and no results are in the pack. |
+| [NCT01088048](https://clinicaltrials.gov/study/NCT01088048) | Phase 1 | Completed | 241 | Safety of idelalisib combined with chemotherapy, immunomodulators or anti-CD20 antibody in relapsed B-cell NHL, MCL or CLL. MCL cohort size is not confirmed. |
+| [NCT02603445](https://clinicaltrials.gov/study/NCT02603445) | Phase 1 | Completed | 20 | BCL201 + idelalisib in follicular lymphoma and MCL. A small dose-escalation safety study. |
+| [NCT02457598](https://clinicaltrials.gov/study/NCT02457598) | Phase 1 | Terminated | 203 | Tirabrutinib with other targeted agents (including idelalisib) in B-cell malignancies. Limited efficacy information. |
+| [NCT01796470](https://clinicaltrials.gov/study/NCT01796470) | Phase 2 | Terminated | 66 | Entospletinib + idelalisib in relapsed/refractory hematologic malignancies (CLL, MCL, DLBCL, iNHL). |
+| [NCT03151057](https://clinicaltrials.gov/study/NCT03151057) | Phase 1 | Terminated | 16 | Idelalisib maintenance after allogeneic transplant in B-cell malignancies. Safety-focused, weak evidence. |
+| [NCT03740529](https://clinicaltrials.gov/study/NCT03740529) | Phase 1/2 | Completed | 803 | Pirtobrutinib in CLL/SLL/NHL. Idelalisib is likely prior therapy only, so this is not evidence for idelalisib. |
+| [NCT02824159](https://clinicaltrials.gov/study/NCT02824159) | N/A (observational) | Completed | 121 | Side effects vs plasma concentrations of ibrutinib and idelalisib. Safety and PK context only. |
+| [NCT04985214](https://clinicaltrials.gov/study/NCT04985214) | N/A (observational) | Unknown | 464 | Quality of life with oral lymphoma therapies. No efficacy data. |
 
 ---
 
 ## Literature Evidence
 
+No randomized controlled trials were found for this indication.
+
 | PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [24795031](https://pubmed.ncbi.nlm.nih.gov/24795031/) | 2014 | Review (Tier 1) | Cancer Discovery | The PI3Kδ inhibitor idelalisib was effective in heavily pretreated patients with MCL |
-| [24615778](https://pubmed.ncbi.nlm.nih.gov/24615778/) | 2014 | Phase 1 clinical study | Blood | Phase 1 study of idelalisib (50–350 mg) in 40 patients with relapsed/refractory MCL; evaluated safety, DLT, ORR, PFS |
-| [27342398](https://pubmed.ncbi.nlm.nih.gov/27342398/) | 2017 | Cohort (Tier 2) | Clin Cancer Res | Idelalisib impacts MCL cell growth by disrupting translation-regulatory mechanisms |
-| [33850273](https://pubmed.ncbi.nlm.nih.gov/33850273/) | 2022 | Review (Tier 2) | Acta Pharmacol Sin | P300/CBP inhibition sensitizes MCL to idelalisib, overcoming intrinsic resistance |
-| [40466505](https://pubmed.ncbi.nlm.nih.gov/40466505/) | 2025 | Review (Tier 2) | Phytomedicine | CBX5 loss drives PI3Kδ inhibitor resistance in MCL; propolis restores sensitivity |
-| [38815797](https://pubmed.ncbi.nlm.nih.gov/38815797/) | 2024 | — | Cancer Letters | Idelalisib enhances anti-tumor effects of CDK4/6 inhibitor palbociclib via PLK1 in B-cell lymphoma incl. MCL |
-| [22361516](https://pubmed.ncbi.nlm.nih.gov/22361516/) | 2012 | — | Oncotarget | Novel targeted therapies for MCL, including PI3K/Akt pathway inhibition |
-| [24974852](https://pubmed.ncbi.nlm.nih.gov/24974852/) | 2014 | — | Br J Haematol | Current regimens and novel agents for MCL |
-| [23512567](https://pubmed.ncbi.nlm.nih.gov/23512567/) | 2013 | — | Curr Treat Options Oncol | Current and emerging therapies in MCL |
-| [26360791](https://pubmed.ncbi.nlm.nih.gov/26360791/) | 2015 | — | Expert Opin Pharmacother | Overview of standard and novel treatment options for MCL |
+|------|-----|------|---------|---------|
+| [24615778](https://pubmed.ncbi.nlm.nih.gov/24615778/) | 2014 | Phase 1 study | Blood | 48-week dose-escalation study of idelalisib in 40 patients with relapsed/refractory MCL. It assessed safety, dose-limiting toxicity, response and progression-free survival. |
+| [24795031](https://pubmed.ncbi.nlm.nih.gov/24795031/) | 2014 | Commentary | Cancer Discovery | Describes idelalisib as effective in heavily pretreated MCL patients. |
+| [28775119](https://pubmed.ncbi.nlm.nih.gov/28775119/) | 2017 | Review | Haematologica | Incidence and management of ibrutinib and idelalisib toxicity in indolent B-cell malignancies, including MCL. |
+| [24974852](https://pubmed.ncbi.nlm.nih.gov/24974852/) | 2014 | Review | Br J Haematol | Current regimens and novel agents in MCL. The disease remains incurable. |
+| [28295729](https://pubmed.ncbi.nlm.nih.gov/28295729/) | 2017 | Review | J Intern Med | B-cell receptor pathway inhibitors (BTK, PI3K and others) in B-cell malignancies. |
+| [26637705](https://pubmed.ncbi.nlm.nih.gov/26637705/) | 2015 | Review | Hematology ASH Educ Program | BCR-pathway modulators in NHL, including combinations with chemotherapy and antibodies. |
+| [27342398](https://pubmed.ncbi.nlm.nih.gov/27342398/) | 2017 | Preclinical | Clin Cancer Res | Idelalisib impairs cell growth in MCL by inhibiting translation-regulatory mechanisms. |
+| [33850273](https://pubmed.ncbi.nlm.nih.gov/33850273/) | 2022 | Preclinical | Acta Pharmacol Sin | MCL shows intrinsic resistance to idelalisib. The p300/CBP inhibitor A-485 overcomes it in vitro and in vivo. |
+| [38815797](https://pubmed.ncbi.nlm.nih.gov/38815797/) | 2024 | Preclinical | Cancer Lett | Idelalisib enhances the anti-tumor effect of palbociclib via PLK1 in B-cell lymphoma (DLBCL and MCL). |
+| [40466505](https://pubmed.ncbi.nlm.nih.gov/40466505/) | 2025 | Preclinical | Phytomedicine | CBX5 loss drives PI3K-delta inhibitor resistance in MCL. Propolis restores sensitivity through ferroptosis. |
 
 ---
 
 ## US Market Information
 
-Idelalisib currently holds **no active marketing authorization on file** in this dataset — 0 licenses recorded and market status "Not Marketed." No product/dosage-form/indication records are available to tabulate.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA205858 | Zydelig | Tablet, film coated (oral) | Gilead Sciences, Inc. |
+
+The pack lists two identical records under this NDA, shown once here. Approved-indication text was not supplied.
 
 ---
 
 ## Cytotoxicity
 
-Idelalisib is an antineoplastic agent (oncology indication class evident throughout the literature evidence — CLL, SLL, follicular lymphoma, MCL), so this section applies.
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy — selective PI3Kδ (phosphatidylinositol 3-kinase delta) inhibitor, not a conventional cytotoxic agent |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Standard monitoring for this drug class as referenced in the literature includes CBC with differential, liver function tests, and infection surveillance; specific institutional protocols should follow the package insert |
-| Handling Protection | Please refer to the package insert warnings and precautions |
+| Cytotoxicity Classification | Targeted therapy (PI3K-delta kinase inhibitor), not a conventional cytotoxic |
+| Myelosuppression Risk | Medium (neutropenia is a recognized effect of this class; no toxicity data supplied, so confirm against the package insert) |
+| Emetogenicity Classification | Low |
+| Monitoring Items | CBC with differential, liver enzymes and bilirubin, renal function, and clinical monitoring for diarrhea/colitis, cough or dyspnea (pneumonitis), and infection |
+| Handling Protection | Follow the institution's hazardous-drug handling policy for oral antineoplastics |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+The package insert warnings, contraindications and interaction data were not available in the Evidence Pack. Please refer to the package insert. The supplied evidence flags the following class toxicities:
+
+- **Serious toxicities:** hepatotoxicity, severe diarrhea/colitis, pneumonitis, serious infections and intestinal perforation.
+- **Excess deaths in earlier-line use:** trials in front-line CLL and early-line indolent NHL noted an increased rate of deaths and serious adverse events with idelalisib plus standard therapies. Several Phase 3 studies were terminated as a result.
+- **Colitis:** a dedicated mechanism study of idelalisib-associated colitis was registered (NCT02928510).
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Research Question**
+**Decision: Hold**
 
 **Rationale:**
-The mechanistic rationale (PI3Kδ/BCR pathway relevance to B-cell malignancies) is plausible for MCL, and one directly relevant Phase 1/randomized Phase 2 trial (NCT01838434) was completed, supporting an L2 evidence level. However, the most disease-specific combination trial (NCT01796470) was terminated, and MCL's clinical dependency is more strongly tied to BTK than PI3Kδ inhibition, so the signal is not yet strong enough for a Go or Guardrails decision.
+The MCL prediction is mechanistically plausible, and there is a Phase 1 MCL study plus a randomized idelalisib + lenalidomide trial. However, no efficacy results, Phase 3 data or MCL approval are in the supplied data. BTK inhibitors already exist, and idelalisib carries serious, partly fatal class toxicities.
 
 **To proceed, the following is needed:**
-- TFDA/FDA label data (warnings, contraindications) to close data gap DG001 before any safety evaluation
-- DrugBank-confirmed mechanism of action to close data gap DG002
-- Detailed efficacy outcomes (ORR, PFS) from NCT01838434 and the completed Phase 1 study (PMID 24615778)
-- Clarification on why NCT01796470 was terminated (efficacy vs. safety vs. business reasons) before weighting it further
+- Results of NCT01838434 and the MCL cohorts of NCT01088048 (response rate, duration of response, progression-free survival, safety).
+- The US package insert (boxed warning, contraindications, interactions) and the current approval status of Zydelig.
+- Mechanism-of-action data from DrugBank.
+- A comparison against BTK inhibitors and other current MCL options, with a defined patient population (for example, post-BTK-inhibitor failure).
+- A safety monitoring plan (liver enzymes, colitis and pneumonitis surveillance, infection prophylaxis).
+
+*This report is for research reference only and does not constitute medical advice. Predicted indications require clinical validation.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

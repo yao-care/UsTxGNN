@@ -33,76 +33,63 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Amifampridine is a voltage-gated potassium channel (Kv1.1/Kv1.2) blocker originally approved for Lambert-Eaton Myasthenic Syndrome (LEMS), a rare autoimmune neuromuscular junction disorder.
-The TxGNN model predicts it may be effective for **Glaucoma**, however **no clinical trials or published literature** currently support this direction.
-This is a pure model-driven prediction (L5) with no empirical evidence yet available.
-
----
+Amifampridine is marketed in the US as Firdapse tablets. The Evidence Pack contains no approved indication text, but the drug is generally known for Lambert-Eaton myasthenic syndrome. The TxGNN model predicts it may be effective for **glaucoma**, but there are currently **0 clinical trials** and **0 publications** supporting this direction, so it remains a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Lambert-Eaton Myasthenic Syndrome (LEMS) |
+|------|------|
+| Original Indication | Not listed in the Evidence Pack (approved indication text is empty; Lambert-Eaton myasthenic syndrome is from general knowledge, not verified against the pack) |
 | Predicted New Indication | Glaucoma |
 | TxGNN Prediction Score | 99.71% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed (no license found in dataset) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known information, Amifampridine (DB11640) is a voltage-gated potassium channel blocker targeting Kv1.1 and Kv1.2 subtypes. By prolonging the neuronal action potential duration, it enhances calcium influx at the presynaptic terminal, thereby increasing acetylcholine release at the neuromuscular junction — the basis for its efficacy in LEMS.
+Currently, detailed mechanism of action data is not available in the Evidence Pack. Amifampridine is generally described as a voltage-gated potassium channel blocker. It prolongs presynaptic depolarization and increases acetylcholine release, which improves neuromuscular transmission.
 
-The mechanistic connection to glaucoma is indirect. Glaucoma-relevant potassium channels belong primarily to the inwardly rectifying Kir family (e.g., Kir4.1), which regulate aqueous humor secretion and retinal ganglion cell (RGC) homeostasis. These are a structurally and functionally distinct subfamily from the voltage-gated Kv channels that amifampridine blocks. There is early-stage research suggesting that certain Kv channel modulators may exert neuroprotective effects on RGCs under oxidative stress conditions, which likely forms the graph-level association that TxGNN detected. However, this remains a hypothetical pathway with no direct amifampridine-specific ocular data.
+That mechanism has no established link to intraocular pressure control or to protecting retinal ganglion cells, the main therapeutic goals in glaucoma. Any connection would be speculative. The high TxGNN score is a knowledge-graph output, not evidence, and the supplied data cannot verify the reasoning behind it.
 
-In summary, while the K⁺ channel biology provides a conceptual thread, the Kv↔Kir mechanistic bridge is unvalidated and the prediction is not currently supported by any preclinical, translational, or clinical evidence specific to amifampridine in ocular disease.
-
----
+A second prediction, acute intermittent porphyria (score 99.32%), is also prediction-only. Potassium channel blockade might at most act symptomatically on neuropathic weakness and would not address the underlying heme biosynthesis defect. Potassium channel blockers can also lower the seizure threshold, and seizures are a recognized complication of acute porphyric attacks. That would need specific safety review.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-No US NDA licenses were found for Amifampridine in the current dataset.
-
-> **Data note:** Amifampridine phosphate (Firdapse®) is known to have received FDA approval in November 2018 for the treatment of adults with Lambert-Eaton Myasthenic Syndrome. The absence of records here likely represents a data gap in the regulatory query rather than actual non-approval status. The package insert should be consulted for official labeling and safety information.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA208078 | Firdapse (Catalyst Pharmaceuticals, Inc.) | Tablet (oral) | Not listed in source data |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
 
----
+Amifampridine may lower the seizure threshold. This comes from the mechanism-based caution in the Evidence Pack's rationale for the porphyria prediction, not from label data.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This is a purely TxGNN model-driven prediction (Evidence Level L5) with zero supporting clinical trials, published literature, or preclinical ocular studies. The mechanistic link between Kv1.1/Kv1.2 blockade and glaucoma pathophysiology is indirect, relying on a Kv→neuroprotection→RGC hypothesis that has not been tested with amifampridine itself.
+The glaucoma prediction is supported only by the model score, with no trials, no literature, and no plausible established mechanistic link. Evidence is at L5, and the package insert safety data has not been obtained.
 
 **To proceed, the following is needed:**
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank, and the approved indication text
+- A literature and preclinical search for potassium channel blockers in glaucoma or retinal ganglion cell neuroprotection
+- Route compatibility assessment (oral tablet versus the routes glaucoma treatment would require)
+- Specific seizure-risk review before any consideration of the porphyria prediction
 
-- **Preclinical proof-of-concept**: In vitro or in vivo studies examining amifampridine's effect on intraocular pressure, aqueous humor dynamics, or RGC survival in glaucoma models
-- **Mechanistic clarification**: Whether Kv1.1/Kv1.2 blockade has any measurable effect on Kir4.1-mediated aqueous secretion or RGC excitotoxicity
-- **MOA data reconciliation**: Retrieve full DrugBank entry (remediation: DG002) and FDA package insert (remediation: DG001) to close the two blocking data gaps before advancing to safety evaluation (S1 gate)
-- **Route feasibility**: Assess whether systemic or topical ocular administration could achieve therapeutically relevant concentrations in the anterior chamber or retina
-- **Safety review**: Full DDI and contraindication profile must be established before any further scoring — both DG001 (key warnings/contraindications) and DG002 (MOA) are currently flagged as Blocking/High severity data gaps
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,60 +29,91 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Minocycline: From Antibacterial Therapy to Punctate Epithelial Keratoconjunctivitis
+# Minocycline: From Tetracycline Antibiotic to Punctate Epithelial Keratoconjunctivitis
 
 ## One-Sentence Summary
 
-Minocycline is a tetracycline-class antibiotic; the evidence pack does not contain a specific approved original indication or detailed mechanism-of-action record for this jurisdiction. The TxGNN model predicts potential efficacy for **Punctate Epithelial Keratoconjunctivitis**, but this prediction is currently supported by **0 clinical trials** and **0 publications** — it rests entirely on knowledge-graph similarity and class-effect reasoning from a related drug (doxycycline).
+Minocycline is a tetracycline-class antibiotic marketed in the US as oral capsules, tablets and extended-release tablets, plus a topical foam.
+The TxGNN model predicts it may be effective for **punctate epithelial keratoconjunctivitis**, but this rests on a computational prediction alone.
+There are currently **0 clinical trials** and **0 publications** supporting this direction.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no marketed license records on file |
-| Predicted New Indication | Punctate Epithelial Keratoconjunctivitis |
+| Original Indication | Not listed in the supplied US license records (minocycline is a tetracycline-class antibiotic) |
+| Predicted New Indication | Punctate epithelial keratoconjunctivitis |
 | TxGNN Prediction Score | 99.63% |
 | Evidence Level | L5 |
-| US Market Status | ✗ Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for minocycline is not available in this evidence pack, and no approved original indication is on file (the drug is not currently marketed in the reviewed jurisdiction). Based on known pharmacological classification, minocycline is a tetracycline-class antibiotic.
+Currently, detailed mechanism of action data is not available in the supplied record. Minocycline is a tetracycline-class drug. Tetracyclines are generally described as having anti-inflammatory and matrix metalloproteinase (anti-collagenase) effects. These could plausibly relate to inflammation on the eye surface, which is a feature of punctate epithelial keratoconjunctivitis.
 
-Per the model's own rationale, minocycline exhibits MMP-9 inhibition, anti-inflammatory activity (via suppression of the IL-1/TNF-α pathway), and anti-apoptotic effects. The related tetracycline-class drug doxycycline already has clinical use precedent in dry eye disease and ocular-surface-inflammation-related keratoconjunctivitis, which lends some mechanistic plausibility to the prediction.
+This is background reasoning, not evidence from the supplied dataset, and it needs independent verification. The only support in the record is the high TxGNN knowledge-graph score, which is a computational prediction without clinical validation.
 
-However, this is explicitly a **class-effect inference**, not direct evidence for minocycline itself in this indication. The very high TxGNN score (99.63%) reflects only knowledge-graph topological similarity between minocycline and drugs used in ocular surface disease — it is not derived from any clinical or experimental validation of minocycline in this indication.
+The model also ranks a second ocular indication, **exposure keratitis** (score 99.20%), at the same evidence level (L5) with a Hold recommendation. This condition is driven mainly by incomplete lid closure and tear-film failure, so the chance of a drug-specific benefit is more uncertain.
+
+---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
+
+---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
+
+---
 
 ## US Market Information
 
-No US market authorization on file for minocycline in this jurisdiction (market status: Not Marketed; 0 licenses).
+Minocycline has 20 US licenses. Five main authorizations are listed below. All are ANDAs (generic approvals), and the records do not include approved-indication text.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA065062 | Minocycline Hydrochloride | Capsule | A-S Medication Solutions |
+| ANDA065470 | Minocycline Hydrochloride | Capsule | Advanced Rx Pharmacy of Tennessee, LLC |
+| ANDA203553 | Minocycline Hydrochloride | Tablet, extended release | Zydus Pharmaceuticals (USA) Inc. |
+| ANDA204453 | Minocycline Hydrochloride | Tablet, film coated, extended release | Bryant Ranch Prepack |
+| ANDA063065 | Minocycline Hydrochloride | Capsule | Actavis Pharma, Inc. |
+
+Across all licenses, the marketed forms are oral (capsule, tablet, extended-release tablet) and a foam aerosol. No ophthalmic form appears in the record, so route compatibility with an eye-surface indication is unresolved.
+
+---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This is an L5-level, model-prediction-only candidate with no supporting clinical trials or literature, and the mechanistic link relies on a class-effect inference from a related drug rather than direct evidence for minocycline. No original indication, MOA, or safety data are currently on file, so the candidate cannot proceed past initial screening.
+The prediction has a very high model score (99.63%) but no supporting clinical trials or literature (Evidence Level L5). The mechanism and safety data are also missing from the record, so the case cannot advance beyond initial screening.
 
 **To proceed, the following is needed:**
-- Confirmed original indication and detailed mechanism-of-action data for minocycline (e.g., via DrugBank/TFDA label lookup)
-- TFDA/FDA package insert warnings, contraindications, and drug-drug interaction data (currently blocking per data gap DG001)
-- Direct preclinical or clinical evidence of minocycline (not just doxycycline) in punctate epithelial keratoconjunctivitis or related ocular surface disease
-- Route-of-administration and formulation compatibility assessment for ophthalmic use
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data, for example from DrugBank
+- A literature and trial search for minocycline or tetracyclines in punctate epithelial keratoconjunctivitis, and in exposure keratitis as a second candidate
+- Route and formulation assessment, since only oral and foam forms are marketed and an ocular indication may need a different route
+- Confirmation of the original approved indications from the license labels
+
+---
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

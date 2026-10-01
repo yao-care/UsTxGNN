@@ -29,75 +29,75 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-The data-report skill applies to CLI output — not applicable here. Proceeding to generate the structured evaluation report from the Evidence Pack JSON.
-
----
-
-# Aminocaproic Acid: From Hemorrhage Control to Severe Nonproliferative Diabetic Retinopathy
+# Aminocaproic Acid: From Antifibrinolytic Therapy to Severe Nonproliferative Diabetic Retinopathy
 
 ## One-Sentence Summary
 
-Aminocaproic acid is an antifibrinolytic agent that prevents excessive bleeding by inhibiting plasminogen activators and plasmin activity, thereby blocking thrombus dissolution.
-The TxGNN model predicts it may be effective for **Severe Nonproliferative Diabetic Retinopathy (SNPDR)**,
-however, **0 clinical trials** and **0 publications** currently support this direction — the prediction is based on model inference alone.
-
----
+Aminocaproic acid is generally known as an antifibrinolytic (a lysine analog that inhibits plasminogen activation). The provided data does not list an approved indication.
+The TxGNN model predicts it may be effective for **severe nonproliferative diabetic retinopathy**, but there are currently **0 clinical trials** and **0 publications** supporting this direction, so it rests on a model score alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not available in queried regulatory data |
-| Predicted New Indication | Severe Nonproliferative Diabetic Retinopathy |
+|------|------|
+| Original Indication | Not listed in the provided data (all license records have empty indication text) |
+| Predicted New Indication | Severe nonproliferative diabetic retinopathy |
 | TxGNN Prediction Score | 99.27% |
-| Evidence Level | L5 |
-| US Market Status | Not marketed (Not marketed) |
-| Number of NDAs | 0 |
-| Recommended Decision | **Hold** |
-
----
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (the records shown are ANDA generic approvals) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the sources queried. Based on known pharmacological information, aminocaproic acid is an antifibrinolytic agent — it works by inhibiting plasminogen activators and plasmin, thereby preventing fibrin clots from breaking down prematurely. It is classically indicated for hemorrhagic conditions where excessive fibrinolysis drives bleeding.
+Currently, detailed mechanism of action data is not available in the input. Based on general knowledge, aminocaproic acid is an antifibrinolytic that blocks plasminogen activation. Any mechanistic link to diabetic retinopathy is therefore unverified and would need confirmation from primary sources.
 
-The theoretical mechanistic link to SNPDR runs as follows: diabetic retinopathy involves retinal microvessel hemorrhage, and elevated fibrinolytic activity has been proposed to contribute to hemorrhagic progression. Suppressing fibrinolysis could, in theory, reduce this hemorrhagic component. However, the dominant pathological drivers of SNPDR are hyperglycemia-induced endothelial damage, VEGF-mediated vascular hyperpermeability, and pericyte loss — none of which are primarily fibrinolysis-driven. The antifibrinolytic mechanism therefore addresses a secondary rather than a central feature of this disease.
+The only support is the TxGNN knowledge-graph score of 0.993. A plausible but unproven connection is to bleeding-related complications of proliferative disease, such as vitreous hemorrhage. That is a different problem from severe nonproliferative disease itself, which is the predicted indication. The relationship between the original and predicted indications is therefore not established.
 
-The TxGNN score of 0.993 is high, but in the absence of any clinical or preclinical studies, this score most likely reflects knowledge graph network topology associations — for example, indirect graph paths such as "antifibrinolytic → hemorrhagic disease → retinal hemorrhage → diabetic retinopathy" — rather than direct biological evidence. This prediction should be interpreted with considerable caution.
-
----
+Safety is also a concern. Antifibrinolytics carry thrombotic risk, and diabetic patients already have elevated vascular risk. A high model score alone is not evidence of efficacy.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## US Market Information
+
+The first five of the 20 authorizations are listed below. The provided data has no approved-indication text for any of them.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA212492 | Aminocaproic acid | Tablet | Major Pharmaceuticals |
+| ANDA213928 | Aminocaproic acid | Tablet | Carnegie Pharmaceuticals, LLC |
+| ANDA212938 | Aminocaproic acid | Tablet | Novadoz Pharmaceuticals LLC |
+| ANDA071192 | Aminocaproic acid | Injection, solution | Medical Purchasing Solutions, LLC |
+| ANDA213928 | Aminocaproic acid | Tablet | Biocon Pharma Inc. |
+
+Available routes in the market data: oral (tablet) and injectable (injection, solution).
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No warnings, contraindications, or drug interaction records were available in the provided data.
 
----
+As a general class concern (not from label data), antifibrinolytics carry thrombotic risk, which matters for patients with diabetes.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-With zero clinical trials and zero publications, this prediction rests entirely on TxGNN knowledge graph inference. The mechanistic connection between aminocaproic acid's antifibrinolytic action and the primary pathophysiology of SNPDR is indirect and speculative — fibrinolysis suppression does not address the core disease drivers of SNPDR.
+The prediction rests only on a knowledge-graph score, with no trials, literature, or mechanistic data behind it. Package insert safety data is also missing. The plausible link (vitreous hemorrhage) does not match the predicted indication (severe nonproliferative disease). The thrombotic risk in a high-vascular-risk population adds further caution.
 
 **To proceed, the following is needed:**
-- Mechanism of action (MOA) data from DrugBank API to confirm pharmacological basis
-- Safety profile including key warnings, contraindications, and drug interactions (obtain from package insert PDF)
-- Preclinical evidence demonstrating antifibrinolytic effects specifically in diabetic retinopathy animal models
-- Pharmacokinetic data confirming whether systemic or intravitreal administration can achieve therapeutic concentrations in retinal tissue
-- Expert ophthalmology consultation to assess pathophysiological plausibility and whether fibrinolysis plays a measurable role in SNPDR progression
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data, for example from DrugBank
+- A systematic literature and trial search on antifibrinolytics in diabetic retinopathy and vitreous hemorrhage
+- Confirmation of the approved original indication
+- Route compatibility assessment, since systemic oral or injectable use is available but the target tissue is the retina
+- A thrombotic risk assessment in diabetic patients
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

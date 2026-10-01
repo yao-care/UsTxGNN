@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Toremifene
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 1244
-evidence_level: L5
+evidence_level: L4
 indication_count: 1
 ---
 
 # Toremifene
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **1** 
+Evidence Level: **L4** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,72 +33,74 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 ## One-Sentence Summary
 
-> Toremifene is a selective estrogen receptor modulator (SERM), and while its established clinical use is in breast cancer, this data pack does not confirm its original approved indication in the current market. The TxGNN model predicts a possible link to **HIV Infectious Disease**, but this is supported by only **1 in vitro mechanistic publication** with no clinical trials, and the mechanistic connection is indirect (antifungal activity against an HIV-associated opportunistic infection, not antiviral activity).
-
----
+Toremifene is an estrogen receptor antagonist, a class related to tamoxifen, and is known as a breast cancer drug.
+The TxGNN model predicts it may be effective for **HIV infectious disease**, but the only supporting evidence is **1 preclinical publication** on an antifungal effect, with **0 clinical trials** registered.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no license data in this pack) |
-| Predicted New Indication | HIV Infectious Disease |
+| Original Indication | Breast cancer (inferred from the literature in the pack; the US label text is not included) |
+| Predicted New Indication | HIV infectious disease |
 | TxGNN Prediction Score | 99.41% |
-| Evidence Level | L5 |
-| US Market Status | Not marketed (Not Marketed) |
-| Number of NDAs | 0 |
+| Evidence Level | L4 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 3 (1 NDA, 2 ANDAs) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, toremifene is a selective estrogen receptor modulator (SERM) structurally and pharmacologically related to tamoxifen, historically used in hormone receptor-related oncology settings.
+Currently, detailed mechanism of action data is not available. Toremifene is an estrogen receptor antagonist related to tamoxifen. Its efficacy in breast cancer is established, but that is a separate pathway from HIV disease.
 
-The single supporting publication does not describe a direct drug–virus interaction. Instead, it reports that estrogen receptor antagonists like tamoxifen and toremifene bind fungal EF-hand proteins and exhibit fungicidal, anti-cryptococcal activity, synergizing with fluconazole and amphotericin B in vitro. Cryptococcal meningitis is a well-known opportunistic infection in HIV/AIDS patients — so the biological rationale here is indirect: potential utility as adjunctive antifungal therapy in HIV-associated cryptococcosis, not as an HIV/antiretroviral agent.
+The only link in the supplied data is indirect. A 2014 preclinical study (PMID 24520056) found that tamoxifen and toremifene are fungicidal against *Cryptococcus*. They appear to bind EF-hand calcium-binding proteins and synergize with fluconazole and amphotericin B in vitro. Cryptococcal meningitis is a common opportunistic infection in advanced HIV, so a possible hypothesis is adjunctive therapy for HIV-associated cryptococcosis.
 
-The high TxGNN score (0.994) most likely reflects the knowledge graph's encoding of "opportunistic infection comorbidity" links between toremifene's antifungal target space and HIV disease nodes, rather than a validated drug-disease mechanistic pathway. Without MOA data, safety data, or any clinical trial evidence, this connection should be treated as a hypothesis-generating signal only.
-
----
+This is **not** evidence of anti-HIV activity or benefit in HIV disease. The very high TxGNN score is a computational prediction with no clinical support in the data provided.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [24520056](https://pubmed.ncbi.nlm.nih.gov/24520056/) | 2014 | In vitro mechanistic study | mBio | Estrogen receptor antagonists tamoxifen and toremifene show fungicidal, anti-cryptococcal activity by binding fungal EF-hand proteins; synergize with fluconazole and amphotericin B in vitro — relevant to HIV-associated cryptococcal infection, not direct antiviral activity |
-
----
+| [24520056](https://pubmed.ncbi.nlm.nih.gov/24520056/) | 2014 | Preclinical (non-HIV pathogen) | mBio | Estrogen receptor antagonists related to tamoxifen and toremifene are fungicidal against *Cryptococcus*. They bind EF-hand proteins and synergize with fluconazole and amphotericin B. No HIV data. |
 
 ## US Market Information
 
-No licensing/authorization records available in this data pack (market status: Not marketed / Not Marketed, 0 total licenses).
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA020497 | Fareston | Tablet (oral) | Kyowa Kirin, Inc. |
+| ANDA208813 | toremifene citrate | Tablet (oral) | Rising Pharma Holdings, Inc. |
+| ANDA212818 | toremifene citrate | Tablet (oral) | Novadoz Pharmaceuticals LLC |
 
----
+## Cytotoxicity
+
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Hormonal (endocrine) anticancer agent, an estrogen receptor antagonist. It is not a conventional cytotoxic chemotherapy agent. |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | Please refer to the package insert warnings and precautions |
+| Handling Protection | Please refer to the package insert warnings and precautions |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Evidence level is L5 (model prediction only) — the sole supporting publication demonstrates an indirect antifungal mechanism relevant to an HIV-associated opportunistic infection, not a direct anti-HIV mechanism, and the drug is not currently marketed in this jurisdiction.
+The prediction rests on a model score and one preclinical antifungal study. There are no clinical trials and no anti-HIV data, so the evidence is only L4.
 
 **To proceed, the following is needed:**
-- Toremifene's confirmed original indication and MOA data (currently a Blocking/High severity data gap)
-- TFDA package insert warnings, contraindications, and safety data (Blocking data gap — required before any S1 safety evaluation)
-- Additional preclinical or clinical evidence directly linking toremifene to HIV pathophysiology (not just opportunistic co-infection)
-- Clarification of whether the intended indication is HIV itself or HIV-associated cryptococcal meningitis, as these require different evidence pathways
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- In vitro and in vivo evidence of anti-HIV activity, or of benefit in HIV-associated cryptococcosis
+- Drug interaction assessment, since none was found in the supplied data, particularly with antiretrovirals and antifungals
+- Review of the original indication text from the US labels
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

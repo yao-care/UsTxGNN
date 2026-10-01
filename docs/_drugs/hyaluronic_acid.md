@@ -29,96 +29,95 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Hyaluronic Acid: From Unspecified Original Indication to Dry Eye Syndrome
+# Hyaluronic Acid: From Marketed Topical and Cosmetic Products to Dry Eye Syndrome
 
 ## One-Sentence Summary
 
-Hyaluronic Acid (DrugBank DB08818) has no original indication or NDA license on file in this evidence pack, and is currently **not marketed** as an approved product in the reviewed market.
-The TxGNN model predicts it may be effective for **Dry Eye Syndrome**, with **50 clinical trials** and **20 publications** identified in the evidence pack supporting this direction — including two completed Phase 3 RCTs.
-Because formal labeling, warnings, and mechanism-of-action data are missing, this candidate has strong efficacy evidence but an incomplete safety dossier.
-
----
+Hyaluronic acid is a water-retaining, lubricating molecule. In the US records supplied it appears mainly in skin-care, topical and other non-ophthalmic products, and no approved indication text is listed.
+The TxGNN model predicts it may be effective for **dry eye syndrome**, with **50 clinical trials** and **20 publications** retrieved for this indication.
+Evidence is strong: two completed Phase 3 trials, several Phase 4 trials, and meta-analyses of randomized trials.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on file (no licenses or original_indications recorded) |
-| Predicted New Indication | Dry Eye Syndrome |
+| Original Indication | Not stated in the US license records (all approved-indication fields are empty) |
+| Predicted New Indication | Dry eye syndrome |
 | TxGNN Prediction Score | 99.86% |
-| Evidence Level | L1 (≥2 completed Phase 3 RCTs) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
-| Recommended Decision | Hold |
-
----
+| Evidence Level | L1 (see caveat below) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 18 |
+| Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for this candidate (data gap DG002). Based on the literature captured in this evidence pack, hyaluronic acid is a naturally occurring glycosaminoglycan widely used across ophthalmology, rheumatology, and dermatology because of its water-retention and lubricating properties (PMID 32070808). A dedicated review (PMID 35514082, *Acta Ophthalmologica*, 2022) specifically evaluates HA-containing artificial tears as a treatment for dry eye disease, and a related comparative review (PMID 37042308) uses HA as the reference comparator for other dry-eye active ingredients — indicating HA is already a well-established benchmark therapy for this exact condition.
+Detailed mechanism-of-action data is not available from DrugBank for this record. Hyaluronic acid is a well-characterized, hygroscopic, viscoelastic glycosaminoglycan. It holds water on the ocular surface, lubricates, stabilizes the tear film, and may support corneal epithelial healing, partly through the CD44 receptor.
 
-This raises an important caveat for interpretation: HA eye drops (sodium hyaluronate) are already a standard, widely marketed treatment for dry eye disease in many jurisdictions. The TxGNN prediction here is therefore less a discovery of a *novel* indication and more a confirmation of an established pharmacological use — which is consistent with the very high volume of supporting clinical trial and literature evidence found. The core open question for this specific product/entity is not whether HA works for dry eye (it clearly does, per the evidence below), but whether **this particular DrugBank entity/product** has the regulatory dossier (labeling, warnings, MOA documentation) needed to support a formal submission — which it currently lacks (DG001, DG002).
+The US license records give no original indication, so the link rests on the mechanism. Dry eye is mainly a problem of tear-film instability and surface dryness, which is what a humectant and lubricant addresses. Sodium hyaluronate eye drops are also widely used as the standard comparator in dry eye trials, as seen in many of the studies below.
 
----
+**Evidence-level caveat:** L1 is assigned because two completed Phase 3 trials exist (NCT01382225 and NCT01240382). In NCT01240382, sodium hyaluronate is the comparator arm, not the test drug. Further support comes from completed Phase 4 trials and meta-analyses of randomized trials. Label status for an ophthalmic product should still be verified against the actual product label, because none of the listed US licenses is an eye drop.
 
 ## Clinical Trial Evidence
 
+No trial results were included in the data, so the findings column reflects study design and stated objectives only.
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT01382225](https://clinicaltrials.gov/study/NCT01382225) | Phase 3 | Completed | 1936 | Sodium Hyaluronate Ophthalmic Solution 0.18% evaluated for efficacy in signs and symptoms of dry eye disease |
-| [NCT01240382](https://clinicaltrials.gov/study/NCT01240382) | Phase 3 | Completed | 332 | 3% DE-089 vs 0.1% sodium hyaluronate; non-inferiority on fluorescein staining, superiority on Rose Bengal score |
-| [NCT02777723](https://clinicaltrials.gov/study/NCT02777723) | Phase 3 | Unknown | 138 | CKD-350 eye drops vs comparator for efficacy/safety in dry eye syndrome |
-| [NCT06517667](https://clinicaltrials.gov/study/NCT06517667) | Phase 2/3 | Completed | 30 | Randomized single-blind comparison of different hyaluronic acid tear substitute formulations in evaporative dry eye |
-| [NCT04704531](https://clinicaltrials.gov/study/NCT04704531) | Phase 2 | Completed | 141 | Three dosing schemes of Sodium Hyaluronate 0.4% (Lagricel Ofteno) evaluated via OSDI in mild-to-moderate dry eye |
-| [NCT00938704](https://clinicaltrials.gov/study/NCT00938704) | Phase 4 | Completed | 71 | Non-preserved carboxymethylcellulose/glycerin vs sodium hyaluronate 0.18% for dry eye signs and symptoms |
-| [NCT03888183](https://clinicaltrials.gov/study/NCT03888183) | Phase 4 | Unknown | 334 | Randomized, double-blind trial of preservative-free low-dose HA-containing salt solution for dry eye disease |
-| [NCT06860659](https://clinicaltrials.gov/study/NCT06860659) | Phase 4 | Enrolling by invitation | 84 | Randomized double-blind trial of 0.28% vs 0.18% preservative-free sodium hyaluronate in moderate-severe dry eye |
-| [NCT02510235](https://clinicaltrials.gov/study/NCT02510235) | NA | Completed | 56 | Multicenter non-inferiority trial: Lubricin 150 µg/mL vs 0.13% sodium hyaluronate eye drops |
-| [NCT03074344](https://clinicaltrials.gov/study/NCT03074344) | NA | Completed | 40 | Cross-linked hyaluronic acid + coenzyme Q10 eye drops in mild-to-moderate dry eye |
-
----
+| [NCT01382225](https://clinicaltrials.gov/study/NCT01382225) | Phase 3 | Completed | 1936 | Randomized, double-masked trial of 0.18% sodium hyaluronate for signs and symptoms of dry eye |
+| [NCT01240382](https://clinicaltrials.gov/study/NCT01240382) | Phase 3 | Completed | 332 | Double-masked non-inferiority comparison of 3% DE-089 vs 0.1% sodium hyaluronate (HA is the comparator) |
+| [NCT02777723](https://clinicaltrials.gov/study/NCT02777723) | Phase 3 | Unknown | 138 | Active-controlled, double-blind trial of CKD-350 eye drops in dry eye syndrome |
+| [NCT00938704](https://clinicaltrials.gov/study/NCT00938704) | Phase 4 | Completed | 71 | Randomized comparison of carboxymethylcellulose + glycerin vs 0.18% sodium hyaluronate, non-preserved artificial tears |
+| [NCT03888183](https://clinicaltrials.gov/study/NCT03888183) | Phase 4 | Unknown | 334 | Randomized, double-blind, controlled trial of preservative-free low-dose HA salt solution |
+| [NCT06517667](https://clinicaltrials.gov/study/NCT06517667) | Phase 2/3 | Completed | 30 | Randomized, single-blind comparison of different HA tear-substitute formulations in evaporative dry eye |
+| [NCT00788229](https://clinicaltrials.gov/study/NCT00788229) | Phase 2 | Completed | 72 | Randomized, double-blind study of artificial tears (DHP-101/300/500) in dry eye syndrome |
+| [NCT02510235](https://clinicaltrials.gov/study/NCT02510235) | Not labeled | Completed | 56 | Double-masked non-inferiority study of Lubricin vs 0.13% sodium hyaluronate in moderate dry eye |
+| [NCT05356728](https://clinicaltrials.gov/study/NCT05356728) | Not labeled | Unknown | 96 | Two artificial tears compared, including a trehalose + hyaluronate product |
+| [NCT06731725](https://clinicaltrials.gov/study/NCT06731725) | Not labeled | Completed | 20 | Single-arm post-marketing study of an HA-based product in mild/moderate dry eye |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [39260878](https://pubmed.ncbi.nlm.nih.gov/39260878/) | 2024 | RCT | BMJ | Non-inferiority RCT of laughter exercise vs 0.1% sodium hyaluronic acid for ocular surface discomfort in dry eye disease |
-| [33804439](https://pubmed.ncbi.nlm.nih.gov/33804439/) | 2021 | Meta-Analysis | Int J Environ Res Public Health | Compares efficacy of HA- vs non-HA-based eye drops (saline, conventional artificial tears) across 8 databases |
-| [38895674](https://pubmed.ncbi.nlm.nih.gov/38895674/) | 2024 | Systematic Review/Meta-Analysis | Int J Ophthalmol | Compares high vs low concentration HA eye drops for dry eye syndrome |
-| [35514082](https://pubmed.ncbi.nlm.nih.gov/35514082/) | 2022 | Review | Acta Ophthalmologica | Critical evaluation of safety and efficacy literature for HA-containing artificial tears in DED |
-| [37042308](https://pubmed.ncbi.nlm.nih.gov/37042308/) | 2024 | Review | Acta Ophthalmologica | Summarizes all single active ingredients directly compared with HA in DED treatment |
-| [34843023](https://pubmed.ncbi.nlm.nih.gov/34843023/) | 2022 | Randomized Multicenter Clinical Evaluation | Jpn J Ophthalmol | Sequential application of 0.3% and 0.15% unpreserved HA for dry eye treatment |
-| [32070808](https://pubmed.ncbi.nlm.nih.gov/32070808/) | 2020 | Review | Carbohydrate Research | HA applications in ophthalmology (dry eye), rheumatology, and dermatology; describes water-retention/lubricant mechanism |
-| [33923222](https://pubmed.ncbi.nlm.nih.gov/33923222/) | 2021 | Review | Molecules | Applications of HA in ophthalmology and contact lenses, including dry eye treatment |
-| [27324942](https://pubmed.ncbi.nlm.nih.gov/27324942/) | 2016 | Systematic Review | J Cosmetic Dermatology | Physiochemical properties and cross-specialty medical applications of hyaluronic acid |
-| [30510396](https://pubmed.ncbi.nlm.nih.gov/30510396/) | 2018 | Clinical Study | Clinical Ophthalmology (Auckland) | Safety and efficacy of a cross-linked HA gel occlusive device for dry eye syndrome |
-
----
+|------|-----|------|---------|---------|
+| [39260878](https://pubmed.ncbi.nlm.nih.gov/39260878/) | 2024 | RCT | BMJ | Non-inferiority trial of laughter exercise vs 0.1% sodium hyaluronate for dry eye discomfort (HA as comparator) |
+| [37117131](https://pubmed.ncbi.nlm.nih.gov/37117131/) | 2023 | RCT | Contact Lens & Anterior Eye | Trehalose + HA artificial tears over 3 months in women with moderate to severe dry eye |
+| [33804439](https://pubmed.ncbi.nlm.nih.gov/33804439/) | 2021 | Meta-analysis | Int J Environ Res Public Health | Compares HA-based vs non-HA eye drops (saline and conventional artificial tears) for dry eye |
+| [38895674](https://pubmed.ncbi.nlm.nih.gov/38895674/) | 2024 | Systematic review / meta-analysis | Int J Ophthalmol | Compares high vs low concentrations of HA eye drops for dry eye |
+| [35514082](https://pubmed.ncbi.nlm.nih.gov/35514082/) | 2022 | Review | Acta Ophthalmol | Critical review of the safety and efficacy of HA-containing artificial tears in dry eye disease |
+| [37042308](https://pubmed.ncbi.nlm.nih.gov/37042308/) | 2024 | Review | Acta Ophthalmol | Summarizes ingredients directly compared with HA in dry eye; describes HA as a long-standing safe and effective treatment |
+| [34843023](https://pubmed.ncbi.nlm.nih.gov/34843023/) | 2022 | Randomized multicenter study | Jpn J Ophthalmol | Sequential use of 0.3% and 0.15% unpreserved HA for dry eye |
+| [34562113](https://pubmed.ncbi.nlm.nih.gov/34562113/) | 2022 | Clinical study | Graefes Arch Clin Exp Ophthalmol | 0.3% HA with cyanocobalamin and electrolytes in menopausal patients with moderate dry eye |
+| [30510396](https://pubmed.ncbi.nlm.nih.gov/30510396/) | 2018 | Clinical study | Clin Ophthalmol | Safety and efficacy of a cross-linked HA gel occlusive device for dry eye |
+| [38838456](https://pubmed.ncbi.nlm.nih.gov/38838456/) | 2024 | Clinical study | J Fr Ophtalmol | New preservative-free drop combining HA, trehalose and NAAGA in dry eye patients |
 
 ## US Market Information
 
-No NDA/marketing authorization is on file for this product in the evidence pack (`total_licenses: 0`, market status: Not Marketed). No product/dosage-form/indication data is currently available to populate this table.
+None of the licenses states an approved indication, and none is an ophthalmic eye drop.
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| M016 | Roushun kojic Skin Lightening Nutural Skin Care treament serum 30ml | Liquid | Not stated |
+| Not listed | JASBELLO VAGINAL | Suppository | Not stated |
+| Not listed | EyeOne eyelid cleansing tools | Cloth | Not stated |
+| M016 | ClearSoothingCream | Cream | Not stated |
+| M016 | Body essential oil | Liquid | Not stated |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Note: TFDA/labeling warnings and contraindications data are flagged as a **Blocking** data gap (DG001) in this evidence pack — this must be remediated before an initial safety (S1) assessment can be performed. A drug-drug interaction query also returned no results.
-
----
+Please refer to the package insert for safety information. No drug-interaction records were found.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-Efficacy evidence for hyaluronic acid in dry eye syndrome is strong (L1: two completed Phase 3 RCTs, one with nearly 2,000 subjects, plus extensive supporting literature), but the Blocking-severity gap in labeling/warnings data (DG001) means this candidate cannot yet clear an initial safety screen, and the product currently has no US market presence (0 NDAs).
+Two completed Phase 3 trials, multiple Phase 4 trials, and meta-analyses of randomized trials directly address HA in dry eye. Its lubricating and tear-film mechanism is plausible, and HA is a common comparator in dry eye trials. The guardrails are that the US license records list no ophthalmic product, no indication text or safety data are available, and one of the two Phase 3 trials uses HA only as the comparator.
 
 **To proceed, the following is needed:**
-- Official labeling/warnings and contraindications data (DG001 — download and parse TFDA/FDA label PDF)
-- Mechanism of action documentation via DrugBank API (DG002)
-- Confirmation of a marketed formulation/route (ophthalmic) suitable for the dry eye indication
-- A completed drug-drug interaction review (current status: not found)
+- Package insert warnings and contraindications (currently a blocking gap for safety screening)
+- Confirmation of a licensed ophthalmic HA product and its approved indication
+- Verification of the HA-specific arms in the Phase 4 and Phase 2/3 trials, and of the results of the two Phase 3 trials
+- Detailed mechanism-of-action data from DrugBank
+- Consolidation of the overlapping predicted indication "xerophthalmia" (in the sources it means dry eye, not vitamin A deficiency) with dry eye syndrome
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

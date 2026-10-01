@@ -29,11 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Ivabradine: From Heart Rate Reduction (Heart Failure/Stable Angina) to Hypertrichosis
+# Ivabradine: From Chronic Heart Failure to Hypertrichosis
 
 ## One-Sentence Summary
 
-Ivabradine is an HCN-channel (If current) inhibitor used to slow heart rate in heart failure and stable angina — note that Taiwan/US regulatory records for this drug are currently empty, so the original indication above is drawn from the evidence pack's own mechanistic notes, not a formal label. The TxGNN model's top prediction is **Hypertrichosis (disease)**, but this signal is supported by **0 clinical trials** and **0 publications** — it comes from embedding similarity alone, with the evidence pack explicitly noting no known receptor, pathway, or metabolic link between HCN-channel inhibition and hair overgrowth.
+Ivabradine is a heart-rate-lowering drug that blocks the HCN channel (the "funny" current, If) in the heart's pacemaker cells.
+The TxGNN model predicts it may be effective for **hypertrichosis** (excessive hair growth) with a very high score, but there are **0 clinical trials** and **0 publications** supporting this direction.
+This is a model prediction only, and no plausible biological rationale has been identified.
 
 ---
 
@@ -41,23 +43,23 @@ Ivabradine is an HCN-channel (If current) inhibitor used to slow heart rate in h
 
 | Item | Content |
 |------|------|
-| Original Indication | Not formally recorded in regulatory data; per evidence notes, used for heart rate reduction in heart failure / stable angina |
+| Original Indication | Not listed in the supplied license data (ivabradine is a heart-rate-lowering agent, generally used in chronic heart failure) |
 | Predicted New Indication | Hypertrichosis (disease) |
 | TxGNN Prediction Score | 99.79% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✗ Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (all listed licenses shown are ANDA generics) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for Ivabradine is not available in this evidence pack (flagged as a High-severity data gap). The evidence pack's own rationale notes describe Ivabradine as a selective HCN-channel (If current) inhibitor acting on the sinoatrial node, used to reduce heart rate in heart failure and stable angina.
+Currently, detailed mechanism of action data is not available in the supplied dataset. Ivabradine is generally known as an HCN channel (If current) inhibitor, which slows the resting heart rate. Its established role is cardiovascular.
 
-There is no known receptor, signaling pathway, or metabolic connection between this cardiac rate-control mechanism and hypertrichosis (excessive hair growth). The evidence pack explicitly states this prediction relies solely on TxGNN embedding similarity, with no mechanistic rationale identified.
+No link between HCN inhibition and hair-growth biology was identified. Hypertrichosis is not a recognized effect of ivabradine, and the drug has no evident role in treating it. The high score (0.998) is most likely a knowledge-graph proximity artifact, not independent biological evidence.
 
-The same pattern holds across all six ranked candidates in this evidence pack (hypertrichosis, Ambras syndrome, a dental/periodontal malformation syndrome, Dandy-Walker malformation syndrome, a hair-shaft abnormality, and nephrogenic SIAD) — each rationale independently concludes there is no plausible mechanistic link to Ivabradine's known pharmacology. The one candidate with literature hits (rank 3, dental/periodontal malformation) returned 20 papers on general periodontitis biology that do not mention Ivabradine or HCN channels, indicating a disease-ontology text match rather than drug-specific evidence.
+The other top predictions point the same way. Ambras-type hypertrichosis and isolated hair shaft abnormalities sit close to the hypertrichosis node in the graph. The remaining predictions (a periodontal malformation syndrome, a Dandy-Walker syndrome, nephrogenic syndrome of inappropriate antidiuresis) have no identified connection to HCN inhibition either. All six predictions are model output only, with no supporting trials.
 
 ---
 
@@ -75,13 +77,21 @@ Currently no related literature available.
 
 ## US Market Information
 
-No approved licenses were found for Ivabradine in the available US market data (market status: Not Marketed, 0 total licenses on file).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA214051 | Ivabradine (Golden State Medical Supply) | Tablet, film coated | Not provided in source data |
+| ANDA213442 | Ivabradine (Zydus Pharmaceuticals USA) | Tablet | Not provided in source data |
+| ANDA214051 | Ivabradine (Ingenus Pharmaceuticals) | Tablet, film coated | Not provided in source data |
+| ANDA215238 | Ivabradine (Alembic Pharmaceuticals Inc.) | Tablet, film coated | Not provided in source data |
+| ANDA215238 | Ivabradine (Alembic Pharmaceuticals Limited) | Tablet, film coated | Not provided in source data |
+
+Twenty licenses are on record in total, and the five above are shown. All are oral formulations.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No drug-interaction records were found in the queried source.
 
 ---
 
@@ -90,14 +100,15 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-This candidate rests entirely on an L5, score-only TxGNN signal with zero supporting clinical trials or literature, and the evidence pack's own mechanistic analysis finds no plausible biological link between Ivabradine's HCN-channel/heart-rate mechanism and hypertrichosis. Combined with the drug's absent US market presence and missing MOA/safety data, there is no basis to advance this candidate at this time.
+The prediction has no clinical trials, no drug-specific literature, and no plausible mechanistic link between HCN inhibition and hair-growth biology. The evidence level is L5 (model prediction only), so it does not justify further investment.
 
 **To proceed, the following is needed:**
-- Confirmed mechanism-of-action data for Ivabradine (DrugBank query, currently a data gap)
-- TFDA/FDA label warnings and contraindications (currently a Blocking data gap)
-- Preclinical or in vitro evidence linking HCN-channel modulation to hair follicle biology
-- Any real-world or case-report signal of hypertrichosis associated with Ivabradine use
-- DDI data, which currently returns "not found"
+- Package insert warnings and contraindications, which are required before any safety screening
+- Detailed mechanism of action data (MOA) and a documented mechanistic hypothesis linking HCN inhibition to hair-follicle biology
+- Any preclinical or clinical signal for ivabradine in hair-growth disorders (none currently exists)
+- Original approved indication text for the US licenses, to complete the original-to-new indication comparison
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,61 +29,83 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Hydroxocobalamin: From Cyanide Poisoning Antidote/Vitamin B12 Deficiency to Esophageal Varices with Bleeding
+# Hydroxocobalamin: From Vitamin B12 Deficiency and Cyanide Poisoning to Esophageal Varices with Bleeding
 
 ## One-Sentence Summary
 
-Hydroxocobalamin (vitamin B12a, DrugBank ID: DB00200) is approved for treating cyanide poisoning and vitamin B12 deficiency. The TxGNN model predicts it may be effective for **Esophageal Varices with Bleeding**, but there are currently **no clinical trials** and **no literature support**, representing only algorithmic model prediction.
+Hydroxocobalamin is a form of vitamin B12, used for B12 deficiency and cyanide poisoning.
+The TxGNN model predicts it may be effective for **esophageal varices with bleeding** (and the non-bleeding variant), but there are currently **0 clinical trials** and **0 publications** supporting this direction. It is a model prediction only.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Taiwan: Not marketed, no approved indication data (mechanism analysis references known uses as cyanide poisoning antidote and vitamin B12 deficiency treatment) |
-| Predicted New Indication | Esophageal Varices with Bleeding |
+| Original Indication | Not listed in the US licence data (generally used for vitamin B12 deficiency and cyanide poisoning) |
+| Predicted New Indication | Esophageal varices with bleeding |
 | TxGNN Prediction Score | 99.23% |
-| Evidence Level | L5 (model prediction only, no clinical trials or literature) |
-| Market Status | Not marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 (1 NDA, 1 ANDA) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Current mechanism of action (MOA) data is missing ([Data Gap], DG002), preventing direct explanation of pharmacological relevance. Hydroxocobalamin's approved uses are cyanide poisoning antidote and vitamin B12 deficiency treatment; neither shows direct pathophysiological overlap with esophageal varices with bleeding.
+Currently, detailed mechanism of action data is not available. Hydroxocobalamin is a vitamin B12 form used for B12 deficiency and cyanide poisoning. It has no known effect on portal hypertension or variceal hemorrhage, and no established mechanistic link to this indication was found.
 
-The only conceivable indirect hypothesis is that hydroxocobalamin possesses nitric oxide (NO) and hydrogen sulfide scavenging capacity and has been clinically used in vasoplegic shock to induce vasoconstriction. The pathophysiology of esophageal varices with bleeding involves NO-mediated splanchnic vasodilation, leading to portal hypertension; theoretically, NO scavengers might reduce splanchnic blood flow via mechanisms similar to approved hemostatic agents such as vasopressin, terlipressin, or octreotide. However, this is purely mechanistic speculation, and **no direct research** has been found applying hydroxocobalamin to variceal bleeding.
+One purely speculative route is that hydroxocobalamin scavenges nitric oxide and hydrogen sulfide, both implicated in splanchnic vasodilation in portal hypertension. No supporting data were available for this hypothesis.
 
-TxGNN assigns the same score (99.23%) to a second predicted indication, "Esophageal Varices without Bleeding," with the same mechanistic hypothesis but weaker evidence strength—there is no clinical analogy basis for acute vasoconstrictor use in the non-bleeding state. Both are purely algorithmic predictions, and the drug is not marketed in Taiwan, making it unsuitable for preliminary safety assessment (S1).
+The very high TxGNN score should be interpreted cautiously. The bleeding and non-bleeding varices indications received an identical score (99.23%), which suggests a knowledge-graph neighbourhood artifact rather than a drug-specific signal. Standard care for these conditions (non-selective beta-blockers, endoscopic band ligation) works through unrelated mechanisms. The prediction also cannot be cross-checked against known pharmacology, because original indication and mechanism data are missing from the input.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 Currently no related literature available.
 
-## Market Information
+---
 
-This drug is not marketed in Taiwan (number of licenses: 0), and no information about marketed products is available.
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA085998 | Hydroxocobalamin (Actavis Pharma, Inc.) | Injection, solution | Not listed in the source data |
+| NDA022041 | Cyanokit (BTG International Inc.) | Injection, powder, lyophilized, for solution | Not listed in the source data |
+
+Both products are injectable.
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Currently, package insert warnings and contraindication data are missing (DG001, Blocking), identified as a critical gap before entering preliminary safety assessment (S1).
+Please refer to the package insert for safety information. No drug interaction records were found in the queried source.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Evidence level is L5, with no clinical trials or literature supporting this indication. The drug is not marketed in Taiwan, MOA and package insert safety data are missing, and there is no basis for proceeding to the next evaluation stage.
+The prediction rests on a model score alone (Evidence Level L5). There are no clinical trials or publications, no established mechanistic link, and the identical scores for the two varices indications point to a likely knowledge-graph artifact.
 
 **To proceed, the following is needed:**
-- TFDA package insert warnings/contraindication data (DG001, Blocking, requires downloading and parsing package insert PDF before entering S1 safety assessment)
-- Detailed mechanism of action (MOA) data (DG002, requires querying the DrugBank API)
-- Direct clinical trials or literature evidence for esophageal varices with or without bleeding
-- If evaluating cross-border introduction, supplementary information on Taiwan (or target market) market authorization and approved indications is needed
+- Package insert warnings, contraindications and approved indication text (currently blocking safety screening)
+- Mechanism of action data (for example from DrugBank)
+- Preclinical or mechanistic evidence for the nitric oxide / hydrogen sulfide scavenging hypothesis in portal hypertension
+- A literature and trial search using variceal bleeding and portal hypertension terms
+- Route and formulation compatibility assessment (injectable products only)
 
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

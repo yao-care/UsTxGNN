@@ -29,60 +29,90 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Quinidine: From Unknown Original Indication to Nephrogenic Syndrome of Inappropriate Antidiuresis
+# Quinidine: From Cardiac Arrhythmia to Nephrogenic Syndrome of Inappropriate Antidiuresis
 
 ## One-Sentence Summary
 
-> Quinidine's original approved indication and mechanism of action are not available in the current evidence pack.
-> The TxGNN model predicts it may be effective for **Nephrogenic Syndrome of Inappropriate Antidiuresis**,
-> but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a pure model prediction with no corroborating evidence.
+Quinidine is a class Ia antiarrhythmic that has long been marketed in the United States as oral tablets and capsules. The TxGNN model predicts it may be effective for **nephrogenic syndrome of inappropriate antidiuresis (NSIAD)**. Currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no approved indication on file; drug is not marketed in the US) |
-| Predicted New Indication | Nephrogenic Syndrome of Inappropriate Antidiuresis |
+| Original Indication | Cardiac arrhythmia (class Ia antiarrhythmic; the supplied license records contain no indication text) |
+| Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
 | TxGNN Prediction Score | 99.27% |
 | Evidence Level | L5 |
-| US Market Status | Not marketed (Not marketed) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 9 (all are generic ANDA filings) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for quinidine is not currently available in this evidence pack, and no original approved indication is on file. As a result, no mechanistic or clinical linkage between quinidine and the predicted indication (nephrogenic syndrome of inappropriate antidiuresis) can be established from the data at hand.
+Detailed mechanism of action data is not available in the supplied record. Quinidine is known as a class Ia antiarrhythmic that blocks sodium and potassium channels and also inhibits CYP2D6. Its efficacy in arrhythmia is established, but nothing in the supplied data links these actions to the kidney's handling of water.
 
-Without MOA data, original indication data, clinical trial evidence, or published literature, this prediction rests solely on the TxGNN knowledge-graph score. While the score itself is high (99.27%), a high model score alone does not constitute pharmacological or clinical justification — it should be treated as a hypothesis-generation signal only, pending mechanistic review and evidence collection.
+NSIAD is caused by gain-of-function variants in the vasopressin V2 receptor gene (*AVPR2*), or in some cases by GNAS-related signaling changes. These drive water retention independent of vasopressin. Quinidine does not act at the V2 receptor or downstream of it, so a mechanistic link is not apparent.
+
+The high score (0.993) most likely reflects indirect proximity in the knowledge graph, such as shared ion-channel or cAMP/aquaporin-related neighbours, rather than a validated mechanism. Because NSIAD arises from constitutive receptor activation, an agent that does not act on this pathway is not expected to help.
+
+---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
+
+---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
+
+---
 
 ## US Market Information
 
-Quinidine is not currently marketed in the US (market status: Not marketed, 0 licenses on file). No authorization records are available.
+The supplied record lists 9 licenses in total. Five are shown below, and the same authorization number appears under several manufacturers.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA089338 | Quinidine Gluconate (Golden State Medical Supply) | Tablet, extended release | Not provided |
+| ANDA088072 | Quinidine Sulfate (Epic Pharma, LLC) | Tablet | Not provided |
+| ANDA089338 | Quinidine Gluconate (Richmond Pharmaceuticals, Inc.) | Tablet, extended release | Not provided |
+| ANDA212589 | Quinidine Gluconate (Eywa Pharma Inc) | Tablet, extended release | Not provided |
+| ANDA089338 | Quinidine Gluconate (Sun Pharmaceutical Industries, Inc.) | Tablet, extended release | Not provided |
+
+All listed products are oral: extended-release tablets, tablets, capsules and gelatin-coated capsules.
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Cardiac risk**: Quinidine can prolong the QT interval, which would need to be weighed against any speculative benefit.
+- **Drug interactions**: Quinidine inhibits CYP2D6, so interactions with other CYP2D6 substrates are a concern. The interaction database query returned no records.
+
+Please refer to the package insert for full warnings and contraindications.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This candidate lacks core inputs required for even a preliminary safety and mechanistic assessment — MOA is unknown, the original indication is undocumented, and there is no clinical trial or literature evidence supporting the predicted indication. The TFDA warning/contraindication data gap is flagged as **Blocking**, which by itself prevents entry into S1 safety screening.
+The only support is a model score. There are no trials or publications, and no plausible link between quinidine's ion-channel activity and V2 receptor signaling in NSIAD. The safety cost (QT prolongation, CYP2D6 interactions) in a rare, often pediatric-onset disorder is not justified without evidence.
 
 **To proceed, the following is needed:**
-- TFDA (or equivalent regulatory) package insert warnings and contraindications (Blocking gap, DG001)
-- Confirmed mechanism of action from DrugBank or primary literature (DG002)
-- Documentation of quinidine's original approved indication(s)
-- At least preliminary literature or preclinical evidence linking quinidine to nephrogenic syndrome of inappropriate antidiuresis before further evaluation
+- Mechanism of action data for quinidine, and a documented pathway connecting it to V2 receptor or downstream cAMP/aquaporin signaling
+- Preclinical evidence (for example, cell-based assays with gain-of-function *AVPR2* variants)
+- Package insert warnings and contraindications for a formal safety screen
+- A literature and trial search for NSIAD treatments, to confirm no relevant precedent exists
+- Assessment of route compatibility and pediatric dosing feasibility
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

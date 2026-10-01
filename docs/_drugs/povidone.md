@@ -29,76 +29,74 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Povidone: From Pharmaceutical Excipient to Congenital Ichthyosiform Erythroderma
+# Povidone: From Ophthalmic Lubricant Use to Congenital Ichthyosiform Erythroderma
 
 ## One-Sentence Summary
 
-> Povidone (polyvinylpyrrolidone, PVP) is a pharmaceutical excipient used as a tablet binder, topical antiseptic base (e.g., povidone-iodine), and plasma volume expander, without a specific approved therapeutic indication of its own.
-> The TxGNN model predicts a possible association with **Congenital Ichthyosiform Erythroderma**,
-> but this prediction is currently supported only by a model score — **no clinical trials and no literature** are available.
-
----
+Povidone (PVP) is a synthetic polymer, widely used as a pharmaceutical excipient. In the US it is marketed in eye-lubricant products such as iVIZIA Dry Eye and Rohto.
+The TxGNN model predicts it may be effective for **congenital ichthyosiform erythroderma**, a rare inherited skin-scaling disorder.
+Currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No approved indication on record (used as excipient / topical antiseptic base) |
-| Predicted New Indication | Congenital Ichthyosiform Erythroderma |
-| TxGNN Prediction Score | 99.11% (rank 19,302) |
-| Evidence Level | L5 |
-| Market Status | Not marketed |
-| Number of NDAs | 0 |
+|------|------|
+| Original Indication | No approved indication text is recorded in the source data. The marketed products are eye-lubricant and dry-eye products. |
+| Predicted New Indication | Congenital ichthyosiform erythroderma |
+| TxGNN Prediction Score | 99.11% |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 4 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for povidone. Based on known information, povidone is a pharmaceutical excipient/carrier polymer — used clinically as a tablet binder, as the base matrix in topical antiseptics (e.g., povidone-iodine), and as a plasma substitute. It does not have a well-defined pharmacological target of its own, so its "efficacy" in prior uses is functional (formulation/delivery) rather than therapeutic.
+Currently, detailed mechanism of action data is not available. Povidone is mainly used as a binder, film former and solubilizer in pharmaceutical products. Its iodine complex, povidone-iodine, is a topical antiseptic. In the marketed products listed here, povidone acts as a lubricant for the eye surface.
 
-Congenital ichthyosiform erythroderma is a genetic keratinization disorder (e.g., involving *TGM1*, *ALOX12B* mutations) affecting epidermal differentiation. There is no established mechanism linking povidone's physicochemical properties (film-forming, moisture-retention, carrier function) to the keratinocyte differentiation pathways implicated in this disease. The high TxGNN score (0.99) most likely reflects an indirect graph association — for example, with topical povidone-iodine formulations used in dermatologic care — rather than a genuine pharmacological rationale. This prediction should be treated as a hypothesis-generating signal only, not as mechanistic evidence.
+Congenital ichthyosiform erythroderma is a genetic keratinization disorder. It is typically linked to variants in genes such as *TGM1*, *ALOXE3* and *ALOX12B*, and causes impaired skin barrier function and scaling. Povidone has no known action on these pathways. The only speculative links are nonspecific:
 
----
+- a topical film-forming or humectant effect;
+- antiseptic control of secondary skin infection, if used as povidone-iodine.
+
+Neither would change the course of the disease, and no data in this record support either.
+
+The high score (0.991, model rank 19,302) comes from knowledge-graph topology, not from clinical or literature evidence. It may partly reflect a graph artifact, because povidone is a highly connected excipient node. The prediction should be treated as a hypothesis only.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## US Market Information
 
-## Market Information
-
-No marketed products or authorizations on record; povidone currently has no formal drug license entries in the dataset for this jurisdiction.
-
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| M018 | iVIZIA Dry Eye | Solution/drops | Thea Pharma Inc. |
+| M018 | iVIZIA Lubricant Eye Gel | Gel | Thea Pharma Inc. |
+| M018 | Rohto | Liquid | The Mentholatum Company |
+| M018 | Rohto Dry-Aid | Liquid | The Mentholatum Company |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-*(Key warnings, contraindications, and drug interaction data are currently unavailable — see Data Gap DG001, classified as Blocking, which prevents safety pre-screening.)*
-
----
+Please refer to the package insert for safety information. No drug-interaction records were found for this drug.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Evidence level is L5 (model prediction only) — there are no clinical trials, no literature, and no established mechanistic link supporting this indication. In addition, the drug is not currently marketed, and a Blocking data gap (TFDA label/warnings, DG001) prevents any safety pre-screening.
+The prediction has no supporting clinical trials or publications (L5). Povidone has no known mechanism that would act on the biology of congenital ichthyosiform erythroderma. The high model score is likely inflated by povidone's position as a common excipient in the knowledge graph.
 
 **To proceed, the following is needed:**
-- TFDA package insert / warnings and contraindications (DG001, Blocking)
-- Mechanism of action data from DrugBank (DG002, High)
-- Preclinical or mechanistic studies linking povidone to keratinization pathways
-- Any emerging clinical trial or literature evidence for this indication
+- Mechanism of action data for povidone, and a plausible link to keratinization or skin-barrier pathways
+- A literature and trial search for povidone or PVP in ichthyosis or related genetic skin disorders
+- Package insert warnings and contraindications, which are required before any safety screening
+- Confirmation of whether a suitable topical formulation exists, since the current US products are ophthalmic
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

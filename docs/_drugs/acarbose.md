@@ -29,85 +29,72 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Acarbose: Evaluation Report — Insufficient Data for Repurposing Assessment
+# Acarbose: From Type 2 Diabetes to Classic Stiff Person Syndrome
 
 ## One-Sentence Summary
 
-Acarbose (DB00284) is a known antidiabetic agent whose original indications are not recorded in this Evidence Pack.
-The current TxGNN pipeline returned **no repurposing predictions** for this drug,
-and multiple blocking data gaps (MOA, regulatory records, safety data) prevent a complete evaluation at this stage.
-
----
+Acarbose is an intestinal alpha-glucosidase inhibitor that lowers postprandial blood glucose, and it is marketed in the US as oral tablets.
+The TxGNN model predicts it may be effective for **classic stiff person syndrome**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting it.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not available in Evidence Pack |
-| Predicted New Indication | Not available |
-| TxGNN Prediction Score | Not available |
-| Evidence Level | L5 — Model prediction not generated; no supporting studies |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Licenses | 0 |
-| Recommended Decision | **Hold** |
-
----
+|------|------|
+| Original Indication | Not stated in the supplied US license records; acarbose is an alpha-glucosidase inhibitor that lowers postprandial glucose (type 2 diabetes) |
+| Predicted New Indication | Classic stiff person syndrome |
+| TxGNN Prediction Score | 99.65% |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 17 (all listed licenses are ANDA generics) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-No TxGNN repurposing prediction is available for Acarbose in this Evidence Pack. As a result, a mechanistic rationale connecting an original indication to a new predicted indication cannot be constructed at this time.
+Currently, detailed mechanism of action data is not available in the Evidence Pack. Acarbose is known to inhibit intestinal alpha-glucosidase, which slows carbohydrate digestion and blunts the rise in blood glucose after meals.
 
-Currently, detailed mechanism of action data is not available in the evidence pack (recorded as a High-severity data gap, DG002). Without MOA information, any mechanistic bridging argument between Acarbose's established therapeutic use and a candidate new indication would be speculative rather than evidence-based.
+Stiff person syndrome is an autoimmune neurological disorder, typically involving anti-GAD antibodies and disrupted GABAergic signalling. No plausible mechanistic link to alpha-glucosidase inhibition was found in the supplied data. The high score is most likely a knowledge-graph artifact, for example the known association between stiff person syndrome and diabetes.
 
-Additionally, the original indication fields are empty in this Evidence Pack. A complete evaluation requires at minimum: confirmed original indication, TxGNN score and predicted disease target, and MOA data. These prerequisites must be addressed before this section can be meaningfully completed.
-
----
+The same pattern applies to the other high-scoring predictions, which are also L5 with no trials or literature:
+- Focal stiff limb syndrome: a stiff person spectrum variant, same reasoning.
+- Thiamine-responsive dysfunction syndrome: at most indirect glycemic control, with no effect on the underlying transporter defect.
+- Opsismodysplasia: a rare skeletal dysplasia with no evident connection.
+- Localized lipodystrophies (drug-induced, centrifugal, pressure-induced, idiopathic): no known effect of acarbose on adipose tissue.
+- Pancreatic agenesis (rank 9): the only prediction with retrieved literature (L4), but the papers concern type 2 diabetes, insulin autoimmune syndrome and animal models rather than pancreatic agenesis itself. Insulin remains the required therapy.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered (no predicted indication to search against).
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available (no predicted indication to search against).
+Currently no related literature available.
 
----
+## US Market Information
 
-## Taiwan Market Information
+17 licenses are recorded. All are tablets, and the main distinct ones are listed below. Approved indication text was not included in the supplied records.
 
-No regulatory licenses found. Acarbose has **zero recorded authorizations** in the Taiwan FDA database as of the data cutoff (2026-04-19).
-
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA090912 | Acarbose | Tablet | Strides Pharma Science Limited |
+| ANDA202271 | Acarbose | Tablet | Chartwell RX, LLC |
+| ANDA202271 | Acarbose | Tablet | Bryant Ranch Prepack |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-> All safety fields in this Evidence Pack are recorded as data gaps:
-> - Key warnings: not retrieved
-> - Contraindications: not retrieved
-> - Drug–drug interactions: query returned no results (status: `not_found`)
->
-> The TFDA package insert should be consulted directly to obtain warnings and contraindications before any further evaluation step.
-
----
+Please refer to the package insert for safety information. No drug interaction records were found for acarbose in the supplied data.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The Evidence Pack contains no TxGNN repurposing predictions for Acarbose, and two unresolved data gaps (DG001 — Blocking; DG002 — High) prevent entry into even the first stage of safety pre-screening. Proceeding without these inputs would produce an unreliable assessment.
+The prediction has a very high model score but no trials, no literature and no plausible mechanism linking alpha-glucosidase inhibition to stiff person syndrome. It is most likely a knowledge-graph artifact, so it does not justify further investment.
 
 **To proceed, the following is needed:**
-
-- **[DG001 — Blocking]** Retrieve Taiwan FDA package insert (仿單): download PDF from the TFDA website and extract warnings and contraindications to unlock S1 safety pre-screening.
-- **[DG002 — High]** Retrieve MOA data from DrugBank API (DB00284) to enable mechanistic relevance analysis.
-- **Re-run TxGNN pipeline** to generate predicted indications with scores; the current run returned an empty `predicted_indications` array — verify whether the drug was successfully mapped in the knowledge graph and whether the prediction step executed correctly.
-- Once predictions are available, collect clinical trial and literature evidence via ClinicalTrials.gov and PubMed for the top-ranked predicted indication.
-- Verify whether Acarbose has any active global approvals (e.g., US FDA, EMA) that were not captured in the Taiwan regulatory query, and cross-check for any relevant real-world indication expansions.
+- A credible mechanistic hypothesis connecting acarbose to anti-GAD autoimmunity or GABAergic pathways
+- Any preclinical or clinical signal specific to stiff person syndrome
+- Package insert warnings, contraindications and approved indication text (the safety screening stage cannot proceed without them)
+- Detailed mechanism of action data from DrugBank
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

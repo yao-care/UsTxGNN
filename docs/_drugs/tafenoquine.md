@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Tafenoquine: From Antimalarial Prophylaxis to Smouldering Systemic Mastocytosis
+# Tafenoquine: From Malaria to Smouldering Systemic Mastocytosis
 
 ## One-Sentence Summary
 
-> Tafenoquine is an 8-aminoquinoline antimalarial, known pharmacologically for malaria prophylaxis and radical cure of *P. vivax* infection, though it is not currently marketed in Taiwan and formal indication data is unavailable in this evidence pack.
-> The TxGNN model predicts it may be effective for **Smouldering Systemic Mastocytosis**,
-> but this prediction is currently supported by **0 clinical trials** and **0 publications**.
+Tafenoquine is an 8-aminoquinoline antimalarial, marketed in the US as Krintafel and Arakoda.
+The TxGNN model predicts it may be effective for **Smouldering Systemic Mastocytosis**,
+but currently there are **0 clinical trials** and **0 publications** supporting this direction. This is a model prediction only.
 
 ---
 
@@ -43,41 +43,44 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in registry data; known pharmacology suggests malaria prophylaxis / *P. vivax* radical cure (not TFDA-approved) |
-| Predicted New Indication | Smouldering Systemic Mastocytosis |
+| Original Indication | Malaria (based on drug class; the license records contain no indication text) |
+| Predicted New Indication | Smouldering systemic mastocytosis |
 | TxGNN Prediction Score | 99.05% |
 | Evidence Level | L5 |
-| US Market Status | ✗ Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known pharmacological background, tafenoquine belongs to the **8-aminoquinoline** class of antimalarial drugs. Its proposed mechanism involves mitochondrial disruption and induction of oxidative stress in the parasite, leading to parasite death. It is primarily used for malaria chemoprophylaxis and radical cure of *Plasmodium vivax* infection.
+Currently, detailed mechanism of action data is not available. Based on known information, tafenoquine is an 8-aminoquinoline antimalarial, and its efficacy in malaria is established. Whether it is mechanistically applicable to smouldering systemic mastocytosis is not supported by the current data.
 
-Smouldering systemic mastocytosis is driven predominantly by **KIT D816V** mutation, causing abnormal proliferation of mast cells. Standard-of-care targeted therapies act on the KIT signaling pathway (e.g., midostaurin, avapritinib). There is currently no known literature or mechanistic evidence linking 8-aminoquinoline antimalarials to KIT signaling or mast cell proliferation pathways.
+Smouldering systemic mastocytosis is mainly driven by KIT D816V-mediated mast cell proliferation. Nothing in this dataset shows that tafenoquine acts on KIT or any related signalling pathway. The two conditions have no apparent pharmacological connection.
 
-The TxGNN score of 0.99 in this case reflects knowledge-graph embedding similarity rather than a validated mechanistic relationship. Given the absence of any supporting clinical or literature evidence, this prediction should be treated as a hypothesis-generating signal only, not as a mechanistically substantiated repurposing candidate.
+The TxGNN score is high (0.990), but it reflects a model-derived association only. A biological rationale would need independent validation, for example in vitro mast cell or KIT signalling assays, before any clinical consideration.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
 ---
 
 ## US Market Information
 
-Tafenoquine is currently not marketed in Taiwan; no license records are available in the regulatory database.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA210795 | Krintafel | Film-coated tablet | GlaxoSmithKline LLC |
+| NDA210607 | Arakoda | Film-coated tablet | 60 Degrees Pharmaceuticals, INC. |
 
 ---
 
@@ -92,13 +95,13 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by TxGNN's model score (L5 evidence level), with no clinical trials, literature, or mechanistic rationale connecting an 8-aminoquinoline antimalarial to KIT-driven mast cell disease. Without independent corroborating evidence, this candidate does not meet the threshold to advance.
+The prediction rests only on the TxGNN model score, with no clinical trials, no literature and no supported mechanistic link to the KIT-driven biology of the disease. This does not justify further clinical investment at this stage.
 
 **To proceed, the following is needed:**
-- Confirmed original MOA and approved indications for tafenoquine (DrugBank/manufacturer labeling)
-- TFDA or FDA package insert warnings, contraindications, and drug interaction data (currently blocking per DG001)
-- Independent literature or preclinical evidence linking 8-aminoquinoline compounds to KIT signaling or mast cell biology
-- Any case reports or pharmacovigilance signals suggesting off-target hematologic effects
+- Mechanism of action data for tafenoquine, and any evidence of activity on KIT or mast cell pathways
+- In vitro validation, such as mast cell proliferation or KIT D816V signalling assays
+- Package insert safety information (warnings, contraindications), which is required before any safety screening
+- Approved indication text for the two NDAs, to confirm the original indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

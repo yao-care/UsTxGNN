@@ -29,13 +29,12 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# SECALE CEREALE POLLEN: From Unknown Indication to Alopecia
+# Secale Cereale Pollen: From Allergenic Product (No Recorded Indication) to Alopecia
 
 ## One-Sentence Summary
 
-> Secale cereale pollen (rye pollen extract) has no recorded original indication in current data, and is not marketed in Taiwan.
-> The TxGNN model predicts it may be effective for **Alopecia**,
-> but this prediction is currently supported by **0 clinical trials** and **0 publications**, with no identifiable mechanistic pathway.
+Secale cereale (rye) pollen is marketed in the US as a pollen-derived allergenic solution (Cultivated Rye, Greer Laboratories), but no approved indication text is recorded in the source data.
+The TxGNN model predicts it may be effective for **alopecia**, but there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
 
 ---
 
@@ -43,41 +42,45 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no licenses on record) |
+| Original Indication | Not recorded in the source data |
 | Predicted New Indication | Alopecia |
 | TxGNN Prediction Score | 99.01% |
-| Evidence Level | L5 |
-| US Market Status | Not marketed (Not marketed) |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 6 (all listed entries are BLA101833) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Secale cereale (rye) pollen extract is traditionally associated with allergen testing and allergen-specific immunotherapy use, but no original indication is recorded in this evidence pack, and the drug is not currently marketed in Taiwan.
+Currently, detailed mechanism of action data is not available. The drug has no recorded original indications, and no drug-interaction data were found. No mechanistic link between rye pollen and alopecia can be established from the supplied data.
 
-There is no identifiable biological pathway connecting a pollen allergen extract to alopecia (hair loss) — mechanisms relevant to alopecia typically involve follicular growth signaling, androgen metabolism, or localized inflammatory/autoimmune processes (e.g., alopecia areata), none of which have an established link to pollen allergen exposure or immunotherapy.
+The only support is the TxGNN knowledge-graph score of 0.99, which is a model output, not clinical or mechanistic evidence. A score this high for a drug with no recorded indications or MOA is unusual. It may reflect sparse graph connectivity rather than a real biological signal.
 
-The high TxGNN score (0.99) most likely reflects an indirect graph association — for example, shared immune/inflammatory pathway nodes in the knowledge graph — rather than a direct pharmacological mechanism. Given the complete absence of supporting clinical or literature evidence, this prediction cannot currently be distinguished from graph noise or a false positive arising from sparse node connectivity.
+Rye pollen is an allergenic product, and no plausible pathway to hair-follicle biology is documented. Similarity to the original indication and route compatibility have not been assessed. Overall, this prediction should be treated as a hypothesis-generating signal only.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
 ---
 
 ## US Market Information
 
-No marketing authorizations on record — this drug is not currently marketed (Not marketed) with 0 licenses in the dataset.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| BLA101833 | Cultivated Rye (Greer Laboratories, Inc.) | Solution | Not stated in the source data |
+
+The Evidence Pack lists five identical entries under this authorization (six licenses in total). The product is a solution, and its route category is recorded only as "Other."
 
 ---
 
@@ -92,13 +95,15 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-This prediction is based solely on a TxGNN model score with no supporting clinical trials, literature, mechanism of action data, or plausible biological rationale — the evidence level is L5 (model prediction only). Combined with the drug's unmarketed status in Taiwan and blocking data gaps in safety information, this candidate does not meet the threshold to advance.
+The recommendation rests only on a model score, with no clinical trials, no literature, no MOA, and no plausible biological link to alopecia. The candidate stays at stage S0 with evidence level L5.
 
 **To proceed, the following is needed:**
-- Mechanism of action (MOA) data from DrugBank or primary literature
-- Original indication history to establish pharmacological plausibility
-- TFDA label warnings/contraindications (currently blocking — DG001)
-- At least preclinical or mechanistic literature linking rye pollen extract to hair follicle biology before further evaluation is warranted
+- The FDA package insert (warnings, contraindications, and approved indications), which currently blocks safety screening
+- Mechanism of action data from DrugBank, and a documented link between rye pollen components and hair-follicle biology
+- Any preclinical, observational, or clinical evidence for alopecia, plus a check of whether the high score comes from sparse graph connectivity
+- Route compatibility assessment, since the existing product is an allergen extract solution and no route suited to alopecia has been identified
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

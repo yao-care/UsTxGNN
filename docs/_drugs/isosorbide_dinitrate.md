@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Isosorbide dinitrate (ISDN) is a nitrate vasodilator that is standard therapy for angina pectoris and ischemic heart disease. The TxGNN model predicts it may be effective for **Alopecia**, but this is currently a **pure model-score prediction** — there are **no clinical trials** and **no published literature** supporting this specific link.
+Isosorbide dinitrate is an organic nitrate vasodilator, and the label text in the data supplied is blank, so its usual use in angina comes from general pharmacology knowledge. The TxGNN model predicts it may be effective for **alopecia**, but **0 clinical trials** and **0 publications** support this direction. It is a model-only signal.
 
 ---
 
@@ -41,23 +41,23 @@ Isosorbide dinitrate (ISDN) is a nitrate vasodilator that is standard therapy fo
 
 | Item | Content |
 |------|------|
-| Original Indication | Angina pectoris / ischemic heart disease (established nitrate vasodilator use; no Taiwan NDA on file) |
+| Original Indication | Angina pectoris (general pharmacology knowledge; the supplied US label text is empty) |
 | Predicted New Indication | Alopecia |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for ISDN is not available in this evidence pack. Based on known pharmacology, isosorbide dinitrate is a nitric oxide (NO) donor that relaxes vascular smooth muscle via the NO–cGMP pathway, and it is an established vasodilator used for angina/ischemic heart disease (this core use is corroborated elsewhere in the evidence pack — see the "vascular disease" candidate, rank 6, where the same NO-cGMP mechanism is described as ISDN's standard, already-approved application).
+Detailed mechanism-of-action data is not available in the Evidence Pack. Isosorbide dinitrate is a nitric oxide (NO) donor and organic nitrate. Nitrates of this type cause cGMP-mediated vasodilation.
 
-For alopecia specifically, the evidence pack's own rationale states that the high TxGNN score is likely driven by an analogy to minoxidil — another vasodilator used to promote follicular blood flow and hair regrowth — rather than any direct evidence for ISDN itself. No clinical trials, no ICTRP-registered trials, and no PubMed literature were found for ISDN in alopecia (query log entries #4–6 all returned zero results). The mechanistic link is therefore theoretical extrapolation only, not a validated pharmacological relationship.
+The only proposed link to alopecia is speculative. NO-mediated vasodilation could raise blood flow around hair follicles, as some other vasodilators are thought to do. No trial or publication tests this idea.
 
-Two related candidates in the same evidence pack (rank 2 "congenital hypotrichosis milia" and rank 3 "hypotrichosis simplex of the scalp") are genetic/structural hair-follicle disorders with no plausible connection to a vasodilator mechanism, suggesting the model may be clustering ISDN with vasodilators near hair-related disease nodes in the knowledge graph rather than capturing a specific causal mechanism.
+The other hair-related predictions in the same list (congenital hypotrichosis milia, hypotrichosis simplex of the scalp, diffuse alopecia areata, hypertrichosis) also have no evidence. Alopecia areata is autoimmune, and a nitrate has no established immunomodulatory rationale there. The high scores probably reflect proximity to other hair phenotypes in the knowledge graph, not a real pharmacological signal.
 
 ---
 
@@ -73,11 +73,23 @@ Currently no related literature available.
 
 ---
 
+## US Market Information
+
+The Evidence Pack lists 20 authorizations. The five below are the main ones shown. All are oral tablets, and the approved indication text is empty for every one.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA088088 | Isosorbide Dinitrate | Tablet | Golden State Medical Supply, Inc. |
+| ANDA086923 | Isosorbide Dinitrate | Tablet | Endo USA, Inc. |
+| ANDA088088 | Isosorbide Dinitrate | Tablet | Major Pharmaceuticals |
+| ANDA086067 | Isosorbide | Tablet | BluePoint Laboratories |
+| ANDA213057 | Isosorbide dinitrate | Tablet | Zydus Pharmaceuticals (USA) Inc. |
+
+---
+
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-*Supplementary note (not disease-specific, drawn from other entries in this evidence pack rather than formal DDI records): ISDN, as a nitrate, is contraindicated with PDE5 inhibitors (e.g., sildenafil, tadalafil) due to risk of severe hypotension. This should be checked against concomitant medications in any patient considered for an ISDN-based intervention, regardless of indication.*
+Please refer to the package insert for safety information. No drug interaction records were found for this drug in the queried source.
 
 ---
 
@@ -86,14 +98,16 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score for alopecia is very high, but there is zero clinical trial or literature evidence to support it — this is Evidence Level L5 (model prediction only, no actual studies). Two structurally similar candidates in the same result set (congenital/simple hypotrichosis) also lack any supporting mechanism, reinforcing that this cluster of predictions is not yet actionable.
+The alopecia prediction rests only on a high model score, with no trials, no literature, and only a speculative mechanism. This is L5 evidence and does not justify further investment.
 
 **To proceed, the following is needed:**
-- ISDN mechanism of action (MOA) documentation (currently a blocking-severity data gap, DG002)
-- TFDA/regulatory label — warnings, contraindications (currently a blocking-severity data gap, DG001)
-- Preclinical or mechanistic studies specifically linking ISDN (not minoxidil) to hair follicle/dermal blood flow effects
-- If preclinical rationale is established, an initial pilot/observational study before any trial design work
-- Note: since ISDN is not currently marketed in Taiwan (0 NDAs), any path forward would also require a market-entry/registration assessment independent of the repurposing question
+- Any preclinical or clinical evidence linking nitrates or NO donors to hair growth or follicle blood flow
+- Detailed mechanism of action data and package insert warnings and contraindications
+- Consideration of route compatibility, since only oral tablets are marketed in the US and topical delivery would be a different product
+
+**Note:** Other predictions in the same Evidence Pack have more support. Pulmonary hypertension is L3, with small hemodynamic studies, and vascular disease is L2, though the Phase 2 RCT tested isosorbide mononitrate rather than isosorbide dinitrate. Both are better candidates for a follow-up evaluation.
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

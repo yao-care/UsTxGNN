@@ -29,98 +29,76 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-Using the report template you provided (the v5 Drug Repurposing Evaluation Report format from your prompt) to generate the report from the Evidence Pack JSON.
-
-A note before the report: this Evidence Pack is a "multi" candidate file — the drug has 7 ranked TxGNN predictions, all clustered around movement disorders. Per the template's extraction rule, `predicted_indications[0]` (highest TxGNN score) is **"psychogenic movement disorders"**, which has **zero clinical trials and zero literature** — the model itself flags this as likely an embedding-similarity artifact rather than a genuine mechanistic signal. I've followed the template literally for the required sections, and added one extra (non-duplicative) section summarizing the other ranked candidates in this batch, since two of them (chronic tic disorder, tardive dyskinesia/orofacial dyskinesia) carry meaningfully stronger literature support and are more decision-relevant than rank #1.
-
----
-
 # Donepezil: From Alzheimer's Disease to Psychogenic Movement Disorders
 
 ## One-Sentence Summary
 
-> Donepezil is a reversible acetylcholinesterase inhibitor established for the treatment of Alzheimer's disease dementia.
-> The TxGNN model's top-ranked prediction is **Psychogenic Movement Disorders**,
-> but this specific pairing is currently supported by **0 clinical trials** and **0 publications** — the mechanistic rationale itself notes the pathology (functional neurocircuit dysregulation) does not align with a cholinergic deficit model, suggesting the high score may reflect embedding similarity to other movement-disorder nodes rather than a real signal.
-
----
+Donepezil is a reversible acetylcholinesterase inhibitor, widely used to treat Alzheimer's-type dementia.
+The TxGNN model predicts it may be effective for **psychogenic movement disorders**, but the prediction currently has **0 clinical trials** and **0 publications** behind it. It is a model-only signal.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Alzheimer's disease (dementia) — inferred from known drug class; not present in this Evidence Pack (Taiwan license data unavailable) |
-| Predicted New Indication | Psychogenic Movement Disorders |
+| Original Indication | Alzheimer's disease (from the literature in the Evidence Pack; the US label text was not provided) |
+| Predicted New Indication | Psychogenic movement disorders |
 | TxGNN Prediction Score | 99.23% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| Taiwan Market Status | Not marketed (0 licenses on file) |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 licenses (all ANDA generics) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data was not available in this Evidence Pack (flagged as a High-severity data gap). Based on known pharmacology, donepezil is a reversible, centrally-acting acetylcholinesterase inhibitor (AChEI) — its efficacy in Alzheimer's disease dementia is well established (this is consistently confirmed across the literature retrieved for other candidates in this batch, e.g., PMID 12611743, PMID 14564129), and it works by increasing synaptic acetylcholine availability in cortical and striatal circuits.
+Detailed mechanism-of-action data for donepezil is not available in the source record. Based on known information, donepezil is a reversible acetylcholinesterase inhibitor that raises cholinergic tone. Its efficacy in Alzheimer's disease is established, but no mechanistic rationale is documented for functional or psychogenic movement disorders.
 
-For the top-ranked prediction, **psychogenic movement disorders**, the model's own rationale is explicitly skeptical: this condition is understood to arise from functional neurocircuit dysregulation rather than a cholinergic deficit, and no clinical or preclinical evidence links AChEIs to this pathology. The rationale text states the high TxGNN score "may be due to KG embedding similarity with other movement-disorder nodes" rather than a genuine pharmacological signal — i.e., this is likely a false-positive artifact of the knowledge graph rather than a testable hypothesis.
+The link between the original and new indication is weak. Psychogenic (functional) movement disorders are not primarily driven by a cholinergic deficit. Any benefit would therefore be speculative and unsupported by data. The high TxGNN score (99.23%) reflects a network-level association in the knowledge graph, not clinical validation.
 
-By contrast, other predictions within this same batch (see "Other Predicted Indications" below) have a more plausible mechanistic story — increased striatal ACh via nicotinic/muscarinic modulation of dopamine release has some literature support for tic disorders and tardive dyskinesia — but these rank lower by TxGNN score than the headline prediction reviewed here.
+Two related predictions from the same run have more support:
+- **Chronic tic disorder** (rank 2, evidence level L3): a small pediatric open-label study, a case report, and mouse studies support a cholinergic-modulation hypothesis.
+- **Tardive dyskinesia**: the evidence is indirect and mixed, and it includes reports of donepezil-induced movement adverse effects.
 
----
+If the goal is to advance a candidate, chronic tic disorder is the better research question than psychogenic movement disorders.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
----
+## US Market Information
 
-## Taiwan Market Information
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA203034 | Donepezil (Camber Pharmaceuticals) | Tablet | Not listed in source data |
+| ANDA203907 | Donepezil Hydrochloride (Golden State Medical Supply) | Film-coated tablet | Not listed in source data |
+| ANDA202782 | Donepezil Hydrochloride (Lupin Pharmaceuticals) | Tablet | Not listed in source data |
+| ANDA203656 | Donepezil Hydrochloride (Unichem Pharmaceuticals) | Film-coated tablet | Not listed in source data |
 
-Donepezil is not currently marketed in Taiwan under this Evidence Pack (0 licenses on file). No authorization records, product names, or approved-indication text are available to report.
-
----
+Available oral forms include tablets, film-coated tablets, and orally disintegrating tablets. ANDA203907 appeared twice in the source data and is shown once.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Movement-related adverse effects**: A 2025 systematic review (PMID 40224553) examined movement disorders associated with acetylcholinesterase inhibitors, including donepezil. Cholinergic excess can worsen parkinsonism and tremor. This is directly relevant to any movement-disorder use.
 
-*(Key warnings, contraindications, and drug-interaction data were queried but returned no results — TFDA label data is flagged as a Blocking data gap pending PDF retrieval and parsing.)*
-
----
-
-## Other Predicted Indications in This Batch
-
-This Evidence Pack contains 7 ranked TxGNN predictions for donepezil, all within the movement-disorder space. Two are more evidence-backed than the top-ranked candidate reviewed above and may warrant separate follow-up:
-
-| Rank | Disease | TxGNN Score | Evidence Level | Decision Stage | Recommendation | Key Support |
-|------|---------|-------------|-----------------|------------------|------------------|--------------|
-| 2 | Chronic tic disorder | 99.19% | L3 | S1 | Research Question | 5 publications, incl. an 18-week open-label dose-escalation study in children/adolescents (PMID 18343255) and preclinical Tourette-model data (PMID 14643839, 16045972) |
-| 5 | Extrapyramidal and movement disease | 99.16% | L3 | S1 | Hold | 4 publications, but evidence direction is mixed — a systematic review (PMID 40224553) documents AChEIs as a *cause* of movement disorders in Alzheimer's patients, opposing the predicted therapeutic direction |
-| 8 | Lingual-facial-buccal dyskinesia (tardive dyskinesia) | 99.02% | L3 | S2 | Research Question | 20 publications, including **2 Cochrane systematic reviews** on cholinergic drugs for antipsychotic-induced tardive dyskinesia (PMID 29553158, 12137608) — the most substantive evidence base in this batch |
-
-These three signals reflect a coherent pharmacological theme (cholinergic modulation of hyperkinetic movement disorders) worth evaluating as a group, separate from the psychogenic movement disorders prediction, which lacks any supporting evidence.
-
----
+Please refer to the package insert for warnings, contraindications, and drug interaction information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, psychogenic movement disorders, has no clinical trial or literature support, and the proposed mechanism (cholinergic enhancement) does not align with the condition's known functional/neurocircuit pathology. The model's own rationale flags this as a probable knowledge-graph artifact rather than a genuine repurposing signal.
+The prediction rests only on a model score, with no trials or publications. There is also no documented mechanistic rationale, and known movement-related adverse effects of cholinesterase inhibitors argue for caution.
 
 **To proceed, the following is needed:**
-- TFDA label data (warnings, contraindications) — currently a Blocking data gap
-- Confirmed mechanism-of-action detail from DrugBank — currently a High-severity data gap
-- If pursuing the psychogenic movement disorders lead specifically: independent mechanistic or case-level evidence, since none currently exists
-- Consider redirecting evaluation toward the two more evidence-backed candidates in this batch (chronic tic disorder; tardive/orofacial dyskinesia), where systematic-review-level literature already exists, as a more productive use of further research effort
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism-of-action data from DrugBank
+- A literature search specific to psychogenic or functional movement disorders
+- Consideration of prioritizing chronic tic disorder (rank 2) for further evaluation
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

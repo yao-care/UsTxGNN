@@ -29,95 +29,78 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-Using the `txgnn-pipeline` skill — this is a TxGNN drug repurposing report generation task. Now producing the report from the Evidence Pack.
-
----
-
-# Acetohydroxamic Acid: From Struvite Urinary Tract Infection to Ureaplasma Urethritis
+# Acetohydroxamic Acid: From Chronic Urea-Splitting Urinary Infection (Adjunct Therapy) to Ureaplasma Urethritis
 
 ## One-Sentence Summary
 
-Acetohydroxamic acid (AHA) is a urease inhibitor, traditionally used as adjunctive therapy for recurrent struvite (infection) kidney stones caused by urease-producing bacteria, though no local market authorization data is available in this dataset.
-The TxGNN model predicts it may be effective for **Ureaplasma urethritis** with a prediction score of **99.63%**, but **no clinical trials** and **no publications** currently support this direction within the current dataset.
-
----
+Acetohydroxamic acid is an oral urease inhibitor marketed in the US as Lithostat tablets. The Evidence Pack describes its use as adjunct therapy in chronic urea-splitting urinary infections, although the FDA license record contains no indication text.
+The TxGNN model predicts it may be effective for **Ureaplasma urethritis**, but **0 clinical trials** and **0 publications** are currently linked, so this is a model-only hypothesis.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not available from local registry (US Lithostat: adjunctive therapy for struvite kidney stones due to urease-producing bacteria) |
+|------|------|
+| Original Indication | Not listed in the license record (the Evidence Pack's rationale describes adjunct use in chronic urea-splitting urinary infections) |
 | Predicted New Indication | Ureaplasma urethritis |
 | TxGNN Prediction Score | 99.63% |
 | Evidence Level | L5 |
-| Market Status | ✗ Not marketed |
-| Number of Licenses | 0 |
-| Recommended Decision | Research Question |
-
----
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Acetohydroxamic acid is a synthetic hydroxamic acid compound that acts as a competitive and irreversible inhibitor of bacterial urease — the enzyme responsible for hydrolyzing urea into ammonia and carbon dioxide. This ammonia production creates an alkaline urinary environment that damages urothelial membranes, promotes inflammation, and in the kidney, drives struvite crystal formation. By blocking urease at the enzymatic level, AHA cuts off this entire downstream cascade.
+Detailed mechanism of action data is not available in the structured drug record. Based on the mechanistic rationale in the Evidence Pack, acetohydroxamic acid is a urease inhibitor. Blocking urease reduces the breakdown of urea into ammonia, which in turn limits local alkalinization of the urinary tract.
 
-*Ureaplasma urealyticum* and *Ureaplasma parvum* are exceptional among urogenital pathogens: their pathogenicity is almost entirely dependent on urease activity. They are among the most potent urease-producing organisms colonizing the urogenital tract, and urease-derived ammonia is the primary driver of mucosal damage, persistent inflammation, and colonization success. This creates a direct, mechanism-first connection between AHA's pharmacological action and Ureaplasma urethritis — the pathogen's Achilles heel is precisely what AHA targets.
+*Ureaplasma urealyticum* expresses urease, so there is a plausible biological rationale: inhibiting the enzyme could reduce ammonia production and local alkalinization at the infection site. This is the same logic behind the drug's use in urea-splitting urinary infections.
 
-Among the four predicted indications in this Evidence Pack, Ureaplasma urethritis has the clearest and strongest mechanistic rationale. While no clinical trial or publication records appear within the current dataset, in vitro studies and animal model evidence supporting AHA's activity against Ureaplasma are known to exist in the broader scientific literature. This is most likely a dataset coverage gap rather than a genuine absence of scientific basis, making this an active hypothesis worth pursuing.
+The reasoning stops there. The 99.63% TxGNN score is a graph-based prediction only. No trial or publication shows that urease inhibition improves outcomes in Ureaplasma urethritis. Standard antibiotic therapy is not replaced by this mechanism. Systemic exposure also carries known safety concerns, including teratogenicity and hemolytic anemia.
 
----
+For the other predictions, the Evidence Pack sees the following:
+
+- **Gonococcal urethritis (99.63%):** No clear mechanistic link, because *Neisseria gonorrhoeae* is not a recognized urease-producing pathogen. Recommendation: Hold.
+- **Uterine inflammatory disease (99.54%):** No established link, because the disease is polymicrobial. The drug's teratogenicity is also a problem for women of reproductive age. Recommendation: Hold.
+- **Xanthogranulomatous pyelonephritis (99.46%):** A plausible indirect link through urease-producing organisms (e.g., Proteus) and struvite stones. The link is inferred from shared pathophysiology only. The disease is usually managed surgically and antimicrobially. Recommendation: Research Question.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## US Market Information
 
-## Market Information
-
-No licensed products are registered in the local market (0 authorizations on record). Acetohydroxamic acid is marketed in the United States as **Lithostat** (Mission Pharmacal) for adjunctive treatment of chronic urea-splitting urinary tract infections causing struvite nephrolithiasis, but does not appear in the local (Taiwan) regulatory registry.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA018749 | Lithostat (Mission Pharmacal Company) | Tablet (oral) | Not provided in the license record |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Structured warning, contraindication and drug-interaction data are not available in the Evidence Pack. Please refer to the package insert for safety information.
 
-> Prescribing information (TFDA label and DDI data) was not available in this dataset. The US Lithostat prescribing information documents known risks including hemolytic anemia, teratogenicity, and neurological side effects. These should be reviewed before any clinical development planning.
+The mechanistic rationale for this candidate flags these concerns for systemic exposure:
 
----
-
-## Additional Predicted Indications
-
-The TxGNN model identified three further candidates. Mechanistic assessments from the Evidence Pack are summarized for completeness:
-
-| Rank | Disease | Score | Decision | Mechanistic Assessment |
-|------|---------|-------|----------|----------------------|
-| 2 | Gonococcal urethritis | 99.63% | Hold | *Neisseria gonorrhoeae* is urease-negative; TxGNN score likely driven by disease-class similarity (urethritis), not mechanism. No direct pharmacological basis. |
-| 3 | Uterine inflammatory disease | 99.54% | Hold | May involve Ureaplasma in a subset of cases, but the condition is broadly defined and predominantly polymicrobial (non-urease organisms). Applicability is indirect and limited. |
-| 4 | Xanthogranulomatous pyelonephritis | 99.46% | Hold | Mechanistic link exists via *Proteus mirabilis* (a strong urease producer), but XGP treatment is primarily surgical (nephrectomy). AHA's long-term toxicity profile makes the benefit/risk ratio unfavorable in this chronic inflammatory context. |
-
----
+- **Teratogenicity:** This is a particular problem for uterine inflammatory disease, where the target population is women of reproductive age.
+- **Hemolytic anemia**
+- **Thromboembolic events**
 
 ## Conclusion and Next Steps
 
-**Decision: Research Question**
+**Decision: Hold**
 
 **Rationale:**
-The mechanistic connection between AHA's urease inhibition and Ureaplasma's urease-dependent pathogenesis is direct and pharmacologically coherent — this is among the cleaner mechanism-to-target alignments seen in urological repurposing candidates. However, with zero supporting clinical trial or literature evidence in the current dataset (L5), this is a hypothesis that requires translational validation before any development commitment.
+The prediction rests on model score and a plausible urease-based rationale alone. There are no linked trials or publications (Evidence Level L5, stage S0), and standard antibiotic therapy already exists. The drug's systemic toxicity profile adds further risk.
 
 **To proceed, the following is needed:**
-- Targeted literature review outside the current dataset to surface existing in vitro MIC data for AHA against *Ureaplasma urealyticum* / *U. parvum*
-- MOA data retrieval from DrugBank (data gap DG002) to complete formal mechanistic documentation
-- Full prescribing information review (US Lithostat label or TFDA equivalent) to characterize safety boundaries — particularly hemolytic anemia risk and teratogenicity for the target population
-- Pharmacokinetic assessment: urogenital tissue penetration and urethral concentration achievable at tolerated doses
-- Route-of-administration feasibility: evaluation of oral vs. topical/local delivery for urethral indications
-- If in vitro data is supportive, design a small Phase 2 proof-of-concept study in *Ureaplasma*-positive urethritis patients with confirmed antibiotic resistance
+- The FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data from DrugBank
+- A literature review of urease inhibition in *Ureaplasma* infection, covering preclinical and case-based evidence
+- Route compatibility and similarity-to-original assessments, currently pending
+- For the xanthogranulomatous pyelonephritis hypothesis, a retrospective or case-based evidence review weighed against the drug's toxicity
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

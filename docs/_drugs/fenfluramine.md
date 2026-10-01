@@ -29,11 +29,12 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Fenfluramine: From Epilepsy Syndromes to Proximal 16p11.2 Microdeletion Syndrome
+# Fenfluramine: From Seizures in Dravet and Lennox-Gastaut Syndromes to Proximal 16p11.2 Microdeletion Syndrome
 
 ## One-Sentence Summary
 
-Fenfluramine is a serotonin-releasing/5-HT2C agonist agent whose established use is in severe epilepsy syndromes (Dravet syndrome, Lennox-Gastaut syndrome); it is **not marketed** under the regulatory data in this evidence pack. The TxGNN model predicts a possible link to **proximal 16p11.2 microdeletion syndrome**, but this prediction is supported by **zero clinical trials and zero publications** — it is a model-score-only signal.
+Fenfluramine (Fintepla) is a serotonin-releasing drug marketed in the US for seizures in developmental epileptic encephalopathies (Dravet syndrome and Lennox-Gastaut syndrome).
+The TxGNN model predicts it may be useful for **proximal 16p11.2 microdeletion syndrome**, but there are currently **0 clinical trials** and **0 publications** supporting this direction, so it remains a hypothesis-level research question.
 
 ---
 
@@ -41,25 +42,23 @@ Fenfluramine is a serotonin-releasing/5-HT2C agonist agent whose established use
 
 | Item | Content |
 |------|------|
-| Original Indication | Not formally recorded in this evidence pack (no license data); background text indicates use in Dravet syndrome and Lennox-Gastaut syndrome |
+| Original Indication | Not stated in the US license record (the seizure indications above come from the drug's known marketed use) |
 | Predicted New Indication | Proximal 16p11.2 microdeletion syndrome |
-| TxGNN Prediction Score | 99.93% (rank 2543 among all candidates) |
+| TxGNN Prediction Score | 99.93% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data from DrugBank is flagged as a data gap in this evidence pack. Based on the available rationale text, fenfluramine is known as a serotonin-releasing agent / 5-HT2C receptor agonist, pharmacologically established for seizure control in Dravet syndrome and Lennox-Gastaut syndrome.
+Detailed mechanism-of-action data is not available in the supplied record. Based on general pharmacology, fenfluramine is a serotonin-releasing agent and 5-HT2 receptor agonist with anorectic (appetite-suppressing) effects.
 
-Proximal 16p11.2 microdeletion syndrome is a copy-number-variant genomic disorder whose clinical presentation can include obesity, autism-spectrum features, and (in some patients) seizures. The overlap with fenfluramine's known pharmacology appears to be indirect — likely mediated through shared graph nodes such as "obesity" (fenfluramine's historical appetite-suppressant use) or "seizure" — rather than a mechanism that addresses the syndrome's underlying genetic cause.
+The 16p11.2 deletion syndrome includes hyperphagia and obesity, epilepsy, and autism-spectrum features. Fenfluramine's seizure indication and its appetite-suppressing effects overlap with two of these features, which gives a plausible but indirect link. This reasoning rests on general pharmacology, not on any trial or publication in this dataset.
 
-Given this, the high TxGNN score most likely reflects graph-distance proximity through these intermediate nodes rather than a direct causal pathway. The mid-tier overall rank (2543) relative to the score's near-ceiling value further suggests limited specificity for this particular disease-drug pair.
-
-It is also worth noting that the other top-ranked predictions for this drug in the current evidence pack (hypervitaminosis, obsolete hypertelorism, frontorhiny) are explicitly flagged in their own rationale text as mechanistically implausible or likely graph noise — this pattern raises the bar for what independent evidence would be needed before treating the 16p11.2 prediction as more than a hypothesis.
+The model also ranked three other predictions highly: hypervitaminosis, obsolete hypertelorism, and frontorhiny. None has a credible mechanistic link, and all are likely knowledge-graph artifacts. Hypertelorism and frontorhiny are structural craniofacial conditions, and hypervitaminosis is managed by stopping the vitamin and giving supportive care. The 16p11.2 microdeletion syndrome is the only prediction with a biologically reasonable connection.
 
 ---
 
@@ -77,13 +76,18 @@ Currently no related literature available.
 
 ## US Market Information
 
-Fenfluramine is not marketed under the regulatory data available (0 licenses on record); no authorization or product information is available to summarize.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA212102 | Fintepla (UCB, Inc.) | Solution | Not stated in the record |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Cardiopulmonary risks**: Valvular heart disease and pulmonary arterial hypertension are known concerns with fenfluramine. Any future study in a new population would need to weigh them.
+- **Drug Interactions**: No interaction records were found in the query.
+
+Please refer to the package insert for full warnings and contraindications.
 
 ---
 
@@ -92,13 +96,13 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests entirely on a TxGNN model score (L5) with no corroborating clinical trials or literature, and the proposed mechanistic link is indirect (via shared graph nodes rather than a disease-specific pathway). Combined with a Blocking data gap on TFDA safety labeling, this candidate does not meet the threshold to advance past S0.
+The prediction is supported only by the model score and an indirect pharmacological argument. No trials or publications exist for this syndrome, and the known cardiopulmonary risks raise the bar for any new use.
 
 **To proceed, the following is needed:**
-- TFDA package insert warnings/contraindications (DG001, Blocking) — required before any S1 safety screening
-- Confirmed mechanism-of-action data from DrugBank (DG002, High)
-- Independent literature/mechanistic search specifically on serotonergic agents in 16p11.2 microdeletion syndrome (obesity or seizure sub-phenotypes)
-- Formal confirmation of fenfluramine's original approved indication(s) and licensing status, currently absent from this evidence pack
+- Package insert warnings and contraindications
+- Mechanism-of-action data
+- Preclinical or literature evidence linking serotonergic activity to the seizure or appetite phenotypes of 16p11.2 deletion
+- A risk-benefit and cardiac monitoring plan for any exploratory study
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

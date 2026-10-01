@@ -29,13 +29,12 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Polyethylene Glycol 400: From Pharmaceutical Excipient to Bronchitis
+# Polyethylene Glycol 400: From Ophthalmic Lubricant Products to Bronchitis
 
 ## One-Sentence Summary
 
-> POLYETHYLENE GLYCOL 400 (PEG 400) is a pharmaceutical excipient with no established original therapeutic indication and is currently not marketed in Taiwan.
-> The TxGNN model predicts it may be effective for **Bronchitis**,
-> but this prediction is supported only by **5 clinical trials that are mismatched to an unrelated drug (MIRCERA)** and **no relevant literature**.
+Polyethylene glycol 400 (PEG 400) is mainly a pharmaceutical excipient and solvent. In the US market it appears in over-the-counter eye drops such as Blink Tears and Visine Dry Eye Relief.
+The TxGNN model predicts it may be effective for **bronchitis**, but this rests on the model score alone. The **5 linked clinical trials** all study a different agent (PEGylated epoetin, Mircera) in anemia, and there are **0 publications**.
 
 ---
 
@@ -43,37 +42,36 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 | Item | Content |
 |------|------|
-| Original Indication | No approved therapeutic indication (used as pharmaceutical excipient/solvent/vehicle) |
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 99.58% |
-| Evidence Level | L5 |
-| US Market Status | ✗ Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (`[Data Gap]`). Based on known information, PEG 400 is a pharmaceutical excipient commonly used as a solvent, lubricant, or osmotic/vehicle agent in drug formulations rather than as an active therapeutic ingredient. It has no registered original indication in the available regulatory data, and it is not currently marketed.
+Currently, detailed mechanism of action data is not available. DrugBank lists no original indication or MOA for PEG 400. Based on known information, PEG 400 is mainly an excipient, solvent and osmotic laxative base. Its marketed eye-drop products act as lubricants and do not treat a disease.
 
-Because PEG 400 has no defined pharmacological indication to begin with, there is no established disease-mechanism relationship to compare against the predicted new indication of bronchitis. All five retrieved clinical trials actually studied **MIRCERA (methoxy polyethylene glycol-epoetin beta)** — a distinct, PEGylated erythropoiesis-stimulating agent for renal anemia — not PEG 400 itself. The evidence-pack review graded all five trials as relevance **"C" (string/entity mismatch)**, indicating this is very likely a knowledge-graph node collision (PEG-containing drug names) rather than a genuine biological signal linking PEG 400 to bronchitis.
+We found no credible mechanistic link between PEG 400 and bronchitis. The TxGNN score of 0.996 is a knowledge-graph prediction only. The trials attached to this prediction appear to have been matched on the string "polyethylene glycol", not on PEG 400 as an active agent. They involve methoxy polyethylene glycol-epoetin beta, a large PEGylated protein with a completely different pharmacology.
 
-Given the absence of a plausible mechanistic hypothesis and the mismatched evidence base, this prediction should be treated as a raw model output requiring independent verification before any further evaluation.
+The second-ranked prediction, congenital ichthyosiform erythroderma (score 99.10%), has no trials or literature. Its only rationale is that PEG 400 works as a humectant and vehicle in topical products. That would be a vehicle effect, not disease-modifying activity.
 
 ---
 
 ## Clinical Trial Evidence
 
-⚠️ **Note:** The trials below were retrieved by the evidence pipeline under this candidate, but per internal relevance grading (all Grade C) they pertain to **MIRCERA (methoxy PEG-epoetin beta)** for renal anemia, not to PEG 400 or bronchitis. They are listed for transparency only and should not be interpreted as supporting evidence.
+All five trials were graded C (low relevance). They study Mircera (methoxy polyethylene glycol-epoetin beta) in renal anemia, not PEG 400 and not bronchitis.
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT01379963](https://clinicaltrials.gov/study/NCT01379963) | N/A | Completed | 780 | Retrospective observational study of hemoglobin levels in renal anemia patients treated with MIRCERA — unrelated to PEG 400/bronchitis |
-| [NCT01422824](https://clinicaltrials.gov/study/NCT01422824) | N/A | Completed | 185 | Non-interventional safety/efficacy study of MIRCERA in chronic renal anemia on hemodialysis — unrelated to PEG 400/bronchitis |
-| [NCT00559273](https://clinicaltrials.gov/study/NCT00559273) | Phase 3 | Completed | 307 | RCT comparing MIRCERA vs darbepoetin alfa for anemia correction in non-dialysis CKD — unrelated to PEG 400/bronchitis |
-| [NCT01309295](https://clinicaltrials.gov/study/NCT01309295) | N/A | Completed | 250 | Prospective study of MIRCERA efficacy/safety in pre-dialysis and dialysis CKD patients — unrelated to PEG 400/bronchitis |
-| [NCT01519947](https://clinicaltrials.gov/study/NCT01519947) | Phase 4 | Completed | 87 | Effect of altitude on MIRCERA dosage requirements in chronic renal anemia — unrelated to PEG 400/bronchitis |
+| [NCT00559273](https://clinicaltrials.gov/study/NCT00559273) | Phase 3 | Completed | 307 | Once-every-4-weeks subcutaneous Mircera vs darbepoetin for anemia in non-dialysis CKD. Unrelated to PEG 400 or bronchitis. |
+| [NCT01519947](https://clinicaltrials.gov/study/NCT01519947) | Phase 4 | Completed | 87 | Effect of altitude on Mircera dose requirements in renal anemia. Unrelated to PEG 400 or bronchitis. |
+| [NCT01379963](https://clinicaltrials.gov/study/NCT01379963) | N/A | Completed | 780 | Retrospective observational study of hemoglobin levels over 6 months of Mircera treatment. Unrelated. |
+| [NCT01422824](https://clinicaltrials.gov/study/NCT01422824) | N/A | Completed | 185 | Observational safety and efficacy study of Mircera in hemodialysis patients (STABILE). Unrelated. |
+| [NCT01309295](https://clinicaltrials.gov/study/NCT01309295) | N/A | Completed | 250 | Prospective observational study of Mircera in predialysis and dialysis CKD. Unrelated. |
 
 ---
 
@@ -85,21 +83,21 @@ Currently no related literature available.
 
 ## US Market Information
 
-PEG 400 currently holds no marketing authorization records (0 NDAs); no license or product information is available.
+The regulatory record lists 20 authorizations in total. The distinct products among the five entries provided are below. The record gives no approved indication text.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| M018 | Blink Tears | Solution/drops | Bausch & Lomb Incorporated |
+| M018 | Blink Triple Care | Solution/drops | Bausch & Lomb Incorporated |
+| M018 | Visine Dry Eye Relief | Solution/drops | Kenvue Brands LLC |
+
+Other dosage forms on record include solution and topical gel.
 
 ---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-> Note: Detailed TFDA label warnings and contraindications for this substance are currently unavailable (Blocking data gap), which prevents a formal safety pre-assessment (S1 stage).
-
----
-
-## Additional Predicted Indication (Lower Confidence)
-
-The evidence pack also includes a second, weaker prediction: **Congenital Ichthyosiform Erythroderma** (TxGNN score 99.10%, rank 19,442). This candidate has **no supporting clinical trials or literature at all**, and the proposed rationale (PEG 400's use as a topical moisturizing/vehicle agent) is speculative with no direct mechanistic or clinical data. It is at an even earlier stage (L5/S0) than the bronchitis prediction and is not recommended for further evaluation at this time.
 
 ---
 
@@ -108,13 +106,13 @@ The evidence pack also includes a second, weaker prediction: **Congenital Ichthy
 **Decision: Hold**
 
 **Rationale:**
-This candidate is a pure model prediction (L5) with no genuine supporting clinical or literature evidence — the only retrieved trials are mismatched to an unrelated PEGylated drug. Combined with the missing mechanism-of-action data and a blocking gap in TFDA safety labeling, there is currently no basis to advance this indication beyond initial screening.
+The prediction has no supporting evidence (L5). The five linked trials concern a different PEGylated biologic in anemia, and no literature exists. No mechanistic link between PEG 400 and bronchitis could be established.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications for PEG 400 (Blocking gap; required for S1 safety screening)
-- Confirmed mechanism of action (MOA) data from DrugBank or primary literature
-- Verification that the TxGNN association is not an artifact of PEG-name entity collision (e.g., re-run evidence search using strict PEG 400 CAS/synonym filters, excluding PEGylated biologics such as MIRCERA)
-- Any genuine preclinical or clinical evidence directly linking PEG 400 (not PEGylated conjugates) to respiratory/bronchial conditions
+- FDA package insert warnings and contraindications. This is a blocking gap that prevents safety screening.
+- Mechanism of action data from DrugBank.
+- Trials or studies that actually test PEG 400 (not PEGylated proteins) in bronchitis, and a plausible route of administration for the respiratory tract.
+- Re-screening of the trial matching, since the current links appear to be string-match artifacts.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

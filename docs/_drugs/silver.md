@@ -29,84 +29,85 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# SILVER: From Unknown Indication to Bone Paget Disease
+# Silver: From No Labeled Indication to Bone Paget Disease
 
 ## One-Sentence Summary
 
-> SILVER (DrugBank ID: DB12965) has no recorded original indication, no marketed formulation, and no mechanism of action data available. The TxGNN model predicts a possible association with **Bone Paget Disease**, but this prediction appears to stem from a data artifact rather than genuine pharmacological evidence — the supporting "evidence" consists of histological silver-staining technique papers, not treatment studies.
-
----
+Silver is marketed in the US mainly as colloidal, wound-wash and homeopathic products, and the data record no approved indication for it.
+The TxGNN model predicts it may be effective for **bone Paget disease**, but this is a model output only. The **2 clinical trials** and **5 publications** found have no therapeutic link between silver and Paget disease.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no original indications recorded |
-| Predicted New Indication | Bone Paget Disease |
+| Original Indication | Not stated in the available data |
+| Predicted New Indication | bone Paget disease |
 | TxGNN Prediction Score | 99.67% |
 | Evidence Level | L5 |
-| US Market Status | Not marketed (Not marketed) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for SILVER. No original indications are on record, and the drug has not been approved or marketed in any reviewed jurisdiction, so there is no established clinical use to anchor a mechanistic rationale.
+Currently, detailed mechanism of action data is not available, and the drug record lists no original indications. Silver has no established treatment role in the data, so there is no proven efficacy in an original indication to extend to Paget disease.
 
-Critically, a review of the underlying literature suggests this prediction is **not mechanistically grounded**. All five literature citations relate to "silver staining" or "silver impregnation" — laboratory histology techniques used to visualize bone tissue sections (e.g., osteoclast nucleolar organizer regions, osteoid quantification) in Paget's disease research. None of these papers describe silver as a therapeutic agent. It is highly likely that the TxGNN knowledge graph conflated the entity "silver" (the drug) with "silver stain" (a laboratory technique term) that co-occurs frequently in Paget's disease pathology literature, producing a high confidence score (99.67%) that does not reflect real pharmacological relevance.
-
-The two clinical trials returned are similarly unrelated: one is a general rare-disease patient registry (not a drug intervention study), and the other concerns phosphate management in end-stage kidney disease with no mention of silver or silver compounds. Neither provides support for a silver–Paget's disease treatment relationship.
-
----
+The high score (0.997) most likely comes from the knowledge graph rather than from biology. The literature linking silver and Paget's disease of bone is about silver as a laboratory staining reagent. Examples are AgNOR staining of osteoclast nuclei and silver impregnation of bone sections. No mechanism such as osteoclast inhibition or bone-turnover modulation has been shown for silver. The prediction is therefore best read as a likely artifact of laboratory usage, not a real repurposing signal.
 
 ## Clinical Trial Evidence
 
+Neither registered trial tests silver or a silver-containing product, and both were graded C (not relevant).
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT01793168](https://clinicaltrials.gov/study/NCT01793168) | N/A | Recruiting | 20,000 | Rare disease patient registry (CoRDS); not a drug intervention trial, no direct link to silver or Paget's disease treatment |
-| [NCT03573089](https://clinicaltrials.gov/study/NCT03573089) | N/A | Recruiting | 3,600 | Phosphate-lowering strategy trial in dialysis patients; no mention of silver or related compounds |
-
----
+| [NCT01793168](https://clinicaltrials.gov/study/NCT01793168) | N/A | Recruiting | 20000 | CoRDS rare-disease patient registry (Sanford Research). It does not test silver, so it gives no efficacy or safety evidence. |
+| [NCT03573089](https://clinicaltrials.gov/study/NCT03573089) | N/A | Recruiting | 3600 | Trial of intensive vs. standard serum phosphate lowering in dialysis patients with end-stage kidney disease. It is unrelated to silver or Paget disease. |
 
 ## Literature Evidence
 
+All five publications are laboratory or histology papers. None is a clinical study of silver as a treatment.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [9836854](https://pubmed.ncbi.nlm.nih.gov/9836854/) | 1998 | Review/Basic Science | Bone | Silver-stained (AgNOR) nucleolar organizer regions in osteoclast nuclei of Paget's disease — a staining technique, not a treatment study |
-| [3163726](https://pubmed.ncbi.nlm.nih.gov/3163726/) | 1988 | Case study | J Nucl Med | Gallium-67 (not silver) citrate localization in Paget's disease osteoclasts |
-| [4111887](https://pubmed.ncbi.nlm.nih.gov/4111887/) | 1972 | Histology technique | Stain Technology | Silver staining method for quantifying osteoid in bone sections — methodology paper, not a treatment study |
-| [2420233](https://pubmed.ncbi.nlm.nih.gov/2420233/) | 1985 | Histology technique | Anat Anz | Silver impregnation method for bone tissue — methodology paper, not a treatment study |
-| [9227338](https://pubmed.ncbi.nlm.nih.gov/9227338/) | 1997 | Basic Science | J Pathol | Vitamin D receptor mRNA quantification technique; no direct relevance to silver |
-
----
+| [9836854](https://pubmed.ncbi.nlm.nih.gov/9836854/) | 1998 | Laboratory/histopathology | Bone | Silver-stained nucleolar organizer regions (AgNORs) are increased in osteoclast nuclei of Paget's bone disease. Silver is used only as a stain. |
+| [3163726](https://pubmed.ncbi.nlm.nih.gov/3163726/) | 1988 | Laboratory/imaging | J Nucl Med | Gallium-67 citrate localizes to osteoclast nuclei in Paget's disease. Silver is not the subject. |
+| [4111887](https://pubmed.ncbi.nlm.nih.gov/4111887/) | 1972 | Histological methods | Stain Technology | Silver staining of bone before decalcification to measure osteoid in sections. |
+| [2420233](https://pubmed.ncbi.nlm.nih.gov/2420233/) | 1985 | Histological methods | Anatomischer Anzeiger | Silver nitrate impregnation method for bone tissue. |
+| [9227338](https://pubmed.ncbi.nlm.nih.gov/9227338/) | 1997 | Laboratory methods | J Pathol | Limitations of in situ RT-PCR for quantifying vitamin D receptor mRNA in kidney and bone sections. Silver is not the subject. |
 
 ## US Market Information
 
-Currently no marketed authorizations available — SILVER has 0 recorded licenses and a "Not marketed" (not marketed) status.
+The listed authorization numbers are not available, and the approved indication text is empty for all five products below.
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Not listed | Colloidal Silver (BioActive Nutritional, Inc.) | Liquid | Not stated |
+| Not listed | Sovereign Silver Homeopathic Wound Wash (Natural Immunogenics Corp.) | Liquid | Not stated |
+| Not listed | Argentum Nitricum (Hahnemann Laboratories, Inc.) | Pellet | Not stated |
+| Not listed | Argentum Iodatum (Hahnemann Laboratories, Inc.) | Pellet | Not stated |
+| Not listed | Argentum Muriaticum (OHM Pharma Inc.) | Pellet | Not stated |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No key warnings, contraindications, or drug interaction data are currently available for SILVER.
+- **Drug Interactions**: No interactions were found in DrugBank for this entry.
 
----
+Please refer to the package insert for other safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN prediction score is high, but the underlying evidence is not credible — the literature base consists entirely of histological "silver staining" technique papers rather than therapeutic studies, and no clinical trials meaningfully support silver as a treatment for Bone Paget Disease. Combined with the absence of original indication, MOA, and market approval data, this candidate does not meet the threshold to proceed.
+The prediction rests on a knowledge-graph score alone (Evidence Level L5). Neither registered trial tests silver, and the literature concerns silver only as a staining reagent. There is no supported therapeutic mechanism and no clear original indication.
 
 **To proceed, the following is needed:**
-- Resolution of the entity-confusion issue in the knowledge graph (distinguish "silver" the drug from "silver stain" the laboratory technique)
-- TFDA label warnings/contraindications (currently blocking — DG001)
-- Mechanism of action data from DrugBank or equivalent source (DG002)
-- Identification of any genuine original indication(s) for SILVER
-- If re-evaluated, a fresh literature search specifically excluding histology/staining-methodology papers
+- Package insert warnings and contraindications for the marketed silver products
+- Mechanism of action data (MOA) from DrugBank
+- Any preclinical or clinical study that directly tests a silver compound in Paget disease or bone-turnover models
+- Confirmation of whether the TxGNN link is an artifact of the laboratory literature, for example by checking the knowledge-graph edges behind the score
+- A route and formulation assessment. The available forms (liquid, pellet, gel, spray, ointment) are not obviously suited to systemic bone disease.
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,80 +29,81 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Formaldehyde: From No Approved Therapeutic Indication to Diffuse Cutaneous Leishmaniasis (Low-Confidence Signal)
+# Formaldehyde: From No Labeled Indication to Diffuse Cutaneous Leishmaniasis
 
 ## One-Sentence Summary
 
-Formaldehyde (DrugBank DB03843) has no approved therapeutic indication and is not marketed as a drug in the US — its recognized uses are as a laboratory fixative, disinfectant, and embalming agent. The TxGNN model assigns its top prediction to **Diffuse Cutaneous Leishmaniasis** with a **99.93%** score, but this is supported by only **1 publication**, which is a diagnostic-methodology paper (comparing tissue-fixation techniques for parasite detection) rather than treatment evidence — the evidence pack's own analysis flags this as a likely data artifact.
-
----
+Formaldehyde is a reactive chemical widely used as a tissue fixative and disinfectant. In the US it appears in marketed homeopathic products (for example "Formalinum"), but the data provided lists no approved indication.
+The TxGNN model predicts it may be relevant to **diffuse cutaneous leishmaniasis**, but there are **0 clinical trials** and only **1 publication**, a laboratory diagnostic study in which formalin fixes tissue samples and is not a treatment.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | None on record — formaldehyde has no approved therapeutic indication; known uses are as an industrial/laboratory fixative and disinfectant |
-| Predicted New Indication | Diffuse Cutaneous Leishmaniasis |
+| Original Indication | Not stated in the available data |
+| Predicted New Indication | Leishmaniasis, diffuse cutaneous |
 | TxGNN Prediction Score | 99.93% |
-| Evidence Level | L5 (model prediction only; the one available reference is non-therapeutic) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 11 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for formaldehyde is not available (flagged as a High-severity data gap). Formaldehyde has no recorded therapeutic indication to compare against — its only well-established biological uses are as a fixative/cross-linking agent for tissue and specimen preservation, and as a disinfectant/sterilant.
+Currently, detailed mechanism of action data is not available. Formaldehyde is a reactive, cytotoxic electrophile that cross-links proteins and DNA. That is why it is used as a fixative, a disinfectant and a vaccine-inactivating agent.
 
-The single literature reference behind the top prediction (PMID 9830259) compares formalin-fixed, ethanol-fixed, and frozen specimen preservation methods for PCR-based detection of *Leishmania* parasites — it is a diagnostic methodology study, not evidence of therapeutic effect. The rationale field in the evidence pack states this explicitly: the TxGNN score most likely reflects co-occurrence of "formalin" with the disease node in a specimen-processing context in the knowledge graph, not a genuine pharmacological relationship. The same confound pattern recurs across most of the other top-10 predictions in this pack (vaccine antigen inactivation, FFPE tissue methodology, embalming/anatomical studies), so this is not an isolated case.
+The prediction does not look therapeutically grounded. The only supporting paper compares how well *Leishmania* DNA can be detected by PCR in formalin-fixed, ethanol-fixed and frozen skin biopsies. Formaldehyde appears there as a specimen preservative, not as a treatment. The high graph score most likely reflects the fixation and disinfection context rather than antileishmanial activity.
 
-One partial exception exists further down the ranked list: **pyelonephritis** (rank 4, evidence level L3, decision stage S1, "Research Question") is linked through methenamine (hippurate/mandelate salts), a prodrug that releases formaldehyde in acidic urine and is an established UTI-prophylaxis agent (e.g., NCT04077580, Phase 4, n=289, completed). This is a mechanistically plausible signal, but it applies to methenamine as a distinct chemical entity, not to formaldehyde administered directly.
+The other top predictions show the same pattern. Most are supported only by fixation-method papers, or by nothing at all.
 
-It is also important to note an opposite-direction safety signal present in the same evidence pack: for the X-linked lymphoproliferative syndrome candidate (rank 6), the supporting literature instead documents formaldehyde as an IARC Group 1 occupational carcinogen associated with lymphohematopoietic malignancies (PMID 31870335, 14600094, 19933446, 3770995) — i.e., a risk factor, not a treatment.
-
----
+- **Pyelonephritis** is the only one with an indirect signal. Methenamine hippurate releases formaldehyde in acidic urine and is used to prevent recurrent urinary tract infection. Two Phase 4 trials tested methenamine, not formaldehyde itself.
+- **Streptococcal pneumonia and malaria** are supported only by papers where formaldehyde is a vaccine or laboratory reagent.
+- **X-linked lymphoproliferative syndrome** is supported mainly by occupational-exposure studies that point toward harm.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [9830259](https://pubmed.ncbi.nlm.nih.gov/9830259/) | 1998 | Diagnostic methodology | The Journal of Dermatology | Compares formalin-fixed, ethanol-fixed, and frozen skin specimens for PCR/Southern blot detection of *Leishmania* parasites; a specimen-preparation study, not a treatment study |
-
----
+| [9830259](https://pubmed.ncbi.nlm.nih.gov/9830259/) | 1998 | Diagnostic methods comparison | J Dermatol | Compared detection of *Leishmania* by PCR and Southern blotting in formalin-fixed, ethanol-fixed and frozen skin biopsies from 19 leishmaniasis patients. Formalin is used only as a fixative; no treatment effect was assessed. |
 
 ## US Market Information
 
-Formaldehyde is not currently marketed as an approved drug product in the US (market status: Not Marketed; 0 NDA licenses on record). No authorization table applies.
+The data lists 11 authorizations, and 5 are shown here. None has a license number or approved indication in the source data. All appear to be homeopathic products.
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Not listed | Formalinum (Hahnemann Laboratories) | Pellet | Not stated |
+| Not listed | Formalinum (Hahnemann Laboratories) | Pellet | Not stated |
+| Not listed | Formalinum (Hahnemann Laboratories) | Pellet | Not stated |
+| Not listed | Formaldehyde (Professional Complementary Health Formulas) | Liquid | Not stated |
+| Not listed | Formalinum (Boiron) | Pellet | Not stated |
 
 ## Safety Considerations
 
-No structured safety data (key warnings, contraindications, DDI) is on record for formaldehyde — this is itself flagged as a **Blocking** data gap (DG001: TFDA label warnings/contraindications not yet retrieved), meaning this candidate cannot pass initial safety screening (S1) as currently documented.
+No package insert warnings, contraindications or drug interaction records were available. Please refer to the package insert for safety information.
 
-Separately, literature surfaced elsewhere in this evidence pack (in the context of an unrelated predicted indication) documents formaldehyde as an **IARC Group 1 human carcinogen**, with occupational-exposure studies linking it to myeloid leukemia, non-Hodgkin lymphoma, and nasopharyngeal/sinonasal cancer. This is a known hazard signal that should inform any further evaluation of this candidate, even though it does not appear in the structured `safety` fields.
-
----
+The retrieved literature also raises these concerns:
+- **Carcinogenicity**: Formaldehyde is considered a human carcinogen. A meta-analysis (PMID 31870335) examined occupational exposure and non-Hodgkin lymphoma risk, and other epidemiology links exposure to lymphohematopoietic cancers.
+- **Local tissue toxicity**: A case report (PMID 3822522) describes ureteric stenosis, fibrotic contraction of the renal pelves and recurrent pyelonephritis after intravesical formalin instillation.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-No approved indication, no MOA data, and no direct clinical or mechanistic evidence supports formaldehyde itself as a treatment for any of its top-ranked predicted indications; the top-ranked prediction (diffuse cutaneous leishmaniasis) rests on a single diagnostic-methodology paper unrelated to treatment, and the pattern repeats across most other candidates. The one indirect signal (pyelonephritis, via the methenamine prodrug) does not establish a case for formaldehyde itself.
+The prediction for diffuse cutaneous leishmaniasis is a model output with no clinical trials. Its only publication is a diagnostic study in which formaldehyde is a specimen fixative. There is no plausible therapeutic mechanism, and formaldehyde has documented toxicity and carcinogenicity concerns.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (DG001, Blocking — required before any S1 safety screening)
-- Verified mechanism-of-action data (DG002)
-- A route-of-administration and dosing feasibility assessment for formaldehyde as a therapeutic agent, given its known carcinogenicity
-- If the pyelonephritis/UTI-prophylaxis signal is worth pursuing, it should be scoped as a separate repurposing evaluation of **methenamine** (not formaldehyde)
+- Package insert safety data (warnings, contraindications), which is currently missing and blocks safety screening
+- Mechanism of action data from DrugBank
+- Any future work on the pyelonephritis or recurrent UTI signal should focus on methenamine as a formaldehyde-releasing prodrug and should not test formaldehyde directly
+- Evidence of actual antileishmanial activity (in vitro or in vivo) before any further evaluation for leishmaniasis
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

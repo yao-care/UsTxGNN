@@ -33,9 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-> Tiopronin is a thiol-containing compound whose established clinical use, based on its known pharmacology, is cystinuria (formal regulatory indication data was not retrievable for this evidence pack).
-> The TxGNN model predicts it may be effective for **Renal Tubular Acidosis**,
-> but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a model-only inference.
+Tiopronin is a thiol drug that binds cystine in the urine, and its established use is cystinuria (a kidney cystine-transporter defect). The TxGNN model predicts it may be effective for **Renal Tubular Acidosis** with a very high score, but **0 clinical trials** and **0 publications** support this direction. The prediction is likely a network-proximity artifact.
 
 ---
 
@@ -43,23 +41,23 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in regulatory license data; known pharmacological use is cystinuria (per mechanistic rationale in this evidence pack) |
-| Predicted New Indication | Renal Tubular Acidosis |
+| Original Indication | Cystinuria (not stated in the US license records; the approved indication text is empty) |
+| Predicted New Indication | Renal tubular acidosis |
 | TxGNN Prediction Score | 99.63% |
-| Evidence Level | L5 (model prediction only, no supporting trials or literature) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 15 authorizations in total (a mix of NDA and ANDA) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for tiopronin (flagged as a High-severity data gap). Based on known pharmacological information, tiopronin (2-mercaptopropionylglycine) is a free-thiol compound that acts through thiol–disulfide exchange reactions, forming soluble mixed disulfides with cystine. This mechanism underlies its established clinical use in cystinuria, a hereditary renal tubular amino-acid transporter defect.
+Detailed mechanism of action data is not available in the record. Tiopronin is a thiol that forms soluble mixed disulfides with cystine, which keeps cystine from crystallizing into stones. This is the basis of its established use in cystinuria.
 
-Renal tubular acidosis (RTA) and cystinuria share a superficial anatomical link — both are renal tubular disorders — but their underlying pathophysiology differs substantially. RTA is primarily caused by defective HCO3⁻/H⁺ transport at the tubular epithelium, a mechanism that thiol chemistry does not directly address. The evidence pack itself characterizes this link as "theoretical analogy" (理論類推), explicitly noting the absence of direct molecular evidence connecting tiopronin's thiol-exchange activity to acid-base transporter function.
+Renal tubular acidosis is a defect in how the kidney handles acid and bicarbonate. It is not a problem of cystine solubility. The two conditions both involve the kidney, but there is no clear mechanistic link. The high TxGNN score most likely reflects closeness in the knowledge graph rather than a real pharmacological rationale. No trials or literature were supplied to support the prediction.
 
-In short, the prediction is driven by knowledge-graph similarity between two renal tubular conditions rather than a validated shared mechanism. Without confirmatory mechanistic, preclinical, or clinical data, this should be treated as a hypothesis-generating signal only.
+The other nine top-ranked predictions have the same limitation. They include glycogen branching enzyme deficiency subtypes, tricarboxylic acid cycle disorder and pyruvate metabolism disorder, and none has a plausible mechanism for tiopronin.
 
 ---
 
@@ -77,15 +75,20 @@ Currently no related literature available.
 
 ## US Market Information
 
-Currently not marketed; no license records are available for tiopronin in the reviewed jurisdiction.
+Tiopronin is marketed in the US as oral delayed-release tablets. The record does not list an approved indication text for any of these authorizations. The table shows 5 distinct authorizations from the 15 on record.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA216456 | Tiopronin | Tablet, delayed release | Teva Pharmaceuticals, Inc. |
+| ANDA217219 | Tiopronin | Tablet, delayed release | Endo USA, Inc. |
+| ANDA216990 | VENXXIVA | Tablet, delayed release | Cycle Pharmaceuticals Ltd. |
+| NDA211843 | Tiopronin | Tablet, delayed release | BioComp Pharma, Inc. |
 
 ---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-Note: TFDA-specific warnings and contraindications could not be retrieved for this candidate (data gap DG001, severity: Blocking). This gap currently prevents a formal S1 safety pre-assessment.
 
 ---
 
@@ -94,16 +97,13 @@ Note: TFDA-specific warnings and contraindications could not be retrieved for th
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked predicted indication (renal tubular acidosis) is supported only by a TxGNN similarity score, with zero clinical trials or literature and an explicitly weak, non-validated mechanistic rationale. Combined with the absence of Taiwan/US market presence and a blocking safety data gap, there is currently insufficient evidence to advance this candidate.
+The prediction is supported only by the model score. There are no clinical trials or literature, and the mechanism does not connect a cystine-binding thiol to an acid-base transport defect.
 
 **To proceed, the following is needed:**
-- TFDA (or equivalent) warning/contraindication data for tiopronin (resolves blocking gap DG001)
-- Confirmed mechanism of action data via DrugBank or primary literature (resolves gap DG002)
-- Preclinical or mechanistic studies directly linking thiol-exchange chemistry to renal tubular acid-base (HCO3⁻/H⁺) transport
-- Clinical or case-level evidence specific to tiopronin use in renal tubular acidosis
-- A regulatory feasibility assessment given the drug's current non-marketed status
-
-*Note: Nine additional lower-ranked predictions (adult polyglucosan body disease, multiple glycogen branching enzyme deficiency subtypes, TCA cycle disorder, pyruvate metabolism disorder, fatty acid oxidation disorder, and disease of transporter activity) were also reviewed. All carry evidence level L4–L5 with either no supporting literature or only indirect/mechanistic-tool-use citations, and share the same "Hold" recommendation.*
+- Package insert warnings and contraindications, which block any safety screening
+- Detailed mechanism of action data (MOA) from DrugBank
+- A literature and trial search specific to tiopronin in renal tubular acidosis
+- A mechanistic hypothesis that explains the link, if the search finds any signal
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

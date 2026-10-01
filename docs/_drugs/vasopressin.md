@@ -29,13 +29,12 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-# Vasopressin: From Unrecorded Original Indication to Congenital Prothrombin Deficiency
+# Vasopressin: From a Marketed Injectable to Congenital Prothrombin Deficiency
 
 ## One-Sentence Summary
 
-> Vasopressin (DrugBank ID DB00067) has no recorded original indication or mechanism-of-action data in this evidence pack, and it currently holds no marketing authorization in Taiwan (Not marketed).
-> The TxGNN model predicts potential efficacy for **Congenital Prothrombin Deficiency**, but this is supported only by **0 clinical trials** and **3 indirectly related publications** (case reports/review) —
-> and the repurposing rationale itself flags a likely drug/disease entity-confusion issue that significantly weakens the credibility of this prediction.
+Vasopressin is a marketed injectable product in the United States, but the source data does not record its original indication.
+The TxGNN model predicts it may be effective for **congenital prothrombin deficiency**, but there are **0 clinical trials** and **3 publications**, and none of the publications address prothrombin. Evidence is very weak.
 
 ---
 
@@ -43,23 +42,20 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no original indication recorded in this evidence pack |
-| Predicted New Indication | Congenital Prothrombin Deficiency |
+| Predicted New Indication | Congenital prothrombin deficiency |
 | TxGNN Prediction Score | 99.63% |
 | Evidence Level | L4 |
-| US Market Status | Not Marketed (Not marketed) |
-| Number of NDAs | 0 |
-| Recommended Decision | **Hold** |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for vasopressin is not available in this evidence pack (`original_moa: [Data Gap]`). Without an established MOA, it is not possible to build a direct mechanistic link between vasopressin and congenital prothrombin (Factor II) deficiency.
+Currently, detailed mechanism of action data for vasopressin is not available in the source data, and neither are its original indications. The only plausible link is indirect. Vasopressin and its analog desmopressin (DDAVP) raise plasma factor VIII and von Willebrand factor by releasing endothelial stores through V2 receptors.
 
-More importantly, the repurposing rationale supplied with this candidate flags a critical concern: the cited literature actually discusses **desmopressin (DDAVP)** — a selective V2-receptor analog of vasopressin — which promotes release of von Willebrand factor (vWF) and Factor VIII, not vasopressin itself. In addition, the disease context in the literature (Factor V/VIII deficiency, acquired hemophilia A) differs from the predicted target (congenital prothrombin/Factor II deficiency), which sits further downstream in the common coagulation pathway and has no established relationship to vWF/FVIII release mechanisms.
-
-This double mismatch — drug (vasopressin vs. desmopressin) and disease (FV/FVIII deficiency vs. prothrombin deficiency) — suggests the high TxGNN score may reflect a knowledge-graph node confusion between vasopressin and desmopressin rather than a genuine pharmacological signal. This substantially weakens the case for treating this as a credible mechanistic hypothesis at this stage.
+This mechanism does not act on prothrombin (factor II), so there is no plausible direct benefit in prothrombin deficiency. The very high TxGNN score (99.63%) most likely reflects graph proximity to other coagulation factor deficiencies, not a pharmacological rationale. The retrieved literature concerns factor VIII and factor V deficiency, and none of it addresses prothrombin.
 
 ---
 
@@ -73,31 +69,29 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [21115138](https://pubmed.ncbi.nlm.nih.gov/21115138/) | 2011 | Review | Autoimmunity Reviews | Reviews acquired hemophilia A (autoantibodies against Factor VIII); does not discuss vasopressin or prothrombin deficiency directly |
-| [2607619](https://pubmed.ncbi.nlm.nih.gov/2607619/) | 1989 | Case Report | Rinsho Ketsueki (Jpn J Clin Hematol) | DDAVP administration in a patient with congenital combined Factor V and Factor VIII deficiency |
-| [1942544](https://pubmed.ncbi.nlm.nih.gov/1942544/) | 1991 | Case Report | Rinsho Ketsueki (Jpn J Clin Hematol) | Cesarean section managed with Factor VIII concentrate replacement in a pregnant patient with combined FV/FVIII deficiency |
-
-**Note:** None of the above literature discusses vasopressin (as opposed to desmopressin) or congenital prothrombin (Factor II) deficiency specifically; relevance to this candidate is indirect at best.
+| [21115138](https://pubmed.ncbi.nlm.nih.gov/21115138/) | 2011 | Review | Autoimmunity Reviews | Acquired hemophilia A (autoantibodies against factor VIII): diagnosis, causes, clinical spectrum and treatment options. Not about prothrombin. |
+| [2607619](https://pubmed.ncbi.nlm.nih.gov/2607619/) | 1989 | Case report | Rinsho Ketsueki (Japanese J Clin Hematol) | DDAVP given to a 43-year-old man with congenital combined factor V and factor VIII deficiency. |
+| [1942544](https://pubmed.ncbi.nlm.nih.gov/1942544/) | 1991 | Case report | Rinsho Ketsueki (Japanese J Clin Hematol) | Cesarean section managed with factor VIII concentrate replacement in a pregnant woman with combined factor V and factor VIII deficiency. |
 
 ---
 
 ## US Market Information
 
-This drug currently holds no marketing authorization in Taiwan (市場狀態：Not marketed). No license records are available in this evidence pack (`total_licenses: 0`).
+Five of the 20 authorizations are listed below. The source data does not include approved indication text.
 
----
-
-## Additional Predicted Indication (Not Prioritized)
-
-The evidence pack also includes a second, lower-ranked candidate: **drug-induced osteoporosis** (TxGNN score 99.62%, Evidence Level **L5**, recommendation **Hold**). This candidate has **no supporting clinical trials or literature** and no known mechanistic pathway linking vasopressin's known receptor activity (V1a/V1b/V2) to bone metabolism. It is a model-prediction-only hypothesis and requires independent mechanistic validation before any further evaluation.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|------|
+| NDA217569 | Vasopressin in 0.9% Sodium Chloride | Injection | Baxter Healthcare Corporation |
+| ANDA213206 | Vasopressin | Injection, solution | Fresenius Kabi USA, LLC |
+| ANDA214314 | Vasopressin | Injection | Eugia US LLC |
+| ANDA216963 | Vasopressin | Injection | Gland Pharma Limited |
+| ANDA214314 | Vasopressin | Injection | ProPharma Distribution |
 
 ---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-*(Note: TFDA label warnings/contraindications and drug interaction data are marked as a Blocking data gap in this evidence pack — see Conclusion below.)*
 
 ---
 
@@ -106,16 +100,13 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-- The evidence base for the top prediction (congenital prothrombin deficiency) is weak — Evidence Level L4, zero clinical trials, and only 3 indirectly relevant case reports/review articles.
-- The repurposing rationale itself identifies a likely drug-entity confusion (vasopressin vs. desmopressin) and disease-target mismatch (Factor V/VIII deficiency vs. prothrombin deficiency), undermining mechanistic plausibility.
-- A Blocking data gap (TFDA label warnings/contraindications, DG001) prevents this candidate from entering safety pre-assessment (S1).
+The prediction has no clinical trials and no on-target literature. The known mechanism (raising factor VIII and von Willebrand factor) does not act on prothrombin, so the high model score is not supported by pharmacology.
 
 **To proceed, the following is needed:**
-- Resolve DG001 (Blocking): obtain TFDA/original market label warnings and contraindications before any S1 safety pre-assessment
-- Resolve DG002: retrieve vasopressin MOA via DrugBank API to enable a legitimate mechanistic assessment
-- Clarify whether the TxGNN prediction stems from a vasopressin/desmopressin node confusion in the knowledge graph; consider re-running the prediction with disambiguated drug entities
-- Conduct an independent literature review specific to vasopressin (not desmopressin) in coagulation disorders
-- If pursuing the prothrombin deficiency indication, obtain mechanistic studies specifically linking vasopressin (not its analogs) to Factor II regulation
+- Package insert warnings and contraindications (currently blocking the safety screening)
+- Original indications and mechanism of action data for vasopressin
+- Evidence that vasopressin or desmopressin affects prothrombin levels or bleeding in prothrombin deficiency
+- Alternative explanation of the TxGNN score, such as the graph path behind the prediction
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,75 +29,72 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-Using the `txgnn-pipeline` skill to confirm project context. Now generating the evaluation report based on the Evidence Pack.
-
----
-
-# Benzoyl Peroxide: From Acne Vulgaris to Vulvar Inverted Follicular Keratosis
+# Benzoyl Peroxide: From Acne to Vulvar Inverted Follicular Keratosis
 
 ## One-Sentence Summary
 
-Benzoyl Peroxide (BPO) is a well-established topical antimicrobial and keratolytic agent, widely recognized for its use in acne vulgaris treatment, though it holds no formal regulatory approval in Taiwan.
-The TxGNN model predicts it may have activity in **Vulvar Inverted Follicular Keratosis**, achieving a prediction score of 99.92%.
-However, **no clinical trials and no publications** currently support this direction — placing this candidate at the lowest possible evidence tier (L5, model prediction only).
-
----
+Benzoyl peroxide is a topical agent sold in the US mainly as an over-the-counter acne treatment. The approved indication text is blank in the data, so acne is inferred from product names.
+The TxGNN model predicts it may be effective for **vulvar inverted follicular keratosis**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting it.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not registered in Taiwan; recognized global use for acne vulgaris |
-| Predicted New Indication | Vulvar Inverted Follicular Keratosis |
+|------|------|
+| Original Indication | Acne (inferred from product names; no approved indication text in the data) |
+| Predicted New Indication | Vulvar inverted follicular keratosis |
 | TxGNN Prediction Score | 99.92% |
-| Evidence Level | L5 (Model prediction only, no actual studies) |
-| Taiwan Market Status | ✗ Not marketed (Not marketed) |
-| Number of Licenses | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (listed under authorization number M006) |
 | Recommended Decision | Hold |
 
----
+## Why is This Prediction Reasonable?
 
-## Why Is This Prediction Reasonable?
+Currently, detailed mechanism of action data is not available. Benzoyl peroxide is a topical keratolytic and antibacterial agent with established use in acne, and mechanistically it might apply to follicular skin conditions. However, no mechanistic link to vulvar inverted follicular keratosis is supported by the data provided.
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological information, Benzoyl Peroxide acts primarily by releasing free radical oxygen upon contact with skin, which kills *Cutibacterium acnes* and exerts keratolytic activity to help clear blocked follicles. These properties underpin its well-validated efficacy in inflammatory acne vulgaris.
+Vulvar inverted follicular keratosis is a benign follicular lesion. The score of 0.999 is a model output, not clinical evidence. It ranks 2,736th among all model predictions, and no trials or publications were retrieved to back it.
 
-Inverted follicular keratosis (IFK) is a benign squamous tumor arising from the hair follicle infundibulum, presenting as a solitary papule or nodule. The pipeline's own mechanistic rationale describes only a speculative "epidermal-follicular shared pathway" — the idea that BPO's keratolytic action on follicular epithelium might be loosely relevant to a follicle-origin lesion. Critically, there are **no structural mechanistic papers** connecting BPO to IFK suppression or regression, and the "vulvar" anatomical qualifier adds a further layer of implausibility: no biological rationale supports why BPO would specifically act on vulvar IFK, a rare benign lesion that is typically managed surgically.
-
-In short, the high TxGNN score likely reflects shared Knowledge Graph nodes in the "skin / follicular / keratosis" neighborhood, rather than any true pharmacological relationship. The prediction does not currently translate into a scientifically defensible hypothesis for clinical development.
-
----
+The other predicted indications for this drug are also weak. Two have no plausible mechanism (2-hydroxyethyl methacrylate sensitization and acrodermatitis chronica atrophicans). Acne keloid has only indirect support and may partly reflect overlap with the existing acne use.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| M006 | Neutrogena On-the-Spot Acne Treatment (Kenvue Brands LLC) | Cream | Acne treatment (per product name) |
+| M006 | Acne Med 5% (Face Reality, LLC) | Gel | Acne treatment (per product name) |
+| M006 | Acne Treatment (CVS Pharmacy, Inc.) | Gel | Acne treatment (per product name) |
+| M006 | 24 Hour Acne Serum (Drmtlgy, LLC) | Gel | Acne treatment (per product name) |
+| M006 | Acne Cleanser (Meijer, Inc.) | Cream | Acne treatment (per product name) |
+
+Other marketed forms in the data include liquid, soap, suspension, and lotion.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
----
+- **Contact sensitization signal**: One of the model's other predictions is 2-hydroxyethyl methacrylate sensitization. Benzoyl peroxide is itself a known contact sensitizer. This signal should be read as a possible adverse-reaction concern, not as a treatment opportunity.
+- Package insert warnings, contraindications, and interaction data were not available in the data provided. Please refer to the package insert for safety information.
+- Any use on vulvar skin would need a specific mucosal and irritation assessment, which has not been evaluated.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This candidate is backed solely by a TxGNN model prediction (L5) with zero supporting clinical or preclinical evidence, and the pipeline's own mechanistic review explicitly characterizes the mechanistic link as "extremely weak with no structural support." The specific vulvar anatomical target also raises unanswered tolerability questions that would need to be resolved before any further work is justified.
+The prediction rests on model output alone (L5), with no trials, no literature, and no supported mechanism. The safety data are missing, which blocks progression past the initial screening stage.
 
-**To proceed, the following would be needed:**
-- Retrieval of BPO's full mechanism of action data from DrugBank (currently a data gap)
-- Taiwan / US regulatory label to identify approved indications, key warnings, and contraindications
-- At least one peer-reviewed preclinical or mechanistic study connecting BPO activity to inverted follicular keratosis biology
-- A safety assessment specifically addressing topical BPO application to vulvar mucosa (irritation, sensitization, mucosal absorption risks)
-- Clarification of whether IFK at the vulvar site is expected to respond to topical keratolytic therapy at all, given that surgical excision is the standard of care
+**To proceed, the following is needed:**
+- Package insert warnings and contraindications (blocking data gap)
+- Mechanism of action data for benzoyl peroxide
+- A targeted literature search for vulvar inverted follicular keratosis and related follicular lesions
+- Clinical expert review of whether a treatment rationale exists, and of local tolerability on vulvar skin
+- Approved indication text for the listed products, to confirm the original indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

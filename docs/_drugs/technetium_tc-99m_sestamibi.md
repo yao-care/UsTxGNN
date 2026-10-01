@@ -29,81 +29,68 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Technetium Tc-99m Sestamibi: From Myocardial Perfusion Imaging to Homozygous Familial Hypercholesterolemia
+# Technetium Tc-99m Sestamibi: From Diagnostic Imaging to Homozygous Familial Hypercholesterolemia
 
 ## One-Sentence Summary
 
-Technetium Tc-99m Sestamibi (Tc-99m MIBI) is a lipophilic cationic radiopharmaceutical diagnostic agent, widely used clinically for myocardial perfusion imaging (MPI/SPECT) and parathyroid scintigraphy.
-The TxGNN model predicts it may be applicable to **Homozygous Familial Hypercholesterolemia (HoFH)**,
-with **0 clinical trials** and **1 publication** currently supporting this direction.
-
----
+Technetium Tc-99m Sestamibi is a radioactive diagnostic imaging agent, marketed in the US as a kit for injection. Its listed uses in the source material are perfusion and parathyroid imaging.
+The TxGNN model predicts it may be relevant to **homozygous familial hypercholesterolemia (HoFH)**, but only **1 publication** (a case report) and **0 clinical trials** support this, so the prediction is not backed by clinical evidence.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No regulatory licensing records in dataset (clinically used for myocardial perfusion imaging and parathyroid scintigraphy) |
-| Predicted New Indication | Homozygous Familial Hypercholesterolemia |
+|------|------|
+| Original Indication | Not listed in the US license records; diagnostic imaging agent (myocardial perfusion / parathyroid imaging) |
+| Predicted New Indication | Homozygous familial hypercholesterolemia |
 | TxGNN Prediction Score | 99.93% |
 | Evidence Level | L4 |
-| US Market Status | No records in dataset |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 3 (all listed as ANDAs) |
 | Recommended Decision | Hold |
 
----
+## Why is This Prediction Reasonable?
 
-## Why Is This Prediction Reasonable?
+Currently, detailed mechanism of action data is not available. Sestamibi is a diagnostic radiopharmaceutical rather than a therapeutic drug. It is used to image tissue, not to treat disease.
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known pharmacological properties, Tc-99m Sestamibi is a lipophilic cationic complex that passively crosses cell membranes and accumulates in tissues with high mitochondrial density and large negative transmembrane potential — particularly myocardial cells, parathyroid adenoma cells, and certain tumor cells. It functions exclusively as a diagnostic imaging tracer, not as a therapeutic agent.
+The only supporting record is a 2015 case report. In a patient whose HoFH diagnosis was delayed, Tc-99m MIBI myocardial perfusion imaging was used alongside 18F-FDG PET to assess cardiac involvement. This is incidental diagnostic use for cardiovascular complications of HoFH, not a disease-specific mechanism.
 
-Homozygous Familial Hypercholesterolemia (HoFH) is a rare autosomal codominant disorder caused by biallelic loss-of-function mutations in the LDL receptor pathway, resulting in severely elevated LDL-C (typically >400 mg/dL from birth). The consequence is dramatically accelerated atherosclerosis, with patients developing symptomatic coronary artery disease in childhood or early adulthood. Because myocardial ischemia is the dominant end-organ threat in HoFH, Tc-99m MIBI myocardial perfusion imaging is a clinically relevant tool for risk stratification in these patients — exactly what the single supporting publication (PMID 26298359) describes.
-
-The TxGNN high score most likely reflects an indirect knowledge-graph pathway: HoFH → extreme hypercholesterolemia → premature atherosclerosis → myocardial ischemia → MPI diagnostic application. This is a **diagnostic applicability** rather than a new therapeutic repurposing. The prediction does not suggest MIBI can treat HoFH or modify its disease course; it reflects the established role of MPI in cardiac risk assessment for high-risk lipid disorder patients.
-
----
+The very high TxGNN score is therefore not supported by clinical evidence. Scores across all of this drug's predicted indications are saturated near 0.997–0.999, so they do not discriminate well between candidates.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [26298359](https://pubmed.ncbi.nlm.nih.gov/26298359/) | 2015 | Case Report | International Journal of Cardiology | Combined use of ¹⁸F-FDG PET and Tc-99m MIBI MPI in a patient with delayed-diagnosed HoFH; illustrates how cardiac perfusion imaging characterizes atherosclerotic and ischemic burden in HoFH patients |
-
----
+|------|-----|------|------|---------|
+| [26298359](https://pubmed.ncbi.nlm.nih.gov/26298359/) | 2015 | Case report | Int J Cardiol | 18F-FDG PET and Tc-99m MIBI myocardial perfusion imaging used in a patient with delayed diagnosis of HoFH (summarized from the title; no abstract available) |
 
 ## US Market Information
 
-No US FDA licensing records are available in the current dataset. This likely reflects a data retrieval gap rather than actual non-approval status — Tc-99m Sestamibi (Cardiolite®, Lantheus Medical Imaging) holds US FDA approval for cardiac perfusion imaging. A dataset update against FDA NDA records is recommended before drawing regulatory conclusions.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA079157 | Kit for the Preparation of Technetium Tc99m Sestamibi (Sun Pharmaceutical Industries) | Injection | Not specified in source data |
+| ANDA078809 | Kit for the Preparation of Technetium Tc99m Sestamibi (Cardinal Health 414) | Injection, powder, lyophilized, for solution | Not specified in source data |
+| ANDA078806 | Technetium Tc 99m Sestamibi (Jubilant Draximage) | Injection, powder, for solution | Not specified in source data |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The sole supporting publication is a case report describing use of Tc-99m MIBI MPI *within* the clinical workup of an HoFH patient — this documents an existing diagnostic application, not a novel repurposing indication. There are no clinical trials and no mechanistic studies linking MIBI to HoFH pathophysiology beyond the indirect cardiovascular imaging pathway. As a diagnostic radiopharmaceutical with no therapeutic effect, framing this as a "drug repurposing" opportunity for HoFH requires conceptual clarification.
+The only evidence for HoFH is a single case report of incidental diagnostic use. There are no registered trials and no plausible disease-specific mechanism, so the high model score is not clinically supported.
 
-**Note on higher-priority finding:** The rank-2 prediction — **Multiple Endocrine Neoplasia (MEN)** — carries substantially stronger evidence (L3, 1 clinical trial, 20 publications, recommendation: Proceed with Guardrails) and reflects a well-established, 30-year-old clinical application of Tc-99m MIBI SPECT/CT for parathyroid adenoma localization in MEN1/MEN2A/MEN4 patients. A dedicated evaluation report for MEN is strongly recommended as the higher-priority target.
+**To proceed, the following is needed:**
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data and the approved indication text
+- Any prospective study showing a diagnostic role specific to HoFH
 
-**To proceed with HoFH, the following is needed:**
-- Clarification of framing: is the goal diagnostic utilization or therapeutic repurposing? (Tc-99m MIBI has no therapeutic mechanism relevant to lipid metabolism)
-- US FDA NDA record retrieval for Cardiolite® to confirm approved indications and safety labeling
-- Mechanism of action data from DrugBank (DB09161)
-- TFDA prescribing information for formal safety assessment (Data Gap DG001)
-- Prospective registry or observational data on MPI yield specifically in HoFH cohorts to establish diagnostic evidence beyond the current single case report
+For context, other predictions for this drug have more support. Multiple endocrine neoplasia (parathyroid localization) has cohort studies and case reports (L3) and is rated "Proceed with Guardrails". That use would be diagnostic only, as adjunctive pre-operative localization.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

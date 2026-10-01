@@ -33,72 +33,72 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Mepivacaine is an amide-type local anesthetic that blocks voltage-gated sodium channels to produce local/regional sensory blockade. The TxGNN model predicts it may be effective for **Gastroduodenitis**, but this prediction is currently supported by **0 clinical trials** and **0 publications**, and the drug's own repurposing rationale flags no plausible mechanistic overlap with the target disease.
-
----
+Mepivacaine is an amide local anesthetic sold as an injectable (infiltration, nerve block and dental use).
+The TxGNN model predicts it may be useful for **gastroduodenitis**, with a second prediction for **peptic ulcer disease**.
+There are currently **0 clinical trials** and **0 publications** supporting either prediction, so both rest on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Local/regional anesthesia (amide-type local anesthetic; no TFDA-approved indication text available — drug is not marketed in Taiwan) |
+| Original Indication | Local anesthesia (inferred from the injectable formulations; the license records list no indication text) |
 | Predicted New Indication | Gastroduodenitis |
 | TxGNN Prediction Score | 99.49% |
-| Evidence Level | L5 (model prediction only, no clinical or literature support) |
-| US Market Status | Not marketed (Not marketed) |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 18 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed, structured mechanism-of-action data (`original_moa`) is marked as a data gap in this evidence pack. However, the repurposing rationale supplied with the prediction indicates that mepivacaine is an amide-type local anesthetic whose known pharmacology is blockade of voltage-gated Na⁺ channels on neuronal membranes, suppressing action potential conduction to achieve local sensory blockade.
+Detailed mechanism of action data is not available in the input. Mepivacaine is an amide local anesthetic that blocks voltage-gated sodium channels. A plausible link is a temporary reduction of pain signaling from nerves in the stomach and duodenal lining. Local anesthetics such as lidocaine appear in symptomatic "GI cocktail" practice. This link is indirect and has not been established for mepivacaine.
 
-Gastroduodenitis is a mucosal inflammatory condition, typically driven by *H. pylori* infection, NSAID-induced mucosal injury, or bile reflux — a pathophysiology centered on mucosal damage and acid/inflammatory injury, not on neural conduction. There is no established pharmacological pathway connecting sodium-channel blockade to resolution of gastroduodenal mucosal inflammation. Topical local anesthetics (e.g., viscous lidocaine) are occasionally used for symptomatic pain relief in upper-GI conditions, but this is symptom palliation, not disease-modifying treatment, and no such application has been developed or reported for mepivacaine specifically.
+Any benefit would be symptom relief, not treatment of the underlying disease. The TxGNN score (0.995) is a knowledge-graph prediction only. The input has no recorded original indications and no drug-interaction data, so the mechanism cannot be checked against the source record.
 
-Given this, the high TxGNN score (99.49%) should be interpreted as a knowledge-graph topological similarity signal rather than mechanistic evidence. This is corroborated by the complete absence of clinical trials, ICTRP registrations, or PubMed literature connecting mepivacaine to gastroduodenitis (or to the closely related candidate, peptic ulcer disease — score 99.41%, same L5/Hold status, same absence of mechanistic overlap with acid/H. pylori-driven pathology).
-
----
+For the second prediction, **peptic ulcer disease** (score 99.41%), no direct mechanism links sodium channel blockade to ulcer healing, acid suppression or *H. pylori* eradication. At most, ulcer pain might be relieved. Standard therapies (proton pump inhibitors, *H. pylori* eradication) are well established, so a candidate with no efficacy evidence has no clear unmet need to justify further work.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
-
----
+Currently no related literature available.
 
 ## US Market Information
 
-No approved licenses on record — mepivacaine is not marketed in this jurisdiction (`total_licenses = 0`).
+The five main authorizations are listed below. The records contain no approved-indication text.
 
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA089406 | POLOCAINE(R)-MPF (Mepivacaine HCl) | Injection, solution | HF Acquisition Co LLC, DBA HealthFirst |
+| ANDA088387 | Mepivacaine | Injection, solution | Benco Dental |
+| ANDA089410 | Polocaine | Injection, solution | Fresenius Kabi USA, LLC |
+| ANDA088387 | IQ Dental Mepivacaine | Injection, solution | IQ Dental |
+| ANDA088387 | Mepivacaine Hydrochloride | Injection, solution | Safco Dental Supply Co. |
+
+All available products are injectables. No oral or topical gastrointestinal formulation is listed, so route compatibility with the predicted indications is unresolved.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Systemic or oral exposure:** Mepivacaine is formulated for injection. Systemic or oral use raises concerns about methemoglobinemia and cardiac and CNS toxicity.
+- **Drug Interactions:** No interaction records were found in the query.
 
-*(Note: TFDA label/warning data for mepivacaine is currently an unresolved, blocking data gap — see Conclusion below.)*
-
----
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests solely on TxGNN's knowledge-graph score (L5), with zero clinical trials, zero literature, and no plausible mechanistic link — the rationale itself concludes that sodium-channel blockade has no known pathway to gastroduodenal mucosal inflammation. Combined with the drug's not being marketed in Taiwan and missing TFDA safety labeling, there is no basis to advance this candidate.
+The predictions are supported only by a knowledge-graph score, with no clinical trials or publications (evidence level L5). The mechanism is indirect and limited to possible symptom relief. Only injectable products exist, and systemic exposure carries safety risks.
 
 **To proceed, the following is needed:**
-- Resolve DG001 (Blocking): obtain TFDA/FDA package insert warnings and contraindications — required before any S1 safety evaluation can begin
-- Resolve DG002: obtain a verified mechanism-of-action source (e.g., DrugBank API) to formally document MOA rather than relying on inferred rationale text
-- Any future preclinical or mechanistic studies linking local anesthetics to GI mucosal inflammation, should they emerge
-- Re-run clinical trial/literature searches periodically, as current searches (2026-04-21) returned zero results across ClinicalTrials.gov, ICTRP, and PubMed for both candidate indications
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data (e.g., from DrugBank)
+- Any preclinical or clinical evidence for gastroduodenitis or peptic ulcer disease
+- Assessment of route feasibility, since no oral or topical gastrointestinal formulation exists
+- For peptic ulcer disease, a clear unmet need beyond current standard therapy
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

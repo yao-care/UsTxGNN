@@ -29,96 +29,86 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Selpercatinib: From RET Fusion-Positive NSCLC to Pulmonary Hypertension
+# Selpercatinib: From RET-Driven Cancers to Pulmonary Hypertension
 
 ## One-Sentence Summary
 
-> Selpercatinib is a highly selective RET tyrosine kinase inhibitor, internationally approved for RET fusion/mutation-positive non-small-cell lung cancer (NSCLC) and thyroid cancer; it is not currently marketed in Taiwan.
-> The TxGNN model predicts it may be effective for **Pulmonary Hypertension**, but this signal is currently supported by **zero clinical trials** and **zero directly relevant publications** — the two literature citations retrieved concern NSCLC safety/efficacy, not pulmonary hypertension.
-> Two additional low-confidence predictions (migraine disorder, migraine with brainstem aura) carry no supporting evidence at all.
-
----
+Selpercatinib is a selective RET kinase inhibitor marketed in the US as RETEVMO. The published literature describes its use in RET fusion-positive non-small cell lung cancer.
+The TxGNN model predicts it may be effective for **pulmonary hypertension**, but there are **0 clinical trials** and **no publications that address this indication**, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available from Taiwan licensing data (drug not marketed locally); per international approval, RET fusion/mutation-positive NSCLC and thyroid cancer |
-| Predicted New Indication | Pulmonary Hypertension |
+| Original Indication | Not listed in the license records (the literature describes RET fusion-positive NSCLC) |
+| Predicted New Indication | Pulmonary hypertension |
 | TxGNN Prediction Score | 99.18% |
 | Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not marketed (Not marketed) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 6 license records (2 distinct NDA numbers) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is currently a data gap (DG002). Based on the available repurposing rationale, selpercatinib is a highly selective RET tyrosine kinase inhibitor, internationally approved for RET fusion/mutation-positive NSCLC and RET-driven thyroid cancers. Its efficacy in these oncology indications is well established through pivotal trials outside this evidence pack.
+Currently, detailed mechanism of action data is not available in the source record. Selpercatinib is a selective RET kinase inhibitor, and its efficacy in RET-driven cancers has been reported in real-world studies. There is no established biological link between RET inhibition and pulmonary hypertension. Any connection through pulmonary vascular remodeling, or through off-target kinase activity, is speculative.
 
-The link to pulmonary hypertension rests on a theoretical hypothesis: the RET/GDNF signaling axis has been associated with pulmonary vascular remodeling in some preclinical research. However, neither of the two retrieved publications addresses this pathway or pulmonary hypertension directly — both are NSCLC-focused (one comparing adverse-event profiles of RET inhibitors, the other a real-world efficacy analysis). This suggests the high TxGNN score likely arises from indirect "lung"-related node associations within the knowledge graph rather than substantive mechanistic or clinical evidence.
+The high score (99.18%) cannot be traced to a specific rationale in the available data, so it should be read as a computational signal only.
 
-The two migraine-related predictions (ranks 2–3) rely on an even weaker hypothesis — RET's role in trigeminal sensory neuron signaling — with no literature or trial evidence whatsoever. These are noted for completeness but are not prioritized further in this report.
+There is also a safety concern. Hypertension is a recognized adverse effect of RET inhibitors, and this should be evaluated before any efficacy question in a pulmonary vascular population.
 
----
+Two other predictions for this drug are also L5 with no trials or literature:
+- Migraine disorder (99.17%). RET is expressed in some sensory and trigeminal neurons, but a link to migraine is hypothetical.
+- Migraine with brainstem aura (99.05%). This is likely correlated with the migraine prediction and adds no independent evidence.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
+Neither publication addresses pulmonary hypertension. Both are listed as background on the drug, and their relevance to the predicted indication is still pending review.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [39372206](https://pubmed.ncbi.nlm.nih.gov/39372206/) | 2024 | Real-world/Cohort (AE profile) | Frontiers in Pharmacology | Compares adverse event profiles of pralsetinib vs. selpercatinib using FDA AERS data; safety-focused, no pulmonary hypertension relevance |
-| [34178121](https://pubmed.ncbi.nlm.nih.gov/34178121/) | 2021 | Retrospective analysis (NSCLC efficacy) | Therapeutic Advances in Medical Oncology | Real-world efficacy of selpercatinib in RET fusion-positive NSCLC (SIREN access program); no pulmonary hypertension relevance |
-
-*Note: Both publications relate to the drug's original NSCLC indication, not the predicted pulmonary hypertension indication. No disease-specific evidence currently exists.*
-
----
+| [39372206](https://pubmed.ncbi.nlm.nih.gov/39372206/) | 2024 | Cohort (real-world, FAERS) | Front Pharmacol | Compares adverse event profiles of pralsetinib and selpercatinib using FDA adverse event reports |
+| [34178121](https://pubmed.ncbi.nlm.nih.gov/34178121/) | 2021 | Cohort (retrospective) | Ther Adv Med Oncol | SIREN: real-world analysis of selpercatinib in RET fusion-positive NSCLC patients treated through an access program |
 
 ## US Market Information
 
-Selpercatinib is currently not marketed in Taiwan (0 licenses on record); no NDA/product data is available for review.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA218160 | RETEVMO (Eli Lilly and Company) | Coated tablet | Not stated in the source record |
+| NDA213246 | RETEVMO (Eli Lilly and Company) | Capsule | Not stated in the source record |
 
----
-
-## Cytotoxicity (Antineoplastic Drugs Only)
-
-Selpercatinib is an antineoplastic agent (approved for RET fusion/mutation-positive NSCLC and thyroid cancer).
+## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (selective RET tyrosine kinase inhibitor) |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions — no TFDA toxicity data available (DG001) |
+| Cytotoxicity Classification | Targeted therapy (selective RET kinase inhibitor) |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | General class-level considerations for RET/TKI agents (liver function, blood pressure, QTc, CBC) — not confirmed against local labeling |
+| Monitoring Items | Blood pressure (hypertension is a recognized RET inhibitor effect); other parameters per the package insert |
 | Handling Protection | Please refer to the package insert warnings and precautions |
-
----
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. TFDA labeling data (warnings/contraindications) is a blocking data gap (DG001) and safety cannot be evaluated until this is resolved.
+- **Key Concern**: Hypertension is a recognized adverse effect of RET inhibitors. This is directly relevant to a pulmonary vascular population.
 
----
+Please refer to the package insert for other warnings, contraindications and drug interactions.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is Evidence Level L5 (model prediction only) with no clinical trials and no disease-specific literature support; the retrieved publications relate to the drug's original NSCLC indication rather than pulmonary hypertension. Combined with a blocking gap in TFDA safety data (DG001), this candidate cannot proceed to safety evaluation (S1) at this time.
+The prediction is model-only (L5): there are no trials, no supporting literature, and no traceable mechanism. A known hypertensive effect of the drug class raises a safety question for pulmonary hypertension.
 
 **To proceed, the following is needed:**
-- TFDA/FDA label warnings and contraindications (resolve DG001)
-- Confirmed mechanism of action data via DrugBank API (resolve DG002)
-- Preclinical or mechanistic evidence directly linking RET inhibition to pulmonary vascular remodeling
-- Monitoring for future trial registrations targeting pulmonary hypertension
-- Re-evaluation of the migraine-related predictions only if any supporting evidence emerges
+- Package insert warnings and contraindications (blocking for safety screening)
+- Mechanism of action data, to test whether any RET-related pathway plausibly connects to pulmonary vascular disease
+- Cardiovascular and blood pressure safety review in the context of pulmonary hypertension
+- Preclinical evidence in pulmonary hypertension models, before any clinical consideration
+- Manual relevance review of the retrieved literature
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Magnesium Hydroxide
-parent: High Evidence (L1-L2)
+parent: Moderate Evidence (L3-L4)
 nav_order: 883
-evidence_level: L2
+evidence_level: L3
 indication_count: 6
 ---
 
 # Magnesium Hydroxide
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **6** 
+Evidence Level: **L3** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,12 @@ Evidence Level: **L2** | Predicted Indications: **6**
 
 </div>
 
-# Magnesium Hydroxide: From No Approved Indication (Unmarketed) to Active Peptic Ulcer Disease
+# Magnesium Hydroxide: From Antacid/Laxative Use to Active Peptic Ulcer Disease
 
 ## One-Sentence Summary
 
-> Magnesium hydroxide has no approved indication currently on file in this evidence pack — the drug is not marketed and holds zero licenses.
-> The TxGNN model predicts it may be effective for **Active Peptic Ulcer Disease**,
-> with **0 clinical trials** and **20 publications** currently supporting this direction, including two classic RCTs from the 1980s.
+Magnesium hydroxide is a long-established over-the-counter antacid and laxative, sold in the US mainly as Milk of Magnesia.
+The TxGNN model predicts it may be effective for **active peptic ulcer disease**, but there are **0 registered clinical trials** and **20 publications** behind this direction. Most of the publications are older studies of aluminum/magnesium combination antacids or preclinical work.
 
 ---
 
@@ -43,23 +42,26 @@ Evidence Level: **L2** | Predicted Indications: **6**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on file — drug is unmarketed, no license records available |
-| Predicted New Indication | Active Peptic Ulcer Disease |
+| Original Indication | Antacid / laxative (inferred from product types; the label indication text is not provided in the data) |
+| Predicted New Indication | Active peptic ulcer disease |
 | TxGNN Prediction Score | 99.98% |
-| Evidence Level | L2 |
-| US Market Status | ✗ Not Marketed |
-| Number of NDAs | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Evidence Level | L3 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (listed authorizations, mostly OTC monograph M007) |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for this drug entry (data gap DG002). No approved original indication or license record is on file either — the compound is not marketed and its regulatory history is undocumented in this evidence pack.
+Currently, detailed mechanism of action data is not available in the source record. Based on known pharmacology and the retrieved literature, magnesium hydroxide neutralizes gastric acid and raises intragastric pH. Preclinical studies of aluminum/magnesium antacids also point to mucosal protection through endogenous prostaglandins (PMID 2595273, 22950493) and to upregulation of EGF signaling in gastric mucosa (PMID 10791688).
 
-That said, the literature evidence collected for this prediction is internally consistent and mechanistically coherent: magnesium hydroxide is the classic antacid component in combination products such as Maalox and Mylanta. Its predicted mechanism — neutralizing secreted gastric acid, raising intragastric pH, and promoting endogenous prostaglandin/EGF-mediated mucosal protection — is a well-established pharmacological pathway for antacid therapy in active peptic ulcer disease, one that has been used clinically for decades.
+The original use (acid neutralization) and the predicted use (ulcer healing) are closely related, because gastric acid and pepsin drive ulcer injury. This makes the prediction plausible, but it is **largely a rediscovery of the established antacid class use rather than a novel repurposing**.
 
-Because the drug is grouped in the literature almost exclusively as part of aluminum-magnesium hydroxide antacid combinations, the predicted indication aligns closely with real-world, long-standing clinical use of this drug class, even though a formal MOA record and original indication text are not present in this pack.
+Three caveats apply:
+- Most human evidence involves Al/Mg combination antacids, not magnesium hydroxide alone.
+- The studies predate proton pump inhibitors (PPIs) and *H. pylori* eradication therapy, which are now the standard of care.
+- Any use should be adjunctive only.
 
 ---
 
@@ -73,22 +75,32 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [7034155](https://pubmed.ncbi.nlm.nih.gov/7034155/) | 1981 | RCT | Scand J Gastroenterol | 12-week double-blind trial: antacid/anticholinergic vs cimetidine vs placebo in 72 patients with active duodenal/prepyloric ulcers; antacid regimen significantly outperformed placebo in healing rate |
-| [6086186](https://pubmed.ncbi.nlm.nih.gov/6086186/) | 1984 | RCT | Clin Gastroenterol | Review/trial data on antacids and anticholinergics in duodenal ulcer treatment |
-| [1526089](https://pubmed.ncbi.nlm.nih.gov/1526089/) | 1992 | RCT (H2RA comparator, not direct Mg evidence) | Clin Pharmacol Ther | 8-week multicenter RCT of nizatidine vs placebo in benign gastric ulcer; relevant as comparator-class evidence for acid-suppressive ulcer healing |
-| [22950493](https://pubmed.ncbi.nlm.nih.gov/22950493/) | 2013 | Review | Curr Pharm Des | Updates cellular/molecular mechanisms of gastric cytoprotection and ulcer healing by antacids beyond prostaglandins |
-| [2595273](https://pubmed.ncbi.nlm.nih.gov/2595273/) | 1989 | Animal study | Scand J Gastroenterol | Al(OH)3/Mg(OH)2 antacid prevented gastric lesions in rats dose-dependently via endogenous prostanoid pathways |
-| [35720246](https://pubmed.ncbi.nlm.nih.gov/35720246/) | 2022 | In vitro/product evaluation | Med Pharm Rep | Evaluated acid-neutralizing capacity of marketed antacids, supporting pharmacodynamic basis of Mg(OH)2-containing products |
-| [2401189](https://pubmed.ncbi.nlm.nih.gov/2401189/) | 1990 | Clinical (retrospective) | Drugs Exp Clin Res | Retrospective study of 267 paediatric patients with peptic symptoms, evaluating efficacy of various pharmacological agents including antacids |
-| [37146](https://pubmed.ncbi.nlm.nih.gov/37146/) | 1979 | Clinical review | Fortschritte der Medizin | Reviews antacid neutralizing capacity and dosing strategy for adequate acid suppression in peptic ulcer disease |
-| [3018068](https://pubmed.ncbi.nlm.nih.gov/3018068/) | 1986 | Clinical (comparative) | J Clin Gastroenterol | Compared postprandial buffering duration of sodium bicarbonate vs aluminum-magnesium hydroxide (Maalox) in duodenal ulcer patients |
-| [31111054](https://pubmed.ncbi.nlm.nih.gov/31111054/) | 2019 | Animal study | BioMed Res Int | Hydrotalcite (Mg/Al-based) prevention/healing effects on NSAID-induced gastric injury in rats via EGF/PGE2 pathway |
+| [7034155](https://pubmed.ncbi.nlm.nih.gov/7034155/) | 1981 | RCT | Scand J Gastroenterol | 12-week double-blind trial in 72 patients with duodenal or prepyloric ulcers. Cimetidine reached 67% healing at 3 weeks (p<0.005 vs placebo). The antacid/anticholinergic arm reached 50%; its comparison with placebo is cut off in the available abstract. |
+| [3018068](https://pubmed.ncbi.nlm.nih.gov/3018068/) | 1986 | RCT | J Clin Gastroenterol | In duodenal ulcer patients, compared the postprandial acid-buffering duration of sodium bicarbonate versus aluminum-magnesium hydroxide (Maalox). |
+| [2401189](https://pubmed.ncbi.nlm.nih.gov/2401189/) | 1990 | Cohort | Drugs Exp Clin Res | Retrospective study of 267 children with peptic symptoms, assessing peptic disease incidence and the efficacy of various drugs in acute phases and relapses. |
+| [37146](https://pubmed.ncbi.nlm.nih.gov/37146/) | 1979 | Review | Fortschr Med | Antacids help in peptic ulcer disease by neutralizing gastric acid and inhibiting pepsin. Adequate dosing is needed 1 and 3 hours after meals. |
+| [6086186](https://pubmed.ncbi.nlm.nih.gov/6086186/) | 1984 | Review | Clin Gastroenterol | Reviews antacids and anticholinergics in duodenal ulcer treatment. |
+| [22950493](https://pubmed.ncbi.nlm.nih.gov/22950493/) | 2013 | Review | Curr Pharm Des | Updates the cellular and molecular mechanisms of antacid-related mucosal protection and ulcer healing. |
+| [2595273](https://pubmed.ncbi.nlm.nih.gov/2595273/) | 1989 | Animal | Scand J Gastroenterol | In rats, an Al/Mg hydroxide antacid (Maalox 70) dose-dependently prevented gastric lesions from ethanol, aspirin and stress. The effect was similar to a PGE2 analog and involved endogenous prostanoids. |
+| [10791688](https://pubmed.ncbi.nlm.nih.gov/10791688/) | 2000 | Mechanistic | J Physiol Paris | The antacid talcid activated genes for EGF and its receptor in gastric mucosa, a proposed basis for ulcer healing. |
+| [9305482](https://pubmed.ncbi.nlm.nih.gov/9305482/) | 1997 | Clinical | Aliment Pharmacol Ther | Reports that H2-receptor antagonists and antacids (including Al/Mg hydroxide) have an aggravating effect on *H. pylori* gastritis in duodenal ulcer patients. This is a caution signal. |
+| [35720246](https://pubmed.ncbi.nlm.nih.gov/35720246/) | 2022 | In vitro | Med Pharm Rep | Evaluated the acid-neutralizing capacity of antacids marketed in Morocco. |
 
 ---
 
 ## US Market Information
 
-No license records are available — magnesium hydroxide is currently unmarketed in this jurisdiction (0 NDAs on file).
+The source data lists 20 authorizations in total; the 5 main ones are shown below. Approved indication text was not provided for any of them.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| M007 | Milk of Magnesia Cherry | Liquid | CVS |
+| M007 | Milk of Magnesia Mint | Suspension | Cardinal Health |
+| M007 | Milk of Magnesia Mint | Liquid | Preferred Pharmaceuticals Inc. |
+| M007 | Milk of Magnesia Mint | Liquid | Geri-Care Pharmaceuticals, Corp |
+| 505G(a)(3) | Dulcolax | Liquid | Chattem, Inc. |
+
+Chewable tablets (oral) are also recorded among the dosage forms.
 
 ---
 
@@ -96,20 +108,24 @@ No license records are available — magnesium hydroxide is currently unmarketed
 
 Please refer to the package insert for safety information.
 
+- **Drug Interactions**: No interactions were found in the interaction database query. A Phase 1 study in healthy volunteers (NCT00446316) examined the effect of Mg-Al antacids on imatinib pharmacokinetics. It is a co-medication signal worth checking, but the results are not provided here.
+
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The evidence level is L2, anchored by two 1980s RCTs directly testing antacid regimens in active peptic ulcer healing, plus a broad base of supporting mechanistic and comparative studies. However, no clinical trials specifically target this indication, and the drug's own regulatory/MOA record is incomplete, so guardrails are warranted before advancing.
+The prediction is biologically sensible, but it mainly restates the established antacid class effect. There are no registered trials, and the human evidence is old, uses combination antacids, and predates PPIs and *H. pylori* eradication. Magnesium hydroxide alone is not shown to heal active ulcers, so at most it is an adjunct for symptom relief.
 
 **To proceed, the following is needed:**
-- TFDA (or equivalent regulatory) package insert warnings and contraindications — currently a **blocking** data gap (DG001) preventing safety-stage (S1) evaluation
-- Confirmed mechanism of action from DrugBank or another authoritative source (DG002)
-- Original approved indication and licensing history, since none is currently on file for this drug
-- A registered clinical trial specifically evaluating magnesium hydroxide (or its combination products) in active peptic ulcer disease to upgrade evidence beyond historical RCTs
+- Mechanism of action data for magnesium hydroxide alone
+- Package insert warnings and contraindications
+- Evidence isolating magnesium hydroxide from aluminum-containing combinations
+- Comparison against current standard therapy (PPIs, *H. pylori* eradication), or a defined adjunct-only use case
+
+This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

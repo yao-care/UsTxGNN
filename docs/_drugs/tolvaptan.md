@@ -29,91 +29,84 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tolvaptan: From Unspecified Original Indication to Polycystic Kidney Disease 3 (with or without Polycystic Liver Disease)
+# Tolvaptan: From Hyponatremia to Polycystic Kidney Disease 3 (with or without Polycystic Liver Disease)
 
 ## One-Sentence Summary
 
-> The original approved indication of Tolvaptan is not specified in the current evidence pack.
-> The TxGNN model predicts it may be effective for **Polycystic Kidney Disease 3 (with or without Polycystic Liver Disease)**,
-> with **0 registered clinical trials** but **20 supporting publications**, including two pivotal Phase 3 randomized controlled trials (NEJM, 2012 and 2017), currently supporting this direction.
-
----
+Tolvaptan is an oral vasopressin V2 receptor antagonist. The US license records in the Evidence Pack carry no indication text, so the original indication comes from the product names (SAMSCA, JYNARQUE) rather than from the data.
+The TxGNN model predicts it may be effective for **polycystic kidney disease 3 with or without polycystic liver disease**, but there are **0 registered clinical trials** in the pack. Support comes from **20 publications**, including **2 Phase 3 RCT reports in general ADPKD**, none specific to this subtype.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not specified in evidence pack (no `original_indications` or Taiwan license data available) |
-| Predicted New Indication | Polycystic Kidney Disease 3 (with or without Polycystic Liver Disease) |
-| TxGNN Prediction Score | 99.99% (0.99987) |
-| Evidence Level | L1 (≥2 completed Phase 3 RCTs identified in literature) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
-| Recommended Decision | Hold |
-
----
+| Original Indication | Not stated in the license records (product names suggest SAMSCA for hyponatremia and JYNARQUE for ADPKD) |
+| Predicted New Indication | Polycystic kidney disease 3 with or without polycystic liver disease |
+| TxGNN Prediction Score | 99.99% |
+| Evidence Level | L1 (based on two Phase 3 RCT publications in general ADPKD; not subtype-specific) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 17 (all US license records, NDAs and ANDAs) |
+| Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the drug-level fields for Tolvaptan (`original_moa: [Data Gap]`). However, the literature included in this evidence pack consistently identifies Tolvaptan as a **vasopressin V2-receptor antagonist** (e.g., PMID 23121377, PMID 16672911). Preclinical and clinical studies cited in the literature indicate that V2-receptor blockade inhibits renal cyst growth and slows the decline of kidney function, which is the mechanistic basis for its use in cystic kidney disease.
+Tolvaptan is a selective vasopressin V2 receptor antagonist. Blocking V2 lowers cyclic AMP (cAMP) in kidney cells. In polycystic kidney disease, cAMP drives cyst fluid secretion and cyst cell growth. Detailed mechanism-of-action data is not available in the pack, so this explanation rests on the pack's rationale notes and the retrieved literature.
 
-The predicted new indication — polycystic kidney disease 3 with or without polycystic liver disease — is mechanistically and clinically closely related to Autosomal Dominant Polycystic Kidney Disease (ADPKD), the condition studied in the pivotal trials referenced here (TEMPO 3:4, PMID 23121377; REPRISE, PMID 29105594). Multiple review articles and consensus statements in the evidence pack (PMID 35134221, PMID 40126492) confirm that Tolvaptan's cyst-growth-inhibiting mechanism is directly applicable to this disease group, including its hepatic (polycystic liver disease) manifestations (PMID 35487607, PMID 29175241).
+The predicted disease belongs to the same polycystic kidney family as ADPKD, where tolvaptan is already an approved therapy. The Phase 3 evidence (TEMPO 3:4 and REPRISE) comes from the general ADPKD population, mainly PKD1/PKD2 patients, and not from the PKD3 (GANAB) subtype. Extending it to PKD3 rests on the shared cAMP-driven cyst mechanism.
 
-Given that the mechanistic rationale (V2-receptor antagonism → reduced cyst growth) is well documented across independent literature sources, and that two large Phase 3 RCTs directly support efficacy in a closely related/overlapping disease phenotype, this TxGNN prediction is biologically and clinically well grounded — even though the evidence pack itself does not register formal `clinical_trials` entries for this exact disease term.
-
----
+This is therefore not a true repurposing case. It is an extension of an approved ADPKD therapy to a related genetic subtype. Benefit for polycystic liver disease is not demonstrated in the retrieved literature.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
-*(Note: Two pivotal Phase 3 RCTs for the closely related ADPKD phenotype are documented in the Literature Evidence section below, but are not indexed as structured `clinical_trials` entries in this evidence pack.)*
-
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [23121377](https://pubmed.ncbi.nlm.nih.gov/23121377/) | 2012 | RCT (Phase 3, TEMPO 3:4) | New England Journal of Medicine | Tolvaptan (V2-receptor antagonist) slowed the increase in total kidney volume and decline in eGFR in ADPKD patients |
-| [29105594](https://pubmed.ncbi.nlm.nih.gov/29105594/) | 2017 | RCT (Phase 3, REPRISE) | New England Journal of Medicine | Confirmed efficacy and safety of Tolvaptan in later-stage ADPKD (lower baseline eGFR population) |
-| [37150675](https://pubmed.ncbi.nlm.nih.gov/37150675/) | 2023 | Systematic Review / Meta-analysis | Nefrologia | Pooled analysis confirms efficacy and safety of Tolvaptan in delaying ADPKD progression to ESRD |
-| [39356039](https://pubmed.ncbi.nlm.nih.gov/39356039/) | 2024 | Cochrane Systematic Review | Cochrane Database of Systematic Reviews | Evaluates disease-modifying agents, including Tolvaptan, for preventing ADPKD progression |
-| [35134221](https://pubmed.ncbi.nlm.nih.gov/35134221/) | 2022 | Consensus Statement | Nephrology Dialysis Transplantation | ERA/European Rare Kidney Disease Network consensus on evidence-based Tolvaptan initiation in ADPKD |
-| [38091246](https://pubmed.ncbi.nlm.nih.gov/38091246/) | 2024 | RCT (Pediatric) | Pediatric Nephrology | Tolvaptan safety and pharmacodynamics evaluated in pediatric ADPKD patients (NCT02964273) |
-| [40126492](https://pubmed.ncbi.nlm.nih.gov/40126492/) | 2025 | Review | JAMA | Comprehensive review of ADPKD confirming Tolvaptan as the primary disease-modifying therapy |
-| [35487607](https://pubmed.ncbi.nlm.nih.gov/35487607/) | 2022 | Review | Clinics in Liver Disease | Tolvaptan slows deterioration of renal function and cyst growth in ADPKD with hepatic involvement |
-| [35328738](https://pubmed.ncbi.nlm.nih.gov/35328738/) | 2022 | Review | International Journal of Molecular Sciences | Reviews cystogenesis pathophysiology and treatment advances, including Tolvaptan's role |
-| [40726372](https://pubmed.ncbi.nlm.nih.gov/40726372/) | 2025 | Review | Current Opinion in Nephrology and Hypertension | Notes Tolvaptan as the only FDA-approved disease-modifying ADPKD therapy; reviews emerging alternatives |
-
----
+| [23121377](https://pubmed.ncbi.nlm.nih.gov/23121377/) | 2012 | RCT | N Engl J Med | Landmark tolvaptan trial in ADPKD (TEMPO 3:4); tested whether V2 blockade slows cyst growth and kidney function decline |
+| [29105594](https://pubmed.ncbi.nlm.nih.gov/29105594/) | 2017 | RCT | N Engl J Med | Tolvaptan in later-stage ADPKD; the earlier trial showed slower kidney volume growth and eGFR decline, with more liver enzyme and bilirubin elevations |
+| [38091246](https://pubmed.ncbi.nlm.nih.gov/38091246/) | 2024 | Randomized trial (post hoc baseline analysis) | Pediatr Nephrol | Rapid-progression risk estimated in children aged 5–17 from the tolvaptan safety and pharmacodynamics trial (NCT02964273) |
+| [37150675](https://pubmed.ncbi.nlm.nih.gov/37150675/) | 2023 | Systematic review / meta-analysis | Nefrologia | Evaluates the efficacy and safety of tolvaptan in ADPKD; it delays progression to end-stage renal disease |
+| [39356039](https://pubmed.ncbi.nlm.nih.gov/39356039/) | 2024 | Systematic review (Cochrane) | Cochrane Database Syst Rev | Reviews interventions that prevent ADPKD progression, including disease-modifying agents |
+| [35134221](https://pubmed.ncbi.nlm.nih.gov/35134221/) | 2022 | Consensus statement | Nephrol Dial Transplant | ERA/ERKNet/PKD International guidance on starting and managing tolvaptan, given long-term use and side effects |
+| [40126492](https://pubmed.ncbi.nlm.nih.gov/40126492/) | 2025 | Review | JAMA | Overview of ADPKD, the most common inherited kidney disorder (5–10% of kidney failure in the US and Europe) |
+| [40726372](https://pubmed.ncbi.nlm.nih.gov/40726372/) | 2025 | Review | Curr Opin Nephrol Hypertens | Tolvaptan remains the only FDA-approved therapy targeting ADPKD progression; a pipeline of new agents is emerging |
+| [35487607](https://pubmed.ncbi.nlm.nih.gov/35487607/) | 2022 | Review | Clin Liver Dis | Polycystic liver disease is the most common extrarenal manifestation of ADPKD; discusses tolvaptan's role in slowing kidney decline |
+| [35728731](https://pubmed.ncbi.nlm.nih.gov/35728731/) | 2022 | Clinical practice guideline | J Hepatol | EASL guidance on managing cystic liver diseases, including polycystic liver disease |
 
 ## US Market Information
 
-Currently not marketed in the target jurisdiction; no NDA/license records are available in the evidence pack (`total_licenses: 0`).
+The pack lists 17 US licenses; the 5 main ones are shown. The records contain no approved-indication text, so that column is omitted.
 
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA204441 | JYNARQUE | Tablet | Otsuka America Pharmaceutical, Inc. |
+| NDA022275 | SAMSCA | Tablet | Otsuka America Pharmaceutical, Inc. |
+| ANDA206119 | Tolvaptan | Tablet | Endo USA, Inc. |
+| ANDA216949 | TOLVAPTAN | Tablet | Novadoz Pharmaceuticals LLC |
+| ANDA207605 | tolvaptan | Tablet | Apotex Corp. |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Liver toxicity**: The 2017 trial abstract (PMID 29105594) notes more aminotransferase and bilirubin elevations with tolvaptan. Liver enzyme monitoring and a restricted-access program are required.
 
-*(Note: `key_warnings`, `contraindications`, and DDI data are flagged as a Blocking data gap — DG001 — pending TFDA label acquisition.)*
-
----
+Please refer to the package insert for other safety information, including warnings, contraindications and drug interactions.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-The mechanistic and literature evidence for this indication is strong (L1, supported by two pivotal Phase 3 RCTs and a Cochrane systematic review), but a **Blocking** data gap (DG001) on TFDA warnings and contraindications currently prevents entry into the S1 safety initial evaluation stage. The drug is also not currently marketed in the target jurisdiction, so regulatory pathway feasibility is unconfirmed.
+Two Phase 3 RCT reports in general ADPKD, plus a meta-analysis, a Cochrane review and consensus guidance, support tolvaptan in polycystic kidney disease. However, no evidence is specific to the PKD3 (GANAB) subtype, and no benefit is shown for polycystic liver disease. Liver toxicity requires strict monitoring.
+
+The other nine predictions (ranks 2–10) have little or no tolvaptan-specific evidence and should stay on Hold. Rank 5, Joubert syndrome with renal defect, is a research question only.
 
 **To proceed, the following is needed:**
-- TFDA (or equivalent local regulator) approved label with warnings/contraindications (DG001, remediation: download and parse official label PDF)
-- Confirmed drug mechanism of action from DrugBank API (DG002)
-- Confirmation of Tolvaptan's actual original approved indication(s) and any existing local market authorization
-- Formal drug-drug interaction (DDI) review, currently returning no data (`query_status: not_found`)
+- The package insert's warnings and contraindications, which are currently missing
+- Mechanism-of-action data from DrugBank
+- Evidence, or a trial, in the PKD3 (GANAB) subtype, and clarity on whether the polycystic liver component benefits
+- A liver-enzyme monitoring plan and access to the restricted-access program
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

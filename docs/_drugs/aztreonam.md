@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Aztreonam
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 435
-evidence_level: L2
+evidence_level: L5
 indication_count: 10
 ---
 
 # Aztreonam
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,105 +29,91 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-Using the TxGNN pipeline context and the v5 report format, I'll now generate the evaluation report. Note that among the 10 predicted indications, I'm featuring **gonococcal urethritis** (rank 5) as the focal indication — it is the only prediction with a positive recommendation (Proceed with Guardrails) and meaningful clinical evidence (L2), making it the pharmacologically actionable finding. The higher-ranked TxGNN predictions (ranks 1–4) all carry mechanistic contradictions or zero evidence and remain on Hold.
-
----
-
-# Aztreonam: From Gram-Negative Bacterial Infections to Gonococcal Urethritis
+# Aztreonam: From Gram-Negative Bacterial Infections to Polyclonal Hyperviscosity Syndrome
 
 ## One-Sentence Summary
 
-Aztreonam is a synthetic monobactam antibiotic developed for serious gram-negative bacterial infections, working by inhibiting cell wall synthesis in gram-negative pathogens.
-The TxGNN model predicts it may be effective for **Gonococcal Urethritis** — a mechanistically plausible repurposing given rising antimicrobial resistance in *Neisseria gonorrhoeae* —
-with **1 completed Phase 2/3 clinical trial** and **8 publications** currently supporting this direction.
-
----
+Aztreonam is a monobactam antibiotic that inhibits bacterial cell-wall synthesis (PBP3) and is used against gram-negative infections. The TxGNN model ranks **polyclonal hyperviscosity syndrome** as its top prediction, but **no clinical trials and no publications** support it, and the mechanism is implausible, so it is most likely a knowledge-graph artifact. Among the 10 predicted indications, **gonococcal urethritis** (rank 5) is the only one with meaningful clinical evidence.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Gram-negative bacterial infections (not recorded in current regulatory database) |
-| Predicted New Indication | Gonococcal Urethritis |
-| TxGNN Prediction Score | 99.59% |
-| Evidence Level | L2 |
-| US Market Status | ✗ Not Marketed (0 approved licenses on record) |
-| Number of NDAs | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
-> **Note on prediction selection:** TxGNN ranks 1–4 (polyclonal hyperviscosity syndrome, hyperamylasemia, congenital analbuminemia, Ureaplasma urethritis) all carry mechanistic contradictions or model false-positive flags with zero supporting evidence, and are classified Hold/S0. Gonococcal urethritis (rank 5) is the first prediction with a coherent mechanistic link, completed Phase 2/3 trial data, and a positive recommendation.
-
----
+|------|------|
+| Original Indication | Gram-negative bacterial infections (the approved indication text is not included in the record; this is based on the drug's antibacterial class) |
+| Predicted New Indication | Polyclonal hyperviscosity syndrome |
+| TxGNN Prediction Score | 99.73% |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 7 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Aztreonam is a monocyclic β-lactam (monobactam) antibiotic with a unique structural feature: it is selectively active against aerobic gram-negative bacteria and has no meaningful activity against gram-positive organisms or anaerobes. Its mechanism centers on binding to **Penicillin-Binding Protein 3 (PBP3)** — and specifically **PBP2** in *Neisseria gonorrhoeae* — thereby disrupting peptidoglycan cross-linking and triggering bacterial lysis. Crucially, aztreonam is stable against many β-lactamases, making it a candidate for strains resistant to conventional penicillins.
+Detailed mechanism of action data is not available in the record. Based on known information, aztreonam is a monobactam beta-lactam that inhibits penicillin-binding protein 3 (PBP3) in gram-negative bacteria. Its efficacy in bacterial infections is established.
 
-*Neisseria gonorrhoeae*, the causative pathogen of gonococcal urethritis, is a gram-negative diplococcus that falls squarely within aztreonam's spectrum of activity. The CDC has classified antimicrobial-resistant (AMR) *N. gonorrhoeae* as one of the nation's top three **urgent** AMR threats. Since parenteral third-generation cephalosporins (ceftriaxone) represent the last remaining first-line class with consistent efficacy, identifying repurposed agents is a public health priority. Aztreonam achieves MIC values against gonococci that are within clinically attainable serum concentrations following intramuscular dosing.
-
-The evidence chain spans four decades. Early clinical studies from 1983–1986 confirmed aztreonam's efficacy against both penicillin-sensitive and penicillinase-producing *N. gonorrhoeae* (PPNG) strains at various anatomical sites. A 2020 single-arm open-label clinical trial and its companion Phase 2/3 demonstration study (NCT03867734, completed 2019) specifically evaluated 2 g intramuscular aztreonam for pharyngeal gonorrhea in the modern AMR context. This mechanistic-to-clinical evidence arc makes the TxGNN prediction biologically and clinically sound.
-
----
+For polyclonal hyperviscosity syndrome, **the prediction is not mechanistically reasonable**. The condition involves elevated serum immunoglobulins and blood viscosity. Aztreonam has no known effect on immunoglobulin levels or viscosity, and the high score is likely a knowledge-graph artifact. Several other top-ranked predictions (hyperamylasemia, congenital analbuminemia, blood group incompatibility, premalignant hematological disease) show the same problem: they are laboratory findings, genetic disorders or non-infectious conditions with no plausible antibacterial mechanism.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|-----------|--------------|
-| [NCT03867734](https://clinicaltrials.gov/study/NCT03867734) | Phase 2/3 | Completed | 32 | Demonstration study evaluating aztreonam 2 g IM for pharyngeal *N. gonorrhoeae* infection in men; designed to address the urgent need for alternative regimens against AMR gonorrhea; conducted April–September 2019 |
-
----
+Currently no related clinical trials registered for polyclonal hyperviscosity syndrome.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [33077658](https://pubmed.ncbi.nlm.nih.gov/33077658/) | 2020 | Single-arm Clinical Trial | *Antimicrobial Agents and Chemotherapy* | Open-label single-dose aztreonam 2 g IM for *N. gonorrhoeae*; companion publication to NCT03867734; directly evaluates pharyngeal eradication in the AMR era |
-| [3157346](https://pubmed.ncbi.nlm.nih.gov/3157346/) | 1985 | Clinical Study | *Antimicrobial Agents and Chemotherapy* | Aztreonam 1 g IM vs. spectinomycin 2 g IM for uncomplicated gonorrhea; no treatment failures with either drug; efficacy confirmed at urethral, rectal, and endocervical sites |
-| [3095216](https://pubmed.ncbi.nlm.nih.gov/3095216/) | 1986 | Clinical Study | *Genitourinary Medicine* | Aztreonam 1 g IM single-dose cleared infection in 61 men and 26 women at all anatomical sites; effective against both penicillin-sensitive and penicillin-resistant strains; well tolerated with no adverse effects |
-| [6225808](https://pubmed.ncbi.nlm.nih.gov/6225808/) | 1983 | Clinical Study | *Journal of Infectious Diseases* | Aztreonam efficacy against penicillinase-producing *N. gonorrhoeae* (PPNG); provides an alternative when both penicillin and spectinomycin fail; early proof-of-concept against resistant strains |
-| [6438364](https://pubmed.ncbi.nlm.nih.gov/6438364/) | 1984 | Clinical Evaluation | *Japanese Journal of Antibiotics* | Bacteriological and clinical evaluation in 30 male patients with gonococcal urethritis; MIC data reported for 61 strains including 9 PPNG strains (15%); clinical outcomes assessed |
-| [3937450](https://pubmed.ncbi.nlm.nih.gov/3937450/) | 1985 | Clinical Cohort | *Acta Urologica Japonica* | Epidemiological and therapeutic study of single-shot aztreonam for gonorrheal infections; demographic data across age groups including identification of beta-lactamase-producing strains |
-| [6226596](https://pubmed.ncbi.nlm.nih.gov/6226596/) | 1983 | Clinical Study | *Giornale Italiano di Dermatologia e Venereologia* | Early Italian clinical study of aztreonam in acute gonococcal urethritis; one of the earliest European confirmatory reports |
-| [11406757](https://pubmed.ncbi.nlm.nih.gov/11406757/) | 2001 | Microbiological Surveillance | *Journal of Infection and Chemotherapy* | Emergence of cephem- and aztreonam-high-resistant *N. gonorrhoeae* strains not producing β-lactamase in Japan; critical resistance monitoring data relevant to ongoing utility assessment |
+Currently no related literature available for polyclonal hyperviscosity syndrome.
 
----
+## Other Predicted Indications Worth Noting
+
+| Rank | Predicted Indication | Score | Evidence Level | Decision | Comment |
+|------|------|------|------|------|------|
+| 1 | Polyclonal hyperviscosity syndrome | 99.73% | L5 | Hold | No plausible link |
+| 2 | Hyperamylasemia | 99.73% | L5 | Hold | Laboratory finding, not an infection |
+| 3 | Congenital analbuminemia | 99.69% | L5 | Hold | Genetic disorder |
+| 4 | Ureaplasma urethritis | 99.59% | L5 | Hold | Ureaplasma has no cell wall, so beta-lactams are expected to be inactive |
+| 5 | **Gonococcal urethritis** | 99.59% | **L2** | Research Question | Direct mechanism and clinical data |
+| 6 | Blood group incompatibility | 99.59% | L5 | Hold | The only retrieved paper is unrelated (plasmid genomics) |
+| 7 | Premalignant hematological system disease | 99.54% | L5 | Hold | No antineoplastic activity |
+| 8 | Epiglottitis | 99.53% | L4 | Hold | Plausible (*H. influenzae* coverage), but cephalosporins are standard |
+| 9 | Monoclonal gammopathy | 99.50% | L4 | Hold | Supports treating infections in this population, not the disease itself |
+| 10 | Xanthogranulomatous pyelonephritis | 99.49% | L5 | Hold | Plausible organisms, but management is surgical and no evidence was found |
+
+### Gonococcal urethritis (rank 5): the strongest candidate
+
+Aztreonam inhibits PBP3 and has documented activity against *Neisseria gonorrhoeae*, including penicillin-resistant strains.
+
+- **Trial:** [NCT03867734](https://clinicaltrials.gov/study/NCT03867734) is a completed Phase 2/3 demonstration study (n=32, 2019) of aztreonam for **pharyngeal** gonorrhea. It appears non-randomized and does not directly show urethral efficacy.
+- **Recent literature:** [33077658](https://pubmed.ncbi.nlm.nih.gov/33077658/) (Antimicrob Agents Chemother, 2020) is a single-arm open-label trial of single-dose intramuscular aztreonam 2 g for *N. gonorrhoeae*.
+- **Historical clinical studies (1983–1986):** Single-dose aztreonam cleared uncomplicated gonorrhea in several small studies ([3157346](https://pubmed.ncbi.nlm.nih.gov/3157346/) vs spectinomycin, no failures; [3095216](https://pubmed.ncbi.nlm.nih.gov/3095216/), 87 patients cleared; [6438364](https://pubmed.ncbi.nlm.nih.gov/6438364/), 30 men with urethritis).
+- **Resistance concern:** [11406757](https://pubmed.ncbi.nlm.nih.gov/11406757/) (2001) reported non-beta-lactamase-producing gonococci with high-level cephem and aztreonam resistance.
+- **Limitations:** There is no randomized comparison against ceftriaxone, sample sizes are small, and aztreonam is parenteral only. The realistic niche is a reserve option for cephalosporin-resistant or beta-lactam-allergic patients.
 
 ## US Market Information
 
-No approved product authorizations for aztreonam are recorded in the current regulatory database (total licenses: 0; market status: not marketed).
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA050580 | AZACTAM | Injection, powder, for solution | A-S Medication Solutions |
+| NDA050580 | AZACTAM | Injection, powder, for solution | E.R. Squibb & Sons, L.L.C. |
+| ANDA206517 | Aztreonam | Injection, powder, lyophilized, for solution | Hospira, Inc. |
+| NDA050580 | AZACTAM | Injection, powder, for solution | E.R. Squibb & Sons, L.L.C. |
+| ANDA065439 | Aztreonam | Injection, powder, lyophilized, for solution | Fresenius Kabi USA, LLC |
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------------------|-------------|------------|-------------------|
-| — | — | — | No licensed products on record |
-
----
+All listed products are injectables. The record contains 7 authorizations in total; the 5 shown are the main entries.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
 
-> **Data gap noted:** Key warnings, contraindications, and drug-drug interaction data are not available in this Evidence Pack. Obtaining the full prescribing information (package insert / SmPC) is required before any clinical planning.
-
----
-
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Aztreonam's mechanism of action directly targets gram-negative cell wall synthesis via PBP2 in *N. gonorrhoeae*, providing a mechanistically coherent basis for treating gonococcal urethritis. The evidence base — spanning one completed Phase 2/3 demonstration trial (NCT03867734, n=32) plus eight clinical publications from 1983–2020 — meets L2 criteria, and the severe AMR resistance context elevates the public health urgency for alternative regimens.
+The top-ranked prediction, polyclonal hyperviscosity syndrome, has no clinical or literature support and no plausible mechanism, so the score reflects a knowledge-graph artifact. The only clinically supported direction is gonococcal urethritis, which is better handled as a separate research question than as this prediction.
 
 **To proceed, the following is needed:**
-
-- **Full prescribing information / package insert** — Required to complete S1 safety screening; key warnings, contraindications, and drug interactions are currently unresolved data gaps
-- **Mechanistic confirmation (MOA documentation from DrugBank)** — Formal documentation of PBP2 binding in *N. gonorrhoeae* to support regulatory submissions
-- **Primary outcome data from NCT03867734** — The trial is completed but bacterial eradication rates (the primary efficacy endpoint) are not available in this Evidence Pack; confirm results via ClinicalTrials.gov or published report
-- **AMR surveillance data** — Current local MIC distributions for *N. gonorrhoeae* against aztreonam to assess whether historical efficacy translates to contemporary strains
-- **Route-of-administration confirmation** — Intramuscular formulation availability in the target jurisdiction must be verified before clinical planning
-
----
-
-> ⚠️ *This report is for research reference only and does not constitute medical advice. Any repurposing candidate requires clinical validation before application.*
+- Drop polyclonal hyperviscosity syndrome and the other non-infectious predictions from active consideration, unless new mechanistic evidence emerges.
+- For gonococcal urethritis: a randomized trial against ceftriaxone with urogenital endpoints, plus current aztreonam susceptibility data for *N. gonorrhoeae*.
+- Package insert warnings and contraindications (blocking gap for safety screening).
+- Mechanism of action data from DrugBank.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

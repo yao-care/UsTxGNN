@@ -29,56 +29,71 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Granisetron: From Antiemetic Therapy (CINV/PONV) to Manic Bipolar Affective Disorder
+# Granisetron: From Antiemetic Use to Manic Bipolar Affective Disorder
 
 ## One-Sentence Summary
 
-Granisetron is a selective 5-HT3 receptor antagonist generally used to prevent chemotherapy/radiotherapy-induced and postoperative nausea and vomiting. The TxGNN model predicts it may be effective for **manic bipolar affective disorder**, but this direction is currently supported by **0 clinical trials** and **0 publications** — the prediction rests entirely on knowledge-graph inference.
+Granisetron is a 5-HT3 receptor antagonist marketed in the US in injectable, oral and other forms.
+The TxGNN model predicts it may be effective for **manic bipolar affective disorder**, but **no clinical trials and no publications** currently support this prediction, so it remains a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Chemotherapy/radiotherapy-induced and postoperative nausea and vomiting (general pharmacological knowledge — not confirmed by Taiwan license data, as this drug is not marketed in Taiwan) |
-| Predicted New Indication | Manic Bipolar Affective Disorder |
+| Original Indication | Not stated in the license records (granisetron is a 5-HT3 antagonist antiemetic) |
+| Predicted New Indication | Manic bipolar affective disorder |
 | TxGNN Prediction Score | 99.62% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (Not Marketed) |
-| Number of Licenses | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 14 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (TFDA label and DrugBank MOA fields are both data gaps). Based on the evidence pack's own repurposing rationale, granisetron is a selective 5-HT3 receptor antagonist acting primarily on peripheral and central chemoreceptor trigger zones — the pathway responsible for its established antiemetic effect.
+Currently, detailed mechanism of action data is not available in the input. Based on general pharmacology, granisetron selectively blocks 5-HT3 receptors. Serotonin signaling is loosely relevant to mood regulation, which gives a modest theoretical basis for the prediction.
 
-The proposed link to manic bipolar affective disorder is indirect: 5-HT3 receptors are also present in limbic structures, so serotonergic modulation is theorized to influence mood regulation, and small studies of the related agent ondansetron have explored adjunctive use in psychiatric symptoms. However, this is a mechanistic hypothesis only — there is no direct clinical or preclinical evidence connecting granisetron to bipolar mania, and the evidence pack explicitly flags this as an indirect inference rather than a supported indication.
+No trial or publication was found to test this link, so it is speculative. The high TxGNN score (0.996) is a model output, not clinical evidence. It should not be read as proof of efficacy.
+
+Among the other top-ranked predictions, only Tourette syndrome and trichotillomania have a similarly modest serotonergic or neuro-circuit rationale. Several others (conjunctivitis, bronchitis, nephrogenic syndrome of inappropriate antidiuresis) have no plausible mechanistic link and are likely knowledge-graph artifacts. All ten predictions are at evidence level L5.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
+
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA091136 | Granisetron Hydrochloride | Injection, solution | Mylan Institutional LLC |
+| ANDA204238 | Granisetron Hydrochloride | Injection, solution | Eugia US LLC |
+| ANDA219282 | Granisol | Solution | Intra-Sana Laboratories |
+| ANDA078969 | Granisetron Hydrochloride | Tablet | Breckenridge Pharmaceutical, Inc. |
+
+Across all 14 authorizations, available dosage forms also include film-coated tablets and a patch. The license records contain no approved-indication text.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-Note: TFDA label warnings/contraindications for granisetron could not be retrieved (blocking data gap), so a formal safety screening (S1) cannot yet be performed.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This prediction is evidence level L5 — no clinical trials, ICTRP records, or literature support the granisetron–bipolar mania link, and the mechanistic rationale is theoretical (5-HT3/limbic system association) rather than demonstrated. Combined with a blocking gap in TFDA safety data, this candidate is not ready to advance past S0.
+The prediction rests only on a model score. There are no clinical trials or publications, and the mechanistic link to mania is weak and unverified.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (blocking gap — required before any S1 safety screening)
-- Confirmed mechanism of action data from DrugBank/primary literature
-- Preclinical or case-level evidence specifically linking 5-HT3 antagonism to mood stabilization in bipolar disorder
-- Ongoing monitoring for any new clinical trial or publication activity on this drug-disease pair
+- Package insert warnings and contraindications for safety screening
+- Detailed mechanism of action (MOA) data, for example from DrugBank
+- A systematic literature and trial search for 5-HT3 antagonists in bipolar mania
+- A check of route compatibility (available formulations vs. what the new indication would require)
+- Preclinical or early clinical data that support the indication
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,33 +29,39 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-Using the report evidence and required section order, since none of these candidates have MOA, trial, literature, or safety data, this report will surface the data gaps explicitly rather than filling them.
-
-# Olsalazine: From Intestinal Anti-Inflammatory Use to Myelodysplastic Syndrome (Prediction Only)
+# Olsalazine: From Ulcerative Colitis to Myelodysplastic Syndrome
 
 ## One-Sentence Summary
 
-Olsalazine is a salicylate dimer prodrug of 5-ASA (mesalamine), pharmacologically known for local intestinal anti-inflammatory activity, though no structured original-indication or mechanism-of-action record exists in the current dataset. TxGNN's top prediction links olsalazine to **Myelodysplastic Syndrome (MDS)** with a 99.91% score, but this is currently backed by **zero clinical trials** and **zero publications** — a pure knowledge-graph signal with no independent corroboration.
+Olsalazine is a prodrug of 5-aminosalicylic acid (5-ASA) that acts locally in the colon, and it is generally used for ulcerative colitis.
+The TxGNN model predicts it may be effective for **myelodysplastic syndrome**, but this is a graph-based prediction only.
+There are currently **0 clinical trials** and **0 publications** supporting it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no indication records in dataset |
+| Original Indication | Not recorded in the Evidence Pack (olsalazine is generally used for ulcerative colitis) |
 | Predicted New Indication | Myelodysplastic syndrome |
 | TxGNN Prediction Score | 99.91% |
 | Evidence Level | L5 |
-| US Market Status | Not marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on the known information present in this evidence pack, olsalazine is classified as a 5-ASA (mesalamine) prodrug — a salicylate dimer whose established activity is local intestinal anti-inflammatory action (inhibition of prostaglandin/leukotriene synthesis in the gut). No original indication record was returned in the dataset, so its formally approved use cannot be stated here.
+Currently, detailed mechanism of action data is not available in the Evidence Pack. Olsalazine is a dimer of 5-ASA that is poorly absorbed and acts mainly on the gut mucosa. Its anti-inflammatory effects are thought to involve NF-kB and COX/LOX modulation.
 
-There is no established pathophysiological link between local intestinal anti-inflammatory activity and myelodysplastic syndrome, which arises from hematopoietic stem cell mutations and bone marrow dysplasia. The prediction's own rationale explicitly flags this: the score likely reflects graph-topology proximity (e.g., shared comorbidity or gene nodes between the two entities) rather than a genuine mechanistic hypothesis. Notably, the same pattern repeats across all 10 top-ranked candidates for this drug (rank 2–10 include hypotrichosis, alopecia, 5q-deletion, refractory cytopenia, and sideroblastic anemia) — none have any supporting trial or literature evidence, suggesting this may be a systematic artifact of the drug's graph neighborhood rather than 10 independent biological signals.
+No established link connects this activity to myelodysplastic syndrome (MDS), a disorder of clonal hematopoiesis. The high score most likely reflects shared neighbors in the knowledge graph rather than biology. The same applies to the other top predictions, which fall into three groups:
 
-Given the complete absence of mechanistic, clinical, or literature support, this prediction should be treated as hypothesis-generating only, not as a basis for further clinical action at this time.
+- **MDS cluster:** unclassified MDS, refractory cytopenia of childhood, partial deletion of 5q, aregenerative anemia, and congenital sideroblastic anemia.
+- **Hair disorders:** hypotrichosis simplex of the scalp, congenital hypotrichosis milia, alopecia, and diffuse alopecia areata.
+
+Two of these have a speculative anti-inflammatory rationale, and none has supporting evidence:
+
+- **Alopecia areata:** it is immune-mediated, but olsalazine is not known to act on the relevant pathways (JAK-STAT, IFN-gamma). Systemic exposure at the scalp is also unlikely.
+- **Aregenerative anemia:** aminosalicylates are occasionally linked to cytopenias as adverse effects, so the safety direction may be opposite to the predicted benefit.
 
 ## Clinical Trial Evidence
 
@@ -67,25 +73,28 @@ Currently no related literature available.
 
 ## US Market Information
 
-No approved authorizations are on record. Olsalazine's market status in the evaluated jurisdiction is **not marketed** (0 licenses on file), so no product/dosage-form/indication data can be reported.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA019715 | Dipentum | Capsule, gelatin coated (oral) | Viatris Specialty LLC |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No key warnings, contraindications, or drug interaction data are currently available in this dataset (DDI query returned no results).
+Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high, but there is no clinical trial, no literature, no MOA, and no safety data to support this candidate — it fails at the earliest evidence stage (S0/L5). The drug is also not currently marketed, so there is no regulatory or real-world usage baseline to draw on.
+The prediction rests on a model score alone (L5), with no trials, no literature, and no plausible mechanistic link. Olsalazine's local colonic action does not fit MDS, and aminosalicylate-associated cytopenias raise a possible safety concern in this population.
 
 **To proceed, the following is needed:**
-- Resolve DG001 (Blocking): obtain TFDA/FDA label warnings and contraindications before any safety pre-screen (S1) can occur
-- Resolve DG002 (High): confirm mechanism of action via DrugBank API to test the mechanistic plausibility of the MDS link
-- Targeted literature/trial search specifically for "olsalazine" + "myelodysplastic syndrome" or "5-ASA" + "bone marrow" to check for any signal missed by current collectors
-- Investigate whether the shared high scores across all 10 top predictions (hematologic + hair-related diseases) indicate a graph-embedding artifact specific to this drug node, before treating any single candidate as prioritized
-- Basic pharmacovigilance data (marketed-country label, post-marketing reports) once market status is clarified, since this drug shows 0 licenses in the current jurisdiction
+- The FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data (for example, from DrugBank) to test any link to MDS or immune-mediated hair loss
+- Any preclinical or clinical signal for MDS or alopecia areata before re-evaluation
+- Route and exposure assessment, since olsalazine is oral and colon-targeted, so systemic or scalp exposure is limited
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

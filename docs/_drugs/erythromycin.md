@@ -29,78 +29,73 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-Using `txgnn-pipeline` skill noted — this is a report generation task for a TxGNN evidence pack. Proceeding to compose the evaluation report.
-
----
-
-# Erythromycin: From Bacterial Infections to Punctate Epithelial Keratoconjunctivitis
+# Erythromycin: From Antibacterial Use to Punctate Epithelial Keratoconjunctivitis
 
 ## One-Sentence Summary
 
-Erythromycin is a broad-spectrum macrolide antibiotic classically used to treat respiratory, skin, and sexually transmitted bacterial infections.
-The TxGNN model predicts it may be effective for **Punctate Epithelial Keratoconjunctivitis**,
-with **0 clinical trials** and **2 publications** currently supporting this specific direction — though ophthalmic erythromycin preparations are already used clinically for the closely related condition of blepharokeratoconjunctivitis.
-
----
+Erythromycin is a macrolide antibacterial, and the Evidence Pack does not list its approved indications.
+The TxGNN model predicts it may be effective for **punctate epithelial keratoconjunctivitis**,
+but there are currently **0 clinical trials** and only **2 publications**, both indirect, supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Bacterial infections (respiratory tract, skin, Chlamydia; no Taiwan FDA records found) |
-| Predicted New Indication | Punctate Epithelial Keratoconjunctivitis |
+|------|------|
+| Original Indication | Not listed in the Evidence Pack (approved indication text is empty for all licenses) |
+| Predicted New Indication | Punctate epithelial keratoconjunctivitis |
 | TxGNN Prediction Score | 99.89% |
 | Evidence Level | L4 |
-| US Market Status | Not listed |
-| Number of NDAs | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (total licenses, including NDAs and ANDAs) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available in this dataset. Based on established pharmacology, erythromycin is a macrolide antibiotic that acts through two complementary pathways: **(1) antibacterial** — it binds the 50S ribosomal subunit, blocking protein synthesis in gram-positive bacteria and atypical intracellular pathogens; and **(2) anti-inflammatory/immunomodulatory** — it suppresses pro-inflammatory cytokines (IL-6, IL-8) and the NF-κB signaling cascade, an effect that operates independently of its antimicrobial action.
+Currently, detailed mechanism of action data is not available. Based on known information, erythromycin is an antibacterial macrolide. Macrolides are used in chronic blepharokeratoconjunctivitis for their antibacterial and anti-inflammatory effects, so a mechanistic link to punctate epithelial keratoconjunctivitis is plausible.
 
-Punctate epithelial keratoconjunctivitis involves superficial punctate erosions of the corneal epithelium, frequently associated with chronic lid-margin bacterial colonization (e.g., *Staphylococcus aureus*), meibomian gland dysfunction, and persistent localized inflammation. Both the antibacterial and anti-inflammatory arms of erythromycin are directly applicable to these pathogenic drivers.
-
-Critically, topical erythromycin ophthalmic ointment is already used in clinical practice for blepharokeratoconjunctivitis management — a closely overlapping condition — strongly supporting the plausibility of TxGNN's prediction. The model's high confidence score (99.89%) reflects this mechanistic and clinical proximity.
-
----
+The supporting evidence is weak. One paper covers management of pediatric blepharokeratoconjunctivitis, a related but different condition. The other is a microsporidia keratoconjunctivitis case report that has no relevance to erythromycin. The high TxGNN score (0.999) is a model prediction only and is not backed by erythromycin-specific studies in this disease.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [11495307](https://pubmed.ncbi.nlm.nih.gov/11495307/) | 2001 | Clinical Review | Journal of Pediatric Ophthalmology and Strabismus | Describes clinical presentation and management of blepharokeratoconjunctivitis in children; discusses erythromycin as a core treatment component |
-| [32826651](https://pubmed.ncbi.nlm.nih.gov/32826651/) | 2021 | Case Report | Cornea | Case of *Encephalitozoon hellem* keratoconjunctivitis in an immunocompetent adult diagnosed by metagenomic deep sequencing; illustrates the atypical pathogen burden in keratoconjunctivitis spectrum disease |
+|------|-----|------|------|---------|
+| [11495307](https://pubmed.ncbi.nlm.nih.gov/11495307/) | 2001 | Review | J Pediatr Ophthalmol Strabismus | Describes the history, symptoms, signs and treatment of chronic blepharokeratoconjunctivitis in children. Indirect: it does not evaluate erythromycin specifically. |
+| [32826651](https://pubmed.ncbi.nlm.nih.gov/32826651/) | 2021 | Case report | Cornea | Microsporidia (*Encephalitozoon hellem*) keratoconjunctivitis in an immunocompetent adult, diagnosed by metagenomic sequencing. Not relevant to erythromycin. |
 
----
+## US Market Information
+
+The Evidence Pack lists 20 licenses in total; the main 5 are shown below. Approved indication text was not provided for these products. Other listed dosage forms include topical gel, ointment, oral tablets, suspension and lyophilized injection.
+
+| Authorization Number | Product Name | Dosage Form |
+|---------|------|------|
+| ANDA064126 | Ery | Swab |
+| ANDA212015 | Erythromycin | Coated tablet |
+| NDA050207 | E.E.S | Granule for suspension |
+| ANDA061621 | Erythromycin | Film-coated tablet |
+| ANDA216212 | Erythromycin ethylsuccinate | For suspension |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
 
----
-
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Erythromycin's established clinical use in ophthalmic blepharokeratoconjunctivitis and its well-characterized dual antibacterial/anti-inflammatory mechanism provide strong biological plausibility for efficacy in punctate epithelial keratoconjunctivitis. However, the complete absence of dedicated clinical trials warrants a structured, evidence-building approach before formal indication positioning.
+This prediction rests almost entirely on the model score. There are no clinical trials, and the two publications are indirect or irrelevant. Package insert safety data are also missing, which blocks progression to safety screening.
 
 **To proceed, the following is needed:**
-- Retrieve full mechanism of action data from DrugBank (data gap DG002 remediation pending)
-- Obtain Taiwan FDA package insert to assess warnings and contraindications (data gap DG001 remediation pending)
-- Confirm ophthalmic formulation availability and route compatibility (topical ophthalmic ointment required for this indication)
-- Design a prospective pilot study or systematic case series specifically evaluating erythromycin ophthalmic ointment in punctate epithelial keratoconjunctivitis
-- Assess DDI profile in the context of concurrent ophthalmic therapies (corticosteroids, artificial tears, etc.)
+- Package insert warnings and contraindications, obtained from the FDA label
+- Mechanism of action data (for example, from DrugBank)
+- Erythromycin-specific studies in punctate epithelial keratoconjunctivitis or closely related ocular surface disease
+- Confirmation of an ophthalmic-suitable route, since the Evidence Pack has not assessed route compatibility for this indication
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,60 +29,87 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Foscarnet: From Antiviral Therapy to Autosomal Dominant Familial Hematuria–Retinal Arteriolar Tortuosity–Contractures Syndrome
+# Foscarnet: From Antiviral Therapy to Autosomal Dominant Familial Hematuria-Retinal Arteriolar Tortuosity-Contractures Syndrome
 
 ## One-Sentence Summary
 
-Foscarnet (DrugBank DB00529) is known — per the evidence pack's own rationale text — as a pyrophosphate analog antiviral active against CMV, HSV, and VZV; no formal original-indication or Taiwan license record is on file for this candidate. The TxGNN model predicts a possible link to **Autosomal Dominant Familial Hematuria–Retinal Arteriolar Tortuosity–Contractures Syndrome** with a **99.56%** prediction score, but this is supported by **zero clinical trials** and **zero publications** — a pure model signal with no corroborating evidence.
+Foscarnet is an injectable antiviral that inhibits viral DNA polymerase, and it is marketed in the US.
+The TxGNN model predicts it may be effective for **autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome**, a rare inherited vascular disorder.
+This prediction has **0 clinical trials** and **0 publications** behind it, so it rests on the model score alone.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on file — no TFDA license record and `original_indications` is empty. Known antiviral use (CMV, HSV, VZV) referenced only in the rationale text, not a licensed indication |
-| Predicted New Indication | Autosomal dominant familial hematuria–retinal arteriolar tortuosity–contractures syndrome |
-| TxGNN Prediction Score | 99.56% (rank 10,857) |
-| Evidence Level | L5 |
-| US Market Status | Not marketed (Not Marketed) |
-| Number of NDAs | 0 |
+| Original Indication | Not stated in the US license records; the mechanism (viral DNA polymerase inhibitor) points to antiviral use |
+| Predicted New Indication | Autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome |
+| TxGNN Prediction Score | 99.56% (model rank 10,857) |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 8 licenses (NDA and ANDA) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for foscarnet is not available in this evidence pack — it is flagged as a High-severity data gap (DG002). Based on the rationale text carried alongside the prediction, foscarnet is a pyrophosphate analog that selectively inhibits viral DNA polymerase and reverse transcriptase, giving it activity against CMV, HSV, and VZV. This is an antiviral mechanism, not one associated with any genetic connective-tissue or vascular disorder.
+Currently, detailed mechanism of action data is not available in the source record. Foscarnet is a pyrophosphate analog that inhibits viral DNA polymerase, reverse transcriptase and herpesvirus DNA polymerases.
 
-The predicted new indication is a rare, COL4A1-related hereditary vascular collagenopathy. The evidence pack's own repurposing rationale explicitly states there is **no known mechanistic link** between foscarnet's antiviral activity and COL4A1-related vascular pathology. The 99.56% score reflects a pure knowledge-graph prediction signal and is not corroborated by any clinical trial or literature evidence — it should be treated as a hypothesis-generation output only, not a validated pharmacological rationale.
+The predicted disease is a heritable vascular and basement-membrane disorder with no viral cause. There is no plausible mechanistic link between foscarnet's antiviral action and this condition. The high score (0.996) comes from graph-based patterns in the TxGNN knowledge graph, not from biological or clinical evidence.
+
+Foscarnet is known to be nephrotoxic, which is a further concern in a condition that involves hematuria. At present this prediction is a hypothesis with no support.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 Currently no related literature available.
 
+---
+
 ## US Market Information
 
-Foscarnet currently holds no license record on file (`market_status`: Not marketed / Not Marketed; `total_licenses`: 0). No marketing-authorization table is available.
+The record lists 8 licenses; the 5 below are the main ones. The records give no approved indication text.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA020068 | Foscavir (Clinigen Limited) | Injection, solution | Not stated |
+| ANDA216602 | Foscarnet Sodium (Amneal Pharmaceuticals LLC) | Injection | Not stated |
+| ANDA212483 | Foscarnet (Fresenius Kabi USA, LLC) | Injection, solution | Not stated |
+| ANDA213001 | Foscarnet Sodium (Gland Pharma Limited) | Injection, solution | Not stated |
+| ANDA213987 | Foscarnet Sodium (Hikma Pharmaceuticals USA Inc.) | Injection, solution | Not stated |
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Note: TFDA label warnings/contraindications are a **Blocking** data gap (DG001) — this must be resolved before any S1 safety screening can proceed.
+Please refer to the package insert for safety information. No warnings, contraindications or drug interaction data were retrieved.
+
+The evidence pack's own assessment notes that foscarnet's nephrotoxicity is a concern for a condition involving hematuria.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked predicted indication has zero clinical trial or literature support and is driven purely by the TxGNN score (L5); the evidence pack's own rationale confirms no known mechanistic link exists. Combined with the absence of a Taiwan market license and a Blocking gap in MOA/label data, the candidate does not clear the bar to advance past S0.
+The prediction has no clinical trials or publications behind it and no plausible mechanism, since the disease is a non-viral inherited vascular disorder and foscarnet is an antiviral. Its nephrotoxicity works against use in a disease with hematuria.
+
+The other top-ranked predictions in the pack (brain small vessel disease, rheumatoid arthritis, diabetic nephropathy) reached the same conclusion. Their retrieved trials and literature do not show foscarnet benefit, and the diabetic nephropathy prediction adds a kidney safety concern.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (DG001, Blocking — required before S1 safety screening)
-- Confirmed mechanism of action (DG002, High — required for mechanistic plausibility review)
-- Original approved indication(s) for foscarnet, to establish a repurposing baseline
-- Independent literature or clinical evidence directly linking foscarnet to this indication, since the TxGNN score alone is insufficient to support advancement
-
-**Note:** three additional TxGNN-predicted indications for foscarnet were also reviewed in this evidence pack — rheumatoid arthritis, diabetic nephropathy, and brain small vessel disease 1 with or without ocular anomalies. All three received the same **Hold** recommendation; retrieved trials/literature for each were keyword-mismatched (e.g., an unrelated brolucizumab/AMD trial, or CMV-treatment case reports mentioning foscarnet only incidentally) rather than substantive support for the stated indication.
+- Package insert warnings and contraindications, which are currently missing and block safety screening
+- Mechanism of action data from DrugBank
+- Any preclinical or clinical evidence linking foscarnet to this disease. Without it, the prediction should not advance beyond model output.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

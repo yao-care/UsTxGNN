@@ -33,71 +33,62 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Elapegademase is a PEGylated recombinant adenosine deaminase (ADA) enzyme replacement therapy used exclusively for ADA-SCID (adenosine deaminase deficiency – severe combined immunodeficiency). The TxGNN model predicts it may be effective for **Diabetic Retinopathy**, but this direction is currently supported by **0 clinical trials** and **0 publications** — the prediction rests on the model score alone.
-
----
+Elapegademase (Revcovi) is a PEGylated adenosine deaminase enzyme replacement therapy. The Evidence Pack lists no approved-indication text, but public labeling identifies it for adenosine deaminase severe combined immunodeficiency (ADA-SCID).
+The TxGNN model predicts it may be effective for **diabetic retinopathy**, but this is a model output only, with **0 clinical trials** and **0 publications** supporting it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | ADA-SCID (enzyme replacement therapy) — not present in Taiwan/US regulatory license data (drug is unmarketed) |
-| Predicted New Indication | Diabetic Retinopathy |
+| Original Indication | ADA-SCID (from public labeling; the Evidence Pack's indication text is empty) |
+| Predicted New Indication | Diabetic retinopathy |
 | TxGNN Prediction Score | 99.45% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| US Market Status | Not marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 (BLA761092) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in this evidence pack (MOA field is a data gap). Based on known pharmacology, elapegademase is an enzyme replacement therapy that metabolizes deoxyadenosine to prevent its toxic accumulation in lymphocytes — its only established use is ADA-SCID.
+Detailed mechanism-of-action data is not available in the Evidence Pack. Based on known information, elapegademase is a systemic PEGylated enzyme that converts adenosine to inosine.
 
-Diabetic retinopathy's underlying pathology is hyperglycemia-driven VEGF upregulation, oxidative stress, and microvascular damage. There is no known biological pathway connecting ADA enzyme replacement to retinal microvascular disease, and the evidence pack's own analysis flags this gap explicitly.
+A link to diabetic retinopathy is conceivable but speculative. Adenosine signaling through A2A/A2B receptors is implicated in retinal angiogenesis and VEGF regulation. However, the direction of effect is unclear, because lowering adenosine could be either pro- or anti-angiogenic. A large PEGylated protein is also unlikely to reach the retina in meaningful amounts.
 
-Notably, all 10 of this drug's top predicted indications (diabetic retinopathy, diabetic cataract, severe nonproliferative diabetic retinopathy, cortical cataract, nuclear senile cataract, T2DM-associated cataract, mature cataract, tetanic cataract, immature cataract, craniostenosis cataract) cluster in a narrow score band (0.9937–0.9945) and share no coherent mechanistic theme — spanning diabetic, senile, metabolic, and congenital cataract etiologies indiscriminately. This pattern, combined with the drug having zero other indication or DDI links in the knowledge graph, is consistent with a sparse-node embedding artifact rather than a genuine repurposing signal.
-
----
+The other nine predictions are also eye conditions: severe nonproliferative diabetic retinopathy, diabetic cataract, and several cataract subtypes. They have near-identical scores (0.9937–0.9945), and several share exactly the same score. This points to knowledge-graph clustering around diabetic eye disease rather than independent signals. Severe nonproliferative diabetic retinopathy is a substage of the top prediction. The cataract predictions have no plausible mechanism.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-Elapegademase is not marketed in Taiwan and has no registered NDA/license records in this evidence pack.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| BLA761092 | Revcovi (Chiesi USA, Inc.) | Injection | Not listed in the Evidence Pack |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-*(Note: TFDA label/warning data for this drug is flagged as a Blocking data gap — it must be resolved before any safety-stage [S1] evaluation can proceed.)*
-
----
+Please refer to the package insert for safety information. No drug interaction records were found for this drug.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trial or literature support (L5, model score only), and the proposed mechanism has no known biological link to the original ADA-SCID indication. The uniform high-score cluster across 10 unrelated ophthalmic/metabolic indications for this same sparse-node drug further suggests the signal is a knowledge-graph artifact rather than a real repurposing lead.
+The prediction rests only on a model score, with no trials or publications. The mechanism is speculative, and ocular delivery of a large systemic enzyme is unaddressed.
 
 **To proceed, the following is needed:**
-- TFDA label/warning and contraindication data (currently Blocking — required before any S1 safety review)
-- Confirmed mechanism of action (MOA) data from DrugBank
-- Independent mechanistic or preclinical rationale linking ADA enzyme replacement to diabetic retinopathy before further evidence collection is warranted
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism-of-action data, for example from DrugBank
+- Preclinical evidence that adenosine deaminase replacement affects retinal angiogenesis or VEGF signaling
+- An assessment of whether a systemic PEGylated enzyme can reach the retina, or whether an ocular route would be needed
+- A literature and trial search for evidence linking adenosine metabolism to diabetic retinopathy
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

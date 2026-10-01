@@ -29,76 +29,63 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Plecanatide: Original Indication Not Documented → Predicted Link to Hypertrichosis (Low-Confidence)
+# Plecanatide: From Chronic Constipation to Hypertrichosis
 
 ## One-Sentence Summary
 
-> Plecanatide (DrugBank DB13170) is described in the evidence pack as a locally-acting intestinal guanylate cyclase-C (GC-C) agonist with negligible systemic absorption, though its original approved indication is not documented in this evidence pack.
-> The TxGNN model's top prediction links plecanatide to **hypertrichosis (excessive hair growth)**, with a prediction score of **99.998%**,
-> but **zero clinical trials and zero literature records** support this specific pairing — the model's own accompanying rationale flags the result as likely noise rather than a genuine mechanistic signal.
-
----
+Plecanatide is an oral guanylate cyclase-C (GC-C) agonist marketed in the US as Trulance. The Evidence Pack does not list an approved indication, but the drug class is used for chronic constipation.
+The TxGNN model predicts it may be effective for **hypertrichosis**, but there are **0 clinical trials** and **0 publications** supporting this direction, and no plausible mechanistic link was identified.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in evidence pack (no approved indication text available) |
-| Predicted New Indication | Hypertrichosis (disease) |
+| Original Indication | Not listed in the Evidence Pack (approved indication text is empty) |
+| Predicted New Indication | Hypertrichosis |
 | TxGNN Prediction Score | 99.998% |
-| Evidence Level | L5 (model prediction only, no supporting trials or literature) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
-| Recommended Decision | **Hold** |
-
----
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for plecanatide is not available in the structured `drug.original_moa` field. However, the mechanistic-link notes attached to every predicted indication in this pack consistently describe plecanatide as a **guanylate cyclase-C (GC-C) agonist acting locally on the intestinal epithelium**, with minimal systemic absorption — this is consistent with its known pharmacological class of GI-restricted secretagogues.
+Currently, detailed mechanism of action data is not available in the database. Based on the known pharmacology of the drug class, plecanatide is a GC-C agonist. It raises cGMP in intestinal epithelial cells and is minimally absorbed into the bloodstream, so its effect is essentially confined to the gut.
 
-For the top-ranked prediction, hypertrichosis, the evidence pack's own rationale states there is **no known physiological pathway connecting intestinal GC-C/cGMP signaling to hair follicle growth regulation**, and explicitly characterizes the high TxGNN score as likely model noise rather than a biologically grounded signal. This pattern repeats across all ten top-ranked predictions in this pack (hypertrichosis subtypes, congenital malformation syndromes, hair shaft disorders, Dandy-Walker malformation, coronary artery dissection, vascular disease, thoracic outlet syndrome, pheochromocytoma) — none have a plausible mechanistic link to a drug whose action is confined to the gut lumen, and none are supported by clinical trials.
-
-The one prediction with attached literature (rank 3, "malformation syndrome with odontal/periodontal component") returned 20 general periodontology papers that never mention plecanatide or GC-C signaling — a case of keyword co-occurrence rather than genuine drug-disease evidence. Overall, this evidence pack does not support a credible repurposing rationale for any of the top-10 candidates.
-
----
+No plausible link to hypertrichosis was identified. Hair growth regulation is not a known effect of the GC-C pathway. The TxGNN score is very high (99.998%), but it is a model output only. Similar predictions appear for related hair and genetic conditions (for example, Ambras-type congenital hypertrichosis and isolated hair shaft abnormalities). This pattern suggests the score reflects proximity in the knowledge graph rather than biological rationale.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-No NDA or marketing authorization records were found for plecanatide in this evidence pack (`total_licenses: 0`, `market_status: Not marketed/Not Marketed`). The drug does not currently appear to hold an active license in this jurisdiction.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA208745 | Trulance (Salix Pharmaceuticals Inc.) | Tablet (oral) | Not listed in the data |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Note: TFDA/FDA-equivalent warning and contraindication data for plecanatide is flagged as a **Blocking** data gap (DG001) in this pack, meaning a formal safety assessment (S1 stage) cannot currently proceed without sourcing the official prescribing information.
-
----
+Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top prediction (hypertrichosis) has no clinical trial or literature support, and its own mechanistic rationale identifies it as probable model noise given plecanatide's GI-restricted mode of action. This pattern holds across all ten top-ranked predictions in the pack — none reach beyond L5 (model-only) evidence, and the drug has no market presence or NDA in this jurisdiction to build on.
+The prediction has no clinical trials or literature behind it (L5). There is also no plausible mechanistic link between a gut-restricted GC-C agonist and hair growth. The other nine predictions in the top 10 are also L5 with no plausible mechanism. The only one with any literature is a periodontal malformation syndrome, and those papers are general periodontitis background that never mention plecanatide.
 
 **To proceed, the following is needed:**
-- Source TFDA/FDA prescribing information (warnings, contraindications) — currently a Blocking gap preventing any safety evaluation
-- Obtain formal mechanism-of-action documentation (e.g., via DrugBank API) to replace the current data gap
-- Independently verify whether any biologically plausible indication exists among lower-ranked TxGNN candidates, since the current top-10 all lack mechanistic or evidentiary support
-- Re-run evidence collection (clinical trials, PubMed) once a more mechanistically plausible candidate indication is identified
+- The US package insert (approved indications, warnings, contraindications), because safety screening cannot start without it
+- Mechanism of action data from DrugBank
+- A mechanistic hypothesis linking GC-C/cGMP signaling to hair follicle biology, ideally with preclinical support
+- Drug-specific literature or registered trials; none currently exist
+
+*This report is for research reference only and does not constitute medical advice. Any repurposing candidate requires clinical validation before use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

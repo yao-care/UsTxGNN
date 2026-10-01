@@ -29,74 +29,68 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Linaclotide: From Chronic Constipation to Cauda Equina Syndrome
+# Linaclotide: From Its Approved Use to Cauda Equina Syndrome
 
 ## One-Sentence Summary
 
-Linaclotide is a locally-acting gut peptide, established for treating IBS-C and chronic idiopathic constipation (based on general pharmacological knowledge; not captured in this evidence pack). The TxGNN model predicts it may be effective for **Cauda Equina Syndrome**, but **no clinical trials and no literature** currently support this direction, and the model's own mechanistic review flags the link as likely spurious.
-
----
+Linaclotide is an orally administered, gut-acting drug marketed in the US as Linzess. The TxGNN model predicts it may be effective for **cauda equina syndrome**, but this is a model prediction only: **0 clinical trials** and **0 publications** support it so far.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not captured in evidence pack (generally known as IBS-C / chronic idiopathic constipation) |
-| Predicted New Indication | Cauda Equina Syndrome |
+| Predicted New Indication | Cauda equina syndrome |
 | TxGNN Prediction Score | 99.96% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 3 (all under NDA202811) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed original mechanism-of-action data is not available in this evidence pack. Based on the repurposing rationale supplied alongside the prediction, linaclotide is a locally-acting guanylate cyclase-C (GC-C) receptor agonist confined to the intestinal epithelium, with minimal systemic absorption; its action increases chloride/bicarbonate secretion in the gut and has no known effect outside the intestinal lumen.
+Currently, detailed mechanism of action data is not available in the Evidence Pack, and no original indication text was recorded. From general pharmacology, linaclotide is a locally acting guanylate cyclase-C agonist. It raises cGMP in the intestine and speeds transit, and very little of it is absorbed into the body.
 
-Cauda equina syndrome is a surgical emergency caused by mechanical compression of nerve roots below the spinal cord — a pathology with no established connection to the GC-C/cGMP signaling pathway linaclotide acts through. The evidence pack itself notes this prediction is most likely a graph artifact: a spurious "gut–nerve" node linkage arising from clinical co-occurrence of constipation and neurogenic bowel symptoms, rather than a genuine pharmacological mechanism.
+The only plausible link to cauda equina syndrome is indirect. The syndrome can cause neurogenic bowel dysfunction, including constipation, and linaclotide could relieve that symptom. It would not treat the underlying nerve compression or nerve injury. The very high TxGNN score is therefore best read as a graph-based signal, not as evidence of efficacy.
 
-Given the absence of any mechanistic plausibility, clinical trials, or literature, this prediction should be treated as a hypothesis-generation signal only, not as an actionable repurposing candidate.
-
----
+Two other predictions ranked lower, and both look even weaker:
+- **Obsolete neurogenic bladder (99.89%)**: No direct mechanistic link is evident. The disease term is marked obsolete in the ontology, so the prediction may be an artifact shared with the cauda equina prediction.
+- **Insomnia (99.51%)**: No plausible mechanistic link is identified. Linaclotide has negligible systemic exposure and no known central sleep-regulating activity, so this is likely a false positive.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-Linaclotide is currently not marketed under this registry, with no license records available in the evidence pack.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA202811 | Linzess | Capsule, gelatin coated (oral) | Allergan, Inc. |
 
----
+The pack lists three license entries with the same number, product, and form, shown here once. No approved indication text was provided.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a raw TxGNN model score (L5) with zero clinical trials, zero literature, and a mechanistic rationale that the evidence pack itself characterizes as likely noise rather than a genuine pharmacological link.
+The prediction has a very high model score but no trials, no publications, and only an indirect, symptom-level mechanistic link. Linaclotide is not expected to act on the nervous system, so the evidence does not yet justify moving forward (Evidence Level L5, stage S0).
 
 **To proceed, the following is needed:**
-- Confirmed mechanism-of-action (MOA) data for linaclotide
-- TFDA/label warnings and contraindications (currently blocking safety screening)
-- Independent mechanistic or preclinical evidence connecting GC-C agonism to cauda equina pathology before any further evaluation
-- Re-screening of lower-ranked candidates (e.g., neurogenic bladder, insomnia) — both also lack supporting evidence and carry similarly weak mechanistic justification
+- The package insert's warnings and contraindications, which are required before any safety screening
+- Mechanism of action data and the original approved indications from DrugBank and the US label
+- A literature and trial search for linaclotide in neurogenic bowel dysfunction related to cauda equina syndrome or spinal cord conditions
+- A check on whether the obsolete neurogenic bladder term is an ontology artifact
+- Route compatibility and similarity-to-original-indication analysis, both still pending
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

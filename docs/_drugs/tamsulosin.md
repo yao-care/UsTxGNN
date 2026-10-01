@@ -29,37 +29,36 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# TAMSULOSIN: From Benign Prostatic Hyperplasia to Ambras Type Hypertrichosis Universalis Congenita
+# Tamsulosin: From Lower Urinary Tract Symptoms to Ambras Type Hypertrichosis Universalis Congenita
 
 ## One-Sentence Summary
 
-Tamsulosin is a selective α-1A/1B adrenergic receptor antagonist, globally approved for benign prostatic hyperplasia (BPH) and lower urinary tract symptoms (LUTS), though it currently holds no marketing authorization in Taiwan.
-The TxGNN model predicts it may be effective for **Ambras Type Hypertrichosis Universalis Congenita** — an ultra-rare genetic hair overgrowth disorder linked to the 8q24 chromosomal region.
-**No clinical trials or published literature** currently support this direction; this is a purely model-driven hypothesis with significant mechanistic concerns.
+Tamsulosin is an alpha-1A/1D adrenoceptor antagonist used for lower urinary tract symptoms.
+The TxGNN model predicts it may be effective for **Ambras type hypertrichosis universalis congenita**, but **no clinical trials and no publications** support this prediction. It is a model-only signal with no identified pharmacological rationale.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Benign Prostatic Hyperplasia / Lower Urinary Tract Symptoms (global; no Taiwan authorization on record) |
-| Predicted New Indication | Ambras Type Hypertrichosis Universalis Congenita |
-| TxGNN Prediction Score | 99.9956% |
-| Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not marketed (0 licenses) |
-| Number of NDAs | 0 |
+|------|------|
+| Original Indication | Lower urinary tract symptoms (taken from the prediction rationale; the US license records list no indication text) |
+| Predicted New Indication | Ambras type hypertrichosis universalis congenita |
+| TxGNN Prediction Score | 99.996% (rank 246) |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (all listed licenses are generic ANDAs) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in this evidence pack. Based on established background knowledge, Tamsulosin (DB00706) is a selective α-1A adrenergic receptor antagonist. By blocking α-1A receptors in prostatic smooth muscle, it reduces urethral resistance and alleviates BPH-related urinary symptoms. Its relative selectivity for α-1A over α-1B also limits systemic blood pressure effects, explaining its widespread clinical use for BPH and, off-label, for ureteral stone expulsion.
+Currently, detailed mechanism of action data is not available in the record. Tamsulosin is an alpha-1A/1D adrenoceptor antagonist, and its established use is symptomatic treatment of lower urinary tract symptoms.
 
-Ambras type hypertrichosis universalis congenita is caused by a rearrangement in the 8q24 chromosomal region disrupting TRPS1-related regulatory elements that govern hair follicle development. The proposed mechanistic link to α-1 receptor antagonism is tenuous: α-1 adrenergic receptors are expressed on dermal papilla cells and follicular microvasculature, and blocking them could theoretically modulate sympathetic vasoconstriction, altering follicle perfusion. However, this is far too indirect to address the underlying genetic defect in hair cycle regulation.
+**No plausible link was identified between the two conditions.** Ambras syndrome is a rare congenital disorder tied to chromosome 8q22 rearrangements that affect regulation of *TRPS1*. Alpha-1 adrenergic blockade has no established role in this pathway or in hair-growth regulation.
 
-Critically, this prediction likely reflects a knowledge graph (KG) artifact: the TxGNN model's near-perfect score (>99.99%) appears to stem from topological proximity between hair biology nodes and the alpha-adrenergic pathway in the underlying KG, rather than genuine therapeutic plausibility. A key contradictory signal exists in the FDA adverse event database (FAERS), where Tamsulosin lists alopecia (hair loss) as a rare adverse effect — the opposite direction of what treating hypertrichosis would require. No preclinical or clinical evidence supports this repurposing hypothesis.
+The high score most likely reflects proximity in the knowledge graph to related hair phenotypes, not a pharmacological signal. The other top predictions follow the same pattern. They include hypertrichosis, hair shaft abnormalities, hypotrichosis, alopecia, and Dandy-Walker malformation syndromes, and none has a mechanistic rationale or supporting evidence. Hypotrichosis simplex of the scalp is the phenotypic opposite of hypertrichosis, yet it also ranks high, which suggests the graph signal is not specific.
 
 ---
 
@@ -75,9 +74,19 @@ Currently no related literature available.
 
 ---
 
-## Taiwan Market Information
+## US Market Information
 
-Tamsulosin has not obtained marketing authorization in Taiwan. No NDA or equivalent drug licenses are on record as of the data cutoff (2026-06-22).
+The license records do not include approved indication text, so that column is omitted. The first five of 20 listed licenses are shown.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA202433 | Tamsulosin Hydrochloride | Capsule | Cardinal Health 107, LLC |
+| ANDA207405 | Tamsulosin Hydrochloride | Capsule | Chartwell RX, LLC |
+| ANDA202433 | Tamsulosin Hydrochloride | Capsule | Northwind Health Company, LLC |
+| ANDA202433 | Tamsulosin Hydrochloride | Capsule | Aurobindo Pharma Limited |
+| ANDA090931 | Tamsulosin Hydrochloride | Capsule | Proficient Rx LP |
+
+The only route of administration listed is oral (capsule).
 
 ---
 
@@ -92,15 +101,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-All 10 TxGNN-predicted indications in this pack are rare or genetic disorders (hair overgrowth, hair shaft abnormalities, congenital malformations, periodontal syndromes, migraine with brainstem aura) — none supported by clinical trials or drug-specific literature. The top-ranked prediction for Ambras hypertrichosis reflects an apparent KG topological artifact, not a viable drug-disease mechanism. A documented adverse-effect signal of alopecia in FAERS further undermines the hair disorder cluster as a repurposing direction.
+The prediction is supported only by the graph model score. There are no trials or publications, and no mechanistic link between alpha-1A/1D blockade and Ambras syndrome. The 20 publications retrieved for another predicted indication (periodontal malformation syndrome, rank 3) concern periodontitis in general and do not mention tamsulosin, so they do not raise the evidence level.
 
 **To proceed, the following is needed:**
-
-- Retrieve Tamsulosin's full MOA profile via DrugBank API to identify any unexpected receptor activities beyond α-1 blockade
-- Conduct a systematic FAERS review to quantify and characterize Tamsulosin-associated alopecia reports, which currently contradict the predicted hair disease benefit
-- Investigate α-1 receptor functional expression in human dermal papilla cells with in vitro models before any clinical hypothesis can be formed
-- Re-examine whether any BPH-adjacent indications (e.g., ureteral stone expulsion, overactive bladder) have stronger mechanistic and regulatory rationale for Taiwan market entry, as these are supported by global clinical evidence
-- Obtain the Taiwan package insert (仿單) to complete safety data gap DG001 before any further clinical decision can be made
+- Any tamsulosin-specific mechanistic or preclinical evidence for hair-follicle or *TRPS1*-related biology
+- Mechanism of action data from DrugBank
+- FDA package insert warnings and contraindications, which are currently missing and block safety screening
+- Pharmacoepidemiology data on hair outcomes in tamsulosin users, if the hair-related predictions are to be pursued
+- Route compatibility and similarity-to-original assessments, which are still pending
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

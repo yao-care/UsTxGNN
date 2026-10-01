@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Durvalumab
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 635
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 ---
 
 # Durvalumab
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,11 +29,13 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Durvalumab: From No Taiwan/US-Approved Indication to Prostatic Urethra Urothelial Carcinoma
+# Durvalumab: From PD-L1 Blockade Therapy to Prostatic Urethra Urothelial Carcinoma
 
 ## One-Sentence Summary
 
-Durvalumab (DrugBank DB11714) is not currently on the US/Taiwan regulatory market in this dataset (0 licenses recorded), so no original approved indication is documented here. The TxGNN model's top-ranked prediction is **Prostatic Urethra Urothelial Carcinoma**, but this specific prediction currently has **0 clinical trials** and **0 publications** directly supporting it — the rationale rests solely on anatomical/histological analogy to durvalumab's known class of use in urothelial carcinoma.
+Durvalumab (brand name IMFINZI) is a PD-L1 blocking antibody marketed in the US as an injectable cancer immunotherapy.
+The TxGNN model predicts it may be effective for **prostatic urethra urothelial carcinoma** (score 99.98%).
+However, **no clinical trials and no publications** are currently linked to this specific site, so the prediction rests on model output and class-level reasoning alone.
 
 ---
 
@@ -41,27 +43,28 @@ Durvalumab (DrugBank DB11714) is not currently on the US/Taiwan regulatory marke
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — 0 licenses on file for durvalumab in this dataset; no approved indication text recorded |
-| Predicted New Indication | Prostatic Urethra Urothelial Carcinoma |
+| Predicted New Indication | Prostatic urethra urothelial carcinoma |
 | TxGNN Prediction Score | 99.98% |
-| Evidence Level | L4 |
-| US Market Status | Not Marketed (Not marketed) |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 listings (both under BLA761069) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for durvalumab is not available in this evidence pack (data gap, High severity). Based on the mechanistic notes attached to this and related predictions in the pack, durvalumab is consistently described as an **anti-PD-L1 monoclonal antibody** that blocks the PD-1/PD-L1 checkpoint to restore T-cell antitumor activity — this description recurs across multiple predicted indications in the same pack (e.g., the endocervical carcinoma entry explicitly states this MOA), even though the drug-level `original_moa` field itself is marked as a data gap.
+Durvalumab is a monoclonal antibody that blocks PD-L1. This releases the brake that tumour cells place on T cells. Detailed mechanism data from DrugBank is not currently available, so this description relies on the drug's known class behaviour.
 
-Prostatic urethra urothelial carcinoma is an anatomical subtype of urothelial carcinoma — the tissue-of-origin family in which durvalumab already has an established immunotherapy role according to the evidence pack's own rationale text. The reasoning here is a **category-level extrapolation**: since durvalumab targets PD-L1 signaling broadly across urothelial-derived tumors, a histologically related subtype (prostatic urethra) is mechanistically plausible. However, the pack explicitly flags this as an indirect, drug-class-level inference — there is no anatomic-subtype-specific trial or literature evidence, and no data on whether the prostatic urethra tumor microenvironment behaves immunologically like bladder-primary urothelial carcinoma.
+Urothelial carcinoma is a tumour type in which PD-1/PD-L1 blockade is known to be active as a class. The prostatic urethra is a urothelium-lined site, so extending the same logic to it is biologically plausible. The high score probably reflects the graph proximity of this disease to other urothelial cancers.
+
+This reasoning is indirect. No trial or publication is specific to the prostatic urethra, so the prediction is a hypothesis, not a finding.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for this indication.
 
 ---
 
@@ -73,20 +76,22 @@ Currently no related literature available.
 
 ## US Market Information
 
-No regulatory licenses are on file for durvalumab in this dataset (0 NDAs recorded; market status: Not Marketed).
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| BLA761069 | IMFINZI | Injection, solution | AstraZeneca Pharmaceuticals LP |
+
+The data lists this authorization twice with identical details, so it is shown once here. Approved indication text was not provided.
 
 ---
 
 ## Cytotoxicity
 
-Durvalumab is an oncology drug (anti-PD-L1 immune checkpoint inhibitor), based on the mechanistic descriptions attached to its predicted indications in this pack.
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Immunotherapy (anti-PD-L1 immune checkpoint inhibitor) — not conventional cytotoxic chemotherapy |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
+| Cytotoxicity Classification | Immunotherapy (immune checkpoint inhibitor); not a conventional cytotoxic agent |
+| Myelosuppression Risk | Low, based on general class knowledge; not confirmed from the package insert |
+| Emetogenicity Classification | Low, based on general class knowledge |
+| Monitoring Items | Immune-related adverse events: liver function, thyroid function, renal function, blood glucose, and pulmonary and gastrointestinal symptoms |
 | Handling Protection | Please refer to the package insert warnings and precautions |
 
 ---
@@ -102,14 +107,18 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (prostatic urethra urothelial carcinoma) has Evidence Level L4 with zero supporting clinical trials or literature — only an indirect, category-level mechanistic argument. Additionally, TFDA/regulatory warning and contraindication data is a **Blocking** data gap, which by itself prevents any progression to the S1 safety-review stage regardless of efficacy evidence.
+The prediction score is very high, but there is no trial or literature evidence for prostatic urethra urothelial carcinoma. The evidence level is L5, and the rationale is class-level only.
+
+Two other TxGNN predictions for this drug have more supporting evidence and may be better starting points:
+- **Infiltrating bladder urothelial carcinoma, sarcomatoid variant** (rank 3): a Phase 2 trial of durvalumab with neoadjuvant chemotherapy (NCT03912818) is directly relevant, but it was terminated after only 7 patients.
+- **Endocervical carcinoma** (rank 6): a completed Phase 1 trial (NCT03452332) and an ongoing Phase 2 trial (NCT04065269) exist, but both involve combination regimens.
 
 **To proceed, the following is needed:**
-- TFDA/FDA package insert (warnings, contraindications) — Blocking gap, required before any S1 safety evaluation
-- Confirmed mechanism of action documentation from DrugBank
-- Direct clinical trial or literature evidence specific to prostatic urethra urothelial carcinoma (currently none)
-
-**Note:** This report covers only the rank-1 prediction as specified. Among the 10 predictions in this evidence pack, **endocervical carcinoma** (rank 6) has materially stronger support — Evidence Level L2, 2 clinical trials (including a completed Phase 1 trial directly in cervical/vaginal/vulvar cancer), and 1 publication — and may warrant a separate, higher-priority evaluation.
+- A search for trials or case series in urothelial carcinoma involving the prostatic urethra, or in upper-tract or non-bladder urothelial cancers that could include this site
+- Package insert warnings and contraindications (a blocking data gap for safety screening)
+- Mechanism of action data from DrugBank
+- Approved indication text for BLA761069, to confirm the original indication and its relationship to the predicted one
+- Route compatibility assessment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

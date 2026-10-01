@@ -29,13 +29,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Selumetinib: From NF1-Related Plexiform Neurofibroma to Familial Generalized Lentiginosis
+# Selumetinib: From NF1 Plexiform Neurofibromas to Familial Generalized Lentiginosis
 
 ## One-Sentence Summary
 
-> Selumetinib is a MEK1/2 inhibitor whose established use — noted in the evidence pack's rationale text rather than the structured drug profile — is NF1-related plexiform neurofibroma; formal original-indication and mechanism-of-action fields are flagged as data gaps in this pack.
-> The TxGNN model's top prediction is **Familial Generalized Lentiginosis**,
-> but this specific prediction currently has **0 clinical trials** and **0 publications** supporting it — it is a model-score-only candidate.
+Selumetinib is a MEK1/2 inhibitor of the RAS-MAPK pathway, marketed in the US as KOSELUGO and used for NF1-related plexiform neurofibromas.
+The TxGNN model predicts it may be effective for **familial generalized lentiginosis**, but **no clinical trials and no publications** currently support this prediction. It rests on the model score alone.
 
 ---
 
@@ -43,23 +42,23 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | NF1-related plexiform neurofibroma *(sourced from repurposing-rationale text; not present in structured `original_indications` field — data gap DG002 relates)* |
-| Predicted New Indication | Familial Generalized Lentiginosis |
+| Original Indication | NF1-related plexiform neurofibromas (the license records carry no indication text, so this comes from the drug's known approved use) |
+| Predicted New Indication | Familial generalized lentiginosis |
 | TxGNN Prediction Score | 99.96% |
-| Evidence Level | L5 (model prediction only, no supporting trials/literature) |
-| US Market Status | Not Marketed (Not marketed) |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 4 license records (2 unique NDAs: NDA213756, NDA219943) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism-of-action data is not available in this evidence pack (marked as a High-severity data gap, DG002). Based on information embedded in the pack's own rationale text, Selumetinib is understood to be a MEK1/2 inhibitor, and its use in NF1-related plexiform neurofibroma is referenced as an established application of this drug class.
+Selumetinib inhibits MEK1/2 in the RAS-MAPK pathway. The Evidence Pack has no detailed mechanism-of-action entry, so this description comes from the mechanistic notes attached to the prediction.
 
-Familial generalized lentiginosis belongs to the multiple-lentigines/RASopathy disease group, which can involve overlapping germline genes (e.g., *PTPN11*) that sit upstream in the RAS–RAF–MEK–ERK signaling cascade. Since MEK inhibitors act directly downstream of this pathway, there is a plausible mechanistic rationale for testing selumetinib in RASopathy-spectrum conditions.
+Lentiginosis phenotypes overlap with RASopathies. For example, café-au-lait macules are a hallmark of NF1. Selumetinib is already used in NF1, so a pathway-level link to pigmentary phenotypes is plausible.
 
-That said, the evidence pack explicitly states this rationale is "purely a TxGNN prediction score, with no clinical or literature support" (from the pack's own rank-1 rationale text). The mechanistic plausibility is real, but it remains theoretical for this specific indication.
+This link is only a hypothesis. No disease-specific mechanism has been established for familial generalized lentiginosis, and no supporting studies were retrieved.
 
 ---
 
@@ -75,19 +74,35 @@ Currently no related literature available.
 
 ---
 
+## Other Predicted Indications with Evidence
+
+The top-ranked prediction has no evidence. Two lower-ranked predictions for selumetinib do:
+
+| Rank | Predicted Indication | TxGNN Score | Evidence Level | Key Evidence |
+|------|------|------|------|------|
+| 9 | Peripheral nerve schwannoma | 99.95% | L3 | [NCT03095248](https://clinicaltrials.gov/study/NCT03095248): Phase 2 single-arm trial in NF2-related tumors, terminated early with 10 patients. Preclinical data ([PMID 19804833](https://pubmed.ncbi.nlm.nih.gov/19804833/)) show MEK1/2 inhibition reduces ERK activation and proliferation in primary human schwannoma cells. A case report ([PMID 38058737](https://pubmed.ncbi.nlm.nih.gov/38058737/)) describes a partial response in an NF2-associated ependymoma. |
+| 3 | Rhabdoid tumor | 99.96% | L4 | [NCT03155620](https://clinicaltrials.gov/study/NCT03155620): NCI-COG Pediatric MATCH screening protocol (Phase 2, n=1377) with a selumetinib subprotocol, not specific to rhabdoid tumor. Preclinical ATRT work ([PMID 25638158](https://pubmed.ncbi.nlm.nih.gov/25638158/)) suggests MAPK pathway dependence. |
+
+The other seven predictions (ranks 2, 4–8 and 10) are L5, model prediction only.
+
+---
+
 ## US Market Information
 
-Selumetinib currently has **no NDA or marketing authorization on file** in this evidence pack — market status is recorded as "Not marketed" (Not Marketed) with 0 total licenses. No product/dosage-form/indication data is available to tabulate.
+| Authorization Number | Product Name | Dosage Form |
+|---------|------|------|
+| NDA213756 | KOSELUGO (AstraZeneca Pharmaceuticals LP) | Capsule |
+| NDA219943 | KOSELUGO (AstraZeneca Pharmaceuticals LP) | Granule |
+
+The source data lists each NDA twice and gives no approved-indication text.
 
 ---
 
 ## Cytotoxicity
 
-Selumetinib is a targeted small-molecule kinase inhibitor (MEK1/2), used in the oncology/RASopathy space based on the evidence pack's rationale references; several of the drug's other predicted indications in this pack are neoplasms (rhabdoid tumor, peripheral nerve schwannoma), supporting its classification here.
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (MEK1/2 inhibitor) |
+| Cytotoxicity Classification | Targeted therapy (MEK inhibitor), not a conventional cytotoxic agent |
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
 | Monitoring Items | Please refer to the package insert warnings and precautions |
@@ -97,7 +112,7 @@ Selumetinib is a targeted small-molecule kinase inhibitor (MEK1/2), used in the 
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (All key warnings, contraindications, and drug-interaction fields in this evidence pack are marked as data gaps; DG001 flags this as a **Blocking** gap that prevents entry into S1 safety review.)
+Please refer to the package insert for safety information.
 
 ---
 
@@ -106,15 +121,15 @@ Please refer to the package insert for safety information. (All key warnings, co
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (familial generalized lentiginosis) has zero clinical trial or literature support and is explicitly labeled L5/model-prediction-only in the evidence pack itself. Combined with the blocking safety data gap (no TFDA/package-insert warnings available) and the drug's unmarketed US status, there is currently no basis to advance this specific indication.
+The top-ranked prediction, familial generalized lentiginosis, is supported only by the model score (L5). It has no trials, no literature, and no established mechanism.
 
 **To proceed, the following is needed:**
-- Package insert / regulatory label data (warnings, contraindications) — currently blocking (DG001)
-- Confirmed mechanism-of-action documentation from DrugBank (DG002)
-- Any preclinical or clinical evidence specific to familial generalized lentiginosis or the broader RASopathy/lentiginosis spectrum
-- Formal original-indication records for Selumetinib (currently only inferable from rationale text, not a structured field)
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism-of-action data from DrugBank
+- Any disease-specific biological evidence linking familial generalized lentiginosis to MAPK signaling
+- For the better-supported predictions, treat peripheral nerve schwannoma (L3) and rhabdoid tumor (L4) as separate research questions. Schwannoma has an early-terminated Phase 2 trial in NF2-related tumors and preclinical data. Rhabdoid tumor has preclinical MAPK evidence and indirect support from a pediatric umbrella trial.
 
-**Note on portfolio prioritization:** Within this same evidence pack, **rank 9 — peripheral nerve schwannoma** carries substantially stronger evidence (L3, one Phase 2 trial with direct NF2-schwannoma relevance plus 7 supporting publications including a preclinical MEK/ERK mechanistic study) and may warrant separate evaluation ahead of the top-ranked candidate discussed here.
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

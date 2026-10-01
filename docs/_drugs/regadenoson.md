@@ -29,91 +29,72 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Regadenoson: From Pharmacologic Cardiac Stress Agent to Predicted Anaphylaxis Indication
+# Regadenoson: From Pharmacologic Stress Agent for Cardiac Imaging to Anaphylaxis
 
 ## One-Sentence Summary
 
-> Regadenoson is a selective A2A adenosine receptor agonist most commonly used clinically as a pharmacologic stress agent for cardiac perfusion imaging; no disease-treatment indication is on file for this drug in the current dataset.
-> The TxGNN model predicts it may be effective for **Anaphylaxis**, but this is supported by **0 directly relevant clinical trials** and **0 publications** — the single retrieved trial is unrelated to this hypothesis, and the underlying mechanism actually contradicts regadenoson's known clinical adverse-effect profile.
-
----
+Regadenoson is a selective A2A adenosine receptor agonist marketed in the US as the injectable product LEXISCAN. The Evidence Pack does not list an approved indication, but it is known as a pharmacologic stress agent for cardiac perfusion imaging. The TxGNN model predicts it may be effective for **anaphylaxis**, but only **1 clinical trial** is linked (a cardiac imaging study, not a treatment trial) and **0 publications** support this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in available data (drug not marketed; clinically used as a pharmacologic cardiac stress-testing agent, not as a disease treatment) |
+| Original Indication | Not listed in the provided data (general knowledge: pharmacologic stress agent for myocardial perfusion imaging) |
 | Predicted New Indication | Anaphylaxis |
 | TxGNN Prediction Score | 99.85% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
-| Recommended Decision | **Hold** |
-
----
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 17 (includes ANDA generics) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for regadenoson is not available in this dataset (flagged as a High-severity data gap, DG002). Based on the repurposing rationale supplied with this candidate, regadenoson is a **selective A2A adenosine receptor agonist**. In theory, A2A receptor activation can suppress mast cell degranulation, which provides a plausible pharmacological pathway toward anti-inflammatory or anti-allergic effects — this is the basis for the TxGNN association with anaphylaxis.
+Detailed mechanism of action data is not available in the Evidence Pack. Regadenoson is a selective A2A adenosine receptor agonist. In preclinical models, A2A signaling generally has anti-inflammatory effects. That is the only conceivable link to anaphylaxis, and no clinical evidence in the provided data supports it.
 
-However, this mechanistic hypothesis runs directly counter to regadenoson's established clinical safety profile: regadenoson is itself a **known trigger of allergic-type and anaphylactoid reactions**, including rare cases of severe anaphylactic shock, when used in its approved diagnostic setting. In other words, the adverse effect the drug is predicted to *treat* is the same reaction the drug is documented to *cause*. This directional conflict substantially weakens the biological plausibility of the prediction and should be treated as a significant red flag rather than supporting evidence.
+The prediction is weak. The drug label lists hypersensitivity reactions, including anaphylaxis, as an adverse reaction, so the drug is associated with anaphylaxis as a risk rather than a treatment. The very high score (0.998) is most likely a knowledge-graph association artifact rather than a therapeutic signal.
 
-No original indication is recorded for this drug in Taiwan (market status: not marketed, 0 licenses), so there is also no approved-indication analog to compare against the predicted new indication — unlike typical repurposing cases where the original and new indications share a disease-area rationale.
-
----
+The other predictions are weaker still. Food-dependent exercise-induced anaphylaxis (score 99.74%) and pseudoallergy (99.12%) have no trials or literature and mirror the anaphylaxis association. Esotropia (99.12%) has no plausible mechanistic connection to A2A agonism. All are L5 and Hold.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT06854458](https://clinicaltrials.gov/study/NCT06854458) | NA | Recruiting | 1000 | Multicenter stress cardiac MRI perfusion imaging study; regadenoson is used here purely as a pharmacologic stress agent to simulate exercise for coronary blood-flow assessment. **Relevance to anaphylaxis treatment: Grade C (low)** — anaphylaxis, if captured at all, would only appear as a safety-monitoring event, not as a treatment endpoint. This trial does not test or support the anaphylaxis hypothesis. |
-
----
+| [NCT06854458](https://clinicaltrials.gov/study/NCT06854458) | NA | Recruiting | 1000 | Multicenter stress cardiac MRI quantitative perfusion imaging study (SPINS2). Regadenoson is presumably the stress agent for diagnostic imaging. It does not test regadenoson as an anaphylaxis treatment (relevance grade C). |
 
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-Regadenoson is **not currently marketed** in this jurisdiction. No license/NDA records are available (total licenses: 0).
+The table shows 5 of the 17 authorizations. The Evidence Pack contains no approved indication text for any of them.
 
----
-
-## Other Predicted Indications Also Reviewed (Same Candidate Set)
-
-Three additional TxGNN-predicted indications for regadenoson were reviewed alongside anaphylaxis. All carry the same evidence tier and recommendation:
-
-| Predicted Indication | TxGNN Score | Evidence Level | Recommendation | Note |
-|---|---|---|---|---|
-| Food-dependent exercise-induced anaphylaxis | 99.74% | L5 | Hold | No clinical or literature support; relies on the same unproven mast-cell hypothesis as above |
-| Esotropia | 99.12% | L5 | Hold | No known biological link between A2A adenosine signaling and extraocular muscle imbalance; likely reflects a spurious knowledge-graph connection |
-| Pseudoallergy | 99.12% | L5 | Hold | Same mechanistic contradiction as anaphylaxis — regadenoson is a known cause of pseudoallergic reactions, not a treatment for them |
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA022161 | LEXISCAN (Astellas Pharma US, Inc.) | Injection, solution | Not listed in provided data |
+| ANDA213210 | Regadenoson (Dr. Reddy's Laboratories Inc.) | Injection | Not listed in provided data |
+| ANDA218054 | Regadenoson (Marlex Pharmaceuticals, Inc.) | Injection, solution | Not listed in provided data |
+| ANDA216437 | Regadenoson (Eugia US LLC) | Injection | Not listed in provided data |
+| ANDA207604 | Regadenoson (Apotex Corp.) | Injection, solution | Not listed in provided data |
 
 ## Safety Considerations
 
-> Please refer to the package insert for safety information. Key warnings, contraindications, and drug–drug interaction data are not yet available in this dataset (TFDA label data is a Blocking-severity gap, DG001).
+Please refer to the package insert for safety information.
 
-**Important context from the repurposing rationale itself:** regadenoson is documented to be capable of inducing allergic-type and anaphylactoid reactions, including rare severe anaphylactic shock, in its current diagnostic use. This should be treated as a safety signal directly relevant to evaluating the anaphylaxis-related predictions above, independent of the still-missing formal label data.
-
----
+The prediction rationale notes that hypersensitivity reactions, including anaphylaxis, are a labeled adverse reaction. This is a safety concern for the drug, not a benefit.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All four predicted indications sit at Evidence Level L5 (model prediction only), decision stage S0. The one retrieved clinical trial is mechanistically unrelated to any of the predicted indications, and no supporting literature exists. Most importantly, the anaphylaxis and pseudoallergy hypotheses conflict with regadenoson's own known adverse-effect profile, which undermines rather than supports biological plausibility.
+The prediction rests only on a model score (L5). The single linked trial is a diagnostic imaging study unrelated to treating anaphylaxis. The drug's own label lists anaphylaxis as an adverse reaction, so the score most likely reflects a knowledge-graph artifact rather than real therapeutic potential.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (DG001, Blocking) — required before any S1 safety screening
-- Confirmed mechanism-of-action data from DrugBank (DG002) to properly assess the A2A-agonist/mast-cell hypothesis
-- Preclinical or pharmacological studies directly testing regadenoson's effect on mast cell degranulation/anaphylactic response, ideally resolving the direction-of-effect contradiction
-- Any real-world adverse event data on regadenoson-associated allergic reactions, to contextualize risk before considering further development
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data (e.g., from DrugBank)
+- Preclinical or clinical evidence that A2A agonism benefits anaphylaxis or mast-cell-driven reactions
+- Route compatibility assessment (currently pending)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

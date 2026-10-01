@@ -29,70 +29,76 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-以下是根據 Evidence Pack 產生的藥師評估報告：
-
----
-
-# Chloroprocaine: From Regional Anesthesia to Cauda Equina Syndrome
+# Chloroprocaine: From Local Anesthesia to Cauda Equina Syndrome
 
 ## One-Sentence Summary
 
-Chloroprocaine is an ester-type local anesthetic widely used for regional and spinal anesthesia procedures.
-The TxGNN model assigns it a **99.01% score** for **cauda equina syndrome (CES)**, with **1 observational study** and **4 publications** co-mentioning both terms.
-Critically, however, all available evidence identifies chloroprocaine as a documented **iatrogenic cause** of CES — not a potential treatment — indicating this is a false positive prediction driven by adverse-event co-occurrence in the literature rather than any therapeutic signal.
+Chloroprocaine is a short-acting local anesthetic, marketed in the US as an injectable solution and an ophthalmic gel.
+The TxGNN model predicts it may be relevant to **cauda equina syndrome**, but the **1 clinical trial** and **4 publications** found all describe this condition as a *complication* of neuraxial anesthesia, not something the drug treats.
+The prediction most likely reflects an adverse-event association, not a therapeutic one.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not registered in this database (known pharmacological class: ester-type local anesthetic for regional/spinal anesthesia) |
-| Predicted New Indication | Cauda Equina Syndrome |
-| TxGNN Prediction Score | 99.01% (rank: 21,288) |
-| Evidence Level | L5 |
-| US Market Status | Not marketed (no registered products in database) |
-| Number of NDAs | 0 |
-| Recommended Decision | **Hold** |
+|------|------|
+| Original Indication | Not listed in the US label data provided (local anesthetic) |
+| Predicted New Indication | Cauda equina syndrome |
+| TxGNN Prediction Score | 99.01% |
+| Evidence Level | L5 (model prediction only; the retrieved studies are safety reports, not efficacy evidence. The source pack labels this L4.) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 11 license records (NDA009435, NDA216227) |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the provided dataset. Based on information in the clinical literature, chloroprocaine is an ester-type local anesthetic whose primary mechanism involves **blocking voltage-gated sodium channels (Nav)**, thereby inhibiting nerve impulse conduction and producing reversible regional anesthesia. It is used clinically for short-duration spinal, epidural, and infiltration anesthesia.
+Currently, detailed mechanism of action data is not available in the record. Chloroprocaine is a local anesthetic of the ester type, which blocks voltage-gated sodium channels and thereby interrupts nerve conduction.
 
-The relationship between chloroprocaine and cauda equina syndrome in the medical literature is **not therapeutic — it is iatrogenic and in the opposite causal direction.** Intrathecal injection of chloroprocaine, particularly older formulations containing preservatives (e.g., sodium bisulfite), has been reported as a direct cause of CES. The proposed injury mechanism involves sustained Nav blockade producing localised nerve root hypoxia and cytotoxicity, leading to the characteristic bladder, bowel, and lower-limb deficits of CES.
+**No therapeutic link is supported.** In the retrieved literature, cauda equina syndrome appears as a known complication of spinal and epidural anesthesia. Local anesthetic neurotoxicity, including with chloroprocaine, has been implicated. A drug that blocks nerve conduction has no known mechanism for treating a compressive or injury-related nerve-root disorder.
 
-The TxGNN model's high probability score (99.01%) reflects the **high co-occurrence frequency** of "chloroprocaine" and "cauda equina syndrome" in the indexed literature. However, this co-occurrence captures an adverse drug reaction relationship — **drug → disease (harm)** — rather than a treatment indication — **disease → drug (therapy)**. This represents a known blind spot of graph-based repurposing models when the drug and disease appear together predominantly in a safety or complication context. No mechanistic pathway has been identified by which chloroprocaine could reverse or treat CES.
+The high TxGNN score (0.99) most likely comes from a knowledge-graph connection through adverse events or anesthesia-related links. It should not be read as evidence of benefit. The prediction cannot be cross-checked against a known original mechanism or indication, because neither is available.
 
 ---
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT02067806](https://clinicaltrials.gov/study/NCT02067806) | N/A | Completed | 394 | Prospective observational safety study monitoring neurological adverse events — including TNS and **CES as an adverse outcome** — following intrathecal 1% 2-chloroprocaine. This trial monitors CES as a risk to be detected, not as a condition being treated. |
-
-> ⚠️ **Note:** The sole identified trial does not evaluate chloroprocaine as a treatment for CES. It is a pharmacovigilance study designed to measure the incidence of CES and other neurological harms caused by the drug.
+|---------|------|------|------|---------|
+| [NCT02067806](https://clinicaltrials.gov/study/NCT02067806) | N/A (observational) | Completed | 394 | Prospective safety study of 1% 2-chloroprocaine in spinal anesthesia, tracking neurological adverse events, especially transient neurological symptoms and cauda equina syndrome. It tests safety, not treatment, so it gives no direct support for this indication. |
 
 ---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [22236346](https://pubmed.ncbi.nlm.nih.gov/22236346/) | 2012 | RCT | Acta Anaesthesiologica Scandinavica | Randomised comparison of 2-chloroprocaine versus lidocaine (with fentanyl) for selective spinal anesthesia in outpatient TURP — evaluates efficacy and safety as an anesthetic agent, not as a CES treatment. |
-| [23320599](https://pubmed.ncbi.nlm.nih.gov/23320599/) | 2013 | Review | Acta Anaesthesiologica Scandinavica | Comprehensive review of 2-chloroprocaine for spinal anaesthesia; discusses its candidacy to replace lidocaine while noting that high-dose preservative-containing formulations have been associated with neurological sequelae including CES. |
-| [11368250](https://pubmed.ncbi.nlm.nih.gov/11368250/) | 2001 | Review | Drug Safety | Broad review of regional anaesthesia complications; identifies CES as a rare but serious complication of central neuraxial blockade, with chloroprocaine among implicated agents. |
-| [9338907](https://pubmed.ncbi.nlm.nih.gov/9338907/) | 1997 | Case Report | Regional Anesthesia | Two case reports of CES following combined spinal-epidural anesthesia; review of prior literature implicating lidocaine, chloroprocaine, and procaine in CES aetiology — confirms causation, not treatment. |
+|------|-----|------|------|---------|
+| [22236346](https://pubmed.ncbi.nlm.nih.gov/22236346/) | 2012 | RCT | Acta Anaesthesiol Scand | Chloroprocaine vs lidocaine for selective spinal anesthesia in outpatient TURP. It compares anesthetic performance and does not address treating cauda equina syndrome. |
+| [23320599](https://pubmed.ncbi.nlm.nih.gov/23320599/) | 2013 | Review | Acta Anaesthesiol Scand | Review of chloroprocaine for spinal anesthesia. It notes that neurologic sequelae followed intrathecal injection of large doses of preservative-containing chloroprocaine. |
+| [11368250](https://pubmed.ncbi.nlm.nih.gov/11368250/) | 2001 | Review | Drug Saf | Incidence and prevention of regional anesthesia complications, including neural injury and local anesthetic toxicity. |
+| [9338907](https://pubmed.ncbi.nlm.nih.gov/9338907/) | 1997 | Case report | Reg Anesth | Two cases of cauda equina syndrome after spinal-epidural anesthesia. Prior reports had implicated lidocaine, chloroprocaine, and procaine. |
 
-> ⚠️ **Note:** All four publications document chloroprocaine as a **contributing cause** of CES. None describe or support its use as a therapeutic agent for CES.
+---
+
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA009435 | Nesacaine | Injection, solution | Not listed in the data provided |
+| NDA009435 | Chloroprocaine HCl | Injection, solution | Not listed in the data provided |
+| NDA009435 | Chloroprocaine HCl | Injection, solution | Not listed in the data provided |
+| NDA216227 | IHEEZO | Gel | Not listed in the data provided |
+| NDA009435 | Nesacaine | Injection, solution | Not listed in the data provided |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Detailed warnings, contraindications, and drug interaction data were not available in this dataset.
+The literature above raises a specific neurotoxicity concern. Cauda equina syndrome and transient neurological symptoms have been reported after intrathecal or epidural local anesthetics, including chloroprocaine, particularly with large doses of preservative-containing formulations.
+
+Please refer to the package insert for other safety information.
 
 ---
 
@@ -101,14 +107,13 @@ Please refer to the package insert for safety information. Detailed warnings, co
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN prediction of chloroprocaine for cauda equina syndrome is a **confirmed false positive**. The drug is a documented iatrogenic cause of CES, not a treatment for it; the causal direction in all retrieved evidence runs from drug to disease (harm), not disease to drug (therapy). Pursuing this indication would not only lack therapeutic rationale but would also raise direct patient safety concerns.
+The evidence describes cauda equina syndrome as a possible harm of neuraxial chloroprocaine, not a condition it treats. There is no efficacy evidence and no plausible mechanism for treatment, so the high model score is not actionable.
 
-**To proceed meaningfully, the following would be required:**
-
-- **False-positive triage:** Flag this candidate in the TxGNN output pipeline as an adverse-reaction co-occurrence pattern, not a repurposing signal — to prevent downstream clinical misinterpretation.
-- **Model feedback:** Consider enriching TxGNN training data or post-processing filters to distinguish therapeutic associations from harm/complication associations in the knowledge graph.
-- **MOA data retrieval:** Obtain complete DrugBank mechanism data (DG002) to improve future mechanistic plausibility screening for chloroprocaine predictions.
-- **Package insert review:** Retrieve TFDA/FDA label (DG001) to complete the safety profile before any further evaluation of this compound in other indications.
+**To proceed, the following is needed:**
+- Package insert warnings and contraindications, currently missing and blocking safety screening
+- Mechanism of action data from DrugBank
+- Expert review to confirm whether the prediction is an adverse-event artifact and should be dropped
+- Any evidence of therapeutic benefit in cauda equina syndrome, which none of the retrieved studies provide
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

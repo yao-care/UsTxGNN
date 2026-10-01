@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Cimetidine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 530
-evidence_level: L4
+evidence_level: L5
 indication_count: 9
 ---
 
 # Cimetidine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **9** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,81 +29,71 @@ Evidence Level: **L4** | Predicted Indications: **9**
 
 </div>
 
-Using `txgnn-pipeline` to orient the context, then applying the **Drug Repurposing Evaluation Report Prompt v5** to generate the report.
-
----
-
-# Cimetidine: From Peptic Ulcer Disease to Smouldering Systemic Mastocytosis
+# Cimetidine: From Acid-Related Gastrointestinal Disease to Smouldering Systemic Mastocytosis
 
 ## One-Sentence Summary
 
-Cimetidine is the first-generation histamine H2 receptor antagonist (H2RA), originally developed and used to suppress gastric acid secretion and treat peptic ulcer disease.
-The TxGNN model predicts it may be effective for **Smouldering Systemic Mastocytosis**, with **0 registered clinical trials** and **0 indexed publications** found for this specific disease–drug combination.
-Despite the evidence gap, the mechanistic rationale is well-established: combined H1 and H2 receptor blockade is already a recognized standard adjunct in mastocytosis symptom management, classifying this as a known off-label use rather than a purely speculative repurposing candidate.
-
----
+Cimetidine is a histamine H2-receptor blocker, marketed in the US for stomach-acid conditions such as peptic ulcer. The TxGNN model predicts it may be useful for **Smouldering systemic mastocytosis**, but there are currently **0 clinical trials** and **0 publications** for this prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Peptic ulcer disease / gastric acid hypersecretion (not registered in Taiwan regulatory database) |
+|------|------|
 | Predicted New Indication | Smouldering systemic mastocytosis |
 | TxGNN Prediction Score | 99.80% |
-| Evidence Level | L4 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Licenses | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (total US licenses, mostly generic ANDAs plus the brand NDA020238, TAGAMET) |
 | Recommended Decision | Hold |
 
----
+The evidence pack has no approved-indication text, so the original indication is not listed in the table. The title uses the general acid-related use of the drug class, not label wording.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this dataset. Based on established pharmacology, cimetidine is the prototype H2 receptor antagonist. It competitively blocks histamine H2 receptors on gastric parietal cells, suppressing basal gastric acid secretion by 60–70% and stimulated secretion proportionally. This mechanism made it the first major advance over antacids for treating peptic ulcer disease when it entered clinical use in the late 1970s.
+Currently, detailed mechanism of action data is not available. Cimetidine is an H2 antagonist that reduces gastric acid secretion. Its efficacy in acid-related disease is well established, and mechanistically it may be applicable to mast cell disease through histamine blockade.
 
-In smouldering systemic mastocytosis (SSM), neoplastic mast cells accumulate in the bone marrow and peripheral organs, continuously releasing mediators — most prominently histamine — into circulation. Histamine acting on gastrointestinal H2 receptors drives the characteristic GI symptoms of SSM: abdominal cramping, diarrhea, and peptic ulceration. By competitively blocking these same H2 receptors, cimetidine directly interrupts this pathway, providing symptom relief without requiring any new pharmacological target.
+Mast cells release large amounts of histamine, which drives gastric acid hypersecretion and related symptoms in mastocytosis. Blocking H2 receptors could plausibly relieve these symptoms.
 
-Clinically, the combination of an H1 antihistamine plus an H2 antihistamine (such as cimetidine) is endorsed in mastocytosis management guidelines precisely because each class covers a different spectrum of histamine-mediated effects. This makes the TxGNN prediction mechanistically sound even in the complete absence of indexed clinical trials or publications for this specific pairing — the knowledge graph correctly identifies the H2 receptor as the shared pharmacological node linking the drug to the disease.
-
----
+This would be symptom control only. Cimetidine would not change the underlying clonal mast cell disease. The link is inferred, and nothing in this package supports it with trial or literature data.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Cimetidine in Smouldering Systemic Mastocytosis.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for Cimetidine in Smouldering Systemic Mastocytosis.
+Currently no related literature available.
 
----
+## US Market Information
 
-## Taiwan Market Information
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA074329 | Cimetidine | Tablet, film coated | Chartwell RX, LLC |
+| ANDA074251 | Cimetidine hydrochloride | Solution | Chartwell RX, LLC |
+| ANDA074151 | Cimetidine | Tablet, film coated | Teva Pharmaceuticals USA, Inc. |
+| NDA020238 | TAGAMET | Tablet | Prestige Brands Holdings, Inc. |
+| ANDA218220 | Cimetidine | Tablet, film coated | Bionpharma Inc. |
 
-Cimetidine currently holds no drug product licenses in the Taiwan regulatory database and is not marketed in Taiwan. No authorization records are available for tabulation.
-
----
+Approved-indication text was not provided for any of these licenses.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Although the mechanistic link between cimetidine's H2 blockade and histamine-driven mastocytosis symptoms is clear and supported by clinical practice guidelines, no indexed clinical trials or publications were identified for this specific indication, and all Taiwan safety data (warnings, contraindications, drug interactions) are unavailable — preventing a formal safety-based recommendation to proceed.
+The prediction has a very high model score, but no trials or literature support it. The only rationale is symptomatic histamine blockade, which would not treat the underlying mast cell disease.
+
+Among the other predictions in the pack, "active peptic ulcer disease" (L1) is most likely an existing labeled use rather than true repurposing. Confirm it against the current label before treating it as a candidate.
 
 **To proceed, the following is needed:**
-- Retrieve full Taiwan prescribing information (TFDA package insert PDF) to extract contraindications, key warnings, and drug interaction profile
-- Obtain DrugBank MOA record (DB00501) to formally document mechanism of action and CYP450 inhibition profile (cimetidine is a known inhibitor of CYP1A2, CYP2C9, CYP2D6, and CYP3A4 — a clinically significant DDI concern)
-- Perform targeted literature search for H2RA use in mastocytosis management guidelines (e.g., WHO, ESMO, NCCN), which are likely to document this off-label use explicitly
-- Clarify whether SSM patients are already receiving H2RA therapy per guideline recommendations, which would reframe this as a label expansion rather than a novel repurposing hypothesis
-- If escalating to formal repurposing, a prospective observational study comparing symptom burden in SSM patients with vs. without H2RA co-administration would constitute a feasible and ethical next step
+- The current FDA package insert, to confirm the approved indications and to obtain warnings and contraindications
+- Mechanism of action data from DrugBank
+- A targeted search for cimetidine or H2-blocker studies in systemic mastocytosis
+- A clinical case for the value of symptom control in smouldering disease, including comparison with standard antihistamine and mast-cell-directed therapy
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

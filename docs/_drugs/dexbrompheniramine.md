@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Dexbrompheniramine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 591
-evidence_level: L4
+evidence_level: L5
 indication_count: 7
 ---
 
 # Dexbrompheniramine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,62 +29,76 @@ Evidence Level: **L4** | Predicted Indications: **7**
 
 </div>
 
-# Dexbrompheniramine: From H1 Antihistamine to Allergic Urticaria
+# Dexbrompheniramine: From an Antihistamine (Original Indication Not Recorded) to Allergic Urticaria
 
 ## One-Sentence Summary
 
-Dexbrompheniramine is the pharmacologically active R-enantiomer of brompheniramine, a first-generation H1 antihistamine used for allergic symptoms. The TxGNN model predicts it may be effective for **Allergic Urticaria**, with **0 clinical trials** and **0 publications** specifically documenting dexbrompheniramine in this indication — though H1 antihistamines as a drug class carry Phase 3 RCT-level evidence for urticaria, lending strong mechanistic credibility to the prediction despite the absence of isomer-specific data.
+Dexbrompheniramine is a first-generation H1 antihistamine marketed in the US as a tablet, but the supplied record lists no approved indication text.
+The TxGNN model predicts it may be effective for **allergic urticaria**.
+There are currently **0 clinical trials** and **0 publications** supporting this prediction, so it is a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No approved indications on file for this jurisdiction |
-| Predicted New Indication | Allergic Urticaria |
+|------|------|
+| Original Indication | Not listed in the supplied record |
+| Predicted New Indication | Allergic urticaria |
 | TxGNN Prediction Score | 99.99% |
-| Evidence Level | L4 |
-| US Market Status | Not marketed (no NDA on file) |
-| Number of NDAs | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Dexbrompheniramine is the dextrorotatory (R-) enantiomer of brompheniramine, belonging to the first-generation alkylamine antihistamine class. Detailed mechanism of action data for this specific isomer was not available from the sources collected in this evaluation. Based on established pharmacological knowledge for the drug class, dexbrompheniramine acts as a competitive antagonist at histamine H1 receptors, blocking histamine-mediated vasodilation, increased vascular permeability, and pruritus — the core pathophysiology driving allergic urticaria. As a first-generation agent, it also carries anticholinergic activity that may further reduce secretory responses in the skin and mucosa.
+Currently, detailed mechanism of action data is not available in the record. Dexbrompheniramine is generally known as an alkylamine H1 antihistamine. This is general pharmacology and is not taken from the supplied data.
 
-Allergic urticaria is driven by IgE-mediated mast cell degranulation releasing histamine, which triggers the characteristic wheal-and-flare reaction. H1 receptor antagonism is the first-line standard of care for this condition, with the drug class supported by multiple Phase 3 RCTs. The TxGNN model's prediction score of 99.99% (global rank #534) reflects the strong mechanistic alignment between dexbrompheniramine's pharmacological profile and the histamine-dependent pathogenesis of allergic urticaria.
+Allergic urticaria is a histamine-mediated condition, with wheals and flare driven by mast-cell histamine release. H1 receptor blockade is therefore mechanistically consistent with symptom relief. The drug's own original indication is not recorded, so the link to its established use cannot be assessed here.
 
-The critical gap is the complete absence of dexbrompheniramine-specific clinical or published data in this indication. Efficacy data from the parent racemate (brompheniramine) and structurally related first-generation antihistamines (chlorpheniramine, diphenhydramine) would currently need to serve as indirect, class-level support. The prediction is biologically sound and consistent with established pharmacological principles, but isomer-level evidence remains absent.
+The high score (0.9999) reflects the model's ranking only. Without trials or literature, the prediction is unverified.
+
+**Other predictions from the model** (all L5, all Hold):
+
+| Rank | Predicted Indication | Score | Comment |
+|------|------|------|------|
+| 2 | Cold urticaria | 99.97% | A histamine-mediated physical urticaria, so H1 blockade is plausible |
+| 3 | Recalcitrant atopic dermatitis | 99.64% | Possible itch relief only. The disease is driven by Th2 inflammation and barrier dysfunction, and "recalcitrant" disease implies poor response to standard therapy |
+| 4 | IgE responsiveness, atopic | 99.63% | A trait rather than a treatable indication |
+| 5 | Nasal cavity disease | 99.34% | Too broad to assess. It needs to be narrowed to a specific condition |
+| 6 | Acute laryngopharyngitis | 99.33% | Mostly infectious. Any benefit would be symptomatic and speculative |
+| 7 | Pharyngitis | 99.23% | Mostly infectious. Any benefit would be symptomatic and speculative |
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for dexbrompheniramine in allergic urticaria.
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for dexbrompheniramine in allergic urticaria.
+Currently no related literature available.
 
 ## US Market Information
 
-No NDA or product licenses are on file for dexbrompheniramine in this jurisdiction. The drug may appear as an active component in combination over-the-counter products (e.g., decongestant-antihistamine combinations) in some markets, but no standalone authorizations were retrieved.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| M012 | ALA-HIST IR (Poly Pharmaceuticals, Inc.) | Tablet (oral) | Not stated in the record |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No warnings, contraindications, or drug interaction records were available in the supplied data.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The H1 antihistamine class has robust Phase 3 RCT support for allergic urticaria, and dexbrompheniramine's mechanism directly targets the histamine-mediated pathophysiology of this condition; however, complete absence of isomer-specific safety, MOA, and clinical data — combined with no approved market authorization in this jurisdiction — means evidence generation is required before any clinical deployment.
+The prediction rests on the model score alone (L5), with no trials or literature. Neither the original indication nor the mechanism of action is documented in the record, and no safety data are available. Allergic and cold urticaria are the most mechanistically plausible candidates. The others are weak or too non-specific to assess.
 
 **To proceed, the following is needed:**
-- Retrieve the full FDA label or equivalent package insert (warnings, contraindications, approved dosing for dexbrompheniramine)
-- Confirm mechanism of action details via DrugBank API (DB00405)
-- Conduct targeted literature search for brompheniramine (parent racemate) in urticaria to establish indirect class-level evidence
-- Obtain a drug-drug interaction profile from standard DDI databases (no interactions were found in the current query)
-- Assess whether dexbrompheniramine provides a clinical advantage (efficacy or tolerability) over established first- and second-generation H1 antihistamines already approved for urticaria
-- Define target patient population, dosing route, and a feasibility assessment for prospective isomer-specific study design
+- The package insert with warnings and contraindications (a blocking gap for safety screening)
+- Approved indication text and mechanism of action data (for example from DrugBank)
+- Literature and trial searches for dexbrompheniramine in urticaria
+- Narrowing of non-specific predictions (nasal cavity disease, IgE responsiveness) to assessable conditions
+- Route compatibility assessment (currently pending)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -33,7 +33,9 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-> Trolamine salicylate is a topical salicylate salt traditionally used as an over-the-counter counterirritant for minor muscle and joint pain, though detailed regulatory indication text is not available in the current dataset. The TxGNN model predicts it may be effective for **Exostosis**, but this prediction is currently supported by **0 clinical trials** and **0 publications**, meaning it rests on model inference alone. Additional evidence gathering and core drug-safety data (MOA, TFDA labeling) are required before this candidate can advance.
+Trolamine salicylate is a topical salicylate, marketed in the US in creams and a spray sold as pain-relief and arthritis-relief products.
+The TxGNN model predicts it may be effective for **exostosis** (a bony outgrowth), but **no clinical trials and no publications** currently support this prediction.
+This is a model-only signal, and the mechanistic rationale is weak.
 
 ---
 
@@ -41,23 +43,23 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not specified in available regulatory data; historically marketed OTC as a topical analgesic/rubefacient for minor muscle and joint pain |
+| Original Indication | Not recorded in the source data (all license indication fields are empty). Product names such as "Arthritis Relief" and "Pain Relief" suggest topical musculoskeletal pain relief. |
 | Predicted New Indication | Exostosis |
-| TxGNN Prediction Score | 99.75% |
-| Evidence Level | L5 (model prediction only, no supporting trials or literature) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| TxGNN Prediction Score | 99.75% (rank 6719) |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 licenses (the five listed include 505G(a)(3) and M017 entries, which are not standard NDA numbers) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for trolamine salicylate. Based on known information, it belongs to the salicylate class of topical NSAID-like agents, historically applied as a counterirritant/analgesic for musculoskeletal pain — its efficacy in relieving muscle and joint discomfort is well established in general clinical use, though the specific regulatory indication text could not be extracted for this evidence pack.
+Currently, detailed mechanism of action data is not available. Trolamine salicylate is a topical salicylate. Salicylates as a class act as local anti-inflammatory and analgesic agents by inhibiting cyclooxygenase (COX) and prostaglandin synthesis.
 
-Exostosis (abnormal bony outgrowth, often at joint margins) shares a musculoskeletal/periarticular tissue context with the drug's traditional use in joint and muscle pain relief. Mechanistically, topical salicylates are known to penetrate periarticular tissue (see literature identified under the rheumatoid arthritis candidate, rank 8, showing radiolabeled topical salicylate reaching intra-articular tissue in both animal and human knee joints). This suggests plausible local tissue penetration relevant to bony/joint pathology, which may be the basis for the TxGNN association — however, this remains a mechanistic hypothesis rather than a validated therapeutic rationale, since exostosis is a structural bone lesion rather than an inflammatory or pain condition that salicylates are known to directly treat.
+That mechanism can plausibly ease pain and inflammation around joints and soft tissue. Exostosis, however, is a structural bony outgrowth. An anti-inflammatory or analgesic agent would not be expected to change it, so any benefit would at best be symptomatic.
 
-Several other TxGNN-predicted indications for this drug (tendinitis, fibromyalgia, rheumatoid arthritis, gout) are more consistent with the drug's known pharmacology as a topical anti-inflammatory/analgesic, and may warrant separate evaluation as they align more directly with established use-patterns.
+The high TxGNN score therefore likely reflects knowledge-graph proximity to musculoskeletal and bone-related terms. It is not evidence of a real therapeutic link. The related prediction "exostoses, multiple" is a genetic disorder (EXT1/EXT2, heparan sulfate synthesis) that the salicylate mechanism does not address.
 
 ---
 
@@ -71,13 +73,25 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
-*(Note: a related candidate indication for this drug — rheumatoid arthritis, rank 8 — does have one supporting publication, PMID [6977559](https://pubmed.ncbi.nlm.nih.gov/6977559/), 1982, demonstrating intra-articular penetration of topical triethanolamine salicylate. This is not directly evidence for exostosis but supports the drug's general periarticular tissue penetration mechanism.)*
+---
+
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| 505G(a)(3) | MOBISYL | Cream | BF Ascher and Co Inc |
+| M017 | Arthritis Relief | Cream | Geiss, Destin & Dunn, Inc |
+| M017 | Tommie Copper Pain Relief | Cream | Tommie Copper, Inc. |
+| M017 | Jointiva | Cream | Rising Pharma Holdings, Inc. |
+| M017 | Aspercreme Pain Relieving | Cream | Chattem, Inc. |
+
+Of the 20 licenses in total, only five are listed here. All are topical products, and a spray form also exists. Approved indication text is not recorded for any of them.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No drug interactions were found in the queried data.
 
 ---
 
@@ -86,13 +100,20 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (exostosis) is supported only by the TxGNN model score, with zero clinical trials and zero literature evidence (Evidence Level L5). The drug is not currently marketed, and a blocking data gap exists for TFDA labeling (warnings/contraindications), which prevents even a preliminary safety assessment.
+The exostosis prediction rests on the model score alone (L5), with no trials or literature. The salicylate mechanism is not expected to affect a structural bone lesion. The drug is already widely marketed as a topical pain product, so the question is whether the new indication is worth pursuing, not whether the drug can be supplied.
 
 **To proceed, the following is needed:**
-- TFDA (or equivalent regulatory) label data — warnings, contraindications (currently a blocking data gap)
-- Confirmed mechanism of action (MOA) data from DrugBank or primary literature
-- Targeted literature/trial search specific to exostosis and topical salicylate use
-- Consider re-evaluating lower-ranked but better-evidenced candidates (e.g., rheumatoid arthritis, rank 8) which already have supporting mechanistic literature
+- Package insert warnings and contraindications. This is currently a blocking gap for safety screening.
+- Mechanism of action data (for example from DrugBank).
+- A targeted literature search on topical salicylates in exostosis, including pain related to osteochondroma.
+- Confirmation of the approved indication text for each US product, since it is currently blank.
+- Route compatibility assessment, since topical delivery to bone lesions is unverified.
+
+**Other predictions worth a closer look:** Several other predicted indications have a more plausible rationale than exostosis.
+- **Tendinitis** (99.70%) and **fibromyalgia** (99.59%) are marked "Research Question". The tendinitis rationale is plausible but class-level only. The fibromyalgia link is weak because NSAID-type agents generally show limited benefit there.
+- **Rheumatoid arthritis** (99.25%) is the only prediction with any literature, at L4. It is a single 1982 tissue absorption study (PMID 6977559) showing topical triethanolamine salicylate penetrates knee joint tissue. This is indirect pharmacokinetic support, not efficacy evidence.
+
+*These results are for research reference only and do not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -33,61 +33,64 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Brodalumab is a fully human monoclonal antibody that blocks the IL-17 receptor A (IL-17RA), originally developed for moderate-to-severe plaque psoriasis in markets including the United States and Japan.
-The TxGNN model ranks **strongyloidiasis** as its top repurposing prediction with a score of 99.84%; however, **mechanistic analysis strongly suggests this is a false positive** — IL-17A signaling is a critical host defense against *Strongyloides stercoralis*, and blocking IL-17RA is expected to worsen rather than treat this infection.
-Currently, **0 clinical trials** and **0 publications** specifically support brodalumab in strongyloidiasis.
+Brodalumab (Siliq) is an injectable IL-17 receptor A blocker. The Evidence Pack does not include its label indication text, so the original use here is taken from general knowledge: moderate-to-severe plaque psoriasis.
+The TxGNN model predicts it may be effective for **strongyloidiasis**, but there are **0 clinical trials** and **0 publications** supporting this direction.
+The prediction is most likely a knowledge-graph artifact, and the drug is more likely a safety concern than a treatment for this infection.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Moderate-to-severe plaque psoriasis (US/Japan approved; not registered in Taiwan) |
+|------|------|
+| Original Indication | Not listed in the pack's license data; plaque psoriasis per general knowledge |
 | Predicted New Indication | Strongyloidiasis |
 | TxGNN Prediction Score | 99.84% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Taiwan Licenses | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 (BLA761032) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the structured dataset. Based on known information, brodalumab is a fully human IgG2 monoclonal antibody targeting **IL-17 receptor A (IL-17RA)**. Unlike agents that neutralize only IL-17A (e.g., secukinumab, ixekizumab), brodalumab broadly suppresses signaling by all IL-17RA ligands — including IL-17A, IL-17F, IL-17C, IL-17E (IL-25), and the IL-17A/F heterodimer. This broad receptor blockade makes it highly effective in Th17-driven inflammatory diseases such as plaque psoriasis.
+Brodalumab blocks IL-17RA, the shared receptor for the IL-17 cytokine family. That is why it suits immune-mediated inflammatory diseases. The pack's detailed MOA field is empty, so this description comes from the mechanistic assessment in the pack.
 
-⚠️ **Mechanistic Warning — Likely False Positive**: IL-17A is a cornerstone of the host immune response against *Strongyloides stercoralis*. The parasite drives a Th17-biased mucosal response that contributes to its clearance; blocking IL-17RA would be expected to **impair this defense and increase infection risk or severity**, not confer therapeutic benefit. This is a known failure mode of graph-based repurposing models: high TxGNN scores can reflect distant knowledge-graph node connectivity rather than biological plausibility.
+**The prediction is not mechanistically reasonable.** IL-17 signaling contributes to mucosal and antimicrobial defense. Blocking it in a patient with *Strongyloides* infection carries a risk of immunosuppression-related hyperinfection. The high TxGNN score is likely a graph-proximity artifact rather than a therapeutic signal.
 
-Among all top-10 predictions in this dataset, **eye disease (rank 2, score 99.82%)** carries a more mechanistically coherent rationale — IL-17 pathway dysregulation is documented in uveitis and scleritis, and class-related agents (secukinumab, ixekizumab) have preliminary evidence in ocular inflammation. The eye disease prediction should be the primary candidate for further investigation, pending sub-disease classification.
+Other predicted indications look more plausible, though still weak. The pack lists "eye disease" (L4, research question only) and several immune-mediated optic nerve conditions (optic neuritis and related entities), where a Th17/IL-17 role is biologically plausible. None of them has clinical data for brodalumab.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for brodalumab in strongyloidiasis.
+Currently no related clinical trials registered for strongyloidiasis.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available for brodalumab in strongyloidiasis.
+Currently no related literature available for strongyloidiasis.
 
 ---
 
-## Taiwan Market Information
+## US Market Information
 
-Brodalumab has **no registered licenses with the Taiwan FDA** as of the data cutoff (2026-06-02). It is not commercially available in Taiwan.
-
-> **Context**: Brodalumab is approved in the **United States** (Siliq®, FDA 2017) and **Japan** (Lumicef®) for moderate-to-severe plaque psoriasis in adults who are candidates for systemic therapy or phototherapy. It has not obtained Taiwan TFDA registration. Any Taiwan repurposing pathway would require de novo regulatory filing.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| BLA761032 | Siliq (Bausch Health US LLC) | Injection | — |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Key Warnings (from the mechanistic assessment):**
+  - Immunosuppression in *Strongyloides* infection carries a hyperinfection risk.
+  - Brodalumab carries a boxed warning for suicidal ideation and behavior.
+- **Drug Interactions:** No interactions were found in the queried data.
 
-> **Clinically critical note**: Brodalumab carries a **US FDA Black Box Warning for suicidal ideation and behavior**, observed during clinical trials. It is distributed exclusively through a mandatory **REMS (Risk Evaluation and Mitigation Strategy) program** in the United States. This safety profile is a major constraint for any repurposing program and must be formally characterized before advancing into any new indication. Structured safety data (TFDA warnings, contraindications, DDI) was not available in this evidence pack.
+Please refer to the package insert for the full warnings and contraindications.
 
 ---
 
@@ -96,16 +99,13 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked TxGNN prediction (strongyloidiasis, rank 1) is mechanistically contraindicated — IL-17RA blockade impairs the host Th17 response required to control *Strongyloides* infection, making this prediction a likely false positive arising from graph topology rather than biological mechanism. No supporting clinical or literature evidence exists to counter this concern.
+The prediction has no clinical, literature, or mechanistic support, and it conflicts with brodalumab's immunosuppressive effect on antimicrobial defense. The evidence level is L5 (model prediction only), and the safety signal argues against pursuing this indication.
 
-**To proceed with any repurposing direction, the following is needed:**
-
-- **Resolve Blocking Data Gap**: Obtain Taiwan TFDA package insert to document contraindications and Black Box Warnings (currently blocking S1 safety evaluation per DG001)
-- **Confirm MOA profile**: Query DrugBank API for full mechanistic and target data (DG002)
-- **Deprioritize strongyloidiasis (rank 1)**: Treat as false positive; do not advance without a credible mechanistic rebuttal
-- **Advance eye disease (rank 2) as the primary candidate**: Sub-classify the indication (uveitis, scleritis, anterior vs. posterior) and assess compatibility with existing brodalumab safety data and REMS constraints
-- **Conduct immune-safety screen across all top predictions**: Ranks 5–8 involve optic nerve / demyelinating disease — IL-17 pathway blockade has been associated with paradoxical worsening in MS and MOG-IgG conditions; safety review is required before any neurological indication is advanced
-- **Evaluate Taiwan regulatory pathway**: Brodalumab has no Taiwan registration; a new drug application (NDA) or orphan drug pathway assessment is prerequisite to any local repurposing trial
+**To proceed, the following is needed:**
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Confirmed label indication text and MOA data
+- Any preclinical or clinical rationale for IL-17RA blockade in strongyloidiasis, which is currently absent
+- If the team wants to pursue this drug, redirect effort to a specific immune-mediated ocular or optic indication rather than this prediction
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

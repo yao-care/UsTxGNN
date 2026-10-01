@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Elosulfase Alfa
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 647
-evidence_level: L3
+evidence_level: L5
 indication_count: 9
 ---
 
 # Elosulfase Alfa
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **9** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L3** | Predicted Indications: **9**
 
 </div>
 
-# Elosulfase Alfa: From Morquio A Syndrome (MPS IVA) to Lysosomal Storage Disease with Skeletal Involvement
+# Elosulfase Alfa: From Morquio A Syndrome to Scheie Syndrome
 
 ## One-Sentence Summary
 
-> Elosulfase alfa (DrugBank DB09051) is a recombinant enzyme replacement therapy already known in the literature as the approved treatment for Morquio A syndrome (Mucopolysaccharidosis IVA, MPS IVA).
-> Among 9 TxGNN-predicted indications reviewed, only **"lysosomal storage disease with skeletal involvement"** (TxGNN rank 2, score **99.59%**) maps mechanistically onto this known use, supported by **6 publications** (no registered clinical trials found under this exact disease label).
-> The model's top-ranked candidate, Scheie syndrome, and five other high-scoring candidates (Hurler syndrome, Sanfilippo syndrome, and four ultra-rare congenital syndromes) were reviewed and found to lack any credible mechanistic or evidentiary link — most involve enzyme targets unrelated to GALNS, and several literature/trial hits are disease-label mismatches rather than genuine evidence.
+Elosulfase alfa (VIMIZIM) is an enzyme replacement therapy, recombinant GALNS, used for Morquio A syndrome (MPS IVA).
+The TxGNN model predicts it may be effective for **Scheie syndrome** (attenuated MPS I), but there are **0 clinical trials** and only **2 general MPS cohort publications**, and none of the evidence tests the drug in this disease.
+The high score most likely reflects the two diseases' shared MPS class in the knowledge graph rather than a real drug-disease link.
 
 ---
 
@@ -43,23 +43,23 @@ Evidence Level: **L3** | Predicted Indications: **9**
 
 | Item | Content |
 |------|------|
-| Original Indication | Morquio A Syndrome (MPS IVA) — per literature, not present in local regulatory license data |
-| Predicted New Indication | Lysosomal storage disease with skeletal involvement (clinically corresponds to MPS IVA/Morquio A) |
-| TxGNN Prediction Score | 99.59% |
-| Evidence Level | L3 |
-| US Market Status | Not marketed (Not Marketed) |
-| Number of NDAs | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Original Indication | Morquio A syndrome (MPS IVA); the US license text is blank in the source data, so this is taken from the literature and mechanism notes |
+| Predicted New Indication | Scheie syndrome |
+| TxGNN Prediction Score | 99.90% (model rank 3363) |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 (BLA125460) |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Structured MOA data is not available in the regulatory data source (Data Gap DG002). However, based on the literature gathered for this evaluation, elosulfase alfa is a recombinant human N-acetylgalactosamine-6-sulfatase (GALNS) that directly replaces the enzyme deficient in Morquio A syndrome, breaking down the accumulated keratan sulfate and chondroitin-6-sulfate that drive the disease's progressive skeletal dysplasia.
+Detailed mechanism of action data is not available in the source record. Elosulfase alfa is a recombinant N-acetylgalactosamine-6-sulfatase (GALNS). It degrades **keratan sulfate** and **chondroitin-6-sulfate**, which build up in Morquio A syndrome.
 
-The TxGNN-predicted label "lysosomal storage disease with skeletal involvement" is a broader disease-ontology term whose supporting literature is, in substance, entirely about MPS IVA/Morquio A — the drug's already-known approved use. This is therefore best read as a **confirmatory finding** (the model correctly recovering an established indication) rather than a novel repurposing opportunity, which is consistent with `original_indications` being an empty/unpopulated field in this evidence pack rather than a true absence of indication.
+Scheie syndrome is a different disease. It is the attenuated form of MPS I, caused by IDUA (alpha-L-iduronidase) deficiency, and it accumulates **dermatan sulfate and heparan sulfate**. Elosulfase alfa does not act on these substrates, so **there is no substrate overlap** and no direct mechanistic rationale.
 
-Of the other 8 predicted indications in this candidate set, none held up on review: Scheie syndrome, Hurler syndrome, and Sanfilippo syndrome are all caused by deficiencies in enzymes other than GALNS (alpha-L-iduronidase or heparan-sulfate-pathway enzymes), so there is no substrate or mechanistic overlap, and their attached literature/trial hits were found to be generic MPS cohort studies or unrelated Morquio A trial data rather than disease-specific evidence. The remaining four candidates (rare congenital ptosis/ocular-motility/Horner syndromes) are structural developmental disorders with no known link to GAG metabolism, no literature, and no trials — TxGNN score alone (L5, model prediction only).
+The prediction therefore looks like a graph-proximity artifact: both diseases are mucopolysaccharidoses, and the model likely links them through that shared class. No clinical data support the prediction.
 
 ---
 
@@ -73,18 +73,18 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [41088244](https://pubmed.ncbi.nlm.nih.gov/41088244/) | 2025 | Review | Orphanet J Rare Dis | Reviews recent MPS IVA (Morquio A) treatment advances; confirms ERT with elosulfase alfa is currently the only approved treatment, noting its limited effect on bone pathology |
-| [39541578](https://pubmed.ncbi.nlm.nih.gov/39541578/) | 2024 | Review (meta-analysis protocol) | JMIR Res Protocols | Protocol for phenotype-genotype correlation meta-analysis in Morquio A syndrome |
-| [25496828](https://pubmed.ncbi.nlm.nih.gov/25496828/) | 2015 | Review/Clinical guidance | Mol Genet Metab | Diagnostic evaluation, monitoring, and perioperative management of spinal cord compression in Morquio syndrome |
-| [38831290](https://pubmed.ncbi.nlm.nih.gov/38831290/) | 2024 | Cohort/Case series | BMC Med Genomics | Describes delayed diagnosis in mild/atypical MPS IVA presentations |
-| [36000290](https://pubmed.ncbi.nlm.nih.gov/36000290/) | 2022 | Case report/genetic | Ann Hum Genet | Novel splicing variant identified in the GALNS gene in an MPS IVA patient |
-| [25944767](https://pubmed.ncbi.nlm.nih.gov/25944767/) | 2015 | Diagnostic method study | Clin Chim Acta | Dried-leukocyte filter paper method for detecting Pompe, Gaucher, and Morquio A disease |
+| [35005816](https://pubmed.ncbi.nlm.nih.gov/35005816/) | 2022 | Cohort | Human Mutation | Molecular characterization of 302 Iranian MPS patients (289 families) using NGS panel and Sanger sequencing. A diagnostic and genetic study with no treatment data. |
+| [18584975](https://pubmed.ncbi.nlm.nih.gov/18584975/) | 2009 | Cohort | Pathologie-Biologie | Clinical features and consanguinity in MPS I and MPS IVA patients in Tunisia. Descriptive only, with no evaluation of elosulfase alfa. |
+
+Both papers are general MPS epidemiology or genetics studies. Neither tests elosulfase alfa in Scheie syndrome.
 
 ---
 
 ## US Market Information
 
-Elosulfase alfa is not currently marketed in this jurisdiction (market status: Not marketed, 0 licenses on file). No authorization records are available to summarize.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| BLA125460 | VIMIZIM | Injection, solution, concentrate (injectable) | BioMarin Pharmaceutical Inc. |
 
 ---
 
@@ -96,16 +96,17 @@ Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The TxGNN-predicted indication "lysosomal storage disease with skeletal involvement" is mechanistically direct and substantively corresponds to elosulfase alfa's known role as ERT for Morquio A syndrome/MPS IVA, but the evidence available here is limited to observational and mechanistic literature (L3) with no clinical trials retrieved under this exact disease label and no local regulatory or safety data. All other candidates in this evidence pack (Scheie, Hurler, Sanfilippo syndromes, and four rare congenital syndromes) failed mechanistic review and are recommended **Hold**.
+Elosulfase alfa cleaves different substrates (keratan sulfate and chondroitin-6-sulfate) from those that accumulate in Scheie syndrome (dermatan and heparan sulfate). There are no trials and no supporting literature, so this is an L5 model-only prediction with a likely graph artifact behind the score.
 
 **To proceed, the following is needed:**
-- Confirm regulatory/label status for MPS IVA specifically (source: official prescribing information/TFDA equivalent), since `original_indications` is currently empty in this evidence pack
-- Formal MOA field data from DrugBank (currently Data Gap DG002)
-- TFDA warnings/contraindications (currently Blocking Data Gap DG001) before any safety assessment (S1) can proceed
-- If pursuing skeletal-involvement LSDs beyond MPS IVA as a genuine new indication, disease-specific clinical trial search (current searches returned 0 trials)
+- Preclinical evidence, such as in vitro or animal data, that GALNS can affect dermatan or heparan sulfate turnover. Absent that, the mechanism argues against pursuing this indication.
+- Package insert safety data (warnings and contraindications), which are currently missing.
+- Detailed mechanism of action data from DrugBank.
+
+**Note on other predictions:** The rank 2 prediction, "lysosomal storage disease with skeletal involvement," includes Morquio A syndrome. That is elosulfase alfa's own approved use, so it is on-label rather than repurposing. Evidence there supports Morquio A only and should not be extended to other skeletal lysosomal storage diseases without disease-specific data.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

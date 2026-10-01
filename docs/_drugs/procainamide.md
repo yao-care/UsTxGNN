@@ -29,77 +29,70 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Procainamide: From Cardiac Arrhythmia to Tourette Syndrome
+# Procainamide: From Antiarrhythmic Use to Tourette Syndrome
 
 ## One-Sentence Summary
 
-> Procainamide is classically known as a Class Ia antiarrhythmic (sodium channel blocker) used for cardiac arrhythmias, though the evidence pack itself contains no structured record of its original approved indication.
-> The TxGNN model's top prediction is **Tourette syndrome**, but this is supported by **0 clinical trials** and **0 publications** — the signal comes purely from the model score, with no mechanistic, clinical, or literature evidence behind it.
-
----
+Procainamide is a class IA sodium channel blocker antiarrhythmic, marketed in the US as an injectable.
+The TxGNN model predicts it may be effective for **Tourette syndrome**, but **0 clinical trials** and **0 publications** support this direction.
+This is a model-only prediction with no mechanistic or clinical backing found.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available from evidence pack (no license records; drug is generally known as a Class Ia antiarrhythmic) |
+| Original Indication | Cardiac arrhythmia (class IA antiarrhythmic; the license records contain no indication text) |
 | Predicted New Indication | Tourette syndrome |
 | TxGNN Prediction Score | 99.46% |
 | Evidence Level | L5 |
-| US Market Status | Not marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 16 (the listed authorizations are generic ANDAs) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action (MOA) data for procainamide is not available in this evidence pack (flagged as a High-severity data gap). Based on general pharmacological knowledge, procainamide is a Class Ia antiarrhythmic that acts via cardiac sodium channel blockade, and is not associated with any known central nervous system or neuropsychiatric mechanism.
+Currently, detailed mechanism of action data is not available. Based on known information, procainamide is a class IA sodium channel blocker, and its efficacy in cardiac arrhythmia is established.
 
-For the top-ranked prediction, Tourette syndrome, the model's own repurposing rationale is explicit and cautionary: *"no known mechanistic link — procainamide is a sodium channel blocker with no relationship to the dopamine/GABA-related pathology of Tourette syndrome; this is purely a model prediction score with no clinical or literature support."* No clinical trials or published literature currently support this indication.
-
-Given this, the prediction should be treated as an unvalidated model artifact rather than a scientifically grounded repurposing hypothesis.
-
----
+A mechanistic link to Tourette syndrome is not apparent. The disorder is associated with dopaminergic and cortico-striatal circuitry, and procainamide has no established action on these pathways. The high score (rank 12,644 in the model's ranking) most likely reflects patterns in the knowledge graph rather than a pharmacological rationale. Without trials, literature, or a plausible mechanism, this prediction should be treated as a hypothesis only.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-No marketing authorizations are on record for procainamide in this evidence pack (`total_licenses: 0`); market status is listed as **Not marketed**.
+The license records contain no approved-indication text. The list below shows the main authorizations, with duplicate entries removed.
 
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA206332 | Procainamide Hydrochloride | Injection | Nexus Pharmaceuticals LLC |
+| ANDA218674 | Procainamide Hydrochloride | Injection, solution | Caplin Steriles Limited |
+| ANDA218135 | Procainamide Hydrochloride | Injection, solution | Sagent Pharmaceuticals |
+| ANDA218135 | Procainamide Hydrochloride | Injection, solution | Medical Purchasing Solutions, LLC. |
+
+All marketed forms are injectable. No oral or other route is listed.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (Tourette syndrome) has a high TxGNN similarity score but zero supporting clinical trials, zero publications, and an explicitly stated lack of mechanistic plausibility — this is Evidence Level L5 (model prediction only). The drug is also not currently marketed and lacks basic MOA and safety-label data, both flagged as blocking/high-severity gaps.
-
-**Additional context:** the other high-ranked candidates in this evidence pack do not strengthen the case — literature for *hyperthyroidism* and *Prinzmetal angina* describes procainamide being used to manage arrhythmic complications in those conditions rather than treating the underlying disease, and evidence for *rheumatoid arthritis* points in the opposite direction (procainamide is a well-documented cause of drug-induced lupus/autoantibody formation, a safety signal rather than a therapeutic one).
+The prediction is model-only (L5). There are no registered trials or publications for Tourette syndrome, and no plausible link between sodium channel blockade and the underlying neurobiology. The drug is also available only as an injection, which is a poor fit for a chronic neurological condition.
 
 **To proceed, the following is needed:**
-- Procainamide MOA data (DrugBank API query)
-- TFDA/FDA label warnings, contraindications, and DDI data (currently all [Data Gap])
-- A dedicated mechanistic rationale connecting sodium-channel blockade to Tourette syndrome pathophysiology, ideally from preclinical or case-level sources
-- Reassessment of lower-ranked candidates only if independent mechanistic evidence emerges — current top candidates do not warrant further investment at this time
+- Package insert warnings and contraindications, which are needed for any safety screening
+- Detailed mechanism of action data (MOA)
+- A testable mechanistic hypothesis and supporting preclinical evidence
+- A route-compatibility assessment, since only injectable products are marketed
+- Note: other predicted indications (for example, thyrotoxicosis-associated tachyarrhythmia) have indirect literature tied to procainamide's antiarrhythmic role, so they may be better candidates to prioritize for further review
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

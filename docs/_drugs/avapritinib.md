@@ -29,94 +29,68 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-Using `txgnn-pipeline` skill noted — it confirms this is a TxGNN repurposing pipeline report task. Now generating the report from the Evidence Pack.
-
----
-
-# Avapritinib: From GIST / Systemic Mastocytosis to Axial Spondylometaphyseal Dysplasia
+# Avapritinib: From KIT/PDGFRA Inhibition to Axial Spondylometaphyseal Dysplasia
 
 ## One-Sentence Summary
 
-Avapritinib (Ayvakit) is a selective KIT and PDGFRA kinase inhibitor, approved in the United States for gastrointestinal stromal tumors (GIST) harboring PDGFRA D842V mutations and for advanced systemic mastocytosis.
-The TxGNN model predicts it may be effective for **Axial Spondylometaphyseal Dysplasia** — a rare skeletal developmental disorder caused by TRPV4 gene mutations —
-with **0 clinical trials** and **0 publications** currently supporting this direction.
-
----
+Avapritinib is an oral KIT/PDGFRA kinase inhibitor marketed in the US as Ayvakit. The approved indication text is not included in the supplied data.
+The TxGNN model predicts it may be effective for **axial spondylometaphyseal dysplasia**, a rare skeletal dysplasia.
+There are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not registered in Taiwan; globally known for GIST (PDGFRA D842V mutation) and advanced systemic mastocytosis |
-| Predicted New Indication | Axial Spondylometaphyseal Dysplasia |
+|------|------|
+| Original Indication | Not listed in the supplied data |
+| Predicted New Indication | Axial spondylometaphyseal dysplasia |
 | TxGNN Prediction Score | 99.92% |
 | Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not marketed |
-| Number of Licenses | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 5 license records (all under NDA212608) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available in this Evidence Pack. Based on known information, avapritinib is a highly selective type I kinase inhibitor targeting KIT and PDGFRA receptor tyrosine kinases. Its approved oncology indications — GIST with activating PDGFRA D842V mutations and advanced systemic mastocytosis — are both diseases driven by constitutive overactivation of these same kinases.
+Currently, detailed mechanism of action data is not available. Based on known information, avapritinib is a KIT/PDGFRA kinase inhibitor. Its approved indication text was not supplied, so the link between its original use and the predicted one cannot be assessed.
 
-Axial spondylometaphyseal dysplasia, by contrast, is a rare congenital skeletal dysplasia caused by loss-of-function mutations in the *TRPV4* gene, which encodes a calcium-permeable ion channel critical for cartilage and bone development. There is no established direct connection between the KIT/PDGFRA signaling axis and TRPV4-mediated skeletal pathology. The TxGNN model may have detected an indirect link through shared bone remodeling nodes in the knowledge graph — such as downstream osteoblast/osteoclast regulatory pathways — but this is highly speculative.
+**No identifiable mechanistic link.** Axial spondylometaphyseal dysplasia is a rare skeletal dysplasia, and KIT/PDGFRA inhibition has no known bearing on its pathogenesis. The 0.999 score is a model output only. It is not supported by biology, trials or literature.
 
-In summary, while TxGNN's score is high (99.92%), the biological rationale for applying a KIT/PDGFRA inhibitor to a TRPV4-driven skeletal dysplasia is currently unsupported. This prediction is best interpreted as a knowledge-graph pattern capture rather than a clinically actionable hypothesis, and requires substantial mechanistic validation before further pursuit.
-
----
+**Pattern across the top 10 predictions.** Seven of the ten predicted diseases are ALS or related motor neuron disorders. These include ALS, its genetic-susceptibility and type 22 labels, late-adult lower motor neuron syndrome, monomelic amyotrophy and Mills syndrome. The rest are ultra-rare developmental or congenital syndromes, and none has a documented KIT/PDGFRA rationale. The only weak, indirect hypothesis is for ALS, where another tyrosine kinase inhibitor, masitinib, has been studied through KIT/CSF1R-mediated mast cell and microglia modulation. It is not established that avapritinib shares this effect or reaches the CNS at relevant exposure. The multiple ALS-related entries are likely one signal repeated, not independent evidence.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## US Market Information
 
-## Taiwan Market Information
+All five records are identical, so they are shown once.
 
-No licensed products registered in the Taiwan regulatory database. Avapritinib (Ayvakit) holds FDA approval in the United States but has not been registered in Taiwan as of the data cutoff (2026-05-01).
-
----
-
-## Cytotoxicity
-
-Avapritinib is a targeted antineoplastic agent used in oncology (KIT/PDGFRA-driven malignancies).
-
-| Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted therapy — selective KIT / PDGFRA kinase inhibitor (Type I) |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Follow institutional cytotoxic/oral targeted-therapy handling regulations |
-
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA212608 | Ayvakit | Tablet, film coated (oral) | Blueprint Medicines Corporation |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **CNS risks flagged in the prediction rationale**: labeled intracranial hemorrhage and cognitive effects. These are especially relevant because the predicted indications are neurological or developmental.
 
----
+The package insert warnings and contraindications were not supplied. Please refer to the package insert for full safety information. No drug interaction records were found.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-There is zero clinical or preclinical evidence linking avapritinib to axial spondylometaphyseal dysplasia, and the mechanistic bridge between KIT/PDGFRA inhibition and TRPV4-driven skeletal dysplasia has not been established. The high TxGNN score likely reflects indirect knowledge-graph connectivity rather than true biological plausibility.
+The prediction is L5 (model score only), with no trials, no literature and no identifiable mechanistic link to a KIT/PDGFRA inhibitor. The labeled CNS risks add to the concern for neurological targets.
 
 **To proceed, the following is needed:**
-- Retrieve MOA data from DrugBank (DG002) to complete a proper mechanistic rationale assessment
-- Retrieve Taiwan TFDA package insert (DG001) to evaluate safety warnings, contraindications, and dose-limiting toxicities
-- Commission a focused literature review or in silico pathway analysis specifically examining whether KIT/PDGFRA or downstream MAPK/PI3K pathways intersect with TRPV4 bone dysplasia biology
-- Consult a rare skeletal disease specialist to assess whether any indirect pharmacological rationale exists before advancing to any experimental stage
+- The FDA package insert (warnings and contraindications). This blocks any safety screening.
+- Mechanism of action data, to test whether any biological link exists.
+- The approved indication text, to establish the original-to-new indication relationship.
+- Any preclinical or clinical evidence for axial spondylometaphyseal dysplasia or, secondarily, for ALS. Without it, this candidate should not advance.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,61 +29,86 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tramadol: From Opioid Analgesic to Acromesomelic Dysplasia, Hunter-Thompson Type
+# Tramadol: From Pain Management to Acromesomelic Dysplasia, Hunter-Thompson Type
 
 ## One-Sentence Summary
 
-Tramadol is a centrally-acting opioid analgesic (μ-opioid receptor agonist plus norepinephrine/serotonin reuptake inhibitor) used broadly for moderate to moderately severe pain; no Taiwan license or original-indication text is on record in this evidence pack.
-The TxGNN model's top-ranked prediction is **Acromesomelic Dysplasia, Hunter-Thompson Type**, a rare GDF5-related skeletal disorder,
-but this ranking is supported by **0 clinical trials** and **0 publications**, and the evidence pack itself flags the mechanistic link as biologically implausible.
+Tramadol is an opioid analgesic (mu-opioid agonist with serotonin and norepinephrine reuptake inhibition) that is marketed in the US in several oral forms.
+The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunter-Thompson type**, a rare genetic skeletal disorder.
+This prediction has **0 clinical trials** and **0 publications** behind it, so it is a graph-based signal only.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no TFDA license record; tramadol is generally used as an opioid analgesic for moderate–severe pain) |
-| Predicted New Indication | Acromesomelic Dysplasia, Hunter-Thompson Type |
+| Original Indication | Pain (analgesic use; approved-indication text is not included in the US license records) |
+| Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for tramadol was not available in this evidence pack (flagged as a High-severity data gap). Based on generally established pharmacology, tramadol is a weak μ-opioid receptor agonist combined with inhibition of norepinephrine and serotonin reuptake, and is used clinically for pain management.
+Detailed mechanism-of-action data is not available in the source record. Based on known pharmacology, tramadol acts as a mu-opioid receptor agonist and also inhibits serotonin and norepinephrine reuptake. Its established role is symptomatic pain relief.
 
-Acromesomelic Dysplasia, Hunter-Thompson Type, however, is a rare monogenic skeletal dysplasia caused by GDF5 mutations, with a pathology rooted in cartilage/bone development rather than pain signaling or inflammation. The evidence pack's own rationale states there is **no disease-modifying mechanistic relationship** between tramadol's analgesic pathway and this disorder, and attributes the high TxGNN score to embedding-space clustering of skeletal/joint-related diseases rather than genuine pharmacological plausibility.
+Acromesomelic dysplasia, Hunter-Thompson type, is a genetic skeletal dysplasia linked to CDMP1/GDF5. Tramadol does not act on the pathways involved in this condition, and no disease-modifying link is known. The very high TxGNN score (99.99%) reflects a pattern in the knowledge graph, not a demonstrated biological or clinical connection.
 
-Of the ten predictions reviewed, only rank 7 (**juvenile idiopathic arthritis**) has any supporting literature, and even that is indirect (name co-occurrence rather than tramadol-specific studies). The remaining nine, including the top-ranked prediction, are unsupported by any clinical trial or publication evidence and are explicitly characterized as likely KG noise.
+The most that could be argued is adjunctive symptomatic analgesia. That is not a repurposing signal, and no retrieved evidence supports it.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 Currently no related literature available.
 
+---
+
 ## US Market Information
 
-No approved license records are available — tramadol is currently **not marketed** in Taiwan per this evidence pack (0 licenses on file).
+Approved-indication text is not included in the license records. Five of the 20 authorizations are shown below.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA022370 | ConZip | Capsule, extended release | Vertical Pharmaceuticals, LLC |
+| ANDA200503 | Tramadol Hydrochloride | Tablet, extended release | Lupin Pharmaceuticals, Inc. |
+| ANDA208708 | Tramadol Hydrochloride | Tablet, coated | Asclemed USA, Inc. |
+| ANDA208708 | Tramadol Hydrochloride | Tablet, coated | Advagen Pharma Limited |
+| NDA022370 | Tramadol Hydrochloride | Capsule | Trigen Laboratories, LLC |
+
+All listed forms are oral (capsule, tablet, coated tablet, and extended-release versions).
+
+---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (Acromesomelic Dysplasia, Hunter-Thompson Type, score 99.99%) has zero clinical trial or literature support and is explicitly assessed in the evidence rationale as lacking pharmacological plausibility — the evidence level is L5 (model prediction only), which does not meet the bar for further clinical evaluation.
+The prediction rests on a model score alone, with no clinical trials, no relevant literature, and no plausible mechanism. The other nine top predictions (mostly skeletal dysplasias and juvenile or rheumatoid arthritis conditions) are also L5 and on Hold. The only papers retrieved for any of them, two for juvenile idiopathic arthritis, do not study tramadol.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (DG001, Blocking) — required before any S1 safety screening
-- Tramadol mechanism-of-action data from DrugBank (DG002, High)
-- If pursuing a repurposing candidate from this drug, consider redirecting attention to rank 7 (juvenile idiopathic arthritis), which has indirect literature support and a "Research Question" designation, and would require tramadol-specific pediatric pain studies to substantiate
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism-of-action data from DrugBank
+- A credible biological rationale linking tramadol to the target disease, or direct preclinical or clinical evidence
+- Approved-indication text for the US licenses, to confirm the original indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

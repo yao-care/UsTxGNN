@@ -33,9 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 ## One-Sentence Summary
 
-> Quinapril is an ACE inhibitor whose established pharmacological class is used to control systemic blood pressure by suppressing the renin-angiotensin-aldosterone system (RAAS).
-> The TxGNN model predicts it may be effective for **Malignant Renovascular Hypertension**,
-> but currently **0 clinical trials** and **0 publications** support this specific direction — the prediction is model-generated only, and the underlying mechanism rationale itself flags a known safety concern rather than a clear therapeutic opportunity.
+Quinapril is an ACE inhibitor marketed in the US for hypertension. The TxGNN model predicts it may be effective for **malignant renovascular hypertension**, but there are currently **0 clinical trials** and **0 publications** supporting this specific pair. The prediction rests on the model score and mechanistic plausibility alone.
 
 ---
 
@@ -43,23 +41,23 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension (ACE inhibitor drug class); no locally approved indication text on file — drug is currently unmarketed in this jurisdiction |
-| Predicted New Indication | Malignant Renovascular Hypertension |
-| TxGNN Prediction Score | 99.86% (rank 4328) |
-| Evidence Level | L5 (model prediction only, no clinical trials or literature) |
-| Market Status | ✗ Not Marketed |
-| Number of Licenses | 0 |
-| Recommended Decision | **Hold** |
+| Original Indication | Hypertension (the US license records supplied no indication text) |
+| Predicted New Indication | Malignant renovascular hypertension |
+| TxGNN Prediction Score | 99.86% |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (all generic ANDA authorizations) |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for quinapril is not present in this evidence pack (Data Gap DG002, High severity). Based on the pharmacological class information included in the repurposing rationale, quinapril is an ACE inhibitor that lowers systemic blood pressure by suppressing the RAAS pathway.
+Quinapril is an ACE inhibitor. Detailed mechanism-of-action data was not supplied, but the class effect is well known: it blocks the conversion of angiotensin I to angiotensin II, lowering vasoconstriction and aldosterone-driven fluid retention.
 
-There is a theoretical mechanistic link between this mode of action and malignant renovascular hypertension, since the disease's pathophysiology (renal artery stenosis) itself drives pathological RAAS overactivation. On the surface, this makes ACE inhibition seem mechanistically relevant.
+Renovascular hypertension is driven largely by activation of the renin-angiotensin system. This makes ACE inhibition biologically plausible, and it is close to quinapril's existing use in hypertension. The very high TxGNN score (99.86%) is probably partly explained by that existing hypertension link, so it should not be read as independent confirmation.
 
-However, this same evidence pack explicitly notes a critical caveat: in patients with bilateral renal artery stenosis or stenosis of a functionally solitary kidney, ACE inhibitors sharply reduce glomerular filtration pressure and are considered a **relative contraindication** rather than a treatment option. Bilateral disease must be ruled out before cautious use is even considered. In other words, this "predicted indication" largely reflects a well-known drug-disease safety interaction rather than a novel therapeutic opportunity — the mechanistic rationale argues for caution, not efficacy.
+Two cautions apply. First, ACE inhibitors can cause acute renal function decline in bilateral renal artery stenosis or stenosis of a solitary kidney, which is exactly the setting of renovascular hypertension. Second, "malignant" hypertension is a hypertensive emergency, and an oral ACE inhibitor is not an established acute therapy for it.
 
 ---
 
@@ -77,13 +75,23 @@ Currently no related literature available.
 
 ## US Market Information
 
-No marketing authorization records available. Quinapril is currently unmarketed in this jurisdiction (0 licenses on file).
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA078457 | Quinapril | Tablet | Cipla USA Inc. |
+| ANDA077690 | Quinapril | Tablet | Lupin Pharmaceuticals, Inc. |
+| ANDA205823 | Quinapril | Tablet | Solco Healthcare US, LLC |
+| ANDA077690 | Quinapril | Tablet | BluePoint Laboratories |
+
+Approved indication text was not supplied in the source records. Only oral tablet forms (including film-coated tablets) are listed, and 4 distinct entries are shown from the 20 authorizations.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Renal risk (from the prediction rationale):** ACE inhibitors carry a known risk of acute renal function decline in bilateral renal artery stenosis or stenosis of a solitary kidney. Renal function and potassium monitoring would be essential in any follow-up.
+- **Drug Interactions:** No interaction records were found in the queried source.
+
+Please refer to the package insert for full warnings and contraindications.
 
 ---
 
@@ -92,18 +100,21 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-- Evidence Level is L5 — this is a model prediction with zero supporting clinical trials or literature for the top-ranked indication.
-- The mechanistic rationale itself identifies a known safety risk: ACE inhibitors are relatively contraindicated in bilateral renal artery stenosis/functional single-kidney stenosis, which is the core pathology of malignant renovascular hypertension. This suggests the prediction may reflect a risk scenario rather than a genuine repurposing opportunity.
-- Critical safety data (label warnings, contraindications, DDI) are entirely missing (Data Gap DG001, **Blocking**) — the candidate cannot proceed even to an S1 safety pre-screening step.
-- Quinapril currently has 0 marketing licenses in this jurisdiction, so no confirmed regulatory or supply pathway exists locally.
+The prediction is model-based only (L5), with no supporting trials or literature for this disease. The mechanism is plausible, but the renal safety concern in renal artery stenosis is significant. An oral ACE inhibitor is also not an established therapy for malignant hypertension, which is an emergency.
+
+The other top predictions have the same evidence gap:
+- **Malignant hypertensive renal disease:** no trials or literature.
+- **Pulmonary hypertension (two entries):** the 20 retrieved papers are general hypoxia articles that do not address quinapril or ACE inhibitors.
+- **Braddock syndrome:** no clear mechanistic rationale.
 
 **To proceed, the following is needed:**
-- TFDA (or equivalent regulator) label PDF acquisition and parsing to obtain warnings/contraindications (DG001)
-- DrugBank-sourced structured MOA data to support mechanism-linkage analysis (DG002)
-- Renal function/nephrology-specific safety data for populations with renal artery stenosis
-- Independent confirmation of whether "malignant renovascular hypertension" should be treated as a contraindicated population rather than a candidate indication before further evaluation
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Confirmed mechanism-of-action data from DrugBank
+- A targeted literature search on ACE inhibitors in renovascular and malignant hypertension
+- A safety review for patients with renal artery stenosis, including renal function and potassium monitoring
+- Confirmation of the original US-labeled indications
 
-**Note:** Ranks 2–5 of the predicted indications (malignant hypertensive renal disease, pulmonary hypertension owing to lung disease/hypoxia, pulmonary hypertension with unclear multifactorial mechanism, Braddock syndrome) all carry the same L5/Hold status. One (rank 3) is supported only by 20 literature hits that appear to be spurious keyword matches on "hypoxia" unrelated to quinapril or ACE inhibitors, and another (rank 5, Braddock syndrome) has no known biological link to the RAAS pathway. This reinforces that the current prediction set should not move forward without substantial additional evidence.
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

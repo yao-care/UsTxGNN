@@ -33,94 +33,63 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 ## One-Sentence Summary
 
-Darolutamide is a non-steroidal androgen receptor (AR) antagonist approved for prostate cancer treatment in multiple jurisdictions.
-The TxGNN model predicts it may be effective for **Homozygous Familial Hypercholesterolemia (HoFH)**,
-however **no clinical trials or published literature** currently support this direction, and mechanistic analysis reveals a fundamental logical break in the proposed pathway.
-All three top predictions carry a **Hold** recommendation.
-
----
+Darolutamide is a non-steroidal androgen receptor antagonist. The source record does not list an approved indication, but the drug is known clinically as a prostate cancer therapy.
+The TxGNN model predicts it may be effective for **homozygous familial hypercholesterolemia (HoFH)**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting it.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not available from Taiwan regulatory data (not marketed in Taiwan); darolutamide is approved for prostate cancer in other jurisdictions |
-| Predicted New Indication | Homozygous Familial Hypercholesterolemia (HoFH) |
+|------|------|
+| Original Indication | Not recorded in the source data (known clinically as a prostate cancer drug) |
+| Predicted New Indication | Homozygous familial hypercholesterolemia |
 | TxGNN Prediction Score | 99.11% |
 | Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not marketed |
-| Number of Licenses | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from this evidence pack. Based on the mechanistic context provided in the repurposing rationale, darolutamide is an androgen receptor (AR) antagonist — its class mechanism involves blocking AR signaling, which is central to prostate cancer progression.
+Detailed mechanism of action data is not available in the source record. Based on its known pharmacology, darolutamide blocks the androgen receptor.
 
-The theoretical bridge to HoFH relies on a two-step pathway: androgens (particularly DHT) are known to upregulate PCSK9 expression, which in turn suppresses hepatic LDL receptor (LDL-R) density. Blocking AR with darolutamide could theoretically relieve this PCSK9-mediated suppression, increasing LDL-R expression and improving LDL clearance.
+The mechanistic link to HoFH is weak. HoFH is caused by loss-of-function variants in the LDL receptor (LDLR) pathway. Androgen signaling may have indirect effects on lipids, but blocking the androgen receptor would not correct LDL receptor deficiency. The high TxGNN score (0.991) reflects a pattern in the knowledge graph and is not supported by any clinical or literature evidence in this dataset.
 
-**However, this pathway contains a fundamental logical break for HoFH specifically.** HoFH is caused by biallelic loss-of-function mutations in the *LDLR* gene (or variants in *APOB*, *PCSK9*, or *LDLRAP1*). Even if darolutamide successfully upregulated LDL-R transcription via PCSK9 derepression, functional receptors would remain absent due to the underlying genetic defect — lipoprotein clearance cannot be restored. The TxGNN high score (0.991) most likely reflects non-specific knowledge graph node neighborhood similarity (shared metabolic pathway nodes) rather than a genuine therapeutic signal.
-
----
+The next two predictions are also weak:
+- **Multiple endocrine neoplasia (score 99.06%)**: The only trial signal is a terminated, generic precision-oncology study (NCT03878524, Phase 1, 2 participants), so it offers no interpretable evidence.
+- **HIV infectious disease (score 99.04%)**: There is no plausible antiviral mechanism and no supporting studies.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for darolutamide in homozygous familial hypercholesterolemia.
-
----
+Currently no related clinical trials registered for homozygous familial hypercholesterolemia.
 
 ## Literature Evidence
 
-Currently no related literature available for darolutamide in homozygous familial hypercholesterolemia.
+Currently no related literature available.
 
----
+## US Market Information
 
-## Taiwan Market Information
-
-Darolutamide has **no Taiwan FDA authorizations** at the time of this report. The drug is not marketed in Taiwan.
-
-| Item | Status |
-|------|--------|
-| Market Status | Not marketed |
-| Total Licenses | 0 |
-| Available Dosage Forms | — |
-
----
-
-## Cytotoxicity
-
-Darolutamide is an androgen receptor antagonist used in oncology (prostate cancer). It is classified as a targeted anticancer therapy.
-
-| Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted therapy — Non-steroidal androgen receptor antagonist (not conventional cytotoxic) |
-| Myelosuppression Risk | Low (AR antagonists do not directly suppress bone marrow) |
-| Emetogenicity Classification | Low |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Standard oral oncology drug handling; cytotoxic handling precautions not typically required for AR antagonists, but confirm per institutional policy |
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA212099 | NUBEQA (Bayer HealthCare Pharmaceuticals Inc.) | Film-coated tablet (oral) | Not listed in the source data |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No Taiwan FDA label data, no drug interaction records, and no key warnings or contraindications data are available in this evidence pack.
-
----
+Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top TxGNN prediction (HoFH) carries zero supporting clinical or literature evidence (L5), and the proposed mechanistic pathway has a clearly identified logical break — HoFH patients lack functional LDL receptors due to biallelic *LDLR* mutations, rendering the AR → PCSK9 → LDL-R derepression hypothesis therapeutically inert. The remaining two predictions (multiple endocrine neoplasia at L4, HIV infectious disease at L5) are similarly unsupported and, in the case of HIV, mechanistically counterindicated. The high TxGNN scores across all three indications likely reflect graph topology artifacts rather than pharmacological relevance.
+The prediction has no clinical or literature support (L5). Blocking the androgen receptor has no credible way to correct the LDL receptor deficiency that causes HoFH. The high model score alone is not enough to justify further investment.
 
 **To proceed, the following is needed:**
+- Package insert warnings and contraindications, which are required before any safety screening
+- Detailed mechanism of action data from DrugBank
+- Preclinical or mechanistic evidence that androgen receptor antagonism affects LDL metabolism
+- Any registered studies or publications that link darolutamide to lipid disorders
 
-- **Mechanism of action data (MOA)**: Retrieve full DrugBank entry (DB12941) to confirm receptor binding profile, pharmacokinetics, and any off-target activities
-- **Taiwan/FDA label review**: Download and parse the originator package insert (Nubeqa®) for approved indications, warnings, contraindications, and DDI profile
-- **Preclinical data search**: Conduct targeted literature search for any *in vitro* or *in vivo* studies examining darolutamide effects on LDL metabolism, PCSK9 expression, or lipid profiles before escalating to clinical feasibility assessment
-- **Biomarker-stratified hypothesis**: If AR expression has been documented in HoFH-adjacent lipid disorders (e.g., heterozygous FH or polygenic hypercholesterolemia without LDLR null mutation), a narrower biomarker-selected subpopulation hypothesis could be re-evaluated — but this would require new mechanistic studies, not just evidence retrieval
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

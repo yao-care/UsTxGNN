@@ -29,37 +29,34 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Dexpanthenol: From Wound Healing and Skin Repair to Anorectal Stricture
+# Dexpanthenol: From Topical Skin-Care Use to Anorectal Stricture
 
 ## One-Sentence Summary
 
-Dexpanthenol (provitamin B5) is a well-established skin and mucosal healing agent, marketed as Bepanthen® in numerous countries, used for wound care, skin barrier repair, and post-procedure recovery — though it holds no regulatory approval in Taiwan.
-The TxGNN model ranks **Anorectal Stricture** as its top predicted new indication, with a prediction score of 99.72%.
-However, **no clinical trials or published literature** currently support this specific application, and the mechanistic rationale faces a fundamental challenge: anorectal stricture is a structural/fibrotic condition that cannot be reversed through pharmacological means alone.
+Dexpanthenol is a topical skin-care ingredient. The US records list it in eyelash serums and a baby ointment, with no formal approved indication text.
+The TxGNN model predicts it may be effective for **anorectal stricture** (score 99.72%), but **0 clinical trials** and **0 publications** currently support this prediction.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Wound healing, skin barrier repair, mucosal recovery (general use; no regulatory record in Taiwan) |
-| Predicted New Indication | Anorectal Stricture |
+|------|------|
+| Original Indication | Not stated in the license records (products are two eyelash serums and a baby ointment) |
+| Predicted New Indication | Anorectal stricture |
 | TxGNN Prediction Score | 99.72% |
-| Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (0 approved products) |
-| Number of Approved Licenses | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 3 |
 | Recommended Decision | Hold |
 
 ---
 
-## Why Is This Prediction Reasonable?
+## Why is This Prediction Reasonable?
 
-Dexpanthenol is the alcohol form of pantothenic acid (vitamin B5). Once absorbed, it is enzymatically converted to pantothenic acid and incorporated into Coenzyme A (CoA) — a central cofactor in fatty acid synthesis, energy metabolism, and cellular repair. Through this pathway, dexpanthenol supports lipid synthesis in the skin barrier, stimulates keratinocyte and epithelial cell proliferation, suppresses pro-inflammatory cytokines such as IL-1α, and accelerates wound and mucosal healing. The Bepanthen® Rectal formulation (containing approximately 2.75% dexpanthenol) is available in several European markets for anorectal discomfort, providing indirect evidence that the drug is tolerated in this anatomical region.
+Detailed mechanism-of-action data is not available in the source record. Dexpanthenol is converted in the body to pantothenic acid (vitamin B5), a precursor of coenzyme A. It supports epithelial proliferation and mucosal healing, which is why it is used in skin and mucosal care products.
 
-Anorectal stricture, however, is a narrowing of the anal canal caused predominantly by fibrous scarring — typically following anorectal surgery, radiation therapy, or chronic inflammatory disease. Fibrosis involves irreversible collagen deposition and tissue remodeling that dexpanthenol's mucosal-repair mechanism cannot reverse. Standard management is mechanical (graduated dilation) or surgical (anoplasty, flap repair). There is no established pharmacological pathway by which CoA-mediated epithelial healing would address the underlying fibrous architecture.
-
-The TxGNN model likely assigned a high score due to anatomical proximity within the knowledge graph — shared ontological nodes between anorectal conditions where dexpanthenol has recognized activity (mucosal soothing, post-hemorrhoidectomy care) and anorectal stricture. This is a known limitation of graph-based prediction models: anatomical co-location can inflate scores in the absence of mechanistic specificity.
+The link to the predicted indication is weak. Anorectal stricture is a fibrotic, structural narrowing. Topical healing support is not known to reverse it, so the connection is speculative. The high score most likely reflects proximity in the knowledge graph rather than a demonstrated pharmacological effect. No clinical or literature evidence was supplied for this indication.
 
 ---
 
@@ -75,6 +72,16 @@ Currently no related literature available.
 
 ---
 
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| M018 | Eyelash Serum (FlexiGo Inc) | Liquid | Not stated |
+| Not provided | ReOrganic Eyelash Growth Boosting Serum (LAON COMMERCE co ltd) | Liquid | Not stated |
+| Not provided | BABYSONS (Laboratorios Quimica Son's, S.A. de C.V) | Ointment | Not stated |
+
+---
+
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
@@ -86,14 +93,18 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-Anorectal stricture is fundamentally a structural/fibrotic condition requiring mechanical dilation or surgical reconstruction. Dexpanthenol's established mechanism — epithelial repair via CoA-mediated lipid and energy metabolism — has no established pathway to reverse anal canal fibrosis, and the absence of any supporting preclinical, clinical, or literature evidence at this time does not justify advancement.
+The prediction rests on the model score alone, with no trials or publications for anorectal stricture. The plausible mechanism (mucosal healing support) does not address a fibrotic structural condition.
 
 **To proceed, the following is needed:**
-- Preclinical evidence (animal models of anal canal fibrosis or radiation-induced stricture) demonstrating that dexpanthenol reduces collagen deposition or stricture severity
-- Mechanistic data showing anti-fibrotic activity beyond epithelial healing — e.g., CoA pathway influence on TGF-β signaling or myofibroblast activation
-- If clinical interest remains, consider reframing the research question as **post-operative mucosal healing to prevent stricture formation** (rather than reversing established stricture), which is more aligned with the drug's known biology
-- MOA data from DrugBank to formally characterize anti-fibrotic potential
-- Safety profile data (package insert warnings, contraindications) before any clinical research can be initiated
+- A targeted literature and trial search on dexpanthenol for anorectal conditions, including post-operative or radiation-related mucosal injury.
+- Package insert warnings and contraindications, which are needed before any safety screening.
+- Mechanism-of-action data from DrugBank.
+- Route and formulation compatibility. The current products are eyelash serums and a topical ointment, and no route is defined for anorectal use.
+- Other predictions for this drug are better candidates for follow-up:
+  - **Punctate epithelial keratoconjunctivitis** (score 99.34%) has the most coherent mechanism, through corneal epithelial healing. Ophthalmic dexpanthenol for corneal epithelial defects and dry eye is the logical next search.
+  - **Exanthem** (score 99.60%) is the only prediction with registered trials, but they are indirect (post-procedure or dermatitis-type skin reactions). The strongest is a completed Phase 3 randomized trial of Bepanthen cream (NCT01136005, n=160), which addresses a dermatitis-type reaction rather than exanthem.
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

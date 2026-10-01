@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Dronedarone
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 629
-evidence_level: L2
+evidence_level: L5
 indication_count: 10
 ---
 
 # Dronedarone
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,81 +29,117 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Dronedarone: From Atrial Fibrillation/Flutter to Stroke
+# Dronedarone: From Atrial Fibrillation to Stroke Disorder
 
 ## One-Sentence Summary
 
-Dronedarone is a Class III antiarrhythmic used to control heart rhythm in atrial fibrillation/flutter (AF/AFL). The TxGNN model predicts it may also reduce **stroke** risk, and this direction is already supported by **19 clinical trials** and **20 publications** — including both a positive pivotal signal (ATHENA) and a critical negative safety signal (PALLAS) that must bound any use case.
+Dronedarone is a marketed antiarrhythmic drug used to control rhythm in atrial fibrillation (AF).
+The TxGNN model predicts it may help with **stroke disorder**, and the literature suggests this would mean lowering stroke risk within selected AF patients, not treating stroke itself.
+The search returned **19 clinical trials** and **20 publications**. Only a few are dronedarone-specific, and the key Phase 3 trial (PALLAS) showed harm in permanent AF.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Atrial Fibrillation / Atrial Flutter (AF/AFL) — extracted from evidence-pack literature; TFDA license data is unavailable because the drug is not marketed in Taiwan |
-| Predicted New Indication | Stroke Disorder |
+| Original Indication | Atrial fibrillation (the license records list no indication text, so this comes from the evidence pack's repurposing rationale) |
+| Predicted New Indication | Stroke disorder |
 | TxGNN Prediction Score | 99.97% |
-| Evidence Level | L2 |
-| Taiwan Market Status | Not marketed (Not Marketed) |
-| Number of NDAs | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Evidence Level | L2 (per the evidence pack scoring; the evidence is indirect and mixed, see the conclusion) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 (both records carry the same NDA number, NDA022425) |
+| Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed formal MOA data for dronedarone is not available in DrugBank per this evidence pack (data gap DG002). Based on information embedded in the evidence base itself, dronedarone is a multi-ion-channel-blocking Class III antiarrhythmic, structurally related to but non-iodinated compared with amiodarone. It was developed for rhythm/rate control in AF/AFL, and there is mechanistic evidence that it also exerts direct anticoagulant and antiplatelet effects independent of its antiarrhythmic action (PMID 28992468).
+Detailed mechanism-of-action data are not available in the record. Dronedarone is known as a multichannel-blocking antiarrhythmic (a non-iodinated amiodarone analogue) that controls rhythm and rate in AF and atrial flutter.
 
-The link between AF/AFL and stroke is well established: AF is a major driver of cardioembolic stroke, and effective rhythm control that reduces AF burden can lower thromboembolic risk. The pivotal ATHENA trial (summarized in PMID 20730068) showed dronedarone reduced cardiovascular hospitalization/death in paroxysmal or persistent AF, with a post-hoc signal of reduced stroke risk — this is the mechanistic basis for the TxGNN prediction.
+AF is a leading cause of cardioembolic stroke. If a drug lowers AF burden, it could plausibly lower stroke risk.
+- Post-hoc analyses of the ATHENA trial suggested fewer strokes in paroxysmal or persistent AF.
+- A meta-analysis of randomized trials (PMID 22149318) points the same way.
+- EAST-AFNET 4, in which dronedarone was one of the drug options, supports early rhythm control on a composite outcome that includes stroke.
+- A preclinical study (PMID 28992468) reported anticoagulant and antiplatelet effects independent of rhythm control. This is hypothesis-generating only.
 
-Critically, this relationship is not unconditional. The PALLAS trial ([NCT01151137](https://clinicaltrials.gov/study/NCT01151137), PMID 22082198), conducted specifically in **permanent** AF patients, was terminated early because dronedarone *increased* stroke, MI, and cardiovascular death. So the evidence bifurcates by AF subtype: protective in paroxysmal/persistent AF, harmful in permanent AF. Any repurposing pathway must explicitly exclude permanent AF patients.
+The effect depends on the population. PALLAS, a Phase 3 trial in permanent AF with additional risk factors, was terminated. The drug was harmful there, with more stroke, heart failure, and cardiovascular death. The evidence therefore supports "stroke-risk reduction within appropriate AF patients," not a standalone cerebrovascular indication.
+
+---
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT01151137](https://clinicaltrials.gov/study/NCT01151137) | Phase 3 | Terminated | 3,236 | PALLAS: dronedarone 400mg BID in permanent AF with additional risk factors — terminated early due to increased stroke, MI, and CV death; defines the contraindication boundary. |
-| [NCT01288352](https://clinicaltrials.gov/study/NCT01288352) | Phase 4 | Completed | 2,789 | EAST-AFNET4: early structured rhythm-control therapy (including dronedarone) vs usual care reduced AF-related cardiovascular complications, including stroke. |
-| [NCT00911508](https://clinicaltrials.gov/study/NCT00911508) | N/A | Completed | 2,204 | CABANA: catheter ablation vs antiarrhythmic drug therapy (including dronedarone) for AF; indirect comparator evidence. |
-| [NCT01856075](https://clinicaltrials.gov/study/NCT01856075) | N/A | Completed | 1,015 | Real-world observational study comparing dronedarone's effectiveness vs other antiarrhythmics in AF (Germany, Spain, Italy, USA). |
-| [NCT05279833](https://clinicaltrials.gov/study/NCT05279833) | N/A | Completed | 87,810 | Systematic literature review/NMA comparing dronedarone (Multaq) vs sotalol safety, including stroke outcomes, in AF. |
-| [NCT05130268](https://clinicaltrials.gov/study/NCT05130268) | Phase 4 | Completed | 339 | Pragmatic RCT of early dronedarone vs usual care in first-detected AF; supports an early rhythm-control strategy. |
-| [NCT05293080](https://clinicaltrials.gov/study/NCT05293080) | Phase 3 | Not yet recruiting | 1,746 | Tests whether early rhythm-control therapy prevents adverse cardiovascular outcomes in patients with acute ischemic stroke and AF. |
-| [NCT02618577](https://clinicaltrials.gov/study/NCT02618577) | Phase 3 | Terminated | 2,608 | NOAH-AFNET6: oral anticoagulation vs current therapy to prevent stroke/systemic embolism/CV death in atrial high-rate episodes — context trial for AF-stroke prevention strategy. |
-| [NCT01266681](https://clinicaltrials.gov/study/NCT01266681) | N/A | Unknown | 100 | Amiodarone vs dronedarone for maintenance of sinus rhythm post-cardioversion in persistent AF; low certainty (status unknown). |
-| [NCT05939076](https://clinicaltrials.gov/study/NCT05939076) | Phase 3 | Not yet recruiting | 220 | Compares early cryoballoon ablation vs antiarrhythmic drug therapy (including dronedarone) in persistent AF. |
+| [NCT01151137](https://clinicaltrials.gov/study/NCT01151137) | Phase 3 | Terminated | 3236 | PALLAS: placebo-controlled RCT of dronedarone 400 mg BID in permanent AF with risk factors. Stroke was part of the composite outcome. The drug was harmful and the trial was stopped. |
+| [NCT01288352](https://clinicaltrials.gov/study/NCT01288352) | Phase 4 | Completed | 2789 | EAST-AFNET 4: early rhythm control (ablation or antiarrhythmic drugs, including dronedarone) vs usual care. Composite outcome includes stroke. |
+| [NCT05130268](https://clinicaltrials.gov/study/NCT05130268) | Phase 4 | Completed | 339 | Pragmatic RCT of early dronedarone vs usual care in first-detected AF. Small, and stroke is probably not the primary endpoint. |
+| [NCT05293080](https://clinicaltrials.gov/study/NCT05293080) | Phase 3 | Not yet recruiting | 1746 | Early rhythm control for stroke prevention in acute ischemic stroke with AF. Stroke-directed, but not dronedarone-specific. |
+| [NCT01856075](https://clinicaltrials.gov/study/NCT01856075) | N/A (observational) | Completed | 1015 | Real-world comparison of dronedarone vs other AF treatments in Germany, Spain, Italy, and the USA. Subject to confounding. |
+| [NCT07270848](https://clinicaltrials.gov/study/NCT07270848) | Phase 4 | Not yet recruiting | 1898 | Dronedarone for early rhythm control in AF: efficacy, safety, and quality of life. No stated stroke endpoint. |
+| [NCT05279833](https://clinicaltrials.gov/study/NCT05279833) | N/A (SLR/NMA) | Completed | 87810 | Systematic review and network meta-analysis of dronedarone (Multaq) vs sotalol safety and effectiveness in AF. |
+| [NCT04704050](https://clinicaltrials.gov/study/NCT04704050) | Phase 4 | Terminated | 22 | EDORA: dronedarone vs placebo after ablation, looking at atrial fibrosis and AF recurrence. Too small to be informative. |
+| [NCT01266681](https://clinicaltrials.gov/study/NCT01266681) | N/A | Unknown | 100 | Amiodarone vs dronedarone for maintaining sinus rhythm after cardioversion. No stroke endpoint. |
+| [NCT00911508](https://clinicaltrials.gov/study/NCT00911508) | N/A | Completed | 2204 | CABANA: catheter ablation vs drug therapy for AF. Dronedarone is not the specific comparator, so the evidence is indirect. |
+
+---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [22082198](https://pubmed.ncbi.nlm.nih.gov/22082198/) | 2011 | RCT (PALLAS) | New England Journal of Medicine | Dronedarone in high-risk permanent AF increased major vascular events (stroke, MI, CV death); trial terminated early — key negative safety signal. |
-| [40387892](https://pubmed.ncbi.nlm.nih.gov/40387892/) | 2025 | RCT post-hoc (EAST-AFNET4) | Clinical Research in Cardiology | Long-term safety/efficacy of amiodarone and dronedarone for early rhythm control within EAST-AFNET4; reassuring long-term outcome data. |
-| [20730068](https://pubmed.ncbi.nlm.nih.gov/20730068/) | 2010 | Review (approval) | Vascular Health and Risk Management | Reviews dronedarone's FDA approval based on the ATHENA trial (reduced CV hospitalization/death); post-hoc analysis suggested reduced stroke risk, but PALLAS later raised safety concerns in permanent AF. |
-| [28496906](https://pubmed.ncbi.nlm.nih.gov/28496906/) | 2013 | Cohort (safety) | Journal of Atrial Fibrillation | Real-world retrospective cohort comparing risk of stroke, CV events, CHF, and other adverse events between dronedarone, amiodarone, and other antiarrhythmics. |
-| [28992468](https://pubmed.ncbi.nlm.nih.gov/28992468/) | 2017 | Mechanistic | Atherosclerosis | Shows dronedarone exerts direct anticoagulant/antiplatelet effects independent of its antiarrhythmic action — a mechanistic explanation for ATHENA's stroke/TIA reduction. |
-| [37485722](https://pubmed.ncbi.nlm.nih.gov/37485722/) | 2023 | Cohort (veterans) | Circulation: Arrhythmia and Electrophysiology | Retrospective comparison of dronedarone vs sotalol effectiveness/safety in AF patients within the VA healthcare system. |
-| [35293087](https://pubmed.ncbi.nlm.nih.gov/35293087/) | 2022 | Review/subgroup (ATHENA post-hoc) | European Journal of Heart Failure | Dronedarone's cardiovascular risk reduction in AF/AFL patients with concomitant HFpEF/HFmrEF, a population with elevated stroke risk. |
-| [33888353](https://pubmed.ncbi.nlm.nih.gov/33888353/) | 2021 | Cohort (DDI) | Clinical Therapeutics | Real-world evaluation of digitalis intoxication risk with concomitant dronedarone + digoxin use — a relevant drug-interaction safety signal. |
-| [22166900](https://pubmed.ncbi.nlm.nih.gov/22166900/) | 2012 | Review | Lancet | General review of AF management, including stroke risk stratification and evolution of antithrombotic therapy. |
-| [22920480](https://pubmed.ncbi.nlm.nih.gov/22920480/) | 2012 | Review | Current Cardiology Reviews | Reviews stroke prevention concepts and controversies in AF, contextualizing rhythm-control agents such as dronedarone. |
+| [22082198](https://pubmed.ncbi.nlm.nih.gov/22082198/) | 2011 | RCT (PALLAS) | N Engl J Med | Tested whether dronedarone reduces major vascular events in high-risk permanent AF. Harm was seen in this population, so the drug should not be used there. |
+| [22149318](https://pubmed.ncbi.nlm.nih.gov/22149318/) | 2011 | Meta-analysis | Am J Cardiovasc Drugs | Systematic review of randomized trials on stroke incidence with dronedarone in paroxysmal or persistent AF. Built on the ATHENA post-hoc signal of reduced stroke. |
+| [40295782](https://pubmed.ncbi.nlm.nih.gov/40295782/) | 2025 | Post-hoc RCT analysis | Europace | ATHENA re-analyzed with EAST-AFNET 4 criteria. Assessed whether dronedarone improves cardiovascular outcomes in early AF with comorbidities. |
+| [40387892](https://pubmed.ncbi.nlm.nih.gov/40387892/) | 2025 | Post-hoc RCT analysis | Clin Res Cardiol | Long-term safety and efficacy of amiodarone and dronedarone for early rhythm control in EAST-AFNET 4. |
+| [30528621](https://pubmed.ncbi.nlm.nih.gov/30528621/) | 2019 | Cohort | Int J Cardiol | Analysis of myocardial infarction and stroke risk with dronedarone in AF patients in German general practices. |
+| [28496906](https://pubmed.ncbi.nlm.nih.gov/28496906/) | 2013 | Cohort | J Atr Fibrillation | Real-world US cohort (10,455 adults) comparing risk of cardiovascular events, stroke, heart failure, interstitial lung disease, and liver injury for dronedarone vs amiodarone and other antiarrhythmics. |
+| [37485722](https://pubmed.ncbi.nlm.nih.gov/37485722/) | 2023 | Cohort | Circ Arrhythm Electrophysiol | Dronedarone vs sotalol in antiarrhythmic-drug-naive veterans with AF: effectiveness and safety. |
+| [20730068](https://pubmed.ncbi.nlm.nih.gov/20730068/) | 2010 | Review | Vasc Health Risk Manag | FDA approval in 2009 followed ATHENA. A post-hoc analysis suggested lower stroke risk, but safety concerns remain. |
+| [28992468](https://pubmed.ncbi.nlm.nih.gov/28992468/) | 2017 | Mechanistic/experimental | Atherosclerosis | Investigated direct anticoagulant and antiplatelet effects of dronedarone independent of its antiarrhythmic action. |
+| [31898737](https://pubmed.ncbi.nlm.nih.gov/31898737/) | 2020 | Hypothesis paper | Europace | Proposes that amiodarone and dronedarone may prevent stroke by treating atrial myopathy. |
+
+---
+
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA022425 | Multaq (Sanofi-Aventis U.S. LLC) | Tablet, film coated (oral) | Not provided in the license record |
+| NDA022425 | Multaq (Cardinal Health 107, LLC) | Tablet, film coated (oral) | Not provided in the license record |
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+The structured warning, contraindication, and interaction fields are empty. Please refer to the package insert for full safety information. The following signals come from the trial and literature evidence:
 
-*(Note: formal DDI/warning/contraindication fields in this evidence pack are data gaps — TFDA label data has not yet been retrieved, flagged as blocking gap DG001. However, evidence-base rationale text does surface two safety signals worth carrying forward: dronedarone is contraindicated in **permanent AF** per the PALLAS trial, and is contraindicated in **sick sinus syndrome/bradycardia** due to known sinus node effects.)*
+- **Key Warnings**:
+  - PALLAS showed harm (more stroke, heart failure, and cardiovascular death) in permanent AF with additional risk factors.
+  - Dronedarone slows heart rate and conduction, so it is expected to worsen sinus node disease.
+- **Contraindications**: Decompensated heart failure (per the repurposing rationale). Permanent AF is a population where the drug should not be used.
+- **Drug Interactions**:
+  - Dronedarone may raise digoxin levels through P-glycoprotein inhibition (PMID 33888353).
+  - Concomitant use with direct oral anticoagulants is discussed in the literature (PMIDs 27693025, 41152878).
+
+---
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The paroxysmal/persistent-AF evidence line (ATHENA, EAST-AFNET4) supports a plausible stroke-risk-reduction effect at L2 evidence strength, but the PALLAS trial shows the opposite effect in permanent AF, and formal Taiwan safety/label data is entirely missing (drug not currently marketed, 0 NDAs). This combination — real signal, real contraindication boundary, and a blocking data gap — means the candidate should advance only under explicit guardrails, not as a straightforward "Go."
+The stroke signal is indirect, coming from post-hoc analyses and rhythm-control strategy trials rather than a dronedarone trial with stroke as its primary endpoint. PALLAS showed real harm in permanent AF. The package insert safety data are also missing, which blocks the safety screening step.
+No completed Phase 3 dronedarone RCT supports stroke prevention, so the L2 label is generous. The other nine predictions (for example obsolete susceptibility to ischemic stroke, ABri amyloidosis, sarcoglycanopathy) are L4–L5 with no supporting evidence and should stay on hold. Cerebrovascular disorder (rank 4) is the same AF-embolism route as stroke and should be merged with it.
 
 **To proceed, the following is needed:**
-- TFDA package insert warnings/contraindications (DG001, blocking — required before any S1 safety assessment)
-- Formal DrugBank MOA record (DG002)
-- Confirmation of Taiwan import/market pathway, since the drug currently has 0 licenses and is not marketed
-- A completed DDI database query (current status: not_found)
-- An explicit protocol excluding permanent AF patients, consistent with the PALLAS safety signal
+- Package insert warnings, contraindications, and approved-indication text (NDA022425)
+- Mechanism-of-action data from DrugBank
+- Stroke as a prespecified endpoint in dronedarone-specific data, such as a re-analysis of ATHENA and EAST-AFNET 4 restricted to paroxysmal or persistent AF
+- A defined eligible population that excludes permanent AF, decompensated heart failure, and sinus node disease
+- Review of interaction risks with digoxin and direct oral anticoagulants
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

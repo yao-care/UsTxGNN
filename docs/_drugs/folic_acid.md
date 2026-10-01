@@ -29,82 +29,99 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-# Folic Acid: From Vitamin B9 Supplementation to Biotin Metabolic Disease
+# Folic Acid: From an Unrecorded Original Indication to Biotin Metabolic Disease
 
 ## One-Sentence Summary
 
-Folic acid (Vitamin B9, DrugBank DB00158) is not currently marketed in the US and has no original indication on file in this evidence pack. The TxGNN model predicts a possible link to **Biotin Metabolic Disease**, but the supporting evidence — **13 clinical trials** and **20 publications** — is largely non-specific nutritional/vitamin research, and the drug's own mechanistic rationale flags this prediction as a **likely false positive**.
+Folic acid is a marketed B-vitamin (DrugBank DB00158), but the record does not list its approved indication.
+The TxGNN model predicts it may be relevant to **biotin metabolic disease**, with a very high score (99.49%).
+The supporting evidence is weak: **14 clinical trials** and **20 publications** were retrieved, but none tests folic acid in this disease, so the prediction remains model-only (L4).
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in evidence pack (no original indications or US licenses on file) |
-| Predicted New Indication | Biotin Metabolic Disease |
+| Original Indication | Not recorded (all retrieved US labels have empty indication text) |
+| Predicted New Indication | Biotin metabolic disease |
 | TxGNN Prediction Score | 99.49% |
 | Evidence Level | L4 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (the sampled entries are ANDA generics) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for folic acid in this evidence pack. Based on known pharmacology, folic acid (Vitamin B9) participates in one-carbon metabolism via the DHFR/MTHFR pathway, while biotin (Vitamin B7) functions as a cofactor for carboxylase enzymes — these are two distinct vitamin-coenzyme systems with no known shared enzyme or metabolic pathway.
+Detailed mechanism of action data is not available for folic acid, and no original indication is recorded. The score therefore cannot be tied to a specific pathway from the data supplied.
 
-Biotin metabolic disease typically refers to biotinidase deficiency or holocarboxylase synthetase deficiency, both of which are standardly treated with biotin supplementation itself, not folic acid. The reviewer notes accompanying this prediction explicitly assess it as a **potential false positive**: the high TxGNN score most likely reflects structural proximity within the knowledge graph between "vitamin supplementation" and "metabolic disease" node clusters, rather than a genuine mechanistic relationship.
+A plausible link is that folate and biotin are both B-vitamin cofactors in one-carbon and carboxylase-related metabolism. Reviews often group them together as "vitamin-responsive disorders" (for example PMID 23622402). Biotin metabolic diseases, such as biotinidase or holocarboxylase synthetase deficiency, are treated by replacing biotin itself. No source in this pack shows that folic acid corrects the underlying defect.
 
-Given this, the mechanistic rationale for repurposing folic acid toward biotin metabolic disease is weak, and any further evaluation should specifically test for a real pharmacological link rather than assume one from the prediction score alone.
+The high score most likely reflects vitamin-class proximity in the knowledge graph rather than a validated repurposing mechanism.
 
 ## Clinical Trial Evidence
 
+None of the trials tests folic acid in a biotin metabolic disorder. The table lists the 10 most relevant of the 14 retrieved; NCT01643187 and NCT01173315 are the only two graded B, and the rest were graded C.
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT04312152](https://clinicaltrials.gov/study/NCT04312152) | N/A | Unknown | 200 | Metabolic support therapy (Q10 ubiquinol + multivitamin B/E) in idiopathic and Phelan-McDermid syndrome autism; not specific to biotin metabolic disease or folic acid |
-| [NCT04067921](https://clinicaltrials.gov/study/NCT04067921) | N/A | Unknown | 1963 | General nutritional genomics clinical trial platform; not disease-specific |
-| [NCT01643187](https://clinicaltrials.gov/study/NCT01643187) | Phase 2 | Unknown | 1000 | Fortified food vs. milk on micronutrient status (including serum folic acid) in malnourished children; no direct link to biotin metabolic disease |
-| [NCT03360435](https://clinicaltrials.gov/study/NCT03360435) | N/A | Completed | 99 | Transdermal vitamin absorption in post-bariatric surgery patients; unrelated to biotin metabolic disease treatment |
-| [NCT00572741](https://clinicaltrials.gov/study/NCT00572741) | N/A | Completed | 39 | Targeted nutritional intervention for oxidative stress/methylation impairment in autism; not a biotin metabolic disease indication |
-| [NCT04586348](https://clinicaltrials.gov/study/NCT04586348) | Phase 4 | Active, not recruiting | 794 | Prenatal iodine supplementation and neurodevelopment; intervention is iodine, not folic acid |
-| [NCT05687474](https://clinicaltrials.gov/study/NCT05687474) | N/A | Completed | 6824 | Universal newborn genomic screening (may include biotinidase deficiency screening) but is a screening study, not a treatment trial |
-| [NCT01173315](https://clinicaltrials.gov/study/NCT01173315) | Phase 2 | Completed | 75 | Vitamin/mineral supplementation for diabetic neuropathy/nephropathy; not biotin metabolic disease |
-| [NCT01474486](https://clinicaltrials.gov/study/NCT01474486) | N/A | Completed | 40 | Multi-micronutrient intervention as palliative therapy in congestive heart failure; not disease-specific |
-| [NCT01558193](https://clinicaltrials.gov/study/NCT01558193) | N/A | Completed | 202 | Multivitamin/mineral and fatty acid supplementation on impulsivity/aggression; unrelated to biotin metabolic disease |
-
-**Note:** None of the identified trials directly test folic acid for biotin metabolic disease; all are general nutritional/vitamin studies rated relevance grade C.
+| [NCT01643187](https://clinicaltrials.gov/study/NCT01643187) | Phase 2 | Unknown | 1000 | Fortified food vs. milk on nutritional and micronutrient status (including serum and erythrocyte folate) in malnourished children. Closest to a deficiency context, but folic acid is not isolated. |
+| [NCT01173315](https://clinicaltrials.gov/study/NCT01173315) | Phase 2 | Completed | 75 | Vitamin and mineral supplementation for neuropathy and nephropathy complications in type 2 diabetes. Multivitamin intervention. |
+| [NCT03360435](https://clinicaltrials.gov/study/NCT03360435) | N/A | Completed | 99 | Transdermal vitamin patch absorption after bariatric surgery. Measures absorption, not disease treatment. |
+| [NCT03444155](https://clinicaltrials.gov/study/NCT03444155) | N/A | Completed | 30 | Natural vs. synthetic vitamin B complexes, comparing bioavailability in healthy volunteers. |
+| [NCT01474486](https://clinicaltrials.gov/study/NCT01474486) | N/A | Completed | 40 | Multi-micronutrient feasibility study in congestive heart failure. |
+| [NCT00572741](https://clinicaltrials.gov/study/NCT00572741) | N/A | Completed | 39 | Nutritional intervention targeting oxidative stress and methylation in autism. |
+| [NCT04312152](https://clinicaltrials.gov/study/NCT04312152) | N/A | Unknown | 200 | Q10 ubiquinol plus B and E vitamins in autism and Phelan-McDermid syndrome. |
+| [NCT05687474](https://clinicaltrials.gov/study/NCT05687474) | N/A | Completed | 6824 | Genomic newborn screening for 126 treatable genetic diseases. Diagnostic, no drug tested. |
+| [NCT04067921](https://clinicaltrials.gov/study/NCT04067921) | N/A | Unknown | 1963 | General platform for nutrition and health trials. Not indication-specific. |
+| [NCT01558193](https://clinicaltrials.gov/study/NCT01558193) | N/A | Completed | 202 | Multivitamin/mineral supplementation, with and without fatty acids, on impulsivity and aggression. |
 
 ## Literature Evidence
 
+All retrieved publications are reviews or background articles; there are no RCTs. The table shows the 10 most relevant of the 20.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [23622402](https://pubmed.ncbi.nlm.nih.gov/23622402/) | 2013 | Review | Handbook of Clinical Neurology | Reviews vitamin-responsive disorders including cobalamin, folate, biotin, B1 and E; folate and biotin discussed as distinct deficiency syndromes, not interchangeable |
-| [30557456](https://pubmed.ncbi.nlm.nih.gov/30557456/) | 2019 | Review | Movement Disorders | Reviews movement disorders in treatable inborn errors of metabolism, a category that includes biotin-responsive conditions |
-| [13199008](https://pubmed.ncbi.nlm.nih.gov/13199008/) | 1954 | Not classified | Biologica Latina | Animal model of combined vitamin H (biotin) and folic acid deficiency; demonstrates the two are distinct, co-occurring but separate deficiencies |
-| [38203763](https://pubmed.ncbi.nlm.nih.gov/38203763/) | 2024 | Review | Int J Mol Sci | Reviews Vitamin B12 as cofactor linking biotin and folic acid synthesis pathways to methionine production; indirect mechanistic context only |
-| [37123774](https://pubmed.ncbi.nlm.nih.gov/37123774/) | 2023 | Review | Cureus | Reviews vitamins (including biotin) and type 2 diabetes; not specific to biotin metabolic disease |
-| [25388747](https://pubmed.ncbi.nlm.nih.gov/25388747/) | 2015 | Review | Endocr Metab Immune Disord Drug Targets | Reviews vitamins and type 2 diabetes, notes lower biotin/thiamine/pyridoxine in diabetics; not disease-specific |
-| [41692080](https://pubmed.ncbi.nlm.nih.gov/41692080/) | 2026 | Review | Clinics in Dermatology | General review of B vitamin roles in dermatology, including biotin |
-| [29173522](https://pubmed.ncbi.nlm.nih.gov/29173522/) | 2017 | Review | Gastroenterology Clinics of North America | Reviews vitamin/mineral deficiencies in IBD; not biotin metabolic disease specific |
-| [7027768](https://pubmed.ncbi.nlm.nih.gov/7027768/) | 1981 | Review | Acta Vitaminologica et Enzymologica | General review of vitamins in metabolic disease pathogenesis and treatment mechanisms |
-| [16343871](https://pubmed.ncbi.nlm.nih.gov/16343871/) | 2006 | Not classified | Archives de Pédiatrie | Reviews neonatal epilepsy from inborn errors of metabolism, a category overlapping with biotin metabolic disease |
+| [23622402](https://pubmed.ncbi.nlm.nih.gov/23622402/) | 2013 | Review | Handbook of Clinical Neurology | Vitamin-responsive disorders (cobalamin, folate, biotin, B1, E). Many enzymes need vitamins as cofactors, and rare inborn errors of vitamin absorption, transport and metabolism are described. |
+| [30557456](https://pubmed.ncbi.nlm.nih.gov/30557456/) | 2019 | Review | Movement Disorders | Movement disorders in treatable inborn errors of metabolism. |
+| [7027768](https://pubmed.ncbi.nlm.nih.gov/7027768/) | 1981 | Review | Acta Vitaminologica et Enzymologica | Vitamins in metabolic diseases through malabsorption, errors of vitamin metabolism and vitamin-dependent syndromes. Pharmacological doses of the specific vitamin may be needed. |
+| [779426](https://pubmed.ncbi.nlm.nih.gov/779426/) | 1976 | Not classified | Advances in Human Genetics | Vitamin-responsive inherited metabolic disorders (title only, no abstract available). |
+| [11031989](https://pubmed.ncbi.nlm.nih.gov/11031989/) | 2000 | Not classified | Ryoikibetsu Shokogun Shirizu | Vitamin dependency syndrome (title only, no abstract available). |
+| [958746](https://pubmed.ncbi.nlm.nih.gov/958746/) | 1976 | Not classified | Pediatric Clinics of North America | Megavitamin-responsive aminoacidopathies. B-complex vitamins act as coenzymes. Therapeutic trials of the specific cofactor are advised because response cannot be predicted. |
+| [38203763](https://pubmed.ncbi.nlm.nih.gov/38203763/) | 2024 | Review | International Journal of Molecular Sciences | Vitamin B12 deficiency and the nervous system. Mentions the B12-dependent link between biotin, folate and homocysteine pathways. |
+| [37123774](https://pubmed.ncbi.nlm.nih.gov/37123774/) | 2023 | Review | Cureus | Vitamins and type 2 diabetes. Thiamine, pyridoxine and biotin levels are lower in diabetes. |
+| [25388747](https://pubmed.ncbi.nlm.nih.gov/25388747/) | 2015 | Review | Endocrine, Metabolic & Immune Disorders Drug Targets | Vitamins and type 2 diabetes. Reports the same low levels of B-group vitamins, including biotin. |
+| [29173522](https://pubmed.ncbi.nlm.nih.gov/29173522/) | 2017 | Review | Gastroenterology Clinics of North America | Vitamins and minerals in inflammatory bowel disease. Patients should be monitored and their deficiencies corrected. |
 
-**Note:** The literature base is predominantly general vitamin/metabolism reviews; no publication directly evaluates folic acid as a treatment for biotin metabolic disease.
+## US Market Information
+
+Twenty US authorizations are on record. The five below are the main ones, and none of them has indication text in the data. Other forms on record are solution and injection solution.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA040796 | Folic Acid (Aphena Pharma Solutions) | Tablet | Not stated in the record |
+| ANDA211064 | Folic Acid (A-S Medication Solutions) | Tablet | Not stated in the record |
+| ANDA211064 | Folic Acid (Preferred Pharmaceuticals) | Tablet | Not stated in the record |
+| ANDA040625 | Folic Acid (Cardinal Health 107) | Tablet | Not stated in the record |
+| ANDA211064 | Folic Acid (Bryant Ranch Prepack) | Tablet | Not stated in the record |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No drug-interaction records were found for this drug in the queried source.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The drug's own repurposing rationale flags this TxGNN prediction as a likely false positive driven by knowledge-graph structural proximity rather than a genuine mechanistic link — folic acid and biotin operate through distinct, non-overlapping coenzyme pathways, and biotin metabolic disease is standardly treated with biotin itself, not folic acid. Evidence level is L4 (mechanism/preclinical only), no clinical trial or publication directly supports this specific drug-disease pairing, and the drug currently has no US marketing authorization.
+The TxGNN score is very high, but no trial or publication tests folic acid in biotin metabolic disease. The standard treatment for these disorders is biotin replacement, and the signal likely reflects vitamin-class similarity rather than a real mechanism. Safety screening cannot start without label warnings and contraindications.
 
 **To proceed, the following is needed:**
-- Confirmation of folic acid's mechanism of action (MOA) from DrugBank to formally assess mechanistic plausibility
-- TFDA/FDA label warnings and contraindications (currently blocking safety review, per data gap DG001)
-- A targeted literature or trial search specifically on folic acid in biotinidase deficiency or holocarboxylase synthetase deficiency, rather than general vitamin/metabolism studies
-- Re-evaluation of the TxGNN prediction itself, given the internally flagged risk of a knowledge-graph structural false positive
+- Package insert warnings and contraindications (blocking gap), parsed from the FDA label
+- Mechanism of action from DrugBank, to test whether any pathway links folic acid to biotin-dependent enzymes
+- The approved indication text, to establish the original use
+- Any direct preclinical or clinical evidence of folic acid in biotinidase or holocarboxylase synthetase deficiency
+- A check of whether the biotin metabolic disease label in the model maps to a clinically meaningful population
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

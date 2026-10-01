@@ -29,72 +29,68 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-Using `txgnn-pipeline` to guide report generation, and following the Drug Repurposing Evaluation Report Prompt (v5) format.
-
----
-
-# Avatrombopag: From Immune Thrombocytopenia to Macrothrombocytopenia with Mitral Valve Insufficiency
+# Avatrombopag: From a Thrombopoietin Receptor Agonist to Marcothrombocytopenia with Mitral Valve Insufficiency
 
 ## One-Sentence Summary
 
-Avatrombopag (Doptelet®) is a thrombopoietin receptor agonist (TPO-RA) established for treating thrombocytopenia in adults with chronic liver disease (CLD) scheduled for a procedure, and for chronic immune thrombocytopenia (ITP).
-The TxGNN model predicts it may be effective for **Macrothrombocytopenia with Mitral Valve Insufficiency**, a rare platelet disorder compounded by a cardiac comorbidity.
-Currently, **0 clinical trials** and **0 publications** specifically support this repurposing direction, placing confidence entirely at the model-prediction tier.
+Avatrombopag is a thrombopoietin (TPO) receptor agonist that stimulates platelet production, and it is currently marketed in the United States.
+The TxGNN model predicts it may be effective for **marcothrombocytopenia with mitral valve insufficiency**, with a top score of 99.995%.
+There are currently **0 clinical trials** and **0 publications** supporting this prediction, so it is a research question, not an evidence-backed candidate.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not captured in evidence pack (data gap; avatrombopag is publicly known to be FDA-approved for CLD-associated thrombocytopenia and chronic ITP) |
-| Predicted New Indication | Macrothrombocytopenia with Mitral Valve Insufficiency |
-| TxGNN Prediction Score | 99.9954% |
-| Evidence Level | L5 |
-| US Market Status | Not captured (evidence pack shows 0 licenses; see note below) |
-| Number of NDAs | 0 (not captured in evidence pack) |
+|------|------|
+| Predicted New Indication | Marcothrombocytopenia with mitral valve insufficiency |
+| TxGNN Prediction Score | 99.995% (model rank 254) |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 |
 | Recommended Decision | Hold |
 
-> **Data Gap Notice**: The evidence pack reports 0 US licenses and "Not marketed" (not marketed). This appears to be a data collection issue rather than a reflection of actual approval status. Publicly available records show Doptelet® (avatrombopag) received FDA approval in May 2018 (CLD thrombocytopenia) and June 2019 (chronic ITP). The NDA and safety data should be retrieved from FDA records to complete this evaluation.
+The evidence pack contains no approved-indication text for either NDA, so the original indication is not listed here.
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack (identified as Data Gap DG002). Based on established pharmacological knowledge, avatrombopag is a small-molecule thrombopoietin receptor agonist (TPO-RA) that binds to and activates the TPO receptor (c-Mpl) on megakaryocytes, stimulating their proliferation and differentiation to increase platelet production. It belongs to the same drug class as eltrombopag and romiplostim, and its efficacy in raising platelet counts across multiple thrombocytopenic conditions has been confirmed in Phase 3 trials.
+Avatrombopag is a TPO receptor agonist. It stimulates megakaryocyte proliferation and platelet production. Detailed DrugBank mechanism-of-action data are not available in the evidence pack, so this description comes from the mechanistic notes attached to the predictions.
 
-Macrothrombocytopenia with mitral valve insufficiency is a rare syndrome characterised by chronically low platelet counts with abnormally large platelets — often reflecting a megakaryocyte maturation defect — accompanied by structural mitral valve disease. For production-deficiency subtypes (where megakaryocytes fail to generate adequate platelets), TPO-RA stimulation provides a pharmacologically coherent rationale: boosting upstream megakaryocyte output may compensatorily restore platelet numbers toward hemostatic adequacy. Prior TPO-RA experience in related hereditary thrombocytopenias (romiplostim in MYH9-related disease, eltrombopag in ANKRD26-related thrombocytopenia) lends indirect support.
+Raising platelet count is a plausible strategy for a condition defined by low platelets. However, marcothrombocytopenia is likely genetic in origin, and the response to a TPO receptor agonist would depend on the specific defect. No supporting data were provided, so the mechanistic link is **not verified**.
 
-However, the mechanistic link carries important caveats. If the macrothrombocytopenia arises from a structural platelet defect rather than insufficient production — as in MYH9-related disorders — increasing platelet numbers does not repair platelet function. The concurrent mitral valve insufficiency introduces additional complexity: cardiac status, procedural bleeding risk, and potential interaction with anticoagulation must be independently assessed. Of all ten TxGNN predictions in this evidence pack, this is the most mechanistically grounded; the remaining eight predictions (ranks 5–10) cluster around motor neuron diseases (ALS and related syndromes) and neurological malformations, which have no known pharmacological link to TPO-RA and likely reflect knowledge-graph topological proximity rather than biological relevance.
+The other nine predictions are weaker:
+- **Thrombocytopenia-related (ranks 2–3):** "Hereditary thrombocytopenia with normal platelets" is plausible in principle, but the disease name is ambiguous and the mapping should be checked. "Transient neonatal thrombocytopenia" is self-limiting, and no neonatal safety data were provided, so the risk-benefit balance is unfavorable.
+- **Dense granule disease (rank 4):** This is a platelet function defect, not a low platelet count. A TPO receptor agonist would not be expected to correct it, and the score looks like a knowledge-graph proximity artifact.
+- **Motor neuron and cortical disorders (ranks 5–10):** These include ALS, its susceptibility entry, lower motor neuron syndrome, Mills syndrome, monomelic amyotrophy and polymicrogyria. No mechanistic link to TPO receptor agonism was found, and they likely reflect graph-structure artifacts. The ALS-related entries overlap and should not be counted as independent support.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for avatrombopag in macrothrombocytopenia with mitral valve insufficiency.
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available for avatrombopag in macrothrombocytopenia with mitral valve insufficiency.
+Currently no related literature available.
 
 ---
 
 ## US Market Information
 
-No license records are captured in the current evidence pack. FDA NDA data should be retrieved directly to complete this section.
-
-> Based on publicly available information: avatrombopag (Doptelet®, AkaRx/Swedish Orphan Biovitrum) holds FDA approval under NDA 210238 (CLD thrombocytopenia, 2018) and NDA 210239 (chronic ITP, 2019). These should be formally verified and added to the evidence pack.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA210238 | DOPTELET | Tablet, film coated (oral) | AkaRx, Inc. |
+| NDA219696 | Doptelet Sprinkle | Granule | AkaRx, Inc. |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. All safety fields in the current evidence pack are absent (key warnings, contraindications, and drug interaction data were not retrieved). Remediation identified in the evidence pack:
-
-- **TFDA label / US FDA label**: Download and parse the full prescribing information (NDA label) to extract boxed warnings, contraindications, and special population precautions (Data Gap DG001).
-- **Drug interactions**: DDI query returned no results; re-query using the US FDA label and DrugBank interaction database.
+Please refer to the package insert for safety information.
 
 ---
 
@@ -103,15 +99,18 @@ Please refer to the package insert for safety information. All safety fields in 
 **Decision: Hold**
 
 **Rationale:**
-This prediction rests entirely on model output (L5) with zero supporting clinical trials or publications. While a mechanistic rationale exists for production-deficiency subtypes of macrothrombocytopenia, no empirical evidence has yet tested this hypothesis, and the mitral valve comorbidity introduces safety uncertainties that cannot be assessed without a complete label review.
+The prediction has no clinical trial or literature support (L5), and the mechanistic link to this ultra-rare, likely genetic condition is unverified. Blocking safety gaps also remain, because package insert warnings and contraindications have not been retrieved.
 
 **To proceed, the following is needed:**
+- Package insert warnings and contraindications (a blocking gap)
+- DrugBank mechanism-of-action data
+- Confirmation of the disease definition and ontology mapping for "marcothrombocytopenia with mitral valve insufficiency", and of the ambiguous "hereditary thrombocytopenia with normal platelets"
+- A targeted literature and trial search (PubMed, ClinicalTrials.gov, ICTRP) for TPO receptor agonists in inherited thrombocytopenias
+- Genetic-subtype analysis to decide whether a TPO receptor agonist could plausibly work
+- Route compatibility assessment, which is still pending
+- For the neonatal indication, neonatal safety data before any further consideration
 
-- **Close data gaps first**: Retrieve FDA NDA records (DG001) to confirm approved indications, boxed warnings, and contraindications; retrieve MOA details from DrugBank (DG002)
-- **Patient subtype stratification**: Determine whether the target population represents production-deficient (TPO-responsive) vs. structurally-defective macrothrombocytopenia before designing any study
-- **Precedent search**: Search for romiplostim and eltrombopag use in macrothrombocytopenia subtypes — positive signals from sister TPO-RAs would upgrade confidence even without avatrombopag-specific data
-- **Cardiac safety assessment**: Evaluate avatrombopag's risk-benefit profile in patients with mitral valve insufficiency, including thrombotic risk at higher platelet counts and anticoagulation interaction potential
-- **Flag neurological predictions (ranks 5–10) as topological artifacts**: ALS, lower motor neuron syndrome, Mills syndrome, monomelic amyotrophy, and bilateral polymicrogyria predictions show no pharmacological plausibility for a TPO-RA and should be deprioritised without further investigation
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

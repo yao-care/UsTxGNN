@@ -29,35 +29,37 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tretinoin: From Unspecified Indication to Rheumatoid Nodulosis
+# Tretinoin: From Topical Retinoid Use to Rheumatoid Nodulosis
 
 ## One-Sentence Summary
 
-> The evidence pack does not document Tretinoin's original approved indication (no license or indication text is on file, and the drug is currently **not marketed** in this jurisdiction).
-> The TxGNN model's top-ranked prediction for this drug is **Rheumatoid Nodulosis**,
-> but currently **0 clinical trials** and **0 publications** support this specific prediction — it is a pure knowledge-graph score with no corroborating evidence.
+Tretinoin is a retinoid that is currently marketed in the US as topical gel, lotion, and cream products.
+The TxGNN model predicts it may be effective for **rheumatoid nodulosis**, but **no clinical trials and no publications** were retrieved for this prediction.
+This is a model-only signal (Evidence Level L5) and should be treated as a hypothesis, not a development candidate.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not documented in the evidence pack (no licenses on file) |
-| Predicted New Indication | Rheumatoid Nodulosis |
-| TxGNN Prediction Score | 99.84% (rank #4836 in the model's candidate list) |
-| Evidence Level | L5 — model prediction only, no clinical or literature support |
-| Market Status | Not Marketed (Not marketed) |
-| Number of Licenses | 0 |
+|------|------|
+| Original Indication | Not stated in the retrieved US label data |
+| Predicted New Indication | Rheumatoid nodulosis |
+| TxGNN Prediction Score | 99.84% |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack (flagged as a High-severity data gap), and no original indication information is on file for Tretinoin locally. Based on general pharmacology captured in the model's rationale, Tretinoin is a RAR/RXR (retinoic acid receptor) agonist with known immunomodulatory activity — including effects on the Th17/Treg balance — which theoretically could influence rheumatoid-associated inflammatory processes. However, this is a **mechanistic hypothesis only**; no direct clinical or preclinical study in the evidence pack tests Tretinoin specifically against rheumatoid nodulosis.
+Currently, detailed mechanism of action data is not available. Based on known information, tretinoin is a retinoid, and retinoid signaling influences immune and inflammatory pathways. Mechanistically it might be applicable to inflammatory arthritis-related conditions, but this link is indirect.
 
-It is worth noting that among the 10 candidate indications returned for this drug, only two (Osteoarthritis, rank 7, and Quinquaud's Folliculitis Decalvans, rank 10) have any literature evidence at all, and both remain at evidence level L4 (mechanistic/preclinical, no clinical trials). The top-ranked candidate discussed here, Rheumatoid Nodulosis, has neither literature nor trial support — its score reflects graph connectivity in TxGNN's knowledge base rather than an evidenced therapeutic signal.
+The high TxGNN score most likely reflects proximity in the knowledge graph to inflammatory arthritis nodes, not a validated mechanism. Retinoic acid is known to modulate T-cell differentiation (Treg/Th17 balance), which is conceptually relevant to autoimmune joint disease. No trial, preclinical study, or publication was retrieved to confirm that this applies to rheumatoid nodulosis.
+
+Most of the top-ranked predictions fall in the same area: juvenile idiopathic arthritis (JIA) and its synonyms, spondyloarthropathy, and rare skeletal dysplasias. Several of these are pediatric or skeletal conditions, where retinoid skeletal toxicity is a particular concern.
 
 ---
 
@@ -73,9 +75,28 @@ Currently no related literature available.
 
 ---
 
+## US Market Information
+
+All five listed products are topical or lotion formulations. The retrieved data contains no indication text for them.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA218246 | Tretinoin (Aurobindo Pharma Limited) | Gel | Not listed in retrieved data |
+| NDA022070 | Tretinoin (Oceanside Pharmaceuticals) | Gel | Not listed in retrieved data |
+| ANDA217588 | Tretinoin (Encube Ethicals, Inc.) | Gel | Not listed in retrieved data |
+| NDA020475 | Retin-A MICRO (Bausch Health US LLC) | Gel | Not listed in retrieved data |
+| NDA209353 | Altreno (Bausch Health US, LLC) | Lotion | Not listed in retrieved data |
+
+---
+
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug-drug interaction data are all currently unavailable — TFDA labeling retrieval is flagged as a **blocking** data gap in this evidence pack.)
+Please refer to the package insert for safety information. No drug-interaction records were found.
+
+The prediction-level assessments raise these points:
+- **Skeletal toxicity**: Retinoid excess is associated with premature epiphyseal closure, hyperostosis, and enthesopathy-like changes. This matters for the pediatric arthritis and spondyloarthropathy predictions.
+- **Teratogenicity**: Tretinoin is teratogenic.
+- **Route mismatch**: All US products found are topical, and route compatibility with a systemic joint or nodule indication has not been assessed.
 
 ---
 
@@ -84,14 +105,20 @@ Please refer to the package insert for safety information. (Key warnings, contra
 **Decision: Hold**
 
 **Rationale:**
-- The top-ranked predicted indication (Rheumatoid Nodulosis) is an L5-level, pure model prediction with zero supporting clinical trials or publications. A blocking data gap (missing TFDA labeling) also prevents any safety pre-screening (S1 gate), and MOA confirmation is still pending.
+The prediction rests on a model score alone, with no trials, no literature, and no mechanistic data for rheumatoid nodulosis. The skeletal-toxicity profile of retinoids and the topical-only product forms make the rationale unfavorable.
 
 **To proceed, the following is needed:**
-- TFDA package insert / warnings & contraindications (currently blocking — DG001)
-- Confirmed mechanism of action via DrugBank query (DG002)
-- Original indication and regulatory history for Tretinoin, to establish an indication-to-indication rationale
-- Primary or preclinical evidence specific to rheumatoid nodulosis (none currently identified)
-- Consider redirecting evaluation effort toward the two candidates with existing literature support — Osteoarthritis (rank 7, L4) and Folliculitis Decalvans (rank 10, L4) — as they are further along the evidence curve than the top-ranked prediction
+- Package insert warnings and contraindications (currently blocking safety screening)
+- Mechanism of action data from DrugBank
+- A literature and trial search specific to rheumatoid nodulosis, plus preclinical evidence on retinoid effects in nodule formation
+- A route and exposure assessment (topical versus systemic)
+
+**Other predicted indications worth noting:**
+- **Osteoarthritis (rank 7, L4, "Research Question")**: This is the only prediction with a relevant evidence base. It is genetic and preclinical, with no clinical trials. The evidence conflicts in direction. ALDH1A2 variant data (PMID 36542696) and a GWAS-to-drug analysis (PMID 37418291) suggest that raising retinoic acid signaling may help. A 2025 study of retinoic acid-induced osteoarthritis (PMID 40564983) suggests that exogenous retinoic acid may harm cartilage. It is hypothesis-generating only, and dose, route, and local versus systemic exposure must be clarified first.
+- **Quinquaud's folliculitis decalvans (rank 10, L4, Hold)**: The only retrieved item is a case report on folliculitis spinulosa decalvans, a different entity. It does not support tretinoin and may be a name-matching artifact.
+- **JIA cluster (ranks 2–4, 6)**: "Juvenile idiopathic arthritis," "juvenile chronic polyarthritis," and the RF-positive polyarticular subtype overlap and should be consolidated for review.
+
+*This report is for research reference only and does not constitute medical advice. Predicted candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

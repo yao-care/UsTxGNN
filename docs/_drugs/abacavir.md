@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Abacavir
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 36
-evidence_level: L5
+evidence_level: L4
 indication_count: 3
 ---
 
 # Abacavir
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **3** 
+Evidence Level: **L4** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,52 +29,71 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# ABACAVIR (DB01048): Drug Repurposing Evaluation — Insufficient Data to Complete Assessment
+# Abacavir: From HIV-1 Infection to Simian Immunodeficiency Virus Infection
 
 ## One-Sentence Summary
 
-ABACAVIR is an antiretroviral agent (DrugBank ID: DB01048) that was queried for drug repurposing potential via the TxGNN pipeline.
-However, this Evidence Pack contains **no predicted indications**, **no original indication records**, and **no safety data** — the evaluation cannot proceed beyond the preliminary stage.
-The data collection phase must be completed before any repurposing direction can be assessed.
+Abacavir is a nucleoside reverse transcriptase inhibitor (NRTI) used in human HIV-1 therapy. The TxGNN model predicts it may be effective against **simian immunodeficiency virus (SIV) infection**, but the only supporting evidence is **1 in vitro publication** and **0 clinical trials**. SIV is a non-human primate infection, so this prediction is mainly relevant to HIV research models rather than human treatment.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not available (no regulatory records found) |
-| Predicted New Indication | Not available (no TxGNN predictions in this pack) |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A — pipeline incomplete |
-| Market Status (Taiwan) | Not marketed |
-| Number of Licenses | 0 |
-| Recommended Decision | **Hold** |
+|------|------|
+| Original Indication | HIV-1 infection (inferred from the abacavir/lamivudine HIV-1 trials in the evidence pack; the US license records carry no indication text) |
+| Predicted New Indication | Simian immunodeficiency virus infection |
+| TxGNN Prediction Score | 99.79% |
+| Evidence Level | L4 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 15 (the sampled listings are ANDA generics) |
+| Recommended Decision | Hold |
 
 ---
 
-## Why No Prediction Is Available
+## Why is This Prediction Reasonable?
 
-This Evidence Pack (version v4, candidate `TW-DB01048-multi`) was generated with only one data source successfully retrieved: **DrugBank** (query ID 3, returned 1 record). Two critical data gaps were flagged at the time of pack creation:
+Currently, detailed mechanism of action data is not available. Based on known information, abacavir is an NRTI, and its efficacy in HIV-1 is well established. SIV is a lentivirus whose reverse transcriptase is closely related to that of HIV, so NRTI activity against it is mechanistically plausible.
 
-| Gap ID | Item | Severity | Impact |
-|--------|------|----------|--------|
-| DG001 | TFDA package insert warnings / contraindications | Blocking | Cannot enter Safety S1 screening |
-| DG002 | Mechanism of action (MOA) | High | Cannot perform mechanistic relevance analysis |
+The prediction most likely reflects the close biological similarity between HIV and SIV rather than a genuinely new therapeutic signal. The only supporting study is an in vitro comparison of antiviral susceptibility, and it does not show clinical benefit. Because SIV infects non-human primates, it is mainly useful as an animal model for HIV research, not as a human repurposing target.
 
-Because the TFDA regulatory query (query ID 1) returned zero records and the `predicted_indications` array is empty, **no repurposing candidate has been generated for ABACAVIR in this pipeline run**. Without a predicted indication, sections covering clinical trial evidence, literature evidence, mechanism rationale, and cytotoxicity assessment cannot be produced.
+The same model run also returned two other predictions. Feline acquired immunodeficiency syndrome (score 99.79%) is likewise an animal-model indication. The evidence for it consists of human HIV-1 trials and one preclinical FIV study, so it is indirect evidence at best. A rare neurodevelopmental disorder (score 99.78%) has no trials or literature and no evident mechanistic link to an NRTI, so it may be a knowledge-graph artifact.
 
 ---
 
-## Market Information (Taiwan)
+## Clinical Trial Evidence
 
-No Taiwan TFDA license records were found for ABACAVIR. The drug is currently **not marketed** in Taiwan under any registered product.
+Currently no related clinical trials registered.
+
+---
+
+## Literature Evidence
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [15040537](https://pubmed.ncbi.nlm.nih.gov/15040537/) | 2004 | In vitro susceptibility study | Antiviral Therapy | Tested 16 approved anti-HIV drugs and the experimental compound AMD3100 against HIV-2, SIV (mac251, B670) and SHIV strains. The goal was to inform treatment and post-exposure prophylaxis. The available abstract is truncated, so the abacavir-specific result is not confirmed. |
+
+---
+
+## US Market Information
+
+The source records contain no approved-indication text, so that column is omitted. Only 5 of the 15 licenses were supplied. Several generic ANDA applications are held by multiple labelers.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA091560 | Abacavir | Tablet | Coupler LLC |
+| ANDA091294 | Abacavir Sulfate | Tablet, film coated | Mylan Pharmaceuticals Inc. |
+| ANDA077844 | Abacavir | Tablet, film coated | Aurobindo Pharma Limited |
+| ANDA091560 | Abacavir | Tablet | XLCare Pharmaceuticals Inc. |
+| ANDA091560 | Abacavir | Tablet | AvPAK |
+
+Available dosage forms include oral tablets, film-coated tablets and a solution.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No safety data (warnings, contraindications, or drug interactions) was retrievable in this pipeline run.
+Please refer to the package insert for safety information.
 
 ---
 
@@ -83,15 +102,14 @@ Please refer to the package insert for safety information. No safety data (warni
 **Decision: Hold**
 
 **Rationale:**
-The Evidence Pack is structurally incomplete — the TxGNN prediction pipeline did not produce any candidate indications for ABACAVIR, and all safety screening inputs are missing. No forward evaluation is possible in this state.
+The only evidence is one 2004 in vitro susceptibility study (L4), and no clinical trials exist for this indication. SIV is a non-human primate infection with little relevance as a human repurposing target. The high TxGNN score most likely reflects the HIV/SIV similarity, not a new therapeutic opportunity.
 
 **To proceed, the following is needed:**
-
-1. **Retrieve TFDA package insert** — Download and parse the official TFDA PDF for ABACAVIR to populate warnings, contraindications, and approved indications. This resolves the Blocking gap (DG001) and unblocks S1 safety screening.
-2. **Retrieve MOA from DrugBank API** — Query `https://api.drugbank.com/v1/drugs/DB01048` for the mechanism of action field to resolve DG002 and enable mechanistic analysis.
-3. **Re-run the TxGNN prediction pipeline** — Once original indications and MOA are populated, re-execute the KG and DL prediction steps to generate `predicted_indications`.
-4. **Re-run evidence collectors** — After predictions are available, trigger ClinicalTrials.gov, PubMed, and ICTRP collectors to populate clinical trial and literature evidence for the top predicted indication.
-5. **Regenerate Evidence Pack v5** — With all inputs resolved, a complete evaluation report can be produced.
+- The full text of PMID 15040537, to confirm the abacavir-specific susceptibility data
+- A decision on whether an animal-model use (SIV/SHIV research) counts as in scope, since no human indication is being pursued
+- Package insert warnings and contraindications, because safety data is missing and blocks safety screening
+- Detailed mechanism of action data (MOA) from DrugBank
+- A check of the underlying knowledge-graph path for the neurodevelopmental disorder prediction, to rule out an artifact
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

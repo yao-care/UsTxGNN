@@ -33,73 +33,62 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 ## One-Sentence Summary
 
-> Pretomanid is a nitroimidazooxazine antimycobacterial, used globally as part of the BPaL regimen (Bedaquiline + Pretomanid + Linezolid) for extensively drug-resistant (XDR) and treatment-intolerant multidrug-resistant (MDR) pulmonary tuberculosis.
-> The TxGNN model predicts it may be effective for **Candidiasis**, but this prediction is currently supported by **0 clinical trials** and **0 publications**, and the drug's own mechanism of action provides no plausible link to antifungal activity.
-
----
+Pretomanid is an oral antibacterial used as part of the BPaL regimen (bedaquiline, pretomanid, linezolid) for extensively drug-resistant and treatment-intolerant or non-responsive multidrug-resistant pulmonary tuberculosis.
+The TxGNN model predicts it may be effective for **candidiasis** with a very high score, but there are **0 clinical trials** and **0 publications** supporting this prediction, and the known biology argues against it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in Taiwan regulatory data (drug is not marketed in Taiwan). Based on the drug's evidence records, it is globally approved as part of the **BPaL regimen** for extensively drug-resistant / treatment-intolerant MDR pulmonary tuberculosis. |
+| Original Indication | Drug-resistant pulmonary tuberculosis (as part of BPaL; the license record has no indication text, so this comes from the literature) |
 | Predicted New Indication | Candidiasis |
 | TxGNN Prediction Score | 99.69% |
-| Evidence Level | L5 (model prediction only, no supporting trials or literature) |
-| US Market Status | Not marketed (Not marketed in Taiwan) |
-| Number of NDAs | 0 |
-| Recommended Decision | **Hold** |
-
----
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Pretomanid is a nitroimidazooxazine prodrug that requires activation by the mycobacteria-specific enzyme **deazaflavin-dependent nitroreductase (Ddn)**. Once activated, it generates reactive nitrogen species that inhibit mycolic acid synthesis under aerobic conditions, or act as a respiratory poison under anaerobic conditions. Both the activating enzyme system and the downstream target are specific to the *Mycobacterium* genus.
+Currently, detailed mechanism of action data is not available in the source record. Based on the pharmacology assessment, pretomanid is a nitroimidazooxazine prodrug. It is activated inside mycobacteria by the F420-dependent nitroreductase Ddn, and it acts against *Mycobacterium tuberculosis*. It is not known to have antifungal activity.
 
-*Candida* species are fungi with a fundamentally different cell wall structure and no known Ddn-homologous activation pathway. There is no mechanistic basis connecting pretomanid's mode of action to antifungal activity. The evidence pack's own mechanistic rationale explicitly flags this: the high TxGNN score most likely reflects a generalized "antimicrobial agent" node linkage in the knowledge graph, rather than a target-specific biological relationship.
+Tuberculosis is a bacterial infection and candidiasis is a fungal infection. The two diseases have different pathogens, different drug targets and different activation pathways. No plausible mechanistic link between the original indication and candidiasis was identified.
 
-For context, the same evidence pack also evaluated **leprosy** (*Mycobacterium leprae*) as a candidate — a much more biologically plausible hypothesis given the shared genus. However, direct in-vitro evidence (PMID 17005816) shows *M. leprae* is **naturally resistant** to pretomanid (PA-824), refuting that hypothesis as well. This suggests the model's high-ranking candidates for this drug should be treated with particular caution until mechanism-consistent evidence emerges.
-
----
+The high TxGNN score (0.997) is a graph-based prediction only. It should be treated as a hypothesis-generating signal, not as evidence of efficacy.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-No Taiwan/US market authorization data available — pretomanid is not currently marketed in Taiwan (0 licenses on record).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA212862 | Pretomanid (Viatris Specialty LLC) | Tablet (oral) | Not provided in the license record |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-*(Note: Two data gaps were flagged in the evidence pack — TFDA label warnings/contraindications [Blocking severity] and detailed MOA documentation [High severity] — both currently unresolved.)*
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The candidiasis prediction has no clinical or literature support (Evidence Level L5) and no plausible mechanistic link — pretomanid's target (mycobacterial Ddn-mediated mycolic acid synthesis/respiratory inhibition) does not exist in fungal pathogens like *Candida*. This looks like a knowledge-graph artifact rather than a genuine repurposing signal.
+The candidiasis prediction is supported only by the model score. There are no trials or publications, and no plausible antifungal mechanism, since pretomanid works through a mycobacteria-specific activation pathway. The other four predictions were also reviewed:
+
+- **Leprosy:** it has only tangential trials (all TB-PRACTECAL sub-studies in TB populations). Direct preclinical evidence is negative, because *M. leprae* is naturally resistant to pretomanid (PMID 17005816).
+- **Coronary artery disease, myocardial ischemia, and anomalous left coronary artery from the pulmonary artery:** these have no supporting evidence or mechanism.
 
 **To proceed, the following is needed:**
-- TFDA/FDA label warnings and contraindications (Blocking data gap, DG001) — required before any safety pre-assessment (S1) can begin
-- Confirmed mechanism of action documentation from DrugBank (High priority, DG002)
-- Any in-vitro or preclinical antifungal activity data for pretomanid specifically against *Candida* species, to substantiate or refute the TxGNN signal
-- Given that the next-ranked candidate (leprosy) has direct **refuting** in-vitro evidence, and the remaining candidates (coronary artery disease, myocardial ischemia, ALCAPA) have no mechanistic rationale at all, **no candidate in this evidence pack currently warrants advancement beyond Hold**.
+- Any in vitro antifungal activity data (for example, MIC testing against *Candida* species) to establish a biological basis
+- The mechanism of action record from DrugBank and the FDA package insert warnings and contraindications, which are missing from the current record
+- A mechanistic rationale for why a mycobacteria-specific prodrug would act on fungi
+- A safety review before any repurposing work, given the missing package insert data
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

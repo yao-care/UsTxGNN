@@ -29,13 +29,13 @@ Evidence Level: **L4** | Predicted Indications: **7**
 
 </div>
 
-# Methadone: From Opioid Use Disorder to Tourette Syndrome
+# Methadone: From Opioid Dependence and Pain Treatment to Tourette Syndrome
 
 ## One-Sentence Summary
 
-Methadone is a long-acting synthetic opioid, established in clinical practice as opioid agonist maintenance therapy for opioid use disorder and as an analgesic for chronic/cancer pain. The TxGNN model predicts it may be effective for **Tourette Syndrome**, but this direction is currently supported by only **1 case report** and a handful of indirect, mechanism-adjacent publications — no clinical trials have been registered for this indication.
-
-*Note: The evidence pack contains no `original_indications` or license data for this drug; the original indication above reflects general pharmacological knowledge of methadone, not structured evidence-pack data.*
+Methadone is a long-acting opioid agonist, generally used for opioid dependence and severe pain.
+The TxGNN model predicts it may be effective for **Tourette syndrome**, but there are **0 registered clinical trials** and only **1 small clinical report (1992)** directly on this use.
+Overall this is a hypothesis-generating prediction with very limited evidence.
 
 ---
 
@@ -43,23 +43,23 @@ Methadone is a long-acting synthetic opioid, established in clinical practice as
 
 | Item | Content |
 |------|------|
-| Original Indication | Opioid use disorder (maintenance therapy) / chronic pain management *(not captured in evidence pack; based on general drug knowledge)* |
-| Predicted New Indication | Tourette Syndrome |
+| Original Indication | Not listed in the supplied label data (methadone is generally used for opioid dependence and severe pain) |
+| Predicted New Indication | Tourette syndrome |
 | TxGNN Prediction Score | 99.76% |
 | Evidence Level | L4 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (the five shown are ANDAs) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for methadone is not available in this evidence pack. Based on general pharmacological knowledge, methadone is a synthetic opioid that acts as a full mu-opioid receptor agonist and also antagonizes NMDA receptors and inhibits monoamine reuptake — a pharmacological profile distinct from typical short-acting opioids.
+Currently, detailed mechanism of action data is not available. Based on known information, methadone is a mu-opioid receptor agonist with established use in opioid dependence and pain. Mechanistically it may be applicable to Tourette syndrome, but this is not confirmed by the supplied data.
 
-The link to Tourette syndrome is not mechanistically established. The rationale rests almost entirely on a single 1992 case report describing methadone treatment of Tourette's disorder, alongside indirect literature discussing opioid-system involvement in chorea, tic disorders, and obsessive-compulsive symptoms. These publications suggest a theoretical role for opioidergic modulation in hyperkinetic/tic-related movement disorders, but none provide a direct mechanistic pathway or controlled clinical evidence connecting methadone specifically to tic suppression.
+The most plausible route is opioid-system modulation of dopaminergic and striatal circuits, which are involved in tics. A 1992 report describes methadone treatment of Tourette's disorder. A 2007 preclinical paper also notes that opioid drugs are effective in treatment-refractory OCD and Tourette syndrome, and links a 5-HT2A-related behavior to tics.
 
-Given the absence of clinical trials, an unconfirmed mechanistic rationale, and reliance on a single decades-old case report, this prediction should be treated as hypothesis-generating rather than clinically actionable at this stage.
+The rest of the retrieved literature is indirect. It covers heroin addiction in Tourette patients, chorea reviews and pain reviews. There are no controlled data, so the model score is not backed by clinical evidence.
 
 ---
 
@@ -73,17 +73,27 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [15247538](https://pubmed.ncbi.nlm.nih.gov/15247538/) | 2004 | Review | Current Opinion in Neurology | Reviews non-genetic causes of chorea; notes growing interest in whether Sydenham's chorea mechanisms play a role in other neuropsychiatric disorders |
-| [39086469](https://pubmed.ncbi.nlm.nih.gov/39086469/) | 2024 | Review | Palliative Care and Social Practice | Reviews novel-mechanism analgesics for neuropathic pain in advanced illness (haloperidol, miragabalin, PEA, clonidine); not methadone-specific |
-| [1728167](https://pubmed.ncbi.nlm.nih.gov/1728167/) | 1992 | Case report | The American Journal of Psychiatry | Direct case report of methadone used to treat Tourette's disorder — the only direct clinical evidence in this evidence pack |
-| [30395551](https://pubmed.ncbi.nlm.nih.gov/30395551/) | 2018 | Case series | Journal of Psychiatric Practice | Describes heroin addiction comorbidity in Serbian patients with Tourette syndrome; addresses TS-addiction association, not methadone efficacy for TS |
-| [17102981](https://pubmed.ncbi.nlm.nih.gov/17102981/) | 2007 | Basic/experimental | Psychopharmacology | Experimental study of atypical opiates and 5-HT2A/C receptor-mediated behavior relevant to OCD/tic-like symptoms; preclinical, not methadone-specific |
+| [1728167](https://pubmed.ncbi.nlm.nih.gov/1728167/) | 1992 | Case report / small clinical series | Am J Psychiatry | "Methadone treatment of Tourette's disorder." The only direct clinical report. No abstract was available, and it is old and uncontrolled. |
+| [30395551](https://pubmed.ncbi.nlm.nih.gov/30395551/) | 2018 | Observational / case series | J Psychiatr Pract | Heroin addiction in Serbian patients with Tourette syndrome. It shows comorbidity with addiction, not treatment benefit. |
+| [17102981](https://pubmed.ncbi.nlm.nih.gov/17102981/) | 2007 | Preclinical (indirect) | Psychopharmacology | Atypical opiates in OCD, studied through 5-HT2A/C receptor-mediated behavior. It notes that opiates are also effective in refractory OCD and Tourette syndrome. |
+| [15247538](https://pubmed.ncbi.nlm.nih.gov/15247538/) | 2004 | Review (indirect) | Curr Opin Neurol | Review of non-genetic causes of chorea. It is only loosely related to Tourette syndrome. |
+| [39086469](https://pubmed.ncbi.nlm.nih.gov/39086469/) | 2024 | Review (not relevant) | Palliat Care Soc Pract | Novel drugs for neuropathic pain in advanced cancer. It does not address Tourette syndrome. |
 
 ---
 
 ## US Market Information
 
-No license or NDA records were found for methadone in this evidence pack (`total_licenses: 0`, market status: Not Marketed).
+The supplied records do not include approved indication text. Five of the 20 licenses are shown below.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA212093 | Methadone Hydrocloride | Concentrate | Atlantic Biologicals Corp. |
+| ANDA203502 | Methadone Hydrochloride | Tablet | Aurolife Pharma, LLC |
+| ANDA212093 | Methadone Hydrocloride | Concentrate | Bryant Ranch Prepack |
+| ANDA077142 | Methadone Hydrochloride | Tablet | SpecGx LLC |
+| ANDA074184 | Methadose Dispersible | Tablet | SpecGx LLC |
+
+Dosage forms on the US market include oral tablets, concentrate, solution and injection.
 
 ---
 
@@ -98,13 +108,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The only direct clinical evidence for methadone in Tourette syndrome is a single 1992 case report, with no registered clinical trials and no confirmed mechanistic pathway. Evidence level is L4 (preclinical/mechanism-adjacent only), which does not support advancing past initial hold at this stage.
+The only direct support for methadone in Tourette syndrome is a single 1992 clinical report, with no registered trials and no controlled data. The high model score (99.76%) is not corroborated, so this stays a research question.
 
 **To proceed, the following is needed:**
-- TFDA/FDA label warnings and contraindications (currently a Blocking data gap — required before any S1 safety evaluation)
-- Confirmed mechanism of action data for methadone
-- Confirmed original indication and regulatory license data (currently absent from the evidence pack)
-- Additional controlled clinical evidence (case series, cohort study, or trial) beyond the single 1992 case report before considering escalation
+- Mechanism of action data for methadone, to test the proposed opioid–dopaminergic link
+- The US package insert (warnings and contraindications), which is needed for any safety screening
+- A systematic literature review, including a search for later case series or trials in Tourette syndrome
+- A risk–benefit assessment against established Tourette therapies, given methadone's dependence and safety profile
+- Consideration of the other predicted indications in the same pack. Headache disorder has slightly more evidence (a 2021 prospective study of low-dose methadone in refractory chronic migraine), but it carries conflicting signals, including opioid-induced hyperalgesia and medication-overuse headache.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

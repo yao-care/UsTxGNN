@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Rotigotine
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 1137
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Rotigotine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Rotigotine: From Parkinson's Disease/Restless Legs Syndrome to Attention-Deficit/Hyperactivity Disorder
+# Rotigotine: From Parkinson's Disease and Restless Legs Syndrome to Attention Deficit-Hyperactivity Disorder
 
 ## One-Sentence Summary
 
-> Rotigotine is a non-ergot dopamine receptor agonist reported in the literature as being used to treat Parkinson's disease and restless legs syndrome (no confirmed original indication is available in the structured regulatory data for this candidate).
-> The TxGNN model predicts it may be effective for **Attention-Deficit/Hyperactivity Disorder (ADHD)**,
-> with **0 clinical trials** and only **3 tangentially related publications** currently supporting this direction.
+Rotigotine is a dopamine agonist delivered as a skin patch, used for Parkinson's disease and restless legs syndrome.
+The TxGNN model predicts it may be effective for **attention deficit-hyperactivity disorder (ADHD)**, but there are currently **0 clinical trials** and only **3 indirect publications** (two RLS reviews and one preclinical study), so this is a hypothesis rather than a supported finding.
 
 ---
 
@@ -43,23 +42,25 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in regulatory license data; literature (PMID 37221270) references Parkinson's disease and restless legs syndrome as rotigotine's known uses |
-| Predicted New Indication | Attention-Deficit/Hyperactivity Disorder (ADHD) |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L4 (mechanistic/preclinical evidence only) |
-| US Market Status | ✗ Not Marketed |
-| Number of NDAs | 0 |
+| Original Indication | Parkinson's disease and restless legs syndrome (per the literature record, PMID 37221270; the license records list no indication text) |
+| Predicted New Indication | Attention deficit-hyperactivity disorder |
+| TxGNN Prediction Score | 99.997% |
+| Evidence Level | L4 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 6 license records (all listed under NDA021829) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data from DrugBank is currently a data gap (DG002). Based on the available literature within this evidence pack, rotigotine is a non-ergot dopamine receptor agonist active across the D1–D3 subtypes (one structural study, PMID 37221270, further characterizes it as a "pan-agonist" across all five human dopamine receptor subtypes, D1R–D5R). It is described in the literature as being used clinically for Parkinson's disease and restless legs syndrome (RLS).
+Rotigotine is a non-ergot dopamine agonist. It acts on dopamine receptors D1 through D5, mainly D3, D2 and D1, and also has some serotonergic and alpha-2B activity. The structured mechanism field is empty, so this description comes from the repurposing analysis.
 
-The mechanistic rationale for ADHD rests on the dopamine-deficiency hypothesis: ADHD is associated with reduced dopaminergic signaling in prefrontal-striatal circuits, and existing ADHD pharmacotherapies (stimulants, atomoxetine) act — directly or indirectly — to increase dopaminergic tone. A direct dopamine receptor agonist such as rotigotine could theoretically address this deficit.
+ADHD is linked to dopaminergic and noradrenergic dysfunction, so a dopamine-acting drug is a plausible but indirect fit. The retrieved literature covers restless legs syndrome, including in children. RLS is a related comorbidity but not ADHD. One preclinical paper on α2A-adrenoceptor/D4 dopamine receptor heteromerization supports biological plausibility only.
 
-However, the supporting literature retrieved for this candidate is weak and largely indirect: two of the three papers are general reviews of RLS (not ADHD), and only one (PMID 34182128) discusses a mechanism potentially relevant to ADHD — heteromerization between α2A-adrenoceptors and dopamine D4 receptor variants — without testing rotigotine itself in an ADHD model or population. No ADHD-specific preclinical, clinical trial, or case-report evidence exists in the current evidence pack. The prediction should therefore be treated as a mechanism-driven research hypothesis rather than clinically supported repurposing.
+Several points weigh against the prediction:
+- Rotigotine's approved profile contains no ADHD efficacy data.
+- Standard ADHD therapy works by blocking dopamine and norepinephrine reuptake, not by direct D2/D3 agonism.
 
 ---
 
@@ -73,21 +74,23 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [34182128](https://pubmed.ncbi.nlm.nih.gov/34182128/) | 2021 | Mechanistic/Receptor Study | Pharmacological research | Describes heteromerization between α2A-adrenoceptors and dopamine D4 receptor variants, a pathway implicated in ADHD; does not test rotigotine directly in ADHD models |
-| [21476956](https://pubmed.ncbi.nlm.nih.gov/21476956/) | 2011 | Review | Current pharmaceutical design | Review of pharmacological options for restless legs syndrome in children; not ADHD-specific |
-| [18656214](https://pubmed.ncbi.nlm.nih.gov/18656214/) | 2008 | Review | Revue neurologique | General review of restless legs syndrome pathophysiology and treatment; not ADHD-specific |
+| [21476956](https://pubmed.ncbi.nlm.nih.gov/21476956/) | 2011 | Review | Current Pharmaceutical Design | Review of pharmacological options for restless legs syndrome in children. It concerns RLS, not ADHD. |
+| [18656214](https://pubmed.ncbi.nlm.nih.gov/18656214/) | 2008 | Review | Revue Neurologique | General review of restless legs syndrome (clinical features, prevalence 2–3% in Western countries). Not ADHD-specific. |
+| [34182128](https://pubmed.ncbi.nlm.nih.gov/34182128/) | 2021 | Preclinical (in vitro) | Pharmacological Research | Heteromerization of α2A adrenoceptors with dopamine D4 receptor variants alters pharmacology. It notes the D4.7 variant and α2A gene are associated with ADHD. Biological plausibility only. |
 
 ---
 
 ## US Market Information
 
-No approved licenses or NDA records found for this candidate (`market_status: Not marketed / Not Marketed`, `total_licenses: 0`).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA021829 (5 identical records listed; UCB, Inc.) | Neupro | Extended-release patch | Not stated in the record; see the package insert |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No key warnings, contraindications, or drug interaction data are currently available for this candidate (structured safety fields are all data gaps, including a **blocking** gap: DG001 — TFDA label warnings/contraindications not yet retrieved).
+Please refer to the package insert for safety information.
 
 ---
 
@@ -96,14 +99,13 @@ Please refer to the package insert for safety information. No key warnings, cont
 **Decision: Hold**
 
 **Rationale:**
-The ADHD prediction is supported only by mechanistic/preclinical-tier literature (L4) with zero clinical trials, and the retrieved publications are largely about a different indication (RLS) rather than ADHD. Combined with a blocking safety data gap (no TFDA label data available) and the theoretical risk that a full D2/D3 dopamine agonist could carry a distinct adverse-effect profile in a psychiatric population (e.g., impulse-control disorders), the evidence does not currently support proceeding beyond a research question.
+The high TxGNN score is not backed by any clinical trial or direct rotigotine evidence for ADHD, and the mechanism differs from standard ADHD therapy. The other top predictions are weaker still: schizophrenia (also L4) carries a risk that dopamine agonists worsen psychosis, and the rest have no supporting literature or trials (L5).
 
 **To proceed, the following is needed:**
-- Resolve DG001 (blocking): obtain TFDA/official label warnings, contraindications, and precautions
-- Resolve DG002: confirm mechanism of action via DrugBank API
-- Confirm the drug's actual approved original indication(s) through official regulatory sources (current structured data has no license records)
-- Generate or identify ADHD-specific preclinical data (in vivo/in vitro) for rotigotine before considering clinical investigation
-- Assess safety signals specific to non-Parkinsonian, non-elderly populations (e.g., impulse-control disorder risk, cardiovascular tolerability in children/adolescents if pursuing pediatric ADHD)
+- The FDA package insert warnings and contraindications, currently missing. This blocks safety screening.
+- Detailed mechanism-of-action data from DrugBank.
+- Preclinical or early clinical evidence that rotigotine has an effect in ADHD, such as animal models or a pilot study.
+- An assessment of whether a dopamine agonist patch is appropriate for the ADHD population, including pediatric safety and abuse or impulse-control risks.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

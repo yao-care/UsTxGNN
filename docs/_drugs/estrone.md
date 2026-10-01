@@ -29,11 +29,12 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Estrone: From Unrecorded Original Indication to Elevated Plasma Zinc (Likely Spurious Signal)
+# Estrone: From an Unspecified Original Indication to Elevated Plasma Zinc
 
 ## One-Sentence Summary
 
-Estrone's original approved indication and mechanism of action are not documented in the available data (DrugBank and TFDA records return no confirmed original indication for this entry). TxGNN's top prediction links Estrone to **"elevated plasma zinc"** with a 99.81% score, but this is supported by only **0 clinical trials** and **2 tangentially related publications**, and the evidence pack's own mechanistic review flags it as a likely knowledge-graph artifact rather than a genuine repurposing hypothesis.
+Estrone is an estrogen hormone. The Evidence Pack does not record an approved indication for it.
+The TxGNN model predicts it may be relevant to **elevated plasma zinc**, but there are **0 clinical trials** and only **2 loosely related publications**, so this is a knowledge-graph prediction with no real supporting evidence yet.
 
 ---
 
@@ -41,23 +42,24 @@ Estrone's original approved indication and mechanism of action are not documente
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on file — no approved indication data available for Estrone |
-| Predicted New Indication | Elevated plasma zinc (a lab finding, not a formal disease diagnosis) |
+| Predicted New Indication | Zinc, elevated plasma |
 | TxGNN Prediction Score | 99.81% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L4 (as assigned in the Evidence Pack; the two papers are only loosely related) |
+| US Market Status | ✓ Marketed |
+| Number of Licenses | 20 (license numbers not recorded) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for Estrone is not available in this evidence pack, and no confirmed original approved indication is on file. This absence limits any formal assessment of mechanistic plausibility between Estrone and either predicted target.
+Currently, detailed mechanism of action data is not available. No established pharmacological mechanism links estrone to plasma zinc levels.
 
-For the top-ranked prediction, **"zinc, elevated plasma,"** the evidence pack's own rationale flags this as likely model noise: elevated plasma zinc is a laboratory finding rather than a clinical diagnosis, and TxGNN's knowledge graph is known to occasionally match drugs to lab-value nodes instead of genuine disease indications. While estrogens can theoretically influence ceruloplasmin and trace-element metabolism, no retrieved literature directly supports Estrone lowering plasma zinc — the two associated publications discuss unrelated topics (pituitary-gonadal recovery in malnourished men; iron/antioxidant status with soy protein in perimenopausal women). This prediction should be treated as a spurious node match rather than a real repurposing hypothesis.
+The two retrieved papers are only indirectly related. One studies gonadal hormone status in malnourished men, a setting where zinc status is a known confounder. The other studies soy protein and iron/antioxidant indexes in perimenopausal women, where estrogen status is a covariate and zinc is not the outcome.
 
-The second-ranked prediction, **pyogenic arthritis-pyoderma gangrenosum-acne (PAPA) syndrome**, is a PSTPIP1-driven autoinflammatory disease centered on IL-1β pathway hyperactivation, typically treated with IL-1 or TNF inhibitors. Estrone, as an estrogen receptor agonist, has no established mechanistic link to this inflammasome pathway — only a weak, unsupported hypothesis about general estrogen-immune modulation exists, with zero clinical trials or literature to substantiate it.
+The very high TxGNN score (0.998) reflects a knowledge-graph association only. Without a documented mechanism or original indication, it cannot be checked pharmacologically.
+
+A second prediction, **pyogenic arthritis-pyoderma gangrenosum-acne (PAPA) syndrome** (score 99.30%, evidence level L5), has no trials or literature. PAPA is a rare IL-1-driven autoinflammatory disorder, and no link to estrone is documented in the supplied data.
 
 ---
 
@@ -71,20 +73,22 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [807594](https://pubmed.ncbi.nlm.nih.gov/807594/) | 1975 | Cohort | The Journal of Clinical Endocrinology and Metabolism | Studied the pituitary-gonadal axis in malnourished men; testosterone/LH normalized with refeeding. No direct mention of estrone or zinc. |
-| [12081830](https://pubmed.ncbi.nlm.nih.gov/12081830/) | 2002 | Cohort | The American Journal of Clinical Nutrition | Examined iron indexes and antioxidant status with soy protein intake in perimenopausal women; notes estrogen deficiency may relate to oxidative stress and iron stores, but does not address plasma zinc or Estrone directly. |
+| [807594](https://pubmed.ncbi.nlm.nih.gov/807594/) | 1975 | Observational | J Clin Endocrinol Metab | In 28 men with severe protein-calorie malnutrition, clinical hypogonadism and low testosterone were seen with high LH. Testosterone recovered to normal after 2-5 months of refeeding. Zinc is not the study outcome. |
+| [12081830](https://pubmed.ncbi.nlm.nih.gov/12081830/) | 2002 | Clinical study | Am J Clin Nutr | Examined iron indexes and antioxidant status with soy protein intake in perimenopausal women. The outcome is iron, not zinc, and the design was not verified. |
 
 ---
 
 ## US Market Information
 
-Currently no US market authorization records available (market status: Not Marketed, 0 licenses on file).
+The Evidence Pack lists 5 main entries. They are identical: product **Folliculinum**, dosage form **pellet**, manufacturer **Boiron**. License numbers and approved-indication text are not recorded.
+
+Across all 20 licenses, the recorded dosage forms are pellet, liquid, spray, oral tablet, and solution/drops.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug-drug interaction data are not currently available for Estrone in this evidence pack — this is flagged as a Blocking data gap, DG001.)
+Please refer to the package insert for safety information.
 
 ---
 
@@ -93,13 +97,14 @@ Please refer to the package insert for safety information. (Key warnings, contra
 **Decision: Hold**
 
 **Rationale:**
-Both predicted indications carry Evidence Level L5 (model prediction only), with zero clinical trials for either candidate and only two loosely related publications for the top candidate. The top-ranked "zinc, elevated plasma" signal is explicitly assessed as a likely spurious knowledge-graph match rather than a genuine indication, and Estrone is not currently marketed in the US.
+The prediction rests only on a knowledge-graph score. There are no clinical trials, the two papers do not address zinc, no mechanism is documented, and the original indication and safety data are missing.
 
 **To proceed, the following is needed:**
-- Estrone's original approved indication and mechanism of action (currently missing — DG002, High severity)
-- TFDA/US labeling warnings and contraindications (currently missing — DG001, Blocking severity, required before any S1 safety review)
-- A data-quality review of whether "zinc, elevated plasma" should be excluded from TxGNN's disease vocabulary as a non-disease lab-finding node
-- If PAPA syndrome is pursued further, preclinical mechanistic studies connecting estrogen signaling to IL-1β/inflammasome activity, since none currently exist
+- Mechanism of action data (MOA), for example from DrugBank
+- Package insert warnings and contraindications, which are blocking for safety screening
+- The original approved indication and license numbers for the marketed products
+- A targeted literature search on estrogen exposure and plasma zinc, to test whether a plausible link exists
+- Reassessment of the evidence level if no direct evidence is found (L5 would be more appropriate)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,13 +29,12 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Lincomycin: From Bacterial Infections (indication undocumented) to Polyclonal Hyperviscosity Syndrome
+# Lincomycin: From Bacterial Infections to Polyclonal Hyperviscosity Syndrome
 
 ## One-Sentence Summary
 
-Lincomycin is a lincosamide-class antibacterial agent; its original approved indication is not documented in this evidence pack, and the drug currently has no market authorization on record (0 licenses).
-The TxGNN model predicts it may be effective for **Polyclonal Hyperviscosity Syndrome**,
-but this direction is currently supported by **0 clinical trials** and **0 publications** — the score reflects knowledge-graph embedding similarity only, not clinical or mechanistic evidence.
+Lincomycin is a lincosamide antibiotic marketed in the US as an injectable.
+The TxGNN model predicts it may be effective for **polyclonal hyperviscosity syndrome**, but there are currently **0 clinical trials** and **0 publications** supporting this direction. This is a model prediction only.
 
 ---
 
@@ -43,23 +42,28 @@ but this direction is currently supported by **0 clinical trials** and **0 publi
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in evidence pack (no license records; MOA data unavailable) |
-| Predicted New Indication | Polyclonal Hyperviscosity Syndrome |
+| Original Indication | Not listed in the US regulatory record (lincomycin is a lincosamide antibiotic used for bacterial infections) |
+| Predicted New Indication | Polyclonal hyperviscosity syndrome |
 | TxGNN Prediction Score | 99.14% |
 | Evidence Level | L5 |
-| Market Status | Not marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 14 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for Lincomycin. Based on known pharmacological classification, Lincomycin belongs to the lincosamide class of antibacterial agents; however, its original approved indication is not captured in this evidence pack (no license records exist — the drug is not currently marketed), which limits any structured comparison between an original and a new indication.
+Currently, detailed mechanism of action data is not available in the source record. Lincomycin is known to be a lincosamide antibiotic. It inhibits bacterial protein synthesis by binding the 50S ribosomal subunit. The record lists no original indications.
 
-Polyclonal hyperviscosity syndrome is typically associated with plasma cell dyscrasias and immunoglobulin abnormalities — a disease mechanism unrelated to known antibacterial pharmacology. No mechanistic pathway linking Lincomycin to this condition can be established from the data available.
+Polyclonal hyperviscosity syndrome arises from excess serum immunoglobulins, usually in chronic inflammatory or autoimmune states. It is not a bacterial disease, and no credible mechanistic link to lincomycin was identified. The high score cannot be checked against known pharmacology and may reflect knowledge-graph topology rather than biology.
 
-As the evidence pack itself notes: the TxGNN score (0.9914) is high, but this reflects knowledge-graph embedding similarity, not mechanistic, clinical, or literature evidence. With zero supporting clinical trials or publications, this prediction should be treated as an unvalidated computational hypothesis only.
+The other two top predictions show the same pattern:
+
+- **Hyperamylasemia** (score 99.14%, the same as the first prediction): this is a laboratory finding with many causes, not a disease a drug treats directly. Lincomycin has no known amylase-modulating or pancreatic mechanism. The identical score suggests a shared graph-neighborhood artifact.
+- **Congenital analbuminemia** (score 99.06%): this is a rare genetic disorder of albumin synthesis. An antibiotic acting on bacterial ribosomes is not expected to correct it.
+
+All three predictions have no supporting trials or literature.
 
 ---
 
@@ -75,15 +79,22 @@ Currently no related literature available.
 
 ---
 
-## Market Information
+## US Market Information
 
-Lincomycin is not currently marketed in the reference jurisdiction — no license/authorization records exist (0 NDAs on file), so no product/dosage-form details are available.
+The record shows 14 authorizations in total. The main injectable authorizations are listed below. Approved-indication text is not included in the source record.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA050317 | Lincocin | Injection, solution | Pharmacia & Upjohn Company LLC |
+| ANDA212770 | Lincomycin | Injection | PAI Holdings, LLC dba PAI Pharma |
+| ANDA215657 | Lincomycin | Injection, solution | Sagent Pharmaceuticals |
+| ANDA215657 | Lincomycin hydrochloride | Injection, solution | Gland Pharma Limited |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Note: TFDA label warnings/contraindications data is currently a blocking data gap (DG001) — this must be resolved before any safety pre-assessment (S1) can proceed.
+No drug-interaction records were found. Please refer to the package insert for safety information.
 
 ---
 
@@ -92,15 +103,13 @@ Please refer to the package insert for safety information. Note: TFDA label warn
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a TxGNN embedding score (L5, decision stage S0) with zero clinical trials, zero literature, no established mechanism of action, and no market presence for the drug itself. There is no basis to advance beyond model prediction at this time.
+The prediction rests only on a TxGNN score, with no clinical trials, no literature, and no plausible mechanistic link. Polyclonal hyperviscosity syndrome, hyperamylasemia, and congenital analbuminemia are all poorly matched to an antibacterial mechanism. Safety data is also missing, so the candidate cannot move to safety screening.
 
 **To proceed, the following is needed:**
-- TFDA (or equivalent) package insert — warnings, contraindications (DG001, blocking)
-- Verified mechanism of action data via DrugBank API (DG002)
-- Documentation of Lincomycin's original approved indication(s)
-- Any preclinical or mechanistic literature connecting lincosamide antibiotics to plasma-cell/immunoglobulin-related pathology, if it exists
-
-**Note:** Two additional TxGNN-predicted indications for this drug (hyperamylasemia, congenital analbuminemia) were evaluated in the same evidence pack and show the same profile — L5 evidence, zero supporting trials/literature, Hold recommendation. Congenital analbuminemia in particular is a genetic disorder not amenable to pharmacological correction, which further weakens confidence in the underlying prediction set for this drug.
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action and original indication data from DrugBank
+- A literature and trial search that identifies any biological basis for the predicted link
+- A check of whether the high scores are a knowledge-graph artifact, for example by reviewing neighboring drugs and diseases in the graph
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

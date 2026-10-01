@@ -29,87 +29,80 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Ponatinib: From Unspecified Original Indication to Fibromatosis, Gingival
+# Ponatinib: From a Multi-Kinase Inhibitor to Gingival Fibromatosis
 
 ## One-Sentence Summary
 
-> Ponatinib's original approved indication and mechanism of action are not available in the current evidence pack (data gaps DG001/DG002).
-> The TxGNN model predicts it may be effective for **Fibromatosis, Gingival**,
-> but currently **no clinical trials or published literature** support this specific prediction — evidence rests solely on the model score.
-
----
+Ponatinib is an oral multi-kinase inhibitor marketed in the US as Iclusig. The TxGNN model predicts it may be effective for **gingival fibromatosis**, but there are **0 clinical trials** and **0 publications** supporting this prediction. It rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (data gap) |
-| Predicted New Indication | Fibromatosis, Gingival |
+| Predicted New Indication | Fibromatosis, gingival |
 | TxGNN Prediction Score | 99.04% |
-| Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 4 license records (all under NDA203469) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on the information provided, ponatinib's original approved indication(s) and MOA are recorded as data gaps in this evidence pack (DG001 — TFDA labeling/warnings, DG002 — MOA), so a mechanistic rationale linking any original indication to gingival fibromatosis cannot be constructed from the available data.
+Currently, detailed mechanism of action data is not available in the supplied data. Ponatinib is described as a multi-kinase inhibitor that targets BCR-ABL, FGFR, PDGFR, VEGFR and SRC-family kinases.
 
-Without MOA or original-indication data, this prediction currently rests entirely on the TxGNN knowledge-graph score (99.04%, rank 20,750). No independent clinical or mechanistic evidence in the pack corroborates a biological link between ponatinib and gingival fibromatosis at this time.
+Gingival fibromatosis is a fibroblast-driven overgrowth of gum tissue. In theory, PDGFR and FGFR signaling could contribute to it, and ponatinib inhibits both. This link is speculative. The supplied data contain no trials, literature or mechanistic studies connecting ponatinib to this condition, and the high score is a model output, not evidence. The score's rank of 20,750 also suggests it should not be read as a strong signal.
 
----
+**Other prediction:** The second-ranked prediction, liposarcoma (score 99.00%), has one supporting paper. It is a preclinical kinase-profiling and drug-screening study (PMID 29132397, *J Hematol Oncol*, 2017). It has not been confirmed that ponatinib itself was tested in that study. Liposarcoma is a more biologically plausible direction for a kinase inhibitor and may be worth a separate evaluation.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
-
----
-
-## Additional Predicted Indication (Rank 2, for context)
-
-A second candidate — **Liposarcoma** (TxGNN score 99.00%, rank 21,454) — has one supporting literature reference, though it has not yet undergone tier/relevance classification:
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [29132397](https://pubmed.ncbi.nlm.nih.gov/29132397/) | 2017 | Preclinical (RNAi/drug screening) | J Hematol Oncol | Kinase profiling in liposarcoma identified druggable kinase targets, supporting a rationale for kinase-inhibitor repurposing in this understudied cancer |
-
-No clinical trials are currently registered for this indication either.
-
----
+Currently no related literature available.
 
 ## US Market Information
 
-No license/authorization records are available — Taiwan regulatory status is "Not Marketed" with 0 total licenses on file.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| NDA203469 | Iclusig | Film-coated tablet (oral) | Takeda Pharmaceuticals America, Inc. |
 
----
+The four license records are identical in the supplied data and are shown once. No approved-indication text was provided.
+
+## Cytotoxicity
+
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Targeted therapy (multi-kinase inhibitor) |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | Please refer to the package insert warnings and precautions |
+| Handling Protection | Please refer to the package insert warnings and precautions |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Detailed TFDA warnings and contraindications could not be retrieved for this evidence pack (data gap DG001, severity: Blocking).
+- **Boxed warnings (from the evidence pack's rationale text, not a label extract):** arterial occlusive events, venous thromboembolism, heart failure and hepatotoxicity. These must be verified against the current US package insert.
+- **Drug interactions:** no interaction data were found.
 
----
+The serious cardiovascular and hepatic risks would be hard to justify for a benign condition such as gingival fibromatosis without strong efficacy evidence.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The lead prediction (gingival fibromatosis) has no supporting clinical trials or literature, and a Blocking-severity safety data gap (TFDA warnings/contraindications) prevents even an initial safety screen. Evidence is currently model-score-only (L5).
+The prediction has no clinical, preclinical or mechanistic support in the supplied data. It is also blocked by missing package insert safety data (blocking gap DG001), and ponatinib's boxed warnings weigh heavily against use in a non-life-threatening condition.
 
 **To proceed, the following is needed:**
-- TFDA/FDA label PDF (warnings, contraindications) to clear the Blocking safety gap (DG001)
-- Confirmed mechanism of action via DrugBank API (DG002)
-- Original approved indication(s) for ponatinib, to establish a mechanistic bridge to the predicted indication
-- Targeted literature/clinical-trial search specifically for ponatinib and gingival fibromatosis
-- If pursuing the liposarcoma signal instead, formal tier/relevance classification of PMID 29132397 and a search for corroborating trials
+- The full US package insert, including warnings, contraindications and approved indications (blocking gap)
+- Mechanism of action data from DrugBank
+- A literature and trial search for ponatinib or other FGFR/PDGFR inhibitors in gingival fibromatosis and related fibroproliferative conditions
+- Preclinical evidence that PDGFR/FGFR signaling drives gingival fibromatosis
+- A benefit-risk assessment against the boxed warnings
+- Consideration of prioritizing the liposarcoma prediction, after checking the full text of PMID 29132397 to see whether ponatinib was tested
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

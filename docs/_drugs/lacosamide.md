@@ -29,94 +29,85 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Lacosamide: From Epilepsy to Manic Bipolar Affective Disorder
+# Lacosamide: From Partial-Onset Seizures to Manic Bipolar Affective Disorder
 
 ## One-Sentence Summary
 
-Lacosamide is an antiepileptic drug (anticonvulsant) currently used for the treatment of epilepsy, specifically partial-onset seizures. The TxGNN model predicts it may be effective for **Manic Bipolar Affective Disorder**, with **1 clinical trial** and **14 publications** currently supporting this direction — though the evidence base remains preliminary, and most of that evidence actually concerns the depressive rather than the manic pole of bipolar disorder.
-
----
+Lacosamide is an antiseizure medication; the literature in the Evidence Pack describes it as an adjunctive treatment for partial-onset seizures. The TxGNN model predicts it may be useful for **manic bipolar affective disorder**. Support is early: **1 Phase 3 trial** (recruiting, no results) and a small set of publications, mostly a retrospective cohort, an open-label pilot and case reports. Those studies concern bipolar depression rather than mania.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Epilepsy (partial-onset seizures) — inferred from trial/literature context in the evidence pack; no formal TFDA license record was found |
-| Predicted New Indication | Manic Bipolar Affective Disorder |
+| Original Indication | Not listed in the US label data provided (literature describes partial-onset seizures) |
+| Predicted New Indication | Manic bipolar affective disorder |
 | TxGNN Prediction Score | 99.96% |
 | Evidence Level | L3 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of NDAs | 0 |
-| Recommended Decision | Research Question |
-
----
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (the authorizations listed are generic ANDAs) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (MOA marked as a data gap). Based on known information, Lacosamide belongs to the antiepileptic drug (AED) / anticonvulsant class, and its efficacy in epilepsy (partial-onset seizures) has been established; mechanistically, this class may be applicable to mood disorders such as bipolar disorder.
+Lacosamide enhances slow inactivation of voltage-gated sodium channels and modulates CRMP2. Both actions stabilize neuronal membranes, and they are plausibly related to mood-stabilizing anticonvulsants such as lamotrigine and valproate. Anticonvulsants have been used in psychiatry as mood stabilizers since the 1950s, which gives the prediction a reasonable pharmacological basis.
 
-The supporting literature indicates lacosamide's mechanism consists of selective slow inactivation of voltage-gated sodium channels, promoting extended stabilization of neuronal cell membranes (PMID 28845834). Sodium-channel-blocking anticonvulsants — such as lamotrigine, carbamazepine, and valproate — are an already-established class of mood stabilizers, which is the pharmacological rationale for testing lacosamide in bipolar disorder.
+The match to the predicted disease is only partial. The clinical signals so far come from **bipolar depression**: an open-label pilot, a retrospective cohort and the ongoing Phase 3 trial. None of them tests lacosamide in acute mania. Detailed official mechanism-of-action data was not available in the pack, so the mechanism above comes from the literature and the model's rationale.
 
-However, an important caveat applies: the direct mechanistic and clinical evidence specifically supports the **depressive** pole of bipolar disorder rather than the **manic** pole named in this prediction. The single registered clinical trial (NCT07412132) targets major depressive episodes in bipolar I/II disorder, not mania, and the open-label pilot data (PMID 33666402) similarly concerns bipolar depression. Evidence for a mechanistic link to mania specifically remains weak.
-
----
+Of the 10 predictions for this drug, rank 5 (**migraine disorder**) has much stronger direct evidence (completed Phase 3 RCTs, evidence level L1). It is worth a separate evaluation.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT07412132](https://clinicaltrials.gov/study/NCT07412132) | Phase 3 | Recruiting | 40 | Evaluates lacosamide as an augmentation treatment for major depressive episodes in bipolar I/II disorder, building on prior observational/open-label signals of improved depressive and manic symptoms in BD; trial targets the depressive pole, not mania directly; results not yet available (est. completion 2027-01) |
-
----
+| [NCT07412132](https://clinicaltrials.gov/study/NCT07412132) | Phase 3 | Recruiting | 40 | Randomized, double-blind, parallel-group trial of lacosamide as augmentation to standard treatment in moderate to severe major depressive episodes of bipolar I and II disorder. Targets the depressive pole, not mania. No results yet. |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [33666402](https://pubmed.ncbi.nlm.nih.gov/33666402/) | 2021 | Open-label pilot trial | J Clin Psychopharmacol | 12-week open-label pilot study of lacosamide specifically in bipolar depression — the most direct clinical evidence in this evidence pack |
-| [30251375](https://pubmed.ncbi.nlm.nih.gov/30251375/) | 2018 | Retrospective cohort | Psychiatry Clin Neurosci | 30-day comparison of lacosamide vs. a retrospective control group treated with other antiepileptics in bipolar disorder without epilepsy |
-| [30275630](https://pubmed.ncbi.nlm.nih.gov/30275630/) | 2018 | Case report | Indian J Psychol Med | Reports neutropenia precipitated by lacosamide in a patient with bipolar disorder and comorbid epilepsy — a safety signal, not an efficacy signal |
-| [28845834](https://pubmed.ncbi.nlm.nih.gov/28845834/) | 2017 | Case report | Acta Biomed | Clinical stabilization with lacosamide of mood disorder comorbid with PTSD and fronto-temporal epilepsy; describes the sodium-channel slow-inactivation mechanism as basis for mood stabilization |
-| [29253680](https://pubmed.ncbi.nlm.nih.gov/29253680/) | 2018 | Prospective multicenter study | Epilepsy Behav | Lacosamide's effect on depression and anxiety symptoms in focal refractory epilepsy patients — indirect mood-related signal in a related population |
-| [29957667](https://pubmed.ncbi.nlm.nih.gov/29957667/) | 2018 | Review | Ther Drug Monit | Update on therapeutic drug monitoring of AEDs; notes AEDs including lacosamide are also used in bipolar disorder management |
-| [32693579](https://pubmed.ncbi.nlm.nih.gov/32693579/) | 2020 | Mechanistic review | ACS Chem Neurosci | Reviews CRMP2 as a druggable target relevant to lacosamide's mechanism, providing indirect mechanistic support |
-| [22210279](https://pubmed.ncbi.nlm.nih.gov/22210279/) | 2012 | Review | Adv Drug Deliv Rev | Background review of chemical properties of AEDs approved 1990–2011, including lacosamide |
-| [16732716](https://pubmed.ncbi.nlm.nih.gov/16732716/) | 2006 | Review | Expert Opin Investig Drugs | Background review of second-generation AEDs |
-| [40072331](https://pubmed.ncbi.nlm.nih.gov/40072331/) | 2025 | Database study | Epilepsia | Real-world therapeutic drug monitoring concentration ranges for antiseizure medications — indirect background data |
-
----
+| [33666402](https://pubmed.ncbi.nlm.nih.gov/33666402/) | 2021 | Open-label pilot trial | J Clin Psychopharmacol | 12-week open-label pilot of lacosamide for bipolar depression. Results not in the retrieved text. |
+| [30251375](https://pubmed.ncbi.nlm.nih.gov/30251375/) | 2018 | Retrospective cohort | Psychiatry Clin Neurosci | 30-day comparison of lacosamide vs other antiepileptics in bipolar patients without epilepsy. Described as the first test of lacosamide in bipolar disorder. |
+| [30275630](https://pubmed.ncbi.nlm.nih.gov/30275630/) | 2018 | Case report (safety) | Indian J Psychol Med | Lacosamide-precipitated neutropenia in a patient with bipolar disorder and epilepsy. |
+| [28845834](https://pubmed.ncbi.nlm.nih.gov/28845834/) | 2017 | Case report | Acta Biomed | Clinical stabilisation with lacosamide of a mood disorder comorbid with PTSD and fronto-temporal epilepsy. |
+| [29253680](https://pubmed.ncbi.nlm.nih.gov/29253680/) | 2018 | Prospective multicenter study | Epilepsy Behav | Effect of lacosamide on depression and anxiety symptoms in focal refractory epilepsy. Indirect evidence for mood effects. |
+| [32693579](https://pubmed.ncbi.nlm.nih.gov/32693579/) | 2020 | Review | ACS Chem Neurosci | Review of CRMP2 as a drug target. Supports the CRMP2 mechanism. |
+| [38304661](https://pubmed.ncbi.nlm.nih.gov/38304661/) | 2024 | Case report | Cureus | Management of a pregnant patient with bipolar I disorder and multiple comorbidities. Lacosamide use is not confirmed in the retrieved text. |
+| [29957667](https://pubmed.ncbi.nlm.nih.gov/29957667/) | 2018 | Review | Ther Drug Monit | Antiepileptic drug monitoring update. Notes AEDs are also used for bipolar disorder. Background only. |
 
 ## US Market Information
 
-Lacosamide is currently **not marketed in Taiwan** (`Not marketed`) and no license/NDA records were found in this evidence pack (0 authorizations).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA214695 | Lacosamide | Tablet, film coated | Not listed in the data |
+| ANDA208308 | Lacosamide | Tablet | Not listed in the data |
+| ANDA216335 | Lacosamide | Injection | Not listed in the data |
+| ANDA216151 | Lacosamide | Solution | Not listed in the data |
+| ANDA204974 | Lacosamide | Tablet, film coated | Not listed in the data |
 
----
+Oral, injectable and solution forms are all available, so route of administration is unlikely to be a barrier.
 
 ## Safety Considerations
 
-Formal safety data (key warnings, contraindications, drug-drug interactions) were not available for this candidate — the DDI query returned no results, and this represents a **blocking data gap** for safety pre-screening (TFDA label/warnings not yet retrieved).
+- **Neutropenia signal**: one case report describes neutropenia precipitated by lacosamide in a patient with bipolar disorder and epilepsy (PMID 30275630). This is a single case, but it is relevant to a psychiatric population.
+- **Drug interactions**: no interaction records were found in the database query.
 
-Please refer to the package insert for safety information.
-
-*Supplementary note:* one case report in the literature above (PMID 30275630) describes lacosamide-precipitated neutropenia in a bipolar patient with comorbid epilepsy. This is a single case report, not formal labeling data, but it is an early hematologic safety signal worth tracking as this candidate advances.
-
----
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
-**Decision: Research Question**
+**Decision: Hold**
 
 **Rationale:**
-Evidence level is L3 (retrospective cohort and open-label pilot data only, no completed RCT), and the sole registered Phase 3 trial (NCT07412132) is still recruiting with results not expected until 2027. Critically, most supporting evidence addresses bipolar *depression* rather than the *manic* indication named by the TxGNN prediction, so the mechanistic case for mania specifically is not yet well established.
+The only trial is a small (n=40), still-recruiting Phase 3 study in bipolar depression, and the supporting literature is an open-label pilot, a retrospective cohort and case reports. Nothing tests lacosamide in mania, the predicted indication, and a neutropenia case report adds a safety question. Evidence is consistent with a research question, not a development decision.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (blocking gap, required for S1 safety pre-screening)
-- Detailed mechanism of action (MOA) documentation from DrugBank or equivalent source
-- Completion and readout of NCT07412132
-- Trial or observational data targeting manic (not just depressive) episodes specifically
-- Formal drug-drug interaction data (current DDI query returned no results)
+- Results from NCT07412132 and the full results of the 12-week open-label pilot (PMID 33666402)
+- Data specific to acute mania, or a decision to reframe the indication as bipolar depression
+- US package insert warnings and contraindications (not in the current data)
+- A haematological monitoring plan, given the neutropenia report
+- A separate evaluation of the migraine prediction (rank 5), which has stronger evidence
 
-*Note for context:* among this drug's other predicted indications in the same evidence pack, migraine disorder (rank 5) currently has substantially stronger evidence (L1, "Proceed with Guardrails," including a completed head-to-head Phase 3 RCT vs. propranolol) and may warrant a separate, higher-priority evaluation report.
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,88 +29,80 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-Using `txgnn-pipeline` skill — confirmed applicable to TxGNN Evidence Pack report generation.
-
-Now generating the evaluation report based on the Evidence Pack for Cevimeline (DB00185):
-
----
-
-# Cevimeline: From Dry Mouth (Sjögren's Syndrome) to Hypertrichosis
+# Cevimeline: From an Oral Muscarinic Agonist to Hypertrichosis
 
 ## One-Sentence Summary
 
-Cevimeline is a muscarinic M1/M3 receptor agonist primarily used to relieve dry mouth (xerostomia) in patients with Sjögren's syndrome, stimulating salivary and lacrimal gland secretion.
-The TxGNN model predicts it may be effective for **Hypertrichosis** (abnormal excessive hair growth),
-with **0 clinical trials** and **0 publications** currently supporting this direction — placing this at the lowest evidence level (**L5**).
-
----
+Cevimeline is an oral muscarinic (M1/M3) agonist marketed in the US as capsules.
+The TxGNN model predicts it may be effective for **Hypertrichosis**, but this is a graph-based prediction only, with **0 clinical trials** and **0 publications** specific to this indication.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No Taiwan registration; known approved use: dry mouth in Sjögren's syndrome |
+|------|------|
+| Original Indication | Not recorded in the source data (US labeling is generally for dry mouth, but this is not confirmed by the input) |
 | Predicted New Indication | Hypertrichosis |
 | TxGNN Prediction Score | 99.26% |
-| Evidence Level | L5 (Model prediction only, no supporting studies) |
-| Taiwan Market Status | Not marketed (Not Marketed) |
-| Number of Registered Products | 0 |
-| Recommended Decision | **Hold** |
-
----
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 15 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on the drug profile described in the repurposing rationale, Cevimeline is a muscarinic cholinergic agonist with selectivity for M1 and M3 receptor subtypes. It acts primarily on exocrine glands — particularly salivary and lacrimal glands — to stimulate fluid secretion, which is the basis of its use in Sjögren's syndrome-related xerostomia.
+Detailed mechanism of action data is not available in the input. Cevimeline is understood to be a muscarinic M1/M3 receptor agonist that stimulates glandular secretion.
 
-Hypertrichosis, the condition of abnormal and excessive hair growth across the body, is governed by the Wnt/β-catenin, FGF, and androgen signaling pathways within hair follicles. The biological overlap between these growth-regulatory cascades and muscarinic cholinergic signaling is extremely limited. While M3 receptors are expressed at trace levels in cutaneous keratinocytes, there is no established causal pathway from M3 agonism to systemic hair follicle over-activation or generalized hair overgrowth.
+Cholinergic signaling in hair follicle biology is a speculative link. No direct mechanism connecting muscarinic agonism to hair growth or to hypertrichosis has been established. The high score most likely reflects network proximity in the knowledge graph rather than a pharmacological rationale. Hypertrichosis is also a phenotype (often congenital or drug-induced) that is not obviously treatable by a secretagogue, and a "treatment" direction is unclear.
 
-The TxGNN model's high prediction score (99.26%) most likely reflects indirect topological proximity within the knowledge graph — shared node neighborhoods or co-occurrence patterns — rather than a direct, biologically meaningful mechanism. This is a known limitation of graph neural network models when applied to rare phenotypes with sparse graph connectivity. Without any corroborating clinical or preclinical evidence, the prediction cannot be considered actionable at this time.
+The other top predictions are weaker still:
 
----
+| Rank | Predicted Disease | Score | Comment |
+|------|------|------|------|
+| 2 | Ambras type hypertrichosis universalis congenita | 99.08% | Rare genetic disorder, no plausible pharmacologic link. Score probably inherited from the parent hypertrichosis node. |
+| 3 | Malformation syndrome with odontal and/or periodontal component | 99.07% | Only weak, indirect link (increased salivary flow might support oral health). Does not address a developmental malformation. |
+| 4 | Syndrome with Dandy-Walker malformation as major feature | 99.06% | Congenital posterior fossa defect, no plausible mechanism. |
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for hypertrichosis.
 
----
+The 20 publications retrieved for the rank 3 candidate (periodontal malformation syndrome) are general periodontitis reviews and guidelines, for example the EFP S3 guideline on stage IV periodontitis (PMID 35688447) and a Cochrane review on periodontitis and glycaemic control (PMID 35420698). None concern cevimeline, so they are background only and not drug-specific evidence.
 
-## Taiwan Market Information
+## US Market Information
 
-Cevimeline (DrugBank ID: DB00185) has no registered products in Taiwan. No TFDA-approved licenses are on record.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA020989 | cevimeline hydrochloride (Cosette Pharmaceuticals) | Capsule | Not listed |
+| NDA020989 | Evoxac (Cosette Pharmaceuticals) | Capsule | Not listed |
+| ANDA216682 | Cevimeline Hydrochloride (Bryant Ranch Prepack) | Capsule | Not listed |
+| ANDA215056 | Cevimeline Hydrochloride (Aurobindo Pharma) | Capsule | Not listed |
+| ANDA091591 | Cevimeline Hydrochloride (Hikma Pharmaceuticals USA) | Capsule | Not listed |
 
-> **Note:** Cevimeline is approved in the United States (brand name Evoxac®) for the treatment of dry mouth symptoms in Sjögren's syndrome patients. Taiwan regulatory status remains "not marketed."
-
----
+Only the oral capsule route is recorded. 15 authorizations exist in total, and 5 are shown.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-> Safety data (TFDA package insert warnings, contraindications, drug interactions) were not available at the time of this report. Retrieval from the TFDA official website is recommended before any further evaluation.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This prediction rests solely on the TxGNN model score (L5 evidence) — there are no registered clinical trials, no relevant publications, and no biologically plausible mechanistic pathway linking M1/M3 muscarinic agonism to the pathogenesis of hypertrichosis. Advancing this candidate would not be scientifically justified at this stage.
+The prediction rests only on a graph score, with no clinical trials, no drug-specific literature, and no plausible mechanistic link. Hypertrichosis and the other top predictions (congenital or developmental syndromes) are not credible targets for muscarinic agonism.
 
 **To proceed, the following is needed:**
+- Mechanism of action data (for example, via DrugBank) to test any cholinergic–hair follicle hypothesis
+- Package insert warnings and contraindications for safety screening
+- Preclinical or mechanistic evidence linking muscarinic signaling to hair growth
+- Confirmation of the approved indication text from US labeling
+- A clear definition of the intended therapeutic goal, since hypertrichosis is typically treated by reducing hair growth
 
-- **MOA data**: Retrieve full mechanism of action from DrugBank (DB00185) to confirm receptor selectivity and downstream signaling
-- **Safety data**: Download TFDA package insert PDF to extract warnings, contraindications, and drug interaction profiles
-- **Preclinical evidence**: Identify whether any in vitro or animal studies have examined M1/M3 agonists in hair follicle biology or skin biology
-- **Graph topology review**: Assess whether the TxGNN score reflects a true biological signal or is an artifact of knowledge graph architecture (e.g., shared disease neighbors unrelated to mechanism)
-- **Broader indication review**: Rank 3 prediction (**malformation syndrome with odontal/periodontal component**) shows a more biologically coherent indirect pathway — cevimeline → increased salivary secretion → oral microbiome protection → reduced periodontal pathogen burden — and carries 20 background literature references (L4). This indication warrants a separate, dedicated evaluation as a higher-priority repurposing candidate compared to hypertrichosis.
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

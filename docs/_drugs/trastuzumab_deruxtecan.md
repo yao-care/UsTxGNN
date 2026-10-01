@@ -29,72 +29,93 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Trastuzumab Deruxtecan: From Undocumented Original Indication to Drug-Induced Osteoporosis
+# Trastuzumab Deruxtecan: From HER2-Directed Cancer Therapy to Drug-Induced Osteoporosis
 
 ## One-Sentence Summary
 
-> The original approved indication for trastuzumab deruxtecan is not documented in the current evidence pack.
-> The TxGNN model predicts a possible association with **Drug-Induced Osteoporosis**,
-> but this signal is currently supported by **0 clinical trials** and **0 publications** — it is a pure computational prediction with no corroborating real-world evidence.
+Trastuzumab deruxtecan (Enhertu) is a HER2-directed antibody-drug conjugate (ADC) used in oncology.
+The TxGNN model predicts it may be effective for **drug-induced osteoporosis**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in current dataset |
-| Predicted New Indication | Drug-Induced Osteoporosis |
+| Predicted New Indication | Drug-induced osteoporosis |
 | TxGNN Prediction Score | 99.31% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 (BLA761139) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on the information present in the evidence pack, trastuzumab deruxtecan is identified as a HER2-targeted antibody-drug conjugate (ADC), but no original indication record exists in this dataset for comparison against the predicted new indication.
+Trastuzumab deruxtecan is an antibody-drug conjugate that targets HER2 and carries a topoisomerase I inhibitor payload (deruxtecan). It is a cytotoxic oncology agent with no known anti-resorptive or bone-anabolic activity. Detailed mechanism-of-action data are not available in the source record.
 
-The evidence pack's own mechanistic assessment is notably skeptical of this prediction: there is no known biological pathway linking HER2 signaling to bone metabolism regulation (the RANKL/OPG axis), and no established connection between HER2-targeted therapy and drug-induced osteoporosis. The assessment explicitly flags this association as likely arising from embedding-level noise in the TxGNN knowledge graph rather than reflecting genuine biological plausibility.
+**No credible direct mechanistic link to osteoporosis was identified.** The high score most likely reflects proximity in the knowledge graph. Patients with HER2-positive breast cancer often receive aromatase inhibitors, which cause drug-induced bone loss. The model has probably linked the drug to osteoporosis through this shared patient population, not through any therapeutic effect on bone.
 
-Given the absence of an original indication for comparison, the absence of MOA detail, and the explicit noise-signal caveat in the source rationale, this prediction should be treated as exploratory only and not as a basis for further pharmacological reasoning at this stage.
+The drug's own risks, including interstitial lung disease and myelosuppression, make benefit in a non-oncologic bone indication implausible. Treat this as an association artifact, not a repurposing rationale.
+
+---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
+
+---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
+
+---
 
 ## US Market Information
 
-This drug currently has **no market authorization records** (market status: Not Marketed; total licenses: 0). No NDA/product information is available in the evidence pack.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| BLA761139 | Enhertu | Lyophilized powder for injection solution | Daiichi Sankyo Inc. |
+
+---
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (HER2-directed antibody-drug conjugate) |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
+| Cytotoxicity Classification | Antibody-drug conjugate with a cytotoxic topoisomerase I inhibitor payload (targeted therapy) |
+| Myelosuppression Risk | Present (myelosuppression is a recognized risk); please refer to the package insert warnings and precautions for severity details |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Cytotoxic-payload-bearing ADC; handling per institutional hazardous drug protocols is expected, pending confirmation from official labeling |
+| Monitoring Items | CBC (with differential); respiratory symptoms and imaging for interstitial lung disease; refer to the package insert for full monitoring requirements |
+| Handling Protection | Follow cytotoxic drug handling regulations |
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Key Risks Noted in the Assessment**: Interstitial lung disease and myelosuppression.
+- **Drug Interactions**: No interaction records were found in the queried database.
+
+Please refer to the package insert for complete warnings and contraindications.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This prediction carries only L5 evidence (model output with no supporting clinical trials or literature), the drug has no market authorization on record, and the source rationale itself identifies the mechanistic link as likely noise. Combined with blocking data gaps in safety labeling (TFDA/label warnings and contraindications), this candidate cannot proceed past initial screening (S0).
+The prediction has no clinical or literature support (Evidence Level L5), and no plausible mechanistic link to bone loss was identified. The cytotoxic payload and its known toxicities make benefit in a non-oncologic bone indication unlikely.
 
 **To proceed, the following is needed:**
-- Original approved indication(s) for trastuzumab deruxtecan (currently missing)
-- Confirmed mechanism of action detail from DrugBank or official labeling
-- TFDA/FDA label warnings, contraindications, and drug interaction data (currently blocking data gap)
-- Independent mechanistic or preclinical evidence linking HER2-ADC therapy to bone metabolism/osteoporosis before any further evaluation is warranted
+- Package insert warnings and contraindications for safety screening
+- Detailed mechanism-of-action data
+- Any preclinical or clinical evidence showing a direct effect on bone metabolism, which would be needed to move beyond the knowledge-graph association
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

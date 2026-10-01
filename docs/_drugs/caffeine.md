@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Caffeine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 484
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
 ---
 
 # Caffeine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,119 +29,73 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Caffeine: From Analgesic Adjuvant to Hypnic Headache
+# Caffeine: From an Unspecified Original Indication to Nasal Cavity Disease
 
 ## One-Sentence Summary
 
-Caffeine is a methylxanthine alkaloid with established clinical uses as a CNS stimulant and analgesic adjuvant — currently carrying no approved indications in the regulatory database (0 licenses) despite widespread international pharmaceutical use including FDA-approved caffeine citrate for neonatal apnea of prematurity.
-The TxGNN model identifies 10 predicted new indications; while **nasal cavity disease** ranks first by prediction score (99.91%), the evidence pack shows this reflects nasal drug-delivery formulation research rather than a true therapeutic signal — **hypnic headache** (99.17%, rank 9) emerges as the most clinically validated target, with case series spanning 30+ years and international headache guidelines consistently recommending caffeine as first-line off-label therapy.
-Across all 10 predictions, only hypnic headache reaches **Evidence Level L3** with a **"Proceed with Guardrails"** decision; all others remain at Hold or Research Question.
-
----
+Caffeine is a long-marketed central nervous system stimulant, sold in the US as over-the-counter "Stay Awake" tablets, among other products. The license records give no approved indication text.
+The TxGNN model predicts it may be effective for **nasal cavity disease**, but there are **0 clinical trials** and only **3 publications**, none of which tests caffeine as a treatment for a nasal condition.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No approved products in regulatory database; internationally: neonatal apnea of prematurity, analgesic adjuvant |
-| Primary Featured Indication | Hypnic Headache (highest clinical evidence level among all 10 predictions) |
-| TxGNN Prediction Score | 99.17% |
-| Evidence Level | L3 |
-| Market Status | Not marketed (0 licenses in database) |
-| Number of Licenses | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+|------|------|
+| Original Indication | Not stated in the license data (products listed are "Stay Awake" tablets) |
+| Predicted New Indication | Nasal cavity disease |
+| TxGNN Prediction Score | 99.91% |
+| Evidence Level | L4 (preclinical and mechanism-level literature only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 licenses on record (the five listed are all numbered M011) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in this evidence pack (MOA: Data Gap). Based on established pharmacology, caffeine acts as a **non-selective adenosine receptor antagonist** (primary targets: A1 and A2A subtypes) and a **phosphodiesterase (PDE) inhibitor** at higher concentrations, producing CNS stimulation, cerebral vasoconstriction, enhanced catecholamine release, and modulation of pain signaling pathways.
+Detailed mechanism-of-action data is not currently available. Caffeine is generally known as an adenosine receptor antagonist. Its efficacy for alertness is well established, but no data in this pack links it mechanistically to a nasal disease.
 
-Hypnic headache disorder is a rare primary headache that exclusively awakens patients from sleep, predominantly affecting individuals over 50 years of age. Its pathophysiology centers on **adenosine accumulation during sleep** — particularly during REM phases — which activates pain-sensitive intracranial structures via A1/A2A receptors. Caffeine's pre-sleep adenosine receptor blockade directly interrupts this REM-linked triggering mechanism. This mechanistic alignment is tight, specific, and supported by observable clinical phenomena: patients consistently report relief when caffeine is consumed before sleep or immediately upon waking with headache, and the effect reverses upon caffeine withdrawal.
+The one plausible link comes from the literature. Caffeine is a bitter taste receptor (T2R) agonist. T2Rs are expressed in airway epithelium, including the nasal cavity, where they are involved in innate defense and ciliary responses. This is a reasonable hypothesis, but it is unproven and cannot be checked against a curated mechanism.
 
-This mechanistic rationale is substantially stronger than for caffeine's higher-ranked TxGNN predictions. Nasal cavity disease (rank 1) is supported only by a formulation study using caffeine as a drug-delivery vehicle for brain targeting — not as a therapeutic agent for nasal pathology itself. Hypnic headache, by contrast, has accumulated real-world clinical evidence across hundreds of reported cases in the headache literature, and caffeine is specifically named before lithium carbonate as the preferred first choice in expert consensus — an exceptional status for an off-label indication.
-
----
+The only nasal-related paper describes a caffeine nasal gel, and it uses the nose purely as a delivery route for cognition after sleep deprivation. It does not treat a nasal condition. The high model score is therefore not backed by direct evidence.
 
 ## Clinical Trial Evidence
 
-Currently no clinical trials related to caffeine and hypnic headache are registered on ClinicalTrials.gov.
-
-> The absence of registered trials reflects the rare-disease nature of hypnic headache (estimated prevalence <1% of all primary headache disorders) and the long-established informal clinical use of caffeine in this setting, rather than lack of efficacy evidence. Existing support derives from case series and expert consensus compiled over three decades.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [22072057](https://pubmed.ncbi.nlm.nih.gov/22072057/) | 2012 | Treatment Review | Current Treatment Options in Neurology | Explicitly designates caffeine as the **preferred first-line therapy** for both acute treatment (strong coffee upon waking) and prophylaxis (40–200 mg tablet before sleep); notes superior tolerability over lithium in the predominantly elderly population |
-| [31075680](https://pubmed.ncbi.nlm.nih.gov/31075680/) | 2019 | Case Series Review | Journal of the Neurological Sciences | Systematic review of **348 published hypnic headache cases (1988–2018)**; caffeine among the most frequently cited effective interventions across all case series |
-| [24942086](https://pubmed.ncbi.nlm.nih.gov/24942086/) | 2014 | Narrative Review | Cephalalgia | Reviews clinical features, ICHD-3β diagnostic criteria, and treatment outcomes; confirms caffeine 40–300 mg bedtime as effective prophylaxis with the most favorable tolerability profile |
-| [25231430](https://pubmed.ncbi.nlm.nih.gov/25231430/) | 2014 | Case Series / Review | Headache | Characterizes HH clinical profile and treatment hierarchy; recommends caffeine as first-line alongside lithium carbonate for prophylaxis |
-| [23832130](https://pubmed.ncbi.nlm.nih.gov/23832130/) | 2013 | Case Series / Review | Cephalalgia | Confirms caffeine's role in HH management; notes better tolerability than lithium in elderly patients and highlights the paradox of bedtime caffeine improving rather than disrupting sleep in HH |
-| [15111685](https://pubmed.ncbi.nlm.nih.gov/15111685/) | 2004 | Observational (PSG) | Neurology | Polysomnographic monitoring confirms HH attacks arise from both REM and non-REM sleep in the same patients — directly supports adenosine accumulation hypothesis underpinning caffeine's mechanism |
-| [33974014](https://pubmed.ncbi.nlm.nih.gov/33974014/) | 2021 | Narrative Review | JAMA | Comprehensive headache management review; contextualizes caffeine's established role across the sleep-related headache spectrum |
-| [35574653](https://pubmed.ncbi.nlm.nih.gov/35574653/) | 2023 | Narrative Review | Critical Reviews in Food Science and Nutrition | Reviews caffeine's health benefits and risks including sleep, migraine, and headache interactions; provides updated pharmacological context |
+|------|-----|------|------|---------|
+| [26272040](https://pubmed.ncbi.nlm.nih.gov/26272040/) | 2015 | Review | Pharmacology & Therapeutics | Bitter taste receptors are found in airways, including the nasal cavity. Supports a possible T2R-mediated mechanism, but it is not caffeine-specific evidence. |
+| [35579146](https://pubmed.ncbi.nlm.nih.gov/35579146/) | 2022 | Formulation / preclinical | Current Drug Delivery | Nasal thermo-sensitive in situ caffeine gel for cognition after sleep deprivation. The nose is a delivery route only, not a treatment target. |
+| [9751618](https://pubmed.ncbi.nlm.nih.gov/9751618/) | 1998 | Animal study | Cancer Research | Black tea and caffeine inhibited NNK-induced lung tumors in rats. Not related to nasal disease. |
 
----
+## US Market Information
 
-## Regulatory & Market Information
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| M011 | Stay Awake (Rite Aid Corporation) | Tablet | Not stated in the record |
+| M011 | Stay Awake (United Natural Foods, Inc. dba UNFI) | Tablet | Not stated in the record |
+| M011 | Stay Awake (Discount Drug Mart) | Tablet | Not stated in the record |
+| M011 | Stay Awake (AAA Pharmaceutical, Inc.) | Tablet | Not stated in the record |
+| M011 | Stay Awake (Retail Business Services, LLC.) | Tablet | Not stated in the record |
 
-No approved pharmaceutical products for caffeine were found in the regulatory database query.
-
-> **Context note:** Caffeine has established regulatory approvals internationally — including FDA-approved caffeine citrate (Cafcit®, NDA 020189) for apnea of prematurity in the United States, and caffeine is present in numerous approved combination analgesic formulations worldwide. The 0-license result reflects this database's specific scope and does not indicate a global absence of regulatory recognition.
-
----
+Across all 20 licenses, the dosage forms include oral tablets (plain, coated, film coated), injection and injection solution, chewable gel, pellet, and solution.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (No formal regulatory warning or contraindication data was available in this evidence pack.)
-
-**Specific considerations for hypnic headache off-label use:**
-- **Target population:** Predominantly >50 years; cardiovascular baseline assessment required before initiating
-- **Cardiovascular monitoring:** Heart rate and blood pressure — caffeine may exacerbate existing hypertension or precipitate palpitations/arrhythmias
-- **Dose range:** Clinical reports typically use 40–200 mg administered 30–60 minutes before sleep
-- **Paradoxical effect:** Bedtime caffeine does not worsen sleep in HH patients at therapeutic doses — this is disease-specific and should be communicated to patients
-- **Dependence and withdrawal:** Chronic use can produce caffeine dependence; abrupt discontinuation may itself trigger headache, requiring tapering guidance
-- **Exclusion criteria:** Rule out secondary hypnic-like headache (space-occupying lesions, sleep apnea, medication-overuse headache) before attributing to primary HH
-
----
+Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails** *(for hypnic headache)*
+**Decision: Hold**
 
 **Rationale:**
-Case series spanning over 30 years and headache specialty expert consensus consistently recommend caffeine as the first-choice treatment for hypnic headache, with a mechanistically coherent rationale — adenosine A1/A2A blockade interrupts the REM sleep-linked headache trigger — and a tolerability profile favorable for the elderly target population.
+The prediction rests on model score alone. There are no trials, and the three papers do not test caffeine for any nasal condition. The one mechanistic idea (T2R agonism in airway epithelium) is untested.
 
 **To proceed, the following is needed:**
-- Prospective pilot RCT: caffeine 100 mg vs. 200 mg vs. placebo, administered 30–60 minutes before sleep, minimum 12-week follow-up, primary endpoint: headache attack frequency per month
-- Standardized patient selection using ICHD-3 diagnostic criteria for hypnic headache; mandatory neuroimaging to exclude secondary causes
-- Cardiovascular safety monitoring protocol: baseline and monthly HR/BP, ECG for patients with arrhythmia history
-- Caffeine serum level characterization in elderly patients (CYP1A2 activity varies significantly with age and co-medications)
-- Regulatory consultation for formal off-label use documentation or orphan drug designation pathway (rare disease prevalence threshold may apply)
-
----
-
-### All 10 TxGNN-Predicted Indications — Summary
-
-| Rank | Indication | TxGNN Score | Evidence Level | Recommendation |
-|------|-----------|:-----------:|:--------------:|:--------------:|
-| 1 | Nasal Cavity Disease | 99.91% | L4 | Hold |
-| 2 | Thrombotic Disease | 99.90% | L4 | Research Question |
-| 3 | Acute Laryngopharyngitis | 99.89% | L5 | Hold |
-| 4 | Papillary Conjunctivitis | 99.79% | L5 | Hold |
-| 5 | Neuralgia | 99.34% | L3 | Research Question |
-| 6 | Glossodynia | 99.26% | L5 | Hold |
-| 7 | Coccygodynia | 99.22% | L5 | Hold |
-| 8 | Trigeminal Autonomic Cephalalgia | 99.21% | L4 | Research Question |
-| **9** | **Hypnic Headache** ★ | **99.17%** | **L3** | **Proceed with Guardrails** |
-| 10 | Vein Disease | 99.06% | L4 | Research Question |
-
-★ Primary featured indication — only entry reaching an actionable decision stage in this evidence pack
-
-> **Why neuralgia (rank 5) is Research Question rather than Hold:** Animal studies in trigeminal pain models (PMID 25710675) and neuropathic pain models (PMID 11711033) show caffeine modulates spinal adenosine A1 receptor-mediated antinociception; caffetin (caffeine + analgesic combination) has historical clinical use in cervicalgia (PMID 9214190). However, the critical counter-evidence — a case report showing that a *low-caffeine diet* resolved trigeminal neuralgia (PMID 1815552) — indicates bidirectional effects and warrants caution before advancing. A focused mechanistic study is warranted before clinical development.
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Preclinical or clinical work showing an effect of caffeine in a nasal disease model, and a defined nasal disease and route
+- Note: hypnic headache, another predicted indication for this drug, has a stronger evidence signal (L4, S1) and may be a better candidate to pursue first.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

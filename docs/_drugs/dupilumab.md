@@ -3,14 +3,14 @@ layout: default
 title: Dupilumab
 parent: Moderate Evidence (L3-L4)
 nav_order: 634
-evidence_level: L3
+evidence_level: L4
 indication_count: 10
 ---
 
 # Dupilumab
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,82 +29,76 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Dupilumab: From Atopic Dermatitis to Bronchitis
+# Dupilumab: From an Unspecified Approved Indication to Bronchitis
 
 ## One-Sentence Summary
 
-Dupilumab is an IL-4Rα-targeting monoclonal antibody whose established indications (documented in the accompanying literature) include moderate-to-severe atopic dermatitis and asthma. The TxGNN model predicts it may also be effective for **Bronchitis**, but this direction is currently supported by only **1 clinical trial** (not conducted in bronchitis patients) and **6 publications** (mostly on asthma/COPD, not bronchitis specifically) — the evidence is indirect, mechanism-based extrapolation rather than direct proof.
-
----
+Dupilumab is an IL-4 receptor alpha blocker marketed in the US as Dupixent. The supplied record does not list its approved indications.
+The TxGNN model predicts it may be effective for **bronchitis**, but the direct evidence is thin. There is **1 indirect clinical trial** (chronic rhinosinusitis, not bronchitis) and **6 publications** drawn mostly from asthma, COPD and a review of eosinophilic plastic bronchitis.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Atopic Dermatitis (also approved for asthma, CRSwNP — per literature in evidence pack; no Taiwan license record exists to confirm locally) |
+| Original Indication | Not specified in the supplied record |
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 99.92% |
-| Evidence Level | L3 |
-| Market Status (Taiwan) | ✗ Not Marketed |
-| Number of TFDA Licenses | 0 |
+| Evidence Level | L4 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 5 license records (all under one BLA, BLA761055) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed original mechanism-of-action data was flagged as a data gap in this evidence pack (DG002). However, the literature evidence collected for this candidate consistently describes dupilumab as a fully human monoclonal antibody that blocks the shared IL-4/IL-13 receptor subunit (IL-4Rα), thereby inhibiting Th2 ("type 2")-driven inflammation. This mechanism is well documented in the literature underlying its dermatitis and asthma evidence (e.g., PMID 25006719, PMID 28478972).
+The DrugBank mechanism-of-action field is empty in the supplied data. From the prediction rationale, dupilumab blocks IL-4Rα, which shuts down both IL-4 and IL-13 signaling and dampens type 2 inflammation. Type 2 inflammation drives eosinophilic airway disease such as asthma.
 
-The rationale for extending to bronchitis rests on the fact that Th2/eosinophilic inflammation is a shared pathway across several airway diseases — asthma, COPD, and eosinophilic bronchitis all involve overlapping IL-4/IL-13-driven mechanisms. Since dupilumab has proven efficacy in asthma (TRAVERSE extension study, PMID 34597534; meta-analysis, PMID 30273510), it is mechanistically plausible that it could benefit bronchitis as well.
+Bronchitis is an airway inflammatory condition, so the link is plausible for **eosinophilic or type 2-driven bronchial disease**. Examples are asthma-overlap phenotypes and eosinophilic plastic bronchitis. The evidence comes from asthma and COPD data and a review of eosinophilic plastic bronchitis, so it is indirect. No study tests dupilumab in bronchitis itself.
 
-That said, the model's own repurposing rationale flags an important caveat: the single registered clinical trial for this pairing (NCT04362501) was actually conducted in chronic rhinosinusitis without nasal polyps (CRSsNP), not bronchitis, and the literature largely addresses asthma/COPD rather than bronchitis itself. This is pharmacological extrapolation, not direct clinical evidence for bronchitis.
-
----
+The rationale does not hold for **acute or infectious bronchitis**, which has no clear type 2 mechanism. The prediction should therefore not be read as applying to bronchitis in general.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT04362501](https://clinicaltrials.gov/study/NCT04362501) | Phase 2 | Completed | 33 | Randomized, double-blind, placebo-controlled study of dupilumab in **chronic rhinosinusitis without nasal polyps (CRSsNP)** — not a bronchitis-specific trial. Relevance graded "C" (indirect): shares Th2 inflammatory mechanism but different disease population. |
+| [NCT04362501](https://clinicaltrials.gov/study/NCT04362501) | Phase 2 | Completed | 33 | Randomized, double-blind, placebo-controlled study of dupilumab in chronic rhinosinusitis without nasal polyps. It is an upper-airway type 2 disease, not a bronchitis population, so it gives only indirect support. No results were included in the supplied data. |
 
----
+No registered trial in the supplied data enrolls patients with bronchitis.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [34597534](https://pubmed.ncbi.nlm.nih.gov/34597534/) | 2022 | RCT Extension (TRAVERSE) | Lancet Respir Med | Long-term safety/efficacy of dupilumab in moderate-to-severe asthma beyond 1 year of treatment |
-| [30273510](https://pubmed.ncbi.nlm.nih.gov/30273510/) | 2019 | Meta-analysis | J Asthma | Systematic review/meta-analysis of RCTs on dupilumab efficacy and safety in uncontrolled asthma |
-| [39904363](https://pubmed.ncbi.nlm.nih.gov/39904363/) | 2025 | Review | Tuberc Respir Dis | Comprehensive review of pharmacologic therapies (including biologics) for preventing COPD exacerbations |
-| [38488768](https://pubmed.ncbi.nlm.nih.gov/38488768/) | 2024 | Review/Case | Pediatr Pulmonol | Novel therapies for eosinophilic pediatric plastic bronchitis |
-| [30196731](https://pubmed.ncbi.nlm.nih.gov/30196731/) | 2018 | N/A | Expert Opin Pharmacother | Discusses treatment challenges in smoking-induced airway diseases (chronic bronchitis, emphysema, ACO) in asthma patients |
-| [32428511](https://pubmed.ncbi.nlm.nih.gov/32428511/) | 2020 | N/A | Chest | MRI-based evaluation of anti-T2 biologic (dupilumab) effects on lung ventilation in prednisone-dependent severe asthma |
+| [30273510](https://pubmed.ncbi.nlm.nih.gov/30273510/) | 2019 | Systematic review / meta-analysis of RCTs | J Asthma | Pooled efficacy and safety of dupilumab versus placebo in uncontrolled asthma. Asthma evidence, not bronchitis. |
+| [34597534](https://pubmed.ncbi.nlm.nih.gov/34597534/) | 2022 | Open-label extension (TRAVERSE) | Lancet Respir Med | Long-term safety and efficacy of dupilumab in moderate-to-severe asthma beyond 1 year. |
+| [32428511](https://pubmed.ncbi.nlm.nih.gov/32428511/) | 2020 | Cohort / imaging study | Chest | Anti-T2 biologics, including dupilumab, and lung ventilation on MRI in prednisone-dependent asthma. |
+| [39904363](https://pubmed.ncbi.nlm.nih.gov/39904363/) | 2025 | Review | Tuberc Respir Dis | Pharmacologic options for preventing COPD exacerbations, including newer biologic agents. |
+| [30196731](https://pubmed.ncbi.nlm.nih.gov/30196731/) | 2018 | Review | Expert Opin Pharmacother | Managing asthma with smoking-induced airway disease (chronic bronchitis, emphysema, asthma-COPD overlap). These patients are excluded from most trials. |
+| [38488768](https://pubmed.ncbi.nlm.nih.gov/38488768/) | 2024 | Review | Pediatr Pulmonol | Novel therapies for eosinophilic pediatric plastic bronchitis. No abstract was supplied, so the findings are unconfirmed. |
 
----
+## US Market Information
 
-## Taiwan Market Information
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| BLA761055 | Dupixent (sanofi-aventis U.S. LLC) | Injection, solution | Not specified in the supplied record |
 
-No TFDA license record exists for dupilumab in this evidence pack (`market_status: Not marketed`, `total_licenses: 0`). Regulatory/product data cannot be summarized until a license is registered or obtained.
-
----
+The supplied record contains five identical license entries under BLA761055. They are shown here once.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and drug interaction data were not available in this evidence pack — DG001 flags TFDA label/warning data as a blocking gap.)
-
----
+Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high, and the Th2/IL-4-IL-13 mechanism is biologically plausible for airway inflammatory disease, but the actual evidence base for **bronchitis specifically** is essentially absent — the one trial found is in a different disease (CRSsNP), and the literature centers on asthma/COPD rather than bronchitis. This is model-driven mechanistic extrapolation, not disease-specific clinical evidence, so it does not yet meet the bar to proceed even with guardrails.
+No trial or publication studies dupilumab in bronchitis. The support is indirect and comes from asthma, COPD and a review of eosinophilic plastic bronchitis. The model score is very high, but it is not backed by bronchitis-specific evidence.
 
 **To proceed, the following is needed:**
-- A clinical trial or observational study conducted specifically in bronchitis (not asthma/COPD/CRSsNP) patients
-- TFDA-approved label data (warnings, contraindications, DDI) to close the S1 blocking gap (DG001)
-- Confirmed original indication/MOA sourced from an authoritative regulatory filing, since Taiwan license data is currently absent
+- Define the target bronchitis subtype, such as an eosinophilic or type 2 phenotype, and exclude acute or infectious bronchitis
+- Bronchitis-specific clinical data, or a trial in that phenotype
+- The current US approved indications and the package insert warnings and contraindications
+- Detailed mechanism-of-action data from DrugBank
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

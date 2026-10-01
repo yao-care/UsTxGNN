@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Etodolac
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 683
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
 ---
 
 # Etodolac
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,75 +29,73 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Etodolac: From Osteoarthritis/Rheumatic Pain to Ankylosing Spondylitis
-
-> **Note on candidate selection**: This Evidence Pack lists 10 TxGNN-predicted indications. The nominal #1 candidate (acromesomelic dysplasia, Hunter-Thompson type) has a TxGNN score of 99.97% but **zero** supporting trials/literature, and the pack's own rationale states it has "no direct relevance to the NSAID mechanism." Ranks 2–5, 7–9 are similarly unsupported (all L5/Hold, likely knowledge-graph proximity artifacts). Only two candidates have real evidence: **Ankylosing Spondylitis** (rank 6) and **Inflammatory Spondylopathy** (rank 10), which share nearly identical literature/trial evidence. This report focuses on Ankylosing Spondylitis as the higher-scoring, more clinically specific of the two.
+# Etodolac: From a Marketed NSAID to Acromesomelic Dysplasia, Hunter-Thompson Type
 
 ## One-Sentence Summary
 
-Etodolac is a COX-2-preferential NSAID; published literature in this evidence pack documents its historical use for osteoarthritis, rheumatoid arthritis, and postoperative pain, alongside ankylosing spondylitis (AS) itself. The TxGNN model predicts continued/expanded relevance for **Ankylosing Spondylitis**, supported by **1 clinical trial** (indirect, not etodolac-specific) and **9 publications**, most dating from 1989–2011.
+Etodolac is a marketed COX-inhibiting NSAID (non-steroidal anti-inflammatory drug), used for pain and rheumatic diseases.
+The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunter-Thompson type**, a rare genetic skeletal disorder.
+**No clinical trials and no publications** currently support this prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not formally on file (drug not marketed in this jurisdiction); per literature (PMID 1717225), historically indicated for rheumatoid arthritis, osteoarthritis, and postoperative pain |
-| Predicted New Indication | Ankylosing Spondylitis |
-| TxGNN Prediction Score | 99.93% |
-| Evidence Level | L3 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
+| TxGNN Prediction Score | 99.97% |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (generic ANDA licenses) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Etodolac is a selective COX-2-preferential NSAID that inhibits prostaglandin synthesis, reducing inflammation and pain. This is drawn from the evidence pack's own mechanistic rationale, since the formal `original_moa` field is flagged as a data gap (DG002, High severity) pending DrugBank API confirmation.
+Currently, detailed mechanism of action data is not available in the dataset. Etodolac is a known NSAID that inhibits cyclooxygenase (COX), with reported selectivity for COX-2. It reduces prostaglandin-mediated inflammation and pain, and is widely used in rheumatoid arthritis, osteoarthritis, ankylosing spondylitis and other pain states.
 
-NSAIDs are already an ASAS/EULAR first-line treatment class for ankylosing spondylitis, so this is less a novel repurposing hypothesis than a documented historical use: four of the nine literature entries (PMID 1717225, 2525800, 2146130, 2150569) explicitly list AS alongside RA and OA as indications studied for etodolac in the late 1980s–1990s. The mechanistic link is therefore well established, but the supporting evidence predates modern NSAID safety classification and trial standards.
+Acromesomelic dysplasia, Hunter-Thompson type is a genetic skeletal dysplasia that affects growth. Its cause is a defect in skeletal development, not inflammation. COX inhibition has no plausible disease-modifying effect on this defect. At most, an NSAID could relieve secondary pain, and no retrieved evidence supports even that.
 
-The one registered clinical trial (NCT05164198) is not an etodolac trial — it studies TNF-inhibitor dose tapering in AS — and only overlaps on patient population. It should be read as background-standard-of-care context, not direct efficacy evidence for etodolac.
+The high TxGNN score is therefore best read as a statistical association in the knowledge graph, not a mechanistically grounded hypothesis. It should not be treated as a credible repurposing lead without new supporting evidence.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT05164198](https://clinicaltrials.gov/study/NCT05164198) | Phase 4 | Unknown | 448 | Evaluates TNF-inhibitor dose reduction in AS patients with stable disease; **not an etodolac trial** — relevance graded C (population overlap only) |
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [2525800](https://pubmed.ncbi.nlm.nih.gov/2525800/) | 1989 | Cohort/Open trial | La Revue de médecine interne | Open trial in 4,947 RA/AS/OA patients (Lodine 200), efficacy and tolerability assessed across indications |
-| [2150569](https://pubmed.ncbi.nlm.nih.gov/2150569/) | 1990 | Cohort (large-scale open trial) | Rheumatology International | Two French open-label safety studies (4,947 + 51,355 patients) covering RA, AS, and OA |
-| [1717225](https://pubmed.ncbi.nlm.nih.gov/1717225/) | 1991 | Review | Drugs | Reappraisal of etodolac pharmacology; effective in RA, OA, AS, and postoperative pain, comparable to other NSAIDs |
-| [2146130](https://pubmed.ncbi.nlm.nih.gov/2146130/) | 1990 | Review | European Journal of Rheumatology and Inflammation | Randomized, double-blind, parallel-group studies comparing etodolac to naproxen/piroxicam in RA, OA, and AS |
-| [17694363](https://pubmed.ncbi.nlm.nih.gov/17694363/) | 1997 | Review | Inflammopharmacology | Clinical review of etodolac as multipurpose analgesic; COX-2-selective mechanism, applied in RA, AS, gout, OA |
-| [22071858](https://pubmed.ncbi.nlm.nih.gov/22071858/) | 2011 | Review (safety) | Cochrane Database of Systematic Reviews | Safety of NSAIDs (including etodolac class) combined with methotrexate in inflammatory arthritis incl. AS |
-| [20829199](https://pubmed.ncbi.nlm.nih.gov/20829199/) | 2011 | Review (methodology) | Annals of the Rheumatic Diseases | ASAS recommendations for recording NSAID intake as an outcome measure in axial spondyloarthritis trials |
-| [24449987](https://pubmed.ncbi.nlm.nih.gov/24449987/) | 2013 | Review | The Israel Medical Association Journal | Discussion of "indemonstrable" axial spondyloarthritis diagnosis |
-| [21140116](https://pubmed.ncbi.nlm.nih.gov/21140116/) | 2010 | Open prospective trial (non-etodolac) | Singapore Medical Journal | Pamidronate (not etodolac) in NSAID-refractory AS — background only, low direct relevance |
+Currently no related literature available.
 
 ## US Market Information
 
-Currently not marketed in this jurisdiction; no NDA/license records are available (`total_licenses: 0`).
+Etodolac has 20 licenses on record. All are generic (ANDA) products, and five are shown below. The dataset does not list approved indication text for them. Available oral forms are film-coated tablet, capsule, tablet, and extended-release tablet.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA075074 | Etodolac | Tablet, film coated | Advanced Rx of Tennessee, LLC |
+| ANDA076004 | Etodolac | Tablet, film coated | Bryant Ranch Prepack |
+| ANDA076004 | Etodolac | Tablet, film coated | Apotex Corp. |
+| ANDA208834 | Etodolac | Tablet, film coated | Advanced Rx Pharmacy of Tennessee, LLC |
+| ANDA075126 | Etodolac | Capsule | ANI Pharmaceuticals, Inc. |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Formal warnings, contraindications, and drug-interaction data are recorded as data gaps in this evidence pack — notably, TFDA label warnings/contraindications (DG001) are flagged **Blocking** for safety pre-screening.
+Please refer to the package insert for safety information. No drug-interaction records were found in the dataset.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Etodolac's use in ankylosing spondylitis is mechanistically sound and historically documented across multiple cohort studies and reviews, but the evidence base is dated (mostly 1989–1997), lacks a dedicated modern RCT, and the only registered trial doesn't test etodolac itself. This supports cautious progression, not a clean Go.
+The prediction has no clinical trials or literature behind it, and there is no plausible mechanistic link between COX inhibition and this genetic skeletal dysplasia. It should not advance on the model score alone.
+
+**Other predictions for etodolac in this run:**
+- **Ankylosing spondylitis** (score 99.93%) has the strongest support, at evidence level L3. Support consists of reviews, open-label studies and post-marketing data. NSAIDs are also guideline-recommended first-line therapy for axial spondyloarthritis. No Phase 3 RCT of etodolac in AS was found. This is a much better candidate to pursue than the top-ranked prediction.
+- **Inflammatory spondylopathy** (99.86%, L4) is supported only indirectly, through the AS evidence.
+- The remaining predictions (rank 1–5 and 7–9) are L5, prediction-only, and also on Hold.
 
 **To proceed, the following is needed:**
-- Resolve DG001 (TFDA/label warnings and contraindications) — currently blocking safety pre-screening (S1)
-- Resolve DG002 (confirm MOA via DrugBank API) to formalize the mechanistic rationale
-- Reassess GI/CV safety per current NSAID class labeling, since supporting literature predates modern safety standards
-- Treat Inflammatory Spondylopathy (rank 10) as an overlapping signal rather than independent confirmation, given near-identical evidence sets
-- Deprioritize the seven zero-evidence L5 candidates (ranks 1–5, 7–9) unless new trial/literature data emerges
+- The FDA package insert (warnings, contraindications, approved indications) to allow safety screening
+- Mechanism of action data from DrugBank
+- Any preclinical or clinical evidence linking etodolac to this condition, without which the prediction should remain deprioritised
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

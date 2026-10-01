@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Interferon Gamma-1B
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 803
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 ---
 
 # Interferon Gamma-1B
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,94 +33,86 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Interferon gamma-1b is an immunomodulatory cytokine originally indicated for chronic granulomatous disease (CGD) and severe malignant osteopetrosis. The TxGNN model predicts it may be effective for **Heart Disease**, but this direction is currently supported by **0 directly relevant clinical trials** and **0 directly relevant publications** out of 50 trials and 5 papers retrieved — the evidence collected is dominated by keyword-matching noise rather than true drug-disease evidence.
-
----
+Interferon gamma-1b (marketed in the US as Actimmune) is an immune-activating protein used mainly for chronic granulomatous disease (CGD) and refractory infections.
+The TxGNN model predicts it may be effective for **heart disease**, with a very high model score (99.99%).
+However, **no clinical trial has tested it in heart disease**, and the literature offers only **infection-related case reports**, so real-world support is very weak.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Chronic Granulomatous Disease (CGD); severe, malignant osteopetrosis (per repurposing rationale; not present in structured license data) |
-| Predicted New Indication | Heart Disease |
+| Original Indication | Chronic granulomatous disease (from the drug's known use; the license records in the pack contain no indication text) |
+| Predicted New Indication | Heart disease |
 | TxGNN Prediction Score | 99.99% |
-| Evidence Level | L4 |
-| US Market Status | Not marketed (Not marketed) |
-| Number of NDAs | 0 |
+| Evidence Level | L4 (case reports and mechanism only; no interventional study in heart disease) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 4 license records (only one, BLA103836, carries a license number) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Formal mechanism-of-action (MOA) data for this candidate is flagged as a data gap in the evidence pack. Based on the information available, interferon gamma-1b is known to activate macrophages, enhance phagocytic killing, and promote a pro-inflammatory immune response — the basis for its approved use in chronic granulomatous disease and malignant osteopetrosis. This is a fundamentally pro-inflammatory mechanism.
+Currently, detailed mechanism of action data is not available in the record. Based on known biology, IFN-gamma activates macrophages and strengthens phagocyte killing. This explains its use in CGD and in refractory mycobacterial or fungal infections.
 
-Heart disease, as a broad category, generally responds better to anti-inflammatory or cardioprotective mechanisms rather than immune activation. None of the 50 clinical trials retrieved for this pairing actually test interferon gamma-1b in a cardiac indication — the search results are populated by unrelated exercise-rehabilitation trials, trials of other drugs (liraglutide, ritlecitinib, cyclosporine, ALKS 4230, etc.), and general inflammation-biomarker studies. This is consistent with the pipeline's own assessment that this match is likely a keyword/pipeline mismatch rather than genuine mechanistic evidence.
+The link to heart disease is weak. The only cardiac signals are case reports of infection-related cardiac disease in immunocompromised patients: *M. chimaera* prosthetic endocarditis and *Aspergillus* pericarditis in CGD. In these cases the drug treats the underlying infection or immune defect, not the heart itself.
 
-The single literature item with plausible relevance is a case report of aspergillus constrictive pericarditis in a CGD patient — this describes a disease complication in a patient population that happens to use this drug, not a treatment effect on heart disease. Overall, the mechanistic rationale for this specific pairing is weak, and the directionality (pro-inflammatory vs. the anti-inflammatory/cardioprotective mechanisms typically sought in heart disease) raises concern rather than support.
-
----
+IFN-gamma is also pro-inflammatory, which raises a plausible safety concern in non-infectious heart disease. The high TxGNN score is therefore not supported by clinical evidence.
 
 ## Clinical Trial Evidence
 
-None of the retrieved trials directly test interferon gamma-1b for heart disease. The table below lists the top trials returned by the search, with their assessed relevance noted — all were graded "C" (not relevant / keyword mismatch):
+The search returned about 40 trials, but almost none involve IFN-gamma 1b, and **none test it in heart disease**. The most relevant entries are below. Most others are unrelated exercise, vaccine or other-drug studies.
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT03652519](https://clinicaltrials.gov/study/NCT03652519) | NA | Completed | 72 | Aerobic exercise rehabilitation in multiple sclerosis; does not involve interferon gamma-1b |
-| [NCT04356248](https://clinicaltrials.gov/study/NCT04356248) | NA | Completed | 106 | High-intensity training vs. standard training in MS; unrelated to the drug |
-| [NCT03672812](https://clinicaltrials.gov/study/NCT03672812) | Phase 3 | Completed | 50 | Tests liraglutide in brain-death organ donors, not interferon gamma-1b |
-| [NCT07099911](https://clinicaltrials.gov/study/NCT07099911) | NA | Recruiting | 20 | Neuromuscular electrical stimulation for glucose control; unrelated |
-| [NCT05650333](https://clinicaltrials.gov/study/NCT05650333) | Phase 1 | Completed | 15 | PK/PD of ritlecitinib (JAK inhibitor) in alopecia areata; not this drug |
-| [NCT05027958](https://clinicaltrials.gov/study/NCT05027958) | Early Phase 1 | Completed | 17 | Bronchoscopic mycobacterial antigen instillation study; not a drug intervention trial for heart disease |
-| [NCT02489383](https://clinicaltrials.gov/study/NCT02489383) | NA | Unknown | 60 | Continuous vs. interval aerobic exercise in asthma; unrelated |
-| [NCT00974142](https://clinicaltrials.gov/study/NCT00974142) | Phase 1/2 | Completed | 43 | Oral cyclosporine in advanced COPD; not this drug |
-| [NCT03904277](https://clinicaltrials.gov/study/NCT03904277) | N/A | Completed | 28 | Observational study of patent foramen ovale size; no drug intervention |
-| [NCT02799095](https://clinicaltrials.gov/study/NCT02799095) | Phase 1/2 | Completed | 243 | ALKS 4230 ± pembrolizumab in solid tumors; not this drug |
-
-**Note:** 40 additional trials were retrieved but not yet graded for relevance ("pending"); a manual scan of titles found none that test interferon gamma-1b specifically for a cardiac indication.
-
----
+| [NCT00021567](https://clinicaltrials.gov/study/NCT00021567) | Phase 2 | Completed | 20 | Inhaled IFN-gamma 1b plus antimycobacterial drugs in pulmonary MAC infection (infection, not cardiac) |
+| [NCT03888664](https://clinicaltrials.gov/study/NCT03888664) | Phase 2 | Completed | 12 | Open-label safety and efficacy pilot of gamma interferon in Friedreich ataxia (neurological) |
+| [NCT07538336](https://clinicaltrials.gov/study/NCT07538336) | Phase 2 | Not yet recruiting | 40 | Emapalumab (an anti-IFN-gamma antibody) in lung transplant recipients with acute allograft dysfunction; this blocks IFN-gamma rather than giving it |
+| [NCT06996119](https://clinicaltrials.gov/study/NCT06996119) | Phase 1 | Not yet recruiting | 15 | Emapalumab plus post-transplant cyclophosphamide for GVHD prophylaxis |
+| [NCT05837143](https://clinicaltrials.gov/study/NCT05837143) | Early Phase 1 | Active, not recruiting | 12 | Gene therapy (modified telomerase) in dilated cardiomyopathy heart failure; different drug |
+| [NCT06634108](https://clinicaltrials.gov/study/NCT06634108) | Phase 1/2 | Recruiting | 20 | Genistein for inflammation in transthyretin amyloid heart failure; different drug |
+| [NCT02475694](https://clinicaltrials.gov/study/NCT02475694) | N/A | Completed | 50 | Inflammatory response and lung injury after cardiac surgery; observational, no IFN-gamma intervention |
+| [NCT03672812](https://clinicaltrials.gov/study/NCT03672812) | Phase 3 | Completed | 50 | Liraglutide in brain-dead organ donors; different drug and indication |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [28990950](https://pubmed.ncbi.nlm.nih.gov/28990950/) | 2017 | Case Report | Turk Kardiyoloji Dernegi Arsivi | Pediatric CGD patient with constrictive aspergillus pericarditis and congestive heart failure — a disease complication in a CGD patient, not a treatment study of the drug for heart disease |
-| [37180421](https://pubmed.ncbi.nlm.nih.gov/37180421/) | 2022 | Review | Therapeutic Advances in Rare Disease | Systematic review of interventions in Friedreich ataxia; unrelated to heart disease indication |
-| [31020218](https://pubmed.ncbi.nlm.nih.gov/31020218/) | 2018 | Case Report | European Heart Journal – Case Reports | Mycobacterium chimaera prosthetic valve endocarditis after cardiac surgery; does not involve this drug |
-| [21131468](https://pubmed.ncbi.nlm.nih.gov/21131468/) | 2011 | Validation Study | American Journal of Respiratory and Critical Care Medicine | Validation of the 6-minute-walk test in idiopathic pulmonary fibrosis; unrelated to this drug or heart disease |
+| [37180421](https://pubmed.ncbi.nlm.nih.gov/37180421/) | 2022 | Systematic review | Ther Adv Rare Dis | Reviews interventions in Friedreich ataxia; not cardiac and not specific to IFN-gamma |
+| [31020218](https://pubmed.ncbi.nlm.nih.gov/31020218/) | 2018 | Case report | Eur Heart J Case Rep | Successful treatment of healthcare-associated *M. chimaera* prosthetic endocarditis after cardiac surgery |
+| [29456196](https://pubmed.ncbi.nlm.nih.gov/29456196/) | 2018 | Case report | J Cyst Fibros | IFN-gamma therapy improved *Exophiala dermatitidis* airway persistence and respiratory decline in a cystic fibrosis patient |
+| [28990950](https://pubmed.ncbi.nlm.nih.gov/28990950/) | 2017 | Case report | Turk Kardiyol Dern Ars | Constrictive *Aspergillus* pericarditis as a rare complication of CGD in a child |
+| [21131468](https://pubmed.ncbi.nlm.nih.gov/21131468/) | 2011 | Validation study | Am J Respir Crit Care Med | Six-minute-walk test validation in idiopathic pulmonary fibrosis (indirect; not about IFN-gamma in heart disease) |
 
-None of the retrieved literature demonstrates a treatment effect of interferon gamma-1b on heart disease.
-
----
+None of these studies shows that IFN-gamma 1b treats heart disease itself.
 
 ## US Market Information
 
-Interferon gamma-1b is currently **not marketed** in this jurisdiction, and no license/NDA records were found (0 licenses on file).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| BLA103836 | ACTIMMUNE (Horizon Therapeutics USA, Inc.) | Injection, solution | Not stated in the license record |
+| No number on record | GUNA-INF GAMMA (Guna spa) | Solution/drops | Not stated in the license record |
+| No number on record | GAMMA-12 (Guna spa) | Solution/drops | Not stated in the license record |
+| No number on record | GUNA-REACT (Guna spa) | Pellet | Not stated in the license record |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Structured warning, contraindication, and drug-interaction data were not available at this data cutoff (2026-08-13); TFDA labeling has not yet been retrieved (see Conclusion, below).
+- **Mechanism-based concern**: IFN-gamma is pro-inflammatory, which may be a problem in non-infectious heart disease.
 
----
+Please refer to the package insert for other safety information (warnings, contraindications and drug interactions were not available in the record).
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The predicted pairing (interferon gamma-1b → heart disease) is supported only by a raw TxGNN model score, with no clinical trial or literature evidence that directly tests the drug in a cardiac indication — the retrieved evidence is best explained as pipeline/keyword noise. The drug's known pro-inflammatory mechanism (macrophage activation) also runs counter to the anti-inflammatory/cardioprotective mechanisms typically sought in heart disease, making the biological rationale weak.
+The 99.99% TxGNN score is not backed by any trial, and the literature reflects treatment of infections in patients who happen to have cardiac disease. The mechanism gives no reason to expect a benefit in heart disease and raises a possible safety concern. The other nine predicted indications (ranks 2–10, mostly congenital or chromosomal syndromes) have no clinical evidence either.
 
 **To proceed, the following is needed:**
-- Official TFDA label/package insert (warnings, contraindications) — currently a blocking data gap
-- Verified DrugBank mechanism-of-action data
-- A disease-specific literature/trial search (e.g., restricting "heart disease" to a defined subtype) rather than the broad category used here, to rule out further keyword mismatch
-- If genuine mechanistic or preclinical rationale for a specific cardiac subtype emerges, re-evaluate at L3/L4 with targeted evidence collection
+- The FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data (for example from DrugBank)
+- A specific cardiac disease subtype and a testable mechanistic hypothesis, since "heart disease" is too broad
+- Preclinical or observational evidence that IFN-gamma 1b benefits, or at least does not harm, non-infectious cardiac conditions
 
-**Additional note on lower-ranked candidates:** Ranks 2–10 (Jeune syndrome, orofacial clefting, Pierre Robin syndrome variants, chromosomal deletions, Laubry-Pezzi syndrome, interventricular septum aneurysm) returned **zero** clinical trials and **zero or off-target** literature, corresponding to Evidence Level L5 (model prediction only). These are not viable candidates for further evaluation at this time.
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

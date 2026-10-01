@@ -29,75 +29,82 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Lubiprostone: From an Unspecified Original Indication to Predicted Alopecia
+# Lubiprostone: From Constipation to Alopecia
 
 ## One-Sentence Summary
 
-> Lubiprostone (DrugBank ID: DB01046) is a chloride-channel/EP4-receptor active compound whose original approved indication is not documented in the current evidence pack.
-> The TxGNN model predicts it may be effective for **Alopecia**, with a prediction score of **99.93%**, but currently **no supporting clinical trials or literature**, and the evidence pack's own mechanistic review finds no known biological pathway linking lubiprostone to hair growth.
-
----
+Lubiprostone is a ClC-2 chloride channel activator marketed in the US for constipation.
+The TxGNN model predicts it may be effective for **alopecia**, but this is a graph-based prediction only, with **0 clinical trials** and **0 publications** supporting it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not specified in evidence pack (data gap — see DG002) |
+| Original Indication | Constipation (per the mechanism notes; the license records contain no indication text) |
 | Predicted New Indication | Alopecia |
 | TxGNN Prediction Score | 99.93% |
 | Evidence Level | L5 |
-| US Market Status | ✗ Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed, structured mechanism-of-action data for lubiprostone is marked as a data gap (DG002, High severity) in this evidence pack. However, the rationale attached to the predicted indications does describe lubiprostone's known pharmacology: it is a prostaglandin E1 (PGE1) derivative that activates the intestinal epithelial ClC-2 chloride channel and the EP4 receptor, promoting intestinal fluid secretion — a mechanism associated with gastrointestinal motility/secretion, though the specific original indication itself is not recorded in this pack.
+Detailed mechanism of action data is not available in the source record. Lubiprostone is a ClC-2 chloride channel activator that acts on the gut epithelium, and its efficacy in constipation is established.
 
-The predicted new indication, alopecia, involves hair follicle growth regulation. The evidence pack's own mechanistic assessment explicitly states that this pathway is **not** shared with lubiprostone's known activity: hair growth effects seen with other prostaglandin analogs (e.g., bimatoprost, latanoprost) act through the FP receptor subtype, not EP4, and lubiprostone has minimal systemic absorption, limiting any plausible action outside the gut. The rationale text characterizes this specifically as "a high TxGNN score prediction without mechanistic support."
+No credible pathway links this mechanism to hair follicle biology. The high score (0.9993) reflects proximity in the knowledge graph, not documented biology. Systemic exposure to lubiprostone is also very low, which weakens any speculative link to a skin or hair target.
 
-Given this explicit absence of mechanistic plausibility, combined with zero clinical trials and zero literature for this drug-disease pair, this candidate represents a pure statistical/embedding-similarity association from the model (Evidence Level L5) rather than a biologically grounded hypothesis. The same pattern (high score, no mechanism, no evidence) recurs across the other top-ranked predictions for this drug (hypotrichosis, alopecia areata, etc.), reinforcing that this is likely a model-embedding cluster effect rather than a genuine signal.
+The other top predictions fall into two groups. The hair-related conditions are:
 
----
+- Congenital hypotrichosis milia
+- Hypotrichosis simplex of the scalp
+- Diffuse alopecia areata
+
+The vascular and cardiopulmonary conditions are:
+
+- Pulmonary hypertension
+- Raynaud disease
+- Peripheral vascular disease
+
+For the vascular group, lubiprostone is a prostone, a prostaglandin-related fatty acid derivative, so a vasodilation rationale is conceivable. It remains unsupported by data.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
+For reference, the only trial linked to any of the top 10 predictions is [NCT02813369](https://clinicaltrials.gov/study/NCT02813369), attached to pulmonary hypertension. It is a terminated observational safety study of naloxegol, a different drug, and provides no evidence for lubiprostone.
 
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-Lubiprostone currently has no recorded authorizations in this evidence pack (0 licenses; market status: not marketed).
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|------|
+| NDA021908 | Amitiza | Capsule, gelatin coated | SpecGx LLC |
+| ANDA218640 | Lubiprostone | Capsule | Northstar Rx LLC |
+| ANDA214131 | Lubiprostone | Capsule | Zydus Pharmaceuticals USA Inc. |
+| ANDA209920 | Lubiprostone | Capsule, gelatin coated | Teva Pharmaceuticals, Inc. |
 
----
+All listed products are oral. The record contains no approved-indication text. ANDA214131 appears twice in the source and is shown once.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The alopecia prediction has no clinical trial or literature support, and the evidence pack's own rationale explicitly finds no mechanistic link between lubiprostone's known ClC-2/EP4 activity and hair follicle biology. Evidence level is L5 (model prediction only), and the drug currently has no market presence to leverage for rapid evaluation.
+The prediction rests only on a knowledge-graph score. There are no clinical trials, no literature, and no plausible mechanistic link between ClC-2 activation and hair loss disorders. Evidence is at the lowest level (L5).
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (DG001, Blocking — required before any safety pre-assessment, S1)
-- Confirmed original indication and mechanism-of-action data for lubiprostone (DG002, High)
-- Preclinical or mechanistic studies specifically testing lubiprostone in dermatology/hair-growth models, given the current absence of any such link
-- Re-evaluation of lower-ranked predictions in this candidate set (e.g., pulmonary hypertension, rank 5) which carry a weaker but non-zero mechanistic rationale (shared prostaglandin-receptor pathway family) and one loosely related trial record, should this drug be revisited
+- Package insert warnings and contraindications, which are currently missing and block safety screening
+- Detailed mechanism of action data from DrugBank
+- A mechanistic hypothesis linking ClC-2 or prostone pharmacology to hair follicle biology, plus preclinical evidence
+- A route-compatibility assessment, since only oral products are marketed and alopecia treatment would likely need topical or other delivery
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

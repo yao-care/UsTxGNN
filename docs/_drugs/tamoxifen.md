@@ -3,14 +3,14 @@ layout: default
 title: Tamoxifen
 parent: Moderate Evidence (L3-L4)
 nav_order: 1198
-evidence_level: L3
+evidence_level: L4
 indication_count: 10
 ---
 
 # Tamoxifen
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,37 +29,35 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# TAMOXIFEN: From ER-Positive Breast Cancer to Mammary Paget Disease
+# Tamoxifen: From Breast Cancer to Mammary Paget Disease
 
 ## One-Sentence Summary
 
-Tamoxifen is a selective estrogen receptor modulator (SERM) long established as a cornerstone hormonal therapy for estrogen receptor-positive (ER+) breast cancer treatment and prevention.
-The TxGNN model predicts it may be effective for **Mammary Paget Disease**,
-with **1 clinical trial** and **13 publications** currently supporting this direction.
+Tamoxifen is an oral hormone therapy used for estrogen receptor (ER)-positive breast cancer. The label text was not included in the Evidence Pack, so the original indication is inferred from the pack's rationale notes. The TxGNN model predicts it may help in **mammary Paget disease**, but the supporting evidence is thin: **1 clinical trial**, which does not test efficacy, and **13 publications**, mostly case reports and case series.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | ER-positive breast cancer (adjuvant treatment and prevention) |
-| Predicted New Indication | Mammary Paget Disease |
+|------|------|
+| Original Indication | ER-positive breast cancer (inferred; US license indication text is blank in the pack) |
+| Predicted New Indication | Mammary Paget disease |
 | TxGNN Prediction Score | 99.69% |
-| Evidence Level | L3 |
-| Market Status | Not marketed (No regulatory records in current dataset) |
-| Number of Authorizations | 0 |
+| Evidence Level | L4 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 17 (the five listed are all ANDAs) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological information, tamoxifen is a selective estrogen receptor modulator (SERM) that competitively binds to estrogen receptor alpha (ERα), blocking estrogen-driven transcriptional activation in breast tissue. Its efficacy in ER-positive breast cancer has been extensively proven across landmark Phase 3 trials (NSABP B-14, ATAC, BIG 1-98), reducing recurrence by 25–30% over 10 years of adjuvant therapy.
+Currently, detailed mechanism of action data is not available. Based on known information, tamoxifen is an endocrine (anti-estrogen) therapy whose efficacy in hormone receptor-positive breast cancer is well established. It may be mechanistically applicable to mammary Paget disease.
 
-Mammary Paget disease is a rare intraepithelial adenocarcinoma of the nipple-areola complex that, in 80–95% of cases, is accompanied by an underlying ER-positive invasive or in situ carcinoma. This strong biological co-occurrence provides the primary mechanistic bridge: by blocking ERα signaling in the associated underlying tumor, tamoxifen may suppress the carcinogenic milieu that sustains Paget cell populations. A case report of hormone receptor-positive metastatic extramammary Paget disease successfully treated with tamoxifen (PMID 34463889) provides direct proof-of-concept for ER-targeted therapy in Paget histology.
+Mammary Paget disease usually occurs together with an underlying ductal carcinoma in situ (DCIS) or invasive carcinoma. Tamoxifen would therefore most plausibly act as adjuvant endocrine therapy for a hormone receptor-positive underlying tumor. It would not be a treatment specific to Paget disease.
 
-However, the direct responsiveness of Paget cells themselves — as distinct from the co-existing underlying carcinoma — to ERα blockade remains mechanistically uncertain. The TxGNN prediction likely reflects the model's recognition of the strong ER biology shared between ER+ breast cancers and Paget disease, rather than evidence of autonomous Paget cell ER-dependence.
+The evidence is limited to case reports and small series. One case report shows a response in metastatic *extramammary* Paget disease, but that finding does not transfer to the mammary form.
 
 ---
 
@@ -67,54 +65,60 @@ However, the direct responsiveness of Paget cells themselves — as distinct fro
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00002920](https://clinicaltrials.gov/study/NCT00002920) | Phase 3 | Completed | 313 | Medroxyprogesterone acetate vs. observation to prevent tamoxifen-induced endometrial pathology in postmenopausal women with DCIS, lobular CIS, **Paget's disease of the nipple**, Stage I–II breast cancer. Tamoxifen is the background therapy, not under evaluation; trial is not a direct Paget disease treatment study. |
+| [NCT00002920](https://clinicaltrials.gov/study/NCT00002920) | Phase 3 | Completed | 313 | Tests medroxyprogesterone acetate versus observation to prevent endometrial disorders in postmenopausal women taking tamoxifen. Eligible patients include those with Paget's disease of the nipple. This addresses a tamoxifen side effect, not its efficacy in Paget disease. |
 
 ---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|---------|
-| [34463889](https://pubmed.ncbi.nlm.nih.gov/34463889/) | 2022 | Case Report | Investigational New Drugs | Successful tamoxifen treatment of HR-positive metastatic **extramammary** Paget disease; supports ER-directed therapy concept for Paget histology |
-| [14965622](https://pubmed.ncbi.nlm.nih.gov/14965622/) | 2001 | Case Report | Breast | Unusually extensive Paget's disease of the nipple concealed for 10 years; response achieved with tamoxifen followed by electron arc radiotherapy; disease-free at 9 months |
-| [1648987](https://pubmed.ncbi.nlm.nih.gov/1648987/) | 1991 | Case Series | British Journal of Surgery | 48-woman series over 13 years; treatment breakdown: 37 mastectomy, 10 cone excision, 1 tamoxifen alone; DCIS found in 45 operative specimens |
-| [25759627](https://pubmed.ncbi.nlm.nih.gov/25759627/) | 2014 | Meta-analysis | Breast Care | Local recurrence after mastectomy vs. breast-conserving surgery in Paget's disease; total recurrence rate 20–40%; establishes standard-of-care surgical context |
-| [29694313](https://pubmed.ncbi.nlm.nih.gov/29694313/) | 2018 | Case Report | Il Giornale di Chirurgia | Male breast Paget disease; rare presentation with no established guidelines; underlying invasive ductal carcinoma common finding |
-| [19112575](https://pubmed.ncbi.nlm.nih.gov/19112575/) | 2009 | Case Report | Archives of Gynecology and Obstetrics | Synchronous vulvar and breast Paget disease with underlying adenocarcinoma; illustrates the systemic ER+ oncological context |
-| [12924421](https://pubmed.ncbi.nlm.nih.gov/12924421/) | 2003 | Case Report | Surgery Today | Synchronous bilateral breast cancer with Paget disease and invasive ductal carcinoma; demonstrates multifocal ER+ disease presentation |
-| [8955252](https://pubmed.ncbi.nlm.nih.gov/8955252/) | 1996 | Case Series | The American Surgeon | Review of 32 literature cases of male breast Paget's disease; 50% present with palpable mass or positive nodes at diagnosis; tamoxifen noted in systemic therapy discussion |
-| [17319355](https://pubmed.ncbi.nlm.nih.gov/17319355/) | 2006 | Case Series | Nigerian Journal of Clinical Practice | 8-case series at Nigerian teaching hospital; all female, mean age 47.6 years; late presentation common; provides epidemiological context |
-| [16277886](https://pubmed.ncbi.nlm.nih.gov/16277886/) | 2005 | Case Report | Clinical Breast Cancer | Paget's disease as ipsilateral local recurrence after breast-conserving treatment in 2,181-patient cohort; highlights management complexity after initial ER+ breast cancer treatment |
+|------|-----|------|------|---------|
+| [25759627](https://pubmed.ncbi.nlm.nih.gov/25759627/) | 2014 | Meta-analysis | Breast Care | Local recurrence after mastectomy versus breast-conserving surgery for Paget's disease. Recurrence is as high as 20–40% in the literature. It is not about tamoxifen. |
+| [34463889](https://pubmed.ncbi.nlm.nih.gov/34463889/) | 2022 | Case report | Investigational New Drugs | Successful tamoxifen treatment of hormone receptor-positive metastatic extramammary Paget disease. |
+| [14965622](https://pubmed.ncbi.nlm.nih.gov/14965622/) | 2001 | Case report | Breast | Unusually extensive Paget's disease of the nipple. The patient responded to tamoxifen and was also treated with radiotherapy. |
+| [1648987](https://pubmed.ncbi.nlm.nih.gov/1648987/) | 1991 | Case series | Br J Surg | 48 women with nipple Paget's disease. Most were treated with mastectomy or cone excision, and only one received tamoxifen. |
+| [16277886](https://pubmed.ncbi.nlm.nih.gov/16277886/) | 2005 | Cohort | Clin Breast Cancer | Paget's disease of the nipple as a local recurrence after breast-conservation treatment (2,181 patients). |
+| [29694313](https://pubmed.ncbi.nlm.nih.gov/29694313/) | 2018 | Case report | Il Giornale di Chirurgia | Paget disease of the male breast. There are no standard guidelines, and it can hide an invasive ductal cancer. |
+| [8955252](https://pubmed.ncbi.nlm.nih.gov/8955252/) | 1996 | Case report and review | Am Surg | Male breast Paget's disease: one case plus a review of 32 published cases. |
+| [12924421](https://pubmed.ncbi.nlm.nih.gov/12924421/) | 2003 | Case report | Surgery Today | Synchronous bilateral breast cancer with Paget's disease and invasive ductal carcinoma. |
+| [19112575](https://pubmed.ncbi.nlm.nih.gov/19112575/) | 2009 | Case report | Arch Gynecol Obstet | Vulvar and breast Paget's disease with synchronous underlying cancer. |
+| [17319355](https://pubmed.ncbi.nlm.nih.gov/17319355/) | 2006 | Case series | Niger J Clin Pract | 8 of 240 breast cancer patients (3.3%) in Benin City had nipple Paget's disease. |
+
+No randomized controlled trials were found for this indication.
 
 ---
 
-## Market Authorization Information
+## US Market Information
 
-No regulatory authorization records are available in the current dataset (0 licenses on file).
+The pack lists 17 authorizations. The five below are the main ones. The approved-indication text is blank for all of them in the pack, so that column is omitted.
 
-> **Data note:** The absence of records reflects a query gap, not actual global unavailability. Tamoxifen (Nolvadex®, generics) holds established approvals in numerous jurisdictions for ER-positive breast cancer treatment and prevention. This dataset did not return matching regulatory records at the time of query.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA070929 | Tamoxifen Citrate | Tablet | Bryant Ranch Prepack |
+| ANDA074732 | Tamoxifen Citrate | Tablet | Mylan Pharmaceuticals Inc. |
+| ANDA213358 | Tamoxifen Citrate | Tablet, film coated | Aurobindo Pharma Limited |
+| ANDA213358 | Tamoxifen Citrate | Tablet, film coated | Bryant Ranch Prepack |
+| ANDA070929 | Tamoxifen Citrate | Tablet | A-S Medication Solutions |
 
 ---
 
 ## Cytotoxicity
 
-Tamoxifen meets the antineoplastic classification criteria: it is indicated for breast cancer (malignant condition) and is categorized as a selective estrogen receptor modulator with anti-tumor activity.
+The pack has no toxicity data. The entries below come from general drug-class knowledge and should be checked against the package insert.
 
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted hormonal therapy — Selective Estrogen Receptor Modulator (SERM); non-conventional cytotoxic (not a DNA-damaging chemotherapy agent) |
-| Myelosuppression Risk | Low (tamoxifen does not cause clinically significant myelosuppression at standard doses) |
+|------|------|
+| Cytotoxicity Classification | Hormonal (endocrine) therapy, selective estrogen receptor modulator (SERM). Not a conventional cytotoxic. |
+| Myelosuppression Risk | Low |
 | Emetogenicity Classification | Low |
-| Monitoring Items | Endometrial thickness / annual gynecological exam (especially postmenopausal women); liver function tests; coagulation parameters (VTE risk assessment); ophthalmologic exam at high-dose or prolonged use; bone mineral density (premenopausal patients on long-term therapy) |
-| Handling Protection | Standard precautions per institutional policy for hormonal antineoplastic agents; not classified as a conventional hazardous cytotoxic requiring full PPE containment, but reproductive toxicity warrants appropriate handling by pregnant staff |
+| Monitoring Items | CBC, liver function, signs of thromboembolism, endometrial symptoms (abnormal vaginal bleeding) |
+| Handling Protection | Follow institutional hazardous drug handling policy. Please refer to the package insert warnings and precautions. |
 
 ---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-> Detailed prescribing information was not retrieved in this dataset (Data Gap DG001). Key known risks based on drug class include: endometrial cancer risk (primarily postmenopausal women), venous thromboembolism, menopausal symptoms (hot flashes, vaginal discharge), and rare retinal toxicity. CYP2D6 poor metabolizer status impairs conversion to active metabolite endoxifen and may reduce efficacy.
 
 ---
 
@@ -123,14 +127,15 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-While the biological rationale linking tamoxifen to mammary Paget disease is coherent — given that 80–95% of cases involve an underlying ER-positive carcinoma — direct clinical evidence for tamoxifen in Paget disease itself remains confined to isolated case reports and one Phase 3 trial where Paget's patients were enrolled as a minor subgroup. The evidence does not yet meet the threshold for a formal repurposing designation; this is best framed as an investigational signal warranting prospective evaluation.
+The high TxGNN score is not backed by clinical evidence for mammary Paget disease. The only trial concerns a tamoxifen side effect, and the literature is case reports and surgical series. Tamoxifen's most plausible role is as endocrine therapy for the underlying hormone receptor-positive tumor, which is not novel repurposing.
 
 **To proceed, the following is needed:**
-- Prospective registry study or dedicated pilot trial in mammary Paget disease evaluating tamoxifen response (particularly in patients with confirmed HR-positive underlying carcinoma)
-- Histopathological ER/PR receptor characterization of Paget cells directly (not only the underlying carcinoma) to determine autonomous ER-dependence
-- Mechanistic clarification of whether tamoxifen suppresses Paget cells via ERα in the epidermal compartment or exclusively through control of the underlying tumor
-- Retrieval of detailed MOA data from DrugBank (Data Gap DG002)
-- Retrieval of TFDA/FDA package insert warnings and contraindications (Data Gap DG001) to complete safety screening before any clinical protocol design
+- The FDA package insert (warnings and contraindications). This is a blocking gap that prevents safety screening.
+- Mechanism of action data from DrugBank.
+- Prospective or well-designed retrospective data on tamoxifen in mammary Paget disease with hormone receptor testing of the underlying tumor.
+- A route-compatibility check, which is still pending.
+
+**Note on other predictions:** Two other predictions for this drug have much stronger evidence. Breast carcinoma in situ is rated L1 and supported by Phase 3 RCTs and a Cochrane meta-analysis. ER-positive breast cancer is also rated L1. Both appear to be established uses rather than novel repurposing signals, and both are rated "Proceed with Guardrails" in the pack.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

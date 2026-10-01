@@ -3,14 +3,14 @@ layout: default
 title: Romiplostim
 parent: Moderate Evidence (L3-L4)
 nav_order: 1132
-evidence_level: L3
+evidence_level: L4
 indication_count: 10
 ---
 
 # Romiplostim
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,67 +29,70 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Romiplostim: Research Signal for Primary Release Disorder of Platelets
-
-*(Original approved indication is not recorded in this evidence pack — see note below)*
+# Romiplostim: From Its Marketed Thrombopoietin-Receptor Agonist Use to Primary Release Disorder of Platelets
 
 ## One-Sentence Summary
 
-> Romiplostim's original approved indication and market licensing data are not available in this evidence pack (the drug currently holds **no Taiwan/US license**, market status "Not Marketed").
-> The TxGNN model predicts it may be relevant to **Primary Release Disorder of Platelets**, with a prediction score of **99.9998%**,
-> but this signal is currently supported by only **1 clinical trial** (an observational cohort study, not an interventional romiplostim trial) and **2 review-level publications** — an early-stage research signal rather than established clinical evidence.
+Romiplostim is a thrombopoietin receptor (MPL) agonist that raises platelet production, and it is marketed in the US as Nplate. The TxGNN model predicts it may be effective for **primary release disorder of platelets**, but only **1 registered trial** (an observational study that did not test romiplostim) and **2 background publications** are linked to this prediction. These do not show benefit for the disease, so the prediction rests almost entirely on the model score.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no approved indication or license record in this evidence pack) |
 | Predicted New Indication | Primary release disorder of platelets |
 | TxGNN Prediction Score | 99.9998% |
-| Evidence Level | L3 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L4 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 3 (all records are BLA125268) |
 | Recommended Decision | Hold |
+
+The supplied data contain no approved-indication text for the original use, so that row is omitted.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available from DrugBank for this record. However, clinical trial descriptions embedded in the evidence pack consistently identify romiplostim as a **thrombopoietin (TPO) receptor agonist** — for example, NCT02335268 describes it explicitly as "romiplostim (a TPO receptor agonist)." Its known pharmacology stimulates megakaryocyte proliferation and differentiation, thereby increasing circulating platelet production.
+Detailed mechanism-of-action data are not available in the drug record. The candidate-level analysis describes romiplostim as an MPL agonist that increases megakaryocyte proliferation and platelet count.
 
-The predicted indication, *primary release disorder of platelets*, is a disorder rooted in insufficient platelet production or release from megakaryocytes. This is mechanistically well aligned with romiplostim's core pharmacology of driving megakaryocytopoiesis — the same mechanism already exploited for immune thrombocytopenia (ITP) and related platelet-production disorders that recur throughout this evidence pack's broader trial and literature base.
+That mechanism fits conditions where too few platelets are made. A release disorder is a functional defect: platelets are present but do not degranulate or secrete normally. Raising platelet numbers is therefore unlikely to fix the underlying problem.
 
-That said, the one clinical trial currently linked specifically to this predicted indication (NCT03820960) is an observational risk-factor study on thrombosis in ITP patients, not an interventional trial of romiplostim itself. The mechanistic rationale is therefore currently stronger than the direct clinical evidence for this specific disease label.
+The two linked papers are general background. One reviews megakaryocyte and platelet production. The other is an in vitro study of how autoantibodies in immune thrombocytopenia impair platelet formation. Neither shows that romiplostim helps a platelet release disorder. The high TxGNN score should be read as a model-derived hypothesis, not as clinical support.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT03820960](https://clinicaltrials.gov/study/NCT03820960) | N/A | Completed | 10,039 | Observational cohort study on thrombosis risk factors in immune thrombocytopenia (ITP); not an interventional romiplostim trial, but establishes disease-background relevance for platelet-release/production disorders. |
+| [NCT03820960](https://clinicaltrials.gov/study/NCT03820960) | N/A | Completed | 10,039 | Observational study of risk factors for thrombosis in immune thrombocytopenia. It does not test romiplostim for the predicted condition. |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [23594368](https://pubmed.ncbi.nlm.nih.gov/23594368/) | 2013 | Review | British Journal of Haematology | Reviews megakaryocytopoiesis and thrombopoiesis biology, describing thrombopoietin (TPO) as the primary growth factor for the megakaryocyte lineage. |
-| [25682608](https://pubmed.ncbi.nlm.nih.gov/25682608/) | 2015 | Review | Haematologica | Shows antiplatelet autoantibodies in ITP inhibit proplatelet formation by megakaryocytes and impair platelet production in vitro, supporting the production-deficit mechanism relevant to TPO receptor agonist therapy. |
+| [23594368](https://pubmed.ncbi.nlm.nih.gov/23594368/) | 2013 | Review | British Journal of Haematology | Overview of megakaryocyte and platelet production, with thrombopoietin as the main growth factor. General background only. |
+| [25682608](https://pubmed.ncbi.nlm.nih.gov/25682608/) | 2015 | Preclinical / in vitro | Haematologica | Antiplatelet autoantibodies from immune thrombocytopenia patients inhibited proplatelet formation and impaired platelet production in vitro. No romiplostim treatment data. |
+
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| BLA125268 (3 records) | Nplate (Amgen, Inc) | Injection, powder, lyophilized, for solution | Not listed in the supplied record |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No warning, contraindication or drug-interaction data were available in the supplied data.
+
+One class-level signal appears in the wider candidate data. A cohort study (PMID [21902682](https://pubmed.ncbi.nlm.nih.gov/21902682/)) found increased bone marrow reticulin in ITP patients treated with thrombopoietin receptor agonists. This should be considered in any long-term use.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only trial currently linked to this specific predicted indication is observational (not an interventional romiplostim study), and supporting literature is limited to two review articles. While the mechanistic rationale (TPO-RA → increased megakaryocytopoiesis → platelet production) is sound, direct clinical evidence for *primary release disorder of platelets* specifically is insufficient to move beyond a research question at this stage.
+The mechanism does not match the disease, because raising platelet count is unlikely to correct a platelet functional defect. No romiplostim study exists for this condition. The very high model score is not clinical evidence.
 
 **To proceed, the following is needed:**
-- Original indication and drug licensing/regulatory history (currently absent from this evidence pack)
-- Detailed mechanism-of-action data from DrugBank
-- TFDA/FDA labeling data (warnings, contraindications, drug interactions) — currently flagged as blocking data gaps
-- A dedicated interventional trial evaluating romiplostim specifically in this disease population, rather than relying on adjacent-disease observational data
-
-**Note for reviewers:** within the same evidence pack, a related predicted indication — *platelet-type bleeding disorder* (rank 8) — has substantially stronger supporting evidence, including a **completed Phase 3 RCT** (NCT03362177, RECITE) and an evidence level of **L1** with a "Proceed with Guardrails" recommendation. If the goal is to identify the strongest near-term repurposing candidate for romiplostim in this pack, that indication warrants separate, prioritized review.
+- The package insert (warnings and contraindications), which is currently a blocking gap for safety screening
+- Detailed mechanism-of-action data from DrugBank, and the approved-indication text for Nplate
+- Any case series, mechanistic or preclinical work showing that thrombopoietin-receptor agonism improves platelet secretion or release function
+- Review of the rank 8 candidate, platelet-type bleeding disorder, which has eight romiplostim trials (one Phase 3 randomized trial). Those trials appear to address thrombocytopenia settings rather than platelet function disorders, so the indication mapping needs confirmation.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

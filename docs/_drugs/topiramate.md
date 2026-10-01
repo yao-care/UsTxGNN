@@ -33,45 +33,59 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 ## One-Sentence Summary
 
-> Topiramate is a broad-spectrum anticonvulsant, generally known for treating epilepsy and migraine prophylaxis (formal Taiwan/US license indication text was not available in this evidence pack).
-> The TxGNN model's top-ranked prediction for this drug is **Trigeminal Nerve Neoplasm**,
-> but this specific prediction is currently supported by **0 clinical trials** and **0 publications** — it is a pure model-derived signal with no corroborating evidence.
+Topiramate is an oral antiseizure drug, and the literature in the Evidence Pack also describes its use in migraine prevention. The TxGNN model predicts it may be effective for **trigeminal nerve neoplasm** with a very high score (99.70%). However, there are **0 clinical trials** and **0 publications** supporting this prediction, and it is most likely a knowledge-graph artifact.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not available in regulatory dataset |
-| Predicted New Indication | Trigeminal Nerve Neoplasm |
+|------|------|
+| Original Indication | Epilepsy (the US license records contain no indication text, so this comes from the literature and general drug knowledge) |
+| Predicted New Indication | Trigeminal nerve neoplasm |
 | TxGNN Prediction Score | 99.70% |
-| Evidence Level | L5 |
-| US Market Status | Not Marketed (per this dataset) |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (the sample records shown are ANDAs, i.e. generics) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from DrugBank in this evidence pack. Based on established clinical knowledge, topiramate is a broad-spectrum antiepileptic agent acting through sodium channel blockade, GABA-A receptor potentiation, AMPA/kainate glutamate receptor antagonism, and carbonic anhydrase inhibition. It has no known antineoplastic or antitumor mechanism.
+Detailed mechanism-of-action data is not available from DrugBank for this record. The mechanism rationale in the Evidence Pack states that topiramate acts on voltage-gated sodium channels, GABA-A receptors, AMPA/kainate receptors and carbonic anhydrase. These actions explain its antiseizure effect and its use in migraine.
 
-The relationship between topiramate and trigeminal nerve neoplasm is, by the evidence pack's own assessment, driven purely by TxGNN's knowledge-graph topological similarity — there is no biological plausibility identified. At most, one could speculate that an anticonvulsant/analgesic-adjacent drug might indirectly relieve neuropathic pain associated with a trigeminal nerve tumor, but this would not constitute treatment of the neoplasm itself.
+None of these mechanisms is known to be antineoplastic. The link between epilepsy and a tumor of the trigeminal nerve is therefore weak. The high score (0.997) probably reflects the drug sitting close to trigeminal neuralgia or neuropathic pain nodes in the knowledge graph, not any effect on tumor biology.
 
-Given the absence of a mechanistic rationale and the complete lack of supporting trials or literature, this specific prediction should be treated as a low-confidence model output rather than a credible repurposing hypothesis at this time.
+This prediction should be treated as a likely knowledge-graph artifact until independent evidence says otherwise.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
+
+---
+
+## US Market Information
+
+The US license records do not include approved indication text, so that column is omitted. Five of the 20 authorizations are listed below.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA078235 | topiramate | Tablet, film coated | Zydus Pharmaceuticals USA Inc. |
+| ANDA078235 | topiramate | Tablet, film coated | Zydus Lifesciences Limited |
+| ANDA090278 | Topiramate | Tablet, film coated | Proficient Rx LP |
+| ANDA078235 | topiramate | Tablet, film coated | REMEDYREPACK INC. |
+| ANDA216683 | Topiramate | Capsule | Advagen Pharma Ltd |
+
+All are oral products. Across the full set of authorizations, the dosage forms are tablet, film-coated tablet, capsule, extended-release capsule and coated-pellet capsule.
 
 ---
 
@@ -86,14 +100,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (Trigeminal Nerve Neoplasm) has no clinical trial or literature support, no established mechanistic link, and the drug's MOA and regulatory/safety data are currently unavailable (data gaps DG001, DG002). This does not meet the bar to advance past initial screening.
+The prediction has no supporting trials or publications, and the mechanism gives no biological reason to expect an effect on tumors of the trigeminal nerve. The high model score alone does not justify further investment.
 
 **To proceed, the following is needed:**
-- DrugBank MOA data and TFDA/FDA label (warnings, contraindications, DDI)
-- Any preclinical or case-level evidence connecting topiramate to trigeminal nerve tumor biology, if it exists
-- Confirmation of actual US/Taiwan marketing and license status, since this dataset shows 0 licenses despite topiramate being a long-marketed drug elsewhere
+- Any independent evidence (preclinical, case reports or mechanistic studies) for topiramate in trigeminal or nerve-sheath tumors
+- Package insert warnings and contraindications, which are still missing
+- Verification of whether the score is driven by trigeminal neuralgia or neuropathic pain proximity in the graph
 
-**Note:** This evidence pack (`TW-DB00273-multi`) contains eight additional TxGNN predictions for topiramate, several with meaningfully stronger support and a coherent mechanistic story (broad-spectrum anticonvulsant → reflex epilepsy syndromes): **visual epilepsy** (L2, 4 trials incl. a Phase 3 RCT, 20 literature refs), **thinking seizures** (L2, includes Phase 3 evidence), and **reading seizures** (L2, includes a Phase 3 RCT in refractory partial-onset seizures). These are better candidates for a "Research Question" track than the top-ranked trigeminal nerve neoplasm prediction and may warrant a separate evaluation report.
+**Note on other predictions:** The same pack lists **visual epilepsy** (L4, "Research Question"). It has a completed Phase 3 epilepsy monotherapy trial (NCT00231556, n=750) and several systematic reviews, though none is restricted to visually induced seizures. This is a far better-supported direction than the trigeminal tumor prediction and may deserve priority review.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

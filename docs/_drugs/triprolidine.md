@@ -29,13 +29,11 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Triprolidine: From Antihistamine (Allergic Symptoms) to Allergic Urticaria
+# Triprolidine: From Antihistamine (Labeled Indication Not Recorded) to Allergic Urticaria
 
 ## One-Sentence Summary
 
-> Triprolidine is a first-generation H1 antihistamine, but its original approved indication and market data are not available in this evidence pack.
-> The TxGNN model predicts it may be effective for **Allergic Urticaria**,
-> but this direction is currently supported by **0 clinical trials** and **0 direct publications** — evidence relies entirely on class-level (drug-class) mechanistic reasoning rather than triprolidine-specific data.
+Triprolidine is a first-generation H1-receptor antagonist (antihistamine) that is marketed in the US in oral liquid products. The TxGNN model predicts it may be effective for **allergic urticaria** with a very high score, but **no clinical trials and no publications** currently support this specific drug-disease pair, so it remains a research question.
 
 ---
 
@@ -43,23 +41,24 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no license data in evidence pack) |
-| Predicted New Indication | Allergic Urticaria |
+| Predicted New Indication | Allergic urticaria |
 | TxGNN Prediction Score | 99.99% |
-| Evidence Level | L4 (mechanism-level; no direct clinical/literature support for this specific indication) |
-| US Market Status | Not marketed (Not marketed) |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 4 |
 | Recommended Decision | Hold |
+
+The record has no approved indication text, so the original indication is omitted here.
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in structured form. Based on known pharmacology, triprolidine is a first-generation H1-receptor antagonist (antihistamine), and H1-receptor blockade is the established, guideline-recognized (EAACI/GA2LEN) core mechanism for treating histamine-mediated urticaria and pruritus.
+Currently, detailed mechanism of action data is not available in DrugBank for this drug. Based on known pharmacology, triprolidine is a first-generation H1-receptor antagonist. In allergic urticaria, histamine released from mast cells drives wheals and itch, so blocking the H1 receptor is mechanistically plausible.
 
-The mechanistic rationale connecting triprolidine to allergic urticaria is therefore a **class effect** argument: H1 antihistamines as a drug class are first-line urticaria therapy, so it is biologically plausible that triprolidine would also be effective. However, this evidence pack contains **no clinical trials and no literature specific to triprolidine** for allergic urticaria — the supporting logic is entirely mechanistic extrapolation from the drug class, not from triprolidine-specific data. This is the weakest tier of TxGNN-supported hypotheses and should be treated as a research question rather than a repurposing candidate ready for evaluation.
+H1 antihistamines are the standard first-line drug class for urticaria. The very high TxGNN score probably reflects this class effect rather than any triprolidine-specific finding.
 
-Notably, related literature does exist for a **triprolidine derivative** (acrivastine) in cold urticaria (see rank #2, PMID 2901993), and for triprolidine combinations (with pseudoephedrine) in a purulent nasopharyngitis trial (rank #4, PMID 6377256) — but neither directly addresses allergic urticaria, and neither constitutes triprolidine-specific efficacy evidence for the top-ranked indication.
+This is a class-level inference only. No studies of triprolidine in allergic urticaria were retrieved, and the original indication is not recorded in the Evidence Pack.
 
 ---
 
@@ -71,23 +70,26 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for allergic urticaria specifically.
+Currently no related literature available.
 
-*Note: Related class-level evidence exists for other predicted indications in this pack (e.g., PMID 2901993 for cold urticaria using the triprolidine derivative acrivastine), but no literature directly supports the top-ranked allergic urticaria prediction.*
+For context, the second-ranked prediction, **cold urticaria**, has one indirect publication: [PMID 2901993](https://pubmed.ncbi.nlm.nih.gov/2901993/) (1988, Dermatologica). It is a double-blind crossover RCT in 18 patients showing that acrivastine, a triprolidine derivative, reduced wheal area versus placebo and was more effective than cyproheptadine. It did not test triprolidine itself.
 
 ---
 
 ## US Market Information
 
-No license/authorization records are available in this evidence pack (market status: Not marketed / Not marketed, 0 total licenses).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| M012 | HISTEX | Syrup | Not specified in record |
+| M012 | HISTEX PD Drops New Formulation | Syrup | Not specified in record |
+| M012 | TRIPROLIDINE HYDROCHLORIDE (Westminster Pharmaceuticals) | Syrup | Not specified in record |
+| M012 | Childrens PediaClear PD | Liquid | Not specified in record |
 
 ---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-*(Note: This evidence pack flags a Blocking data gap — TFDA package insert warnings/contraindications are not yet available, which prevents completion of the S1 safety pre-screen. Key warnings, contraindications, and drug-drug interaction data are currently listed as data gaps and are omitted here per reporting policy.)*
 
 ---
 
@@ -96,13 +98,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high, but the evidence level is only L4 and is based purely on drug-class mechanistic reasoning — there is no triprolidine-specific clinical trial or literature evidence for allergic urticaria, and a **Blocking** data gap (missing TFDA safety/label data) prevents even a baseline safety evaluation.
+The prediction is mechanistically sensible because H1 blockade is a standard approach in urticaria. However, the evidence level is L5, with no trials, no literature, and no mechanism or safety data in the record. This is not enough to support further investment.
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings, contraindications) — currently a Blocking gap
-- Confirmed original approved indication(s) and MOA from DrugBank
-- Triprolidine-specific clinical or observational evidence in allergic/chronic urticaria (not just class-level or derivative-drug data)
-- Market/licensing status confirmation, since the drug currently shows as not marketed in Taiwan
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- A targeted literature search for triprolidine in urticaria, including single-ingredient and combination products
+- Confirmation of the labeled indications of the four US products
+- Consideration of cold urticaria (rank 2) as a better-supported alternative direction, since it has indirect RCT evidence from a structural analog
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

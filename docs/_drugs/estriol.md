@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Estriol
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 676
-evidence_level: L5
+evidence_level: L3
 indication_count: 1
 ---
 
 # Estriol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **1** 
+Evidence Level: **L3** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,93 +29,93 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Estriol: From an Undocumented Original Indication to Amenorrhea
+# Estriol: From Topical Estrogen Cream to Amenorrhea
 
 ## One-Sentence Summary
 
-Estriol is a naturally occurring, weak estrogen; this dataset does not record its original approved indication or mechanism of action, and it is not currently marketed in Taiwan. The TxGNN model predicts potential efficacy for **Amenorrhea** (specifically functional hypothalamic amenorrhea, FHA) with a high model score of **99.18%**, but the supporting evidence is currently thin: of **3** registered clinical trials, none directly support this drug-indication pair (two test a different compound, estetrol, and one was withdrawn), and of **13** publications identified, only one is a relevant interventional pilot study on estriol in FHA.
-
----
+Estriol is an estrogen. In the US market records it appears only in topical cream products, and none of those records lists an approved indication.
+The TxGNN model predicts it may be effective for **amenorrhea**, especially functional hypothalamic amenorrhea.
+The support is thin: **3 clinical trials** (none directly relevant) and **13 publications**, of which only one small interventional study looks at estriol in this condition.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in this dataset |
-| Predicted New Indication | Amenorrhea (functional hypothalamic amenorrhea) |
+| Original Indication | Not stated in the license records (all listed products are topical creams) |
+| Predicted New Indication | Amenorrhea |
 | TxGNN Prediction Score | 99.18% |
-| Evidence Level | L4 (mechanistic/preliminary studies only) |
-| Market Status (Taiwan) | Not marketed |
-| Number of Licenses | 0 |
+| Evidence Level | L3 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 11 license records (ANDA and other listings, not all NDAs) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for estriol in this dataset. Based on known pharmacology, estriol is a naturally occurring, low-potency estrogen.
+Currently, detailed mechanism of action data is not available. Estriol is a weak natural estrogen, and estrogen replacement is a standard concept in conditions of low estrogen. Amenorrhea is often accompanied by low estrogen, so the prediction is biologically plausible.
 
-Functional hypothalamic amenorrhea (FHA) is driven by suppression of pulsatile GnRH release from the hypothalamus, resulting in a systemic hypoestrogenic state and loss of menstrual cycling. The repurposing hypothesis is that low-dose exogenous estriol could modulate hypothalamic-pituitary function — for example by altering LH secretion via negative feedback — and partially support recovery of the gonadal axis in FHA patients.
+The best-supported link is functional hypothalamic amenorrhea (FHA). In FHA, stress or metabolic factors suppress GnRH pulses from the hypothalamus. This lowers LH and FSH, reduces ovarian function, and produces a low-estrogen state. A small human study (PMID 22137494) reports that estriol administration modulated LH secretion in women with FHA. A 2023 review (PMID 37371858) proposes that low-dose estrogens act as neuroendocrine modulators that may help restore the positive feedback mechanism. Estrogen replacement in premature ovarian failure, another cause of amenorrhea, is also plausible.
 
-This is a plausible but indirect mechanistic link: it reflects a general pharmacological effect of estrogen replacement rather than an estriol-specific action, and no controlled trial has yet tested "resumption of menstrual cycling" as a primary endpoint. The prediction should therefore be treated as a research hypothesis rather than a clinically validated finding.
-
----
+There are important limits. The link rests on small studies and a hypothesis-generating review. The 0.99 TxGNN score is a computational prediction, not clinical confirmation. Amenorrhea is heterogeneous (hypothalamic, ovarian, anatomical), so estriol is unlikely to help across all subtypes.
 
 ## Clinical Trial Evidence
 
+None of these trials tests estriol for amenorrhea, so none counts as direct evidence.
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT04487392](https://clinicaltrials.gov/study/NCT04487392) | Phase 2 | Withdrawn | 0 | Tested photobiomodulation (not a drug) for postmenopausal vulvovaginal atrophy — unrelated intervention and indication, trial withdrawn with zero enrollment. Not usable as evidence. |
-| [NCT04090957](https://clinicaltrials.gov/study/NCT04090957) | Phase 3 | Completed | 1015 | E4Comfort Study II — tested **estetrol (E4)**, a distinct compound from estriol (E3), for postmenopausal vasomotor symptoms. Unrelated to amenorrhea; appears to be a drug-name mismatch in the source data. |
-| [NCT04209543](https://clinicaltrials.gov/study/NCT04209543) | Phase 3 | Completed | 1570 | E4Comfort Study I — also tests estetrol, not estriol, for vasomotor symptoms. Same mismatch issue as above. |
-
-**None of the identified trials directly support estriol's use in amenorrhea.** All three are excluded on relevance review (wrong drug, wrong indication, or withdrawn/zero enrollment).
-
----
+| [NCT04487392](https://clinicaltrials.gov/study/NCT04487392) | Phase 2 | Withdrawn | 0 | Photobiomodulation for vulvovaginal atrophy in postmenopausal women. Withdrawn before enrollment, and the condition differs from amenorrhea. |
+| [NCT04090957](https://clinicaltrials.gov/study/NCT04090957) | Phase 3 | Completed | 1015 | Placebo-controlled trial of estetrol (E4Comfort II) for vasomotor symptoms in postmenopausal women. Estetrol is a different molecule from estriol. |
+| [NCT04209543](https://clinicaltrials.gov/study/NCT04209543) | Phase 3 | Completed | 1570 | Placebo-controlled trial of estetrol (E4Comfort I) for vasomotor symptoms in postmenopausal women. Estetrol is a different molecule from estriol. |
 
 ## Literature Evidence
 
+No randomized controlled trials were found. Several abstracts are not available, so some summaries are based on titles only.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [22137494](https://pubmed.ncbi.nlm.nih.gov/22137494/) | 2012 | Cohort / interventional pilot study | Fertility and Sterility | Evaluated estriol administration's effect on hypothalamic-pituitary function and gonadotropin (LH) secretion in women with functional hypothalamic amenorrhea. |
-| [37371858](https://pubmed.ncbi.nlm.nih.gov/37371858/) | 2023 | Review | Biomedicines | Reviews low-dose estrogens as neuroendocrine modulators in FHA, discussing the mechanism of impaired GnRH pulsatility and potential for restoring positive-feedback signaling. |
-| [16526238](https://pubmed.ncbi.nlm.nih.gov/16526238/) | 2005 | Cohort | Medicinski Pregled | Examines lipid and hormonal profiles in women with premature primary ovarian failure treated with estro-progestagens; relevant to hypoestrogenic amenorrhea but not estriol-specific. |
-| [4102186](https://pubmed.ncbi.nlm.nih.gov/4102186/) | 1971 | Case report / cohort | Lancet | Endocrinological findings in two patients with premature ovarian failure. |
-| [2949864](https://pubmed.ncbi.nlm.nih.gov/2949864/) | 1986 | Cohort | Zhong Xi Yi Jie He Za Zhi | Observational study on gonadal function changes in women with amenorrhea/oligomenorrhea (traditional Chinese medicine framework); limited direct relevance. |
-| [7026111](https://pubmed.ncbi.nlm.nih.gov/7026111/) | 1981 | Review | Clinical Obstetrics and Gynecology | Reviews hormonal contraception and neoplasia; only tangentially related. |
-| [4254759](https://pubmed.ncbi.nlm.nih.gov/4254759/) | 1971 | Review / case series | British Journal of Psychiatry | Discusses anorexia nervosa; not a direct estriol treatment study. |
-| [5935707](https://pubmed.ncbi.nlm.nih.gov/5935707/) | 1966 | Case report | American Journal of Obstetrics and Gynecology | Endocrine effects of medroxyprogesterone acetate during pregnancy — different drug. |
-| [979592](https://pubmed.ncbi.nlm.nih.gov/979592/) | 1976 | Methodology | Die Medizinische Welt | Radioimmunoassay methodology for reproductive hormones including estriol; not a treatment study. |
-| [1239569](https://pubmed.ncbi.nlm.nih.gov/1239569/) | 1975 | Review | Rinsho Byori | Reviews hormone assay methods in obstetrics/gynecology; methodological, not treatment-focused. |
+| [22137494](https://pubmed.ncbi.nlm.nih.gov/22137494/) | 2012 | Small interventional study | Fertility and Sterility | Evaluated estriol's effect on hypothalamic-pituitary function and gonadotropin secretion in women with FHA. Reports that estriol modulates LH secretion. |
+| [37371858](https://pubmed.ncbi.nlm.nih.gov/37371858/) | 2023 | Review | Biomedicines | Proposes low-dose estrogens as neuroendocrine modulators in FHA, possibly triggering positive feedback. Hypothesis-generating. |
+| [16526238](https://pubmed.ncbi.nlm.nih.gov/16526238/) | 2005 | Clinical study | Medicinski Pregled | Effects of estrogen-progestagen therapy on lipid and hormonal profiles in premature primary ovarian failure (hypergonadotropic amenorrhea). Not estriol-specific. |
+| [14194444](https://pubmed.ncbi.nlm.nih.gov/14194444/) | 1964 | Clinical trial (per title) | J Obstet Gynaecol Br Commonw | Gonadotrophin treatment in idiopathic secondary amenorrhea. Historical, and does not test estriol. |
+| [4102186](https://pubmed.ncbi.nlm.nih.gov/4102186/) | 1971 | Case report | Lancet | Endocrine findings in two patients with premature ovarian failure. |
+| [2949864](https://pubmed.ncbi.nlm.nih.gov/2949864/) | 1986 | Observational study | Zhong Xi Yi Jie He Za Zhi | Relationship between "kidney deficiency" (a traditional Chinese medicine concept) and gonadal function changes in amenorrhea and oligomenorrhea. |
+| [7026111](https://pubmed.ncbi.nlm.nih.gov/7026111/) | 1981 | Review | Clin Obstet Gynecol | Neoplasia and hormonal contraception. Only indirectly relevant. |
+| [4254759](https://pubmed.ncbi.nlm.nih.gov/4254759/) | 1971 | Review | Br J Psychiatry | Review of anorexia nervosa. Abstract not available, so its relevance is unclear. |
 
-Only **PMID 22137494** directly evaluates estriol treatment in FHA patients; the remainder are background, methodological, or indirectly related material.
+## US Market Information
 
----
+These records come from the market data. Several entries have no license number or approved indication in the source data.
 
-## Market Information
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Not provided | LMNOOP Feminine Cream | Cream | Not stated |
+| M016 | JARDIENT | Cream | Not stated |
+| Not provided | Beilloso Women Estriol | Cream | Not stated |
+| ANDA075357 | Arthcal ESTROGEN | Cream | Not stated |
+| Not provided | Flocean INTIMATE COMFORT | Cream | Not stated |
 
-Estriol is **not currently marketed in Taiwan** — no drug licenses are on record (0 total). No original-indication or NDA data is available to summarize here.
-
----
+Showing 5 of 11 license records. All are topical creams. Because the predicted indication would likely need systemic estrogen exposure, route compatibility remains unassessed.
 
 ## Safety Considerations
 
-TFDA label warnings, contraindications, and drug-interaction data for estriol are **not currently available** in this dataset (flagged as a Blocking data gap — this is required before any safety pre-screen can proceed). Please refer to the package insert for safety information once available.
-
----
+Please refer to the package insert for safety information. Drug interaction queries returned no results.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic rationale for estriol in functional hypothalamic amenorrhea is biologically plausible but indirect, and is supported by only one relevant pilot study — none of the three registered clinical trials actually test this drug-indication pair. Combined with the absence of TFDA label/safety data (a Blocking gap for the S1 safety pre-screen) and the fact that estriol is not currently marketed in Taiwan, the evidence does not yet support proceeding.
+The prediction score is high and the FHA mechanism is plausible. However, the only direct human evidence is one small study, and none of the registered trials tests estriol for amenorrhea. Safety screening is also blocked because package insert data is missing.
 
 **To proceed, the following is needed:**
-- TFDA label warnings and contraindications (DG001, Blocking)
-- Confirmed mechanism of action data from DrugBank or other authoritative source (DG002)
-- Direct clinical trial evidence of estriol (not estetrol) in FHA/amenorrhea, ideally with menstrual-cycle resumption as an endpoint
-- Clarification of Taiwan import/access pathway given current unmarketed status
+- Package insert warnings and contraindications (blocking for safety screening)
+- Detailed mechanism of action data (MOA)
+- Confirmation of the drug identity in the two estetrol trials (NCT04090957, NCT04209543)
+- Controlled trials of estriol in a defined amenorrhea subtype, such as FHA
+- Route and formulation assessment, since all marketed products are topical creams
+- Clarification of the original approved indication and the license status of the entries with no license number
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

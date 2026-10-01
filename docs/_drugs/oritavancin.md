@@ -29,42 +29,37 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Oritavancin: From Gram-Positive Bacterial Infections to Bacteroidaceae Infectious Disease (Low-Confidence Prediction)
+# Oritavancin: From Acute Bacterial Skin Infections to Bacteroidaceae Infectious Disease
 
 ## One-Sentence Summary
 
-> Oritavancin is a lipoglycopeptide antibiotic whose detailed mechanism-of-action record is currently missing from DrugBank, and it holds no market authorization in Taiwan.
-> TxGNN's top prediction suggests possible activity against **Bacteroidaceae infectious disease**, but this candidate — along with two other top-ranked predictions — is supported by **zero clinical trials and zero publications**, and the model's own mechanistic rationale flags all three as pharmacologically implausible.
-
----
+Oritavancin is an injectable lipoglycopeptide antibiotic marketed in the US, and its labeled use is for Gram-positive skin and soft-tissue infections.
+The TxGNN model predicts it may be effective for **Bacteroidaceae infectious disease**, but **0 clinical trials** and **0 publications** support this direction.
+The prediction rests on the model score alone and is biologically questionable.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no Taiwan license records; drug class (per mechanistic evidence) is a Gram-positive-targeting lipoglycopeptide antibiotic |
+| Original Indication | Acute bacterial skin and skin structure infections (the supplied license records do not list indication text; this reflects general knowledge of the product labeling) |
 | Predicted New Indication | Bacteroidaceae infectious disease |
 | TxGNN Prediction Score | 99.48% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| US Market Status | ✗ Not marketed (Not Marketed) |
-| Number of NDAs | 0 |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for oritavancin is currently marked as a data gap in DrugBank. However, the TxGNN rationale text itself supplies mechanistic context: oritavancin is a **lipoglycopeptide antibiotic** that inhibits peptidoglycan (cell wall) synthesis in Gram-positive bacteria by binding the D-Ala-D-Ala terminus of the peptidoglycan precursor, while also disrupting bacterial membrane integrity.
+Currently, detailed mechanism of action data is not available in the supplied record. Oritavancin is a lipoglycopeptide that inhibits cell wall synthesis in Gram-positive bacteria and disrupts their membranes.
 
-None of the three top-ranked predictions in this evidence pack fit that mechanism:
+The predicted indication is hard to reconcile with that mechanism. Bacteroidaceae are Gram-negative anaerobes, and their outer membrane normally blocks glycopeptides from reaching their target. The high score (0.995) is most likely a graph-proximity artifact in the knowledge graph. It should not be read as a clinical signal without in vitro susceptibility data.
 
-- **Bacteroidaceae infectious disease** — *Bacteroides* spp. are Gram-negative anaerobes. Their outer membrane physically blocks glycopeptide penetration, and oritavancin has no established clinical activity against Gram-negative organisms.
-- **Ophthalmic herpes zoster** — caused by Varicella-zoster virus, a viral pathogen. Oritavancin has no antiviral mechanism whatsoever; this pairing is categorically mismatched (antibacterial vs. antiviral).
-- **Mycoplasma pneumoniae pneumonia** — *M. pneumoniae* lacks a cell wall entirely, and is intrinsically resistant to all cell-wall-targeting agents, including glycopeptides.
+The other two top predictions are weaker still:
+- **Ophthalmic herpes zoster (score 99.03%):** this is a viral disease, and oritavancin has no recognized antiviral target.
+- **Mycoplasma pneumoniae pneumonia (score 99.01%):** Mycoplasma lacks a cell wall, so a cell-wall-targeting agent is expected to be ineffective. This is a mechanistic contradiction, not just a gap in the data.
 
-In all three cases, the repurposing rationale supplied alongside the TxGNN score explicitly concludes that the high prediction score likely reflects knowledge-graph co-occurrence or embedding similarity rather than genuine pharmacological plausibility — i.e., these are probable false positives rather than credible repurposing leads.
-
----
+All three predictions are Evidence Level L5 with a Hold recommendation.
 
 ## Clinical Trial Evidence
 
@@ -74,44 +69,33 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
----
-
-## Additional Predicted Indications (Ranks 2–3, Not Recommended)
-
-| Rank | Predicted Indication | TxGNN Score | Evidence Level | Mechanistic Assessment | Decision |
-|------|----------------------|-------------|-----------------|--------------------------|----------|
-| 2 | Ophthalmic herpes zoster | 99.03% | L5 | Viral pathogen — no antibacterial mechanism applies | Hold |
-| 3 | Mycoplasma pneumoniae pneumonia | 99.01% | L5 | Cell-wall-deficient organism — intrinsic resistance to glycopeptides | Hold |
-
-All three top TxGNN candidates (including rank 1 above) share the same evidence profile: no clinical trials, no literature, and a mechanistic rationale that argues against — rather than for — biological plausibility.
-
----
-
 ## US Market Information
 
-Oritavancin currently has **no Taiwan market authorization** (0 NDA/license records; market status: Not marketed/Not Marketed). No product, dosage form, or approved-indication data is available for review.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA214155 | Kimyrsa (Melinta Therapeutics, LLC) | Injection, powder, lyophilized, for solution | — |
+| NDA206334 | Orbactiv (Melinta Therapeutics, LLC) | Injection, powder, lyophilized, for solution | — |
 
----
+Both products are injectable only. No drug interactions were found in the queried data.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-*(Key warnings, contraindications, and drug-drug interaction data are currently unavailable — TFDA label data is a blocking data gap [DG001] for this candidate.)*
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All three predicted indications are at the earliest evaluation stage (S0/L5 — model prediction only, no clinical or literature support), and mechanistic review indicates each is likely a false positive: Gram-negative outer membrane exclusion (Bacteroidaceae), wrong drug class entirely (antiviral need vs. antibacterial drug — herpes zoster), and intrinsic target absence (cell-wall-deficient *M. pneumoniae*). Combined with the absence of any Taiwan market presence and missing core safety data, there is no basis to advance any of these candidates.
+The prediction has no trial or literature support (L5), and the known mechanism argues against it. Oritavancin acts on Gram-positive cell walls, while Bacteroidaceae are Gram-negative anaerobes protected by an outer membrane. The high TxGNN score alone does not justify further investment.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (blocking gap — required before any S1 safety screening)
-- Confirmed mechanism of action and approved indication(s) for oritavancin via DrugBank/FDA labeling
-- If repurposing evaluation continues for this drug, redirect candidate screening toward Gram-positive pathogen indications consistent with its actual glycopeptide mechanism, rather than the three mechanistically incompatible candidates identified here
+- In vitro susceptibility (MIC) data for oritavancin against Bacteroidaceae isolates
+- Detailed mechanism of action data
+- Package insert warnings and contraindications
+- Indication text for the two NDAs, to confirm the original indication
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

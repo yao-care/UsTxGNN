@@ -29,76 +29,73 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Spironolactone: From Established Uses to Hypotrichosis Simplex of the Scalp
+# Spironolactone: From Established Aldosterone-Antagonist Uses to Hypotrichosis Simplex of the Scalp
 
 ## One-Sentence Summary
 
-> Spironolactone is a well-established mineralocorticoid receptor antagonist; however, the evidence pack does not contain its approved indication text or mechanism-of-action data.
-> The TxGNN model predicts potential efficacy for **Hypotrichosis Simplex of the Scalp**,
-> but this prediction is supported by **no clinical trials** and **no published literature** — score alone drives the ranking.
-
----
+Spironolactone is a marketed oral drug that blocks mineralocorticoid and androgen receptors. It is already used off-label for androgen-driven hair loss.
+The TxGNN model predicts it may be effective for **hypotrichosis simplex of the scalp**, a rare hereditary hair loss disorder.
+There are currently **0 clinical trials** and **0 publications** supporting this prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not specified in evidence pack (no approved indication text provided; drug is not currently marketed under any license in this dataset) |
-| Predicted New Indication | Hypotrichosis Simplex of the Scalp |
+| Original Indication | Not stated in the local regulatory records provided |
+| Predicted New Indication | Hypotrichosis simplex of the scalp |
 | TxGNN Prediction Score | 99.26% |
-| Evidence Level | L5 |
-| US Market Status | Not Marketed (Not marketed) |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for spironolactone in this evidence pack. Based on the rationale accompanying the prediction, spironolactone is known to act as a mineralocorticoid receptor antagonist with weak antiandrogen activity, and is used clinically as an adjunct in androgenetic alopecia — a hormonally-driven, acquired form of hair loss.
+Detailed mechanism of action data is not available in the source record. Spironolactone is known to act as an antagonist of both the androgen receptor and the mineralocorticoid receptor. That antiandrogen action is why it is used off-label for female pattern hair loss and other androgen-related hair loss.
 
-Hypotrichosis simplex of the scalp, however, is a distinct, genetically inherited follicular developmental disorder (commonly associated with *APCDD1* or *CDH3* mutations) that is **not androgen-dependent**. There is no established mechanistic pathway connecting spironolactone's antimineralocorticoid/antiandrogen activity to this congenital condition. The high TxGNN score is most plausibly explained by lexical/semantic overlap between "hypotrichosis" and "alopecia" in the knowledge graph, rather than genuine biological plausibility.
+Hypotrichosis simplex of the scalp is a rare inherited hair loss disorder. It is linked to variants in genes such as APCDD1, CDSN and SNRPE. Its mechanism is largely not androgen-dependent, so the connection to spironolactone's antiandrogen effect is speculative. The high TxGNN score reflects graph-based inference and should not be read as mechanistic proof.
 
-The second-ranked prediction in this pack, *congenital hypotrichosis milia* (score 99.04%), shows the same pattern — a rare congenital syndrome with no known link to mineralocorticoid or androgen pathways, and likewise unsupported by any trial or literature evidence. This reinforces the interpretation that both predictions are likely artifacts of disease-name similarity rather than mechanistically grounded repurposing candidates.
-
----
+The second-ranked prediction, **congenital hypotrichosis milia** (score 99.04%), is also unsupported. It is a very rare congenital condition with sparse mechanistic characterization, and it has no clinical trials or literature. It is not developed further here.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-No marketing authorizations are recorded for this drug in the current dataset (0 licenses, market status: Not Marketed). Regulatory/label data would need to be sourced separately (see Data Gap DG001).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA202187 | SPIRONOLACTONE (NorthStar Rx LLC) | Tablet | Not provided |
+| ANDA040750 | Spironolactone (Proficient Rx LP) | Tablet, coated | Not provided |
+| ANDA205936 | spironolactone (REMEDYREPACK INC.) | Tablet, film coated | Not provided |
+| ANDA091426 | Spironolactone (Amneal Pharmaceuticals LLC) | Tablet | Not provided |
+| NDA209478 | SPIRONOLACTONE (Padagis US LLC) | Suspension | Not provided |
 
----
+Only 5 of the 20 authorizations are shown. All listed products are oral or oral-suspension forms. No topical formulation is listed.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This candidate rests entirely on an L5 model score with no clinical trial or literature corroboration, and the underlying mechanistic rationale argues *against* biological plausibility (an androgen/mineralocorticoid-pathway drug proposed for a non-hormonal, congenital follicular disorder). Combined with the absence of any Taiwan/US market authorization and missing safety label data (DG001, Blocking), this candidate does not meet the bar to advance past S0.
+The prediction has no clinical trials or publications behind it (L5), and the disorder's biology is not clearly androgen-driven. The link to spironolactone's mechanism is therefore speculative. Safety data are also missing, which blocks the safety screening step.
 
 **To proceed, the following is needed:**
-- TFDA/FDA package insert (warnings, contraindications) — required to clear the S1 safety gate (DG001)
-- Confirmed mechanism-of-action documentation from DrugBank or primary literature (DG002)
-- Independent literature or preclinical search specifically on spironolactone in hereditary hypotrichosis syndromes, to confirm or refute the suspected knowledge-graph name-similarity artifact
-- If mechanistic plausibility cannot be established, recommend deprioritizing this candidate in favor of higher-ranked, mechanistically coherent TxGNN predictions for this drug
+- FDA package insert warnings and contraindications (blocking gap; download and parse the label)
+- Mechanism of action data for spironolactone (for example, from the DrugBank API)
+- Approved indication text for the US licenses
+- Evidence that the disorder's genetic pathways (APCDD1, CDSN, SNRPE) respond to androgen or mineralocorticoid receptor blockade, such as preclinical or case-level data
+- Route compatibility assessment: the available forms are oral, while hair disorders may call for a topical route
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

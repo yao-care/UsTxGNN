@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Human Immunoglobulin G
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 773
-evidence_level: L5
+evidence_level: L4
 indication_count: 3
 ---
 
 # Human Immunoglobulin G
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **3** 
+Evidence Level: **L4** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,58 +29,89 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Human Immunoglobulin G: From No Locally Approved Indication to Severe Nonproliferative Diabetic Retinopathy (Predicted)
+# Human Immunoglobulin G: From Approved Immunoglobulin Products to Severe Nonproliferative Diabetic Retinopathy
 
 ## One-Sentence Summary
 
-Human Immunoglobulin G (DrugBank DB00028) is not currently marketed in this jurisdiction, and no approved indication is on file. The TxGNN model predicts it may be effective for **severe nonproliferative diabetic retinopathy**, but this direction is currently supported by **0 clinical trials** and only **1 publication**, which is a biomarker-correlation study rather than treatment evidence.
+Human immunoglobulin G (IgG) is a plasma-derived antibody product marketed in the US as several BLA-licensed injectable and subcutaneous formulations. The TxGNN model predicts it may be effective for **severe nonproliferative diabetic retinopathy**, but this rests almost entirely on a computational score. There are **0 clinical trials** and **1 publication** (a biomarker study of the body's own IgG, not of IgG as a treatment) behind this specific prediction.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — drug is not marketed locally and no license/indication record exists |
-| Predicted New Indication | Severe Nonproliferative Diabetic Retinopathy |
+| Original Indication | Not stated in the available regulatory data |
+| Predicted New Indication | Severe nonproliferative diabetic retinopathy |
 | TxGNN Prediction Score | 99.75% |
-| Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L4 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (listed as BLA licenses) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for this drug is currently unavailable (data gap). No original indication is on file locally either, so the usual comparison between an established indication and the predicted new one cannot be made here.
+Currently, detailed mechanism of action data is not available for this drug, and its original approved indications are not listed in the source data. Human IgG is a pooled antibody product with immune-modulating properties, so a link to immune-mediated disease is plausible in principle. The evidence pack does not establish a therapeutic mechanism for the retina.
 
-The only literature identified for this candidate (PMID 40204274) investigated serum IgG Fc N-glycosylation patterns as a **diagnostic biomarker** to distinguish nonproliferative from proliferative diabetic retinopathy — it does not test immunoglobulin G as a therapeutic intervention. The mechanistic link is therefore correlational (IgG glycosylation changes co-occur with disease severity), not causal or interventional, and it remains unclear whether altered IgG glycosylation is a consequence of the disease or a contributor to it.
+The only supporting study is a 2025 biomarker study. It found that patterns of sugar-chain (Fc glycosylation) changes on a patient's own serum IgG differ between people with non-proliferative diabetic retinopathy (NPDR), proliferative diabetic retinopathy (PDR), and no retinopathy. This suggests immune-related inflammation may play a role in diabetic retinopathy. It does not show that giving patients human IgG would help.
 
-Because both the original-indication context and the MOA are missing, and the sole supporting publication is an observational biomarker study, the biological rationale for repurposing into this indication is currently weak and should be treated as a model-generated hypothesis rather than a mechanistically grounded prediction.
+The high TxGNN score is a computational prediction only. A score of 0.998 should be read as a hypothesis to test, not as evidence of efficacy.
+
+---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for severe nonproliferative diabetic retinopathy.
+
+For the broader term "diabetic retinopathy", the search returned three trials. None tested human IgG (an adalimumab uveitis study, a type 1 diabetes beta-cell study, and an aflibercept study in diabetic macular edema), so they do not support this prediction.
+
+---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [40204274](https://pubmed.ncbi.nlm.nih.gov/40204274/) | 2025 | Observational/Biomarker | Molecular & Cellular Proteomics | Serum disease-specific IgG Fc N-glycosylation profiled by mass spectrometry in 160 patients (47 non-DR, 51 NPDR, 62 PDR) as a potential diagnostic biomarker distinguishing nonproliferative from proliferative diabetic retinopathy; not a treatment study. |
+| [40204274](https://pubmed.ncbi.nlm.nih.gov/40204274/) | 2025 | Biomarker association study | Molecular & Cellular Proteomics | In 160 patients (47 no retinopathy, 51 NPDR, 62 PDR), serum IgG Fc glycosylation patterns were evaluated as diagnostic markers to distinguish NPDR and PDR. It does not test IgG as a treatment. |
+
+Related literature found under the broader "diabetic retinopathy" term is also indirect. It includes a 2025 Mendelian randomization study linking IgG N-glycosylation patterns to diabetic complications ([40682148](https://pubmed.ncbi.nlm.nih.gov/40682148/)) and an observational study of IgG glycosylation in diabetic retinopathy ([33491329](https://pubmed.ncbi.nlm.nih.gov/33491329/)). None of these studies evaluated IgG administration.
+
+---
+
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| BLA125822 | QIVIGY (Kedrion S.p.A.) | Injection, solution | Not listed in source data |
+| BLA125668 | Cutaquig (Pfizer Laboratories Div Pfizer Inc) | Solution | Not listed in source data |
+| BLA125350 | Hizentra (CSL Behring AG) | Liquid | Not listed in source data |
+| BLA125201 | Privigen (CSL Behring AG) | Liquid | Not listed in source data |
+
+These are the first five of 20 licenses. Cutaquig appears twice in the source data and is shown once here.
+
+---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Evidence is limited to a single observational biomarker study with no supporting clinical trials, and both the drug's mechanism of action and local regulatory/indication history are unavailable — the mechanistic link to severe nonproliferative diabetic retinopathy is correlational, not interventional.
+The prediction is supported only by a high TxGNN score and one biomarker study of endogenous IgG, with no clinical trial testing human IgG in diabetic retinopathy. Package insert safety data is also missing, so the candidate cannot yet move to safety screening.
 
 **To proceed, the following is needed:**
-- Mechanism of action (MOA) data from DrugBank or equivalent source (data gap DG002)
-- Local product label / warnings and contraindications (data gap DG001, currently blocking)
-- An interventional (not purely observational) study testing immunoglobulin G's effect on diabetic retinopathy progression or severity
-- Clarification of whether IgG Fc glycosylation is causally implicated in retinopathy pathogenesis, versus being a downstream marker of disease severity
+- Package insert warnings and contraindications (a blocking gap), plus the approved indications of each product
+- Mechanism of action data (for example, from DrugBank) and a stated rationale for how exogenous IgG could act in the retina
+- Preclinical or clinical evidence that administering human IgG affects diabetic retinopathy
+- Route feasibility for retinal disease, since the listed products are injectable or subcutaneous and route compatibility has not been assessed
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

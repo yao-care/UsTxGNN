@@ -29,13 +29,11 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Sorbitol: From Unrecorded Original Indication to Exercise-Induced Malignant Hyperthermia
+# Sorbitol: From Osmotic Laxative and Irrigant Use to Exercise-Induced Malignant Hyperthermia
 
 ## One-Sentence Summary
 
-> Sorbitol's original approved indication and mechanism of action are not currently documented in this evidence pack (data gap).
-> The TxGNN model predicts a possible association with **Exercise-Induced Malignant Hyperthermia**,
-> but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a model-only signal with no mechanistic or clinical corroboration.
+Sorbitol is a sugar alcohol (polyol) marketed in the US as a bladder irrigation solution, an oral solution and a dental product ingredient. The TxGNN model predicts it may be effective for **exercise-induced malignant hyperthermia**, but there are currently **0 clinical trials** and **0 publications** supporting this direction. The high score most likely reflects knowledge-graph proximity, not a therapeutic effect.
 
 ---
 
@@ -43,23 +41,23 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no approved indication text on record |
-| Predicted New Indication | Exercise-Induced Malignant Hyperthermia |
-| TxGNN Prediction Score | 99.40% |
+| Original Indication | Not specified in the US license records (all approved indication text is blank) |
+| Predicted New Indication | Exercise-induced malignant hyperthermia |
+| TxGNN Prediction Score | 99.40% (model rank 13,663) |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 3 license records (only one has an NDA number) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for sorbitol (recorded as a data gap). No original indication is on file either, so the drug's established therapeutic context cannot be compared against the predicted indication.
+Currently, detailed mechanism of action data is not available for sorbitol. It is a polyol used as an osmotic laxative, sweetener and pharmaceutical excipient. Its use in a bladder irrigant is consistent with an osmotic, non-metabolized solute role. No efficacy in any disease resembling the predicted indication has been documented in the data provided.
 
-Based on the rationale provided with this prediction, sorbitol is generally known as an osmotic agent/sugar alcohol. Exercise-induced malignant hyperthermia is pathophysiologically driven by RYR1/CACNA1S mutations causing abnormal calcium release from the skeletal muscle sarcoplasmic reticulum, typically triggered by volatile anesthetics or succinylcholine. There is no known pharmacological pathway connecting sorbitol to calcium channel regulation or malignant hyperthermia pathophysiology.
+Malignant hyperthermia is a pharmacogenetic disorder of skeletal muscle calcium handling, typically involving RYR1 or CACNA1S variants. The standard treatment is dantrolene. Nothing in sorbitol's known pharmacology connects it to this pathway.
 
-**This prediction should be treated as a statistical association from the TxGNN knowledge graph (score 0.994) rather than a mechanistically grounded hypothesis.** The evidence pack itself flags this link as lacking mechanistic plausibility, and no clinical or literature evidence currently exists to support it.
+**No credible mechanistic link is established.** The score of 0.994 most likely reflects proximity in the knowledge graph, such as shared carbohydrate-metabolism neighbors or excipient-related associations. It is not evidence of benefit. Any hypothesis, such as an osmotic or metabolic effect on muscle, would be speculative and unsupported by the provided data.
 
 ---
 
@@ -77,15 +75,17 @@ Currently no related literature available.
 
 ## US Market Information
 
-Sorbitol has no recorded market authorizations in this evidence pack (0 licenses; status: Not Marketed). No product/dosage-form/indication data is available to tabulate.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA017863 | Sorbitol (Baxter Healthcare Corporation) | Irrigant | Not specified in record |
+| M007 | GeriCare Sorbitol Solution (Geri-Care Pharmaceuticals, Corp) | Liquid | Not specified in record |
+| Not available | Plaque identifying (Shenzhen Yagao Technology Co., Ltd.) | Powder, dentifrice | Not specified in record |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-*(Note: TFDA label warnings/contraindications are marked as a **Blocking** data gap — this must be resolved before any safety-relevant decision can be made.)*
+Please refer to the package insert for safety information. No drug-interaction records were found for sorbitol in the queried data.
 
 ---
 
@@ -94,13 +94,16 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-There is no mechanistic, clinical, or literature evidence supporting this prediction — it rests solely on a TxGNN knowledge-graph score (L5). Combined with missing MOA data and a **Blocking** gap in TFDA safety labeling, this candidate does not meet the minimum bar to advance to safety screening (S1).
+The prediction rests only on a model score, with no clinical trials, no literature and no plausible mechanism. Sorbitol is not known to act on muscle calcium regulation, and an established treatment (dantrolene) already exists. This is most likely a knowledge-graph artifact.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (DG001, Blocking) — required before any S1 safety evaluation
-- Confirmed mechanism of action (DG002, High) — required to assess mechanistic plausibility
-- Original approved indication(s) for sorbitol, to establish a baseline for comparison
-- Any preclinical or case-level evidence specifically linking sorbitol to malignant hyperthermia pathways, if it exists
+- Mechanism of action data for sorbitol, and a testable hypothesis linking it to malignant hyperthermia pathophysiology
+- Preclinical evidence (for example, a muscle contracture test or RYR1 model) showing any effect
+- FDA package insert warnings and contraindications, which are required before any safety screening
+- Approved indication text for the listed products, to confirm the original indication
+- A route-compatibility assessment, since the marketed forms (irrigant, oral liquid, dentifrice) do not match a plausible treatment route for this condition
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

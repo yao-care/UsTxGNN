@@ -29,32 +29,38 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Mafenide: From Topical Burn Wound Antibacterial to Irritable Bowel Syndrome
+# Mafenide: From Burn Wound Infection to Irritable Bowel Syndrome
 
 ## One-Sentence Summary
 
-> Mafenide is a sulfonamide-class topical antibacterial historically used for burn wound infection prophylaxis (brand name Sulfamylon), but it currently holds **no marketing license in Taiwan**.
-> The TxGNN model predicts it may be effective for **Irritable Bowel Syndrome**, but this prediction is supported by **0 clinical trials** and **0 publications**, and the evidence pack itself flags it as likely model noise.
+Mafenide is a topical sulfonamide antimicrobial, marketed in the US as a cream (Sulfamylon) for burn wound care.
+The TxGNN model predicts it may be effective for **irritable bowel syndrome**, but **0 clinical trials** and **0 publications** currently support this direction.
+The prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no TFDA license on file; historically used as a topical antibacterial for burn wounds (Sulfamylon) |
-| Predicted New Indication | Irritable Bowel Syndrome |
+| Original Indication | Not listed in the US label data (mafenide is known as a topical burn wound antimicrobial) |
+| Predicted New Indication | Irritable bowel syndrome |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed (Not marketed) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for mafenide is not available in this evidence pack (Data Gap). Based on general pharmacological knowledge, mafenide is a topical sulfonamide antibacterial (a PABA antagonist that inhibits bacterial folate synthesis), historically marketed as Sulfamylon for burn wound infection prophylaxis. It is not currently licensed in Taiwan — 0 TFDA licenses, market status "not marketed."
+Currently, detailed mechanism of action data is not available. Mafenide is a topical sulfonamide antimicrobial and carbonic anhydrase inhibitor, used on the skin and not systemically. Its effect on burn wound infection is established, but that does not carry over to irritable bowel syndrome (IBS).
 
-There is no established mechanistic or clinical relationship between mafenide's known antibacterial action and irritable bowel syndrome, a functional gastrointestinal motility/sensitivity disorder. No shared pathway, receptor, or pharmacological class connects a topical wound antiseptic to IBS pathophysiology.
+We found no credible mechanistic link between mafenide and IBS. IBS is a functional gut disorder, and a cream applied to burn wounds has no known action on gut motility, visceral sensitivity, or the gut microbiome. The score of 99.97% (model rank 1234) is a graph-based result and does not indicate clinical promise.
 
-The evidence pack's own rationale assessment concludes that this TxGNN score most likely reflects knowledge-graph embedding noise — arising from mafenide's sparse connectivity as a drug node — rather than a genuine biological signal. This pattern repeats across the drug's full top-10 prediction list (cauda equina syndrome, panuveitis, iris disease, uveitis, acne, isolated iridoschisis, abnormal pupillary function, benign neoplasm of iris, iris cancer): all score >99.9%, all are L5/Hold, and all lack any clinical or literature support. Only the acne and ophthalmic-cluster candidates carry even a weak theoretical rationale (antibacterial analogy for acne; sulfonamide/carbonic-anhydrase-inhibitor analogy for eye disease), and the rationale text explicitly notes these remain unsupported by data.
+The route also does not fit. Mafenide is available only as a cream, and no evaluation of a route suitable for IBS has been done. Route compatibility is still pending.
+
+The other nine top predictions show the same pattern, with no trials or literature for any of them:
+- **Eye-related (uveitis, panuveitis, iris disease, iridoschisis, abnormal pupillary function, iris neoplasms):** These likely reflect clustering of iris and eye nodes in the knowledge graph. The only conceivable link is carbonic anhydrase inhibition, and mafenide has no evidence of ocular safety or efficacy.
+- **Cauda equina syndrome:** This is a surgical neurological emergency with no plausible role for a topical antimicrobial.
+- **Acne:** This is the most biologically plausible candidate, since mafenide is antibacterial and acne involves *Cutibacterium acnes*. Local irritation, pain on application, and established topical alternatives limit its practical value. It is flagged only as a research question.
 
 ## Clinical Trial Evidence
 
@@ -66,24 +72,27 @@ Currently no related literature available.
 
 ## US Market Information
 
-Mafenide currently holds no TFDA license in Taiwan (0 total licenses; market status: not marketed). No product-level licensing records are available for tabulation.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA016763 | SULFAMYLON (Rising Pharma Holdings, Inc.) | Cream (topical) | Not listed in the source data |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and DDI data are not available in this evidence pack; DDI query returned "not found.")
+Please refer to the package insert for safety information. No drug interaction records were found in the queried database.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This candidate has no clinical trial or literature support, no mechanism-of-action data, and no current Taiwan marketing authorization. The evidence level is L5 (model prediction only), and the evidence pack's own mechanistic assessment considers the TxGNN score likely to be knowledge-graph noise rather than a real signal.
+The prediction has no supporting trials or literature (L5), and no credible mechanism links a topical burn antimicrobial to IBS. A high model score alone is not enough to justify further investment.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (DG001, blocking — required before any S1 safety screening)
-- Verified mechanism-of-action source from DrugBank or primary literature (DG002)
-- Preclinical or mechanistic studies establishing a plausible pathway between mafenide and IBS
-- Reassessment of regulatory feasibility given mafenide has no existing Taiwan marketing authorization to build on
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank, to allow a proper mechanistic analysis
+- A route-compatibility assessment, since only a topical cream exists
+- Any preclinical or clinical signal for IBS
+- If the project wants to pursue a candidate for this drug, the acne prediction (the only one flagged as a research question) is the better one to examine first
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

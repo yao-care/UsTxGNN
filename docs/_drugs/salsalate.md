@@ -29,76 +29,72 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Salsalate: From NSAID Analgesic/Anti-inflammatory Use to Acromesomelic Dysplasia, Hunter-Thompson Type
+# Salsalate: From Anti-inflammatory Salicylate Therapy to Acromesomelic Dysplasia, Hunter-Thompson Type
 
 ## One-Sentence Summary
 
-> Salsalate is a salicylate-class NSAID, originally used for anti-inflammatory and analgesic purposes (COX inhibition, antiplatelet effect); detailed original-indication and label data have not yet been collected for this evidence pack.
-> The TxGNN model predicts a possible link to **Acromesomelic Dysplasia, Hunter-Thompson Type**, a rare monogenic skeletal dysplasia,
-> but this prediction is currently supported by **0 clinical trials** and **0 publications**, and the evidence pack's own mechanistic review flags it as a likely graph-embedding artifact rather than a genuine pharmacological relationship.
-
----
+Salsalate is an oral salicylate prodrug marketed in the US as an anti-inflammatory drug, though the supplied data record no labeled indication text.
+The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunter-Thompson type**.
+This prediction has **0 clinical trials** and **0 publications** behind it, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not yet documented in this evidence pack (Salsalate is classified as a salicylate NSAID per available rationale text) |
-| Predicted New Indication | Acromesomelic Dysplasia, Hunter-Thompson Type |
+| Original Indication | Not available in the supplied data (all license records have empty indication text) |
+| Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
 | TxGNN Prediction Score | 99.92% |
-| Evidence Level | L5 (model prediction only — no clinical trials or literature identified) |
-| US Market Status | Not marketed |
-| Number of NDAs | 0 |
-| Recommended Decision | **Hold** |
-
----
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 8 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed structured mechanism-of-action data is currently a data gap for Salsalate. Based on information available elsewhere in this evidence pack, Salsalate is a salicylate-class NSAID whose activity is mediated through COX inhibition, anti-inflammatory effects, and antiplatelet action — a mechanism class typically relevant to inflammatory, pain, and cardiovascular-risk conditions.
+Currently, detailed mechanism of action data for salsalate is not available in the Evidence Pack. Salsalate is a salicylate prodrug. It is generally understood to act through COX inhibition and NF-kB modulation, which gives it anti-inflammatory activity.
 
-Acromesomelic Dysplasia, Hunter-Thompson Type is a rare monogenic disorder caused by *NPR2* mutations, affecting the natriuretic peptide/CNP signaling pathway that governs growth-plate chondrocyte development. This is a developmental, non-inflammatory pathway with no known mechanistic overlap with COX inhibition or salicylate pharmacology.
+Acromesomelic dysplasia, Hunter-Thompson type is a rare skeletal dysplasia. It is linked to defects in CDMP1/GDF5 signaling, and the pathology is structural and developmental. An anti-inflammatory drug is not expected to correct a defect in bone and limb patterning. No plausible mechanistic link was identified.
 
-The evidence pack's own repurposing rationale explicitly assesses this connection as unlikely to reflect true pharmacology, attributing the high TxGNN score instead to embedding-space clustering among rare skeletal-disease nodes in the knowledge graph. Of the eight predicted indications reviewed for this candidate, seven (including this top-ranked one) share this same pattern — rare monogenic skeletal/developmental syndromes with no plausible link to an NSAID mechanism. Only the eighth-ranked prediction, spondyloarthropathy susceptibility, has any class-level pharmacological rationale (NSAIDs, including salicylates, are an established symptomatic treatment class for spondyloarthropathies), but even this is framed in the pack as a research question rather than an actionable candidate, since it concerns genetic *susceptibility* rather than active disease, and no salsalate-specific studies exist.
-
----
+The high TxGNN score (99.92%) is a knowledge-graph prediction only. No trial, publication or preclinical data support it. The same pattern appears in the other top-ranked predictions, most of which are congenital skeletal or limb malformation syndromes.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-Salsalate is currently **not marketed** in the reference dataset (0 NDAs / licenses on file). No authorization records are available to summarize.
+The records below are 5 of the 8 licenses.
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Not listed | Salsalate (Amneal Pharmaceuticals LLC) | Tablet (oral) | Not listed |
+| Not listed | Salsalate (Bryant Ranch Prepack) | Tablet (oral) | Not listed |
+| Not listed | Salsalate (Amneal Pharmaceuticals LLC) | Tablet (oral) | Not listed |
+| Not listed | Salsalate (Bryant Ranch Prepack) | Tablet (oral) | Not listed |
+| Not listed | Salsalate (Westminster Pharmaceuticals, LLC) | Tablet (oral) | Not listed |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Note: TFDA/FDA label warnings and contraindications for Salsalate have not yet been collected (flagged as a **Blocking** data gap), which by itself precludes any safety-based go/no-go decision for this candidate.
-
----
+Please refer to the package insert for safety information. A drug interaction query returned no records.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This candidate rests entirely on an unvalidated TxGNN score (L5) with no supporting clinical trials or literature, and the evidence pack's own mechanistic analysis assesses the drug–disease link as mechanistically implausible (likely a knowledge-graph embedding artifact rather than true pharmacology). Combined with the absence of label/safety data (a Blocking gap) and the drug's unmarketed status, there is no basis to advance this indication.
+The prediction has no clinical, literature or mechanistic support, and salsalate's anti-inflammatory action does not address a congenital skeletal patterning defect. Evidence remains at L5 (model prediction only).
 
 **To proceed, the following is needed:**
-- Resolve DG001 (TFDA/FDA label warnings and contraindications) before any safety-relevant evaluation can proceed
-- Resolve DG002 (confirmed mechanism of action from DrugBank) to properly assess mechanistic plausibility
-- If pursuing further research, redirect attention to the more mechanistically plausible spondyloarthropathy-susceptibility signal (rank 8) via targeted literature search on salicylates/NSAIDs in spondyloarthropathy, rather than the top-ranked rare skeletal dysplasia predictions
-- Deprioritize the seven rare monogenic skeletal/developmental disease predictions absent new mechanistic or experimental evidence
+- Package insert warnings and contraindications (a blocking gap for safety screening), plus the labeled indication text
+- Mechanism of action data from DrugBank
+- A targeted literature and trial search for any link between salsalate or salicylates and GDF5/CDMP1-related skeletal dysplasias
+- Consider redirecting effort to the rank 8 prediction, spondyloarthropathy susceptibility (score 99.55%). It is the most biologically coherent candidate, since NSAIDs are standard first-line therapy for spondyloarthritis. It is flagged as a research question and needs a targeted search on salsalate in axial or peripheral spondyloarthritis.
+
+*These results are for research reference only and do not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

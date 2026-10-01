@@ -29,81 +29,73 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-The txgnn-pipeline skill confirms the project context. Now I'll generate the report following the v5 format, applying the rules carefully to this Evidence Pack where original indications are empty, safety is all [Data Gap], and evidence level is L5 with zero supporting studies.
-
----
-
-# Benzocaine: From Local Anesthesia to Papillary Conjunctivitis
+# Benzocaine: From Topical Anesthesia to Papillary Conjunctivitis
 
 ## One-Sentence Summary
 
-Benzocaine is an amino-ester local anesthetic widely used for topical pain relief in dental procedures, sore throat, and minor skin irritation.
-The TxGNN model predicts it may be effective for **Papillary Conjunctivitis**,
-however with **0 clinical trials** and **0 publications** currently supporting this direction, all evidence derives from model prediction alone.
-
----
+Benzocaine is a topical local anesthetic marketed in the US as gels, a liquid and a lozenge. The approved indication text is not recorded in the source data.
+The TxGNN model predicts it may be effective for **papillary conjunctivitis**, but this rests on the model score alone, with **0 clinical trials** and **0 publications** supporting it.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No regulatory data on file (general classification: local anesthesia / topical pain relief) |
-| Predicted New Indication | Papillary Conjunctivitis |
+|------|------|
+| Original Indication | Not recorded in the license data (marketed products are topical anesthetics) |
+| Predicted New Indication | Papillary conjunctivitis |
 | TxGNN Prediction Score | 99.38% |
 | Evidence Level | L5 |
-| US Market Status | Not marketed (0 registered products) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 license records |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on established pharmacology, Benzocaine is an amino-ester local anesthetic that blocks voltage-gated sodium channels (Nav1.x), inhibiting the initiation and conduction of sensory nerve action potentials. Theoretically, this mechanism could attenuate itch and discomfort signals transmitted by conjunctival sensory nerves — the symptom-level pathway through which papillary conjunctivitis causes patient distress.
+Currently, detailed mechanism of action data is not available, and the source record lists no original indications. The prediction therefore cannot be checked against a documented mechanism. The only support is the TxGNN knowledge-graph score of 0.994, which is a computational prediction, not clinical evidence.
 
-However, the core pathophysiology of papillary conjunctivitis involves IgE-mediated Type I hypersensitivity reactions or mast cell activation triggered by mechanical irritation (e.g., contact lens wear). Local anesthetics have no direct pharmacological effect on these upstream inflammatory mechanisms. Any potential benefit would be purely symptomatic — sensory signal suppression — not disease-modifying. The mechanistic link is therefore indirect and weak.
+As general background (not derived from the supplied data), benzocaine is an ester-type local anesthetic that blocks voltage-gated sodium channels. That could plausibly ease ocular surface discomfort. It would not address the usual causes of papillary conjunctivitis, which are allergic responses and mechanical irritation from contact lenses or prostheses.
 
-An additional concern is that repeated topical application of surface anesthetics to the ocular surface carries well-documented safety risks, including delayed corneal epithelial healing and corneal ulceration. This is recognised as a contraindication to long-term ocular use in ophthalmology practice. Given the absence of mechanistic relevance to the underlying disease process, combined with this safety barrier, the biological plausibility for benzocaine in papillary conjunctivitis is limited.
+There are also reasons for caution:
+- Benzocaine is a recognized contact sensitizer, so it could worsen allergic or irritative ocular surface disease.
+- Repeated use of topical ocular anesthetics carries a risk of corneal toxicity.
 
----
+No hypothesis is supported beyond the model score.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-No registered drug products found. Benzocaine has no active licenses in the reviewed regulatory database (0 NDAs on file).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| M022 | Kank-A | Liquid | Not recorded |
+| M022 | GPS Topical Anesthetic | Gel | Not recorded |
+| M022 | Gelato Topical Anesthetic (2 records) | Gel | Not recorded |
+| M022 | Defend | Gel | Not recorded |
 
----
+Of the 20 license records, these are the first 5 returned, which cover 4 distinct products. Registered dosage forms are liquid, gel and lozenge. None is an ophthalmic form, so route compatibility with an eye indication is unassessed.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
----
+Please refer to the package insert for safety information. No interaction records were found in the drug interaction query.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Despite a high TxGNN prediction score (99.38%), the mechanistic connection between benzocaine's sodium-channel blockade and the IgE/mast-cell-driven pathology of papillary conjunctivitis is indirect and symptom-level only; established corneal toxicity risks with repeated topical ocular anesthetic use further raise the benefit-risk bar with no clinical or preclinical evidence yet available to clear it.
+The prediction is supported only by a model score (Evidence Level L5), with no trials or publications. No mechanism data, approved indication text or safety information is available to assess it. Benzocaine's sensitizing potential and the corneal toxicity risk of topical ocular anesthetics also argue against advancing it.
 
 **To proceed, the following is needed:**
-- Retrieve full MOA data from DrugBank (DB01086) to clarify Nav subtype specificity and conjunctival nerve expression
-- Obtain package insert key warnings and contraindications (currently unavailable — blocking gap)
-- Commission ophthalmology expert review of corneal toxicity risk profile for topical benzocaine
-- At minimum one preclinical study demonstrating ocular safety and anti-inflammatory efficacy in an allergic conjunctivitis model before any clinical consideration is warranted
-- Re-evaluate evidence level and decision stage only after preclinical data are available
+- The FDA package insert, to fill the warnings and contraindications gap (blocking for safety screening)
+- Mechanism of action data from DrugBank, to assess any mechanistic link to papillary conjunctivitis
+- A systematic search of trials and literature for benzocaine in conjunctival or ocular surface disease
+- A route compatibility assessment, since no ophthalmic formulation is currently registered
+- A clear account of why an anesthetic would treat an allergic or mechanical condition, including a sensitization risk review
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

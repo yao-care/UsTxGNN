@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Hydromorphone
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 777
-evidence_level: L2
+evidence_level: L5
 indication_count: 6
 ---
 
 # Hydromorphone
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,106 +29,80 @@ Evidence Level: **L2** | Predicted Indications: **6**
 
 </div>
 
-# Hydromorphone: From Opioid Pain Management to Acute Migraine (Headache Disorder)
+# Hydromorphone: From Opioid Pain Relief to Pharyngitis
 
 ## One-Sentence Summary
 
-Hydromorphone is a semi-synthetic opioid analgesic established for moderate-to-severe pain. Of the six indications TxGNN surfaced, only **Headache Disorder (acute migraine)** is backed by substantive clinical evidence — **6 clinical trials and 17 publications**, including Phase 4 RCTs directly testing hydromorphone against active comparators in the emergency department. The model's top-ranked candidate by raw score, pharyngitis, has no disease-specific evidence and is judged an artifact of pain-management co-occurrence rather than a real signal.
-
-*Note on candidate selection*: TxGNN ranked pharyngitis first by score (99.81%), but every supporting trial for it involves post-surgical opioid analgesia (tonsillectomy, foot/ankle surgery) or unrelated agents (palifermin), none of which treat pharyngitis itself. This report therefore leads with headache disorder — the only candidate with a genuine treat-relationship evidence base — and summarizes the other five separately below.
-
----
+Hydromorphone is a mu-opioid pain medicine that is widely marketed in the US as tablets, extended-release tablets and injections. The TxGNN model predicts it may be effective for **pharyngitis**, but no trial or publication studies it for that condition. The 6 registered trials that matched the query are all about post-surgical pain (mainly after tonsillectomy) or other diseases, and there is **no directly relevant literature**.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Moderate-to-severe pain (established opioid/μ-receptor agonist use; Taiwan-specific label text unavailable — 0 TW licenses on file) |
-| Predicted New Indication | Headache Disorder (acute migraine) |
-| TxGNN Prediction Score | 99.65% (rank 8998 of candidate pool) |
-| Evidence Level | L2 |
-| Taiwan Market Status | Not marketed (Not Marketed) |
-| Number of NDAs | 0 |
+| Predicted New Indication | Pharyngitis |
+| TxGNN Prediction Score | 99.81% |
+| Evidence Level | L5 (no study tests hydromorphone in pharyngitis; the pipeline's automatic scoring shows L4) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
 
-**Other TxGNN candidates (all Hold, L4–L5, no disease-specific evidence):**
-
-| Disease | TxGNN Score | Evidence Level | Note |
-|---------|------------|-----------------|------|
-| Pharyngitis (top score) | 99.81% | L4 | All 6 trials are post-surgical analgesia, not pharyngitis treatment |
-| Allergic Urticaria | 99.81% | L5 | Opioids are known to *cause* pruritus/urticaria via mast cell degranulation — directional conflict with "treatment" |
-| Nasal Cavity Disease | 99.80% | L5 | No trials, literature, or plausible mechanism |
-| Acute Laryngopharyngitis | 99.75% | L5 | No trials or literature; viral etiology has no opioid-relevant mechanism |
-| Trigeminal Autonomic Cephalalgia | 99.58% | L5 | No trials/literature; opioids are generally considered *ineffective* for this headache class |
-
----
+The US approved-indication text is empty for all listed licenses, so the original indication is not shown here.
 
 ## Why is This Prediction Reasonable?
 
-Detailed DrugBank mechanism-of-action data is currently a flagged gap (DG002, High severity). Based on known pharmacology, hydromorphone is a semi-synthetic phenanthrene-class opioid and potent μ-opioid receptor agonist, used clinically for moderate-to-severe acute and chronic pain.
+Currently, detailed mechanism of action data is not available in the source record. In general, hydromorphone is a mu-opioid agonist that gives central pain relief. It has no anti-infective or anti-inflammatory action against pharyngitis.
 
-Migraine is a pain syndrome, and opioids — including hydromorphone — have historically been used as rescue analgesia in emergency departments when first-line agents (triptans, antiemetics/dopamine antagonists) fail or are contraindicated. This gives the prediction a plausible non-specific mechanistic basis: μ-receptor-mediated analgesia can blunt migraine pain even without acting on the disease-specific CGRP/5-HT1 pathways that dedicated anti-migraine drugs target.
+The high TxGNN score most likely reflects closeness in the knowledge graph between hydromorphone and throat or pain nodes, not a treatment effect. At most, hydromorphone might give nonspecific pain relief for a sore throat. Opioids are not a rational treatment for pharyngitis, which is usually a self-limiting infection.
 
-However, this same literature base shows the clinical field is moving *away* from opioids for migraine. A head-to-head Phase 4 RCT (NCT02389829) and its associated publications found hydromorphone comparable to or worse than dopamine-antagonist regimens, with added concerns about euphoria-driven return ED visits and medication-overuse headache (MOH). The most recent evidence — the 2025/2026 American Headache Society guideline update (PMID 41321235) — reflects this shift. The mechanistic plausibility is real, but it argues for "opioid as a studied-and-largely-discouraged option" rather than a novel repurposing opportunity.
+The only related trial data concern pain after tonsillectomy, which is postoperative pain, not pharyngitis. The prediction should therefore be read as a low-confidence model output.
 
----
+## Clinical Trial Evidence
 
-## Clinical Trial Evidence (Headache Disorder)
+None of these trials tests hydromorphone in pharyngitis. Only one (NCT04230681) tests hydromorphone directly, and it studies postoperative pain. The rest are incidental matches.
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT02389829](https://clinicaltrials.gov/study/NCT02389829) | Phase 4 | Completed | 127 | Direct RCT comparing hydromorphone vs. prochlorperazine+diphenhydramine for acute migraine in the ED; disease-specific and highest-relevance trial in this set. |
-| [NCT00261495](https://clinicaltrials.gov/study/NCT00261495) | Phase 3 | Completed | 504 | OROS hydromorphone vs. sustained-release oxycodone in chronic non-cancer pain; supports general analgesic efficacy but not headache-specific. |
-| [NCT03766269](https://clinicaltrials.gov/study/NCT03766269) | Phase 2 | Unknown | 280 | Opioid-sparing effect of dronabinol co-administered with opioids (incl. hydromorphone) in chronic pain; indirect relevance. |
-| [NCT06453447](https://clinicaltrials.gov/study/NCT06453447) | N/A | Recruiting | 40 | Prednisone for CRPS after wrist fracture; opioid-context only, not hydromorphone-specific. |
-| [NCT02152514](https://clinicaltrials.gov/study/NCT02152514) | Phase 4 | Terminated | 34 | Intrathecal morphine/sufentanil vs. placebo for post-VATS analgesia; not headache-related. |
-| [NCT02417298](https://clinicaltrials.gov/study/NCT02417298) | N/A | Terminated | 12 | Ketamine + opioid therapy for sickle cell pain crisis; not headache-related. |
+| [NCT04230681](https://clinicaltrials.gov/study/NCT04230681) | Early Phase 1 | Completed | 189 | Hydromorphone vs fentanyl for pain control in children after tonsillectomy or adenotonsillectomy. The most relevant trial, but it addresses postoperative pain, not pharyngitis. No results provided. |
+| [NCT05244226](https://clinicaltrials.gov/study/NCT05244226) | Phase 2 | Completed | 66 | Pilot comparing short-acting opioids (fentanyl/hydromorphone) with methadone for pediatric tonsillectomy pain. Hydromorphone is a comparator only. |
+| [NCT06576830](https://clinicaltrials.gov/study/NCT06576830) | Phase 4 | Recruiting | 440 | Intraoperative methadone vs short-acting opioids (fentanyl/hydromorphone) for pain after pediatric tonsillectomy. |
+| [NCT02996591](https://clinicaltrials.gov/study/NCT02996591) | Phase 4 | Completed | 36 | Spinal vs general anesthesia with nerve blocks for foot and ankle surgery. Unrelated to pharyngitis. |
+| [NCT00189488](https://clinicaltrials.gov/study/NCT00189488) | Phase 2 | Completed | 155 | Palifermin to reduce graft-versus-host disease and oral mucositis after transplant. Different disease. |
+| [NCT00109031](https://clinicaltrials.gov/study/NCT00109031) | Phase 3 | Completed | 47 | Single-dose vs 3-dose palifermin for oral mucositis after high-dose chemotherapy and irradiation. No hydromorphone efficacy signal. |
 
----
+## Literature Evidence
 
-## Literature Evidence (Headache Disorder)
+Currently no related literature available.
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [17981511](https://pubmed.ncbi.nlm.nih.gov/17981511/) | 2008 | RCT | The Journal of Pain | Retrospective cohort/RCT comparing metoclopramide vs. hydromorphone for ED migraine treatment. |
-| [29046364](https://pubmed.ncbi.nlm.nih.gov/29046364/) | 2017 | RCT | Neurology | Pivotal RCT: IV hydromorphone vs. IV prochlorperazine+diphenhydramine for migraine outcomes. |
-| [41321235](https://pubmed.ncbi.nlm.nih.gov/41321235/) | 2026 | Guideline | Headache | 2025 AHS update on acute ED migraine treatment; evidence assessment of parenteral pharmacotherapies (post-dates and reframes opioid use). |
-| [27300483](https://pubmed.ncbi.nlm.nih.gov/27300483/) | 2016 | Guideline | Headache | Prior AHS evidence assessment on injectable migraine therapies in the ED. |
-| [34363617](https://pubmed.ncbi.nlm.nih.gov/34363617/) | 2021 | Post-hoc RCT analysis | Headache | Post hoc analysis of the same hydromorphone vs. prochlorperazine+diphenhydramine trial, focused on migraine-associated symptoms. |
-| [29516486](https://pubmed.ncbi.nlm.nih.gov/29516486/) | 2018 | Cohort | Headache | Opioid-induced "likeability"/euphoria not associated with return ED visits among IV-hydromorphone migraine patients — but raises misuse-risk questions. |
-| [22795050](https://pubmed.ncbi.nlm.nih.gov/22795050/) | 2012 | RCT (pooled) | J Pain Symptom Manage | Safety/tolerability of once-daily OROS hydromorphone ER across 11 pooled studies (chronic cancer/non-cancer pain, not headache-specific). |
-| [39924451](https://pubmed.ncbi.nlm.nih.gov/39924451/) | 2025 | Review (SR/meta-analysis) | Addiction | Relative adverse-effect risks across opioid agonist treatments. |
-| [30059368](https://pubmed.ncbi.nlm.nih.gov/30059368/) | 2018 | Commentary | Adv Emerg Nurs J | Practice commentary on the prochlorperazine+diphenhydramine vs. hydromorphone migraine RCT. |
-| [29461426](https://pubmed.ncbi.nlm.nih.gov/29461426/) | 2018 | Review | Curr Opin Neurol | Review of current acute-care treatment approaches for primary headache. |
+## US Market Information
 
----
+| Authorization Number | Product Name | Dosage Form |
+|---------|------|------|
+| NDA019892 | Hydromorphone Hydrochloride (Rhodes Pharmaceuticals L.P.) | Tablet |
+| NDA200403 | Hydromorphone Hydrochloride (Hospira, Inc.) | Injection, solution |
+| ANDA204278 | Hydromorphone Hydrochloride (Padagis US LLC) | Tablet, extended release |
+| ANDA205814 | Hydromorphone Hydrochloride (Aurolife Pharma, LLC) | Tablet |
+| ANDA212133 | Hydromorphone Hydrochloride (Camber Pharmaceuticals, Inc.) | Tablet, extended release |
 
-## Taiwan Market Information
-
-Hydromorphone is **not currently marketed in Taiwan** — 0 approved licenses are on file (`taiwan_regulatory.total_licenses = 0`, `market_status = Not marketed`). No NDA/license records are available to summarize.
-
----
+The oral and injectable forms above are 5 of the 20 licenses on file.
 
 ## Safety Considerations
 
-- **Data gap flagged as blocking (DG001)**: TFDA label warnings and contraindications for hydromorphone have not been retrieved. This blocks the S1 safety pre-screen and must be resolved (via TFDA label PDF or equivalent, e.g. FDA label given TW non-marketing status) before any further evaluation.
-- **Drug interaction data**: DDI query returned no results (`query_status: not_found`); no interaction profile is currently available.
-- **Known class-level risk (not in structured safety fields, but noted in the evidence pack's own rationale)**: opioids, including hydromorphone, can trigger mast-cell degranulation causing pruritus/urticaria — directly relevant given "allergic urticaria" appears as a (rejected) predicted indication. Separately, opioid use for migraine carries recognized risk of dependency and medication-overuse headache, a concern echoed in the 2025/2026 AHS guideline.
-
----
+Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Headache disorder is the only candidate with real disease-specific evidence (Phase 4 RCTs, guideline coverage), but hydromorphone is unmarketed in Taiwan, lacks any retrievable TFDA safety/label data (blocking gap), and the most current guideline (2025/2026 AHS) reflects a field-wide move away from opioids for migraine due to MOH and dependency risk. The remaining five TxGNN candidates (pharyngitis, allergic urticaria, nasal cavity disease, acute laryngopharyngitis, trigeminal autonomic cephalalgia) have no disease-specific evidence and in some cases run mechanistically counter to a "treatment" relationship.
+The prediction rests on a model score alone. No trial or publication supports hydromorphone for pharyngitis, and the mechanism gives only nonspecific pain relief. Opioids are not a rational treatment for this usually self-limiting condition, so repurposing is not justified on current evidence.
 
 **To proceed, the following is needed:**
-- Resolve DG001: obtain TFDA (or FDA, given no TW marketing) label warnings/contraindications to complete the S1 safety pre-screen
-- Resolve DG002: confirm mechanism-of-action detail via DrugBank API
-- If pursuing the headache/migraine angle: formally weigh the 2025/2026 AHS guideline's stance against opioids as first-line ED migraine therapy, and assess misuse/diversion risk
-- Given zero existing Taiwan licenses, determine the correct regulatory pathway (new drug application, not label extension) before any further investment
+- A clear rationale for why hydromorphone would treat pharyngitis, beyond symptomatic pain relief
+- Mechanism of action data
+- Package insert warnings and contraindications, which are still missing and block safety screening
+- Any pharyngitis-specific clinical or literature evidence, which is currently absent
+
+Among the other predicted indications for hydromorphone, **headache disorder** has the most evidence: a completed Phase 4 head-to-head RCT in acute migraine (NCT02389829) and several related publications. It is also on Hold, because the literature suggests hydromorphone serves as a comparator rather than a preferred therapy, and opioids carry dependence, medication-overuse headache and return-visit risks.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

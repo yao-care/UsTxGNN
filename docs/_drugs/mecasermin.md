@@ -29,69 +29,71 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Mecasermin: From Severe Primary IGF-1 Deficiency to Monosomy X
+# Mecasermin: From Recombinant IGF-1 Therapy to Monosomy X
 
 ## One-Sentence Summary
 
-> Mecasermin (recombinant human IGF-1) is a growth-factor replacement therapy; DrugBank record confirms the compound but no approved-indication text is on file for this market. The TxGNN model predicts a possible link to **Monosomy X** (Turner syndrome), but this is a pure knowledge-graph inference with **zero supporting clinical trials or literature**.
-
----
+Mecasermin is recombinant human IGF-1 (insulin-like growth factor 1) and is currently marketed in the United States as an injectable product.
+The TxGNN model predicts it may be useful for **monosomy X (Turner syndrome)**, with a score of 99.59%.
+There are currently **0 clinical trials** and **0 publications** supporting this prediction, so it rests on model output and general pharmacology alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in this evidence pack (no Taiwan/US license on file). Per the drug's own repurposing rationale, mecasermin is a recombinant IGF-1 originally developed for severe primary IGF-1 deficiency (Laron-type growth hormone insensitivity) |
-| Predicted New Indication | Monosomy X (Turner syndrome) |
+| Original Indication | Not listed in the supplied regulatory data |
+| Predicted New Indication | Monosomy X |
 | TxGNN Prediction Score | 99.59% |
-| Evidence Level | L5 (model prediction only, no clinical or literature support) |
-| US Market Status | Not marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (drug-level MOA is marked as a data gap, DG002). Based on known information, mecasermin is a recombinant human IGF-1 (rhIGF-1) molecule that acts downstream of the growth hormone receptor, replacing IGF-1 directly rather than stimulating its endogenous production.
+Currently, detailed mechanism of action data is not available. Mecasermin is recombinant human IGF-1, and IGF-1 is a central mediator of growth-hormone-driven growth. The mechanistic link below is inferred from general pharmacology, not from the supplied data, which contain no original indication or MOA.
 
-Turner syndrome (monosomy X) commonly presents with growth retardation and a partial growth-hormone-resistant phenotype, and the GH-IGF1 axis is an established target for growth-promoting therapy in this population — which gives the prediction a plausible physiological rationale. However, the evidence pack itself flags this link as an indirect, graph-based association only ("需先查證是否已有真實世界文獻，本次收集未涵蓋"), with no clinical trial or publication data collected to confirm it.
+Monosomy X (Turner syndrome) is characterized by short stature. The growth axis is therefore a biologically plausible target for an IGF-1 replacement drug. This is a hypothesis to test, not evidence of benefit. The TxGNN score is a computational prediction and has not been checked against any trial or publication.
 
-Notably, a lower-ranked candidate in this same evidence pack — *growth hormone insensitivity syndrome with immune dysregulation 2* (rank 3, score 99.06%) — sits mechanistically much closer to mecasermin's known original use (it belongs to the same GHR/STAT5 signaling-defect disease family the drug was designed to bypass), but it likewise has no clinical trial or literature evidence in this dataset. Two other candidates (esophageal varices, with/without bleeding) are assessed in the source rationale as likely false positives driven by an indirect comorbidity association (low IGF-1 as a *consequence* of cirrhosis, not a treatment target) and are not further discussed here.
+TxGNN also ranked four other candidates. Their supporting evidence is equally absent, and their rationale is weaker:
 
----
+- **Growth hormone insensitivity syndrome with immune dysregulation 2 (score 99.06%):** Mecasermin acts downstream of the GH receptor, so it could in principle bypass GH insensitivity. However, it would not address the immune dysregulation, and its safety in this population is unassessed. This is a research question.
+- **Wolman disease with hypolipoproteinemia and acanthocytosis (99.09%):** This is a lysosomal acid lipase deficiency, and IGF-1 does not address the lipid storage defect. The score is likely a knowledge-graph artifact. Hold.
+- **Esophageal varices, with and without bleeding (99.03% each):** These arise from portal hypertension, and Mecasermin is not expected to lower portal pressure. The identical scores suggest one shared graph signal rather than independent evidence. Hold.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| BLA021839 | Increlex (Eton Pharmaceuticals, Inc.) | Injection | Not listed in the supplied data |
+| Not provided | GUNA-IGF (Guna spa) | Solution / drops | Not listed in the supplied data |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Note: TFDA label warnings/contraindications and formal DDI data are currently unavailable and are flagged in the source evidence pack as a **Blocking** data gap (DG001) that prevents this candidate from entering safety pre-screening (S1).
-
----
+Please refer to the package insert for safety information. No drug-interaction records were found for this drug.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high, but the evidence level is L5 — a pure TxGNN model output with no clinical trials, no literature, and no route-compatibility data. Combined with a Blocking-severity gap in TFDA safety/label data, this candidate cannot yet proceed past the research-question stage.
+The Monosomy X prediction has a high model score but no trials, no literature and no mechanism data. Its rationale is a plausible inference from general pharmacology and is not backed by supplied data. Safety information is also missing, so the candidate cannot yet pass a safety screen.
 
 **To proceed, the following is needed:**
-- TFDA package insert / label warnings and contraindications (DG001, blocking)
-- DrugBank/API-sourced mechanism of action detail (DG002)
-- A dedicated literature and real-world-evidence search for IGF-1 use in Turner syndrome (not covered by this data collection run)
-- Route-compatibility assessment (currently "pending")
-- Consider evaluating the mechanistically closer candidate (GH insensitivity syndrome with immune dysregulation) in parallel, as it aligns more directly with mecasermin's known biology
+- Package insert warnings and contraindications (a blocking gap), obtained from the FDA label
+- Original indication and mechanism of action, for example from the DrugBank API
+- A systematic search of ClinicalTrials.gov and PubMed for IGF-1 or Mecasermin in Turner syndrome
+- A route and formulation compatibility assessment, since none has been done yet
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

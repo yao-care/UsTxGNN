@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Stannous Fluoride: From Dental Caries Prevention to Meningococcal Infection
+# Stannous Fluoride: From Topical Oral Care to Meningococcal Infection
 
 ## One-Sentence Summary
 
-Stannous fluoride is a topical dental agent used to prevent tooth decay through enamel remineralization and antibacterial action against oral biofilm.
-The TxGNN model predicts it may be effective for **Meningococcal Infection**,
-but this prediction is currently **unsupported by any clinical trials or literature evidence**, and the drug is not marketed in Taiwan.
+Stannous fluoride is a topical oral-care ingredient used in dentifrices (toothpastes), gels and rinses.
+The TxGNN model predicts it may be effective for **meningococcal infection**, but **no clinical trials and no publications** currently support this direction.
+The prediction rests on the model score alone and should be treated as a hypothesis, not a finding.
 
 ---
 
@@ -43,41 +43,52 @@ but this prediction is currently **unsupported by any clinical trials or literat
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no approved indications on record) |
-| Predicted New Indication | Meningococcal Infection |
+| Original Indication | Not stated in the regulatory data (marketed as topical oral-care and dental products) |
+| Predicted New Indication | Meningococcal infection |
 | TxGNN Prediction Score | 99.66% |
-| Evidence Level | L5 |
-| US Market Status | Not marketed (Not marketed) |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, stannous fluoride is a topical dental agent whose activity comes from fluoride and stannous (tin) ions, which promote enamel remineralization and inhibit oral bacterial biofilm formation (e.g., *Streptococcus mutans*).
+Currently, detailed mechanism of action data is not available, and DrugBank lists no original indications for this drug.
+Stannous fluoride is a topical oral-care agent. Its antibacterial activity is attributed to tin and fluoride ions, which affect bacterial metabolism and plaque formation.
 
-The predicted new indication — meningococcal infection, a systemic bacterial infection caused by *Neisseria meningitidis* — has no established pharmacological relationship to the original topical dental use. Stannous fluoride is not marketed as a systemic drug, and there is no pharmacokinetic data supporting that a topical dental formulation could achieve the systemic exposure required to treat invasive meningococcal disease.
-
-While stannous and fluoride compounds do have some broad-spectrum antibacterial properties, there is currently no in vitro or in vivo evidence of specific activity against *N. meningitidis*. The high TxGNN score (99.66%) most likely reflects topological similarity within the knowledge graph's "antimicrobial agent" category rather than genuine mechanistic evidence — a typical case of a high prediction score without corroborating mechanistic support.
+Meningococcal infection is an invasive systemic disease caused by *Neisseria meningitidis*. Topical dental use gives no meaningful systemic exposure, so any antimicrobial rationale is speculative.
+The very high score (0.997) more likely reflects knowledge-graph neighborhood effects, such as shared fluoride/tin or antibacterial-class associations, than a real therapeutic signal.
+The link cannot be checked against a known pharmacology.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
 ---
 
 ## US Market Information
 
-Stannous fluoride is not currently marketed in Taiwan (Not marketed), and no license records are available.
+The regulatory data lists 20 authorizations in total. The 5 main ones are shown below.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| M021 | Crest Pro Health | Paste, dentifrice | Not stated |
+| M021 | Crest | Paste, dentifrice | Not stated |
+| M021 | KIDS Crest | Paste, dentifrice | Not stated |
+| M021 | Crest Pro-Health | Paste, dentifrice | Not stated |
+| M022 | parodontax | Paste | Not stated |
+
+Other dosage forms on the market include gel (topical), mouthwash and rinse.
 
 ---
 
@@ -92,14 +103,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is based solely on TxGNN model output (L5, no clinical or literature evidence), and the drug has no established systemic pharmacokinetic profile or market presence in Taiwan. There is no plausible mechanistic pathway connecting a topical dental agent to treatment of invasive meningococcal infection.
+The only support is a model score, with no clinical trials or literature (evidence level L5). The proposed use is an invasive systemic infection, while stannous fluoride is a topical product with no meaningful systemic exposure, so there is no plausible route to efficacy.
 
 **To proceed, the following is needed:**
-- Original approved indication and MOA data (currently marked as Data Gap)
-- TFDA package insert warnings/contraindications (blocking gap per evidence pack)
-- In vitro antimicrobial susceptibility data against *N. meningitidis*
-- Pharmacokinetic data demonstrating potential for systemic exposure, if a non-topical route were to be explored
-- Any preclinical or case-level evidence before further evaluation is warranted
+- Package insert warnings and contraindications, which are needed for any safety screening
+- Mechanism of action data (for example, from DrugBank)
+- Any *in vitro* evidence of activity against *Neisseria meningitidis*
+- An assessment of route compatibility, since a systemic formulation would be needed and none is marketed
+- Published or registered studies supporting this indication, before the candidate is reconsidered
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

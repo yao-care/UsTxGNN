@@ -29,41 +29,42 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-以下是根據 Evidence Pack 生成的完整評估報告：
-
----
-
-# Benzoic Acid: From Antimicrobial Preservative to Bronchitis
+# Benzoic Acid: From Unspecified Original Use to Bronchitis
 
 ## One-Sentence Summary
 
-Benzoic acid is a simple aromatic carboxylic acid widely used as an antimicrobial preservative and pharmaceutical excipient, with no established standalone therapeutic indication on record.
-The TxGNN model predicts it may be effective for **Bronchitis**, currently supported by **0 clinical trials** and **2 publications** — both of which discuss benzoic acid *derivatives* rather than the compound itself.
-Overall evidence is minimal and highly indirect; this prediction should be treated as a hypothesis-generating signal only.
+Benzoic acid is marketed in the US, but the available data lists no approved indication for it, so its original therapeutic use cannot be stated.
+The TxGNN model predicts it may be effective for **bronchitis**, but there are **0 clinical trials** and only **2 publications**, and neither publication studies benzoic acid.
+This is a model-only prediction (evidence level L5), so the recommendation is **Hold**.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No established pharmaceutical indication (used as preservative/excipient) |
+|------|------|
+| Original Indication | Not available (no approved indication text in the US license data) |
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 99.98% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed (0 registered authorizations found) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 14 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, benzoic acid is primarily recognized as an antimicrobial preservative (E210) used in food and pharmaceutical products. It holds no active NDA or standalone therapeutic registration in the queried databases, and its original_indications list is empty — meaning TxGNN is predicting a **de novo** therapeutic role rather than extending an existing one.
+Currently, detailed mechanism of action data is not available for benzoic acid, and no approved original indication is recorded. The mechanistic link between benzoic acid and bronchitis therefore cannot be established from the current data.
 
-Benzoic acid does exhibit mild intrinsic antimicrobial activity against certain respiratory pathogens, including *Streptococcus pneumoniae*. Beyond direct antimicrobial action, the TxGNN knowledge graph likely connected benzoic acid to bronchitis via its structural derivatives: benzoic acid–derived soluble epoxide hydrolase (sEH) inhibitors can modulate the arachidonic acid metabolic pathway, suppressing pro-inflammatory eicosanoids and theoretically reducing bronchial inflammation. A second pathway may involve benzoic acid's known antioxidant properties, which could partially suppress inflammatory cascades in the airways.
+The two publications retrieved for bronchitis do not support the prediction:
 
-It is essential to flag that these remain **indirect mechanistic inferences** based on structurally related compounds. The biological activity of a derivative does not automatically transfer to the parent scaffold. No direct preclinical or clinical data exists for benzoic acid as a bronchitis therapeutic, and the knowledge graph connection likely reflects structural/chemical proximity noise rather than a validated pharmacological relationship.
+- One is a review of repaglinide in type 2 diabetes. Repaglinide is a benzoic acid derivative, but the paper concerns diabetes.
+- The other is a preclinical study of a soluble epoxide hydrolase inhibitor in smoke-induced COPD. It does not involve benzoic acid.
+
+The 99.98% score is a knowledge-graph model output and does not by itself indicate clinical plausibility. It should be treated as a hypothesis to test, not as evidence.
+
+The other nine predictions (for example diabetic retinopathy, dry eye syndrome, fibromatosis and C1 inhibitor deficiency) are also weakly supported. Most have no trials or literature. Diabetic retinopathy has only indirect preclinical evidence on synthetic retinoids containing a benzoic acid moiety, which is a structural-class association and not evidence for benzoic acid itself.
 
 ---
 
@@ -75,20 +76,30 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-> ⚠️ Both retrieved publications are **indirect background references** — neither directly studies benzoic acid as a treatment for bronchitis.
-
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [11577798](https://pubmed.ncbi.nlm.nih.gov/11577798/) | 2001 | Review | *Drugs* | Review of repaglinide, described as a "carbamoylmethyl benzoic acid derivative," for type 2 diabetes. Retrieved due to the benzoic acid scaffold; has no relevance to bronchitis. |
-| [22180869](https://pubmed.ncbi.nlm.nih.gov/22180869/) | 2012 | Animal Study | *Am J Respir Cell Mol Biol* | A soluble epoxide hydrolase (sEH) inhibitor — a benzoic acid derivative — showed anti-inflammatory effects in a rat model of tobacco smoke–induced COPD/bronchitis. Provides indirect mechanistic background only; does not test benzoic acid itself. |
+|------|-----|------|------|---------|
+| [22180869](https://pubmed.ncbi.nlm.nih.gov/22180869/) | 2012 | Preclinical | Am J Respir Cell Mol Biol | Soluble epoxide hydrolase inhibitor in smoke-induced COPD (a condition that includes bronchitis). Does not study benzoic acid. |
+| [11577798](https://pubmed.ncbi.nlm.nih.gov/11577798/) | 2001 | Review | Drugs | Review of repaglinide, a benzoic acid derivative, in type 2 diabetes. Not related to bronchitis or to benzoic acid itself. |
+
+---
+
+## US Market Information
+
+The 14 licenses in the data all list no approved indication text. The five shown here are pellet products from Hahnemann Laboratories, OHM Pharma and Boiron. A liquid form is also recorded.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| Not listed | Acidum Benzoicum (Hahnemann Laboratories, Inc.) | Pellet | Not listed |
+| Not listed | Benzoicum Acidum (OHM Pharma Inc.) | Pellet | Not listed |
+| Not listed | Acidum Benzoicum (Hahnemann Laboratories, Inc.) | Pellet | Not listed |
+| Not listed | Benzoicum acidum (Boiron) | Pellet | Not listed |
+| Not listed | Acidum Benzoicum (Hahnemann Laboratories, Inc.) | Pellet | Not listed |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-> **Note:** An important known safety concern is that benzoic acid, when used as a preservative in ophthalmic solutions, is associated with corneal epithelial damage. Any repurposing development should carefully assess systemic toxicity, route-of-administration safety, and acceptable therapeutic dosing ranges, as benzoic acid was not developed with systemic therapeutic intent.
+Please refer to the package insert for safety information. No drug interactions were found in the queried data.
 
 ---
 
@@ -97,16 +108,16 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-All 10 TxGNN-predicted indications for benzoic acid are rated L5 — model prediction only — with no supporting clinical trials and no directly relevant literature for any indication. The top prediction (bronchitis, score 99.98%) is grounded in mechanistic analogies from structural derivatives, not from the parent compound. Benzoic acid has no established therapeutic role and no market authorizations in any queried database. This profile does not meet the minimum evidence threshold to proceed.
+The bronchitis prediction rests only on the model score. There are no trials, and neither retrieved paper studies benzoic acid. The mechanism of action and original indication are missing, and the safety data cannot support a screening review.
 
 **To proceed, the following is needed:**
+- Mechanism of action data (query DrugBank) and the original approved indication
+- Package insert warnings and contraindications (download and parse from the FDA website), which block S1 safety screening
+- A targeted literature search on benzoic acid itself in respiratory or bronchial inflammation
+- A check of whether the marketed products are for a use unrelated to a therapeutic indication, and whether their route and dosage form suit a respiratory indication
+- Only if the above shows a plausible link, preclinical evidence before considering clinical study
 
-- **Compound identity clarification**: Confirm whether TxGNN's prediction targets benzoic acid as a standalone therapeutic agent or as a structural template — the distinction has major implications for drug development feasibility.
-- **Preclinical bronchitis studies**: Direct in vitro and in vivo experiments testing benzoic acid in respiratory inflammation models are required before any translational discussion.
-- **MOA data retrieval**: Query the DrugBank API (DB03793) to confirm any documented targets, pathways, or pharmacological activities for benzoic acid itself.
-- **Full safety/toxicology profile**: Characterize systemic toxicity, bioavailability, and acceptable dose range for potential therapeutic routes of administration.
-- **Knowledge graph audit**: Investigate whether the TxGNN bronchitis prediction results from a legitimate mechanistic path or from graph-level conflation of benzoic acid with its pharmacologically active derivatives (e.g., sEH inhibitors, repaglinide, retinoids).
-- **TFDA prescribing information**: Retrieve and review the full package insert to complete the blocking safety gap (DG001) before any regulatory or clinical planning can proceed.
+*This report is for research reference only and is not medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

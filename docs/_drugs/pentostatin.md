@@ -29,91 +29,77 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Pentostatin: From Hairy Cell Leukemia to Rhabdomyosarcoma (Pediatric Sarcoma Cluster)
+# Pentostatin: From Its Marketed Use to Botryoid-Type Embryonal Rhabdomyosarcoma of the Vagina
 
 ## One-Sentence Summary
 
-> Pentostatin is an adenosine deaminase (ADA) inhibitor historically used in lymphoid malignancies such as hairy cell leukemia.
-> The TxGNN model assigns high scores to **7 rhabdomyosarcoma/sarcoma subtypes**, but these predictions are supported by **zero clinical trials** and **zero publications**,
-> and the model's own rationale flags this as likely graph-embedding artifact rather than genuine pharmacological signal.
-
----
+Pentostatin is a marketed injectable (Nipent) whose approved indication is not recorded in the Evidence Pack.
+The TxGNN model predicts it may be effective for **botryoid-type embryonal rhabdomyosarcoma of the vagina**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction, so this is a model-only prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no approved indications recorded) |
+| Original Indication | Not listed in the provided data |
 | Predicted New Indication | Botryoid-type embryonal rhabdomyosarcoma of the vagina |
 | TxGNN Prediction Score | 99.54% |
 | Evidence Level | L5 |
-| US Market Status | Not marketed (Not marketed) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known pharmacology, pentostatin is an irreversible adenosine deaminase (ADA) inhibitor that causes dATP accumulation, selectively toxic to high-turnover lymphocytes — this underlies its established use in lymphoid malignancies (e.g., hairy cell leukemia).
+Currently, detailed mechanism of action data is not available for this drug in the Evidence Pack. Pentostatin is generally known as an adenosine deaminase inhibitor with lymphocyte-selective toxicity. That comes from general knowledge, not from the provided data. Any link to a solid mesenchymal tumor is therefore hypothetical.
 
-Rhabdomyosarcoma and related sarcoma subtypes are mesenchymal/muscle-derived solid tumors, mechanistically distinct from lymphoid malignancies. There is no known biological link between ADA/purine salvage pathway inhibition and rhabdomyosarcoma pathogenesis.
-
-Notably, the model itself flags a significant caveat: **7 predicted indications are all rhabdomyosarcoma subtypes or related sarcomas**, clustered at very similar scores (rank 11185–13473) and nearly identical confidence (99.4–99.5%). This pattern — many closely related disease nodes scoring almost identically — is a classic signature of TxGNN capturing **disease-node embedding similarity** (i.e., these diseases sit close together in the knowledge graph's pediatric solid tumor cluster) rather than a real drug-disease pharmacological relationship. This should be treated as low-confidence output pending independent validation.
-
----
+This is a rare anatomical subtype of embryonal rhabdomyosarcoma. The high score (99.54%) most likely reflects proximity to the parent disease, rhabdomyosarcoma, in the knowledge graph rather than independent evidence. The other six predictions in this pack are related rhabdomyosarcoma subtypes (parameningeal, prostate, extrahepatic bile duct), the parent rhabdomyosarcoma node, and liver sarcoma. All are also L5, with scores between 99.42% and 99.54%. They appear to share the same graph-derived signal rather than adding independent support.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-Pentostatin has no approved licenses in Taiwan (Not marketed / Not marketed); no license records are available for this evidence pack.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA020122 | Nipent (Hospira, Inc.) | Injection, powder, lyophilized, for solution | Not listed in the provided data |
 
 ## Cytotoxicity
 
-Pentostatin is a purine analog / antineoplastic agent (ADA inhibitor), meeting antineoplastic classification criteria.
+Pentostatin is treated here as an antineoplastic because the predicted indications are all malignancies. No DrugBank category or toxicity data were provided.
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (Purine analog / antimetabolite class) |
+| Cytotoxicity Classification | Conventional cytotoxic (purine-analogue antimetabolite type), based on general drug-class knowledge |
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Must follow cytotoxic drug handling regulations |
-
----
+| Monitoring Items | Please refer to the package insert warnings and precautions (typically CBC, liver and renal function) |
+| Handling Protection | Follow cytotoxic drug handling regulations |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All 7 predicted indications lack any clinical trial or literature support, and the mechanistic rationale explicitly identifies this cluster as a likely artifact of disease-embedding similarity rather than genuine drug repurposing signal. Additionally, the drug is not marketed in Taiwan and has no recorded approved indications, contraindications, or MOA data — leaving multiple blocking gaps.
+The prediction is model-only (L5), with no registered trials or publications. The mechanism is unverified, and the score likely propagates from the parent rhabdomyosarcoma node. Package insert safety data are also missing, so the candidate cannot advance to safety screening.
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings/contraindications) — currently a Blocking data gap (DG001)
-- Verified mechanism of action from DrugBank — currently a High-severity data gap (DG002)
-- Original approved indication(s) to establish a baseline for similarity assessment
-- Preclinical evidence (in vitro/in vivo) evaluating pentostatin activity in rhabdomyosarcoma cell lines or models, given the absence of any existing clinical/literature signal
-- Independent confirmation that this prediction cluster is not solely driven by knowledge-graph disease-node proximity
+- The FDA package insert (approved indication, warnings, contraindications), which is currently blocking safety screening
+- Mechanism of action data from DrugBank
+- A targeted literature and trial search (PubMed, ClinicalTrials.gov, ICTRP) for pentostatin in rhabdomyosarcoma and sarcoma
+- Preclinical evidence (for example, cell-line sensitivity of rhabdomyosarcoma to adenosine deaminase inhibition), which would be the minimum step toward L4
+- A route and dosing compatibility assessment, since route compatibility is still pending
+
+*These results are for research reference only and do not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,78 +29,69 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Rabeprazole: From an Undocumented Original Indication to Smouldering Systemic Mastocytosis
+# Rabeprazole: From Acid Suppression (Proton Pump Inhibitor) to Smouldering Systemic Mastocytosis
 
 ## One-Sentence Summary
 
-> Rabeprazole (DrugBank ID: DB01129) has no recorded original indication or market authorization in this evidence pack.
-> The TxGNN model predicts a possible link to **Smouldering Systemic Mastocytosis**,
-> but this prediction is currently supported by **0 clinical trials** and **0 publications** — model score alone.
-
----
+Rabeprazole is a proton pump inhibitor (PPI) that suppresses gastric acid and is marketed in the US as a delayed-release oral tablet.
+The TxGNN model predicts it may be relevant to **Smouldering systemic mastocytosis**, but **0 clinical trials** and **0 publications** currently support this direction.
+The prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on record (0 licenses in evidence pack) |
-| Predicted New Indication | Smouldering Systemic Mastocytosis |
+| Predicted New Indication | Smouldering systemic mastocytosis |
 | TxGNN Prediction Score | 99.44% |
 | Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (the listed authorizations are ANDAs) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action (MOA) data for rabeprazole is not currently available in this evidence pack, and no original indication is on record. This is flagged as a **High-severity data gap (DG002)** and should be resolved before further mechanistic assessment.
+Currently, detailed mechanism of action data is not available in the supplied record. Rabeprazole is a proton pump inhibitor that acts on the gastric H+/K+ ATPase. Its approved-indication text was also not supplied, so no drug-specific mechanism for the new indication can be verified from the data provided.
 
-Based on the model's own rationale, the link between rabeprazole and smouldering systemic mastocytosis is **indirect and symptomatic, not disease-modifying**: patients with systemic mastocytosis can develop excess gastric acid secretion (a Zollinger-Ellison–like syndrome) driven by histamine release from mast cells, for which proton pump inhibitors (PPI)-class agents are sometimes used as symptomatic support. The high TxGNN score (0.994) likely reflects this kind of pharmacological co-morbidity association picked up from the knowledge graph, rather than a mechanism that treats the underlying clonal mast cell disease (e.g., KIT mutation-driven proliferation).
+The only plausible link is symptomatic and indirect. Mast cell mediator release (e.g., histamine) can drive gastric acid hypersecretion and reflux-type symptoms. Acid suppression is commonly used as supportive care in systemic mastocytosis. This is background reasoning, not evidence from the supplied data. A PPI would not change the disease course, which is driven by KIT-dependent clonal mast cell proliferation. A high TxGNN score alone does not establish a therapeutic effect.
 
-A second, closely related prediction — lymphoadenopathic mastocytosis with eosinophilia (score 0.993) — shows the same pattern: no direct mechanistic link to the disease's core immunological/hematological pathology. Both predictions point to a shared theme (mastocytosis spectrum disorders with acid-related symptom management), but neither is disease-modifying evidence, and neither is corroborated by any clinical trial or literature evidence at this time.
-
----
+TxGNN also ranks a second, related indication: **lymphoadenopathic mastocytosis with eosinophilia** (score 99.35%, L5, Hold). It has no trials or literature either. The same indirect acid-suppression argument applies, and no mechanism by which a PPI would affect the underlying clonal or eosinophilic disease has been identified. Both scores likely reflect proximity to related mastocytosis nodes in the knowledge graph rather than a drug-specific signal.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-No market authorization records found — rabeprazole is currently listed as **Not Marketed** (0 licenses) in this evidence pack.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA090678 | Rabeprazole Sodium | Tablet, delayed release | Lannett Company, Inc. |
+| ANDA208644 | Rabeprazole Sodium | Tablet, delayed release | REMEDYREPACK INC. |
+| ANDA204237 | Rabeprazole Sodium | Tablet, delayed release | Advanced Rx of Tennessee, LLC |
+| ANDA205761 | Rabeprazole Sodium | Tablet, delayed release | DIRECT RX |
+| ANDA204237 | Rabeprazole Sodium | Tablet, delayed release | Advagen Pharma Limited |
 
----
+Approved-indication text was not provided for these authorizations. Only the oral route is listed.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-*(Note: TFDA warnings and contraindications for this drug are marked as a **Blocking data gap (DG001)** in this evidence pack — this must be resolved before any safety-related decision can proceed.)*
-
----
+Please refer to the package insert for safety information. No drug interaction records were found in the queried source.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Both predicted indications are supported only by the TxGNN model score (Evidence Level L5), with zero clinical trials or publications, and the model's own rationale describes the mechanistic link as indirect/symptomatic rather than disease-modifying. Combined with a Blocking-severity gap in TFDA safety data and no recorded market authorization, this candidate does not meet the bar to advance past initial screening (S0).
+Both predictions have only a model score behind them, with no registered trials, no literature and no verified mechanism. At best, rabeprazole might serve as symptom-level supportive care in mastocytosis, not as disease-modifying therapy.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (DG001 — Blocking, resolve first)
-- Rabeprazole mechanism of action data (DG002 — High)
-- Targeted literature/clinical trial search specifically for PPI use in mastocytosis-related acid hypersecretion
-- Verification of rabeprazole's actual original indication and any Taiwan/US market status, since none is currently on record
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action and approved-indication data (e.g., from DrugBank)
+- A literature and trial search for PPI use in systemic mastocytosis, including supportive-care evidence
+- A clear definition of the intended use (symptom control vs. disease modification) before any further evaluation
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

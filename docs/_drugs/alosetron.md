@@ -29,74 +29,93 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-The txgnn-pipeline skill is infrastructure-focused and doesn't override the report format instructions. Proceeding directly with the report generation per the Evidence Pack v5 protocol.
-
----
-
-# Alosetron: From Irritable Bowel Syndrome to Migraine Disorder
+# Alosetron: From Severe Irritable Bowel Syndrome to Migraine Disorder
 
 ## One-Sentence Summary
 
-Alosetron is a selective 5-HT₃ receptor antagonist, originally developed for the treatment of diarrhea-predominant irritable bowel syndrome (IBS-D) in women.
-The TxGNN model predicts it may be effective for **Migraine Disorder** with a prediction score of **99.64%**,
-however, **no clinical trials** and **no direct publications** currently support this specific repurposing direction, placing evidence entirely at the model-prediction level.
+Alosetron is a 5-HT3 receptor antagonist. The Evidence Pack does not record its original indication; the US label is understood to cover severe diarrhea-predominant irritable bowel syndrome (IBS-D) in women.
+The TxGNN model predicts it may be effective for **migraine disorder**.
+There are currently **0 clinical trials** and **0 publications** supporting this direction, so it is a model prediction only.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not found in regulatory database queried |
-| Predicted New Indication | Migraine Disorder |
+|------|------|
+| Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 99.64% |
-| Evidence Level | L5 |
-| US Market Status | ✗ Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 11 (all generic ANDA authorizations) |
 | Recommended Decision | Hold |
+
+The approved indication text in the US authorization records is empty, so the original indication is not listed in this table.
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the queried regulatory sources. Based on known pharmacological class information, Alosetron belongs to the selective 5-HT₃ receptor antagonist class — sharing a drug class with ondansetron, granisetron, dolasetron, and tropisetron — whose primary established clinical role is the prevention of chemotherapy-induced nausea and emesis (CINV), as well as the management of IBS-D symptoms through modulation of visceral pain and gastrointestinal motility.
+Currently, detailed mechanism of action data is not available in the Evidence Pack. Alosetron is known as a 5-HT3 receptor antagonist, and serotonergic signaling is loosely implicated in migraine. This is only a general, class-level rationale. No alosetron-specific evidence supports it.
 
-The biological basis for this prediction rests on the anatomical distribution of 5-HT₃ receptors within the trigeminovascular system. These receptors are expressed in the trigeminal ganglia and brainstem nuclei central to migraine pathophysiology. Serotonin is a well-established key modulator of migraine, and 5-HT₃ receptor antagonism could theoretically suppress the peripheral and central release of nociceptive mediators such as CGRP and substance P along the trigeminal pathway, potentially attenuating pain signal propagation.
+The link between the original indication (a gut disorder) and migraine is weak. No similarity analysis has been completed, and the graph score does not by itself imply a shared mechanism. Other top predictions from the same model, such as leprosy and nephrogenic syndrome of inappropriate antidiuresis, have no plausible 5-HT3 link. They are likely knowledge-graph artifacts. Migraine with brainstem aura scores 99.52%, but it likely inherits its score from the parent migraine node and has no subtype-specific rationale.
 
-Class-level indirect support exists: ondansetron and granisetron have been explored in sporadic clinical settings for migraine symptom relief. However, no clinical trials or publications have specifically evaluated alosetron for migraine. This prediction currently rests entirely on mechanistic plausibility and knowledge graph connectivity, and should be treated as a hypothesis-generating signal only.
+The drug's boxed warning (ischemic colitis and serious complications of constipation) is also a poor fit for a chronic, non-life-threatening condition like migraine.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for migraine disorder.
 
-> **Note:** One indirect class-level reference (PMID [15515406](https://pubmed.ncbi.nlm.nih.gov/15515406/), 2004, Narrative Review, *Scand J Rheumatology Suppl*) was identified under the broader **headache disorder** indication (Rank #5). This review covers the spectrum of use and tolerability of 5-HT₃ receptor antagonists as a class and does not evaluate alosetron specifically for any headache condition. It does not constitute direct evidence for the migraine repurposing hypothesis.
+The related prediction "headache disorder" (rank 5) has one indirect source, a 2004 review of 5-HT3 receptor antagonists ([PMID 15515406](https://pubmed.ncbi.nlm.nih.gov/15515406/)). It supports class-level plausibility only. It is not alosetron-specific, and headache is a commonly reported adverse event in this drug class.
+
+---
 
 ## US Market Information
 
-No license records were found for Alosetron in the regulatory database queried. The drug is currently recorded as not marketed.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA206647 | Alosetron Hydrochloride | Tablet, film coated | Amneal Pharmaceuticals LLC |
+| ANDA206647 | Alosetron Hydrochloride | Tablet, film coated | AvKARE |
+| ANDA213614 | Alosetron | Tablet | Lifestar Pharma LLC |
+| ANDA211621 | Alosetron Hydrochloride | Tablet | Eywa Pharma Inc |
 
-> **For context:** Alosetron (brand name Lotronex®) has a documented US FDA approval history for IBS-D in adult women, initially approved in 2000, voluntarily withdrawn, and re-approved in 2002 under a restricted-access Risk Evaluation and Mitigation Strategy (REMS) program due to serious gastrointestinal adverse events. This information derives from external domain knowledge and was not captured by the current regulatory query. The discrepancy should be investigated before any regulatory status conclusions are drawn.
+All products are oral tablets. The pack lists 11 authorizations in total; the table shows the 4 distinct entries provided.
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Key Warnings**: Per the Evidence Pack's rationale notes, the drug carries a boxed warning for ischemic colitis and serious complications of constipation. The full package insert has not been parsed.
 
-> **Critical advisory:** All safety data fields (key warnings, contraindications, drug-drug interactions) returned no results in the current query. Based on external pharmacological knowledge, Alosetron carries a boxed warning for ischemic colitis and serious complications of constipation under its US REMS program. These risks are highly material to any repurposing evaluation and must be retrieved from the FDA label prior to any clinical or research decision.
+No drug-interaction records were found.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN prediction score is high (99.64%) and the mechanistic connection between 5-HT₃ receptor antagonism and migraine pathophysiology is biologically plausible; however, evidence is entirely at L5 with no clinical trials or publications directly evaluating alosetron in any headache indication, and critical safety and regulatory data remain unconfirmed.
+The migraine prediction has a high model score but no trials, no literature, and no drug-specific mechanistic support. The boxed-warning risk profile is a poor fit for a chronic, non-life-threatening indication.
 
 **To proceed, the following is needed:**
-- Retrieve full MOA documentation from DrugBank (DB00969) to confirm receptor binding profile
-- Obtain complete US FDA label including REMS-related boxed warnings, contraindications, and drug interactions — this is a blocking prerequisite before any safety evaluation can proceed
-- Conduct a systematic literature review specifically for 5-HT₃ antagonists (ondansetron, granisetron) in migraine clinical trials to establish class-level evidence baseline
-- Resolve regulatory database discrepancy: confirm current US approval status and REMS restrictions for Alosetron
-- Assess route of administration compatibility — oral formulation requirements for migraine acute/preventive treatment context
-- Evaluate whether known serious GI risks (ischemic colitis) constitute a risk-benefit barrier that would disqualify the repurposing pathway regardless of efficacy signals
+- Complete FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data from DrugBank
+- Any preclinical or clinical evidence of 5-HT3 antagonism in migraine that is specific to alosetron
+- Original indication text from the US authorization records
+- A benefit-risk assessment against the boxed warning
+
+---
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

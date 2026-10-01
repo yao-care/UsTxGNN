@@ -29,97 +29,79 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-Using `txgnn-pipeline` to orient context — this is a US TxGNN evidence pack (candidate `TW-DB00537-multi`) for ciprofloxacin. Now generating the report per v5 format.
-
----
-
 # Ciprofloxacin: From Bacterial Infections to Diffuse Scleroderma
 
 ## One-Sentence Summary
 
-Ciprofloxacin is a broad-spectrum fluoroquinolone antibiotic used to treat a wide range of bacterial infections, including urinary tract, respiratory, and skin infections.
-The TxGNN model predicts it may be effective for **Diffuse Scleroderma**, supported by a **dual antifibrotic and gut microbiome mechanism hypothesis**,
-with **0 registered clinical trials** and **2 publications** currently available for this specific direction.
-
----
+Ciprofloxacin is a fluoroquinolone antibiotic that is marketed in the US under 20 licenses.
+The TxGNN model predicts it may be useful for **diffuse scleroderma**.
+The evidence is thin: **no registered clinical trials** and **2 publications**, one of which reports a small controlled trial whose design and results have not been confirmed.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Bacterial infections (urinary tract, respiratory tract, skin, bone, and gastrointestinal infections) |
-| Predicted New Indication | Diffuse Scleroderma |
+|------|------|
+| Predicted New Indication | Diffuse scleroderma |
 | TxGNN Prediction Score | 99.87% |
 | Evidence Level | L4 |
-| Taiwan Market Status | Not found in TFDA database (0 licenses retrieved) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of Licenses | 20 (ANDA) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the structured data source. Based on well-established pharmacological knowledge, ciprofloxacin is a second-generation fluoroquinolone antibiotic that inhibits bacterial DNA gyrase (GyrA/GyrB) and topoisomerase IV, thereby blocking bacterial DNA replication and causing cell death. Its broad-spectrum bactericidal activity against both Gram-negative and Gram-positive organisms is extensively documented.
+Currently, detailed mechanism of action data is not available in the Evidence Pack. Ciprofloxacin is a fluoroquinolone that kills bacteria by inhibiting DNA gyrase and topoisomerase IV. That mechanism explains its antibacterial use but does not by itself explain an effect on scleroderma.
 
-The mechanistic link to diffuse scleroderma (SSc) rests on a **dual-mechanism hypothesis**. The first is an **antifibrotic effect**: ciprofloxacin has been shown to inhibit dermal fibroblast proliferation and collagen synthesis independently of its antibacterial activity, likely through modulation of the TGF-β signaling pathway. This is mechanistically relevant because SSc is fundamentally a disease of excessive fibrosis — overactivated fibroblasts drive the hallmark skin thickening and visceral organ involvement. The second mechanism involves **gut microbiome modulation**: SSc patients have a high prevalence of small intestinal bacterial overgrowth (SIBO), and ciprofloxacin's ability to suppress intestinal bacterial burden may indirectly attenuate the systemic immune-inflammatory cascade that perpetuates SSc pathology.
+Two indirect links to scleroderma appear in the literature:
 
-Both mechanistic arms offer moderate biological plausibility. A 2010 pilot double-blind randomized controlled trial (PMID 20507401) provides initial human-level evidence that oral ciprofloxacin can reduce fibrosis severity in SSc skin — making this TxGNN prediction scientifically interesting. However, the evidence base remains thin, with no registered Phase 2 or 3 trials, and substantial validation work is required before this can be considered a viable clinical repurposing candidate.
+- **Antifibrotic effect:** A 2010 study (PMID 20507401) reports that oral ciprofloxacin may reduce skin fibrosis in scleroderma patients. Scleroderma is characterized by excessive skin fibrosis and microvascular injury.
+- **Gut bacterial overgrowth:** Systemic sclerosis patients often have small bowel bacterial overgrowth (SIBO) with diarrhoea and weight loss. An antibiotic could help this complication (PMID 7728404). This would treat a complication, not the underlying disease.
 
----
+Both links are plausible but indirect. The study designs were judged from titles and abstracts only and need full-text review.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for ciprofloxacin in diffuse scleroderma.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [20507401](https://pubmed.ncbi.nlm.nih.gov/20507401/) | 2010 | Pilot RCT | The Journal of Dermatology | Controlled double-blind randomized trial evaluating oral ciprofloxacin as an antifibrotic agent in SSc patients; assessed whether it reduces skin fibrosis severity via mechanisms independent of antibacterial activity |
-| [7728404](https://pubmed.ncbi.nlm.nih.gov/7728404/) | 1995 | Clinical Study | British Journal of Rheumatology | Investigated SIBO detection (jejunal aspiration) and treatment outcomes in 24 SSc patients with malabsorption symptoms; supports the gut microbiome modulation rationale for ciprofloxacin use in systemic sclerosis |
+|------|-----|------|------|---------|
+| [20507401](https://pubmed.ncbi.nlm.nih.gov/20507401/) | 2010 | Clinical/translational study (design unconfirmed) | J Dermatol | Controlled, double-blind randomized trial testing whether oral ciprofloxacin reduces scleroderma severity, with skin fibrosis as the focus. The retrieved abstract is truncated and gives no results. |
+| [7728404](https://pubmed.ncbi.nlm.nih.gov/7728404/) | 1995 | Diagnostic cohort | Br J Rheumatol | 24 systemic sclerosis patients with malabsorption symptoms were tested for small bowel bacterial overgrowth, and treatment outcome was reported. It addresses gut overgrowth, not ciprofloxacin efficacy on scleroderma itself. |
 
----
+## US Market Information
 
-## Taiwan Market Information
+The retrieved licenses have no approved indication text. Five of the 20 licenses are listed below.
 
-No Taiwan FDA (TFDA) licenses were retrieved for ciprofloxacin in the current database query (result count: 0). This likely reflects a data retrieval or nomenclature limitation rather than actual non-availability, as ciprofloxacin is a globally ubiquitous antibiotic available in multiple formulations. **Verification against the full TFDA database is recommended.**
-
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA077859 | Ciprofloxacin | Tablet, film coated | Medsource Pharmaceuticals |
+| ANDA076639 | Ciprofloxacin | Tablet | Coupler LLC |
+| ANDA076593 | Ciprofloxacin Hydrochloride | Tablet, film coated | Westminster Pharmaceuticals, LLC |
+| ANDA076558 | Ciprofloxacin | Tablet, film coated | Bryant Ranch Prepack |
+| ANDA208921 | Ciprofloxacin | Tablet | Bryant Ranch Prepack |
 
 ## Safety Considerations
 
-Full safety data (warnings, contraindications, drug interactions) was not available in this evidence pack.
-
-> ⚠️ **Clinically Critical Note**: Fluoroquinolones, including ciprofloxacin, carry an **FDA Black Box Warning** for peripheral neuropathy that may be irreversible. This is especially relevant to this evaluation: rank #9 in the predicted indication list involves a hematological disease with acquired peripheral neuropathy — ciprofloxacin use in that context would represent a **direct mechanistic contraindication** and should be actively excluded from further evaluation.
-
-Please refer to the package insert for complete warnings, contraindications, and drug interaction information.
-
----
+Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The biological hypothesis (antifibrotic + gut microbiome dual mechanism) is scientifically coherent and supported by one small pilot RCT, but with no registered Phase 2/3 trials and only 2 publications directly relevant to SSc, the current evidence base (L4) is insufficient to justify active development investment. Additional mechanistic and clinical validation must precede any resource commitment.
+The prediction has a high model score, but the supporting evidence is limited. There are no registered trials, and the two publications are one small study of unconfirmed design and one gut-overgrowth cohort. This is a research question, not a development candidate.
 
 **To proceed, the following is needed:**
+- Full-text review of PMID 20507401 to confirm design, sample size, endpoints and results
+- Package insert warnings and contraindications, which are needed before any safety screening
+- Detailed mechanism of action data linking ciprofloxacin to fibrosis in scleroderma
+- Any registered or planned trial in scleroderma, since none exists today
 
-- **Phase 2 proof-of-concept trial**: A properly powered RCT evaluating ciprofloxacin's antifibrotic efficacy in SSc patients, with skin biopsy endpoints (collagen density, fibroblast activity)
-- **Mechanistic validation**: In vitro and in vivo studies confirming TGF-β pathway involvement independent of antibacterial activity
-- **MOA data completion**: Retrieve full DrugBank mechanism data (DrugBank ID: DB00537) to close the current High-severity data gap
-- **Taiwan regulatory verification**: Re-query TFDA database using alternative search terms (brand names, CAS number) — current 0-result return is likely a search artifact
-- **Safety profiling**: Formal assessment of fluoroquinolone-class risks (tendinopathy, QT prolongation, peripheral neuropathy, phototoxicity) in the context of SSc patient population
-- **SIBO sub-study**: Enrich trial population for SSc patients with confirmed SIBO to test the gut microbiome mechanism arm separately
+**Other candidates:** Among the other predicted indications, **septicemic plague** (rank 10) has much stronger support. It has a completed Phase 2 randomized non-inferiority trial (NCT01243437, n=200) and a 2025 randomized trial in bubonic plague (PMID 40768716), and it is rated L2 (Proceed with Guardrails). That may be a labeling gap rather than true repurposing, and it should be evaluated separately.
 
----
-
-> 📌 **Cross-Indication Note**: Among the 10 predicted indications evaluated in this pack, two findings stand out:
->
-> - **Septicemic Plague** (rank #10, 99.64%): Already **FDA-approved** with L1 evidence (1 completed Phase 2 RCT + multiple non-inferiority RCTs including NEJM 2025). This validates TxGNN's ability to correctly identify known high-confidence associations.
-> - **Monoclonal Gammopathy** (rank #8, 99.71%): L3 evidence for ciprofloxacin as **infection prophylaxis** in multiple myeloma/lymphoma patients undergoing autologous stem cell transplantation. The scoring panel rates this as "Proceed with Guardrails" — note that this is an *infection prevention* application, not a disease-modifying therapy for the gammopathy itself.
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

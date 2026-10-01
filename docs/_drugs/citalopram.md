@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Citalopram
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 532
-evidence_level: L2
+evidence_level: L5
 indication_count: 5
 ---
 
 # Citalopram
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,100 +29,104 @@ Evidence Level: **L2** | Predicted Indications: **5**
 
 </div>
 
-Using the `txgnn-pipeline` skill to ensure alignment with the TxGNN reporting workflow, and the system prompt's **Drug Repurposing Evaluation Report Prompt v5** to structure the output. Now generating the report.
-
----
-
-# Citalopram: From Depression to Obsessive-Compulsive Disorder
+# Citalopram: From SSRI Antidepressant to Obsessive-Compulsive Disorder
 
 ## One-Sentence Summary
 
-Citalopram is a selective serotonin reuptake inhibitor (SSRI) established as a treatment for major depressive disorder.
-The TxGNN model predicts it may be effective for **Obsessive-Compulsive Disorder (OCD)**,
-with **30 clinical trials** and **16 publications** currently supporting this direction.
-
----
+Citalopram is a selective serotonin reuptake inhibitor (SSRI) marketed in the US as generic tablets.
+The TxGNN model predicts it may be effective for **Obsessive-Compulsive Disorder (OCD)**, supported by **30 clinical trials** and **16 publications**.
+Most of these trials test escitalopram, a closely related molecule, rather than citalopram itself, so the evidence is strong at the class level but thin for citalopram specifically.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Major Depressive Disorder |
-| Predicted New Indication | Obsessive-Compulsive Disorder (OCD) |
+|------|------|
+| Original Indication | Not listed in the provided records (indication text is empty); citalopram is an SSRI antidepressant |
+| Predicted New Indication | Obsessive-compulsive disorder |
 | TxGNN Prediction Score | 99.74% |
-| Evidence Level | L2 |
-| US Market Status | No records found in current database (possible data gap — Celexa is an established SSRI) |
-| Number of NDAs | 0 (no records retrieved; recommend FDA Orange Book verification) |
+| Evidence Level | L2 (as assigned in the Evidence Pack; based mainly on class-level and escitalopram trials, not citalopram-specific RCTs) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 authorizations (mostly ANDA generics) |
 | Recommended Decision | Proceed with Guardrails |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data was not captured in the current evidence pack. Based on established pharmacology, citalopram is an SSRI that selectively blocks the serotonin transporter (SERT), increasing synaptic 5-HT concentrations in the brain. This mechanism underlies its efficacy across depression and anxiety-spectrum conditions and is directly relevant to OCD pathophysiology.
+Currently, detailed mechanism of action data is not available. Based on known information, citalopram belongs to the SSRI class. Serotonin reuptake inhibition is the best-established pharmacological mechanism in OCD, and SSRIs are a first-line drug class for it. This mechanism is inferred from drug class, not from a source record.
 
-OCD's core pathology involves hyperactivation of the orbitofrontal cortex–striatum–thalamus feedback circuit. Boosting serotonergic tone via SERT inhibition dampens this dysfunctional loop. The strongest indirect validation comes from the FDA's own approval record: all four pharmacotherapies currently approved for OCD (fluvoxamine, fluoxetine, sertraline, and paroxetine) are SSRIs from the same drug class as citalopram, establishing a clear class-level mechanism.
+The clinical evidence follows the same pattern. Trials of escitalopram, the S-enantiomer of citalopram, are the largest body of OCD data in this pack. They include a randomized, double-blind, multi-center comparison of 20 mg versus 40 mg (NCT00723060) and a Phase 3 open-label high-dose study (NCT00305500). Two older publications look at citalopram directly in OCD, including treatment-resistant cases (PMIDs 10471169, 10572334). Together these support the class effect and a near-molecule effect, but not a definitive citalopram-specific efficacy claim.
 
-Citalopram's active S-enantiomer, escitalopram, has been directly studied in OCD across multiple Phase 3 and Phase 4 RCTs with demonstrated efficacy and dose-response data. Additionally, two published open-label trials have directly investigated citalopram itself in OCD patients — including treatment-resistant cases — with clinically meaningful Y-BOCS score improvements. These converging lines of evidence make the TxGNN prediction mechanistically sound and empirically grounded.
-
----
+Some OCD patients need higher SSRI doses than those used for depression. This makes the dose-related safety limits of citalopram, described in the Safety Considerations section, central to any repurposing plan.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT00086645](https://clinicaltrials.gov/study/NCT00086645) | Phase 2 | Completed | 149 | **Directly tests citalopram** vs placebo in children with autism and high-level repetitive/compulsive behaviors — provides efficacy and safety data specific to citalopram in OCD-spectrum symptoms |
-| [NCT00609531](https://clinicaltrials.gov/study/NCT00609531) | Phase 1 | Completed | 12 | fMRI proof-of-concept study of **citalopram's effect** on restricted repetitive behaviors in autism spectrum disorders — neuroimaging evidence of citalopram's modulation of compulsive behavior circuits |
-| [NCT00723060](https://clinicaltrials.gov/study/NCT00723060) | Phase 4 | Completed | 176 | Randomized, double-blind, multi-center RCT comparing conventional (20 mg) vs high-dose (40 mg) escitalopram in OCD; evaluated with Y-BOCS, HAM-D, CGI — robust dose-finding trial for the active enantiomer |
-| [NCT00116532](https://clinicaltrials.gov/study/NCT00116532) | Phase 4 | Completed | 30 | Assesses efficacy and optimal dose of escitalopram for OCD — direct bridge from active enantiomer to citalopram |
-| [NCT00305500](https://clinicaltrials.gov/study/NCT00305500) | Phase 3 | Completed | 100 | 18-week open-label prospective study of high-dose escitalopram (20–50 mg/d) for OCD outpatients — evaluates tolerability at supratherapeutic doses often needed in OCD |
-| [NCT00074815](https://clinicaltrials.gov/study/NCT00074815) | Phase 3 | Completed | 124 | Tests whether CBT augmentation improves outcomes in pediatric OCD patients with partial SRI response — confirms SSRI as the pharmacological backbone requiring optimization |
-| [NCT00564564](https://clinicaltrials.gov/study/NCT00564564) | Phase 4 | Completed | 21 | Randomized open trial comparing quetiapine vs clomipramine augmentation of SSRI for OCD non-responders — validates SSRI as the standard first-line treatment requiring augmentation strategy |
-| [NCT02022709](https://clinicaltrials.gov/study/NCT02022709) | Phase 4 | Completed | 78 | Compares SSRI alone, ERP alone, and combination therapy for OCD in Chinese patients; identifies biological and psychological predictors of response |
-| [NCT01404871](https://clinicaltrials.gov/study/NCT01404871) | N/A | Completed | 26 | Randomized comparison of escitalopram vs clomipramine (vs duloxetine) to predict OCD medication response — identifies biomarkers relevant to citalopram-class treatments |
-| [NCT03993535](https://clinicaltrials.gov/study/NCT03993535) | Phase 4 | Completed | 250 | Large multinational naturalistic follow-up of OCD patients (NIH-funded); evaluates clinical, neurocognitive, and neuroimaging predictors of treatment response across international sites |
+The Evidence Pack lists 30 trials for this prediction. The 10 most relevant are shown below.
 
----
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00723060](https://clinicaltrials.gov/study/NCT00723060) | Phase 4 | Completed | 176 | Randomized, double-blind, multi-center comparison of escitalopram 20 mg vs 40 mg in OCD, with Y-BOCS efficacy and safety endpoints |
+| [NCT00305500](https://clinicaltrials.gov/study/NCT00305500) | Phase 3 | Completed | 100 | Open-label study of high-dose escitalopram (up to 50 mg/day) in adult OCD outpatients over 18 weeks |
+| [NCT00116532](https://clinicaltrials.gov/study/NCT00116532) | Phase 4 | Completed | 30 | Escitalopram efficacy and optimal dose in OCD |
+| [NCT00215137](https://clinicaltrials.gov/study/NCT00215137) | Phase 2 | Completed | 14 | Pilot study of escitalopram safety and effectiveness for OCD symptoms |
+| [NCT00074815](https://clinicaltrials.gov/study/NCT00074815) | Phase 3 | Completed | 124 | Cognitive behavioral therapy added to serotonin reuptake inhibitor treatment in children with OCD who were partial responders |
+| [NCT00680602](https://clinicaltrials.gov/study/NCT00680602) | Phase 4 | Completed | 158 | Randomized open trial of group CBT vs fluoxetine in OCD, including patients with comorbid psychiatric disorders |
+| [NCT02022709](https://clinicaltrials.gov/study/NCT02022709) | Phase 4 | Completed | 78 | Exposure and response prevention, SSRIs, and their combination in OCD, with predictors of response in a Chinese population |
+| [NCT00564564](https://clinicaltrials.gov/study/NCT00564564) | Phase 4 | Completed | 21 | Open comparison of quetiapine vs clomipramine augmentation in SSRI-refractory OCD |
+| [NCT00456937](https://clinicaltrials.gov/study/NCT00456937) | Phase 4 | Completed | 15 | Open-label escitalopram up to 20 mg/day in patients with schizophrenia and comorbid OCD |
+| [NCT00086645](https://clinicaltrials.gov/study/NCT00086645) | Phase 2 | Completed | 149 | Citalopram vs placebo in children with autism spectrum disorders and high levels of repetitive behavior (a related symptom domain, not OCD) |
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [38703743](https://pubmed.ncbi.nlm.nih.gov/38703743/) | 2024 | Systematic Review | Comprehensive Psychiatry | Long-term safety and tolerability of off-label high-dose SRIs in OCD — supports dose escalation as a strategy for refractory patients across the SRI class including citalopram |
-| [28477500](https://pubmed.ncbi.nlm.nih.gov/28477500/) | 2017 | Meta-analysis | Journal of Affective Disorders | OCD demonstrates a smaller placebo and antidepressant response than other anxiety disorders — critical for designing adequately powered OCD trials and interpreting effect sizes |
-| [35121274](https://pubmed.ncbi.nlm.nih.gov/35121274/) | 2022 | Meta-analysis | Journal of Psychiatric Research | Network meta-analysis of pharmacological and psychological treatments for pediatric OCD — confirms SSRIs are efficacious across age groups, supports class-level evidence |
-| [35818708](https://pubmed.ncbi.nlm.nih.gov/35818708/) | 2022 | Systematic Review | Expert Opinion on Pharmacotherapy | Systematic review of RCTs for OCPD pharmacotherapy — highlights SRI class as the most-studied pharmacotherapy in OCD-spectrum conditions |
-| [32982805](https://pubmed.ncbi.nlm.nih.gov/32982805/) | 2020 | Meta-review | Frontiers in Psychiatry | Meta-review of antidepressants in children/adolescents across disorders including OCD — summarizes SSRI efficacy, tolerability, and suicidality signal relevant to prescribing decisions |
-| [32242450](https://pubmed.ncbi.nlm.nih.gov/32242450/) | 2020 | Systematic Review | Nordic Journal of Psychiatry | Fluoxetine systematic review in pediatric OCD — demonstrates the SSRI class effect; findings transferable to citalopram as a same-class agent |
-| [10471169](https://pubmed.ncbi.nlm.nih.gov/10471169/) | 1999 | Open-label Trial | International Clinical Psychopharmacology | **Citalopram directly tested in OCD** — foundational paper titled "Beyond depression: citalopram for OCD"; establishes citalopram's efficacy and contextualizes the serotonin hypothesis of OCD |
-| [10572334](https://pubmed.ncbi.nlm.nih.gov/10572334/) | 1999 | Open-label Trial | European Psychiatry | **Citalopram for treatment-resistant OCD** — 16-patient randomized open-label trial comparing citalopram alone vs citalopram + clomipramine in patients who had failed prior SRI treatment; Y-BOCS outcomes reported |
-| [22305974](https://pubmed.ncbi.nlm.nih.gov/22305974/) | 2012 | Narrative Review | BMJ Clinical Evidence | Comprehensive overview of OCD epidemiology (~1–1.5% adult prevalence) and evidence-based treatment — confirms SSRIs as first-line pharmacotherapy with established long-term efficacy |
-| [12607204](https://pubmed.ncbi.nlm.nih.gov/12607204/) | 2000 | Review | World Journal of Biological Psychiatry | "OCD: serotonin and beyond" — reviews the neurobiology of OCD and the centrality of serotonergic pharmacotherapy; directly supports the mechanistic rationale for citalopram repurposing |
+The Evidence Pack lists 16 publications. The 10 most relevant are shown below.
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [28477500](https://pubmed.ncbi.nlm.nih.gov/28477500/) | 2017 | Meta-analysis | J Affect Disord | Compares antidepressant and placebo responses in OCD with other anxiety disorders; OCD shows a reduced placebo response |
+| [35121274](https://pubmed.ncbi.nlm.nih.gov/35121274/) | 2022 | Meta-analysis | J Psychiatr Res | Network meta-analysis of drug, psychological, and combined treatment in children and adolescents with OCD |
+| [32982805](https://pubmed.ncbi.nlm.nih.gov/32982805/) | 2020 | Meta-review | Front Psychiatry | Reviews efficacy, tolerability, and suicidality of antidepressants across pediatric disorders, including OCD |
+| [38703743](https://pubmed.ncbi.nlm.nih.gov/38703743/) | 2024 | Review | Compr Psychiatry | Examines long-term safety and tolerability of off-label high-dose serotonin reuptake inhibitors in OCD |
+| [10572334](https://pubmed.ncbi.nlm.nih.gov/10572334/) | 1999 | Open-label trial | Eur Psychiatry | Randomized, open-label, 90-day trial in 16 treatment-resistant OCD patients comparing citalopram alone vs citalopram plus clomipramine |
+| [10471169](https://pubmed.ncbi.nlm.nih.gov/10471169/) | 1999 | Clinical report / Review | Int Clin Psychopharmacol | Reviews the use of citalopram in OCD and the link between serotonin reuptake inhibitors and OCD neurobiology |
+| [32242450](https://pubmed.ncbi.nlm.nih.gov/32242450/) | 2020 | Systematic review | Nord J Psychiatry | Meta-analysis of fluoxetine efficacy, acceptability, and tolerability in pediatric OCD (a class-level reference) |
+| [34313207](https://pubmed.ncbi.nlm.nih.gov/34313207/) | 2022 | Clinical study | CNS Spectr | Tests whether the BDNF Val66Met polymorphism affects response to escitalopram or paroxetine in OCD |
+| [30973183](https://pubmed.ncbi.nlm.nih.gov/30973183/) | 2019 | Clinical study | Psychiatry Clin Neurosci | 1H-MRS study of brain neurochemistry in 28 unmedicated OCD patients and changes after 12 weeks of escitalopram |
+| [22305974](https://pubmed.ncbi.nlm.nih.gov/22305974/) | 2012 | Review | BMJ Clin Evid | Overview of OCD: about 1% of adult men and 1.5% of adult women are affected, and about 2.7% of children and adolescents |
+
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA078216 | Citalopram (Cardinal Health 107, LLC) | Tablet, film coated | Not listed in record |
+| ANDA077031 | Citalopram (A-S Medication Solutions) | Tablet, film coated | Not listed in record |
+| ANDA078216 | Citalopram (REMEDYREPACK INC.) | Tablet, film coated | Not listed in record |
+| ANDA202389 | Escitalopram (NuCare Pharmaceuticals, Inc.) | Tablet, film coated | Not listed in record |
+| Not listed | Citalopram (Hahnemann Laboratories, INC.) | Pellet | Not listed in record |
+
+The pack records 20 authorizations in total; these 5 are shown. Dosage forms across the records include film-coated tablets, tablets, pellets, and solutions.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Package insert warnings, contraindications, and drug-interaction data were not available in the Evidence Pack. Please refer to the package insert for full safety information.
 
-> **Note for formulary review:** Clinicians should be aware that SSRIs as a class carry established warnings for QT-interval prolongation (particularly relevant for citalopram at higher doses), serotonin syndrome risk with co-medications, increased suicidality in patients under 25, and discontinuation syndrome. These should be formally retrieved from the FDA-approved labeling before clinical application.
+The following guardrails come from the Evidence Pack's repurposing assessment:
 
----
+- **QT prolongation**: Citalopram carries a dose-dependent QT-prolongation limit. The higher-than-depression doses often used in OCD (see PMID 38703743) call for ECG monitoring.
+- **CYP2C19 metabolism**: Genotype and plasma-level information may help with dose personalization. NCT05210140 (n=148) studies this for escitalopram, which shares the CYP2C19 pathway.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-The serotonergic mechanism of citalopram is mechanistically identical to all four currently FDA-approved OCD pharmacotherapies, and its active enantiomer (escitalopram) has demonstrated efficacy in multiple completed Phase 3/4 RCTs. Two open-label trials have directly tested citalopram itself in OCD patients with positive results, providing an evidence base sufficient to move forward under structured monitoring.
+The class-level rationale is strong: SSRIs are a first-line OCD drug class, and many trials of the near-molecule escitalopram are in this pack. Citalopram-specific OCD evidence is limited to two older publications, and the dose-dependent QT limit makes the higher doses used in OCD a real safety concern.
+
+The other four TxGNN predictions for citalopram are histrionic, schizoid, schizotypal, and paranoid personality disorders. All are rated **Hold**. They share an identical score of 99.68%, which suggests a class-level graph artifact rather than independent signals, and they have no supporting clinical trials.
 
 **To proceed, the following is needed:**
-
-- **Regulatory verification**: Retrieve citalopram's official US FDA authorization status from the FDA Orange Book or DailyMed (the current evidence pack returned 0 records, which is likely a data collection gap)
-- **Full safety dossier**: Obtain complete warnings, contraindications, and drug interactions — particularly QT prolongation risk at OCD-range doses, serotonin syndrome interactions, and pediatric suicidality black box warning
-- **MOA documentation**: Pull formal mechanism of action from DrugBank (DB00215) to complete the mechanistic narrative
-- **Direct OCD RCT**: Commission or identify a prospective, placebo-controlled RCT for citalopram specifically in OCD (adults ± children) to upgrade from bridging evidence (L2) to direct evidence (L1)
-- **Dose-ranging guidance**: OCD typically requires higher SSRI doses than depression; a dose-optimization protocol should be defined before clinical implementation
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data from DrugBank
+- Evidence from citalopram-specific OCD trials, or a justification for extrapolating from escitalopram
+- A dosing and monitoring plan for higher-dose use, covering ECG/QT surveillance and CYP2C19 considerations
+- The approved indication text for the US licenses, to confirm the original indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

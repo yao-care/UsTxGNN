@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Levocarnitine: From Carnitine Deficiency to Autosomal Dominant Familial Hematuria-Retinal Arteriolar Tortuosity-Contractures Syndrome
+# Levocarnitine: From an Established Marketed Drug to Autosomal Dominant Familial Hematuria-Retinal Arteriolar Tortuosity-Contractures Syndrome
 
 ## One-Sentence Summary
 
-Levocarnitine (L-carnitine, DrugBank DB00583) is an endogenous compound generally used to treat primary and secondary carnitine deficiency states.
-The TxGNN model's top-ranked prediction for this drug is **Autosomal Dominant Familial Hematuria-Retinal Arteriolar Tortuosity-Contractures Syndrome**, an ultra-rare COL4A1-related vascular syndrome, with a raw similarity score of **99.94%** —
-however, **zero clinical trials and zero publications** currently support this specific pairing, and the evidence pack's own mechanistic review flags the score as a likely knowledge-graph artifact rather than a true biological signal.
+Levocarnitine is a marketed US drug with 15 NDA/ANDA authorizations, but the source data do not list its approved indication.
+The TxGNN model predicts it may be effective for **autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome**.
+This prediction has **0 clinical trials** and **0 publications** behind it, so it rests on the model score alone.
 
 ---
 
@@ -43,23 +43,21 @@ however, **zero clinical trials and zero publications** currently support this s
 
 | Item | Content |
 |------|------|
-| Original Indication | Carnitine deficiency (primary/secondary) — general classification for levocarnitine; specific approved-label indication text was not available in this evidence pack |
-| Predicted New Indication | Autosomal Dominant Familial Hematuria-Retinal Arteriolar Tortuosity-Contractures Syndrome |
+| Original Indication | Not listed in the available data (all approved-indication fields are empty) |
+| Predicted New Indication | Autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome |
 | TxGNN Prediction Score | 99.94% |
-| Evidence Level | L5 |
-| US Market Status | ✗ Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 15 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for levocarnitine is not available in this evidence pack (recorded as data gap DG002, High severity). Based on general pharmacological knowledge, levocarnitine is an endogenous cofactor required to shuttle long-chain fatty acids across the inner mitochondrial membrane for β-oxidation, and it is clinically used to correct carnitine deficiency states affecting energy metabolism.
+Currently, detailed mechanism of action data is not available. Levocarnitine is a marketed drug with a long US regulatory history. However, its original indication could not be extracted from the data, so the relationship between the original and predicted indications cannot be assessed.
 
-The predicted indication — autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome — is a rare hereditary disorder in the COL4A1/COL4A2 spectrum, driven by structural collagen defects in basement membranes rather than by any known disorder of fatty-acid or mitochondrial metabolism. There is no established biological pathway connecting carnitine-dependent energy metabolism to collagen-related vasculopathy.
-
-Consequently, this specific prediction is **not considered mechanistically reasonable**. Despite an extremely high TxGNN similarity score, the query log confirms zero clinical trials, zero ICTRP records, and zero PubMed publications exist for this drug–disease pair. The evidence pack's own repurposing rationale explicitly states the high score "可能反映知識圖譜嵌入相似度而非真實機轉" (may reflect knowledge-graph embedding similarity rather than a genuine mechanistic relationship) — i.e., this is most likely a model artifact rather than a genuine repurposing signal.
+The data support no mechanistic link for this prediction. The score comes from the knowledge graph alone, with no trials or literature. The disease is an ultra-rare genetic syndrome, so a high graph score should not be read as a clinical signal.
 
 ---
 
@@ -77,15 +75,21 @@ Currently no related literature available.
 
 ## US Market Information
 
-Levocarnitine is currently **not marketed** under this evidence pack's data set, with **0 license/NDA records** on file. No authorization number, product name, dosage form, or approved-indication text is available to tabulate.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA019257 | Carnitor SF (Leadiant Biosciences) | Solution | Not listed in source data |
+| ANDA076851 | Levocarnitine (Rising Pharma) | Solution | Not listed in source data |
+| ANDA076858 | Levocarnitine (Rising Pharma) | Tablet | Not listed in source data |
+| ANDA211676 | Levocarnitine (ANI Pharmaceuticals) | Solution | Not listed in source data |
+| ANDA212533 | Levocarnitine (TRUPHARMA) | Solution | Not listed in source data |
+
+Routes and forms across all 15 authorizations include oral tablet, oral/other solution, and injection.
 
 ---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-*(Note: TFDA/US label warnings and contraindications are recorded as a **Blocking**-severity data gap (DG001) in this evidence pack — this alone prevents the candidate from entering initial safety screening (S1), independent of the efficacy evidence discussed above.)*
 
 ---
 
@@ -94,35 +98,17 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-- The top-ranked TxGNN prediction (99.94% score) has no supporting clinical trials or literature, and the documented disease mechanism (COL4A1-related collagen vasculopathy) has no known biological link to carnitine/fatty-acid metabolism — this pairing is most likely a model artifact rather than a real signal.
-- A Blocking-severity data gap (TFDA/US label warnings and contraindications, DG001) independently prevents this candidate from proceeding to safety pre-screening.
+The top-ranked prediction has no clinical trials, no literature and no supported mechanism (Evidence Level L5). A graph score alone is not enough to justify further investment.
+
+Other predicted indications for levocarnitine have more support and may be better candidates:
+- **Congestive heart failure** (Evidence Level L2): includes a completed Phase 2/3 randomized, placebo-controlled trial (NCT01580553, n=268). No results are provided, so efficacy is unverified.
+- **Rheumatoid arthritis** (Evidence Level L2): three direct trials (NCT06753565, NCT05792527, NCT03953703). All are small, and NCT03953703 is a Sjögren's syndrome trial.
+- **Diabetic nephropathy** (Evidence Level L4): preclinical and observational support only.
 
 **To proceed, the following is needed:**
-- TFDA/FDA label data (warnings, contraindications) — currently a Blocking gap (DG001)
-- Confirmed DrugBank mechanism-of-action data (DG002)
-- At minimum one mechanistic or preclinical study directly linking carnitine metabolism to COL4A1-related vasculopathy before this specific candidate can be re-evaluated
-- Given the near-total absence of evidence for this pairing, evaluation resources are better directed to the higher-quality candidates identified within the same evidence pack (see appendix below)
-
----
-
-## Appendix: Other TxGNN-Predicted Indications for Levocarnitine (Same Evidence Pack)
-
-This evidence pack ("TW-DB00583-multi") scored levocarnitine against 10 candidate indications. Raw TxGNN score rank does **not** track with evidence quality — the strongest actionable candidate (congestive heart failure) ranks only 9th by score but has the best clinical support in the set.
-
-| Rank | Disease | TxGNN Score | Evidence Level | Recommendation | Note |
-|------|---------|------|------|------|------|
-| 1 | Autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome | 99.94% | L5 | Hold | No trials/literature; no plausible mechanism (this report's subject) |
-| 2 | Brain small vessel disease 1 with or without ocular anomalies | 99.94% | L5 | Hold | 19 PubMed hits are ocular-anomaly term mismatches (noise), not real evidence |
-| 3 | Diabetic nephropathy | 99.91% | L3 | Research Question | 2 trials (withdrawn/unknown status) + strong CPT1A/FAO mechanistic literature; no confirmatory RCT |
-| 4 | Rheumatoid arthritis | 99.87% | L2 | Research Question | Completed pilot RCT (n=15) + recruiting Phase 2 (n=60) + Phase 3 status-unknown (n=46); OCTN2/FAO mechanism |
-| 5 | Sclerosing cholangitis | 99.75% | L4 | Hold | Observational mitochondrial/lipid association only; no interventional data |
-| 6 | Gout | 99.74% | L4 | Hold | Shared SLC22/OCTN transporter association (Mendelian randomization) only; no carnitine interventional trials |
-| 7 | Brachydactyly-syndactyly syndrome | 99.66% | L5 | Hold | No evidence; rare skeletal dysplasia with no plausible mechanism |
-| 8 | Colobomatous microphthalmia-rhizomelic dysplasia syndrome | 99.63% | L5 | Hold | No evidence; rare congenital syndrome with no plausible mechanism |
-| **9** | **Congestive heart failure** | 99.47% | **L2** | **Proceed with Guardrails** | Completed Phase 2/3 RCT (n=268) + mechanistic FAO rationale; **strongest-evidence candidate in this pack** |
-| 10 | Hypoalphalipoproteinemia | 99.45% | L4 | Hold | Association-only lipid/ABCA1 genetics literature; no interventional carnitine data |
-
-**Recommendation:** If a repurposing report is needed for this drug candidate, congestive heart failure (Rank 9) warrants its own dedicated report given its L2 evidence level and "Proceed with Guardrails" status — this is available on request.
+- Original approved indication text and package insert warnings and contraindications (blocking data gap for safety screening)
+- Mechanism of action data (from DrugBank)
+- For this specific prediction: any mechanistic or genetic evidence linking carnitine metabolism to the disease. If none exists, deprioritize it in favor of the higher-evidence candidates above.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

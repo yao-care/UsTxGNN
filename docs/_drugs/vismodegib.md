@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Vismodegib
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 1294
-evidence_level: L2
+evidence_level: L5
 indication_count: 10
 ---
 
 # Vismodegib
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,84 +33,77 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-> Vismodegib is a Smoothened (SMO) antagonist originally developed and approved for locally advanced/metastatic basal cell carcinoma (BCC).
-> The TxGNN model predicts it may also be effective for **Medulloblastoma with Extensive Nodularity (MBEN)**, a Sonic Hedgehog (SHH)-activated pediatric brain tumor subtype,
-> though this evidence pack currently contains **0 clinical trials** and **0 publications** specifically indexed for this subtype — the case rests on strong mechanistic reasoning rather than direct trial evidence in this pack.
-
----
+Vismodegib is an oral Hedgehog pathway inhibitor, known from the literature to be approved for advanced basal cell carcinoma (BCC).
+The TxGNN model predicts it may be effective for **medulloblastoma with extensive nodularity (MBEN)**,
+but there are currently **0 clinical trials** and **0 publications** linked to this prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Basal cell carcinoma (locally advanced/metastatic) — inferred from supporting literature in this pack; not present in formal license records |
-| Predicted New Indication | Medulloblastoma with Extensive Nodularity |
+| Original Indication | Locally advanced or metastatic basal cell carcinoma (not stated in the license record; taken from the literature) |
+| Predicted New Indication | Medulloblastoma with extensive nodularity |
 | TxGNN Prediction Score | 99.93% |
-| Evidence Level | L2 |
-| US Market Status | ✗ Not Marketed |
-| Number of NDAs | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, a formally documented mechanism of action (`original_moa`) is not available in this evidence pack (data gap DG002). Based on the repurposing rationale collected alongside this pack, vismodegib is a Smoothened (SMO) antagonist that directly blocks the Hedgehog (SHH) signaling pathway — an established, well-characterized targeted mechanism rather than conventional cytotoxic chemotherapy.
+Detailed mechanism of action data is not available in the structured drug record. From the literature, vismodegib binds Smoothened (SMO) and blocks the Hedgehog signaling pathway. This pathway is the main oncogenic driver of basal cell carcinoma.
 
-Medulloblastoma with Extensive Nodularity (MBEN) is a histological subtype of medulloblastoma that is strongly enriched for SHH-pathway activation (frequently via PTCH1 or SMO mutations), particularly in infants and young children. This is not a speculative mechanistic leap: vismodegib has already received global regulatory approval (FDA/EMA) for recurrent or refractory SHH-activated medulloblastoma in adults and adolescents. The TxGNN prediction for MBEN therefore aligns with an on-mechanism, largely on-label extension rather than a novel repurposing hypothesis.
+MBEN is a medulloblastoma subtype that is typically associated with sonic hedgehog (SHH) pathway activation. That fits SMO inhibition, so the prediction is plausible, but it is unproven.
 
-Supporting this mechanistic confidence, a separate prediction within this same evidence pack — basal cell carcinoma (ranked #9, "skin cancer") — is backed by an extensive, high-quality body of Phase 2 RCTs and guideline literature confirming that SMO blockade with vismodegib reliably drives clinical responses in Hedgehog-driven tumors. This corroborates the plausibility of the MBEN prediction even though MBEN-specific trials/publications were not captured in this particular evidence pull.
-
----
+MBEN occurs mainly in infants and young children. SMO inhibitors carry a known risk of growth-plate toxicity in this age group, which could limit use. The prediction needs a dedicated literature and trial search before it can advance.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered (for this specific predicted indication, MBEN, in this evidence pack).
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available (for this specific predicted indication, MBEN, in this evidence pack).
-
----
+Currently no related literature available.
 
 ## US Market Information
 
-Vismodegib currently has no license records on file (`total_licenses = 0`, `market_status = Not marketed / Not Marketed`) in this jurisdiction's regulatory dataset.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA203388 | ERIVEDGE (Genentech, Inc.) | Capsule (oral) | Not listed in the input |
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy — Hedgehog pathway (Smoothened) inhibitor; not conventional cytotoxic chemotherapy |
-| Myelosuppression Risk | No toxicity data available in this evidence pack; please refer to the package insert |
-| Emetogenicity Classification | No toxicity data available in this evidence pack; please refer to the package insert |
+| Cytotoxicity Classification | Targeted therapy (Hedgehog/SMO inhibitor), not a conventional cytotoxic |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
 | Monitoring Items | Please refer to the package insert warnings and precautions |
 | Handling Protection | Please refer to the package insert warnings and precautions |
 
----
-
 ## Safety Considerations
 
-Please refer to the package insert for safety information. (Key warnings, contraindications, and DDI data are all marked as data gaps in this evidence pack — including a **Blocking**-severity gap, DG001, for TFDA-equivalent label warnings/contraindications, which must be resolved before any S1 safety screening can proceed.)
+- **Class toxicities (from the evidence pack rationale)**: muscle spasm, alopecia, dysgeusia, and teratogenicity need risk management.
+- **Pediatric risk**: Hedgehog inhibitors carry a risk of premature growth-plate closure. This matters here because MBEN mainly affects infants and young children.
 
----
+Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The TxGNN score (99.93%) and mechanistic rationale for MBEN are strong — SHH-activated medulloblastoma is already a globally approved indication for vismodegib — but this specific evidence pack lacks any MBEN-specific trials or publications, the drug has no market/license presence on file, and safety label data has a **Blocking** gap. The mechanistic strength alone does not justify unguarded advancement.
+The prediction has a very high model score and a plausible SHH-pathway link. However, no trials or publications support it, and the likely patient population (infants and young children) raises a known growth-plate safety concern.
 
 **To proceed, the following is needed:**
-- Resolve DG001 (Blocking): obtain and parse formal label warnings/contraindications before S1 safety evaluation
-- Resolve DG002 (High): confirm mechanism of action via DrugBank API to formally document MOA
-- Source MBEN- or SHH-medulloblastoma-specific clinical trial and literature evidence (e.g., cross-check ClinicalTrials.gov/PubMed with broader "medulloblastoma" search terms, since existing global approval implies trials exist but were not captured under this exact disease-name match)
-- Clarify market/licensing status — confirm whether "Not Marketed / 0 licenses" reflects this jurisdiction only, given vismodegib's known FDA approval (as Erivedge) elsewhere
+- A dedicated literature and clinical trial search on vismodegib or SMO inhibitors in MBEN and SHH-subgroup medulloblastoma
+- The package insert warnings and contraindications, which are currently missing
+- An assessment of pediatric growth-plate toxicity
+- Detailed mechanism of action data from DrugBank
+
+**Other predicted indications:**
+- **Xeroderma pigmentosum** has case-report evidence (Evidence Level L4). Vismodegib was used there to treat BCC, not the underlying DNA-repair defect.
+- **Skin cancer** has Phase 2 trials (Evidence Level L2). It is probably an existing BCC indication rather than true repurposing, so verify it against the label.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

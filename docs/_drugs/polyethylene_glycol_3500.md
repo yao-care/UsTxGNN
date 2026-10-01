@@ -29,60 +29,80 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Polyethylene Glycol 3500: From Osmotic Laxative (Constipation) to Congenital Ichthyosiform Erythroderma
+# Polyethylene Glycol 3500: From Osmotic Laxative Use to Congenital Ichthyosiform Erythroderma
 
 ## One-Sentence Summary
 
-Polyethylene glycol 3500 (PEG 3500) is a widely used osmotic laxative for constipation. The TxGNN model predicts it may be effective for **Congenital Ichthyosiform Erythroderma**, but currently **no clinical trials** and **no published literature** support this direction — this is a computational prediction only.
+Polyethylene glycol (PEG) 3500 is a non-absorbed osmotic laxative. The original indication is not recorded in the dataset.
+The TxGNN model predicts it may be effective for **Congenital Ichthyosiform Erythroderma**, but there are **0 clinical trials** and **0 publications** supporting this direction, so this is a model-only signal.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Osmotic laxative for constipation (based on known pharmacological class; not separately documented in this evidence pack) |
-| Predicted New Indication | Congenital Ichthyosiform Erythroderma |
+| Original Indication | Not specified in the data (the US license record has no indication text) |
+| Predicted New Indication | Congenital ichthyosiform erythroderma |
 | TxGNN Prediction Score | 99.73% |
-| Evidence Level | L5 |
-| US Market Status | Not Marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 (the record is an ANDA) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for PEG 3500. Based on known information, it is an oral osmotic laxative whose efficacy in constipation is well established.
+Currently, detailed mechanism of action data is not available. PEG 3500 is an osmotic laxative that is not absorbed from the gut. It acts by holding water in the intestinal lumen, and it has no known action on skin biology.
 
-The proposed mechanistic link to congenital ichthyosiform erythroderma — a keratinization disorder — rests only on PEG's hygroscopic (water-attracting) property, which is speculated to soften or hydrate the stratum corneum. This is an indirect analogy, not a validated molecular mechanism connecting systemic PEG administration to keratinocyte differentiation pathways.
+Congenital ichthyosiform erythroderma is a keratinization disorder with a defective epidermal barrier (for example, TGM1 or ALOX12B variants). No direct mechanistic link to an oral laxative is supported. The only plausible connection is indirect: PEGs are used as humectants and vehicles in topical emollients. That is a formulation role on a different route, not a repurposing signal for the oral drug.
 
-The high TxGNN score likely reflects topological similarity within the knowledge graph rather than mechanism-level evidence. No pharmacological, preclinical, or clinical data currently link PEG 3500 to skin keratinization disorders.
+The high score (0.997) most likely reflects proximity in the knowledge graph rather than a validated pharmacological effect. The other two top predictions, self-healing collodion baby (99.60%) and lamellar ichthyosis (99.38%), are also ichthyosis-type skin disorders. They likewise have no trials or publications, and the same reasoning applies. In neonates with a compromised skin barrier, systemic absorption of PEG through impaired skin is an additional unaddressed safety concern.
+
+The data lists the ingredient as PEG 3500 while the US product is labeled PEG 3350. This naming difference should be confirmed.
+
+---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
+
+---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
+
+---
 
 ## US Market Information
 
-This drug currently has no NDA/marketing authorization records in the evidence pack (market status: Not Marketed, 0 licenses).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA078915 | Polyethylene Glycol (3350) (Mylan Institutional Inc.) | Powder, for solution | Not specified in the data |
+
+---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This prediction is supported only by knowledge-graph topological similarity (L5, Evidence Stage S0) — there are zero clinical trials, zero published literature, and no validated mechanistic pathway connecting PEG 3500 to congenital ichthyosiform erythroderma. The drug is also not currently marketed in the US.
+The prediction has no clinical or literature support (evidence level L5), and no mechanistic link is established between an oral, non-absorbed laxative and a keratinization disorder. Safety and mechanism data are also missing, so the candidate cannot advance past the initial stage.
 
 **To proceed, the following is needed:**
-- TFDA/FDA label warnings and contraindications (currently a blocking data gap — required before any safety evaluation can begin)
-- Confirmed mechanism of action data for PEG 3500
-- Preclinical or mechanistic studies directly linking PEG to keratinization/skin barrier pathways
-- Any clinical case reports or exploratory studies to move evidence beyond model-only prediction
+- Package insert warnings and contraindications (blocking gap)
+- Mechanism of action data and the original indication
+- A literature and trial search on PEG in ichthyosis, to determine whether any signal concerns the active drug or only topical vehicles
+- Route compatibility assessment, since the oral powder is not a topical formulation
+- Safety assessment of PEG exposure in neonates with impaired skin barrier
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

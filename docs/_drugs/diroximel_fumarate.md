@@ -29,79 +29,83 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Diroximel Fumarate: From Unspecified Original Indication to Diabetic Cataract (Predicted)
+# Diroximel Fumarate: From an Unspecified Original Indication to Diabetic Cataract
 
 ## One-Sentence Summary
 
-> Diroximel fumarate (DrugBank ID: DB14783) is a monomethyl fumarate prodrug; however, its originally approved indication is not documented in this evidence pack.
-> The TxGNN model predicts it may be effective for **Diabetic Cataract**,
-> but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a model-only hypothesis with no direct evidentiary backing.
-
----
+Diroximel fumarate is marketed in the US as Vumerity (an oral capsule from Biogen), but the supplied data does not list an approved indication.
+The TxGNN model predicts it may be effective for **diabetic cataract**,
+but **0 clinical trials** and **0 publications** currently support this direction, so it is a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in evidence pack |
-| Predicted New Indication | Diabetic Cataract |
-| TxGNN Prediction Score | 99.9993% (KG rank #58) |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✗ Not Marketed |
-| Number of NDAs | 0 |
+| Original Indication | Not available in the supplied data (approved indication text is empty) |
+| Predicted New Indication | Diabetic cataract |
+| TxGNN Prediction Score | 99.999% |
+| Evidence Level | L5 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for diroximel fumarate is not available in the evidence pack (flagged as a High-severity data gap). Based on the information available in the TxGNN model's own rationale, diroximel fumarate is a **monomethyl fumarate prodrug** that is understood to activate the **Nrf2/ARE (nuclear factor erythroid 2–related factor 2 / antioxidant response element) pathway**, an antioxidant and anti-inflammatory signaling cascade.
+Currently, detailed mechanism of action data is not available, and the approved indication is also missing from the supplied data. The prediction therefore cannot be tied to a documented original use.
 
-The proposed mechanistic link to diabetic cataract is that cataract formation in diabetic patients involves lens oxidative stress and polyol-pathway metabolite accumulation, both of which are theoretically modulated by Nrf2 pathway activation. However, this is a **plausibility argument derived from pathway biology, not an established pharmacological relationship** — no preclinical or clinical data connect diroximel fumarate to any ocular or lens-related indication.
+One hypothesis, which comes from outside the supplied data and is unverified: diroximel fumarate is a prodrug of monomethyl fumarate, an Nrf2 pathway activator. Oxidative stress and polyol-pathway injury are involved in diabetic lens opacity, so an antioxidant mechanism could plausibly be relevant. No trial or publication supports this link.
 
-It is also notable that several other top-ranked predictions for this drug (e.g., tetanic cataract, craniostenosis cataract) have documented mechanistic implausibility per the model's own rationale, suggesting the knowledge-graph may be clustering diverse cataract subtypes together as a node-similarity artifact rather than identifying a genuine pharmacological signal. This raises caution about over-interpreting the "diabetic cataract" ranking as well.
-
----
+The score should be read with caution. Nine of the ten top predictions are cataract or diabetic eye conditions, including rare subtypes such as tetanic and craniostenosis cataract. This suggests the score largely reflects proximity to a cluster of cataract nodes in the knowledge graph rather than drug-specific biology.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-Diroximel fumarate is **not currently marketed** in this jurisdiction — no NDA/BLA license records are available (total licenses: 0).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA211855 | Vumerity | Capsule (oral) | Not provided in the supplied data |
 
----
+## Other Predicted Indications
+
+All have TxGNN scores of about 99.999% and evidence level L5, with no trials or literature.
+
+| Rank | Predicted Indication | Recommendation | Comment |
+|------|------|------|------|
+| 2 | Diabetic retinopathy | Research Question | Same unverified Nrf2 hypothesis (oxidative stress and inflammation in the retina) |
+| 3 | Severe nonproliferative diabetic retinopathy | Hold | Subtype, covered by the diabetic retinopathy question |
+| 4 | Tetanic cataract | Hold | No plausible link, likely a graph artifact |
+| 5 | Immature cataract | Hold | Generic stage, no drug-specific evidence |
+| 6 | Craniostenosis cataract | Hold | Rare syndromic cataract, likely a graph artifact |
+| 7 | Nuclear senile cataract | Hold | Speculative oxidative-stress link only |
+| 8 | Cortical cataract | Hold | Likely graph proximity only |
+| 9 | Diabetes mellitus type 2 associated cataract | Hold | Overlaps with diabetic cataract |
+| 10 | Mature cataract | Hold | Advanced stage, usually treated surgically |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-> Note: TFDA/FDA label warnings and contraindications, as well as drug–drug interaction data, could not be retrieved for this drug (query status: not found). This is flagged internally as a **Blocking** data gap — safety-related decisions cannot proceed until label data is obtained.
-
----
+Please refer to the package insert for safety information. No drug interaction records were found in the queried data.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by TxGNN model scoring (L5, evidence level with no clinical trials or literature), and the mechanistic rationale is speculative pathway-level reasoning rather than direct evidence. Combined with the absence of confirmed original indication, mechanism of action, and safety/label data, this candidate is not ready to advance beyond the model-prediction stage.
+The prediction rests on the model score alone (L5), with no trials, no literature, and no mechanism of action or original indication in the data. The similarity of the top-ranked predictions suggests a knowledge-graph cluster effect rather than drug-specific evidence.
 
 **To proceed, the following is needed:**
-- Confirmed original indication and regulatory history for diroximel fumarate (currently missing from this evidence pack)
-- Verified mechanism of action from DrugBank or primary literature (currently a data gap)
-- TFDA/FDA label data — warnings, contraindications, and drug interaction profile (currently a **Blocking** data gap preventing safety pre-assessment)
-- Preclinical or clinical evidence specifically evaluating fumarate-class compounds in diabetic cataract or related ocular conditions
-- Clarification on whether the cluster of similarly-ranked cataract subtypes (tetanic, craniostenosis, nuclear senile, cortical, etc.) reflects a genuine signal or a knowledge-graph artifact, before committing further evaluation resources to this indication
+- The Vumerity package insert (approved indication, warnings, contraindications), which is blocking for safety screening
+- Mechanism of action data (for example from DrugBank)
+- Preclinical evidence that Nrf2 activation affects diabetic lens or retinal injury
+- A literature and trial search for diabetic cataract and diabetic retinopathy
+- Assessment of whether the oral route is suitable for an ocular indication
+
+*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

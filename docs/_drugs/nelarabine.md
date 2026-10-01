@@ -29,70 +29,99 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Nelarabine: From T-cell Acute Lymphoblastic Leukemia/Lymphoma to Relapsing-Remitting Multiple Sclerosis
+# Nelarabine: From T-Cell Leukemia/Lymphoma to Relapsing-Remitting Multiple Sclerosis
 
 ## One-Sentence Summary
 
-Nelarabine (DrugBank DB01280) is a purine nucleoside analog chemotherapy agent used to treat T-cell acute lymphoblastic leukemia/lymphoma. The TxGNN model predicts it may be effective for **relapsing-remitting multiple sclerosis (RRMS)**, but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a pure knowledge-graph inference with no direct empirical evidence.
+Nelarabine is a purine nucleoside analog cytotoxic drug. It is generally used for T-cell hematologic malignancies, but the US regulatory data provided does not list an approved indication.
+The TxGNN model predicts it may be effective for **relapsing-remitting multiple sclerosis**, but **0 clinical trials** and **0 publications** currently support this direction. This is a model-only prediction with a serious neurotoxicity concern.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | T-cell acute lymphoblastic leukemia/lymphoma (known use; not documented in Taiwan regulatory records — drug is not marketed in Taiwan) |
+| Original Indication | Not listed in the provided data (all license records have empty indication text). Nelarabine is generally known as a T-cell leukemia/lymphoma agent. |
 | Predicted New Indication | Relapsing-remitting multiple sclerosis |
-| TxGNN Prediction Score | 99.43% |
+| TxGNN Prediction Score | 99.43% (rank 13,256) |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 15 (NDA and ANDA licenses combined) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data (DrugBank `original_moa`) is not currently available for this drug (data gap DG002). Based on the model's own rationale, nelarabine is a prodrug of ara-G, activated by deoxyguanosine kinase (dGK), and produces highly selective cytotoxicity against T-cells — this is the pharmacological basis for its approved use in T-cell leukemia/lymphoma.
+Currently, detailed mechanism of action data is not available in the source record. Based on general pharmacology, nelarabine is a prodrug of ara-G, a purine nucleoside analog that is preferentially cytotoxic to T-lymphocytes. This link comes from general knowledge, not from the input data.
 
-RRMS is a T-cell–mediated (particularly Th17/CD8+) autoimmune demyelinating disease. TxGNN's inference rests on a topological similarity in the knowledge graph — both conditions involve "T-cell" related nodes — rather than on any direct pharmacological or clinical validation of T-cell–selective cytotoxicity as a treatment strategy for MS.
+The proposed connection to relapsing-remitting MS is T-cell depletion. Autoreactive T-cells are thought to drive MS, and cladribine, another purine analog, is already used in relapsing MS. A T-cell-selective agent could conceptually act in a similar way.
 
-Critically, the evidence pack itself flags a mechanistic contradiction: nelarabine has well-documented, severe, dose-limiting neurotoxicity (peripheral neuropathy, demyelination-like CNS symptoms, and even reversible posterior leukoencephalopathy syndrome). This is directly at odds with the neuroprotective goal of MS therapy, making the biological plausibility of this prediction low despite the high TxGNN score.
+This rationale is plausible but unverified. Nelarabine is known to carry a boxed warning for severe neurotoxicity, including demyelination, peripheral neuropathy and Guillain-Barré-like ascending paralysis. Such toxicity is a serious liability in a demyelinating CNS disease. Without clinical data, the risk-benefit balance cannot be assessed.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 Currently no related literature available.
 
+---
+
 ## US Market Information
 
-Nelarabine is not marketed in Taiwan (0 licenses on record), so no NDA/product information is available.
+The record lists 15 licenses in total. The five main ones are shown below.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA021877 | Arranon (Sandoz Inc) | Injection | Not provided in source data |
+| ANDA216038 | Nelarabine (Meitheal Pharmaceuticals Inc) | Injection | Not provided in source data |
+| ANDA215037 | Nelarabine (Zydus Lifesciences Limited) | Injection | Not provided in source data |
+| ANDA216934 | Nelarabine (Dr. Reddy's Laboratories, Inc.) | Injection | Not provided in source data |
+| ANDA212605 | Nelarabine (Gland Pharma Limited) | Injection | Not provided in source data |
+
+---
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (purine nucleoside analog / antimetabolite) |
+| Cytotoxicity Classification | Conventional cytotoxic (purine nucleoside analog, prodrug of ara-G) |
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | CBC with differential, neurological examination (dose-limiting neurotoxicity has been reported), liver and renal function |
-| Handling Protection | Standard cytotoxic/hazardous drug handling protocols apply |
+| Monitoring Items | Please refer to the package insert warnings and precautions. Neurologic assessment is essential given the neurotoxicity concern. |
+| Handling Protection | Must follow cytotoxic drug handling regulations |
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Key Warnings**: The source data has no warning entries. From general pharmacology, nelarabine carries a boxed warning for severe neurotoxicity (demyelination, peripheral neuropathy, Guillain-Barré-like ascending paralysis). This should be verified against the current package insert.
+- **Drug Interactions**: No interaction records were found in the queried source (0 entries).
+
+Please refer to the package insert for complete safety information.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high, but evidence level is L5 — there are zero clinical trials or publications supporting nelarabine in RRMS, and the drug's known dose-limiting neurotoxicity conflicts mechanistically with the neuroprotective goals of MS treatment.
+The prediction rests on the model score alone (L5), with no supporting trials or literature. The known neurotoxicity, including demyelination, directly conflicts with the target disease, so the risk-benefit balance is unfavorable without clinical data.
 
 **To proceed, the following is needed:**
-- TFDA label (warnings/contraindications) retrieval — currently a blocking data gap (DG001)
-- DrugBank-sourced mechanism of action confirmation (DG002)
-- Preclinical or mechanistic studies specifically evaluating T-cell–selective cytotoxic agents in demyelinating/autoimmune CNS disease models
-- Any real-world or case-level safety data addressing whether neurotoxicity risk is compatible with an MS patient population
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Approved indication text for the US licenses
+- A literature and trial search on purine analogs in MS, and on nelarabine neurotoxicity mechanisms
+- Preclinical evidence that a T-cell-depleting effect can be achieved without CNS demyelination risk
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,70 +29,93 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Ipilimumab: From Melanoma to Choroideremia
+# Ipilimumab: From Cutaneous Melanoma to Choroideremia
 
 ## One-Sentence Summary
 
-Ipilimumab is an anti-CTLA-4 immune checkpoint inhibitor historically used in melanoma immunotherapy. The TxGNN model predicts it may be effective for **Choroideremia**, but currently **0 clinical trials** and **0 publications** support this specific direction, and the mechanistic rationale is judged biologically implausible.
+Ipilimumab (Yervoy) is a CTLA-4 blocking antibody used in cutaneous melanoma. The TxGNN model predicts it may be effective for **choroideremia**, an inherited retinal degeneration. This prediction has **no clinical trials and no publications** behind it, so it is a model output only and is likely a knowledge-graph artifact.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Melanoma (official approved-indication text unavailable — see data gap DG001) |
+| Original Indication | Cutaneous melanoma (taken from the pack's mechanistic rationale; the license text fields are empty) |
 | Predicted New Indication | Choroideremia |
 | TxGNN Prediction Score | 99.06% |
 | Evidence Level | L5 |
-| US Market Status | Not marketed (Not Marketed) |
-| Number of NDAs | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 2 (both entries carry the same number, BLA125377) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (DG002). Based on known information, ipilimumab is a monoclonal antibody that blocks CTLA-4, releasing inhibition of T-cell activation to enhance the immune response against tumor antigens — a mechanism established through its use in melanoma.
+Detailed mechanism of action data is not available in the Evidence Pack. Ipilimumab is known to block CTLA-4, which releases a checkpoint on T-cell priming and increases T-cell activation. This is the mechanism behind its use in melanoma.
 
-Choroideremia, however, is a monogenic disease caused by CHM gene mutations leading to Rab escort protein 1 (REP1) deficiency, resulting in progressive choroidoretinal degeneration through a protein-trafficking defect. This pathophysiology has no known biological connection to CTLA-4-mediated immune checkpoint signaling.
+The evidence review found **no plausible mechanistic link** to this indication. Choroideremia is an X-linked disease caused by loss of function of the CHM (REP1) gene, and it degenerates the retina and choroid. Nothing in the data connects CTLA-4 blockade to that process.
 
-Given the absence of any supporting clinical trial or literature evidence despite a high TxGNN score, this prediction is best interpreted as a knowledge-graph embedding artifact (a statistical co-occurrence pattern) rather than a mechanistically grounded repurposing hypothesis.
+The high score (0.99) is probably a knowledge-graph artifact. One possible source is neighboring ocular or uveal melanoma nodes. Systemic immune activation also carries a risk of ocular immune-related adverse events, which argues against using ipilimumab in a degenerative retinal disease.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 Currently no related literature available.
 
-## Cytotoxicity
+---
 
-*(Included because the original indication, melanoma, is an oncologic condition.)*
+## US Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| BLA125377 | YERVOY (E.R. Squibb & Sons, L.L.C.) | Injection | Not listed in the license data |
+
+The pack lists two license entries. They are identical, so they are shown once. The only route is injectable.
+
+---
+
+## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Immunotherapy (anti-CTLA-4 immune checkpoint inhibitor) — not a conventional cytotoxic agent |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Please refer to the package insert warnings and precautions |
+| Cytotoxicity Classification | Immunotherapy (immune checkpoint inhibitor, anti-CTLA-4 antibody), not a conventional cytotoxic |
+| Myelosuppression Risk | Low in general, per drug class. Please refer to the package insert warnings and precautions. |
+| Emetogenicity Classification | Low, per drug class. Please refer to the package insert. |
+| Monitoring Items | Liver function, thyroid and adrenal function, blood glucose, and ocular and gastrointestinal symptoms, because of immune-related adverse events. Please refer to the package insert for the full schedule. |
+| Handling Protection | Standard biologic handling. The package insert governs any special measures. |
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Ocular risk**: Systemic immune activation carries a risk of ocular immune-related adverse events. This is a concern in any retinal degenerative disease.
+
+Please refer to the package insert for other safety information. The Evidence Pack contains no drug interaction data, warnings or contraindications.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Despite a high TxGNN score (99.06%), there is no clinical trial or literature evidence supporting ipilimumab for choroideremia, and the proposed mechanistic link (CTLA-4 immune checkpoint blockade vs. a REP1 protein-trafficking defect) has no established biological basis. This candidate should not advance without independent mechanistic or preclinical justification.
+The prediction has no clinical trial or literature support and no plausible mechanistic link. The model score alone is not enough, and the risk of ocular immune toxicity argues against pursuing it.
 
 **To proceed, the following is needed:**
-- Preclinical or mechanistic data establishing a plausible link between CTLA-4 pathway modulation and CHM/REP1-related choroidoretinal degeneration
-- TFDA label data (warnings/contraindications) to close data gap DG001
-- Confirmed mechanism of action (MOA) documentation to close data gap DG002
+- Any preclinical or mechanistic evidence linking CTLA-4 blockade to retinal degeneration
+- The full package insert warnings and contraindications
+- Original indication and mechanism of action data for the drug record
 
----
-**Note:** This evidence pack also contains a second candidate for ipilimumab — **non-cutaneous melanoma** (TxGNN score 99.02%, Evidence Level L1, recommendation "Proceed with Guardrails") — supported by a Phase 3 RCT (NCT02506153) and peer-reviewed literature (e.g., PMID 24999899 on uveal/mucosal melanoma). Given its substantially stronger evidence base, it may warrant a separate evaluation report.
+**Note on the second prediction:** Non-cutaneous melanoma (rank 2, score 99.02%) has much stronger support. It has L3 evidence, many melanoma trials including a completed Phase 3 RCT, and a plausible mechanism. It is a better candidate for further review, but the melanoma subtypes enrolled in the trials still need to be confirmed.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

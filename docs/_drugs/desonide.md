@@ -33,33 +33,32 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Desonide is a low-potency synthetic topical corticosteroid (Class VI), primarily used to treat mild-to-moderate inflammatory skin conditions such as atopic dermatitis and eczema.
-The TxGNN model predicts it may be effective for **Polyp of Vocal Cord**, with **0 clinical trials** and **0 publications** currently identified to support this direction.
-The current evidence rests entirely on model prediction (Level L5), and this repurposing direction requires substantial preclinical and clinical investigation before further development can be considered.
+Desonide is a low-potency topical corticosteroid marketed in the US as creams, lotions and ointments. The supplied license records do not include its approved indication text.
+The TxGNN model predicts it may be effective for **polyp of vocal cord**, but **0 clinical trials** and **0 publications** currently support this direction, so this is a model prediction only.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Inflammatory skin conditions (atopic dermatitis, eczema) |
-| Predicted New Indication | Polyp of Vocal Cord |
+|------|------|
+| Original Indication | Not stated in the supplied license records (desonide is a low-potency topical corticosteroid) |
+| Predicted New Indication | Polyp of vocal cord |
 | TxGNN Prediction Score | 99.91% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed |
-| Number of Licenses | 0 |
+| US Market Status | ✓ Marketed |
+| Number of NDAs | 20 (all shown are ANDA generic approvals) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Desonide is a synthetic non-fluorinated corticosteroid belonging to Class VI (low-potency) on the topical steroid potency scale. Although detailed MOA data is not available from the current evidence pack, desonide shares the glucocorticoid class mechanism: binding to intracellular glucocorticoid receptors, leading to downstream suppression of pro-inflammatory cytokines (including IL-6 and TNF-α), reduced capillary permeability, and inhibition of leukocyte infiltration — all of which attenuate local mucosal edema and inflammation.
+Currently, detailed mechanism of action data is not available. Desonide is a low-potency topical corticosteroid, so a general anti-inflammatory effect is the only plausible rationale. No desonide-specific data was supplied to support it for this condition.
 
-Vocal cord polyps develop from chronic mechanical irritation (vocal overuse, vocal abuse) combined with local mucosal edema and inflammatory cell infiltration. In otolaryngology practice, corticosteroids — particularly triamcinolone acetonide injected intralesionally — are used off-label to reduce vocal cord lesion volume by suppressing local inflammatory and early fibrotic processes. This provides a distant mechanistic analogy for desonide's predicted utility: the drug class is mechanistically active in the relevant tissue process, even if desonide itself has never been studied in this context.
+The top 10 TxGNN predictions are all polyp-type lesions at very different sites: vocal cord, middle ear, external auditory canal, frontal sinus, ureter, vulva, uterus and others. The scores are nearly identical (99.90–99.91%). This pattern suggests the model is picking up a broad "corticosteroid and polyp" association rather than a desonide-specific signal.
 
-However, this analogy is substantially weakened by two critical barriers. First, desonide is formulated exclusively for topical (dermal) and otic use; no established delivery route to the vocal cord mucosa exists, and nebulized or injectable formulations have not been investigated. Second, its potency class (Class VI — the lowest tier) is far below the corticosteroids routinely used in ENT practice (e.g., Class I triamcinolone). The TxGNN prediction most likely captures a broad "corticosteroid–polyp" co-occurrence signal in the knowledge graph rather than a drug-specific mechanistic prediction. No preclinical or clinical evidence supports this specific application.
+The main problem for vocal cord polyps is delivery. Desonide is marketed only as topical dermatologic products (cream, lotion, ointment), and these cannot reach the vocal cord. Vocal cord polyps are also usually managed with voice therapy or surgery. Route compatibility has not been assessed.
 
 ---
 
@@ -75,9 +74,17 @@ Currently no related literature available.
 
 ---
 
-## Taiwan Market Information
+## US Market Information
 
-Desonide is not currently registered or marketed in Taiwan. No active licenses are on record.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA073548 | Desonide (Northstar Rx) | Cream | Not provided in the record |
+| ANDA213632 | Desonide (Alembic) | Lotion | Not provided in the record |
+| ANDA210198 | Desonide (Bryant Ranch Prepack) | Cream | Not provided in the record |
+| ANDA074254 | Desonide (Northstar Rx) | Ointment | Not provided in the record |
+| ANDA210198 | Desonide (Viona) | Cream | Not provided in the record |
+
+Of the 20 licenses in total, only the first 5 are listed here.
 
 ---
 
@@ -92,15 +99,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-All ten TxGNN-predicted indications are at Evidence Level L5 (model prediction only), with zero supporting clinical trials or published literature across any of the predicted polyp-type targets. For the top-ranked indication (polyp of vocal cord), there is no feasible established delivery route, and desonide's low potency class further undermines mechanistic plausibility compared to corticosteroids already in ENT use.
+The prediction rests on model output alone (L5). There are no trials or publications, and the mechanism data is missing. The marketed topical products cannot plausibly reach the predicted sites, and the polyp types are highly diverse. Safety information also has not been collected.
 
 **To proceed, the following is needed:**
-- Retrieve full MOA data from DrugBank to confirm glucocorticoid receptor binding profile and pharmacokinetic parameters
-- Download and parse the Taiwan/US package insert (TFDA/FDA) to complete the safety and contraindication assessment
-- Identify whether any nebulized, injectable, or intralaryngeal corticosteroid delivery system could be adapted for desonide
-- Conduct a systematic literature review on intralaryngeal and intratracheal corticosteroid use as a surrogate mechanistic model
-- Perform preclinical feasibility assessment on vocal cord mucosal tissue models before any clinical translation is considered
-- Flag **neoplastic polyp (Rank 8)** as explicitly unsuitable for future study design, as corticosteroid use in Wnt/β-catenin–driven premalignant lesions lacks mechanistic rationale and may carry immunosuppression risk
+- Package insert warnings and contraindications, which block any safety screening
+- Mechanism of action data (e.g., from DrugBank)
+- Approved indication text for the US licenses
+- A route-of-administration assessment for the predicted sites
+- Evidence of local corticosteroid use in polyp disease, followed by a literature search focused on the most accessible sites (external auditory canal, vulva)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

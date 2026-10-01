@@ -14,7 +14,7 @@ permalink: /news/rutin/
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>9 news articles</strong>, with 8 predicted indications.
+<strong>Rutin</strong> currently has <strong>7 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (7)
 
 ### [Astronomers have produced the clearest exoplanet 'ultrasound' to date and it's twins!](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcW1DVy1xa3VELUVOYzhabWF5RS1KTFBQa2xPSjdiMzJjWVJtVkI4Zjk5aWkxMmNEV0dMNmNGaUpXOThaX21tdGpxNThYU1ZHVXZjXzlmNWJLS1ludFZjMlN5ZU51X1ZnSkRQOVZlQkVDTmtXMzdKU0l1ZEpaaXBFak96ZzV0cG5WYi1kYi1DVDV1WWVTTWwwSmlEbVdQcmpJbDQzRXJGcFhvcmpFN29ob2FFN05RdnFUTXliZm5HX3pvQQ?oc=5)
 
@@ -56,27 +56,11 @@ Source: [The Conversation](https://news.google.com/rss/articles/CBMiswFBVV95cUxP
 
 ---
 
-### [Eating One Type of Fruit Is Linked to Better Heart Health, Study of 371,000 Americans Reveals](https://news.google.com/rss/articles/CBMisAFBVV95cUxORno5cTZDU0pMNXNxclNOVE9JXzA3b3h5eGhfUmZ3OUViY0pmREUxM3FBY2wxV05SUmk0YlI3NTZOcERtaXJCTXZpWTc0cEtGVnJqWWNpTXE0c0hINno0UENHdXRyanpVbFFYRjV2Y0hUc2RlMHYzRHVlVW9SUGZxUmNVc2JoVjVXT0RWQ2ZpT2lYdG0wa0pmcW1yYUMxUXhLTVFBZ1J2OXdRNjVsajFOVw?oc=5)
-
-2026-09-30 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">UC</span>
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMisAFBVV95cUxORno5cTZDU0pMNXNxclNOVE9JXzA3b3h5eGhfUmZ3OUViY0pmREUxM3FBY2wxV05SUmk0YlI3NTZOcERtaXJCTXZpWTc0cEtGVnJqWWNpTXE0c0hINno0UENHdXRyanpVbFFYRjV2Y0hUc2RlMHYzRHVlVW9SUGZxUmNVc2JoVjVXT0RWQ2ZpT2lYdG0wa0pmcW1yYUMxUXhLTVFBZ1J2OXdRNjVsajFOVw?oc=5)
-
----
-
-### [A Change in Your Voice Could Foreshadow Cognitive Decline, Major Study Finds](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZTRkRW50TGV0bjVtYVI3ekNYMFltMlRTQWROZHJySWh0NWZVWk1GaXZINUlMSXNTX09USVMzNkJVSDNmZVRlcGcwLVpEdEZXT1NJZDRrb3U1alB4X2NWa1BSUVRYc1lYUkFKYTl6cndFclRiVGlIa1oySng2VzFEYjBOd21iLW1UbHRja1dOYkIzeGtKMElUYlVXdFQtbGhOd2xnQi13cw?oc=5)
-
-2026-09-29 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMipwFBVV95cUxPZTRkRW50TGV0bjVtYVI3ekNYMFltMlRTQWROZHJySWh0NWZVWk1GaXZINUlMSXNTX09USVMzNkJVSDNmZVRlcGcwLVpEdEZXT1NJZDRrb3U1alB4X2NWa1BSUVRYc1lYUkFKYTl6cndFclRiVGlIa1oySng2VzFEYjBOd21iLW1UbHRja1dOYkIzeGtKMElUYlVXdFQtbGhOd2xnQi13cw?oc=5)
-
----
-
 ### [West Nile virus cases surging across Los Angeles County](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdVFBbjN6MDlWbkR5bUI1bWpfUmcwVWZ1SHJkaDdabDdJRk01MzU0YUREcTFWaENoY3U5VXJtdnl6cjk0OElUZVdLeGNoSUFyLTJFclRzT1BUUDJxWDIyOF9HRGhCcTVzR2JESWRGbnVzVmVNcU1HaEQxbnotc2dJbHBJZ2RnQ0NrTnfSAY8BQVVfeXFMTjZKZlJIeXM4dHU5TkVVY0hFVlh4Q3c5XzRpM3p1czZxTTlocmllSkFJbjhsbzJiYTFSS0xFS2lhMnRfSmNvTW45S2dkVzBQckJjQy1zYmdVWTZXdFFScUlIU3BkcFBBZ0g5MXBOR2tLNWFUbldkQWRRTHZNUUhqMU5KS3g1Q0dzeVkzaEtpQjA?oc=5)
 
-2026-09-29 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-09-29 <span class="news-indication-tag">UC</span>
 
-Source: [KTLA](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdVFBbjN6MDlWbkR5bUI1bWpfUmcwVWZ1SHJkaDdabDdJRk01MzU0YUREcTFWaENoY3U5VXJtdnl6cjk0OElUZVdLeGNoSUFyLTJFclRzT1BUUDJxWDIyOF9HRGhCcTVzR2JESWRGbnVzVmVNcU1HaEQxbnotc2dJbHBJZ2RnQ0NrTnfSAY8BQVVfeXFMTjZKZlJIeXM4dHU5TkVVY0hFVlh4Q3c5XzRpM3p1czZxTTlocmllSkFJbjhsbzJiYTFSS0xFS2lhMnRfSmNvTW45S2dkVzBQckJjQy1zYmdVWTZXdFFScUlIU3BkcFBBZ0g5MXBOR2tLNWFUbldkQWRRTHZNUUhqMU5KS3g1Q0dzeVkzaEtpQjA?oc=5)
+Source: [ktla.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdVFBbjN6MDlWbkR5bUI1bWpfUmcwVWZ1SHJkaDdabDdJRk01MzU0YUREcTFWaENoY3U5VXJtdnl6cjk0OElUZVdLeGNoSUFyLTJFclRzT1BUUDJxWDIyOF9HRGhCcTVzR2JESWRGbnVzVmVNcU1HaEQxbnotc2dJbHBJZ2RnQ0NrTnfSAY8BQVVfeXFMTjZKZlJIeXM4dHU5TkVVY0hFVlh4Q3c5XzRpM3p1czZxTTlocmllSkFJbjhsbzJiYTFSS0xFS2lhMnRfSmNvTW45S2dkVzBQckJjQy1zYmdVWTZXdFFScUlIU3BkcFBBZ0g5MXBOR2tLNWFUbldkQWRRTHZNUUhqMU5KS3g1Q0dzeVkzaEtpQjA?oc=5)
 
 ---
 
@@ -106,7 +90,7 @@ Source: [Ars Technica](https://news.google.com/rss/articles/CBMisgFBVV95cUxQSV9r
 
 ### [Horrifying Research Finds What Happens to 12-Year-Olds Who Get Smart Phones](https://news.google.com/rss/articles/CBMihgFBVV95cUxQNjdFczI1RXpxQnpzOEV5eFJaeVRTelpZbnlmSEt4Z0d3QWpYVkxXSXFGcVJ5VEZyTTB1RmNvS2RLd2t3OENjLWNtWWFFVGNLdW1iZHRlbUlJQTVxSHJac20wai1LOEVQbWNtQmxnT0kyU3lNeXVVVWI2a2V4V1kxdG1NVmJodw?oc=5)
 
-2026-09-29 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-09-29 <span class="news-indication-tag">UC</span>
 
 Source: [Futurism](https://news.google.com/rss/articles/CBMihgFBVV95cUxQNjdFczI1RXpxQnpzOEV5eFJaeVRTelpZbnlmSEt4Z0d3QWpYVkxXSXFGcVJ5VEZyTTB1RmNvS2RLd2t3OENjLWNtWWFFVGNLdW1iZHRlbUlJQTVxSHJac20wai1LOEVQbWNtQmxnT0kyU3lNeXVVVWI2a2V4V1kxdG1NVmJodw?oc=5)
 

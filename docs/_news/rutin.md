@@ -14,7 +14,7 @@ permalink: /news/rutin/
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>9 news articles</strong>, with 8 predicted indications.
+<strong>Rutin</strong> currently has <strong>11 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,31 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (11)
+
+### [This Mealtime Habit May Help Reduce Blood Sugar Spikes, New Study Says](https://news.google.com/rss/articles/CBMiggFBVV95cUxQeXQzZk5HN0t2VVZSQ2M0LVo4bTVFQm1XT25EQ1FRT1VuNGs4bFNpVl9yeVpZWWk0X2NsY3E0RmJBMFdXX2RSWm9uMHNiOWZwUXFSSnA0TFN5Sk40d1B0aG12Yk9BMFlfbm15MU0xbF9FLTh5VFdNMExCMWVKZXJHRGtB?oc=5)
+
+2026-10-02 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [EatingWell](https://news.google.com/rss/articles/CBMiggFBVV95cUxQeXQzZk5HN0t2VVZSQ2M0LVo4bTVFQm1XT25EQ1FRT1VuNGs4bFNpVl9yeVpZWWk0X2NsY3E0RmJBMFdXX2RSWm9uMHNiOWZwUXFSSnA0TFN5Sk40d1B0aG12Yk9BMFlfbm15MU0xbF9FLTh5VFdNMExCMWVKZXJHRGtB?oc=5)
+
+---
+
+### [Scientists discover first type I superconductor that breaks time-reversal symmetry](https://news.google.com/rss/articles/CBMihAFBVV95cUxOZjJobUpRVUlfaThWd2pPTWVkZUlURDlfQnBwX0c0ZmZFTjdEM1k5TmI1SXFCZFRLRnpvSkFxM3dwX2NldDZ1ZEVEWHk5Sk1jZnRFczh3dkU1TVVvNWVkRjQ0QUNUSlBjQWxoVEd6VGdVQld0b0FJVUxLaXNpUWtPN1lzNlA?oc=5)
+
+2026-10-02 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMihAFBVV95cUxOZjJobUpRVUlfaThWd2pPTWVkZUlURDlfQnBwX0c0ZmZFTjdEM1k5TmI1SXFCZFRLRnpvSkFxM3dwX2NldDZ1ZEVEWHk5Sk1jZnRFczh3dkU1TVVvNWVkRjQ0QUNUSlBjQWxoVEd6VGdVQld0b0FJVUxLaXNpUWtPN1lzNlA?oc=5)
+
+---
+
+### [New weight-loss injection targets fat cells: CBL-514 selectively induces apoptosis of fat cells](https://news.google.com/rss/articles/CBMieEFVX3lxTE5qQmlnQjNOS0FqT3dkT2ZBbWJzY3Bmcl92OTBsZ0hfZTc1QWs3d0hTVGtXUWZNejYxVTd0NHZpT3o5dDNKdV9EVEhTYjBPWFZmWXBKSHhTb2JMXzFaejREOU93QkZfSE0tNi1FTUpuVnMwcUhLRDZXcg?oc=5)
+
+2026-10-02 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [medicalxpress.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE5qQmlnQjNOS0FqT3dkT2ZBbWJzY3Bmcl92OTBsZ0hfZTc1QWs3d0hTVGtXUWZNejYxVTd0NHZpT3o5dDNKdV9EVEhTYjBPWFZmWXBKSHhTb2JMXzFaejREOU93QkZfSE0tNi1FTUpuVnMwcUhLRDZXcg?oc=5)
+
+---
 
 ### [No Longer Just North And South: A New Material Joins The Third Type of Magnetism](https://news.google.com/rss/articles/CBMirAFBVV95cUxQRFlPNHdmUFdKdnJSeUFBSnVQeUc1N1JtZzQ2OXlVdVlyQmJLcnBVVVRYR3MxVzh1RGprMk9YTHNSc1RQN3FGSUVnX1hXUjQ4QzFtOWoxNUtrczhkcHR0T0QweGVyRXNNZGh1Z0RXdXBxYnI5WGVqek1LYjEyR2V3cUtHUWVqTmFQVmNyRE9vVkdHUUJCTE9nNThtVFVzLWJyMmVjaTlYUEtoM0Jt?oc=5)
 
@@ -53,22 +77,6 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirAFBVV95cUxQRFlP
 2026-10-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMiowFBVV95cUxORG91VjA3WURUbm5oYlRCeFVOOHBvYWdLNGJRZGxKOHZ4Wjd3ZFMwMGxXdTB0emNKNU9UY3FGZnBwQWwxczRDZzFHWnNMd1VEUURFMmV0VGt0NjdVYzJQakR1NlRDUjI0TmozRWROZ3IyOXpQSU5mZGllaDN4YzgxSFZvQ0kzZmc4OFpQcmZ6REhNUXhvYmM4WDJLWmxTU2IwUzY4?oc=5)
-
----
-
-### [Physicists Find a Superconductor That 'Breaks' The Symmetry of Time – A First For Its Kind](https://news.google.com/rss/articles/CBMitgFBVV95cUxPYXJLSWhxampSckxQZ0dOWDhuNE1ZMjFkUFhtTHlJY3VuY3pEWVBjYlZvUVd1cHRFOUNRbkI1cWNHYkYxZ25hZElaZHdXVHg5Y2M4TllLN2xQX1RMMGJRUDlXaURiaGJ5MVNJQmJaVG0xbWRKbXVsMlRPLVc2aXIwOUNEMGVuWTlsR1BudUN1Smw1S0VVbFltbXNqWEVMOTktMktqZEpZbnJzWGlCaWtZV2V5MTg1QQ?oc=5)
-
-2026-10-02 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMitgFBVV95cUxPYXJLSWhxampSckxQZ0dOWDhuNE1ZMjFkUFhtTHlJY3VuY3pEWVBjYlZvUVd1cHRFOUNRbkI1cWNHYkYxZ25hZElaZHdXVHg5Y2M4TllLN2xQX1RMMGJRUDlXaURiaGJ5MVNJQmJaVG0xbWRKbXVsMlRPLVc2aXIwOUNEMGVuWTlsR1BudUN1Smw1S0VVbFltbXNqWEVMOTktMktqZEpZbnJzWGlCaWtZV2V5MTg1QQ?oc=5)
-
----
-
-### [Novel Injectable Drug Cuts Visceral Fat in Phase 2 Trial](https://news.google.com/rss/articles/CBMipgFBVV95cUxOd2lEclNSVFlvWXJ5ZTVaVGMxSG5kX2F2dk00U1Job3NJcHBNbEUxSGp1RHBvRDNMWVhGT3ZWNGZfQV96YVZyMnZVc1J5LUN3NUplT3NTNE5VbWFOTEt1bWc1YVQ3QmctUnR5V0ttQ2IzSUJ2dHc2cHRyMkRqVnUxWUhZMzZMMWJjM2R2akpiNF9TSW1fb05UbWc5LU56cW9OUnotZVNB?oc=5)
-
-2026-10-01 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMipgFBVV95cUxOd2lEclNSVFlvWXJ5ZTVaVGMxSG5kX2F2dk00U1Job3NJcHBNbEUxSGp1RHBvRDNMWVhGT3ZWNGZfQV96YVZyMnZVc1J5LUN3NUplT3NTNE5VbWFOTEt1bWc1YVQ3QmctUnR5V0ttQ2IzSUJ2dHc2cHRyMkRqVnUxWUhZMzZMMWJjM2R2akpiNF9TSW1fb05UbWc5LU56cW9OUnotZVNB?oc=5)
 
 ---
 
@@ -108,7 +116,15 @@ Source: [Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEJkMzJPV
 
 2026-09-28 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5odTVabk9yNU5pVTB0eVFvVHVUMGlncUpjRmp1Q3JkNXlmSTBGREx2OUxldEM4WUVCNW4xVXBjbFpEa0xMV2Vic1lfZjVYZ3FMcTlnVnBjRXlrYlVYdXBn?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5odTVabk9yNU5pVTB0eVFvVHVUMGlncUpjRmp1Q3JkNXlmSTBGREx2OUxldEM4WUVCNW4xVXBjbFpEa0xMV2Vic1lfZjVYZ3FMcTlnVnBjRXlrYlVYdXBn?oc=5)
+
+---
+
+### [Have We Reached Peak PROTEIN? - The New York Times](https://news.google.com/rss/articles/CBMidEFVX3lxTE05RXc3SlZFVXhxYlFqVU5va1dpaW1mNmxzekp5MjlJbVo1MjBGOExnWUJTczZ3N2FjWGxYLVFLcl9WaGd1ekxRc044UTN1R1czOG83YlVzaUdLUmlUdXRsRXJEaEdtTThFczZkOGt2WWQydWRj?oc=5)
+
+2026-09-28 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMidEFVX3lxTE05RXc3SlZFVXhxYlFqVU5va1dpaW1mNmxzekp5MjlJbVo1MjBGOExnWUJTczZ3N2FjWGxYLVFLcl9WaGd1ekxRc044UTN1R1czOG83YlVzaUdLUmlUdXRsRXJEaEdtTThFczZkOGt2WWQydWRj?oc=5)
 
 ---
 

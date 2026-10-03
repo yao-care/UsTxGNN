@@ -14,7 +14,7 @@ permalink: /news/ramucirumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (10)
 
 ### [Scientists Untangle the Biology of an ‘Undruggable’ Cancer Gene - The New York Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdDZxVGs2MkFnenNPR3VKV0ZQck14TDhQWnMwaTF4NThqSWZFMFVlcFlIUFREZGRqMlZnSENBcWVvbC02ZExCSllkdUhfNmVINHRhWmZxWGJ6M0N2MTVYVlBVNlF6UWtTR0dRaHFUWmt5Zjc2RENUcHJUaUdLeTVkSm41TFFjcmFKQXVFVV9TOHlkUW5PdzdzZUZ3VXZWQ1drWC1YX0tRWFM1aVpWdmc?oc=5)
 
@@ -50,11 +50,19 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMirgFBVV95cU
 
 ---
 
-### [When teens get colorectal cancer, it’s often an aggressive form of the disease - NBC News](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZnFoS2t3YTVTTkxURGV3NEhFMXpaRXMycU5OMXBZZlB3TkYzQk5rcXpaNWhHV3VCZ3YyaXZIeTJ3NXE0NzM2Y0NqU2s0Y1FtUll1ZkdkLTlrMDZqVXFMbUwwU0xVUVNhUWdJbG5Sdmw2c3RFTTA3RUFwZ3BQb0dCaFI1TklHdUlDdVdWazVDVXNPMDhmYVJLWHl3MjBBMlNyUXhGMTFBLW9KRURfLVhyX1hZOA?oc=5)
+### [Colorectal Cancer Is Rising Among Kids and Teens—and It's Not the Same Disease Adults Get](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUU1ZMGhha3ZGbWJmdllMZHQybEx2YTFrNC1kSk1PX3doeXlBVlI5eWJIZHYydHlZaUg3TlRveXVSWDl4NUw1cTl4OXBURWJwUkpOMG1iaFg0cklWbVBpYTNVckhpMUVPTEcwRklYbFZjZURwOHFMTy1CSGZBV3o4TVFDWWx0MGZVXy1HN3hjNzJvUThUTllWN1A4NVBjV3lIM2llX2hYVUp2akZZSVh1aGRTQVpVRGhyaHhF?oc=5)
 
 2026-10-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
-Source: [NBC News](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZnFoS2t3YTVTTkxURGV3NEhFMXpaRXMycU5OMXBZZlB3TkYzQk5rcXpaNWhHV3VCZ3YyaXZIeTJ3NXE0NzM2Y0NqU2s0Y1FtUll1ZkdkLTlrMDZqVXFMbUwwU0xVUVNhUWdJbG5Sdmw2c3RFTTA3RUFwZ3BQb0dCaFI1TklHdUlDdVdWazVDVXNPMDhmYVJLWHl3MjBBMlNyUXhGMTFBLW9KRURfLVhyX1hZOA?oc=5)
+Source: [gizmodo.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUU1ZMGhha3ZGbWJmdllMZHQybEx2YTFrNC1kSk1PX3doeXlBVlI5eWJIZHYydHlZaUg3TlRveXVSWDl4NUw1cTl4OXBURWJwUkpOMG1iaFg0cklWbVBpYTNVckhpMUVPTEcwRklYbFZjZURwOHFMTy1CSGZBV3o4TVFDWWx0MGZVXy1HN3hjNzJvUThUTllWN1A4NVBjV3lIM2llX2hYVUp2akZZSVh1aGRTQVpVRGhyaHhF?oc=5)
+
+---
+
+### [Grail's cancer blood test nears landmark FDA approval, but insurance coverage looms](https://news.google.com/rss/articles/CBMiygFBVV95cUxOWnUwVmV6NTJsWWhPaklqMm1qSDMwRFlDNEVaaXU0akRMS09FUF9yRWx3NFRLdlhFR2lVbF9oTzZURWhuTTZGTU9pMTNfU2hDVzhMRDZIVzlyZm1VOVdNNzBCTkxsNzRVTmxIRjJrdHZlNUVDNnRUX3JsSmhlRzE1X1ZDNlBOYXpQcU5USkgydlpLYk92ZWhSNEt4bzgwOXlXc3JCcFN3SWU1d3VkYTFyWnlqdHB5U1RvRk1iaVBhMTFQNGdtZ3FGYl9n?oc=5)
+
+2026-10-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [Reuters](https://news.google.com/rss/articles/CBMiygFBVV95cUxOWnUwVmV6NTJsWWhPaklqMm1qSDMwRFlDNEVaaXU0akRMS09FUF9yRWx3NFRLdlhFR2lVbF9oTzZURWhuTTZGTU9pMTNfU2hDVzhMRDZIVzlyZm1VOVdNNzBCTkxsNzRVTmxIRjJrdHZlNUVDNnRUX3JsSmhlRzE1X1ZDNlBOYXpQcU5USkgydlpLYk92ZWhSNEt4bzgwOXlXc3JCcFN3SWU1d3VkYTFyWnlqdHB5U1RvRk1iaVBhMTFQNGdtZ3FGYl9n?oc=5)
 
 ---
 
@@ -70,7 +78,7 @@ Source: [Spectrum News](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQkV
 
 2026-10-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
-Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kSEM0bFZocEdUdEFHSk85bFg2NTlJajY5a0QtM01ZcTlpNDhlRXI4Y1FpNHRXU0YyQWRycmdaMGRXdDAtRGt2RUpDTTJTa1JuM1lndVNwRVdNRE1PTEpB?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kSEM0bFZocEdUdEFHSk85bFg2NTlJajY5a0QtM01ZcTlpNDhlRXI4Y1FpNHRXU0YyQWRycmdaMGRXdDAtRGt2RUpDTTJTa1JuM1lndVNwRVdNRE1PTEpB?oc=5)
 
 ---
 
@@ -82,19 +90,27 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMiowFBVV95c
 
 ---
 
-### [What to know about your breast cancer risk as Breast Cancer Awareness Month kicks off](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZHBEWTRKQ3Q0N09kcFcwM2l3WHdNNjd4dkxmQVNNTjkxY0M5SmFHMzI2SklibUtnZzVSODV0c2pEZWxNckVzM1NWbGNjRnJ4N2UyR2Q2VGFUNl9TQWlBeExLa1l6ZnI3QXpBMTVWZ3ZWRFJYY0VyWUFja1FBYkM3TFdTMFVrTndpdVlMOUVMcnVwSkdIbGNsV2Q2NjczYjZ2akHSAacBQVVfeXFMUHdwbjVoOXJXTFRCZGxJUDVpa25uRl9NdW9fWkQxTlJXc1h2cFBNd3NVcFpaN251VGJvbUl6cHJmMDV5WFc3dXhHZFVzRmdMQjdLNVhudjYwMmVoc2RIa0pyd212OUVHTTRCMVNfTWhFMHBQQTd6VlV0LXlOaXZUSGl4ZDRiWWJmV3pTd2xmekxqSDExSUo1Nm96RXpqU2ZEZlkwUURlVVE?oc=5)
+### [How loss of the critical tumor suppressor p53 enables mutant cells to expand through normal tissue](https://news.google.com/rss/articles/CBMihAFBVV95cUxNeU1jajhabVQ3TVhER2VKX21jckFUeUJyNktIS21seXRBVnhfbkM3UjI3MEhlMFduZG9TZlNpVzd2eDVtSUFpZzJudTljcjVDTjg0NktucVBKYU1LVDh6ZFZPSWFSMFkxd1ZfT0ExUWdWLXpJc0Q1a0cwaEVVQ1BVVVFlYWM?oc=5)
 
-2026-10-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+2026-10-01 <span class="news-indication-tag">tumor</span>
 
-Source: [abcnews.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZHBEWTRKQ3Q0N09kcFcwM2l3WHdNNjd4dkxmQVNNTjkxY0M5SmFHMzI2SklibUtnZzVSODV0c2pEZWxNckVzM1NWbGNjRnJ4N2UyR2Q2VGFUNl9TQWlBeExLa1l6ZnI3QXpBMTVWZ3ZWRFJYY0VyWUFja1FBYkM3TFdTMFVrTndpdVlMOUVMcnVwSkdIbGNsV2Q2NjczYjZ2akHSAacBQVVfeXFMUHdwbjVoOXJXTFRCZGxJUDVpa25uRl9NdW9fWkQxTlJXc1h2cFBNd3NVcFpaN251VGJvbUl6cHJmMDV5WFc3dXhHZFVzRmdMQjdLNVhudjYwMmVoc2RIa0pyd212OUVHTTRCMVNfTWhFMHBQQTd6VlV0LXlOaXZUSGl4ZDRiWWJmV3pTd2xmekxqSDExSUo1Nm96RXpqU2ZEZlkwUURlVVE?oc=5)
+Source: [medicalxpress.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxNeU1jajhabVQ3TVhER2VKX21jckFUeUJyNktIS21seXRBVnhfbkM3UjI3MEhlMFduZG9TZlNpVzd2eDVtSUFpZzJudTljcjVDTjg0NktucVBKYU1LVDh6ZFZPSWFSMFkxd1ZfT0ExUWdWLXpJc0Q1a0cwaEVVQ1BVVVFlYWM?oc=5)
 
 ---
 
-### [A Cancer Test Has Investors Betting Big. But Will Insurers Pay?](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZzFnbEV2dlYzM2EtSVA3MVJ0RnZZN2dLbS14R2pNRE93d3g2Ujdkc3hnVjdaNnBBdnJVMDlSMnpVYkpJZTNaNTRHNXMxTWRreFU5NnhYMEJKV1VHS3hkSFVneG53dnl5MWpzcUZDNnJHY0RwcDduQU8tc3Bld0xVd2d0WlZCWHo3elVULThRVU1xQ1o4SkkyVmtMZWwtMTNqOHdSNXI1YmpDaFpm?oc=5)
+### [What to know about your breast cancer risk as Breast Cancer Awareness Month kicks off - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZHBEWTRKQ3Q0N09kcFcwM2l3WHdNNjd4dkxmQVNNTjkxY0M5SmFHMzI2SklibUtnZzVSODV0c2pEZWxNckVzM1NWbGNjRnJ4N2UyR2Q2VGFUNl9TQWlBeExLa1l6ZnI3QXpBMTVWZ3ZWRFJYY0VyWUFja1FBYkM3TFdTMFVrTndpdVlMOUVMcnVwSkdIbGNsV2Q2NjczYjZ2akHSAacBQVVfeXFMUHdwbjVoOXJXTFRCZGxJUDVpa25uRl9NdW9fWkQxTlJXc1h2cFBNd3NVcFpaN251VGJvbUl6cHJmMDV5WFc3dXhHZFVzRmdMQjdLNVhudjYwMmVoc2RIa0pyd212OUVHTTRCMVNfTWhFMHBQQTd6VlV0LXlOaXZUSGl4ZDRiWWJmV3pTd2xmekxqSDExSUo1Nm96RXpqU2ZEZlkwUURlVVE?oc=5)
 
 2026-10-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
-Source: [WSJ](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZzFnbEV2dlYzM2EtSVA3MVJ0RnZZN2dLbS14R2pNRE93d3g2Ujdkc3hnVjdaNnBBdnJVMDlSMnpVYkpJZTNaNTRHNXMxTWRreFU5NnhYMEJKV1VHS3hkSFVneG53dnl5MWpzcUZDNnJHY0RwcDduQU8tc3Bld0xVd2d0WlZCWHo3elVULThRVU1xQ1o4SkkyVmtMZWwtMTNqOHdSNXI1YmpDaFpm?oc=5)
+Source: [ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZHBEWTRKQ3Q0N09kcFcwM2l3WHdNNjd4dkxmQVNNTjkxY0M5SmFHMzI2SklibUtnZzVSODV0c2pEZWxNckVzM1NWbGNjRnJ4N2UyR2Q2VGFUNl9TQWlBeExLa1l6ZnI3QXpBMTVWZ3ZWRFJYY0VyWUFja1FBYkM3TFdTMFVrTndpdVlMOUVMcnVwSkdIbGNsV2Q2NjczYjZ2akHSAacBQVVfeXFMUHdwbjVoOXJXTFRCZGxJUDVpa25uRl9NdW9fWkQxTlJXc1h2cFBNd3NVcFpaN251VGJvbUl6cHJmMDV5WFc3dXhHZFVzRmdMQjdLNVhudjYwMmVoc2RIa0pyd212OUVHTTRCMVNfTWhFMHBQQTd6VlV0LXlOaXZUSGl4ZDRiWWJmV3pTd2xmekxqSDExSUo1Nm96RXpqU2ZEZlkwUURlVVE?oc=5)
+
+---
+
+### [New Cancer Drugs Are Revolutionary. Why Don’t More Patients Get Them? - The New York Times](https://news.google.com/rss/articles/CBMitAFBVV95cUxQeUNsekgzR25ack1ZQXhBZ0RCZDE3V25NeVNKbW83WERIdENnYkliTWptR0tMblR2bHJPQXpIMFMzS0pRTDNHMG1peF9neVJ2eE5iYXdkcUtfQmd2WEEwV3V1Q2dWSXJNVVd4ZTJDR3NFZzBMWUxKa0JqYTRQRmg3enNkendnWFNncTd3cWVoM0VSUFlrMVcxRWZteHFjR1g1YmxjaFJEZmdqTDRncTdNYnRRNzg?oc=5)
+
+2026-09-30 <span class="news-indication-tag">cancer</span>
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMitAFBVV95cUxQeUNsekgzR25ack1ZQXhBZ0RCZDE3V25NeVNKbW83WERIdENnYkliTWptR0tMblR2bHJPQXpIMFMzS0pRTDNHMG1peF9neVJ2eE5iYXdkcUtfQmd2WEEwV3V1Q2dWSXJNVVd4ZTJDR3NFZzBMWUxKa0JqYTRQRmg3enNkendnWFNncTd3cWVoM0VSUFlrMVcxRWZteHFjR1g1YmxjaFJEZmdqTDRncTdNYnRRNzg?oc=5)
 
 ---
 

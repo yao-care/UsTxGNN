@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 2 articles, 2 related drugs."
+description: "Health news about flu (influenza). 3 articles, 2 related drugs."
 permalink: /news/influenza/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/influenza/
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>2 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>3 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Patient-zero drill put health facilities to the test—40% of them failed - Ars Technica](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEtuRG1GdjRaNndMa3JzTVBtaU1uUXA3YmMxRFFxMHVES2RvMTlJRlRfd0FyUEw4UXNkTXhKMU9VWHJtRTB2RUx3Y1V0Z0FZSVFJVkNERzFGQXV4ZGhJQmhTWjhoV2YxMDdCSHpWN0JxUUNyc1ZoeGllY2tIdFFnZ0Z4Zm82LTdjQ29tYVlBcXRoamVpYXd4dWVkb2pRUG50UzVnbVN4M19mSkxUUHFV?oc=5)
+
+2026-10-02
+
+Source: [Ars Technica](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEtuRG1GdjRaNndMa3JzTVBtaU1uUXA3YmMxRFFxMHVES2RvMTlJRlRfd0FyUEw4UXNkTXhKMU9VWHJtRTB2RUx3Y1V0Z0FZSVFJVkNERzFGQXV4ZGhJQmhTWjhoV2YxMDdCSHpWN0JxUUNyc1ZoeGllY2tIdFFnZ0Z4Zm82LTdjQ29tYVlBcXRoamVpYXd4dWVkb2pRUG50UzVnbVN4M19mSkxUUHFV?oc=5)
+
+---
 
 ### [When should I get the flu shot? What experts say is the ideal time to protect yourself - NBC Connecticut](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNWlNNTNpcF9RajByN2FmYlVPbklqb2ZWMWdYTkNzaVBuTloyb0YtWkp6YWFkcTJZN1JBVjRnUnJnTFhZcU9mbHE1QlphN0JWUVpBMGMxS05pcVN4dVhWNTB5cUkwelBXd3NQdmJ1YzU4OTM5Qzhab3hZazJuRE1XSjNWZVlhb2o0WlJKdFA2Wk5fMFpXNXBlVHhCQ3B2dVVGNGtnWnpLVXBsc29tX25rdTNoWFZ0cUVM0gHAAUFVX3lxTFBGb2p4dzhhY3BSZVdsWUxGaHhObTN6dWFBNjdvQU5jelUxb1NHT1hNQnNMTVItNmhyZjlraVcwT1hqcU5SV2JGMXdFT1pzQTdCTnVYRnpIT3RZVFppbWtrMXRuc3Y2LUR3S3M5NG12UXFONDFpOXV6dC1URFFzMVJYazBQckNpTzJfMDI1UmQ5RDRwblpndHBwWVZHN3NJVV9nUTZZS2NvOUdnLVluMjQwVXFTd0RwUW5fVHJPcHJMZA?oc=5)
 

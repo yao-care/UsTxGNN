@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 8 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 9 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/inflammatory-bowel-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>8 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>9 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,21 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (8)
+## Related News (9)
 
-### [Our Solar System Is Terminally Unstable and Will Be Completely Destroyed, Study Finds - 404 Media](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZjlESnc1TGdWdHNjUHBuMG1pUFJOQ09zNGt6THR6cnhXVjNPLUQxNEhGM1ljcXZlemhrcFpjdXZMc3BqdVRMSWhCZ1JOUGloemhOREJ4Z2hPQzVxTDk1WS1HY28zZ1VEbXBxM09aR09OZjZZMkpPaWhFV0d2ZUtrMngwVk9OUV9RYWh1M01oUUw1b3A5WVkwNWhyY0tUekJtWGp2OXNIQjhJOVFMSEE?oc=5)
+### [The Aging Brain Isn't Declining – It's Adapting, Study Finds](https://news.google.com/rss/articles/CBMijAFBVV95cUxQOXlyc0pIZEZDT2tLZnhmamJjeVM5Zm92SjlMVkN4NjNGdTZiMGRJU1QwZkJxVUwyYVBOV2V3VlA3eWQ1RXBhdlRxYWFLQUFrS2lKY0dCcDhYZUhDaWM5X1lFUzZYYm5WdUpoZ0x3bHh1Tk5LQkdwZDdjZ2RtdXdVd1JiYlRVSGlsOEQzcg?oc=5)
 
 2026-10-03
 
-Source: [404 Media](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZjlESnc1TGdWdHNjUHBuMG1pUFJOQ09zNGt6THR6cnhXVjNPLUQxNEhGM1ljcXZlemhrcFpjdXZMc3BqdVRMSWhCZ1JOUGloemhOREJ4Z2hPQzVxTDk1WS1HY28zZ1VEbXBxM09aR09OZjZZMkpPaWhFV0d2ZUtrMngwVk9OUV9RYWh1M01oUUw1b3A5WVkwNWhyY0tUekJtWGp2OXNIQjhJOVFMSEE?oc=5)
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMijAFBVV95cUxQOXlyc0pIZEZDT2tLZnhmamJjeVM5Zm92SjlMVkN4NjNGdTZiMGRJU1QwZkJxVUwyYVBOV2V3VlA3eWQ1RXBhdlRxYWFLQUFrS2lKY0dCcDhYZUhDaWM5X1lFUzZYYm5WdUpoZ0x3bHh1Tk5LQkdwZDdjZ2RtdXdVd1JiYlRVSGlsOEQzcg?oc=5)
+
+---
+
+### [Our Solar System Is Terminally Unstable and Will Be Completely Destroyed, Study Finds](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZjlESnc1TGdWdHNjUHBuMG1pUFJOQ09zNGt6THR6cnhXVjNPLUQxNEhGM1ljcXZlemhrcFpjdXZMc3BqdVRMSWhCZ1JOUGloemhOREJ4Z2hPQzVxTDk1WS1HY28zZ1VEbXBxM09aR09OZjZZMkpPaWhFV0d2ZUtrMngwVk9OUV9RYWh1M01oUUw1b3A5WVkwNWhyY0tUekJtWGp2OXNIQjhJOVFMSEE?oc=5)
+
+2026-10-03
+
+Source: [404media.co](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZjlESnc1TGdWdHNjUHBuMG1pUFJOQ09zNGt6THR6cnhXVjNPLUQxNEhGM1ljcXZlemhrcFpjdXZMc3BqdVRMSWhCZ1JOUGloemhOREJ4Z2hPQzVxTDk1WS1HY28zZ1VEbXBxM09aR09OZjZZMkpPaWhFV0d2ZUtrMngwVk9OUV9RYWh1M01oUUw1b3A5WVkwNWhyY0tUekJtWGp2OXNIQjhJOVFMSEE?oc=5)
 
 ---
 
@@ -76,19 +84,19 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMiowFBVV95c
 
 ---
 
-### [Antibiotics Mess With Your Gut—and This Common Food Might Make It Worse](https://news.google.com/rss/articles/CBMihgFBVV95cUxNZWNvVjlBRWpGWW84M1c3RFp4ZkF1QkhQdHp3TXcxSkpUdW11QVJLZlRmamdFTGdOT1dYUVBNWDd1OFExaEJHdklLTFYwNkEzZTBuR2FZMkZpYTEzZTRSTXRQSjljWGd0aW1OVFN3VmIyVE92NjlwZ3hZaW8ybWM4aU85anB0dw?oc=5)
+### [Sugar-rich foods exacerbate antibiotic-induced microbiome disruption](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwZjJhblFMU3Z5LXZtWUxVWWpCQWY5U0xlUjMtRXlkVldZdkJBeS1YMS1paC1lbWlRbjBOWE95SGdhX2ppT0I2WFc1VzBwUloxQV9nMUE5QWQ3ZjhtUmZz?oc=5)
 
-2026-10-01
+2026-09-30
 
-Source: [Prevention](https://news.google.com/rss/articles/CBMihgFBVV95cUxNZWNvVjlBRWpGWW84M1c3RFp4ZkF1QkhQdHp3TXcxSkpUdW11QVJLZlRmamdFTGdOT1dYUVBNWDd1OFExaEJHdklLTFYwNkEzZTBuR2FZMkZpYTEzZTRSTXRQSjljWGd0aW1OVFN3VmIyVE92NjlwZ3hZaW8ybWM4aU85anB0dw?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwZjJhblFMU3Z5LXZtWUxVWWpCQWY5U0xlUjMtRXlkVldZdkJBeS1YMS1paC1lbWlRbjBOWE95SGdhX2ppT0I2WFc1VzBwUloxQV9nMUE5QWQ3ZjhtUmZz?oc=5)
 
 ---
 
-### [Owning smartphone at age 12 may raise child’s disordered-eating risk, study says - The Washington Post](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY2FONG9OVTRfeTFROWI0SWhtbTlkWllkUlAwZk8yMG1mOU5jNWRJU0lienpiODlGNWFFSzR5OUxyZFB3QjY2QzBhNWVRMDhvY054cnFQODlQaDA2S0xxVnBKbTN0ZDlnUG9adTk3QmJlVHFLUHVqeE5TZEwtQlFuM3U2ZHpaUk81bmZYQkxaaGRpRy1pSmRnVXpnQTBMaVhoSUZUamVoblhMZnRCQTh0TUJBdGlLcS02MUpCN2cyc3hjZw?oc=5)
+### [Merck discontinues a crucial antibiotic despite concerns over superbug resistance](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX3lydlBaTmpIWV93RUlSeFhHVlJkSUczUW5qSWQ1blFSdFpuV0c2WEFDRXVtNVItQUNscjhaRjY2QU1mVmNHVGpwaGhwY1cyT0hMbzJ2enExd2tiQnlPU0NYUXhOSVVZWkJ5bjNkTkdETUI0c2kxQm5yMFlfT1dFTm5Eczh1WjhnV3RxdTZaREFpWUJzZ3pqVm9xUjhNcmNFZ013Si1KMXJDVkRoTHF4eGtMM0xWM3BjT0xN?oc=5)
 
-2026-10-01
+2026-09-28
 
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY2FONG9OVTRfeTFROWI0SWhtbTlkWllkUlAwZk8yMG1mOU5jNWRJU0lienpiODlGNWFFSzR5OUxyZFB3QjY2QzBhNWVRMDhvY054cnFQODlQaDA2S0xxVnBKbTN0ZDlnUG9adTk3QmJlVHFLUHVqeE5TZEwtQlFuM3U2ZHpaUk81bmZYQkxaaGRpRy1pSmRnVXpnQTBMaVhoSUZUamVoblhMZnRCQTh0TUJBdGlLcS02MUpCN2cyc3hjZw?oc=5)
+Source: [STAT](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX3lydlBaTmpIWV93RUlSeFhHVlJkSUczUW5qSWQ1blFSdFpuV0c2WEFDRXVtNVItQUNscjhaRjY2QU1mVmNHVGpwaGhwY1cyT0hMbzJ2enExd2tiQnlPU0NYUXhOSVVZWkJ5bjNkTkdETUI0c2kxQm5yMFlfT1dFTm5Eczh1WjhnV3RxdTZaREFpWUJzZ3pqVm9xUjhNcmNFZ013Si1KMXJDVkRoTHF4eGtMM0xWM3BjT0xN?oc=5)
 
 ---
 

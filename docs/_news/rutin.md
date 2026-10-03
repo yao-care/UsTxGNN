@@ -14,7 +14,7 @@ permalink: /news/rutin/
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>8 news articles</strong>, with 8 predicted indications.
+<strong>Rutin</strong> currently has <strong>9 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,13 +38,21 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (9)
 
-### [Our Solar System Is Terminally Unstable and Will Be Completely Destroyed, Study Finds - 404 Media](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZjlESnc1TGdWdHNjUHBuMG1pUFJOQ09zNGt6THR6cnhXVjNPLUQxNEhGM1ljcXZlemhrcFpjdXZMc3BqdVRMSWhCZ1JOUGloemhOREJ4Z2hPQzVxTDk1WS1HY28zZ1VEbXBxM09aR09OZjZZMkpPaWhFV0d2ZUtrMngwVk9OUV9RYWh1M01oUUw1b3A5WVkwNWhyY0tUekJtWGp2OXNIQjhJOVFMSEE?oc=5)
+### [The Aging Brain Isn't Declining – It's Adapting, Study Finds](https://news.google.com/rss/articles/CBMijAFBVV95cUxQOXlyc0pIZEZDT2tLZnhmamJjeVM5Zm92SjlMVkN4NjNGdTZiMGRJU1QwZkJxVUwyYVBOV2V3VlA3eWQ1RXBhdlRxYWFLQUFrS2lKY0dCcDhYZUhDaWM5X1lFUzZYYm5WdUpoZ0x3bHh1Tk5LQkdwZDdjZ2RtdXdVd1JiYlRVSGlsOEQzcg?oc=5)
+
+2026-10-03 <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMijAFBVV95cUxQOXlyc0pIZEZDT2tLZnhmamJjeVM5Zm92SjlMVkN4NjNGdTZiMGRJU1QwZkJxVUwyYVBOV2V3VlA3eWQ1RXBhdlRxYWFLQUFrS2lKY0dCcDhYZUhDaWM5X1lFUzZYYm5WdUpoZ0x3bHh1Tk5LQkdwZDdjZ2RtdXdVd1JiYlRVSGlsOEQzcg?oc=5)
+
+---
+
+### [Our Solar System Is Terminally Unstable and Will Be Completely Destroyed, Study Finds](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZjlESnc1TGdWdHNjUHBuMG1pUFJOQ09zNGt6THR6cnhXVjNPLUQxNEhGM1ljcXZlemhrcFpjdXZMc3BqdVRMSWhCZ1JOUGloemhOREJ4Z2hPQzVxTDk1WS1HY28zZ1VEbXBxM09aR09OZjZZMkpPaWhFV0d2ZUtrMngwVk9OUV9RYWh1M01oUUw1b3A5WVkwNWhyY0tUekJtWGp2OXNIQjhJOVFMSEE?oc=5)
 
 2026-10-03 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
-Source: [404 Media](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZjlESnc1TGdWdHNjUHBuMG1pUFJOQ09zNGt6THR6cnhXVjNPLUQxNEhGM1ljcXZlemhrcFpjdXZMc3BqdVRMSWhCZ1JOUGloemhOREJ4Z2hPQzVxTDk1WS1HY28zZ1VEbXBxM09aR09OZjZZMkpPaWhFV0d2ZUtrMngwVk9OUV9RYWh1M01oUUw1b3A5WVkwNWhyY0tUekJtWGp2OXNIQjhJOVFMSEE?oc=5)
+Source: [404media.co](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZjlESnc1TGdWdHNjUHBuMG1pUFJOQ09zNGt6THR6cnhXVjNPLUQxNEhGM1ljcXZlemhrcFpjdXZMc3BqdVRMSWhCZ1JOUGloemhOREJ4Z2hPQzVxTDk1WS1HY28zZ1VEbXBxM09aR09OZjZZMkpPaWhFV0d2ZUtrMngwVk9OUV9RYWh1M01oUUw1b3A5WVkwNWhyY0tUekJtWGp2OXNIQjhJOVFMSEE?oc=5)
 
 ---
 
@@ -58,7 +66,7 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMihAFBVV95cUxOZjJobUpR
 
 ### [New weight-loss injection targets fat cells: CBL-514 selectively induces apoptosis of fat cells - Medical Xpress](https://news.google.com/rss/articles/CBMieEFVX3lxTE5qQmlnQjNOS0FqT3dkT2ZBbWJzY3Bmcl92OTBsZ0hfZTc1QWs3d0hTVGtXUWZNejYxVTd0NHZpT3o5dDNKdV9EVEhTYjBPWFZmWXBKSHhTb2JMXzFaejREOU93QkZfSE0tNi1FTUpuVnMwcUhLRDZXcg?oc=5)
 
-2026-10-02 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-10-02 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMieEFVX3lxTE5qQmlnQjNOS0FqT3dkT2ZBbWJzY3Bmcl92OTBsZ0hfZTc1QWs3d0hTVGtXUWZNejYxVTd0NHZpT3o5dDNKdV9EVEhTYjBPWFZmWXBKSHhTb2JMXzFaejREOU93QkZfSE0tNi1FTUpuVnMwcUhLRDZXcg?oc=5)
 
@@ -80,19 +88,19 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMiowFBVV95c
 
 ---
 
-### [Antibiotics Mess With Your Gut—and This Common Food Might Make It Worse](https://news.google.com/rss/articles/CBMihgFBVV95cUxNZWNvVjlBRWpGWW84M1c3RFp4ZkF1QkhQdHp3TXcxSkpUdW11QVJLZlRmamdFTGdOT1dYUVBNWDd1OFExaEJHdklLTFYwNkEzZTBuR2FZMkZpYTEzZTRSTXRQSjljWGd0aW1OVFN3VmIyVE92NjlwZ3hZaW8ybWM4aU85anB0dw?oc=5)
+### [Sugar-rich foods exacerbate antibiotic-induced microbiome disruption](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwZjJhblFMU3Z5LXZtWUxVWWpCQWY5U0xlUjMtRXlkVldZdkJBeS1YMS1paC1lbWlRbjBOWE95SGdhX2ppT0I2WFc1VzBwUloxQV9nMUE5QWQ3ZjhtUmZz?oc=5)
 
-2026-10-01 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+2026-09-30 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
-Source: [Prevention](https://news.google.com/rss/articles/CBMihgFBVV95cUxNZWNvVjlBRWpGWW84M1c3RFp4ZkF1QkhQdHp3TXcxSkpUdW11QVJLZlRmamdFTGdOT1dYUVBNWDd1OFExaEJHdklLTFYwNkEzZTBuR2FZMkZpYTEzZTRSTXRQSjljWGd0aW1OVFN3VmIyVE92NjlwZ3hZaW8ybWM4aU85anB0dw?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwZjJhblFMU3Z5LXZtWUxVWWpCQWY5U0xlUjMtRXlkVldZdkJBeS1YMS1paC1lbWlRbjBOWE95SGdhX2ppT0I2WFc1VzBwUloxQV9nMUE5QWQ3ZjhtUmZz?oc=5)
 
 ---
 
-### [Owning smartphone at age 12 may raise child’s disordered-eating risk, study says - The Washington Post](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY2FONG9OVTRfeTFROWI0SWhtbTlkWllkUlAwZk8yMG1mOU5jNWRJU0lienpiODlGNWFFSzR5OUxyZFB3QjY2QzBhNWVRMDhvY054cnFQODlQaDA2S0xxVnBKbTN0ZDlnUG9adTk3QmJlVHFLUHVqeE5TZEwtQlFuM3U2ZHpaUk81bmZYQkxaaGRpRy1pSmRnVXpnQTBMaVhoSUZUamVoblhMZnRCQTh0TUJBdGlLcS02MUpCN2cyc3hjZw?oc=5)
+### [Merck discontinues a crucial antibiotic despite concerns over superbug resistance](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX3lydlBaTmpIWV93RUlSeFhHVlJkSUczUW5qSWQ1blFSdFpuV0c2WEFDRXVtNVItQUNscjhaRjY2QU1mVmNHVGpwaGhwY1cyT0hMbzJ2enExd2tiQnlPU0NYUXhOSVVZWkJ5bjNkTkdETUI0c2kxQm5yMFlfT1dFTm5Eczh1WjhnV3RxdTZaREFpWUJzZ3pqVm9xUjhNcmNFZ013Si1KMXJDVkRoTHF4eGtMM0xWM3BjT0xN?oc=5)
 
-2026-10-01 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-09-28 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY2FONG9OVTRfeTFROWI0SWhtbTlkWllkUlAwZk8yMG1mOU5jNWRJU0lienpiODlGNWFFSzR5OUxyZFB3QjY2QzBhNWVRMDhvY054cnFQODlQaDA2S0xxVnBKbTN0ZDlnUG9adTk3QmJlVHFLUHVqeE5TZEwtQlFuM3U2ZHpaUk81bmZYQkxaaGRpRy1pSmRnVXpnQTBMaVhoSUZUamVoblhMZnRCQTh0TUJBdGlLcS02MUpCN2cyc3hjZw?oc=5)
+Source: [STAT](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX3lydlBaTmpIWV93RUlSeFhHVlJkSUczUW5qSWQ1blFSdFpuV0c2WEFDRXVtNVItQUNscjhaRjY2QU1mVmNHVGpwaGhwY1cyT0hMbzJ2enExd2tiQnlPU0NYUXhOSVVZWkJ5bjNkTkdETUI0c2kxQm5yMFlfT1dFTm5Eczh1WjhnV3RxdTZaREFpWUJzZ3pqVm9xUjhNcmNFZ013Si1KMXJDVkRoTHF4eGtMM0xWM3BjT0xN?oc=5)
 
 ---
 

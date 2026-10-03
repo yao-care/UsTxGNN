@@ -1,13 +1,38 @@
 {
-  "last_updated": "2026-10-03T15:55:22.634577+00:00",
-  "total_count": 66,
-  "matched_count": 55,
+  "last_updated": "2026-10-03T20:45:07.834313+00:00",
+  "total_count": 65,
+  "matched_count": 53,
   "news": [
+    {
+      "id": "4a50caf92b06",
+      "title": "Silent heart threat found in adults under 30 with no known cardiovascular disease - Fox News",
+      "published": "2026-10-03T16:49:57+00:00",
+      "summary": "Silent heart threat found in adults under 30 with no known cardiovascular disease&nbsp;&nbsp;Fox NewsArtery Plaque Found in 57% of Adults Without Symptoms&nbsp;&nbsp;Yahoo HealthA study reveals that 1 in 13 adults under 30 already have hidden artery plaque&nbsp;&nbsp;The Times of India1 in 13 young adults had heart plaque in new study. What does this mean?&nbsp;&nbsp;indianexpress.comArtery plaque already shows up in 1 in 13 adults under 30, before any symptom&nbsp;&nbsp;Martin Cid Magazine",
+      "sources": [
+        {
+          "name": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR2IwMDN0cjkxSTRsSExjT2RaNUItS2NXQm1fNXRWaTVZeWdlRGx4UGpxODRUeG1EZEREanhPR21scENpcDZpR2Q4dXJ5YnF0N2NITEdReUU3dVpDWi1ZNURaUU56a29uQVFqc1pCOXBjQnVFS29YOXRUelNOcnNDMS1QWk9jTnFEaWpNaTYxQnpXU19kYldORXN2N215dnRDWFJSa2ZYRdIBrAFBVV95cUxNWG5sT212VzhsZ2N0RkFBbkhtN1ZhTTB5LUdLaGphSlg4UWRqSEhHZ2tMeEc4NkhyY2kzbUJRbFFVQUNRS1VPOXZsV3pLczJCSUhtTDY5bVBDNGNfelZwOEVjZ2p5TW5qM1hEcjJaS2t4R29GOHhuYi1nbDdDQ2xsNzRhLXllbUt4WFgydEk1VlEzZG1qNE5aZEtmTnNydmM0eVVNTVdTSWUwU2JJ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart disease",
+          "keyword": "cardiovascular disease",
+          "related_drugs": [
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "1c1a3e69dc52",
       "title": "New study suggests possible connection between GLP-1s and hair loss in men - The Washington Post",
-      "published": "2026-10-03T15:35:14+00:00",
-      "summary": "New study suggests possible connection between GLP-1s and hair loss in men&nbsp;&nbsp;The Washington PostExperts have found an unexpected side-effect of weight-loss drugs&nbsp;&nbsp;BBC Science Focus MagazineHair Loss Was Just the Start. Ozempic Users Are Also Reporting Nail Trouble&nbsp;&nbsp;GizmodoStudy explores genetic link between GLP-1 drugs and male pattern hair loss&nbsp;&nbsp;ABC30 FresnoNail detachment over four times more common among GLP-1 users, first controlled study finds&nbsp;&nb",
+      "published": "2026-10-03T16:00:00+00:00",
+      "summary": "New study suggests possible connection between GLP-1s and hair loss in men&nbsp;&nbsp;The Washington PostStudy explores genetic link between GLP-1 drugs and male pattern hair loss&nbsp;&nbsp;ABC30 FresnoNail detachment over four times more common among GLP-1 users, first controlled study finds&nbsp;&nbsp;Medical XpressExperts have found an unexpected side-effect of weight-loss drugs&nbsp;&nbsp;sciencefocus.comHair Loss Was Just the Start. Ozempic Users Are Also Reporting Nail Trouble&nbsp;&nbsp;",
       "sources": [
         {
           "name": "The Washington Post",
@@ -19,7 +44,7 @@
     {
       "id": "baa042b633e4",
       "title": "A toddler’s wobbly walk, hand tremors send parents on a medical journey - The Washington Post",
-      "published": "2026-10-03T15:02:59+00:00",
+      "published": "2026-10-03T16:00:00+00:00",
       "summary": "A toddler’s wobbly walk, hand tremors send parents on a medical journey&nbsp;&nbsp;The Washington Post",
       "sources": [
         {
@@ -30,13 +55,172 @@
       "matched_keywords": []
     },
     {
-      "id": "ab40f926ea66",
-      "title": "Our Solar System Is Terminally Unstable and Will Be Completely Destroyed, Study Finds - 404 Media",
-      "published": "2026-10-03T11:03:58+00:00",
-      "summary": "Our Solar System Is Terminally Unstable and Will Be Completely Destroyed, Study Finds&nbsp;&nbsp;404 MediaThe Solar System Has a New Life Expectancy, and It’s a Billion Times Shorter&nbsp;&nbsp;AAS NovaThe solar system could be destroyed much sooner than we thought, scientists say&nbsp;&nbsp;The IndependentThe solar system will fall apart far sooner than anyone thought, scientists say&nbsp;&nbsp;news.inbox.euSolar system may have a much shorter lifespan than we thought&nbsp;&nbsp;The News Intern",
+      "id": "9284e555ee1b",
+      "title": "New cancer drugs are revolutionary. Why don’t more patients get them? - The Seattle Times",
+      "published": "2026-10-03T13:00:02+00:00",
+      "summary": "New cancer drugs are revolutionary. Why don’t more patients get them?&nbsp;&nbsp;The Seattle Times",
       "sources": [
         {
-          "name": "404 Media",
+          "name": "The Seattle Times",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYzlCVjBaeENuRlZ2WS11SkJ4cGZDZmRvai14cGVKdTlMTjhfcVg0SGtydG5oWDIwM2hYNlFkdEtTd2RGR1RWV29xM2MtQTNueElkQ3d1c3VpUkxCNGNvOG94cnFkbVpRcDdndzBVQjRDRS1ucmJoUnRJYWlxV2xzTkt4Q2V4T3dFd1lhQTF6eXZxQjBIZXgtanA0V2VLX1BhQnYweG0zLXl2Y3BQN3c?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cancer",
+          "keyword": "cancer",
+          "related_drugs": [
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7e39390a3b07",
+      "title": "The Aging Brain Isn't Declining – It's Adapting, Study Finds",
+      "published": "2026-10-03T12:02:30+00:00",
+      "summary": "The Aging Brain Isn't Declining – It's Adapting, Study Finds&nbsp;&nbsp;ScienceAlertSome People Over 80 Have Brains Decades Younger. Scientists Might Now Know Why.&nbsp;&nbsp;Men's HealthMany brain functions slow down as we age. New research finds some may actually improve&nbsp;&nbsp;KJZZA New Study Suggests The Aging Brain May Be “Changing Jobs,” Not Just Losing Ability&nbsp;&nbsp;YahooScientists have named the age after which the brain begins to age much faster&nbsp;&nbsp;Наша Ніва",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOXlyc0pIZEZDT2tLZnhmamJjeVM5Zm92SjlMVkN4NjNGdTZiMGRJU1QwZkJxVUwyYVBOV2V3VlA3eWQ1RXBhdlRxYWFLQUFrS2lKY0dCcDhYZUhDaWM5X1lFUzZYYm5WdUpoZ0x3bHh1Tk5LQkdwZDdjZ2RtdXdVd1JiYlRVSGlsOEQzcg?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart disease",
+          "keyword": "CAD",
+          "related_drugs": [
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "MI",
+          "related_drugs": [
+            {
+              "slug": "lasmiditan",
+              "name": "Lasmiditan"
+            },
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib"
+            },
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide"
+            },
+            {
+              "slug": "selpercatinib",
+              "name": "Selpercatinib"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "arthritis",
+          "keyword": "RA",
+          "related_drugs": [
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide"
+            },
+            {
+              "slug": "sodium_acetate",
+              "name": "Sodium acetate"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "inflammatory bowel disease",
+          "keyword": "UC",
+          "related_drugs": [
+            {
+              "slug": "rutin",
+              "name": "Rutin"
+            },
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro"
+            },
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f723cf6c1632",
+      "title": "Our Solar System Is Terminally Unstable and Will Be Completely Destroyed, Study Finds",
+      "published": "2026-10-03T11:03:58+00:00",
+      "summary": "Our Solar System Is Terminally Unstable and Will Be Completely Destroyed, Study Finds&nbsp;&nbsp;404media.coThe Solar System Has a New Life Expectancy, and It’s a Billion Times Shorter&nbsp;&nbsp;AAS NovaThe solar system could be destroyed much sooner than we thought, scientists say&nbsp;&nbsp;independent.co.ukThe solar system will fall apart far sooner than anyone thought, scientists say&nbsp;&nbsp;Inbox.euSolar system may have a much shorter lifespan than we thought&nbsp;&nbsp;thenews.com.pk",
+      "sources": [
+        {
+          "name": "404media.co",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZjlESnc1TGdWdHNjUHBuMG1pUFJOQ09zNGt6THR6cnhXVjNPLUQxNEhGM1ljcXZlemhrcFpjdXZMc3BqdVRMSWhCZ1JOUGloemhOREJ4Z2hPQzVxTDk1WS1HY28zZ1VEbXBxM09aR09OZjZZMkpPaWhFV0d2ZUtrMngwVk9OUV9RYWh1M01oUUw1b3A5WVkwNWhyY0tUekJtWGp2OXNIQjhJOVFMSEE?oc=5"
         }
       ],
@@ -118,10 +302,72 @@
       ]
     },
     {
+      "id": "85059a3ee3bd",
+      "title": "The Best Tea for Oral Health, According to Dentists",
+      "published": "2026-10-03T11:00:00+00:00",
+      "summary": "The Best Tea for Oral Health, According to Dentists&nbsp;&nbsp;EatingWell",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWF9seTBqRjVZZkNyZTJtZ0ktalNRemJUX2Rnb0plZEFHSERFaXhINXk1VjM3QVI2bzRCeXVIaTRMVkQ2SE1mcmtuS3VzS2JEZVBLWlUtMXh2OEg1ZmZndUl5OWxUUW5XZ3VNckVzT0J4cGN4dHhvYmo1OWNDd0FNMHNoelo1cVowMVlfeFpZdw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "arthritis",
+          "keyword": "RA",
+          "related_drugs": [
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide"
+            },
+            {
+              "slug": "sodium_acetate",
+              "name": "Sodium acetate"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2db19e02a458",
+      "title": "Inside the study for a remedy to fight Congo’s deadliest Ebola outbreak - AP News",
+      "published": "2026-10-03T09:53:00+00:00",
+      "summary": "Inside the study for a remedy to fight Congo’s deadliest Ebola outbreak&nbsp;&nbsp;AP NewsSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "AP News",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObkkzUUprRDRkYWRQRmt6dmVzeURPT1pKNW9RTHZPZDhKYVB2b1FoY3NwVU54UkpuTTUwc0JWem9ZeWNaVV91Z3JmSW4yN2ZTdk5DUEhHc3ZtY1Q5RGR4UGc1U1M4Zkc2ekMtWk9sRTNiRXF4eXVpb2lqOXprUVl2enZJMHFoQnEwV1ZnZzFXNndVeFEwTzFRaWowU1Noa0hMRkhvdllHcnQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "8a17a3583dc8",
       "title": "Tapeworm Treatment Shows Early Effectiveness Against Endometriosis",
       "published": "2026-10-03T08:02:30+00:00",
-      "summary": "Tapeworm Treatment Shows Early Effectiveness Against Endometriosis&nbsp;&nbsp;ScienceAlertEndometriosis treatment developing at WSU, local patient shares debilitating struggles of incurable disease&nbsp;&nbsp;khq.comCould an old anti-parasite drug be repurposed for treating endometriosis? Study finds early evidence&nbsp;&nbsp;KUOWNew potential endometriosis drug gives new hope to millions of women&nbsp;&nbsp;The IndependentEndometriosis: Repurposed Anti-Parasite Drug Shows Promise In Mouse Study",
+      "summary": "Tapeworm Treatment Shows Early Effectiveness Against Endometriosis&nbsp;&nbsp;ScienceAlertEndometriosis treatment developing at WSU, local patient shares debilitating struggles of incurable disease&nbsp;&nbsp;NonStop Local KHQCould an old anti-parasite drug be repurposed for treating endometriosis? Study finds early evidence&nbsp;&nbsp;KUOWNew potential endometriosis drug gives new hope to millions of women&nbsp;&nbsp;independent.co.ukEndometriosis: Repurposed Anti-Parasite Drug Shows Promise In",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -210,13 +456,13 @@
       ]
     },
     {
-      "id": "a5281b3a5ced",
-      "title": "The ‘healthy’ sweetener linked to heart attacks and strokes - The Telegraph",
+      "id": "beb8221bdba4",
+      "title": "The ‘healthy’ sweetener linked to heart attacks and strokes",
       "published": "2026-10-03T07:00:00+00:00",
-      "summary": "The ‘healthy’ sweetener linked to heart attacks and strokes&nbsp;&nbsp;The Telegraph",
+      "summary": "The ‘healthy’ sweetener linked to heart attacks and strokes&nbsp;&nbsp;telegraph.co.uk",
       "sources": [
         {
-          "name": "The Telegraph",
+          "name": "telegraph.co.uk",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTW9WeHYxNVgxQjAtSkV5bkYyWmE5UlJnMllJQWZlOFpwOTdSYlZuR01EVjFNdTQ4Z2EzMVltZF95UFE0bUZyT0tSR3Jjck5NVm5aRW5zZXpPblZPazBMVnpSaFN5RjRJTy0wMFJ4bkIxZ3BwcE5feHQyNzU4c0pmTzFPUnV5RTJ2N2pZS205OVBYNHdVbkdsNno1cnpQOXZV?oc=5"
         }
       ],
@@ -305,7 +551,7 @@
       "id": "5d5e73eeae60",
       "title": "The way you speak could reveal early signs of brain ageing",
       "published": "2026-10-03T06:40:59+00:00",
-      "summary": "The way you speak could reveal early signs of brain ageing&nbsp;&nbsp;Euronews.comNovel 'speech clock' can estimate a person's chronological age&nbsp;&nbsp;News-MedicalYour voice may reveal how fast you're aging, new AI 'speech clock' suggests&nbsp;&nbsp;Live ScienceA Change in Your Voice Could Foreshadow Cognitive Decline, Major Study Finds&nbsp;&nbsp;ScienceAlertThe way you talk can reveal how quickly you are ageing. Here are the signs&nbsp;&nbsp;The Independent",
+      "summary": "The way you speak could reveal early signs of brain ageing&nbsp;&nbsp;Euronews.comYour voice may reveal how fast you're aging, new AI 'speech clock' suggests&nbsp;&nbsp;Live ScienceNovel 'speech clock' can estimate a person's chronological age&nbsp;&nbsp;News-MedicalA Change in Your Voice Could Foreshadow Cognitive Decline, Major Study Finds&nbsp;&nbsp;ScienceAlertAI may detect dementia risk through a person’s speech, study finds&nbsp;&nbsp;eastleighvoice.co.ke",
       "sources": [
         {
           "name": "Euronews.com",
@@ -367,7 +613,7 @@
       "id": "2562309145a9",
       "title": "Indy hospital screening patients for measles as cases, concerns continue to rise - Fox 59",
       "published": "2026-10-03T01:52:29+00:00",
-      "summary": "Indy hospital screening patients for measles as cases, concerns continue to rise&nbsp;&nbsp;Fox 59Health Department says zoo visitors possibly exposed to measles&nbsp;&nbsp;wane.comMeasles reported in LaGrange County, first cases in Northern Indiana&nbsp;&nbsp;WSBTHealth department investigating possible measles exposure at Fort Wayne Zoo&nbsp;&nbsp;21alivenews.comMeasles count increases in Indiana County from 14 to 17&nbsp;&nbsp;Indiana Gazette Online",
+      "summary": "Indy hospital screening patients for measles as cases, concerns continue to rise&nbsp;&nbsp;Fox 59Health Department says zoo visitors possibly exposed to measles&nbsp;&nbsp;WANE 15Measles reported in LaGrange County, first cases in Northern Indiana&nbsp;&nbsp;WSBTUnvaccinated Fort Wayne Zoo Visitors Face 21-Day Measles Quarantine After Sept. 27 Exposure as Northeast Indiana Cases Rise&nbsp;&nbsp;Medical DailyIDOH: Measles cases reported in DeKalb, LaGrange counties&nbsp;&nbsp;WPTA | 21Alive | Fo",
       "sources": [
         {
           "name": "Fox 59",
@@ -413,10 +659,78 @@
       ]
     },
     {
+      "id": "0d2e55241ef9",
+      "title": "A 20-year-old Amish woman with leukemia got measles and died in Pa.’s largest outbreak in three decades",
+      "published": "2026-10-02T21:44:56+00:00",
+      "summary": "A 20-year-old Amish woman with leukemia got measles and died in Pa.’s largest outbreak in three decades&nbsp;&nbsp;Inquirer.comPennsylvania nears 1,000 measles cases, state health department reports&nbsp;&nbsp;The HillPennsylvania measles cases near 1,000 as outbreak spreads&nbsp;&nbsp;ReutersFifth unvaccinated person dies of measles; CDC still not counting all deaths&nbsp;&nbsp;Ars TechnicaPennsylvania hits 977 measles cases, while numbers of MMR doses increase&nbsp;&nbsp;WTAJ",
+      "sources": [
+        {
+          "name": "Inquirer.com",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORGRDejlxZ2NEY2VMWVZJMGNJSUpFMjFwOXBHOFZ1aWFmSF8tX1NBMlRNVVBVTm4zZU4xMVBQUC1VWHFWa2l1OS13cmhGOHZEUENjM3VMTno0N2tGeC1XbGVHVV9aY1kyWEYzbkczaWxEeDZBaVl6akFWU2pLbzdtdjdISjViWGh4WER3WmJaMTZjdjMyVmRYaGJKQWRjOWc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart disease",
+          "keyword": "CAD",
+          "related_drugs": [
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "MI",
+          "related_drugs": [
+            {
+              "slug": "lasmiditan",
+              "name": "Lasmiditan"
+            },
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib"
+            },
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide"
+            },
+            {
+              "slug": "selpercatinib",
+              "name": "Selpercatinib"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "acb2858cfa13",
       "title": "Childhood Chickenpox Shots May Be Slashing Shingles Cases Decades Later—by Quite a Bit",
       "published": "2026-10-02T21:20:51+00:00",
-      "summary": "Childhood Chickenpox Shots May Be Slashing Shingles Cases Decades Later—by Quite a Bit&nbsp;&nbsp;GizmodoShingles cases dropping among people who got chickenpox vaccine, data shows&nbsp;&nbsp;NBC NewsChickenpox Shot Tied to Big Drop in Shingles for This Group&nbsp;&nbsp;NewserShingles Is a Serious Infection&nbsp;&nbsp;Right as Rain by UW MedicineShingles patient doesn’t experience pain due to vaccination&nbsp;&nbsp;Gulf Breeze News",
+      "summary": "Childhood Chickenpox Shots May Be Slashing Shingles Cases Decades Later—by Quite a Bit&nbsp;&nbsp;GizmodoShingles cases dropping among people who got chickenpox vaccine, data shows&nbsp;&nbsp;NBC NewsShingles Is a Serious Infection&nbsp;&nbsp;Right as Rain by UW MedicineChickenpox Shot Tied to Big Drop in Shingles for This Group&nbsp;&nbsp;NewserPrairie Doc: Shingles vaccines&nbsp;&nbsp;Madison Daily Leader",
       "sources": [
         {
           "name": "Gizmodo",
@@ -476,7 +790,7 @@
       "id": "64a770033a7d",
       "title": "Rabies-positive bat found in Long Beach, first since 2014",
       "published": "2026-10-02T21:12:46+00:00",
-      "summary": "Rabies-positive bat found in Long Beach, first since 2014&nbsp;&nbsp;KTLARecord number of rabid bats detected in Los Angeles County&nbsp;&nbsp;ABC7 Los AngelesIrvine bat tests positive for rabies, OC Health Care Agency says&nbsp;&nbsp;CBS NewsLA County says they’ve already found 69 bats with rabies. How to protect yourself and pets&nbsp;&nbsp;LAistRabid bats on the rise in LA, Ventura counties&nbsp;&nbsp;Simi Valley Acorn",
+      "summary": "Rabies-positive bat found in Long Beach, first since 2014&nbsp;&nbsp;KTLAIrvine bat tests positive for rabies, OC Health Care Agency says&nbsp;&nbsp;cbsnews.comRecord number of rabid bats detected in Los Angeles County&nbsp;&nbsp;ABC7 Los AngelesRabid bats on the rise in LA, Ventura counties&nbsp;&nbsp;Simi Valley AcornRabid bats detected in Long Beach, Irvine&nbsp;&nbsp;NBC Los Angeles",
       "sources": [
         {
           "name": "KTLA",
@@ -568,7 +882,7 @@
       "id": "993343be2cb3",
       "title": "Scientists discover first type I superconductor that breaks time-reversal symmetry",
       "published": "2026-10-02T21:00:01+00:00",
-      "summary": "Scientists discover first type I superconductor that breaks time-reversal symmetry&nbsp;&nbsp;Phys.orgPhysicists Find a Superconductor That 'Breaks' The Symmetry of Time – A First For Its Kind&nbsp;&nbsp;ScienceAlertIISER Bhopal Study Finds Unusual Time-Reversal Behaviour In A Type-I Superconductor&nbsp;&nbsp;Jagranjosh.com",
+      "summary": "Scientists discover first type I superconductor that breaks time-reversal symmetry&nbsp;&nbsp;Phys.orgPhysicists Find a Superconductor That 'Breaks' The Symmetry of Time – A First For Its Kind&nbsp;&nbsp;ScienceAlertScientists spot hidden magnetic state emerging inside a superconductor&nbsp;&nbsp;Interesting EngineeringIISER Bhopal Study Finds Unusual Time-Reversal Behaviour In A Type-I Superconductor&nbsp;&nbsp;Jagranjosh.comThis superconductor behaves differently when time is reversed&nbsp;&nb",
       "sources": [
         {
           "name": "Phys.org",
@@ -645,13 +959,13 @@
       ]
     },
     {
-      "id": "f0b42c12445c",
-      "title": "Patient died by suicide after insurance delayed medication: report - The Independent",
+      "id": "ac1065159d26",
+      "title": "Patient died by suicide after insurance delayed medication: report",
       "published": "2026-10-02T20:32:00+00:00",
-      "summary": "Patient died by suicide after insurance delayed medication: report&nbsp;&nbsp;The IndependentPatient dies by suicide after \"insurance issue\" delayed medicine for lung disease flare-ups&nbsp;&nbsp;CBS NewsPatient dies by suicide after suffering while waiting for delayed medicine&nbsp;&nbsp;AOL.com",
+      "summary": "Patient died by suicide after insurance delayed medication: report&nbsp;&nbsp;independent.co.ukPatient dies by suicide after \"insurance issue\" delayed medicine for lung disease flare-ups&nbsp;&nbsp;cbsnews.comPatient dies by suicide after suffering while waiting for delayed medicine&nbsp;&nbsp;AOL.com",
       "sources": [
         {
-          "name": "The Independent",
+          "name": "independent.co.uk",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV1M0Tll5bW52ejczOWVzaVMtWXlBZXdhbmZ6N3d0bE5Bb3BHWXRnSERCQlBSLWtaMHdyd3R1WmxOUWdiYmxKS1pic2R5T055OUZfeFY3NHZxeWRzanViZWtZSjF3SHlUNDFsYjUzR1pHQzFxUVZibWZLektyZGJDU1o5RHNuOEd6V01SeHV4Vlkzc0lBTGVoYzBwOVB2TWVlWWhrRg?oc=5"
         }
       ],
@@ -694,27 +1008,43 @@
       ]
     },
     {
-      "id": "30c97dbbdb5c",
-      "title": "An Ebola treatment center was burned down as the death toll in Congo passes 4,000 - AP News",
-      "published": "2026-10-02T20:18:00+00:00",
-      "summary": "An Ebola treatment center was burned down as the death toll in Congo passes 4,000&nbsp;&nbsp;AP NewsSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "AP News",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR1VBSzQ3aTR1RkVYN2ZCOFBNdnhSQmVIYU1PZWdLNlo5VGxVWU1zS2ZMSXBFOEptUTFiQW4xREZDRUVNbGwzeEtpcFBRckJZdkRUV0s0d2ZNQnZEY0VfbG53QVF5Y2FFZmZmcDRiRENqaVFmdG1LNE9UcUlvOEtzRzRHYS1lbE9pdnZVdVJTSQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "75cedb8037a5",
       "title": "Patient-zero drill put health facilities to the test—40% of them failed - Ars Technica",
       "published": "2026-10-02T20:07:59+00:00",
-      "summary": "Patient-zero drill put health facilities to the test—40% of them failed&nbsp;&nbsp;Ars Technica",
+      "summary": "Patient-zero drill put health facilities to the test—40% of them failed&nbsp;&nbsp;Ars TechnicaFewer Than 1 in 10 Initial Screenings Asked About Sick Animals When Actors Posed as Bird Flu Patients&nbsp;&nbsp;Medical DailyBird Flu, Actors, Unannounced Drills ... CDC Study Has It All&nbsp;&nbsp;MedPage Today",
       "sources": [
         {
           "name": "Ars Technica",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEtuRG1GdjRaNndMa3JzTVBtaU1uUXA3YmMxRFFxMHVES2RvMTlJRlRfd0FyUEw4UXNkTXhKMU9VWHJtRTB2RUx3Y1V0Z0FZSVFJVkNERzFGQXV4ZGhJQmhTWjhoV2YxMDdCSHpWN0JxUUNyc1ZoeGllY2tIdFFnZ0Z4Zm82LTdjQ29tYVlBcXRoamVpYXd4dWVkb2pRUG50UzVnbVN4M19mSkxUUHFV?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "influenza",
+          "keyword": "flu",
+          "related_drugs": [
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f60cbec65913",
+      "title": "Retinal Thinning Seen Below Prediabetes A1c Threshold",
+      "published": "2026-10-02T19:52:09+00:00",
+      "summary": "Retinal Thinning Seen Below Prediabetes A1c Threshold&nbsp;&nbsp;Medscape",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWGlIU1hiMmNMR2Z6aE92aTh0OWlUZzA5VWY1Y0RQeWNVZUJIYUpxZ0dCU0s5Q1p5cFYzdGVXSzhxNllkRWxXRFpKWTZINklJMldfd210VTBSTGJ3cUsyamVXd3VpMkhyLW1haWhsS3E2ZWYyd2gyeXJWVTQxUm0xV1dMNHFrSzhTNTZRd1FkVkoxYk14U3JfT0NycWg1M0xnSmp6TW5qSTFlbWxn?oc=5"
         }
       ],
       "matched_keywords": []
@@ -736,7 +1066,7 @@
       "id": "b2ddf529685a",
       "title": "New weight-loss injection targets fat cells: CBL-514 selectively induces apoptosis of fat cells - Medical Xpress",
       "published": "2026-10-02T19:00:05+00:00",
-      "summary": "New weight-loss injection targets fat cells: CBL-514 selectively induces apoptosis of fat cells&nbsp;&nbsp;Medical XpressNovel Injectable Drug Cuts Visceral Fat in Phase 2 Trial&nbsp;&nbsp;MedscapeNew weight-loss drug could give you a ‘flatter stomach’ in mere weeks — and unlike Ozempic, it targets belly fat directly&nbsp;&nbsp;New York PostNext-generation obesity drug CBL-514 enters phase 3, destroying fat cells without rebound&nbsp;&nbsp;DongA ScienceNew anti-fat injection promises flatter sto",
+      "summary": "New weight-loss injection targets fat cells: CBL-514 selectively induces apoptosis of fat cells&nbsp;&nbsp;Medical XpressNovel Injectable Drug Cuts Visceral Fat in Phase 2 Trial&nbsp;&nbsp;MedscapeNew weight-loss drug could give you a ‘flatter stomach’ in mere weeks — and unlike Ozempic, it targets belly fat directly&nbsp;&nbsp;New York PostNext-generation obesity drug CBL-514 enters phase 3, destroying fat cells without rebound&nbsp;&nbsp;DongA ScienceRx LAYS ‘WAIST’ TO FAT&nbsp;&nbsp;PressRead",
       "sources": [
         {
           "name": "Medical Xpress",
@@ -744,49 +1074,6 @@
         }
       ],
       "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "MI",
-          "related_drugs": [
-            {
-              "slug": "lasmiditan",
-              "name": "Lasmiditan"
-            },
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib"
-            },
-            {
-              "slug": "raloxifene",
-              "name": "Raloxifene"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide"
-            },
-            {
-              "slug": "selpercatinib",
-              "name": "Selpercatinib"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human"
-            }
-          ]
-        },
         {
           "type": "indication",
           "name": "arthritis",
@@ -905,6 +1192,19 @@
       ]
     },
     {
+      "id": "1f5a12fab053",
+      "title": "Hancock Public Health Reports Measles Case with Multiple Exposures",
+      "published": "2026-10-02T18:32:48+00:00",
+      "summary": "Hancock Public Health Reports Measles Case with Multiple Exposures&nbsp;&nbsp;WFINWood County confirms measles case, health department lists possible exposure sites&nbsp;&nbsp;WTVGHancock Public Health confirms case of measles in Findlay&nbsp;&nbsp;YahooMeasles in NW Ohio | Symptoms to watch for as cases grow&nbsp;&nbsp;wtol.comOhio measles cases spread to 4 more counties in latest ODH update&nbsp;&nbsp;Akron Beacon Journal",
+      "sources": [
+        {
+          "name": "WFIN",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPanRuTXV1MDFRUEZvRkVCdEZyVGZ3Z09lWklleXlHUWJqbDcwQXcyVlMwcG9CSFhOTFAwNUpta2pNSXVzVlNmWmZfeWVtOXV5Z04wX3Q4dlVCeXFsdDJYOFJSRUFlNnd5MlNXbXBMMDVIMk9OQmJ5R3Nxc2E1bF9qc2Myc0twbTRXRUZ1aktsX3laTzNsbmNkZWY5UQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "39d4feb67aad",
       "title": "Animals may have evolved 200 million years earlier than previously thought, new study suggests - Live Science",
       "published": "2026-10-02T18:00:00+00:00",
@@ -965,7 +1265,7 @@
       "id": "b0e66d612446",
       "title": "Taking daily supplement may help preserve muscle as you age — even without exercise - Fox News",
       "published": "2026-10-02T17:53:54+00:00",
-      "summary": "Taking daily supplement may help preserve muscle as you age — even without exercise&nbsp;&nbsp;Fox NewsCreatine may help build muscle even without exercise, researchers find&nbsp;&nbsp;ScienceDailyCreatine alone boosted lean muscle and strength, study finds&nbsp;&nbsp;NewsNationCreatine benefits body and brain&nbsp;&nbsp;The American LegionWhy creatine deserves a place in your routine&nbsp;&nbsp;thelcn.com",
+      "summary": "Taking daily supplement may help preserve muscle as you age — even without exercise&nbsp;&nbsp;Fox NewsCreatine may help build muscle even without exercise, researchers find&nbsp;&nbsp;ScienceDailyCreatine alone boosted lean muscle and strength, study finds&nbsp;&nbsp;NewsNationCreatine benefits body and brain&nbsp;&nbsp;The American LegionWhy creatine deserves a place in your routine&nbsp;&nbsp;TheLCN.com",
       "sources": [
         {
           "name": "Fox News",
@@ -1014,7 +1314,7 @@
       "id": "5dd1581a38af",
       "title": "When should I get the flu shot? What experts say is the ideal time to protect yourself - NBC Connecticut",
       "published": "2026-10-02T17:23:44+00:00",
-      "summary": "When should I get the flu shot? What experts say is the ideal time to protect yourself&nbsp;&nbsp;NBC ConnecticutHere’s why experts say now is an ideal time to protect yourself from flu&nbsp;&nbsp;AP NewsRespiratory virus season has arrived. Here’s what to know about flu, Covid-19 and RSV vaccines this fall&nbsp;&nbsp;WMURIs it too early for influenza vaccine? Florida flu season starts this week&nbsp;&nbsp;Naples Daily NewsYour guide to vaccines for flu, COVID-19 and RSV in Wisconsin&nbsp;&nbsp;",
+      "summary": "When should I get the flu shot? What experts say is the ideal time to protect yourself&nbsp;&nbsp;NBC ConnecticutHow to time your flu shot and pick the best option&nbsp;&nbsp;The Seattle TimesRespiratory virus season has arrived. Here’s what to know about flu, Covid-19 and RSV vaccines this fall&nbsp;&nbsp;WMURIs it too early for influenza vaccine? Florida flu season starts this week&nbsp;&nbsp;Naples Daily NewsYour guide to vaccines for flu, COVID-19 and RSV in Wisconsin&nbsp;&nbsp;jsonline.com",
       "sources": [
         {
           "name": "NBC Connecticut",
@@ -1078,7 +1378,7 @@
       "id": "9995ac38ebeb",
       "title": "The Truth About Vaccine Schedules: An Injection of Politics?",
       "published": "2026-10-02T17:18:28+00:00",
-      "summary": "The Truth About Vaccine Schedules: An Injection of Politics?&nbsp;&nbsp;SkepticNAM to DHS: Keep What Works in the Federal Vaccine Schedule&nbsp;&nbsp;nam.orgWashington must not limit access to childhood vaccines&nbsp;&nbsp;Washington Examiner‘Putting our children at risk’: Duke professors criticize Trump administration’s vaccination policies&nbsp;&nbsp;The Duke ChronicleRichard Feldman column: Childhood immunization recommendation changes will bring disaster&nbsp;&nbsp;Herald Bulletin",
+      "summary": "The Truth About Vaccine Schedules: An Injection of Politics?&nbsp;&nbsp;SkepticNAM to DHS: Keep What Works in the Federal Vaccine Schedule&nbsp;&nbsp;National Association of Manufacturers - NAMWashington must not limit access to childhood vaccines&nbsp;&nbsp;washingtonexaminer.com‘Putting our children at risk’: Duke professors criticize Trump administration’s vaccination policies&nbsp;&nbsp;The Duke ChronicleRichard Feldman column: Childhood immunization recommendation changes will bring disaste",
       "sources": [
         {
           "name": "Skeptic",
@@ -1167,10 +1467,23 @@
       ]
     },
     {
+      "id": "91f7d1c13d7b",
+      "title": "An Ebola treatment center was burned down as the death toll in Congo passes 4,000",
+      "published": "2026-10-02T16:50:58+00:00",
+      "summary": "An Ebola treatment center was burned down as the death toll in Congo passes 4,000&nbsp;&nbsp;abcnews.comSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "abcnews.com",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOVZ1dGRSNVFmTV9NSmphN1JEcHdwNFJXV0dtT2IxRGV0RmNpeHg0SXFHU1lXY3liV255TnBYZlJ2R3lHTFJuX1M4SUR4UVYwbHNHbVgxSl94WlJYYnF1WjVDV3hWZUFjWTBQTjJfT3FISXROdzg3d1ZGWklMYXNreS1JVWMzOEhWVWNXdWdHOEtDS3Z2OHNQQTEyR1hSZnFmRGFkc0dkQXRjeWI3emFN0gG0AUFVX3lxTFBYVUxfMlNvdFhXdWxqUHJDaTgzNHJFNVYxLTFVd0tIN2c5ZkJPYk9GWS1MbnU2WnZhbjMtMTN4a0ZNTlZNR0x4d0Iya0JLVWJLNmtkNjl2SzJXMDdtVU16aFRMM0FpU1NJb3ZTOGpVMWxaMDFBc0drSlZ3RUxDUVotZ3lCSXJvZmI2S0p3Y3dLZVdmb1dCd21nTWxrRzJnVjI0Qkl5LUhGN3FwME1CYnQtQ01YYw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "d55e37756a12",
       "title": "New report says only 6% of adults are eating enough fiber: How to eat more - Good Morning America",
       "published": "2026-10-02T16:49:28+00:00",
-      "summary": "New report says only 6% of adults are eating enough fiber: How to eat more&nbsp;&nbsp;Good Morning AmericaOne Small Change: High Fiber Recipes for Better Digestion&nbsp;&nbsp;The Washington PostThe Simple, High-Fiber Breakfast a Women’s Health Doctor Eats Every Morning&nbsp;&nbsp;TODAY.comA Dietitian’s Top 4 Tips for Hitting Your Protein and Fiber Goals&nbsp;&nbsp;HealthlineHow I Get 25 Grams of Fiber a Day—Without a Supplement&nbsp;&nbsp;EatingWell",
+      "summary": "New report says only 6% of adults are eating enough fiber: How to eat more&nbsp;&nbsp;Good Morning AmericaOne Small Change: High Fiber Recipes for Better Digestion&nbsp;&nbsp;The Washington PostThe Simple, High-Fiber Breakfast a Women’s Health Doctor Eats Every Morning&nbsp;&nbsp;TODAY.comA Dietitian’s Top 4 Tips for Hitting Your Protein and Fiber Goals&nbsp;&nbsp;healthline.comHow I Get 25 Grams of Fiber a Day—Without a Supplement&nbsp;&nbsp;EatingWell",
       "sources": [
         {
           "name": "Good Morning America",
@@ -1219,7 +1532,7 @@
       "id": "ca0ab0a06f32",
       "title": "NASA Has Been So Thoroughly Screwed by Boeing's Disastrous Starliner That It's Now Throwing Its Entire Access to Space Into Question",
       "published": "2026-10-02T15:53:07+00:00",
-      "summary": "NASA Has Been So Thoroughly Screwed by Boeing's Disastrous Starliner That It's Now Throwing Its Entire Access to Space Into Question&nbsp;&nbsp;FuturismNASA, Boeing Share Update on Commercial Starliner Development Plans&nbsp;&nbsp;NASA (.gov)NASA reveals new plan for Boeing’s troubled Starliner spacecraft and commander of future mission&nbsp;&nbsp;CNNNASA plans unpiloted Starliner test flight at end of year&nbsp;&nbsp;Spaceflight NowBoeing's Starliner won't launch astronauts until 2028 (and may ",
+      "summary": "NASA Has Been So Thoroughly Screwed by Boeing's Disastrous Starliner That It's Now Throwing Its Entire Access to Space Into Question&nbsp;&nbsp;FuturismNASA reveals new plan for Boeing’s troubled Starliner spacecraft and commander of future mission&nbsp;&nbsp;CNNNASA, Boeing Share Update on Commercial Starliner Development Plans&nbsp;&nbsp;NASA (.gov)NASA plans unpiloted Starliner test flight at end of year&nbsp;&nbsp;Spaceflight NowBoeing's Starliner won't launch astronauts until 2028 (and may ",
       "sources": [
         {
           "name": "Futurism",
@@ -1393,7 +1706,7 @@
       "id": "7dc78939f44d",
       "title": "Space breakthrough as British rover sent to Mars on mission to discover humans' ancient ancestors - GB News",
       "published": "2026-10-02T14:06:34+00:00",
-      "summary": "Space breakthrough as British rover sent to Mars on mission to discover humans' ancient ancestors&nbsp;&nbsp;GB NewsHunt for humans’ ancient ancestor begins... on Mars&nbsp;&nbsp;The TelegraphTests in Spain for rover which could be sent to Mars&nbsp;&nbsp;ITNAberystwyth technology tested ahead of search for ancient life on Mars&nbsp;&nbsp;The Pembrokeshire HeraldThe search for life on Mars begins with ‘Charlie’ in Spain’s Almería desert&nbsp;&nbsp;EL PAÍS English",
+      "summary": "Space breakthrough as British rover sent to Mars on mission to discover humans' ancient ancestors&nbsp;&nbsp;GB NewsHunt for humans’ ancient ancestor begins... on Mars&nbsp;&nbsp;telegraph.co.ukTests in Spain for rover which could be sent to Mars&nbsp;&nbsp;ITNAberystwyth technology tested ahead of search for ancient life on Mars&nbsp;&nbsp;The Pembrokeshire HeraldThe search for life on Mars begins with ‘Charlie’ in Spain’s Almería desert&nbsp;&nbsp;EL PAÍS English",
       "sources": [
         {
           "name": "GB News",
@@ -1485,7 +1798,7 @@
       "id": "5d6043a1dfc7",
       "title": "Colorectal Cancer Is Rising Among Kids and Teens—and It's Not the Same Disease Adults Get",
       "published": "2026-10-02T13:30:28+00:00",
-      "summary": "Colorectal Cancer Is Rising Among Kids and Teens—and It's Not the Same Disease Adults Get&nbsp;&nbsp;GizmodoWhen teens get colorectal cancer, it’s often an aggressive form of the disease&nbsp;&nbsp;NBC NewsColorectal cancer rates are rising among teens — new study finds 4 most common symptoms&nbsp;&nbsp;New York PostBest of BayCare | Colon Cancer is Affecting Younger Adults&nbsp;&nbsp;Tampa Bay 28Research shows colorectal cancer is on the rise for younger people and more severe&nbsp;&nbsp;yahoo.",
+      "summary": "Colorectal Cancer Is Rising Among Kids and Teens—and It's Not the Same Disease Adults Get&nbsp;&nbsp;GizmodoWhen teens get colorectal cancer, it’s often an aggressive form of the disease&nbsp;&nbsp;NBC NewsBest of BayCare | Colon Cancer is Affecting Younger Adults&nbsp;&nbsp;Tampa Bay 28Colon Cancer Is Rising Among Adolescents&nbsp;&nbsp;U.S. News & World ReportColorectal cancer rates are rising among teens — new study finds 4 most common symptoms&nbsp;&nbsp;New York Post",
       "sources": [
         {
           "name": "Gizmodo",
@@ -1545,7 +1858,7 @@
       "id": "3e828a6b4cc1",
       "title": "A Common Sleep Problem Might Boost Your Stroke Risk by 26%, New Study Finds",
       "published": "2026-10-02T12:15:00+00:00",
-      "summary": "A Common Sleep Problem Might Boost Your Stroke Risk by 26%, New Study Finds&nbsp;&nbsp;AOL.comInsomnia linked to higher risk of dementia, suicide, stroke and other major health issues: Study&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosSleep: Insomnia Linked to Higher Stroke, Dementia Risk&nbsp;&nbsp;HealthlineNew Research Links Insomnia to Stroke, Dementia, Depression, Suicidal Behavior and Hospitalization&nbsp;&nbsp;Yahoo HealthDaily Dose: Insomnia and stroke risk, a workout fix ",
+      "summary": "A Common Sleep Problem Might Boost Your Stroke Risk by 26%, New Study Finds&nbsp;&nbsp;AOL.comSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "AOL.com",
@@ -1599,102 +1912,10 @@
       ]
     },
     {
-      "id": "76fc2dc98a31",
-      "title": "NASA's new PRIMA 'Probe Explorer' mission is truly the 1st of its kind. Here's what it will do",
-      "published": "2026-10-02T12:00:00+00:00",
-      "summary": "NASA's new PRIMA 'Probe Explorer' mission is truly the 1st of its kind. Here's what it will do&nbsp;&nbsp;SpaceNASA space telescope project advances with three Hopkins team members&nbsp;&nbsp;Johns Hopkins UniversityNASA's First Selection for a New Class of Mission: The PRIMA Far-Infrared Telescope&nbsp;&nbsp;Universe TodayImperial researchers join landmark NASA mission to explore the hidden Universe&nbsp;&nbsp;Imperial College LondonNASA's Prima space telescope would aim to see what James Webb ",
-      "sources": [
-        {
-          "name": "Space",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZmYtUWstSGlfWWhNdExNaFFZT0hsVnVoTUotRkJnbmExWm0wRUI4OTQyNk1CTVlRcHFBa1p1NFlscHRLbG1hdkVhYVIwYVJUNk9KWGotMVVzUnpaZnFyVTV2TGZKbXZtOEtnZVRwOWVqakhYTlBaYk80U010ZVlVRFVpcDRySl9kNUpreUF2Qlp4YmJES05RMGo3S2tBTEJ1LVBCNmQ5aF9MYW01TEtib2U1X3RqUjZuSFlJVk0zV3Y2YXB3MHdHbVlwdUE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "MI",
-          "related_drugs": [
-            {
-              "slug": "lasmiditan",
-              "name": "Lasmiditan"
-            },
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib"
-            },
-            {
-              "slug": "raloxifene",
-              "name": "Raloxifene"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide"
-            },
-            {
-              "slug": "selpercatinib",
-              "name": "Selpercatinib"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
-          "related_drugs": [
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide"
-            },
-            {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "4d7def41bb93",
       "title": "Grail's cancer blood test nears landmark FDA approval, but insurance coverage looms",
       "published": "2026-10-02T11:51:54+00:00",
-      "summary": "Grail's cancer blood test nears landmark FDA approval, but insurance coverage looms&nbsp;&nbsp;ReutersA Cancer Test Has Investors Betting Big. But Will Insurers Pay?&nbsp;&nbsp;WSJDogs sniffing for cancer&nbsp;&nbsp;KTVUThis Stock, Up Almost 70%, May Have Found Cancer's Holy 'Grail'&nbsp;&nbsp;Investor's Business DailyWhy GRAIL (GRAL) Is Up 8.1% And What's Next After Galleri FDA Backing&nbsp;&nbsp;Simply Wall Street",
+      "summary": "Grail's cancer blood test nears landmark FDA approval, but insurance coverage looms&nbsp;&nbsp;ReutersA Cancer Test Has Investors Betting Big. But Will Insurers Pay?&nbsp;&nbsp;WSJReimbursement For Multi-Cancer Early Detection Tests Faces Uncertainty&nbsp;&nbsp;ForbesThis Stock, Up Almost 70%, May Have Found Cancer's Holy 'Grail'&nbsp;&nbsp;Investor's Business DailyDogs sniffing for cancer&nbsp;&nbsp;KTVU",
       "sources": [
         {
           "name": "Reuters",
@@ -1754,7 +1975,7 @@
       "id": "f9277757149a",
       "title": "No Longer Just North And South: A New Material Joins The Third Type of Magnetism",
       "published": "2026-10-02T11:07:12+00:00",
-      "summary": "No Longer Just North And South: A New Material Joins The Third Type of Magnetism&nbsp;&nbsp;ScienceAlertLSU professor’s physics research that supports new theories is published by an academic journal&nbsp;&nbsp;lsureveille.comUCF researchers discover an unusual magnetic state that could reshape future electronics&nbsp;&nbsp;The Brighter Side of NewsUniversity of Central Florida researcher discovers experimental evidence of new type of magnetism&nbsp;&nbsp;EurekAlert! Science News ReleasesUCF Tea",
+      "summary": "No Longer Just North And South: A New Material Joins The Third Type of Magnetism&nbsp;&nbsp;ScienceAlertLSU professor’s physics research that supports new theories is published by an academic journal&nbsp;&nbsp;lsureveille.comUCF researchers discover an unusual magnetic state that could reshape future electronics&nbsp;&nbsp;thebrighterside.newsUniversity of Central Florida researcher discovers experimental evidence of new type of magnetism&nbsp;&nbsp;EurekAlert! Science News ReleasesUCF Team Ide",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -2094,13 +2315,13 @@
       ]
     },
     {
-      "id": "977259181b36",
-      "title": "People who walk more or walk faster live longer, study finds",
+      "id": "6ab0adc2e46c",
+      "title": "People who walk more or walk faster live longer, study finds - Harvard Health",
       "published": "2026-10-02T07:00:00+00:00",
-      "summary": "People who walk more or walk faster live longer, study finds&nbsp;&nbsp;health.harvard.eduWe Asked 4 Fitness Experts Whether Walking Counts as Exercise. They All Had the Same Answer.&nbsp;&nbsp;Men's HealthThe Daily Step Count Linked To Lasting Weight Loss, According To A New Meta-Analysis&nbsp;&nbsp;Yahoo HealthStop walking 10,000 steps: You’re falling for a 60-year-old Japanese marketing lie&nbsp;&nbsp;Washington ExaminerCould Walking Be All The Exercise You Need?&nbsp;&nbsp;Vogue",
+      "summary": "People who walk more or walk faster live longer, study finds&nbsp;&nbsp;Harvard HealthCould Walking Be All The Exercise You Need?&nbsp;&nbsp;VogueWe Asked 4 Fitness Experts Whether Walking Counts as Exercise. They All Had the Same Answer.&nbsp;&nbsp;Men's HealthThe Daily Step Count Linked To Lasting Weight Loss, According To A New Meta-Analysis&nbsp;&nbsp;Yahoo HealthStop walking 10,000 steps: You’re falling for a 60-year-old Japanese marketing lie&nbsp;&nbsp;washingtonexaminer.com",
       "sources": [
         {
-          "name": "health.harvard.edu",
+          "name": "Harvard Health",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWVwNUJsMmJPNWRzMmdhdDl1WnVGOTZPVFl2eFZfZ0tHTFBJOWpDVFkwU1EyMzZFZTJkUm5yMVpsNjI4eks0TGtjRWlNX1BpZkRrdlhZOGRsdlFlZFEzWjNKaUVLbngtYjNoREZVUEVlbU9zOXlIbUFGbTFUUDZ3NDFOS21BZHV0YnJFcDBpVzRjQkpsbl8xRTl5ZnlFU3JLTDhObUd3?oc=5"
         }
       ],
@@ -2133,6 +2354,55 @@
             {
               "slug": "selpercatinib",
               "name": "Selpercatinib"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3c12ebd94a36",
+      "title": "The human brain is two separate organs, study finds - Technology Org",
+      "published": "2026-10-02T06:00:00+00:00",
+      "summary": "The human brain is two separate organs, study finds&nbsp;&nbsp;Technology OrgThe Human Brain Is Actually Two Organs, Study Shows&nbsp;&nbsp;Psychology TodaySurprise! You Have Two Brains.&nbsp;&nbsp;Popular MechanicsRemarkable Engineering and the “Two Brains” Myth&nbsp;&nbsp;Science and Culture TodayTurns Out, Your Brain Is Actually 2 Different Organs&nbsp;&nbsp;Flow Space",
+      "sources": [
+        {
+          "name": "Technology Org",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbldSRUxFZjNsSG9RVXAzeXBJUC1lUzBETXlQa0hkRWgtMlp0TVBQdmYzd3ZDMWNhNFhoSkpOR3F1SkhxNGpSeXZ6MVpFemEtX0Znb0xJNDJib0hnWm4zWlJuYkllcUxsODhCN1dQYmhnN0lPV200bW83LWZkdjdkYnFmeGdIUDBhS3JRZ1l2WTEzVGM?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "arthritis",
+          "keyword": "RA",
+          "related_drugs": [
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide"
+            },
+            {
+              "slug": "sodium_acetate",
+              "name": "Sodium acetate"
             },
             {
               "slug": "tadalafil",
@@ -2209,6 +2479,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "ea7070f60aaf",
+      "title": "Scientists Are Learning How to Control HIV Without Drugs",
+      "published": "2026-10-02T02:00:00+00:00",
+      "summary": "Scientists Are Learning How to Control HIV Without Drugs&nbsp;&nbsp;Bloomberg.com",
+      "sources": [
+        {
+          "name": "Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV2FlOG15QmE3TTFVSk9fUmRaQnRLeUFlRXNDT1BHdVNrajFRZW5qalQ1NEpPejdqSjFHX0sxUDJnMWNGTmFnRlR1emFQeFI5dU1MMFBYdXFWS3FHZmQwdEhTNUUwQ1d2RDVvMndrRXNZakwtQzVmYWF4M2o4a0Vib3RWSDdsRUpTWl8zZVZhM1FSWExOaXh6bmVxRjhzemJpaTJaaUZaVkI3dHNOLWJJ?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "2a05e3245bc4",
@@ -2345,391 +2628,62 @@
       ]
     },
     {
-      "id": "60854077aad9",
-      "title": "Doctors Without Borders employee working on Ebola response tests positive for virus - The Washington Post",
-      "published": "2026-10-02T00:45:00+00:00",
-      "summary": "Doctors Without Borders employee working on Ebola response tests positive for virus&nbsp;&nbsp;The Washington PostSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWkZZWjVfb253SzFPVnNPcmRKeFdwQmxhOHlQeDQ1Z3hVRHlFRjdBdzN6T1VuQVZqSzI5RjNHLXdGSG90R0Jod1FRWTVEcHlSZU52bkhuNC0tUTFqMjlBVldYdFZzTVIwcnlmbXU3ckoyS0c2Rk9UaDdxZkxVNGN1bzVnSjJlM294M09BSVRJSDhtVFIzZjU4eTBjM2JjX2tPUWlDbFlpaDhhWFlfTXFndU82ZHJOVVhSY1V2SGJfbjAyaVE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6a164695ad29",
-      "title": "Bats found inside Puyallup elementary school; health officials recommend treatment",
-      "published": "2026-10-01T23:01:44+00:00",
-      "summary": "Bats found inside Puyallup elementary school; health officials recommend treatment&nbsp;&nbsp;KOMOCrews narrow search for bats’ entry point after 8 found at Puyallup school&nbsp;&nbsp;MyNorthwest.comHealth department recommends rabies treatment for people tied to Puyallup school bat sightings&nbsp;&nbsp;KING5.comBats found at Puyallup elementary school&nbsp;&nbsp;The Seattle TimesEight bats found in just 17 days at elementary school as the cause remains unknown&nbsp;&nbsp;The Independent",
-      "sources": [
-        {
-          "name": "KOMO",
-          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPV0lndnpTc1Z1bGhfb29lUEhoNkxLLU5pQkJfcVVzRVo2MlV1NTRmLTE3eFhjSi1WalkteFJEQ29vZ0FmbjFKajVNS0lwVWlweFZKTE1yUEtoQmFRTkR4RU1aUUx5aEJNejFRUWFORzVDMy1MWjF1YXVPSzVSYk1lcGh3NVpNMHBsWGZqMmdTU05mWVpUNFd0UDl2Yl9pZldqbkdVeWY2bDVBbzBfOXgwZXM0RWoxSHlIQzl0RmN6eFFvOUtlQmxtSWNZa0g0RnBPMXd6eTRNRy1aWXQzdUFHcHdfc3M1QWM1aUZIeVpXWm9jOW4zbDZwdkk5QktXTFloZkhVUTVTUVlJZTlBcE9CSUpBNjM?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
-          "related_drugs": [
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide"
-            },
-            {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c0e1e3b05b4f",
-      "title": "14 people got sick after Cryptosporidium outbreak at McMenamins Pool in Washington",
-      "published": "2026-10-01T21:59:54+00:00",
-      "summary": "14 people got sick after Cryptosporidium outbreak at McMenamins Pool in Washington&nbsp;&nbsp;KOIN.com14 sickened in parasite outbreak tied to McMenamins pool in Bothell&nbsp;&nbsp;KING5.com14 People Infected with Parasite After Swimming in Hotel Pool&nbsp;&nbsp;People.comCryptosporidiosis outbreak at McMenamins’ Bothell pool over, King County Public Health says&nbsp;&nbsp;KIRO 7 News Seattle14 sickened in parasite outbreak linked to McMenamins pool&nbsp;&nbsp;KPTV",
-      "sources": [
-        {
-          "name": "KOIN.com",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb1BaMEFOSlBTVmZfT3YtRVRHRlpxMVRwdVFudEgtMWFpRms2RVVWQnRGQi1RSHF0NFBhSHJoUGJjS0ZOOW1jWEVPSDNiOWN0amt4Mzgwa0IwX0dON01RdXdCd0tlenJRZTM0c3pnTmJZczMySnVJSFdBZU93dTNvRTBDSVlTcDFjc19hZlIyNV9yal9EZmhmeVZDcXZYRWRUbFhFQWVRaC14NE5IWEHSAbMBQVVfeXFMT21QUTl3TU9kNWxGanRwb3ozVEhLOXRnZzBzVklUTURHeTlDaWNMWnVHbExkY3FTTFRZcjBhTXpCM2FsbUJGeVJOa0JlbUIwVFZmMnk2UERPdGpuemxDVDFRQjNfV3hrTTVKaGpRdDFuV3hudkxuZTYwV3ZDX1lhSndxd01md3BzT1FkQjRaU1MtM3hvNFBydDVaUmFqRjc0bEkxZ1hfZGY3ekRYNHVabUE0OFk?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "MI",
-          "related_drugs": [
-            {
-              "slug": "lasmiditan",
-              "name": "Lasmiditan"
-            },
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib"
-            },
-            {
-              "slug": "raloxifene",
-              "name": "Raloxifene"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide"
-            },
-            {
-              "slug": "selpercatinib",
-              "name": "Selpercatinib"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
-          "related_drugs": [
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide"
-            },
-            {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "8a2472e1d0a5",
-      "title": "Breast Oncologist Warns: Don't Ignore Skin Dimpling—It Could Signal Cancer",
-      "published": "2026-10-01T20:25:00+00:00",
-      "summary": "Breast Oncologist Warns: Don't Ignore Skin Dimpling—It Could Signal Cancer&nbsp;&nbsp;AOL.comSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR00xcTA0bFVBMDdCc181S1V3T0pFVHhpcThJOW1MXzZlTlROTG1MSFUyRXQ2ZVJPQ25iYXlMSWZXdmxjM3BGZ0QwWEN0czQ1VEV3TTBMbGdxS1c3dER4aTRjZmxRSzN6ZHYtM0twbzJ5LVpTbmJ2THZMSHlEd0U5NjJSUGVHdw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cancer",
-          "keyword": "cancer",
-          "related_drugs": [
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7a147a7e9a26",
-      "title": "How loss of the critical tumor suppressor p53 enables mutant cells to expand through normal tissue - Medical Xpress",
-      "published": "2026-10-01T18:00:24+00:00",
-      "summary": "How loss of the critical tumor suppressor p53 enables mutant cells to expand through normal tissue&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeU1jajhabVQ3TVhER2VKX21jckFUeUJyNktIS21seXRBVnhfbkM3UjI3MEhlMFduZG9TZlNpVzd2eDVtSUFpZzJudTljcjVDTjg0NktucVBKYU1LVDh6ZFZPSWFSMFkxd1ZfT0ExUWdWLXpJc0Q1a0cwaEVVQ1BVVVFlYWM?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cancer",
-          "keyword": "tumor",
-          "related_drugs": [
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4ae27f3aa328",
-      "title": "Antibiotics Mess With Your Gut—and This Common Food Might Make It Worse",
-      "published": "2026-10-01T17:42:53+00:00",
-      "summary": "Antibiotics Mess With Your Gut—and This Common Food Might Make It Worse&nbsp;&nbsp;PreventionSugar-rich foods exacerbate antibiotic-induced microbiome disruption&nbsp;&nbsp;NatureEating sugar while taking antibiotics might harm gut bacteria&nbsp;&nbsp;CNNSlashing sugar intake before antibiotics may save your microbiome&nbsp;&nbsp;New ScientistSugar Amplifies Damage Done to Gut Health by Antibiotics&nbsp;&nbsp;NYU Langone Health",
-      "sources": [
-        {
-          "name": "Prevention",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZWNvVjlBRWpGWW84M1c3RFp4ZkF1QkhQdHp3TXcxSkpUdW11QVJLZlRmamdFTGdOT1dYUVBNWDd1OFExaEJHdklLTFYwNkEzZTBuR2FZMkZpYTEzZTRSTXRQSjljWGd0aW1OVFN3VmIyVE92NjlwZ3hZaW8ybWM4aU85anB0dw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "MI",
-          "related_drugs": [
-            {
-              "slug": "lasmiditan",
-              "name": "Lasmiditan"
-            },
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib"
-            },
-            {
-              "slug": "raloxifene",
-              "name": "Raloxifene"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide"
-            },
-            {
-              "slug": "selpercatinib",
-              "name": "Selpercatinib"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "inflammatory bowel disease",
-          "keyword": "UC",
-          "related_drugs": [
-            {
-              "slug": "rutin",
-              "name": "Rutin"
-            },
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro"
-            },
-            {
-              "slug": "raloxifene",
-              "name": "Raloxifene"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "deff99021f9b",
-      "title": "Owning smartphone at age 12 may raise child’s disordered-eating risk, study says - The Washington Post",
-      "published": "2026-10-01T17:00:01+00:00",
-      "summary": "Owning smartphone at age 12 may raise child’s disordered-eating risk, study says&nbsp;&nbsp;The Washington PostWhen should your kid get a smartphone? New UCSF, JAMA Network Open study explains how it could be linked to eating disorders&nbsp;&nbsp;ABC7 San FranciscoVideo New research links smartphone use and eating disorder symptoms in children&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosHorrifying Research Finds What Happens to 12-Year-Olds Who Get Smart Phones&nbsp;&nbsp;Yahoo He",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY2FONG9OVTRfeTFROWI0SWhtbTlkWllkUlAwZk8yMG1mOU5jNWRJU0lienpiODlGNWFFSzR5OUxyZFB3QjY2QzBhNWVRMDhvY054cnFQODlQaDA2S0xxVnBKbTN0ZDlnUG9adTk3QmJlVHFLUHVqeE5TZEwtQlFuM3U2ZHpaUk81bmZYQkxaaGRpRy1pSmRnVXpnQTBMaVhoSUZUamVoblhMZnRCQTh0TUJBdGlLcS02MUpCN2cyc3hjZw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
-          "related_drugs": [
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide"
-            },
-            {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "inflammatory bowel disease",
-          "keyword": "UC",
-          "related_drugs": [
-            {
-              "slug": "rutin",
-              "name": "Rutin"
-            },
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro"
-            },
-            {
-              "slug": "raloxifene",
-              "name": "Raloxifene"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "84b342d938ca",
+      "id": "0ed60c7f4b09",
       "title": "Mosquito-borne disease that attacks the brain rising in California",
       "published": "2026-10-01T16:23:55+00:00",
-      "summary": "Mosquito-borne disease that attacks the brain rising in California&nbsp;&nbsp;sfgate.comFirst West Nile virus deaths reported this year in Orange County&nbsp;&nbsp;KTLAAre mosquitos in L.A. the “new normal”?&nbsp;&nbsp;L.A. MaterialSan Diego County Logs Most Local West Nile Cases Since 2016 as Late-Season Risk Lingers in Southern California&nbsp;&nbsp;Nature World NewsYolo County reports first death of West Nile virus in 2026&nbsp;&nbsp;The California Aggie",
+      "summary": "Mosquito-borne disease that attacks the brain rising in California&nbsp;&nbsp;SFGATEFirst West Nile virus deaths reported this year in Orange County&nbsp;&nbsp;KTLAAre mosquitos in L.A. the “new normal”?&nbsp;&nbsp;L.A. MaterialMosquitoes are thriving in LA's miserable humidity, worsening the spread of West Nile virus&nbsp;&nbsp;Arizona Daily SunSan Diego County Logs Most Local West Nile Cases Since 2016 as Late-Season Risk Lingers in Southern California&nbsp;&nbsp;Nature World News",
       "sources": [
         {
-          "name": "sfgate.com",
+          "name": "SFGATE",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONU10MmZlTmdDb3VNYnN4UUJ2RnhvcmlIeF9yQTNHMVBld1I4MFZSd3JlaHBGNDBNZnQ3VlBnRDhfTU1JRDFVbTY3QzhzOFdiRklINC1iZlR1eFRuRlEza0dWeDl6YU9jX2pDYU9ZSk5FdVpIZDc2RWhrRnpkSHRKZkl5Tm9Oel9h?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "MI",
+          "related_drugs": [
+            {
+              "slug": "lasmiditan",
+              "name": "Lasmiditan"
+            },
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib"
+            },
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide"
+            },
+            {
+              "slug": "selpercatinib",
+              "name": "Selpercatinib"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human"
+            }
+          ]
+        },
+        {
+          "type": "indication",
           "name": "arthritis",
           "keyword": "RA",
           "related_drugs": [
@@ -2766,17 +2720,60 @@
       ]
     },
     {
-      "id": "8d16e3ab7235",
-      "title": "AI's failed attempt to crack the Riemann hypothesis still led to a breakthrough - Live Science",
-      "published": "2026-10-01T15:56:04+00:00",
-      "summary": "AI's failed attempt to crack the Riemann hypothesis still led to a breakthrough&nbsp;&nbsp;Live Science",
+      "id": "db41689bff36",
+      "title": "14 sickened in parasite outbreak tied to McMenamins pool in Bothell",
+      "published": "2026-10-01T15:12:00+00:00",
+      "summary": "14 sickened in parasite outbreak tied to McMenamins pool in Bothell&nbsp;&nbsp;king5.com14 People Infected with Parasite After Swimming in Hotel Pool&nbsp;&nbsp;People.com14 people got sick after Cryptosporidium outbreak at McMenamins Pool in Washington&nbsp;&nbsp;KOIN.comCryptosporidiosis outbreak at McMenamins’ Bothell pool over, King County Public Health says&nbsp;&nbsp;kiro7.com14 sickened in parasite outbreak linked to McMenamins pool&nbsp;&nbsp;KPTV",
       "sources": [
         {
-          "name": "Live Science",
-          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQRklVclBfdDVKY2NsYjVuTFVyTkx1MUp0V0ptQW0xUXdDS0FnZmhyUUVnYmhVekNDYlpzbkRhLTI2RWdtR3FaamYyeDFjX1Z3ZWQ5SGJGTDd6eFk4WHVhdC1BMGJPeXFKcHNmbXJCbnNsT0o3ZnFTYkZSWUp2cm5rNC03QnZZOUFWSFhrRGxkUE1ZcVVUX2ZzU0FVQTlsc1o2UHV1a080QWRjQkswazB2TUNLb1VOSHBjcW8xaVRrRHoyMlN6YlpLN0lsVjN3MnJfU1Y1aFRMemJBemF6d01EaDk0UVphTC03Z0VlZE1DNndONGZGdm1lZ0dKUXBNNGE4RWNfT0s3RVNlYldwUEZ3RU9qZTRNNXdQRGc?oc=5"
+          "name": "king5.com",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObUVHaWw1M0R4TFUweFJqVkl0WEpDQkh6dkdxSkQyeUI4RUc0cFBVaW9YSnB6T0tvc3dBZjF0Z3BIT2Q0R3VRR1dGTDBaZTNHc0RJa3V6enlucGxaMlItUVdSdWNLOVdMZC1mYzc0NTVCNG9YT1FYOGtINjk3a00yenJtWjhWME9od3ROZXRVLU9sQk82OXplRTcyYTBJSWRZZnVEblV1bXdNYnVpR3czWER5cW1idzBPbklrQ1k5bFN3dGpZd3ZLT2FMVGMyal8xT3c?oc=5"
         }
       ],
       "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "MI",
+          "related_drugs": [
+            {
+              "slug": "lasmiditan",
+              "name": "Lasmiditan"
+            },
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib"
+            },
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide"
+            },
+            {
+              "slug": "selpercatinib",
+              "name": "Selpercatinib"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human"
+            }
+          ]
+        },
         {
           "type": "indication",
           "name": "arthritis",
@@ -2818,7 +2815,7 @@
       "id": "9859d38187b5",
       "title": "This diet may slow brain aging by 2.5 years",
       "published": "2026-10-01T14:03:04+00:00",
-      "summary": "This diet may slow brain aging by 2.5 years&nbsp;&nbsp;ScienceDailyYour diet affects more than weight: How everyday foods influence the brain, kidneys, liver and digestive system&nbsp;&nbsp;The Times of IndiaOne of the biggest challenges of modern people is brain volume and fear of dementia, which decreases..&nbsp;&nbsp;mk.co.krThis eating pattern is linked to slower brain aging, according to new research. Here’s what’s on the menu.&nbsp;&nbsp;creators.yahoo.com",
+      "summary": "This diet may slow brain aging by 2.5 years&nbsp;&nbsp;ScienceDailyYour diet affects more than weight: How everyday foods influence the brain, kidneys, liver and digestive system&nbsp;&nbsp;The Times of IndiaIs the MIND Diet the Secret to Better Brain Health? Experts Weigh In&nbsp;&nbsp;Yahoo HealthOne of the biggest challenges of modern people is brain volume and fear of dementia, which decreases..&nbsp;&nbsp;매일경제",
       "sources": [
         {
           "name": "ScienceDaily",
@@ -2826,6 +2823,49 @@
         }
       ],
       "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "MI",
+          "related_drugs": [
+            {
+              "slug": "lasmiditan",
+              "name": "Lasmiditan"
+            },
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib"
+            },
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide"
+            },
+            {
+              "slug": "selpercatinib",
+              "name": "Selpercatinib"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human"
+            }
+          ]
+        },
         {
           "type": "indication",
           "name": "arthritis",
@@ -2879,13 +2919,13 @@
       ]
     },
     {
-      "id": "eeb83b6f4034",
+      "id": "c39bf7f1e78f",
       "title": "Boy, 13, Diagnosed with Rare Genetic Disease Has to Consume Raw Cornstarch to Survive (Exclusive)",
       "published": "2026-10-01T13:54:11+00:00",
-      "summary": "Boy, 13, Diagnosed with Rare Genetic Disease Has to Consume Raw Cornstarch to Survive (Exclusive)&nbsp;&nbsp;yahoo.com",
+      "summary": "Boy, 13, Diagnosed with Rare Genetic Disease Has to Consume Raw Cornstarch to Survive (Exclusive)&nbsp;&nbsp;Yahoo",
       "sources": [
         {
-          "name": "yahoo.com",
+          "name": "Yahoo",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZkMzeDNMMDhZbnhTeDhsdk5CTHE5RnRZNlhuMDF6a1FNdmVXU2hxWXFBZ3U1VnBoRGRIMUp3aHNYcEJ5OXE2N2Z5MDNMZ1dGcWNTeGxLNWdEZnltM2N1TGpNcFFqblB3ZjlsZm1qMmVqYzVpbGNtT2Q1VTREZ3ZJWGJBZ3EyLVl2bm1tLVVR?oc=5"
         }
       ],
@@ -2928,23 +2968,10 @@
       ]
     },
     {
-      "id": "0e513516bd82",
-      "title": "High-fat, low-carb keto diet to be tested as bipolar treatment",
-      "published": "2026-10-01T11:53:42+00:00",
-      "summary": "High-fat, low-carb keto diet to be tested as bipolar treatment&nbsp;&nbsp;thetimes.com",
-      "sources": [
-        {
-          "name": "thetimes.com",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZTB1R3hsWmNGWmxDb2hvRnpKTGZTNVk2MEhHN2tsZnUyWW1SazI5RnRHbmJvNkVCZGlPUHVzdmlIblBXa0pNblkxeFZoc2RVQkdLT1UxUVRGQXlfa05ISVlBSzlULWQzM01PZ09mcjFJSDlEbERZenhoYVlIZFdrNkszUndCSDZFV09ZUEFPVk94dHpvNTViX3UtbTJHcFpKbDZYbV9HTQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "14bfea04a728",
       "title": "What Grip Strength Can Tell You About Your Health",
       "published": "2026-10-01T01:00:00+00:00",
-      "summary": "What Grip Strength Can Tell You About Your Health&nbsp;&nbsp;WSJHow I improved my grip strength in six weeks&nbsp;&nbsp;The TelegraphFitness By George – October 2026&nbsp;&nbsp;Siesta SandHow to Improve Grip Strength and Build Stronger Hands&nbsp;&nbsp;Style RaveWhat grip strength says about your health&nbsp;&nbsp;Mayo Clinic Press",
+      "summary": "What Grip Strength Can Tell You About Your Health&nbsp;&nbsp;WSJHow I improved my grip strength in six weeks&nbsp;&nbsp;telegraph.co.ukGrip strength could be the key to longevity - a 73-year-old fitness model swears by these 3 gadgets&nbsp;&nbsp;mensfitness.co.ukHow to Improve Grip Strength and Build Stronger Hands&nbsp;&nbsp;stylerave.comWhat grip strength says about your health&nbsp;&nbsp;Mayo Clinic Press",
       "sources": [
         {
           "name": "WSJ",
@@ -2990,14 +3017,14 @@
       ]
     },
     {
-      "id": "6ce3f0909933",
-      "title": "Evolution of terrestrial anatomy revealed by a derived stem tetrapod",
+      "id": "9af65d4e59be",
+      "title": "Sugar-rich foods exacerbate antibiotic-induced microbiome disruption",
       "published": "2026-09-30T23:17:28+00:00",
-      "summary": "Evolution of terrestrial anatomy revealed by a derived stem tetrapod&nbsp;&nbsp;NatureFossil long known as world's oldest reptile dethroned&nbsp;&nbsp;Phys.orgThe 345-Million-Year-Old Landmark Fossil “Lizzie” Was Not a Reptile — It Had Gills and a Fish-Like Mouth&nbsp;&nbsp;Discover MagazineFossil ‘Lizzie’ Rewrites the Story of How Vertebrates First Walked on Land&nbsp;&nbsp;Bioengineer.orgScotland’s famous ‘Lizzie’ fossil was not the early reptile scientists thought&nbsp;&nbsp;The Brighter Side",
+      "summary": "Sugar-rich foods exacerbate antibiotic-induced microbiome disruption&nbsp;&nbsp;NatureEating sugar while taking antibiotics might harm gut bacteria&nbsp;&nbsp;CNNStudy Suggests Skipping Sweets During Antibiotic Treatment May Help Protect the Gut Microbiome&nbsp;&nbsp;Business WireSugar Amplifies Damage Done to Gut Health by Antibiotics&nbsp;&nbsp;NYU Langone HealthAntibiotics Mess With Your Gut—and This Common Food Might Make It Worse&nbsp;&nbsp;Prevention",
       "sources": [
         {
           "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByZGlhUHpVZWxwNjd6c043eDRpd0F5M25kMmttVW9hVVVnRnRMbzhsMzVSekxFS2JmOUhPSFhqUVYxdEFLNzExNVprcTNiQlNlNUZWaEZIYnp2UFJuSkxv?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwZjJhblFMU3Z5LXZtWUxVWWpCQWY5U0xlUjMtRXlkVldZdkJBeS1YMS1paC1lbWlRbjBOWE95SGdhX2ppT0I2WFc1VzBwUloxQV9nMUE5QWQ3ZjhtUmZz?oc=5"
         }
       ],
       "matched_keywords": [
@@ -3046,28 +3073,24 @@
         },
         {
           "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
+          "name": "inflammatory bowel disease",
+          "keyword": "UC",
           "related_drugs": [
+            {
+              "slug": "rutin",
+              "name": "Rutin"
+            },
             {
               "slug": "insulin_lispro",
               "name": "Insulin lispro"
             },
             {
-              "slug": "baricitinib",
-              "name": "Baricitinib"
+              "slug": "raloxifene",
+              "name": "Raloxifene"
             },
             {
               "slug": "teriparatide",
               "name": "Teriparatide"
-            },
-            {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil"
             },
             {
               "slug": "insulin_glargine",
@@ -3082,13 +3105,13 @@
       ]
     },
     {
-      "id": "03d0464ff466",
-      "title": "Surprisingly Complex Waves Reveal the Brain’s Inner Workings",
+      "id": "340ac0aa2794",
+      "title": "Surprisingly Complex Waves Reveal the Brain’s Inner Workings - Quanta Magazine",
       "published": "2026-09-30T21:08:48+00:00",
-      "summary": "Surprisingly Complex Waves Reveal the Brain’s Inner Workings&nbsp;&nbsp;quantamagazine.org",
+      "summary": "Surprisingly Complex Waves Reveal the Brain’s Inner Workings&nbsp;&nbsp;Quanta Magazine",
       "sources": [
         {
-          "name": "quantamagazine.org",
+          "name": "Quanta Magazine",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTkMxWk41VGxKNXhwRG5kQXZVd245TFRfZ2N2T2M2ejhzbXFTaVBCaVhxOXhMcUVET09Fek9ONXRGTUh1MndYYWpMcGpXOTI5UDh3ZmRQRkF2WDVDWmN2NTlSMDB4N1B2emo1V0hMT2FIeGtZVlEwc3R0UlJlYUFqMm1nSHFRZnJtNC1rb1BzM0NIREl5UDJ3ak1KNXQweTcwYUE?oc=5"
         }
       ],
@@ -3226,7 +3249,7 @@
       "id": "66fa22bd8cd0",
       "title": "More screen time is linked to poorer child development, study shows",
       "published": "2026-09-30T14:32:23+00:00",
-      "summary": "More screen time is linked to poorer child development, study shows&nbsp;&nbsp;CNNHigh screen time can hurt children’s learning and language skills, study suggests&nbsp;&nbsp;The GuardianHysteria over children’s screen time is overriding common sense&nbsp;&nbsp;The TelegraphWhy Today’s Toddlers Are Struggling To Tell Stories&nbsp;&nbsp;The Daily WireWhat Parents Need to Know About Child Development and Screens&nbsp;&nbsp;Movieguide",
+      "summary": "More screen time is linked to poorer child development, study shows&nbsp;&nbsp;CNNHigh screen time can hurt children’s learning and language skills, study suggests&nbsp;&nbsp;The GuardianWhy Today’s Toddlers Are Struggling To Tell Stories&nbsp;&nbsp;The Daily WireMore Screen Time, Less Storytelling&nbsp;&nbsp;Institute for Family StudiesWhat Parents Need to Know About Child Development and Screens&nbsp;&nbsp;Movieguide",
       "sources": [
         {
           "name": "CNN",
@@ -3236,9 +3259,13 @@
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
+          "name": "myocardial infarction",
+          "keyword": "MI",
           "related_drugs": [
+            {
+              "slug": "lasmiditan",
+              "name": "Lasmiditan"
+            },
             {
               "slug": "insulin_lispro",
               "name": "Insulin lispro"
@@ -3248,12 +3275,84 @@
               "name": "Baricitinib"
             },
             {
+              "slug": "raloxifene",
+              "name": "Raloxifene"
+            },
+            {
               "slug": "teriparatide",
               "name": "Teriparatide"
             },
             {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "slug": "selpercatinib",
+              "name": "Selpercatinib"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7aa36ba601bd",
+      "title": "Millions of cancer cases are linked to 5 common infections: study - New York Post",
+      "published": "2026-09-30T14:17:00+00:00",
+      "summary": "Millions of cancer cases are linked to 5 common infections: study&nbsp;&nbsp;New York PostOne in eight cancers are likely caused by an infection worldwide – new study&nbsp;&nbsp;The ConversationJust 5 Infections Responsible For More Than 2 Million New Cancer Cases Annually&nbsp;&nbsp;ScienceAlert1 in 8 Cancer Cases Worldwide Are Due to Infections&nbsp;&nbsp;Cancer HealthSurprising culprit tied to 1 in 8 cancer cases worldwide, major study reveals&nbsp;&nbsp;Fox News",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUkxLMGNQUFR1ejZ3Y3FSdmdhNlhGOF9haUpvME1MZ3R3NzdqaXkyclhUMGVnZDNlT0RWeEc5SnJjaWIzZGVObWVnWmgwSEk5RG52N0t1OWNtUEo4QkNRbGVhcGo0MUVDbk1EdlpkbF85WjF6YVhfMDhzUndWUWV4Wi1HNFlBb1BiSklXOFBObW1PckxoeXRROHl1YmRyRl9XUzlUcw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cancer",
+          "keyword": "cancer",
+          "related_drugs": [
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "MI",
+          "related_drugs": [
+            {
+              "slug": "lasmiditan",
+              "name": "Lasmiditan"
+            },
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib"
+            },
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide"
+            },
+            {
+              "slug": "selpercatinib",
+              "name": "Selpercatinib"
             },
             {
               "slug": "tadalafil",
@@ -3275,7 +3374,7 @@
       "id": "5e3edde388a3",
       "title": "She Says Vaccines Killed Her Twins. The Authorities Say She Did. - The New York Times",
       "published": "2026-09-30T13:18:24+00:00",
-      "summary": "She Says Vaccines Killed Her Twins. The Authorities Say She Did.&nbsp;&nbsp;The New York TimesIdaho Woman Faces Murder Charge as Health Agency Offers Vaccines&nbsp;&nbsp;SuaraGarut.IDUS mother says vaccines killed her twins, prosecutors allege she smothered them&nbsp;&nbsp;Moneycontrol.com",
+      "summary": "She Says Vaccines Killed Her Twins. The Authorities Say She Did.&nbsp;&nbsp;The New York TimesIdaho Woman Faces Murder Charge as Health Agency Offers Vaccines&nbsp;&nbsp;suaragarut.idUS mother says vaccines killed her twins, prosecutors allege she smothered them&nbsp;&nbsp;Moneycontrol.com",
       "sources": [
         {
           "name": "The New York Times",
@@ -3370,87 +3469,13 @@
       ]
     },
     {
-      "id": "b8f7322858dc",
-      "title": "Can aging be treated like a disease? Scientists are starting to find out",
-      "published": "2026-09-30T10:34:09+00:00",
-      "summary": "Can aging be treated like a disease? Scientists are starting to find out&nbsp;&nbsp;CNNWeight-loss jabs may slow biological ageing, landmark new study suggests&nbsp;&nbsp;BBC Science Focus MagazineVoices for Healthcare - Should aging be treated as a disease?&nbsp;&nbsp;Gulf Coast Media",
-      "sources": [
-        {
-          "name": "CNN",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWVF3a3Itc0tRUGY1X3ZDeU1obGczWmFTZ1NibHViclRhYVBLZ0g5dE5HWktlZWNBV18zZlNSeGJvcjBRVnc4cU82clpKWWlHeG1lSGxzemQ0OWtnTmhaMEk0cGdJaU1Wa05JRXFQR0FfeENKeTRwRjNNZ2NIM2o5bEd4dEd6UnM2UmhuM1VR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "arthritis",
-          "keyword": "OA",
-          "related_drugs": [
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide"
-            },
-            {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a650df3c447f",
-      "title": "New Cancer Drugs Are Revolutionary. Why Don’t More Patients Get Them? - The New York Times",
-      "published": "2026-09-30T09:01:30+00:00",
-      "summary": "New Cancer Drugs Are Revolutionary. Why Don’t More Patients Get Them?&nbsp;&nbsp;The New York Times",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeUNsekgzR25ack1ZQXhBZ0RCZDE3V25NeVNKbW83WERIdENnYkliTWptR0tMblR2bHJPQXpIMFMzS0pRTDNHMG1peF9neVJ2eE5iYXdkcUtfQmd2WEEwV3V1Q2dWSXJNVVd4ZTJDR3NFZzBMWUxKa0JqYTRQRmg3enNkendnWFNncTd3cWVoM0VSUFlrMVcxRWZteHFjR1g1YmxjaFJEZmdqTDRncTdNYnRRNzg?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cancer",
-          "keyword": "cancer",
-          "related_drugs": [
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1372e52aaace",
+      "id": "d2388e113769",
       "title": "Drugs are widely used to sedate dementia patients. Her sons wanted to keep her off them",
       "published": "2026-09-30T09:00:00+00:00",
-      "summary": "Drugs are widely used to sedate dementia patients. Her sons wanted to keep her off them&nbsp;&nbsp;npr.orgSee more headlines & perspectives on Google News",
+      "summary": "Drugs are widely used to sedate dementia patients. Her sons wanted to keep her off them&nbsp;&nbsp;NPRSee more headlines & perspectives on Google News",
       "sources": [
         {
-          "name": "npr.org",
+          "name": "NPR",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWE1IYmo4VFRVTTFPYUdUMHozMlVCaWNndndYNnpNT3AwWS1CMVVCWGtCeXpWX2Jta3NCdDNTekFnbUNuQ2lHeWZSTVZHNGFzbWdSVTdVODMxenJIcXdPNjBLdnJJUkJiNWNZRm1tRlZzam1OM014WGxhbmg3N2FTWXZncy0?oc=5"
         }
       ],
@@ -3563,7 +3588,7 @@
       "id": "61336edd32ef",
       "title": "A Gripping Real-Life Horror Story of Dementia, Love and Grief - The New York Times",
       "published": "2026-09-29T09:01:03+00:00",
-      "summary": "A Gripping Real-Life Horror Story of Dementia, Love and Grief&nbsp;&nbsp;The New York TimesThe Books Briefing: A Mysterious Literary Pattern&nbsp;&nbsp;The AtlanticWhat if One Gene Could Erase Your Personality?&nbsp;&nbsp;Psychology TodayIf you had 50-50 chance of getting dementia, would you want to know?&nbsp;&nbsp;thetimes.comCould a Gene in Alzheimer’s Research Also Unlock Answers for FTD?&nbsp;&nbsp;Being Patient",
+      "summary": "A Gripping Real-Life Horror Story of Dementia, Love and Grief&nbsp;&nbsp;The New York TimesThe Books Briefing: A Mysterious Literary Pattern&nbsp;&nbsp;The AtlanticWhat if One Gene Could Erase Your Personality?&nbsp;&nbsp;Psychology TodayIf you had 50-50 chance of getting dementia, would you want to know?&nbsp;&nbsp;The TimesCould a Gene in Alzheimer’s Research Also Unlock Answers for FTD?&nbsp;&nbsp;Being Patient",
       "sources": [
         {
           "name": "The New York Times",
@@ -3595,6 +3620,86 @@
             {
               "slug": "tadalafil",
               "name": "Tadalafil"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "36198d0d4b83",
+      "title": "Merck discontinues a crucial antibiotic despite concerns over superbug resistance",
+      "published": "2026-09-28T20:46:39+00:00",
+      "summary": "Merck discontinues a crucial antibiotic despite concerns over superbug resistance&nbsp;&nbsp;STATMerck pulls antibiotic for multidrug-resistant infections from US market&nbsp;&nbsp;CIDRAPMerck Stops Selling Recarbrio in the U.S., Leaving Hospitals with Fewer Options for Drug-Resistant Pneumonia and Infections&nbsp;&nbsp;Medical Daily",
+      "sources": [
+        {
+          "name": "STAT",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX3lydlBaTmpIWV93RUlSeFhHVlJkSUczUW5qSWQ1blFSdFpuV0c2WEFDRXVtNVItQUNscjhaRjY2QU1mVmNHVGpwaGhwY1cyT0hMbzJ2enExd2tiQnlPU0NYUXhOSVVZWkJ5bjNkTkdETUI0c2kxQm5yMFlfT1dFTm5Eczh1WjhnV3RxdTZaREFpWUJzZ3pqVm9xUjhNcmNFZ013Si1KMXJDVkRoTHF4eGtMM0xWM3BjT0xN?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "arthritis",
+          "keyword": "RA",
+          "related_drugs": [
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro"
+            },
+            {
+              "slug": "baricitinib",
+              "name": "Baricitinib"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide"
+            },
+            {
+              "slug": "sodium_acetate",
+              "name": "Sodium acetate"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil"
+            },
+            {
+              "slug": "insulin_glargine",
+              "name": "Insulin glargine"
+            },
+            {
+              "slug": "insulin_human",
+              "name": "Insulin human"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "inflammatory bowel disease",
+          "keyword": "UC",
+          "related_drugs": [
+            {
+              "slug": "rutin",
+              "name": "Rutin"
+            },
+            {
+              "slug": "insulin_lispro",
+              "name": "Insulin lispro"
+            },
+            {
+              "slug": "raloxifene",
+              "name": "Raloxifene"
+            },
+            {
+              "slug": "teriparatide",
+              "name": "Teriparatide"
             },
             {
               "slug": "insulin_glargine",
@@ -3745,126 +3850,17 @@
       ]
     },
     {
-      "id": "9efc4a22b1f5",
+      "id": "dee5b55bf335",
       "title": "Pennsylvania’s Measles Outbreak Is Now the Single Worst of the Last 35 Years, and Still Climbing",
       "published": "2026-09-27T08:00:48+00:00",
-      "summary": "Pennsylvania’s Measles Outbreak Is Now the Single Worst of the Last 35 Years, and Still Climbing&nbsp;&nbsp;yahoo.comCDC updates measles death toll to 2 in 2026&nbsp;&nbsp;6abc PhiladelphiaPennsylvania Measles Outbreak Grows to Nearly 900 Cases&nbsp;&nbsp;The New York TimesPennsylvania surpasses 900 measles cases with 13 new confirmed infections: Officials&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosCDC reports second measles death in US while excluding Pennsylvania deaths&nbsp;&n",
+      "summary": "Pennsylvania’s Measles Outbreak Is Now the Single Worst of the Last 35 Years, and Still Climbing&nbsp;&nbsp;YahooCDC updates measles death toll to 2 in 2026&nbsp;&nbsp;6abc PhiladelphiaPennsylvania Measles Outbreak Grows to Nearly 900 Cases&nbsp;&nbsp;The New York TimesPennsylvania surpasses 900 measles cases with 13 new confirmed infections: Officials&nbsp;&nbsp;abcnews.comCDC reports second measles death in US while excluding Pennsylvania deaths&nbsp;&nbsp;The Guardian",
       "sources": [
         {
-          "name": "yahoo.com",
+          "name": "Yahoo",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcHl0d25Ea1FRMERkcnBJQ2U3c1h3V09JcHM4NUEyUkdfTUtMc3V6ZzFLZ3lDQVJQeGp0bWlqN09OVE9oR3FzWXM5TFVMQkVZb1Y1bGw3RHU5ZlU3dk9rX2hZQ095TGppMzZHbUxLWlpNUHVPUkF5dzRULVVnYzVhbXlxd1U2Y0xoMldSeVJENFdVdnA2cGFiQ0hGZEpmaVhq?oc=5"
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "fa89d3f65849",
-      "title": "Measles Has Returned To America. We’re No Longer In Containment Mode",
-      "published": "2026-09-26T23:36:39+00:00",
-      "summary": "Measles Has Returned To America. We’re No Longer In Containment Mode&nbsp;&nbsp;ForbesMeasles outbreaks could leave thousands vulnerable to infectious diseases for years&nbsp;&nbsp;CIDRAPChildren Are Back in School. Measles Is, Too&nbsp;&nbsp;Time MagazineMeasles Is Forcing Hospitals to Adapt to a New Normal&nbsp;&nbsp;WIREDTravel plans? Here's what to know as measles exposures reach trains and games&nbsp;&nbsp;npr.org",
-      "sources": [
-        {
-          "name": "Forbes",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeDNXVm1aNk10VlpxWkhiUEdQNVZBalN6TGptdmdmWndaMUd2ZUVmQTB0NUNnTE8xa3ZXZDk3TnYtZ2FwOXg4V0pXZWZRdVlyZGpQd0hUeDlkeFp4MEVGckhfMWFNbHE3MHR5Yk9nb1hNa1Q1aWpfaS1OUDVmeXpOMHhBaE9wRDVSLTkwbEJlcF9WQlc1ejBfX19HajlpeUY1eXJVREU3b3VCbXZzcDNyWTJaOFpFRDJ6?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
-          "related_drugs": [
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide"
-            },
-            {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "dc318a60ceb7",
-      "title": "One shot or two? Latest HPV vaccine schedule guidance as ‘significant shift’ looms - The Independent",
-      "published": "2026-09-26T15:45:00+00:00",
-      "summary": "One shot or two? Latest HPV vaccine schedule guidance as ‘significant shift’ looms&nbsp;&nbsp;The IndependentOne shot or two?&nbsp;&nbsp;Tribune ChronicleHPV vaccination and cervical cancer prevention: One of public health's greatest opportunities&nbsp;&nbsp;CVS HealthCIDRAP Op-Ed: One HPV vaccine dose may be enough, but how we get to that answer matters&nbsp;&nbsp;CIDRAPHow the HPV Vaccine Can Help Prevent Cancer&nbsp;&nbsp;MyHighPlains.com",
-      "sources": [
-        {
-          "name": "The Independent",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRndjbU11MFJVaUlaVmVHTmt1U2dsaGxtTXZFWWJQemVjZkE1T1N6N1VDZU9jY0NkblUxYXRsMVpjNXZQdUh6ZzlEZWRrdmQ3S1RudmgzR0JSbGxnV2FiOGdjZktfSGdKdW9SYUF3MHhseWROZlZDZlZhRlpyUzhRbkxnYm1rdzdBYUoxRzlyc1F3Wmt0cHNERGRoQkNZWkNGZTc2TWNwaFJPRXM?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cancer",
-          "keyword": "cancer",
-          "related_drugs": [
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "arthritis",
-          "keyword": "RA",
-          "related_drugs": [
-            {
-              "slug": "insulin_lispro",
-              "name": "Insulin lispro"
-            },
-            {
-              "slug": "baricitinib",
-              "name": "Baricitinib"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "Teriparatide"
-            },
-            {
-              "slug": "sodium_acetate",
-              "name": "Sodium acetate"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "Tadalafil"
-            },
-            {
-              "slug": "insulin_glargine",
-              "name": "Insulin glargine"
-            },
-            {
-              "slug": "insulin_human",
-              "name": "Insulin human"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

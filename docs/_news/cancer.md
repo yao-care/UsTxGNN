@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "tumor (cancer) News"
+title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about tumor (cancer). 11 articles, 1 related drugs."
+description: "Health news about cancer. 9 articles, 1 related drugs."
 permalink: /news/cancer/
 ---
 
-# tumor (cancer) News
+# cancer News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about tumor (cancer)?">
-<strong>tumor (cancer)</strong> currently has <strong>11 news articles</strong> and 1 related drugs.
+<p class="key-answer" data-question="What news is there about cancer?">
+<strong>cancer</strong> currently has <strong>9 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “tumor” and lists the drugs in the UsTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “cancer” and lists the drugs in the UsTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -29,7 +29,15 @@ This page brings together the latest health news about “tumor” and lists the
 </ul>
 </div>
 
-## Related News (11)
+## Related News (9)
+
+### [New cancer drugs are revolutionary. Why don’t more patients get them? - The Seattle Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQYzlCVjBaeENuRlZ2WS11SkJ4cGZDZmRvai14cGVKdTlMTjhfcVg0SGtydG5oWDIwM2hYNlFkdEtTd2RGR1RWV29xM2MtQTNueElkQ3d1c3VpUkxCNGNvOG94cnFkbVpRcDdndzBVQjRDRS1ucmJoUnRJYWlxV2xzTkt4Q2V4T3dFd1lhQTF6eXZxQjBIZXgtanA0V2VLX1BhQnYweG0zLXl2Y3BQN3c?oc=5)
+
+2026-10-03
+
+Source: [The Seattle Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQYzlCVjBaeENuRlZ2WS11SkJ4cGZDZmRvai14cGVKdTlMTjhfcVg0SGtydG5oWDIwM2hYNlFkdEtTd2RGR1RWV29xM2MtQTNueElkQ3d1c3VpUkxCNGNvOG94cnFkbVpRcDdndzBVQjRDRS1ucmJoUnRJYWlxV2xzTkt4Q2V4T3dFd1lhQTF6eXZxQjBIZXgtanA0V2VLX1BhQnYweG0zLXl2Y3BQN3c?oc=5)
+
+---
 
 ### [Scientists Untangle the Biology of an ‘Undruggable’ Cancer Gene - The New York Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdDZxVGs2MkFnenNPR3VKV0ZQck14TDhQWnMwaTF4NThqSWZFMFVlcFlIUFREZGRqMlZnSENBcWVvbC02ZExCSllkdUhfNmVINHRhWmZxWGJ6M0N2MTVYVlBVNlF6UWtTR0dRaHFUWmt5Zjc2RENUcHJUaUdLeTVkSm41TFFjcmFKQXVFVV9TOHlkUW5PdzdzZUZ3VXZWQ1drWC1YX0tRWFM1aVpWdmc?oc=5)
 
@@ -79,27 +87,11 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMiowFBVV95c
 
 ---
 
-### [Breast Oncologist Warns: Don't Ignore Skin Dimpling—It Could Signal Cancer](https://news.google.com/rss/articles/CBMihgFBVV95cUxNR00xcTA0bFVBMDdCc181S1V3T0pFVHhpcThJOW1MXzZlTlROTG1MSFUyRXQ2ZVJPQ25iYXlMSWZXdmxjM3BGZ0QwWEN0czQ1VEV3TTBMbGdxS1c3dER4aTRjZmxRSzN6ZHYtM0twbzJ5LVpTbmJ2THZMSHlEd0U5NjJSUGVHdw?oc=5)
-
-2026-10-01
-
-Source: [AOL.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxNR00xcTA0bFVBMDdCc181S1V3T0pFVHhpcThJOW1MXzZlTlROTG1MSFUyRXQ2ZVJPQ25iYXlMSWZXdmxjM3BGZ0QwWEN0czQ1VEV3TTBMbGdxS1c3dER4aTRjZmxRSzN6ZHYtM0twbzJ5LVpTbmJ2THZMSHlEd0U5NjJSUGVHdw?oc=5)
-
----
-
-### [How loss of the critical tumor suppressor p53 enables mutant cells to expand through normal tissue - Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxNeU1jajhabVQ3TVhER2VKX21jckFUeUJyNktIS21seXRBVnhfbkM3UjI3MEhlMFduZG9TZlNpVzd2eDVtSUFpZzJudTljcjVDTjg0NktucVBKYU1LVDh6ZFZPSWFSMFkxd1ZfT0ExUWdWLXpJc0Q1a0cwaEVVQ1BVVVFlYWM?oc=5)
-
-2026-10-01
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxNeU1jajhabVQ3TVhER2VKX21jckFUeUJyNktIS21seXRBVnhfbkM3UjI3MEhlMFduZG9TZlNpVzd2eDVtSUFpZzJudTljcjVDTjg0NktucVBKYU1LVDh6ZFZPSWFSMFkxd1ZfT0ExUWdWLXpJc0Q1a0cwaEVVQ1BVVVFlYWM?oc=5)
-
----
-
-### [New Cancer Drugs Are Revolutionary. Why Don’t More Patients Get Them? - The New York Times](https://news.google.com/rss/articles/CBMitAFBVV95cUxQeUNsekgzR25ack1ZQXhBZ0RCZDE3V25NeVNKbW83WERIdENnYkliTWptR0tMblR2bHJPQXpIMFMzS0pRTDNHMG1peF9neVJ2eE5iYXdkcUtfQmd2WEEwV3V1Q2dWSXJNVVd4ZTJDR3NFZzBMWUxKa0JqYTRQRmg3enNkendnWFNncTd3cWVoM0VSUFlrMVcxRWZteHFjR1g1YmxjaFJEZmdqTDRncTdNYnRRNzg?oc=5)
+### [Millions of cancer cases are linked to 5 common infections: study - New York Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUkxLMGNQUFR1ejZ3Y3FSdmdhNlhGOF9haUpvME1MZ3R3NzdqaXkyclhUMGVnZDNlT0RWeEc5SnJjaWIzZGVObWVnWmgwSEk5RG52N0t1OWNtUEo4QkNRbGVhcGo0MUVDbk1EdlpkbF85WjF6YVhfMDhzUndWUWV4Wi1HNFlBb1BiSklXOFBObW1PckxoeXRROHl1YmRyRl9XUzlUcw?oc=5)
 
 2026-09-30
 
-Source: [The New York Times](https://news.google.com/rss/articles/CBMitAFBVV95cUxQeUNsekgzR25ack1ZQXhBZ0RCZDE3V25NeVNKbW83WERIdENnYkliTWptR0tMblR2bHJPQXpIMFMzS0pRTDNHMG1peF9neVJ2eE5iYXdkcUtfQmd2WEEwV3V1Q2dWSXJNVVd4ZTJDR3NFZzBMWUxKa0JqYTRQRmg3enNkendnWFNncTd3cWVoM0VSUFlrMVcxRWZteHFjR1g1YmxjaFJEZmdqTDRncTdNYnRRNzg?oc=5)
+Source: [New York Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUkxLMGNQUFR1ejZ3Y3FSdmdhNlhGOF9haUpvME1MZ3R3NzdqaXkyclhUMGVnZDNlT0RWeEc5SnJjaWIzZGVObWVnWmgwSEk5RG52N0t1OWNtUEo4QkNRbGVhcGo0MUVDbk1EdlpkbF85WjF6YVhfMDhzUndWUWV4Wi1HNFlBb1BiSklXOFBObW1PckxoeXRROHl1YmRyRl9XUzlUcw?oc=5)
 
 ---
 
@@ -108,14 +100,6 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMitAFBVV95cU
 2026-09-29
 
 Source: [Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEJkMzJPVUdxcURGcjEwcG1CbzJGc2c2Z2VybVU1N1JiajVGWFV0VjcxQUVtbXk4TGFJRHpnRGdQMUhxd1k2QUFHZjRDWTJTVldNXzI2REl0alIxS3VtM2RNSTZVNW5HX2stT0N1WlhyZmF5a3FGTWZJU1hTd2Uzbk4wT3RIQ1c1TjV3X1NaTS1aVFJGN05Gb1FMZFpoSWQ4Y1ZoWG9VVm9ubE53YlZ5YzNmRjVfNkQwVTh1bElsRUM?oc=5)
-
----
-
-### [One shot or two? Latest HPV vaccine schedule guidance as ‘significant shift’ looms - The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRndjbU11MFJVaUlaVmVHTmt1U2dsaGxtTXZFWWJQemVjZkE1T1N6N1VDZU9jY0NkblUxYXRsMVpjNXZQdUh6ZzlEZWRrdmQ3S1RudmgzR0JSbGxnV2FiOGdjZktfSGdKdW9SYUF3MHhseWROZlZDZlZhRlpyUzhRbkxnYm1rdzdBYUoxRzlyc1F3Wmt0cHNERGRoQkNZWkNGZTc2TWNwaFJPRXM?oc=5)
-
-2026-09-26
-
-Source: [The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRndjbU11MFJVaUlaVmVHTmt1U2dsaGxtTXZFWWJQemVjZkE1T1N6N1VDZU9jY0NkblUxYXRsMVpjNXZQdUh6ZzlEZWRrdmQ3S1RudmgzR0JSbGxnV2FiOGdjZktfSGdKdW9SYUF3MHhseWROZlZDZlZhRlpyUzhRbkxnYm1rdzdBYUoxRzlyc1F3Wmt0cHNERGRoQkNZWkNGZTc2TWNwaFJPRXM?oc=5)
 
 ---
 

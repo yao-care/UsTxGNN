@@ -35,7 +35,7 @@ This page brings together the latest health news about “CAD” and lists the d
 
 2026-10-02
 
-Source: [gizmodo.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRDkwaEwxb0NISWgxME1lbEExemhEckRTVmJpNnV1cG55QTZMSVVfZUUzYVREWHNvcVFqbGNBdmVxZjZJQ2E0TFprTlBTSzluVlEyb3prbkozcE5SR2F0SHREUTZSaGd5c3l2NUlJNVdlLXNlbGdRdjJqSXpWM21FbE0zaXdZd2VfdHZfMDh4RHdUQjRaaW8wLV9OUzczRF96dXQ1cGdnTzhxbmd2dmJxZzE2NDNteFVX?oc=5)
+Source: [Gizmodo](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRDkwaEwxb0NISWgxME1lbEExemhEckRTVmJpNnV1cG55QTZMSVVfZUUzYVREWHNvcVFqbGNBdmVxZjZJQ2E0TFprTlBTSzluVlEyb3prbkozcE5SR2F0SHREUTZSaGd5c3l2NUlJNVdlLXNlbGdRdjJqSXpWM21FbE0zaXdZd2VfdHZfMDh4RHdUQjRaaW8wLV9OUzczRF96dXQ1cGdnTzhxbmd2dmJxZzE2NDNteFVX?oc=5)
 
 ---
 

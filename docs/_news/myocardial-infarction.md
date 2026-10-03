@@ -3,7 +3,7 @@ layout: default
 title: "MI (myocardial infarction) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about MI (myocardial infarction). 25 articles, 9 related drugs."
+description: "Health news about MI (myocardial infarction). 23 articles, 9 related drugs."
 permalink: /news/myocardial-infarction/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/myocardial-infarction/
 ---
 
 <p class="key-answer" data-question="What news is there about MI (myocardial infarction)?">
-<strong>MI (myocardial infarction)</strong> currently has <strong>25 news articles</strong> and 9 related drugs.
+<strong>MI (myocardial infarction)</strong> currently has <strong>23 news articles</strong> and 9 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,13 +37,21 @@ This page brings together the latest health news about “MI” and lists the dr
 </ul>
 </div>
 
-## Related News (25)
+## Related News (23)
 
-### [Space breakthrough as British rover sent to Mars on mission to discover humans' ancient ancestors - GB News](https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVhyb2JnUkdlRDM5WjFkcmVkV0xhM29YWjRKOE5fbng0NW9MS2s4Qm43bGo4bWxDbnpJTUdBR2tmMVB0TWp6WGlqRTZEalpOZjQtbE5zOHVuRFE2cFZQaHV1cWplZTBCWHExcWgwcmt0cXhEeFFLQ0JwU0RkNWE0Q3pjZ2ZCakNhNUtEeGdkT1c4bUxBTE4wck5UVXJOZnpaSmdB?oc=5)
+### [Our Solar System Is Terminally Unstable and Will Be Completely Destroyed, Study Finds - 404 Media](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZjlESnc1TGdWdHNjUHBuMG1pUFJOQ09zNGt6THR6cnhXVjNPLUQxNEhGM1ljcXZlemhrcFpjdXZMc3BqdVRMSWhCZ1JOUGloemhOREJ4Z2hPQzVxTDk1WS1HY28zZ1VEbXBxM09aR09OZjZZMkpPaWhFV0d2ZUtrMngwVk9OUV9RYWh1M01oUUw1b3A5WVkwNWhyY0tUekJtWGp2OXNIQjhJOVFMSEE?oc=5)
 
 2026-10-03
 
-Source: [GB News](https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVhyb2JnUkdlRDM5WjFkcmVkV0xhM29YWjRKOE5fbng0NW9MS2s4Qm43bGo4bWxDbnpJTUdBR2tmMVB0TWp6WGlqRTZEalpOZjQtbE5zOHVuRFE2cFZQaHV1cWplZTBCWHExcWgwcmt0cXhEeFFLQ0JwU0RkNWE0Q3pjZ2ZCakNhNUtEeGdkT1c4bUxBTE4wck5UVXJOZnpaSmdB?oc=5)
+Source: [404 Media](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZjlESnc1TGdWdHNjUHBuMG1pUFJOQ09zNGt6THR6cnhXVjNPLUQxNEhGM1ljcXZlemhrcFpjdXZMc3BqdVRMSWhCZ1JOUGloemhOREJ4Z2hPQzVxTDk1WS1HY28zZ1VEbXBxM09aR09OZjZZMkpPaWhFV0d2ZUtrMngwVk9OUV9RYWh1M01oUUw1b3A5WVkwNWhyY0tUekJtWGp2OXNIQjhJOVFMSEE?oc=5)
+
+---
+
+### [Tapeworm Treatment Shows Early Effectiveness Against Endometriosis](https://news.google.com/rss/articles/CBMimwFBVV95cUxOQzEyUkc5WmQ1N1hxdjdBREhOOUZVd1RqSVB4d2tPa1lCeGYzNTNTMjZYOGVyb1RKTEZPdk1GRWROeFYyM3NRUWUzNzhsTFlhVi0wTnBqX29MNWZzcGdZUjNhOF82azM1QzA0NWwwS3dfS1JCRmg2QXdPV1JMclhBb3pOeEZsc24xWG9ncmdCcndPbGVpWTNSOW91MA?oc=5)
+
+2026-10-03
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMimwFBVV95cUxOQzEyUkc5WmQ1N1hxdjdBREhOOUZVd1RqSVB4d2tPa1lCeGYzNTNTMjZYOGVyb1RKTEZPdk1GRWROeFYyM3NRUWUzNzhsTFlhVi0wTnBqX29MNWZzcGdZUjNhOF82azM1QzA0NWwwS3dfS1JCRmg2QXdPV1JMclhBb3pOeEZsc24xWG9ncmdCcndPbGVpWTNSOW91MA?oc=5)
 
 ---
 
@@ -63,6 +71,22 @@ Source: [KTLA](https://news.google.com/rss/articles/CBMilAFBVV95cUxNUzM5OU1yMlR4
 
 ---
 
+### [New weight-loss injection targets fat cells: CBL-514 selectively induces apoptosis of fat cells - Medical Xpress](https://news.google.com/rss/articles/CBMieEFVX3lxTE5qQmlnQjNOS0FqT3dkT2ZBbWJzY3Bmcl92OTBsZ0hfZTc1QWs3d0hTVGtXUWZNejYxVTd0NHZpT3o5dDNKdV9EVEhTYjBPWFZmWXBKSHhTb2JMXzFaejREOU93QkZfSE0tNi1FTUpuVnMwcUhLRDZXcg?oc=5)
+
+2026-10-02
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMieEFVX3lxTE5qQmlnQjNOS0FqT3dkT2ZBbWJzY3Bmcl92OTBsZ0hfZTc1QWs3d0hTVGtXUWZNejYxVTd0NHZpT3o5dDNKdV9EVEhTYjBPWFZmWXBKSHhTb2JMXzFaejREOU93QkZfSE0tNi1FTUpuVnMwcUhLRDZXcg?oc=5)
+
+---
+
+### [Animals may have evolved 200 million years earlier than previously thought, new study suggests - Live Science](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaTNfZjlkLVdpaVNlRWcwRmtNTXNPbDdhOWw0dVpickFnUkRVaUcyR2lGZ3F0LUJiZ0VQY3lVdnFzd3JUX3doVDk5NFdZTGtPcnc3dUJIb0owRVQ2REdNTWZ5X3dHa19jQ1VpRHVXWThUYmdkclpvUkRCNWUxZkdfMzFjbERNXzA5OUZSUGl4eTdFak5zT29mR2dRbUxGUW9MSHNfTDBDSXkteEdIdmNGRmFHSm9qTUk0X3hWQnctczU1RkVfRG9wNTJONHFsOWtQYTNLM29TU2ZsZDRa?oc=5)
+
+2026-10-02
+
+Source: [Live Science](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaTNfZjlkLVdpaVNlRWcwRmtNTXNPbDdhOWw0dVpickFnUkRVaUcyR2lGZ3F0LUJiZ0VQY3lVdnFzd3JUX3doVDk5NFdZTGtPcnc3dUJIb0owRVQ2REdNTWZ5X3dHa19jQ1VpRHVXWThUYmdkclpvUkRCNWUxZkdfMzFjbERNXzA5OUZSUGl4eTdFak5zT29mR2dRbUxGUW9MSHNfTDBDSXkteEdIdmNGRmFHSm9qTUk0X3hWQnctczU1RkVfRG9wNTJONHFsOWtQYTNLM29TU2ZsZDRa?oc=5)
+
+---
+
 ### [The Truth About Vaccine Schedules: An Injection of Politics?](https://news.google.com/rss/articles/CBMikAFBVV95cUxOTkloOWZ5WDMzdTVYM0EzTTBuY2JJUlh3NktQanFuRkh6UXI3MXVITFpYb1F4TDBRNG5xeVZVd3ZnUUJRaXZuWW1qXzRucU5UTUVqMURZNC1uUTRqMTRBV2dvTzVJdk1HMUJWdnI5TDNCYl96QTRJeGlVS3hCQ21LSEtZQ2JFdmczd2NMREJFNmU?oc=5)
 
 2026-10-02
@@ -79,19 +103,19 @@ Source: [Futurism](https://news.google.com/rss/articles/CBMieEFVX3lxTE1qc3ktcnRN
 
 ---
 
-### [Respiratory virus season has arrived. Flu, COVID-19 and RSV vaccines are available](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZThzUzV0anVybC1Kd19RTXNTbVNHT0FEZ3pyOUNzc1BEWG1INmZ6UVB2Q0hPQ2Q0UG5nR1dmdlV3b3NDbGhsazN4cE5MUjBYY2NEVTBCSXZpLXhPTlVxMlQzVUVYMUV1VldOaG1WNDQzc2hKWU03X0tha01SczdFbjhVbEYxTnZMMW91TzlPOGlwWXJuSGJSZ2NlZmdYaGhCQmhBZw?oc=5)
+### [A 'reality check' for lab-grown human embryo models](https://news.google.com/rss/articles/CBMic0FVX3lxTE12TnFTdUUtVHEtUEVtaTNRWHltc0xfTjVsY19nQzVGSUloeGhGei1Fcm5reWwwNDZ5TDROYTFLY0FCYTg3SzU2S2YtX2hBRWkyU08wZ3VId1RoLS02UXpuZkhYelVISlg5RHBMblpXQWdNV2M?oc=5)
 
 2026-10-02
 
-Source: [KSL.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZThzUzV0anVybC1Kd19RTXNTbVNHT0FEZ3pyOUNzc1BEWG1INmZ6UVB2Q0hPQ2Q0UG5nR1dmdlV3b3NDbGhsazN4cE5MUjBYY2NEVTBCSXZpLXhPTlVxMlQzVUVYMUV1VldOaG1WNDQzc2hKWU03X0tha01SczdFbjhVbEYxTnZMMW91TzlPOGlwWXJuSGJSZ2NlZmdYaGhCQmhBZw?oc=5)
+Source: [Phys.org](https://news.google.com/rss/articles/CBMic0FVX3lxTE12TnFTdUUtVHEtUEVtaTNRWHltc0xfTjVsY19nQzVGSUloeGhGei1Fcm5reWwwNDZ5TDROYTFLY0FCYTg3SzU2S2YtX2hBRWkyU08wZ3VId1RoLS02UXpuZkhYelVISlg5RHBMblpXQWdNV2M?oc=5)
 
 ---
 
-### [The AI Chatbots That Tech Companies Are Aggressively Pushing to Billions of Users Appear to Be Causing Serious Psychological Harms, New Research Finds](https://news.google.com/rss/articles/CBMijAFBVV95cUxNOWY5QXY5OUxjSnF5LWtuVmpBUTlOeHBPSzRoNU5DVHBQSmdtazdnUV9pb3FGVjZZM0JCdTZNUzhyTzZkbGNjcnFiWi1sdVdfY3FObzR0b2JEbC1jRXhXZ2d0NW1PMTZLVE5IQ0xGbjR4aWJJX1dtT0p0U2ZXY3k1XzZoZ0g0Y2pYdXdOSQ?oc=5)
+### [Space breakthrough as British rover sent to Mars on mission to discover humans' ancient ancestors - GB News](https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVhyb2JnUkdlRDM5WjFkcmVkV0xhM29YWjRKOE5fbng0NW9MS2s4Qm43bGo4bWxDbnpJTUdBR2tmMVB0TWp6WGlqRTZEalpOZjQtbE5zOHVuRFE2cFZQaHV1cWplZTBCWHExcWgwcmt0cXhEeFFLQ0JwU0RkNWE0Q3pjZ2ZCakNhNUtEeGdkT1c4bUxBTE4wck5UVXJOZnpaSmdB?oc=5)
 
 2026-10-02
 
-Source: [Futurism](https://news.google.com/rss/articles/CBMijAFBVV95cUxNOWY5QXY5OUxjSnF5LWtuVmpBUTlOeHBPSzRoNU5DVHBQSmdtazdnUV9pb3FGVjZZM0JCdTZNUzhyTzZkbGNjcnFiWi1sdVdfY3FObzR0b2JEbC1jRXhXZ2d0NW1PMTZLVE5IQ0xGbjR4aWJJX1dtT0p0U2ZXY3k1XzZoZ0g0Y2pYdXdOSQ?oc=5)
+Source: [GB News](https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVhyb2JnUkdlRDM5WjFkcmVkV0xhM29YWjRKOE5fbng0NW9MS2s4Qm43bGo4bWxDbnpJTUdBR2tmMVB0TWp6WGlqRTZEalpOZjQtbE5zOHVuRFE2cFZQaHV1cWplZTBCWHExcWgwcmt0cXhEeFFLQ0JwU0RkNWE0Q3pjZ2ZCakNhNUtEeGdkT1c4bUxBTE4wck5UVXJOZnpaSmdB?oc=5)
 
 ---
 
@@ -108,14 +132,6 @@ Source: [AOL.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxPOFNpWGRCa
 2026-10-02
 
 Source: [Space](https://news.google.com/rss/articles/CBMizAFBVV95cUxOZmYtUWstSGlfWWhNdExNaFFZT0hsVnVoTUotRkJnbmExWm0wRUI4OTQyNk1CTVlRcHFBa1p1NFlscHRLbG1hdkVhYVIwYVJUNk9KWGotMVVzUnpaZnFyVTV2TGZKbXZtOEtnZVRwOWVqakhYTlBaYk80U010ZVlVRFVpcDRySl9kNUpreUF2Qlp4YmJES05RMGo3S2tBTEJ1LVBCNmQ5aF9MYW01TEtib2U1X3RqUjZuSFlJVk0zV3Y2YXB3MHdHbVlwdUE?oc=5)
-
----
-
-### [Grail's cancer blood test nears landmark FDA approval, but insurance coverage looms](https://news.google.com/rss/articles/CBMiygFBVV95cUxOWnUwVmV6NTJsWWhPaklqMm1qSDMwRFlDNEVaaXU0akRMS09FUF9yRWx3NFRLdlhFR2lVbF9oTzZURWhuTTZGTU9pMTNfU2hDVzhMRDZIVzlyZm1VOVdNNzBCTkxsNzRVTmxIRjJrdHZlNUVDNnRUX3JsSmhlRzE1X1ZDNlBOYXpQcU5USkgydlpLYk92ZWhSNEt4bzgwOXlXc3JCcFN3SWU1d3VkYTFyWnlqdHB5U1RvRk1iaVBhMTFQNGdtZ3FGYl9n?oc=5)
-
-2026-10-02
-
-Source: [Reuters](https://news.google.com/rss/articles/CBMiygFBVV95cUxOWnUwVmV6NTJsWWhPaklqMm1qSDMwRFlDNEVaaXU0akRMS09FUF9yRWx3NFRLdlhFR2lVbF9oTzZURWhuTTZGTU9pMTNfU2hDVzhMRDZIVzlyZm1VOVdNNzBCTkxsNzRVTmxIRjJrdHZlNUVDNnRUX3JsSmhlRzE1X1ZDNlBOYXpQcU5USkgydlpLYk92ZWhSNEt4bzgwOXlXc3JCcFN3SWU1d3VkYTFyWnlqdHB5U1RvRk1iaVBhMTFQNGdtZ3FGYl9n?oc=5)
 
 ---
 
@@ -143,19 +159,19 @@ Source: [Spectrum News](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQkV
 
 ---
 
+### [People who walk more or walk faster live longer, study finds](https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWVwNUJsMmJPNWRzMmdhdDl1WnVGOTZPVFl2eFZfZ0tHTFBJOWpDVFkwU1EyMzZFZTJkUm5yMVpsNjI4eks0TGtjRWlNX1BpZkRrdlhZOGRsdlFlZFEzWjNKaUVLbngtYjNoREZVUEVlbU9zOXlIbUFGbTFUUDZ3NDFOS21BZHV0YnJFcDBpVzRjQkpsbl8xRTl5ZnlFU3JLTDhObUd3?oc=5)
+
+2026-10-02
+
+Source: [health.harvard.edu](https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWVwNUJsMmJPNWRzMmdhdDl1WnVGOTZPVFl2eFZfZ0tHTFBJOWpDVFkwU1EyMzZFZTJkUm5yMVpsNjI4eks0TGtjRWlNX1BpZkRrdlhZOGRsdlFlZFEzWjNKaUVLbngtYjNoREZVUEVlbU9zOXlIbUFGbTFUUDZ3NDFOS21BZHV0YnJFcDBpVzRjQkpsbl8xRTl5ZnlFU3JLTDhObUd3?oc=5)
+
+---
+
 ### [Opinion | Why don’t more women know about fallopian tube removal? - The Washington Post](https://news.google.com/rss/articles/CBMiowFBVV95cUxORG91VjA3WURUbm5oYlRCeFVOOHBvYWdLNGJRZGxKOHZ4Wjd3ZFMwMGxXdTB0emNKNU9UY3FGZnBwQWwxczRDZzFHWnNMd1VEUURFMmV0VGt0NjdVYzJQakR1NlRDUjI0TmozRWROZ3IyOXpQSU5mZGllaDN4YzgxSFZvQ0kzZmc4OFpQcmZ6REhNUXhvYmM4WDJLWmxTU2IwUzY4?oc=5)
 
 2026-10-02
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMiowFBVV95cUxORG91VjA3WURUbm5oYlRCeFVOOHBvYWdLNGJRZGxKOHZ4Wjd3ZFMwMGxXdTB0emNKNU9UY3FGZnBwQWwxczRDZzFHWnNMd1VEUURFMmV0VGt0NjdVYzJQakR1NlRDUjI0TmozRWROZ3IyOXpQSU5mZGllaDN4YzgxSFZvQ0kzZmc4OFpQcmZ6REhNUXhvYmM4WDJLWmxTU2IwUzY4?oc=5)
-
----
-
-### [Colon cancer at 44: Michigan dad shares warning signs and why screening matters - ClickOnDetroit | WDIV Local 4](https://news.google.com/rss/articles/CBMizAFBVV95cUxOX3VjeWVoY1hNamp2dTgyN2tQWTBmU053V09Oc3lwa0t2V09PMzJORUZZLXZfNmV5WnR0WWlENENmWncydFRUeERoSU9CTzNKV3Ffa3VmSTQ1ck5uSHNqb0tTR1VoVWpyUUIyaG9PSW5rLUVmNUJIMEdFanNuemh4WEYxUDZGcWh1NUVHV01yTndIbzZSNXRWR1QxQUlJRTJqZTk0VDNUbWs0V3ZoQTE3TWNKU2pFaVNBZjU4d0JRWDB0cnE5bzVTcHJzNlY?oc=5)
-
-2026-10-01
-
-Source: [ClickOnDetroit | WDIV Local 4](https://news.google.com/rss/articles/CBMizAFBVV95cUxOX3VjeWVoY1hNamp2dTgyN2tQWTBmU053V09Oc3lwa0t2V09PMzJORUZZLXZfNmV5WnR0WWlENENmWncydFRUeERoSU9CTzNKV3Ffa3VmSTQ1ck5uSHNqb0tTR1VoVWpyUUIyaG9PSW5rLUVmNUJIMEdFanNuemh4WEYxUDZGcWh1NUVHV01yTndIbzZSNXRWR1QxQUlJRTJqZTk0VDNUbWs0V3ZoQTE3TWNKU2pFaVNBZjU4d0JRWDB0cnE5bzVTcHJzNlY?oc=5)
 
 ---
 
@@ -175,22 +191,6 @@ Source: [Prevention](https://news.google.com/rss/articles/CBMihgFBVV95cUxNZWNvVj
 
 ---
 
-### [The solar system could be destroyed much sooner than we thought, scientists say - The Independent](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUHdTQVhkaWZ4UnVKXzMxRk5VVUpSOVNSS2lpWTVsSTFHeHliR3dRaXZRcUFibUpycUl4TjJKSmZpOGI5SVdmUEp6VkU0STFTdDFFeGdVdHFSSUZxXzA2V1Ywa1ZYbEc4LXl0YXJPMXpma29CYmI4MFNNVTE0WTFGSlhCRWlhakVm?oc=5)
-
-2026-10-01
-
-Source: [The Independent](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUHdTQVhkaWZ4UnVKXzMxRk5VVUpSOVNSS2lpWTVsSTFHeHliR3dRaXZRcUFibUpycUl4TjJKSmZpOGI5SVdmUEp6VkU0STFTdDFFeGdVdHFSSUZxXzA2V1Ywa1ZYbEc4LXl0YXJPMXpma29CYmI4MFNNVTE0WTFGSlhCRWlhakVm?oc=5)
-
----
-
-### [The ‘missed disease’ that affects 190 million: endometriosis drug shows early promise](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FQlNOQ04yay1Pc2RvOVBFeUlPeFFMcGhQS196OHhSeDd1ZDRPWnBQSndjQWlsVlJlNWp0VnhYMXA3Nl9EaVRVdzBTeGFRZVhTYzVBWmtXQkJJUHhhbjY0?oc=5)
-
-2026-10-01
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FQlNOQ04yay1Pc2RvOVBFeUlPeFFMcGhQS196OHhSeDd1ZDRPWnBQSndjQWlsVlJlNWp0VnhYMXA3Nl9EaVRVdzBTeGFRZVhTYzVBWmtXQkJJUHhhbjY0?oc=5)
-
----
-
 ### [Evolution of terrestrial anatomy revealed by a derived stem tetrapod](https://news.google.com/rss/articles/CBMiX0FVX3lxTFByZGlhUHpVZWxwNjd6c043eDRpd0F5M25kMmttVW9hVVVnRnRMbzhsMzVSekxFS2JmOUhPSFhqUVYxdEFLNzExNVprcTNiQlNlNUZWaEZIYnp2UFJuSkxv?oc=5)
 
 2026-09-30
@@ -199,27 +199,11 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFByZGlhUHpVZW
 
 ---
 
-### [Dynamic protrusions mediate crawling motility in Asgard archaea](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnd3ZJTUw1NW5aemY0SGNqbEEzazNYNF92WF9HU0JDdDNOcXZqSGVlODhxaThVLWRvNHRSeE9qcWJXTlZvdVpqbU9BT3NkLXRSczNpTGFjN2JudEd3S21V?oc=5)
-
-2026-09-30
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnd3ZJTUw1NW5aemY0SGNqbEEzazNYNF92WF9HU0JDdDNOcXZqSGVlODhxaThVLWRvNHRSeE9qcWJXTlZvdVpqbU9BT3NkLXRSczNpTGFjN2JudEd3S21V?oc=5)
-
----
-
 ### [This leg condition that’s overlooked in women can raise heart attack, stroke risk - The Washington Post](https://news.google.com/rss/articles/CBMivwFBVV95cUxOcHFhUG1aUTZfTUo4OHpZZ2gyc1Z1ck9FVTV1MnlOWFJlWHk2d20tX0FmWHRvOFZOSDFscEJ4R1VpQlNqczF6aXNOX1BzSHhnNnBvdlltTGp3UUV1ZHNnMnlCUEMxRTBiMnhLMnkzeG4tQVlrdkVCRGtBbGtrQmJVTnJtdjR1WnRFVXZHUTlWVzk3VElHR005NWd6R2RNUUFSa1BHcXBHcGV2SjNNa0Q2OFlyRzNEcVh3Nkx5TXduNA?oc=5)
 
 2026-09-30
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMivwFBVV95cUxOcHFhUG1aUTZfTUo4OHpZZ2gyc1Z1ck9FVTV1MnlOWFJlWHk2d20tX0FmWHRvOFZOSDFscEJ4R1VpQlNqczF6aXNOX1BzSHhnNnBvdlltTGp3UUV1ZHNnMnlCUEMxRTBiMnhLMnkzeG4tQVlrdkVCRGtBbGtrQmJVTnJtdjR1WnRFVXZHUTlWVzk3VElHR005NWd6R2RNUUFSa1BHcXBHcGV2SjNNa0Q2OFlyRzNEcVh3Nkx5TXduNA?oc=5)
-
----
-
-### [Suns set on hunt for giant planets in nearby binary system](https://news.google.com/rss/articles/CBMidkFVX3lxTE1IZzNybjZCLXlGTmg3c295aDE5bzJ1ZlNBNWEzbWl3UXViSUJxa3lRX3c2UHBPYW1INTlvN3NHbHBEaUliX1kyUFI2MUFtQ2doakVkaG5IaENZOUZ6Mmh0UzYydkQ4bTliVFRiOERvdExzREcwOWc?oc=5)
-
-2026-09-29
-
-Source: [Phys.org](https://news.google.com/rss/articles/CBMidkFVX3lxTE1IZzNybjZCLXlGTmg3c295aDE5bzJ1ZlNBNWEzbWl3UXViSUJxa3lRX3c2UHBPYW1INTlvN3NHbHBEaUliX1kyUFI2MUFtQ2doakVkaG5IaENZOUZ6Mmh0UzYydkQ4bTliVFRiOERvdExzREcwOWc?oc=5)
 
 ---
 

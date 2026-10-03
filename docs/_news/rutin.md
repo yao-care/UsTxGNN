@@ -14,7 +14,7 @@ permalink: /news/rutin/
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>13 news articles</strong>, with 8 predicted indications.
+<strong>Rutin</strong> currently has <strong>8 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,13 +38,13 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
+## Related News (8)
 
-### [This Mealtime Habit May Help Reduce Blood Sugar Spikes, New Study Says](https://news.google.com/rss/articles/CBMiggFBVV95cUxQeXQzZk5HN0t2VVZSQ2M0LVo4bTVFQm1XT25EQ1FRT1VuNGs4bFNpVl9yeVpZWWk0X2NsY3E0RmJBMFdXX2RSWm9uMHNiOWZwUXFSSnA0TFN5Sk40d1B0aG12Yk9BMFlfbm15MU0xbF9FLTh5VFdNMExCMWVKZXJHRGtB?oc=5)
+### [Our Solar System Is Terminally Unstable and Will Be Completely Destroyed, Study Finds - 404 Media](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZjlESnc1TGdWdHNjUHBuMG1pUFJOQ09zNGt6THR6cnhXVjNPLUQxNEhGM1ljcXZlemhrcFpjdXZMc3BqdVRMSWhCZ1JOUGloemhOREJ4Z2hPQzVxTDk1WS1HY28zZ1VEbXBxM09aR09OZjZZMkpPaWhFV0d2ZUtrMngwVk9OUV9RYWh1M01oUUw1b3A5WVkwNWhyY0tUekJtWGp2OXNIQjhJOVFMSEE?oc=5)
 
-2026-10-02 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-10-03 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
-Source: [EatingWell](https://news.google.com/rss/articles/CBMiggFBVV95cUxQeXQzZk5HN0t2VVZSQ2M0LVo4bTVFQm1XT25EQ1FRT1VuNGs4bFNpVl9yeVpZWWk0X2NsY3E0RmJBMFdXX2RSWm9uMHNiOWZwUXFSSnA0TFN5Sk40d1B0aG12Yk9BMFlfbm15MU0xbF9FLTh5VFdNMExCMWVKZXJHRGtB?oc=5)
+Source: [404 Media](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZjlESnc1TGdWdHNjUHBuMG1pUFJOQ09zNGt6THR6cnhXVjNPLUQxNEhGM1ljcXZlemhrcFpjdXZMc3BqdVRMSWhCZ1JOUGloemhOREJ4Z2hPQzVxTDk1WS1HY28zZ1VEbXBxM09aR09OZjZZMkpPaWhFV0d2ZUtrMngwVk9OUV9RYWh1M01oUUw1b3A5WVkwNWhyY0tUekJtWGp2OXNIQjhJOVFMSEE?oc=5)
 
 ---
 
@@ -58,17 +58,9 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMihAFBVV95cUxOZjJobUpR
 
 ### [New weight-loss injection targets fat cells: CBL-514 selectively induces apoptosis of fat cells - Medical Xpress](https://news.google.com/rss/articles/CBMieEFVX3lxTE5qQmlnQjNOS0FqT3dkT2ZBbWJzY3Bmcl92OTBsZ0hfZTc1QWs3d0hTVGtXUWZNejYxVTd0NHZpT3o5dDNKdV9EVEhTYjBPWFZmWXBKSHhTb2JMXzFaejREOU93QkZfSE0tNi1FTUpuVnMwcUhLRDZXcg?oc=5)
 
-2026-10-02 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-10-02 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMieEFVX3lxTE5qQmlnQjNOS0FqT3dkT2ZBbWJzY3Bmcl92OTBsZ0hfZTc1QWs3d0hTVGtXUWZNejYxVTd0NHZpT3o5dDNKdV9EVEhTYjBPWFZmWXBKSHhTb2JMXzFaejREOU93QkZfSE0tNi1FTUpuVnMwcUhLRDZXcg?oc=5)
-
----
-
-### [New report says only 6% of adults are eating enough fiber: How to eat more - Good Morning America](https://news.google.com/rss/articles/CBMilwFBVV95cUxQeHBfREs5Q0hWVE03QVRlU3FKNlg3ZzlLbDdNRUFKalZRWTdKOFNadHdRSmtvaWIwcXFSUmxYWlhCRkc4NHhWeU1pdHZHUVVEejZVQkF6NEVYazNwdW0ySzhXWUZfME9SZnBZLXpIcVl0NUZlSnJuRjJMUlA5MkM1T3pIbmNIVWtwOWxrT3p2dHo1VUFHWTgw0gGcAUFVX3lxTE0wTHg1bXVXcU0tVENKYXFkNHBHR25aRVBka2JXcklueWtMVU9nenRCSDBndU1NZTNxTWpWZWZoMEI3Nk5OQkloeFNJRDlfTGdrTDF2aTdDRUtUWDg3V1M0bXNBWlczRjVDazN1THhVZzZJU1VXLVVnczFLT0djaFg3elpQLVBMbFA1eHVjZFZwVDc5YWxxYjdyNFd6Yw?oc=5)
-
-2026-10-02 <span class="news-indication-tag">OA</span> <span class="news-indication-tag">UC</span>
-
-Source: [Good Morning America](https://news.google.com/rss/articles/CBMilwFBVV95cUxQeHBfREs5Q0hWVE03QVRlU3FKNlg3ZzlLbDdNRUFKalZRWTdKOFNadHdRSmtvaWIwcXFSUmxYWlhCRkc4NHhWeU1pdHZHUVVEejZVQkF6NEVYazNwdW0ySzhXWUZfME9SZnBZLXpIcVl0NUZlSnJuRjJMUlA5MkM1T3pIbmNIVWtwOWxrT3p2dHo1VUFHWTgw0gGcAUFVX3lxTE0wTHg1bXVXcU0tVENKYXFkNHBHR25aRVBka2JXcklueWtMVU9nenRCSDBndU1NZTNxTWpWZWZoMEI3Nk5OQkloeFNJRDlfTGdrTDF2aTdDRUtUWDg3V1M0bXNBWlczRjVDazN1THhVZzZJU1VXLVVnczFLT0djaFg3elpQLVBMbFA1eHVjZFZwVDc5YWxxYjdyNFd6Yw?oc=5)
 
 ---
 
@@ -101,38 +93,6 @@ Source: [Prevention](https://news.google.com/rss/articles/CBMihgFBVV95cUxNZWNvVj
 2026-10-01 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY2FONG9OVTRfeTFROWI0SWhtbTlkWllkUlAwZk8yMG1mOU5jNWRJU0lienpiODlGNWFFSzR5OUxyZFB3QjY2QzBhNWVRMDhvY054cnFQODlQaDA2S0xxVnBKbTN0ZDlnUG9adTk3QmJlVHFLUHVqeE5TZEwtQlFuM3U2ZHpaUk81bmZYQkxaaGRpRy1pSmRnVXpnQTBMaVhoSUZUamVoblhMZnRCQTh0TUJBdGlLcS02MUpCN2cyc3hjZw?oc=5)
-
----
-
-### [The solar system could be destroyed much sooner than we thought, scientists say - The Independent](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUHdTQVhkaWZ4UnVKXzMxRk5VVUpSOVNSS2lpWTVsSTFHeHliR3dRaXZRcUFibUpycUl4TjJKSmZpOGI5SVdmUEp6VkU0STFTdDFFeGdVdHFSSUZxXzA2V1Ywa1ZYbEc4LXl0YXJPMXpma29CYmI4MFNNVTE0WTFGSlhCRWlhakVm?oc=5)
-
-2026-10-01 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
-
-Source: [The Independent](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUHdTQVhkaWZ4UnVKXzMxRk5VVUpSOVNSS2lpWTVsSTFHeHliR3dRaXZRcUFibUpycUl4TjJKSmZpOGI5SVdmUEp6VkU0STFTdDFFeGdVdHFSSUZxXzA2V1Ywa1ZYbEc4LXl0YXJPMXpma29CYmI4MFNNVTE0WTFGSlhCRWlhakVm?oc=5)
-
----
-
-### [Suns set on hunt for giant planets in nearby binary system](https://news.google.com/rss/articles/CBMidkFVX3lxTE1IZzNybjZCLXlGTmg3c295aDE5bzJ1ZlNBNWEzbWl3UXViSUJxa3lRX3c2UHBPYW1INTlvN3NHbHBEaUliX1kyUFI2MUFtQ2doakVkaG5IaENZOUZ6Mmh0UzYydkQ4bTliVFRiOERvdExzREcwOWc?oc=5)
-
-2026-09-29 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
-
-Source: [Phys.org](https://news.google.com/rss/articles/CBMidkFVX3lxTE1IZzNybjZCLXlGTmg3c295aDE5bzJ1ZlNBNWEzbWl3UXViSUJxa3lRX3c2UHBPYW1INTlvN3NHbHBEaUliX1kyUFI2MUFtQ2doakVkaG5IaENZOUZ6Mmh0UzYydkQ4bTliVFRiOERvdExzREcwOWc?oc=5)
-
----
-
-### [Soaring cancer rates in Iowa emerge as a key US midterms issue](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEJkMzJPVUdxcURGcjEwcG1CbzJGc2c2Z2VybVU1N1JiajVGWFV0VjcxQUVtbXk4TGFJRHpnRGdQMUhxd1k2QUFHZjRDWTJTVldNXzI2REl0alIxS3VtM2RNSTZVNW5HX2stT0N1WlhyZmF5a3FGTWZJU1hTd2Uzbk4wT3RIQ1c1TjV3X1NaTS1aVFJGN05Gb1FMZFpoSWQ4Y1ZoWG9VVm9ubE53YlZ5YzNmRjVfNkQwVTh1bElsRUM?oc=5)
-
-2026-09-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEJkMzJPVUdxcURGcjEwcG1CbzJGc2c2Z2VybVU1N1JiajVGWFV0VjcxQUVtbXk4TGFJRHpnRGdQMUhxd1k2QUFHZjRDWTJTVldNXzI2REl0alIxS3VtM2RNSTZVNW5HX2stT0N1WlhyZmF5a3FGTWZJU1hTd2Uzbk4wT3RIQ1c1TjV3X1NaTS1aVFJGN05Gb1FMZFpoSWQ4Y1ZoWG9VVm9ubE53YlZ5YzNmRjVfNkQwVTh1bElsRUM?oc=5)
-
----
-
-### [Old hearts age backwards: transplanted organs adjust to host’s biological age](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5odTVabk9yNU5pVTB0eVFvVHVUMGlncUpjRmp1Q3JkNXlmSTBGREx2OUxldEM4WUVCNW4xVXBjbFpEa0xMV2Vic1lfZjVYZ3FMcTlnVnBjRXlrYlVYdXBn?oc=5)
-
-2026-09-28 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5odTVabk9yNU5pVTB0eVFvVHVUMGlncUpjRmp1Q3JkNXlmSTBGREx2OUxldEM4WUVCNW4xVXBjbFpEa0xMV2Vic1lfZjVYZ3FMcTlnVnBjRXlrYlVYdXBn?oc=5)
 
 ---
 

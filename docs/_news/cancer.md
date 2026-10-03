@@ -3,7 +3,7 @@ layout: default
 title: "tumor (cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about tumor (cancer). 10 articles, 1 related drugs."
+description: "Health news about tumor (cancer). 11 articles, 1 related drugs."
 permalink: /news/cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cancer/
 ---
 
 <p class="key-answer" data-question="What news is there about tumor (cancer)?">
-<strong>tumor (cancer)</strong> currently has <strong>10 news articles</strong> and 1 related drugs.
+<strong>tumor (cancer)</strong> currently has <strong>11 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ This page brings together the latest health news about “tumor” and lists the
 </ul>
 </div>
 
-## Related News (10)
+## Related News (11)
 
 ### [Scientists Untangle the Biology of an ‘Undruggable’ Cancer Gene - The New York Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdDZxVGs2MkFnenNPR3VKV0ZQck14TDhQWnMwaTF4NThqSWZFMFVlcFlIUFREZGRqMlZnSENBcWVvbC02ZExCSllkdUhfNmVINHRhWmZxWGJ6M0N2MTVYVlBVNlF6UWtTR0dRaHFUWmt5Zjc2RENUcHJUaUdLeTVkSm41TFFjcmFKQXVFVV9TOHlkUW5PdzdzZUZ3VXZWQ1drWC1YX0tRWFM1aVpWdmc?oc=5)
 
@@ -43,7 +43,7 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMirgFBVV95cU
 
 2026-10-02
 
-Source: [gizmodo.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUU1ZMGhha3ZGbWJmdllMZHQybEx2YTFrNC1kSk1PX3doeXlBVlI5eWJIZHYydHlZaUg3TlRveXVSWDl4NUw1cTl4OXBURWJwUkpOMG1iaFg0cklWbVBpYTNVckhpMUVPTEcwRklYbFZjZURwOHFMTy1CSGZBV3o4TVFDWWx0MGZVXy1HN3hjNzJvUThUTllWN1A4NVBjV3lIM2llX2hYVUp2akZZSVh1aGRTQVpVRGhyaHhF?oc=5)
+Source: [Gizmodo](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUU1ZMGhha3ZGbWJmdllMZHQybEx2YTFrNC1kSk1PX3doeXlBVlI5eWJIZHYydHlZaUg3TlRveXVSWDl4NUw1cTl4OXBURWJwUkpOMG1iaFg0cklWbVBpYTNVckhpMUVPTEcwRklYbFZjZURwOHFMTy1CSGZBV3o4TVFDWWx0MGZVXy1HN3hjNzJvUThUTllWN1A4NVBjV3lIM2llX2hYVUp2akZZSVh1aGRTQVpVRGhyaHhF?oc=5)
 
 ---
 
@@ -79,11 +79,11 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMiowFBVV95c
 
 ---
 
-### [Colon cancer at 44: Michigan dad shares warning signs and why screening matters - ClickOnDetroit | WDIV Local 4](https://news.google.com/rss/articles/CBMizAFBVV95cUxOX3VjeWVoY1hNamp2dTgyN2tQWTBmU053V09Oc3lwa0t2V09PMzJORUZZLXZfNmV5WnR0WWlENENmWncydFRUeERoSU9CTzNKV3Ffa3VmSTQ1ck5uSHNqb0tTR1VoVWpyUUIyaG9PSW5rLUVmNUJIMEdFanNuemh4WEYxUDZGcWh1NUVHV01yTndIbzZSNXRWR1QxQUlJRTJqZTk0VDNUbWs0V3ZoQTE3TWNKU2pFaVNBZjU4d0JRWDB0cnE5bzVTcHJzNlY?oc=5)
+### [Breast Oncologist Warns: Don't Ignore Skin Dimpling—It Could Signal Cancer](https://news.google.com/rss/articles/CBMihgFBVV95cUxNR00xcTA0bFVBMDdCc181S1V3T0pFVHhpcThJOW1MXzZlTlROTG1MSFUyRXQ2ZVJPQ25iYXlMSWZXdmxjM3BGZ0QwWEN0czQ1VEV3TTBMbGdxS1c3dER4aTRjZmxRSzN6ZHYtM0twbzJ5LVpTbmJ2THZMSHlEd0U5NjJSUGVHdw?oc=5)
 
 2026-10-01
 
-Source: [ClickOnDetroit | WDIV Local 4](https://news.google.com/rss/articles/CBMizAFBVV95cUxOX3VjeWVoY1hNamp2dTgyN2tQWTBmU053V09Oc3lwa0t2V09PMzJORUZZLXZfNmV5WnR0WWlENENmWncydFRUeERoSU9CTzNKV3Ffa3VmSTQ1ck5uSHNqb0tTR1VoVWpyUUIyaG9PSW5rLUVmNUJIMEdFanNuemh4WEYxUDZGcWh1NUVHV01yTndIbzZSNXRWR1QxQUlJRTJqZTk0VDNUbWs0V3ZoQTE3TWNKU2pFaVNBZjU4d0JRWDB0cnE5bzVTcHJzNlY?oc=5)
+Source: [AOL.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxNR00xcTA0bFVBMDdCc181S1V3T0pFVHhpcThJOW1MXzZlTlROTG1MSFUyRXQ2ZVJPQ25iYXlMSWZXdmxjM3BGZ0QwWEN0czQ1VEV3TTBMbGdxS1c3dER4aTRjZmxRSzN6ZHYtM0twbzJ5LVpTbmJ2THZMSHlEd0U5NjJSUGVHdw?oc=5)
 
 ---
 
@@ -108,6 +108,14 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMitAFBVV95cU
 2026-09-29
 
 Source: [Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEJkMzJPVUdxcURGcjEwcG1CbzJGc2c2Z2VybVU1N1JiajVGWFV0VjcxQUVtbXk4TGFJRHpnRGdQMUhxd1k2QUFHZjRDWTJTVldNXzI2REl0alIxS3VtM2RNSTZVNW5HX2stT0N1WlhyZmF5a3FGTWZJU1hTd2Uzbk4wT3RIQ1c1TjV3X1NaTS1aVFJGN05Gb1FMZFpoSWQ4Y1ZoWG9VVm9ubE53YlZ5YzNmRjVfNkQwVTh1bElsRUM?oc=5)
+
+---
+
+### [One shot or two? Latest HPV vaccine schedule guidance as ‘significant shift’ looms - The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRndjbU11MFJVaUlaVmVHTmt1U2dsaGxtTXZFWWJQemVjZkE1T1N6N1VDZU9jY0NkblUxYXRsMVpjNXZQdUh6ZzlEZWRrdmQ3S1RudmgzR0JSbGxnV2FiOGdjZktfSGdKdW9SYUF3MHhseWROZlZDZlZhRlpyUzhRbkxnYm1rdzdBYUoxRzlyc1F3Wmt0cHNERGRoQkNZWkNGZTc2TWNwaFJPRXM?oc=5)
+
+2026-09-26
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRndjbU11MFJVaUlaVmVHTmt1U2dsaGxtTXZFWWJQemVjZkE1T1N6N1VDZU9jY0NkblUxYXRsMVpjNXZQdUh6ZzlEZWRrdmQ3S1RudmgzR0JSbGxnV2FiOGdjZktfSGdKdW9SYUF3MHhseWROZlZDZlZhRlpyUzhRbkxnYm1rdzdBYUoxRzlyc1F3Wmt0cHNERGRoQkNZWkNGZTc2TWNwaFJPRXM?oc=5)
 
 ---
 

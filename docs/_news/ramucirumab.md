@@ -14,7 +14,7 @@ permalink: /news/ramucirumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>11 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (11)
 
 ### [Scientists Untangle the Biology of an ‘Undruggable’ Cancer Gene - The New York Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdDZxVGs2MkFnenNPR3VKV0ZQck14TDhQWnMwaTF4NThqSWZFMFVlcFlIUFREZGRqMlZnSENBcWVvbC02ZExCSllkdUhfNmVINHRhWmZxWGJ6M0N2MTVYVlBVNlF6UWtTR0dRaHFUWmt5Zjc2RENUcHJUaUdLeTVkSm41TFFjcmFKQXVFVV9TOHlkUW5PdzdzZUZ3VXZWQ1drWC1YX0tRWFM1aVpWdmc?oc=5)
 
@@ -54,13 +54,13 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMirgFBVV95cU
 
 2026-10-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
-Source: [gizmodo.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUU1ZMGhha3ZGbWJmdllMZHQybEx2YTFrNC1kSk1PX3doeXlBVlI5eWJIZHYydHlZaUg3TlRveXVSWDl4NUw1cTl4OXBURWJwUkpOMG1iaFg0cklWbVBpYTNVckhpMUVPTEcwRklYbFZjZURwOHFMTy1CSGZBV3o4TVFDWWx0MGZVXy1HN3hjNzJvUThUTllWN1A4NVBjV3lIM2llX2hYVUp2akZZSVh1aGRTQVpVRGhyaHhF?oc=5)
+Source: [Gizmodo](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUU1ZMGhha3ZGbWJmdllMZHQybEx2YTFrNC1kSk1PX3doeXlBVlI5eWJIZHYydHlZaUg3TlRveXVSWDl4NUw1cTl4OXBURWJwUkpOMG1iaFg0cklWbVBpYTNVckhpMUVPTEcwRklYbFZjZURwOHFMTy1CSGZBV3o4TVFDWWx0MGZVXy1HN3hjNzJvUThUTllWN1A4NVBjV3lIM2llX2hYVUp2akZZSVh1aGRTQVpVRGhyaHhF?oc=5)
 
 ---
 
 ### [Grail's cancer blood test nears landmark FDA approval, but insurance coverage looms](https://news.google.com/rss/articles/CBMiygFBVV95cUxOWnUwVmV6NTJsWWhPaklqMm1qSDMwRFlDNEVaaXU0akRMS09FUF9yRWx3NFRLdlhFR2lVbF9oTzZURWhuTTZGTU9pMTNfU2hDVzhMRDZIVzlyZm1VOVdNNzBCTkxsNzRVTmxIRjJrdHZlNUVDNnRUX3JsSmhlRzE1X1ZDNlBOYXpQcU5USkgydlpLYk92ZWhSNEt4bzgwOXlXc3JCcFN3SWU1d3VkYTFyWnlqdHB5U1RvRk1iaVBhMTFQNGdtZ3FGYl9n?oc=5)
 
-2026-10-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+2026-10-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
 Source: [Reuters](https://news.google.com/rss/articles/CBMiygFBVV95cUxOWnUwVmV6NTJsWWhPaklqMm1qSDMwRFlDNEVaaXU0akRMS09FUF9yRWx3NFRLdlhFR2lVbF9oTzZURWhuTTZGTU9pMTNfU2hDVzhMRDZIVzlyZm1VOVdNNzBCTkxsNzRVTmxIRjJrdHZlNUVDNnRUX3JsSmhlRzE1X1ZDNlBOYXpQcU5USkgydlpLYk92ZWhSNEt4bzgwOXlXc3JCcFN3SWU1d3VkYTFyWnlqdHB5U1RvRk1iaVBhMTFQNGdtZ3FGYl9n?oc=5)
 
@@ -90,11 +90,11 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMiowFBVV95c
 
 ---
 
-### [Colon cancer at 44: Michigan dad shares warning signs and why screening matters - ClickOnDetroit | WDIV Local 4](https://news.google.com/rss/articles/CBMizAFBVV95cUxOX3VjeWVoY1hNamp2dTgyN2tQWTBmU053V09Oc3lwa0t2V09PMzJORUZZLXZfNmV5WnR0WWlENENmWncydFRUeERoSU9CTzNKV3Ffa3VmSTQ1ck5uSHNqb0tTR1VoVWpyUUIyaG9PSW5rLUVmNUJIMEdFanNuemh4WEYxUDZGcWh1NUVHV01yTndIbzZSNXRWR1QxQUlJRTJqZTk0VDNUbWs0V3ZoQTE3TWNKU2pFaVNBZjU4d0JRWDB0cnE5bzVTcHJzNlY?oc=5)
+### [Breast Oncologist Warns: Don't Ignore Skin Dimpling—It Could Signal Cancer](https://news.google.com/rss/articles/CBMihgFBVV95cUxNR00xcTA0bFVBMDdCc181S1V3T0pFVHhpcThJOW1MXzZlTlROTG1MSFUyRXQ2ZVJPQ25iYXlMSWZXdmxjM3BGZ0QwWEN0czQ1VEV3TTBMbGdxS1c3dER4aTRjZmxRSzN6ZHYtM0twbzJ5LVpTbmJ2THZMSHlEd0U5NjJSUGVHdw?oc=5)
 
-2026-10-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
+2026-10-01 <span class="news-indication-tag">cancer</span>
 
-Source: [ClickOnDetroit | WDIV Local 4](https://news.google.com/rss/articles/CBMizAFBVV95cUxOX3VjeWVoY1hNamp2dTgyN2tQWTBmU053V09Oc3lwa0t2V09PMzJORUZZLXZfNmV5WnR0WWlENENmWncydFRUeERoSU9CTzNKV3Ffa3VmSTQ1ck5uSHNqb0tTR1VoVWpyUUIyaG9PSW5rLUVmNUJIMEdFanNuemh4WEYxUDZGcWh1NUVHV01yTndIbzZSNXRWR1QxQUlJRTJqZTk0VDNUbWs0V3ZoQTE3TWNKU2pFaVNBZjU4d0JRWDB0cnE5bzVTcHJzNlY?oc=5)
+Source: [AOL.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxNR00xcTA0bFVBMDdCc181S1V3T0pFVHhpcThJOW1MXzZlTlROTG1MSFUyRXQ2ZVJPQ25iYXlMSWZXdmxjM3BGZ0QwWEN0czQ1VEV3TTBMbGdxS1c3dER4aTRjZmxRSzN6ZHYtM0twbzJ5LVpTbmJ2THZMSHlEd0U5NjJSUGVHdw?oc=5)
 
 ---
 
@@ -116,9 +116,17 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMitAFBVV95cU
 
 ### [Soaring cancer rates in Iowa emerge as a key US midterms issue](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEJkMzJPVUdxcURGcjEwcG1CbzJGc2c2Z2VybVU1N1JiajVGWFV0VjcxQUVtbXk4TGFJRHpnRGdQMUhxd1k2QUFHZjRDWTJTVldNXzI2REl0alIxS3VtM2RNSTZVNW5HX2stT0N1WlhyZmF5a3FGTWZJU1hTd2Uzbk4wT3RIQ1c1TjV3X1NaTS1aVFJGN05Gb1FMZFpoSWQ4Y1ZoWG9VVm9ubE53YlZ5YzNmRjVfNkQwVTh1bElsRUM?oc=5)
 
-2026-09-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-09-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
 Source: [Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEJkMzJPVUdxcURGcjEwcG1CbzJGc2c2Z2VybVU1N1JiajVGWFV0VjcxQUVtbXk4TGFJRHpnRGdQMUhxd1k2QUFHZjRDWTJTVldNXzI2REl0alIxS3VtM2RNSTZVNW5HX2stT0N1WlhyZmF5a3FGTWZJU1hTd2Uzbk4wT3RIQ1c1TjV3X1NaTS1aVFJGN05Gb1FMZFpoSWQ4Y1ZoWG9VVm9ubE53YlZ5YzNmRjVfNkQwVTh1bElsRUM?oc=5)
+
+---
+
+### [One shot or two? Latest HPV vaccine schedule guidance as ‘significant shift’ looms - The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRndjbU11MFJVaUlaVmVHTmt1U2dsaGxtTXZFWWJQemVjZkE1T1N6N1VDZU9jY0NkblUxYXRsMVpjNXZQdUh6ZzlEZWRrdmQ3S1RudmgzR0JSbGxnV2FiOGdjZktfSGdKdW9SYUF3MHhseWROZlZDZlZhRlpyUzhRbkxnYm1rdzdBYUoxRzlyc1F3Wmt0cHNERGRoQkNZWkNGZTc2TWNwaFJPRXM?oc=5)
+
+2026-09-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRndjbU11MFJVaUlaVmVHTmt1U2dsaGxtTXZFWWJQemVjZkE1T1N6N1VDZU9jY0NkblUxYXRsMVpjNXZQdUh6ZzlEZWRrdmQ3S1RudmgzR0JSbGxnV2FiOGdjZktfSGdKdW9SYUF3MHhseWROZlZDZlZhRlpyUzhRbkxnYm1rdzdBYUoxRzlyc1F3Wmt0cHNERGRoQkNZWkNGZTc2TWNwaFJPRXM?oc=5)
 
 ---
 

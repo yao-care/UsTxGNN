@@ -3,7 +3,7 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 7 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 6 articles, 1 related drugs."
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>7 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (7)
+## Related News (6)
 
 ### [Pennsylvania health officials brace themselves as measles outbreak expected to spread - The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHZZbzctb1Fyc1Q3UnN1OTFpelZpLWVsc3dFZGk1eHc5ZjhUdlY4VlFtTEludmlLMzVYSVVKaWlaeHozSUtndFUzSWtUZ1VYYW9RZHdnUkJhZ0xCRHZGNUJoU2JqM242aEdwZHFROUxjamUxTy1uQkR2cUtmZ1BtOXFLNGpLWFJjWWpLU2Y0WGRtTUl6aTNvQVZ3?oc=5)
 
 2026-10-04
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHZZbzctb1Fyc1Q3UnN1OTFpelZpLWVsc3dFZGk1eHc5ZjhUdlY4VlFtTEludmlLMzVYSVVKaWlaeHozSUtndFUzSWtUZ1VYYW9RZHdnUkJhZ0xCRHZGNUJoU2JqM242aEdwZHFROUxjamUxTy1uQkR2cUtmZ1BtOXFLNGpLWFJjWWpLU2Y0WGRtTUl6aTNvQVZ3?oc=5)
-
----
-
-### [Silent heart threat found in adults under 30 with no known cardiovascular disease - New York Post](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONnlVSmJTVVpKREJVejNFNXd0TGVESFpXTUVoQkZ6azJRY2dUR2NPQ1cyRGJWZktmSXNxclI4UURENEtNTlJBVlRXdDRJSkRsbGdMeHRaVHNIdHNseDcydURVVlhWOG02ZDhVT0RhWlFmR1cxZlUtaVotN1BIei1ZbHhTYWowVTl3T283VExUM3Z3OGo0eXlLM1pPa0g5VWhLb1BDU2YteEY2cnkzUktYcVRuTDZLTDgtYTdj?oc=5)
-
-2026-10-04
-
-Source: [New York Post](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONnlVSmJTVVpKREJVejNFNXd0TGVESFpXTUVoQkZ6azJRY2dUR2NPQ1cyRGJWZktmSXNxclI4UURENEtNTlJBVlRXdDRJSkRsbGdMeHRaVHNIdHNseDcydURVVlhWOG02ZDhVT0RhWlFmR1cxZlUtaVotN1BIei1ZbHhTYWowVTl3T283VExUM3Z3OGo0eXlLM1pPa0g5VWhLb1BDU2YteEY2cnkzUktYcVRuTDZLTDgtYTdj?oc=5)
 
 ---
 

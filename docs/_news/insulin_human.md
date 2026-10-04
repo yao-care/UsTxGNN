@@ -14,7 +14,7 @@ permalink: /news/insulin_human/
 ---
 
 <p class="key-answer" data-question="What news is there about Insulin human?">
-<strong>Insulin human</strong> currently has <strong>56 news articles</strong>, with 10 predicted indications.
+<strong>Insulin human</strong> currently has <strong>60 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ This page combines the AI-predicted indications for Insulin human with the lates
 <p><a href="{{ '/drugs/insulin_human/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (56)
+## Related News (60)
 
 ### [Study of 2.5 million children finds no link between MMR vaccine and autism](https://news.google.com/rss/articles/CBMioAFBVV95cUxQLXJEc2JYQ1hxbnFTa2hMNXFFdFhnd1N3ekJNVUJoRFByZGs5WTUxa2ItNlE4WDNQMnJhTWYtMklDMVVjUWdTVmZNSTA0YktYdFR3MTloQkxnOGxMUjJzRTZEN1FNUGtVTWNuaW1kZjdWdFdLRGVraHVzd3NBRnBMNjZDQXNMTTl6NEFpWElCUlhTdmNacGc5cW1lUFNVdjZo?oc=5)
 
@@ -50,11 +50,19 @@ Source: [PsyPost](https://news.google.com/rss/articles/CBMioAFBVV95cUxQLXJEc2JYQ
 
 ---
 
-### [What Grip Strength Can Tell You About Your Health](https://news.google.com/rss/articles/CBMimgFBVV95cUxOUmFWakk5REt3bU1GNHFUWV9scl9oN3RFZFhFendONXZ4SXpVNm82UXdteE5yU2FGcFpVQnU3OENndnhJZ2RaUHlTczh1Rm1MTHMwLUNzOVVNM1YwbUhqMDlKdXlvdHdqUEpSLU5vMXNBb2VpVmFBalA5ZV92c1BlRU9oQmItT0FHeEI3WUtZUGxHUkRJeW5iYmN3?oc=5)
+### [Most people with flu stop isolating at exactly the wrong time, CDC study finds - San Francisco Chronicle](https://news.google.com/rss/articles/CBMijAFBVV95cUxORXNPRDVkZkVlZFd0TGYyQkZ2a3JRd2twOUlhZjc2Znd3Y1lRbjNYc2RGejhDb1pnTFJPS19QZnlURnJWRzB6LUFMUHQwWGpxWmJCV25BWWFYcGJfZktGRFpHS2VUVnFTa09GVTB5ZmpyOEY2M1l4UWdicUdBTTlWeUZtQnpsTHNXbGNlNA?oc=5)
 
-2026-10-04 <span class="news-indication-tag">RA</span>
+2026-10-04 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">flu</span>
 
-Source: [WSJ](https://news.google.com/rss/articles/CBMimgFBVV95cUxOUmFWakk5REt3bU1GNHFUWV9scl9oN3RFZFhFendONXZ4SXpVNm82UXdteE5yU2FGcFpVQnU3OENndnhJZ2RaUHlTczh1Rm1MTHMwLUNzOVVNM1YwbUhqMDlKdXlvdHdqUEpSLU5vMXNBb2VpVmFBalA5ZV92c1BlRU9oQmItT0FHeEI3WUtZUGxHUkRJeW5iYmN3?oc=5)
+Source: [San Francisco Chronicle](https://news.google.com/rss/articles/CBMijAFBVV95cUxORXNPRDVkZkVlZFd0TGYyQkZ2a3JRd2twOUlhZjc2Znd3Y1lRbjNYc2RGejhDb1pnTFJPS19QZnlURnJWRzB6LUFMUHQwWGpxWmJCV25BWWFYcGJfZktGRFpHS2VUVnFTa09GVTB5ZmpyOEY2M1l4UWdicUdBTTlWeUZtQnpsTHNXbGNlNA?oc=5)
+
+---
+
+### [One Diet Change May Ease Depression Symptoms in Just 4 Weeks, Small Trial Finds](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT1lMekFHbTYwM2xlb1ZwWHNaWkpQZnR6Um9TZmphMEJVTXRvNWhRVl8ySjJwSnZvVmY4bFNFWlBiSFhkbjRTck5JVUpXR1dvZk1Pcy1PNDljLUtFZHJCYkpFQzZjbEgtZ21USjJTM29TMEhkZHVPR2JZVHFnR2JKRDZnRm56VFVsZ2NxSWJJWnQxVk4yNXFTczJ6ZzBUa3prRmdPRHFXaXRSQVU?oc=5)
+
+2026-10-04 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT1lMekFHbTYwM2xlb1ZwWHNaWkpQZnR6Um9TZmphMEJVTXRvNWhRVl8ySjJwSnZvVmY4bFNFWlBiSFhkbjRTck5JVUpXR1dvZk1Pcy1PNDljLUtFZHJCYkpFQzZjbEgtZ21USjJTM29TMEhkZHVPR2JZVHFnR2JKRDZnRm56VFVsZ2NxSWJJWnQxVk4yNXFTczJ6ZzBUa3prRmdPRHFXaXRSQVU?oc=5)
 
 ---
 
@@ -63,6 +71,30 @@ Source: [WSJ](https://news.google.com/rss/articles/CBMimgFBVV95cUxOUmFWakk5REt3b
 2026-10-04 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd3hIQk1TUERGMm5DenNaSUJzUDcxVzdYQVRSVFd2TnI3b2tiMHE0bE9OR0NjbnVVNnNkQ29uWmdwZExJdHZqa29RTEk0TU93R3QyTFFSRmVrZ2l5ZTVTTjVsM0lrWjZQSGNZei1fMXllV3Y1c25WLTRiOXA4LVo3X05OTWVFUTZHMlFHNUJxazg1YnBHVmdJdHl6NDJzckNkZS0ydUdBcHA?oc=5)
+
+---
+
+### [Scientists just found a new way to make hydrogen from water](https://news.google.com/rss/articles/CBMib0FVX3lxTE8tVEhJQVUwY1NsUmp5dzNWemdUZk5pbXo1aHpLUEl1NDh1VkQtRFBwZVppVWJqN0czTWs5WXk1NE4zT2thNlRXbDRKNld2RFg1QlZZU0paRjBmck5pNmxtbFo2cEJnVXBRNkljNDVJSQ?oc=5)
+
+2026-10-04 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8tVEhJQVUwY1NsUmp5dzNWemdUZk5pbXo1aHpLUEl1NDh1VkQtRFBwZVppVWJqN0czTWs5WXk1NE4zT2thNlRXbDRKNld2RFg1QlZZU0paRjBmck5pNmxtbFo2cEJnVXBRNkljNDVJSQ?oc=5)
+
+---
+
+### [Subtle change in how you speak could be early sign of dementia risk, new research suggests - Fox News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ1J3UjhmQ1dKSDBYUE1OTzFSTHo4RnYxZE5oZm9iR21YS1NKd0FpLUZQVEZERl9lOHl5MzVxNGZyNW9UaFJJaUVUaUdwVC1lOV8xaXdtRzNuRHUwaS1Kc1RsRFFJOV93cFdQWkc5TnZXTFZ1d2hKQlIzdkxIV1RuamJFNXNxTlhZcUxMckp0cVpnT2xGdW9SdUlEQklCeWhCOG5mX1VrWW_SAa4BQVVfeXFMTWtQMWRDV093NVZId3BZWjlQM1l0LW1Qd1NLMC1hRlRqbTEzTjJxUU5GazVRTE1MX1FPeUdVaUFLdHR0aUNxVlRUemZGMFNvTHF4ZWFCMldDUFpqaFktY0p0b2hxOFVNQ0lHX2loaE12bGQ5YnhRMmQ2OS1wbS1uejNqWmZQUlFYb21DTUU5S1dnNndVRFI2OGhWcUN0OG5WMkduM1BIRE9yX3dRaExR?oc=5)
+
+2026-10-04 <span class="news-indication-tag">RA</span>
+
+Source: [Fox News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ1J3UjhmQ1dKSDBYUE1OTzFSTHo4RnYxZE5oZm9iR21YS1NKd0FpLUZQVEZERl9lOHl5MzVxNGZyNW9UaFJJaUVUaUdwVC1lOV8xaXdtRzNuRHUwaS1Kc1RsRFFJOV93cFdQWkc5TnZXTFZ1d2hKQlIzdkxIV1RuamJFNXNxTlhZcUxMckp0cVpnT2xGdW9SdUlEQklCeWhCOG5mX1VrWW_SAa4BQVVfeXFMTWtQMWRDV093NVZId3BZWjlQM1l0LW1Qd1NLMC1hRlRqbTEzTjJxUU5GazVRTE1MX1FPeUdVaUFLdHR0aUNxVlRUemZGMFNvTHF4ZWFCMldDUFpqaFktY0p0b2hxOFVNQ0lHX2loaE12bGQ5YnhRMmQ2OS1wbS1uejNqWmZQUlFYb21DTUU5S1dnNndVRFI2OGhWcUN0OG5WMkduM1BIRE9yX3dRaExR?oc=5)
+
+---
+
+### [Your Grip Strength Is an Important Vital Sign](https://news.google.com/rss/articles/CBMilgFBVV95cUxNNklxVnVPU0VpUVczNWFZWlpMc0cyX0d0aHhLbjNxOWhfOHAxSGZHdlk4Ty1CSnlfREgzVmhPeEc1bWQ0dEhPYnBHa01TR2VOaTNMZGZiWFlSQS1DMEJRQUNWRk9PNDRnbFdILTE5NHRvZ2Q4cEpXTWVMTWx4LVRwWEJwNC12U0hjekVvcmJNU1V0dWRVLWc?oc=5)
+
+2026-10-04 <span class="news-indication-tag">RA</span>
+
+Source: [Newser](https://news.google.com/rss/articles/CBMilgFBVV95cUxNNklxVnVPU0VpUVczNWFZWlpMc0cyX0d0aHhLbjNxOWhfOHAxSGZHdlk4Ty1CSnlfREgzVmhPeEc1bWQ0dEhPYnBHa01TR2VOaTNMZGZiWFlSQS1DMEJRQUNWRk9PNDRnbFdILTE5NHRvZ2Q4cEpXTWVMTWx4LVRwWEJwNC12U0hjekVvcmJNU1V0dWRVLWc?oc=5)
 
 ---
 
@@ -90,14 +122,6 @@ Source: [HuffPost](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWk1NNEdM
 
 ---
 
-### [One Diet Change May Ease Depression Symptoms in Just 4 Weeks, Small Trial Finds](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT1lMekFHbTYwM2xlb1ZwWHNaWkpQZnR6Um9TZmphMEJVTXRvNWhRVl8ySjJwSnZvVmY4bFNFWlBiSFhkbjRTck5JVUpXR1dvZk1Pcy1PNDljLUtFZHJCYkpFQzZjbEgtZ21USjJTM29TMEhkZHVPR2JZVHFnR2JKRDZnRm56VFVsZ2NxSWJJWnQxVk4yNXFTczJ6ZzBUa3prRmdPRHFXaXRSQVU?oc=5)
-
-2026-10-04 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT1lMekFHbTYwM2xlb1ZwWHNaWkpQZnR6Um9TZmphMEJVTXRvNWhRVl8ySjJwSnZvVmY4bFNFWlBiSFhkbjRTck5JVUpXR1dvZk1Pcy1PNDljLUtFZHJCYkpFQzZjbEgtZ21USjJTM29TMEhkZHVPR2JZVHFnR2JKRDZnRm56VFVsZ2NxSWJJWnQxVk4yNXFTczJ6ZzBUa3prRmdPRHFXaXRSQVU?oc=5)
-
----
-
 ### [Pennsylvania health officials brace themselves as measles outbreak expected to spread - The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHZZbzctb1Fyc1Q3UnN1OTFpelZpLWVsc3dFZGk1eHc5ZjhUdlY4VlFtTEludmlLMzVYSVVKaWlaeHozSUtndFUzSWtUZ1VYYW9RZHdnUkJhZ0xCRHZGNUJoU2JqM242aEdwZHFROUxjamUxTy1uQkR2cUtmZ1BtOXFLNGpLWFJjWWpLU2Y0WGRtTUl6aTNvQVZ3?oc=5)
 
 2026-10-04 <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
@@ -108,7 +132,7 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHZZ
 
 ### [Indians live longer than Pakistanis, lag Bangladeshis, says WHO - The Times of India](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYzRMX3FHVnJuaGltWUVLdnhzcFZ4cDlGVjQ1ZGRqemgzTExZVDZIcC1qVzNlUzliUGxCMkRkZlpIQnpKT1VDWDV4QndCTkJMbEVuczBBYk1NU2ljUzNZNTRKS2MtWkJTanUxVkNUZGFxYVJqdk9fTzB6X3U1ZlZfZVhhZUJaVnNfaUQzcHhMZExLYi1Yblh2VEhjbnZRWUh6SDVCa0Q1aUhmOGdrM1dLc1dpN0tpZHM4bGhvdlNMc0Z3M3h6VXIwUtIBzgFBVV95cUxOUU93R2hBdVBUSHV1T1Noby1GT21PQ3FtWG1tc0VTWV8tTGpoeXNfdUNHQWtLaFRGUjB5V3RlWlVCOTIzX3YxOHNhbVRDR3h5ZXdsVlJHQS1MVkE1SVAxN01LRGlzZ3hQUVlUaUdXdHN6UkdxMUdkRTQ1cEdSdWpMaDRHc3VWSEVYcTF0NlA0Rk5ib3BIWXlBVHJXT3pPcllxLWFPcGVJVUpCcnhVY0Y2Y0xvY0RmTGJnVk5Fc1k3a3VWMGJ6MUFIY2VfZkQyQQ?oc=5)
 
-2026-10-03 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+2026-10-03 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYzRMX3FHVnJuaGltWUVLdnhzcFZ4cDlGVjQ1ZGRqemgzTExZVDZIcC1qVzNlUzliUGxCMkRkZlpIQnpKT1VDWDV4QndCTkJMbEVuczBBYk1NU2ljUzNZNTRKS2MtWkJTanUxVkNUZGFxYVJqdk9fTzB6X3U1ZlZfZVhhZUJaVnNfaUQzcHhMZExLYi1Yblh2VEhjbnZRWUh6SDVCa0Q1aUhmOGdrM1dLc1dpN0tpZHM4bGhvdlNMc0Z3M3h6VXIwUtIBzgFBVV95cUxOUU93R2hBdVBUSHV1T1Noby1GT21PQ3FtWG1tc0VTWV8tTGpoeXNfdUNHQWtLaFRGUjB5V3RlWlVCOTIzX3YxOHNhbVRDR3h5ZXdsVlJHQS1MVkE1SVAxN01LRGlzZ3hQUVlUaUdXdHN6UkdxMUdkRTQ1cEdSdWpMaDRHc3VWSEVYcTF0NlA0Rk5ib3BIWXlBVHJXT3pPcllxLWFPcGVJVUpCcnhVY0Y2Y0xvY0RmTGJnVk5Fc1k3a3VWMGJ6MUFIY2VfZkQyQQ?oc=5)
 
@@ -118,7 +142,7 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMiyAFBVV95cU
 
 2026-10-03 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">flu</span>
 
-Source: [mlive.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxQMjdYMjBvUUxzRTNHT29JSWVoNTFxZDJNb0F1TFFxaUtXdEJhZVlsMTZDcHFPM2d0bmxrWU1YT05CNTdyLVpHMHZSYjdVSF9weXAwUnU1M1VDTFNmbDZST3NjNmVIZTB2blhyODJKbWJ5MUNKMUFoejZvanpWVUtqcWdEeFZFd1k4NXkwdXA2QzgzMjJndm9MU2lmbU5EY01lS18zV2M2VWRGSWV1aDlkSUN0WHFvbHhtanpSX1BCMzZsbWVv?oc=5)
+Source: [MLive.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxQMjdYMjBvUUxzRTNHT29JSWVoNTFxZDJNb0F1TFFxaUtXdEJhZVlsMTZDcHFPM2d0bmxrWU1YT05CNTdyLVpHMHZSYjdVSF9weXAwUnU1M1VDTFNmbDZST3NjNmVIZTB2blhyODJKbWJ5MUNKMUFoejZvanpWVUtqcWdEeFZFd1k4NXkwdXA2QzgzMjJndm9MU2lmbU5EY01lS18zV2M2VWRGSWV1aDlkSUN0WHFvbHhtanpSX1BCMzZsbWVv?oc=5)
 
 ---
 
@@ -127,6 +151,14 @@ Source: [mlive.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxQMjdYMjB
 2026-10-03 <span class="news-indication-tag">RA</span>
 
 Source: [New York Post](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdFFWZGJ5SzFCendoZVk0bzc3eGRGOEFlajlsLUwxZl9NMzR1aGNOZFpGMXlUZTJmT2JxUTluLXFIX3NtQnpMaTQxOWhWclVqc0FUZWZwWllxZ2thSWdRc2Vlbl8tbEUtTUozZGQ0bkZTSTBNSU9RdXpCeVlkSVJkUFAxUW5ENmhDcmQ1dUh6Y0FnM2pTTHBaR1J4RHRiVk03V2ZrYlk5d1BtMnc?oc=5)
+
+---
+
+### [Rag Tag Team of Biologists Who Lost Funding Because of Trump Turned a Motel Room into Makeshift Lab and Made a Groundbreaking Discovery](https://news.google.com/rss/articles/CBMiggFBVV95cUxOVk1JTHpEYzNiWkJFR09tWHJQZWxtaFZKdkdTYk1vdEpHektlM3ZBWmJ1RlQ4eWhyTjNtU3RZVTlxRTZLQkdhdVRObUhfTkRLVEZmejRCb1ZFNy1YbVBBMU52dkJCSlZpb1R3Y3lrS2xodW5Ebkp1bW1wdWdrNzZZY2lB?oc=5)
+
+2026-10-03 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [Futurism](https://news.google.com/rss/articles/CBMiggFBVV95cUxOVk1JTHpEYzNiWkJFR09tWHJQZWxtaFZKdkdTYk1vdEpHektlM3ZBWmJ1RlQ4eWhyTjNtU3RZVTlxRTZLQkdhdVRObUhfTkRLVEZmejRCb1ZFNy1YbVBBMU52dkJCSlZpb1R3Y3lrS2xodW5Ebkp1bW1wdWdrNzZZY2lB?oc=5)
 
 ---
 
@@ -142,7 +174,7 @@ Source: [marthastewart.com](https://news.google.com/rss/articles/CBMie0FVX3lxTE9
 
 2026-10-03 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
-Source: [Phys.org](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Xa0MzV3ZDc0tFdVhrbS1hckh5dFFqMjN1NjUxSVRQaVA5VDQ4a29GcDdURWRScTZXcWd0R2lqWWIwWUVaZlhnalFKNzMwaS16aTFEYjgzbkVfeXR5VEdjUWdMV1RCdw?oc=5)
+Source: [phys.org](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Xa0MzV3ZDc0tFdVhrbS1hckh5dFFqMjN1NjUxSVRQaVA5VDQ4a29GcDdURWRScTZXcWd0R2lqWWIwWUVaZlhnalFKNzMwaS16aTFEYjgzbkVfeXR5VEdjUWdMV1RCdw?oc=5)
 
 ---
 
@@ -154,11 +186,11 @@ Source: [SnowBrains](https://news.google.com/rss/articles/CBMic0FVX3lxTE9wNnVXQn
 
 ---
 
-### [1 in 8 cancer cases are caused by infections, underscoring the importance of vaccines, experts say - Live Science](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb24yUVRzNDFNZFMxZlRzYjJGVUdxVVBvMmFEVmxSQmRadHlUdm4zby1zLUVVbGNmZzlXd2pJenlMd1VtQVZMeE9oS2R2QjdPQXFMZVBvN1R3OXQ0WGJlMDF1NHIteDFJVGRvT0txZ1U4X0Ita255QXlVcHAzOUpoREE0eEItcFY0VFJJLS1idDM5eEpCMVdCaEhtcVB0R25FdTRsUzl2UDR3a0xjYmdNYk5xYVNmNHBHZ3lVRDN3elA5UjlSWjFYZ1FQNTRiY2d1VWpwMg?oc=5)
+### [1 in 8 cancer cases are caused by infections, underscoring the importance of vaccines, experts say](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb24yUVRzNDFNZFMxZlRzYjJGVUdxVVBvMmFEVmxSQmRadHlUdm4zby1zLUVVbGNmZzlXd2pJenlMd1VtQVZMeE9oS2R2QjdPQXFMZVBvN1R3OXQ0WGJlMDF1NHIteDFJVGRvT0txZ1U4X0Ita255QXlVcHAzOUpoREE0eEItcFY0VFJJLS1idDM5eEpCMVdCaEhtcVB0R25FdTRsUzl2UDR3a0xjYmdNYk5xYVNmNHBHZ3lVRDN3elA5UjlSWjFYZ1FQNTRiY2d1VWpwMg?oc=5)
 
 2026-10-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
 
-Source: [Live Science](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb24yUVRzNDFNZFMxZlRzYjJGVUdxVVBvMmFEVmxSQmRadHlUdm4zby1zLUVVbGNmZzlXd2pJenlMd1VtQVZMeE9oS2R2QjdPQXFMZVBvN1R3OXQ0WGJlMDF1NHIteDFJVGRvT0txZ1U4X0Ita255QXlVcHAzOUpoREE0eEItcFY0VFJJLS1idDM5eEpCMVdCaEhtcVB0R25FdTRsUzl2UDR3a0xjYmdNYk5xYVNmNHBHZ3lVRDN3elA5UjlSWjFYZ1FQNTRiY2d1VWpwMg?oc=5)
+Source: [livescience.com](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb24yUVRzNDFNZFMxZlRzYjJGVUdxVVBvMmFEVmxSQmRadHlUdm4zby1zLUVVbGNmZzlXd2pJenlMd1VtQVZMeE9oS2R2QjdPQXFMZVBvN1R3OXQ0WGJlMDF1NHIteDFJVGRvT0txZ1U4X0Ita255QXlVcHAzOUpoREE0eEItcFY0VFJJLS1idDM5eEpCMVdCaEhtcVB0R25FdTRsUzl2UDR3a0xjYmdNYk5xYVNmNHBHZ3lVRDN3elA5UjlSWjFYZ1FQNTRiY2d1VWpwMg?oc=5)
 
 ---
 
@@ -166,7 +198,7 @@ Source: [Live Science](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb24y
 
 2026-10-03 <span class="news-indication-tag">RA</span>
 
-Source: [sciencedaily.com](https://news.google.com/rss/articles/CBMib0FVX3lxTE5zUzVMaUJISUlCajNqZVZQdmprR211Qy1SUXBsWjBFQnVpVkNzVzV3SXJKcDZTRjZEWkFBdXpvNjF5a3hVZXBfV2dXNlhKdHVrM2R1VlFJdTZuclMwelBXZV9jX205MHRId0x2akJJdw?oc=5)
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5zUzVMaUJISUlCajNqZVZQdmprR211Qy1SUXBsWjBFQnVpVkNzVzV3SXJKcDZTRjZEWkFBdXpvNjF5a3hVZXBfV2dXNlhKdHVrM2R1VlFJdTZuclMwelBXZV9jX205MHRId0x2akJJdw?oc=5)
 
 ---
 
@@ -175,6 +207,14 @@ Source: [sciencedaily.com](https://news.google.com/rss/articles/CBMib0FVX3lxTE5z
 2026-10-03 <span class="news-indication-tag">RA</span>
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdjVtV1lOTHhwYkI4LWtaRlZCRUxlMDFwTlZ6YzJYM28wWlB2cVZqNzJqaGdWUkx6V2RIUnpiS1lHc1N6UEUzQlJLa1pWMGdsTmxqRE9OTFNkWVVKOG1xVTVtSzNaSUJ5V3E0UDNlOGtzNmFZSWVvU0trODVMYWREQ3h1dWMzNnJIRFB5SVh3?oc=5)
+
+---
+
+### [Affordable ways to protect your gut microbiome from unhealthy changes - The Independent](https://news.google.com/rss/articles/CBMisgFBVV95cUxNVy1JekhYQTZKU2xTUVdDZGE2azVtNlFXTmI1LWZxN1JwamdXMnJKQ1kxZHY5SUgwRC1FM0tuTmVhUHZRcl84SXp0ekNYNWpwdzR6ZWZZbE5rZFk5U203T0xaTHktLVgyWGRTUlhxRGVoN0VmNENXVDBLWHVxLVNHMmRzOWFkR1J0eUVDR0NhQlZjMURMUExiSVNLWVBRUDZXSWIyellRMjE2cG8wUm81TWtR?oc=5)
+
+2026-10-03 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMisgFBVV95cUxNVy1JekhYQTZKU2xTUVdDZGE2azVtNlFXTmI1LWZxN1JwamdXMnJKQ1kxZHY5SUgwRC1FM0tuTmVhUHZRcl84SXp0ekNYNWpwdzR6ZWZZbE5rZFk5U203T0xaTHktLVgyWGRTUlhxRGVoN0VmNENXVDBLWHVxLVNHMmRzOWFkR1J0eUVDR0NhQlZjMURMUExiSVNLWVBRUDZXSWIyellRMjE2cG8wUm81TWtR?oc=5)
 
 ---
 
@@ -210,30 +250,6 @@ Source: [404 Media](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZjlESnc
 
 ---
 
-### [Tapeworm Treatment Shows Early Effectiveness Against Endometriosis](https://news.google.com/rss/articles/CBMimwFBVV95cUxOQzEyUkc5WmQ1N1hxdjdBREhOOUZVd1RqSVB4d2tPa1lCeGYzNTNTMjZYOGVyb1RKTEZPdk1GRWROeFYyM3NRUWUzNzhsTFlhVi0wTnBqX29MNWZzcGdZUjNhOF82azM1QzA0NWwwS3dfS1JCRmg2QXdPV1JMclhBb3pOeEZsc24xWG9ncmdCcndPbGVpWTNSOW91MA?oc=5)
-
-2026-10-03 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMimwFBVV95cUxOQzEyUkc5WmQ1N1hxdjdBREhOOUZVd1RqSVB4d2tPa1lCeGYzNTNTMjZYOGVyb1RKTEZPdk1GRWROeFYyM3NRUWUzNzhsTFlhVi0wTnBqX29MNWZzcGdZUjNhOF82azM1QzA0NWwwS3dfS1JCRmg2QXdPV1JMclhBb3pOeEZsc24xWG9ncmdCcndPbGVpWTNSOW91MA?oc=5)
-
----
-
-### [The way you speak could reveal early signs of brain ageing](https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHhVVFFsQUxzM3YwNXpuQVBGYUNGdmo3eFZ2eEJValBLZlVqSXZvdTluQzBLMnlpdm4tNW0weDBuV0VyR1hqaExKcVE3MzZPTVo2ZE1lTmRMa2RQN2dua051RGNUUTY0R3NhR2ZTNzY1b05rMzNLN0JkTlZ6LWRfNDk1eFJhWF9wVS1IcW5sQ09MdUhZOFJCbHB3?oc=5)
-
-2026-10-03 <span class="news-indication-tag">RA</span>
-
-Source: [Euronews.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHhVVFFsQUxzM3YwNXpuQVBGYUNGdmo3eFZ2eEJValBLZlVqSXZvdTluQzBLMnlpdm4tNW0weDBuV0VyR1hqaExKcVE3MzZPTVo2ZE1lTmRMa2RQN2dua051RGNUUTY0R3NhR2ZTNzY1b05rMzNLN0JkTlZ6LWRfNDk1eFJhWF9wVS1IcW5sQ09MdUhZOFJCbHB3?oc=5)
-
----
-
-### [10 New Measles Cases Reported in Lewis County](https://news.google.com/rss/articles/CBMixwFBVV95cUxNbXhZd09TcS13dFZ1NmpMNlVhUDRLMGQ0NlRBM2pSdGgtR1Qyanpid3NQMllQMmtVSU15cGdoa29qRncwQXo4SWZZdmZJa083OFc1LVJHZC00c25DOXNfMXk4N21HMi1ONU5SNlZQaGRSd0N3cnhjLXhHdWUzSE0xY0JYVHpZMHhLZXltY0FTeUpULTg3UmQzclRtazFUSFF0U3J5eVZGVW1KRmstSUtjMGtjZkJLRVZ1TlNsWVkzcXAwY2xpSzZz?oc=5)
-
-2026-10-03 <span class="news-indication-tag">RA</span>
-
-Source: [WKTV](https://news.google.com/rss/articles/CBMixwFBVV95cUxNbXhZd09TcS13dFZ1NmpMNlVhUDRLMGQ0NlRBM2pSdGgtR1Qyanpid3NQMllQMmtVSU15cGdoa29qRncwQXo4SWZZdmZJa083OFc1LVJHZC00c25DOXNfMXk4N21HMi1ONU5SNlZQaGRSd0N3cnhjLXhHdWUzSE0xY0JYVHpZMHhLZXltY0FTeUpULTg3UmQzclRtazFUSFF0U3J5eVZGVW1KRmstSUtjMGtjZkJLRVZ1TlNsWVkzcXAwY2xpSzZz?oc=5)
-
----
-
 ### [Indy hospital screening patients for measles as cases, concerns continue to rise - Fox 59](https://news.google.com/rss/articles/CBMipgFBVV95cUxPek5fOG1Eb2FFdDdJLTFRU0R0YnpCQ0dQSzdIODM2WHdycmR1ZTVvZnV4amRweTh2NGZBdlhra3JmUGF2am5PYlVtWHQ3SS1ZcHBzR1NQak94NldhcHkyMlE4VmY5QmdfRVRjRmYydGwyTEhFNU92MG9lYzFZdXFGZ3RaT3B0a092S2ViRUFhYUtYQjBESGg0REpSMUdBaXRyZ3JsSk530gGrAUFVX3lxTFBXVkFHZXVfbGJDVDVkUm91bXJzOEJURERNNHJzeUdEb0tMVVFPdDZFdFFIQ214MDVqNjZKRVk1b1N1SENqclZvb3JPRmlIOWN6akxsUlJQbzl3cXRMeUgya0w3NFBqakdnMnMyb0JDbmJva0ZvTFZ3dHg2VktMd0tVZUxEcWJVRlRIUl8xcEdMYUZLaVM0cGpIbFhaVjltYkphYzNKWjJqTy1Scw?oc=5)
 
 2026-10-03 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
@@ -242,35 +258,19 @@ Source: [Fox 59](https://news.google.com/rss/articles/CBMipgFBVV95cUxPek5fOG1Eb2
 
 ---
 
-### [A Surprising Brain Signal Could Explain Why Eating Less Protein Extends Lifespan](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEx0eFhHUUtFX0ltaTFLOV90YnUyYkZ0QzZVeXBnSjA1QUdEWW5LZ1VReU55eThiVHFDNmhibDRySTFWVmZKRXBrR0ZqWEoyZTdGRTZPUWVWbGwwWTA3MUtIMk5kOEN5U21BSDJpcVZEVnpDU2FTZmoxQTZJR0RhYzV4SjVhQXBlM3lwMXlmdk55ejZMdzBibjBMWEJtLTFDMDNQalZMMWdyUQ?oc=5)
+### [An Ebola treatment center was burned down as the death toll in Congo passes 4,000 - AP News](https://news.google.com/rss/articles/CBMijwFBVV95cUxNR1VBSzQ3aTR1RkVYN2ZCOFBNdnhSQmVIYU1PZWdLNlo5VGxVWU1zS2ZMSXBFOEptUTFiQW4xREZDRUVNbGwzeEtpcFBRckJZdkRUV0s0d2ZNQnZEY0VfbG53QVF5Y2FFZmZmcDRiRENqaVFmdG1LNE9UcUlvOEtzRzRHYS1lbE9pdnZVdVJTSQ?oc=5)
 
 2026-10-02 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
-Source: [SciTechDaily](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEx0eFhHUUtFX0ltaTFLOV90YnUyYkZ0QzZVeXBnSjA1QUdEWW5LZ1VReU55eThiVHFDNmhibDRySTFWVmZKRXBrR0ZqWEoyZTdGRTZPUWVWbGwwWTA3MUtIMk5kOEN5U21BSDJpcVZEVnpDU2FTZmoxQTZJR0RhYzV4SjVhQXBlM3lwMXlmdk55ejZMdzBibjBMWEJtLTFDMDNQalZMMWdyUQ?oc=5)
+Source: [AP News](https://news.google.com/rss/articles/CBMijwFBVV95cUxNR1VBSzQ3aTR1RkVYN2ZCOFBNdnhSQmVIYU1PZWdLNlo5VGxVWU1zS2ZMSXBFOEptUTFiQW4xREZDRUVNbGwzeEtpcFBRckJZdkRUV0s0d2ZNQnZEY0VfbG53QVF5Y2FFZmZmcDRiRENqaVFmdG1LNE9UcUlvOEtzRzRHYS1lbE9pdnZVdVJTSQ?oc=5)
 
 ---
 
-### [Patient died by suicide after insurance delayed medication: report - The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxNV1M0Tll5bW52ejczOWVzaVMtWXlBZXdhbmZ6N3d0bE5Bb3BHWXRnSERCQlBSLWtaMHdyd3R1WmxOUWdiYmxKS1pic2R5T055OUZfeFY3NHZxeWRzanViZWtZSjF3SHlUNDFsYjUzR1pHQzFxUVZibWZLektyZGJDU1o5RHNuOEd6V01SeHV4Vlkzc0lBTGVoYzBwOVB2TWVlWWhrRg?oc=5)
+### [Conjoined twins receive scoliosis surgery 11 years after separation - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMipAFBVV95cUxQQlRKcWtpQTc1Q0FnWnEtVzh6VWxJeHRmRmN2Z3pENmh4b3JzZ3BOVHk1VFV3RlAwNUxJbjdLbG0wUkNSa3pYdlphcEIyNkJlMHV0Z251aFlBRUFaaThtRGVCenFqMjVjcE5oU2JDdHJ6WF8wa1hLY0NkMGMzdER6dzBpMFBkSmhwYS1YVXhPbU1NWURxbTFzRDdrelM3WFotZGtON9IBqgFBVV95cUxNMzViSktRX0I4RklOUkRKSkk2OUpITWVmUVhKQnpmLWcxYnBncjRHMnQxNnBoTnZGWGU1LUU1d0JZRDdnZjBlX0N5ZzQxd0hHTllvMHIwY2JiVHlwU1F5X3dDUVFpOWlUY1VwNUZVcTRIdF84cG1nZmRoaHBUZ1doQ3UyVmgwQTIyY0ZfNVdvaENacHk4NGVoMzhGbFVzUjRmTDFSXzNSS1l1dw?oc=5)
 
 2026-10-02 <span class="news-indication-tag">RA</span>
 
-Source: [The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxNV1M0Tll5bW52ejczOWVzaVMtWXlBZXdhbmZ6N3d0bE5Bb3BHWXRnSERCQlBSLWtaMHdyd3R1WmxOUWdiYmxKS1pic2R5T055OUZfeFY3NHZxeWRzanViZWtZSjF3SHlUNDFsYjUzR1pHQzFxUVZibWZLektyZGJDU1o5RHNuOEd6V01SeHV4Vlkzc0lBTGVoYzBwOVB2TWVlWWhrRg?oc=5)
-
----
-
-### [Conjoined twins receive scoliosis surgery 11 years after separation](https://news.google.com/rss/articles/CBMipAFBVV95cUxQQlRKcWtpQTc1Q0FnWnEtVzh6VWxJeHRmRmN2Z3pENmh4b3JzZ3BOVHk1VFV3RlAwNUxJbjdLbG0wUkNSa3pYdlphcEIyNkJlMHV0Z251aFlBRUFaaThtRGVCenFqMjVjcE5oU2JDdHJ6WF8wa1hLY0NkMGMzdER6dzBpMFBkSmhwYS1YVXhPbU1NWURxbTFzRDdrelM3WFotZGtONw?oc=5)
-
-2026-10-02 <span class="news-indication-tag">RA</span>
-
-Source: [abcnews.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxQQlRKcWtpQTc1Q0FnWnEtVzh6VWxJeHRmRmN2Z3pENmh4b3JzZ3BOVHk1VFV3RlAwNUxJbjdLbG0wUkNSa3pYdlphcEIyNkJlMHV0Z251aFlBRUFaaThtRGVCenFqMjVjcE5oU2JDdHJ6WF8wa1hLY0NkMGMzdER6dzBpMFBkSmhwYS1YVXhPbU1NWURxbTFzRDdrelM3WFotZGtONw?oc=5)
-
----
-
-### [New weight-loss injection targets fat cells: CBL-514 selectively induces apoptosis of fat cells - Medical Xpress](https://news.google.com/rss/articles/CBMieEFVX3lxTE5qQmlnQjNOS0FqT3dkT2ZBbWJzY3Bmcl92OTBsZ0hfZTc1QWs3d0hTVGtXUWZNejYxVTd0NHZpT3o5dDNKdV9EVEhTYjBPWFZmWXBKSHhTb2JMXzFaejREOU93QkZfSE0tNi1FTUpuVnMwcUhLRDZXcg?oc=5)
-
-2026-10-02 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMieEFVX3lxTE5qQmlnQjNOS0FqT3dkT2ZBbWJzY3Bmcl92OTBsZ0hfZTc1QWs3d0hTVGtXUWZNejYxVTd0NHZpT3o5dDNKdV9EVEhTYjBPWFZmWXBKSHhTb2JMXzFaejREOU93QkZfSE0tNi1FTUpuVnMwcUhLRDZXcg?oc=5)
+Source: [ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMipAFBVV95cUxQQlRKcWtpQTc1Q0FnWnEtVzh6VWxJeHRmRmN2Z3pENmh4b3JzZ3BOVHk1VFV3RlAwNUxJbjdLbG0wUkNSa3pYdlphcEIyNkJlMHV0Z251aFlBRUFaaThtRGVCenFqMjVjcE5oU2JDdHJ6WF8wa1hLY0NkMGMzdER6dzBpMFBkSmhwYS1YVXhPbU1NWURxbTFzRDdrelM3WFotZGtON9IBqgFBVV95cUxNMzViSktRX0I4RklOUkRKSkk2OUpITWVmUVhKQnpmLWcxYnBncjRHMnQxNnBoTnZGWGU1LUU1d0JZRDdnZjBlX0N5ZzQxd0hHTllvMHIwY2JiVHlwU1F5X3dDUVFpOWlUY1VwNUZVcTRIdF84cG1nZmRoaHBUZ1doQ3UyVmgwQTIyY0ZfNVdvaENacHk4NGVoMzhGbFVzUjRmTDFSXzNSS1l1dw?oc=5)
 
 ---
 
@@ -278,15 +278,15 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMieEFVX3lxTE5qQm
 
 2026-10-02 <span class="news-indication-tag">RA</span>
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE81eWU4c1l5NjJxYXN2VGlHek52MEVNOVZFakZXem5xQ096cmp4ZTRMRWVjSDRWSGRfTmFFUE1qLTMzcEJqQlQxeGpicUhYRnJnUWVlZEFTcWFPR1FYODNj?oc=5)
+Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE81eWU4c1l5NjJxYXN2VGlHek52MEVNOVZFakZXem5xQ096cmp4ZTRMRWVjSDRWSGRfTmFFUE1qLTMzcEJqQlQxeGpicUhYRnJnUWVlZEFTcWFPR1FYODNj?oc=5)
 
 ---
 
-### [Animals may have evolved 200 million years earlier than previously thought, new study suggests - Live Science](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaTNfZjlkLVdpaVNlRWcwRmtNTXNPbDdhOWw0dVpickFnUkRVaUcyR2lGZ3F0LUJiZ0VQY3lVdnFzd3JUX3doVDk5NFdZTGtPcnc3dUJIb0owRVQ2REdNTWZ5X3dHa19jQ1VpRHVXWThUYmdkclpvUkRCNWUxZkdfMzFjbERNXzA5OUZSUGl4eTdFak5zT29mR2dRbUxGUW9MSHNfTDBDSXkteEdIdmNGRmFHSm9qTUk0X3hWQnctczU1RkVfRG9wNTJONHFsOWtQYTNLM29TU2ZsZDRa?oc=5)
+### [Animals may have evolved 200 million years earlier than previously thought, new study suggests](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaTNfZjlkLVdpaVNlRWcwRmtNTXNPbDdhOWw0dVpickFnUkRVaUcyR2lGZ3F0LUJiZ0VQY3lVdnFzd3JUX3doVDk5NFdZTGtPcnc3dUJIb0owRVQ2REdNTWZ5X3dHa19jQ1VpRHVXWThUYmdkclpvUkRCNWUxZkdfMzFjbERNXzA5OUZSUGl4eTdFak5zT29mR2dRbUxGUW9MSHNfTDBDSXkteEdIdmNGRmFHSm9qTUk0X3hWQnctczU1RkVfRG9wNTJONHFsOWtQYTNLM29TU2ZsZDRa?oc=5)
 
 2026-10-02 <span class="news-indication-tag">MI</span>
 
-Source: [Live Science](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaTNfZjlkLVdpaVNlRWcwRmtNTXNPbDdhOWw0dVpickFnUkRVaUcyR2lGZ3F0LUJiZ0VQY3lVdnFzd3JUX3doVDk5NFdZTGtPcnc3dUJIb0owRVQ2REdNTWZ5X3dHa19jQ1VpRHVXWThUYmdkclpvUkRCNWUxZkdfMzFjbERNXzA5OUZSUGl4eTdFak5zT29mR2dRbUxGUW9MSHNfTDBDSXkteEdIdmNGRmFHSm9qTUk0X3hWQnctczU1RkVfRG9wNTJONHFsOWtQYTNLM29TU2ZsZDRa?oc=5)
+Source: [livescience.com](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaTNfZjlkLVdpaVNlRWcwRmtNTXNPbDdhOWw0dVpickFnUkRVaUcyR2lGZ3F0LUJiZ0VQY3lVdnFzd3JUX3doVDk5NFdZTGtPcnc3dUJIb0owRVQ2REdNTWZ5X3dHa19jQ1VpRHVXWThUYmdkclpvUkRCNWUxZkdfMzFjbERNXzA5OUZSUGl4eTdFak5zT29mR2dRbUxGUW9MSHNfTDBDSXkteEdIdmNGRmFHSm9qTUk0X3hWQnctczU1RkVfRG9wNTJONHFsOWtQYTNLM29TU2ZsZDRa?oc=5)
 
 ---
 
@@ -310,7 +310,7 @@ Source: [NBC News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZkhMZzB4
 
 2026-10-02 <span class="news-indication-tag">MI</span>
 
-Source: [Phys.org](https://news.google.com/rss/articles/CBMic0FVX3lxTE12TnFTdUUtVHEtUEVtaTNRWHltc0xfTjVsY19nQzVGSUloeGhGei1Fcm5reWwwNDZ5TDROYTFLY0FCYTg3SzU2S2YtX2hBRWkyU08wZ3VId1RoLS02UXpuZkhYelVISlg5RHBMblpXQWdNV2M?oc=5)
+Source: [phys.org](https://news.google.com/rss/articles/CBMic0FVX3lxTE12TnFTdUUtVHEtUEVtaTNRWHltc0xfTjVsY19nQzVGSUloeGhGei1Fcm5reWwwNDZ5TDROYTFLY0FCYTg3SzU2S2YtX2hBRWkyU08wZ3VId1RoLS02UXpuZkhYelVISlg5RHBMblpXQWdNV2M?oc=5)
 
 ---
 
@@ -340,9 +340,9 @@ Source: [AOL.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxPOFNpWGRCa
 
 ### [Stunning fossil shows dinosaurs’ distinctive path to flight](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4SWxtWnlsMjJwWkNNZzZsZ2p4MkwtR3ltUVU1dXVaNXFsaU9NTEVLT3h3VEpES2E4ZHVRZU1xeEdXNXF4MFk1aEw0cVdEZFB5VV9NUzVjSkN2N3hCT1d3?oc=5)
 
-2026-10-02 <span class="news-indication-tag">RA</span>
+2026-10-02 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4SWxtWnlsMjJwWkNNZzZsZ2p4MkwtR3ltUVU1dXVaNXFsaU9NTEVLT3h3VEpES2E4ZHVRZU1xeEdXNXF4MFk1aEw0cVdEZFB5VV9NUzVjSkN2N3hCT1d3?oc=5)
+Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4SWxtWnlsMjJwWkNNZzZsZ2p4MkwtR3ltUVU1dXVaNXFsaU9NTEVLT3h3VEpES2E4ZHVRZU1xeEdXNXF4MFk1aEw0cVdEZFB5VV9NUzVjSkN2N3hCT1d3?oc=5)
 
 ---
 
@@ -350,7 +350,7 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4SWxtWnlsMj
 
 2026-10-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [Reuters](https://news.google.com/rss/articles/CBMiygFBVV95cUxNS0RLT3owc1BmWVNEQlJRUEo4ZW4ycncwaHEtREtoSHdhbk1oUFN6NlktRXhoM1ZTSUZJUW5mOGVjT2VxTWJPQ2ZlVHhVNldyY1JzZ0ktYVZqckdJczFKcGVKZTVURXBKYUxVU2Y0N1ZYLVV1SEZ4LTNPcmgyWnpoWF9XQ282RkNrcHBqQ0ZUNU9Pejgzdm01V0QxOWF4d3lUcEdDVHczVThGZTJTRzBhUWMtdGlnZVRoUE5RdUZycy1EeFZCTFpBUFRB?oc=5)
+Source: [reuters.com](https://news.google.com/rss/articles/CBMiygFBVV95cUxNS0RLT3owc1BmWVNEQlJRUEo4ZW4ycncwaHEtREtoSHdhbk1oUFN6NlktRXhoM1ZTSUZJUW5mOGVjT2VxTWJPQ2ZlVHhVNldyY1JzZ0ktYVZqckdJczFKcGVKZTVURXBKYUxVU2Y0N1ZYLVV1SEZ4LTNPcmgyWnpoWF9XQ282RkNrcHBqQ0ZUNU9Pejgzdm01V0QxOWF4d3lUcEdDVHczVThGZTJTRzBhUWMtdGlnZVRoUE5RdUZycy1EeFZCTFpBUFRB?oc=5)
 
 ---
 
@@ -362,11 +362,19 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirAFBVV95cUxQRFlP
 
 ---
 
-### [A Cancer Test Has Investors Betting Big. But Will Insurers Pay?](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZzFnbEV2dlYzM2EtSVA3MVJ0RnZZN2dLbS14R2pNRE93d3g2Ujdkc3hnVjdaNnBBdnJVMDlSMnpVYkpJZTNaNTRHNXMxTWRreFU5NnhYMEJKV1VHS3hkSFVneG53dnl5MWpzcUZDNnJHY0RwcDduQU8tc3Bld0xVd2d0WlZCWHo3elVULThRVU1xQ1o4SkkyVmtMZWwtMTNqOHdSNXI1YmpDaFpm?oc=5)
+### [Patient dies by suicide after "insurance issue" delayed medicine for lung disease flare-ups - CBS News](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWFpTWV82U3Rjb19fMUFKRmszZlJCSkZ4SmtpdzVzSEJFNE1DaDJ5ZEYwU05WV3ZoeWZaLVlRNFZra1JkLTJVUTEzRExLc0dKNW9XdFBJWmdoRWlkOXA0S2wzVVVTTXh1OTJSSmJDQmhRb2NlXzU4cjV4VjJJbENzMVBvLUR6dFJV?oc=5)
 
-2026-10-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+2026-10-02 <span class="news-indication-tag">RA</span>
 
-Source: [WSJ](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZzFnbEV2dlYzM2EtSVA3MVJ0RnZZN2dLbS14R2pNRE93d3g2Ujdkc3hnVjdaNnBBdnJVMDlSMnpVYkpJZTNaNTRHNXMxTWRreFU5NnhYMEJKV1VHS3hkSFVneG53dnl5MWpzcUZDNnJHY0RwcDduQU8tc3Bld0xVd2d0WlZCWHo3elVULThRVU1xQ1o4SkkyVmtMZWwtMTNqOHdSNXI1YmpDaFpm?oc=5)
+Source: [CBS News](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWFpTWV82U3Rjb19fMUFKRmszZlJCSkZ4SmtpdzVzSEJFNE1DaDJ5ZEYwU05WV3ZoeWZaLVlRNFZra1JkLTJVUTEzRExLc0dKNW9XdFBJWmdoRWlkOXA0S2wzVVVTTXh1OTJSSmJDQmhRb2NlXzU4cjV4VjJJbENzMVBvLUR6dFJV?oc=5)
+
+---
+
+### [People who walk more or walk faster live longer, study finds - Harvard Health](https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWVwNUJsMmJPNWRzMmdhdDl1WnVGOTZPVFl2eFZfZ0tHTFBJOWpDVFkwU1EyMzZFZTJkUm5yMVpsNjI4eks0TGtjRWlNX1BpZkRrdlhZOGRsdlFlZFEzWjNKaUVLbngtYjNoREZVUEVlbU9zOXlIbUFGbTFUUDZ3NDFOS21BZHV0YnJFcDBpVzRjQkpsbl8xRTl5ZnlFU3JLTDhObUd3?oc=5)
+
+2026-10-02 <span class="news-indication-tag">MI</span>
+
+Source: [Harvard Health](https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWVwNUJsMmJPNWRzMmdhdDl1WnVGOTZPVFl2eFZfZ0tHTFBJOWpDVFkwU1EyMzZFZTJkUm5yMVpsNjI4eks0TGtjRWlNX1BpZkRrdlhZOGRsdlFlZFEzWjNKaUVLbngtYjNoREZVUEVlbU9zOXlIbUFGbTFUUDZ3NDFOS21BZHV0YnJFcDBpVzRjQkpsbl8xRTl5ZnlFU3JLTDhObUd3?oc=5)
 
 ---
 
@@ -378,6 +386,14 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVmNseHE2
 
 ---
 
+### [Novel Injectable Drug Cuts Visceral Fat in Phase 2 Trial](https://news.google.com/rss/articles/CBMipgFBVV95cUxOd2lEclNSVFlvWXJ5ZTVaVGMxSG5kX2F2dk00U1Job3NJcHBNbEUxSGp1RHBvRDNMWVhGT3ZWNGZfQV96YVZyMnZVc1J5LUN3NUplT3NTNE5VbWFOTEt1bWc1YVQ3QmctUnR5V0ttQ2IzSUJ2dHc2cHRyMkRqVnUxWUhZMzZMMWJjM2R2akpiNF9TSW1fb05UbWc5LU56cW9OUnotZVNB?oc=5)
+
+2026-10-01 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMipgFBVV95cUxOd2lEclNSVFlvWXJ5ZTVaVGMxSG5kX2F2dk00U1Job3NJcHBNbEUxSGp1RHBvRDNMWVhGT3ZWNGZfQV96YVZyMnZVc1J5LUN3NUplT3NTNE5VbWFOTEt1bWc1YVQ3QmctUnR5V0ttQ2IzSUJ2dHc2cHRyMkRqVnUxWUhZMzZMMWJjM2R2akpiNF9TSW1fb05UbWc5LU56cW9OUnotZVNB?oc=5)
+
+---
+
 ### [Sex chromosomes influence immunity, cancer, aging and disease risk](https://news.google.com/rss/articles/CBMisgFBVV95cUxQcklKbmRWMDg1VW1MVjNDdGRpdnpFZUVkR3pMZEtseF9DMlFueFMwQnU4TEhVZHdPeV9HZlV1cDlKcEpEX21kSXVITURzbWc0WnRnUEV0WnpUUi0zYmJ0YnlXUklpdUxVdklvSWxXUUxOXzdkeW1ydXRaeU9sMzhZQUlEMFBOd2h1S1JEOURSLUVmNUdDcUs1c0xobU92UURuQWVDSW54Zjd2YnV0QnpLaWtR?oc=5)
 
 2026-10-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">flu</span>
@@ -386,11 +402,19 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMisgFBVV95cUxQcklK
 
 ---
 
+### [14 sickened in parasite outbreak tied to McMenamins pool in Bothell](https://news.google.com/rss/articles/CBMi0gFBVV95cUxObUVHaWw1M0R4TFUweFJqVkl0WEpDQkh6dkdxSkQyeUI4RUc0cFBVaW9YSnB6T0tvc3dBZjF0Z3BIT2Q0R3VRR1dGTDBaZTNHc0RJa3V6enlucGxaMlItUVdSdWNLOVdMZC1mYzc0NTVCNG9YT1FYOGtINjk3a00yenJtWjhWME9od3ROZXRVLU9sQk82OXplRTcyYTBJSWRZZnVEblV1bXdNYnVpR3czWER5cW1idzBPbklrQ1k5bFN3dGpZd3ZLT2FMVGMyal8xT3c?oc=5)
+
+2026-10-01 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [KING5.com](https://news.google.com/rss/articles/CBMi0gFBVV95cUxObUVHaWw1M0R4TFUweFJqVkl0WEpDQkh6dkdxSkQyeUI4RUc0cFBVaW9YSnB6T0tvc3dBZjF0Z3BIT2Q0R3VRR1dGTDBaZTNHc0RJa3V6enlucGxaMlItUVdSdWNLOVdMZC1mYzc0NTVCNG9YT1FYOGtINjk3a00yenJtWjhWME9od3ROZXRVLU9sQk82OXplRTcyYTBJSWRZZnVEblV1bXdNYnVpR3czWER5cW1idzBPbklrQ1k5bFN3dGpZd3ZLT2FMVGMyal8xT3c?oc=5)
+
+---
+
 ### [This diet may slow brain aging by 2.5 years](https://news.google.com/rss/articles/CBMib0FVX3lxTFBRMF9PQzBBNGxCTDN0VUJQQlJwS2xiLUFfM0N2TjBaeGF3QnRNNHBYZFVaRk4zby1JWThjLXRxbXU1WW1ydV90MVdPNGtUS1RDaXg5ZnVqbldiYTV0SXlGSFVoXzg4aklqVGNDZHRBaw?oc=5)
 
 2026-10-01 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">flu</span>
 
-Source: [sciencedaily.com](https://news.google.com/rss/articles/CBMib0FVX3lxTFBRMF9PQzBBNGxCTDN0VUJQQlJwS2xiLUFfM0N2TjBaeGF3QnRNNHBYZFVaRk4zby1JWThjLXRxbXU1WW1ydV90MVdPNGtUS1RDaXg5ZnVqbldiYTV0SXlGSFVoXzg4aklqVGNDZHRBaw?oc=5)
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBRMF9PQzBBNGxCTDN0VUJQQlJwS2xiLUFfM0N2TjBaeGF3QnRNNHBYZFVaRk4zby1JWThjLXRxbXU1WW1ydV90MVdPNGtUS1RDaXg5ZnVqbldiYTV0SXlGSFVoXzg4aklqVGNDZHRBaw?oc=5)
 
 ---
 
@@ -406,7 +430,7 @@ Source: [Yahoo](https://news.google.com/rss/articles/CBMijgFBVV95cUxOZkMzeDNMMDh
 
 2026-09-30 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwZjJhblFMU3Z5LXZtWUxVWWpCQWY5U0xlUjMtRXlkVldZdkJBeS1YMS1paC1lbWlRbjBOWE95SGdhX2ppT0I2WFc1VzBwUloxQV9nMUE5QWQ3ZjhtUmZz?oc=5)
+Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwZjJhblFMU3Z5LXZtWUxVWWpCQWY5U0xlUjMtRXlkVldZdkJBeS1YMS1paC1lbWlRbjBOWE95SGdhX2ppT0I2WFc1VzBwUloxQV9nMUE5QWQ3ZjhtUmZz?oc=5)
 
 ---
 
@@ -418,6 +442,14 @@ Source: [Quanta Magazine](https://news.google.com/rss/articles/CBMiogFBVV95cUxPT
 
 ---
 
+### [Heavy drinking surges among one age group of Americans — as other generations cut back - New York Post](https://news.google.com/rss/articles/CBMivwFBVV95cUxOc1ZONzRqZU1XX2xFSDBwVVoyUXp0Vlo2c05MMy04S3NUMTBGcURoRWNTMzRkVE5vRjRLNndZRnR2TkRYaTRNdDgtLVdubzI5RHRubkpUeFBPV28zcTNMb2dsb0lwT3l6d2FBdW9STHJVV3FTSVdFZWVFVXkzdXBrbC1pRU10dHlBUGpRMnlabldSbmxsSU41WHNGaTZpRWZEZXVxQ0NWalZwREQ0akNuODlQd182VTFid0s3d3dtdw?oc=5)
+
+2026-09-30 <span class="news-indication-tag">RA</span>
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMivwFBVV95cUxOc1ZONzRqZU1XX2xFSDBwVVoyUXp0Vlo2c05MMy04S3NUMTBGcURoRWNTMzRkVE5vRjRLNndZRnR2TkRYaTRNdDgtLVdubzI5RHRubkpUeFBPV28zcTNMb2dsb0lwT3l6d2FBdW9STHJVV3FTSVdFZWVFVXkzdXBrbC1pRU10dHlBUGpRMnlabldSbmxsSU41WHNGaTZpRWZEZXVxQ0NWalZwREQ0akNuODlQd182VTFid0s3d3dtdw?oc=5)
+
+---
+
 ### [This leg condition that’s overlooked in women can raise heart attack, stroke risk - The Washington Post](https://news.google.com/rss/articles/CBMivwFBVV95cUxOcHFhUG1aUTZfTUo4OHpZZ2gyc1Z1ck9FVTV1MnlOWFJlWHk2d20tX0FmWHRvOFZOSDFscEJ4R1VpQlNqczF6aXNOX1BzSHhnNnBvdlltTGp3UUV1ZHNnMnlCUEMxRTBiMnhLMnkzeG4tQVlrdkVCRGtBbGtrQmJVTnJtdjR1WnRFVXZHUTlWVzk3VElHR005NWd6R2RNUUFSa1BHcXBHcGV2SjNNa0Q2OFlyRzNEcVh3Nkx5TXduNA?oc=5)
 
 2026-09-30 <span class="news-indication-tag">heart attack</span> <span class="news-indication-tag">RA</span>
@@ -426,11 +458,11 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMivwFBVV95c
 
 ---
 
-### [Heavy drinking surges among Americans in one age group as other generations cut back - Fox News](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ1dTNWhpbU5lQTUyM05Bc1doOGIzTGZLNkRFNkl5aFF5VUxLSWw0SEJRTmRGTm1NWjNkVVJPSXhCMnFuNVRocVQ4dmhNX2ZkNEZjQjFhZ3Z4THlFT2Mtb3ZDS3M0SWRxckU4RXZKTU1NYkw2aWhWMmdhY21vaFJ6cWhxc2NmWWM1aGZfcXNOUnhkLS1pbjk2ako5UFEzNU5uTDdLcTRB0gGrAUFVX3lxTE1mb2NMZEFlRkphcVBEVlRwUTh0Ums0d21PNXlocUU2YmQyUlhTblBReV9VWl80bU5fMDY5Z3pzM0IwRElYcW4zUFl2X01URUVsXzZVOVVvbFhsQkFfUDZMMEQtWmxNMUdnY29mRzhxRDZ5RUI4ck5PV05RbjV5WlA2UzZnWERlU2hFbDBFZld1YmFwNEw2SmltRTN4U2o3eFBFbkFZVXM2YWpMRQ?oc=5)
+### [She Says Vaccines Killed Her Twins. The Authorities Say She Did. - The New York Times](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUkhvVXlkZ0RBUDRTclUxZ1lxaml1bmZHaWJJMHA1eTFEMnhYSWYyVnEwTWJVS01rTmJKMkNoUmswa1hoUmVEQ0lIcjJSMFp0ME9LbHBJN21EZVNfVlVGSExlbFo2VDZsYW5RVFQxa2JEZEI0cVJDUjk1ZlRaWDl0bFhZd25hdGNyUnhv?oc=5)
 
 2026-09-30 <span class="news-indication-tag">RA</span>
 
-Source: [Fox News](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ1dTNWhpbU5lQTUyM05Bc1doOGIzTGZLNkRFNkl5aFF5VUxLSWw0SEJRTmRGTm1NWjNkVVJPSXhCMnFuNVRocVQ4dmhNX2ZkNEZjQjFhZ3Z4THlFT2Mtb3ZDS3M0SWRxckU4RXZKTU1NYkw2aWhWMmdhY21vaFJ6cWhxc2NmWWM1aGZfcXNOUnhkLS1pbjk2ako5UFEzNU5uTDdLcTRB0gGrAUFVX3lxTE1mb2NMZEFlRkphcVBEVlRwUTh0Ums0d21PNXlocUU2YmQyUlhTblBReV9VWl80bU5fMDY5Z3pzM0IwRElYcW4zUFl2X01URUVsXzZVOVVvbFhsQkFfUDZMMEQtWmxNMUdnY29mRzhxRDZ5RUI4ck5PV05RbjV5WlA2UzZnWERlU2hFbDBFZld1YmFwNEw2SmltRTN4U2o3eFBFbkFZVXM2YWpMRQ?oc=5)
+Source: [The New York Times](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUkhvVXlkZ0RBUDRTclUxZ1lxaml1bmZHaWJJMHA1eTFEMnhYSWYyVnEwTWJVS01rTmJKMkNoUmswa1hoUmVEQ0lIcjJSMFp0ME9LbHBJN21EZVNfVlVGSExlbFo2VDZsYW5RVFQxa2JEZEI0cVJDUjk1ZlRaWDl0bFhZd25hdGNyUnhv?oc=5)
 
 ---
 
@@ -438,15 +470,15 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ1dTNWhp
 
 2026-09-30 <span class="news-indication-tag">RA</span>
 
-Source: [sciencedaily.com](https://news.google.com/rss/articles/CBMib0FVX3lxTE1LTWVDOXd6cFF2QkhMSDJnNE5FM2FaQXE1VDdpWk1mN2RobERGY2Z1MlpPNTgxYXR2NkZzbExGdDJOV0w2dU1BTUtaUENrOE5iY3plcE5wQ3B2NlRxQS0xWUdhRGZubm94OGFnenA1NA?oc=5)
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1LTWVDOXd6cFF2QkhMSDJnNE5FM2FaQXE1VDdpWk1mN2RobERGY2Z1MlpPNTgxYXR2NkZzbExGdDJOV0w2dU1BTUtaUENrOE5iY3plcE5wQ3B2NlRxQS0xWUdhRGZubm94OGFnenA1NA?oc=5)
 
 ---
 
-### [Ice Age Spear Points Tell a Fascinating Story of Human Progress - Nautilus | Science Connected](https://news.google.com/rss/articles/CBMikwFBVV95cUxPWDUwZmppak5Vc3VsejhQbVQzTnkxbnJuODByNllSa3RkZEZPMjByYzB5WEl6TkJ1RjFEQ3hPbGFHaUp2TzlIcTJFd3pFWndGVG9jVXpYcXZBb2VJWS1VNVdyVDA4enNfQ0drSEJDVnBCT3lPRHo5dktRLThhZDIzTV94WnJHREJ3Z2txb1QtckJmZUE?oc=5)
+### [Ice Age Spear Points Tell a Fascinating Story of Human Progress](https://news.google.com/rss/articles/CBMikwFBVV95cUxPWDUwZmppak5Vc3VsejhQbVQzTnkxbnJuODByNllSa3RkZEZPMjByYzB5WEl6TkJ1RjFEQ3hPbGFHaUp2TzlIcTJFd3pFWndGVG9jVXpYcXZBb2VJWS1VNVdyVDA4enNfQ0drSEJDVnBCT3lPRHo5dktRLThhZDIzTV94WnJHREJ3Z2txb1QtckJmZUE?oc=5)
 
 2026-09-29 <span class="news-indication-tag">MI</span>
 
-Source: [Nautilus | Science Connected](https://news.google.com/rss/articles/CBMikwFBVV95cUxPWDUwZmppak5Vc3VsejhQbVQzTnkxbnJuODByNllSa3RkZEZPMjByYzB5WEl6TkJ1RjFEQ3hPbGFHaUp2TzlIcTJFd3pFWndGVG9jVXpYcXZBb2VJWS1VNVdyVDA4enNfQ0drSEJDVnBCT3lPRHo5dktRLThhZDIzTV94WnJHREJ3Z2txb1QtckJmZUE?oc=5)
+Source: [nautil.us](https://news.google.com/rss/articles/CBMikwFBVV95cUxPWDUwZmppak5Vc3VsejhQbVQzTnkxbnJuODByNllSa3RkZEZPMjByYzB5WEl6TkJ1RjFEQ3hPbGFHaUp2TzlIcTJFd3pFWndGVG9jVXpYcXZBb2VJWS1VNVdyVDA4enNfQ0drSEJDVnBCT3lPRHo5dktRLThhZDIzTV94WnJHREJ3Z2txb1QtckJmZUE?oc=5)
 
 ---
 
@@ -454,13 +486,13 @@ Source: [Nautilus | Science Connected](https://news.google.com/rss/articles/CBMi
 
 2026-09-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
-Source: [Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEJkMzJPVUdxcURGcjEwcG1CbzJGc2c2Z2VybVU1N1JiajVGWFV0VjcxQUVtbXk4TGFJRHpnRGdQMUhxd1k2QUFHZjRDWTJTVldNXzI2REl0alIxS3VtM2RNSTZVNW5HX2stT0N1WlhyZmF5a3FGTWZJU1hTd2Uzbk4wT3RIQ1c1TjV3X1NaTS1aVFJGN05Gb1FMZFpoSWQ4Y1ZoWG9VVm9ubE53YlZ5YzNmRjVfNkQwVTh1bElsRUM?oc=5)
+Source: [reuters.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEJkMzJPVUdxcURGcjEwcG1CbzJGc2c2Z2VybVU1N1JiajVGWFV0VjcxQUVtbXk4TGFJRHpnRGdQMUhxd1k2QUFHZjRDWTJTVldNXzI2REl0alIxS3VtM2RNSTZVNW5HX2stT0N1WlhyZmF5a3FGTWZJU1hTd2Uzbk4wT3RIQ1c1TjV3X1NaTS1aVFJGN05Gb1FMZFpoSWQ4Y1ZoWG9VVm9ubE53YlZ5YzNmRjVfNkQwVTh1bElsRUM?oc=5)
 
 ---
 
 ### [A Gripping Real-Life Horror Story of Dementia, Love and Grief - The New York Times](https://news.google.com/rss/articles/CBMikAFBVV95cUxOcFZzNjlXRDJWMFI2dzhKZVJyaWlmS1NqbDRWb25qbUNzcVdnR3dkRlM2OXJBckJBWHFQVU5DLTU3bzdUaThQTDRueGhyX0cwYUd1RE1DSUFSRmh5bjJ2MlQ1RjhwRkZvWnc2dnp0azZSYWI2Y09NQmlGTUFDOTZDaGJrLXNMVTFGRTQ5YkhORHo?oc=5)
 
-2026-09-29 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+2026-09-29 <span class="news-indication-tag">RA</span>
 
 Source: [The New York Times](https://news.google.com/rss/articles/CBMikAFBVV95cUxOcFZzNjlXRDJWMFI2dzhKZVJyaWlmS1NqbDRWb25qbUNzcVdnR3dkRlM2OXJBckJBWHFQVU5DLTU3bzdUaThQTDRueGhyX0cwYUd1RE1DSUFSRmh5bjJ2MlQ1RjhwRkZvWnc2dnp0azZSYWI2Y09NQmlGTUFDOTZDaGJrLXNMVTFGRTQ5YkhORHo?oc=5)
 
@@ -484,7 +516,7 @@ Source: [STAT](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX3lydlBaTmpI
 
 ### [Screen time ‘damages children more than being born into poverty’ - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQU0tVNWRWMmo0dXN6NWNoc2ZROXhtbU9GeXhNb3RmQ1R6dER3NHBqUEo1VUc5TzA0NW50bklaUU5temRJV0hiZTd3a2JnbUdTelNIdVNKcTRpemNTMlRQUHdtbXkzTkkwUjdzd08yWGFRNXJBRlo0dDNCY1dXblVCajFydVk2NWo0TEc2TEp0OHNqWUZLZ3lleS1lTk5MUQ?oc=5)
 
-2026-09-28 <span class="news-indication-tag">RA</span>
+2026-09-28 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQU0tVNWRWMmo0dXN6NWNoc2ZROXhtbU9GeXhNb3RmQ1R6dER3NHBqUEo1VUc5TzA0NW50bklaUU5temRJV0hiZTd3a2JnbUdTelNIdVNKcTRpemNTMlRQUHdtbXkzTkkwUjdzd08yWGFRNXJBRlo0dDNCY1dXblVCajFydVk2NWo0TEc2TEp0OHNqWUZLZ3lleS1lTk5MUQ?oc=5)
 

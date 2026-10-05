@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 4 articles, 2 related drugs."
+description: "Health news about flu (influenza). 2 articles, 2 related drugs."
 permalink: /news/influenza/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/influenza/
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>4 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>2 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,23 +30,7 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (4)
-
-### [Most people with flu stop isolating at exactly the wrong time, CDC study finds - San Francisco Chronicle](https://news.google.com/rss/articles/CBMijAFBVV95cUxORXNPRDVkZkVlZFd0TGYyQkZ2a3JRd2twOUlhZjc2Znd3Y1lRbjNYc2RGejhDb1pnTFJPS19QZnlURnJWRzB6LUFMUHQwWGpxWmJCV25BWWFYcGJfZktGRFpHS2VUVnFTa09GVTB5ZmpyOEY2M1l4UWdicUdBTTlWeUZtQnpsTHNXbGNlNA?oc=5)
-
-2026-10-05
-
-Source: [San Francisco Chronicle](https://news.google.com/rss/articles/CBMijAFBVV95cUxORXNPRDVkZkVlZFd0TGYyQkZ2a3JRd2twOUlhZjc2Znd3Y1lRbjNYc2RGejhDb1pnTFJPS19QZnlURnJWRzB6LUFMUHQwWGpxWmJCV25BWWFYcGJfZktGRFpHS2VUVnFTa09GVTB5ZmpyOEY2M1l4UWdicUdBTTlWeUZtQnpsTHNXbGNlNA?oc=5)
-
----
-
-### [Flu season is coming. What Michigan residents should know about flu, COVID and RSV shots](https://news.google.com/rss/articles/CBMixAFBVV95cUxQMjdYMjBvUUxzRTNHT29JSWVoNTFxZDJNb0F1TFFxaUtXdEJhZVlsMTZDcHFPM2d0bmxrWU1YT05CNTdyLVpHMHZSYjdVSF9weXAwUnU1M1VDTFNmbDZST3NjNmVIZTB2blhyODJKbWJ5MUNKMUFoejZvanpWVUtqcWdEeFZFd1k4NXkwdXA2QzgzMjJndm9MU2lmbU5EY01lS18zV2M2VWRGSWV1aDlkSUN0WHFvbHhtanpSX1BCMzZsbWVv?oc=5)
-
-2026-10-03
-
-Source: [MLive.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxQMjdYMjBvUUxzRTNHT29JSWVoNTFxZDJNb0F1TFFxaUtXdEJhZVlsMTZDcHFPM2d0bmxrWU1YT05CNTdyLVpHMHZSYjdVSF9weXAwUnU1M1VDTFNmbDZST3NjNmVIZTB2blhyODJKbWJ5MUNKMUFoejZvanpWVUtqcWdEeFZFd1k4NXkwdXA2QzgzMjJndm9MU2lmbU5EY01lS18zV2M2VWRGSWV1aDlkSUN0WHFvbHhtanpSX1BCMzZsbWVv?oc=5)
-
----
+## Related News (2)
 
 ### [Patient-zero drill put health facilities to the test—40% of them failed - Ars Technica](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEtuRG1GdjRaNndMa3JzTVBtaU1uUXA3YmMxRFFxMHVES2RvMTlJRlRfd0FyUEw4UXNkTXhKMU9VWHJtRTB2RUx3Y1V0Z0FZSVFJVkNERzFGQXV4ZGhJQmhTWjhoV2YxMDdCSHpWN0JxUUNyc1ZoeGllY2tIdFFnZ0Z4Zm82LTdjQ29tYVlBcXRoamVpYXd4dWVkb2pRUG50UzVnbVN4M19mSkxUUHFV?oc=5)
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "cancer News"
+title: "carcinoma (cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 9 articles, 1 related drugs."
+description: "Health news about carcinoma (cancer). 9 articles, 1 related drugs."
 permalink: /news/cancer/
 ---
 
-# cancer News
+# carcinoma (cancer) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>9 news articles</strong> and 1 related drugs.
+<p class="key-answer" data-question="What news is there about carcinoma (cancer)?">
+<strong>carcinoma (cancer)</strong> currently has <strong>9 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “cancer” and lists the drugs in the UsTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “carcinoma” and lists the drugs in the UsTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -31,11 +31,35 @@ This page brings together the latest health news about “cancer” and lists th
 
 ## Related News (9)
 
-### [6 Supplements Everyone Should Consider Taking, According to Experts](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ec1lnQWRrS1owZHhGa2JidHFwOUNvenQzeGRwRWc3M0VUdTJEcDUzd1pmb0h3QjhwSS0tUEdTV0ltTlFFRi1xaTBEQ3dDZktveXV1SVBnUDdMZ1MxOUYyTWZhOS1zTUE?oc=5)
+### [About 1 in 8 cancer cases worldwide are tied to these infections — most of them preventable](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYmNLUU50bXMtY3lnR0xaaGlPVTdiWWtTQ0J3SzlEc0FIZm9kTzBfUnpqZ0pRczRkRkdwUU9FVkNPVW1QdS1ZbFdYMlM1NmhNWTNKTGlJNDVwR09YOFlrYzVEc2R2N25RNEo4ZVNGT0Jkd293WVZobXI0NTZBajlreW5iWEozZHAtMFZpYXln?oc=5)
+
+2026-10-05
+
+Source: [CNN](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYmNLUU50bXMtY3lnR0xaaGlPVTdiWWtTQ0J3SzlEc0FIZm9kTzBfUnpqZ0pRczRkRkdwUU9FVkNPVW1QdS1ZbFdYMlM1NmhNWTNKTGlJNDVwR09YOFlrYzVEc2R2N25RNEo4ZVNGT0Jkd293WVZobXI0NTZBajlreW5iWEozZHAtMFZpYXln?oc=5)
+
+---
+
+### [Giant Papillary Renal Cell Carcinoma: A Rare Case of a 31-cm Renal Mass With Suspected Metastatic Disease on Imaging](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQT2ZZSlhNdk5mRFRwa3lyRjVxVzhPY1ViYzMwMVIxLWlhNVl1ZS1YSXFMTllEOURlOUtxX0hETUl1N1BZRGFNNTlpdjB6M2xwS3Rsd3RSUjBCSHFsaW1uRjJpYXRsWFVPdXdNOWJsOXJKUlAyVnA5OExHNHpYaVNkZ0lvN0NTdElITE1ZQ0lCYmswQnBidTVzN2NvX3JQVUhCSUNqdlZ0MkJUbDhRMi1DR0JDcXU1bm5KOFpwR2VaNVE3UWJveTZFUUpwdTRIM0w5RW1hUGMzNUdHSjFhb0ZiYU5kV2ktMFVKNnc?oc=5)
+
+2026-10-05
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQT2ZZSlhNdk5mRFRwa3lyRjVxVzhPY1ViYzMwMVIxLWlhNVl1ZS1YSXFMTllEOURlOUtxX0hETUl1N1BZRGFNNTlpdjB6M2xwS3Rsd3RSUjBCSHFsaW1uRjJpYXRsWFVPdXdNOWJsOXJKUlAyVnA5OExHNHpYaVNkZ0lvN0NTdElITE1ZQ0lCYmswQnBidTVzN2NvX3JQVUhCSUNqdlZ0MkJUbDhRMi1DR0JDcXU1bm5KOFpwR2VaNVE3UWJveTZFUUpwdTRIM0w5RW1hUGMzNUdHSjFhb0ZiYU5kV2ktMFVKNnc?oc=5)
+
+---
+
+### [Processed meat may be causing rise in bowel cancer - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxOdDdqNnhIZFk5Mjg3Y203X1JZLXhPMjR0RnNaZndIa2Y2dnlSTzYzaVVxMDFoSHNJbk91N0RsZVlDTV9XMExaSTVBaTRIaTNwdjF6QzZ5dzZUQXJkQTEta1l0RGtzaFd4YlBDakN0OU43V1hTQ1JUSGtHOXgyQXMzc24wa2Y4bkdvV2lEOEZmWlRnMFBEZ2R2Z2NYUUlBdzE1RGZz?oc=5)
+
+2026-10-05
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxOdDdqNnhIZFk5Mjg3Y203X1JZLXhPMjR0RnNaZndIa2Y2dnlSTzYzaVVxMDFoSHNJbk91N0RsZVlDTV9XMExaSTVBaTRIaTNwdjF6QzZ5dzZUQXJkQTEta1l0RGtzaFd4YlBDakN0OU43V1hTQ1JUSGtHOXgyQXMzc24wa2Y4bkdvV2lEOEZmWlRnMFBEZ2R2Z2NYUUlBdzE1RGZz?oc=5)
+
+---
+
+### [Five silent bowel cancer signs that experts warn you should not ignore - The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxQaHN1M0UwSGFOOEVsa3dfVnZKNC1HMzdxc0NVNGVUNXEwV1ZnQU5UazZGZ2RLRlpoVmNLM05wdlZ1NEphSnZ0N25CcXJ0M0x5QU5pMVpuRFNaX0VndktrM1hCNV9TRnhRd2VONlJRT0g5UDRZRS1SclU2SVcyZDFiR2NkZXhYNlZNNG1rMHBxTXdlaXFSdllDcmp2bnN3YWtOWkRzcmRocEg4eUhFOWZzTQ?oc=5)
 
 2026-10-04
 
-Source: [Health.com](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ec1lnQWRrS1owZHhGa2JidHFwOUNvenQzeGRwRWc3M0VUdTJEcDUzd1pmb0h3QjhwSS0tUEdTV0ltTlFFRi1xaTBEQ3dDZktveXV1SVBnUDdMZ1MxOUYyTWZhOS1zTUE?oc=5)
+Source: [The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxQaHN1M0UwSGFOOEVsa3dfVnZKNC1HMzdxc0NVNGVUNXEwV1ZnQU5UazZGZ2RLRlpoVmNLM05wdlZ1NEphSnZ0N25CcXJ0M0x5QU5pMVpuRFNaX0VndktrM1hCNV9TRnhRd2VONlJRT0g5UDRZRS1SclU2SVcyZDFiR2NkZXhYNlZNNG1rMHBxTXdlaXFSdllDcmp2bnN3YWtOWkRzcmRocEg4eUhFOWZzTQ?oc=5)
 
 ---
 
@@ -47,43 +71,11 @@ Source: [Newser](https://news.google.com/rss/articles/CBMimwFBVV95cUxQemF0R3Y2dG
 
 ---
 
-### [Doctors Say This 'Embarrassing' Symptom Could Be A Warning Sign Of Colorectal Cancer](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWk1NNEdMOUZBdGNsVDdGUHp5bWZaNEhxU2FsOXVYNmZjOW50c3pLY2NpcWR5R2VwSW5PZHNJV3dVRzNNTUVIanBRUTBiTU5URUJpVE1iUEdTc2dJajk4X2dEWDF5N2JYcTJ1NkdtYmpxZ2FnZjUzTmNZbnJvZThreEtZemdMbDMwRDVkel9CRmlIeGpEek9UMlhWOEJjMUhmN3JxOVFXQzNLSGdDckowLUktSERSMXk5ZE9rUlhNaVBNdUl5V0pORHo1WjR1S3VUdEk3QWFzUHZrZ9IB3wFBVV95cUxOQTI1NWUwWHVTUVcwa3Z0TE1jMkNuOFl0SVV5N09lVzllVzhqNTltc2pjb3VUNG1JUlhtOG5vSW41UnJOUUozWmxZS1BEb29Qcy1WSTZnMUZESWY0RGJGZU1LWVVqQ0tGRF9VOGhVY2hUeC1aSzZ5azktaTVKZVFneG1IZ2hLclUxSng0ZjY4eGJmcDEwVXU5VWY4VzhTY3BUMENmX3phUjBqNk1tOUVydWFyaXV3Mkhtal9vQWpmNFh3WjJtODVXYzgwUFBOUHNxTGx1YTA2eUZWWVV6VlFj?oc=5)
-
-2026-10-04
-
-Source: [HuffPost](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWk1NNEdMOUZBdGNsVDdGUHp5bWZaNEhxU2FsOXVYNmZjOW50c3pLY2NpcWR5R2VwSW5PZHNJV3dVRzNNTUVIanBRUTBiTU5URUJpVE1iUEdTc2dJajk4X2dEWDF5N2JYcTJ1NkdtYmpxZ2FnZjUzTmNZbnJvZThreEtZemdMbDMwRDVkel9CRmlIeGpEek9UMlhWOEJjMUhmN3JxOVFXQzNLSGdDckowLUktSERSMXk5ZE9rUlhNaVBNdUl5V0pORHo1WjR1S3VUdEk3QWFzUHZrZ9IB3wFBVV95cUxOQTI1NWUwWHVTUVcwa3Z0TE1jMkNuOFl0SVV5N09lVzllVzhqNTltc2pjb3VUNG1JUlhtOG5vSW41UnJOUUozWmxZS1BEb29Qcy1WSTZnMUZESWY0RGJGZU1LWVVqQ0tGRF9VOGhVY2hUeC1aSzZ5azktaTVKZVFneG1IZ2hLclUxSng0ZjY4eGJmcDEwVXU5VWY4VzhTY3BUMENmX3phUjBqNk1tOUVydWFyaXV3Mkhtal9vQWpmNFh3WjJtODVXYzgwUFBOUHNxTGx1YTA2eUZWWVV6VlFj?oc=5)
-
----
-
-### [1 in 8 cancer cases are caused by infections, underscoring the importance of vaccines, experts say - Live Science](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb24yUVRzNDFNZFMxZlRzYjJGVUdxVVBvMmFEVmxSQmRadHlUdm4zby1zLUVVbGNmZzlXd2pJenlMd1VtQVZMeE9oS2R2QjdPQXFMZVBvN1R3OXQ0WGJlMDF1NHIteDFJVGRvT0txZ1U4X0Ita255QXlVcHAzOUpoREE0eEItcFY0VFJJLS1idDM5eEpCMVdCaEhtcVB0R25FdTRsUzl2UDR3a0xjYmdNYk5xYVNmNHBHZ3lVRDN3elA5UjlSWjFYZ1FQNTRiY2d1VWpwMg?oc=5)
-
-2026-10-03
-
-Source: [Live Science](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb24yUVRzNDFNZFMxZlRzYjJGVUdxVVBvMmFEVmxSQmRadHlUdm4zby1zLUVVbGNmZzlXd2pJenlMd1VtQVZMeE9oS2R2QjdPQXFMZVBvN1R3OXQ0WGJlMDF1NHIteDFJVGRvT0txZ1U4X0Ita255QXlVcHAzOUpoREE0eEItcFY0VFJJLS1idDM5eEpCMVdCaEhtcVB0R25FdTRsUzl2UDR3a0xjYmdNYk5xYVNmNHBHZ3lVRDN3elA5UjlSWjFYZ1FQNTRiY2d1VWpwMg?oc=5)
-
----
-
-### [New cancer drugs are revolutionary. Why don’t more patients get them? - The Seattle Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQYzlCVjBaeENuRlZ2WS11SkJ4cGZDZmRvai14cGVKdTlMTjhfcVg0SGtydG5oWDIwM2hYNlFkdEtTd2RGR1RWV29xM2MtQTNueElkQ3d1c3VpUkxCNGNvOG94cnFkbVpRcDdndzBVQjRDRS1ucmJoUnRJYWlxV2xzTkt4Q2V4T3dFd1lhQTF6eXZxQjBIZXgtanA0V2VLX1BhQnYweG0zLXl2Y3BQN3c?oc=5)
-
-2026-10-03
-
-Source: [The Seattle Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQYzlCVjBaeENuRlZ2WS11SkJ4cGZDZmRvai14cGVKdTlMTjhfcVg0SGtydG5oWDIwM2hYNlFkdEtTd2RGR1RWV29xM2MtQTNueElkQ3d1c3VpUkxCNGNvOG94cnFkbVpRcDdndzBVQjRDRS1ucmJoUnRJYWlxV2xzTkt4Q2V4T3dFd1lhQTF6eXZxQjBIZXgtanA0V2VLX1BhQnYweG0zLXl2Y3BQN3c?oc=5)
-
----
-
-### [Scientists Untangle the Biology of an ‘Undruggable’ Cancer Gene](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdDZxVGs2MkFnenNPR3VKV0ZQck14TDhQWnMwaTF4NThqSWZFMFVlcFlIUFREZGRqMlZnSENBcWVvbC02ZExCSllkdUhfNmVINHRhWmZxWGJ6M0N2MTVYVlBVNlF6UWtTR0dRaHFUWmt5Zjc2RENUcHJUaUdLeTVkSm41TFFjcmFKQXVFVV9TOHlkUW5PdzdzZUZ3VXZWQ1drWC1YX0tRWFM1aVpWdmc?oc=5)
+### [Scientists Untangle the Biology of an ‘Undruggable’ Cancer Gene - The New York Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdDZxVGs2MkFnenNPR3VKV0ZQck14TDhQWnMwaTF4NThqSWZFMFVlcFlIUFREZGRqMlZnSENBcWVvbC02ZExCSllkdUhfNmVINHRhWmZxWGJ6M0N2MTVYVlBVNlF6UWtTR0dRaHFUWmt5Zjc2RENUcHJUaUdLeTVkSm41TFFjcmFKQXVFVV9TOHlkUW5PdzdzZUZ3VXZWQ1drWC1YX0tRWFM1aVpWdmc?oc=5)
 
 2026-10-02
 
-Source: [nytimes.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdDZxVGs2MkFnenNPR3VKV0ZQck14TDhQWnMwaTF4NThqSWZFMFVlcFlIUFREZGRqMlZnSENBcWVvbC02ZExCSllkdUhfNmVINHRhWmZxWGJ6M0N2MTVYVlBVNlF6UWtTR0dRaHFUWmt5Zjc2RENUcHJUaUdLeTVkSm41TFFjcmFKQXVFVV9TOHlkUW5PdzdzZUZ3VXZWQ1drWC1YX0tRWFM1aVpWdmc?oc=5)
-
----
-
-### [NEWSLETTER: Appendix removal linked with lower colon cancer risk in study](https://news.google.com/rss/articles/CBMiygFBVV95cUxNS0RLT3owc1BmWVNEQlJRUEo4ZW4ycncwaHEtREtoSHdhbk1oUFN6NlktRXhoM1ZTSUZJUW5mOGVjT2VxTWJPQ2ZlVHhVNldyY1JzZ0ktYVZqckdJczFKcGVKZTVURXBKYUxVU2Y0N1ZYLVV1SEZ4LTNPcmgyWnpoWF9XQ282RkNrcHBqQ0ZUNU9Pejgzdm01V0QxOWF4d3lUcEdDVHczVThGZTJTRzBhUWMtdGlnZVRoUE5RdUZycy1EeFZCTFpBUFRB?oc=5)
-
-2026-10-02
-
-Source: [Reuters](https://news.google.com/rss/articles/CBMiygFBVV95cUxNS0RLT3owc1BmWVNEQlJRUEo4ZW4ycncwaHEtREtoSHdhbk1oUFN6NlktRXhoM1ZTSUZJUW5mOGVjT2VxTWJPQ2ZlVHhVNldyY1JzZ0ktYVZqckdJczFKcGVKZTVURXBKYUxVU2Y0N1ZYLVV1SEZ4LTNPcmgyWnpoWF9XQ282RkNrcHBqQ0ZUNU9Pejgzdm01V0QxOWF4d3lUcEdDVHczVThGZTJTRzBhUWMtdGlnZVRoUE5RdUZycy1EeFZCTFpBUFRB?oc=5)
+Source: [The New York Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdDZxVGs2MkFnenNPR3VKV0ZQck14TDhQWnMwaTF4NThqSWZFMFVlcFlIUFREZGRqMlZnSENBcWVvbC02ZExCSllkdUhfNmVINHRhWmZxWGJ6M0N2MTVYVlBVNlF6UWtTR0dRaHFUWmt5Zjc2RENUcHJUaUdLeTVkSm41TFFjcmFKQXVFVV9TOHlkUW5PdzdzZUZ3VXZWQ1drWC1YX0tRWFM1aVpWdmc?oc=5)
 
 ---
 
@@ -95,11 +87,19 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMisgFBVV95cUxQcklK
 
 ---
 
+### [New Cancer Drugs Are Revolutionary. Why Don’t More Patients Get Them? - The New York Times](https://news.google.com/rss/articles/CBMitAFBVV95cUxQeUNsekgzR25ack1ZQXhBZ0RCZDE3V25NeVNKbW83WERIdENnYkliTWptR0tMblR2bHJPQXpIMFMzS0pRTDNHMG1peF9neVJ2eE5iYXdkcUtfQmd2WEEwV3V1Q2dWSXJNVVd4ZTJDR3NFZzBMWUxKa0JqYTRQRmg3enNkendnWFNncTd3cWVoM0VSUFlrMVcxRWZteHFjR1g1YmxjaFJEZmdqTDRncTdNYnRRNzg?oc=5)
+
+2026-09-30
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMitAFBVV95cUxQeUNsekgzR25ack1ZQXhBZ0RCZDE3V25NeVNKbW83WERIdENnYkliTWptR0tMblR2bHJPQXpIMFMzS0pRTDNHMG1peF9neVJ2eE5iYXdkcUtfQmd2WEEwV3V1Q2dWSXJNVVd4ZTJDR3NFZzBMWUxKa0JqYTRQRmg3enNkendnWFNncTd3cWVoM0VSUFlrMVcxRWZteHFjR1g1YmxjaFJEZmdqTDRncTdNYnRRNzg?oc=5)
+
+---
+
 ### [Soaring cancer rates in Iowa emerge as a key US midterms issue](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEJkMzJPVUdxcURGcjEwcG1CbzJGc2c2Z2VybVU1N1JiajVGWFV0VjcxQUVtbXk4TGFJRHpnRGdQMUhxd1k2QUFHZjRDWTJTVldNXzI2REl0alIxS3VtM2RNSTZVNW5HX2stT0N1WlhyZmF5a3FGTWZJU1hTd2Uzbk4wT3RIQ1c1TjV3X1NaTS1aVFJGN05Gb1FMZFpoSWQ4Y1ZoWG9VVm9ubE53YlZ5YzNmRjVfNkQwVTh1bElsRUM?oc=5)
 
 2026-09-29
 
-Source: [Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEJkMzJPVUdxcURGcjEwcG1CbzJGc2c2Z2VybVU1N1JiajVGWFV0VjcxQUVtbXk4TGFJRHpnRGdQMUhxd1k2QUFHZjRDWTJTVldNXzI2REl0alIxS3VtM2RNSTZVNW5HX2stT0N1WlhyZmF5a3FGTWZJU1hTd2Uzbk4wT3RIQ1c1TjV3X1NaTS1aVFJGN05Gb1FMZFpoSWQ4Y1ZoWG9VVm9ubE53YlZ5YzNmRjVfNkQwVTh1bElsRUM?oc=5)
+Source: [reuters.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEJkMzJPVUdxcURGcjEwcG1CbzJGc2c2Z2VybVU1N1JiajVGWFV0VjcxQUVtbXk4TGFJRHpnRGdQMUhxd1k2QUFHZjRDWTJTVldNXzI2REl0alIxS3VtM2RNSTZVNW5HX2stT0N1WlhyZmF5a3FGTWZJU1hTd2Uzbk4wT3RIQ1c1TjV3X1NaTS1aVFJGN05Gb1FMZFpoSWQ4Y1ZoWG9VVm9ubE53YlZ5YzNmRjVfNkQwVTh1bElsRUM?oc=5)
 
 ---
 

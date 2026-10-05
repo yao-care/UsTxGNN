@@ -3,7 +3,7 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 4 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 3 articles, 1 related drugs."
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>4 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>3 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (4)
+## Related News (3)
 
-### [Pennsylvania health officials brace themselves as measles outbreak expected to spread - The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHZZbzctb1Fyc1Q3UnN1OTFpelZpLWVsc3dFZGk1eHc5ZjhUdlY4VlFtTEludmlLMzVYSVVKaWlaeHozSUtndFUzSWtUZ1VYYW9RZHdnUkJhZ0xCRHZGNUJoU2JqM242aEdwZHFROUxjamUxTy1uQkR2cUtmZ1BtOXFLNGpLWFJjWWpLU2Y0WGRtTUl6aTNvQVZ3?oc=5)
+### [Here’s how Western Pa. school districts are preparing amid a statewide surge in measles cases - Pittsburgh Post](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNUxabGFZMHVQS3UwaWlPRmV0TXN2TTdQcmctZ1QtZWpzZWMzSXc2Q3FONUg5aENXZy04dEdmRW9Eb0pmN2NuMFZnVGNET1ZqZkNzSG1CbzJxMHRYWEswY0pYWnlCVmMzM1BIRGZfNllHclVoZlZNLWRPSzNBaEdka2NWZWpTMWVSWXNMdEJ4NjhvNWJSTnFqa2J5dUVSdzFSUV9NQk1pNUxDSHlRR2wxcUJsbldJUHpWVEtSX1pB?oc=5)
 
 2026-10-04
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHZZbzctb1Fyc1Q3UnN1OTFpelZpLWVsc3dFZGk1eHc5ZjhUdlY4VlFtTEludmlLMzVYSVVKaWlaeHozSUtndFUzSWtUZ1VYYW9RZHdnUkJhZ0xCRHZGNUJoU2JqM242aEdwZHFROUxjamUxTy1uQkR2cUtmZ1BtOXFLNGpLWFJjWWpLU2Y0WGRtTUl6aTNvQVZ3?oc=5)
-
----
-
-### [The Aging Brain Isn't Declining – It's Adapting, Study Finds](https://news.google.com/rss/articles/CBMijAFBVV95cUxQOXlyc0pIZEZDT2tLZnhmamJjeVM5Zm92SjlMVkN4NjNGdTZiMGRJU1QwZkJxVUwyYVBOV2V3VlA3eWQ1RXBhdlRxYWFLQUFrS2lKY0dCcDhYZUhDaWM5X1lFUzZYYm5WdUpoZ0x3bHh1Tk5LQkdwZDdjZ2RtdXdVd1JiYlRVSGlsOEQzcg?oc=5)
-
-2026-10-03
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMijAFBVV95cUxQOXlyc0pIZEZDT2tLZnhmamJjeVM5Zm92SjlMVkN4NjNGdTZiMGRJU1QwZkJxVUwyYVBOV2V3VlA3eWQ1RXBhdlRxYWFLQUFrS2lKY0dCcDhYZUhDaWM5X1lFUzZYYm5WdUpoZ0x3bHh1Tk5LQkdwZDdjZ2RtdXdVd1JiYlRVSGlsOEQzcg?oc=5)
+Source: [Pittsburgh Post-Gazette](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNUxabGFZMHVQS3UwaWlPRmV0TXN2TTdQcmctZ1QtZWpzZWMzSXc2Q3FONUg5aENXZy04dEdmRW9Eb0pmN2NuMFZnVGNET1ZqZkNzSG1CbzJxMHRYWEswY0pYWnlCVmMzM1BIRGZfNllHclVoZlZNLWRPSzNBaEdka2NWZWpTMWVSWXNMdEJ4NjhvNWJSTnFqa2J5dUVSdzFSUV9NQk1pNUxDSHlRR2wxcUJsbldJUHpWVEtSX1pB?oc=5)
 
 ---
 

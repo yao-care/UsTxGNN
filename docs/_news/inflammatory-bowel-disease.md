@@ -44,14 +44,6 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT1lM
 
 ---
 
-### [Old Hearts Become Biologically Younger When Transplanted Into Younger People](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd3hIQk1TUERGMm5DenNaSUJzUDcxVzdYQVRSVFd2TnI3b2tiMHE0bE9OR0NjbnVVNnNkQ29uWmdwZExJdHZqa29RTEk0TU93R3QyTFFSRmVrZ2l5ZTVTTjVsM0lrWjZQSGNZei1fMXllV3Y1c25WLTRiOXA4LVo3X05OTWVFUTZHMlFHNUJxazg1YnBHVmdJdHl6NDJzckNkZS0ydUdBcHA?oc=5)
-
-2026-10-04
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd3hIQk1TUERGMm5DenNaSUJzUDcxVzdYQVRSVFd2TnI3b2tiMHE0bE9OR0NjbnVVNnNkQ29uWmdwZExJdHZqa29RTEk0TU93R3QyTFFSRmVrZ2l5ZTVTTjVsM0lrWjZQSGNZei1fMXllV3Y1c25WLTRiOXA4LVo3X05OTWVFUTZHMlFHNUJxazg1YnBHVmdJdHl6NDJzckNkZS0ydUdBcHA?oc=5)
-
----
-
 ### [Scientists just found a new way to make hydrogen from water](https://news.google.com/rss/articles/CBMib0FVX3lxTE8tVEhJQVUwY1NsUmp5dzNWemdUZk5pbXo1aHpLUEl1NDh1VkQtRFBwZVppVWJqN0czTWs5WXk1NE4zT2thNlRXbDRKNld2RFg1QlZZU0paRjBmck5pNmxtbFo2cEJnVXBRNkljNDVJSQ?oc=5)
 
 2026-10-04
@@ -60,11 +52,27 @@ Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8tVEhJ
 
 ---
 
-### [Indians live longer than Pakistanis, lag Bangladeshis, says WHO - The Times of India](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYzRMX3FHVnJuaGltWUVLdnhzcFZ4cDlGVjQ1ZGRqemgzTExZVDZIcC1qVzNlUzliUGxCMkRkZlpIQnpKT1VDWDV4QndCTkJMbEVuczBBYk1NU2ljUzNZNTRKS2MtWkJTanUxVkNUZGFxYVJqdk9fTzB6X3U1ZlZfZVhhZUJaVnNfaUQzcHhMZExLYi1Yblh2VEhjbnZRWUh6SDVCa0Q1aUhmOGdrM1dLc1dpN0tpZHM4bGhvdlNMc0Z3M3h6VXIwUtIBzgFBVV95cUxOUU93R2hBdVBUSHV1T1Noby1GT21PQ3FtWG1tc0VTWV8tTGpoeXNfdUNHQWtLaFRGUjB5V3RlWlVCOTIzX3YxOHNhbVRDR3h5ZXdsVlJHQS1MVkE1SVAxN01LRGlzZ3hQUVlUaUdXdHN6UkdxMUdkRTQ1cEdSdWpMaDRHc3VWSEVYcTF0NlA0Rk5ib3BIWXlBVHJXT3pPcllxLWFPcGVJVUpCcnhVY0Y2Y0xvY0RmTGJnVk5Fc1k3a3VWMGJ6MUFIY2VfZkQyQQ?oc=5)
+### [Digital media can be dangerous. Kids use it anyway. Here’s what parents can do](https://news.google.com/rss/articles/CBMihAFBVV95cUxNVlZ2T2xyWnpiTWNrZ0JaSjFtY2xETXNMUWRlN3hkWVNtNTBnWmJCZEx2RlFxZDdhci1Ka011b2o1MEpCOTZienhDajVmRmdfN2gzWWpHU2NHNm9CVHFIUWZpYjBZcDg0N1d3TnhxRWRhcDlpS2xycFNMWFdZeU1hRVctbjc?oc=5)
 
-2026-10-03
+2026-10-04
 
-Source: [The Times of India](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYzRMX3FHVnJuaGltWUVLdnhzcFZ4cDlGVjQ1ZGRqemgzTExZVDZIcC1qVzNlUzliUGxCMkRkZlpIQnpKT1VDWDV4QndCTkJMbEVuczBBYk1NU2ljUzNZNTRKS2MtWkJTanUxVkNUZGFxYVJqdk9fTzB6X3U1ZlZfZVhhZUJaVnNfaUQzcHhMZExLYi1Yblh2VEhjbnZRWUh6SDVCa0Q1aUhmOGdrM1dLc1dpN0tpZHM4bGhvdlNMc0Z3M3h6VXIwUtIBzgFBVV95cUxOUU93R2hBdVBUSHV1T1Noby1GT21PQ3FtWG1tc0VTWV8tTGpoeXNfdUNHQWtLaFRGUjB5V3RlWlVCOTIzX3YxOHNhbVRDR3h5ZXdsVlJHQS1MVkE1SVAxN01LRGlzZ3hQUVlUaUdXdHN6UkdxMUdkRTQ1cEdSdWpMaDRHc3VWSEVYcTF0NlA0Rk5ib3BIWXlBVHJXT3pPcllxLWFPcGVJVUpCcnhVY0Y2Y0xvY0RmTGJnVk5Fc1k3a3VWMGJ6MUFIY2VfZkQyQQ?oc=5)
+Source: [cnn.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxNVlZ2T2xyWnpiTWNrZ0JaSjFtY2xETXNMUWRlN3hkWVNtNTBnWmJCZEx2RlFxZDdhci1Ka011b2o1MEpCOTZienhDajVmRmdfN2gzWWpHU2NHNm9CVHFIUWZpYjBZcDg0N1d3TnhxRWRhcDlpS2xycFNMWFdZeU1hRVctbjc?oc=5)
+
+---
+
+### [Measles Outbreak in Amish Country Forces Some to Rethink Vaccines](https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZUDVXQU0tWDVyUW40akdzOEdtMXRGWXVuVEJMbThKaTkxSVBFbWhOdlFvTmhPMG1WTDQ3cHNPbmY2dHZTVG1GR0JxYzh4RkFhSHdzc2thakRBTFlWTDE2OWtNNHpYVVo3S3R5TTBBR2NkSU0?oc=5)
+
+2026-10-04
+
+Source: [nytimes.com](https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZUDVXQU0tWDVyUW40akdzOEdtMXRGWXVuVEJMbThKaTkxSVBFbWhOdlFvTmhPMG1WTDQ3cHNPbmY2dHZTVG1GR0JxYzh4RkFhSHdzc2thakRBTFlWTDE2OWtNNHpYVVo3S3R5TTBBR2NkSU0?oc=5)
+
+---
+
+### [Inside the study for a remedy to fight Congo’s deadliest Ebola outbreak](https://news.google.com/rss/articles/CBMibEFVX3lxTE0wV1hnTE1nTV9oNG5VeWJwNUpZTmJQN0RMX0VITHZjVjRBVzFSWDJreU0xcXVIekg4ZzR1WkZ0SU43eWo2cjRlZjNtNHVNUDdPVVlUYnBoRjBuZHQybkZsOVAzalpaaWZJcWhlRw?oc=5)
+
+2026-10-04
+
+Source: [cnn.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE0wV1hnTE1nTV9oNG5VeWJwNUpZTmJQN0RMX0VITHZjVjRBVzFSWDJreU0xcXVIekg4ZzR1WkZ0SU43eWo2cjRlZjNtNHVNUDdPVVlUYnBoRjBuZHQybkZsOVAzalpaaWZJcWhlRw?oc=5)
 
 ---
 
@@ -72,7 +80,7 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMiyAFBVV95cU
 
 2026-10-03
 
-Source: [phys.org](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Xa0MzV3ZDc0tFdVhrbS1hckh5dFFqMjN1NjUxSVRQaVA5VDQ4a29GcDdURWRScTZXcWd0R2lqWWIwWUVaZlhnalFKNzMwaS16aTFEYjgzbkVfeXR5VEdjUWdMV1RCdw?oc=5)
+Source: [Phys.org](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Xa0MzV3ZDc0tFdVhrbS1hckh5dFFqMjN1NjUxSVRQaVA5VDQ4a29GcDdURWRScTZXcWd0R2lqWWIwWUVaZlhnalFKNzMwaS16aTFEYjgzbkVfeXR5VEdjUWdMV1RCdw?oc=5)
 
 ---
 
@@ -84,11 +92,19 @@ Source: [404 Media](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZjlESnc
 
 ---
 
+### [New weight-loss injection targets fat cells: CBL-514 selectively induces apoptosis of fat cells - Medical Xpress](https://news.google.com/rss/articles/CBMieEFVX3lxTE5qQmlnQjNOS0FqT3dkT2ZBbWJzY3Bmcl92OTBsZ0hfZTc1QWs3d0hTVGtXUWZNejYxVTd0NHZpT3o5dDNKdV9EVEhTYjBPWFZmWXBKSHhTb2JMXzFaejREOU93QkZfSE0tNi1FTUpuVnMwcUhLRDZXcg?oc=5)
+
+2026-10-02
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMieEFVX3lxTE5qQmlnQjNOS0FqT3dkT2ZBbWJzY3Bmcl92OTBsZ0hfZTc1QWs3d0hTVGtXUWZNejYxVTd0NHZpT3o5dDNKdV9EVEhTYjBPWFZmWXBKSHhTb2JMXzFaejREOU93QkZfSE0tNi1FTUpuVnMwcUhLRDZXcg?oc=5)
+
+---
+
 ### [NEWSLETTER: Appendix removal linked with lower colon cancer risk in study](https://news.google.com/rss/articles/CBMiygFBVV95cUxNS0RLT3owc1BmWVNEQlJRUEo4ZW4ycncwaHEtREtoSHdhbk1oUFN6NlktRXhoM1ZTSUZJUW5mOGVjT2VxTWJPQ2ZlVHhVNldyY1JzZ0ktYVZqckdJczFKcGVKZTVURXBKYUxVU2Y0N1ZYLVV1SEZ4LTNPcmgyWnpoWF9XQ282RkNrcHBqQ0ZUNU9Pejgzdm01V0QxOWF4d3lUcEdDVHczVThGZTJTRzBhUWMtdGlnZVRoUE5RdUZycy1EeFZCTFpBUFRB?oc=5)
 
 2026-10-02
 
-Source: [reuters.com](https://news.google.com/rss/articles/CBMiygFBVV95cUxNS0RLT3owc1BmWVNEQlJRUEo4ZW4ycncwaHEtREtoSHdhbk1oUFN6NlktRXhoM1ZTSUZJUW5mOGVjT2VxTWJPQ2ZlVHhVNldyY1JzZ0ktYVZqckdJczFKcGVKZTVURXBKYUxVU2Y0N1ZYLVV1SEZ4LTNPcmgyWnpoWF9XQ282RkNrcHBqQ0ZUNU9Pejgzdm01V0QxOWF4d3lUcEdDVHczVThGZTJTRzBhUWMtdGlnZVRoUE5RdUZycy1EeFZCTFpBUFRB?oc=5)
+Source: [Reuters](https://news.google.com/rss/articles/CBMiygFBVV95cUxNS0RLT3owc1BmWVNEQlJRUEo4ZW4ycncwaHEtREtoSHdhbk1oUFN6NlktRXhoM1ZTSUZJUW5mOGVjT2VxTWJPQ2ZlVHhVNldyY1JzZ0ktYVZqckdJczFKcGVKZTVURXBKYUxVU2Y0N1ZYLVV1SEZ4LTNPcmgyWnpoWF9XQ282RkNrcHBqQ0ZUNU9Pejgzdm01V0QxOWF4d3lUcEdDVHczVThGZTJTRzBhUWMtdGlnZVRoUE5RdUZycy1EeFZCTFpBUFRB?oc=5)
 
 ---
 
@@ -100,14 +116,6 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirAFBVV95cUxQRFlP
 
 ---
 
-### [Novel Injectable Drug Cuts Visceral Fat in Phase 2 Trial](https://news.google.com/rss/articles/CBMipgFBVV95cUxOd2lEclNSVFlvWXJ5ZTVaVGMxSG5kX2F2dk00U1Job3NJcHBNbEUxSGp1RHBvRDNMWVhGT3ZWNGZfQV96YVZyMnZVc1J5LUN3NUplT3NTNE5VbWFOTEt1bWc1YVQ3QmctUnR5V0ttQ2IzSUJ2dHc2cHRyMkRqVnUxWUhZMzZMMWJjM2R2akpiNF9TSW1fb05UbWc5LU56cW9OUnotZVNB?oc=5)
-
-2026-10-01
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMipgFBVV95cUxOd2lEclNSVFlvWXJ5ZTVaVGMxSG5kX2F2dk00U1Job3NJcHBNbEUxSGp1RHBvRDNMWVhGT3ZWNGZfQV96YVZyMnZVc1J5LUN3NUplT3NTNE5VbWFOTEt1bWc1YVQ3QmctUnR5V0ttQ2IzSUJ2dHc2cHRyMkRqVnUxWUhZMzZMMWJjM2R2akpiNF9TSW1fb05UbWc5LU56cW9OUnotZVNB?oc=5)
-
----
-
 ### [Sugar-rich foods exacerbate antibiotic-induced microbiome disruption](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwZjJhblFMU3Z5LXZtWUxVWWpCQWY5U0xlUjMtRXlkVldZdkJBeS1YMS1paC1lbWlRbjBOWE95SGdhX2ppT0I2WFc1VzBwUloxQV9nMUE5QWQ3ZjhtUmZz?oc=5)
 
 2026-09-30
@@ -116,11 +124,11 @@ Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwZjJhbl
 
 ---
 
-### [Do Endometriosis Tests Really Work? - The New York Times](https://news.google.com/rss/articles/CBMihgFBVV95cUxNbDJLVnM1ZVVIZkNnY19IdnY4czBrTENmWjVQN29xVTItZG1QZmVwXzZjcy1EY01tanBPejhxdW9SMExPbll5Zm1VbFJ5enlfQndONmc3Qkk5a0RDRzhaX0JmcXVMUURHMzFaSFFLSk10bmFUOXNic29qaDBGYlBjeEt3Z1k0QQ?oc=5)
+### [Do Endometriosis Tests Really Work?](https://news.google.com/rss/articles/CBMihgFBVV95cUxNbDJLVnM1ZVVIZkNnY19IdnY4czBrTENmWjVQN29xVTItZG1QZmVwXzZjcy1EY01tanBPejhxdW9SMExPbll5Zm1VbFJ5enlfQndONmc3Qkk5a0RDRzhaX0JmcXVMUURHMzFaSFFLSk10bmFUOXNic29qaDBGYlBjeEt3Z1k0QQ?oc=5)
 
 2026-09-29
 
-Source: [The New York Times](https://news.google.com/rss/articles/CBMihgFBVV95cUxNbDJLVnM1ZVVIZkNnY19IdnY4czBrTENmWjVQN29xVTItZG1QZmVwXzZjcy1EY01tanBPejhxdW9SMExPbll5Zm1VbFJ5enlfQndONmc3Qkk5a0RDRzhaX0JmcXVMUURHMzFaSFFLSk10bmFUOXNic29qaDBGYlBjeEt3Z1k0QQ?oc=5)
+Source: [nytimes.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxNbDJLVnM1ZVVIZkNnY19IdnY4czBrTENmWjVQN29xVTItZG1QZmVwXzZjcy1EY01tanBPejhxdW9SMExPbll5Zm1VbFJ5enlfQndONmc3Qkk5a0RDRzhaX0JmcXVMUURHMzFaSFFLSk10bmFUOXNic29qaDBGYlBjeEt3Z1k0QQ?oc=5)
 
 ---
 
@@ -129,14 +137,6 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMihgFBVV95cU
 2026-09-28
 
 Source: [STAT](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX3lydlBaTmpIWV93RUlSeFhHVlJkSUczUW5qSWQ1blFSdFpuV0c2WEFDRXVtNVItQUNscjhaRjY2QU1mVmNHVGpwaGhwY1cyT0hMbzJ2enExd2tiQnlPU0NYUXhOSVVZWkJ5bjNkTkdETUI0c2kxQm5yMFlfT1dFTm5Eczh1WjhnV3RxdTZaREFpWUJzZ3pqVm9xUjhNcmNFZ013Si1KMXJDVkRoTHF4eGtMM0xWM3BjT0xN?oc=5)
-
----
-
-### [Screen time ‘damages children more than being born into poverty’ - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQU0tVNWRWMmo0dXN6NWNoc2ZROXhtbU9GeXhNb3RmQ1R6dER3NHBqUEo1VUc5TzA0NW50bklaUU5temRJV0hiZTd3a2JnbUdTelNIdVNKcTRpemNTMlRQUHdtbXkzTkkwUjdzd08yWGFRNXJBRlo0dDNCY1dXblVCajFydVk2NWo0TEc2TEp0OHNqWUZLZ3lleS1lTk5MUQ?oc=5)
-
-2026-09-28
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxQU0tVNWRWMmo0dXN6NWNoc2ZROXhtbU9GeXhNb3RmQ1R6dER3NHBqUEo1VUc5TzA0NW50bklaUU5temRJV0hiZTd3a2JnbUdTelNIdVNKcTRpemNTMlRQUHdtbXkzTkkwUjdzd08yWGFRNXJBRlo0dDNCY1dXblVCajFydVk2NWo0TEc2TEp0OHNqWUZLZ3lleS1lTk5MUQ?oc=5)
 
 ---
 

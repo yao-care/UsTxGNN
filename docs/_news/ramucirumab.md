@@ -42,6 +42,14 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 
 ## Related News (9)
 
+### [6 Supplements Everyone Should Consider Taking, According to Experts](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ec1lnQWRrS1owZHhGa2JidHFwOUNvenQzeGRwRWc3M0VUdTJEcDUzd1pmb0h3QjhwSS0tUEdTV0ltTlFFRi1xaTBEQ3dDZktveXV1SVBnUDdMZ1MxOUYyTWZhOS1zTUE?oc=5)
+
+2026-10-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [Health.com](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ec1lnQWRrS1owZHhGa2JidHFwOUNvenQzeGRwRWc3M0VUdTJEcDUzd1pmb0h3QjhwSS0tUEdTV0ltTlFFRi1xaTBEQ3dDZktveXV1SVBnUDdMZ1MxOUYyTWZhOS1zTUE?oc=5)
+
+---
+
 ### [How a Promising Pancreatic Cancer Drug Loses Its Punch](https://news.google.com/rss/articles/CBMimwFBVV95cUxQemF0R3Y2dGo1NE1qLXMzdFUyVkw0cXRXZG9GWFp1b19zVk41TUdsN0ZQVm96NEFqMlY2QVZFNGtuRU1HNTJydFhzckxFdDN1T21yZUllNi02dWMtM1BtN0hLWi0tb1NyczlnNFI5QUZQcVBlV0lSOGZ0LS1oS3JhYU5lZWZLVEgyR0cxMFRHYTZiUUVEUC03bjdKaw?oc=5)
 
 2026-10-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
@@ -58,19 +66,11 @@ Source: [HuffPost](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWk1NNEdM
 
 ---
 
-### [Scientists Untangle the Biology of an ‘Undruggable’ Cancer Gene - The New York Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdDZxVGs2MkFnenNPR3VKV0ZQck14TDhQWnMwaTF4NThqSWZFMFVlcFlIUFREZGRqMlZnSENBcWVvbC02ZExCSllkdUhfNmVINHRhWmZxWGJ6M0N2MTVYVlBVNlF6UWtTR0dRaHFUWmt5Zjc2RENUcHJUaUdLeTVkSm41TFFjcmFKQXVFVV9TOHlkUW5PdzdzZUZ3VXZWQ1drWC1YX0tRWFM1aVpWdmc?oc=5)
-
-2026-10-03 <span class="news-indication-tag">cancer</span>
-
-Source: [The New York Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdDZxVGs2MkFnenNPR3VKV0ZQck14TDhQWnMwaTF4NThqSWZFMFVlcFlIUFREZGRqMlZnSENBcWVvbC02ZExCSllkdUhfNmVINHRhWmZxWGJ6M0N2MTVYVlBVNlF6UWtTR0dRaHFUWmt5Zjc2RENUcHJUaUdLeTVkSm41TFFjcmFKQXVFVV9TOHlkUW5PdzdzZUZ3VXZWQ1drWC1YX0tRWFM1aVpWdmc?oc=5)
-
----
-
-### [1 in 8 cancer cases are caused by infections, underscoring the importance of vaccines, experts say](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb24yUVRzNDFNZFMxZlRzYjJGVUdxVVBvMmFEVmxSQmRadHlUdm4zby1zLUVVbGNmZzlXd2pJenlMd1VtQVZMeE9oS2R2QjdPQXFMZVBvN1R3OXQ0WGJlMDF1NHIteDFJVGRvT0txZ1U4X0Ita255QXlVcHAzOUpoREE0eEItcFY0VFJJLS1idDM5eEpCMVdCaEhtcVB0R25FdTRsUzl2UDR3a0xjYmdNYk5xYVNmNHBHZ3lVRDN3elA5UjlSWjFYZ1FQNTRiY2d1VWpwMg?oc=5)
+### [1 in 8 cancer cases are caused by infections, underscoring the importance of vaccines, experts say - Live Science](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb24yUVRzNDFNZFMxZlRzYjJGVUdxVVBvMmFEVmxSQmRadHlUdm4zby1zLUVVbGNmZzlXd2pJenlMd1VtQVZMeE9oS2R2QjdPQXFMZVBvN1R3OXQ0WGJlMDF1NHIteDFJVGRvT0txZ1U4X0Ita255QXlVcHAzOUpoREE0eEItcFY0VFJJLS1idDM5eEpCMVdCaEhtcVB0R25FdTRsUzl2UDR3a0xjYmdNYk5xYVNmNHBHZ3lVRDN3elA5UjlSWjFYZ1FQNTRiY2d1VWpwMg?oc=5)
 
 2026-10-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
 
-Source: [livescience.com](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb24yUVRzNDFNZFMxZlRzYjJGVUdxVVBvMmFEVmxSQmRadHlUdm4zby1zLUVVbGNmZzlXd2pJenlMd1VtQVZMeE9oS2R2QjdPQXFMZVBvN1R3OXQ0WGJlMDF1NHIteDFJVGRvT0txZ1U4X0Ita255QXlVcHAzOUpoREE0eEItcFY0VFJJLS1idDM5eEpCMVdCaEhtcVB0R25FdTRsUzl2UDR3a0xjYmdNYk5xYVNmNHBHZ3lVRDN3elA5UjlSWjFYZ1FQNTRiY2d1VWpwMg?oc=5)
+Source: [Live Science](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb24yUVRzNDFNZFMxZlRzYjJGVUdxVVBvMmFEVmxSQmRadHlUdm4zby1zLUVVbGNmZzlXd2pJenlMd1VtQVZMeE9oS2R2QjdPQXFMZVBvN1R3OXQ0WGJlMDF1NHIteDFJVGRvT0txZ1U4X0Ita255QXlVcHAzOUpoREE0eEItcFY0VFJJLS1idDM5eEpCMVdCaEhtcVB0R25FdTRsUzl2UDR3a0xjYmdNYk5xYVNmNHBHZ3lVRDN3elA5UjlSWjFYZ1FQNTRiY2d1VWpwMg?oc=5)
 
 ---
 
@@ -82,11 +82,11 @@ Source: [The Seattle Times](https://news.google.com/rss/articles/CBMirgFBVV95cUx
 
 ---
 
-### [Colorectal cancer rates are rising among teens — new study finds 4 most common symptoms - New York Post](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRU1fU1RnN3BTRng2TkgxeTFZRmlxbFBmWTBzckM1U3BEUkRDV2k4aFF2NF8tOFJLZU5ocVV1dXNhc0dISzZVSUtXSmZJSjBWQlhEUXIwR2FQazgwelJiZVF5WnRkeDJsQW52MjRhQlFjYnpkUXVzVWJUd09meUdKWkwxUzIzSDg2emFQa1VaaDRsTHJpXzlWb0tCbkpqWDRPQ19VZWRn?oc=5)
+### [Scientists Untangle the Biology of an ‘Undruggable’ Cancer Gene](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdDZxVGs2MkFnenNPR3VKV0ZQck14TDhQWnMwaTF4NThqSWZFMFVlcFlIUFREZGRqMlZnSENBcWVvbC02ZExCSllkdUhfNmVINHRhWmZxWGJ6M0N2MTVYVlBVNlF6UWtTR0dRaHFUWmt5Zjc2RENUcHJUaUdLeTVkSm41TFFjcmFKQXVFVV9TOHlkUW5PdzdzZUZ3VXZWQ1drWC1YX0tRWFM1aVpWdmc?oc=5)
 
-2026-10-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+2026-10-02 <span class="news-indication-tag">cancer</span>
 
-Source: [New York Post](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRU1fU1RnN3BTRng2TkgxeTFZRmlxbFBmWTBzckM1U3BEUkRDV2k4aFF2NF8tOFJLZU5ocVV1dXNhc0dISzZVSUtXSmZJSjBWQlhEUXIwR2FQazgwelJiZVF5WnRkeDJsQW52MjRhQlFjYnpkUXVzVWJUd09meUdKWkwxUzIzSDg2emFQa1VaaDRsTHJpXzlWb0tCbkpqWDRPQ19VZWRn?oc=5)
+Source: [nytimes.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdDZxVGs2MkFnenNPR3VKV0ZQck14TDhQWnMwaTF4NThqSWZFMFVlcFlIUFREZGRqMlZnSENBcWVvbC02ZExCSllkdUhfNmVINHRhWmZxWGJ6M0N2MTVYVlBVNlF6UWtTR0dRaHFUWmt5Zjc2RENUcHJUaUdLeTVkSm41TFFjcmFKQXVFVV9TOHlkUW5PdzdzZUZ3VXZWQ1drWC1YX0tRWFM1aVpWdmc?oc=5)
 
 ---
 
@@ -94,7 +94,7 @@ Source: [New York Post](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRU1
 
 2026-10-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [reuters.com](https://news.google.com/rss/articles/CBMiygFBVV95cUxNS0RLT3owc1BmWVNEQlJRUEo4ZW4ycncwaHEtREtoSHdhbk1oUFN6NlktRXhoM1ZTSUZJUW5mOGVjT2VxTWJPQ2ZlVHhVNldyY1JzZ0ktYVZqckdJczFKcGVKZTVURXBKYUxVU2Y0N1ZYLVV1SEZ4LTNPcmgyWnpoWF9XQ282RkNrcHBqQ0ZUNU9Pejgzdm01V0QxOWF4d3lUcEdDVHczVThGZTJTRzBhUWMtdGlnZVRoUE5RdUZycy1EeFZCTFpBUFRB?oc=5)
+Source: [Reuters](https://news.google.com/rss/articles/CBMiygFBVV95cUxNS0RLT3owc1BmWVNEQlJRUEo4ZW4ycncwaHEtREtoSHdhbk1oUFN6NlktRXhoM1ZTSUZJUW5mOGVjT2VxTWJPQ2ZlVHhVNldyY1JzZ0ktYVZqckdJczFKcGVKZTVURXBKYUxVU2Y0N1ZYLVV1SEZ4LTNPcmgyWnpoWF9XQ282RkNrcHBqQ0ZUNU9Pejgzdm01V0QxOWF4d3lUcEdDVHczVThGZTJTRzBhUWMtdGlnZVRoUE5RdUZycy1EeFZCTFpBUFRB?oc=5)
 
 ---
 
@@ -110,7 +110,7 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMisgFBVV95cUxQcklK
 
 2026-09-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
-Source: [reuters.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEJkMzJPVUdxcURGcjEwcG1CbzJGc2c2Z2VybVU1N1JiajVGWFV0VjcxQUVtbXk4TGFJRHpnRGdQMUhxd1k2QUFHZjRDWTJTVldNXzI2REl0alIxS3VtM2RNSTZVNW5HX2stT0N1WlhyZmF5a3FGTWZJU1hTd2Uzbk4wT3RIQ1c1TjV3X1NaTS1aVFJGN05Gb1FMZFpoSWQ4Y1ZoWG9VVm9ubE53YlZ5YzNmRjVfNkQwVTh1bElsRUM?oc=5)
+Source: [Reuters](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEJkMzJPVUdxcURGcjEwcG1CbzJGc2c2Z2VybVU1N1JiajVGWFV0VjcxQUVtbXk4TGFJRHpnRGdQMUhxd1k2QUFHZjRDWTJTVldNXzI2REl0alIxS3VtM2RNSTZVNW5HX2stT0N1WlhyZmF5a3FGTWZJU1hTd2Uzbk4wT3RIQ1c1TjV3X1NaTS1aVFJGN05Gb1FMZFpoSWQ4Y1ZoWG9VVm9ubE53YlZ5YzNmRjVfNkQwVTh1bElsRUM?oc=5)
 
 ---
 

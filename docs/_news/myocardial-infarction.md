@@ -3,7 +3,7 @@ layout: default
 title: "MI (myocardial infarction) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about MI (myocardial infarction). 29 articles, 9 related drugs."
+description: "Health news about MI (myocardial infarction). 32 articles, 9 related drugs."
 permalink: /news/myocardial-infarction/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/myocardial-infarction/
 ---
 
 <p class="key-answer" data-question="What news is there about MI (myocardial infarction)?">
-<strong>MI (myocardial infarction)</strong> currently has <strong>29 news articles</strong> and 9 related drugs.
+<strong>MI (myocardial infarction)</strong> currently has <strong>32 news articles</strong> and 9 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,13 +37,53 @@ This page brings together the latest health news about “MI” and lists the dr
 </ul>
 </div>
 
-## Related News (29)
+## Related News (32)
 
-### [How Congo’s Ebola Epidemic Got So Bad So Quickly - The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPb1E2QXFfdHh5YVFudTdTUnowN2F0RjBZQVNINDNEaFQ5TWtKc29JdXpZTjhsd1NMMXpwX0t6ajg2WUFYMEpLWVItZjJyQjJYNUZJSDVZVmFISEtXdldqamt3WExucXUxUUNvZkp6emw2bXN2SWhibHpjcGNRZEk4bDF4XzQ?oc=5)
+### [New York state declares measles disaster amid resurgence of disease in US - Al Jazeera](https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjhoWURHcmVRdjNWX3ZtOUU3RmQ5bnliUkNxZVVPUDhzajdYMHpKRWpxemVpU3pIV1lDc3JzM3VpMnJZWUJ3N1hJOEE5OFZ5dy1yRnJ5eF81Y1I4eTJiYzZZVGRraFRrQ1ZVVzAxSHd0OVFVMG5KMXBqdzV0QXlLcm5rSHM2VGhGVEg4T01Md0R3M0ZkZ1o2bi1idDVZMmNDWEF1cFN2NkdhY0tDbmdLQ1FLd1_SAboBQVVfeXFMT09JUnYxRzA5RURxQkNmcENCNWJnMldidzFJd2RCbUk4eEVGcmhIdHJSM2x0dklMNUlnazk3dUVRMWhITFBPLW1sbTFnN3dfZWRUTXNGTHgzaHNXZHZGTm1qZ3lBa0pVb0ZiSl9WOUdORmVQdXNjNlRpYnp2ZUd5UzRWMWxxM1lPRnZURGNWSHY5bzJDSDNVZU8zZF9HRXAwajFQQTRQaEk4UlVwOEtsc0ZHbDk1S1A2TUNB?oc=5)
+
+2026-10-06
+
+Source: [Al Jazeera](https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjhoWURHcmVRdjNWX3ZtOUU3RmQ5bnliUkNxZVVPUDhzajdYMHpKRWpxemVpU3pIV1lDc3JzM3VpMnJZWUJ3N1hJOEE5OFZ5dy1yRnJ5eF81Y1I4eTJiYzZZVGRraFRrQ1ZVVzAxSHd0OVFVMG5KMXBqdzV0QXlLcm5rSHM2VGhGVEg4T01Md0R3M0ZkZ1o2bi1idDVZMmNDWEF1cFN2NkdhY0tDbmdLQ1FLd1_SAboBQVVfeXFMT09JUnYxRzA5RURxQkNmcENCNWJnMldidzFJd2RCbUk4eEVGcmhIdHJSM2x0dklMNUlnazk3dUVRMWhITFBPLW1sbTFnN3dfZWRUTXNGTHgzaHNXZHZGTm1qZ3lBa0pVb0ZiSl9WOUdORmVQdXNjNlRpYnp2ZUd5UzRWMWxxM1lPRnZURGNWSHY5bzJDSDNVZU8zZF9HRXAwajFQQTRQaEk4UlVwOEtsc0ZHbDk1S1A2TUNB?oc=5)
+
+---
+
+### [Pennsylvania faces largest measles outbreak in decades as case count rises to 1,000 - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxOUndycTl2a3JFYWpFNDVPRWtKQ0Y4cDFVSXlrWUZwODdQTHoxTDBDOXBDdGRKREZMQlVlV3B6OGlOcnptU0FxZW1wSTZWcFJNNXdWUzYxV1E0UFJWMDREMUY4bFBBRXRMNmVfNDhKUGVxMVVJWm1XTWFiRlppMFFQSFNLam9jNzNiQllJM2lKRkR6cXhaRzlNOU1WQXpQUnVxcTg0?oc=5)
+
+2026-10-06
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxOUndycTl2a3JFYWpFNDVPRWtKQ0Y4cDFVSXlrWUZwODdQTHoxTDBDOXBDdGRKREZMQlVlV3B6OGlOcnptU0FxZW1wSTZWcFJNNXdWUzYxV1E0UFJWMDREMUY4bFBBRXRMNmVfNDhKUGVxMVVJWm1XTWFiRlppMFFQSFNLam9jNzNiQllJM2lKRkR6cXhaRzlNOU1WQXpQUnVxcTg0?oc=5)
+
+---
+
+### [Anesthesia Is 180 Years Old And Still a Mystery. A Worm Study Just Cracked It Open.](https://news.google.com/rss/articles/CBMirwFBVV95cUxNeXVETDBsTVNkR1pObGI3RFF4V3dMWng3eVJiczIxUTgxemxhbTRHcEdTMDRzOTVqYTJiR3hZVFRHdU9XaUZUZUpLa2pGdVVYQ3JTaldxQklHNTBKTGl1a2Z6azBiT1dPcmZBNGJNNUh0c1BqX1drZUcwNXg1OEVHVFFGR2xDUS02UGNQeXlrMHFHV3k4TmlrVTdTTWE5eTk2VndKVlRMdkNscXNOZ2Fj?oc=5)
+
+2026-10-06
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirwFBVV95cUxNeXVETDBsTVNkR1pObGI3RFF4V3dMWng3eVJiczIxUTgxemxhbTRHcEdTMDRzOTVqYTJiR3hZVFRHdU9XaUZUZUpLa2pGdVVYQ3JTaldxQklHNTBKTGl1a2Z6azBiT1dPcmZBNGJNNUh0c1BqX1drZUcwNXg1OEVHVFFGR2xDUS02UGNQeXlrMHFHV3k4TmlrVTdTTWE5eTk2VndKVlRMdkNscXNOZ2Fj?oc=5)
+
+---
+
+### [Women suffer more pain than men across the whole body, major global study finds - The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxPTThFTVhyUmZGZS1hVUlucDNWYXU1SkJUN05RdTU1Y1NtUGlPbFlXUEQzSF9aQUNid2g1SnktZHVsMHlfTWlJZEJxN3gzSFVrQmJjYzNnRVNKRkNzSmliRjVSVXU5OExZd1pzbU83T1BIN2dnMFctbzJvcy1lRlZRR0d0QlpYd3k4dHNQVzlR?oc=5)
+
+2026-10-06
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxPTThFTVhyUmZGZS1hVUlucDNWYXU1SkJUN05RdTU1Y1NtUGlPbFlXUEQzSF9aQUNid2g1SnktZHVsMHlfTWlJZEJxN3gzSFVrQmJjYzNnRVNKRkNzSmliRjVSVXU5OExZd1pzbU83T1BIN2dnMFctbzJvcy1lRlZRR0d0QlpYd3k4dHNQVzlR?oc=5)
+
+---
+
+### [A hidden asteroid crater under Oklahoma could be connected to one of Earth's major mass extinctions](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdUtwUlZNdWRpVVluMURNT3daU3c0U3NZSzhkU1RKUHJzNDlQWlN3Z1ZwRHoxbEk2ZXRselhrWURPbGVOUXZ3dm9HNWJIR1FCb1F2aG8zb0ljM185RkFWTmVHV044OUVQV1p1NjlSUF9KSmtqYlJCWUVmUU9zMmJPcnMxVFJKRHN6NlJ6TGUxQkhzVU1BQUpSV3lYZFJSUjY2amZSVlZWVFZyZG40blViNWpnZk5LYlZUQlI3aEI1bXBYNGF1Wlk3d1B5YzBHRE9xVEFTQ19fTQ?oc=5)
 
 2026-10-05
 
-Source: [The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPb1E2QXFfdHh5YVFudTdTUnowN2F0RjBZQVNINDNEaFQ5TWtKc29JdXpZTjhsd1NMMXpwX0t6ajg2WUFYMEpLWVItZjJyQjJYNUZJSDVZVmFISEtXdldqamt3WExucXUxUUNvZkp6emw2bXN2SWhibHpjcGNRZEk4bDF4XzQ?oc=5)
+Source: [Space](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdUtwUlZNdWRpVVluMURNT3daU3c0U3NZSzhkU1RKUHJzNDlQWlN3Z1ZwRHoxbEk2ZXRselhrWURPbGVOUXZ3dm9HNWJIR1FCb1F2aG8zb0ljM185RkFWTmVHV044OUVQV1p1NjlSUF9KSmtqYlJCWUVmUU9zMmJPcnMxVFJKRHN6NlJ6TGUxQkhzVU1BQUpSV3lYZFJSUjY2amZSVlZWVFZyZG40blViNWpnZk5LYlZUQlI3aEI1bXBYNGF1Wlk3d1B5YzBHRE9xVEFTQ19fTQ?oc=5)
+
+---
+
+### [These infections are behind 1 in 8 cancer cases worldwide, study finds - USA Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNall2YzNVY2s1ZHptOEVid21LUFBsNjZRdjlqUVdRcUtmeEZoRVVVOEszYXBVaGxmNVlZZndaWnppa3pOVTZMWmR3alNOV3Y1b29hYlk1Z0tkTXhhLTU3andJampueEFRMk4yWGp6NmdVb3FrOC1VUTlvRzRMdUtMVGxMZ2ZQWHQtQmdKV1lCSjlHZThOUVhEeU9fVl9MZnNZYS04WHVVdFZGTmtoQlZUZjdjVnJDZ1lv?oc=5)
+
+2026-10-05
+
+Source: [USA Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNall2YzNVY2s1ZHptOEVid21LUFBsNjZRdjlqUVdRcUtmeEZoRVVVOEszYXBVaGxmNVlZZndaWnppa3pOVTZMWmR3alNOV3Y1b29hYlk1Z0tkTXhhLTU3andJampueEFRMk4yWGp6NmdVb3FrOC1VUTlvRzRMdUtMVGxMZ2ZQWHQtQmdKV1lCSjlHZThOUVhEeU9fVl9MZnNZYS04WHVVdFZGTmtoQlZUZjdjVnJDZ1lv?oc=5)
 
 ---
 
@@ -51,7 +91,7 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cU
 
 2026-10-05
 
-Source: [gizmodo.com](https://news.google.com/rss/articles/CBMingFBVV95cUxNckwxMHdBZmtVLVpxNkdMVTNJT2lrYk9ldGVJclFrbERGQUVFTFRsTVY2bmpvSWJqS01aMEdITnNwd1RZbVp6eUhaX1d1YlBnZ3pMNlo5b2lCWjV4aGJVZ3FIYkpOeFdVZ2JyZFVBT2puaGtfR0NGUERlWkYwRWk0RFY1elh3c0o2bEw5Z1cyb3RtZTVtUjdQOHhPVlJvZw?oc=5)
+Source: [Gizmodo](https://news.google.com/rss/articles/CBMingFBVV95cUxNckwxMHdBZmtVLVpxNkdMVTNJT2lrYk9ldGVJclFrbERGQUVFTFRsTVY2bmpvSWJqS01aMEdITnNwd1RZbVp6eUhaX1d1YlBnZ3pMNlo5b2lCWjV4aGJVZ3FIYkpOeFdVZ2JyZFVBT2puaGtfR0NGUERlWkYwRWk0RFY1elh3c0o2bEw5Z1cyb3RtZTVtUjdQOHhPVlJvZw?oc=5)
 
 ---
 
@@ -71,14 +111,6 @@ Source: [Gothamist](https://news.google.com/rss/articles/CBMirAFBVV95cUxPeXI0TjN
 
 ---
 
-### [Statin Side Effects: What the Evidence Shows](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZUN2WEx2UEZjaEVfOVZsRzgtYWN4Zll5Yl9wZ3NHOFl2Q01RVVY2VWl5Qm1oZkthaE9pcmlpSHY1dEpGYlhGM3R6TlM4dkFiTk5TcTRuOFpsOEs5bjVJV0F5MDRtSkFNcEg3clJuVF9DQnJERHgwVFMydjdWcndDVXh0V2VJc3A4NlJJNEpFdDc5Yzg?oc=5)
-
-2026-10-05
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZUN2WEx2UEZjaEVfOVZsRzgtYWN4Zll5Yl9wZ3NHOFl2Q01RVVY2VWl5Qm1oZkthaE9pcmlpSHY1dEpGYlhGM3R6TlM4dkFiTk5TcTRuOFpsOEs5bjVJV0F5MDRtSkFNcEg3clJuVF9DQnJERHgwVFMydjdWcndDVXh0V2VJc3A4NlJJNEpFdDc5Yzg?oc=5)
-
----
-
 ### [Divergent trial results on cancer vaccines have the field grappling with hard questions](https://news.google.com/rss/articles/CBMifkFVX3lxTFBEQUtNYjV0Y2tuVTRTeFhJdWdwb3NWbHExX0Jqb1gxXzA0Wjh4ZUVxM2cxRlVWTnhHcVl1N21mSXFleDRBb3hwZGRhdzhSRlA3TmhGeWdudTBVaHBub3g2dS1oVTJpRjJUeDFCSWI0M2NwSnZXamFhdm9Ic0g2Zw?oc=5)
 
 2026-10-05
@@ -87,19 +119,11 @@ Source: [STAT](https://news.google.com/rss/articles/CBMifkFVX3lxTFBEQUtNYjV0Y2tu
 
 ---
 
-### [Women suffer more pain than men across the whole body, major global study finds - The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxPTThFTVhyUmZGZS1hVUlucDNWYXU1SkJUN05RdTU1Y1NtUGlPbFlXUEQzSF9aQUNid2g1SnktZHVsMHlfTWlJZEJxN3gzSFVrQmJjYzNnRVNKRkNzSmliRjVSVXU5OExZd1pzbU83T1BIN2dnMFctbzJvcy1lRlZRR0d0QlpYd3k4dHNQVzlR?oc=5)
+### [Florida's dengue outbreak is largest in continental U.S. in decades](https://news.google.com/rss/articles/CBMipAFBVV95cUxQcC1DSjFDdzZiREgySzR4VjAzWVBhYjZRa1BDay1yQzJxeTJNQWtXakQ1Vl9PdVhQVnpZMEstcXNNZUFqOEdObm83Q245empRZE53VXd6Q1prQVBDVlFEckNZelZXZXV5OVNHNzhRMmQ2UnhWMV9KUmZlNDZYUjEzekZ2M1daand2ZFczUVMzZE9MNTNGeEw5VEpnNkt5MERXRmdSZw?oc=5)
 
 2026-10-05
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMijgFBVV95cUxPTThFTVhyUmZGZS1hVUlucDNWYXU1SkJUN05RdTU1Y1NtUGlPbFlXUEQzSF9aQUNid2g1SnktZHVsMHlfTWlJZEJxN3gzSFVrQmJjYzNnRVNKRkNzSmliRjVSVXU5OExZd1pzbU83T1BIN2dnMFctbzJvcy1lRlZRR0d0QlpYd3k4dHNQVzlR?oc=5)
-
----
-
-### [Scientists reveal what seven days of fasting does to the human body](https://news.google.com/rss/articles/CBMib0FVX3lxTE1iUHg0SExIRkpCQUFCWUk4LVMyc1pSczBEWlZxNHFuWDRkOVM1dkhIQlh2TDBHMUQwRkdnTExNempSeklfZldjUlhRakVXbHIwcWUxQVFqMkU1TllqQk1hUThfb251VXRPbklpSkRWUQ?oc=5)
-
-2026-10-05
-
-Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1iUHg0SExIRkpCQUFCWUk4LVMyc1pSczBEWlZxNHFuWDRkOVM1dkhIQlh2TDBHMUQwRkdnTExNempSeklfZldjUlhRakVXbHIwcWUxQVFqMkU1TllqQk1hUThfb251VXRPbklpSkRWUQ?oc=5)
+Source: [PBS](https://news.google.com/rss/articles/CBMipAFBVV95cUxQcC1DSjFDdzZiREgySzR4VjAzWVBhYjZRa1BDay1yQzJxeTJNQWtXakQ1Vl9PdVhQVnpZMEstcXNNZUFqOEdObm83Q245empRZE53VXd6Q1prQVBDVlFEckNZelZXZXV5OVNHNzhRMmQ2UnhWMV9KUmZlNDZYUjEzekZ2M1daand2ZFczUVMzZE9MNTNGeEw5VEpnNkt5MERXRmdSZw?oc=5)
 
 ---
 
@@ -119,11 +143,27 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMic0FVX3lxTE
 
 ---
 
-### [About 1 in 8 cancer cases worldwide are tied to these infections — most of them preventable](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYmNLUU50bXMtY3lnR0xaaGlPVTdiWWtTQ0J3SzlEc0FIZm9kTzBfUnpqZ0pRczRkRkdwUU9FVkNPVW1QdS1ZbFdYMlM1NmhNWTNKTGlJNDVwR09YOFlrYzVEc2R2N25RNEo4ZVNGT0Jkd293WVZobXI0NTZBajlreW5iWEozZHAtMFZpYXln?oc=5)
+### [Scientists reveal what seven days of fasting does to the human body](https://news.google.com/rss/articles/CBMib0FVX3lxTE1iUHg0SExIRkpCQUFCWUk4LVMyc1pSczBEWlZxNHFuWDRkOVM1dkhIQlh2TDBHMUQwRkdnTExNempSeklfZldjUlhRakVXbHIwcWUxQVFqMkU1TllqQk1hUThfb251VXRPbklpSkRWUQ?oc=5)
 
 2026-10-05
 
-Source: [CNN](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYmNLUU50bXMtY3lnR0xaaGlPVTdiWWtTQ0J3SzlEc0FIZm9kTzBfUnpqZ0pRczRkRkdwUU9FVkNPVW1QdS1ZbFdYMlM1NmhNWTNKTGlJNDVwR09YOFlrYzVEc2R2N25RNEo4ZVNGT0Jkd293WVZobXI0NTZBajlreW5iWEozZHAtMFZpYXln?oc=5)
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1iUHg0SExIRkpCQUFCWUk4LVMyc1pSczBEWlZxNHFuWDRkOVM1dkhIQlh2TDBHMUQwRkdnTExNempSeklfZldjUlhRakVXbHIwcWUxQVFqMkU1TllqQk1hUThfb251VXRPbklpSkRWUQ?oc=5)
+
+---
+
+### [Statin Side Effects: What the Evidence Shows](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZUN2WEx2UEZjaEVfOVZsRzgtYWN4Zll5Yl9wZ3NHOFl2Q01RVVY2VWl5Qm1oZkthaE9pcmlpSHY1dEpGYlhGM3R6TlM4dkFiTk5TcTRuOFpsOEs5bjVJV0F5MDRtSkFNcEg3clJuVF9DQnJERHgwVFMydjdWcndDVXh0V2VJc3A4NlJJNEpFdDc5Yzg?oc=5)
+
+2026-10-05
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMikwFBVV95cUxPZUN2WEx2UEZjaEVfOVZsRzgtYWN4Zll5Yl9wZ3NHOFl2Q01RVVY2VWl5Qm1oZkthaE9pcmlpSHY1dEpGYlhGM3R6TlM4dkFiTk5TcTRuOFpsOEs5bjVJV0F5MDRtSkFNcEg3clJuVF9DQnJERHgwVFMydjdWcndDVXh0V2VJc3A4NlJJNEpFdDc5Yzg?oc=5)
+
+---
+
+### [Is ‘bad’ cholesterol actually good? Cardiologists set the record straight - NBC News](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQjRoS0VQcnlER1h6a2xJbGxRcHU2TVV4MTB2ZnA5dm94VVF6NU0tLVhTVS11TTVVZHFxYlBuNmwzc0pNTTBMNUVab285Qm4wNkllN1ZCbUhCc1J0ajlCUGxmMzA0SG45MThibnJuSDFNOXlPT21lMmJmNVRReU5YSzg3dTJncjltdzZxaHFhdlNqZFFvV3U1bElVTC16QUlfdlk4aDdPNW5EbWl5YS1JMUFXY25YcVZuOWQzTjM5S2tCeVU?oc=5)
+
+2026-10-05
+
+Source: [NBC News](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQjRoS0VQcnlER1h6a2xJbGxRcHU2TVV4MTB2ZnA5dm94VVF6NU0tLVhTVS11TTVVZHFxYlBuNmwzc0pNTTBMNUVab285Qm4wNkllN1ZCbUhCc1J0ajlCUGxmMzA0SG45MThibnJuSDFNOXlPT21lMmJmNVRReU5YSzg3dTJncjltdzZxaHFhdlNqZFFvV3U1bElVTC16QUlfdlk4aDdPNW5EbWl5YS1JMUFXY25YcVZuOWQzTjM5S2tCeVU?oc=5)
 
 ---
 
@@ -143,14 +183,6 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxPeW
 
 ---
 
-### [We may have found the first direct evidence of a ninth major planet in the Solar System - BBC Sky at Night Magazine](https://news.google.com/rss/articles/CBMigAFBVV95cUxOOWZFajladEI5b21DUURTeGRxQTZXT3VmNFVXLWFjMHZwemhCVGhZQnVLVlNBOGJYQWJMX3BIcV91RVFCbldDbFprLTFPMEtycDZiWmY5NVkxSVFid2lDazdUeEZCcExjdmdOYy1EY3FEX3FEbzZOeVBhemtTNldKTw?oc=5)
-
-2026-10-05
-
-Source: [BBC Sky at Night Magazine](https://news.google.com/rss/articles/CBMigAFBVV95cUxOOWZFajladEI5b21DUURTeGRxQTZXT3VmNFVXLWFjMHZwemhCVGhZQnVLVlNBOGJYQWJMX3BIcV91RVFCbldDbFprLTFPMEtycDZiWmY5NVkxSVFid2lDazdUeEZCcExjdmdOYy1EY3FEX3FEbzZOeVBhemtTNldKTw?oc=5)
-
----
-
 ### [Long Beach child hospitalized with rare disease related to West Nile virus](https://news.google.com/rss/articles/CBMirAFBVV95cUxOeUgwWVlZN2pMX3pidU5TRVJoR2M3dWU4cGhQUW1KYXJHX0RVbF95N3NrcW5FY0pwQl9FS0QtV1FZQ0Jnc2RGM1k5ZWQ3cFA1RG9kd2p3VlZZVXpZSzk5ZVFPYUZfY1B4MWo0cXo0WmVxQmRNa2hVRjNvRzhtaUNPYk9sb2Z4b2NsZVFEUDFCNFhTU2g0M0ROOFFLSnRDZjZ5Wk5VZTRFTDl3V0t50gGyAUFVX3lxTE5YSjctRDdadnBLdFQ1OGNNeS0xcW1ValNuVkkzOGczZFFuc0h4VXBrRmwyak5Ed2dsOHpfcjVyYXNPOExHYjRvOEY4WFZJcTRrUk9xdmlSb1hONEE5OUstWVpfQi1vcURHV21mVkdoaFozcU80SVpWWURfaFc5aVJMT3BwOHpJd0RqdFZFcEx4U21MMmVEejJNSHVCbXdwRmxCZzN1S0l4MTBMQ2hCY1ZZRGc?oc=5)
 
 2026-10-05
@@ -159,11 +191,19 @@ Source: [KTLA](https://news.google.com/rss/articles/CBMirAFBVV95cUxOeUgwWVlZN2pM
 
 ---
 
-### [Screen time limits not enough to tackle problematic social media use: experts - National - Global News](https://news.google.com/rss/articles/CBMic0FVX3lxTE51U3FCdHlacGktN2h5X1ZmeG5NZVA4RFV4UGJ5X2UtaVBvNUlvdkx2LUx6UnV3UlJlRlpvQ0RUMjlyTE1VZU1MMW1XVXd5LVp1Q3NsMndRUkRiQldDV2w1TmNHaGlRRzJYNE9kalZqbUpOeUE?oc=5)
+### [How Congo’s Ebola Epidemic Got So Bad So Quickly - The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPb1E2QXFfdHh5YVFudTdTUnowN2F0RjBZQVNINDNEaFQ5TWtKc29JdXpZTjhsd1NMMXpwX0t6ajg2WUFYMEpLWVItZjJyQjJYNUZJSDVZVmFISEtXdldqamt3WExucXUxUUNvZkp6emw2bXN2SWhibHpjcGNRZEk4bDF4XzQ?oc=5)
+
+2026-10-05
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPb1E2QXFfdHh5YVFudTdTUnowN2F0RjBZQVNINDNEaFQ5TWtKc29JdXpZTjhsd1NMMXpwX0t6ajg2WUFYMEpLWVItZjJyQjJYNUZJSDVZVmFISEtXdldqamt3WExucXUxUUNvZkp6emw2bXN2SWhibHpjcGNRZEk4bDF4XzQ?oc=5)
+
+---
+
+### [Digital media can be dangerous. Kids use it anyway. Here’s what parents can do](https://news.google.com/rss/articles/CBMihAFBVV95cUxNVlZ2T2xyWnpiTWNrZ0JaSjFtY2xETXNMUWRlN3hkWVNtNTBnWmJCZEx2RlFxZDdhci1Ka011b2o1MEpCOTZienhDajVmRmdfN2gzWWpHU2NHNm9CVHFIUWZpYjBZcDg0N1d3TnhxRWRhcDlpS2xycFNMWFdZeU1hRVctbjc?oc=5)
 
 2026-10-04
 
-Source: [Global News](https://news.google.com/rss/articles/CBMic0FVX3lxTE51U3FCdHlacGktN2h5X1ZmeG5NZVA4RFV4UGJ5X2UtaVBvNUlvdkx2LUx6UnV3UlJlRlpvQ0RUMjlyTE1VZU1MMW1XVXd5LVp1Q3NsMndRUkRiQldDV2w1TmNHaGlRRzJYNE9kalZqbUpOeUE?oc=5)
+Source: [CNN](https://news.google.com/rss/articles/CBMihAFBVV95cUxNVlZ2T2xyWnpiTWNrZ0JaSjFtY2xETXNMUWRlN3hkWVNtNTBnWmJCZEx2RlFxZDdhci1Ka011b2o1MEpCOTZienhDajVmRmdfN2gzWWpHU2NHNm9CVHFIUWZpYjBZcDg0N1d3TnhxRWRhcDlpS2xycFNMWFdZeU1hRVctbjc?oc=5)
 
 ---
 
@@ -172,14 +212,6 @@ Source: [Global News](https://news.google.com/rss/articles/CBMic0FVX3lxTE51U3FCd
 2026-10-04
 
 Source: [Women's Health](https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ2hUM0FhdVBzb0hveWZRck9mbDBvLVdaR1NxeTFLQWpkalBOT3RCWUhQX2I5QkFDSjdnS3lrdmhvZThndl9sSHMzYS1vMzRic3drTFQxMDJFbS12WDJsYkVXVFRmd3NVRjZiZHltYXVmLWszdG8wX0NrUnN6TnZIejY3OXJiOGs?oc=5)
-
----
-
-### [A meteor hit Oklahoma 100 million years later than scientists thought](https://news.google.com/rss/articles/CBMib0FVX3lxTE5OaEd4Y3BpdGJhSmZqUkhyRFpGMXZoQzZpM19mVnRaREVQUFRROHY1bklzZ1hybUo0Snp1dTRmWGc0ZkllTk1uOHFHRlVNWlBCdk0waWRRdWJ6YWRKWmJjRDNxcVQ0SVRCS2E0enhHbw?oc=5)
-
-2026-10-04
-
-Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5OaEd4Y3BpdGJhSmZqUkhyRFpGMXZoQzZpM19mVnRaREVQUFRROHY1bklzZ1hybUo0Snp1dTRmWGc0ZkllTk1uOHFHRlVNWlBCdk0waWRRdWJ6YWRKWmJjRDNxcVQ0SVRCS2E0enhHbw?oc=5)
 
 ---
 
@@ -204,14 +236,6 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMisgFBVV95cUxNV
 2026-10-03
 
 Source: [404 Media](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZjlESnc1TGdWdHNjUHBuMG1pUFJOQ09zNGt6THR6cnhXVjNPLUQxNEhGM1ljcXZlemhrcFpjdXZMc3BqdVRMSWhCZ1JOUGloemhOREJ4Z2hPQzVxTDk1WS1HY28zZ1VEbXBxM09aR09OZjZZMkpPaWhFV0d2ZUtrMngwVk9OUV9RYWh1M01oUUw1b3A5WVkwNWhyY0tUekJtWGp2OXNIQjhJOVFMSEE?oc=5)
-
----
-
-### [Team selected for NASA program to explore potential lunar cave](https://news.google.com/rss/articles/CBMid0FVX3lxTE5CZ3NJT1FWNkh5SmNlTm5iNk9iUERkamVicHFDZWYzeVBMNzI5bE1EczEtaUhUZ1JZTzVWRUFUSmtkdVBocmthdVlvdFBSSDZLS2xFT0lYeUIyeXlkOWxtamxERDBMR19fNWxkM3J3bWxJN0JRd0l3?oc=5)
-
-2026-10-02
-
-Source: [Phys.org](https://news.google.com/rss/articles/CBMid0FVX3lxTE5CZ3NJT1FWNkh5SmNlTm5iNk9iUERkamVicHFDZWYzeVBMNzI5bE1EczEtaUhUZ1JZTzVWRUFUSmtkdVBocmthdVlvdFBSSDZLS2xFT0lYeUIyeXlkOWxtamxERDBMR19fNWxkM3J3bWxJN0JRd0l3?oc=5)
 
 ---
 
@@ -241,7 +265,7 @@ Source: [Technology Org](https://news.google.com/rss/articles/CBMikwFBVV95cUxPbl
 
 ### [1 in 9 Older Cannabis Users in the US May Have CUD](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVmNseHE2bV9kcG84OG5PajVrVkMycnFzVXlqUUFzNjVMMnNTc2NyZ3BqNGQ5bW1qbV9FVzVfajZ4bVVzUmVSMUk5MlVKbEo3UEx4TWxZalVrQVhaLW92N1dvbHFPMURpUzQxaFc2M2FkX3k0TGgxOW1HZGNGS2Q4T1gwSlJsenhCREl0X0lXRHJsNmZ2bTN0c0dRT2IxcEpyZTlvdlBtNHRuRGM?oc=5)
 
-2026-10-02
+2026-10-01
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVmNseHE2bV9kcG84OG5PajVrVkMycnFzVXlqUUFzNjVMMnNTc2NyZ3BqNGQ5bW1qbV9FVzVfajZ4bVVzUmVSMUk5MlVKbEo3UEx4TWxZalVrQVhaLW92N1dvbHFPMURpUzQxaFc2M2FkX3k0TGgxOW1HZGNGS2Q4T1gwSlJsenhCREl0X0lXRHJsNmZ2bTN0c0dRT2IxcEpyZTlvdlBtNHRuRGM?oc=5)
 

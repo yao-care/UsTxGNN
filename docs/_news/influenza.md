@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 6 articles, 2 related drugs."
+description: "Health news about flu (influenza). 5 articles, 2 related drugs."
 permalink: /news/influenza/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/influenza/
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>6 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>5 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (6)
+## Related News (5)
 
 ### [In wake of Legionnaires' outbreaks, a debate over NYC's water and industry influence](https://news.google.com/rss/articles/CBMirAFBVV95cUxPeXI0TjNhR01KZndPb0ZzaTh1bHhFZmVXY1o4dVZsMEgxaW1SZzJIQkxUOGJaUFFmdTlUa2lmclUwVXlCeDJ5d1p0QUgydmpwSlM5MlBUZVBULTJOZjRad3ZLSW03aW1mLWVsN3Q1MzdaaFhMOUNuR1RRRFJkZUx2a01ZUzRFaGZlQkVXR3F2NzJUbVNYcVdjZHQ0VHVvTm1ESnd6WThzS3VIekI0?oc=5)
 
@@ -48,27 +48,19 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxPeW
 
 ---
 
-### [Why you should think about getting your flu shot right now - The Washington Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdm5JSzctSS1QMERLdEYzQ01JbUNFT090QXk5WDR6amZpVE91TnFRa0xoLUo3SGQyaHFWUFY2T0dyMUtHM2YxVUVnVXBOM1ZaZGgzWU1FeTJLZlNpMVV2NHFpT3pOZW45UVlnczdCdnF3UG14a2VfN2VOZjZ1dy1SZ1cwaHQyNDJiNUNKel9tY2pLVXg2MFgtUVhvczRhcnBDbXhMTQ?oc=5)
-
-2026-10-04
-
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdm5JSzctSS1QMERLdEYzQ01JbUNFT090QXk5WDR6amZpVE91TnFRa0xoLUo3SGQyaHFWUFY2T0dyMUtHM2YxVUVnVXBOM1ZaZGgzWU1FeTJLZlNpMVV2NHFpT3pOZW45UVlnczdCdnF3UG14a2VfN2VOZjZ1dy1SZ1cwaHQyNDJiNUNKel9tY2pLVXg2MFgtUVhvczRhcnBDbXhMTQ?oc=5)
-
----
-
-### [Most people with flu stop isolating at exactly the wrong time, CDC study finds - San Francisco Chronicle](https://news.google.com/rss/articles/CBMijAFBVV95cUxORXNPRDVkZkVlZFd0TGYyQkZ2a3JRd2twOUlhZjc2Znd3Y1lRbjNYc2RGejhDb1pnTFJPS19QZnlURnJWRzB6LUFMUHQwWGpxWmJCV25BWWFYcGJfZktGRFpHS2VUVnFTa09GVTB5ZmpyOEY2M1l4UWdicUdBTTlWeUZtQnpsTHNXbGNlNA?oc=5)
-
-2026-10-04
-
-Source: [San Francisco Chronicle](https://news.google.com/rss/articles/CBMijAFBVV95cUxORXNPRDVkZkVlZFd0TGYyQkZ2a3JRd2twOUlhZjc2Znd3Y1lRbjNYc2RGejhDb1pnTFJPS19QZnlURnJWRzB6LUFMUHQwWGpxWmJCV25BWWFYcGJfZktGRFpHS2VUVnFTa09GVTB5ZmpyOEY2M1l4UWdicUdBTTlWeUZtQnpsTHNXbGNlNA?oc=5)
-
----
-
-### [Patient-zero drill put health facilities to the test—40% of them failed - Ars Technica](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEtuRG1GdjRaNndMa3JzTVBtaU1uUXA3YmMxRFFxMHVES2RvMTlJRlRfd0FyUEw4UXNkTXhKMU9VWHJtRTB2RUx3Y1V0Z0FZSVFJVkNERzFGQXV4ZGhJQmhTWjhoV2YxMDdCSHpWN0JxUUNyc1ZoeGllY2tIdFFnZ0Z4Zm82LTdjQ29tYVlBcXRoamVpYXd4dWVkb2pRUG50UzVnbVN4M19mSkxUUHFV?oc=5)
+### [Patient-zero drill put health facilities to the test—40% of them failed](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEtuRG1GdjRaNndMa3JzTVBtaU1uUXA3YmMxRFFxMHVES2RvMTlJRlRfd0FyUEw4UXNkTXhKMU9VWHJtRTB2RUx3Y1V0Z0FZSVFJVkNERzFGQXV4ZGhJQmhTWjhoV2YxMDdCSHpWN0JxUUNyc1ZoeGllY2tIdFFnZ0Z4Zm82LTdjQ29tYVlBcXRoamVpYXd4dWVkb2pRUG50UzVnbVN4M19mSkxUUHFV?oc=5)
 
 2026-10-02
 
-Source: [Ars Technica](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEtuRG1GdjRaNndMa3JzTVBtaU1uUXA3YmMxRFFxMHVES2RvMTlJRlRfd0FyUEw4UXNkTXhKMU9VWHJtRTB2RUx3Y1V0Z0FZSVFJVkNERzFGQXV4ZGhJQmhTWjhoV2YxMDdCSHpWN0JxUUNyc1ZoeGllY2tIdFFnZ0Z4Zm82LTdjQ29tYVlBcXRoamVpYXd4dWVkb2pRUG50UzVnbVN4M19mSkxUUHFV?oc=5)
+Source: [arstechnica.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEtuRG1GdjRaNndMa3JzTVBtaU1uUXA3YmMxRFFxMHVES2RvMTlJRlRfd0FyUEw4UXNkTXhKMU9VWHJtRTB2RUx3Y1V0Z0FZSVFJVkNERzFGQXV4ZGhJQmhTWjhoV2YxMDdCSHpWN0JxUUNyc1ZoeGllY2tIdFFnZ0Z4Zm82LTdjQ29tYVlBcXRoamVpYXd4dWVkb2pRUG50UzVnbVN4M19mSkxUUHFV?oc=5)
+
+---
+
+### [When should I get the flu shot? What experts say is the ideal time to protect yourself - NBC Connecticut](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNWlNNTNpcF9RajByN2FmYlVPbklqb2ZWMWdYTkNzaVBuTloyb0YtWkp6YWFkcTJZN1JBVjRnUnJnTFhZcU9mbHE1QlphN0JWUVpBMGMxS05pcVN4dVhWNTB5cUkwelBXd3NQdmJ1YzU4OTM5Qzhab3hZazJuRE1XSjNWZVlhb2o0WlJKdFA2Wk5fMFpXNXBlVHhCQ3B2dVVGNGtnWnpLVXBsc29tX25rdTNoWFZ0cUVM0gHAAUFVX3lxTFBGb2p4dzhhY3BSZVdsWUxGaHhObTN6dWFBNjdvQU5jelUxb1NHT1hNQnNMTVItNmhyZjlraVcwT1hqcU5SV2JGMXdFT1pzQTdCTnVYRnpIT3RZVFppbWtrMXRuc3Y2LUR3S3M5NG12UXFONDFpOXV6dC1URFFzMVJYazBQckNpTzJfMDI1UmQ5RDRwblpndHBwWVZHN3NJVV9nUTZZS2NvOUdnLVluMjQwVXFTd0RwUW5fVHJPcHJMZA?oc=5)
+
+2026-10-02
+
+Source: [NBC Connecticut](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNWlNNTNpcF9RajByN2FmYlVPbklqb2ZWMWdYTkNzaVBuTloyb0YtWkp6YWFkcTJZN1JBVjRnUnJnTFhZcU9mbHE1QlphN0JWUVpBMGMxS05pcVN4dVhWNTB5cUkwelBXd3NQdmJ1YzU4OTM5Qzhab3hZazJuRE1XSjNWZVlhb2o0WlJKdFA2Wk5fMFpXNXBlVHhCQ3B2dVVGNGtnWnpLVXBsc29tX25rdTNoWFZ0cUVM0gHAAUFVX3lxTFBGb2p4dzhhY3BSZVdsWUxGaHhObTN6dWFBNjdvQU5jelUxb1NHT1hNQnNMTVItNmhyZjlraVcwT1hqcU5SV2JGMXdFT1pzQTdCTnVYRnpIT3RZVFppbWtrMXRuc3Y2LUR3S3M5NG12UXFONDFpOXV6dC1URFFzMVJYazBQckNpTzJfMDI1UmQ5RDRwblpndHBwWVZHN3NJVV9nUTZZS2NvOUdnLVluMjQwVXFTd0RwUW5fVHJPcHJMZA?oc=5)
 
 ---
 
